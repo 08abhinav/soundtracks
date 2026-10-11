@@ -1450,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learning Life: Mysteeri 24/7 | 193434 | [193434-learning-life-mysteeri-24-7.json](./193434-learning-life-mysteeri-24-7.json) |
 | Learning the Ropes | 364673 | [364673-learning-the-ropes.json](./364673-learning-the-ropes.json) |
 | Learning with FuzzyWomp | 72030 | [72030-learning-with-fuzzywomp.json](./72030-learning-with-fuzzywomp.json) |
+| Learning with Leap | 230433 | [230433-learning-with-leap.json](./230433-learning-with-leap.json) |
 | Learnmoor: Kids Academy | 394350 | [394350-learnmoor-kids-academy.json](./394350-learnmoor-kids-academy.json) |
 | Leas: City of the Sun | 334477 | [334477-leas-city-of-the-sun.json](./334477-leas-city-of-the-sun.json) |
 | Leather Goddesses of Phobos | 12174 | [12174-leather-goddesses-of-phobos.json](./12174-leather-goddesses-of-phobos.json) |
@@ -2549,6 +2550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LetterMeister | 173802 | [173802-lettermeister.json](./173802-lettermeister.json) |
 | Letterorites | 58460 | [58460-letterorites.json](./58460-letterorites.json) |
 | Letterpad | 60076 | [60076-letterpad.json](./60076-letterpad.json) |
+| Letterpillar | 230434 | [230434-letterpillar.json](./230434-letterpillar.json) |
 | Letterpress: Word Game | 87168 | [87168-letterpress-word-game.json](./87168-letterpress-word-game.json) |
 | Letters | 314307 | [314307-letters.json](./314307-letters.json) |
 | Letters | 57502 | [57502-letters.json](./57502-letters.json) |
