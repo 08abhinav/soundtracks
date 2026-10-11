@@ -7729,6 +7729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Factory 3: A Fantasy Harvest Moon | 9640 | [9640-rune-factory-3-a-fantasy-harvest-moon.json](./9640-rune-factory-3-a-fantasy-harvest-moon.json) |
 | Rune Factory 4 | 6874 | [6874-rune-factory-4.json](./6874-rune-factory-4.json) |
 | Rune Factory 4 Special | 115278 | [115278-rune-factory-4-special.json](./115278-rune-factory-4-special.json) |
+| Rune Factory 4 Special: Another Episode Pack | 237997 | [237997-rune-factory-4-special-another-episode-pack.json](./237997-rune-factory-4-special-another-episode-pack.json) |
 | Rune Factory 4 Special: Archival Edition | 136190 | [136190-rune-factory-4-special-archival-edition.json](./136190-rune-factory-4-special-archival-edition.json) |
 | Rune Factory 5 | 115279 | [115279-rune-factory-5.json](./115279-rune-factory-5.json) |
 | Rune Factory 5: Premium Box Limited Edition | 148156 | [148156-rune-factory-5-premium-box-limited-edition.json](./148156-rune-factory-5-premium-box-limited-edition.json) |
