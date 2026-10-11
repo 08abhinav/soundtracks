@@ -1007,6 +1007,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27305d2c6b824cbf0babfd19bcc" width="60" /> | [The Witcher: Enhanced Edition](https://ostdb.net/games/the-witcher-enhanced-edition) | **The Witcher (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/19uGvOnAhqEQ7irwCEce99) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736b0edc9f63c99a1454a9f6d3" width="60" /> | [Thief](https://ostdb.net/games/thief) | **Thief (Original Soundtrack - Director's Cut)** · [Spotify](https://open.spotify.com/album/17oWmJUNsl9GLGAGo4eUdx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732cff40156a150f6c73d345d7" width="60" /> | [This War of Mine](https://ostdb.net/games/this-war-of-mine) | **This War of Mine (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4XgslC8ZcPPxaiuBLmKoKU) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/f5/6b/f2/f56bf2f3-5070-73fd-2a9c-b2e109fb76de/0000451925846.jpg/600x600bb.jpg" width="60" /> | [Thronebreaker: The Witcher Tales](https://ostdb.net/games/thronebreaker-the-witcher-tales) | **Thronebreaker: The Witcher Tales (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3dB7GJBPHfEPtaQ38yLBpX) · [Apple Music](https://music.apple.com/us/album/thronebreaker-the-witcher-tales-original-game-soundtrack/1445188244) · [Album](https://album.link/i/1445188244) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/a0/46/5ca046b5-e6b0-eaa6-5c4a-e794904a7c59/artwork.jpg/600x600bb.jpg" width="60" /> | [Tiny Glade](https://ostdb.net/games/tiny-glade) | **Tiny Glade (Original Video Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/tiny-glade-original-video-game-soundtrack/1770531849?uo=4) · [Album](https://album.link/i/1770531849) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e23b4eca6e885b7c1c4aa4b" width="60" /> | [Titanfall](https://ostdb.net/games/titanfall) | **Titanfall** · [Spotify](https://open.spotify.com/album/5jbYUxvdzAj6zpSp01o1J8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8b008615918e3da909a455e" width="60" /> | [Titanfall 2](https://ostdb.net/games/titanfall-2) | **Titanfall 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6obLTHdJ6Dt2fubk4iP9QB) |
@@ -1144,4 +1145,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1469 soundtracks · last updated 2026-10-11T19:55:26.520Z_
+_1470 soundtracks · last updated 2026-10-11T19:55:38.468Z_
