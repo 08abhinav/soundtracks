@@ -6167,7 +6167,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forge: Steel Frontier | 414869 | [414869-the-forge-steel-frontier.json](./414869-the-forge-steel-frontier.json) |
 | The Forger | 166060 | [166060-the-forger.json](./166060-the-forger.json) |
 | The Forgers | 352186 | [352186-the-forgers.json](./352186-the-forgers.json) |
-| The Forgotten City | 103320 | [103320-the-forgotten-city.json](./103320-the-forgotten-city.json) |
 | The Forgotten City: Cloud Version | 173145 | [173145-the-forgotten-city-cloud-version.json](./173145-the-forgotten-city-cloud-version.json) |
 | The Forgotten City: Digital Collector's Edition | 167179 | [167179-the-forgotten-city-digital-collectors-edition.json](./167179-the-forgotten-city-digital-collectors-edition.json) |
 | The Forgotten Demons | 197195 | [197195-the-forgotten-demons.json](./197195-the-forgotten-demons.json) |
@@ -10833,7 +10832,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stamp | 332591 | [332591-the-stamp.json](./332591-the-stamp.json) |
 | The Standard Model | 307208 | [307208-the-standard-model.json](./307208-the-standard-model.json) |
 | The Stanley Parable | 18453 | [18453-the-stanley-parable.json](./18453-the-stanley-parable.json) |
-| The Stanley Parable: Ultra Deluxe | 113119 | [113119-the-stanley-parable-ultra-deluxe.json](./113119-the-stanley-parable-ultra-deluxe.json) |
 | The Star Bowling DX | 386680 | [386680-the-star-bowling-dx.json](./386680-the-star-bowling-dx.json) |
 | The Star Named Eos | 226505 | [226505-the-star-named-eos.json](./226505-the-star-named-eos.json) |
 | The Starfallen Prince | 385241 | [385241-the-starfallen-prince.json](./385241-the-starfallen-prince.json) |
