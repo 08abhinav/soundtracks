@@ -2434,6 +2434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kisaragi no Hougyoku | 32132 | [32132-kisaragi-no-hougyoku.json](./32132-kisaragi-no-hougyoku.json) |
 | Kisaragi's Dangerously Erotic Certification Exam! Resistance Is Futile | 82752 | [82752-kisaragis-dangerously-erotic-certification-exam-resistance-is-futile.json](./82752-kisaragis-dangerously-erotic-certification-exam-resistance-is-futile.json) |
 | Kisei Joker | 417457 | [417457-kisei-joker.json](./417457-kisei-joker.json) |
+| Kisekae Monogatari | 228612 | [228612-kisekae-monogatari.json](./228612-kisekae-monogatari.json) |
 | Kisekimura | 149547 | [149547-kisekimura.json](./149547-kisekimura.json) |
 | Kisekimura: ZumiIwa | 202641 | [202641-kisekimura-zumiiwa.json](./202641-kisekimura-zumiiwa.json) |
 | Kisen: Seeker of Aenjan City | 390129 | [390129-kisen-seeker-of-aenjan-city.json](./390129-kisen-seeker-of-aenjan-city.json) |
@@ -2498,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kissrim | 378917 | [378917-kissrim.json](./378917-kissrim.json) |
 | Kisten Royale | 352228 | [352228-kisten-royale.json](./352228-kisten-royale.json) |
 | Kit Cat | 297806 | [297806-kit-cat.json](./297806-kit-cat.json) |
+| Kit's Quest | 228634 | [228634-kits-quest.json](./228634-kits-quest.json) |
 | Kita e. Photo Memories | 239082 | [239082-kita-e-photo-memories.json](./239082-kita-e-photo-memories.json) |
 | Kita he: White Illumination | 237433 | [237433-kita-he-white-illumination.json](./237433-kita-he-white-illumination.json) |
 | Kita he. Diamond Dust + Kiss is Beginning. | 60399 | [60399-kita-he-diamond-dust-kiss-is-beginning.json](./60399-kita-he-diamond-dust-kiss-is-beginning.json) |
