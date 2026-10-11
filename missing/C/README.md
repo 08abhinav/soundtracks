@@ -223,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafeland: World Kitchen | 120253 | [120253-cafeland-world-kitchen.json](./120253-cafeland-world-kitchen.json) |
 | Cafeteria Nipponica | 22323 | [22323-cafeteria-nipponica.json](./22323-cafeteria-nipponica.json) |
 | Cafeworld | 177027 | [177027-cafeworld.json](./177027-cafeworld.json) |
+| Cafon Street | 235126 | [235126-cafon-street.json](./235126-cafon-street.json) |
 | Cage Fight | 257406 | [257406-cage-fight.json](./257406-cage-fight.json) |
 | Cage Fight 3D | 220054 | [220054-cage-fight-3d.json](./220054-cage-fight-3d.json) |
 | Cage in My Head in My Cage in My Head in My | 389686 | [389686-cage-in-my-head-in-my-cage-in-my-head-in-my.json](./389686-cage-in-my-head-in-my-cage-in-my-head-in-my.json) |
@@ -1514,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards +1 | 182850 | [182850-cards-1.json](./182850-cards-1.json) |
 | Cards after Midnight | 420538 | [420538-cards-after-midnight.json](./420538-cards-after-midnight.json) |
 | Cards Against Formality | 287005 | [287005-cards-against-formality.json](./287005-cards-against-formality.json) |
+| Cards Against Humanity Lab | 235260 | [235260-cards-against-humanity-lab.json](./235260-cards-against-humanity-lab.json) |
 | Cards and Castles | 35497 | [35497-cards-and-castles.json](./35497-cards-and-castles.json) |
 | Cards and Castles 2 | 178080 | [178080-cards-and-castles-2.json](./178080-cards-and-castles-2.json) |
 | Cards and Dungeons | 325114 | [325114-cards-and-dungeons.json](./325114-cards-and-dungeons.json) |
@@ -3100,6 +3102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celeste Classic 2: Lani's Trek | 142841 | [142841-celeste-classic-2-lanis-trek.json](./142841-celeste-classic-2-lanis-trek.json) |
 | Celeste Classic 2: Lani's Trek | 366101 | [366101-celeste-classic-2-lanis-trek.json](./366101-celeste-classic-2-lanis-trek.json) |
 | Celeste Fusion Collab | 358282 | [358282-celeste-fusion-collab.json](./358282-celeste-fusion-collab.json) |
+| Celeste Strawberry Jam | 235102 | [235102-celeste-strawberry-jam.json](./235102-celeste-strawberry-jam.json) |
 | Celeste: Farewell | 122556 | [122556-celeste-farewell.json](./122556-celeste-farewell.json) |
 | Celestia | 183432 | [183432-celestia.json](./183432-celestia.json) |
 | Celestia Ultimate | 249475 | [249475-celestia-ultimate.json](./249475-celestia-ultimate.json) |
@@ -5099,6 +5102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrome Carnage | 398345 | [398345-chrome-carnage.json](./398345-chrome-carnage.json) |
 | Chrome Death | 259247 | [259247-chrome-death.json](./259247-chrome-death.json) |
 | Chrome Switcher | 148490 | [148490-chrome-switcher.json](./148490-chrome-switcher.json) |
+| Chrome Wars | 235244 | [235244-chrome-wars.json](./235244-chrome-wars.json) |
 | Chromium Man Clicker | 334834 | [334834-chromium-man-clicker.json](./334834-chromium-man-clicker.json) |
 | Chromo XY | 103558 | [103558-chromo-xy.json](./103558-chromo-xy.json) |
 | Chromocide: Prism of Sin | 294171 | [294171-chromocide-prism-of-sin.json](./294171-chromocide-prism-of-sin.json) |
@@ -8423,6 +8427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquests of Camelot: The Search for the Grail | 7566 | [7566-conquests-of-camelot-the-search-for-the-grail.json](./7566-conquests-of-camelot-the-search-for-the-grail.json) |
 | Conquests of the Longbow: The Legend of Robin Hood | 7567 | [7567-conquests-of-the-longbow-the-legend-of-robin-hood.json](./7567-conquests-of-the-longbow-the-legend-of-robin-hood.json) |
 | Conquist | 205089 | [205089-conquist.json](./205089-conquist.json) |
+| Conquist Tournament | 235250 | [235250-conquist-tournament.json](./235250-conquist-tournament.json) |
 | Conquista: Tide of Wills | 415116 | [415116-conquista-tide-of-wills.json](./415116-conquista-tide-of-wills.json) |
 | Conquistador | 236918 | [236918-conquistador.json](./236918-conquistador.json) |
 | Conquistador | 323803 | [323803-conquistador.json](./323803-conquistador.json) |
