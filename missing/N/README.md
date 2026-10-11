@@ -2807,6 +2807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Stalkers | 190128 | [190128-night-stalkers.json](./190128-night-stalkers.json) |
 | Night Stocker | 37329 | [37329-night-stocker.json](./37329-night-stocker.json) |
 | Night Stones | 239711 | [239711-night-stones.json](./239711-night-stones.json) |
+| Night Stop | 228319 | [228319-night-stop.json](./228319-night-stop.json) |
 | Night Striker | 37324 | [37324-night-striker.json](./37324-night-striker.json) |
 | Night Striker Gear | 330380 | [330380-night-striker-gear.json](./330380-night-striker-gear.json) |
 | Night Swarm | 343477 | [343477-night-swarm.json](./343477-night-swarm.json) |
