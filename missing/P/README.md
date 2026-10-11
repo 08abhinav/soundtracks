@@ -11341,6 +11341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Block Blast | 221382 | [221382-puzzle-block-blast.json](./221382-puzzle-block-blast.json) |
 | Puzzle Block Wood - Wooden Block & Puzzle Game | 100936 | [100936-puzzle-block-wood-wooden-block-and-puzzle-game.json](./100936-puzzle-block-wood-wooden-block-and-puzzle-game.json) |
 | Puzzle Blocks | 83937 | [83937-puzzle-blocks.json](./83937-puzzle-blocks.json) |
+| Puzzle Blox | 233410 | [233410-puzzle-blox.json](./233410-puzzle-blox.json) |
 | Puzzle Bobble 2X & Space Invaders | 79528 | [79528-puzzle-bobble-2x-and-space-invaders.json](./79528-puzzle-bobble-2x-and-space-invaders.json) |
 | Puzzle Bobble 2X/Bust-A-Move 2: Arcade Edition & Puzzle Bobble 3/Bust-A-Move 3: S-Tribute | 233580 | [233580-puzzle-bobble-2x-bust-a-move-2-arcade-edition-and-puzzle-bobble-3-bust-a-move-3-s-tribute.json](./233580-puzzle-bobble-2x-bust-a-move-2-arcade-edition-and-puzzle-bobble-3-bust-a-move-3-s-tribute.json) |
 | Puzzle Bobble Everybubble! | 215033 | [215033-puzzle-bobble-everybubble.json](./215033-puzzle-bobble-everybubble.json) |
