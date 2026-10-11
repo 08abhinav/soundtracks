@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 11: Aerosoft - Airport Bali | 162787 | [162787-x-plane-11-aerosoft-airport-bali.json](./162787-x-plane-11-aerosoft-airport-bali.json) |
 | X-Plane 11: Aerosoft - Airport Bergen | 162759 | [162759-x-plane-11-aerosoft-airport-bergen.json](./162759-x-plane-11-aerosoft-airport-bergen.json) |
 | X-Plane 11: Aerosoft - Airport Berlin Brandenburg V2 | 162762 | [162762-x-plane-11-aerosoft-airport-berlin-brandenburg-v2.json](./162762-x-plane-11-aerosoft-airport-berlin-brandenburg-v2.json) |
+| X-Plane 11: Aerosoft - Airport Berlin-Brandenburg | 238541 | [238541-x-plane-11-aerosoft-airport-berlin-brandenburg.json](./238541-x-plane-11-aerosoft-airport-berlin-brandenburg.json) |
 | X-Plane 11: Aerosoft - Airport Berlin-Tegel | 162808 | [162808-x-plane-11-aerosoft-airport-berlin-tegel.json](./162808-x-plane-11-aerosoft-airport-berlin-tegel.json) |
 | X-Plane 11: Aerosoft - Airport Bonaire Flamingo | 162777 | [162777-x-plane-11-aerosoft-airport-bonaire-flamingo.json](./162777-x-plane-11-aerosoft-airport-bonaire-flamingo.json) |
 | X-Plane 11: Aerosoft - Airport Calvi | 162782 | [162782-x-plane-11-aerosoft-airport-calvi.json](./162782-x-plane-11-aerosoft-airport-calvi.json) |
