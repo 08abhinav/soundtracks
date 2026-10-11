@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T21:45:14.243Z",
-  "total_soundtracks": 1484,
+  "generated_at": "2026-10-11T21:45:27.856Z",
+  "total_soundtracks": 1485,
   "games": [
     {
       "igdb_id": 7522,
@@ -9219,6 +9219,20 @@
           "spotify_url": "https://open.spotify.com/album/3m7cunqxVwbQJxEvljkmEj",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 1310,
+      "game_name": "Medal of Honor: Pacific Assault",
+      "game_url": "https://ostdb.net/games/medal-of-honor-pacific-assault",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/52/46/30/5246306c-0329-26fa-4cd6-68b5d87b6ee3/780163559927.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Medal of Honor: Pacific Assault (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3JgCdYr7asDpQ0Q7HV4JTx",
+          "apple_music_url": "https://music.apple.com/us/album/medal-of-honor-pacific-assault-original-soundtrack/1496644722",
+          "album_link_url": "https://album.link/i/1496644722"
         }
       ]
     },
