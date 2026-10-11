@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T21:19:49.886Z",
-  "total_missing": 198964,
+  "generated_at": "2026-10-11T21:36:39.883Z",
+  "total_missing": 198998,
   "games": [
     {
       "igdb_id": 191680,
@@ -5056,6 +5056,11 @@
       "igdb_id": 268679,
       "game_name": "2048 3D",
       "file": "missing/0-9/268679-2048-3d.json"
+    },
+    {
+      "igdb_id": 231839,
+      "game_name": "2048 7x7",
+      "file": "missing/0-9/231839-2048-7x7.json"
     },
     {
       "igdb_id": 250216,
@@ -25696,6 +25701,11 @@
       "igdb_id": 223960,
       "game_name": "Air Attack 3D: Sky War",
       "file": "missing/A/223960-air-attack-3d-sky-war.json"
+    },
+    {
+      "igdb_id": 231844,
+      "game_name": "Air Attack VR",
+      "file": "missing/A/231844-air-attack-vr.json"
     },
     {
       "igdb_id": 146818,
@@ -65193,6 +65203,11 @@
       "file": "missing/A/14445-avoid-the-noid.json"
     },
     {
+      "igdb_id": 231836,
+      "game_name": "Avoid the Rain 2",
+      "file": "missing/A/231836-avoid-the-rain-2.json"
+    },
+    {
       "igdb_id": 359439,
       "game_name": "Avoid the Threats",
       "file": "missing/A/359439-avoid-the-threats.json"
@@ -87551,6 +87566,11 @@
       "igdb_id": 93130,
       "game_name": "Bert and the Snake",
       "file": "missing/B/93130-bert-and-the-snake.json"
+    },
+    {
+      "igdb_id": 231831,
+      "game_name": "Bert's Family Feud: The Interactive DVD Game",
+      "file": "missing/B/231831-berts-family-feud-the-interactive-dvd-game.json"
     },
     {
       "igdb_id": 314367,
@@ -130558,6 +130578,11 @@
       "file": "missing/C/276213-car-mechanic-simulator-2021-bmw-dlc.json"
     },
     {
+      "igdb_id": 231841,
+      "game_name": "Car Mechanic Simulator 2021: Mercedes-Benz Remastered DLC",
+      "file": "missing/C/231841-car-mechanic-simulator-2021-mercedes-benz-remastered-dlc.json"
+    },
+    {
       "igdb_id": 285696,
       "game_name": "Car Mechanic Simulator 2021: Rims",
       "file": "missing/C/285696-car-mechanic-simulator-2021-rims.json"
@@ -136523,6 +136548,11 @@
       "file": "missing/C/329530-cat-rescue.json"
     },
     {
+      "igdb_id": 231958,
+      "game_name": "Cat Rescue Helicopter",
+      "file": "missing/C/231958-cat-rescue-helicopter.json"
+    },
+    {
       "igdb_id": 345650,
       "game_name": "Cat Rescue Inc.",
       "file": "missing/C/345650-cat-rescue-inc.json"
@@ -138256,6 +138286,11 @@
       "igdb_id": 268567,
       "game_name": "Cats Super Bundle",
       "file": "missing/C/268567-cats-super-bundle.json"
+    },
+    {
+      "igdb_id": 231957,
+      "game_name": "Cats the Commander",
+      "file": "missing/C/231957-cats-the-commander.json"
     },
     {
       "igdb_id": 330235,
@@ -146316,6 +146351,11 @@
       "igdb_id": 152777,
       "game_name": "ChicScape",
       "file": "missing/C/152777-chicscape.json"
+    },
+    {
+      "igdb_id": 231959,
+      "game_name": "Chief Almighty",
+      "file": "missing/C/231959-chief-almighty.json"
     },
     {
       "igdb_id": 413163,
@@ -180753,6 +180793,11 @@
       "file": "missing/C/26723-crowtel-renovations.json"
     },
     {
+      "igdb_id": 231960,
+      "game_name": "CRSED: Cuisine Royale",
+      "file": "missing/C/231960-crsed-cuisine-royale.json"
+    },
+    {
       "igdb_id": 171062,
       "game_name": "CRSED: F.O.A.D. - Age of Nagual",
       "file": "missing/C/171062-crsed-f-o-a-d-age-of-nagual.json"
@@ -183556,6 +183601,11 @@
       "igdb_id": 86882,
       "game_name": "Cube Snap 2",
       "file": "missing/C/86882-cube-snap-2.json"
+    },
+    {
+      "igdb_id": 231961,
+      "game_name": "Cube Solver",
+      "file": "missing/C/231961-cube-solver.json"
     },
     {
       "igdb_id": 163195,
@@ -206068,6 +206118,11 @@
       "file": "missing/D/284400-deers-and-deckards.json"
     },
     {
+      "igdb_id": 231962,
+      "game_name": "Deesse: Love and War",
+      "file": "missing/D/231962-deesse-love-and-war.json"
+    },
+    {
       "igdb_id": 114340,
       "game_name": "Deez",
       "file": "missing/D/114340-deez.json"
@@ -206611,6 +206666,11 @@
       "igdb_id": 240681,
       "game_name": "Defendun",
       "file": "missing/D/240681-defendun.json"
+    },
+    {
+      "igdb_id": 231963,
+      "game_name": "Defense & Protect Epic Towers",
+      "file": "missing/D/231963-defense-and-protect-epic-towers.json"
     },
     {
       "igdb_id": 267298,
@@ -219151,6 +219211,11 @@
       "igdb_id": 253975,
       "game_name": "Dinosaur Shakespeare: To Date Or Not To Date? - 2 Winter of our Discontent",
       "file": "missing/D/253975-dinosaur-shakespeare-to-date-or-not-to-date-2-winter-of-our-discontent.json"
+    },
+    {
+      "igdb_id": 231964,
+      "game_name": "Dinosaur Simulator 2019",
+      "file": "missing/D/231964-dinosaur-simulator-2019.json"
     },
     {
       "igdb_id": 108250,
@@ -237593,6 +237658,11 @@
       "file": "missing/D/29833-draw-the-way.json"
     },
     {
+      "igdb_id": 231965,
+      "game_name": "Draw to Collect: Sorting Line",
+      "file": "missing/D/231965-draw-to-collect-sorting-line.json"
+    },
+    {
       "igdb_id": 197363,
       "game_name": "Draw Two Save: Save the man",
       "file": "missing/D/197363-draw-two-save-save-the-man.json"
@@ -240411,6 +240481,11 @@
       "igdb_id": 287157,
       "game_name": "Drift Runners",
       "file": "missing/D/287157-drift-runners.json"
+    },
+    {
+      "igdb_id": 231967,
+      "game_name": "Drift Shape",
+      "file": "missing/D/231967-drift-shape.json"
     },
     {
       "igdb_id": 369752,
@@ -253821,6 +253896,11 @@
       "igdb_id": 129715,
       "game_name": "Egg Yolk Life",
       "file": "missing/E/129715-egg-yolk-life.json"
+    },
+    {
+      "igdb_id": 231966,
+      "game_name": "Egg!",
+      "file": "missing/E/231966-egg.json"
     },
     {
       "igdb_id": 404391,
@@ -267853,6 +267933,11 @@
       "file": "missing/E/298340-eternal-fate-a-journey-begins.json"
     },
     {
+      "igdb_id": 231843,
+      "game_name": "Eternal Fidelity",
+      "file": "missing/E/231843-eternal-fidelity.json"
+    },
+    {
       "igdb_id": 60773,
       "game_name": "Eternal Fighter Zero",
       "file": "missing/E/60773-eternal-fighter-zero.json"
@@ -269886,6 +269971,11 @@
       "igdb_id": 51527,
       "game_name": "Ever Lasting Joy",
       "file": "missing/E/51527-ever-lasting-joy.json"
+    },
+    {
+      "igdb_id": 231954,
+      "game_name": "Ever Legion",
+      "file": "missing/E/231954-ever-legion.json"
     },
     {
       "igdb_id": 249497,
@@ -275211,6 +275301,11 @@
       "igdb_id": 94770,
       "game_name": "Ezy",
       "file": "missing/E/94770-ezy.json"
+    },
+    {
+      "igdb_id": 231955,
+      "game_name": "F Class Adventurer",
+      "file": "missing/F/231955-f-class-adventurer.json"
     },
     {
       "igdb_id": 402468,
@@ -292273,6 +292368,11 @@
       "file": "missing/F/368510-final-war.json"
     },
     {
+      "igdb_id": 231956,
+      "game_name": "Final Warfare",
+      "file": "missing/F/231956-final-warfare.json"
+    },
+    {
       "igdb_id": 90646,
       "game_name": "Final World",
       "file": "missing/F/90646-final-world.json"
@@ -292496,6 +292596,11 @@
       "igdb_id": 55102,
       "game_name": "Find It - Tap the Different",
       "file": "missing/F/55102-find-it-tap-the-different.json"
+    },
+    {
+      "igdb_id": 231953,
+      "game_name": "Find It: Hidden Object",
+      "file": "missing/F/231953-find-it-hidden-object.json"
     },
     {
       "igdb_id": 366431,
@@ -303971,6 +304076,11 @@
       "igdb_id": 187243,
       "game_name": "Football Battle",
       "file": "missing/F/187243-football-battle.json"
+    },
+    {
+      "igdb_id": 231952,
+      "game_name": "Football Battle: Touchdown!",
+      "file": "missing/F/231952-football-battle-touchdown.json"
     },
     {
       "igdb_id": 167246,
@@ -316313,6 +316423,11 @@
       "file": "missing/F/320935-fulfillment-center-simulator.json"
     },
     {
+      "igdb_id": 231951,
+      "game_name": "Fulger McQueen Off road",
+      "file": "missing/F/231951-fulger-mcqueen-off-road.json"
+    },
+    {
       "igdb_id": 326669,
       "game_name": "Full ADHD",
       "file": "missing/F/326669-full-adhd.json"
@@ -324136,6 +324251,11 @@
       "igdb_id": 319582,
       "game_name": "Game-Pac",
       "file": "missing/G/319582-game-pac.json"
+    },
+    {
+      "igdb_id": 231840,
+      "game_name": "Game, Game, Game, and again Game",
+      "file": "missing/G/231840-game-game-game-and-again-game.json"
     },
     {
       "igdb_id": 85732,
@@ -430153,6 +430273,11 @@
       "file": "missing/J/268119-just-dance-2-extra-songs.json"
     },
     {
+      "igdb_id": 231835,
+      "game_name": "Just Dance 2014 Basic Pack",
+      "file": "missing/J/231835-just-dance-2014-basic-pack.json"
+    },
+    {
       "igdb_id": 15559,
       "game_name": "Just Dance 2015",
       "file": "missing/J/15559-just-dance-2015.json"
@@ -484341,6 +484466,11 @@
       "igdb_id": 408875,
       "game_name": "Mad Merchant",
       "file": "missing/M/408875-mad-merchant.json"
+    },
+    {
+      "igdb_id": 231846,
+      "game_name": "Mad Miner",
+      "file": "missing/M/231846-mad-miner.json"
     },
     {
       "igdb_id": 318982,
@@ -574803,6 +574933,11 @@
       "file": "missing/N/140388-not-another-weekend.json"
     },
     {
+      "igdb_id": 231842,
+      "game_name": "Not Born to be King",
+      "file": "missing/N/231842-not-born-to-be-king.json"
+    },
+    {
       "igdb_id": 276977,
       "game_name": "Not Burned Evil",
       "file": "missing/N/276977-not-burned-evil.json"
@@ -659998,6 +660133,11 @@
       "file": "missing/R/338333-r2r-rewire-to-revolt.json"
     },
     {
+      "igdb_id": 231834,
+      "game_name": "R3: The Art of Rocketry",
+      "file": "missing/R/231834-r3-the-art-of-rocketry.json"
+    },
+    {
       "igdb_id": 183395,
       "game_name": "R3wind",
       "file": "missing/R/183395-r3wind.json"
@@ -703476,6 +703616,11 @@
       "igdb_id": 62122,
       "game_name": "Sakura Taisen: Kinematron Hanagumi Mail",
       "file": "missing/S/62122-sakura-taisen-kinematron-hanagumi-mail.json"
+    },
+    {
+      "igdb_id": 231838,
+      "game_name": "Sakura Trick",
+      "file": "missing/S/231838-sakura-trick.json"
     },
     {
       "igdb_id": 191564,
@@ -784343,6 +784488,11 @@
       "file": "missing/S/114427-stellaris-distant-stars.json"
     },
     {
+      "igdb_id": 231845,
+      "game_name": "Stellaris: First Contact",
+      "file": "missing/S/231845-stellaris-first-contact.json"
+    },
+    {
       "igdb_id": 138570,
       "game_name": "Stellaris: Galaxy Command",
       "file": "missing/S/138570-stellaris-galaxy-command.json"
@@ -854823,6 +854973,11 @@
       "file": "missing/T/183031-the-legend-of-heavenly-mist.json"
     },
     {
+      "igdb_id": 231833,
+      "game_name": "The Legend of Herobrine",
+      "file": "missing/T/231833-the-legend-of-herobrine.json"
+    },
+    {
       "igdb_id": 10942,
       "game_name": "The Legend of Heroes II: Prophecy of the Moonlight Witch",
       "file": "missing/T/10942-the-legend-of-heroes-ii-prophecy-of-the-moonlight-witch.json"
@@ -902818,6 +902973,11 @@
       "file": "missing/T/292453-toyful-wonderworld.json"
     },
     {
+      "igdb_id": 231847,
+      "game_name": "Toyland Racer",
+      "file": "missing/T/231847-toyland-racer.json"
+    },
+    {
       "igdb_id": 73764,
       "game_name": "Toyland Racing",
       "file": "missing/T/73764-toyland-racing.json"
@@ -933198,6 +933358,11 @@
       "file": "missing/V/216854-vacation-adventures-park-ranger-14.json"
     },
     {
+      "igdb_id": 231837,
+      "game_name": "Vacation Adventures: Park Ranger 14 - Collector's Edition",
+      "file": "missing/V/231837-vacation-adventures-park-ranger-14-collectors-edition.json"
+    },
+    {
       "igdb_id": 311108,
       "game_name": "Vacation Adventures: Park Ranger 16 - Collectors Edition",
       "file": "missing/V/311108-vacation-adventures-park-ranger-16-collectors-edition.json"
@@ -939171,6 +939336,11 @@
       "igdb_id": 157468,
       "game_name": "Video Editor Tycoon",
       "file": "missing/V/157468-video-editor-tycoon.json"
+    },
+    {
+      "igdb_id": 231832,
+      "game_name": "Video Ezy: In the Movies - Interactive DVD Trivia Game",
+      "file": "missing/V/231832-video-ezy-in-the-movies-interactive-dvd-trivia-game.json"
     },
     {
       "igdb_id": 146905,
