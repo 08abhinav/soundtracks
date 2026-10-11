@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farland Story | 44447 | [44447-farland-story.json](./44447-farland-story.json) |
 | Farland Story FX | 45953 | [45953-farland-story-fx.json](./45953-farland-story-fx.json) |
 | Farland Story: Daichi no Kizuna | 70455 | [70455-farland-story-daichi-no-kizuna.json](./70455-farland-story-daichi-no-kizuna.json) |
+| Farlands | 236859 | [236859-farlands.json](./236859-farlands.json) |
 | Farlands Journey | 301337 | [301337-farlands-journey.json](./301337-farlands-journey.json) |
 | Farlands: First Landing | 244124 | [244124-farlands-first-landing.json](./244124-farlands-first-landing.json) |
 | Farlands: Tiny Harvest | 378287 | [378287-farlands-tiny-harvest.json](./378287-farlands-tiny-harvest.json) |
@@ -5594,6 +5595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foldit | 92609 | [92609-foldit.json](./92609-foldit.json) |
 | Foldy's OS Quest | 335865 | [335865-foldys-os-quest.json](./335865-foldys-os-quest.json) |
 | Folgore | 293878 | [293878-folgore.json](./293878-folgore.json) |
+| Folia: The King's Revelry | 236750 | [236750-folia-the-kings-revelry.json](./236750-folia-the-kings-revelry.json) |
 | Foliage vs. Undead | 330828 | [330828-foliage-vs-undead.json](./330828-foliage-vs-undead.json) |
 | Folie Fatale: Kousaku Fanaticism | 364513 | [364513-folie-fatale-kousaku-fanaticism.json](./364513-folie-fatale-kousaku-fanaticism.json) |
 | Folk Emerging | 244766 | [244766-folk-emerging.json](./244766-folk-emerging.json) |
@@ -5885,6 +5887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Elise | 257070 | [257070-for-elise.json](./257070-for-elise.json) |
 | For Enigma | 258450 | [258450-for-enigma.json](./258450-for-enigma.json) |
 | For Eternity | 110309 | [110309-for-eternity.json](./110309-for-eternity.json) |
+| For Evelyn II: Shards of Creation | 236723 | [236723-for-evelyn-ii-shards-of-creation.json](./236723-for-evelyn-ii-shards-of-creation.json) |
 | For God's Sake | 110793 | [110793-for-gods-sake.json](./110793-for-gods-sake.json) |
 | For God's Sake, Help Him! | 373647 | [373647-for-gods-sake-help-him.json](./373647-for-gods-sake-help-him.json) |
 | For Hell's Sake | 310027 | [310027-for-hells-sake.json](./310027-for-hells-sake.json) |
