@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T18:19:48.666Z",
-  "total_missing": 198464,
+  "generated_at": "2026-10-11T18:34:38.185Z",
+  "total_missing": 198514,
   "games": [
     {
       "igdb_id": 191680,
@@ -22036,6 +22036,16 @@
       "igdb_id": 3708,
       "game_name": "AeroWings 2: Airstrike",
       "file": "missing/A/3708-aerowings-2-airstrike.json"
+    },
+    {
+      "igdb_id": 237248,
+      "game_name": "Aery VR: Broken Memories",
+      "file": "missing/A/237248-aery-vr-broken-memories.json"
+    },
+    {
+      "igdb_id": 237249,
+      "game_name": "Aery VR: Calm Mind",
+      "file": "missing/A/237249-aery-vr-calm-mind.json"
     },
     {
       "igdb_id": 356072,
@@ -59763,6 +59773,11 @@
       "file": "missing/A/19527-astronest.json"
     },
     {
+      "igdb_id": 237413,
+      "game_name": "Astronimo",
+      "file": "missing/A/237413-astronimo.json"
+    },
+    {
       "igdb_id": 142480,
       "game_name": "Astronite",
       "file": "missing/A/142480-astronite.json"
@@ -93203,6 +93218,11 @@
       "file": "missing/B/399612-birthday-boy.json"
     },
     {
+      "igdb_id": 237425,
+      "game_name": "Birthday Kid",
+      "file": "missing/B/237425-birthday-kid.json"
+    },
+    {
       "igdb_id": 407198,
       "game_name": "Birthday Visit",
       "file": "missing/B/407198-birthday-visit.json"
@@ -122426,6 +122446,11 @@
       "igdb_id": 380045,
       "game_name": "Burrows",
       "file": "missing/B/380045-burrows.json"
+    },
+    {
+      "igdb_id": 237414,
+      "game_name": "Burrows: A Paradise Beyond",
+      "file": "missing/B/237414-burrows-a-paradise-beyond.json"
     },
     {
       "igdb_id": 36489,
@@ -200743,6 +200768,11 @@
       "file": "missing/D/221185-dead-world-heroes.json"
     },
     {
+      "igdb_id": 237246,
+      "game_name": "Dead World: La Argentina Muerta",
+      "file": "missing/D/237246-dead-world-la-argentina-muerta.json"
+    },
+    {
       "igdb_id": 19582,
       "game_name": "Dead Years",
       "file": "missing/D/19582-dead-years.json"
@@ -202833,6 +202863,11 @@
       "file": "missing/D/282006-death-ring.json"
     },
     {
+      "igdb_id": 237264,
+      "game_name": "Death Road",
+      "file": "missing/D/237264-death-road.json"
+    },
+    {
       "igdb_id": 21634,
       "game_name": "Death Road to Canada",
       "file": "missing/D/21634-death-road-to-canada.json"
@@ -204716,6 +204751,11 @@
       "igdb_id": 362931,
       "game_name": "Deep Forest Chapter 2",
       "file": "missing/D/362931-deep-forest-chapter-2.json"
+    },
+    {
+      "igdb_id": 237411,
+      "game_name": "Deep Freeze",
+      "file": "missing/D/237411-deep-freeze.json"
     },
     {
       "igdb_id": 44757,
@@ -244983,6 +245023,11 @@
       "file": "missing/D/222353-dungeon-in-a-bottle.json"
     },
     {
+      "igdb_id": 237244,
+      "game_name": "Dungeon in Grid Puzzles",
+      "file": "missing/D/237244-dungeon-in-grid-puzzles.json"
+    },
+    {
       "igdb_id": 262882,
       "game_name": "Dungeon Inn",
       "file": "missing/D/262882-dungeon-inn.json"
@@ -246661,6 +246706,11 @@
       "igdb_id": 76816,
       "game_name": "Dungreed",
       "file": "missing/D/76816-dungreed.json"
+    },
+    {
+      "igdb_id": 237242,
+      "game_name": "DunHero",
+      "file": "missing/D/237242-dunhero.json"
     },
     {
       "igdb_id": 254776,
@@ -293033,6 +293083,46 @@
       "file": "missing/F/401857-fire-emblem-archanea-reimagined.json"
     },
     {
+      "igdb_id": 237421,
+      "game_name": "Fire Emblem: Awakening - Challenge Pack",
+      "file": "missing/F/237421-fire-emblem-awakening-challenge-pack.json"
+    },
+    {
+      "igdb_id": 237415,
+      "game_name": "Fire Emblem: Awakening - Champions Pack",
+      "file": "missing/F/237415-fire-emblem-awakening-champions-pack.json"
+    },
+    {
+      "igdb_id": 237423,
+      "game_name": "Fire Emblem: Awakening - Future Past Pack",
+      "file": "missing/F/237423-fire-emblem-awakening-future-past-pack.json"
+    },
+    {
+      "igdb_id": 237416,
+      "game_name": "Fire Emblem: Awakening - Golden Pack",
+      "file": "missing/F/237416-fire-emblem-awakening-golden-pack.json"
+    },
+    {
+      "igdb_id": 237417,
+      "game_name": "Fire Emblem: Awakening - Lost Bloodlines Pack",
+      "file": "missing/F/237417-fire-emblem-awakening-lost-bloodlines-pack.json"
+    },
+    {
+      "igdb_id": 237419,
+      "game_name": "Fire Emblem: Awakening - Rogues Pack",
+      "file": "missing/F/237419-fire-emblem-awakening-rogues-pack.json"
+    },
+    {
+      "igdb_id": 237422,
+      "game_name": "Fire Emblem: Awakening - Scramble Pack",
+      "file": "missing/F/237422-fire-emblem-awakening-scramble-pack.json"
+    },
+    {
+      "igdb_id": 237418,
+      "game_name": "Fire Emblem: Awakening - Smash Pack",
+      "file": "missing/F/237418-fire-emblem-awakening-smash-pack.json"
+    },
+    {
       "igdb_id": 233604,
       "game_name": "Fire Emblem: Binding Blade Plus",
       "file": "missing/F/233604-fire-emblem-binding-blade-plus.json"
@@ -327706,6 +327796,11 @@
       "igdb_id": 234925,
       "game_name": "Generation Zero: US Weapons Pack 2",
       "file": "missing/G/234925-generation-zero-us-weapons-pack-2.json"
+    },
+    {
+      "igdb_id": 237260,
+      "game_name": "Generations",
+      "file": "missing/G/237260-generations.json"
     },
     {
       "igdb_id": 267414,
@@ -383423,6 +383518,11 @@
       "file": "missing/H/188126-homeward.json"
     },
     {
+      "igdb_id": 237273,
+      "game_name": "Homeward",
+      "file": "missing/H/237273-homeward.json"
+    },
+    {
       "igdb_id": 271395,
       "game_name": "Homeward",
       "file": "missing/H/271395-homeward.json"
@@ -437386,6 +437486,11 @@
       "igdb_id": 273464,
       "game_name": "Kiken Drive: 2nd Lap",
       "file": "missing/K/273464-kiken-drive-2nd-lap.json"
+    },
+    {
+      "igdb_id": 237267,
+      "game_name": "Kiki",
+      "file": "missing/K/237267-kiki.json"
     },
     {
       "igdb_id": 309528,
@@ -501133,6 +501238,11 @@
       "file": "missing/M/196574-maximus-2-fantasy-beat-em-up.json"
     },
     {
+      "igdb_id": 237237,
+      "game_name": "Maximus 2: Street Gladiators",
+      "file": "missing/M/237237-maximus-2-street-gladiators.json"
+    },
+    {
       "igdb_id": 78372,
       "game_name": "Maxit",
       "file": "missing/M/78372-maxit.json"
@@ -511966,6 +512076,11 @@
       "igdb_id": 260065,
       "game_name": "Meta",
       "file": "missing/M/260065-meta.json"
+    },
+    {
+      "igdb_id": 237245,
+      "game_name": "Meta Ball",
+      "file": "missing/M/237245-meta-ball.json"
     },
     {
       "igdb_id": 198485,
@@ -538943,6 +539058,11 @@
       "file": "missing/M/234735-move-nature.json"
     },
     {
+      "igdb_id": 237261,
+      "game_name": "Move On",
+      "file": "missing/M/237261-move-on.json"
+    },
+    {
       "igdb_id": 17012,
       "game_name": "Move or Die",
       "file": "missing/M/17012-move-or-die.json"
@@ -550001,6 +550121,11 @@
       "igdb_id": 213317,
       "game_name": "Mystery Solitaire: Dreamcatcher 2",
       "file": "missing/M/213317-mystery-solitaire-dreamcatcher-2.json"
+    },
+    {
+      "igdb_id": 237255,
+      "game_name": "Mystery Solitaire: Dreamcatcher 3",
+      "file": "missing/M/237255-mystery-solitaire-dreamcatcher-3.json"
     },
     {
       "igdb_id": 122367,
@@ -569913,6 +570038,11 @@
       "file": "missing/N/346008-no-mosaic-girls-with-sess-ai-2-0.json"
     },
     {
+      "igdb_id": 237243,
+      "game_name": "No Name Village",
+      "file": "missing/N/237243-no-name-village.json"
+    },
+    {
       "igdb_id": 334338,
       "game_name": "No Need for Flowers",
       "file": "missing/N/334338-no-need-for-flowers.json"
@@ -571391,6 +571521,11 @@
       "igdb_id": 259092,
       "game_name": "Noel the Mortal Fate: Season Final Part 2",
       "file": "missing/N/259092-noel-the-mortal-fate-season-final-part-2.json"
+    },
+    {
+      "igdb_id": 237253,
+      "game_name": "NoEL: Nothing on Elysion Line",
+      "file": "missing/N/237253-noel-nothing-on-elysion-line.json"
     },
     {
       "igdb_id": 113703,
@@ -588126,6 +588261,11 @@
       "igdb_id": 197129,
       "game_name": "Orbisia",
       "file": "missing/O/197129-orbisia.json"
+    },
+    {
+      "igdb_id": 237266,
+      "game_name": "Orbit",
+      "file": "missing/O/237266-orbit.json"
     },
     {
       "igdb_id": 315019,
@@ -619303,6 +619443,11 @@
       "file": "missing/P/182296-pirates-of-gravitae.json"
     },
     {
+      "igdb_id": 237240,
+      "game_name": "Pirates of Heaven",
+      "file": "missing/P/237240-pirates-of-heaven.json"
+    },
+    {
       "igdb_id": 420549,
       "game_name": "Pirates of Perfidy",
       "file": "missing/P/420549-pirates-of-perfidy.json"
@@ -647858,6 +648003,11 @@
       "file": "missing/P/207195-psychoscopy.json"
     },
     {
+      "igdb_id": 237263,
+      "game_name": "Psychosis",
+      "file": "missing/P/237263-psychosis.json"
+    },
+    {
       "igdb_id": 222863,
       "game_name": "Psychosis: Teaser",
       "file": "missing/P/222863-psychosis-teaser.json"
@@ -668308,6 +668458,11 @@
       "file": "missing/R/11719-rebel-galaxy.json"
     },
     {
+      "igdb_id": 237252,
+      "game_name": "Rebel Inc: Escalation - Dollars & Disasters",
+      "file": "missing/R/237252-rebel-inc-escalation-dollars-and-disasters.json"
+    },
+    {
       "igdb_id": 115206,
       "game_name": "Rebel Inc.",
       "file": "missing/R/115206-rebel-inc.json"
@@ -671236,6 +671391,11 @@
       "igdb_id": 347773,
       "game_name": "ReDrop",
       "file": "missing/R/347773-redrop.json"
+    },
+    {
+      "igdb_id": 237269,
+      "game_name": "Redrum",
+      "file": "missing/R/237269-redrum.json"
     },
     {
       "igdb_id": 328963,
@@ -676858,6 +677018,11 @@
       "file": "missing/R/306370-retro-wave.json"
     },
     {
+      "igdb_id": 237254,
+      "game_name": "Retro Wave Thunder",
+      "file": "missing/R/237254-retro-wave-thunder.json"
+    },
+    {
       "igdb_id": 113034,
       "game_name": "Retro Wing Prime",
       "file": "missing/R/113034-retro-wing-prime.json"
@@ -676911,6 +677076,11 @@
       "igdb_id": 385593,
       "game_name": "Retrocade",
       "file": "missing/R/385593-retrocade.json"
+    },
+    {
+      "igdb_id": 237247,
+      "game_name": "Retrocausality",
+      "file": "missing/R/237247-retrocausality.json"
     },
     {
       "igdb_id": 175404,
@@ -707851,6 +708021,11 @@
       "igdb_id": 47143,
       "game_name": "Sceptre of Bagdad",
       "file": "missing/S/47143-sceptre-of-bagdad.json"
+    },
+    {
+      "igdb_id": 237238,
+      "game_name": "Schachkampf",
+      "file": "missing/S/237238-schachkampf.json"
     },
     {
       "igdb_id": 31775,
@@ -780993,6 +781168,11 @@
       "file": "missing/S/48703-sted-iseki-wakusei-no-yabou.json"
     },
     {
+      "igdb_id": 237272,
+      "game_name": "Steel",
+      "file": "missing/S/237272-steel.json"
+    },
+    {
       "igdb_id": 329915,
       "game_name": "Steel",
       "file": "missing/S/329915-steel.json"
@@ -819833,6 +820013,11 @@
       "file": "missing/T/102151-tank-rush.json"
     },
     {
+      "igdb_id": 237256,
+      "game_name": "Tank Rush",
+      "file": "missing/T/237256-tank-rush.json"
+    },
+    {
       "igdb_id": 156075,
       "game_name": "Tank Side Story",
       "file": "missing/T/156075-tank-side-story.json"
@@ -834056,6 +834241,11 @@
       "igdb_id": 405629,
       "game_name": "The Big Number",
       "file": "missing/T/405629-the-big-number.json"
+    },
+    {
+      "igdb_id": 237259,
+      "game_name": "The Big One",
+      "file": "missing/T/237259-the-big-one.json"
     },
     {
       "igdb_id": 239081,
@@ -871668,6 +871858,11 @@
       "file": "missing/T/9943-the-universim.json"
     },
     {
+      "igdb_id": 237257,
+      "game_name": "The Unknown",
+      "file": "missing/T/237257-the-unknown.json"
+    },
+    {
       "igdb_id": 272893,
       "game_name": "The Unknown",
       "file": "missing/T/272893-the-unknown.json"
@@ -872301,6 +872496,11 @@
       "igdb_id": 159191,
       "game_name": "The Visitor",
       "file": "missing/T/159191-the-visitor.json"
+    },
+    {
+      "igdb_id": 237262,
+      "game_name": "The Visitor",
+      "file": "missing/T/237262-the-visitor.json"
     },
     {
       "igdb_id": 348249,
@@ -889778,6 +889978,11 @@
       "file": "missing/T/219534-to-the-top.json"
     },
     {
+      "igdb_id": 237258,
+      "game_name": "To the Top",
+      "file": "missing/T/237258-to-the-top.json"
+    },
+    {
       "igdb_id": 192013,
       "game_name": "To the Top, Mammoth!",
       "file": "missing/T/192013-to-the-top-mammoth.json"
@@ -890031,6 +890236,11 @@
       "igdb_id": 204322,
       "game_name": "Toaru Pantsu no Railgun",
       "file": "missing/T/204322-toaru-pantsu-no-railgun.json"
+    },
+    {
+      "igdb_id": 237271,
+      "game_name": "Toast",
+      "file": "missing/T/237271-toast.json"
     },
     {
       "igdb_id": 307739,
@@ -890353,6 +890563,11 @@
       "file": "missing/T/168707-tocovix.json"
     },
     {
+      "igdb_id": 237239,
+      "game_name": "ToD Fragments: Special Fun",
+      "file": "missing/T/237239-tod-fragments-special-fun.json"
+    },
+    {
       "igdb_id": 55978,
       "game_name": "Today I Die",
       "file": "missing/T/55978-today-i-die.json"
@@ -890506,6 +890721,11 @@
       "igdb_id": 145289,
       "game_name": "Togainu no Chi: True Blood",
       "file": "missing/T/145289-togainu-no-chi-true-blood.json"
+    },
+    {
+      "igdb_id": 237424,
+      "game_name": "Togainu no Chi: Typing",
+      "file": "missing/T/237424-togainu-no-chi-typing.json"
     },
     {
       "igdb_id": 387702,
@@ -902148,6 +902368,11 @@
       "file": "missing/T/256312-train-sim-world-3-southeastern-super-starter-pack.json"
     },
     {
+      "igdb_id": 237251,
+      "game_name": "Train Sim World 3: The Holiday Express - Runaway Elf",
+      "file": "missing/T/237251-train-sim-world-3-the-holiday-express-runaway-elf.json"
+    },
+    {
       "igdb_id": 237943,
       "game_name": "Train Sim World 3: Union Pacific Heritage - Livery Collection",
       "file": "missing/T/237943-train-sim-world-3-union-pacific-heritage-livery-collection.json"
@@ -905498,6 +905723,11 @@
       "file": "missing/T/227274-trainz-railroad-simulator-2019-pro-train-db-class-44.json"
     },
     {
+      "igdb_id": 237250,
+      "game_name": "Trainz Railroad Simulator 2019: Pro Train - Hamburg Flyer SVT 877",
+      "file": "missing/T/237250-trainz-railroad-simulator-2019-pro-train-hamburg-flyer-svt-877.json"
+    },
+    {
       "igdb_id": 289475,
       "game_name": "Trainz Railroad Simulator 2019: Pro Train - SD40-2 Loco Bundle 1",
       "file": "missing/T/289475-trainz-railroad-simulator-2019-pro-train-sd40-2-loco-bundle-1.json"
@@ -905756,6 +905986,11 @@
       "igdb_id": 227275,
       "game_name": "Trainz Railroad Simulator 2022: Pro Train - DB Class 44",
       "file": "missing/T/227275-trainz-railroad-simulator-2022-pro-train-db-class-44.json"
+    },
+    {
+      "igdb_id": 237265,
+      "game_name": "Trainz Railroad Simulator 2022: Pro Train - Hamburg Flyer SVT 877",
+      "file": "missing/T/237265-trainz-railroad-simulator-2022-pro-train-hamburg-flyer-svt-877.json"
     },
     {
       "igdb_id": 289476,
@@ -908596,6 +908831,11 @@
       "igdb_id": 239095,
       "game_name": "Treasure Train",
       "file": "missing/T/239095-treasure-train.json"
+    },
+    {
+      "igdb_id": 237270,
+      "game_name": "Treasure Trap",
+      "file": "missing/T/237270-treasure-trap.json"
     },
     {
       "igdb_id": 70936,
@@ -914351,6 +914591,11 @@
       "igdb_id": 141842,
       "game_name": "Tuma-7",
       "file": "missing/T/141842-tuma-7.json"
+    },
+    {
+      "igdb_id": 237268,
+      "game_name": "Tumble",
+      "file": "missing/T/237268-tumble.json"
     },
     {
       "igdb_id": 25088,
@@ -965366,6 +965611,11 @@
       "igdb_id": 332398,
       "game_name": "Wizard's Warp",
       "file": "missing/W/332398-wizards-warp.json"
+    },
+    {
+      "igdb_id": 237241,
+      "game_name": "Wizard's Wheel 2",
+      "file": "missing/W/237241-wizards-wheel-2.json"
     },
     {
       "igdb_id": 105966,
