@@ -1071,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Masterpieces: Beautiful Castles in the World | 238220 | [238220-jigsaw-masterpieces-beautiful-castles-in-the-world.json](./238220-jigsaw-masterpieces-beautiful-castles-in-the-world.json) |
 | Jigsaw Masterpieces: Beautiful Sceneries in Japan | 238221 | [238221-jigsaw-masterpieces-beautiful-sceneries-in-japan.json](./238221-jigsaw-masterpieces-beautiful-sceneries-in-japan.json) |
 | Jigsaw Masterpieces: Beautiful Towns Around the World | 238223 | [238223-jigsaw-masterpieces-beautiful-towns-around-the-world.json](./238223-jigsaw-masterpieces-beautiful-towns-around-the-world.json) |
+| Jigsaw Masterpieces: Japanese Summer Scene | 237871 | [237871-jigsaw-masterpieces-japanese-summer-scene.json](./237871-jigsaw-masterpieces-japanese-summer-scene.json) |
 | Jigsaw Masterpieces: Juicy Fruits | 238230 | [238230-jigsaw-masterpieces-juicy-fruits.json](./238230-jigsaw-masterpieces-juicy-fruits.json) |
 | Jigsaw Masterpieces: Landscapes with Flags of the World - Asia vol.1 | 201024 | [201024-jigsaw-masterpieces-landscapes-with-flags-of-the-world-asia-vol-1.json](./201024-jigsaw-masterpieces-landscapes-with-flags-of-the-world-asia-vol-1.json) |
 | Jigsaw Masterpieces: Masterpieces of World - Girls in the Paintings | 238020 | [238020-jigsaw-masterpieces-masterpieces-of-world-girls-in-the-paintings.json](./238020-jigsaw-masterpieces-masterpieces-of-world-girls-in-the-paintings.json) |
@@ -1083,6 +1084,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Masterpieces: Superb View of Red | 238023 | [238023-jigsaw-masterpieces-superb-view-of-red.json](./238023-jigsaw-masterpieces-superb-view-of-red.json) |
 | Jigsaw Masterpieces: Sweet Cakes | 243371 | [243371-jigsaw-masterpieces-sweet-cakes.json](./243371-jigsaw-masterpieces-sweet-cakes.json) |
 | Jigsaw Masterpieces: View from the Sky | 237912 | [237912-jigsaw-masterpieces-view-from-the-sky.json](./237912-jigsaw-masterpieces-view-from-the-sky.json) |
+| Jigsaw Masterpieces: Wildlife in Africa | 237872 | [237872-jigsaw-masterpieces-wildlife-in-africa.json](./237872-jigsaw-masterpieces-wildlife-in-africa.json) |
+| Jigsaw Masterpieces: World Heritage Site | 237873 | [237873-jigsaw-masterpieces-world-heritage-site.json](./237873-jigsaw-masterpieces-world-heritage-site.json) |
+| Jigsaw Masterpieces: World Heritage Site 2 | 237874 | [237874-jigsaw-masterpieces-world-heritage-site-2.json](./237874-jigsaw-masterpieces-world-heritage-site-2.json) |
 | Jigsaw Masterpieces: World's Most Scenic Train Trips | 201025 | [201025-jigsaw-masterpieces-worlds-most-scenic-train-trips.json](./201025-jigsaw-masterpieces-worlds-most-scenic-train-trips.json) |
 | Jigsaw Novel: Kinky Bondage | 286471 | [286471-jigsaw-novel-kinky-bondage.json](./286471-jigsaw-novel-kinky-bondage.json) |
 | Jigsaw Novel: Naughty Stewardesses | 286479 | [286479-jigsaw-novel-naughty-stewardesses.json](./286479-jigsaw-novel-naughty-stewardesses.json) |
