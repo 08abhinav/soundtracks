@@ -4896,6 +4896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex: Malkavian Mod | 275623 | [275623-deus-ex-malkavian-mod.json](./275623-deus-ex-malkavian-mod.json) |
 | Deus Ex: Mankind Divided - Assault Pack | 374695 | [374695-deus-ex-mankind-divided-assault-pack.json](./374695-deus-ex-mankind-divided-assault-pack.json) |
 | Deus Ex: Mankind Divided - Day One Edition | 46024 | [46024-deus-ex-mankind-divided-day-one-edition.json](./46024-deus-ex-mankind-divided-day-one-edition.json) |
+| Deus Ex: Mankind Divided - Desperate Measures | 229860 | [229860-deus-ex-mankind-divided-desperate-measures.json](./229860-deus-ex-mankind-divided-desperate-measures.json) |
 | Deus Ex: Mankind Divided - Digital Deluxe Edition | 164802 | [164802-deus-ex-mankind-divided-digital-deluxe-edition.json](./164802-deus-ex-mankind-divided-digital-deluxe-edition.json) |
 | Deus Ex: Mankind Divided - Tactical Pack | 374696 | [374696-deus-ex-mankind-divided-tactical-pack.json](./374696-deus-ex-mankind-divided-tactical-pack.json) |
 | Deus Ex: Revision | 23974 | [23974-deus-ex-revision.json](./23974-deus-ex-revision.json) |
@@ -5039,6 +5040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DevilDark: The Fallen Kingdom | 343817 | [343817-devildark-the-fallen-kingdom.json](./343817-devildark-the-fallen-kingdom.json) |
 | Deviled | 262290 | [262290-deviled.json](./262290-deviled.json) |
 | Deviled Dice | 397711 | [397711-deviled-dice.json](./397711-deviled-dice.json) |
+| Devilgotchi | 229844 | [229844-devilgotchi.json](./229844-devilgotchi.json) |
 | Devilish Candy House | 230324 | [230324-devilish-candy-house.json](./230324-devilish-candy-house.json) |
 | Devilish Cat | 230325 | [230325-devilish-cat.json](./230325-devilish-cat.json) |
 | Devilish Charms | 227946 | [227946-devilish-charms.json](./227946-devilish-charms.json) |
@@ -5449,6 +5451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die in the Dungeon | 147285 | [147285-die-in-the-dungeon.json](./147285-die-in-the-dungeon.json) |
 | Die in the Dungeon: Classic | 325653 | [325653-die-in-the-dungeon-classic.json](./325653-die-in-the-dungeon-classic.json) |
 | Die in the Dungeon: Origins | 266078 | [266078-die-in-the-dungeon-origins.json](./266078-die-in-the-dungeon-origins.json) |
+| Die Känguru-Verschwörung | 229578 | [229578-die-kanguru-verschworung.json](./229578-die-kanguru-verschworung.json) |
 | Die kleine Lokomotive und ihre Freunde | 81401 | [81401-die-kleine-lokomotive-und-ihre-freunde.json](./81401-die-kleine-lokomotive-und-ihre-freunde.json) |
 | Die Legende der Wikinger | 91397 | [91397-die-legende-der-wikinger.json](./91397-die-legende-der-wikinger.json) |
 | Die Legende von Saya - Befehl aus der Dunkelheit | 128454 | [128454-die-legende-von-saya-befehl-aus-der-dunkelheit.json](./128454-die-legende-von-saya-befehl-aus-der-dunkelheit.json) |
