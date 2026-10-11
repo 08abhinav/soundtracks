@@ -1709,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemsweeper | 135284 | [135284-gemsweeper.json](./135284-gemsweeper.json) |
 | Gemtactix | 99386 | [99386-gemtactix.json](./99386-gemtactix.json) |
 | Gemtrader Story 2: Blood Relationship | 227377 | [227377-gemtrader-story-2-blood-relationship.json](./227377-gemtrader-story-2-blood-relationship.json) |
+| GemVenture | 228638 | [228638-gemventure.json](./228638-gemventure.json) |
 | Gemwielders | 325245 | [325245-gemwielders.json](./325245-gemwielders.json) |
 | GemWords | 53084 | [53084-gemwords.json](./53084-gemwords.json) |
 | Gen 2.1. No Escape | 239608 | [239608-gen-2-1-no-escape.json](./239608-gen-2-1-no-escape.json) |
