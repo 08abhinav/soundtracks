@@ -1776,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation Zero: Motorbikes Pack | 234917 | [234917-generation-zero-motorbikes-pack.json](./234917-generation-zero-motorbikes-pack.json) |
 | Generation Zero: Reinforced Flakmoped Pack | 280141 | [280141-generation-zero-reinforced-flakmoped-pack.json](./280141-generation-zero-reinforced-flakmoped-pack.json) |
 | Generation Zero: Resistance Bundle | 164785 | [164785-generation-zero-resistance-bundle.json](./164785-generation-zero-resistance-bundle.json) |
+| Generation Zero: Resistance Weapons Pack | 230982 | [230982-generation-zero-resistance-weapons-pack.json](./230982-generation-zero-resistance-weapons-pack.json) |
 | Generation Zero: Rivals and Experimental Weapons | 234932 | [234932-generation-zero-rivals-and-experimental-weapons.json](./234932-generation-zero-rivals-and-experimental-weapons.json) |
 | Generation Zero: Schweet Vanity Pack | 226798 | [226798-generation-zero-schweet-vanity-pack.json](./226798-generation-zero-schweet-vanity-pack.json) |
 | Generation Zero: Silver Bundle | 284864 | [284864-generation-zero-silver-bundle.json](./284864-generation-zero-silver-bundle.json) |
@@ -4244,6 +4245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gone Digging | 388416 | [388416-gone-digging.json](./388416-gone-digging.json) |
 | Gone Exploring | 412409 | [412409-gone-exploring.json](./412409-gone-exploring.json) |
 | Gone Fireflies | 82355 | [82355-gone-fireflies.json](./82355-gone-fireflies.json) |
+| Gone Fishin' with Archimedes | 230731 | [230731-gone-fishin-with-archimedes.json](./230731-gone-fishin-with-archimedes.json) |
 | Gone Fishing | 348447 | [348447-gone-fishing.json](./348447-gone-fishing.json) |
 | Gone In November: Collector's Edition | 53074 | [53074-gone-in-november-collectors-edition.json](./53074-gone-in-november-collectors-edition.json) |
 | Gone Rogue | 182245 | [182245-gone-rogue.json](./182245-gone-rogue.json) |
