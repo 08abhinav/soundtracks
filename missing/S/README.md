@@ -16626,6 +16626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steins;Gate: Linear Bounded Phenogram | 65504 | [65504-steins-gate-linear-bounded-phenogram.json](./65504-steins-gate-linear-bounded-phenogram.json) |
 | Steins;Gate: Octet of Shifting Space | 65764 | [65764-steins-gate-octet-of-shifting-space.json](./65764-steins-gate-octet-of-shifting-space.json) |
 | Steinstern: Spacewar | 173049 | [173049-steinstern-spacewar.json](./173049-steinstern-spacewar.json) |
+| Stel | 236166 | [236166-stel.json](./236166-stel.json) |
 | Stela Boss | 334324 | [334324-stela-boss.json](./334324-stela-boss.json) |
 | Stelarace | 245851 | [245851-stelarace.json](./245851-stelarace.json) |
 | Stele | 339664 | [339664-stele.json](./339664-stele.json) |
@@ -19679,6 +19680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super gamebear with its three girlfriends | 112997 | [112997-super-gamebear-with-its-three-girlfriends.json](./112997-super-gamebear-with-its-three-girlfriends.json) |
 | Super Gear Quest | 76203 | [76203-super-gear-quest.json](./76203-super-gear-quest.json) |
 | Super Gears N Gators | 136228 | [136228-super-gears-n-gators.json](./136228-super-gears-n-gators.json) |
+| Super Geisha Neon | 236182 | [236182-super-geisha-neon.json](./236182-super-geisha-neon.json) |
 | Super Gerball | 89179 | [89179-super-gerball.json](./89179-super-gerball.json) |
 | Super Gerry | 113641 | [113641-super-gerry.json](./113641-super-gerry.json) |
 | Super Ghouls'n Ghosts Restoration | 247446 | [247446-super-ghoulsn-ghosts-restoration.json](./247446-super-ghoulsn-ghosts-restoration.json) |
@@ -21492,6 +21494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sur | 159127 | [159127-sur.json](./159127-sur.json) |
 | Sur LC | 287564 | [287564-sur-lc.json](./287564-sur-lc.json) |
 | Sur Tout Le Trajet | 179013 | [179013-sur-tout-le-trajet.json](./179013-sur-tout-le-trajet.json) |
+| Sur5 | 236310 | [236310-sur5.json](./236310-sur5.json) |
 | Sura: Shattered Star | 412474 | [412474-sura-shattered-star.json](./412474-sura-shattered-star.json) |
 | Surabaya Inferno | 150676 | [150676-surabaya-inferno.json](./150676-surabaya-inferno.json) |
 | Surbird | 292555 | [292555-surbird.json](./292555-surbird.json) |
