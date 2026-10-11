@@ -5616,6 +5616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Medieval Empire | 192246 | [192246-ancient-medieval-empire.json](./192246-ancient-medieval-empire.json) |
 | Ancient Military | 392800 | [392800-ancient-military.json](./392800-ancient-military.json) |
 | Ancient Mind | 244879 | [244879-ancient-mind.json](./244879-ancient-mind.json) |
+| Ancient Mystery: A Quest for Hidden Wisdom | 235121 | [235121-ancient-mystery-a-quest-for-hidden-wisdom.json](./235121-ancient-mystery-a-quest-for-hidden-wisdom.json) |
 | Ancient Observer | 297570 | [297570-ancient-observer.json](./297570-ancient-observer.json) |
 | Ancient Ocean: The Fall of Atlantis | 337816 | [337816-ancient-ocean-the-fall-of-atlantis.json](./337816-ancient-ocean-the-fall-of-atlantis.json) |
 | Ancient Orb | 184494 | [184494-ancient-orb.json](./184494-ancient-orb.json) |
@@ -6461,6 +6462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annoy Squidward | 324931 | [324931-annoy-squidward.json](./324931-annoy-squidward.json) |
 | Annoy This Guy | 290684 | [290684-annoy-this-guy.json](./290684-annoy-this-guy.json) |
 | Annoying Ball Game | 171598 | [171598-annoying-ball-game.json](./171598-annoying-ball-game.json) |
+| Annoying Cab | 235122 | [235122-annoying-cab.json](./235122-annoying-cab.json) |
 | Annoying Orange Pinball | 266517 | [266517-annoying-orange-pinball.json](./266517-annoying-orange-pinball.json) |
 | Annoying Orange: Kitchen Carnage | 266516 | [266516-annoying-orange-kitchen-carnage.json](./266516-annoying-orange-kitchen-carnage.json) |
 | Annoying Orange: Splatter Up! | 108462 | [108462-annoying-orange-splatter-up.json](./108462-annoying-orange-splatter-up.json) |
@@ -7680,6 +7682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Audience | 417501 | [417501-arcade-audience.json](./417501-arcade-audience.json) |
 | Arcade Bank 3 Minute Tetris | 233648 | [233648-arcade-bank-3-minute-tetris.json](./233648-arcade-bank-3-minute-tetris.json) |
 | Arcade Basketball 3D Tournament Edition | 241611 | [241611-arcade-basketball-3d-tournament-edition.json](./241611-arcade-basketball-3d-tournament-edition.json) |
+| Arcade Basketball Blitz Online | 235128 | [235128-arcade-basketball-blitz-online.json](./235128-arcade-basketball-blitz-online.json) |
 | Arcade Blast | 202699 | [202699-arcade-blast.json](./202699-arcade-blast.json) |
 | Arcade Boot Camp | 312293 | [312293-arcade-boot-camp.json](./312293-arcade-boot-camp.json) |
 | Arcade Boss Simulator | 345567 | [345567-arcade-boss-simulator.json](./345567-arcade-boss-simulator.json) |
@@ -10826,6 +10829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Deathmatch City | 77596 | [77596-avatar-deathmatch-city.json](./77596-avatar-deathmatch-city.json) |
 | Avatar Drop | 91630 | [91630-avatar-drop.json](./91630-avatar-drop.json) |
 | Avatar Farm! | 94737 | [94737-avatar-farm.json](./94737-avatar-farm.json) |
+| Avatar Generations | 235108 | [235108-avatar-generations.json](./235108-avatar-generations.json) |
 | Avatar Island | 389644 | [389644-avatar-island.json](./389644-avatar-island.json) |
 | Avatar Laser Wars | 77599 | [77599-avatar-laser-wars.json](./77599-avatar-laser-wars.json) |
 | Avatar Legends: The Fighting Game | 373021 | [373021-avatar-legends-the-fighting-game.json](./373021-avatar-legends-the-fighting-game.json) |
@@ -11132,6 +11136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axis Football League | 58041 | [58041-axis-football-league.json](./58041-axis-football-league.json) |
 | Axis Forward | 100930 | [100930-axis-forward.json](./100930-axis-forward.json) |
 | Axis Mundi | 26942 | [26942-axis-mundi.json](./26942-axis-mundi.json) |
+| Axium | 235091 | [235091-axium.json](./235091-axium.json) |
 | Axium's Box | 235453 | [235453-axiums-box.json](./235453-axiums-box.json) |
 | Axizon Labs: Zombies | 132213 | [132213-axizon-labs-zombies.json](./132213-axizon-labs-zombies.json) |
 | Axl Fangame | 318518 | [318518-axl-fangame.json](./318518-axl-fangame.json) |
