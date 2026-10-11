@@ -4139,6 +4139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Syndrome | 273025 | [273025-alien-syndrome.json](./273025-alien-syndrome.json) |
 | Alien Syndrome | 273026 | [273026-alien-syndrome.json](./273026-alien-syndrome.json) |
 | Alien Syndrome | 273027 | [273027-alien-syndrome.json](./273027-alien-syndrome.json) |
+| Alien Tentacles: Attack Master | 233411 | [233411-alien-tentacles-attack-master.json](./233411-alien-tentacles-attack-master.json) |
 | Alien Tequila | 73263 | [73263-alien-tequila.json](./73263-alien-tequila.json) |
 | Alien Time Zone | 58037 | [58037-alien-time-zone.json](./58037-alien-time-zone.json) |
 | Alien Tower | 259543 | [259543-alien-tower.json](./259543-alien-tower.json) |
@@ -6059,6 +6060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Crossing: New Murder | 251058 | [251058-animal-crossing-new-murder.json](./251058-animal-crossing-new-murder.json) |
 | Animal Crossing: Pocket Camp | 58630 | [58630-animal-crossing-pocket-camp.json](./58630-animal-crossing-pocket-camp.json) |
 | Animal Crossing: Wild World | 2645 | [2645-animal-crossing-wild-world.json](./2645-animal-crossing-wild-world.json) |
+| Animal Crush | 233429 | [233429-animal-crush.json](./233429-animal-crush.json) |
 | Animal Crush | 52770 | [52770-animal-crush.json](./52770-animal-crush.json) |
 | Animal Daedal | 180087 | [180087-animal-daedal.json](./180087-animal-daedal.json) |
 | Animal Defense Versus | 152978 | [152978-animal-defense-versus.json](./152978-animal-defense-versus.json) |
