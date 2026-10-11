@@ -4880,6 +4880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Poo World II | 138219 | [138219-grand-poo-world-ii.json](./138219-grand-poo-world-ii.json) |
 | Grand Prix | 18103 | [18103-grand-prix.json](./18103-grand-prix.json) |
 | Grand Prix | 195040 | [195040-grand-prix.json](./195040-grand-prix.json) |
+| Grand Prix | 234094 | [234094-grand-prix.json](./234094-grand-prix.json) |
 | Grand Prix | 279694 | [279694-grand-prix.json](./279694-grand-prix.json) |
 | Grand Prix | 385557 | [385557-grand-prix.json](./385557-grand-prix.json) |
 | Grand Prix / Demolition Derby | 169270 | [169270-grand-prix-demolition-derby.json](./169270-grand-prix-demolition-derby.json) |
@@ -6206,6 +6207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guacamelee! 2: Three Enemigos Character Pack | 155046 | [155046-guacamelee-2-three-enemigos-character-pack.json](./155046-guacamelee-2-three-enemigos-character-pack.json) |
 | Guacamelee! One-Two Punch Collection | 115023 | [115023-guacamelee-one-two-punch-collection.json](./115023-guacamelee-one-two-punch-collection.json) |
 | Guacamojo | 201693 | [201693-guacamojo.json](./201693-guacamojo.json) |
+| Guacomole | 234104 | [234104-guacomole.json](./234104-guacomole.json) |
 | Guadalcanal Campaign | 23992 | [23992-guadalcanal-campaign.json](./23992-guadalcanal-campaign.json) |
 | Guàishòu | 277970 | [277970-guaishou.json](./277970-guaishou.json) |
 | Guānyú Sīmén Shì de Yīxiē Chuányán | 397690 | [397690-guanyu-simen-shi-de-yixie-chuanyan.json](./397690-guanyu-simen-shi-de-yixie-chuanyan.json) |
