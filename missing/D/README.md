@@ -2309,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Paradise 3 | 404358 | [404358-dead-paradise-3.json](./404358-dead-paradise-3.json) |
 | Dead Paradise 4 | 404385 | [404385-dead-paradise-4.json](./404385-dead-paradise-4.json) |
 | Dead Pedal | 244202 | [244202-dead-pedal.json](./244202-dead-pedal.json) |
+| Dead People Driving HD | 232344 | [232344-dead-people-driving-hd.json](./232344-dead-people-driving-hd.json) |
 | Dead Petals Bliss | 258547 | [258547-dead-petals-bliss.json](./258547-dead-petals-bliss.json) |
 | Dead Pixels | 346658 | [346658-dead-pixels.json](./346658-dead-pixels.json) |
 | Dead Pixels | 5448 | [5448-dead-pixels.json](./5448-dead-pixels.json) |
@@ -8483,6 +8484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dotu | 330110 | [330110-dotu.json](./330110-dotu.json) |
 | Dotzz | 26536 | [26536-dotzz.json](./26536-dotzz.json) |
 | Double | 104921 | [104921-double.json](./104921-double.json) |
+| Double 345 Slots | 232352 | [232352-double-345-slots.json](./232352-double-345-slots.json) |
 | Double Action: Boogaloo | 17723 | [17723-double-action-boogaloo.json](./17723-double-action-boogaloo.json) |
 | Double Agent | 57164 | [57164-double-agent.json](./57164-double-agent.json) |
 | Double Axle | 39870 | [39870-double-axle.json](./39870-double-axle.json) |
@@ -10428,6 +10430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving School Simulator: EVO | 383520 | [383520-driving-school-simulator-evo.json](./383520-driving-school-simulator-evo.json) |
 | Driving Simulator | 159645 | [159645-driving-simulator.json](./159645-driving-simulator.json) |
 | Driving Simulator 2011 | 51254 | [51254-driving-simulator-2011.json](./51254-driving-simulator-2011.json) |
+| Driving Speed HD | 232332 | [232332-driving-speed-hd.json](./232332-driving-speed-hd.json) |
 | Driving Theory Training | 72620 | [72620-driving-theory-training.json](./72620-driving-theory-training.json) |
 | Driving World Collection | 283206 | [283206-driving-world-collection.json](./283206-driving-world-collection.json) |
 | Driving Zone 2 | 100860 | [100860-driving-zone-2.json](./100860-driving-zone-2.json) |
