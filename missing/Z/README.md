@@ -1358,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoocube | 2627 | [2627-zoocube.json](./2627-zoocube.json) |
 | Zoogarnian | 215661 | [215661-zoogarnian.json](./215661-zoogarnian.json) |
 | ZooHop | 247997 | [247997-zoohop.json](./247997-zoohop.json) |
+| Zook Hero Z | 231542 | [231542-zook-hero-z.json](./231542-zook-hero-z.json) |
 | Zookaa Fruits | 395583 | [395583-zookaa-fruits.json](./395583-zookaa-fruits.json) |
 | Zookeeper Battle | 22189 | [22189-zookeeper-battle.json](./22189-zookeeper-battle.json) |
 | Zookeeper DX Touch Edition | 104109 | [104109-zookeeper-dx-touch-edition.json](./104109-zookeeper-dx-touch-edition.json) |
