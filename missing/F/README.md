@@ -2180,6 +2180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faye: A Tale of Shadow | 192885 | [192885-faye-a-tale-of-shadow.json](./192885-faye-a-tale-of-shadow.json) |
 | Faylinn's Quest | 173840 | [173840-faylinns-quest.json](./173840-faylinns-quest.json) |
 | Faz-Karts | 382962 | [382962-faz-karts.json](./382962-faz-karts.json) |
+| Fazbear Entertainment: Storage | 233963 | [233963-fazbear-entertainment-storage.json](./233963-fazbear-entertainment-storage.json) |
 | Fazbear's Shootout | 241837 | [241837-fazbears-shootout.json](./241837-fazbears-shootout.json) |
 | FBG Arcade Machine | 169761 | [169761-fbg-arcade-machine.json](./169761-fbg-arcade-machine.json) |
 | FBI Mania | 30065 | [30065-fbi-mania.json](./30065-fbi-mania.json) |
@@ -7017,6 +7018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | fragment:AM | 218146 | [218146-fragment-am.json](./218146-fragment-am.json) |
 | Fragment's Note 2 | 197251 | [197251-fragments-note-2.json](./197251-fragments-note-2.json) |
 | Fragment's Note+ | 221086 | [221086-fragments-note.json](./221086-fragments-note.json) |
+| Fragment's Note+ AfterStory | 233948 | [233948-fragments-note-afterstory.json](./233948-fragments-note-afterstory.json) |
 | Fragmentary | 390767 | [390767-fragmentary.json](./390767-fragmentary.json) |
 | Fragmentary Order | 398499 | [398499-fragmentary-order.json](./398499-fragmentary-order.json) |
 | Fragmented | 21326 | [21326-fragmented.json](./21326-fragmented.json) |
@@ -7198,6 +7200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fred Versus | 200044 | [200044-fred-versus.json](./200044-fred-versus.json) |
 | Fred's Cereal Company | 253950 | [253950-freds-cereal-company.json](./253950-freds-cereal-company.json) |
 | Fred3ric | 139225 | [139225-fred3ric.json](./139225-fred3ric.json) |
+| Fredbear and Friends: Left to Rot | 233967 | [233967-fredbear-and-friends-left-to-rot.json](./233967-fredbear-and-friends-left-to-rot.json) |
 | Fredbear and Friends: Reboot | 319668 | [319668-fredbear-and-friends-reboot.json](./319668-fredbear-and-friends-reboot.json) |
 | Fredbear Game Number 998433 | 397951 | [397951-fredbear-game-number-998433.json](./397951-fredbear-game-number-998433.json) |
 | Fredbear's Fright | 225631 | [225631-fredbears-fright.json](./225631-fredbears-fright.json) |
