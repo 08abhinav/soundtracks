@@ -4081,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexChess 360 | 92506 | [92506-hexchess-360.json](./92506-hexchess-360.json) |
 | Hexcite: The Shapes of Victory | 49925 | [49925-hexcite-the-shapes-of-victory.json](./49925-hexcite-the-shapes-of-victory.json) |
 | Hexcodle | 313472 | [313472-hexcodle.json](./313472-hexcodle.json) |
+| HexConnect | 235254 | [235254-hexconnect.json](./235254-hexconnect.json) |
 | Hexcraft: Harlequin Fair | 153342 | [153342-hexcraft-harlequin-fair.json](./153342-hexcraft-harlequin-fair.json) |
 | Hexcrawl | 413606 | [413606-hexcrawl.json](./413606-hexcrawl.json) |
 | Hexdo | 312822 | [312822-hexdo.json](./312822-hexdo.json) |
