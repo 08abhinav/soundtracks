@@ -1348,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Champions Soccer | 152350 | [152350-league-of-champions-soccer.json](./152350-league-of-champions-soccer.json) |
 | League of Champions Soccer 2024 | 265840 | [265840-league-of-champions-soccer-2024.json](./265840-league-of-champions-soccer-2024.json) |
 | League of Enthusiastic Losers | 157216 | [157216-league-of-enthusiastic-losers.json](./157216-league-of-enthusiastic-losers.json) |
+| League of Enthusiastic Losers + Brawl Chess | 228942 | [228942-league-of-enthusiastic-losers-brawl-chess.json](./228942-league-of-enthusiastic-losers-brawl-chess.json) |
 | League of Enthusiastic Losers: Definitive Edition | 246645 | [246645-league-of-enthusiastic-losers-definitive-edition.json](./246645-league-of-enthusiastic-losers-definitive-edition.json) |
 | League of Enthusiastic Losers: Premium Edition | 241397 | [241397-league-of-enthusiastic-losers-premium-edition.json](./241397-league-of-enthusiastic-losers-premium-edition.json) |
 | League of Enthusiastic Losers: Ultimate Edition | 231263 | [231263-league-of-enthusiastic-losers-ultimate-edition.json](./231263-league-of-enthusiastic-losers-ultimate-edition.json) |
@@ -5828,6 +5829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucid Deep | 132774 | [132774-lucid-deep.json](./132774-lucid-deep.json) |
 | Lucid Dream | 202933 | [202933-lucid-dream.json](./202933-lucid-dream.json) |
 | Lucid Echoes | 275537 | [275537-lucid-echoes.json](./275537-lucid-echoes.json) |
+| Lucid Lucy | 228957 | [228957-lucid-lucy.json](./228957-lucid-lucy.json) |
 | Lucid Night | 277800 | [277800-lucid-night.json](./277800-lucid-night.json) |
 | Lucid Nightmares | 355126 | [355126-lucid-nightmares.json](./355126-lucid-nightmares.json) |
 | Lucid Path | 108065 | [108065-lucid-path.json](./108065-lucid-path.json) |
