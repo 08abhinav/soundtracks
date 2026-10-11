@@ -6867,6 +6867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Jigsaw: Digital Art Manipulation | 273482 | [273482-house-of-jigsaw-digital-art-manipulation.json](./273482-house-of-jigsaw-digital-art-manipulation.json) |
 | House of Jigsaw: Fantasy | 273478 | [273478-house-of-jigsaw-fantasy.json](./273478-house-of-jigsaw-fantasy.json) |
 | House of Jigsaw: Fascinating Landscapes | 273477 | [273477-house-of-jigsaw-fascinating-landscapes.json](./273477-house-of-jigsaw-fascinating-landscapes.json) |
+| House of Jigsaw: Masters of Art | 238540 | [238540-house-of-jigsaw-masters-of-art.json](./238540-house-of-jigsaw-masters-of-art.json) |
 | House of Jigsaw: Spooky Halloween | 278548 | [278548-house-of-jigsaw-spooky-halloween.json](./278548-house-of-jigsaw-spooky-halloween.json) |
 | House of Jigsaw: The Art of Still Life | 273476 | [273476-house-of-jigsaw-the-art-of-still-life.json](./273476-house-of-jigsaw-the-art-of-still-life.json) |
 | House of Jigsaw: The Best of Macro Photography | 273475 | [273475-house-of-jigsaw-the-best-of-macro-photography.json](./273475-house-of-jigsaw-the-best-of-macro-photography.json) |
