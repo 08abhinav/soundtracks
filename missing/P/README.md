@@ -7468,6 +7468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Car Chase | 334826 | [334826-police-car-chase.json](./334826-police-car-chase.json) |
 | Police Car Drift Simulator | 223986 | [223986-police-car-drift-simulator.json](./223986-police-car-drift-simulator.json) |
 | Police Car Driver: City Parking Simulator | 283237 | [283237-police-car-driver-city-parking-simulator.json](./283237-police-car-driver-city-parking-simulator.json) |
+| Police Car Simulator | 236170 | [236170-police-car-simulator.json](./236170-police-car-simulator.json) |
 | Police Car SUV Simulator | 256563 | [256563-police-car-suv-simulator.json](./256563-police-car-suv-simulator.json) |
 | Police Car: Gangster Chase | 233471 | [233471-police-car-gangster-chase.json](./233471-police-car-gangster-chase.json) |
 | Police Chase | 157550 | [157550-police-chase.json](./157550-police-chase.json) |
@@ -9040,6 +9041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Priministar | 294860 | [294860-priministar.json](./294860-priministar.json) |
 | Primit Shooter 2 | 270950 | [270950-primit-shooter-2.json](./270950-primit-shooter-2.json) |
 | Primitier | 140519 | [140519-primitier.json](./140519-primitier.json) |
+| Primitive | 236171 | [236171-primitive.json](./236171-primitive.json) |
 | Primitive Fear | 387651 | [387651-primitive-fear.json](./387651-primitive-fear.json) |
 | Primitive Hunter | 127710 | [127710-primitive-hunter.json](./127710-primitive-hunter.json) |
 | Primitive Survival | 105361 | [105361-primitive-survival.json](./105361-primitive-survival.json) |
