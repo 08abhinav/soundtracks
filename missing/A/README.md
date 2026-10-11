@@ -1903,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adoventoro Tcheco | 321779 | [321779-adoventoro-tcheco.json](./321779-adoventoro-tcheco.json) |
 | Adr1ft | 8654 | [8654-adr1ft.json](./8654-adr1ft.json) |
 | Adrenalin | 65270 | [65270-adrenalin.json](./65270-adrenalin.json) |
+| Adrenalin Connection | 228626 | [228626-adrenalin-connection.json](./228626-adrenalin-connection.json) |
 | Adrenalin Misfits | 20170 | [20170-adrenalin-misfits.json](./20170-adrenalin-misfits.json) |
 | Adrenaline | 379561 | [379561-adrenaline.json](./379561-adrenaline.json) |
 | Adrenaline Collection Pack | 312096 | [312096-adrenaline-collection-pack.json](./312096-adrenaline-collection-pack.json) |
