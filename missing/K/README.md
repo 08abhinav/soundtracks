@@ -603,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kardiossomatic | 185137 | [185137-kardiossomatic.json](./185137-kardiossomatic.json) |
 | Kardiya: The Winds of Fate | 420001 | [420001-kardiya-the-winds-of-fate.json](./420001-kardiya-the-winds-of-fate.json) |
 | Kardmi | 335988 | [335988-kardmi.json](./335988-kardmi.json) |
+| Kardomance | 232350 | [232350-kardomance.json](./232350-kardomance.json) |
 | Kards: The WWII Card Game | 75140 | [75140-kards-the-wwii-card-game.json](./75140-kards-the-wwii-card-game.json) |
 | Kardun | 214183 | [214183-kardun.json](./214183-kardun.json) |
 | KardVenture | 252720 | [252720-kardventure.json](./252720-kardventure.json) |
