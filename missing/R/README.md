@@ -2344,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ball 2 | 166520 | [166520-red-ball-2.json](./166520-red-ball-2.json) |
 | Red Ball 3 | 166522 | [166522-red-ball-3.json](./166522-red-ball-3.json) |
 | Red Ball 4 | 88924 | [88924-red-ball-4.json](./88924-red-ball-4.json) |
+| Red Ball 5 | 228642 | [228642-red-ball-5.json](./228642-red-ball-5.json) |
 | Red Ball Adventure 3D | 102778 | [102778-red-ball-adventure-3d.json](./102778-red-ball-adventure-3d.json) |
 | Red Ball Escape | 150633 | [150633-red-ball-escape.json](./150633-red-ball-escape.json) |
 | Red Ball Escape Adventure | 218477 | [218477-red-ball-escape-adventure.json](./218477-red-ball-escape-adventure.json) |
