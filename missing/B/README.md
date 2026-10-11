@@ -7302,6 +7302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Reflection: Second Light | 396237 | [396237-blue-reflection-second-light.json](./396237-blue-reflection-second-light.json) |
 | Blue Reflection: Second Light - Premium Box | 155073 | [155073-blue-reflection-second-light-premium-box.json](./155073-blue-reflection-second-light-premium-box.json) |
 | Blue Reflection: Second Light - Special Collection Box | 155072 | [155072-blue-reflection-second-light-special-collection-box.json](./155072-blue-reflection-second-light-special-collection-box.json) |
+| Blue Reflection: Second Light - Ultimate Edition | 237859 | [237859-blue-reflection-second-light-ultimate-edition.json](./237859-blue-reflection-second-light-ultimate-edition.json) |
 | Blue Revolver | 24928 | [24928-blue-revolver.json](./24928-blue-revolver.json) |
 | Blue Ribbon Darts | 159275 | [159275-blue-ribbon-darts.json](./159275-blue-ribbon-darts.json) |
 | Blue Ribbon Show Jumper | 52472 | [52472-blue-ribbon-show-jumper.json](./52472-blue-ribbon-show-jumper.json) |
