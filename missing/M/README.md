@@ -1818,6 +1818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana Sisters | 255261 | [255261-mana-sisters.json](./255261-mana-sisters.json) |
 | Mana Smack | 346542 | [346542-mana-smack.json](./346542-mana-smack.json) |
 | Mana Spark | 50745 | [50745-mana-spark.json](./50745-mana-spark.json) |
+| Mana Spark: Complete Edition | 237854 | [237854-mana-spark-complete-edition.json](./237854-mana-spark-complete-edition.json) |
 | Mana Spark: Forgotten Crypts | 238187 | [238187-mana-spark-forgotten-crypts.json](./238187-mana-spark-forgotten-crypts.json) |
 | Mana Valley | 211189 | [211189-mana-valley.json](./211189-mana-valley.json) |
 | Mana's Manual | 248884 | [248884-manas-manual.json](./248884-manas-manual.json) |
@@ -2312,6 +2313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario + Rabbids Kingdom Battle | 28414 | [28414-mario-rabbids-kingdom-battle.json](./28414-mario-rabbids-kingdom-battle.json) |
 | Mario + Rabbids Kingdom Battle: Donkey Kong Adventure | 103317 | [103317-mario-rabbids-kingdom-battle-donkey-kong-adventure.json](./103317-mario-rabbids-kingdom-battle-donkey-kong-adventure.json) |
 | Mario + Rabbids Kingdom Battle: Gold Edition | 121506 | [121506-mario-rabbids-kingdom-battle-gold-edition.json](./121506-mario-rabbids-kingdom-battle-gold-edition.json) |
+| Mario + Rabbids Kingdom Battle: Pixel Pack | 237995 | [237995-mario-rabbids-kingdom-battle-pixel-pack.json](./237995-mario-rabbids-kingdom-battle-pixel-pack.json) |
 | Mario + Rabbids Kingdom Battle: Ultra Challenge Pack | 237938 | [237938-mario-rabbids-kingdom-battle-ultra-challenge-pack.json](./237938-mario-rabbids-kingdom-battle-ultra-challenge-pack.json) |
 | Mario + Rabbids Sparks of Hope | 152201 | [152201-mario-rabbids-sparks-of-hope.json](./152201-mario-rabbids-sparks-of-hope.json) |
 | Mario + Rabbids Sparks of Hope: + Rayman Edition | 268551 | [268551-mario-rabbids-sparks-of-hope-rayman-edition.json](./268551-mario-rabbids-sparks-of-hope-rayman-edition.json) |
@@ -9906,6 +9908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Rise: DLC Pack 4 | 259760 | [259760-monster-hunter-rise-dlc-pack-4.json](./259760-monster-hunter-rise-dlc-pack-4.json) |
 | Monster Hunter Rise: DLC Pack 5 | 223591 | [223591-monster-hunter-rise-dlc-pack-5.json](./223591-monster-hunter-rise-dlc-pack-5.json) |
 | Monster Hunter Rise: DLC Pack 6 | 223578 | [223578-monster-hunter-rise-dlc-pack-6.json](./223578-monster-hunter-rise-dlc-pack-6.json) |
+| Monster Hunter Rise: DLC Pack 7 | 237990 | [237990-monster-hunter-rise-dlc-pack-7.json](./237990-monster-hunter-rise-dlc-pack-7.json) |
 | Monster Hunter Rise: DLC Pack 9 | 270289 | [270289-monster-hunter-rise-dlc-pack-9.json](./270289-monster-hunter-rise-dlc-pack-9.json) |
 | Monster Hunter Rise: Kamura Collection DLC Pack | 252632 | [252632-monster-hunter-rise-kamura-collection-dlc-pack.json](./252632-monster-hunter-rise-kamura-collection-dlc-pack.json) |
 | Monster Hunter Rise: Kingdom Collection DLC Pack | 252630 | [252630-monster-hunter-rise-kingdom-collection-dlc-pack.json](./252630-monster-hunter-rise-kingdom-collection-dlc-pack.json) |
