@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T19:51:02.796Z",
-  "total_soundtracks": 1466,
+  "generated_at": "2026-10-11T19:51:15.583Z",
+  "total_soundtracks": 1467,
   "games": [
     {
       "igdb_id": 7522,
@@ -14792,6 +14792,20 @@
           "album_name": "The Stanley Parable: Ultra Deluxe (Additional Music from the Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/26yMmck9922U47xc62MbOw",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 113119,
+      "game_name": "The Stanley Parable: Ultra Deluxe",
+      "game_url": "https://ostdb.net/games/the-stanley-parable-ultra-deluxe",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c17a7dfbff479cfd7781d48a",
+      "albums": [
+        {
+          "album_name": "The Stanley Parable: Ultra Deluxe (Additional Music from the Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/26yMmck9922U47xc62MbOw",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
