@@ -919,6 +919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Rites | 320471 | [320471-last-rites.json](./320471-last-rites.json) |
 | Last Rites | 71124 | [71124-last-rites.json](./71124-last-rites.json) |
 | Last Rose | 125800 | [125800-last-rose.json](./125800-last-rose.json) |
+| Last Ruler of Vicissity | 236173 | [236173-last-ruler-of-vicissity.json](./236173-last-ruler-of-vicissity.json) |
 | Last Salvo | 76651 | [76651-last-salvo.json](./76651-last-salvo.json) |
 | Last Sapiens | 216471 | [216471-last-sapiens.json](./216471-last-sapiens.json) |
 | Last Second Save | 382898 | [382898-last-second-save.json](./382898-last-second-save.json) |
