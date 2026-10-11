@@ -3272,6 +3272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris: The Grand Master 3 - Terror‑Instinct | 25024 | [25024-tetris-the-grand-master-3-terror-instinct.json](./25024-tetris-the-grand-master-3-terror-instinct.json) |
 | Tetris: The Grand Master 4 - The Masters of Round | 25026 | [25026-tetris-the-grand-master-4-the-masters-of-round.json](./25026-tetris-the-grand-master-4-the-masters-of-round.json) |
 | Tetris: The Grand Master Ace | 25025 | [25025-tetris-the-grand-master-ace.json](./25025-tetris-the-grand-master-ace.json) |
+| Tetris'd | 230751 | [230751-tetrisd.json](./230751-tetrisd.json) |
 | Tetris26 | 40669 | [40669-tetris26.json](./40669-tetris26.json) |
 | Tetrisphere | 3612 | [3612-tetrisphere.json](./3612-tetrisphere.json) |
 | Tetrisweeper | 295637 | [295637-tetrisweeper.json](./295637-tetrisweeper.json) |
@@ -4883,6 +4884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crafter's Defense | 169831 | [169831-the-crafters-defense.json](./169831-the-crafters-defense.json) |
 | The Crafting Dead | 97133 | [97133-the-crafting-dead.json](./97133-the-crafting-dead.json) |
 | The Crane Rider's Tale | 400355 | [400355-the-crane-riders-tale.json](./400355-the-crane-riders-tale.json) |
+| The Crank Gym | 230742 | [230742-the-crank-gym.json](./230742-the-crank-gym.json) |
 | The Crawler | 304159 | [304159-the-crawler.json](./304159-the-crawler.json) |
 | The Crawling Dead | 358799 | [358799-the-crawling-dead.json](./358799-the-crawling-dead.json) |
 | The Crayon Factory | 66962 | [66962-the-crayon-factory.json](./66962-the-crayon-factory.json) |
