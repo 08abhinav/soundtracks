@@ -3858,6 +3858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Tough Guy | 252023 | [252023-maximum-tough-guy.json](./252023-maximum-tough-guy.json) |
 | Maximus | 333766 | [333766-maximus.json](./333766-maximus.json) |
 | Maximus 2: Fantasy Beat-Em-Up | 196574 | [196574-maximus-2-fantasy-beat-em-up.json](./196574-maximus-2-fantasy-beat-em-up.json) |
+| Maximus 2: Street Gladiators | 237237 | [237237-maximus-2-street-gladiators.json](./237237-maximus-2-street-gladiators.json) |
 | Maxit | 78372 | [78372-maxit.json](./78372-maxit.json) |
 | Maxo Scringle's "Human Rocket" Mini-Type Rocket Golf | 402367 | [402367-maxo-scringles-human-rocket-mini-type-rocket-golf.json](./402367-maxo-scringles-human-rocket-mini-type-rocket-golf.json) |
 | MaxPlay Classic Games Volume 1 | 3996 | [3996-maxplay-classic-games-volume-1.json](./3996-maxplay-classic-games-volume-1.json) |
@@ -6025,6 +6026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mesuinu Moon | 97510 | [97510-mesuinu-moon.json](./97510-mesuinu-moon.json) |
 | Met Rage | 122970 | [122970-met-rage.json](./122970-met-rage.json) |
 | Meta | 260065 | [260065-meta.json](./260065-meta.json) |
+| Meta Ball | 237245 | [237245-meta-ball.json](./237245-meta-ball.json) |
 | Meta Form | 198485 | [198485-meta-form.json](./198485-meta-form.json) |
 | Meta Fox | 39689 | [39689-meta-fox.json](./39689-meta-fox.json) |
 | Meta Knightmare Ultra | 271411 | [271411-meta-knightmare-ultra.json](./271411-meta-knightmare-ultra.json) |
@@ -11420,6 +11422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move It | 59800 | [59800-move-it.json](./59800-move-it.json) |
 | Move Mind Benders | 20818 | [20818-move-mind-benders.json](./20818-move-mind-benders.json) |
 | Move Nature | 234735 | [234735-move-nature.json](./234735-move-nature.json) |
+| Move On | 237261 | [237261-move-on.json](./237261-move-on.json) |
 | Move or Die | 17012 | [17012-move-or-die.json](./17012-move-or-die.json) |
 | Move or Die: Couch Party Edition | 209130 | [209130-move-or-die-couch-party-edition.json](./209130-move-or-die-couch-party-edition.json) |
 | Move or Die: Unleashed | 324846 | [324846-move-or-die-unleashed.json](./324846-move-or-die-unleashed.json) |
@@ -13632,6 +13635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Solitaire: Cthulhu Mythos 3 | 270966 | [270966-mystery-solitaire-cthulhu-mythos-3.json](./270966-mystery-solitaire-cthulhu-mythos-3.json) |
 | Mystery Solitaire: Dreamcatcher | 153531 | [153531-mystery-solitaire-dreamcatcher.json](./153531-mystery-solitaire-dreamcatcher.json) |
 | Mystery Solitaire: Dreamcatcher 2 | 213317 | [213317-mystery-solitaire-dreamcatcher-2.json](./213317-mystery-solitaire-dreamcatcher-2.json) |
+| Mystery Solitaire: Dreamcatcher 3 | 237255 | [237255-mystery-solitaire-dreamcatcher-3.json](./237255-mystery-solitaire-dreamcatcher-3.json) |
 | Mystery Solitaire: Grimm's Tales 2 | 122367 | [122367-mystery-solitaire-grimms-tales-2.json](./122367-mystery-solitaire-grimms-tales-2.json) |
 | Mystery Solitaire: Grimm's Tales 9 | 262586 | [262586-mystery-solitaire-grimms-tales-9.json](./262586-mystery-solitaire-grimms-tales-9.json) |
 | Mystery Solitaire: Powerful Alchemist 3 | 214006 | [214006-mystery-solitaire-powerful-alchemist-3.json](./214006-mystery-solitaire-powerful-alchemist-3.json) |
