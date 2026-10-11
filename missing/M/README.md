@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Zombie | 86562 | [86562-mad-zombie.json](./86562-mad-zombie.json) |
 | MAD: Global Thermonuclear Warfare | 69534 | [69534-mad-global-thermonuclear-warfare.json](./69534-mad-global-thermonuclear-warfare.json) |
 | MAD: Mutually Assured Destruction | 101727 | [101727-mad-mutually-assured-destruction.json](./101727-mad-mutually-assured-destruction.json) |
+| Madagascar | 230436 | [230436-madagascar.json](./230436-madagascar.json) |
 | Madagascar | 3764 | [3764-madagascar.json](./3764-madagascar.json) |
 | Madagascar 3: Europe's Most Wanted | 243270 | [243270-madagascar-3-europes-most-wanted.json](./243270-madagascar-3-europes-most-wanted.json) |
 | Madagascar Kartz | 309578 | [309578-madagascar-kartz.json](./309578-madagascar-kartz.json) |
@@ -2565,7 +2566,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party 7 | 2334 | [2334-mario-party-7.json](./2334-mario-party-7.json) |
 | Mario Party 7 Bon Voyage | 231602 | [231602-mario-party-7-bon-voyage.json](./231602-mario-party-7-bon-voyage.json) |
 | Mario Party 8 | 328675 | [328675-mario-party-8.json](./328675-mario-party-8.json) |
+| Mario Party Challenge World | 230168 | [230168-mario-party-challenge-world.json](./230168-mario-party-challenge-world.json) |
 | Mario Party Heardle | 203828 | [203828-mario-party-heardle.json](./203828-mario-party-heardle.json) |
+| Mario Party Kuru-kuru! Carnival | 230166 | [230166-mario-party-kuru-kuru-carnival.json](./230166-mario-party-kuru-kuru-carnival.json) |
 | Mario Party Legacy 1 Vol. 14 | 283630 | [283630-mario-party-legacy-1-vol-14.json](./283630-mario-party-legacy-1-vol-14.json) |
 | Mario Party Legacy 1 Vol. 15 | 283635 | [283635-mario-party-legacy-1-vol-15.json](./283635-mario-party-legacy-1-vol-15.json) |
 | Mario Party Legacy 1 Vol. 16 | 283640 | [283640-mario-party-legacy-1-vol-16.json](./283640-mario-party-legacy-1-vol-16.json) |
@@ -3617,6 +3620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math and Letters Air Control | 197778 | [197778-math-and-letters-air-control.json](./197778-math-and-letters-air-control.json) |
 | Math Attack | 367509 | [367509-math-attack.json](./367509-math-attack.json) |
 | Math Balance: Pre-algebra game for kids | 97141 | [97141-math-balance-pre-algebra-game-for-kids.json](./97141-math-balance-pre-algebra-game-for-kids.json) |
+| Math Baseball | 230437 | [230437-math-baseball.json](./230437-math-baseball.json) |
 | Math Be Nimble: Brain Training | 265425 | [265425-math-be-nimble-brain-training.json](./265425-math-be-nimble-brain-training.json) |
 | Math Bingo | 201167 | [201167-math-bingo.json](./201167-math-bingo.json) |
 | Math Blaster Ages 4-6 | 58816 | [58816-math-blaster-ages-4-6.json](./58816-math-blaster-ages-4-6.json) |
@@ -12604,6 +12608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Adaptation In(to) Human | 301348 | [301348-my-adaptation-in-to-human.json](./301348-my-adaptation-in-to-human.json) |
 | My Agent is a Futanari | 220676 | [220676-my-agent-is-a-futanari.json](./220676-my-agent-is-a-futanari.json) |
 | My Ambitious Girlfriend | 299522 | [299522-my-ambitious-girlfriend.json](./299522-my-ambitious-girlfriend.json) |
+| My Amusement Park | 230438 | [230438-my-amusement-park.json](./230438-my-amusement-park.json) |
 | My Amusement Park | 47929 | [47929-my-amusement-park.json](./47929-my-amusement-park.json) |
 | My Angel | 217770 | [217770-my-angel.json](./217770-my-angel.json) |
 | My Anima Boy | 278731 | [278731-my-anima-boy.json](./278731-my-anima-boy.json) |
@@ -13097,6 +13102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lust Wish | 160274 | [160274-my-lust-wish.json](./160274-my-lust-wish.json) |
 | My Mafia Girlfriend | 229111 | [229111-my-mafia-girlfriend.json](./229111-my-mafia-girlfriend.json) |
 | My Magic Florist | 146773 | [146773-my-magic-florist.json](./146773-my-magic-florist.json) |
+| My Magical Boyfriend | 230179 | [230179-my-magical-boyfriend.json](./230179-my-magical-boyfriend.json) |
 | My Magical Demon Lover | 109628 | [109628-my-magical-demon-lover.json](./109628-my-magical-demon-lover.json) |
 | My Make-Up | 93985 | [93985-my-make-up.json](./93985-my-make-up.json) |
 | My Mart | 420668 | [420668-my-mart.json](./420668-my-mart.json) |
