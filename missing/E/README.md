@@ -1217,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ElbmarKs | 197153 | [197153-elbmarks.json](./197153-elbmarks.json) |
 | Eldabyss | 290707 | [290707-eldabyss.json](./290707-eldabyss.json) |
 | Eldegarde | 304346 | [304346-eldegarde.json](./304346-eldegarde.json) |
+| Elden Bling | 238532 | [238532-elden-bling.json](./238532-elden-bling.json) |
 | Elden Gunfire 2 | 293187 | [293187-elden-gunfire-2.json](./293187-elden-gunfire-2.json) |
 | Elden Ring Nightreign - The Forsaken Hollows | 377238 | [377238-elden-ring-nightreign-the-forsaken-hollows.json](./377238-elden-ring-nightreign-the-forsaken-hollows.json) |
 | Elden Ring Seamless Co-op | 381683 | [381683-elden-ring-seamless-co-op.json](./381683-elden-ring-seamless-co-op.json) |
@@ -2792,6 +2793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Roller Coasters: Snow Land | 166643 | [166643-epic-roller-coasters-snow-land.json](./166643-epic-roller-coasters-snow-land.json) |
 | Epic Roller Coasters: Space Station | 166655 | [166655-epic-roller-coasters-space-station.json](./166655-epic-roller-coasters-space-station.json) |
 | Epic Roller Coasters: SpongeBob SquarePants | 279563 | [279563-epic-roller-coasters-spongebob-squarepants.json](./279563-epic-roller-coasters-spongebob-squarepants.json) |
+| Epic Roller Coasters: Stonehenge | 238368 | [238368-epic-roller-coasters-stonehenge.json](./238368-epic-roller-coasters-stonehenge.json) |
 | Epic Roller Coasters: T-Rex Kingdom | 166646 | [166646-epic-roller-coasters-t-rex-kingdom.json](./166646-epic-roller-coasters-t-rex-kingdom.json) |
 | Epic Roller Coasters: Tuwhena Volcano | 166641 | [166641-epic-roller-coasters-tuwhena-volcano.json](./166641-epic-roller-coasters-tuwhena-volcano.json) |
 | Epic Roller Coasters: Twilight | 166649 | [166649-epic-roller-coasters-twilight.json](./166649-epic-roller-coasters-twilight.json) |
