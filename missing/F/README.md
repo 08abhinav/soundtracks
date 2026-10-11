@@ -3359,6 +3359,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Missions | 103187 | [103187-final-missions.json](./103187-final-missions.json) |
 | Final Nation | 251823 | [251823-final-nation.json](./251823-final-nation.json) |
 | Final Night At Hotel | 395493 | [395493-final-night-at-hotel.json](./395493-final-night-at-hotel.json) |
+| Final Nights | 238358 | [238358-final-nights.json](./238358-final-nights.json) |
+| Final Nights 2: Sins of the Father | 238361 | [238361-final-nights-2-sins-of-the-father.json](./238361-final-nights-2-sins-of-the-father.json) |
+| Final Nights 3: Nightmares Awaken | 238363 | [238363-final-nights-3-nightmares-awaken.json](./238363-final-nights-3-nightmares-awaken.json) |
+| Final Nights 4: Fates Entwined | 238373 | [238373-final-nights-4-fates-entwined.json](./238373-final-nights-4-fates-entwined.json) |
+| Final Nights Redux and Knuckles | 238374 | [238374-final-nights-redux-and-knuckles.json](./238374-final-nights-redux-and-knuckles.json) |
 | Final Ninja | 176821 | [176821-final-ninja.json](./176821-final-ninja.json) |
 | Final Ninja Zero | 176868 | [176868-final-ninja-zero.json](./176868-final-ninja-zero.json) |
 | Final Notice | 351112 | [351112-final-notice.json](./351112-final-notice.json) |
