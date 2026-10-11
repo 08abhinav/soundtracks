@@ -1513,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Abyss | 116100 | [116100-neon-abyss.json](./116100-neon-abyss.json) |
 | Neon Abyss 2 | 325279 | [325279-neon-abyss-2.json](./325279-neon-abyss-2.json) |
 | Neon Abyss: Deluxe Edition | 169182 | [169182-neon-abyss-deluxe-edition.json](./169182-neon-abyss-deluxe-edition.json) |
+| Neon Abyss: The Lovable Rogues Pack | 237993 | [237993-neon-abyss-the-lovable-rogues-pack.json](./237993-neon-abyss-the-lovable-rogues-pack.json) |
 | Neon Baller 0.1 | 151706 | [151706-neon-baller-0-1.json](./151706-neon-baller-0-1.json) |
 | Neon Bash | 301804 | [301804-neon-bash.json](./301804-neon-bash.json) |
 | Neon Battle | 85607 | [85607-neon-battle.json](./85607-neon-battle.json) |
