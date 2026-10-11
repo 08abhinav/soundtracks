@@ -4109,6 +4109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SFCave for Playdate | 230736 | [230736-sfcave-for-playdate.json](./230736-sfcave-for-playdate.json) |
 | SFD | 105676 | [105676-sfd.json](./105676-sfd.json) |
 | SFG Soccer | 66700 | [66700-sfg-soccer.json](./66700-sfg-soccer.json) |
+| Sfinx | 228956 | [228956-sfinx.json](./228956-sfinx.json) |
 | Sfsim | 415868 | [415868-sfsim.json](./415868-sfsim.json) |
 | SG Racing | 207760 | [207760-sg-racing.json](./207760-sg-racing.json) |
 | SGarden | 180050 | [180050-sgarden.json](./180050-sgarden.json) |
@@ -14795,6 +14796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squid Survival Simulator: Sea Animal Life 3D | 104594 | [104594-squid-survival-simulator-sea-animal-life-3d.json](./104594-squid-survival-simulator-sea-animal-life-3d.json) |
 | Squid Town | 112511 | [112511-squid-town.json](./112511-squid-town.json) |
 | Squid: Sponge Neighbor Expose | 326703 | [326703-squid-sponge-neighbor-expose.json](./326703-squid-sponge-neighbor-expose.json) |
+| Squid! Escape! Fight! | 229254 | [229254-squid-escape-fight.json](./229254-squid-escape-fight.json) |
 | Squidly's Revenge | 373906 | [373906-squidlys-revenge.json](./373906-squidlys-revenge.json) |
 | Squids in a Pickle | 340924 | [340924-squids-in-a-pickle.json](./340924-squids-in-a-pickle.json) |
 | Squids Odyssey | 19877 | [19877-squids-odyssey.json](./19877-squids-odyssey.json) |
