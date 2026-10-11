@@ -2615,6 +2615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenebrea | 372096 | [372096-tenebrea.json](./372096-tenebrea.json) |
 | TenebriS | 158128 | [158128-tenebris.json](./158128-tenebris.json) |
 | Tenebris Lake | 288272 | [288272-tenebris-lake.json](./288272-tenebris-lake.json) |
+| Tenebris: Terra Incognita | 235777 | [235777-tenebris-terra-incognita.json](./235777-tenebris-terra-incognita.json) |
 | Tenebrix | 403651 | [403651-tenebrix.json](./403651-tenebrix.json) |
 | Tenebrous Dungeon | 115002 | [115002-tenebrous-dungeon.json](./115002-tenebrous-dungeon.json) |
 | Tenebrum | 268458 | [268458-tenebrum.json](./268458-tenebrum.json) |
@@ -9281,6 +9282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outpost Nine | 105325 | [105325-the-outpost-nine.json](./105325-the-outpost-nine.json) |
 | The Outreach | 294360 | [294360-the-outreach.json](./294360-the-outreach.json) |
 | The Outsider | 180560 | [180560-the-outsider.json](./180560-the-outsider.json) |
+| The Outsider TD | 235661 | [235661-the-outsider-td.json](./235661-the-outsider-td.json) |
 | The Outsiders | 247952 | [247952-the-outsiders.json](./247952-the-outsiders.json) |
 | The Outskirts | 412394 | [412394-the-outskirts.json](./412394-the-outskirts.json) |
 | The Overlook Rehaunted | 276762 | [276762-the-overlook-rehaunted.json](./276762-the-overlook-rehaunted.json) |
@@ -20511,6 +20513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turret | 130200 | [130200-turret.json](./130200-turret.json) |
 | Turret Defense | 243821 | [243821-turret-defense.json](./243821-turret-defense.json) |
 | Turret Defense King | 317362 | [317362-turret-defense-king.json](./317362-turret-defense-king.json) |
+| Turret Girl | 235670 | [235670-turret-girl.json](./235670-turret-girl.json) |
 | Turret Jumper 2 | 183350 | [183350-turret-jumper-2.json](./183350-turret-jumper-2.json) |
 | Turret Lab | 223519 | [223519-turret-lab.json](./223519-turret-lab.json) |
 | Turret Tech | 106155 | [106155-turret-tech.json](./106155-turret-tech.json) |
