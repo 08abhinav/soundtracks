@@ -4780,6 +4780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Games - Order letters and create words | 96070 | [96070-word-games-order-letters-and-create-words.json](./96070-word-games-order-letters-and-create-words.json) |
 | Word Guru - Puzzle Word Game | 89233 | [89233-word-guru-puzzle-word-game.json](./89233-word-guru-puzzle-word-game.json) |
 | Word Harmony | 52130 | [52130-word-harmony.json](./52130-word-harmony.json) |
+| Word Invaders! | 232479 | [232479-word-invaders.json](./232479-word-invaders.json) |
 | Word Jong | 47715 | [47715-word-jong.json](./47715-word-jong.json) |
 | Word Jumblerama Blitz | 89575 | [89575-word-jumblerama-blitz.json](./89575-word-jumblerama-blitz.json) |
 | Word Killer: Revolution | 29968 | [29968-word-killer-revolution.json](./29968-word-killer-revolution.json) |
@@ -4864,6 +4865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Tuah | 338303 | [338303-word-tuah.json](./338303-word-tuah.json) |
 | Word Turtle Island | 301082 | [301082-word-turtle-island.json](./301082-word-turtle-island.json) |
 | Word U | 104600 | [104600-word-u.json](./104600-word-u.json) |
+| Word Vs Picture | 232478 | [232478-word-vs-picture.json](./232478-word-vs-picture.json) |
 | Word War Vi | 242591 | [242591-word-war-vi.json](./242591-word-war-vi.json) |
 | Word Warp | 377139 | [377139-word-warp.json](./377139-word-warp.json) |
 | Word Warp: Animal Edition | 396222 | [396222-word-warp-animal-edition.json](./396222-word-warp-animal-edition.json) |
@@ -4887,6 +4889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Yo! | 73355 | [73355-word-yo.json](./73355-word-yo.json) |
 | Word Zapper | 46884 | [46884-word-zapper.json](./46884-word-zapper.json) |
 | Word Zip - Free Word Games | 105972 | [105972-word-zip-free-word-games.json](./105972-word-zip-free-word-games.json) |
+| Word-O-Mania | 232475 | [232475-word-o-mania.json](./232475-word-o-mania.json) |
 | Word95 | 382459 | [382459-word95.json](./382459-word95.json) |
 | Wordament: Snap Attack | 14592 | [14592-wordament-snap-attack.json](./14592-wordament-snap-attack.json) |
 | WordApt | 109504 | [109504-wordapt.json](./109504-wordapt.json) |
