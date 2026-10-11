@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Bear's Big Day Out | 155707 | [155707-baby-bears-big-day-out.json](./155707-baby-bears-big-day-out.json) |
 | Baby Berks | 60533 | [60533-baby-berks.json](./60533-baby-berks.json) |
 | Baby Blimp | 177054 | [177054-baby-blimp.json](./177054-baby-blimp.json) |
+| Baby Blocks: Swipe & Tap Letters, Spell Words Fast | 232472 | [232472-baby-blocks-swipe-and-tap-letters-spell-words-fast.json](./232472-baby-blocks-swipe-and-tap-letters-spell-words-fast.json) |
 | Baby Blues Nightmares: Toddler Horror Game | 291377 | [291377-baby-blues-nightmares-toddler-horror-game.json](./291377-baby-blues-nightmares-toddler-horror-game.json) |
 | Baby Boomer | 48107 | [48107-baby-boomer.json](./48107-baby-boomer.json) |
 | Baby Bug | 14279 | [14279-baby-bug.json](./14279-baby-bug.json) |
@@ -3049,6 +3050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Buzzin Chopper | 42779 | [42779-beach-buzzin-chopper.json](./42779-beach-buzzin-chopper.json) |
 | Beach Cafe III: The Escape Room | 266316 | [266316-beach-cafe-iii-the-escape-room.json](./266316-beach-cafe-iii-the-escape-room.json) |
 | Beach Cafe: Caribbean Sand | 232988 | [232988-beach-cafe-caribbean-sand.json](./232988-beach-cafe-caribbean-sand.json) |
+| Beach Casino HD | 232354 | [232354-beach-casino-hd.json](./232354-beach-casino-hd.json) |
 | Beach Club Simulator | 292638 | [292638-beach-club-simulator.json](./292638-beach-club-simulator.json) |
 | Beach Club Simulator 2024 | 289429 | [289429-beach-club-simulator-2024.json](./289429-beach-club-simulator-2024.json) |
 | Beach Club Tycoon | 249683 | [249683-beach-club-tycoon.json](./249683-beach-club-tycoon.json) |
@@ -8065,6 +8067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonza Planet | 354445 | [354445-bonza-planet.json](./354445-bonza-planet.json) |
 | Bonza Word Puzzle | 61152 | [61152-bonza-word-puzzle.json](./61152-bonza-word-puzzle.json) |
 | Bonza Word Puzzle | 90678 | [90678-bonza-word-puzzle.json](./90678-bonza-word-puzzle.json) |
+| Bonzai Bounce | 232341 | [232341-bonzai-bounce.json](./232341-bonzai-bounce.json) |
 | Bonzala | 269595 | [269595-bonzala.json](./269595-bonzala.json) |
 | Bonze Adventure | 38539 | [38539-bonze-adventure.json](./38539-bonze-adventure.json) |
 | Bonzo The Brave: Be Brave | 299269 | [299269-bonzo-the-brave-be-brave.json](./299269-bonzo-the-brave-be-brave.json) |
@@ -8999,6 +9002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Boost Beta / Gamma Wave | 21381 | [21381-brain-boost-beta-gamma-wave.json](./21381-brain-boost-beta-gamma-wave.json) |
 | Brain Boost: Gamma Wave | 44064 | [44064-brain-boost-gamma-wave.json](./44064-brain-boost-gamma-wave.json) |
 | Brain Box on Physics Truck | 102109 | [102109-brain-box-on-physics-truck.json](./102109-brain-box-on-physics-truck.json) |
+| Brain Box Quiz: Trivia Fun | 232471 | [232471-brain-box-quiz-trivia-fun.json](./232471-brain-box-quiz-trivia-fun.json) |
 | Brain Break | 141100 | [141100-brain-break.json](./141100-brain-break.json) |
 | Brain Challenge | 7281 | [7281-brain-challenge.json](./7281-brain-challenge.json) |
 | Brain Challenge 2: Think Again! | 67609 | [67609-brain-challenge-2-think-again.json](./67609-brain-challenge-2-think-again.json) |
@@ -11363,6 +11367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterfly's Big Knife Fight | 398640 | [398640-butterflys-big-knife-fight.json](./398640-butterflys-big-knife-fight.json) |
 | Butterfly's Poison: Blood Chains - Fantasy Night Stories | 226207 | [226207-butterflys-poison-blood-chains-fantasy-night-stories.json](./226207-butterflys-poison-blood-chains-fantasy-night-stories.json) |
 | Butterfly//Circuit | 252234 | [252234-butterfly-circuit.json](./252234-butterfly-circuit.json) |
+| Button Board | 232349 | [232349-button-board.json](./232349-button-board.json) |
 | Button Button Up! | 122868 | [122868-button-button-up.json](./122868-button-button-up.json) |
 | Button Cat | 339120 | [339120-button-cat.json](./339120-button-cat.json) |
 | Button City | 136980 | [136980-button-city.json](./136980-button-city.json) |
