@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capybara Against Humanity | 377779 | [377779-capybara-against-humanity.json](./377779-capybara-against-humanity.json) |
 | Capybara Carbonara | 132760 | [132760-capybara-carbonara.json](./132760-capybara-carbonara.json) |
 | Capybara Journey Go | 378782 | [378782-capybara-journey-go.json](./378782-capybara-journey-go.json) |
+| Capybara Madness | 231273 | [231273-capybara-madness.json](./231273-capybara-madness.json) |
 | Capybara Park | 312189 | [312189-capybara-park.json](./312189-capybara-park.json) |
 | Capybara Pizza Cafe | 411553 | [411553-capybara-pizza-cafe.json](./411553-capybara-pizza-cafe.json) |
 | Capybara Quest | 310942 | [310942-capybara-quest.json](./310942-capybara-quest.json) |
@@ -6702,6 +6703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clumsy Rush: Ultimate Guys | 212682 | [212682-clumsy-rush-ultimate-guys.json](./212682-clumsy-rush-ultimate-guys.json) |
 | Clumsy Rush: Ultimate Guys - Complete Edition | 232998 | [232998-clumsy-rush-ultimate-guys-complete-edition.json](./232998-clumsy-rush-ultimate-guys-complete-edition.json) |
 | Clumsy Rush: Ultimate Guys - Decorations Pack 12 | 251665 | [251665-clumsy-rush-ultimate-guys-decorations-pack-12.json](./251665-clumsy-rush-ultimate-guys-decorations-pack-12.json) |
+| Clumsy Rush: Ultimate Guys - Definitive Edition | 231277 | [231277-clumsy-rush-ultimate-guys-definitive-edition.json](./231277-clumsy-rush-ultimate-guys-definitive-edition.json) |
 | Clumsy Rush: Ultimate Guys - Extended Edition | 238064 | [238064-clumsy-rush-ultimate-guys-extended-edition.json](./238064-clumsy-rush-ultimate-guys-extended-edition.json) |
 | Clumsy Rush: Ultimate Guys - GOTY Edition | 246878 | [246878-clumsy-rush-ultimate-guys-goty-edition.json](./246878-clumsy-rush-ultimate-guys-goty-edition.json) |
 | Clumsy Rush: Ultimate Guys - Legendary Edition | 251494 | [251494-clumsy-rush-ultimate-guys-legendary-edition.json](./251494-clumsy-rush-ultimate-guys-legendary-edition.json) |
@@ -9527,6 +9529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countdown: The Game | 393141 | [393141-countdown-the-game.json](./393141-countdown-the-game.json) |
 | Counter Attack | 152291 | [152291-counter-attack.json](./152291-counter-attack.json) |
 | Counter Attack | 279009 | [279009-counter-attack.json](./279009-counter-attack.json) |
+| Counter Bottle Shooter: Pro Aim Master Target Bottle Shoot 3D Game Strike Pistol | 231278 | [231278-counter-bottle-shooter-pro-aim-master-target-bottle-shoot-3d-game-strike-pistol.json](./231278-counter-bottle-shooter-pro-aim-master-target-bottle-shoot-3d-game-strike-pistol.json) |
 | Counter Call: Half Escape Shooter | 403737 | [403737-counter-call-half-escape-shooter.json](./403737-counter-call-half-escape-shooter.json) |
 | Counter Clash | 290852 | [290852-counter-clash.json](./290852-counter-clash.json) |
 | Counter Crossline: Crime War | 219304 | [219304-counter-crossline-crime-war.json](./219304-counter-crossline-crime-war.json) |
@@ -11553,6 +11556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypto Is Dead | 159138 | [159138-crypto-is-dead.json](./159138-crypto-is-dead.json) |
 | Crypto Miner Tycoon Simulator | 191122 | [191122-crypto-miner-tycoon-simulator.json](./191122-crypto-miner-tycoon-simulator.json) |
 | Crypto Mining | 358295 | [358295-crypto-mining.json](./358295-crypto-mining.json) |
+| Crypto Mining Simulator: Ultimate Trading Strategy Tycoon Craft & Idle Game 3D | 231279 | [231279-crypto-mining-simulator-ultimate-trading-strategy-tycoon-craft-and-idle-game-3d.json](./231279-crypto-mining-simulator-ultimate-trading-strategy-tycoon-craft-and-idle-game-3d.json) |
 | Crypto Quest | 93743 | [93743-crypto-quest.json](./93743-crypto-quest.json) |
 | Crypto Raiders | 178391 | [178391-crypto-raiders.json](./178391-crypto-raiders.json) |
 | Crypto Royale | 225730 | [225730-crypto-royale.json](./225730-crypto-royale.json) |
