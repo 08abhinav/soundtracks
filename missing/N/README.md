@@ -4948,6 +4948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyan to Suteki na Natsuiro Days | 108872 | [108872-nyan-to-suteki-na-natsuiro-days.json](./108872-nyan-to-suteki-na-natsuiro-days.json) |
 | Nyan to Wonderful | 143674 | [143674-nyan-to-wonderful.json](./143674-nyan-to-wonderful.json) |
 | Nyan-Tech | 80157 | [80157-nyan-tech.json](./80157-nyan-tech.json) |
+| Nyanaconda | 229237 | [229237-nyanaconda.json](./229237-nyanaconda.json) |
 | Nyancle Racing | 94668 | [94668-nyancle-racing.json](./94668-nyancle-racing.json) |
 | Nyanco | 120044 | [120044-nyanco.json](./120044-nyanco.json) |
 | Nyanco Dream | 126557 | [126557-nyanco-dream.json](./126557-nyanco-dream.json) |
