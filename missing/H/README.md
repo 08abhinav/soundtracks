@@ -4916,6 +4916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hikikomori Life | 169864 | [169864-hikikomori-life.json](./169864-hikikomori-life.json) |
 | Hikikomori No Chuunibyou | 32072 | [32072-hikikomori-no-chuunibyou.json](./32072-hikikomori-no-chuunibyou.json) |
 | Hikisakareta Badaaru | 394545 | [394545-hikisakareta-badaaru.json](./394545-hikisakareta-badaaru.json) |
+| Hikkonuki Pikmin | 232900 | [232900-hikkonuki-pikmin.json](./232900-hikkonuki-pikmin.json) |
 | Hilarious Delivery | 390224 | [390224-hilarious-delivery.json](./390224-hilarious-delivery.json) |
 | Hilda and the Tower of Lust | 265182 | [265182-hilda-and-the-tower-of-lust.json](./265182-hilda-and-the-tower-of-lust.json) |
 | Hilde Redemption | 308899 | [308899-hilde-redemption.json](./308899-hilde-redemption.json) |
