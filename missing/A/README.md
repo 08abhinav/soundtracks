@@ -325,7 +325,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Happy New Year | 324964 | [324964-a-happy-new-year.json](./324964-a-happy-new-year.json) |
 | A Happy Place | 376114 | [376114-a-happy-place.json](./376114-a-happy-place.json) |
 | A Harvesting Moon | 55089 | [55089-a-harvesting-moon.json](./55089-a-harvesting-moon.json) |
+| A Hat in Time: Deluxe Edition | 237862 | [237862-a-hat-in-time-deluxe-edition.json](./237862-a-hat-in-time-deluxe-edition.json) |
 | A Hat in Time: Seal the Deal | 109466 | [109466-a-hat-in-time-seal-the-deal.json](./109466-a-hat-in-time-seal-the-deal.json) |
+| A Hat in Time: Ultimate Edition | 237863 | [237863-a-hat-in-time-ultimate-edition.json](./237863-a-hat-in-time-ultimate-edition.json) |
 | A Hat in Time: Vanessa's Curse | 193202 | [193202-a-hat-in-time-vanessas-curse.json](./193202-a-hat-in-time-vanessas-curse.json) |
 | A Haunted History | 201663 | [201663-a-haunted-history.json](./201663-a-haunted-history.json) |
 | A Haunting Novel: Burton Hotel | 416854 | [416854-a-haunting-novel-burton-hotel.json](./416854-a-haunting-novel-burton-hotel.json) |
@@ -4330,6 +4332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Idleness and Ephemera | 248783 | [248783-all-idleness-and-ephemera.json](./248783-all-idleness-and-ephemera.json) |
 | All in a Day's Work | 58865 | [58865-all-in-a-days-work.json](./58865-all-in-a-days-work.json) |
 | All in Abyss: Judge the Fake | 302693 | [302693-all-in-abyss-judge-the-fake.json](./302693-all-in-abyss-judge-the-fake.json) |
+| All in Casino Girls: Extended Edition | 237855 | [237855-all-in-casino-girls-extended-edition.json](./237855-all-in-casino-girls-extended-edition.json) |
 | All In Everyday | 326091 | [326091-all-in-everyday.json](./326091-all-in-everyday.json) |
 | All in One Adventure VR | 368663 | [368663-all-in-one-adventure-vr.json](./368663-all-in-one-adventure-vr.json) |
 | All In One Sports: Four Ball Billiards | 417371 | [417371-all-in-one-sports-four-ball-billiards.json](./417371-all-in-one-sports-four-ball-billiards.json) |
@@ -10118,6 +10121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Ryza 2: Lost Legends & the Secret Fairy - Digital Deluxe Edition | 222263 | [222263-atelier-ryza-2-lost-legends-and-the-secret-fairy-digital-deluxe-edition.json](./222263-atelier-ryza-2-lost-legends-and-the-secret-fairy-digital-deluxe-edition.json) |
 | Atelier Ryza 2: Lost Legends & The Secret Fairy - Premium Box | 139998 | [139998-atelier-ryza-2-lost-legends-and-the-secret-fairy-premium-box.json](./139998-atelier-ryza-2-lost-legends-and-the-secret-fairy-premium-box.json) |
 | Atelier Ryza 2: Lost Legends & The Secret Fairy - Special Collection Box | 140002 | [140002-atelier-ryza-2-lost-legends-and-the-secret-fairy-special-collection-box.json](./140002-atelier-ryza-2-lost-legends-and-the-secret-fairy-special-collection-box.json) |
+| Atelier Ryza 2: Lost Legends & the Secret Fairy - Ultimate Edition | 237847 | [237847-atelier-ryza-2-lost-legends-and-the-secret-fairy-ultimate-edition.json](./237847-atelier-ryza-2-lost-legends-and-the-secret-fairy-ultimate-edition.json) |
 | Atelier Ryza 2: Lost Legends & the Secret Fairy DX | 359425 | [359425-atelier-ryza-2-lost-legends-and-the-secret-fairy-dx.json](./359425-atelier-ryza-2-lost-legends-and-the-secret-fairy-dx.json) |
 | Atelier Ryza 3: Additional Area - Ashra-am Baird Outlying Areas | 254374 | [254374-atelier-ryza-3-additional-area-ashra-am-baird-outlying-areas.json](./254374-atelier-ryza-3-additional-area-ashra-am-baird-outlying-areas.json) |
 | Atelier Ryza 3: Alchemist of the End & the Secret Key - Additional Area "Rosca Island" | 251683 | [251683-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-additional-area-rosca-island.json](./251683-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-additional-area-rosca-island.json) |
