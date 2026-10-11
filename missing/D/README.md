@@ -4042,6 +4042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonic Labyrinth | 237074 | [237074-demonic-labyrinth.json](./237074-demonic-labyrinth.json) |
 | Demonic Libido | 262427 | [262427-demonic-libido.json](./262427-demonic-libido.json) |
 | Demonic Pack | 237462 | [237462-demonic-pack.json](./237462-demonic-pack.json) |
+| Demonic Tales Bundle | 233016 | [233016-demonic-tales-bundle.json](./233016-demonic-tales-bundle.json) |
 | Demonicute | 155672 | [155672-demonicute.json](./155672-demonicute.json) |
 | Demonk | 347239 | [347239-demonk.json](./347239-demonk.json) |
 | DeMonkey | 302122 | [302122-demonkey.json](./302122-demonkey.json) |
@@ -8450,6 +8451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot to Tot - Connect Alphabets | 88210 | [88210-dot-to-tot-connect-alphabets.json](./88210-dot-to-tot-connect-alphabets.json) |
 | Dot Valley | 362721 | [362721-dot-valley.json](./362721-dot-valley.json) |
 | Dot. | 94201 | [94201-dot.json](./94201-dot.json) |
+| Dota | 233022 | [233022-dota.json](./233022-dota.json) |
 | Dota 2: New Frontiers | 246900 | [246900-dota-2-new-frontiers.json](./246900-dota-2-new-frontiers.json) |
 | DotAge | 111045 | [111045-dotage.json](./111045-dotage.json) |
 | DotAge: Folkways | 336527 | [336527-dotage-folkways.json](./336527-dotage-folkways.json) |
@@ -10373,6 +10375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Real Truck SImulator | 409625 | [409625-drive-real-truck-simulator.json](./409625-drive-real-truck-simulator.json) |
 | Drive Simulator 2016 | 90673 | [90673-drive-simulator-2016.json](./90673-drive-simulator-2016.json) |
 | Drive Thru | 365860 | [365860-drive-thru.json](./365860-drive-thru.json) |
+| Drive Time Radio | 232910 | [232910-drive-time-radio.json](./232910-drive-time-radio.json) |
 | Drive to Hell | 36135 | [36135-drive-to-hell.json](./36135-drive-to-hell.json) |
 | Drive to The Top | 411690 | [411690-drive-to-the-top.json](./411690-drive-to-the-top.json) |
 | Drive Together | 384799 | [384799-drive-together.json](./384799-drive-together.json) |
