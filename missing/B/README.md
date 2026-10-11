@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BAB | 302208 | [302208-bab.json](./302208-bab.json) |
 | Bab.gg | 408262 | [408262-bab-gg.json](./408262-bab-gg.json) |
 | Baba Booey's Adventure | 72118 | [72118-baba-booeys-adventure.json](./72118-baba-booeys-adventure.json) |
+| Baba Files Taxes | 230189 | [230189-baba-files-taxes.json](./230189-baba-files-taxes.json) |
 | Baba Is Cool 2 | 301581 | [301581-baba-is-cool-2.json](./301581-baba-is-cool-2.json) |
 | Baba is You Xtreme | 209470 | [209470-baba-is-you-xtreme.json](./209470-baba-is-you-xtreme.json) |
 | Baba Is You: Baba Make Level | 334743 | [334743-baba-is-you-baba-make-level.json](./334743-baba-is-you-baba-make-level.json) |
@@ -5697,6 +5698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Out. | 297808 | [297808-black-out.json](./297808-black-out.json) |
 | Black OX | 353801 | [353801-black-ox.json](./353801-black-ox.json) |
 | Black Panther | 38589 | [38589-black-panther.json](./38589-black-panther.json) |
+| Black Panther: Wakanda Forever - Reveal the Power | 230426 | [230426-black-panther-wakanda-forever-reveal-the-power.json](./230426-black-panther-wakanda-forever-reveal-the-power.json) |
 | Black Paradox | 104866 | [104866-black-paradox.json](./104866-black-paradox.json) |
 | Black Paradox Reloaded | 349393 | [349393-black-paradox-reloaded.json](./349393-black-paradox-reloaded.json) |
 | Black Parallax | 395206 | [395206-black-parallax.json](./395206-black-parallax.json) |
