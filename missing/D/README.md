@@ -10433,6 +10433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driver4VR | 152871 | [152871-driver4vr.json](./152871-driver4vr.json) |
 | Driverio | 219108 | [219108-driverio.json](./219108-driverio.json) |
 | Driverio 2 | 223518 | [223518-driverio-2.json](./223518-driverio-2.json) |
+| Driverio 3 | 228332 | [228332-driverio-3.json](./228332-driverio-3.json) |
 | Drivers Ed Portable | 70425 | [70425-drivers-ed-portable.json](./70425-drivers-ed-portable.json) |
 | Drivers of the Apocalypse | 324586 | [324586-drivers-of-the-apocalypse.json](./324586-drivers-of-the-apocalypse.json) |
 | DriveSafely | 285936 | [285936-drivesafely.json](./285936-drivesafely.json) |
