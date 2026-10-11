@@ -9012,6 +9012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Hearts | 315041 | [315041-primal-hearts.json](./315041-primal-hearts.json) |
 | Primal Hearts 2 | 159313 | [159313-primal-hearts-2.json](./159313-primal-hearts-2.json) |
 | Primal Hunger | 211271 | [211271-primal-hunger.json](./211271-primal-hunger.json) |
+| Primal Hunt | 233017 | [233017-primal-hunt.json](./233017-primal-hunt.json) |
 | Primal Image Vol.1 | 67313 | [67313-primal-image-vol-1.json](./67313-primal-image-vol-1.json) |
 | Primal Lands | 50517 | [50517-primal-lands.json](./50517-primal-lands.json) |
 | Primal Man Simulator | 149560 | [149560-primal-man-simulator.json](./149560-primal-man-simulator.json) |
@@ -10272,6 +10273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Summer Ice - Bowling: Story Three - Mark Version | 215111 | [215111-project-summer-ice-bowling-story-three-mark-version.json](./215111-project-summer-ice-bowling-story-three-mark-version.json) |
 | Project: Summer Ice - Bowling: Story Two - Jane Version | 215357 | [215357-project-summer-ice-bowling-story-two-jane-version.json](./215357-project-summer-ice-bowling-story-two-jane-version.json) |
 | Project: Summer Ice - Bowling: Story Two - Mark Version | 215124 | [215124-project-summer-ice-bowling-story-two-mark-version.json](./215124-project-summer-ice-bowling-story-two-mark-version.json) |
+| Project: Summer Ice - Pinball: Jane | 233034 | [233034-project-summer-ice-pinball-jane.json](./233034-project-summer-ice-pinball-jane.json) |
 | Project: Summer Ice - Pinball: Pammy | 229079 | [229079-project-summer-ice-pinball-pammy.json](./229079-project-summer-ice-pinball-pammy.json) |
 | Project: SX | 331712 | [331712-project-sx.json](./331712-project-sx.json) |
 | Project: Taco | 420547 | [420547-project-taco.json](./420547-project-taco.json) |
