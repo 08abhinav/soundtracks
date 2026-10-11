@@ -1353,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warship Legend | 227813 | [227813-warship-legend.json](./227813-warship-legend.json) |
 | Warship Survival | 337743 | [337743-warship-survival.json](./337743-warship-survival.json) |
 | WarShip War Navy Fleet Combat | 255043 | [255043-warship-war-navy-fleet-combat.json](./255043-warship-war-navy-fleet-combat.json) |
+| Warship World War | 227731 | [227731-warship-world-war.json](./227731-warship-world-war.json) |
 | Warships 3D | 114158 | [114158-warships-3d.json](./114158-warships-3d.json) |
 | Warships Final Battle | 230910 | [230910-warships-final-battle.json](./230910-warships-final-battle.json) |
 | Warships Online | 23624 | [23624-warships-online.json](./23624-warships-online.json) |
@@ -3365,6 +3366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Thornberrys Australian Wildlife Rescue | 225704 | [225704-wild-thornberrys-australian-wildlife-rescue.json](./225704-wild-thornberrys-australian-wildlife-rescue.json) |
 | Wild Times | 149221 | [149221-wild-times.json](./149221-wild-times.json) |
 | Wild Tower | 373740 | [373740-wild-tower.json](./373740-wild-tower.json) |
+| Wild Tribe | 228001 | [228001-wild-tribe.json](./228001-wild-tribe.json) |
 | Wild Turkey Hunt | 95453 | [95453-wild-turkey-hunt.json](./95453-wild-turkey-hunt.json) |
 | Wild Varmint Bounty Hunter | 118220 | [118220-wild-varmint-bounty-hunter.json](./118220-wild-varmint-bounty-hunter.json) |
 | Wild Warfare | 17598 | [17598-wild-warfare.json](./17598-wild-warfare.json) |
