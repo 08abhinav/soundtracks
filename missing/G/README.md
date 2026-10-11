@@ -2202,6 +2202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Out! 2 | 226741 | [226741-get-out-2.json](./226741-get-out-2.json) |
 | Get Over Here | 34715 | [34715-get-over-here.json](./34715-get-over-here.json) |
 | Get Over Here! | 286794 | [286794-get-over-here.json](./286794-get-over-here.json) |
+| Get Ready for Kindergarten | 230432 | [230432-get-ready-for-kindergarten.json](./230432-get-ready-for-kindergarten.json) |
 | Get Ready For School, Charlie Brown! | 209596 | [209596-get-ready-for-school-charlie-brown.json](./209596-get-ready-for-school-charlie-brown.json) |
 | Get Rektorized | 207522 | [207522-get-rektorized.json](./207522-get-rektorized.json) |
 | Get Rich | 311645 | [311645-get-rich.json](./311645-get-rich.json) |
@@ -2994,6 +2995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Joe's Punch Out!! | 360100 | [360100-glass-joes-punch-out.json](./360100-glass-joes-punch-out.json) |
 | Glass Masquerade | 25871 | [25871-glass-masquerade.json](./25871-glass-masquerade.json) |
 | Glass Masquerade 2: Illusions | 109763 | [109763-glass-masquerade-2-illusions.json](./109763-glass-masquerade-2-illusions.json) |
+| Glass Masquerade 2: Illusions - Scaryfolks Puzzle Pack | 230163 | [230163-glass-masquerade-2-illusions-scaryfolks-puzzle-pack.json](./230163-glass-masquerade-2-illusions-scaryfolks-puzzle-pack.json) |
 | Glass Masquerade 3: Honeylines | 249809 | [249809-glass-masquerade-3-honeylines.json](./249809-glass-masquerade-3-honeylines.json) |
 | Glass Masquerade 3: Honeylines - Folks & Spirits | 307201 | [307201-glass-masquerade-3-honeylines-folks-and-spirits.json](./307201-glass-masquerade-3-honeylines-folks-and-spirits.json) |
 | Glass Masquerade 3: Honeylines - Wings & Tunes | 274640 | [274640-glass-masquerade-3-honeylines-wings-and-tunes.json](./274640-glass-masquerade-3-honeylines-wings-and-tunes.json) |
@@ -4665,6 +4667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GP Fight | 92311 | [92311-gp-fight.json](./92311-gp-fight.json) |
 | GP World | 6108 | [6108-gp-world.json](./6108-gp-world.json) |
 | GP-1 Part II | 42591 | [42591-gp-1-part-ii.json](./42591-gp-1-part-ii.json) |
+| Gpop.io | 230192 | [230192-gpop-io.json](./230192-gpop-io.json) |
 | GPS Monster Scouter | 372137 | [372137-gps-monster-scouter.json](./372137-gps-monster-scouter.json) |
 | GPU Inferno | 369910 | [369910-gpu-inferno.json](./369910-gpu-inferno.json) |
 | Graahl: Of Feather and Grit | 109549 | [109549-graahl-of-feather-and-grit.json](./109549-graahl-of-feather-and-grit.json) |
