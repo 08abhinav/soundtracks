@@ -4609,6 +4609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medivination | 302505 | [302505-medivination.json](./302505-medivination.json) |
 | Medoka Magik Grls Extended | 159229 | [159229-medoka-magik-grls-extended.json](./159229-medoka-magik-grls-extended.json) |
 | Medulla | 147254 | [147254-medulla.json](./147254-medulla.json) |
+| Medusa | 228006 | [228006-medusa.json](./228006-medusa.json) |
 | Medusa and Her Lover | 122930 | [122930-medusa-and-her-lover.json](./122930-medusa-and-her-lover.json) |
 | Medusa Frontier | 196889 | [196889-medusa-frontier.json](./196889-medusa-frontier.json) |
 | Medusa the Origin: Lost Dream of the Deep | 284324 | [284324-medusa-the-origin-lost-dream-of-the-deep.json](./284324-medusa-the-origin-lost-dream-of-the-deep.json) |
@@ -5052,6 +5053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Solitaire | 209528 | [209528-mega-solitaire.json](./209528-mega-solitaire.json) |
 | Mega Sports | 94333 | [94333-mega-sports.json](./94333-mega-sports.json) |
 | Mega Starforce: Return to the Great Star | 275311 | [275311-mega-starforce-return-to-the-great-star.json](./275311-mega-starforce-return-to-the-great-star.json) |
+| Mega Store | 228009 | [228009-mega-store.json](./228009-mega-store.json) |
 | Mega Sudoku Plus | 59066 | [59066-mega-sudoku-plus.json](./59066-mega-sudoku-plus.json) |
 | Mega Sudoku: Binary & Suguru | 235258 | [235258-mega-sudoku-binary-and-suguru.json](./235258-mega-sudoku-binary-and-suguru.json) |
 | Mega Tetris 2000 | 125272 | [125272-mega-tetris-2000.json](./125272-mega-tetris-2000.json) |
@@ -8832,6 +8834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MitchiriNeko Bubble | 228544 | [228544-mitchirineko-bubble.json](./228544-mitchirineko-bubble.json) |
 | Mite ha Ikenai | 300344 | [300344-mite-ha-ikenai.json](./300344-mite-ha-ikenai.json) |
 | Mithra | 285485 | [285485-mithra.json](./285485-mithra.json) |
+| Mithra Dream Battle | 227741 | [227741-mithra-dream-battle.json](./227741-mithra-dream-battle.json) |
 | Mithra Episode 1: The Calling | 359065 | [359065-mithra-episode-1-the-calling.json](./359065-mithra-episode-1-the-calling.json) |
 | Mithraeum | 213622 | [213622-mithraeum.json](./213622-mithraeum.json) |
 | Mithral Gun | 196330 | [196330-mithral-gun.json](./196330-mithral-gun.json) |
@@ -9967,7 +9970,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Rise: DLC Pack 5 | 223591 | [223591-monster-hunter-rise-dlc-pack-5.json](./223591-monster-hunter-rise-dlc-pack-5.json) |
 | Monster Hunter Rise: DLC Pack 6 | 223578 | [223578-monster-hunter-rise-dlc-pack-6.json](./223578-monster-hunter-rise-dlc-pack-6.json) |
 | Monster Hunter Rise: DLC Pack 7 | 237990 | [237990-monster-hunter-rise-dlc-pack-7.json](./237990-monster-hunter-rise-dlc-pack-7.json) |
+| Monster Hunter Rise: DLC Pack 8 | 228021 | [228021-monster-hunter-rise-dlc-pack-8.json](./228021-monster-hunter-rise-dlc-pack-8.json) |
 | Monster Hunter Rise: DLC Pack 9 | 270289 | [270289-monster-hunter-rise-dlc-pack-9.json](./270289-monster-hunter-rise-dlc-pack-9.json) |
+| Monster Hunter Rise: Extra DLC Pack | 228022 | [228022-monster-hunter-rise-extra-dlc-pack.json](./228022-monster-hunter-rise-extra-dlc-pack.json) |
 | Monster Hunter Rise: Kamura Collection DLC Pack | 252632 | [252632-monster-hunter-rise-kamura-collection-dlc-pack.json](./252632-monster-hunter-rise-kamura-collection-dlc-pack.json) |
 | Monster Hunter Rise: Kingdom Collection DLC Pack | 252630 | [252630-monster-hunter-rise-kingdom-collection-dlc-pack.json](./252630-monster-hunter-rise-kingdom-collection-dlc-pack.json) |
 | Monster Hunter Rise: Sunbreak | 172425 | [172425-monster-hunter-rise-sunbreak.json](./172425-monster-hunter-rise-sunbreak.json) |
@@ -12954,6 +12959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero One's Justice 2: Outlaw Suit Set | 237917 | [237917-my-hero-ones-justice-2-outlaw-suit-set.json](./237917-my-hero-ones-justice-2-outlaw-suit-set.json) |
 | My Hero One's Justice 2: Pack 7 Present Mic | 193195 | [193195-my-hero-ones-justice-2-pack-7-present-mic.json](./193195-my-hero-ones-justice-2-pack-7-present-mic.json) |
 | My Hero One's Justice 2: Pack 8 Kurogiri | 193194 | [193194-my-hero-ones-justice-2-pack-8-kurogiri.json](./193194-my-hero-ones-justice-2-pack-8-kurogiri.json) |
+| My Hero One's Justice 2: Weekend Clothes 1-A Lively Set | 228025 | [228025-my-hero-ones-justice-2-weekend-clothes-1-a-lively-set.json](./228025-my-hero-ones-justice-2-weekend-clothes-1-a-lively-set.json) |
 | My Hero One's Justice: Additional Mission - Gale | 168256 | [168256-my-hero-ones-justice-additional-mission-gale.json](./168256-my-hero-ones-justice-additional-mission-gale.json) |
 | My Hero One's Justice: Mission - Above and Beyond Endeavor | 168253 | [168253-my-hero-ones-justice-mission-above-and-beyond-endeavor.json](./168253-my-hero-ones-justice-mission-above-and-beyond-endeavor.json) |
 | My Hero One's Justice: Mission - O.F.A Deku Shoot Style | 168254 | [168254-my-hero-ones-justice-mission-o-f-a-deku-shoot-style.json](./168254-my-hero-ones-justice-mission-o-f-a-deku-shoot-style.json) |
