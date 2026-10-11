@@ -3621,6 +3621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OverSoul | 109067 | [109067-oversoul.json](./109067-oversoul.json) |
 | Overstars | 151286 | [151286-overstars.json](./151286-overstars.json) |
 | Overstimulacrum | 415461 | [415461-overstimulacrum.json](./415461-overstimulacrum.json) |
+| Overstrike Arena | 235650 | [235650-overstrike-arena.json](./235650-overstrike-arena.json) |
 | Overtake | 94193 | [94193-overtake.json](./94193-overtake.json) |
 | OverTheCloud_Global | 117100 | [117100-overthecloud-global.json](./117100-overthecloud-global.json) |
 | Overthrown | 309472 | [309472-overthrown.json](./309472-overthrown.json) |
