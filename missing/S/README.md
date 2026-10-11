@@ -11309,6 +11309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog RPG: Past, Present, & Future | 370481 | [370481-sonic-the-hedgehog-rpg-past-present-and-future.json](./370481-sonic-the-hedgehog-rpg-past-present-and-future.json) |
 | Sonic the Hedgehog RPG: Return to Iron Lock | 317587 | [317587-sonic-the-hedgehog-rpg-return-to-iron-lock.json](./317587-sonic-the-hedgehog-rpg-return-to-iron-lock.json) |
 | Sonic the Hedgehog Snowday | 334688 | [334688-sonic-the-hedgehog-snowday.json](./334688-sonic-the-hedgehog-snowday.json) |
+| Sonic the Hedgehog Transitions | 228325 | [228325-sonic-the-hedgehog-transitions.json](./228325-sonic-the-hedgehog-transitions.json) |
 | Sonic the Hedgehog Turbo | 331708 | [331708-sonic-the-hedgehog-turbo.json](./331708-sonic-the-hedgehog-turbo.json) |
 | Sonic the Hedgehog TX | 336381 | [336381-sonic-the-hedgehog-tx.json](./336381-sonic-the-hedgehog-tx.json) |
 | Sonic the Hedgehog Vol.2 | 198533 | [198533-sonic-the-hedgehog-vol-2.json](./198533-sonic-the-hedgehog-vol-2.json) |
@@ -11724,6 +11725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Grinder | 184649 | [184649-soul-grinder.json](./184649-soul-grinder.json) |
 | Soul Guardians | 238645 | [238645-soul-guardians.json](./238645-soul-guardians.json) |
 | Soul Guardians: Age of Midgard | 39177 | [39177-soul-guardians-age-of-midgard.json](./39177-soul-guardians-age-of-midgard.json) |
+| Soul Hackers 2 | 228334 | [228334-soul-hackers-2.json](./228334-soul-hackers-2.json) |
 | Soul Hackers 2: Digital Deluxe Edition | 213330 | [213330-soul-hackers-2-digital-deluxe-edition.json](./213330-soul-hackers-2-digital-deluxe-edition.json) |
 | Soul Hackers 2: Digital Premium Edition | 213331 | [213331-soul-hackers-2-digital-premium-edition.json](./213331-soul-hackers-2-digital-premium-edition.json) |
 | Soul Historica | 118181 | [118181-soul-historica.json](./118181-soul-historica.json) |
@@ -13177,6 +13179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Specimen 15 | 263009 | [263009-specimen-15.json](./263009-specimen-15.json) |
 | Specimen 42 | 133829 | [133829-specimen-42.json](./133829-specimen-42.json) |
 | Speckle: Chill Puzzle Game | 103190 | [103190-speckle-chill-puzzle-game.json](./103190-speckle-chill-puzzle-game.json) |
+| Specnaz 2 | 228329 | [228329-specnaz-2.json](./228329-specnaz-2.json) |
 | Specnaz: Project Wolf | 72789 | [72789-specnaz-project-wolf.json](./72789-specnaz-project-wolf.json) |
 | Specshong | 398459 | [398459-specshong.json](./398459-specshong.json) |
 | Spectacle | 135007 | [135007-spectacle.json](./135007-spectacle.json) |
@@ -13838,6 +13841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Squared | 174281 | [174281-spin-squared.json](./174281-spin-squared.json) |
 | Spin the Beat | 43500 | [43500-spin-the-beat.json](./43500-spin-the-beat.json) |
 | Spin the Bottle: Bumpie's Party | 79172 | [79172-spin-the-bottle-bumpies-party.json](./79172-spin-the-bottle-bumpies-party.json) |
+| Spin Time | 228640 | [228640-spin-time.json](./228640-spin-time.json) |
 | Spin to Survive | 386388 | [386388-spin-to-survive.json](./386388-spin-to-survive.json) |
 | Spinal Breakers | 39666 | [39666-spinal-breakers.json](./39666-spinal-breakers.json) |
 | Spinal Fantasy | 318134 | [318134-spinal-fantasy.json](./318134-spinal-fantasy.json) |
@@ -13961,6 +13965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Rover | 107208 | [107208-spirit-rover.json](./107208-spirit-rover.json) |
 | Spirit Seasons: Little Ghost Story | 125311 | [125311-spirit-seasons-little-ghost-story.json](./125311-spirit-seasons-little-ghost-story.json) |
 | Spirit Shift | 181365 | [181365-spirit-shift.json](./181365-spirit-shift.json) |
+| Spirit Slider | 228616 | [228616-spirit-slider.json](./228616-spirit-slider.json) |
 | Spirit Speaker | 335854 | [335854-spirit-speaker.json](./335854-spirit-speaker.json) |
 | Spirit Stones | 39178 | [39178-spirit-stones.json](./39178-spirit-stones.json) |
 | Spirit Swap | 298111 | [298111-spirit-swap.json](./298111-spirit-swap.json) |
