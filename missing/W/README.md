@@ -4897,6 +4897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordHue | 212796 | [212796-wordhue.json](./212796-wordhue.json) |
 | Wordify | 147461 | [147461-wordify.json](./147461-wordify.json) |
 | Wordish | 187434 | [187434-wordish.json](./187434-wordish.json) |
+| Wordism | 239093 | [239093-wordism.json](./239093-wordism.json) |
 | WordJong Arcade | 65492 | [65492-wordjong-arcade.json](./65492-wordjong-arcade.json) |
 | WordKiller: Revolution | 180122 | [180122-wordkiller-revolution.json](./180122-wordkiller-revolution.json) |
 | Wordkour | 307730 | [307730-wordkour.json](./307730-wordkour.json) |
