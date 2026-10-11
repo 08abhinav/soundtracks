@@ -1402,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Element4l | 8715 | [8715-element4l.json](./8715-element4l.json) |
 | Elementail | 360513 | [360513-elementail.json](./360513-elementail.json) |
 | Elementaire | 297088 | [297088-elementaire.json](./297088-elementaire.json) |
+| Elemental | 230161 | [230161-elemental.json](./230161-elemental.json) |
 | Elemental | 290641 | [290641-elemental.json](./290641-elemental.json) |
 | Elemental | 351639 | [351639-elemental.json](./351639-elemental.json) |
 | Elemental | 95377 | [95377-elemental.json](./95377-elemental.json) |
