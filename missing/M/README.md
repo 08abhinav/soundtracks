@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maces and Dices | 252028 | [252028-maces-and-dices.json](./252028-maces-and-dices.json) |
 | MacGolf | 288706 | [288706-macgolf.json](./288706-macgolf.json) |
 | MacGuffin | 34526 | [34526-macguffin.json](./34526-macguffin.json) |
+| Mach Go Go Go | 228608 | [228608-mach-go-go-go.json](./228608-mach-go-go-go.json) |
 | Mach K9 | 300348 | [300348-mach-k9.json](./300348-mach-k9.json) |
 | Mach's noch einmal, Sven | 206794 | [206794-machs-noch-einmal-sven.json](./206794-machs-noch-einmal-sven.json) |
 | Machete | 257290 | [257290-machete.json](./257290-machete.json) |
@@ -1242,6 +1243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Haoh: Dankyuu Battle II | 204352 | [204352-mahjong-haoh-dankyuu-battle-ii.json](./204352-mahjong-haoh-dankyuu-battle-ii.json) |
 | Mahjong Hishou-den: Shin Naki no Ryuu | 37937 | [37937-mahjong-hishou-den-shin-naki-no-ryuu.json](./37937-mahjong-hishou-den-shin-naki-no-ryuu.json) |
 | Mahjong Infinity | 117043 | [117043-mahjong-infinity.json](./117043-mahjong-infinity.json) |
+| Mahjong Jo-ou | 228609 | [228609-mahjong-jo-ou.json](./228609-mahjong-jo-ou.json) |
 | Mahjong Journey: Quest for Tikal | 175921 | [175921-mahjong-journey-quest-for-tikal.json](./175921-mahjong-journey-quest-for-tikal.json) |
 | Mahjong Kazoku | 41364 | [41364-mahjong-kazoku.json](./41364-mahjong-kazoku.json) |
 | Mahjong Kuru Jidai: AV Gal Seifukuhen | 254452 | [254452-mahjong-kuru-jidai-av-gal-seifukuhen.json](./254452-mahjong-kuru-jidai-av-gal-seifukuhen.json) |
@@ -1262,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Pretty Girls Battle | 28584 | [28584-mahjong-pretty-girls-battle.json](./28584-mahjong-pretty-girls-battle.json) |
 | Mahjong Pretty Girls Battle: School Girls Edition | 34986 | [34986-mahjong-pretty-girls-battle-school-girls-edition.json](./34986-mahjong-pretty-girls-battle-school-girls-edition.json) |
 | Mahjong Pretty Manga Girls | 105105 | [105105-mahjong-pretty-manga-girls.json](./105105-mahjong-pretty-manga-girls.json) |
+| Mahjong Quest | 228610 | [228610-mahjong-quest.json](./228610-mahjong-quest.json) |
 | Mahjong Quest | 286435 | [286435-mahjong-quest.json](./286435-mahjong-quest.json) |
 | Mahjong Quest Collection | 27850 | [27850-mahjong-quest-collection.json](./27850-mahjong-quest-collection.json) |
 | Mahjong Quest II | 286436 | [286436-mahjong-quest-ii.json](./286436-mahjong-quest-ii.json) |
@@ -2707,6 +2710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maritime Calling | 155978 | [155978-maritime-calling.json](./155978-maritime-calling.json) |
 | Maritime Hegemony | 220748 | [220748-maritime-hegemony.json](./220748-maritime-hegemony.json) |
 | Maritime Mecha Mystery | 291558 | [291558-maritime-mecha-mystery.json](./291558-maritime-mecha-mystery.json) |
+| Marito Arcade | 228317 | [228317-marito-arcade.json](./228317-marito-arcade.json) |
 | Mariuccha Alchemy Queen | 149449 | [149449-mariuccha-alchemy-queen.json](./149449-mariuccha-alchemy-queen.json) |
 | Mark Davis Pro Bass Challenge | 3991 | [3991-mark-davis-pro-bass-challenge.json](./3991-mark-davis-pro-bass-challenge.json) |
 | Mark Davis': The Fishing Master | 42499 | [42499-mark-davis-the-fishing-master.json](./42499-mark-davis-the-fishing-master.json) |
@@ -4463,6 +4467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot 7: Kuwagata Version | 83882 | [83882-medarot-7-kuwagata-version.json](./83882-medarot-7-kuwagata-version.json) |
 | Medarot 8: Kabuto Version | 138117 | [138117-medarot-8-kabuto-version.json](./138117-medarot-8-kabuto-version.json) |
 | Medarot 9 Kabuto/Kuwagata | 59661 | [59661-medarot-9-kabuto-kuwagata.json](./59661-medarot-9-kabuto-kuwagata.json) |
+| Medarot Cardrobottle: Kuwagata Version | 228618 | [228618-medarot-cardrobottle-kuwagata-version.json](./228618-medarot-cardrobottle-kuwagata-version.json) |
 | Medarot Classics | 71577 | [71577-medarot-classics.json](./71577-medarot-classics.json) |
 | Medarot Classics Kabuto Version | 136957 | [136957-medarot-classics-kabuto-version.json](./136957-medarot-classics-kabuto-version.json) |
 | Medarot Classics Kuwagata Version | 136953 | [136953-medarot-classics-kuwagata-version.json](./136953-medarot-classics-kuwagata-version.json) |
@@ -6980,6 +6985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miden Tower: Experience & SP x2 | 171021 | [171021-miden-tower-experience-and-sp-x2.json](./171021-miden-tower-experience-and-sp-x2.json) |
 | Miden Tower: Experience x3 | 171020 | [171020-miden-tower-experience-x3.json](./171020-miden-tower-experience-x3.json) |
 | Midforest Survivor | 258088 | [258088-midforest-survivor.json](./258088-midforest-survivor.json) |
+| Midgard | 228323 | [228323-midgard.json](./228323-midgard.json) |
 | Midgard Lava-a-Jato | 298428 | [298428-midgard-lava-a-jato.json](./298428-midgard-lava-a-jato.json) |
 | Midgard Outlaw | 201233 | [201233-midgard-outlaw.json](./201233-midgard-outlaw.json) |
 | Midinous | 173225 | [173225-midinous.json](./173225-midinous.json) |
@@ -7129,6 +7135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midora | 61307 | [61307-midora.json](./61307-midora.json) |
 | Midori Budou-den | 339121 | [339121-midori-budou-den.json](./339121-midori-budou-den.json) |
 | Midori No Makibao: Kuroi Inazuma Shiroi Kiseki | 396756 | [396756-midori-no-makibao-kuroi-inazuma-shiroi-kiseki.json](./396756-midori-no-makibao-kuroi-inazuma-shiroi-kiseki.json) |
+| Midori no Makibaoo | 228619 | [228619-midori-no-makibaoo.json](./228619-midori-no-makibaoo.json) |
 | Midsummer Leg's Dream | 303791 | [303791-midsummer-legs-dream.json](./303791-midsummer-legs-dream.json) |
 | Midtown Madness | 2348 | [2348-midtown-madness.json](./2348-midtown-madness.json) |
 | Midtown Madness 2 | 5930 | [5930-midtown-madness-2.json](./5930-midtown-madness-2.json) |
@@ -8125,6 +8132,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Z Racers Turbo | 31902 | [31902-mini-z-racers-turbo.json](./31902-mini-z-racers-turbo.json) |
 | Mini Zag | 84341 | [84341-mini-zag.json](./84341-mini-zag.json) |
 | Mini Zen Garden | 293837 | [293837-mini-zen-garden.json](./293837-mini-zen-garden.json) |
+| Mini-4 Boy | 228620 | [228620-mini-4-boy.json](./228620-mini-4-boy.json) |
+| Mini-4 Boy II | 228621 | [228621-mini-4-boy-ii.json](./228621-mini-4-boy-ii.json) |
 | Mini-Game Greatest Hits | 230390 | [230390-mini-game-greatest-hits.json](./230390-mini-game-greatest-hits.json) |
 | Mini-Level Megawad | 269654 | [269654-mini-level-megawad.json](./269654-mini-level-megawad.json) |
 | Mini-Map | 419200 | [419200-mini-map.json](./419200-mini-map.json) |
@@ -9319,6 +9328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mogo Invasion | 48004 | [48004-mogo-invasion.json](./48004-mogo-invasion.json) |
 | Mogrimera: Disciple of Order | 249907 | [249907-mogrimera-disciple-of-order.json](./249907-mogrimera-disciple-of-order.json) |
 | Mogu Valley | 371607 | [371607-mogu-valley.json](./371607-mogu-valley.json) |
+| Mogu-mogu Gombo | 228622 | [228622-mogu-mogu-gombo.json](./228622-mogu-mogu-gombo.json) |
 | Moguchan | 38584 | [38584-moguchan.json](./38584-moguchan.json) |
 | Mogul Maniac | 40788 | [40788-mogul-maniac.json](./40788-mogul-maniac.json) |
 | Mogura de Pon! | 342739 | [342739-mogura-de-pon.json](./342739-mogura-de-pon.json) |
@@ -9571,6 +9581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Garden | 186269 | [186269-money-garden.json](./186269-money-garden.json) |
 | Money Go! | 246471 | [246471-money-go.json](./246471-money-go.json) |
 | Money Hog | 294806 | [294806-money-hog.json](./294806-money-hog.json) |
+| Money Idol Exchanger | 228625 | [228625-money-idol-exchanger.json](./228625-money-idol-exchanger.json) |
 | Money Laundering Simulator | 358344 | [358344-money-laundering-simulator.json](./358344-money-laundering-simulator.json) |
 | Money Loves Silence | 126608 | [126608-money-loves-silence.json](./126608-money-loves-silence.json) |
 | Money Maker | 111872 | [111872-money-maker.json](./111872-money-maker.json) |
