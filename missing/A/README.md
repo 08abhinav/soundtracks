@@ -1810,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Addition and Subtraction 3 | 42192 | [42192-addition-and-subtraction-3.json](./42192-addition-and-subtraction-3.json) |
 | Addle Earth | 158119 | [158119-addle-earth.json](./158119-addle-earth.json) |
 | Addled | 207288 | [207288-addled.json](./207288-addled.json) |
+| Addmath | 239075 | [239075-addmath.json](./239075-addmath.json) |
 | Address1 | 265648 | [265648-address1.json](./265648-address1.json) |
 | Addy: Do You Speak English? | 269541 | [269541-addy-do-you-speak-english.json](./269541-addy-do-you-speak-english.json) |
 | Adebana Sacrament: Seinaru Miwaza to Akuryoutsuki no Shoujo-tachi | 77948 | [77948-adebana-sacrament-seinaru-miwaza-to-akuryoutsuki-no-shoujo-tachi.json](./77948-adebana-sacrament-seinaru-miwaza-to-akuryoutsuki-no-shoujo-tachi.json) |
@@ -4229,6 +4230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Align 4 Big | 355147 | [355147-align-4-big.json](./355147-align-4-big.json) |
 | Align Q | 185489 | [185489-align-q.json](./185489-align-q.json) |
 | Aligned | 205115 | [205115-aligned.json](./205115-aligned.json) |
+| Alignment | 239101 | [239101-alignment.json](./239101-alignment.json) |
 | Alignment Zero | 397269 | [397269-alignment-zero.json](./397269-alignment-zero.json) |
 | Alik: Gry i zabawy | 188569 | [188569-alik-gry-i-zabawy.json](./188569-alik-gry-i-zabawy.json) |
 | Alik: Juz Ide Do Szkoly | 188561 | [188561-alik-juz-ide-do-szkoly.json](./188561-alik-juz-ide-do-szkoly.json) |
@@ -9607,6 +9609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids Hyper 64 | 10664 | [10664-asteroids-hyper-64.json](./10664-asteroids-hyper-64.json) |
 | Asteroids Maneuvers | 149946 | [149946-asteroids-maneuvers.json](./149946-asteroids-maneuvers.json) |
 | Asteroids Millennium | 51716 | [51716-asteroids-millennium.json](./51716-asteroids-millennium.json) |
+| Asteroids Mining Saga | 238974 | [238974-asteroids-mining-saga.json](./238974-asteroids-mining-saga.json) |
 | Asteroids Recharged: Pro Arcade Edition | 350549 | [350549-asteroids-recharged-pro-arcade-edition.json](./350549-asteroids-recharged-pro-arcade-edition.json) |
 | Asteroids RX | 178987 | [178987-asteroids-rx.json](./178987-asteroids-rx.json) |
 | Asteroids Space Shooter | 178631 | [178631-asteroids-space-shooter.json](./178631-asteroids-space-shooter.json) |
