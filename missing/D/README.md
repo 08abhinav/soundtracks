@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Earth | 410975 | [410975-dark-earth.json](./410975-dark-earth.json) |
 | Dark Echo | 293776 | [293776-dark-echo.json](./293776-dark-echo.json) |
 | Dark Eclipse | 76515 | [76515-dark-eclipse.json](./76515-dark-eclipse.json) |
+| Dark Eden | 231830 | [231830-dark-eden.json](./231830-dark-eden.json) |
 | Dark Eden | 30713 | [30713-dark-eden.json](./30713-dark-eden.json) |
 | Dark Eden Umbra | 359526 | [359526-dark-eden-umbra.json](./359526-dark-eden-umbra.json) |
 | Dark Egg | 213974 | [213974-dark-egg.json](./213974-dark-egg.json) |
@@ -3397,6 +3398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Simulator | 83185 | [83185-deer-simulator.json](./83185-deer-simulator.json) |
 | Deerlivery | 361738 | [361738-deerlivery.json](./361738-deerlivery.json) |
 | Deers and Deckards | 284400 | [284400-deers-and-deckards.json](./284400-deers-and-deckards.json) |
+| Deesse: Love and War | 231962 | [231962-deesse-love-and-war.json](./231962-deesse-love-and-war.json) |
 | Deez | 114340 | [114340-deez.json](./114340-deez.json) |
 | Deez Shells | 328067 | [328067-deez-shells.json](./328067-deez-shells.json) |
 | Def Jam Fight for NY Mobile | 209012 | [209012-def-jam-fight-for-ny-mobile.json](./209012-def-jam-fight-for-ny-mobile.json) |
@@ -3506,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defendoooooor!! | 55229 | [55229-defendoooooor.json](./55229-defendoooooor.json) |
 | Defendron | 260378 | [260378-defendron.json](./260378-defendron.json) |
 | Defendun | 240681 | [240681-defendun.json](./240681-defendun.json) |
+| Defense & Protect Epic Towers | 231963 | [231963-defense-and-protect-epic-towers.json](./231963-defense-and-protect-epic-towers.json) |
 | Defense Cards | 267298 | [267298-defense-cards.json](./267298-defense-cards.json) |
 | Defense Clicker | 74600 | [74600-defense-clicker.json](./74600-defense-clicker.json) |
 | Defense Corp: Earth | 113168 | [113168-defense-corp-earth.json](./113168-defense-corp-earth.json) |
@@ -6014,6 +6017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Run | 388236 | [388236-dinosaur-run.json](./388236-dinosaur-run.json) |
 | Dinosaur Safari: Evolution | 107123 | [107123-dinosaur-safari-evolution.json](./107123-dinosaur-safari-evolution.json) |
 | Dinosaur Shakespeare: To Date Or Not To Date? - 2 Winter of our Discontent | 253975 | [253975-dinosaur-shakespeare-to-date-or-not-to-date-2-winter-of-our-discontent.json](./253975-dinosaur-shakespeare-to-date-or-not-to-date-2-winter-of-our-discontent.json) |
+| Dinosaur Simulator 2019 | 231964 | [231964-dinosaur-simulator-2019.json](./231964-dinosaur-simulator-2019.json) |
 | Dinosaur Stacker | 108250 | [108250-dinosaur-stacker.json](./108250-dinosaur-stacker.json) |
 | Dinosaur World | 140470 | [140470-dinosaur-world.json](./140470-dinosaur-world.json) |
 | Dinosaur World | 276205 | [276205-dinosaur-world.json](./276205-dinosaur-world.json) |
@@ -6886,6 +6890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJMax Respect V: Black Square Pack | 225049 | [225049-djmax-respect-v-black-square-pack.json](./225049-djmax-respect-v-black-square-pack.json) |
 | DJMax Respect V: Chunithm Pack | 225047 | [225047-djmax-respect-v-chunithm-pack.json](./225047-djmax-respect-v-chunithm-pack.json) |
 | DJMax Respect V: Clazziquai Edition Pack | 225044 | [225044-djmax-respect-v-clazziquai-edition-pack.json](./225044-djmax-respect-v-clazziquai-edition-pack.json) |
+| DJMax Respect V: Clear Pass - S8 Premium Ticket | 231818 | [231818-djmax-respect-v-clear-pass-s8-premium-ticket.json](./231818-djmax-respect-v-clear-pass-s8-premium-ticket.json) |
 | DJMax Respect V: Cytus Pack | 225056 | [225056-djmax-respect-v-cytus-pack.json](./225056-djmax-respect-v-cytus-pack.json) |
 | DJMax Respect V: Deemo Pack | 225048 | [225048-djmax-respect-v-deemo-pack.json](./225048-djmax-respect-v-deemo-pack.json) |
 | DJMax Respect V: Emotional Sense Pack | 225060 | [225060-djmax-respect-v-emotional-sense-pack.json](./225060-djmax-respect-v-emotional-sense-pack.json) |
@@ -9702,6 +9707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw the Hands | 405580 | [405580-draw-the-hands.json](./405580-draw-the-hands.json) |
 | Draw the Line | 85101 | [85101-draw-the-line.json](./85101-draw-the-line.json) |
 | Draw the Way | 29833 | [29833-draw-the-way.json](./29833-draw-the-way.json) |
+| Draw to Collect: Sorting Line | 231965 | [231965-draw-to-collect-sorting-line.json](./231965-draw-to-collect-sorting-line.json) |
 | Draw Two Save: Save the man | 197363 | [197363-draw-two-save-save-the-man.json](./197363-draw-two-save-save-the-man.json) |
 | Draw Wario | 328684 | [328684-draw-wario.json](./328684-draw-wario.json) |
 | Draw World | 346538 | [346538-draw-world.json](./346538-draw-world.json) |
@@ -10062,6 +10068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamland | 274535 | [274535-dreamland.json](./274535-dreamland.json) |
 | DreamLand | 32173 | [32173-dreamland.json](./32173-dreamland.json) |
 | Dreamland Arcade | 310572 | [310572-dreamland-arcade.json](./310572-dreamland-arcade.json) |
+| Dreamland coffee | 231820 | [231820-dreamland-coffee.json](./231820-dreamland-coffee.json) |
 | Dreamland Confectionery | 152191 | [152191-dreamland-confectionery.json](./152191-dreamland-confectionery.json) |
 | Dreamland Defender | 83620 | [83620-dreamland-defender.json](./83620-dreamland-defender.json) |
 | Dreamland Drifter | 391707 | [391707-dreamland-drifter.json](./391707-dreamland-drifter.json) |
@@ -10266,6 +10273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Reign | 245834 | [245834-drift-reign.json](./245834-drift-reign.json) |
 | Drift Ride | 196557 | [196557-drift-ride.json](./196557-drift-ride.json) |
 | Drift Runners | 287157 | [287157-drift-runners.json](./287157-drift-runners.json) |
+| Drift Shape | 231967 | [231967-drift-shape.json](./231967-drift-shape.json) |
 | Drift Showcase | 369752 | [369752-drift-showcase.json](./369752-drift-showcase.json) |
 | Drift Spark | 231990 | [231990-drift-spark.json](./231990-drift-spark.json) |
 | Drift Spirits | 174631 | [174631-drift-spirits.json](./174631-drift-spirits.json) |
