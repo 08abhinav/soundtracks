@@ -462,10 +462,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mado Marks | 414617 | [414617-mado-marks.json](./414617-mado-marks.json) |
 | Mado Monogatari: Fia and the Wondrous Academy - Deluxe Edition | 351236 | [351236-mado-monogatari-fia-and-the-wondrous-academy-deluxe-edition.json](./351236-mado-monogatari-fia-and-the-wondrous-academy-deluxe-edition.json) |
 | Mado no Naka no Saki ni Aru Mono | 152115 | [152115-mado-no-naka-no-saki-ni-aru-mono.json](./152115-mado-no-naka-no-saki-ni-aru-mono.json) |
+| Mado Paf! | 229263 | [229263-mado-paf.json](./229263-mado-paf.json) |
 | Madojeongi: Secret of Elysium | 252163 | [252163-madojeongi-secret-of-elysium.json](./252163-madojeongi-secret-of-elysium.json) |
 | Madonna Simulator | 176379 | [176379-madonna-simulator.json](./176379-madonna-simulator.json) |
 | Madoromi Travel | 289225 | [289225-madoromi-travel.json](./289225-madoromi-travel.json) |
 | Madotsuki's Closet | 145675 | [145675-madotsukis-closet.json](./145675-madotsukis-closet.json) |
+| Madotsuki's Story | 229260 | [229260-madotsukis-story.json](./229260-madotsukis-story.json) |
 | Madou Gakuin R | 46613 | [46613-madou-gakuin-r.json](./46613-madou-gakuin-r.json) |
 | Madou Monogatari | 252164 | [252164-madou-monogatari.json](./252164-madou-monogatari.json) |
 | Madou Monogatari | 57675 | [57675-madou-monogatari.json](./57675-madou-monogatari.json) |
@@ -7958,6 +7960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MineSweeper Reloaded | 91089 | [91089-minesweeper-reloaded.json](./91089-minesweeper-reloaded.json) |
 | Minesweeper Run | 151757 | [151757-minesweeper-run.json](./151757-minesweeper-run.json) |
 | MineSweeper Rush | 362387 | [362387-minesweeper-rush.json](./362387-minesweeper-rush.json) |
+| MineSweeper Tetris | 228952 | [228952-minesweeper-tetris.json](./228952-minesweeper-tetris.json) |
 | Minesweeper Twist | 296973 | [296973-minesweeper-twist.json](./296973-minesweeper-twist.json) |
 | Minesweeper Ultimate | 167815 | [167815-minesweeper-ultimate.json](./167815-minesweeper-ultimate.json) |
 | MineSweeper VR | 31617 | [31617-minesweeper-vr.json](./31617-minesweeper-vr.json) |
@@ -8279,6 +8282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minitime | 99687 | [99687-minitime.json](./99687-minitime.json) |
 | MiniTracks | 108646 | [108646-minitracks.json](./108646-minitracks.json) |
 | MiniTrans | 202664 | [202664-minitrans.json](./202664-minitrans.json) |
+| Minitroid | 228960 | [228960-minitroid.json](./228960-minitroid.json) |
 | Miniverse | 179059 | [179059-miniverse.json](./179059-miniverse.json) |
 | Miniverse Minigolf | 93383 | [93383-miniverse-minigolf.json](./93383-miniverse-minigolf.json) |
 | MiniWood VR | 118159 | [118159-miniwood-vr.json](./118159-miniwood-vr.json) |
@@ -9424,6 +9428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mom Simulator 2023 | 277841 | [277841-mom-simulator-2023.json](./277841-mom-simulator-2023.json) |
 | Mombo Combo Legacy | 326858 | [326858-mombo-combo-legacy.json](./326858-mombo-combo-legacy.json) |
 | Moment of Moonset | 284599 | [284599-moment-of-moonset.json](./284599-moment-of-moonset.json) |
+| Moment to Midnight | 229248 | [229248-moment-to-midnight.json](./229248-moment-to-midnight.json) |
 | Momento | 279123 | [279123-momento.json](./279123-momento.json) |
 | Momento Isles | 385393 | [385393-momento-isles.json](./385393-momento-isles.json) |
 | Momento Pole | 373767 | [373767-momento-pole.json](./373767-momento-pole.json) |
