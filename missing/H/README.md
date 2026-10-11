@@ -1403,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Dice: Abundia’s Blessing | 376539 | [376539-harvest-dice-abundia-s-blessing.json](./376539-harvest-dice-abundia-s-blessing.json) |
 | Harvest Hands | 125419 | [125419-harvest-hands.json](./125419-harvest-hands.json) |
 | Harvest Havoc | 276664 | [276664-harvest-havoc.json](./276664-harvest-havoc.json) |
+| Harvest Health | 236868 | [236868-harvest-health.json](./236868-harvest-health.json) |
 | Harvest Hustlers | 302363 | [302363-harvest-hustlers.json](./302363-harvest-hustlers.json) |
 | Harvest Island: Beginnings | 159878 | [159878-harvest-island-beginnings.json](./159878-harvest-island-beginnings.json) |
 | Harvest Island: Ending Expansion | 358240 | [358240-harvest-island-ending-expansion.json](./358240-harvest-island-ending-expansion.json) |
@@ -6050,6 +6051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoop Dungeon | 382961 | [382961-hoop-dungeon.json](./382961-hoop-dungeon.json) |
 | Hoop Dynasty: Rise of a Legend | 411682 | [411682-hoop-dynasty-rise-of-a-legend.json](./411682-hoop-dynasty-rise-of-a-legend.json) |
 | Hoop Fever | 90691 | [90691-hoop-fever.json](./90691-hoop-fever.json) |
+| Hoop Fighters | 236724 | [236724-hoop-fighters.json](./236724-hoop-fighters.json) |
 | Hoop Land | 250996 | [250996-hoop-land.json](./250996-hoop-land.json) |
 | Hoop Route | 55713 | [55713-hoop-route.json](./55713-hoop-route.json) |
 | Hoop Smash | 116418 | [116418-hoop-smash.json](./116418-hoop-smash.json) |
@@ -7440,6 +7442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Tea Party | 129756 | [129756-hungry-tea-party.json](./129756-hungry-tea-party.json) |
 | HunieCam Studio | 19847 | [19847-huniecam-studio.json](./19847-huniecam-studio.json) |
 | Hunk Empire | 398363 | [398363-hunk-empire.json](./398363-hunk-empire.json) |
+| Hunker Down | 236735 | [236735-hunker-down.json](./236735-hunker-down.json) |
 | Hunkfrat | 374401 | [374401-hunkfrat.json](./374401-hunkfrat.json) |
 | Hunsvotti | 392167 | [392167-hunsvotti.json](./392167-hunsvotti.json) |
 | Hunt | 147908 | [147908-hunt.json](./147908-hunt.json) |
