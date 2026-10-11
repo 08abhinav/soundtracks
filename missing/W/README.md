@@ -1419,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wassie Tale | 207377 | [207377-wassie-tale.json](./207377-wassie-tale.json) |
 | Waste | 200703 | [200703-waste.json](./200703-waste.json) |
 | Waste Cleaner | 61614 | [61614-waste-cleaner.json](./61614-waste-cleaner.json) |
+| Waste Eater | 231791 | [231791-waste-eater.json](./231791-waste-eater.json) |
 | Waste in Space | 248651 | [248651-waste-in-space.json](./248651-waste-in-space.json) |
 | Waste recycling | 183368 | [183368-waste-recycling.json](./183368-waste-recycling.json) |
 | Waste The Fallen | 413735 | [413735-waste-the-fallen.json](./413735-waste-the-fallen.json) |
