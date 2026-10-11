@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T18:04:59.078Z",
-  "total_missing": 198414,
+  "generated_at": "2026-10-11T18:19:48.666Z",
+  "total_missing": 198464,
   "games": [
     {
       "igdb_id": 191680,
@@ -11913,9 +11913,19 @@
       "file": "missing/A/55089-a-harvesting-moon.json"
     },
     {
+      "igdb_id": 237862,
+      "game_name": "A Hat in Time: Deluxe Edition",
+      "file": "missing/A/237862-a-hat-in-time-deluxe-edition.json"
+    },
+    {
       "igdb_id": 109466,
       "game_name": "A Hat in Time: Seal the Deal",
       "file": "missing/A/109466-a-hat-in-time-seal-the-deal.json"
+    },
+    {
+      "igdb_id": 237863,
+      "game_name": "A Hat in Time: Ultimate Edition",
+      "file": "missing/A/237863-a-hat-in-time-ultimate-edition.json"
     },
     {
       "igdb_id": 193202,
@@ -31951,6 +31961,11 @@
       "igdb_id": 302693,
       "game_name": "All in Abyss: Judge the Fake",
       "file": "missing/A/302693-all-in-abyss-judge-the-fake.json"
+    },
+    {
+      "igdb_id": 237855,
+      "game_name": "All in Casino Girls: Extended Edition",
+      "file": "missing/A/237855-all-in-casino-girls-extended-edition.json"
     },
     {
       "igdb_id": 326091,
@@ -60941,6 +60956,11 @@
       "igdb_id": 140002,
       "game_name": "Atelier Ryza 2: Lost Legends & The Secret Fairy - Special Collection Box",
       "file": "missing/A/140002-atelier-ryza-2-lost-legends-and-the-secret-fairy-special-collection-box.json"
+    },
+    {
+      "igdb_id": 237847,
+      "game_name": "Atelier Ryza 2: Lost Legends & the Secret Fairy - Ultimate Edition",
+      "file": "missing/A/237847-atelier-ryza-2-lost-legends-and-the-secret-fairy-ultimate-edition.json"
     },
     {
       "igdb_id": 359425,
@@ -103206,6 +103226,11 @@
       "igdb_id": 155072,
       "game_name": "Blue Reflection: Second Light - Special Collection Box",
       "file": "missing/B/155072-blue-reflection-second-light-special-collection-box.json"
+    },
+    {
+      "igdb_id": 237859,
+      "game_name": "Blue Reflection: Second Light - Ultimate Edition",
+      "file": "missing/B/237859-blue-reflection-second-light-ultimate-edition.json"
     },
     {
       "igdb_id": 24928,
@@ -159743,6 +159768,11 @@
       "file": "missing/C/7968-colin-mcrae-rally-3.json"
     },
     {
+      "igdb_id": 237838,
+      "game_name": "Colin McRae: Dirt",
+      "file": "missing/C/237838-colin-mcrae-dirt.json"
+    },
+    {
       "igdb_id": 943,
       "game_name": "Colin McRae: Dirt",
       "file": "missing/C/943-colin-mcrae-dirt.json"
@@ -159751,6 +159781,21 @@
       "igdb_id": 202101,
       "game_name": "Colin McRae: Dirt 2",
       "file": "missing/C/202101-colin-mcrae-dirt-2.json"
+    },
+    {
+      "igdb_id": 237839,
+      "game_name": "Colin McRae: Dirt 2",
+      "file": "missing/C/237839-colin-mcrae-dirt-2.json"
+    },
+    {
+      "igdb_id": 237840,
+      "game_name": "Colin McRae: Dirt 2 - Access All Areas Pack",
+      "file": "missing/C/237840-colin-mcrae-dirt-2-access-all-areas-pack.json"
+    },
+    {
+      "igdb_id": 237841,
+      "game_name": "Colin McRae: Dirt 2 - Trust Fund Pack",
+      "file": "missing/C/237841-colin-mcrae-dirt-2-trust-fund-pack.json"
     },
     {
       "igdb_id": 84232,
@@ -175976,6 +176021,11 @@
       "igdb_id": 324080,
       "game_name": "Crazy Shipping",
       "file": "missing/C/324080-crazy-shipping.json"
+    },
+    {
+      "igdb_id": 237989,
+      "game_name": "Crazy Shoot",
+      "file": "missing/C/237989-crazy-shoot.json"
     },
     {
       "igdb_id": 204475,
@@ -208453,6 +208503,11 @@
       "file": "missing/D/376258-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tanjiro-kamado-infinity-castle-character-pack.json"
     },
     {
+      "igdb_id": 237992,
+      "game_name": "Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Tanjiro, Zenitsu, and Inosuke - Character Pack",
+      "file": "missing/D/237992-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tanjiro-zenitsu-and-inosuke-character-pack.json"
+    },
+    {
       "igdb_id": 376257,
       "game_name": "Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Zenitsu Agatsuma (Infinity Castle) Character Pack",
       "file": "missing/D/376257-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-zenitsu-agatsuma-infinity-castle-character-pack.json"
@@ -220478,6 +220533,11 @@
       "file": "missing/D/198506-disney-dreamlight-valley.json"
     },
     {
+      "igdb_id": 237836,
+      "game_name": "Disney Dreamlight Valley: A Festival of Friendship",
+      "file": "missing/D/237836-disney-dreamlight-valley-a-festival-of-friendship.json"
+    },
+    {
       "igdb_id": 279238,
       "game_name": "Disney Dreamlight Valley: A Rift in Time - Chapter 1: Welcome to Eternity Isle",
       "file": "missing/D/279238-disney-dreamlight-valley-a-rift-in-time-chapter-1-welcome-to-eternity-isle.json"
@@ -223978,6 +224038,11 @@
       "file": "missing/D/301942-doctor-who-jobsworth-judoon.json"
     },
     {
+      "igdb_id": 237835,
+      "game_name": "Doctor Who: Land the Tardis",
+      "file": "missing/D/237835-doctor-who-land-the-tardis.json"
+    },
+    {
       "igdb_id": 213285,
       "game_name": "Doctor Who: Lost in Time",
       "file": "missing/D/213285-doctor-who-lost-in-time.json"
@@ -224026,6 +224091,11 @@
       "igdb_id": 398627,
       "game_name": "Doctor Who: Split",
       "file": "missing/D/398627-doctor-who-split.json"
+    },
+    {
+      "igdb_id": 237837,
+      "game_name": "Doctor Who: SuDocWho",
+      "file": "missing/D/237837-doctor-who-sudocwho.json"
     },
     {
       "igdb_id": 10187,
@@ -233573,6 +233643,11 @@
       "file": "missing/D/23635-dragon-atlas.json"
     },
     {
+      "igdb_id": 237853,
+      "game_name": "Dragon Audit: Deluxe Edition",
+      "file": "missing/D/237853-dragon-audit-deluxe-edition.json"
+    },
+    {
       "igdb_id": 38662,
       "game_name": "Dragon Ball",
       "file": "missing/D/38662-dragon-ball.json"
@@ -233931,6 +234006,11 @@
       "igdb_id": 136271,
       "game_name": "Dragon Ball Z: Kakarot - Ultimate Edition",
       "file": "missing/D/136271-dragon-ball-z-kakarot-ultimate-edition.json"
+    },
+    {
+      "igdb_id": 237860,
+      "game_name": "Dragon Ball Z: Kakarot + A New Power Awakens Set - Deluxe Edition",
+      "file": "missing/D/237860-dragon-ball-z-kakarot-a-new-power-awakens-set-deluxe-edition.json"
     },
     {
       "igdb_id": 288303,
@@ -236791,6 +236871,11 @@
       "igdb_id": 242047,
       "game_name": "Draw and Color: Kawaii - Complete Edition",
       "file": "missing/D/242047-draw-and-color-kawaii-complete-edition.json"
+    },
+    {
+      "igdb_id": 237851,
+      "game_name": "Draw and Color: Kawaii - Deluxe Edition",
+      "file": "missing/D/237851-draw-and-color-kawaii-deluxe-edition.json"
     },
     {
       "igdb_id": 250361,
@@ -270821,6 +270906,11 @@
       "igdb_id": 290415,
       "game_name": "Evo Island",
       "file": "missing/E/290415-evo-island.json"
+    },
+    {
+      "igdb_id": 237843,
+      "game_name": "Evo Pop",
+      "file": "missing/E/237843-evo-pop.json"
     },
     {
       "igdb_id": 395677,
@@ -348743,6 +348833,11 @@
       "file": "missing/G/361615-groove-coaster-undertale-dlc-pack-02.json"
     },
     {
+      "igdb_id": 237998,
+      "game_name": "Groove Coaster: Wai Wai Party!!!! - Dempagumi.inc Pack",
+      "file": "missing/G/237998-groove-coaster-wai-wai-party-dempagumi-inc-pack.json"
+    },
+    {
       "igdb_id": 237937,
       "game_name": "Groove Coaster: Wai Wai Party!!!! - DJMax Respect Pack",
       "file": "missing/G/237937-groove-coaster-wai-wai-party-djmax-respect-pack.json"
@@ -376996,6 +377091,11 @@
       "igdb_id": 212224,
       "game_name": "Hidden Through Time: Aztec Rituals",
       "file": "missing/H/212224-hidden-through-time-aztec-rituals.json"
+    },
+    {
+      "igdb_id": 237852,
+      "game_name": "Hidden Through Time: Deluxe Edition",
+      "file": "missing/H/237852-hidden-through-time-deluxe-edition.json"
     },
     {
       "igdb_id": 154514,
@@ -410938,6 +411038,11 @@
       "file": "missing/I/220141-into-the-darkness-vr.json"
     },
     {
+      "igdb_id": 237848,
+      "game_name": "Into the Dead 2: Ghostbusters",
+      "file": "missing/I/237848-into-the-dead-2-ghostbusters.json"
+    },
+    {
       "igdb_id": 197325,
       "game_name": "Into the Dead 2: Unleashed",
       "file": "missing/I/197325-into-the-dead-2-unleashed.json"
@@ -421708,6 +421813,11 @@
       "file": "missing/J/238223-jigsaw-masterpieces-beautiful-towns-around-the-world.json"
     },
     {
+      "igdb_id": 237871,
+      "game_name": "Jigsaw Masterpieces: Japanese Summer Scene",
+      "file": "missing/J/237871-jigsaw-masterpieces-japanese-summer-scene.json"
+    },
+    {
       "igdb_id": 238230,
       "game_name": "Jigsaw Masterpieces: Juicy Fruits",
       "file": "missing/J/238230-jigsaw-masterpieces-juicy-fruits.json"
@@ -421766,6 +421876,21 @@
       "igdb_id": 237912,
       "game_name": "Jigsaw Masterpieces: View from the Sky",
       "file": "missing/J/237912-jigsaw-masterpieces-view-from-the-sky.json"
+    },
+    {
+      "igdb_id": 237872,
+      "game_name": "Jigsaw Masterpieces: Wildlife in Africa",
+      "file": "missing/J/237872-jigsaw-masterpieces-wildlife-in-africa.json"
+    },
+    {
+      "igdb_id": 237873,
+      "game_name": "Jigsaw Masterpieces: World Heritage Site",
+      "file": "missing/J/237873-jigsaw-masterpieces-world-heritage-site.json"
+    },
+    {
+      "igdb_id": 237874,
+      "game_name": "Jigsaw Masterpieces: World Heritage Site 2",
+      "file": "missing/J/237874-jigsaw-masterpieces-world-heritage-site-2.json"
     },
     {
       "igdb_id": 201025,
@@ -442218,6 +442343,11 @@
       "file": "missing/K/238184-kissed-by-the-baddest-bidder-living-together-shuichi.json"
     },
     {
+      "igdb_id": 237994,
+      "game_name": "Kissed by the Baddest Bidder: Living Together - Shuichi DLC Pack",
+      "file": "missing/K/237994-kissed-by-the-baddest-bidder-living-together-shuichi-dlc-pack.json"
+    },
+    {
       "igdb_id": 238067,
       "game_name": "Kissed by the Baddest Bidder: Living Together Epilogue - Shuichi",
       "file": "missing/K/238067-kissed-by-the-baddest-bidder-living-together-epilogue-shuichi.json"
@@ -461678,9 +461808,19 @@
       "file": "missing/L/253001-lets-sing-2019-mit-deutschen-hits.json"
     },
     {
+      "igdb_id": 237857,
+      "game_name": "Let's Sing 2019: Platinum Edition",
+      "file": "missing/L/237857-lets-sing-2019-platinum-edition.json"
+    },
+    {
       "igdb_id": 329519,
       "game_name": "Let's Sing 2020: Hits Français et Internationaux",
       "file": "missing/L/329519-lets-sing-2020-hits-francais-et-internationaux.json"
+    },
+    {
+      "igdb_id": 237858,
+      "game_name": "Let's Sing 2020: Platinum Edition",
+      "file": "missing/L/237858-lets-sing-2020-platinum-edition.json"
     },
     {
       "igdb_id": 321520,
@@ -490793,6 +490933,11 @@
       "file": "missing/M/50745-mana-spark.json"
     },
     {
+      "igdb_id": 237854,
+      "game_name": "Mana Spark: Complete Edition",
+      "file": "missing/M/237854-mana-spark-complete-edition.json"
+    },
+    {
       "igdb_id": 238187,
       "game_name": "Mana Spark: Forgotten Crypts",
       "file": "missing/M/238187-mana-spark-forgotten-crypts.json"
@@ -493261,6 +493406,11 @@
       "igdb_id": 121506,
       "game_name": "Mario + Rabbids Kingdom Battle: Gold Edition",
       "file": "missing/M/121506-mario-rabbids-kingdom-battle-gold-edition.json"
+    },
+    {
+      "igdb_id": 237995,
+      "game_name": "Mario + Rabbids Kingdom Battle: Pixel Pack",
+      "file": "missing/M/237995-mario-rabbids-kingdom-battle-pixel-pack.json"
     },
     {
       "igdb_id": 237938,
@@ -531233,6 +531383,11 @@
       "file": "missing/M/223578-monster-hunter-rise-dlc-pack-6.json"
     },
     {
+      "igdb_id": 237990,
+      "game_name": "Monster Hunter Rise: DLC Pack 7",
+      "file": "missing/M/237990-monster-hunter-rise-dlc-pack-7.json"
+    },
+    {
       "igdb_id": 270289,
       "game_name": "Monster Hunter Rise: DLC Pack 9",
       "file": "missing/M/270289-monster-hunter-rise-dlc-pack-9.json"
@@ -558716,6 +558871,11 @@
       "igdb_id": 169182,
       "game_name": "Neon Abyss: Deluxe Edition",
       "file": "missing/N/169182-neon-abyss-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 237993,
+      "game_name": "Neon Abyss: The Lovable Rogues Pack",
+      "file": "missing/N/237993-neon-abyss-the-lovable-rogues-pack.json"
     },
     {
       "igdb_id": 151706,
@@ -603018,6 +603178,11 @@
       "file": "missing/P/12070-party-hard.json"
     },
     {
+      "igdb_id": 237866,
+      "game_name": "Party Hard 2: Collector's Edition",
+      "file": "missing/P/237866-party-hard-2-collectors-edition.json"
+    },
+    {
       "igdb_id": 237984,
       "game_name": "Party Hard Pack",
       "file": "missing/P/237984-party-hard-pack.json"
@@ -609526,6 +609691,11 @@
       "igdb_id": 117731,
       "game_name": "Persona 5 Strikers",
       "file": "missing/P/117731-persona-5-strikers.json"
+    },
+    {
+      "igdb_id": 237861,
+      "game_name": "Persona 5 Strikers: Digital Deluxe Edition",
+      "file": "missing/P/237861-persona-5-strikers-digital-deluxe-edition.json"
     },
     {
       "igdb_id": 383606,
@@ -622611,6 +622781,11 @@
       "igdb_id": 237978,
       "game_name": "Pizza Bar Tycoon: Expansion Pack 2",
       "file": "missing/P/237978-pizza-bar-tycoon-expansion-pack-2.json"
+    },
+    {
+      "igdb_id": 237864,
+      "game_name": "Pizza Bar Tycoon: Extended Edition",
+      "file": "missing/P/237864-pizza-bar-tycoon-extended-edition.json"
     },
     {
       "igdb_id": 332508,
@@ -696263,6 +696438,11 @@
       "file": "missing/R/115278-rune-factory-4-special.json"
     },
     {
+      "igdb_id": 237997,
+      "game_name": "Rune Factory 4 Special: Another Episode Pack",
+      "file": "missing/R/237997-rune-factory-4-special-another-episode-pack.json"
+    },
+    {
       "igdb_id": 136190,
       "game_name": "Rune Factory 4 Special: Archival Edition",
       "file": "missing/R/136190-rune-factory-4-special-archival-edition.json"
@@ -724573,6 +724753,11 @@
       "file": "missing/S/336554-shin-megami-tensei-iii-nocturne-hd-remaster-chronicle-pack.json"
     },
     {
+      "igdb_id": 237996,
+      "game_name": "Shin Megami Tensei III: Nocturne - HD Remaster: Maniax Pack",
+      "file": "missing/S/237996-shin-megami-tensei-iii-nocturne-hd-remaster-maniax-pack.json"
+    },
+    {
       "igdb_id": 231375,
       "game_name": "Shin Megami Tensei III: Nocturne Maniax Chronicle Edition",
       "file": "missing/S/231375-shin-megami-tensei-iii-nocturne-maniax-chronicle-edition.json"
@@ -734478,6 +734663,11 @@
       "file": "missing/S/275636-sinister-seven.json"
     },
     {
+      "igdb_id": 237869,
+      "game_name": "Sinister Squidward",
+      "file": "missing/S/237869-sinister-squidward.json"
+    },
+    {
       "igdb_id": 242010,
       "game_name": "Sinister Turmoil: Sewers",
       "file": "missing/S/242010-sinister-turmoil-sewers.json"
@@ -742368,6 +742558,11 @@
       "file": "missing/S/93041-sm-word.json"
     },
     {
+      "igdb_id": 237870,
+      "game_name": "SM2",
+      "file": "missing/S/237870-sm2.json"
+    },
+    {
       "igdb_id": 299850,
       "game_name": "SM228: Vanilla",
       "file": "missing/S/299850-sm228-vanilla.json"
@@ -747286,6 +747481,11 @@
       "igdb_id": 398396,
       "game_name": "SnowRunner + RoadCraft Loyalty Bundle",
       "file": "missing/S/398396-snowrunner-roadcraft-loyalty-bundle.json"
+    },
+    {
+      "igdb_id": 237850,
+      "game_name": "SnowRunner: 1-Year Anniversary Edition",
+      "file": "missing/S/237850-snowrunner-1-year-anniversary-edition.json"
     },
     {
       "igdb_id": 230833,
@@ -765268,6 +765468,11 @@
       "file": "missing/S/202665-spellarium-8-match-3-puzzle.json"
     },
     {
+      "igdb_id": 237867,
+      "game_name": "Spellarium 9",
+      "file": "missing/S/237867-spellarium-9.json"
+    },
+    {
       "igdb_id": 138670,
       "game_name": "Spellbearers",
       "file": "missing/S/138670-spellbearers.json"
@@ -769811,6 +770016,11 @@
       "igdb_id": 192767,
       "game_name": "Sports Betting Simulator",
       "file": "missing/S/192767-sports-betting-simulator.json"
+    },
+    {
+      "igdb_id": 237868,
+      "game_name": "Sports Car Challenge",
+      "file": "missing/S/237868-sports-car-challenge.json"
     },
     {
       "igdb_id": 233243,
@@ -776518,6 +776728,11 @@
       "file": "missing/S/238074-star-crossed-myth-the-department-of-punishments-constellations-of-love-scorpio.json"
     },
     {
+      "igdb_id": 237987,
+      "game_name": "Star-Crossed Myth: The Department of Punishments DLC Pack",
+      "file": "missing/S/237987-star-crossed-myth-the-department-of-punishments-dlc-pack.json"
+    },
+    {
       "igdb_id": 123450,
       "game_name": "Star-Crossed Myth: The Department of Wishes",
       "file": "missing/S/123450-star-crossed-myth-the-department-of-wishes.json"
@@ -776536,6 +776751,11 @@
       "igdb_id": 238075,
       "game_name": "Star-Crossed Myth: The Department of Wishes - Constellations of Love: Teorus",
       "file": "missing/S/238075-star-crossed-myth-the-department-of-wishes-constellations-of-love-teorus.json"
+    },
+    {
+      "igdb_id": 237988,
+      "game_name": "Star-Crossed Myth: The Department of Wishes DLC Pack",
+      "file": "missing/S/237988-star-crossed-myth-the-department-of-wishes-dlc-pack.json"
     },
     {
       "igdb_id": 235836,
@@ -781751,6 +781971,11 @@
       "igdb_id": 283224,
       "game_name": "Stellar Interface + Sudoku Zenkai",
       "file": "missing/S/283224-stellar-interface-sudoku-zenkai.json"
+    },
+    {
+      "igdb_id": 237846,
+      "game_name": "Stellar Interface: Lost Galaxy",
+      "file": "missing/S/237846-stellar-interface-lost-galaxy.json"
     },
     {
       "igdb_id": 243229,
@@ -826633,6 +826858,11 @@
       "file": "missing/T/167298-tennis-world-tour-2-sofia-kenin-and-karolina-pliskova.json"
     },
     {
+      "igdb_id": 237991,
+      "game_name": "Tennis World Tour: Agassi Pack",
+      "file": "missing/T/237991-tennis-world-tour-agassi-pack.json"
+    },
+    {
       "igdb_id": 169937,
       "game_name": "Tennis World Tour: Alex De Minaur",
       "file": "missing/T/169937-tennis-world-tour-alex-de-minaur.json"
@@ -826681,6 +826911,11 @@
       "igdb_id": 118167,
       "game_name": "Tennis World Tour: Roland-Garros Edition",
       "file": "missing/T/118167-tennis-world-tour-roland-garros-edition.json"
+    },
+    {
+      "igdb_id": 237986,
+      "game_name": "Tennis World Tour: Roland-Garros pack",
+      "file": "missing/T/237986-tennis-world-tour-roland-garros-pack.json"
     },
     {
       "igdb_id": 169940,
@@ -928878,6 +929113,11 @@
       "file": "missing/U/50131-urban-assault.json"
     },
     {
+      "igdb_id": 237844,
+      "game_name": "Urban Assault: Metropolis Dawn",
+      "file": "missing/U/237844-urban-assault-metropolis-dawn.json"
+    },
+    {
       "igdb_id": 121582,
       "game_name": "Urban Cards",
       "file": "missing/U/121582-urban-cards.json"
@@ -979718,6 +979958,11 @@
       "file": "missing/Y/84958-yoga-master.json"
     },
     {
+      "igdb_id": 237849,
+      "game_name": "Yoga Master: Deluxe Edition",
+      "file": "missing/Y/237849-yoga-master-deluxe-edition.json"
+    },
+    {
       "igdb_id": 237911,
       "game_name": "Yoga Master: Dreams Fantasy Bundle",
       "file": "missing/Y/237911-yoga-master-dreams-fantasy-bundle.json"
@@ -984836,6 +985081,11 @@
       "igdb_id": 349917,
       "game_name": "Zaccaria Pinball: Soccer Kings Deluxe Pinball Table",
       "file": "missing/Z/349917-zaccaria-pinball-soccer-kings-deluxe-pinball-table.json"
+    },
+    {
+      "igdb_id": 237985,
+      "game_name": "Zaccaria Pinball: Solid-State Table Pack 2",
+      "file": "missing/Z/237985-zaccaria-pinball-solid-state-table-pack-2.json"
     },
     {
       "igdb_id": 411009,
