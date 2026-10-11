@@ -652,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallerie | 392169 | [392169-gallerie.json](./392169-gallerie.json) |
 | Gallery Fake | 197660 | [197660-gallery-fake.json](./197660-gallery-fake.json) |
 | Gallery Hero | 110301 | [110301-gallery-hero.json](./110301-gallery-hero.json) |
+| Gallery Manager | 234660 | [234660-gallery-manager.json](./234660-gallery-manager.json) |
 | Gallery of Shadows: Lycans Returns | 376055 | [376055-gallery-of-shadows-lycans-returns.json](./376055-gallery-of-shadows-lycans-returns.json) |
 | Gallery One | 184002 | [184002-gallery-one.json](./184002-gallery-one.json) |
 | Gallery Theft | 348312 | [348312-gallery-theft.json](./348312-gallery-theft.json) |
@@ -1020,7 +1021,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gancho Bond | 372673 | [372673-gancho-bond.json](./372673-gancho-bond.json) |
 | Gander National Park | 148681 | [148681-gander-national-park.json](./148681-gander-national-park.json) |
 | Gandhi III | 323801 | [323801-gandhi-iii.json](./323801-gandhi-iii.json) |
-| Gang Beasts | 11177 | [11177-gang-beasts.json](./11177-gang-beasts.json) |
 | Gang Blast | 283265 | [283265-gang-blast.json](./283265-gang-blast.json) |
 | Gang Human Wrestling | 193816 | [193816-gang-human-wrestling.json](./193816-gang-human-wrestling.json) |
 | Gang Man | 279066 | [279066-gang-man.json](./279066-gang-man.json) |
