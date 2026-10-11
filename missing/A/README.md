@@ -2349,6 +2349,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerovice Frutiger World | 411785 | [411785-aerovice-frutiger-world.json](./411785-aerovice-frutiger-world.json) |
 | AeroWings | 3709 | [3709-aerowings.json](./3709-aerowings.json) |
 | AeroWings 2: Airstrike | 3708 | [3708-aerowings-2-airstrike.json](./3708-aerowings-2-airstrike.json) |
+| Aery VR: Broken Memories | 237248 | [237248-aery-vr-broken-memories.json](./237248-aery-vr-broken-memories.json) |
+| Aery VR: Calm Mind | 237249 | [237249-aery-vr-calm-mind.json](./237249-aery-vr-calm-mind.json) |
 | Aery VR: Little Bird Adventure | 356072 | [356072-aery-vr-little-bird-adventure.json](./356072-aery-vr-little-bird-adventure.json) |
 | Aery: A Journey Beyond Time | 143599 | [143599-aery-a-journey-beyond-time.json](./143599-aery-a-journey-beyond-time.json) |
 | Aery: Ancient Empires | 283897 | [283897-aery-ancient-empires.json](./283897-aery-ancient-empires.json) |
@@ -9882,6 +9884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroneer: Suit Bundle | 280148 | [280148-astroneer-suit-bundle.json](./280148-astroneer-suit-bundle.json) |
 | Astroneer: Xenobiology | 234026 | [234026-astroneer-xenobiology.json](./234026-astroneer-xenobiology.json) |
 | AstroNest | 19527 | [19527-astronest.json](./19527-astronest.json) |
+| Astronimo | 237413 | [237413-astronimo.json](./237413-astronimo.json) |
 | Astronite | 142480 | [142480-astronite.json](./142480-astronite.json) |
 | AstronjumpBaby | 55279 | [55279-astronjumpbaby.json](./55279-astronjumpbaby.json) |
 | Astronoka | 94714 | [94714-astronoka.json](./94714-astronoka.json) |
