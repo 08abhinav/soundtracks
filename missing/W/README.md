@@ -699,10 +699,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Thunder: IJN Yamashiro Pack | 336934 | [336934-war-thunder-ijn-yamashiro-pack.json](./336934-war-thunder-ijn-yamashiro-pack.json) |
 | War Thunder: IS-6 Pack | 293757 | [293757-war-thunder-is-6-pack.json](./293757-war-thunder-is-6-pack.json) |
 | War Thunder: J-7D Pack | 332077 | [332077-war-thunder-j-7d-pack.json](./332077-war-thunder-j-7d-pack.json) |
+| War Thunder: Leopard 2A4 Pack | 230984 | [230984-war-thunder-leopard-2a4-pack.json](./230984-war-thunder-leopard-2a4-pack.json) |
 | War Thunder: Leopard 2A4M CAN Bundle | 306492 | [306492-war-thunder-leopard-2a4m-can-bundle.json](./306492-war-thunder-leopard-2a4m-can-bundle.json) |
 | War Thunder: M1 KVT Pack | 254067 | [254067-war-thunder-m1-kvt-pack.json](./254067-war-thunder-m1-kvt-pack.json) |
 | War Thunder: M1A1 HC "Click-Bait" Pack | 332078 | [332078-war-thunder-m1a1-hc-click-bait-pack.json](./332078-war-thunder-m1a1-hc-click-bait-pack.json) |
 | War Thunder: Marder Clovis Pack | 336935 | [336935-war-thunder-marder-clovis-pack.json](./336935-war-thunder-marder-clovis-pack.json) |
+| War Thunder: Merkava Mk.2D Pack | 230983 | [230983-war-thunder-merkava-mk-2d-pack.json](./230983-war-thunder-merkava-mk-2d-pack.json) |
 | War Thunder: Merkava Mk.3 Raam Segol Pack | 332081 | [332081-war-thunder-merkava-mk-3-raam-segol-pack.json](./332081-war-thunder-merkava-mk-3-raam-segol-pack.json) |
 | War Thunder: Object 120 Pack | 332079 | [332079-war-thunder-object-120-pack.json](./332079-war-thunder-object-120-pack.json) |
 | War Thunder: Object 140 Bundle | 331499 | [331499-war-thunder-object-140-bundle.json](./331499-war-thunder-object-140-bundle.json) |
@@ -5946,7 +5948,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K21 | 132815 | [132815-wwe-2k21.json](./132815-wwe-2k21.json) |
 | WWE 2K22 | 145780 | [145780-wwe-2k22.json](./145780-wwe-2k22.json) |
 | WWE 2K22: Deluxe Edition | 188127 | [188127-wwe-2k22-deluxe-edition.json](./188127-wwe-2k22-deluxe-edition.json) |
+| WWE 2K22: Most Wanted Pack | 230986 | [230986-wwe-2k22-most-wanted-pack.json](./230986-wwe-2k22-most-wanted-pack.json) |
 | WWE 2K22: Season Pass | 293720 | [293720-wwe-2k22-season-pass.json](./293720-wwe-2k22-season-pass.json) |
+| WWE 2K22: The Whole Dam Pack | 230988 | [230988-wwe-2k22-the-whole-dam-pack.json](./230988-wwe-2k22-the-whole-dam-pack.json) |
+| WWE 2K22: Undertaker Immortal Pack | 230987 | [230987-wwe-2k22-undertaker-immortal-pack.json](./230987-wwe-2k22-undertaker-immortal-pack.json) |
 | WWE 2K23 | 233028 | [233028-wwe-2k23.json](./233028-wwe-2k23.json) |
 | WWE 2K23: Bad Bunny Bonus Pack | 263147 | [263147-wwe-2k23-bad-bunny-bonus-pack.json](./263147-wwe-2k23-bad-bunny-bonus-pack.json) |
 | WWE 2K23: Bad Bunny Edition | 273338 | [273338-wwe-2k23-bad-bunny-edition.json](./273338-wwe-2k23-bad-bunny-edition.json) |
