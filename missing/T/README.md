@@ -5879,6 +5879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fallen Eagle | 356032 | [356032-the-fallen-eagle.json](./356032-the-fallen-eagle.json) |
 | The Fallen Kingdom | 31990 | [31990-the-fallen-kingdom.json](./31990-the-fallen-kingdom.json) |
 | The Fallen Kingdom | 324298 | [324298-the-fallen-kingdom.json](./324298-the-fallen-kingdom.json) |
+| The Fallen Night | 236198 | [236198-the-fallen-night.json](./236198-the-fallen-night.json) |
 | The Fallen Priest | 276397 | [276397-the-fallen-priest.json](./276397-the-fallen-priest.json) |
 | The Fallen Will | 386447 | [386447-the-fallen-will.json](./386447-the-fallen-will.json) |
 | The Falling Nights | 36481 | [36481-the-falling-nights.json](./36481-the-falling-nights.json) |
