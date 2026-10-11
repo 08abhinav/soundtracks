@@ -1261,10 +1261,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Pro Yakyuu '96: Kaimaku-ban | 42644 | [42644-jikkyou-pawafuru-pro-yakyuu-96-kaimaku-ban.json](./42644-jikkyou-pawafuru-pro-yakyuu-96-kaimaku-ban.json) |
 | Jikkyou Pawafuru Pro Yakyuu: Basic-ban '98 | 37207 | [37207-jikkyou-pawafuru-pro-yakyuu-basic-ban-98.json](./37207-jikkyou-pawafuru-pro-yakyuu-basic-ban-98.json) |
 | Jikkyou Pawafuru Puroyakyu '95 | 63563 | [63563-jikkyou-pawafuru-puroyakyu-95.json](./63563-jikkyou-pawafuru-puroyakyu-95.json) |
+| Jikkyou Pawafuru Puroyakyu '97: Kaimaku-ban | 229566 | [229566-jikkyou-pawafuru-puroyakyu-97-kaimaku-ban.json](./229566-jikkyou-pawafuru-puroyakyu-97-kaimaku-ban.json) |
+| Jikkyou Pawafuru Puroyakyu '98: Kaimaku-ban | 229571 | [229571-jikkyou-pawafuru-puroyakyu-98-kaimaku-ban.json](./229571-jikkyou-pawafuru-puroyakyu-98-kaimaku-ban.json) |
+| Jikkyou Pawafuru Puroyakyu '98: Kettei-ban | 229572 | [229572-jikkyou-pawafuru-puroyakyu-98-kettei-ban.json](./229572-jikkyou-pawafuru-puroyakyu-98-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu '99: Kaimaku-ban | 138738 | [138738-jikkyou-pawafuru-puroyakyu-99-kaimaku-ban.json](./138738-jikkyou-pawafuru-puroyakyu-99-kaimaku-ban.json) |
+| Jikkyou Pawafuru Puroyakyu '99: Kettei-ban | 229574 | [229574-jikkyou-pawafuru-puroyakyu-99-kettei-ban.json](./229574-jikkyou-pawafuru-puroyakyu-99-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 13 | 78581 | [78581-jikkyou-pawafuru-puroyakyu-13.json](./78581-jikkyou-pawafuru-puroyakyu-13.json) |
 | Jikkyou Pawafuru Puroyakyu 14 | 69203 | [69203-jikkyou-pawafuru-puroyakyu-14.json](./69203-jikkyou-pawafuru-puroyakyu-14.json) |
 | Jikkyou Pawafuru Puroyakyu 15 | 69204 | [69204-jikkyou-pawafuru-puroyakyu-15.json](./69204-jikkyou-pawafuru-puroyakyu-15.json) |
+| Jikkyou Pawafuru Puroyakyu 2000: Kaimaku-ban | 229575 | [229575-jikkyou-pawafuru-puroyakyu-2000-kaimaku-ban.json](./229575-jikkyou-pawafuru-puroyakyu-2000-kaimaku-ban.json) |
+| Jikkyou Pawafuru Puroyakyu 2001: Kettei-ban | 229579 | [229579-jikkyou-pawafuru-puroyakyu-2001-kettei-ban.json](./229579-jikkyou-pawafuru-puroyakyu-2001-kettei-ban.json) |
+| Jikkyou Pawafuru Puroyakyu 2002 Haru | 229580 | [229580-jikkyou-pawafuru-puroyakyu-2002-haru.json](./229580-jikkyou-pawafuru-puroyakyu-2002-haru.json) |
 | Jikkyou Pawafuru Puroyakyu 2009 | 98518 | [98518-jikkyou-pawafuru-puroyakyu-2009.json](./98518-jikkyou-pawafuru-puroyakyu-2009.json) |
 | Jikkyou Pawafuru Puroyakyu 2010 | 45286 | [45286-jikkyou-pawafuru-puroyakyu-2010.json](./45286-jikkyou-pawafuru-puroyakyu-2010.json) |
 | Jikkyou Pawafuru Puroyakyu 2011 | 124695 | [124695-jikkyou-pawafuru-puroyakyu-2011.json](./124695-jikkyou-pawafuru-puroyakyu-2011.json) |
@@ -1280,9 +1287,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu 5 | 3526 | [3526-jikkyou-pawafuru-puroyakyu-5.json](./3526-jikkyou-pawafuru-puroyakyu-5.json) |
 | Jikkyou Pawafuru Puroyakyu 8 | 74702 | [74702-jikkyou-pawafuru-puroyakyu-8.json](./74702-jikkyou-pawafuru-puroyakyu-8.json) |
 | Jikkyou Pawafuru Puroyakyu Championship 2017 | 98511 | [98511-jikkyou-pawafuru-puroyakyu-championship-2017.json](./98511-jikkyou-pawafuru-puroyakyu-championship-2017.json) |
+| Jikkyou Pawafuru Puroyakyu Next | 229557 | [229557-jikkyou-pawafuru-puroyakyu-next.json](./229557-jikkyou-pawafuru-puroyakyu-next.json) |
+| Jikkyou Pawafuru Puroyakyu Portable | 229582 | [229582-jikkyou-pawafuru-puroyakyu-portable.json](./229582-jikkyou-pawafuru-puroyakyu-portable.json) |
+| Jikkyou Pawafuru Puroyakyu Portable 2 | 229583 | [229583-jikkyou-pawafuru-puroyakyu-portable-2.json](./229583-jikkyou-pawafuru-puroyakyu-portable-2.json) |
 | Jikkyou Pawafuru Puroyakyu Portable 3 | 229584 | [229584-jikkyou-pawafuru-puroyakyu-portable-3.json](./229584-jikkyou-pawafuru-puroyakyu-portable-3.json) |
 | Jikkyou Pawafuru Puroyakyu Portable 4 | 229585 | [229585-jikkyou-pawafuru-puroyakyu-portable-4.json](./229585-jikkyou-pawafuru-puroyakyu-portable-4.json) |
+| Jikkyou Pawafuru Puroyakyu S | 229569 | [229569-jikkyou-pawafuru-puroyakyu-s.json](./229569-jikkyou-pawafuru-puroyakyu-s.json) |
 | Jikkyou Pawafuru Puroyakyu Wii | 229183 | [229183-jikkyou-pawafuru-puroyakyu-wii.json](./229183-jikkyou-pawafuru-puroyakyu-wii.json) |
+| Jikkyou Pawafuru Puroyakyu: Dreamcast Edition | 229577 | [229577-jikkyou-pawafuru-puroyakyu-dreamcast-edition.json](./229577-jikkyou-pawafuru-puroyakyu-dreamcast-edition.json) |
+| Jikkyou Pawafuru Puroyakyu: Premium-ban | 229581 | [229581-jikkyou-pawafuru-puroyakyu-premium-ban.json](./229581-jikkyou-pawafuru-puroyakyu-premium-ban.json) |
 | Jikkyou Pawafuru Puroyakyu: Success Special | 98014 | [98014-jikkyou-pawafuru-puroyakyu-success-special.json](./98014-jikkyou-pawafuru-puroyakyu-success-special.json) |
 | Jikkyou World Soccer 2000: Final Edition | 168136 | [168136-jikkyou-world-soccer-2000-final-edition.json](./168136-jikkyou-world-soccer-2000-final-edition.json) |
 | Jikoronpa: Laments of Isolation | 341073 | [341073-jikoronpa-laments-of-isolation.json](./341073-jikoronpa-laments-of-isolation.json) |
