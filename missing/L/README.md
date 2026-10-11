@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth of Eclipse | 314301 | [314301-labyrinth-of-eclipse.json](./314301-labyrinth-of-eclipse.json) |
 | Labyrinth of Galleria: The Moon Society - Great Boots Quest | 232466 | [232466-labyrinth-of-galleria-the-moon-society-great-boots-quest.json](./232466-labyrinth-of-galleria-the-moon-society-great-boots-quest.json) |
 | Labyrinth of Galleria: The Moon Society - Great Hat Quest | 232467 | [232467-labyrinth-of-galleria-the-moon-society-great-hat-quest.json](./232467-labyrinth-of-galleria-the-moon-society-great-hat-quest.json) |
+| Labyrinth of Galleria: The Moon Society - Special Soul Pact Quest | 232468 | [232468-labyrinth-of-galleria-the-moon-society-special-soul-pact-quest.json](./232468-labyrinth-of-galleria-the-moon-society-special-soul-pact-quest.json) |
 | Labyrinth of Light | 236796 | [236796-labyrinth-of-light.json](./236796-labyrinth-of-light.json) |
 | Labyrinth of Loci | 57510 | [57510-labyrinth-of-loci.json](./57510-labyrinth-of-loci.json) |
 | Labyrinth of Rage | 262966 | [262966-labyrinth-of-rage.json](./262966-labyrinth-of-rage.json) |
@@ -2515,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter Bender | 195107 | [195107-letter-bender.json](./195107-letter-bender.json) |
 | Letter Boxed | 296097 | [296097-letter-boxed.json](./296097-letter-boxed.json) |
 | Letter Bunny | 304202 | [304202-letter-bunny.json](./304202-letter-bunny.json) |
+| Letter Club | 232480 | [232480-letter-club.json](./232480-letter-club.json) |
 | Letter Factory | 230383 | [230383-letter-factory.json](./230383-letter-factory.json) |
 | Letter Factory Adventures: The Letter Machine Rescue Team | 230326 | [230326-letter-factory-adventures-the-letter-machine-rescue-team.json](./230326-letter-factory-adventures-the-letter-machine-rescue-team.json) |
 | Letter Factory Adventures: The Rainforest | 230385 | [230385-letter-factory-adventures-the-rainforest.json](./230385-letter-factory-adventures-the-rainforest.json) |
@@ -3658,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Bill Thinks Big | 71805 | [71805-little-bill-thinks-big.json](./71805-little-bill-thinks-big.json) |
 | Little Bit War | 147259 | [147259-little-bit-war.json](./147259-little-bit-war.json) |
 | Little Bo Reap | 244308 | [244308-little-bo-reap.json](./244308-little-bo-reap.json) |
+| Little Boat River Rush | 232333 | [232333-little-boat-river-rush.json](./232333-little-boat-river-rush.json) |
 | Little Boats of Farewell | 193730 | [193730-little-boats-of-farewell.json](./193730-little-boats-of-farewell.json) |
 | Little Bombers Returns | 275554 | [275554-little-bombers-returns.json](./275554-little-bombers-returns.json) |
 | Little Boo and the Spectral Orbs | 386232 | [386232-little-boo-and-the-spectral-orbs.json](./386232-little-boo-and-the-spectral-orbs.json) |
@@ -4445,6 +4448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logo Quiz | 135126 | [135126-logo-quiz.json](./135126-logo-quiz.json) |
 | Logo Quiz Club | 105849 | [105849-logo-quiz-club.json](./105849-logo-quiz-club.json) |
 | Logo Quiz Fever | 103661 | [103661-logo-quiz-fever.json](./103661-logo-quiz-fever.json) |
+| Logo Quiz: Guess the Image | 232483 | [232483-logo-quiz-guess-the-image.json](./232483-logo-quiz-guess-the-image.json) |
 | Logos Panic: Goaisatu | 37942 | [37942-logos-panic-goaisatu.json](./37942-logos-panic-goaisatu.json) |
 | Logos Quiz | 254425 | [254425-logos-quiz.json](./254425-logos-quiz.json) |
 | Logout | 96856 | [96856-logout.json](./96856-logout.json) |
