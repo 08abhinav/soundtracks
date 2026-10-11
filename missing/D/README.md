@@ -9080,11 +9080,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Pack | 333616 | [333616-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-pack.json](./333616-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-pack.json) |
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Part 1 | 333617 | [333617-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-1.json](./333617-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-1.json) |
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Part 2 | 333618 | [333618-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-2.json](./333618-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-2.json) |
+| Dragon Ball Z: Kakarot - Deluxe Special Edition | 233944 | [233944-dragon-ball-z-kakarot-deluxe-special-edition.json](./233944-dragon-ball-z-kakarot-deluxe-special-edition.json) |
 | Dragon Ball Z: Kakarot - Dragon Ball Card Warriors | 142494 | [142494-dragon-ball-z-kakarot-dragon-ball-card-warriors.json](./142494-dragon-ball-z-kakarot-dragon-ball-card-warriors.json) |
 | Dragon Ball Z: Kakarot - Legendary Edition | 307893 | [307893-dragon-ball-z-kakarot-legendary-edition.json](./307893-dragon-ball-z-kakarot-legendary-edition.json) |
 | Dragon Ball Z: Kakarot - Season Pass | 141113 | [141113-dragon-ball-z-kakarot-season-pass.json](./141113-dragon-ball-z-kakarot-season-pass.json) |
 | Dragon Ball Z: Kakarot - Season Pass 2 | 307831 | [307831-dragon-ball-z-kakarot-season-pass-2.json](./307831-dragon-ball-z-kakarot-season-pass-2.json) |
 | Dragon Ball Z: Kakarot - Ultimate Edition | 136271 | [136271-dragon-ball-z-kakarot-ultimate-edition.json](./136271-dragon-ball-z-kakarot-ultimate-edition.json) |
+| Dragon Ball Z: Kakarot - Ultimate Special Edition | 233943 | [233943-dragon-ball-z-kakarot-ultimate-special-edition.json](./233943-dragon-ball-z-kakarot-ultimate-special-edition.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Deluxe Edition | 237860 | [237860-dragon-ball-z-kakarot-a-new-power-awakens-set-deluxe-edition.json](./237860-dragon-ball-z-kakarot-a-new-power-awakens-set-deluxe-edition.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Goku's Next Journey | 288303 | [288303-dragon-ball-z-kakarot-a-new-power-awakens-set-gokus-next-journey.json](./288303-dragon-ball-z-kakarot-a-new-power-awakens-set-gokus-next-journey.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Legendary Edition | 232992 | [232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json](./232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json) |
