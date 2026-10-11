@@ -7714,6 +7714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pombero: The Lord of the Night - Reborn | 260757 | [260757-pombero-the-lord-of-the-night-reborn.json](./260757-pombero-the-lord-of-the-night-reborn.json) |
 | Pome Rumble | 299415 | [299415-pome-rumble.json](./299415-pome-rumble.json) |
 | Pome Rumble M | 299416 | [299416-pome-rumble-m.json](./299416-pome-rumble-m.json) |
+| Pomegranate Tea | 235667 | [235667-pomegranate-tea.json](./235667-pomegranate-tea.json) |
 | Pomelo & Friends: Sevilla | 373137 | [373137-pomelo-and-friends-sevilla.json](./373137-pomelo-and-friends-sevilla.json) |
 | Pomeraider | 316381 | [316381-pomeraider.json](./316381-pomeraider.json) |
 | Pommy | 86103 | [86103-pommy.json](./86103-pommy.json) |
@@ -10192,6 +10193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project-Blemmyes | 172704 | [172704-project-blemmyes.json](./172704-project-blemmyes.json) |
 | Project-X | 12197 | [12197-project-x.json](./12197-project-x.json) |
 | Project-X Special Edition & F17 Challenge | 71537 | [71537-project-x-special-edition-and-f17-challenge.json](./71537-project-x-special-edition-and-f17-challenge.json) |
+| Project-X Zombie vs. Machine Gun | 235641 | [235641-project-x-zombie-vs-machine-gun.json](./235641-project-x-zombie-vs-machine-gun.json) |
 | Project; Virai: Doomer's Life Escape | 342758 | [342758-project-virai-doomers-life-escape.json](./342758-project-virai-doomers-life-escape.json) |
 | Project: Aftershock | 390126 | [390126-project-aftershock.json](./390126-project-aftershock.json) |
 | Project: Another Use - Graftage | 374080 | [374080-project-another-use-graftage.json](./374080-project-another-use-graftage.json) |
@@ -11679,6 +11681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzling Places: World Heritage Tour | 353485 | [353485-puzzling-places-world-heritage-tour.json](./353485-puzzling-places-world-heritage-tour.json) |
 | Puzzling Robot in the Dungeon | 358465 | [358465-puzzling-robot-in-the-dungeon.json](./358465-puzzling-robot-in-the-dungeon.json) |
 | Puzzling Rooms VR | 31837 | [31837-puzzling-rooms-vr.json](./31837-puzzling-rooms-vr.json) |
+| Puzzling Wild IQ Test | 235782 | [235782-puzzling-wild-iq-test.json](./235782-puzzling-wild-iq-test.json) |
 | Puzzlink | 283379 | [283379-puzzlink.json](./283379-puzzlink.json) |
 | Puzzlor | 399884 | [399884-puzzlor.json](./399884-puzzlor.json) |
 | Puzzly Game Collection | 105938 | [105938-puzzly-game-collection.json](./105938-puzzly-game-collection.json) |
@@ -11746,6 +11749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramids of Egypt | 100286 | [100286-pyramids-of-egypt.json](./100286-pyramids-of-egypt.json) |
 | Pyramids of Ra | 49027 | [49027-pyramids-of-ra.json](./49027-pyramids-of-ra.json) |
 | PyramidValley: Reborn | 353395 | [353395-pyramidvalley-reborn.json](./353395-pyramidvalley-reborn.json) |
+| Pyramis | 235652 | [235652-pyramis.json](./235652-pyramis.json) |
 | Pyramis | 397668 | [397668-pyramis.json](./397668-pyramis.json) |
 | Pyrastak | 351757 | [351757-pyrastak.json](./351757-pyrastak.json) |
 | Pyratel | 308239 | [308239-pyratel.json](./308239-pyratel.json) |
