@@ -680,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Hero: Rebirth | 88044 | [88044-fallen-hero-rebirth.json](./88044-fallen-hero-rebirth.json) |
 | Fallen Heroes: Uro's Tale | 22129 | [22129-fallen-heroes-uros-tale.json](./22129-fallen-heroes-uros-tale.json) |
 | Fallen King | 294038 | [294038-fallen-king.json](./294038-fallen-king.json) |
+| Fallen Kingdom | 229573 | [229573-fallen-kingdom.json](./229573-fallen-kingdom.json) |
 | Fallen Kingdom | 75023 | [75023-fallen-kingdom.json](./75023-fallen-kingdom.json) |
 | Fallen Kingdom: A Mario PC Port Retake | 298277 | [298277-fallen-kingdom-a-mario-pc-port-retake.json](./298277-fallen-kingdom-a-mario-pc-port-retake.json) |
 | Fallen Knight: Rise of the Fallen | 367514 | [367514-fallen-knight-rise-of-the-fallen.json](./367514-fallen-knight-rise-of-the-fallen.json) |
@@ -3706,6 +3707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Echoes: Shadows of Valentia | 26840 | [26840-fire-emblem-echoes-shadows-of-valentia.json](./26840-fire-emblem-echoes-shadows-of-valentia.json) |
 | Fire Emblem Echoes: Shadows of Valentia - Limited Edition | 136336 | [136336-fire-emblem-echoes-shadows-of-valentia-limited-edition.json](./136336-fire-emblem-echoes-shadows-of-valentia-limited-edition.json) |
 | Fire Emblem Engage: Fell Xenologue | 246450 | [246450-fire-emblem-engage-fell-xenologue.json](./246450-fire-emblem-engage-fell-xenologue.json) |
+| Fire Emblem Fates: Anna on the Run | 229859 | [229859-fire-emblem-fates-anna-on-the-run.json](./229859-fire-emblem-fates-anna-on-the-run.json) |
 | Fire Emblem Fates: Birthright | 24220 | [24220-fire-emblem-fates-birthright.json](./24220-fire-emblem-fates-birthright.json) |
 | Fire Emblem Fates: V.O.W Edition | 337600 | [337600-fire-emblem-fates-v-o-w-edition.json](./337600-fire-emblem-fates-v-o-w-edition.json) |
 | Fire Emblem Heroes | 26841 | [26841-fire-emblem-heroes.json](./26841-fire-emblem-heroes.json) |
