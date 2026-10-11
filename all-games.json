@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T19:50:51.859Z",
-  "total_soundtracks": 1465,
+  "generated_at": "2026-10-11T19:51:02.796Z",
+  "total_soundtracks": 1466,
   "games": [
     {
       "igdb_id": 7522,
@@ -14365,6 +14365,20 @@
           "spotify_url": "https://music.apple.com/us/album/the-forever-winter-original-game-soundtrack/1770372804?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1770372804"
+        }
+      ]
+    },
+    {
+      "igdb_id": 103320,
+      "game_name": "The Forgotten City",
+      "game_url": "https://ostdb.net/games/the-forgotten-city",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e9/66/20/e9662086-cd5c-4698-a2c0-f9b63a13bdbe/18808.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "The Forgotten City (Original Score)",
+          "spotify_url": "https://open.spotify.com/album/591Ne4vDjXZbr9O5NZOVyB",
+          "apple_music_url": "https://music.apple.com/us/album/the-forgotten-city-original-score/1581064512",
+          "album_link_url": "https://album.link/i/1581064512"
         }
       ]
     },
