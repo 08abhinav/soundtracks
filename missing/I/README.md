@@ -994,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Industries | 255701 | [255701-idle-industries.json](./255701-idle-industries.json) |
 | Idle Intelligence | 101708 | [101708-idle-intelligence.json](./101708-idle-intelligence.json) |
 | Idle Intergalactic Factory | 221127 | [221127-idle-intergalactic-factory.json](./221127-idle-intergalactic-factory.json) |
+| Idle Interstellar Factory 2 | 234522 | [234522-idle-interstellar-factory-2.json](./234522-idle-interstellar-factory-2.json) |
 | Idle Inventor: Factory Tycoon | 167288 | [167288-idle-inventor-factory-tycoon.json](./167288-idle-inventor-factory-tycoon.json) |
 | Idle Keep | 405434 | [405434-idle-keep.json](./405434-idle-keep.json) |
 | Idle Kitchen Tycoon | 237642 | [237642-idle-kitchen-tycoon.json](./237642-idle-kitchen-tycoon.json) |
@@ -3424,6 +3425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inuyasha: Fuuun Emaki | 37374 | [37374-inuyasha-fuuun-emaki.json](./37374-inuyasha-fuuun-emaki.json) |
 | Inuyasha: Kagome no Sengoku Nikki | 37373 | [37373-inuyasha-kagome-no-sengoku-nikki.json](./37373-inuyasha-kagome-no-sengoku-nikki.json) |
 | Inuyasha: Kagome no Yume Nikki | 37372 | [37372-inuyasha-kagome-no-yume-nikki.json](./37372-inuyasha-kagome-no-yume-nikki.json) |
+| Inuyasha: Revive Story | 234489 | [234489-inuyasha-revive-story.json](./234489-inuyasha-revive-story.json) |
 | Inuyasha: Secret of the Divine Jewel | 20653 | [20653-inuyasha-secret-of-the-divine-jewel.json](./20653-inuyasha-secret-of-the-divine-jewel.json) |
 | Inv | 100134 | [100134-inv.json](./100134-inv.json) |
 | Inva-taxi | 9076 | [9076-inva-taxi.json](./9076-inva-taxi.json) |
@@ -4148,6 +4150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Lives Beneath | 313738 | [313738-it-lives-beneath.json](./313738-it-lives-beneath.json) |
 | It Lives in the Woods | 212149 | [212149-it-lives-in-the-woods.json](./212149-it-lives-in-the-woods.json) |
 | It Lives in the Woods | 313737 | [313737-it-lives-in-the-woods.json](./313737-it-lives-in-the-woods.json) |
+| It Lives Under the House. | 234661 | [234661-it-lives-under-the-house.json](./234661-it-lives-under-the-house.json) |
 | It Lives Within | 300413 | [300413-it-lives-within.json](./300413-it-lives-within.json) |
 | It Lurks | 417353 | [417353-it-lurks.json](./417353-it-lurks.json) |
 | It Lurks Below | 85662 | [85662-it-lurks-below.json](./85662-it-lurks-below.json) |
