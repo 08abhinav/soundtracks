@@ -2410,6 +2410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helenenkapelle VR | 296900 | [296900-helenenkapelle-vr.json](./296900-helenenkapelle-vr.json) |
 | Helga Deep In Trouble | 315205 | [315205-helga-deep-in-trouble.json](./315205-helga-deep-in-trouble.json) |
 | Helga the Viking Warrior | 192817 | [192817-helga-the-viking-warrior.json](./192817-helga-the-viking-warrior.json) |
+| Helga the Viking Warrior 2: Ivar's Revenge | 236165 | [236165-helga-the-viking-warrior-2-ivars-revenge.json](./236165-helga-the-viking-warrior-2-ivars-revenge.json) |
 | Helga the Viking Warrior 5: Dawn of Doom | 318609 | [318609-helga-the-viking-warrior-5-dawn-of-doom.json](./318609-helga-the-viking-warrior-5-dawn-of-doom.json) |
 | Helga the Viking Warrior 6: Beyond Ragnarok | 345417 | [345417-helga-the-viking-warrior-6-beyond-ragnarok.json](./345417-helga-the-viking-warrior-6-beyond-ragnarok.json) |
 | Helga the Viking Warrior 8: Valhalla's Last War | 417509 | [417509-helga-the-viking-warrior-8-valhallas-last-war.json](./417509-helga-the-viking-warrior-8-valhallas-last-war.json) |
@@ -3208,6 +3209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Mermaid Sirena | 370469 | [370469-hentai-mermaid-sirena.json](./370469-hentai-mermaid-sirena.json) |
 | Hentai Mia | 340440 | [340440-hentai-mia.json](./340440-hentai-mia.json) |
 | Hentai Midori | 271911 | [271911-hentai-midori.json](./271911-hentai-midori.json) |
+| Hentai Miko | 236186 | [236186-hentai-miko.json](./236186-hentai-miko.json) |
 | Hentai Miko | 343754 | [343754-hentai-miko.json](./343754-hentai-miko.json) |
 | Hentai Milf | 296908 | [296908-hentai-milf.json](./296908-hentai-milf.json) |
 | Hentai Milf City | 371375 | [371375-hentai-milf-city.json](./371375-hentai-milf-city.json) |
@@ -3257,6 +3259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Project | 262366 | [262366-hentai-project.json](./262366-hentai-project.json) |
 | Hentai Project 67 | 409529 | [409529-hentai-project-67.json](./409529-hentai-project-67.json) |
 | Hentai Pussy 4 | 214188 | [214188-hentai-pussy-4.json](./214188-hentai-pussy-4.json) |
+| Hentai Pussy 5 | 236183 | [236183-hentai-pussy-5.json](./236183-hentai-pussy-5.json) |
 | Hentai Pussy 6 | 238588 | [238588-hentai-pussy-6.json](./238588-hentai-pussy-6.json) |
 | Hentai Puzzle Classic | 111481 | [111481-hentai-puzzle-classic.json](./111481-hentai-puzzle-classic.json) |
 | Hentai Puzzle Lamunation | 134620 | [134620-hentai-puzzle-lamunation.json](./134620-hentai-puzzle-lamunation.json) |
@@ -3289,6 +3292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Senpai: Konbini no Shirigaru Onna | 311134 | [311134-hentai-senpai-konbini-no-shirigaru-onna.json](./311134-hentai-senpai-konbini-no-shirigaru-onna.json) |
 | Hentai Senpai: Thicc Fairies of Forest Lake | 372118 | [372118-hentai-senpai-thicc-fairies-of-forest-lake.json](./372118-hentai-senpai-thicc-fairies-of-forest-lake.json) |
 | Hentai Senpai: Thiccmas Cumsluts | 384704 | [384704-hentai-senpai-thiccmas-cumsluts.json](./384704-hentai-senpai-thiccmas-cumsluts.json) |
+| Hentai Series: Classic | 236188 | [236188-hentai-series-classic.json](./236188-hentai-series-classic.json) |
 | Hentai Sexy Nurse | 411074 | [411074-hentai-sexy-nurse.json](./411074-hentai-sexy-nurse.json) |
 | Hentai Sexy Nurses | 222284 | [222284-hentai-sexy-nurses.json](./222284-hentai-sexy-nurses.json) |
 | Hentai Shibari | 371359 | [371359-hentai-shibari.json](./371359-hentai-shibari.json) |
@@ -3299,6 +3303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Shop Simulator | 329572 | [329572-hentai-shop-simulator.json](./329572-hentai-shop-simulator.json) |
 | Hentai Shop Simulator | 338002 | [338002-hentai-shop-simulator.json](./338002-hentai-shop-simulator.json) |
 | Hentai Slash | 340451 | [340451-hentai-slash.json](./340451-hentai-slash.json) |
+| Hentai Slide Puzzle | 236184 | [236184-hentai-slide-puzzle.json](./236184-hentai-slide-puzzle.json) |
 | Hentai Solitaire | 308513 | [308513-hentai-solitaire.json](./308513-hentai-solitaire.json) |
 | Hentai Solitaire | 371040 | [371040-hentai-solitaire.json](./371040-hentai-solitaire.json) |
 | Hentai Solitaire: Complete + | 324450 | [324450-hentai-solitaire-complete.json](./324450-hentai-solitaire-complete.json) |
@@ -3427,6 +3432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai: The Shell Game | 109885 | [109885-hentai-the-shell-game.json](./109885-hentai-the-shell-game.json) |
 | Hentai: Waifu World | 296950 | [296950-hentai-waifu-world.json](./296950-hentai-waifu-world.json) |
 | Hentai: Young Valkyries | 259610 | [259610-hentai-young-valkyries.json](./259610-hentai-young-valkyries.json) |
+| Hentai! Waifu Puzzles | 236185 | [236185-hentai-waifu-puzzles.json](./236185-hentai-waifu-puzzles.json) |
 | Hentai! Zombie! Defense! | 160165 | [160165-hentai-zombie-defense.json](./160165-hentai-zombie-defense.json) |
 | Hentaicraft | 171371 | [171371-hentaicraft.json](./171371-hentaicraft.json) |
 | Hentaimon | 296946 | [296946-hentaimon.json](./296946-hentaimon.json) |
