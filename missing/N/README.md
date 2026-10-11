@@ -4383,6 +4383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not a Hero: Super Snazzy Edition | 32038 | [32038-not-a-hero-super-snazzy-edition.json](./32038-not-a-hero-super-snazzy-edition.json) |
 | Not a Masterpıece | 311214 | [311214-not-a-masterp-ece.json](./311214-not-a-masterp-ece.json) |
 | Not a Prank | 118977 | [118977-not-a-prank.json](./118977-not-a-prank.json) |
+| Not A Thief Simulator | 236862 | [236862-not-a-thief-simulator.json](./236862-not-a-thief-simulator.json) |
 | Not Again, Hero | 364684 | [364684-not-again-hero.json](./364684-not-again-hero.json) |
 | Not All There | 229781 | [229781-not-all-there.json](./229781-not-all-there.json) |
 | Not Alone | 108847 | [108847-not-alone.json](./108847-not-alone.json) |
