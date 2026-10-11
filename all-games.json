@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T19:51:15.583Z",
-  "total_soundtracks": 1467,
+  "generated_at": "2026-10-11T19:55:13.528Z",
+  "total_soundtracks": 1468,
   "games": [
     {
       "igdb_id": 7522,
@@ -5825,6 +5825,20 @@
           "spotify_url": "https://open.spotify.com/album/7us4WRnwvqCE3cppHVNjIu",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 11177,
+      "game_name": "Gang Beasts",
+      "game_url": "https://ostdb.net/games/gang-beasts",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f6/d4/57/f6d4576d-e02c-e25b-2bc7-6ca89486e142/192562000243.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Gang Beasts Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/3UV3ajyl0B6xcXXPDlsXud",
+          "apple_music_url": "https://music.apple.com/us/album/gang-beasts-original-soundtrack/1322845244",
+          "album_link_url": "https://album.link/i/1322845244"
         }
       ]
     },
