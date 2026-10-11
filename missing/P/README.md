@@ -4463,6 +4463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX: Williams Pinball Volume 7 | 271828 | [271828-pinball-fx-williams-pinball-volume-7.json](./271828-pinball-fx-williams-pinball-volume-7.json) |
 | Pinball FX: Williams Pinball Volume 8 | 325528 | [325528-pinball-fx-williams-pinball-volume-8.json](./325528-pinball-fx-williams-pinball-volume-8.json) |
 | Pinball FX: World War Z Pinball | 239016 | [239016-pinball-fx-world-war-z-pinball.json](./239016-pinball-fx-world-war-z-pinball.json) |
+| Pinball FX: Wrath of the Elder Gods | 238936 | [238936-pinball-fx-wrath-of-the-elder-gods.json](./238936-pinball-fx-wrath-of-the-elder-gods.json) |
 | Pinball FX: Zen Originals Collection 1 | 239015 | [239015-pinball-fx-zen-originals-collection-1.json](./239015-pinball-fx-zen-originals-collection-1.json) |
 | Pinball FX2 | 79328 | [79328-pinball-fx2.json](./79328-pinball-fx2.json) |
 | Pinball FX2 VR | 26292 | [26292-pinball-fx2-vr.json](./26292-pinball-fx2-vr.json) |
@@ -8000,12 +8001,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popeye Beach Volleyball | 45250 | [45250-popeye-beach-volleyball.json](./45250-popeye-beach-volleyball.json) |
 | PopGerm Classic | 253021 | [253021-popgerm-classic.json](./253021-popgerm-classic.json) |
 | Popgoes | 186033 | [186033-popgoes.json](./186033-popgoes.json) |
+| Popgoes 0 | 238963 | [238963-popgoes-0.json](./238963-popgoes-0.json) |
+| Popgoes 2 | 238961 | [238961-popgoes-2.json](./238961-popgoes-2.json) |
+| Popgoes 2015 | 238960 | [238960-popgoes-2015.json](./238960-popgoes-2015.json) |
 | Popgoes and the Machinist | 231093 | [231093-popgoes-and-the-machinist.json](./231093-popgoes-and-the-machinist.json) |
 | Popgoes Arcade | 136256 | [136256-popgoes-arcade.json](./136256-popgoes-arcade.json) |
 | Popgoes Arcade | 140319 | [140319-popgoes-arcade.json](./140319-popgoes-arcade.json) |
 | Popgoes Arcade: Fighting Chance | 306983 | [306983-popgoes-arcade-fighting-chance.json](./306983-popgoes-arcade-fighting-chance.json) |
+| Popgoes Encore! | 238959 | [238959-popgoes-encore.json](./238959-popgoes-encore.json) |
 | Popgoes Evergreen | 234342 | [234342-popgoes-evergreen.json](./234342-popgoes-evergreen.json) |
+| Popgoes Reprinted | 238962 | [238962-popgoes-reprinted.json](./238962-popgoes-reprinted.json) |
+| Popgoes: Archives | 238956 | [238956-popgoes-archives.json](./238956-popgoes-archives.json) |
 | Popgoes: Lost Dreams | 250606 | [250606-popgoes-lost-dreams.json](./250606-popgoes-lost-dreams.json) |
+| Popgoes: Silent Night | 238958 | [238958-popgoes-silent-night.json](./238958-popgoes-silent-night.json) |
 | PopIdle | 294461 | [294461-popidle.json](./294461-popidle.json) |
 | Popil | 264314 | [264314-popil.json](./264314-popil.json) |
 | Popils | 45262 | [45262-popils.json](./45262-popils.json) |
@@ -8998,6 +9006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Survivors | 224627 | [224627-primal-survivors.json](./224627-primal-survivors.json) |
 | Primal Threat | 173048 | [173048-primal-threat.json](./173048-primal-threat.json) |
 | Primals.io | 80884 | [80884-primals-io.json](./80884-primals-io.json) |
+| Primarch | 238939 | [238939-primarch.json](./238939-primarch.json) |
 | Primavera Lihbor | 295538 | [295538-primavera-lihbor.json](./295538-primavera-lihbor.json) |
 | Prime | 291783 | [291783-prime.json](./291783-prime.json) |
 | Prime Elements | 99403 | [99403-prime-elements.json](./99403-prime-elements.json) |
