@@ -5999,6 +5999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster: Touhou DLC Pack 09 | 361610 | [361610-groove-coaster-touhou-dlc-pack-09.json](./361610-groove-coaster-touhou-dlc-pack-09.json) |
 | Groove Coaster: Undertale DLC Pack 01 | 361705 | [361705-groove-coaster-undertale-dlc-pack-01.json](./361705-groove-coaster-undertale-dlc-pack-01.json) |
 | Groove Coaster: Undertale DLC Pack 02 | 361615 | [361615-groove-coaster-undertale-dlc-pack-02.json](./361615-groove-coaster-undertale-dlc-pack-02.json) |
+| Groove Coaster: Wai Wai Party!!!! - Dempagumi.inc Pack | 237998 | [237998-groove-coaster-wai-wai-party-dempagumi-inc-pack.json](./237998-groove-coaster-wai-wai-party-dempagumi-inc-pack.json) |
 | Groove Coaster: Wai Wai Party!!!! - DJMax Respect Pack | 237937 | [237937-groove-coaster-wai-wai-party-djmax-respect-pack.json](./237937-groove-coaster-wai-wai-party-djmax-respect-pack.json) |
 | Groove Coaster: Wai Wai Party!!!! - Hit Song + VTuber Pack 5 | 268539 | [268539-groove-coaster-wai-wai-party-hit-song-vtuber-pack-5.json](./268539-groove-coaster-wai-wai-party-hit-song-vtuber-pack-5.json) |
 | Groove Coaster: Wai Wai Party!!!! - Hololive Pack | 242049 | [242049-groove-coaster-wai-wai-party-hololive-pack.json](./242049-groove-coaster-wai-wai-party-hololive-pack.json) |
