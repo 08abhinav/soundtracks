@@ -3398,6 +3398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deez Shells | 328067 | [328067-deez-shells.json](./328067-deez-shells.json) |
 | Def Jam Fight for NY Mobile | 209012 | [209012-def-jam-fight-for-ny-mobile.json](./209012-def-jam-fight-for-ny-mobile.json) |
 | Def Leppard: Let's Rock It! | 254164 | [254164-def-leppard-lets-rock-it.json](./254164-def-leppard-lets-rock-it.json) |
+| Defaced | 236312 | [236312-defaced.json](./236312-defaced.json) |
 | Defaction | 178537 | [178537-defaction.json](./178537-defaction.json) |
 | Defcom | 13586 | [13586-defcom.json](./13586-defcom.json) |
 | Defcom 1 | 13584 | [13584-defcom-1.json](./13584-defcom-1.json) |
@@ -3890,6 +3891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Physics | 90510 | [90510-demolition-physics.json](./90510-demolition-physics.json) |
 | Demolition Plant | 270710 | [270710-demolition-plant.json](./270710-demolition-plant.json) |
 | Demolition Race | 192974 | [192974-demolition-race.json](./192974-demolition-race.json) |
+| Demomen Ltd. | 236163 | [236163-demomen-ltd.json](./236163-demomen-ltd.json) |
 | Demon Alive | 323526 | [323526-demon-alive.json](./323526-demon-alive.json) |
 | Demon Attack | 309342 | [309342-demon-attack.json](./309342-demon-attack.json) |
 | Demon Attack | 5670 | [5670-demon-attack.json](./5670-demon-attack.json) |
