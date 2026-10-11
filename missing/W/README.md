@@ -1083,6 +1083,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wario vs. Windows | 256411 | [256411-wario-vs-windows.json](./256411-wario-vs-windows.json) |
 | Wario: Master of Disguise | 1701 | [1701-wario-master-of-disguise.json](./1701-wario-master-of-disguise.json) |
 | Wario: Master of Disguise Trivia | 231649 | [231649-wario-master-of-disguise-trivia.json](./231649-wario-master-of-disguise-trivia.json) |
+| Wario's Crazy Caps | 231550 | [231550-warios-crazy-caps.json](./231550-warios-crazy-caps.json) |
+| Wario's Dunk Tank | 231549 | [231549-warios-dunk-tank.json](./231549-warios-dunk-tank.json) |
 | Wario's Flashin' Fruit Punch Splash | 328660 | [328660-warios-flashin-fruit-punch-splash.json](./328660-warios-flashin-fruit-punch-splash.json) |
 | Wario's Grab Bag | 231532 | [231532-warios-grab-bag.json](./231532-warios-grab-bag.json) |
 | Wario's Hint Art | 300685 | [300685-warios-hint-art.json](./300685-warios-hint-art.json) |
