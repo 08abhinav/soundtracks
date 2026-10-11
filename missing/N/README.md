@@ -842,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Action | 58315 | [58315-nba-action.json](./58315-nba-action.json) |
 | NBA Action '94 | 45552 | [45552-nba-action-94.json](./45552-nba-action-94.json) |
 | NBA All-Star Challenge 2 | 49010 | [49010-nba-all-star-challenge-2.json](./49010-nba-all-star-challenge-2.json) |
+| NBA Ball Stars | 235131 | [235131-nba-ball-stars.json](./235131-nba-ball-stars.json) |
 | NBA Baller Beats | 47414 | [47414-nba-baller-beats.json](./47414-nba-baller-beats.json) |
 | NBA Ballers: Rebound | 72721 | [72721-nba-ballers-rebound.json](./72721-nba-ballers-rebound.json) |
 | NBA Courtside 2 Featuring Kobe Bryant | 3549 | [3549-nba-courtside-2-featuring-kobe-bryant.json](./3549-nba-courtside-2-featuring-kobe-bryant.json) |
