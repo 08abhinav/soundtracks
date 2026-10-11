@@ -1150,7 +1150,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Collector's Series | 122269 | [122269-need-for-speed-collectors-series.json](./122269-need-for-speed-collectors-series.json) |
 | Need for Speed: Deluxe Edition | 53410 | [53410-need-for-speed-deluxe-edition.json](./53410-need-for-speed-deluxe-edition.json) |
 | Need for Speed: Edge | 25635 | [25635-need-for-speed-edge.json](./25635-need-for-speed-edge.json) |
-| Need for Speed: Heat | 119161 | [119161-need-for-speed-heat.json](./119161-need-for-speed-heat.json) |
 | Need for Speed: Heat - McLaren F1 Black Market Delivery | 140381 | [140381-need-for-speed-heat-mclaren-f1-black-market-delivery.json](./140381-need-for-speed-heat-mclaren-f1-black-market-delivery.json) |
 | Need for Speed: Heat - Red Bull Nissan 370Z | 140382 | [140382-need-for-speed-heat-red-bull-nissan-370z.json](./140382-need-for-speed-heat-red-bull-nissan-370z.json) |
 | Need for Speed: High Stakes | 93 | [93-need-for-speed-high-stakes.json](./93-need-for-speed-high-stakes.json) |
