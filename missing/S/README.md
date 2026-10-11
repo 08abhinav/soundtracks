@@ -6557,6 +6557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Fangs: Stealthy Vampire's Tale | 371264 | [371264-silent-fangs-stealthy-vampires-tale.json](./371264-silent-fangs-stealthy-vampires-tale.json) |
 | Silent Forest: Deadly Night Horror | 330404 | [330404-silent-forest-deadly-night-horror.json](./330404-silent-forest-deadly-night-horror.json) |
 | Silent Frontiers | 304606 | [304606-silent-frontiers.json](./304606-silent-frontiers.json) |
+| Silent Harbor | 236748 | [236748-silent-harbor.json](./236748-silent-harbor.json) |
 | Silent Harmony | 394479 | [394479-silent-harmony.json](./394479-silent-harmony.json) |
 | Silent Hill | 349441 | [349441-silent-hill.json](./349441-silent-hill.json) |
 | Silent Hill 2: Deluxe Edition | 303813 | [303813-silent-hill-2-deluxe-edition.json](./303813-silent-hill-2-deluxe-edition.json) |
@@ -7341,6 +7342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sisterhood | 159752 | [159752-sisterhood.json](./159752-sisterhood.json) |
 | Sisterly Bliss: Don't Let Mom Find Out | 415277 | [415277-sisterly-bliss-dont-let-mom-find-out.json](./415277-sisterly-bliss-dont-let-mom-find-out.json) |
 | Sisters of Silent Liberty | 154410 | [154410-sisters-of-silent-liberty.json](./154410-sisters-of-silent-liberty.json) |
+| Sisters of Sodomorrah | 236747 | [236747-sisters-of-sodomorrah.json](./236747-sisters-of-sodomorrah.json) |
 | Sisters of Solitude | 391847 | [391847-sisters-of-solitude.json](./391847-sisters-of-solitude.json) |
 | Sisters of Sweetwater | 225091 | [225091-sisters-of-sweetwater.json](./225091-sisters-of-sweetwater.json) |
 | Sisters Possession 1 | 195120 | [195120-sisters-possession-1.json](./195120-sisters-possession-1.json) |
@@ -7551,6 +7553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeletal Avenger | 136435 | [136435-skeletal-avenger.json](./136435-skeletal-avenger.json) |
 | Skeletal Dos Dreams | 176781 | [176781-skeletal-dos-dreams.json](./176781-skeletal-dos-dreams.json) |
 | Skeletal Skism | 186315 | [186315-skeletal-skism.json](./186315-skeletal-skism.json) |
+| Skeletery | 236756 | [236756-skeletery.json](./236756-skeletery.json) |
 | Skelethrone: The Chronicles of Ericona - Complete Edition | 340744 | [340744-skelethrone-the-chronicles-of-ericona-complete-edition.json](./340744-skelethrone-the-chronicles-of-ericona-complete-edition.json) |
 | Skelethrone: The Chronicles of Ericona - The Jewel in the Skull | 343209 | [343209-skelethrone-the-chronicles-of-ericona-the-jewel-in-the-skull.json](./343209-skelethrone-the-chronicles-of-ericona-the-jewel-in-the-skull.json) |
 | Skeleton Attack: Nightmare Awaken | 216739 | [216739-skeleton-attack-nightmare-awaken.json](./216739-skeleton-attack-nightmare-awaken.json) |
@@ -12292,6 +12295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Fuss | 31387 | [31387-space-fuss.json](./31387-space-fuss.json) |
 | Space Galaga | 62563 | [62563-space-galaga.json](./62563-space-galaga.json) |
 | Space Game | 312741 | [312741-space-game.json](./312741-space-game.json) |
+| Space Game: Star We There Yet? | 236754 | [236754-space-game-star-we-there-yet.json](./236754-space-game-star-we-there-yet.json) |
 | Space Games: Galaxy Attack | 273313 | [273313-space-games-galaxy-attack.json](./273313-space-games-galaxy-attack.json) |
 | Space Garbage | 277600 | [277600-space-garbage.json](./277600-space-garbage.json) |
 | Space Gate Rush | 259565 | [259565-space-gate-rush.json](./259565-space-gate-rush.json) |
@@ -13488,6 +13492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellsword | 259262 | [259262-spellsword.json](./259262-spellsword.json) |
 | Spellsword Cards: Origins | 118104 | [118104-spellsword-cards-origins.json](./118104-spellsword-cards-origins.json) |
 | Spellsworn | 26573 | [26573-spellsworn.json](./26573-spellsworn.json) |
+| SpellTanks | 236863 | [236863-spelltanks.json](./236863-spelltanks.json) |
 | Spelltooth | 383063 | [383063-spelltooth.json](./383063-spelltooth.json) |
 | SpellTower+ | 136455 | [136455-spelltower.json](./136455-spelltower.json) |
 | SpellUp | 233102 | [233102-spellup.json](./233102-spellup.json) |
@@ -15331,6 +15336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Striker | 13762 | [13762-star-striker.json](./13762-star-striker.json) |
 | Star Striker | 384151 | [384151-star-striker.json](./384151-star-striker.json) |
 | Star Struck | 78375 | [78375-star-struck.json](./78375-star-struck.json) |
+| Star Surfer | 236752 | [236752-star-surfer.json](./236752-star-surfer.json) |
 | Star Surveyor | 32760 | [32760-star-surveyor.json](./32760-star-surveyor.json) |
 | Star Swapper | 94728 | [94728-star-swapper.json](./94728-star-swapper.json) |
 | Star Sword | 221972 | [221972-star-sword.json](./221972-star-sword.json) |
@@ -18786,6 +18792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suikoden Tierkreis | 1452 | [1452-suikoden-tierkreis.json](./1452-suikoden-tierkreis.json) |
 | Suikoden: Star Leap | 334108 | [334108-suikoden-star-leap.json](./334108-suikoden-star-leap.json) |
 | Suikoden: Tenmei no Chikai | 351030 | [351030-suikoden-tenmei-no-chikai.json](./351030-suikoden-tenmei-no-chikai.json) |
+| Suikoro | 236733 | [236733-suikoro.json](./236733-suikoro.json) |
 | Suiren | 131578 | [131578-suiren.json](./131578-suiren.json) |
 | Suiren | 377581 | [377581-suiren.json](./377581-suiren.json) |
 | Suisenka | 261776 | [261776-suisenka.json](./261776-suisenka.json) |
