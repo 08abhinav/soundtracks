@@ -964,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanatorium: A Mental Asylum Simulator | 213369 | [213369-sanatorium-a-mental-asylum-simulator.json](./213369-sanatorium-a-mental-asylum-simulator.json) |
 | Sanctale | 350431 | [350431-sanctale.json](./350431-sanctale.json) |
 | Sancticide | 291154 | [291154-sancticide.json](./291154-sancticide.json) |
+| Sanctified | 230176 | [230176-sanctified.json](./230176-sanctified.json) |
 | Sanction | 203533 | [203533-sanction.json](./203533-sanction.json) |
 | Sanctity | 282551 | [282551-sanctity.json](./282551-sanctity.json) |
 | Sanctuaries | 404390 | [404390-sanctuaries.json](./404390-sanctuaries.json) |
@@ -2714,6 +2715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seaside Drive | 318723 | [318723-seaside-drive.json](./318723-seaside-drive.json) |
 | Seaside Fireflies | 336612 | [336612-seaside-fireflies.json](./336612-seaside-fireflies.json) |
 | Seaside Schemes | 278378 | [278378-seaside-schemes.json](./278378-seaside-schemes.json) |
+| Seaside Sourcery | 230187 | [230187-seaside-sourcery.json](./230187-seaside-sourcery.json) |
 | Seaside Special | 47199 | [47199-seaside-special.json](./47199-seaside-special.json) |
 | SeaSkulls | 176260 | [176260-seaskulls.json](./176260-seaskulls.json) |
 | Season 31 | 370675 | [370675-season-31.json](./370675-season-31.json) |
@@ -3646,6 +3648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sergeant Squidley: Space Cop! | 236895 | [236895-sergeant-squidley-space-cop.json](./236895-sergeant-squidley-space-cop.json) |
 | Sergei and the Tax Return | 289267 | [289267-sergei-and-the-tax-return.json](./289267-sergei-and-the-tax-return.json) |
 | Serguei's Destiny | 74041 | [74041-sergueis-destiny.json](./74041-sergueis-destiny.json) |
+| Sergueis Destiny | 230188 | [230188-sergueis-destiny.json](./230188-sergueis-destiny.json) |
 | Serial Assault: The Memory of the Summer. | 97478 | [97478-serial-assault-the-memory-of-the-summer.json](./97478-serial-assault-the-memory-of-the-summer.json) |
 | Serial Cleaner | 19450 | [19450-serial-cleaner.json](./19450-serial-cleaner.json) |
 | Serial Cleaner + Official Soundtrack Bundle | 118866 | [118866-serial-cleaner-official-soundtrack-bundle.json](./118866-serial-cleaner-official-soundtrack-bundle.json) |
@@ -6413,6 +6416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidewinder 2 | 66656 | [66656-sidewinder-2.json](./66656-sidewinder-2.json) |
 | Sidewinder Max | 322940 | [322940-sidewinder-max.json](./322940-sidewinder-max.json) |
 | Sidius Nova | 413813 | [413813-sidius-nova.json](./413813-sidius-nova.json) |
+| Sidrial | 230164 | [230164-sidrial.json](./230164-sidrial.json) |
 | Siebenpolis | 308458 | [308458-siebenpolis.json](./308458-siebenpolis.json) |
 | Siebenstreich's Nerdventure | 150270 | [150270-siebenstreichs-nerdventure.json](./150270-siebenstreichs-nerdventure.json) |
 | Siege | 78612 | [78612-siege.json](./78612-siege.json) |
@@ -13684,6 +13688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man & Friends: Doc Ock's Challenge | 72999 | [72999-spider-man-and-friends-doc-ocks-challenge.json](./72999-spider-man-and-friends-doc-ocks-challenge.json) |
 | Spider-Man & Friends: Secret Missions | 73001 | [73001-spider-man-and-friends-secret-missions.json](./73001-spider-man-and-friends-secret-missions.json) |
 | Spider-Man 2 | 200980 | [200980-spider-man-2.json](./200980-spider-man-2.json) |
+| Spider-Man 2 Handheld Game | 230180 | [230180-spider-man-2-handheld-game.json](./230180-spider-man-2-handheld-game.json) |
 | Spider-Man 2 Pinball | 224659 | [224659-spider-man-2-pinball.json](./224659-spider-man-2-pinball.json) |
 | Spider-Man 2: The Game | 149275 | [149275-spider-man-2-the-game.json](./149275-spider-man-2-the-game.json) |
 | Spider-Man 2: The Sinister Six | 49971 | [49971-spider-man-2-the-sinister-six.json](./49971-spider-man-2-the-sinister-six.json) |
@@ -20154,6 +20159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario and the Space Base | 356293 | [356293-super-mario-and-the-space-base.json](./356293-super-mario-and-the-space-base.json) |
 | Super Mario Apocalypse | 210596 | [210596-super-mario-apocalypse.json](./210596-super-mario-apocalypse.json) |
 | Super Mario Apocalypse | 210597 | [210597-super-mario-apocalypse.json](./210597-super-mario-apocalypse.json) |
+| Super Mario Attack | 230172 | [230172-super-mario-attack.json](./230172-super-mario-attack.json) |
 | Super Mario Bomber | 369660 | [369660-super-mario-bomber.json](./369660-super-mario-bomber.json) |
 | Super Mario brasileiro | 267931 | [267931-super-mario-brasileiro.json](./267931-super-mario-brasileiro.json) |
 | Super Mario Bratarsi | 323361 | [323361-super-mario-bratarsi.json](./323361-super-mario-bratarsi.json) |
@@ -20416,6 +20422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario: Bob-omb Blast | 313419 | [313419-super-mario-bob-omb-blast.json](./313419-super-mario-bob-omb-blast.json) |
 | Super Mario: Christmas Season | 268396 | [268396-super-mario-christmas-season.json](./268396-super-mario-christmas-season.json) |
 | Super Mario: Endless Earth | 135177 | [135177-super-mario-endless-earth.json](./135177-super-mario-endless-earth.json) |
+| Super Mario: Fushigi no Janjanland | 230171 | [230171-super-mario-fushigi-no-janjanland.json](./230171-super-mario-fushigi-no-janjanland.json) |
 | Super Mario: Fushigi no Koro-koro Party | 132033 | [132033-super-mario-fushigi-no-koro-koro-party.json](./132033-super-mario-fushigi-no-koro-koro-party.json) |
 | Super Mario: Fushigi no Koro-koro Party 2 | 132034 | [132034-super-mario-fushigi-no-koro-koro-party-2.json](./132034-super-mario-fushigi-no-koro-koro-party-2.json) |
 | Super Mario: Magnum Opus | 250041 | [250041-super-mario-magnum-opus.json](./250041-super-mario-magnum-opus.json) |
