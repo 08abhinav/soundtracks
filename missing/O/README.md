@@ -3547,6 +3547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overgrown | 380629 | [380629-overgrown.json](./380629-overgrown.json) |
 | Overgrown Cleaner | 372604 | [372604-overgrown-cleaner.json](./372604-overgrown-cleaner.json) |
 | Overgrown! | 348464 | [348464-overgrown.json](./348464-overgrown.json) |
+| Overgrowth | 229559 | [229559-overgrowth.json](./229559-overgrowth.json) |
 | Overgun | 285447 | [285447-overgun.json](./285447-overgun.json) |
 | Overhatched | 410321 | [410321-overhatched.json](./410321-overhatched.json) |
 | Overhead | 402256 | [402256-overhead.json](./402256-overhead.json) |
