@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T22:19:45.829Z",
-  "total_missing": 199093,
+  "generated_at": "2026-10-11T22:35:03.358Z",
+  "total_missing": 199143,
   "games": [
     {
       "igdb_id": 191680,
@@ -20706,6 +20706,11 @@
       "igdb_id": 192945,
       "game_name": "Adventure in My Head",
       "file": "missing/A/192945-adventure-in-my-head.json"
+    },
+    {
+      "igdb_id": 230846,
+      "game_name": "Adventure in the Park",
+      "file": "missing/A/230846-adventure-in-the-park.json"
     },
     {
       "igdb_id": 84974,
@@ -107133,6 +107138,11 @@
       "file": "missing/B/349869-bonjin-an-ordinary-man.json"
     },
     {
+      "igdb_id": 230865,
+      "game_name": "Bonk",
+      "file": "missing/B/230865-bonk.json"
+    },
+    {
       "igdb_id": 379122,
       "game_name": "Bonk 'N Bash",
       "file": "missing/B/379122-bonk-n-bash.json"
@@ -127958,6 +127968,11 @@
       "file": "missing/C/284579-can-you-make-it-man.json"
     },
     {
+      "igdb_id": 230744,
+      "game_name": "Can You Make It?",
+      "file": "missing/C/230744-can-you-make-it.json"
+    },
+    {
       "igdb_id": 339940,
       "game_name": "Can You Reach 60 Seconds",
       "file": "missing/C/339940-can-you-reach-60-seconds.json"
@@ -144886,6 +144901,11 @@
       "igdb_id": 324987,
       "game_name": "Chess Infinity",
       "file": "missing/C/324987-chess-infinity.json"
+    },
+    {
+      "igdb_id": 230735,
+      "game_name": "Chess is Stupid!",
+      "file": "missing/C/230735-chess-is-stupid.json"
     },
     {
       "igdb_id": 72303,
@@ -171073,6 +171093,11 @@
       "file": "missing/C/80623-cosmic-storm.json"
     },
     {
+      "igdb_id": 230740,
+      "game_name": "Cosmic Strike",
+      "file": "missing/C/230740-cosmic-strike.json"
+    },
+    {
       "igdb_id": 205667,
       "game_name": "Cosmic Strike: The Last Sub Sector",
       "file": "missing/C/205667-cosmic-strike-the-last-sub-sector.json"
@@ -174348,6 +174373,11 @@
       "file": "missing/C/68897-crankies-workshop-whirlbot-assembly-2.json"
     },
     {
+      "igdb_id": 230745,
+      "game_name": "Crankin Car",
+      "file": "missing/C/230745-crankin-car.json"
+    },
+    {
       "igdb_id": 214015,
       "game_name": "Cranknstein II",
       "file": "missing/C/214015-cranknstein-ii.json"
@@ -174411,6 +174441,11 @@
       "igdb_id": 230209,
       "game_name": "Cranky Food Friends",
       "file": "missing/C/230209-cranky-food-friends.json"
+    },
+    {
+      "igdb_id": 230738,
+      "game_name": "Cranky Frog",
+      "file": "missing/C/230738-cranky-frog.json"
     },
     {
       "igdb_id": 418591,
@@ -180766,6 +180801,11 @@
       "igdb_id": 235359,
       "game_name": "Crown of Thorns",
       "file": "missing/C/235359-crown-of-thorns.json"
+    },
+    {
+      "igdb_id": 230727,
+      "game_name": "Crown of Zephyr",
+      "file": "missing/C/230727-crown-of-zephyr.json"
     },
     {
       "igdb_id": 386943,
@@ -209106,6 +209146,11 @@
       "igdb_id": 345692,
       "game_name": "Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles 2: Deluxe Edition",
       "file": "missing/D/345692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 230981,
+      "game_name": "Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Additional Costume Pack - Kimetsu Academy Summer Uniforms",
+      "file": "missing/D/230981-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-additional-costume-pack-kimetsu-academy-summer-uniforms.json"
     },
     {
       "igdb_id": 376262,
@@ -259943,6 +259988,11 @@
       "file": "missing/E/95407-encased.json"
     },
     {
+      "igdb_id": 230991,
+      "game_name": "Encased: Portrait Pack",
+      "file": "missing/E/230991-encased-portrait-pack.json"
+    },
+    {
       "igdb_id": 404778,
       "game_name": "Encave",
       "file": "missing/E/404778-encave.json"
@@ -272878,6 +272928,11 @@
       "file": "missing/E/96094-eximius-seize-the-frontline.json"
     },
     {
+      "igdb_id": 230989,
+      "game_name": "Eximius: Seize the Frontline - Exclusive Callsign Pack: Kings of Frontline",
+      "file": "missing/E/230989-eximius-seize-the-frontline-exclusive-callsign-pack-kings-of-frontline.json"
+    },
+    {
       "igdb_id": 400900,
       "game_name": "Exipath",
       "file": "missing/E/400900-exipath.json"
@@ -276951,6 +277006,11 @@
       "igdb_id": 31796,
       "game_name": "Factory Engineer",
       "file": "missing/F/31796-factory-engineer.json"
+    },
+    {
+      "igdb_id": 230737,
+      "game_name": "Factory Farming",
+      "file": "missing/F/230737-factory-farming.json"
     },
     {
       "igdb_id": 251230,
@@ -302883,6 +302943,11 @@
       "file": "missing/F/73751-flying-saucer.json"
     },
     {
+      "igdb_id": 230866,
+      "game_name": "Flying Saucers",
+      "file": "missing/F/230866-flying-saucers.json"
+    },
+    {
       "igdb_id": 127766,
       "game_name": "Flying Shot",
       "file": "missing/F/127766-flying-shot.json"
@@ -309448,6 +309513,11 @@
       "file": "missing/F/232022-four-color-puzzle.json"
     },
     {
+      "igdb_id": 230728,
+      "game_name": "Four Corners for Playdate",
+      "file": "missing/F/230728-four-corners-for-playdate.json"
+    },
+    {
       "igdb_id": 149535,
       "game_name": "Four Course Combat",
       "file": "missing/F/149535-four-course-combat.json"
@@ -314496,6 +314566,11 @@
       "igdb_id": 212803,
       "game_name": "From Salt to Sugar",
       "file": "missing/F/212803-from-salt-to-sugar.json"
+    },
+    {
+      "igdb_id": 230746,
+      "game_name": "From Scratch",
+      "file": "missing/F/230746-from-scratch.json"
     },
     {
       "igdb_id": 287199,
@@ -328798,6 +328873,11 @@
       "file": "missing/G/164785-generation-zero-resistance-bundle.json"
     },
     {
+      "igdb_id": 230982,
+      "game_name": "Generation Zero: Resistance Weapons Pack",
+      "file": "missing/G/230982-generation-zero-resistance-weapons-pack.json"
+    },
+    {
       "igdb_id": 234932,
       "game_name": "Generation Zero: Rivals and Experimental Weapons",
       "file": "missing/G/234932-generation-zero-rivals-and-experimental-weapons.json"
@@ -341136,6 +341216,11 @@
       "igdb_id": 82355,
       "game_name": "Gone Fireflies",
       "file": "missing/G/82355-gone-fireflies.json"
+    },
+    {
+      "igdb_id": 230731,
+      "game_name": "Gone Fishin' with Archimedes",
+      "file": "missing/G/230731-gone-fishin-with-archimedes.json"
     },
     {
       "igdb_id": 348447,
@@ -401248,6 +401333,11 @@
       "file": "missing/I/182300-idle-superpowers.json"
     },
     {
+      "igdb_id": 230733,
+      "game_name": "Idle Surge",
+      "file": "missing/I/230733-idle-surge.json"
+    },
+    {
       "igdb_id": 100446,
       "game_name": "Idle Sweeper",
       "file": "missing/I/100446-idle-sweeper.json"
@@ -411898,6 +411988,11 @@
       "file": "missing/I/404368-internet-exploring.json"
     },
     {
+      "igdb_id": 230732,
+      "game_name": "Internet Reversi",
+      "file": "missing/I/230732-internet-reversi.json"
+    },
+    {
       "igdb_id": 157528,
       "game_name": "Internet Scrabble Club",
       "file": "missing/I/157528-internet-scrabble-club.json"
@@ -419528,6 +419623,11 @@
       "file": "missing/J/47831-james-patterson-womens-murder-club-games-of-passion.json"
     },
     {
+      "igdb_id": 230868,
+      "game_name": "James Pond 2: Codename - RoboCod",
+      "file": "missing/J/230868-james-pond-2-codename-robocod.json"
+    },
+    {
       "igdb_id": 368902,
       "game_name": "James Pond 3: Operation Starfish",
       "file": "missing/J/368902-james-pond-3-operation-starfish.json"
@@ -422291,6 +422391,11 @@
       "igdb_id": 233434,
       "game_name": "Jewel Crush",
       "file": "missing/J/233434-jewel-crush.json"
+    },
+    {
+      "igdb_id": 230747,
+      "game_name": "Jewel Defender",
+      "file": "missing/J/230747-jewel-defender.json"
     },
     {
       "igdb_id": 215396,
@@ -500568,6 +500673,11 @@
       "file": "missing/M/230826-master-system-3-collection-131-super-jogos-na-memoria.json"
     },
     {
+      "igdb_id": 230749,
+      "game_name": "Master System Evolution",
+      "file": "missing/M/230749-master-system-evolution.json"
+    },
+    {
       "igdb_id": 202806,
       "game_name": "Master System Handy",
       "file": "missing/M/202806-master-system-handy.json"
@@ -555403,14 +555513,34 @@
       "file": "missing/N/263509-naruto-to-boruto-shinobi-striker-master-character-training-pack-kaguya-otsutsuki.json"
     },
     {
+      "igdb_id": 230978,
+      "game_name": "Naruto to Boruto: Shinobi Striker - Master Character Training Pack: Madara Uchiha",
+      "file": "missing/N/230978-naruto-to-boruto-shinobi-striker-master-character-training-pack-madara-uchiha.json"
+    },
+    {
+      "igdb_id": 230979,
+      "game_name": "Naruto to Boruto: Shinobi Striker - Master Character Training Pack: Nagato",
+      "file": "missing/N/230979-naruto-to-boruto-shinobi-striker-master-character-training-pack-nagato.json"
+    },
+    {
       "igdb_id": 255244,
       "game_name": "Naruto to Boruto: Shinobi Striker - Master Character Training Pack: Obito Uchiha (Ten Tails)",
       "file": "missing/N/255244-naruto-to-boruto-shinobi-striker-master-character-training-pack-obito-uchiha-ten-tails.json"
     },
     {
+      "igdb_id": 230977,
+      "game_name": "Naruto to Boruto: Shinobi Striker - Master Character Training Pack: Sakura Haruno",
+      "file": "missing/N/230977-naruto-to-boruto-shinobi-striker-master-character-training-pack-sakura-haruno.json"
+    },
+    {
       "igdb_id": 295112,
       "game_name": "Naruto to Boruto: Shinobi Striker - Master Character Training Pack: Sasori",
       "file": "missing/N/295112-naruto-to-boruto-shinobi-striker-master-character-training-pack-sasori.json"
+    },
+    {
+      "igdb_id": 230980,
+      "game_name": "Naruto to Boruto: Shinobi Striker - Master Character Training Pack: Sasuke Uchiha",
+      "file": "missing/N/230980-naruto-to-boruto-shinobi-striker-master-character-training-pack-sasuke-uchiha.json"
     },
     {
       "igdb_id": 307754,
@@ -565986,6 +566116,11 @@
       "igdb_id": 212790,
       "game_name": "Nickelodeon All-Star Brawl: Hugh Neutron",
       "file": "missing/N/212790-nickelodeon-all-star-brawl-hugh-neutron.json"
+    },
+    {
+      "igdb_id": 230985,
+      "game_name": "Nickelodeon All-Star Brawl: Rocko Brawler Pack",
+      "file": "missing/N/230985-nickelodeon-all-star-brawl-rocko-brawler-pack.json"
     },
     {
       "igdb_id": 330977,
@@ -591618,6 +591753,11 @@
       "file": "missing/O/404393-ornament-tower.json"
     },
     {
+      "igdb_id": 230739,
+      "game_name": "Ornamental",
+      "file": "missing/O/230739-ornamental.json"
+    },
+    {
       "igdb_id": 403776,
       "game_name": "Ornélia",
       "file": "missing/O/403776-ornelia.json"
@@ -603131,6 +603271,11 @@
       "igdb_id": 332539,
       "game_name": "Paradise of Freedom",
       "file": "missing/P/332539-paradise-of-freedom.json"
+    },
+    {
+      "igdb_id": 230750,
+      "game_name": "Paradise Rescue",
+      "file": "missing/P/230750-paradise-rescue.json"
     },
     {
       "igdb_id": 406743,
@@ -629746,6 +629891,11 @@
       "igdb_id": 344566,
       "game_name": "Pocket of Horror",
       "file": "missing/P/344566-pocket-of-horror.json"
+    },
+    {
+      "igdb_id": 230730,
+      "game_name": "Pocket Pet",
+      "file": "missing/P/230730-pocket-pet.json"
     },
     {
       "igdb_id": 152388,
@@ -677888,6 +678038,11 @@
       "file": "missing/R/252786-resistor.json"
     },
     {
+      "igdb_id": 230734,
+      "game_name": "reSnake",
+      "file": "missing/R/230734-resnake.json"
+    },
+    {
       "igdb_id": 377046,
       "game_name": "Resobeat",
       "file": "missing/R/377046-resobeat.json"
@@ -689908,6 +690063,11 @@
       "file": "missing/R/188454-rocketballz.json"
     },
     {
+      "igdb_id": 230725,
+      "game_name": "RocketBird Classic",
+      "file": "missing/R/230725-rocketbird-classic.json"
+    },
+    {
       "igdb_id": 170517,
       "game_name": "Rocketbirds 2: Mind Control",
       "file": "missing/R/170517-rocketbirds-2-mind-control.json"
@@ -690856,6 +691016,11 @@
       "igdb_id": 42648,
       "game_name": "Rocky Rodent",
       "file": "missing/R/42648-rocky-rodent.json"
+    },
+    {
+      "igdb_id": 230726,
+      "game_name": "Rocky Stairs",
+      "file": "missing/R/230726-rocky-stairs.json"
     },
     {
       "igdb_id": 237378,
@@ -721403,6 +721568,11 @@
       "file": "missing/S/87233-sfcave.json"
     },
     {
+      "igdb_id": 230736,
+      "game_name": "SFCave for Playdate",
+      "file": "missing/S/230736-sfcave-for-playdate.json"
+    },
+    {
       "igdb_id": 105676,
       "game_name": "SFD",
       "file": "missing/S/105676-sfd.json"
@@ -748883,6 +749053,11 @@
       "file": "missing/S/172458-snoggle.json"
     },
     {
+      "igdb_id": 230729,
+      "game_name": "Snoik!",
+      "file": "missing/S/230729-snoik.json"
+    },
+    {
       "igdb_id": 87132,
       "game_name": "Snok",
       "file": "missing/S/87132-snok.json"
@@ -759363,6 +759538,11 @@
       "file": "missing/S/348392-soul-chained.json"
     },
     {
+      "igdb_id": 230867,
+      "game_name": "Soul Chomper",
+      "file": "missing/S/230867-soul-chomper.json"
+    },
+    {
       "igdb_id": 189007,
       "game_name": "Soul Climb",
       "file": "missing/S/189007-soul-climb.json"
@@ -759661,6 +759841,11 @@
       "igdb_id": 51196,
       "game_name": "Soul of the Ultimate Nation",
       "file": "missing/S/51196-soul-of-the-ultimate-nation.json"
+    },
+    {
+      "igdb_id": 230869,
+      "game_name": "Soul of War",
+      "file": "missing/S/230869-soul-of-war.json"
     },
     {
       "igdb_id": 263992,
@@ -760241,6 +760426,11 @@
       "igdb_id": 370724,
       "game_name": "Soulmask: Shifting Sands",
       "file": "missing/S/370724-soulmask-shifting-sands.json"
+    },
+    {
+      "igdb_id": 230743,
+      "game_name": "Soulmate Factory",
+      "file": "missing/S/230743-soulmate-factory.json"
     },
     {
       "igdb_id": 290854,
@@ -769146,6 +769336,11 @@
       "igdb_id": 386694,
       "game_name": "Spider Roulette",
       "file": "missing/S/386694-spider-roulette.json"
+    },
+    {
+      "igdb_id": 230741,
+      "game_name": "Spider SG-21",
+      "file": "missing/S/230741-spider-sg-21.json"
     },
     {
       "igdb_id": 119793,
@@ -799926,6 +800121,11 @@
       "igdb_id": 271128,
       "game_name": "Super High School Danger Course",
       "file": "missing/S/271128-super-high-school-danger-course.json"
+    },
+    {
+      "igdb_id": 230724,
+      "game_name": "Super High School Sports Day Crankathlon",
+      "file": "missing/S/230724-super-high-school-sports-day-crankathlon.json"
     },
     {
       "igdb_id": 172117,
@@ -832293,6 +832493,11 @@
       "file": "missing/T/25025-tetris-the-grand-master-ace.json"
     },
     {
+      "igdb_id": 230751,
+      "game_name": "Tetris'd",
+      "file": "missing/T/230751-tetrisd.json"
+    },
+    {
       "igdb_id": 40669,
       "game_name": "Tetris26",
       "file": "missing/T/40669-tetris26.json"
@@ -840346,6 +840551,11 @@
       "igdb_id": 400355,
       "game_name": "The Crane Rider's Tale",
       "file": "missing/T/400355-the-crane-riders-tale.json"
+    },
+    {
+      "igdb_id": 230742,
+      "game_name": "The Crank Gym",
+      "file": "missing/T/230742-the-crank-gym.json"
     },
     {
       "igdb_id": 304159,
@@ -922938,6 +923148,11 @@
       "file": "missing/U/323317-ultimate-combat-fighting.json"
     },
     {
+      "igdb_id": 230990,
+      "game_name": "Ultimate Custom Night Demo",
+      "file": "missing/U/230990-ultimate-custom-night-demo.json"
+    },
+    {
       "igdb_id": 220139,
       "game_name": "Ultimate Custom Night VR",
       "file": "missing/U/220139-ultimate-custom-night-vr.json"
@@ -939818,6 +940033,11 @@
       "file": "missing/V/345627-video-game-super-corrida.json"
     },
     {
+      "igdb_id": 230976,
+      "game_name": "Video Horror Society: Reggie",
+      "file": "missing/V/230976-video-horror-society-reggie.json"
+    },
+    {
       "igdb_id": 38557,
       "game_name": "Video Hustler",
       "file": "missing/V/38557-video-hustler.json"
@@ -950433,6 +950653,11 @@
       "file": "missing/W/332077-war-thunder-j-7d-pack.json"
     },
     {
+      "igdb_id": 230984,
+      "game_name": "War Thunder: Leopard 2A4 Pack",
+      "file": "missing/W/230984-war-thunder-leopard-2a4-pack.json"
+    },
+    {
       "igdb_id": 306492,
       "game_name": "War Thunder: Leopard 2A4M CAN Bundle",
       "file": "missing/W/306492-war-thunder-leopard-2a4m-can-bundle.json"
@@ -950451,6 +950676,11 @@
       "igdb_id": 336935,
       "game_name": "War Thunder: Marder Clovis Pack",
       "file": "missing/W/336935-war-thunder-marder-clovis-pack.json"
+    },
+    {
+      "igdb_id": 230983,
+      "game_name": "War Thunder: Merkava Mk.2D Pack",
+      "file": "missing/W/230983-war-thunder-merkava-mk-2d-pack.json"
     },
     {
       "igdb_id": 332081,
@@ -976668,9 +976898,24 @@
       "file": "missing/W/188127-wwe-2k22-deluxe-edition.json"
     },
     {
+      "igdb_id": 230986,
+      "game_name": "WWE 2K22: Most Wanted Pack",
+      "file": "missing/W/230986-wwe-2k22-most-wanted-pack.json"
+    },
+    {
       "igdb_id": 293720,
       "game_name": "WWE 2K22: Season Pass",
       "file": "missing/W/293720-wwe-2k22-season-pass.json"
+    },
+    {
+      "igdb_id": 230988,
+      "game_name": "WWE 2K22: The Whole Dam Pack",
+      "file": "missing/W/230988-wwe-2k22-the-whole-dam-pack.json"
+    },
+    {
+      "igdb_id": 230987,
+      "game_name": "WWE 2K22: Undertaker Immortal Pack",
+      "file": "missing/W/230987-wwe-2k22-undertaker-immortal-pack.json"
     },
     {
       "igdb_id": 233028,
@@ -981686,6 +981931,11 @@
       "igdb_id": 259717,
       "game_name": "YaoGuai Hunter",
       "file": "missing/Y/259717-yaoguai-hunter.json"
+    },
+    {
+      "igdb_id": 230748,
+      "game_name": "Yaoi Beast Boys",
+      "file": "missing/Y/230748-yaoi-beast-boys.json"
     },
     {
       "igdb_id": 373711,
