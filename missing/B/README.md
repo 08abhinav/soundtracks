@@ -9258,6 +9258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravely Default: Flying Fairy | 78326 | [78326-bravely-default-flying-fairy.json](./78326-bravely-default-flying-fairy.json) |
 | Bravely Default: Flying Fairy - HD Remaster | 338083 | [338083-bravely-default-flying-fairy-hd-remaster.json](./338083-bravely-default-flying-fairy-hd-remaster.json) |
 | Bravely Default: Flying Fairy Collector's Pack | 89878 | [89878-bravely-default-flying-fairy-collectors-pack.json](./89878-bravely-default-flying-fairy-collectors-pack.json) |
+| BraverBots | 233032 | [233032-braverbots.json](./233032-braverbots.json) |
 | Bravery | 211141 | [211141-bravery.json](./211141-bravery.json) |
 | Bravery | 391078 | [391078-bravery.json](./391078-bravery.json) |
 | Bravery and Greed | 143577 | [143577-bravery-and-greed.json](./143577-bravery-and-greed.json) |
