@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T21:45:27.856Z",
-  "total_soundtracks": 1485,
+  "generated_at": "2026-10-11T22:00:13.823Z",
+  "total_soundtracks": 1486,
   "games": [
     {
       "igdb_id": 7522,
@@ -3171,6 +3171,20 @@
           "spotify_url": "https://open.spotify.com/album/7zzcgH4Ls9ITc64EPpAGPE",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 124954,
+      "game_name": "Crusader Kings III",
+      "game_url": "https://ostdb.net/games/crusader-kings-iii",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fe005a3fb7c6e19d50472090",
+      "albums": [
+        {
+          "album_name": "Crusader Kings III (Official Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5PtKUxCsYh3QKUJOF8Mlsr",
+          "apple_music_url": "",
+          "album_link_url": "https://album.link/s/5PtKUxCsYh3QKUJOF8Mlsr"
         }
       ]
     },
