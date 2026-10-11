@@ -6504,7 +6504,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal Zone | 381195 | [381195-signal-zone.json](./381195-signal-zone.json) |
 | Signal: Uncharted Lands | 333239 | [333239-signal-uncharted-lands.json](./333239-signal-uncharted-lands.json) |
 | Signal13 | 410346 | [410346-signal13.json](./410346-signal13.json) |
-| Signalis | 103244 | [103244-signalis.json](./103244-signalis.json) |
 | Signature | 257073 | [257073-signature.json](./257073-signature.json) |
 | Signed by '89 | 177439 | [177439-signed-by-89.json](./177439-signed-by-89.json) |
 | Signets of Power | 61982 | [61982-signets-of-power.json](./61982-signets-of-power.json) |
@@ -17903,7 +17902,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Rage 2: Puyo Wars | 315122 | [315122-streets-of-rage-2-puyo-wars.json](./315122-streets-of-rage-2-puyo-wars.json) |
 | Streets of Rage 2: Syndicate Wars | 256300 | [256300-streets-of-rage-2-syndicate-wars.json](./256300-streets-of-rage-2-syndicate-wars.json) |
 | Streets of Rage 2X | 257340 | [257340-streets-of-rage-2x.json](./257340-streets-of-rage-2x.json) |
-| Streets of Rage 4 | 107262 | [107262-streets-of-rage-4.json](./107262-streets-of-rage-4.json) |
 | Streets of Rage 4 | 241863 | [241863-streets-of-rage-4.json](./241863-streets-of-rage-4.json) |
 | Streets of Rage 4: Anniversary Edition | 155168 | [155168-streets-of-rage-4-anniversary-edition.json](./155168-streets-of-rage-4-anniversary-edition.json) |
 | Streets of Rage 4: Special Edition | 167055 | [167055-streets-of-rage-4-special-edition.json](./167055-streets-of-rage-4-special-edition.json) |
