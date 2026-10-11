@@ -1252,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Never | 100292 | [100292-paradise-never.json](./100292-paradise-never.json) |
 | Paradise Never: The Revolution Fails | 14398 | [14398-paradise-never-the-revolution-fails.json](./14398-paradise-never-the-revolution-fails.json) |
 | Paradise of Freedom | 332539 | [332539-paradise-of-freedom.json](./332539-paradise-of-freedom.json) |
+| Paradise Rescue | 230750 | [230750-paradise-rescue.json](./230750-paradise-rescue.json) |
 | Paradise Sea | 406743 | [406743-paradise-sea.json](./406743-paradise-sea.json) |
 | Paradise Sex | 245764 | [245764-paradise-sex.json](./245764-paradise-sex.json) |
 | Paradise Shooting 2!! | 311808 | [311808-paradise-shooting-2.json](./311808-paradise-shooting-2.json) |
@@ -6575,6 +6576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Necromancer | 319383 | [319383-pocket-necromancer.json](./319383-pocket-necromancer.json) |
 | Pocket no Naka no Doraemon | 37357 | [37357-pocket-no-naka-no-doraemon.json](./37357-pocket-no-naka-no-doraemon.json) |
 | Pocket of Horror | 344566 | [344566-pocket-of-horror.json](./344566-pocket-of-horror.json) |
+| Pocket Pet | 230730 | [230730-pocket-pet.json](./230730-pocket-pet.json) |
 | Pocket Pioneers | 152388 | [152388-pocket-pioneers.json](./152388-pocket-pioneers.json) |
 | Pocket Pix | 260880 | [260880-pocket-pix.json](./260880-pocket-pix.json) |
 | Pocket Planes | 65017 | [65017-pocket-planes.json](./65017-pocket-planes.json) |
