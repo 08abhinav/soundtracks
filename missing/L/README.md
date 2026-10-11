@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lair Land Story 2: Mist of Sea | 217214 | [217214-lair-land-story-2-mist-of-sea.json](./217214-lair-land-story-2-mist-of-sea.json) |
 | Lair Land Story: Remake Edition | 119030 | [119030-lair-land-story-remake-edition.json](./119030-lair-land-story-remake-edition.json) |
 | Lair of Anubis | 236303 | [236303-lair-of-anubis.json](./236303-lair-of-anubis.json) |
+| Lair of Goblins | 233029 | [233029-lair-of-goblins.json](./233029-lair-of-goblins.json) |
 | Lair of the Clockwork God | 117058 | [117058-lair-of-the-clockwork-god.json](./117058-lair-of-the-clockwork-god.json) |
 | Lair Of The Dragon Ogre | 271735 | [271735-lair-of-the-dragon-ogre.json](./271735-lair-of-the-dragon-ogre.json) |
 | Lair Of The Leviathan | 291220 | [291220-lair-of-the-leviathan.json](./291220-lair-of-the-leviathan.json) |
@@ -4208,6 +4209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lobo | 86130 | [86130-lobo.json](./86130-lobo.json) |
 | Lobos: Definitive Edition | 398654 | [398654-lobos-definitive-edition.json](./398654-lobos-definitive-edition.json) |
 | Lobotomy Corporation | 30002 | [30002-lobotomy-corporation.json](./30002-lobotomy-corporation.json) |
+| Lobotomy Corporation Wonder Lab Mod | 232909 | [232909-lobotomy-corporation-wonder-lab-mod.json](./232909-lobotomy-corporation-wonder-lab-mod.json) |
 | Lobotrypo | 332254 | [332254-lobotrypo.json](./332254-lobotrypo.json) |
 | Lobstar: Arcade Version | 349982 | [349982-lobstar-arcade-version.json](./349982-lobstar-arcade-version.json) |
 | Lobster Bay | 42145 | [42145-lobster-bay.json](./42145-lobster-bay.json) |
@@ -5578,6 +5580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Sucks: Night Three | 303639 | [303639-love-sucks-night-three.json](./303639-love-sucks-night-three.json) |
 | Love Take Back | 330814 | [330814-love-take-back.json](./330814-love-take-back.json) |
 | Love Talks | 209477 | [209477-love-talks.json](./209477-love-talks.json) |
+| Love Tangle | 232897 | [232897-love-tangle.json](./232897-love-tangle.json) |
 | Love Tavern | 165028 | [165028-love-tavern.json](./165028-love-tavern.json) |
 | Love Tavern 2: Beastmen Kingdoms | 258888 | [258888-love-tavern-2-beastmen-kingdoms.json](./258888-love-tavern-2-beastmen-kingdoms.json) |
 | Love the Guard, Be the King | 179686 | [179686-love-the-guard-be-the-king.json](./179686-love-the-guard-be-the-king.json) |
