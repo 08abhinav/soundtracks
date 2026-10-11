@@ -1775,6 +1775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation Zero: Tubular Vanity Pack | 234930 | [234930-generation-zero-tubular-vanity-pack.json](./234930-generation-zero-tubular-vanity-pack.json) |
 | Generation Zero: US Weapons Pack | 234928 | [234928-generation-zero-us-weapons-pack.json](./234928-generation-zero-us-weapons-pack.json) |
 | Generation Zero: US Weapons Pack 2 | 234925 | [234925-generation-zero-us-weapons-pack-2.json](./234925-generation-zero-us-weapons-pack-2.json) |
+| Generations | 237260 | [237260-generations.json](./237260-generations.json) |
 | Generative Quest | 267414 | [267414-generative-quest.json](./267414-generative-quest.json) |
 | Generic Brazilian Favela Game with Generic Enemies 2003 | 264894 | [264894-generic-brazilian-favela-game-with-generic-enemies-2003.json](./264894-generic-brazilian-favela-game-with-generic-enemies-2003.json) |
 | Generic Fighter Maybe | 358350 | [358350-generic-fighter-maybe.json](./358350-generic-fighter-maybe.json) |
