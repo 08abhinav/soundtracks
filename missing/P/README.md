@@ -1720,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Saboteurs | 25313 | [25313-party-saboteurs.json](./25313-party-saboteurs.json) |
 | Party Saboteurs: After Party | 130364 | [130364-party-saboteurs-after-party.json](./130364-party-saboteurs-after-party.json) |
 | Party Versus | 326770 | [326770-party-versus.json](./326770-party-versus.json) |
+| Party Wave | 234506 | [234506-party-wave.json](./234506-party-wave.json) |
 | Party Words | 207543 | [207543-party-words.json](./207543-party-words.json) |
 | Party, Darling? | 187210 | [187210-party-darling.json](./187210-party-darling.json) |
 | Party.io | 193795 | [193795-party-io.json](./193795-party-io.json) |
@@ -5368,6 +5369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Variety Pack 1 | 162938 | [162938-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-1.json](./162938-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-1.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Variety Pack 2 | 268973 | [268973-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-2.json](./268973-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-2.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Variety Pack 8 | 303700 | [303700-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-8.json](./303700-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-8.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Variety Pack XL | 234531 | [234531-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-xl.json](./234531-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-xl.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Zombies | 162941 | [162941-pixel-puzzles-illustrations-and-anime-jigsaw-pack-zombies.json](./162941-pixel-puzzles-illustrations-and-anime-jigsaw-pack-zombies.json) |
 | Pixel Quest | 246099 | [246099-pixel-quest.json](./246099-pixel-quest.json) |
 | Pixel Quest: Lost Relics | 304560 | [304560-pixel-quest-lost-relics.json](./304560-pixel-quest-lost-relics.json) |
@@ -5508,6 +5510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelplace.io | 137666 | [137666-pixelplace-io.json](./137666-pixelplace-io.json) |
 | Pixelpunk XL | 88237 | [88237-pixelpunk-xl.json](./88237-pixelpunk-xl.json) |
 | Pixelpusher | 177003 | [177003-pixelpusher.json](./177003-pixelpusher.json) |
+| PixelQuiz | 234521 | [234521-pixelquiz.json](./234521-pixelquiz.json) |
 | PixelRPG | 110920 | [110920-pixelrpg.json](./110920-pixelrpg.json) |
 | PixelRulers | 360681 | [360681-pixelrulers.json](./360681-pixelrulers.json) |
 | Pixelry | 50848 | [50848-pixelry.json](./50848-pixelry.json) |
@@ -8912,6 +8915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Bird 6 | 217813 | [217813-pretty-bird-6.json](./217813-pretty-bird-6.json) |
 | Pretty Bird 7 | 222799 | [222799-pretty-bird-7.json](./222799-pretty-bird-7.json) |
 | Pretty Chaser | 269601 | [269601-pretty-chaser.json](./269601-pretty-chaser.json) |
+| Pretty Dinosaur Adventures of Ancient Earth VR | 234514 | [234514-pretty-dinosaur-adventures-of-ancient-earth-vr.json](./234514-pretty-dinosaur-adventures-of-ancient-earth-vr.json) |
 | Pretty Girl Ukiyo-e Artist Hoku | 406942 | [406942-pretty-girl-ukiyo-e-artist-hoku.json](./406942-pretty-girl-ukiyo-e-artist-hoku.json) |
 | Pretty Girls 2048 Strike | 227923 | [227923-pretty-girls-2048-strike.json](./227923-pretty-girls-2048-strike.json) |
 | Pretty Girls and Dark Witch. A simple story | 173816 | [173816-pretty-girls-and-dark-witch-a-simple-story.json](./173816-pretty-girls-and-dark-witch-a-simple-story.json) |
