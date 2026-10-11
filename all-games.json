@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T19:56:05.418Z",
-  "total_soundtracks": 1472,
+  "generated_at": "2026-10-11T20:10:13.927Z",
+  "total_soundtracks": 1473,
   "games": [
     {
       "igdb_id": 7522,
@@ -3095,6 +3095,20 @@
           "spotify_url": "https://open.spotify.com/album/0seis2rI9tpi9u9I3Dnza2",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 1188,
+      "game_name": "Crash Bandicoot: The Wrath of Cortex",
+      "game_url": "https://ostdb.net/games/crash-bandicoot-the-wrath-of-cortex",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/57/68/af/5768af32-ba0d-2569-21f8-59cde897eb8f/821513562720.png/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Crash Bandicoot: The Wrath of Cortex (Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1kTQBz8Kkv2jbEIMCUfyAV",
+          "apple_music_url": "https://music.apple.com/us/album/crash-bandicoot-the-wrath-of-cortex-soundtrack/1891522398",
+          "album_link_url": "https://album.link/i/1891522398"
         }
       ]
     },
