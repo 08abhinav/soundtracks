@@ -3765,6 +3765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Glitch | 364636 | [364636-retro-glitch.json](./364636-retro-glitch.json) |
 | Retro Golden Age: Goody | 241856 | [241856-retro-golden-age-goody.json](./241856-retro-golden-age-goody.json) |
 | Retro Golden Age: Livingstone I Presume | 196052 | [196052-retro-golden-age-livingstone-i-presume.json](./196052-retro-golden-age-livingstone-i-presume.json) |
+| Retro Golden Age: Operation Alexandra | 235110 | [235110-retro-golden-age-operation-alexandra.json](./235110-retro-golden-age-operation-alexandra.json) |
 | Retro Golf Mania | 408247 | [408247-retro-golf-mania.json](./408247-retro-golf-mania.json) |
 | Retro Granny's Garden | 70921 | [70921-retro-grannys-garden.json](./70921-retro-grannys-garden.json) |
 | Retro Grid | 348745 | [348745-retro-grid.json](./348745-retro-grid.json) |
@@ -5322,6 +5323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Riot Combat Racing | 344930 | [344930-road-riot-combat-racing.json](./344930-road-riot-combat-racing.json) |
 | Road Runner | 282628 | [282628-road-runner.json](./282628-road-runner.json) |
 | Road Runner and Wile E. Coyote | 71438 | [71438-road-runner-and-wile-e-coyote.json](./71438-road-runner-and-wile-e-coyote.json) |
+| Road Rush Racer | 235125 | [235125-road-rush-racer.json](./235125-road-rush-racer.json) |
 | Road Spirits | 41998 | [41998-road-spirits.json](./41998-road-spirits.json) |
 | Road Star | 359383 | [359383-road-star.json](./359383-road-star.json) |
 | Road Star | 359384 | [359384-road-star.json](./359384-road-star.json) |
