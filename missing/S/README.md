@@ -1426,6 +1426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saurian | 19384 | [19384-saurian.json](./19384-saurian.json) |
 | Sauro | 40414 | [40414-sauro.json](./40414-sauro.json) |
 | Saurusland | 42139 | [42139-saurusland.json](./42139-saurusland.json) |
+| Sausage | 234095 | [234095-sausage.json](./234095-sausage.json) |
 | Sausage Bundle: Till the last drop of ketchup | 227774 | [227774-sausage-bundle-till-the-last-drop-of-ketchup.json](./227774-sausage-bundle-till-the-last-drop-of-ketchup.json) |
 | Sausage Cat | 320774 | [320774-sausage-cat.json](./320774-sausage-cat.json) |
 | Sausage Dog Tends to Infinity | 168629 | [168629-sausage-dog-tends-to-infinity.json](./168629-sausage-dog-tends-to-infinity.json) |
@@ -2837,6 +2838,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Command | 213265 | [213265-secret-command.json](./213265-secret-command.json) |
 | Secret Crossing | 225647 | [225647-secret-crossing.json](./225647-secret-crossing.json) |
 | Secret Crush: Unrequited Love | 370279 | [370279-secret-crush-unrequited-love.json](./370279-secret-crush-unrequited-love.json) |
+| Secret Diaries: Manage a Manor | 234101 | [234101-secret-diaries-manage-a-manor.json](./234101-secret-diaries-manage-a-manor.json) |
+| Secret Dimension | 234103 | [234103-secret-dimension.json](./234103-secret-dimension.json) |
 | Secret Doctrine | 46556 | [46556-secret-doctrine.json](./46556-secret-doctrine.json) |
 | Secret Empires of the Ancient World | 84857 | [84857-secret-empires-of-the-ancient-world.json](./84857-secret-empires-of-the-ancient-world.json) |
 | Secret Files 2: Puritas Cordis | 5146 | [5146-secret-files-2-puritas-cordis.json](./5146-secret-files-2-puritas-cordis.json) |
@@ -4590,6 +4593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shān Hǎi Cháng Gē | 284607 | [284607-shan-hai-chang-ge.json](./284607-shan-hai-chang-ge.json) |
 | Shan Hai: Mythic Origins | 374845 | [374845-shan-hai-mythic-origins.json](./374845-shan-hai-mythic-origins.json) |
 | Shan's Salty Seamen | 176291 | [176291-shans-salty-seamen.json](./176291-shans-salty-seamen.json) |
+| Shanchuchameru | 233952 | [233952-shanchuchameru.json](./233952-shanchuchameru.json) |
 | Shane Warne's Cricket Test Interactive DVD Game | 352193 | [352193-shane-warnes-cricket-test-interactive-dvd-game.json](./352193-shane-warnes-cricket-test-interactive-dvd-game.json) |
 | Shane's Trains | 400325 | [400325-shanes-trains.json](./400325-shanes-trains.json) |
 | Shanghai | 64739 | [64739-shanghai.json](./64739-shanghai.json) |
@@ -14762,6 +14766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squidview | 381251 | [381251-squidview.json](./381251-squidview.json) |
 | Squidward Tentacles Jigsaw | 320895 | [320895-squidward-tentacles-jigsaw.json](./320895-squidward-tentacles-jigsaw.json) |
 | Squidward Tractor | 320896 | [320896-squidward-tractor.json](./320896-squidward-tractor.json) |
+| Squiggle Drop | 234099 | [234099-squiggle-drop.json](./234099-squiggle-drop.json) |
 | Squigley | 291724 | [291724-squigley.json](./291724-squigley.json) |
 | Squiigee | 260304 | [260304-squiigee.json](./260304-squiigee.json) |
 | Squillamorph | 126652 | [126652-squillamorph.json](./126652-squillamorph.json) |
@@ -21230,6 +21235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supercharged Robot Vulkaiser | 20019 | [20019-supercharged-robot-vulkaiser.json](./20019-supercharged-robot-vulkaiser.json) |
 | Supercharged World Cup | 102853 | [102853-supercharged-world-cup.json](./102853-supercharged-world-cup.json) |
 | Supercharged! | 69241 | [69241-supercharged.json](./69241-supercharged.json) |
+| SuperCold | 233945 | [233945-supercold.json](./233945-supercold.json) |
 | SuperCollapse! II | 23804 | [23804-supercollapse-ii.json](./23804-supercollapse-ii.json) |
 | Supercooked! | 251711 | [251711-supercooked.json](./251711-supercooked.json) |
 | SuperCowBoy | 339479 | [339479-supercowboy.json](./339479-supercowboy.json) |
