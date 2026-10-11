@@ -2825,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Park 2: Horror Clown | 251232 | [251232-death-park-2-horror-clown.json](./251232-death-park-2-horror-clown.json) |
 | Death Penalty | 401555 | [401555-death-penalty.json](./401555-death-penalty.json) |
 | Death Penalty Hero | 285008 | [285008-death-penalty-hero.json](./285008-death-penalty-hero.json) |
+| Death Pipe | 227725 | [227725-death-pipe.json](./227725-death-pipe.json) |
 | Death Pirate | 35521 | [35521-death-pirate.json](./35521-death-pirate.json) |
 | Death Pit | 13578 | [13578-death-pit.json](./13578-death-pit.json) |
 | Death Pit Explorer | 339929 | [339929-death-pit-explorer.json](./339929-death-pit-explorer.json) |
@@ -3239,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep In The Lab | 335373 | [335373-deep-in-the-lab.json](./335373-deep-in-the-lab.json) |
 | Deep in the Snowy Night | 232926 | [232926-deep-in-the-snowy-night.json](./232926-deep-in-the-snowy-night.json) |
 | Deep In The Snowy Night 2 | 278740 | [278740-deep-in-the-snowy-night-2.json](./278740-deep-in-the-snowy-night-2.json) |
+| Deep in the Void | 228012 | [228012-deep-in-the-void.json](./228012-deep-in-the-void.json) |
 | Deep in the Woods | 285014 | [285014-deep-in-the-woods.json](./285014-deep-in-the-woods.json) |
 | Deep Inside | 179662 | [179662-deep-inside.json](./179662-deep-inside.json) |
 | Deep Inside | 309535 | [309535-deep-inside.json](./309535-deep-inside.json) |
@@ -10511,6 +10513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Investigations | 127866 | [127866-drone-investigations.json](./127866-drone-investigations.json) |
 | Drone Lander | 23859 | [23859-drone-lander.json](./23859-drone-lander.json) |
 | Drone Perspective | 285941 | [285941-drone-perspective.json](./285941-drone-perspective.json) |
+| Drone Race Simulator | 228018 | [228018-drone-race-simulator.json](./228018-drone-race-simulator.json) |
 | Drone Race Simulator Pilot Flight School Airplane Games Jet 2023 | 227515 | [227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json](./227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json) |
 | Drone Racer | 127200 | [127200-drone-racer.json](./127200-drone-racer.json) |
 | Drone Racer: Fly Stunt Simulator | 287663 | [287663-drone-racer-fly-stunt-simulator.json](./287663-drone-racer-fly-stunt-simulator.json) |
