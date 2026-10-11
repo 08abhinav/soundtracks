@@ -2762,6 +2762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Front | 277514 | [277514-death-front.json](./277514-death-front.json) |
 | Death Game | 206153 | [206153-death-game.json](./206153-death-game.json) |
 | Death Game Hotel | 251554 | [251554-death-game-hotel.json](./251554-death-game-hotel.json) |
+| Death Game Royale | 231418 | [231418-death-game-royale.json](./231418-death-game-royale.json) |
 | Death Gasp | 120732 | [120732-death-gasp.json](./120732-death-gasp.json) |
 | Death Gaze | 184962 | [184962-death-gaze.json](./184962-death-gaze.json) |
 | Death Goat | 19873 | [19873-death-goat.json](./19873-death-goat.json) |
@@ -8365,6 +8366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon Pocket Drill Moji Quiz | 310524 | [310524-doraemon-pocket-drill-moji-quiz.json](./310524-doraemon-pocket-drill-moji-quiz.json) |
 | Doraemon Step-Up PC | 314372 | [314372-doraemon-step-up-pc.json](./314372-doraemon-step-up-pc.json) |
 | Doraemon Story of Seasons: Friends of the Great Kingdom | 206815 | [206815-doraemon-story-of-seasons-friends-of-the-great-kingdom.json](./206815-doraemon-story-of-seasons-friends-of-the-great-kingdom.json) |
+| Doraemon Story of Seasons: Friends of the Great Kingdom - The Life of Insects | 231280 | [231280-doraemon-story-of-seasons-friends-of-the-great-kingdom-the-life-of-insects.json](./231280-doraemon-story-of-seasons-friends-of-the-great-kingdom-the-life-of-insects.json) |
 | Doraemon Story of Seasons: Friends of the Great Kingdom - Together with Animals | 241321 | [241321-doraemon-story-of-seasons-friends-of-the-great-kingdom-together-with-animals.json](./241321-doraemon-story-of-seasons-friends-of-the-great-kingdom-together-with-animals.json) |
 | Doraemon Tanoshii Enseikatsu Youchien Hoikuen | 313284 | [313284-doraemon-tanoshii-enseikatsu-youchien-hoikuen.json](./313284-doraemon-tanoshii-enseikatsu-youchien-hoikuen.json) |
 | Doraemon Waku-waku Sekai Isshuu Game: Asonde Oboeru Chizu Kokki | 327575 | [327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json](./327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json) |
@@ -9673,8 +9675,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw and Color: Kawaii - Complete Edition | 242047 | [242047-draw-and-color-kawaii-complete-edition.json](./242047-draw-and-color-kawaii-complete-edition.json) |
 | Draw and Color: Kawaii - Deluxe Edition | 237851 | [237851-draw-and-color-kawaii-deluxe-edition.json](./237851-draw-and-color-kawaii-deluxe-edition.json) |
 | Draw and Color: Kawaii - Director's Cut | 250361 | [250361-draw-and-color-kawaii-directors-cut.json](./250361-draw-and-color-kawaii-directors-cut.json) |
+| Draw and Color: Kawaii - Extended Edition | 231281 | [231281-draw-and-color-kawaii-extended-edition.json](./231281-draw-and-color-kawaii-extended-edition.json) |
 | Draw and Color: Kawaii - Magnificent Edition | 268554 | [268554-draw-and-color-kawaii-magnificent-edition.json](./268554-draw-and-color-kawaii-magnificent-edition.json) |
 | Draw and Color: Kawaii - Platinum Edition | 247589 | [247589-draw-and-color-kawaii-platinum-edition.json](./247589-draw-and-color-kawaii-platinum-edition.json) |
+| Draw and Color: Kawaii - Special Edition | 231285 | [231285-draw-and-color-kawaii-special-edition.json](./231285-draw-and-color-kawaii-special-edition.json) |
 | Draw and Color: Kawaii - Superb Edition | 270293 | [270293-draw-and-color-kawaii-superb-edition.json](./270293-draw-and-color-kawaii-superb-edition.json) |
 | Draw and Color: Kawaii - Ultra Deluxe | 273333 | [273333-draw-and-color-kawaii-ultra-deluxe.json](./273333-draw-and-color-kawaii-ultra-deluxe.json) |
 | Draw and Go! | 276129 | [276129-draw-and-go.json](./276129-draw-and-go.json) |
@@ -9723,6 +9727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawing Carnival: Horror Edition | 298570 | [298570-drawing-carnival-horror-edition.json](./298570-drawing-carnival-horror-edition.json) |
 | Drawing Carnival: Horror Style | 276961 | [276961-drawing-carnival-horror-style.json](./276961-drawing-carnival-horror-style.json) |
 | Drawing Evolution | 181314 | [181314-drawing-evolution.json](./181314-drawing-evolution.json) |
+| Drawing From Memory | 231412 | [231412-drawing-from-memory.json](./231412-drawing-from-memory.json) |
 | Drawing Rush | 233480 | [233480-drawing-rush.json](./233480-drawing-rush.json) |
 | Drawing with Nat: Dream Diary | 275922 | [275922-drawing-with-nat-dream-diary.json](./275922-drawing-with-nat-dream-diary.json) |
 | Drawize | 131579 | [131579-drawize.json](./131579-drawize.json) |
