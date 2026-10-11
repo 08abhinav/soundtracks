@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T20:11:03.436Z",
-  "total_soundtracks": 1477,
+  "generated_at": "2026-10-11T21:35:14.994Z",
+  "total_soundtracks": 1478,
   "games": [
     {
       "igdb_id": 7522,
@@ -2230,6 +2230,20 @@
           "album_name": "Borderlands: The Pre-Sequel - Claptastic Voyage (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4w6dJISMPFbanSqo3wafmL",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 3087,
+      "game_name": "Broken Age",
+      "game_url": "https://ostdb.net/games/broken-age",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d0e160c76a6193a288cf71cb",
+      "albums": [
+        {
+          "album_name": "Broken Age (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3mJ4hyPdq3BDhg6ra4G766",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
