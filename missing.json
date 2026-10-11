@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T19:57:28.693Z",
-  "total_missing": 198709,
+  "generated_at": "2026-10-11T20:12:21.935Z",
+  "total_missing": 198714,
   "games": [
     {
       "igdb_id": 191680,
@@ -154958,6 +154958,11 @@
       "file": "missing/C/176350-cleaning-house.json"
     },
     {
+      "igdb_id": 234655,
+      "game_name": "Cleaning Queens",
+      "file": "missing/C/234655-cleaning-queens.json"
+    },
+    {
       "igdb_id": 293367,
       "game_name": "Cleaning Queens 2: Sparkling Palace",
       "file": "missing/C/293367-cleaning-queens-2-sparkling-palace.json"
@@ -174311,11 +174316,6 @@
       "igdb_id": 339944,
       "game_name": "Crash Bandicoot: The Secret Place",
       "file": "missing/C/339944-crash-bandicoot-the-secret-place.json"
-    },
-    {
-      "igdb_id": 1188,
-      "game_name": "Crash Bandicoot: The Wrath of Cortex",
-      "file": "missing/C/1188-crash-bandicoot-the-wrath-of-cortex.json"
     },
     {
       "igdb_id": 314657,
@@ -229216,6 +229216,11 @@
       "igdb_id": 258605,
       "game_name": "Doodle Taxi",
       "file": "missing/D/258605-doodle-taxi.json"
+    },
+    {
+      "igdb_id": 234644,
+      "game_name": "Doodle TD",
+      "file": "missing/D/234644-doodle-td.json"
     },
     {
       "igdb_id": 295800,
@@ -324596,6 +324601,11 @@
       "igdb_id": 88636,
       "game_name": "Gangster City Cruise - Mobster Crime Shooter",
       "file": "missing/G/88636-gangster-city-cruise-mobster-crime-shooter.json"
+    },
+    {
+      "igdb_id": 234645,
+      "game_name": "Gangster City: Mafia Car Driving",
+      "file": "missing/G/234645-gangster-city-mafia-car-driving.json"
     },
     {
       "igdb_id": 255236,
@@ -493773,6 +493783,11 @@
       "file": "missing/M/235484-mariam-game.json"
     },
     {
+      "igdb_id": 234649,
+      "game_name": "Maribato!",
+      "file": "missing/M/234649-maribato.json"
+    },
+    {
       "igdb_id": 250047,
       "game_name": "Maridows 64",
       "file": "missing/M/250047-maridows-64.json"
@@ -531023,6 +531038,11 @@
       "file": "missing/M/228550-monopoly.json"
     },
     {
+      "igdb_id": 234647,
+      "game_name": "Monopoly",
+      "file": "missing/M/234647-monopoly.json"
+    },
+    {
       "igdb_id": 23767,
       "game_name": "Monopoly",
       "file": "missing/M/23767-monopoly.json"
@@ -557781,11 +557801,6 @@
       "igdb_id": 25635,
       "game_name": "Need for Speed: Edge",
       "file": "missing/N/25635-need-for-speed-edge.json"
-    },
-    {
-      "igdb_id": 119161,
-      "game_name": "Need for Speed: Heat",
-      "file": "missing/N/119161-need-for-speed-heat.json"
     },
     {
       "igdb_id": 140381,
@@ -709118,6 +709133,11 @@
       "file": "missing/S/267423-school-fantasy.json"
     },
     {
+      "igdb_id": 234650,
+      "game_name": "School Flight Simulator",
+      "file": "missing/S/234650-school-flight-simulator.json"
+    },
+    {
       "igdb_id": 41827,
       "game_name": "School Girl/Zombie Hunter",
       "file": "missing/S/41827-school-girl-zombie-hunter.json"
@@ -710996,6 +711016,11 @@
       "igdb_id": 12338,
       "game_name": "Scrapyard Dog",
       "file": "missing/S/12338-scrapyard-dog.json"
+    },
+    {
+      "igdb_id": 234652,
+      "game_name": "Scrapyard Dog",
+      "file": "missing/S/234652-scrapyard-dog.json"
     },
     {
       "igdb_id": 115010,
@@ -792718,6 +792743,11 @@
       "file": "missing/S/87305-sudoku-uno.json"
     },
     {
+      "igdb_id": 234646,
+      "game_name": "Sudoku Vacation 2",
+      "file": "missing/S/234646-sudoku-vacation-2.json"
+    },
+    {
       "igdb_id": 90885,
       "game_name": "Sudoku XL",
       "file": "missing/S/90885-sudoku-xl.json"
@@ -822768,6 +822798,11 @@
       "file": "missing/T/212156-targetpop.json"
     },
     {
+      "igdb_id": 234656,
+      "game_name": "Targets",
+      "file": "missing/T/234656-targets.json"
+    },
+    {
       "igdb_id": 10849,
       "game_name": "Targhan",
       "file": "missing/T/10849-targhan.json"
@@ -825918,11 +825953,6 @@
       "file": "missing/T/1237-tekken-3d-prime-edition.json"
     },
     {
-      "igdb_id": 1245,
-      "game_name": "Tekken 4",
-      "file": "missing/T/1245-tekken-4.json"
-    },
-    {
       "igdb_id": 393526,
       "game_name": "Tekken 5",
       "file": "missing/T/393526-tekken-5.json"
@@ -825931,11 +825961,6 @@
       "igdb_id": 1236,
       "game_name": "Tekken 6",
       "file": "missing/T/1236-tekken-6.json"
-    },
-    {
-      "igdb_id": 1247,
-      "game_name": "Tekken 6",
-      "file": "missing/T/1247-tekken-6.json"
     },
     {
       "igdb_id": 195868,
@@ -839891,11 +839916,6 @@
       "igdb_id": 257076,
       "game_name": "The Dark Pictures Anthology: Intercession",
       "file": "missing/T/257076-the-dark-pictures-anthology-intercession.json"
-    },
-    {
-      "igdb_id": 122120,
-      "game_name": "The Dark Pictures Anthology: Little Hope",
-      "file": "missing/T/122120-the-dark-pictures-anthology-little-hope.json"
     },
     {
       "igdb_id": 169246,
@@ -913901,6 +913921,11 @@
       "igdb_id": 388238,
       "game_name": "True Colors",
       "file": "missing/T/388238-true-colors.json"
+    },
+    {
+      "igdb_id": 234651,
+      "game_name": "True Colours",
+      "file": "missing/T/234651-true-colours.json"
     },
     {
       "igdb_id": 4215,
