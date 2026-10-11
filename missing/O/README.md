@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obstacles Race | 288356 | [288356-obstacles-race.json](./288356-obstacles-race.json) |
 | Obsurity | 121322 | [121322-obsurity.json](./121322-obsurity.json) |
 | Obversion | 120388 | [120388-obversion.json](./120388-obversion.json) |
+| Ocarina of Time + Majora's Mask Crossover Randomizer | 231548 | [231548-ocarina-of-time-majoras-mask-crossover-randomizer.json](./231548-ocarina-of-time-majoras-mask-crossover-randomizer.json) |
 | Ocarina of Time Redux | 172478 | [172478-ocarina-of-time-redux.json](./172478-ocarina-of-time-redux.json) |
 | Ocarina of Time: Chaos Edition | 294568 | [294568-ocarina-of-time-chaos-edition.json](./294568-ocarina-of-time-chaos-edition.json) |
 | Ocarina of Time: Master Quest Redux | 172480 | [172480-ocarina-of-time-master-quest-redux.json](./172480-ocarina-of-time-master-quest-redux.json) |
@@ -2707,6 +2708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orna | 105733 | [105733-orna.json](./105733-orna.json) |
 | Ornament Express | 234214 | [234214-ornament-express.json](./234214-ornament-express.json) |
 | Ornament Tower | 404393 | [404393-ornament-tower.json](./404393-ornament-tower.json) |
+| Ornamental | 230739 | [230739-ornamental.json](./230739-ornamental.json) |
 | Ornélia | 403776 | [403776-ornelia.json](./403776-ornelia.json) |
 | Oroboro | 311203 | [311203-oroboro.json](./311203-oroboro.json) |
 | Ororo | 404983 | [404983-ororo.json](./404983-ororo.json) |
