@@ -3662,6 +3662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwatch 2: Season 16 - Stadium | 341007 | [341007-overwatch-2-season-16-stadium.json](./341007-overwatch-2-season-16-stadium.json) |
 | Overwatch 2: Season 17 - Powered Up! | 350615 | [350615-overwatch-2-season-17-powered-up.json](./350615-overwatch-2-season-17-powered-up.json) |
 | Overwatch 2: Season 18 - Stadium Quickplay | 362281 | [362281-overwatch-2-season-18-stadium-quickplay.json](./362281-overwatch-2-season-18-stadium-quickplay.json) |
+| Overwatch 2: Season 2 - Greek Mythology | 228002 | [228002-overwatch-2-season-2-greek-mythology.json](./228002-overwatch-2-season-2-greek-mythology.json) |
 | Overwatch 2: Season 20 - Vendetta | 380108 | [380108-overwatch-2-season-20-vendetta.json](./380108-overwatch-2-season-20-vendetta.json) |
 | Overwatch 2: Season 4 - Space Opera | 243933 | [243933-overwatch-2-season-4-space-opera.json](./243933-overwatch-2-season-4-space-opera.json) |
 | Overwatch 2: Season 6 - Invasion | 252842 | [252842-overwatch-2-season-6-invasion.json](./252842-overwatch-2-season-6-invasion.json) |
@@ -3744,6 +3745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oyako de Asobo: Miffy no Omocha-bako | 268398 | [268398-oyako-de-asobo-miffy-no-omocha-bako.json](./268398-oyako-de-asobo-miffy-no-omocha-bako.json) |
 | Oyako de Manabu SDGs | 256269 | [256269-oyako-de-manabu-sdgs.json](./256269-oyako-de-manabu-sdgs.json) |
 | Oyatsu Quiz: Mogu-mogu Q - The Quiz Game | 228632 | [228632-oyatsu-quiz-mogu-mogu-q-the-quiz-game.json](./228632-oyatsu-quiz-mogu-mogu-q-the-quiz-game.json) |
+| Oyatu | 227737 | [227737-oyatu.json](./227737-oyatu.json) |
 | Oylinder | 223393 | [223393-oylinder.json](./223393-oylinder.json) |
 | Oystron | 40734 | [40734-oystron.json](./40734-oystron.json) |
 | Oz | 376127 | [376127-oz.json](./376127-oz.json) |
