@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackass: The Game DS | 79808 | [79808-jackass-the-game-ds.json](./79808-jackass-the-game-ds.json) |
 | Jacked | 124685 | [124685-jacked.json](./124685-jacked.json) |
 | Jackhammer Tower | 96919 | [96919-jackhammer-tower.json](./96919-jackhammer-tower.json) |
+| Jackie | 231416 | [231416-jackie.json](./231416-jackie.json) |
 | Jackie Chan in Fists of Fire | 39606 | [39606-jackie-chan-in-fists-of-fire.json](./39606-jackie-chan-in-fists-of-fire.json) |
 | Jackie Chan: The Kung-Fu Master | 39607 | [39607-jackie-chan-the-kung-fu-master.json](./39607-jackie-chan-the-kung-fu-master.json) |
 | Jackie Chan's Action Kung Fu | 12522 | [12522-jackie-chans-action-kung-fu.json](./12522-jackie-chans-action-kung-fu.json) |
@@ -1074,11 +1075,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Masterpieces: Beautiful Castles in the World | 238220 | [238220-jigsaw-masterpieces-beautiful-castles-in-the-world.json](./238220-jigsaw-masterpieces-beautiful-castles-in-the-world.json) |
 | Jigsaw Masterpieces: Beautiful Sceneries in Japan | 238221 | [238221-jigsaw-masterpieces-beautiful-sceneries-in-japan.json](./238221-jigsaw-masterpieces-beautiful-sceneries-in-japan.json) |
 | Jigsaw Masterpieces: Beautiful Towns Around the World | 238223 | [238223-jigsaw-masterpieces-beautiful-towns-around-the-world.json](./238223-jigsaw-masterpieces-beautiful-towns-around-the-world.json) |
+| Jigsaw Masterpieces: Iceland - Most Beautiful Places in the World | 231271 | [231271-jigsaw-masterpieces-iceland-most-beautiful-places-in-the-world.json](./231271-jigsaw-masterpieces-iceland-most-beautiful-places-in-the-world.json) |
 | Jigsaw Masterpieces: Japanese Summer Scene | 237871 | [237871-jigsaw-masterpieces-japanese-summer-scene.json](./237871-jigsaw-masterpieces-japanese-summer-scene.json) |
 | Jigsaw Masterpieces: Juicy Fruits | 238230 | [238230-jigsaw-masterpieces-juicy-fruits.json](./238230-jigsaw-masterpieces-juicy-fruits.json) |
+| Jigsaw Masterpieces: Kyoto - Most Beautiful Places in Japan | 231262 | [231262-jigsaw-masterpieces-kyoto-most-beautiful-places-in-japan.json](./231262-jigsaw-masterpieces-kyoto-most-beautiful-places-in-japan.json) |
 | Jigsaw Masterpieces: Landscapes with Flags of the World - Asia vol.1 | 201024 | [201024-jigsaw-masterpieces-landscapes-with-flags-of-the-world-asia-vol-1.json](./201024-jigsaw-masterpieces-landscapes-with-flags-of-the-world-asia-vol-1.json) |
 | Jigsaw Masterpieces: Masterpieces of World - Girls in the Paintings | 238020 | [238020-jigsaw-masterpieces-masterpieces-of-world-girls-in-the-paintings.json](./238020-jigsaw-masterpieces-masterpieces-of-world-girls-in-the-paintings.json) |
 | Jigsaw Masterpieces: Masterpieces of World - Realism | 238019 | [238019-jigsaw-masterpieces-masterpieces-of-world-realism.json](./238019-jigsaw-masterpieces-masterpieces-of-world-realism.json) |
+| Jigsaw Masterpieces: Masterpieces of World - Ukiyo-e, Hokusai's Thirty-Six Views of Mt.Fuji Vol.1 | 231260 | [231260-jigsaw-masterpieces-masterpieces-of-world-ukiyo-e-hokusais-thirty-six-views-of-mt-fuji-vol-1.json](./231260-jigsaw-masterpieces-masterpieces-of-world-ukiyo-e-hokusais-thirty-six-views-of-mt-fuji-vol-1.json) |
 | Jigsaw Masterpieces: Okinawa - Paradise in Japan | 238231 | [238231-jigsaw-masterpieces-okinawa-paradise-in-japan.json](./238231-jigsaw-masterpieces-okinawa-paradise-in-japan.json) |
 | Jigsaw Masterpieces: Scenes with Horses | 201023 | [201023-jigsaw-masterpieces-scenes-with-horses.json](./201023-jigsaw-masterpieces-scenes-with-horses.json) |
 | Jigsaw Masterpieces: Shin Bakumatsu Sinsengumi | 238026 | [238026-jigsaw-masterpieces-shin-bakumatsu-sinsengumi.json](./238026-jigsaw-masterpieces-shin-bakumatsu-sinsengumi.json) |
@@ -2521,6 +2525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance 2 | 241440 | [241440-just-dance-2.json](./241440-just-dance-2.json) |
 | Just Dance 2 | 2664 | [2664-just-dance-2.json](./2664-just-dance-2.json) |
 | Just Dance 2: Extra Songs | 268119 | [268119-just-dance-2-extra-songs.json](./268119-just-dance-2-extra-songs.json) |
+| Just Dance 2014 Basic Pack | 231835 | [231835-just-dance-2014-basic-pack.json](./231835-just-dance-2014-basic-pack.json) |
 | Just Dance 2015 | 15559 | [15559-just-dance-2015.json](./15559-just-dance-2015.json) |
 | Just Dance 2016: Gold Edition | 83795 | [83795-just-dance-2016-gold-edition.json](./83795-just-dance-2016-gold-edition.json) |
 | Just Dance 2018 | 37067 | [37067-just-dance-2018.json](./37067-just-dance-2018.json) |
