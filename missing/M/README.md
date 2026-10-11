@@ -3438,6 +3438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masterpack for Doom II | 300701 | [300701-masterpack-for-doom-ii.json](./300701-masterpack-for-doom-ii.json) |
 | Masterpiece | 351033 | [351033-masterpiece.json](./351033-masterpiece.json) |
 | Masterpiece Mansion | 209553 | [209553-masterpiece-mansion.json](./209553-masterpiece-mansion.json) |
+| Masterpieced | 231543 | [231543-masterpieced.json](./231543-masterpieced.json) |
 | MasterQ | 207536 | [207536-masterq.json](./207536-masterq.json) |
 | MasterQuest Fantasy | 378977 | [378977-masterquest-fantasy.json](./378977-masterquest-fantasy.json) |
 | Masters & Heroes | 225586 | [225586-masters-and-heroes.json](./225586-masters-and-heroes.json) |
@@ -5293,6 +5294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meikyu Wakusei des Paraiso | 182391 | [182391-meikyu-wakusei-des-paraiso.json](./182391-meikyu-wakusei-des-paraiso.json) |
 | Meikyuu Cross Blood: Infinity - Ultimate | 248796 | [248796-meikyuu-cross-blood-infinity-ultimate.json](./248796-meikyuu-cross-blood-infinity-ultimate.json) |
 | Meikyuu Gou Mayoroba | 321059 | [321059-meikyuu-gou-mayoroba.json](./321059-meikyuu-gou-mayoroba.json) |
+| Meikyuu Hunter G | 231407 | [231407-meikyuu-hunter-g.json](./231407-meikyuu-hunter-g.json) |
 | Meikyuu Jiin Dababa | 41290 | [41290-meikyuu-jiin-dababa.json](./41290-meikyuu-jiin-dababa.json) |
 | Meikyuu Machi no Grace | 212893 | [212893-meikyuu-machi-no-grace.json](./212893-meikyuu-machi-no-grace.json) |
 | Meikyuu no Dollpolis | 268926 | [268926-meikyuu-no-dollpolis.json](./268926-meikyuu-no-dollpolis.json) |
@@ -5933,6 +5935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Villa | 227958 | [227958-merge-villa.json](./227958-merge-villa.json) |
 | Merge War: Super Legion Master | 262375 | [262375-merge-war-super-legion-master.json](./262375-merge-war-super-legion-master.json) |
 | Merge Wood | 220181 | [220181-merge-wood.json](./220181-merge-wood.json) |
+| Merge Your Room: Extended Edition | 231259 | [231259-merge-your-room-extended-edition.json](./231259-merge-your-room-extended-edition.json) |
 | Merge Zoo | 224105 | [224105-merge-zoo.json](./224105-merge-zoo.json) |
 | Merger 3D | 31338 | [31338-merger-3d.json](./31338-merger-3d.json) |
 | Mergery | 358354 | [358354-mergery.json](./358354-mergery.json) |
@@ -6079,6 +6082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Assault | 37375 | [37375-metal-assault.json](./37375-metal-assault.json) |
 | Metal Assault | 9040 | [9040-metal-assault.json](./9040-metal-assault.json) |
 | Metal Black: Alternative | 70648 | [70648-metal-black-alternative.json](./70648-metal-black-alternative.json) |
+| Metal Black: S-Tribute | 231408 | [231408-metal-black-s-tribute.json](./231408-metal-black-s-tribute.json) |
 | Metal Brigade Tactics Versus | 256254 | [256254-metal-brigade-tactics-versus.json](./256254-metal-brigade-tactics-versus.json) |
 | Metal Bringer | 265327 | [265327-metal-bringer.json](./265327-metal-bringer.json) |
 | Metal Bunny | 309894 | [309894-metal-bunny.json](./309894-metal-bunny.json) |
@@ -7070,6 +7074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Renegade | 158554 | [158554-midnight-renegade.json](./158554-midnight-renegade.json) |
 | Midnight Report | 207371 | [207371-midnight-report.json](./207371-midnight-report.json) |
 | Midnight Road Warriors | 209513 | [209513-midnight-road-warriors.json](./209513-midnight-road-warriors.json) |
+| Midnight Runner: Blade Galaxy Beat Puzzle Legacy 3D Games Ultimate Edition | 231258 | [231258-midnight-runner-blade-galaxy-beat-puzzle-legacy-3d-games-ultimate-edition.json](./231258-midnight-runner-blade-galaxy-beat-puzzle-legacy-3d-games-ultimate-edition.json) |
 | Midnight Scenes Ep.2: The Goodbye Note - Special Edition | 176481 | [176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json](./176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json) |
 | Midnight Scenes: A Safe Place | 257261 | [257261-midnight-scenes-a-safe-place.json](./257261-midnight-scenes-a-safe-place.json) |
 | Midnight Scenes: The Highway | 75153 | [75153-midnight-scenes-the-highway.json](./75153-midnight-scenes-the-highway.json) |
@@ -9324,6 +9329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mojib-Ribbon | 25097 | [25097-mojib-ribbon.json](./25097-mojib-ribbon.json) |
 | Mójiè Qíbīng | 268440 | [268440-mojie-qibing.json](./268440-mojie-qibing.json) |
 | Mojito the Cat: Animals Skins | 298336 | [298336-mojito-the-cat-animals-skins.json](./298336-mojito-the-cat-animals-skins.json) |
+| Mojito the Cat: Christmas Edition | 231256 | [231256-mojito-the-cat-christmas-edition.json](./231256-mojito-the-cat-christmas-edition.json) |
 | Mojito the Cat: Christmas Skins | 309642 | [309642-mojito-the-cat-christmas-skins.json](./309642-mojito-the-cat-christmas-skins.json) |
 | Mojito the Cat: Definitive Edition | 251600 | [251600-mojito-the-cat-definitive-edition.json](./251600-mojito-the-cat-definitive-edition.json) |
 | Mojito the Cat: Deluxe Edition | 226780 | [226780-mojito-the-cat-deluxe-edition.json](./226780-mojito-the-cat-deluxe-edition.json) |
