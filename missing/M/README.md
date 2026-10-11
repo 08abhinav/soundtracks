@@ -5821,6 +5821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merchant Colony | 38835 | [38835-merchant-colony.json](./38835-merchant-colony.json) |
 | Merchant Empire | 176270 | [176270-merchant-empire.json](./176270-merchant-empire.json) |
 | Merchant in Dungeon | 240788 | [240788-merchant-in-dungeon.json](./240788-merchant-in-dungeon.json) |
+| Merchant of the Six Kingdoms | 236180 | [236180-merchant-of-the-six-kingdoms.json](./236180-merchant-of-the-six-kingdoms.json) |
 | Merchant Prince | 19705 | [19705-merchant-prince.json](./19705-merchant-prince.json) |
 | Merchant's Game | 164519 | [164519-merchants-game.json](./164519-merchants-game.json) |
 | Merchants & Mercenaries | 30846 | [30846-merchants-and-mercenaries.json](./30846-merchants-and-mercenaries.json) |
@@ -10109,6 +10110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Spa Center Simulator | 353974 | [353974-monster-spa-center-simulator.json](./353974-monster-spa-center-simulator.json) |
 | Monster Squad | 311649 | [311649-monster-squad.json](./311649-monster-squad.json) |
 | Monster Squad Rush | 208968 | [208968-monster-squad-rush.json](./208968-monster-squad-rush.json) |
+| Monster Stalker | 236164 | [236164-monster-stalker.json](./236164-monster-stalker.json) |
 | Monster Storm Apoiion | 108609 | [108609-monster-storm-apoiion.json](./108609-monster-storm-apoiion.json) |
 | Monster Stunts | 197677 | [197677-monster-stunts.json](./197677-monster-stunts.json) |
 | Monster Super League | 80238 | [80238-monster-super-league.json](./80238-monster-super-league.json) |
@@ -10239,6 +10241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsty Corp: The Prequels | 296059 | [296059-monsty-corp-the-prequels.json](./296059-monsty-corp-the-prequels.json) |
 | Monsty Corp: The Sequels | 296058 | [296058-monsty-corp-the-sequels.json](./296058-monsty-corp-the-sequels.json) |
 | Montague's Mount | 10555 | [10555-montagues-mount.json](./10555-montagues-mount.json) |
+| MonTamer | 236197 | [236197-montamer.json](./236197-montamer.json) |
 | Montana | 404424 | [404424-montana.json](./404424-montana.json) |
 | Montana Jones | 246423 | [246423-montana-jones.json](./246423-montana-jones.json) |
 | Montana Solitaire | 89470 | [89470-montana-solitaire.json](./89470-montana-solitaire.json) |
