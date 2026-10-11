@@ -7160,8 +7160,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colin McRae Rally 2005 | 7969 | [7969-colin-mcrae-rally-2005.json](./7969-colin-mcrae-rally-2005.json) |
 | Colin McRae Rally 2005 Plus | 44470 | [44470-colin-mcrae-rally-2005-plus.json](./44470-colin-mcrae-rally-2005-plus.json) |
 | Colin McRae Rally 3 | 7968 | [7968-colin-mcrae-rally-3.json](./7968-colin-mcrae-rally-3.json) |
+| Colin McRae: Dirt | 237838 | [237838-colin-mcrae-dirt.json](./237838-colin-mcrae-dirt.json) |
 | Colin McRae: Dirt | 943 | [943-colin-mcrae-dirt.json](./943-colin-mcrae-dirt.json) |
 | Colin McRae: Dirt 2 | 202101 | [202101-colin-mcrae-dirt-2.json](./202101-colin-mcrae-dirt-2.json) |
+| Colin McRae: Dirt 2 | 237839 | [237839-colin-mcrae-dirt-2.json](./237839-colin-mcrae-dirt-2.json) |
+| Colin McRae: Dirt 2 - Access All Areas Pack | 237840 | [237840-colin-mcrae-dirt-2-access-all-areas-pack.json](./237840-colin-mcrae-dirt-2-access-all-areas-pack.json) |
+| Colin McRae: Dirt 2 - Trust Fund Pack | 237841 | [237841-colin-mcrae-dirt-2-trust-fund-pack.json](./237841-colin-mcrae-dirt-2-trust-fund-pack.json) |
 | Colin the Cleaner | 84232 | [84232-colin-the-cleaner.json](./84232-colin-the-cleaner.json) |
 | Colina: Legacy | 35181 | [35181-colina-legacy.json](./35181-colina-legacy.json) |
 | Coliseum City Bride | 82750 | [82750-coliseum-city-bride.json](./82750-coliseum-city-bride.json) |
@@ -10407,6 +10411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Seahorses | 241348 | [241348-crazy-seahorses.json](./241348-crazy-seahorses.json) |
 | Crazy Shark | 203799 | [203799-crazy-shark.json](./203799-crazy-shark.json) |
 | Crazy Shipping | 324080 | [324080-crazy-shipping.json](./324080-crazy-shipping.json) |
+| Crazy Shoot | 237989 | [237989-crazy-shoot.json](./237989-crazy-shoot.json) |
 | Crazy Shooters 2 | 204475 | [204475-crazy-shooters-2.json](./204475-crazy-shooters-2.json) |
 | Crazy Shopping | 123966 | [123966-crazy-shopping.json](./123966-crazy-shopping.json) |
 | Crazy Shot | 12414 | [12414-crazy-shot.json](./12414-crazy-shot.json) |
