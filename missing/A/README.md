@@ -2025,6 +2025,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure | 12239 | [12239-adventure.json](./12239-adventure.json) |
 | Adventure | 8253 | [8253-adventure.json](./8253-adventure.json) |
 | Adventure 3 | 305193 | [305193-adventure-3.json](./305193-adventure-3.json) |
+| Adventure Academia: The Fractured Continent - Class of Heroes 3 Collaboration: Additional Character Dwarf | 231275 | [231275-adventure-academia-the-fractured-continent-class-of-heroes-3-collaboration-additional-character-dwarf.json](./231275-adventure-academia-the-fractured-continent-class-of-heroes-3-collaboration-additional-character-dwarf.json) |
+| Adventure Academia: The Fractured Continent - Class of Heroes 3 Collaboration: Additional Character Felpurr | 231276 | [231276-adventure-academia-the-fractured-continent-class-of-heroes-3-collaboration-additional-character-felpurr.json](./231276-adventure-academia-the-fractured-continent-class-of-heroes-3-collaboration-additional-character-felpurr.json) |
 | Adventure Academia: The Fractured Continent - New Adventure Volume 2: Danger Mountain March 1- 3 | 220752 | [220752-adventure-academia-the-fractured-continent-new-adventure-volume-2-danger-mountain-march-1-3.json](./220752-adventure-academia-the-fractured-continent-new-adventure-volume-2-danger-mountain-march-1-3.json) |
 | Adventure Academia: The Fractured Continent - Vol.2 Bonus Unit: Kiesel | 220753 | [220753-adventure-academia-the-fractured-continent-vol-2-bonus-unit-kiesel.json](./220753-adventure-academia-the-fractured-continent-vol-2-bonus-unit-kiesel.json) |
 | Adventure Academia: The Fractured Continent - Vol.2 Bonus Unit: Lazuli | 220754 | [220754-adventure-academia-the-fractured-continent-vol-2-bonus-unit-lazuli.json](./220754-adventure-academia-the-fractured-continent-vol-2-bonus-unit-lazuli.json) |
@@ -6533,6 +6535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Report | 348409 | [348409-anomaly-report.json](./348409-anomaly-report.json) |
 | Anomaly Road | 405709 | [405709-anomaly-road.json](./405709-anomaly-road.json) |
 | Anomaly Tunnel | 413595 | [413595-anomaly-tunnel.json](./413595-anomaly-tunnel.json) |
+| Anomaly: Girls Beyond Science | 231417 | [231417-anomaly-girls-beyond-science.json](./231417-anomaly-girls-beyond-science.json) |
 | Anomaly: Warzone Earth | 8758 | [8758-anomaly-warzone-earth.json](./8758-anomaly-warzone-earth.json) |
 | Anomalytics: From the Files of the Arcane Statistics Authority | 293094 | [293094-anomalytics-from-the-files-of-the-arcane-statistics-authority.json](./293094-anomalytics-from-the-files-of-the-arcane-statistics-authority.json) |
 | Anomyeowly | 397103 | [397103-anomyeowly.json](./397103-anomyeowly.json) |
