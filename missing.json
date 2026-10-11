@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T21:36:39.883Z",
-  "total_missing": 198998,
+  "generated_at": "2026-10-11T21:42:14.257Z",
+  "total_missing": 198995,
   "games": [
     {
       "igdb_id": 191680,
@@ -505368,11 +505368,6 @@
       "file": "missing/M/122592-medal-of-honor-above-and-beyond.json"
     },
     {
-      "igdb_id": 1314,
-      "game_name": "Medal of Honor: Airborne",
-      "file": "missing/M/1314-medal-of-honor-airborne.json"
-    },
-    {
       "igdb_id": 264877,
       "game_name": "Medal of Honor: Airborne",
       "file": "missing/M/264877-medal-of-honor-airborne.json"
@@ -537451,11 +537446,6 @@
       "igdb_id": 242252,
       "game_name": "Mortal Kombat 3",
       "file": "missing/M/242252-mortal-kombat-3.json"
-    },
-    {
-      "igdb_id": 1622,
-      "game_name": "Mortal Kombat 4",
-      "file": "missing/M/1622-mortal-kombat-4.json"
     },
     {
       "igdb_id": 200683,
@@ -734671,11 +734661,6 @@
       "igdb_id": 28955,
       "game_name": "SimCity 3000 Unlimited",
       "file": "missing/S/28955-simcity-3000-unlimited.json"
-    },
-    {
-      "igdb_id": 1275,
-      "game_name": "SimCity 4",
-      "file": "missing/S/1275-simcity-4.json"
     },
     {
       "igdb_id": 18494,
