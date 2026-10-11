@@ -5018,6 +5018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Kiss | 130127 | [130127-devils-kiss.json](./130127-devils-kiss.json) |
 | Devil's Mansion | 267318 | [267318-devils-mansion.json](./267318-devils-mansion.json) |
 | Devil's Menu | 372588 | [372588-devils-menu.json](./372588-devils-menu.json) |
+| Devil's Peak Rally | 235124 | [235124-devils-peak-rally.json](./235124-devils-peak-rally.json) |
 | Devil’s Propose | 254609 | [254609-devil-s-propose.json](./254609-devil-s-propose.json) |
 | Devil's Revenge | 69855 | [69855-devils-revenge.json](./69855-devils-revenge.json) |
 | Devil's Roulette | 411110 | [411110-devils-roulette.json](./411110-devils-roulette.json) |
@@ -8946,6 +8947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag Racer: Pro Tuner | 63250 | [63250-drag-racer-pro-tuner.json](./63250-drag-racer-pro-tuner.json) |
 | Drag Racing Car Simulator | 275679 | [275679-drag-racing-car-simulator.json](./275679-drag-racing-car-simulator.json) |
 | Drag Racing Rivals | 147847 | [147847-drag-racing-rivals.json](./147847-drag-racing-rivals.json) |
+| Drag Racing: Bike Edition | 235127 | [235127-drag-racing-bike-edition.json](./235127-drag-racing-bike-edition.json) |
 | Drag Star! | 116322 | [116322-drag-star.json](./116322-drag-star.json) |
 | Drag the Rope | 254434 | [254434-drag-the-rope.json](./254434-drag-the-rope.json) |
 | Drag Them Out Into Space! | 178969 | [178969-drag-them-out-into-space.json](./178969-drag-them-out-into-space.json) |
