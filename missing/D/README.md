@@ -7887,6 +7887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong | 172018 | [172018-donkey-kong.json](./172018-donkey-kong.json) |
 | Donkey Kong | 172019 | [172019-donkey-kong.json](./172019-donkey-kong.json) |
 | Donkey Kong | 172020 | [172020-donkey-kong.json](./172020-donkey-kong.json) |
+| Donkey Kong | 228945 | [228945-donkey-kong.json](./228945-donkey-kong.json) |
 | Donkey Kong | 257637 | [257637-donkey-kong.json](./257637-donkey-kong.json) |
 | Donkey Kong | 270404 | [270404-donkey-kong.json](./270404-donkey-kong.json) |
 | Donkey Kong | 305299 | [305299-donkey-kong.json](./305299-donkey-kong.json) |
@@ -9605,6 +9606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragoon X Omega I: Gold Edition - Amnethen Apocalypse | 269776 | [269776-dragoon-x-omega-i-gold-edition-amnethen-apocalypse.json](./269776-dragoon-x-omega-i-gold-edition-amnethen-apocalypse.json) |
 | Dragoon X Omega II: Easy Mode | 269777 | [269777-dragoon-x-omega-ii-easy-mode.json](./269777-dragoon-x-omega-ii-easy-mode.json) |
 | Dragoon: The Battles of Frederick the Great | 62266 | [62266-dragoon-the-battles-of-frederick-the-great.json](./62266-dragoon-the-battles-of-frederick-the-great.json) |
+| Dragoon's Journey | 229225 | [229225-dragoons-journey.json](./229225-dragoons-journey.json) |
 | Dragot | 251821 | [251821-dragot.json](./251821-dragot.json) |
 | Drags Tavern | 315009 | [315009-drags-tavern.json](./315009-drags-tavern.json) |
 | Dragster | 312255 | [312255-dragster.json](./312255-dragster.json) |
@@ -10899,6 +10901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Souls+ | 131965 | [131965-duck-souls.json](./131965-duck-souls.json) |
 | Duck Tales SNES | 377743 | [377743-duck-tales-snes.json](./377743-duck-tales-snes.json) |
 | Duck Tales ZX: Webby to the Rescue! | 279736 | [279736-duck-tales-zx-webby-to-the-rescue.json](./279736-duck-tales-zx-webby-to-the-rescue.json) |
+| Duck Turnip | 228963 | [228963-duck-turnip.json](./228963-duck-turnip.json) |
 | Duck vs. Evil | 350453 | [350453-duck-vs-evil.json](./350453-duck-vs-evil.json) |
 | Duck Warfare | 96811 | [96811-duck-warfare.json](./96811-duck-warfare.json) |
 | Duck, Jump, Die! | 181344 | [181344-duck-jump-die.json](./181344-duck-jump-die.json) |
@@ -11224,6 +11227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Construction Co | 96196 | [96196-dungeon-construction-co.json](./96196-dungeon-construction-co.json) |
 | Dungeon Core Master | 274770 | [274770-dungeon-core-master.json](./274770-dungeon-core-master.json) |
 | Dungeon Coup | 161350 | [161350-dungeon-coup.json](./161350-dungeon-coup.json) |
+| Dungeon Crawl | 229226 | [229226-dungeon-crawl.json](./229226-dungeon-crawl.json) |
 | Dungeon Crawl 94: What Was Taken | 419947 | [419947-dungeon-crawl-94-what-was-taken.json](./419947-dungeon-crawl-94-what-was-taken.json) |
 | Dungeon Crawl Tower Run | 260633 | [260633-dungeon-crawl-tower-run.json](./260633-dungeon-crawl-tower-run.json) |
 | Dungeon Crawler | 191823 | [191823-dungeon-crawler.json](./191823-dungeon-crawler.json) |
@@ -11871,6 +11875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DweeMixed: Thwee Pack | 187477 | [187477-dweemixed-thwee-pack.json](./187477-dweemixed-thwee-pack.json) |
 | Dweep | 180148 | [180148-dweep.json](./180148-dweep.json) |
 | Dwell | 394155 | [394155-dwell.json](./394155-dwell.json) |
+| Dweller | 229239 | [229239-dweller.json](./229239-dweller.json) |
 | Dwelling | 309365 | [309365-dwelling.json](./309365-dwelling.json) |
 | Dwellink: War of the Nine | 301331 | [301331-dwellink-war-of-the-nine.json](./301331-dwellink-war-of-the-nine.json) |
 | Dwelp | 128547 | [128547-dwelp.json](./128547-dwelp.json) |
