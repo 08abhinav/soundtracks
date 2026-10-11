@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T19:50:13.865Z",
-  "total_soundtracks": 1462,
+  "generated_at": "2026-10-11T19:50:26.332Z",
+  "total_soundtracks": 1463,
   "games": [
     {
       "igdb_id": 7522,
@@ -8066,6 +8066,20 @@
           "album_name": "Kingdoms of Amalur: Reckoning (Original Game Soundtrack)",
           "spotify_url": "https://music.apple.com/us/album/kingdoms-of-amalur-reckoning-original-game-soundtrack/1484888625?uo=4",
           "apple_music_url": null,
+          "album_link_url": "https://album.link/i/1484888625"
+        }
+      ]
+    },
+    {
+      "igdb_id": 1059,
+      "game_name": "Kingdoms of Amalur: Reckoning",
+      "game_url": "https://ostdb.net/games/kingdoms-of-amalur-reckoning",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/5c/cb/56/5ccb5636-2883-2131-f3ef-2cbf5f2c8954/artwork.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Kingdoms of Amalur: Reckoning (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6K7C3iYb8G8UEVcwhAaJ4G",
+          "apple_music_url": "https://music.apple.com/us/album/kingdoms-of-amalur-reckoning-original-game-soundtrack/1484888625",
           "album_link_url": "https://album.link/i/1484888625"
         }
       ]
