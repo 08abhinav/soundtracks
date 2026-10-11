@@ -1142,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi no Pichi Pichi Omisecchi | 77622 | [77622-tamagotchi-no-pichi-pichi-omisecchi.json](./77622-tamagotchi-no-pichi-pichi-omisecchi.json) |
 | Tamagotchi no Pika Pika Daitouryou! | 20652 | [20652-tamagotchi-no-pika-pika-daitouryou.json](./20652-tamagotchi-no-pika-pika-daitouryou.json) |
 | Tamagotchi no Puchi Puchi Omisecchi: Ninko no Omise Atsumemashita | 77580 | [77580-tamagotchi-no-puchi-puchi-omisecchi-ninko-no-omise-atsumemashita.json](./77580-tamagotchi-no-puchi-puchi-omisecchi-ninko-no-omise-atsumemashita.json) |
+| Tamagotchi Osutchi | 229842 | [229842-tamagotchi-osutchi.json](./229842-tamagotchi-osutchi.json) |
 | Tamagotchi Plaza: Nintendo Switch 2 Edition | 338111 | [338111-tamagotchi-plaza-nintendo-switch-2-edition.json](./338111-tamagotchi-plaza-nintendo-switch-2-edition.json) |
 | Tamagotchi Town | 37792 | [37792-tamagotchi-town.json](./37792-tamagotchi-town.json) |
 | Tamagotchi: Party On! | 5211 | [5211-tamagotchi-party-on.json](./5211-tamagotchi-party-on.json) |
@@ -1150,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamako | 366315 | [366315-tamako.json](./366315-tamako.json) |
 | Tamale Loco: Rumble in the Desert | 173076 | [173076-tamale-loco-rumble-in-the-desert.json](./173076-tamale-loco-rumble-in-the-desert.json) |
 | Tamamon | 380687 | [380687-tamamon.json](./380687-tamamon.json) |
+| TamaOtchi | 229850 | [229850-tamaotchi.json](./229850-tamaotchi.json) |
 | Tamara | 339483 | [339483-tamara.json](./339483-tamara.json) |
 | Tamara In The Forsaken Dungeon | 276284 | [276284-tamara-in-the-forsaken-dungeon.json](./276284-tamara-in-the-forsaken-dungeon.json) |
 | Tamarak Trail | 240982 | [240982-tamarak-trail.json](./240982-tamarak-trail.json) |
@@ -4885,6 +4887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crafting Dead | 97133 | [97133-the-crafting-dead.json](./97133-the-crafting-dead.json) |
 | The Crane Rider's Tale | 400355 | [400355-the-crane-riders-tale.json](./400355-the-crane-riders-tale.json) |
 | The Crank Gym | 230742 | [230742-the-crank-gym.json](./230742-the-crank-gym.json) |
+| The Crash: Storm Clouds of the Mind | 229564 | [229564-the-crash-storm-clouds-of-the-mind.json](./229564-the-crash-storm-clouds-of-the-mind.json) |
 | The Crawler | 304159 | [304159-the-crawler.json](./304159-the-crawler.json) |
 | The Crawling Dead | 358799 | [358799-the-crawling-dead.json](./358799-the-crawling-dead.json) |
 | The Crayon Factory | 66962 | [66962-the-crayon-factory.json](./66962-the-crayon-factory.json) |
