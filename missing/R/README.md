@@ -4347,6 +4347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ribbon of Green | 124672 | [124672-ribbon-of-green.json](./124672-ribbon-of-green.json) |
 | Ribbon Racer Next | 115178 | [115178-ribbon-racer-next.json](./115178-ribbon-racer-next.json) |
 | Ribby Rocket | 149599 | [149599-ribby-rocket.json](./149599-ribby-rocket.json) |
+| Riboud and Fairies | 234518 | [234518-riboud-and-fairies.json](./234518-riboud-and-fairies.json) |
 | Rica Mode | 401121 | [401121-rica-mode.json](./401121-rica-mode.json) |
 | Ricave | 322095 | [322095-ricave.json](./322095-ricave.json) |
 | Rice & Rest | 346581 | [346581-rice-and-rest.json](./346581-rice-and-rest.json) |
@@ -6243,6 +6244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Company: Year 1 Pass | 406769 | [406769-rogue-company-year-1-pass.json](./406769-rogue-company-year-1-pass.json) |
 | Rogue Continuum | 23481 | [23481-rogue-continuum.json](./23481-rogue-continuum.json) |
 | Rogue Contracts: Syndicate | 26696 | [26696-rogue-contracts-syndicate.json](./26696-rogue-contracts-syndicate.json) |
+| Rogue Cube Defense | 234523 | [234523-rogue-cube-defense.json](./234523-rogue-cube-defense.json) |
 | Rogue Day | 253610 | [253610-rogue-day.json](./253610-rogue-day.json) |
 | Rogue Defense | 305934 | [305934-rogue-defense.json](./305934-rogue-defense.json) |
 | Rogue Dice | 217027 | [217027-rogue-dice.json](./217027-rogue-dice.json) |
