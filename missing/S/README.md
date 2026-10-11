@@ -546,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura And The Airyvixen | 289539 | [289539-sakura-and-the-airyvixen.json](./289539-sakura-and-the-airyvixen.json) |
 | Sakura Apprentice | 254981 | [254981-sakura-apprentice.json](./254981-sakura-apprentice.json) |
 | Sakura Arms: Radiant Duels | 388956 | [388956-sakura-arms-radiant-duels.json](./388956-sakura-arms-radiant-duels.json) |
+| Sakura Battle | 234537 | [234537-sakura-battle.json](./234537-sakura-battle.json) |
 | Sakura Branch: Blossom Puzzle | 418323 | [418323-sakura-branch-blossom-puzzle.json](./418323-sakura-branch-blossom-puzzle.json) |
 | Sakura Bunny Girls 2 | 355079 | [355079-sakura-bunny-girls-2.json](./355079-sakura-bunny-girls-2.json) |
 | Sakura Clicker | 34950 | [34950-sakura-clicker.json](./34950-sakura-clicker.json) |
@@ -1918,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Dungeons | 102275 | [102275-school-dungeons.json](./102275-school-dungeons.json) |
 | School Exit Class 8 | 360079 | [360079-school-exit-class-8.json](./360079-school-exit-class-8.json) |
 | School Fantasy | 267423 | [267423-school-fantasy.json](./267423-school-fantasy.json) |
+| School Flight Simulator | 234650 | [234650-school-flight-simulator.json](./234650-school-flight-simulator.json) |
 | School Girl/Zombie Hunter | 41827 | [41827-school-girl-zombie-hunter.json](./41827-school-girl-zombie-hunter.json) |
 | School Girls Dance | 296755 | [296755-school-girls-dance.json](./296755-school-girls-dance.json) |
 | School Grounds | 112738 | [112738-school-grounds.json](./112738-school-grounds.json) |
@@ -2294,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scraptail: Down the Drain | 278514 | [278514-scraptail-down-the-drain.json](./278514-scraptail-down-the-drain.json) |
 | Scrapvival | 190150 | [190150-scrapvival.json](./190150-scrapvival.json) |
 | Scrapyard Dog | 12338 | [12338-scrapyard-dog.json](./12338-scrapyard-dog.json) |
+| Scrapyard Dog | 234652 | [234652-scrapyard-dog.json](./234652-scrapyard-dog.json) |
 | Scrapyard Robot Rampage | 115010 | [115010-scrapyard-robot-rampage.json](./115010-scrapyard-robot-rampage.json) |
 | Scrapyard Simulator | 157544 | [157544-scrapyard-simulator.json](./157544-scrapyard-simulator.json) |
 | Scrash | 103395 | [103395-scrash.json](./103395-scrash.json) |
@@ -8455,6 +8458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Soldiers | 358951 | [358951-slide-soldiers.json](./358951-slide-soldiers.json) |
 | Slide Stars | 138045 | [138045-slide-stars.json](./138045-slide-stars.json) |
 | Slide the Shakes | 96893 | [96893-slide-the-shakes.json](./96893-slide-the-shakes.json) |
+| Slide the Signs | 234509 | [234509-slide-the-signs.json](./234509-slide-the-signs.json) |
 | Slide to finish | 111477 | [111477-slide-to-finish.json](./111477-slide-to-finish.json) |
 | Slide to Solve | 329592 | [329592-slide-to-solve.json](./329592-slide-to-solve.json) |
 | Slide Together | 184401 | [184401-slide-together.json](./184401-slide-together.json) |
@@ -12837,6 +12841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceGeon | 129061 | [129061-spacegeon.json](./129061-spacegeon.json) |
 | Spacegirl | 147367 | [147367-spacegirl.json](./147367-spacegirl.json) |
 | Spacegirl 2038 | 159836 | [159836-spacegirl-2038.json](./159836-spacegirl-2038.json) |
+| SpaceGlider: Race For Time | 234498 | [234498-spaceglider-race-for-time.json](./234498-spaceglider-race-for-time.json) |
 | Spacegore | 404967 | [404967-spacegore.json](./404967-spacegore.json) |
 | Spaceguy | 86438 | [86438-spaceguy.json](./86438-spaceguy.json) |
 | Spaceguy 2 | 98334 | [98334-spaceguy-2.json](./98334-spaceguy-2.json) |
@@ -12987,6 +12992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparkle HD | 103894 | [103894-sparkle-hd.json](./103894-sparkle-hd.json) |
 | Sparkle Milla: Eight Genetic Abnormalities and a Blood Ghost | 230371 | [230371-sparkle-milla-eight-genetic-abnormalities-and-a-blood-ghost.json](./230371-sparkle-milla-eight-genetic-abnormalities-and-a-blood-ghost.json) |
 | Sparkle Piglet | 212795 | [212795-sparkle-piglet.json](./212795-sparkle-piglet.json) |
+| Sparkle Piglet Adventure | 234490 | [234490-sparkle-piglet-adventure.json](./234490-sparkle-piglet-adventure.json) |
 | Sparkle Snapshots | 67332 | [67332-sparkle-snapshots.json](./67332-sparkle-snapshots.json) |
 | Sparkle Unleashed | 20953 | [20953-sparkle-unleashed.json](./20953-sparkle-unleashed.json) |
 | Sparkles & Gems | 146538 | [146538-sparkles-and-gems.json](./146538-sparkles-and-gems.json) |
@@ -13606,6 +13612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Fighter | 18530 | [18530-spider-fighter.json](./18530-spider-fighter.json) |
 | Spider Fire | 181117 | [181117-spider-fire.json](./181117-spider-fire.json) |
 | Spider Fox | 254558 | [254558-spider-fox.json](./254558-spider-fox.json) |
+| Spider Hunter | 234527 | [234527-spider-hunter.json](./234527-spider-hunter.json) |
 | Spider Inferno | 285460 | [285460-spider-inferno.json](./285460-spider-inferno.json) |
 | Spider Jack | 65478 | [65478-spider-jack.json](./65478-spider-jack.json) |
 | Spider Jet | 359465 | [359465-spider-jet.json](./359465-spider-jet.json) |
@@ -16113,6 +16120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars Force | 148491 | [148491-stars-force.json](./148491-stars-force.json) |
 | Stars in Shadow | 27089 | [27089-stars-in-shadow.json](./27089-stars-in-shadow.json) |
 | Stars in Shadow: Legacies | 124781 | [124781-stars-in-shadow-legacies.json](./124781-stars-in-shadow-legacies.json) |
+| Stars Link | 234511 | [234511-stars-link.json](./234511-stars-link.json) |
 | Stars of Icarus | 348306 | [348306-stars-of-icarus.json](./348306-stars-of-icarus.json) |
 | Stars of the Beast 2 | 300259 | [300259-stars-of-the-beast-2.json](./300259-stars-of-the-beast-2.json) |
 | Stars of the Screen | 232677 | [232677-stars-of-the-screen.json](./232677-stars-of-the-screen.json) |
@@ -18636,6 +18644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Universe | 121747 | [121747-sudoku-universe.json](./121747-sudoku-universe.json) |
 | Sudoku Universe | 122322 | [122322-sudoku-universe.json](./122322-sudoku-universe.json) |
 | Sudoku Uno | 87305 | [87305-sudoku-uno.json](./87305-sudoku-uno.json) |
+| Sudoku Vacation 2 | 234646 | [234646-sudoku-vacation-2.json](./234646-sudoku-vacation-2.json) |
 | Sudoku XL | 90885 | [90885-sudoku-xl.json](./90885-sudoku-xl.json) |
 | Sudoku XP | 278700 | [278700-sudoku-xp.json](./278700-sudoku-xp.json) |
 | Sudoku-Color | 366325 | [366325-sudoku-color.json](./366325-sudoku-color.json) |
@@ -20670,6 +20679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Rabbit | 246482 | [246482-super-rabbit.json](./246482-super-rabbit.json) |
 | Super Racing | 287563 | [287563-super-racing.json](./287563-super-racing.json) |
 | Super Racing | 46103 | [46103-super-racing.json](./46103-super-racing.json) |
+| Super Rad Ball | 234505 | [234505-super-rad-ball.json](./234505-super-rad-ball.json) |
 | Super Radish Witch | 135618 | [135618-super-radish-witch.json](./135618-super-radish-witch.json) |
 | Super Raft Boat Classic | 144142 | [144142-super-raft-boat-classic.json](./144142-super-raft-boat-classic.json) |
 | Super Ramp Skater | 296006 | [296006-super-ramp-skater.json](./296006-super-ramp-skater.json) |
@@ -22290,6 +22300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweets Drop | 283721 | [283721-sweets-drop.json](./283721-sweets-drop.json) |
 | Sweets Inc | 290531 | [290531-sweets-inc.json](./290531-sweets-inc.json) |
 | Sweets Mania: Candy Sugar Rush Match 3 Games | 256435 | [256435-sweets-mania-candy-sugar-rush-match-3-games.json](./256435-sweets-mania-candy-sugar-rush-match-3-games.json) |
+| Sweets Pusher Friends | 234525 | [234525-sweets-pusher-friends.json](./234525-sweets-pusher-friends.json) |
 | Sweets Swap | 147097 | [147097-sweets-swap.json](./147097-sweets-swap.json) |
 | Sweets Swap Classic | 175821 | [175821-sweets-swap-classic.json](./175821-sweets-swap-classic.json) |
 | Sweets' Devil | 398596 | [398596-sweets-devil.json](./398596-sweets-devil.json) |
