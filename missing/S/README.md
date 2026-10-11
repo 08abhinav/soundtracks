@@ -1810,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Tales: Horror School | 337122 | [337122-scary-tales-horror-school.json](./337122-scary-tales-horror-school.json) |
 | Scary Teacher 3D | 104228 | [104228-scary-teacher-3d.json](./104228-scary-teacher-3d.json) |
 | Scary Together | 350465 | [350465-scary-together.json](./350465-scary-together.json) |
+| Scary Turnaround | 231815 | [231815-scary-turnaround.json](./231815-scary-turnaround.json) |
 | Scary Wife Chapter 2 | 303092 | [303092-scary-wife-chapter-2.json](./303092-scary-wife-chapter-2.json) |
 | Scaryfish III | 71786 | [71786-scaryfish-iii.json](./71786-scaryfish-iii.json) |
 | Scatch 2: The Painter Cat | 278983 | [278983-scatch-2-the-painter-cat.json](./278983-scatch-2-the-painter-cat.json) |
@@ -6513,6 +6514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal Garden | 400311 | [400311-signal-garden.json](./400311-signal-garden.json) |
 | Signal Hill | 390655 | [390655-signal-hill.json](./390655-signal-hill.json) |
 | Signal Lost | 327358 | [327358-signal-lost.json](./327358-signal-lost.json) |
+| Signal Maze | 231821 | [231821-signal-maze.json](./231821-signal-maze.json) |
 | Signal Ops | 16734 | [16734-signal-ops.json](./16734-signal-ops.json) |
 | Signal Zone | 381195 | [381195-signal-zone.json](./381195-signal-zone.json) |
 | Signal: Uncharted Lands | 333239 | [333239-signal-uncharted-lands.json](./333239-signal-uncharted-lands.json) |
@@ -9015,6 +9017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Runner! | 223912 | [223912-smash-runner.json](./223912-smash-runner.json) |
 | Smash Rush | 127183 | [127183-smash-rush.json](./127183-smash-rush.json) |
 | Smash simulator | 320833 | [320833-smash-simulator.json](./320833-smash-simulator.json) |
+| Smash Splat Deluxe Set | 231788 | [231788-smash-splat-deluxe-set.json](./231788-smash-splat-deluxe-set.json) |
 | Smash Table Tennis | 84880 | [84880-smash-table-tennis.json](./84880-smash-table-tennis.json) |
 | Smash Team | 61735 | [61735-smash-team.json](./61735-smash-team.json) |
 | Smash Therapy | 220598 | [220598-smash-therapy.json](./220598-smash-therapy.json) |
@@ -10088,6 +10091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Softball: Breakthrough Gaming Arcade - 4 Player Cooperation Edition | 213633 | [213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json](./213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json) |
 | Softly Placed | 379978 | [379978-softly-placed.json](./379978-softly-placed.json) |
 | Softnauts the Game | 23908 | [23908-softnauts-the-game.json](./23908-softnauts-the-game.json) |
+| Softstar Games Bundle | 231783 | [231783-softstar-games-bundle.json](./231783-softstar-games-bundle.json) |
 | Software House Simulator | 149728 | [149728-software-house-simulator.json](./149728-software-house-simulator.json) |
 | Software Inc. | 35463 | [35463-software-inc.json](./35463-software-inc.json) |
 | Software Manager | 78597 | [78597-software-manager.json](./78597-software-manager.json) |
@@ -12275,6 +12279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Escape | 322744 | [322744-space-escape.json](./322744-space-escape.json) |
 | Space Escape | 89978 | [89978-space-escape.json](./89978-space-escape.json) |
 | Space Escape Obstacles | 202960 | [202960-space-escape-obstacles.json](./202960-space-escape-obstacles.json) |
+| Space Escaper | 231796 | [231796-space-escaper.json](./231796-space-escaper.json) |
 | Space Evader | 38879 | [38879-space-evader.json](./38879-space-evader.json) |
 | Space Expand | 115132 | [115132-space-expand.json](./115132-space-expand.json) |
 | Space Expedition | 146100 | [146100-space-expedition.json](./146100-space-expedition.json) |
@@ -15542,6 +15547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Dark Forces Remaster | 262973 | [262973-star-wars-dark-forces-remaster.json](./262973-star-wars-dark-forces-remaster.json) |
 | Star Wars: Deathtroopers | 296231 | [296231-star-wars-deathtroopers.json](./296231-star-wars-deathtroopers.json) |
 | Star Wars: Demolition | 143 | [143-star-wars-demolition.json](./143-star-wars-demolition.json) |
+| Star Wars: Demolition | 231776 | [231776-star-wars-demolition.json](./231776-star-wars-demolition.json) |
 | Star Wars: Droid Repair Bay | 76946 | [76946-star-wars-droid-repair-bay.json](./76946-star-wars-droid-repair-bay.json) |
 | Star Wars: Droids - The Adventures of R2-D2 and C-3PO | 61864 | [61864-star-wars-droids-the-adventures-of-r2-d2-and-c-3po.json](./61864-star-wars-droids-the-adventures-of-r2-d2-and-c-3po.json) |
 | Star Wars: DroidWorks | 95480 | [95480-star-wars-droidworks.json](./95480-star-wars-droidworks.json) |
@@ -17269,6 +17275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storefront | 376481 | [376481-storefront.json](./376481-storefront.json) |
 | Storia Stories | 257115 | [257115-storia-stories.json](./257115-storia-stories.json) |
 | Stories | 292753 | [292753-stories.json](./292753-stories.json) |
+| Stories From the Cores | 231774 | [231774-stories-from-the-cores.json](./231774-stories-from-the-cores.json) |
 | Stories of Liane | 144603 | [144603-stories-of-liane.json](./144603-stories-of-liane.json) |
 | Stories of Somnia | 353378 | [353378-stories-of-somnia.json](./353378-stories-of-somnia.json) |
 | Stories of Submission: Enter the Cuck | 163943 | [163943-stories-of-submission-enter-the-cuck.json](./163943-stories-of-submission-enter-the-cuck.json) |
@@ -22945,6 +22952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syphon Filter | 4115 | [4115-syphon-filter.json](./4115-syphon-filter.json) |
 | Syphon Filter 2 | 218372 | [218372-syphon-filter-2.json](./218372-syphon-filter-2.json) |
 | Syphon Filter 2 | 4116 | [4116-syphon-filter-2.json](./4116-syphon-filter-2.json) |
+| Syphon Filter 3 | 231777 | [231777-syphon-filter-3.json](./231777-syphon-filter-3.json) |
 | Syphon Filter 3 | 4117 | [4117-syphon-filter-3.json](./4117-syphon-filter-3.json) |
 | Syphon Filter: Dark Mirror | 20764 | [20764-syphon-filter-dark-mirror.json](./20764-syphon-filter-dark-mirror.json) |
 | Syphon Filter: Logan's Shadow | 19430 | [19430-syphon-filter-logans-shadow.json](./19430-syphon-filter-logans-shadow.json) |
