@@ -4203,6 +4203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverMerge: Match 3 Puzzle Game | 290414 | [290414-evermerge-match-3-puzzle-game.json](./290414-evermerge-match-3-puzzle-game.json) |
 | Evermoon | 238080 | [238080-evermoon.json](./238080-evermoon.json) |
 | Evermore | 57514 | [57514-evermore.json](./57514-evermore.json) |
+| Evermore Knights | 235096 | [235096-evermore-knights.json](./235096-evermore-knights.json) |
 | Evernight | 300714 | [300714-evernight.json](./300714-evernight.json) |
 | Everpixel Tactics | 156726 | [156726-everpixel-tactics.json](./156726-everpixel-tactics.json) |
 | Everplant | 185021 | [185021-everplant.json](./185021-everplant.json) |
