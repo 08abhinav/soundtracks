@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Parking | 308243 | [308243-factory-parking.json](./308243-factory-parking.json) |
 | Factory Time | 382325 | [382325-factory-time.json](./382325-factory-time.json) |
 | Factory Town | 105292 | [105292-factory-town.json](./105292-factory-town.json) |
+| Factory Town: Idle | 229249 | [229249-factory-town-idle.json](./229249-factory-town-idle.json) |
 | Factory Works Idle | 391319 | [391319-factory-works-idle.json](./391319-factory-works-idle.json) |
 | Factory512 | 212704 | [212704-factory512.json](./212704-factory512.json) |
 | FactoryCapi | 338290 | [338290-factorycapi.json](./338290-factorycapi.json) |
@@ -7649,6 +7650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Bridge Scape | 262884 | [262884-frog-bridge-scape.json](./262884-frog-bridge-scape.json) |
 | Frog Clan Official Server 24/7 ZK Map | 395868 | [395868-frog-clan-official-server-24-7-zk-map.json](./395868-frog-clan-official-server-24-7-zk-map.json) |
 | Frog Corner | 293683 | [293683-frog-corner.json](./293683-frog-corner.json) |
+| Frog Daddy's Dash | 229255 | [229255-frog-daddys-dash.json](./229255-frog-daddys-dash.json) |
 | Frog Detective -1 | 325675 | [325675-frog-detective-1.json](./325675-frog-detective-1.json) |
 | Frog Detective 3: Corruption at Cowboy County | 161552 | [161552-frog-detective-3-corruption-at-cowboy-county.json](./161552-frog-detective-3-corruption-at-cowboy-county.json) |
 | Frog Fall | 410328 | [410328-frog-fall.json](./410328-frog-fall.json) |
@@ -7661,6 +7663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Fractions: Game of the Decade Edition | 129299 | [129299-frog-fractions-game-of-the-decade-edition.json](./129299-frog-fractions-game-of-the-decade-edition.json) |
 | Frog Frenzy | 87707 | [87707-frog-frenzy.json](./87707-frog-frenzy.json) |
 | Frog Game for You | 227908 | [227908-frog-game-for-you.json](./227908-frog-game-for-you.json) |
+| Frog Gift | 229261 | [229261-frog-gift.json](./229261-frog-gift.json) |
 | Frog Golf | 202694 | [202694-frog-golf.json](./202694-frog-golf.json) |
 | Frog Heist | 342202 | [342202-frog-heist.json](./342202-frog-heist.json) |
 | Frog in a Blender | 282803 | [282803-frog-in-a-blender.json](./282803-frog-in-a-blender.json) |
@@ -7775,6 +7778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggy Revenge | 418731 | [418731-froggy-revenge.json](./418731-froggy-revenge.json) |
 | Froggy! | 418659 | [418659-froggy.json](./418659-froggy.json) |
 | Froggy's Adventures | 255654 | [255654-froggys-adventures.json](./255654-froggys-adventures.json) |
+| Froggy's Battle | 229257 | [229257-froggys-battle.json](./229257-froggys-battle.json) |
 | FrogJump | 224242 | [224242-frogjump.json](./224242-frogjump.json) |
 | FrogLake | 267464 | [267464-froglake.json](./267464-froglake.json) |
 | Froglet | 262402 | [262402-froglet.json](./262402-froglet.json) |
@@ -7784,6 +7788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogmaster | 268035 | [268035-frogmaster.json](./268035-frogmaster.json) |
 | Frogmonster | 187372 | [187372-frogmonster.json](./187372-frogmonster.json) |
 | Frogo | 208426 | [208426-frogo.json](./208426-frogo.json) |
+| Frogs | 229253 | [229253-frogs.json](./229253-frogs.json) |
 | Frogs | 318688 | [318688-frogs.json](./318688-frogs.json) |
 | Frogs Also Struggle | 258202 | [258202-frogs-also-struggle.json](./258202-frogs-also-struggle.json) |
 | Frogshot Adventure | 380559 | [380559-frogshot-adventure.json](./380559-frogshot-adventure.json) |
