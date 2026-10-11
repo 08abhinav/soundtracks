@@ -4101,6 +4101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sf3ra | 362193 | [362193-sf3ra.json](./362193-sf3ra.json) |
 | Sfare: Relax your mind | 184130 | [184130-sfare-relax-your-mind.json](./184130-sfare-relax-your-mind.json) |
 | SFCave | 87233 | [87233-sfcave.json](./87233-sfcave.json) |
+| SFCave for Playdate | 230736 | [230736-sfcave-for-playdate.json](./230736-sfcave-for-playdate.json) |
 | SFD | 105676 | [105676-sfd.json](./105676-sfd.json) |
 | SFG Soccer | 66700 | [66700-sfg-soccer.json](./66700-sfg-soccer.json) |
 | Sfsim | 415868 | [415868-sfsim.json](./415868-sfsim.json) |
@@ -9597,6 +9598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoball in Hell | 293314 | [293314-snoball-in-hell.json](./293314-snoball-in-hell.json) |
 | Snogbert | 347805 | [347805-snogbert.json](./347805-snogbert.json) |
 | Snoggle | 172458 | [172458-snoggle.json](./172458-snoggle.json) |
+| Snoik! | 230729 | [230729-snoik.json](./230729-snoik.json) |
 | Snok | 87132 | [87132-snok.json](./87132-snok.json) |
 | Snolf 3 & Knolf | 143734 | [143734-snolf-3-and-knolf.json](./143734-snolf-3-and-knolf.json) |
 | Snolf CD: A Snolf in Time | 143736 | [143736-snolf-cd-a-snolf-in-time.json](./143736-snolf-cd-a-snolf-in-time.json) |
@@ -11692,6 +11694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Card Duel | 390154 | [390154-soul-card-duel.json](./390154-soul-card-duel.json) |
 | Soul Catcher: The Moon Coliseum | 366384 | [366384-soul-catcher-the-moon-coliseum.json](./366384-soul-catcher-the-moon-coliseum.json) |
 | Soul Chained | 348392 | [348392-soul-chained.json](./348392-soul-chained.json) |
+| Soul Chomper | 230867 | [230867-soul-chomper.json](./230867-soul-chomper.json) |
 | Soul Climb | 189007 | [189007-soul-climb.json](./189007-soul-climb.json) |
 | Soul Crystal | 47194 | [47194-soul-crystal.json](./47194-soul-crystal.json) |
 | Soul Dance Party | 141522 | [141522-soul-dance-party.json](./141522-soul-dance-party.json) |
@@ -11752,6 +11755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul of the Beast | 178617 | [178617-soul-of-the-beast.json](./178617-soul-of-the-beast.json) |
 | Soul of the Forest | 310090 | [310090-soul-of-the-forest.json](./310090-soul-of-the-forest.json) |
 | Soul of the Ultimate Nation | 51196 | [51196-soul-of-the-ultimate-nation.json](./51196-soul-of-the-ultimate-nation.json) |
+| Soul of War | 230869 | [230869-soul-of-war.json](./230869-soul-of-war.json) |
 | Soul of War: Legions | 263992 | [263992-soul-of-war-legions.json](./263992-soul-of-war-legions.json) |
 | Soul Orb | 9650 | [9650-soul-orb.json](./9650-soul-orb.json) |
 | Soul Park | 307846 | [307846-soul-park.json](./307846-soul-park.json) |
@@ -11868,6 +11872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulless: Ray of Hope | 27754 | [27754-soulless-ray-of-hope.json](./27754-soulless-ray-of-hope.json) |
 | Soulmask | 272600 | [272600-soulmask.json](./272600-soulmask.json) |
 | Soulmask: Shifting Sands | 370724 | [370724-soulmask-shifting-sands.json](./370724-soulmask-shifting-sands.json) |
+| Soulmate Factory | 230743 | [230743-soulmate-factory.json](./230743-soulmate-factory.json) |
 | Soulmaze | 290854 | [290854-soulmaze.json](./290854-soulmaze.json) |
 | SoulPactum | 342773 | [342773-soulpactum.json](./342773-soulpactum.json) |
 | Soulrise | 295544 | [295544-soulrise.json](./295544-soulrise.json) |
@@ -13649,6 +13654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Pong | 359466 | [359466-spider-pong.json](./359466-spider-pong.json) |
 | Spider Riders: Battle for Arachna | 316801 | [316801-spider-riders-battle-for-arachna.json](./316801-spider-riders-battle-for-arachna.json) |
 | Spider Roulette | 386694 | [386694-spider-roulette.json](./386694-spider-roulette.json) |
+| Spider SG-21 | 230741 | [230741-spider-sg-21.json](./230741-spider-sg-21.json) |
 | Spider Shooting Bee | 119793 | [119793-spider-shooting-bee.json](./119793-spider-shooting-bee.json) |
 | Spider Solitaire - Classic Deck Card Games | 88588 | [88588-spider-solitaire-classic-deck-card-games.json](./88588-spider-solitaire-classic-deck-card-games.json) |
 | Spider Solitaire 2018 | 87636 | [87636-spider-solitaire-2018.json](./87636-spider-solitaire-2018.json) |
@@ -19804,6 +19810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Heroine Chronicle | 63311 | [63311-super-heroine-chronicle.json](./63311-super-heroine-chronicle.json) |
 | Super High Ball: Pinball Platformer | 133372 | [133372-super-high-ball-pinball-platformer.json](./133372-super-high-ball-pinball-platformer.json) |
 | Super High School Danger Course | 271128 | [271128-super-high-school-danger-course.json](./271128-super-high-school-danger-course.json) |
+| Super High School Sports Day Crankathlon | 230724 | [230724-super-high-school-sports-day-crankathlon.json](./230724-super-high-school-sports-day-crankathlon.json) |
 | Super Hiking Simulator 2020: After | 172117 | [172117-super-hiking-simulator-2020-after.json](./172117-super-hiking-simulator-2020-after.json) |
 | Super Hiking Simulator 2020: Puzzles | 163422 | [163422-super-hiking-simulator-2020-puzzles.json](./163422-super-hiking-simulator-2020-puzzles.json) |
 | Super Hind | 44475 | [44475-super-hind.json](./44475-super-hind.json) |
