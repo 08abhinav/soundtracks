@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Skills Motocross 2 | 103626 | [103626-mad-skills-motocross-2.json](./103626-mad-skills-motocross-2.json) |
 | Mad Skills Motocross 3 | 241639 | [241639-mad-skills-motocross-3.json](./241639-mad-skills-motocross-3.json) |
 | Mad Skills Motocross: Chasing the Dream | 292230 | [292230-mad-skills-motocross-chasing-the-dream.json](./292230-mad-skills-motocross-chasing-the-dream.json) |
+| Mad Skills Snocross | 232330 | [232330-mad-skills-snocross.json](./232330-mad-skills-snocross.json) |
 | Mad Stalker: Full Metal Force | 41408 | [41408-mad-stalker-full-metal-force.json](./41408-mad-stalker-full-metal-force.json) |
 | Mad Streets | 130517 | [130517-mad-streets.json](./130517-mad-streets.json) |
 | Mad Taxi | 153327 | [153327-mad-taxi.json](./153327-mad-taxi.json) |
@@ -5605,6 +5606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Leak | 183355 | [183355-memory-leak.json](./183355-memory-leak.json) |
 | Memory Lost - Shift Edition | 351138 | [351138-memory-lost-shift-edition.json](./351138-memory-lost-shift-edition.json) |
 | Memory Mastermind | 61068 | [61068-memory-mastermind.json](./61068-memory-mastermind.json) |
+| Memory Match IQ Brain Training | 232477 | [232477-memory-match-iq-brain-training.json](./232477-memory-match-iq-brain-training.json) |
 | Memory Match Saga: Expansion Pack 1 | 167320 | [167320-memory-match-saga-expansion-pack-1.json](./167320-memory-match-saga-expansion-pack-1.json) |
 | Memory Match Saga: Expansion Pack 10 | 167329 | [167329-memory-match-saga-expansion-pack-10.json](./167329-memory-match-saga-expansion-pack-10.json) |
 | Memory Match Saga: Expansion Pack 11 | 157558 | [157558-memory-match-saga-expansion-pack-11.json](./157558-memory-match-saga-expansion-pack-11.json) |
@@ -11941,6 +11943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muffles' Life Sentence | 329213 | [329213-muffles-life-sentence.json](./329213-muffles-life-sentence.json) |
 | Muffles' Life Sentence: Episode 2 | 339955 | [339955-muffles-life-sentence-episode-2.json](./339955-muffles-life-sentence-episode-2.json) |
 | Mug | 322830 | [322830-mug.json](./322830-mug.json) |
+| Mugalon Poker | 232351 | [232351-mugalon-poker.json](./232351-mugalon-poker.json) |
 | Mugamuchuu | 150166 | [150166-mugamuchuu.json](./150166-mugamuchuu.json) |
 | Mugen Abisu | 190959 | [190959-mugen-abisu.json](./190959-mugen-abisu.json) |
 | Mugen no Shinzou | 167613 | [167613-mugen-no-shinzou.json](./167613-mugen-no-shinzou.json) |
