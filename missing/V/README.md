@@ -859,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veloren | 121445 | [121445-veloren.json](./121445-veloren.json) |
 | Veloria: The Knot of Candles | 331277 | [331277-veloria-the-knot-of-candles.json](./331277-veloria-the-knot-of-candles.json) |
 | Velorys | 419856 | [419856-velorys.json](./419856-velorys.json) |
+| Veloz | 238927 | [238927-veloz.json](./238927-veloz.json) |
 | Velucity | 155656 | [155656-velucity.json](./155656-velucity.json) |
 | Velucity: O2Jam Pack 1 | 170381 | [170381-velucity-o2jam-pack-1.json](./170381-velucity-o2jam-pack-1.json) |
 | Velvet 89 | 316956 | [316956-velvet-89.json](./316956-velvet-89.json) |
@@ -2225,6 +2226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volkstein | 90150 | [90150-volkstein.json](./90150-volkstein.json) |
 | Volley & Tennis Bundle Blast | 196812 | [196812-volley-and-tennis-bundle-blast.json](./196812-volley-and-tennis-bundle-blast.json) |
 | Volley Balley | 90895 | [90895-volley-balley.json](./90895-volley-balley.json) |
+| Volley Bomb | 239092 | [239092-volley-bomb.json](./239092-volley-bomb.json) |
 | Volley Sumos | 193727 | [193727-volley-sumos.json](./193727-volley-sumos.json) |
 | Volleyball | 109446 | [109446-volleyball.json](./109446-volleyball.json) |
 | Volleyball | 287574 | [287574-volleyball.json](./287574-volleyball.json) |
