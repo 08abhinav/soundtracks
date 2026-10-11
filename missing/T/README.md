@@ -3461,6 +3461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 10x10 Project | 257285 | [257285-the-10x10-project.json](./257285-the-10x10-project.json) |
 | The 11th Hour | 2203 | [2203-the-11th-hour.json](./2203-the-11th-hour.json) |
 | The 12 Days of Doomas! | 262565 | [262565-the-12-days-of-doomas.json](./262565-the-12-days-of-doomas.json) |
+| The 12th Annual Vanilla Level Design Contest: Collaboration Hack | 228321 | [228321-the-12th-annual-vanilla-level-design-contest-collaboration-hack.json](./228321-the-12th-annual-vanilla-level-design-contest-collaboration-hack.json) |
 | The 13th Doll: A Fan Game of The 7th Guest | 120368 | [120368-the-13th-doll-a-fan-game-of-the-7th-guest.json](./120368-the-13th-doll-a-fan-game-of-the-7th-guest.json) |
 | The 13th Floor | 298323 | [298323-the-13th-floor.json](./298323-the-13th-floor.json) |
 | The 13th Floor | 356709 | [356709-the-13th-floor.json](./356709-the-13th-floor.json) |
@@ -3507,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 7th Sign Project | 201675 | [201675-the-7th-sign-project.json](./201675-the-7th-sign-project.json) |
 | The 80's Game with Martha Quinn | 206205 | [206205-the-80s-game-with-martha-quinn.json](./206205-the-80s-game-with-martha-quinn.json) |
 | The 8ight | 329204 | [329204-the-8ight.json](./329204-the-8ight.json) |
+| The 8th Annual Vanilla Level Design Contest: Collaboration Hack | 228322 | [228322-the-8th-annual-vanilla-level-design-contest-collaboration-hack.json](./228322-the-8th-annual-vanilla-level-design-contest-collaboration-hack.json) |
 | The 8th Day | 106605 | [106605-the-8th-day.json](./106605-the-8th-day.json) |
 | The 8th Melee: Hyper State | 330720 | [330720-the-8th-melee-hyper-state.json](./330720-the-8th-melee-hyper-state.json) |
 | The 8th Son? A.R. | 243087 | [243087-the-8th-son-a-r.json](./243087-the-8th-son-a-r.json) |
@@ -7283,6 +7285,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Food Racing 2 | 380407 | [380407-the-jumping-food-racing-2.json](./380407-the-jumping-food-racing-2.json) |
 | The Jumping Fries | 204078 | [204078-the-jumping-fries.json](./204078-the-jumping-fries.json) |
 | The Jumping Fries: Turbo | 204344 | [204344-the-jumping-fries-turbo.json](./204344-the-jumping-fries-turbo.json) |
+| The Jumping Gingerbread | 228330 | [228330-the-jumping-gingerbread.json](./228330-the-jumping-gingerbread.json) |
+| The Jumping Gingerbread: Turbo | 228331 | [228331-the-jumping-gingerbread-turbo.json](./228331-the-jumping-gingerbread-turbo.json) |
 | The Jumping Hot Dog | 204996 | [204996-the-jumping-hot-dog.json](./204996-the-jumping-hot-dog.json) |
 | The Jumping Ice Cream | 216357 | [216357-the-jumping-ice-cream.json](./216357-the-jumping-ice-cream.json) |
 | The Jumping Ice Cream: Turbo | 217808 | [217808-the-jumping-ice-cream-turbo.json](./217808-the-jumping-ice-cream-turbo.json) |
@@ -7515,6 +7519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lair of DOOMestic Animals | 271487 | [271487-the-lair-of-doomestic-animals.json](./271487-the-lair-of-doomestic-animals.json) |
 | The Lair of Nekro Neko | 307695 | [307695-the-lair-of-nekro-neko.json](./307695-the-lair-of-nekro-neko.json) |
 | The Lake House: Children of Silence | 54299 | [54299-the-lake-house-children-of-silence.json](./54299-the-lake-house-children-of-silence.json) |
+| The Lake of the Blind Mannequin | 228637 | [228637-the-lake-of-the-blind-mannequin.json](./228637-the-lake-of-the-blind-mannequin.json) |
 | The Lamb of the Sabbath is Standing Upon the Hill | 346651 | [346651-the-lamb-of-the-sabbath-is-standing-upon-the-hill.json](./346651-the-lamb-of-the-sabbath-is-standing-upon-the-hill.json) |
 | The Lamplighters League | 240893 | [240893-the-lamplighters-league.json](./240893-the-lamplighters-league.json) |
 | The Lancaster Leak: Crisis at Call Center | 260586 | [260586-the-lancaster-leak-crisis-at-call-center.json](./260586-the-lancaster-leak-crisis-at-call-center.json) |
