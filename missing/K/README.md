@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaboom! | 12309 | [12309-kaboom.json](./12309-kaboom.json) |
 | Kaboom! | 172030 | [172030-kaboom.json](./172030-kaboom.json) |
 | Kaboom! | 198790 | [198790-kaboom.json](./198790-kaboom.json) |
+| Kaboom! | 234092 | [234092-kaboom.json](./234092-kaboom.json) |
 | Kabuki Fire | 352322 | [352322-kabuki-fire.json](./352322-kabuki-fire.json) |
 | Kabuki Rocks | 37971 | [37971-kabuki-rocks.json](./37971-kabuki-rocks.json) |
 | Kabuki Warriors | 5873 | [5873-kabuki-warriors.json](./5873-kabuki-warriors.json) |
@@ -1797,6 +1798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindergarten 3 | 300328 | [300328-kindergarten-3.json](./300328-kindergarten-3.json) |
 | KindergarTen 3: The Basement | 290696 | [290696-kindergarten-3-the-basement.json](./290696-kindergarten-3-the-basement.json) |
 | Kindergarten of Hell | 343841 | [343841-kindergarten-of-hell.json](./343841-kindergarten-of-hell.json) |
+| Kindergarten Secret | 234102 | [234102-kindergarten-secret.json](./234102-kindergarten-secret.json) |
 | Kindergarten: Buddy Edition | 232999 | [232999-kindergarten-buddy-edition.json](./232999-kindergarten-buddy-edition.json) |
 | Kindled Cavern | 29816 | [29816-kindled-cavern.json](./29816-kindled-cavern.json) |
 | Kindling: The Last Light | 183365 | [183365-kindling-the-last-light.json](./183365-kindling-the-last-light.json) |
@@ -2875,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights & Guns: Grand Edition | 315860 | [315860-knights-and-guns-grand-edition.json](./315860-knights-and-guns-grand-edition.json) |
 | Knights & Guns: NY Edition | 277893 | [277893-knights-and-guns-ny-edition.json](./277893-knights-and-guns-ny-edition.json) |
 | Knights & Guns: Platinum Edition | 274494 | [274494-knights-and-guns-platinum-edition.json](./274494-knights-and-guns-platinum-edition.json) |
+| Knights & Guns: Premium Edition | 233947 | [233947-knights-and-guns-premium-edition.json](./233947-knights-and-guns-premium-edition.json) |
 | Knights & Guns: Prime Edition | 270795 | [270795-knights-and-guns-prime-edition.json](./270795-knights-and-guns-prime-edition.json) |
 | Knights & Guns: Silver Edition | 254689 | [254689-knights-and-guns-silver-edition.json](./254689-knights-and-guns-silver-edition.json) |
 | Knights & Guns: Special Edition | 324371 | [324371-knights-and-guns-special-edition.json](./324371-knights-and-guns-special-edition.json) |
