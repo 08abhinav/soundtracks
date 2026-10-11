@@ -1263,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Simulator 2014 | 7571 | [7571-car-mechanic-simulator-2014.json](./7571-car-mechanic-simulator-2014.json) |
 | Car Mechanic Simulator 2021 | 152604 | [152604-car-mechanic-simulator-2021.json](./152604-car-mechanic-simulator-2021.json) |
 | Car Mechanic Simulator 2021: BMW DLC | 276213 | [276213-car-mechanic-simulator-2021-bmw-dlc.json](./276213-car-mechanic-simulator-2021-bmw-dlc.json) |
+| Car Mechanic Simulator 2021: Mercedes-Benz Remastered DLC | 231841 | [231841-car-mechanic-simulator-2021-mercedes-benz-remastered-dlc.json](./231841-car-mechanic-simulator-2021-mercedes-benz-remastered-dlc.json) |
 | Car Mechanic Simulator 2021: Rims | 285696 | [285696-car-mechanic-simulator-2021-rims.json](./285696-car-mechanic-simulator-2021-rims.json) |
 | Car Mechanic Simulator VR | 119714 | [119714-car-mechanic-simulator-vr.json](./119714-car-mechanic-simulator-vr.json) |
 | Car Mechanic Simulator: Pocket Edition | 122871 | [122871-car-mechanic-simulator-pocket-edition.json](./122871-car-mechanic-simulator-pocket-edition.json) |
@@ -2456,6 +2457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Quest: The Fur-tastic Trilogy | 313223 | [313223-cat-quest-the-fur-tastic-trilogy.json](./313223-cat-quest-the-fur-tastic-trilogy.json) |
 | Cat Raid | 255010 | [255010-cat-raid.json](./255010-cat-raid.json) |
 | Cat Rescue | 329530 | [329530-cat-rescue.json](./329530-cat-rescue.json) |
+| Cat Rescue Helicopter | 231958 | [231958-cat-rescue-helicopter.json](./231958-cat-rescue-helicopter.json) |
 | Cat Rescue Inc. | 345650 | [345650-cat-rescue-inc.json](./345650-cat-rescue-inc.json) |
 | Cat Runner 2018 | 99414 | [99414-cat-runner-2018.json](./99414-cat-runner-2018.json) |
 | Cat Screen | 410234 | [410234-cat-screen.json](./410234-cat-screen.json) |
@@ -2471,6 +2473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Simulator: Meow | 152473 | [152473-cat-simulator-meow.json](./152473-cat-simulator-meow.json) |
 | Cat Slaps | 332976 | [332976-cat-slaps.json](./332976-cat-slaps.json) |
 | Cat Slide Tiles | 152774 | [152774-cat-slide-tiles.json](./152774-cat-slide-tiles.json) |
+| Cat Snack Bar | 231781 | [231781-cat-snack-bar.json](./231781-cat-snack-bar.json) |
 | Cat Sokoban | 135868 | [135868-cat-sokoban.json](./135868-cat-sokoban.json) |
 | Cat Souls | 244218 | [244218-cat-souls.json](./244218-cat-souls.json) |
 | Cat Spa | 224080 | [224080-cat-spa.json](./224080-cat-spa.json) |
@@ -2803,6 +2806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Spotter | 307322 | [307322-cats-spotter.json](./307322-cats-spotter.json) |
 | Cats Story | 336025 | [336025-cats-story.json](./336025-cats-story.json) |
 | Cats Super Bundle | 268567 | [268567-cats-super-bundle.json](./268567-cats-super-bundle.json) |
+| Cats the Commander | 231957 | [231957-cats-the-commander.json](./231957-cats-the-commander.json) |
 | Cats the Commander for Nintendo Switch | 330235 | [330235-cats-the-commander-for-nintendo-switch.json](./330235-cats-the-commander-for-nintendo-switch.json) |
 | Cats Visiting Christmas Town | 325663 | [325663-cats-visiting-christmas-town.json](./325663-cats-visiting-christmas-town.json) |
 | Cats Visiting Lunar New Year | 328566 | [328566-cats-visiting-lunar-new-year.json](./328566-cats-visiting-lunar-new-year.json) |
@@ -3830,6 +3834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasm | 255661 | [255661-chasm.json](./255661-chasm.json) |
 | Chasm Bound | 250896 | [250896-chasm-bound.json](./250896-chasm-bound.json) |
 | Chasm Crawl | 277761 | [277761-chasm-crawl.json](./277761-chasm-crawl.json) |
+| Chasmal | 231798 | [231798-chasmal.json](./231798-chasmal.json) |
 | Chat Arena | 115424 | [115424-chat-arena.json](./115424-chat-arena.json) |
 | Chat Guess Games | 280857 | [280857-chat-guess-games.json](./280857-chat-guess-games.json) |
 | Chat Showdown - A twitch streamer's game! | 81261 | [81261-chat-showdown-a-twitch-streamers-game.json](./81261-chat-showdown-a-twitch-streamers-game.json) |
@@ -4415,6 +4420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chico's Delivery | 406052 | [406052-chicos-delivery.json](./406052-chicos-delivery.json) |
 | Chico's Rebound | 345050 | [345050-chicos-rebound.json](./345050-chicos-rebound.json) |
 | ChicScape | 152777 | [152777-chicscape.json](./152777-chicscape.json) |
+| Chief Almighty | 231959 | [231959-chief-almighty.json](./231959-chief-almighty.json) |
 | Chief Bubble Officer | 413163 | [413163-chief-bubble-officer.json](./413163-chief-bubble-officer.json) |
 | Chief Cenab: Şahmaran | 391347 | [391347-chief-cenab-sahmaran.json](./391347-chief-cenab-sahmaran.json) |
 | Chief Challenge | 335473 | [335473-chief-challenge.json](./335473-chief-challenge.json) |
@@ -5310,6 +5316,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chungus Rampage in Big Forest | 143068 | [143068-chungus-rampage-in-big-forest.json](./143068-chungus-rampage-in-big-forest.json) |
 | Chunithm Luminous | 281381 | [281381-chunithm-luminous.json](./281381-chunithm-luminous.json) |
 | Chunithm Luminous Plus | 309593 | [309593-chunithm-luminous-plus.json](./309593-chunithm-luminous-plus.json) |
+| Chunithm New Plus | 231771 | [231771-chunithm-new-plus.json](./231771-chunithm-new-plus.json) |
+| Chunithm Sun | 231772 | [231772-chunithm-sun.json](./231772-chunithm-sun.json) |
 | Chunithm Sun Plus | 269300 | [269300-chunithm-sun-plus.json](./269300-chunithm-sun-plus.json) |
 | Chunithm Verse | 335960 | [335960-chunithm-verse.json](./335960-chunithm-verse.json) |
 | Chunithm X-Verse-X International Version | 397774 | [397774-chunithm-x-verse-x-international-version.json](./397774-chunithm-x-verse-x-international-version.json) |
@@ -11302,6 +11310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crows | 103426 | [103426-crows.json](./103426-crows.json) |
 | Crows Coming | 245018 | [245018-crows-coming.json](./245018-crows-coming.json) |
 | Crowtel Renovations | 26723 | [26723-crowtel-renovations.json](./26723-crowtel-renovations.json) |
+| CRSED: Cuisine Royale | 231960 | [231960-crsed-cuisine-royale.json](./231960-crsed-cuisine-royale.json) |
 | CRSED: F.O.A.D. - Age of Nagual | 171062 | [171062-crsed-f-o-a-d-age-of-nagual.json](./171062-crsed-f-o-a-d-age-of-nagual.json) |
 | CRSED: F.O.A.D. - Biker Queen | 171057 | [171057-crsed-f-o-a-d-biker-queen.json](./171057-crsed-f-o-a-d-biker-queen.json) |
 | CRSED: F.O.A.D. - Dieselpunk | 222979 | [222979-crsed-f-o-a-d-dieselpunk.json](./222979-crsed-f-o-a-d-dieselpunk.json) |
@@ -11863,6 +11872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Smash | 129087 | [129087-cube-smash.json](./129087-cube-smash.json) |
 | Cube Snake | 318968 | [318968-cube-snake.json](./318968-cube-snake.json) |
 | Cube Snap 2 | 86882 | [86882-cube-snap-2.json](./86882-cube-snap-2.json) |
+| Cube Solver | 231961 | [231961-cube-solver.json](./231961-cube-solver.json) |
 | Cube Space | 163195 | [163195-cube-space.json](./163195-cube-space.json) |
 | Cube Stack Ultimate | 289765 | [289765-cube-stack-ultimate.json](./289765-cube-stack-ultimate.json) |
 | Cube Tactics | 85558 | [85558-cube-tactics.json](./85558-cube-tactics.json) |
