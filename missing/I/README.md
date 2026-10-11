@@ -1031,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Offworld Foundry | 410399 | [410399-idle-offworld-foundry.json](./410399-idle-offworld-foundry.json) |
 | Idle Outpost | 302674 | [302674-idle-outpost.json](./302674-idle-outpost.json) |
 | Idle Paladin | 192181 | [192181-idle-paladin.json](./192181-idle-paladin.json) |
+| idle Party Leader | 235653 | [235653-idle-party-leader.json](./235653-idle-party-leader.json) |
 | Idle Percent | 277345 | [277345-idle-percent.json](./277345-idle-percent.json) |
 | Idle Physio: Clinic Tycoon | 417461 | [417461-idle-physio-clinic-tycoon.json](./417461-idle-physio-clinic-tycoon.json) |
 | Idle Pinball | 330171 | [330171-idle-pinball.json](./330171-idle-pinball.json) |
@@ -4365,6 +4366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IWL: Interstellar Wrestling League - 053: Mod - Atlury | 363435 | [363435-iwl-interstellar-wrestling-league-053-mod-atlury.json](./363435-iwl-interstellar-wrestling-league-053-mod-atlury.json) |
 | IWL: Interstellar Wrestling League - 054: Mod - Tria Pan 3 | 363436 | [363436-iwl-interstellar-wrestling-league-054-mod-tria-pan-3.json](./363436-iwl-interstellar-wrestling-league-054-mod-tria-pan-3.json) |
 | IWO: Bloodbath in the Bonins | 32979 | [32979-iwo-bloodbath-in-the-bonins.json](./32979-iwo-bloodbath-in-the-bonins.json) |
+| IwoCon 2 | 235778 | [235778-iwocon-2.json](./235778-iwocon-2.json) |
 | IwoCon 2021 | 141005 | [141005-iwocon-2021.json](./141005-iwocon-2021.json) |
 | Ixion | 152258 | [152258-ixion.json](./152258-ixion.json) |
 | Ixion | 40345 | [40345-ixion.json](./40345-ixion.json) |
