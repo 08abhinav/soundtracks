@@ -4551,7 +4551,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cat in the Hat: Rainy Day Mayhem | 403720 | [403720-the-cat-in-the-hat-rainy-day-mayhem.json](./403720-the-cat-in-the-hat-rainy-day-mayhem.json) |
 | The Cat in the Hijab | 55930 | [55930-the-cat-in-the-hijab.json](./55930-the-cat-in-the-hijab.json) |
 | The Cat is Dying | 383075 | [383075-the-cat-is-dying.json](./383075-the-cat-is-dying.json) |
-| The Cat Lady | 11270 | [11270-the-cat-lady.json](./11270-the-cat-lady.json) |
 | The Cat Machine | 34837 | [34837-the-cat-machine.json](./34837-the-cat-machine.json) |
 | The Cat Maze | 218709 | [218709-the-cat-maze.json](./218709-the-cat-maze.json) |
 | The Cat Scheduled Oil Sampling Game | 281379 | [281379-the-cat-scheduled-oil-sampling-game.json](./281379-the-cat-scheduled-oil-sampling-game.json) |
@@ -13029,7 +13028,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throne Rush | 243125 | [243125-throne-rush.json](./243125-throne-rush.json) |
 | Throne Wars | 319133 | [319133-throne-wars.json](./319133-throne-wars.json) |
 | Throne: Kingdom at War | 159083 | [159083-throne-kingdom-at-war.json](./159083-throne-kingdom-at-war.json) |
-| Thronebreaker: The Witcher Tales | 107300 | [107300-thronebreaker-the-witcher-tales.json](./107300-thronebreaker-the-witcher-tales.json) |
 | ThroneForge: The Fortress War | 277332 | [277332-throneforge-the-fortress-war.json](./277332-throneforge-the-fortress-war.json) |
 | Throneheir | 326658 | [326658-throneheir.json](./326658-throneheir.json) |
 | Through | 94765 | [94765-through.json](./94765-through.json) |
