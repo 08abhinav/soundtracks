@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Honor: Shooter of Warfare | 328095 | [328095-call-of-honor-shooter-of-warfare.json](./328095-call-of-honor-shooter-of-warfare.json) |
 | Call of Juarez | 429 | [429-call-of-juarez.json](./429-call-of-juarez.json) |
 | Call of Juarez: Bound In Blood | 430 | [430-call-of-juarez-bound-in-blood.json](./430-call-of-juarez-bound-in-blood.json) |
+| Call of Mini: Zombies 2 | 233407 | [233407-call-of-mini-zombies-2.json](./233407-call-of-mini-zombies-2.json) |
 | Call of Myth | 153969 | [153969-call-of-myth.json](./153969-call-of-myth.json) |
 | Call of Nature: Jigsaw Puzzle | 103531 | [103531-call-of-nature-jigsaw-puzzle.json](./103531-call-of-nature-jigsaw-puzzle.json) |
 | Call of Otechestvo Donbass | 117636 | [117636-call-of-otechestvo-donbass.json](./117636-call-of-otechestvo-donbass.json) |
@@ -1165,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa: Rise of New Champions - Tachibana Brothers Mission | 214542 | [214542-captain-tsubasa-rise-of-new-champions-tachibana-brothers-mission.json](./214542-captain-tsubasa-rise-of-new-champions-tachibana-brothers-mission.json) |
 | Captain Tsubasa: Rise of New Champions - Tsubasa Ozora Mission | 214544 | [214544-captain-tsubasa-rise-of-new-champions-tsubasa-ozora-mission.json](./214544-captain-tsubasa-rise-of-new-champions-tsubasa-ozora-mission.json) |
 | Captain Tsubasa: Rise of New Champions - Ultimate Edition | 268552 | [268552-captain-tsubasa-rise-of-new-champions-ultimate-edition.json](./268552-captain-tsubasa-rise-of-new-champions-ultimate-edition.json) |
+| Captain Tsubasa: Zero - Showdown! Miracle Shoot | 233414 | [233414-captain-tsubasa-zero-showdown-miracle-shoot.json](./233414-captain-tsubasa-zero-showdown-miracle-shoot.json) |
 | Captain Underpants: Epic Choice-o-rama | 256837 | [256837-captain-underpants-epic-choice-o-rama.json](./256837-captain-underpants-epic-choice-o-rama.json) |
 | Captain Velvet Meteor: The Jump+ Dimensions | 194946 | [194946-captain-velvet-meteor-the-jump-dimensions.json](./194946-captain-velvet-meteor-the-jump-dimensions.json) |
 | Captain Wayne: Vacation Desperation | 241378 | [241378-captain-wayne-vacation-desperation.json](./241378-captain-wayne-vacation-desperation.json) |
@@ -6143,6 +6145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clayton's Quest | 72325 | [72325-claytons-quest.json](./72325-claytons-quest.json) |
 | ClayTown Horror | 217403 | [217403-claytown-horror.json](./217403-claytown-horror.json) |
 | Clea | 112617 | [112617-clea.json](./112617-clea.json) |
+| Clean and Bridge | 233425 | [233425-clean-and-bridge.json](./233425-clean-and-bridge.json) |
 | Clean Attack! | 135025 | [135025-clean-attack.json](./135025-clean-attack.json) |
 | Clean City Project | 292521 | [292521-clean-city-project.json](./292521-clean-city-project.json) |
 | Clean Cut | 275315 | [275315-clean-cut.json](./275315-clean-cut.json) |
@@ -6407,6 +6410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | clock out. | 310963 | [310963-clock-out.json](./310963-clock-out.json) |
 | Clock Overwhelmed | 152800 | [152800-clock-overwhelmed.json](./152800-clock-overwhelmed.json) |
 | Clock Rogue | 295004 | [295004-clock-rogue.json](./295004-clock-rogue.json) |
+| Clock Smith | 233539 | [233539-clock-smith.json](./233539-clock-smith.json) |
 | Clock Ticker | 253989 | [253989-clock-ticker.json](./253989-clock-ticker.json) |
 | Clock Tower 3 | 18305 | [18305-clock-tower-3.json](./18305-clock-tower-3.json) |
 | Clock Tower Madness | 386273 | [386273-clock-tower-madness.json](./386273-clock-tower-madness.json) |
