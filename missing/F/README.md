@@ -1599,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm it! Seasons | 96921 | [96921-farm-it-seasons.json](./96921-farm-it-seasons.json) |
 | Farm Jam: Animal Parking Game | 247216 | [247216-farm-jam-animal-parking-game.json](./247216-farm-jam-animal-parking-game.json) |
 | Farm Keeper | 247034 | [247034-farm-keeper.json](./247034-farm-keeper.json) |
+| Farm King Saga | 233424 | [233424-farm-king-saga.json](./233424-farm-king-saga.json) |
 | Farm Kitten: Puzzle Pipes | 165711 | [165711-farm-kitten-puzzle-pipes.json](./165711-farm-kitten-puzzle-pipes.json) |
 | Farm Land | 365204 | [365204-farm-land.json](./365204-farm-land.json) |
 | Farm Land: Complete Edition | 270793 | [270793-farm-land-complete-edition.json](./270793-farm-land-complete-edition.json) |
@@ -3345,6 +3346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Frontier Story | 360084 | [360084-final-frontier-story.json](./360084-final-frontier-story.json) |
 | Final Fury | 204336 | [204336-final-fury.json](./204336-final-fury.json) |
 | Final Goal | 253002 | [253002-final-goal.json](./253002-final-goal.json) |
+| Final Guardian | 233406 | [233406-final-guardian.json](./233406-final-guardian.json) |
 | Final Guardian 2 | 197348 | [197348-final-guardian-2.json](./197348-final-guardian-2.json) |
 | Final Gun | 241517 | [241517-final-gun.json](./241517-final-gun.json) |
 | Final Hour | 27772 | [27772-final-hour.json](./27772-final-hour.json) |
@@ -4721,6 +4723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flat 9 | 334068 | [334068-flat-9.json](./334068-flat-9.json) |
 | Flat Affect | 233563 | [233563-flat-affect.json](./233563-flat-affect.json) |
 | Flat Earths! | 121414 | [121414-flat-earths.json](./121414-flat-earths.json) |
+| Flat Fat Cat Bounce | 233537 | [233537-flat-fat-cat-bounce.json](./233537-flat-fat-cat-bounce.json) |
 | Flat Galaxy: An Idlemare | 387623 | [387623-flat-galaxy-an-idlemare.json](./387623-flat-galaxy-an-idlemare.json) |
 | Flat Heroes | 31898 | [31898-flat-heroes.json](./31898-flat-heroes.json) |
 | Flat Kingdom | 18795 | [18795-flat-kingdom.json](./18795-flat-kingdom.json) |
@@ -5169,6 +5172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floppy Knights | 130182 | [130182-floppy-knights.json](./130182-floppy-knights.json) |
 | Floppy Knights: Version 2.0 | 230299 | [230299-floppy-knights-version-2-0.json](./230299-floppy-knights-version-2-0.json) |
 | Floppy Minecraft | 144104 | [144104-floppy-minecraft.json](./144104-floppy-minecraft.json) |
+| Floppy Turd | 233402 | [233402-floppy-turd.json](./233402-floppy-turd.json) |
 | Flora | 364685 | [364685-flora.json](./364685-flora.json) |
 | Flora and Sauna | 201035 | [201035-flora-and-sauna.json](./201035-flora-and-sauna.json) |
 | Flora and the Darkness | 175906 | [175906-flora-and-the-darkness.json](./175906-flora-and-the-darkness.json) |
