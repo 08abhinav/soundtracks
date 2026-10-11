@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanafuta no Tora | 358479 | [358479-hanafuta-no-tora.json](./358479-hanafuta-no-tora.json) |
 | Hanage Nuki! Nuki! - Nose Hair Master | 342652 | [342652-hanage-nuki-nuki-nose-hair-master.json](./342652-hanage-nuki-nuki-nose-hair-master.json) |
 | Hanagumi Taisen Columns | 69307 | [69307-hanagumi-taisen-columns.json](./69307-hanagumi-taisen-columns.json) |
+| Hanakisou | 234529 | [234529-hanakisou.json](./234529-hanakisou.json) |
 | Hanako in the Abandoned School | 207766 | [207766-hanako-in-the-abandoned-school.json](./207766-hanako-in-the-abandoned-school.json) |
 | Hanako: Honor & Blade | 36605 | [36605-hanako-honor-and-blade.json](./36605-hanako-honor-and-blade.json) |
 | Hananezumi | 200742 | [200742-hananezumi.json](./200742-hananezumi.json) |
@@ -2984,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Age Vacation | 384706 | [384706-hentai-age-vacation.json](./384706-hentai-age-vacation.json) |
 | Hentai Ahegao | 111270 | [111270-hentai-ahegao.json](./111270-hentai-ahegao.json) |
 | Hentai Aim Practice | 219832 | [219832-hentai-aim-practice.json](./219832-hentai-aim-practice.json) |
+| Hentai Aim Trainer 2 | 234519 | [234519-hentai-aim-trainer-2.json](./234519-hentai-aim-trainer-2.json) |
 | Hentai Aina | 340427 | [340427-hentai-aina.json](./340427-hentai-aina.json) |
 | Hentai Akari | 312719 | [312719-hentai-akari.json](./312719-hentai-akari.json) |
 | Hentai Akira | 411069 | [411069-hentai-akira.json](./411069-hentai-akira.json) |
@@ -3164,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Halloween | 286439 | [286439-hentai-halloween.json](./286439-hentai-halloween.json) |
 | Hentai Hanako | 232445 | [232445-hentai-hanako.json](./232445-hentai-hanako.json) |
 | Hentai Harem | 367976 | [367976-hentai-harem.json](./367976-hentai-harem.json) |
+| Hentai Hasshaku | 234524 | [234524-hentai-hasshaku.json](./234524-hentai-hasshaku.json) |
 | Hentai Heroes | 141010 | [141010-hentai-heroes.json](./141010-hentai-heroes.json) |
 | Hentai Hexa Mosaic | 107783 | [107783-hentai-hexa-mosaic.json](./107783-hentai-hexa-mosaic.json) |
 | Hentai Homewrecker | 297799 | [297799-hentai-homewrecker.json](./297799-hentai-homewrecker.json) |
@@ -4356,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Legends | 370817 | [370817-hidden-legends.json](./370817-hidden-legends.json) |
 | Hidden Magic Town | 190008 | [190008-hidden-magic-town.json](./190008-hidden-magic-town.json) |
 | Hidden Map | 187369 | [187369-hidden-map.json](./187369-hidden-map.json) |
+| Hidden Mars | 234536 | [234536-hidden-mars.json](./234536-hidden-mars.json) |
 | Hidden Memories | 345564 | [345564-hidden-memories.json](./345564-hidden-memories.json) |
 | Hidden Memories of a Bright Summer | 100608 | [100608-hidden-memories-of-a-bright-summer.json](./100608-hidden-memories-of-a-bright-summer.json) |
 | Hidden Memories of the Gardens Between | 347107 | [347107-hidden-memories-of-the-gardens-between.json](./347107-hidden-memories-of-the-gardens-between.json) |
@@ -4602,6 +4606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide and Secret Treasure of the Ages | 32874 | [32874-hide-and-secret-treasure-of-the-ages.json](./32874-hide-and-secret-treasure-of-the-ages.json) |
 | Hide and Secret: Pharaoh's Quest | 88264 | [88264-hide-and-secret-pharaohs-quest.json](./88264-hide-and-secret-pharaohs-quest.json) |
 | Hide and Seek | 131331 | [131331-hide-and-seek.json](./131331-hide-and-seek.json) |
+| Hide and Seek | 234520 | [234520-hide-and-seek.json](./234520-hide-and-seek.json) |
 | Hide and Seek | 275354 | [275354-hide-and-seek.json](./275354-hide-and-seek.json) |
 | Hide and Seek | 340003 | [340003-hide-and-seek.json](./340003-hide-and-seek.json) |
 | Hide and Seek | 361342 | [361342-hide-and-seek.json](./361342-hide-and-seek.json) |
@@ -6532,6 +6537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Dog Reporter | 267555 | [267555-hot-dog-reporter.json](./267555-hot-dog-reporter.json) |
 | Hot Dog Simulator | 326406 | [326406-hot-dog-simulator.json](./326406-hot-dog-simulator.json) |
 | Hot Dog Stand: The Works | 228685 | [228685-hot-dog-stand-the-works.json](./228685-hot-dog-stand-the-works.json) |
+| Hot Donut | 234496 | [234496-hot-donut.json](./234496-hot-donut.json) |
 | Hot Dot! | 267339 | [267339-hot-dot.json](./267339-hot-dot.json) |
 | Hot Drop | 246339 | [246339-hot-drop.json](./246339-hot-drop.json) |
 | Hot Farm Africa | 54082 | [54082-hot-farm-africa.json](./54082-hot-farm-africa.json) |
