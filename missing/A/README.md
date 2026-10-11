@@ -3465,6 +3465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akatsuki: Lord of the Dawn | 291392 | [291392-akatsuki-lord-of-the-dawn.json](./291392-akatsuki-lord-of-the-dawn.json) |
 | Akatsuki: Shisei Ichi-go | 61628 | [61628-akatsuki-shisei-ichi-go.json](./61628-akatsuki-shisei-ichi-go.json) |
 | Akayashiki | 297794 | [297794-akayashiki.json](./297794-akayashiki.json) |
+| Akayo Therapy | 236306 | [236306-akayo-therapy.json](./236306-akayo-therapy.json) |
 | Akazukin Cha Cha Cha | 265971 | [265971-akazukin-cha-cha-cha.json](./265971-akazukin-cha-cha-cha.json) |
 | Akazukin Cha-cha | 15887 | [15887-akazukin-cha-cha.json](./15887-akazukin-cha-cha.json) |
 | Akazukin Cha-cha | 228473 | [228473-akazukin-cha-cha.json](./228473-akazukin-cha-cha.json) |
