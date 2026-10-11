@@ -2062,6 +2062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scoot Hard DX: Daytime Drama Zero | 230508 | [230508-scoot-hard-dx-daytime-drama-zero.json](./230508-scoot-hard-dx-daytime-drama-zero.json) |
 | Scoot Kaboom and the Tomb of Doom | 132695 | [132695-scoot-kaboom-and-the-tomb-of-doom.json](./132695-scoot-kaboom-and-the-tomb-of-doom.json) |
 | Scooter Boy | 238389 | [238389-scooter-boy.json](./238389-scooter-boy.json) |
+| Scooter Rush | 235112 | [235112-scooter-rush.json](./235112-scooter-rush.json) |
 | Scooter Shooter | 40199 | [40199-scooter-shooter.json](./40199-scooter-shooter.json) |
 | Scooter Slayer | 358885 | [358885-scooter-slayer.json](./358885-scooter-slayer.json) |
 | Scooter Space | 223919 | [223919-scooter-space.json](./223919-scooter-space.json) |
@@ -7601,6 +7602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketch Heads | 250224 | [250224-sketch-heads.json](./250224-sketch-heads.json) |
 | Sketch Magician | 347100 | [347100-sketch-magician.json](./347100-sketch-magician.json) |
 | Sketch of a job that you had | 184090 | [184090-sketch-of-a-job-that-you-had.json](./184090-sketch-of-a-job-that-you-had.json) |
+| Sketch Rider | 235246 | [235246-sketch-rider.json](./235246-sketch-rider.json) |
 | Sketch Tales | 13161 | [13161-sketch-tales.json](./13161-sketch-tales.json) |
 | Sketch, Share, Solve: Video Games & Animals | 341154 | [341154-sketch-share-solve-video-games-and-animals.json](./341154-sketch-share-solve-video-games-and-animals.json) |
 | Sketch! Run! | 105886 | [105886-sketch-run.json](./105886-sketch-run.json) |
@@ -9986,6 +9988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Stars | 38059 | [38059-soccer-stars.json](./38059-soccer-stars.json) |
 | Soccer Story | 213264 | [213264-soccer-story.json](./213264-soccer-story.json) |
 | Soccer Sumos | 200143 | [200143-soccer-sumos.json](./200143-soccer-sumos.json) |
+| Soccer Super Star | 235119 | [235119-soccer-super-star.json](./235119-soccer-super-star.json) |
 | Soccer Superstar | 358393 | [358393-soccer-superstar.json](./358393-soccer-superstar.json) |
 | Soccer Superstars | 38837 | [38837-soccer-superstars.json](./38837-soccer-superstars.json) |
 | Soccer Team Manager: English and Italian Leagues | 93376 | [93376-soccer-team-manager-english-and-italian-leagues.json](./93376-soccer-team-manager-english-and-italian-leagues.json) |
@@ -13261,6 +13264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Tapping Idle RPG for Touhou | 297644 | [297644-speed-tapping-idle-rpg-for-touhou.json](./297644-speed-tapping-idle-rpg-for-touhou.json) |
 | Speed Thief | 54383 | [54383-speed-thief.json](./54383-speed-thief.json) |
 | Speed Track Racing | 225757 | [225757-speed-track-racing.json](./225757-speed-track-racing.json) |
+| Speed Track: No Brakes | 235116 | [235116-speed-track-no-brakes.json](./235116-speed-track-no-brakes.json) |
 | Speed Train | 223909 | [223909-speed-train.json](./223909-speed-train.json) |
 | Speed Trip | 93144 | [93144-speed-trip.json](./93144-speed-trip.json) |
 | Speed Truck Racing | 147638 | [147638-speed-truck-racing.json](./147638-speed-truck-racing.json) |
@@ -14568,6 +14572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpyHunter | 4166 | [4166-spyhunter.json](./4166-spyhunter.json) |
 | Spykebots | 113706 | [113706-spykebots.json](./113706-spykebots.json) |
 | SpyLens: Sex in focus | 368622 | [368622-spylens-sex-in-focus.json](./368622-spylens-sex-in-focus.json) |
+| Spymaster | 235249 | [235249-spymaster.json](./235249-spymaster.json) |
 | Spymaster | 395813 | [395813-spymaster.json](./395813-spymaster.json) |
 | Spyragon | 227809 | [227809-spyragon.json](./227809-spyragon.json) |
 | Spyrazoid | 227833 | [227833-spyrazoid.json](./227833-spyrazoid.json) |
@@ -19425,6 +19430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Caesars Palace | 9622 | [9622-super-caesars-palace.json](./9622-super-caesars-palace.json) |
 | Super Cakeboy | 240816 | [240816-super-cakeboy.json](./240816-super-cakeboy.json) |
 | Super Calm Bros. 3 | 214718 | [214718-super-calm-bros-3.json](./214718-super-calm-bros-3.json) |
+| Super Candy Ball: Color Clash | 235253 | [235253-super-candy-ball-color-clash.json](./235253-super-candy-ball-color-clash.json) |
 | Super Capsule Boy | 334508 | [334508-super-capsule-boy.json](./334508-super-capsule-boy.json) |
 | Super Captain 3D | 111485 | [111485-super-captain-3d.json](./111485-super-captain-3d.json) |
 | Super Captain Flying Robot City Rescue Mission | 96008 | [96008-super-captain-flying-robot-city-rescue-mission.json](./96008-super-captain-flying-robot-city-rescue-mission.json) |
@@ -20939,6 +20945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Snowball Sunday | 74334 | [74334-super-snowball-sunday.json](./74334-super-snowball-sunday.json) |
 | Super Soakdown | 245731 | [245731-super-soakdown.json](./245731-super-soakdown.json) |
 | Super Soccer | 172784 | [172784-super-soccer.json](./172784-super-soccer.json) |
+| Super Soccer | 235103 | [235103-super-soccer.json](./235103-super-soccer.json) |
 | Super Soccer | 292605 | [292605-super-soccer.json](./292605-super-soccer.json) |
 | Super Soccer | 346772 | [346772-super-soccer.json](./346772-super-soccer.json) |
 | Super Soccer Champ | 38394 | [38394-super-soccer-champ.json](./38394-super-soccer-champ.json) |
