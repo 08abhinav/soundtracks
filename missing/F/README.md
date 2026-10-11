@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Face Raiders | 66060 | [66060-face-raiders.json](./66060-face-raiders.json) |
 | Face The Abyss | 340049 | [340049-face-the-abyss.json](./340049-face-the-abyss.json) |
 | Face the Immortal | 392243 | [392243-face-the-immortal.json](./392243-face-the-immortal.json) |
+| Face Word | 232482 | [232482-face-word.json](./232482-face-word.json) |
 | Face Wound | 64132 | [64132-face-wound.json](./64132-face-wound.json) |
 | Face Your Faces | 72763 | [72763-face-your-faces.json](./72763-face-your-faces.json) |
 | Face-Off | 84180 | [84180-face-off.json](./84180-face-off.json) |
@@ -5253,6 +5254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower Flurry | 255129 | [255129-flower-flurry.json](./255129-flower-flurry.json) |
 | Flower Garden | 346057 | [346057-flower-garden.json](./346057-flower-garden.json) |
 | Flower Garden Tycoon | 146732 | [146732-flower-garden-tycoon.json](./146732-flower-garden-tycoon.json) |
+| Flower Garden: Connect Mania | 232485 | [232485-flower-garden-connect-mania.json](./232485-flower-garden-connect-mania.json) |
 | Flower in the Snow: Resurrection | 164998 | [164998-flower-in-the-snow-resurrection.json](./164998-flower-in-the-snow-resurrection.json) |
 | Flower in Us | 263601 | [263601-flower-in-us.json](./263601-flower-in-us.json) |
 | Flower Knight Girl | 109196 | [109196-flower-knight-girl.json](./109196-flower-knight-girl.json) |
@@ -7158,6 +7160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freak Factory | 265664 | [265664-freak-factory.json](./265664-freak-factory.json) |
 | Freak Fortress 2 | 363055 | [363055-freak-fortress-2.json](./363055-freak-fortress-2.json) |
 | Freak House | 292236 | [292236-freak-house.json](./292236-freak-house.json) |
+| Freak Run | 232334 | [232334-freak-run.json](./232334-freak-run.json) |
 | Freaked Fleapit | 204437 | [204437-freaked-fleapit.json](./204437-freaked-fleapit.json) |
 | Freakfield 2042 | 195268 | [195268-freakfield-2042.json](./195268-freakfield-2042.json) |
 | Freakhunter | 281487 | [281487-freakhunter.json](./281487-freakhunter.json) |
@@ -8016,6 +8019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Rune | 379163 | [379163-frozen-rune.json](./379163-frozen-rune.json) |
 | Frozen Shelter | 247623 | [247623-frozen-shelter.json](./247623-frozen-shelter.json) |
 | Frozen Ship | 330831 | [330831-frozen-ship.json](./330831-frozen-ship.json) |
+| Frozen Slushy Maker | 232345 | [232345-frozen-slushy-maker.json](./232345-frozen-slushy-maker.json) |
 | Frozen Soul | 103649 | [103649-frozen-soul.json](./103649-frozen-soul.json) |
 | Frozen State | 16935 | [16935-frozen-state.json](./16935-frozen-state.json) |
 | Frozen Sword: Countermark RE | 216474 | [216474-frozen-sword-countermark-re.json](./216474-frozen-sword-countermark-re.json) |
