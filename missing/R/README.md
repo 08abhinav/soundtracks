@@ -2435,6 +2435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Gate | 118360 | [118360-red-gate.json](./118360-red-gate.json) |
 | Red Genesis | 367592 | [367592-red-genesis.json](./367592-red-genesis.json) |
 | Red Genie: An Eidola Tale | 258737 | [258737-red-genie-an-eidola-tale.json](./258737-red-genie-an-eidola-tale.json) |
+| Red Glare | 235647 | [235647-red-glare.json](./235647-red-glare.json) |
 | Red Goddess: Inner World | 15912 | [15912-red-goddess-inner-world.json](./15912-red-goddess-inner-world.json) |
 | Red Goes Faster | 173090 | [173090-red-goes-faster.json](./173090-red-goes-faster.json) |
 | Red Grimly Tale | 397131 | [397131-red-grimly-tale.json](./397131-red-grimly-tale.json) |
@@ -4715,6 +4716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Right Swipes: Blast Date | 200735 | [200735-right-swipes-blast-date.json](./200735-right-swipes-blast-date.json) |
 | Right Way | 157047 | [157047-right-way.json](./157047-right-way.json) |
 | Righteous Kill | 209161 | [209161-righteous-kill.json](./209161-righteous-kill.json) |
+| Righteous Mojo | 235651 | [235651-righteous-mojo.json](./235651-righteous-mojo.json) |
 | Rightfully, Beary Arms | 197126 | [197126-rightfully-beary-arms.json](./197126-rightfully-beary-arms.json) |
 | Rights of Progression | 229921 | [229921-rights-of-progression.json](./229921-rights-of-progression.json) |
 | Righty Tighty XL | 99653 | [99653-righty-tighty-xl.json](./99653-righty-tighty-xl.json) |
@@ -8019,6 +8021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Survivors | 344991 | [344991-russian-survivors.json](./344991-russian-survivors.json) |
 | Russian Test | 370548 | [370548-russian-test.json](./370548-russian-test.json) |
 | Russian Train Trip | 189054 | [189054-russian-train-trip.json](./189054-russian-train-trip.json) |
+| Russian Train Trip 2 | 235640 | [235640-russian-train-trip-2.json](./235640-russian-train-trip-2.json) |
 | Russian Village Simulator | 253458 | [253458-russian-village-simulator.json](./253458-russian-village-simulator.json) |
 | Russian VR Coasters | 32005 | [32005-russian-vr-coasters.json](./32005-russian-vr-coasters.json) |
 | Russian Warship | 267444 | [267444-russian-warship.json](./267444-russian-warship.json) |
