@@ -2681,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Feed | 323795 | [323795-night-feed.json](./323795-night-feed.json) |
 | Night Feeder | 279104 | [279104-night-feeder.json](./279104-night-feeder.json) |
 | Night Fighter | 41570 | [41570-night-fighter.json](./41570-night-fighter.json) |
+| Night Flight | 233026 | [233026-night-flight.json](./233026-night-flight.json) |
 | Night Flight | 297492 | [297492-night-flight.json](./297492-night-flight.json) |
 | Night Flight | 42137 | [42137-night-flight.json](./42137-night-flight.json) |
 | Night Forest | 31285 | [31285-night-forest.json](./31285-night-forest.json) |
@@ -3079,6 +3080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nike+ Kinect Training | 21010 | [21010-nike-kinect-training.json](./21010-nike-kinect-training.json) |
 | Nikka: Rise | 235486 | [235486-nikka-rise.json](./235486-nikka-rise.json) |
 | Nikkan Berutomo Club | 64904 | [64904-nikkan-berutomo-club.json](./64904-nikkan-berutomo-club.json) |
+| Nikki no Tabisuru Quiz | 232905 | [232905-nikki-no-tabisuru-quiz.json](./232905-nikki-no-tabisuru-quiz.json) |
 | Nikki Up2U: A Dressing Story | 62427 | [62427-nikki-up2u-a-dressing-story.json](./62427-nikki-up2u-a-dressing-story.json) |
 | Niko | 410351 | [410351-niko.json](./410351-niko.json) |
 | Niko and the Cubic Curse | 169339 | [169339-niko-and-the-cubic-curse.json](./169339-niko-and-the-cubic-curse.json) |
@@ -4876,6 +4878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nursery Rhyme | 69306 | [69306-nursery-rhyme.json](./69306-nursery-rhyme.json) |
 | Nursery Slime | 195642 | [195642-nursery-slime.json](./195642-nursery-slime.json) |
 | Nurtopu: Fetö ile Mücadele | 204357 | [204357-nurtopu-feto-ile-mucadele.json](./204357-nurtopu-feto-ile-mucadele.json) |
+| Nurtured Human Plan: Meet a Date | 233031 | [233031-nurtured-human-plan-meet-a-date.json](./233031-nurtured-human-plan-meet-a-date.json) |
 | Nurujiru | 97671 | [97671-nurujiru.json](./97671-nurujiru.json) |
 | Nusakana | 34496 | [34496-nusakana.json](./34496-nusakana.json) |
 | Nusantara | 240772 | [240772-nusantara.json](./240772-nusantara.json) |
