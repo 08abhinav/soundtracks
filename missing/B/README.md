@@ -10727,6 +10727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BulletHeck | 265207 | [265207-bulletheck.json](./265207-bulletheck.json) |
 | BulletHell Planes | 135045 | [135045-bullethell-planes.json](./135045-bullethell-planes.json) |
 | Bulletline | 101365 | [101365-bulletline.json](./101365-bulletline.json) |
+| BulletLive | 235660 | [235660-bulletlive.json](./235660-bulletlive.json) |
 | Bulletnico | 334497 | [334497-bulletnico.json](./334497-bulletnico.json) |
 | Bulletombe | 316367 | [316367-bulletombe.json](./316367-bulletombe.json) |
 | Bulletorium | 121401 | [121401-bulletorium.json](./121401-bulletorium.json) |
