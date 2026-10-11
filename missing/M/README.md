@@ -2022,6 +2022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mantras 3D | 100114 | [100114-mantras-3d.json](./100114-mantras-3d.json) |
 | Manual Intervention | 135060 | [135060-manual-intervention.json](./135060-manual-intervention.json) |
 | Manual Intervention VR | 154089 | [154089-manual-intervention-vr.json](./154089-manual-intervention-vr.json) |
+| Manual Overcycle | 239104 | [239104-manual-overcycle.json](./239104-manual-overcycle.json) |
 | Manufactoria 2022 | 150616 | [150616-manufactoria-2022.json](./150616-manufactoria-2022.json) |
 | Manufactory | 184414 | [184414-manufactory.json](./184414-manufactory.json) |
 | Manufactur'inc. | 265956 | [265956-manufacturinc.json](./265956-manufacturinc.json) |
@@ -3632,6 +3633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Genius: Multiplication | 321483 | [321483-math-genius-multiplication.json](./321483-math-genius-multiplication.json) |
 | Math Genius: Subtraction | 333204 | [333204-math-genius-subtraction.json](./333204-math-genius-subtraction.json) |
 | Math Gym | 186703 | [186703-math-gym.json](./186703-math-gym.json) |
+| Math Heroes | 238935 | [238935-math-heroes.json](./238935-math-heroes.json) |
 | Math Invaders | 209546 | [209546-math-invaders.json](./209546-math-invaders.json) |
 | Math is Horror | 278542 | [278542-math-is-horror.json](./278542-math-is-horror.json) |
 | Math it Right 3D Adventure | 190960 | [190960-math-it-right-3d-adventure.json](./190960-math-it-right-3d-adventure.json) |
@@ -8253,6 +8255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MinMe | 241050 | [241050-minme.json](./241050-minme.json) |
 | Minna de Asobo: Shanghai DS 2 | 71570 | [71570-minna-de-asobo-shanghai-ds-2.json](./71570-minna-de-asobo-shanghai-ds-2.json) |
 | Minna de Asobou: Koinu de Kururin | 408865 | [408865-minna-de-asobou-koinu-de-kururin.json](./408865-minna-de-asobou-koinu-de-kururin.json) |
+| Minna de Hayaoshi Quiz | 238971 | [238971-minna-de-hayaoshi-quiz.json](./238971-minna-de-hayaoshi-quiz.json) |
 | Minna de Nanpure | 55939 | [55939-minna-de-nanpure.json](./55939-minna-de-nanpure.json) |
 | Minna de Noujiru! Warumono Nage-houdai! Ningen Medal Game | 358495 | [358495-minna-de-noujiru-warumono-nage-houdai-ningen-medal-game.json](./358495-minna-de-noujiru-warumono-nage-houdai-ningen-medal-game.json) |
 | Minna de Shitendo DS: Hanshichi Yuumon & Ango & Ago Juurou & Hatamoto Taikutsu Otoko | 269589 | [269589-minna-de-shitendo-ds-hanshichi-yuumon-and-ango-and-ago-juurou-and-hatamoto-taikutsu-otoko.json](./269589-minna-de-shitendo-ds-hanshichi-yuumon-and-ango-and-ago-juurou-and-hatamoto-taikutsu-otoko.json) |
