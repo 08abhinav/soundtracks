@@ -1443,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joan Mad Run | 58611 | [58611-joan-mad-run.json](./58611-joan-mad-run.json) |
 | Joan of Arc: The Beginning | 127841 | [127841-joan-of-arc-the-beginning.json](./127841-joan-of-arc-the-beginning.json) |
 | Joanie | 176386 | [176386-joanie.json](./176386-joanie.json) |
+| Job at Risk | 236172 | [236172-job-at-risk.json](./236172-job-at-risk.json) |
 | Job Battle Simulator: Accurate Physics Showdown | 348253 | [348253-job-battle-simulator-accurate-physics-showdown.json](./348253-job-battle-simulator-accurate-physics-showdown.json) |
 | Job Burnout | 414153 | [414153-job-burnout.json](./414153-job-burnout.json) |
 | Job Fit For a Devil | 369044 | [369044-job-fit-for-a-devil.json](./369044-job-fit-for-a-devil.json) |
