@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daggerfall Unity | 127936 | [127936-daggerfall-unity.json](./127936-daggerfall-unity.json) |
 | Daggerhood | 115426 | [115426-daggerhood.json](./115426-daggerhood.json) |
 | Daggers Cavern | 308469 | [308469-daggers-cavern.json](./308469-daggers-cavern.json) |
+| Dagon: The Little Glass Bottle | 234512 | [234512-dagon-the-little-glass-bottle.json](./234512-dagon-the-little-glass-bottle.json) |
 | Dagon: The Railway Horror | 266823 | [266823-dagon-the-railway-horror.json](./266823-dagon-the-railway-horror.json) |
 | Dah-Varsity | 304205 | [304205-dah-varsity.json](./304205-dah-varsity.json) |
 | Dahalo | 127252 | [127252-dahalo.json](./127252-dahalo.json) |
@@ -6088,6 +6089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt 3: Complete Edition | 47381 | [47381-dirt-3-complete-edition.json](./47381-dirt-3-complete-edition.json) |
 | Dirt 3: Horn Pack | 234918 | [234918-dirt-3-horn-pack.json](./234918-dirt-3-horn-pack.json) |
 | Dirt 3: Ken Block Special Pack | 234666 | [234666-dirt-3-ken-block-special-pack.json](./234666-dirt-3-ken-block-special-pack.json) |
+| Dirt 3: Monte Carlo Track Pack | 234663 | [234663-dirt-3-monte-carlo-track-pack.json](./234663-dirt-3-monte-carlo-track-pack.json) |
 | Dirt 3: Mud and Guts Car Pack | 234667 | [234667-dirt-3-mud-and-guts-car-pack.json](./234667-dirt-3-mud-and-guts-car-pack.json) |
 | Dirt 5: Amplified Edition | 136248 | [136248-dirt-5-amplified-edition.json](./136248-dirt-5-amplified-edition.json) |
 | Dirt 5: Ford Raptor Edition | 146133 | [146133-dirt-5-ford-raptor-edition.json](./146133-dirt-5-ford-raptor-edition.json) |
@@ -8065,6 +8067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Sprint! | 134445 | [134445-doodle-sprint.json](./134445-doodle-sprint.json) |
 | Doodle Tanks | 76181 | [76181-doodle-tanks.json](./76181-doodle-tanks.json) |
 | Doodle Taxi | 258605 | [258605-doodle-taxi.json](./258605-doodle-taxi.json) |
+| Doodle TD | 234644 | [234644-doodle-td.json](./234644-doodle-td.json) |
 | Doodle TD 2 | 295800 | [295800-doodle-td-2.json](./295800-doodle-td-2.json) |
 | Doodle Truck 2 | 249663 | [249663-doodle-truck-2.json](./249663-doodle-truck-2.json) |
 | Doodle UFO | 246972 | [246972-doodle-ufo.json](./246972-doodle-ufo.json) |
@@ -10227,6 +10230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Clicker | 233496 | [233496-drift-clicker.json](./233496-drift-clicker.json) |
 | Drift Draft Destroy | 240927 | [240927-drift-draft-destroy.json](./240927-drift-draft-destroy.json) |
 | Drift Empire | 390257 | [390257-drift-empire.json](./390257-drift-empire.json) |
+| Drift Experience Japan | 234533 | [234533-drift-experience-japan.json](./234533-drift-experience-japan.json) |
 | Drift Gang | 372449 | [372449-drift-gang.json](./372449-drift-gang.json) |
 | Drift Gear Racing Free | 30745 | [30745-drift-gear-racing-free.json](./30745-drift-gear-racing-free.json) |
 | Drift Girls | 58786 | [58786-drift-girls.json](./58786-drift-girls.json) |
