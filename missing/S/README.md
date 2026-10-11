@@ -1852,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scepter of Kzirgla | 356688 | [356688-scepter-of-kzirgla.json](./356688-scepter-of-kzirgla.json) |
 | Sceptorn | 391211 | [391211-sceptorn.json](./391211-sceptorn.json) |
 | Sceptre of Bagdad | 47143 | [47143-sceptre-of-bagdad.json](./47143-sceptre-of-bagdad.json) |
+| Schachkampf | 237238 | [237238-schachkampf.json](./237238-schachkampf.json) |
 | Schacht | 31775 | [31775-schacht.json](./31775-schacht.json) |
 | Schäferstündchen Adventures | 78920 | [78920-schaferstundchen-adventures.json](./78920-schaferstundchen-adventures.json) |
 | Schar: Blue Shield Alliance | 35941 | [35941-schar-blue-shield-alliance.json](./35941-schar-blue-shield-alliance.json) |
@@ -16478,6 +16479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steamy Livestreams with My Girlfriend | 396198 | [396198-steamy-livestreams-with-my-girlfriend.json](./396198-steamy-livestreams-with-my-girlfriend.json) |
 | Steamy Sextet | 127997 | [127997-steamy-sextet.json](./127997-steamy-sextet.json) |
 | STED: Iseki Wakusei no Yabou | 48703 | [48703-sted-iseki-wakusei-no-yabou.json](./48703-sted-iseki-wakusei-no-yabou.json) |
+| Steel | 237272 | [237272-steel.json](./237272-steel.json) |
 | Steel | 329915 | [329915-steel.json](./329915-steel.json) |
 | Steel | 74310 | [74310-steel.json](./74310-steel.json) |
 | Steel & Bone | 157984 | [157984-steel-and-bone.json](./157984-steel-and-bone.json) |
