@@ -1398,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks for the Memories | 65264 | [65264-tanks-for-the-memories.json](./65264-tanks-for-the-memories.json) |
 | Tanks Logic Puzzle | 339418 | [339418-tanks-logic-puzzle.json](./339418-tanks-logic-puzzle.json) |
 | Tanks Meet Zombies | 81672 | [81672-tanks-meet-zombies.json](./81672-tanks-meet-zombies.json) |
+| Tanks of Battle: World War 2 | 233420 | [233420-tanks-of-battle-world-war-2.json](./233420-tanks-of-battle-world-war-2.json) |
 | Tanks of Freedom II | 309548 | [309548-tanks-of-freedom-ii.json](./309548-tanks-of-freedom-ii.json) |
 | Tanks Online | 384275 | [384275-tanks-online.json](./384275-tanks-online.json) |
 | Tanks Racing Sim | 339417 | [339417-tanks-racing-sim.json](./339417-tanks-racing-sim.json) |
@@ -3346,6 +3347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Texturetown | 411742 | [411742-texturetown.json](./411742-texturetown.json) |
 | Tezcatlipoca | 350488 | [350488-tezcatlipoca.json](./350488-tezcatlipoca.json) |
 | Tezotopia | 215019 | [215019-tezotopia.json](./215019-tezotopia.json) |
+| Tezuka World: Astro Crunch | 233542 | [233542-tezuka-world-astro-crunch.json](./233542-tezuka-world-astro-crunch.json) |
 | Tezzel: The Tilemaker's Tale | 344923 | [344923-tezzel-the-tilemakers-tale.json](./344923-tezzel-the-tilemakers-tale.json) |
 | TFX | 44874 | [44874-tfx.json](./44874-tfx.json) |
 | TG Motocross 3 | 222858 | [222858-tg-motocross-3.json](./222858-tg-motocross-3.json) |
