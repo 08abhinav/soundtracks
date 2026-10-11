@@ -1446,6 +1446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raw Concrete | 369223 | [369223-raw-concrete.json](./369223-raw-concrete.json) |
 | Raw Data/Sprint Vector | 139965 | [139965-raw-data-sprint-vector.json](./139965-raw-data-sprint-vector.json) |
 | Raw Element | 341307 | [341307-raw-element.json](./341307-raw-element.json) |
+| Raw Metal | 236316 | [236316-raw-metal.json](./236316-raw-metal.json) |
 | Raw Nerve | 253567 | [253567-raw-nerve.json](./253567-raw-nerve.json) |
 | Rawbots | 62969 | [62969-rawbots.json](./62969-rawbots.json) |
 | Rawisland | 267449 | [267449-rawisland.json](./267449-rawisland.json) |
@@ -2459,6 +2460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Light | 345432 | [345432-red-light.json](./345432-red-light.json) |
 | Red Lightning | 57630 | [57630-red-lightning.json](./57630-red-lightning.json) |
 | Red Line | 272888 | [272888-red-line.json](./272888-red-line.json) |
+| Red List Girls: Andean Flamingo | 236314 | [236314-red-list-girls-andean-flamingo.json](./236314-red-list-girls-andean-flamingo.json) |
 | Red Lucy | 208283 | [208283-red-lucy.json](./208283-red-lucy.json) |
 | Red Machina Teaser: ThoughtJudger | 270939 | [270939-red-machina-teaser-thoughtjudger.json](./270939-red-machina-teaser-thoughtjudger.json) |
 | Red Magic | 291719 | [291719-red-magic.json](./291719-red-magic.json) |
