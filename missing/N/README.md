@@ -2125,6 +2125,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Kaizo Bros. | 214777 | [214777-new-super-kaizo-bros.json](./214777-new-super-kaizo-bros.json) |
 | New Super Luigi U Remastered Edition | 322777 | [322777-new-super-luigi-u-remastered-edition.json](./322777-new-super-luigi-u-remastered-edition.json) |
 | New Super Mario Bros. 2 | 1080 | [1080-new-super-mario-bros-2.json](./1080-new-super-mario-bros-2.json) |
+| New Super Mario Bros. 2: Gold Coin Edition | 233973 | [233973-new-super-mario-bros-2-gold-coin-edition.json](./233973-new-super-mario-bros-2-gold-coin-edition.json) |
+| New Super Mario Bros. 2: Gold Edition | 233975 | [233975-new-super-mario-bros-2-gold-edition.json](./233975-new-super-mario-bros-2-gold-edition.json) |
 | New Super Mario Bros. 3 DS | 252085 | [252085-new-super-mario-bros-3-ds.json](./252085-new-super-mario-bros-3-ds.json) |
 | New Super Mario Bros. 5: Clone Tag Team | 146278 | [146278-new-super-mario-bros-5-clone-tag-team.json](./146278-new-super-mario-bros-5-clone-tag-team.json) |
 | New Super Mario Bros. 5: Clone Tag Team 2 | 146279 | [146279-new-super-mario-bros-5-clone-tag-team-2.json](./146279-new-super-mario-bros-5-clone-tag-team-2.json) |
@@ -3021,6 +3023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightsoil | 391672 | [391672-nightsoil.json](./391672-nightsoil.json) |
 | Nightstar: Alliance | 103233 | [103233-nightstar-alliance.json](./103233-nightstar-alliance.json) |
 | Nightstar: Starfighter | 31815 | [31815-nightstar-starfighter.json](./31815-nightstar-starfighter.json) |
+| Nightstars | 233964 | [233964-nightstars.json](./233964-nightstars.json) |
 | NightStars: Project 1 | 314067 | [314067-nightstars-project-1.json](./314067-nightstars-project-1.json) |
 | Nightsteel Survivors | 255274 | [255274-nightsteel-survivors.json](./255274-nightsteel-survivors.json) |
 | NightStone | 86211 | [86211-nightstone.json](./86211-nightstone.json) |
