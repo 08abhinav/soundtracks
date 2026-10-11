@@ -474,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madou Monogatari III: Kyuukyoku Joou-sama | 45266 | [45266-madou-monogatari-iii-kyuukyoku-joou-sama.json](./45266-madou-monogatari-iii-kyuukyoku-joou-sama.json) |
 | Madou Monogatari: Hanamaru Daiyouchienji | 110397 | [110397-madou-monogatari-hanamaru-daiyouchienji.json](./110397-madou-monogatari-hanamaru-daiyouchienji.json) |
 | Madou Monogatari: Tower of the Magician | 252162 | [252162-madou-monogatari-tower-of-the-magician.json](./252162-madou-monogatari-tower-of-the-magician.json) |
+| Madoushi Lulba | 235095 | [235095-madoushi-lulba.json](./235095-madoushi-lulba.json) |
 | MadOut | 35679 | [35679-madout.json](./35679-madout.json) |
 | Madout Big City | 29580 | [29580-madout-big-city.json](./29580-madout-big-city.json) |
 | MadOut Ice Storm | 34479 | [34479-madout-ice-storm.json](./34479-madout-ice-storm.json) |
@@ -5032,6 +5033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Sports | 94333 | [94333-mega-sports.json](./94333-mega-sports.json) |
 | Mega Starforce: Return to the Great Star | 275311 | [275311-mega-starforce-return-to-the-great-star.json](./275311-mega-starforce-return-to-the-great-star.json) |
 | Mega Sudoku Plus | 59066 | [59066-mega-sudoku-plus.json](./59066-mega-sudoku-plus.json) |
+| Mega Sudoku: Binary & Suguru | 235258 | [235258-mega-sudoku-binary-and-suguru.json](./235258-mega-sudoku-binary-and-suguru.json) |
 | Mega Tetris 2000 | 125272 | [125272-mega-tetris-2000.json](./125272-mega-tetris-2000.json) |
 | Mega Turrican | 85286 | [85286-mega-turrican.json](./85286-mega-turrican.json) |
 | Mega Twins | 12184 | [12184-mega-twins.json](./12184-mega-twins.json) |
@@ -6029,6 +6031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mesuinu Moon | 97510 | [97510-mesuinu-moon.json](./97510-mesuinu-moon.json) |
 | Met Rage | 122970 | [122970-met-rage.json](./122970-met-rage.json) |
 | Meta | 260065 | [260065-meta.json](./260065-meta.json) |
+| Meta Apes | 235261 | [235261-meta-apes.json](./235261-meta-apes.json) |
 | Meta Ball | 237245 | [237245-meta-ball.json](./237245-meta-ball.json) |
 | Meta Form | 198485 | [198485-meta-form.json](./198485-meta-form.json) |
 | Meta Fox | 39689 | [39689-meta-fox.json](./39689-meta-fox.json) |
@@ -9745,6 +9748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mons | 178008 | [178008-mons.json](./178008-mons.json) |
 | Monst | 404184 | [404184-monst.json](./404184-monst.json) |
 | Monsta Bounce | 240923 | [240923-monsta-bounce.json](./240923-monsta-bounce.json) |
+| Monsta Infinite Tapwar | 235259 | [235259-monsta-infinite-tapwar.json](./235259-monsta-infinite-tapwar.json) |
 | Monstabox | 334134 | [334134-monstabox.json](./334134-monstabox.json) |
 | MonstaFish | 79190 | [79190-monstafish.json](./79190-monstafish.json) |
 | Monstania | 42486 | [42486-monstania.json](./42486-monstania.json) |
@@ -11763,6 +11767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Steal Yo Wifi | 107200 | [107200-mr-steal-yo-wifi.json](./107200-mr-steal-yo-wifi.json) |
 | Mr. Stretch and the Stolen Fortune | 249228 | [249228-mr-stretch-and-the-stolen-fortune.json](./249228-mr-stretch-and-the-stolen-fortune.json) |
 | Mr. Supershot | 274736 | [274736-mr-supershot.json](./274736-mr-supershot.json) |
+| Mr. Swing of the Window Cleaning Company | 235101 | [235101-mr-swing-of-the-window-cleaning-company.json](./235101-mr-swing-of-the-window-cleaning-company.json) |
 | Mr. Swop | 414572 | [414572-mr-swop.json](./414572-mr-swop.json) |
 | Mr. T | 84448 | [84448-mr-t.json](./84448-mr-t.json) |
 | Mr. T-Shirt | 329769 | [329769-mr-t-shirt.json](./329769-mr-t-shirt.json) |
@@ -13904,6 +13909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mytosis | 383140 | [383140-mytosis.json](./383140-mytosis.json) |
 | MyTP 3: Snowboard, Freeski and Skateboard | 99993 | [99993-mytp-3-snowboard-freeski-and-skateboard.json](./99993-mytp-3-snowboard-freeski-and-skateboard.json) |
 | MyTP Skateboarding | 197754 | [197754-mytp-skateboarding.json](./197754-mytp-skateboarding.json) |
+| MyTP Snowboarding 3 | 235115 | [235115-mytp-snowboarding-3.json](./235115-mytp-snowboarding-3.json) |
 | Mytran Wars | 19202 | [19202-mytran-wars.json](./19202-mytran-wars.json) |
 | Myulk | 334276 | [334276-myulk.json](./334276-myulk.json) |
 | MyVegas Blackjack | 370751 | [370751-myvegas-blackjack.json](./370751-myvegas-blackjack.json) |
