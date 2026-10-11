@@ -905,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Lefty Johnson's Rubbin' & Racin' | 114407 | [114407-old-lefty-johnsons-rubbin-and-racin.json](./114407-old-lefty-johnsons-rubbin-and-racin.json) |
 | Old Love: Story | 129768 | [129768-old-love-story.json](./129768-old-love-story.json) |
 | Old Magic Grandtower | 389398 | [389398-old-magic-grandtower.json](./389398-old-magic-grandtower.json) |
+| Old Maid | 232884 | [232884-old-maid.json](./232884-old-maid.json) |
 | Old Man's Guilt | 96081 | [96081-old-mans-guilt.json](./96081-old-mans-guilt.json) |
 | Old Market Simulator | 291232 | [291232-old-market-simulator.json](./291232-old-market-simulator.json) |
 | Old Mate Dave | 406105 | [406105-old-mate-dave.json](./406105-old-mate-dave.json) |
