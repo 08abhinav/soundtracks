@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waiting Game | 114787 | [114787-waiting-game.json](./114787-waiting-game.json) |
 | Waiting on the Finishline | 403791 | [403791-waiting-on-the-finishline.json](./403791-waiting-on-the-finishline.json) |
 | WaiWai Drive | 312353 | [312353-waiwai-drive.json](./312353-waiwai-drive.json) |
+| Wak Attak | 238350 | [238350-wak-attak.json](./238350-wak-attak.json) |
 | Waka-sama no Zasuru Sekai | 182336 | [182336-waka-sama-no-zasuru-sekai.json](./182336-waka-sama-no-zasuru-sekai.json) |
 | Wakabayashi Fumie no DS Kabu Lesson | 124127 | [124127-wakabayashi-fumie-no-ds-kabu-lesson.json](./124127-wakabayashi-fumie-no-ds-kabu-lesson.json) |
 | Wakamarina Valley, New Zealand | 134521 | [134521-wakamarina-valley-new-zealand.json](./134521-wakamarina-valley-new-zealand.json) |
@@ -645,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Words 2 | 232066 | [232066-war-of-words-2.json](./232066-war-of-words-2.json) |
 | War of Zanzor III: Birth of Unity | 301825 | [301825-war-of-zanzor-iii-birth-of-unity.json](./301825-war-of-zanzor-iii-birth-of-unity.json) |
 | War on Drugs VR | 96513 | [96513-war-on-drugs-vr.json](./96513-war-on-drugs-vr.json) |
+| War on the Street | 238369 | [238369-war-on-the-street.json](./238369-war-on-the-street.json) |
 | War Party | 81634 | [81634-war-party.json](./81634-war-party.json) |
 | War Pawns | 413204 | [413204-war-pawns.json](./413204-war-pawns.json) |
 | WAR Pig - Big Bang | 75003 | [75003-war-pig-big-bang.json](./75003-war-pig-big-bang.json) |
@@ -1194,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warp Shift | 95053 | [95053-warp-shift.json](./95053-warp-shift.json) |
 | Warp Soldier | 216486 | [216486-warp-soldier.json](./216486-warp-soldier.json) |
 | Warp Speed | 45568 | [45568-warp-speed.json](./45568-warp-speed.json) |
+| Warp Tango | 238543 | [238543-warp-tango.json](./238543-warp-tango.json) |
 | Warp to Sector One | 394552 | [394552-warp-to-sector-one.json](./394552-warp-to-sector-one.json) |
 | Warp Trash Flotilla | 178968 | [178968-warp-trash-flotilla.json](./178968-warp-trash-flotilla.json) |
 | Warp-1 | 57125 | [57125-warp-1.json](./57125-warp-1.json) |
@@ -4952,6 +4955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordspionage | 175391 | [175391-wordspionage.json](./175391-wordspionage.json) |
 | WordSpiral | 227777 | [227777-wordspiral.json](./227777-wordspiral.json) |
 | Wordsplash! | 28814 | [28814-wordsplash.json](./28814-wordsplash.json) |
+| WordSplit | 238385 | [238385-wordsplit.json](./238385-wordsplit.json) |
 | WordStorm | 96304 | [96304-wordstorm.json](./96304-wordstorm.json) |
 | Wordsum Blitz | 135067 | [135067-wordsum-blitz.json](./135067-wordsum-blitz.json) |
 | WordsUp! Academy | 84961 | [84961-wordsup-academy.json](./84961-wordsup-academy.json) |
