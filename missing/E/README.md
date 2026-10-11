@@ -2639,6 +2639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entrepreneurial tycoon | 236884 | [236884-entrepreneurial-tycoon.json](./236884-entrepreneurial-tycoon.json) |
 | Entropic Fracture | 369035 | [369035-entropic-fracture.json](./369035-entropic-fracture.json) |
 | Entropic Shop VR | 82036 | [82036-entropic-shop-vr.json](./82036-entropic-shop-vr.json) |
+| Entropoly | 236738 | [236738-entropoly.json](./236738-entropoly.json) |
 | Entropy | 188667 | [188667-entropy.json](./188667-entropy.json) |
 | Entropy | 285026 | [285026-entropy.json](./285026-entropy.json) |
 | Entropy | 339755 | [339755-entropy.json](./339755-entropy.json) |
@@ -3167,6 +3168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Death | 270110 | [270110-escape-from-death.json](./270110-escape-from-death.json) |
 | Escape from Death Moon | 116407 | [116407-escape-from-death-moon.json](./116407-escape-from-death-moon.json) |
 | Escape from Deathmark Dungeon | 195695 | [195695-escape-from-deathmark-dungeon.json](./195695-escape-from-deathmark-dungeon.json) |
+| Escape From Dimension-3 | 236722 | [236722-escape-from-dimension-3.json](./236722-escape-from-dimension-3.json) |
 | Escape From Duck | 394564 | [394564-escape-from-duck.json](./394564-escape-from-duck.json) |
 | Escape From Duckness | 395218 | [395218-escape-from-duckness.json](./395218-escape-from-duckness.json) |
 | Escape From Earth | 121458 | [121458-escape-from-earth.json](./121458-escape-from-earth.json) |
@@ -5085,6 +5087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye in the Sky | 28294 | [28294-eye-in-the-sky.json](./28294-eye-in-the-sky.json) |
 | Eye Juice | 403205 | [403205-eye-juice.json](./403205-eye-juice.json) |
 | Eye of Bain | 298804 | [298804-eye-of-bain.json](./298804-eye-of-bain.json) |
+| Eye of D'akess | 236732 | [236732-eye-of-dakess.json](./236732-eye-of-dakess.json) |
 | Eye of Horus | 12069 | [12069-eye-of-horus.json](./12069-eye-of-horus.json) |
 | Eye of Nollyn | 276193 | [276193-eye-of-nollyn.json](./276193-eye-of-nollyn.json) |
 | Eye of Ouroboros | 158130 | [158130-eye-of-ouroboros.json](./158130-eye-of-ouroboros.json) |
