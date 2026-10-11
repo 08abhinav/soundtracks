@@ -1729,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action-Strategy Baseball | 72966 | [72966-action-strategy-baseball.json](./72966-action-strategy-baseball.json) |
 | ActionCam: Supernatural Case | 333529 | [333529-actioncam-supernatural-case.json](./333529-actioncam-supernatural-case.json) |
 | Actionpaint VR | 107931 | [107931-actionpaint-vr.json](./107931-actionpaint-vr.json) |
+| Activate | 231819 | [231819-activate.json](./231819-activate.json) |
 | Activate the Three Artefacts and then Leave | 139153 | [139153-activate-the-three-artefacts-and-then-leave.json](./139153-activate-the-three-artefacts-and-then-leave.json) |
 | Active 2048 Body Control | 379473 | [379473-active-2048-body-control.json](./379473-active-2048-body-control.json) |
 | Active Color | 241354 | [241354-active-color.json](./241354-active-color.json) |
@@ -2259,6 +2260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aenigmarch | 360655 | [360655-aenigmarch.json](./360655-aenigmarch.json) |
 | Aeoliada | 353882 | [353882-aeoliada.json](./353882-aeoliada.json) |
 | Aeolus Fighter | 236797 | [236797-aeolus-fighter.json](./236797-aeolus-fighter.json) |
+| Aeolus Fighter 2 | 231827 | [231827-aeolus-fighter-2.json](./231827-aeolus-fighter-2.json) |
 | Aeolus Fighter 3 | 265585 | [265585-aeolus-fighter-3.json](./265585-aeolus-fighter-3.json) |
 | Aeon Flux | 15847 | [15847-aeon-flux.json](./15847-aeon-flux.json) |
 | Aeon Guard | 381196 | [381196-aeon-guard.json](./381196-aeon-guard.json) |
@@ -2850,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aglet: The Sneaker Game | 205586 | [205586-aglet-the-sneaker-game.json](./205586-aglet-the-sneaker-game.json) |
 | Aglobo | 342036 | [342036-aglobo.json](./342036-aglobo.json) |
 | Agni | 192786 | [192786-agni.json](./192786-agni.json) |
+| Agni Fighter | 231825 | [231825-agni-fighter.json](./231825-agni-fighter.json) |
 | Agnostic Requiem | 273363 | [273363-agnostic-requiem.json](./273363-agnostic-requiem.json) |
 | Agnostiko Origins | 305986 | [305986-agnostiko-origins.json](./305986-agnostiko-origins.json) |
 | Agon: The Lost Sword of Toledo | 9953 | [9953-agon-the-lost-sword-of-toledo.json](./9953-agon-the-lost-sword-of-toledo.json) |
@@ -3079,6 +3082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Attack 2 | 266740 | [266740-air-attack-2.json](./266740-air-attack-2.json) |
 | Air Attack 3.0, Aerial Firefighting Game | 127851 | [127851-air-attack-3-0-aerial-firefighting-game.json](./127851-air-attack-3-0-aerial-firefighting-game.json) |
 | Air Attack 3D: Sky War | 223960 | [223960-air-attack-3d-sky-war.json](./223960-air-attack-3d-sky-war.json) |
+| Air Attack VR | 231844 | [231844-air-attack-vr.json](./231844-air-attack-vr.json) |
 | Air Ball 2 | 146818 | [146818-air-ball-2.json](./146818-air-ball-2.json) |
 | Air Battle Chess | 197361 | [197361-air-battle-chess.json](./197361-air-battle-chess.json) |
 | AIR Battlefront | 117477 | [117477-air-battlefront.json](./117477-air-battlefront.json) |
@@ -7968,6 +7972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archer boy | 158076 | [158076-archer-boy.json](./158076-archer-boy.json) |
 | Archer Defenders | 231982 | [231982-archer-defenders.json](./231982-archer-defenders.json) |
 | Archer Guardian VR : The Chapter Zero | 30770 | [30770-archer-guardian-vr-the-chapter-zero.json](./30770-archer-guardian-vr-the-chapter-zero.json) |
+| Archer Hero Must Die | 231824 | [231824-archer-hero-must-die.json](./231824-archer-hero-must-die.json) |
 | Archer Maclean's 3D Pool | 248632 | [248632-archer-macleans-3d-pool.json](./248632-archer-macleans-3d-pool.json) |
 | Archer Maclean's 3D Pool | 49315 | [49315-archer-macleans-3d-pool.json](./49315-archer-macleans-3d-pool.json) |
 | Archer Maclean's DropZone: 40th Anniversary Edition | 325012 | [325012-archer-macleans-dropzone-40th-anniversary-edition.json](./325012-archer-macleans-dropzone-40th-anniversary-edition.json) |
@@ -9950,6 +9955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrumis: Survive Together | 321058 | [321058-astrumis-survive-together.json](./321058-astrumis-survive-together.json) |
 | Astrune Academy | 303834 | [303834-astrune-academy.json](./303834-astrune-academy.json) |
 | Astyanax | 9036 | [9036-astyanax.json](./9036-astyanax.json) |
+| ASU | 231775 | [231775-asu.json](./231775-asu.json) |
 | Asu Kano! Asu mo Kanojo to Issho! | 209141 | [209141-asu-kano-asu-mo-kanojo-to-issho.json](./209141-asu-kano-asu-mo-kanojo-to-issho.json) |
 | Asu Owaru Sekai, Sono Zenya | 255325 | [255325-asu-owaru-sekai-sono-zenya.json](./255325-asu-owaru-sekai-sono-zenya.json) |
 | Asuka & Asuka | 38515 | [38515-asuka-and-asuka.json](./38515-asuka-and-asuka.json) |
@@ -10966,6 +10972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avoid the Awful Thing that Vaguely Resembles a Banana!! | 69312 | [69312-avoid-the-awful-thing-that-vaguely-resembles-a-banana.json](./69312-avoid-the-awful-thing-that-vaguely-resembles-a-banana.json) |
 | Avoid the Monsters | 54450 | [54450-avoid-the-monsters.json](./54450-avoid-the-monsters.json) |
 | Avoid the Noid | 14445 | [14445-avoid-the-noid.json](./14445-avoid-the-noid.json) |
+| Avoid the Rain 2 | 231836 | [231836-avoid-the-rain-2.json](./231836-avoid-the-rain-2.json) |
 | Avoid the Threats | 359439 | [359439-avoid-the-threats.json](./359439-avoid-the-threats.json) |
 | Avoid Them: Breakthrough Gaming Arcade | 146250 | [146250-avoid-them-breakthrough-gaming-arcade.json](./146250-avoid-them-breakthrough-gaming-arcade.json) |
 | Avoid: Sensory Overload | 17169 | [17169-avoid-sensory-overload.json](./17169-avoid-sensory-overload.json) |
@@ -11170,6 +11177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aya | 324963 | [324963-aya.json](./324963-aya.json) |
 | Aya & Naya | 260882 | [260882-aya-and-naya.json](./260882-aya-and-naya.json) |
 | Aya Go | 91740 | [91740-aya-go.json](./91740-aya-go.json) |
+| Aya Shameimaru's Case File | 231785 | [231785-aya-shameimarus-case-file.json](./231785-aya-shameimarus-case-file.json) |
 | Aya: The Tale of Tails | 244161 | [244161-aya-the-tale-of-tails.json](./244161-aya-the-tale-of-tails.json) |
 | Ayakashi & Sweets | 298879 | [298879-ayakashi-and-sweets.json](./298879-ayakashi-and-sweets.json) |
 | Ayakashi Gohan: Okawari! | 200008 | [200008-ayakashi-gohan-okawari.json](./200008-ayakashi-gohan-okawari.json) |
