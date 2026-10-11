@@ -1148,6 +1148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Janshi Suchie-Pai Mecha Genteiban: Hatsubai 5 Shuunen (Toku) Package | 85821 | [85821-idol-janshi-suchie-pai-mecha-genteiban-hatsubai-5-shuunen-toku-package.json](./85821-idol-janshi-suchie-pai-mecha-genteiban-hatsubai-5-shuunen-toku-package.json) |
 | Idol Janshi Suchie-Pai Special | 4305 | [4305-idol-janshi-suchie-pai-special.json](./4305-idol-janshi-suchie-pai-special.json) |
 | Idol Janshi Suchie-Pai: Milky no Yabou | 299296 | [299296-idol-janshi-suchie-pai-milky-no-yabou.json](./299296-idol-janshi-suchie-pai-milky-no-yabou.json) |
+| Idol Janshi Suchie-Pai: Saturn Tribute - Limited Edition | 233951 | [233951-idol-janshi-suchie-pai-saturn-tribute-limited-edition.json](./233951-idol-janshi-suchie-pai-saturn-tribute-limited-edition.json) |
 | Idol Janshi wo Tsukucchaou | 92138 | [92138-idol-janshi-wo-tsukucchaou.json](./92138-idol-janshi-wo-tsukucchaou.json) |
 | Idol Kingdom | 405517 | [405517-idol-kingdom.json](./405517-idol-kingdom.json) |
 | Idol Land PriPara | 266402 | [266402-idol-land-pripara.json](./266402-idol-land-pripara.json) |
@@ -1329,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikemen Sengoku: Romances Across Time | 145953 | [145953-ikemen-sengoku-romances-across-time.json](./145953-ikemen-sengoku-romances-across-time.json) |
 | Ikemen Vampire: Temptation in the Dark | 225536 | [225536-ikemen-vampire-temptation-in-the-dark.json](./225536-ikemen-vampire-temptation-in-the-dark.json) |
 | Ikemen Villains: Wrapped in Wicked Romance | 229033 | [229033-ikemen-villains-wrapped-in-wicked-romance.json](./229033-ikemen-villains-wrapped-in-wicked-romance.json) |
+| Ikenai Kanojo no Yarisugi na Uwaki Karada ga Motomeru Abunai Otona no Giri-giri na Rennai Game | 233949 | [233949-ikenai-kanojo-no-yarisugi-na-uwaki-karada-ga-motomeru-abunai-otona-no-giri-giri-na-rennai-game.json](./233949-ikenai-kanojo-no-yarisugi-na-uwaki-karada-ga-motomeru-abunai-otona-no-giri-giri-na-rennai-game.json) |
 | Ikenie | 31798 | [31798-ikenie.json](./31798-ikenie.json) |
 | Ikibago | 85185 | [85185-ikibago.json](./85185-ikibago.json) |
 | Ikkarus and the Prince of Sin | 211804 | [211804-ikkarus-and-the-prince-of-sin.json](./211804-ikkarus-and-the-prince-of-sin.json) |
