@@ -3969,6 +3969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Nezuko Advanced Demon Form | 213410 | [213410-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-nezuko-advanced-demon-form.json](./213410-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-nezuko-advanced-demon-form.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Shinobu Kocho (Infinity Castle) Character Pack | 376259 | [376259-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-shinobu-kocho-infinity-castle-character-pack.json](./376259-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-shinobu-kocho-infinity-castle-character-pack.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Tanjiro Kamado (Infinity Castle) Character Pack | 376258 | [376258-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tanjiro-kamado-infinity-castle-character-pack.json](./376258-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tanjiro-kamado-infinity-castle-character-pack.json) |
+| Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Tanjiro, Zenitsu, and Inosuke - Character Pack | 237992 | [237992-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tanjiro-zenitsu-and-inosuke-character-pack.json](./237992-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tanjiro-zenitsu-and-inosuke-character-pack.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Zenitsu Agatsuma (Infinity Castle) Character Pack | 376257 | [376257-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-zenitsu-agatsuma-infinity-castle-character-pack.json](./376257-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-zenitsu-agatsuma-infinity-castle-character-pack.json) |
 | Demon Stalkers | 54711 | [54711-demon-stalkers.json](./54711-demon-stalkers.json) |
 | Demon Stick | 376051 | [376051-demon-stick.json](./376051-demon-stick.json) |
@@ -6374,6 +6375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Classics: Master Mouse - Show Time Quiz | 228447 | [228447-disney-classics-master-mouse-show-time-quiz.json](./228447-disney-classics-master-mouse-show-time-quiz.json) |
 | Disney Coloring Book | 290321 | [290321-disney-coloring-book.json](./290321-disney-coloring-book.json) |
 | Disney Dreamlight Valley | 198506 | [198506-disney-dreamlight-valley.json](./198506-disney-dreamlight-valley.json) |
+| Disney Dreamlight Valley: A Festival of Friendship | 237836 | [237836-disney-dreamlight-valley-a-festival-of-friendship.json](./237836-disney-dreamlight-valley-a-festival-of-friendship.json) |
 | Disney Dreamlight Valley: A Rift in Time - Chapter 1: Welcome to Eternity Isle | 279238 | [279238-disney-dreamlight-valley-a-rift-in-time-chapter-1-welcome-to-eternity-isle.json](./279238-disney-dreamlight-valley-a-rift-in-time-chapter-1-welcome-to-eternity-isle.json) |
 | Disney Dreamlight Valley: Arcade Edition | 357417 | [357417-disney-dreamlight-valley-arcade-edition.json](./357417-disney-dreamlight-valley-arcade-edition.json) |
 | Disney Dreamlight Valley: Cozy Edition | 270205 | [270205-disney-dreamlight-valley-cozy-edition.json](./270205-disney-dreamlight-valley-cozy-edition.json) |
@@ -7074,6 +7076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: Flight Simulator | 263558 | [263558-doctor-who-flight-simulator.json](./263558-doctor-who-flight-simulator.json) |
 | Doctor Who: Into the Vortex | 235317 | [235317-doctor-who-into-the-vortex.json](./235317-doctor-who-into-the-vortex.json) |
 | Doctor Who: Jobsworth Judoon | 301942 | [301942-doctor-who-jobsworth-judoon.json](./301942-doctor-who-jobsworth-judoon.json) |
+| Doctor Who: Land the Tardis | 237835 | [237835-doctor-who-land-the-tardis.json](./237835-doctor-who-land-the-tardis.json) |
 | Doctor Who: Lost in Time | 213285 | [213285-doctor-who-lost-in-time.json](./213285-doctor-who-lost-in-time.json) |
 | Doctor Who: Monster Invasion - Dalek Supremacy | 301937 | [301937-doctor-who-monster-invasion-dalek-supremacy.json](./301937-doctor-who-monster-invasion-dalek-supremacy.json) |
 | Doctor Who: Monster Invasion - Maze of the Dead | 301940 | [301940-doctor-who-monster-invasion-maze-of-the-dead.json](./301940-doctor-who-monster-invasion-maze-of-the-dead.json) |
@@ -7084,6 +7087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: Say What You See | 301934 | [301934-doctor-who-say-what-you-see.json](./301934-doctor-who-say-what-you-see.json) |
 | Doctor Who: Sonic De-Cloaker | 250486 | [250486-doctor-who-sonic-de-cloaker.json](./250486-doctor-who-sonic-de-cloaker.json) |
 | Doctor Who: Split | 398627 | [398627-doctor-who-split.json](./398627-doctor-who-split.json) |
+| Doctor Who: SuDocWho | 237837 | [237837-doctor-who-sudocwho.json](./237837-doctor-who-sudocwho.json) |
 | Doctor Who: The Adventure Games | 10187 | [10187-doctor-who-the-adventure-games.json](./10187-doctor-who-the-adventure-games.json) |
 | Doctor Who: The Adventure Games - Episode 1: City of the Daleks | 26655 | [26655-doctor-who-the-adventure-games-episode-1-city-of-the-daleks.json](./26655-doctor-who-the-adventure-games-episode-1-city-of-the-daleks.json) |
 | Doctor Who: The Adventure Games - Episode 3: TARDIS | 66439 | [66439-doctor-who-the-adventure-games-episode-3-tardis.json](./66439-doctor-who-the-adventure-games-episode-3-tardis.json) |
@@ -8993,6 +8997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Arena | 392911 | [392911-dragon-arena.json](./392911-dragon-arena.json) |
 | Dragon Assault | 360148 | [360148-dragon-assault.json](./360148-dragon-assault.json) |
 | Dragon Atlas | 23635 | [23635-dragon-atlas.json](./23635-dragon-atlas.json) |
+| Dragon Audit: Deluxe Edition | 237853 | [237853-dragon-audit-deluxe-edition.json](./237853-dragon-audit-deluxe-edition.json) |
 | Dragon Ball | 38662 | [38662-dragon-ball.json](./38662-dragon-ball.json) |
 | Dragon Ball 3: Goku-den | 48679 | [48679-dragon-ball-3-goku-den.json](./48679-dragon-ball-3-goku-den.json) |
 | Dragon Ball Budokai AF | 180246 | [180246-dragon-ball-budokai-af.json](./180246-dragon-ball-budokai-af.json) |
@@ -9065,6 +9070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Kakarot - Season Pass | 141113 | [141113-dragon-ball-z-kakarot-season-pass.json](./141113-dragon-ball-z-kakarot-season-pass.json) |
 | Dragon Ball Z: Kakarot - Season Pass 2 | 307831 | [307831-dragon-ball-z-kakarot-season-pass-2.json](./307831-dragon-ball-z-kakarot-season-pass-2.json) |
 | Dragon Ball Z: Kakarot - Ultimate Edition | 136271 | [136271-dragon-ball-z-kakarot-ultimate-edition.json](./136271-dragon-ball-z-kakarot-ultimate-edition.json) |
+| Dragon Ball Z: Kakarot + A New Power Awakens Set - Deluxe Edition | 237860 | [237860-dragon-ball-z-kakarot-a-new-power-awakens-set-deluxe-edition.json](./237860-dragon-ball-z-kakarot-a-new-power-awakens-set-deluxe-edition.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Goku's Next Journey | 288303 | [288303-dragon-ball-z-kakarot-a-new-power-awakens-set-gokus-next-journey.json](./288303-dragon-ball-z-kakarot-a-new-power-awakens-set-gokus-next-journey.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Legendary Edition | 232992 | [232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json](./232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json) |
 | Dragon Ball Z: Legend of Z RPG | 314005 | [314005-dragon-ball-z-legend-of-z-rpg.json](./314005-dragon-ball-z-legend-of-z-rpg.json) |
@@ -9637,6 +9643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw A Stickman: Episode 2 | 99999 | [99999-draw-a-stickman-episode-2.json](./99999-draw-a-stickman-episode-2.json) |
 | Draw and Color | 276130 | [276130-draw-and-color.json](./276130-draw-and-color.json) |
 | Draw and Color: Kawaii - Complete Edition | 242047 | [242047-draw-and-color-kawaii-complete-edition.json](./242047-draw-and-color-kawaii-complete-edition.json) |
+| Draw and Color: Kawaii - Deluxe Edition | 237851 | [237851-draw-and-color-kawaii-deluxe-edition.json](./237851-draw-and-color-kawaii-deluxe-edition.json) |
 | Draw and Color: Kawaii - Director's Cut | 250361 | [250361-draw-and-color-kawaii-directors-cut.json](./250361-draw-and-color-kawaii-directors-cut.json) |
 | Draw and Color: Kawaii - Magnificent Edition | 268554 | [268554-draw-and-color-kawaii-magnificent-edition.json](./268554-draw-and-color-kawaii-magnificent-edition.json) |
 | Draw and Color: Kawaii - Platinum Edition | 247589 | [247589-draw-and-color-kawaii-platinum-edition.json](./247589-draw-and-color-kawaii-platinum-edition.json) |
