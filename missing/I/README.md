@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Cream Mania | 234064 | [234064-ice-cream-mania.json](./234064-ice-cream-mania.json) |
 | Ice Cream Mixer | 102605 | [102605-ice-cream-mixer.json](./102605-ice-cream-mixer.json) |
 | Ice Cream Pachinly | 291365 | [291365-ice-cream-pachinly.json](./291365-ice-cream-pachinly.json) |
+| Ice Cream Rush | 232348 | [232348-ice-cream-rush.json](./232348-ice-cream-rush.json) |
 | Ice Cream Simulator | 345665 | [345665-ice-cream-simulator.json](./345665-ice-cream-simulator.json) |
 | Ice Cream Trip | 207829 | [207829-ice-cream-trip.json](./207829-ice-cream-trip.json) |
 | Ice Cream Truck | 155511 | [155511-ice-cream-truck.json](./155511-ice-cream-truck.json) |
@@ -727,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice-Story | 130886 | [130886-ice-story.json](./130886-ice-story.json) |
 | Ice! | 370207 | [370207-ice.json](./370207-ice.json) |
 | Iceberg Command | 256311 | [256311-iceberg-command.json](./256311-iceberg-command.json) |
+| Iceberg the Game | 232484 | [232484-iceberg-the-game.json](./232484-iceberg-the-game.json) |
 | Icebergs | 180076 | [180076-icebergs.json](./180076-icebergs.json) |
 | Iceblox | 94254 | [94254-iceblox.json](./94254-iceblox.json) |
 | Icebound | 298181 | [298181-icebound.json](./298181-icebound.json) |
@@ -792,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iconic | 356704 | [356704-iconic.json](./356704-iconic.json) |
 | Iconic | 362768 | [362768-iconic.json](./362768-iconic.json) |
 | Icontrivia: Guess All Things Christmas | 232050 | [232050-icontrivia-guess-all-things-christmas.json](./232050-icontrivia-guess-all-things-christmas.json) |
+| Icontrivia: Guess the Celebrity | 232473 | [232473-icontrivia-guess-the-celebrity.json](./232473-icontrivia-guess-the-celebrity.json) |
 | Icontrivia: Guess the Character | 233746 | [233746-icontrivia-guess-the-character.json](./233746-icontrivia-guess-the-character.json) |
 | Icontrivia: Guess the Dogs | 233101 | [233101-icontrivia-guess-the-dogs.json](./233101-icontrivia-guess-the-dogs.json) |
 | Icosi-Do | 209391 | [209391-icosi-do.json](./209391-icosi-do.json) |
