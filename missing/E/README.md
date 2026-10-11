@@ -1637,6 +1637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elleria: Book 1 | 341539 | [341539-elleria-book-1.json](./341539-elleria-book-1.json) |
 | Ellie | 113681 | [113681-ellie.json](./113681-ellie.json) |
 | Ellie & Max | 175426 | [175426-ellie-and-max.json](./175426-ellie-and-max.json) |
+| Ellie's | 233968 | [233968-ellies.json](./233968-ellies.json) |
 | Ellie's Farm 2: African Adventures - Collector's Edition | 356106 | [356106-ellies-farm-2-african-adventures-collectors-edition.json](./356106-ellies-farm-2-african-adventures-collectors-edition.json) |
 | Ellie's Farm 3: Flood Proofing - Collector's Edition | 356103 | [356103-ellies-farm-3-flood-proofing-collectors-edition.json](./356103-ellies-farm-3-flood-proofing-collectors-edition.json) |
 | Ellie's Farm 4: Guardians of the Wild - Collector's Edition | 356104 | [356104-ellies-farm-4-guardians-of-the-wild-collectors-edition.json](./356104-ellies-farm-4-guardians-of-the-wild-collectors-edition.json) |
