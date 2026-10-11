@@ -591,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Down | 40791 | [40791-fall-down.json](./40791-fall-down.json) |
 | Fall Down | 95432 | [95432-fall-down.json](./95432-fall-down.json) |
 | Fall Down | 96230 | [96230-fall-down.json](./96230-fall-down.json) |
+| Fall Down! Deluxe | 234493 | [234493-fall-down-deluxe.json](./234493-fall-down-deluxe.json) |
 | Fall Dudes 3D | 136946 | [136946-fall-dudes-3d.json](./136946-fall-dudes-3d.json) |
 | Fall for Greed | 145255 | [145255-fall-for-greed.json](./145255-fall-for-greed.json) |
 | Fall From Eden | 340053 | [340053-fall-from-eden.json](./340053-fall-from-eden.json) |
@@ -8224,6 +8225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Code | 215214 | [215214-full-code.json](./215214-full-code.json) |
 | Full Contact | 12109 | [12109-full-contact.json](./12109-full-contact.json) |
 | Full Contact Teams Racing | 241053 | [241053-full-contact-teams-racing.json](./241053-full-contact-teams-racing.json) |
+| Full Fathom | 234659 | [234659-full-fathom.json](./234659-full-fathom.json) |
 | Full Gear | 229922 | [229922-full-gear.json](./229922-full-gear.json) |
 | Full House | 79540 | [79540-full-house.json](./79540-full-house.json) |
 | Full House Casino | 333101 | [333101-full-house-casino.json](./333101-full-house-casino.json) |
@@ -8862,6 +8864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuzzee Fever | 72942 | [72942-fuzzee-fever.json](./72942-fuzzee-fever.json) |
 | Fuzzy | 331489 | [331489-fuzzy.json](./331489-fuzzy.json) |
 | Fuzzy Critters | 104644 | [104644-fuzzy-critters.json](./104644-fuzzy-critters.json) |
+| Fuzzy Flip | 234492 | [234492-fuzzy-flip.json](./234492-fuzzy-flip.json) |
 | Fuzzy McFluffenstein | 337205 | [337205-fuzzy-mcfluffenstein.json](./337205-fuzzy-mcfluffenstein.json) |
 | Fuzzy Road Home | 177878 | [177878-fuzzy-road-home.json](./177878-fuzzy-road-home.json) |
 | Fuzzy World Cup Qatar 2022 | 312349 | [312349-fuzzy-world-cup-qatar-2022.json](./312349-fuzzy-world-cup-qatar-2022.json) |
