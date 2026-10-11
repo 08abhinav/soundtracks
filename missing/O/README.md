@@ -1614,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece Odyssey: Deluxe Edition | 231363 | [231363-one-piece-odyssey-deluxe-edition.json](./231363-one-piece-odyssey-deluxe-edition.json) |
 | One Piece Odyssey: Jewelry Pack | 312109 | [312109-one-piece-odyssey-jewelry-pack.json](./312109-one-piece-odyssey-jewelry-pack.json) |
 | One Piece Odyssey: Reunion of Memories | 252387 | [252387-one-piece-odyssey-reunion-of-memories.json](./252387-one-piece-odyssey-reunion-of-memories.json) |
+| One Piece Odyssey: Traveling Outfit Set | 238380 | [238380-one-piece-odyssey-traveling-outfit-set.json](./238380-one-piece-odyssey-traveling-outfit-set.json) |
 | One Piece Unlimited World Red: Chopper Edition | 223469 | [223469-one-piece-unlimited-world-red-chopper-edition.json](./223469-one-piece-unlimited-world-red-chopper-edition.json) |
 | One Piece: Bon! Bon! Journey!! | 117667 | [117667-one-piece-bon-bon-journey.json](./117667-one-piece-bon-bon-journey.json) |
 | One Piece: Bounty Rush | 75300 | [75300-one-piece-bounty-rush.json](./75300-one-piece-bounty-rush.json) |
@@ -3716,6 +3717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oxxonian | 74424 | [74424-oxxonian.json](./74424-oxxonian.json) |
 | Oxyblack Fortress | 271317 | [271317-oxyblack-fortress.json](./271317-oxyblack-fortress.json) |
 | Oxyd Extra | 93036 | [93036-oxyd-extra.json](./93036-oxyd-extra.json) |
+| Oxygen Caliber | 238544 | [238544-oxygen-caliber.json](./238544-oxygen-caliber.json) |
 | Oxygen Cocktail | 249275 | [249275-oxygen-cocktail.json](./249275-oxygen-cocktail.json) |
 | Oxygen Not Included: The Frosty Planet Pack | 310683 | [310683-oxygen-not-included-the-frosty-planet-pack.json](./310683-oxygen-not-included-the-frosty-planet-pack.json) |
 | Oxytone | 267287 | [267287-oxytone.json](./267287-oxytone.json) |
