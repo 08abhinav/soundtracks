@@ -11300,6 +11300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bustafellows | 114536 | [114536-bustafellows.json](./114536-bustafellows.json) |
 | Bustafellows: Collector's Edition | 147251 | [147251-bustafellows-collectors-edition.json](./147251-bustafellows-collectors-edition.json) |
 | Bustafellows: Deluxe Edition | 136828 | [136828-bustafellows-deluxe-edition.json](./136828-bustafellows-deluxe-edition.json) |
+| Bustafellows: Season 2 | 231413 | [231413-bustafellows-season-2.json](./231413-bustafellows-season-2.json) |
 | Busted | 384857 | [384857-busted.json](./384857-busted.json) |
 | Busted Brakes | 101750 | [101750-busted-brakes.json](./101750-busted-brakes.json) |
 | Buster | 62831 | [62831-buster.json](./62831-buster.json) |
