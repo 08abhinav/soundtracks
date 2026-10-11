@@ -911,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamedec: Izmael Krostov | 196147 | [196147-gamedec-izmael-krostov.json](./196147-gamedec-izmael-krostov.json) |
 | Gamedev Beatdown | 127986 | [127986-gamedev-beatdown.json](./127986-gamedev-beatdown.json) |
 | GameDev Clicker: Tap & Build | 411085 | [411085-gamedev-clicker-tap-and-build.json](./411085-gamedev-clicker-tap-and-build.json) |
+| GameDev Life Simulator | 236318 | [236318-gamedev-life-simulator.json](./236318-gamedev-life-simulator.json) |
 | Gamedev simulator | 130958 | [130958-gamedev-simulator.json](./130958-gamedev-simulator.json) |
 | GameDev Trash | 260573 | [260573-gamedev-trash.json](./260573-gamedev-trash.json) |
 | Gamedog | 292842 | [292842-gamedog.json](./292842-gamedog.json) |
@@ -6994,6 +6995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guruguru Tamagotchi! | 77578 | [77578-guruguru-tamagotchi.json](./77578-guruguru-tamagotchi.json) |
 | Gururin | 40123 | [40123-gururin.json](./40123-gururin.json) |
 | Gururin World | 286633 | [286633-gururin-world.json](./286633-gururin-world.json) |
+| Gus & Stella's Stellar Adventure | 236194 | [236194-gus-and-stellas-stellar-adventure.json](./236194-gus-and-stellas-stellar-adventure.json) |
 | Gus and Jaq's Cooking Chaos | 246526 | [246526-gus-and-jaqs-cooking-chaos.json](./246526-gus-and-jaqs-cooking-chaos.json) |
 | Gus and the Cyberbuds: Sing, Play & Paint-A-Long | 282237 | [282237-gus-and-the-cyberbuds-sing-play-and-paint-a-long.json](./282237-gus-and-the-cyberbuds-sing-play-and-paint-a-long.json) |
 | Gus Goes to Cybertown | 282236 | [282236-gus-goes-to-cybertown.json](./282236-gus-goes-to-cybertown.json) |
