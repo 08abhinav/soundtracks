@@ -7445,6 +7445,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kingdom of Galanor | 169837 | [169837-the-kingdom-of-galanor.json](./169837-the-kingdom-of-galanor.json) |
 | The Kingdom of Gardenia | 138517 | [138517-the-kingdom-of-gardenia.json](./138517-the-kingdom-of-gardenia.json) |
 | The Kingdom of God | 371479 | [371479-the-kingdom-of-god.json](./371479-the-kingdom-of-god.json) |
+| The Kingdom of Syree II: Black Magic | 231536 | [231536-the-kingdom-of-syree-ii-black-magic.json](./231536-the-kingdom-of-syree-ii-black-magic.json) |
+| The Kingdom of Syree III: The Depths of Hell | 231537 | [231537-the-kingdom-of-syree-iii-the-depths-of-hell.json](./231537-the-kingdom-of-syree-iii-the-depths-of-hell.json) |
 | The Kingdoms of Ædloran | 389674 | [389674-the-kingdoms-of-dloran.json](./389674-the-kingdoms-of-dloran.json) |
 | The Kingpin | 245775 | [245775-the-kingpin.json](./245775-the-kingpin.json) |
 | The Kings Crusade | 2039 | [2039-the-kings-crusade.json](./2039-the-kings-crusade.json) |
@@ -7650,6 +7652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Inca | 71771 | [71771-the-last-inca.json](./71771-the-last-inca.json) |
 | The Last Janitor: Data Cleanup | 361680 | [361680-the-last-janitor-data-cleanup.json](./361680-the-last-janitor-data-cleanup.json) |
 | The Last Job | 236792 | [236792-the-last-job.json](./236792-the-last-job.json) |
+| The Last Journey | 231538 | [231538-the-last-journey.json](./231538-the-last-journey.json) |
 | The Last Journey | 267924 | [267924-the-last-journey.json](./267924-the-last-journey.json) |
 | The Last Keeper | 368905 | [368905-the-last-keeper.json](./368905-the-last-keeper.json) |
 | The Last Kids on Earth: Happy Apocalypse to You | 256865 | [256865-the-last-kids-on-earth-happy-apocalypse-to-you.json](./256865-the-last-kids-on-earth-happy-apocalypse-to-you.json) |
@@ -9320,6 +9323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Paint Gunner | 187211 | [187211-the-paint-gunner.json](./187211-the-paint-gunner.json) |
 | The Painted Forest | 132705 | [132705-the-painted-forest.json](./132705-the-painted-forest.json) |
 | The Painting | 319557 | [319557-the-painting.json](./319557-the-painting.json) |
+| The Palace of Unrest | 231404 | [231404-the-palace-of-unrest.json](./231404-the-palace-of-unrest.json) |
 | The Palace on the Hill | 153430 | [153430-the-palace-on-the-hill.json](./153430-the-palace-on-the-hill.json) |
 | The Palaces of The Mind | 389548 | [389548-the-palaces-of-the-mind.json](./389548-the-palaces-of-the-mind.json) |
 | The Paladin & The Succubi Servant | 230896 | [230896-the-paladin-and-the-succubi-servant.json](./230896-the-paladin-and-the-succubi-servant.json) |
