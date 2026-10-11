@@ -721,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hana no Ibara: Yuurei Kitan | 181657 | [181657-hana-no-ibara-yuurei-kitan.json](./181657-hana-no-ibara-yuurei-kitan.json) |
 | Hana Oboro: Sengoku-den Ranki | 136480 | [136480-hana-oboro-sengoku-den-ranki.json](./136480-hana-oboro-sengoku-den-ranki.json) |
 | Hana Saki Work Spring! | 111649 | [111649-hana-saki-work-spring.json](./111649-hana-saki-work-spring.json) |
+| Hana Saku DS Gardening Life | 229262 | [229262-hana-saku-ds-gardening-life.json](./229262-hana-saku-ds-gardening-life.json) |
 | Hana to Otome ni Shukufuku wo Royal Bouquet | 60368 | [60368-hana-to-otome-ni-shukufuku-wo-royal-bouquet.json](./60368-hana-to-otome-ni-shukufuku-wo-royal-bouquet.json) |
 | Hana: Hide and Seek | 250529 | [250529-hana-hide-and-seek.json](./250529-hana-hide-and-seek.json) |
 | Hana: Spacetime Fantasy | 260715 | [260715-hana-spacetime-fantasy.json](./260715-hana-spacetime-fantasy.json) |
@@ -1087,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harakatsu 2 | 367026 | [367026-harakatsu-2.json](./367026-harakatsu-2.json) |
 | Harakuju Tantei Gakuen: Steel Wood | 58054 | [58054-harakuju-tantei-gakuen-steel-wood.json](./58054-harakuju-tantei-gakuen-steel-wood.json) |
 | Harald | 72347 | [72347-harald.json](./72347-harald.json) |
+| Haram | 228947 | [228947-haram.json](./228947-haram.json) |
 | Harambe Kong | 82032 | [82032-harambe-kong.json](./82032-harambe-kong.json) |
 | Haramimura: When a Wife Becomes a Villager | 388721 | [388721-haramimura-when-a-wife-becomes-a-villager.json](./388721-haramimura-when-a-wife-becomes-a-villager.json) |
 | Harassment ni Ki wo Tsukete | 251609 | [251609-harassment-ni-ki-wo-tsukete.json](./251609-harassment-ni-ki-wo-tsukete.json) |
@@ -1591,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hauma: A Detective Noir Story - Prologue | 271419 | [271419-hauma-a-detective-noir-story-prologue.json](./271419-hauma-a-detective-noir-story-prologue.json) |
 | Haunt | 196098 | [196098-haunt.json](./196098-haunt.json) |
 | Haunt | 20245 | [20245-haunt.json](./20245-haunt.json) |
+| Haunt | 228950 | [228950-haunt.json](./228950-haunt.json) |
 | Haunt | 383487 | [383487-haunt.json](./383487-haunt.json) |
 | Haunt | 384773 | [384773-haunt.json](./384773-haunt.json) |
 | Haunt Monster | 237040 | [237040-haunt-monster.json](./237040-haunt-monster.json) |
@@ -5232,6 +5235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitori H Aco tan | 98035 | [98035-hitori-h-aco-tan.json](./98035-hitori-h-aco-tan.json) |
 | Hitori Kakurenbo | 150131 | [150131-hitori-kakurenbo.json](./150131-hitori-kakurenbo.json) |
 | Hitori Kakurenbo Online | 187450 | [187450-hitori-kakurenbo-online.json](./187450-hitori-kakurenbo-online.json) |
+| Hitori no Shita: The Outcast | 228959 | [228959-hitori-no-shita-the-outcast.json](./228959-hitori-no-shita-the-outcast.json) |
 | Hitoriasobi | 398576 | [398576-hitoriasobi.json](./398576-hitoriasobi.json) |
 | Hitotsu No Mori | 120770 | [120770-hitotsu-no-mori.json](./120770-hitotsu-no-mori.json) |
 | Hitotsu Tobashi Renai | 60883 | [60883-hitotsu-tobashi-renai.json](./60883-hitotsu-tobashi-renai.json) |
