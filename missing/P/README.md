@@ -7353,6 +7353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker France | 402345 | [402345-poker-france.json](./402345-poker-france.json) |
 | Poker Hands | 147993 | [147993-poker-hands.json](./147993-poker-hands.json) |
 | Poker HD | 88440 | [88440-poker-hd.json](./88440-poker-hd.json) |
+| Poker Kingdom | 232360 | [232360-poker-kingdom.json](./232360-poker-kingdom.json) |
 | Poker Legends: Omaha Champions | 232560 | [232560-poker-legends-omaha-champions.json](./232560-poker-legends-omaha-champions.json) |
 | Poker Master | 167586 | [167586-poker-master.json](./167586-poker-master.json) |
 | Poker Mega Pack | 118884 | [118884-poker-mega-pack.json](./118884-poker-mega-pack.json) |
