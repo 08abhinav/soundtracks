@@ -2336,6 +2336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Robot Dash | 344403 | [344403-endless-robot-dash.json](./344403-endless-robot-dash.json) |
 | Endless RPG | 119705 | [119705-endless-rpg.json](./119705-endless-rpg.json) |
 | Endless Ruin Chapter I: Toward the Endless Ruin | 200542 | [200542-endless-ruin-chapter-i-toward-the-endless-ruin.json](./200542-endless-ruin-chapter-i-toward-the-endless-ruin.json) |
+| Endless Ruin Chapter II: Hall of Spores | 228946 | [228946-endless-ruin-chapter-ii-hall-of-spores.json](./228946-endless-ruin-chapter-ii-hall-of-spores.json) |
 | Endless Rush | 261857 | [261857-endless-rush.json](./261857-endless-rush.json) |
 | Endless Salvation | 333168 | [333168-endless-salvation.json](./333168-endless-salvation.json) |
 | Endless Samurai | 235740 | [235740-endless-samurai.json](./235740-endless-samurai.json) |
