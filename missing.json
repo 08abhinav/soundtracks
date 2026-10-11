@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T19:34:35.772Z",
+  "generated_at": "2026-10-11T19:52:35.449Z",
   "total_missing": 198714,
   "games": [
     {
@@ -64858,11 +64858,6 @@
       "file": "missing/A/78694-avery-cardozas-casino-2000.json"
     },
     {
-      "igdb_id": 10010,
-      "game_name": "Aveyond 1: Rhen's Quest",
-      "file": "missing/A/10010-aveyond-1-rhens-quest.json"
-    },
-    {
       "igdb_id": 10011,
       "game_name": "Aveyond 2: Ean's Quest",
       "file": "missing/A/10011-aveyond-2-eans-quest.json"
@@ -76476,6 +76471,11 @@
       "igdb_id": 177888,
       "game_name": "Basements & Bugbears",
       "file": "missing/B/177888-basements-and-bugbears.json"
+    },
+    {
+      "igdb_id": 234664,
+      "game_name": "Basements n' Basilisks: Storms of Sorcery",
+      "file": "missing/B/234664-basements-n-basilisks-storms-of-sorcery.json"
     },
     {
       "igdb_id": 215145,
@@ -96466,6 +96466,11 @@
       "igdb_id": 224093,
       "game_name": "Blade of Chaos: Immortal Titan",
       "file": "missing/B/224093-blade-of-chaos-immortal-titan.json"
+    },
+    {
+      "igdb_id": 234658,
+      "game_name": "Blade of Darkness",
+      "file": "missing/B/234658-blade-of-darkness.json"
     },
     {
       "igdb_id": 322361,
@@ -219323,6 +219328,11 @@
       "file": "missing/D/234666-dirt-3-ken-block-special-pack.json"
     },
     {
+      "igdb_id": 234663,
+      "game_name": "Dirt 3: Monte Carlo Track Pack",
+      "file": "missing/D/234663-dirt-3-monte-carlo-track-pack.json"
+    },
+    {
       "igdb_id": 234667,
       "game_name": "Dirt 3: Mud and Guts Car Pack",
       "file": "missing/D/234667-dirt-3-mud-and-guts-car-pack.json"
@@ -316003,6 +316013,11 @@
       "file": "missing/F/241053-full-contact-teams-racing.json"
     },
     {
+      "igdb_id": 234659,
+      "game_name": "Full Fathom",
+      "file": "missing/F/234659-full-fathom.json"
+    },
+    {
       "igdb_id": 229922,
       "game_name": "Full Gear",
       "file": "missing/F/229922-full-gear.json"
@@ -322526,6 +322541,11 @@
       "igdb_id": 110301,
       "game_name": "Gallery Hero",
       "file": "missing/G/110301-gallery-hero.json"
+    },
+    {
+      "igdb_id": 234660,
+      "game_name": "Gallery Manager",
+      "file": "missing/G/234660-gallery-manager.json"
     },
     {
       "igdb_id": 376055,
@@ -415788,6 +415808,11 @@
       "file": "missing/I/313737-it-lives-in-the-woods.json"
     },
     {
+      "igdb_id": 234661,
+      "game_name": "It Lives Under the House.",
+      "file": "missing/I/234661-it-lives-under-the-house.json"
+    },
+    {
       "igdb_id": 300413,
       "game_name": "It Lives Within",
       "file": "missing/I/300413-it-lives-within.json"
@@ -441561,11 +441586,6 @@
       "igdb_id": 138197,
       "game_name": "Kingdoms of Amalur: Re-Reckoning - Fatesworn",
       "file": "missing/K/138197-kingdoms-of-amalur-re-reckoning-fatesworn.json"
-    },
-    {
-      "igdb_id": 1059,
-      "game_name": "Kingdoms of Amalur: Reckoning",
-      "file": "missing/K/1059-kingdoms-of-amalur-reckoning.json"
     },
     {
       "igdb_id": 14676,
@@ -732033,11 +732053,6 @@
       "file": "missing/S/410346-signal13.json"
     },
     {
-      "igdb_id": 103244,
-      "game_name": "Signalis",
-      "file": "missing/S/103244-signalis.json"
-    },
-    {
       "igdb_id": 257073,
       "game_name": "Signature",
       "file": "missing/S/257073-signature.json"
@@ -789038,11 +789053,6 @@
       "file": "missing/S/257340-streets-of-rage-2x.json"
     },
     {
-      "igdb_id": 107262,
-      "game_name": "Streets of Rage 4",
-      "file": "missing/S/107262-streets-of-rage-4.json"
-    },
-    {
       "igdb_id": 241863,
       "game_name": "Streets of Rage 4",
       "file": "missing/S/241863-streets-of-rage-4.json"
@@ -845123,11 +845133,6 @@
       "file": "missing/T/352186-the-forgers.json"
     },
     {
-      "igdb_id": 103320,
-      "game_name": "The Forgotten City",
-      "file": "missing/T/103320-the-forgotten-city.json"
-    },
-    {
       "igdb_id": 173145,
       "game_name": "The Forgotten City: Cloud Version",
       "file": "missing/T/173145-the-forgotten-city-cloud-version.json"
@@ -868451,11 +868456,6 @@
       "igdb_id": 18453,
       "game_name": "The Stanley Parable",
       "file": "missing/T/18453-the-stanley-parable.json"
-    },
-    {
-      "igdb_id": 113119,
-      "game_name": "The Stanley Parable: Ultra Deluxe",
-      "file": "missing/T/113119-the-stanley-parable-ultra-deluxe.json"
     },
     {
       "igdb_id": 386680,
