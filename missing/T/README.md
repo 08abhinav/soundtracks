@@ -2965,6 +2965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrance the Flying Eyeball | 60915 | [60915-terrance-the-flying-eyeball.json](./60915-terrance-the-flying-eyeball.json) |
 | Terranigma | 9633 | [9633-terranigma.json](./9633-terranigma.json) |
 | TerranLands | 258513 | [258513-terranlands.json](./258513-terranlands.json) |
+| Terranny | 238536 | [238536-terranny.json](./238536-terranny.json) |
 | Terrapets | 140467 | [140467-terrapets.json](./140467-terrapets.json) |
 | Terrapins | 185141 | [185141-terrapins.json](./185141-terrapins.json) |
 | TerrApocalipse | 370857 | [370857-terrapocalipse.json](./370857-terrapocalipse.json) |
@@ -2986,6 +2987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraTech Legion | 348307 | [348307-terratech-legion.json](./348307-terratech-legion.json) |
 | TerraTech Worlds | 252865 | [252865-terratech-worlds.json](./252865-terratech-worlds.json) |
 | TerraTech: Deluxe Edition | 51928 | [51928-terratech-deluxe-edition.json](./51928-terratech-deluxe-edition.json) |
+| TerraTech: Prospector Edition | 238354 | [238354-terratech-prospector-edition.json](./238354-terratech-prospector-edition.json) |
 | Terratopia: March of The Demon King | 315631 | [315631-terratopia-march-of-the-demon-king.json](./315631-terratopia-march-of-the-demon-king.json) |
 | Terrawars: NY Invasion | 70467 | [70467-terrawars-ny-invasion.json](./70467-terrawars-ny-invasion.json) |
 | Terre Scramble! | 260427 | [260427-terre-scramble.json](./260427-terre-scramble.json) |
@@ -6502,6 +6504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Coffee Caper | 338210 | [338210-the-great-coffee-caper.json](./338210-the-great-coffee-caper.json) |
 | The Great Couturier | 290013 | [290013-the-great-couturier.json](./290013-the-great-couturier.json) |
 | The Great Dick Invasion | 213595 | [213595-the-great-dick-invasion.json](./213595-the-great-dick-invasion.json) |
+| The Great Divide | 238531 | [238531-the-great-divide.json](./238531-the-great-divide.json) |
 | The Great Easter Egg Hunt | 79951 | [79951-the-great-easter-egg-hunt.json](./79951-the-great-easter-egg-hunt.json) |
 | The Great Empire: Relic of Egypt | 153335 | [153335-the-great-empire-relic-of-egypt.json](./153335-the-great-empire-relic-of-egypt.json) |
 | The Great Emu War of 1932 | 336566 | [336566-the-great-emu-war-of-1932.json](./336566-the-great-emu-war-of-1932.json) |
@@ -7326,6 +7329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King is Watching: Crowns of History | 394315 | [394315-the-king-is-watching-crowns-of-history.json](./394315-the-king-is-watching-crowns-of-history.json) |
 | The King of Alzoria | 276724 | [276724-the-king-of-alzoria.json](./276724-the-king-of-alzoria.json) |
 | The King of Beasts | 345075 | [345075-the-king-of-beasts.json](./345075-the-king-of-beasts.json) |
+| The King of Cats | 238384 | [238384-the-king-of-cats.json](./238384-the-king-of-cats.json) |
 | The King of Creation | 273414 | [273414-the-king-of-creation.json](./273414-the-king-of-creation.json) |
 | The King of Dragons | 6814 | [6814-the-king-of-dragons.json](./6814-the-king-of-dragons.json) |
 | The King of Drive: Parking Edition | 196102 | [196102-the-king-of-drive-parking-edition.json](./196102-the-king-of-drive-parking-edition.json) |
@@ -14823,6 +14827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Farm | 303143 | [303143-tiny-farm.json](./303143-tiny-farm.json) |
 | Tiny Farm: Remastered | 335817 | [335817-tiny-farm-remastered.json](./335817-tiny-farm-remastered.json) |
 | Tiny Fat Hero | 232144 | [232144-tiny-fat-hero.json](./232144-tiny-fat-hero.json) |
+| Tiny Fight | 238537 | [238537-tiny-fight.json](./238537-tiny-fight.json) |
 | Tiny Fisher | 181206 | [181206-tiny-fisher.json](./181206-tiny-fisher.json) |
 | Tiny Fishing | 165065 | [165065-tiny-fishing.json](./165065-tiny-fishing.json) |
 | Tiny Football | 191182 | [191182-tiny-football.json](./191182-tiny-football.json) |
@@ -15469,6 +15474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToHeart: Extra Stories - Serio & Masashi | 351148 | [351148-toheart-extra-stories-serio-and-masashi.json](./351148-toheart-extra-stories-serio-and-masashi.json) |
 | ToHeart2 | 132039 | [132039-toheart2.json](./132039-toheart2.json) |
 | ToHeart2 DX Plus | 65567 | [65567-toheart2-dx-plus.json](./65567-toheart2-dx-plus.json) |
+| ToHeart2 XRated | 238370 | [238370-toheart2-xrated.json](./238370-toheart2-xrated.json) |
 | ToHeart2: AnotherDays | 242474 | [242474-toheart2-anotherdays.json](./242474-toheart2-anotherdays.json) |
 | Tohoku Daigaku Karei Igaku Kenkyuusho: Kawashima Ryuuta Kyouju Kanshuu - Mono Sugoku Nou wo Kitaeru 5-Funkan no Oni Training | 136956 | [136956-tohoku-daigaku-karei-igaku-kenkyuusho-kawashima-ryuuta-kyouju-kanshuu-mono-sugoku-nou-wo-kitaeru-5-funkan-no-oni-training.json](./136956-tohoku-daigaku-karei-igaku-kenkyuusho-kawashima-ryuuta-kyouju-kanshuu-mono-sugoku-nou-wo-kitaeru-5-funkan-no-oni-training.json) |
 | Tohotopia | 391609 | [391609-tohotopia.json](./391609-tohotopia.json) |
