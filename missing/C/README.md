@@ -1240,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Factory Tycoon | 230372 | [230372-car-factory-tycoon.json](./230372-car-factory-tycoon.json) |
 | Car Fighter | 47539 | [47539-car-fighter.json](./47539-car-fighter.json) |
 | Car Flipper Simulator 25 | 328441 | [328441-car-flipper-simulator-25.json](./328441-car-flipper-simulator-25.json) |
+| Car For Sale Simulator 2023 | 233027 | [233027-car-for-sale-simulator-2023.json](./233027-car-for-sale-simulator-2023.json) |
 | Car for Sale Simulator 2023: Car Mechanic, Wash, Car Flipper | 273327 | [273327-car-for-sale-simulator-2023-car-mechanic-wash-car-flipper.json](./273327-car-for-sale-simulator-2023-car-mechanic-wash-car-flipper.json) |
 | Car For Sale Simulator 2023: PickUp & SUV | 359608 | [359608-car-for-sale-simulator-2023-pickup-and-suv.json](./359608-car-for-sale-simulator-2023-pickup-and-suv.json) |
 | Car for Trade | 267352 | [267352-car-for-trade.json](./267352-car-for-trade.json) |
@@ -7044,6 +7045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cohabitation | 217877 | [217877-cohabitation.json](./217877-cohabitation.json) |
 | Cohabitation Life | 296647 | [296647-cohabitation-life.json](./296647-cohabitation-life.json) |
 | Cohen's Towers | 23949 | [23949-cohens-towers.json](./23949-cohens-towers.json) |
+| Cohort Chess | 232881 | [232881-cohort-chess.json](./232881-cohort-chess.json) |
 | Coil | 92635 | [92635-coil.json](./92635-coil.json) |
 | Coil's Containment | 338916 | [338916-coils-containment.json](./338916-coils-containment.json) |
 | Coin | 314310 | [314310-coin.json](./314310-coin.json) |
@@ -10347,6 +10349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Fruit Shooter | 406142 | [406142-crazy-fruit-shooter.json](./406142-crazy-fruit-shooter.json) |
 | Crazy Fun Ball | 172151 | [172151-crazy-fun-ball.json](./172151-crazy-fun-ball.json) |
 | Crazy Gobbler | 66728 | [66728-crazy-gobbler.json](./66728-crazy-gobbler.json) |
+| Crazy Golf Cat | 232896 | [232896-crazy-golf-cat.json](./232896-crazy-golf-cat.json) |
 | Crazy Golf: World Tour | 43474 | [43474-crazy-golf-world-tour.json](./43474-crazy-golf-world-tour.json) |
 | Crazy Goose Simulator | 288304 | [288304-crazy-goose-simulator.json](./288304-crazy-goose-simulator.json) |
 | Crazy Guy | 238061 | [238061-crazy-guy.json](./238061-crazy-guy.json) |
@@ -12473,6 +12476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Cats 3 | 201703 | [201703-cute-cats-3.json](./201703-cute-cats-3.json) |
 | Cute Cats Puzzles | 104221 | [104221-cute-cats-puzzles.json](./104221-cute-cats-puzzles.json) |
 | Cute Cats Slide | 277932 | [277932-cute-cats-slide.json](./277932-cute-cats-slide.json) |
+| Cute Chaos Demon Nyanbaba | 232907 | [232907-cute-chaos-demon-nyanbaba.json](./232907-cute-chaos-demon-nyanbaba.json) |
 | Cute Cock Clicker | 218151 | [218151-cute-cock-clicker.json](./218151-cute-cock-clicker.json) |
 | Cute Critters Pet Kitty | 278488 | [278488-cute-critters-pet-kitty.json](./278488-cute-critters-pet-kitty.json) |
 | Cute Cute Cuties | 368065 | [368065-cute-cute-cuties.json](./368065-cute-cute-cuties.json) |
