@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R2Beat | 108993 | [108993-r2beat.json](./108993-r2beat.json) |
 | R2D Tank | 40394 | [40394-r2d-tank.json](./40394-r2d-tank.json) |
 | R2R: Rewire to Revolt | 338333 | [338333-r2r-rewire-to-revolt.json](./338333-r2r-rewire-to-revolt.json) |
+| R3: The Art of Rocketry | 231834 | [231834-r3-the-art-of-rocketry.json](./231834-r3-the-art-of-rocketry.json) |
 | R3wind | 183395 | [183395-r3wind.json](./183395-r3wind.json) |
 | R42 | 130900 | [130900-r42.json](./130900-r42.json) |
 | R4YL: Run for your life! | 253879 | [253879-r4yl-run-for-your-life.json](./253879-r4yl-run-for-your-life.json) |
@@ -1373,6 +1374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratshaker: Rat-Chan Pack | 395801 | [395801-ratshaker-rat-chan-pack.json](./395801-ratshaker-rat-chan-pack.json) |
 | Ratstronaut | 362912 | [362912-ratstronaut.json](./362912-ratstronaut.json) |
 | Ratten Reich: Dance of Kings | 149032 | [149032-ratten-reich-dance-of-kings.json](./149032-ratten-reich-dance-of-kings.json) |
+| Rattenkönig | 231786 | [231786-rattenkonig.json](./231786-rattenkonig.json) |
 | Rattenwalzer: Pesnya o bor'be i zhizni chelovecheskoy | 367304 | [367304-rattenwalzer-pesnya-o-borbe-i-zhizni-chelovecheskoy.json](./367304-rattenwalzer-pesnya-o-borbe-i-zhizni-chelovecheskoy.json) |
 | Rattle | 100750 | [100750-rattle.json](./100750-rattle.json) |
 | Rattle Royale | 323705 | [323705-rattle-royale.json](./323705-rattle-royale.json) |
@@ -1661,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re: Pian | 368035 | [368035-re-pian.json](./368035-re-pian.json) |
 | RE: Prince of Nigeria | 126001 | [126001-re-prince-of-nigeria.json](./126001-re-prince-of-nigeria.json) |
 | Re: Rem Plus | 108843 | [108843-re-rem-plus.json](./108843-re-rem-plus.json) |
+| Re: Rem Plus | 231787 | [231787-re-rem-plus.json](./231787-re-rem-plus.json) |
 | Re: Survivor | 193430 | [193430-re-survivor.json](./193430-re-survivor.json) |
 | Re: Tree of Savior | 174808 | [174808-re-tree-of-savior.json](./174808-re-tree-of-savior.json) |
 | Re:Aegis | 291753 | [291753-re-aegis.json](./291753-re-aegis.json) |
@@ -2321,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Alert | 40391 | [40391-red-alert.json](./40391-red-alert.json) |
 | Red Alert 2: Apocalypse Rising | 376096 | [376096-red-alert-2-apocalypse-rising.json](./376096-red-alert-2-apocalypse-rising.json) |
 | Red Algorithm: Fernando | 172095 | [172095-red-algorithm-fernando.json](./172095-red-algorithm-fernando.json) |
+| Red Amazon | 231793 | [231793-red-amazon.json](./231793-red-amazon.json) |
 | Red and Blue | 133776 | [133776-red-and-blue.json](./133776-red-and-blue.json) |
 | Red and Blue Balls | 99395 | [99395-red-and-blue-balls.json](./99395-red-and-blue-balls.json) |
 | Red and Blue: Alien War | 56143 | [56143-red-and-blue-alien-war.json](./56143-red-and-blue-alien-war.json) |
@@ -3693,6 +3697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retail Mage | 319885 | [319885-retail-mage.json](./319885-retail-mage.json) |
 | Retail Rivals | 402476 | [402476-retail-rivals.json](./402476-retail-rivals.json) |
 | Retail Royale | 151096 | [151096-retail-royale.json](./151096-retail-royale.json) |
+| Retail Wars | 231797 | [231797-retail-wars.json](./231797-retail-wars.json) |
 | Retailer Tycoon | 148672 | [148672-retailer-tycoon.json](./148672-retailer-tycoon.json) |
 | Retale | 307749 | [307749-retale.json](./307749-retale.json) |
 | Retaliate | 300810 | [300810-retaliate.json](./300810-retaliate.json) |
