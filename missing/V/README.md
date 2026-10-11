@@ -2500,6 +2500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Pong | 196035 | [196035-vr-pong.json](./196035-vr-pong.json) |
 | VR Porn Hentai Teachers | 368059 | [368059-vr-porn-hentai-teachers.json](./368059-vr-porn-hentai-teachers.json) |
 | VR Prison Showdown：rookie Guard Rumble | 364063 | [364063-vr-prison-showdown-rookie-guard-rumble.json](./364063-vr-prison-showdown-rookie-guard-rumble.json) |
+| VR Racing on Dinosaur Island | 236175 | [236175-vr-racing-on-dinosaur-island.json](./236175-vr-racing-on-dinosaur-island.json) |
 | VR Racket Ball | 68770 | [68770-vr-racket-ball.json](./68770-vr-racket-ball.json) |
 | VR Rescue of Girls | 160253 | [160253-vr-rescue-of-girls.json](./160253-vr-rescue-of-girls.json) |
 | VR Retreat | 31085 | [31085-vr-retreat.json](./31085-vr-retreat.json) |
