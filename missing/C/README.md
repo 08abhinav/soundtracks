@@ -6169,6 +6169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CleanFall | 284819 | [284819-cleanfall.json](./284819-cleanfall.json) |
 | Cleaning Girls | 258174 | [258174-cleaning-girls.json](./258174-cleaning-girls.json) |
 | Cleaning house | 176350 | [176350-cleaning-house.json](./176350-cleaning-house.json) |
+| Cleaning Queens | 234655 | [234655-cleaning-queens.json](./234655-cleaning-queens.json) |
 | Cleaning Queens 2: Sparkling Palace | 293367 | [293367-cleaning-queens-2-sparkling-palace.json](./293367-cleaning-queens-2-sparkling-palace.json) |
 | Cleaning Redville | 217873 | [217873-cleaning-redville.json](./217873-cleaning-redville.json) |
 | Cleaning Robot Match: Scatter Battlers | 151672 | [151672-cleaning-robot-match-scatter-battlers.json](./151672-cleaning-robot-match-scatter-battlers.json) |
@@ -10040,7 +10041,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot: Kart Racing | 314655 | [314655-crash-bandicoot-kart-racing.json](./314655-crash-bandicoot-kart-racing.json) |
 | Crash Bandicoot: On the Run! | 132793 | [132793-crash-bandicoot-on-the-run.json](./132793-crash-bandicoot-on-the-run.json) |
 | Crash Bandicoot: The Secret Place | 339944 | [339944-crash-bandicoot-the-secret-place.json](./339944-crash-bandicoot-the-secret-place.json) |
-| Crash Bandicoot: The Wrath of Cortex | 1188 | [1188-crash-bandicoot-the-wrath-of-cortex.json](./1188-crash-bandicoot-the-wrath-of-cortex.json) |
 | Crash Bandicoot: UFO Shooter | 314657 | [314657-crash-bandicoot-ufo-shooter.json](./314657-crash-bandicoot-ufo-shooter.json) |
 | Crash Bandicoot: Warped | 135451 | [135451-crash-bandicoot-warped.json](./135451-crash-bandicoot-warped.json) |
 | Crash Bash | 1195 | [1195-crash-bash.json](./1195-crash-bash.json) |
