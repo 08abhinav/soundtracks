@@ -4042,6 +4042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigeon West: Call of Gun. Isekai | 340394 | [340394-pigeon-west-call-of-gun-isekai.json](./340394-pigeon-west-call-of-gun-isekai.json) |
 | Pigeon West: El Diablo | 340393 | [340393-pigeon-west-el-diablo.json](./340393-pigeon-west-el-diablo.json) |
 | Pigeon West: Johnny the Pigeon | 338277 | [338277-pigeon-west-johnny-the-pigeon.json](./338277-pigeon-west-johnny-the-pigeon.json) |
+| Pigeon Wings Strike | 238390 | [238390-pigeon-wings-strike.json](./238390-pigeon-wings-strike.json) |
 | Pigeon: A Love Story | 368542 | [368542-pigeon-a-love-story.json](./368542-pigeon-a-love-story.json) |
 | Pigeon's Mission | 287762 | [287762-pigeons-mission.json](./287762-pigeons-mission.json) |
 | Pigeons Attack | 90831 | [90831-pigeons-attack.json](./90831-pigeons-attack.json) |
@@ -7692,6 +7693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polytope | 250218 | [250218-polytope.json](./250218-polytope.json) |
 | Polytrack | 293354 | [293354-polytrack.json](./293354-polytrack.json) |
 | Polyturbo Drift Racing Simulator | 275036 | [275036-polyturbo-drift-racing-simulator.json](./275036-polyturbo-drift-racing-simulator.json) |
+| Polyturned | 238383 | [238383-polyturned.json](./238383-polyturned.json) |
 | Polywar | 326772 | [326772-polywar.json](./326772-polywar.json) |
 | Polywar | 33496 | [33496-polywar.json](./33496-polywar.json) |
 | PolyWar | 341564 | [341564-polywar.json](./341564-polywar.json) |
@@ -7740,6 +7742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pong Kombat | 73326 | [73326-pong-kombat.json](./73326-pong-kombat.json) |
 | Pong Legends | 263661 | [263661-pong-legends.json](./263661-pong-legends.json) |
 | Pong Like | 96123 | [96123-pong-like.json](./96123-pong-like.json) |
+| Pong Ping | 238352 | [238352-pong-ping.json](./238352-pong-ping.json) |
 | Pong Pong Candy | 84812 | [84812-pong-pong-candy.json](./84812-pong-pong-candy.json) |
 | Pong Pong's Learning Adventure: Animals | 361609 | [361609-pong-pongs-learning-adventure-animals.json](./361609-pong-pongs-learning-adventure-animals.json) |
 | Pong Pong's Learning Adventure: Back to the Future | 188078 | [188078-pong-pongs-learning-adventure-back-to-the-future.json](./188078-pong-pongs-learning-adventure-back-to-the-future.json) |
@@ -11716,6 +11719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid Quest Bundle | 399801 | [399801-pyramid-quest-bundle.json](./399801-pyramid-quest-bundle.json) |
 | Pyramid Raid | 26871 | [26871-pyramid-raid.json](./26871-pyramid-raid.json) |
 | Pyramid Raiders | 242974 | [242974-pyramid-raiders.json](./242974-pyramid-raiders.json) |
+| Pyramid Runner | 238356 | [238356-pyramid-runner.json](./238356-pyramid-runner.json) |
 | Pyramid Schemes and Cults | 280300 | [280300-pyramid-schemes-and-cults.json](./280300-pyramid-schemes-and-cults.json) |
 | Pyramid Shooter | 89515 | [89515-pyramid-shooter.json](./89515-pyramid-shooter.json) |
 | Pyramid Solitaire | 304761 | [304761-pyramid-solitaire.json](./304761-pyramid-solitaire.json) |
@@ -11743,6 +11747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyrocast | 288762 | [288762-pyrocast.json](./288762-pyrocast.json) |
 | Pyromancer | 124580 | [124580-pyromancer.json](./124580-pyromancer.json) |
 | Pyromania | 325671 | [325671-pyromania.json](./325671-pyromania.json) |
+| PyroSlam: VR Table Tennis | 238359 | [238359-pyroslam-vr-table-tennis.json](./238359-pyroslam-vr-table-tennis.json) |
 | Pyrosynchist | 370690 | [370690-pyrosynchist.json](./370690-pyrosynchist.json) |
 | Pyrotechnica | 74029 | [74029-pyrotechnica.json](./74029-pyrotechnica.json) |
 | Pyrphoros | 303823 | [303823-pyrphoros.json](./303823-pyrphoros.json) |
