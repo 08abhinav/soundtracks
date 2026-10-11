@@ -2131,6 +2131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban | 312570 | [312570-urban.json](./312570-urban.json) |
 | Urban Ascend | 390262 | [390262-urban-ascend.json](./390262-urban-ascend.json) |
 | Urban Assault | 50131 | [50131-urban-assault.json](./50131-urban-assault.json) |
+| Urban Assault: Metropolis Dawn | 237844 | [237844-urban-assault-metropolis-dawn.json](./237844-urban-assault-metropolis-dawn.json) |
 | Urban Cards | 121582 | [121582-urban-cards.json](./121582-urban-cards.json) |
 | Urban Champion | 4624 | [4624-urban-champion.json](./4624-urban-champion.json) |
 | Urban Champion-e | 170014 | [170014-urban-champion-e.json](./170014-urban-champion-e.json) |
