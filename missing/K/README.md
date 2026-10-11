@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiyou Resutoran Uminekotei | 137445 | [137445-kaiyou-resutoran-uminekotei.json](./137445-kaiyou-resutoran-uminekotei.json) |
 | Kaizen Channel Mars TV | 109048 | [109048-kaizen-channel-mars-tv.json](./109048-kaizen-channel-mars-tv.json) |
 | Kaizo Block | 267455 | [267455-kaizo-block.json](./267455-kaizo-block.json) |
+| Kaizo Mario 64 | 227727 | [227727-kaizo-mario-64.json](./227727-kaizo-mario-64.json) |
 | Kaizo Mario Galaxy | 249454 | [249454-kaizo-mario-galaxy.json](./249454-kaizo-mario-galaxy.json) |
 | Kaizo Mario Galaxy 2 | 294765 | [294765-kaizo-mario-galaxy-2.json](./294765-kaizo-mario-galaxy-2.json) |
 | Kaizo Mario Galaxy: Rebalanced | 262668 | [262668-kaizo-mario-galaxy-rebalanced.json](./262668-kaizo-mario-galaxy-rebalanced.json) |
@@ -3826,6 +3827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurenai no Homura Sanada Ninpouchou | 136472 | [136472-kurenai-no-homura-sanada-ninpouchou.json](./136472-kurenai-no-homura-sanada-ninpouchou.json) |
 | Kurenai no Tsuki | 151839 | [151839-kurenai-no-tsuki.json](./151839-kurenai-no-tsuki.json) |
 | Kurenkisho Quolta Amadeus EG | 134626 | [134626-kurenkisho-quolta-amadeus-eg.json](./134626-kurenkisho-quolta-amadeus-eg.json) |
+| Kuro | 228004 | [228004-kuro.json](./228004-kuro.json) |
 | Kuro Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Sanpaku Yokka no Tabi | 396941 | [396941-kuro-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json](./396941-kuro-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json) |
 | Kuro Neko | 153407 | [153407-kuro-neko.json](./153407-kuro-neko.json) |
 | Kuro no Danshou: The Literary Fragment | 413081 | [413081-kuro-no-danshou-the-literary-fragment.json](./413081-kuro-no-danshou-the-literary-fragment.json) |
