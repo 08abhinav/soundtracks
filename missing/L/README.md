@@ -674,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Lightshow | 290555 | [290555-laser-lightshow.json](./290555-laser-lightshow.json) |
 | Laser Logic | 406065 | [406065-laser-logic.json](./406065-laser-logic.json) |
 | Laser Lords | 45919 | [45919-laser-lords.json](./45919-laser-lords.json) |
+| Laser Nodes | 233421 | [233421-laser-nodes.json](./233421-laser-nodes.json) |
 | Laser Overload 2 | 167669 | [167669-laser-overload-2.json](./167669-laser-overload-2.json) |
 | Laser Panic | 330314 | [330314-laser-panic.json](./330314-laser-panic.json) |
 | Laser Party | 113166 | [113166-laser-party.json](./113166-laser-party.json) |
@@ -3848,6 +3849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Otter's Fishing Life | 386944 | [386944-little-otters-fishing-life.json](./386944-little-otters-fishing-life.json) |
 | Little Panda's Camping Trip | 105963 | [105963-little-pandas-camping-trip.json](./105963-little-pandas-camping-trip.json) |
 | Little Panda's Candy Shop | 231932 | [231932-little-pandas-candy-shop.json](./231932-little-pandas-candy-shop.json) |
+| Little Panda's Jewel Adventure | 233412 | [233412-little-pandas-jewel-adventure.json](./233412-little-pandas-jewel-adventure.json) |
 | Little Panda's Jewel Quest | 103662 | [103662-little-pandas-jewel-quest.json](./103662-little-pandas-jewel-quest.json) |
 | Little Panda's Restaurant | 239916 | [239916-little-pandas-restaurant.json](./239916-little-pandas-restaurant.json) |
 | Little Party | 59910 | [59910-little-party.json](./59910-little-party.json) |
