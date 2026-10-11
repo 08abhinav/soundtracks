@@ -1707,6 +1707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elumin | 295811 | [295811-elumin.json](./295811-elumin.json) |
 | Elune | 125832 | [125832-elune.json](./125832-elune.json) |
 | Elusive | 336540 | [336540-elusive.json](./336540-elusive.json) |
+| Elusive People | 228607 | [228607-elusive-people.json](./228607-elusive-people.json) |
 | Elusive Verge | 144587 | [144587-elusive-verge.json](./144587-elusive-verge.json) |
 | Eluxia Enigma | 153847 | [153847-eluxia-enigma.json](./153847-eluxia-enigma.json) |
 | Elva the Eco Dragon | 187503 | [187503-elva-the-eco-dragon.json](./187503-elva-the-eco-dragon.json) |
