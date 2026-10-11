@@ -5065,6 +5065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlipTiles: Warp Lines | 257914 | [257914-fliptiles-warp-lines.json](./257914-fliptiles-warp-lines.json) |
 | Flipto | 348458 | [348458-flipto.json](./348458-flipto.json) |
 | Flipull | 172779 | [172779-flipull.json](./172779-flipull.json) |
+| Flipy | 233019 | [233019-flipy.json](./233019-flipy.json) |
 | Flipz | 249455 | [249455-flipz.json](./249455-flipz.json) |
 | Flirt | 130362 | [130362-flirt.json](./130362-flirt.json) |
 | Flirtatious | 171433 | [171433-flirtatious.json](./171433-flirtatious.json) |
