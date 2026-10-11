@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Saga: Welcome to Hell Lock | 53934 | [53934-vampire-saga-welcome-to-hell-lock.json](./53934-vampire-saga-welcome-to-hell-lock.json) |
 | Vampire Skills | 316939 | [316939-vampire-skills.json](./316939-vampire-skills.json) |
 | Vampire Slasher Hero | 208955 | [208955-vampire-slasher-hero.json](./208955-vampire-slasher-hero.json) |
+| Vampire Slayer | 229227 | [229227-vampire-slayer.json](./229227-vampire-slayer.json) |
 | Vampire Slayer: The Resurrection | 231065 | [231065-vampire-slayer-the-resurrection.json](./231065-vampire-slayer-the-resurrection.json) |
 | Vampire Survivors: 1.5 | 252864 | [252864-vampire-survivors-1-5.json](./252864-vampire-survivors-1-5.json) |
 | Vampire Survivors: Chaos Update | 237316 | [237316-vampire-survivors-chaos-update.json](./237316-vampire-survivors-chaos-update.json) |
@@ -2021,6 +2022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vocadol | 198280 | [198280-vocadol.json](./198280-vocadol.json) |
 | Vocal Space Shooter | 156110 | [156110-vocal-space-shooter.json](./156110-vocal-space-shooter.json) |
 | Vocal Warrior | 58491 | [58491-vocal-warrior.json](./58491-vocal-warrior.json) |
+| Vocaless | 229264 | [229264-vocaless.json](./229264-vocaless.json) |
 | Vocalodama | 198306 | [198306-vocalodama.json](./198306-vocalodama.json) |
 | Vocaluxe | 50878 | [50878-vocaluxe.json](./50878-vocaluxe.json) |
 | Vocanova | 198307 | [198307-vocanova.json](./198307-vocanova.json) |
