@@ -2424,6 +2424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Legends | 144805 | [144805-battle-legends.json](./144805-battle-legends.json) |
 | Battle Legends Arena | 196573 | [196573-battle-legends-arena.json](./196573-battle-legends-arena.json) |
 | Battle Line the Rise of War | 358285 | [358285-battle-line-the-rise-of-war.json](./358285-battle-line-the-rise-of-war.json) |
+| Battle Mage | 236729 | [236729-battle-mage.json](./236729-battle-mage.json) |
 | Battle Mage : Card Caster | 127166 | [127166-battle-mage-card-caster.json](./127166-battle-mage-card-caster.json) |
 | Battle Mages | 17427 | [17427-battle-mages.json](./17427-battle-mages.json) |
 | Battle Mages: Sign of Darkness | 17577 | [17577-battle-mages-sign-of-darkness.json](./17577-battle-mages-sign-of-darkness.json) |
@@ -4000,6 +4001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Benchmark Your Skills | 326252 | [326252-benchmark-your-skills.json](./326252-benchmark-your-skills.json) |
 | Bend-jo | 362934 | [362934-bend-jo.json](./362934-bend-jo.json) |
 | Bender 2: Bend Harder | 319163 | [319163-bender-2-bend-harder.json](./319163-bender-2-bend-harder.json) |
+| Benders of Moona | 236728 | [236728-benders-of-moona.json](./236728-benders-of-moona.json) |
 | Bendo | 245981 | [245981-bendo.json](./245981-bendo.json) |
 | Bendy and the Dark Revival | 120163 | [120163-bendy-and-the-dark-revival.json](./120163-bendy-and-the-dark-revival.json) |
 | Bendy and the Ink Machine | 28311 | [28311-bendy-and-the-ink-machine.json](./28311-bendy-and-the-ink-machine.json) |
@@ -8615,6 +8617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncing Church | 102727 | [102727-bouncing-church.json](./102727-bouncing-church.json) |
 | Bouncing Duck Simulator | 55728 | [55728-bouncing-duck-simulator.json](./55728-bouncing-duck-simulator.json) |
 | Bouncing DVD : The Game | 114565 | [114565-bouncing-dvd-the-game.json](./114565-bouncing-dvd-the-game.json) |
+| Bouncing Music | 236744 | [236744-bouncing-music.json](./236744-bouncing-music.json) |
 | Bouncing Over It with friends | 106406 | [106406-bouncing-over-it-with-friends.json](./106406-bouncing-over-it-with-friends.json) |
 | Bouncing Rainbow | 259629 | [259629-bouncing-rainbow.json](./259629-bouncing-rainbow.json) |
 | Bouncing Slime: Impossible Levels | 343985 | [343985-bouncing-slime-impossible-levels.json](./343985-bouncing-slime-impossible-levels.json) |
@@ -9571,6 +9574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breezy Bakes Simulator | 372596 | [372596-breezy-bakes-simulator.json](./372596-breezy-bakes-simulator.json) |
 | Breezy Paws | 274735 | [274735-breezy-paws.json](./274735-breezy-paws.json) |
 | Brelok: Nezumi-tachi no Dasshutsu | 330509 | [330509-brelok-nezumi-tachi-no-dasshutsu.json](./330509-brelok-nezumi-tachi-no-dasshutsu.json) |
+| Bremen Hot Strings | 236743 | [236743-bremen-hot-strings.json](./236743-bremen-hot-strings.json) |
 | Brendan Keogh's Putting Land | 329908 | [329908-brendan-keoghs-putting-land.json](./329908-brendan-keoghs-putting-land.json) |
 | Bretonne Lais | 297609 | [297609-bretonne-lais.json](./297609-bretonne-lais.json) |
 | Brett Hull Hockey | 42633 | [42633-brett-hull-hockey.json](./42633-brett-hull-hockey.json) |
@@ -10102,6 +10106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrVR: Backrooms Virtual Reality | 199583 | [199583-brvr-backrooms-virtual-reality.json](./199583-brvr-backrooms-virtual-reality.json) |
 | Brxken Inside | 235890 | [235890-brxken-inside.json](./235890-brxken-inside.json) |
 | Bryan's Indie Collection | 355577 | [355577-bryans-indie-collection.json](./355577-bryans-indie-collection.json) |
+| Bryce Tiles | 236740 | [236740-bryce-tiles.json](./236740-bryce-tiles.json) |
 | BS Bokujou Monogatari | 134429 | [134429-bs-bokujou-monogatari.json](./134429-bs-bokujou-monogatari.json) |
 | BS Dragon Quest | 134416 | [134416-bs-dragon-quest.json](./134416-bs-dragon-quest.json) |
 | BS F-Zero Deluxe | 286625 | [286625-bs-f-zero-deluxe.json](./286625-bs-f-zero-deluxe.json) |
