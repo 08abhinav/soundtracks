@@ -5297,6 +5297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birth Order | 61071 | [61071-birth-order.json](./61071-birth-order.json) |
 | Birthday Blues | 177881 | [177881-birthday-blues.json](./177881-birthday-blues.json) |
 | Birthday Boy | 399612 | [399612-birthday-boy.json](./399612-birthday-boy.json) |
+| Birthday Kid | 237425 | [237425-birthday-kid.json](./237425-birthday-kid.json) |
 | Birthday Visit | 407198 | [407198-birthday-visit.json](./407198-birthday-visit.json) |
 | Birthdays the Beginning: Digital Limited Edition | 52628 | [52628-birthdays-the-beginning-digital-limited-edition.json](./52628-birthdays-the-beginning-digital-limited-edition.json) |
 | Birthdays the Beginning: Limited Edition | 122225 | [122225-birthdays-the-beginning-limited-edition.json](./122225-birthdays-the-beginning-limited-edition.json) |
@@ -11142,6 +11143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burrows | 178397 | [178397-burrows.json](./178397-burrows.json) |
 | Burrows | 377195 | [377195-burrows.json](./377195-burrows.json) |
 | Burrows | 380045 | [380045-burrows.json](./380045-burrows.json) |
+| Burrows: A Paradise Beyond | 237414 | [237414-burrows-a-paradise-beyond.json](./237414-burrows-a-paradise-beyond.json) |
 | Burst | 36489 | [36489-burst.json](./36489-burst.json) |
 | Burst | 380044 | [380044-burst.json](./380044-burst.json) |
 | Burst Error: Eve the First | 59434 | [59434-burst-error-eve-the-first.json](./59434-burst-error-eve-the-first.json) |
