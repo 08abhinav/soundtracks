@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Cliff Escape | 315554 | [315554-magic-cliff-escape.json](./315554-magic-cliff-escape.json) |
 | Magic Clouds | 117057 | [117057-magic-clouds.json](./117057-magic-clouds.json) |
 | Magic Code | 187863 | [187863-magic-code.json](./187863-magic-code.json) |
+| Magic Colors 2 | 233543 | [233543-magic-colors-2.json](./233543-magic-colors-2.json) |
 | Magic Combat VR | 115181 | [115181-magic-combat-vr.json](./115181-magic-combat-vr.json) |
 | Magic Craft: The Hero of Fantasy Kingdom | 175227 | [175227-magic-craft-the-hero-of-fantasy-kingdom.json](./175227-magic-craft-the-hero-of-fantasy-kingdom.json) |
 | Magic Crayon | 57649 | [57649-magic-crayon.json](./57649-magic-crayon.json) |
@@ -808,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Pengel: The Quest for Color | 11357 | [11357-magic-pengel-the-quest-for-color.json](./11357-magic-pengel-the-quest-for-color.json) |
 | Magic Petals | 100987 | [100987-magic-petals.json](./100987-magic-petals.json) |
 | Magic Pixel Picross | 54449 | [54449-magic-pixel-picross.json](./54449-magic-pixel-picross.json) |
+| Magic Pixel Survival | 233419 | [233419-magic-pixel-survival.json](./233419-magic-pixel-survival.json) |
 | Magic Pot&ter Battlegrounds | 150500 | [150500-magic-pot-and-ter-battlegrounds.json](./150500-magic-pot-and-ter-battlegrounds.json) |
 | Magic Potion Destroyer | 55227 | [55227-magic-potion-destroyer.json](./55227-magic-potion-destroyer.json) |
 | Magic Potion Explorer | 33550 | [33550-magic-potion-explorer.json](./33550-magic-potion-explorer.json) |
@@ -5912,6 +5914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Military | 208970 | [208970-merge-military.json](./208970-merge-military.json) |
 | Merge Miners | 229372 | [229372-merge-miners.json](./229372-merge-miners.json) |
 | Merge Monastery | 389110 | [389110-merge-monastery.json](./389110-merge-monastery.json) |
+| Merge Monsters | 233428 | [233428-merge-monsters.json](./233428-merge-monsters.json) |
 | Merge Numbers | 329197 | [329197-merge-numbers.json](./329197-merge-numbers.json) |
 | Merge Orbz | 401855 | [401855-merge-orbz.json](./401855-merge-orbz.json) |
 | Merge Pineapple | 339286 | [339286-merge-pineapple.json](./339286-merge-pineapple.json) |
@@ -9649,6 +9652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey-catching Game | 281476 | [281476-monkey-catching-game.json](./281476-monkey-catching-game.json) |
 | MonkeyKing Chaos: VR | 286007 | [286007-monkeyking-chaos-vr.json](./286007-monkeyking-chaos-vr.json) |
 | MonkeyKing VR | 29748 | [29748-monkeyking-vr.json](./29748-monkeyking-vr.json) |
+| Monkeynauts: Merge Monkeys! | 233533 | [233533-monkeynauts-merge-monkeys.json](./233533-monkeynauts-merge-monkeys.json) |
 | Monkeys | 314290 | [314290-monkeys.json](./314290-monkeys.json) |
 | Monkeys & Dragons | 110922 | [110922-monkeys-and-dragons.json](./110922-monkeys-and-dragons.json) |
 | Monkeys & Typewriters! | 319798 | [319798-monkeys-and-typewriters.json](./319798-monkeys-and-typewriters.json) |
@@ -10067,6 +10071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Path | 187226 | [187226-monster-path.json](./187226-monster-path.json) |
 | Monster Pet Shop | 242787 | [242787-monster-pet-shop.json](./242787-monster-pet-shop.json) |
 | Monster Phenomenon | 192982 | [192982-monster-phenomenon.json](./192982-monster-phenomenon.json) |
+| Monster Planet 2 | 233426 | [233426-monster-planet-2.json](./233426-monster-planet-2.json) |
 | Monster Poolside Sumo | 263468 | [263468-monster-poolside-sumo.json](./263468-monster-poolside-sumo.json) |
 | Monster Pow | 193720 | [193720-monster-pow.json](./193720-monster-pow.json) |
 | Monster Prom | 69483 | [69483-monster-prom.json](./69483-monster-prom.json) |
