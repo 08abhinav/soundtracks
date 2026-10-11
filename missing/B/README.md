@@ -5302,6 +5302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdwatcher | 314969 | [314969-birdwatcher.json](./314969-birdwatcher.json) |
 | Birdwatching | 390738 | [390738-birdwatching.json](./390738-birdwatching.json) |
 | Birdwatching Notebook | 377414 | [377414-birdwatching-notebook.json](./377414-birdwatching-notebook.json) |
+| BiriBiriBeat | 227995 | [227995-biribiribeat.json](./227995-biribiribeat.json) |
 | Birkanoid | 178547 | [178547-birkanoid.json](./178547-birkanoid.json) |
 | Birmingham City Club Football 2005 | 267894 | [267894-birmingham-city-club-football-2005.json](./267894-birmingham-city-club-football-2005.json) |
 | Birmingham's Ghosts: Fear and Loathing | 248675 | [248675-birminghams-ghosts-fear-and-loathing.json](./248675-birminghams-ghosts-fear-and-loathing.json) |
@@ -5403,6 +5404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Generations: Soundvoyager | 49482 | [49482-bit-generations-soundvoyager.json](./49482-bit-generations-soundvoyager.json) |
 | Bit Heroes | 67937 | [67937-bit-heroes.json](./67937-bit-heroes.json) |
 | Bit Heroes Runner | 263569 | [263569-bit-heroes-runner.json](./263569-bit-heroes-runner.json) |
+| Bit Hotel | 227988 | [227988-bit-hotel.json](./227988-bit-hotel.json) |
 | Bit Lost | 363963 | [363963-bit-lost.json](./363963-bit-lost.json) |
 | Bit Maze | 406319 | [406319-bit-maze.json](./406319-bit-maze.json) |
 | Bit Orchard: Animal Valley - Amazing Edition | 256762 | [256762-bit-orchard-animal-valley-amazing-edition.json](./256762-bit-orchard-animal-valley-amazing-edition.json) |
@@ -9522,6 +9524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BreakLoop | 383953 | [383953-breakloop.json](./383953-breakloop.json) |
 | Breakneck | 78593 | [78593-breakneck.json](./78593-breakneck.json) |
 | Breakneck City | 127730 | [127730-breakneck-city.json](./127730-breakneck-city.json) |
+| Breakout | 227733 | [227733-breakout.json](./227733-breakout.json) |
 | Breakout | 228318 | [228318-breakout.json](./228318-breakout.json) |
 | Breakout 13 | 212735 | [212735-breakout-13.json](./212735-breakout-13.json) |
 | Breakout 2000 | 40816 | [40816-breakout-2000.json](./40816-breakout-2000.json) |
