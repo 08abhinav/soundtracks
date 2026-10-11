@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaccaria Pinball: Shooting the Rapids - 2016 Table | 344575 | [344575-zaccaria-pinball-shooting-the-rapids-2016-table.json](./344575-zaccaria-pinball-shooting-the-rapids-2016-table.json) |
 | Zaccaria Pinball: Shooting the Rapids Deluxe Pinball Table | 349920 | [349920-zaccaria-pinball-shooting-the-rapids-deluxe-pinball-table.json](./349920-zaccaria-pinball-shooting-the-rapids-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Soccer Kings Deluxe Pinball Table | 349917 | [349917-zaccaria-pinball-soccer-kings-deluxe-pinball-table.json](./349917-zaccaria-pinball-soccer-kings-deluxe-pinball-table.json) |
+| Zaccaria Pinball: Solid-State Table Pack 2 | 237985 | [237985-zaccaria-pinball-solid-state-table-pack-2.json](./237985-zaccaria-pinball-solid-state-table-pack-2.json) |
 | Zaccaria Pinball: Solid-State Table Pack 3 | 411009 | [411009-zaccaria-pinball-solid-state-table-pack-3.json](./411009-zaccaria-pinball-solid-state-table-pack-3.json) |
 | Zaccaria Pinball: Supersonic Deluxe Pinball Table | 349916 | [349916-zaccaria-pinball-supersonic-deluxe-pinball-table.json](./349916-zaccaria-pinball-supersonic-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Tropical Deluxe Pinball Table | 349921 | [349921-zaccaria-pinball-tropical-deluxe-pinball-table.json](./349921-zaccaria-pinball-tropical-deluxe-pinball-table.json) |
