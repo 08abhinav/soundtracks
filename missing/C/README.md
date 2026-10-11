@@ -6939,6 +6939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: Cupid | 238414 | [238414-codename-cupid.json](./238414-codename-cupid.json) |
 | Codename: God | 305947 | [305947-codename-god.json](./305947-codename-god.json) |
 | Codename: Gordon | 11749 | [11749-codename-gordon.json](./11749-codename-gordon.json) |
+| Codename: Kids Next Door - Flight of the Hamsters | 234535 | [234535-codename-kids-next-door-flight-of-the-hamsters.json](./234535-codename-kids-next-door-flight-of-the-hamsters.json) |
 | Codename: Kids Next Door - Operation: V.I.D.E.O.G.A.M.E. | 2812 | [2812-codename-kids-next-door-operation-v-i-d-e-o-g-a-m-e.json](./2812-codename-kids-next-door-operation-v-i-d-e-o-g-a-m-e.json) |
 | Codename: Lovania | 384246 | [384246-codename-lovania.json](./384246-codename-lovania.json) |
 | Codename: Mystery Babylon | 157154 | [157154-codename-mystery-babylon.json](./157154-codename-mystery-babylon.json) |
@@ -8196,6 +8197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conception II: Children of the Seven Stars - Limited Edition | 42669 | [42669-conception-ii-children-of-the-seven-stars-limited-edition.json](./42669-conception-ii-children-of-the-seven-stars-limited-edition.json) |
 | ConcernedApe's Haunted Chocolatier | 178101 | [178101-concernedapes-haunted-chocolatier.json](./178101-concernedapes-haunted-chocolatier.json) |
 | Concert | 247542 | [247542-concert.json](./247542-concert.json) |
+| Concert Kings: Music Tycoon | 234502 | [234502-concert-kings-music-tycoon.json](./234502-concert-kings-music-tycoon.json) |
 | Concerto Gate | 94709 | [94709-concerto-gate.json](./94709-concerto-gate.json) |
 | Concerto Note | 60053 | [60053-concerto-note.json](./60053-concerto-note.json) |
 | Concerto on White | 189029 | [189029-concerto-on-white.json](./189029-concerto-on-white.json) |
@@ -11158,6 +11160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossroad of Worlds: Magic Stars | 417711 | [417711-crossroad-of-worlds-magic-stars.json](./417711-crossroad-of-worlds-magic-stars.json) |
 | Crossroad of Worlds: Magic Stars - Collector's Edition | 255708 | [255708-crossroad-of-worlds-magic-stars-collectors-edition.json](./255708-crossroad-of-worlds-magic-stars-collectors-edition.json) |
 | Crossroad of Worlds: Mirrors to Other Worlds - Collector's Edition | 240131 | [240131-crossroad-of-worlds-mirrors-to-other-worlds-collectors-edition.json](./240131-crossroad-of-worlds-mirrors-to-other-worlds-collectors-edition.json) |
+| Crossroad of Worlds: Mystery Agency - Collector's Edition | 234526 | [234526-crossroad-of-worlds-mystery-agency-collectors-edition.json](./234526-crossroad-of-worlds-mystery-agency-collectors-edition.json) |
 | Crossroad OS | 259007 | [259007-crossroad-os.json](./259007-crossroad-os.json) |
 | Crossroads | 377570 | [377570-crossroads.json](./377570-crossroads.json) |
 | Crossroads Extreme | 119620 | [119620-crossroads-extreme.json](./119620-crossroads-extreme.json) |
