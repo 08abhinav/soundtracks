@@ -885,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball 28 In Space | 334086 | [334086-ball-28-in-space.json](./334086-ball-28-in-space.json) |
 | Ball 2D | 55715 | [55715-ball-2d.json](./55715-ball-2d.json) |
 | Ball and Trap | 100739 | [100739-ball-and-trap.json](./100739-ball-and-trap.json) |
+| Ball Animals | 238349 | [238349-ball-animals.json](./238349-ball-animals.json) |
 | Ball at Work: A Fun and Unique Game of Skill and Patience! | 139870 | [139870-ball-at-work-a-fun-and-unique-game-of-skill-and-patience.json](./139870-ball-at-work-a-fun-and-unique-game-of-skill-and-patience.json) |
 | Ball at Work: The Ultimate Speedrun Platformer! | 171570 | [171570-ball-at-work-the-ultimate-speedrun-platformer.json](./171570-ball-at-work-the-ultimate-speedrun-platformer.json) |
 | Ball Attack | 78984 | [78984-ball-attack.json](./78984-ball-attack.json) |
@@ -5839,6 +5840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackout | 162428 | [162428-blackout.json](./162428-blackout.json) |
 | Blackout | 221817 | [221817-blackout.json](./221817-blackout.json) |
 | Blackout | 284008 | [284008-blackout.json](./284008-blackout.json) |
+| Blackout Hospital | 238533 | [238533-blackout-hospital.json](./238533-blackout-hospital.json) |
 | Blackout Memphis | 253414 | [253414-blackout-memphis.json](./253414-blackout-memphis.json) |
 | Blackout Route | 419157 | [419157-blackout-route.json](./419157-blackout-route.json) |
 | Blackout: Director's Cut | 338244 | [338244-blackout-directors-cut.json](./338244-blackout-directors-cut.json) |
