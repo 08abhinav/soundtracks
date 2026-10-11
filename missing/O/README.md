@@ -1325,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OnAir Airline Manager | 327816 | [327816-onair-airline-manager.json](./327816-onair-airline-manager.json) |
 | Onaji | 174335 | [174335-onaji.json](./174335-onaji.json) |
 | Onamae Battle | 331886 | [331886-onamae-battle.json](./331886-onamae-battle.json) |
+| Onamae nan dakke? Otona mo Kodomo mo Kantan Tanoshii Namae Ate Quiz Game | 233941 | [233941-onamae-nan-dakke-otona-mo-kodomo-mo-kantan-tanoshii-namae-ate-quiz-game.json](./233941-onamae-nan-dakke-otona-mo-kodomo-mo-kantan-tanoshii-namae-ate-quiz-game.json) |
 | Onanigan | 181383 | [181383-onanigan.json](./181383-onanigan.json) |
 | Onc' Picsou | 198841 | [198841-onc-picsou.json](./198841-onc-picsou.json) |
 | OnCall | 276185 | [276185-oncall.json](./276185-oncall.json) |
