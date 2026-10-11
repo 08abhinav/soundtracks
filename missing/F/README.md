@@ -3696,6 +3696,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Warriors: Three Hopes | 191396 | [191396-fire-emblem-warriors-three-hopes.json](./191396-fire-emblem-warriors-three-hopes.json) |
 | Fire Emblem Wars | 338815 | [338815-fire-emblem-wars.json](./338815-fire-emblem-wars.json) |
 | Fire Emblem: Archanea Reimagined | 401857 | [401857-fire-emblem-archanea-reimagined.json](./401857-fire-emblem-archanea-reimagined.json) |
+| Fire Emblem: Awakening - Challenge Pack | 237421 | [237421-fire-emblem-awakening-challenge-pack.json](./237421-fire-emblem-awakening-challenge-pack.json) |
+| Fire Emblem: Awakening - Champions Pack | 237415 | [237415-fire-emblem-awakening-champions-pack.json](./237415-fire-emblem-awakening-champions-pack.json) |
+| Fire Emblem: Awakening - Future Past Pack | 237423 | [237423-fire-emblem-awakening-future-past-pack.json](./237423-fire-emblem-awakening-future-past-pack.json) |
+| Fire Emblem: Awakening - Golden Pack | 237416 | [237416-fire-emblem-awakening-golden-pack.json](./237416-fire-emblem-awakening-golden-pack.json) |
+| Fire Emblem: Awakening - Lost Bloodlines Pack | 237417 | [237417-fire-emblem-awakening-lost-bloodlines-pack.json](./237417-fire-emblem-awakening-lost-bloodlines-pack.json) |
+| Fire Emblem: Awakening - Rogues Pack | 237419 | [237419-fire-emblem-awakening-rogues-pack.json](./237419-fire-emblem-awakening-rogues-pack.json) |
+| Fire Emblem: Awakening - Scramble Pack | 237422 | [237422-fire-emblem-awakening-scramble-pack.json](./237422-fire-emblem-awakening-scramble-pack.json) |
+| Fire Emblem: Awakening - Smash Pack | 237418 | [237418-fire-emblem-awakening-smash-pack.json](./237418-fire-emblem-awakening-smash-pack.json) |
 | Fire Emblem: Binding Blade Plus | 233604 | [233604-fire-emblem-binding-blade-plus.json](./233604-fire-emblem-binding-blade-plus.json) |
 | Fire Emblem: Blessed Heart | 214493 | [214493-fire-emblem-blessed-heart.json](./214493-fire-emblem-blessed-heart.json) |
 | Fire Emblem: Bloodlines | 322794 | [322794-fire-emblem-bloodlines.json](./322794-fire-emblem-bloodlines.json) |
