@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painter | 262091 | [262091-painter.json](./262091-painter.json) |
 | Painter Blazer | 316368 | [316368-painter-blazer.json](./316368-painter-blazer.json) |
 | Painter Man!! | 342623 | [342623-painter-man.json](./342623-painter-man.json) |
+| Painter Simulator | 235106 | [235106-painter-simulator.json](./235106-painter-simulator.json) |
 | Painter's Pets | 189951 | [189951-painters-pets.json](./189951-painters-pets.json) |
 | Painterboy | 47198 | [47198-painterboy.json](./47198-painterboy.json) |
 | Painters Guild | 20345 | [20345-painters-guild.json](./20345-painters-guild.json) |
@@ -4046,6 +4047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigeon West: El Diablo | 340393 | [340393-pigeon-west-el-diablo.json](./340393-pigeon-west-el-diablo.json) |
 | Pigeon West: Johnny the Pigeon | 338277 | [338277-pigeon-west-johnny-the-pigeon.json](./338277-pigeon-west-johnny-the-pigeon.json) |
 | Pigeon Wings Strike | 238390 | [238390-pigeon-wings-strike.json](./238390-pigeon-wings-strike.json) |
+| Pigeon: A Love Story | 235117 | [235117-pigeon-a-love-story.json](./235117-pigeon-a-love-story.json) |
 | Pigeon: A Love Story | 368542 | [368542-pigeon-a-love-story.json](./368542-pigeon-a-love-story.json) |
 | Pigeon's Mission | 287762 | [287762-pigeons-mission.json](./287762-pigeons-mission.json) |
 | Pigeons Attack | 90831 | [90831-pigeons-attack.json](./90831-pigeons-attack.json) |
@@ -5501,6 +5503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelment TD | 277919 | [277919-pixelment-td.json](./277919-pixelment-td.json) |
 | PixelMogul | 251209 | [251209-pixelmogul.json](./251209-pixelmogul.json) |
 | Pixelmon Town | 141780 | [141780-pixelmon-town.json](./141780-pixelmon-town.json) |
+| Pixelo | 235094 | [235094-pixelo.json](./235094-pixelo.json) |
 | Pixelords | 406208 | [406208-pixelords.json](./406208-pixelords.json) |
 | Pixelplace.io | 137666 | [137666-pixelplace-io.json](./137666-pixelplace-io.json) |
 | Pixelpunk XL | 88237 | [88237-pixelpunk-xl.json](./88237-pixelpunk-xl.json) |
@@ -5736,6 +5739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plane Balance | 372787 | [372787-plane-balance.json](./372787-plane-balance.json) |
 | Plane Destroyer | 329627 | [329627-plane-destroyer.json](./329627-plane-destroyer.json) |
 | Plane Master | 232691 | [232691-plane-master.json](./232691-plane-master.json) |
+| Plane Race | 235111 | [235111-plane-race.json](./235111-plane-race.json) |
 | Plane Racer | 230296 | [230296-plane-racer.json](./230296-plane-racer.json) |
 | Plane Starship: Galactic Frontline | 278104 | [278104-plane-starship-galactic-frontline.json](./278104-plane-starship-galactic-frontline.json) |
 | Planes | 262093 | [262093-planes.json](./262093-planes.json) |
@@ -6500,6 +6504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Color Billiard | 137631 | [137631-pocket-color-billiard.json](./137631-pocket-color-billiard.json) |
 | Pocket Color Trump | 137983 | [137983-pocket-color-trump.json](./137983-pocket-color-trump.json) |
 | Pocket Cowboy | 175437 | [175437-pocket-cowboy.json](./175437-pocket-cowboy.json) |
+| Pocket Cowboys | 235255 | [235255-pocket-cowboys.json](./235255-pocket-cowboys.json) |
 | Pocket Crystal League | 202258 | [202258-pocket-crystal-league.json](./202258-pocket-crystal-league.json) |
 | Pocket Cuisine | 277504 | [277504-pocket-cuisine.json](./277504-pocket-cuisine.json) |
 | Pocket Dogfights | 96224 | [96224-pocket-dogfights.json](./96224-pocket-dogfights.json) |
@@ -10442,6 +10447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protöthea | 21821 | [21821-protothea.json](./21821-protothea.json) |
 | Prototype | 119662 | [119662-prototype.json](./119662-prototype.json) |
 | Prototype | 220684 | [220684-prototype.json](./220684-prototype.json) |
+| Prototype | 235105 | [235105-prototype.json](./235105-prototype.json) |
 | Prototype Blocks | 191244 | [191244-prototype-blocks.json](./191244-prototype-blocks.json) |
 | Prototype Blocks 2 | 193429 | [193429-prototype-blocks-2.json](./193429-prototype-blocks-2.json) |
 | Prototype Chaos | 368596 | [368596-prototype-chaos.json](./368596-prototype-chaos.json) |
