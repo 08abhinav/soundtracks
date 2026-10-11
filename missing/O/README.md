@@ -774,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh's Talk English | 269517 | [269517-ohs-talk-english.json](./269517-ohs-talk-english.json) |
 | Oha Star Produce! Gentei Collabo Game Disc!! | 268377 | [268377-oha-star-produce-gentei-collabo-game-disc.json](./268377-oha-star-produce-gentei-collabo-game-disc.json) |
 | Oha Suta Dance Dance Revolution GB | 246126 | [246126-oha-suta-dance-dance-revolution-gb.json](./246126-oha-suta-dance-dance-revolution-gb.json) |
+| Oha Suta: Yama-chan & Raymond | 228627 | [228627-oha-suta-yama-chan-and-raymond.json](./228627-oha-suta-yama-chan-and-raymond.json) |
 | Ohanabatake no Flore | 332418 | [332418-ohanabatake-no-flore.json](./332418-ohanabatake-no-flore.json) |
 | Oharion | 413071 | [413071-oharion.json](./413071-oharion.json) |
 | Ohenro-San | 4051 | [4051-ohenro-san.json](./4051-ohenro-san.json) |
@@ -2856,6 +2857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Othello 3D | 222309 | [222309-othello-3d.json](./222309-othello-3d.json) |
 | Othello de Othello DS | 131567 | [131567-othello-de-othello-ds.json](./131567-othello-de-othello-ds.json) |
 | Othello Millennium | 50552 | [50552-othello-millennium.json](./50552-othello-millennium.json) |
+| Othello World | 228628 | [228628-othello-world.json](./228628-othello-world.json) |
 | Othello World | 42515 | [42515-othello-world.json](./42515-othello-world.json) |
 | Other | 197274 | [197274-other.json](./197274-other.json) |
 | Other Minds | 183051 | [183051-other-minds.json](./183051-other-minds.json) |
@@ -2899,6 +2901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otis | 64428 | [64428-otis.json](./64428-otis.json) |
 | Otisdub Tag Plus | 417651 | [417651-otisdub-tag-plus.json](./417651-otisdub-tag-plus.json) |
 | Otoca D'or | 395764 | [395764-otoca-dor.json](./395764-otoca-dor.json) |
+| Otogi Banashi Taisen | 228629 | [228629-otogi-banashi-taisen.json](./228629-otogi-banashi-taisen.json) |
 | Otogi: Myth of Demons | 5975 | [5975-otogi-myth-of-demons.json](./5975-otogi-myth-of-demons.json) |
 | Otogi: Spirit Agents | 28122 | [28122-otogi-spirit-agents.json](./28122-otogi-spirit-agents.json) |
 | Otok | 232498 | [232498-otok.json](./232498-otok.json) |
@@ -2969,6 +2972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OTTTD | 10646 | [10646-otttd.json](./10646-otttd.json) |
 | OTurret | 273434 | [273434-oturret.json](./273434-oturret.json) |
 | Ou | 151666 | [151666-ou.json](./151666-ou.json) |
+| Ou Dorobou Jing: Angel Version | 228630 | [228630-ou-dorobou-jing-angel-version.json](./228630-ou-dorobou-jing-angel-version.json) |
 | Ou Dorobou Jing: Devil Version | 146341 | [146341-ou-dorobou-jing-devil-version.json](./146341-ou-dorobou-jing-devil-version.json) |
 | Ou-sama Game | 70906 | [70906-ou-sama-game.json](./70906-ou-sama-game.json) |
 | Oubey VR: Cosmic Voyage | 153421 | [153421-oubey-vr-cosmic-voyage.json](./153421-oubey-vr-cosmic-voyage.json) |
@@ -3686,6 +3690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ovrdark: A Do Not Open Story | 258122 | [258122-ovrdark-a-do-not-open-story.json](./258122-ovrdark-a-do-not-open-story.json) |
 | Ovum City | 221428 | [221428-ovum-city.json](./221428-ovum-city.json) |
 | Ovus Nova | 185623 | [185623-ovus-nova.json](./185623-ovus-nova.json) |
+| Owarai Yoiko no Game-dou: Oyaji Sagashite 3-choume | 228631 | [228631-owarai-yoiko-no-game-dou-oyaji-sagashite-3-choume.json](./228631-owarai-yoiko-no-game-dou-oyaji-sagashite-3-choume.json) |
 | Oware3D | 207863 | [207863-oware3d.json](./207863-oware3d.json) |
 | Owari | 37389 | [37389-owari.json](./37389-owari.json) |
 | Owari no Kane ga Naru mae ni: Chapter 1 - Plus Edition | 259721 | [259721-owari-no-kane-ga-naru-mae-ni-chapter-1-plus-edition.json](./259721-owari-no-kane-ga-naru-mae-ni-chapter-1-plus-edition.json) |
@@ -3738,6 +3743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oyaji | 267276 | [267276-oyaji.json](./267276-oyaji.json) |
 | Oyako de Asobo: Miffy no Omocha-bako | 268398 | [268398-oyako-de-asobo-miffy-no-omocha-bako.json](./268398-oyako-de-asobo-miffy-no-omocha-bako.json) |
 | Oyako de Manabu SDGs | 256269 | [256269-oyako-de-manabu-sdgs.json](./256269-oyako-de-manabu-sdgs.json) |
+| Oyatsu Quiz: Mogu-mogu Q - The Quiz Game | 228632 | [228632-oyatsu-quiz-mogu-mogu-q-the-quiz-game.json](./228632-oyatsu-quiz-mogu-mogu-q-the-quiz-game.json) |
 | Oylinder | 223393 | [223393-oylinder.json](./223393-oylinder.json) |
 | Oystron | 40734 | [40734-oystron.json](./40734-oystron.json) |
 | Oz | 376127 | [376127-oz.json](./376127-oz.json) |
