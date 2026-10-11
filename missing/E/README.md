@@ -1876,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency: Road Services Simulator | 217410 | [217410-emergency-road-services-simulator.json](./217410-emergency-road-services-simulator.json) |
 | Emergency! Disaster Rescue Squad | 339374 | [339374-emergency-disaster-rescue-squad.json](./339374-emergency-disaster-rescue-squad.json) |
 | EmergencyCrank | 412485 | [412485-emergencycrank.json](./412485-emergencycrank.json) |
+| Emergent Magic | 235645 | [235645-emergent-magic.json](./235645-emergent-magic.json) |
 | Emergent-Z | 372617 | [372617-emergent-z.json](./372617-emergent-z.json) |
 | Emergents Trading Card Game | 183603 | [183603-emergents-trading-card-game.json](./183603-emergents-trading-card-game.json) |
 | Emerging Tactical | 278421 | [278421-emerging-tactical.json](./278421-emerging-tactical.json) |
