@@ -1121,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rana Card | 345059 | [345059-rana-card.json](./345059-rana-card.json) |
 | Rana Neida | 303070 | [303070-rana-neida.json](./303070-rana-neida.json) |
 | Rana Rama | 30805 | [30805-rana-rama.json](./30805-rana-rama.json) |
+| Ranata the Frog and the Broken Forest | 229252 | [229252-ranata-the-frog-and-the-broken-forest.json](./229252-ranata-the-frog-and-the-broken-forest.json) |
 | Ranbu: Sangokushi Rumble | 231989 | [231989-ranbu-sangokushi-rumble.json](./231989-ranbu-sangokushi-rumble.json) |
 | Rance 01 + 02 | 384828 | [384828-rance-01-02.json](./384828-rance-01-02.json) |
 | Rance 01: Quest for Hikari | 132708 | [132708-rance-01-quest-for-hikari.json](./132708-rance-01-quest-for-hikari.json) |
@@ -2608,6 +2609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RedCat: De Europese Stedentocht | 242635 | [242635-redcat-de-europese-stedentocht.json](./242635-redcat-de-europese-stedentocht.json) |
 | RedCat: De Razende Rekenrace | 24836 | [24836-redcat-de-razende-rekenrace.json](./24836-redcat-de-razende-rekenrace.json) |
 | RedCat: De Reusachtige Letterraket | 242636 | [242636-redcat-de-reusachtige-letterraket.json](./242636-redcat-de-reusachtige-letterraket.json) |
+| RedCat: De Snelle Sommenrace | 228961 | [228961-redcat-de-snelle-sommenrace.json](./228961-redcat-de-snelle-sommenrace.json) |
 | RedCat: De Spannende Stedentocht | 125279 | [125279-redcat-de-spannende-stedentocht.json](./125279-redcat-de-spannende-stedentocht.json) |
 | RedCat: De Toffe Tijdreis | 201299 | [201299-redcat-de-toffe-tijdreis.json](./201299-redcat-de-toffe-tijdreis.json) |
 | RedCat: De Woeste Woordenbrij | 201300 | [201300-redcat-de-woeste-woordenbrij.json](./201300-redcat-de-woeste-woordenbrij.json) |
@@ -6541,6 +6543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerCoaster Tycoon | 254 | [254-rollercoaster-tycoon.json](./254-rollercoaster-tycoon.json) |
 | Rollercoaster Tycoon 3 | 178407 | [178407-rollercoaster-tycoon-3.json](./178407-rollercoaster-tycoon-3.json) |
 | RollerCoaster Tycoon 3: Gold | 257414 | [257414-rollercoaster-tycoon-3-gold.json](./257414-rollercoaster-tycoon-3-gold.json) |
+| RollerCoaster Tycoon 6 Pack | 228962 | [228962-rollercoaster-tycoon-6-pack.json](./228962-rollercoaster-tycoon-6-pack.json) |
 | RollerCoaster Tycoon Joyride | 99460 | [99460-rollercoaster-tycoon-joyride.json](./99460-rollercoaster-tycoon-joyride.json) |
 | RollerCoaster Tycoon on Nintendo Switch | 95855 | [95855-rollercoaster-tycoon-on-nintendo-switch.json](./95855-rollercoaster-tycoon-on-nintendo-switch.json) |
 | RollerCoaster Tycoon World Deluxe | 25053 | [25053-rollercoaster-tycoon-world-deluxe.json](./25053-rollercoaster-tycoon-world-deluxe.json) |
