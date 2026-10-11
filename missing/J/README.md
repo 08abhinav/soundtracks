@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janken Disk Shiro | 41368 | [41368-janken-disk-shiro.json](./41368-janken-disk-shiro.json) |
 | Janken Horn | 326175 | [326175-janken-horn.json](./326175-janken-horn.json) |
 | Janken Man | 231494 | [231494-janken-man.json](./231494-janken-man.json) |
+| Janken Samurai | 235252 | [235252-janken-samurai.json](./235252-janken-samurai.json) |
 | Janken Shogi | 216223 | [216223-janken-shogi.json](./216223-janken-shogi.json) |
 | JanKenUP! | 180199 | [180199-jankenup.json](./180199-jankenup.json) |
 | Janko | 306365 | [306365-janko.json](./306365-janko.json) |
@@ -528,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Javel-ein | 133300 | [133300-javel-ein.json](./133300-javel-ein.json) |
 | Javelin | 247047 | [247047-javelin.json](./247047-javelin.json) |
 | Javelin Masters 2 | 344451 | [344451-javelin-masters-2.json](./344451-javelin-masters-2.json) |
+| Javelin Masters 3 | 235113 | [235113-javelin-masters-3.json](./235113-javelin-masters-3.json) |
 | Javols VR | 149220 | [149220-javols-vr.json](./149220-javols-vr.json) |
 | Jaw Breakers & The Confection Connection | 133165 | [133165-jaw-breakers-and-the-confection-connection.json](./133165-jaw-breakers-and-the-confection-connection.json) |
 | Jawaker | 315697 | [315697-jawaker.json](./315697-jawaker.json) |
