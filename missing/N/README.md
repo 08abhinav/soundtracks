@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NarcoGuerra | 50217 | [50217-narcoguerra.json](./50217-narcoguerra.json) |
 | Narcolepsy | 91415 | [91415-narcolepsy.json](./91415-narcolepsy.json) |
 | Narcos | 92686 | [92686-narcos.json](./92686-narcos.json) |
+| Narcos: Cartel Wars Unlimited | 233535 | [233535-narcos-cartel-wars-unlimited.json](./233535-narcos-cartel-wars-unlimited.json) |
 | Narcos: Rise of the Cartels | 112409 | [112409-narcos-rise-of-the-cartels.json](./112409-narcos-rise-of-the-cartels.json) |
 | Narcosis | 19168 | [19168-narcosis.json](./19168-narcosis.json) |
 | Narcotics Ninja | 198554 | [198554-narcotics-ninja.json](./198554-narcotics-ninja.json) |
@@ -3748,6 +3749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Place For Bravery | 23690 | [23690-no-place-for-bravery.json](./23690-no-place-for-bravery.json) |
 | No Place for the Dissident | 141136 | [141136-no-place-for-the-dissident.json](./141136-no-place-for-the-dissident.json) |
 | No Place Like Home | 142251 | [142251-no-place-like-home.json](./142251-no-place-like-home.json) |
+| No Play No Die | 233534 | [233534-no-play-no-die.json](./233534-no-play-no-die.json) |
 | No Plumbing Required | 58506 | [58506-no-plumbing-required.json](./58506-no-plumbing-required.json) |
 | No Pressure: Hive War | 274961 | [274961-no-pressure-hive-war.json](./274961-no-pressure-hive-war.json) |
 | No Prey, No Pay | 176458 | [176458-no-prey-no-pay.json](./176458-no-prey-no-pay.json) |
