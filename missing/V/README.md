@@ -1287,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Game Store: Supermarket Simulator | 319298 | [319298-video-game-store-supermarket-simulator.json](./319298-video-game-store-supermarket-simulator.json) |
 | Video Game Tutorial | 365277 | [365277-video-game-tutorial.json](./365277-video-game-tutorial.json) |
 | Video Game: Super Corrida | 345627 | [345627-video-game-super-corrida.json](./345627-video-game-super-corrida.json) |
+| Video Horror Society: Reggie | 230976 | [230976-video-horror-society-reggie.json](./230976-video-horror-society-reggie.json) |
 | Video Hustler | 38557 | [38557-video-hustler.json](./38557-video-hustler.json) |
 | Video Jam | 206063 | [206063-video-jam.json](./206063-video-jam.json) |
 | Video Jogger | 40663 | [40663-video-jogger.json](./40663-video-jogger.json) |
