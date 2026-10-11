@@ -2724,6 +2724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis World Tour 2: Legends Pack | 167299 | [167299-tennis-world-tour-2-legends-pack.json](./167299-tennis-world-tour-2-legends-pack.json) |
 | Tennis World Tour 2: Official Tournaments and Stadia Pack | 167300 | [167300-tennis-world-tour-2-official-tournaments-and-stadia-pack.json](./167300-tennis-world-tour-2-official-tournaments-and-stadia-pack.json) |
 | Tennis World Tour 2: Sofia Kenin & Karolina Pliskova | 167298 | [167298-tennis-world-tour-2-sofia-kenin-and-karolina-pliskova.json](./167298-tennis-world-tour-2-sofia-kenin-and-karolina-pliskova.json) |
+| Tennis World Tour: Agassi Pack | 237991 | [237991-tennis-world-tour-agassi-pack.json](./237991-tennis-world-tour-agassi-pack.json) |
 | Tennis World Tour: Alex De Minaur | 169937 | [169937-tennis-world-tour-alex-de-minaur.json](./169937-tennis-world-tour-alex-de-minaur.json) |
 | Tennis World Tour: Alex De Minaur | 169943 | [169943-tennis-world-tour-alex-de-minaur.json](./169943-tennis-world-tour-alex-de-minaur.json) |
 | Tennis World Tour: Caroline Garcia | 169939 | [169939-tennis-world-tour-caroline-garcia.json](./169939-tennis-world-tour-caroline-garcia.json) |
@@ -2734,6 +2735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis World Tour: Legends Bonus Pack | 169942 | [169942-tennis-world-tour-legends-bonus-pack.json](./169942-tennis-world-tour-legends-bonus-pack.json) |
 | Tennis World Tour: Rafael Nadal | 169938 | [169938-tennis-world-tour-rafael-nadal.json](./169938-tennis-world-tour-rafael-nadal.json) |
 | Tennis World Tour: Roland-Garros Edition | 118167 | [118167-tennis-world-tour-roland-garros-edition.json](./118167-tennis-world-tour-roland-garros-edition.json) |
+| Tennis World Tour: Roland-Garros pack | 237986 | [237986-tennis-world-tour-roland-garros-pack.json](./237986-tennis-world-tour-roland-garros-pack.json) |
 | Tennis World Tour: Stadium Pack | 169940 | [169940-tennis-world-tour-stadium-pack.json](./169940-tennis-world-tour-stadium-pack.json) |
 | Tennis-e | 170010 | [170010-tennis-e.json](./170010-tennis-e.json) |
 | Tennis/Squash | 92528 | [92528-tennis-squash.json](./92528-tennis-squash.json) |
