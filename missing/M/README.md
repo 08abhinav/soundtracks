@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Max: Ripper Special Edition | 89930 | [89930-mad-max-ripper-special-edition.json](./89930-mad-max-ripper-special-edition.json) |
 | Mad Maze | 72969 | [72969-mad-maze.json](./72969-mad-maze.json) |
 | Mad Merchant | 408875 | [408875-mad-merchant.json](./408875-mad-merchant.json) |
+| Mad Miner | 231846 | [231846-mad-miner.json](./231846-mad-miner.json) |
 | Mad Miner 2 | 318982 | [318982-mad-miner-2.json](./318982-mad-miner-2.json) |
 | Mad Mix 2: El Castillo de los Fantasmas | 73468 | [73468-mad-mix-2-el-castillo-de-los-fantasmas.json](./73468-mad-mix-2-el-castillo-de-los-fantasmas.json) |
 | Mad Moles | 58753 | [58753-mad-moles.json](./58753-mad-moles.json) |
@@ -4426,7 +4427,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal of Honor : Warfighter - Limited Edition | 47411 | [47411-medal-of-honor-warfighter-limited-edition.json](./47411-medal-of-honor-warfighter-limited-edition.json) |
 | Medal of Honor: 10th Anniversary Edition | 45980 | [45980-medal-of-honor-10th-anniversary-edition.json](./45980-medal-of-honor-10th-anniversary-edition.json) |
 | Medal of Honor: Above and Beyond | 122592 | [122592-medal-of-honor-above-and-beyond.json](./122592-medal-of-honor-above-and-beyond.json) |
-| Medal of Honor: Airborne | 1314 | [1314-medal-of-honor-airborne.json](./1314-medal-of-honor-airborne.json) |
 | Medal of Honor: Airborne | 264877 | [264877-medal-of-honor-airborne.json](./264877-medal-of-honor-airborne.json) |
 | Medal of Honor: Airborne Elite | 341117 | [341117-medal-of-honor-airborne-elite.json](./341117-medal-of-honor-airborne-elite.json) |
 | Medal of Honor: Allied Assault - Breakthrough | 9229 | [9229-medal-of-honor-allied-assault-breakthrough.json](./9229-medal-of-honor-allied-assault-breakthrough.json) |
@@ -10843,7 +10843,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 3 | 223026 | [223026-mortal-kombat-3.json](./223026-mortal-kombat-3.json) |
 | Mortal Kombat 3 | 242251 | [242251-mortal-kombat-3.json](./242251-mortal-kombat-3.json) |
 | Mortal Kombat 3 | 242252 | [242252-mortal-kombat-3.json](./242252-mortal-kombat-3.json) |
-| Mortal Kombat 4 | 1622 | [1622-mortal-kombat-4.json](./1622-mortal-kombat-4.json) |
 | Mortal Kombat 4 | 200683 | [200683-mortal-kombat-4.json](./200683-mortal-kombat-4.json) |
 | Mortal Kombat Advance | 45156 | [45156-mortal-kombat-advance.json](./45156-mortal-kombat-advance.json) |
 | Mortal Kombat Gold | 45155 | [45155-mortal-kombat-gold.json](./45155-mortal-kombat-gold.json) |
