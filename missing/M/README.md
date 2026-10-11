@@ -1121,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnery Reign | 156580 | [156580-magnery-reign.json](./156580-magnery-reign.json) |
 | Magnet Action: Zi | 147890 | [147890-magnet-action-zi.json](./147890-magnet-action-zi.json) |
 | Magnet Effect | 214010 | [214010-magnet-effect.json](./214010-magnet-effect.json) |
+| Magnet Jack | 235665 | [235665-magnet-jack.json](./235665-magnet-jack.json) |
 | Magnet Mania 3D | 262580 | [262580-magnet-mania-3d.json](./262580-magnet-mania-3d.json) |
 | Magnet Miner | 354398 | [354398-magnet-miner.json](./354398-magnet-miner.json) |
 | Magneta Box | 190007 | [190007-magneta-box.json](./190007-magneta-box.json) |
@@ -4145,6 +4146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me the Gravekeeper | 346681 | [346681-me-the-gravekeeper.json](./346681-me-the-gravekeeper.json) |
 | Me vs. You | 172177 | [172177-me-vs-you.json](./172177-me-vs-you.json) |
 | Me With Me | 224591 | [224591-me-with-me.json](./224591-me-with-me.json) |
+| Me, My Mech and I | 235649 | [235649-me-my-mech-and-i.json](./235649-me-my-mech-and-i.json) |
 | Me, the Drifter; Her, the Optimist | 392465 | [392465-me-the-drifter-her-the-optimist.json](./392465-me-the-drifter-her-the-optimist.json) |
 | Me2 | 329211 | [329211-me2.json](./329211-me2.json) |
 | Mea’s Saifu Collection Party | 411618 | [411618-mea-s-saifu-collection-party.json](./411618-mea-s-saifu-collection-party.json) |
@@ -12256,6 +12258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Museum of Extravagance | 169860 | [169860-museum-of-extravagance.json](./169860-museum-of-extravagance.json) |
 | Museum of Immersive Art | 341345 | [341345-museum-of-immersive-art.json](./341345-museum-of-immersive-art.json) |
 | Museum of Mechanics: Lockpicking | 139214 | [139214-museum-of-mechanics-lockpicking.json](./139214-museum-of-mechanics-lockpicking.json) |
+| Museum of Monoliths | 235785 | [235785-museum-of-monoliths.json](./235785-museum-of-monoliths.json) |
 | Museum of Other Realities | 118168 | [118168-museum-of-other-realities.json](./118168-museum-of-other-realities.json) |
 | Museum of Parallel Art | 182871 | [182871-museum-of-parallel-art.json](./182871-museum-of-parallel-art.json) |
 | Museum of Symmetry | 104076 | [104076-museum-of-symmetry.json](./104076-museum-of-symmetry.json) |
