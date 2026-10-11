@@ -3082,6 +3082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Monsters | 55936 | [55936-pet-monsters.json](./55936-pet-monsters.json) |
 | Pet Oddities: Desktop Shelter | 372461 | [372461-pet-oddities-desktop-shelter.json](./372461-pet-oddities-desktop-shelter.json) |
 | Pet Pad | 243423 | [243423-pet-pad.json](./243423-pet-pad.json) |
+| Pet Pals 2: Best of Friends | 229233 | [229233-pet-pals-2-best-of-friends.json](./229233-pet-pals-2-best-of-friends.json) |
 | Pet Pals: New Leash on Life | 64121 | [64121-pet-pals-new-leash-on-life.json](./64121-pet-pals-new-leash-on-life.json) |
 | PET Panic! | 290656 | [290656-pet-panic.json](./290656-pet-panic.json) |
 | Pet Paradise Story | 232171 | [232171-pet-paradise-story.json](./232171-pet-paradise-story.json) |
@@ -8236,6 +8237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porters | 381761 | [381761-porters.json](./381761-porters.json) |
 | Portile | 322360 | [322360-portile.json](./322360-portile.json) |
 | Portland 2024 | 323214 | [323214-portland-2024.json](./323214-portland-2024.json) |
+| Portobello Beat | 228954 | [228954-portobello-beat.json](./228954-portobello-beat.json) |
 | Portobugia | 217377 | [217377-portobugia.json](./217377-portobugia.json) |
 | Portrait | 329036 | [329036-portrait.json](./329036-portrait.json) |
 | Portrait of a Cornish Woman | 319137 | [319137-portrait-of-a-cornish-woman.json](./319137-portrait-of-a-cornish-woman.json) |
