@@ -774,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warcana: Dog DLC | 357370 | [357370-warcana-dog-dlc.json](./357370-warcana-dog-dlc.json) |
 | Warcher Defenders | 268098 | [268098-warcher-defenders.json](./268098-warcher-defenders.json) |
 | Warcos | 185676 | [185676-warcos.json](./185676-warcos.json) |
+| Warcraft 2000: Nuclear Epidemic | 233549 | [233549-warcraft-2000-nuclear-epidemic.json](./233549-warcraft-2000-nuclear-epidemic.json) |
 | Warcraft I: Remastered | 322108 | [322108-warcraft-i-remastered.json](./322108-warcraft-i-remastered.json) |
 | Warcraft II: Beyond the Dark Portal | 131 | [131-warcraft-ii-beyond-the-dark-portal.json](./131-warcraft-ii-beyond-the-dark-portal.json) |
 | Warcraft II: The Dark Saga | 77210 | [77210-warcraft-ii-the-dark-saga.json](./77210-warcraft-ii-the-dark-saga.json) |
@@ -4950,6 +4951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words With Foes: Quest for the Lexinomicon | 182843 | [182843-words-with-foes-quest-for-the-lexinomicon.json](./182843-words-with-foes-quest-for-the-lexinomicon.json) |
 | Words With Freds | 192956 | [192956-words-with-freds.json](./192956-words-with-freds.json) |
 | Words With Friends Classic | 87350 | [87350-words-with-friends-classic.json](./87350-words-with-friends-classic.json) |
+| Words With Friends Crosswords | 233405 | [233405-words-with-friends-crosswords.json](./233405-words-with-friends-crosswords.json) |
 | Words with Gizmos | 384679 | [384679-words-with-gizmos.json](./384679-words-with-gizmos.json) |
 | Words-Attack | 40747 | [40747-words-attack.json](./40747-words-attack.json) |
 | Wordscapes Search | 272562 | [272562-wordscapes-search.json](./272562-wordscapes-search.json) |
