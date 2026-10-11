@@ -2892,6 +2892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death? Preposterous! | 133985 | [133985-death-preposterous.json](./133985-death-preposterous.json) |
 | Death's Dichotomy | 261173 | [261173-deaths-dichotomy.json](./261173-deaths-dichotomy.json) |
 | Death's Door: Ultimate Edition | 206673 | [206673-deaths-door-ultimate-edition.json](./206673-deaths-door-ultimate-edition.json) |
+| Death's Dungeon | 235671 | [235671-deaths-dungeon.json](./235671-deaths-dungeon.json) |
 | Death's Gambit: Afterlife - Ashes of Vados | 193750 | [193750-deaths-gambit-afterlife-ashes-of-vados.json](./193750-deaths-gambit-afterlife-ashes-of-vados.json) |
 | Death's Life | 32030 | [32030-deaths-life.json](./32030-deaths-life.json) |
 | Death's Life 2 | 406868 | [406868-deaths-life-2.json](./406868-deaths-life-2.json) |
@@ -3916,6 +3917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Grade | 75159 | [75159-demon-grade.json](./75159-demon-grade.json) |
 | Demon Heart | 158588 | [158588-demon-heart.json](./158588-demon-heart.json) |
 | Demon Heart: Pylon Wars | 38508 | [38508-demon-heart-pylon-wars.json](./38508-demon-heart-pylon-wars.json) |
+| Demon Hentai Slayer | 235784 | [235784-demon-hentai-slayer.json](./235784-demon-hentai-slayer.json) |
 | Demon Hunt | 319555 | [319555-demon-hunt.json](./319555-demon-hunt.json) |
 | Demon Hunter | 117579 | [117579-demon-hunter.json](./117579-demon-hunter.json) |
 | Demon Hunter | 31217 | [31217-demon-hunter.json](./31217-demon-hunter.json) |
@@ -10218,6 +10220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Boss | 145531 | [145531-drift-boss.json](./145531-drift-boss.json) |
 | Drift Cart | 365239 | [365239-drift-cart.json](./365239-drift-cart.json) |
 | Drift City | 259514 | [259514-drift-city.json](./259514-drift-city.json) |
+| Drift City Underground | 235662 | [235662-drift-city-underground.json](./235662-drift-city-underground.json) |
 | Drift Clash Online Racing | 227241 | [227241-drift-clash-online-racing.json](./227241-drift-clash-online-racing.json) |
 | Drift Clicker | 233496 | [233496-drift-clicker.json](./233496-drift-clicker.json) |
 | Drift Draft Destroy | 240927 | [240927-drift-draft-destroy.json](./240927-drift-draft-destroy.json) |
