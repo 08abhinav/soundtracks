@@ -2780,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life & Shadow: Celestial Call | 348444 | [348444-life-and-shadow-celestial-call.json](./348444-life-and-shadow-celestial-call.json) |
 | Life 2047 Escape Simulator | 376086 | [376086-life-2047-escape-simulator.json](./376086-life-2047-escape-simulator.json) |
 | Life after Death | 211110 | [211110-life-after-death.json](./211110-life-after-death.json) |
+| Life After End | 233957 | [233957-life-after-end.json](./233957-life-after-end.json) |
 | Life And Death Are Predetermined by Heaven | 330555 | [330555-life-and-death-are-predetermined-by-heaven.json](./330555-life-and-death-are-predetermined-by-heaven.json) |
 | Life and Death: A Journey of Star-Crossed Lovers | 314296 | [314296-life-and-death-a-journey-of-star-crossed-lovers.json](./314296-life-and-death-a-journey-of-star-crossed-lovers.json) |
 | Life and Minimalism | 202962 | [202962-life-and-minimalism.json](./202962-life-and-minimalism.json) |
@@ -4401,6 +4402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic: Keypad | 235993 | [235993-logic-keypad.json](./235993-logic-keypad.json) |
 | Logica Emotica | 203540 | [203540-logica-emotica.json](./203540-logica-emotica.json) |
 | Logical | 375548 | [375548-logical.json](./375548-logical.json) |
+| Logical Shino | 233955 | [233955-logical-shino.json](./233955-logical-shino.json) |
 | Logicality | 203762 | [203762-logicality.json](./203762-logicality.json) |
 | LogiCally | 164938 | [164938-logically.json](./164938-logically.json) |
 | LogicBots | 27141 | [27141-logicbots.json](./27141-logicbots.json) |
