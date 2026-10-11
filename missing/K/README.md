@@ -1488,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kikaijikake no Merceneria | 386112 | [386112-kikaijikake-no-merceneria.json](./386112-kikaijikake-no-merceneria.json) |
 | Kikan Bakumatsu Ibun Last Cavalier | 59912 | [59912-kikan-bakumatsu-ibun-last-cavalier.json](./59912-kikan-bakumatsu-ibun-last-cavalier.json) |
 | Kiken Drive: 2nd Lap | 273464 | [273464-kiken-drive-2nd-lap.json](./273464-kiken-drive-2nd-lap.json) |
+| Kiki | 237267 | [237267-kiki.json](./237267-kiki.json) |
 | Kiki | 309528 | [309528-kiki.json](./309528-kiki.json) |
 | Kiki & Ana - The Child | 144812 | [144812-kiki-and-ana-the-child.json](./144812-kiki-and-ana-the-child.json) |
 | Kiki Ippatsu | 305563 | [305563-kiki-ippatsu.json](./305563-kiki-ippatsu.json) |
