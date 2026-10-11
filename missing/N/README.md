@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nano Code:X | 410908 | [410908-nano-code-x.json](./410908-nano-code-x.json) |
 | Nano Dash | 103163 | [103163-nano-dash.json](./103163-nano-dash.json) |
 | Nano Dash | 385377 | [385377-nano-dash.json](./385377-nano-dash.json) |
+| Nano Devil | 231272 | [231272-nano-devil.json](./231272-nano-devil.json) |
 | Nano Driller | 115587 | [115587-nano-driller.json](./115587-nano-driller.json) |
 | Nano Fighter Anti Disease | 149191 | [149191-nano-fighter-anti-disease.json](./149191-nano-fighter-anti-disease.json) |
 | Nano Flat Owner | 391032 | [391032-nano-flat-owner.json](./391032-nano-flat-owner.json) |
@@ -509,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Racing: 1999 Edition | 69565 | [69565-nascar-racing-1999-edition.json](./69565-nascar-racing-1999-edition.json) |
 | NASCAR Revolution | 22832 | [22832-nascar-revolution.json](./22832-nascar-revolution.json) |
 | NASCAR Rivals: 2022 Patriotic Pack | 231360 | [231360-nascar-rivals-2022-patriotic-pack.json](./231360-nascar-rivals-2022-patriotic-pack.json) |
+| NASCAR Rivals: Throwback Pack | 231254 | [231254-nascar-rivals-throwback-pack.json](./231254-nascar-rivals-throwback-pack.json) |
 | NASCAR Thunder 2002 | 5946 | [5946-nascar-thunder-2002.json](./5946-nascar-thunder-2002.json) |
 | NASCAR Thunder 2003 | 242427 | [242427-nascar-thunder-2003.json](./242427-nascar-thunder-2003.json) |
 | NASCAR Thunder 2004 | 5947 | [5947-nascar-thunder-2004.json](./5947-nascar-thunder-2004.json) |
@@ -2811,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Vigil | 289548 | [289548-night-vigil.json](./289548-night-vigil.json) |
 | Night Vigil | 31848 | [31848-night-vigil.json](./31848-night-vigil.json) |
 | Night Walk | 62008 | [62008-night-walk.json](./62008-night-walk.json) |
+| Night Walker | 231540 | [231540-night-walker.json](./231540-night-walker.json) |
 | Night Walker | 256316 | [256316-night-walker.json](./256316-night-walker.json) |
 | Night Watch | 20540 | [20540-night-watch.json](./20540-night-watch.json) |
 | Night Watch | 231811 | [231811-night-watch.json](./231811-night-watch.json) |
