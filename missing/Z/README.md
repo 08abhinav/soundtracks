@@ -474,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenvader | 358316 | [358316-zenvader.json](./358316-zenvader.json) |
 | Zenza | 25949 | [25949-zenza.json](./25949-zenza.json) |
 | Zenzizenzic | 17924 | [17924-zenzizenzic.json](./17924-zenzizenzic.json) |
+| Zeo Effect | 235638 | [235638-zeo-effect.json](./235638-zeo-effect.json) |
 | Zeon | 57340 | [57340-zeon.json](./57340-zeon.json) |
 | Zeon 25 | 103459 | [103459-zeon-25.json](./103459-zeon-25.json) |
 | Zep | 377136 | [377136-zep.json](./377136-zep.json) |
@@ -1181,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies and Keys | 197393 | [197393-zombies-and-keys.json](./197393-zombies-and-keys.json) |
 | Zombies and Orcs | 327822 | [327822-zombies-and-orcs.json](./327822-zombies-and-orcs.json) |
 | Zombies and Strangers | 350512 | [350512-zombies-and-strangers.json](./350512-zombies-and-strangers.json) |
+| Zombies Aren't Your Friends | 235654 | [235654-zombies-arent-your-friends.json](./235654-zombies-arent-your-friends.json) |
 | Zombies Around Us | 197319 | [197319-zombies-around-us.json](./197319-zombies-around-us.json) |
 | Zombies ate my dog | 192813 | [192813-zombies-ate-my-dog.json](./192813-zombies-ate-my-dog.json) |
 | Zombies Ate My Femboy | 355618 | [355618-zombies-ate-my-femboy.json](./355618-zombies-ate-my-femboy.json) |
