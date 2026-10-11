@@ -10061,6 +10061,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot 4: It's About Time | 135254 | [135254-crash-bandicoot-4-its-about-time.json](./135254-crash-bandicoot-4-its-about-time.json) |
 | Crash Bandicoot 4: N. Hanced | 323730 | [323730-crash-bandicoot-4-n-hanced.json](./323730-crash-bandicoot-4-n-hanced.json) |
 | Crash Bandicoot Action Pack | 196663 | [196663-crash-bandicoot-action-pack.json](./196663-crash-bandicoot-action-pack.json) |
+| Crash Bandicoot N. Sane Trilogy: Future Tense | 229857 | [229857-crash-bandicoot-n-sane-trilogy-future-tense.json](./229857-crash-bandicoot-n-sane-trilogy-future-tense.json) |
+| Crash Bandicoot N. Sane Trilogy: Stormy Ascent | 229856 | [229856-crash-bandicoot-n-sane-trilogy-stormy-ascent.json](./229856-crash-bandicoot-n-sane-trilogy-stormy-ascent.json) |
 | Crash Bandicoot N.Finite | 374279 | [374279-crash-bandicoot-n-finite.json](./374279-crash-bandicoot-n-finite.json) |
 | Crash Bandicoot Nitro Kart 2 | 21749 | [21749-crash-bandicoot-nitro-kart-2.json](./21749-crash-bandicoot-nitro-kart-2.json) |
 | Crash Bandicoot Nitro Kart 3D | 80155 | [80155-crash-bandicoot-nitro-kart-3d.json](./80155-crash-bandicoot-nitro-kart-3d.json) |
