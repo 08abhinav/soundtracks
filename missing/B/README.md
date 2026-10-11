@@ -4261,6 +4261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betty Bad | 23449 | [23449-betty-bad.json](./23449-betty-bad.json) |
 | Betty's Beer Bar | 70365 | [70365-bettys-beer-bar.json](./70365-bettys-beer-bar.json) |
 | Betű Kereső | 137966 | [137966-betu-kereso.json](./137966-betu-kereso.json) |
+| Between | 236177 | [236177-between.json](./236177-between.json) |
 | Between | 398980 | [398980-between.json](./398980-between.json) |
 | Between | 95369 | [95369-between.json](./95369-between.json) |
 | Between Adventures Idle | 365079 | [365079-between-adventures-idle.json](./365079-between-adventures-idle.json) |
@@ -4620,6 +4621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Burger | 256294 | [256294-big-burger.json](./256294-big-burger.json) |
 | Big Burger Store | 333004 | [333004-big-burger-store.json](./333004-big-burger-store.json) |
 | Big Business | 14300 | [14300-big-business.json](./14300-big-business.json) |
+| Big Butt Bobby | 236190 | [236190-big-butt-bobby.json](./236190-big-butt-bobby.json) |
 | Big Cat from Hell | 165586 | [165586-big-cat-from-hell.json](./165586-big-cat-from-hell.json) |
 | Big Cat Jigsaw Quest | 338236 | [338236-big-cat-jigsaw-quest.json](./338236-big-cat-jigsaw-quest.json) |
 | Big Cat Jigsaw Quest: Expansion Pack 1 | 338237 | [338237-big-cat-jigsaw-quest-expansion-pack-1.json](./338237-big-cat-jigsaw-quest-expansion-pack-1.json) |
@@ -8543,6 +8545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Dash-XL 3D | 47624 | [47624-boulder-dash-xl-3d.json](./47624-boulder-dash-xl-3d.json) |
 | Boulder Dash: 30th Anniversary | 25569 | [25569-boulder-dash-30th-anniversary.json](./25569-boulder-dash-30th-anniversary.json) |
 | Boulder Dash: 40th Anniversary | 316942 | [316942-boulder-dash-40th-anniversary.json](./316942-boulder-dash-40th-anniversary.json) |
+| Boulder Escape | 236168 | [236168-boulder-escape.json](./236168-boulder-escape.json) |
 | Boulder Logic | 289579 | [289579-boulder-logic.json](./289579-boulder-logic.json) |
 | Boulder Match 4 | 66673 | [66673-boulder-match-4.json](./66673-boulder-match-4.json) |
 | Boulderdash | 47237 | [47237-boulderdash.json](./47237-boulderdash.json) |
