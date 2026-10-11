@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T19:52:35.449Z",
-  "total_missing": 198714,
+  "generated_at": "2026-10-11T19:57:28.693Z",
+  "total_missing": 198709,
   "games": [
     {
       "igdb_id": 191680,
@@ -324386,11 +324386,6 @@
       "igdb_id": 323801,
       "game_name": "Gandhi III",
       "file": "missing/G/323801-gandhi-iii.json"
-    },
-    {
-      "igdb_id": 11177,
-      "game_name": "Gang Beasts",
-      "file": "missing/G/11177-gang-beasts.json"
     },
     {
       "igdb_id": 283265,
@@ -837053,11 +837048,6 @@
       "file": "missing/T/383075-the-cat-is-dying.json"
     },
     {
-      "igdb_id": 11270,
-      "game_name": "The Cat Lady",
-      "file": "missing/T/11270-the-cat-lady.json"
-    },
-    {
       "igdb_id": 34837,
       "game_name": "The Cat Machine",
       "file": "missing/T/34837-the-cat-machine.json"
@@ -879441,11 +879431,6 @@
       "igdb_id": 159083,
       "game_name": "Throne: Kingdom at War",
       "file": "missing/T/159083-throne-kingdom-at-war.json"
-    },
-    {
-      "igdb_id": 107300,
-      "game_name": "Thronebreaker: The Witcher Tales",
-      "file": "missing/T/107300-thronebreaker-the-witcher-tales.json"
     },
     {
       "igdb_id": 277332,
@@ -928373,11 +928358,6 @@
       "file": "missing/U/410358-unova-nights.json"
     },
     {
-      "igdb_id": 115843,
-      "game_name": "Unpacking",
-      "file": "missing/U/115843-unpacking.json"
-    },
-    {
       "igdb_id": 338808,
       "game_name": "Unpan",
       "file": "missing/U/338808-unpan.json"
@@ -971516,11 +971496,6 @@
       "igdb_id": 417650,
       "game_name": "World of Warcraft: Forever",
       "file": "missing/W/417650-world-of-warcraft-forever.json"
-    },
-    {
-      "igdb_id": 11593,
-      "game_name": "World of Warcraft: Legion",
-      "file": "missing/W/11593-world-of-warcraft-legion.json"
     },
     {
       "igdb_id": 136338,
