@@ -5786,6 +5786,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wren's Resurgence | 288455 | [288455-wrens-resurgence.json](./288455-wrens-resurgence.json) |
 | Wrench Towers | 361250 | [361250-wrench-towers.json](./361250-wrench-towers.json) |
 | WrenchFighter Turbo | 136234 | [136234-wrenchfighter-turbo.json](./136234-wrenchfighter-turbo.json) |
+| Wrestle Angels | 228611 | [228611-wrestle-angels.json](./228611-wrestle-angels.json) |
+| Wrestle Angels 2: Top Eventer | 228615 | [228615-wrestle-angels-2-top-eventer.json](./228615-wrestle-angels-2-top-eventer.json) |
+| Wrestle Angels 3 | 228617 | [228617-wrestle-angels-3.json](./228617-wrestle-angels-3.json) |
+| Wrestle Angels Special: Mou Hitori no Top Eventer | 228623 | [228623-wrestle-angels-special-mou-hitori-no-top-eventer.json](./228623-wrestle-angels-special-mou-hitori-no-top-eventer.json) |
 | Wrestle Fight Girls | 59272 | [59272-wrestle-fight-girls.json](./59272-wrestle-fight-girls.json) |
 | Wrestle Jump Man | 101077 | [101077-wrestle-jump-man.json](./101077-wrestle-jump-man.json) |
 | Wrestle Kingdom | 7251 | [7251-wrestle-kingdom.json](./7251-wrestle-kingdom.json) |
