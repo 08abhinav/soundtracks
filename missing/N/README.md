@@ -3398,6 +3398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninjamurai | 44521 | [44521-ninjamurai.json](./44521-ninjamurai.json) |
 | Ninjapple | 129666 | [129666-ninjapple.json](./129666-ninjapple.json) |
 | Ninjas Busters: Whack A Ninja | 149712 | [149712-ninjas-busters-whack-a-ninja.json](./149712-ninjas-busters-whack-a-ninja.json) |
+| Ninjas in the Dungeon | 235658 | [235658-ninjas-in-the-dungeon.json](./235658-ninjas-in-the-dungeon.json) |
 | Ninjas Infinity | 339842 | [339842-ninjas-infinity.json](./339842-ninjas-infinity.json) |
 | Ninjas on Trampolines | 351613 | [351613-ninjas-on-trampolines.json](./351613-ninjas-on-trampolines.json) |
 | Ninjas Stars | 344967 | [344967-ninjas-stars.json](./344967-ninjas-stars.json) |
@@ -4418,6 +4419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Just An Ordinary Ballerina | 60018 | [60018-not-just-an-ordinary-ballerina.json](./60018-not-just-an-ordinary-ballerina.json) |
 | Not Lonely Up! | 386338 | [386338-not-lonely-up.json](./386338-not-lonely-up.json) |
 | Not Match | 232147 | [232147-not-match.json](./232147-not-match.json) |
+| Not Me! | 235663 | [235663-not-me.json](./235663-not-me.json) |
 | Not Meow Purroblem | 247539 | [247539-not-meow-purroblem.json](./247539-not-meow-purroblem.json) |
 | Not Monsters | 412784 | [412784-not-monsters.json](./412784-not-monsters.json) |
 | Not my day | 111170 | [111170-not-my-day.json](./111170-not-my-day.json) |
