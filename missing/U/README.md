@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Space Commando | 35963 | [35963-ultimate-space-commando.json](./35963-ultimate-space-commando.json) |
 | Ultimate Sparring | 334077 | [334077-ultimate-sparring.json](./334077-ultimate-sparring.json) |
 | Ultimate Spider Hero | 81629 | [81629-ultimate-spider-hero.json](./81629-ultimate-spider-hero.json) |
+| Ultimate Spider-Man | 230193 | [230193-ultimate-spider-man.json](./230193-ultimate-spider-man.json) |
 | Ultimate Spider-Man | 249168 | [249168-ultimate-spider-man.json](./249168-ultimate-spider-man.json) |
 | Ultimate Spider-Man | 4225 | [4225-ultimate-spider-man.json](./4225-ultimate-spider-man.json) |
 | Ultimate Spider-Man in the Villain Round-Up | 220114 | [220114-ultimate-spider-man-in-the-villain-round-up.json](./220114-ultimate-spider-man-in-the-villain-round-up.json) |
