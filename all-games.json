@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T21:35:14.994Z",
-  "total_soundtracks": 1478,
+  "generated_at": "2026-10-11T21:35:26.646Z",
+  "total_soundtracks": 1479,
   "games": [
     {
       "igdb_id": 7522,
@@ -3798,6 +3798,20 @@
           "album_name": "Death Stranding 2: On The Beach (Original Video Game Score)",
           "spotify_url": "https://open.spotify.com/album/39MPSJCCB5njIfTEkm7W9Q",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 145099,
+      "game_name": "Death's Door",
+      "game_url": "https://ostdb.net/games/deaths-door",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731a089a8c538eedec4cc083ca",
+      "albums": [
+        {
+          "album_name": "Death's Door (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/34XxiymeyTAQD7cdmGOVa8",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
