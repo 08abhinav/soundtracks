@@ -3658,6 +3658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Royale | 181144 | [181144-hero-royale.json](./181144-hero-royale.json) |
 | Hero Rush: Mad King | 72417 | [72417-hero-rush-mad-king.json](./72417-hero-rush-mad-king.json) |
 | Hero Secret Realm Survivor Roguelike | 366293 | [366293-hero-secret-realm-survivor-roguelike.json](./366293-hero-secret-realm-survivor-roguelike.json) |
+| Hero Shuugou!! Pinball Party | 228639 | [228639-hero-shuugou-pinball-party.json](./228639-hero-shuugou-pinball-party.json) |
 | Hero Siege | 11708 | [11708-hero-siege.json](./11708-hero-siege.json) |
 | Hero Siege Complete | 53188 | [53188-hero-siege-complete.json](./53188-hero-siege-complete.json) |
 | Hero Siege: Bifröst Jötunn Skin | 316383 | [316383-hero-siege-bifrost-jotunn-skin.json](./316383-hero-siege-bifrost-jotunn-skin.json) |
