@@ -1736,6 +1736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barnstormer | 92849 | [92849-barnstormer.json](./92849-barnstormer.json) |
 | Barnstormers: Determined to Win | 241304 | [241304-barnstormers-determined-to-win.json](./241304-barnstormers-determined-to-win.json) |
 | Barnstorming | 18032 | [18032-barnstorming.json](./18032-barnstorming.json) |
+| Barnstorming | 234093 | [234093-barnstorming.json](./234093-barnstorming.json) |
 | Barnyard | 3794 | [3794-barnyard.json](./3794-barnyard.json) |
 | Barnyard Blast: Swine of the Night | 47917 | [47917-barnyard-blast-swine-of-the-night.json](./47917-barnyard-blast-swine-of-the-night.json) |
 | Barnyard Blaster Lite | 100327 | [100327-barnyard-blaster-lite.json](./100327-barnyard-blaster-lite.json) |
@@ -10188,6 +10189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bub's Big Blowout! | 265065 | [265065-bubs-big-blowout.json](./265065-bubs-big-blowout.json) |
 | Buba | 120348 | [120348-buba.json](./120348-buba.json) |
 | Bubba Yuga | 383523 | [383523-bubba-yuga.json](./383523-bubba-yuga.json) |
+| Bubba's Diner | 233969 | [233969-bubbas-diner.json](./233969-bubbas-diner.json) |
 | Bubbaruka! | 149483 | [149483-bubbaruka.json](./149483-bubbaruka.json) |
 | Bubbelsche Deluxe | 322062 | [322062-bubbelsche-deluxe.json](./322062-bubbelsche-deluxe.json) |
 | Bubberknuckles | 129044 | [129044-bubberknuckles.json](./129044-bubberknuckles.json) |
