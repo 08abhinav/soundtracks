@@ -11401,7 +11401,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings II: The Reaper's Due Content Pack | 253291 | [253291-crusader-kings-ii-the-reapers-due-content-pack.json](./253291-crusader-kings-ii-the-reapers-due-content-pack.json) |
 | Crusader Kings II: Way of Life | 22667 | [22667-crusader-kings-ii-way-of-life.json](./22667-crusader-kings-ii-way-of-life.json) |
 | Crusader Kings II: Way of Life Collection | 52857 | [52857-crusader-kings-ii-way-of-life-collection.json](./52857-crusader-kings-ii-way-of-life-collection.json) |
-| Crusader Kings III | 124954 | [124954-crusader-kings-iii.json](./124954-crusader-kings-iii.json) |
 | Crusader Kings III Content Creator Pack: Arctic Attire | 352853 | [352853-crusader-kings-iii-content-creator-pack-arctic-attire.json](./352853-crusader-kings-iii-content-creator-pack-arctic-attire.json) |
 | Crusader Kings III Content Creator Pack: Medieval Monuments | 352852 | [352852-crusader-kings-iii-content-creator-pack-medieval-monuments.json](./352852-crusader-kings-iii-content-creator-pack-medieval-monuments.json) |
 | Crusader Kings III Content Creator Pack: West Slavic Attire | 352854 | [352854-crusader-kings-iii-content-creator-pack-west-slavic-attire.json](./352854-crusader-kings-iii-content-creator-pack-west-slavic-attire.json) |
