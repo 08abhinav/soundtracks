@@ -710,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Escape | 273468 | [273468-magic-escape.json](./273468-magic-escape.json) |
 | Magic Factory | 115047 | [115047-magic-factory.json](./115047-magic-factory.json) |
 | Magic Fairy Tales: Barbie as Rapunzel | 19401 | [19401-magic-fairy-tales-barbie-as-rapunzel.json](./19401-magic-fairy-tales-barbie-as-rapunzel.json) |
+| Magic Fantasy | 232894 | [232894-magic-fantasy.json](./232894-magic-fantasy.json) |
 | Magic Farm | 298707 | [298707-magic-farm.json](./298707-magic-farm.json) |
 | Magic Farm 2: Fairy Lands - Premium Edition | 291715 | [291715-magic-farm-2-fairy-lands-premium-edition.json](./291715-magic-farm-2-fairy-lands-premium-edition.json) |
 | Magic Flight Academy | 102947 | [102947-magic-flight-academy.json](./102947-magic-flight-academy.json) |
@@ -7333,6 +7334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Military Conflict: Vietnam | 154984 | [154984-military-conflict-vietnam.json](./154984-military-conflict-vietnam.json) |
 | Military Crusaders | 157002 | [157002-military-crusaders.json](./157002-military-crusaders.json) |
 | Military Defense | 326192 | [326192-military-defense.json](./326192-military-defense.json) |
+| Military Enlistment Office Escape Simulator | 233030 | [233030-military-enlistment-office-escape-simulator.json](./233030-military-enlistment-office-escape-simulator.json) |
 | Military Madness | 270701 | [270701-military-madness.json](./270701-military-madness.json) |
 | Military Madness | 44334 | [44334-military-madness.json](./44334-military-madness.json) |
 | Military Madness: Nectaris | 20505 | [20505-military-madness-nectaris.json](./20505-military-madness-nectaris.json) |
@@ -12368,6 +12370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Game | 376646 | [376646-music-game.json](./376646-music-game.json) |
 | Music GunGun! | 64963 | [64963-music-gungun.json](./64963-music-gungun.json) |
 | Music in Motion | 265745 | [265745-music-in-motion.json](./265745-music-in-motion.json) |
+| Music Inc | 232906 | [232906-music-inc.json](./232906-music-inc.json) |
 | Music Intro Pro 68K | 265972 | [265972-music-intro-pro-68k.json](./265972-music-intro-pro-68k.json) |
 | Music Maker | 100265 | [100265-music-maker.json](./100265-music-maker.json) |
 | Music Man 3: Last Dance | 295654 | [295654-music-man-3-last-dance.json](./295654-music-man-3-last-dance.json) |
