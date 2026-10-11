@@ -4128,6 +4128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf is Hard | 237963 | [237963-golf-is-hard.json](./237963-golf-is-hard.json) |
 | Golf Island | 58211 | [58211-golf-island.json](./58211-golf-island.json) |
 | Golf Keeper | 130954 | [130954-golf-keeper.json](./130954-golf-keeper.json) |
+| Golf King: World Tour | 233430 | [233430-golf-king-world-tour.json](./233430-golf-king-world-tour.json) |
 | Golf Loop | 329570 | [329570-golf-loop.json](./329570-golf-loop.json) |
 | Golf Master | 137673 | [137673-golf-master.json](./137673-golf-master.json) |
 | Golf Monday | 287234 | [287234-golf-monday.json](./287234-golf-monday.json) |
