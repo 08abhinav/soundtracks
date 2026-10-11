@@ -2607,6 +2607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against | 152211 | [152211-against.json](./152211-against.json) |
 | Against All Odds | 174102 | [174102-against-all-odds.json](./174102-against-all-odds.json) |
 | Against All Odds | 228719 | [228719-against-all-odds.json](./228719-against-all-odds.json) |
+| Against All Odds | 238378 | [238378-against-all-odds.json](./238378-against-all-odds.json) |
 | Against All Skies | 379502 | [379502-against-all-skies.json](./379502-against-all-skies.json) |
 | Against Ether | 173293 | [173293-against-ether.json](./173293-against-ether.json) |
 | Against the Cluck | 364641 | [364641-against-the-cluck.json](./364641-against-the-cluck.json) |
@@ -4934,6 +4935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amatsu Sora ni Saku | 309672 | [309672-amatsu-sora-ni-saku.json](./309672-amatsu-sora-ni-saku.json) |
 | Amatsuki Mahjong | 321045 | [321045-amatsuki-mahjong.json](./321045-amatsuki-mahjong.json) |
 | Amatsuko | 383153 | [383153-amatsuko.json](./383153-amatsuko.json) |
+| Amaura on the High Seas | 238364 | [238364-amaura-on-the-high-seas.json](./238364-amaura-on-the-high-seas.json) |
 | Amaya's Lost Soul | 213982 | [213982-amayas-lost-soul.json](./213982-amayas-lost-soul.json) |
 | Amayakashi na Kanojo: Boseiteki na Ayakashi Musume to Ama Ero Seikatsu Hajimemasu | 194578 | [194578-amayakashi-na-kanojo-boseiteki-na-ayakashi-musume-to-ama-ero-seikatsu-hajimemasu.json](./194578-amayakashi-na-kanojo-boseiteki-na-ayakashi-musume-to-ama-ero-seikatsu-hajimemasu.json) |
 | Amaze | 29235 | [29235-amaze.json](./29235-amaze.json) |
@@ -8878,6 +8880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifact | 79826 | [79826-artifact.json](./79826-artifact.json) |
 | Artifact Adventure | 26468 | [26468-artifact-adventure.json](./26468-artifact-adventure.json) |
 | Artifact Adventure Gaiden DX | 119527 | [119527-artifact-adventure-gaiden-dx.json](./119527-artifact-adventure-gaiden-dx.json) |
+| Artifact Conquest | 238538 | [238538-artifact-conquest.json](./238538-artifact-conquest.json) |
 | Artifact Hunter | 156036 | [156036-artifact-hunter.json](./156036-artifact-hunter.json) |
 | Artifact Red-X | 63365 | [63365-artifact-red-x.json](./63365-artifact-red-x.json) |
 | Artifact Run | 384534 | [384534-artifact-run.json](./384534-artifact-run.json) |
