@@ -2295,6 +2295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Invader | 407547 | [407547-endless-invader.json](./407547-endless-invader.json) |
 | Endless Invaders | 100365 | [100365-endless-invaders.json](./100365-endless-invaders.json) |
 | Endless Isolation | 405715 | [405715-endless-isolation.json](./405715-endless-isolation.json) |
+| Endless Jump: Infinity Loop | 232331 | [232331-endless-jump-infinity-loop.json](./232331-endless-jump-infinity-loop.json) |
 | Endless Knight | 126901 | [126901-endless-knight.json](./126901-endless-knight.json) |
 | Endless Labyrinth | 32264 | [32264-endless-labyrinth.json](./32264-endless-labyrinth.json) |
 | Endless Legend 2 | 329138 | [329138-endless-legend-2.json](./329138-endless-legend-2.json) |
