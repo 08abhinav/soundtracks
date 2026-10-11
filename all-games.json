@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T19:45:13.913Z",
-  "total_soundtracks": 1461,
+  "generated_at": "2026-10-11T19:50:13.865Z",
+  "total_soundtracks": 1462,
   "games": [
     {
       "igdb_id": 7522,
@@ -1413,6 +1413,20 @@
           "spotify_url": "https://music.apple.com/us/album/avatar-frontiers-of-pandora-secrets-of-the/1778719367?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1778719367"
+        }
+      ]
+    },
+    {
+      "igdb_id": 10010,
+      "game_name": "Aveyond 1: Rhen's Quest",
+      "game_url": "https://ostdb.net/games/aveyond-1-rhens-quest",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ac42ad824ae5caa648542eba",
+      "albums": [
+        {
+          "album_name": "Aveyond 1: Rhen's Quest (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7dWAfO7F8wrcQV8iZlfkxd",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
