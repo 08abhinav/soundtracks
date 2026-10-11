@@ -5331,6 +5331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey Rage 2005 | 70576 | [70576-hockey-rage-2005.json](./70576-hockey-rage-2005.json) |
 | Hockey Solitaire | 102578 | [102578-hockey-solitaire.json](./102578-hockey-solitaire.json) |
 | Hockey Space | 44174 | [44174-hockey-space.json](./44174-hockey-space.json) |
+| Hockey Stars | 238931 | [238931-hockey-stars.json](./238931-hockey-stars.json) |
 | Hockey Super Squad | 321537 | [321537-hockey-super-squad.json](./321537-hockey-super-squad.json) |
 | Hockey: Strategy of Success | 115690 | [115690-hockey-strategy-of-success.json](./115690-hockey-strategy-of-success.json) |
 | Hockeysplit | 128976 | [128976-hockeysplit.json](./128976-hockeysplit.json) |
