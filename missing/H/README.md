@@ -4547,6 +4547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Through Time | 128909 | [128909-hidden-through-time.json](./128909-hidden-through-time.json) |
 | Hidden Through Time 2: Discovery | 291422 | [291422-hidden-through-time-2-discovery.json](./291422-hidden-through-time-2-discovery.json) |
 | Hidden Through Time: Aztec Rituals | 212224 | [212224-hidden-through-time-aztec-rituals.json](./212224-hidden-through-time-aztec-rituals.json) |
+| Hidden Through Time: Deluxe Edition | 237852 | [237852-hidden-through-time-deluxe-edition.json](./237852-hidden-through-time-deluxe-edition.json) |
 | Hidden Through Time: Legends of Japan | 154514 | [154514-hidden-through-time-legends-of-japan.json](./154514-hidden-through-time-legends-of-japan.json) |
 | Hidden Through Time: Pirate Treasures | 212223 | [212223-hidden-through-time-pirate-treasures.json](./212223-hidden-through-time-pirate-treasures.json) |
 | Hidden Through Time: Road to Rome | 154515 | [154515-hidden-through-time-road-to-rome.json](./154515-hidden-through-time-road-to-rome.json) |
