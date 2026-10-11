@@ -224,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yarudora Series Vol. 2: Kisetsu wo Dakishimete | 65029 | [65029-yarudora-series-vol-2-kisetsu-wo-dakishimete.json](./65029-yarudora-series-vol-2-kisetsu-wo-dakishimete.json) |
 | Yarudora Series Vol. 3: Sampaguita | 79349 | [79349-yarudora-series-vol-3-sampaguita.json](./79349-yarudora-series-vol-3-sampaguita.json) |
 | Yarudora Series Vol. 4: Yukiwari no Hana | 79348 | [79348-yarudora-series-vol-4-yukiwari-no-hana.json](./79348-yarudora-series-vol-4-yukiwari-no-hana.json) |
+| Yasashii Tamagotchi | 229845 | [229845-yasashii-tamagotchi.json](./229845-yasashii-tamagotchi.json) |
 | YASG | 122326 | [122326-yasg.json](./122326-yasg.json) |
 | Yasha: Legends of the Demon Blade - Deluxe Edition | 351139 | [351139-yasha-legends-of-the-demon-blade-deluxe-edition.json](./351139-yasha-legends-of-the-demon-blade-deluxe-edition.json) |
 | Yashi - Sand Driver | 411675 | [411675-yashi-sand-driver.json](./411675-yashi-sand-driver.json) |
@@ -994,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoyozo | 272481 | [272481-yoyozo.json](./272481-yoyozo.json) |
 | Yozemi no Center Shoujun Series: Eigo-hen | 321355 | [321355-yozemi-no-center-shoujun-series-eigo-hen.json](./321355-yozemi-no-center-shoujun-series-eigo-hen.json) |
 | Yozora Rhapsody | 30044 | [30044-yozora-rhapsody.json](./30044-yozora-rhapsody.json) |
+| Yqriel | 229565 | [229565-yqriel.json](./229565-yqriel.json) |
 | YRek Lost In Portals | 166757 | [166757-yrek-lost-in-portals.json](./166757-yrek-lost-in-portals.json) |
 | Yrkkey's Paradise | 279712 | [279712-yrkkeys-paradise.json](./279712-yrkkeys-paradise.json) |
 | Ys | 206128 | [206128-ys.json](./206128-ys.json) |
@@ -1236,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Nikki Ver. 1.00 | 202368 | [202368-yume-nikki-ver-1-00.json](./202368-yume-nikki-ver-1-00.json) |
 | Yume Nikki Ware | 307091 | [307091-yume-nikki-ware.json](./307091-yume-nikki-ware.json) |
 | Yume Nikki: Atari 2600 | 229681 | [229681-yume-nikki-atari-2600.json](./229681-yume-nikki-atari-2600.json) |
+| Yume Nikki: Date Poniko! | 229567 | [229567-yume-nikki-date-poniko.json](./229567-yume-nikki-date-poniko.json) |
 | Yume Nikki: Dream Dairy | 262283 | [262283-yume-nikki-dream-dairy.json](./262283-yume-nikki-dream-dairy.json) |
 | Yume Nikki: Dream Diary | 81350 | [81350-yume-nikki-dream-diary.json](./81350-yume-nikki-dream-diary.json) |
 | Yume Nikki: Mod(ified) Project | 229682 | [229682-yume-nikki-mod-ified-project.json](./229682-yume-nikki-mod-ified-project.json) |
