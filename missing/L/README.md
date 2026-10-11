@@ -2001,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Indiana Jones: The Original Adventures | 189 | [189-lego-indiana-jones-the-original-adventures.json](./189-lego-indiana-jones-the-original-adventures.json) |
 | LEGO Indiana Jones: The Original Adventures / Kung Fu Panda | 142110 | [142110-lego-indiana-jones-the-original-adventures-kung-fu-panda.json](./142110-lego-indiana-jones-the-original-adventures-kung-fu-panda.json) |
 | LEGO Island | 5612 | [5612-lego-island.json](./5612-lego-island.json) |
+| LEGO Island 2: The Brickster's Revenge | 229841 | [229841-lego-island-2-the-bricksters-revenge.json](./229841-lego-island-2-the-bricksters-revenge.json) |
 | LEGO Island 2: The Brickster's Revenge | 229925 | [229925-lego-island-2-the-bricksters-revenge.json](./229925-lego-island-2-the-bricksters-revenge.json) |
 | LEGO Island 2: The Brickster's Revenge | 5616 | [5616-lego-island-2-the-bricksters-revenge.json](./5616-lego-island-2-the-bricksters-revenge.json) |
 | LEGO Juniors | 88873 | [88873-lego-juniors.json](./88873-lego-juniors.json) |
@@ -2033,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Racers | 248764 | [248764-lego-racers.json](./248764-lego-racers.json) |
 | LEGO Racers | 343274 | [343274-lego-racers.json](./343274-lego-racers.json) |
 | LEGO Racers | 422 | [422-lego-racers.json](./422-lego-racers.json) |
+| LEGO Racers 2 | 229843 | [229843-lego-racers-2.json](./229843-lego-racers-2.json) |
 | LEGO Racers 2 | 390 | [390-lego-racers-2.json](./390-lego-racers-2.json) |
 | LEGO Racers: The Video Game | 341908 | [341908-lego-racers-the-video-game.json](./341908-lego-racers-the-video-game.json) |
 | LEGO Rock Band | 194934 | [194934-lego-rock-band.json](./194934-lego-rock-band.json) |
@@ -2073,6 +2075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Star Wars: The Skywalker Saga - The Mandalorian: Season 1 - Character Pack | 201137 | [201137-lego-star-wars-the-skywalker-saga-the-mandalorian-season-1-character-pack.json](./201137-lego-star-wars-the-skywalker-saga-the-mandalorian-season-1-character-pack.json) |
 | LEGO Star Wars: The Skywalker Saga - The Mandalorian: Season 2 - Character Pack | 201139 | [201139-lego-star-wars-the-skywalker-saga-the-mandalorian-season-2-character-pack.json](./201139-lego-star-wars-the-skywalker-saga-the-mandalorian-season-2-character-pack.json) |
 | LEGO Star Wars: The Skywalker Saga - Trooper Pack | 201140 | [201140-lego-star-wars-the-skywalker-saga-trooper-pack.json](./201140-lego-star-wars-the-skywalker-saga-trooper-pack.json) |
+| LEGO Star Wars: The Video Game | 229840 | [229840-lego-star-wars-the-video-game.json](./229840-lego-star-wars-the-video-game.json) |
 | LEGO Studios Backlot | 125320 | [125320-lego-studios-backlot.json](./125320-lego-studios-backlot.json) |
 | LEGO Stunt Rally | 265050 | [265050-lego-stunt-rally.json](./265050-lego-stunt-rally.json) |
 | LEGO Stunt Rally | 4112 | [4112-lego-stunt-rally.json](./4112-lego-stunt-rally.json) |
