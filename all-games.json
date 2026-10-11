@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T21:35:26.646Z",
-  "total_soundtracks": 1479,
+  "generated_at": "2026-10-11T21:35:37.581Z",
+  "total_soundtracks": 1480,
   "games": [
     {
       "igdb_id": 7522,
@@ -5338,6 +5338,20 @@
           "album_name": "FINAL FANTASY III Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/0iprVXbUq6snKAsA8rs9Nd",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 16587,
+      "game_name": "Final Fantasy IV",
+      "game_url": "https://ostdb.net/games/final-fantasy-iv",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27327922359e0355d0de08c24c5",
+      "albums": [
+        {
+          "album_name": "FINAL FANTASY IV Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/55779J248b7xDIJd3iExEn",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
