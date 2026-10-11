@@ -1221,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Workshop: Unhinged | 128550 | [128550-santas-workshop-unhinged.json](./128550-santas-workshop-unhinged.json) |
 | Santa's World | 277577 | [277577-santas-world.json](./277577-santas-world.json) |
 | Santa's Xmas Adventure | 138194 | [138194-santas-xmas-adventure.json](./138194-santas-xmas-adventure.json) |
+| Santaclautchi | 229849 | [229849-santaclautchi.json](./229849-santaclautchi.json) |
 | SantaCraft | 141733 | [141733-santacraft.json](./141733-santacraft.json) |
 | SantaFly | 92838 | [92838-santafly.json](./92838-santafly.json) |
 | Santas Basement | 245808 | [245808-santas-basement.json](./245808-santas-basement.json) |
@@ -3204,6 +3205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Rally 2 | 1572 | [1572-sega-rally-2.json](./1572-sega-rally-2.json) |
 | Sega Rally 2006 | 1573 | [1573-sega-rally-2006.json](./1573-sega-rally-2006.json) |
 | Sega Rally 3 | 1575 | [1575-sega-rally-3.json](./1575-sega-rally-3.json) |
+| Sega Rally Championship | 229864 | [229864-sega-rally-championship.json](./229864-sega-rally-championship.json) |
 | Sega Rally Championship Plus | 374706 | [374706-sega-rally-championship-plus.json](./374706-sega-rally-championship-plus.json) |
 | Sega Rally Championship Plus NetLink Edition | 374707 | [374707-sega-rally-championship-plus-netlink-edition.json](./374707-sega-rally-championship-plus-netlink-edition.json) |
 | Sega Rally Online Arcade | 20592 | [20592-sega-rally-online-arcade.json](./20592-sega-rally-online-arcade.json) |
@@ -17134,6 +17136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stint: Rift Apart | 191168 | [191168-stint-rift-apart.json](./191168-stint-rift-apart.json) |
 | Stíny noci | 397831 | [397831-stiny-noci.json](./397831-stiny-noci.json) |
 | Stirge Hunters | 389600 | [389600-stirge-hunters.json](./389600-stirge-hunters.json) |
+| Stitch | 229562 | [229562-stitch.json](./229562-stitch.json) |
 | Stitch Head | 388232 | [388232-stitch-head.json](./388232-stitch-head.json) |
 | Stitch Laser Blast | 133749 | [133749-stitch-laser-blast.json](./133749-stitch-laser-blast.json) |
 | Stitch Master of Disguise | 133747 | [133747-stitch-master-of-disguise.json](./133747-stitch-master-of-disguise.json) |
