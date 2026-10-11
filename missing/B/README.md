@@ -4140,6 +4140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berserker's Descent | 145433 | [145433-berserkers-descent.json](./145433-berserkers-descent.json) |
 | Berserker's Domain | 350024 | [350024-berserkers-domain.json](./350024-berserkers-domain.json) |
 | Bert and the Snake | 93130 | [93130-bert-and-the-snake.json](./93130-bert-and-the-snake.json) |
+| Bert's Family Feud: The Interactive DVD Game | 231831 | [231831-berts-family-feud-the-interactive-dvd-game.json](./231831-berts-family-feud-the-interactive-dvd-game.json) |
 | Bertha Butt's Boogie | 314367 | [314367-bertha-butts-boogie.json](./314367-bertha-butts-boogie.json) |
 | Bertie the Stableboy | 265410 | [265410-bertie-the-stableboy.json](./265410-bertie-the-stableboy.json) |
 | Berty the Giraffe | 344391 | [344391-berty-the-giraffe.json](./344391-berty-the-giraffe.json) |
@@ -5027,6 +5028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Roulette | 404213 | [404213-bingo-roulette.json](./404213-bingo-roulette.json) |
 | Bingo TV | 276406 | [276406-bingo-tv.json](./276406-bingo-tv.json) |
 | Bingo Tycoon! | 344901 | [344901-bingo-tycoon.json](./344901-bingo-tycoon.json) |
+| Bingo Wackadoo Watch | 231828 | [231828-bingo-wackadoo-watch.json](./231828-bingo-wackadoo-watch.json) |
 | Bingo: Pet Rescue | 258965 | [258965-bingo-pet-rescue.json](./258965-bingo-pet-rescue.json) |
 | Bingo!!! | 106757 | [106757-bingo.json](./106757-bingo.json) |
 | Biniax | 93357 | [93357-biniax.json](./93357-biniax.json) |
@@ -11231,6 +11233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 27 | 355086 | [355086-bus-simulator-27.json](./355086-bus-simulator-27.json) |
 | Bus Simulator 3D | 241060 | [241060-bus-simulator-3d.json](./241060-bus-simulator-3d.json) |
 | Bus Simulator Vietnam | 384614 | [384614-bus-simulator-vietnam.json](./384614-bus-simulator-vietnam.json) |
+| Bus Simulator: Car Driving | 231770 | [231770-bus-simulator-car-driving.json](./231770-bus-simulator-car-driving.json) |
 | Bus Simulator: City Driving Ultimate | 264902 | [264902-bus-simulator-city-driving-ultimate.json](./264902-bus-simulator-city-driving-ultimate.json) |
 | Bus Simulator: Original | 260056 | [260056-bus-simulator-original.json](./260056-bus-simulator-original.json) |
 | Bus Stop | 301921 | [301921-bus-stop.json](./301921-bus-stop.json) |
