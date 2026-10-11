@@ -8748,9 +8748,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slots | 287558 | [287558-slots.json](./287558-slots.json) |
 | Slots & Slaughter | 411731 | [411731-slots-and-slaughter.json](./411731-slots-and-slaughter.json) |
 | Slots Ancient | 232572 | [232572-slots-ancient.json](./232572-slots-ancient.json) |
+| Slots Frenzy | 232359 | [232359-slots-frenzy.json](./232359-slots-frenzy.json) |
 | Slots of Poker at Aces Casino | 147974 | [147974-slots-of-poker-at-aces-casino.json](./147974-slots-of-poker-at-aces-casino.json) |
 | Slots of the Season | 147975 | [147975-slots-of-the-season.json](./147975-slots-of-the-season.json) |
 | Slots Royale: 777 Casino Games | 231072 | [231072-slots-royale-777-casino-games.json](./231072-slots-royale-777-casino-games.json) |
+| Slots: Pharaoh's Way Casino | 232358 | [232358-slots-pharaohs-way-casino.json](./232358-slots-pharaohs-way-casino.json) |
 | SlotsNStocks | 399718 | [399718-slotsnstocks.json](./399718-slotsnstocks.json) |
 | Slotter Chou Mania: Antonio Inoki ga Genki ni Suru Pachi-Slot Ki | 77014 | [77014-slotter-chou-mania-antonio-inoki-ga-genki-ni-suru-pachi-slot-ki.json](./77014-slotter-chou-mania-antonio-inoki-ga-genki-ni-suru-pachi-slot-ki.json) |
 | Slotter Mania 8 | 78653 | [78653-slotter-mania-8.json](./78653-slotter-mania-8.json) |
@@ -19339,6 +19341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bad Hero | 296504 | [296504-super-bad-hero.json](./296504-super-bad-hero.json) |
 | Super Ball Arena | 215707 | [215707-super-ball-arena.json](./215707-super-ball-arena.json) |
 | Super Ball Juggling | 233540 | [233540-super-ball-juggling.json](./233540-super-ball-juggling.json) |
+| Super Balloon Rush | 232343 | [232343-super-balloon-rush.json](./232343-super-balloon-rush.json) |
 | Super Barista | 128408 | [128408-super-barista.json](./128408-super-barista.json) |
 | Super Baseball | 40676 | [40676-super-baseball.json](./40676-super-baseball.json) |
 | Super Baseball | 81283 | [81283-super-baseball.json](./81283-super-baseball.json) |
@@ -19945,6 +19948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations: Random 6 | 268950 | [268950-super-jigsaw-puzzle-generations-random-6.json](./268950-super-jigsaw-puzzle-generations-random-6.json) |
 | Super Jigsaw Puzzle: Monuments | 103792 | [103792-super-jigsaw-puzzle-monuments.json](./103792-super-jigsaw-puzzle-monuments.json) |
 | Super Jigsaw Puzzle: Space | 110937 | [110937-super-jigsaw-puzzle-space.json](./110937-super-jigsaw-puzzle-space.json) |
+| Super Juicy HD | 232346 | [232346-super-juicy-hd.json](./232346-super-juicy-hd.json) |
 | Super Jump Guys | 267683 | [267683-super-jump-guys.json](./267683-super-jump-guys.json) |
 | Super Jump Ninja | 400458 | [400458-super-jump-ninja.json](./400458-super-jump-ninja.json) |
 | Super Junior Shake | 266183 | [266183-super-junior-shake.json](./266183-super-junior-shake.json) |
@@ -21455,6 +21459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperSquad.GG | 292002 | [292002-supersquad-gg.json](./292002-supersquad-gg.json) |
 | Superstar Archery | 358829 | [358829-superstar-archery.json](./358829-superstar-archery.json) |
 | Superstar Chefs | 57666 | [57666-superstar-chefs.json](./57666-superstar-chefs.json) |
+| Superstar DJ | 232353 | [232353-superstar-dj.json](./232353-superstar-dj.json) |
 | SuperStar Ebidan | 373026 | [373026-superstar-ebidan.json](./373026-superstar-ebidan.json) |
 | Superstar Hero | 118775 | [118775-superstar-hero.json](./118775-superstar-hero.json) |
 | Superstar Hockey: Pass & Score | 227379 | [227379-superstar-hockey-pass-and-score.json](./227379-superstar-hockey-pass-and-score.json) |
@@ -22479,6 +22484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online Arcade: Deep Explorer | 110791 | [110791-sword-art-online-arcade-deep-explorer.json](./110791-sword-art-online-arcade-deep-explorer.json) |
 | Sword Art Online Eron | 342589 | [342589-sword-art-online-eron.json](./342589-sword-art-online-eron.json) |
 | Sword Art Online VR: Lovely Honey Days | 102088 | [102088-sword-art-online-vr-lovely-honey-days.json](./102088-sword-art-online-vr-lovely-honey-days.json) |
+| Sword Art Online: Alicization Lycoris - Blooming of Forget-me-not | 232469 | [232469-sword-art-online-alicization-lycoris-blooming-of-forget-me-not.json](./232469-sword-art-online-alicization-lycoris-blooming-of-forget-me-not.json) |
 | Sword Art Online: Alicization Lycoris - Deluxe Edition | 166157 | [166157-sword-art-online-alicization-lycoris-deluxe-edition.json](./166157-sword-art-online-alicization-lycoris-deluxe-edition.json) |
 | Sword Art Online: Alicization Lycoris - Myosotis | 139224 | [139224-sword-art-online-alicization-lycoris-myosotis.json](./139224-sword-art-online-alicization-lycoris-myosotis.json) |
 | Sword Art Online: Alicization Rising Steel | 125818 | [125818-sword-art-online-alicization-rising-steel.json](./125818-sword-art-online-alicization-rising-steel.json) |
