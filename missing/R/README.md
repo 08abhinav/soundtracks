@@ -2847,6 +2847,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regiments: Winds of Change | 270935 | [270935-regiments-winds-of-change.json](./270935-regiments-winds-of-change.json) |
 | Reginald Does His Thang | 74375 | [74375-reginald-does-his-thang.json](./74375-reginald-does-his-thang.json) |
 | Reginald's Death Arena | 156025 | [156025-reginalds-death-arena.json](./156025-reginalds-death-arena.json) |
+| Regional Power | 238360 | [238360-regional-power.json](./238360-regional-power.json) |
+| Regional Power II | 238362 | [238362-regional-power-ii.json](./238362-regional-power-ii.json) |
+| Regional Power III | 238365 | [238365-regional-power-iii.json](./238365-regional-power-iii.json) |
 | Regions of Ruin | 61884 | [61884-regions-of-ruin.json](./61884-regions-of-ruin.json) |
 | Regions of Ruin: Sieges | 171959 | [171959-regions-of-ruin-sieges.json](./171959-regions-of-ruin-sieges.json) |
 | Regnum | 55987 | [55987-regnum.json](./55987-regnum.json) |
@@ -7037,6 +7040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotorsim: Helicopter Simulator | 348878 | [348878-rotorsim-helicopter-simulator.json](./348878-rotorsim-helicopter-simulator.json) |
 | Rotox | 15360 | [15360-rotox.json](./15360-rotox.json) |
 | Rotschwert | 333660 | [333660-rotschwert.json](./333660-rotschwert.json) |
+| Rotten Apple | 238539 | [238539-rotten-apple.json](./238539-rotten-apple.json) |
 | Rotten Apple: New York Fallen | 211639 | [211639-rotten-apple-new-york-fallen.json](./211639-rotten-apple-new-york-fallen.json) |
 | Rotten Chamber | 399886 | [399886-rotten-chamber.json](./399886-rotten-chamber.json) |
 | Rotten Crop | 357749 | [357749-rotten-crop.json](./357749-rotten-crop.json) |
