@@ -1360,6 +1360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vigilante 8: 2nd Offense | 3333 | [3333-vigilante-8-2nd-offense.json](./3333-vigilante-8-2nd-offense.json) |
 | Vigilantes | 25597 | [25597-vigilantes.json](./25597-vigilantes.json) |
 | Vigna's Stereo Switch | 296094 | [296094-vignas-stereo-switch.json](./296094-vignas-stereo-switch.json) |
+| Vignette: Memories of Baruu | 236737 | [236737-vignette-memories-of-baruu.json](./236737-vignette-memories-of-baruu.json) |
 | Vignettes | 333509 | [333509-vignettes.json](./333509-vignettes.json) |
 | Vignettes | 82952 | [82952-vignettes.json](./82952-vignettes.json) |
 | Vigor | 257573 | [257573-vigor.json](./257573-vigor.json) |
@@ -1577,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virago: Trepidation | 219517 | [219517-virago-trepidation.json](./219517-virago-trepidation.json) |
 | Virago: What If | 374745 | [374745-virago-what-if.json](./374745-virago-what-if.json) |
 | Viral | 265255 | [265255-viral.json](./265255-viral.json) |
+| Viral Complex | 236867 | [236867-viral-complex.json](./236867-viral-complex.json) |
 | Viral Cry | 87821 | [87821-viral-cry.json](./87821-viral-cry.json) |
 | Viral Descent | 408705 | [408705-viral-descent.json](./408705-viral-descent.json) |
 | Viral Fear | 258400 | [258400-viral-fear.json](./258400-viral-fear.json) |
