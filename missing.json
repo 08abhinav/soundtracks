@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T21:49:55.177Z",
+  "generated_at": "2026-10-11T22:01:32.289Z",
   "total_missing": 199043,
   "games": [
     {
@@ -181306,11 +181306,6 @@
       "igdb_id": 52857,
       "game_name": "Crusader Kings II: Way of Life Collection",
       "file": "missing/C/52857-crusader-kings-ii-way-of-life-collection.json"
-    },
-    {
-      "igdb_id": 124954,
-      "game_name": "Crusader Kings III",
-      "file": "missing/C/124954-crusader-kings-iii.json"
     },
     {
       "igdb_id": 352853,
@@ -578946,6 +578941,11 @@
       "igdb_id": 120388,
       "game_name": "Obversion",
       "file": "missing/O/120388-obversion.json"
+    },
+    {
+      "igdb_id": 231548,
+      "game_name": "Ocarina of Time + Majora's Mask Crossover Randomizer",
+      "file": "missing/O/231548-ocarina-of-time-majoras-mask-crossover-randomizer.json"
     },
     {
       "igdb_id": 172478,
