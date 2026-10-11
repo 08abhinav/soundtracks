@@ -1031,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Blast | 270632 | [270632-omega-blast.json](./270632-omega-blast.json) |
 | Omega Chase | 41985 | [41985-omega-chase.json](./41985-omega-chase.json) |
 | Omega Chronos | 191667 | [191667-omega-chronos.json](./191667-omega-chronos.json) |
+| Omega Crafter | 236174 | [236174-omega-crafter.json](./236174-omega-crafter.json) |
 | Omega Enforcer X | 181905 | [181905-omega-enforcer-x.json](./181905-omega-enforcer-x.json) |
 | Omega Extinction | 68588 | [68588-omega-extinction.json](./68588-omega-extinction.json) |
 | Omega Fighter | 40256 | [40256-omega-fighter.json](./40256-omega-fighter.json) |
@@ -1976,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OnlyCans: Thirst Date | 142461 | [142461-onlycans-thirst-date.json](./142461-onlycans-thirst-date.json) |
 | OnlyFap Simulator 2 | 209657 | [209657-onlyfap-simulator-2.json](./209657-onlyfap-simulator-2.json) |
 | OnlyFap Simulator 4 | 224790 | [224790-onlyfap-simulator-4.json](./224790-onlyfap-simulator-4.json) |
+| OnlyFap Simulator 6 | 236178 | [236178-onlyfap-simulator-6.json](./236178-onlyfap-simulator-6.json) |
 | OnlyFuck 2: Scarlett | 173831 | [173831-onlyfuck-2-scarlett.json](./173831-onlyfuck-2-scarlett.json) |
 | OnlyGame: Working Girls | 167829 | [167829-onlygame-working-girls.json](./167829-onlygame-working-girls.json) |
 | Onlympic Up! | 391698 | [391698-onlympic-up.json](./391698-onlympic-up.json) |
@@ -3035,6 +3037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Long Walk Home | 283815 | [283815-our-long-walk-home.json](./283815-our-long-walk-home.json) |
 | Our Lovely Escape | 111878 | [111878-our-lovely-escape.json](./111878-our-lovely-escape.json) |
 | Our Magic Window | 271939 | [271939-our-magic-window.json](./271939-our-magic-window.json) |
+| Our Memories: Hentai | 236187 | [236187-our-memories-hentai.json](./236187-our-memories-hentai.json) |
 | Our Metal Bowl | 390653 | [390653-our-metal-bowl.json](./390653-our-metal-bowl.json) |
 | Our Mind | 153898 | [153898-our-mind.json](./153898-our-mind.json) |
 | Our Mind | 238496 | [238496-our-mind.json](./238496-our-mind.json) |
