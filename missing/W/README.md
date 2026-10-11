@@ -98,6 +98,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wai-wai Check 3-7 | 345497 | [345497-wai-wai-check-3-7.json](./345497-wai-wai-check-3-7.json) |
 | Wai-wai Check 8/26 | 345496 | [345496-wai-wai-check-8-26.json](./345496-wai-wai-check-8-26.json) |
 | Wai-wai Check! | 345492 | [345492-wai-wai-check.json](./345492-wai-wai-check.json) |
+| Wai-wai de Q | 233979 | [233979-wai-wai-de-q.json](./233979-wai-wai-de-q.json) |
+| Wai-wai de Q: Aki no Daikansha Matsuri! | 233980 | [233980-wai-wai-de-q-aki-no-daikansha-matsuri.json](./233980-wai-wai-de-q-aki-no-daikansha-matsuri.json) |
+| Wai-wai de Q: Haru no Saiten Special | 233977 | [233977-wai-wai-de-q-haru-no-saiten-special.json](./233977-wai-wai-de-q-haru-no-saiten-special.json) |
 | Wai-Wai Monster Land | 292845 | [292845-wai-wai-monster-land.json](./292845-wai-wai-monster-land.json) |
 | Wai-wai World 2: SOS!! Parsley-jou | 48547 | [48547-wai-wai-world-2-sos-parsley-jou.json](./48547-wai-wai-world-2-sos-parsley-jou.json) |
 | Wai-wai! Minna de Challenge | 220355 | [220355-wai-wai-minna-de-challenge.json](./220355-wai-wai-minna-de-challenge.json) |
