@@ -3218,6 +3218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Splash! Golf | 136872 | [136872-sega-splash-golf.json](./136872-sega-splash-golf.json) |
 | Sega Strike Fighter | 112506 | [112506-sega-strike-fighter.json](./112506-sega-strike-fighter.json) |
 | Sega Superstars Tennis | 255326 | [255326-sega-superstars-tennis.json](./255326-sega-superstars-tennis.json) |
+| Sega Superstars Tennis and Xbox Live Arcade Compilation Disc | 227984 | [227984-sega-superstars-tennis-and-xbox-live-arcade-compilation-disc.json](./227984-sega-superstars-tennis-and-xbox-live-arcade-compilation-disc.json) |
 | Sega Tetris | 131318 | [131318-sega-tetris.json](./131318-sega-tetris.json) |
 | Sega Top Five | 78759 | [78759-sega-top-five.json](./78759-sega-top-five.json) |
 | Sega Top Ten | 78756 | [78756-sega-top-ten.json](./78756-sega-top-ten.json) |
@@ -11427,6 +11428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic: Power Rings | 330699 | [330699-sonic-power-rings.json](./330699-sonic-power-rings.json) |
 | Sonic: Project Eclipse | 332572 | [332572-sonic-project-eclipse.json](./332572-sonic-project-eclipse.json) |
 | Sonic: Project Endless | 332577 | [332577-sonic-project-endless.json](./332577-sonic-project-endless.json) |
+| Sonic: Project Hero | 227991 | [227991-sonic-project-hero.json](./227991-sonic-project-hero.json) |
 | Sonic: Project Survival | 246089 | [246089-sonic-project-survival.json](./246089-sonic-project-survival.json) |
 | Sonic: Project Time | 332653 | [332653-sonic-project-time.json](./332653-sonic-project-time.json) |
 | Sonic: Quick Step Challenge | 332604 | [332604-sonic-quick-step-challenge.json](./332604-sonic-quick-step-challenge.json) |
@@ -13907,6 +13909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spire Horizon: Companion Expansion | 259496 | [259496-spire-horizon-companion-expansion.json](./259496-spire-horizon-companion-expansion.json) |
 | Spire of Ash | 396601 | [396601-spire-of-ash.json](./396601-spire-of-ash.json) |
 | Spire of Glory | 227947 | [227947-spire-of-glory.json](./227947-spire-of-glory.json) |
+| Spire of Glory | 227985 | [227985-spire-of-glory.json](./227985-spire-of-glory.json) |
 | Spire of Lust & Fetish | 257953 | [257953-spire-of-lust-and-fetish.json](./257953-spire-of-lust-and-fetish.json) |
 | Spires of Morosith: Gossamer Sundered | 345458 | [345458-spires-of-morosith-gossamer-sundered.json](./345458-spires-of-morosith-gossamer-sundered.json) |
 | Spiriat | 197118 | [197118-spiriat.json](./197118-spiriat.json) |
@@ -16280,6 +16283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarTrash | 68347 | [68347-startrash.json](./68347-startrash.json) |
 | Startron | 333022 | [333022-startron.json](./333022-startron.json) |
 | StarTropics | 15901 | [15901-startropics.json](./15901-startropics.json) |
+| Startup Company: Console Edition | 228020 | [228020-startup-company-console-edition.json](./228020-startup-company-console-edition.json) |
 | Startup Freak | 74369 | [74369-startup-freak.json](./74369-startup-freak.json) |
 | Starva Saga | 391184 | [391184-starva-saga.json](./391184-starva-saga.json) |
 | Starvania: Tales Of The Past | 372498 | [372498-starvania-tales-of-the-past.json](./372498-starvania-tales-of-the-past.json) |
@@ -18139,6 +18143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stroke of Midnight | 54409 | [54409-stroke-of-midnight.json](./54409-stroke-of-midnight.json) |
 | Stroke of Midnight: Collector's Edition | 54410 | [54410-stroke-of-midnight-collectors-edition.json](./54410-stroke-of-midnight-collectors-edition.json) |
 | Stroke the Cat | 217915 | [217915-stroke-the-cat.json](./217915-stroke-the-cat.json) |
+| Stroke the Cow | 228017 | [228017-stroke-the-cow.json](./228017-stroke-the-cow.json) |
 | Stroke the Fish | 220342 | [220342-stroke-the-fish.json](./220342-stroke-the-fish.json) |
 | Stroke the Hamster | 218563 | [218563-stroke-the-hamster.json](./218563-stroke-the-hamster.json) |
 | Stroke the Hedgehog | 218564 | [218564-stroke-the-hedgehog.json](./218564-stroke-the-hedgehog.json) |
@@ -22076,6 +22081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swampify | 305753 | [305753-swampify.json](./305753-swampify.json) |
 | Swampstar | 201177 | [201177-swampstar.json](./201177-swampstar.json) |
 | Swampstar | 201178 | [201178-swampstar.json](./201178-swampstar.json) |
+| Swampy | 227739 | [227739-swampy.json](./227739-swampy.json) |
 | Swan Hill | 177821 | [177821-swan-hill.json](./177821-swan-hill.json) |
 | Swan Princess Gator Escape | 340534 | [340534-swan-princess-gator-escape.json](./340534-swan-princess-gator-escape.json) |
 | Swan Song | 257090 | [257090-swan-song.json](./257090-swan-song.json) |
