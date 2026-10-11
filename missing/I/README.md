@@ -1084,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Submarine | 255747 | [255747-idle-submarine.json](./255747-idle-submarine.json) |
 | Idle Summoners: Heroes VIP | 100756 | [100756-idle-summoners-heroes-vip.json](./100756-idle-summoners-heroes-vip.json) |
 | Idle Superpowers | 182300 | [182300-idle-superpowers.json](./182300-idle-superpowers.json) |
+| Idle Surge | 230733 | [230733-idle-surge.json](./230733-idle-surge.json) |
 | Idle Sweeper | 100446 | [100446-idle-sweeper.json](./100446-idle-sweeper.json) |
 | Idle Sword 2 | 56925 | [56925-idle-sword-2.json](./56925-idle-sword-2.json) |
 | Idle Tamers: Mini Monsters | 188369 | [188369-idle-tamers-mini-monsters.json](./188369-idle-tamers-mini-monsters.json) |
@@ -3213,6 +3214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internet Cafe Simulator 2025 | 324999 | [324999-internet-cafe-simulator-2025.json](./324999-internet-cafe-simulator-2025.json) |
 | Internet Entrepreneurship Simulator | 348781 | [348781-internet-entrepreneurship-simulator.json](./348781-internet-entrepreneurship-simulator.json) |
 | Internet Exploring | 404368 | [404368-internet-exploring.json](./404368-internet-exploring.json) |
+| Internet Reversi | 230732 | [230732-internet-reversi.json](./230732-internet-reversi.json) |
 | Internet Scrabble Club | 157528 | [157528-internet-scrabble-club.json](./157528-internet-scrabble-club.json) |
 | Internet Simulator | 98241 | [98241-internet-simulator.json](./98241-internet-simulator.json) |
 | Internet Survivor Survivors | 413626 | [413626-internet-survivor-survivors.json](./413626-internet-survivor-survivors.json) |
