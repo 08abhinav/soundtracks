@@ -7082,6 +7082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Pickers | 127804 | [127804-coin-pickers.json](./127804-coin-pickers.json) |
 | Coin Pit | 394563 | [394563-coin-pit.json](./394563-coin-pit.json) |
 | Coin Push RPG | 336010 | [336010-coin-push-rpg.json](./336010-coin-push-rpg.json) |
+| Coin Pusher Casino | 230196 | [230196-coin-pusher-casino.json](./230196-coin-pusher-casino.json) |
 | Coin Rush | 336594 | [336594-coin-rush.json](./336594-coin-rush.json) |
 | Coin Slot | 355181 | [355181-coin-slot.json](./355181-coin-slot.json) |
 | Coin Slots Live | 386856 | [386856-coin-slots-live.json](./386856-coin-slots-live.json) |
@@ -9035,6 +9036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corala: Deity's Loom | 388388 | [388388-corala-deitys-loom.json](./388388-corala-deitys-loom.json) |
 | Coraland: The Worst Rescuer | 254378 | [254378-coraland-the-worst-rescuer.json](./254378-coraland-the-worst-rescuer.json) |
 | Coralia and the Ocean of Stars | 391253 | [391253-coralia-and-the-ocean-of-stars.json](./391253-coralia-and-the-ocean-of-stars.json) |
+| Coralina | 230425 | [230425-coralina.json](./230425-coralina.json) |
 | Coraline | 210273 | [210273-coraline.json](./210273-coraline.json) |
 | Corallo | 202243 | [202243-corallo.json](./202243-corallo.json) |
 | CorAstral | 345685 | [345685-corastral.json](./345685-corastral.json) |
@@ -10817,6 +10819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Hotel | 121645 | [121645-crimson-hotel.json](./121645-crimson-hotel.json) |
 | Crimson III | 335119 | [335119-crimson-iii.json](./335119-crimson-iii.json) |
 | Crimson Katana Exa Label | 365112 | [365112-crimson-katana-exa-label.json](./365112-crimson-katana-exa-label.json) |
+| Crimson Keep | 230177 | [230177-crimson-keep.json](./230177-crimson-keep.json) |
 | Crimson Knight | 367525 | [367525-crimson-knight.json](./367525-crimson-knight.json) |
 | Crimson Light | 104141 | [104141-crimson-light.json](./104141-crimson-light.json) |
 | Crimson Mansion | 362404 | [362404-crimson-mansion.json](./362404-crimson-mansion.json) |
