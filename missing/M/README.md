@@ -3418,6 +3418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master System 3 | 230823 | [230823-master-system-3.json](./230823-master-system-3.json) |
 | Master System 3 Collection | 287343 | [287343-master-system-3-collection.json](./287343-master-system-3-collection.json) |
 | Master System 3 Collection: 131 Super Jogos na Memória | 230826 | [230826-master-system-3-collection-131-super-jogos-na-memoria.json](./230826-master-system-3-collection-131-super-jogos-na-memoria.json) |
+| Master System Evolution | 230749 | [230749-master-system-evolution.json](./230749-master-system-evolution.json) |
 | Master System Handy | 202806 | [202806-master-system-handy.json](./202806-master-system-handy.json) |
 | Master System Plug & Play | 230828 | [230828-master-system-plug-and-play.json](./230828-master-system-plug-and-play.json) |
 | Master the Sky | 257693 | [257693-master-the-sky.json](./257693-master-the-sky.json) |
