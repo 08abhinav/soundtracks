@@ -3193,6 +3193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokuu Hyouryo Nirgends | 65283 | [65283-kokuu-hyouryo-nirgends.json](./65283-kokuu-hyouryo-nirgends.json) |
 | Kokuu Hyouryuu Nirgends | 45951 | [45951-kokuu-hyouryuu-nirgends.json](./45951-kokuu-hyouryuu-nirgends.json) |
 | Kolb Antarctica Experience | 96830 | [96830-kolb-antarctica-experience.json](./96830-kolb-antarctica-experience.json) |
+| Koler | 236196 | [236196-koler.json](./236196-koler.json) |
 | Kolhii Champions AU | 213314 | [213314-kolhii-champions-au.json](./213314-kolhii-champions-au.json) |
 | Kolibri | 19733 | [19733-kolibri.json](./19733-kolibri.json) |
 | Koliquest | 146243 | [146243-koliquest.json](./146243-koliquest.json) |
