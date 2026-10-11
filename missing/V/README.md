@@ -1125,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vetica | 94192 | [94192-vetica.json](./94192-vetica.json) |
 | Vetitum_VRC | 319868 | [319868-vetitum-vrc.json](./319868-vetitum-vrc.json) |
 | Vetrex | 194988 | [194988-vetrex.json](./194988-vetrex.json) |
+| Vetrix Worlds | 235646 | [235646-vetrix-worlds.json](./235646-vetrix-worlds.json) |
 | VEV: Viva Ex Vivo | 19861 | [19861-vev-viva-ex-vivo.json](./19861-vev-viva-ex-vivo.json) |
 | VEV: Viva Ex Vivo - VR Edition | 187513 | [187513-vev-viva-ex-vivo-vr-edition.json](./187513-vev-viva-ex-vivo-vr-edition.json) |
 | Vex | 100266 | [100266-vex.json](./100266-vex.json) |
