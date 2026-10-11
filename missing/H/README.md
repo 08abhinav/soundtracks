@@ -1574,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: VR Future Live | 99752 | [99752-hatsune-miku-vr-future-live.json](./99752-hatsune-miku-vr-future-live.json) |
 | Hatsune Miku: VR Future Live 2nd Stage | 120801 | [120801-hatsune-miku-vr-future-live-2nd-stage.json](./120801-hatsune-miku-vr-future-live-2nd-stage.json) |
 | Hatsune Miku: VR Future Live 3rd Stage | 120802 | [120802-hatsune-miku-vr-future-live-3rd-stage.json](./120802-hatsune-miku-vr-future-live-3rd-stage.json) |
+| Hatsune Mikutchi | 230183 | [230183-hatsune-mikutchi.json](./230183-hatsune-mikutchi.json) |
 | Hatsune no Naisho!! | 247480 | [247480-hatsune-no-naisho.json](./247480-hatsune-no-naisho.json) |
 | Hatsuyuki Sakura | 122287 | [122287-hatsuyuki-sakura.json](./122287-hatsuyuki-sakura.json) |
 | Hatsuyuki Sakura | 122289 | [122289-hatsuyuki-sakura.json](./122289-hatsuyuki-sakura.json) |
