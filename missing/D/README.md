@@ -7156,6 +7156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DodgeSaw | 144803 | [144803-dodgesaw.json](./144803-dodgesaw.json) |
 | Dodgibi | 372692 | [372692-dodgibi.json](./372692-dodgibi.json) |
 | Dodgy Balls | 116459 | [116459-dodgy-balls.json](./116459-dodgy-balls.json) |
+| Dodgy Carrot | 233418 | [233418-dodgy-carrot.json](./233418-dodgy-carrot.json) |
 | Dodgy Deliveries | 295796 | [295796-dodgy-deliveries.json](./295796-dodgy-deliveries.json) |
 | Dodgy Geezers | 13598 | [13598-dodgy-geezers.json](./13598-dodgy-geezers.json) |
 | Dodgy Rocks | 133988 | [133988-dodgy-rocks.json](./133988-dodgy-rocks.json) |
@@ -8061,6 +8062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Kingdom: Medieval | 338335 | [338335-doodle-kingdom-medieval.json](./338335-doodle-kingdom-medieval.json) |
 | Doodle Knight | 348194 | [348194-doodle-knight.json](./348194-doodle-knight.json) |
 | Doodle Mafia: Crime City | 146741 | [146741-doodle-mafia-crime-city.json](./146741-doodle-mafia-crime-city.json) |
+| Doodle Mountain | 233417 | [233417-doodle-mountain.json](./233417-doodle-mountain.json) |
 | Doodle Movie Quiz | 232504 | [232504-doodle-movie-quiz.json](./232504-doodle-movie-quiz.json) |
 | Doodle or Die | 252291 | [252291-doodle-or-die.json](./252291-doodle-or-die.json) |
 | Doodle Smash! | 232578 | [232578-doodle-smash.json](./232578-doodle-smash.json) |
@@ -11132,6 +11134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon & Adventure | 220590 | [220590-dungeon-and-adventure.json](./220590-dungeon-and-adventure.json) |
 | Dungeon & Burglar | 195149 | [195149-dungeon-and-burglar.json](./195149-dungeon-and-burglar.json) |
 | Dungeon & Derision | 210713 | [210713-dungeon-and-derision.json](./210713-dungeon-and-derision.json) |
+| Dungeon & Dice | 233546 | [233546-dungeon-and-dice.json](./233546-dungeon-and-dice.json) |
 | Dungeon & Doggies | 303499 | [303499-dungeon-and-doggies.json](./303499-dungeon-and-doggies.json) |
 | Dungeon & Evil | 174847 | [174847-dungeon-and-evil.json](./174847-dungeon-and-evil.json) |
 | Dungeon & Fighter: Arad | 325603 | [325603-dungeon-and-fighter-arad.json](./325603-dungeon-and-fighter-arad.json) |
