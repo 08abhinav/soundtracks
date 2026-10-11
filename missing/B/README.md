@@ -980,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball und Panzer Golf | 272478 | [272478-ball-und-panzer-golf.json](./272478-ball-und-panzer-golf.json) |
 | Ball Vader MAX | 115432 | [115432-ball-vader-max.json](./115432-ball-vader-max.json) |
 | Ball vs Block | 186185 | [186185-ball-vs-block.json](./186185-ball-vs-block.json) |
+| Ball vs. Zombie | 239102 | [239102-ball-vs-zombie.json](./239102-ball-vs-zombie.json) |
 | Ball Wall | 246864 | [246864-ball-wall.json](./246864-ball-wall.json) |
 | Ball-e | 229823 | [229823-ball-e.json](./229823-ball-e.json) |
 | Ball-istic | 258436 | [258436-ball-istic.json](./258436-ball-istic.json) |
