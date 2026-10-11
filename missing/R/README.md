@@ -1253,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapid Reload | 45013 | [45013-rapid-reload.json](./45013-rapid-reload.json) |
 | Rapid Retort | 211186 | [211186-rapid-retort.json](./211186-rapid-retort.json) |
 | Rapid River | 65471 | [65471-rapid-river.json](./65471-rapid-river.json) |
+| Rapid Rocket | 232886 | [232886-rapid-rocket.json](./232886-rapid-rocket.json) |
 | Rapid Roll | 274733 | [274733-rapid-roll.json](./274733-rapid-roll.json) |
 | Rapid Stream | 246363 | [246363-rapid-stream.json](./246363-rapid-stream.json) |
 | Rapid Stream 2 | 358846 | [358846-rapid-stream-2.json](./358846-rapid-stream-2.json) |
@@ -1795,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Al's Humanity Academy | 115009 | [115009-real-als-humanity-academy.json](./115009-real-als-humanity-academy.json) |
 | Real Anime Situation! DT | 314992 | [314992-real-anime-situation-dt.json](./314992-real-anime-situation-dt.json) |
 | Real Arcade Bike | 126498 | [126498-real-arcade-bike.json](./126498-real-arcade-bike.json) |
+| Real Baseball 3D | 232895 | [232895-real-baseball-3d.json](./232895-real-baseball-3d.json) |
 | Real Basketball | 89688 | [89688-real-basketball.json](./89688-real-basketball.json) |
 | Real Bird Fake Bird | 325241 | [325241-real-bird-fake-bird.json](./325241-real-bird-fake-bird.json) |
 | Real Bout Fatal Fury 2: The Newcomers | 46787 | [46787-real-bout-fatal-fury-2-the-newcomers.json](./46787-real-bout-fatal-fury-2-the-newcomers.json) |
@@ -5458,6 +5460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robes | 176343 | [176343-robes.json](./176343-robes.json) |
 | Robicon | 373764 | [373764-robicon.json](./373764-robicon.json) |
 | Robin & Orchid | 60013 | [60013-robin-and-orchid.json](./60013-robin-and-orchid.json) |
+| Robin Hood | 232903 | [232903-robin-hood.json](./232903-robin-hood.json) |
 | Robin Hood | 23575 | [23575-robin-hood.json](./23575-robin-hood.json) |
 | Robin Hood Legends | 104581 | [104581-robin-hood-legends.json](./104581-robin-hood-legends.json) |
 | Robin Hood: Forest Adventures | 394460 | [394460-robin-hood-forest-adventures.json](./394460-robin-hood-forest-adventures.json) |
