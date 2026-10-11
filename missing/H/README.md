@@ -2036,6 +2036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of the Machine | 217017 | [217017-heart-of-the-machine.json](./217017-heart-of-the-machine.json) |
 | Heart of the Mountain | 405722 | [405722-heart-of-the-mountain.json](./405722-heart-of-the-mountain.json) |
 | Heart of the Woods | 102326 | [102326-heart-of-the-woods.json](./102326-heart-of-the-woods.json) |
+| Heart of Vegas: Casino Slots | 232357 | [232357-heart-of-vegas-casino-slots.json](./232357-heart-of-vegas-casino-slots.json) |
 | Heart on Your Sleeve | 178533 | [178533-heart-on-your-sleeve.json](./178533-heart-on-your-sleeve.json) |
 | Heart Piano Tiles | 96697 | [96697-heart-piano-tiles.json](./96697-heart-piano-tiles.json) |
 | Heart Rocket | 177410 | [177410-heart-rocket.json](./177410-heart-rocket.json) |
@@ -5162,6 +5163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit the Ice | 72923 | [72923-hit-the-ice.json](./72923-hit-the-ice.json) |
 | Hit the Ice: The Video Hockey League | 46208 | [46208-hit-the-ice-the-video-hockey-league.json](./46208-hit-the-ice-the-video-hockey-league.json) |
 | Hit the Light: Neon Shooter | 129165 | [129165-hit-the-light-neon-shooter.json](./129165-hit-the-light-neon-shooter.json) |
+| Hit the Pillar | 232339 | [232339-hit-the-pillar.json](./232339-hit-the-pillar.json) |
 | HIT: Heroes of Incredible Tales | 79317 | [79317-hit-heroes-of-incredible-tales.json](./79317-hit-heroes-of-incredible-tales.json) |
 | HitagiDrops | 286601 | [286601-hitagidrops.json](./286601-hitagidrops.json) |
 | Hitalick Challenge | 257576 | [257576-hitalick-challenge.json](./257576-hitalick-challenge.json) |
