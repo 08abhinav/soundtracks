@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game with Friends | 299748 | [299748-game-with-friends.json](./299748-game-with-friends.json) |
 | Game-No-Watch Ball | 292075 | [292075-game-no-watch-ball.json](./292075-game-no-watch-ball.json) |
 | Game-Pac | 319582 | [319582-game-pac.json](./319582-game-pac.json) |
+| Game, Game, Game, and again Game | 231840 | [231840-game-game-game-and-again-game.json](./231840-game-game-game-and-again-game.json) |
 | Game, Net & Match! | 85732 | [85732-game-net-and-match.json](./85732-game-net-and-match.json) |
 | Game, Set & Match | 41002 | [41002-game-set-and-match.json](./41002-game-set-and-match.json) |
 | Game.exe | 142467 | [142467-game-exe.json](./142467-game-exe.json) |
@@ -1537,7 +1538,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears of War 3: Fenix Rising | 20656 | [20656-gears-of-war-3-fenix-rising.json](./20656-gears-of-war-3-fenix-rising.json) |
 | Gears of War 4: Amazon Exclusive Collector's Edition | 51540 | [51540-gears-of-war-4-amazon-exclusive-collectors-edition.json](./51540-gears-of-war-4-amazon-exclusive-collectors-edition.json) |
 | Gears of War: E-Day | 305160 | [305160-gears-of-war-e-day.json](./305160-gears-of-war-e-day.json) |
-| Gears of War: Judgment | 1319 | [1319-gears-of-war-judgment.json](./1319-gears-of-war-judgment.json) |
 | Gears of War: Limited Collector's Edition | 47450 | [47450-gears-of-war-limited-collectors-edition.json](./47450-gears-of-war-limited-collectors-edition.json) |
 | Gears of War: Reloaded | 342721 | [342721-gears-of-war-reloaded.json](./342721-gears-of-war-reloaded.json) |
 | Gears of War: Ultimate Edition - Deluxe Version | 164770 | [164770-gears-of-war-ultimate-edition-deluxe-version.json](./164770-gears-of-war-ultimate-edition-deluxe-version.json) |
@@ -4100,6 +4100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf | 147820 | [147820-golf.json](./147820-golf.json) |
 | Golf | 18008 | [18008-golf.json](./18008-golf.json) |
 | Golf | 20382 | [20382-golf.json](./20382-golf.json) |
+| Golf | 231780 | [231780-golf.json](./231780-golf.json) |
 | Golf | 282126 | [282126-golf.json](./282126-golf.json) |
 | Golf | 358832 | [358832-golf.json](./358832-golf.json) |
 | Golf | 86354 | [86354-golf.json](./86354-golf.json) |
@@ -7076,6 +7077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyakuten Saiban Jiten | 76243 | [76243-gyakuten-saiban-jiten.json](./76243-gyakuten-saiban-jiten.json) |
 | Gyakuten Saiban Poker | 256342 | [256342-gyakuten-saiban-poker.json](./256342-gyakuten-saiban-poker.json) |
 | Gyakuten Saiban: VR20-gou Jiken | 303291 | [303291-gyakuten-saiban-vr20-gou-jiken.json](./303291-gyakuten-saiban-vr20-gou-jiken.json) |
+| Gyakuten Touhou Gaiden | 231784 | [231784-gyakuten-touhou-gaiden.json](./231784-gyakuten-touhou-gaiden.json) |
 | Gyakuten!! Puzzle Ban-Chou | 138019 | [138019-gyakuten-puzzle-ban-chou.json](./138019-gyakuten-puzzle-ban-chou.json) |
 | Gyaru x Ota: Orikawa Kirara wa Osewa Shitai | 402456 | [402456-gyaru-x-ota-orikawa-kirara-wa-osewa-shitai.json](./402456-gyaru-x-ota-orikawa-kirara-wa-osewa-shitai.json) |
 | Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Sanpaku Yokka no Tabi | 396943 | [396943-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json](./396943-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json) |
