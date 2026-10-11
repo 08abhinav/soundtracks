@@ -5311,6 +5311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Descent | 212890 | [212890-the-descent.json](./212890-the-descent.json) |
 | The Descent | 231521 | [231521-the-descent.json](./231521-the-descent.json) |
 | The Descent | 278996 | [278996-the-descent.json](./278996-the-descent.json) |
+| The Descent of the Serpent | 230178 | [230178-the-descent-of-the-serpent.json](./230178-the-descent-of-the-serpent.json) |
 | The Desert's Rose | 109710 | [109710-the-deserts-rose.json](./109710-the-deserts-rose.json) |
 | The Designer's Curse | 120971 | [120971-the-designers-curse.json](./120971-the-designers-curse.json) |
 | The Designer's Curse Chapter 2: Forgotten Horrors | 338329 | [338329-the-designers-curse-chapter-2-forgotten-horrors.json](./338329-the-designers-curse-chapter-2-forgotten-horrors.json) |
@@ -5378,6 +5379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Diseases, and Casualties this year being 1632 | 279080 | [279080-the-diseases-and-casualties-this-year-being-1632.json](./279080-the-diseases-and-casualties-this-year-being-1632.json) |
 | The Dismal Silhouette | 282620 | [282620-the-dismal-silhouette.json](./282620-the-dismal-silhouette.json) |
 | The Disney Collection: Quackshot Starring Donald Duck & Castle of Illusion Starring Mickey Mouse | 45561 | [45561-the-disney-collection-quackshot-starring-donald-duck-and-castle-of-illusion-starring-mickey-mouse.json](./45561-the-disney-collection-quackshot-starring-donald-duck-and-castle-of-illusion-starring-mickey-mouse.json) |
+| The Disney/Pixar Collection | 230424 | [230424-the-disney-pixar-collection.json](./230424-the-disney-pixar-collection.json) |
 | The Dispatcher | 329003 | [329003-the-dispatcher.json](./329003-the-dispatcher.json) |
 | The Displacement | 316712 | [316712-the-displacement.json](./316712-the-displacement.json) |
 | The Distortion Beast | 299141 | [299141-the-distortion-beast.json](./299141-the-distortion-beast.json) |
@@ -7048,6 +7050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible Toon Machine | 13778 | [13778-the-incredible-toon-machine.json](./13778-the-incredible-toon-machine.json) |
 | The Incredible VR Game Show | 83946 | [83946-the-incredible-vr-game-show.json](./83946-the-incredible-vr-game-show.json) |
 | The Incredibles | 210442 | [210442-the-incredibles.json](./210442-the-incredibles.json) |
+| The Incredibles | 230431 | [230431-the-incredibles.json](./230431-the-incredibles.json) |
 | The Incredibles | 3782 | [3782-the-incredibles.json](./3782-the-incredibles.json) |
 | The Incredibles: Jack-Jack's Escape | 264251 | [264251-the-incredibles-jack-jacks-escape.json](./264251-the-incredibles-jack-jacks-escape.json) |
 | The Incredibles: Mission Incredible | 213375 | [213375-the-incredibles-mission-incredible.json](./213375-the-incredibles-mission-incredible.json) |
@@ -16364,6 +16367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toree's Panic Pack | 308530 | [308530-torees-panic-pack.json](./308530-torees-panic-pack.json) |
 | Torej: Red Cubes | 61611 | [61611-torej-red-cubes.json](./61611-torej-red-cubes.json) |
 | Toren: Deluxe Edition | 51803 | [51803-toren-deluxe-edition.json](./51803-toren-deluxe-edition.json) |
+| Torevetchi | 230184 | [230184-torevetchi.json](./230184-torevetchi.json) |
 | Torgar's Quest | 33361 | [33361-torgars-quest.json](./33361-torgars-quest.json) |
 | Tori | 95218 | [95218-tori.json](./95218-tori.json) |
 | Tori Note | 289403 | [289403-tori-note.json](./289403-tori-note.json) |
@@ -16983,6 +16987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou: Kira's Fangame Collection | 411790 | [411790-touhou-kiras-fangame-collection.json](./411790-touhou-kiras-fangame-collection.json) |
 | TouHou: Legend of Fairy Souls | 244730 | [244730-touhou-legend-of-fairy-souls.json](./244730-touhou-legend-of-fairy-souls.json) |
 | Touhou: Lost Children at the Bamboo Forest | 234776 | [234776-touhou-lost-children-at-the-bamboo-forest.json](./234776-touhou-lost-children-at-the-bamboo-forest.json) |
+| Touhou: Phantom Assembler | 230169 | [230169-touhou-phantom-assembler.json](./230169-touhou-phantom-assembler.json) |
 | Touhou: Red Empress Devil | 225180 | [225180-touhou-red-empress-devil.json](./225180-touhou-red-empress-devil.json) |
 | Touhou: Shooting Star | 150753 | [150753-touhou-shooting-star.json](./150753-touhou-shooting-star.json) |
 | Touhou: Sougetsu-tou | 284603 | [284603-touhou-sougetsu-tou.json](./284603-touhou-sougetsu-tou.json) |
