@@ -2059,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scoops Ahoy | 245198 | [245198-scoops-ahoy.json](./245198-scoops-ahoy.json) |
 | Scoot Hard DX: Daytime Drama Zero | 230508 | [230508-scoot-hard-dx-daytime-drama-zero.json](./230508-scoot-hard-dx-daytime-drama-zero.json) |
 | Scoot Kaboom and the Tomb of Doom | 132695 | [132695-scoot-kaboom-and-the-tomb-of-doom.json](./132695-scoot-kaboom-and-the-tomb-of-doom.json) |
+| Scooter Boy | 238389 | [238389-scooter-boy.json](./238389-scooter-boy.json) |
 | Scooter Shooter | 40199 | [40199-scooter-shooter.json](./40199-scooter-shooter.json) |
 | Scooter Slayer | 358885 | [358885-scooter-slayer.json](./358885-scooter-slayer.json) |
 | Scooter Space | 223919 | [223919-scooter-space.json](./223919-scooter-space.json) |
@@ -7911,6 +7912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky on Fire: 1940 | 182846 | [182846-sky-on-fire-1940.json](./182846-sky-on-fire-1940.json) |
 | Sky Patch | 347890 | [347890-sky-patch.json](./347890-sky-patch.json) |
 | Sky Patrol | 40793 | [40793-sky-patrol.json](./40793-sky-patrol.json) |
+| Sky Piper | 238388 | [238388-sky-piper.json](./238388-sky-piper.json) |
 | Sky Pirates of Actorius | 129101 | [129101-sky-pirates-of-actorius.json](./129101-sky-pirates-of-actorius.json) |
 | Sky Plankers | 28195 | [28195-sky-plankers.json](./28195-sky-plankers.json) |
 | Sky Prison | 368278 | [368278-sky-prison.json](./368278-sky-prison.json) |
@@ -13793,6 +13795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinnin' Flare | 72338 | [72338-spinnin-flare.json](./72338-spinnin-flare.json) |
 | Spinning Around | 75790 | [75790-spinning-around.json](./75790-spinning-around.json) |
 | Spinning My Wheel | 348866 | [348866-spinning-my-wheel.json](./348866-spinning-my-wheel.json) |
+| Spinning Pong | 238387 | [238387-spinning-pong.json](./238387-spinning-pong.json) |
 | Spinning Scarecrow | 360096 | [360096-spinning-scarecrow.json](./360096-spinning-scarecrow.json) |
 | Spinning Top | 163840 | [163840-spinning-top.json](./163840-spinning-top.json) |
 | Spinnortality | 51471 | [51471-spinnortality.json](./51471-spinnortality.json) |
@@ -22820,6 +22823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthalgia: Retro Arcade Racing | 155513 | [155513-synthalgia-retro-arcade-racing.json](./155513-synthalgia-retro-arcade-racing.json) |
 | Synthaly Universe | 402436 | [402436-synthaly-universe.json](./402436-synthaly-universe.json) |
 | Synthbiotic Dungeon | 147286 | [147286-synthbiotic-dungeon.json](./147286-synthbiotic-dungeon.json) |
+| SynthCave | 238375 | [238375-synthcave.json](./238375-synthcave.json) |
 | Synther | 99008 | [99008-synther.json](./99008-synther.json) |
 | Syntherapy | 139473 | [139473-syntherapy.json](./139473-syntherapy.json) |
 | Synthesia | 50109 | [50109-synthesia.json](./50109-synthesia.json) |
