@@ -4413,6 +4413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not in Heaven | 111102 | [111102-not-in-heaven.json](./111102-not-in-heaven.json) |
 | Not in the Groove | 138851 | [138851-not-in-the-groove.json](./138851-not-in-the-groove.json) |
 | Not Involved | 229782 | [229782-not-involved.json](./229782-not-involved.json) |
+| Not Involved: Vermillion | 236320 | [236320-not-involved-vermillion.json](./236320-not-involved-vermillion.json) |
 | Not Just a Hat Rack | 228396 | [228396-not-just-a-hat-rack.json](./228396-not-just-a-hat-rack.json) |
 | Not Just An Ordinary Ballerina | 60018 | [60018-not-just-an-ordinary-ballerina.json](./60018-not-just-an-ordinary-ballerina.json) |
 | Not Lonely Up! | 386338 | [386338-not-lonely-up.json](./386338-not-lonely-up.json) |
@@ -4470,6 +4471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nothing at Stake | 400507 | [400507-nothing-at-stake.json](./400507-nothing-at-stake.json) |
 | Nothing Bad Ever Happens to Me | 249697 | [249697-nothing-bad-ever-happens-to-me.json](./249697-nothing-bad-ever-happens-to-me.json) |
 | Nothing But Me and You | 380631 | [380631-nothing-but-me-and-you.json](./380631-nothing-but-me-and-you.json) |
+| Nothing Can Stop Us Encore | 236307 | [236307-nothing-can-stop-us-encore.json](./236307-nothing-can-stop-us-encore.json) |
 | Nothing Good Can Come Of This | 297161 | [297161-nothing-good-can-come-of-this.json](./297161-nothing-good-can-come-of-this.json) |
 | Nothing is Known: The Innocents | 364575 | [364575-nothing-is-known-the-innocents.json](./364575-nothing-is-known-the-innocents.json) |
 | Nothing Strange Here | 352856 | [352856-nothing-strange-here.json](./352856-nothing-strange-here.json) |
