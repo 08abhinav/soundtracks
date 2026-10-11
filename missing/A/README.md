@@ -5459,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Eternity Gone By | 294276 | [294276-an-eternity-gone-by.json](./294276-an-eternity-gone-by.json) |
 | An Evening of Wonders | 258941 | [258941-an-evening-of-wonders.json](./258941-an-evening-of-wonders.json) |
 | An evening stroll | 183938 | [183938-an-evening-stroll.json](./183938-an-evening-stroll.json) |
+| An Everyday Story | 235642 | [235642-an-everyday-story.json](./235642-an-everyday-story.json) |
 | An Exorcism | 375556 | [375556-an-exorcism.json](./375556-an-exorcism.json) |
 | An ExScourgeon Through Space and Time! | 180658 | [180658-an-exscourgeon-through-space-and-time.json](./180658-an-exscourgeon-through-space-and-time.json) |
 | An Idle Nightmare | 334839 | [334839-an-idle-nightmare.json](./334839-an-idle-nightmare.json) |
@@ -6357,6 +6358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anjelo's Province | 265702 | [265702-anjelos-province.json](./265702-anjelos-province.json) |
 | Anjos do Duelo | 393109 | [393109-anjos-do-duelo.json](./393109-anjos-do-duelo.json) |
 | Anka | 22122 | [22122-anka.json](./22122-anka.json) |
+| Ankewill | 235783 | [235783-ankewill.json](./235783-ankewill.json) |
 | Ankh 2: Heart of Osiris | 15785 | [15785-ankh-2-heart-of-osiris.json](./15785-ankh-2-heart-of-osiris.json) |
 | Ankh 2: Tutankhamun no Nazo | 234163 | [234163-ankh-2-tutankhamun-no-nazo.json](./234163-ankh-2-tutankhamun-no-nazo.json) |
 | Ankh 3: Battle of the Gods | 25466 | [25466-ankh-3-battle-of-the-gods.json](./25466-ankh-3-battle-of-the-gods.json) |
@@ -6536,6 +6538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Adventure | 27776 | [27776-another-adventure.json](./27776-another-adventure.json) |
 | Another Attack 2: Weissensee | 270686 | [270686-another-attack-2-weissensee.json](./270686-another-attack-2-weissensee.json) |
 | Another Attack: Woudrichem War | 270685 | [270685-another-attack-woudrichem-war.json](./270685-another-attack-woudrichem-war.json) |
+| Another Bar Game | 235780 | [235780-another-bar-game.json](./235780-another-bar-game.json) |
 | Another Bible | 78310 | [78310-another-bible.json](./78310-another-bible.json) |
 | Another Big Base Attacked | 270694 | [270694-another-big-base-attacked.json](./270694-another-big-base-attacked.json) |
 | Another Boss Battle Test | 214716 | [214716-another-boss-battle-test.json](./214716-another-boss-battle-test.json) |
@@ -10429,6 +10432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack the Light! | 22555 | [22555-attack-the-light.json](./22555-attack-the-light.json) |
 | Attack UFO | 172546 | [172546-attack-ufo.json](./172546-attack-ufo.json) |
 | Attack UFO | 250498 | [250498-attack-ufo.json](./250498-attack-ufo.json) |
+| Attack Zone | 235789 | [235789-attack-zone.json](./235789-attack-zone.json) |
 | Attack: Helicopter Simulator 2020 | 171077 | [171077-attack-helicopter-simulator-2020.json](./171077-attack-helicopter-simulator-2020.json) |
 | Attack! | 356281 | [356281-attack.json](./356281-attack.json) |
 | Attack!! Hiroko-Chan | 67372 | [67372-attack-hiroko-chan.json](./67372-attack-hiroko-chan.json) |
