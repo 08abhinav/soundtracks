@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T19:55:38.468Z",
-  "total_soundtracks": 1470,
+  "generated_at": "2026-10-11T19:55:51.050Z",
+  "total_soundtracks": 1471,
   "games": [
     {
       "igdb_id": 7522,
@@ -15539,6 +15539,20 @@
           "spotify_url": "https://open.spotify.com/album/15TWz4YSHmhrGI7F8kAVlB",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 115843,
+      "game_name": "Unpacking",
+      "game_url": "https://ostdb.net/games/unpacking",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/05/aa/7c/05aa7c5a-86ff-686a-2bb1-a951b3f6c2da/artwork.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Unpacking (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/546P1fkMWTbVjeCMivORqf",
+          "apple_music_url": "https://music.apple.com/us/album/unpacking-original-game-soundtrack/1589277535",
+          "album_link_url": "https://album.link/i/1589277535"
         }
       ]
     },
