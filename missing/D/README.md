@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D/Generation HD | 21318 | [21318-d-generation-hd.json](./21318-d-generation-hd.json) |
 | D&D Classics | 246457 | [246457-d-and-d-classics.json](./246457-d-and-d-classics.json) |
 | D&D Lords of Waterdeep | 68484 | [68484-d-and-d-lords-of-waterdeep.json](./68484-d-and-d-lords-of-waterdeep.json) |
+| D&M: Spark of Fate | 236751 | [236751-d-and-m-spark-of-fate.json](./236751-d-and-m-spark-of-fate.json) |
 | D+Vine[Luv] | 283301 | [283301-d-vine-luv.json](./283301-d-vine-luv.json) |
 | D+Vine[Luv] | 283302 | [283302-d-vine-luv.json](./283302-d-vine-luv.json) |
 | D1 Grand Prix | 20551 | [20551-d1-grand-prix.json](./20551-d1-grand-prix.json) |
@@ -284,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daily Thread: The Sewing of Discontent | 270121 | [270121-daily-thread-the-sewing-of-discontent.json](./270121-daily-thread-the-sewing-of-discontent.json) |
 | Daily Vrai | 413610 | [413610-daily-vrai.json](./413610-daily-vrai.json) |
 | Daimaou no Bijutsukan to Kaitoudan | 140003 | [140003-daimaou-no-bijutsukan-to-kaitoudan.json](./140003-daimaou-no-bijutsukan-to-kaitoudan.json) |
+| Daimei no nai Game Rigakkkai | 236746 | [236746-daimei-no-nai-game-rigakkkai.json](./236746-daimei-no-nai-game-rigakkkai.json) |
 | Dain Squares | 380617 | [380617-dain-squares.json](./380617-dain-squares.json) |
 | Dainty Pain | 136232 | [136232-dainty-pain.json](./136232-dainty-pain.json) |
 | Daioh | 39863 | [39863-daioh.json](./39863-daioh.json) |
@@ -5706,6 +5708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digitwars - The Grigits | 101766 | [101766-digitwars-the-grigits.json](./101766-digitwars-the-grigits.json) |
 | Dignacia | 253454 | [253454-dignacia.json](./253454-dignacia.json) |
 | DigRun | 197777 | [197777-digrun.json](./197777-digrun.json) |
+| Digs | 236753 | [236753-digs.json](./236753-digs.json) |
 | Digs Mini Icy | 243584 | [243584-digs-mini-icy.json](./243584-digs-mini-icy.json) |
 | Digs03 | 271303 | [271303-digs03.json](./271303-digs03.json) |
 | Digscovery | 249791 | [249791-digscovery.json](./249791-digscovery.json) |
@@ -11251,6 +11254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Forge | 373181 | [373181-dungeon-forge.json](./373181-dungeon-forge.json) |
 | Dungeon Frontier | 130294 | [130294-dungeon-frontier.json](./130294-dungeon-frontier.json) |
 | Dungeon Full Dive: True Supporter Dice | 305780 | [305780-dungeon-full-dive-true-supporter-dice.json](./305780-dungeon-full-dive-true-supporter-dice.json) |
+| Dungeon Furry | 236725 | [236725-dungeon-furry.json](./236725-dungeon-furry.json) |
 | Dungeon Gals | 316161 | [316161-dungeon-gals.json](./316161-dungeon-gals.json) |
 | Dungeon Gambit Boy | 89666 | [89666-dungeon-gambit-boy.json](./89666-dungeon-gambit-boy.json) |
 | Dungeon Gatekeeper | 391774 | [391774-dungeon-gatekeeper.json](./391774-dungeon-gatekeeper.json) |
