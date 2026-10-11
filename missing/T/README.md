@@ -2663,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis | 131536 | [131536-tennis.json](./131536-tennis.json) |
 | Tennis | 20461 | [20461-tennis.json](./20461-tennis.json) |
 | Tennis | 217967 | [217967-tennis.json](./217967-tennis.json) |
+| Tennis | 234091 | [234091-tennis.json](./234091-tennis.json) |
 | Tennis | 295670 | [295670-tennis.json](./295670-tennis.json) |
 | Tennis | 358838 | [358838-tennis.json](./358838-tennis.json) |
 | Tennis | 64208 | [64208-tennis.json](./64208-tennis.json) |
@@ -3287,6 +3288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetsu 1: Densha de Battle! | 265849 | [265849-tetsu-1-densha-de-battle.json](./265849-tetsu-1-densha-de-battle.json) |
 | Tetsu-pipe de Suika-wari | 220315 | [220315-tetsu-pipe-de-suika-wari.json](./220315-tetsu-pipe-de-suika-wari.json) |
 | Tetsudou Nippon! Memorial: JR Tokai KiHa 85 Tokkyuu Nanki-hen | 356242 | [356242-tetsudou-nippon-memorial-jr-tokai-kiha-85-tokkyuu-nanki-hen.json](./356242-tetsudou-nippon-memorial-jr-tokai-kiha-85-tokkyuu-nanki-hen.json) |
+| Tetsudou Nippon! Real Pro Tokkyu Soko! Nagoya Tetsudou-hen | 233956 | [233956-tetsudou-nippon-real-pro-tokkyu-soko-nagoya-tetsudou-hen.json](./233956-tetsudou-nippon-real-pro-tokkyu-soko-nagoya-tetsudou-hen.json) |
 | Tetsudou Nippon! Real Pro Tokyo - Kanagawa! Tokyu Dentetsu-hen | 366913 | [366913-tetsudou-nippon-real-pro-tokyo-kanagawa-tokyu-dentetsu-hen.json](./366913-tetsudou-nippon-real-pro-tokyo-kanagawa-tokyu-dentetsu-hen.json) |
 | Tetsudou Nippon! Rosen Tabi EX: Seiryuu Unten - Hasegawa Tetsudou-hen | 261366 | [261366-tetsudou-nippon-rosen-tabi-ex-seiryuu-unten-hasegawa-tetsudou-hen.json](./261366-tetsudou-nippon-rosen-tabi-ex-seiryuu-unten-hasegawa-tetsudou-hen.json) |
 | Tetsudou Nippon! Rosen Tabi: Aizu Tetsudou‑hen | 221946 | [221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json](./221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json) |
@@ -20557,6 +20559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtles! | 194455 | [194455-turtles.json](./194455-turtles.json) |
 | TurtleSkate | 398572 | [398572-turtleskate.json](./398572-turtleskate.json) |
 | Turtoa: Global Rhythm | 163884 | [163884-turtoa-global-rhythm.json](./163884-turtoa-global-rhythm.json) |
+| Turtwig's Target Smash! | 234096 | [234096-turtwigs-target-smash.json](./234096-turtwigs-target-smash.json) |
 | Tuscany Hotel | 106759 | [106759-tuscany-hotel.json](./106759-tuscany-hotel.json) |
 | Tut's Tomb | 282107 | [282107-tuts-tomb.json](./282107-tuts-tomb.json) |
 | Tutankham | 385836 | [385836-tutankham.json](./385836-tutankham.json) |
