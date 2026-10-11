@@ -2813,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Walk | 62008 | [62008-night-walk.json](./62008-night-walk.json) |
 | Night Walker | 256316 | [256316-night-walker.json](./256316-night-walker.json) |
 | Night Watch | 20540 | [20540-night-watch.json](./20540-night-watch.json) |
+| Night Watch | 231811 | [231811-night-watch.json](./231811-night-watch.json) |
 | Night Watcher | 72751 | [72751-night-watcher.json](./72751-night-watcher.json) |
 | Night Witch: 588 | 127245 | [127245-night-witch-588.json](./127245-night-witch-588.json) |
 | Night with Timber | 377795 | [377795-night-with-timber.json](./377795-night-with-timber.json) |
@@ -4403,6 +4404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Another Advent Story | 210496 | [210496-not-another-advent-story.json](./210496-not-another-advent-story.json) |
 | Not Another Hero | 57498 | [57498-not-another-hero.json](./57498-not-another-hero.json) |
 | Not Another Weekend | 140388 | [140388-not-another-weekend.json](./140388-not-another-weekend.json) |
+| Not Born to be King | 231842 | [231842-not-born-to-be-king.json](./231842-not-born-to-be-king.json) |
 | Not Burned Evil | 276977 | [276977-not-burned-evil.json](./276977-not-burned-evil.json) |
 | Not Dead Yet | 143500 | [143500-not-dead-yet.json](./143500-not-dead-yet.json) |
 | Not Enough Souls | 179567 | [179567-not-enough-souls.json](./179567-not-enough-souls.json) |
