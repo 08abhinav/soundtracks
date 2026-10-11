@@ -1265,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapphire Moon: Your Best Wishes | 111230 | [111230-sapphire-moon-your-best-wishes.json](./111230-sapphire-moon-your-best-wishes.json) |
 | Sapphire Safari | 171997 | [171997-sapphire-safari.json](./171997-sapphire-safari.json) |
 | Sapphire Tempest | 401724 | [401724-sapphire-tempest.json](./401724-sapphire-tempest.json) |
+| Sapu | 233025 | [233025-sapu.json](./233025-sapu.json) |
 | SAR: Search and Rescue | 40187 | [40187-sar-search-and-rescue.json](./40187-sar-search-and-rescue.json) |
 | Sara is Missing | 25600 | [25600-sara-is-missing.json](./25600-sara-is-missing.json) |
 | Saraab | 386723 | [386723-saraab.json](./386723-saraab.json) |
@@ -7631,6 +7632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketchy Marathon | 319799 | [319799-sketchy-marathon.json](./319799-sketchy-marathon.json) |
 | Sketchy Racing | 186148 | [186148-sketchy-racing.json](./186148-sketchy-racing.json) |
 | Sketchy.Academy | 140903 | [140903-sketchy-academy.json](./140903-sketchy-academy.json) |
+| Skew | 233020 | [233020-skew.json](./233020-skew.json) |
 | Skew Pong | 190076 | [190076-skew-pong.json](./190076-skew-pong.json) |
 | Skewer Squad | 374413 | [374413-skewer-squad.json](./374413-skewer-squad.json) |
 | SKG Hunt | 392876 | [392876-skg-hunt.json](./392876-skg-hunt.json) |
@@ -16362,6 +16364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Home | 184055 | [184055-stay-home.json](./184055-stay-home.json) |
 | Stay Home and Play With Waifu! | 368097 | [368097-stay-home-and-play-with-waifu.json](./368097-stay-home-and-play-with-waifu.json) |
 | Stay Home It Rains Outside | 316406 | [316406-stay-home-it-rains-outside.json](./316406-stay-home-it-rains-outside.json) |
+| Stay Human | 233033 | [233033-stay-human.json](./233033-stay-human.json) |
 | Stay in | 237056 | [237056-stay-in.json](./237056-stay-in.json) |
 | Stay in the Light | 118641 | [118641-stay-in-the-light.json](./118641-stay-in-the-light.json) |
 | Stay in the Moment | 371622 | [371622-stay-in-the-moment.json](./371622-stay-in-the-moment.json) |
@@ -19606,6 +19609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dodgeball Brawlers | 21052 | [21052-super-dodgeball-brawlers.json](./21052-super-dodgeball-brawlers.json) |
 | Super Dogfight | 64931 | [64931-super-dogfight.json](./64931-super-dogfight.json) |
 | Super Doggo Snack Time | 101080 | [101080-super-doggo-snack-time.json](./101080-super-doggo-snack-time.json) |
+| Super Doll Licca-chan: Kisekae Daisakusen | 233024 | [233024-super-doll-licca-chan-kisekae-daisakusen.json](./233024-super-doll-licca-chan-kisekae-daisakusen.json) |
 | Super Domino Effect 3D | 215706 | [215706-super-domino-effect-3d.json](./215706-super-domino-effect-3d.json) |
 | Super Dominoes | 208353 | [208353-super-dominoes.json](./208353-super-dominoes.json) |
 | Super Don Quix-Ote | 25969 | [25969-super-don-quix-ote.json](./25969-super-don-quix-ote.json) |
