@@ -995,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Challenge Wii | 268127 | [268127-family-challenge-wii.json](./268127-family-challenge-wii.json) |
 | Family Chess | 207877 | [207877-family-chess.json](./207877-family-chess.json) |
 | Family Chess | 360205 | [360205-family-chess.json](./360205-family-chess.json) |
+| Family Chess: Complete Edition | 228023 | [228023-family-chess-complete-edition.json](./228023-family-chess-complete-edition.json) |
 | Family Chess: Deluxe Edition | 208584 | [208584-family-chess-deluxe-edition.json](./208584-family-chess-deluxe-edition.json) |
 | Family Chess: Director's Cut | 251525 | [251525-family-chess-directors-cut.json](./251525-family-chess-directors-cut.json) |
 | Family Chess: Magnificent Edition | 246647 | [246647-family-chess-magnificent-edition.json](./246647-family-chess-magnificent-edition.json) |
@@ -1947,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Princess Adventures | 11199 | [11199-fat-princess-adventures.json](./11199-fat-princess-adventures.json) |
 | Fat Princess: Fat Roles | 276802 | [276802-fat-princess-fat-roles.json](./276802-fat-princess-fat-roles.json) |
 | Fat Prisoner Simulator 3 | 169156 | [169156-fat-prisoner-simulator-3.json](./169156-fat-prisoner-simulator-3.json) |
+| Fat Rain | 227740 | [227740-fat-rain.json](./227740-fat-rain.json) |
 | Fat Slice 2 | 185653 | [185653-fat-slice-2.json](./185653-fat-slice-2.json) |
 | Fat Sonic | 330866 | [330866-fat-sonic.json](./330866-fat-sonic.json) |
 | Fat Worm Blows a Sparky | 37075 | [37075-fat-worm-blows-a-sparky.json](./37075-fat-worm-blows-a-sparky.json) |
@@ -8203,6 +8205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuel Station Simulator | 336369 | [336369-fuel-station-simulator.json](./336369-fuel-station-simulator.json) |
 | Fuel Tanker Truck | 105918 | [105918-fuel-tanker-truck.json](./105918-fuel-tanker-truck.json) |
 | Fuel Tiracas | 77282 | [77282-fuel-tiracas.json](./77282-fuel-tiracas.json) |
+| Fuga: Melodies of Steel - Back to School Costume Pack | 228026 | [228026-fuga-melodies-of-steel-back-to-school-costume-pack.json](./228026-fuga-melodies-of-steel-back-to-school-costume-pack.json) |
 | Fuga: Melodies of Steel - Fantasy Costume Pack | 284455 | [284455-fuga-melodies-of-steel-fantasy-costume-pack.json](./284455-fuga-melodies-of-steel-fantasy-costume-pack.json) |
 | Fuga: Melodies of Steel - Ultimate Edition | 283145 | [283145-fuga-melodies-of-steel-ultimate-edition.json](./283145-fuga-melodies-of-steel-ultimate-edition.json) |
 | Fuga: Melodies of Steel 2 - Animal Costume Pack | 278520 | [278520-fuga-melodies-of-steel-2-animal-costume-pack.json](./278520-fuga-melodies-of-steel-2-animal-costume-pack.json) |
