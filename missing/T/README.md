@@ -1695,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Targeting Maths Lab 6 | 291996 | [291996-targeting-maths-lab-6.json](./291996-targeting-maths-lab-6.json) |
 | Targeting Maths Lab Launch Pad | 291997 | [291997-targeting-maths-lab-launch-pad.json](./291997-targeting-maths-lab-launch-pad.json) |
 | TargetPop | 212156 | [212156-targetpop.json](./212156-targetpop.json) |
+| Targets | 234656 | [234656-targets.json](./234656-targets.json) |
 | Targhan | 10849 | [10849-targhan.json](./10849-targhan.json) |
 | Tarisland | 254235 | [254235-tarisland.json](./254235-tarisland.json) |
 | Tarisland: Season 1 - Blight Dragon Elegy | 314403 | [314403-tarisland-season-1-blight-dragon-elegy.json](./314403-tarisland-season-1-blight-dragon-elegy.json) |
@@ -2325,10 +2326,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 2 / Soul Blade | 382530 | [382530-tekken-2-soul-blade.json](./382530-tekken-2-soul-blade.json) |
 | Tekken 3 | 369999 | [369999-tekken-3.json](./369999-tekken-3.json) |
 | Tekken 3D: Prime Edition | 1237 | [1237-tekken-3d-prime-edition.json](./1237-tekken-3d-prime-edition.json) |
-| Tekken 4 | 1245 | [1245-tekken-4.json](./1245-tekken-4.json) |
 | Tekken 5 | 393526 | [393526-tekken-5.json](./393526-tekken-5.json) |
 | Tekken 6 | 1236 | [1236-tekken-6.json](./1236-tekken-6.json) |
-| Tekken 6 | 1247 | [1247-tekken-6.json](./1247-tekken-6.json) |
 | Tekken 6 | 195868 | [195868-tekken-6.json](./195868-tekken-6.json) |
 | Tekken 6 | 272551 | [272551-tekken-6.json](./272551-tekken-6.json) |
 | Tekken 7: Cave of Enlightenment | 163266 | [163266-tekken-7-cave-of-enlightenment.json](./163266-tekken-7-cave-of-enlightenment.json) |
@@ -5120,7 +5119,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Mind | 320529 | [320529-the-dark-mind.json](./320529-the-dark-mind.json) |
 | The Dark Pictures Anthology: House of Ashes | 140617 | [140617-the-dark-pictures-anthology-house-of-ashes.json](./140617-the-dark-pictures-anthology-house-of-ashes.json) |
 | The Dark Pictures Anthology: Intercession | 257076 | [257076-the-dark-pictures-anthology-intercession.json](./257076-the-dark-pictures-anthology-intercession.json) |
-| The Dark Pictures Anthology: Little Hope | 122120 | [122120-the-dark-pictures-anthology-little-hope.json](./122120-the-dark-pictures-anthology-little-hope.json) |
 | The Dark Pictures Anthology: Little Hope & Man of Medan Bundle | 169246 | [169246-the-dark-pictures-anthology-little-hope-and-man-of-medan-bundle.json](./169246-the-dark-pictures-anthology-little-hope-and-man-of-medan-bundle.json) |
 | The Dark Pictures Anthology: Season One | 225775 | [225775-the-dark-pictures-anthology-season-one.json](./225775-the-dark-pictures-anthology-season-one.json) |
 | The Dark Pictures Anthology: The Craven Man | 257078 | [257078-the-dark-pictures-anthology-the-craven-man.json](./257078-the-dark-pictures-anthology-the-craven-man.json) |
@@ -19922,6 +19920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Colors | 120714 | [120714-true-colors.json](./120714-true-colors.json) |
 | True Colors | 228991 | [228991-true-colors.json](./228991-true-colors.json) |
 | True Colors | 388238 | [388238-true-colors.json](./388238-true-colors.json) |
+| True Colours | 234651 | [234651-true-colours.json](./234651-true-colours.json) |
 | True Crime: New York City | 4215 | [4215-true-crime-new-york-city.json](./4215-true-crime-new-york-city.json) |
 | True Crime: Streets of LA | 4216 | [4216-true-crime-streets-of-la.json](./4216-true-crime-streets-of-la.json) |
 | True Detective Solitaire | 88755 | [88755-true-detective-solitaire.json](./88755-true-detective-solitaire.json) |
