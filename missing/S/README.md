@@ -1689,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scanner Sombre Pack | 154462 | [154462-scanner-sombre-pack.json](./154462-scanner-sombre-pack.json) |
 | Scape | 287782 | [287782-scape.json](./287782-scape.json) |
 | Scape | 415979 | [415979-scape.json](./415979-scape.json) |
+| Scapefall | 238932 | [238932-scapefall.json](./238932-scapefall.json) |
 | Scapeghost | 12208 | [12208-scapeghost.json](./12208-scapeghost.json) |
 | Scapeland | 33493 | [33493-scapeland.json](./33493-scapeland.json) |
 | Scapevale | 130669 | [130669-scapevale.json](./130669-scapevale.json) |
@@ -3608,6 +3609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seren Nova | 275531 | [275531-seren-nova.json](./275531-seren-nova.json) |
 | Serena | 14528 | [14528-serena.json](./14528-serena.json) |
 | Serena | 325536 | [325536-serena.json](./325536-serena.json) |
+| Serena Williams' Match Point | 238938 | [238938-serena-williams-match-point.json](./238938-serena-williams-match-point.json) |
 | Serenade of the Sirens | 107411 | [107411-serenade-of-the-sirens.json](./107411-serenade-of-the-sirens.json) |
 | Serendipalette | 383655 | [383655-serendipalette.json](./383655-serendipalette.json) |
 | Serendipity Hotel | 190218 | [190218-serendipity-hotel.json](./190218-serendipity-hotel.json) |
@@ -6370,6 +6372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side Trak | 39517 | [39517-side-trak.json](./39517-side-trak.json) |
 | Side Whoop | 390656 | [390656-side-whoop.json](./390656-side-whoop.json) |
 | Sidecar Evolution 2025 | 385834 | [385834-sidecar-evolution-2025.json](./385834-sidecar-evolution-2025.json) |
+| Sidekick Cycle | 238929 | [238929-sidekick-cycle.json](./238929-sidekick-cycle.json) |
 | Sidekick High | 185070 | [185070-sidekick-high.json](./185070-sidekick-high.json) |
 | SideLine | 243796 | [243796-sideline.json](./243796-sideline.json) |
 | Sidelined Futures | 308540 | [308540-sidelined-futures.json](./308540-sidelined-futures.json) |
@@ -20357,6 +20360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Markup Man | 32037 | [32037-super-markup-man.json](./32037-super-markup-man.json) |
 | Super Marlin Bros | 294279 | [294279-super-marlin-bros.json](./294279-super-marlin-bros.json) |
 | Super Marshmallow Kingdom | 403108 | [403108-super-marshmallow-kingdom.json](./403108-super-marshmallow-kingdom.json) |
+| Super Maruo | 238973 | [238973-super-maruo.json](./238973-super-maruo.json) |
 | Super Masao 2 | 165061 | [165061-super-masao-2.json](./165061-super-masao-2.json) |
 | Super Match Soccer | 91629 | [91629-super-match-soccer.json](./91629-super-match-soccer.json) |
 | Super Maura Bros. 3 | 267386 | [267386-super-maura-bros-3.json](./267386-super-maura-bros-3.json) |
@@ -20799,6 +20803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Slinger | 192958 | [192958-super-slinger.json](./192958-super-slinger.json) |
 | Super Slyder | 132726 | [132726-super-slyder.json](./132726-super-slyder.json) |
 | Super Smash | 125317 | [125317-super-smash.json](./125317-super-smash.json) |
+| Super Smash Asteroids | 239098 | [239098-super-smash-asteroids.json](./239098-super-smash-asteroids.json) |
 | Super Smash Bros Ultimate: Jacky's Outfit and Wig | 306045 | [306045-super-smash-bros-ultimate-jackys-outfit-and-wig.json](./306045-super-smash-bros-ultimate-jackys-outfit-and-wig.json) |
 | Super Smash Bros Ultimate: Judd Hat | 306046 | [306046-super-smash-bros-ultimate-judd-hat.json](./306046-super-smash-bros-ultimate-judd-hat.json) |
 | Super Smash Bros Ultimate: Marie Outfit and Wig | 306607 | [306607-super-smash-bros-ultimate-marie-outfit-and-wig.json](./306607-super-smash-bros-ultimate-marie-outfit-and-wig.json) |
@@ -22334,6 +22339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swipey Maze | 233085 | [233085-swipey-maze.json](./233085-swipey-maze.json) |
 | Swire Future | 158125 | [158125-swire-future.json](./158125-swire-future.json) |
 | Swish Ball Clicker | 405591 | [405591-swish-ball-clicker.json](./405591-swish-ball-clicker.json) |
+| Swish Ball! | 238934 | [238934-swish-ball.json](./238934-swish-ball.json) |
 | Swiss Alps Jigsaw Puzzles | 158529 | [158529-swiss-alps-jigsaw-puzzles.json](./158529-swiss-alps-jigsaw-puzzles.json) |
 | Swiss Family Robinson | 7732 | [7732-swiss-family-robinson.json](./7732-swiss-family-robinson.json) |
 | Switch 'N' Shoot | 32171 | [32171-switch-n-shoot.json](./32171-switch-n-shoot.json) |
