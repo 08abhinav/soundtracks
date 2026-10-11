@@ -1843,6 +1843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinetic Connection | 45272 | [45272-kinetic-connection.json](./45272-kinetic-connection.json) |
 | Kinetic Edge | 139524 | [139524-kinetic-edge.json](./139524-kinetic-edge.json) |
 | Kinetic Neo Ornate Bout | 374220 | [374220-kinetic-neo-ornate-bout.json](./374220-kinetic-neo-ornate-bout.json) |
+| Kinetic: Break All Limits | 236730 | [236730-kinetic-break-all-limits.json](./236730-kinetic-break-all-limits.json) |
 | Kinetika | 419204 | [419204-kinetika.json](./419204-kinetika.json) |
 | Kinetiks | 410072 | [410072-kinetiks.json](./410072-kinetiks.json) |
 | Kinetype | 398366 | [398366-kinetype.json](./398366-kinetype.json) |
@@ -1879,6 +1880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Drift and Hajwalah | 287554 | [287554-king-drift-and-hajwalah.json](./287554-king-drift-and-hajwalah.json) |
 | King Erik | 112725 | [112725-king-erik.json](./112725-king-erik.json) |
 | King Exit | 63715 | [63715-king-exit.json](./63715-king-exit.json) |
+| King Fishing | 236727 | [236727-king-fishing.json](./236727-king-fishing.json) |
 | King Flappy | 97460 | [97460-king-flappy.json](./97460-king-flappy.json) |
 | King For a Week | 397373 | [397373-king-for-a-week.json](./397373-king-for-a-week.json) |
 | King God Castle | 203220 | [203220-king-god-castle.json](./203220-king-god-castle.json) |
