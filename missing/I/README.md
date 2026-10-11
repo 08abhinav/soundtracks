@@ -3304,6 +3304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Cthulhu Mythology | 187848 | [187848-into-the-cthulhu-mythology.json](./187848-into-the-cthulhu-mythology.json) |
 | Into the Dark | 199644 | [199644-into-the-dark.json](./199644-into-the-dark.json) |
 | Into the Darkness VR | 220141 | [220141-into-the-darkness-vr.json](./220141-into-the-darkness-vr.json) |
+| Into the Dead 2: Ghostbusters | 237848 | [237848-into-the-dead-2-ghostbusters.json](./237848-into-the-dead-2-ghostbusters.json) |
 | Into the Dead 2: Unleashed | 197325 | [197325-into-the-dead-2-unleashed.json](./197325-into-the-dead-2-unleashed.json) |
 | Into the Dead: Crimson Heights | 404913 | [404913-into-the-dead-crimson-heights.json](./404913-into-the-dead-crimson-heights.json) |
 | Into the Dead: Our Darkest Days | 230366 | [230366-into-the-dead-our-darkest-days.json](./230366-into-the-dead-our-darkest-days.json) |
