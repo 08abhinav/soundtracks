@@ -2103,6 +2103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Duet | 275837 | [275837-rebel-duet.json](./275837-rebel-duet.json) |
 | Rebel Engine | 374272 | [374272-rebel-engine.json](./374272-rebel-engine.json) |
 | Rebel Galaxy | 11719 | [11719-rebel-galaxy.json](./11719-rebel-galaxy.json) |
+| Rebel Inc: Escalation - Dollars & Disasters | 237252 | [237252-rebel-inc-escalation-dollars-and-disasters.json](./237252-rebel-inc-escalation-dollars-and-disasters.json) |
 | Rebel Inc. | 115206 | [115206-rebel-inc.json](./115206-rebel-inc.json) |
 | Rebel Infernal Path | 380793 | [380793-rebel-infernal-path.json](./380793-rebel-infernal-path.json) |
 | Rebel Kitsune | 177353 | [177353-rebel-kitsune.json](./177353-rebel-kitsune.json) |
@@ -2689,6 +2690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redrock | 270721 | [270721-redrock.json](./270721-redrock.json) |
 | Redroom | 367532 | [367532-redroom.json](./367532-redroom.json) |
 | ReDrop | 347773 | [347773-redrop.json](./347773-redrop.json) |
+| Redrum | 237269 | [237269-redrum.json](./237269-redrum.json) |
 | RedShift | 328963 | [328963-redshift.json](./328963-redshift.json) |
 | Redshift VR | 111067 | [111067-redshift-vr.json](./111067-redshift-vr.json) |
 | Redshirt | 9220 | [9220-redshirt.json](./9220-redshirt.json) |
@@ -3813,6 +3815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Wars | 156092 | [156092-retro-wars.json](./156092-retro-wars.json) |
 | Retro Wars: Episodio IV 1/4 | 341538 | [341538-retro-wars-episodio-iv-1-4.json](./341538-retro-wars-episodio-iv-1-4.json) |
 | Retro Wave | 306370 | [306370-retro-wave.json](./306370-retro-wave.json) |
+| Retro Wave Thunder | 237254 | [237254-retro-wave-thunder.json](./237254-retro-wave-thunder.json) |
 | Retro Wing Prime | 113034 | [113034-retro-wing-prime.json](./113034-retro-wing-prime.json) |
 | Retro Winter Sports 1986 | 197241 | [197241-retro-winter-sports-1986.json](./197241-retro-winter-sports-1986.json) |
 | Retro World | 3229 | [3229-retro-world.json](./3229-retro-world.json) |
@@ -3824,6 +3827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrobloc CPC | 290318 | [290318-retrobloc-cpc.json](./290318-retrobloc-cpc.json) |
 | Retrobound | 149506 | [149506-retrobound.json](./149506-retrobound.json) |
 | Retrocade | 385593 | [385593-retrocade.json](./385593-retrocade.json) |
+| Retrocausality | 237247 | [237247-retrocausality.json](./237247-retrocausality.json) |
 | RetroCube | 175404 | [175404-retrocube.json](./175404-retrocube.json) |
 | Retrofit: Overload | 66676 | [66676-retrofit-overload.json](./66676-retrofit-overload.json) |
 | RetroFuel | 184108 | [184108-retrofuel.json](./184108-retrofuel.json) |
