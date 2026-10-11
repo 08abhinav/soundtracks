@@ -9522,6 +9522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BreakLoop | 383953 | [383953-breakloop.json](./383953-breakloop.json) |
 | Breakneck | 78593 | [78593-breakneck.json](./78593-breakneck.json) |
 | Breakneck City | 127730 | [127730-breakneck-city.json](./127730-breakneck-city.json) |
+| Breakout | 228318 | [228318-breakout.json](./228318-breakout.json) |
 | Breakout 13 | 212735 | [212735-breakout-13.json](./212735-breakout-13.json) |
 | Breakout 2000 | 40816 | [40816-breakout-2000.json](./40816-breakout-2000.json) |
 | Breakout 3 | 319572 | [319572-breakout-3.json](./319572-breakout-3.json) |
