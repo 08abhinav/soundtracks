@@ -4857,6 +4857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Town: New Crossword Games | 101541 | [101541-word-town-new-crossword-games.json](./101541-word-town-new-crossword-games.json) |
 | Word Trace | 241537 | [241537-word-trace.json](./241537-word-trace.json) |
 | Word Tracky | 249728 | [249728-word-tracky.json](./249728-word-tracky.json) |
+| Word Trails | 232888 | [232888-word-trails.json](./232888-word-trails.json) |
 | Word Trails | 305339 | [305339-word-trails.json](./305339-word-trails.json) |
 | Word Training Camp | 130929 | [130929-word-training-camp.json](./130929-word-training-camp.json) |
 | Word Tropics - Free Word Games and Puzzles | 106656 | [106656-word-tropics-free-word-games-and-puzzles.json](./106656-word-tropics-free-word-games-and-puzzles.json) |
