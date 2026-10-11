@@ -2259,6 +2259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maria/Alchemist: Synthetist Maria's Tragedy | 98455 | [98455-maria-alchemist-synthetist-marias-tragedy.json](./98455-maria-alchemist-synthetist-marias-tragedy.json) |
 | Mariachi Legends | 252852 | [252852-mariachi-legends.json](./252852-mariachi-legends.json) |
 | Mariam Game | 235484 | [235484-mariam-game.json](./235484-mariam-game.json) |
+| Maribato! | 234649 | [234649-maribato.json](./234649-maribato.json) |
 | Maridows 64 | 250047 | [250047-maridows-64.json](./250047-maridows-64.json) |
 | Marie & Elie no Atelier: Salburg no Renkinjutsushi 1-2 | 130822 | [130822-marie-and-elie-no-atelier-salburg-no-renkinjutsushi-1-2.json](./130822-marie-and-elie-no-atelier-salburg-no-renkinjutsushi-1-2.json) |
 | Marie Baby-Sitter | 74034 | [74034-marie-baby-sitter.json](./74034-marie-baby-sitter.json) |
@@ -3937,6 +3938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem Brawler | 143858 | [143858-mayhem-brawler.json](./143858-mayhem-brawler.json) |
 | Mayhem Brawler II: Best of Both Worlds | 264802 | [264802-mayhem-brawler-ii-best-of-both-worlds.json](./264802-mayhem-brawler-ii-best-of-both-worlds.json) |
 | Mayhem Fortress | 224575 | [224575-mayhem-fortress.json](./224575-mayhem-fortress.json) |
+| Mayhem Heroes | 234528 | [234528-mayhem-heroes.json](./234528-mayhem-heroes.json) |
 | Mayhem in Monsterland | 18550 | [18550-mayhem-in-monsterland.json](./18550-mayhem-in-monsterland.json) |
 | Mayhem in Single Valley | 116780 | [116780-mayhem-in-single-valley.json](./116780-mayhem-in-single-valley.json) |
 | Mayhem Maidens | 333375 | [333375-mayhem-maidens.json](./333375-mayhem-maidens.json) |
@@ -5904,6 +5906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Marbles | 309337 | [309337-merge-marbles.json](./309337-merge-marbles.json) |
 | Merge Match March | 361798 | [361798-merge-match-march.json](./361798-merge-match-march.json) |
 | Merge Mayor | 212482 | [212482-merge-mayor.json](./212482-merge-mayor.json) |
+| Merge Me! | 234534 | [234534-merge-me.json](./234534-merge-me.json) |
 | Merge Meadow! | 108483 | [108483-merge-meadow.json](./108483-merge-meadow.json) |
 | Merge Mend | 320293 | [320293-merge-mend.json](./320293-merge-mend.json) |
 | Merge Military | 208970 | [208970-merge-military.json](./208970-merge-military.json) |
@@ -7994,6 +7997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf 18 | 106515 | [106515-mini-golf-18.json](./106515-mini-golf-18.json) |
 | Mini Golf 2003 | 79593 | [79593-mini-golf-2003.json](./79593-mini-golf-2003.json) |
 | Mini Golf 3D | 117753 | [117753-mini-golf-3d.json](./117753-mini-golf-3d.json) |
+| Mini Golf Battle | 234504 | [234504-mini-golf-battle.json](./234504-mini-golf-battle.json) |
 | Mini Golf Buddies | 110182 | [110182-mini-golf-buddies.json](./110182-mini-golf-buddies.json) |
 | Mini Golf Championship | 204705 | [204705-mini-golf-championship.json](./204705-mini-golf-championship.json) |
 | Mini Golf Halloween | 233754 | [233754-mini-golf-halloween.json](./233754-mini-golf-halloween.json) |
@@ -8928,6 +8932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Front Office Manager | 7073 | [7073-mlb-front-office-manager.json](./7073-mlb-front-office-manager.json) |
 | MLB Home Run Derby 18 | 96055 | [96055-mlb-home-run-derby-18.json](./96055-mlb-home-run-derby-18.json) |
 | MLB Home Run Derby 2020 | 133805 | [133805-mlb-home-run-derby-2020.json](./133805-mlb-home-run-derby-2020.json) |
+| MLB Home Run Derby 2022 | 234507 | [234507-mlb-home-run-derby-2022.json](./234507-mlb-home-run-derby-2022.json) |
 | MLB Home Run Derby VR | 293378 | [293378-mlb-home-run-derby-vr.json](./293378-mlb-home-run-derby-vr.json) |
 | MLB Live Challenge | 296032 | [296032-mlb-live-challenge.json](./296032-mlb-live-challenge.json) |
 | MLB Manager 2015 | 279628 | [279628-mlb-manager-2015.json](./279628-mlb-manager-2015.json) |
@@ -9484,6 +9489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momotaro no Onigashima Kouryaku-sen: Kaguya-hime wo Sukuidase!!! | 349410 | [349410-momotaro-no-onigashima-kouryaku-sen-kaguya-hime-wo-sukuidase.json](./349410-momotaro-no-onigashima-kouryaku-sen-kaguya-hime-wo-sukuidase.json) |
 | Momotaro Thunderbolt 2 | 64422 | [64422-momotaro-thunderbolt-2.json](./64422-momotaro-thunderbolt-2.json) |
 | Momotarou | 318770 | [318770-momotarou.json](./318770-momotarou.json) |
+| Momoyo to Tsukasa no Dig Dig Adventure | 234513 | [234513-momoyo-to-tsukasa-no-dig-dig-adventure.json](./234513-momoyo-to-tsukasa-no-dig-dig-adventure.json) |
 | Mompreneur: Pizza Cooking Life Sim | 127829 | [127829-mompreneur-pizza-cooking-life-sim.json](./127829-mompreneur-pizza-cooking-life-sim.json) |
 | Mon | 185461 | [185461-mon.json](./185461-mon.json) |
 | Mon Coach Personnel: J'ameliore Mon Anglais | 210124 | [210124-mon-coach-personnel-jameliore-mon-anglais.json](./210124-mon-coach-personnel-jameliore-mon-anglais.json) |
@@ -9709,6 +9715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly | 186723 | [186723-monopoly.json](./186723-monopoly.json) |
 | Monopoly | 199430 | [199430-monopoly.json](./199430-monopoly.json) |
 | Monopoly | 228550 | [228550-monopoly.json](./228550-monopoly.json) |
+| Monopoly | 234647 | [234647-monopoly.json](./234647-monopoly.json) |
 | Monopoly | 23767 | [23767-monopoly.json](./23767-monopoly.json) |
 | Monopoly | 335112 | [335112-monopoly.json](./335112-monopoly.json) |
 | Monopoly | 335884 | [335884-monopoly.json](./335884-monopoly.json) |
@@ -10130,6 +10137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster TD | 405047 | [405047-monster-td.json](./405047-monster-td.json) |
 | Monster Tower | 348775 | [348775-monster-tower.json](./348775-monster-tower.json) |
 | Monster Tower | 388363 | [388363-monster-tower.json](./388363-monster-tower.json) |
+| Monster Tower Quest | 234516 | [234516-monster-tower-quest.json](./234516-monster-tower-quest.json) |
 | Monster Train Collection | 346010 | [346010-monster-train-collection.json](./346010-monster-train-collection.json) |
 | Monster Train: The Last Divinity | 148116 | [148116-monster-train-the-last-divinity.json](./148116-monster-train-the-last-divinity.json) |
 | Monster Trampoline | 113477 | [113477-monster-trampoline.json](./113477-monster-trampoline.json) |
@@ -12567,6 +12575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MXGP2: The Official Motocross Videogame | 20391 | [20391-mxgp2-the-official-motocross-videogame.json](./20391-mxgp2-the-official-motocross-videogame.json) |
 | Mxsimulator | 137035 | [137035-mxsimulator.json](./137035-mxsimulator.json) |
 | My 1/6 Lover | 111404 | [111404-my-1-6-lover.json](./111404-my-1-6-lover.json) |
+| My 11 Heroes | 234508 | [234508-my-11-heroes.json](./234508-my-11-heroes.json) |
 | My 3rd Date with my Cyber Girlfriend | 183401 | [183401-my-3rd-date-with-my-cyber-girlfriend.json](./183401-my-3rd-date-with-my-cyber-girlfriend.json) |
 | My 9 Swallows: Topstars League | 241525 | [241525-my-9-swallows-topstars-league.json](./241525-my-9-swallows-topstars-league.json) |
 | My Adaptation In(to) Human | 301348 | [301348-my-adaptation-in-to-human.json](./301348-my-adaptation-in-to-human.json) |
