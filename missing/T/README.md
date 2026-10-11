@@ -14931,6 +14931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Room 2 | 393734 | [393734-tiny-room-2.json](./393734-tiny-room-2.json) |
 | Tiny Room Stories: Town Mystery | 122907 | [122907-tiny-room-stories-town-mystery.json](./122907-tiny-room-stories-town-mystery.json) |
 | Tiny Shadows Interwoven Hearts | 374078 | [374078-tiny-shadows-interwoven-hearts.json](./374078-tiny-shadows-interwoven-hearts.json) |
+| Tiny Sheep: Pet Sim on a Farm | 232342 | [232342-tiny-sheep-pet-sim-on-a-farm.json](./232342-tiny-sheep-pet-sim-on-a-farm.json) |
 | Tiny Shop | 297576 | [297576-tiny-shop.json](./297576-tiny-shop.json) |
 | Tiny Shop | 365094 | [365094-tiny-shop.json](./365094-tiny-shop.json) |
 | Tiny Sim | 181223 | [181223-tiny-sim.json](./181223-tiny-sim.json) |
@@ -16208,6 +16209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Classic Plaigarized | 319095 | [319095-top-classic-plaigarized.json](./319095-top-classic-plaigarized.json) |
 | Top Cop: Police Training | 393050 | [393050-top-cop-police-training.json](./393050-top-cop-police-training.json) |
 | Top Darts | 91918 | [91918-top-darts.json](./91918-top-darts.json) |
+| Top Deck slotmachine | 232356 | [232356-top-deck-slotmachine.json](./232356-top-deck-slotmachine.json) |
 | Top Dog | 213411 | [213411-top-dog.json](./213411-top-dog.json) |
 | Top Down Battlegrounds | 292850 | [292850-top-down-battlegrounds.json](./292850-top-down-battlegrounds.json) |
 | Top Down Racer | 107883 | [107883-top-down-racer.json](./107883-top-down-racer.json) |
@@ -19433,6 +19435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger Heart Exelica Enhanced | 43476 | [43476-trigger-heart-exelica-enhanced.json](./43476-trigger-heart-exelica-enhanced.json) |
 | Trigger Knight | 314452 | [314452-trigger-knight.json](./314452-trigger-knight.json) |
 | Trigger Land | 366111 | [366111-trigger-land.json](./366111-trigger-land.json) |
+| Trigger on the Road | 232335 | [232335-trigger-on-the-road.json](./232335-trigger-on-the-road.json) |
 | Trigger Path | 378386 | [378386-trigger-path.json](./378386-trigger-path.json) |
 | Trigger Rally | 63239 | [63239-trigger-rally.json](./63239-trigger-rally.json) |
 | Trigger Saint | 35627 | [35627-trigger-saint.json](./35627-trigger-saint.json) |
@@ -19986,6 +19989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trump: Agent of Hate | 26958 | [26958-trump-agent-of-hate.json](./26958-trump-agent-of-hate.json) |
 | Trump! Jump | 256262 | [256262-trump-jump.json](./256262-trump-jump.json) |
 | Trumpets | 179164 | [179164-trumpets.json](./179164-trumpets.json) |
+| TrumpGate | 232340 | [232340-trumpgate.json](./232340-trumpgate.json) |
 | Trundle | 93599 | [93599-trundle.json](./93599-trundle.json) |
 | Trunkey's Amazing Odyssey | 369467 | [369467-trunkeys-amazing-odyssey.json](./369467-trunkeys-amazing-odyssey.json) |
 | Trushybin & Removin: What I Couldn’t Delete | 390273 | [390273-trushybin-and-removin-what-i-couldn-t-delete.json](./390273-trushybin-and-removin-what-i-couldn-t-delete.json) |
