@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamunation!: International | 116729 | [116729-lamunation-international.json](./116729-lamunation-international.json) |
 | LAN Party Adventures | 336157 | [336157-lan-party-adventures.json](./336157-lan-party-adventures.json) |
 | Lán Shízhàn Duì | 158649 | [158649-lan-shizhan-dui.json](./158649-lan-shizhan-dui.json) |
+| Lana and the Milking Table | 238534 | [238534-lana-and-the-milking-table.json](./238534-lana-and-the-milking-table.json) |
 | Lana: Queen of Ancient Egypt | 348827 | [348827-lana-queen-of-ancient-egypt.json](./348827-lana-queen-of-ancient-egypt.json) |
 | Lancaster | 292836 | [292836-lancaster.json](./292836-lancaster.json) |
 | Lancelot | 12169 | [12169-lancelot.json](./12169-lancelot.json) |
@@ -952,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Survivor | 81430 | [81430-last-survivor.json](./81430-last-survivor.json) |
 | Last Survivor | 89997 | [89997-last-survivor.json](./89997-last-survivor.json) |
 | Last Survivors | 255964 | [255964-last-survivors.json](./255964-last-survivors.json) |
+| Last Tale | 238367 | [238367-last-tale.json](./238367-last-tale.json) |
 | Last Term | 370870 | [370870-last-term.json](./370870-last-term.json) |
 | Last Term, First Love | 391734 | [391734-last-term-first-love.json](./391734-last-term-first-love.json) |
 | Last Throne | 364035 | [364035-last-throne.json](./364035-last-throne.json) |
@@ -2122,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemma | 17386 | [17386-lemma.json](./17386-lemma.json) |
 | Lemming Dynasty | 60489 | [60489-lemming-dynasty.json](./60489-lemming-dynasty.json) |
 | Lemmings | 113439 | [113439-lemmings.json](./113439-lemmings.json) |
+| Lemmings | 238376 | [238376-lemmings.json](./238376-lemmings.json) |
 | Lemmings | 238609 | [238609-lemmings.json](./238609-lemmings.json) |
 | Lemmings | 238839 | [238839-lemmings.json](./238839-lemmings.json) |
 | Lemmings | 239057 | [239057-lemmings.json](./239057-lemmings.json) |
