@@ -1906,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genjin Collection | 64343 | [64343-genjin-collection.json](./64343-genjin-collection.json) |
 | Genjin Kotts | 228337 | [228337-genjin-kotts.json](./228337-genjin-kotts.json) |
 | Genjin Show: Tobidase! VB Genjin | 234086 | [234086-genjin-show-tobidase-vb-genjin.json](./234086-genjin-show-tobidase-vb-genjin.json) |
+| Genjintch Tamagotchi | 229846 | [229846-genjintch-tamagotchi.json](./229846-genjintch-tamagotchi.json) |
 | Genjiro: Samurai Defense | 285973 | [285973-genjiro-samurai-defense.json](./285973-genjiro-samurai-defense.json) |
 | Genkai Shikisai Kankaku Test Hard | 266168 | [266168-genkai-shikisai-kankaku-test-hard.json](./266168-genkai-shikisai-kankaku-test-hard.json) |
 | Genkai Tokki Moero Crystal | 60222 | [60222-genkai-tokki-moero-crystal.json](./60222-genkai-tokki-moero-crystal.json) |
