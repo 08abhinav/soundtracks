@@ -3111,6 +3111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beak Island Visitor Center | 339964 | [339964-beak-island-visitor-center.json](./339964-beak-island-visitor-center.json) |
 | Beaked Buccaneer | 302070 | [302070-beaked-buccaneer.json](./302070-beaked-buccaneer.json) |
 | Beam | 15700 | [15700-beam.json](./15700-beam.json) |
+| Beam | 233423 | [233423-beam.json](./233423-beam.json) |
 | Beam Ball | 101731 | [101731-beam-ball.json](./101731-beam-ball.json) |
 | Beam Breakers | 24082 | [24082-beam-breakers.json](./24082-beam-breakers.json) |
 | Beam Cat | 224666 | [224666-beam-cat.json](./224666-beam-cat.json) |
