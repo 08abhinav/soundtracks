@@ -848,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pantazil | 221681 | [221681-pantazil.json](./221681-pantazil.json) |
 | Panthalassa | 304650 | [304650-panthalassa.json](./304650-panthalassa.json) |
 | Pantheon | 128470 | [128470-pantheon.json](./128470-pantheon.json) |
+| Pantheon | 228624 | [228624-pantheon.json](./228624-pantheon.json) |
 | Pantheon: Card Game of Hentai - Part 1 | 267091 | [267091-pantheon-card-game-of-hentai-part-1.json](./267091-pantheon-card-game-of-hentai-part-1.json) |
 | Pantheon: Rise of the Fallen | 75421 | [75421-pantheon-rise-of-the-fallen.json](./75421-pantheon-rise-of-the-fallen.json) |
 | Panther | 100285 | [100285-panther.json](./100285-panther.json) |
@@ -10277,6 +10278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Summer Ice - Bowling: Story One - Jane Version | 215359 | [215359-project-summer-ice-bowling-story-one-jane-version.json](./215359-project-summer-ice-bowling-story-one-jane-version.json) |
 | Project: Summer Ice - Bowling: Story One - Mark Version | 215125 | [215125-project-summer-ice-bowling-story-one-mark-version.json](./215125-project-summer-ice-bowling-story-one-mark-version.json) |
 | Project: Summer Ice - Bowling: Story One - Pammy Version | 187216 | [187216-project-summer-ice-bowling-story-one-pammy-version.json](./187216-project-summer-ice-bowling-story-one-pammy-version.json) |
+| Project: Summer Ice - Bowling: Story Six - Jane Version | 228335 | [228335-project-summer-ice-bowling-story-six-jane-version.json](./228335-project-summer-ice-bowling-story-six-jane-version.json) |
 | Project: Summer Ice - Bowling: Story Six - Pammy Version | 226311 | [226311-project-summer-ice-bowling-story-six-pammy-version.json](./226311-project-summer-ice-bowling-story-six-pammy-version.json) |
 | Project: Summer Ice - Bowling: Story Three - Jane Version | 215352 | [215352-project-summer-ice-bowling-story-three-jane-version.json](./215352-project-summer-ice-bowling-story-three-jane-version.json) |
 | Project: Summer Ice - Bowling: Story Three - Mark Version | 215111 | [215111-project-summer-ice-bowling-story-three-mark-version.json](./215111-project-summer-ice-bowling-story-three-mark-version.json) |
