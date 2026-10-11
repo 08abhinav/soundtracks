@@ -936,6 +936,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0df59fc8326bacf0222809a" width="60" /> | [Team Fortress 2](https://ostdb.net/games/team-fortress-2) | **Fight Songs: The Music of Team Fortress 2** · [Spotify](https://open.spotify.com/album/4XbdQcRcywvBSp1cD7DgyO) |
 | <img src="https://i.scdn.co/image/ab67616d0000aa548b10a46521328b520aa45aec" width="60" /> | [Tekken 2](https://ostdb.net/games/tekken-2) | **Tekken 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6EggxuKVGZ0fpYseeRPybC) · [Apple Music](https://music.apple.com/cz/album/tekken-2-original-soundtrack/1724285091?l=cs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273edd6727f250561625ac18a1f" width="60" /> | [Tekken 3](https://ostdb.net/games/tekken-3) | **TEKKEN 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3AIocpCS06fH9N88lFNolJ) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/74/c1/b0/74c1b01e-5f3c-ba74-9afb-f4e1fd1c3627/PA00133827_0_179865_jacket.jpg/600x600bb.jpg" width="60" /> | [Tekken 4](https://ostdb.net/games/tekken-4) | **TEKKEN 4 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0ldA7UlWNdVfnImmX4pSUd) · [Apple Music](https://music.apple.com/us/album/tekken-4-original-soundtrack/1724296166) · [Album](https://album.link/i/1724296166) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e9726694dc3974b1d231755" width="60" /> | [Tekken 5](https://ostdb.net/games/tekken-5) | **TEKKEN 5 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3VmBSW1iNRRgRp4wTSnQ7n)<br>**TEKKEN 5 DARK RESURRECTION (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3JiKbufQ6jn4YAwmQbcrjz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350d891828e868c643e48b097" width="60" /> | [Tekken 7](https://ostdb.net/games/tekken-7) | **TEKKEN 7 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3FbknwsvffLmSpdKdtmyyZ)<br>**TEKKEN 7 (Original Soundtrack) [vol.2]** · [Spotify](https://open.spotify.com/album/4w5u1ApwM6kZz7evqqW0QP) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/55/34/26553421-66c8-0cf3-3b13-001a50f21694/artwork.jpg/600x600bb.jpg" width="60" /> | [Tempest Rising](https://ostdb.net/games/tempest-rising) | **Tempest Rising (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/tempest-rising-original-game-soundtrack/1828806556?uo=4) · [Album](https://album.link/i/1828806556) |
@@ -1149,4 +1150,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1474 soundtracks · last updated 2026-10-11T20:10:27.090Z_
+_1475 soundtracks · last updated 2026-10-11T20:10:39.304Z_
