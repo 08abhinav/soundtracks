@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabletop Simulator: Zombicide | 161267 | [161267-tabletop-simulator-zombicide.json](./161267-tabletop-simulator-zombicide.json) |
 | TableTop Soccer | 33239 | [33239-tabletop-soccer.json](./33239-tabletop-soccer.json) |
 | TableTop Soccer: Redux | 280253 | [280253-tabletop-soccer-redux.json](./280253-tabletop-soccer-redux.json) |
+| Tabletop Speed | 235123 | [235123-tabletop-speed.json](./235123-tabletop-speed.json) |
 | Tabletopia: Altiplano | 162874 | [162874-tabletopia-altiplano.json](./162874-tabletopia-altiplano.json) |
 | Tabletopia: Aquanauts | 162891 | [162891-tabletopia-aquanauts.json](./162891-tabletopia-aquanauts.json) |
 | Tabletopia: Argent - the Consortium | 162882 | [162882-tabletopia-argent-the-consortium.json](./162882-tabletopia-argent-the-consortium.json) |
@@ -761,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Agaris: Children of Fate | 236929 | [236929-tales-of-agaris-children-of-fate.json](./236929-tales-of-agaris-children-of-fate.json) |
 | Tales of Agaris: The Legendary Rion | 225102 | [225102-tales-of-agaris-the-legendary-rion.json](./225102-tales-of-agaris-the-legendary-rion.json) |
 | Tales of Ancient Nights | 114334 | [114334-tales-of-ancient-nights.json](./114334-tales-of-ancient-nights.json) |
+| Tales of Androgyny | 235248 | [235248-tales-of-androgyny.json](./235248-tales-of-androgyny.json) |
 | Tales of Aradia: Idle RPG | 358457 | [358457-tales-of-aradia-idle-rpg.json](./358457-tales-of-aradia-idle-rpg.json) |
 | Tales Of Aravorn: Reign Of War | 293832 | [293832-tales-of-aravorn-reign-of-war.json](./293832-tales-of-aravorn-reign-of-war.json) |
 | Tales of Aravorn: Seasons Of The Wolf - Bad Blood | 171632 | [171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json](./171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json) |
@@ -2715,6 +2717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Pro Tournaments | 274737 | [274737-tennis-pro-tournaments.json](./274737-tennis-pro-tournaments.json) |
 | Tennis Slam: Global Duel Arena | 244807 | [244807-tennis-slam-global-duel-arena.json](./244807-tennis-slam-global-duel-arena.json) |
 | Tennis Smash: Racketville | 382230 | [382230-tennis-smash-racketville.json](./382230-tennis-smash-racketville.json) |
+| Tennis Stars: Ultimate Clash | 235130 | [235130-tennis-stars-ultimate-clash.json](./235130-tennis-stars-ultimate-clash.json) |
 | Tennis Tourney | 172783 | [172783-tennis-tourney.json](./172783-tennis-tourney.json) |
 | Tennis Tune-Up | 117168 | [117168-tennis-tune-up.json](./117168-tennis-tune-up.json) |
 | Tennis Untimate 3D Pro | 107100 | [107100-tennis-untimate-3d-pro.json](./107100-tennis-untimate-3d-pro.json) |
@@ -6614,6 +6617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guild Manager | 404999 | [404999-the-guild-manager.json](./404999-the-guild-manager.json) |
 | The Guild of Thieves | 12126 | [12126-the-guild-of-thieves.json](./12126-the-guild-of-thieves.json) |
 | The Guilt and the Shadow | 36145 | [36145-the-guilt-and-the-shadow.json](./36145-the-guilt-and-the-shadow.json) |
+| The Gun Game | 235247 | [235247-the-gun-game.json](./235247-the-gun-game.json) |
 | The Gun is Good | 254024 | [254024-the-gun-is-good.json](./254024-the-gun-is-good.json) |
 | The Gunk | 136000 | [136000-the-gunk.json](./136000-the-gunk.json) |
 | The Gurgling | 381594 | [381594-the-gurgling.json](./381594-the-gurgling.json) |
@@ -15452,6 +15456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Todo List | 366329 | [366329-todo-list.json](./366329-todo-list.json) |
 | Todo Ryunosuke Tantei Nikki: Ogon no Rashinban | 386389 | [386389-todo-ryunosuke-tantei-nikki-ogon-no-rashinban.json](./386389-todo-ryunosuke-tantei-nikki-ogon-no-rashinban.json) |
 | Todos Contra Tcheco | 321780 | [321780-todos-contra-tcheco.json](./321780-todos-contra-tcheco.json) |
+| Toe II Toe | 235097 | [235097-toe-ii-toe.json](./235097-toe-ii-toe.json) |
 | Toe to Toe: Party Games | 196237 | [196237-toe-to-toe-party-games.json](./196237-toe-to-toe-party-games.json) |
 | Toeic Test DS Training | 124095 | [124095-toeic-test-ds-training.json](./124095-toeic-test-ds-training.json) |
 | TOEIC Test: Jissen Tokkun | 65291 | [65291-toeic-test-jissen-tokkun.json](./65291-toeic-test-jissen-tokkun.json) |
@@ -16676,6 +16681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toucan Rampage: Sandstorm Shooter | 278358 | [278358-toucan-rampage-sandstorm-shooter.json](./278358-toucan-rampage-sandstorm-shooter.json) |
 | Touch | 256328 | [256328-touch.json](./256328-touch.json) |
 | Touch 'N' Play Collection | 206746 | [206746-touch-n-play-collection.json](./206746-touch-n-play-collection.json) |
+| Touch & Explore | 235120 | [235120-touch-and-explore.json](./235120-touch-and-explore.json) |
 | Touch Battle Ninja | 58828 | [58828-touch-battle-ninja.json](./58828-touch-battle-ninja.json) |
 | Touch Battle Tank 3D | 55907 | [55907-touch-battle-tank-3d.json](./55907-touch-battle-tank-3d.json) |
 | Touch Battle Tank 3D-2 | 55912 | [55912-touch-battle-tank-3d-2.json](./55912-touch-battle-tank-3d-2.json) |
