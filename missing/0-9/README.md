@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Count Boxer | 85719 | [85719-10-count-boxer.json](./85719-10-count-boxer.json) |
 | 10 Crowns | 86424 | [86424-10-crowns.json](./86424-10-crowns.json) |
 | 10 Days to Save the World | 382905 | [382905-10-days-to-save-the-world.json](./382905-10-days-to-save-the-world.json) |
+| 10 Days with My Devil | 229848 | [229848-10-days-with-my-devil.json](./229848-10-days-with-my-devil.json) |
 | 10 Games | 319563 | [319563-10-games.json](./319563-10-games.json) |
 | 10 Gnomes 1: The Rooftops | 306567 | [306567-10-gnomes-1-the-rooftops.json](./306567-10-gnomes-1-the-rooftops.json) |
 | 10 Gnomes 2: Walk In the Park | 306570 | [306570-10-gnomes-2-walk-in-the-park.json](./306570-10-gnomes-2-walk-in-the-park.json) |
@@ -1017,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 | 312586 | [312586-2048.json](./312586-2048.json) |
 | 2048 | 320269 | [320269-2048.json](./320269-2048.json) |
 | 2048 3D | 268679 | [268679-2048-3d.json](./268679-2048-3d.json) |
+| 2048 7x7 | 231839 | [231839-2048-7x7.json](./231839-2048-7x7.json) |
 | 2048 8x8 | 250216 | [250216-2048-8x8.json](./250216-2048-8x8.json) |
 | 2048 9x9 | 250236 | [250236-2048-9x9.json](./250236-2048-9x9.json) |
 | 2048 Advance | 313462 | [313462-2048-advance.json](./313462-2048-advance.json) |
@@ -1088,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 24 Puzzle | 357972 | [357972-24-puzzle.json](./357972-24-puzzle.json) |
 | 24 Solar Terms | 158663 | [158663-24-solar-terms.json](./158663-24-solar-terms.json) |
 | 24-ji no Kane to Cinderella ~Halloween Wedding~ | 56551 | [56551-24-ji-no-kane-to-cinderella-halloween-wedding.json](./56551-24-ji-no-kane-to-cinderella-halloween-wedding.json) |
+| 24-ji, Kimi no Heart wa Nusumareru: Kaitou Jade | 229853 | [229853-24-ji-kimi-no-heart-wa-nusumareru-kaitou-jade.json](./229853-24-ji-kimi-no-heart-wa-nusumareru-kaitou-jade.json) |
 | 24: Special Ops | 91747 | [91747-24-special-ops.json](./91747-24-special-ops.json) |
 | 24: The Game | 6062 | [6062-24-the-game.json](./6062-24-the-game.json) |
 | 24: The Mobile Game | 305988 | [305988-24-the-mobile-game.json](./305988-24-the-mobile-game.json) |
