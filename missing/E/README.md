@@ -4029,6 +4029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evades.io | 112223 | [112223-evades-io.json](./112223-evades-io.json) |
 | Evan Quest | 170357 | [170357-evan-quest.json](./170357-evan-quest.json) |
 | Evan Quest 2 | 192929 | [192929-evan-quest-2.json](./192929-evan-quest-2.json) |
+| Evan, Daniel and Friends. Vol 2 | 238970 | [238970-evan-daniel-and-friends-vol-2.json](./238970-evan-daniel-and-friends-vol-2.json) |
 | Evander Holyfield's 'Real Deal' Boxing | 46545 | [46545-evander-holyfields-real-deal-boxing.json](./46545-evander-holyfields-real-deal-boxing.json) |
 | Evander Holyfield's Real Deal Boxing | 45557 | [45557-evander-holyfields-real-deal-boxing.json](./45557-evander-holyfields-real-deal-boxing.json) |
 | Evanesce Theory | 399738 | [399738-evanesce-theory.json](./399738-evanesce-theory.json) |
