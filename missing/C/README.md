@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Boba | 244391 | [244391-call-of-boba.json](./244391-call-of-boba.json) |
 | Call of Clans: Optional Elite Card Pack | 355221 | [355221-call-of-clans-optional-elite-card-pack.json](./355221-call-of-clans-optional-elite-card-pack.json) |
 | Call of Clans: Random Legend Card Pack | 355222 | [355222-call-of-clans-random-legend-card-pack.json](./355222-call-of-clans-random-legend-card-pack.json) |
+| Call of Cthulhu: The Darkness Within Book 1 | 228320 | [228320-call-of-cthulhu-the-darkness-within-book-1.json](./228320-call-of-cthulhu-the-darkness-within-book-1.json) |
 | Call of Cutie | 411724 | [411724-call-of-cutie.json](./411724-call-of-cutie.json) |
 | Call of Death Zombie Invasion | 231976 | [231976-call-of-death-zombie-invasion.json](./231976-call-of-death-zombie-invasion.json) |
 | Call of Dookie | 274544 | [274544-call-of-dookie.json](./274544-call-of-dookie.json) |
@@ -5011,6 +5012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Race 2 | 88197 | [88197-christmas-race-2.json](./88197-christmas-race-2.json) |
 | Christmas Rhythm | 158219 | [158219-christmas-rhythm.json](./158219-christmas-rhythm.json) |
 | Christmas Rocket Pudding | 276851 | [276851-christmas-rocket-pudding.json](./276851-christmas-rocket-pudding.json) |
+| Christmas Run 2 | 228333 | [228333-christmas-run-2.json](./228333-christmas-run-2.json) |
 | Christmas Runner | 276697 | [276697-christmas-runner.json](./276697-christmas-runner.json) |
 | Christmas Rush | 280710 | [280710-christmas-rush.json](./280710-christmas-rush.json) |
 | Christmas Rush | 284971 | [284971-christmas-rush.json](./284971-christmas-rush.json) |
