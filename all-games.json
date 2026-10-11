@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T21:35:37.581Z",
-  "total_soundtracks": 1480,
+  "generated_at": "2026-10-11T21:40:13.763Z",
+  "total_soundtracks": 1481,
   "games": [
     {
       "igdb_id": 7522,
@@ -9177,6 +9177,20 @@
           "spotify_url": "https://open.spotify.com/album/6m03Ph97WTSmQIERO6NrA8",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 1314,
+      "game_name": "Medal of Honor: Airborne",
+      "game_url": "https://ostdb.net/games/medal-of-honor-airborne",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5a/6c/16/5a6c16bb-3cb6-a010-3006-599512050ea5/780163562026.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Medal of Honor: Airborne (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0k0iicmL1SjpxuoOOFYF3F",
+          "apple_music_url": "https://music.apple.com/us/album/medal-of-honor-airborne-original-soundtrack/1499900673",
+          "album_link_url": "https://album.link/i/1499900673"
         }
       ]
     },
