@@ -3048,6 +3048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CBT With Yuuka Kazami: Getting Help With Patchouli Knowledge | 182247 | [182247-cbt-with-yuuka-kazami-getting-help-with-patchouli-knowledge.json](./182247-cbt-with-yuuka-kazami-getting-help-with-patchouli-knowledge.json) |
 | CC & SH Smash Hits | 74303 | [74303-cc-and-sh-smash-hits.json](./74303-cc-and-sh-smash-hits.json) |
 | CCCP Calls! | 100490 | [100490-cccp-calls.json](./100490-cccp-calls.json) |
+| CCG Deck Adventures Wild Arena | 232338 | [232338-ccg-deck-adventures-wild-arena.json](./232338-ccg-deck-adventures-wild-arena.json) |
 | CCTV | 264863 | [264863-cctv.json](./264863-cctv.json) |
 | CD 2: Trap Master | 244668 | [244668-cd-2-trap-master.json](./244668-cd-2-trap-master.json) |
 | CD Battle: Hikari no Yuushi-tachi | 267948 | [267948-cd-battle-hikari-no-yuushi-tachi.json](./267948-cd-battle-hikari-no-yuushi-tachi.json) |
@@ -8377,6 +8378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connections | 315093 | [315093-connections.json](./315093-connections.json) |
 | ConnecTrade | 290303 | [290303-connectrade.json](./290303-connectrade.json) |
 | Connectris | 79232 | [79232-connectris.json](./79232-connectris.json) |
+| Connectrode | 232347 | [232347-connectrode.json](./232347-connectrode.json) |
 | Connie and the Essence of Chaos | 301325 | [301325-connie-and-the-essence-of-chaos.json](./301325-connie-and-the-essence-of-chaos.json) |
 | Connie Talbot: Over the Rainbow | 68099 | [68099-connie-talbot-over-the-rainbow.json](./68099-connie-talbot-over-the-rainbow.json) |
 | Conniption: Paranoia | 217392 | [217392-conniption-paranoia.json](./217392-conniption-paranoia.json) |
