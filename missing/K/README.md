@@ -2479,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kissed by the Baddest Bidder: Engagement Cruise - Soryu DLC Pack | 212351 | [212351-kissed-by-the-baddest-bidder-engagement-cruise-soryu-dlc-pack.json](./212351-kissed-by-the-baddest-bidder-engagement-cruise-soryu-dlc-pack.json) |
 | Kissed by the Baddest Bidder: Happy Birthday Ota | 238196 | [238196-kissed-by-the-baddest-bidder-happy-birthday-ota.json](./238196-kissed-by-the-baddest-bidder-happy-birthday-ota.json) |
 | Kissed by the Baddest Bidder: Living Together - Shuichi | 238184 | [238184-kissed-by-the-baddest-bidder-living-together-shuichi.json](./238184-kissed-by-the-baddest-bidder-living-together-shuichi.json) |
+| Kissed by the Baddest Bidder: Living Together - Shuichi DLC Pack | 237994 | [237994-kissed-by-the-baddest-bidder-living-together-shuichi-dlc-pack.json](./237994-kissed-by-the-baddest-bidder-living-together-shuichi-dlc-pack.json) |
 | Kissed by the Baddest Bidder: Living Together Epilogue - Shuichi | 238067 | [238067-kissed-by-the-baddest-bidder-living-together-epilogue-shuichi.json](./238067-kissed-by-the-baddest-bidder-living-together-epilogue-shuichi.json) |
 | Kissed by the Baddest Bidder: Scattered Cards Epilogue - Eisuke | 238069 | [238069-kissed-by-the-baddest-bidder-scattered-cards-epilogue-eisuke.json](./238069-kissed-by-the-baddest-bidder-scattered-cards-epilogue-eisuke.json) |
 | Kissed by the Baddest Bidder: Secrets from the Past - Eisuke | 238225 | [238225-kissed-by-the-baddest-bidder-secrets-from-the-past-eisuke.json](./238225-kissed-by-the-baddest-bidder-secrets-from-the-past-eisuke.json) |
@@ -2794,6 +2795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Online | 19795 | [19795-knight-online.json](./19795-knight-online.json) |
 | Knight Orc | 12165 | [12165-knight-orc.json](./12165-knight-orc.json) |
 | Knight Overloaded | 253438 | [253438-knight-overloaded.json](./253438-knight-overloaded.json) |
+| Knight Raider | 239105 | [239105-knight-raider.json](./239105-knight-raider.json) |
 | Knight Rider | 72808 | [72808-knight-rider.json](./72808-knight-rider.json) |
 | Knight Rider 2: The Game | 22370 | [22370-knight-rider-2-the-game.json](./22370-knight-rider-2-the-game.json) |
 | Knight Run: Reconquista | 199988 | [199988-knight-run-reconquista.json](./199988-knight-run-reconquista.json) |
