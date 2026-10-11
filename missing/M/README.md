@@ -8521,6 +8521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misplaced | 300034 | [300034-misplaced.json](./300034-misplaced.json) |
 | Misplaced | 413185 | [413185-misplaced.json](./413185-misplaced.json) |
 | Misplaced. | 180566 | [180566-misplaced.json](./180566-misplaced.json) |
+| Misremembered Memories | 236726 | [236726-misremembered-memories.json](./236726-misremembered-memories.json) |
 | Miss | 242777 | [242777-miss.json](./242777-miss.json) |
 | Miss Agatha's Palace | 187199 | [187199-miss-agathas-palace.json](./187199-miss-agathas-palace.json) |
 | Miss Bellevue Never Heard the Whistle | 362961 | [362961-miss-bellevue-never-heard-the-whistle.json](./362961-miss-bellevue-never-heard-the-whistle.json) |
@@ -11002,6 +11003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motel Snooze: Suite Dreams | 352389 | [352389-motel-snooze-suite-dreams.json](./352389-motel-snooze-suite-dreams.json) |
 | Motel Styx | 215603 | [215603-motel-styx.json](./215603-motel-styx.json) |
 | MoteMancer | 338704 | [338704-motemancer.json](./338704-motemancer.json) |
+| Moth Kubit | 236869 | [236869-moth-kubit.json](./236869-moth-kubit.json) |
 | Moth Ma'am | 355015 | [355015-moth-maam.json](./355015-moth-maam.json) |
 | Moth Manor | 229771 | [229771-moth-manor.json](./229771-moth-manor.json) |
 | Moth Planet | 254585 | [254585-moth-planet.json](./254585-moth-planet.json) |
