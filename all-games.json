@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T19:55:51.050Z",
-  "total_soundtracks": 1471,
+  "generated_at": "2026-10-11T19:56:05.418Z",
+  "total_soundtracks": 1472,
   "games": [
     {
       "igdb_id": 7522,
@@ -16493,6 +16493,20 @@
           "spotify_url": "https://open.spotify.com/album/2FwGdWEQ3LdWRdnUotSD64",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 11593,
+      "game_name": "World of Warcraft: Legion",
+      "game_url": "https://ostdb.net/games/world-of-warcraft-legion",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/a5/40/f2a54065-30ba-95ac-1c18-62ddeee85904/047875730069_cover.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "World of Warcraft: Legion (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3Dz4iNmJAmdqO46w7nKDGK",
+          "apple_music_url": "https://music.apple.com/us/album/world-of-warcraft-legion-original-game-soundtrack/1810426676",
+          "album_link_url": "https://album.link/i/1810426676"
         }
       ]
     },
