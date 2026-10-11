@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Hate this Place | 336144 | [336144-i-hate-this-place.json](./336144-i-hate-this-place.json) |
 | I Hate This Place: Deluxe Edition | 401858 | [401858-i-hate-this-place-deluxe-edition.json](./401858-i-hate-this-place-deluxe-edition.json) |
 | I Hate You | 215771 | [215771-i-hate-you.json](./215771-i-hate-you.json) |
+| I Hate Zombies | 232890 | [232890-i-hate-zombies.json](./232890-i-hate-zombies.json) |
 | I Have a Dream | 255703 | [255703-i-have-a-dream.json](./255703-i-have-a-dream.json) |
 | I Have an Adventure House | 417345 | [417345-i-have-an-adventure-house.json](./417345-i-have-an-adventure-house.json) |
 | I Have an Item | 384113 | [384113-i-have-an-item.json](./384113-i-have-an-item.json) |
@@ -1754,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ImpossiBowl | 264150 | [264150-impossibowl.json](./264150-impossibowl.json) |
 | ImpossiBubble | 186823 | [186823-impossibubble.json](./186823-impossibubble.json) |
 | Imposter The Horror | 282045 | [282045-imposter-the-horror.json](./282045-imposter-the-horror.json) |
+| Imposters: Countdown | 233021 | [233021-imposters-countdown.json](./233021-imposters-countdown.json) |
 | Impostor | 179698 | [179698-impostor.json](./179698-impostor.json) |
 | Impostor but Huggy Wuggy | 270669 | [270669-impostor-but-huggy-wuggy.json](./270669-impostor-but-huggy-wuggy.json) |
 | Impostor Hide Online | 179727 | [179727-impostor-hide-online.json](./179727-impostor-hide-online.json) |
