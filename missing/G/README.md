@@ -732,8 +732,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game & Watch Manhole | 84549 | [84549-game-and-watch-manhole.json](./84549-game-and-watch-manhole.json) |
 | Game & Watch Mario's Cement Factory | 206933 | [206933-game-and-watch-marios-cement-factory.json](./206933-game-and-watch-marios-cement-factory.json) |
 | Game & Watch Mario's Cement Factory | 339262 | [339262-game-and-watch-marios-cement-factory.json](./339262-game-and-watch-marios-cement-factory.json) |
+| Game & Watch-e: Fire | 232892 | [232892-game-and-watch-e-fire.json](./232892-game-and-watch-e-fire.json) |
+| Game & Watch-e: Fire | 232893 | [232893-game-and-watch-e-fire.json](./232893-game-and-watch-e-fire.json) |
 | Game & Watch-e: Flagman | 261805 | [261805-game-and-watch-e-flagman.json](./261805-game-and-watch-e-flagman.json) |
 | Game & Watch-e: Helmet | 261804 | [261804-game-and-watch-e-helmet.json](./261804-game-and-watch-e-helmet.json) |
+| Game & Watch-e: Manhole | 232899 | [232899-game-and-watch-e-manhole.json](./232899-game-and-watch-e-manhole.json) |
+| Game & Watch-e: Octopus | 232887 | [232887-game-and-watch-e-octopus.json](./232887-game-and-watch-e-octopus.json) |
+| Game & Watch-e: Octopus | 232891 | [232891-game-and-watch-e-octopus.json](./232891-game-and-watch-e-octopus.json) |
+| Game & Watch-e: Spitball Sparky | 232885 | [232885-game-and-watch-e-spitball-sparky.json](./232885-game-and-watch-e-spitball-sparky.json) |
+| Game & Watch-e: Vermin | 232879 | [232879-game-and-watch-e-vermin.json](./232879-game-and-watch-e-vermin.json) |
+| Game & Watch-e: Vermin | 232882 | [232882-game-and-watch-e-vermin.json](./232882-game-and-watch-e-vermin.json) |
 | Game & Watch: Super Mario Bros. | 146701 | [146701-game-and-watch-super-mario-bros.json](./146701-game-and-watch-super-mario-bros.json) |
 | Game & Watch: The Legend of Zelda | 152361 | [152361-game-and-watch-the-legend-of-zelda.json](./152361-game-and-watch-the-legend-of-zelda.json) |
 | Game about a soup factory | 68625 | [68625-game-about-a-soup-factory.json](./68625-game-about-a-soup-factory.json) |
