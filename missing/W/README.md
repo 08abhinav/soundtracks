@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Covered 2: Censored Edition | 392892 | [392892-waifu-covered-2-censored-edition.json](./392892-waifu-covered-2-censored-edition.json) |
 | Waifu Crush | 188522 | [188522-waifu-crush.json](./188522-waifu-crush.json) |
 | Waifu Discovered 2: Medieval Fantasy | 375391 | [375391-waifu-discovered-2-medieval-fantasy.json](./375391-waifu-discovered-2-medieval-fantasy.json) |
+| Waifu Fighter: Family Friendly | 236311 | [236311-waifu-fighter-family-friendly.json](./236311-waifu-fighter-family-friendly.json) |
 | Waifu Force | 264527 | [264527-waifu-force.json](./264527-waifu-force.json) |
 | Waifu Hunter: Episode 1 - The Runaway Samurai | 110541 | [110541-waifu-hunter-episode-1-the-runaway-samurai.json](./110541-waifu-hunter-episode-1-the-runaway-samurai.json) |
 | Waifu Impact | 157112 | [157112-waifu-impact.json](./157112-waifu-impact.json) |
@@ -2002,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weekend Solitaire: Ocean Kings | 416080 | [416080-weekend-solitaire-ocean-kings.json](./416080-weekend-solitaire-ocean-kings.json) |
 | Weekend Solitaire: Railway | 386124 | [386124-weekend-solitaire-railway.json](./386124-weekend-solitaire-railway.json) |
 | Weekend Solitaire: Voyage | 386140 | [386140-weekend-solitaire-voyage.json](./386140-weekend-solitaire-voyage.json) |
+| Weekend Warriors MMA | 236195 | [236195-weekend-warriors-mma.json](./236195-weekend-warriors-mma.json) |
 | Weekly Jump Heroes Battle! My Collection 2 | 188366 | [188366-weekly-jump-heroes-battle-my-collection-2.json](./188366-weekly-jump-heroes-battle-my-collection-2.json) |
 | Weekly Shonen Jump Jikkyou Jan-jan Stadium | 109051 | [109051-weekly-shonen-jump-jikkyou-jan-jan-stadium.json](./109051-weekly-shonen-jump-jikkyou-jan-jan-stadium.json) |
 | Weekly Shonen Jump Ore Collection | 81415 | [81415-weekly-shonen-jump-ore-collection.json](./81415-weekly-shonen-jump-ore-collection.json) |
@@ -2526,6 +2528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Time MUD | 229107 | [229107-wheel-of-time-mud.json](./229107-wheel-of-time-mud.json) |
 | Wheel Runner | 280137 | [280137-wheel-runner.json](./280137-wheel-runner.json) |
 | Wheel Saint: Hellride | 384669 | [384669-wheel-saint-hellride.json](./384669-wheel-saint-hellride.json) |
+| Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheel World | 255091 | [255091-wheel-world.json](./255091-wheel-world.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
@@ -2845,6 +2848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whisper | 132706 | [132706-whisper.json](./132706-whisper.json) |
 | Whisper Forest | 304611 | [304611-whisper-forest.json](./304611-whisper-forest.json) |
 | Whisper in the Dark | 177349 | [177349-whisper-in-the-dark.json](./177349-whisper-in-the-dark.json) |
+| Whisper Mountain Outbreak | 236169 | [236169-whisper-mountain-outbreak.json](./236169-whisper-mountain-outbreak.json) |
 | Whisper Of The Curse | 287706 | [287706-whisper-of-the-curse.json](./287706-whisper-of-the-curse.json) |
 | Whisper of the House | 312555 | [312555-whisper-of-the-house.json](./312555-whisper-of-the-house.json) |
 | Whisper of the Shade: Gray | 338372 | [338372-whisper-of-the-shade-gray.json](./338372-whisper-of-the-shade-gray.json) |
