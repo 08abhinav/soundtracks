@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T21:40:26.160Z",
-  "total_soundtracks": 1482,
+  "generated_at": "2026-10-11T21:40:39.408Z",
+  "total_soundtracks": 1483,
   "games": [
     {
       "igdb_id": 7522,
@@ -12631,6 +12631,20 @@
           "spotify_url": "https://open.spotify.com/album/79DD1VgOYakea84R5eR0hV",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 1275,
+      "game_name": "SimCity 4",
+      "game_url": "https://ostdb.net/games/simcity-4",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c7/e7/83/c7e7832d-7525-aa95-9173-f1952923db62/780163561227.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "SimCity 4 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6rfFxDdAyBumxZpT6lJDsO",
+          "apple_music_url": "https://music.apple.com/us/album/simcity-4-original-soundtrack/1497387574",
+          "album_link_url": "https://album.link/i/1497387574"
         }
       ]
     },
