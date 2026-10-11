@@ -2098,6 +2098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enbody | 176999 | [176999-enbody.json](./176999-enbody.json) |
 | EnbornX | 61108 | [61108-enbornx.json](./61108-enbornx.json) |
 | Encased | 95407 | [95407-encased.json](./95407-encased.json) |
+| Encased: Portrait Pack | 230991 | [230991-encased-portrait-pack.json](./230991-encased-portrait-pack.json) |
 | Encave | 404778 | [404778-encave.json](./404778-encave.json) |
 | Encaved | 92981 | [92981-encaved.json](./92981-encaved.json) |
 | Enceladus | 261819 | [261819-enceladus.json](./261819-enceladus.json) |
@@ -4684,6 +4685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exiles of Embermark | 95549 | [95549-exiles-of-embermark.json](./95549-exiles-of-embermark.json) |
 | Exilio | 218712 | [218712-exilio.json](./218712-exilio.json) |
 | Eximius: Seize the Frontline | 96094 | [96094-eximius-seize-the-frontline.json](./96094-eximius-seize-the-frontline.json) |
+| Eximius: Seize the Frontline - Exclusive Callsign Pack: Kings of Frontline | 230989 | [230989-eximius-seize-the-frontline-exclusive-callsign-pack-kings-of-frontline.json](./230989-eximius-seize-the-frontline-exclusive-callsign-pack-kings-of-frontline.json) |
 | Exipath | 400900 | [400900-exipath.json](./400900-exipath.json) |
 | Exist | 212488 | [212488-exist.json](./212488-exist.json) |
 | Exist | 390693 | [390693-exist.json](./390693-exist.json) |
