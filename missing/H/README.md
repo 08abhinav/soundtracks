@@ -1023,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Numbers | 149437 | [149437-happy-numbers.json](./149437-happy-numbers.json) |
 | Happy Orchard | 185530 | [185530-happy-orchard.json](./185530-happy-orchard.json) |
 | Happy Pairs | 71185 | [71185-happy-pairs.json](./71185-happy-pairs.json) |
+| Happy Pet Balance: Which is the heaviest? | 233538 | [233538-happy-pet-balance-which-is-the-heaviest.json](./233538-happy-pet-balance-which-is-the-heaviest.json) |
 | Happy Pet Island | 322174 | [322174-happy-pet-island.json](./322174-happy-pet-island.json) |
 | Happy Pets | 200631 | [200631-happy-pets.json](./200631-happy-pets.json) |
 | Happy Pinball | 373116 | [373116-happy-pinball.json](./373116-happy-pinball.json) |
