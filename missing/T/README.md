@@ -194,6 +194,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tacape | 185033 | [185033-tacape.json](./185033-tacape.json) |
 | Tachanka Simulator | 312906 | [312906-tachanka-simulator.json](./312906-tachanka-simulator.json) |
 | Tachyon | 369771 | [369771-tachyon.json](./369771-tachyon.json) |
+| Tachyon Dreams I: The Radiant Fish of the Apocalypse | 238953 | [238953-tachyon-dreams-i-the-radiant-fish-of-the-apocalypse.json](./238953-tachyon-dreams-i-the-radiant-fish-of-the-apocalypse.json) |
+| Tachyon Dreams II: The Bloated Can of Space Root Beer | 238954 | [238954-tachyon-dreams-ii-the-bloated-can-of-space-root-beer.json](./238954-tachyon-dreams-ii-the-bloated-can-of-space-root-beer.json) |
+| Tachyon Dreams III: The Rancid Buttermilk from Andromeda | 238955 | [238955-tachyon-dreams-iii-the-rancid-buttermilk-from-andromeda.json](./238955-tachyon-dreams-iii-the-rancid-buttermilk-from-andromeda.json) |
 | Tachyon Fire | 410916 | [410916-tachyon-fire.json](./410916-tachyon-fire.json) |
 | Tachyon Project | 19976 | [19976-tachyon-project.json](./19976-tachyon-project.json) |
 | Tachyon Project: Limited Edition | 166235 | [166235-tachyon-project-limited-edition.json](./166235-tachyon-project-limited-edition.json) |
@@ -1973,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Delusional's Dusttale | 329654 | [329654-team-delusionals-dusttale.json](./329654-team-delusionals-dusttale.json) |
 | Team DK BMX | 206612 | [206612-team-dk-bmx.json](./206612-team-dk-bmx.json) |
 | Team Force 2 | 203535 | [203535-team-force-2.json](./203535-team-force-2.json) |
+| Team Fortaleza 2 Mobile | 238951 | [238951-team-fortaleza-2-mobile.json](./238951-team-fortaleza-2-mobile.json) |
 | Team Fortress 2 Classic: Community Edition | 360756 | [360756-team-fortress-2-classic-community-edition.json](./360756-team-fortress-2-classic-community-edition.json) |
 | Team Fortress 2 Classic: Death & Taxes | 261461 | [261461-team-fortress-2-classic-death-and-taxes.json](./261461-team-fortress-2-classic-death-and-taxes.json) |
 | Team Fortress 2 Classic: Fight or Flight | 261467 | [261467-team-fortress-2-classic-fight-or-flight.json](./261467-team-fortress-2-classic-fight-or-flight.json) |
@@ -4079,6 +4083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beast of the Rosewood | 302134 | [302134-the-beast-of-the-rosewood.json](./302134-the-beast-of-the-rosewood.json) |
 | The Beast of Torrack Moor | 58855 | [58855-the-beast-of-torrack-moor.json](./58855-the-beast-of-torrack-moor.json) |
 | The Beast Within: A Gabriel Knight Mystery | 1251 | [1251-the-beast-within-a-gabriel-knight-mystery.json](./1251-the-beast-within-a-gabriel-knight-mystery.json) |
+| The Beasties: Hello World | 239096 | [239096-the-beasties-hello-world.json](./239096-the-beasties-hello-world.json) |
 | The Beastmaster Princess | 219546 | [219546-the-beastmaster-princess.json](./219546-the-beastmaster-princess.json) |
 | The Beasts of 9500 | 133193 | [133193-the-beasts-of-9500.json](./133193-the-beasts-of-9500.json) |
 | The Beat Strikes Back | 364691 | [364691-the-beat-strikes-back.json](./364691-the-beat-strikes-back.json) |
@@ -4368,6 +4373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bread Pub Brawlers | 86118 | [86118-the-bread-pub-brawlers.json](./86118-the-bread-pub-brawlers.json) |
 | the Breath. | 59242 | [59242-the-breath.json](./59242-the-breath.json) |
 | The Bricksperience | 184370 | [184370-the-bricksperience.json](./184370-the-bricksperience.json) |
+| The Bride Horror Game | 238950 | [238950-the-bride-horror-game.json](./238950-the-bride-horror-game.json) |
 | The Bride of Vampire | 271711 | [271711-the-bride-of-vampire.json](./271711-the-bride-of-vampire.json) |
 | The Bridge | 352753 | [352753-the-bridge.json](./352753-the-bridge.json) |
 | The Bridge | 8440 | [8440-the-bridge.json](./8440-the-bridge.json) |
@@ -8905,6 +8911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mushrooms' Happy New Year | 396193 | [396193-the-mushrooms-happy-new-year.json](./396193-the-mushrooms-happy-new-year.json) |
 | The Music Machine | 282793 | [282793-the-music-machine.json](./282793-the-music-machine.json) |
 | The Mutant Virus: "Crisis in a Computer World!" | 48196 | [48196-the-mutant-virus-crisis-in-a-computer-world.json](./48196-the-mutant-virus-crisis-in-a-computer-world.json) |
+| The Mute House | 239097 | [239097-the-mute-house.json](./239097-the-mute-house.json) |
 | The Mutineer | 139463 | [139463-the-mutineer.json](./139463-the-mutineer.json) |
 | The Mutton Horn: Jump Jump! | 105379 | [105379-the-mutton-horn-jump-jump.json](./105379-the-mutton-horn-jump-jump.json) |
 | The Myriad | 220694 | [220694-the-myriad.json](./220694-the-myriad.json) |
@@ -10606,6 +10613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Slaughter: Magdalene | 151272 | [151272-the-slaughter-magdalene.json](./151272-the-slaughter-magdalene.json) |
 | The Slaughtering Grounds | 13374 | [13374-the-slaughtering-grounds.json](./13374-the-slaughtering-grounds.json) |
 | The Slaverian Trucker | 185636 | [185636-the-slaverian-trucker.json](./185636-the-slaverian-trucker.json) |
+| The Slaying of Sandy Hook Elementary | 238966 | [238966-the-slaying-of-sandy-hook-elementary.json](./238966-the-slaying-of-sandy-hook-elementary.json) |
 | The Sledge of Rahmul and Merlin's Treasure | 69479 | [69479-the-sledge-of-rahmul-and-merlins-treasure.json](./69479-the-sledge-of-rahmul-and-merlins-treasure.json) |
 | The Slime Plague | 244203 | [244203-the-slime-plague.json](./244203-the-slime-plague.json) |
 | The Slime Sanctuary | 280894 | [280894-the-slime-sanctuary.json](./280894-the-slime-sanctuary.json) |
@@ -18912,6 +18920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel to USA | 337596 | [337596-travel-to-usa.json](./337596-travel-to-usa.json) |
 | Travel Trivia | 305901 | [305901-travel-trivia.json](./305901-travel-trivia.json) |
 | Travel With Dinosaurs | 351710 | [351710-travel-with-dinosaurs.json](./351710-travel-with-dinosaurs.json) |
+| Traveler | 238969 | [238969-traveler.json](./238969-traveler.json) |
 | Traveler Lost | 367031 | [367031-traveler-lost.json](./367031-traveler-lost.json) |
 | Traveler of Artcaster | 149508 | [149508-traveler-of-artcaster.json](./149508-traveler-of-artcaster.json) |
 | Traveler of Light | 366338 | [366338-traveler-of-light.json](./366338-traveler-of-light.json) |
@@ -19054,6 +19063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Tech | 140468 | [140468-treasure-tech.json](./140468-treasure-tech.json) |
 | Treasure Tomb VR | 153375 | [153375-treasure-tomb-vr.json](./153375-treasure-tomb-vr.json) |
 | Treasure Tombs: Ra Deal | 250487 | [250487-treasure-tombs-ra-deal.json](./250487-treasure-tombs-ra-deal.json) |
+| Treasure Train | 239095 | [239095-treasure-train.json](./239095-treasure-train.json) |
 | Treasure Trap | 70936 | [70936-treasure-trap.json](./70936-treasure-trap.json) |
 | Treasure Trove Through Time | 176282 | [176282-treasure-trove-through-time.json](./176282-treasure-trove-through-time.json) |
 | Treasure World | 21125 | [21125-treasure-world.json](./21125-treasure-world.json) |
@@ -20188,6 +20198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tug of War B | 354375 | [354375-tug-of-war-b.json](./354375-tug-of-war-b.json) |
 | Tug of Words | 198947 | [198947-tug-of-words.json](./198947-tug-of-words.json) |
 | Tug Team Tractor Multiplication | 312639 | [312639-tug-team-tractor-multiplication.json](./312639-tug-team-tractor-multiplication.json) |
+| Tuga Boy Adventures | 239094 | [239094-tuga-boy-adventures.json](./239094-tuga-boy-adventures.json) |
 | Tuggowar | 187225 | [187225-tuggowar.json](./187225-tuggowar.json) |
 | Tuggowar: Arsenal Management | 358260 | [358260-tuggowar-arsenal-management.json](./358260-tuggowar-arsenal-management.json) |
 | Tui Shou: Sokoban | 372023 | [372023-tui-shou-sokoban.json](./372023-tui-shou-sokoban.json) |
