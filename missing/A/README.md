@@ -5327,6 +5327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amoeboid | 233213 | [233213-amoeboid.json](./233213-amoeboid.json) |
 | Amogus TD | 183857 | [183857-amogus-td.json](./183857-amogus-td.json) |
 | Amogus TD 2: Defense of the Sus | 254757 | [254757-amogus-td-2-defense-of-the-sus.json](./254757-amogus-td-2-defense-of-the-sus.json) |
+| Amogus.io | 233966 | [233966-amogus-io.json](./233966-amogus-io.json) |
 | Amok | 33454 | [33454-amok.json](./33454-amok.json) |
 | Amok | 95404 | [95404-amok.json](./95404-amok.json) |
 | Amok! | 41531 | [41531-amok.json](./41531-amok.json) |
@@ -6920,6 +6921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apano Sin | 14259 | [14259-apano-sin.json](./14259-apano-sin.json) |
 | Apano Syn Fighter | 304571 | [304571-apano-syn-fighter.json](./304571-apano-syn-fighter.json) |
 | Apart | 415185 | [415185-apart.json](./415185-apart.json) |
+| Apart of Me | 233971 | [233971-apart-of-me.json](./233971-apart-of-me.json) |
 | Apartament 1406 | 249766 | [249766-apartament-1406.json](./249766-apartament-1406.json) |
 | Apartment 12 | 415477 | [415477-apartment-12.json](./415477-apartment-12.json) |
 | Apartment 213 | 97709 | [97709-apartment-213.json](./97709-apartment-213.json) |
@@ -7560,6 +7562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: MagMax | 99562 | [99562-arcade-archives-magmax.json](./99562-arcade-archives-magmax.json) |
 | Arcade Archives: Märchen Maze | 330745 | [330745-arcade-archives-marchen-maze.json](./330745-arcade-archives-marchen-maze.json) |
 | Arcade Archives: Markham | 147084 | [147084-arcade-archives-markham.json](./147084-arcade-archives-markham.json) |
+| Arcade Archives: Marvel Land | 233950 | [233950-arcade-archives-marvel-land.json](./233950-arcade-archives-marvel-land.json) |
 | Arcade Archives: Master of Weapon | 287109 | [287109-arcade-archives-master-of-weapon.json](./287109-arcade-archives-master-of-weapon.json) |
 | Arcade Archives: Mat Mania Exciting Hour | 99793 | [99793-arcade-archives-mat-mania-exciting-hour.json](./99793-arcade-archives-mat-mania-exciting-hour.json) |
 | Arcade Archives: Mazinger Z | 249490 | [249490-arcade-archives-mazinger-z.json](./249490-arcade-archives-mazinger-z.json) |
