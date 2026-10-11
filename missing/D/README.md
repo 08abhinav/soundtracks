@@ -7010,6 +7010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do or Die | 377199 | [377199-do-or-die.json](./377199-do-or-die.json) |
 | Do or Die: Frontal Warfare | 329166 | [329166-do-or-die-frontal-warfare.json](./329166-do-or-die-frontal-warfare.json) |
 | Do or Die: Hunt to Survive | 235975 | [235975-do-or-die-hunt-to-survive.json](./235975-do-or-die-hunt-to-survive.json) |
+| Do Robots Dream of Ice Cream? | 230175 | [230175-do-robots-dream-of-ice-cream.json](./230175-do-robots-dream-of-ice-cream.json) |
 | Do Something | 192752 | [192752-do-something.json](./192752-do-something.json) |
 | Do the Cat | 326267 | [326267-do-the-cat.json](./326267-do-the-cat.json) |
 | Do They Know | 399256 | [399256-do-they-know.json](./399256-do-they-know.json) |
@@ -7947,6 +7948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Jr. + Jr. Sansuu Lesson | 77964 | [77964-donkey-kong-jr-jr-sansuu-lesson.json](./77964-donkey-kong-jr-jr-sansuu-lesson.json) |
 | Donkey Kong Jr. Math | 5692 | [5692-donkey-kong-jr-math.json](./5692-donkey-kong-jr-math.json) |
 | Donkey Kong Jr.-e | 170008 | [170008-donkey-kong-jr-e.json](./170008-donkey-kong-jr-e.json) |
+| Donkey Kong Jungle Fever | 230167 | [230167-donkey-kong-jungle-fever.json](./230167-donkey-kong-jungle-fever.json) |
 | Donkey Kong Junior | 192910 | [192910-donkey-kong-junior.json](./192910-donkey-kong-junior.json) |
 | Donkey Kong Junior | 192911 | [192911-donkey-kong-junior.json](./192911-donkey-kong-junior.json) |
 | Donkey Kong Junior | 192912 | [192912-donkey-kong-junior.json](./192912-donkey-kong-junior.json) |
@@ -8344,6 +8346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora the Explorer: Lost and Found Adventure | 209124 | [209124-dora-the-explorer-lost-and-found-adventure.json](./209124-dora-the-explorer-lost-and-found-adventure.json) |
 | Dora the Explorer: Lost City Adventure | 79365 | [79365-dora-the-explorer-lost-city-adventure.json](./79365-dora-the-explorer-lost-city-adventure.json) |
 | Dora the Explorer: Nursery Rhyme Adventure | 221673 | [221673-dora-the-explorer-nursery-rhyme-adventure.json](./221673-dora-the-explorer-nursery-rhyme-adventure.json) |
+| Dora the Explorer: Piñata Party! | 230427 | [230427-dora-the-explorer-pinata-party.json](./230427-dora-the-explorer-pinata-party.json) |
 | Dora the Explorer: Super Star Adventures | 7974 | [7974-dora-the-explorer-super-star-adventures.json](./7974-dora-the-explorer-super-star-adventures.json) |
 | Dora the Explorer: Twins' Day | 275577 | [275577-dora-the-explorer-twins-day.json](./275577-dora-the-explorer-twins-day.json) |
 | Dora's Ballet Adventures | 209122 | [209122-doras-ballet-adventures.json](./209122-doras-ballet-adventures.json) |
@@ -8600,6 +8603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Trouble | 215928 | [215928-double-trouble.json](./215928-double-trouble.json) |
 | Double Trouble | 267470 | [267470-double-trouble.json](./267470-double-trouble.json) |
 | Double View | 250432 | [250432-double-view.json](./250432-double-view.json) |
+| Double Wires | 230435 | [230435-double-wires.json](./230435-double-wires.json) |
 | Double World. Cave Song Castle | 163836 | [163836-double-world-cave-song-castle.json](./163836-double-world-cave-song-castle.json) |
 | Double Zags | 175266 | [175266-double-zags.json](./175266-double-zags.json) |
 | Double-Dabble | 319108 | [319108-double-dabble.json](./319108-double-dabble.json) |
@@ -9940,6 +9944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Mirror | 164966 | [164966-dream-mirror.json](./164966-dream-mirror.json) |
 | Dream Mists | 293544 | [293544-dream-mists.json](./293544-dream-mists.json) |
 | Dream Mysteries: Case of the Red Fox | 294201 | [294201-dream-mysteries-case-of-the-red-fox.json](./294201-dream-mysteries-case-of-the-red-fox.json) |
+| Dream of a Sunflower | 230165 | [230165-dream-of-a-sunflower.json](./230165-dream-of-a-sunflower.json) |
 | Dream of Life | 229721 | [229721-dream-of-life.json](./229721-dream-of-life.json) |
 | Dream of Light | 215903 | [215903-dream-of-light.json](./215903-dream-of-light.json) |
 | Dream of Mirror Online | 36108 | [36108-dream-of-mirror-online.json](./36108-dream-of-mirror-online.json) |
