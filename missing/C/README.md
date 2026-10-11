@@ -2536,6 +2536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacombs Pack | 154420 | [154420-catacombs-pack.json](./154420-catacombs-pack.json) |
 | Catacombs: The Asper Case | 235854 | [235854-catacombs-the-asper-case.json](./235854-catacombs-the-asper-case.json) |
 | Cataegis : The White Wind | 35920 | [35920-cataegis-the-white-wind.json](./35920-cataegis-the-white-wind.json) |
+| Catagaia | 236871 | [236871-catagaia.json](./236871-catagaia.json) |
 | Catagrams | 333575 | [333575-catagrams.json](./333575-catagrams.json) |
 | Catal Carta | 416639 | [416639-catal-carta.json](./416639-catal-carta.json) |
 | Catale | 337289 | [337289-catale.json](./337289-catale.json) |
@@ -11647,6 +11648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Venture | 189194 | [189194-crystal-venture.json](./189194-crystal-venture.json) |
 | Crystal Vibes feat. Ott. | 34662 | [34662-crystal-vibes-feat-ott.json](./34662-crystal-vibes-feat-ott.json) |
 | Crystal Warriors | 11648 | [11648-crystal-warriors.json](./11648-crystal-warriors.json) |
+| Crystal Winter | 236742 | [236742-crystal-winter.json](./236742-crystal-winter.json) |
 | Crystal Wish: Bits Collection | 306502 | [306502-crystal-wish-bits-collection.json](./306502-crystal-wish-bits-collection.json) |
 | Crystal Wish: Candy Chase | 264888 | [264888-crystal-wish-candy-chase.json](./264888-crystal-wish-candy-chase.json) |
 | Crystal: Automaton | 333181 | [333181-crystal-automaton.json](./333181-crystal-automaton.json) |
