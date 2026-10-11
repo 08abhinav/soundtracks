@@ -968,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Airplane Flying Game | 414452 | [414452-paper-airplane-flying-game.json](./414452-paper-airplane-flying-game.json) |
 | Paper Angel | 247522 | [247522-paper-angel.json](./247522-paper-angel.json) |
 | Paper Animal Adventure | 204515 | [204515-paper-animal-adventure.json](./204515-paper-animal-adventure.json) |
+| Paper Attack | 227738 | [227738-paper-attack.json](./227738-paper-attack.json) |
 | Paper Beast | 117293 | [117293-paper-beast.json](./117293-paper-beast.json) |
 | Paper Beast: Enhanced Edition | 268370 | [268370-paper-beast-enhanced-edition.json](./268370-paper-beast-enhanced-edition.json) |
 | Paper Beast: Folded Edition | 140295 | [140295-paper-beast-folded-edition.json](./140295-paper-beast-folded-edition.json) |
@@ -3900,6 +3901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross Floof | 116104 | [116104-picross-floof.json](./116104-picross-floof.json) |
 | Picross for a Cause | 139253 | [139253-picross-for-a-cause.json](./139253-picross-for-a-cause.json) |
 | Picross Hansel and Gretel - Nonograms | 116233 | [116233-picross-hansel-and-gretel-nonograms.json](./116233-picross-hansel-and-gretel-nonograms.json) |
+| Picross Love | 228000 | [228000-picross-love.json](./228000-picross-love.json) |
 | Picross NP Vol. 1 | 76894 | [76894-picross-np-vol-1.json](./76894-picross-np-vol-1.json) |
 | Picross NP Vol. 2 | 148421 | [148421-picross-np-vol-2.json](./148421-picross-np-vol-2.json) |
 | Picross NP Vol. 3 | 148428 | [148428-picross-np-vol-3.json](./148428-picross-np-vol-3.json) |
@@ -8719,6 +8721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PraeBot | 115168 | [115168-praebot.json](./115168-praebot.json) |
 | Praetorians HD Remaster | 119382 | [119382-praetorians-hd-remaster.json](./119382-praetorians-hd-remaster.json) |
 | Praey for the Gods | 14378 | [14378-praey-for-the-gods.json](./14378-praey-for-the-gods.json) |
+| Pragma Arbiter | 227990 | [227990-pragma-arbiter.json](./227990-pragma-arbiter.json) |
 | Pragma Twice | 347714 | [347714-pragma-twice.json](./347714-pragma-twice.json) |
 | Pragmata: Deluxe Edition | 385206 | [385206-pragmata-deluxe-edition.json](./385206-pragmata-deluxe-edition.json) |
 | Pragmata: Shelter Variety Pack | 385179 | [385179-pragmata-shelter-variety-pack.json](./385179-pragmata-shelter-variety-pack.json) |
