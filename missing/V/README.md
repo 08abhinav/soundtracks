@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Adventures: Park Ranger 11 | 147421 | [147421-vacation-adventures-park-ranger-11.json](./147421-vacation-adventures-park-ranger-11.json) |
 | Vacation Adventures: Park Ranger 12 | 193218 | [193218-vacation-adventures-park-ranger-12.json](./193218-vacation-adventures-park-ranger-12.json) |
 | Vacation Adventures: Park Ranger 14 | 216854 | [216854-vacation-adventures-park-ranger-14.json](./216854-vacation-adventures-park-ranger-14.json) |
+| Vacation Adventures: Park Ranger 14 - Collector's Edition | 231837 | [231837-vacation-adventures-park-ranger-14-collectors-edition.json](./231837-vacation-adventures-park-ranger-14-collectors-edition.json) |
 | Vacation Adventures: Park Ranger 16 - Collectors Edition | 311108 | [311108-vacation-adventures-park-ranger-16-collectors-edition.json](./311108-vacation-adventures-park-ranger-16-collectors-edition.json) |
 | Vacation Adventures: Park Ranger 17 | 381372 | [381372-vacation-adventures-park-ranger-17.json](./381372-vacation-adventures-park-ranger-17.json) |
 | Vacation Adventures: Park Ranger 18 - Collectors Edition | 416779 | [416779-vacation-adventures-park-ranger-18-collectors-edition.json](./416779-vacation-adventures-park-ranger-18-collectors-edition.json) |
@@ -1279,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Chess | 18004 | [18004-video-chess.json](./18004-video-chess.json) |
 | Video Cube: Space | 130754 | [130754-video-cube-space.json](./130754-video-cube-space.json) |
 | Video Editor Tycoon | 157468 | [157468-video-editor-tycoon.json](./157468-video-editor-tycoon.json) |
+| Video Ezy: In the Movies - Interactive DVD Trivia Game | 231832 | [231832-video-ezy-in-the-movies-interactive-dvd-trivia-game.json](./231832-video-ezy-in-the-movies-interactive-dvd-trivia-game.json) |
 | Video Game Feminization Hypnosis | 146905 | [146905-video-game-feminization-hypnosis.json](./146905-video-game-feminization-hypnosis.json) |
 | Video Game Grid | 333195 | [333195-video-game-grid.json](./333195-video-game-grid.json) |
 | Video Game Menu: The Game | 399846 | [399846-video-game-menu-the-game.json](./399846-video-game-menu-the-game.json) |
@@ -2565,6 +2567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR: The Puzzle Room | 29909 | [29909-vr-the-puzzle-room.json](./29909-vr-the-puzzle-room.json) |
 | VR: Vacate the Room | 32281 | [32281-vr-vacate-the-room.json](./32281-vr-vacate-the-room.json) |
 | VR0GU3 | 33151 | [33151-vr0gu3.json](./33151-vr0gu3.json) |
+| Vradark's Revenge | 231823 | [231823-vradarks-revenge.json](./231823-vradarks-revenge.json) |
 | VRAdventure | 124156 | [124156-vradventure.json](./124156-vradventure.json) |
 | Vranygrai | 235766 | [235766-vranygrai.json](./235766-vranygrai.json) |
 | VRC Pro: Deluxe Americas On-Road Tracks | 161763 | [161763-vrc-pro-deluxe-americas-on-road-tracks.json](./161763-vrc-pro-deluxe-americas-on-road-tracks.json) |
