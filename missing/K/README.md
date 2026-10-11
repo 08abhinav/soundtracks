@@ -3223,6 +3223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kombate Mexicano Elexiones | 261555 | [261555-kombate-mexicano-elexiones.json](./261555-kombate-mexicano-elexiones.json) |
 | Kombi | 340888 | [340888-kombi.json](./340888-kombi.json) |
 | Kombinera | 194249 | [194249-kombinera.json](./194249-kombinera.json) |
+| Kombo | 232889 | [232889-kombo.json](./232889-kombo.json) |
 | Kombo King | 188993 | [188993-kombo-king.json](./188993-kombo-king.json) |
 | Komeiji Satori no Jousou Kyouiku | 187240 | [187240-komeiji-satori-no-jousou-kyouiku.json](./187240-komeiji-satori-no-jousou-kyouiku.json) |
 | Kommersant | 180295 | [180295-kommersant.json](./180295-kommersant.json) |
