@@ -4210,6 +4210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golod | 406677 | [406677-golod.json](./406677-golod.json) |
 | Golvellius: Valley of Doom | 46146 | [46146-golvellius-valley-of-doom.json](./46146-golvellius-valley-of-doom.json) |
 | Golyathe | 393507 | [393507-golyathe.json](./393507-golyathe.json) |
+| Goma Ayakaze | 236741 | [236741-goma-ayakaze.json](./236741-goma-ayakaze.json) |
 | Goman: Stuck in the Avici Hell | 214184 | [214184-goman-stuck-in-the-avici-hell.json](./214184-goman-stuck-in-the-avici-hell.json) |
 | Gombo | 277616 | [277616-gombo.json](./277616-gombo.json) |
 | Gomenne Angel: Yokohama Monogatari | 271463 | [271463-gomenne-angel-yokohama-monogatari.json](./271463-gomenne-angel-yokohama-monogatari.json) |
