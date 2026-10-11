@@ -2599,6 +2599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Pairs | 239109 | [239109-penguin-pairs.json](./239109-penguin-pairs.json) |
 | Penguin Panic | 162838 | [162838-penguin-panic.json](./162838-penguin-panic.json) |
 | Penguin Panic! | 311564 | [311564-penguin-panic.json](./311564-penguin-panic.json) |
+| Penguin Paradise | 231808 | [231808-penguin-paradise.json](./231808-penguin-paradise.json) |
 | Penguin Plop | 406636 | [406636-penguin-plop.json](./406636-penguin-plop.json) |
 | Penguin Push | 146894 | [146894-penguin-push.json](./146894-penguin-push.json) |
 | Penguin Puzzle | 208883 | [208883-penguin-puzzle.json](./208883-penguin-puzzle.json) |
