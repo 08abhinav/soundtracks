@@ -154,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oblivion | 77199 | [77199-oblivion.json](./77199-oblivion.json) |
 | Oblivion Congee | 183579 | [183579-oblivion-congee.json](./183579-oblivion-congee.json) |
 | Oblivion Dreams | 375412 | [375412-oblivion-dreams.json](./375412-oblivion-dreams.json) |
+| Oblivion Eagle | 231795 | [231795-oblivion-eagle.json](./231795-oblivion-eagle.json) |
 | Oblivion Maiden | 407419 | [407419-oblivion-maiden.json](./407419-oblivion-maiden.json) |
 | Oblivion Tesseract VR | 29708 | [29708-oblivion-tesseract-vr.json](./29708-oblivion-tesseract-vr.json) |
 | Oblivious Garden: Carmina Burana - Oblivious Garden: White Day | 171914 | [171914-oblivious-garden-carmina-burana-oblivious-garden-white-day.json](./171914-oblivious-garden-carmina-burana-oblivious-garden-white-day.json) |
