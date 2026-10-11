@@ -1384,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Lords | 251203 | [251203-card-lords.json](./251203-card-lords.json) |
 | Card Master | 284294 | [284294-card-master.json](./284294-card-master.json) |
 | Card Miner | 295650 | [295650-card-miner.json](./295650-card-miner.json) |
+| Card Nova Hyper | 236193 | [236193-card-nova-hyper.json](./236193-card-nova-hyper.json) |
 | Card Party | 49520 | [49520-card-party.json](./49520-card-party.json) |
 | Card Princess | 335330 | [335330-card-princess.json](./335330-card-princess.json) |
 | Card Quest | 301976 | [301976-card-quest.json](./301976-card-quest.json) |
@@ -3615,6 +3616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos League: Sudden Death | 70068 | [70068-chaos-league-sudden-death.json](./70068-chaos-league-sudden-death.json) |
 | Chaos Legion | 2917 | [2917-chaos-legion.json](./2917-chaos-legion.json) |
 | Chaos Machina | 331323 | [331323-chaos-machina.json](./331323-chaos-machina.json) |
+| Chaos Magic: Towers and Wizards | 236199 | [236199-chaos-magic-towers-and-wizards.json](./236199-chaos-magic-towers-and-wizards.json) |
 | Chaos Maker | 113033 | [113033-chaos-maker.json](./113033-chaos-maker.json) |
 | Chaos Metaverse | 267658 | [267658-chaos-metaverse.json](./267658-chaos-metaverse.json) |
 | Chaos of East | 101353 | [101353-chaos-of-east.json](./101353-chaos-of-east.json) |
@@ -5986,6 +5988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clasherball | 306514 | [306514-clasherball.json](./306514-clasherball.json) |
 | ClashofHunter | 130794 | [130794-clashofhunter.json](./130794-clashofhunter.json) |
 | Class 3, Third Grade | 330792 | [330792-class-3-third-grade.json](./330792-class-3-third-grade.json) |
+| Class B-Horror: Subway | 236308 | [236308-class-b-horror-subway.json](./236308-class-b-horror-subway.json) |
 | Class of '09 | 152962 | [152962-class-of-09.json](./152962-class-of-09.json) |
 | Class of '09: Puzzle Showdown | 406251 | [406251-class-of-09-puzzle-showdown.json](./406251-class-of-09-puzzle-showdown.json) |
 | Class of Heroes 2 | 20999 | [20999-class-of-heroes-2.json](./20999-class-of-heroes-2.json) |
@@ -8385,6 +8388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquering the Queen | 127965 | [127965-conquering-the-queen.json](./127965-conquering-the-queen.json) |
 | Conquering Worlds | 59903 | [59903-conquering-worlds.json](./59903-conquering-worlds.json) |
 | Conqueror 940 AD | 144985 | [144985-conqueror-940-ad.json](./144985-conqueror-940-ad.json) |
+| Conqueror of the Seas | 236162 | [236162-conqueror-of-the-seas.json](./236162-conqueror-of-the-seas.json) |
 | Conqueror's Blade: Battle Pass - Dragonrise | 297098 | [297098-conquerors-blade-battle-pass-dragonrise.json](./297098-conquerors-blade-battle-pass-dragonrise.json) |
 | Conqueror's Blade: Colosseum | 217526 | [217526-conquerors-blade-colosseum.json](./217526-conquerors-blade-colosseum.json) |
 | Conqueror's Blade: Helheim | 217525 | [217525-conquerors-blade-helheim.json](./217525-conquerors-blade-helheim.json) |
@@ -9912,6 +9916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crafter | 326042 | [326042-crafter.json](./326042-crafter.json) |
 | Crafter Game - Incremental Puzzle RPG Game | 25737 | [25737-crafter-game-incremental-puzzle-rpg-game.json](./25737-crafter-game-incremental-puzzle-rpg-game.json) |
 | Crafters Heaven | 349826 | [349826-crafters-heaven.json](./349826-crafters-heaven.json) |
+| Craftia's Defender | 236191 | [236191-craftias-defender.json](./236191-craftias-defender.json) |
 | Craftimals: Build to the Sun | 65250 | [65250-craftimals-build-to-the-sun.json](./65250-craftimals-build-to-the-sun.json) |
 | Crafting and Building: Exploration Craft | 99108 | [99108-crafting-and-building-exploration-craft.json](./99108-crafting-and-building-exploration-craft.json) |
 | Crafting Combat | 272270 | [272270-crafting-combat.json](./272270-crafting-combat.json) |
@@ -12360,6 +12365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custodial | 179742 | [179742-custodial.json](./179742-custodial.json) |
 | Custodian: Beginning of the End | 154069 | [154069-custodian-beginning-of-the-end.json](./154069-custodian-beginning-of-the-end.json) |
 | Custom Beat Battle: Draglade 2 | 66783 | [66783-custom-beat-battle-draglade-2.json](./66783-custom-beat-battle-draglade-2.json) |
+| Custom Goban | 236181 | [236181-custom-goban.json](./236181-custom-goban.json) |
 | Custom Maid 3D | 191694 | [191694-custom-maid-3d.json](./191694-custom-maid-3d.json) |
 | Custom Maid 3D 2 | 26563 | [26563-custom-maid-3d-2.json](./26563-custom-maid-3d-2.json) |
 | Custom Mario Maker | 294782 | [294782-custom-mario-maker.json](./294782-custom-mario-maker.json) |
