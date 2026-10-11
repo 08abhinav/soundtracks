@@ -2653,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origens: Story Mode Remastered | 318159 | [318159-origens-story-mode-remastered.json](./318159-origens-story-mode-remastered.json) |
 | Origin | 126648 | [126648-origin.json](./126648-origin.json) |
 | Origin | 230895 | [230895-origin.json](./230895-origin.json) |
+| Origin | 232470 | [232470-origin.json](./232470-origin.json) |
 | Origin Hunt | 180772 | [180772-origin-hunt.json](./180772-origin-hunt.json) |
 | Origin of Decay | 112498 | [112498-origin-of-decay.json](./112498-origin-of-decay.json) |
 | Origin of Destiny: Crimson Awakening | 33351 | [33351-origin-of-destiny-crimson-awakening.json](./33351-origin-of-destiny-crimson-awakening.json) |
