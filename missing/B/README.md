@@ -1939,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basement VR | 156579 | [156579-basement-vr.json](./156579-basement-vr.json) |
 | Basemental Gangs | 259230 | [259230-basemental-gangs.json](./259230-basemental-gangs.json) |
 | Basements & Bugbears | 177888 | [177888-basements-and-bugbears.json](./177888-basements-and-bugbears.json) |
+| Basements n' Basilisks: Storms of Sorcery | 234664 | [234664-basements-n-basilisks-storms-of-sorcery.json](./234664-basements-n-basilisks-storms-of-sorcery.json) |
 | Bases and Bandits | 215145 | [215145-bases-and-bandits.json](./215145-bases-and-bandits.json) |
 | Bases Loaded | 242041 | [242041-bases-loaded.json](./242041-bases-loaded.json) |
 | Bases Loaded | 7764 | [7764-bases-loaded.json](./7764-bases-loaded.json) |
@@ -3727,6 +3728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeetleQuest 2023 | 271289 | [271289-beetlequest-2023.json](./271289-beetlequest-2023.json) |
 | BeetleQuest: The Puzzle Game | 358449 | [358449-beetlequest-the-puzzle-game.json](./358449-beetlequest-the-puzzle-game.json) |
 | Beetles | 163819 | [163819-beetles.json](./163819-beetles.json) |
+| Beezaster | 234501 | [234501-beezaster.json](./234501-beezaster.json) |
 | Beezer | 23569 | [23569-beezer.json](./23569-beezer.json) |
 | Beezooka | 303825 | [303825-beezooka.json](./303825-beezooka.json) |
 | Befabled | 183477 | [183477-befabled.json](./183477-befabled.json) |
@@ -5937,6 +5939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Master | 414470 | [414470-blade-master.json](./414470-blade-master.json) |
 | Blade Mistress | 57888 | [57888-blade-mistress.json](./57888-blade-mistress.json) |
 | Blade of Chaos: Immortal Titan | 224093 | [224093-blade-of-chaos-immortal-titan.json](./224093-blade-of-chaos-immortal-titan.json) |
+| Blade of Darkness | 234658 | [234658-blade-of-darkness.json](./234658-blade-of-darkness.json) |
 | Blade of Dawn | 322361 | [322361-blade-of-dawn.json](./322361-blade-of-dawn.json) |
 | Blade of Following | 181778 | [181778-blade-of-following.json](./181778-blade-of-following.json) |
 | Blade of God | 199905 | [199905-blade-of-god.json](./199905-blade-of-god.json) |
@@ -9646,6 +9649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick by Brick | 418290 | [418290-brick-by-brick.json](./418290-brick-by-brick.json) |
 | Brick City | 214526 | [214526-brick-city.json](./214526-brick-city.json) |
 | Brick City Solitaire | 95674 | [95674-brick-city-solitaire.json](./95674-brick-city-solitaire.json) |
+| Brick Clear Storm | 234510 | [234510-brick-clear-storm.json](./234510-brick-clear-storm.json) |
 | Brick Cracker 3D | 191029 | [191029-brick-cracker-3d.json](./191029-brick-cracker-3d.json) |
 | Brick Crossy Road | 241613 | [241613-brick-crossy-road.json](./241613-brick-crossy-road.json) |
 | Brick Dungeon | 256457 | [256457-brick-dungeon.json](./256457-brick-dungeon.json) |
