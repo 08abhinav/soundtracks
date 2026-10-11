@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can You Get Over It | 101379 | [101379-can-you-get-over-it.json](./101379-can-you-get-over-it.json) |
 | Can You Hear the Echo? | 181731 | [181731-can-you-hear-the-echo.json](./181731-can-you-hear-the-echo.json) |
 | Can You Make It Man | 284579 | [284579-can-you-make-it-man.json](./284579-can-you-make-it-man.json) |
+| Can You Make It? | 230744 | [230744-can-you-make-it.json](./230744-can-you-make-it.json) |
 | Can You Reach 60 Seconds | 339940 | [339940-can-you-reach-60-seconds.json](./339940-can-you-reach-60-seconds.json) |
 | Can You Save the World? | 182902 | [182902-can-you-save-the-world.json](./182902-can-you-save-the-world.json) |
 | Can You See What I See?: Curfuffles Collectibles | 51399 | [51399-can-you-see-what-i-see-curfuffles-collectibles.json](./51399-can-you-see-what-i-see-curfuffles-collectibles.json) |
@@ -4113,6 +4114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Grandmaster Royal Bundle | 283189 | [283189-chess-grandmaster-royal-bundle.json](./283189-chess-grandmaster-royal-bundle.json) |
 | Chess in the Park | 254438 | [254438-chess-in-the-park.json](./254438-chess-in-the-park.json) |
 | Chess Infinity | 324987 | [324987-chess-infinity.json](./324987-chess-infinity.json) |
+| Chess is Stupid! | 230735 | [230735-chess-is-stupid.json](./230735-chess-is-stupid.json) |
 | Chess Kids | 72303 | [72303-chess-kids.json](./72303-chess-kids.json) |
 | Chess Knights: Eldritch Hunter | 160166 | [160166-chess-knights-eldritch-hunter.json](./160166-chess-knights-eldritch-hunter.json) |
 | Chess Knights: Shinobi | 148133 | [148133-chess-knights-shinobi.json](./148133-chess-knights-shinobi.json) |
@@ -9350,6 +9352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Star Heroine | 27667 | [27667-cosmic-star-heroine.json](./27667-cosmic-star-heroine.json) |
 | Cosmic Star Lounge | 362412 | [362412-cosmic-star-lounge.json](./362412-cosmic-star-lounge.json) |
 | Cosmic Storm | 80623 | [80623-cosmic-storm.json](./80623-cosmic-storm.json) |
+| Cosmic Strike | 230740 | [230740-cosmic-strike.json](./230740-cosmic-strike.json) |
 | Cosmic Strike: The Last Sub Sector | 205667 | [205667-cosmic-strike-the-last-sub-sector.json](./205667-cosmic-strike-the-last-sub-sector.json) |
 | Cosmic Sugar VR | 30428 | [30428-cosmic-sugar-vr.json](./30428-cosmic-sugar-vr.json) |
 | Cosmic Survivor | 261980 | [261980-cosmic-survivor.json](./261980-cosmic-survivor.json) |
@@ -10005,6 +10008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crankies Workshop: Lerpbot Assembly | 180030 | [180030-crankies-workshop-lerpbot-assembly.json](./180030-crankies-workshop-lerpbot-assembly.json) |
 | Crankies Workshop: Whirlbot Assembly | 180052 | [180052-crankies-workshop-whirlbot-assembly.json](./180052-crankies-workshop-whirlbot-assembly.json) |
 | Crankies Workshop: Whirlbot Assembly 2 | 68897 | [68897-crankies-workshop-whirlbot-assembly-2.json](./68897-crankies-workshop-whirlbot-assembly-2.json) |
+| Crankin Car | 230745 | [230745-crankin-car.json](./230745-crankin-car.json) |
 | Cranknstein II | 214015 | [214015-cranknstein-ii.json](./214015-cranknstein-ii.json) |
 | Crankoids | 347141 | [347141-crankoids.json](./347141-crankoids.json) |
 | Cranks & Goggles | 56297 | [56297-cranks-and-goggles.json](./56297-cranks-and-goggles.json) |
@@ -10018,6 +10022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cranky Counter (Don't Play This Game!) | 281342 | [281342-cranky-counter-dont-play-this-game.json](./281342-cranky-counter-dont-play-this-game.json) |
 | Cranky Crabs | 397422 | [397422-cranky-crabs.json](./397422-cranky-crabs.json) |
 | Cranky Food Friends | 230209 | [230209-cranky-food-friends.json](./230209-cranky-food-friends.json) |
+| Cranky Frog | 230738 | [230738-cranky-frog.json](./230738-cranky-frog.json) |
 | Cranky Jump | 418591 | [418591-cranky-jump.json](./418591-cranky-jump.json) |
 | CrankyCube | 387708 | [387708-crankycube.json](./387708-crankycube.json) |
 | Cranner | 212301 | [212301-cranner.json](./212301-cranner.json) |
@@ -11289,6 +11294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown of the Empire: Timeloop | 417714 | [417714-crown-of-the-empire-timeloop.json](./417714-crown-of-the-empire-timeloop.json) |
 | Crown of the Empire: Timeloop - Collector's Edition | 356113 | [356113-crown-of-the-empire-timeloop-collectors-edition.json](./356113-crown-of-the-empire-timeloop-collectors-edition.json) |
 | Crown of Thorns | 235359 | [235359-crown-of-thorns.json](./235359-crown-of-thorns.json) |
+| Crown of Zephyr | 230727 | [230727-crown-of-zephyr.json](./230727-crown-of-zephyr.json) |
 | Crown Siege | 386943 | [386943-crown-siege.json](./386943-crown-siege.json) |
 | Crown Solitaire: Card Game | 96714 | [96714-crown-solitaire-card-game.json](./96714-crown-solitaire-card-game.json) |
 | Crown Trick | 113689 | [113689-crown-trick.json](./113689-crown-trick.json) |
