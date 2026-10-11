@@ -8044,6 +8044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonhomme 7 Heures | 151617 | [151617-bonhomme-7-heures.json](./151617-bonhomme-7-heures.json) |
 | Bonito Days | 175817 | [175817-bonito-days.json](./175817-bonito-days.json) |
 | Bonjin: An Ordinary Man | 349869 | [349869-bonjin-an-ordinary-man.json](./349869-bonjin-an-ordinary-man.json) |
+| Bonk | 230865 | [230865-bonk.json](./230865-bonk.json) |
 | Bonk 'N Bash | 379122 | [379122-bonk-n-bash.json](./379122-bonk-n-bash.json) |
 | Bonk Voyage | 415112 | [415112-bonk-voyage.json](./415112-bonk-voyage.json) |
 | Bonk! | 328554 | [328554-bonk.json](./328554-bonk.json) |
