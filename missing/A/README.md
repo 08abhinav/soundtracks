@@ -2497,6 +2497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Inc: Revival | 344549 | [344549-after-inc-revival.json](./344549-after-inc-revival.json) |
 | After Inc. | 323935 | [323935-after-inc.json](./323935-after-inc.json) |
 | After Juice: Animal Disco Mafia | 346636 | [346636-after-juice-animal-disco-mafia.json](./346636-after-juice-animal-disco-mafia.json) |
+| After L!fe: The Sacred Kaleidoscope | 233023 | [233023-after-l-fe-the-sacred-kaleidoscope.json](./233023-after-l-fe-the-sacred-kaleidoscope.json) |
 | After Lights Out | 346733 | [346733-after-lights-out.json](./346733-after-lights-out.json) |
 | After Mankind: TD | 367545 | [367545-after-mankind-td.json](./367545-after-mankind-td.json) |
 | After Midnight | 376845 | [376845-after-midnight.json](./376845-after-midnight.json) |
