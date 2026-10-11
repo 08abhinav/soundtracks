@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UfoPilot: The Phadt Menace - Steam Edition | 162707 | [162707-ufopilot-the-phadt-menace-steam-edition.json](./162707-ufopilot-the-phadt-menace-steam-edition.json) |
 | UFOre: Space Idle | 389694 | [389694-ufore-space-idle.json](./389694-ufore-space-idle.json) |
 | UFOs Love Cows | 60513 | [60513-ufos-love-cows.json](./60513-ufos-love-cows.json) |
+| UfoScare | 236861 | [236861-ufoscare.json](./236861-ufoscare.json) |
 | Ufouria: The Saga 2 | 274086 | [274086-ufouria-the-saga-2.json](./274086-ufouria-the-saga-2.json) |
 | UFS League | 207883 | [207883-ufs-league.json](./207883-ufs-league.json) |
 | UG | 370848 | [370848-ug.json](./370848-ug.json) |
@@ -1845,6 +1846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsolved Case | 216491 | [216491-unsolved-case.json](./216491-unsolved-case.json) |
 | Unsolved Case: Ash and Secrets | 340997 | [340997-unsolved-case-ash-and-secrets.json](./340997-unsolved-case-ash-and-secrets.json) |
 | Unsolved Case: Ash and Secrets - Collector's Edition | 338584 | [338584-unsolved-case-ash-and-secrets-collectors-edition.json](./338584-unsolved-case-ash-and-secrets-collectors-edition.json) |
+| Unsolved Case: Fatal Clue | 236721 | [236721-unsolved-case-fatal-clue.json](./236721-unsolved-case-fatal-clue.json) |
 | Unsolved Case: Fatal Clue - Collector's Edition | 235801 | [235801-unsolved-case-fatal-clue-collectors-edition.json](./235801-unsolved-case-fatal-clue-collectors-edition.json) |
 | Unsolved Case: Killer Popularity DLC | 289325 | [289325-unsolved-case-killer-popularity-dlc.json](./289325-unsolved-case-killer-popularity-dlc.json) |
 | Unsolved Case: Murderous Script - DLC | 243054 | [243054-unsolved-case-murderous-script-dlc.json](./243054-unsolved-case-murderous-script-dlc.json) |
