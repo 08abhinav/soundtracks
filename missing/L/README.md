@@ -1350,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Enthusiastic Losers | 157216 | [157216-league-of-enthusiastic-losers.json](./157216-league-of-enthusiastic-losers.json) |
 | League of Enthusiastic Losers: Definitive Edition | 246645 | [246645-league-of-enthusiastic-losers-definitive-edition.json](./246645-league-of-enthusiastic-losers-definitive-edition.json) |
 | League of Enthusiastic Losers: Premium Edition | 241397 | [241397-league-of-enthusiastic-losers-premium-edition.json](./241397-league-of-enthusiastic-losers-premium-edition.json) |
+| League of Enthusiastic Losers: Ultimate Edition | 231263 | [231263-league-of-enthusiastic-losers-ultimate-edition.json](./231263-league-of-enthusiastic-losers-ultimate-edition.json) |
 | League of Evil | 32856 | [32856-league-of-evil.json](./32856-league-of-evil.json) |
 | League of Evil 3 | 41508 | [41508-league-of-evil-3.json](./41508-league-of-evil-3.json) |
 | League of Felt Tanks | 173038 | [173038-league-of-felt-tanks.json](./173038-league-of-felt-tanks.json) |
@@ -3774,6 +3775,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Knight | 341170 | [341170-little-knight.json](./341170-little-knight.json) |
 | Little Knight 2: Old Dreams | 341171 | [341171-little-knight-2-old-dreams.json](./341171-little-knight-2-old-dreams.json) |
 | Little Kong: Jungle Fun | 219285 | [219285-little-kong-jungle-fun.json](./219285-little-kong-jungle-fun.json) |
+| Little Kong: Jungle Fun - Extended Edition | 231264 | [231264-little-kong-jungle-fun-extended-edition.json](./231264-little-kong-jungle-fun-extended-edition.json) |
+| Little Kong: Jungle Fun - Ultimate Edition | 231265 | [231265-little-kong-jungle-fun-ultimate-edition.json](./231265-little-kong-jungle-fun-ultimate-edition.json) |
 | Little Lamb | 262429 | [262429-little-lamb.json](./262429-little-lamb.json) |
 | Little Lands | 177932 | [177932-little-lands.json](./177932-little-lands.json) |
 | Little Laps | 349326 | [349326-little-laps.json](./349326-little-laps.json) |
@@ -3819,6 +3822,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Mouse's Encyclopedia + Under Leaves | 188099 | [188099-little-mouses-encyclopedia-under-leaves.json](./188099-little-mouses-encyclopedia-under-leaves.json) |
 | Little Mouse's Encyclopedia: Complete Edition | 241398 | [241398-little-mouses-encyclopedia-complete-edition.json](./241398-little-mouses-encyclopedia-complete-edition.json) |
 | Little Mouse's Encyclopedia: Definitive Edition | 251510 | [251510-little-mouses-encyclopedia-definitive-edition.json](./251510-little-mouses-encyclopedia-definitive-edition.json) |
+| Little Mouse's Encyclopedia: Extended Edition | 231266 | [231266-little-mouses-encyclopedia-extended-edition.json](./231266-little-mouses-encyclopedia-extended-edition.json) |
+| Little Mouse's Encyclopedia: Special Edition | 231267 | [231267-little-mouses-encyclopedia-special-edition.json](./231267-little-mouses-encyclopedia-special-edition.json) |
+| Little Mouse's Encyclopedia: Ultimate Edition | 231268 | [231268-little-mouses-encyclopedia-ultimate-edition.json](./231268-little-mouses-encyclopedia-ultimate-edition.json) |
 | Little My Maid | 70480 | [70480-little-my-maid.json](./70480-little-my-maid.json) |
 | Little Nemo and the Guardians of Slumberland | 204380 | [204380-little-nemo-and-the-guardians-of-slumberland.json](./204380-little-nemo-and-the-guardians-of-slumberland.json) |
 | Little Nemo and the Nightmare Fiends | 208309 | [208309-little-nemo-and-the-nightmare-fiends.json](./208309-little-nemo-and-the-nightmare-fiends.json) |
