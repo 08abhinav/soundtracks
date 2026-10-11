@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T19:50:40.539Z",
-  "total_soundtracks": 1464,
+  "generated_at": "2026-10-11T19:50:51.859Z",
+  "total_soundtracks": 1465,
   "games": [
     {
       "igdb_id": 7522,
@@ -13415,6 +13415,20 @@
           "spotify_url": "https://music.apple.com/us/album/street-fighter-v-arcade-edition-original-soundtrack/1341577409?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1341577409"
+        }
+      ]
+    },
+    {
+      "igdb_id": 107262,
+      "game_name": "Streets of Rage 4",
+      "game_url": "https://ostdb.net/games/streets-of-rage-4",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/42/44/7a/42447a16-0426-dafd-b9b7-22cac39eb4cc/3663729117915_cover.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Streets of Rage 4 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4laHtQi53rP6MreFXoUbJ8",
+          "apple_music_url": "https://music.apple.com/us/album/streets-of-rage-4-original-game-soundtrack/1508391417",
+          "album_link_url": "https://album.link/i/1508391417"
         }
       ]
     },
