@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T20:10:13.927Z",
-  "total_soundtracks": 1473,
+  "generated_at": "2026-10-11T20:10:27.090Z",
+  "total_soundtracks": 1474,
   "games": [
     {
       "igdb_id": 7522,
@@ -9877,6 +9877,20 @@
           "spotify_url": "https://open.spotify.com/album/0potNj20jhgGKt7y2pbSbA",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 119161,
+      "game_name": "Need for Speed: Heat",
+      "game_url": "https://ostdb.net/games/need-for-speed-heat",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d6/bc/b5/d6bcb5ab-b15c-e4c0-e746-3d21a1ab742c/780163555325.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Need for Speed: Heat (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4BLSwQ85MrJ8N369EvbURI",
+          "apple_music_url": "https://music.apple.com/us/album/need-for-speed-heat-original-soundtrack/1485026924",
+          "album_link_url": "https://album.link/i/1485026924"
         }
       ]
     },
