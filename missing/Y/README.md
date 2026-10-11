@@ -467,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yog-Sothoth's Yard | 250278 | [250278-yog-sothoths-yard.json](./250278-yog-sothoths-yard.json) |
 | Yoga Bear | 177895 | [177895-yoga-bear.json](./177895-yoga-bear.json) |
 | Yoga Master | 84958 | [84958-yoga-master.json](./84958-yoga-master.json) |
+| Yoga Master: Deluxe Edition | 237849 | [237849-yoga-master-deluxe-edition.json](./237849-yoga-master-deluxe-edition.json) |
 | Yoga Master: Dreams Fantasy Bundle | 237911 | [237911-yoga-master-dreams-fantasy-bundle.json](./237911-yoga-master-dreams-fantasy-bundle.json) |
 | Yoga Master: Magic Atmosphere Bundle | 237910 | [237910-yoga-master-magic-atmosphere-bundle.json](./237910-yoga-master-magic-atmosphere-bundle.json) |
 | Yoga Master: Magic Atmosphere Pack 1 | 238447 | [238447-yoga-master-magic-atmosphere-pack-1.json](./238447-yoga-master-magic-atmosphere-pack-1.json) |
