@@ -879,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Bouncer | 61644 | [61644-idle-bouncer.json](./61644-idle-bouncer.json) |
 | Idle Breakanoid | 383952 | [383952-idle-breakanoid.json](./383952-idle-breakanoid.json) |
 | Idle Breaker: Loot and Survive | 297597 | [297597-idle-breaker-loot-and-survive.json](./297597-idle-breaker-loot-and-survive.json) |
+| Idle Breakout | 228326 | [228326-idle-breakout.json](./228326-idle-breakout.json) |
 | Idle Bubbles Cannon: Aim & Tap | 245336 | [245336-idle-bubbles-cannon-aim-and-tap.json](./245336-idle-bubbles-cannon-aim-and-tap.json) |
 | Idle Build RPG | 260166 | [260166-idle-build-rpg.json](./260166-idle-build-rpg.json) |
 | Idle Business Tycoon: Build Simulator | 197933 | [197933-idle-business-tycoon-build-simulator.json](./197933-idle-business-tycoon-build-simulator.json) |
