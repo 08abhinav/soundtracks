@@ -1192,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Undercover | 248138 | [248138-need-for-speed-undercover.json](./248138-need-for-speed-undercover.json) |
 | Need for Speed: Undercover | 248142 | [248142-need-for-speed-undercover.json](./248142-need-for-speed-undercover.json) |
 | Need for Speed: Underground | 242990 | [242990-need-for-speed-underground.json](./242990-need-for-speed-underground.json) |
+| Need for Speed: Underground 2 | 229854 | [229854-need-for-speed-underground-2.json](./229854-need-for-speed-underground-2.json) |
 | Need More Troops | 165680 | [165680-need-more-troops.json](./165680-need-more-troops.json) |
 | Need to Know | 18234 | [18234-need-to-know.json](./18234-need-to-know.json) |
 | Needle & Thread | 330155 | [330155-needle-and-thread.json](./330155-needle-and-thread.json) |
@@ -4928,6 +4929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nux | 10604 | [10604-nux.json](./10604-nux.json) |
 | Nǚyǒu yǔ Wǒ de Liàn'ài Rìcháng | 113869 | [113869-nuyou-yu-wo-de-lianai-richang.json](./113869-nuyou-yu-wo-de-lianai-richang.json) |
 | NVIDIA VR Funhouse | 56867 | [56867-nvidia-vr-funhouse.json](./56867-nvidia-vr-funhouse.json) |
+| NvmU | 229558 | [229558-nvmu.json](./229558-nvmu.json) |
 | NY City Bank Manager 2018 | 96725 | [96725-ny-city-bank-manager-2018.json](./96725-ny-city-bank-manager-2018.json) |
 | Ny Rex | 101025 | [101025-ny-rex.json](./101025-ny-rex.json) |
 | NY Times | 358269 | [358269-ny-times.json](./358269-ny-times.json) |
