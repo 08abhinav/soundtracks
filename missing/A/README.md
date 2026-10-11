@@ -5859,6 +5859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angelique Trois | 72678 | [72678-angelique-trois.json](./72678-angelique-trois.json) |
 | Angelique Voice Fantasy | 38316 | [38316-angelique-voice-fantasy.json](./38316-angelique-voice-fantasy.json) |
 | Angelique: Maren no Rokukishi | 56515 | [56515-angelique-maren-no-rokukishi.json](./56515-angelique-maren-no-rokukishi.json) |
+| AngelKnights | 229230 | [229230-angelknights.json](./229230-angelknights.json) |
 | Angellus: Asas do Anoitecer | 262079 | [262079-angellus-asas-do-anoitecer.json](./262079-angellus-asas-do-anoitecer.json) |
 | Angelo | 373661 | [373661-angelo.json](./373661-angelo.json) |
 | Angelo and Deemon 2: Too Hell of a Quest | 319368 | [319368-angelo-and-deemon-2-too-hell-of-a-quest.json](./319368-angelo-and-deemon-2-too-hell-of-a-quest.json) |
@@ -10410,6 +10411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Killer Tomatoes | 273079 | [273079-attack-of-the-killer-tomatoes.json](./273079-attack-of-the-killer-tomatoes.json) |
 | Attack of the Killer Tomatoes | 7761 | [7761-attack-of-the-killer-tomatoes.json](./7761-attack-of-the-killer-tomatoes.json) |
 | Attack of the Movies 3D | 4683 | [4683-attack-of-the-movies-3d.json](./4683-attack-of-the-movies-3d.json) |
+| Attack of the Mutant Artificial Trees | 229250 | [229250-attack-of-the-mutant-artificial-trees.json](./229250-attack-of-the-mutant-artificial-trees.json) |
 | Attack of the Mutant Camels | 13823 | [13823-attack-of-the-mutant-camels.json](./13823-attack-of-the-mutant-camels.json) |
 | Attack of the Mutant Camels '89 | 318633 | [318633-attack-of-the-mutant-camels-89.json](./318633-attack-of-the-mutant-camels-89.json) |
 | Attack of the Mutant Penguins | 40819 | [40819-attack-of-the-mutant-penguins.json](./40819-attack-of-the-mutant-penguins.json) |
@@ -10652,6 +10654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Chess | 119188 | [119188-auto-chess.json](./119188-auto-chess.json) |
 | Auto Chess Souls | 392249 | [392249-auto-chess-souls.json](./392249-auto-chess-souls.json) |
 | Auto Club Revolution | 80491 | [80491-auto-club-revolution.json](./80491-auto-club-revolution.json) |
+| Auto Crusher Palladium | 229229 | [229229-auto-crusher-palladium.json](./229229-auto-crusher-palladium.json) |
 | Auto Dealership Tycoon | 34713 | [34713-auto-dealership-tycoon.json](./34713-auto-dealership-tycoon.json) |
 | Auto Defense | 256249 | [256249-auto-defense.json](./256249-auto-defense.json) |
 | Auto Derby Casino | 391770 | [391770-auto-derby-casino.json](./391770-auto-derby-casino.json) |
