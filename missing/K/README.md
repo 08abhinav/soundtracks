@@ -669,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kart Racing | 381228 | [381228-kart-racing.json](./381228-kart-racing.json) |
 | Kart Racing 3D - Top Car Racer Chaser Action Rally | 101568 | [101568-kart-racing-3d-top-car-racer-chaser-action-rally.json](./101568-kart-racing-3d-top-car-racer-chaser-action-rally.json) |
 | Kart Soccer Party | 398428 | [398428-kart-soccer-party.json](./398428-kart-soccer-party.json) |
+| Kart Stars | 234497 | [234497-kart-stars.json](./234497-kart-stars.json) |
 | Kart Them All | 292958 | [292958-kart-them-all.json](./292958-kart-them-all.json) |
 | Kart Wars | 108994 | [108994-kart-wars.json](./108994-kart-wars.json) |
 | Kartia: The Word of Fate | 45222 | [45222-kartia-the-word-of-fate.json](./45222-kartia-the-word-of-fate.json) |
@@ -3280,6 +3281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konjiki no Gash Bell!! Golden Memories | 261218 | [261218-konjiki-no-gash-bell-golden-memories.json](./261218-konjiki-no-gash-bell-golden-memories.json) |
 | Konjiki no Gash Bell!! Yuujou no Dengeki Dream Tag Tournament | 269755 | [269755-konjiki-no-gash-bell-yuujou-no-dengeki-dream-tag-tournament.json](./269755-konjiki-no-gash-bell-yuujou-no-dengeki-dream-tag-tournament.json) |
 | Konjiki no Gash Bell!! Yuujou no Tag Battle Full Power | 3969 | [3969-konjiki-no-gash-bell-yuujou-no-tag-battle-full-power.json](./3969-konjiki-no-gash-bell-yuujou-no-tag-battle-full-power.json) |
+| Konjiki no Gash Bell!! Yuujou Tag Battle | 234643 | [234643-konjiki-no-gash-bell-yuujou-tag-battle.json](./234643-konjiki-no-gash-bell-yuujou-tag-battle.json) |
 | Konk World | 267910 | [267910-konk-world.json](./267910-konk-world.json) |
 | Konkonkon | 337741 | [337741-konkonkon.json](./337741-konkonkon.json) |
 | Konkord | 204949 | [204949-konkord.json](./204949-konkord.json) |
