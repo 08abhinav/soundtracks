@@ -4894,6 +4894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of Everseas | 89524 | [89524-pirates-of-everseas.json](./89524-pirates-of-everseas.json) |
 | Pirates of First Star | 115668 | [115668-pirates-of-first-star.json](./115668-pirates-of-first-star.json) |
 | Pirates of Gravitae | 182296 | [182296-pirates-of-gravitae.json](./182296-pirates-of-gravitae.json) |
+| Pirates of Heaven | 237240 | [237240-pirates-of-heaven.json](./237240-pirates-of-heaven.json) |
 | Pirates of Perfidy | 420549 | [420549-pirates-of-perfidy.json](./420549-pirates-of-perfidy.json) |
 | Pirates of Rectangular | 258644 | [258644-pirates-of-rectangular.json](./258644-pirates-of-rectangular.json) |
 | Pirates of the Asteroid Belt VR | 116857 | [116857-pirates-of-the-asteroid-belt-vr.json](./116857-pirates-of-the-asteroid-belt-vr.json) |
@@ -10605,6 +10606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychophonies: What Ghosts Say | 238438 | [238438-psychophonies-what-ghosts-say.json](./238438-psychophonies-what-ghosts-say.json) |
 | Psychopomp Gold | 319765 | [319765-psychopomp-gold.json](./319765-psychopomp-gold.json) |
 | Psychoscopy | 207195 | [207195-psychoscopy.json](./207195-psychoscopy.json) |
+| Psychosis | 237263 | [237263-psychosis.json](./237263-psychosis.json) |
 | Psychosis: Teaser | 222863 | [222863-psychosis-teaser.json](./222863-psychosis-teaser.json) |
 | Psychosomnium | 84249 | [84249-psychosomnium.json](./84249-psychosomnium.json) |
 | Psychotic Adventures Origins | 138795 | [138795-psychotic-adventures-origins.json](./138795-psychotic-adventures-origins.json) |
