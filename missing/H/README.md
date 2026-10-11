@@ -1235,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hare Trigger | 302444 | [302444-hare-trigger.json](./302444-hare-trigger.json) |
 | Hare's Hollow | 184607 | [184607-hares-hollow.json](./184607-hares-hollow.json) |
 | Harekat 2: Online | 252132 | [252132-harekat-2-online.json](./252132-harekat-2-online.json) |
+| Harem Girl: Isabella | 231269 | [231269-harem-girl-isabella.json](./231269-harem-girl-isabella.json) |
 | Harem Girl: Nikki | 196224 | [196224-harem-girl-nikki.json](./196224-harem-girl-nikki.json) |
 | Harem in Another World | 257952 | [257952-harem-in-another-world.json](./257952-harem-in-another-world.json) |
 | Harem Inn | 371038 | [371038-harem-inn.json](./371038-harem-inn.json) |
@@ -2825,6 +2826,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Neighbor 2 | 135991 | [135991-hello-neighbor-2.json](./135991-hello-neighbor-2.json) |
 | Hello Neighbor 2: Back to School | 238575 | [238575-hello-neighbor-2-back-to-school.json](./238575-hello-neighbor-2-back-to-school.json) |
 | Hello Neighbor 2: Deluxe Edition | 196805 | [196805-hello-neighbor-2-deluxe-edition.json](./196805-hello-neighbor-2-deluxe-edition.json) |
+| Hello Neighbor 2: Hello-copter | 231270 | [231270-hello-neighbor-2-hello-copter.json](./231270-hello-neighbor-2-hello-copter.json) |
+| Hello Neighbor 2: Late Fees | 231261 | [231261-hello-neighbor-2-late-fees.json](./231261-hello-neighbor-2-late-fees.json) |
 | Hello Neighbor 3 | 287317 | [287317-hello-neighbor-3.json](./287317-hello-neighbor-3.json) |
 | Hello Neighbor Bundle | 118852 | [118852-hello-neighbor-bundle.json](./118852-hello-neighbor-bundle.json) |
 | Hello Neighbor Pre-Alpha | 403841 | [403841-hello-neighbor-pre-alpha.json](./403841-hello-neighbor-pre-alpha.json) |
