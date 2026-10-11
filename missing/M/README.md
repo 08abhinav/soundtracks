@@ -6589,6 +6589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Michinoku Hitou Koimonogatari Kai | 64660 | [64660-michinoku-hitou-koimonogatari-kai.json](./64660-michinoku-hitou-koimonogatari-kai.json) |
 | Mickey & Friends | 198815 | [198815-mickey-and-friends.json](./198815-mickey-and-friends.json) |
 | Mickey & Friends | 198816 | [198816-mickey-and-friends.json](./198816-mickey-and-friends.json) |
+| Mickey in the Great Outdoors | 233960 | [233960-mickey-in-the-great-outdoors.json](./233960-mickey-in-the-great-outdoors.json) |
 | Mickey Mania 2 | 256371 | [256371-mickey-mania-2.json](./256371-mickey-mania-2.json) |
 | Mickey Mania 7 | 242110 | [242110-mickey-mania-7.json](./242110-mickey-mania-7.json) |
 | Mickey Mania: The Timeless Adventures of Mickey Mouse | 256366 | [256366-mickey-mania-the-timeless-adventures-of-mickey-mouse.json](./256366-mickey-mania-the-timeless-adventures-of-mickey-mouse.json) |
@@ -7194,6 +7195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Monster Mayhem | 29622 | [29622-mighty-monster-mayhem.json](./29622-mighty-monster-mayhem.json) |
 | Mighty Monsters | 176867 | [176867-mighty-monsters.json](./176867-mighty-monsters.json) |
 | Mighty Morphin Power Rangers | 198870 | [198870-mighty-morphin-power-rangers.json](./198870-mighty-morphin-power-rangers.json) |
+| Mighty Morphin Power Rangers | 234090 | [234090-mighty-morphin-power-rangers.json](./234090-mighty-morphin-power-rangers.json) |
 | Mighty Morphin Power Rangers | 3286 | [3286-mighty-morphin-power-rangers.json](./3286-mighty-morphin-power-rangers.json) |
 | Mighty Morphin Power Rangers | 3324 | [3324-mighty-morphin-power-rangers.json](./3324-mighty-morphin-power-rangers.json) |
 | Mighty Morphin Power Rangers Game Watch | 218431 | [218431-mighty-morphin-power-rangers-game-watch.json](./218431-mighty-morphin-power-rangers-game-watch.json) |
@@ -7731,6 +7733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Cybersafe AI: Dig Deeper | 332581 | [332581-minecraft-cybersafe-ai-dig-deeper.json](./332581-minecraft-cybersafe-ai-dig-deeper.json) |
 | Minecraft: Dairycraft | 366815 | [366815-minecraft-dairycraft.json](./366815-minecraft-dairycraft.json) |
 | Minecraft: Deluxe Collection for PC | 350618 | [350618-minecraft-deluxe-collection-for-pc.json](./350618-minecraft-deluxe-collection-for-pc.json) |
+| Minecraft: Dragonborn Mash-up | 233961 | [233961-minecraft-dragonborn-mash-up.json](./233961-minecraft-dragonborn-mash-up.json) |
 | Minecraft: Echo Crystal | 343904 | [343904-minecraft-echo-crystal.json](./343904-minecraft-echo-crystal.json) |
 | Minecraft: Egyptian Mythology Mash-up | 237331 | [237331-minecraft-egyptian-mythology-mash-up.json](./237331-minecraft-egyptian-mythology-mash-up.json) |
 | Minecraft: Fantastic Fairgrounds | 316689 | [316689-minecraft-fantastic-fairgrounds.json](./316689-minecraft-fantastic-fairgrounds.json) |
@@ -9322,6 +9325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mojito the Cat: Legendary Edition | 260686 | [260686-mojito-the-cat-legendary-edition.json](./260686-mojito-the-cat-legendary-edition.json) |
 | Mojito the Cat: Platina Edition | 262364 | [262364-mojito-the-cat-platina-edition.json](./262364-mojito-the-cat-platina-edition.json) |
 | Mojito the Cat: Sushi Skins | 302593 | [302593-mojito-the-cat-sushi-skins.json](./302593-mojito-the-cat-sushi-skins.json) |
+| Mojito the Cat: Ultimate Edition | 233939 | [233939-mojito-the-cat-ultimate-edition.json](./233939-mojito-the-cat-ultimate-edition.json) |
 | Mojo Master | 66702 | [66702-mojo-master.json](./66702-mojo-master.json) |
 | Mojo Melee | 223479 | [223479-mojo-melee.json](./223479-mojo-melee.json) |
 | Mojo Party | 398528 | [398528-mojo-party.json](./398528-mojo-party.json) |
@@ -10195,6 +10199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters | 151819 | [151819-monsters.json](./151819-monsters.json) |
 | Monsters | 314359 | [314359-monsters.json](./314359-monsters.json) |
 | Monsters 'til Midnight | 236220 | [236220-monsters-til-midnight.json](./236220-monsters-til-midnight.json) |
+| Monsters & Memories | 233978 | [233978-monsters-and-memories.json](./233978-monsters-and-memories.json) |
 | Monsters & Munitions | 16720 | [16720-monsters-and-munitions.json](./16720-monsters-and-munitions.json) |
 | Monsters and Magic | 356671 | [356671-monsters-and-magic.json](./356671-monsters-and-magic.json) |
 | Monsters and Mazes | 380178 | [380178-monsters-and-mazes.json](./380178-monsters-and-mazes.json) |
