@@ -4018,6 +4018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Sexy Night 2: Second Date | 235760 | [235760-first-sexy-night-2-second-date.json](./235760-first-sexy-night-2-second-date.json) |
 | First Sino-Japanese War | 391140 | [391140-first-sino-japanese-war.json](./391140-first-sino-japanese-war.json) |
 | First Snow | 132765 | [132765-first-snow.json](./132765-first-snow.json) |
+| First Snow | 228641 | [228641-first-snow.json](./228641-first-snow.json) |
 | First South Beer Pong | 59653 | [59653-first-south-beer-pong.json](./59653-first-south-beer-pong.json) |
 | First Star Online 3 | 145946 | [145946-first-star-online-3.json](./145946-first-star-online-3.json) |
 | First Step: Fighting Souls | 196328 | [196328-first-step-fighting-souls.json](./196328-first-step-fighting-souls.json) |
@@ -7477,6 +7478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': Banbuds vs. Reggie the Rat | 202337 | [202337-friday-night-funkin-banbuds-vs-reggie-the-rat.json](./202337-friday-night-funkin-banbuds-vs-reggie-the-rat.json) |
 | Friday Night Funkin': CG5 Edition | 224523 | [224523-friday-night-funkin-cg5-edition.json](./224523-friday-night-funkin-cg5-edition.json) |
 | Friday Night Funkin': Elements of Insanity | 198303 | [198303-friday-night-funkin-elements-of-insanity.json](./198303-friday-night-funkin-elements-of-insanity.json) |
+| Friday Night Funkin': Halloween Hack | 228324 | [228324-friday-night-funkin-halloween-hack.json](./228324-friday-night-funkin-halloween-hack.json) |
 | Friday Night Funkin': Hotline 024 | 201320 | [201320-friday-night-funkin-hotline-024.json](./201320-friday-night-funkin-hotline-024.json) |
 | Friday Night Funkin': Idol | 269294 | [269294-friday-night-funkin-idol.json](./269294-friday-night-funkin-idol.json) |
 | Friday Night Funkin': In the Galaxy | 228605 | [228605-friday-night-funkin-in-the-galaxy.json](./228605-friday-night-funkin-in-the-galaxy.json) |
@@ -7499,6 +7501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': VS Protegent | 274022 | [274022-friday-night-funkin-vs-protegent.json](./274022-friday-night-funkin-vs-protegent.json) |
 | Friday Night Funkin': Vs Shitass Full Week | 198346 | [198346-friday-night-funkin-vs-shitass-full-week.json](./198346-friday-night-funkin-vs-shitass-full-week.json) |
 | Friday Night Funkin': VS Spider-Man - Volume II | 225302 | [225302-friday-night-funkin-vs-spider-man-volume-ii.json](./225302-friday-night-funkin-vs-spider-man-volume-ii.json) |
+| Friday Night Funkin': Vs Tree | 228613 | [228613-friday-night-funkin-vs-tree.json](./228613-friday-night-funkin-vs-tree.json) |
 | Friday Night Funkin': vs. /v/ | 235329 | [235329-friday-night-funkin-vs-v.json](./235329-friday-night-funkin-vs-v.json) |
 | Friday Night Funkin': VS. Cassette Girl | 199045 | [199045-friday-night-funkin-vs-cassette-girl.json](./199045-friday-night-funkin-vs-cassette-girl.json) |
 | Friday Night Funkin': vs. Donald J. Trump | 332226 | [332226-friday-night-funkin-vs-donald-j-trump.json](./332226-friday-night-funkin-vs-donald-j-trump.json) |
