@@ -788,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Corneria | 323906 | [323906-tales-of-corneria.json](./323906-tales-of-corneria.json) |
 | Tales of Cosmos | 27180 | [27180-tales-of-cosmos.json](./27180-tales-of-cosmos.json) |
 | Tales of Demagost: Exodus | 373326 | [373326-tales-of-demagost-exodus.json](./373326-tales-of-demagost-exodus.json) |
+| Tales of Demons and Gods | 232898 | [232898-tales-of-demons-and-gods.json](./232898-tales-of-demons-and-gods.json) |
 | Tales of Destiny | 229160 | [229160-tales-of-destiny.json](./229160-tales-of-destiny.json) |
 | Tales of Destiny 2 | 1203 | [1203-tales-of-destiny-2.json](./1203-tales-of-destiny-2.json) |
 | Tales of Destiny II | 1202 | [1202-tales-of-destiny-ii.json](./1202-tales-of-destiny-ii.json) |
@@ -2395,6 +2396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TekSkeleton | 287242 | [287242-tekskeleton.json](./287242-tekskeleton.json) |
 | Tektonik | 63234 | [63234-tektonik.json](./63234-tektonik.json) |
 | Teku | 274499 | [274499-teku.json](./274499-teku.json) |
+| Tekuteku Pikmin | 232901 | [232901-tekuteku-pikmin.json](./232901-tekuteku-pikmin.json) |
 | TelAIphone | 310508 | [310508-telaiphone.json](./310508-telaiphone.json) |
 | Télé 7 Jeux: Mots Fléchés | 268415 | [268415-tele-7-jeux-mots-fleches.json](./268415-tele-7-jeux-mots-fleches.json) |
 | Tele-Doodle | 220125 | [220125-tele-doodle.json](./220125-tele-doodle.json) |
@@ -11914,6 +11916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: The Telltale Definitive Series - Protector Pack | 117677 | [117677-the-walking-dead-the-telltale-definitive-series-protector-pack.json](./117677-the-walking-dead-the-telltale-definitive-series-protector-pack.json) |
 | The Walking Dead: The Telltale Definitive Series - Signature Pack | 117679 | [117679-the-walking-dead-the-telltale-definitive-series-signature-pack.json](./117679-the-walking-dead-the-telltale-definitive-series-signature-pack.json) |
 | The Walking Dead: The Telltale Series Collection | 77489 | [77489-the-walking-dead-the-telltale-series-collection.json](./77489-the-walking-dead-the-telltale-series-collection.json) |
+| The Walking Fish | 232911 | [232911-the-walking-fish.json](./232911-the-walking-fish.json) |
 | The Walking Trade | 345095 | [345095-the-walking-trade.json](./345095-the-walking-trade.json) |
 | The Walking Vegetables | 61617 | [61617-the-walking-vegetables.json](./61617-the-walking-vegetables.json) |
 | The Walking Zombie | 75798 | [75798-the-walking-zombie.json](./75798-the-walking-zombie.json) |
@@ -12296,6 +12299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Z Axis: Continuum | 104794 | [104794-the-z-axis-continuum.json](./104794-the-z-axis-continuum.json) |
 | The Zachtronics Puzzle Pack | 263588 | [263588-the-zachtronics-puzzle-pack.json](./263588-the-zachtronics-puzzle-pack.json) |
 | The Zachtronics Solitaire Collection | 214973 | [214973-the-zachtronics-solitaire-collection.json](./214973-the-zachtronics-solitaire-collection.json) |
+| The Zebra Z | 233018 | [233018-the-zebra-z.json](./233018-the-zebra-z.json) |
 | The Zebra-Man! | 236250 | [236250-the-zebra-man.json](./236250-the-zebra-man.json) |
 | The Zen of Kayaking | 304730 | [304730-the-zen-of-kayaking.json](./304730-the-zen-of-kayaking.json) |
 | The Zero Dome | 72349 | [72349-the-zero-dome.json](./72349-the-zero-dome.json) |
@@ -17303,6 +17307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towers | 116967 | [116967-towers.json](./116967-towers.json) |
 | Towers | 271222 | [271222-towers.json](./271222-towers.json) |
 | Towers & Goblins: The Last Stand | 290912 | [290912-towers-and-goblins-the-last-stand.json](./290912-towers-and-goblins-the-last-stand.json) |
+| Towers Deck | 232877 | [232877-towers-deck.json](./232877-towers-deck.json) |
 | Towers Heritage | 372465 | [372465-towers-heritage.json](./372465-towers-heritage.json) |
 | Towers II: Plight of the Stargazer | 332668 | [332668-towers-ii-plight-of-the-stargazer.json](./332668-towers-ii-plight-of-the-stargazer.json) |
 | Towers II: Plight of the Stargazer | 71222 | [71222-towers-ii-plight-of-the-stargazer.json](./71222-towers-ii-plight-of-the-stargazer.json) |
@@ -17667,6 +17672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailbreaker: Jupiter Edition | 109516 | [109516-trailbreaker-jupiter-edition.json](./109516-trailbreaker-jupiter-edition.json) |
 | Trailcam | 319792 | [319792-trailcam.json](./319792-trailcam.json) |
 | Trailer Park Boys: Grea$y Money | 76608 | [76608-trailer-park-boys-grea-y-money.json](./76608-trailer-park-boys-grea-y-money.json) |
+| Trailer Park Life | 232883 | [232883-trailer-park-life.json](./232883-trailer-park-life.json) |
 | Trailer Park Zombies | 389462 | [389462-trailer-park-zombies.json](./389462-trailer-park-zombies.json) |
 | Trailer Trashers | 130157 | [130157-trailer-trashers.json](./130157-trailer-trashers.json) |
 | Trailmakers: Decals - Expression Pack | 308437 | [308437-trailmakers-decals-expression-pack.json](./308437-trailmakers-decals-expression-pack.json) |
@@ -20152,6 +20158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsunagare Numbers | 222420 | [222420-tsunagare-numbers.json](./222420-tsunagare-numbers.json) |
 | Tsunagari Chess School | 320379 | [320379-tsunagari-chess-school.json](./320379-tsunagari-chess-school.json) |
 | Tsunagaru Voiro Shooters vs. Space Kedamaki | 204732 | [204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json](./204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json) |
+| Tsunagete Pikmin | 232902 | [232902-tsunagete-pikmin.json](./232902-tsunagete-pikmin.json) |
 | Tsunami 2265 | 92831 | [92831-tsunami-2265.json](./92831-tsunami-2265.json) |
 | Tsunami Cruiser | 184655 | [184655-tsunami-cruiser.json](./184655-tsunami-cruiser.json) |
 | Tsunami Rider | 383939 | [383939-tsunami-rider.json](./383939-tsunami-rider.json) |
