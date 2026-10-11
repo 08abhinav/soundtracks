@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctuary Island | 150772 | [150772-sanctuary-island.json](./150772-sanctuary-island.json) |
 | Sanctuary Saga | 233575 | [233575-sanctuary-saga.json](./233575-sanctuary-saga.json) |
 | Sanctuary VR | 30182 | [30182-sanctuary-vr.json](./30182-sanctuary-vr.json) |
+| Sanctuary: Shattered Sun | 235668 | [235668-sanctuary-shattered-sun.json](./235668-sanctuary-shattered-sun.json) |
 | Sanctum 2: Road to Elysion | 10806 | [10806-sanctum-2-road-to-elysion.json](./10806-sanctum-2-road-to-elysion.json) |
 | Sanctum 2: Ruins of Brightholme | 10807 | [10807-sanctum-2-ruins-of-brightholme.json](./10807-sanctum-2-ruins-of-brightholme.json) |
 | Sanctum 2: The Last Stand | 10808 | [10808-sanctum-2-the-last-stand.json](./10808-sanctum-2-the-last-stand.json) |
@@ -8544,6 +8545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime on Hole | 185619 | [185619-slime-on-hole.json](./185619-slime-on-hole.json) |
 | Slime Pandemic TD | 171932 | [171932-slime-pandemic-td.json](./171932-slime-pandemic-td.json) |
 | Slime Pizza | 90360 | [90360-slime-pizza.json](./90360-slime-pizza.json) |
+| Slime Puzzle Story | 235656 | [235656-slime-puzzle-story.json](./235656-slime-puzzle-story.json) |
 | Slime Quest | 110173 | [110173-slime-quest.json](./110173-slime-quest.json) |
 | Slime Quest | 248145 | [248145-slime-quest.json](./248145-slime-quest.json) |
 | Slime Rancher | 16287 | [16287-slime-rancher.json](./16287-slime-rancher.json) |
@@ -8719,6 +8721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot or Die | 391694 | [391694-slot-or-die.json](./391694-slot-or-die.json) |
 | Slot or Not | 373519 | [373519-slot-or-not.json](./373519-slot-or-not.json) |
 | Slot Revolution | 296034 | [296034-slot-revolution.json](./296034-slot-revolution.json) |
+| Slot Shots Pinball 2 | 235657 | [235657-slot-shots-pinball-2.json](./235657-slot-shots-pinball-2.json) |
 | Slot Shots Pinball: Ultimate Edition | 276969 | [276969-slot-shots-pinball-ultimate-edition.json](./276969-slot-shots-pinball-ultimate-edition.json) |
 | Slot Waste | 306706 | [306706-slot-waste.json](./306706-slot-waste.json) |
 | Slot! | 76551 | [76551-slot.json](./76551-slot.json) |
@@ -10616,6 +10619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sometimes: Success Requires Sacrifice | 35712 | [35712-sometimes-success-requires-sacrifice.json](./35712-sometimes-success-requires-sacrifice.json) |
 | Somewhere | 324306 | [324306-somewhere.json](./324306-somewhere.json) |
 | Somewhere in a Clay Nowhere | 182371 | [182371-somewhere-in-a-clay-nowhere.json](./182371-somewhere-in-a-clay-nowhere.json) |
+| Somewhere in between | 235644 | [235644-somewhere-in-between.json](./235644-somewhere-in-between.json) |
 | Somewhere in Space... | 178644 | [178644-somewhere-in-space.json](./178644-somewhere-in-space.json) |
 | Somewhere in Time and Space | 347720 | [347720-somewhere-in-time-and-space.json](./347720-somewhere-in-time-and-space.json) |
 | Somewhere inside | 125085 | [125085-somewhere-inside.json](./125085-somewhere-inside.json) |
@@ -11653,6 +11657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Balance | 391610 | [391610-soul-balance.json](./391610-soul-balance.json) |
 | Soul Battles | 299993 | [299993-soul-battles.json](./299993-soul-battles.json) |
 | Soul Blade | 274455 | [274455-soul-blade.json](./274455-soul-blade.json) |
+| Soul Bound Saga | 235791 | [235791-soul-bound-saga.json](./235791-soul-bound-saga.json) |
 | Soul Brave | 338321 | [338321-soul-brave.json](./338321-soul-brave.json) |
 | Soul Breach | 363022 | [363022-soul-breach.json](./363022-soul-breach.json) |
 | Soul Bubbles | 21370 | [21370-soul-bubbles.json](./21370-soul-bubbles.json) |
@@ -14441,6 +14446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprint Journey: Nitro | 216143 | [216143-sprint-journey-nitro.json](./216143-sprint-journey-nitro.json) |
 | Sprint Master | 18423 | [18423-sprint-master.json](./18423-sprint-master.json) |
 | Sprint Star: A Running Manager | 310100 | [310100-sprint-star-a-running-manager.json](./310100-sprint-star-a-running-manager.json) |
+| Sprint.Fire | 235655 | [235655-sprint-fire.json](./235655-sprint-fire.json) |
 | SprintLine | 287909 | [287909-sprintline.json](./287909-sprintline.json) |
 | Sprite Fantasia | 174861 | [174861-sprite-fantasia.json](./174861-sprite-fantasia.json) |
 | Sprite Hunter | 385890 | [385890-sprite-hunter.json](./385890-sprite-hunter.json) |
@@ -21725,6 +21731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive the Blackout | 116184 | [116184-survive-the-blackout.json](./116184-survive-the-blackout.json) |
 | Survive the Cards | 360721 | [360721-survive-the-cards.json](./360721-survive-the-cards.json) |
 | Survive the Fall | 216900 | [216900-survive-the-fall.json](./216900-survive-the-fall.json) |
+| Survive the Fog | 235781 | [235781-survive-the-fog.json](./235781-survive-the-fog.json) |
 | Survive the Forest | 219572 | [219572-survive-the-forest.json](./219572-survive-the-forest.json) |
 | Survive the Geeks Class! | 303299 | [303299-survive-the-geeks-class.json](./303299-survive-the-geeks-class.json) |
 | Survive the Grid | 365162 | [365162-survive-the-grid.json](./365162-survive-the-grid.json) |
