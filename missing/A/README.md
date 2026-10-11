@@ -3885,6 +3885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alibi for love | 387624 | [387624-alibi-for-love.json](./387624-alibi-for-love.json) |
 | Alibi: The Dinner Party | 262003 | [262003-alibi-the-dinner-party.json](./262003-alibi-the-dinner-party.json) |
 | Alibito | 412444 | [412444-alibito.json](./412444-alibito.json) |
+| Alice | 230182 | [230182-alice.json](./230182-alice.json) |
 | Alice & Marisa | 270382 | [270382-alice-and-marisa.json](./270382-alice-and-marisa.json) |
 | Alice 49: Ep. 0 - Diamonds and Cream Puffs | 331923 | [331923-alice-49-ep-0-diamonds-and-cream-puffs.json](./331923-alice-49-ep-0-diamonds-and-cream-puffs.json) |
 | Alice and Smith: Complete Library | 52589 | [52589-alice-and-smith-complete-library.json](./52589-alice-and-smith-complete-library.json) |
