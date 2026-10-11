@@ -5460,6 +5460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Aspie Life | 83798 | [83798-an-aspie-life.json](./83798-an-aspie-life.json) |
 | An Aunt After My Own Heart | 314989 | [314989-an-aunt-after-my-own-heart.json](./314989-an-aunt-after-my-own-heart.json) |
 | An Autumn With You | 181846 | [181846-an-autumn-with-you.json](./181846-an-autumn-with-you.json) |
+| An Average Day at the Cat Cafe | 227732 | [227732-an-average-day-at-the-cat-cafe.json](./227732-an-average-day-at-the-cat-cafe.json) |
 | An Aware Guy in the Past | 185621 | [185621-an-aware-guy-in-the-past.json](./185621-an-aware-guy-in-the-past.json) |
 | An Easter to Remember | 375298 | [375298-an-easter-to-remember.json](./375298-an-easter-to-remember.json) |
 | An Easy Lay | 178476 | [178476-an-easy-lay.json](./178476-an-easy-lay.json) |
@@ -8139,7 +8140,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ardor 2 | 365175 | [365175-ardor-2.json](./365175-ardor-2.json) |
 | Ardu Turf Masters | 340204 | [340204-ardu-turf-masters.json](./340204-ardu-turf-masters.json) |
 | Ardu-EZ Button | 333764 | [333764-ardu-ez-button.json](./333764-ardu-ez-button.json) |
+| Ardu-man | 227996 | [227996-ardu-man.json](./227996-ardu-man.json) |
 | Ardubullets | 381726 | [381726-ardubullets.json](./381726-ardubullets.json) |
+| ArduGods | 227994 | [227994-ardugods.json](./227994-ardugods.json) |
+| ArduGolf: 18-Hole Mini Golf | 227997 | [227997-ardugolf-18-hole-mini-golf.json](./227997-ardugolf-18-hole-mini-golf.json) |
+| Arduminer | 227998 | [227998-arduminer.json](./227998-arduminer.json) |
 | Arduventure | 144324 | [144324-arduventure.json](./144324-arduventure.json) |
 | Ardy Lightfoot | 42736 | [42736-ardy-lightfoot.json](./42736-ardy-lightfoot.json) |
 | Ardy the Aardvark | 25036 | [25036-ardy-the-aardvark.json](./25036-ardy-the-aardvark.json) |
@@ -10385,6 +10390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATSS Retribution II | 224100 | [224100-atss-retribution-ii.json](./224100-atss-retribution-ii.json) |
 | Atsumare! Pawapuro-kun no DS Koushien | 98515 | [98515-atsumare-pawapuro-kun-no-ds-koushien.json](./98515-atsumare-pawapuro-kun-no-ds-koushien.json) |
 | Atsumete Asobu Kuma no Pooh-san: Mori no Takaramono | 50018 | [50018-atsumete-asobu-kuma-no-pooh-san-mori-no-takaramono.json](./50018-atsumete-asobu-kuma-no-pooh-san-mori-no-takaramono.json) |
+| Atsumete Godzilla | 227742 | [227742-atsumete-godzilla.json](./227742-atsumete-godzilla.json) |
 | Atsumete! Banki-chan | 216353 | [216353-atsumete-banki-chan.json](./216353-atsumete-banki-chan.json) |
 | Atta: Spot the Oddities in the Strange Hotel | 288666 | [288666-atta-spot-the-oddities-in-the-strange-hotel.json](./288666-atta-spot-the-oddities-in-the-strange-hotel.json) |
 | Attachment Not Found | 256787 | [256787-attachment-not-found.json](./256787-attachment-not-found.json) |
