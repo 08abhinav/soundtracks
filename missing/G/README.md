@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachi Feasting | 311156 | [311156-gachi-feasting.json](./311156-gachi-feasting.json) |
 | Gachi Heroes 2: Flexboll | 127191 | [127191-gachi-heroes-2-flexboll.json](./127191-gachi-heroes-2-flexboll.json) |
 | Gachi-Natsu | 222957 | [222957-gachi-natsu.json](./222957-gachi-natsu.json) |
+| Gachi: Space Orgasm | 235786 | [235786-gachi-space-orgasm.json](./235786-gachi-space-orgasm.json) |
 | Gachimuchi Monthly Puzzle | 112761 | [112761-gachimuchi-monthly-puzzle.json](./112761-gachimuchi-monthly-puzzle.json) |
 | Gachimuchi Reloaded | 86314 | [86314-gachimuchi-reloaded.json](./86314-gachimuchi-reloaded.json) |
 | Gachimuchi: The Card Game | 115583 | [115583-gachimuchi-the-card-game.json](./115583-gachimuchi-the-card-game.json) |
@@ -5766,6 +5767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Fandango Remastered | 8682 | [8682-grim-fandango-remastered.json](./8682-grim-fandango-remastered.json) |
 | Grim Horde | 199398 | [199398-grim-horde.json](./199398-grim-horde.json) |
 | Grim Joggers | 336014 | [336014-grim-joggers.json](./336014-grim-joggers.json) |
+| Grim Knight | 235672 | [235672-grim-knight.json](./235672-grim-knight.json) |
 | Grim Legends 3: The Dark City | 33110 | [33110-grim-legends-3-the-dark-city.json](./33110-grim-legends-3-the-dark-city.json) |
 | Grim Legends Collection | 118847 | [118847-grim-legends-collection.json](./118847-grim-legends-collection.json) |
 | Grim Legions | 23842 | [23842-grim-legions.json](./23842-grim-legions.json) |
