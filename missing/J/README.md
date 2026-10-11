@@ -926,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Match: Solitaire Seasons - Collector's Edition | 309503 | [309503-jewel-match-solitaire-seasons-collectors-edition.json](./309503-jewel-match-solitaire-seasons-collectors-edition.json) |
 | Jewel Match: Twilight 3 - Collector's Edition | 159026 | [159026-jewel-match-twilight-3-collectors-edition.json](./159026-jewel-match-twilight-3-collectors-edition.json) |
 | Jewel of Clementia | 248668 | [248668-jewel-of-clementia.json](./248668-jewel-of-clementia.json) |
+| Jewel of Kings | 238933 | [238933-jewel-of-kings.json](./238933-jewel-of-kings.json) |
 | Jewel of Kuru | 158087 | [158087-jewel-of-kuru.json](./158087-jewel-of-kuru.json) |
 | Jewel of Live | 151629 | [151629-jewel-of-live.json](./151629-jewel-of-live.json) |
 | Jewel of Live II | 151630 | [151630-jewel-of-live-ii.json](./151630-jewel-of-live-ii.json) |
