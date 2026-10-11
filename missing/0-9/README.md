@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Stages | 105308 | [105308-1000-stages.json](./105308-1000-stages.json) |
 | 1000 Tiny Claws | 21837 | [21837-1000-tiny-claws.json](./21837-1000-tiny-claws.json) |
 | 1000 Waves | 325500 | [325500-1000-waves.json](./325500-1000-waves.json) |
+| 1000 Word Search Puzzles | 232481 | [232481-1000-word-search-puzzles.json](./232481-1000-word-search-puzzles.json) |
 | 1000 Words | 322687 | [322687-1000-words.json](./322687-1000-words.json) |
 | 1000 Words | 83913 | [83913-1000-words.json](./83913-1000-words.json) |
 | 1000: The All-Mother's Embrace | 326044 | [326044-1000-the-all-mothers-embrace.json](./326044-1000-the-all-mothers-embrace.json) |
