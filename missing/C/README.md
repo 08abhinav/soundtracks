@@ -5975,6 +5975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash-Road | 46863 | [46863-clash-road.json](./46863-clash-road.json) |
 | Clash: Artifacts of Chaos - Lone Fighter Pack | 336141 | [336141-clash-artifacts-of-chaos-lone-fighter-pack.json](./336141-clash-artifacts-of-chaos-lone-fighter-pack.json) |
 | Clash: Artifacts of Chaos - Supporter Pack | 336137 | [336137-clash-artifacts-of-chaos-supporter-pack.json](./336137-clash-artifacts-of-chaos-supporter-pack.json) |
+| Clash: Blue Mirage | 238942 | [238942-clash-blue-mirage.json](./238942-clash-blue-mirage.json) |
 | Clash: Heroes of Feralia Terra | 269107 | [269107-clash-heroes-of-feralia-terra.json](./269107-clash-heroes-of-feralia-terra.json) |
 | Clash: Mutants Vs Pirates | 93769 | [93769-clash-mutants-vs-pirates.json](./93769-clash-mutants-vs-pirates.json) |
 | Clash: Robot Detective - Complete Edition | 236218 | [236218-clash-robot-detective-complete-edition.json](./236218-clash-robot-detective-complete-edition.json) |
@@ -11653,6 +11654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystallium | 373872 | [373872-crystallium.json](./373872-crystallium.json) |
 | Crystallo | 117037 | [117037-crystallo.json](./117037-crystallo.json) |
 | Crystalon | 183554 | [183554-crystalon.json](./183554-crystalon.json) |
+| Crystalrect | 238928 | [238928-crystalrect.json](./238928-crystalrect.json) |
 | Crystals | 284980 | [284980-crystals.json](./284980-crystals.json) |
 | Crystals of Amalgam | 183023 | [183023-crystals-of-amalgam.json](./183023-crystals-of-amalgam.json) |
 | Crystals of Carus | 13834 | [13834-crystals-of-carus.json](./13834-crystals-of-carus.json) |
@@ -12403,6 +12405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut the Box | 117724 | [117724-cut-the-box.json](./117724-cut-the-box.json) |
 | Cut the Cards | 293001 | [293001-cut-the-cards.json](./293001-cut-the-cards.json) |
 | Cut the Ex-Girlfriends | 102225 | [102225-cut-the-ex-girlfriends.json](./102225-cut-the-ex-girlfriends.json) |
+| Cut the Head off the Snake | 238968 | [238968-cut-the-head-off-the-snake.json](./238968-cut-the-head-off-the-snake.json) |
 | Cut the Rope | 9761 | [9761-cut-the-rope.json](./9761-cut-the-rope.json) |
 | Cut the Rope 2 | 39205 | [39205-cut-the-rope-2.json](./39205-cut-the-rope-2.json) |
 | Cut the Rope 2: Om Nom's Quest | 108611 | [108611-cut-the-rope-2-om-noms-quest.json](./108611-cut-the-rope-2-om-noms-quest.json) |
