@@ -2070,6 +2070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawafuru Puroyakyu 2024-2025 | 287890 | [287890-pawafuru-puroyakyu-2024-2025.json](./287890-pawafuru-puroyakyu-2024-2025.json) |
 | Pawafuru Puroyakyu: Eikan Nine Crossroad | 265625 | [265625-pawafuru-puroyakyu-eikan-nine-crossroad.json](./265625-pawafuru-puroyakyu-eikan-nine-crossroad.json) |
 | Pawapuro Adventures | 396373 | [396373-pawapuro-adventures.json](./396373-pawapuro-adventures.json) |
+| Pawapuro GB | 229570 | [229570-pawapuro-gb.json](./229570-pawapuro-gb.json) |
 | Pawapuro Stadium | 63285 | [63285-pawapuro-stadium.json](./63285-pawapuro-stadium.json) |
 | Pawapuro-kun Pocket 10 | 98516 | [98516-pawapuro-kun-pocket-10.json](./98516-pawapuro-kun-pocket-10.json) |
 | Pawapuro-kun Pocket 11 | 98517 | [98517-pawapuro-kun-pocket-11.json](./98517-pawapuro-kun-pocket-11.json) |
@@ -8893,6 +8894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Press Any Button | 143596 | [143596-press-any-button.json](./143596-press-any-button.json) |
 | Press Any Key | 295563 | [295563-press-any-key.json](./295563-press-any-key.json) |
 | Press Inc. | 108275 | [108275-press-inc.json](./108275-press-inc.json) |
+| Press Play | 229568 | [229568-press-play.json](./229568-press-play.json) |
 | Press the alphabetically first letter | 207222 | [207222-press-the-alphabetically-first-letter.json](./207222-press-the-alphabetically-first-letter.json) |
 | Press W to Move Forward | 222823 | [222823-press-w-to-move-forward.json](./222823-press-w-to-move-forward.json) |
 | Press X to Not Die | 13619 | [13619-press-x-to-not-die.json](./13619-press-x-to-not-die.json) |
