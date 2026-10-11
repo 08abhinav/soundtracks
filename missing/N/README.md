@@ -3311,6 +3311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja or Die: Shadow of the Sun | 204717 | [204717-ninja-or-die-shadow-of-the-sun.json](./204717-ninja-or-die-shadow-of-the-sun.json) |
 | Ninja Otedama R | 240729 | [240729-ninja-otedama-r.json](./240729-ninja-otedama-r.json) |
 | Ninja Pac Man | 66382 | [66382-ninja-pac-man.json](./66382-ninja-pac-man.json) |
+| Ninja Painter 2 | 238965 | [238965-ninja-painter-2.json](./238965-ninja-painter-2.json) |
 | Ninja Ponk HD | 232184 | [232184-ninja-ponk-hd.json](./232184-ninja-ponk-hd.json) |
 | Ninja Power Slasher | 114371 | [114371-ninja-power-slasher.json](./114371-ninja-power-slasher.json) |
 | Ninja Prime: Tap Quest | 241632 | [241632-ninja-prime-tap-quest.json](./241632-ninja-prime-tap-quest.json) |
@@ -4772,6 +4773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Islands | 139923 | [139923-number-islands.json](./139923-number-islands.json) |
 | Number Machine | 350604 | [350604-number-machine.json](./350604-number-machine.json) |
 | Number Master | 223995 | [223995-number-master.json](./223995-number-master.json) |
+| Number Match | 239099 | [239099-number-match.json](./239099-number-match.json) |
 | Number Match: Number games | 231880 | [231880-number-match-number-games.json](./231880-number-match-number-games.json) |
 | Number Merge Mania | 358289 | [358289-number-merge-mania.json](./358289-number-merge-mania.json) |
 | Number Munchers | 128661 | [128661-number-munchers.json](./128661-number-munchers.json) |
