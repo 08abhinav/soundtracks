@@ -3074,6 +3074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fin-Tastic Battle | 392415 | [392415-fin-tastic-battle.json](./392415-fin-tastic-battle.json) |
 | FIN: The Way Home | 302127 | [302127-fin-the-way-home.json](./302127-fin-the-way-home.json) |
 | Fina | 127981 | [127981-fina.json](./127981-fina.json) |
+| Final 5 | 231539 | [231539-final-5.json](./231539-final-5.json) |
 | Final 5: Survival! | 234332 | [234332-final-5-survival.json](./234332-final-5-survival.json) |
 | Final Archer VR | 119489 | [119489-final-archer-vr.json](./119489-final-archer-vr.json) |
 | Final Armada | 43297 | [43297-final-armada.json](./43297-final-armada.json) |
@@ -3304,6 +3305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XV: Royal Edition | 80877 | [80877-final-fantasy-xv-royal-edition.json](./80877-final-fantasy-xv-royal-edition.json) |
 | Final Fantasy XV: Special Edition | 205260 | [205260-final-fantasy-xv-special-edition.json](./205260-final-fantasy-xv-special-edition.json) |
 | Final Fantasy XV: Trendy Outfit | 350949 | [350949-final-fantasy-xv-trendy-outfit.json](./350949-final-fantasy-xv-trendy-outfit.json) |
+| Final Fantasy XV: War for Eos | 231406 | [231406-final-fantasy-xv-war-for-eos.json](./231406-final-fantasy-xv-war-for-eos.json) |
 | Final Fantasy XV: Windows Edition | 55034 | [55034-final-fantasy-xv-windows-edition.json](./55034-final-fantasy-xv-windows-edition.json) |
 | Final Fantasy XVI Demake | 402448 | [402448-final-fantasy-xvi-demake.json](./402448-final-fantasy-xvi-demake.json) |
 | Final Fantasy XVI Expansion Pass | 279665 | [279665-final-fantasy-xvi-expansion-pass.json](./279665-final-fantasy-xvi-expansion-pass.json) |
