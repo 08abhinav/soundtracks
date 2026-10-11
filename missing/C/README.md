@@ -7139,6 +7139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Heart | 138683 | [138683-cold-heart.json](./138683-cold-heart.json) |
 | Cold Hill | 153897 | [153897-cold-hill.json](./153897-cold-hill.json) |
 | Cold House | 190092 | [190092-cold-house.json](./190092-cold-house.json) |
+| Cold Ice Remastered | 229223 | [229223-cold-ice-remastered.json](./229223-cold-ice-remastered.json) |
 | Cold in the Dark | 180062 | [180062-cold-in-the-dark.json](./180062-cold-in-the-dark.json) |
 | Cold Iron: Quick Draw Western Duels | 30768 | [30768-cold-iron-quick-draw-western-duels.json](./30768-cold-iron-quick-draw-western-duels.json) |
 | Cold Massacre | 220585 | [220585-cold-massacre.json](./220585-cold-massacre.json) |
@@ -8547,6 +8548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Simulator: Extended Edition | 218476 | [218476-construction-simulator-extended-edition.json](./218476-construction-simulator-extended-edition.json) |
 | Construction Simulator: Gold Edition | 287050 | [287050-construction-simulator-gold-edition.json](./287050-construction-simulator-gold-edition.json) |
 | Construction Simulator: JCB Pack | 246399 | [246399-construction-simulator-jcb-pack.json](./246399-construction-simulator-jcb-pack.json) |
+| Construction Simulator: Kramer Pack | 228943 | [228943-construction-simulator-kramer-pack.json](./228943-construction-simulator-kramer-pack.json) |
 | Construction Simulator: Liebherr Pack | 295117 | [295117-construction-simulator-liebherr-pack.json](./295117-construction-simulator-liebherr-pack.json) |
 | Construction Simulator: SANY Pack | 266746 | [266746-construction-simulator-sany-pack.json](./266746-construction-simulator-sany-pack.json) |
 | Construction Simulator: Spaceport Bundle | 277569 | [277569-construction-simulator-spaceport-bundle.json](./277569-construction-simulator-spaceport-bundle.json) |
