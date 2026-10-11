@@ -918,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Up | 154588 | [154588-egg-up.json](./154588-egg-up.json) |
 | Egg War Puzzle | 257916 | [257916-egg-war-puzzle.json](./257916-egg-war-puzzle.json) |
 | Egg Yolk Life | 129715 | [129715-egg-yolk-life.json](./129715-egg-yolk-life.json) |
+| Egg! | 231966 | [231966-egg.json](./231966-egg.json) |
 | Eggbert's Bird Bath | 404391 | [404391-eggberts-bird-bath.json](./404391-eggberts-bird-bath.json) |
 | Eggcelerate! to the North Pole | 234225 | [234225-eggcelerate-to-the-north-pole.json](./234225-eggcelerate-to-the-north-pole.json) |
 | Eggcellent VR | 113187 | [113187-eggcellent-vr.json](./113187-eggcellent-vr.json) |
@@ -1461,6 +1462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elements | 336927 | [336927-elements.json](./336927-elements.json) |
 | Elements | 383108 | [383108-elements.json](./383108-elements.json) |
 | Elements and Build | 321564 | [321564-elements-and-build.json](./321564-elements-and-build.json) |
+| Elements Cubed | 231411 | [231411-elements-cubed.json](./231411-elements-cubed.json) |
 | Elements For Money | 287243 | [287243-elements-for-money.json](./287243-elements-for-money.json) |
 | Elements II: Hearts of Light | 33352 | [33352-elements-ii-hearts-of-light.json](./33352-elements-ii-hearts-of-light.json) |
 | Elements of Destruction | 21517 | [21517-elements-of-destruction.json](./21517-elements-of-destruction.json) |
@@ -3721,6 +3723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Evolution | 197358 | [197358-eternal-evolution.json](./197358-eternal-evolution.json) |
 | Eternal Fate | 15424 | [15424-eternal-fate.json](./15424-eternal-fate.json) |
 | Eternal Fate: A Journey Begins | 298340 | [298340-eternal-fate-a-journey-begins.json](./298340-eternal-fate-a-journey-begins.json) |
+| Eternal Fidelity | 231843 | [231843-eternal-fidelity.json](./231843-eternal-fidelity.json) |
 | Eternal Fighter Zero | 60773 | [60773-eternal-fighter-zero.json](./60773-eternal-fighter-zero.json) |
 | Eternal Fighter Zero: Bad Moon Edition | 234639 | [234639-eternal-fighter-zero-bad-moon-edition.json](./234639-eternal-fighter-zero-bad-moon-edition.json) |
 | Eternal Fighter Zero: Blue Sky Edition | 234568 | [234568-eternal-fighter-zero-blue-sky-edition.json](./234568-eternal-fighter-zero-blue-sky-edition.json) |
@@ -4128,6 +4131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ever Fallen Empire | 189947 | [189947-ever-fallen-empire.json](./189947-ever-fallen-empire.json) |
 | Ever Forward | 132328 | [132328-ever-forward.json](./132328-ever-forward.json) |
 | Ever Lasting Joy | 51527 | [51527-ever-lasting-joy.json](./51527-ever-lasting-joy.json) |
+| Ever Legion | 231954 | [231954-ever-legion.json](./231954-ever-legion.json) |
 | Ever Maiden: Daraku no Sono no Otome-tachi | 249497 | [249497-ever-maiden-daraku-no-sono-no-otome-tachi.json](./249497-ever-maiden-daraku-no-sono-no-otome-tachi.json) |
 | Ever Planet | 67290 | [67290-ever-planet.json](./67290-ever-planet.json) |
 | Ever Seen A Cat? 3 | 211179 | [211179-ever-seen-a-cat-3.json](./211179-ever-seen-a-cat-3.json) |
