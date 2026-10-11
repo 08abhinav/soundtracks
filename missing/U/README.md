@@ -2168,6 +2168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: Pro Edition | 399829 | [399829-urban-flow-pro-edition.json](./399829-urban-flow-pro-edition.json) |
 | Urban Flow: Silver Edition | 250390 | [250390-urban-flow-silver-edition.json](./250390-urban-flow-silver-edition.json) |
 | Urban Flow: Street Symphony | 304788 | [304788-urban-flow-street-symphony.json](./304788-urban-flow-street-symphony.json) |
+| Urban Flow: Winter Expansion Pack | 238353 | [238353-urban-flow-winter-expansion-pack.json](./238353-urban-flow-winter-expansion-pack.json) |
 | Urban Flow: X-Mas Edition | 275893 | [275893-urban-flow-x-mas-edition.json](./275893-urban-flow-x-mas-edition.json) |
 | Urban Hunter | 358895 | [358895-urban-hunter.json](./358895-urban-hunter.json) |
 | Urban Intel: Special Ops | 270565 | [270565-urban-intel-special-ops.json](./270565-urban-intel-special-ops.json) |
