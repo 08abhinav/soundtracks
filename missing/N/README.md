@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NanoLab Fighter | 246978 | [246978-nanolab-fighter.json](./246978-nanolab-fighter.json) |
 | Nanoloop | 93994 | [93994-nanoloop.json](./93994-nanoloop.json) |
 | NanoMachina | 188915 | [188915-nanomachina.json](./188915-nanomachina.json) |
+| Nanoman | 238377 | [238377-nanoman.json](./238377-nanoman.json) |
 | Nanopesos | 125256 | [125256-nanopesos.json](./125256-nanopesos.json) |
 | Nanopineapple 2018 | 315618 | [315618-nanopineapple-2018.json](./315618-nanopineapple-2018.json) |
 | Nanos | 90597 | [90597-nanos.json](./90597-nanos.json) |
@@ -2965,6 +2966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare's Revenge | 322006 | [322006-nightmares-revenge.json](./322006-nightmares-revenge.json) |
 | NightmareBullet | 105364 | [105364-nightmarebullet.json](./105364-nightmarebullet.json) |
 | Nightmarena | 372547 | [372547-nightmarena.json](./372547-nightmarena.json) |
+| Nightmares | 238542 | [238542-nightmares.json](./238542-nightmares.json) |
 | Nightmares and Other True Stories | 229725 | [229725-nightmares-and-other-true-stories.json](./229725-nightmares-and-other-true-stories.json) |
 | Nightmares Before Disney | 242467 | [242467-nightmares-before-disney.json](./242467-nightmares-before-disney.json) |
 | Nightmares from the Deep 3: Davy Jones | 17140 | [17140-nightmares-from-the-deep-3-davy-jones.json](./17140-nightmares-from-the-deep-3-davy-jones.json) |
