@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.T.O. Tales of the Dark Lands: Deluxe Edition | 157560 | [157560-r-t-o-tales-of-the-dark-lands-deluxe-edition.json](./157560-r-t-o-tales-of-the-dark-lands-deluxe-edition.json) |
 | R.U.R.U.R.: Petit Prince | 59363 | [59363-r-u-r-u-r-petit-prince.json](./59363-r-u-r-u-r-petit-prince.json) |
 | R.U.S.H.: Rival Ultimate Steel Hand | 395527 | [395527-r-u-s-h-rival-ultimate-steel-hand.json](./395527-r-u-s-h-rival-ultimate-steel-hand.json) |
+| R'lyeh Assault | 230194 | [230194-rlyeh-assault.json](./230194-rlyeh-assault.json) |
 | R/A\W | 341548 | [341548-r-a-w.json](./341548-r-a-w.json) |
 | R/C Sports: Copter Challenge | 202927 | [202927-r-c-sports-copter-challenge.json](./202927-r-c-sports-copter-challenge.json) |
 | R00000 | 260309 | [260309-r00000.json](./260309-r00000.json) |
@@ -3227,6 +3228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rengoku | 325284 | [325284-rengoku.json](./325284-rengoku.json) |
 | Rengoku II: The Stairway to H.E.A.V.E.N. | 24185 | [24185-rengoku-ii-the-stairway-to-h-e-a-v-e-n.json](./24185-rengoku-ii-the-stairway-to-h-e-a-v-e-n.json) |
 | Rengoku: The Tower of Purgatory | 38473 | [38473-rengoku-the-tower-of-purgatory.json](./38473-rengoku-the-tower-of-purgatory.json) |
+| Rennsport | 230191 | [230191-rennsport.json](./230191-rennsport.json) |
 | Renny Blaster | 42008 | [42008-renny-blaster.json](./42008-renny-blaster.json) |
 | Renovation Products Collection 1 | 157521 | [157521-renovation-products-collection-1.json](./157521-renovation-products-collection-1.json) |
 | Renovators | 163882 | [163882-renovators.json](./163882-renovators.json) |
@@ -3304,6 +3306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repossessed | 279738 | [279738-repossessed.json](./279738-repossessed.json) |
 | Repossession | 226180 | [226180-repossession.json](./226180-repossession.json) |
 | Reprisal Universe | 8871 | [8871-reprisal-universe.json](./8871-reprisal-universe.json) |
+| Reprobate | 230173 | [230173-reprobate.json](./230173-reprobate.json) |
 | Reprocessing | 399250 | [399250-reprocessing.json](./399250-reprocessing.json) |
 | Reproduction Man | 31755 | [31755-reproduction-man.json](./31755-reproduction-man.json) |
 | reProgram | 128633 | [128633-reprogram.json](./128633-reprogram.json) |
@@ -5685,6 +5688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Rhapsody | 346706 | [346706-robot-rhapsody.json](./346706-robot-rhapsody.json) |
 | Robot Robert | 149048 | [149048-robot-robert.json](./149048-robot-robert.json) |
 | Robot Rumble 2 | 113767 | [113767-robot-rumble-2.json](./113767-robot-rumble-2.json) |
+| Robot Rumpus Royale | 230174 | [230174-robot-rumpus-royale.json](./230174-robot-rumpus-royale.json) |
 | Robot Run | 399877 | [399877-robot-run.json](./399877-robot-run.json) |
 | Robot Sex Party Murder | 186631 | [186631-robot-sex-party-murder.json](./186631-robot-sex-party-murder.json) |
 | Robot Squad Simulator | 119516 | [119516-robot-squad-simulator.json](./119516-robot-squad-simulator.json) |
