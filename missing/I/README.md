@@ -3260,6 +3260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Marines: Spearhead Edition | 25059 | [25059-interstellar-marines-spearhead-edition.json](./25059-interstellar-marines-spearhead-edition.json) |
 | Interstellar Orphan | 178634 | [178634-interstellar-orphan.json](./178634-interstellar-orphan.json) |
 | Interstellar Pilot | 207860 | [207860-interstellar-pilot.json](./207860-interstellar-pilot.json) |
+| Interstellar Pilot 2 | 236167 | [236167-interstellar-pilot-2.json](./236167-interstellar-pilot-2.json) |
 | Interstellar Plunderer | 287003 | [287003-interstellar-plunderer.json](./287003-interstellar-plunderer.json) |
 | Interstellar Prime | 74289 | [74289-interstellar-prime.json](./74289-interstellar-prime.json) |
 | Interstellar Rogue | 119457 | [119457-interstellar-rogue.json](./119457-interstellar-rogue.json) |
