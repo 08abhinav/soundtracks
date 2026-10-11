@@ -610,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Taisen Online: Teito no Nagai Hibi | 63132 | [63132-sakura-taisen-online-teito-no-nagai-hibi.json](./63132-sakura-taisen-online-teito-no-nagai-hibi.json) |
 | Sakura Taisen Steam Radio Show | 62125 | [62125-sakura-taisen-steam-radio-show.json](./62125-sakura-taisen-steam-radio-show.json) |
 | Sakura Taisen: Kinematron Hanagumi Mail | 62122 | [62122-sakura-taisen-kinematron-hanagumi-mail.json](./62122-sakura-taisen-kinematron-hanagumi-mail.json) |
+| Sakura Trick | 231838 | [231838-sakura-trick.json](./231838-sakura-trick.json) |
 | Sakura Trick: Special Edition | 191564 | [191564-sakura-trick-special-edition.json](./191564-sakura-trick-special-edition.json) |
 | Sakura Tsuushin: Remaking Memories | 209624 | [209624-sakura-tsuushin-remaking-memories.json](./209624-sakura-tsuushin-remaking-memories.json) |
 | Sakura Wars | 96392 | [96392-sakura-wars.json](./96392-sakura-wars.json) |
@@ -6820,7 +6821,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimCity 2000 | 330 | [330-simcity-2000.json](./330-simcity-2000.json) |
 | SimCity 2000 Urban Renewal Kit | 130907 | [130907-simcity-2000-urban-renewal-kit.json](./130907-simcity-2000-urban-renewal-kit.json) |
 | SimCity 3000 Unlimited | 28955 | [28955-simcity-3000-unlimited.json](./28955-simcity-3000-unlimited.json) |
-| SimCity 4 | 1275 | [1275-simcity-4.json](./1275-simcity-4.json) |
 | SimCity 4: Rush Hour | 18494 | [18494-simcity-4-rush-hour.json](./18494-simcity-4-rush-hour.json) |
 | SimCity 64 | 1492 | [1492-simcity-64.json](./1492-simcity-64.json) |
 | SimCity BuildIt | 20053 | [20053-simcity-buildit.json](./20053-simcity-buildit.json) |
@@ -16781,6 +16781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: Console Edition - The Royal | 198396 | [198396-stellaris-console-edition-the-royal.json](./198396-stellaris-console-edition-the-royal.json) |
 | Stellaris: Cosmic Storms | 298124 | [298124-stellaris-cosmic-storms.json](./298124-stellaris-cosmic-storms.json) |
 | Stellaris: Distant Stars | 114427 | [114427-stellaris-distant-stars.json](./114427-stellaris-distant-stars.json) |
+| Stellaris: First Contact | 231845 | [231845-stellaris-first-contact.json](./231845-stellaris-first-contact.json) |
 | Stellaris: Galaxy Command | 138570 | [138570-stellaris-galaxy-command.json](./138570-stellaris-galaxy-command.json) |
 | Stellaris: Galaxy Edition | 53670 | [53670-stellaris-galaxy-edition.json](./53670-stellaris-galaxy-edition.json) |
 | Stellaris: Grand Archive | 298125 | [298125-stellaris-grand-archive.json](./298125-stellaris-grand-archive.json) |
