@@ -1642,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm World | 36062 | [36062-farm-world.json](./36062-farm-world.json) |
 | Farm Your Friends | 132276 | [132276-farm-your-friends.json](./132276-farm-your-friends.json) |
 | Farm2 + | 406082 | [406082-farm2.json](./406082-farm2.json) |
+| Farma Force | 236319 | [236319-farma-force.json](./236319-farma-force.json) |
 | Farmageddon | 362279 | [362279-farmageddon.json](./362279-farmageddon.json) |
 | Farmageddon: Undead | 302380 | [302380-farmageddon-undead.json](./302380-farmageddon-undead.json) |
 | Farmagia | 250918 | [250918-farmagia.json](./250918-farmagia.json) |
@@ -2306,6 +2307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed and Grow: Crazy Fish | 193799 | [193799-feed-and-grow-crazy-fish.json](./193799-feed-and-grow-crazy-fish.json) |
 | Feed and Grow: Fish | 19876 | [19876-feed-and-grow-fish.json](./19876-feed-and-grow-fish.json) |
 | Feed Garfield | 63865 | [63865-feed-garfield.json](./63865-feed-garfield.json) |
+| Feed Him | 236176 | [236176-feed-him.json](./236176-feed-him.json) |
 | Feed It | 403808 | [403808-feed-it.json](./403808-feed-it.json) |
 | Feed It Souls | 278719 | [278719-feed-it-souls.json](./278719-feed-it-souls.json) |
 | Feed Me | 381015 | [381015-feed-me.json](./381015-feed-me.json) |
@@ -4446,6 +4448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Raiden's | 327792 | [327792-five-nights-at-raidens.json](./327792-five-nights-at-raidens.json) |
 | Five Nights at Roner's: Remastered | 330734 | [330734-five-nights-at-roners-remastered.json](./330734-five-nights-at-roners-remastered.json) |
 | Five Nights at Silver Pine | 297079 | [297079-five-nights-at-silver-pine.json](./297079-five-nights-at-silver-pine.json) |
+| Five Nights At Smog's Poutinerie | 236315 | [236315-five-nights-at-smogs-poutinerie.json](./236315-five-nights-at-smogs-poutinerie.json) |
 | Five Nights at Sonic's 3 Reburned | 182216 | [182216-five-nights-at-sonics-3-reburned.json](./182216-five-nights-at-sonics-3-reburned.json) |
 | Five Nights at Sonic's 4: Halloween Edition | 413155 | [413155-five-nights-at-sonics-4-halloween-edition.json](./413155-five-nights-at-sonics-4-halloween-edition.json) |
 | Five Nights at Sonic's Remastered | 333960 | [333960-five-nights-at-sonics-remastered.json](./333960-five-nights-at-sonics-remastered.json) |
@@ -7726,6 +7729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggo Swing 'n Grapple | 197194 | [197194-froggo-swing-n-grapple.json](./197194-froggo-swing-n-grapple.json) |
 | Froggo's Adventure: Drifting Sky | 326759 | [326759-froggos-adventure-drifting-sky.json](./326759-froggos-adventure-drifting-sky.json) |
 | Froggo's Quest | 418715 | [418715-froggos-quest.json](./418715-froggos-quest.json) |
+| Froggonit | 236179 | [236179-froggonit.json](./236179-froggonit.json) |
 | Froggy | 193290 | [193290-froggy.json](./193290-froggy.json) |
 | Froggy | 227828 | [227828-froggy.json](./227828-froggy.json) |
 | Froggy Brews | 351261 | [351261-froggy-brews.json](./351261-froggy-brews.json) |
@@ -8658,6 +8662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fushigi Deka | 59442 | [59442-fushigi-deka.json](./59442-fushigi-deka.json) |
 | Fushigi Densha | 143636 | [143636-fushigi-densha.json](./143636-fushigi-densha.json) |
 | Fushigi na Sekai no Kankou Nikki | 309359 | [309359-fushigi-na-sekai-no-kankou-nikki.json](./309359-fushigi-na-sekai-no-kankou-nikki.json) |
+| Fushigi no Daibouken Chiruno Kenzan! | 236317 | [236317-fushigi-no-daibouken-chiruno-kenzan.json](./236317-fushigi-no-daibouken-chiruno-kenzan.json) |
 | Fushigi no Daibouken: Cirno Kenzan! | 142878 | [142878-fushigi-no-daibouken-cirno-kenzan.json](./142878-fushigi-no-daibouken-cirno-kenzan.json) |
 | Fushigi no Daibouken: Cirno Kenzan! 2 | 142894 | [142894-fushigi-no-daibouken-cirno-kenzan-2.json](./142894-fushigi-no-daibouken-cirno-kenzan-2.json) |
 | Fushigi no Daibouken: Cirno Kenzan! 2+1 | 214426 | [214426-fushigi-no-daibouken-cirno-kenzan-2-1.json](./214426-fushigi-no-daibouken-cirno-kenzan-2-1.json) |
