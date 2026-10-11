@@ -4234,6 +4234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rgby | 199473 | [199473-rgby.json](./199473-rgby.json) |
 | RGT Cycling | 138571 | [138571-rgt-cycling.json](./138571-rgt-cycling.json) |
 | RGX Showdown | 109588 | [109588-rgx-showdown.json](./109588-rgx-showdown.json) |
+| Rhapsody II: Ballad of the Little Princess | 238937 | [238937-rhapsody-ii-ballad-of-the-little-princess.json](./238937-rhapsody-ii-ballad-of-the-little-princess.json) |
 | Rhapsody III: Memories of Marl Kingdom | 238548 | [238548-rhapsody-iii-memories-of-marl-kingdom.json](./238548-rhapsody-iii-memories-of-marl-kingdom.json) |
 | Rhapsody in Scarlet | 416111 | [416111-rhapsody-in-scarlet.json](./416111-rhapsody-in-scarlet.json) |
 | Rhapsody of Zephyr | 70961 | [70961-rhapsody-of-zephyr.json](./70961-rhapsody-of-zephyr.json) |
@@ -7994,6 +7995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Random Speedmap Pack 3 | 311463 | [311463-russian-random-speedmap-pack-3.json](./311463-russian-random-speedmap-pack-3.json) |
 | Russian Reality | 111381 | [111381-russian-reality.json](./111381-russian-reality.json) |
 | Russian Roads | 81228 | [81228-russian-roads.json](./81228-russian-roads.json) |
+| Russian Roulette | 238972 | [238972-russian-roulette.json](./238972-russian-roulette.json) |
 | Russian Roulette | 265941 | [265941-russian-roulette.json](./265941-russian-roulette.json) |
 | Russian Roulette II: The Next Worlds | 265942 | [265942-russian-roulette-ii-the-next-worlds.json](./265942-russian-roulette-ii-the-next-worlds.json) |
 | Russian Roulette: One Life | 194564 | [194564-russian-roulette-one-life.json](./194564-russian-roulette-one-life.json) |
