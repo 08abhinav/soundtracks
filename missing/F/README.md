@@ -984,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Billiards | 161760 | [161760-family-billiards.json](./161760-family-billiards.json) |
 | Family Bowling | 135648 | [135648-family-bowling.json](./135648-family-bowling.json) |
 | Family Bundle | 370825 | [370825-family-bundle.json](./370825-family-bundle.json) |
+| Family Business | 235669 | [235669-family-business.json](./235669-family-business.json) |
 | Family Card Games Fun Pack | 82139 | [82139-family-card-games-fun-pack.json](./82139-family-card-games-fun-pack.json) |
 | Family Challenge Wii | 268127 | [268127-family-challenge-wii.json](./268127-family-challenge-wii.json) |
 | Family Chess | 207877 | [207877-family-chess.json](./207877-family-chess.json) |
@@ -4110,6 +4111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishbait | 373634 | [373634-fishbait.json](./373634-fishbait.json) |
 | Fishbones | 122194 | [122194-fishbones.json](./122194-fishbones.json) |
 | Fishbowl | 68629 | [68629-fishbowl.json](./68629-fishbowl.json) |
+| Fishbowl Kid | 235787 | [235787-fishbowl-kid.json](./235787-fishbowl-kid.json) |
 | FishCo | 206764 | [206764-fishco.json](./206764-fishco.json) |
 | Fishdom: Deep Dive | 197359 | [197359-fishdom-deep-dive.json](./197359-fishdom-deep-dive.json) |
 | Fishdom: Seasons Under the Sea | 294387 | [294387-fishdom-seasons-under-the-sea.json](./294387-fishdom-seasons-under-the-sea.json) |
@@ -8573,6 +8575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Farm | 329099 | [329099-furry-farm.json](./329099-furry-farm.json) |
 | Furry Feet Girls | 301999 | [301999-furry-feet-girls.json](./301999-furry-feet-girls.json) |
 | Furry Femboys | 247961 | [247961-furry-femboys.json](./247961-furry-femboys.json) |
+| Furry Femmes: Making an Obedient Bitch | 235659 | [235659-furry-femmes-making-an-obedient-bitch.json](./235659-furry-femmes-making-an-obedient-bitch.json) |
 | Furry Fetishists | 286501 | [286501-furry-fetishists.json](./286501-furry-fetishists.json) |
 | Furry from Outer Space | 310485 | [310485-furry-from-outer-space.json](./310485-furry-from-outer-space.json) |
 | Furry Furries | 244386 | [244386-furry-furries.json](./244386-furry-furries.json) |
