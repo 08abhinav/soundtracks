@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe Owner Simulator | 191851 | [191851-cafe-owner-simulator.json](./191851-cafe-owner-simulator.json) |
 | Cafe Owner Simulator: Farm DLC | 296632 | [296632-cafe-owner-simulator-farm-dlc.json](./296632-cafe-owner-simulator-farm-dlc.json) |
 | Cafe Panic | 296075 | [296075-cafe-panic.json](./296075-cafe-panic.json) |
+| Cafe Simulator | 235790 | [235790-cafe-simulator.json](./235790-cafe-simulator.json) |
 | Cafe Simulator | 380048 | [380048-cafe-simulator.json](./380048-cafe-simulator.json) |
 | Café Stella and the Reaper's Butterflies | 195774 | [195774-cafe-stella-and-the-reapers-butterflies.json](./195774-cafe-stella-and-the-reapers-butterflies.json) |
 | Cafe Tsuku: Is the order a Heart? | 204711 | [204711-cafe-tsuku-is-the-order-a-heart.json](./204711-cafe-tsuku-is-the-order-a-heart.json) |
@@ -1086,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Contraption's Safari Park | 386975 | [386975-captain-contraptions-safari-park.json](./386975-captain-contraptions-safari-park.json) |
 | Captain Corgi: Planetary Problem Solver | 369090 | [369090-captain-corgi-planetary-problem-solver.json](./369090-captain-corgi-planetary-problem-solver.json) |
 | Captain DinoHater | 180848 | [180848-captain-dinohater.json](./180848-captain-dinohater.json) |
+| Captain Disaster and the Two Worlds of Riskara | 235664 | [235664-captain-disaster-and-the-two-worlds-of-riskara.json](./235664-captain-disaster-and-the-two-worlds-of-riskara.json) |
 | Captain Disaster in: Death Has A Million Stomping Boots | 133978 | [133978-captain-disaster-in-death-has-a-million-stomping-boots.json](./133978-captain-disaster-in-death-has-a-million-stomping-boots.json) |
 | Captain Dodger: The Hidden Cargo | 242039 | [242039-captain-dodger-the-hidden-cargo.json](./242039-captain-dodger-the-hidden-cargo.json) |
 | Captain Ed | 48539 | [48539-captain-ed.json](./48539-captain-ed.json) |
@@ -5504,6 +5506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circus Lido | 37724 | [37724-circus-lido.json](./37724-circus-lido.json) |
 | Circus Maximus | 23760 | [23760-circus-maximus.json](./23760-circus-maximus.json) |
 | Circus of Clowns | 342085 | [342085-circus-of-clowns.json](./342085-circus-of-clowns.json) |
+| CircusTroupe | 235779 | [235779-circustroupe.json](./235779-circustroupe.json) |
 | Circut's Edge | 277032 | [277032-circuts-edge.json](./277032-circuts-edge.json) |
 | Cirno! Lifts a Boulder | 386967 | [386967-cirno-lifts-a-boulder.json](./386967-cirno-lifts-a-boulder.json) |
 | Cirno's Battle of Faith | 152500 | [152500-cirnos-battle-of-faith.json](./152500-cirnos-battle-of-faith.json) |
@@ -11461,6 +11464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crymachina: Standard Uniform Set | 312116 | [312116-crymachina-standard-uniform-set.json](./312116-crymachina-standard-uniform-set.json) |
 | Crymachina: Trinity Set | 312115 | [312115-crymachina-trinity-set.json](./312115-crymachina-trinity-set.json) |
 | Cryo | 374688 | [374688-cryo.json](./374688-cryo.json) |
+| Cryodeath VR | 235666 | [235666-cryodeath-vr.json](./235666-cryodeath-vr.json) |
 | Cryogenesis | 217413 | [217413-cryogenesis.json](./217413-cryogenesis.json) |
 | Cryogenics | 221846 | [221846-cryogenics.json](./221846-cryogenics.json) |
 | Cryohazard | 219151 | [219151-cryohazard.json](./219151-cryohazard.json) |
