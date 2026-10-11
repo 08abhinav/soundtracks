@@ -3580,6 +3580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resistance Rocks | 270711 | [270711-resistance-rocks.json](./270711-resistance-rocks.json) |
 | Resistance: The 8th Wave | 192689 | [192689-resistance-the-8th-wave.json](./192689-resistance-the-8th-wave.json) |
 | Resistor | 252786 | [252786-resistor.json](./252786-resistor.json) |
+| reSnake | 230734 | [230734-resnake.json](./230734-resnake.json) |
 | Resobeat | 377046 | [377046-resobeat.json](./377046-resobeat.json) |
 | Resolutiion | 121996 | [121996-resolutiion.json](./121996-resolutiion.json) |
 | Resonance | 276280 | [276280-resonance.json](./276280-resonance.json) |
@@ -5984,6 +5985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocketball | 47184 | [47184-rocketball.json](./47184-rocketball.json) |
 | Rocketball: Championship Cup | 175706 | [175706-rocketball-championship-cup.json](./175706-rocketball-championship-cup.json) |
 | RocketBallZ | 188454 | [188454-rocketballz.json](./188454-rocketballz.json) |
+| RocketBird Classic | 230725 | [230725-rocketbird-classic.json](./230725-rocketbird-classic.json) |
 | Rocketbirds 2: Mind Control | 170517 | [170517-rocketbirds-2-mind-control.json](./170517-rocketbirds-2-mind-control.json) |
 | Rocketbirds 2: Rescue Bundle | 170516 | [170516-rocketbirds-2-rescue-bundle.json](./170516-rocketbirds-2-rescue-bundle.json) |
 | Rocketboarder | 118793 | [118793-rocketboarder.json](./118793-rocketboarder.json) |
@@ -6174,6 +6176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky Racers | 130834 | [130834-rocky-racers.json](./130834-rocky-racers.json) |
 | Rocky Ride | 169801 | [169801-rocky-ride.json](./169801-rocky-ride.json) |
 | Rocky Rodent | 42648 | [42648-rocky-rodent.json](./42648-rocky-rodent.json) |
+| Rocky Stairs | 230726 | [230726-rocky-stairs.json](./230726-rocky-stairs.json) |
 | Rocky Towers: Puzzle Defense | 237378 | [237378-rocky-towers-puzzle-defense.json](./237378-rocky-towers-puzzle-defense.json) |
 | Rocky Wings | 265184 | [265184-rocky-wings.json](./265184-rocky-wings.json) |
 | Rocky's Boots | 72978 | [72978-rockys-boots.json](./72978-rockys-boots.json) |
