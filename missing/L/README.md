@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LadyBug | 141525 | [141525-ladybug.json](./141525-ladybug.json) |
 | Ladybug dress up | 101588 | [101588-ladybug-dress-up.json](./101588-ladybug-dress-up.json) |
 | Ladybug Quest | 113753 | [113753-ladybug-quest.json](./113753-ladybug-quest.json) |
+| Ladybugs and Storm | 236736 | [236736-ladybugs-and-storm.json](./236736-ladybugs-and-storm.json) |
 | Ladylike | 152769 | [152769-ladylike.json](./152769-ladylike.json) |
 | Laetus. | 198297 | [198297-laetus.json](./198297-laetus.json) |
 | Laf Pak | 279740 | [279740-laf-pak.json](./279740-laf-pak.json) |
@@ -4601,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Z-Night | 118446 | [118446-long-z-night.json](./118446-long-z-night.json) |
 | Lóng zhī Gǔ: Huáijiù Fú | 398574 | [398574-long-zhi-gu-huaijiu-fu.json](./398574-long-zhi-gu-huaijiu-fu.json) |
 | Longboard Stunts and Tricks | 99618 | [99618-longboard-stunts-and-tricks.json](./99618-longboard-stunts-and-tricks.json) |
+| Longborn | 236745 | [236745-longborn.json](./236745-longborn.json) |
 | Longbow Anthology | 70358 | [70358-longbow-anthology.json](./70358-longbow-anthology.json) |
 | LongCat | 123539 | [123539-longcat.json](./123539-longcat.json) |
 | Longcat Journey | 290314 | [290314-longcat-journey.json](./290314-longcat-journey.json) |
@@ -5013,6 +5015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Crystals | 257427 | [257427-lost-crystals.json](./257427-lost-crystals.json) |
 | Lost Cube | 156619 | [156619-lost-cube.json](./156619-lost-cube.json) |
 | Lost Curse | 356701 | [356701-lost-curse.json](./356701-lost-curse.json) |
+| Lost Day | 236739 | [236739-lost-day.json](./236739-lost-day.json) |
 | Lost Deltarune | 408795 | [408795-lost-deltarune.json](./408795-lost-deltarune.json) |
 | Lost Direction | 229765 | [229765-lost-direction.json](./229765-lost-direction.json) |
 | Lost Dooors | 383641 | [383641-lost-dooors.json](./383641-lost-dooors.json) |
@@ -5404,6 +5407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Bakudan | 152390 | [152390-love-bakudan.json](./152390-love-bakudan.json) |
 | Love Ball | 101111 | [101111-love-ball.json](./101111-love-ball.json) |
 | Love Begins with Goodbye | 344975 | [344975-love-begins-with-goodbye.json](./344975-love-begins-with-goodbye.json) |
+| Love Birds | 236734 | [236734-love-birds.json](./236734-love-birds.json) |
 | Love Bites | 254451 | [254451-love-bites.json](./254451-love-bites.json) |
 | Love Breakout | 280176 | [280176-love-breakout.json](./280176-love-breakout.json) |
 | Love Change | 217949 | [217949-love-change.json](./217949-love-change.json) |
