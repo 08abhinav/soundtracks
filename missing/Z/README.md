@@ -772,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zodiac | 337752 | [337752-zodiac.json](./337752-zodiac.json) |
 | Zodiac Axis | 66437 | [66437-zodiac-axis.json](./66437-zodiac-axis.json) |
 | Zodiac Battles | 106765 | [106765-zodiac-battles.json](./106765-zodiac-battles.json) |
+| Zodiac Cats | 233942 | [233942-zodiac-cats.json](./233942-zodiac-cats.json) |
 | Zodiac DX | 158514 | [158514-zodiac-dx.json](./158514-zodiac-dx.json) |
 | Zodiac Faeries Astrology Adventure | 102818 | [102818-zodiac-faeries-astrology-adventure.json](./102818-zodiac-faeries-astrology-adventure.json) |
 | Zodiac Fantasy 2 | 220142 | [220142-zodiac-fantasy-2.json](./220142-zodiac-fantasy-2.json) |
