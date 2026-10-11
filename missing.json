@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T22:49:45.584Z",
-  "total_missing": 199193,
+  "generated_at": "2026-10-11T23:04:58.870Z",
+  "total_missing": 199243,
   "games": [
     {
       "igdb_id": 191680,
@@ -1021,6 +1021,11 @@
       "igdb_id": 382905,
       "game_name": "10 Days to Save the World",
       "file": "missing/0-9/382905-10-days-to-save-the-world.json"
+    },
+    {
+      "igdb_id": 229848,
+      "game_name": "10 Days with My Devil",
+      "file": "missing/0-9/229848-10-days-with-my-devil.json"
     },
     {
       "igdb_id": 319563,
@@ -5416,6 +5421,11 @@
       "igdb_id": 56551,
       "game_name": "24-ji no Kane to Cinderella ~Halloween Wedding~",
       "file": "missing/0-9/56551-24-ji-no-kane-to-cinderella-halloween-wedding.json"
+    },
+    {
+      "igdb_id": 229853,
+      "game_name": "24-ji, Kimi no Heart wa Nusumareru: Kaitou Jade",
+      "file": "missing/0-9/229853-24-ji-kimi-no-heart-wa-nusumareru-kaitou-jade.json"
     },
     {
       "igdb_id": 91747,
@@ -13321,6 +13331,11 @@
       "igdb_id": 271299,
       "game_name": "A Quick One Before Azathoth Devours Fodrian",
       "file": "missing/A/271299-a-quick-one-before-azathoth-devours-fodrian.json"
+    },
+    {
+      "igdb_id": 229561,
+      "game_name": "A Quiet Air",
+      "file": "missing/A/229561-a-quiet-air.json"
     },
     {
       "igdb_id": 294453,
@@ -56863,6 +56878,11 @@
       "file": "missing/A/314015-asphodelium.json"
     },
     {
+      "igdb_id": 229556,
+      "game_name": "Asphodelus",
+      "file": "missing/A/229556-asphodelus.json"
+    },
+    {
       "igdb_id": 418304,
       "game_name": "Asphyx",
       "file": "missing/A/418304-asphyx.json"
@@ -73641,6 +73661,11 @@
       "igdb_id": 154990,
       "game_name": "Banjo-Kazooie: Nostalgia 64",
       "file": "missing/B/154990-banjo-kazooie-nostalgia-64.json"
+    },
+    {
+      "igdb_id": 229855,
+      "game_name": "Banjo-Kazooie: Nuts & Bolts - L.O.G.'s Lost Challenges",
+      "file": "missing/B/229855-banjo-kazooie-nuts-and-bolts-l-o-g-s-lost-challenges.json"
     },
     {
       "igdb_id": 234122,
@@ -95318,6 +95343,11 @@
       "file": "missing/B/327903-black-mesa-military.json"
     },
     {
+      "igdb_id": 229858,
+      "game_name": "Black Mesa: Xen",
+      "file": "missing/B/229858-black-mesa-xen.json"
+    },
+    {
       "igdb_id": 10049,
       "game_name": "Black Mirror III: Final Fear",
       "file": "missing/B/10049-black-mirror-iii-final-fear.json"
@@ -97271,6 +97301,11 @@
       "igdb_id": 404910,
       "game_name": "Blasphemous II: The Third Sin",
       "file": "missing/B/404910-blasphemous-ii-the-third-sin.json"
+    },
+    {
+      "igdb_id": 229861,
+      "game_name": "Blasphemous: Strife & Ruin",
+      "file": "missing/B/229861-blasphemous-strife-and-ruin.json"
     },
     {
       "igdb_id": 165391,
@@ -174653,6 +174688,16 @@
       "file": "missing/C/196663-crash-bandicoot-action-pack.json"
     },
     {
+      "igdb_id": 229857,
+      "game_name": "Crash Bandicoot N. Sane Trilogy: Future Tense",
+      "file": "missing/C/229857-crash-bandicoot-n-sane-trilogy-future-tense.json"
+    },
+    {
+      "igdb_id": 229856,
+      "game_name": "Crash Bandicoot N. Sane Trilogy: Stormy Ascent",
+      "file": "missing/C/229856-crash-bandicoot-n-sane-trilogy-stormy-ascent.json"
+    },
+    {
       "igdb_id": 374279,
       "game_name": "Crash Bandicoot N.Finite",
       "file": "missing/C/374279-crash-bandicoot-n-finite.json"
@@ -213778,6 +213823,11 @@
       "file": "missing/D/46024-deus-ex-mankind-divided-day-one-edition.json"
     },
     {
+      "igdb_id": 229860,
+      "game_name": "Deus Ex: Mankind Divided - Desperate Measures",
+      "file": "missing/D/229860-deus-ex-mankind-divided-desperate-measures.json"
+    },
+    {
       "igdb_id": 164802,
       "game_name": "Deus Ex: Mankind Divided - Digital Deluxe Edition",
       "file": "missing/D/164802-deus-ex-mankind-divided-digital-deluxe-edition.json"
@@ -214491,6 +214541,11 @@
       "igdb_id": 397711,
       "game_name": "Deviled Dice",
       "file": "missing/D/397711-deviled-dice.json"
+    },
+    {
+      "igdb_id": 229844,
+      "game_name": "Devilgotchi",
+      "file": "missing/D/229844-devilgotchi.json"
     },
     {
       "igdb_id": 230324,
@@ -216541,6 +216596,11 @@
       "igdb_id": 266078,
       "game_name": "Die in the Dungeon: Origins",
       "file": "missing/D/266078-die-in-the-dungeon-origins.json"
+    },
+    {
+      "igdb_id": 229578,
+      "game_name": "Die Känguru-Verschwörung",
+      "file": "missing/D/229578-die-kanguru-verschworung.json"
     },
     {
       "igdb_id": 81401,
@@ -278928,6 +278988,11 @@
       "file": "missing/F/294038-fallen-king.json"
     },
     {
+      "igdb_id": 229573,
+      "game_name": "Fallen Kingdom",
+      "file": "missing/F/229573-fallen-kingdom.json"
+    },
+    {
       "igdb_id": 75023,
       "game_name": "Fallen Kingdom",
       "file": "missing/F/75023-fallen-kingdom.json"
@@ -294056,6 +294121,11 @@
       "igdb_id": 246450,
       "game_name": "Fire Emblem Engage: Fell Xenologue",
       "file": "missing/F/246450-fire-emblem-engage-fell-xenologue.json"
+    },
+    {
+      "igdb_id": 229859,
+      "game_name": "Fire Emblem Fates: Anna on the Run",
+      "file": "missing/F/229859-fire-emblem-fates-anna-on-the-run.json"
     },
     {
       "igdb_id": 24220,
@@ -329591,6 +329661,11 @@
       "igdb_id": 234086,
       "game_name": "Genjin Show: Tobidase! VB Genjin",
       "file": "missing/G/234086-genjin-show-tobidase-vb-genjin.json"
+    },
+    {
+      "igdb_id": 229846,
+      "game_name": "Genjintch Tamagotchi",
+      "file": "missing/G/229846-genjintch-tamagotchi.json"
     },
     {
       "igdb_id": 285973,
@@ -424348,9 +424423,29 @@
       "file": "missing/J/63563-jikkyou-pawafuru-puroyakyu-95.json"
     },
     {
+      "igdb_id": 229566,
+      "game_name": "Jikkyou Pawafuru Puroyakyu '97: Kaimaku-ban",
+      "file": "missing/J/229566-jikkyou-pawafuru-puroyakyu-97-kaimaku-ban.json"
+    },
+    {
+      "igdb_id": 229571,
+      "game_name": "Jikkyou Pawafuru Puroyakyu '98: Kaimaku-ban",
+      "file": "missing/J/229571-jikkyou-pawafuru-puroyakyu-98-kaimaku-ban.json"
+    },
+    {
+      "igdb_id": 229572,
+      "game_name": "Jikkyou Pawafuru Puroyakyu '98: Kettei-ban",
+      "file": "missing/J/229572-jikkyou-pawafuru-puroyakyu-98-kettei-ban.json"
+    },
+    {
       "igdb_id": 138738,
       "game_name": "Jikkyou Pawafuru Puroyakyu '99: Kaimaku-ban",
       "file": "missing/J/138738-jikkyou-pawafuru-puroyakyu-99-kaimaku-ban.json"
+    },
+    {
+      "igdb_id": 229574,
+      "game_name": "Jikkyou Pawafuru Puroyakyu '99: Kettei-ban",
+      "file": "missing/J/229574-jikkyou-pawafuru-puroyakyu-99-kettei-ban.json"
     },
     {
       "igdb_id": 78581,
@@ -424366,6 +424461,21 @@
       "igdb_id": 69204,
       "game_name": "Jikkyou Pawafuru Puroyakyu 15",
       "file": "missing/J/69204-jikkyou-pawafuru-puroyakyu-15.json"
+    },
+    {
+      "igdb_id": 229575,
+      "game_name": "Jikkyou Pawafuru Puroyakyu 2000: Kaimaku-ban",
+      "file": "missing/J/229575-jikkyou-pawafuru-puroyakyu-2000-kaimaku-ban.json"
+    },
+    {
+      "igdb_id": 229579,
+      "game_name": "Jikkyou Pawafuru Puroyakyu 2001: Kettei-ban",
+      "file": "missing/J/229579-jikkyou-pawafuru-puroyakyu-2001-kettei-ban.json"
+    },
+    {
+      "igdb_id": 229580,
+      "game_name": "Jikkyou Pawafuru Puroyakyu 2002 Haru",
+      "file": "missing/J/229580-jikkyou-pawafuru-puroyakyu-2002-haru.json"
     },
     {
       "igdb_id": 98518,
@@ -424443,6 +424553,21 @@
       "file": "missing/J/98511-jikkyou-pawafuru-puroyakyu-championship-2017.json"
     },
     {
+      "igdb_id": 229557,
+      "game_name": "Jikkyou Pawafuru Puroyakyu Next",
+      "file": "missing/J/229557-jikkyou-pawafuru-puroyakyu-next.json"
+    },
+    {
+      "igdb_id": 229582,
+      "game_name": "Jikkyou Pawafuru Puroyakyu Portable",
+      "file": "missing/J/229582-jikkyou-pawafuru-puroyakyu-portable.json"
+    },
+    {
+      "igdb_id": 229583,
+      "game_name": "Jikkyou Pawafuru Puroyakyu Portable 2",
+      "file": "missing/J/229583-jikkyou-pawafuru-puroyakyu-portable-2.json"
+    },
+    {
       "igdb_id": 229584,
       "game_name": "Jikkyou Pawafuru Puroyakyu Portable 3",
       "file": "missing/J/229584-jikkyou-pawafuru-puroyakyu-portable-3.json"
@@ -424453,9 +424578,24 @@
       "file": "missing/J/229585-jikkyou-pawafuru-puroyakyu-portable-4.json"
     },
     {
+      "igdb_id": 229569,
+      "game_name": "Jikkyou Pawafuru Puroyakyu S",
+      "file": "missing/J/229569-jikkyou-pawafuru-puroyakyu-s.json"
+    },
+    {
       "igdb_id": 229183,
       "game_name": "Jikkyou Pawafuru Puroyakyu Wii",
       "file": "missing/J/229183-jikkyou-pawafuru-puroyakyu-wii.json"
+    },
+    {
+      "igdb_id": 229577,
+      "game_name": "Jikkyou Pawafuru Puroyakyu: Dreamcast Edition",
+      "file": "missing/J/229577-jikkyou-pawafuru-puroyakyu-dreamcast-edition.json"
+    },
+    {
+      "igdb_id": 229581,
+      "game_name": "Jikkyou Pawafuru Puroyakyu: Premium-ban",
+      "file": "missing/J/229581-jikkyou-pawafuru-puroyakyu-premium-ban.json"
     },
     {
       "igdb_id": 98014,
@@ -461438,6 +461578,11 @@
       "file": "missing/L/5612-lego-island.json"
     },
     {
+      "igdb_id": 229841,
+      "game_name": "LEGO Island 2: The Brickster's Revenge",
+      "file": "missing/L/229841-lego-island-2-the-bricksters-revenge.json"
+    },
+    {
       "igdb_id": 229925,
       "game_name": "LEGO Island 2: The Brickster's Revenge",
       "file": "missing/L/229925-lego-island-2-the-bricksters-revenge.json"
@@ -461596,6 +461741,11 @@
       "igdb_id": 422,
       "game_name": "LEGO Racers",
       "file": "missing/L/422-lego-racers.json"
+    },
+    {
+      "igdb_id": 229843,
+      "game_name": "LEGO Racers 2",
+      "file": "missing/L/229843-lego-racers-2.json"
     },
     {
       "igdb_id": 390,
@@ -461796,6 +461946,11 @@
       "igdb_id": 201140,
       "game_name": "LEGO Star Wars: The Skywalker Saga - Trooper Pack",
       "file": "missing/L/201140-lego-star-wars-the-skywalker-saga-trooper-pack.json"
+    },
+    {
+      "igdb_id": 229840,
+      "game_name": "LEGO Star Wars: The Video Game",
+      "file": "missing/L/229840-lego-star-wars-the-video-game.json"
     },
     {
       "igdb_id": 125320,
@@ -516873,6 +517028,11 @@
       "file": "missing/M/320330-mickeys-robot-laboratory.json"
     },
     {
+      "igdb_id": 229851,
+      "game_name": "Mickey's Speedway USA",
+      "file": "missing/M/229851-mickeys-speedway-usa.json"
+    },
+    {
       "igdb_id": 3408,
       "game_name": "Mickey's Speedway USA",
       "file": "missing/M/3408-mickeys-speedway-usa.json"
@@ -538148,6 +538308,11 @@
       "file": "missing/M/23793-mortal-kombat-armageddon-premium-edition.json"
     },
     {
+      "igdb_id": 229852,
+      "game_name": "Mortal Kombat: Deadly Alliance",
+      "file": "missing/M/229852-mortal-kombat-deadly-alliance.json"
+    },
+    {
       "igdb_id": 1613,
       "game_name": "Mortal Kombat: Deception",
       "file": "missing/M/1613-mortal-kombat-deception.json"
@@ -539246,6 +539411,11 @@
       "igdb_id": 357401,
       "game_name": "Mothman's Caravan",
       "file": "missing/M/357401-mothmans-caravan.json"
+    },
+    {
+      "igdb_id": 229847,
+      "game_name": "Mothra Tamagotchi",
+      "file": "missing/M/229847-mothra-tamagotchi.json"
     },
     {
       "igdb_id": 403639,
@@ -541156,6 +541326,11 @@
       "igdb_id": 377798,
       "game_name": "Movie Theater Simulator",
       "file": "missing/M/377798-movie-theater-simulator.json"
+    },
+    {
+      "igdb_id": 229563,
+      "game_name": "Movie to Movie",
+      "file": "missing/M/229563-movie-to-movie.json"
     },
     {
       "igdb_id": 150536,
@@ -559406,6 +559581,11 @@
       "igdb_id": 242990,
       "game_name": "Need for Speed: Underground",
       "file": "missing/N/242990-need-for-speed-underground.json"
+    },
+    {
+      "igdb_id": 229854,
+      "game_name": "Need for Speed: Underground 2",
+      "file": "missing/N/229854-need-for-speed-underground-2.json"
     },
     {
       "igdb_id": 165680,
@@ -578088,6 +578268,11 @@
       "file": "missing/N/56867-nvidia-vr-funhouse.json"
     },
     {
+      "igdb_id": 229558,
+      "game_name": "NvmU",
+      "file": "missing/N/229558-nvmu.json"
+    },
+    {
       "igdb_id": 96725,
       "game_name": "NY City Bank Manager 2018",
       "file": "missing/N/96725-ny-city-bank-manager-2018.json"
@@ -596128,6 +596313,11 @@
       "file": "missing/O/348464-overgrown.json"
     },
     {
+      "igdb_id": 229559,
+      "game_name": "Overgrowth",
+      "file": "missing/O/229559-overgrowth.json"
+    },
+    {
       "igdb_id": 285447,
       "game_name": "Overgun",
       "file": "missing/O/285447-overgun.json"
@@ -607516,6 +607706,11 @@
       "igdb_id": 396373,
       "game_name": "Pawapuro Adventures",
       "file": "missing/P/396373-pawapuro-adventures.json"
+    },
+    {
+      "igdb_id": 229570,
+      "game_name": "Pawapuro GB",
+      "file": "missing/P/229570-pawapuro-gb.json"
     },
     {
       "igdb_id": 63285,
@@ -641633,6 +641828,11 @@
       "file": "missing/P/108275-press-inc.json"
     },
     {
+      "igdb_id": 229568,
+      "game_name": "Press Play",
+      "file": "missing/P/229568-press-play.json"
+    },
+    {
       "igdb_id": 207222,
       "game_name": "Press the alphabetically first letter",
       "file": "missing/P/207222-press-the-alphabetically-first-letter.json"
@@ -656391,6 +656591,11 @@
       "igdb_id": 252081,
       "game_name": "Q4Max",
       "file": "missing/Q/252081-q4max.json"
+    },
+    {
+      "igdb_id": 229560,
+      "game_name": "Q73",
+      "file": "missing/Q/229560-q73.json"
     },
     {
       "igdb_id": 207717,
@@ -707348,6 +707553,11 @@
       "file": "missing/S/138194-santas-xmas-adventure.json"
     },
     {
+      "igdb_id": 229849,
+      "game_name": "Santaclautchi",
+      "file": "missing/S/229849-santaclautchi.json"
+    },
+    {
       "igdb_id": 141733,
       "game_name": "SantaCraft",
       "file": "missing/S/141733-santacraft.json"
@@ -717261,6 +717471,11 @@
       "igdb_id": 1575,
       "game_name": "Sega Rally 3",
       "file": "missing/S/1575-sega-rally-3.json"
+    },
+    {
+      "igdb_id": 229864,
+      "game_name": "Sega Rally Championship",
+      "file": "missing/S/229864-sega-rally-championship.json"
     },
     {
       "igdb_id": 374706,
@@ -786923,6 +787138,11 @@
       "file": "missing/S/389600-stirge-hunters.json"
     },
     {
+      "igdb_id": 229562,
+      "game_name": "Stitch",
+      "file": "missing/S/229562-stitch.json"
+    },
+    {
       "igdb_id": 388232,
       "game_name": "Stitch Head",
       "file": "missing/S/388232-stitch-head.json"
@@ -822058,6 +822278,11 @@
       "file": "missing/T/77580-tamagotchi-no-puchi-puchi-omisecchi-ninko-no-omise-atsumemashita.json"
     },
     {
+      "igdb_id": 229842,
+      "game_name": "Tamagotchi Osutchi",
+      "file": "missing/T/229842-tamagotchi-osutchi.json"
+    },
+    {
       "igdb_id": 338111,
       "game_name": "Tamagotchi Plaza: Nintendo Switch 2 Edition",
       "file": "missing/T/338111-tamagotchi-plaza-nintendo-switch-2-edition.json"
@@ -822096,6 +822321,11 @@
       "igdb_id": 380687,
       "game_name": "Tamamon",
       "file": "missing/T/380687-tamamon.json"
+    },
+    {
+      "igdb_id": 229850,
+      "game_name": "TamaOtchi",
+      "file": "missing/T/229850-tamaotchi.json"
     },
     {
       "igdb_id": 339483,
@@ -840771,6 +841001,11 @@
       "igdb_id": 230742,
       "game_name": "The Crank Gym",
       "file": "missing/T/230742-the-crank-gym.json"
+    },
+    {
+      "igdb_id": 229564,
+      "game_name": "The Crash: Storm Clouds of the Mind",
+      "file": "missing/T/229564-the-crash-storm-clouds-of-the-mind.json"
     },
     {
       "igdb_id": 304159,
@@ -982353,6 +982588,11 @@
       "file": "missing/Y/79348-yarudora-series-vol-4-yukiwari-no-hana.json"
     },
     {
+      "igdb_id": 229845,
+      "game_name": "Yasashii Tamagotchi",
+      "file": "missing/Y/229845-yasashii-tamagotchi.json"
+    },
+    {
       "igdb_id": 122326,
       "game_name": "YASG",
       "file": "missing/Y/122326-yasg.json"
@@ -986203,6 +986443,11 @@
       "file": "missing/Y/30044-yozora-rhapsody.json"
     },
     {
+      "igdb_id": 229565,
+      "game_name": "Yqriel",
+      "file": "missing/Y/229565-yqriel.json"
+    },
+    {
       "igdb_id": 166757,
       "game_name": "YRek Lost In Portals",
       "file": "missing/Y/166757-yrek-lost-in-portals.json"
@@ -987411,6 +987656,11 @@
       "igdb_id": 229681,
       "game_name": "Yume Nikki: Atari 2600",
       "file": "missing/Y/229681-yume-nikki-atari-2600.json"
+    },
+    {
+      "igdb_id": 229567,
+      "game_name": "Yume Nikki: Date Poniko!",
+      "file": "missing/Y/229567-yume-nikki-date-poniko.json"
     },
     {
       "igdb_id": 262283,
