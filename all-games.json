@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T21:40:39.408Z",
-  "total_soundtracks": 1483,
+  "generated_at": "2026-10-11T21:45:14.243Z",
+  "total_soundtracks": 1484,
   "games": [
     {
       "igdb_id": 7522,
@@ -5979,6 +5979,20 @@
           "spotify_url": "https://open.spotify.com/album/6w8Vd1h9utHK0DvBWbBV0C",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 1319,
+      "game_name": "Gears of War: Judgment",
+      "game_url": "https://ostdb.net/games/gears-of-war-judgment",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/97/78/07/97780790-2ca3-dd67-99e6-046195296997/5053760103080_cover.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Gears of War: Judgment (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2IG4Z5PhGsEviHXRUgqZkF",
+          "apple_music_url": "https://music.apple.com/us/album/gears-of-war-judgment-original-soundtrack/1676105165",
+          "album_link_url": "https://album.link/i/1676105165"
         }
       ]
     },
