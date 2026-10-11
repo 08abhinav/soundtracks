@@ -3249,6 +3249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilly's Rescue | 164908 | [164908-lillys-rescue.json](./164908-lillys-rescue.json) |
 | Lilly's Saga: The Stones of Evergreen | 360131 | [360131-lillys-saga-the-stones-of-evergreen.json](./360131-lillys-saga-the-stones-of-evergreen.json) |
 | Lillyann | 186186 | [186186-lillyann.json](./186186-lillyann.json) |
+| Lillybug | 227724 | [227724-lillybug.json](./227724-lillybug.json) |
 | Lillysia | 235695 | [235695-lillysia.json](./235695-lillysia.json) |
 | Lilulu | 149412 | [149412-lilulu.json](./149412-lilulu.json) |
 | Lily | 112746 | [112746-lily.json](./112746-lily.json) |
