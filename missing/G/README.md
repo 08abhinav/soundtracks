@@ -1063,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangster Alley | 18555 | [18555-gangster-alley.json](./18555-gangster-alley.json) |
 | Gangster Bros | 282577 | [282577-gangster-bros.json](./282577-gangster-bros.json) |
 | Gangster City Cruise - Mobster Crime Shooter | 88636 | [88636-gangster-city-cruise-mobster-crime-shooter.json](./88636-gangster-city-cruise-mobster-crime-shooter.json) |
+| Gangster City: Mafia Car Driving | 234645 | [234645-gangster-city-mafia-car-driving.json](./234645-gangster-city-mafia-car-driving.json) |
 | Gangster Coin Pusher | 255236 | [255236-gangster-coin-pusher.json](./255236-gangster-coin-pusher.json) |
 | Gangster Granny | 38894 | [38894-gangster-granny.json](./38894-gangster-granny.json) |
 | Gangster Life: Criminal Untold , Cars, Theft, Police | 241889 | [241889-gangster-life-criminal-untold-cars-theft-police.json](./241889-gangster-life-criminal-untold-cars-theft-police.json) |
@@ -3858,6 +3859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gogo's Crazy Bones | 47901 | [47901-gogos-crazy-bones.json](./47901-gogos-crazy-bones.json) |
 | Gogofish! Redux: GOTD Edition | 176819 | [176819-gogofish-redux-gotd-edition.json](./176819-gogofish-redux-gotd-edition.json) |
 | GoGoGo | 270934 | [270934-gogogo.json](./270934-gogogo.json) |
+| Gogogo! | 234491 | [234491-gogogo.json](./234491-gogogo.json) |
 | Gogoo | 151001 | [151001-gogoo.json](./151001-gogoo.json) |
 | Gogte | 188523 | [188523-gogte.json](./188523-gogte.json) |
 | Gohan Quest | 96103 | [96103-gohan-quest.json](./96103-gohan-quest.json) |
