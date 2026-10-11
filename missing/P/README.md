@@ -1669,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Games: 15 in 1 | 147911 | [147911-party-games-15-in-1.json](./147911-party-games-15-in-1.json) |
 | Party Golf | 31009 | [31009-party-golf.json](./31009-party-golf.json) |
 | Party Hard | 12070 | [12070-party-hard.json](./12070-party-hard.json) |
+| Party Hard 2: Collector's Edition | 237866 | [237866-party-hard-2-collectors-edition.json](./237866-party-hard-2-collectors-edition.json) |
 | Party Hard Pack | 237984 | [237984-party-hard-pack.json](./237984-party-hard-pack.json) |
 | Party Hard Tycoon | 23180 | [23180-party-hard-tycoon.json](./23180-party-hard-tycoon.json) |
 | Party Hard: High Crimes | 171630 | [171630-party-hard-high-crimes.json](./171630-party-hard-high-crimes.json) |
@@ -2971,6 +2972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5 Pocket Edition | 321602 | [321602-persona-5-pocket-edition.json](./321602-persona-5-pocket-edition.json) |
 | Persona 5 Royal: 1 More Edition | 261539 | [261539-persona-5-royal-1-more-edition.json](./261539-persona-5-royal-1-more-edition.json) |
 | Persona 5 Strikers | 117731 | [117731-persona-5-strikers.json](./117731-persona-5-strikers.json) |
+| Persona 5 Strikers: Digital Deluxe Edition | 237861 | [237861-persona-5-strikers-digital-deluxe-edition.json](./237861-persona-5-strikers-digital-deluxe-edition.json) |
 | Persona 5 Strikers: Legacy BGM Pack | 383606 | [383606-persona-5-strikers-legacy-bgm-pack.json](./383606-persona-5-strikers-legacy-bgm-pack.json) |
 | Persona 5 Tactica: DLC All in One | 277311 | [277311-persona-5-tactica-dlc-all-in-one.json](./277311-persona-5-tactica-dlc-all-in-one.json) |
 | Persona 5: Dancing in Starlight - Atlus Selection Set | 362255 | [362255-persona-5-dancing-in-starlight-atlus-selection-set.json](./362255-persona-5-dancing-in-starlight-atlus-selection-set.json) |
@@ -5588,6 +5590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Bar Tycoon: Discovery Edition | 330205 | [330205-pizza-bar-tycoon-discovery-edition.json](./330205-pizza-bar-tycoon-discovery-edition.json) |
 | Pizza Bar Tycoon: Expansion Pack 1 | 237977 | [237977-pizza-bar-tycoon-expansion-pack-1.json](./237977-pizza-bar-tycoon-expansion-pack-1.json) |
 | Pizza Bar Tycoon: Expansion Pack 2 | 237978 | [237978-pizza-bar-tycoon-expansion-pack-2.json](./237978-pizza-bar-tycoon-expansion-pack-2.json) |
+| Pizza Bar Tycoon: Extended Edition | 237864 | [237864-pizza-bar-tycoon-extended-edition.json](./237864-pizza-bar-tycoon-extended-edition.json) |
 | Pizza Bar Tycoon: Legendary Edition | 332508 | [332508-pizza-bar-tycoon-legendary-edition.json](./332508-pizza-bar-tycoon-legendary-edition.json) |
 | Pizza Bar Tycoon: Multiplayer Edition | 247594 | [247594-pizza-bar-tycoon-multiplayer-edition.json](./247594-pizza-bar-tycoon-multiplayer-edition.json) |
 | Pizza Bar Tycoon: Multiplayer Mode | 246888 | [246888-pizza-bar-tycoon-multiplayer-mode.json](./246888-pizza-bar-tycoon-multiplayer-mode.json) |
