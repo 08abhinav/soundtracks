@@ -2318,6 +2318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peaceful Dog Escape | 231923 | [231923-peaceful-dog-escape.json](./231923-peaceful-dog-escape.json) |
 | Peaceful Fishing Story | 390502 | [390502-peaceful-fishing-story.json](./390502-peaceful-fishing-story.json) |
 | Peaceful Gunner | 153389 | [153389-peaceful-gunner.json](./153389-peaceful-gunner.json) |
+| Peaceful Lands | 236866 | [236866-peaceful-lands.json](./236866-peaceful-lands.json) |
 | Peacemaker: Bloody Emperor | 264665 | [264665-peacemaker-bloody-emperor.json](./264665-peacemaker-bloody-emperor.json) |
 | Peacemaker: Protect, Search & Destroy | 382364 | [382364-peacemaker-protect-search-and-destroy.json](./382364-peacemaker-protect-search-and-destroy.json) |
 | Peacequarium | 312707 | [312707-peacequarium.json](./312707-peacequarium.json) |
@@ -6691,6 +6692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogoduck | 243965 | [243965-pogoduck.json](./243965-pogoduck.json) |
 | Pogoman GO! | 80514 | [80514-pogoman-go.json](./80514-pogoman-go.json) |
 | Pogopa | 406855 | [406855-pogopa.json](./406855-pogopa.json) |
+| Pogoppl | 236749 | [236749-pogoppl.json](./236749-pogoppl.json) |
 | Pogs: Power of Golden Slammer | 348430 | [348430-pogs-power-of-golden-slammer.json](./348430-pogs-power-of-golden-slammer.json) |
 | Pogui | 379056 | [379056-pogui.json](./379056-pogui.json) |
 | Pohinki Simulator | 333623 | [333623-pohinki-simulator.json](./333623-pohinki-simulator.json) |
@@ -9855,6 +9857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Entropy | 269086 | [269086-project-entropy.json](./269086-project-entropy.json) |
 | Project Epic | 324096 | [324096-project-epic.json](./324096-project-epic.json) |
 | Project Epoch | 357170 | [357170-project-epoch.json](./357170-project-epoch.json) |
+| Project Eternal | 236865 | [236865-project-eternal.json](./236865-project-eternal.json) |
 | Project Ethos | 317864 | [317864-project-ethos.json](./317864-project-ethos.json) |
 | Project Evolve | 306067 | [306067-project-evolve.json](./306067-project-evolve.json) |
 | Project Exhibited | 132216 | [132216-project-exhibited.json](./132216-project-exhibited.json) |
