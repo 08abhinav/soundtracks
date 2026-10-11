@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E'tude Prologue: Yureugoku Kokoro no Katachi | 204482 | [204482-etude-prologue-yureugoku-kokoro-no-katachi.json](./204482-etude-prologue-yureugoku-kokoro-no-katachi.json) |
 | E'tude Prologue: Yureugoku Kokoro no Katachi Portable | 127143 | [127143-etude-prologue-yureugoku-kokoro-no-katachi-portable.json](./127143-etude-prologue-yureugoku-kokoro-no-katachi-portable.json) |
 | E13ven Minute Train Ride | 340546 | [340546-e13ven-minute-train-ride.json](./340546-e13ven-minute-train-ride.json) |
+| E30 Drift Car Simulator | 234532 | [234532-e30-drift-car-simulator.json](./234532-e30-drift-car-simulator.json) |
 | E4C: Final Salvation | 328459 | [328459-e4c-final-salvation.json](./328459-e4c-final-salvation.json) |
 | E4M1 remake | 308277 | [308277-e4m1-remake.json](./308277-e4m1-remake.json) |
 | E6 Connect | 142714 | [142714-e6-connect.json](./142714-e6-connect.json) |
@@ -264,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthbreakers | 126458 | [126458-earthbreakers.json](./126458-earthbreakers.json) |
 | EarthCraft 2: World Exploration & Survival | 99705 | [99705-earthcraft-2-world-exploration-and-survival.json](./99705-earthcraft-2-world-exploration-and-survival.json) |
 | Earthflow: Fate of the Stargazer | 52205 | [52205-earthflow-fate-of-the-stargazer.json](./52205-earthflow-fate-of-the-stargazer.json) |
+| EarthGang: Mirrorland | 234503 | [234503-earthgang-mirrorland.json](./234503-earthgang-mirrorland.json) |
 | Earthion | 281015 | [281015-earthion.json](./281015-earthion.json) |
 | EarthKart | 269029 | [269029-earthkart.json](./269029-earthkart.json) |
 | Earthless | 252866 | [252866-earthless.json](./252866-earthless.json) |
