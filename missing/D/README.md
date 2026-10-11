@@ -2417,6 +2417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Weight | 336123 | [336123-dead-weight.json](./336123-dead-weight.json) |
 | Dead Witch in Night Sky | 394161 | [394161-dead-witch-in-night-sky.json](./394161-dead-witch-in-night-sky.json) |
 | Dead World Heroes | 221185 | [221185-dead-world-heroes.json](./221185-dead-world-heroes.json) |
+| Dead World: La Argentina Muerta | 237246 | [237246-dead-world-la-argentina-muerta.json](./237246-dead-world-la-argentina-muerta.json) |
 | Dead Years | 19582 | [19582-dead-years.json](./19582-dead-years.json) |
 | Dead Z Meat | 147083 | [147083-dead-z-meat.json](./147083-dead-z-meat.json) |
 | Dead Zed | 122128 | [122128-dead-zed.json](./122128-dead-zed.json) |
@@ -2835,6 +2836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Remains | 333380 | [333380-death-remains.json](./333380-death-remains.json) |
 | Death Report | 336708 | [336708-death-report.json](./336708-death-report.json) |
 | Death ring | 282006 | [282006-death-ring.json](./282006-death-ring.json) |
+| Death Road | 237264 | [237264-death-road.json](./237264-death-road.json) |
 | Death Road to Canada | 21634 | [21634-death-road-to-canada.json](./21634-death-road-to-canada.json) |
 | Death Room | 75156 | [75156-death-room.json](./75156-death-room.json) |
 | Death Rpg | 116313 | [116313-death-rpg.json](./116313-death-rpg.json) |
@@ -3212,6 +3214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Fear | 46057 | [46057-deep-fear.json](./46057-deep-fear.json) |
 | Deep Fishing | 188091 | [188091-deep-fishing.json](./188091-deep-fishing.json) |
 | Deep Forest Chapter 2 | 362931 | [362931-deep-forest-chapter-2.json](./362931-deep-forest-chapter-2.json) |
+| Deep Freeze | 237411 | [237411-deep-freeze.json](./237411-deep-freeze.json) |
 | Deep Freeze | 44757 | [44757-deep-freeze.json](./44757-deep-freeze.json) |
 | Deep Fried Nikki | 229667 | [229667-deep-fried-nikki.json](./229667-deep-fried-nikki.json) |
 | Deep Fringe | 335419 | [335419-deep-fringe.json](./335419-deep-fringe.json) |
@@ -11265,6 +11268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Hunter Survival | 240881 | [240881-dungeon-hunter-survival.json](./240881-dungeon-hunter-survival.json) |
 | Dungeon Hunter: Alliance | 21140 | [21140-dungeon-hunter-alliance.json](./21140-dungeon-hunter-alliance.json) |
 | Dungeon in a Bottle | 222353 | [222353-dungeon-in-a-bottle.json](./222353-dungeon-in-a-bottle.json) |
+| Dungeon in Grid Puzzles | 237244 | [237244-dungeon-in-grid-puzzles.json](./237244-dungeon-in-grid-puzzles.json) |
 | Dungeon Inn | 262882 | [262882-dungeon-inn.json](./262882-dungeon-inn.json) |
 | Dungeon Island | 137550 | [137550-dungeon-island.json](./137550-dungeon-island.json) |
 | Dungeon Janitor | 345605 | [345605-dungeon-janitor.json](./345605-dungeon-janitor.json) |
@@ -11601,6 +11605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungless 2 | 164512 | [164512-dungless-2.json](./164512-dungless-2.json) |
 | Dungman: The Dungeon Crawler | 214016 | [214016-dungman-the-dungeon-crawler.json](./214016-dungman-the-dungeon-crawler.json) |
 | Dungreed | 76816 | [76816-dungreed.json](./76816-dungreed.json) |
+| DunHero | 237242 | [237242-dunhero.json](./237242-dunhero.json) |
 | Dunia: The North Wood | 254776 | [254776-dunia-the-north-wood.json](./254776-dunia-the-north-wood.json) |
 | Dunidle Idle RPG | 227477 | [227477-dunidle-idle-rpg.json](./227477-dunidle-idle-rpg.json) |
 | Dunjonquest: Curse of Ra | 94549 | [94549-dunjonquest-curse-of-ra.json](./94549-dunjonquest-curse-of-ra.json) |
