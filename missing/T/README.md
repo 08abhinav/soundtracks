@@ -6298,6 +6298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life 2: Haunted Hills world | 171398 | [171398-the-game-of-life-2-haunted-hills-world.json](./171398-the-game-of-life-2-haunted-hills-world.json) |
 | The Game of Life 2: Sandy Shores World | 171592 | [171592-the-game-of-life-2-sandy-shores-world.json](./171592-the-game-of-life-2-sandy-shores-world.json) |
 | The Game of Life 2: Sweet Haven World | 207800 | [207800-the-game-of-life-2-sweet-haven-world.json](./207800-the-game-of-life-2-sweet-haven-world.json) |
+| The Game of Life 2: Under the Sea | 227729 | [227729-the-game-of-life-2-under-the-sea.json](./227729-the-game-of-life-2-under-the-sea.json) |
 | The Game of Life: RPG Jinsei Game | 48819 | [48819-the-game-of-life-rpg-jinsei-game.json](./48819-the-game-of-life-rpg-jinsei-game.json) |
 | The Game of The Playful | 230930 | [230930-the-game-of-the-playful.json](./230930-the-game-of-the-playful.json) |
 | The Game of Unknown | 195127 | [195127-the-game-of-unknown.json](./195127-the-game-of-unknown.json) |
@@ -15426,6 +15427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobacco Business Simulator | 362176 | [362176-tobacco-business-simulator.json](./362176-tobacco-business-simulator.json) |
 | Tobacco Shop Simulator | 319666 | [319666-tobacco-shop-simulator.json](./319666-tobacco-shop-simulator.json) |
 | TOBAFCASS | 12887 | [12887-tobafcass.json](./12887-tobafcass.json) |
+| Tobakero | 227736 | [227736-tobakero.json](./227736-tobakero.json) |
 | Tobal 2 | 1662 | [1662-tobal-2.json](./1662-tobal-2.json) |
 | Tobari 2: Dream Ocean | 135815 | [135815-tobari-2-dream-ocean.json](./135815-tobari-2-dream-ocean.json) |
 | Tobari and the Vampire Alchemist | 398568 | [398568-tobari-and-the-vampire-alchemist.json](./398568-tobari-and-the-vampire-alchemist.json) |
