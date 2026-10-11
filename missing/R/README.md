@@ -5272,6 +5272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Construction Simulator | 10777 | [10777-road-construction-simulator.json](./10777-road-construction-simulator.json) |
 | Road Dealer Simulator | 253571 | [253571-road-dealer-simulator.json](./253571-road-dealer-simulator.json) |
 | Road Diner Simulator | 190463 | [190463-road-diner-simulator.json](./190463-road-diner-simulator.json) |
+| Road Domination | 236860 | [236860-road-domination.json](./236860-road-domination.json) |
 | Road Drawing 3D | 262337 | [262337-road-drawing-3d.json](./262337-road-drawing-3d.json) |
 | Road Fighter | 4607 | [4607-road-fighter.json](./4607-road-fighter.json) |
 | Road Hell | 317564 | [317564-road-hell.json](./317564-road-hell.json) |
