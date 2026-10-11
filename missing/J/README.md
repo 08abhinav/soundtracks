@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.B. Harold: Blue Chicago Blues | 4308 | [4308-j-b-harold-blue-chicago-blues.json](./4308-j-b-harold-blue-chicago-blues.json) |
 | J.B. Harold: Murder Club | 320847 | [320847-j-b-harold-murder-club.json](./320847-j-b-harold-murder-club.json) |
 | J.D. Arcades | 319584 | [319584-j-d-arcades.json](./319584-j-d-arcades.json) |
+| J.League 3D Stage | 234089 | [234089-j-league-3d-stage.json](./234089-j-league-3d-stage.json) |
 | J.League Big Wave Soccer | 65030 | [65030-j-league-big-wave-soccer.json](./65030-j-league-big-wave-soccer.json) |
 | J.League Dynamite Soccer 64 | 3519 | [3519-j-league-dynamite-soccer-64.json](./3519-j-league-dynamite-soccer-64.json) |
 | J.League Eleven Beat 1997 | 3520 | [3520-j-league-eleven-beat-1997.json](./3520-j-league-eleven-beat-1997.json) |
@@ -2643,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Thanks | 267905 | [267905-just-thanks.json](./267905-just-thanks.json) |
 | Just Touch The WhiteBox!!! | 262355 | [262355-just-touch-the-whitebox.json](./262355-just-touch-the-whitebox.json) |
 | Just Two | 299732 | [299732-just-two.json](./299732-just-two.json) |
+| Just Wak and Beats | 233959 | [233959-just-wak-and-beats.json](./233959-just-wak-and-beats.json) |
 | Just Walk | 303603 | [303603-just-walk.json](./303603-just-walk.json) |
 | Just War Trains | 313752 | [313752-just-war-trains.json](./313752-just-war-trains.json) |
 | Just Xiangqi | 235701 | [235701-just-xiangqi.json](./235701-just-xiangqi.json) |
