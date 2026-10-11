@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| F Class Adventurer | 231955 | [231955-f-class-adventurer.json](./231955-f-class-adventurer.json) |
 | F Fanatic | 402468 | [402468-f-fanatic.json](./402468-f-fanatic.json) |
 | F-1 | 398651 | [398651-f-1.json](./398651-f-1.json) |
 | F-1 Chequered Flag | 59977 | [59977-f-1-chequered-flag.json](./59977-f-1-chequered-flag.json) |
@@ -2434,6 +2435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Femboy Bangers 2 | 219295 | [219295-femboy-bangers-2.json](./219295-femboy-bangers-2.json) |
 | Femboy Bangers: Pub & Grill | 170495 | [170495-femboy-bangers-pub-and-grill.json](./170495-femboy-bangers-pub-and-grill.json) |
 | Femboy Called It “Massage” | 370477 | [370477-femboy-called-it-massage.json](./370477-femboy-called-it-massage.json) |
+| Femboy Fun | 231782 | [231782-femboy-fun.json](./231782-femboy-fun.json) |
 | Femboy Next Door | 405697 | [405697-femboy-next-door.json](./405697-femboy-next-door.json) |
 | Femboys of the Phalanx | 171068 | [171068-femboys-of-the-phalanx.json](./171068-femboys-of-the-phalanx.json) |
 | Femdom First Timers | 392445 | [392445-femdom-first-timers.json](./392445-femdom-first-timers.json) |
@@ -3418,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Upgrade | 132584 | [132584-final-upgrade.json](./132584-final-upgrade.json) |
 | Final Vendetta | 191756 | [191756-final-vendetta.json](./191756-final-vendetta.json) |
 | Final War | 368510 | [368510-final-war.json](./368510-final-war.json) |
+| Final Warfare | 231956 | [231956-final-warfare.json](./231956-final-warfare.json) |
 | Final World | 90646 | [90646-final-world.json](./90646-final-world.json) |
 | FinalAdventure | 118811 | [118811-finaladventure.json](./118811-finaladventure.json) |
 | Finalloop | 348779 | [348779-finalloop.json](./348779-finalloop.json) |
@@ -3463,6 +3466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Him | 292771 | [292771-find-him.json](./292771-find-him.json) |
 | Find HQ: Police Station | 331123 | [331123-find-hq-police-station.json](./331123-find-hq-police-station.json) |
 | Find It - Tap the Different | 55102 | [55102-find-it-tap-the-different.json](./55102-find-it-tap-the-different.json) |
+| Find It: Hidden Object | 231953 | [231953-find-it-hidden-object.json](./231953-find-it-hidden-object.json) |
 | Find It! | 366431 | [366431-find-it.json](./366431-find-it.json) |
 | Find It! Brain Training Challenge | 345992 | [345992-find-it-brain-training-challenge.json](./345992-find-it-brain-training-challenge.json) |
 | Find it! Festival in the Hotel | 311629 | [311629-find-it-festival-in-the-hotel.json](./311629-find-it-festival-in-the-hotel.json) |
@@ -5758,6 +5762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Academy | 124015 | [124015-football-academy.json](./124015-football-academy.json) |
 | Football Academy Clicker | 152488 | [152488-football-academy-clicker.json](./152488-football-academy-clicker.json) |
 | Football Battle | 187243 | [187243-football-battle.json](./187243-football-battle.json) |
+| Football Battle: Touchdown! | 231952 | [231952-football-battle-touchdown.json](./231952-football-battle-touchdown.json) |
 | Football Betting | 167246 | [167246-football-betting.json](./167246-football-betting.json) |
 | Football Bus Battle 2021 | 153978 | [153978-football-bus-battle-2021.json](./153978-football-bus-battle-2021.json) |
 | Football Career | 343455 | [343455-football-career.json](./343455-football-career.json) |
@@ -7712,6 +7717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger | 218581 | [218581-frogger.json](./218581-frogger.json) |
 | Frogger | 218590 | [218590-frogger.json](./218590-frogger.json) |
 | Frogger | 218591 | [218591-frogger.json](./218591-frogger.json) |
+| Frogger | 231813 | [231813-frogger.json](./231813-frogger.json) |
 | Frogger | 239552 | [239552-frogger.json](./239552-frogger.json) |
 | Frogger | 240485 | [240485-frogger.json](./240485-frogger.json) |
 | Frogger | 246398 | [246398-frogger.json](./246398-frogger.json) |
@@ -8226,6 +8232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fule | 305537 | [305537-fule.json](./305537-fule.json) |
 | Fulfill the Dream | 338811 | [338811-fulfill-the-dream.json](./338811-fulfill-the-dream.json) |
 | Fulfillment Center Simulator | 320935 | [320935-fulfillment-center-simulator.json](./320935-fulfillment-center-simulator.json) |
+| Fulger McQueen Off road | 231951 | [231951-fulger-mcqueen-off-road.json](./231951-fulger-mcqueen-off-road.json) |
 | Full ADHD | 326669 | [326669-full-adhd.json](./326669-full-adhd.json) |
 | Full Auto | 6998 | [6998-full-auto.json](./6998-full-auto.json) |
 | Full Auto 2: Battlelines | 197931 | [197931-full-auto-2-battlelines.json](./197931-full-auto-2-battlelines.json) |
