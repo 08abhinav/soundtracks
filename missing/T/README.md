@@ -5454,6 +5454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dreadnaught Factor | 5672 | [5672-the-dreadnaught-factor.json](./5672-the-dreadnaught-factor.json) |
 | The Dream | 178413 | [178413-the-dream.json](./178413-the-dream.json) |
 | The Dream Alchemist | 179696 | [179696-the-dream-alchemist.json](./179696-the-dream-alchemist.json) |
+| The Dream Diary | 229259 | [229259-the-dream-diary.json](./229259-the-dream-diary.json) |
 | The Dream Globe | 371989 | [371989-the-dream-globe.json](./371989-the-dream-globe.json) |
 | The Dream Libra Had | 158714 | [158714-the-dream-libra-had.json](./158714-the-dream-libra-had.json) |
 | The Dream Machine | 9826 | [9826-the-dream-machine.json](./9826-the-dream-machine.json) |
@@ -10916,6 +10917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Storyteller | 302369 | [302369-the-storyteller.json](./302369-the-storyteller.json) |
 | The Storyteller | 342841 | [342841-the-storyteller.json](./342841-the-storyteller.json) |
 | The StoryTeller | 324670 | [324670-the-storyteller.json](./324670-the-storyteller.json) |
+| The Strange and Somewhat Sinister Tale of the House at Desert Bridge | 228966 | [228966-the-strange-and-somewhat-sinister-tale-of-the-house-at-desert-bridge.json](./228966-the-strange-and-somewhat-sinister-tale-of-the-house-at-desert-bridge.json) |
 | The Strange Case of Mei Lysel Andi | 257543 | [257543-the-strange-case-of-mei-lysel-andi.json](./257543-the-strange-case-of-mei-lysel-andi.json) |
 | The Strange Story of Brian Fisher: Chapter 2 | 168841 | [168841-the-strange-story-of-brian-fisher-chapter-2.json](./168841-the-strange-story-of-brian-fisher-chapter-2.json) |
 | The Stranger | 57143 | [57143-the-stranger.json](./57143-the-stranger.json) |
@@ -15735,6 +15737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom and Jerry: Refriger-Raiders | 355622 | [355622-tom-and-jerry-refriger-raiders.json](./355622-tom-and-jerry-refriger-raiders.json) |
 | Tom and Jerry: The Magic Ring | 8030 | [8030-tom-and-jerry-the-magic-ring.json](./8030-tom-and-jerry-the-magic-ring.json) |
 | Tom and Jerry: The Movie | 8043 | [8043-tom-and-jerry-the-movie.json](./8043-tom-and-jerry-the-movie.json) |
+| Tom Clancy's 3 Pack | 228965 | [228965-tom-clancys-3-pack.json](./228965-tom-clancys-3-pack.json) |
 | Tom Clancy's Action Pack Limited Edition | 43283 | [43283-tom-clancys-action-pack-limited-edition.json](./43283-tom-clancys-action-pack-limited-edition.json) |
 | Tom Clancy's EndWar | 7468 | [7468-tom-clancys-endwar.json](./7468-tom-clancys-endwar.json) |
 | Tom Clancy's Ghost Recon | 1294 | [1294-tom-clancys-ghost-recon.json](./1294-tom-clancys-ghost-recon.json) |
@@ -17609,6 +17612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trade Bots: A Technical Analysis Simulation | 233664 | [233664-trade-bots-a-technical-analysis-simulation.json](./233664-trade-bots-a-technical-analysis-simulation.json) |
 | Trade City | 257683 | [257683-trade-city.json](./257683-trade-city.json) |
 | Trade Conquest | 326281 | [326281-trade-conquest.json](./326281-trade-conquest.json) |
+| Trade Effluent | 229258 | [229258-trade-effluent.json](./229258-trade-effluent.json) |
 | Trade Em Up: TCG Empire Shop | 324995 | [324995-trade-em-up-tcg-empire-shop.json](./324995-trade-em-up-tcg-empire-shop.json) |
 | Trade Empire | 391786 | [391786-trade-empire.json](./391786-trade-empire.json) |
 | Trade Empires | 70113 | [70113-trade-empires.json](./70113-trade-empires.json) |
