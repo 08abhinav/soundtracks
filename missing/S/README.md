@@ -5232,6 +5232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei III: Nocturne - HD Remaster | 135913 | [135913-shin-megami-tensei-iii-nocturne-hd-remaster.json](./135913-shin-megami-tensei-iii-nocturne-hd-remaster.json) |
 | Shin Megami Tensei III: Nocturne - HD Remaster | 337718 | [337718-shin-megami-tensei-iii-nocturne-hd-remaster.json](./337718-shin-megami-tensei-iii-nocturne-hd-remaster.json) |
 | Shin Megami Tensei III: Nocturne - HD Remaster: Chronicle Pack | 336554 | [336554-shin-megami-tensei-iii-nocturne-hd-remaster-chronicle-pack.json](./336554-shin-megami-tensei-iii-nocturne-hd-remaster-chronicle-pack.json) |
+| Shin Megami Tensei III: Nocturne - HD Remaster: Maniax Pack | 237996 | [237996-shin-megami-tensei-iii-nocturne-hd-remaster-maniax-pack.json](./237996-shin-megami-tensei-iii-nocturne-hd-remaster-maniax-pack.json) |
 | Shin Megami Tensei III: Nocturne Maniax Chronicle Edition | 231375 | [231375-shin-megami-tensei-iii-nocturne-maniax-chronicle-edition.json](./231375-shin-megami-tensei-iii-nocturne-maniax-chronicle-edition.json) |
 | Shin Megami Tensei IV | 6886 | [6886-shin-megami-tensei-iv.json](./6886-shin-megami-tensei-iv.json) |
 | Shin Megami Tensei V: A Goddess in Training | 238054 | [238054-shin-megami-tensei-v-a-goddess-in-training.json](./238054-shin-megami-tensei-v-a-goddess-in-training.json) |
@@ -7213,6 +7214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinister Outbreak | 366118 | [366118-sinister-outbreak.json](./366118-sinister-outbreak.json) |
 | Sinister Remains | 372020 | [372020-sinister-remains.json](./372020-sinister-remains.json) |
 | Sinister Seven | 275636 | [275636-sinister-seven.json](./275636-sinister-seven.json) |
+| Sinister Squidward | 237869 | [237869-sinister-squidward.json](./237869-sinister-squidward.json) |
 | Sinister Turmoil: Sewers | 242010 | [242010-sinister-turmoil-sewers.json](./242010-sinister-turmoil-sewers.json) |
 | Sinister Zombies | 95604 | [95604-sinister-zombies.json](./95604-sinister-zombies.json) |
 | Sinistrous | 153423 | [153423-sinistrous.json](./153423-sinistrous.json) |
@@ -8791,6 +8793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slymoids | 42178 | [42178-slymoids.json](./42178-slymoids.json) |
 | SM Escalation | 97675 | [97675-sm-escalation.json](./97675-sm-escalation.json) |
 | SM Word | 93041 | [93041-sm-word.json](./93041-sm-word.json) |
+| SM2 | 237870 | [237870-sm2.json](./237870-sm2.json) |
 | SM228: Vanilla | 299850 | [299850-sm228-vanilla.json](./299850-sm228-vanilla.json) |
 | SM64 Colorful Stars | 313109 | [313109-sm64-colorful-stars.json](./313109-sm64-colorful-stars.json) |
 | SM64 Coop Deluxe: Mario in the Multiverse | 378261 | [378261-sm64-coop-deluxe-mario-in-the-multiverse.json](./378261-sm64-coop-deluxe-mario-in-the-multiverse.json) |
@@ -9775,6 +9778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRocket | 189943 | [189943-snowrocket.json](./189943-snowrocket.json) |
 | SnowRunner + Expeditions: A MudRunner Game Bundle | 398397 | [398397-snowrunner-expeditions-a-mudrunner-game-bundle.json](./398397-snowrunner-expeditions-a-mudrunner-game-bundle.json) |
 | SnowRunner + RoadCraft Loyalty Bundle | 398396 | [398396-snowrunner-roadcraft-loyalty-bundle.json](./398396-snowrunner-roadcraft-loyalty-bundle.json) |
+| SnowRunner: 1-Year Anniversary Edition | 237850 | [237850-snowrunner-1-year-anniversary-edition.json](./237850-snowrunner-1-year-anniversary-edition.json) |
 | SnowRunner: 3-Year Anniversary Edition | 230833 | [230833-snowrunner-3-year-anniversary-edition.json](./230833-snowrunner-3-year-anniversary-edition.json) |
 | SnowRunner: 4-Year Anniversary Edition | 284865 | [284865-snowrunner-4-year-anniversary-edition.json](./284865-snowrunner-4-year-anniversary-edition.json) |
 | SnowRunner: 5-Year Anniversary Edition | 397767 | [397767-snowrunner-5-year-anniversary-edition.json](./397767-snowrunner-5-year-anniversary-edition.json) |
@@ -13370,6 +13374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellarium 5 | 295476 | [295476-spellarium-5.json](./295476-spellarium-5.json) |
 | Spellarium 7: Match 3 Puzzle | 166038 | [166038-spellarium-7-match-3-puzzle.json](./166038-spellarium-7-match-3-puzzle.json) |
 | Spellarium 8 Match 3 Puzzle | 202665 | [202665-spellarium-8-match-3-puzzle.json](./202665-spellarium-8-match-3-puzzle.json) |
+| Spellarium 9 | 237867 | [237867-spellarium-9.json](./237867-spellarium-9.json) |
 | Spellbearers | 138670 | [138670-spellbearers.json](./138670-spellbearers.json) |
 | Spellbind | 18183 | [18183-spellbind.json](./18183-spellbind.json) |
 | Spellbind | 35646 | [35646-spellbind.json](./35646-spellbind.json) |
@@ -14279,6 +14284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Action Pak | 56456 | [56456-sports-action-pak.json](./56456-sports-action-pak.json) |
 | Sports Babes | 382284 | [382284-sports-babes.json](./382284-sports-babes.json) |
 | Sports Betting Simulator | 192767 | [192767-sports-betting-simulator.json](./192767-sports-betting-simulator.json) |
+| Sports Car Challenge | 237868 | [237868-sports-car-challenge.json](./237868-sports-car-challenge.json) |
 | Sports Car Challenge 2 | 233243 | [233243-sports-car-challenge-2.json](./233243-sports-car-challenge-2.json) |
 | Sports Car Driver | 187493 | [187493-sports-car-driver.json](./187493-sports-car-driver.json) |
 | Sports Car Driving Simulator 2018 | 100867 | [100867-sports-car-driving-simulator-2018.json](./100867-sports-car-driving-simulator-2018.json) |
@@ -15619,10 +15625,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star-Crossed Myth: The Department of Punishments - Constellations of Love: Dui | 238070 | [238070-star-crossed-myth-the-department-of-punishments-constellations-of-love-dui.json](./238070-star-crossed-myth-the-department-of-punishments-constellations-of-love-dui.json) |
 | Star-Crossed Myth: The Department of Punishments - Constellations of Love: Ichthys | 238072 | [238072-star-crossed-myth-the-department-of-punishments-constellations-of-love-ichthys.json](./238072-star-crossed-myth-the-department-of-punishments-constellations-of-love-ichthys.json) |
 | Star-Crossed Myth: The Department of Punishments - Constellations of Love: Scorpio | 238074 | [238074-star-crossed-myth-the-department-of-punishments-constellations-of-love-scorpio.json](./238074-star-crossed-myth-the-department-of-punishments-constellations-of-love-scorpio.json) |
+| Star-Crossed Myth: The Department of Punishments DLC Pack | 237987 | [237987-star-crossed-myth-the-department-of-punishments-dlc-pack.json](./237987-star-crossed-myth-the-department-of-punishments-dlc-pack.json) |
 | Star-Crossed Myth: The Department of Wishes | 123450 | [123450-star-crossed-myth-the-department-of-wishes.json](./123450-star-crossed-myth-the-department-of-wishes.json) |
 | Star-Crossed Myth: The Department of Wishes - Constellations of Love: Huedhaut | 238071 | [238071-star-crossed-myth-the-department-of-wishes-constellations-of-love-huedhaut.json](./238071-star-crossed-myth-the-department-of-wishes-constellations-of-love-huedhaut.json) |
 | Star-Crossed Myth: The Department of Wishes - Constellations of Love: Leon | 238073 | [238073-star-crossed-myth-the-department-of-wishes-constellations-of-love-leon.json](./238073-star-crossed-myth-the-department-of-wishes-constellations-of-love-leon.json) |
 | Star-Crossed Myth: The Department of Wishes - Constellations of Love: Teorus | 238075 | [238075-star-crossed-myth-the-department-of-wishes-constellations-of-love-teorus.json](./238075-star-crossed-myth-the-department-of-wishes-constellations-of-love-teorus.json) |
+| Star-Crossed Myth: The Department of Wishes DLC Pack | 237988 | [237988-star-crossed-myth-the-department-of-wishes-dlc-pack.json](./237988-star-crossed-myth-the-department-of-wishes-dlc-pack.json) |
 | Star-Crosst | 235836 | [235836-star-crosst.json](./235836-star-crosst.json) |
 | Star-Rocket Strike | 90616 | [90616-star-rocket-strike.json](./90616-star-rocket-strike.json) |
 | Star-Twine | 30800 | [30800-star-twine.json](./30800-star-twine.json) |
@@ -16666,6 +16674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Initiative | 261784 | [261784-stellar-initiative.json](./261784-stellar-initiative.json) |
 | Stellar Insurgency | 239760 | [239760-stellar-insurgency.json](./239760-stellar-insurgency.json) |
 | Stellar Interface + Sudoku Zenkai | 283224 | [283224-stellar-interface-sudoku-zenkai.json](./283224-stellar-interface-sudoku-zenkai.json) |
+| Stellar Interface: Lost Galaxy | 237846 | [237846-stellar-interface-lost-galaxy.json](./237846-stellar-interface-lost-galaxy.json) |
 | Stellar Interface: Stellar Spacecrafts | 243229 | [243229-stellar-interface-stellar-spacecrafts.json](./243229-stellar-interface-stellar-spacecrafts.json) |
 | Stellar Mercenaries | 62773 | [62773-stellar-mercenaries.json](./62773-stellar-mercenaries.json) |
 | Stellar Mess: Operation Kush | 380122 | [380122-stellar-mess-operation-kush.json](./380122-stellar-mess-operation-kush.json) |
