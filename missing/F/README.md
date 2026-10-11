@@ -4216,6 +4216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Valley | 328534 | [328534-fishing-valley.json](./328534-fishing-valley.json) |
 | Fishing: Barents Sea - Complete Edition | 125188 | [125188-fishing-barents-sea-complete-edition.json](./125188-fishing-barents-sea-complete-edition.json) |
 | Fishing: Barents Sea - King Crab | 111647 | [111647-fishing-barents-sea-king-crab.json](./111647-fishing-barents-sea-king-crab.json) |
+| Fishing: Barents Sea: Line and Net Ships | 238945 | [238945-fishing-barents-sea-line-and-net-ships.json](./238945-fishing-barents-sea-line-and-net-ships.json) |
 | Fishing: North Atlantic - A.F. Theriault | 261868 | [261868-fishing-north-atlantic-a-f-theriault.json](./261868-fishing-north-atlantic-a-f-theriault.json) |
 | Fishing: North Atlantic - Complete Edition | 207385 | [207385-fishing-north-atlantic-complete-edition.json](./207385-fishing-north-atlantic-complete-edition.json) |
 | Fishing: North Atlantic - Enhanced Edition | 188055 | [188055-fishing-north-atlantic-enhanced-edition.json](./188055-fishing-north-atlantic-enhanced-edition.json) |
