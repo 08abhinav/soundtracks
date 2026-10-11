@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T20:10:27.090Z",
-  "total_soundtracks": 1474,
+  "generated_at": "2026-10-11T20:10:39.304Z",
+  "total_soundtracks": 1475,
   "games": [
     {
       "igdb_id": 7522,
@@ -13783,6 +13783,20 @@
           "spotify_url": "https://open.spotify.com/album/3AIocpCS06fH9N88lFNolJ",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 1245,
+      "game_name": "Tekken 4",
+      "game_url": "https://ostdb.net/games/tekken-4",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/74/c1/b0/74c1b01e-5f3c-ba74-9afb-f4e1fd1c3627/PA00133827_0_179865_jacket.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "TEKKEN 4 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0ldA7UlWNdVfnImmX4pSUd",
+          "apple_music_url": "https://music.apple.com/us/album/tekken-4-original-soundtrack/1724296166",
+          "album_link_url": "https://album.link/i/1724296166"
         }
       ]
     },
