@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PachiPara 3D: Ooumi Monogatari 2 with Agnes Lum - Pachi-Pro Fuuunroku Hana Kesareta License | 141149 | [141149-pachipara-3d-ooumi-monogatari-2-with-agnes-lum-pachi-pro-fuuunroku-hana-kesareta-license.json](./141149-pachipara-3d-ooumi-monogatari-2-with-agnes-lum-pachi-pro-fuuunroku-hana-kesareta-license.json) |
 | PachiPara 3D: Taikai Monogatari 2 - Pachi Pro Fuuunroku Hana: Kibou to Uragiri no Gakuen Seikatsu | 222330 | [222330-pachipara-3d-taikai-monogatari-2-pachi-pro-fuuunroku-hana-kibou-to-uragiri-no-gakuen-seikatsu.json](./222330-pachipara-3d-taikai-monogatari-2-pachi-pro-fuuunroku-hana-kibou-to-uragiri-no-gakuen-seikatsu.json) |
 | PachiPara Slot+ Pachi-Slot Daiku no Gen-san: Ikuze! Honō no Gen Matsuri-hen | 138686 | [138686-pachipara-slot-pachi-slot-daiku-no-gen-san-ikuze-hono-no-gen-matsuri-hen.json](./138686-pachipara-slot-pachi-slot-daiku-no-gen-san-ikuze-hono-no-gen-matsuri-hen.json) |
+| Pachirisu's Click-Clack Attack! | 234097 | [234097-pachirisus-click-clack-attack.json](./234097-pachirisus-click-clack-attack.json) |
 | Pachisi | 93556 | [93556-pachisi.json](./93556-pachisi.json) |
 | Pachislot Akumajou Dracula | 315523 | [315523-pachislot-akumajou-dracula.json](./315523-pachislot-akumajou-dracula.json) |
 | PachiSlot Aruze Kingdom - Delsol 2 | 75507 | [75507-pachislot-aruze-kingdom-delsol-2.json](./75507-pachislot-aruze-kingdom-delsol-2.json) |
@@ -6166,6 +6167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play the Notes | 328685 | [328685-play-the-notes.json](./328685-play-the-notes.json) |
 | Play Things | 371130 | [371130-play-things.json](./371130-play-things.json) |
 | Play this life | 365675 | [365675-play-this-life.json](./365675-play-this-life.json) |
+| Play to Befriend a Pokémon! | 234098 | [234098-play-to-befriend-a-pokemon.json](./234098-play-to-befriend-a-pokemon.json) |
 | Play To Win | 276788 | [276788-play-to-win.json](./276788-play-to-win.json) |
 | Play With Gilbert: A Small Tail | 157722 | [157722-play-with-gilbert-a-small-tail.json](./157722-play-with-gilbert-a-small-tail.json) |
 | Play With Kizami | 105579 | [105579-play-with-kizami.json](./105579-play-with-kizami.json) |
@@ -6671,6 +6673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pog XL | 236891 | [236891-pog-xl.json](./236891-pog-xl.json) |
 | Pogger's Legends | 319641 | [319641-poggers-legends.json](./319641-poggers-legends.json) |
 | Pogglewash | 249504 | [249504-pogglewash.json](./249504-pogglewash.json) |
+| Poglings | 233946 | [233946-poglings.json](./233946-poglings.json) |
 | Pogn | 205103 | [205103-pogn.json](./205103-pogn.json) |
 | Pogo | 130837 | [130837-pogo.json](./130837-pogo.json) |
 | Pogo | 45363 | [45363-pogo.json](./45363-pogo.json) |
@@ -9274,6 +9277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Architect: Gangs | 203348 | [203348-prison-architect-gangs.json](./203348-prison-architect-gangs.json) |
 | Prison Architect: Going Green | 148530 | [148530-prison-architect-going-green.json](./148530-prison-architect-going-green.json) |
 | Prison Architect: Island Bound | 133947 | [133947-prison-architect-island-bound.json](./133947-prison-architect-island-bound.json) |
+| Prison Architect: Jungle Pack | 234105 | [234105-prison-architect-jungle-pack.json](./234105-prison-architect-jungle-pack.json) |
 | Prison Architect: Mobile | 174886 | [174886-prison-architect-mobile.json](./174886-prison-architect-mobile.json) |
 | Prison Architect: Nintendo Switch Edition | 222532 | [222532-prison-architect-nintendo-switch-edition.json](./222532-prison-architect-nintendo-switch-edition.json) |
 | Prison Architect: Nintendo Switch Edition - Bundle | 222502 | [222502-prison-architect-nintendo-switch-edition-bundle.json](./222502-prison-architect-nintendo-switch-edition-bundle.json) |
