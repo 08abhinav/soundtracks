@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T09:56:26.292Z",
-  "total_soundtracks": 1508,
+  "generated_at": "2026-10-12T10:05:13.531Z",
+  "total_soundtracks": 1509,
   "games": [
     {
       "igdb_id": 7522,
@@ -2943,6 +2943,20 @@
           "spotify_url": "https://music.apple.com/us/album/cloverpit-original-soundtrack-single/1842729435?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1842729435"
+        }
+      ]
+    },
+    {
+      "igdb_id": 18484,
+      "game_name": "Clustertruck",
+      "game_url": "https://ostdb.net/games/clustertruck",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731531b0b8230b1d23d2a91bb8",
+      "albums": [
+        {
+          "album_name": "Clustertruck Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5tOGAXSoOLE8Ya0Yirhpba",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
