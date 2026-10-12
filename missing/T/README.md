@@ -3041,6 +3041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Territorial.io | 152149 | [152149-territorial-io.json](./152149-territorial-io.json) |
 | Territory | 171036 | [171036-territory.json](./171036-territory.json) |
 | Territory | 57897 | [57897-territory.json](./57897-territory.json) |
+| Territory Control 2 | 204844 | [204844-territory-control-2.json](./204844-territory-control-2.json) |
 | Territory War 3 | 234156 | [234156-territory-war-3.json](./234156-territory-war-3.json) |
 | Territory: Farming and Fighting | 230944 | [230944-territory-farming-and-fighting.json](./230944-territory-farming-and-fighting.json) |
 | Terro bot | 108360 | [108360-terro-bot.json](./108360-terro-bot.json) |
@@ -3835,6 +3836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Apple Girl | 379969 | [379969-the-apple-girl.json](./379969-the-apple-girl.json) |
 | The Apple of Our Time | 281374 | [281374-the-apple-of-our-time.json](./281374-the-apple-of-our-time.json) |
 | The Apple Tree | 208594 | [208594-the-apple-tree.json](./208594-the-apple-tree.json) |
+| The Appraiser | 204843 | [204843-the-appraiser.json](./204843-the-appraiser.json) |
 | The Apprentice | 127154 | [127154-the-apprentice.json](./127154-the-apprentice.json) |
 | The Apprentice | 410315 | [410315-the-apprentice.json](./410315-the-apprentice.json) |
 | The Apprentice: Los Angeles | 73815 | [73815-the-apprentice-los-angeles.json](./73815-the-apprentice-los-angeles.json) |
@@ -5574,6 +5576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eastern Edge | 341897 | [341897-the-eastern-edge.json](./341897-the-eastern-edge.json) |
 | The Eastern Sacrifice | 273659 | [273659-the-eastern-sacrifice.json](./273659-the-eastern-sacrifice.json) |
 | The Ebb and Flow of the Tide | 146196 | [146196-the-ebb-and-flow-of-the-tide.json](./146196-the-ebb-and-flow-of-the-tide.json) |
+| The Ecdysis | 204846 | [204846-the-ecdysis.json](./204846-the-ecdysis.json) |
 | The Echo | 353970 | [353970-the-echo.json](./353970-the-echo.json) |
 | The Echoes of Mars | 301841 | [301841-the-echoes-of-mars.json](./301841-the-echoes-of-mars.json) |
 | The Echoes of Me | 398479 | [398479-the-echoes-of-me.json](./398479-the-echoes-of-me.json) |
@@ -6900,6 +6903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hostage | 259480 | [259480-the-hostage.json](./259480-the-hostage.json) |
 | The Hostel: Night Terrors | 249842 | [249842-the-hostel-night-terrors.json](./249842-the-hostel-night-terrors.json) |
 | The Hot Dog would Explode | 109750 | [109750-the-hot-dog-would-explode.json](./109750-the-hot-dog-would-explode.json) |
+| The Hotel | 204850 | [204850-the-hotel.json](./204850-the-hotel.json) |
 | The Hotel | 220675 | [220675-the-hotel.json](./220675-the-hotel.json) |
 | The Hotel | 360649 | [360649-the-hotel.json](./360649-the-hotel.json) |
 | The Hotel 2 | 118436 | [118436-the-hotel-2.json](./118436-the-hotel-2.json) |
@@ -7560,6 +7564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kutar's Tabipero | 340039 | [340039-the-kutars-tabipero.json](./340039-the-kutars-tabipero.json) |
 | The Kwanstone Project | 214751 | [214751-the-kwanstone-project.json](./214751-the-kwanstone-project.json) |
 | The Kynge's Gambit | 211710 | [211710-the-kynges-gambit.json](./211710-the-kynges-gambit.json) |
+| The Lab: Escape Room | 204847 | [204847-the-lab-escape-room.json](./204847-the-lab-escape-room.json) |
 | The Labyrinth | 312740 | [312740-the-labyrinth.json](./312740-the-labyrinth.json) |
 | The Labyrinth Adventure of Demons | 195255 | [195255-the-labyrinth-adventure-of-demons.json](./195255-the-labyrinth-adventure-of-demons.json) |
 | The Labyrinth of Grisaia | 11457 | [11457-the-labyrinth-of-grisaia.json](./11457-the-labyrinth-of-grisaia.json) |
@@ -7902,6 +7907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lawn Zapper | 249095 | [249095-the-lawn-zapper.json](./249095-the-lawn-zapper.json) |
 | The Lawnmower Man | 388206 | [388206-the-lawnmower-man.json](./388206-the-lawnmower-man.json) |
 | The Laws of Probability | 409407 | [409407-the-laws-of-probability.json](./409407-the-laws-of-probability.json) |
+| The Lawyer: Episode 1 - The White Bag | 204848 | [204848-the-lawyer-episode-1-the-white-bag.json](./204848-the-lawyer-episode-1-the-white-bag.json) |
 | The Lays of Althas : Sundered Order | 7575 | [7575-the-lays-of-althas-sundered-order.json](./7575-the-lays-of-althas-sundered-order.json) |
 | The Leak | 270109 | [270109-the-leak.json](./270109-the-leak.json) |
 | The Lécuyer Cult | 254984 | [254984-the-lecuyer-cult.json](./254984-the-lecuyer-cult.json) |
@@ -16805,6 +16811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totem | 32070 | [32070-totem.json](./32070-totem.json) |
 | Totem | 396483 | [396483-totem.json](./396483-totem.json) |
 | Tôtem | 133974 | [133974-totem.json](./133974-totem.json) |
+| Totem 2 | 204851 | [204851-totem-2.json](./204851-totem-2.json) |
 | Totem City | 124017 | [124017-totem-city.json](./124017-totem-city.json) |
 | Totem Runner | 64391 | [64391-totem-runner.json](./64391-totem-runner.json) |
 | Totem Topple | 59524 | [59524-totem-topple.json](./59524-totem-topple.json) |
@@ -16818,6 +16825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totems: Game of Conquest | 200188 | [200188-totems-game-of-conquest.json](./200188-totems-game-of-conquest.json) |
 | Toten | 233486 | [233486-toten.json](./233486-toten.json) |
 | Totenkampf: Anime Waifus vs WW2 Zombies | 398414 | [398414-totenkampf-anime-waifus-vs-ww2-zombies.json](./398414-totenkampf-anime-waifus-vs-ww2-zombies.json) |
+| Toto Quest | 204852 | [204852-toto-quest.json](./204852-toto-quest.json) |
 | Totò Sapore e La Magica Storia Della Pizza | 144813 | [144813-toto-sapore-e-la-magica-storia-della-pizza.json](./144813-toto-sapore-e-la-magica-storia-della-pizza.json) |
 | Toto Temple Deluxe | 20963 | [20963-toto-temple-deluxe.json](./20963-toto-temple-deluxe.json) |
 | Toto's Journey | 410200 | [410200-totos-journey.json](./410200-totos-journey.json) |
