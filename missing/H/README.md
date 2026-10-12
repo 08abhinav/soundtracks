@@ -2547,6 +2547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helix: Descent N Ascent | 284906 | [284906-helix-descent-n-ascent.json](./284906-helix-descent-n-ascent.json) |
 | Helixian | 158154 | [158154-helixian.json](./158154-helixian.json) |
 | Hell | 17612 | [17612-hell.json](./17612-hell.json) |
+| Hell | 184834 | [184834-hell.json](./184834-hell.json) |
 | Hell Apartment | 415448 | [415448-hell-apartment.json](./415448-hell-apartment.json) |
 | Hell Architect | 117590 | [117590-hell-architect.json](./117590-hell-architect.json) |
 | Hell Awaits | 229366 | [229366-hell-awaits.json](./229366-hell-awaits.json) |
@@ -2775,6 +2776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellino | 134003 | [134003-hellino.json](./134003-hellino.json) |
 | Hellion | 28050 | [28050-hellion.json](./28050-hellion.json) |
 | Hellion: Mystery of the Inquisition | 66397 | [66397-hellion-mystery-of-the-inquisition.json](./66397-hellion-mystery-of-the-inquisition.json) |
+| Hellion: The Legend of Jeff | 184841 | [184841-hellion-the-legend-of-jeff.json](./184841-hellion-the-legend-of-jeff.json) |
 | Hellish Fright & Burgers | 380785 | [380785-hellish-fright-and-burgers.json](./380785-hellish-fright-and-burgers.json) |
 | Hellish Inc. | 77425 | [77425-hellish-inc.json](./77425-hellish-inc.json) |
 | Hellish Quart | 139472 | [139472-hellish-quart.json](./139472-hellish-quart.json) |
@@ -3636,6 +3638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermetica | 293875 | [293875-hermetica.json](./293875-hermetica.json) |
 | Hermetica | 388301 | [388301-hermetica.json](./388301-hermetica.json) |
 | Hermeticism | 229733 | [229733-hermeticism.json](./229733-hermeticism.json) |
+| Hermetika VR | 184933 | [184933-hermetika-vr.json](./184933-hermetika-vr.json) |
 | Hermina to Culus: Lillie no Atelier Mou Hitotsu no Monogatari | 123013 | [123013-hermina-to-culus-lillie-no-atelier-mou-hitotsu-no-monogatari.json](./123013-hermina-to-culus-lillie-no-atelier-mou-hitotsu-no-monogatari.json) |
 | Hermit | 291025 | [291025-hermit.json](./291025-hermit.json) |
 | Hermit and Pig | 252738 | [252738-hermit-and-pig.json](./252738-hermit-and-pig.json) |
@@ -7201,6 +7204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Make an Atomic Bomb in Your Garden | 391727 | [391727-how-to-make-an-atomic-bomb-in-your-garden.json](./391727-how-to-make-an-atomic-bomb-in-your-garden.json) |
 | How to Make Slime: DIY Jelly Toy Play Fun | 96975 | [96975-how-to-make-slime-diy-jelly-toy-play-fun.json](./96975-how-to-make-slime-diy-jelly-toy-play-fun.json) |
 | How to Make Slime: DIY Slime Making for Kids | 90838 | [90838-how-to-make-slime-diy-slime-making-for-kids.json](./90838-how-to-make-slime-diy-slime-making-for-kids.json) |
+| How to Mech Friends and Influence Goblings | 184800 | [184800-how-to-mech-friends-and-influence-goblings.json](./184800-how-to-mech-friends-and-influence-goblings.json) |
 | How to Melt a Maiden's Heart | 326280 | [326280-how-to-melt-a-maidens-heart.json](./326280-how-to-melt-a-maidens-heart.json) |
 | How to Raise a Wolf Girl | 122825 | [122825-how-to-raise-a-wolf-girl.json](./122825-how-to-raise-a-wolf-girl.json) |
 | How to Say Goodbye | 126445 | [126445-how-to-say-goodbye.json](./126445-how-to-say-goodbye.json) |
