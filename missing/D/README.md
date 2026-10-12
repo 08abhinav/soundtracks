@@ -7205,6 +7205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge Racing: Charger vs Challenger | 197942 | [197942-dodge-racing-charger-vs-challenger.json](./197942-dodge-racing-charger-vs-challenger.json) |
 | Dodge Spree | 326170 | [326170-dodge-spree.json](./326170-dodge-spree.json) |
 | Dodge Spree X | 318526 | [318526-dodge-spree-x.json](./318526-dodge-spree-x.json) |
+| Dodge That Anvil | 209117 | [209117-dodge-that-anvil.json](./209117-dodge-that-anvil.json) |
 | Dodge that, Ronald! | 312832 | [312832-dodge-that-ronald.json](./312832-dodge-that-ronald.json) |
 | Dodge the Creeps | 344390 | [344390-dodge-the-creeps.json](./344390-dodge-the-creeps.json) |
 | Dodge These Asteroids | 353961 | [353961-dodge-these-asteroids.json](./353961-dodge-these-asteroids.json) |
@@ -7327,6 +7328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogfight | 147831 | [147831-dogfight.json](./147831-dogfight.json) |
 | Dogfight 2187 | 13599 | [13599-dogfight-2187.json](./13599-dogfight-2187.json) |
 | Dogfight: 80 Years of Aerial Warfare | 12051 | [12051-dogfight-80-years-of-aerial-warfare.json](./12051-dogfight-80-years-of-aerial-warfare.json) |
+| Dogfight: Battle for the Pacific | 209118 | [209118-dogfight-battle-for-the-pacific.json](./209118-dogfight-battle-for-the-pacific.json) |
 | Dogfight: Battle in the Skies | 65464 | [65464-dogfight-battle-in-the-skies.json](./65464-dogfight-battle-in-the-skies.json) |
 | Dogfight! | 109451 | [109451-dogfight.json](./109451-dogfight.json) |
 | Dogfighter: World War 2 | 102866 | [102866-dogfighter-world-war-2.json](./102866-dogfighter-world-war-2.json) |
@@ -7636,6 +7638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino Effect | 81766 | [81766-domino-effect.json](./81766-domino-effect.json) |
 | Domino Fever | 383615 | [383615-domino-fever.json](./383615-domino-fever.json) |
 | Domino Fit | 303482 | [303482-domino-fit.json](./303482-domino-fit.json) |
+| Domino Lounge | 209121 | [209121-domino-lounge.json](./209121-domino-lounge.json) |
 | Domino Marble | 238977 | [238977-domino-marble.json](./238977-domino-marble.json) |
 | Domino Master | 21794 | [21794-domino-master.json](./21794-domino-master.json) |
 | Domino Merged Puzzle | 252154 | [252154-domino-merged-puzzle.json](./252154-domino-merged-puzzle.json) |
@@ -8424,6 +8427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora the Explorer: Piñata Party! | 230427 | [230427-dora-the-explorer-pinata-party.json](./230427-dora-the-explorer-pinata-party.json) |
 | Dora the Explorer: Super Star Adventures | 7974 | [7974-dora-the-explorer-super-star-adventures.json](./7974-dora-the-explorer-super-star-adventures.json) |
 | Dora the Explorer: Twins' Day | 275577 | [275577-dora-the-explorer-twins-day.json](./275577-dora-the-explorer-twins-day.json) |
+| Dora the Explorer: World Adventure | 209119 | [209119-dora-the-explorer-world-adventure.json](./209119-dora-the-explorer-world-adventure.json) |
 | Dora's Ballet Adventures | 209122 | [209122-doras-ballet-adventures.json](./209122-doras-ballet-adventures.json) |
 | Dora's Big Birthday Adventure | 202095 | [202095-doras-big-birthday-adventure.json](./202095-doras-big-birthday-adventure.json) |
 | Dora's Cooking Club | 47964 | [47964-doras-cooking-club.json](./47964-doras-cooking-club.json) |
