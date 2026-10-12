@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack Deep | 291711 | [291711-hack-deep.json](./291711-hack-deep.json) |
 | Hack FPS | 151715 | [151715-hack-fps.json](./151715-hack-fps.json) |
 | Hack FPS: Anniversary Edition | 205015 | [205015-hack-fps-anniversary-edition.json](./205015-hack-fps-anniversary-edition.json) |
+| Hack Frauds | 218059 | [218059-hack-frauds.json](./218059-hack-frauds.json) |
 | Hack Grid | 169852 | [169852-hack-grid.json](./169852-hack-grid.json) |
 | Hack Match | 143035 | [143035-hack-match.json](./143035-hack-match.json) |
 | Hack Run | 16323 | [16323-hack-run.json](./16323-hack-run.json) |
@@ -208,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hain | 386980 | [386980-hain.json](./386980-hain.json) |
 | Hainya World | 253494 | [253494-hainya-world.json](./253494-hainya-world.json) |
 | Hair Bows | 156125 | [156125-hair-bows.json](./156125-hair-bows.json) |
+| Hair Boy | 218091 | [218091-hair-boy.json](./218091-hair-boy.json) |
 | Hair Dash | 123038 | [123038-hair-dash.json](./123038-hair-dash.json) |
 | Hair Mower 3D | 137052 | [137052-hair-mower-3d.json](./137052-hair-mower-3d.json) |
 | Hair Nah | 243379 | [243379-hair-nah.json](./243379-hair-nah.json) |
@@ -3996,6 +3998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex | 322575 | [322575-hex.json](./322575-hex.json) |
 | Hex | 72028 | [72028-hex.json](./72028-hex.json) |
 | Hex & Agon | 144351 | [144351-hex-and-agon.json](./144351-hex-and-agon.json) |
+| Hex & Tricks | 218095 | [218095-hex-and-tricks.json](./218095-hex-and-tricks.json) |
 | Hex and Chill | 335365 | [335365-hex-and-chill.json](./335365-hex-and-chill.json) |
 | Hex Blast | 341604 | [341604-hex-blast.json](./341604-hex-blast.json) |
 | Hex Blocks Puzzle | 101754 | [101754-hex-blocks-puzzle.json](./101754-hex-blocks-puzzle.json) |
