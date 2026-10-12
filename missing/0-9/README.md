@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Heures D'Agonie | 257264 | [257264-3-heures-dagonie.json](./257264-3-heures-dagonie.json) |
 | 3 Hit Blunders Bundle | 254418 | [254418-3-hit-blunders-bundle.json](./254418-3-hit-blunders-bundle.json) |
 | 3 in 1 College & Pro Football | 418709 | [418709-3-in-1-college-and-pro-football.json](./418709-3-in-1-college-and-pro-football.json) |
+| 3 in 1: Logical Bundle | 208043 | [208043-3-in-1-logical-bundle.json](./208043-3-in-1-logical-bundle.json) |
 | 3 in 1: Multiplayer Bundle | 223566 | [223566-3-in-1-multiplayer-bundle.json](./223566-3-in-1-multiplayer-bundle.json) |
 | 3 In 1: Sudoku, Mahjong, MineSweeper | 263396 | [263396-3-in-1-sudoku-mahjong-minesweeper.json](./263396-3-in-1-sudoku-mahjong-minesweeper.json) |
 | 3 In Three | 86059 | [86059-3-in-three.json](./86059-3-in-three.json) |
