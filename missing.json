@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T05:49:31.230Z",
-  "total_missing": 200640,
+  "generated_at": "2026-10-12T05:52:45.308Z",
+  "total_missing": 200634,
   "games": [
     {
       "igdb_id": 191680,
@@ -84028,11 +84028,6 @@
       "file": "missing/B/257309-beat-saber.json"
     },
     {
-      "igdb_id": 83731,
-      "game_name": "Beat Saber",
-      "file": "missing/B/83731-beat-saber.json"
-    },
-    {
       "igdb_id": 357222,
       "game_name": "Beat Saber: Britney Spears - \"…Baby One More Time\"",
       "file": "missing/B/357222-beat-saber-britney-spears-baby-one-more-time.json"
@@ -161358,11 +161353,6 @@
       "file": "missing/C/107139-colibrium-zen-colour-matching.json"
     },
     {
-      "igdb_id": 7967,
-      "game_name": "Colin McRae Rally",
-      "file": "missing/C/7967-colin-mcrae-rally.json"
-    },
-    {
       "igdb_id": 235185,
       "game_name": "Colin McRae Rally 2.0",
       "file": "missing/C/235185-colin-mcrae-rally-2-0.json"
@@ -183156,11 +183146,6 @@
       "igdb_id": 179140,
       "game_name": "Crypt of the Fungal Lord",
       "file": "missing/C/179140-crypt-of-the-fungal-lord.json"
-    },
-    {
-      "igdb_id": 7886,
-      "game_name": "Crypt of the NecroDancer",
-      "file": "missing/C/7886-crypt-of-the-necrodancer.json"
     },
     {
       "igdb_id": 26613,
@@ -677708,11 +677693,6 @@
       "file": "missing/R/264880-red-faction-b-e-a-s-t.json"
     },
     {
-      "igdb_id": 846,
-      "game_name": "Red Faction: Guerrilla",
-      "file": "missing/R/846-red-faction-guerrilla.json"
-    },
-    {
       "igdb_id": 28988,
       "game_name": "Red Faction: Guerrilla - Steam Edition",
       "file": "missing/R/28988-red-faction-guerrilla-steam-edition.json"
@@ -725353,11 +725333,6 @@
       "file": "missing/S/145554-serious-sam-the-retro-encounter.json"
     },
     {
-      "igdb_id": 858,
-      "game_name": "Serious Sam: The Second Encounter",
-      "file": "missing/S/858-serious-sam-the-second-encounter.json"
-    },
-    {
       "igdb_id": 116987,
       "game_name": "Serious Sam: Tormental",
       "file": "missing/S/116987-serious-sam-tormental.json"
@@ -761221,11 +761196,6 @@
       "igdb_id": 227806,
       "game_name": "Sonic Advance X",
       "file": "missing/S/227806-sonic-advance-x.json"
-    },
-    {
-      "igdb_id": 7860,
-      "game_name": "Sonic Adventure",
-      "file": "missing/S/7860-sonic-adventure.json"
     },
     {
       "igdb_id": 7858,
