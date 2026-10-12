@@ -3099,6 +3099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tesco: Delivery Dash | 274995 | [274995-tesco-delivery-dash.json](./274995-tesco-delivery-dash.json) |
 | TESD: Into the Vortex | 289808 | [289808-tesd-into-the-vortex.json](./289808-tesd-into-the-vortex.json) |
 | Tesla Asteroids | 178643 | [178643-tesla-asteroids.json](./178643-tesla-asteroids.json) |
+| Tesla Legacy | 209190 | [209190-tesla-legacy.json](./209190-tesla-legacy.json) |
 | Tesla Roadster Going to Mars | 334785 | [334785-tesla-roadster-going-to-mars.json](./334785-tesla-roadster-going-to-mars.json) |
 | Tesla VR | 368353 | [368353-tesla-vr.json](./368353-tesla-vr.json) |
 | Tesla vs Lovecraft | 28592 | [28592-tesla-vs-lovecraft.json](./28592-tesla-vs-lovecraft.json) |
@@ -17072,6 +17073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Spell Bubble: Liz Triangle Song Pack | 209355 | [209355-touhou-spell-bubble-liz-triangle-song-pack.json](./209355-touhou-spell-bubble-liz-triangle-song-pack.json) |
 | Touhou Spell Bubble: Rhythm Game Song Pack | 209443 | [209443-touhou-spell-bubble-rhythm-game-song-pack.json](./209443-touhou-spell-bubble-rhythm-game-song-pack.json) |
 | Touhou Spell Bubble: Scarlet Devil Land Arrange Song Pack Vol.2 | 209468 | [209468-touhou-spell-bubble-scarlet-devil-land-arrange-song-pack-vol-2.json](./209468-touhou-spell-bubble-scarlet-devil-land-arrange-song-pack-vol-2.json) |
+| Touhou Spell Bubble: Side Story Pack - Yukari Arc | 209120 | [209120-touhou-spell-bubble-side-story-pack-yukari-arc.json](./209120-touhou-spell-bubble-side-story-pack-yukari-arc.json) |
 | Touhou Spell Bubble: Side Story Pack Sanae Arc | 144773 | [144773-touhou-spell-bubble-side-story-pack-sanae-arc.json](./144773-touhou-spell-bubble-side-story-pack-sanae-arc.json) |
 | Touhou Spell Bubble: Sound Holic - Song Pack | 224507 | [224507-touhou-spell-bubble-sound-holic-song-pack.json](./224507-touhou-spell-bubble-sound-holic-song-pack.json) |
 | Touhou Spell Bubble: Touhou Collaborations Pack | 209147 | [209147-touhou-spell-bubble-touhou-collaborations-pack.json](./209147-touhou-spell-bubble-touhou-collaborations-pack.json) |
