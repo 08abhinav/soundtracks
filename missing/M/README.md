@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Stalker: Full Metal Force | 221317 | [221317-mad-stalker-full-metal-force.json](./221317-mad-stalker-full-metal-force.json) |
 | Mad Stalker: Full Metal Force | 41408 | [41408-mad-stalker-full-metal-force.json](./41408-mad-stalker-full-metal-force.json) |
 | Mad Streets | 130517 | [130517-mad-streets.json](./130517-mad-streets.json) |
+| Mad Tanks | 179464 | [179464-mad-tanks.json](./179464-mad-tanks.json) |
 | Mad Taxi | 153327 | [153327-mad-taxi.json](./153327-mad-taxi.json) |
 | Mad Taxi Simulator | 411739 | [411739-mad-taxi-simulator.json](./411739-mad-taxi-simulator.json) |
 | Mad Television Tycoon | 353814 | [353814-mad-television-tycoon.json](./353814-mad-television-tycoon.json) |
@@ -1493,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mainland | 274947 | [274947-mainland.json](./274947-mainland.json) |
 | Mainlining | 27568 | [27568-mainlining.json](./27568-mainlining.json) |
 | Mainly at Rest | 165669 | [165669-mainly-at-rest.json](./165669-mainly-at-rest.json) |
+| Maintenance | 179465 | [179465-maintenance.json](./179465-maintenance.json) |
 | Maintenance Crew | 295331 | [295331-maintenance-crew.json](./295331-maintenance-crew.json) |
 | Mais um Dia! | 278610 | [278610-mais-um-dia.json](./278610-mais-um-dia.json) |
 | Maison Ikkoku Kanketsu Hen: Sayonara, Soshite... | 91766 | [91766-maison-ikkoku-kanketsu-hen-sayonara-soshite.json](./91766-maison-ikkoku-kanketsu-hen-sayonara-soshite.json) |
@@ -2330,6 +2332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marie Baby-Sitter | 74034 | [74034-marie-baby-sitter.json](./74034-marie-baby-sitter.json) |
 | Marie's Patisserie: Sweet Dreams - Collector's Edition | 362840 | [362840-maries-patisserie-sweet-dreams-collectors-edition.json](./362840-maries-patisserie-sweet-dreams-collectors-edition.json) |
 | Marie's Room | 81173 | [81173-maries-room.json](./81173-maries-room.json) |
+| Mariel's First Day | 179450 | [179450-mariels-first-day.json](./179450-mariels-first-day.json) |
 | Marigold | 183053 | [183053-marigold.json](./183053-marigold.json) |
 | Marikin Online 4 | 288351 | [288351-marikin-online-4.json](./288351-marikin-online-4.json) |
 | Mariko: Hot Nightlife | 88052 | [88052-mariko-hot-nightlife.json](./88052-mariko-hot-nightlife.json) |
@@ -6177,6 +6180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meta | 260065 | [260065-meta.json](./260065-meta.json) |
 | Meta Apes | 235261 | [235261-meta-apes.json](./235261-meta-apes.json) |
 | Meta Ball | 237245 | [237245-meta-ball.json](./237245-meta-ball.json) |
+| Meta Checkpoint | 179442 | [179442-meta-checkpoint.json](./179442-meta-checkpoint.json) |
 | Meta Form | 198485 | [198485-meta-form.json](./198485-meta-form.json) |
 | Meta Fox | 39689 | [39689-meta-fox.json](./39689-meta-fox.json) |
 | Meta Knightmare Ultra | 271411 | [271411-meta-knightmare-ultra.json](./271411-meta-knightmare-ultra.json) |
@@ -9934,6 +9938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monomino | 17483 | [17483-monomino.json](./17483-monomino.json) |
 | Monomon: The Black Sun | 190908 | [190908-monomon-the-black-sun.json](./190908-monomon-the-black-sun.json) |
 | Monomyth | 112491 | [112491-monomyth.json](./112491-monomyth.json) |
+| Monomyth | 179437 | [179437-monomyth.json](./179437-monomyth.json) |
 | Mononc's Adventures | 368659 | [368659-mononcs-adventures.json](./368659-mononcs-adventures.json) |
 | Mononobe no Futo to Muttsu no Shiren | 206958 | [206958-mononobe-no-futo-to-muttsu-no-shiren.json](./206958-mononobe-no-futo-to-muttsu-no-shiren.json) |
 | Mononofu Battle Princess of White Lily | 98507 | [98507-mononofu-battle-princess-of-white-lily.json](./98507-mononofu-battle-princess-of-white-lily.json) |
@@ -10914,6 +10919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morganica | 258963 | [258963-morganica.json](./258963-morganica.json) |
 | Morgenshtern: Easygame | 114295 | [114295-morgenshtern-easygame.json](./114295-morgenshtern-easygame.json) |
 | Morgue Rot: The Coroner's Quest | 217384 | [217384-morgue-rot-the-coroners-quest.json](./217384-morgue-rot-the-coroners-quest.json) |
+| Mori | 179430 | [179430-mori.json](./179430-mori.json) |
 | Mori Adventures | 407351 | [407351-mori-adventures.json](./407351-mori-adventures.json) |
 | Mori and the Whisper | 118753 | [118753-mori-and-the-whisper.json](./118753-mori-and-the-whisper.json) |
 | Mori no Fantasy: Sekaiju no Densetsu | 220321 | [220321-mori-no-fantasy-sekaiju-no-densetsu.json](./220321-mori-no-fantasy-sekaiju-no-densetsu.json) |
