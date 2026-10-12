@@ -2020,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Horizon Adventure: Shield Weaver Outfit | 321589 | [321589-lego-horizon-adventure-shield-weaver-outfit.json](./321589-lego-horizon-adventure-shield-weaver-outfit.json) |
 | LEGO Horizon Adventures: Digital Deluxe Edition Content | 322256 | [322256-lego-horizon-adventures-digital-deluxe-edition-content.json](./322256-lego-horizon-adventures-digital-deluxe-edition-content.json) |
 | LEGO Indiana Jones 2: The Adventure Continues | 138 | [138-lego-indiana-jones-2-the-adventure-continues.json](./138-lego-indiana-jones-2-the-adventure-continues.json) |
+| LEGO Indiana Jones 2: The Adventure Continues | 194933 | [194933-lego-indiana-jones-2-the-adventure-continues.json](./194933-lego-indiana-jones-2-the-adventure-continues.json) |
 | LEGO Indiana Jones Adventures | 235340 | [235340-lego-indiana-jones-adventures.json](./235340-lego-indiana-jones-adventures.json) |
 | LEGO Indiana Jones: The Original Adventures | 189 | [189-lego-indiana-jones-the-original-adventures.json](./189-lego-indiana-jones-the-original-adventures.json) |
 | LEGO Indiana Jones: The Original Adventures / Kung Fu Panda | 142110 | [142110-lego-indiana-jones-the-original-adventures-kung-fu-panda.json](./142110-lego-indiana-jones-the-original-adventures-kung-fu-panda.json) |
