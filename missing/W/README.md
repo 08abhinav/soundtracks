@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Dragons 2016 | 231891 | [231891-war-of-dragons-2016.json](./231891-war-of-dragons-2016.json) |
 | War of Eclipse | 64101 | [64101-war-of-eclipse.json](./64101-war-of-eclipse.json) |
 | War of Freedom | 158523 | [158523-war-of-freedom.json](./158523-war-of-freedom.json) |
+| War of Gama | 221326 | [221326-war-of-gama.json](./221326-war-of-gama.json) |
 | War of Genesis III | 76613 | [76613-war-of-genesis-iii.json](./76613-war-of-genesis-iii.json) |
 | War of Gods Athena | 273640 | [273640-war-of-gods-athena.json](./273640-war-of-gods-athena.json) |
 | War of Gold 2 Mission 99 | 226694 | [226694-war-of-gold-2-mission-99.json](./226694-war-of-gold-2-mission-99.json) |
