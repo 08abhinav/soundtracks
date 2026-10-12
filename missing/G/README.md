@@ -4183,6 +4183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf | 358832 | [358832-golf.json](./358832-golf.json) |
 | Golf | 86354 | [86354-golf.json](./86354-golf.json) |
 | Golf 5 Max | 394096 | [394096-golf-5-max.json](./394096-golf-5-max.json) |
+| Golf a Guy! | 199332 | [199332-golf-a-guy.json](./199332-golf-a-guy.json) |
 | Golf Adventure Galaxy | 74013 | [74013-golf-adventure-galaxy.json](./74013-golf-adventure-galaxy.json) |
 | Golf Adventures! | 181717 | [181717-golf-adventures.json](./181717-golf-adventures.json) |
 | Golf Around 2 | 396032 | [396032-golf-around-2.json](./396032-golf-around-2.json) |
@@ -5747,6 +5748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey Cat | 401701 | [401701-grey-cat.json](./401701-grey-cat.json) |
 | Grey Cubes | 35226 | [35226-grey-cubes.json](./35226-grey-cubes.json) |
 | Grey Eminence | 217478 | [217478-grey-eminence.json](./217478-grey-eminence.json) |
+| Grey Eyes of Death | 199308 | [199308-grey-eyes-of-death.json](./199308-grey-eyes-of-death.json) |
 | Grey Galactic | 236950 | [236950-grey-galactic.json](./236950-grey-galactic.json) |
 | Grey Goo Definitive Edition | 54057 | [54057-grey-goo-definitive-edition.json](./54057-grey-goo-definitive-edition.json) |
 | Grey Haven | 239664 | [239664-grey-haven.json](./239664-grey-haven.json) |
