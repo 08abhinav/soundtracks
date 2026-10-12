@@ -10162,6 +10162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ataxx | 14480 | [14480-ataxx.json](./14480-ataxx.json) |
 | ATC Flight Operator | 338176 | [338176-atc-flight-operator.json](./338176-atc-flight-operator.json) |
 | ATC: Tower & Ground | 413117 | [413117-atc-tower-and-ground.json](./413117-atc-tower-and-ground.json) |
+| ATCo2 | 214115 | [214115-atco2.json](./214115-atco2.json) |
 | ATCpro | 69318 | [69318-atcpro.json](./69318-atcpro.json) |
 | ATCsimulator | 80922 | [80922-atcsimulator.json](./80922-atcsimulator.json) |
 | Atelier Ayesha Plus: The Alchemist of Dusk | 44473 | [44473-atelier-ayesha-plus-the-alchemist-of-dusk.json](./44473-atelier-ayesha-plus-the-alchemist-of-dusk.json) |
@@ -11204,7 +11205,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axiom | 257286 | [257286-axiom.json](./257286-axiom.json) |
 | Axiom Alternative | 158589 | [158589-axiom-alternative.json](./158589-axiom-alternative.json) |
 | Axiom of Echoes: Proof Refactor | 408045 | [408045-axiom-of-echoes-proof-refactor.json](./408045-axiom-of-echoes-proof-refactor.json) |
-| Axiom Verge | 8652 | [8652-axiom-verge.json](./8652-axiom-verge.json) |
 | Axiom Verge 1 & 2 Double Pack | 172714 | [172714-axiom-verge-1-and-2-double-pack.json](./172714-axiom-verge-1-and-2-double-pack.json) |
 | Axiom Verge 2 | 127269 | [127269-axiom-verge-2.json](./127269-axiom-verge-2.json) |
 | Axiom Verge: Multiverse Edition | 75864 | [75864-axiom-verge-multiverse-edition.json](./75864-axiom-verge-multiverse-edition.json) |
