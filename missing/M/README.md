@@ -7488,6 +7488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millennium Dawn: A Modern Day Mod | 256450 | [256450-millennium-dawn-a-modern-day-mod.json](./256450-millennium-dawn-a-modern-day-mod.json) |
 | Millennium GamePak Gold | 273905 | [273905-millennium-gamepak-gold.json](./273905-millennium-gamepak-gold.json) |
 | Millennium Gamepak Platinum | 273906 | [273906-millennium-gamepak-platinum.json](./273906-millennium-gamepak-platinum.json) |
+| Millennium Mantra | 209223 | [209223-millennium-mantra.json](./209223-millennium-mantra.json) |
 | Millennium Mini-Episode | 263422 | [263422-millennium-mini-episode.json](./263422-millennium-mini-episode.json) |
 | Millennium Mission | 274731 | [274731-millennium-mission.json](./274731-millennium-mission.json) |
 | Millennium Racer: Y2K Fighters | 79897 | [79897-millennium-racer-y2k-fighters.json](./79897-millennium-racer-y2k-fighters.json) |
@@ -7571,6 +7572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimi the Cat: Mimi's Scratcher | 269052 | [269052-mimi-the-cat-mimis-scratcher.json](./269052-mimi-the-cat-mimis-scratcher.json) |
 | Mimi the Cat: New Friends | 253911 | [253911-mimi-the-cat-new-friends.json](./253911-mimi-the-cat-new-friends.json) |
 | Mimi Wuhui | 410959 | [410959-mimi-wuhui.json](./410959-mimi-wuhui.json) |
+| Mimi's Party Fun | 209222 | [209222-mimis-party-fun.json](./209222-mimis-party-fun.json) |
 | Mimi's Restaurant helper | 387678 | [387678-mimis-restaurant-helper.json](./387678-mimis-restaurant-helper.json) |
 | Mimic | 275683 | [275683-mimic.json](./275683-mimic.json) |
 | Mimic | 286103 | [286103-mimic.json](./286103-mimic.json) |
@@ -8147,6 +8149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Mini Farm | 209934 | [209934-mini-mini-farm.json](./209934-mini-mini-farm.json) |
 | Mini Mini-Golf | 188109 | [188109-mini-mini-golf.json](./188109-mini-mini-golf.json) |
 | Mini Monsters | 343907 | [343907-mini-monsters.json](./343907-mini-monsters.json) |
+| Mini Motion: Sk8 HousE | 209208 | [209208-mini-motion-sk8-house.json](./209208-mini-motion-sk8-house.json) |
 | Mini Motor Racing 2 | 188394 | [188394-mini-motor-racing-2.json](./188394-mini-motor-racing-2.json) |
 | Mini Motor Racing X | 126194 | [126194-mini-motor-racing-x.json](./126194-mini-motor-racing-x.json) |
 | Mini Motor Racing X: Digital Deluxe Edition | 132167 | [132167-mini-motor-racing-x-digital-deluxe-edition.json](./132167-mini-motor-racing-x-digital-deluxe-edition.json) |
@@ -8265,6 +8268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minigolf Galaxy | 275597 | [275597-minigolf-galaxy.json](./275597-minigolf-galaxy.json) |
 | MiniGolf Island | 235156 | [235156-minigolf-island.json](./235156-minigolf-island.json) |
 | MiniGolf Mania | 33237 | [33237-minigolf-mania.json](./33237-minigolf-mania.json) |
+| Minigolf Maniacs | 209219 | [209219-minigolf-maniacs.json](./209219-minigolf-maniacs.json) |
 | Minigolf Party | 182200 | [182200-minigolf-party.json](./182200-minigolf-party.json) |
 | MiniGolf Tour | 165603 | [165603-minigolf-tour.json](./165603-minigolf-tour.json) |
 | Minigolf VR | 34356 | [34356-minigolf-vr.json](./34356-minigolf-vr.json) |
@@ -8534,6 +8538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mireille and Amrita, the Forest of Illusions | 188512 | [188512-mireille-and-amrita-the-forest-of-illusions.json](./188512-mireille-and-amrita-the-forest-of-illusions.json) |
 | Mirelaine | 360065 | [360065-mirelaine.json](./360065-mirelaine.json) |
 | Miriam: The Escape | 175703 | [175703-miriam-the-escape.json](./175703-miriam-the-escape.json) |
+| Miriel the Magical Merchant | 209206 | [209206-miriel-the-magical-merchant.json](./209206-miriel-the-magical-merchant.json) |
 | Miriel's Enchanted Mystery | 53386 | [53386-miriels-enchanted-mystery.json](./53386-miriels-enchanted-mystery.json) |
 | Mirk | 179584 | [179584-mirk.json](./179584-mirk.json) |
 | Mirko Polo | 298564 | [298564-mirko-polo.json](./298564-mirko-polo.json) |
@@ -8727,6 +8732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missilesaber | 382556 | [382556-missilesaber.json](./382556-missilesaber.json) |
 | Missing | 153537 | [153537-missing.json](./153537-missing.json) |
 | Missing | 207870 | [207870-missing.json](./207870-missing.json) |
+| Missing | 209215 | [209215-missing.json](./209215-missing.json) |
 | Missing | 213634 | [213634-missing.json](./213634-missing.json) |
 | Missing | 260677 | [260677-missing.json](./260677-missing.json) |
 | Missing | 321584 | [321584-missing.json](./321584-missing.json) |
@@ -8743,6 +8749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Hearts: Crimson Cruise | 416625 | [416625-missing-hearts-crimson-cruise.json](./416625-missing-hearts-crimson-cruise.json) |
 | Missing Heroes | 224003 | [224003-missing-heroes.json](./224003-missing-heroes.json) |
 | Missing In Action | 40806 | [40806-missing-in-action.json](./40806-missing-in-action.json) |
+| Missing in Rome | 209214 | [209214-missing-in-rome.json](./209214-missing-in-rome.json) |
 | Missing Information | 169325 | [169325-missing-information.json](./169325-missing-information.json) |
 | Missing Kitty | 258724 | [258724-missing-kitty.json](./258724-missing-kitty.json) |
 | Missing Letters | 87074 | [87074-missing-letters.json](./87074-missing-letters.json) |
@@ -10729,8 +10736,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moraff's Entrap | 69815 | [69815-moraffs-entrap.json](./69815-moraffs-entrap.json) |
 | Moraff's Escapade | 135666 | [135666-moraffs-escapade.json](./135666-moraffs-escapade.json) |
 | Moraff's MahJongg XIV International | 97969 | [97969-moraffs-mahjongg-xiv-international.json](./97969-moraffs-mahjongg-xiv-international.json) |
+| Moraff's Maximum Mahjongg | 209203 | [209203-moraffs-maximum-mahjongg.json](./209203-moraffs-maximum-mahjongg.json) |
 | Moraff's Maximum Mahjongg 2 | 24077 | [24077-moraffs-maximum-mahjongg-2.json](./24077-moraffs-maximum-mahjongg-2.json) |
 | Moraff's Maximum Mahjongg 3 | 202186 | [202186-moraffs-maximum-mahjongg-3.json](./202186-moraffs-maximum-mahjongg-3.json) |
+| Moraff's MoreJongg | 209193 | [209193-moraffs-morejongg.json](./209193-moraffs-morejongg.json) |
 | Moraff's World | 74053 | [74053-moraffs-world.json](./74053-moraffs-world.json) |
 | Morals Are Optional | 58641 | [58641-morals-are-optional.json](./58641-morals-are-optional.json) |
 | Morana Online | 358221 | [358221-morana-online.json](./358221-morana-online.json) |
@@ -10796,6 +10805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morfosi | 135684 | [135684-morfosi.json](./135684-morfosi.json) |
 | Morgan lives in a Rocket House in VR | 74442 | [74442-morgan-lives-in-a-rocket-house-in-vr.json](./74442-morgan-lives-in-a-rocket-house-in-vr.json) |
 | Morgan's Skate Club | 322801 | [322801-morgans-skate-club.json](./322801-morgans-skate-club.json) |
+| Morgan's Trivia Machine, Jr. | 209192 | [209192-morgans-trivia-machine-jr.json](./209192-morgans-trivia-machine-jr.json) |
 | Morganica | 258963 | [258963-morganica.json](./258963-morganica.json) |
 | Morgenshtern: Easygame | 114295 | [114295-morgenshtern-easygame.json](./114295-morgenshtern-easygame.json) |
 | Morgue Rot: The Coroner's Quest | 217384 | [217384-morgue-rot-the-coroners-quest.json](./217384-morgue-rot-the-coroners-quest.json) |
@@ -10861,6 +10871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morpi Card Mix | 291686 | [291686-morpi-card-mix.json](./291686-morpi-card-mix.json) |
 | Morra | 246472 | [246472-morra.json](./246472-morra.json) |
 | Morra 3D | 371474 | [371474-morra-3d.json](./371474-morra-3d.json) |
+| Morraff's Mahjongg 2005: Luxury Edition | 209188 | [209188-morraffs-mahjongg-2005-luxury-edition.json](./209188-morraffs-mahjongg-2005-luxury-edition.json) |
 | Morrigan's Isle | 324876 | [324876-morrigans-isle.json](./324876-morrigans-isle.json) |
 | Morris Cave | 213448 | [213448-morris-cave.json](./213448-morris-cave.json) |
 | Morris Meets the Bikers | 354594 | [354594-morris-meets-the-bikers.json](./354594-morris-meets-the-bikers.json) |
