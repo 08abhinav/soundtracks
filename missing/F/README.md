@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fables of the Kingdom III: Collector's Edition | 337251 | [337251-fables-of-the-kingdom-iii-collectors-edition.json](./337251-fables-of-the-kingdom-iii-collectors-edition.json) |
 | Fables of the Kingdom V: Collector's Edition | 337250 | [337250-fables-of-the-kingdom-v-collectors-edition.json](./337250-fables-of-the-kingdom-v-collectors-edition.json) |
 | Fablewood Chronicles | 413112 | [413112-fablewood-chronicles.json](./413112-fablewood-chronicles.json) |
+| Fabric of Reality | 219767 | [219767-fabric-of-reality.json](./219767-fabric-of-reality.json) |
 | Fabular: Once upon a Spacetime | 116429 | [116429-fabular-once-upon-a-spacetime.json](./116429-fabular-once-upon-a-spacetime.json) |
 | Fábulas Porteñas | 316123 | [316123-fabulas-portenas.json](./316123-fabulas-portenas.json) |
 | Fabuloso's Fantastic Flight | 343380 | [343380-fabulosos-fantastic-flight.json](./343380-fabulosos-fantastic-flight.json) |
@@ -472,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Sphere | 233501 | [233501-fairy-sphere.json](./233501-fairy-sphere.json) |
 | Fairy Springs | 406829 | [406829-fairy-springs.json](./406829-fairy-springs.json) |
 | Fairy Sweet Days | 379576 | [379576-fairy-sweet-days.json](./379576-fairy-sweet-days.json) |
+| Fairy Tag: A Game of Divinities | 219773 | [219773-fairy-tag-a-game-of-divinities.json](./219773-fairy-tag-a-game-of-divinities.json) |
 | Fairy Tail 2 | 306138 | [306138-fairy-tail-2.json](./306138-fairy-tail-2.json) |
 | Fairy Tail 2: Digital Deluxe | 324470 | [324470-fairy-tail-2-digital-deluxe.json](./324470-fairy-tail-2-digital-deluxe.json) |
 | Fairy Tail 2: Lucy Outfit - "Miss Fairy Tail Contest" | 324462 | [324462-fairy-tail-2-lucy-outfit-miss-fairy-tail-contest.json](./324462-fairy-tail-2-lucy-outfit-miss-fairy-tail-contest.json) |
@@ -674,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Enchantress: Legendary Heroes - The Dead World DLC | 168380 | [168380-fallen-enchantress-legendary-heroes-the-dead-world-dlc.json](./168380-fallen-enchantress-legendary-heroes-the-dead-world-dlc.json) |
 | Fallen Evolution | 334792 | [334792-fallen-evolution.json](./334792-fallen-evolution.json) |
 | Fallen Fates | 345579 | [345579-fallen-fates.json](./345579-fallen-fates.json) |
+| Fallen Feather | 219774 | [219774-fallen-feather.json](./219774-fallen-feather.json) |
 | Fallen Force | 254407 | [254407-fallen-force.json](./254407-fallen-force.json) |
 | Fallen from Grace | 271220 | [271220-fallen-from-grace.json](./271220-fallen-from-grace.json) |
 | Fallen GF | 297733 | [297733-fallen-gf.json](./297733-fallen-gf.json) |
