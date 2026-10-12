@@ -8730,6 +8730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fury | 240773 | [240773-fury.json](./240773-fury.json) |
 | Fury Cross Road | 235222 | [235222-fury-cross-road.json](./235222-fury-cross-road.json) |
 | Fury Fighter VR | 96520 | [96520-fury-fighter-vr.json](./96520-fury-fighter-vr.json) |
+| Fury Life | 215872 | [215872-fury-life.json](./215872-fury-life.json) |
 | Fury of Dracula | 175327 | [175327-fury-of-dracula.json](./175327-fury-of-dracula.json) |
 | Fury of Dracula: Digital Edition | 129189 | [129189-fury-of-dracula-digital-edition.json](./129189-fury-of-dracula-digital-edition.json) |
 | Fury of the Furries 2 | 226799 | [226799-fury-of-the-furries-2.json](./226799-fury-of-the-furries-2.json) |
