@@ -387,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yetisports: World Tour | 279227 | [279227-yetisports-world-tour.json](./279227-yetisports-world-tour.json) |
 | Yewdow | 289586 | [289586-yewdow.json](./289586-yewdow.json) |
 | Yez: The Dark Amulet | 295499 | [295499-yez-the-dark-amulet.json](./295499-yez-the-dark-amulet.json) |
+| Ygeia | 201477 | [201477-ygeia.json](./201477-ygeia.json) |
 | Yggdra Kingdom | 395590 | [395590-yggdra-kingdom.json](./395590-yggdra-kingdom.json) |
 | Yggdra Refrain | 373329 | [373329-yggdra-refrain.json](./373329-yggdra-refrain.json) |
 | Yggdra Union | 99972 | [99972-yggdra-union.json](./99972-yggdra-union.json) |
@@ -577,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yomifuda: Kanji Survivors | 383146 | [383146-yomifuda-kanji-survivors.json](./383146-yomifuda-kanji-survivors.json) |
 | Yon-nin Mahjong | 55857 | [55857-yon-nin-mahjong.json](./55857-yon-nin-mahjong.json) |
 | Yondel | 380777 | [380777-yondel.json](./380777-yondel.json) |
+| YonDelver | 201484 | [201484-yondelver.json](./201484-yondelver.json) |
 | Yonder World: Interview with the Void | 190067 | [190067-yonder-world-interview-with-the-void.json](./190067-yonder-world-interview-with-the-void.json) |
 | Yondu's Journey | 241260 | [241260-yondus-journey.json](./241260-yondus-journey.json) |
 | Yonenaga Kunio no Shogi Seminar | 54942 | [54942-yonenaga-kunio-no-shogi-seminar.json](./54942-yonenaga-kunio-no-shogi-seminar.json) |
