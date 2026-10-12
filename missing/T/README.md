@@ -325,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taghairm | 59685 | [59685-taghairm.json](./59685-taghairm.json) |
 | TagHunter | 192779 | [192779-taghunter.json](./192779-taghunter.json) |
 | Tagin' Dragon | 48229 | [48229-tagin-dragon.json](./48229-tagin-dragon.json) |
+| Tagline | 215860 | [215860-tagline.json](./215860-tagline.json) |
 | Tago Akira no Atama no Taisou Dai-1-Shuu: Nazotoki Sekai Isshuu Ryokou | 282125 | [282125-tago-akira-no-atama-no-taisou-dai-1-shuu-nazotoki-sekai-isshuu-ryokou.json](./282125-tago-akira-no-atama-no-taisou-dai-1-shuu-nazotoki-sekai-isshuu-ryokou.json) |
 | Tago Akira no Atama no Taisou Dai-2-Shuu: Ginga Oudan Nazotoki Adventure | 402967 | [402967-tago-akira-no-atama-no-taisou-dai-2-shuu-ginga-oudan-nazotoki-adventure.json](./402967-tago-akira-no-atama-no-taisou-dai-2-shuu-ginga-oudan-nazotoki-adventure.json) |
 | Tago Akira no Atama no Taisou Dai-3-Shuu: Fushigi no Kuni no Nazotoki Otogibanashi | 402968 | [402968-tago-akira-no-atama-no-taisou-dai-3-shuu-fushigi-no-kuni-no-nazotoki-otogibanashi.json](./402968-tago-akira-no-atama-no-taisou-dai-3-shuu-fushigi-no-kuni-no-nazotoki-otogibanashi.json) |
@@ -2559,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temporal Gunslinger | 338308 | [338308-temporal-gunslinger.json](./338308-temporal-gunslinger.json) |
 | Temporal Odyssey | 277406 | [277406-temporal-odyssey.json](./277406-temporal-odyssey.json) |
 | Temporal Purge: Z | 154378 | [154378-temporal-purge-z.json](./154378-temporal-purge-z.json) |
+| Temporal Riff | 215864 | [215864-temporal-riff.json](./215864-temporal-riff.json) |
 | Temporal Shift: Flow of Eternity | 316935 | [316935-temporal-shift-flow-of-eternity.json](./316935-temporal-shift-flow-of-eternity.json) |
 | Temporal Sprint | 190439 | [190439-temporal-sprint.json](./190439-temporal-sprint.json) |
 | Temporal Titans | 309865 | [309865-temporal-titans.json](./309865-temporal-titans.json) |
@@ -6844,6 +6846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Homecoming Exhibition | 393019 | [393019-the-homecoming-exhibition.json](./393019-the-homecoming-exhibition.json) |
 | The Homestead | 119567 | [119567-the-homestead.json](./119567-the-homestead.json) |
 | The Homestead Invasion | 81667 | [81667-the-homestead-invasion.json](./81667-the-homestead-invasion.json) |
+| The Hon | 215836 | [215836-the-hon.json](./215836-the-hon.json) |
 | The Honest Little Fisher | 383066 | [383066-the-honest-little-fisher.json](./383066-the-honest-little-fisher.json) |
 | The Honeypot Murders | 250850 | [250850-the-honeypot-murders.json](./250850-the-honeypot-murders.json) |
 | The Hong Kong Massacre | 27069 | [27069-the-hong-kong-massacre.json](./27069-the-hong-kong-massacre.json) |
