@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T08:04:30.939Z",
-  "total_missing": 201033,
+  "generated_at": "2026-10-12T08:19:04.913Z",
+  "total_missing": 201083,
   "games": [
     {
       "igdb_id": 191680,
@@ -11196,6 +11196,11 @@
       "igdb_id": 276859,
       "game_name": "A Date with Death: Expansion DLC",
       "file": "missing/A/276859-a-date-with-death-expansion-dlc.json"
+    },
+    {
+      "igdb_id": 209185,
+      "game_name": "A Day as a T-Rex",
+      "file": "missing/A/209185-a-day-as-a-t-rex.json"
     },
     {
       "igdb_id": 55853,
@@ -227123,6 +227128,11 @@
       "file": "missing/D/318526-dodge-spree-x.json"
     },
     {
+      "igdb_id": 209117,
+      "game_name": "Dodge That Anvil",
+      "file": "missing/D/209117-dodge-that-anvil.json"
+    },
+    {
       "igdb_id": 312832,
       "game_name": "Dodge that, Ronald!",
       "file": "missing/D/312832-dodge-that-ronald.json"
@@ -227731,6 +227741,11 @@
       "igdb_id": 12051,
       "game_name": "Dogfight: 80 Years of Aerial Warfare",
       "file": "missing/D/12051-dogfight-80-years-of-aerial-warfare.json"
+    },
+    {
+      "igdb_id": 209118,
+      "game_name": "Dogfight: Battle for the Pacific",
+      "file": "missing/D/209118-dogfight-battle-for-the-pacific.json"
     },
     {
       "igdb_id": 65464,
@@ -229276,6 +229291,11 @@
       "igdb_id": 303482,
       "game_name": "Domino Fit",
       "file": "missing/D/303482-domino-fit.json"
+    },
+    {
+      "igdb_id": 209121,
+      "game_name": "Domino Lounge",
+      "file": "missing/D/209121-domino-lounge.json"
     },
     {
       "igdb_id": 238977,
@@ -233216,6 +233236,11 @@
       "igdb_id": 275577,
       "game_name": "Dora the Explorer: Twins' Day",
       "file": "missing/D/275577-dora-the-explorer-twins-day.json"
+    },
+    {
+      "igdb_id": 209119,
+      "game_name": "Dora the Explorer: World Adventure",
+      "file": "missing/D/209119-dora-the-explorer-world-adventure.json"
     },
     {
       "igdb_id": 209122,
@@ -252813,6 +252838,11 @@
       "file": "missing/E/45933-earth-command.json"
     },
     {
+      "igdb_id": 209177,
+      "game_name": "Earth Command: The Future of Our World is in Your Hands",
+      "file": "missing/E/209177-earth-command-the-future-of-our-world-is-in-your-hands.json"
+    },
+    {
       "igdb_id": 299893,
       "game_name": "Earth Craft",
       "file": "missing/E/299893-earth-craft.json"
@@ -253481,6 +253511,11 @@
       "igdb_id": 73274,
       "game_name": "Earthrise",
       "file": "missing/E/73274-earthrise.json"
+    },
+    {
+      "igdb_id": 209178,
+      "game_name": "Earthshield",
+      "file": "missing/E/209178-earthshield.json"
     },
     {
       "igdb_id": 117799,
@@ -257393,6 +257428,11 @@
       "file": "missing/E/93166-egyptian-run.json"
     },
     {
+      "igdb_id": 209179,
+      "game_name": "Egyptian Trilogy",
+      "file": "missing/E/209179-egyptian-trilogy.json"
+    },
+    {
       "igdb_id": 1361,
       "game_name": "Ehrgeiz",
       "file": "missing/E/1361-ehrgeiz.json"
@@ -257666,6 +257706,11 @@
       "igdb_id": 388272,
       "game_name": "Einstein Riddle Island Puzzle",
       "file": "missing/E/388272-einstein-riddle-island-puzzle.json"
+    },
+    {
+      "igdb_id": 209189,
+      "game_name": "Einstein's Brain Power",
+      "file": "missing/E/209189-einsteins-brain-power.json"
     },
     {
       "igdb_id": 291594,
@@ -260378,6 +260423,11 @@
       "file": "missing/E/233968-ellies.json"
     },
     {
+      "igdb_id": 209198,
+      "game_name": "Ellie's Enchanted Garden",
+      "file": "missing/E/209198-ellies-enchanted-garden.json"
+    },
+    {
       "igdb_id": 356106,
       "game_name": "Ellie's Farm 2: African Adventures - Collector's Edition",
       "file": "missing/E/356106-ellies-farm-2-african-adventures-collectors-edition.json"
@@ -260768,6 +260818,11 @@
       "file": "missing/E/107798-elven-magic-the-witch-the-elf-and-the-fairy.json"
     },
     {
+      "igdb_id": 209199,
+      "game_name": "Elven Mists 2",
+      "file": "missing/E/209199-elven-mists-2.json"
+    },
+    {
       "igdb_id": 250355,
       "game_name": "Elven Rivers II: New Horizons - Collector's Edition",
       "file": "missing/E/250355-elven-rivers-ii-new-horizons-collectors-edition.json"
@@ -260991,6 +261046,11 @@
       "igdb_id": 237650,
       "game_name": "Emancy: Borderline War",
       "file": "missing/E/237650-emancy-borderline-war.json"
+    },
+    {
+      "igdb_id": 209200,
+      "game_name": "Emazing Mazes",
+      "file": "missing/E/209200-emazing-mazes.json"
     },
     {
       "igdb_id": 115446,
@@ -261668,6 +261728,11 @@
       "file": "missing/E/263690-emil-chronicle-online.json"
     },
     {
+      "igdb_id": 209211,
+      "game_name": "Emily Archer: The Curse of King Tut's Tomb",
+      "file": "missing/E/209211-emily-archer-the-curse-of-king-tuts-tomb.json"
+    },
+    {
       "igdb_id": 71474,
       "game_name": "Emily Enough: Imprisoned",
       "file": "missing/E/71474-emily-enough-imprisoned.json"
@@ -261811,6 +261876,11 @@
       "igdb_id": 280879,
       "game_name": "Emo Quest XD",
       "file": "missing/E/280879-emo-quest-xd.json"
+    },
+    {
+      "igdb_id": 209202,
+      "game_name": "Emo's Match Maker: The Game of Love",
+      "file": "missing/E/209202-emos-match-maker-the-game-of-love.json"
     },
     {
       "igdb_id": 180783,
@@ -261958,6 +262028,16 @@
       "file": "missing/E/232687-emoteguesser.json"
     },
     {
+      "igdb_id": 209205,
+      "game_name": "Emoticon Swirl",
+      "file": "missing/E/209205-emoticon-swirl.json"
+    },
+    {
+      "igdb_id": 209204,
+      "game_name": "Emoticons",
+      "file": "missing/E/209204-emoticons.json"
+    },
+    {
       "igdb_id": 169766,
       "game_name": "Emotion",
       "file": "missing/E/169766-emotion.json"
@@ -262031,6 +262111,11 @@
       "igdb_id": 7512,
       "game_name": "Emperor: Rise of the Middle Kingdom",
       "file": "missing/E/7512-emperor-rise-of-the-middle-kingdom.json"
+    },
+    {
+      "igdb_id": 209207,
+      "game_name": "Emperor's Mahjongg",
+      "file": "missing/E/209207-emperors-mahjongg.json"
     },
     {
       "igdb_id": 105227,
@@ -272643,6 +272728,11 @@
       "file": "missing/E/329910-eve-online-ascension.json"
     },
     {
+      "igdb_id": 209218,
+      "game_name": "EVE Online: Commissioned Officer Edition",
+      "file": "missing/E/209218-eve-online-commissioned-officer-edition.json"
+    },
+    {
       "igdb_id": 329791,
       "game_name": "Eve Online: Crucible",
       "file": "missing/E/329791-eve-online-crucible.json"
@@ -273103,6 +273193,11 @@
       "file": "missing/E/18971-everest-vr.json"
     },
     {
+      "igdb_id": 209220,
+      "game_name": "Everest: Only the Strong Survive",
+      "file": "missing/E/209220-everest-only-the-strong-survive.json"
+    },
+    {
       "igdb_id": 373352,
       "game_name": "Everest: Real Climbing Simulator",
       "file": "missing/E/373352-everest-real-climbing-simulator.json"
@@ -273466,6 +273561,11 @@
       "igdb_id": 23746,
       "game_name": "EverQuest: Evolution",
       "file": "missing/E/23746-everquest-evolution.json"
+    },
+    {
+      "igdb_id": 209221,
+      "game_name": "EverQuest: Gold Edition",
+      "file": "missing/E/209221-everquest-gold-edition.json"
     },
     {
       "igdb_id": 239190,
@@ -273866,6 +273966,11 @@
       "igdb_id": 422159,
       "game_name": "Everyone Will Die",
       "file": "missing/E/422159-everyone-will-die.json"
+    },
+    {
+      "igdb_id": 209216,
+      "game_name": "Everyone Wins Bingo",
+      "file": "missing/E/209216-everyone-wins-bingo.json"
     },
     {
       "igdb_id": 13649,
@@ -276363,6 +276468,11 @@
       "file": "missing/E/399270-exorcist-hotline.json"
     },
     {
+      "igdb_id": 209181,
+      "game_name": "Exorcist II",
+      "file": "missing/E/209181-exorcist-ii.json"
+    },
+    {
       "igdb_id": 304875,
       "game_name": "Exorcist Onmyoji",
       "file": "missing/E/304875-exorcist-onmyoji.json"
@@ -277068,6 +277178,11 @@
       "file": "missing/E/152463-express-simulator.json"
     },
     {
+      "igdb_id": 209183,
+      "game_name": "Expresso Run",
+      "file": "missing/E/209183-expresso-run.json"
+    },
+    {
       "igdb_id": 261170,
       "game_name": "Exquisite Amethyst",
       "file": "missing/E/261170-exquisite-amethyst.json"
@@ -277511,6 +277626,11 @@
       "igdb_id": 135035,
       "game_name": "Extreme Mining",
       "file": "missing/E/135035-extreme-mining.json"
+    },
+    {
+      "igdb_id": 209180,
+      "game_name": "Extreme Motorcross",
+      "file": "missing/E/209180-extreme-motorcross.json"
     },
     {
       "igdb_id": 109206,
@@ -287053,6 +287173,11 @@
       "file": "missing/F/239013-farming-simulator-22-goweil-pack.json"
     },
     {
+      "igdb_id": 209191,
+      "game_name": "Farming Simulator 22: Platinum Edition",
+      "file": "missing/F/209191-farming-simulator-22-platinum-edition.json"
+    },
+    {
       "igdb_id": 255023,
       "game_name": "Farming Simulator 22: Premium Expansion",
       "file": "missing/F/255023-farming-simulator-22-premium-expansion.json"
@@ -292346,6 +292471,11 @@
       "igdb_id": 3136,
       "game_name": "FIFA Soccer 2004",
       "file": "missing/F/3136-fifa-soccer-2004.json"
+    },
+    {
+      "igdb_id": 209186,
+      "game_name": "FIFA Soccer 2005: Mobile International Edition",
+      "file": "missing/F/209186-fifa-soccer-2005-mobile-international-edition.json"
     },
     {
       "igdb_id": 10682,
@@ -472328,6 +472458,11 @@
       "file": "missing/L/195690-lilly-monster.json"
     },
     {
+      "igdb_id": 209184,
+      "game_name": "Lilly's",
+      "file": "missing/L/209184-lillys.json"
+    },
+    {
       "igdb_id": 238552,
       "game_name": "Lilly's Flower Shop",
       "file": "missing/L/238552-lillys-flower-shop.json"
@@ -526013,6 +526148,11 @@
       "file": "missing/M/273906-millennium-gamepak-platinum.json"
     },
     {
+      "igdb_id": 209223,
+      "game_name": "Millennium Mantra",
+      "file": "missing/M/209223-millennium-mantra.json"
+    },
+    {
       "igdb_id": 263422,
       "game_name": "Millennium Mini-Episode",
       "file": "missing/M/263422-millennium-mini-episode.json"
@@ -526426,6 +526566,11 @@
       "igdb_id": 410959,
       "game_name": "Mimi Wuhui",
       "file": "missing/M/410959-mimi-wuhui.json"
+    },
+    {
+      "igdb_id": 209222,
+      "game_name": "Mimi's Party Fun",
+      "file": "missing/M/209222-mimis-party-fun.json"
     },
     {
       "igdb_id": 387678,
@@ -529308,6 +529453,11 @@
       "file": "missing/M/343907-mini-monsters.json"
     },
     {
+      "igdb_id": 209208,
+      "game_name": "Mini Motion: Sk8 HousE",
+      "file": "missing/M/209208-mini-motion-sk8-house.json"
+    },
+    {
       "igdb_id": 188394,
       "game_name": "Mini Motor Racing 2",
       "file": "missing/M/188394-mini-motor-racing-2.json"
@@ -529896,6 +530046,11 @@
       "igdb_id": 33237,
       "game_name": "MiniGolf Mania",
       "file": "missing/M/33237-minigolf-mania.json"
+    },
+    {
+      "igdb_id": 209219,
+      "game_name": "Minigolf Maniacs",
+      "file": "missing/M/209219-minigolf-maniacs.json"
     },
     {
       "igdb_id": 182200,
@@ -531243,6 +531398,11 @@
       "file": "missing/M/175703-miriam-the-escape.json"
     },
     {
+      "igdb_id": 209206,
+      "game_name": "Miriel the Magical Merchant",
+      "file": "missing/M/209206-miriel-the-magical-merchant.json"
+    },
+    {
       "igdb_id": 53386,
       "game_name": "Miriel's Enchanted Mystery",
       "file": "missing/M/53386-miriels-enchanted-mystery.json"
@@ -532208,6 +532368,11 @@
       "file": "missing/M/207870-missing.json"
     },
     {
+      "igdb_id": 209215,
+      "game_name": "Missing",
+      "file": "missing/M/209215-missing.json"
+    },
+    {
       "igdb_id": 213634,
       "game_name": "Missing",
       "file": "missing/M/213634-missing.json"
@@ -532286,6 +532451,11 @@
       "igdb_id": 40806,
       "game_name": "Missing In Action",
       "file": "missing/M/40806-missing-in-action.json"
+    },
+    {
+      "igdb_id": 209214,
+      "game_name": "Missing in Rome",
+      "file": "missing/M/209214-missing-in-rome.json"
     },
     {
       "igdb_id": 169325,
@@ -542218,6 +542388,11 @@
       "file": "missing/M/97969-moraffs-mahjongg-xiv-international.json"
     },
     {
+      "igdb_id": 209203,
+      "game_name": "Moraff's Maximum Mahjongg",
+      "file": "missing/M/209203-moraffs-maximum-mahjongg.json"
+    },
+    {
       "igdb_id": 24077,
       "game_name": "Moraff's Maximum Mahjongg 2",
       "file": "missing/M/24077-moraffs-maximum-mahjongg-2.json"
@@ -542226,6 +542401,11 @@
       "igdb_id": 202186,
       "game_name": "Moraff's Maximum Mahjongg 3",
       "file": "missing/M/202186-moraffs-maximum-mahjongg-3.json"
+    },
+    {
+      "igdb_id": 209193,
+      "game_name": "Moraff's MoreJongg",
+      "file": "missing/M/209193-moraffs-morejongg.json"
     },
     {
       "igdb_id": 74053,
@@ -542553,6 +542733,11 @@
       "file": "missing/M/322801-morgans-skate-club.json"
     },
     {
+      "igdb_id": 209192,
+      "game_name": "Morgan's Trivia Machine, Jr.",
+      "file": "missing/M/209192-morgans-trivia-machine-jr.json"
+    },
+    {
       "igdb_id": 258963,
       "game_name": "Morganica",
       "file": "missing/M/258963-morganica.json"
@@ -542876,6 +543061,11 @@
       "igdb_id": 371474,
       "game_name": "Morra 3D",
       "file": "missing/M/371474-morra-3d.json"
+    },
+    {
+      "igdb_id": 209188,
+      "game_name": "Morraff's Mahjongg 2005: Luxury Edition",
+      "file": "missing/M/209188-morraffs-mahjongg-2005-luxury-edition.json"
     },
     {
       "igdb_id": 324876,
@@ -680768,9 +680958,24 @@
       "file": "missing/R/77593-reel-deal-casino-high-roller.json"
     },
     {
+      "igdb_id": 209213,
+      "game_name": "Reel Deal Casino: Imperial Fortune",
+      "file": "missing/R/209213-reel-deal-casino-imperial-fortune.json"
+    },
+    {
+      "igdb_id": 209212,
+      "game_name": "Reel Deal Casino: Millionaire's Club",
+      "file": "missing/R/209212-reel-deal-casino-millionaires-club.json"
+    },
+    {
       "igdb_id": 77390,
       "game_name": "Reel Deal Casino: Shuffle Master Edition",
       "file": "missing/R/77390-reel-deal-casino-shuffle-master-edition.json"
+    },
+    {
+      "igdb_id": 209210,
+      "game_name": "Reel Deal Casino: Valley of the Kings",
+      "file": "missing/R/209210-reel-deal-casino-valley-of-the-kings.json"
     },
     {
       "igdb_id": 66727,
@@ -681751,6 +681956,11 @@
       "igdb_id": 65846,
       "game_name": "Reincarnations: Awakening",
       "file": "missing/R/65846-reincarnations-awakening.json"
+    },
+    {
+      "igdb_id": 209209,
+      "game_name": "Reincarnations: Uncover the Past",
+      "file": "missing/R/209209-reincarnations-uncover-the-past.json"
     },
     {
       "igdb_id": 391887,
@@ -684043,6 +684253,11 @@
       "file": "missing/R/209433-rescue-heroes-lava-landslide.json"
     },
     {
+      "igdb_id": 209201,
+      "game_name": "Rescue Heroes: Meteor Madness",
+      "file": "missing/R/209201-rescue-heroes-meteor-madness.json"
+    },
+    {
       "igdb_id": 209434,
       "game_name": "Rescue Heroes: Mission Select",
       "file": "missing/R/209434-rescue-heroes-mission-select.json"
@@ -685828,6 +686043,11 @@
       "file": "missing/R/308399-retro-adventure.json"
     },
     {
+      "igdb_id": 209194,
+      "game_name": "Retro Arcade Classics",
+      "file": "missing/R/209194-retro-arcade-classics.json"
+    },
+    {
       "igdb_id": 147863,
       "game_name": "Retro Arcade Shooter - Attack from Pluto",
       "file": "missing/R/147863-retro-arcade-shooter-attack-from-pluto.json"
@@ -686733,6 +686953,11 @@
       "file": "missing/R/402874-return-to-castle-arbeitsamt.json"
     },
     {
+      "igdb_id": 209195,
+      "game_name": "Return to Castle Wolfenstein: Game of the Year Edition",
+      "file": "missing/R/209195-return-to-castle-wolfenstein-game-of-the-year-edition.json"
+    },
+    {
       "igdb_id": 77219,
       "game_name": "Return to Castle Wolfenstein: Operation Resurrection",
       "file": "missing/R/77219-return-to-castle-wolfenstein-operation-resurrection.json"
@@ -687343,6 +687568,11 @@
       "file": "missing/R/18084-revenge-of-the-sunfish.json"
     },
     {
+      "igdb_id": 209196,
+      "game_name": "Revenge of the Toys",
+      "file": "missing/R/209196-revenge-of-the-toys.json"
+    },
+    {
       "igdb_id": 21770,
       "game_name": "Revenge of the Wounded Dragons",
       "file": "missing/R/21770-revenge-of-the-wounded-dragons.json"
@@ -687491,6 +687721,11 @@
       "igdb_id": 78717,
       "game_name": "Reversal",
       "file": "missing/R/78717-reversal.json"
+    },
+    {
+      "igdb_id": 209197,
+      "game_name": "Reversal Challenge",
+      "file": "missing/R/209197-reversal-challenge.json"
     },
     {
       "igdb_id": 283717,
@@ -691386,6 +691621,11 @@
       "igdb_id": 306047,
       "game_name": "Rinthylab Labyrinth",
       "file": "missing/R/306047-rinthylab-labyrinth.json"
+    },
+    {
+      "igdb_id": 209217,
+      "game_name": "Rio",
+      "file": "missing/R/209217-rio.json"
     },
     {
       "igdb_id": 77271,
@@ -839728,6 +839968,11 @@
       "file": "missing/T/178643-tesla-asteroids.json"
     },
     {
+      "igdb_id": 209190,
+      "game_name": "Tesla Legacy",
+      "file": "missing/T/209190-tesla-legacy.json"
+    },
+    {
       "igdb_id": 334785,
       "game_name": "Tesla Roadster Going to Mars",
       "file": "missing/T/334785-tesla-roadster-going-to-mars.json"
@@ -909591,6 +909836,11 @@
       "igdb_id": 209468,
       "game_name": "Touhou Spell Bubble: Scarlet Devil Land Arrange Song Pack Vol.2",
       "file": "missing/T/209468-touhou-spell-bubble-scarlet-devil-land-arrange-song-pack-vol-2.json"
+    },
+    {
+      "igdb_id": 209120,
+      "game_name": "Touhou Spell Bubble: Side Story Pack - Yukari Arc",
+      "file": "missing/T/209120-touhou-spell-bubble-side-story-pack-yukari-arc.json"
     },
     {
       "igdb_id": 144773,
