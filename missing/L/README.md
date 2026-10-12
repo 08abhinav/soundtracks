@@ -2586,6 +2586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letterswirl | 236972 | [236972-letterswirl.json](./236972-letterswirl.json) |
 | Lettters | 340564 | [340564-lettters.json](./340564-lettters.json) |
 | Lettuce Fish | 404977 | [404977-lettuce-fish.json](./404977-lettuce-fish.json) |
+| Letty9 | 218081 | [218081-letty9.json](./218081-letty9.json) |
 | Letux Game | 199469 | [199469-letux-game.json](./199469-letux-game.json) |
 | Letzte Worte VR | 111587 | [111587-letzte-worte-vr.json](./111587-letzte-worte-vr.json) |
 | Leucistic Wyvern | 266657 | [266657-leucistic-wyvern.json](./266657-leucistic-wyvern.json) |
@@ -6032,9 +6033,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi Doesn't Drink A Glass of Milk | 250050 | [250050-luigi-doesnt-drink-a-glass-of-milk.json](./250050-luigi-doesnt-drink-a-glass-of-milk.json) |
 | Luigi Floating on an Egg Over the Sea | 307668 | [307668-luigi-floating-on-an-egg-over-the-sea.json](./307668-luigi-floating-on-an-egg-over-the-sea.json) |
 | Luigi in Sonic the Hedgehog | 198518 | [198518-luigi-in-sonic-the-hedgehog.json](./198518-luigi-in-sonic-the-hedgehog.json) |
+| Luigi Kaizo King | 218067 | [218067-luigi-kaizo-king.json](./218067-luigi-kaizo-king.json) |
 | Luigi Puzzle | 341142 | [341142-luigi-puzzle.json](./341142-luigi-puzzle.json) |
 | Luigi Quest | 318025 | [318025-luigi-quest.json](./318025-luigi-quest.json) |
 | Luigi Run | 203387 | [203387-luigi-run.json](./203387-luigi-run.json) |
+| Luigi Stardust Adventure | 218069 | [218069-luigi-stardust-adventure.json](./218069-luigi-stardust-adventure.json) |
 | Luigi vs. Wario | 222971 | [222971-luigi-vs-wario.json](./222971-luigi-vs-wario.json) |
 | Luigi: Insanity | 335659 | [335659-luigi-insanity.json](./335659-luigi-insanity.json) |
 | Luigi's Adventure OSE | 276786 | [276786-luigis-adventure-ose.json](./276786-luigis-adventure-ose.json) |
@@ -6046,6 +6049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Mansion 2 HD | 254328 | [254328-luigis-mansion-2-hd.json](./254328-luigis-mansion-2-hd.json) |
 | Luigi's Mansion 3 | 109455 | [109455-luigis-mansion-3.json](./109455-luigis-mansion-3.json) |
 | Luigi's Mansion 3: Multiplayer Pack - Part 2 | 127550 | [127550-luigis-mansion-3-multiplayer-pack-part-2.json](./127550-luigis-mansion-3-multiplayer-pack-part-2.json) |
+| Luigi's Mansion 64 | 218072 | [218072-luigis-mansion-64.json](./218072-luigis-mansion-64.json) |
 | Luigi's Mansion 64.5: Super Player Mode | 374176 | [374176-luigis-mansion-64-5-super-player-mode.json](./374176-luigis-mansion-64-5-super-player-mode.json) |
 | Luigi's Mansion Beta Restoration (+) Plus | 281022 | [281022-luigis-mansion-beta-restoration-plus.json](./281022-luigis-mansion-beta-restoration-plus.json) |
 | Luigi's Mansion Organ Game | 328657 | [328657-luigis-mansion-organ-game.json](./328657-luigis-mansion-organ-game.json) |
@@ -6142,6 +6146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumines Plus | 21389 | [21389-lumines-plus.json](./21389-lumines-plus.json) |
 | Lumines: Puzzle Fusion | 78329 | [78329-lumines-puzzle-fusion.json](./78329-lumines-puzzle-fusion.json) |
 | Luminesce | 159302 | [159302-luminesce.json](./159302-luminesce.json) |
+| Luminescent | 218084 | [218084-luminescent.json](./218084-luminescent.json) |
 | Luminex Quartet | 384502 | [384502-luminex-quartet.json](./384502-luminex-quartet.json) |
 | Luminids | 381925 | [381925-luminids.json](./381925-luminids.json) |
 | Luminis: Heal Them All | 270133 | [270133-luminis-heal-them-all.json](./270133-luminis-heal-them-all.json) |
