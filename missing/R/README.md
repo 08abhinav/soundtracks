@@ -3946,6 +3946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return of Jelda | 78312 | [78312-return-of-jelda.json](./78312-return-of-jelda.json) |
 | Return of Red Riding Hood: Enhanced Edition | 81243 | [81243-return-of-red-riding-hood-enhanced-edition.json](./81243-return-of-red-riding-hood-enhanced-edition.json) |
 | Return of Saiyan | 95840 | [95840-return-of-saiyan.json](./95840-return-of-saiyan.json) |
+| Return of Serenity | 208004 | [208004-return-of-serenity.json](./208004-return-of-serenity.json) |
 | Return of the Demons | 386337 | [386337-return-of-the-demons.json](./386337-return-of-the-demons.json) |
 | Return of the Mutant Camels | 40961 | [40961-return-of-the-mutant-camels.json](./40961-return-of-the-mutant-camels.json) |
 | Return of the Phantom | 69869 | [69869-return-of-the-phantom.json](./69869-return-of-the-phantom.json) |
@@ -5422,6 +5423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Top G | 261699 | [261699-road-to-top-g.json](./261699-road-to-top-g.json) |
 | Road to Valhalla | 312077 | [312077-road-to-valhalla.json](./312077-road-to-valhalla.json) |
 | Road To Valhalla: Carola | 290537 | [290537-road-to-valhalla-carola.json](./290537-road-to-valhalla-carola.json) |
+| Road to Valor: Empires | 208074 | [208074-road-to-valor-empires.json](./208074-road-to-valor-empires.json) |
 | Road to Valor: WW2 | 169274 | [169274-road-to-valor-ww2.json](./169274-road-to-valor-ww2.json) |
 | Road to Vegas | 123402 | [123402-road-to-vegas.json](./123402-road-to-vegas.json) |
 | Road to Vostok | 217304 | [217304-road-to-vostok.json](./217304-road-to-vostok.json) |
