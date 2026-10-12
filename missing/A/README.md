@@ -2763,6 +2763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Sail | 9430 | [9430-age-of-sail.json](./9430-age-of-sail.json) |
 | Age of Sail II | 9428 | [9428-age-of-sail-ii.json](./9428-age-of-sail-ii.json) |
 | Age of Sail II: Privateer's Bounty | 9429 | [9429-age-of-sail-ii-privateers-bounty.json](./9429-age-of-sail-ii-privateers-bounty.json) |
+| Age of Siege | 212524 | [212524-age-of-siege.json](./212524-age-of-siege.json) |
 | Age of Sokoban | 152157 | [152157-age-of-sokoban.json](./152157-age-of-sokoban.json) |
 | Age of Speed | 326750 | [326750-age-of-speed.json](./326750-age-of-speed.json) |
 | Age of Speed 2 | 326751 | [326751-age-of-speed-2.json](./326751-age-of-speed-2.json) |
@@ -3103,6 +3104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Attack VR | 231844 | [231844-air-attack-vr.json](./231844-air-attack-vr.json) |
 | Air Ball 2 | 146818 | [146818-air-ball-2.json](./146818-air-ball-2.json) |
 | Air Battle Chess | 197361 | [197361-air-battle-chess.json](./197361-air-battle-chess.json) |
+| Air Battle Mission | 212507 | [212507-air-battle-mission.json](./212507-air-battle-mission.json) |
 | AIR Battlefront | 117477 | [117477-air-battlefront.json](./117477-air-battlefront.json) |
 | Air Battles: Sky Defender | 61478 | [61478-air-battles-sky-defender.json](./61478-air-battles-sky-defender.json) |
 | Air Blitz | 379521 | [379521-air-blitz.json](./379521-air-blitz.json) |
@@ -6083,6 +6085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Buddies: Party Beasts | 290438 | [290438-animal-buddies-party-beasts.json](./290438-animal-buddies-party-beasts.json) |
 | Animal Cafe | 356711 | [356711-animal-cafe.json](./356711-animal-cafe.json) |
 | Animal Camp: Healing Resort | 299393 | [299393-animal-camp-healing-resort.json](./299393-animal-camp-healing-resort.json) |
+| Animal Care Shop | 212499 | [212499-animal-care-shop.json](./212499-animal-care-shop.json) |
 | Animal Circus: Learning Games | 106521 | [106521-animal-circus-learning-games.json](./106521-animal-circus-learning-games.json) |
 | Animal City | 130756 | [130756-animal-city.json](./130756-animal-city.json) |
 | Animal Coloring Book for Kids & Toddlers: Unicorns | 402570 | [402570-animal-coloring-book-for-kids-and-toddlers-unicorns.json](./402570-animal-coloring-book-for-kids-and-toddlers-unicorns.json) |
