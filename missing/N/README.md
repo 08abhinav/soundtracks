@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR 09 | 388398 | [388398-nascar-09.json](./388398-nascar-09.json) |
 | NASCAR 09 | 388399 | [388399-nascar-09.json](./388399-nascar-09.json) |
 | NASCAR 2001 | 45099 | [45099-nascar-2001.json](./45099-nascar-2001.json) |
+| NASCAR 21: Ignition - Victory Edition | 220801 | [220801-nascar-21-ignition-victory-edition.json](./220801-nascar-21-ignition-victory-edition.json) |
 | NASCAR 26 | 412990 | [412990-nascar-26.json](./412990-nascar-26.json) |
 | NASCAR 98 | 45515 | [45515-nascar-98.json](./45515-nascar-98.json) |
 | NASCAR Arcade Rush: Project-X Edition | 263547 | [263547-nascar-arcade-rush-project-x-edition.json](./263547-nascar-arcade-rush-project-x-edition.json) |
@@ -1517,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeoLite | 134991 | [134991-neolite.json](./134991-neolite.json) |
 | Neolithic Brave Man | 118409 | [118409-neolithic-brave-man.json](./118409-neolithic-brave-man.json) |
 | Neolithic Dawn | 224671 | [224671-neolithic-dawn.json](./224671-neolithic-dawn.json) |
+| Neolithic First City-States | 220780 | [220780-neolithic-first-city-states.json](./220780-neolithic-first-city-states.json) |
 | Neolithic: To the End | 159762 | [159762-neolithic-to-the-end.json](./159762-neolithic-to-the-end.json) |
 | Neomorph | 127679 | [127679-neomorph.json](./127679-neomorph.json) |
 | Neon | 172056 | [172056-neon.json](./172056-neon.json) |
