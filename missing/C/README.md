@@ -11594,6 +11594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypto Tycoon | 189021 | [189021-crypto-tycoon.json](./189021-crypto-tycoon.json) |
 | Crypto-Fascist | 364561 | [364561-crypto-fascist.json](./364561-crypto-fascist.json) |
 | Crypto-Shots | 221844 | [221844-crypto-shots.json](./221844-crypto-shots.json) |
+| Cryptobots | 224144 | [224144-cryptobots.json](./224144-cryptobots.json) |
 | CryptoClash | 265730 | [265730-cryptoclash.json](./265730-cryptoclash.json) |
 | CryptoClickers | 218162 | [218162-cryptoclickers.json](./218162-cryptoclickers.json) |
 | Cryptocracy | 29027 | [29027-cryptocracy.json](./29027-cryptocracy.json) |
@@ -12196,6 +12197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuphead | 237497 | [237497-cuphead.json](./237497-cuphead.json) |
 | Cuphead & The Delicious Last Course | 210917 | [210917-cuphead-and-the-delicious-last-course.json](./210917-cuphead-and-the-delicious-last-course.json) |
 | Cuphead Wii U | 357448 | [357448-cuphead-wii-u.json](./357448-cuphead-wii-u.json) |
+| Cuphead: Collector's Edition | 224179 | [224179-cuphead-collectors-edition.json](./224179-cuphead-collectors-edition.json) |
 | Cupiclaw | 302430 | [302430-cupiclaw.json](./302430-cupiclaw.json) |
 | Cupid | 253362 | [253362-cupid.json](./253362-cupid.json) |
 | Cupid Bistro!! | 72659 | [72659-cupid-bistro.json](./72659-cupid-bistro.json) |
@@ -12922,6 +12924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cycene | 334851 | [334851-cycene.json](./334851-cycene.json) |
 | Cyclanoid | 57679 | [57679-cyclanoid.json](./57679-cyclanoid.json) |
 | Cycle | 202381 | [202381-cycle.json](./202381-cycle.json) |
+| Cycle | 224167 | [224167-cycle.json](./224167-cycle.json) |
 | Cycle | 47997 | [47997-cycle.json](./47997-cycle.json) |
 | Cycle Chaser H-5 | 231369 | [231369-cycle-chaser-h-5.json](./231369-cycle-chaser-h-5.json) |
 | Cycle Idle RPG | 272253 | [272253-cycle-idle-rpg.json](./272253-cycle-idle-rpg.json) |
