@@ -2505,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Empires: 1914-1918 - Russian Empire | 168304 | [168304-battle-of-empires-1914-1918-russian-empire.json](./168304-battle-of-empires-1914-1918-russian-empire.json) |
 | Battle of Empires: 1914-1918 - Skirmish Pack | 168296 | [168296-battle-of-empires-1914-1918-skirmish-pack.json](./168296-battle-of-empires-1914-1918-skirmish-pack.json) |
 | Battle of Fate | 279010 | [279010-battle-of-fate.json](./279010-battle-of-fate.json) |
+| Battle of Fate Awakening | 196534 | [196534-battle-of-fate-awakening.json](./196534-battle-of-fate-awakening.json) |
 | Battle of Finland: Winter War | 193483 | [193483-battle-of-finland-winter-war.json](./193483-battle-of-finland-winter-war.json) |
 | Battle of Frigates | 61595 | [61595-battle-of-frigates.json](./61595-battle-of-frigates.json) |
 | Battle of Genesis | 269045 | [269045-battle-of-genesis.json](./269045-battle-of-genesis.json) |
@@ -5225,6 +5226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionicle: Maze of Shadows | 15738 | [15738-bionicle-maze-of-shadows.json](./15738-bionicle-maze-of-shadows.json) |
 | Bionicle: The Game | 3811 | [3811-bionicle-the-game.json](./3811-bionicle-the-game.json) |
 | Bionite: Origins | 34105 | [34105-bionite-origins.json](./34105-bionite-origins.json) |
+| BioOcean Fantasy | 196528 | [196528-bioocean-fantasy.json](./196528-bioocean-fantasy.json) |
 | Biophage | 316701 | [316701-biophage.json](./316701-biophage.json) |
 | Biophilia | 25029 | [25029-biophilia.json](./25029-biophilia.json) |
 | Biophobia | 343832 | [343832-biophobia.json](./343832-biophobia.json) |
