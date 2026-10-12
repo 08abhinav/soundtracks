@@ -1071,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrodungeon | 358278 | [358278-necrodungeon.json](./358278-necrodungeon.json) |
 | Necrofall | 401814 | [401814-necrofall.json](./401814-necrofall.json) |
 | Necrofane | 347211 | [347211-necrofane.json](./347211-necrofane.json) |
+| NecroFarm | 195468 | [195468-necrofarm.json](./195468-necrofarm.json) |
 | Necroffense | 220711 | [220711-necroffense.json](./220711-necroffense.json) |
 | Necroflora | 333542 | [333542-necroflora.json](./333542-necroflora.json) |
 | Necrojacks | 160207 | [160207-necrojacks.json](./160207-necrojacks.json) |
@@ -1598,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Fantasy: Predators | 278732 | [278732-neon-fantasy-predators.json](./278732-neon-fantasy-predators.json) |
 | Neon Fever | 312753 | [312753-neon-fever.json](./312753-neon-fever.json) |
 | Neon Fighter | 211720 | [211720-neon-fighter.json](./211720-neon-fighter.json) |
+| Neon Flash 2 | 195464 | [195464-neon-flash-2.json](./195464-neon-flash-2.json) |
 | Neon Flight | 297796 | [297796-neon-flight.json](./297796-neon-flight.json) |
 | Neon FM | 55996 | [55996-neon-fm.json](./55996-neon-fm.json) |
 | Neon Force Pushers | 99037 | [99037-neon-force-pushers.json](./99037-neon-force-pushers.json) |
@@ -3736,6 +3738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Life: Zombie Survivor | 293872 | [293872-no-life-zombie-survivor.json](./293872-no-life-zombie-survivor.json) |
 | No Light | 150684 | [150684-no-light.json](./150684-no-light.json) |
 | No Lights | 52080 | [52080-no-lights.json](./52080-no-lights.json) |
+| No Lights 2 | 195477 | [195477-no-lights-2.json](./195477-no-lights-2.json) |
 | No Limit Drag Racing 2 | 227370 | [227370-no-limit-drag-racing-2.json](./227370-no-limit-drag-racing-2.json) |
 | No Limite | 298406 | [298406-no-limite.json](./298406-no-limite.json) |
 | No Limits 2 | 80606 | [80606-no-limits-2.json](./80606-no-limits-2.json) |
