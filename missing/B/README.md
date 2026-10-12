@@ -5043,6 +5043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binarycurse | 369690 | [369690-binarycurse.json](./369690-binarycurse.json) |
 | BinaryGrab | 130724 | [130724-binarygrab.json](./130724-binarygrab.json) |
 | Binaural Odyssey | 153365 | [153365-binaural-odyssey.json](./153365-binaural-odyssey.json) |
+| Bincho-tan: Shiawase-goyomi | 194932 | [194932-bincho-tan-shiawase-goyomi.json](./194932-bincho-tan-shiawase-goyomi.json) |
 | Bind: Brain teaser puzzle game | 88292 | [88292-bind-brain-teaser-puzzle-game.json](./88292-bind-brain-teaser-puzzle-game.json) |
 | Binding of Elements | 249227 | [249227-binding-of-elements.json](./249227-binding-of-elements.json) |
 | Binding of Isaac Bundle | 341547 | [341547-binding-of-isaac-bundle.json](./341547-binding-of-isaac-bundle.json) |
@@ -11000,6 +11001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumblepig | 94735 | [94735-bumblepig.json](./94735-bumblepig.json) |
 | BumbleTales | 294740 | [294740-bumbletales.json](./294740-bumbletales.json) |
 | Bumbling Builders | 176971 | [176971-bumbling-builders.json](./176971-bumbling-builders.json) |
+| Bumer 2 | 194886 | [194886-bumer-2.json](./194886-bumer-2.json) |
 | BumFight! | 69221 | [69221-bumfight.json](./69221-bumfight.json) |
 | Bump | 304821 | [304821-bump.json](./304821-bump.json) |
 | Bump 'N' Burn | 14353 | [14353-bump-n-burn.json](./14353-bump-n-burn.json) |
