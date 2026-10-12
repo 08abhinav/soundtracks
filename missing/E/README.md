@@ -4358,7 +4358,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everybody's Golf Portable: Coca Cola Special Edition | 73361 | [73361-everybodys-golf-portable-coca-cola-special-edition.json](./73361-everybodys-golf-portable-coca-cola-special-edition.json) |
 | Everybody's Golf VR: Digital Deluxe Edition | 118935 | [118935-everybodys-golf-vr-digital-deluxe-edition.json](./118935-everybodys-golf-vr-digital-deluxe-edition.json) |
 | Everybody’s Golf: Hot Shots | 337034 | [337034-everybody-s-golf-hot-shots.json](./337034-everybody-s-golf-hot-shots.json) |
-| Everybody's Gone to the Rapture | 7405 | [7405-everybodys-gone-to-the-rapture.json](./7405-everybodys-gone-to-the-rapture.json) |
 | Everybody's Home Run Derby | 231056 | [231056-everybodys-home-run-derby.json](./231056-everybodys-home-run-derby.json) |
 | Everybody's Putter Golf With Toro | 66090 | [66090-everybodys-putter-golf-with-toro.json](./66090-everybodys-putter-golf-with-toro.json) |
 | Everybody's RPG: Reborn | 147318 | [147318-everybodys-rpg-reborn.json](./147318-everybodys-rpg-reborn.json) |
