@@ -4208,6 +4208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens Go Home Run! | 26835 | [26835-aliens-go-home-run.json](./26835-aliens-go-home-run.json) |
 | Aliens Hide | 419965 | [419965-aliens-hide.json](./419965-aliens-hide.json) |
 | Aliens In Chains | 233616 | [233616-aliens-in-chains.json](./233616-aliens-in-chains.json) |
+| Aliens In Paradise | 217463 | [217463-aliens-in-paradise.json](./217463-aliens-in-paradise.json) |
 | Aliens in the Yard | 43183 | [43183-aliens-in-the-yard.json](./43183-aliens-in-the-yard.json) |
 | Aliens Invaded Our Planet | 103642 | [103642-aliens-invaded-our-planet.json](./103642-aliens-invaded-our-planet.json) |
 | Aliens Invasion | 282800 | [282800-aliens-invasion.json](./282800-aliens-invasion.json) |
@@ -5030,6 +5031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Love: Cupid's Arrows | 232570 | [232570-amazing-love-cupids-arrows.json](./232570-amazing-love-cupids-arrows.json) |
 | Amazing Machines | 187385 | [187385-amazing-machines.json](./187385-amazing-machines.json) |
 | Amazing Maze | 18115 | [18115-amazing-maze.json](./18115-amazing-maze.json) |
+| Amazing Maze | 217486 | [217486-amazing-maze.json](./217486-amazing-maze.json) |
 | Amazing Maze / Tic-Tac-Toe | 169264 | [169264-amazing-maze-tic-tac-toe.json](./169264-amazing-maze-tic-tac-toe.json) |
 | Amazing Penguin | 7753 | [7753-amazing-penguin.json](./7753-amazing-penguin.json) |
 | Amazing Penguin DX | 279579 | [279579-amazing-penguin-dx.json](./279579-amazing-penguin-dx.json) |
@@ -7056,6 +7058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends: Shockwave | 314909 | [314909-apex-legends-shockwave.json](./314909-apex-legends-shockwave.json) |
 | Apex Legends: Takeover | 333785 | [333785-apex-legends-takeover.json](./333785-apex-legends-takeover.json) |
 | Apex Legends: Upheaval | 300464 | [300464-apex-legends-upheaval.json](./300464-apex-legends-upheaval.json) |
+| Apex Point | 217477 | [217477-apex-point.json](./217477-apex-point.json) |
 | Apex Race Manager 2019 | 233116 | [233116-apex-race-manager-2019.json](./233116-apex-race-manager-2019.json) |
 | Apex Racer | 321514 | [321514-apex-racer.json](./321514-apex-racer.json) |
 | Apex Racer | 321515 | [321515-apex-racer.json](./321515-apex-racer.json) |
@@ -9051,6 +9054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ARZombi | 103569 | [103569-arzombi.json](./103569-arzombi.json) |
 | As A Vampire | 382553 | [382553-as-a-vampire.json](./382553-as-a-vampire.json) |
 | As Above AtumRa So Below | 235772 | [235772-as-above-atumra-so-below.json](./235772-as-above-atumra-so-below.json) |
+| As Above So Below | 217455 | [217455-as-above-so-below.json](./217455-as-above-so-below.json) |
 | As Aventuras da Abelhinha Maya | 273877 | [273877-as-aventuras-da-abelhinha-maya.json](./273877-as-aventuras-da-abelhinha-maya.json) |
 | As Aventuras de Kiwi | 306710 | [306710-as-aventuras-de-kiwi.json](./306710-as-aventuras-de-kiwi.json) |
 | As Aventuras de Zé Baldinho | 252049 | [252049-as-aventuras-de-ze-baldinho.json](./252049-as-aventuras-de-ze-baldinho.json) |
@@ -9680,6 +9684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids | 89564 | [89564-asteroids.json](./89564-asteroids.json) |
 | Asteroids & Super Breakout | 78656 | [78656-asteroids-and-super-breakout.json](./78656-asteroids-and-super-breakout.json) |
 | Asteroids ++ | 270049 | [270049-asteroids.json](./270049-asteroids.json) |
+| Asteroids and more asteroids | 217489 | [217489-asteroids-and-more-asteroids.json](./217489-asteroids-and-more-asteroids.json) |
 | Asteroids Arcade | 417452 | [417452-asteroids-arcade.json](./417452-asteroids-arcade.json) |
 | Asteroids Bangers | 178980 | [178980-asteroids-bangers.json](./178980-asteroids-bangers.json) |
 | Asteroids Belt: Try to Survive! | 164232 | [164232-asteroids-belt-try-to-survive.json](./164232-asteroids-belt-try-to-survive.json) |
