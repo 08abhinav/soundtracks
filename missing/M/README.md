@@ -2177,6 +2177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Bloomers | 127962 | [127962-marble-bloomers.json](./127962-marble-bloomers.json) |
 | Marble Castle | 413496 | [413496-marble-castle.json](./413496-marble-castle.json) |
 | Marble Champions | 276739 | [276739-marble-champions.json](./276739-marble-champions.json) |
+| Marble Computing | 190399 | [190399-marble-computing.json](./190399-marble-computing.json) |
 | Marble Craft | 88667 | [88667-marble-craft.json](./88667-marble-craft.json) |
 | Marble Drop | 360629 | [360629-marble-drop.json](./360629-marble-drop.json) |
 | Marble Duel | 28582 | [28582-marble-duel.json](./28582-marble-duel.json) |
@@ -13241,6 +13242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Land! | 234739 | [234739-my-land.json](./234739-my-land.json) |
 | My Last Friday | 320730 | [320730-my-last-friday.json](./320730-my-last-friday.json) |
 | My Last Heatwave | 396556 | [396556-my-last-heatwave.json](./396556-my-last-heatwave.json) |
+| My Last Journey | 190390 | [190390-my-last-journey.json](./190390-my-last-journey.json) |
 | My Last Memories About You | 158133 | [158133-my-last-memories-about-you.json](./158133-my-last-memories-about-you.json) |
 | My Last Stand: Survivors | 389549 | [389549-my-last-stand-survivors.json](./389549-my-last-stand-survivors.json) |
 | My Legend of Immortal Cultivation | 265317 | [265317-my-legend-of-immortal-cultivation.json](./265317-my-legend-of-immortal-cultivation.json) |
@@ -13394,6 +13396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Oil Empire | 212480 | [212480-my-oil-empire.json](./212480-my-oil-empire.json) |
 | My Only | 375859 | [375859-my-only.json](./375859-my-only.json) |
 | My Only Sunshine | 122152 | [122152-my-only-sunshine.json](./122152-my-only-sunshine.json) |
+| My Otaku Academia | 190405 | [190405-my-otaku-academia.json](./190405-my-otaku-academia.json) |
 | My Otter Friends | 403809 | [403809-my-otter-friends.json](./403809-my-otter-friends.json) |
 | My Own Hero Party | 412980 | [412980-my-own-hero-party.json](./412980-my-own-hero-party.json) |
 | My Own Murder | 345049 | [345049-my-own-murder.json](./345049-my-own-murder.json) |
