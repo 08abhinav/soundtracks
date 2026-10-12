@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B-Prison Unchain | 410418 | [410418-b-prison-unchain.json](./410418-b-prison-unchain.json) |
 | B-Rabbit | 117482 | [117482-b-rabbit.json](./117482-b-rabbit.json) |
 | B-Rain | 286443 | [286443-b-rain.json](./286443-b-rain.json) |
+| B-Side | 219730 | [219730-b-side.json](./219730-b-side.json) |
 | B-Sides | 183582 | [183582-b-sides.json](./183582-b-sides.json) |
 | B-Wings | 273080 | [273080-b-wings.json](./273080-b-wings.json) |
 | B. Braun Future Operating Room | 30686 | [30686-b-braun-future-operating-room.json](./30686-b-braun-future-operating-room.json) |
@@ -8320,6 +8321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booze Master | 191852 | [191852-booze-master.json](./191852-booze-master.json) |
 | Booze Masters: Freezing Moonshine | 119092 | [119092-booze-masters-freezing-moonshine.json](./119092-booze-masters-freezing-moonshine.json) |
 | Booze Masters: Freezing Moonshine | 266821 | [266821-booze-masters-freezing-moonshine.json](./266821-booze-masters-freezing-moonshine.json) |
+| BoozeBall | 219726 | [219726-boozeball.json](./219726-boozeball.json) |
 | Bop A Dork | 232587 | [232587-bop-a-dork.json](./232587-bop-a-dork.json) |
 | Bop It! Tetris | 229069 | [229069-bop-it-tetris.json](./229069-bop-it-tetris.json) |
 | Bop the Blox | 102265 | [102265-bop-the-blox.json](./102265-bop-the-blox.json) |
@@ -8530,6 +8532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bots Rush | 112350 | [112350-bots-rush.json](./112350-bots-rush.json) |
 | Bots!! | 175926 | [175926-bots.json](./175926-bots.json) |
 | Botticelli | 362434 | [362434-botticelli.json](./362434-botticelli.json) |
+| Bottle | 219728 | [219728-bottle.json](./219728-bottle.json) |
 | Bottle | 248787 | [248787-bottle.json](./248787-bottle.json) |
 | Bottle | 36488 | [36488-bottle.json](./36488-bottle.json) |
 | Bottle Can Float | 272826 | [272826-bottle-can-float.json](./272826-bottle-can-float.json) |
@@ -10476,6 +10479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Budget Cuts 2: Mission Insolvency | 119340 | [119340-budget-cuts-2-mission-insolvency.json](./119340-budget-cuts-2-mission-insolvency.json) |
 | Budget Rate Stigmata | 362855 | [362855-budget-rate-stigmata.json](./362855-budget-rate-stigmata.json) |
 | Budget Renovation Simulator | 407482 | [407482-budget-renovation-simulator.json](./407482-budget-renovation-simulator.json) |
+| Budgie Genetics Simulator | 219731 | [219731-budgie-genetics-simulator.json](./219731-budgie-genetics-simulator.json) |
 | Budni | 287359 | [287359-budni.json](./287359-budni.json) |
 | Buds | 176863 | [176863-buds.json](./176863-buds.json) |
 | Buenos Aires Mirror Line | 391162 | [391162-buenos-aires-mirror-line.json](./391162-buenos-aires-mirror-line.json) |
@@ -10754,6 +10758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Looper | 180051 | [180051-bullet-looper.json](./180051-bullet-looper.json) |
 | Bullet Maniac | 237629 | [237629-bullet-maniac.json](./237629-bullet-maniac.json) |
 | Bullet Noir | 317536 | [317536-bullet-noir.json](./317536-bullet-noir.json) |
+| Bullet Priest | 219732 | [219732-bullet-priest.json](./219732-bullet-priest.json) |
 | Bullet Quest | 199461 | [199461-bullet-quest.json](./199461-bullet-quest.json) |
 | Bullet Race | 281975 | [281975-bullet-race.json](./281975-bullet-race.json) |
 | Bullet Rain | 302357 | [302357-bullet-rain.json](./302357-bullet-rain.json) |
