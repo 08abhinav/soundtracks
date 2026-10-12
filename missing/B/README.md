@@ -4307,6 +4307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betweenle | 356579 | [356579-betweenle.json](./356579-betweenle.json) |
 | Betweenside | 102357 | [102357-betweenside.json](./102357-betweenside.json) |
 | Bevel's Painting | 121030 | [121030-bevels-painting.json](./121030-bevels-painting.json) |
+| Beverage Hills | 219203 | [219203-beverage-hills.json](./219203-beverage-hills.json) |
 | Beverly Hills Cop | 77002 | [77002-beverly-hills-cop.json](./77002-beverly-hills-cop.json) |
 | Beverly Hills Models | 201264 | [201264-beverly-hills-models.json](./201264-beverly-hills-models.json) |
 | Beware | 102780 | [102780-beware.json](./102780-beware.json) |
@@ -4449,6 +4450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Plastic Wall | 249901 | [249901-beyond-the-plastic-wall.json](./249901-beyond-the-plastic-wall.json) |
 | Beyond the Portal: Island's Salvation | 296605 | [296605-beyond-the-portal-islands-salvation.json](./296605-beyond-the-portal-islands-salvation.json) |
 | Beyond the Rust | 362895 | [362895-beyond-the-rust.json](./362895-beyond-the-rust.json) |
+| Beyond the Shadow | 219204 | [219204-beyond-the-shadow.json](./219204-beyond-the-shadow.json) |
 | Beyond the Sideline Football | 62223 | [62223-beyond-the-sideline-football.json](./62223-beyond-the-sideline-football.json) |
 | Beyond the Stars VR | 119721 | [119721-beyond-the-stars-vr.json](./119721-beyond-the-stars-vr.json) |
 | Beyond the Sunset | 68671 | [68671-beyond-the-sunset.json](./68671-beyond-the-sunset.json) |
@@ -4567,6 +4569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Adventure: Trip to Europe | 237359 | [237359-big-adventure-trip-to-europe.json](./237359-big-adventure-trip-to-europe.json) |
 | Big Adventure: Trip to Europe 10 - Collector's Edition | 338699 | [338699-big-adventure-trip-to-europe-10-collectors-edition.json](./338699-big-adventure-trip-to-europe-10-collectors-edition.json) |
 | Big Adventure: Trip to Europe 11 | 417373 | [417373-big-adventure-trip-to-europe-11.json](./417373-big-adventure-trip-to-europe-11.json) |
+| Big Adventure: Trip to Europe 2 - Collector's Edition | 219205 | [219205-big-adventure-trip-to-europe-2-collectors-edition.json](./219205-big-adventure-trip-to-europe-2-collectors-edition.json) |
 | Big Adventure: Trip to Europe 3 | 417375 | [417375-big-adventure-trip-to-europe-3.json](./417375-big-adventure-trip-to-europe-3.json) |
 | Big Adventure: Trip to Europe 4 | 417376 | [417376-big-adventure-trip-to-europe-4.json](./417376-big-adventure-trip-to-europe-4.json) |
 | Big Adventure: Trip to Europe 4 - Collector's Edition | 244652 | [244652-big-adventure-trip-to-europe-4-collectors-edition.json](./244652-big-adventure-trip-to-europe-4-collectors-edition.json) |
@@ -4886,6 +4889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bill & Ted's Excellent Game Boy Adventure | 290651 | [290651-bill-and-teds-excellent-game-boy-adventure.json](./290651-bill-and-teds-excellent-game-boy-adventure.json) |
 | Bill and Ted's Excellent Retro Collection | 203772 | [203772-bill-and-teds-excellent-retro-collection.json](./203772-bill-and-teds-excellent-retro-collection.json) |
 | Bill Bounce | 231623 | [231623-bill-bounce.json](./231623-bill-bounce.json) |
+| Bill Hates Videogames | 219206 | [219206-bill-hates-videogames.json](./219206-bill-hates-videogames.json) |
 | Bill Killem | 343997 | [343997-bill-killem.json](./343997-bill-killem.json) |
 | Bill Laimbeer's Combat Basketball | 46002 | [46002-bill-laimbeers-combat-basketball.json](./46002-bill-laimbeers-combat-basketball.json) |
 | Bill Nye the Science Guy: Stop the Rock | 67957 | [67957-bill-nye-the-science-guy-stop-the-rock.json](./67957-bill-nye-the-science-guy-stop-the-rock.json) |
@@ -4914,6 +4918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billiards Xciting | 78000 | [78000-billiards-xciting.json](./78000-billiards-xciting.json) |
 | Billie's Wheelie | 383571 | [383571-billies-wheelie.json](./383571-billies-wheelie.json) |
 | Billion | 402385 | [402385-billion.json](./402385-billion.json) |
+| Billion Bastard Bots | 219207 | [219207-billion-bastard-bots.json](./219207-billion-bastard-bots.json) |
 | Billion Bounces | 382334 | [382334-billion-bounces.json](./382334-billion-bounces.json) |
 | Billion Egg Farm | 407445 | [407445-billion-egg-farm.json](./407445-billion-egg-farm.json) |
 | Billion Road | 109474 | [109474-billion-road.json](./109474-billion-road.json) |
@@ -5848,6 +5853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack Academy | 12352 | [12352-blackjack-academy.json](./12352-blackjack-academy.json) |
 | Blackjack Alchemist | 397250 | [397250-blackjack-alchemist.json](./397250-blackjack-alchemist.json) |
 | Blackjack and Pomodoro Mystery | 319015 | [319015-blackjack-and-pomodoro-mystery.json](./319015-blackjack-and-pomodoro-mystery.json) |
+| Blackjack at Carrot | 219208 | [219208-blackjack-at-carrot.json](./219208-blackjack-at-carrot.json) |
 | Blackjack Avenue | 205030 | [205030-blackjack-avenue.json](./205030-blackjack-avenue.json) |
 | Blackjack Bailey VR | 28317 | [28317-blackjack-bailey-vr.json](./28317-blackjack-bailey-vr.json) |
 | Blackjack Calculator | 245550 | [245550-blackjack-calculator.json](./245550-blackjack-calculator.json) |
@@ -5998,6 +6004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Trick | 382547 | [382547-blade-trick.json](./382547-blade-trick.json) |
 | Blade vs. Undead | 339936 | [339936-blade-vs-undead.json](./339936-blade-vs-undead.json) |
 | Blade Warrior | 14313 | [14313-blade-warrior.json](./14313-blade-warrior.json) |
+| Blade-Shift Rage | 219209 | [219209-blade-shift-rage.json](./219209-blade-shift-rage.json) |
 | Blade: Trinity | 322358 | [322358-blade-trinity.json](./322358-blade-trinity.json) |
 | Blade's Burden | 284009 | [284009-blades-burden.json](./284009-blades-burden.json) |
 | Blade's Legacy | 88081 | [88081-blades-legacy.json](./88081-blades-legacy.json) |
@@ -6337,6 +6344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blessed Curse | 318560 | [318560-blessed-curse.json](./318560-blessed-curse.json) |
 | Blessed Redux | 382201 | [382201-blessed-redux.json](./382201-blessed-redux.json) |
 | Blessed Surface | 76357 | [76357-blessed-surface.json](./76357-blessed-surface.json) |
+| Blessed Work | 219210 | [219210-blessed-work.json](./219210-blessed-work.json) |
 | Blessing in the Darkness | 333059 | [333059-blessing-in-the-darkness.json](./333059-blessing-in-the-darkness.json) |
 | Blest | 367534 | [367534-blest.json](./367534-blest.json) |
 | Bleu Bayou | 349836 | [349836-bleu-bayou.json](./349836-bleu-bayou.json) |
@@ -6726,6 +6734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockout | 10208 | [10208-blockout.json](./10208-blockout.json) |
 | Blockout | 347672 | [347672-blockout.json](./347672-blockout.json) |
 | Blockoverse: The Legend of the Pix | 321070 | [321070-blockoverse-the-legend-of-the-pix.json](./321070-blockoverse-the-legend-of-the-pix.json) |
+| Blockpop Heroes | 219211 | [219211-blockpop-heroes.json](./219211-blockpop-heroes.json) |
 | Blockpost Mobile | 225875 | [225875-blockpost-mobile.json](./225875-blockpost-mobile.json) |
 | Blocks | 113503 | [113503-blocks.json](./113503-blocks.json) |
 | Blocks | 208625 | [208625-blocks.json](./208625-blocks.json) |
@@ -7318,6 +7327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Horizon | 23930 | [23930-blue-horizon.json](./23930-blue-horizon.json) |
 | Blue Horizon: Hibiscus, and the Loved Garden Paths of Raj Rivera | 395997 | [395997-blue-horizon-hibiscus-and-the-loved-garden-paths-of-raj-rivera.json](./395997-blue-horizon-hibiscus-and-the-loved-garden-paths-of-raj-rivera.json) |
 | Blue Hunter | 303167 | [303167-blue-hunter.json](./303167-blue-hunter.json) |
+| Blue Intervention | 219213 | [219213-blue-intervention.json](./219213-blue-intervention.json) |
 | Blue Jay Joyride | 195628 | [195628-blue-jay-joyride.json](./195628-blue-jay-joyride.json) |
 | Blue June | 153405 | [153405-blue-june.json](./153405-blue-june.json) |
 | Blue Land | 302476 | [302476-blue-land.json](./302476-blue-land.json) |
@@ -10671,6 +10681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Building Block Simulator | 297636 | [297636-building-block-simulator.json](./297636-building-block-simulator.json) |
 | Building Block: Castle & City Craft Simulator | 89277 | [89277-building-block-castle-and-city-craft-simulator.json](./89277-building-block-castle-and-city-craft-simulator.json) |
 | Building Blocks / Master Builder of Egypt | 81219 | [81219-building-blocks-master-builder-of-egypt.json](./81219-building-blocks-master-builder-of-egypt.json) |
+| Building Destruction | 219214 | [219214-building-destruction.json](./219214-building-destruction.json) |
 | Building Manager | 401833 | [401833-building-manager.json](./401833-building-manager.json) |
 | Building our Futature | 223500 | [223500-building-our-futature.json](./223500-building-our-futature.json) |
 | Building Relationships | 152275 | [152275-building-relationships.json](./152275-building-relationships.json) |
@@ -10852,6 +10863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumble Games | 72171 | [72171-bumble-games.json](./72171-bumble-games.json) |
 | Bumble Plot | 68725 | [68725-bumble-plot.json](./68725-bumble-plot.json) |
 | Bumble Rumble | 346678 | [346678-bumble-rumble.json](./346678-bumble-rumble.json) |
+| Bumblebee: Little Bee Adventure | 219215 | [219215-bumblebee-little-bee-adventure.json](./219215-bumblebee-little-bee-adventure.json) |
 | Bumblebee: Search for Happiness | 330398 | [330398-bumblebee-search-for-happiness.json](./330398-bumblebee-search-for-happiness.json) |
 | Bumblebee: Storm of Friendship | 345691 | [345691-bumblebee-storm-of-friendship.json](./345691-bumblebee-storm-of-friendship.json) |
 | Bumbledore | 16348 | [16348-bumbledore.json](./16348-bumbledore.json) |
