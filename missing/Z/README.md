@@ -324,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Idle: Gravity Meditation | 233403 | [233403-zen-idle-gravity-meditation.json](./233403-zen-idle-gravity-meditation.json) |
 | Zen Koi | 255841 | [255841-zen-koi.json](./255841-zen-koi.json) |
 | Zen Koi 2 | 90702 | [90702-zen-koi-2.json](./90702-zen-koi-2.json) |
+| Zen L'Initié | 181634 | [181634-zen-linitie.json](./181634-zen-linitie.json) |
 | Zen Lines | 219772 | [219772-zen-lines.json](./219772-zen-lines.json) |
 | Zen Match | 185681 | [185681-zen-match.json](./185681-zen-match.json) |
 | Zen Mosaics | 415860 | [415860-zen-mosaics.json](./415860-zen-mosaics.json) |
@@ -1279,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombs.io | 76570 | [76570-zombs-io.json](./76570-zombs-io.json) |
 | Zombuds | 404357 | [404357-zombuds.json](./404357-zombuds.json) |
 | Zombusters | 50804 | [50804-zombusters.json](./50804-zombusters.json) |
+| Zombusters: Enhanced Edition | 184304 | [184304-zombusters-enhanced-edition.json](./184304-zombusters-enhanced-edition.json) |
 | Zombutcher | 379585 | [379585-zombutcher.json](./379585-zombutcher.json) |
 | ZombWave | 207402 | [207402-zombwave.json](./207402-zombwave.json) |
 | ZomDay | 54476 | [54476-zomday.json](./54476-zomday.json) |
