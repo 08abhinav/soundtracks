@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bacchikoi! | 224464 | [224464-bacchikoi.json](./224464-bacchikoi.json) |
 | Bacchikoi!: Expansion Pack | 224494 | [224494-bacchikoi-expansion-pack.json](./224494-bacchikoi-expansion-pack.json) |
 | Bacchus | 121626 | [121626-bacchus.json](./121626-bacchus.json) |
+| Bacchus | 221338 | [221338-bacchus.json](./221338-bacchus.json) |
 | Bachelairs | 331357 | [331357-bachelairs.json](./331357-bachelairs.json) |
 | Bachelor Party | 11128 | [11128-bachelor-party.json](./11128-bachelor-party.json) |
 | Bachelor Party/Gigolo | 79966 | [79966-bachelor-party-gigolo.json](./79966-bachelor-party-gigolo.json) |
@@ -7321,6 +7322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Man Adventure | 412516 | [412516-blue-man-adventure.json](./412516-blue-man-adventure.json) |
 | Blue Max 2001 | 13818 | [13818-blue-max-2001.json](./13818-blue-max-2001.json) |
 | Blue Mint | 340216 | [340216-blue-mint.json](./340216-blue-mint.json) |
+| Blue Monster: Rainbow Survival | 221339 | [221339-blue-monster-rainbow-survival.json](./221339-blue-monster-rainbow-survival.json) |
 | Blue Moon | 221990 | [221990-blue-moon.json](./221990-blue-moon.json) |
 | Blue Mushrooms | 277036 | [277036-blue-mushrooms.json](./277036-blue-mushrooms.json) |
 | Blue Nebula | 252119 | [252119-blue-nebula.json](./252119-blue-nebula.json) |
@@ -8812,6 +8814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Islands | 234616 | [234616-bowling-islands.json](./234616-bowling-islands.json) |
 | Bowling Party | 58257 | [58257-bowling-party.json](./58257-bowling-party.json) |
 | Bowling Street | 96913 | [96913-bowling-street.json](./96913-bowling-street.json) |
+| Bowling Strike | 221341 | [221341-bowling-strike.json](./221341-bowling-strike.json) |
 | Bowling Strike | 421386 | [421386-bowling-strike.json](./421386-bowling-strike.json) |
 | Bowling X | 68642 | [68642-bowling-x.json](./68642-bowling-x.json) |
 | Bowling! / Basketball! | 80209 | [80209-bowling-basketball.json](./80209-bowling-basketball.json) |
@@ -9095,6 +9098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Test 2: Tricky Stories | 297626 | [297626-brain-test-2-tricky-stories.json](./297626-brain-test-2-tricky-stories.json) |
 | Brain Test All-Star: IQ Boost | 379581 | [379581-brain-test-all-star-iq-boost.json](./379581-brain-test-all-star-iq-boost.json) |
 | Brain Test: Mental Games | 304129 | [304129-brain-test-mental-games.json](./304129-brain-test-mental-games.json) |
+| Brain Test: Thinking Game | 221342 | [221342-brain-test-thinking-game.json](./221342-brain-test-thinking-game.json) |
 | Brain Test: Tricky Puzzles | 322082 | [322082-brain-test-tricky-puzzles.json](./322082-brain-test-tricky-puzzles.json) |
 | Brain Tester: Mind trick quiz | 233650 | [233650-brain-tester-mind-trick-quiz.json](./233650-brain-tester-mind-trick-quiz.json) |
 | Brain Tester: Mind Trick Quiz 2 | 301839 | [301839-brain-tester-mind-trick-quiz-2.json](./301839-brain-tester-mind-trick-quiz-2.json) |
@@ -11241,6 +11245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Driving Simulator 24: City Roads - School Bus | 284960 | [284960-bus-driving-simulator-24-city-roads-school-bus.json](./284960-bus-driving-simulator-24-city-roads-school-bus.json) |
 | Bus Escape: Traffic Jam | 357384 | [357384-bus-escape-traffic-jam.json](./357384-bus-escape-traffic-jam.json) |
 | Bus Fix 2019 | 120179 | [120179-bus-fix-2019.json](./120179-bus-fix-2019.json) |
+| Bus Parking 3D | 221366 | [221366-bus-parking-3d.json](./221366-bus-parking-3d.json) |
 | Bus Racing: Offroad 2018 | 106516 | [106516-bus-racing-offroad-2018.json](./106516-bus-racing-offroad-2018.json) |
 | Bus Sim 25: City Simulator | 349811 | [349811-bus-sim-25-city-simulator.json](./349811-bus-sim-25-city-simulator.json) |
 | Bus Simulator | 130938 | [130938-bus-simulator.json](./130938-bus-simulator.json) |
