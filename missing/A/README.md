@@ -2570,6 +2570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After The End: Southern Land | 356044 | [356044-after-the-end-southern-land.json](./356044-after-the-end-southern-land.json) |
 | After the Fall | 119330 | [119330-after-the-fall.json](./119330-after-the-fall.json) |
 | After the Fall: Complete Edition | 237751 | [237751-after-the-fall-complete-edition.json](./237751-after-the-fall-complete-edition.json) |
+| After the Fall: Frontrunner Edition | 191495 | [191495-after-the-fall-frontrunner-edition.json](./191495-after-the-fall-frontrunner-edition.json) |
 | After the Fall: Frontrunner Season | 204497 | [204497-after-the-fall-frontrunner-season.json](./204497-after-the-fall-frontrunner-season.json) |
 | After the Fall: Launch Edition | 196313 | [196313-after-the-fall-launch-edition.json](./196313-after-the-fall-launch-edition.json) |
 | After the Inferno | 211423 | [211423-after-the-inferno.json](./211423-after-the-inferno.json) |
