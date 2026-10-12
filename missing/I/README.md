@@ -777,6 +777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icewind Dale: Complete | 143699 | [143699-icewind-dale-complete.json](./143699-icewind-dale-complete.json) |
 | Icewind Dale: Enhanced Edition | 36240 | [36240-icewind-dale-enhanced-edition.json](./36240-icewind-dale-enhanced-edition.json) |
 | Icewind Dale: Heart of Winter - Trials of the Luremaster | 8829 | [8829-icewind-dale-heart-of-winter-trials-of-the-luremaster.json](./8829-icewind-dale-heart-of-winter-trials-of-the-luremaster.json) |
+| Icewords | 186006 | [186006-icewords.json](./186006-icewords.json) |
 | Icey: Ucey's Awakening | 171943 | [171943-icey-uceys-awakening.json](./171943-icey-uceys-awakening.json) |
 | Icharko | 277255 | [277255-icharko.json](./277255-icharko.json) |
 | Ichido ha Yonde Okitai: Nihon Bungaku 100-sen | 269639 | [269639-ichido-ha-yonde-okitai-nihon-bungaku-100-sen.json](./269639-ichido-ha-yonde-okitai-nihon-bungaku-100-sen.json) |
@@ -2207,6 +2208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indigo Loop | 207570 | [207570-indigo-loop.json](./207570-indigo-loop.json) |
 | Indigo Prohecy: 15th Anniversary Edition | 139933 | [139933-indigo-prohecy-15th-anniversary-edition.json](./139933-indigo-prohecy-15th-anniversary-edition.json) |
 | Indigo Prophecy | 410247 | [410247-indigo-prophecy.json](./410247-indigo-prophecy.json) |
+| Indirection | 186000 | [186000-indirection.json](./186000-indirection.json) |
 | Indirian Solitaire | 91732 | [91732-indirian-solitaire.json](./91732-indirian-solitaire.json) |
 | Indistinguishable | 400964 | [400964-indistinguishable.json](./400964-indistinguishable.json) |
 | Individual Investor Tycoon II | 374256 | [374256-individual-investor-tycoon-ii.json](./374256-individual-investor-tycoon-ii.json) |
