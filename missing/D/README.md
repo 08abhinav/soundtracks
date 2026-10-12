@@ -1008,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Harvest: Ascension | 224577 | [224577-dark-harvest-ascension.json](./224577-dark-harvest-ascension.json) |
 | Dark Haunting | 192225 | [192225-dark-haunting.json](./192225-dark-haunting.json) |
 | Dark Heart Mansion | 156994 | [156994-dark-heart-mansion.json](./156994-dark-heart-mansion.json) |
+| Dark Hero Dash | 214105 | [214105-dark-hero-dash.json](./214105-dark-hero-dash.json) |
 | Dark Honor | 403652 | [403652-dark-honor.json](./403652-dark-honor.json) |
 | Dark Horizon | 19639 | [19639-dark-horizon.json](./19639-dark-horizon.json) |
 | Dark Horizons: Lore | 332670 | [332670-dark-horizons-lore.json](./332670-dark-horizons-lore.json) |
@@ -8215,8 +8216,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Eternal: Year One Pass | 293919 | [293919-doom-eternal-year-one-pass.json](./293919-doom-eternal-year-one-pass.json) |
 | Doom Fighters | 202839 | [202839-doom-fighters.json](./202839-doom-fighters.json) |
 | Doom GTS | 76246 | [76246-doom-gts.json](./76246-doom-gts.json) |
+| Doom I Enhanced | 214128 | [214128-doom-i-enhanced.json](./214128-doom-i-enhanced.json) |
 | Doom II | 121503 | [121503-doom-ii.json](./121503-doom-ii.json) |
 | Doom II + Final Doom | 132823 | [132823-doom-ii-final-doom.json](./132823-doom-ii-final-doom.json) |
+| Doom II Enhanced | 214127 | [214127-doom-ii-enhanced.json](./214127-doom-ii-enhanced.json) |
 | Doom II RPG | 101031 | [101031-doom-ii-rpg.json](./101031-doom-ii-rpg.json) |
 | Doom II: 'D'-Radys Companion Mod | 202834 | [202834-doom-ii-d-radys-companion-mod.json](./202834-doom-ii-d-radys-companion-mod.json) |
 | Doom II: Ascension | 202842 | [202842-doom-ii-ascension.json](./202842-doom-ii-ascension.json) |
@@ -8817,6 +8820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downward Spiral: Prologue | 29981 | [29981-downward-spiral-prologue.json](./29981-downward-spiral-prologue.json) |
 | Downward: Enhanced Edition | 301912 | [301912-downward-enhanced-edition.json](./301912-downward-enhanced-edition.json) |
 | Dowon | 292299 | [292299-dowon.json](./292299-dowon.json) |
+| Doxxed | 214111 | [214111-doxxed.json](./214111-doxxed.json) |
 | Dozie Penguins | 216411 | [216411-dozie-penguins.json](./216411-dozie-penguins.json) |
 | DP.T: Dr Pepper Terror | 140916 | [140916-dp-t-dr-pepper-terror.json](./140916-dp-t-dr-pepper-terror.json) |
 | Dps Idle | 161333 | [161333-dps-idle.json](./161333-dps-idle.json) |
@@ -10012,6 +10016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream League Soccer 2025 | 330832 | [330832-dream-league-soccer-2025.json](./330832-dream-league-soccer-2025.json) |
 | Dream League Soccer 2026 | 411784 | [411784-dream-league-soccer-2026.json](./411784-dream-league-soccer-2026.json) |
 | Dream Life in the Country Side | 333010 | [333010-dream-life-in-the-country-side.json](./333010-dream-life-in-the-country-side.json) |
+| Dream Logic | 214119 | [214119-dream-logic.json](./214119-dream-logic.json) |
 | Dream Loser | 399263 | [399263-dream-loser.json](./399263-dream-loser.json) |
 | Dream Magic Will | 207272 | [207272-dream-magic-will.json](./207272-dream-magic-will.json) |
 | Dream Management | 49608 | [49608-dream-management.json](./49608-dream-management.json) |
