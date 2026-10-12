@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Doom | 262564 | [262564-pac-man-doom.json](./262564-pac-man-doom.json) |
 | Pac-Man Double Feature | 378397 | [378397-pac-man-double-feature.json](./378397-pac-man-double-feature.json) |
 | Pac-Man Forever | 396714 | [396714-pac-man-forever.json](./396714-pac-man-forever.json) |
+| Pac-Man Games | 220257 | [220257-pac-man-games.json](./220257-pac-man-games.json) |
 | Pac-Man Geo | 172697 | [172697-pac-man-geo.json](./172697-pac-man-geo.json) |
 | Pac-Man Maker | 28186 | [28186-pac-man-maker.json](./28186-pac-man-maker.json) |
 | Pac-Man Mega Tunnel Battle: Chomp Champs - Lunar Animals Pac | 300927 | [300927-pac-man-mega-tunnel-battle-chomp-champs-lunar-animals-pac.json](./300927-pac-man-mega-tunnel-battle-chomp-champs-lunar-animals-pac.json) |
@@ -175,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man: Ralph Breaks the Maze | 112300 | [112300-pac-man-ralph-breaks-the-maze.json](./112300-pac-man-ralph-breaks-the-maze.json) |
 | Pac-Man: Special Color Edition | 49833 | [49833-pac-man-special-color-edition.json](./49833-pac-man-special-color-edition.json) |
 | Pac-Man: Ticket Mania | 146284 | [146284-pac-man-ticket-mania.json](./146284-pac-man-ticket-mania.json) |
+| Pac-Man's Arcade Party | 220255 | [220255-pac-mans-arcade-party.json](./220255-pac-mans-arcade-party.json) |
 | Pac-Mania | 174623 | [174623-pac-mania.json](./174623-pac-mania.json) |
 | Pac-Mania | 284365 | [284365-pac-mania.json](./284365-pac-mania.json) |
 | Pac-Mania | 284465 | [284465-pac-mania.json](./284465-pac-mania.json) |
@@ -3531,6 +3533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Philosophic Love | 105126 | [105126-philosophic-love.json](./105126-philosophic-love.json) |
 | Philosophical Jigsaw: The Zen Koans | 202647 | [202647-philosophical-jigsaw-the-zen-koans.json](./202647-philosophical-jigsaw-the-zen-koans.json) |
 | Philotes Trials | 244717 | [244717-philotes-trials.json](./244717-philotes-trials.json) |
+| Phineas & Ferb: Best Game Ever! | 220259 | [220259-phineas-and-ferb-best-game-ever.json](./220259-phineas-and-ferb-best-game-ever.json) |
 | Phineas & Ferb: Day of Doofensmirtz | 42667 | [42667-phineas-and-ferb-day-of-doofensmirtz.json](./42667-phineas-and-ferb-day-of-doofensmirtz.json) |
 | Phineas and Ferb | 230397 | [230397-phineas-and-ferb.json](./230397-phineas-and-ferb.json) |
 | Phineas and Ferb Arcade | 361713 | [361713-phineas-and-ferb-arcade.json](./361713-phineas-and-ferb-arcade.json) |
@@ -5026,6 +5029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitty Meaty | 368657 | [368657-pitty-meaty.json](./368657-pitty-meaty.json) |
 | Pity Pit | 132769 | [132769-pity-pit.json](./132769-pity-pit.json) |
 | Pity This Busy Monster | 345587 | [345587-pity-this-busy-monster.json](./345587-pity-this-busy-monster.json) |
+| Piui Seoyak | 220285 | [220285-piui-seoyak.json](./220285-piui-seoyak.json) |
 | Piverantum | 261752 | [261752-piverantum.json](./261752-piverantum.json) |
 | Pivo | 132136 | [132136-pivo.json](./132136-pivo.json) |
 | Pivot of Hearts | 191165 | [191165-pivot-of-hearts.json](./191165-pivot-of-hearts.json) |
