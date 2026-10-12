@@ -6211,6 +6211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocman X | 247412 | [247412-rocman-x.json](./247412-rocman-x.json) |
 | Roco Kingdom | 395852 | [395852-roco-kingdom.json](./395852-roco-kingdom.json) |
 | Rocococo: Audiogame Fantastique | 258700 | [258700-rocococo-audiogame-fantastique.json](./258700-rocococo-audiogame-fantastique.json) |
+| Rocpain: Rock Paper Scissors | 226366 | [226366-rocpain-rock-paper-scissors.json](./226366-rocpain-rock-paper-scissors.json) |
 | Rod & Ripple | 343223 | [343223-rod-and-ripple.json](./343223-rod-and-ripple.json) |
 | Rod Multiplayer Car Driving | 226146 | [226146-rod-multiplayer-car-driving.json](./226146-rod-multiplayer-car-driving.json) |
 | Rod Roll | 329102 | [329102-rod-roll.json](./329102-rod-roll.json) |
