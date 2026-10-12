@@ -3830,6 +3830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aleph | 259184 | [259184-aleph.json](./259184-aleph.json) |
 | Aleph | 274755 | [274755-aleph.json](./274755-aleph.json) |
 | Aleph Null | 31809 | [31809-aleph-null.json](./31809-aleph-null.json) |
+| Alephant | 190400 | [190400-alephant.json](./190400-alephant.json) |
 | Alert | 14236 | [14236-alert.json](./14236-alert.json) |
 | Alert X: Ostatnia Nadzieja Ziemi | 14237 | [14237-alert-x-ostatnia-nadzieja-ziemi.json](./14237-alert-x-ostatnia-nadzieja-ziemi.json) |
 | Alertes Spéciales | 363969 | [363969-alertes-speciales.json](./363969-alertes-speciales.json) |
@@ -11309,6 +11310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axia | 46637 | [46637-axia.json](./46637-axia.json) |
 | Axial Disc 1 | 164869 | [164869-axial-disc-1.json](./164869-axial-disc-1.json) |
 | Axial Disc 2 | 217408 | [217408-axial-disc-2.json](./217408-axial-disc-2.json) |
+| Axial Drift | 190394 | [190394-axial-drift.json](./190394-axial-drift.json) |
 | Axie Infinity | 109024 | [109024-axie-infinity.json](./109024-axie-infinity.json) |
 | aXiebal 2004 | 93174 | [93174-axiebal-2004.json](./93174-axiebal-2004.json) |
 | Axiel | 127827 | [127827-axiel.json](./127827-axiel.json) |
