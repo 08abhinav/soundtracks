@@ -8449,6 +8449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post Solis | 199102 | [199102-post-solis.json](./199102-post-solis.json) |
 | Post Soviet Strike: Chernobyl Legacy | 294161 | [294161-post-soviet-strike-chernobyl-legacy.json](./294161-post-soviet-strike-chernobyl-legacy.json) |
 | Post Soviet Zombies | 120403 | [120403-post-soviet-zombies.json](./120403-post-soviet-zombies.json) |
+| Post War | 179419 | [179419-post-war.json](./179419-post-war.json) |
 | Post War Dreams | 28947 | [28947-post-war-dreams.json](./28947-post-war-dreams.json) |
 | Post-apocalyptic Old man | 283236 | [283236-post-apocalyptic-old-man.json](./283236-post-apocalyptic-old-man.json) |
 | Post-Disclosure, Devil's Night | 218407 | [218407-post-disclosure-devils-night.json](./218407-post-disclosure-devils-night.json) |
@@ -9086,6 +9087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PreStrafe | 374804 | [374804-prestrafe.json](./374804-prestrafe.json) |
 | Pretend Dead Friend | 271308 | [271308-pretend-dead-friend.json](./271308-pretend-dead-friend.json) |
 | Pretend it's not There | 324689 | [324689-pretend-its-not-there.json](./324689-pretend-its-not-there.json) |
+| Preternatural Candy Shop | 179417 | [179417-preternatural-candy-shop.json](./179417-preternatural-candy-shop.json) |
 | Pretty Agent | 311561 | [311561-pretty-agent.json](./311561-pretty-agent.json) |
 | Pretty Angel | 127092 | [127092-pretty-angel.json](./127092-pretty-angel.json) |
 | Pretty Ballerina Dancer | 87015 | [87015-pretty-ballerina-dancer.json](./87015-pretty-ballerina-dancer.json) |
