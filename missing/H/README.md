@@ -5454,6 +5454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hokuto no Ken: Violence Gekiga Adventure | 64195 | [64195-hokuto-no-ken-violence-gekiga-adventure.json](./64195-hokuto-no-ken-violence-gekiga-adventure.json) |
 | Hola! Reversi | 248655 | [248655-hola-reversi.json](./248655-hola-reversi.json) |
 | Hold a Second | 241341 | [241341-hold-a-second.json](./241341-hold-a-second.json) |
+| Hold Controller | 211904 | [211904-hold-controller.json](./211904-hold-controller.json) |
 | Hold Fast | 13006 | [13006-hold-fast.json](./13006-hold-fast.json) |
 | Hold Me Still | 366353 | [366353-hold-me-still.json](./366353-hold-me-still.json) |
 | Hold My Beer | 51581 | [51581-hold-my-beer.json](./51581-hold-my-beer.json) |
@@ -6959,6 +6960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Moiré | 212991 | [212991-house-of-moire.json](./212991-house-of-moire.json) |
 | House of Necrosis | 206009 | [206009-house-of-necrosis.json](./206009-house-of-necrosis.json) |
 | House of Nowhere | 385861 | [385861-house-of-nowhere.json](./385861-house-of-nowhere.json) |
+| House of Pain | 211980 | [211980-house-of-pain.json](./211980-house-of-pain.json) |
 | House of Plague 0 | 107907 | [107907-house-of-plague-0.json](./107907-house-of-plague-0.json) |
 | House of Portals VR | 154384 | [154384-house-of-portals-vr.json](./154384-house-of-portals-vr.json) |
 | House of Shadow | 230907 | [230907-house-of-shadow.json](./230907-house-of-shadow.json) |
