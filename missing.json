@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T12:08:48.667Z",
-  "total_missing": 201659,
+  "generated_at": "2026-10-12T12:12:22.511Z",
+  "total_missing": 201655,
   "games": [
     {
       "igdb_id": 191680,
@@ -221261,11 +221261,6 @@
       "igdb_id": 42202,
       "game_name": "Dino City",
       "file": "missing/D/42202-dino-city.json"
-    },
-    {
-      "igdb_id": 3027,
-      "game_name": "Dino Crisis",
-      "file": "missing/D/3027-dino-crisis.json"
     },
     {
       "igdb_id": 317628,
@@ -724868,11 +724863,6 @@
       "file": "missing/S/103876-secret-of-lost-pyramid.json"
     },
     {
-      "igdb_id": 3216,
-      "game_name": "Secret of Mana",
-      "file": "missing/S/3216-secret-of-mana.json"
-    },
-    {
       "igdb_id": 249276,
       "game_name": "Secret of Mana: Relocalized",
       "file": "missing/S/249276-secret-of-mana-relocalized.json"
@@ -986008,11 +985998,6 @@
       "file": "missing/W/322152-world-of-warcraft-the-war-within-undermine-d.json"
     },
     {
-      "igdb_id": 3157,
-      "game_name": "World of Warcraft: Warlords of Draenor",
-      "file": "missing/W/3157-world-of-warcraft-warlords-of-draenor.json"
-    },
-    {
       "igdb_id": 13622,
       "game_name": "World of Warcraft: Warlords of Draenor - Collector's Edition",
       "file": "missing/W/13622-world-of-warcraft-warlords-of-draenor-collectors-edition.json"
@@ -993846,11 +993831,6 @@
       "igdb_id": 7489,
       "game_name": "Yakuza: Dead Souls",
       "file": "missing/Y/7489-yakuza-dead-souls.json"
-    },
-    {
-      "igdb_id": 36550,
-      "game_name": "Yakuza: Like a Dragon",
-      "file": "missing/Y/36550-yakuza-like-a-dragon.json"
     },
     {
       "igdb_id": 136196,
