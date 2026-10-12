@@ -838,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panik | 289300 | [289300-panik.json](./289300-panik.json) |
 | Panilla Saga | 159068 | [159068-panilla-saga.json](./159068-panilla-saga.json) |
 | Panin | 358331 | [358331-panin.json](./358331-panin.json) |
+| Panini Adventure | 208104 | [208104-panini-adventure.json](./208104-panini-adventure.json) |
 | Panmorphia | 96536 | [96536-panmorphia.json](./96536-panmorphia.json) |
 | Panmorphia: Awakened | 197256 | [197256-panmorphia-awakened.json](./197256-panmorphia-awakened.json) |
 | Panmorphia: Enchanted | 171621 | [171621-panmorphia-enchanted.json](./171621-panmorphia-enchanted.json) |
@@ -6683,6 +6684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Warriors | 152162 | [152162-pocket-warriors.json](./152162-pocket-warriors.json) |
 | Pocket Wars: Protect or Destroy | 109541 | [109541-pocket-wars-protect-or-destroy.json](./109541-pocket-wars-protect-or-destroy.json) |
 | Pocket Witch | 223045 | [223045-pocket-witch.json](./223045-pocket-witch.json) |
+| Pocket World: Island of Adventure | 208088 | [208088-pocket-world-island-of-adventure.json](./208088-pocket-world-island-of-adventure.json) |
 | Pocket Zaurus: Party Island no Nakama-tachi 1 | 293906 | [293906-pocket-zaurus-party-island-no-nakama-tachi-1.json](./293906-pocket-zaurus-party-island-no-nakama-tachi-1.json) |
 | Pocket Zaurus: Party Island no Nakama-tachi 2 | 293907 | [293907-pocket-zaurus-party-island-no-nakama-tachi-2.json](./293907-pocket-zaurus-party-island-no-nakama-tachi-2.json) |
 | Pocket Zone | 193867 | [193867-pocket-zone.json](./193867-pocket-zone.json) |
@@ -7995,6 +7997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop and Well | 158626 | [158626-pop-and-well.json](./158626-pop-and-well.json) |
 | Pop Ball | 246360 | [246360-pop-ball.json](./246360-pop-ball.json) |
 | Pop Balloons | 247069 | [247069-pop-balloons.json](./247069-pop-balloons.json) |
+| Pop Battle | 208069 | [208069-pop-battle.json](./208069-pop-battle.json) |
 | Pop Breaker | 45251 | [45251-pop-breaker.json](./45251-pop-breaker.json) |
 | Pop Corny | 256186 | [256186-pop-corny.json](./256186-pop-corny.json) |
 | Pop Cutie! Street Fashion Simulation | 72743 | [72743-pop-cutie-street-fashion-simulation.json](./72743-pop-cutie-street-fashion-simulation.json) |
@@ -9862,6 +9865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Aura: Master Colonist | 168204 | [168204-project-aura-master-colonist.json](./168204-project-aura-master-colonist.json) |
 | Project Aura: Senior Colonist | 168206 | [168206-project-aura-senior-colonist.json](./168206-project-aura-senior-colonist.json) |
 | Project Aura: Super Engineer Colonist | 168205 | [168205-project-aura-super-engineer-colonist.json](./168205-project-aura-super-engineer-colonist.json) |
+| Project Aurora | 208106 | [208106-project-aurora.json](./208106-project-aurora.json) |
 | Project Awakening | 22790 | [22790-project-awakening.json](./22790-project-awakening.json) |
 | Project B-Fer | 257651 | [257651-project-b-fer.json](./257651-project-b-fer.json) |
 | Project Backrooms | 236529 | [236529-project-backrooms.json](./236529-project-backrooms.json) |
