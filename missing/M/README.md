@@ -2276,6 +2276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mari0: Alesan99's Entities | 369211 | [369211-mari0-alesan99s-entities.json](./369211-mari0-alesan99s-entities.json) |
 | Maria | 308406 | [308406-maria.json](./308406-maria.json) |
 | Maria 2: Jutai Kokuchi no Nazo | 74346 | [74346-maria-2-jutai-kokuchi-no-nazo.json](./74346-maria-2-jutai-kokuchi-no-nazo.json) |
+| Maria Adventure | 220821 | [220821-maria-adventure.json](./220821-maria-adventure.json) |
 | Maria the Witch | 33406 | [33406-maria-the-witch.json](./33406-maria-the-witch.json) |
 | Maria-sama ga Gyakuten | 97525 | [97525-maria-sama-ga-gyakuten.json](./97525-maria-sama-ga-gyakuten.json) |
 | Maria: Kimitachi ga Umareta Wake | 73496 | [73496-maria-kimitachi-ga-umareta-wake.json](./73496-maria-kimitachi-ga-umareta-wake.json) |
@@ -6135,6 +6136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Dogs: New Dog Addition - Labrador Retriever | 302919 | [302919-metal-dogs-new-dog-addition-labrador-retriever.json](./302919-metal-dogs-new-dog-addition-labrador-retriever.json) |
 | Metal Dragon | 325243 | [325243-metal-dragon.json](./325243-metal-dragon.json) |
 | Metal Dragon/Life on Mars | 325244 | [325244-metal-dragon-life-on-mars.json](./325244-metal-dragon-life-on-mars.json) |
+| Metal Earth Ashes of the Alliance | 220825 | [220825-metal-earth-ashes-of-the-alliance.json](./220825-metal-earth-ashes-of-the-alliance.json) |
 | Metal Exile | 264691 | [264691-metal-exile.json](./264691-metal-exile.json) |
 | Metal Eye | 308246 | [308246-metal-eye.json](./308246-metal-eye.json) |
 | Metal Eye 2 | 308247 | [308247-metal-eye-2.json](./308247-metal-eye-2.json) |
@@ -6489,8 +6491,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Rogue Dawn | 65036 | [65036-metroid-rogue-dawn.json](./65036-metroid-rogue-dawn.json) |
 | Metroid: Samus Returns | 37140 | [37140-metroid-samus-returns.json](./37140-metroid-samus-returns.json) |
 | Metroid: SR388 | 324000 | [324000-metroid-sr388.json](./324000-metroid-sr388.json) |
+| Metroid: Subzero | 220777 | [220777-metroid-subzero.json](./220777-metroid-subzero.json) |
 | Metroid: Super Zero Mission | 42205 | [42205-metroid-super-zero-mission.json](./42205-metroid-super-zero-mission.json) |
 | Metroid: Takeover | 255384 | [255384-metroid-takeover.json](./255384-metroid-takeover.json) |
+| Metroid: The Blue Plague | 220779 | [220779-metroid-the-blue-plague.json](./220779-metroid-the-blue-plague.json) |
 | Metroidvania Bundle | 268482 | [268482-metroidvania-bundle.json](./268482-metroidvania-bundle.json) |
 | Metroland | 201688 | [201688-metroland.json](./201688-metroland.json) |
 | MetroLand | 319770 | [319770-metroland.json](./319770-metroland.json) |
@@ -8090,6 +8094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Island: Aroma | 192371 | [192371-mini-island-aroma.json](./192371-mini-island-aroma.json) |
 | Mini Island: Autumn | 166601 | [166601-mini-island-autumn.json](./166601-mini-island-autumn.json) |
 | Mini Jumper | 163990 | [163990-mini-jumper.json](./163990-mini-jumper.json) |
+| Mini Kaizo Bros. 3 | 220782 | [220782-mini-kaizo-bros-3.json](./220782-mini-kaizo-bros-3.json) |
 | Mini Kart Racing | 154356 | [154356-mini-kart-racing.json](./154356-mini-kart-racing.json) |
 | Mini Leap | 209707 | [209707-mini-leap.json](./209707-mini-leap.json) |
 | Mini Lucy | 403705 | [403705-mini-lucy.json](./403705-mini-lucy.json) |
@@ -11711,6 +11716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Stumps Dentures | 266708 | [266708-mr-stumps-dentures.json](./266708-mr-stumps-dentures.json) |
 | Mr Toilet | 369174 | [369174-mr-toilet.json](./369174-mr-toilet.json) |
 | Mr Tomato Adventures | 341342 | [341342-mr-tomato-adventures.json](./341342-mr-tomato-adventures.json) |
+| Mr Toro 2 | 220826 | [220826-mr-toro-2.json](./220826-mr-toro-2.json) |
 | Mr Trials | 147849 | [147849-mr-trials.json](./147849-mr-trials.json) |
 | Mr Trippy | 413206 | [413206-mr-trippy.json](./413206-mr-trippy.json) |
 | Mr Twigs | 114435 | [114435-mr-twigs.json](./114435-mr-twigs.json) |
@@ -12404,6 +12410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Kingdom Meltdown | 273559 | [273559-mushroom-kingdom-meltdown.json](./273559-mushroom-kingdom-meltdown.json) |
 | Mushroom Kingdom Showdown | 307714 | [307714-mushroom-kingdom-showdown.json](./307714-mushroom-kingdom-showdown.json) |
 | Mushroom Kingdom Showdown 2 | 321412 | [321412-mushroom-kingdom-showdown-2.json](./321412-mushroom-kingdom-showdown-2.json) |
+| Mushroom Kingdom: Under Crimson Skies | 220786 | [220786-mushroom-kingdom-under-crimson-skies.json](./220786-mushroom-kingdom-under-crimson-skies.json) |
 | Mushroom Manor | 358476 | [358476-mushroom-manor.json](./358476-mushroom-manor.json) |
 | Mushroom Moonrise | 287780 | [287780-mushroom-moonrise.json](./287780-mushroom-moonrise.json) |
 | Mushroom Mountain | 248114 | [248114-mushroom-mountain.json](./248114-mushroom-mountain.json) |
