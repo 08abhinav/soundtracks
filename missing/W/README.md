@@ -5793,6 +5793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrap House Simulator | 333294 | [333294-wrap-house-simulator.json](./333294-wrap-house-simulator.json) |
 | Wrap It! | 164442 | [164442-wrap-it.json](./164442-wrap-it.json) |
 | Wrap The Zap | 392786 | [392786-wrap-the-zap.json](./392786-wrap-the-zap.json) |
+| Wrapped With a Kiss | 194225 | [194225-wrapped-with-a-kiss.json](./194225-wrapped-with-a-kiss.json) |
 | Wrassling | 96922 | [96922-wrassling.json](./96922-wrassling.json) |
 | Wrath and Retribution | 374838 | [374838-wrath-and-retribution.json](./374838-wrath-and-retribution.json) |
 | Wrath of Ahnkii | 271794 | [271794-wrath-of-ahnkii.json](./271794-wrath-of-ahnkii.json) |
@@ -5829,6 +5830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreak the Havoc | 156564 | [156564-wreak-the-havoc.json](./156564-wreak-the-havoc.json) |
 | Wreck | 288453 | [288453-wreck.json](./288453-wreck.json) |
 | Wreck League | 275240 | [275240-wreck-league.json](./275240-wreck-league.json) |
+| Wreck Race | 194192 | [194192-wreck-race.json](./194192-wreck-race.json) |
 | Wreck the Party: Christmas Edition | 230785 | [230785-wreck-the-party-christmas-edition.json](./230785-wreck-the-party-christmas-edition.json) |
 | Wreck-It Ralph | 23586 | [23586-wreck-it-ralph.json](./23586-wreck-it-ralph.json) |
 | Wreck-It Ralph | 299871 | [299871-wreck-it-ralph.json](./299871-wreck-it-ralph.json) |
