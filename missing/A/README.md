@@ -3353,6 +3353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport CEO: Beasts of the East | 193185 | [193185-airport-ceo-beasts-of-the-east.json](./193185-airport-ceo-beasts-of-the-east.json) |
 | Airport CEO: Business Class Edition | 202127 | [202127-airport-ceo-business-class-edition.json](./202127-airport-ceo-business-class-edition.json) |
 | Airport CEO: Helicopters | 272868 | [272868-airport-ceo-helicopters.json](./272868-airport-ceo-helicopters.json) |
+| Airport CEO: Vintage | 203691 | [203691-airport-ceo-vintage.json](./203691-airport-ceo-vintage.json) |
 | Airport Control 25 | 379523 | [379523-airport-control-25.json](./379523-airport-control-25.json) |
 | Airport Control 27 | 398961 | [398961-airport-control-27.json](./398961-airport-control-27.json) |
 | Airport Control Simulator | 9960 | [9960-airport-control-simulator.json](./9960-airport-control-simulator.json) |
