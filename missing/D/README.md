@@ -4610,6 +4610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desolation | 238648 | [238648-desolation.json](./238648-desolation.json) |
 | Desolation | 284364 | [284364-desolation.json](./284364-desolation.json) |
 | Desolation Escape | 315672 | [315672-desolation-escape.json](./315672-desolation-escape.json) |
+| Desolation Seed | 183301 | [183301-desolation-seed.json](./183301-desolation-seed.json) |
 | Desolation Tycoon | 169361 | [169361-desolation-tycoon.json](./169361-desolation-tycoon.json) |
 | Desolatium | 150643 | [150643-desolatium.json](./150643-desolatium.json) |
 | Desolatium: Prologue | 200115 | [200115-desolatium-prologue.json](./200115-desolatium-prologue.json) |
@@ -5822,6 +5823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dijeweled Remastered | 388905 | [388905-dijeweled-remastered.json](./388905-dijeweled-remastered.json) |
 | Dik Journey | 310920 | [310920-dik-journey.json](./310920-dik-journey.json) |
 | Dikembe Mutombo's 4 1/2 Weeks to Save the World | 79618 | [79618-dikembe-mutombos-4-1-2-weeks-to-save-the-world.json](./79618-dikembe-mutombos-4-1-2-weeks-to-save-the-world.json) |
+| Dikes & Polders | 183292 | [183292-dikes-and-polders.json](./183292-dikes-and-polders.json) |
 | Dilarara!! | 82876 | [82876-dilarara.json](./82876-dilarara.json) |
 | Dildo Catcher | 253981 | [253981-dildo-catcher.json](./253981-dildo-catcher.json) |
 | Dilemma: The Game | 353363 | [353363-dilemma-the-game.json](./353363-dilemma-the-game.json) |
@@ -8135,6 +8137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dontrel Dolphin 2 | 305838 | [305838-dontrel-dolphin-2.json](./305838-dontrel-dolphin-2.json) |
 | Donut 80 | 201052 | [201052-donut-80.json](./201052-donut-80.json) |
 | Donut Arena | 190137 | [190137-donut-arena.json](./190137-donut-arena.json) |
+| Donut Be Seen | 183305 | [183305-donut-be-seen.json](./183305-donut-be-seen.json) |
 | Donut Blast | 340529 | [340529-donut-blast.json](./340529-donut-blast.json) |
 | Donut Boi | 130268 | [130268-donut-boi.json](./130268-donut-boi.json) |
 | Donut Break 2 | 187764 | [187764-donut-break-2.json](./187764-donut-break-2.json) |
@@ -10396,6 +10399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dredge+ | 395816 | [395816-dredge.json](./395816-dredge.json) |
 | Dreeg | 357747 | [357747-dreeg.json](./357747-dreeg.json) |
 | Dreem Ascension | 393506 | [393506-dreem-ascension.json](./393506-dreem-ascension.json) |
+| Dreggon | 183318 | [183318-dreggon.json](./183318-dreggon.json) |
 | DREGS | 409618 | [409618-dregs.json](./409618-dregs.json) |
 | Drehmal: Apotheosis | 336548 | [336548-drehmal-apotheosis.json](./336548-drehmal-apotheosis.json) |
 | Dreii | 36296 | [36296-dreii.json](./36296-dreii.json) |
