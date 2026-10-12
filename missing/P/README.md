@@ -1896,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Hero. Story of Dartes | 310216 | [310216-path-of-hero-story-of-dartes.json](./310216-path-of-hero-story-of-dartes.json) |
 | Path of Immortals | 194027 | [194027-path-of-immortals.json](./194027-path-of-immortals.json) |
 | Path of Mystery: A Brush with Death | 353783 | [353783-path-of-mystery-a-brush-with-death.json](./353783-path-of-mystery-a-brush-with-death.json) |
+| Path of Ra | 211974 | [211974-path-of-ra.json](./211974-path-of-ra.json) |
 | Path of Shadows | 184949 | [184949-path-of-shadows.json](./184949-path-of-shadows.json) |
 | Path of Sin: Greed | 107734 | [107734-path-of-sin-greed.json](./107734-path-of-sin-greed.json) |
 | Path of Survival | 412274 | [412274-path-of-survival.json](./412274-path-of-survival.json) |
@@ -6507,6 +6508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plutonium Sandpit | 263425 | [263425-plutonium-sandpit.json](./263425-plutonium-sandpit.json) |
 | Plutonium T6 Multiplayer | 315118 | [315118-plutonium-t6-multiplayer.json](./315118-plutonium-t6-multiplayer.json) |
 | Plutonium: Kilimanjaro Oddysey | 321044 | [321044-plutonium-kilimanjaro-oddysey.json](./321044-plutonium-kilimanjaro-oddysey.json) |
+| Pluvia: Episode II | 211906 | [211906-pluvia-episode-ii.json](./211906-pluvia-episode-ii.json) |
 | Ply | 178950 | [178950-ply.json](./178950-ply.json) |
 | PM-1 Inverse Universe | 126382 | [126382-pm-1-inverse-universe.json](./126382-pm-1-inverse-universe.json) |
 | PMC: Net Zero | 377277 | [377277-pmc-net-zero.json](./377277-pmc-net-zero.json) |
@@ -10856,6 +10858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pug Hop Mole Bop | 254672 | [254672-pug-hop-mole-bop.json](./254672-pug-hop-mole-bop.json) |
 | Pug'llector | 311252 | [311252-pugllector.json](./311252-pugllector.json) |
 | Pug's Quest | 82954 | [82954-pugs-quest.json](./82954-pugs-quest.json) |
+| Pugg | 211911 | [211911-pugg.json](./211911-pugg.json) |
 | Pugovki | 177051 | [177051-pugovki.json](./177051-pugovki.json) |
 | PUIQ: Demons | 298053 | [298053-puiq-demons.json](./298053-puiq-demons.json) |
 | Puke | 277256 | [277256-puke.json](./277256-puke.json) |
