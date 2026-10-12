@@ -418,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Wars EX | 176351 | [176351-galactic-wars-ex.json](./176351-galactic-wars-ex.json) |
 | Galactic Wars: Defend Your Star Worlds | 286206 | [286206-galactic-wars-defend-your-star-worlds.json](./286206-galactic-wars-defend-your-star-worlds.json) |
 | Galactic Warship | 260297 | [260297-galactic-warship.json](./260297-galactic-warship.json) |
+| Galactic Whiz Kid | 205914 | [205914-galactic-whiz-kid.json](./205914-galactic-whiz-kid.json) |
 | Galactic-A-Tactic: The Most Diplomatic Solution | 367975 | [367975-galactic-a-tactic-the-most-diplomatic-solution.json](./367975-galactic-a-tactic-the-most-diplomatic-solution.json) |
 | Galactic: The Xmas Edition | 327803 | [327803-galactic-the-xmas-edition.json](./327803-galactic-the-xmas-edition.json) |
 | Galactica: Batalha Espacial | 123033 | [123033-galactica-batalha-espacial.json](./123033-galactica-batalha-espacial.json) |
@@ -577,6 +578,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Mirror Glaze Cake - Sweet Desserts Maker | 101347 | [101347-galaxy-mirror-glaze-cake-sweet-desserts-maker.json](./101347-galaxy-mirror-glaze-cake-sweet-desserts-maker.json) |
 | Galaxy of Arcade Classics | 206136 | [206136-galaxy-of-arcade-classics.json](./206136-galaxy-of-arcade-classics.json) |
 | Galaxy of Drones | 54495 | [54495-galaxy-of-drones.json](./54495-galaxy-of-drones.json) |
+| Galaxy of Games Platinum Edition | 205916 | [205916-galaxy-of-games-platinum-edition.json](./205916-galaxy-of-games-platinum-edition.json) |
+| Galaxy of Games Red Edition | 205918 | [205918-galaxy-of-games-red-edition.json](./205918-galaxy-of-games-red-edition.json) |
 | Galaxy of Pen and Paper +1 Edition | 205270 | [205270-galaxy-of-pen-and-paper-1-edition.json](./205270-galaxy-of-pen-and-paper-1-edition.json) |
 | Galaxy of Trian | 175182 | [175182-galaxy-of-trian.json](./175182-galaxy-of-trian.json) |
 | Galaxy of Trian Board Game | 85603 | [85603-galaxy-of-trian-board-game.json](./85603-galaxy-of-trian-board-game.json) |
@@ -882,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Room | 328212 | [328212-game-room.json](./328212-game-room.json) |
 | Game Room | 360634 | [360634-game-room.json](./360634-game-room.json) |
 | Game Room | 91353 | [91353-game-room.json](./91353-game-room.json) |
+| Game Room Excitement | 205920 | [205920-game-room-excitement.json](./205920-game-room-excitement.json) |
 | Game Royale 2 - The Secret of Jannis Island | 30140 | [30140-game-royale-2-the-secret-of-jannis-island.json](./30140-game-royale-2-the-secret-of-jannis-island.json) |
 | Game School Pro | 104577 | [104577-game-school-pro.json](./104577-game-school-pro.json) |
 | Game Set and Match 2 | 41001 | [41001-game-set-and-match-2.json](./41001-game-set-and-match-2.json) |
@@ -983,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Games Advent Calendar 2025 Bundle | 364101 | [364101-games-advent-calendar-2025-bundle.json](./364101-games-advent-calendar-2025-bundle.json) |
 | Games Advent Calendar: 25 Days - 25 Surprises | 265160 | [265160-games-advent-calendar-25-days-25-surprises.json](./265160-games-advent-calendar-25-days-25-surprises.json) |
 | Games and Girls | 149417 | [149417-games-and-girls.json](./149417-games-and-girls.json) |
+| Games Around the World | 205921 | [205921-games-around-the-world.json](./205921-games-around-the-world.json) |
 | Games Designer Samples | 352326 | [352326-games-designer-samples.json](./352326-games-designer-samples.json) |
 | Games Explosion | 18260 | [18260-games-explosion.json](./18260-games-explosion.json) |
 | Games for Stream! | 266856 | [266856-games-for-stream.json](./266856-games-for-stream.json) |
@@ -1217,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gardening Guide | 67616 | [67616-gardening-guide.json](./67616-gardening-guide.json) |
 | Gardening Mama | 11361 | [11361-gardening-mama.json](./11361-gardening-mama.json) |
 | Gardening Mama 2: Forest Friends | 6357 | [6357-gardening-mama-2-forest-friends.json](./6357-gardening-mama-2-forest-friends.json) |
+| Gardens | 205919 | [205919-gardens.json](./205919-gardens.json) |
 | Gardens Inc. 3: A Bridal Pursuit | 88826 | [88826-gardens-inc-3-a-bridal-pursuit.json](./88826-gardens-inc-3-a-bridal-pursuit.json) |
 | Gardens Inc.: From Rakes to Riches | 36409 | [36409-gardens-inc-from-rakes-to-riches.json](./36409-gardens-inc-from-rakes-to-riches.json) |
 | Gardens of a New World | 394450 | [394450-gardens-of-a-new-world.json](./394450-gardens-of-a-new-world.json) |
@@ -3323,6 +3329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glyde the Dragon | 217234 | [217234-glyde-the-dragon.json](./217234-glyde-the-dragon.json) |
 | Glyder | 66754 | [66754-glyder.json](./66754-glyder.json) |
 | Glyder: Adventure Worlds | 66110 | [66110-glyder-adventure-worlds.json](./66110-glyder-adventure-worlds.json) |
+| Glyph | 205924 | [205924-glyph.json](./205924-glyph.json) |
 | Glyph | 208294 | [208294-glyph.json](./208294-glyph.json) |
 | Glyph | 243075 | [243075-glyph.json](./243075-glyph.json) |
 | Glyph | 388223 | [388223-glyph.json](./388223-glyph.json) |
