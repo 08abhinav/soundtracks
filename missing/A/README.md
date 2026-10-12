@@ -10971,6 +10971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aventia | 187219 | [187219-aventia.json](./187219-aventia.json) |
 | Aventura Copilului Albastru și Urât | 198321 | [198321-aventura-copilului-albastru-si-urat.json](./198321-aventura-copilului-albastru-si-urat.json) |
 | Aventura de Luigi | 322003 | [322003-aventura-de-luigi.json](./322003-aventura-de-luigi.json) |
+| Aventuras na Selva | 215309 | [215309-aventuras-na-selva.json](./215309-aventuras-na-selva.json) |
 | Average Human Ball Game | 349368 | [349368-average-human-ball-game.json](./349368-average-human-ball-game.json) |
 | Average Maria Individual | 293891 | [293891-average-maria-individual.json](./293891-average-maria-individual.json) |
 | Average Routine | 387671 | [387671-average-routine.json](./387671-average-routine.json) |
