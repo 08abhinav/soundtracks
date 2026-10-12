@@ -5948,6 +5948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Campaign | 92111 | [92111-planetary-campaign.json](./92111-planetary-campaign.json) |
 | Planetary Defense | 164862 | [164862-planetary-defense.json](./164862-planetary-defense.json) |
 | Planetary Defense Force | 129787 | [129787-planetary-defense-force.json](./129787-planetary-defense-force.json) |
+| Planetary Defense: An Orbital Turret Defense System | 210846 | [210846-planetary-defense-an-orbital-turret-defense-system.json](./210846-planetary-defense-an-orbital-turret-defense-system.json) |
 | Planetary Deliver | 188929 | [188929-planetary-deliver.json](./188929-planetary-deliver.json) |
 | Planetary Destruction | 238584 | [238584-planetary-destruction.json](./238584-planetary-destruction.json) |
 | Planetary Escape: An Audiogame | 181380 | [181380-planetary-escape-an-audiogame.json](./181380-planetary-escape-an-audiogame.json) |
@@ -7572,6 +7573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Simulator: Patrol Officers - Guardian Police Vehicle | 278390 | [278390-police-simulator-patrol-officers-guardian-police-vehicle.json](./278390-police-simulator-patrol-officers-guardian-police-vehicle.json) |
 | Police Simulator: Patrol Officers - Highway Patrol Expansion | 297735 | [297735-police-simulator-patrol-officers-highway-patrol-expansion.json](./297735-police-simulator-patrol-officers-highway-patrol-expansion.json) |
 | Police Simulator: Patrol Officers - Nintendo Switch Edition | 308630 | [308630-police-simulator-patrol-officers-nintendo-switch-edition.json](./308630-police-simulator-patrol-officers-nintendo-switch-edition.json) |
+| Police Simulator: Patrol Officers - Steelbook Edition | 210908 | [210908-police-simulator-patrol-officers-steelbook-edition.json](./210908-police-simulator-patrol-officers-steelbook-edition.json) |
 | Police Simulator: Patrol Officers - Surveillance Police Vehicle | 278391 | [278391-police-simulator-patrol-officers-surveillance-police-vehicle.json](./278391-police-simulator-patrol-officers-surveillance-police-vehicle.json) |
 | Police Simulator: Patrol Officers - Warden Police Vehicle | 290843 | [290843-police-simulator-patrol-officers-warden-police-vehicle.json](./290843-police-simulator-patrol-officers-warden-police-vehicle.json) |
 | Police Station Cop Inc: Tycoon | 174884 | [174884-police-station-cop-inc-tycoon.json](./174884-police-station-cop-inc-tycoon.json) |
