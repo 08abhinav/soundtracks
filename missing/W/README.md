@@ -2430,6 +2430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Could Go Wrong? | 344415 | [344415-what-could-go-wrong.json](./344415-what-could-go-wrong.json) |
 | What da Yak | 214758 | [214758-what-da-yak.json](./214758-what-da-yak.json) |
 | What Did the Chicken See | 390746 | [390746-what-did-the-chicken-see.json](./390746-what-did-the-chicken-see.json) |
+| What Did Veronica Dream Of? | 185375 | [185375-what-did-veronica-dream-of.json](./185375-what-did-veronica-dream-of.json) |
 | What do I want? | 178498 | [178498-what-do-i-want.json](./178498-what-do-i-want.json) |
 | What Do You Know? | 234723 | [234723-what-do-you-know.json](./234723-what-do-you-know.json) |
 | What Goes Pumpkin the Night | 186181 | [186181-what-goes-pumpkin-the-night.json](./186181-what-goes-pumpkin-the-night.json) |
