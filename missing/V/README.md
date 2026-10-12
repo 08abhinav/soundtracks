@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanguard Ace: Vertical Madness | 70916 | [70916-vanguard-ace-vertical-madness.json](./70916-vanguard-ace-vertical-madness.json) |
 | Vanguard Exiles | 328936 | [328936-vanguard-exiles.json](./328936-vanguard-exiles.json) |
 | Vanguard Of Armor | 394159 | [394159-vanguard-of-armor.json](./394159-vanguard-of-armor.json) |
+| Vanguard Online: Battlefield | 208080 | [208080-vanguard-online-battlefield.json](./208080-vanguard-online-battlefield.json) |
 | Vanguard Princess | 377294 | [377294-vanguard-princess.json](./377294-vanguard-princess.json) |
 | Vanguard Princess | 9433 | [9433-vanguard-princess.json](./9433-vanguard-princess.json) |
 | Vanguard Princess: Hilda Rize | 170929 | [170929-vanguard-princess-hilda-rize.json](./170929-vanguard-princess-hilda-rize.json) |
