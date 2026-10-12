@@ -5575,6 +5575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Go | 165715 | [165715-robo-go.json](./165715-robo-go.json) |
 | Robo Hop | 399787 | [399787-robo-hop.json](./399787-robo-hop.json) |
 | Robo Jumper 3D | 102276 | [102276-robo-jumper-3d.json](./102276-robo-jumper-3d.json) |
+| Robo Legend | 202555 | [202555-robo-legend.json](./202555-robo-legend.json) |
 | Robo Miner 2 | 117175 | [117175-robo-miner-2.json](./117175-robo-miner-2.json) |
 | Robo Miner: Remastered | 361066 | [361066-robo-miner-remastered.json](./361066-robo-miner-remastered.json) |
 | Robo Oh | 158159 | [158159-robo-oh.json](./158159-robo-oh.json) |
