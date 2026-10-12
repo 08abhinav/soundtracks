@@ -3405,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Requiem Hurts | 22404 | [22404-requiem-hurts.json](./22404-requiem-hurts.json) |
 | Requiem Hurts: Rainy Escape | 22405 | [22405-requiem-hurts-rainy-escape.json](./22405-requiem-hurts-rainy-escape.json) |
 | Requiem Memory | 265584 | [265584-requiem-memory.json](./265584-requiem-memory.json) |
+| Requiem of Science | 194221 | [194221-requiem-of-science.json](./194221-requiem-of-science.json) |
 | Requiem Reverie | 284898 | [284898-requiem-reverie.json](./284898-requiem-reverie.json) |
 | Requiem: Avenging Angel | 12470 | [12470-requiem-avenging-angel.json](./12470-requiem-avenging-angel.json) |
 | Requiem: Bloodymare | 21461 | [21461-requiem-bloodymare.json](./21461-requiem-bloodymare.json) |
