@@ -1186,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Slayer | 297015 | [297015-dark-slayer.json](./297015-dark-slayer.json) |
 | Dark Solid | 141736 | [141736-dark-solid.json](./141736-dark-solid.json) |
 | Dark Solitaire: Search for a Cure | 386139 | [386139-dark-solitaire-search-for-a-cure.json](./386139-dark-solitaire-search-for-a-cure.json) |
+| Dark Souls Ascended | 194889 | [194889-dark-souls-ascended.json](./194889-dark-souls-ascended.json) |
 | Dark Souls II: Crown of the Old Iron King | 22502 | [22502-dark-souls-ii-crown-of-the-old-iron-king.json](./22502-dark-souls-ii-crown-of-the-old-iron-king.json) |
 | Dark Souls III: Born From the Ashes | 317520 | [317520-dark-souls-iii-born-from-the-ashes.json](./317520-dark-souls-iii-born-from-the-ashes.json) |
 | Dark Souls III: Deluxe Edition | 47486 | [47486-dark-souls-iii-deluxe-edition.json](./47486-dark-souls-iii-deluxe-edition.json) |
@@ -5563,6 +5564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DieRoll | 88263 | [88263-dieroll.json](./88263-dieroll.json) |
 | Dies Irae: Interview with Kaziklu Bey | 115243 | [115243-dies-irae-interview-with-kaziklu-bey.json](./115243-dies-irae-interview-with-kaziklu-bey.json) |
 | Dies Mortis | 185163 | [185163-dies-mortis.json](./185163-dies-mortis.json) |
+| Diesel and Death | 194872 | [194872-diesel-and-death.json](./194872-diesel-and-death.json) |
 | Diesel Brothers: Truck Building Simulator Editor | 152910 | [152910-diesel-brothers-truck-building-simulator-editor.json](./152910-diesel-brothers-truck-building-simulator-editor.json) |
 | Diesel Burners | 277855 | [277855-diesel-burners.json](./277855-diesel-burners.json) |
 | Diesel Express VR | 41968 | [41968-diesel-express-vr.json](./41968-diesel-express-vr.json) |
@@ -9969,6 +9971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Cage | 329222 | [329222-dream-cage.json](./329222-dream-cage.json) |
 | Dream Car Racing 3D | 32896 | [32896-dream-car-racing-3d.json](./32896-dream-car-racing-3d.json) |
 | Dream Cat Paradise | 374175 | [374175-dream-cat-paradise.json](./374175-dream-cat-paradise.json) |
+| Dream Catcher | 194931 | [194931-dream-catcher.json](./194931-dream-catcher.json) |
 | Dream Catcher VR | 203757 | [203757-dream-catcher-vr.json](./203757-dream-catcher-vr.json) |
 | Dream Catchers | 164448 | [164448-dream-catchers.json](./164448-dream-catchers.json) |
 | Dream Celestial Body | 274524 | [274524-dream-celestial-body.json](./274524-dream-celestial-body.json) |
