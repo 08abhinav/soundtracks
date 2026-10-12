@@ -5220,6 +5220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrome Death | 259247 | [259247-chrome-death.json](./259247-chrome-death.json) |
 | Chrome Switcher | 148490 | [148490-chrome-switcher.json](./148490-chrome-switcher.json) |
 | Chrome Wars | 235244 | [235244-chrome-wars.json](./235244-chrome-wars.json) |
+| ChromeRivals | 179983 | [179983-chromerivals.json](./179983-chromerivals.json) |
 | Chromium Man Clicker | 334834 | [334834-chromium-man-clicker.json](./334834-chromium-man-clicker.json) |
 | Chromo XY | 103558 | [103558-chromo-xy.json](./103558-chromo-xy.json) |
 | Chromocide: Prism of Sin | 294171 | [294171-chromocide-prism-of-sin.json](./294171-chromocide-prism-of-sin.json) |
@@ -6421,6 +6422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click To Eleven | 298656 | [298656-click-to-eleven.json](./298656-click-to-eleven.json) |
 | Click to Obsolete | 413167 | [413167-click-to-obsolete.json](./413167-click-to-obsolete.json) |
 | Click to Sail | 218703 | [218703-click-to-sail.json](./218703-click-to-sail.json) |
+| Click to Survive | 179946 | [179946-click-to-survive.json](./179946-click-to-survive.json) |
 | Click to Ten | 227971 | [227971-click-to-ten.json](./227971-click-to-ten.json) |
 | Click To Ten 3D | 290616 | [290616-click-to-ten-3d.json](./290616-click-to-ten-3d.json) |
 | Click Tycoon | 125196 | [125196-click-tycoon.json](./125196-click-tycoon.json) |
@@ -11735,6 +11737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CRW: Counter Revolution War | 61554 | [61554-crw-counter-revolution-war.json](./61554-crw-counter-revolution-war.json) |
 | Cry of Athena | 158506 | [158506-cry-of-athena.json](./158506-cry-of-athena.json) |
 | Cry of Monster | 367403 | [367403-cry-of-monster.json](./367403-cry-of-monster.json) |
+| Cry: Hunter's Record - Chapter 1 | 179944 | [179944-cry-hunters-record-chapter-1.json](./179944-cry-hunters-record-chapter-1.json) |
 | Cryaxion | 215862 | [215862-cryaxion.json](./215862-cryaxion.json) |
 | Cryep | 98751 | [98751-cryep.json](./98751-cryep.json) |
 | Cryght | 188029 | [188029-cryght.json](./188029-cryght.json) |
