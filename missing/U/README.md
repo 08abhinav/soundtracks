@@ -2018,6 +2018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unvanquished | 139329 | [139329-unvanquished.json](./139329-unvanquished.json) |
 | Unveil | 35119 | [35119-unveil.json](./35119-unveil.json) |
 | UnVeil the World | 265639 | [265639-unveil-the-world.json](./265639-unveil-the-world.json) |
+| Unveiled | 189905 | [189905-unveiled.json](./189905-unveiled.json) |
 | Unveiling | 280235 | [280235-unveiling.json](./280235-unveiling.json) |
 | Unveiling the Unknown | 310396 | [310396-unveiling-the-unknown.json](./310396-unveiling-the-unknown.json) |
 | Unveloped Pocket Tales | 98250 | [98250-unveloped-pocket-tales.json](./98250-unveloped-pocket-tales.json) |
