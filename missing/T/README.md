@@ -516,6 +516,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taipei Metro Quest | 178664 | [178664-taipei-metro-quest.json](./178664-taipei-metro-quest.json) |
 | Taipei Midsummer Night's Dream | 339104 | [339104-taipei-midsummer-nights-dream.json](./339104-taipei-midsummer-nights-dream.json) |
 | Taiping Heavenly Kingdom | 409640 | [409640-taiping-heavenly-kingdom.json](./409640-taiping-heavenly-kingdom.json) |
+| Taisen Bomberman | 198182 | [198182-taisen-bomberman.json](./198182-taisen-bomberman.json) |
+| Taisen Bomberman + | 198185 | [198185-taisen-bomberman.json](./198185-taisen-bomberman.json) |
+| Taisen Bomberman 24 | 198184 | [198184-taisen-bomberman-24.json](./198184-taisen-bomberman-24.json) |
+| Taisen Bomberman 24+ | 198186 | [198186-taisen-bomberman-24.json](./198186-taisen-bomberman-24.json) |
+| Taisen Bomberman 8 | 198183 | [198183-taisen-bomberman-8.json](./198183-taisen-bomberman-8.json) |
+| Taisen Bomberman Cross | 198188 | [198188-taisen-bomberman-cross.json](./198188-taisen-bomberman-cross.json) |
+| Taisen Bomberman Geek | 198187 | [198187-taisen-bomberman-geek.json](./198187-taisen-bomberman-geek.json) |
 | Taisen Daifugo | 198197 | [198197-taisen-daifugo.json](./198197-taisen-daifugo.json) |
 | Taisen Daifugo + | 198198 | [198198-taisen-daifugo.json](./198198-taisen-daifugo.json) |
 | Taisen Daifugo Cross | 198199 | [198199-taisen-daifugo-cross.json](./198199-taisen-daifugo-cross.json) |
@@ -12329,6 +12336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witcher: Project Sirius | 220276 | [220276-the-witcher-project-sirius.json](./220276-the-witcher-project-sirius.json) |
 | The Witcher: Side Effects | 224493 | [224493-the-witcher-side-effects.json](./224493-the-witcher-side-effects.json) |
 | The Witcher: The Price of Neutrality | 224492 | [224492-the-witcher-the-price-of-neutrality.json](./224492-the-witcher-the-price-of-neutrality.json) |
+| The Witcher: Versus | 198179 | [198179-the-witcher-versus.json](./198179-the-witcher-versus.json) |
 | The Witches Pond | 277823 | [277823-the-witches-pond.json](./277823-the-witches-pond.json) |
 | The Witches' Tea Party | 51383 | [51383-the-witches-tea-party.json](./51383-the-witches-tea-party.json) |
 | The Witches' Whisk | 304257 | [304257-the-witches-whisk.json](./304257-the-witches-whisk.json) |
@@ -16459,6 +16467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Speed: Drag & Fast Racing | 88441 | [88441-top-speed-drag-and-fast-racing.json](./88441-top-speed-drag-and-fast-racing.json) |
 | Top Spin | 5234 | [5234-top-spin.json](./5234-top-spin.json) |
 | Top Spin 2 | 5235 | [5235-top-spin-2.json](./5235-top-spin-2.json) |
+| Top Stars Football | 198146 | [198146-top-stars-football.json](./198146-top-stars-football.json) |
 | Top Steed | 414525 | [414525-top-steed.json](./414525-top-steed.json) |
 | Top Street Soccer | 102209 | [102209-top-street-soccer.json](./102209-top-street-soccer.json) |
 | Top Striker | 78967 | [78967-top-striker.json](./78967-top-striker.json) |
