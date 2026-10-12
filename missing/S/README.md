@@ -6607,6 +6607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigma Theory: Global Cold War - Deluxe Edition | 124827 | [124827-sigma-theory-global-cold-war-deluxe-edition.json](./124827-sigma-theory-global-cold-war-deluxe-edition.json) |
 | Sigma-X | 256914 | [256914-sigma-x.json](./256914-sigma-x.json) |
 | Sigmatica | 276487 | [276487-sigmatica.json](./276487-sigmatica.json) |
+| Sigmund the Mouse | 184877 | [184877-sigmund-the-mouse.json](./184877-sigmund-the-mouse.json) |
 | Sign Craft: Simulator | 273426 | [273426-sign-craft-simulator.json](./273426-sign-craft-simulator.json) |
 | Sign It | 413186 | [413186-sign-it.json](./413186-sign-it.json) |
 | Sign Me ABCs | 103659 | [103659-sign-me-abcs.json](./103659-sign-me-abcs.json) |
@@ -8267,6 +8268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyward Collapse | 9328 | [9328-skyward-collapse.json](./9328-skyward-collapse.json) |
 | Skyward Collapse: Nihon no Mura | 10871 | [10871-skyward-collapse-nihon-no-mura.json](./10871-skyward-collapse-nihon-no-mura.json) |
 | Skyward Extraction | 302051 | [302051-skyward-extraction.json](./302051-skyward-extraction.json) |
+| Skyward Heroes | 184855 | [184855-skyward-heroes.json](./184855-skyward-heroes.json) |
 | Skyward Journey | 320367 | [320367-skyward-journey.json](./320367-skyward-journey.json) |
 | Skywatching | 177303 | [177303-skywatching.json](./177303-skywatching.json) |
 | Skyweaver | 123039 | [123039-skyweaver.json](./123039-skyweaver.json) |
@@ -10202,6 +10204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Social Distancing Simulator | 166204 | [166204-social-distancing-simulator.json](./166204-social-distancing-simulator.json) |
 | Social Hook | 333000 | [333000-social-hook.json](./333000-social-hook.json) |
 | Social Interaction Trainer | 31531 | [31531-social-interaction-trainer.json](./31531-social-interaction-trainer.json) |
+| Social Pressure | 184845 | [184845-social-pressure.json](./184845-social-pressure.json) |
 | Social Services of the Doomed | 188879 | [188879-social-services-of-the-doomed.json](./188879-social-services-of-the-doomed.json) |
 | Social Space | 398537 | [398537-social-space.json](./398537-social-space.json) |
 | Social Status: Life Simulator | 279103 | [279103-social-status-life-simulator.json](./279103-social-status-life-simulator.json) |
@@ -13514,6 +13517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Master | 274136 | [274136-speed-master.json](./274136-speed-master.json) |
 | Speed Masters ASD | 130971 | [130971-speed-masters-asd.json](./130971-speed-masters-asd.json) |
 | Speed Mazing | 164985 | [164985-speed-mazing.json](./164985-speed-mazing.json) |
+| Speed Metal Vimana | 184827 | [184827-speed-metal-vimana.json](./184827-speed-metal-vimana.json) |
 | Speed NFL | 289009 | [289009-speed-nfl.json](./289009-speed-nfl.json) |
 | Speed Night | 278689 | [278689-speed-night.json](./278689-speed-night.json) |
 | Speed or Death | 254053 | [254053-speed-or-death.json](./254053-speed-or-death.json) |
@@ -16958,6 +16962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Wound | 217310 | [217310-steel-wound.json](./217310-steel-wound.json) |
 | SteelBlade Shop Simulator | 382322 | [382322-steelblade-shop-simulator.json](./382322-steelblade-shop-simulator.json) |
 | Steelborn: Tank Idle RPG | 418517 | [418517-steelborn-tank-idle-rpg.json](./418517-steelborn-tank-idle-rpg.json) |
+| Steelbreakers | 184842 | [184842-steelbreakers.json](./184842-steelbreakers.json) |
 | SteelFront | 350558 | [350558-steelfront.json](./350558-steelfront.json) |
 | Steelpaw | 124141 | [124141-steelpaw.json](./124141-steelpaw.json) |
 | SteelPinion | 192703 | [192703-steelpinion.json](./192703-steelpinion.json) |
@@ -17892,6 +17897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategic Command: World War I | 129592 | [129592-strategic-command-world-war-i.json](./129592-strategic-command-world-war-i.json) |
 | Strategic Command: World War I - Empires in Turmoil | 262929 | [262929-strategic-command-world-war-i-empires-in-turmoil.json](./262929-strategic-command-world-war-i-empires-in-turmoil.json) |
 | Strategic Conquest | 72934 | [72934-strategic-conquest.json](./72934-strategic-conquest.json) |
+| Strategic Depth | 184868 | [184868-strategic-depth.json](./184868-strategic-depth.json) |
 | Strategic Mind Complete Franchise Bundle | 274431 | [274431-strategic-mind-complete-franchise-bundle.json](./274431-strategic-mind-complete-franchise-bundle.json) |
 | Strategic Mind: Fight for Dominance | 257425 | [257425-strategic-mind-fight-for-dominance.json](./257425-strategic-mind-fight-for-dominance.json) |
 | Strategic Mind: Fight for Dominance + Kaiju Wars - Fight Monsters Bundle | 289417 | [289417-strategic-mind-fight-for-dominance-kaiju-wars-fight-monsters-bundle.json](./289417-strategic-mind-fight-for-dominance-kaiju-wars-fight-monsters-bundle.json) |
@@ -23143,6 +23149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sylvester & Tweety in Cagey Capers | 46190 | [46190-sylvester-and-tweety-in-cagey-capers.json](./46190-sylvester-and-tweety-in-cagey-capers.json) |
 | Sylviana: Ai Ippai no Boukensha | 299761 | [299761-sylviana-ai-ippai-no-boukensha.json](./299761-sylviana-ai-ippai-no-boukensha.json) |
 | Sylviana: Ai Ippai no Boukensha | 41249 | [41249-sylviana-ai-ippai-no-boukensha.json](./41249-sylviana-ai-ippai-no-boukensha.json) |
+| Sylvie | 184844 | [184844-sylvie.json](./184844-sylvie.json) |
 | Sylvie Lime | 230501 | [230501-sylvie-lime.json](./230501-sylvie-lime.json) |
 | Sylvie Miniature | 306002 | [306002-sylvie-miniature.json](./306002-sylvie-miniature.json) |
 | Sylvie RPG: 7 Elf Apocalypse | 292830 | [292830-sylvie-rpg-7-elf-apocalypse.json](./292830-sylvie-rpg-7-elf-apocalypse.json) |
@@ -23393,6 +23400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sys//Purge | 395041 | [395041-sys-purge.json](./395041-sys-purge.json) |
 | SysAdmin Odyssey: Back to the office | 293870 | [293870-sysadmin-odyssey-back-to-the-office.json](./293870-sysadmin-odyssey-back-to-the-office.json) |
 | Sysop | 130950 | [130950-sysop.json](./130950-sysop.json) |
+| System Aimed for Salvation | 184816 | [184816-system-aimed-for-salvation.json](./184816-system-aimed-for-salvation.json) |
 | System City | 257403 | [257403-system-city.json](./257403-system-city.json) |
 | System Clues | 373000 | [373000-system-clues.json](./373000-system-clues.json) |
 | System Control | 157184 | [157184-system-control.json](./157184-system-control.json) |
