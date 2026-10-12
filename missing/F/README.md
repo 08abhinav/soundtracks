@@ -6231,6 +6231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Jump | 270171 | [270171-forest-jump.json](./270171-forest-jump.json) |
 | Forest Keeper | 290832 | [290832-forest-keeper.json](./290832-forest-keeper.json) |
 | Forest Keeper Lookout | 383950 | [383950-forest-keeper-lookout.json](./383950-forest-keeper-lookout.json) |
+| Forest Keepers | 183299 | [183299-forest-keepers.json](./183299-forest-keepers.json) |
 | Forest Kingdom | 186804 | [186804-forest-kingdom.json](./186804-forest-kingdom.json) |
 | Forest Knight | 134059 | [134059-forest-knight.json](./134059-forest-knight.json) |
 | Forest Legends: The Call of Love | 52217 | [52217-forest-legends-the-call-of-love.json](./52217-forest-legends-the-call-of-love.json) |
