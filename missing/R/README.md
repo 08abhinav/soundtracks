@@ -3846,6 +3846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Golden Age: Goody | 241856 | [241856-retro-golden-age-goody.json](./241856-retro-golden-age-goody.json) |
 | Retro Golden Age: Livingstone I Presume | 196052 | [196052-retro-golden-age-livingstone-i-presume.json](./196052-retro-golden-age-livingstone-i-presume.json) |
 | Retro Golden Age: Operation Alexandra | 235110 | [235110-retro-golden-age-operation-alexandra.json](./235110-retro-golden-age-operation-alexandra.json) |
+| Retro Golden Age: The Abbey of Crime | 192137 | [192137-retro-golden-age-the-abbey-of-crime.json](./192137-retro-golden-age-the-abbey-of-crime.json) |
 | Retro Golf Mania | 408247 | [408247-retro-golf-mania.json](./408247-retro-golf-mania.json) |
 | Retro Granny's Garden | 70921 | [70921-retro-grannys-garden.json](./70921-retro-grannys-garden.json) |
 | Retro Grid | 348745 | [348745-retro-grid.json](./348745-retro-grid.json) |
