@@ -988,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veritus | 260627 | [260627-veritus.json](./260627-veritus.json) |
 | Veriventure | 400851 | [400851-veriventure.json](./400851-veriventure.json) |
 | Verjaded | 179512 | [179512-verjaded.json](./179512-verjaded.json) |
+| Verlet Ascend | 213560 | [213560-verlet-ascend.json](./213560-verlet-ascend.json) |
 | Verlet Swing | 97333 | [97333-verlet-swing.json](./97333-verlet-swing.json) |
 | Verliebt in Berlin | 92839 | [92839-verliebt-in-berlin.json](./92839-verliebt-in-berlin.json) |
 | Verlies | 94195 | [94195-verlies.json](./94195-verlies.json) |
