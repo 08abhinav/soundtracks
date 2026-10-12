@@ -1866,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Need to Go Deeper: The Atomique | 174156 | [174156-we-need-to-go-deeper-the-atomique.json](./174156-we-need-to-go-deeper-the-atomique.json) |
 | We Never Left | 392241 | [392241-we-never-left.json](./392241-we-never-left.json) |
 | We Pretend | 410338 | [410338-we-pretend.json](./410338-we-pretend.json) |
+| We Ramble I: Starwake | 224711 | [224711-we-ramble-i-starwake.json](./224711-we-ramble-i-starwake.json) |
 | We Rock: Drum King | 5127 | [5127-we-rock-drum-king.json](./5127-we-rock-drum-king.json) |
 | We should talk. | 132400 | [132400-we-should-talk.json](./132400-we-should-talk.json) |
 | We Sing Deutsche Hits | 5268 | [5268-we-sing-deutsche-hits.json](./5268-we-sing-deutsche-hits.json) |
@@ -4988,6 +4989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordSearch Kids HD | 107670 | [107670-wordsearch-kids-hd.json](./107670-wordsearch-kids-hd.json) |
 | WordSearch Story: Chapter 1 | 213325 | [213325-wordsearch-story-chapter-1.json](./213325-wordsearch-story-chapter-1.json) |
 | Wordslop | 402911 | [402911-wordslop.json](./402911-wordslop.json) |
+| Wordsmith | 224682 | [224682-wordsmith.json](./224682-wordsmith.json) |
 | Wordsock Classic | 253431 | [253431-wordsock-classic.json](./253431-wordsock-classic.json) |
 | Wordspionage | 175391 | [175391-wordspionage.json](./175391-wordspionage.json) |
 | WordSpiral | 227777 | [227777-wordspiral.json](./227777-wordspiral.json) |
