@@ -947,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | False Myth | 132742 | [132742-false-myth.json](./132742-false-myth.json) |
 | False Positive Paradox | 401006 | [401006-false-positive-paradox.json](./401006-false-positive-paradox.json) |
 | False Shelter | 28785 | [28785-false-shelter.json](./28785-false-shelter.json) |
+| False Vows, True Love: In a Night Full of Lies | 181646 | [181646-false-vows-true-love-in-a-night-full-of-lies.json](./181646-false-vows-true-love-in-a-night-full-of-lies.json) |
 | Falseflash | 401497 | [401497-falseflash.json](./401497-falseflash.json) |
 | FalseGod's Gambit | 373007 | [373007-falsegods-gambit.json](./373007-falsegods-gambit.json) |
 | Falsion | 64648 | [64648-falsion.json](./64648-falsion.json) |
@@ -1151,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fancy World - Earth of Crisis | 39686 | [39686-fancy-world-earth-of-crisis.json](./39686-fancy-world-earth-of-crisis.json) |
 | Fancy! | 237069 | [237069-fancy.json](./237069-fancy.json) |
 | Fandominion | 259646 | [259646-fandominion.json](./259646-fandominion.json) |
+| Fanfare Fantasy | 181636 | [181636-fanfare-fantasy.json](./181636-fanfare-fantasy.json) |
 | Fāngkuài Liánméng | 114161 | [114161-fangkuai-lianmeng.json](./114161-fangkuai-lianmeng.json) |
 | Fangs | 172477 | [172477-fangs.json](./172477-fangs.json) |
 | Fangs and Friends | 176436 | [176436-fangs-and-friends.json](./176436-fangs-and-friends.json) |
@@ -5075,6 +5077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip It 2 | 254698 | [254698-flip-it-2.json](./254698-flip-it-2.json) |
 | Flip Maze | 137589 | [137589-flip-maze.json](./137589-flip-maze.json) |
 | Flip Me Not | 405008 | [405008-flip-me-not.json](./405008-flip-me-not.json) |
+| Flip n Fry | 181619 | [181619-flip-n-fry.json](./181619-flip-n-fry.json) |
 | Flip of Light | 185119 | [185119-flip-of-light.json](./185119-flip-of-light.json) |
 | Flip or Flop: Home Edition | 209453 | [209453-flip-or-flop-home-edition.json](./209453-flip-or-flop-home-edition.json) |
 | Flip Out | 79314 | [79314-flip-out.json](./79314-flip-out.json) |
