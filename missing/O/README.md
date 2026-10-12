@@ -2517,6 +2517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbs Orbs Orbs | 342160 | [342160-orbs-orbs-orbs.json](./342160-orbs-orbs-orbs.json) |
 | Orbtangle | 221119 | [221119-orbtangle.json](./221119-orbtangle.json) |
 | Orbtrain: Slot Racing | 151270 | [151270-orbtrain-slot-racing.json](./151270-orbtrain-slot-racing.json) |
+| OrbusVR: Reborn | 193679 | [193679-orbusvr-reborn.json](./193679-orbusvr-reborn.json) |
 | OrbWars | 154051 | [154051-orbwars.json](./154051-orbwars.json) |
 | Orbyss | 343264 | [343264-orbyss.json](./343264-orbyss.json) |
 | Orc and Hypnotized Femdogs | 98543 | [98543-orc-and-hypnotized-femdogs.json](./98543-orc-and-hypnotized-femdogs.json) |
@@ -3544,6 +3545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over the Moon | 352252 | [352252-over-the-moon.json](./352252-over-the-moon.json) |
 | Over the Net | 295907 | [295907-over-the-net.json](./295907-over-the-net.json) |
 | Over the Net | 87181 | [87181-over-the-net.json](./87181-over-the-net.json) |
+| Over the Net Beach Volleyball | 193697 | [193697-over-the-net-beach-volleyball.json](./193697-over-the-net-beach-volleyball.json) |
 | Over The Phone | 282676 | [282676-over-the-phone.json](./282676-over-the-phone.json) |
 | Over the Radio | 369086 | [369086-over-the-radio.json](./369086-over-the-radio.json) |
 | Over the Reich | 94393 | [94393-over-the-reich.json](./94393-over-the-reich.json) |
