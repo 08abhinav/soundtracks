@@ -12503,6 +12503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Museum of Mechanics: Lockpicking | 139214 | [139214-museum-of-mechanics-lockpicking.json](./139214-museum-of-mechanics-lockpicking.json) |
 | Museum of Monoliths | 235785 | [235785-museum-of-monoliths.json](./235785-museum-of-monoliths.json) |
 | Museum of Other Realities | 118168 | [118168-museum-of-other-realities.json](./118168-museum-of-other-realities.json) |
+| Museum of Other Realities: Canadian Collection | 193176 | [193176-museum-of-other-realities-canadian-collection.json](./193176-museum-of-other-realities-canadian-collection.json) |
 | Museum of Parallel Art | 182871 | [182871-museum-of-parallel-art.json](./182871-museum-of-parallel-art.json) |
 | Museum of Symmetry | 104076 | [104076-museum-of-symmetry.json](./104076-museum-of-symmetry.json) |
 | Museum Simulator | 349824 | [349824-museum-simulator.json](./349824-museum-simulator.json) |
