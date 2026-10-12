@@ -4628,6 +4628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Along the Edge of the Sky | 337818 | [337818-along-the-edge-of-the-sky.json](./337818-along-the-edge-of-the-sky.json) |
 | Along the River During the Qingming Festival | 295384 | [295384-along-the-river-during-the-qingming-festival.json](./295384-along-the-river-during-the-qingming-festival.json) |
 | Alongside | 243599 | [243599-alongside.json](./243599-alongside.json) |
+| Alox Poker | 219766 | [219766-alox-poker.json](./219766-alox-poker.json) |
 | Alpaca Ball: Allstars - Collector's Edition | 146114 | [146114-alpaca-ball-allstars-collectors-edition.json](./146114-alpaca-ball-allstars-collectors-edition.json) |
 | Alpaca Evolution | 218527 | [218527-alpaca-evolution.json](./218527-alpaca-evolution.json) |
 | Alpaca Party | 326086 | [326086-alpaca-party.json](./326086-alpaca-party.json) |
