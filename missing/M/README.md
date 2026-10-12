@@ -3282,7 +3282,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect 2: Collector's Edition | 43957 | [43957-mass-effect-2-collectors-edition.json](./43957-mass-effect-2-collectors-edition.json) |
 | Mass Effect 2: Digital Deluxe Edition | 202309 | [202309-mass-effect-2-digital-deluxe-edition.json](./202309-mass-effect-2-digital-deluxe-edition.json) |
 | Mass Effect 2: Firewalker Pack | 13790 | [13790-mass-effect-2-firewalker-pack.json](./13790-mass-effect-2-firewalker-pack.json) |
-| Mass Effect 2: Lair of the Shadow Broker | 782 | [782-mass-effect-2-lair-of-the-shadow-broker.json](./782-mass-effect-2-lair-of-the-shadow-broker.json) |
 | Mass Effect 2: Overlord | 783 | [783-mass-effect-2-overlord.json](./783-mass-effect-2-overlord.json) |
 | Mass Effect 3 | 245478 | [245478-mass-effect-3.json](./245478-mass-effect-3.json) |
 | Mass Effect 3: Extended Cut | 78460 | [78460-mass-effect-3-extended-cut.json](./78460-mass-effect-3-extended-cut.json) |
@@ -4234,6 +4233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me de Unou wo Kitaeru: DS Sokudoku Jutsu | 316121 | [316121-me-de-unou-wo-kitaeru-ds-sokudoku-jutsu.json](./316121-me-de-unou-wo-kitaeru-ds-sokudoku-jutsu.json) |
 | Me is King | 212521 | [212521-me-is-king.json](./212521-me-is-king.json) |
 | Me Mostre Sonhos Doces | 299121 | [299121-me-mostre-sonhos-doces.json](./299121-me-mostre-sonhos-doces.json) |
+| Me Myself & Die | 184360 | [184360-me-myself-and-die.json](./184360-me-myself-and-die.json) |
 | Me Smart Orc | 108431 | [108431-me-smart-orc.json](./108431-me-smart-orc.json) |
 | Me the Gravekeeper | 346681 | [346681-me-the-gravekeeper.json](./346681-me-the-gravekeeper.json) |
 | Me vs. You | 172177 | [172177-me-vs-you.json](./172177-me-vs-you.json) |
@@ -10950,6 +10950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morphies Law | 25633 | [25633-morphies-law.json](./25633-morphies-law.json) |
 | Morphine | 26520 | [26520-morphine.json](./26520-morphine.json) |
 | Morphite | 27314 | [27314-morphite.json](./27314-morphite.json) |
+| Morphling | 184337 | [184337-morphling.json](./184337-morphling.json) |
 | Morphman | 232517 | [232517-morphman.json](./232517-morphman.json) |
 | Morphology | 185075 | [185075-morphology.json](./185075-morphology.json) |
 | Morphopolis | 9768 | [9768-morphopolis.json](./9768-morphopolis.json) |
@@ -13183,6 +13184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero Academia: Ultra Impact | 186112 | [186112-my-hero-academia-ultra-impact.json](./186112-my-hero-academia-ultra-impact.json) |
 | My Hero Academia: United Survival | 397382 | [397382-my-hero-academia-united-survival.json](./397382-my-hero-academia-united-survival.json) |
 | My Hero and the King | 63265 | [63265-my-hero-and-the-king.json](./63265-my-hero-and-the-king.json) |
+| My Hero Holiday | 184330 | [184330-my-hero-holiday.json](./184330-my-hero-holiday.json) |
 | My Hero Kitty | 299402 | [299402-my-hero-kitty.json](./299402-my-hero-kitty.json) |
 | My Hero One's Justice 2: Cheerleader Costumes Bundle | 259811 | [259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json](./259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json) |
 | My Hero One's Justice 2: Deluxe Edition | 136286 | [136286-my-hero-ones-justice-2-deluxe-edition.json](./136286-my-hero-ones-justice-2-deluxe-edition.json) |
