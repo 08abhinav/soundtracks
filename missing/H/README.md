@@ -5295,6 +5295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitstream | 268454 | [268454-hitstream.json](./268454-hitstream.json) |
 | Hitstun | 242446 | [242446-hitstun.json](./242446-hitstun.json) |
 | Hitsuji no Hakobune | 408308 | [408308-hitsuji-no-hakobune.json](./408308-hitsuji-no-hakobune.json) |
+| Hitsuji Shitsuji | 207041 | [207041-hitsuji-shitsuji.json](./207041-hitsuji-shitsuji.json) |
 | Hitting Mices | 212730 | [212730-hitting-mices.json](./212730-hitting-mices.json) |
 | HitTube | 323426 | [323426-hittube.json](./323426-hittube.json) |
 | Hituzibuster | 229371 | [229371-hituzibuster.json](./229371-hituzibuster.json) |
