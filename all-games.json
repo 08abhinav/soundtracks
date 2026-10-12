@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T12:06:27.216Z",
-  "total_soundtracks": 1524,
+  "generated_at": "2026-10-12T12:06:40.276Z",
+  "total_soundtracks": 1525,
   "games": [
     {
       "igdb_id": 7522,
@@ -14954,6 +14954,20 @@
           "album_name": "The Elder Scrolls Blades (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5mZZ07PWIsF1qpyz8HIeLX",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 25653,
+      "game_name": "The Escapists 2",
+      "game_url": "https://ostdb.net/games/the-escapists-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273934b320729ac82f6c91ba4e0",
+      "albums": [
+        {
+          "album_name": "The Escapists 2 Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1KovgivJowojzIOe4mtvr0",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
