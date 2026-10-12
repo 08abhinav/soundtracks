@@ -5636,6 +5636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foes.io | 75135 | [75135-foes-io.json](./75135-foes-io.json) |
 | FOF: Fear Of Failure | 372496 | [372496-fof-fear-of-failure.json](./372496-fof-fear-of-failure.json) |
 | Fog | 201837 | [201837-fog.json](./201837-fog.json) |
+| Fog & Silver | 214144 | [214144-fog-and-silver.json](./214144-fog-and-silver.json) |
 | Fog Horror | 235892 | [235892-fog-horror.json](./235892-fog-horror.json) |
 | Fogel and Porki Evil Arcade | 211675 | [211675-fogel-and-porki-evil-arcade.json](./211675-fogel-and-porki-evil-arcade.json) |
 | Fogrest: The Whisper of Harbingers | 332461 | [332461-fogrest-the-whisper-of-harbingers.json](./332461-fogrest-the-whisper-of-harbingers.json) |
@@ -8874,6 +8875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Cop: LAPD | 11235 | [11235-future-cop-lapd.json](./11235-future-cop-lapd.json) |
 | Future Fighter | 304139 | [304139-future-fighter.json](./304139-future-fighter.json) |
 | Future Flappy | 89290 | [89290-future-flappy.json](./89290-future-flappy.json) |
+| Future Football Manager | 214110 | [214110-future-football-manager.json](./214110-future-football-manager.json) |
 | Future Front | 241283 | [241283-future-front.json](./241283-future-front.json) |
 | Future Futures - Command Z | 116320 | [116320-future-futures-command-z.json](./116320-future-futures-command-z.json) |
 | Future Ghost | 86230 | [86230-future-ghost.json](./86230-future-ghost.json) |
