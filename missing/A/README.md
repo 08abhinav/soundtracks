@@ -4966,6 +4966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amanda the Adventurer: Pilot Episode | 256410 | [256410-amanda-the-adventurer-pilot-episode.json](./256410-amanda-the-adventurer-pilot-episode.json) |
 | Amanda's Magic Book | 214019 | [214019-amandas-magic-book.json](./214019-amandas-magic-book.json) |
 | Amanda's Magic Book 11: Fractured Reflections | 356767 | [356767-amandas-magic-book-11-fractured-reflections.json](./356767-amandas-magic-book-11-fractured-reflections.json) |
+| Amanda's Magic Book 4: True Love | 201499 | [201499-amandas-magic-book-4-true-love.json](./201499-amandas-magic-book-4-true-love.json) |
 | Amanda's Magic Book 5: Hansel and Gretel | 237070 | [237070-amandas-magic-book-5-hansel-and-gretel.json](./237070-amandas-magic-book-5-hansel-and-gretel.json) |
 | Amanda's Magic Book 6: Aladdin's Magic Lamp | 230885 | [230885-amandas-magic-book-6-aladdins-magic-lamp.json](./230885-amandas-magic-book-6-aladdins-magic-lamp.json) |
 | Amanda's Sticker Book 2: Amazing Wldlife | 115704 | [115704-amandas-sticker-book-2-amazing-wldlife.json](./115704-amandas-sticker-book-2-amazing-wldlife.json) |
@@ -9870,6 +9871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astralojia | 191226 | [191226-astralojia.json](./191226-astralojia.json) |
 | Astranded | 379990 | [379990-astranded.json](./379990-astranded.json) |
 | Astraware Casino | 206235 | [206235-astraware-casino.json](./206235-astraware-casino.json) |
+| AstraX | 201512 | [201512-astrax.json](./201512-astrax.json) |
 | Astrd | 173245 | [173245-astrd.json](./173245-astrd.json) |
 | Astreia's Gift | 403054 | [403054-astreias-gift.json](./403054-astreias-gift.json) |
 | Astrela Starlight | 107914 | [107914-astrela-starlight.json](./107914-astrela-starlight.json) |
@@ -10310,6 +10312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Yumia: Yumia and Flammi Swimsuit Set | 351166 | [351166-atelier-yumia-yumia-and-flammi-swimsuit-set.json](./351166-atelier-yumia-yumia-and-flammi-swimsuit-set.json) |
 | Atelier: Alchemists of the Dusk Trilogy DX - Premium Box | 136924 | [136924-atelier-alchemists-of-the-dusk-trilogy-dx-premium-box.json](./136924-atelier-alchemists-of-the-dusk-trilogy-dx-premium-box.json) |
 | Atelier: The Alchemist of Arland 1-2-3 DX - Premium Box | 167138 | [167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json](./167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json) |
+| AteloPhobia:The Story Begins | 201501 | [201501-atelophobia-the-story-begins.json](./201501-atelophobia-the-story-begins.json) |
 | Aternia: Deep | 157001 | [157001-aternia-deep.json](./157001-aternia-deep.json) |
 | Atganga: Spectacle for the Gods | 249071 | [249071-atganga-spectacle-for-the-gods.json](./249071-atganga-spectacle-for-the-gods.json) |
 | Atgtha in Absurdia | 133913 | [133913-atgtha-in-absurdia.json](./133913-atgtha-in-absurdia.json) |
