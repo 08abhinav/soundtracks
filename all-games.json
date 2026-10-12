@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T20:55:02.416Z",
-  "total_soundtracks": 1558,
+  "generated_at": "2026-10-12T20:55:13.827Z",
+  "total_soundtracks": 1559,
   "games": [
     {
       "igdb_id": 7522,
@@ -17062,6 +17062,20 @@
           "album_name": "Warcraft I: Orcs & Humans: Sound Blaster 16 OPL3 (Original Game Soundtrack, Gregory Alper Official Edition)",
           "spotify_url": "https://open.spotify.com/album/3fdZSd7rT2uioPiTBJk7Xl",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 1912,
+      "game_name": "Warface",
+      "game_url": "https://ostdb.net/games/warface",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733e75a4b7fa630c026072d38b",
+      "albums": [
+        {
+          "album_name": "Warface (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2ItbIKaq2dBDiNuwOLaEuM",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
