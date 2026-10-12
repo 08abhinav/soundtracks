@@ -890,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wild Heist | 390106 | [390106-a-wild-heist.json](./390106-a-wild-heist.json) |
 | A Wild Time Travelling Clone Dancing | 128952 | [128952-a-wild-time-travelling-clone-dancing.json](./128952-a-wild-time-travelling-clone-dancing.json) |
 | A Winding Path | 157709 | [157709-a-winding-path.json](./157709-a-winding-path.json) |
+| A Winter Story | 181085 | [181085-a-winter-story.json](./181085-a-winter-story.json) |
 | A Winter's Daydream | 110460 | [110460-a-winters-daydream.json](./110460-a-winters-daydream.json) |
 | A Wish Star | 308887 | [308887-a-wish-star.json](./308887-a-wish-star.json) |
 | A Witch Shall be Born | 315559 | [315559-a-witch-shall-be-born.json](./315559-a-witch-shall-be-born.json) |
@@ -3424,6 +3425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airship 2: Kingdoms Ablaze | 396536 | [396536-airship-2-kingdoms-ablaze.json](./396536-airship-2-kingdoms-ablaze.json) |
 | Airship Defender | 270326 | [270326-airship-defender.json](./270326-airship-defender.json) |
 | Airship Dragoon | 17561 | [17561-airship-dragoon.json](./17561-airship-dragoon.json) |
+| Airship Killer | 181086 | [181086-airship-killer.json](./181086-airship-killer.json) |
 | Airship Knights | 231980 | [231980-airship-knights.json](./231980-airship-knights.json) |
 | Airship: Kingdoms Adrift | 231336 | [231336-airship-kingdoms-adrift.json](./231336-airship-kingdoms-adrift.json) |
 | Airships: Conquer the Skies | 35934 | [35934-airships-conquer-the-skies.json](./35934-airships-conquer-the-skies.json) |
@@ -4679,6 +4681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in the Grey | 151829 | [151829-alone-in-the-grey.json](./151829-alone-in-the-grey.json) |
 | Alone in the Grey | 201707 | [201707-alone-in-the-grey.json](./201707-alone-in-the-grey.json) |
 | Alone in the Machine | 363909 | [363909-alone-in-the-machine.json](./363909-alone-in-the-machine.json) |
+| Alone in the Mars | 181069 | [181069-alone-in-the-mars.json](./181069-alone-in-the-mars.json) |
 | Alone in the Night | 58033 | [58033-alone-in-the-night.json](./58033-alone-in-the-night.json) |
 | Alone in the Outback | 226215 | [226215-alone-in-the-outback.json](./226215-alone-in-the-outback.json) |
 | Alone in the School | 302385 | [302385-alone-in-the-school.json](./302385-alone-in-the-school.json) |
