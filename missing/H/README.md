@@ -6878,6 +6878,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Houkago no Senpai | 127961 | [127961-houkago-no-senpai.json](./127961-houkago-no-senpai.json) |
 | Houkago Shounen | 109060 | [109060-houkago-shounen.json](./109060-houkago-shounen.json) |
 | Houkago wa Gin no Shirabe | 218475 | [218475-houkago-wa-gin-no-shirabe.json](./218475-houkago-wa-gin-no-shirabe.json) |
+| Houkagou Colorful Step: Bunka-bu! | 202597 | [202597-houkagou-colorful-step-bunka-bu.json](./202597-houkagou-colorful-step-bunka-bu.json) |
+| Houkagou Colorful Step: Undou-bu! | 202596 | [202596-houkagou-colorful-step-undou-bu.json](./202596-houkagou-colorful-step-undou-bu.json) |
 | Houm | 417430 | [417430-houm.json](./417430-houm.json) |
 | Houma Hunter Lime | 117027 | [117027-houma-hunter-lime.json](./117027-houma-hunter-lime.json) |
 | Houma Hunter Lime Dai 02 Wa | 117028 | [117028-houma-hunter-lime-dai-02-wa.json](./117028-houma-hunter-lime-dai-02-wa.json) |
@@ -6948,6 +6950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of 1000 Doors: Serpent Flame | 119031 | [119031-house-of-1000-doors-serpent-flame.json](./119031-house-of-1000-doors-serpent-flame.json) |
 | House Of 1000 Fowl | 399249 | [399249-house-of-1000-fowl.json](./399249-house-of-1000-fowl.json) |
 | House of Alice | 32091 | [32091-house-of-alice.json](./32091-house-of-alice.json) |
+| House of Asterion | 202599 | [202599-house-of-asterion.json](./202599-house-of-asterion.json) |
 | House of Cards: A Modern Fantasy Story Game | 134555 | [134555-house-of-cards-a-modern-fantasy-story-game.json](./134555-house-of-cards-a-modern-fantasy-story-game.json) |
 | House of Cards: TD | 298128 | [298128-house-of-cards-td.json](./298128-house-of-cards-td.json) |
 | House of Cathalon | 142442 | [142442-house-of-cathalon.json](./142442-house-of-cathalon.json) |
