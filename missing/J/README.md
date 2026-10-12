@@ -1308,6 +1308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu: Dreamcast Edition | 229577 | [229577-jikkyou-pawafuru-puroyakyu-dreamcast-edition.json](./229577-jikkyou-pawafuru-puroyakyu-dreamcast-edition.json) |
 | Jikkyou Pawafuru Puroyakyu: Premium-ban | 229581 | [229581-jikkyou-pawafuru-puroyakyu-premium-ban.json](./229581-jikkyou-pawafuru-puroyakyu-premium-ban.json) |
 | Jikkyou Pawafuru Puroyakyu: Success Special | 98014 | [98014-jikkyou-pawafuru-puroyakyu-success-special.json](./98014-jikkyou-pawafuru-puroyakyu-success-special.json) |
+| Jikkyou Powerful Soccer | 212513 | [212513-jikkyou-powerful-soccer.json](./212513-jikkyou-powerful-soccer.json) |
 | Jikkyou World Soccer 2000: Final Edition | 168136 | [168136-jikkyou-world-soccer-2000-final-edition.json](./168136-jikkyou-world-soccer-2000-final-edition.json) |
 | Jikoronpa: Laments of Isolation | 341073 | [341073-jikoronpa-laments-of-isolation.json](./341073-jikoronpa-laments-of-isolation.json) |
 | Jikuu Boukenki Zentrix | 210683 | [210683-jikuu-boukenki-zentrix.json](./210683-jikuu-boukenki-zentrix.json) |
