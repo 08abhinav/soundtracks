@@ -1426,6 +1426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gates of Hell | 125169 | [125169-gates-of-hell.json](./125169-gates-of-hell.json) |
 | Gates of Horizon | 36125 | [36125-gates-of-horizon.json](./36125-gates-of-horizon.json) |
 | Gates of Horn and Ivory | 108633 | [108633-gates-of-horn-and-ivory.json](./108633-gates-of-horn-and-ivory.json) |
+| Gates of Integrity | 182746 | [182746-gates-of-integrity.json](./182746-gates-of-integrity.json) |
 | Gates of Mirnah | 148998 | [148998-gates-of-mirnah.json](./148998-gates-of-mirnah.json) |
 | Gates of Nowhere | 50892 | [50892-gates-of-nowhere.json](./50892-gates-of-nowhere.json) |
 | Gates of Osiris | 61899 | [61899-gates-of-osiris.json](./61899-gates-of-osiris.json) |
@@ -2767,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gilded Eternal | 217226 | [217226-gilded-eternal.json](./217226-gilded-eternal.json) |
 | Gilded Gears | 307891 | [307891-gilded-gears.json](./307891-gilded-gears.json) |
 | Gilded Rails | 111572 | [111572-gilded-rails.json](./111572-gilded-rails.json) |
+| Gilded Shadows | 182758 | [182758-gilded-shadows.json](./182758-gilded-shadows.json) |
 | Gilgalad | 92638 | [92638-gilgalad.json](./92638-gilgalad.json) |
 | Gilgamesh II | 276275 | [276275-gilgamesh-ii.json](./276275-gilgamesh-ii.json) |
 | GilGul | 339990 | [339990-gilgul.json](./339990-gilgul.json) |
@@ -3141,6 +3143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch Boy | 25757 | [25757-glitch-boy.json](./25757-glitch-boy.json) |
 | Glitch Busters: Stuck on You | 204444 | [204444-glitch-busters-stuck-on-you.json](./204444-glitch-busters-stuck-on-you.json) |
 | Glitch Daddy | 277009 | [277009-glitch-daddy.json](./277009-glitch-daddy.json) |
+| Glitch Dream | 182755 | [182755-glitch-dream.json](./182755-glitch-dream.json) |
 | Glitch Fixers: Powerpuff Girls | 56734 | [56734-glitch-fixers-powerpuff-girls.json](./56734-glitch-fixers-powerpuff-girls.json) |
 | Glitch Gears | 293549 | [293549-glitch-gears.json](./293549-glitch-gears.json) |
 | Glitch Hearts | 385790 | [385790-glitch-hearts.json](./385790-glitch-hearts.json) |
