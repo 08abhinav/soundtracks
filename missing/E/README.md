@@ -2590,6 +2590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigma Prison | 32096 | [32096-enigma-prison.json](./32096-enigma-prison.json) |
 | Enigma Quest | 266995 | [266995-enigma-quest.json](./266995-enigma-quest.json) |
 | Enigma Squad: Animal Chaos | 298978 | [298978-enigma-squad-animal-chaos.json](./298978-enigma-squad-animal-chaos.json) |
+| Enigma: A Codebreaking Game | 186587 | [186587-enigma-a-codebreaking-game.json](./186587-enigma-a-codebreaking-game.json) |
 | Enigmarble | 269024 | [269024-enigmarble.json](./269024-enigmarble.json) |
 | Enigmarella | 190223 | [190223-enigmarella.json](./190223-enigmarella.json) |
 | Enigmas da Escuridão | 254992 | [254992-enigmas-da-escuridao.json](./254992-enigmas-da-escuridao.json) |
@@ -3435,6 +3436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape if you can - Buried | 101499 | [101499-escape-if-you-can-buried.json](./101499-escape-if-you-can-buried.json) |
 | Escape Inc. | 310581 | [310581-escape-inc.json](./310581-escape-inc.json) |
 | Escape Initiative | 132659 | [132659-escape-initiative.json](./132659-escape-initiative.json) |
+| Escape Into Infinity | 186588 | [186588-escape-into-infinity.json](./186588-escape-into-infinity.json) |
 | Escape Island | 290915 | [290915-escape-island.json](./290915-escape-island.json) |
 | Escape IV - Prison Break | 90665 | [90665-escape-iv-prison-break.json](./90665-escape-iv-prison-break.json) |
 | Escape Kids | 39867 | [39867-escape-kids.json](./39867-escape-kids.json) |
@@ -4199,6 +4201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evel Knievel Evel-ution | 23533 | [23533-evel-knievel-evel-ution.json](./23533-evel-knievel-evel-ution.json) |
 | Eveline | 416057 | [416057-eveline.json](./416057-eveline.json) |
 | Evelone Wrath | 260032 | [260032-evelone-wrath.json](./260032-evelone-wrath.json) |
+| Evelyn's Farm | 186589 | [186589-evelyns-farm.json](./186589-evelyns-farm.json) |
 | Even Heroes Die | 197217 | [197217-even-heroes-die.json](./197217-even-heroes-die.json) |
 | Even if Tempest | 186104 | [186104-even-if-tempest.json](./186104-even-if-tempest.json) |
 | Even in Arcadia | 135022 | [135022-even-in-arcadia.json](./135022-even-in-arcadia.json) |
