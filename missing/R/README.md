@@ -360,6 +360,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Xtreme: Fast Rally Driver 3D | 192909 | [192909-racing-xtreme-fast-rally-driver-3d.json](./192909-racing-xtreme-fast-rally-driver-3d.json) |
 | Racing: 4 Games on One Game Pak | 84175 | [84175-racing-4-games-on-one-game-pak.json](./84175-racing-4-games-on-one-game-pak.json) |
 | Racing: Breakthrough Gaming Arcade | 145668 | [145668-racing-breakthrough-gaming-arcade.json](./145668-racing-breakthrough-gaming-arcade.json) |
+| Racing: Breakthrough Gaming Arcade - 2 Player Cooperation Edition | 207059 | [207059-racing-breakthrough-gaming-arcade-2-player-cooperation-edition.json](./207059-racing-breakthrough-gaming-arcade-2-player-cooperation-edition.json) |
+| Racing: Breakthrough Gaming Arcade - 3 Player Cooperation Edition | 207057 | [207057-racing-breakthrough-gaming-arcade-3-player-cooperation-edition.json](./207057-racing-breakthrough-gaming-arcade-3-player-cooperation-edition.json) |
+| Racing: Breakthrough Gaming Arcade - 4 Player Cooperation Edition | 207055 | [207055-racing-breakthrough-gaming-arcade-4-player-cooperation-edition.json](./207055-racing-breakthrough-gaming-arcade-4-player-cooperation-edition.json) |
+| Racing: Breakthrough Gaming Arcade - Challenge Mode Edition | 207052 | [207052-racing-breakthrough-gaming-arcade-challenge-mode-edition.json](./207052-racing-breakthrough-gaming-arcade-challenge-mode-edition.json) |
 | Racing: Storm Chase | 369232 | [369232-racing-storm-chase.json](./369232-racing-storm-chase.json) |
 | Rack | 140574 | [140574-rack.json](./140574-rack.json) |
 | Rack 'Em | 94961 | [94961-rack-em.json](./94961-rack-em.json) |
