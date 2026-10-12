@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuin Makyo: High School Crisis | 322577 | [322577-gakuin-makyo-high-school-crisis.json](./322577-gakuin-makyo-high-school-crisis.json) |
 | Gakusen Toshi Asteriks Festa: Kirameki no Stella | 175688 | [175688-gakusen-toshi-asteriks-festa-kirameki-no-stella.json](./175688-gakusen-toshi-asteriks-festa-kirameki-no-stella.json) |
 | Gakuyuu Unmei Kyoudoutai | 222444 | [222444-gakuyuu-unmei-kyoudoutai.json](./222444-gakuyuu-unmei-kyoudoutai.json) |
+| Gal Galaxy Pain | 186558 | [186558-gal-galaxy-pain.json](./186558-gal-galaxy-pain.json) |
 | Gal Guardians: Demon Purge | 212571 | [212571-gal-guardians-demon-purge.json](./212571-gal-guardians-demon-purge.json) |
 | Gal Gunvolt Burst | 92038 | [92038-gal-gunvolt-burst.json](./92038-gal-gunvolt-burst.json) |
 | Gal Metal: Encore Pack | 314025 | [314025-gal-metal-encore-pack.json](./314025-gal-metal-encore-pack.json) |
@@ -2041,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gently Down the Marsh | 184913 | [184913-gently-down-the-marsh.json](./184913-gently-down-the-marsh.json) |
 | Gentoo Rescue | 291516 | [291516-gentoo-rescue.json](./291516-gentoo-rescue.json) |
 | Genzai: Serialization | 223428 | [223428-genzai-serialization.json](./223428-genzai-serialization.json) |
+| Genzee NFT Game | 186590 | [186590-genzee-nft-game.json](./186590-genzee-nft-game.json) |
 | Geo | 31785 | [31785-geo.json](./31785-geo.json) |
 | Geo Brain Boost! 50 U.S. States Silhouette Quiz | 399640 | [399640-geo-brain-boost-50-u-s-states-silhouette-quiz.json](./399640-geo-brain-boost-50-u-s-states-silhouette-quiz.json) |
 | Geo Challenge | 342252 | [342252-geo-challenge.json](./342252-geo-challenge.json) |
@@ -2205,6 +2207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gestures Towards Divinity | 393510 | [393510-gestures-towards-divinity.json](./393510-gestures-towards-divinity.json) |
 | Gestüt: Ein Leben für die Pferde | 136369 | [136369-gestut-ein-leben-fur-die-pferde.json](./136369-gestut-ein-leben-fur-die-pferde.json) |
 | Gesuido | 166516 | [166516-gesuido.json](./166516-gesuido.json) |
+| Get Acc_E55 | 186586 | [186586-get-acc-e55.json](./186586-get-acc-e55.json) |
 | Get Achievements for Achievements | 188527 | [188527-get-achievements-for-achievements.json](./188527-get-achievements-for-achievements.json) |
 | Get Away From The Cube | 335678 | [335678-get-away-from-the-cube.json](./335678-get-away-from-the-cube.json) |
 | Get Baz Home | 318521 | [318521-get-baz-home.json](./318521-get-baz-home.json) |
