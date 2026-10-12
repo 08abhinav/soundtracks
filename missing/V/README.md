@@ -788,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veil of Darkness | 14450 | [14450-veil-of-darkness.json](./14450-veil-of-darkness.json) |
 | Veil of Darkness | 272498 | [272498-veil-of-darkness.json](./272498-veil-of-darkness.json) |
 | Veil of Dust: A Homesteading Game | 157104 | [157104-veil-of-dust-a-homesteading-game.json](./157104-veil-of-dust-a-homesteading-game.json) |
+| Veil of Maia | 211994 | [211994-veil-of-maia.json](./211994-veil-of-maia.json) |
 | Veil of Mist | 402560 | [402560-veil-of-mist.json](./402560-veil-of-mist.json) |
 | Veil of Secrets | 313817 | [313817-veil-of-secrets.json](./313817-veil-of-secrets.json) |
 | Veil of Sight | 359388 | [359388-veil-of-sight.json](./359388-veil-of-sight.json) |
