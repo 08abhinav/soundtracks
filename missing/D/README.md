@@ -6723,6 +6723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distancy | 316153 | [316153-distancy.json](./316153-distancy.json) |
 | Distant | 28704 | [28704-distant.json](./28704-distant.json) |
 | Distant | 329390 | [329390-distant.json](./329390-distant.json) |
+| Distant Bloom | 215851 | [215851-distant-bloom.json](./215851-distant-bloom.json) |
 | Distant castle | 99130 | [99130-distant-castle.json](./99130-distant-castle.json) |
 | Distant Colony | 364697 | [364697-distant-colony.json](./364697-distant-colony.json) |
 | Distant Desert | 388234 | [388234-distant-desert.json](./388234-distant-desert.json) |
@@ -10080,6 +10081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Vacation | 229660 | [229660-dream-vacation.json](./229660-dream-vacation.json) |
 | Dream Village | 390229 | [390229-dream-village.json](./390229-dream-village.json) |
 | Dream vs. Dream | 212764 | [212764-dream-vs-dream.json](./212764-dream-vs-dream.json) |
+| Dream Walk: Stolen Color | 215871 | [215871-dream-walk-stolen-color.json](./215871-dream-walk-stolen-color.json) |
 | Dream Walker | 365851 | [365851-dream-walker.json](./365851-dream-walker.json) |
 | Dream Walker | 385395 | [385395-dream-walker.json](./385395-dream-walker.json) |
 | Dream Warrior | 13612 | [13612-dream-warrior.json](./13612-dream-warrior.json) |
@@ -10796,6 +10798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunk Trucker Joe 3D Truck Driving Race | 256189 | [256189-drunk-trucker-joe-3d-truck-driving-race.json](./256189-drunk-trucker-joe-3d-truck-driving-race.json) |
 | Drunk Woodcutter | 397835 | [397835-drunk-woodcutter.json](./397835-drunk-woodcutter.json) |
 | Drunk-Fu: Wasted Masters | 28906 | [28906-drunk-fu-wasted-masters.json](./28906-drunk-fu-wasted-masters.json) |
+| Drunk: Relapsed | 215870 | [215870-drunk-relapsed.json](./215870-drunk-relapsed.json) |
 | Drunkard Quiz Show Hyoutan | 115684 | [115684-drunkard-quiz-show-hyoutan.json](./115684-drunkard-quiz-show-hyoutan.json) |
 | Drunkard Simulator | 374423 | [374423-drunkard-simulator.json](./374423-drunkard-simulator.json) |
 | Drunken Cowboys | 379053 | [379053-drunken-cowboys.json](./379053-drunken-cowboys.json) |
@@ -11026,6 +11029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducky Dive | 232579 | [232579-ducky-dive.json](./232579-ducky-dive.json) |
 | Ducky's Delivery Service | 241902 | [241902-duckys-delivery-service.json](./241902-duckys-delivery-service.json) |
 | Duco | 408956 | [408956-duco.json](./408956-duco.json) |
+| Duct Tape Simulator | 215875 | [215875-duct-tape-simulator.json](./215875-duct-tape-simulator.json) |
 | DUD Detective Ulysses Day | 379049 | [379049-dud-detective-ulysses-day.json](./379049-dud-detective-ulysses-day.json) |
 | Dude Called Barry | 352352 | [352352-dude-called-barry.json](./352352-dude-called-barry.json) |
 | Dude Cops | 107195 | [107195-dude-cops.json](./107195-dude-cops.json) |
@@ -11083,6 +11087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duels+ | 398635 | [398635-duels.json](./398635-duels.json) |
 | DuelVox | 155574 | [155574-duelvox.json](./155574-duelvox.json) |
 | Duelyst GG | 232452 | [232452-duelyst-gg.json](./232452-duelyst-gg.json) |
+| Duelyst II | 215867 | [215867-duelyst-ii.json](./215867-duelyst-ii.json) |
 | Duelyst Origins | 318636 | [318636-duelyst-origins.json](./318636-duelyst-origins.json) |
 | Duelyst: Blitz | 352370 | [352370-duelyst-blitz.json](./352370-duelyst-blitz.json) |
 | Duelyst: Shim'zar | 22812 | [22812-duelyst-shimzar.json](./22812-duelyst-shimzar.json) |
@@ -11954,6 +11959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarven Forge | 398335 | [398335-dwarven-forge.json](./398335-dwarven-forge.json) |
 | Dwarven Rampart | 375288 | [375288-dwarven-rampart.json](./375288-dwarven-rampart.json) |
 | Dwarven Realm | 292625 | [292625-dwarven-realm.json](./292625-dwarven-realm.json) |
+| Dwarven Realms | 215873 | [215873-dwarven-realms.json](./215873-dwarven-realms.json) |
 | Dwarven Skykeep | 119769 | [119769-dwarven-skykeep.json](./119769-dwarven-skykeep.json) |
 | Dwarven Village: Dark Siege Td | 348847 | [348847-dwarven-village-dark-siege-td.json](./348847-dwarven-village-dark-siege-td.json) |
 | Dwarven: Mining Dungeons | 193435 | [193435-dwarven-mining-dungeons.json](./193435-dwarven-mining-dungeons.json) |
