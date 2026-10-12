@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octopus Trouble | 255145 | [255145-octopus-trouble.json](./255145-octopus-trouble.json) |
 | Octopuz | 265748 | [265748-octopuz.json](./265748-octopuz.json) |
 | Octorabbit | 181319 | [181319-octorabbit.json](./181319-octorabbit.json) |
+| Octordle | 194880 | [194880-octordle.json](./194880-octordle.json) |
 | Octov | 25754 | [25754-octov.json](./25754-octov.json) |
 | Oculant | 275717 | [275717-oculant.json](./275717-oculant.json) |
 | Oculto | 111231 | [111231-oculto.json](./111231-oculto.json) |
@@ -2558,6 +2559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order 13 VR | 402889 | [402889-order-13-vr.json](./402889-order-13-vr.json) |
 | Order Automatica | 213444 | [213444-order-automatica.json](./213444-order-automatica.json) |
 | Order from Caos | 139340 | [139340-order-from-caos.json](./139340-order-from-caos.json) |
+| Order from Caos 2 | 194897 | [194897-order-from-caos-2.json](./194897-order-from-caos-2.json) |
 | Order Land | 222494 | [222494-order-land.json](./222494-order-land.json) |
 | Order matters | 26486 | [26486-order-matters.json](./26486-order-matters.json) |
 | Order of Battle: Allies Defiant | 154565 | [154565-order-of-battle-allies-defiant.json](./154565-order-of-battle-allies-defiant.json) |
