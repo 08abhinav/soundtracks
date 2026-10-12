@@ -9052,6 +9052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of the Wicked Village | 65446 | [65446-the-mystery-of-the-wicked-village.json](./65446-the-mystery-of-the-wicked-village.json) |
 | The Mystery of Westington Manor | 61723 | [61723-the-mystery-of-westington-manor.json](./61723-the-mystery-of-westington-manor.json) |
 | The Mystery of Whiterock Castle | 67229 | [67229-the-mystery-of-whiterock-castle.json](./67229-the-mystery-of-whiterock-castle.json) |
+| The Mystery of William Moore | 208674 | [208674-the-mystery-of-william-moore.json](./208674-the-mystery-of-william-moore.json) |
 | The Mystery of Woolley Mountain | 52011 | [52011-the-mystery-of-woolley-mountain.json](./52011-the-mystery-of-woolley-mountain.json) |
 | The Mystery Team | 42775 | [42775-the-mystery-team.json](./42775-the-mystery-team.json) |
 | The Mystery Workshop | 104457 | [104457-the-mystery-workshop.json](./104457-the-mystery-workshop.json) |
@@ -12212,6 +12213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Winter Tower | 226439 | [226439-the-winter-tower.json](./226439-the-winter-tower.json) |
 | The Wire | 31955 | [31955-the-wire.json](./31955-the-wire.json) |
 | The Wire Loop Game VR | 32251 | [32251-the-wire-loop-game-vr.json](./32251-the-wire-loop-game-vr.json) |
+| The Wire Man | 208641 | [208641-the-wire-man.json](./208641-the-wire-man.json) |
 | The Wisbey Mystery | 29880 | [29880-the-wisbey-mystery.json](./29880-the-wisbey-mystery.json) |
 | The Wish | 181937 | [181937-the-wish.json](./181937-the-wish.json) |
 | The Wishing Flower | 225761 | [225761-the-wishing-flower.json](./225761-the-wishing-flower.json) |
@@ -17106,6 +17108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou: Hotline Sanzu | 317239 | [317239-touhou-hotline-sanzu.json](./317239-touhou-hotline-sanzu.json) |
 | Touhou: Kira's Fangame Collection | 411790 | [411790-touhou-kiras-fangame-collection.json](./411790-touhou-kiras-fangame-collection.json) |
 | TouHou: Legend of Fairy Souls | 244730 | [244730-touhou-legend-of-fairy-souls.json](./244730-touhou-legend-of-fairy-souls.json) |
+| Touhou: Lost Branch of Legend | 208635 | [208635-touhou-lost-branch-of-legend.json](./208635-touhou-lost-branch-of-legend.json) |
 | Touhou: Lost Children at the Bamboo Forest | 234776 | [234776-touhou-lost-children-at-the-bamboo-forest.json](./234776-touhou-lost-children-at-the-bamboo-forest.json) |
 | Touhou: Phantom Assembler | 230169 | [230169-touhou-phantom-assembler.json](./230169-touhou-phantom-assembler.json) |
 | Touhou: Red Empress Devil | 225180 | [225180-touhou-red-empress-devil.json](./225180-touhou-red-empress-devil.json) |
