@@ -1945,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Exit Class 8 | 360079 | [360079-school-exit-class-8.json](./360079-school-exit-class-8.json) |
 | School Fantasy | 267423 | [267423-school-fantasy.json](./267423-school-fantasy.json) |
 | School Flight Simulator | 234650 | [234650-school-flight-simulator.json](./234650-school-flight-simulator.json) |
+| School Girl Apartment Paradise | 210314 | [210314-school-girl-apartment-paradise.json](./210314-school-girl-apartment-paradise.json) |
 | School Girl/Zombie Hunter | 41827 | [41827-school-girl-zombie-hunter.json](./41827-school-girl-zombie-hunter.json) |
 | School Girls Dance | 296755 | [296755-school-girls-dance.json](./296755-school-girls-dance.json) |
 | School Grounds | 112738 | [112738-school-grounds.json](./112738-school-grounds.json) |
@@ -3200,6 +3201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Flipper | 308409 | [308409-sega-flipper.json](./308409-sega-flipper.json) |
 | Sega Flipper | 6130 | [6130-sega-flipper.json](./6130-sega-flipper.json) |
 | Sega Football Club Champions | 346196 | [346196-sega-football-club-champions.json](./346196-sega-football-club-champions.json) |
+| Sega Fun Pack: Sonic and the Secret Rings & Super Monkey Ball Banana Blitz | 210299 | [210299-sega-fun-pack-sonic-and-the-secret-rings-and-super-monkey-ball-banana-blitz.json](./210299-sega-fun-pack-sonic-and-the-secret-rings-and-super-monkey-ball-banana-blitz.json) |
 | Sega Game Pack 4 in 1 | 79600 | [79600-sega-game-pack-4-in-1.json](./79600-sega-game-pack-4-in-1.json) |
 | Sega Genesis Classic Collection: Gold Edition | 51261 | [51261-sega-genesis-classic-collection-gold-edition.json](./51261-sega-genesis-classic-collection-gold-edition.json) |
 | Sega Genesis Classics | 80185 | [80185-sega-genesis-classics.json](./80185-sega-genesis-classics.json) |
@@ -10973,6 +10975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Classics | 46204 | [46204-sonic-classics.json](./46204-sonic-classics.json) |
 | Sonic Clockwork | 417679 | [417679-sonic-clockwork.json](./417679-sonic-clockwork.json) |
 | Sonic Coconut Hunter | 330532 | [330532-sonic-coconut-hunter.json](./330532-sonic-coconut-hunter.json) |
+| Sonic Collector's Edition | 210298 | [210298-sonic-collectors-edition.json](./210298-sonic-collectors-edition.json) |
 | Sonic Color Contrast | 129145 | [129145-sonic-color-contrast.json](./129145-sonic-color-contrast.json) |
 | Sonic Color Cursed | 337168 | [337168-sonic-color-cursed.json](./337168-sonic-color-cursed.json) |
 | Sonic Colors | 2267 | [2267-sonic-colors.json](./2267-sonic-colors.json) |
@@ -11192,7 +11195,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic QWERTY | 266511 | [266511-sonic-qwerty.json](./266511-sonic-qwerty.json) |
 | Sonic R | 202757 | [202757-sonic-r.json](./202757-sonic-r.json) |
 | Sonic R Characters: Metal Knuckles & Tails Doll | 242033 | [242033-sonic-r-characters-metal-knuckles-and-tails-doll.json](./242033-sonic-r-characters-metal-knuckles-and-tails-doll.json) |
+| Sonic R/Sonic 3D | 210307 | [210307-sonic-r-sonic-3d.json](./210307-sonic-r-sonic-3d.json) |
 | Sonic Racers | 333936 | [333936-sonic-racers.json](./333936-sonic-racers.json) |
+| Sonic Racing Kart | 210306 | [210306-sonic-racing-kart.json](./210306-sonic-racing-kart.json) |
+| Sonic Racing Shift Up | 210308 | [210308-sonic-racing-shift-up.json](./210308-sonic-racing-shift-up.json) |
 | Sonic Racing: CrossWorlds - "Blue Star" Extreme Gear | 374160 | [374160-sonic-racing-crossworlds-blue-star-extreme-gear.json](./374160-sonic-racing-crossworlds-blue-star-extreme-gear.json) |
 | Sonic Racing: CrossWorlds - Avatar Legends Pack | 375167 | [375167-sonic-racing-crossworlds-avatar-legends-pack.json](./375167-sonic-racing-crossworlds-avatar-legends-pack.json) |
 | Sonic Racing: CrossWorlds - Digital Deluxe Edition | 356807 | [356807-sonic-racing-crossworlds-digital-deluxe-edition.json](./356807-sonic-racing-crossworlds-digital-deluxe-edition.json) |
@@ -11214,7 +11220,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Requeset | 266510 | [266510-sonic-requeset.json](./266510-sonic-requeset.json) |
 | Sonic Rerun | 336367 | [336367-sonic-rerun.json](./336367-sonic-rerun.json) |
 | Sonic Reshuffled | 331706 | [331706-sonic-reshuffled.json](./331706-sonic-reshuffled.json) |
+| Sonic Reversi | 210304 | [210304-sonic-reversi.json](./210304-sonic-reversi.json) |
+| Sonic Reversi Hyper | 210305 | [210305-sonic-reversi-hyper.json](./210305-sonic-reversi-hyper.json) |
 | Sonic Revolution | 331869 | [331869-sonic-revolution.json](./331869-sonic-revolution.json) |
+| Sonic Riders | 210302 | [210302-sonic-riders.json](./210302-sonic-riders.json) |
 | Sonic Riders | 4158 | [4158-sonic-riders.json](./4158-sonic-riders.json) |
 | Sonic Riders DX | 172466 | [172466-sonic-riders-dx.json](./172466-sonic-riders-dx.json) |
 | Sonic Riders DX v2.0 | 294577 | [294577-sonic-riders-dx-v2-0.json](./294577-sonic-riders-dx-v2-0.json) |
@@ -11262,6 +11271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Rush Adventure Flash | 272921 | [272921-sonic-rush-adventure-flash.json](./272921-sonic-rush-adventure-flash.json) |
 | Sonic Rush Rerun | 365772 | [365772-sonic-rush-rerun.json](./365772-sonic-rush-rerun.json) |
 | Sonic Saga: The Mystery of South Island | 370287 | [370287-sonic-saga-the-mystery-of-south-island.json](./370287-sonic-saga-the-mystery-of-south-island.json) |
+| Sonic Saturn | 210303 | [210303-sonic-saturn.json](./210303-sonic-saturn.json) |
 | Sonic Scramble | 334685 | [334685-sonic-scramble.json](./334685-sonic-scramble.json) |
 | Sonic Seasons | 370301 | [370301-sonic-seasons.json](./370301-sonic-seasons.json) |
 | Sonic Shift | 330297 | [330297-sonic-shift.json](./330297-sonic-shift.json) |
@@ -11313,6 +11323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog | 106274 | [106274-sonic-the-hedgehog.json](./106274-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 198248 | [198248-sonic-the-hedgehog.json](./198248-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 207208 | [207208-sonic-the-hedgehog.json](./207208-sonic-the-hedgehog.json) |
+| Sonic the Hedgehog | 210300 | [210300-sonic-the-hedgehog.json](./210300-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 239066 | [239066-sonic-the-hedgehog.json](./239066-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 261243 | [261243-sonic-the-hedgehog.json](./261243-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 264886 | [264886-sonic-the-hedgehog.json](./264886-sonic-the-hedgehog.json) |
@@ -17461,6 +17472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storms of Shambhala | 72363 | [72363-storms-of-shambhala.json](./72363-storms-of-shambhala.json) |
 | Stormtrooper | 15379 | [15379-stormtrooper.json](./15379-stormtrooper.json) |
 | Stormwinds | 210284 | [210284-stormwinds.json](./210284-stormwinds.json) |
+| Stormwinds: The Lost Campaigns | 210295 | [210295-stormwinds-the-lost-campaigns.json](./210295-stormwinds-the-lost-campaigns.json) |
 | Stormworks: Search and Destroy | 174136 | [174136-stormworks-search-and-destroy.json](./174136-stormworks-search-and-destroy.json) |
 | Stormworm+ | 33332 | [33332-stormworm.json](./33332-stormworm.json) |
 | Stormy Castle | 330847 | [330847-stormy-castle.json](./330847-stormy-castle.json) |
