@@ -552,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xlands | 403750 | [403750-xlands.json](./403750-xlands.json) |
 | XLM's Dr. Harrison | 361277 | [361277-xlms-dr-harrison.json](./361277-xlms-dr-harrison.json) |
 | XLR | 33394 | [33394-xlr.json](./33394-xlr.json) |
+| Xmas Apocalypse | 226114 | [226114-xmas-apocalypse.json](./226114-xmas-apocalypse.json) |
 | Xmas Boom | 254136 | [254136-xmas-boom.json](./254136-xmas-boom.json) |
 | Xmas Jam 2017 | 271230 | [271230-xmas-jam-2017.json](./271230-xmas-jam-2017.json) |
 | Xmas Lemmings | 213867 | [213867-xmas-lemmings.json](./213867-xmas-lemmings.json) |
