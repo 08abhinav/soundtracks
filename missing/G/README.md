@@ -1140,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garbage Collect | 201223 | [201223-garbage-collect.json](./201223-garbage-collect.json) |
 | Garbage Collector | 376437 | [376437-garbage-collector.json](./376437-garbage-collector.json) |
 | Garbage Country | 260303 | [260303-garbage-country.json](./260303-garbage-country.json) |
+| Garbage Crew! | 179426 | [179426-garbage-crew.json](./179426-garbage-crew.json) |
 | Garbage Day | 11785 | [11785-garbage-day.json](./11785-garbage-day.json) |
 | Garbage Driver Truck Simulator 2025 | 319789 | [319789-garbage-driver-truck-simulator-2025.json](./319789-garbage-driver-truck-simulator-2025.json) |
 | Garbage Girl Louise | 316183 | [316183-garbage-girl-louise.json](./316183-garbage-girl-louise.json) |
@@ -4660,6 +4661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gore: Ultimate Soldier | 46969 | [46969-gore-ultimate-soldier.json](./46969-gore-ultimate-soldier.json) |
 | Goreagulation | 223461 | [223461-goreagulation.json](./223461-goreagulation.json) |
 | Goreball | 122348 | [122348-goreball.json](./122348-goreball.json) |
+| GoreBall: Remastered Edition | 179420 | [179420-goreball-remastered-edition.json](./179420-goreball-remastered-edition.json) |
 | Gorehounds of Doom | 261440 | [261440-gorehounds-of-doom.json](./261440-gorehounds-of-doom.json) |
 | Goremon | 249224 | [249224-goremon.json](./249224-goremon.json) |
 | Gorepunk | 337747 | [337747-gorepunk.json](./337747-gorepunk.json) |
@@ -7071,6 +7073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunpunk VR | 280207 | [280207-gunpunk-vr.json](./280207-gunpunk-vr.json) |
 | Gunpyre | 340404 | [340404-gunpyre.json](./340404-gunpyre.json) |
 | GunQuest | 195624 | [195624-gunquest.json](./195624-gunquest.json) |
+| Gunrail | 179448 | [179448-gunrail.json](./179448-gunrail.json) |
 | Gunroar | 91936 | [91936-gunroar.json](./91936-gunroar.json) |
 | Gunrox | 270772 | [270772-gunrox.json](./270772-gunrox.json) |
 | Guns 'n Goblins | 399259 | [399259-guns-n-goblins.json](./399259-guns-n-goblins.json) |
