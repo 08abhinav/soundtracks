@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vermis | 342745 | [342745-vermis.json](./342745-vermis.json) |
 | Vermis [RPGM] | 390808 | [390808-vermis-rpgm.json](./390808-vermis-rpgm.json) |
 | Vermitron | 149197 | [149197-vermitron.json](./149197-vermitron.json) |
+| Vermiworm | 183309 | [183309-vermiworm.json](./183309-vermiworm.json) |
 | Vernal Edge | 138365 | [138365-vernal-edge.json](./138365-vernal-edge.json) |
 | Verne World | 37772 | [37772-verne-world.json](./37772-verne-world.json) |
 | Veronica | 343792 | [343792-veronica.json](./343792-veronica.json) |
