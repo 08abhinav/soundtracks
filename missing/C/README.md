@@ -892,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canidae | 336517 | [336517-canidae.json](./336517-canidae.json) |
 | Canine | 239130 | [239130-canine.json](./239130-canine.json) |
 | Canine Derby Manager | 402491 | [402491-canine-derby-manager.json](./402491-canine-derby-manager.json) |
+| Canis Major | 208659 | [208659-canis-major.json](./208659-canis-major.json) |
 | Cannabis Store Simulator | 359338 | [359338-cannabis-store-simulator.json](./359338-cannabis-store-simulator.json) |
 | Cannery Vale | 216339 | [216339-cannery-vale.json](./216339-cannery-vale.json) |
 | Cannibal | 104785 | [104785-cannibal.json](./104785-cannibal.json) |
@@ -5901,6 +5902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CityLights - San Francisco | 112904 | [112904-citylights-san-francisco.json](./112904-citylights-san-francisco.json) |
 | Citypurger | 323411 | [323411-citypurger.json](./323411-citypurger.json) |
 | Cityquiz.io | 305324 | [305324-cityquiz-io.json](./305324-cityquiz-io.json) |
+| Cityscape Sprint | 208676 | [208676-cityscape-sprint.json](./208676-cityscape-sprint.json) |
 | Cityscapes: Sim Builder | 248581 | [248581-cityscapes-sim-builder.json](./248581-cityscapes-sim-builder.json) |
 | Citytopia | 114791 | [114791-citytopia.json](./114791-citytopia.json) |
 | CityVille | 80153 | [80153-cityville.json](./80153-cityville.json) |
@@ -6408,6 +6410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clifftop Games Bundle I Kathy Rain: Director's Cut + Whispers of a Machine | 226788 | [226788-clifftop-games-bundle-i-kathy-rain-directors-cut-whispers-of-a-machine.json](./226788-clifftop-games-bundle-i-kathy-rain-directors-cut-whispers-of-a-machine.json) |
 | Clik Flip | 194964 | [194964-clik-flip.json](./194964-clik-flip.json) |
 | Clim Snail | 379017 | [379017-clim-snail.json](./379017-clim-snail.json) |
+| Climate State | 208671 | [208671-climate-state.json](./208671-climate-state.json) |
 | Climate Station | 350384 | [350384-climate-station.json](./350384-climate-station.json) |
 | Climatic Survival: Northern Storm | 121485 | [121485-climatic-survival-northern-storm.json](./121485-climatic-survival-northern-storm.json) |
 | Climb | 362343 | [362343-climb.json](./362343-climb.json) |
@@ -8719,6 +8722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Container City | 209952 | [209952-container-city.json](./209952-container-city.json) |
 | Container Hunter Simulator | 407367 | [407367-container-hunter-simulator.json](./407367-container-hunter-simulator.json) |
 | Container Terminal Simulator | 362389 | [362389-container-terminal-simulator.json](./362389-container-terminal-simulator.json) |
+| Containerphobia | 208662 | [208662-containerphobia.json](./208662-containerphobia.json) |
 | Containers | 338885 | [338885-containers.json](./338885-containers.json) |
 | Containment Corps | 55668 | [55668-containment-corps.json](./55668-containment-corps.json) |
 | Containment Initiative 2 | 304383 | [304383-containment-initiative-2.json](./304383-containment-initiative-2.json) |
@@ -9053,6 +9057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coop TD | 339385 | [339385-coop-td.json](./339385-coop-td.json) |
 | Coopbots | 272862 | [272862-coopbots.json](./272862-coopbots.json) |
 | Cooped Up | 242071 | [242071-cooped-up.json](./242071-cooped-up.json) |
+| Cooper's Cleanup | 208666 | [208666-coopers-cleanup.json](./208666-coopers-cleanup.json) |
 | Cooperacing | 207910 | [207910-cooperacing.json](./207910-cooperacing.json) |
 | Cooperate with Yourself | 371338 | [371338-cooperate-with-yourself.json](./371338-cooperate-with-yourself.json) |
 | Cooperative Chess | 157105 | [157105-cooperative-chess.json](./157105-cooperative-chess.json) |
