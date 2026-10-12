@@ -4684,6 +4684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping 1.5+ | 35557 | [35557-ping-1-5.json](./35557-ping-1-5.json) |
 | Ping Bomb | 179593 | [179593-ping-bomb.json](./179593-ping-bomb.json) |
 | Ping Of Death: Odyssey Live | 375862 | [375862-ping-of-death-odyssey-live.json](./375862-ping-of-death-odyssey-live.json) |
+| Ping Phonk | 179980 | [179980-ping-phonk.json](./179980-ping-phonk.json) |
 | Ping Pong | 247006 | [247006-ping-pong.json](./247006-ping-pong.json) |
 | Ping Pong | 343478 | [343478-ping-pong.json](./343478-ping-pong.json) |
 | Ping Pong | 358839 | [358839-ping-pong.json](./358839-ping-pong.json) |
