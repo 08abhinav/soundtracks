@@ -520,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween: The Twelve Cards Curse | 294436 | [294436-halloween-the-twelve-cards-curse.json](./294436-halloween-the-twelve-cards-curse.json) |
 | Halloweenies | 352304 | [352304-halloweenies.json](./352304-halloweenies.json) |
 | Halloweenistry | 55673 | [55673-halloweenistry.json](./55673-halloweenistry.json) |
+| Hallowlands | 203674 | [203674-hallowlands.json](./203674-hallowlands.json) |
 | Hallrunner | 135866 | [135866-hallrunner.json](./135866-hallrunner.json) |
 | Halls of Death | 229363 | [229363-halls-of-death.json](./229363-halls-of-death.json) |
 | Halls of Greed | 302422 | [302422-halls-of-greed.json](./302422-halls-of-greed.json) |
@@ -2545,6 +2546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Diary | 212770 | [212770-hell-diary.json](./212770-hell-diary.json) |
 | Hell Dice Gambit | 388396 | [388396-hell-dice-gambit.json](./388396-hell-dice-gambit.json) |
 | Hell Dive | 324307 | [324307-hell-dive.json](./324307-hell-dive.json) |
+| Hell Division | 203683 | [203683-hell-division.json](./203683-hell-division.json) |
 | Hell Dungeons: The Lost Soul | 236362 | [236362-hell-dungeons-the-lost-soul.json](./236362-hell-dungeons-the-lost-soul.json) |
 | Hell Fighter | 242108 | [242108-hell-fighter.json](./242108-hell-fighter.json) |
 | Hell Fire: Seed of Calamity | 418727 | [418727-hell-fire-seed-of-calamity.json](./418727-hell-fire-seed-of-calamity.json) |
@@ -4280,6 +4282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HiberWorld | 130683 | [130683-hiberworld.json](./130683-hiberworld.json) |
 | Hibikake Iro no Kiseki | 76701 | [76701-hibikake-iro-no-kiseki.json](./76701-hibikake-iro-no-kiseki.json) |
 | Hibiscus Red: Part 2 | 171933 | [171933-hibiscus-red-part-2.json](./171933-hibiscus-red-part-2.json) |
+| Hiboka | 203671 | [203671-hiboka.json](./203671-hiboka.json) |
 | Hibow | 158210 | [158210-hibow.json](./158210-hibow.json) |
 | Hibow Supporter | 182873 | [182873-hibow-supporter.json](./182873-hibow-supporter.json) |
 | Hibridya | 371274 | [371274-hibridya.json](./371274-hibridya.json) |
@@ -6313,6 +6316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Forbidden West: Major Update 1.14 | 227890 | [227890-horizon-forbidden-west-major-update-1-14.json](./227890-horizon-forbidden-west-major-update-1-14.json) |
 | Horizon Forbidden West: Regalla Edition | 173110 | [173110-horizon-forbidden-west-regalla-edition.json](./173110-horizon-forbidden-west-regalla-edition.json) |
 | Horizon Journey | 320472 | [320472-horizon-journey.json](./320472-horizon-journey.json) |
+| Horizon Midnight Sky Combat Aircraft: War Arena Flight Simulator 2022 | 203707 | [203707-horizon-midnight-sky-combat-aircraft-war-arena-flight-simulator-2022.json](./203707-horizon-midnight-sky-combat-aircraft-war-arena-flight-simulator-2022.json) |
 | Horizon Midnight: Aircraft | 276118 | [276118-horizon-midnight-aircraft.json](./276118-horizon-midnight-aircraft.json) |
 | Horizon Odyssey | 158558 | [158558-horizon-odyssey.json](./158558-horizon-odyssey.json) |
 | Horizon of History | 30763 | [30763-horizon-of-history.json](./30763-horizon-of-history.json) |
@@ -6493,6 +6497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Runner DX | 303569 | [303569-horse-runner-dx.json](./303569-horse-runner-dx.json) |
 | Horse Shelter 2022 | 204821 | [204821-horse-shelter-2022.json](./204821-horse-shelter-2022.json) |
 | Horse Shoes | 358835 | [358835-horse-shoes.json](./358835-horse-shoes.json) |
+| Horse Stable: Herd Care Simulator | 203700 | [203700-horse-stable-herd-care-simulator.json](./203700-horse-stable-herd-care-simulator.json) |
 | Horse Tales: Emerald Valley Ranch | 206679 | [206679-horse-tales-emerald-valley-ranch.json](./206679-horse-tales-emerald-valley-ranch.json) |
 | Horse Tales: Emerald Valley Ranch - Deluxe | 283268 | [283268-horse-tales-emerald-valley-ranch-deluxe.json](./283268-horse-tales-emerald-valley-ranch-deluxe.json) |
 | Horse Vet 3D | 85181 | [85181-horse-vet-3d.json](./85181-horse-vet-3d.json) |
