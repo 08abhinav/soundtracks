@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gadget Racers | 250446 | [250446-gadget-racers.json](./250446-gadget-racers.json) |
 | Gadget Racers | 4088 | [4088-gadget-racers.json](./4088-gadget-racers.json) |
 | Gadgeteer | 103264 | [103264-gadgeteer.json](./103264-gadgeteer.json) |
+| Gadkiy Ya 2 | 210318 | [210318-gadkiy-ya-2.json](./210318-gadkiy-ya-2.json) |
 | Gado Fight | 132222 | [132222-gado-fight.json](./132222-gado-fight.json) |
 | Gadvia | 223940 | [223940-gadvia.json](./223940-gadvia.json) |
 | Gaelic Football Laochra | 394897 | [394897-gaelic-football-laochra.json](./394897-gaelic-football-laochra.json) |
@@ -2303,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gettysburg: the Tide Turns | 51445 | [51445-gettysburg-the-tide-turns.json](./51445-gettysburg-the-tide-turns.json) |
 | Geunyeoneun Baekseolgongju | 234636 | [234636-geunyeoneun-baekseolgongju.json](./234636-geunyeoneun-baekseolgongju.json) |
 | Gevaudan | 41106 | [41106-gevaudan.json](./41106-gevaudan.json) |
+| Gex 3: Deep Cover Gecko | 210294 | [210294-gex-3-deep-cover-gecko.json](./210294-gex-3-deep-cover-gecko.json) |
 | Gex 3: Deep Cover Gecko | 3505 | [3505-gex-3-deep-cover-gecko.json](./3505-gex-3-deep-cover-gecko.json) |
 | Gex 3: Deep Pocket Gecko | 49929 | [49929-gex-3-deep-pocket-gecko.json](./49929-gex-3-deep-pocket-gecko.json) |
 | Gex 64: Enter the Gecko | 47758 | [47758-gex-64-enter-the-gecko.json](./47758-gex-64-enter-the-gecko.json) |
@@ -2515,6 +2517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostbusters: Slime City | 96751 | [96751-ghostbusters-slime-city.json](./96751-ghostbusters-slime-city.json) |
 | Ghostbusters: Spirits Unleashed - Collector's Edition | 214137 | [214137-ghostbusters-spirits-unleashed-collectors-edition.json](./214137-ghostbusters-spirits-unleashed-collectors-edition.json) |
 | Ghostbusters: Spirits Unleashed - Ecto Edition | 269357 | [269357-ghostbusters-spirits-unleashed-ecto-edition.json](./269357-ghostbusters-spirits-unleashed-ecto-edition.json) |
+| Ghostbusters: The Video Game | 210296 | [210296-ghostbusters-the-video-game.json](./210296-ghostbusters-the-video-game.json) |
 | Ghostbusters: The Video Game | 566 | [566-ghostbusters-the-video-game.json](./566-ghostbusters-the-video-game.json) |
 | Ghostbusters: The Video Game | 77275 | [77275-ghostbusters-the-video-game.json](./77275-ghostbusters-the-video-game.json) |
 | GhostCast | 169840 | [169840-ghostcast.json](./169840-ghostcast.json) |
