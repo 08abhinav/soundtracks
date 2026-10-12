@@ -7243,7 +7243,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colecionador Show do Milhão | 222352 | [222352-colecionador-show-do-milhao.json](./222352-colecionador-show-do-milhao.json) |
 | Colette's Sugar Madness | 109765 | [109765-colettes-sugar-madness.json](./109765-colettes-sugar-madness.json) |
 | Colibrium: Zen Colour Matching | 107139 | [107139-colibrium-zen-colour-matching.json](./107139-colibrium-zen-colour-matching.json) |
-| Colin McRae Rally | 7967 | [7967-colin-mcrae-rally.json](./7967-colin-mcrae-rally.json) |
 | Colin McRae Rally 2.0 | 235185 | [235185-colin-mcrae-rally-2-0.json](./235185-colin-mcrae-rally-2-0.json) |
 | Colin McRae Rally 2.0 | 642 | [642-colin-mcrae-rally-2-0.json](./642-colin-mcrae-rally-2-0.json) |
 | Colin McRae Rally 2005 | 175916 | [175916-colin-mcrae-rally-2005.json](./175916-colin-mcrae-rally-2005.json) |
@@ -11603,7 +11602,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt of Medea | 15512 | [15512-crypt-of-medea.json](./15512-crypt-of-medea.json) |
 | Crypt of Shadows | 130183 | [130183-crypt-of-shadows.json](./130183-crypt-of-shadows.json) |
 | Crypt of the Fungal Lord | 179140 | [179140-crypt-of-the-fungal-lord.json](./179140-crypt-of-the-fungal-lord.json) |
-| Crypt of the NecroDancer | 7886 | [7886-crypt-of-the-necrodancer.json](./7886-crypt-of-the-necrodancer.json) |
 | Crypt of the Necrodancer: Amplified | 26613 | [26613-crypt-of-the-necrodancer-amplified.json](./26613-crypt-of-the-necrodancer-amplified.json) |
 | Crypt of the Necrodancer: Collector's Edition | 139866 | [139866-crypt-of-the-necrodancer-collectors-edition.json](./139866-crypt-of-the-necrodancer-collectors-edition.json) |
 | Crypt of the NecroDancer: Hatsune Miku | 295649 | [295649-crypt-of-the-necrodancer-hatsune-miku.json](./295649-crypt-of-the-necrodancer-hatsune-miku.json) |
