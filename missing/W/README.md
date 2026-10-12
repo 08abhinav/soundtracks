@@ -3835,6 +3835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wingspan Oceania Deluxe Bundle | 331509 | [331509-wingspan-oceania-deluxe-bundle.json](./331509-wingspan-oceania-deluxe-bundle.json) |
 | Wingspan: The Board Game | 174266 | [174266-wingspan-the-board-game.json](./174266-wingspan-the-board-game.json) |
 | Wingspan: Woodland Wonders Decorative Pack | 310400 | [310400-wingspan-woodland-wonders-decorative-pack.json](./310400-wingspan-woodland-wonders-decorative-pack.json) |
+| Wingsuit Dream | 190389 | [190389-wingsuit-dream.json](./190389-wingsuit-dream.json) |
 | Wingsuit Thrill | 216839 | [216839-wingsuit-thrill.json](./216839-wingsuit-thrill.json) |
 | WingSuit Wiley 2.0 | 251735 | [251735-wingsuit-wiley-2-0.json](./251735-wingsuit-wiley-2-0.json) |
 | Wingsuit: Gudvangen | 123024 | [123024-wingsuit-gudvangen.json](./123024-wingsuit-gudvangen.json) |
@@ -4144,6 +4145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Sacrifice | 192887 | [192887-witch-sacrifice.json](./192887-witch-sacrifice.json) |
 | Witch Schools: Love Potions | 215655 | [215655-witch-schools-love-potions.json](./215655-witch-schools-love-potions.json) |
 | Witch Sequencer | 185698 | [185698-witch-sequencer.json](./185698-witch-sequencer.json) |
+| Witch Slide | 190413 | [190413-witch-slide.json](./190413-witch-slide.json) |
 | Witch Soup | 176490 | [176490-witch-soup.json](./176490-witch-soup.json) |
 | Witch Spring 2 | 174732 | [174732-witch-spring-2.json](./174732-witch-spring-2.json) |
 | Witch Spring 4 | 174733 | [174733-witch-spring-4.json](./174733-witch-spring-4.json) |
