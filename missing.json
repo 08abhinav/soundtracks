@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T11:49:59.481Z",
-  "total_missing": 201666,
+  "generated_at": "2026-10-12T12:08:48.667Z",
+  "total_missing": 201659,
   "games": [
     {
       "igdb_id": 191680,
@@ -24061,11 +24061,6 @@
       "igdb_id": 144346,
       "game_name": "Age of Empires II Mobile",
       "file": "missing/A/144346-age-of-empires-ii-mobile.json"
-    },
-    {
-      "igdb_id": 55056,
-      "game_name": "Age of Empires II: Definitive Edition",
-      "file": "missing/A/55056-age-of-empires-ii-definitive-edition.json"
     },
     {
       "igdb_id": 369166,
@@ -184488,6 +184483,11 @@
       "file": "missing/C/189021-crypto-tycoon.json"
     },
     {
+      "igdb_id": 202053,
+      "game_name": "Crypto Unicorns",
+      "file": "missing/C/202053-crypto-unicorns.json"
+    },
+    {
       "igdb_id": 364561,
       "game_name": "Crypto-Fascist",
       "file": "missing/C/364561-crypto-fascist.json"
@@ -205068,11 +205068,6 @@
       "file": "missing/D/273899-dear-esther.json"
     },
     {
-      "igdb_id": 3082,
-      "game_name": "Dear Esther",
-      "file": "missing/D/3082-dear-esther.json"
-    },
-    {
       "igdb_id": 226167,
       "game_name": "Dear Friend",
       "file": "missing/D/226167-dear-friend.json"
@@ -221288,11 +221283,6 @@
       "file": "missing/D/329776-dino-crisis-2.json"
     },
     {
-      "igdb_id": 4132,
-      "game_name": "Dino Crisis 2",
-      "file": "missing/D/4132-dino-crisis-2.json"
-    },
-    {
       "igdb_id": 416083,
       "game_name": "Dino Crisis 2",
       "file": "missing/D/416083-dino-crisis-2.json"
@@ -223766,11 +223756,6 @@
       "igdb_id": 267308,
       "game_name": "Dishonored 3",
       "file": "missing/D/267308-dishonored-3.json"
-    },
-    {
-      "igdb_id": 37030,
-      "game_name": "Dishonored: Death of the Outsider",
-      "file": "missing/D/37030-dishonored-death-of-the-outsider.json"
     },
     {
       "igdb_id": 20863,
@@ -232146,11 +232131,6 @@
       "igdb_id": 214566,
       "game_name": "Donut Break: Head to Head",
       "file": "missing/D/214566-donut-break-head-to-head.json"
-    },
-    {
-      "igdb_id": 55080,
-      "game_name": "Donut County",
-      "file": "missing/D/55080-donut-county.json"
     },
     {
       "igdb_id": 206715,
@@ -295221,11 +295201,6 @@
       "igdb_id": 274411,
       "game_name": "Final Fantasy Sonic X: Episode 6",
       "file": "missing/F/274411-final-fantasy-sonic-x-episode-6.json"
-    },
-    {
-      "igdb_id": 428,
-      "game_name": "Final Fantasy Tactics",
-      "file": "missing/F/428-final-fantasy-tactics.json"
     },
     {
       "igdb_id": 159064,
@@ -680998,11 +680973,6 @@
       "file": "missing/R/43356-red-dead-redemption-myths-and-mavericks.json"
     },
     {
-      "igdb_id": 3735,
-      "game_name": "Red Dead Redemption: Undead Nightmare",
-      "file": "missing/R/3735-red-dead-redemption-undead-nightmare.json"
-    },
-    {
       "igdb_id": 45199,
       "game_name": "Red Dead Redemption: Undead Nightmare Collection",
       "file": "missing/R/45199-red-dead-redemption-undead-nightmare-collection.json"
@@ -964506,11 +964476,6 @@
       "igdb_id": 34227,
       "game_name": "Warhammer: Snotling Fling",
       "file": "missing/W/34227-warhammer-snotling-fling.json"
-    },
-    {
-      "igdb_id": 55189,
-      "game_name": "Warhammer: Vermintide 2",
-      "file": "missing/W/55189-warhammer-vermintide-2.json"
     },
     {
       "igdb_id": 321734,
