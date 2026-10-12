@@ -5968,6 +5968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Star: Moe Drill | 72618 | [72618-lucky-star-moe-drill.json](./72618-lucky-star-moe-drill.json) |
 | Lucky Star: Net Idol Meister | 44496 | [44496-lucky-star-net-idol-meister.json](./44496-lucky-star-net-idol-meister.json) |
 | Lucky Star: Ryouou Gakuen Outousai | 72617 | [72617-lucky-star-ryouou-gakuen-outousai.json](./72617-lucky-star-ryouou-gakuen-outousai.json) |
+| Lucky Star: Ryouou Gakuen Outousai - DX Pack | 214143 | [214143-lucky-star-ryouou-gakuen-outousai-dx-pack.json](./214143-lucky-star-ryouou-gakuen-outousai-dx-pack.json) |
 | Lucky Stars 2 | 89722 | [89722-lucky-stars-2.json](./89722-lucky-stars-2.json) |
 | Lucky Stars Video Slots | 175990 | [175990-lucky-stars-video-slots.json](./175990-lucky-stars-video-slots.json) |
 | Lucky Tlhalerwa: Super Incursion | 190059 | [190059-lucky-tlhalerwa-super-incursion.json](./190059-lucky-tlhalerwa-super-incursion.json) |
