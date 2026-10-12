@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T21:10:15.186Z",
-  "total_soundtracks": 1560,
+  "generated_at": "2026-10-12T21:15:13.702Z",
+  "total_soundtracks": 1561,
   "games": [
     {
       "igdb_id": 7522,
@@ -1957,6 +1957,20 @@
           "spotify_url": "https://open.spotify.com/album/1htHMnxonxmyHdKE2uDFMR",
           "apple_music_url": "https://music.apple.com/us/album/beat-saber-original-game-soundtrack/1371680509",
           "album_link_url": "https://album.link/i/1371680509"
+        }
+      ]
+    },
+    {
+      "igdb_id": 91477,
+      "game_name": "Before Your Eyes",
+      "game_url": "https://ostdb.net/games/before-your-eyes",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bd149ebe3e76d2f35642184f",
+      "albums": [
+        {
+          "album_name": "Before Your Eyes (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0n2i8bOgOuc9EjaSRd8wY7",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
