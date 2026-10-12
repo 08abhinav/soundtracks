@@ -9175,6 +9175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Xenoverse 2 - Extra Pass | 117657 | [117657-dragon-ball-xenoverse-2-extra-pass.json](./117657-dragon-ball-xenoverse-2-extra-pass.json) |
 | Dragon Ball: Xenoverse 2 - Future Saga: Chapter 2 | 327932 | [327932-dragon-ball-xenoverse-2-future-saga-chapter-2.json](./327932-dragon-ball-xenoverse-2-future-saga-chapter-2.json) |
 | Dragon Ball: Xenoverse 2 - Future Saga: Chapter 4 | 376250 | [376250-dragon-ball-xenoverse-2-future-saga-chapter-4.json](./376250-dragon-ball-xenoverse-2-future-saga-chapter-4.json) |
+| Dragon Ball: Xenoverse 2 - Hero of Justice Pack 1 | 226333 | [226333-dragon-ball-xenoverse-2-hero-of-justice-pack-1.json](./226333-dragon-ball-xenoverse-2-hero-of-justice-pack-1.json) |
 | Dragon Ball: Xenoverse 2 - Hero of Justice: Pack 2 | 225546 | [225546-dragon-ball-xenoverse-2-hero-of-justice-pack-2.json](./225546-dragon-ball-xenoverse-2-hero-of-justice-pack-2.json) |
 | Dragon Ball: Xenoverse 2 - Legendary Pack 1 | 168741 | [168741-dragon-ball-xenoverse-2-legendary-pack-1.json](./168741-dragon-ball-xenoverse-2-legendary-pack-1.json) |
 | Dragon Ball: Xenoverse 2 - Legendary Pack 2 | 193208 | [193208-dragon-ball-xenoverse-2-legendary-pack-2.json](./193208-dragon-ball-xenoverse-2-legendary-pack-2.json) |
