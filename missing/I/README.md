@@ -2102,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indekos | 328613 | [328613-indekos.json](./328613-indekos.json) |
 | Indenture | 212208 | [212208-indenture.json](./212208-indenture.json) |
 | Independant Video Video Game | 194307 | [194307-independant-video-video-game.json](./194307-independant-video-video-game.json) |
+| Independence Day | 198765 | [198765-independence-day.json](./198765-independence-day.json) |
 | Independence Day Resurgence: Battle Heroes | 354411 | [354411-independence-day-resurgence-battle-heroes.json](./354411-independence-day-resurgence-battle-heroes.json) |
 | Independence Day Run | 229039 | [229039-independence-day-run.json](./229039-independence-day-run.json) |
 | Independence War 2: Edge of Chaos | 758 | [758-independence-war-2-edge-of-chaos.json](./758-independence-war-2-edge-of-chaos.json) |
@@ -2998,6 +2999,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inspace 2980 | 109645 | [109645-inspace-2980.json](./109645-inspace-2980.json) |
 | Inspector | 123958 | [123958-inspector.json](./123958-inspector.json) |
 | Inspector Douglas's Diary | 316634 | [316634-inspector-douglass-diary.json](./316634-inspector-douglass-diary.json) |
+| Inspector Gadget | 198766 | [198766-inspector-gadget.json](./198766-inspector-gadget.json) |
+| Inspector Gadget | 198767 | [198767-inspector-gadget.json](./198767-inspector-gadget.json) |
 | Inspector Gadget | 4859 | [4859-inspector-gadget.json](./4859-inspector-gadget.json) |
 | Inspector Gadget Racing | 49293 | [49293-inspector-gadget-racing.json](./49293-inspector-gadget-racing.json) |
 | Inspector Gadget: Mad Time Party | 247190 | [247190-inspector-gadget-mad-time-party.json](./247190-inspector-gadget-mad-time-party.json) |
