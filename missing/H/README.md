@@ -585,7 +585,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo Wars: Limited Edition | 43956 | [43956-halo-wars-limited-edition.json](./43956-halo-wars-limited-edition.json) |
 | Halo: Combat Devolved | 243401 | [243401-halo-combat-devolved.json](./243401-halo-combat-devolved.json) |
 | Halo: Combat Evolved - E3 2000 Demo | 326970 | [326970-halo-combat-evolved-e3-2000-demo.json](./326970-halo-combat-evolved-e3-2000-demo.json) |
-| Halo: Combat Evolved Anniversary | 2640 | [2640-halo-combat-evolved-anniversary.json](./2640-halo-combat-evolved-anniversary.json) |
 | Halo: Combat Evolved VR | 324563 | [324563-halo-combat-evolved-vr.json](./324563-halo-combat-evolved-vr.json) |
 | Halo: Custom Edition | 243116 | [243116-halo-custom-edition.json](./243116-halo-custom-edition.json) |
 | Halo: GoldSource | 352185 | [352185-halo-goldsource.json](./352185-halo-goldsource.json) |
@@ -4289,7 +4288,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi-5: Fun & Games | 274993 | [274993-hi-5-fun-and-games.json](./274993-hi-5-fun-and-games.json) |
 | Hi-5: Fun Club | 274992 | [274992-hi-5-fun-club.json](./274992-hi-5-fun-club.json) |
 | Hi-Fi Roller | 384157 | [384157-hi-fi-roller.json](./384157-hi-fi-roller.json) |
-| Hi-Fi Rush | 233585 | [233585-hi-fi-rush.json](./233585-hi-fi-rush.json) |
 | Hi-Fi Rush: Bossplay Costume Pack | 263126 | [263126-hi-fi-rush-bossplay-costume-pack.json](./263126-hi-fi-rush-bossplay-costume-pack.json) |
 | Hi-Fi Rush: Deluxe Edition | 233614 | [233614-hi-fi-rush-deluxe-edition.json](./233614-hi-fi-rush-deluxe-edition.json) |
 | Hi-Fi Rush: Teamplay Costume Pack | 275615 | [275615-hi-fi-rush-teamplay-costume-pack.json](./275615-hi-fi-rush-teamplay-costume-pack.json) |
