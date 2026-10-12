@@ -1108,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanguine Melancholia | 138730 | [138730-sanguine-melancholia.json](./138730-sanguine-melancholia.json) |
 | Sanguivore: Twenty Below | 266271 | [266271-sanguivore-twenty-below.json](./266271-sanguivore-twenty-below.json) |
 | Sanguo | 113003 | [113003-sanguo.json](./113003-sanguo.json) |
+| Sanguo Doki | 208092 | [208092-sanguo-doki.json](./208092-sanguo-doki.json) |
 | Sānguó Qún Jiàng Zhuàn | 368105 | [368105-sanguo-qun-jiang-zhuan.json](./368105-sanguo-qun-jiang-zhuan.json) |
 | Sānguó Qúnyīng | 308916 | [308916-sanguo-qunying.json](./308916-sanguo-qunying.json) |
 | Sānguó Qúnyīng Lù | 407319 | [407319-sanguo-qunying-lu.json](./407319-sanguo-qunying-lu.json) |
@@ -1620,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saving You From Yourself | 133467 | [133467-saving-you-from-yourself.json](./133467-saving-you-from-yourself.json) |
 | Savior | 121034 | [121034-savior.json](./121034-savior.json) |
 | Savior | 155016 | [155016-savior.json](./155016-savior.json) |
+| Savior Fantasy | 208091 | [208091-savior-fantasy.json](./208091-savior-fantasy.json) |
 | Savior of Light | 189961 | [189961-savior-of-light.json](./189961-savior-of-light.json) |
 | Savior of the Abyss | 165560 | [165560-savior-of-the-abyss.json](./165560-savior-of-the-abyss.json) |
 | Saviors | 36264 | [36264-saviors.json](./36264-saviors.json) |
@@ -11810,6 +11812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Knight: The Forest of Spirits | 237296 | [237296-soul-knight-the-forest-of-spirits.json](./237296-soul-knight-the-forest-of-spirits.json) |
 | Soul Land Reloaded | 174651 | [174651-soul-land-reloaded.json](./174651-soul-land-reloaded.json) |
 | Soul Land: Advent of the Gods | 194020 | [194020-soul-land-advent-of-the-gods.json](./194020-soul-land-advent-of-the-gods.json) |
+| Soul Launcher | 208073 | [208073-soul-launcher.json](./208073-soul-launcher.json) |
 | Soul Light | 187407 | [187407-soul-light.json](./187407-soul-light.json) |
 | Soul Locus | 35754 | [35754-soul-locus.json](./35754-soul-locus.json) |
 | Soul Machine | 351707 | [351707-soul-machine.json](./351707-soul-machine.json) |
@@ -15475,6 +15478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Sign | 217309 | [217309-star-sign.json](./217309-star-sign.json) |
 | Star Sign | 377304 | [377304-star-sign.json](./377304-star-sign.json) |
 | Star Singularity | 104857 | [104857-star-singularity.json](./104857-star-singularity.json) |
+| Star Skater | 208065 | [208065-star-skater.json](./208065-star-skater.json) |
 | Star Sky | 18015 | [18015-star-sky.json](./18015-star-sky.json) |
 | Star Sky 2 | 18462 | [18462-star-sky-2.json](./18462-star-sky-2.json) |
 | Star Sky 2 | 33512 | [33512-star-sky-2.json](./33512-star-sky-2.json) |
@@ -19047,6 +19051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumikko Gurashi: Gakkou Seikatsu Hajimerun Desu | 118269 | [118269-sumikko-gurashi-gakkou-seikatsu-hajimerun-desu.json](./118269-sumikko-gurashi-gakkou-seikatsu-hajimerun-desu.json) |
 | Sumikko Gurashi: Omise Hajimerun Desu | 59889 | [59889-sumikko-gurashi-omise-hajimerun-desu.json](./59889-sumikko-gurashi-omise-hajimerun-desu.json) |
 | Sumikko Gurashi: Sumikko Park he Youkoso | 55138 | [55138-sumikko-gurashi-sumikko-park-he-youkoso.json](./55138-sumikko-gurashi-sumikko-park-he-youkoso.json) |
+| Sumikkogurashi Farm | 208066 | [208066-sumikkogurashi-farm.json](./208066-sumikkogurashi-farm.json) |
 | Sumikkogurashi the Movie Block Puzzle Game | 213635 | [213635-sumikkogurashi-the-movie-block-puzzle-game.json](./213635-sumikkogurashi-the-movie-block-puzzle-game.json) |
 | SuMine | 118163 | [118163-sumine.json](./118163-sumine.json) |
 | Sumire | 137960 | [137960-sumire.json](./137960-sumire.json) |
