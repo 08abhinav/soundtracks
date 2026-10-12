@@ -4336,6 +4336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GonzoVR | 109865 | [109865-gonzovr.json](./109865-gonzovr.json) |
 | Gonzzalezz | 39154 | [39154-gonzzalezz.json](./39154-gonzzalezz.json) |
 | Goo Fighter | 283725 | [283725-goo-fighter.json](./283725-goo-fighter.json) |
+| Goo Game | 202016 | [202016-goo-game.json](./202016-goo-game.json) |
 | Goo Gladiators | 211914 | [211914-goo-gladiators.json](./211914-goo-gladiators.json) |
 | Goo Go | 304380 | [304380-goo-go.json](./304380-goo-go.json) |
 | Goo Hunter | 333128 | [333128-goo-hunter.json](./333128-goo-hunter.json) |
