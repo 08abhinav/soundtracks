@@ -4889,6 +4889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Riddles: Sherlock's Heritage 2 | 100347 | [100347-detective-riddles-sherlocks-heritage-2.json](./100347-detective-riddles-sherlocks-heritage-2.json) |
 | Detective Rosie Morgan: Death at a Dinner Party | 236827 | [236827-detective-rosie-morgan-death-at-a-dinner-party.json](./236827-detective-rosie-morgan-death-at-a-dinner-party.json) |
 | Detective S | 159089 | [159089-detective-s.json](./159089-detective-s.json) |
+| Detective S. Harkins | 184820 | [184820-detective-s-harkins.json](./184820-detective-s-harkins.json) |
 | Detective School Club | 304597 | [304597-detective-school-club.json](./304597-detective-school-club.json) |
 | Detective Secrets Solitaire: The Greyhall Mystery | 417508 | [417508-detective-secrets-solitaire-the-greyhall-mystery.json](./417508-detective-secrets-solitaire-the-greyhall-mystery.json) |
 | Detective Sherlock Holmes - Hidden Object Games | 88662 | [88662-detective-sherlock-holmes-hidden-object-games.json](./88662-detective-sherlock-holmes-hidden-object-games.json) |
@@ -11600,6 +11601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of the Endless: Deep Freeze | 168244 | [168244-dungeon-of-the-endless-deep-freeze.json](./168244-dungeon-of-the-endless-deep-freeze.json) |
 | Dungeon of the Endless: Rescue Team | 168245 | [168245-dungeon-of-the-endless-rescue-team.json](./168245-dungeon-of-the-endless-rescue-team.json) |
 | Dungeon of the Forgotten King | 257981 | [257981-dungeon-of-the-forgotten-king.json](./257981-dungeon-of-the-forgotten-king.json) |
+| Dungeon of the Gods | 184875 | [184875-dungeon-of-the-gods.json](./184875-dungeon-of-the-gods.json) |
 | Dungeon of Windaria | 72637 | [72637-dungeon-of-windaria.json](./72637-dungeon-of-windaria.json) |
 | Dungeon of Zaar: Explorer Edition | 238545 | [238545-dungeon-of-zaar-explorer-edition.json](./238545-dungeon-of-zaar-explorer-edition.json) |
 | Dungeon of Zolthan | 32967 | [32967-dungeon-of-zolthan.json](./32967-dungeon-of-zolthan.json) |
@@ -11838,6 +11840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Kremlin: Remastered | 57038 | [57038-dungeons-of-kremlin-remastered.json](./57038-dungeons-of-kremlin-remastered.json) |
 | Dungeons of Legend: Cast Within | 115073 | [115073-dungeons-of-legend-cast-within.json](./115073-dungeons-of-legend-cast-within.json) |
 | Dungeons of Loot | 133989 | [133989-dungeons-of-loot.json](./133989-dungeons-of-loot.json) |
+| Dungeons of Mysteria | 184857 | [184857-dungeons-of-mysteria.json](./184857-dungeons-of-mysteria.json) |
 | Dungeons of Paint | 351002 | [351002-dungeons-of-paint.json](./351002-dungeons-of-paint.json) |
 | Dungeons of Shalnor | 187480 | [187480-dungeons-of-shalnor.json](./187480-dungeons-of-shalnor.json) |
 | Dungeons of Sundaria | 208473 | [208473-dungeons-of-sundaria.json](./208473-dungeons-of-sundaria.json) |
