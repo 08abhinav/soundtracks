@@ -3782,6 +3782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charge Kid | 144576 | [144576-charge-kid.json](./144576-charge-kid.json) |
 | Charge Up | 413091 | [413091-charge-up.json](./413091-charge-up.json) |
 | Charge! | 148692 | [148692-charge.json](./148692-charge.json) |
+| Charge! | 182784 | [182784-charge.json](./182784-charge.json) |
 | Charge! | 219101 | [219101-charge.json](./219101-charge.json) |
 | Charge! | 380071 | [380071-charge.json](./380071-charge.json) |
 | Charge! Tank Squad | 59392 | [59392-charge-tank-squad.json](./59392-charge-tank-squad.json) |
@@ -6480,6 +6481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climate State | 208671 | [208671-climate-state.json](./208671-climate-state.json) |
 | Climate Station | 350384 | [350384-climate-station.json](./350384-climate-station.json) |
 | Climatic Survival: Northern Storm | 121485 | [121485-climatic-survival-northern-storm.json](./121485-climatic-survival-northern-storm.json) |
+| Climb | 182760 | [182760-climb.json](./182760-climb.json) |
 | Climb | 362343 | [362343-climb.json](./362343-climb.json) |
 | Climb and Cry | 405627 | [405627-climb-and-cry.json](./405627-climb-and-cry.json) |
 | Climb and Fall Dice Adventure | 242205 | [242205-climb-and-fall-dice-adventure.json](./242205-climb-and-fall-dice-adventure.json) |
