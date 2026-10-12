@@ -5705,6 +5705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Shop Manager | 165557 | [165557-pizza-shop-manager.json](./165557-pizza-shop-manager.json) |
 | Pizza Shop Simulator | 348821 | [348821-pizza-shop-simulator.json](./348821-pizza-shop-simulator.json) |
 | Pizza Simulator Together | 326382 | [326382-pizza-simulator-together.json](./326382-pizza-simulator-together.json) |
+| Pizza Snake! | 202023 | [202023-pizza-snake.json](./202023-pizza-snake.json) |
 | Pizza Spy | 273438 | [273438-pizza-spy.json](./273438-pizza-spy.json) |
 | Pizza Syndicate | 373071 | [373071-pizza-syndicate.json](./373071-pizza-syndicate.json) |
 | Pizza the Pie | 175357 | [175357-pizza-the-pie.json](./175357-pizza-the-pie.json) |
@@ -6136,6 +6137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platdude in Battling Ostriches | 61426 | [61426-platdude-in-battling-ostriches.json](./61426-platdude-in-battling-ostriches.json) |
 | Platdude in Swamp Golf | 61087 | [61087-platdude-in-swamp-golf.json](./61087-platdude-in-swamp-golf.json) |
 | Plate | 339280 | [339280-plate.json](./339280-plate.json) |
+| Plate Spinning | 202006 | [202006-plate-spinning.json](./202006-plate-spinning.json) |
 | Plateman | 240776 | [240776-plateman.json](./240776-plateman.json) |
 | Plates | 32188 | [32188-plates.json](./32188-plates.json) |
 | PlateUp!: Collector's Edition | 247191 | [247191-plateup-collectors-edition.json](./247191-plateup-collectors-edition.json) |
@@ -9716,6 +9718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Problem Animals | 193488 | [193488-problem-animals.json](./193488-problem-animals.json) |
 | Problem Attic | 76159 | [76159-problem-attic.json](./76159-problem-attic.json) |
 | Problem Sleuth | 336732 | [336732-problem-sleuth.json](./336732-problem-sleuth.json) |
+| Problem Trolley | 202044 | [202044-problem-trolley.json](./202044-problem-trolley.json) |
 | Problematic | 409388 | [409388-problematic.json](./409388-problematic.json) |
 | Problemlöser | 277936 | [277936-problemloser.json](./277936-problemloser.json) |
 | Problems and Solutions | 342733 | [342733-problems-and-solutions.json](./342733-problems-and-solutions.json) |
@@ -10920,8 +10923,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulmonary | 106742 | [106742-pulmonary.json](./106742-pulmonary.json) |
 | Pulp Action Shotgun | 362876 | [362876-pulp-action-shotgun.json](./362876-pulp-action-shotgun.json) |
 | Pulp Race: Daft Enigma Fighter | 382780 | [382780-pulp-race-daft-enigma-fighter.json](./382780-pulp-race-daft-enigma-fighter.json) |
+| PulpCraft | 202034 | [202034-pulpcraft.json](./202034-pulpcraft.json) |
 | Pulpcraft DX | 231328 | [231328-pulpcraft-dx.json](./231328-pulpcraft-dx.json) |
 | Pulpergeist | 204206 | [204206-pulpergeist.json](./204206-pulpergeist.json) |
+| Pulpmon | 202038 | [202038-pulpmon.json](./202038-pulpmon.json) |
 | Pulsar | 167797 | [167797-pulsar.json](./167797-pulsar.json) |
 | Pulsar | 172728 | [172728-pulsar.json](./172728-pulsar.json) |
 | Pulsar no Hikari | 64649 | [64649-pulsar-no-hikari.json](./64649-pulsar-no-hikari.json) |
