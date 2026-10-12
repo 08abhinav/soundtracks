@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T20:52:15.949Z",
-  "total_soundtracks": 1548,
+  "generated_at": "2026-10-12T20:52:32.546Z",
+  "total_soundtracks": 1549,
   "games": [
     {
       "igdb_id": 7522,
@@ -13561,6 +13561,20 @@
           "spotify_url": "https://music.apple.com/us/album/somerville-original-video-game-soundtrack/1711799339?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1711799339"
+        }
+      ]
+    },
+    {
+      "igdb_id": 2174,
+      "game_name": "Sonic & All-Stars Racing Transformed",
+      "game_url": "https://ostdb.net/games/sonic-and-all-stars-racing-transformed",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/b4/d5/53/b4d553ae-c348-85f1-f44c-aa61cd76dcfe/WWCE31334_SART_digital_vol1.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Sonic & All-Stars Racing Transformed Original Soundtrack (Vol. 1)",
+          "spotify_url": "https://open.spotify.com/album/1tmvxKnLzAmEeHJedsUEBV",
+          "apple_music_url": "https://music.apple.com/us/album/sonic-all-stars-racing-transformed-original-soundtrack/871740500",
+          "album_link_url": "https://album.link/i/871740500"
         }
       ]
     },
