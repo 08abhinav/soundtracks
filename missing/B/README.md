@@ -4380,6 +4380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Memoria | 386302 | [386302-beyond-memoria.json](./386302-beyond-memoria.json) |
 | Beyond Memories: Darkness of the Soul | 328568 | [328568-beyond-memories-darkness-of-the-soul.json](./328568-beyond-memories-darkness-of-the-soul.json) |
 | Beyond Minimalism | 102923 | [102923-beyond-minimalism.json](./102923-beyond-minimalism.json) |
+| Beyond Myths | 224708 | [224708-beyond-myths.json](./224708-beyond-myths.json) |
 | Beyond Pearl Harbor: Pacific Warriors | 37289 | [37289-beyond-pearl-harbor-pacific-warriors.json](./37289-beyond-pearl-harbor-pacific-warriors.json) |
 | Beyond Perception | 108845 | [108845-beyond-perception.json](./108845-beyond-perception.json) |
 | Beyond Protocol | 72646 | [72646-beyond-protocol.json](./72646-beyond-protocol.json) |
@@ -5521,6 +5522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BiuBiu Jungle | 118209 | [118209-biubiu-jungle.json](./118209-biubiu-jungle.json) |
 | Biwar: Legend of Dragon Slayer | 204713 | [204713-biwar-legend-of-dragon-slayer.json](./204713-biwar-legend-of-dragon-slayer.json) |
 | Biz Taiken Series: Kigyoudou | 59393 | [59393-biz-taiken-series-kigyoudou.json](./59393-biz-taiken-series-kigyoudou.json) |
+| Bizarr Adventure | 224677 | [224677-bizarr-adventure.json](./224677-bizarr-adventure.json) |
 | Bizarre | 313139 | [313139-bizarre.json](./313139-bizarre.json) |
 | Bizarre Earthquake | 33385 | [33385-bizarre-earthquake.json](./33385-bizarre-earthquake.json) |
 | Bizarre Hunteress Rin | 82879 | [82879-bizarre-hunteress-rin.json](./82879-bizarre-hunteress-rin.json) |
@@ -7124,6 +7126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Roar | 2749 | [2749-bloody-roar.json](./2749-bloody-roar.json) |
 | Bloody Roar 2 | 4140 | [4140-bloody-roar-2.json](./4140-bloody-roar-2.json) |
 | Bloody Roar 3 | 3824 | [3824-bloody-roar-3.json](./3824-bloody-roar-3.json) |
+| Bloody Roar Extreme | 225826 | [225826-bloody-roar-extreme.json](./225826-bloody-roar-extreme.json) |
 | Bloody Rune | 320433 | [320433-bloody-rune.json](./320433-bloody-rune.json) |
 | Bloody Shrine | 284019 | [284019-bloody-shrine.json](./284019-bloody-shrine.json) |
 | Bloody Sky | 312153 | [312153-bloody-sky.json](./312153-bloody-sky.json) |
@@ -7674,6 +7677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bogwater | 381727 | [381727-bogwater.json](./381727-bogwater.json) |
 | Bogy Men | 60206 | [60206-bogy-men.json](./60206-bogy-men.json) |
 | Bohemian Cupid | 338666 | [338666-bohemian-cupid.json](./338666-bohemian-cupid.json) |
+| Bohemian Symphony | 225803 | [225803-bohemian-symphony.json](./225803-bohemian-symphony.json) |
 | Bohemian Yard | 217866 | [217866-bohemian-yard.json](./217866-bohemian-yard.json) |
 | Bohnice: Within the Mind | 271678 | [271678-bohnice-within-the-mind.json](./271678-bohnice-within-the-mind.json) |
 | Bohrdom | 112947 | [112947-bohrdom.json](./112947-bohrdom.json) |
