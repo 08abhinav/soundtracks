@@ -3733,6 +3733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Essence Defenders | 102288 | [102288-essence-defenders.json](./102288-essence-defenders.json) |
 | Essence Hunt | 177512 | [177512-essence-hunt.json](./177512-essence-hunt.json) |
 | Essence of Illumination: The Beginning | 89672 | [89672-essence-of-illumination-the-beginning.json](./89672-essence-of-illumination-the-beginning.json) |
+| Essence of the Tjikko | 191491 | [191491-essence-of-the-tjikko.json](./191491-essence-of-the-tjikko.json) |
 | Essence of Waluigi | 250044 | [250044-essence-of-waluigi.json](./250044-essence-of-waluigi.json) |
 | Essential Mayhem | 159739 | [159739-essential-mayhem.json](./159739-essential-mayhem.json) |
 | Essential Power | 369038 | [369038-essential-power.json](./369038-essential-power.json) |
