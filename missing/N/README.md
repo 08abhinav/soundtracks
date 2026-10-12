@@ -3375,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Pug | 25770 | [25770-ninja-pug.json](./25770-ninja-pug.json) |
 | Ninja Rabbit | 214491 | [214491-ninja-rabbit.json](./214491-ninja-rabbit.json) |
 | Ninja Raiden | 181787 | [181787-ninja-raiden.json](./181787-ninja-raiden.json) |
+| Ninja Relo | 208076 | [208076-ninja-relo.json](./208076-ninja-relo.json) |
 | Ninja Remix | 12172 | [12172-ninja-remix.json](./12172-ninja-remix.json) |
 | Ninja Remix 16 | 59986 | [59986-ninja-remix-16.json](./59986-ninja-remix-16.json) |
 | Ninja Resurrection: A tale of Kuro | 276975 | [276975-ninja-resurrection-a-tale-of-kuro.json](./276975-ninja-resurrection-a-tale-of-kuro.json) |
@@ -4764,6 +4765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Reaction | 184502 | [184502-nuclear-reaction.json](./184502-nuclear-reaction.json) |
 | Nuclear Rush | 202404 | [202404-nuclear-rush.json](./202404-nuclear-rush.json) |
 | Nuclear Sub | 231298 | [231298-nuclear-sub.json](./231298-nuclear-sub.json) |
+| Nuclear Submarine inc | 208072 | [208072-nuclear-submarine-inc.json](./208072-nuclear-submarine-inc.json) |
 | Nuclear Throne | 3227 | [3227-nuclear-throne.json](./3227-nuclear-throne.json) |
 | Nuclear Throne 3D | 375427 | [375427-nuclear-throne-3d.json](./375427-nuclear-throne-3d.json) |
 | Nuclear Titbit | 113375 | [113375-nuclear-titbit.json](./113375-nuclear-titbit.json) |
@@ -4794,6 +4796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuign Specter | 251242 | [251242-nuign-specter.json](./251242-nuign-specter.json) |
 | Nuke Babysitter Simulator \| Kim Edition | 81685 | [81685-nuke-babysitter-simulator-kim-edition.json](./81685-nuke-babysitter-simulator-kim-edition.json) |
 | Nuke Bomberman | 336681 | [336681-nuke-bomberman.json](./336681-nuke-bomberman.json) |
+| Nuke City | 208085 | [208085-nuke-city.json](./208085-nuke-city.json) |
 | Nuke Destroyer | 97158 | [97158-nuke-destroyer.json](./97158-nuke-destroyer.json) |
 | Nuke Mine | 311467 | [311467-nuke-mine.json](./311467-nuke-mine.json) |
 | Nuke Them All | 250513 | [250513-nuke-them-all.json](./250513-nuke-them-all.json) |
