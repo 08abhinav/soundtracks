@@ -2809,6 +2809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Food Fight VR | 117075 | [117075-epic-food-fight-vr.json](./117075-epic-food-fight-vr.json) |
 | Epic Game Theory | 110138 | [110138-epic-game-theory.json](./110138-epic-game-theory.json) |
 | Epic Idle Quest | 96187 | [96187-epic-idle-quest.json](./96187-epic-idle-quest.json) |
+| Epic Jump! | 204838 | [204838-epic-jump.json](./204838-epic-jump.json) |
 | Epic Knight 2 | 253420 | [253420-epic-knight-2.json](./253420-epic-knight-2.json) |
 | Epic Landscapes Jigsaw | 354404 | [354404-epic-landscapes-jigsaw.json](./354404-epic-landscapes-jigsaw.json) |
 | Epic Loon | 55216 | [55216-epic-loon.json](./55216-epic-loon.json) |
@@ -3012,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EreaDrone: FPV Simulator | 112216 | [112216-ereadrone-fpv-simulator.json](./112216-ereadrone-fpv-simulator.json) |
 | Ereban: Shadow Legacy | 204624 | [204624-ereban-shadow-legacy.json](./204624-ereban-shadow-legacy.json) |
 | Erebus | 36919 | [36919-erebus.json](./36919-erebus.json) |
+| Erectus | 204839 | [204839-erectus.json](./204839-erectus.json) |
 | Erectus the Game | 115188 | [115188-erectus-the-game.json](./115188-erectus-the-game.json) |
 | Eredan iTCG | 76909 | [76909-eredan-itcg.json](./76909-eredan-itcg.json) |
 | Eredia: The Diary of Heroes | 90718 | [90718-eredia-the-diary-of-heroes.json](./90718-eredia-the-diary-of-heroes.json) |
@@ -3414,6 +3416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Lizards | 31903 | [31903-escape-lizards.json](./31903-escape-lizards.json) |
 | Escape Machines | 26823 | [26823-escape-machines.json](./26823-escape-machines.json) |
 | Escape Memoirs: Bank Heist | 349988 | [349988-escape-memoirs-bank-heist.json](./349988-escape-memoirs-bank-heist.json) |
+| Escape Memoirs: Mansion Heist | 204840 | [204840-escape-memoirs-mansion-heist.json](./204840-escape-memoirs-mansion-heist.json) |
 | Escape Memoirs: Mini Stories - Bunker Scenario | 235840 | [235840-escape-memoirs-mini-stories-bunker-scenario.json](./235840-escape-memoirs-mini-stories-bunker-scenario.json) |
 | Escape Memoirs: Questionable Side Stories | 247615 | [247615-escape-memoirs-questionable-side-stories.json](./247615-escape-memoirs-questionable-side-stories.json) |
 | Escape Mystery-The Dark Fence | 237368 | [237368-escape-mystery-the-dark-fence.json](./237368-escape-mystery-the-dark-fence.json) |
