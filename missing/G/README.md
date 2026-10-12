@@ -5229,6 +5229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grappling Bagel | 348870 | [348870-grappling-bagel.json](./348870-grappling-bagel.json) |
 | Grappling Dash | 215584 | [215584-grappling-dash.json](./215584-grappling-dash.json) |
 | Grappling Hook | 21106 | [21106-grappling-hook.json](./21106-grappling-hook.json) |
+| Grappling Hook Ball Tournament | 190404 | [190404-grappling-hook-ball-tournament.json](./190404-grappling-hook-ball-tournament.json) |
 | Grashers | 124247 | [124247-grashers.json](./124247-grashers.json) |
 | Grass Cutter: Mutated Lawns | 120257 | [120257-grass-cutter-mutated-lawns.json](./120257-grass-cutter-mutated-lawns.json) |
 | Grass Life Sim | 328450 | [328450-grass-life-sim.json](./328450-grass-life-sim.json) |
