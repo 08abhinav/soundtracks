@@ -6685,6 +6685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disorder6 | 63124 | [63124-disorder6.json](./63124-disorder6.json) |
 | Disorderly | 319142 | [319142-disorderly.json](./319142-disorderly.json) |
 | Disorderly | 356625 | [356625-disorderly.json](./356625-disorderly.json) |
+| Disorient on The Murder Express | 200941 | [200941-disorient-on-the-murder-express.json](./200941-disorient-on-the-murder-express.json) |
 | Disoriented | 76212 | [76212-disoriented.json](./76212-disoriented.json) |
 | Disown95 | 393753 | [393753-disown95.json](./393753-disown95.json) |
 | Disparity | 68495 | [68495-disparity.json](./68495-disparity.json) |
@@ -10116,6 +10117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Undercity | 248065 | [248065-dream-undercity.json](./248065-dream-undercity.json) |
 | Dream Univrse | 30784 | [30784-dream-univrse.json](./30784-dream-univrse.json) |
 | Dream Vacation | 229660 | [229660-dream-vacation.json](./229660-dream-vacation.json) |
+| Dream Vacation Solitaire | 200964 | [200964-dream-vacation-solitaire.json](./200964-dream-vacation-solitaire.json) |
 | Dream Village | 390229 | [390229-dream-village.json](./390229-dream-village.json) |
 | Dream vs. Dream | 212764 | [212764-dream-vs-dream.json](./212764-dream-vs-dream.json) |
 | Dream Walk: Stolen Color | 215871 | [215871-dream-walk-stolen-color.json](./215871-dream-walk-stolen-color.json) |
