@@ -4193,6 +4193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me and the Key 3 | 225281 | [225281-me-and-the-key-3.json](./225281-me-and-the-key-3.json) |
 | Me and the Zombies | 200714 | [200714-me-and-the-zombies.json](./200714-me-and-the-zombies.json) |
 | Me de Unou wo Kitaeru: DS Sokudoku Jutsu | 316121 | [316121-me-de-unou-wo-kitaeru-ds-sokudoku-jutsu.json](./316121-me-de-unou-wo-kitaeru-ds-sokudoku-jutsu.json) |
+| Me is King | 212521 | [212521-me-is-king.json](./212521-me-is-king.json) |
 | Me Mostre Sonhos Doces | 299121 | [299121-me-mostre-sonhos-doces.json](./299121-me-mostre-sonhos-doces.json) |
 | Me Smart Orc | 108431 | [108431-me-smart-orc.json](./108431-me-smart-orc.json) |
 | Me the Gravekeeper | 346681 | [346681-me-the-gravekeeper.json](./346681-me-the-gravekeeper.json) |
@@ -8889,6 +8890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistwood Heroes | 29936 | [29936-mistwood-heroes.json](./29936-mistwood-heroes.json) |
 | MistWorld the after2 | 215367 | [215367-mistworld-the-after2.json](./215367-mistworld-the-after2.json) |
 | Misty Blue | 64387 | [64387-misty-blue.json](./64387-misty-blue.json) |
+| Misty Continent: Cursed Island | 212437 | [212437-misty-continent-cursed-island.json](./212437-misty-continent-cursed-island.json) |
 | Misty Garden | 345670 | [345670-misty-garden.json](./345670-misty-garden.json) |
 | Misty no Kira-kira Hanjouki | 265217 | [265217-misty-no-kira-kira-hanjouki.json](./265217-misty-no-kira-kira-hanjouki.json) |
 | Misty's Idle Fishing | 372531 | [372531-mistys-idle-fishing.json](./372531-mistys-idle-fishing.json) |
@@ -9045,6 +9047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Perfect Inning | 323161 | [323161-mlb-perfect-inning.json](./323161-mlb-perfect-inning.json) |
 | MLB Perfect Inning 24 | 321667 | [321667-mlb-perfect-inning-24.json](./321667-mlb-perfect-inning-24.json) |
 | MLB Perfect Inning Live | 96295 | [96295-mlb-perfect-inning-live.json](./96295-mlb-perfect-inning-live.json) |
+| MLB Perfect Inning: 23 | 212436 | [212436-mlb-perfect-inning-23.json](./212436-mlb-perfect-inning-23.json) |
 | MLB Power Pros 2008 | 5010 | [5010-mlb-power-pros-2008.json](./5010-mlb-power-pros-2008.json) |
 | MLB Rivals | 255104 | [255104-mlb-rivals.json](./255104-mlb-rivals.json) |
 | MLB Slam! | 47568 | [47568-mlb-slam.json](./47568-mlb-slam.json) |
@@ -11414,6 +11417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotorStorm: Pacific Rift | 2554 | [2554-motorstorm-pacific-rift.json](./2554-motorstorm-pacific-rift.json) |
 | MotoRun | 166739 | [166739-motorun.json](./166739-motorun.json) |
 | Motoscafo | 376546 | [376546-motoscafo.json](./376546-motoscafo.json) |
+| Motoshow Idle | 212433 | [212433-motoshow-idle.json](./212433-motoshow-idle.json) |
 | MotoX | 224638 | [224638-motox.json](./224638-motox.json) |
 | Mots Croisés | 93557 | [93557-mots-croises.json](./93557-mots-croises.json) |
 | Mottainai Ghost | 339980 | [339980-mottainai-ghost.json](./339980-mottainai-ghost.json) |
