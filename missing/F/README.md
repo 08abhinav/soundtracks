@@ -1254,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Earth: Zero | 51192 | [51192-fantasy-earth-zero.json](./51192-fantasy-earth-zero.json) |
 | Fantasy Empires | 70451 | [70451-fantasy-empires.json](./70451-fantasy-empires.json) |
 | Fantasy ERA | 54463 | [54463-fantasy-era.json](./54463-fantasy-era.json) |
+| Fantasy Fighters | 200945 | [200945-fantasy-fighters.json](./200945-fantasy-fighters.json) |
 | Fantasy Fighters: Historic Fighters | 209132 | [209132-fantasy-fighters-historic-fighters.json](./209132-fantasy-fighters-historic-fighters.json) |
 | Fantasy Finger Football | 120240 | [120240-fantasy-finger-football.json](./120240-fantasy-finger-football.json) |
 | Fantasy Fishing Town | 197225 | [197225-fantasy-fishing-town.json](./197225-fantasy-fishing-town.json) |
@@ -2695,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field of Glory II | 65835 | [65835-field-of-glory-ii.json](./65835-field-of-glory-ii.json) |
 | Field of Glory II: Age of Belisarius | 124785 | [124785-field-of-glory-ii-age-of-belisarius.json](./124785-field-of-glory-ii-age-of-belisarius.json) |
 | Field of Glory II: Medieval - Reconquista | 148343 | [148343-field-of-glory-ii-medieval-reconquista.json](./148343-field-of-glory-ii-medieval-reconquista.json) |
+| Field of Glory II: Medieval - Rise of the Swiss | 200944 | [200944-field-of-glory-ii-medieval-rise-of-the-swiss.json](./200944-field-of-glory-ii-medieval-rise-of-the-swiss.json) |
 | Field of Glory II: Medieval - Storm of Arrows | 186898 | [186898-field-of-glory-ii-medieval-storm-of-arrows.json](./186898-field-of-glory-ii-medieval-storm-of-arrows.json) |
 | Field of Glory II: Medieval - Sublime Porte | 216162 | [216162-field-of-glory-ii-medieval-sublime-porte.json](./216162-field-of-glory-ii-medieval-sublime-porte.json) |
 | Field of Glory II: Medieval - Swords and Scimitars | 171617 | [171617-field-of-glory-ii-medieval-swords-and-scimitars.json](./171617-field-of-glory-ii-medieval-swords-and-scimitars.json) |
@@ -7030,6 +7032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractal | 30192 | [30192-fractal.json](./30192-fractal.json) |
 | Fractal | 381036 | [381036-fractal.json](./381036-fractal.json) |
 | Fractal Block World | 152744 | [152744-fractal-block-world.json](./152744-fractal-block-world.json) |
+| Fractal City | 200933 | [200933-fractal-city.json](./200933-fractal-city.json) |
 | Fractal Craft | 364635 | [364635-fractal-craft.json](./364635-fractal-craft.json) |
 | Fractal Evolution | 190453 | [190453-fractal-evolution.json](./190453-fractal-evolution.json) |
 | Fractal Factory | 302163 | [302163-fractal-factory.json](./302163-fractal-factory.json) |
@@ -7555,6 +7558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': Miku Full Week | 206925 | [206925-friday-night-funkin-miku-full-week.json](./206925-friday-night-funkin-miku-full-week.json) |
 | Friday Night Funkin': Pibby Corrupted | 280717 | [280717-friday-night-funkin-pibby-corrupted.json](./280717-friday-night-funkin-pibby-corrupted.json) |
 | Friday Night Funkin': Pibby Corrupted Kitchen Gun | 269295 | [269295-friday-night-funkin-pibby-corrupted-kitchen-gun.json](./269295-friday-night-funkin-pibby-corrupted-kitchen-gun.json) |
+| Friday Night Funkin': Smoke 'Em Out Struggle | 200960 | [200960-friday-night-funkin-smoke-em-out-struggle.json](./200960-friday-night-funkin-smoke-em-out-struggle.json) |
 | Friday Night Funkin': Sprite Corruption | 352831 | [352831-friday-night-funkin-sprite-corruption.json](./352831-friday-night-funkin-sprite-corruption.json) |
 | Friday Night Funkin': Super Idol | 231382 | [231382-friday-night-funkin-super-idol.json](./231382-friday-night-funkin-super-idol.json) |
 | Friday Night Funkin': The Trollge Files | 221226 | [221226-friday-night-funkin-the-trollge-files.json](./221226-friday-night-funkin-the-trollge-files.json) |
@@ -7876,6 +7880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogvival | 235482 | [235482-frogvival.json](./235482-frogvival.json) |
 | Frogworld | 167608 | [167608-frogworld.json](./167608-frogworld.json) |
 | Frogz | 329159 | [329159-frogz.json](./329159-frogz.json) |
+| Frolupy | 200947 | [200947-frolupy.json](./200947-frolupy.json) |
 | From A to B | 239111 | [239111-from-a-to-b.json](./239111-from-a-to-b.json) |
 | From Ashes | 383594 | [383594-from-ashes.json](./383594-from-ashes.json) |
 | From Basement with Love | 384057 | [384057-from-basement-with-love.json](./384057-from-basement-with-love.json) |
