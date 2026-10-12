@@ -1987,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schoolgirl Card Pull Simulator | 394559 | [394559-schoolgirl-card-pull-simulator.json](./394559-schoolgirl-card-pull-simulator.json) |
 | Schoolgirl Supervisor: Saori Sato | 322266 | [322266-schoolgirl-supervisor-saori-sato.json](./322266-schoolgirl-supervisor-saori-sato.json) |
 | Schoolgirl Tournament Fighting | 60086 | [60086-schoolgirl-tournament-fighting.json](./60086-schoolgirl-tournament-fighting.json) |
+| Schoolhouse Rock! Grammar Rock | 209767 | [209767-schoolhouse-rock-grammar-rock.json](./209767-schoolhouse-rock-grammar-rock.json) |
 | Schoolhouse Rock!: America Rock | 113469 | [113469-schoolhouse-rock-america-rock.json](./113469-schoolhouse-rock-america-rock.json) |
 | Schoolhouse Rock!: Math Rock | 142707 | [142707-schoolhouse-rock-math-rock.json](./142707-schoolhouse-rock-math-rock.json) |
 | SchoolMate | 22464 | [22464-schoolmate.json](./22464-schoolmate.json) |
@@ -12165,9 +12166,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Adventure | 100187 | [100187-space-adventure.json](./100187-space-adventure.json) |
 | Space Adventure | 297239 | [297239-space-adventure.json](./297239-space-adventure.json) |
 | Space Adventure | 390112 | [390112-space-adventure.json](./390112-space-adventure.json) |
+| Space Adventure Cobra: Galaxy Nights | 209726 | [209726-space-adventure-cobra-galaxy-nights.json](./209726-space-adventure-cobra-galaxy-nights.json) |
 | Space Adventure Cobra: The Awakening | 317082 | [317082-space-adventure-cobra-the-awakening.json](./317082-space-adventure-cobra-the-awakening.json) |
 | Space Adventure Cobra: The Awakening - Gold Edition | 356808 | [356808-space-adventure-cobra-the-awakening-gold-edition.json](./356808-space-adventure-cobra-the-awakening-gold-edition.json) |
 | Space Adventure Cobra: The Awakening - Preorder Bonus | 356818 | [356818-space-adventure-cobra-the-awakening-preorder-bonus.json](./356818-space-adventure-cobra-the-awakening-preorder-bonus.json) |
+| Space Adventure Cobra: The Psychogun Vol. 1 | 209727 | [209727-space-adventure-cobra-the-psychogun-vol-1.json](./209727-space-adventure-cobra-the-psychogun-vol-1.json) |
+| Space Adventure Cobra: The Psychogun Vol. 2 | 209728 | [209728-space-adventure-cobra-the-psychogun-vol-2.json](./209728-space-adventure-cobra-the-psychogun-vol-2.json) |
 | Space Adventure Cobra: The Shooting | 75735 | [75735-space-adventure-cobra-the-shooting.json](./75735-space-adventure-cobra-the-shooting.json) |
 | Space Adventure Laika | 128634 | [128634-space-adventure-laika.json](./128634-space-adventure-laika.json) |
 | Space Adventure Zodiac | 406168 | [406168-space-adventure-zodiac.json](./406168-space-adventure-zodiac.json) |
@@ -13512,6 +13516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbind | 35646 | [35646-spellbind.json](./35646-spellbind.json) |
 | Spellbinder: The Nexus Conflict | 62208 | [62208-spellbinder-the-nexus-conflict.json](./62208-spellbinder-the-nexus-conflict.json) |
 | SpellBlast | 58837 | [58837-spellblast.json](./58837-spellblast.json) |
+| Spellbook Demonslayers | 209740 | [209740-spellbook-demonslayers.json](./209740-spellbook-demonslayers.json) |
 | Spellbook Demonslayers NSFW | 297743 | [297743-spellbook-demonslayers-nsfw.json](./297743-spellbook-demonslayers-nsfw.json) |
 | Spellborne | 230198 | [230198-spellborne.json](./230198-spellborne.json) |
 | Spellbounce | 281328 | [281328-spellbounce.json](./281328-spellbounce.json) |
@@ -18412,6 +18417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stygia | 139412 | [139412-stygia.json](./139412-stygia.json) |
 | Stygia II: The Sisters of Stygia | 139413 | [139413-stygia-ii-the-sisters-of-stygia.json](./139413-stygia-ii-the-sisters-of-stygia.json) |
 | Stygian | 141784 | [141784-stygian.json](./141784-stygian.json) |
+| Stygian Flowers | 209733 | [209733-stygian-flowers.json](./209733-stygian-flowers.json) |
 | Stygian: Outer Gods | 295657 | [295657-stygian-outer-gods.json](./295657-stygian-outer-gods.json) |
 | Style Book: Cinnamoroll | 123453 | [123453-style-book-cinnamoroll.json](./123453-style-book-cinnamoroll.json) |
 | Style Book: Junior City | 123452 | [123452-style-book-junior-city.json](./123452-style-book-junior-city.json) |
