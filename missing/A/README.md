@@ -6670,6 +6670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Farm Roguelike | 214201 | [214201-another-farm-roguelike.json](./214201-another-farm-roguelike.json) |
 | Another FPS Game | 150774 | [150774-another-fps-game.json](./150774-another-fps-game.json) |
 | Another Game About Clicking | 348859 | [348859-another-game-about-clicking.json](./348859-another-game-about-clicking.json) |
+| Another Generic Space Shooter | 202594 | [202594-another-generic-space-shooter.json](./202594-another-generic-space-shooter.json) |
 | Another Hardcore Game | 110995 | [110995-another-hardcore-game.json](./110995-another-hardcore-game.json) |
 | Another Head | 323759 | [323759-another-head.json](./323759-another-head.json) |
 | Another Heaven | 382277 | [382277-another-heaven.json](./382277-another-heaven.json) |
@@ -9045,6 +9046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial Nexus | 319849 | [319849-artificial-nexus.json](./319849-artificial-nexus.json) |
 | Artificial Superintelligence | 174353 | [174353-artificial-superintelligence.json](./174353-artificial-superintelligence.json) |
 | Artificiality | 115144 | [115144-artificiality.json](./115144-artificiality.json) |
+| Artigo | 202564 | [202564-artigo.json](./202564-artigo.json) |
 | Artika.1 | 74317 | [74317-artika-1.json](./74317-artika-1.json) |
 | Artillerists | 26687 | [26687-artillerists.json](./26687-artillerists.json) |
 | ArtilleRoyalty | 374681 | [374681-artilleroyalty.json](./374681-artilleroyalty.json) |
@@ -9813,6 +9815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral | 377836 | [377836-astral.json](./377836-astral.json) |
 | Astral Abstraction | 282523 | [282523-astral-abstraction.json](./282523-astral-abstraction.json) |
 | Astral Alliance | 272487 | [272487-astral-alliance.json](./272487-astral-alliance.json) |
+| Astral Ascension | 202583 | [202583-astral-ascension.json](./202583-astral-ascension.json) |
 | Astral Ascent: Yamat - The Breach Traveler | 313217 | [313217-astral-ascent-yamat-the-breach-traveler.json](./313217-astral-ascent-yamat-the-breach-traveler.json) |
 | Astral Attack | 13806 | [13806-astral-attack.json](./13806-astral-attack.json) |
 | Astral Blaze | 368593 | [368593-astral-blaze.json](./368593-astral-blaze.json) |
