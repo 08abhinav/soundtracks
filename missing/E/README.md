@@ -1168,6 +1168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Dios de Nauru | 321014 | [321014-el-dios-de-nauru.json](./321014-el-dios-de-nauru.json) |
 | El Dorado | 214994 | [214994-el-dorado.json](./214994-el-dorado.json) |
 | El Dorado | 312880 | [312880-el-dorado.json](./312880-el-dorado.json) |
+| El Dorado: The Golden City Builder | 218679 | [218679-el-dorado-the-golden-city-builder.json](./218679-el-dorado-the-golden-city-builder.json) |
 | El Engaño de Barbapoca: Capítulo 1 - Esta Pizza Está de Muerte | 321029 | [321029-el-engano-de-barbapoca-capitulo-1-esta-pizza-esta-de-muerte.json](./321029-el-engano-de-barbapoca-capitulo-1-esta-pizza-esta-de-muerte.json) |
 | El Engaño de Barbapoca: Capítulo 2 - Competencia Fantasmal | 321031 | [321031-el-engano-de-barbapoca-capitulo-2-competencia-fantasmal.json](./321031-el-engano-de-barbapoca-capitulo-2-competencia-fantasmal.json) |
 | El Escape de Charly | 321056 | [321056-el-escape-de-charly.json](./321056-el-escape-de-charly.json) |
