@@ -1320,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Racing Game for Toddlers and Kids | 99695 | [99695-car-racing-game-for-toddlers-and-kids.json](./99695-car-racing-game-for-toddlers-and-kids.json) |
 | Car Racing Ice: Classic | 288372 | [288372-car-racing-ice-classic.json](./288372-car-racing-ice-classic.json) |
 | Car Racing Master: Car Game 3D | 288982 | [288982-car-racing-master-car-game-3d.json](./288982-car-racing-master-car-game-3d.json) |
+| Car Racing Trials | 203697 | [203697-car-racing-trials.json](./203697-car-racing-trials.json) |
 | Car Racing: Highway Driving Simulator - Premium Edition | 283153 | [283153-car-racing-highway-driving-simulator-premium-edition.json](./283153-car-racing-highway-driving-simulator-premium-edition.json) |
 | Car Rental Simulator | 380054 | [380054-car-rental-simulator.json](./380054-car-rental-simulator.json) |
 | Car Rush I | 254387 | [254387-car-rush-i.json](./254387-car-rush-i.json) |
@@ -1423,6 +1424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Racer | 291901 | [291901-card-racer.json](./291901-card-racer.json) |
 | Card Racing Simulator: Otterrific Arcade | 217917 | [217917-card-racing-simulator-otterrific-arcade.json](./217917-card-racing-simulator-otterrific-arcade.json) |
 | Card Scramble: Viola's Diner | 354966 | [354966-card-scramble-violas-diner.json](./354966-card-scramble-violas-diner.json) |
+| Card Shark: Deluxe Edition | 203686 | [203686-card-shark-deluxe-edition.json](./203686-card-shark-deluxe-edition.json) |
 | Card Sharks | 392954 | [392954-card-sharks.json](./392954-card-sharks.json) |
 | Card Sharks | 92862 | [92862-card-sharks.json](./92862-card-sharks.json) |
 | Card Sharp | 42164 | [42164-card-sharp.json](./42164-card-sharp.json) |
@@ -8347,6 +8349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Condemned: Criminal Origins | 6942 | [6942-condemned-criminal-origins.json](./6942-condemned-criminal-origins.json) |
 | Condemned: Nightfall | 391706 | [391706-condemned-nightfall.json](./391706-condemned-nightfall.json) |
 | Condition 24 | 159774 | [159774-condition-24.json](./159774-condition-24.json) |
+| Conditus | 203672 | [203672-conditus.json](./203672-conditus.json) |
 | Condo | 349936 | [349936-condo.json](./349936-condo.json) |
 | Condom Commander | 411628 | [411628-condom-commander.json](./411628-condom-commander.json) |
 | Condominium | 333356 | [333356-condominium.json](./333356-condominium.json) |
