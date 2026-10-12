@@ -3141,6 +3141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lighthouse | 267450 | [267450-lighthouse.json](./267450-lighthouse.json) |
 | Lighthouse | 270715 | [270715-lighthouse.json](./270715-lighthouse.json) |
 | Lighthouse Keeper | 143472 | [143472-lighthouse-keeper.json](./143472-lighthouse-keeper.json) |
+| Lighthouse of Better Days | 185386 | [185386-lighthouse-of-better-days.json](./185386-lighthouse-of-better-days.json) |
 | Lighthouse of Guiding Flames | 120933 | [120933-lighthouse-of-guiding-flames.json](./120933-lighthouse-of-guiding-flames.json) |
 | Lighthouse of Madness | 158068 | [158068-lighthouse-of-madness.json](./158068-lighthouse-of-madness.json) |
 | Lighthouse of the Dead | 250910 | [250910-lighthouse-of-the-dead.json](./250910-lighthouse-of-the-dead.json) |
@@ -5769,6 +5770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Cat: Dream Party | 247520 | [247520-lovely-cat-dream-party.json](./247520-lovely-cat-dream-party.json) |
 | Lovely Cat: Mermaid Castle | 247521 | [247521-lovely-cat-mermaid-castle.json](./247521-lovely-cat-mermaid-castle.json) |
 | Lovely Crush | 236925 | [236925-lovely-crush.json](./236925-lovely-crush.json) |
+| Lovely Day | 185379 | [185379-lovely-day.json](./185379-lovely-day.json) |
 | Lovely Deco House | 402426 | [402426-lovely-deco-house.json](./402426-lovely-deco-house.json) |
 | Lovely Defenders | 279554 | [279554-lovely-defenders.json](./279554-lovely-defenders.json) |
 | Lovely Farm | 264360 | [264360-lovely-farm.json](./264360-lovely-farm.json) |
