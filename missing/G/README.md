@@ -1138,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garbagefield Saves Christmas | 309581 | [309581-garbagefield-saves-christmas.json](./309581-garbagefield-saves-christmas.json) |
 | GarbageGame | 264215 | [264215-garbagegame.json](./264215-garbagegame.json) |
 | Garbageman | 276217 | [276217-garbageman.json](./276217-garbageman.json) |
+| Garbanzo Quest | 215874 | [215874-garbanzo-quest.json](./215874-garbanzo-quest.json) |
 | Garden | 185675 | [185675-garden.json](./185675-garden.json) |
 | Garden | 230201 | [230201-garden.json](./230201-garden.json) |
 | Garden & Bird | 346084 | [346084-garden-and-bird.json](./346084-garden-and-bird.json) |
@@ -2070,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeometricMadness | 184897 | [184897-geometricmadness.json](./184897-geometricmadness.json) |
 | Geometrix | 159728 | [159728-geometrix.json](./159728-geometrix.json) |
 | Geometry Arena | 152133 | [152133-geometry-arena.json](./152133-geometry-arena.json) |
+| Geometry Arena 2 | 215880 | [215880-geometry-arena-2.json](./215880-geometry-arena-2.json) |
 | Geometry Ball Escape | 164795 | [164795-geometry-ball-escape.json](./164795-geometry-ball-escape.json) |
 | Geometry Blaster | 324583 | [324583-geometry-blaster.json](./324583-geometry-blaster.json) |
 | Geometry Boxer | 98768 | [98768-geometry-boxer.json](./98768-geometry-boxer.json) |
@@ -2500,6 +2502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostbusters II | 218947 | [218947-ghostbusters-ii.json](./218947-ghostbusters-ii.json) |
 | Ghostbusters II | 266840 | [266840-ghostbusters-ii.json](./266840-ghostbusters-ii.json) |
 | Ghostbusters Puzzle Fighter | 60235 | [60235-ghostbusters-puzzle-fighter.json](./60235-ghostbusters-puzzle-fighter.json) |
+| Ghostbusters Remastered | 215858 | [215858-ghostbusters-remastered.json](./215858-ghostbusters-remastered.json) |
 | Ghostbusters VR: Now Hiring | 27932 | [27932-ghostbusters-vr-now-hiring.json](./27932-ghostbusters-vr-now-hiring.json) |
 | Ghostbusters: Dimension | 246631 | [246631-ghostbusters-dimension.json](./246631-ghostbusters-dimension.json) |
 | Ghostbusters: Paranormal Blast | 63144 | [63144-ghostbusters-paranormal-blast.json](./63144-ghostbusters-paranormal-blast.json) |
@@ -4683,6 +4686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gourmet Chef | 67336 | [67336-gourmet-chef.json](./67336-gourmet-chef.json) |
 | Gourmet Chef Challenge: Around the World | 106731 | [106731-gourmet-chef-challenge-around-the-world.json](./106731-gourmet-chef-challenge-around-the-world.json) |
 | Gourmet Dream | 85630 | [85630-gourmet-dream.json](./85630-gourmet-dream.json) |
+| Gourmet Guy's 1000 IQ Food Quiz | 215857 | [215857-gourmet-guys-1000-iq-food-quiz.json](./215857-gourmet-guys-1000-iq-food-quiz.json) |
 | Gourmet Race | 271261 | [271261-gourmet-race.json](./271261-gourmet-race.json) |
 | Gourmet Race | 271403 | [271403-gourmet-race.json](./271403-gourmet-race.json) |
 | Gourmet Steak Odyssey | 347731 | [347731-gourmet-steak-odyssey.json](./347731-gourmet-steak-odyssey.json) |
