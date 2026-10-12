@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Senpai: Waifu Warfare 2 | 197574 | [197574-call-of-senpai-waifu-warfare-2.json](./197574-call-of-senpai-waifu-warfare-2.json) |
 | Call of Sentinels | 264152 | [264152-call-of-sentinels.json](./264152-call-of-sentinels.json) |
 | Call of Smoking Snakes | 420568 | [420568-call-of-smoking-snakes.json](./420568-call-of-smoking-snakes.json) |
+| Call of Snakes | 193705 | [193705-call-of-snakes.json](./193705-call-of-snakes.json) |
 | Call of the Ages: Collector's Edition | 341086 | [341086-call-of-the-ages-collectors-edition.json](./341086-call-of-the-ages-collectors-edition.json) |
 | Call of the Apostate | 268766 | [268766-call-of-the-apostate.json](./268766-call-of-the-apostate.json) |
 | Call of the Elder Gods | 347882 | [347882-call-of-the-elder-gods.json](./347882-call-of-the-elder-gods.json) |
@@ -4088,6 +4089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chernobyl | 59891 | [59891-chernobyl.json](./59891-chernobyl.json) |
 | Chernobyl 1986 | 120929 | [120929-chernobyl-1986.json](./120929-chernobyl-1986.json) |
 | Chernobyl Commando | 9796 | [9796-chernobyl-commando.json](./9796-chernobyl-commando.json) |
+| Chernobyl Trap | 193660 | [193660-chernobyl-trap.json](./193660-chernobyl-trap.json) |
 | Chernobyl VR Project | 20092 | [20092-chernobyl-vr-project.json](./20092-chernobyl-vr-project.json) |
 | Chernobyl: Escape from Pripyat | 335952 | [335952-chernobyl-escape-from-pripyat.json](./335952-chernobyl-escape-from-pripyat.json) |
 | Chernobyl: Nuclear Power Plant Simulation | 54710 | [54710-chernobyl-nuclear-power-plant-simulation.json](./54710-chernobyl-nuclear-power-plant-simulation.json) |
@@ -4155,6 +4157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Cartoons | 196826 | [196826-chess-cartoons.json](./196826-chess-cartoons.json) |
 | Chess Cats | 248068 | [248068-chess-cats.json](./248068-chess-cats.json) |
 | Chess Challenger | 227821 | [227821-chess-challenger.json](./227821-chess-challenger.json) |
+| Chess Club | 193694 | [193694-chess-club.json](./193694-chess-club.json) |
 | Chess Corp | 216701 | [216701-chess-corp.json](./216701-chess-corp.json) |
 | Chess Defense Saga | 234200 | [234200-chess-defense-saga.json](./234200-chess-defense-saga.json) |
 | Chess Deluxe | 86703 | [86703-chess-deluxe.json](./86703-chess-deluxe.json) |
@@ -6396,6 +6399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicker Age | 129655 | [129655-clicker-age.json](./129655-clicker-age.json) |
 | Clicker Arena | 273808 | [273808-clicker-arena.json](./273808-clicker-arena.json) |
 | Clicker Astro Planet | 386870 | [386870-clicker-astro-planet.json](./386870-clicker-astro-planet.json) |
+| Clicker Cats: RPG Idle Heroes | 193710 | [193710-clicker-cats-rpg-idle-heroes.json](./193710-clicker-cats-rpg-idle-heroes.json) |
 | Clicker Climber: Pachinko | 373755 | [373755-clicker-climber-pachinko.json](./373755-clicker-climber-pachinko.json) |
 | Clicker Conquest | 331989 | [331989-clicker-conquest.json](./331989-clicker-conquest.json) |
 | Clicker Guild | 30457 | [30457-clicker-guild.json](./30457-clicker-guild.json) |
@@ -6875,6 +6879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coastal Kitchen Simulator | 347721 | [347721-coastal-kitchen-simulator.json](./347721-coastal-kitchen-simulator.json) |
 | Coastal World | 325038 | [325038-coastal-world.json](./325038-coastal-world.json) |
 | Coaster | 79883 | [79883-coaster.json](./79883-coaster.json) |
+| Coaster Combat | 193681 | [193681-coaster-combat.json](./193681-coaster-combat.json) |
 | Coaster Park Tycoon | 60612 | [60612-coaster-park-tycoon.json](./60612-coaster-park-tycoon.json) |
 | Coasterama | 372830 | [372830-coasterama.json](./372830-coasterama.json) |
 | Coastiality | 96668 | [96668-coastiality.json](./96668-coastiality.json) |
@@ -7100,6 +7105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Express | 320924 | [320924-coffee-express.json](./320924-coffee-express.json) |
 | Coffee Extra: Ukuzala | 320528 | [320528-coffee-extra-ukuzala.json](./320528-coffee-extra-ukuzala.json) |
 | Coffee For Robots | 219740 | [219740-coffee-for-robots.json](./219740-coffee-for-robots.json) |
+| Coffee Inc 2 | 193686 | [193686-coffee-inc-2.json](./193686-coffee-inc-2.json) |
 | Coffee Kiss | 179079 | [179079-coffee-kiss.json](./179079-coffee-kiss.json) |
 | Coffee Mafia | 112322 | [112322-coffee-mafia.json](./112322-coffee-mafia.json) |
 | Coffee Noir | 27795 | [27795-coffee-noir.json](./27795-coffee-noir.json) |
@@ -9465,6 +9471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic League | 57134 | [57134-cosmic-league.json](./57134-cosmic-league.json) |
 | Cosmic Mart | 409021 | [409021-cosmic-mart.json](./409021-cosmic-mart.json) |
 | Cosmic Math | 91745 | [91745-cosmic-math.json](./91745-cosmic-math.json) |
+| Cosmic Mechanic | 193687 | [193687-cosmic-mechanic.json](./193687-cosmic-mechanic.json) |
 | Cosmic Miners | 345655 | [345655-cosmic-miners.json](./345655-cosmic-miners.json) |
 | Cosmic Mirage | 297100 | [297100-cosmic-mirage.json](./297100-cosmic-mirage.json) |
 | Cosmic Monsters 2 Enclaves Dawn | 195264 | [195264-cosmic-monsters-2-enclaves-dawn.json](./195264-cosmic-monsters-2-enclaves-dawn.json) |
@@ -11785,6 +11792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Cave | 339343 | [339343-crystal-cave.json](./339343-crystal-cave.json) |
 | Crystal Cave Classic | 142326 | [142326-crystal-cave-classic.json](./142326-crystal-cave-classic.json) |
 | Crystal Cave Gold | 142325 | [142325-crystal-cave-gold.json](./142325-crystal-cave-gold.json) |
+| Crystal Cave: Lost Treasures | 193704 | [193704-crystal-cave-lost-treasures.json](./193704-crystal-cave-lost-treasures.json) |
 | Crystal Caverns | 177420 | [177420-crystal-caverns.json](./177420-crystal-caverns.json) |
 | Crystal Caverns | 339344 | [339344-crystal-caverns.json](./339344-crystal-caverns.json) |
 | Crystal Caves | 8483 | [8483-crystal-caves.json](./8483-crystal-caves.json) |
