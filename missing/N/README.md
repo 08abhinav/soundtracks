@@ -1250,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Negligee: Spring Clean | 159218 | [159218-negligee-spring-clean.json](./159218-negligee-spring-clean.json) |
 | Negotiation Love | 369108 | [369108-negotiation-love.json](./369108-negotiation-love.json) |
 | Negotiations Have Failed! | 374179 | [374179-negotiations-have-failed.json](./374179-negotiations-have-failed.json) |
+| Nehahra | 195994 | [195994-nehahra.json](./195994-nehahra.json) |
 | Nehan 2: Darkness Fantasy | 320889 | [320889-nehan-2-darkness-fantasy.json](./320889-nehan-2-darkness-fantasy.json) |
 | Nehan: Kanzenban | 320888 | [320888-nehan-kanzenban.json](./320888-nehan-kanzenban.json) |
 | Nehonobasa | 306676 | [306676-nehonobasa.json](./306676-nehonobasa.json) |
@@ -3509,6 +3510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Adventure Books 3: Monster Mix-Up | 270387 | [270387-nintendo-adventure-books-3-monster-mix-up.json](./270387-nintendo-adventure-books-3-monster-mix-up.json) |
 | Nintendo Badge Arcade | 24957 | [24957-nintendo-badge-arcade.json](./24957-nintendo-badge-arcade.json) |
 | Nintendo Campus Challenge 1991 | 94180 | [94180-nintendo-campus-challenge-1991.json](./94180-nintendo-campus-challenge-1991.json) |
+| Nintendo Campus Challenge 1992 | 195989 | [195989-nintendo-campus-challenge-1992.json](./195989-nintendo-campus-challenge-1992.json) |
 | Nintendo Classic Mini Double Pack | 215662 | [215662-nintendo-classic-mini-double-pack.json](./215662-nintendo-classic-mini-double-pack.json) |
 | Nintendo Classic Mini: Family Computer | 213597 | [213597-nintendo-classic-mini-family-computer.json](./213597-nintendo-classic-mini-family-computer.json) |
 | Nintendo Classic Mini: Family Computer - Weekly Shonen Jump 50th Anniversary Version | 213599 | [213599-nintendo-classic-mini-family-computer-weekly-shonen-jump-50th-anniversary-version.json](./213599-nintendo-classic-mini-family-computer-weekly-shonen-jump-50th-anniversary-version.json) |
