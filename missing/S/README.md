@@ -414,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailing the Winds & New Tanks | 375160 | [375160-sailing-the-winds-and-new-tanks.json](./375160-sailing-the-winds-and-new-tanks.json) |
 | Sailist | 244333 | [244333-sailist.json](./244333-sailist.json) |
 | Sailor Cats | 202708 | [202708-sailor-cats.json](./202708-sailor-cats.json) |
+| Sailor Cats 2: Space Odyssey | 202051 | [202051-sailor-cats-2-space-odyssey.json](./202051-sailor-cats-2-space-odyssey.json) |
 | Sailor Fuku Bijin Tsuma Senshi Aheahe Moon | 82979 | [82979-sailor-fuku-bijin-tsuma-senshi-aheahe-moon.json](./82979-sailor-fuku-bijin-tsuma-senshi-aheahe-moon.json) |
 | Sailor Fuku Bishoujo Zukan Vol. 1 | 41389 | [41389-sailor-fuku-bishoujo-zukan-vol-1.json](./41389-sailor-fuku-bishoujo-zukan-vol-1.json) |
 | Sailor Fuku Bishoujo Zukan Vol. 2 | 41388 | [41388-sailor-fuku-bishoujo-zukan-vol-2.json](./41388-sailor-fuku-bishoujo-zukan-vol-2.json) |
@@ -7479,6 +7480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Ages 2: Lights Going Out | 245860 | [245860-six-ages-2-lights-going-out.json](./245860-six-ages-2-lights-going-out.json) |
 | Six Braves | 201588 | [201588-six-braves.json](./201588-six-braves.json) |
 | Six Cabins in Serpent Ridge National Forest | 287221 | [287221-six-cabins-in-serpent-ridge-national-forest.json](./287221-six-cabins-in-serpent-ridge-national-forest.json) |
+| Six Card Golf | 202046 | [202046-six-card-golf.json](./202046-six-card-golf.json) |
 | Six Days in Fallujah | 143482 | [143482-six-days-in-fallujah.json](./143482-six-days-in-fallujah.json) |
 | Six Days in Fallujah | 36538 | [36538-six-days-in-fallujah.json](./36538-six-days-in-fallujah.json) |
 | Six Degrees of Damnation | 118981 | [118981-six-degrees-of-damnation.json](./118981-six-degrees-of-damnation.json) |
@@ -7752,6 +7754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Jumping Pro VR | 130291 | [130291-ski-jumping-pro-vr.json](./130291-ski-jumping-pro-vr.json) |
 | Ski Jumping PVP | 259082 | [259082-ski-jumping-pvp.json](./259082-ski-jumping-pvp.json) |
 | Ski on Neon HD | 108599 | [108599-ski-on-neon-hd.json](./108599-ski-on-neon-hd.json) |
+| Ski Play by Samplay | 202017 | [202017-ski-play-by-samplay.json](./202017-ski-play-by-samplay.json) |
 | Ski Race | 64365 | [64365-ski-race.json](./64365-ski-race.json) |
 | Ski Racing 2005 | 54362 | [54362-ski-racing-2005.json](./54362-ski-racing-2005.json) |
 | Ski Region Simulator | 36429 | [36429-ski-region-simulator.json](./36429-ski-region-simulator.json) |
@@ -8429,6 +8432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleeping Forest | 292513 | [292513-sleeping-forest.json](./292513-sleeping-forest.json) |
 | Sleeping Gods Lie | 71585 | [71585-sleeping-gods-lie.json](./71585-sleeping-gods-lie.json) |
 | Sleeping Prince | 77966 | [77966-sleeping-prince.json](./77966-sleeping-prince.json) |
+| Sleeping Tanuki | 202008 | [202008-sleeping-tanuki.json](./202008-sleeping-tanuki.json) |
 | Sleeping Valley | 24960 | [24960-sleeping-valley.json](./24960-sleeping-valley.json) |
 | Sleeping With Sakuya Izayoi | 284849 | [284849-sleeping-with-sakuya-izayoi.json](./284849-sleeping-with-sakuya-izayoi.json) |
 | Sleeping With Sakuya Izayoi: ASMR DLC | 298255 | [298255-sleeping-with-sakuya-izayoi-asmr-dlc.json](./298255-sleeping-with-sakuya-izayoi-asmr-dlc.json) |
@@ -8584,6 +8588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sliding Bears | 337049 | [337049-sliding-bears.json](./337049-sliding-bears.json) |
 | Sliding ground | 184373 | [184373-sliding-ground.json](./184373-sliding-ground.json) |
 | Sliding Hero | 309545 | [309545-sliding-hero.json](./309545-sliding-hero.json) |
+| Sliding Puzzle | 202007 | [202007-sliding-puzzle.json](./202007-sliding-puzzle.json) |
 | Sliding Puzzle 2018 | 104645 | [104645-sliding-puzzle-2018.json](./104645-sliding-puzzle-2018.json) |
 | Sliding Puzzle Blue | 107132 | [107132-sliding-puzzle-blue.json](./107132-sliding-puzzle-blue.json) |
 | Sliding Puzzle Deluxe: The Classic | 226356 | [226356-sliding-puzzle-deluxe-the-classic.json](./226356-sliding-puzzle-deluxe-the-classic.json) |
@@ -12890,6 +12895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Treat Deluxe | 40752 | [40752-space-treat-deluxe.json](./40752-space-treat-deluxe.json) |
 | Space Trek | 77243 | [77243-space-trek.json](./77243-space-trek.json) |
 | Space Trouble | 47542 | [47542-space-trouble.json](./47542-space-trouble.json) |
+| Space Troubles | 202031 | [202031-space-troubles.json](./202031-space-troubles.json) |
 | Space Trucker | 212234 | [212234-space-trucker.json](./212234-space-trucker.json) |
 | Space Turbo | 201008 | [201008-space-turbo.json](./201008-space-turbo.json) |
 | Space Tyrant | 30348 | [30348-space-tyrant.json](./30348-space-tyrant.json) |
@@ -13976,6 +13982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinball | 110528 | [110528-spinball.json](./110528-spinball.json) |
 | SpinBound | 400417 | [400417-spinbound.json](./400417-spinbound.json) |
 | SpinCraft: Roguelike | 287322 | [287322-spincraft-roguelike.json](./287322-spincraft-roguelike.json) |
+| SpinCross | 202040 | [202040-spincross.json](./202040-spincross.json) |
 | Spindizzy Worlds | 15374 | [15374-spindizzy-worlds.json](./15374-spindizzy-worlds.json) |
 | SpinDrive Ping Pong | 43354 | [43354-spindrive-ping-pong.json](./43354-spindrive-ping-pong.json) |
 | Spine | 165432 | [165432-spine.json](./165432-spine.json) |
@@ -14258,6 +14265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split Personalities | 73323 | [73323-split-personalities.json](./73323-split-personalities.json) |
 | Split Personality Doctor | 257920 | [257920-split-personality-doctor.json](./257920-split-personality-doctor.json) |
 | Split Polarity: The Science Puzzle Arcade Game! | 273408 | [273408-split-polarity-the-science-puzzle-arcade-game.json](./273408-split-polarity-the-science-puzzle-arcade-game.json) |
+| Split Second | 202003 | [202003-split-second.json](./202003-split-second.json) |
 | Split Second Volley | 413485 | [413485-split-second-volley.json](./413485-split-second-volley.json) |
 | Split Signal | 128970 | [128970-split-signal.json](./128970-split-signal.json) |
 | Split Souls | 369634 | [369634-split-souls.json](./369634-split-souls.json) |
@@ -19412,6 +19420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunsave | 390591 | [390591-sunsave.json](./390591-sunsave.json) |
 | SunSenSim | 156124 | [156124-sunsensim.json](./156124-sunsensim.json) |
 | Sunset | 195533 | [195533-sunset.json](./195533-sunset.json) |
+| Sunset | 202030 | [202030-sunset.json](./202030-sunset.json) |
 | Sunset 20 Drone Racer | 151069 | [151069-sunset-20-drone-racer.json](./151069-sunset-20-drone-racer.json) |
 | Sunset Arena | 312711 | [312711-sunset-arena.json](./312711-sunset-arena.json) |
 | Sunset Artisan Chocolate | 412247 | [412247-sunset-artisan-chocolate.json](./412247-sunset-artisan-chocolate.json) |
