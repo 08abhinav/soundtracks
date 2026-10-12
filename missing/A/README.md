@@ -1677,6 +1677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across the Wilds | 238739 | [238739-across-the-wilds.json](./238739-across-the-wilds.json) |
 | Across the Wonderlands | 320476 | [320476-across-the-wonderlands.json](./320476-across-the-wonderlands.json) |
 | Acrostics on Stream | 261264 | [261264-acrostics-on-stream.json](./261264-acrostics-on-stream.json) |
+| Acrylic Palette: Irodori Cafe - Cheers | 222463 | [222463-acrylic-palette-irodori-cafe-cheers.json](./222463-acrylic-palette-irodori-cafe-cheers.json) |
 | Acryptia | 226397 | [226397-acryptia.json](./226397-acryptia.json) |
 | ACT | 169818 | [169818-act.json](./169818-act.json) |
 | Act of Aggression | 8920 | [8920-act-of-aggression.json](./8920-act-of-aggression.json) |
@@ -11281,6 +11282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azito 3 | 63268 | [63268-azito-3.json](./63268-azito-3.json) |
 | Azito 3D | 91757 | [91757-azito-3d.json](./91757-azito-3d.json) |
 | Azito 3D Kyoto | 222332 | [222332-azito-3d-kyoto.json](./222332-azito-3d-kyoto.json) |
+| Azito 3D Tokyo | 222468 | [222468-azito-3d-tokyo.json](./222468-azito-3d-tokyo.json) |
 | Azkend | 20368 | [20368-azkend.json](./20368-azkend.json) |
 | Azkend 2: The World Beneath | 19893 | [19893-azkend-2-the-world-beneath.json](./19893-azkend-2-the-world-beneath.json) |
 | Azlan: Rise of the Burlpups | 164991 | [164991-azlan-rise-of-the-burlpups.json](./164991-azlan-rise-of-the-burlpups.json) |
@@ -11317,6 +11319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azumanga Daioh! The Druglord Game | 210509 | [210509-azumanga-daioh-the-druglord-game.json](./210509-azumanga-daioh-the-druglord-game.json) |
 | Azumanga Fighter: Come Back! | 328279 | [328279-azumanga-fighter-come-back.json](./328279-azumanga-fighter-come-back.json) |
 | Azumanga RPG | 222347 | [222347-azumanga-rpg.json](./222347-azumanga-rpg.json) |
+| Azumanga: The Fighting T-Style | 222493 | [222493-azumanga-the-fighting-t-style.json](./222493-azumanga-the-fighting-t-style.json) |
 | Azumi | 90930 | [90930-azumi.json](./90930-azumi.json) |
 | Azumi and the Vertical Slice | 257075 | [257075-azumi-and-the-vertical-slice.json](./257075-azumi-and-the-vertical-slice.json) |
 | Azur Lane | 70708 | [70708-azur-lane.json](./70708-azur-lane.json) |
