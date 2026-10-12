@@ -3275,6 +3275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glover | 193728 | [193728-glover.json](./193728-glover.json) |
 | Glover | 193729 | [193729-glover.json](./193729-glover.json) |
 | Glover | 3348 | [3348-glover.json](./3348-glover.json) |
+| Glover: Collector's Edition | 207051 | [207051-glover-collectors-edition.json](./207051-glover-collectors-edition.json) |
 | Glow | 180567 | [180567-glow.json](./180567-glow.json) |
 | Glow Air Hockey | 87548 | [87548-glow-air-hockey.json](./87548-glow-air-hockey.json) |
 | Glow Ball : Bouncy wall | 118283 | [118283-glow-ball-bouncy-wall.json](./118283-glow-ball-bouncy-wall.json) |
