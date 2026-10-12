@@ -602,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Mojo | 604 | [604-bad-mojo.json](./604-bad-mojo.json) |
 | Bad Mojo: Redux | 10020 | [10020-bad-mojo-redux.json](./10020-bad-mojo-redux.json) |
 | Bad Mojos | 119717 | [119717-bad-mojos.json](./119717-bad-mojos.json) |
+| Bad Monday Simulator | 203120 | [203120-bad-monday-simulator.json](./203120-bad-monday-simulator.json) |
 | Bad Mothafucka | 281368 | [281368-bad-mothafucka.json](./281368-bad-mothafucka.json) |
 | Bad Name | 98000 | [98000-bad-name.json](./98000-bad-name.json) |
 | Bad Nerd | 360090 | [360090-bad-nerd.json](./360090-bad-nerd.json) |
@@ -4019,6 +4020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Omniverse 2 | 287020 | [287020-ben-10-omniverse-2.json](./287020-ben-10-omniverse-2.json) |
 | Ben 10: Omniverse 2 | 5310 | [5310-ben-10-omniverse-2.json](./5310-ben-10-omniverse-2.json) |
 | Ben 10: Power of the Omnitrix | 257852 | [257852-ben-10-power-of-the-omnitrix.json](./257852-ben-10-power-of-the-omnitrix.json) |
+| Ben 10: Power Splash | 203149 | [203149-ben-10-power-splash.json](./203149-ben-10-power-splash.json) |
 | Ben 10: Power Trip | 136659 | [136659-ben-10-power-trip.json](./136659-ben-10-power-trip.json) |
 | Ben 10: Protector of Earth | 210263 | [210263-ben-10-protector-of-earth.json](./210263-ben-10-protector-of-earth.json) |
 | Ben 10: Protector of Earth | 2799 | [2799-ben-10-protector-of-earth.json](./2799-ben-10-protector-of-earth.json) |
@@ -5561,6 +5563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitsturbed | 145011 | [145011-bitsturbed.json](./145011-bitsturbed.json) |
 | Bitsy | 242508 | [242508-bitsy.json](./242508-bitsy.json) |
 | Bitsy Bits: The Secret of Magic | 311248 | [311248-bitsy-bits-the-secret-of-magic.json](./311248-bitsy-bits-the-secret-of-magic.json) |
+| Bitsy Mystery Dungeon | 203130 | [203130-bitsy-mystery-dungeon.json](./203130-bitsy-mystery-dungeon.json) |
 | Bitten | 319756 | [319756-bitten.json](./319756-bitten.json) |
 | Bitten! | 146235 | [146235-bitten.json](./146235-bitten.json) |
 | Bitter | 217336 | [217336-bitter.json](./217336-bitter.json) |
