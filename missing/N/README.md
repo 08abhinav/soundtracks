@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naiko's Room | 277797 | [277797-naikos-room.json](./277797-naikos-room.json) |
 | Nail 'n Scale | 49035 | [49035-nail-n-scale.json](./49035-nail-n-scale.json) |
 | Nail Salon | 89198 | [89198-nail-salon.json](./89198-nail-salon.json) |
+| Nail Salon: Style and Makeup Bag | 203714 | [203714-nail-salon-style-and-makeup-bag.json](./203714-nail-salon-style-and-makeup-bag.json) |
 | Nail'd | 7096 | [7096-naild.json](./7096-naild.json) |
 | Nailed It | 189111 | [189111-nailed-it.json](./189111-nailed-it.json) |
 | Nailed It! Baking Bash | 204457 | [204457-nailed-it-baking-bash.json](./204457-nailed-it-baking-bash.json) |
