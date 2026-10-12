@@ -4345,6 +4345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm & Beats | 292282 | [292282-rhythm-and-beats.json](./292282-rhythm-and-beats.json) |
 | Rhythm Any Music | 220709 | [220709-rhythm-any-music.json](./220709-rhythm-any-music.json) |
 | Rhythm Bang | 224683 | [224683-rhythm-bang.json](./224683-rhythm-bang.json) |
+| Rhythm Banki | 204245 | [204245-rhythm-banki.json](./204245-rhythm-banki.json) |
 | Rhythm Brawl | 173059 | [173059-rhythm-brawl.json](./173059-rhythm-brawl.json) |
 | Rhythm Cat Pro | 86707 | [86707-rhythm-cat-pro.json](./86707-rhythm-cat-pro.json) |
 | Rhythm Control 2 | 232513 | [232513-rhythm-control-2.json](./232513-rhythm-control-2.json) |
