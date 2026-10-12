@@ -2628,6 +2628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenchu: Time Of The Assassins | 44512 | [44512-tenchu-time-of-the-assassins.json](./44512-tenchu-time-of-the-assassins.json) |
 | Tenchu: Wrath of Heaven | 6194 | [6194-tenchu-wrath-of-heaven.json](./6194-tenchu-wrath-of-heaven.json) |
 | Tender | 179112 | [179112-tender.json](./179112-tender.json) |
+| Tender Feelings Like Water | 202567 | [202567-tender-feelings-like-water.json](./202567-tender-feelings-like-water.json) |
 | Tender Frame Cocoon: //Rhapsody of Cross-Pollination | 306683 | [306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json](./306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json) |
 | Tender Frog House | 144240 | [144240-tender-frog-house.json](./144240-tender-frog-house.json) |
 | Tender Love and Care: A Leorio Dating Sim! | 178531 | [178531-tender-love-and-care-a-leorio-dating-sim.json](./178531-tender-love-and-care-a-leorio-dating-sim.json) |
@@ -6288,6 +6289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The friends of Ringo Ishikawa | 98898 | [98898-the-friends-of-ringo-ishikawa.json](./98898-the-friends-of-ringo-ishikawa.json) |
 | The Friends of Ringo Ishikawa & Arrest of a Stone Buddha | 142757 | [142757-the-friends-of-ringo-ishikawa-and-arrest-of-a-stone-buddha.json](./142757-the-friends-of-ringo-ishikawa-and-arrest-of-a-stone-buddha.json) |
 | The Friends of Ringo Ishikawa: Special Edition | 406100 | [406100-the-friends-of-ringo-ishikawa-special-edition.json](./406100-the-friends-of-ringo-ishikawa-special-edition.json) |
+| The Fright Before Christmas | 202560 | [202560-the-fright-before-christmas.json](./202560-the-fright-before-christmas.json) |
 | The Frightening Nightmare of Little Eddy | 184996 | [184996-the-frightening-nightmare-of-little-eddy.json](./184996-the-frightening-nightmare-of-little-eddy.json) |
 | The Frog Festival | 382987 | [382987-the-frog-festival.json](./382987-the-frog-festival.json) |
 | The Frog Game Amazing Simulator | 100861 | [100861-the-frog-game-amazing-simulator.json](./100861-the-frog-game-amazing-simulator.json) |
@@ -13457,6 +13459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ticking Tea Time | 327184 | [327184-ticking-tea-time.json](./327184-ticking-tea-time.json) |
 | Tickle Dice | 184436 | [184436-tickle-dice.json](./184436-tickle-dice.json) |
 | Tickling Girls | 241848 | [241848-tickling-girls.json](./241848-tickling-girls.json) |
+| Ticklish Tessa | 202556 | [202556-ticklish-tessa.json](./202556-ticklish-tessa.json) |
 | Ticktock | 104010 | [104010-ticktock.json](./104010-ticktock.json) |
 | TickWords | 379702 | [379702-tickwords.json](./379702-tickwords.json) |
 | Ticky's Tower of Time | 328030 | [328030-tickys-tower-of-time.json](./328030-tickys-tower-of-time.json) |
@@ -21242,6 +21245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two-Timin' Towers | 142113 | [142113-two-timin-towers.json](./142113-two-timin-towers.json) |
 | TwoBrains OneShip | 378588 | [378588-twobrains-oneship.json](./378588-twobrains-oneship.json) |
 | Twofer Goofer | 388748 | [388748-twofer-goofer.json](./388748-twofer-goofer.json) |
+| Twofold | 202559 | [202559-twofold.json](./202559-twofold.json) |
 | Twofold Inc. | 80559 | [80559-twofold-inc.json](./80559-twofold-inc.json) |
 | Twofold: The Perfect Circle Collection | 410214 | [410214-twofold-the-perfect-circle-collection.json](./410214-twofold-the-perfect-circle-collection.json) |
 | Twogether: Project Indigos Chapter 1 | 214054 | [214054-twogether-project-indigos-chapter-1.json](./214054-twogether-project-indigos-chapter-1.json) |
