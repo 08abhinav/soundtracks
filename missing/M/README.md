@@ -5491,6 +5491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melody Mania | 247782 | [247782-melody-mania.json](./247782-melody-mania.json) |
 | Melody Master | 41988 | [41988-melody-master.json](./41988-melody-master.json) |
 | Melody Muncher | 179551 | [179551-melody-muncher.json](./179551-melody-muncher.json) |
+| Melody of Seasons | 189918 | [189918-melody-of-seasons.json](./189918-melody-of-seasons.json) |
 | Melody of the Light | 181909 | [181909-melody-of-the-light.json](./181909-melody-of-the-light.json) |
 | Melody Quest | 257444 | [257444-melody-quest.json](./257444-melody-quest.json) |
 | Melody's Escape 2 | 217497 | [217497-melodys-escape-2.json](./217497-melodys-escape-2.json) |
@@ -7064,6 +7065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microtransaction Simulator Game of the Decade: Deluxe Edition | 89399 | [89399-microtransaction-simulator-game-of-the-decade-deluxe-edition.json](./89399-microtransaction-simulator-game-of-the-decade-deluxe-edition.json) |
 | Microtrip | 344909 | [344909-microtrip.json](./344909-microtrip.json) |
 | MicroVolts Surge | 16263 | [16263-microvolts-surge.json](./16263-microvolts-surge.json) |
+| Microwasp Seekers | 189899 | [189899-microwasp-seekers.json](./189899-microwasp-seekers.json) |
 | Microwave Story | 311060 | [311060-microwave-story.json](./311060-microwave-story.json) |
 | Microwave Yourself | 364401 | [364401-microwave-yourself.json](./364401-microwave-yourself.json) |
 | MicroWorks | 132893 | [132893-microworks.json](./132893-microworks.json) |
@@ -8950,6 +8952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistress of Maids | 86510 | [86510-mistress-of-maids.json](./86510-mistress-of-maids.json) |
 | Mistress of Maids: First Castle | 115627 | [115627-mistress-of-maids-first-castle.json](./115627-mistress-of-maids-first-castle.json) |
 | Mistrogue: Mist and the Living Dungeons | 217313 | [217313-mistrogue-mist-and-the-living-dungeons.json](./217313-mistrogue-mist-and-the-living-dungeons.json) |
+| Mistrun | 189896 | [189896-mistrun.json](./189896-mistrun.json) |
 | Mists of Aiden | 135840 | [135840-mists-of-aiden.json](./135840-mists-of-aiden.json) |
 | Mists of Noyah | 129667 | [129667-mists-of-noyah.json](./129667-mists-of-noyah.json) |
 | MistsBook | 296371 | [296371-mistsbook.json](./296371-mistsbook.json) |
@@ -9966,6 +9969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Academy: An Interactive Story | 415063 | [415063-monster-academy-an-interactive-story.json](./415063-monster-academy-an-interactive-story.json) |
 | Monster Adventures | 61088 | [61088-monster-adventures.json](./61088-monster-adventures.json) |
 | Monster Alchemy | 403768 | [403768-monster-alchemy.json](./403768-monster-alchemy.json) |
+| Monster Among Us | 189908 | [189908-monster-among-us.json](./189908-monster-among-us.json) |
 | Monster and Snakes 1.1 | 349497 | [349497-monster-and-snakes-1-1.json](./349497-monster-and-snakes-1-1.json) |
 | Monster Arena | 101572 | [101572-monster-arena.json](./101572-monster-arena.json) |
 | Monster Attack | 5580 | [5580-monster-attack.json](./5580-monster-attack.json) |
