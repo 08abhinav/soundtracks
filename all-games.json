@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T11:30:37.873Z",
-  "total_soundtracks": 1516,
+  "generated_at": "2026-10-12T12:00:14.041Z",
+  "total_soundtracks": 1517,
   "games": [
     {
       "igdb_id": 7522,
@@ -4563,6 +4563,20 @@
           "spotify_url": "https://open.spotify.com/album/2WJi7JBYNsVuscCX7j8AkB",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 55080,
+      "game_name": "Donut County",
+      "game_url": "https://ostdb.net/games/donut-county",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d5/4e/47/d54e471d-c38f-2137-3352-37fa2b8bb378/859728165283_cover.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Donut County (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6SFBSlMnqv8xd2aQcagqaq",
+          "apple_music_url": "https://music.apple.com/us/album/donut-county-original-soundtrack/1432671630",
+          "album_link_url": "https://album.link/i/1432671630"
         }
       ]
     },
