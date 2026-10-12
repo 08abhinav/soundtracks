@@ -2746,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pepe Chatters | 287356 | [287356-pepe-chatters.json](./287356-pepe-chatters.json) |
 | Pepe Pillz | 393523 | [393523-pepe-pillz.json](./393523-pepe-pillz.json) |
 | Pepe's Little Adventure | 325703 | [325703-pepes-little-adventure.json](./325703-pepes-little-adventure.json) |
+| PepeFrog | 195451 | [195451-pepefrog.json](./195451-pepefrog.json) |
 | Pepez: The game | 341584 | [341584-pepez-the-game.json](./341584-pepez-the-game.json) |
 | Pepi Doctor | 343994 | [343994-pepi-doctor.json](./343994-pepi-doctor.json) |
 | Pepi House | 175697 | [175697-pepi-house.json](./175697-pepi-house.json) |
@@ -7628,6 +7629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poligons | 358997 | [358997-poligons.json](./358997-poligons.json) |
 | PoligonVR | 258481 | [258481-poligonvr.json](./258481-poligonvr.json) |
 | Polilaser | 238493 | [238493-polilaser.json](./238493-polilaser.json) |
+| Polimines | 195457 | [195457-polimines.json](./195457-polimines.json) |
 | Polimines 2 | 244653 | [244653-polimines-2.json](./244653-polimines-2.json) |
 | Polinizamor | 179037 | [179037-polinizamor.json](./179037-polinizamor.json) |
 | Polis | 307097 | [307097-polis.json](./307097-polis.json) |
@@ -11650,6 +11652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Mate DS: Nanpure Mate | 306449 | [306449-puzzle-mate-ds-nanpure-mate.json](./306449-puzzle-mate-ds-nanpure-mate.json) |
 | Puzzle Mate DS: Oekaki Mate | 306448 | [306448-puzzle-mate-ds-oekaki-mate.json](./306448-puzzle-mate-ds-oekaki-mate.json) |
 | Puzzle Mino | 199328 | [199328-puzzle-mino.json](./199328-puzzle-mino.json) |
+| Puzzle Mix | 195430 | [195430-puzzle-mix.json](./195430-puzzle-mix.json) |
 | Puzzle Monkeys | 85583 | [85583-puzzle-monkeys.json](./85583-puzzle-monkeys.json) |
 | Puzzle Myth | 93374 | [93374-puzzle-myth.json](./93374-puzzle-myth.json) |
 | Puzzle Nebula | 32165 | [32165-puzzle-nebula.json](./32165-puzzle-nebula.json) |
