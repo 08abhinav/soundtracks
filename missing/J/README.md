@@ -1393,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jingle Strike VR | 381764 | [381764-jingle-strike-vr.json](./381764-jingle-strike-vr.json) |
 | Jingo Jango | 76140 | [76140-jingo-jango.json](./76140-jingo-jango.json) |
 | Jingoku | 175829 | [175829-jingoku.json](./175829-jingoku.json) |
+| Jingor Sudoku | 188975 | [188975-jingor-sudoku.json](./188975-jingor-sudoku.json) |
 | Jinja | 313500 | [313500-jinja.json](./313500-jinja.json) |
 | Jìnjì | 129614 | [129614-jinji.json](./129614-jinji.json) |
 | Jinkaku Omotegu: Inei Menseki | 288439 | [288439-jinkaku-omotegu-inei-menseki.json](./288439-jinkaku-omotegu-inei-menseki.json) |
