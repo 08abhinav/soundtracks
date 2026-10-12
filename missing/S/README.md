@@ -8797,6 +8797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slitherin' | 176363 | [176363-slitherin.json](./176363-slitherin.json) |
 | Slitherine's Legion | 200109 | [200109-slitherines-legion.json](./200109-slitherines-legion.json) |
 | Slitherise | 318967 | [318967-slitherise.json](./318967-slitherise.json) |
+| Slitherlink | 201508 | [201508-slitherlink.json](./201508-slitherlink.json) |
 | Slitterhead: Deluxe Edition | 331846 | [331846-slitterhead-deluxe-edition.json](./331846-slitterhead-deluxe-edition.json) |
 | Slivania | 327377 | [327377-slivania.json](./327377-slivania.json) |
 | Sliver-Sclicker | 102385 | [102385-sliver-sclicker.json](./102385-sliver-sclicker.json) |
@@ -10253,6 +10254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokocat - Islands | 147449 | [147449-sokocat-islands.json](./147449-sokocat-islands.json) |
 | Sokocat: Castaway | 399689 | [399689-sokocat-castaway.json](./399689-sokocat-castaway.json) |
 | Sokocat: Combo | 203267 | [203267-sokocat-combo.json](./203267-sokocat-combo.json) |
+| SokoChess | 201496 | [201496-sokochess.json](./201496-sokochess.json) |
 | SokoChess White | 232960 | [232960-sokochess-white.json](./232960-sokochess-white.json) |
 | SokoCode | 322593 | [322593-sokocode.json](./322593-sokocode.json) |
 | Sokodice | 147080 | [147080-sokodice.json](./147080-sokodice.json) |
@@ -10540,6 +10542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Forever | 88573 | [88573-solitaire-forever.json](./88573-solitaire-forever.json) |
 | Solitaire Freecell - card game | 88414 | [88414-solitaire-freecell-card-game.json](./88414-solitaire-freecell-card-game.json) |
 | Solitaire FunPak | 79683 | [79683-solitaire-funpak.json](./79683-solitaire-funpak.json) |
+| Solitaire Game Christmas | 201471 | [201471-solitaire-game-christmas.json](./201471-solitaire-game-christmas.json) |
 | Solitaire Grand Harvest | 321601 | [321601-solitaire-grand-harvest.json](./321601-solitaire-grand-harvest.json) |
 | Solitaire Halloween Story | 156089 | [156089-solitaire-halloween-story.json](./156089-solitaire-halloween-story.json) |
 | Solitaire Holiday Season | 386151 | [386151-solitaire-holiday-season.json](./386151-solitaire-holiday-season.json) |
@@ -13404,6 +13407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Hero vs. Mega Ramp | 101985 | [101985-speed-hero-vs-mega-ramp.json](./101985-speed-hero-vs-mega-ramp.json) |
 | Speed High | 240355 | [240355-speed-high.json](./240355-speed-high.json) |
 | Speed Intense Island | 233514 | [233514-speed-intense-island.json](./233514-speed-intense-island.json) |
+| Speed is Key | 201473 | [201473-speed-is-key.json](./201473-speed-is-key.json) |
 | Speed Islands | 116449 | [116449-speed-islands.json](./116449-speed-islands.json) |
 | Speed Journey: Nitro | 221407 | [221407-speed-journey-nitro.json](./221407-speed-journey-nitro.json) |
 | Speed King 2 | 57601 | [57601-speed-king-2.json](./57601-speed-king-2.json) |
@@ -13798,6 +13802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Roulette | 386694 | [386694-spider-roulette.json](./386694-spider-roulette.json) |
 | Spider SG-21 | 230741 | [230741-spider-sg-21.json](./230741-spider-sg-21.json) |
 | Spider Shooting Bee | 119793 | [119793-spider-shooting-bee.json](./119793-spider-shooting-bee.json) |
+| Spider Slingers | 201518 | [201518-spider-slingers.json](./201518-spider-slingers.json) |
 | Spider Solitaire - Classic Deck Card Games | 88588 | [88588-spider-solitaire-classic-deck-card-games.json](./88588-spider-solitaire-classic-deck-card-games.json) |
 | Spider Solitaire 2018 | 87636 | [87636-spider-solitaire-2018.json](./87636-spider-solitaire-2018.json) |
 | Spider Solitaire 2022 | 217792 | [217792-spider-solitaire-2022.json](./217792-spider-solitaire-2022.json) |
@@ -14854,6 +14859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square It: An Electronic Game of Capture the Boxes | 217928 | [217928-square-it-an-electronic-game-of-capture-the-boxes.json](./217928-square-it-an-electronic-game-of-capture-the-boxes.json) |
 | Square Journey | 202557 | [202557-square-journey.json](./202557-square-journey.json) |
 | Square Jump | 106377 | [106377-square-jump.json](./106377-square-jump.json) |
+| Square Keeper | 201481 | [201481-square-keeper.json](./201481-square-keeper.json) |
 | Square Logic | 269206 | [269206-square-logic.json](./269206-square-logic.json) |
 | Square Love | 359554 | [359554-square-love.json](./359554-square-love.json) |
 | Square Massacre | 76526 | [76526-square-massacre.json](./76526-square-massacre.json) |
