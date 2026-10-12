@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T16:04:58.943Z",
-  "total_missing": 202455,
+  "generated_at": "2026-10-12T16:19:31.241Z",
+  "total_missing": 202505,
   "games": [
     {
       "igdb_id": 191680,
@@ -22056,6 +22056,11 @@
       "igdb_id": 148507,
       "game_name": "Aeon's End: The Depths",
       "file": "missing/A/148507-aeons-end-the-depths.json"
+    },
+    {
+      "igdb_id": 193138,
+      "game_name": "Aeon's End: The New Age",
+      "file": "missing/A/193138-aeons-end-the-new-age.json"
     },
     {
       "igdb_id": 223482,
@@ -46536,6 +46541,11 @@
       "igdb_id": 205656,
       "game_name": "Apocalyptic",
       "file": "missing/A/205656-apocalyptic.json"
+    },
+    {
+      "igdb_id": 193148,
+      "game_name": "Apocalyptic Adventure: Episode 1",
+      "file": "missing/A/193148-apocalyptic-adventure-episode-1.json"
     },
     {
       "igdb_id": 334830,
@@ -79598,6 +79608,11 @@
       "file": "missing/B/155069-battle-brothers-blazing-deserts.json"
     },
     {
+      "igdb_id": 193130,
+      "game_name": "Battle Brothers: Of Flesh and Faith",
+      "file": "missing/B/193130-battle-brothers-of-flesh-and-faith.json"
+    },
+    {
       "igdb_id": 28320,
       "game_name": "Battle Bruise",
       "file": "missing/B/28320-battle-bruise.json"
@@ -102776,6 +102791,11 @@
       "igdb_id": 202563,
       "game_name": "Blood Burger",
       "file": "missing/B/202563-blood-burger.json"
+    },
+    {
+      "igdb_id": 193140,
+      "game_name": "Blood Camp",
+      "file": "missing/B/193140-blood-camp.json"
     },
     {
       "igdb_id": 109850,
@@ -152658,6 +152678,11 @@
       "file": "missing/C/242676-chronicon-complete.json"
     },
     {
+      "igdb_id": 193139,
+      "game_name": "Chronicon: Ancient Beasts",
+      "file": "missing/C/193139-chronicon-ancient-beasts.json"
+    },
+    {
       "igdb_id": 314369,
       "game_name": "Chronicon: Survivors",
       "file": "missing/C/314369-chronicon-survivors.json"
@@ -168213,9 +168238,34 @@
       "file": "missing/C/140392-concordia-digital-edition.json"
     },
     {
+      "igdb_id": 193169,
+      "game_name": "Concordia: Digital Edition - Aegyptus & Creta",
+      "file": "missing/C/193169-concordia-digital-edition-aegyptus-and-creta.json"
+    },
+    {
+      "igdb_id": 193171,
+      "game_name": "Concordia: Digital Edition - Britannia & Germania",
+      "file": "missing/C/193171-concordia-digital-edition-britannia-and-germania.json"
+    },
+    {
+      "igdb_id": 193167,
+      "game_name": "Concordia: Digital Edition - Corsica & Gallia",
+      "file": "missing/C/193167-concordia-digital-edition-corsica-and-gallia.json"
+    },
+    {
+      "igdb_id": 193168,
+      "game_name": "Concordia: Digital Edition - Fish Market",
+      "file": "missing/C/193168-concordia-digital-edition-fish-market.json"
+    },
+    {
       "igdb_id": 200522,
       "game_name": "Concordia: Digital Edition - Imperial Bundle",
       "file": "missing/C/200522-concordia-digital-edition-imperial-bundle.json"
+    },
+    {
+      "igdb_id": 193170,
+      "game_name": "Concordia: Digital Edition - Venus",
+      "file": "missing/C/193170-concordia-digital-edition-venus.json"
     },
     {
       "igdb_id": 179172,
@@ -294468,6 +294518,11 @@
       "file": "missing/F/705-fifa-road-to-world-cup-98.json"
     },
     {
+      "igdb_id": 193172,
+      "game_name": "Fifefer Island",
+      "file": "missing/F/193172-fifefer-island.json"
+    },
+    {
       "igdb_id": 336176,
       "game_name": "Fifi and the Flowertots: Fifi's Garden Party",
       "file": "missing/F/336176-fifi-and-the-flowertots-fifis-garden-party.json"
@@ -329008,6 +329063,11 @@
       "file": "missing/G/322718-gambit-shifter-surrealm.json"
     },
     {
+      "igdb_id": 193173,
+      "game_name": "Gambit!",
+      "file": "missing/G/193173-gambit.json"
+    },
+    {
       "igdb_id": 116783,
       "game_name": "Gamble Fight Plus",
       "file": "missing/G/116783-gamble-fight-plus.json"
@@ -344566,6 +344626,11 @@
       "igdb_id": 144222,
       "game_name": "Goddess of War Ashley",
       "file": "missing/G/144222-goddess-of-war-ashley.json"
+    },
+    {
+      "igdb_id": 193131,
+      "game_name": "Goddess of War Ashley II",
+      "file": "missing/G/193131-goddess-of-war-ashley-ii.json"
     },
     {
       "igdb_id": 195179,
@@ -487303,6 +487368,11 @@
       "file": "missing/L/172713-love-of-renai-koutei-of-love.json"
     },
     {
+      "igdb_id": 193132,
+      "game_name": "Love on Beach",
+      "file": "missing/L/193132-love-on-beach.json"
+    },
+    {
       "igdb_id": 247495,
       "game_name": "Love on Leave",
       "file": "missing/L/247495-love-on-leave.json"
@@ -554408,6 +554478,11 @@
       "file": "missing/M/118168-museum-of-other-realities.json"
     },
     {
+      "igdb_id": 193176,
+      "game_name": "Museum of Other Realities: Canadian Collection",
+      "file": "missing/M/193176-museum-of-other-realities-canadian-collection.json"
+    },
+    {
       "igdb_id": 182871,
       "game_name": "Museum of Parallel Art",
       "file": "missing/M/182871-museum-of-parallel-art.json"
@@ -570541,6 +570616,11 @@
       "igdb_id": 325279,
       "game_name": "Neon Abyss 2",
       "file": "missing/N/325279-neon-abyss-2.json"
+    },
+    {
+      "igdb_id": 193164,
+      "game_name": "Neon Abyss: Chrono Trap",
+      "file": "missing/N/193164-neon-abyss-chrono-trap.json"
     },
     {
       "igdb_id": 169182,
@@ -617033,6 +617113,16 @@
       "file": "missing/P/115540-pathfinder-kingmaker-varnholds-lot.json"
     },
     {
+      "igdb_id": 193129,
+      "game_name": "Pathfinder: Wrath of the Righteous - A Visitor from Distant Lands",
+      "file": "missing/P/193129-pathfinder-wrath-of-the-righteous-a-visitor-from-distant-lands.json"
+    },
+    {
+      "igdb_id": 193128,
+      "game_name": "Pathfinder: Wrath of the Righteous - Faces of War",
+      "file": "missing/P/193128-pathfinder-wrath-of-the-righteous-faces-of-war.json"
+    },
+    {
       "igdb_id": 331855,
       "game_name": "Pathfinder: Wrath of the Righteous - Game of the Year Edition",
       "file": "missing/P/331855-pathfinder-wrath-of-the-righteous-game-of-the-year-edition.json"
@@ -617046,6 +617136,11 @@
       "igdb_id": 186869,
       "game_name": "Pathfinder: Wrath of the Righteous - Love Beyond Death",
       "file": "missing/P/186869-pathfinder-wrath-of-the-righteous-love-beyond-death.json"
+    },
+    {
+      "igdb_id": 193127,
+      "game_name": "Pathfinder: Wrath of the Righteous - Paint of War",
+      "file": "missing/P/193127-pathfinder-wrath-of-the-righteous-paint-of-war.json"
     },
     {
       "igdb_id": 269217,
@@ -641598,6 +641693,11 @@
       "file": "missing/P/153510-pokemon-and-the-last-wish.json"
     },
     {
+      "igdb_id": 193163,
+      "game_name": "Pokémon and the Last Wish Part II",
+      "file": "missing/P/193163-pokemon-and-the-last-wish-part-ii.json"
+    },
+    {
       "igdb_id": 313100,
       "game_name": "Pokémon Anniversary Crystal",
       "file": "missing/P/313100-pokemon-anniversary-crystal.json"
@@ -654376,6 +654476,11 @@
       "igdb_id": 222502,
       "game_name": "Prison Architect: Nintendo Switch Edition - Bundle",
       "file": "missing/P/222502-prison-architect-nintendo-switch-edition-bundle.json"
+    },
+    {
+      "igdb_id": 193162,
+      "game_name": "Prison Architect: Perfect Storm",
+      "file": "missing/P/193162-prison-architect-perfect-storm.json"
     },
     {
       "igdb_id": 99758,
@@ -682303,6 +682408,11 @@
       "file": "missing/R/150777-rebels-under-the-spell-of-magic.json"
     },
     {
+      "igdb_id": 193149,
+      "game_name": "Rebels: Under the Spell of Magic - Chapter 2",
+      "file": "missing/R/193149-rebels-under-the-spell-of-magic-chapter-2.json"
+    },
+    {
       "igdb_id": 267285,
       "game_name": "Rebels: Under the Spell of Magic - Chapter 4",
       "file": "missing/R/267285-rebels-under-the-spell-of-magic-chapter-4.json"
@@ -701151,6 +701261,11 @@
       "igdb_id": 127932,
       "game_name": "Rock Simulator",
       "file": "missing/R/127932-rock-simulator.json"
+    },
+    {
+      "igdb_id": 193137,
+      "game_name": "Rock Snake",
+      "file": "missing/R/193137-rock-snake.json"
     },
     {
       "igdb_id": 260409,
@@ -789443,6 +789558,11 @@
       "file": "missing/S/155996-star-aegis.json"
     },
     {
+      "igdb_id": 193175,
+      "game_name": "Star Age: Space Combat",
+      "file": "missing/S/193175-star-age-space-combat.json"
+    },
+    {
       "igdb_id": 246403,
       "game_name": "Star Ally",
       "file": "missing/S/246403-star-ally.json"
@@ -789766,6 +789886,11 @@
       "igdb_id": 354434,
       "game_name": "Star Conflict: Mole - Deluxe Edition",
       "file": "missing/S/354434-star-conflict-mole-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 193165,
+      "game_name": "Star Conflict: Mysteries of the Universe. Stage two",
+      "file": "missing/S/193165-star-conflict-mysteries-of-the-universe-stage-two.json"
     },
     {
       "igdb_id": 354438,
@@ -790538,9 +790663,29 @@
       "file": "missing/S/196156-star-melody-yumemi-dreamer-chapter-11.json"
     },
     {
+      "igdb_id": 193147,
+      "game_name": "Star Melody: Yumemi Dreamer - Chapter 3",
+      "file": "missing/S/193147-star-melody-yumemi-dreamer-chapter-3.json"
+    },
+    {
       "igdb_id": 191052,
       "game_name": "Star Melody: Yumemi Dreamer - Chapter 4",
       "file": "missing/S/191052-star-melody-yumemi-dreamer-chapter-4.json"
+    },
+    {
+      "igdb_id": 193146,
+      "game_name": "Star Melody: Yumemi Dreamer - Chapter 6",
+      "file": "missing/S/193146-star-melody-yumemi-dreamer-chapter-6.json"
+    },
+    {
+      "igdb_id": 193145,
+      "game_name": "Star Melody: Yumemi Dreamer - Chapter 7",
+      "file": "missing/S/193145-star-melody-yumemi-dreamer-chapter-7.json"
+    },
+    {
+      "igdb_id": 193144,
+      "game_name": "Star Melody: Yumemi Dreamer - Chapter 8",
+      "file": "missing/S/193144-star-melody-yumemi-dreamer-chapter-8.json"
     },
     {
       "igdb_id": 196149,
@@ -814056,6 +814201,11 @@
       "igdb_id": 155614,
       "game_name": "Super Jigsaw Puzzle: Generations - Iceland",
       "file": "missing/S/155614-super-jigsaw-puzzle-generations-iceland.json"
+    },
+    {
+      "igdb_id": 193143,
+      "game_name": "Super Jigsaw Puzzle: Generations - Imagination",
+      "file": "missing/S/193143-super-jigsaw-puzzle-generations-imagination.json"
     },
     {
       "igdb_id": 155594,
@@ -853818,6 +853968,11 @@
       "file": "missing/T/128591-the-clotted-island.json"
     },
     {
+      "igdb_id": 193177,
+      "game_name": "The Cloud Dream of the Nine: A new beginning of a dream",
+      "file": "missing/T/193177-the-cloud-dream-of-the-nine-a-new-beginning-of-a-dream.json"
+    },
+    {
       "igdb_id": 362188,
       "game_name": "The Cloud Forest",
       "file": "missing/T/362188-the-cloud-forest.json"
@@ -872948,6 +873103,11 @@
       "file": "missing/T/17022-the-lost-mythologies.json"
     },
     {
+      "igdb_id": 193174,
+      "game_name": "The Lost Oregon City Gold",
+      "file": "missing/T/193174-the-lost-oregon-city-gold.json"
+    },
+    {
       "igdb_id": 386120,
       "game_name": "The Lost Painter",
       "file": "missing/T/386120-the-lost-painter.json"
@@ -890548,6 +890708,11 @@
       "file": "missing/T/255150-the-wand-wizard.json"
     },
     {
+      "igdb_id": 193161,
+      "game_name": "The Wanderer",
+      "file": "missing/T/193161-the-wanderer.json"
+    },
+    {
       "igdb_id": 211752,
       "game_name": "The Wanderer: Chosen One",
       "file": "missing/T/211752-the-wanderer-chosen-one.json"
@@ -897291,6 +897456,11 @@
       "igdb_id": 377164,
       "game_name": "Tichu",
       "file": "missing/T/377164-tichu.json"
+    },
+    {
+      "igdb_id": 193135,
+      "game_name": "Tick",
+      "file": "missing/T/193135-tick.json"
     },
     {
       "igdb_id": 391186,
@@ -911028,6 +911198,11 @@
       "file": "missing/T/376873-tomohigara.json"
     },
     {
+      "igdb_id": 193134,
+      "game_name": "Tomomi",
+      "file": "missing/T/193134-tomomi.json"
+    },
+    {
       "igdb_id": 130251,
       "game_name": "Tomomi: Denkitomodachi",
       "file": "missing/T/130251-tomomi-denkitomodachi.json"
@@ -920058,6 +920233,11 @@
       "file": "missing/T/167301-train-sim-world-2-db-br-182-loco-add-on.json"
     },
     {
+      "igdb_id": 193154,
+      "game_name": "Train Sim World 2: DB BR 187 Loco",
+      "file": "missing/T/193154-train-sim-world-2-db-br-187-loco.json"
+    },
+    {
       "igdb_id": 168734,
       "game_name": "Train Sim World 2: DB BR 204 Loco",
       "file": "missing/T/168734-train-sim-world-2-db-br-204-loco.json"
@@ -920066,6 +920246,11 @@
       "igdb_id": 168733,
       "game_name": "Train Sim World 2: DB BR 363 Loco",
       "file": "missing/T/168733-train-sim-world-2-db-br-363-loco.json"
+    },
+    {
+      "igdb_id": 193155,
+      "game_name": "Train Sim World 2: DB G6 Diesel Shunter",
+      "file": "missing/T/193155-train-sim-world-2-db-g6-diesel-shunter.json"
     },
     {
       "igdb_id": 156512,
@@ -920128,6 +920313,11 @@
       "file": "missing/T/168738-train-sim-world-2-lirr-m3-emu-loco.json"
     },
     {
+      "igdb_id": 193159,
+      "game_name": "Train Sim World 2: London Underground 1938 Stock EMU Loco",
+      "file": "missing/T/193159-train-sim-world-2-london-underground-1938-stock-emu-loco.json"
+    },
+    {
       "igdb_id": 227327,
       "game_name": "Train Sim World 2: Long Island Rail Road: New York - Hicksville",
       "file": "missing/T/227327-train-sim-world-2-long-island-rail-road-new-york-hicksville.json"
@@ -920151,6 +920341,11 @@
       "igdb_id": 227325,
       "game_name": "Train Sim World 2: New Journeys CSX SD40",
       "file": "missing/T/227325-train-sim-world-2-new-journeys-csx-sd40.json"
+    },
+    {
+      "igdb_id": 193160,
+      "game_name": "Train Sim World 2: New Journeys Expansion",
+      "file": "missing/T/193160-train-sim-world-2-new-journeys-expansion.json"
     },
     {
       "igdb_id": 227324,
@@ -920188,6 +920383,11 @@
       "file": "missing/T/156508-train-sim-world-2-rapid-transit-route-add-on.json"
     },
     {
+      "igdb_id": 193156,
+      "game_name": "Train Sim World 2: RhB Anniversary Collection",
+      "file": "missing/T/193156-train-sim-world-2-rhb-anniversary-collection.json"
+    },
+    {
       "igdb_id": 156499,
       "game_name": "Train Sim World 2: Rhein-Ruhr Osten: Wuppertal - Hagen Route Add-On",
       "file": "missing/T/156499-train-sim-world-2-rhein-ruhr-osten-wuppertal-hagen-route-add-on.json"
@@ -920203,6 +920403,21 @@
       "file": "missing/T/156505-train-sim-world-2-rush-hour.json"
     },
     {
+      "igdb_id": 193151,
+      "game_name": "Train Sim World 2: Rush Hour - Boston Sprinter",
+      "file": "missing/T/193151-train-sim-world-2-rush-hour-boston-sprinter.json"
+    },
+    {
+      "igdb_id": 193158,
+      "game_name": "Train Sim World 2: Rush Hour - London Commuter Route",
+      "file": "missing/T/193158-train-sim-world-2-rush-hour-london-commuter-route.json"
+    },
+    {
+      "igdb_id": 193150,
+      "game_name": "Train Sim World 2: Rush Hour - Nahverkehr Dresden Route",
+      "file": "missing/T/193150-train-sim-world-2-rush-hour-nahverkehr-dresden-route.json"
+    },
+    {
       "igdb_id": 195777,
       "game_name": "Train Sim World 2: S-Bahn Zentralschweiz - Luzern: Sursee Route",
       "file": "missing/T/195777-train-sim-world-2-s-bahn-zentralschweiz-luzern-sursee-route.json"
@@ -920211,6 +920426,11 @@
       "igdb_id": 227314,
       "game_name": "Train Sim World 2: Schnellfahrstrecke Köln-Aachen",
       "file": "missing/T/227314-train-sim-world-2-schnellfahrstrecke-koln-aachen.json"
+    },
+    {
+      "igdb_id": 193153,
+      "game_name": "Train Sim World 2: Sherman Hill: Cheyenne - Laramie Route",
+      "file": "missing/T/193153-train-sim-world-2-sherman-hill-cheyenne-laramie-route.json"
     },
     {
       "igdb_id": 156513,
@@ -920223,9 +920443,19 @@
       "file": "missing/T/156507-train-sim-world-2-southeastern-high-speed-london-st-pancras-faversham-route-add-on.json"
     },
     {
+      "igdb_id": 193152,
+      "game_name": "Train Sim World 2: Southern BR Class 313 EMU",
+      "file": "missing/T/193152-train-sim-world-2-southern-br-class-313-emu.json"
+    },
+    {
       "igdb_id": 156503,
       "game_name": "Train Sim World 2: Tees Valley Line - Darlington: Saltburn-by-the-Sea Route",
       "file": "missing/T/156503-train-sim-world-2-tees-valley-line-darlington-saltburn-by-the-sea-route.json"
+    },
+    {
+      "igdb_id": 193157,
+      "game_name": "Train Sim World 2: West Cornwall Local: Penzance - St Austell & St Ives Route",
+      "file": "missing/T/193157-train-sim-world-2-west-cornwall-local-penzance-st-austell-and-st-ives-route.json"
     },
     {
       "igdb_id": 156514,
@@ -923866,6 +924096,11 @@
       "igdb_id": 153248,
       "game_name": "Trainz Railroad Simulator 2019: ZecRail V499 Blue & Gold and Christmas 2019",
       "file": "missing/T/153248-trainz-railroad-simulator-2019-zecrail-v499-blue-and-gold-and-christmas-2019.json"
+    },
+    {
+      "igdb_id": 193141,
+      "game_name": "Trainz Railroad Simulator 2019: Znamensk-Svir",
+      "file": "missing/T/193141-trainz-railroad-simulator-2019-znamensk-svir.json"
     },
     {
       "igdb_id": 195792,
@@ -928151,6 +928386,11 @@
       "igdb_id": 300800,
       "game_name": "TRIB3",
       "file": "missing/T/300800-trib3.json"
+    },
+    {
+      "igdb_id": 193166,
+      "game_name": "Tribal",
+      "file": "missing/T/193166-tribal.json"
     },
     {
       "igdb_id": 377799,
@@ -936296,6 +936536,11 @@
       "igdb_id": 223543,
       "game_name": "Two Point Hospital: Retro Items Pack",
       "file": "missing/T/223543-two-point-hospital-retro-items-pack.json"
+    },
+    {
+      "igdb_id": 193142,
+      "game_name": "Two Point Hospital: Speedy Recovery",
+      "file": "missing/T/193142-two-point-hospital-speedy-recovery.json"
     },
     {
       "igdb_id": 313595,
@@ -955086,6 +955331,11 @@
       "igdb_id": 419889,
       "game_name": "VHS Nights: The Tidy Up Shift",
       "file": "missing/V/419889-vhs-nights-the-tidy-up-shift.json"
+    },
+    {
+      "igdb_id": 193133,
+      "game_name": "VHS Platform: 2D",
+      "file": "missing/V/193133-vhs-platform-2d.json"
     },
     {
       "igdb_id": 177572,
