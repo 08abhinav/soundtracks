@@ -4020,6 +4020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayor May Knott | 249857 | [249857-mayor-may-knott.json](./249857-mayor-may-knott.json) |
 | Mayor Moon | 121434 | [121434-mayor-moon.json](./121434-mayor-moon.json) |
 | Mayor of Defense | 166746 | [166746-mayor-of-defense.json](./166746-mayor-of-defense.json) |
+| Mayor T-Rex | 203666 | [203666-mayor-t-rex.json](./203666-mayor-t-rex.json) |
 | Mayority | 254169 | [254169-mayority.json](./254169-mayority.json) |
 | Maytroid | 111981 | [111981-maytroid.json](./111981-maytroid.json) |
 | Mayu: Last of the Yaksha | 197128 | [197128-mayu-last-of-the-yaksha.json](./197128-mayu-last-of-the-yaksha.json) |
@@ -11058,6 +11059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Street Fighter | 260877 | [260877-mortal-street-fighter.json](./260877-mortal-street-fighter.json) |
 | Mortal Trace | 242693 | [242693-mortal-trace.json](./242693-mortal-trace.json) |
 | Mortal Trap Dungeon | 378282 | [378282-mortal-trap-dungeon.json](./378282-mortal-trap-dungeon.json) |
+| Mortal Vessel | 203665 | [203665-mortal-vessel.json](./203665-mortal-vessel.json) |
 | Mortal Void | 336628 | [336628-mortal-void.json](./336628-mortal-void.json) |
 | Mortal Weapon | 74333 | [74333-mortal-weapon.json](./74333-mortal-weapon.json) |
 | Mortal Wrestle Fight Pro | 99991 | [99991-mortal-wrestle-fight-pro.json](./99991-mortal-wrestle-fight-pro.json) |
@@ -12098,6 +12100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mudkip Goes to Walmart then Dies | 140023 | [140023-mudkip-goes-to-walmart-then-dies.json](./140023-mudkip-goes-to-walmart-then-dies.json) |
 | Mudkip's Dating Simulator 1+2 | 140022 | [140022-mudkips-dating-simulator-1-2.json](./140022-mudkips-dating-simulator-1-2.json) |
 | Mudlarks | 123583 | [123583-mudlarks.json](./123583-mudlarks.json) |
+| Mudness Offroad Car Simulator | 203721 | [203721-mudness-offroad-car-simulator.json](./203721-mudness-offroad-car-simulator.json) |
 | Mudness Offroad Car Simulator Runner | 345710 | [345710-mudness-offroad-car-simulator-runner.json](./345710-mudness-offroad-car-simulator-runner.json) |
 | Mudness Offroad: 4x4 Truck Car Simulator | 313210 | [313210-mudness-offroad-4x4-truck-car-simulator.json](./313210-mudness-offroad-4x4-truck-car-simulator.json) |
 | Mudoba | 236302 | [236302-mudoba.json](./236302-mudoba.json) |
@@ -12833,6 +12836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Camp of Memories | 348388 | [348388-my-camp-of-memories.json](./348388-my-camp-of-memories.json) |
 | My Camp of Memories: Episode 1 | 261157 | [261157-my-camp-of-memories-episode-1.json](./261157-my-camp-of-memories-episode-1.json) |
 | My Candy Love | 58621 | [58621-my-candy-love.json](./58621-my-candy-love.json) |
+| My Candy Love: Alternate Life | 203694 | [203694-my-candy-love-alternate-life.json](./203694-my-candy-love-alternate-life.json) |
 | My Candy Love: High School Life | 186654 | [186654-my-candy-love-high-school-life.json](./186654-my-candy-love-high-school-life.json) |
 | My Candy Love: New Gen | 227973 | [227973-my-candy-love-new-gen.json](./227973-my-candy-love-new-gen.json) |
 | My Candy Love: University Life | 186655 | [186655-my-candy-love-university-life.json](./186655-my-candy-love-university-life.json) |
