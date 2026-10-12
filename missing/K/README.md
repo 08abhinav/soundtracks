@@ -3681,6 +3681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krinkle Krusher | 26496 | [26496-krinkle-krusher.json](./26496-krinkle-krusher.json) |
 | Kriophobia | 50164 | [50164-kriophobia.json](./50164-kriophobia.json) |
 | Krispain Hero VR: Roguelite Dungeon Shooter Simulator | 282144 | [282144-krispain-hero-vr-roguelite-dungeon-shooter-simulator.json](./282144-krispain-hero-vr-roguelite-dungeon-shooter-simulator.json) |
+| Krispee Street | 187786 | [187786-krispee-street.json](./187786-krispee-street.json) |
 | KrissX | 67327 | [67327-krissx.json](./67327-krissx.json) |
 | Kristal Mağara | 235269 | [235269-kristal-magara.json](./235269-kristal-magara.json) |
 | Kritika Global | 211930 | [211930-kritika-global.json](./211930-kritika-global.json) |
@@ -4001,6 +4002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kylie Minogue: Breathe (1998).mp3 | 287876 | [287876-kylie-minogue-breathe-1998-mp3.json](./287876-kylie-minogue-breathe-1998-mp3.json) |
 | KYM-tan Shoots Things | 198387 | [198387-kym-tan-shoots-things.json](./198387-kym-tan-shoots-things.json) |
 | Kyn | 11451 | [11451-kyn.json](./11451-kyn.json) |
+| Kyo: Gigantify | 187158 | [187158-kyo-gigantify.json](./187158-kyo-gigantify.json) |
 | Kyobi | 314683 | [314683-kyobi.json](./314683-kyobi.json) |
 | Kyodai | 93377 | [93377-kyodai.json](./93377-kyodai.json) |
 | Kyodai Mahjongg | 126457 | [126457-kyodai-mahjongg.json](./126457-kyodai-mahjongg.json) |
