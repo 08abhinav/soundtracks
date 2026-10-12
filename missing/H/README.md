@@ -2758,6 +2758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellgate | 125403 | [125403-hellgate.json](./125403-hellgate.json) |
 | Hellgate | 291043 | [291043-hellgate.json](./291043-hellgate.json) |
 | Hellgate VR | 158718 | [158718-hellgate-vr.json](./158718-hellgate-vr.json) |
+| Hellgate: London FPS | 191504 | [191504-hellgate-london-fps.json](./191504-hellgate-london-fps.json) |
 | Hellgate: Redemption | 294051 | [294051-hellgate-redemption.json](./294051-hellgate-redemption.json) |
 | Hellgate: Tokyo | 67279 | [67279-hellgate-tokyo.json](./67279-hellgate-tokyo.json) |
 | HellHeart Breaker | 351687 | [351687-hellheart-breaker.json](./351687-hellheart-breaker.json) |
@@ -4557,6 +4558,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects - Ireland Adventures & Object Time Puzzle Games | 71205 | [71205-hidden-objects-ireland-adventures-and-object-time-puzzle-games.json](./71205-hidden-objects-ireland-adventures-and-object-time-puzzle-games.json) |
 | Hidden Objects Collection | 93969 | [93969-hidden-objects-collection.json](./93969-hidden-objects-collection.json) |
 | Hidden Objects Collection 5: Detective Stories | 282055 | [282055-hidden-objects-collection-5-detective-stories.json](./282055-hidden-objects-collection-5-detective-stories.json) |
+| Hidden Objects Collection: Volume 3 | 191493 | [191493-hidden-objects-collection-volume-3.json](./191493-hidden-objects-collection-volume-3.json) |
+| Hidden Objects Collection: Volume 4 | 191492 | [191492-hidden-objects-collection-volume-4.json](./191492-hidden-objects-collection-volume-4.json) |
 | Hidden Objects Egyptian Palace | 88670 | [88670-hidden-objects-egyptian-palace.json](./88670-hidden-objects-egyptian-palace.json) |
 | Hidden Objects Fantasy Games | 249315 | [249315-hidden-objects-fantasy-games.json](./249315-hidden-objects-fantasy-games.json) |
 | Hidden Objects Lost Worlds | 70913 | [70913-hidden-objects-lost-worlds.json](./70913-hidden-objects-lost-worlds.json) |
@@ -5745,6 +5748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Potatoes! Compendium | 137674 | [137674-holy-potatoes-compendium.json](./137674-holy-potatoes-compendium.json) |
 | Holy Potatoes! We're in Space?! | 27339 | [27339-holy-potatoes-were-in-space.json](./27339-holy-potatoes-were-in-space.json) |
 | Holy Potatoes! What the Hell?! | 55695 | [55695-holy-potatoes-what-the-hell.json](./55695-holy-potatoes-what-the-hell.json) |
+| Holy Purge | 191509 | [191509-holy-purge.json](./191509-holy-purge.json) |
 | Holy Road | 115216 | [115216-holy-road.json](./115216-holy-road.json) |
 | Holy Sheet | 110952 | [110952-holy-sheet.json](./110952-holy-sheet.json) |
 | Holy Shift | 320337 | [320337-holy-shift.json](./320337-holy-shift.json) |
