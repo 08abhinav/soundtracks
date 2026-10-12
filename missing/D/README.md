@@ -757,7 +757,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dante's Cowboy | 258456 | [258456-dantes-cowboy.json](./258456-dantes-cowboy.json) |
 | Dante's Hotel | 152821 | [152821-dantes-hotel.json](./152821-dantes-hotel.json) |
 | Dante's Inferno | 28854 | [28854-dantes-inferno.json](./28854-dantes-inferno.json) |
-| Dante's Inferno | 6958 | [6958-dantes-inferno.json](./6958-dantes-inferno.json) |
 | Dante's Inferno: Dark Forest Pack | 172772 | [172772-dantes-inferno-dark-forest-pack.json](./172772-dantes-inferno-dark-forest-pack.json) |
 | Dante's Inferno: Divine Edition | 44610 | [44610-dantes-inferno-divine-edition.json](./44610-dantes-inferno-divine-edition.json) |
 | Dante's Inferno: Trials of St. Lucia | 21747 | [21747-dantes-inferno-trials-of-st-lucia.json](./21747-dantes-inferno-trials-of-st-lucia.json) |
