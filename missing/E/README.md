@@ -2115,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchantasy: The Quest for the Eternal Grimoire | 356657 | [356657-enchantasy-the-quest-for-the-eternal-grimoire.json](./356657-enchantasy-the-quest-for-the-eternal-grimoire.json) |
 | Enchanted | 13641 | [13641-enchanted.json](./13641-enchanted.json) |
 | Enchanted Arms | 6988 | [6988-enchanted-arms.json](./6988-enchanted-arms.json) |
+| Enchanted Bricks | 221891 | [221891-enchanted-bricks.json](./221891-enchanted-bricks.json) |
 | Enchanted Broom | 384071 | [384071-enchanted-broom.json](./384071-enchanted-broom.json) |
 | Enchanted Fairy Friends: Secret of the Fairy Queen | 68031 | [68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json](./68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json) |
 | Enchanted Hearts | 298901 | [298901-enchanted-hearts.json](./298901-enchanted-hearts.json) |
@@ -3419,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Simulator: PowerWash DLC | 306583 | [306583-escape-simulator-powerwash-dlc.json](./306583-escape-simulator-powerwash-dlc.json) |
 | Escape Simulator: Spy | 365719 | [365719-escape-simulator-spy.json](./365719-escape-simulator-spy.json) |
 | Escape Simulator: The Talos Principle DLC | 321346 | [321346-escape-simulator-the-talos-principle-dlc.json](./321346-escape-simulator-the-talos-principle-dlc.json) |
+| Escape Simulator: Wild West | 221903 | [221903-escape-simulator-wild-west.json](./221903-escape-simulator-wild-west.json) |
 | Escape Tales: The Awakening | 304829 | [304829-escape-tales-the-awakening.json](./304829-escape-tales-the-awakening.json) |
 | Escape Team | 339770 | [339770-escape-team.json](./339770-escape-team.json) |
 | Escape That Level | 95670 | [95670-escape-that-level.json](./95670-escape-that-level.json) |
