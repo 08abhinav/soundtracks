@@ -2608,6 +2608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity ZigZag | 148688 | [148688-infinity-zigzag.json](./148688-infinity-zigzag.json) |
 | Infinity: Battlescape | 26990 | [26990-infinity-battlescape.json](./26990-infinity-battlescape.json) |
 | Infinity: HexaDome Tactics | 275699 | [275699-infinity-hexadome-tactics.json](./275699-infinity-hexadome-tactics.json) |
+| Infinitype | 195470 | [195470-infinitype.json](./195470-infinitype.json) |
 | Infinium | 311192 | [311192-infinium.json](./311192-infinium.json) |
 | Infinium Strike: Broken Overlord | 171454 | [171454-infinium-strike-broken-overlord.json](./171454-infinium-strike-broken-overlord.json) |
 | InfiniVirus | 381344 | [381344-infinivirus.json](./381344-infinivirus.json) |
