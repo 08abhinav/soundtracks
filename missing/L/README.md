@@ -5673,6 +5673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Quest | 37940 | [37940-love-quest.json](./37940-love-quest.json) |
 | Love Quest: Los Angeles | 303637 | [303637-love-quest-los-angeles.json](./303637-love-quest-los-angeles.json) |
 | Love Red | 302371 | [302371-love-red.json](./302371-love-red.json) |
+| Love Rewind: A Magical Time Travel Romance | 180536 | [180536-love-rewind-a-magical-time-travel-romance.json](./180536-love-rewind-a-magical-time-travel-romance.json) |
 | Love Rhythm | 126420 | [126420-love-rhythm.json](./126420-love-rhythm.json) |
 | Love Ribbon | 30410 | [30410-love-ribbon.json](./30410-love-ribbon.json) |
 | Love Ritmo | 112258 | [112258-love-ritmo.json](./112258-love-ritmo.json) |
