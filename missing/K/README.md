@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K2 Story | 245800 | [245800-k2-story.json](./245800-k2-story.json) |
 | K2: Digital Edition | 274560 | [274560-k2-digital-edition.json](./274560-k2-digital-edition.json) |
 | K37-D | 130966 | [130966-k37-d.json](./130966-k37-d.json) |
+| K9 Uprising | 200383 | [200383-k9-uprising.json](./200383-k9-uprising.json) |
 | Ka-50 Hokum | 94959 | [94959-ka-50-hokum.json](./94959-ka-50-hokum.json) |
 | Ka-52 Team Alligator | 78646 | [78646-ka-52-team-alligator.json](./78646-ka-52-team-alligator.json) |
 | Ka-Blooey | 42660 | [42660-ka-blooey.json](./42660-ka-blooey.json) |
