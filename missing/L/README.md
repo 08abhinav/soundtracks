@@ -2445,6 +2445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2021: Hits Français et Internationaux Solo | 137084 | [137084-lets-sing-2021-hits-francais-et-internationaux-solo.json](./137084-lets-sing-2021-hits-francais-et-internationaux-solo.json) |
 | Let's Sing 2022: Chinese Version | 215361 | [215361-lets-sing-2022-chinese-version.json](./215361-lets-sing-2022-chinese-version.json) |
 | Let's Sing 2022: French Version | 175978 | [175978-lets-sing-2022-french-version.json](./175978-lets-sing-2022-french-version.json) |
+| Let's Sing 2023: Platinum Edition | 225829 | [225829-lets-sing-2023-platinum-edition.json](./225829-lets-sing-2023-platinum-edition.json) |
 | Let's Sing 2024 with International Hits: Gold Edition | 271838 | [271838-lets-sing-2024-with-international-hits-gold-edition.json](./271838-lets-sing-2024-with-international-hits-gold-edition.json) |
 | Let's Sing 2024 with International Hits: Platinum Edition | 271836 | [271836-lets-sing-2024-with-international-hits-platinum-edition.json](./271836-lets-sing-2024-with-international-hits-platinum-edition.json) |
 | Let's Sing 2025 with International Hits | 317926 | [317926-lets-sing-2025-with-international-hits.json](./317926-lets-sing-2025-with-international-hits.json) |
@@ -2776,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lidar.exe | 213883 | [213883-lidar-exe.json](./213883-lidar-exe.json) |
 | LiDiA | 142147 | [142147-lidia.json](./142147-lidia.json) |
 | Lidraughts | 321663 | [321663-lidraughts.json](./321663-lidraughts.json) |
+| Lie of Caelum | 225209 | [225209-lie-of-caelum.json](./225209-lie-of-caelum.json) |
 | Lie or Die | 176798 | [176798-lie-or-die.json](./176798-lie-or-die.json) |
 | LiEat: The Lie-Eating Dragon & the Vermilion Vampire | 115202 | [115202-lieat-the-lie-eating-dragon-and-the-vermilion-vampire.json](./115202-lieat-the-lie-eating-dragon-and-the-vermilion-vampire.json) |
 | Liebt Mich Nicht | 126021 | [126021-liebt-mich-nicht.json](./126021-liebt-mich-nicht.json) |
@@ -2818,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Dream | 331456 | [331456-life-dream.json](./331456-life-dream.json) |
 | Life Eater | 289431 | [289431-life-eater.json](./289431-life-eater.json) |
 | Life Effect | 236763 | [236763-life-effect.json](./236763-life-effect.json) |
+| Life Eternal | 225235 | [225235-life-eternal.json](./225235-life-eternal.json) |
 | Life Force | 174945 | [174945-life-force.json](./174945-life-force.json) |
 | Life Force | 261899 | [261899-life-force.json](./261899-life-force.json) |
 | Life Force | 261900 | [261900-life-force.json](./261900-life-force.json) |
@@ -2942,6 +2945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifo | 185615 | [185615-lifo.json](./185615-lifo.json) |
 | Lifo Harvester | 55237 | [55237-lifo-harvester.json](./55237-lifo-harvester.json) |
 | Lift Up | 397072 | [397072-lift-up.json](./397072-lift-up.json) |
+| Lift Your Spirits | 225797 | [225797-lift-your-spirits.json](./225797-lift-your-spirits.json) |
 | Lift: The Last Days of The Westwind | 291904 | [291904-lift-the-last-days-of-the-westwind.json](./291904-lift-the-last-days-of-the-westwind.json) |
 | Lift/Shift | 340918 | [340918-lift-shift.json](./340918-lift-shift.json) |
 | Lifted | 309518 | [309518-lifted.json](./309518-lifted.json) |
@@ -4978,6 +4982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loser Named Hana | 373880 | [373880-loser-named-hana.json](./373880-loser-named-hana.json) |
 | Loser Reborn | 122179 | [122179-loser-reborn.json](./122179-loser-reborn.json) |
 | Loser Simulator | 305835 | [305835-loser-simulator.json](./305835-loser-simulator.json) |
+| Loser's Romance | 225203 | [225203-losers-romance.json](./225203-losers-romance.json) |
 | Losing Control | 179061 | [179061-losing-control.json](./179061-losing-control.json) |
 | Loskop | 200112 | [200112-loskop.json](./200112-loskop.json) |
 | Loss | 319061 | [319061-loss.json](./319061-loss.json) |
