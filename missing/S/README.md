@@ -5634,6 +5634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiseido Beauty Solution Kaihatsu Center Kanshuu: Project Beauty | 220601 | [220601-shiseido-beauty-solution-kaihatsu-center-kanshuu-project-beauty.json](./220601-shiseido-beauty-solution-kaihatsu-center-kanshuu-project-beauty.json) |
 | Shisen-Sho Nikakudori | 147657 | [147657-shisen-sho-nikakudori.json](./147657-shisen-sho-nikakudori.json) |
 | Shisha: The Lost Souls | 205903 | [205903-shisha-the-lost-souls.json](./205903-shisha-the-lost-souls.json) |
+| Shishi: Timeless Prelude | 203715 | [203715-shishi-timeless-prelude.json](./203715-shishi-timeless-prelude.json) |
 | Shissou, Yankee Damashii | 295936 | [295936-shissou-yankee-damashii.json](./295936-shissou-yankee-damashii.json) |
 | Shissou, Yankee Damashii | 70592 | [70592-shissou-yankee-damashii.json](./70592-shissou-yankee-damashii.json) |
 | Shisya | 270779 | [270779-shisya.json](./270779-shisya.json) |
@@ -11946,6 +11947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulcreek | 229616 | [229616-soulcreek.json](./229616-soulcreek.json) |
 | Soulcrusher | 255881 | [255881-soulcrusher.json](./255881-soulcrusher.json) |
 | Souldead | 216895 | [216895-souldead.json](./216895-souldead.json) |
+| Souldiers: Digital Deluxe Edition | 203687 | [203687-souldiers-digital-deluxe-edition.json](./203687-souldiers-digital-deluxe-edition.json) |
 | Soulers | 280122 | [280122-soulers.json](./280122-soulers.json) |
 | Soulfall | 326258 | [326258-soulfall.json](./326258-soulfall.json) |
 | SoulFeast | 369559 | [369559-soulfeast.json](./369559-soulfeast.json) |
@@ -14180,6 +14182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splashy Sharky | 97147 | [97147-splashy-sharky.json](./97147-splashy-sharky.json) |
 | Splat | 107064 | [107064-splat.json](./107064-splat.json) |
 | Splat Arena | 275829 | [275829-splat-arena.json](./275829-splat-arena.json) |
+| Splat Cat | 203682 | [203682-splat-cat.json](./203682-splat-cat.json) |
 | Splat Death Salad | 238077 | [238077-splat-death-salad.json](./238077-splat-death-salad.json) |
 | Splat Renegade Paintball | 47312 | [47312-splat-renegade-paintball.json](./47312-splat-renegade-paintball.json) |
 | Splat Splat | 348990 | [348990-splat-splat.json](./348990-splat-splat.json) |
@@ -18209,6 +18212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striker | 237503 | [237503-striker.json](./237503-striker.json) |
 | Striker | 237504 | [237504-striker.json](./237504-striker.json) |
 | Striker Arena | 175158 | [175158-striker-arena.json](./175158-striker-arena.json) |
+| Striker Modes | 203706 | [203706-striker-modes.json](./203706-striker-modes.json) |
 | Striker of Sky | 238498 | [238498-striker-of-sky.json](./238498-striker-of-sky.json) |
 | Striker Pro | 237509 | [237509-striker-pro.json](./237509-striker-pro.json) |
 | Striker Pro 2000 | 22676 | [22676-striker-pro-2000.json](./22676-striker-pro-2000.json) |
@@ -19971,6 +19975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hero Boy: A Platform Adventure | 248281 | [248281-super-hero-boy-a-platform-adventure.json](./248281-super-hero-boy-a-platform-adventure.json) |
 | Super Hero Demolition | 251595 | [251595-super-hero-demolition.json](./251595-super-hero-demolition.json) |
 | Super Hero Demolition | 251674 | [251674-super-hero-demolition.json](./251674-super-hero-demolition.json) |
+| Super Hero Driving School | 203712 | [203712-super-hero-driving-school.json](./203712-super-hero-driving-school.json) |
 | Super Hero Fight Club: Reloaded | 112984 | [112984-super-hero-fight-club-reloaded.json](./112984-super-hero-fight-club-reloaded.json) |
 | Super Hero Flying School | 207875 | [207875-super-hero-flying-school.json](./207875-super-hero-flying-school.json) |
 | Super Hero Generation | 80615 | [80615-super-hero-generation.json](./80615-super-hero-generation.json) |
@@ -21467,6 +21472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superdimensional | 181381 | [181381-superdimensional.json](./181381-superdimensional.json) |
 | SuperDog | 409683 | [409683-superdog.json](./409683-superdog.json) |
 | SuperDoom | 198358 | [198358-superdoom.json](./198358-superdoom.json) |
+| SuperDuck! | 203680 | [203680-superduck.json](./203680-superduck.json) |
 | SuperDucks | 357363 | [357363-superducks.json](./357363-superducks.json) |
 | SuperDungeon MegaCorp | 190995 | [190995-superdungeon-megacorp.json](./190995-superdungeon-megacorp.json) |
 | Superfetch Dog | 263656 | [263656-superfetch-dog.json](./263656-superfetch-dog.json) |
@@ -22945,6 +22951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symbio | 275827 | [275827-symbio.json](./275827-symbio.json) |
 | Symbio | 346012 | [346012-symbio.json](./346012-symbio.json) |
 | Symbiogenesis | 302964 | [302964-symbiogenesis.json](./302964-symbiogenesis.json) |
+| Symbiosis | 203684 | [203684-symbiosis.json](./203684-symbiosis.json) |
 | Symbiosis | 302916 | [302916-symbiosis.json](./302916-symbiosis.json) |
 | Symbiosis | 326843 | [326843-symbiosis.json](./326843-symbiosis.json) |
 | Symbiote | 369458 | [369458-symbiote.json](./369458-symbiote.json) |
