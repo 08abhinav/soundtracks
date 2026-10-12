@@ -882,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Technology | 176353 | [176353-magic-technology.json](./176353-magic-technology.json) |
 | Magic Technology: Tower Defense | 68679 | [68679-magic-technology-tower-defense.json](./68679-magic-technology-tower-defense.json) |
 | Magic the Wandering | 311585 | [311585-magic-the-wandering.json](./311585-magic-the-wandering.json) |
+| Magic Thief | 190915 | [190915-magic-thief.json](./190915-magic-thief.json) |
 | Magic Tiles Saga: Upbeat Music | 100858 | [100858-magic-tiles-saga-upbeat-music.json](./100858-magic-tiles-saga-upbeat-music.json) |
 | Magic Tiny Lands | 367494 | [367494-magic-tiny-lands.json](./367494-magic-tiny-lands.json) |
 | Magic Toenail | 247478 | [247478-magic-toenail.json](./247478-magic-toenail.json) |
@@ -1149,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magneko | 212980 | [212980-magneko.json](./212980-magneko.json) |
 | Magnery Reign | 156580 | [156580-magnery-reign.json](./156580-magnery-reign.json) |
 | Magnet Action: Zi | 147890 | [147890-magnet-action-zi.json](./147890-magnet-action-zi.json) |
+| Magnet Crusher | 190903 | [190903-magnet-crusher.json](./190903-magnet-crusher.json) |
 | Magnet Effect | 214010 | [214010-magnet-effect.json](./214010-magnet-effect.json) |
 | Magnet Jack | 235665 | [235665-magnet-jack.json](./235665-magnet-jack.json) |
 | Magnet Mania 3D | 262580 | [262580-magnet-mania-3d.json](./262580-magnet-mania-3d.json) |
@@ -8605,6 +8607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Mirror | 340938 | [340938-mirror-mirror.json](./340938-mirror-mirror.json) |
 | Mirror Mysteries | 17204 | [17204-mirror-mysteries.json](./17204-mirror-mysteries.json) |
 | Mirror Mysteries 2: Forgotten Kingdoms | 36333 | [36333-mirror-mysteries-2-forgotten-kingdoms.json](./36333-mirror-mysteries-2-forgotten-kingdoms.json) |
+| Mirror Party | 190914 | [190914-mirror-party.json](./190914-mirror-party.json) |
 | Mirror Quest Dog and Cat | 368566 | [368566-mirror-quest-dog-and-cat.json](./368566-mirror-quest-dog-and-cat.json) |
 | Mirror Shoot | 193478 | [193478-mirror-shoot.json](./193478-mirror-shoot.json) |
 | Mirror Stage | 330687 | [330687-mirror-stage.json](./330687-mirror-stage.json) |
@@ -9891,6 +9894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monomals | 117017 | [117017-monomals.json](./117017-monomals.json) |
 | Monomals | 175809 | [175809-monomals.json](./175809-monomals.json) |
 | Monomino | 17483 | [17483-monomino.json](./17483-monomino.json) |
+| Monomon: The Black Sun | 190908 | [190908-monomon-the-black-sun.json](./190908-monomon-the-black-sun.json) |
 | Monomyth | 112491 | [112491-monomyth.json](./112491-monomyth.json) |
 | Mononc's Adventures | 368659 | [368659-mononcs-adventures.json](./368659-mononcs-adventures.json) |
 | Mononobe no Futo to Muttsu no Shiren | 206958 | [206958-mononobe-no-futo-to-muttsu-no-shiren.json](./206958-mononobe-no-futo-to-muttsu-no-shiren.json) |
@@ -10909,6 +10913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morok | 123972 | [123972-morok.json](./123972-morok.json) |
 | Morph | 13053 | [13053-morph.json](./13053-morph.json) |
 | Morph Animals | 266772 | [266772-morph-animals.json](./266772-morph-animals.json) |
+| Morph King | 190911 | [190911-morph-king.json](./190911-morph-king.json) |
 | Morph Space | 370153 | [370153-morph-space.json](./370153-morph-space.json) |
 | Morphatrons Alien | 198825 | [198825-morphatrons-alien.json](./198825-morphatrons-alien.json) |
 | Morphatrons Arachnid | 198826 | [198826-morphatrons-arachnid.json](./198826-morphatrons-arachnid.json) |
@@ -12575,6 +12580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushrush | 292975 | [292975-mushrush.json](./292975-mushrush.json) |
 | Mushy | 191660 | [191660-mushy.json](./191660-mushy.json) |
 | Mushy Score | 257694 | [257694-mushy-score.json](./257694-mushy-score.json) |
+| Musi-Chance | 190906 | [190906-musi-chance.json](./190906-musi-chance.json) |
 | Music 2002: Club Edition | 144600 | [144600-music-2002-club-edition.json](./144600-music-2002-club-edition.json) |
 | Music Band Manager | 82312 | [82312-music-band-manager.json](./82312-music-band-manager.json) |
 | Music Box | 309035 | [309035-music-box.json](./309035-music-box.json) |
@@ -13788,6 +13794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious Castle | 34064 | [34064-mysterious-castle.json](./34064-mysterious-castle.json) |
 | Mysterious City Vegas | 53392 | [53392-mysterious-city-vegas.json](./53392-mysterious-city-vegas.json) |
 | Mysterious Forum and 7 Rumors | 115484 | [115484-mysterious-forum-and-7-rumors.json](./115484-mysterious-forum-and-7-rumors.json) |
+| Mysterious House | 190916 | [190916-mysterious-house.json](./190916-mysterious-house.json) |
 | Mysterious insects | 82468 | [82468-mysterious-insects.json](./82468-mysterious-insects.json) |
 | Mysterious Island Remastered | 53393 | [53393-mysterious-island-remastered.json](./53393-mysterious-island-remastered.json) |
 | Mysterious Island: A Hidden Object Adventure | 195758 | [195758-mysterious-island-a-hidden-object-adventure.json](./195758-mysterious-island-a-hidden-object-adventure.json) |
