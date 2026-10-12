@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MadOut Ice Storm | 34479 | [34479-madout-ice-storm.json](./34479-madout-ice-storm.json) |
 | MadOut: Metal | 187793 | [187793-madout-metal.json](./187793-madout-metal.json) |
 | MadPug | 418257 | [418257-madpug.json](./418257-madpug.json) |
+| Madrid Noir | 181050 | [181050-madrid-noir.json](./181050-madrid-noir.json) |
 | MADrigal CD Collection | 365110 | [365110-madrigal-cd-collection.json](./365110-madrigal-cd-collection.json) |
 | Madrobot X | 31793 | [31793-madrobot-x.json](./31793-madrobot-x.json) |
 | Madruga From Mars | 252899 | [252899-madruga-from-mars.json](./252899-madruga-from-mars.json) |
@@ -11329,6 +11330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motherflakker | 132018 | [132018-motherflakker.json](./132018-motherflakker.json) |
 | Motherfunkin | 315105 | [315105-motherfunkin.json](./315105-motherfunkin.json) |
 | Mothergunship: Forge | 197579 | [197579-mothergunship-forge.json](./197579-mothergunship-forge.json) |
+| Motherland | 181041 | [181041-motherland.json](./181041-motherland.json) |
 | Motherland | 229702 | [229702-motherland.json](./229702-motherland.json) |
 | Motherless | 215604 | [215604-motherless.json](./215604-motherless.json) |
 | Motherless: Season 2 - Chapter 12 | 219629 | [219629-motherless-season-2-chapter-12.json](./219629-motherless-season-2-chapter-12.json) |
