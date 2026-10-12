@@ -2588,6 +2588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kittenrock Cats - A Hidden Object Game | 255973 | [255973-kittenrock-cats-a-hidden-object-game.json](./255973-kittenrock-cats-a-hidden-object-game.json) |
 | Kittenrock Cats - A Hidden Object Game | 287657 | [287657-kittenrock-cats-a-hidden-object-game.json](./287657-kittenrock-cats-a-hidden-object-game.json) |
 | Kittens and Cacti | 71236 | [71236-kittens-and-cacti.json](./71236-kittens-and-cacti.json) |
+| Kittens in Space | 224700 | [224700-kittens-in-space.json](./224700-kittens-in-space.json) |
 | Kittens of Fear | 155664 | [155664-kittens-of-fear.json](./155664-kittens-of-fear.json) |
 | Kittens with Cannons | 179122 | [179122-kittens-with-cannons.json](./179122-kittens-with-cannons.json) |
 | Kittens' Maze | 149950 | [149950-kittens-maze.json](./149950-kittens-maze.json) |
@@ -3651,6 +3652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krystal Kart AR | 145438 | [145438-krystal-kart-ar.json](./145438-krystal-kart-ar.json) |
 | Krystal the Adventurer | 102900 | [102900-krystal-the-adventurer.json](./102900-krystal-the-adventurer.json) |
 | Krystals of Zong | 73879 | [73879-krystals-of-zong.json](./73879-krystals-of-zong.json) |
+| Krystals with A K | 224715 | [224715-krystals-with-a-k.json](./224715-krystals-with-a-k.json) |
 | Krystine and the children in chains | 101696 | [101696-krystine-and-the-children-in-chains.json](./101696-krystine-and-the-children-in-chains.json) |
 | Kryzta | 199113 | [199113-kryzta.json](./199113-kryzta.json) |
 | Krzyżacy: The Knights of the Cross | 213312 | [213312-krzyzacy-the-knights-of-the-cross.json](./213312-krzyzacy-the-knights-of-the-cross.json) |
