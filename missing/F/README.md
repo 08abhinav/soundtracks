@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Legion Revenants: Digital Deluxe Edition | 227175 | [227175-fallen-legion-revenants-digital-deluxe-edition.json](./227175-fallen-legion-revenants-digital-deluxe-edition.json) |
 | Fallen Legion Revenants: Vanguard Edition | 139961 | [139961-fallen-legion-revenants-vanguard-edition.json](./139961-fallen-legion-revenants-vanguard-edition.json) |
 | Fallen Legion: Rise to Glory - Digital Deluxe Edition | 227176 | [227176-fallen-legion-rise-to-glory-digital-deluxe-edition.json](./227176-fallen-legion-rise-to-glory-digital-deluxe-edition.json) |
+| Fallen Legion: Rise to Glory / Fallen Legion Revenants - Deluxe Edition | 197611 | [197611-fallen-legion-rise-to-glory-fallen-legion-revenants-deluxe-edition.json](./197611-fallen-legion-rise-to-glory-fallen-legion-revenants-deluxe-edition.json) |
 | Fallen Lights | 310695 | [310695-fallen-lights.json](./310695-fallen-lights.json) |
 | Fallen London | 11285 | [11285-fallen-london.json](./11285-fallen-london.json) |
 | Fallen London: A Columbidaean Commotion | 217802 | [217802-fallen-london-a-columbidaean-commotion.json](./217802-fallen-london-a-columbidaean-commotion.json) |
