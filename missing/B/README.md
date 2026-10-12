@@ -9236,6 +9236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Challenge 2: Think Again! | 67609 | [67609-brain-challenge-2-think-again.json](./67609-brain-challenge-2-think-again.json) |
 | Brain Challenge Deluxe | 44587 | [44587-brain-challenge-deluxe.json](./44587-brain-challenge-deluxe.json) |
 | Brain Code | 321500 | [321500-brain-code.json](./321500-brain-code.json) |
+| Brain Cop | 179434 | [179434-brain-cop.json](./179434-brain-cop.json) |
 | Brain Damage | 239192 | [239192-brain-damage.json](./239192-brain-damage.json) |
 | Brain Damage | 243591 | [243591-brain-damage.json](./243591-brain-damage.json) |
 | Brain Deluxe | 68641 | [68641-brain-deluxe.json](./68641-brain-deluxe.json) |
@@ -11330,6 +11331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burgerwise the Clown | 101618 | [101618-burgerwise-the-clown.json](./101618-burgerwise-the-clown.json) |
 | Burggeist | 302962 | [302962-burggeist.json](./302962-burggeist.json) |
 | Burgie's Cozy Kitchen | 322086 | [322086-burgies-cozy-kitchen.json](./322086-burgies-cozy-kitchen.json) |
+| Burglar | 179428 | [179428-burglar.json](./179428-burglar.json) |
 | Burglar Hunt | 310541 | [310541-burglar-hunt.json](./310541-burglar-hunt.json) |
 | Burglar Inc | 290923 | [290923-burglar-inc.json](./290923-burglar-inc.json) |
 | Burglar X | 40982 | [40982-burglar-x.json](./40982-burglar-x.json) |
