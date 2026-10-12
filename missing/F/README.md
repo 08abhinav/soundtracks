@@ -2860,6 +2860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA World Cup Germany 2006 | 49300 | [49300-fifa-world-cup-germany-2006.json](./49300-fifa-world-cup-germany-2006.json) |
 | FIFA World Cup: Launch Edition | 404400 | [404400-fifa-world-cup-launch-edition.json](./404400-fifa-world-cup-launch-edition.json) |
 | FIFA: Road to World Cup 98 | 705 | [705-fifa-road-to-world-cup-98.json](./705-fifa-road-to-world-cup-98.json) |
+| Fifefer Island | 193172 | [193172-fifefer-island.json](./193172-fifefer-island.json) |
 | Fifi and the Flowertots: Fifi's Garden Party | 336176 | [336176-fifi-and-the-flowertots-fifis-garden-party.json](./336176-fifi-and-the-flowertots-fifis-garden-party.json) |
 | Fifi's Fortunes: Reclamation | 253944 | [253944-fifis-fortunes-reclamation.json](./253944-fifis-fortunes-reclamation.json) |
 | Fifo's Night | 127763 | [127763-fifos-night.json](./127763-fifos-night.json) |
