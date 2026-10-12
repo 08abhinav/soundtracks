@@ -1279,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Battle | 130258 | [130258-tank-battle.json](./130258-tank-battle.json) |
 | Tank Battle | 146765 | [146765-tank-battle.json](./146765-tank-battle.json) |
 | Tank Battle | 172044 | [172044-tank-battle.json](./172044-tank-battle.json) |
+| Tank Battle | 194901 | [194901-tank-battle.json](./194901-tank-battle.json) |
 | Tank Battle Arena Combat | 395212 | [395212-tank-battle-arena-combat.json](./395212-tank-battle-arena-combat.json) |
 | Tank Battle Heroes: Iron Warfare | 120430 | [120430-tank-battle-heroes-iron-warfare.json](./120430-tank-battle-heroes-iron-warfare.json) |
 | Tank Battle: 1944 | 34600 | [34600-tank-battle-1944.json](./34600-tank-battle-1944.json) |
@@ -1639,6 +1640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tape Us Out | 332402 | [332402-tape-us-out.json](./332402-tape-us-out.json) |
 | Tape Worm | 46891 | [46891-tape-worm.json](./46891-tape-worm.json) |
 | Tape Zero | 26921 | [26921-tape-zero.json](./26921-tape-zero.json) |
+| Tape: Unveil the Memories | 194903 | [194903-tape-unveil-the-memories.json](./194903-tape-unveil-the-memories.json) |
 | Tapeçaria | 334711 | [334711-tapecaria.json](./334711-tapecaria.json) |
 | Tapeheads | 309551 | [309551-tapeheads.json](./309551-tapeheads.json) |
 | Tapes of Entities | 370204 | [370204-tapes-of-entities.json](./370204-tapes-of-entities.json) |
@@ -3696,6 +3698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Peter Rabbit & Benjamin Bunny | 206209 | [206209-the-adventures-of-peter-rabbit-and-benjamin-bunny.json](./206209-the-adventures-of-peter-rabbit-and-benjamin-bunny.json) |
 | The Adventures of Pinocchio | 206210 | [206210-the-adventures-of-pinocchio.json](./206210-the-adventures-of-pinocchio.json) |
 | The Adventures of Pinocchio: Activity Center | 206211 | [206211-the-adventures-of-pinocchio-activity-center.json](./206211-the-adventures-of-pinocchio-activity-center.json) |
+| The Adventures of Poppe | 194906 | [194906-the-adventures-of-poppe.json](./194906-the-adventures-of-poppe.json) |
 | The Adventures of R.Sole: Nothing, Nowhere & Not at the Same Time | 390692 | [390692-the-adventures-of-r-sole-nothing-nowhere-and-not-at-the-same-time.json](./390692-the-adventures-of-r-sole-nothing-nowhere-and-not-at-the-same-time.json) |
 | The Adventures of Rad Gravity | 8777 | [8777-the-adventures-of-rad-gravity.json](./8777-the-adventures-of-rad-gravity.json) |
 | The Adventures of Reynaldo | 146193 | [146193-the-adventures-of-reynaldo.json](./146193-the-adventures-of-reynaldo.json) |
@@ -6922,6 +6925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hollow Lighthouse | 358329 | [358329-the-hollow-lighthouse.json](./358329-the-hollow-lighthouse.json) |
 | The Hollow Road: Prologue | 399769 | [399769-the-hollow-road-prologue.json](./399769-the-hollow-road-prologue.json) |
 | The Holoween collection | 206123 | [206123-the-holoween-collection.json](./206123-the-holoween-collection.json) |
+| The Holy Chalice | 194890 | [194890-the-holy-chalice.json](./194890-the-holy-chalice.json) |
 | The Holy Silence | 169746 | [169746-the-holy-silence.json](./169746-the-holy-silence.json) |
 | The Home County | 359924 | [359924-the-home-county.json](./359924-the-home-county.json) |
 | The Homecoming Exhibition | 393019 | [393019-the-homecoming-exhibition.json](./393019-the-homecoming-exhibition.json) |
@@ -14959,6 +14963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tin Tandem | 152396 | [152396-tin-tandem.json](./152396-tin-tandem.json) |
 | Tin Toy | 80787 | [80787-tin-toy.json](./80787-tin-toy.json) |
 | Tin-Heart: The Game | 104243 | [104243-tin-heart-the-game.json](./104243-tin-heart-the-game.json) |
+| Tina wa Seirei Tsukai | 194925 | [194925-tina-wa-seirei-tsukai.json](./194925-tina-wa-seirei-tsukai.json) |
 | Tina: Swordswoman of the Scarlet Prison | 115490 | [115490-tina-swordswoman-of-the-scarlet-prison.json](./115490-tina-swordswoman-of-the-scarlet-prison.json) |
 | Tina's Toy Factory | 59900 | [59900-tinas-toy-factory.json](./59900-tinas-toy-factory.json) |
 | Tinboy | 34507 | [34507-tinboy.json](./34507-tinboy.json) |
@@ -15779,6 +15784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toki Island | 125890 | [125890-toki-island.json](./125890-toki-island.json) |
 | Toki no Ihoujin | 408767 | [408767-toki-no-ihoujin.json](./408767-toki-no-ihoujin.json) |
 | Toki no Tabibito: Time Stranger | 48879 | [48879-toki-no-tabibito-time-stranger.json](./48879-toki-no-tabibito-time-stranger.json) |
+| Toki Tori | 194909 | [194909-toki-tori.json](./194909-toki-tori.json) |
 | Toki Tori 2 | 2351 | [2351-toki-tori-2.json](./2351-toki-tori-2.json) |
 | Toki Tori 2+ | 16282 | [16282-toki-tori-2.json](./16282-toki-tori-2.json) |
 | Toki Tori Collection | 122202 | [122202-toki-tori-collection.json](./122202-toki-tori-collection.json) |
@@ -20474,6 +20480,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuki no Kanata de Aimashou: Sweet Summer Rainbow | 150038 | [150038-tsuki-no-kanata-de-aimashou-sweet-summer-rainbow.json](./150038-tsuki-no-kanata-de-aimashou-sweet-summer-rainbow.json) |
 | Tsuki no Namida | 277953 | [277953-tsuki-no-namida.json](./277953-tsuki-no-namida.json) |
 | Tsuki no Shoujo: Bishoujo Gakuen 2 | 194622 | [194622-tsuki-no-shoujo-bishoujo-gakuen-2.json](./194622-tsuki-no-shoujo-bishoujo-gakuen-2.json) |
+| Tsuki to Taiyou no Raksharuki | 194926 | [194926-tsuki-to-taiyou-no-raksharuki.json](./194926-tsuki-to-taiyou-no-raksharuki.json) |
+| Tsuki to Taiyou no Raksharuki 2: Sabaku no Kuni no Ohime-sama | 194927 | [194927-tsuki-to-taiyou-no-raksharuki-2-sabaku-no-kuni-no-ohime-sama.json](./194927-tsuki-to-taiyou-no-raksharuki-2-sabaku-no-kuni-no-ohime-sama.json) |
+| Tsuki to Taiyou no Raksharuki: Dancers Harem | 194928 | [194928-tsuki-to-taiyou-no-raksharuki-dancers-harem.json](./194928-tsuki-to-taiyou-no-raksharuki-dancers-harem.json) |
 | Tsuki wa Kirisaku: Tantei Sagara Kyouichirou | 215191 | [215191-tsuki-wa-kirisaku-tantei-sagara-kyouichirou.json](./215191-tsuki-wa-kirisaku-tantei-sagara-kyouichirou.json) |
 | Tsukiakari no Kan kara no Dasshutsu | 251607 | [251607-tsukiakari-no-kan-kara-no-dasshutsu.json](./251607-tsukiakari-no-kan-kara-no-dasshutsu.json) |
 | Tsukibito | 59402 | [59402-tsukibito.json](./59402-tsukibito.json) |
