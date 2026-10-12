@@ -2242,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bats & Terry | 48609 | [48609-bats-and-terry.json](./48609-bats-and-terry.json) |
 | Batsu! | 160215 | [160215-batsu.json](./160215-batsu.json) |
 | Batsugun | 292117 | [292117-batsugun.json](./292117-batsugun.json) |
+| Batsumaru | 191511 | [191511-batsumaru.json](./191511-batsumaru.json) |
 | Batta Batta: Kampen mod Ultra | 127974 | [127974-batta-batta-kampen-mod-ultra.json](./127974-batta-batta-kampen-mod-ultra.json) |
 | Batta Batta: Kejserens Gave | 129773 | [129773-batta-batta-kejserens-gave.json](./129773-batta-batta-kejserens-gave.json) |
 | Batta Batta: Skurkestreger | 129777 | [129777-batta-batta-skurkestreger.json](./129777-batta-batta-skurkestreger.json) |
@@ -6577,6 +6578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloat | 138620 | [138620-bloat.json](./138620-bloat.json) |
 | Blob | 14319 | [14319-blob.json](./14319-blob.json) |
 | Blob Attack | 338812 | [338812-blob-attack.json](./338812-blob-attack.json) |
+| Blob Boy | 191518 | [191518-blob-boy.json](./191518-blob-boy.json) |
 | Blob Command | 265668 | [265668-blob-command.json](./265668-blob-command.json) |
 | Blob Command: New Attack | 265669 | [265669-blob-command-new-attack.json](./265669-blob-command-new-attack.json) |
 | Blob Dash | 205619 | [205619-blob-dash.json](./205619-blob-dash.json) |
