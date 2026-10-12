@@ -237,8 +237,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake: Alkaline Jam | 196802 | [196802-quake-alkaline-jam.json](./196802-quake-alkaline-jam.json) |
 | Quake: Arcade Tournament Edition | 405632 | [405632-quake-arcade-tournament-edition.json](./405632-quake-arcade-tournament-edition.json) |
 | Quake: Autumn Haunting | 202931 | [202931-quake-autumn-haunting.json](./202931-quake-autumn-haunting.json) |
+| Quake: Bestial Devastation | 196503 | [196503-quake-bestial-devastation.json](./196503-quake-bestial-devastation.json) |
 | Quake: Carved in Flesh | 196659 | [196659-quake-carved-in-flesh.json](./196659-quake-carved-in-flesh.json) |
+| Quake: Cassandra Calamity | 196520 | [196520-quake-cassandra-calamity.json](./196520-quake-cassandra-calamity.json) |
 | Quake: Contract Revoked | 280187 | [280187-quake-contract-revoked.json](./280187-quake-contract-revoked.json) |
+| Quake: Coppertone Summer Jam | 196500 | [196500-quake-coppertone-summer-jam.json](./196500-quake-coppertone-summer-jam.json) |
 | Quake: Dawn of the Machine | 412530 | [412530-quake-dawn-of-the-machine.json](./412530-quake-dawn-of-the-machine.json) |
 | Quake: Death's Dominion | 202932 | [202932-quake-deaths-dominion.json](./202932-quake-deaths-dominion.json) |
 | Quake: Doom Tintin Jam | 196646 | [196646-quake-doom-tintin-jam.json](./196646-quake-doom-tintin-jam.json) |
@@ -253,12 +256,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake: Func Jam 7 | 196624 | [196624-quake-func-jam-7.json](./196624-quake-func-jam-7.json) |
 | Quake: Func Jam 8 | 196628 | [196628-quake-func-jam-8.json](./196628-quake-func-jam-8.json) |
 | Quake: Func Jam X | 196630 | [196630-quake-func-jam-x.json](./196630-quake-func-jam-x.json) |
+| Quake: Imhotep's Legacy | 196501 | [196501-quake-imhoteps-legacy.json](./196501-quake-imhoteps-legacy.json) |
 | Quake: January Jump Jam | 202930 | [202930-quake-january-jump-jam.json](./202930-quake-january-jump-jam.json) |
 | Quake: January Jump Jam 2 | 202928 | [202928-quake-january-jump-jam-2.json](./202928-quake-january-jump-jam-2.json) |
+| Quake: Marcher Fortress | 196538 | [196538-quake-marcher-fortress.json](./196538-quake-marcher-fortress.json) |
 | Quake: Mission Pack 1 - Scourge of Armagon | 15760 | [15760-quake-mission-pack-1-scourge-of-armagon.json](./15760-quake-mission-pack-1-scourge-of-armagon.json) |
 | Quake: Mission Pack 2 - Dissolution of Eternity | 15759 | [15759-quake-mission-pack-2-dissolution-of-eternity.json](./15759-quake-mission-pack-2-dissolution-of-eternity.json) |
 | Quake: Nyarlathotep | 196657 | [196657-quake-nyarlathotep.json](./196657-quake-nyarlathotep.json) |
 | Quake: Operation Urth Majik | 196662 | [196662-quake-operation-urth-majik.json](./196662-quake-operation-urth-majik.json) |
+| Quake: Penumbra of Domination | 196519 | [196519-quake-penumbra-of-domination.json](./196519-quake-penumbra-of-domination.json) |
 | Quake: Prelude to Apocalypse & Mordrigor's Demise | 196580 | [196580-quake-prelude-to-apocalypse-and-mordrigors-demise.json](./196580-quake-prelude-to-apocalypse-and-mordrigors-demise.json) |
 | Quake: Rapture | 196653 | [196653-quake-rapture.json](./196653-quake-rapture.json) |
 | Quake: Raven Keep | 142275 | [142275-quake-raven-keep.json](./142275-quake-raven-keep.json) |
