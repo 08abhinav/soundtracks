@@ -8264,7 +8264,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom 3: VR Edition | 144524 | [144524-doom-3-vr-edition.json](./144524-doom-3-vr-edition.json) |
 | Doom 4 For Doom | 201182 | [201182-doom-4-for-doom.json](./201182-doom-4-for-doom.json) |
 | Doom 64 | 224522 | [224522-doom-64.json](./224522-doom-64.json) |
-| Doom 64 | 3471 | [3471-doom-64.json](./3471-doom-64.json) |
 | Doom 64 for Doom II | 201106 | [201106-doom-64-for-doom-ii.json](./201106-doom-64-for-doom-ii.json) |
 | Doom 64 for Dreamcast | 346123 | [346123-doom-64-for-dreamcast.json](./346123-doom-64-for-dreamcast.json) |
 | Doom 64 Reloaded | 346668 | [346668-doom-64-reloaded.json](./346668-doom-64-reloaded.json) |
