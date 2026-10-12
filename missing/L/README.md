@@ -4885,6 +4885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LootMage | 366106 | [366106-lootmage.json](./366106-lootmage.json) |
 | LootOnline | 333592 | [333592-lootonline.json](./333592-lootonline.json) |
 | LootSlime | 397710 | [397710-lootslime.json](./397710-lootslime.json) |
+| Lootun | 201507 | [201507-lootun.json](./201507-lootun.json) |
 | LooWarVR | 31838 | [31838-loowarvr.json](./31838-loowarvr.json) |
 | Looxi | 343248 | [343248-looxi.json](./343248-looxi.json) |
 | Lopp | 81648 | [81648-lopp.json](./81648-lopp.json) |
