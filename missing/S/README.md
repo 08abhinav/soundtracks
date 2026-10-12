@@ -4785,6 +4785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark Coin Party | 337630 | [337630-shark-coin-party.json](./337630-shark-coin-party.json) |
 | Shark Copter vs. Zombie Dancers | 147976 | [147976-shark-copter-vs-zombie-dancers.json](./147976-shark-copter-vs-zombie-dancers.json) |
 | Shark Dating Simulator XL | 43097 | [43097-shark-dating-simulator-xl.json](./43097-shark-dating-simulator-xl.json) |
+| Shark Game | 220256 | [220256-shark-game.json](./220256-shark-game.json) |
 | Shark Go | 406781 | [406781-shark-go.json](./406781-shark-go.json) |
 | Shark Hunt | 346097 | [346097-shark-hunt.json](./346097-shark-hunt.json) |
 | Shark Hunter | 41572 | [41572-shark-hunter.json](./41572-shark-hunter.json) |
@@ -15668,6 +15669,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Millenium Falcon Challenge | 198922 | [198922-star-wars-millenium-falcon-challenge.json](./198922-star-wars-millenium-falcon-challenge.json) |
 | Star Wars: Movie Battles II | 271416 | [271416-star-wars-movie-battles-ii.json](./271416-star-wars-movie-battles-ii.json) |
 | Star Wars: Movie Duels | 355148 | [355148-star-wars-movie-duels.json](./355148-star-wars-movie-duels.json) |
+| Star Wars: Original Trilogy | 220264 | [220264-star-wars-original-trilogy.json](./220264-star-wars-original-trilogy.json) |
+| Star Wars: Original Trilogy Game | 220266 | [220266-star-wars-original-trilogy-game.json](./220266-star-wars-original-trilogy-game.json) |
 | Star Wars: Outpost | 75087 | [75087-star-wars-outpost.json](./75087-star-wars-outpost.json) |
 | Star Wars: Pit Droids | 13483 | [13483-star-wars-pit-droids.json](./13483-star-wars-pit-droids.json) |
 | Star Wars: Project Stardust | 137006 | [137006-star-wars-project-stardust.json](./137006-star-wars-project-stardust.json) |
@@ -15678,7 +15681,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Rebel Assault II - The Hidden Empire | 300715 | [300715-star-wars-rebel-assault-ii-the-hidden-empire.json](./300715-star-wars-rebel-assault-ii-the-hidden-empire.json) |
 | Star Wars: Rebel Forces | 199016 | [199016-star-wars-rebel-forces.json](./199016-star-wars-rebel-forces.json) |
 | Star Wars: Rebel Forces Laser Game | 198925 | [198925-star-wars-rebel-forces-laser-game.json](./198925-star-wars-rebel-forces-laser-game.json) |
+| Star Wars: Republic Squadron | 220265 | [220265-star-wars-republic-squadron.json](./220265-star-wars-republic-squadron.json) |
 | Star Wars: Return of the Jedi - Death Star Battle | 10204 | [10204-star-wars-return-of-the-jedi-death-star-battle.json](./10204-star-wars-return-of-the-jedi-death-star-battle.json) |
+| Star Wars: Revenge of the Sith | 220263 | [220263-star-wars-revenge-of-the-sith.json](./220263-star-wars-revenge-of-the-sith.json) |
 | Star Wars: Rogue Leaders - Rogue Squadron Wii | 261815 | [261815-star-wars-rogue-leaders-rogue-squadron-wii.json](./261815-star-wars-rogue-leaders-rogue-squadron-wii.json) |
 | Star Wars: Saga Edition: Lightsaber Battle Game | 255561 | [255561-star-wars-saga-edition-lightsaber-battle-game.json](./255561-star-wars-saga-edition-lightsaber-battle-game.json) |
 | Star Wars: Squadrons | 134706 | [134706-star-wars-squadrons.json](./134706-star-wars-squadrons.json) |
@@ -21634,6 +21639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Ruler The Great War Remastered DLC | 277931 | [277931-supreme-ruler-the-great-war-remastered-dlc.json](./277931-supreme-ruler-the-great-war-remastered-dlc.json) |
 | Supreme Ruler Ultimate: Trump Rising | 171958 | [171958-supreme-ruler-ultimate-trump-rising.json](./171958-supreme-ruler-ultimate-trump-rising.json) |
 | Supreme Snowboarding | 9277 | [9277-supreme-snowboarding.json](./9277-supreme-snowboarding.json) |
+| Supreme Stick Warriors | 220246 | [220246-supreme-stick-warriors.json](./220246-supreme-stick-warriors.json) |
 | Supreme Summoner | 257101 | [257101-supreme-summoner.json](./257101-supreme-summoner.json) |
 | Supreme Warrior | 298560 | [298560-supreme-warrior.json](./298560-supreme-warrior.json) |
 | Supreme Warrior | 4291 | [4291-supreme-warrior.json](./4291-supreme-warrior.json) |
