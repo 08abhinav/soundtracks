@@ -5026,6 +5026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shellguard: Starbound Expansion Remastered | 357316 | [357316-shellguard-starbound-expansion-remastered.json](./357316-shellguard-starbound-expansion-remastered.json) |
 | Shellie's Secret | 378169 | [378169-shellies-secret.json](./378169-shellies-secret.json) |
 | ShellPieces | 356894 | [356894-shellpieces.json](./356894-shellpieces.json) |
+| Shellrazer | 214670 | [214670-shellrazer.json](./214670-shellrazer.json) |
 | Shells Delivery | 267918 | [267918-shells-delivery.json](./267918-shells-delivery.json) |
 | Shells Delivery Deluxe | 267917 | [267917-shells-delivery-deluxe.json](./267917-shells-delivery-deluxe.json) |
 | Shells MMCCCXXXIV | 385291 | [385291-shells-mmcccxxxiv.json](./385291-shells-mmcccxxxiv.json) |
@@ -6290,6 +6291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Si Kancil : The Adventurous Mouse Deer | 31207 | [31207-si-kancil-the-adventurous-mouse-deer.json](./31207-si-kancil-the-adventurous-mouse-deer.json) |
 | Si-Ki | 397848 | [397848-si-ki.json](./397848-si-ki.json) |
 | Siam Twinstick | 111714 | [111714-siam-twinstick.json](./111714-siam-twinstick.json) |
+| Siames: Puzzle Heritage Game | 214703 | [214703-siames-puzzle-heritage-game.json](./214703-siames-puzzle-heritage-game.json) |
 | Siana Tales | 219607 | [219607-siana-tales.json](./219607-siana-tales.json) |
 | Siaty's Return | 361883 | [361883-siatys-return.json](./361883-siatys-return.json) |
 | Sibal Wonsung-iui Moheom | 59885 | [59885-sibal-wonsung-iui-moheom.json](./59885-sibal-wonsung-iui-moheom.json) |
@@ -21995,6 +21997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor: Spark | 369689 | [369689-survivor-spark.json](./369689-survivor-spark.json) |
 | Survivor: Stay in the Light | 232980 | [232980-survivor-stay-in-the-light.json](./232980-survivor-stay-in-the-light.json) |
 | Survivor! | 221149 | [221149-survivor.json](./221149-survivor.json) |
+| Survivor.io | 214673 | [214673-survivor-io.json](./214673-survivor-io.json) |
 | Survivor's Dawn | 319940 | [319940-survivors-dawn.json](./319940-survivors-dawn.json) |
 | Survivor's Day | 294947 | [294947-survivors-day.json](./294947-survivors-day.json) |
 | Survivor's End | 250451 | [250451-survivors-end.json](./250451-survivors-end.json) |
@@ -22028,6 +22031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Battle Rambunctiously | 267685 | [267685-sushi-battle-rambunctiously.json](./267685-sushi-battle-rambunctiously.json) |
 | Sushi Belt | 181226 | [181226-sushi-belt.json](./181226-sushi-belt.json) |
 | Sushi Ben VR | 152219 | [152219-sushi-ben-vr.json](./152219-sushi-ben-vr.json) |
+| Sushi Break: Head to Head | 214697 | [214697-sushi-break-head-to-head.json](./214697-sushi-break-head-to-head.json) |
 | Sushi Cat | 87214 | [87214-sushi-cat.json](./87214-sushi-cat.json) |
 | Sushi Cat 2 | 323934 | [323934-sushi-cat-2.json](./323934-sushi-cat-2.json) |
 | Sushi Cat Legacy Collection | 377246 | [377246-sushi-cat-legacy-collection.json](./377246-sushi-cat-legacy-collection.json) |
