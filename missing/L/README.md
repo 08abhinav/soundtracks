@@ -4309,6 +4309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lobster Bay | 42145 | [42145-lobster-bay.json](./42145-lobster-bay.json) |
 | Lobster Empire | 52769 | [52769-lobster-empire.json](./52769-lobster-empire.json) |
 | Lobster Game | 190469 | [190469-lobster-game.json](./190469-lobster-game.json) |
+| Lobsterbotomy | 182137 | [182137-lobsterbotomy.json](./182137-lobsterbotomy.json) |
 | Loca Deserta: Odesa | 274925 | [274925-loca-deserta-odesa.json](./274925-loca-deserta-odesa.json) |
 | Loca-Love My Commuting Crush | 120792 | [120792-loca-love-my-commuting-crush.json](./120792-loca-love-my-commuting-crush.json) |
 | Loca-Love My Cute Roommate | 110774 | [110774-loca-love-my-cute-roommate.json](./110774-loca-love-my-cute-roommate.json) |
@@ -4637,6 +4638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Arts | 132577 | [132577-lonely-arts.json](./132577-lonely-arts.json) |
 | Lonely Astronaut | 76303 | [76303-lonely-astronaut.json](./76303-lonely-astronaut.json) |
 | Lonely Catgirl is the Purrfect Pussy | 156629 | [156629-lonely-catgirl-is-the-purrfect-pussy.json](./156629-lonely-catgirl-is-the-purrfect-pussy.json) |
+| Lonely Chess | 181628 | [181628-lonely-chess.json](./181628-lonely-chess.json) |
 | Lonely Christmas | 326140 | [326140-lonely-christmas.json](./326140-lonely-christmas.json) |
 | Lonely Guardian | 374966 | [374966-lonely-guardian.json](./374966-lonely-guardian.json) |
 | Lonely Hero & Non-Fight Party | 191677 | [191677-lonely-hero-and-non-fight-party.json](./191677-lonely-hero-and-non-fight-party.json) |
@@ -5245,6 +5247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in the Amazon | 296057 | [296057-lost-in-the-amazon.json](./296057-lost-in-the-amazon.json) |
 | Lost in the Backrooms | 221756 | [221756-lost-in-the-backrooms.json](./221756-lost-in-the-backrooms.json) |
 | Lost in the Backrooms: Day 100 | 375805 | [375805-lost-in-the-backrooms-day-100.json](./375805-lost-in-the-backrooms-day-100.json) |
+| Lost in the Dance | 182155 | [182155-lost-in-the-dance.json](./182155-lost-in-the-dance.json) |
 | Lost in the Dark Woods | 313997 | [313997-lost-in-the-dark-woods.json](./313997-lost-in-the-dark-woods.json) |
 | Lost in the Dungeon | 77774 | [77774-lost-in-the-dungeon.json](./77774-lost-in-the-dungeon.json) |
 | Lost in the Fire | 383142 | [383142-lost-in-the-fire.json](./383142-lost-in-the-fire.json) |
