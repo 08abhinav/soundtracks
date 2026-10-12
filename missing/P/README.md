@@ -7286,6 +7286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Royal | 313116 | [313116-pokemon-royal.json](./313116-pokemon-royal.json) |
 | Pokémon Royal Sapphire | 361219 | [361219-pokemon-royal-sapphire.json](./361219-pokemon-royal-sapphire.json) |
 | Pokémon Royal Version | 172758 | [172758-pokemon-royal-version.json](./172758-pokemon-royal-version.json) |
+| Pokémon RP | 200948 | [200948-pokemon-rp.json](./200948-pokemon-rp.json) |
 | Pokémon Ruby Version | 355535 | [355535-pokemon-ruby-version.json](./355535-pokemon-ruby-version.json) |
 | Pokémon Ruckus | 360176 | [360176-pokemon-ruckus.json](./360176-pokemon-ruckus.json) |
 | Pokémon Rumble Blast | 4561 | [4561-pokemon-rumble-blast.json](./4561-pokemon-rumble-blast.json) |
@@ -9135,6 +9136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Threat | 173048 | [173048-primal-threat.json](./173048-primal-threat.json) |
 | Primals.io | 80884 | [80884-primals-io.json](./80884-primals-io.json) |
 | Primarch | 238939 | [238939-primarch.json](./238939-primarch.json) |
+| Primary | 200922 | [200922-primary.json](./200922-primary.json) |
 | Primate: Father of Universe | 215329 | [215329-primate-father-of-universe.json](./215329-primate-father-of-universe.json) |
 | Primavera Lihbor | 295538 | [295538-primavera-lihbor.json](./295538-primavera-lihbor.json) |
 | Prime | 291783 | [291783-prime.json](./291783-prime.json) |
