@@ -1897,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schedule Store Simulator | 406767 | [406767-schedule-store-simulator.json](./406767-schedule-store-simulator.json) |
 | Schemata | 90059 | [90059-schemata.json](./90059-schemata.json) |
 | Schematic | 152499 | [152499-schematic.json](./152499-schematic.json) |
+| Scheme!!! Spica, Chinatsu, and Haruka's Enchanting, Marvelous, and Quite Frankly Elaborate Quest to Save Their Cute Girlfriend! | 202566 | [202566-scheme-spica-chinatsu-and-harukas-enchanting-marvelous-and-quite-frankly-elaborate-quest-to-save-their-cute-girlfriend.json](./202566-scheme-spica-chinatsu-and-harukas-enchanting-marvelous-and-quite-frankly-elaborate-quest-to-save-their-cute-girlfriend.json) |
 | Scheming Through the Zombie Apocalypse: Episode 2 - Caged | 110542 | [110542-scheming-through-the-zombie-apocalypse-episode-2-caged.json](./110542-scheming-through-the-zombie-apocalypse-episode-2-caged.json) |
 | Schiffbruch | 76251 | [76251-schiffbruch.json](./76251-schiffbruch.json) |
 | SCHiM | 140799 | [140799-schim.json](./140799-schim.json) |
@@ -14844,6 +14845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Head Zombies | 65796 | [65796-square-head-zombies.json](./65796-square-head-zombies.json) |
 | Square Head Zombies 2 - FPS Game | 99638 | [99638-square-head-zombies-2-fps-game.json](./99638-square-head-zombies-2-fps-game.json) |
 | Square It: An Electronic Game of Capture the Boxes | 217928 | [217928-square-it-an-electronic-game-of-capture-the-boxes.json](./217928-square-it-an-electronic-game-of-capture-the-boxes.json) |
+| Square Journey | 202557 | [202557-square-journey.json](./202557-square-journey.json) |
 | Square Jump | 106377 | [106377-square-jump.json](./106377-square-jump.json) |
 | Square Logic | 269206 | [269206-square-logic.json](./269206-square-logic.json) |
 | Square Love | 359554 | [359554-square-love.json](./359554-square-love.json) |
@@ -15957,6 +15959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardust | 12774 | [12774-stardust.json](./12774-stardust.json) |
 | Stardust | 318797 | [318797-stardust.json](./318797-stardust.json) |
 | Stardust | 372069 | [372069-stardust.json](./372069-stardust.json) |
+| Stardust Arena | 202582 | [202582-stardust-arena.json](./202582-stardust-arena.json) |
 | Stardust Demon | 291687 | [291687-stardust-demon.json](./291687-stardust-demon.json) |
 | Stardust Escape | 373158 | [373158-stardust-escape.json](./373158-stardust-escape.json) |
 | Stardust League | 222391 | [222391-stardust-league.json](./222391-stardust-league.json) |
