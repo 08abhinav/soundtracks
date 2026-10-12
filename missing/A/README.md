@@ -10135,6 +10135,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ata: Extracts from the American Civil War | 322053 | [322053-ata-extracts-from-the-american-civil-war.json](./322053-ata-extracts-from-the-american-civil-war.json) |
 | ATAC: Advanced Tactical Air Command | 14488 | [14488-atac-advanced-tactical-air-command.json](./14488-atac-advanced-tactical-air-command.json) |
 | ATAC: The Secret War Against Drugs | 14489 | [14489-atac-the-secret-war-against-drugs.json](./14489-atac-the-secret-war-against-drugs.json) |
+| Atai no Gensoukyou | 207035 | [207035-atai-no-gensoukyou.json](./207035-atai-no-gensoukyou.json) |
+| Atai no Gensoukyou Shunkashuutou | 207039 | [207039-atai-no-gensoukyou-shunkashuutou.json](./207039-atai-no-gensoukyou-shunkashuutou.json) |
 | Atajrubah | 36426 | [36426-atajrubah.json](./36426-atajrubah.json) |
 | Atak | 226226 | [226226-atak.json](./226226-atak.json) |
 | Atama | 207724 | [207724-atama.json](./207724-atama.json) |
@@ -11088,6 +11090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avoid the Rain 2 | 231836 | [231836-avoid-the-rain-2.json](./231836-avoid-the-rain-2.json) |
 | Avoid the Threats | 359439 | [359439-avoid-the-threats.json](./359439-avoid-the-threats.json) |
 | Avoid Them: Breakthrough Gaming Arcade | 146250 | [146250-avoid-them-breakthrough-gaming-arcade.json](./146250-avoid-them-breakthrough-gaming-arcade.json) |
+| Avoid Them: Breakthrough Gaming Arcade - Challenge Mode Edition | 207050 | [207050-avoid-them-breakthrough-gaming-arcade-challenge-mode-edition.json](./207050-avoid-them-breakthrough-gaming-arcade-challenge-mode-edition.json) |
 | Avoid: Sensory Overload | 17169 | [17169-avoid-sensory-overload.json](./17169-avoid-sensory-overload.json) |
 | Avoider | 57056 | [57056-avoider.json](./57056-avoider.json) |
 | Avoidon | 126435 | [126435-avoidon.json](./126435-avoidon.json) |
