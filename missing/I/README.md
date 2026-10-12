@@ -2264,6 +2264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industry Giant II | 16947 | [16947-industry-giant-ii.json](./16947-industry-giant-ii.json) |
 | Industry Giant: Expansion Set | 100137 | [100137-industry-giant-expansion-set.json](./100137-industry-giant-expansion-set.json) |
 | Industry Idle | 148408 | [148408-industry-idle.json](./148408-industry-idle.json) |
+| Industry Mania | 181097 | [181097-industry-mania.json](./181097-industry-mania.json) |
 | Industry Transporters | 35102 | [35102-industry-transporters.json](./35102-industry-transporters.json) |
 | IndustryPlayer | 79239 | [79239-industryplayer.json](./79239-industryplayer.json) |
 | Indy 4 | 18583 | [18583-indy-4.json](./18583-indy-4.json) |
@@ -2989,6 +2990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside the Crow's Nest | 353383 | [353383-inside-the-crows-nest.json](./353383-inside-the-crows-nest.json) |
 | Inside the Cubes | 123504 | [123504-inside-the-cubes.json](./123504-inside-the-cubes.json) |
 | Inside the Facility | 57511 | [57511-inside-the-facility.json](./57511-inside-the-facility.json) |
+| Inside the Forest | 181070 | [181070-inside-the-forest.json](./181070-inside-the-forest.json) |
 | Inside the Gear | 10437 | [10437-inside-the-gear.json](./10437-inside-the-gear.json) |
 | Inside the Machine | 290844 | [290844-inside-the-machine.json](./290844-inside-the-machine.json) |
 | Inside the Memories | 152862 | [152862-inside-the-memories.json](./152862-inside-the-memories.json) |
