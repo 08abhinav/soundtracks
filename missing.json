@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T18:04:56.403Z",
-  "total_missing": 202803,
+  "generated_at": "2026-10-12T18:18:52.465Z",
+  "total_missing": 202853,
   "games": [
     {
       "igdb_id": 191680,
@@ -888813,6 +888813,11 @@
       "file": "missing/T/189496-the-tower-of-tigerqiuqiu-2-1952-m4.json"
     },
     {
+      "igdb_id": 189490,
+      "game_name": "The Tower of TigerQiuQiu 2: 1952 M5",
+      "file": "missing/T/189490-the-tower-of-tigerqiuqiu-2-1952-m5.json"
+    },
+    {
       "igdb_id": 189494,
       "game_name": "The Tower of TigerQiuQiu 2: 1952 M6",
       "file": "missing/T/189494-the-tower-of-tigerqiuqiu-2-1952-m6.json"
@@ -889056,6 +889061,11 @@
       "igdb_id": 189526,
       "game_name": "The Tower of TigerQiuQiu 2: Space Force M1",
       "file": "missing/T/189526-the-tower-of-tigerqiuqiu-2-space-force-m1.json"
+    },
+    {
+      "igdb_id": 189491,
+      "game_name": "The Tower of TigerQiuQiu 2: Space Force M2",
+      "file": "missing/T/189491-the-tower-of-tigerqiuqiu-2-space-force-m2.json"
     },
     {
       "igdb_id": 189501,
@@ -900988,6 +900998,11 @@
       "file": "missing/T/164326-tiger-soldier-i-mp005.json"
     },
     {
+      "igdb_id": 189403,
+      "game_name": "Tiger Soldier I: MP006",
+      "file": "missing/T/189403-tiger-soldier-i-mp006.json"
+    },
+    {
       "igdb_id": 173707,
       "game_name": "Tiger Soldier I: MP007",
       "file": "missing/T/173707-tiger-soldier-i-mp007.json"
@@ -901038,6 +901053,11 @@
       "file": "missing/T/173683-tiger-soldier-i-mp017.json"
     },
     {
+      "igdb_id": 189401,
+      "game_name": "Tiger Soldier I: MP018",
+      "file": "missing/T/189401-tiger-soldier-i-mp018.json"
+    },
+    {
       "igdb_id": 173684,
       "game_name": "Tiger Soldier I: MP019",
       "file": "missing/T/173684-tiger-soldier-i-mp019.json"
@@ -901046,6 +901066,16 @@
       "igdb_id": 173693,
       "game_name": "Tiger Soldier I: MP020",
       "file": "missing/T/173693-tiger-soldier-i-mp020.json"
+    },
+    {
+      "igdb_id": 189405,
+      "game_name": "Tiger Soldier I: MP021",
+      "file": "missing/T/189405-tiger-soldier-i-mp021.json"
+    },
+    {
+      "igdb_id": 189398,
+      "game_name": "Tiger Soldier I: MP022",
+      "file": "missing/T/189398-tiger-soldier-i-mp022.json"
     },
     {
       "igdb_id": 173712,
@@ -901083,6 +901113,21 @@
       "file": "missing/T/189443-tiger-soldier-i-mp031.json"
     },
     {
+      "igdb_id": 189402,
+      "game_name": "Tiger Soldier I: MP032",
+      "file": "missing/T/189402-tiger-soldier-i-mp032.json"
+    },
+    {
+      "igdb_id": 189411,
+      "game_name": "Tiger Soldier I: MP033",
+      "file": "missing/T/189411-tiger-soldier-i-mp033.json"
+    },
+    {
+      "igdb_id": 189416,
+      "game_name": "Tiger Soldier I: MP034",
+      "file": "missing/T/189416-tiger-soldier-i-mp034.json"
+    },
+    {
       "igdb_id": 189439,
       "game_name": "Tiger Soldier I: MP035",
       "file": "missing/T/189439-tiger-soldier-i-mp035.json"
@@ -901118,9 +901163,19 @@
       "file": "missing/T/173696-tiger-soldier-i-mp042.json"
     },
     {
+      "igdb_id": 189420,
+      "game_name": "Tiger Soldier I: MP043",
+      "file": "missing/T/189420-tiger-soldier-i-mp043.json"
+    },
+    {
       "igdb_id": 173705,
       "game_name": "Tiger Soldier I: MP044",
       "file": "missing/T/173705-tiger-soldier-i-mp044.json"
+    },
+    {
+      "igdb_id": 189412,
+      "game_name": "Tiger Soldier I: MP045",
+      "file": "missing/T/189412-tiger-soldier-i-mp045.json"
     },
     {
       "igdb_id": 189438,
@@ -901133,14 +901188,29 @@
       "file": "missing/T/173708-tiger-soldier-i-mp047.json"
     },
     {
+      "igdb_id": 189410,
+      "game_name": "Tiger Soldier I: MP048",
+      "file": "missing/T/189410-tiger-soldier-i-mp048.json"
+    },
+    {
       "igdb_id": 173706,
       "game_name": "Tiger Soldier I: MP049",
       "file": "missing/T/173706-tiger-soldier-i-mp049.json"
     },
     {
+      "igdb_id": 189404,
+      "game_name": "Tiger Soldier I: MP050",
+      "file": "missing/T/189404-tiger-soldier-i-mp050.json"
+    },
+    {
       "igdb_id": 173687,
       "game_name": "Tiger Soldier I: MP051",
       "file": "missing/T/173687-tiger-soldier-i-mp051.json"
+    },
+    {
+      "igdb_id": 189400,
+      "game_name": "Tiger Soldier I: MP052",
+      "file": "missing/T/189400-tiger-soldier-i-mp052.json"
     },
     {
       "igdb_id": 189432,
@@ -901168,14 +901238,44 @@
       "file": "missing/T/173679-tiger-soldier-i-mp057.json"
     },
     {
+      "igdb_id": 189406,
+      "game_name": "Tiger Soldier I: MP058",
+      "file": "missing/T/189406-tiger-soldier-i-mp058.json"
+    },
+    {
       "igdb_id": 173680,
       "game_name": "Tiger Soldier I: MP059",
       "file": "missing/T/173680-tiger-soldier-i-mp059.json"
     },
     {
+      "igdb_id": 189417,
+      "game_name": "Tiger Soldier I: MP060",
+      "file": "missing/T/189417-tiger-soldier-i-mp060.json"
+    },
+    {
       "igdb_id": 189421,
       "game_name": "Tiger Soldier I: MP062",
       "file": "missing/T/189421-tiger-soldier-i-mp062.json"
+    },
+    {
+      "igdb_id": 189396,
+      "game_name": "Tiger Soldier I: MP063",
+      "file": "missing/T/189396-tiger-soldier-i-mp063.json"
+    },
+    {
+      "igdb_id": 189409,
+      "game_name": "Tiger Soldier I: MP064",
+      "file": "missing/T/189409-tiger-soldier-i-mp064.json"
+    },
+    {
+      "igdb_id": 189419,
+      "game_name": "Tiger Soldier I: MP065",
+      "file": "missing/T/189419-tiger-soldier-i-mp065.json"
+    },
+    {
+      "igdb_id": 189418,
+      "game_name": "Tiger Soldier I: MP066",
+      "file": "missing/T/189418-tiger-soldier-i-mp066.json"
     },
     {
       "igdb_id": 173692,
@@ -901188,9 +901288,19 @@
       "file": "missing/T/189436-tiger-soldier-i-mp068.json"
     },
     {
+      "igdb_id": 189391,
+      "game_name": "Tiger Soldier I: MP069",
+      "file": "missing/T/189391-tiger-soldier-i-mp069.json"
+    },
+    {
       "igdb_id": 173682,
       "game_name": "Tiger Soldier I: MP070",
       "file": "missing/T/173682-tiger-soldier-i-mp070.json"
+    },
+    {
+      "igdb_id": 189394,
+      "game_name": "Tiger Soldier I: MP071",
+      "file": "missing/T/189394-tiger-soldier-i-mp071.json"
     },
     {
       "igdb_id": 173710,
@@ -901218,9 +901328,24 @@
       "file": "missing/T/189430-tiger-soldier-i-mp076.json"
     },
     {
+      "igdb_id": 189413,
+      "game_name": "Tiger Soldier I: MP078",
+      "file": "missing/T/189413-tiger-soldier-i-mp078.json"
+    },
+    {
+      "igdb_id": 189408,
+      "game_name": "Tiger Soldier I: MP079",
+      "file": "missing/T/189408-tiger-soldier-i-mp079.json"
+    },
+    {
       "igdb_id": 173690,
       "game_name": "Tiger Soldier I: MP080",
       "file": "missing/T/173690-tiger-soldier-i-mp080.json"
+    },
+    {
+      "igdb_id": 189415,
+      "game_name": "Tiger Soldier I: MP081",
+      "file": "missing/T/189415-tiger-soldier-i-mp081.json"
     },
     {
       "igdb_id": 173685,
@@ -901243,9 +901368,19 @@
       "file": "missing/T/189424-tiger-soldier-i-mp086.json"
     },
     {
+      "igdb_id": 189397,
+      "game_name": "Tiger Soldier I: MP087",
+      "file": "missing/T/189397-tiger-soldier-i-mp087.json"
+    },
+    {
       "igdb_id": 173711,
       "game_name": "Tiger Soldier I: MP088",
       "file": "missing/T/173711-tiger-soldier-i-mp088.json"
+    },
+    {
+      "igdb_id": 189392,
+      "game_name": "Tiger Soldier I: MP089",
+      "file": "missing/T/189392-tiger-soldier-i-mp089.json"
     },
     {
       "igdb_id": 173699,
@@ -901253,9 +901388,29 @@
       "file": "missing/T/173699-tiger-soldier-i-mp090.json"
     },
     {
+      "igdb_id": 189414,
+      "game_name": "Tiger Soldier I: MP092",
+      "file": "missing/T/189414-tiger-soldier-i-mp092.json"
+    },
+    {
+      "igdb_id": 189393,
+      "game_name": "Tiger Soldier I: MP093",
+      "file": "missing/T/189393-tiger-soldier-i-mp093.json"
+    },
+    {
       "igdb_id": 173689,
       "game_name": "Tiger Soldier I: MP094",
       "file": "missing/T/173689-tiger-soldier-i-mp094.json"
+    },
+    {
+      "igdb_id": 189395,
+      "game_name": "Tiger Soldier I: MP095",
+      "file": "missing/T/189395-tiger-soldier-i-mp095.json"
+    },
+    {
+      "igdb_id": 189407,
+      "game_name": "Tiger Soldier I: MP096",
+      "file": "missing/T/189407-tiger-soldier-i-mp096.json"
     },
     {
       "igdb_id": 173698,
@@ -903843,6 +903998,16 @@
       "file": "missing/T/173761-tiger-tank-59-i-winter-assault-mp062.json"
     },
     {
+      "igdb_id": 189472,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP063",
+      "file": "missing/T/189472-tiger-tank-59-i-winter-assault-mp063.json"
+    },
+    {
+      "igdb_id": 189485,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP064",
+      "file": "missing/T/189485-tiger-tank-59-i-winter-assault-mp064.json"
+    },
+    {
       "igdb_id": 189463,
       "game_name": "Tiger Tank 59 I: Winter Assault MP065",
       "file": "missing/T/189463-tiger-tank-59-i-winter-assault-mp065.json"
@@ -903853,14 +904018,59 @@
       "file": "missing/T/173764-tiger-tank-59-i-winter-assault-mp066.json"
     },
     {
+      "igdb_id": 189483,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP067",
+      "file": "missing/T/189483-tiger-tank-59-i-winter-assault-mp067.json"
+    },
+    {
+      "igdb_id": 189471,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP068",
+      "file": "missing/T/189471-tiger-tank-59-i-winter-assault-mp068.json"
+    },
+    {
+      "igdb_id": 189487,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP069",
+      "file": "missing/T/189487-tiger-tank-59-i-winter-assault-mp069.json"
+    },
+    {
+      "igdb_id": 189477,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP070",
+      "file": "missing/T/189477-tiger-tank-59-i-winter-assault-mp070.json"
+    },
+    {
+      "igdb_id": 189473,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP071",
+      "file": "missing/T/189473-tiger-tank-59-i-winter-assault-mp071.json"
+    },
+    {
       "igdb_id": 173765,
       "game_name": "Tiger Tank 59 I: Winter Assault MP072",
       "file": "missing/T/173765-tiger-tank-59-i-winter-assault-mp072.json"
     },
     {
+      "igdb_id": 189475,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP073",
+      "file": "missing/T/189475-tiger-tank-59-i-winter-assault-mp073.json"
+    },
+    {
       "igdb_id": 173760,
       "game_name": "Tiger Tank 59 I: Winter Assault MP074",
       "file": "missing/T/173760-tiger-tank-59-i-winter-assault-mp074.json"
+    },
+    {
+      "igdb_id": 189486,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP075",
+      "file": "missing/T/189486-tiger-tank-59-i-winter-assault-mp075.json"
+    },
+    {
+      "igdb_id": 189474,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP076",
+      "file": "missing/T/189474-tiger-tank-59-i-winter-assault-mp076.json"
+    },
+    {
+      "igdb_id": 189479,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP077",
+      "file": "missing/T/189479-tiger-tank-59-i-winter-assault-mp077.json"
     },
     {
       "igdb_id": 189464,
@@ -903888,9 +904098,24 @@
       "file": "missing/T/173762-tiger-tank-59-i-winter-assault-mp082.json"
     },
     {
+      "igdb_id": 189481,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP083",
+      "file": "missing/T/189481-tiger-tank-59-i-winter-assault-mp083.json"
+    },
+    {
       "igdb_id": 173769,
       "game_name": "Tiger Tank 59 I: Winter Assault MP084",
       "file": "missing/T/173769-tiger-tank-59-i-winter-assault-mp084.json"
+    },
+    {
+      "igdb_id": 189478,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP085",
+      "file": "missing/T/189478-tiger-tank-59-i-winter-assault-mp085.json"
+    },
+    {
+      "igdb_id": 189489,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP086",
+      "file": "missing/T/189489-tiger-tank-59-i-winter-assault-mp086.json"
     },
     {
       "igdb_id": 173767,
@@ -903903,6 +904128,11 @@
       "file": "missing/T/173768-tiger-tank-59-i-winter-assault-mp088.json"
     },
     {
+      "igdb_id": 189488,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP089",
+      "file": "missing/T/189488-tiger-tank-59-i-winter-assault-mp089.json"
+    },
+    {
       "igdb_id": 173766,
       "game_name": "Tiger Tank 59 I: Winter Assault MP090",
       "file": "missing/T/173766-tiger-tank-59-i-winter-assault-mp090.json"
@@ -903913,14 +904143,34 @@
       "file": "missing/T/173758-tiger-tank-59-i-winter-assault-mp091.json"
     },
     {
+      "igdb_id": 189482,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP092",
+      "file": "missing/T/189482-tiger-tank-59-i-winter-assault-mp092.json"
+    },
+    {
       "igdb_id": 173770,
       "game_name": "Tiger Tank 59 I: Winter Assault MP093",
       "file": "missing/T/173770-tiger-tank-59-i-winter-assault-mp093.json"
     },
     {
+      "igdb_id": 189484,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP094",
+      "file": "missing/T/189484-tiger-tank-59-i-winter-assault-mp094.json"
+    },
+    {
       "igdb_id": 189465,
       "game_name": "Tiger Tank 59 I: Winter Assault MP095",
       "file": "missing/T/189465-tiger-tank-59-i-winter-assault-mp095.json"
+    },
+    {
+      "igdb_id": 189480,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP096",
+      "file": "missing/T/189480-tiger-tank-59-i-winter-assault-mp096.json"
+    },
+    {
+      "igdb_id": 189476,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP097",
+      "file": "missing/T/189476-tiger-tank-59-i-winter-assault-mp097.json"
     },
     {
       "igdb_id": 173759,
