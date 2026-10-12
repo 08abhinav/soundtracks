@@ -12206,6 +12206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way Home | 248902 | [248902-the-way-home.json](./248902-the-way-home.json) |
 | The Way Home | 307686 | [307686-the-way-home.json](./307686-the-way-home.json) |
 | The Way Home | 362293 | [362293-the-way-home.json](./362293-the-way-home.json) |
+| The Way Home: Dungeon Cat | 193711 | [193711-the-way-home-dungeon-cat.json](./193711-the-way-home-dungeon-cat.json) |
 | The Way It Rains on Animals | 332806 | [332806-the-way-it-rains-on-animals.json](./332806-the-way-it-rains-on-animals.json) |
 | The Way of Cooking | 292525 | [292525-the-way-of-cooking.json](./292525-the-way-of-cooking.json) |
 | The Way Of Kings | 296606 | [296606-the-way-of-kings.json](./296606-the-way-of-kings.json) |
@@ -12517,6 +12518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Zen of Kayaking | 304730 | [304730-the-zen-of-kayaking.json](./304730-the-zen-of-kayaking.json) |
 | The Zero Dome | 72349 | [72349-the-zero-dome.json](./72349-the-zero-dome.json) |
 | The Zibbo Show | 404798 | [404798-the-zibbo-show.json](./404798-the-zibbo-show.json) |
+| The Zium Gallery | 193674 | [193674-the-zium-gallery.json](./193674-the-zium-gallery.json) |
 | The Zium Railway | 417676 | [417676-the-zium-railway.json](./417676-the-zium-railway.json) |
 | The Zodiac Mystery | 392122 | [392122-the-zodiac-mystery.json](./392122-the-zodiac-mystery.json) |
 | The Zombie Fortress | 327861 | [327861-the-zombie-fortress.json](./327861-the-zombie-fortress.json) |
@@ -20761,6 +20763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Tails | 264537 | [264537-turbo-tails.json](./264537-turbo-tails.json) |
 | Turbo Tempest | 153953 | [153953-turbo-tempest.json](./153953-turbo-tempest.json) |
 | Turbo Titans | 391883 | [391883-turbo-titans.json](./391883-turbo-titans.json) |
+| Turbo Trainz | 193702 | [193702-turbo-trainz.json](./193702-turbo-trainz.json) |
 | Turbo Trainz | 206637 | [206637-turbo-trainz.json](./206637-turbo-trainz.json) |
 | Turbo Trax | 12802 | [12802-turbo-trax.json](./12802-turbo-trax.json) |
 | Turbo Trio | 275216 | [275216-turbo-trio.json](./275216-turbo-trio.json) |
