@@ -1327,6 +1327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garten of Banban: Last Ticket to the Abyss | 363986 | [363986-garten-of-banban-last-ticket-to-the-abyss.json](./363986-garten-of-banban-last-ticket-to-the-abyss.json) |
 | Gartic | 50158 | [50158-gartic.json](./50158-gartic.json) |
 | Gartic on Stream | 185152 | [185152-gartic-on-stream.json](./185152-gartic-on-stream.json) |
+| Gartic Show | 184285 | [184285-gartic-show.json](./184285-gartic-show.json) |
 | Gartic.io | 191695 | [191695-gartic-io.json](./191695-gartic-io.json) |
 | Gartu in the Kindergarten | 41490 | [41490-gartu-in-the-kindergarten.json](./41490-gartu-in-the-kindergarten.json) |
 | Garuda Emblem | 327176 | [327176-garuda-emblem.json](./327176-garuda-emblem.json) |
@@ -4477,6 +4478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodbye Cendrillon | 285991 | [285991-goodbye-cendrillon.json](./285991-goodbye-cendrillon.json) |
 | Goodbye Deponia: Premium Edition | 54069 | [54069-goodbye-deponia-premium-edition.json](./54069-goodbye-deponia-premium-edition.json) |
 | Goodbye Dreaming | 132666 | [132666-goodbye-dreaming.json](./132666-goodbye-dreaming.json) |
+| Goodbye Gordon | 184322 | [184322-goodbye-gordon.json](./184322-goodbye-gordon.json) |
 | Goodbye Monster | 325139 | [325139-goodbye-monster.json](./325139-goodbye-monster.json) |
 | Goodbye Page | 374964 | [374964-goodbye-page.json](./374964-goodbye-page.json) |
 | Goodbye Seoul | 267853 | [267853-goodbye-seoul.json](./267853-goodbye-seoul.json) |
