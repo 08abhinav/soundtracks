@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Assassin | 234160 | [234160-tactical-assassin.json](./234160-tactical-assassin.json) |
 | Tactical Assassin 2 | 280210 | [280210-tactical-assassin-2.json](./280210-tactical-assassin-2.json) |
 | Tactical Assault VR | 242021 | [242021-tactical-assault-vr.json](./242021-tactical-assault-vr.json) |
+| Tactical Bandits | 207578 | [207578-tactical-bandits.json](./207578-tactical-bandits.json) |
 | Tactical Battles | 342846 | [342846-tactical-battles.json](./342846-tactical-battles.json) |
 | Tactical Breach Wizards: Special Edition | 396407 | [396407-tactical-breach-wizards-special-edition.json](./396407-tactical-breach-wizards-special-edition.json) |
 | Tactical Chronicle | 96515 | [96515-tactical-chronicle.json](./96515-tactical-chronicle.json) |
@@ -2583,6 +2584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempus Irae | 270319 | [270319-tempus-irae.json](./270319-tempus-irae.json) |
 | Tempus is the Ignis | 271319 | [271319-tempus-is-the-ignis.json](./271319-tempus-is-the-ignis.json) |
 | Tempus Vitae | 404455 | [404455-tempus-vitae.json](./404455-tempus-vitae.json) |
+| Tempusia | 207559 | [207559-tempusia.json](./207559-tempusia.json) |
 | Temtem: Collector's Edition | 206674 | [206674-temtem-collectors-edition.json](./206674-temtem-collectors-edition.json) |
 | Temtem: Deluxe Edition | 212338 | [212338-temtem-deluxe-edition.json](./212338-temtem-deluxe-edition.json) |
 | Temtem: Pioneers | 397815 | [397815-temtem-pioneers.json](./397815-temtem-pioneers.json) |
@@ -4232,6 +4234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Binding of Isaac: Repentance | 228374 | [228374-the-binding-of-isaac-repentance.json](./228374-the-binding-of-isaac-repentance.json) |
 | The Binding of Isaac: Repentance | 310643 | [310643-the-binding-of-isaac-repentance.json](./310643-the-binding-of-isaac-repentance.json) |
 | The Binding of Isaac: Revelations | 376126 | [376126-the-binding-of-isaac-revelations.json](./376126-the-binding-of-isaac-revelations.json) |
+| The Binding of Survivors | 207593 | [207593-the-binding-of-survivors.json](./207593-the-binding-of-survivors.json) |
 | The Binding of You | 83551 | [83551-the-binding-of-you.json](./83551-the-binding-of-you.json) |
 | The Bingo Room | 143646 | [143646-the-bingo-room.json](./143646-the-bingo-room.json) |
 | The Biorift | 376550 | [376550-the-biorift.json](./376550-the-biorift.json) |
@@ -6315,6 +6318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Annie | 246003 | [246003-the-game-of-annie.json](./246003-the-game-of-annie.json) |
 | The Game of Bionic Goat | 339099 | [339099-the-game-of-bionic-goat.json](./339099-the-game-of-bionic-goat.json) |
 | The Game Of Death | 276156 | [276156-the-game-of-death.json](./276156-the-game-of-death.json) |
+| The Game of Fourtune | 207591 | [207591-the-game-of-fourtune.json](./207591-the-game-of-fourtune.json) |
 | The Game of Life | 106271 | [106271-the-game-of-life.json](./106271-the-game-of-life.json) |
 | The Game of Life | 34432 | [34432-the-game-of-life.json](./34432-the-game-of-life.json) |
 | The Game of Life / Yahtzee / Payday | 137695 | [137695-the-game-of-life-yahtzee-payday.json](./137695-the-game-of-life-yahtzee-payday.json) |
@@ -7871,6 +7875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Warrior | 47150 | [47150-the-last-warrior.json](./47150-the-last-warrior.json) |
 | The Last Weekend | 31890 | [31890-the-last-weekend.json](./31890-the-last-weekend.json) |
 | The Last Werewolf | 235177 | [235177-the-last-werewolf.json](./235177-the-last-werewolf.json) |
+| The Last Winter | 207576 | [207576-the-last-winter.json](./207576-the-last-winter.json) |
 | The Last Wish | 241847 | [241847-the-last-wish.json](./241847-the-last-wish.json) |
 | The Last Wish | 27877 | [27877-the-last-wish.json](./27877-the-last-wish.json) |
 | The Last Witness | 374950 | [374950-the-last-witness.json](./374950-the-last-witness.json) |
@@ -8906,6 +8911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Monster | 111019 | [111019-the-monster.json](./111019-the-monster.json) |
 | The Monster Breeder | 126558 | [126558-the-monster-breeder.json](./126558-the-monster-breeder.json) |
 | The Monster of Memory: Destiny | 150765 | [150765-the-monster-of-memory-destiny.json](./150765-the-monster-of-memory-destiny.json) |
+| The Monster Under Your Skin | 207563 | [207563-the-monster-under-your-skin.json](./207563-the-monster-under-your-skin.json) |
 | The Monster War | 289980 | [289980-the-monster-war.json](./289980-the-monster-war.json) |
 | The Monster Way | 179549 | [179549-the-monster-way.json](./179549-the-monster-way.json) |
 | The Monster Within | 174346 | [174346-the-monster-within.json](./174346-the-monster-within.json) |
@@ -19746,6 +19752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tripline | 87800 | [87800-tripline.json](./87800-tripline.json) |
 | Tripp | 144866 | [144866-tripp.json](./144866-tripp.json) |
 | Trippy Jump | 101329 | [101329-trippy-jump.json](./101329-trippy-jump.json) |
+| Trippy Tavern | 207575 | [207575-trippy-tavern.json](./207575-trippy-tavern.json) |
 | Trippy Trader: Schedule & Sell | 362214 | [362214-trippy-trader-schedule-and-sell.json](./362214-trippy-trader-schedule-and-sell.json) |
 | Trippy's Disc Golf | 258931 | [258931-trippys-disc-golf.json](./258931-trippys-disc-golf.json) |
 | TripSync | 189179 | [189179-tripsync.json](./189179-tripsync.json) |
