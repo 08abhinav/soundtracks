@@ -419,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiant Baby | 185397 | [185397-radiant-baby.json](./185397-radiant-baby.json) |
 | Radiant Cell | 211140 | [211140-radiant-cell.json](./211140-radiant-cell.json) |
 | Radiant Click | 373105 | [373105-radiant-click.json](./373105-radiant-click.json) |
+| Radiant Core | 184806 | [184806-radiant-core.json](./184806-radiant-core.json) |
 | Radiant Dawn | 176380 | [176380-radiant-dawn.json](./176380-radiant-dawn.json) |
 | Radiant Defense | 17442 | [17442-radiant-defense.json](./17442-radiant-defense.json) |
 | Radiant Devotion | 225812 | [225812-radiant-devotion.json](./225812-radiant-devotion.json) |
@@ -2503,6 +2504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Horizon | 128643 | [128643-red-horizon.json](./128643-red-horizon.json) |
 | Red Horizon | 52744 | [52744-red-horizon.json](./52744-red-horizon.json) |
 | Red Hot Ricochet | 83610 | [83610-red-hot-ricochet.json](./83610-red-hot-ricochet.json) |
+| Red Hot Robot Ultrarena | 184814 | [184814-red-hot-robot-ultrarena.json](./184814-red-hot-robot-ultrarena.json) |
 | Red Howl | 394487 | [394487-red-howl.json](./394487-red-howl.json) |
 | Red Imposter | 349926 | [349926-red-imposter.json](./349926-red-imposter.json) |
 | Red Island | 120393 | [120393-red-island.json](./120393-red-island.json) |
@@ -4740,6 +4742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Adventure | 153958 | [153958-rift-adventure.json](./153958-rift-adventure.json) |
 | Rift Breach | 232693 | [232693-rift-breach.json](./232693-rift-breach.json) |
 | Rift Coaster HD Remastered VR | 52259 | [52259-rift-coaster-hd-remastered-vr.json](./52259-rift-coaster-hd-remastered-vr.json) |
+| Rift Core | 184828 | [184828-rift-core.json](./184828-rift-core.json) |
 | Rift Drifter | 149986 | [149986-rift-drifter.json](./149986-rift-drifter.json) |
 | Rift Fishing | 380422 | [380422-rift-fishing.json](./380422-rift-fishing.json) |
 | Rift Frigate | 132007 | [132007-rift-frigate.json](./132007-rift-frigate.json) |
@@ -5487,6 +5490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Tripper | 150776 | [150776-road-tripper.json](./150776-road-tripper.json) |
 | Road Warrior | 223974 | [223974-road-warrior.json](./223974-road-warrior.json) |
 | Road Warrior | 364536 | [364536-road-warrior.json](./364536-road-warrior.json) |
+| Road Warriors 2 | 184824 | [184824-road-warriors-2.json](./184824-road-warriors-2.json) |
 | Road Wars | 265943 | [265943-road-wars.json](./265943-road-wars.json) |
 | Road Works | 35687 | [35687-road-works.json](./35687-road-works.json) |
 | Road Works Simulator | 10778 | [10778-road-works-simulator.json](./10778-road-works-simulator.json) |
@@ -5701,6 +5705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roboholic | 203227 | [203227-roboholic.json](./203227-roboholic.json) |
 | RoboHunt | 253320 | [253320-robohunt.json](./253320-robohunt.json) |
 | RoboHunters | 262244 | [262244-robohunters.json](./262244-robohunters.json) |
+| Roboin | 184873 | [184873-roboin.json](./184873-roboin.json) |
 | RoboJep | 165691 | [165691-robojep.json](./165691-robojep.json) |
 | RoboJesus | 250837 | [250837-robojesus.json](./250837-robojesus.json) |
 | Robokill | 361334 | [361334-robokill.json](./361334-robokill.json) |
@@ -5710,6 +5715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robolt | 249306 | [249306-robolt.json](./249306-robolt.json) |
 | Robolucion: The Sandwich Conspiracy | 390681 | [390681-robolucion-the-sandwich-conspiracy.json](./390681-robolucion-the-sandwich-conspiracy.json) |
 | Robomancer | 181183 | [181183-robomancer.json](./181183-robomancer.json) |
+| Robomancer_000 | 184809 | [184809-robomancer-000.json](./184809-robomancer-000.json) |
 | Robomania | 261987 | [261987-robomania.json](./261987-robomania.json) |
 | RoboMaze III: The Dome | 78029 | [78029-robomaze-iii-the-dome.json](./78029-robomaze-iii-the-dome.json) |
 | RoboMaze: The Basement | 59927 | [59927-robomaze-the-basement.json](./59927-robomaze-the-basement.json) |
@@ -7814,6 +7820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run from Bubol Horror | 359990 | [359990-run-from-bubol-horror.json](./359990-run-from-bubol-horror.json) |
 | Run from the Light | 296017 | [296017-run-from-the-light.json](./296017-run-from-the-light.json) |
 | Run Gor | 270932 | [270932-run-gor.json](./270932-run-gor.json) |
+| Run Gun Robots | 184935 | [184935-run-gun-robots.json](./184935-run-gun-robots.json) |
 | Run Hunter Run | 96086 | [96086-run-hunter-run.json](./96086-run-hunter-run.json) |
 | Run It Back | 364672 | [364672-run-it-back.json](./364672-run-it-back.json) |
 | Run Jojo Siwa | 95848 | [95848-run-jojo-siwa.json](./95848-run-jojo-siwa.json) |
@@ -8308,6 +8315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RV There Yet? Mt. Yurbuttsk | 381944 | [381944-rv-there-yet-mt-yurbuttsk.json](./381944-rv-there-yet-mt-yurbuttsk.json) |
 | RV-7 My Drone | 84909 | [84909-rv-7-my-drone.json](./84909-rv-7-my-drone.json) |
 | RVF Honda | 12927 | [12927-rvf-honda.json](./12927-rvf-honda.json) |
+| RWBY Fading Light | 184878 | [184878-rwby-fading-light.json](./184878-rwby-fading-light.json) |
 | RWBY: Amity Arena | 107151 | [107151-rwby-amity-arena.json](./107151-rwby-amity-arena.json) |
 | RWBY: Crystal Match | 120203 | [120203-rwby-crystal-match.json](./120203-rwby-crystal-match.json) |
 | RWBY: Grimm Eclipse - JNPR | 282712 | [282712-rwby-grimm-eclipse-jnpr.json](./282712-rwby-grimm-eclipse-jnpr.json) |
