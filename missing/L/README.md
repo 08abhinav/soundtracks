@@ -4216,6 +4216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Llamagotchi | 223597 | [223597-llamagotchi.json](./223597-llamagotchi.json) |
 | Llamalandia | 258002 | [258002-llamalandia.json](./258002-llamalandia.json) |
 | Llamas With Hats: Cruise Catastrophe | 63336 | [63336-llamas-with-hats-cruise-catastrophe.json](./63336-llamas-with-hats-cruise-catastrophe.json) |
+| LlamaTangle | 204214 | [204214-llamatangle.json](./204214-llamatangle.json) |
 | Llamatron: 2112 | 50117 | [50117-llamatron-2112.json](./50117-llamatron-2112.json) |
 | Llamero | 404407 | [404407-llamero.json](./404407-llamero.json) |
 | Llhore | 122939 | [122939-llhore.json](./122939-llhore.json) |
