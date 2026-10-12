@@ -2010,6 +2010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of the Road | 19792 | [19792-king-of-the-road.json](./19792-king-of-the-road.json) |
 | King of the Road | 238642 | [238642-king-of-the-road.json](./238642-king-of-the-road.json) |
 | King of the Sandcastle | 129566 | [129566-king-of-the-sandcastle.json](./129566-king-of-the-sandcastle.json) |
+| King of the Savage Realms | 195473 | [195473-king-of-the-savage-realms.json](./195473-king-of-the-savage-realms.json) |
 | King of the Times | 269225 | [269225-king-of-the-times.json](./269225-king-of-the-times.json) |
 | King of the West | 231986 | [231986-king-of-the-west.json](./231986-king-of-the-west.json) |
 | King of Thieves | 39216 | [39216-king-of-thieves.json](./39216-king-of-thieves.json) |
