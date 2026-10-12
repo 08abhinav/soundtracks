@@ -2366,6 +2366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerolicious | 416623 | [416623-aerolicious.json](./416623-aerolicious.json) |
 | Aerolitos | 40160 | [40160-aerolitos.json](./40160-aerolitos.json) |
 | AéroMultiverse | 379493 | [379493-aeromultiverse.json](./379493-aeromultiverse.json) |
+| Aeron's Golden Cookie Quest | 204252 | [204252-aerons-golden-cookie-quest.json](./204252-aerons-golden-cookie-quest.json) |
 | Aeronaut | 124175 | [124175-aeronaut.json](./124175-aeronaut.json) |
 | Aeronaut | 178522 | [178522-aeronaut.json](./178522-aeronaut.json) |
 | Aeronautica Imperialis: Flight Command | 132207 | [132207-aeronautica-imperialis-flight-command.json](./132207-aeronautica-imperialis-flight-command.json) |
@@ -5365,6 +5366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amity Park | 216452 | [216452-amity-park.json](./216452-amity-park.json) |
 | AmiWordle | 304190 | [304190-amiwordle.json](./304190-amiwordle.json) |
 | Amma: A Quest for Light | 138223 | [138223-amma-a-quest-for-light.json](./138223-amma-a-quest-for-light.json) |
+| Amma: Chronicles of Lost Stars | 204230 | [204230-amma-chronicles-of-lost-stars.json](./204230-amma-chronicles-of-lost-stars.json) |
 | Ammo 666 | 153883 | [153883-ammo-666.json](./153883-ammo-666.json) |
 | Ammo and Oxygen | 264568 | [264568-ammo-and-oxygen.json](./264568-ammo-and-oxygen.json) |
 | Ammo Garden | 336574 | [336574-ammo-garden.json](./336574-ammo-garden.json) |
@@ -7504,6 +7506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arbalester | 39621 | [39621-arbalester.json](./39621-arbalester.json) |
 | Arbe10: Base 10 | 101096 | [101096-arbe10-base-10.json](./101096-arbe10-base-10.json) |
 | Arbeit Man in another world | 151610 | [151610-arbeit-man-in-another-world.json](./151610-arbeit-man-in-another-world.json) |
+| Arbiter | 204233 | [204233-arbiter.json](./204233-arbiter.json) |
 | Arboneer | 315257 | [315257-arboneer.json](./315257-arboneer.json) |
 | Arbor | 159038 | [159038-arbor.json](./159038-arbor.json) |
 | Arborea: Magnicidio en la Corte | 316835 | [316835-arborea-magnicidio-en-la-corte.json](./316835-arborea-magnicidio-en-la-corte.json) |
