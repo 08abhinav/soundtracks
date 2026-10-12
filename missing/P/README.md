@@ -5073,6 +5073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitfalls 64 | 411707 | [411707-pitfalls-64.json](./411707-pitfalls-64.json) |
 | Pithorox Gear | 145022 | [145022-pithorox-gear.json](./145022-pithorox-gear.json) |
 | Pitiri 1977 | 17513 | [17513-pitiri-1977.json](./17513-pitiri-1977.json) |
+| Pitit Bac | 191505 | [191505-pitit-bac.json](./191505-pitit-bac.json) |
 | Pitman | 76178 | [76178-pitman.json](./76178-pitman.json) |
 | PitterPot | 110811 | [110811-pitterpot.json](./110811-pitterpot.json) |
 | Pitty Meaty | 368657 | [368657-pitty-meaty.json](./368657-pitty-meaty.json) |
@@ -6853,6 +6854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poke646 | 140318 | [140318-poke646.json](./140318-poke646.json) |
 | Poke646: Anniversary Edition | 136386 | [136386-poke646-anniversary-edition.json](./136386-poke646-anniversary-edition.json) |
 | Pokechill | 390153 | [390153-pokechill.json](./390153-pokechill.json) |
+| PokéClicker | 191508 | [191508-pokeclicker.json](./191508-pokeclicker.json) |
 | Pokecolo | 269069 | [269069-pokecolo.json](./269069-pokecolo.json) |
 | Poked | 76965 | [76965-poked.json](./76965-poked.json) |
 | PokeFields | 414341 | [414341-pokefields.json](./414341-pokefields.json) |
