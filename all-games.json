@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T09:50:13.745Z",
-  "total_soundtracks": 1497,
+  "generated_at": "2026-10-12T09:50:25.117Z",
+  "total_soundtracks": 1498,
   "games": [
     {
       "igdb_id": 7522,
@@ -7811,6 +7811,20 @@
           "spotify_url": "https://open.spotify.com/album/04r7PcyBAETPFy3CUxiuky",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 7328,
+      "game_name": "Infamous: First Light",
+      "game_url": "https://ostdb.net/games/infamous-first-light",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4c/70/90/4c7090e3-daf3-4a3c-fcd2-866a2639f611/859716901824.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "inFAMOUS: First Light (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5eHxepRUX2PC4LfoxlRlFD",
+          "apple_music_url": "https://music.apple.com/us/album/infamous-first-light-original-soundtrack/1553229184",
+          "album_link_url": "https://album.link/i/1553229184"
         }
       ]
     },
