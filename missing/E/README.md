@@ -1137,6 +1137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Einstein's Cats | 291594 | [291594-einsteins-cats.json](./291594-einsteins-cats.json) |
 | Einsteins Riddle | 156605 | [156605-einsteins-riddle.json](./156605-einsteins-riddle.json) |
 | Eipc Free Tetris | 68877 | [68877-eipc-free-tetris.json](./68877-eipc-free-tetris.json) |
+| Eira | 188418 | [188418-eira.json](./188418-eira.json) |
 | Eisadler Jagd | 279594 | [279594-eisadler-jagd.json](./279594-eisadler-jagd.json) |
 | Eisei Meijin | 268639 | [268639-eisei-meijin.json](./268639-eisei-meijin.json) |
 | Eisei Meijin II | 268640 | [268640-eisei-meijin-ii.json](./268640-eisei-meijin-ii.json) |
@@ -1339,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electra | 78377 | [78377-electra.json](./78377-electra.json) |
 | Electranoid | 94324 | [94324-electranoid.json](./94324-electranoid.json) |
 | ElectriarCode | 210220 | [210220-electriarcode.json](./210220-electriarcode.json) |
+| Electric | 187162 | [187162-electric.json](./187162-electric.json) |
 | Electric Crayon 3.1: At the Zoo | 68970 | [68970-electric-crayon-3-1-at-the-zoo.json](./68970-electric-crayon-3-1-at-the-zoo.json) |
 | Electric Crayon Deluxe: Dinosaurs Are Forever | 71765 | [71765-electric-crayon-deluxe-dinosaurs-are-forever.json](./71765-electric-crayon-deluxe-dinosaurs-are-forever.json) |
 | Electric Crayon Deluxe: Teenage Mutant Hero Turtles - World Tour | 78007 | [78007-electric-crayon-deluxe-teenage-mutant-hero-turtles-world-tour.json](./78007-electric-crayon-deluxe-teenage-mutant-hero-turtles-world-tour.json) |
@@ -1802,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elysium Skies | 285711 | [285711-elysium-skies.json](./285711-elysium-skies.json) |
 | Elysium VR | 103358 | [103358-elysium-vr.json](./103358-elysium-vr.json) |
 | Elysium's Curse | 257352 | [257352-elysiums-curse.json](./257352-elysiums-curse.json) |
+| Em | 187163 | [187163-em.json](./187163-em.json) |
 | Em-A-Li | 127793 | [127793-em-a-li.json](./127793-em-a-li.json) |
 | Em-A-Zurvival | 143970 | [143970-em-a-zurvival.json](./143970-em-a-zurvival.json) |
 | EM: Shader Attack | 31354 | [31354-em-shader-attack.json](./31354-em-shader-attack.json) |
@@ -4233,6 +4236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ever Legion | 231954 | [231954-ever-legion.json](./231954-ever-legion.json) |
 | Ever Maiden: Daraku no Sono no Otome-tachi | 249497 | [249497-ever-maiden-daraku-no-sono-no-otome-tachi.json](./249497-ever-maiden-daraku-no-sono-no-otome-tachi.json) |
 | Ever Planet | 67290 | [67290-ever-planet.json](./67290-ever-planet.json) |
+| Ever Seen a Cat? | 187258 | [187258-ever-seen-a-cat.json](./187258-ever-seen-a-cat.json) |
 | Ever Seen A Cat? 3 | 211179 | [211179-ever-seen-a-cat-3.json](./211179-ever-seen-a-cat-3.json) |
 | Ever War | 349995 | [349995-ever-war.json](./349995-ever-war.json) |
 | Ever17 | 221220 | [221220-ever17.json](./221220-ever17.json) |
@@ -5035,6 +5039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explorers of Space | 305452 | [305452-explorers-of-space.json](./305452-explorers-of-space.json) |
 | Explorers of Space | 47265 | [47265-explorers-of-space.json](./47265-explorers-of-space.json) |
 | Explorers: Deluxe Edition | 152280 | [152280-explorers-deluxe-edition.json](./152280-explorers-deluxe-edition.json) |
+| Exploria | 188419 | [188419-exploria.json](./188419-exploria.json) |
 | Exploring Friscott | 345409 | [345409-exploring-friscott.json](./345409-exploring-friscott.json) |
 | Exploring Phonics 1 for Beginners | 334109 | [334109-exploring-phonics-1-for-beginners.json](./334109-exploring-phonics-1-for-beginners.json) |
 | Explosion | 200466 | [200466-explosion.json](./200466-explosion.json) |
