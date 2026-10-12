@@ -1863,6 +1863,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days of Despair | 217246 | [217246-days-of-despair.json](./217246-days-of-despair.json) |
 | Days of Discord | 59654 | [59654-days-of-discord.json](./59654-days-of-discord.json) |
 | Days of Doom | 251728 | [251728-days-of-doom.json](./251728-days-of-doom.json) |
+| Days of Memories: Boku to Kanojo to Koto no Koi | 221318 | [221318-days-of-memories-boku-to-kanojo-to-koto-no-koi.json](./221318-days-of-memories-boku-to-kanojo-to-koto-no-koi.json) |
+| Days of Memories: Kaze Mau Miyako de Tsukamaete! | 221319 | [221319-days-of-memories-kaze-mau-miyako-de-tsukamaete.json](./221319-days-of-memories-kaze-mau-miyako-de-tsukamaete.json) |
+| Days of Memories: Sekai de Ichiban Atsui Fuyu | 221320 | [221320-days-of-memories-sekai-de-ichiban-atsui-fuyu.json](./221320-days-of-memories-sekai-de-ichiban-atsui-fuyu.json) |
 | Days Of My Life | 270190 | [270190-days-of-my-life.json](./270190-days-of-my-life.json) |
 | Days of Oblivion | 69805 | [69805-days-of-oblivion.json](./69805-days-of-oblivion.json) |
 | Days of Purgatory | 76706 | [76706-days-of-purgatory.json](./76706-days-of-purgatory.json) |
@@ -11777,6 +11780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusk Diver: Special Limited Edition | 167119 | [167119-dusk-diver-special-limited-edition.json](./167119-dusk-diver-special-limited-edition.json) |
 | Dusk Golem's Anthology of Horror | 124193 | [124193-dusk-golems-anthology-of-horror.json](./124193-dusk-golems-anthology-of-horror.json) |
 | Dusk HD | 269503 | [269503-dusk-hd.json](./269503-dusk-hd.json) |
+| Dusk Hollow | 221371 | [221371-dusk-hollow.json](./221371-dusk-hollow.json) |
 | Dusk Hunters | 402561 | [402561-dusk-hunters.json](./402561-dusk-hunters.json) |
 | Dusk of the Cage | 237949 | [237949-dusk-of-the-cage.json](./237949-dusk-of-the-cage.json) |
 | Dusk of the wasteland age | 163351 | [163351-dusk-of-the-wasteland-age.json](./163351-dusk-of-the-wasteland-age.json) |
