@@ -3129,6 +3129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ouroboros: Prelude | 68604 | [68604-ouroboros-prelude.json](./68604-ouroboros-prelude.json) |
 | Ouros | 258726 | [258726-ouros.json](./258726-ouros.json) |
 | Ourworld | 254416 | [254416-ourworld.json](./254416-ourworld.json) |
+| Oust | 197105 | [197105-oust.json](./197105-oust.json) |
 | Out and About | 161379 | [161379-out-and-about.json](./161379-out-and-about.json) |
 | Out for Blood | 276380 | [276380-out-for-blood.json](./276380-out-for-blood.json) |
 | Out for Blood | 50539 | [50539-out-for-blood.json](./50539-out-for-blood.json) |
