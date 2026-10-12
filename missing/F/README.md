@@ -3842,6 +3842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Sale | 165694 | [165694-fire-sale.json](./165694-fire-sale.json) |
 | Fire Shark | 261849 | [261849-fire-shark.json](./261849-fire-shark.json) |
 | Fire Showdown | 303049 | [303049-fire-showdown.json](./303049-fire-showdown.json) |
+| Fire Squad | 212425 | [212425-fire-squad.json](./212425-fire-squad.json) |
 | Fire Station Renovation | 211256 | [211256-fire-station-renovation.json](./211256-fire-station-renovation.json) |
 | Fire Theft | 141749 | [141749-fire-theft.json](./141749-fire-theft.json) |
 | Fire Thief | 286053 | [286053-fire-thief.json](./286053-fire-thief.json) |
