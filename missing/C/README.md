@@ -1912,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cascadia Quest | 154564 | [154564-cascadia-quest.json](./154564-cascadia-quest.json) |
 | Cascading Failure | 155690 | [155690-cascading-failure.json](./155690-cascading-failure.json) |
 | Case | 323550 | [323550-case.json](./323550-case.json) |
+| Case #1472 | 201494 | [201494-case-1472.json](./201494-case-1472.json) |
 | Case #8 | 18212 | [18212-case-8.json](./18212-case-8.json) |
 | Case 00: The Cannibal Boy | 150093 | [150093-case-00-the-cannibal-boy.json](./150093-case-00-the-cannibal-boy.json) |
 | Case 1963 | 389678 | [389678-case-1963.json](./389678-case-1963.json) |
@@ -2706,6 +2707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catena | 342033 | [342033-catena.json](./342033-catena.json) |
 | Cateran | 96767 | [96767-cateran.json](./96767-cateran.json) |
 | Caterpilla | 83266 | [83266-caterpilla.json](./83266-caterpilla.json) |
+| Caterpillar | 201514 | [201514-caterpillar.json](./201514-caterpillar.json) |
 | Caterpillar | 38482 | [38482-caterpillar.json](./38482-caterpillar.json) |
 | Caterpillar | 74708 | [74708-caterpillar.json](./74708-caterpillar.json) |
 | Caterpillar Construction Zone | 37283 | [37283-caterpillar-construction-zone.json](./37283-caterpillar-construction-zone.json) |
