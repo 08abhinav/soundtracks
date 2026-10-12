@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P-Kara | 59365 | [59365-p-kara.json](./59365-p-kara.json) |
 | P-O-X | 290312 | [290312-p-o-x.json](./290312-p-o-x.json) |
 | P-Robots | 93029 | [93029-p-robots.json](./93029-p-robots.json) |
+| P.A.M.U | 184808 | [184808-p-a-m-u.json](./184808-p-a-m-u.json) |
 | P.A.S. | 105431 | [105431-p-a-s.json](./105431-p-a-s.json) |
 | P.A.W.S.: Personal Automated Wagging System | 46573 | [46573-p-a-w-s-personal-automated-wagging-system.json](./46573-p-a-w-s-personal-automated-wagging-system.json) |
 | P.C. Fuzz | 92821 | [92821-p-c-fuzz.json](./92821-p-c-fuzz.json) |
@@ -1126,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperplanes | 218678 | [218678-paperplanes.json](./218678-paperplanes.json) |
 | PaperPlanets | 106612 | [106612-paperplanets.json](./106612-paperplanets.json) |
 | Paperquarium | 249458 | [249458-paperquarium.json](./249458-paperquarium.json) |
+| Paperthin | 184839 | [184839-paperthin.json](./184839-paperthin.json) |
 | Papertris | 190941 | [190941-papertris.json](./190941-papertris.json) |
 | Paperwork | 374620 | [374620-paperwork.json](./374620-paperwork.json) |
 | Papi Chocolate | 87107 | [87107-papi-chocolate.json](./87107-papi-chocolate.json) |
@@ -2439,6 +2441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peckin' Pixels | 135692 | [135692-peckin-pixels.json](./135692-peckin-pixels.json) |
 | Pecking Order | 337778 | [337778-pecking-order.json](./337778-pecking-order.json) |
 | Pecky Clicker | 391192 | [391192-pecky-clicker.json](./391192-pecky-clicker.json) |
+| Peco Peco | 184793 | [184793-peco-peco.json](./184793-peco-peco.json) |
 | Pecos Bill | 210008 | [210008-pecos-bill.json](./210008-pecos-bill.json) |
 | Peculiar Fables: The Werebed | 186731 | [186731-peculiar-fables-the-werebed.json](./186731-peculiar-fables-the-werebed.json) |
 | Peculiar Tales of Mid-Lake Pavilion | 188934 | [188934-peculiar-tales-of-mid-lake-pavilion.json](./188934-peculiar-tales-of-mid-lake-pavilion.json) |
@@ -6009,6 +6012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Life | 258433 | [258433-planetary-life.json](./258433-planetary-life.json) |
 | Planetary Parfait | 293139 | [293139-planetary-parfait.json](./293139-planetary-parfait.json) |
 | Planetary Planter | 200517 | [200517-planetary-planter.json](./200517-planetary-planter.json) |
+| Planetary Sanitations Inc. | 184812 | [184812-planetary-sanitations-inc.json](./184812-planetary-sanitations-inc.json) |
 | Planetary Settlers | 101340 | [101340-planetary-settlers.json](./101340-planetary-settlers.json) |
 | Planetary Taxi | 279558 | [279558-planetary-taxi.json](./279558-planetary-taxi.json) |
 | Planetation | 148978 | [148978-planetation.json](./148978-planetation.json) |
@@ -6831,6 +6835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poinie's Poin | 56153 | [56153-poinies-poin.json](./56153-poinies-poin.json) |
 | Poinpy | 204454 | [204454-poinpy.json](./204454-poinpy.json) |
 | Point | 97929 | [97929-point.json](./97929-point.json) |
+| Point & Sin | 184843 | [184843-point-and-sin.json](./184843-point-and-sin.json) |
 | Point Blank 2 | 40988 | [40988-point-blank-2.json](./40988-point-blank-2.json) |
 | Point Blank X | 243045 | [243045-point-blank-x.json](./243045-point-blank-x.json) |
 | Point Click Killer: Act Two | 281333 | [281333-point-click-killer-act-two.json](./281333-point-click-killer-act-two.json) |
@@ -8287,6 +8292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Port Royale 4: Extended Edition | 154505 | [154505-port-royale-4-extended-edition.json](./154505-port-royale-4-extended-edition.json) |
 | Port Royale: Gold, Power and Pirates | 834 | [834-port-royale-gold-power-and-pirates.json](./834-port-royale-gold-power-and-pirates.json) |
 | Port Shipping Tycoon | 351718 | [351718-port-shipping-tycoon.json](./351718-port-shipping-tycoon.json) |
+| Port Traventor | 184881 | [184881-port-traventor.json](./184881-port-traventor.json) |
 | Portabellows | 247780 | [247780-portabellows.json](./247780-portabellows.json) |
 | Portability | 159769 | [159769-portability.json](./159769-portability.json) |
 | Portable Ops | 226174 | [226174-portable-ops.json](./226174-portable-ops.json) |
