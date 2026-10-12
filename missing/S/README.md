@@ -2265,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrabble Blast! | 49337 | [49337-scrabble-blast.json](./49337-scrabble-blast.json) |
 | Scrabble Blitz | 209015 | [209015-scrabble-blitz.json](./209015-scrabble-blitz.json) |
 | Scrabble for Game Boy | 131453 | [131453-scrabble-for-game-boy.json](./131453-scrabble-for-game-boy.json) |
+| Scrabble Go | 206479 | [206479-scrabble-go.json](./206479-scrabble-go.json) |
 | Scrabble Interactive: 2003 Edition | 73995 | [73995-scrabble-interactive-2003-edition.json](./73995-scrabble-interactive-2003-edition.json) |
 | Scrabble Interactive: 2007 Edition | 51207 | [51207-scrabble-interactive-2007-edition.json](./51207-scrabble-interactive-2007-edition.json) |
 | Scrabble Interactive: 2009 Edition | 51157 | [51157-scrabble-interactive-2009-edition.json](./51157-scrabble-interactive-2009-edition.json) |
@@ -4869,6 +4870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shatterbrain | 96977 | [96977-shatterbrain.json](./96977-shatterbrain.json) |
 | Shattered | 325043 | [325043-shattered.json](./325043-shattered.json) |
 | Shattered | 65791 | [65791-shattered.json](./65791-shattered.json) |
+| Shattered Between | 206422 | [206422-shattered-between.json](./206422-shattered-between.json) |
 | Shattered Chess | 394090 | [394090-shattered-chess.json](./394090-shattered-chess.json) |
 | Shattered Dimension | 356879 | [356879-shattered-dimension.json](./356879-shattered-dimension.json) |
 | Shattered Divinities | 346217 | [346217-shattered-divinities.json](./346217-shattered-divinities.json) |
@@ -4958,6 +4960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She'sn | 267583 | [267583-shesn.json](./267583-shesn.json) |
 | Sheaf - Together EP | 120769 | [120769-sheaf-together-ep.json](./120769-sheaf-together-ep.json) |
 | Sheared | 62585 | [62585-sheared.json](./62585-sheared.json) |
+| Sheba: A New Dawn | 206424 | [206424-sheba-a-new-dawn.json](./206424-sheba-a-new-dawn.json) |
 | Shechu de Fubao | 255624 | [255624-shechu-de-fubao.json](./255624-shechu-de-fubao.json) |
 | Shed | 406191 | [406191-shed.json](./406191-shed.json) |
 | Shed | 91728 | [91728-shed.json](./91728-shed.json) |
@@ -6276,6 +6279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuukaku no Juunigatsu: Fuyu | 58895 | [58895-shuukaku-no-juunigatsu-fuyu.json](./58895-shuukaku-no-juunigatsu-fuyu.json) |
 | Shuumatsu no Sugoshikata: The world is drawing to an W/end | 326047 | [326047-shuumatsu-no-sugoshikata-the-world-is-drawing-to-an-w-end.json](./326047-shuumatsu-no-sugoshikata-the-world-is-drawing-to-an-w-end.json) |
 | Shuumatsu no Valkyrie Humanity's Last Hope | 265875 | [265875-shuumatsu-no-valkyrie-humanitys-last-hope.json](./265875-shuumatsu-no-valkyrie-humanitys-last-hope.json) |
+| Shuumatsu Shoujo | 206440 | [206440-shuumatsu-shoujo.json](./206440-shuumatsu-shoujo.json) |
 | Shuumatsu Shoujo Gensou Alicematic: Apocalypse | 412800 | [412800-shuumatsu-shoujo-gensou-alicematic-apocalypse.json](./412800-shuumatsu-shoujo-gensou-alicematic-apocalypse.json) |
 | Shuumatsu Shoujo to Saishuukai | 370553 | [370553-shuumatsu-shoujo-to-saishuukai.json](./370553-shuumatsu-shoujo-to-saishuukai.json) |
 | Shuusou Gyoku | 123608 | [123608-shuusou-gyoku.json](./123608-shuusou-gyoku.json) |
@@ -15260,6 +15264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Crew | 329938 | [329938-star-crew.json](./329938-star-crew.json) |
 | Star Crisis | 66377 | [66377-star-crisis.json](./66377-star-crisis.json) |
 | Star Crossed | 177920 | [177920-star-crossed.json](./177920-star-crossed.json) |
+| Star Crosser | 206439 | [206439-star-crosser.json](./206439-star-crosser.json) |
 | Star Cruiser | 19373 | [19373-star-cruiser.json](./19373-star-cruiser.json) |
 | Star Cruiser | 265968 | [265968-star-cruiser.json](./265968-star-cruiser.json) |
 | Star Cruiser | 76911 | [76911-star-cruiser.json](./76911-star-cruiser.json) |
