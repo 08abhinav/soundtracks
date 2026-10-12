@@ -1655,7 +1655,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Tanks | 139414 | [139414-elite-tanks.json](./139414-elite-tanks.json) |
 | Elite Trials | 96778 | [96778-elite-trials.json](./96778-elite-trials.json) |
 | Elite X: Street Racer | 282842 | [282842-elite-x-street-racer.json](./282842-elite-x-street-racer.json) |
-| Elite: Dangerous | 2955 | [2955-elite-dangerous.json](./2955-elite-dangerous.json) |
 | Elite: Dangerous - Horizons | 15442 | [15442-elite-dangerous-horizons.json](./15442-elite-dangerous-horizons.json) |
 | Elithian Races Mod | 280270 | [280270-elithian-races-mod.json](./280270-elithian-races-mod.json) |
 | Elitserien 2001 | 94376 | [94376-elitserien-2001.json](./94376-elitserien-2001.json) |
@@ -2689,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enter the Void to the Holy Mountain | 306970 | [306970-enter-the-void-to-the-holy-mountain.json](./306970-enter-the-void-to-the-holy-mountain.json) |
 | Enter: The Grinch | 282622 | [282622-enter-the-grinch.json](./282622-enter-the-grinch.json) |
 | Enter/Exit the Gungeon | 228735 | [228735-enter-exit-the-gungeon.json](./228735-enter-exit-the-gungeon.json) |
+| Enterchained | 184850 | [184850-enterchained.json](./184850-enterchained.json) |
 | Enterprise | 12993 | [12993-enterprise.json](./12993-enterprise.json) |
 | Enterprise | 252181 | [252181-enterprise.json](./252181-enterprise.json) |
 | Enterprise: Space Agency Simulator | 290630 | [290630-enterprise-space-agency-simulator.json](./290630-enterprise-space-agency-simulator.json) |
@@ -3990,6 +3990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euclyca | 158031 | [158031-euclyca.json](./158031-euclyca.json) |
 | EUcraft | 398401 | [398401-eucraft.json](./398401-eucraft.json) |
 | Eudemons Online | 76594 | [76594-eudemons-online.json](./76594-eudemons-online.json) |
+| Eudora | 184804 | [184804-eudora.json](./184804-eudora.json) |
 | Eufloria | 7596 | [7596-eufloria.json](./7596-eufloria.json) |
 | Eufloria 2 | 413631 | [413631-eufloria-2.json](./413631-eufloria-2.json) |
 | Eufloria Classic | 321480 | [321480-eufloria-classic.json](./321480-eufloria-classic.json) |
@@ -4748,6 +4749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excycle | 266864 | [266864-excycle.json](./266864-excycle.json) |
 | EXD: Extra Dimensional | 380540 | [380540-exd-extra-dimensional.json](./380540-exd-extra-dimensional.json) |
 | EXE Clash | 265874 | [265874-exe-clash.json](./265874-exe-clash.json) |
+| Executanks | 184880 | [184880-executanks.json](./184880-executanks.json) |
 | Execute | 373337 | [373337-execute.json](./373337-execute.json) |
 | Execute Daddy: Papa ga Nandemo Shinu Game | 215889 | [215889-execute-daddy-papa-ga-nandemo-shinu-game.json](./215889-execute-daddy-papa-ga-nandemo-shinu-game.json) |
 | Execution | 13650 | [13650-execution.json](./13650-execution.json) |
