@@ -5509,6 +5509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoleHole | 251717 | [251717-holehole.json](./251717-holehole.json) |
 | Holes | 373207 | [373207-holes.json](./373207-holes.json) |
 | Holes Ahead! | 109519 | [109519-holes-ahead.json](./109519-holes-ahead.json) |
+| HoleShot Drag Racing | 212997 | [212997-holeshot-drag-racing.json](./212997-holeshot-drag-racing.json) |
 | Holey | 408181 | [408181-holey.json](./408181-holey.json) |
 | Holey Moley | 270409 | [270409-holey-moley.json](./270409-holey-moley.json) |
 | Holey Moley | 40670 | [40670-holey-moley.json](./40670-holey-moley.json) |
@@ -5750,6 +5751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Cooked Spaghetti Western | 380200 | [380200-home-cooked-spaghetti-western.json](./380200-home-cooked-spaghetti-western.json) |
 | Home Darkness: Escape | 76710 | [76710-home-darkness-escape.json](./76710-home-darkness-escape.json) |
 | Home Deco Builder | 334096 | [334096-home-deco-builder.json](./334096-home-deco-builder.json) |
+| Home Deco Puzzles | 212996 | [212996-home-deco-puzzles.json](./212996-home-deco-puzzles.json) |
 | Home Defender | 158635 | [158635-home-defender.json](./158635-home-defender.json) |
 | Home Defender | 278538 | [278538-home-defender.json](./278538-home-defender.json) |
 | Home Design 3D | 34050 | [34050-home-design-3d.json](./34050-home-design-3d.json) |
@@ -6744,6 +6746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotdog Butcher | 406283 | [406283-hotdog-butcher.json](./406283-hotdog-butcher.json) |
 | Hotdog Delivery Hotdog | 390621 | [390621-hotdog-delivery-hotdog.json](./390621-hotdog-delivery-hotdog.json) |
 | Hotdog Kitchen | 295653 | [295653-hotdog-kitchen.json](./295653-hotdog-kitchen.json) |
+| Hotdog Quest: One With Everything | 212995 | [212995-hotdog-quest-one-with-everything.json](./212995-hotdog-quest-one-with-everything.json) |
 | Hotdog Runner | 289772 | [289772-hotdog-runner.json](./289772-hotdog-runner.json) |
 | Hotdog Samurai | 246953 | [246953-hotdog-samurai.json](./246953-hotdog-samurai.json) |
 | Hotdog Storm | 39679 | [39679-hotdog-storm.json](./39679-hotdog-storm.json) |
@@ -6796,6 +6799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Renovator: Kawaii Furniture Set | 245386 | [245386-hotel-renovator-kawaii-furniture-set.json](./245386-hotel-renovator-kawaii-furniture-set.json) |
 | Hotel Room Haunting | 275645 | [275645-hotel-room-haunting.json](./275645-hotel-room-haunting.json) |
 | Hotel Security | 339846 | [339846-hotel-security.json](./339846-hotel-security.json) |
+| Hotel Simulator | 212994 | [212994-hotel-simulator.json](./212994-hotel-simulator.json) |
 | Hotel Simulator | 235688 | [235688-hotel-simulator.json](./235688-hotel-simulator.json) |
 | Hotel Simulator | 259140 | [259140-hotel-simulator.json](./259140-hotel-simulator.json) |
 | Hotel Simulator 2024 | 307567 | [307567-hotel-simulator-2024.json](./307567-hotel-simulator-2024.json) |
@@ -6950,6 +6954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Jigsaw: Vintage Revival | 273473 | [273473-house-of-jigsaw-vintage-revival.json](./273473-house-of-jigsaw-vintage-revival.json) |
 | House of Legacy | 267849 | [267849-house-of-legacy.json](./267849-house-of-legacy.json) |
 | House of Lost Souls | 333624 | [333624-house-of-lost-souls.json](./333624-house-of-lost-souls.json) |
+| House of Moiré | 212991 | [212991-house-of-moire.json](./212991-house-of-moire.json) |
 | House of Necrosis | 206009 | [206009-house-of-necrosis.json](./206009-house-of-necrosis.json) |
 | House of Nowhere | 385861 | [385861-house-of-nowhere.json](./385861-house-of-nowhere.json) |
 | House of Plague 0 | 107907 | [107907-house-of-plague-0.json](./107907-house-of-plague-0.json) |
