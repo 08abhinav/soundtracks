@@ -3399,6 +3399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Run | 129083 | [129083-ninja-run.json](./129083-ninja-run.json) |
 | Ninja Run | 210750 | [210750-ninja-run.json](./210750-ninja-run.json) |
 | Ninja Runner | 233234 | [233234-ninja-runner.json](./233234-ninja-runner.json) |
+| Ninja Saga | 198177 | [198177-ninja-saga.json](./198177-ninja-saga.json) |
 | Ninja Savior | 268496 | [268496-ninja-savior.json](./268496-ninja-savior.json) |
 | Ninja Scroller | 181762 | [181762-ninja-scroller.json](./181762-ninja-scroller.json) |
 | Ninja Senki | 92465 | [92465-ninja-senki.json](./92465-ninja-senki.json) |
