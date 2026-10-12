@@ -2678,7 +2678,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Elonai | 302490 | [302490-dear-elonai.json](./302490-dear-elonai.json) |
 | Dear Esteban | 63266 | [63266-dear-esteban.json](./63266-dear-esteban.json) |
 | Dear Esther | 273899 | [273899-dear-esther.json](./273899-dear-esther.json) |
-| Dear Esther | 3082 | [3082-dear-esther.json](./3082-dear-esther.json) |
 | Dear Friend | 226167 | [226167-dear-friend.json](./226167-dear-friend.json) |
 | Dear Future | 144791 | [144791-dear-future.json](./144791-dear-future.json) |
 | Dear Genny | 177532 | [177532-dear-genny.json](./177532-dear-genny.json) |
@@ -5922,7 +5921,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Crisis | 317628 | [317628-dino-crisis.json](./317628-dino-crisis.json) |
 | Dino Crisis | 329772 | [329772-dino-crisis.json](./329772-dino-crisis.json) |
 | Dino Crisis 2 | 329776 | [329776-dino-crisis-2.json](./329776-dino-crisis-2.json) |
-| Dino Crisis 2 | 4132 | [4132-dino-crisis-2.json](./4132-dino-crisis-2.json) |
 | Dino Crisis 2 | 416083 | [416083-dino-crisis-2.json](./416083-dino-crisis-2.json) |
 | Dino Crisis Bundle | 329777 | [329777-dino-crisis-bundle.json](./329777-dino-crisis-bundle.json) |
 | Dino Crisis: 5th Anniversary | 161345 | [161345-dino-crisis-5th-anniversary.json](./161345-dino-crisis-5th-anniversary.json) |
@@ -6418,7 +6416,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dishonored 2: Limited Edition | 255606 | [255606-dishonored-2-limited-edition.json](./255606-dishonored-2-limited-edition.json) |
 | Dishonored 2: Steelbook Edition | 308562 | [308562-dishonored-2-steelbook-edition.json](./308562-dishonored-2-steelbook-edition.json) |
 | Dishonored 3 | 267308 | [267308-dishonored-3.json](./267308-dishonored-3.json) |
-| Dishonored: Death of the Outsider | 37030 | [37030-dishonored-death-of-the-outsider.json](./37030-dishonored-death-of-the-outsider.json) |
 | Dishonored: Definitive Edition | 20863 | [20863-dishonored-definitive-edition.json](./20863-dishonored-definitive-edition.json) |
 | Dishonored: Void Walker Arsenal | 14571 | [14571-dishonored-void-walker-arsenal.json](./14571-dishonored-void-walker-arsenal.json) |
 | Dishventory | 347110 | [347110-dishventory.json](./347110-dishventory.json) |
@@ -8094,7 +8091,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donut Boi | 130268 | [130268-donut-boi.json](./130268-donut-boi.json) |
 | Donut Break 2: Head to Head | 214516 | [214516-donut-break-2-head-to-head.json](./214516-donut-break-2-head-to-head.json) |
 | Donut Break: Head to Head | 214566 | [214566-donut-break-head-to-head.json](./214566-donut-break-head-to-head.json) |
-| Donut County | 55080 | [55080-donut-county.json](./55080-donut-county.json) |
 | Donut Crabs | 206715 | [206715-donut-crabs.json](./206715-donut-crabs.json) |
 | Donut Dodo Do! | 252062 | [252062-donut-dodo-do.json](./252062-donut-dodo-do.json) |
 | Donut Drop by ABCya | 96075 | [96075-donut-drop-by-abcya.json](./96075-donut-drop-by-abcya.json) |
