@@ -3210,7 +3210,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Sonic X: Episode 4 | 274409 | [274409-final-fantasy-sonic-x-episode-4.json](./274409-final-fantasy-sonic-x-episode-4.json) |
 | Final Fantasy Sonic X: Episode 5 | 274410 | [274410-final-fantasy-sonic-x-episode-5.json](./274410-final-fantasy-sonic-x-episode-5.json) |
 | Final Fantasy Sonic X: Episode 6 | 274411 | [274411-final-fantasy-sonic-x-episode-6.json](./274411-final-fantasy-sonic-x-episode-6.json) |
-| Final Fantasy Tactics | 428 | [428-final-fantasy-tactics.json](./428-final-fantasy-tactics.json) |
 | Final Fantasy Tactics 1.3 | 159064 | [159064-final-fantasy-tactics-1-3.json](./159064-final-fantasy-tactics-1-3.json) |
 | Final Fantasy Tactics Advance X | 222987 | [222987-final-fantasy-tactics-advance-x.json](./222987-final-fantasy-tactics-advance-x.json) |
 | Final Fantasy Tactics Advanced Battle | 222345 | [222345-final-fantasy-tactics-advanced-battle.json](./222345-final-fantasy-tactics-advanced-battle.json) |
