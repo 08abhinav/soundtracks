@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.I.S.T.: Forged In Shadow Torch - Limited Edition | 284481 | [284481-f-i-s-t-forged-in-shadow-torch-limited-edition.json](./284481-f-i-s-t-forged-in-shadow-torch-limited-edition.json) |
 | F.I.T. | 287752 | [287752-f-i-t.json](./287752-f-i-t.json) |
 | F.O.S | 144257 | [144257-f-o-s.json](./144257-f-o-s.json) |
+| F.O.X.: Flame of Xenocide | 196546 | [196546-f-o-x-flame-of-xenocide.json](./196546-f-o-x-flame-of-xenocide.json) |
 | F.R.A.X: Blackout | 403127 | [403127-f-r-a-x-blackout.json](./403127-f-r-a-x-blackout.json) |
 | F*ck Stalin | 286056 | [286056-f-ck-stalin.json](./286056-f-ck-stalin.json) |
 | F*ck the HELL out | 337150 | [337150-f-ck-the-hell-out.json](./337150-f-ck-the-hell-out.json) |
@@ -2114,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Hollow Ataraxia | 275640 | [275640-fate-hollow-ataraxia.json](./275640-fate-hollow-ataraxia.json) |
 | Fate/Hollow Ataraxia Remastered | 312302 | [312302-fate-hollow-ataraxia-remastered.json](./312302-fate-hollow-ataraxia-remastered.json) |
 | Fate/Kaleid Liner Prisma Illya | 59205 | [59205-fate-kaleid-liner-prisma-illya.json](./59205-fate-kaleid-liner-prisma-illya.json) |
+| Fate/Pixel Wars | 196533 | [196533-fate-pixel-wars.json](./196533-fate-pixel-wars.json) |
 | Fate/Samurai Remnant: Additional Episode 1 - Record's Fragment: Keian Command Championship | 286213 | [286213-fate-samurai-remnant-additional-episode-1-records-fragment-keian-command-championship.json](./286213-fate-samurai-remnant-additional-episode-1-records-fragment-keian-command-championship.json) |
 | Fate/Samurai Remnant: Additional Episode 3 - Record's Fragment: Bailong and the Crimson Demon | 306712 | [306712-fate-samurai-remnant-additional-episode-3-records-fragment-bailong-and-the-crimson-demon.json](./306712-fate-samurai-remnant-additional-episode-3-records-fragment-bailong-and-the-crimson-demon.json) |
 | Fate/Samurai Remnant: Digital Deluxe Edition | 259526 | [259526-fate-samurai-remnant-digital-deluxe-edition.json](./259526-fate-samurai-remnant-digital-deluxe-edition.json) |
@@ -6111,6 +6113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Force Of Guardians | 325736 | [325736-force-of-guardians.json](./325736-force-of-guardians.json) |
 | Force of Nature 2: Ghost Keeper | 150124 | [150124-force-of-nature-2-ghost-keeper.json](./150124-force-of-nature-2-ghost-keeper.json) |
 | Force of Numbers | 309521 | [309521-force-of-numbers.json](./309521-force-of-numbers.json) |
+| Force of Warships: Battleship | 196550 | [196550-force-of-warships-battleship.json](./196550-force-of-warships-battleship.json) |
 | Force of Will - TCG | 58875 | [58875-force-of-will-tcg.json](./58875-force-of-will-tcg.json) |
 | Force One | 13849 | [13849-force-one.json](./13849-force-one.json) |
 | Force Reboot | 173302 | [173302-force-reboot.json](./173302-force-reboot.json) |
