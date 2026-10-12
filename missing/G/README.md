@@ -1813,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genesis Rising | 10358 | [10358-genesis-rising.json](./10358-genesis-rising.json) |
 | Genesis Rising: The Universal Crusade | 50391 | [50391-genesis-rising-the-universal-crusade.json](./50391-genesis-rising-the-universal-crusade.json) |
 | Genesis Survivors | 319067 | [319067-genesis-survivors.json](./319067-genesis-survivors.json) |
+| Genesis: Human Destiny | 223620 | [223620-genesis-human-destiny.json](./223620-genesis-human-destiny.json) |
 | Genesis: Voces de la Niebla | 389577 | [389577-genesis-voces-de-la-niebla.json](./389577-genesis-voces-de-la-niebla.json) |
 | Genesys | 83196 | [83196-genesys.json](./83196-genesys.json) |
 | Genetic | 270663 | [270663-genetic.json](./270663-genetic.json) |
@@ -3908,6 +3909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Going My Way? | 406927 | [406927-going-my-way.json](./406927-going-my-way.json) |
 | Going Nowhere: The Dream | 74383 | [74383-going-nowhere-the-dream.json](./74383-going-nowhere-the-dream.json) |
 | Going Nuts | 70405 | [70405-going-nuts.json](./70405-going-nuts.json) |
+| Going Rogue | 223360 | [223360-going-rogue.json](./223360-going-rogue.json) |
 | Going Under | 122662 | [122662-going-under.json](./122662-going-under.json) |
 | Going Up | 31946 | [31946-going-up.json](./31946-going-up.json) |
 | Going Up? | 120124 | [120124-going-up.json](./120124-going-up.json) |
