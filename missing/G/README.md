@@ -2588,6 +2588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostmuncher Uniwars | 384779 | [384779-ghostmuncher-uniwars.json](./384779-ghostmuncher-uniwars.json) |
 | GhostPad | 110267 | [110267-ghostpad.json](./110267-ghostpad.json) |
 | GhosTrick-The Sacred War of Light vs. Shadow | 374075 | [374075-ghostrick-the-sacred-war-of-light-vs-shadow.json](./374075-ghostrick-the-sacred-war-of-light-vs-shadow.json) |
+| GhostRing | 180517 | [180517-ghostring.json](./180517-ghostring.json) |
 | Ghostrunner II | 250617 | [250617-ghostrunner-ii.json](./250617-ghostrunner-ii.json) |
 | Ghostrunner II: Anniversary Pack | 371319 | [371319-ghostrunner-ii-anniversary-pack.json](./371319-ghostrunner-ii-anniversary-pack.json) |
 | Ghostrunner II: Brutal Edition | 262414 | [262414-ghostrunner-ii-brutal-edition.json](./262414-ghostrunner-ii-brutal-edition.json) |
@@ -5520,6 +5521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity run | 153432 | [153432-gravity-run.json](./153432-gravity-run.json) |
 | Gravity Rush | 11701 | [11701-gravity-rush.json](./11701-gravity-rush.json) |
 | Gravity Rush Remastered: Collector's Edition | 205265 | [205265-gravity-rush-remastered-collectors-edition.json](./205265-gravity-rush-remastered-collectors-edition.json) |
+| Gravity Shift | 180556 | [180556-gravity-shift.json](./180556-gravity-shift.json) |
 | Gravity Shifter | 157056 | [157056-gravity-shifter.json](./157056-gravity-shifter.json) |
 | Gravity Shot | 31756 | [31756-gravity-shot.json](./31756-gravity-shot.json) |
 | Gravity Shots | 107112 | [107112-gravity-shots.json](./107112-gravity-shots.json) |
@@ -6863,6 +6865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Party | 158227 | [158227-gun-party.json](./158227-gun-party.json) |
 | Gun Predict | 399015 | [399015-gun-predict.json](./399015-gun-predict.json) |
 | Gun Priest | 116354 | [116354-gun-priest.json](./116354-gun-priest.json) |
+| Gun Princess 2 | 180523 | [180523-gun-princess-2.json](./180523-gun-princess-2.json) |
 | Gun Quest | 382475 | [382475-gun-quest.json](./382475-gun-quest.json) |
 | Gun Raiders | 145040 | [145040-gun-raiders.json](./145040-gun-raiders.json) |
 | Gun Raze | 98023 | [98023-gun-raze.json](./98023-gun-raze.json) |
@@ -7118,6 +7121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunsBox VR | 188431 | [188431-gunsbox-vr.json](./188431-gunsbox-vr.json) |
 | Gunscape | 17010 | [17010-gunscape.json](./17010-gunscape.json) |
 | Gunscape: Seismic | 171921 | [171921-gunscape-seismic.json](./171921-gunscape-seismic.json) |
+| Gunsheath | 180530 | [180530-gunsheath.json](./180530-gunsheath.json) |
 | Gunship | 133964 | [133964-gunship.json](./133964-gunship.json) |
 | Gunship | 244760 | [244760-gunship.json](./244760-gunship.json) |
 | Gunship | 261208 | [261208-gunship.json](./261208-gunship.json) |
