@@ -1286,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume, Shosen Mousou | 150172 | [150172-yume-shosen-mousou.json](./150172-yume-shosen-mousou.json) |
 | Yume: Special Edition | 195776 | [195776-yume-special-edition.json](./195776-yume-special-edition.json) |
 | YumeCore | 81845 | [81845-yumecore.json](./81845-yumecore.json) |
+| Yumeiri | 186553 | [186553-yumeiri.json](./186553-yumeiri.json) |
 | Yumeiro Patisserie: My Sweets Cooking | 394778 | [394778-yumeiro-patisserie-my-sweets-cooking.json](./394778-yumeiro-patisserie-my-sweets-cooking.json) |
 | Yumemi Melancholy | 222994 | [222994-yumemi-melancholy.json](./222994-yumemi-melancholy.json) |
 | Yumemidori Nostalgia | 147272 | [147272-yumemidori-nostalgia.json](./147272-yumemidori-nostalgia.json) |
