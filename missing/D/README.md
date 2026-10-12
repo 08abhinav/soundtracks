@@ -1895,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days Without Incident | 374727 | [374727-days-without-incident.json](./374727-days-without-incident.json) |
 | Dayscream | 139872 | [139872-dayscream.json](./139872-dayscream.json) |
 | Dayshift at Freddy's | 198465 | [198465-dayshift-at-freddys.json](./198465-dayshift-at-freddys.json) |
+| Dayshift at Freddy's 2: Electric Boogaloo | 211382 | [211382-dayshift-at-freddys-2-electric-boogaloo.json](./211382-dayshift-at-freddys-2-electric-boogaloo.json) |
 | Dayshift at Freddy's 3 | 216206 | [216206-dayshift-at-freddys-3.json](./216206-dayshift-at-freddys-3.json) |
 | Daytona Championship USA | 57333 | [57333-daytona-championship-usa.json](./57333-daytona-championship-usa.json) |
 | Daytona Racing | 92623 | [92623-daytona-racing.json](./92623-daytona-racing.json) |
@@ -7186,6 +7187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctrine: C.U.L.T. | 391702 | [391702-doctrine-c-u-l-t.json](./391702-doctrine-c-u-l-t.json) |
 | Dodd Goes To The Museum | 327370 | [327370-dodd-goes-to-the-museum.json](./327370-dodd-goes-to-the-museum.json) |
 | Dodge | 177542 | [177542-dodge.json](./177542-dodge.json) |
+| Dodge | 211375 | [211375-dodge.json](./211375-dodge.json) |
 | Dodge | 291575 | [291575-dodge.json](./291575-dodge.json) |
 | Dodge | 83819 | [83819-dodge.json](./83819-dodge.json) |
 | Dodge 'Em | 222892 | [222892-dodge-em.json](./222892-dodge-em.json) |
