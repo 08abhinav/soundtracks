@@ -4449,6 +4449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Tycoon | 256251 | [256251-desert-tycoon.json](./256251-desert-tycoon.json) |
 | Desert War | 167163 | [167163-desert-war.json](./167163-desert-war.json) |
 | Desert War 1940-1942 | 129593 | [129593-desert-war-1940-1942.json](./129593-desert-war-1940-1942.json) |
+| Desert War WWII | 224676 | [224676-desert-war-wwii.json](./224676-desert-war-wwii.json) |
 | Desert War: Military Combat Shooter | 376711 | [376711-desert-war-military-combat-shooter.json](./376711-desert-war-military-combat-shooter.json) |
 | Desert Witch | 291693 | [291693-desert-witch.json](./291693-desert-witch.json) |
 | Deserted | 149203 | [149203-deserted.json](./149203-deserted.json) |
@@ -7480,6 +7481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doll Dress Up: Classy DLC | 317938 | [317938-doll-dress-up-classy-dlc.json](./317938-doll-dress-up-classy-dlc.json) |
 | Doll Dress Up: Classy Edition | 332510 | [332510-doll-dress-up-classy-edition.json](./332510-doll-dress-up-classy-edition.json) |
 | Doll Dress Up: Cute DLC | 317939 | [317939-doll-dress-up-cute-dlc.json](./317939-doll-dress-up-cute-dlc.json) |
+| Doll Explorer | 224691 | [224691-doll-explorer.json](./224691-doll-explorer.json) |
 | Doll Explorer Prologue | 151658 | [151658-doll-explorer-prologue.json](./151658-doll-explorer-prologue.json) |
 | Doll Grabber | 304907 | [304907-doll-grabber.json](./304907-doll-grabber.json) |
 | Doll INC | 346690 | [346690-doll-inc.json](./346690-doll-inc.json) |
@@ -8929,6 +8931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula 5: The Blood Legacy | 9094 | [9094-dracula-5-the-blood-legacy.json](./9094-dracula-5-the-blood-legacy.json) |
 | Dracula Cha Cha | 262275 | [262275-dracula-cha-cha.json](./262275-dracula-cha-cha.json) |
 | Dracula City Master: Idle Army | 232394 | [232394-dracula-city-master-idle-army.json](./232394-dracula-city-master-idle-army.json) |
+| Dracula Defense! | 224719 | [224719-dracula-defense.json](./224719-dracula-defense.json) |
 | Dracula Frames | 168320 | [168320-dracula-frames.json](./168320-dracula-frames.json) |
 | Dracula Hakushaku | 66111 | [66111-dracula-hakushaku.json](./66111-dracula-hakushaku.json) |
 | Dracula in London | 71727 | [71727-dracula-in-london.json](./71727-dracula-in-london.json) |
