@@ -3378,6 +3378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnome Tournament | 149680 | [149680-gnome-tournament.json](./149680-gnome-tournament.json) |
 | Gnome Valley | 69485 | [69485-gnome-valley.json](./69485-gnome-valley.json) |
 | Gnomecart Havoc | 319006 | [319006-gnomecart-havoc.json](./319006-gnomecart-havoc.json) |
+| Gnomedrome | 202575 | [202575-gnomedrome.json](./202575-gnomedrome.json) |
 | Gnomemade | 291895 | [291895-gnomemade.json](./291895-gnomemade.json) |
 | Gnomes | 37182 | [37182-gnomes.json](./37182-gnomes.json) |
 | Gnomes 'n Giants | 303706 | [303706-gnomes-n-giants.json](./303706-gnomes-n-giants.json) |
