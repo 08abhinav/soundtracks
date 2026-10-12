@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babel: The King of the Blocks | 42831 | [42831-babel-the-king-of-the-blocks.json](./42831-babel-the-king-of-the-blocks.json) |
 | Babel: Tower to the Gods | 33535 | [33535-babel-tower-to-the-gods.json](./33535-babel-tower-to-the-gods.json) |
 | Babelomania | 318390 | [318390-babelomania.json](./318390-babelomania.json) |
+| Babes & Balls Vol. 3: Gotcha Babes X-Treme | 218630 | [218630-babes-and-balls-vol-3-gotcha-babes-x-treme.json](./218630-babes-and-balls-vol-3-gotcha-babes-x-treme.json) |
 | Babes Reloaded | 272024 | [272024-babes-reloaded.json](./272024-babes-reloaded.json) |
 | Babies Dream of Dead Worlds | 279742 | [279742-babies-dream-of-dead-worlds.json](./279742-babies-dream-of-dead-worlds.json) |
 | Babies vs. Monsters | 304174 | [304174-babies-vs-monsters.json](./304174-babies-vs-monsters.json) |
@@ -271,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to School | 352237 | [352237-back-to-school.json](./352237-back-to-school.json) |
 | Back To School | 278739 | [278739-back-to-school.json](./278739-back-to-school.json) |
 | Back To School | 379991 | [379991-back-to-school.json](./379991-back-to-school.json) |
+| Back to School: My Worst Day | 218653 | [218653-back-to-school-my-worst-day.json](./218653-back-to-school-my-worst-day.json) |
 | Back to Skool | 26419 | [26419-back-to-skool.json](./26419-back-to-skool.json) |
 | Back to Stone | 19217 | [19217-back-to-stone.json](./19217-back-to-stone.json) |
 | Back to the Collis | 244708 | [244708-back-to-the-collis.json](./244708-back-to-the-collis.json) |
@@ -5203,7 +5205,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biotopia | 258039 | [258039-biotopia.json](./258039-biotopia.json) |
 | Biotoxin | 271184 | [271184-biotoxin.json](./271184-biotoxin.json) |
 | Biotype | 403643 | [403643-biotype.json](./403643-biotype.json) |
+| BipBop | 218644 | [218644-bipbop.json](./218644-bipbop.json) |
 | BipBop II | 73829 | [73829-bipbop-ii.json](./73829-bipbop-ii.json) |
+| BipBop III | 218645 | [218645-bipbop-iii.json](./218645-bipbop-iii.json) |
 | Biped 2 | 298613 | [298613-biped-2.json](./298613-biped-2.json) |
 | Bipedal Party | 376756 | [376756-bipedal-party.json](./376756-bipedal-party.json) |
 | Biphase | 148549 | [148549-biphase.json](./148549-biphase.json) |
@@ -9946,6 +9950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BroChicken | 253806 | [253806-brochicken.json](./253806-brochicken.json) |
 | Brødrene Mortensens Jul | 129815 | [129815-br-drene-mortensens-jul.json](./129815-br-drene-mortensens-jul.json) |
 | Broforce: Forever | 260721 | [260721-broforce-forever.json](./260721-broforce-forever.json) |
+| Broilers | 218673 | [218673-broilers.json](./218673-broilers.json) |
 | Brok Complete Bundle | 384200 | [384200-brok-complete-bundle.json](./384200-brok-complete-bundle.json) |
 | Brok: Natal Tail, A New Christmas | 325648 | [325648-brok-natal-tail-a-new-christmas.json](./325648-brok-natal-tail-a-new-christmas.json) |
 | Brok: Natal Tail, A New Christmas - Special | 380711 | [380711-brok-natal-tail-a-new-christmas-special.json](./380711-brok-natal-tail-a-new-christmas-special.json) |
