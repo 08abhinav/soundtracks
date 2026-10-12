@@ -2510,6 +2510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostbusters: Rise of the Ghost Lord | 228529 | [228529-ghostbusters-rise-of-the-ghost-lord.json](./228529-ghostbusters-rise-of-the-ghost-lord.json) |
 | Ghostbusters: Sanctum of Slime | 14849 | [14849-ghostbusters-sanctum-of-slime.json](./14849-ghostbusters-sanctum-of-slime.json) |
 | Ghostbusters: Slime City | 96751 | [96751-ghostbusters-slime-city.json](./96751-ghostbusters-slime-city.json) |
+| Ghostbusters: Spirits Unleashed - Collector's Edition | 214137 | [214137-ghostbusters-spirits-unleashed-collectors-edition.json](./214137-ghostbusters-spirits-unleashed-collectors-edition.json) |
 | Ghostbusters: Spirits Unleashed - Ecto Edition | 269357 | [269357-ghostbusters-spirits-unleashed-ecto-edition.json](./269357-ghostbusters-spirits-unleashed-ecto-edition.json) |
 | Ghostbusters: The Video Game | 566 | [566-ghostbusters-the-video-game.json](./566-ghostbusters-the-video-game.json) |
 | Ghostbusters: The Video Game | 77275 | [77275-ghostbusters-the-video-game.json](./77275-ghostbusters-the-video-game.json) |
@@ -6850,6 +6851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gungrave G.O.R.E | 78113 | [78113-gungrave-g-o-r-e.json](./78113-gungrave-g-o-r-e.json) |
 | Gungrave G.O.R.E: Blood Heat | 370130 | [370130-gungrave-g-o-r-e-blood-heat.json](./370130-gungrave-g-o-r-e-blood-heat.json) |
 | Gungrave G.O.R.E: Complete Bundle | 331528 | [331528-gungrave-g-o-r-e-complete-bundle.json](./331528-gungrave-g-o-r-e-complete-bundle.json) |
+| Gungrave G.O.R.E: Day One Edition | 214133 | [214133-gungrave-g-o-r-e-day-one-edition.json](./214133-gungrave-g-o-r-e-day-one-edition.json) |
 | Gungrave G.O.R.E: Street Grave | 357271 | [357271-gungrave-g-o-r-e-street-grave.json](./357271-gungrave-g-o-r-e-street-grave.json) |
 | Gungrave G.O.R.E: Ultimate Enhanced Edition - Character Pass | 273330 | [273330-gungrave-g-o-r-e-ultimate-enhanced-edition-character-pass.json](./273330-gungrave-g-o-r-e-ultimate-enhanced-edition-character-pass.json) |
 | Gungrave G.O.R.E: Ultimate Enhanced Edition - Deluxe Edition | 273332 | [273332-gungrave-g-o-r-e-ultimate-enhanced-edition-deluxe-edition.json](./273332-gungrave-g-o-r-e-ultimate-enhanced-edition-deluxe-edition.json) |
