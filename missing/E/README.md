@@ -2435,6 +2435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Wave | 75068 | [75068-endless-wave.json](./75068-endless-wave.json) |
 | Endless Winter | 36970 | [36970-endless-winter.json](./36970-endless-winter.json) |
 | Endless Zombie Tower | 151172 | [151172-endless-zombie-tower.json](./151172-endless-zombie-tower.json) |
+| Endless Zombie Weekend | 190384 | [190384-endless-zombie-weekend.json](./190384-endless-zombie-weekend.json) |
 | Endless Zone | 140043 | [140043-endless-zone.json](./140043-endless-zone.json) |
 | Endless_Overdrive | 144883 | [144883-endless-overdrive.json](./144883-endless-overdrive.json) |
 | EndlessCar | 280157 | [280157-endlesscar.json](./280157-endlesscar.json) |
@@ -3944,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etherrealm | 292248 | [292248-etherrealm.json](./292248-etherrealm.json) |
 | Etherwind | 392387 | [392387-etherwind.json](./392387-etherwind.json) |
 | EthnoGuessr | 340230 | [340230-ethnoguessr.json](./340230-ethnoguessr.json) |
+| Ethos 2: Fall of Empires | 190433 | [190433-ethos-2-fall-of-empires.json](./190433-ethos-2-fall-of-empires.json) |
 | Ethos Mythos | 419975 | [419975-ethos-mythos.json](./419975-ethos-mythos.json) |
 | Ethos: Divinity's Curse | 201706 | [201706-ethos-divinitys-curse.json](./201706-ethos-divinitys-curse.json) |
 | Ethoterria's Last Soldier | 398042 | [398042-ethoterrias-last-soldier.json](./398042-ethoterrias-last-soldier.json) |
