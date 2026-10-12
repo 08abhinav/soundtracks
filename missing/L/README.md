@@ -4124,6 +4124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Legends: Haunting Melody | 355552 | [355552-living-legends-haunting-melody.json](./355552-living-legends-haunting-melody.json) |
 | Living Legends: Ice Rose | 62835 | [62835-living-legends-ice-rose.json](./62835-living-legends-ice-rose.json) |
 | Living Legends: Ice Rose - Collector's Edition | 104704 | [104704-living-legends-ice-rose-collectors-edition.json](./104704-living-legends-ice-rose-collectors-edition.json) |
+| Living Legends: The Blue Chamber Collector's Edition | 216441 | [216441-living-legends-the-blue-chamber-collectors-edition.json](./216441-living-legends-the-blue-chamber-collectors-edition.json) |
 | Living Legends: The Red Trace - Collector's Edition | 340557 | [340557-living-legends-the-red-trace-collectors-edition.json](./340557-living-legends-the-red-trace-collectors-edition.json) |
 | Living Legends: Voice of the Sea | 187963 | [187963-living-legends-voice-of-the-sea.json](./187963-living-legends-voice-of-the-sea.json) |
 | Living Legends: Wrath of the Beast Collector's Edition | 107860 | [107860-living-legends-wrath-of-the-beast-collectors-edition.json](./107860-living-legends-wrath-of-the-beast-collectors-edition.json) |
