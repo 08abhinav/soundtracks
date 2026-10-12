@@ -2109,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weirdshine | 395557 | [395557-weirdshine.json](./395557-weirdshine.json) |
 | Weiss Schwarz Portable: 2nd Turn | 269508 | [269508-weiss-schwarz-portable-2nd-turn.json](./269508-weiss-schwarz-portable-2nd-turn.json) |
 | Weiss Schwarz Portable: Boost Schwarz | 269506 | [269506-weiss-schwarz-portable-boost-schwarz.json](./269506-weiss-schwarz-portable-boost-schwarz.json) |
+| Weiter | 190900 | [190900-weiter.json](./190900-weiter.json) |
 | WeJam | 119678 | [119678-wejam.json](./119678-wejam.json) |
 | Wekele Wordle | 329557 | [329557-wekele-wordle.json](./329557-wekele-wordle.json) |
 | Wéko The Mask Gatherer | 270724 | [270724-weko-the-mask-gatherer.json](./270724-weko-the-mask-gatherer.json) |
