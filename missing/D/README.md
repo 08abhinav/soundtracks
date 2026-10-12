@@ -8720,6 +8720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doujins and Dragons | 186158 | [186158-doujins-and-dragons.json](./186158-doujins-and-dragons.json) |
 | Doukeshi Satsujin Jiken | 351082 | [351082-doukeshi-satsujin-jiken.json](./351082-doukeshi-satsujin-jiken.json) |
 | Doukutsu Demake | 183019 | [183019-doukutsu-demake.json](./183019-doukutsu-demake.json) |
+| Doukutsu Randamu | 216421 | [216421-doukutsu-randamu.json](./216421-doukutsu-randamu.json) |
 | Doukyuu-sei | 59997 | [59997-doukyuu-sei.json](./59997-doukyuu-sei.json) |
 | Doukyuusei 2 | 38260 | [38260-doukyuusei-2.json](./38260-doukyuusei-2.json) |
 | Doukyuusei Classmates | 41993 | [41993-doukyuusei-classmates.json](./41993-doukyuusei-classmates.json) |
@@ -8814,6 +8815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downward Spiral: Prologue | 29981 | [29981-downward-spiral-prologue.json](./29981-downward-spiral-prologue.json) |
 | Downward: Enhanced Edition | 301912 | [301912-downward-enhanced-edition.json](./301912-downward-enhanced-edition.json) |
 | Dowon | 292299 | [292299-dowon.json](./292299-dowon.json) |
+| Dozie Penguins | 216411 | [216411-dozie-penguins.json](./216411-dozie-penguins.json) |
 | DP.T: Dr Pepper Terror | 140916 | [140916-dp-t-dr-pepper-terror.json](./140916-dp-t-dr-pepper-terror.json) |
 | Dps Idle | 161333 | [161333-dps-idle.json](./161333-dps-idle.json) |
 | DPS Idle 2 | 253970 | [253970-dps-idle-2.json](./253970-dps-idle-2.json) |
@@ -9579,6 +9581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Dungeon | 321486 | [321486-dragons-dungeon.json](./321486-dragons-dungeon.json) |
 | Dragon's Fury | 45586 | [45586-dragons-fury.json](./45586-dragons-fury.json) |
 | Dragon's Gold | 13609 | [13609-dragons-gold.json](./13609-dragons-gold.json) |
+| Dragon's Heaven | 216403 | [216403-dragons-heaven.json](./216403-dragons-heaven.json) |
 | Dragon's Heaven | 264306 | [264306-dragons-heaven.json](./264306-dragons-heaven.json) |
 | Dragon's Hoard | 93621 | [93621-dragons-hoard.json](./93621-dragons-hoard.json) |
 | Dragon's Hope | 113740 | [113740-dragons-hope.json](./113740-dragons-hope.json) |
@@ -10053,6 +10056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Slayer | 271692 | [271692-dream-slayer.json](./271692-dream-slayer.json) |
 | Dream Slayers | 342032 | [342032-dream-slayers.json](./342032-dream-slayers.json) |
 | Dream Soccer '94 | 39627 | [39627-dream-soccer-94.json](./39627-dream-soccer-94.json) |
+| Dream Square: Hinagata Akiko | 216418 | [216418-dream-square-hinagata-akiko.json](./216418-dream-square-hinagata-akiko.json) |
 | Dream Storm | 189047 | [189047-dream-storm.json](./189047-dream-storm.json) |
 | Dream Survivors | 297085 | [297085-dream-survivors.json](./297085-dream-survivors.json) |
 | Dream Syndrome | 138269 | [138269-dream-syndrome.json](./138269-dream-syndrome.json) |
