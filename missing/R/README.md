@@ -1398,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratshaker | 321428 | [321428-ratshaker.json](./321428-ratshaker.json) |
 | Ratshaker: Rat-Chan Pack | 395801 | [395801-ratshaker-rat-chan-pack.json](./395801-ratshaker-rat-chan-pack.json) |
 | Ratstronaut | 362912 | [362912-ratstronaut.json](./362912-ratstronaut.json) |
+| Ratten Reich | 195961 | [195961-ratten-reich.json](./195961-ratten-reich.json) |
 | Ratten Reich: Dance of Kings | 149032 | [149032-ratten-reich-dance-of-kings.json](./149032-ratten-reich-dance-of-kings.json) |
 | Rattenkönig | 231786 | [231786-rattenkonig.json](./231786-rattenkonig.json) |
 | Rattenwalzer: Pesnya o bor'be i zhizni chelovecheskoy | 367304 | [367304-rattenwalzer-pesnya-o-borbe-i-zhizni-chelovecheskoy.json](./367304-rattenwalzer-pesnya-o-borbe-i-zhizni-chelovecheskoy.json) |
@@ -2810,6 +2811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refactor | 155510 | [155510-refactor.json](./155510-refactor.json) |
 | Refactor | 35928 | [35928-refactor.json](./35928-refactor.json) |
 | Refactoro: Chaotic Farm | 294961 | [294961-refactoro-chaotic-farm.json](./294961-refactoro-chaotic-farm.json) |
+| ReFactory | 195977 | [195977-refactory.json](./195977-refactory.json) |
 | Refantasia: Charm and Conquer | 200744 | [200744-refantasia-charm-and-conquer.json](./200744-refantasia-charm-and-conquer.json) |
 | Refarm | 312178 | [312178-refarm.json](./312178-refarm.json) |
 | Refbals | 392272 | [392272-refbals.json](./392272-refbals.json) |
