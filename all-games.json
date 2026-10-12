@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T12:06:40.276Z",
-  "total_soundtracks": 1525,
+  "generated_at": "2026-10-12T12:06:51.472Z",
+  "total_soundtracks": 1526,
   "games": [
     {
       "igdb_id": 7522,
@@ -16773,6 +16773,20 @@
           "spotify_url": "https://open.spotify.com/album/5XjvjWWxv6YEFpvunulQzE",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 55189,
+      "game_name": "Warhammer: Vermintide 2",
+      "game_url": "https://ostdb.net/games/warhammer-vermintide-2",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/ef/2c/31ef2c7b-ee0d-bf5a-3f8b-9b8bf186be34/5053760054580.png/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Warhammer: Vermintide 2 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5PRIjjUUjKFJyFQIMvlj85",
+          "apple_music_url": "https://music.apple.com/us/album/warhammer-vermintide-2-original-soundtrack/1745067094",
+          "album_link_url": "https://album.link/i/1745067094"
         }
       ]
     },
