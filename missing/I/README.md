@@ -1888,6 +1888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the alley: Our hometown | 221415 | [221415-in-the-alley-our-hometown.json](./221415-in-the-alley-our-hometown.json) |
 | In the Black | 125370 | [125370-in-the-black.json](./125370-in-the-black.json) |
 | In the Box | 237655 | [237655-in-the-box.json](./237655-in-the-box.json) |
+| In the Building: Cats | 226363 | [226363-in-the-building-cats.json](./226363-in-the-building-cats.json) |
 | In the Bush | 173843 | [173843-in-the-bush.json](./173843-in-the-bush.json) |
 | In the Cards | 184896 | [184896-in-the-cards.json](./184896-in-the-cards.json) |
 | In the Dark | 327429 | [327429-in-the-dark.json](./327429-in-the-dark.json) |
