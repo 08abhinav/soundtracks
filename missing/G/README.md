@@ -2230,6 +2230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Out | 287099 | [287099-get-out.json](./287099-get-out.json) |
 | Get Out | 395537 | [395537-get-out.json](./395537-get-out.json) |
 | Get Out Joey! | 248892 | [248892-get-out-joey.json](./248892-get-out-joey.json) |
+| Get Out of My Space | 204830 | [204830-get-out-of-my-space.json](./204830-get-out-of-my-space.json) |
 | Get Out of My Store! | 268512 | [268512-get-out-of-my-store.json](./268512-get-out-of-my-store.json) |
 | Get Out of this Dungeon | 133995 | [133995-get-out-of-this-dungeon.json](./133995-get-out-of-this-dungeon.json) |
 | Get Out School | 333368 | [333368-get-out-school.json](./333368-get-out-school.json) |
@@ -4177,6 +4178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Adventures! | 181717 | [181717-golf-adventures.json](./181717-golf-adventures.json) |
 | Golf Around 2 | 396032 | [396032-golf-around-2.json](./396032-golf-around-2.json) |
 | Golf Around! | 126509 | [126509-golf-around.json](./126509-golf-around.json) |
+| Golf Assassin: Break of Egghead Mafia | 204831 | [204831-golf-assassin-break-of-egghead-mafia.json](./204831-golf-assassin-break-of-egghead-mafia.json) |
 | Golf Ba Multimedia Shinchaku: Susono Country Club Hen | 254428 | [254428-golf-ba-multimedia-shinchaku-susono-country-club-hen.json](./254428-golf-ba-multimedia-shinchaku-susono-country-club-hen.json) |
 | Golf Blitz | 114534 | [114534-golf-blitz.json](./114534-golf-blitz.json) |
 | Golf by the Way | 265350 | [265350-golf-by-the-way.json](./265350-golf-by-the-way.json) |
@@ -5597,6 +5599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Day: Dookie - Welcome to Paradise | 319233 | [319233-green-day-dookie-welcome-to-paradise.json](./319233-green-day-dookie-welcome-to-paradise.json) |
 | Green Day: Rock Band | 2694 | [2694-green-day-rock-band.json](./2694-green-day-rock-band.json) |
 | Green Devil: Fish and Grow | 95656 | [95656-green-devil-fish-and-grow.json](./95656-green-devil-fish-and-grow.json) |
+| Green Diver | 204832 | [204832-green-diver.json](./204832-green-diver.json) |
 | Green Eyed Monster | 184034 | [184034-green-eyed-monster.json](./184034-green-eyed-monster.json) |
 | Green Fairy VR | 156984 | [156984-green-fairy-vr.json](./156984-green-fairy-vr.json) |
 | Green Farm | 87117 | [87117-green-farm.json](./87117-green-farm.json) |
@@ -5937,6 +5940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimhook | 277334 | [277334-grimhook.json](./277334-grimhook.json) |
 | Grimlands | 65048 | [65048-grimlands.json](./65048-grimlands.json) |
 | Grimlight | 200727 | [200727-grimlight.json](./200727-grimlight.json) |
+| Grimlord | 204833 | [204833-grimlord.json](./204833-grimlord.json) |
 | Grimm & Tonic | 109751 | [109751-grimm-and-tonic.json](./109751-grimm-and-tonic.json) |
 | Grimm Forest | 25824 | [25824-grimm-forest.json](./25824-grimm-forest.json) |
 | Grimm Meisaku Gekijou Vol. 1: Bremen no Ongakutai | 245314 | [245314-grimm-meisaku-gekijou-vol-1-bremen-no-ongakutai.json](./245314-grimm-meisaku-gekijou-vol-1-bremen-no-ongakutai.json) |
