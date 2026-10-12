@@ -1338,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GasCraft | 255157 | [255157-gascraft.json](./255157-gascraft.json) |
 | Gash | 126421 | [126421-gash.json](./126421-gash.json) |
 | Gash And the Ultimate Boner | 292613 | [292613-gash-and-the-ultimate-boner.json](./292613-gash-and-the-ultimate-boner.json) |
+| Gashi Shachi no Sachi | 225841 | [225841-gashi-shachi-no-sachi.json](./225841-gashi-shachi-no-sachi.json) |
 | Gaslamp Cases 2: The Haunted Village | 181119 | [181119-gaslamp-cases-2-the-haunted-village.json](./181119-gaslamp-cases-2-the-haunted-village.json) |
 | Gaslamp Cases 4: The Arcane Village | 294395 | [294395-gaslamp-cases-4-the-arcane-village.json](./294395-gaslamp-cases-4-the-arcane-village.json) |
 | Gaslamp Cases 5: The Dreadful City | 248917 | [248917-gaslamp-cases-5-the-dreadful-city.json](./248917-gaslamp-cases-5-the-dreadful-city.json) |
@@ -2751,6 +2752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginka: After | 307343 | [307343-ginka-after.json](./307343-ginka-after.json) |
 | Ginkgo | 144975 | [144975-ginkgo.json](./144975-ginkgo.json) |
 | Ginnung | 224238 | [224238-ginnung.json](./224238-ginnung.json) |
+| Ginormo Sword | 225830 | [225830-ginormo-sword.json](./225830-ginormo-sword.json) |
 | Ginsei Igo 2: Next Generation | 194456 | [194456-ginsei-igo-2-next-generation.json](./194456-ginsei-igo-2-next-generation.json) |
 | Ginsei Igo 3D | 222301 | [222301-ginsei-igo-3d.json](./222301-ginsei-igo-3d.json) |
 | Ginsei Igo: AI Teaches You How to Play Go | 366974 | [366974-ginsei-igo-ai-teaches-you-how-to-play-go.json](./366974-ginsei-igo-ai-teaches-you-how-to-play-go.json) |
@@ -5189,6 +5191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravewood High: Chapter 1 | 243226 | [243226-gravewood-high-chapter-1.json](./243226-gravewood-high-chapter-1.json) |
 | Gravewood High: Complete | 243227 | [243227-gravewood-high-complete.json](./243227-gravewood-high-complete.json) |
 | Graveyard | 169890 | [169890-graveyard.json](./169890-graveyard.json) |
+| Graveyard Architect | 225220 | [225220-graveyard-architect.json](./225220-graveyard-architect.json) |
 | Graveyard Birds | 89414 | [89414-graveyard-birds.json](./89414-graveyard-birds.json) |
 | Graveyard Cabin | 406928 | [406928-graveyard-cabin.json](./406928-graveyard-cabin.json) |
 | Graveyard Defender | 121772 | [121772-graveyard-defender.json](./121772-graveyard-defender.json) |
@@ -6073,6 +6076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grordbattle | 116386 | [116386-grordbattle.json](./116386-grordbattle.json) |
 | Gross | 150091 | [150091-gross.json](./150091-gross.json) |
 | Grotesque Insight | 258622 | [258622-grotesque-insight.json](./258622-grotesque-insight.json) |
+| Grotesque Realm | 225205 | [225205-grotesque-realm.json](./225205-grotesque-realm.json) |
 | Grotesque Tactics 2: Dungeons and Donuts | 16149 | [16149-grotesque-tactics-2-dungeons-and-donuts.json](./16149-grotesque-tactics-2-dungeons-and-donuts.json) |
 | Grotesque Tactics: Evil Heroes | 18914 | [18914-grotesque-tactics-evil-heroes.json](./18914-grotesque-tactics-evil-heroes.json) |
 | Grottesco Absurdus | 110558 | [110558-grottesco-absurdus.json](./110558-grottesco-absurdus.json) |
@@ -6586,6 +6590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gulu | 48011 | [48011-gulu.json](./48011-gulu.json) |
 | Gulu: A Tail's Journey | 215354 | [215354-gulu-a-tails-journey.json](./215354-gulu-a-tails-journey.json) |
 | GuluGuluLand 3D | 289238 | [289238-gulugululand-3d.json](./289238-gulugululand-3d.json) |
+| Gum Ball Run | 225211 | [225211-gum-ball-run.json](./225211-gum-ball-run.json) |
 | Gum Droppers | 140608 | [140608-gum-droppers.json](./140608-gum-droppers.json) |
 | Gum Flesh | 311990 | [311990-gum-flesh.json](./311990-gum-flesh.json) |
 | Gum Girl | 181847 | [181847-gum-girl.json](./181847-gum-girl.json) |
