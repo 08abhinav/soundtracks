@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Struggling | 375936 | [375936-im-struggling.json](./375936-im-struggling.json) |
 | I'm Surrounded by Classical Beauties! | 296998 | [296998-im-surrounded-by-classical-beauties.json](./296998-im-surrounded-by-classical-beauties.json) |
 | I'm the dirt-for art | 120948 | [120948-im-the-dirt-for-art.json](./120948-im-the-dirt-for-art.json) |
+| I'm the Master of 3 Cute Maids | 218632 | [218632-im-the-master-of-3-cute-maids.json](./218632-im-the-master-of-3-cute-maids.json) |
 | I'm the Policeman | 278704 | [278704-im-the-policeman.json](./278704-im-the-policeman.json) |
 | I'm Titanium | 51497 | [51497-im-titanium.json](./51497-im-titanium.json) |
 | I'm Tripping | 389099 | [389099-im-tripping.json](./389099-im-tripping.json) |
@@ -2722,6 +2723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ink Bunny | 235693 | [235693-ink-bunny.json](./235693-ink-bunny.json) |
 | Ink Enigma: Hidden Object Challenges | 359036 | [359036-ink-enigma-hidden-object-challenges.json](./359036-ink-enigma-hidden-object-challenges.json) |
 | Ink Hero | 335331 | [335331-ink-hero.json](./335331-ink-hero.json) |
+| Ink Inside | 218684 | [218684-ink-inside.json](./218684-ink-inside.json) |
 | Ink Neko Maid | 247428 | [247428-ink-neko-maid.json](./247428-ink-neko-maid.json) |
 | Ink of Fate | 278970 | [278970-ink-of-fate.json](./278970-ink-of-fate.json) |
 | Ink or Swim | 87014 | [87014-ink-or-swim.json](./87014-ink-or-swim.json) |
