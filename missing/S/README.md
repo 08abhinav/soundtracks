@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Kento | 257906 | [257906-samurai-kento.json](./257906-samurai-kento.json) |
 | Samurai Kirby | 134459 | [134459-samurai-kirby.json](./134459-samurai-kirby.json) |
 | Samurai Lantern | 112238 | [112238-samurai-lantern.json](./112238-samurai-lantern.json) |
+| Samurai Legends | 214132 | [214132-samurai-legends.json](./214132-samurai-legends.json) |
 | Samurai Maiden | 212269 | [212269-samurai-maiden.json](./212269-samurai-maiden.json) |
 | Samurai Nihon-Ichi | 40415 | [40415-samurai-nihon-ichi.json](./40415-samurai-nihon-ichi.json) |
 | Samurai Ninja Wars | 285522 | [285522-samurai-ninja-wars.json](./285522-samurai-ninja-wars.json) |
@@ -877,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Revenge | 307606 | [307606-samurai-revenge.json](./307606-samurai-revenge.json) |
 | Samurai Revenge 2 | 241509 | [241509-samurai-revenge-2.json](./241509-samurai-revenge-2.json) |
 | Samurai Riot: Definitive Edition | 227189 | [227189-samurai-riot-definitive-edition.json](./227189-samurai-riot-definitive-edition.json) |
+| Samurai Rising | 214129 | [214129-samurai-rising.json](./214129-samurai-rising.json) |
 | Samurai Saga | 55910 | [55910-samurai-saga.json](./55910-samurai-saga.json) |
 | Samurai Sam | 181204 | [181204-samurai-sam.json](./181204-samurai-sam.json) |
 | Samurai Shampoo | 153879 | [153879-samurai-shampoo.json](./153879-samurai-shampoo.json) |
@@ -11911,6 +11913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulFeast | 369559 | [369559-soulfeast.json](./369559-soulfeast.json) |
 | Soulfire: Weapon Master | 152906 | [152906-soulfire-weapon-master.json](./152906-soulfire-weapon-master.json) |
 | Soulflow | 286062 | [286062-soulflow.json](./286062-soulflow.json) |
+| Soulfly | 214145 | [214145-soulfly.json](./214145-soulfly.json) |
 | SoulForge | 348379 | [348379-soulforge.json](./348379-soulforge.json) |
 | Soulforge: Lost Path | 353880 | [353880-soulforge-lost-path.json](./353880-soulforge-lost-path.json) |
 | Soulframe | 209643 | [209643-soulframe.json](./209643-soulframe.json) |
@@ -15116,6 +15119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Standoff Multiplayer | 138172 | [138172-standoff-multiplayer.json](./138172-standoff-multiplayer.json) |
 | Standpoint | 10885 | [10885-standpoint.json](./10885-standpoint.json) |
 | Stanga | 133210 | [133210-stanga.json](./133210-stanga.json) |
+| Stanislav | 214114 | [214114-stanislav.json](./214114-stanislav.json) |
 | Stanley: Wild for Sharks! | 70964 | [70964-stanley-wild-for-sharks.json](./70964-stanley-wild-for-sharks.json) |
 | Stapel | 192987 | [192987-stapel.json](./192987-stapel.json) |
 | Star Academy: Showtime! | 327859 | [327859-star-academy-showtime.json](./327859-star-academy-showtime.json) |
@@ -15293,6 +15297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Hacker | 197364 | [197364-star-hacker.json](./197364-star-hacker.json) |
 | Star Hammer Tactics | 52860 | [52860-star-hammer-tactics.json](./52860-star-hammer-tactics.json) |
 | Star Hammer: The Vanguard Prophecy | 36049 | [36049-star-hammer-the-vanguard-prophecy.json](./36049-star-hammer-the-vanguard-prophecy.json) |
+| Star Head | 214117 | [214117-star-head.json](./214117-star-head.json) |
 | Star Healer | 174679 | [174679-star-healer.json](./174679-star-healer.json) |
 | Star Hearts: Hoshi to Daichi no Shisha | 37317 | [37317-star-hearts-hoshi-to-daichi-no-shisha.json](./37317-star-hearts-hoshi-to-daichi-no-shisha.json) |
 | Star Hearts: Launch Point | 200713 | [200713-star-hearts-launch-point.json](./200713-star-hearts-launch-point.json) |
@@ -19985,6 +19990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Castles Puzzles | 155595 | [155595-super-jigsaw-puzzle-generations-castles-puzzles.json](./155595-super-jigsaw-puzzle-generations-castles-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Cats 3 | 357958 | [357958-super-jigsaw-puzzle-generations-cats-3.json](./357958-super-jigsaw-puzzle-generations-cats-3.json) |
 | Super Jigsaw Puzzle: Generations - Cats Puzzles | 155587 | [155587-super-jigsaw-puzzle-generations-cats-puzzles.json](./155587-super-jigsaw-puzzle-generations-cats-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Chile | 214125 | [214125-super-jigsaw-puzzle-generations-chile.json](./214125-super-jigsaw-puzzle-generations-chile.json) |
 | Super Jigsaw Puzzle: Generations - China Puzzles | 155621 | [155621-super-jigsaw-puzzle-generations-china-puzzles.json](./155621-super-jigsaw-puzzle-generations-china-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Christmas Puzzles | 155585 | [155585-super-jigsaw-puzzle-generations-christmas-puzzles.json](./155585-super-jigsaw-puzzle-generations-christmas-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Cities 2 | 235728 | [235728-super-jigsaw-puzzle-generations-cities-2.json](./235728-super-jigsaw-puzzle-generations-cities-2.json) |
@@ -21882,6 +21888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive & Craft | 223520 | [223520-survive-and-craft.json](./223520-survive-and-craft.json) |
 | Survive 10 Minutes Please | 201323 | [201323-survive-10-minutes-please.json](./201323-survive-10-minutes-please.json) |
 | Survive and Revenge | 236285 | [236285-survive-and-revenge.json](./236285-survive-and-revenge.json) |
+| Survive Another Day | 214106 | [214106-survive-another-day.json](./214106-survive-another-day.json) |
 | Survive Avalon | 158709 | [158709-survive-avalon.json](./158709-survive-avalon.json) |
 | Survive Disasters Apocalypse | 391248 | [391248-survive-disasters-apocalypse.json](./391248-survive-disasters-apocalypse.json) |
 | Survive Game | 310095 | [310095-survive-game.json](./310095-survive-game.json) |
