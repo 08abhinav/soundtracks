@@ -5833,6 +5833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shootball Arena | 196641 | [196641-shootball-arena.json](./196641-shootball-arena.json) |
 | Shooter | 359367 | [359367-shooter.json](./359367-shooter.json) |
 | Shooter Bundle: Ghost Assassin, Hotline, Water Blast, Shadowblade, Yori's Journey | 356823 | [356823-shooter-bundle-ghost-assassin-hotline-water-blast-shadowblade-yoris-journey.json](./356823-shooter-bundle-ghost-assassin-hotline-water-blast-shadowblade-yoris-journey.json) |
+| Shooter Dual Pack I Necromunda: Hired Gun + Space Hulk: Deathwing - Enhanced Edition | 194260 | [194260-shooter-dual-pack-i-necromunda-hired-gun-space-hulk-deathwing-enhanced-edition.json](./194260-shooter-dual-pack-i-necromunda-hired-gun-space-hulk-deathwing-enhanced-edition.json) |
 | Shooter Game | 107871 | [107871-shooter-game.json](./107871-shooter-game.json) |
 | Shooter League: Robot Goal | 198312 | [198312-shooter-league-robot-goal.json](./198312-shooter-league-robot-goal.json) |
 | Shooter of the Arcana | 319948 | [319948-shooter-of-the-arcana.json](./319948-shooter-of-the-arcana.json) |
@@ -8276,6 +8277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam: Shaq vs. The Legends | 46180 | [46180-slam-shaq-vs-the-legends.json](./46180-slam-shaq-vs-the-legends.json) |
 | Slam! | 94696 | [94696-slam.json](./94696-slam.json) |
 | Slamball | 94553 | [94553-slamball.json](./94553-slamball.json) |
+| Slamjet Stadium | 194187 | [194187-slamjet-stadium.json](./194187-slamjet-stadium.json) |
 | Slammer Caps Xtreme | 358854 | [358854-slammer-caps-xtreme.json](./358854-slammer-caps-xtreme.json) |
 | Slampunks | 360759 | [360759-slampunks.json](./360759-slampunks.json) |
 | Slamscape | 9742 | [9742-slamscape.json](./9742-slamscape.json) |
@@ -11436,6 +11438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog Chaos & Spinball | 202266 | [202266-sonic-the-hedgehog-chaos-and-spinball.json](./202266-sonic-the-hedgehog-chaos-and-spinball.json) |
 | Sonic the Hedgehog Classic Heroes | 129159 | [129159-sonic-the-hedgehog-classic-heroes.json](./129159-sonic-the-hedgehog-classic-heroes.json) |
 | Sonic the Hedgehog DVD | 334139 | [334139-sonic-the-hedgehog-dvd.json](./334139-sonic-the-hedgehog-dvd.json) |
+| Sonic the Hedgehog Extreme | 194219 | [194219-sonic-the-hedgehog-extreme.json](./194219-sonic-the-hedgehog-extreme.json) |
 | Sonic the Hedgehog Extreme Boarding | 198563 | [198563-sonic-the-hedgehog-extreme-boarding.json](./198563-sonic-the-hedgehog-extreme-boarding.json) |
 | Sonic the Hedgehog Forever | 198174 | [198174-sonic-the-hedgehog-forever.json](./198174-sonic-the-hedgehog-forever.json) |
 | Sonic The Hedgehog FTS | 324957 | [324957-sonic-the-hedgehog-fts.json](./324957-sonic-the-hedgehog-fts.json) |
@@ -12617,6 +12620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders: Invincible Collection - Special Edition | 141665 | [141665-space-invaders-invincible-collection-special-edition.json](./141665-space-invaders-invincible-collection-special-edition.json) |
 | Space Invaders: The Original Game | 210577 | [210577-space-invaders-the-original-game.json](./210577-space-invaders-the-original-game.json) |
 | Space Invaders: World Defense | 257365 | [257365-space-invaders-world-defense.json](./257365-space-invaders-world-defense.json) |
+| Space Invasion | 194252 | [194252-space-invasion.json](./194252-space-invasion.json) |
 | Space Invasion | 279067 | [279067-space-invasion.json](./279067-space-invasion.json) |
 | Space Invasion | 293713 | [293713-space-invasion.json](./293713-space-invasion.json) |
 | Space Invasion 0 | 58635 | [58635-space-invasion-0.json](./58635-space-invasion-0.json) |
@@ -15388,6 +15392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Dust: A Journey Through Space | 161349 | [161349-star-dust-a-journey-through-space.json](./161349-star-dust-a-journey-through-space.json) |
 | Star Dust: The Book of Earth (VR) | 29931 | [29931-star-dust-the-book-of-earth-vr.json](./29931-star-dust-the-book-of-earth-vr.json) |
 | Star Dynasties | 122934 | [122934-star-dynasties.json](./122934-star-dynasties.json) |
+| Star Dynasties Bloodlines | 194261 | [194261-star-dynasties-bloodlines.json](./194261-star-dynasties-bloodlines.json) |
 | Star Equestrian | 242225 | [242225-star-equestrian.json](./242225-star-equestrian.json) |
 | Star Escape | 135052 | [135052-star-escape.json](./135052-star-escape.json) |
 | Star Evil | 243936 | [243936-star-evil.json](./243936-star-evil.json) |
@@ -16589,6 +16594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station Memories | 216220 | [216220-station-memories.json](./216220-station-memories.json) |
 | Station Nexus | 406291 | [406291-station-nexus.json](./406291-station-nexus.json) |
 | Station Noctis | 338331 | [338331-station-noctis.json](./338331-station-noctis.json) |
+| Station Overseer | 194197 | [194197-station-overseer.json](./194197-station-overseer.json) |
 | Station Sabotage | 283770 | [283770-station-sabotage.json](./283770-station-sabotage.json) |
 | Station Spacewalk Game | 200954 | [200954-station-spacewalk-game.json](./200954-station-spacewalk-game.json) |
 | Station Zeta | 304003 | [304003-station-zeta.json](./304003-station-zeta.json) |
@@ -21617,6 +21623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superhuman | 330798 | [330798-superhuman.json](./330798-superhuman.json) |
 | SuperHyperCube | 20332 | [20332-superhypercube.json](./20332-superhypercube.json) |
 | SuperHyperHappyGame | 311186 | [311186-superhyperhappygame.json](./311186-superhyperhappygame.json) |
+| Superior | 194231 | [194231-superior.json](./194231-superior.json) |
 | Superior IQ | 369637 | [369637-superior-iq.json](./369637-superior-iq.json) |
 | Superior Relatives | 265862 | [265862-superior-relatives.json](./265862-superior-relatives.json) |
 | Superior Wizards | 110134 | [110134-superior-wizards.json](./110134-superior-wizards.json) |
@@ -21792,6 +21799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperTanks | 149939 | [149939-supertanks.json](./149939-supertanks.json) |
 | SuperTotalCarnage! | 230356 | [230356-supertotalcarnage.json](./230356-supertotalcarnage.json) |
 | SuperTrucks Offroad Racing | 237384 | [237384-supertrucks-offroad-racing.json](./237384-supertrucks-offroad-racing.json) |
+| SuperTux Advance | 194198 | [194198-supertux-advance.json](./194198-supertux-advance.json) |
 | SuperTux Wii | 205620 | [205620-supertux-wii.json](./205620-supertux-wii.json) |
 | SuperTux: Octo's Levels | 230761 | [230761-supertux-octos-levels.json](./230761-supertux-octos-levels.json) |
 | SuperTuxKart | 10763 | [10763-supertuxkart.json](./10763-supertuxkart.json) |
