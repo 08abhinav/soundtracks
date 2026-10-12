@@ -990,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youtubers Life: OMG Edition | 111159 | [111159-youtubers-life-omg-edition.json](./111159-youtubers-life-omg-edition.json) |
 | Youxing Continent | 326292 | [326292-youxing-continent.json](./326292-youxing-continent.json) |
 | Youyou Kengeki Musou | 137062 | [137062-youyou-kengeki-musou.json](./137062-youyou-kengeki-musou.json) |
+| Yowamushi Pedal Ashita he no Kou Kaiten | 222479 | [222479-yowamushi-pedal-ashita-he-no-kou-kaiten.json](./222479-yowamushi-pedal-ashita-he-no-kou-kaiten.json) |
 | Yowie | 300334 | [300334-yowie.json](./300334-yowie.json) |
 | Yoyo | 128468 | [128468-yoyo.json](./128468-yoyo.json) |
 | Yoyo Blade | 419983 | [419983-yoyo-blade.json](./419983-yoyo-blade.json) |
