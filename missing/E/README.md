@@ -515,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Tower | 395535 | [395535-echo-tower.json](./395535-echo-tower.json) |
 | Echo Wars: Road Rage | 215896 | [215896-echo-wars-road-rage.json](./215896-echo-wars-road-rage.json) |
 | Echo Weaver | 290107 | [290107-echo-weaver.json](./290107-echo-weaver.json) |
+| Echo Wisp | 208638 | [208638-echo-wisp.json](./208638-echo-wisp.json) |
 | Echo: Benefits | 141823 | [141823-echo-benefits.json](./141823-echo-benefits.json) |
 | Echo: Defy Death | 303500 | [303500-echo-defy-death.json](./303500-echo-defy-death.json) |
 | Echo: Digital Deluxe Edition | 212910 | [212910-echo-digital-deluxe-edition.json](./212910-echo-digital-deluxe-edition.json) |
@@ -3542,6 +3543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape with AI | 261984 | [261984-escape-with-ai.json](./261984-escape-with-ai.json) |
 | Escape With Bombs | 179134 | [179134-escape-with-bombs.json](./179134-escape-with-bombs.json) |
 | Escape with Monet | 96928 | [96928-escape-with-monet.json](./96928-escape-with-monet.json) |
+| Escape Yourself | 208665 | [208665-escape-yourself.json](./208665-escape-yourself.json) |
 | Escape Zolstar | 121633 | [121633-escape-zolstar.json](./121633-escape-zolstar.json) |
 | Escape Zombie Land | 75898 | [75898-escape-zombie-land.json](./75898-escape-zombie-land.json) |
 | Escape Zombies At Night | 150498 | [150498-escape-zombies-at-night.json](./150498-escape-zombies-at-night.json) |
