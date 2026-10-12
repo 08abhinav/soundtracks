@@ -4827,6 +4827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Driver: Miami Files | 90352 | [90352-detective-driver-miami-files.json](./90352-detective-driver-miami-files.json) |
 | Detective Dunkadoo | 386965 | [386965-detective-dunkadoo.json](./386965-detective-dunkadoo.json) |
 | Detective Eustaquio | 320737 | [320737-detective-eustaquio.json](./320737-detective-eustaquio.json) |
+| Detective Fantasia DX | 207572 | [207572-detective-fantasia-dx.json](./207572-detective-fantasia-dx.json) |
 | Detective Fantasia: Excalimurder | 274562 | [274562-detective-fantasia-excalimurder.json](./274562-detective-fantasia-excalimurder.json) |
 | Detective Firefly | 348257 | [348257-detective-firefly.json](./348257-detective-firefly.json) |
 | Detective Frizbee | 332250 | [332250-detective-frizbee.json](./332250-detective-frizbee.json) |
@@ -8763,6 +8764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down Load | 37716 | [37716-down-load.json](./37716-down-load.json) |
 | Down Load 2 | 85810 | [85810-down-load-2.json](./85810-down-load-2.json) |
 | Down Means Up | 121561 | [121561-down-means-up.json](./121561-down-means-up.json) |
+| Down n' Up | 207564 | [207564-down-n-up.json](./207564-down-n-up.json) |
 | Down Pit | 412348 | [412348-down-pit.json](./412348-down-pit.json) |
 | Down the Darkest Pit | 381953 | [381953-down-the-darkest-pit.json](./381953-down-the-darkest-pit.json) |
 | Down the Drain | 256830 | [256830-down-the-drain.json](./256830-down-the-drain.json) |
@@ -10242,6 +10244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams of Witchtown | 67282 | [67282-dreams-of-witchtown.json](./67282-dreams-of-witchtown.json) |
 | Dreams on a Pillow | 342893 | [342893-dreams-on-a-pillow.json](./342893-dreams-on-a-pillow.json) |
 | Dreams Stories Online | 396016 | [396016-dreams-stories-online.json](./396016-dreams-stories-online.json) |
+| Dreams with Furry | 207579 | [207579-dreams-with-furry.json](./207579-dreams-with-furry.json) |
 | Dreams: Dragons, Dungeons & Templates | 344458 | [344458-dreams-dragons-dungeons-and-templates.json](./344458-dreams-dragons-dungeons-and-templates.json) |
 | Dreams: Unlimited links | 266422 | [266422-dreams-unlimited-links.json](./266422-dreams-unlimited-links.json) |
 | Dreams: VR | 344447 | [344447-dreams-vr.json](./344447-dreams-vr.json) |
