@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Disciples | 233470 | [233470-dark-disciples.json](./233470-dark-disciples.json) |
 | Dark Disciples II | 168324 | [168324-dark-disciples-ii.json](./168324-dark-disciples-ii.json) |
 | Dark Dive: The Last Tropic | 277021 | [277021-dark-dive-the-last-tropic.json](./277021-dark-dive-the-last-tropic.json) |
+| Dark Divinity: The Calling | 196545 | [196545-dark-divinity-the-calling.json](./196545-dark-divinity-the-calling.json) |
 | Dark Doll | 415503 | [415503-dark-doll.json](./415503-dark-doll.json) |
 | Dark Drive | 95620 | [95620-dark-drive.json](./95620-dark-drive.json) |
 | Dark Dungeon Feminized | 334340 | [334340-dark-dungeon-feminized.json](./334340-dark-dungeon-feminized.json) |
@@ -3468,6 +3469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defence Mission | 246324 | [246324-defence-mission.json](./246324-defence-mission.json) |
 | Defence of the Arcane Realms | 298679 | [298679-defence-of-the-arcane-realms.json](./298679-defence-of-the-arcane-realms.json) |
 | Defence War | 131322 | [131322-defence-war.json](./131322-defence-war.json) |
+| DefenceOrder | 196509 | [196509-defenceorder.json](./196509-defenceorder.json) |
 | Defend Against Cats | 388169 | [388169-defend-against-cats.json](./388169-defend-against-cats.json) |
 | Defend Earth: Xenos Survivors | 320738 | [320738-defend-earth-xenos-survivors.json](./320738-defend-earth-xenos-survivors.json) |
 | Defend from Candyland! | 186675 | [186675-defend-from-candyland.json](./186675-defend-from-candyland.json) |
@@ -7343,6 +7345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doge Simulator | 76897 | [76897-doge-simulator.json](./76897-doge-simulator.json) |
 | Doge Storm | 360698 | [360698-doge-storm.json](./360698-doge-storm.json) |
 | Doge to the Moon | 149505 | [149505-doge-to-the-moon.json](./149505-doge-to-the-moon.json) |
+| DogeFight | 196508 | [196508-dogefight.json](./196508-dogefight.json) |
 | Dogeminer | 101938 | [101938-dogeminer.json](./101938-dogeminer.json) |
 | Dogeminer: CE | 396553 | [396553-dogeminer-ce.json](./396553-dogeminer-ce.json) |
 | Dogenstein | 335369 | [335369-dogenstein.json](./335369-dogenstein.json) |
@@ -11125,6 +11128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel of games | 292581 | [292581-duel-of-games.json](./292581-duel-of-games.json) |
 | Duel of Honor | 272239 | [272239-duel-of-honor.json](./272239-duel-of-honor.json) |
 | Duel of Summoners | 67602 | [67602-duel-of-summoners.json](./67602-duel-of-summoners.json) |
+| Duel of Sword | 196548 | [196548-duel-of-sword.json](./196548-duel-of-sword.json) |
 | Duel Princess | 186912 | [186912-duel-princess.json](./186912-duel-princess.json) |
 | Duel School Infinite | 210524 | [210524-duel-school-infinite.json](./210524-duel-school-infinite.json) |
 | Duel Toys 2 | 222860 | [222860-duel-toys-2.json](./222860-duel-toys-2.json) |
