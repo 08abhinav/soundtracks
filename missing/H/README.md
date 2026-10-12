@@ -917,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hans in the Internetz | 392266 | [392266-hans-in-the-internetz.json](./392266-hans-in-the-internetz.json) |
 | Hanse | 26458 | [26458-hanse.json](./26458-hanse.json) |
 | Hanse: Die Expedition | 85818 | [85818-hanse-die-expedition.json](./85818-hanse-die-expedition.json) |
+| Hansel | 215308 | [215308-hansel.json](./215308-hansel.json) |
 | Hansel & Gretel | 66943 | [66943-hansel-and-gretel.json](./66943-hansel-and-gretel.json) |
 | Hansel and Gretel | 215350 | [215350-hansel-and-gretel.json](./215350-hansel-and-gretel.json) |
 | Hansel and Gretel and the Enchanted Castle | 46641 | [46641-hansel-and-gretel-and-the-enchanted-castle.json](./46641-hansel-and-gretel-and-the-enchanted-castle.json) |
@@ -4110,6 +4111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | hexceed: Inventa Pack | 155691 | [155691-hexceed-inventa-pack.json](./155691-hexceed-inventa-pack.json) |
 | hexceed: Iter Pack | 155697 | [155697-hexceed-iter-pack.json](./155697-hexceed-iter-pack.json) |
 | Hexceed: Metallicum Pack | 262249 | [262249-hexceed-metallicum-pack.json](./262249-hexceed-metallicum-pack.json) |
+| Hexceed: Novus Pack | 215348 | [215348-hexceed-novus-pack.json](./215348-hexceed-novus-pack.json) |
 | Hexceed: Progressum | 202762 | [202762-hexceed-progressum.json](./202762-hexceed-progressum.json) |
 | Hexceed: Rimor | 204296 | [204296-hexceed-rimor.json](./204296-hexceed-rimor.json) |
 | Hexceed: Rubrum | 295865 | [295865-hexceed-rubrum.json](./295865-hexceed-rubrum.json) |
@@ -4812,6 +4814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highscore | 238592 | [238592-highscore.json](./238592-highscore.json) |
 | HighScore Anomaly Shop | 292442 | [292442-highscore-anomaly-shop.json](./292442-highscore-anomaly-shop.json) |
 | Highscore Processing Unit | 99645 | [99645-highscore-processing-unit.json](./99645-highscore-processing-unit.json) |
+| Hightide | 215347 | [215347-hightide.json](./215347-hightide.json) |
 | Highway | 247016 | [247016-highway.json](./247016-highway.json) |
 | Highway | 267410 | [267410-highway.json](./267410-highway.json) |
 | Highway | 367840 | [367840-highway.json](./367840-highway.json) |
@@ -6097,6 +6100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hookshot Runner | 341615 | [341615-hookshot-runner.json](./341615-hookshot-runner.json) |
 | HookShotVR | 143934 | [143934-hookshotvr.json](./143934-hookshotvr.json) |
 | Hooligan Crusoe | 283841 | [283841-hooligan-crusoe.json](./283841-hooligan-crusoe.json) |
+| Hooligan James | 215342 | [215342-hooligan-james.json](./215342-hooligan-james.json) |
 | Hooligan Simulator 2023: You vs. System | 277917 | [277917-hooligan-simulator-2023-you-vs-system.json](./277917-hooligan-simulator-2023-you-vs-system.json) |
 | Hooligan Simulator: Survive in Urban Jungle | 250891 | [250891-hooligan-simulator-survive-in-urban-jungle.json](./250891-hooligan-simulator-survive-in-urban-jungle.json) |
 | Hooligan Vasja | 31632 | [31632-hooligan-vasja.json](./31632-hooligan-vasja.json) |
@@ -7563,6 +7567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt: Showdown 1896 - The Son of Gunpowder | 296920 | [296920-hunt-showdown-1896-the-son-of-gunpowder.json](./296920-hunt-showdown-1896-the-son-of-gunpowder.json) |
 | Hunt: Showdown 1896 - They Came from Salem | 332026 | [332026-hunt-showdown-1896-they-came-from-salem.json](./332026-hunt-showdown-1896-they-came-from-salem.json) |
 | Hunt: Showdown 1896 - When Shadows Dance | 265773 | [265773-hunt-showdown-1896-when-shadows-dance.json](./265773-hunt-showdown-1896-when-shadows-dance.json) |
+| Hunt3r | 215305 | [215305-hunt3r.json](./215305-hunt3r.json) |
 | HuntCore | 391807 | [391807-huntcore.json](./391807-huntcore.json) |
 | Huntdown | 19728 | [19728-huntdown.json](./19728-huntdown.json) |
 | Huntdown: Collector's Edition | 152327 | [152327-huntdown-collectors-edition.json](./152327-huntdown-collectors-edition.json) |
