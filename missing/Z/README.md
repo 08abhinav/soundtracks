@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Idle: Gravity Meditation | 233403 | [233403-zen-idle-gravity-meditation.json](./233403-zen-idle-gravity-meditation.json) |
 | Zen Koi | 255841 | [255841-zen-koi.json](./255841-zen-koi.json) |
 | Zen Koi 2 | 90702 | [90702-zen-koi-2.json](./90702-zen-koi-2.json) |
+| Zen Lines | 219772 | [219772-zen-lines.json](./219772-zen-lines.json) |
 | Zen Match | 185681 | [185681-zen-match.json](./185681-zen-match.json) |
 | Zen Mosaics | 415860 | [415860-zen-mosaics.json](./415860-zen-mosaics.json) |
 | Zen of Clover | 89520 | [89520-zen-of-clover.json](./89520-zen-of-clover.json) |
