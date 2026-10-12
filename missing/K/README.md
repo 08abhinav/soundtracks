@@ -2434,6 +2434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirilma: Helix Horizon | 406847 | [406847-kirilma-helix-horizon.json](./406847-kirilma-helix-horizon.json) |
 | Kiritan Island Okawari! | 204731 | [204731-kiritan-island-okawari.json](./204731-kiritan-island-okawari.json) |
 | Kiritan Thruster | 351761 | [351761-kiritan-thruster.json](./351761-kiritan-thruster.json) |
+| Kirka Drive | 222474 | [222474-kirka-drive.json](./222474-kirka-drive.json) |
 | Kirka.io | 152476 | [152476-kirka-io.json](./152476-kirka-io.json) |
 | Kiro | 138741 | [138741-kiro.json](./138741-kiro.json) |
 | Kiro Ramy Story: The Junior | 123582 | [123582-kiro-ramy-story-the-junior.json](./123582-kiro-ramy-story-the-junior.json) |
@@ -2639,6 +2640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kivi's Underworld | 27552 | [27552-kivis-underworld.json](./27552-kivis-underworld.json) |
 | Kiwame Mahjong Deluxe: Mirai Senshi 21 | 128365 | [128365-kiwame-mahjong-deluxe-mirai-senshi-21.json](./128365-kiwame-mahjong-deluxe-mirai-senshi-21.json) |
 | Kiwame Mahjong DX II | 97872 | [97872-kiwame-mahjong-dx-ii.json](./97872-kiwame-mahjong-dx-ii.json) |
+| Kiwamero! Shunkan Jump Kentei | 222453 | [222453-kiwamero-shunkan-jump-kentei.json](./222453-kiwamero-shunkan-jump-kentei.json) |
 | Kiwanuka | 61305 | [61305-kiwanuka.json](./61305-kiwanuka.json) |
 | Kiwaya | 128962 | [128962-kiwaya.json](./128962-kiwaya.json) |
 | Kiwi | 186256 | [186256-kiwi.json](./186256-kiwi.json) |
@@ -3280,6 +3282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konchuu Fighters | 65191 | [65191-konchuu-fighters.json](./65191-konchuu-fighters.json) |
 | Konchuu Hakase | 228602 | [228602-konchuu-hakase.json](./228602-konchuu-hakase.json) |
 | Konchuu Hakase 2 | 228603 | [228603-konchuu-hakase-2.json](./228603-konchuu-hakase-2.json) |
+| Konchuu Monster: Super Battle | 222482 | [222482-konchuu-monster-super-battle.json](./222482-konchuu-monster-super-battle.json) |
 | Koncolos | 192264 | [192264-koncolos.json](./192264-koncolos.json) |
 | Konductra | 20619 | [20619-konductra.json](./20619-konductra.json) |
 | Koneko Club | 385748 | [385748-koneko-club.json](./385748-koneko-club.json) |
@@ -3725,6 +3728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuma Sushi Bar | 200745 | [200745-kuma-sushi-bar.json](./200745-kuma-sushi-bar.json) |
 | Kuma\War | 23563 | [23563-kuma-war.json](./23563-kuma-war.json) |
 | Kumamaru Adventure | 297638 | [297638-kumamaru-adventure.json](./297638-kumamaru-adventure.json) |
+| Kumamon Bomber Puzzle de Kumamon Taisou | 222441 | [222441-kumamon-bomber-puzzle-de-kumamon-taisou.json](./222441-kumamon-bomber-puzzle-de-kumamon-taisou.json) |
 | Kumamon Run | 283275 | [283275-kumamon-run.json](./283275-kumamon-run.json) |
 | Kumari Samsara: The Living Goddess | 402909 | [402909-kumari-samsara-the-living-goddess.json](./402909-kumari-samsara-the-living-goddess.json) |
 | Kumatanchi | 70683 | [70683-kumatanchi.json](./70683-kumatanchi.json) |
