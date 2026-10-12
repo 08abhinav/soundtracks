@@ -1424,6 +1424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mail Mares | 404344 | [404344-mail-mares.json](./404344-mail-mares.json) |
 | Mail Mole + Expansions Bundle | 238186 | [238186-mail-mole-expansions-bundle.json](./238186-mail-mole-expansions-bundle.json) |
 | Mail Mole: 'Xpress Deliveries | 238444 | [238444-mail-mole-xpress-deliveries.json](./238444-mail-mole-xpress-deliveries.json) |
+| Mail Mole: Collector's Edition | 203098 | [203098-mail-mole-collectors-edition.json](./203098-mail-mole-collectors-edition.json) |
 | Mail Order Monsters | 25891 | [25891-mail-order-monsters.json](./25891-mail-order-monsters.json) |
 | Mail Plane | 41981 | [41981-mail-plane.json](./41981-mail-plane.json) |
 | Mail Rabbit | 176417 | [176417-mail-rabbit.json](./176417-mail-rabbit.json) |
