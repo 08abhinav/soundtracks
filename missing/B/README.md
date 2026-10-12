@@ -1424,6 +1424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banyu: Reclaiming Hope | 347888 | [347888-banyu-reclaiming-hope.json](./347888-banyu-reclaiming-hope.json) |
 | Banzai Dice | 232367 | [232367-banzai-dice.json](./232367-banzai-dice.json) |
 | Banzai Escape 2 | 129645 | [129645-banzai-escape-2.json](./129645-banzai-escape-2.json) |
+| Banzai Escape 2: Subterranean | 195958 | [195958-banzai-escape-2-subterranean.json](./195958-banzai-escape-2-subterranean.json) |
 | Banzai Escape 2: Subterranean - KTactical | 297781 | [297781-banzai-escape-2-subterranean-ktactical.json](./297781-banzai-escape-2-subterranean-ktactical.json) |
 | Banzai Escape 2: Subterranean - Tesla Technology | 275517 | [275517-banzai-escape-2-subterranean-tesla-technology.json](./275517-banzai-escape-2-subterranean-tesla-technology.json) |
 | Banzai Hentai! | 368516 | [368516-banzai-hentai.json](./368516-banzai-hentai.json) |
@@ -3874,6 +3875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Being Faust: Enter Mephisto | 56459 | [56459-being-faust-enter-mephisto.json](./56459-being-faust-enter-mephisto.json) |
 | Being Her Darkest Friend | 60216 | [60216-being-her-darkest-friend.json](./60216-being-her-darkest-friend.json) |
 | Being John | 283989 | [283989-being-john.json](./283989-being-john.json) |
+| Being Left the F*** Alone Simulator | 195962 | [195962-being-left-the-f-alone-simulator.json](./195962-being-left-the-f-alone-simulator.json) |
 | Being Mindful | 168641 | [168641-being-mindful.json](./168641-being-mindful.json) |
 | Being One: Episode 1 | 184076 | [184076-being-one-episode-1.json](./184076-being-one-episode-1.json) |
 | Being Stronger While Playing! SilverStar Go DX | 135635 | [135635-being-stronger-while-playing-silverstar-go-dx.json](./135635-being-stronger-while-playing-silverstar-go-dx.json) |
@@ -4451,6 +4453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Tenmei | 303714 | [303714-beyond-tenmei.json](./303714-beyond-tenmei.json) |
 | Beyond the Abyss | 86126 | [86126-beyond-the-abyss.json](./86126-beyond-the-abyss.json) |
 | Beyond the Black Hole | 73792 | [73792-beyond-the-black-hole.json](./73792-beyond-the-black-hole.json) |
+| Beyond the Board | 195954 | [195954-beyond-the-board.json](./195954-beyond-the-board.json) |
 | Beyond The Board | 289383 | [289383-beyond-the-board.json](./289383-beyond-the-board.json) |
 | Beyond the Bridge | 338232 | [338232-beyond-the-bridge.json](./338232-beyond-the-bridge.json) |
 | Beyond the Chiron Gate | 205085 | [205085-beyond-the-chiron-gate.json](./205085-beyond-the-chiron-gate.json) |
@@ -9077,6 +9080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxman in the World of the Wuuza Wizards | 318481 | [318481-boxman-in-the-world-of-the-wuuza-wizards.json](./318481-boxman-in-the-world-of-the-wuuza-wizards.json) |
 | Boxman's Struggle | 129366 | [129366-boxmans-struggle.json](./129366-boxmans-struggle.json) |
 | Boxmania | 304388 | [304388-boxmania.json](./304388-boxmania.json) |
+| Boxnigma | 195955 | [195955-boxnigma.json](./195955-boxnigma.json) |
 | Boxocost | 144962 | [144962-boxocost.json](./144962-boxocost.json) |
 | Boxoku! | 156711 | [156711-boxoku.json](./156711-boxoku.json) |
 | Boxpast Lov3you | 392301 | [392301-boxpast-lov3you.json](./392301-boxpast-lov3you.json) |
@@ -10261,6 +10265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Doom | 126295 | [126295-brutal-doom.json](./126295-brutal-doom.json) |
 | Brutal Doom 64 | 25583 | [25583-brutal-doom-64.json](./25583-brutal-doom-64.json) |
 | Brutal Doom: Ali Jr's Challenge | 199067 | [199067-brutal-doom-ali-jrs-challenge.json](./199067-brutal-doom-ali-jrs-challenge.json) |
+| Brutal Half-Life | 195991 | [195991-brutal-half-life.json](./195991-brutal-half-life.json) |
 | Brutal Inventions | 88003 | [88003-brutal-inventions.json](./88003-brutal-inventions.json) |
 | Brutal Katana | 304832 | [304832-brutal-katana.json](./304832-brutal-katana.json) |
 | Brutal Mario | 132862 | [132862-brutal-mario.json](./132862-brutal-mario.json) |
