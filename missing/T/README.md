@@ -1431,6 +1431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanokai Chapter 1 | 178571 | [178571-tanokai-chapter-1.json](./178571-tanokai-chapter-1.json) |
 | Tanoth | 52019 | [52019-tanoth.json](./52019-tanoth.json) |
 | Tansaikigou: Sec Life, Monochrome Cube | 376603 | [376603-tansaikigou-sec-life-monochrome-cube.json](./376603-tansaikigou-sec-life-monochrome-cube.json) |
+| Tansaki Katamichi no Uchuu Tansaku | 206453 | [206453-tansaki-katamichi-no-uchuu-tansaku.json](./206453-tansaki-katamichi-no-uchuu-tansaku.json) |
 | Tǎnshuài de Xiǎohóngmào hé Ài Shuōhuǎng de Láng | 128330 | [128330-tanshuai-de-xiaohongmao-he-ai-shuohuang-de-lang.json](./128330-tanshuai-de-xiaohongmao-he-ai-shuohuang-de-lang.json) |
 | Tantal | 159801 | [159801-tantal.json](./159801-tantal.json) |
 | Tantalus | 377197 | [377197-tantalus.json](./377197-tantalus.json) |
@@ -13398,6 +13399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tichu | 156643 | [156643-tichu.json](./156643-tichu.json) |
 | Tichu | 377164 | [377164-tichu.json](./377164-tichu.json) |
 | Tick Hop 2 | 391186 | [391186-tick-hop-2.json](./391186-tick-hop-2.json) |
+| Tick Tack Puppet | 206441 | [206441-tick-tack-puppet.json](./206441-tick-tack-puppet.json) |
 | Tick Tock Clock | 308235 | [308235-tick-tock-clock.json](./308235-tick-tock-clock.json) |
 | Tick-Hunter | 51434 | [51434-tick-hunter.json](./51434-tick-hunter.json) |
 | Tick, Tank, Boom | 235867 | [235867-tick-tank-boom.json](./235867-tick-tank-boom.json) |
