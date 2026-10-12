@@ -2126,6 +2126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Eighties | 209620 | [209620-kingdom-eighties.json](./209620-kingdom-eighties.json) |
 | Kingdom Flipper | 325539 | [325539-kingdom-flipper.json](./325539-kingdom-flipper.json) |
 | Kingdom Fortress | 337293 | [337293-kingdom-fortress.json](./337293-kingdom-fortress.json) |
+| Kingdom Guard | 194919 | [194919-kingdom-guard.json](./194919-kingdom-guard.json) |
 | Kingdom Hearts | 301925 | [301925-kingdom-hearts.json](./301925-kingdom-hearts.json) |
 | Kingdom Hearts | 393742 | [393742-kingdom-hearts.json](./393742-kingdom-hearts.json) |
 | Kingdom Hearts 10th Anniversary 3D+Days+Re:coded Box | 89879 | [89879-kingdom-hearts-10th-anniversary-3d-days-re-coded-box.json](./89879-kingdom-hearts-10th-anniversary-3d-days-re-coded-box.json) |
@@ -2518,6 +2519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss the Ghoul | 178478 | [178478-kiss-the-ghoul.json](./178478-kiss-the-ghoul.json) |
 | Kiss the Girl | 216174 | [216174-kiss-the-girl.json](./216174-kiss-the-girl.json) |
 | Kiss Trilogy: Premium Edition | 136826 | [136826-kiss-trilogy-premium-edition.json](./136826-kiss-trilogy-premium-edition.json) |
+| KISS U | 194891 | [194891-kiss-u.json](./194891-kiss-u.json) |
 | Kiss Yori... | 73766 | [73766-kiss-yori.json](./73766-kiss-yori.json) |
 | Kissa | 181891 | [181891-kissa.json](./181891-kissa.json) |
 | Kissed by a Star | 349981 | [349981-kissed-by-a-star.json](./349981-kissed-by-a-star.json) |
@@ -2899,6 +2901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight's Retreat | 132512 | [132512-knights-retreat.json](./132512-knights-retreat.json) |
 | Knight's Rush | 23923 | [23923-knights-rush.json](./23923-knights-rush.json) |
 | Knight's Try | 188435 | [188435-knights-try.json](./188435-knights-try.json) |
+| Knightblade | 194900 | [194900-knightblade.json](./194900-knightblade.json) |
 | Knightcore | 398647 | [398647-knightcore.json](./398647-knightcore.json) |
 | Knightcore Kingdom | 227514 | [227514-knightcore-kingdom.json](./227514-knightcore-kingdom.json) |
 | Knightczech: The beginning | 145446 | [145446-knightczech-the-beginning.json](./145446-knightczech-the-beginning.json) |
