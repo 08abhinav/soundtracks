@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radial Impact | 34819 | [34819-radial-impact.json](./34819-radial-impact.json) |
 | Radial-G: Proteus | 130820 | [130820-radial-g-proteus.json](./130820-radial-g-proteus.json) |
 | RadiAngel | 225745 | [225745-radiangel.json](./225745-radiangel.json) |
+| Radiant Baby | 185397 | [185397-radiant-baby.json](./185397-radiant-baby.json) |
 | Radiant Cell | 211140 | [211140-radiant-cell.json](./211140-radiant-cell.json) |
 | Radiant Click | 373105 | [373105-radiant-click.json](./373105-radiant-click.json) |
 | Radiant Dawn | 176380 | [176380-radiant-dawn.json](./176380-radiant-dawn.json) |
@@ -1317,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rasen Reijoh Spiral Ojosama: Chohatsu no Makina | 265945 | [265945-rasen-reijoh-spiral-ojosama-chohatsu-no-makina.json](./265945-rasen-reijoh-spiral-ojosama-chohatsu-no-makina.json) |
 | Rasetsu 2 | 374684 | [374684-rasetsu-2.json](./374684-rasetsu-2.json) |
 | Rashlander | 116832 | [116832-rashlander.json](./116832-rashlander.json) |
+| Rashness | 185390 | [185390-rashness.json](./185390-rashness.json) |
 | Rashomon of Shinjuku | 225314 | [225314-rashomon-of-shinjuku.json](./225314-rashomon-of-shinjuku.json) |
 | Raskopnik: The Trench Warrior | 186766 | [186766-raskopnik-the-trench-warrior.json](./186766-raskopnik-the-trench-warrior.json) |
 | Rasmus Klump i Pingonesien | 118914 | [118914-rasmus-klump-i-pingonesien.json](./118914-rasmus-klump-i-pingonesien.json) |
@@ -2364,6 +2366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red | 75084 | [75084-red.json](./75084-red.json) |
 | Red 7 | 175986 | [175986-red-7.json](./175986-red-7.json) |
 | Red Adventure | 149729 | [149729-red-adventure.json](./149729-red-adventure.json) |
+| Red Aleph | 185395 | [185395-red-aleph.json](./185395-red-aleph.json) |
 | Red Alert | 40391 | [40391-red-alert.json](./40391-red-alert.json) |
 | Red Alert 2: Apocalypse Rising | 376096 | [376096-red-alert-2-apocalypse-rising.json](./376096-red-alert-2-apocalypse-rising.json) |
 | Red Algorithm: Fernando | 172095 | [172095-red-algorithm-fernando.json](./172095-red-algorithm-fernando.json) |
@@ -3477,6 +3480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Rover 2 | 72110 | [72110-rescue-rover-2.json](./72110-rescue-rover-2.json) |
 | Rescue Rover Collection | 150692 | [150692-rescue-rover-collection.json](./150692-rescue-rover-collection.json) |
 | Rescue Squad | 24006 | [24006-rescue-squad.json](./24006-rescue-squad.json) |
+| Rescue Squad Omega | 185387 | [185387-rescue-squad-omega.json](./185387-rescue-squad-omega.json) |
 | Rescue Tale | 126485 | [126485-rescue-tale.json](./126485-rescue-tale.json) |
 | Rescue Team | 36019 | [36019-rescue-team.json](./36019-rescue-team.json) |
 | Rescue Team 4 | 53502 | [53502-rescue-team-4.json](./53502-rescue-team-4.json) |
@@ -3609,6 +3613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: During the Storm | 216349 | [216349-resident-evil-during-the-storm.json](./216349-resident-evil-during-the-storm.json) |
 | Resident Evil: Franchise Pack | 99798 | [99798-resident-evil-franchise-pack.json](./99798-resident-evil-franchise-pack.json) |
 | Resident Evil: Grim Beginnings | 298036 | [298036-resident-evil-grim-beginnings.json](./298036-resident-evil-grim-beginnings.json) |
+| Resident Evil: Mansion | 185361 | [185361-resident-evil-mansion.json](./185361-resident-evil-mansion.json) |
 | Resident Evil: Mortal Night | 185684 | [185684-resident-evil-mortal-night.json](./185684-resident-evil-mortal-night.json) |
 | Resident Evil: Operation Raccoon City - Echo Six Expansion Pack 1 | 143001 | [143001-resident-evil-operation-raccoon-city-echo-six-expansion-pack-1.json](./143001-resident-evil-operation-raccoon-city-echo-six-expansion-pack-1.json) |
 | Resident Evil: Operation Raccoon City - Echo Six Expansion Pack 2 | 143002 | [143002-resident-evil-operation-raccoon-city-echo-six-expansion-pack-2.json](./143002-resident-evil-operation-raccoon-city-echo-six-expansion-pack-2.json) |
@@ -6308,6 +6313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky Mountain: Trophy Hunter | 249158 | [249158-rocky-mountain-trophy-hunter.json](./249158-rocky-mountain-trophy-hunter.json) |
 | Rocky Mountain: Trophy Hunter | 49946 | [49946-rocky-mountain-trophy-hunter.json](./49946-rocky-mountain-trophy-hunter.json) |
 | Rocky Racers | 130834 | [130834-rocky-racers.json](./130834-rocky-racers.json) |
+| Rocky Rhodes and the Cracked Case | 185406 | [185406-rocky-rhodes-and-the-cracked-case.json](./185406-rocky-rhodes-and-the-cracked-case.json) |
 | Rocky Ride | 169801 | [169801-rocky-ride.json](./169801-rocky-ride.json) |
 | Rocky Rodent | 42648 | [42648-rocky-rodent.json](./42648-rocky-rodent.json) |
 | Rocky Stairs | 230726 | [230726-rocky-stairs.json](./230726-rocky-stairs.json) |
@@ -7742,6 +7748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble Runners | 152458 | [152458-rumble-runners.json](./152458-rumble-runners.json) |
 | Rumble Sus | 238437 | [238437-rumble-sus.json](./238437-rumble-sus.json) |
 | Rumble Trucks | 44515 | [44515-rumble-trucks.json](./44515-rumble-trucks.json) |
+| Rumbo and the Quest for Scar City | 185382 | [185382-rumbo-and-the-quest-for-scar-city.json](./185382-rumbo-and-the-quest-for-scar-city.json) |
 | Rumbral | 344465 | [344465-rumbral.json](./344465-rumbral.json) |
 | Rumia in the darkness | 121013 | [121013-rumia-in-the-darkness.json](./121013-rumia-in-the-darkness.json) |
 | Rumia Throws! | 264255 | [264255-rumia-throws.json](./264255-rumia-throws.json) |
