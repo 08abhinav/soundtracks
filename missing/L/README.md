@@ -1468,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leather Goddesses of Phobos | 12174 | [12174-leather-goddesses-of-phobos.json](./12174-leather-goddesses-of-phobos.json) |
 | Leather Goddesses of Phobos 2: Gas Pump Girls Meet the Pulsating Inconvenience from Planet X! | 14558 | [14558-leather-goddesses-of-phobos-2-gas-pump-girls-meet-the-pulsating-inconvenience-from-planet-x.json](./14558-leather-goddesses-of-phobos-2-gas-pump-girls-meet-the-pulsating-inconvenience-from-planet-x.json) |
 | Leave | 419910 | [419910-leave.json](./419910-leave.json) |
+| Leave a Light | 211907 | [211907-leave-a-light.json](./211907-leave-a-light.json) |
 | Leave Home | 91518 | [91518-leave-home.json](./91518-leave-home.json) |
 | Leave Me Alone: A Trip to Hell | 33497 | [33497-leave-me-alone-a-trip-to-hell.json](./33497-leave-me-alone-a-trip-to-hell.json) |
 | Leave Me Alone! | 177953 | [177953-leave-me-alone.json](./177953-leave-me-alone.json) |
@@ -3221,6 +3222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like Clockwork | 181924 | [181924-like-clockwork.json](./181924-like-clockwork.json) |
 | Like Gulls Crying at the Dawn | 136226 | [136226-like-gulls-crying-at-the-dawn.json](./136226-like-gulls-crying-at-the-dawn.json) |
 | Like Life Every Hour | 56554 | [56554-like-life-every-hour.json](./56554-like-life-every-hour.json) |
+| Like No Other: The Legend Of The Twin Books | 211915 | [211915-like-no-other-the-legend-of-the-twin-books.json](./211915-like-no-other-the-legend-of-the-twin-books.json) |
 | Like Thunder "Go" | 297484 | [297484-like-thunder-go.json](./297484-like-thunder-go.json) |
 | Like Veins Beneath the Town | 229614 | [229614-like-veins-beneath-the-town.json](./229614-like-veins-beneath-the-town.json) |
 | Like x Love: Totsukawa Hikaru | 397225 | [397225-like-x-love-totsukawa-hikaru.json](./397225-like-x-love-totsukawa-hikaru.json) |
@@ -6471,6 +6473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luxury Hotel Emporium | 34787 | [34787-luxury-hotel-emporium.json](./34787-luxury-hotel-emporium.json) |
 | Luxury House Renovation | 114960 | [114960-luxury-house-renovation.json](./114960-luxury-house-renovation.json) |
 | Luxury Simulator | 283123 | [283123-luxury-simulator.json](./283123-luxury-simulator.json) |
+| Luxworks | 211976 | [211976-luxworks.json](./211976-luxworks.json) |
 | Luyen Nguc | 255237 | [255237-luyen-nguc.json](./255237-luyen-nguc.json) |
 | Lǜyěxiānzōng | 320152 | [320152-luyexianzong.json](./320152-luyexianzong.json) |
 | LV99: Final Fortress | 140592 | [140592-lv99-final-fortress.json](./140592-lv99-final-fortress.json) |
