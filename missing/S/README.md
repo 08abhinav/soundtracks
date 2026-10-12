@@ -11516,6 +11516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sono Hanabira: YuriCycle | 251697 | [251697-sono-hanabira-yuricycle.json](./251697-sono-hanabira-yuricycle.json) |
 | Sono Kaori de Mitasaretai: #7b5544 no Koi wo Shita Watashi no Hajimete wo Master ni Agetai | 412315 | [412315-sono-kaori-de-mitasaretai-7b5544-no-koi-wo-shita-watashi-no-hajimete-wo-master-ni-agetai.json](./412315-sono-kaori-de-mitasaretai-7b5544-no-koi-wo-shita-watashi-no-hajimete-wo-master-ni-agetai.json) |
 | Sonoklo | 408212 | [408212-sonoklo.json](./408212-sonoklo.json) |
+| Sonolus | 219761 | [219761-sonolus.json](./219761-sonolus.json) |
 | Sonority | 137045 | [137045-sonority.json](./137045-sonority.json) |
 | SONpc | 330874 | [330874-sonpc.json](./330874-sonpc.json) |
 | Sons of Anarchy: The Prospect | 360487 | [360487-sons-of-anarchy-the-prospect.json](./360487-sons-of-anarchy-the-prospect.json) |
