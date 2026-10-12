@@ -1586,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date A Live: Ren Dystopia - Limited Edition | 114151 | [114151-date-a-live-ren-dystopia-limited-edition.json](./114151-date-a-live-ren-dystopia-limited-edition.json) |
 | Date A Live: Rinne Utopia - Limited Edition | 85857 | [85857-date-a-live-rinne-utopia-limited-edition.json](./85857-date-a-live-rinne-utopia-limited-edition.json) |
 | Date A Live: Rio Reincarnation | 87742 | [87742-date-a-live-rio-reincarnation.json](./87742-date-a-live-rio-reincarnation.json) |
+| Date A Live: Rio Reincarnation - Deluxe Edition | 227387 | [227387-date-a-live-rio-reincarnation-deluxe-edition.json](./227387-date-a-live-rio-reincarnation-deluxe-edition.json) |
 | Date A Live: Rio Reincarnation HD - Limited Edition | 96104 | [96104-date-a-live-rio-reincarnation-hd-limited-edition.json](./96104-date-a-live-rio-reincarnation-hd-limited-edition.json) |
 | Date A Live: Spirit Pledge | 125935 | [125935-date-a-live-spirit-pledge.json](./125935-date-a-live-spirit-pledge.json) |
 | Date Banger | 326191 | [326191-date-banger.json](./326191-date-banger.json) |
@@ -2072,6 +2073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Attack on Titan - Warhammer Pack | 254686 | [254686-dead-by-daylight-attack-on-titan-warhammer-pack.json](./254686-dead-by-daylight-attack-on-titan-warhammer-pack.json) |
 | Dead by Daylight: Castlevania Chapter | 300809 | [300809-dead-by-daylight-castlevania-chapter.json](./300809-dead-by-daylight-castlevania-chapter.json) |
 | Dead by Daylight: Chains of Hate Chapter | 154343 | [154343-dead-by-daylight-chains-of-hate-chapter.json](./154343-dead-by-daylight-chains-of-hate-chapter.json) |
+| Dead by Daylight: Charity Case | 227409 | [227409-dead-by-daylight-charity-case.json](./227409-dead-by-daylight-charity-case.json) |
 | Dead by Daylight: Chucky Chapter | 278424 | [278424-dead-by-daylight-chucky-chapter.json](./278424-dead-by-daylight-chucky-chapter.json) |
 | Dead by Daylight: Definitive Edition | 136185 | [136185-dead-by-daylight-definitive-edition.json](./136185-dead-by-daylight-definitive-edition.json) |
 | Dead by Daylight: Descend Beyond Chapter | 154345 | [154345-dead-by-daylight-descend-beyond-chapter.json](./154345-dead-by-daylight-descend-beyond-chapter.json) |
@@ -2103,6 +2105,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Steady Pulse | 342802 | [342802-dead-by-daylight-steady-pulse.json](./342802-dead-by-daylight-steady-pulse.json) |
 | Dead by Daylight: Stranger Things - Jonathan Byers | 358410 | [358410-dead-by-daylight-stranger-things-jonathan-byers.json](./358410-dead-by-daylight-stranger-things-jonathan-byers.json) |
 | Dead by Daylight: Stranger Things Edition | 164813 | [164813-dead-by-daylight-stranger-things-edition.json](./164813-dead-by-daylight-stranger-things-edition.json) |
+| Dead by Daylight: The 80's Suitcase | 227406 | [227406-dead-by-daylight-the-80s-suitcase.json](./227406-dead-by-daylight-the-80s-suitcase.json) |
+| Dead by Daylight: The Bloodstained Sack | 227407 | [227407-dead-by-daylight-the-bloodstained-sack.json](./227407-dead-by-daylight-the-bloodstained-sack.json) |
 | Dead by Daylight: The Halloween Chapter | 76221 | [76221-dead-by-daylight-the-halloween-chapter.json](./76221-dead-by-daylight-the-halloween-chapter.json) |
 | Dead by Daylight: The Last Breath Chapter | 76220 | [76220-dead-by-daylight-the-last-breath-chapter.json](./76220-dead-by-daylight-the-last-breath-chapter.json) |
 | Dead by Daylight: The Walking Dead | 358407 | [358407-dead-by-daylight-the-walking-dead.json](./358407-dead-by-daylight-the-walking-dead.json) |
@@ -2383,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Space Nokia | 323812 | [323812-dead-space-nokia.json](./323812-dead-space-nokia.json) |
 | Dead Space: Collector's Edition | 229975 | [229975-dead-space-collectors-edition.json](./229975-dead-space-collectors-edition.json) |
 | Dead Space: Deluxe Edition | 222945 | [222945-dead-space-deluxe-edition.json](./222945-dead-space-deluxe-edition.json) |
+| Dead Space: Digital Deluxe Edition | 227398 | [227398-dead-space-digital-deluxe-edition.json](./227398-dead-space-digital-deluxe-edition.json) |
 | Dead Space: Flash | 315227 | [315227-dead-space-flash.json](./315227-dead-space-flash.json) |
 | Dead Space: Ignition | 20450 | [20450-dead-space-ignition.json](./20450-dead-space-ignition.json) |
 | Dead Spawn | 121710 | [121710-dead-spawn.json](./121710-dead-spawn.json) |
@@ -3207,6 +3212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dive | 403577 | [403577-deep-dive.json](./403577-deep-dive.json) |
 | Deep Diving Adventures | 131978 | [131978-deep-diving-adventures.json](./131978-deep-diving-adventures.json) |
 | Deep Diving Simulator: Adventure Pack | 154506 | [154506-deep-diving-simulator-adventure-pack.json](./154506-deep-diving-simulator-adventure-pack.json) |
+| Deep Diving VR: Adventure Pack | 227158 | [227158-deep-diving-vr-adventure-pack.json](./227158-deep-diving-vr-adventure-pack.json) |
 | Deep Down | 177368 | [177368-deep-down.json](./177368-deep-down.json) |
 | Deep Down | 285011 | [285011-deep-down.json](./285011-deep-down.json) |
 | Deep Down | 357736 | [357736-deep-down.json](./357736-deep-down.json) |
@@ -3519,6 +3525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense Dome | 58896 | [58896-defense-dome.json](./58896-defense-dome.json) |
 | Defense Grid 2 | 10184 | [10184-defense-grid-2.json](./10184-defense-grid-2.json) |
 | Defense Grid 2: Enhanced VR Edition | 58745 | [58745-defense-grid-2-enhanced-vr-edition.json](./58745-defense-grid-2-enhanced-vr-edition.json) |
+| Defense Grid: DLC Bundle | 227415 | [227415-defense-grid-dlc-bundle.json](./227415-defense-grid-dlc-bundle.json) |
 | Defense Grid: The Awakening - Containment | 164417 | [164417-defense-grid-the-awakening-containment.json](./164417-defense-grid-the-awakening-containment.json) |
 | Defense Grid: The Awakening - Resurgence Map Pack 1 | 164415 | [164415-defense-grid-the-awakening-resurgence-map-pack-1.json](./164415-defense-grid-the-awakening-resurgence-map-pack-1.json) |
 | Defense Grid: The Awakening - Resurgence Map Pack 2 | 164414 | [164414-defense-grid-the-awakening-resurgence-map-pack-2.json](./164414-defense-grid-the-awakening-resurgence-map-pack-2.json) |
@@ -7791,6 +7798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don’t Sleep with the Fishes | 403674 | [403674-don-t-sleep-with-the-fishes.json](./403674-don-t-sleep-with-the-fishes.json) |
 | Don't Stand Out | 90134 | [90134-dont-stand-out.json](./90134-dont-stand-out.json) |
 | Don't Stare | 153936 | [153936-dont-stare.json](./153936-dont-stare.json) |
+| Don't Starve Alone Pack Plus | 227173 | [227173-dont-starve-alone-pack-plus.json](./227173-dont-starve-alone-pack-plus.json) |
 | Don't Starve Elsewhere | 397822 | [397822-dont-starve-elsewhere.json](./397822-dont-starve-elsewhere.json) |
 | Don't Starve Together: Console Edition | 99751 | [99751-dont-starve-together-console-edition.json](./99751-dont-starve-together-console-edition.json) |
 | Don't Starve Together: Starter Pack 2025 | 374238 | [374238-dont-starve-together-starter-pack-2025.json](./374238-dont-starve-together-starter-pack-2025.json) |
@@ -11600,6 +11608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons 2: A Song of Sand and Fire | 51769 | [51769-dungeons-2-a-song-of-sand-and-fire.json](./51769-dungeons-2-a-song-of-sand-and-fire.json) |
 | Dungeons 3: An Unexpected DLC | 115420 | [115420-dungeons-3-an-unexpected-dlc.json](./115420-dungeons-3-an-unexpected-dlc.json) |
 | Dungeons 3: Complete Collection | 136320 | [136320-dungeons-3-complete-collection.json](./136320-dungeons-3-complete-collection.json) |
+| Dungeons 3: DLC Bundle | 227416 | [227416-dungeons-3-dlc-bundle.json](./227416-dungeons-3-dlc-bundle.json) |
 | Dungeons 3: Evil of the Caribbean | 124825 | [124825-dungeons-3-evil-of-the-caribbean.json](./124825-dungeons-3-evil-of-the-caribbean.json) |
 | Dungeons 3: Extremely Evil Edition | 323413 | [323413-dungeons-3-extremely-evil-edition.json](./323413-dungeons-3-extremely-evil-edition.json) |
 | Dungeons 3: Nintendo Switch Complete Collection | 283207 | [283207-dungeons-3-nintendo-switch-complete-collection.json](./283207-dungeons-3-nintendo-switch-complete-collection.json) |
