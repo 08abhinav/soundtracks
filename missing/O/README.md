@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obscurite Magie: The Blood of Kings | 245948 | [245948-obscurite-magie-the-blood-of-kings.json](./245948-obscurite-magie-the-blood-of-kings.json) |
 | Obscurite Magie: The City of Sin | 168111 | [168111-obscurite-magie-the-city-of-sin.json](./168111-obscurite-magie-the-city-of-sin.json) |
 | Obscurity | 99661 | [99661-obscurity.json](./99661-obscurity.json) |
+| Obscurity: Unknown Threat | 194240 | [194240-obscurity-unknown-threat.json](./194240-obscurity-unknown-threat.json) |
 | Obscurium | 371409 | [371409-obscurium.json](./371409-obscurium.json) |
 | Obscurium | 401700 | [401700-obscurium.json](./401700-obscurium.json) |
 | Obscurum | 276184 | [276184-obscurum.json](./276184-obscurum.json) |
@@ -1024,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympus Rising: Hero Defense | 106964 | [106964-olympus-rising-hero-defense.json](./106964-olympus-rising-hero-defense.json) |
 | Om Nom Solitaire | 183608 | [183608-om-nom-solitaire.json](./183608-om-nom-solitaire.json) |
 | Om Nom: Candy Flick | 343993 | [343993-om-nom-candy-flick.json](./343993-om-nom-candy-flick.json) |
+| Om Nom: Coloring, Toons & Puzzle | 194255 | [194255-om-nom-coloring-toons-and-puzzle.json](./194255-om-nom-coloring-toons-and-puzzle.json) |
 | Om Nom: Coloring, Toons & Puzzle - All DLC Pack | 199933 | [199933-om-nom-coloring-toons-and-puzzle-all-dlc-pack.json](./199933-om-nom-coloring-toons-and-puzzle-all-dlc-pack.json) |
 | Om Nom: Coloring, Toons & Puzzle - Complete Pack | 199831 | [199831-om-nom-coloring-toons-and-puzzle-complete-pack.json](./199831-om-nom-coloring-toons-and-puzzle-complete-pack.json) |
 | Om Nom: Coloring, Toons & Puzzle - Delicious Dots | 199922 | [199922-om-nom-coloring-toons-and-puzzle-delicious-dots.json](./199922-om-nom-coloring-toons-and-puzzle-delicious-dots.json) |
