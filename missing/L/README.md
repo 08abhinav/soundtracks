@@ -1227,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layerworld | 189018 | [189018-layerworld.json](./189018-layerworld.json) |
 | Layla: The Iris Missions | 239599 | [239599-layla-the-iris-missions.json](./239599-layla-the-iris-missions.json) |
 | Layover Lovers | 270204 | [270204-layover-lovers.json](./270204-layover-lovers.json) |
+| Laypo Simulator | 188895 | [188895-laypo-simulator.json](./188895-laypo-simulator.json) |
 | Laysara: Summit Kingdom | 186083 | [186083-laysara-summit-kingdom.json](./186083-laysara-summit-kingdom.json) |
 | Laza Knitez!! | 134513 | [134513-laza-knitez.json](./134513-laza-knitez.json) |
 | Lazaret | 211740 | [211740-lazaret.json](./211740-lazaret.json) |
@@ -3393,6 +3394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limit Zero Breakers | 361763 | [361763-limit-zero-breakers.json](./361763-limit-zero-breakers.json) |
 | LiMiT's Escape Room Games | 196161 | [196161-limits-escape-room-games.json](./196161-limits-escape-room-games.json) |
 | Limit's Escape Room Games 2 | 211631 | [211631-limits-escape-room-games-2.json](./211631-limits-escape-room-games-2.json) |
+| Limita Luminii | 188892 | [188892-limita-luminii.json](./188892-limita-luminii.json) |
 | Limited Lifetime Corp | 208653 | [208653-limited-lifetime-corp.json](./208653-limited-lifetime-corp.json) |
 | Limitless Hunger | 190986 | [190986-limitless-hunger.json](./190986-limitless-hunger.json) |
 | Limitless Runner | 359085 | [359085-limitless-runner.json](./359085-limitless-runner.json) |
