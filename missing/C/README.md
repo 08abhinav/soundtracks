@@ -791,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candle Fire Run! | 262319 | [262319-candle-fire-run.json](./262319-candle-fire-run.json) |
 | Candle Flame in the Wind | 284327 | [284327-candle-flame-in-the-wind.json](./284327-candle-flame-in-the-wind.json) |
 | Candle In Darkness | 158551 | [158551-candle-in-darkness.json](./158551-candle-in-darkness.json) |
+| Candle Knight | 192110 | [192110-candle-knight.json](./192110-candle-knight.json) |
 | Candle Prick | 185609 | [185609-candle-prick.json](./185609-candle-prick.json) |
 | Candle Under Water | 124173 | [124173-candle-under-water.json](./124173-candle-under-water.json) |
 | Candle Wood | 315115 | [315115-candle-wood.json](./315115-candle-wood.json) |
@@ -2201,6 +2202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle War | 380055 | [380055-castle-war.json](./380055-castle-war.json) |
 | Castle War | 380056 | [380056-castle-war.json](./380056-castle-war.json) |
 | Castle Warriors | 238381 | [238381-castle-warriors.json](./238381-castle-warriors.json) |
+| Castle Wars | 192097 | [192097-castle-wars.json](./192097-castle-wars.json) |
 | Castle Wars 2.5 | 101739 | [101739-castle-wars-2-5.json](./101739-castle-wars-2-5.json) |
 | Castle Wars: Legacy | 392372 | [392372-castle-wars-legacy.json](./392372-castle-wars-legacy.json) |
 | Castle Watch VR | 182818 | [182818-castle-watch-vr.json](./182818-castle-watch-vr.json) |
@@ -3668,6 +3670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Crafters | 265399 | [265399-chaos-crafters.json](./265399-chaos-crafters.json) |
 | Chaos Edge | 29090 | [29090-chaos-edge.json](./29090-chaos-edge.json) |
 | Chaos Entropy | 320559 | [320559-chaos-entropy.json](./320559-chaos-entropy.json) |
+| Chaos Faction | 192095 | [192095-chaos-faction.json](./192095-chaos-faction.json) |
 | Chaos Faction 2 | 192096 | [192096-chaos-faction-2.json](./192096-chaos-faction-2.json) |
 | Chaos Faction Legacy Collection | 333776 | [333776-chaos-faction-legacy-collection.json](./333776-chaos-faction-legacy-collection.json) |
 | Chaos Field: New Order | 43458 | [43458-chaos-field-new-order.json](./43458-chaos-field-new-order.json) |
@@ -4353,6 +4356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicago's 30 | 39161 | [39161-chicagos-30.json](./39161-chicagos-30.json) |
 | Chiccoo and Life | 303729 | [303729-chiccoo-and-life.json](./303729-chiccoo-and-life.json) |
 | Chichen-Itza | 178052 | [178052-chichen-itza.json](./178052-chichen-itza.json) |
+| Chichens | 192102 | [192102-chichens.json](./192102-chichens.json) |
 | Chick 'N Sword | 183592 | [183592-chick-n-sword.json](./183592-chick-n-sword.json) |
 | Chick Boy Adventures | 190149 | [190149-chick-boy-adventures.json](./190149-chick-boy-adventures.json) |
 | Chick Chick Boom | 231528 | [231528-chick-chick-boom.json](./231528-chick-chick-boom.json) |
@@ -10755,6 +10759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatures of War | 217338 | [217338-creatures-of-war.json](./217338-creatures-of-war.json) |
 | Creatures Playground | 11378 | [11378-creatures-playground.json](./11378-creatures-playground.json) |
 | Creatures: Docking Station | 155011 | [155011-creatures-docking-station.json](./155011-creatures-docking-station.json) |
+| Creatures: Docking Station - Creatures 3 | 192135 | [192135-creatures-docking-station-creatures-3.json](./192135-creatures-docking-station-creatures-3.json) |
 | Creatures: Raised in Space | 46085 | [46085-creatures-raised-in-space.json](./46085-creatures-raised-in-space.json) |
 | Creaturing: Sea Wonders | 340561 | [340561-creaturing-sea-wonders.json](./340561-creaturing-sea-wonders.json) |
 | Creed: Rise to Glory | 102134 | [102134-creed-rise-to-glory.json](./102134-creed-rise-to-glory.json) |
