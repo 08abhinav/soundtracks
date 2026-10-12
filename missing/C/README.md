@@ -4072,6 +4072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chemist Wanted | 311211 | [311211-chemist-wanted.json](./311211-chemist-wanted.json) |
 | Chemistower | 342864 | [342864-chemistower.json](./342864-chemistower.json) |
 | Chemistry World | 207333 | [207333-chemistry-world.json](./207333-chemistry-world.json) |
+| Chemists: Area of infection | 190896 | [190896-chemists-area-of-infection.json](./190896-chemists-area-of-infection.json) |
 | Cheney Wood the Ultimate Revenge | 111499 | [111499-cheney-wood-the-ultimate-revenge.json](./111499-cheney-wood-the-ultimate-revenge.json) |
 | Chenmo de Xishuai | 250445 | [250445-chenmo-de-xishuai.json](./250445-chenmo-de-xishuai.json) |
 | Chenso Club | 144895 | [144895-chenso-club.json](./144895-chenso-club.json) |
@@ -5827,6 +5828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Love: Paris | 227511 | [227511-city-of-love-paris.json](./227511-city-of-love-paris.json) |
 | City of Mist | 112328 | [112328-city-of-mist.json](./112328-city-of-mist.json) |
 | City of Mist 2 | 123536 | [123536-city-of-mist-2.json](./123536-city-of-mist-2.json) |
+| City of Murals | 190923 | [190923-city-of-murals.json](./190923-city-of-murals.json) |
 | City of Nightmares | 317980 | [317980-city-of-nightmares.json](./317980-city-of-nightmares.json) |
 | City of None | 329226 | [329226-city-of-none.json](./329226-city-of-none.json) |
 | City of Ragdolls | 153497 | [153497-city-of-ragdolls.json](./153497-city-of-ragdolls.json) |
@@ -11899,6 +11901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystallium | 373872 | [373872-crystallium.json](./373872-crystallium.json) |
 | Crystallo | 117037 | [117037-crystallo.json](./117037-crystallo.json) |
 | Crystalon | 183554 | [183554-crystalon.json](./183554-crystalon.json) |
+| Crystalreach Islands | 190912 | [190912-crystalreach-islands.json](./190912-crystalreach-islands.json) |
 | Crystalrect | 238928 | [238928-crystalrect.json](./238928-crystalrect.json) |
 | Crystals | 284980 | [284980-crystals.json](./284980-crystals.json) |
 | Crystals of Amalgam | 183023 | [183023-crystals-of-amalgam.json](./183023-crystals-of-amalgam.json) |
@@ -12103,6 +12106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubeGun | 17372 | [17372-cubegun.json](./17372-cubegun.json) |
 | Cubeism 2: Baroque Edition | 218149 | [218149-cubeism-2-baroque-edition.json](./218149-cubeism-2-baroque-edition.json) |
 | Cubeka | 129626 | [129626-cubeka.json](./129626-cubeka.json) |
+| Cubelander | 190919 | [190919-cubelander.json](./190919-cubelander.json) |
 | CubeLines | 191251 | [191251-cubelines.json](./191251-cubelines.json) |
 | Cubelz | 101357 | [101357-cubelz.json](./101357-cubelz.json) |
 | Cubelz: Cars | 168714 | [168714-cubelz-cars.json](./168714-cubelz-cars.json) |
