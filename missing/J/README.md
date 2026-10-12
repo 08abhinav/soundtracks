@@ -543,6 +543,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jawbreak | 271803 | [271803-jawbreak.json](./271803-jawbreak.json) |
 | Jawbreaker | 177551 | [177551-jawbreaker.json](./177551-jawbreaker.json) |
 | Jawbreaker | 18757 | [18757-jawbreaker.json](./18757-jawbreaker.json) |
+| Jawbreaker | 198768 | [198768-jawbreaker.json](./198768-jawbreaker.json) |
+| Jawbreaker | 198769 | [198769-jawbreaker.json](./198769-jawbreaker.json) |
 | Jawbreaker | 217341 | [217341-jawbreaker.json](./217341-jawbreaker.json) |
 | Jawbreaker | 339639 | [339639-jawbreaker.json](./339639-jawbreaker.json) |
 | Jawed | 408909 | [408909-jawed.json](./408909-jawed.json) |
@@ -608,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeeps Offroad Simulator | 220045 | [220045-jeeps-offroad-simulator.json](./220045-jeeps-offroad-simulator.json) |
 | Jefe, La Cuenta | 310679 | [310679-jefe-la-cuenta.json](./310679-jefe-la-cuenta.json) |
 | Jeff Gordon XS Racing | 49888 | [49888-jeff-gordon-xs-racing.json](./49888-jeff-gordon-xs-racing.json) |
+| Jeff Gordon's Du Pont Pacesetter Games | 198770 | [198770-jeff-gordons-du-pont-pacesetter-games.json](./198770-jeff-gordons-du-pont-pacesetter-games.json) |
 | Jeff the Janitor | 337491 | [337491-jeff-the-janitor.json](./337491-jeff-the-janitor.json) |
 | Jeff the Killer | 376137 | [376137-jeff-the-killer.json](./376137-jeff-the-killer.json) |
 | Jeff The Killer | 277513 | [277513-jeff-the-killer.json](./277513-jeff-the-killer.json) |
@@ -709,7 +712,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeopardy! | 64476 | [64476-jeopardy.json](./64476-jeopardy.json) |
 | Jeopardy! | 78592 | [78592-jeopardy.json](./78592-jeopardy.json) |
 | Jeopardy! 2nd Edition | 43911 | [43911-jeopardy-2nd-edition.json](./43911-jeopardy-2nd-edition.json) |
+| Jeopardy! Cartridge #1 | 198772 | [198772-jeopardy-cartridge-1.json](./198772-jeopardy-cartridge-1.json) |
+| Jeopardy! Cartridge #2 | 198773 | [198773-jeopardy-cartridge-2.json](./198773-jeopardy-cartridge-2.json) |
+| Jeopardy! Cartridge #3 | 198774 | [198774-jeopardy-cartridge-3.json](./198774-jeopardy-cartridge-3.json) |
+| Jeopardy! Cartridge #4 | 198775 | [198775-jeopardy-cartridge-4.json](./198775-jeopardy-cartridge-4.json) |
+| Jeopardy! Cartridge #5 | 198776 | [198776-jeopardy-cartridge-5.json](./198776-jeopardy-cartridge-5.json) |
+| Jeopardy! Cartridge #6 | 198777 | [198777-jeopardy-cartridge-6.json](./198777-jeopardy-cartridge-6.json) |
+| Jeopardy! Deluxe Edition | 198771 | [198771-jeopardy-deluxe-edition.json](./198771-jeopardy-deluxe-edition.json) |
 | Jeopardy! Deluxe Edition | 42512 | [42512-jeopardy-deluxe-edition.json](./42512-jeopardy-deluxe-edition.json) |
+| Jeopardy! Deluxe Edition Cartridge 2 | 198778 | [198778-jeopardy-deluxe-edition-cartridge-2.json](./198778-jeopardy-deluxe-edition-cartridge-2.json) |
 | Jeopardy! New Sports Edition | 79544 | [79544-jeopardy-new-sports-edition.json](./79544-jeopardy-new-sports-edition.json) |
 | Jeopardy! PlayShow | 140551 | [140551-jeopardy-playshow.json](./140551-jeopardy-playshow.json) |
 | Jeopardy! Sports Edition | 348214 | [348214-jeopardy-sports-edition.json](./348214-jeopardy-sports-edition.json) |
@@ -785,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Island | 29588 | [29588-jet-island.json](./29588-jet-island.json) |
 | Jet Kave Adventure | 120288 | [120288-jet-kave-adventure.json](./120288-jet-kave-adventure.json) |
 | Jet Li: Rise to Honor | 22281 | [22281-jet-li-rise-to-honor.json](./22281-jet-li-rise-to-honor.json) |
+| Jet Moto | 198779 | [198779-jet-moto.json](./198779-jet-moto.json) |
 | Jet Moto 2 | 287885 | [287885-jet-moto-2.json](./287885-jet-moto-2.json) |
 | Jet Moto 2 | 45214 | [45214-jet-moto-2.json](./45214-jet-moto-2.json) |
 | Jet Moto 3 | 45040 | [45040-jet-moto-3.json](./45040-jet-moto-3.json) |
@@ -1330,6 +1342,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jim & Dill: The Legend of Weed N' Stiff | 299147 | [299147-jim-and-dill-the-legend-of-weed-n-stiff.json](./299147-jim-and-dill-the-legend-of-weed-n-stiff.json) |
 | Jim Henson's Bear in the Big Blue House | 49914 | [49914-jim-hensons-bear-in-the-big-blue-house.json](./49914-jim-hensons-bear-in-the-big-blue-house.json) |
 | Jim Henson's Muppets Party Cruise | 43569 | [43569-jim-hensons-muppets-party-cruise.json](./43569-jim-hensons-muppets-party-cruise.json) |
+| Jim Henson's Muppets: Coach Kermit | 198780 | [198780-jim-hensons-muppets-coach-kermit.json](./198780-jim-hensons-muppets-coach-kermit.json) |
+| Jim Henson's Muppets: Street Surfin' | 198781 | [198781-jim-hensons-muppets-street-surfin.json](./198781-jim-hensons-muppets-street-surfin.json) |
 | Jim Henson's The Muppets | 49958 | [49958-jim-hensons-the-muppets.json](./49958-jim-hensons-the-muppets.json) |
 | Jim in the Box | 202019 | [202019-jim-in-the-box.json](./202019-jim-in-the-box.json) |
 | Jim is Moving Out! | 120433 | [120433-jim-is-moving-out.json](./120433-jim-is-moving-out.json) |
@@ -1568,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Deere: Harvest in the Heartland | 20896 | [20896-john-deere-harvest-in-the-heartland.json](./20896-john-deere-harvest-in-the-heartland.json) |
 | John Deere: North American Farmer | 210130 | [210130-john-deere-north-american-farmer.json](./210130-john-deere-north-american-farmer.json) |
 | John Dungeon | 81751 | [81751-john-dungeon.json](./81751-john-dungeon.json) |
+| John Elway's Quarterback | 198782 | [198782-john-elways-quarterback.json](./198782-john-elways-quarterback.json) |
 | John Elway's Team Quarterback | 40343 | [40343-john-elways-team-quarterback.json](./40343-john-elways-team-quarterback.json) |
 | John Fox | 303595 | [303595-john-fox.json](./303595-john-fox.json) |
 | John Fury’s First Fury | 402497 | [402497-john-fury-s-first-fury.json](./402497-john-fury-s-first-fury.json) |
@@ -1734,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoonGo Playground | 112268 | [112268-joongo-playground.json](./112268-joongo-playground.json) |
 | Jordan vs. Bird | 361785 | [361785-jordan-vs-bird.json](./361785-jordan-vs-bird.json) |
 | Jordan vs. Bird: One on One | 18837 | [18837-jordan-vs-bird-one-on-one.json](./18837-jordan-vs-bird-one-on-one.json) |
+| Jordan vs. Bird: One on One | 198783 | [198783-jordan-vs-bird-one-on-one.json](./198783-jordan-vs-bird-one-on-one.json) |
 | Jordan vs. Bird: One on One | 330926 | [330926-jordan-vs-bird-one-on-one.json](./330926-jordan-vs-bird-one-on-one.json) |
 | Jordan vs. Bird: One on One | 361783 | [361783-jordan-vs-bird-one-on-one.json](./361783-jordan-vs-bird-one-on-one.json) |
 | Jordi & Oslo: The Lost Tail | 303593 | [303593-jordi-and-oslo-the-lost-tail.json](./303593-jordi-and-oslo-the-lost-tail.json) |
@@ -1851,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joushou Mahjong Tenpai: Additional Data | 234782 | [234782-joushou-mahjong-tenpai-additional-data.json](./234782-joushou-mahjong-tenpai-additional-data.json) |
 | Joushou Mahjong Tenpai: Data | 234781 | [234781-joushou-mahjong-tenpai-data.json](./234781-joushou-mahjong-tenpai-data.json) |
 | Joushou Mahjong Tenpai: Kansen Data | 234783 | [234783-joushou-mahjong-tenpai-kansen-data.json](./234783-joushou-mahjong-tenpai-kansen-data.json) |
+| Joust | 198784 | [198784-joust.json](./198784-joust.json) |
 | Joust | 239137 | [239137-joust.json](./239137-joust.json) |
 | Joust | 278084 | [278084-joust.json](./278084-joust.json) |
 | Joust | 278086 | [278086-joust.json](./278086-joust.json) |
@@ -1947,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judas Priest: Road to Valhalla | 175162 | [175162-judas-priest-road-to-valhalla.json](./175162-judas-priest-road-to-valhalla.json) |
 | Jude | 172141 | [172141-jude.json](./172141-jude.json) |
 | Judero | 221649 | [221649-judero.json](./221649-judero.json) |
+| Judge Dredd | 198785 | [198785-judge-dredd.json](./198785-judge-dredd.json) |
 | Judge Dredd | 4387 | [4387-judge-dredd.json](./4387-judge-dredd.json) |
 | Judge Dredd: Dredd Vs. Death | 3961 | [3961-judge-dredd-dredd-vs-death.json](./3961-judge-dredd-dredd-vs-death.json) |
 | Judge of Hasoon | 296928 | [296928-judge-of-hasoon.json](./296928-judge-of-hasoon.json) |
@@ -2044,6 +2062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumara | 393498 | [393498-jumara.json](./393498-jumara.json) |
 | Jumble | 245461 | [245461-jumble.json](./245461-jumble.json) |
 | Jumble Blocks | 58507 | [58507-jumble-blocks.json](./58507-jumble-blocks.json) |
+| Jumble Electronic Word Game | 198786 | [198786-jumble-electronic-word-game.json](./198786-jumble-electronic-word-game.json) |
 | Jumble Madness | 92053 | [92053-jumble-madness.json](./92053-jumble-madness.json) |
 | Jumble: That Scrambled Word Game | 70053 | [70053-jumble-that-scrambled-word-game.json](./70053-jumble-that-scrambled-word-game.json) |
 | Jumbled Manifesto | 176252 | [176252-jumbled-manifesto.json](./176252-jumbled-manifesto.json) |
