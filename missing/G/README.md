@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.I. Joe: Snake Eyes | 218427 | [218427-g-i-joe-snake-eyes.json](./218427-g-i-joe-snake-eyes.json) |
 | G.I. joe: Special Ops | 81200 | [81200-g-i-joe-special-ops.json](./81200-g-i-joe-special-ops.json) |
 | G.I. Joe: The Atlantis Factor | 8166 | [8166-g-i-joe-the-atlantis-factor.json](./8166-g-i-joe-the-atlantis-factor.json) |
+| G.I. Joe: The Rise of Cobra | 200914 | [200914-g-i-joe-the-rise-of-cobra.json](./200914-g-i-joe-the-rise-of-cobra.json) |
 | G.I. Joe: War on Cobra | 138573 | [138573-g-i-joe-war-on-cobra.json](./138573-g-i-joe-war-on-cobra.json) |
 | G.I. Joe: Wrath of Cobra | 264313 | [264313-g-i-joe-wrath-of-cobra.json](./264313-g-i-joe-wrath-of-cobra.json) |
 | G.I.R.L.S. will be Girls | 397391 | [397391-g-i-r-l-s-will-be-girls.json](./397391-g-i-r-l-s-will-be-girls.json) |
@@ -259,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuen Senki | 251188 | [251188-gakuen-senki.json](./251188-gakuen-senki.json) |
 | Gakuen Senki Muryou | 49563 | [49563-gakuen-senki-muryou.json](./49563-gakuen-senki-muryou.json) |
 | Gakuen Sentai Solblast | 322189 | [322189-gakuen-sentai-solblast.json](./322189-gakuen-sentai-solblast.json) |
+| Gakuen Tokkyuu Hotokenser | 200939 | [200939-gakuen-tokkyuu-hotokenser.json](./200939-gakuen-tokkyuu-hotokenser.json) |
 | Gakuen Toshi Vara Noir | 3926 | [3926-gakuen-toshi-vara-noir.json](./3926-gakuen-toshi-vara-noir.json) |
 | Gakuen Utopia Manabi Straight! Kira-kira Happy Festa! | 61449 | [61449-gakuen-utopia-manabi-straight-kira-kira-happy-festa.json](./61449-gakuen-utopia-manabi-straight-kira-kira-happy-festa.json) |
 | Gakuin Makyo: High School Crisis | 322577 | [322577-gakuin-makyo-high-school-crisis.json](./322577-gakuin-makyo-high-school-crisis.json) |
@@ -606,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Shooter Space War Games | 231949 | [231949-galaxy-shooter-space-war-games.json](./231949-galaxy-shooter-space-war-games.json) |
 | Galaxy Shooting: Alien War | 105539 | [105539-galaxy-shooting-alien-war.json](./105539-galaxy-shooting-alien-war.json) |
 | Galaxy Sphere | 180066 | [180066-galaxy-sphere.json](./180066-galaxy-sphere.json) |
+| Galaxy Splitter | 200953 | [200953-galaxy-splitter.json](./200953-galaxy-splitter.json) |
 | Galaxy Squad: Airplane Games | 256456 | [256456-galaxy-squad-airplane-games.json](./256456-galaxy-squad-airplane-games.json) |
 | Galaxy Stack | 113596 | [113596-galaxy-stack.json](./113596-galaxy-stack.json) |
 | Galaxy Strike | 135896 | [135896-galaxy-strike.json](./135896-galaxy-strike.json) |
@@ -5920,6 +5923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: The Vengeance | 83143 | [83143-grim-tales-the-vengeance.json](./83143-grim-tales-the-vengeance.json) |
 | Grim Tales: The Vengeance - Collector's Edition | 118337 | [118337-grim-tales-the-vengeance-collectors-edition.json](./118337-grim-tales-the-vengeance-collectors-edition.json) |
 | Grim Tales: The White Lady - Collector's Edition | 250594 | [250594-grim-tales-the-white-lady-collectors-edition.json](./250594-grim-tales-the-white-lady-collectors-edition.json) |
+| Grim Tales: The Wishes & Grim Tales: The Stone Queen | 200956 | [200956-grim-tales-the-wishes-and-grim-tales-the-stone-queen.json](./200956-grim-tales-the-wishes-and-grim-tales-the-stone-queen.json) |
 | Grim Tales: Threads of Destiny | 153388 | [153388-grim-tales-threads-of-destiny.json](./153388-grim-tales-threads-of-destiny.json) |
 | Grim Tales: Trace in Time | 187964 | [187964-grim-tales-trace-in-time.json](./187964-grim-tales-trace-in-time.json) |
 | Grim Tales: Trace in Time - Collector's Edition | 168166 | [168166-grim-tales-trace-in-time-collectors-edition.json](./168166-grim-tales-trace-in-time-collectors-edition.json) |
@@ -6634,6 +6638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Praise: Solid Rock | 72638 | [72638-guitar-praise-solid-rock.json](./72638-guitar-praise-solid-rock.json) |
 | Guitar Praise: Stryper | 240172 | [240172-guitar-praise-stryper.json](./240172-guitar-praise-stryper.json) |
 | Guitar Rising | 72739 | [72739-guitar-rising.json](./72739-guitar-rising.json) |
+| Guitar Rock Tour | 200913 | [200913-guitar-rock-tour.json](./200913-guitar-rock-tour.json) |
 | Guitar Rock Tour | 21261 | [21261-guitar-rock-tour.json](./21261-guitar-rock-tour.json) |
 | Guitar Star | 267958 | [267958-guitar-star.json](./267958-guitar-star.json) |
 | Guitar Tuner 360 | 77410 | [77410-guitar-tuner-360.json](./77410-guitar-tuner-360.json) |
