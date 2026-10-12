@@ -6122,6 +6122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meta Nanos: Rumble Race | 263521 | [263521-meta-nanos-rumble-race.json](./263521-meta-nanos-rumble-race.json) |
 | Meta Pong | 304823 | [304823-meta-pong.json](./304823-meta-pong.json) |
 | Meta Star | 55514 | [55514-meta-star.json](./55514-meta-star.json) |
+| Meta Sudoku | 208639 | [208639-meta-sudoku.json](./208639-meta-sudoku.json) |
 | Meta World: My City | 193861 | [193861-meta-world-my-city.json](./193861-meta-world-my-city.json) |
 | Meta: Assembled | 392795 | [392795-meta-assembled.json](./392795-meta-assembled.json) |
 | Metaball: Diamond Bundle | 267835 | [267835-metaball-diamond-bundle.json](./267835-metaball-diamond-bundle.json) |
@@ -8286,6 +8287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimal | 33392 | [33392-minimal.json](./33392-minimal.json) |
 | Minimal Affect | 132831 | [132831-minimal-affect.json](./132831-minimal-affect.json) |
 | Minimal Arcade | 319130 | [319130-minimal-arcade.json](./319130-minimal-arcade.json) |
+| Minimal Bubble Pop | 208648 | [208648-minimal-bubble-pop.json](./208648-minimal-bubble-pop.json) |
 | Minimal Crypt | 163947 | [163947-minimal-crypt.json](./163947-minimal-crypt.json) |
 | Minimal Escape | 290694 | [290694-minimal-escape.json](./290694-minimal-escape.json) |
 | Minimal Fear | 184600 | [184600-minimal-fear.json](./184600-minimal-fear.json) |
@@ -9000,6 +9002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miyamoto | 320443 | [320443-miyamoto.json](./320443-miyamoto.json) |
 | Miyamoto S | 188460 | [188460-miyamoto-s.json](./188460-miyamoto-s.json) |
 | Miyazato San Kyoudai Naizou: Sega Golf Club | 7454 | [7454-miyazato-san-kyoudai-naizou-sega-golf-club.json](./7454-miyazato-san-kyoudai-naizou-sega-golf-club.json) |
+| Miyeon-si Simyulleiteo: Misonyeo Geimui Juingongeul Jojonghaneun Geim | 208656 | [208656-miyeon-si-simyulleiteo-misonyeo-geimui-juingongeul-jojonghaneun-geim.json](./208656-miyeon-si-simyulleiteo-misonyeo-geimui-juingongeul-jojonghaneun-geim.json) |
 | Miyu's Cursed Store | 265547 | [265547-miyus-cursed-store.json](./265547-miyus-cursed-store.json) |
 | Miyuki the Shoubushi | 67375 | [67375-miyuki-the-shoubushi.json](./67375-miyuki-the-shoubushi.json) |
 | Mizari Loves Company | 385056 | [385056-mizari-loves-company.json](./385056-mizari-loves-company.json) |
@@ -12892,6 +12895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dino | 111888 | [111888-my-dino.json](./111888-my-dino.json) |
 | My Direct Damag 7 Trillion | 318422 | [318422-my-direct-damag-7-trillion.json](./318422-my-direct-damag-7-trillion.json) |
 | My Disney Kitchen | 44764 | [44764-my-disney-kitchen.json](./44764-my-disney-kitchen.json) |
+| My Divorce Story | 208642 | [208642-my-divorce-story.json](./208642-my-divorce-story.json) |
 | My DIY Slime PlayTime | 106732 | [106732-my-diy-slime-playtime.json](./106732-my-diy-slime-playtime.json) |
 | My Dog! | 310018 | [310018-my-dog.json](./310018-my-dog.json) |
 | My DoItAll | 92625 | [92625-my-doitall.json](./92625-my-doitall.json) |
