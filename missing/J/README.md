@@ -305,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jam Space: PocketStudio | 85199 | [85199-jam-space-pocketstudio.json](./85199-jam-space-pocketstudio.json) |
 | Jam Talk | 299386 | [299386-jam-talk.json](./299386-jam-talk.json) |
 | JAM: Jets Aliens Missiles | 256229 | [256229-jam-jets-aliens-missiles.json](./256229-jam-jets-aliens-missiles.json) |
+| Jamal Et MehdiI: The Quest for the iencli | 217488 | [217488-jamal-et-mehdii-the-quest-for-the-iencli.json](./217488-jamal-et-mehdii-the-quest-for-the-iencli.json) |
 | Jamal Jones: Hell's Executioner | 263001 | [263001-jamal-jones-hells-executioner.json](./263001-jamal-jones-hells-executioner.json) |
 | Jamal Jones: In Judgment of Evil | 262999 | [262999-jamal-jones-in-judgment-of-evil.json](./262999-jamal-jones-in-judgment-of-evil.json) |
 | Jamal Jones: One Man Jury! | 263000 | [263000-jamal-jones-one-man-jury.json](./263000-jamal-jones-one-man-jury.json) |
@@ -2493,6 +2494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just A Game | 167864 | [167864-just-a-game.json](./167864-just-a-game.json) |
 | Just a Game to Test Your lQ | 168625 | [168625-just-a-game-to-test-your-lq.json](./168625-just-a-game-to-test-your-lq.json) |
 | Just a Gun | 405558 | [405558-just-a-gun.json](./405558-just-a-gun.json) |
+| Just A Guy | 217465 | [217465-just-a-guy.json](./217465-just-a-guy.json) |
 | Just a Jumping Square | 87186 | [87186-just-a-jumping-square.json](./87186-just-a-jumping-square.json) |
 | Just a Little Longer | 406317 | [406317-just-a-little-longer.json](./406317-just-a-little-longer.json) |
 | Just a Little Purr Suit | 326228 | [326228-just-a-little-purr-suit.json](./326228-just-a-little-purr-suit.json) |
