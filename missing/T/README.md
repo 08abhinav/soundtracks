@@ -1796,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TastyPlanet Back for SecondsHD | 88644 | [88644-tastyplanet-back-for-secondshd.json](./88644-tastyplanet-back-for-secondshd.json) |
 | Tatakae! Draft Redder | 385811 | [385811-tatakae-draft-redder.json](./385811-tatakae-draft-redder.json) |
 | Tatakae! KitadeMan | 173078 | [173078-tatakae-kitademan.json](./173078-tatakae-kitademan.json) |
+| Tatakae! Pro Yakyuu Twin League | 209780 | [209780-tatakae-pro-yakyuu-twin-league.json](./209780-tatakae-pro-yakyuu-twin-league.json) |
 | Tatami Crime Scenes What’s Wrong? | 420650 | [420650-tatami-crime-scenes-what-s-wrong.json](./420650-tatami-crime-scenes-what-s-wrong.json) |
 | Tatar Altan vs. Shaitan | 384282 | [384282-tatar-altan-vs-shaitan.json](./384282-tatar-altan-vs-shaitan.json) |
 | Tatara Kogasa's Surprise Operation | 273948 | [273948-tatara-kogasas-surprise-operation.json](./273948-tatara-kogasas-surprise-operation.json) |
@@ -17030,6 +17031,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TouHou Music Recording | 188937 | [188937-touhou-music-recording.json](./188937-touhou-music-recording.json) |
 | Touhou Mutsuigeki: Concealed the Conclusion | 51266 | [51266-touhou-mutsuigeki-concealed-the-conclusion.json](./51266-touhou-mutsuigeki-concealed-the-conclusion.json) |
 | Touhou Mystery Reel | 192886 | [192886-touhou-mystery-reel.json](./192886-touhou-mystery-reel.json) |
+| Touhou Mystia's Izakaya DLC 2 Pack: Former Hell & Chireiden | 209760 | [209760-touhou-mystias-izakaya-dlc-2-pack-former-hell-and-chireiden.json](./209760-touhou-mystias-izakaya-dlc-2-pack-former-hell-and-chireiden.json) |
+| Touhou Mystia's Izakaya DLC1 Pack: Forest of Magic & Youkai Mountain | 209735 | [209735-touhou-mystias-izakaya-dlc1-pack-forest-of-magic-and-youkai-mountain.json](./209735-touhou-mystias-izakaya-dlc1-pack-forest-of-magic-and-youkai-mountain.json) |
 | TouHou Nil Soul | 114801 | [114801-touhou-nil-soul.json](./114801-touhou-nil-soul.json) |
 | Touhou Pants Contest | 111365 | [111365-touhou-pants-contest.json](./111365-touhou-pants-contest.json) |
 | Touhou Perfect Sakura Fantastica | 212732 | [212732-touhou-perfect-sakura-fantastica.json](./212732-touhou-perfect-sakura-fantastica.json) |
