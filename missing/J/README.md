@@ -1502,6 +1502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe Blade II | 45243 | [45243-joe-blade-ii.json](./45243-joe-blade-ii.json) |
 | Joe Blade III | 45242 | [45242-joe-blade-iii.json](./45242-joe-blade-iii.json) |
 | Joe Blunt Up In Smoke | 123507 | [123507-joe-blunt-up-in-smoke.json](./123507-joe-blunt-up-in-smoke.json) |
+| Joe Danger 2: The Movie - Undead Movie Pack | 226866 | [226866-joe-danger-2-the-movie-undead-movie-pack.json](./226866-joe-danger-2-the-movie-undead-movie-pack.json) |
 | Joe Danger Infinity | 11243 | [11243-joe-danger-infinity.json](./11243-joe-danger-infinity.json) |
 | Joe Danger Touch | 11242 | [11242-joe-danger-touch.json](./11242-joe-danger-touch.json) |
 | Joe Danger: Special Edition | 24235 | [24235-joe-danger-special-edition.json](./24235-joe-danger-special-edition.json) |
@@ -2446,6 +2447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World Evolution 2: Deluxe Edition | 169166 | [169166-jurassic-world-evolution-2-deluxe-edition.json](./169166-jurassic-world-evolution-2-deluxe-edition.json) |
 | Jurassic World Evolution 2: Dominion Biosyn Expansion | 203760 | [203760-jurassic-world-evolution-2-dominion-biosyn-expansion.json](./203760-jurassic-world-evolution-2-dominion-biosyn-expansion.json) |
 | Jurassic World Evolution 2: Dominion Malta Expansion | 228747 | [228747-jurassic-world-evolution-2-dominion-malta-expansion.json](./228747-jurassic-world-evolution-2-dominion-malta-expansion.json) |
+| Jurassic World Evolution 2: Early Cretaceous Pack | 226867 | [226867-jurassic-world-evolution-2-early-cretaceous-pack.json](./226867-jurassic-world-evolution-2-early-cretaceous-pack.json) |
 | Jurassic World Evolution 2: Feathered Species Pack | 242524 | [242524-jurassic-world-evolution-2-feathered-species-pack.json](./242524-jurassic-world-evolution-2-feathered-species-pack.json) |
 | Jurassic World Evolution 2: Late Cretaceous Pack | 227397 | [227397-jurassic-world-evolution-2-late-cretaceous-pack.json](./227397-jurassic-world-evolution-2-late-cretaceous-pack.json) |
 | Jurassic World Evolution 2: Park Managers' Collection Pack | 308278 | [308278-jurassic-world-evolution-2-park-managers-collection-pack.json](./308278-jurassic-world-evolution-2-park-managers-collection-pack.json) |
