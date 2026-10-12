@@ -5437,6 +5437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobido 2: Revenge of Zen | 10900 | [10900-shinobido-2-revenge-of-zen.json](./10900-shinobido-2-revenge-of-zen.json) |
 | Shinobido: Way of the Ninja | 10899 | [10899-shinobido-way-of-the-ninja.json](./10899-shinobido-way-of-the-ninja.json) |
 | Shinobit | 181784 | [181784-shinobit.json](./181784-shinobit.json) |
+| Shinobu | 220778 | [220778-shinobu.json](./220778-shinobu.json) |
 | Shinogi Chess Club 2: Resistance | 265136 | [265136-shinogi-chess-club-2-resistance.json](./265136-shinogi-chess-club-2-resistance.json) |
 | Shinonome | 222832 | [222832-shinonome.json](./222832-shinonome.json) |
 | Shinorubi | 173320 | [173320-shinorubi.json](./173320-shinorubi.json) |
@@ -5649,6 +5650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoal | 172039 | [172039-shoal.json](./172039-shoal.json) |
 | Shock | 287552 | [287552-shock.json](./287552-shock.json) |
 | Shock Hop | 243089 | [243089-shock-hop.json](./243089-shock-hop.json) |
+| Shock Lobster | 220781 | [220781-shock-lobster.json](./220781-shock-lobster.json) |
 | Shock Tactics | 18811 | [18811-shock-tactics.json](./18811-shock-tactics.json) |
 | Shock Troopers: 2nd Squad | 32778 | [32778-shock-troopers-2nd-squad.json](./32778-shock-troopers-2nd-squad.json) |
 | Shock Troops | 212303 | [212303-shock-troops.json](./212303-shock-troops.json) |
@@ -6004,6 +6006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shout of Survival | 32857 | [32857-shout-of-survival.json](./32857-shout-of-survival.json) |
 | Shout Seven | 159245 | [159245-shout-seven.json](./159245-shout-seven.json) |
 | Shoutrageous! | 101952 | [101952-shoutrageous.json](./101952-shoutrageous.json) |
+| Shovel Adventure | 220784 | [220784-shovel-adventure.json](./220784-shovel-adventure.json) |
 | Shovel Game | 361337 | [361337-shovel-game.json](./361337-shovel-game.json) |
 | Shovel Knight Dig | 122097 | [122097-shovel-knight-dig.json](./122097-shovel-knight-dig.json) |
 | Shovel Knight Showdown | 27242 | [27242-shovel-knight-showdown.json](./27242-shovel-knight-showdown.json) |
@@ -10167,8 +10170,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokoban: Bunny Tales | 168220 | [168220-sokoban-bunny-tales.json](./168220-sokoban-bunny-tales.json) |
 | Sokoban: The RPG | 107767 | [107767-sokoban-the-rpg.json](./107767-sokoban-the-rpg.json) |
 | Sokobear: Autumn | 219591 | [219591-sokobear-autumn.json](./219591-sokobear-autumn.json) |
+| Sokobear: Cave | 220797 | [220797-sokobear-cave.json](./220797-sokobear-cave.json) |
 | Sokobear: Goo | 221161 | [221161-sokobear-goo.json](./221161-sokobear-goo.json) |
 | Sokobear: Spring | 219592 | [219592-sokobear-spring.json](./219592-sokobear-spring.json) |
+| Sokobear: Summer | 220796 | [220796-sokobear-summer.json](./220796-sokobear-summer.json) |
 | Sokobond Express | 164896 | [164896-sokobond-express.json](./164896-sokobond-express.json) |
 | Sokobos 2 | 347350 | [347350-sokobos-2.json](./347350-sokobos-2.json) |
 | Sokobot | 189150 | [189150-sokobot.json](./189150-sokobot.json) |
@@ -16998,6 +17003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Run | 57176 | [57176-stick-run.json](./57176-stick-run.json) |
 | Stick Runner: Operation Europe | 105763 | [105763-stick-runner-operation-europe.json](./105763-stick-runner-operation-europe.json) |
 | Stick Saiyan: Fight | 104266 | [104266-stick-saiyan-fight.json](./104266-stick-saiyan-fight.json) |
+| Stick Santa | 220806 | [220806-stick-santa.json](./220806-stick-santa.json) |
 | Stick Shift | 20257 | [20257-stick-shift.json](./20257-stick-shift.json) |
 | Stick Slasher | 264615 | [264615-stick-slasher.json](./264615-stick-slasher.json) |
 | Stick Soldiers | 68700 | [68700-stick-soldiers.json](./68700-stick-soldiers.json) |
@@ -17048,6 +17054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Fury | 372793 | [372793-stickman-fury.json](./372793-stickman-fury.json) |
 | Stickman Hero | 227944 | [227944-stickman-hero.json](./227944-stickman-hero.json) |
 | Stickman Hero Fighting Game | 254749 | [254749-stickman-hero-fighting-game.json](./254749-stickman-hero-fighting-game.json) |
+| Stickman Hide and Seek | 220823 | [220823-stickman-hide-and-seek.json](./220823-stickman-hide-and-seek.json) |
 | Stickman Ice Hockey | 142741 | [142741-stickman-ice-hockey.json](./142741-stickman-ice-hockey.json) |
 | Stickman in the portal | 108401 | [108401-stickman-in-the-portal.json](./108401-stickman-in-the-portal.json) |
 | Stickman Insane Bullet | 324976 | [324976-stickman-insane-bullet.json](./324976-stickman-insane-bullet.json) |
@@ -18785,6 +18792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suffer | 110650 | [110650-suffer.json](./110650-suffer.json) |
 | Suffer | 203187 | [203187-suffer.json](./203187-suffer.json) |
 | Suffer 2 | 211689 | [211689-suffer-2.json](./211689-suffer-2.json) |
+| Suffer the Night | 220795 | [220795-suffer-the-night.json](./220795-suffer-the-night.json) |
 | Suffering | 156560 | [156560-suffering.json](./156560-suffering.json) |
 | Sufferix Six: Attack of X | 369457 | [369457-sufferix-six-attack-of-x.json](./369457-sufferix-six-attack-of-x.json) |
 | Sufficiency | 262922 | [262922-sufficiency.json](./262922-sufficiency.json) |
