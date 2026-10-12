@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rafa's World + Axolotl + Cat Milk | 242658 | [242658-rafas-world-axolotl-cat-milk.json](./242658-rafas-world-axolotl-cat-milk.json) |
 | Rafflesia | 40167 | [40167-rafflesia.json](./40167-rafflesia.json) |
 | Raft | 27082 | [27082-raft.json](./27082-raft.json) |
+| Raft Life | 203704 | [203704-raft-life.json](./203704-raft-life.json) |
 | Raft Rider | 22819 | [22819-raft-rider.json](./22819-raft-rider.json) |
 | Raft Survival | 193810 | [193810-raft-survival.json](./193810-raft-survival.json) |
 | Raft Survival Basics | 193794 | [193794-raft-survival-basics.json](./193794-raft-survival-basics.json) |
