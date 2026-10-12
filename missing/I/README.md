@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Forgot my Coffee! | 184430 | [184430-i-forgot-my-coffee.json](./184430-i-forgot-my-coffee.json) |
 | I Fought the Lawn | 223478 | [223478-i-fought-the-lawn.json](./223478-i-fought-the-lawn.json) |
 | I Found a Cat in the Rain | 383659 | [383659-i-found-a-cat-in-the-rain.json](./383659-i-found-a-cat-in-the-rain.json) |
+| I Found a New Friend | 202568 | [202568-i-found-a-new-friend.json](./202568-i-found-a-new-friend.json) |
 | I Found Myself in a Strange House and I'm Scared | 368640 | [368640-i-found-myself-in-a-strange-house-and-im-scared.json](./368640-i-found-myself-in-a-strange-house-and-im-scared.json) |
 | I Get This Call Every Day | 36358 | [36358-i-get-this-call-every-day.json](./36358-i-get-this-call-every-day.json) |
 | I got a cat maid | 128013 | [128013-i-got-a-cat-maid.json](./128013-i-got-a-cat-maid.json) |
@@ -1929,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Grave Wood | 183599 | [183599-in-the-grave-wood.json](./183599-in-the-grave-wood.json) |
 | In the Groove 2 | 70591 | [70591-in-the-groove-2.json](./70591-in-the-groove-2.json) |
 | In the Hole | 195023 | [195023-in-the-hole.json](./195023-in-the-hole.json) |
+| In the Hollow of the Valley | 202569 | [202569-in-the-hollow-of-the-valley.json](./202569-in-the-hollow-of-the-valley.json) |
 | In the Intrigue of the Ratings | 145694 | [145694-in-the-intrigue-of-the-ratings.json](./145694-in-the-intrigue-of-the-ratings.json) |
 | In the Keeper's Shadow | 120884 | [120884-in-the-keepers-shadow.json](./120884-in-the-keepers-shadow.json) |
 | In the Line of Duty - Firefighter | 125314 | [125314-in-the-line-of-duty-firefighter.json](./125314-in-the-line-of-duty-firefighter.json) |
@@ -3705,6 +3707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IrisPlus | 110377 | [110377-irisplus.json](./110377-irisplus.json) |
 | Irium | 91889 | [91889-irium.json](./91889-irium.json) |
 | IRL: Italian Ritual Live | 371752 | [371752-irl-italian-ritual-live.json](./371752-irl-italian-ritual-live.json) |
+| IRL: The Game | 202571 | [202571-irl-the-game.json](./202571-irl-the-game.json) |
 | Irmão Grande & Brasileiro 2 | 163461 | [163461-irmao-grande-and-brasileiro-2.json](./163461-irmao-grande-and-brasileiro-2.json) |
 | Iroase no Hate ni | 284601 | [284601-iroase-no-hate-ni.json](./284601-iroase-no-hate-ni.json) |
 | Irochi Mikke! | 276464 | [276464-irochi-mikke.json](./276464-irochi-mikke.json) |
