@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider City Wars | 68105 | [68105-kamen-rider-city-wars.json](./68105-kamen-rider-city-wars.json) |
 | Kamen Rider Club: Gekitotsu Shocker Land | 48691 | [48691-kamen-rider-club-gekitotsu-shocker-land.json](./48691-kamen-rider-club-gekitotsu-shocker-land.json) |
 | Kamen Rider Decade | 321523 | [321523-kamen-rider-decade.json](./321523-kamen-rider-decade.json) |
+| Kamen Rider Ex-Aid x Chariso | 203125 | [203125-kamen-rider-ex-aid-x-chariso.json](./203125-kamen-rider-ex-aid-x-chariso.json) |
 | Kamen Rider Ghost: Game de Kaigan!! | 59464 | [59464-kamen-rider-ghost-game-de-kaigan.json](./59464-kamen-rider-ghost-game-de-kaigan.json) |
 | Kamen Rider Kabuto | 91886 | [91886-kamen-rider-kabuto.json](./91886-kamen-rider-kabuto.json) |
 | Kamen Rider Kuuga | 43863 | [43863-kamen-rider-kuuga.json](./43863-kamen-rider-kuuga.json) |
