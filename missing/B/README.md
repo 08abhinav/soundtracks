@@ -8879,6 +8879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling 3D Extreme | 89226 | [89226-bowling-3d-extreme.json](./89226-bowling-3d-extreme.json) |
 | Bowling Alley | 230840 | [230840-bowling-alley.json](./230840-bowling-alley.json) |
 | Bowling at the Lake | 30190 | [30190-bowling-at-the-lake.json](./30190-bowling-at-the-lake.json) |
+| Bowling Ballers | 204864 | [204864-bowling-ballers.json](./204864-bowling-ballers.json) |
 | Bowling Bonanza 3D | 59208 | [59208-bowling-bonanza-3d.json](./59208-bowling-bonanza-3d.json) |
 | Bowling by Jason Belmonte | 262386 | [262386-bowling-by-jason-belmonte.json](./262386-bowling-by-jason-belmonte.json) |
 | Bowling Crew | 256240 | [256240-bowling-crew.json](./256240-bowling-crew.json) |
