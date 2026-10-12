@@ -2386,6 +2386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat doesn't like banana | 108033 | [108033-cat-doesnt-like-banana.json](./108033-cat-doesnt-like-banana.json) |
 | Cat Drift | 320824 | [320824-cat-drift.json](./320824-cat-drift.json) |
 | Cat Dungeon | 210880 | [210880-cat-dungeon.json](./210880-cat-dungeon.json) |
+| Cat Escape | 208102 | [208102-cat-escape.json](./208102-cat-escape.json) |
 | Cat Escape! Infinity！ | 247205 | [247205-cat-escape-infinity.json](./247205-cat-escape-infinity.json) |
 | Cat Evolution | 341636 | [341636-cat-evolution.json](./341636-cat-evolution.json) |
 | Cat Fantasy | 280799 | [280799-cat-fantasy.json](./280799-cat-fantasy.json) |
@@ -3157,6 +3158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Crown | 318119 | [318119-celestial-crown.json](./318119-celestial-crown.json) |
 | Celestial Crusade | 122983 | [122983-celestial-crusade.json](./122983-celestial-crusade.json) |
 | Celestial Drift | 391244 | [391244-celestial-drift.json](./391244-celestial-drift.json) |
+| Celestial Fate | 208083 | [208083-celestial-fate.json](./208083-celestial-fate.json) |
 | Celestial Force: Magical Mayhem | 238495 | [238495-celestial-force-magical-mayhem.json](./238495-celestial-force-magical-mayhem.json) |
 | Celestial Fragments | 396219 | [396219-celestial-fragments.json](./396219-celestial-fragments.json) |
 | Celestial Golf | 364373 | [364373-celestial-golf.json](./364373-celestial-golf.json) |
@@ -3668,6 +3670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Machina | 331323 | [331323-chaos-machina.json](./331323-chaos-machina.json) |
 | Chaos Magic: Towers and Wizards | 236199 | [236199-chaos-magic-towers-and-wizards.json](./236199-chaos-magic-towers-and-wizards.json) |
 | Chaos Maker | 113033 | [113033-chaos-maker.json](./113033-chaos-maker.json) |
+| Chaos Mecha | 208084 | [208084-chaos-mecha.json](./208084-chaos-mecha.json) |
 | Chaos Metaverse | 267658 | [267658-chaos-metaverse.json](./267658-chaos-metaverse.json) |
 | Chaos of East | 101353 | [101353-chaos-of-east.json](./101353-chaos-of-east.json) |
 | Chaos of Fallen City | 159864 | [159864-chaos-of-fallen-city.json](./159864-chaos-of-fallen-city.json) |
@@ -12746,6 +12749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Flyer | 180580 | [180580-cyber-flyer.json](./180580-cyber-flyer.json) |
 | Cyber Girl 1.0: Booting | 154585 | [154585-cyber-girl-1-0-booting.json](./154585-cyber-girl-1-0-booting.json) |
 | Cyber Girls | 376754 | [376754-cyber-girls.json](./376754-cyber-girls.json) |
+| Cyber Gunner | 208095 | [208095-cyber-gunner.json](./208095-cyber-gunner.json) |
 | Cyber Hamster Tilt | 186049 | [186049-cyber-hamster-tilt.json](./186049-cyber-hamster-tilt.json) |
 | Cyber Heart | 247977 | [247977-cyber-heart.json](./247977-cyber-heart.json) |
 | Cyber Hearts Club | 311633 | [311633-cyber-hearts-club.json](./311633-cyber-hearts-club.json) |
