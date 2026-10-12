@@ -2421,6 +2421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Survival | 153979 | [153979-dead-survival.json](./153979-dead-survival.json) |
 | Dead Synchronicity: The Longest Night | 59947 | [59947-dead-synchronicity-the-longest-night.json](./59947-dead-synchronicity-the-longest-night.json) |
 | Dead Synchronicity: Tomorrow Comes Today | 11398 | [11398-dead-synchronicity-tomorrow-comes-today.json](./11398-dead-synchronicity-tomorrow-comes-today.json) |
+| Dead Synchronicity: Tomorrow Comes Today | 194216 | [194216-dead-synchronicity-tomorrow-comes-today.json](./194216-dead-synchronicity-tomorrow-comes-today.json) |
 | Dead Take | 347032 | [347032-dead-take.json](./347032-dead-take.json) |
 | Dead to Rights | 194267 | [194267-dead-to-rights.json](./194267-dead-to-rights.json) |
 | Dead to Rights II | 5810 | [5810-dead-to-rights-ii.json](./5810-dead-to-rights-ii.json) |
@@ -4852,7 +4853,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Hayseed: Hollywood | 26992 | [26992-detective-hayseed-hollywood.json](./26992-detective-hayseed-hollywood.json) |
 | Detective Hayseed: The Cloning Madness | 277025 | [277025-detective-hayseed-the-cloning-madness.json](./277025-detective-hayseed-the-cloning-madness.json) |
 | Detective Hindsight | 367971 | [367971-detective-hindsight.json](./367971-detective-hindsight.json) |
+| Detective in the Pirate's Cove | 194188 | [194188-detective-in-the-pirates-cove.json](./194188-detective-in-the-pirates-cove.json) |
 | Detective Inna Duke | 380203 | [380203-detective-inna-duke.json](./380203-detective-inna-duke.json) |
+| Detective Inspector: Mysterious Clues | 194256 | [194256-detective-inspector-mysterious-clues.json](./194256-detective-inspector-mysterious-clues.json) |
 | Detective Instinct: Farewell, My Beloved | 278060 | [278060-detective-instinct-farewell-my-beloved.json](./278060-detective-instinct-farewell-my-beloved.json) |
 | Detective Kiwi | 282569 | [282569-detective-kiwi.json](./282569-detective-kiwi.json) |
 | Detective Kobayashi | 118321 | [118321-detective-kobayashi.json](./118321-detective-kobayashi.json) |
@@ -6316,6 +6319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disciples: Liberation - Deluxe Edition | 174188 | [174188-disciples-liberation-deluxe-edition.json](./174188-disciples-liberation-deluxe-edition.json) |
 | Disciples: Liberation - Digital Deluxe Edition | 161183 | [161183-disciples-liberation-digital-deluxe-edition.json](./161183-disciples-liberation-digital-deluxe-edition.json) |
 | Disciples: Liberation - GOG Edition | 219776 | [219776-disciples-liberation-gog-edition.json](./219776-disciples-liberation-gog-edition.json) |
+| Disciples: Liberation - Paths to Madness | 194259 | [194259-disciples-liberation-paths-to-madness.json](./194259-disciples-liberation-paths-to-madness.json) |
 | Disciples: Sacred Lands Gold | 11405 | [11405-disciples-sacred-lands-gold.json](./11405-disciples-sacred-lands-gold.json) |
 | Discmaster | 147635 | [147635-discmaster.json](./147635-discmaster.json) |
 | Disco Bert and the Curse of the Evil Mummies | 55913 | [55913-disco-bert-and-the-curse-of-the-evil-mummies.json](./55913-disco-bert-and-the-curse-of-the-evil-mummies.json) |
@@ -7259,6 +7263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodgy Balls | 116459 | [116459-dodgy-balls.json](./116459-dodgy-balls.json) |
 | Dodgy Carrot | 233418 | [233418-dodgy-carrot.json](./233418-dodgy-carrot.json) |
 | Dodgy Deliveries | 295796 | [295796-dodgy-deliveries.json](./295796-dodgy-deliveries.json) |
+| Dodgy Doodle | 194184 | [194184-dodgy-doodle.json](./194184-dodgy-doodle.json) |
 | Dodgy Geezers | 13598 | [13598-dodgy-geezers.json](./13598-dodgy-geezers.json) |
 | Dodgy Rocks | 133988 | [133988-dodgy-rocks.json](./133988-dodgy-rocks.json) |
 | Dodo | 277973 | [277973-dodo.json](./277973-dodo.json) |
@@ -8325,6 +8330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomed Love | 301944 | [301944-doomed-love.json](./301944-doomed-love.json) |
 | Doomed Otaku | 339981 | [339981-doomed-otaku.json](./339981-doomed-otaku.json) |
 | Doomed Space Wars | 261284 | [261284-doomed-space-wars.json](./261284-doomed-space-wars.json) |
+| Doomed to Hell | 194195 | [194195-doomed-to-hell.json](./194195-doomed-to-hell.json) |
 | Doomed Urbex | 283731 | [283731-doomed-urbex.json](./283731-doomed-urbex.json) |
 | Doomer | 189104 | [189104-doomer.json](./189104-doomer.json) |
 | Doomer Simulator | 164945 | [164945-doomer-simulator.json](./164945-doomer-simulator.json) |
@@ -9082,6 +9088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag and Drop Medieval | 304865 | [304865-drag-and-drop-medieval.json](./304865-drag-and-drop-medieval.json) |
 | Drag Battle | 249688 | [249688-drag-battle.json](./249688-drag-battle.json) |
 | Drag Battle Top Fuel | 192870 | [192870-drag-battle-top-fuel.json](./192870-drag-battle-top-fuel.json) |
+| Drag Clash Pro: Hot Rod Racing | 194254 | [194254-drag-clash-pro-hot-rod-racing.json](./194254-drag-clash-pro-hot-rod-racing.json) |
 | Drag Fight | 208981 | [208981-drag-fight.json](./208981-drag-fight.json) |
 | Drag Journey | 215113 | [215113-drag-journey.json](./215113-drag-journey.json) |
 | Drag Journey: Nitro | 219113 | [219113-drag-journey-nitro.json](./219113-drag-journey-nitro.json) |
@@ -11909,6 +11916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusk Shrouded | 295491 | [295491-dusk-shrouded.json](./295491-dusk-shrouded.json) |
 | Duskborn | 265095 | [265095-duskborn.json](./265095-duskborn.json) |
 | Duskbound | 258197 | [258197-duskbound.json](./258197-duskbound.json) |
+| DuskBreakers | 194239 | [194239-duskbreakers.json](./194239-duskbreakers.json) |
 | Duskdog | 410185 | [410185-duskdog.json](./410185-duskdog.json) |
 | Duskers 2.0 | 405061 | [405061-duskers-2-0.json](./405061-duskers-2-0.json) |
 | Duskfade | 310665 | [310665-duskfade.json](./310665-duskfade.json) |
@@ -12201,6 +12209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 9 with Bonus | 90690 | [90690-dynasty-warriors-9-with-bonus.json](./90690-dynasty-warriors-9-with-bonus.json) |
 | Dynasty Warriors 9: Complete Edition | 199637 | [199637-dynasty-warriors-9-complete-edition.json](./199637-dynasty-warriors-9-complete-edition.json) |
 | Dynasty Warriors 9: Empires | 139126 | [139126-dynasty-warriors-9-empires.json](./139126-dynasty-warriors-9-empires.json) |
+| Dynasty Warriors 9: Empires - Deluxe Edition | 194262 | [194262-dynasty-warriors-9-empires-deluxe-edition.json](./194262-dynasty-warriors-9-empires-deluxe-edition.json) |
 | Dynasty Warriors 9: Empires - Idol Stage | 191040 | [191040-dynasty-warriors-9-empires-idol-stage.json](./191040-dynasty-warriors-9-empires-idol-stage.json) |
 | Dynasty Warriors 9: Guo Jia Additional Hypothetical Scenarios Set | 225913 | [225913-dynasty-warriors-9-guo-jia-additional-hypothetical-scenarios-set.json](./225913-dynasty-warriors-9-guo-jia-additional-hypothetical-scenarios-set.json) |
 | Dynasty Warriors 9: Zhou Yu Additional Hypothetical Scenarios Set | 225909 | [225909-dynasty-warriors-9-zhou-yu-additional-hypothetical-scenarios-set.json](./225909-dynasty-warriors-9-zhou-yu-additional-hypothetical-scenarios-set.json) |
