@@ -294,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NanoHive | 216991 | [216991-nanohive.json](./216991-nanohive.json) |
 | Nanoka Project | 226763 | [226763-nanoka-project.json](./226763-nanoka-project.json) |
 | Nanokin | 118189 | [118189-nanokin.json](./118189-nanokin.json) |
+| Nanokings | 218682 | [218682-nanokings.json](./218682-nanokings.json) |
 | NanoLab Fighter | 246978 | [246978-nanolab-fighter.json](./246978-nanolab-fighter.json) |
 | Nanoloop | 93994 | [93994-nanoloop.json](./93994-nanoloop.json) |
 | NanoMachina | 188915 | [188915-nanomachina.json](./188915-nanomachina.json) |
