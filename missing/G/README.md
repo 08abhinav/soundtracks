@@ -4211,6 +4211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Card Game | 104485 | [104485-golf-card-game.json](./104485-golf-card-game.json) |
 | Golf Cart Race | 105919 | [105919-golf-cart-race.json](./105919-golf-cart-race.json) |
 | Golf Clash | 56902 | [56902-golf-clash.json](./56902-golf-clash.json) |
+| Golf Club Architect | 190909 | [190909-golf-club-architect.json](./190909-golf-club-architect.json) |
 | Golf Club Nostalgia | 106027 | [106027-golf-club-nostalgia.json](./106027-golf-club-nostalgia.json) |
 | Golf Club Wasteland / Aspire Ina's Tale Bundle | 200463 | [200463-golf-club-wasteland-aspire-inas-tale-bundle.json](./200463-golf-club-wasteland-aspire-inas-tale-bundle.json) |
 | Golf Daisuki! | 228552 | [228552-golf-daisuki.json](./228552-golf-daisuki.json) |
@@ -6844,6 +6845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun to Colonists | 189173 | [189173-gun-to-colonists.json](./189173-gun-to-colonists.json) |
 | Gun Trails | 259277 | [259277-gun-trails.json](./259277-gun-trails.json) |
 | Gun Tycoon | 224051 | [224051-gun-tycoon.json](./224051-gun-tycoon.json) |
+| Gun Ugly | 190920 | [190920-gun-ugly.json](./190920-gun-ugly.json) |
 | Gun vs. Bottles | 233442 | [233442-gun-vs-bottles.json](./233442-gun-vs-bottles.json) |
 | Gun Warrior: The Rider From Nowhere | 27537 | [27537-gun-warrior-the-rider-from-nowhere.json](./27537-gun-warrior-the-rider-from-nowhere.json) |
 | Gun X Gunner | 384153 | [384153-gun-x-gunner.json](./384153-gun-x-gunner.json) |
@@ -6997,6 +6999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunner 2 | 54073 | [54073-gunner-2.json](./54073-gunner-2.json) |
 | Gunner 3 | 259821 | [259821-gunner-3.json](./259821-gunner-3.json) |
 | Gunner 3 | 87808 | [87808-gunner-3.json](./87808-gunner-3.json) |
+| Gunner Deadly Expedition | 190907 | [190907-gunner-deadly-expedition.json](./190907-gunner-deadly-expedition.json) |
 | Gunner-chan! | 331898 | [331898-gunner-chan.json](./331898-gunner-chan.json) |
 | Gunners Heart | 54072 | [54072-gunners-heart.json](./54072-gunners-heart.json) |
 | Gunnheim | 20207 | [20207-gunnheim.json](./20207-gunnheim.json) |
