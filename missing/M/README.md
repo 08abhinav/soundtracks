@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machina of the Planet Tree: Flying Dreamer | 59940 | [59940-machina-of-the-planet-tree-flying-dreamer.json](./59940-machina-of-the-planet-tree-flying-dreamer.json) |
 | Machinaero | 240837 | [240837-machinaero.json](./240837-machinaero.json) |
 | Machinarium | 264876 | [264876-machinarium.json](./264876-machinarium.json) |
+| Machindranaath Raath Game | 214702 | [214702-machindranaath-raath-game.json](./214702-machindranaath-raath-game.json) |
 | Machine Armor Zero | 244255 | [244255-machine-armor-zero.json](./244255-machine-armor-zero.json) |
 | Machine Cave | 141105 | [141105-machine-cave.json](./141105-machine-cave.json) |
 | Machine Challenger | 301254 | [301254-machine-challenger.json](./301254-machine-challenger.json) |
@@ -9295,6 +9296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern War | 100206 | [100206-modern-war.json](./100206-modern-war.json) |
 | Modern War by Gree | 39186 | [39186-modern-war-by-gree.json](./39186-modern-war-by-gree.json) |
 | Modern War Simulator: Advance Under Air Raid | 169448 | [169448-modern-war-simulator-advance-under-air-raid.json](./169448-modern-war-simulator-advance-under-air-raid.json) |
+| Modern War: Tank Battle | 214682 | [214682-modern-war-tank-battle.json](./214682-modern-war-tank-battle.json) |
 | Modern Warplanes | 193818 | [193818-modern-warplanes.json](./193818-modern-warplanes.json) |
 | Modern Warplanes Sky Fighters | 296770 | [296770-modern-warplanes-sky-fighters.json](./296770-modern-warplanes-sky-fighters.json) |
 | Modern Warrior Special Tactics | 54232 | [54232-modern-warrior-special-tactics.json](./54232-modern-warrior-special-tactics.json) |
