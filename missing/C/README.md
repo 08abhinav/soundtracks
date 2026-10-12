@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C:\raft | 34862 | [34862-c-raft.json](./34862-c-raft.json) |
 | C. Kane | 34880 | [34880-c-kane.json](./34880-c-kane.json) |
 | C.A.G.E. | 414376 | [414376-c-a-g-e.json](./414376-c-a-g-e.json) |
+| C.A.P.S.: Cyber Animal Planet Survival | 195969 | [195969-c-a-p-s-cyber-animal-planet-survival.json](./195969-c-a-p-s-cyber-animal-planet-survival.json) |
 | C.A.R.D.S. RPG: The Misty Battlefield | 273624 | [273624-c-a-r-d-s-rpg-the-misty-battlefield.json](./273624-c-a-r-d-s-rpg-the-misty-battlefield.json) |
 | C.A.R.L. | 201711 | [201711-c-a-r-l.json](./201711-c-a-r-l.json) |
 | C.A.R.S: Creating A Ridiculous Shitshow | 386931 | [386931-c-a-r-s-creating-a-ridiculous-shitshow.json](./386931-c-a-r-s-creating-a-ridiculous-shitshow.json) |
@@ -7064,6 +7065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: Rogue Fleet - The Reinforcements | 156155 | [156155-codename-rogue-fleet-the-reinforcements.json](./156155-codename-rogue-fleet-the-reinforcements.json) |
 | Codename: SYN | 137603 | [137603-codename-syn.json](./137603-codename-syn.json) |
 | Codename: Tenka | 19995 | [19995-codename-tenka.json](./19995-codename-tenka.json) |
+| Codename: Tiaras | 195981 | [195981-codename-tiaras.json](./195981-codename-tiaras.json) |
 | Codename: Twilight | 373761 | [373761-codename-twilight.json](./373761-codename-twilight.json) |
 | Codenames | 105254 | [105254-codenames.json](./105254-codenames.json) |
 | CodeRed 911 | 334943 | [334943-codered-911.json](./334943-codered-911.json) |
@@ -8498,6 +8500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connectify | 190196 | [190196-connectify.json](./190196-connectify.json) |
 | Connecting 4's Game | 96933 | [96933-connecting-4s-game.json](./96933-connecting-4s-game.json) |
 | Connection | 100859 | [100859-connection.json](./100859-connection.json) |
+| Connection | 195956 | [195956-connection.json](./195956-connection.json) |
 | Connection | 322574 | [322574-connection.json](./322574-connection.json) |
 | Connection Crawler | 418586 | [418586-connection-crawler.json](./418586-connection-crawler.json) |
 | Connection Error | 234022 | [234022-connection-error.json](./234022-connection-error.json) |
