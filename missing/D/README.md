@@ -3150,6 +3150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decontamination | 335879 | [335879-decontamination.json](./335879-decontamination.json) |
 | Decor Dream | 305845 | [305845-decor-dream.json](./305845-decor-dream.json) |
 | Decoration Rush | 324991 | [324991-decoration-rush.json](./324991-decoration-rush.json) |
+| Decorporation | 199317 | [199317-decorporation.json](./199317-decorporation.json) |
 | Decoy | 90207 | [90207-decoy.json](./90207-decoy.json) |
 | Decrepit | 381203 | [381203-decrepit.json](./381203-decrepit.json) |
 | Decrypt | 229211 | [229211-decrypt.json](./229211-decrypt.json) |
@@ -4376,6 +4377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derp Souls | 219241 | [219241-derp-souls.json](./219241-derp-souls.json) |
 | Derpy Dinos | 74433 | [74433-derpy-dinos.json](./74433-derpy-dinos.json) |
 | Derpy Fish | 356078 | [356078-derpy-fish.json](./356078-derpy-fish.json) |
+| Derpy God | 199331 | [199331-derpy-god.json](./199331-derpy-god.json) |
 | Derpy Pirates! The Search for the Bungalow | 126425 | [126425-derpy-pirates-the-search-for-the-bungalow.json](./126425-derpy-pirates-the-search-for-the-bungalow.json) |
 | Derpy's Fun House | 312712 | [312712-derpys-fun-house.json](./312712-derpys-fun-house.json) |
 | Derrat Sorcerum | 108918 | [108918-derrat-sorcerum.json](./108918-derrat-sorcerum.json) |
@@ -4985,6 +4987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devastator | 80872 | [80872-devastator.json](./80872-devastator.json) |
 | Devastators | 39632 | [39632-devastators.json](./39632-devastators.json) |
 | Devestor | 375808 | [375808-devestor.json](./375808-devestor.json) |
+| Devexus | 199343 | [199343-devexus.json](./199343-devexus.json) |
 | Devi & Pii | 215752 | [215752-devi-and-pii.json](./215752-devi-and-pii.json) |
 | Deviant Dungeon | 127931 | [127931-deviant-dungeon.json](./127931-deviant-dungeon.json) |
 | Deviation from Way | 190025 | [190025-deviation-from-way.json](./190025-deviation-from-way.json) |
@@ -11915,6 +11918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust Fleet | 133464 | [133464-dust-fleet.json](./133464-dust-fleet.json) |
 | Dust On Thorn | 405737 | [405737-dust-on-thorn.json](./405737-dust-on-thorn.json) |
 | Dust Raiders | 260175 | [260175-dust-raiders.json](./260175-dust-raiders.json) |
+| Dust Remains | 199316 | [199316-dust-remains.json](./199316-dust-remains.json) |
 | Dust to Dusk | 138831 | [138831-dust-to-dusk.json](./138831-dust-to-dusk.json) |
 | Dust to Dust | 382967 | [382967-dust-to-dust.json](./382967-dust-to-dust.json) |
 | Dust to Dust | 385854 | [385854-dust-to-dust.json](./385854-dust-to-dust.json) |
