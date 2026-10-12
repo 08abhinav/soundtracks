@@ -2132,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Wings | 35051 | [35051-rebel-wings.json](./35051-rebel-wings.json) |
 | Rebel! | 259138 | [259138-rebel.json](./259138-rebel.json) |
 | Rebel! Pure Love Fighters! | 153027 | [153027-rebel-pure-love-fighters.json](./153027-rebel-pure-love-fighters.json) |
+| Rebellion | 223359 | [223359-rebellion.json](./223359-rebellion.json) |
 | Rebellion Anthology | 53492 | [53492-rebellion-anthology.json](./53492-rebellion-anthology.json) |
 | Rebellion Corporation | 230970 | [230970-rebellion-corporation.json](./230970-rebellion-corporation.json) |
 | Rebellion Princess | 391330 | [391330-rebellion-princess.json](./391330-rebellion-princess.json) |
@@ -3757,6 +3758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Ball | 309465 | [309465-retro-ball.json](./309465-retro-ball.json) |
 | Retro Basketball Coach 2021 | 175250 | [175250-retro-basketball-coach-2021.json](./175250-retro-basketball-coach-2021.json) |
 | Retro Basketball Coach 2022 | 187831 | [187831-retro-basketball-coach-2022.json](./187831-retro-basketball-coach-2022.json) |
+| Retro Basketball Coach 2023 | 223599 | [223599-retro-basketball-coach-2023.json](./223599-retro-basketball-coach-2023.json) |
 | Retro Battle | 306533 | [306533-retro-battle.json](./306533-retro-battle.json) |
 | Retro Blaster: Mech Madness 1 | 274642 | [274642-retro-blaster-mech-madness-1.json](./274642-retro-blaster-mech-madness-1.json) |
 | Retro Bowl | 141684 | [141684-retro-bowl.json](./141684-retro-bowl.json) |
@@ -4332,6 +4334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Rewind | 177995 | [177995-rhythm-rewind.json](./177995-rhythm-rewind.json) |
 | Rhythm Stars Climbing | 157196 | [157196-rhythm-stars-climbing.json](./157196-rhythm-stars-climbing.json) |
 | Rhythm Station | 277853 | [277853-rhythm-station.json](./277853-rhythm-station.json) |
+| Rhythm Stones | 223609 | [223609-rhythm-stones.json](./223609-rhythm-stones.json) |
 | Rhythm Storm | 239180 | [239180-rhythm-storm.json](./239180-rhythm-storm.json) |
 | Rhythm Taichi | 193797 | [193797-rhythm-taichi.json](./193797-rhythm-taichi.json) |
 | Rhythm Taichi XR | 391297 | [391297-rhythm-taichi-xr.json](./391297-rhythm-taichi-xr.json) |
