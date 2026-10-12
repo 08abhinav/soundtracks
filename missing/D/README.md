@@ -2743,6 +2743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Cargo | 55130 | [55130-death-cargo.json](./55130-death-cargo.json) |
 | Death Carnival | 130677 | [130677-death-carnival.json](./130677-death-carnival.json) |
 | Death Climbing | 332981 | [332981-death-climbing.json](./332981-death-climbing.json) |
+| Death Code | 195950 | [195950-death-code.json](./195950-death-code.json) |
 | Death Comes Skiing | 362888 | [362888-death-comes-skiing.json](./362888-death-comes-skiing.json) |
 | Death Connection Portable | 203266 | [203266-death-connection-portable.json](./203266-death-connection-portable.json) |
 | Death Corp | 218583 | [218583-death-corp.json](./218583-death-corp.json) |
@@ -4767,6 +4768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroyer For Windows | 312840 | [312840-destroyer-for-windows.json](./312840-destroyer-for-windows.json) |
 | Destroyer of Worlds | 144223 | [144223-destroyer-of-worlds.json](./144223-destroyer-of-worlds.json) |
 | Destroyer: Invasion | 50754 | [50754-destroyer-invasion.json](./50754-destroyer-invasion.json) |
+| Destroying the Asteroids: Along With Unfair Hurdles | 195967 | [195967-destroying-the-asteroids-along-with-unfair-hurdles.json](./195967-destroying-the-asteroids-along-with-unfair-hurdles.json) |
 | Destruct | 60511 | [60511-destruct.json](./60511-destruct.json) |
 | Destruction | 112124 | [112124-destruction.json](./112124-destruction.json) |
 | Destruction AllStars | 134587 | [134587-destruction-allstars.json](./134587-destruction-allstars.json) |
@@ -9585,6 +9587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon VR | 156091 | [156091-dragon-vr.json](./156091-dragon-vr.json) |
 | Dragon vs Goblins | 89477 | [89477-dragon-vs-goblins.json](./89477-dragon-vs-goblins.json) |
 | Dragon Wang | 6097 | [6097-dragon-wang.json](./6097-dragon-wang.json) |
+| Dragon War | 195978 | [195978-dragon-war.json](./195978-dragon-war.json) |
 | Dragon Warrior I | 239183 | [239183-dragon-warrior-i.json](./239183-dragon-warrior-i.json) |
 | Dragon Warrior I & II | 205230 | [205230-dragon-warrior-i-and-ii.json](./205230-dragon-warrior-i-and-ii.json) |
 | Dragon Warrior II | 239184 | [239184-dragon-warrior-ii.json](./239184-dragon-warrior-ii.json) |
@@ -10288,6 +10291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamscapes: The Sandman - Collector's Edition | 356189 | [356189-dreamscapes-the-sandman-collectors-edition.json](./356189-dreamscapes-the-sandman-collectors-edition.json) |
 | DreamScript | 158050 | [158050-dreamscript.json](./158050-dreamscript.json) |
 | Dreamsend: Wintersong | 411537 | [411537-dreamsend-wintersong.json](./411537-dreamsend-wintersong.json) |
+| Dreamsettler | 196002 | [196002-dreamsettler.json](./196002-dreamsettler.json) |
 | Dreamshard | 132750 | [132750-dreamshard.json](./132750-dreamshard.json) |
 | DreamShock | 316159 | [316159-dreamshock.json](./316159-dreamshock.json) |
 | Dreamshot Fantasia | 278914 | [278914-dreamshot-fantasia.json](./278914-dreamshot-fantasia.json) |
