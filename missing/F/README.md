@@ -4743,6 +4743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Point Korea: AH-64D Longbow | 710 | [710-flash-point-korea-ah-64d-longbow.json](./710-flash-point-korea-ah-64d-longbow.json) |
 | Flash Racer | 359375 | [359375-flash-racer.json](./359375-flash-racer.json) |
 | Flash Traffic: City of Angels | 70063 | [70063-flash-traffic-city-of-angels.json](./70063-flash-traffic-city-of-angels.json) |
+| Flashback 2: Limited Edition | 210910 | [210910-flashback-2-limited-edition.json](./210910-flashback-2-limited-edition.json) |
 | Flashback Legend | 49378 | [49378-flashback-legend.json](./49378-flashback-legend.json) |
 | Flashback to Hell | 261172 | [261172-flashback-to-hell.json](./261172-flashback-to-hell.json) |
 | Flashback: The Quest for Identity | 4275 | [4275-flashback-the-quest-for-identity.json](./4275-flashback-the-quest-for-identity.json) |
@@ -6461,6 +6462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula X | 99643 | [99643-formula-x.json](./99643-formula-x.json) |
 | FormulaNext | 30069 | [30069-formulanext.json](./30069-formulanext.json) |
 | ForRace GT2D | 275680 | [275680-forrace-gt2d.json](./275680-forrace-gt2d.json) |
+| Forrader Hero | 210920 | [210920-forrader-hero.json](./210920-forrader-hero.json) |
 | Forrest Gump: Match 3 Game | 208389 | [208389-forrest-gump-match-3-game.json](./208389-forrest-gump-match-3-game.json) |
 | Forsake The Rake | 240240 | [240240-forsake-the-rake.json](./240240-forsake-the-rake.json) |
 | Forsaken | 196138 | [196138-forsaken.json](./196138-forsaken.json) |
