@@ -1202,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RandoMine | 221098 | [221098-randomine.json](./221098-randomine.json) |
 | Randomish | 217400 | [217400-randomish.json](./217400-randomish.json) |
 | Randomlands | 156602 | [156602-randomlands.json](./156602-randomlands.json) |
+| Randompunk 2077 | 182773 | [182773-randompunk-2077.json](./182773-randompunk-2077.json) |
 | Randotura | 325694 | [325694-randotura.json](./325694-randotura.json) |
 | Randoville | 244214 | [244214-randoville.json](./244214-randoville.json) |
 | Randungeon | 326073 | [326073-randungeon.json](./326073-randungeon.json) |
@@ -2015,6 +2016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm | 44457 | [44457-realm.json](./44457-realm.json) |
 | Realm Craft | 251811 | [251811-realm-craft.json](./251811-realm-craft.json) |
 | Realm Hacker | 132271 | [132271-realm-hacker.json](./132271-realm-hacker.json) |
+| Realm of Abhorrus | 182747 | [182747-realm-of-abhorrus.json](./182747-realm-of-abhorrus.json) |
 | Realm of Alters | 169397 | [169397-realm-of-alters.json](./169397-realm-of-alters.json) |
 | Realm of Chaos | 313868 | [313868-realm-of-chaos.json](./313868-realm-of-chaos.json) |
 | Realm of Dissonance | 319182 | [319182-realm-of-dissonance.json](./319182-realm-of-dissonance.json) |
@@ -3342,6 +3344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RePirates | 181332 | [181332-repirates.json](./181332-repirates.json) |
 | Repit 2 | 220685 | [220685-repit-2.json](./220685-repit-2.json) |
 | Replaced | 152244 | [152244-replaced.json](./152244-replaced.json) |
+| Replacement | 182763 | [182763-replacement.json](./182763-replacement.json) |
 | Replay Boys | 259188 | [259188-replay-boys.json](./259188-replay-boys.json) |
 | Replay Value: Second Hand Games | 347748 | [347748-replay-value-second-hand-games.json](./347748-replay-value-second-hand-games.json) |
 | Replay: A Puzzle Game | 157200 | [157200-replay-a-puzzle-game.json](./157200-replay-a-puzzle-game.json) |
@@ -7021,6 +7024,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roomates | 82053 | [82053-roomates.json](./82053-roomates.json) |
 | Roomba May Cry | 185116 | [185116-roomba-may-cry.json](./185116-roomba-may-cry.json) |
 | Roomba Out! | 302143 | [302143-roomba-out.json](./302143-roomba-out.json) |
+| Roomba Quest | 182759 | [182759-roomba-quest.json](./182759-roomba-quest.json) |
+| Roomba Quest 2 | 182762 | [182762-roomba-quest-2.json](./182762-roomba-quest-2.json) |
 | Roomba Rail Rider | 302144 | [302144-roomba-rail-rider.json](./302144-roomba-rail-rider.json) |
 | Roombo: First Blood | 114015 | [114015-roombo-first-blood.json](./114015-roombo-first-blood.json) |
 | Roomgaze | 347644 | [347644-roomgaze.json](./347644-roomgaze.json) |
