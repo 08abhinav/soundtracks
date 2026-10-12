@@ -2375,6 +2375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OptoLexem | 103528 | [103528-optolexem.json](./103528-optolexem.json) |
 | Opus | 181873 | [181873-opus.json](./181873-opus.json) |
 | Opus 1 - Social Justice War | 81691 | [81691-opus-1-social-justice-war.json](./81691-opus-1-social-justice-war.json) |
+| Opus Castle | 181076 | [181076-opus-castle.json](./181076-opus-castle.json) |
 | Opus Castle: Chapter II | 196107 | [196107-opus-castle-chapter-ii.json](./196107-opus-castle-chapter-ii.json) |
 | Opus Castle: Chapter III | 357187 | [357187-opus-castle-chapter-iii.json](./357187-opus-castle-chapter-iii.json) |
 | Opus Castle: Chapter IV | 357191 | [357191-opus-castle-chapter-iv.json](./357191-opus-castle-chapter-iv.json) |
