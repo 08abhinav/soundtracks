@@ -3352,6 +3352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Directive | 267476 | [267476-deep-space-directive.json](./267476-deep-space-directive.json) |
 | Deep Space Drillers | 290830 | [290830-deep-space-drillers.json](./290830-deep-space-drillers.json) |
 | Deep Space Exodus | 384511 | [384511-deep-space-exodus.json](./384511-deep-space-exodus.json) |
+| Deep Space Expedition 47 | 190895 | [190895-deep-space-expedition-47.json](./190895-deep-space-expedition-47.json) |
 | Deep Space Exploitation | 346545 | [346545-deep-space-exploitation.json](./346545-deep-space-exploitation.json) |
 | Deep Space Reflections | 116398 | [116398-deep-space-reflections.json](./116398-deep-space-reflections.json) |
 | Deep Space RPG: Origins | 110502 | [110502-deep-space-rpg-origins.json](./110502-deep-space-rpg-origins.json) |
@@ -8145,6 +8146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dood's Big Adventure | 18255 | [18255-doods-big-adventure.json](./18255-doods-big-adventure.json) |
 | Doodle Adventures | 56770 | [56770-doodle-adventures.json](./56770-doodle-adventures.json) |
 | Doodle Army | 61655 | [61655-doodle-army.json](./61655-doodle-army.json) |
+| Doodle Art: Drawing Games | 190937 | [190937-doodle-art-drawing-games.json](./190937-doodle-art-drawing-games.json) |
 | Doodle Biker | 105901 | [105901-doodle-biker.json](./105901-doodle-biker.json) |
 | Doodle Bowling | 65451 | [65451-doodle-bowling.json](./65451-doodle-bowling.json) |
 | Doodle Cat | 343797 | [343797-doodle-cat.json](./343797-doodle-cat.json) |
