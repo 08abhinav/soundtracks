@@ -3150,6 +3150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interceptor | 84441 | [84441-interceptor.json](./84441-interceptor.json) |
 | Intercity Truck Simulator | 100814 | [100814-intercity-truck-simulator.json](./100814-intercity-truck-simulator.json) |
 | Intercolonies | 319352 | [319352-intercolonies.json](./319352-intercolonies.json) |
+| Interconnected Stories | 188977 | [188977-interconnected-stories.json](./188977-interconnected-stories.json) |
 | Intercontinental | 131383 | [131383-intercontinental.json](./131383-intercontinental.json) |
 | Interdictor Pilot | 342035 | [342035-interdictor-pilot.json](./342035-interdictor-pilot.json) |
 | Interdimension | 191076 | [191076-interdimension.json](./191076-interdimension.json) |
