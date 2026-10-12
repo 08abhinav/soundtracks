@@ -6282,6 +6282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlastFort | 164265 | [164265-blastfort.json](./164265-blastfort.json) |
 | Blastful | 147122 | [147122-blastful.json](./147122-blastful.json) |
 | Blasting Bad | 326112 | [326112-blasting-bad.json](./326112-blasting-bad.json) |
+| Blasting Courier | 181047 | [181047-blasting-courier.json](./181047-blasting-courier.json) |
 | BlastMorph: Pinball | 372572 | [372572-blastmorph-pinball.json](./372572-blastmorph-pinball.json) |
 | Blasto | 377825 | [377825-blasto.json](./377825-blasto.json) |
 | Blasto | 86213 | [86213-blasto.json](./86213-blasto.json) |
@@ -7408,6 +7409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Angelo: Angels from the Shrine | 66051 | [66051-blue-angelo-angels-from-the-shrine.json](./66051-blue-angelo-angels-from-the-shrine.json) |
 | Blue Archive | 139391 | [139391-blue-archive.json](./139391-blue-archive.json) |
 | Blue Aurora: The G.A.I.A. Project | 125881 | [125881-blue-aurora-the-g-a-i-a-project.json](./125881-blue-aurora-the-g-a-i-a-project.json) |
+| Blue Barbarian Man | 181067 | [181067-blue-barbarian-man.json](./181067-blue-barbarian-man.json) |
 | Blue Bird Land Ep 2. | 222953 | [222953-blue-bird-land-ep-2.json](./222953-blue-bird-land-ep-2.json) |
 | Blue Bird's Song | 275346 | [275346-blue-birds-song.json](./275346-blue-birds-song.json) |
 | Blue Blaster Fandisc: Claudia Dakkan Sakusen | 408312 | [408312-blue-blaster-fandisc-claudia-dakkan-sakusen.json](./408312-blue-blaster-fandisc-claudia-dakkan-sakusen.json) |
@@ -7744,6 +7746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobobo-bo Bo-bobo: Dassutsu! Hajike Royale | 50588 | [50588-bobobo-bo-bo-bobo-dassutsu-hajike-royale.json](./50588-bobobo-bo-bo-bobo-dassutsu-hajike-royale.json) |
 | BoBoiBoy: Adudu Attacks! | 61998 | [61998-boboiboy-adudu-attacks.json](./61998-boboiboy-adudu-attacks.json) |
 | BoboInvasion | 287777 | [287777-boboinvasion.json](./287777-boboinvasion.json) |
+| Bobok | 181068 | [181068-bobok.json](./181068-bobok.json) |
 | Bobos FunZone | 278557 | [278557-bobos-funzone.json](./278557-bobos-funzone.json) |
 | Bobr Kurwa | 297241 | [297241-bobr-kurwa.json](./297241-bobr-kurwa.json) |
 | Bobrix | 415199 | [415199-bobrix.json](./415199-bobrix.json) |
@@ -10503,6 +10506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Guppies | 230336 | [230336-bubble-guppies.json](./230336-bubble-guppies.json) |
 | Bubble Guppies | 230344 | [230344-bubble-guppies.json](./230344-bubble-guppies.json) |
 | Bubble Hero | 246436 | [246436-bubble-hero.json](./246436-bubble-hero.json) |
+| Bubble Hunt | 181071 | [181071-bubble-hunt.json](./181071-bubble-hunt.json) |
 | Bubble Investor | 361727 | [361727-bubble-investor.json](./361727-bubble-investor.json) |
 | Bubble Jam | 331366 | [331366-bubble-jam.json](./331366-bubble-jam.json) |
 | Bubble Jcat | 183950 | [183950-bubble-jcat.json](./183950-bubble-jcat.json) |
