@@ -1126,6 +1126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperplanes | 218678 | [218678-paperplanes.json](./218678-paperplanes.json) |
 | PaperPlanets | 106612 | [106612-paperplanets.json](./106612-paperplanets.json) |
 | Paperquarium | 249458 | [249458-paperquarium.json](./249458-paperquarium.json) |
+| Papertris | 190941 | [190941-papertris.json](./190941-papertris.json) |
 | Paperwork | 374620 | [374620-paperwork.json](./374620-paperwork.json) |
 | Papi Chocolate | 87107 | [87107-papi-chocolate.json](./87107-papi-chocolate.json) |
 | PapiCatch | 87241 | [87241-papicatch.json](./87241-papicatch.json) |
@@ -6540,6 +6541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pluto Rim: Storm Commander | 141507 | [141507-pluto-rim-storm-commander.json](./141507-pluto-rim-storm-commander.json) |
 | Pluto Strikes Back | 51216 | [51216-pluto-strikes-back.json](./51216-pluto-strikes-back.json) |
 | Pluto's Ascent: Celestial Card | 395515 | [395515-plutos-ascent-celestial-card.json](./395515-plutos-ascent-celestial-card.json) |
+| Pluto's Island | 190938 | [190938-plutos-island.json](./190938-plutos-island.json) |
 | Pluto's Sheep-Dog Day | 246516 | [246516-plutos-sheep-dog-day.json](./246516-plutos-sheep-dog-day.json) |
 | Pluto's Tears | 176974 | [176974-plutos-tears.json](./176974-plutos-tears.json) |
 | Plutonia 1024: The Plutinya Exeriment | 269468 | [269468-plutonia-1024-the-plutinya-exeriment.json](./269468-plutonia-1024-the-plutinya-exeriment.json) |
@@ -6771,6 +6773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pog 2 | 157503 | [157503-pog-2.json](./157503-pog-2.json) |
 | Pog 4 | 158497 | [158497-pog-4.json](./158497-pog-4.json) |
 | Pog 5 | 165705 | [165705-pog-5.json](./165705-pog-5.json) |
+| Pog 7 | 190932 | [190932-pog-7.json](./190932-pog-7.json) |
 | Pog XL | 236891 | [236891-pog-xl.json](./236891-pog-xl.json) |
 | Pogger's Legends | 319641 | [319641-poggers-legends.json](./319641-poggers-legends.json) |
 | Pogglewash | 249504 | [249504-pogglewash.json](./249504-pogglewash.json) |
@@ -11820,6 +11823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles At Mystery Manor | 32883 | [32883-puzzles-at-mystery-manor.json](./32883-puzzles-at-mystery-manor.json) |
 | Puzzles By Axis | 86415 | [86415-puzzles-by-axis.json](./86415-puzzles-by-axis.json) |
 | Puzzles Dino | 414501 | [414501-puzzles-dino.json](./414501-puzzles-dino.json) |
+| Puzzles For Clef | 190917 | [190917-puzzles-for-clef.json](./190917-puzzles-for-clef.json) |
 | Puzzles for kids - Animal Puzzles | 93702 | [93702-puzzles-for-kids-animal-puzzles.json](./93702-puzzles-for-kids-animal-puzzles.json) |
 | Puzzles for Smart: Birds | 110978 | [110978-puzzles-for-smart-birds.json](./110978-puzzles-for-smart-birds.json) |
 | Puzzles for smart: Cats | 104017 | [104017-puzzles-for-smart-cats.json](./104017-puzzles-for-smart-cats.json) |
