@@ -3392,6 +3392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RePulse-X | 373312 | [373312-repulse-x.json](./373312-repulse-x.json) |
 | Repulse: Galactic Rivals | 75166 | [75166-repulse-galactic-rivals.json](./75166-repulse-galactic-rivals.json) |
 | Repulsor | 199593 | [199593-repulsor.json](./199593-repulsor.json) |
+| Repulze | 193703 | [193703-repulze.json](./193703-repulze.json) |
 | Repunk | 255675 | [255675-repunk.json](./255675-repunk.json) |
 | Requeue | 183972 | [183972-requeue.json](./183972-requeue.json) |
 | Requia Online | 175329 | [175329-requia-online.json](./175329-requia-online.json) |
@@ -6407,6 +6408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Kingdom | 406323 | [406323-rogue-kingdom.json](./406323-rogue-kingdom.json) |
 | Rogue Kingdoms | 317594 | [317594-rogue-kingdoms.json](./317594-rogue-kingdoms.json) |
 | Rogue Knight | 277938 | [277938-rogue-knight.json](./277938-rogue-knight.json) |
+| Rogue Knight: Infested Lands | 193684 | [193684-rogue-knight-infested-lands.json](./193684-rogue-knight-infested-lands.json) |
 | Rogue Labyrinth | 249195 | [249195-rogue-labyrinth.json](./249195-rogue-labyrinth.json) |
 | Rogue Loops | 323755 | [323755-rogue-loops.json](./323755-rogue-loops.json) |
 | Rogue Lords | 131573 | [131573-rogue-lords.json](./131573-rogue-lords.json) |
@@ -6995,6 +6997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooms | 388930 | [388930-rooms.json](./388930-rooms.json) |
 | Rooms of Dread | 232027 | [232027-rooms-of-dread.json](./232027-rooms-of-dread.json) |
 | Rooms: The Adventure of Anne & George | 110803 | [110803-rooms-the-adventure-of-anne-and-george.json](./110803-rooms-the-adventure-of-anne-and-george.json) |
+| Rooms: The Toymaker's Mansion | 193678 | [193678-rooms-the-toymakers-mansion.json](./193678-rooms-the-toymakers-mansion.json) |
 | Rooms: The Unsolvable Puzzle | 19018 | [19018-rooms-the-unsolvable-puzzle.json](./19018-rooms-the-unsolvable-puzzle.json) |
 | Roomscale Tower | 31984 | [31984-roomscale-tower.json](./31984-roomscale-tower.json) |
 | Roopocket | 122171 | [122171-roopocket.json](./122171-roopocket.json) |
@@ -7355,6 +7358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Escape | 71203 | [71203-royal-escape.json](./71203-royal-escape.json) |
 | Royal Farm | 254750 | [254750-royal-farm.json](./254750-royal-farm.json) |
 | Royal Flux: The Astral Shadow Plague | 413138 | [413138-royal-flux-the-astral-shadow-plague.json](./413138-royal-flux-the-astral-shadow-plague.json) |
+| Royal Frontier | 193668 | [193668-royal-frontier.json](./193668-royal-frontier.json) |
 | Royal Garden Tales | 95878 | [95878-royal-garden-tales.json](./95878-royal-garden-tales.json) |
 | Royal Gems | 116332 | [116332-royal-gems.json](./116332-royal-gems.json) |
 | Royal Jest | 353798 | [353798-royal-jest.json](./353798-royal-jest.json) |
