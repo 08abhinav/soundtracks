@@ -4219,6 +4219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessium: 3D Chess Battle | 271646 | [271646-chessium-3d-chess-battle.json](./271646-chessium-3d-chess-battle.json) |
 | Chesskoban Bishop | 189106 | [189106-chesskoban-bishop.json](./189106-chesskoban-bishop.json) |
 | Chesskoban Cyber | 195144 | [195144-chesskoban-cyber.json](./195144-chesskoban-cyber.json) |
+| Chesslands | 211996 | [211996-chesslands.json](./211996-chesslands.json) |
 | Chesslike | 284818 | [284818-chesslike.json](./284818-chesslike.json) |
 | ChessLocke | 144118 | [144118-chesslocke.json](./144118-chesslocke.json) |
 | Chessmaster | 23562 | [23562-chessmaster.json](./23562-chessmaster.json) |
@@ -4872,6 +4873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choplifter! | 343891 | [343891-choplifter.json](./343891-choplifter.json) |
 | Choplifter! | 343897 | [343897-choplifter.json](./343897-choplifter.json) |
 | Choplifter! | 6094 | [6094-choplifter.json](./6094-choplifter.json) |
+| Chopmania | 211990 | [211990-chopmania.json](./211990-chopmania.json) |
 | Choppa: Rescue Rivals | 127077 | [127077-choppa-rescue-rivals.json](./127077-choppa-rescue-rivals.json) |
 | Chopped Up | 388368 | [388368-chopped-up.json](./388368-chopped-up.json) |
 | Chopper Attack | 3428 | [3428-chopper-attack.json](./3428-chopper-attack.json) |
@@ -5626,6 +5628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities of the World Jigsaw Puzzles - Sydney | 248709 | [248709-cities-of-the-world-jigsaw-puzzles-sydney.json](./248709-cities-of-the-world-jigsaw-puzzles-sydney.json) |
 | Cities of the World Jigsaw Puzzles: Sao Paulo | 249298 | [249298-cities-of-the-world-jigsaw-puzzles-sao-paulo.json](./249298-cities-of-the-world-jigsaw-puzzles-sao-paulo.json) |
 | Cities of the World Jigsaw Puzzles: Venice | 249297 | [249297-cities-of-the-world-jigsaw-puzzles-venice.json](./249297-cities-of-the-world-jigsaw-puzzles-venice.json) |
+| Cities Restored | 211995 | [211995-cities-restored.json](./211995-cities-restored.json) |
 | Cities Skylines Mobile Edition | 237630 | [237630-cities-skylines-mobile-edition.json](./237630-cities-skylines-mobile-edition.json) |
 | Cities XL | 4212 | [4212-cities-xl.json](./4212-cities-xl.json) |
 | Cities XL 2012 | 4213 | [4213-cities-xl-2012.json](./4213-cities-xl-2012.json) |
@@ -7639,6 +7642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Advent 3 Pack | 225002 | [225002-coloring-pixels-advent-3-pack.json](./225002-coloring-pixels-advent-3-pack.json) |
 | Coloring Pixels: Advent 4 Pack | 227467 | [227467-coloring-pixels-advent-4-pack.json](./227467-coloring-pixels-advent-4-pack.json) |
 | Coloring Pixels: Advent 6 Pack | 351619 | [351619-coloring-pixels-advent-6-pack.json](./351619-coloring-pixels-advent-6-pack.json) |
+| Coloring Pixels: Bakery Pack | 211896 | [211896-coloring-pixels-bakery-pack.json](./211896-coloring-pixels-bakery-pack.json) |
 | Coloring Pixels: Candy Pack | 351621 | [351621-coloring-pixels-candy-pack.json](./351621-coloring-pixels-candy-pack.json) |
 | Coloring Pixels: Celebration XL Pack | 351626 | [351626-coloring-pixels-celebration-xl-pack.json](./351626-coloring-pixels-celebration-xl-pack.json) |
 | Coloring Pixels: Celtic Pack | 294176 | [294176-coloring-pixels-celtic-pack.json](./294176-coloring-pixels-celtic-pack.json) |
@@ -9659,6 +9663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countrified | 126423 | [126423-countrified.json](./126423-countrified.json) |
 | Country Architect | 376445 | [376445-country-architect.json](./376445-country-architect.json) |
 | Country Bumpkin Yutaka | 244159 | [244159-country-bumpkin-yutaka.json](./244159-country-bumpkin-yutaka.json) |
+| Country Champs | 211903 | [211903-country-champs.json](./211903-country-champs.json) |
 | Country Clubbing | 126968 | [126968-country-clubbing.json](./126968-country-clubbing.json) |
 | Country Dance All Stars | 20214 | [20214-country-dance-all-stars.json](./20214-country-dance-all-stars.json) |
 | Country Dance: 30 Chart-topping Hits!!! | 268115 | [268115-country-dance-30-chart-topping-hits.json](./268115-country-dance-30-chart-topping-hits.json) |
@@ -12750,6 +12755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Love Story | 345987 | [345987-cyber-love-story.json](./345987-cyber-love-story.json) |
 | Cyber Lust | 241988 | [241988-cyber-lust.json](./241988-cyber-lust.json) |
 | Cyber Manhunt 2: New World | 276679 | [276679-cyber-manhunt-2-new-world.json](./276679-cyber-manhunt-2-new-world.json) |
+| Cyber Manhunt: A Company Man of Titan | 211901 | [211901-cyber-manhunt-a-company-man-of-titan.json](./211901-cyber-manhunt-a-company-man-of-titan.json) |
 | Cyber Manhunt: Hello World | 188493 | [188493-cyber-manhunt-hello-world.json](./188493-cyber-manhunt-hello-world.json) |
 | Cyber Mission | 241294 | [241294-cyber-mission.json](./241294-cyber-mission.json) |
 | Cyber Neon Bundle | 246880 | [246880-cyber-neon-bundle.json](./246880-cyber-neon-bundle.json) |
