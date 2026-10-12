@@ -3265,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maskim Xul | 256870 | [256870-maskim-xul.json](./256870-maskim-xul.json) |
 | Maskless | 135267 | [135267-maskless.json](./135267-maskless.json) |
 | Masks | 135617 | [135617-masks.json](./135617-masks.json) |
+| Masks for Sale | 180526 | [180526-masks-for-sale.json](./180526-masks-for-sale.json) |
 | Masks of Deception | 200705 | [200705-masks-of-deception.json](./200705-masks-of-deception.json) |
 | Masky | 30557 | [30557-masky.json](./30557-masky.json) |
 | Masochisia | 13189 | [13189-masochisia.json](./13189-masochisia.json) |
@@ -4137,6 +4138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Quest 1: The Forest | 107739 | [107739-maze-quest-1-the-forest.json](./107739-maze-quest-1-the-forest.json) |
 | Maze Quest 2: The Desert | 119587 | [119587-maze-quest-2-the-desert.json](./119587-maze-quest-2-the-desert.json) |
 | Maze Quest Master | 270186 | [270186-maze-quest-master.json](./270186-maze-quest-master.json) |
+| Maze Racers | 180503 | [180503-maze-racers.json](./180503-maze-racers.json) |
 | Maze Racing | 239116 | [239116-maze-racing.json](./239116-maze-racing.json) |
 | Maze Roller | 32203 | [32203-maze-roller.json](./32203-maze-roller.json) |
 | Maze Runner | 72108 | [72108-maze-runner.json](./72108-maze-runner.json) |
@@ -8851,6 +8853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Plane: Survival | 186854 | [186854-missing-plane-survival.json](./186854-missing-plane-survival.json) |
 | Missing Road | 82349 | [82349-missing-road.json](./82349-missing-road.json) |
 | Missing Stars | 266993 | [266993-missing-stars.json](./266993-missing-stars.json) |
+| Missing Stars: Act One | 180521 | [180521-missing-stars-act-one.json](./180521-missing-stars-act-one.json) |
 | Missing Texture | 396242 | [396242-missing-texture.json](./396242-missing-texture.json) |
 | Missing The Point | 397154 | [397154-missing-the-point.json](./397154-missing-the-point.json) |
 | Missing Translation | 19173 | [19173-missing-translation.json](./19173-missing-translation.json) |
@@ -10475,6 +10478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsterthon | 39005 | [39005-monsterthon.json](./39005-monsterthon.json) |
 | Monsterwolf | 156009 | [156009-monsterwolf.json](./156009-monsterwolf.json) |
 | Monsti: Special Edition | 53378 | [53378-monsti-special-edition.json](./53378-monsti-special-edition.json) |
+| Monstinder | 180545 | [180545-monstinder.json](./180545-monstinder.json) |
 | Monstir Iradicator | 221121 | [221121-monstir-iradicator.json](./221121-monstir-iradicator.json) |
 | Monstopia: Chronicle of Jade's | 201076 | [201076-monstopia-chronicle-of-jades.json](./201076-monstopia-chronicle-of-jades.json) |
 | Monstre de Coiffure | 207822 | [207822-monstre-de-coiffure.json](./207822-monstre-de-coiffure.json) |
@@ -13851,6 +13855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious Forum and 7 Rumors | 115484 | [115484-mysterious-forum-and-7-rumors.json](./115484-mysterious-forum-and-7-rumors.json) |
 | Mysterious House | 190916 | [190916-mysterious-house.json](./190916-mysterious-house.json) |
 | Mysterious insects | 82468 | [82468-mysterious-insects.json](./82468-mysterious-insects.json) |
+| Mysterious Island Remastered | 180548 | [180548-mysterious-island-remastered.json](./180548-mysterious-island-remastered.json) |
 | Mysterious Island Remastered | 53393 | [53393-mysterious-island-remastered.json](./53393-mysterious-island-remastered.json) |
 | Mysterious Island: A Hidden Object Adventure | 195758 | [195758-mysterious-island-a-hidden-object-adventure.json](./195758-mysterious-island-a-hidden-object-adventure.json) |
 | Mysterious Island: A Race Against Time and Hot Lava | 200136 | [200136-mysterious-island-a-race-against-time-and-hot-lava.json](./200136-mysterious-island-a-race-against-time-and-hot-lava.json) |
