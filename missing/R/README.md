@@ -3321,6 +3321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repeater | 374837 | [374837-repeater.json](./374837-repeater.json) |
 | RepeatyBots | 58498 | [58498-repeatybots.json](./58498-repeatybots.json) |
 | Repel Aliens 3D | 114938 | [114938-repel-aliens-3d.json](./114938-repel-aliens-3d.json) |
+| Repella Fella | 190397 | [190397-repella-fella.json](./190397-repella-fella.json) |
 | Repent | 270938 | [270938-repent.json](./270938-repent.json) |
 | Repentance | 202326 | [202326-repentance.json](./202326-repentance.json) |
 | Repentant | 106564 | [106564-repentant.json](./106564-repentant.json) |
@@ -8158,6 +8159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Dancing Men | 65597 | [65597-russian-dancing-men.json](./65597-russian-dancing-men.json) |
 | Russian Driver | 197376 | [197376-russian-driver.json](./197376-russian-driver.json) |
 | Russian Drunken Boxers | 158697 | [158697-russian-drunken-boxers.json](./158697-russian-drunken-boxers.json) |
+| Russian Drunken Boxers 2 | 190411 | [190411-russian-drunken-boxers-2.json](./190411-russian-drunken-boxers-2.json) |
 | Russian Fight Simulator | 263767 | [263767-russian-fight-simulator.json](./263767-russian-fight-simulator.json) |
 | Russian Fishing | 345561 | [345561-russian-fishing.json](./345561-russian-fishing.json) |
 | Russian Fishing 4 | 56012 | [56012-russian-fishing-4.json](./56012-russian-fishing-4.json) |
