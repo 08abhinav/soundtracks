@@ -1370,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kickdom | 378213 | [378213-kickdom.json](./378213-kickdom.json) |
 | kicker VR | 102182 | [102182-kicker-vr.json](./102182-kicker-vr.json) |
 | Kickerinho World | 153829 | [153829-kickerinho-world.json](./153829-kickerinho-world.json) |
+| Kickflip Quake | 196518 | [196518-kickflip-quake.json](./196518-kickflip-quake.json) |
 | Kickflip the Horse | 180693 | [180693-kickflip-the-horse.json](./180693-kickflip-the-horse.json) |
 | Kickin Kong | 261532 | [261532-kickin-kong.json](./261532-kickin-kong.json) |
 | Kickin Momma | 92489 | [92489-kickin-momma.json](./92489-kickin-momma.json) |
@@ -2831,6 +2832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Guy: The Curse of the Seriously Evil, Evil Doers | 28816 | [28816-knight-guy-the-curse-of-the-seriously-evil-evil-doers.json](./28816-knight-guy-the-curse-of-the-seriously-evil-evil-doers.json) |
 | Knight Hero 2 Revenge idle RPG | 330519 | [330519-knight-hero-2-revenge-idle-rpg.json](./330519-knight-hero-2-revenge-idle-rpg.json) |
 | Knight Hero Adventure idle RPG | 248099 | [248099-knight-hero-adventure-idle-rpg.json](./248099-knight-hero-adventure-idle-rpg.json) |
+| Knight Hood | 196527 | [196527-knight-hood.json](./196527-knight-hood.json) |
 | Knight Hunter | 76908 | [76908-knight-hunter.json](./76908-knight-hunter.json) |
 | Knight in the Maze | 276235 | [276235-knight-in-the-maze.json](./276235-knight-in-the-maze.json) |
 | Knight in Time | 356114 | [356114-knight-in-time.json](./356114-knight-in-time.json) |
