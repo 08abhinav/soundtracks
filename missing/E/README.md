@@ -4061,6 +4061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EV3 - Drag Racing | 88251 | [88251-ev3-drag-racing.json](./88251-ev3-drag-racing.json) |
 | Eva | 185099 | [185099-eva.json](./185099-eva.json) |
 | Eva | 272354 | [272354-eva.json](./272354-eva.json) |
+| Eva 4: Sim Date RPG | 211380 | [211380-eva-4-sim-date-rpg.json](./211380-eva-4-sim-date-rpg.json) |
 | Eva Dawn | 150111 | [150111-eva-dawn.json](./150111-eva-dawn.json) |
 | Eva Reynes | 116841 | [116841-eva-reynes.json](./116841-eva-reynes.json) |
 | Eva Reynes: Redemption | 185407 | [185407-eva-reynes-redemption.json](./185407-eva-reynes-redemption.json) |
