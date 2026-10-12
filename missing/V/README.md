@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valley | 377295 | [377295-valley.json](./377295-valley.json) |
 | Valley Dash | 194649 | [194649-valley-dash.json](./194649-valley-dash.json) |
 | Valley of Decay | 119677 | [119677-valley-of-decay.json](./119677-valley-of-decay.json) |
+| Valley of Dragons | 190430 | [190430-valley-of-dragons.json](./190430-valley-of-dragons.json) |
 | Valley of No Roads | 152163 | [152163-valley-of-no-roads.json](./152163-valley-of-no-roads.json) |
 | Valley of Shadow | 164970 | [164970-valley-of-shadow.json](./164970-valley-of-shadow.json) |
 | Valley of Stars | 242425 | [242425-valley-of-stars.json](./242425-valley-of-stars.json) |
@@ -395,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Cat | 342097 | [342097-vampire-cat.json](./342097-vampire-cat.json) |
 | Vampire Circus | 297481 | [297481-vampire-circus.json](./297481-vampire-circus.json) |
 | Vampire Clans | 216493 | [216493-vampire-clans.json](./216493-vampire-clans.json) |
+| Vampire Combat | 190428 | [190428-vampire-combat.json](./190428-vampire-combat.json) |
 | Vampire Crawlers: The Turbo Wildcard from Vampire Survivors | 378229 | [378229-vampire-crawlers-the-turbo-wildcard-from-vampire-survivors.json](./378229-vampire-crawlers-the-turbo-wildcard-from-vampire-survivors.json) |
 | Vampire Crystals | 64093 | [64093-vampire-crystals.json](./64093-vampire-crystals.json) |
 | Vampire Crystals: Rebirth | 85471 | [85471-vampire-crystals-rebirth.json](./85471-vampire-crystals-rebirth.json) |
