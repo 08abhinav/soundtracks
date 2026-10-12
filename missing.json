@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T19:49:54.599Z",
-  "total_missing": 203153,
+  "generated_at": "2026-10-12T20:06:38.378Z",
+  "total_missing": 203151,
   "games": [
     {
       "igdb_id": 191680,
@@ -46901,11 +46901,6 @@
       "igdb_id": 141880,
       "game_name": "Apotheker",
       "file": "missing/A/141880-apotheker.json"
-    },
-    {
-      "igdb_id": 9016,
-      "game_name": "Apotheon",
-      "file": "missing/A/9016-apotheon.json"
     },
     {
       "igdb_id": 34065,
@@ -234291,11 +234286,6 @@
       "igdb_id": 224522,
       "game_name": "Doom 64",
       "file": "missing/D/224522-doom-64.json"
-    },
-    {
-      "igdb_id": 3471,
-      "game_name": "Doom 64",
-      "file": "missing/D/3471-doom-64.json"
     },
     {
       "igdb_id": 201106,
