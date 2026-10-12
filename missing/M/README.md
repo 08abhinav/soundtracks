@@ -1903,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manda no Yume | 201780 | [201780-manda-no-yume.json](./201780-manda-no-yume.json) |
 | Manda: Mario and Ana | 311151 | [311151-manda-mario-and-ana.json](./311151-manda-mario-and-ana.json) |
 | Mandacaru | 159711 | [159711-mandacaru.json](./159711-mandacaru.json) |
+| Mandala | 188887 | [188887-mandala.json](./188887-mandala.json) |
 | Mandate Order | 374619 | [374619-mandate-order.json](./374619-mandate-order.json) |
 | Mandela Effect Brain Test | 306694 | [306694-mandela-effect-brain-test.json](./306694-mandela-effect-brain-test.json) |
 | Mandela Invasion | 282820 | [282820-mandela-invasion.json](./282820-mandela-invasion.json) |
@@ -2810,6 +2811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marooned 2: Secrets of the Akoni | 209557 | [209557-marooned-2-secrets-of-the-akoni.json](./209557-marooned-2-secrets-of-the-akoni.json) |
 | Marooned: Arcanus Island | 7445 | [7445-marooned-arcanus-island.json](./7445-marooned-arcanus-island.json) |
 | Marquee Candle | 350021 | [350021-marquee-candle.json](./350021-marquee-candle.json) |
+| Marrakech | 188890 | [188890-marrakech.json](./188890-marrakech.json) |
 | Marriage or Pervert: The Small Penis Warrior & The Perverted Magician | 82909 | [82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json](./82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json) |
 | Marriage Royale: Prism Story | 269499 | [269499-marriage-royale-prism-story.json](./269499-marriage-royale-prism-story.json) |
 | Marriage to the Demon Wife! | 202197 | [202197-marriage-to-the-demon-wife.json](./202197-marriage-to-the-demon-wife.json) |
@@ -4272,6 +4274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meanwhile in Russia | 369919 | [369919-meanwhile-in-russia.json](./369919-meanwhile-in-russia.json) |
 | Meanwhile in Sector 80 | 278945 | [278945-meanwhile-in-sector-80.json](./278945-meanwhile-in-sector-80.json) |
 | Mearcair/System Pulse | 252908 | [252908-mearcair-system-pulse.json](./252908-mearcair-system-pulse.json) |
+| Mearstale our little item shop | 188963 | [188963-mearstale-our-little-item-shop.json](./188963-mearstale-our-little-item-shop.json) |
 | Mearth | 197875 | [197875-mearth.json](./197875-mearth.json) |
 | Mearth II | 226722 | [226722-mearth-ii.json](./226722-mearth-ii.json) |
 | Measurement Problem | 166740 | [166740-measurement-problem.json](./166740-measurement-problem.json) |
@@ -6575,6 +6578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metronium | 120820 | [120820-metronium.json](./120820-metronium.json) |
 | Metronome | 79577 | [79577-metronome.json](./79577-metronome.json) |
 | Metronome HD | 66601 | [66601-metronome-hd.json](./66601-metronome-hd.json) |
+| Metroplex Zero | 188885 | [188885-metroplex-zero.json](./188885-metroplex-zero.json) |
 | Metropocre | 169975 | [169975-metropocre.json](./169975-metropocre.json) |
 | Metropolis | 209520 | [209520-metropolis.json](./209520-metropolis.json) |
 | Metropolis | 44079 | [44079-metropolis.json](./44079-metropolis.json) |
@@ -8084,6 +8088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Infinite | 291454 | [291454-minesweeper-infinite.json](./291454-minesweeper-infinite.json) |
 | Minesweeper Materialized | 37058 | [37058-minesweeper-materialized.json](./37058-minesweeper-materialized.json) |
 | Minesweeper Mobile | 372812 | [372812-minesweeper-mobile.json](./372812-minesweeper-mobile.json) |
+| Minesweeper NG | 188969 | [188969-minesweeper-ng.json](./188969-minesweeper-ng.json) |
 | Minesweeper Online | 271398 | [271398-minesweeper-online.json](./271398-minesweeper-online.json) |
 | Minesweeper Peak VR | 286784 | [286784-minesweeper-peak-vr.json](./286784-minesweeper-peak-vr.json) |
 | Minesweeper Plus | 377754 | [377754-minesweeper-plus.json](./377754-minesweeper-plus.json) |
