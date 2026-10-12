@@ -6147,6 +6147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fleets of Sol | 34949 | [34949-the-fleets-of-sol.json](./34949-the-fleets-of-sol.json) |
 | The Flick of the Dead | 125152 | [125152-the-flick-of-the-dead.json](./125152-the-flick-of-the-dead.json) |
 | The Flight of Dowran | 75038 | [75038-the-flight-of-dowran.json](./75038-the-flight-of-dowran.json) |
+| The Flintstones | 205923 | [205923-the-flintstones.json](./205923-the-flintstones.json) |
 | The Flintstones | 47227 | [47227-the-flintstones.json](./47227-the-flintstones.json) |
 | The Flintstones | 51942 | [51942-the-flintstones.json](./51942-the-flintstones.json) |
 | The Flintstones in Viva Rock Vegas | 316930 | [316930-the-flintstones-in-viva-rock-vegas.json](./316930-the-flintstones-in-viva-rock-vegas.json) |
