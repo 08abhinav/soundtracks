@@ -491,7 +491,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Strike Team | 41513 | [41513-call-of-duty-strike-team.json](./41513-call-of-duty-strike-team.json) |
 | Call of Duty: The War Collection | 292856 | [292856-call-of-duty-the-war-collection.json](./292856-call-of-duty-the-war-collection.json) |
 | Call of Duty: Trilogy | 120543 | [120543-call-of-duty-trilogy.json](./120543-call-of-duty-trilogy.json) |
-| Call of Duty: Vanguard | 165067 | [165067-call-of-duty-vanguard.json](./165067-call-of-duty-vanguard.json) |
 | Call of Duty: Vanguard - Season Four | 205058 | [205058-call-of-duty-vanguard-season-four.json](./205058-call-of-duty-vanguard-season-four.json) |
 | Call of Duty: Vanguard - Season One | 202688 | [202688-call-of-duty-vanguard-season-one.json](./202688-call-of-duty-vanguard-season-one.json) |
 | Call of Duty: Vanguard - Season Three | 202690 | [202690-call-of-duty-vanguard-season-three.json](./202690-call-of-duty-vanguard-season-three.json) |
