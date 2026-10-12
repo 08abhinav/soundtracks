@@ -1838,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VirtualCast | 180212 | [180212-virtualcast.json](./180212-virtualcast.json) |
 | Virtuále: Heist Simulations | 338567 | [338567-virtuale-heist-simulations.json](./338567-virtuale-heist-simulations.json) |
 | Virtualis Galeria | 383505 | [383505-virtualis-galeria.json](./383505-virtualis-galeria.json) |
+| Virtuality | 182776 | [182776-virtuality.json](./182776-virtuality.json) |
 | Virtually Board Snowboarding 2 | 202947 | [202947-virtually-board-snowboarding-2.json](./202947-virtually-board-snowboarding-2.json) |
 | Virtually Real Life | 128316 | [128316-virtually-real-life.json](./128316-virtually-real-life.json) |
 | VirtualSociety | 413192 | [413192-virtualsociety.json](./413192-virtualsociety.json) |
@@ -2549,6 +2550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Prison Showdown：rookie Guard Rumble | 364063 | [364063-vr-prison-showdown-rookie-guard-rumble.json](./364063-vr-prison-showdown-rookie-guard-rumble.json) |
 | VR Racing on Dinosaur Island | 236175 | [236175-vr-racing-on-dinosaur-island.json](./236175-vr-racing-on-dinosaur-island.json) |
 | VR Racket Ball | 68770 | [68770-vr-racket-ball.json](./68770-vr-racket-ball.json) |
+| VR Relaxation Space Room | 182782 | [182782-vr-relaxation-space-room.json](./182782-vr-relaxation-space-room.json) |
 | VR Rescue of Girls | 160253 | [160253-vr-rescue-of-girls.json](./160253-vr-rescue-of-girls.json) |
 | VR Retreat | 31085 | [31085-vr-retreat.json](./31085-vr-retreat.json) |
 | VR Retro Snake on Girls | 163292 | [163292-vr-retro-snake-on-girls.json](./163292-vr-retro-snake-on-girls.json) |
