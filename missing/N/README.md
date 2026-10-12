@@ -258,6 +258,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nankin | 95374 | [95374-nankin.json](./95374-nankin.json) |
 | Nankin no Adventure | 41401 | [41401-nankin-no-adventure.json](./41401-nankin-no-adventure.json) |
 | Nankoku Shirei!! Spy vs. Spy | 48812 | [48812-nankoku-shirei-spy-vs-spy.json](./48812-nankoku-shirei-spy-vs-spy.json) |
+| Nankou Furaku Sangokuden: Shoku to Toki no Dou Jaku | 222464 | [222464-nankou-furaku-sangokuden-shoku-to-toki-no-dou-jaku.json](./222464-nankou-furaku-sangokuden-shoku-to-toki-no-dou-jaku.json) |
+| Nankou Furaku Sangokuden: Wu to Taiga no Eisha | 222440 | [222440-nankou-furaku-sangokuden-wu-to-taiga-no-eisha.json](./222440-nankou-furaku-sangokuden-wu-to-taiga-no-eisha.json) |
 | Nanny - Best Babysitter Game | 105855 | [105855-nanny-best-babysitter-game.json](./105855-nanny-best-babysitter-game.json) |
 | Nanny 911 | 206783 | [206783-nanny-911.json](./206783-nanny-911.json) |
 | Nanny Mania 2 | 202184 | [202184-nanny-mania-2.json](./202184-nanny-mania-2.json) |
@@ -531,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nash Racing 2: Muscle cars | 68598 | [68598-nash-racing-2-muscle-cars.json](./68598-nash-racing-2-muscle-cars.json) |
 | Nash Racing: Battle | 294069 | [294069-nash-racing-battle.json](./294069-nash-racing-battle.json) |
 | NashBored | 113449 | [113449-nashbored.json](./113449-nashbored.json) |
+| Nashi-jiru Busha! Funasshi vs. Dragons | 222481 | [222481-nashi-jiru-busha-funasshi-vs-dragons.json](./222481-nashi-jiru-busha-funasshi-vs-dragons.json) |
 | Nashijiru Action! Funassyi no Yukai na Ohanassyi | 222508 | [222508-nashijiru-action-funassyi-no-yukai-na-ohanassyi.json](./222508-nashijiru-action-funassyi-no-yukai-na-ohanassyi.json) |
 | NASL Soccer | 5688 | [5688-nasl-soccer.json](./5688-nasl-soccer.json) |
 | Nasteroids: Space Shuttle vs. Asteroids | 91148 | [91148-nasteroids-space-shuttle-vs-asteroids.json](./91148-nasteroids-space-shuttle-vs-asteroids.json) |
@@ -2604,6 +2607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nico Yazawa is Dreaming | 242094 | [242094-nico-yazawa-is-dreaming.json](./242094-nico-yazawa-is-dreaming.json) |
 | Nico-chan no Kaeri ni Cheeseburger mgmg | 405504 | [405504-nico-chan-no-kaeri-ni-cheeseburger-mgmg.json](./405504-nico-chan-no-kaeri-ni-cheeseburger-mgmg.json) |
 | Nicodemus: Demon of Evanishment | 246637 | [246637-nicodemus-demon-of-evanishment.json](./246637-nicodemus-demon-of-evanishment.json) |
+| Nicola Kanshuu: Model Oshare Audition Platina | 222456 | [222456-nicola-kanshuu-model-oshare-audition-platina.json](./222456-nicola-kanshuu-model-oshare-audition-platina.json) |
 | Nicolas Eymerich The Inquisitor Book II: The Village | 36332 | [36332-nicolas-eymerich-the-inquisitor-book-ii-the-village.json](./36332-nicolas-eymerich-the-inquisitor-book-ii-the-village.json) |
 | Nicolas Eymerich the Inquisitor: Book 1 - The Plague | 36410 | [36410-nicolas-eymerich-the-inquisitor-book-1-the-plague.json](./36410-nicolas-eymerich-the-inquisitor-book-1-the-plague.json) |
 | Nicolás the Sea Urchin | 265930 | [265930-nicolas-the-sea-urchin.json](./265930-nicolas-the-sea-urchin.json) |
@@ -3119,6 +3123,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikoli no Puzzle V: Hitori ni Shitekure | 64935 | [64935-nikoli-no-puzzle-v-hitori-ni-shitekure.json](./64935-nikoli-no-puzzle-v-hitori-ni-shitekure.json) |
 | Nikoli no Puzzle V: Kakuro | 83880 | [83880-nikoli-no-puzzle-v-kakuro.json](./83880-nikoli-no-puzzle-v-kakuro.json) |
 | Nikoli no Puzzle V: Masyu | 64933 | [64933-nikoli-no-puzzle-v-masyu.json](./64933-nikoli-no-puzzle-v-masyu.json) |
+| Nikoli no Sudoku 3D Dai-ni-Shuu: 8-tsu no Puzzle de 1000-Mon | 222475 | [222475-nikoli-no-sudoku-3d-dai-ni-shuu-8-tsu-no-puzzle-de-1000-mon.json](./222475-nikoli-no-sudoku-3d-dai-ni-shuu-8-tsu-no-puzzle-de-1000-mon.json) |
+| Nikoli no Sudoku 3D: 8-tsu no Puzzle de 1000-mon | 222458 | [222458-nikoli-no-sudoku-3d-8-tsu-no-puzzle-de-1000-mon.json](./222458-nikoli-no-sudoku-3d-8-tsu-no-puzzle-de-1000-mon.json) |
 | Nikoli no Sudoku Lite Dai-San-Shuu | 269519 | [269519-nikoli-no-sudoku-lite-dai-san-shuu.json](./269519-nikoli-no-sudoku-lite-dai-san-shuu.json) |
 | Nikoli Sudoku | 97443 | [97443-nikoli-sudoku.json](./97443-nikoli-sudoku.json) |
 | Nil Admirari no Tenbin: Irodori Nadeshiko | 136831 | [136831-nil-admirari-no-tenbin-irodori-nadeshiko.json](./136831-nil-admirari-no-tenbin-irodori-nadeshiko.json) |
@@ -4969,6 +4975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyannyan Prowrestling | 267996 | [267996-nyannyan-prowrestling.json](./267996-nyannyan-prowrestling.json) |
 | Nyanpaya | 252219 | [252219-nyanpaya.json](./252219-nyanpaya.json) |
 | Nyanroo the Supercat | 139370 | [139370-nyanroo-the-supercat.json](./139370-nyanroo-the-supercat.json) |
+| Nyanyanto Mori | 222477 | [222477-nyanyanto-mori.json](./222477-nyanyanto-mori.json) |
 | Nyanzou & Kumakichi: Let's make a flower garden | 271841 | [271841-nyanzou-and-kumakichi-lets-make-a-flower-garden.json](./271841-nyanzou-and-kumakichi-lets-make-a-flower-garden.json) |
 | Nyasha Land of Elves | 116945 | [116945-nyasha-land-of-elves.json](./116945-nyasha-land-of-elves.json) |
 | Nyassembled! | 332979 | [332979-nyassembled.json](./332979-nyassembled.json) |
