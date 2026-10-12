@@ -1476,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ray | 298639 | [298639-ray.json](./298639-ray.json) |
 | Ray - Part 1 | 229594 | [229594-ray-part-1.json](./229594-ray-part-1.json) |
 | Ray - Part 2 | 229596 | [229596-ray-part-2.json](./229596-ray-part-2.json) |
+| Ray & Stoic Gronk | 211985 | [211985-ray-and-stoic-gronk.json](./211985-ray-and-stoic-gronk.json) |
 | Ray And Cooper | 310584 | [310584-ray-and-cooper.json](./310584-ray-and-cooper.json) |
 | Ray Attack | 148470 | [148470-ray-attack.json](./148470-ray-attack.json) |
 | Ray Blade | 98027 | [98027-ray-blade.json](./98027-ray-blade.json) |
@@ -7615,6 +7616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruinsmagus: The Warrior and the Tailor | 265762 | [265762-ruinsmagus-the-warrior-and-the-tailor.json](./265762-ruinsmagus-the-warrior-and-the-tailor.json) |
 | Ruka | 176899 | [176899-ruka.json](./176899-ruka.json) |
 | Ruki no Zetsubo | 151798 | [151798-ruki-no-zetsubo.json](./151798-ruki-no-zetsubo.json) |
+| Rukimin's Disappointing Adventure!: Shobomi and the Phantom Ruins | 211892 | [211892-rukimins-disappointing-adventure-shobomi-and-the-phantom-ruins.json](./211892-rukimins-disappointing-adventure-shobomi-and-the-phantom-ruins.json) |
 | Ruku's Heart Balloon | 222400 | [222400-rukus-heart-balloon.json](./222400-rukus-heart-balloon.json) |
 | Rule & Expand | 316370 | [316370-rule-and-expand.json](./316370-rule-and-expand.json) |
 | Rule No. 2 | 199562 | [199562-rule-no-2.json](./199562-rule-no-2.json) |
