@@ -7548,6 +7548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Min Dyreskole | 288111 | [288111-min-dyreskole.json](./288111-min-dyreskole.json) |
 | Mina | 373622 | [373622-mina.json](./373622-mina.json) |
 | Mina & Michi | 152408 | [152408-mina-and-michi.json](./152408-mina-and-michi.json) |
+| Mina Mangkukulam | 223061 | [223061-mina-mangkukulam.json](./223061-mina-mangkukulam.json) |
 | Mina of the Pirates | 87802 | [87802-mina-of-the-pirates.json](./87802-mina-of-the-pirates.json) |
 | Mina the Hollower | 189781 | [189781-mina-the-hollower.json](./189781-mina-the-hollower.json) |
 | Mina the Hollower GBC Demake | 305750 | [305750-mina-the-hollower-gbc-demake.json](./305750-mina-the-hollower-gbc-demake.json) |
@@ -7655,6 +7656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MindGym | 172145 | [172145-mindgym.json](./172145-mindgym.json) |
 | Mindhack | 151735 | [151735-mindhack.json](./151735-mindhack.json) |
 | Mindhive: Wilds | 341164 | [341164-mindhive-wilds.json](./341164-mindhive-wilds.json) |
+| MindHunt | 223101 | [223101-mindhunt.json](./223101-mindhunt.json) |
 | Mindless | 153001 | [153001-mindless.json](./153001-mindless.json) |
 | MindLess | 128457 | [128457-mindless.json](./128457-mindless.json) |
 | Mindless Running | 33533 | [33533-mindless-running.json](./33533-mindless-running.json) |
@@ -9384,6 +9386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mojo Party | 398528 | [398528-mojo-party.json](./398528-mojo-party.json) |
 | Mojo XXX | 292684 | [292684-mojo-xxx.json](./292684-mojo-xxx.json) |
 | MOK: Super Space Taxi | 119706 | [119706-mok-super-space-taxi.json](./119706-mok-super-space-taxi.json) |
+| Mokens League | 222788 | [222788-mokens-league.json](./222788-mokens-league.json) |
 | Mokete | 266472 | [266472-mokete.json](./266472-mokete.json) |
 | Moki: The Escape | 238725 | [238725-moki-the-escape.json](./238725-moki-the-escape.json) |
 | MokMok | 54492 | [54492-mokmok.json](./54492-mokmok.json) |
@@ -13995,6 +13998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythterra | 411538 | [411538-mythterra.json](./411538-mythterra.json) |
 | Mythvale | 419967 | [419967-mythvale.json](./419967-mythvale.json) |
 | MythWalker | 322747 | [322747-mythwalker.json](./322747-mythwalker.json) |
+| Mythwrecked: Ambrosia Island | 223097 | [223097-mythwrecked-ambrosia-island.json](./223097-mythwrecked-ambrosia-island.json) |
 | myTicTacToe | 93823 | [93823-mytictactoe.json](./93823-mytictactoe.json) |
 | Mytosis | 383140 | [383140-mytosis.json](./383140-mytosis.json) |
 | MyTP 3: Snowboard, Freeski and Skateboard | 99993 | [99993-mytp-3-snowboard-freeski-and-skateboard.json](./99993-mytp-3-snowboard-freeski-and-skateboard.json) |
