@@ -2251,6 +2251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End of the Universe | 200105 | [200105-end-of-the-universe.json](./200105-end-of-the-universe.json) |
 | End of the World | 210099 | [210099-end-of-the-world.json](./210099-end-of-the-world.json) |
 | End of the World: NTR | 170499 | [170499-end-of-the-world-ntr.json](./170499-end-of-the-world-ntr.json) |
+| End of this World | 192620 | [192620-end-of-this-world.json](./192620-end-of-this-world.json) |
 | End of Twilight | 70973 | [70973-end-of-twilight.json](./70973-end-of-twilight.json) |
 | End of Verse 23,194,973,137 | 257538 | [257538-end-of-verse-23-194-973-137.json](./257538-end-of-verse-23-194-973-137.json) |
 | End of War 1945 | 127377 | [127377-end-of-war-1945.json](./127377-end-of-war-1945.json) |
@@ -2705,6 +2706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entrance 8 Iriguchi | 391864 | [391864-entrance-8-iriguchi.json](./391864-entrance-8-iriguchi.json) |
 | Entre Laços e Amassos | 215790 | [215790-entre-lacos-e-amassos.json](./215790-entre-lacos-e-amassos.json) |
 | Entrepreneurial tycoon | 236884 | [236884-entrepreneurial-tycoon.json](./236884-entrepreneurial-tycoon.json) |
+| Entropic Decay | 192622 | [192622-entropic-decay.json](./192622-entropic-decay.json) |
 | Entropic Fracture | 369035 | [369035-entropic-fracture.json](./369035-entropic-fracture.json) |
 | Entropic Shop VR | 82036 | [82036-entropic-shop-vr.json](./82036-entropic-shop-vr.json) |
 | Entropoly | 236738 | [236738-entropoly.json](./236738-entropoly.json) |
