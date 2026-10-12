@@ -1070,6 +1070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Race | 18562 | [18562-omega-race.json](./18562-omega-race.json) |
 | Omega Racers | 122185 | [122185-omega-racers.json](./122185-omega-racers.json) |
 | Omega Rally Championship | 132162 | [132162-omega-rally-championship.json](./132162-omega-rally-championship.json) |
+| Omega Royale | 224163 | [224163-omega-royale.json](./224163-omega-royale.json) |
 | Omega Run | 70366 | [70366-omega-run.json](./70366-omega-run.json) |
 | Omega Space | 304917 | [304917-omega-space.json](./304917-omega-space.json) |
 | Omega Strike | 39752 | [39752-omega-strike.json](./39752-omega-strike.json) |
