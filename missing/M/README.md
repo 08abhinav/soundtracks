@@ -5567,6 +5567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memento Infernum | 148685 | [148685-memento-infernum.json](./148685-memento-infernum.json) |
 | Memento Mori | 139373 | [139373-memento-mori.json](./139373-memento-mori.json) |
 | Memento Mori | 176839 | [176839-memento-mori.json](./176839-memento-mori.json) |
+| Memento Mori | 194910 | [194910-memento-mori.json](./194910-memento-mori.json) |
 | Memento Mori | 209527 | [209527-memento-mori.json](./209527-memento-mori.json) |
 | Memento Mori | 271182 | [271182-memento-mori.json](./271182-memento-mori.json) |
 | Memento Mori | 28231 | [28231-memento-mori.json](./28231-memento-mori.json) |
@@ -10559,6 +10560,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Knight | 280758 | [280758-moon-knight.json](./280758-moon-knight.json) |
 | Moon Lab Shooter | 235773 | [235773-moon-lab-shooter.json](./235773-moon-lab-shooter.json) |
 | Moon Lander | 41989 | [41989-moon-lander.json](./41989-moon-lander.json) |
+| Moon Lights | 194895 | [194895-moon-lights.json](./194895-moon-lights.json) |
+| Moon Lights II | 194896 | [194896-moon-lights-ii.json](./194896-moon-lights-ii.json) |
 | Moon Maiden: Terror on Planet X | 346256 | [346256-moon-maiden-terror-on-planet-x.json](./346256-moon-maiden-terror-on-planet-x.json) |
 | Moon Miner | 410337 | [410337-moon-miner.json](./410337-moon-miner.json) |
 | Moon Minions | 243940 | [243940-moon-minions.json](./243940-moon-minions.json) |
