@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Dash | 332559 | [332559-danger-dash.json](./332559-danger-dash.json) |
 | Danger Drone | 278550 | [278550-danger-drone.json](./278550-danger-drone.json) |
 | Danger Drop | 254377 | [254377-danger-drop.json](./254377-danger-drop.json) |
+| Danger Ducklings | 219749 | [219749-danger-ducklings.json](./219749-danger-ducklings.json) |
 | Danger Forever | 169866 | [169866-danger-forever.json](./169866-danger-forever.json) |
 | Danger Freak | 66777 | [66777-danger-freak.json](./66777-danger-freak.json) |
 | Danger Girl | 45226 | [45226-danger-girl.json](./45226-danger-girl.json) |
@@ -6273,6 +6274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disciples: Domination | 360140 | [360140-disciples-domination.json](./360140-disciples-domination.json) |
 | Disciples: Liberation - Deluxe Edition | 174188 | [174188-disciples-liberation-deluxe-edition.json](./174188-disciples-liberation-deluxe-edition.json) |
 | Disciples: Liberation - Digital Deluxe Edition | 161183 | [161183-disciples-liberation-digital-deluxe-edition.json](./161183-disciples-liberation-digital-deluxe-edition.json) |
+| Disciples: Liberation - GOG Edition | 219776 | [219776-disciples-liberation-gog-edition.json](./219776-disciples-liberation-gog-edition.json) |
 | Disciples: Sacred Lands Gold | 11405 | [11405-disciples-sacred-lands-gold.json](./11405-disciples-sacred-lands-gold.json) |
 | Discmaster | 147635 | [147635-discmaster.json](./147635-discmaster.json) |
 | Disco Bert and the Curse of the Evil Mummies | 55913 | [55913-disco-bert-and-the-curse-of-the-evil-mummies.json](./55913-disco-bert-and-the-curse-of-the-evil-mummies.json) |
@@ -6345,6 +6347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disease -Hidden Object- | 103372 | [103372-disease-hidden-object.json](./103372-disease-hidden-object.json) |
 | Disease Infected: Plague | 187976 | [187976-disease-infected-plague.json](./187976-disease-infected-plague.json) |
 | Disease Z | 245842 | [245842-disease-z.json](./245842-disease-z.json) |
+| Disembowel | 219750 | [219750-disembowel.json](./219750-disembowel.json) |
 | Disenchantment Heart | 161161 | [161161-disenchantment-heart.json](./161161-disenchantment-heart.json) |
 | disfact Game Pack 1 | 405533 | [405533-disfact-game-pack-1.json](./405533-disfact-game-pack-1.json) |
 | disfact Game Pack 2 | 405543 | [405543-disfact-game-pack-2.json](./405543-disfact-game-pack-2.json) |
@@ -7740,6 +7743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Fret | 289433 | [289433-dont-fret.json](./289433-dont-fret.json) |
 | Don't Get a Virus | 181874 | [181874-dont-get-a-virus.json](./181874-dont-get-a-virus.json) |
 | Don't Get Distracted | 204326 | [204326-dont-get-distracted.json](./204326-dont-get-distracted.json) |
+| Don't Get Eaten! | 219751 | [219751-dont-get-eaten.json](./219751-dont-get-eaten.json) |
 | Don't Get Fired! | 406825 | [406825-dont-get-fired.json](./406825-dont-get-fired.json) |
 | Don't Get Got | 329216 | [329216-dont-get-got.json](./329216-dont-get-got.json) |
 | Don't Get Hit in the Face | 28263 | [28263-dont-get-hit-in-the-face.json](./28263-dont-get-hit-in-the-face.json) |
@@ -8266,6 +8270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomriderz | 372451 | [372451-doomriderz.json](./372451-doomriderz.json) |
 | Dooms | 340999 | [340999-dooms.json](./340999-dooms.json) |
 | Dooms Knight | 87914 | [87914-dooms-knight.json](./87914-dooms-knight.json) |
+| Doomsday | 219754 | [219754-doomsday.json](./219754-doomsday.json) |
 | Doomsday | 368044 | [368044-doomsday.json](./368044-doomsday.json) |
 | DoomsDay | 192161 | [192161-doomsday.json](./192161-doomsday.json) |
 | Doomsday Blues | 13604 | [13604-doomsday-blues.json](./13604-doomsday-blues.json) |
@@ -8273,6 +8278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Cleaner | 320542 | [320542-doomsday-cleaner.json](./320542-doomsday-cleaner.json) |
 | Doomsday Clicker | 58406 | [58406-doomsday-clicker.json](./58406-doomsday-clicker.json) |
 | Doomsday Comet 2 | 175337 | [175337-doomsday-comet-2.json](./175337-doomsday-comet-2.json) |
+| Doomsday Contact | 219752 | [219752-doomsday-contact.json](./219752-doomsday-contact.json) |
 | Doomsday Dealer | 347769 | [347769-doomsday-dealer.json](./347769-doomsday-dealer.json) |
 | Doomsday Derby | 249192 | [249192-doomsday-derby.json](./249192-doomsday-derby.json) |
 | Doomsday Dispute | 192386 | [192386-doomsday-dispute.json](./192386-doomsday-dispute.json) |
@@ -8924,6 +8930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drachen Zor | 94011 | [94011-drachen-zor.json](./94011-drachen-zor.json) |
 | Draco | 130248 | [130248-draco.json](./130248-draco.json) |
 | Draco | 151163 | [151163-draco.json](./151163-draco.json) |
+| Draco | 219756 | [219756-draco.json](./219756-draco.json) |
 | Draco D | 281039 | [281039-draco-d.json](./281039-draco-d.json) |
 | Draco Dux | 33069 | [33069-draco-dux.json](./33069-draco-dux.json) |
 | Draco Space X | 151620 | [151620-draco-space-x.json](./151620-draco-space-x.json) |
@@ -9589,6 +9596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragoneila | 145301 | [145301-dragoneila.json](./145301-dragoneila.json) |
 | Dragonfall | 296937 | [296937-dragonfall.json](./296937-dragonfall.json) |
 | Dragonfang - Drahn's Mystery Dungeon | 129006 | [129006-dragonfang-drahns-mystery-dungeon.json](./129006-dragonfang-drahns-mystery-dungeon.json) |
+| Dragonfield | 219758 | [219758-dragonfield.json](./219758-dragonfield.json) |
 | Dragonfire | 5671 | [5671-dragonfire.json](./5671-dragonfire.json) |
 | DragonFishing | 70392 | [70392-dragonfishing.json](./70392-dragonfishing.json) |
 | Dragonfist | 92448 | [92448-dragonfist.json](./92448-dragonfist.json) |
@@ -10329,6 +10337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Out | 39674 | [39674-drift-out.json](./39674-drift-out.json) |
 | Drift Out '94 - The Hard Order | 39826 | [39826-drift-out-94-the-hard-order.json](./39826-drift-out-94-the-hard-order.json) |
 | Drift Phonk 666 | 153325 | [153325-drift-phonk-666.json](./153325-drift-phonk-666.json) |
+| Drift racing car | 219759 | [219759-drift-racing-car.json](./219759-drift-racing-car.json) |
 | Drift Racing Rally | 149471 | [149471-drift-racing-rally.json](./149471-drift-racing-rally.json) |
 | Drift Reign | 245834 | [245834-drift-reign.json](./245834-drift-reign.json) |
 | Drift Ride | 196557 | [196557-drift-ride.json](./196557-drift-ride.json) |
@@ -10518,6 +10527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DROD: The Second Sky | 8823 | [8823-drod-the-second-sky.json](./8823-drod-the-second-sky.json) |
 | Drogna | 13709 | [13709-drogna.json](./13709-drogna.json) |
 | Droian | 319220 | [319220-droian.json](./319220-droian.json) |
+| Droid Death VR | 219762 | [219762-droid-death-vr.json](./219762-droid-death-vr.json) |
 | Droid Dreams | 133442 | [133442-droid-dreams.json](./133442-droid-dreams.json) |
 | Droid Escape | 192930 | [192930-droid-escape.json](./192930-droid-escape.json) |
 | Droid Invasion | 245964 | [245964-droid-invasion.json](./245964-droid-invasion.json) |
@@ -11155,6 +11165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumbot | 330173 | [330173-dumbot.json](./330173-dumbot.json) |
 | Dumbriel: Magnificent Adventure in Hell | 260404 | [260404-dumbriel-magnificent-adventure-in-hell.json](./260404-dumbriel-magnificent-adventure-in-hell.json) |
 | Dummy Defense | 223627 | [223627-dummy-defense.json](./223627-dummy-defense.json) |
+| Dummy Dungeon | 219763 | [219763-dummy-dungeon.json](./219763-dummy-dungeon.json) |
 | Dummy Guyz | 303493 | [303493-dummy-guyz.json](./303493-dummy-guyz.json) |
 | Dummy Never Fails | 234902 | [234902-dummy-never-fails.json](./234902-dummy-never-fails.json) |
 | Dummy Never Fails 2 | 234903 | [234903-dummy-never-fails-2.json](./234903-dummy-never-fails-2.json) |
@@ -11435,6 +11446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Of Dragon Knight Remake | 412556 | [412556-dungeon-of-dragon-knight-remake.json](./412556-dungeon-of-dragon-knight-remake.json) |
 | Dungeon of Erotic Master Plus | 307265 | [307265-dungeon-of-erotic-master-plus.json](./307265-dungeon-of-erotic-master-plus.json) |
 | Dungeon of Erotic Master Reboot | 374614 | [374614-dungeon-of-erotic-master-reboot.json](./374614-dungeon-of-erotic-master-reboot.json) |
+| Dungeon of Final Glory | 219765 | [219765-dungeon-of-final-glory.json](./219765-dungeon-of-final-glory.json) |
 | Dungeon of Gods | 199915 | [199915-dungeon-of-gods.json](./199915-dungeon-of-gods.json) |
 | Dungeon of Grandmasters | 322802 | [322802-dungeon-of-grandmasters.json](./322802-dungeon-of-grandmasters.json) |
 | Dungeon of Horror | 262909 | [262909-dungeon-of-horror.json](./262909-dungeon-of-horror.json) |
