@@ -2720,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cathedral | 122001 | [122001-cathedral.json](./122001-cathedral.json) |
 | Cathedral | 301338 | [301338-cathedral.json](./301338-cathedral.json) |
 | Cathedral 3-D | 123364 | [123364-cathedral-3-d.json](./123364-cathedral-3-d.json) |
+| Cathedral of Sorrow | 218683 | [218683-cathedral-of-sorrow.json](./218683-cathedral-of-sorrow.json) |
 | Cathedral: Crow's Curse | 352757 | [352757-cathedral-crows-curse.json](./352757-cathedral-crows-curse.json) |
 | Catherine | 2151 | [2151-catherine.json](./2151-catherine.json) |
 | Catherine and the Spirit World | 315106 | [315106-catherine-and-the-spirit-world.json](./315106-catherine-and-the-spirit-world.json) |
@@ -3223,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celtic Football Coach | 138212 | [138212-celtic-football-coach.json](./138212-celtic-football-coach.json) |
 | Celtic Kings: Rage of War | 11271 | [11271-celtic-kings-rage-of-war.json](./11271-celtic-kings-rage-of-war.json) |
 | Celtic Tribes | 343804 | [343804-celtic-tribes.json](./343804-celtic-tribes.json) |
+| Celtic Village | 218637 | [218637-celtic-village.json](./218637-celtic-village.json) |
 | Cemantle & Pedantle | 194956 | [194956-cemantle-and-pedantle.json](./194956-cemantle-and-pedantle.json) |
 | Cement Factory | 367832 | [367832-cement-factory.json](./367832-cement-factory.json) |
 | Cement Truck | 105921 | [105921-cement-truck.json](./105921-cement-truck.json) |
@@ -6805,6 +6807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coal Man Clicker | 334835 | [334835-coal-man-clicker.json](./334835-coal-man-clicker.json) |
 | Coal Mining Inc. | 237653 | [237653-coal-mining-inc.json](./237653-coal-mining-inc.json) |
 | Coal Rush: Tap a Train | 179585 | [179585-coal-rush-tap-a-train.json](./179585-coal-rush-tap-a-train.json) |
+| Coalescence | 218661 | [218661-coalescence.json](./218661-coalescence.json) |
 | Coalhero | 154396 | [154396-coalhero.json](./154396-coalhero.json) |
 | Coarse Blade | 332236 | [332236-coarse-blade.json](./332236-coarse-blade.json) |
 | Coast Defender | 269038 | [269038-coast-defender.json](./269038-coast-defender.json) |
@@ -9232,6 +9235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrida das Blogueiras 6: A Maldição dos Zumbis | 319027 | [319027-corrida-das-blogueiras-6-a-maldicao-dos-zumbis.json](./319027-corrida-das-blogueiras-6-a-maldicao-dos-zumbis.json) |
 | Corridor | 282000 | [282000-corridor.json](./282000-corridor.json) |
 | Corridor 13 | 401743 | [401743-corridor-13.json](./401743-corridor-13.json) |
+| Corridor 8: Galactic Wars | 218648 | [218648-corridor-8-galactic-wars.json](./218648-corridor-8-galactic-wars.json) |
 | Corridor Crusaders | 126535 | [126535-corridor-crusaders.json](./126535-corridor-crusaders.json) |
 | Corridor Exit 8 | 346688 | [346688-corridor-exit-8.json](./346688-corridor-exit-8.json) |
 | Corridor Geodesic | 319387 | [319387-corridor-geodesic.json](./319387-corridor-geodesic.json) |
@@ -12003,6 +12007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubeSat Builder: Build a NASA Spacecraft! | 309025 | [309025-cubesat-builder-build-a-nasa-spacecraft.json](./309025-cubesat-builder-build-a-nasa-spacecraft.json) |
 | Cubeshift | 54542 | [54542-cubeshift.json](./54542-cubeshift.json) |
 | CubeShooter | 203967 | [203967-cubeshooter.json](./203967-cubeshooter.json) |
+| CubeShot | 218635 | [218635-cubeshot.json](./218635-cubeshot.json) |
 | Cubesis | 36225 | [36225-cubesis.json](./36225-cubesis.json) |
 | Cubether | 221232 | [221232-cubether.json](./221232-cubether.json) |
 | Cubethon | 289542 | [289542-cubethon.json](./289542-cubethon.json) |
@@ -12832,6 +12837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberGladiators | 50149 | [50149-cybergladiators.json](./50149-cybergladiators.json) |
 | CyberGlide VR | 120319 | [120319-cyberglide-vr.json](./120319-cyberglide-vr.json) |
 | CyberGroove | 262263 | [262263-cybergroove.json](./262263-cybergroove.json) |
+| CyberHeroes Arena | 218660 | [218660-cyberheroes-arena.json](./218660-cyberheroes-arena.json) |
 | CyberHeroes Arena DX | 235300 | [235300-cyberheroes-arena-dx.json](./235300-cyberheroes-arena-dx.json) |
 | Cyberhold | 186156 | [186156-cyberhold.json](./186156-cyberhold.json) |
 | CyberHoney | 310171 | [310171-cyberhoney.json](./310171-cyberhoney.json) |
