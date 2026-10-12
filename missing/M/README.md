@@ -3612,6 +3612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchbox: Driving Adventures | 305052 | [305052-matchbox-driving-adventures.json](./305052-matchbox-driving-adventures.json) |
 | Matchbox: Emergency Patrol | 49963 | [49963-matchbox-emergency-patrol.json](./49963-matchbox-emergency-patrol.json) |
 | Matchbox's Pizza Adventure | 305307 | [305307-matchboxs-pizza-adventure.json](./305307-matchboxs-pizza-adventure.json) |
+| Matchcraft: Efir Adventure | 197074 | [197074-matchcraft-efir-adventure.json](./197074-matchcraft-efir-adventure.json) |
 | Matchday Manager World Football | 214556 | [214556-matchday-manager-world-football.json](./214556-matchday-manager-world-football.json) |
 | Matched | 253009 | [253009-matched.json](./253009-matched.json) |
 | Matchem | 91737 | [91737-matchem.json](./91737-matchem.json) |
@@ -13068,6 +13069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Futa Girlfriend | 297151 | [297151-my-futa-girlfriend.json](./297151-my-futa-girlfriend.json) |
 | My Gambian Boyfriend | 332636 | [332636-my-gambian-boyfriend.json](./332636-my-gambian-boyfriend.json) |
 | My Game About Me: Olympic Challenge | 210674 | [210674-my-game-about-me-olympic-challenge.json](./210674-my-game-about-me-olympic-challenge.json) |
+| My Gaming Club | 197063 | [197063-my-gaming-club.json](./197063-my-gaming-club.json) |
 | My Garage | 162411 | [162411-my-garage.json](./162411-my-garage.json) |
 | My Garbage Cat Wakes Me Up At 3AM Every Day | 128556 | [128556-my-garbage-cat-wakes-me-up-at-3am-every-day.json](./128556-my-garbage-cat-wakes-me-up-at-3am-every-day.json) |
 | My GF Doesn't Know What I'm Into | 225805 | [225805-my-gf-doesnt-know-what-im-into.json](./225805-my-gf-doesnt-know-what-im-into.json) |
