@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T21:15:13.702Z",
-  "total_soundtracks": 1561,
+  "generated_at": "2026-10-12T21:15:29.548Z",
+  "total_soundtracks": 1562,
   "games": [
     {
       "igdb_id": 7522,
@@ -9580,6 +9580,20 @@
           "album_name": "Mass Effect 2 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4KnSz1vjaGwl1KcfkTf6Nj",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 782,
+      "game_name": "Mass Effect 2: Lair of the Shadow Broker",
+      "game_url": "https://ostdb.net/games/mass-effect-2-lair-of-the-shadow-broker",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27331d251a74767e426db306565",
+      "albums": [
+        {
+          "album_name": "Mass Effect 2: Lair of the Shadow Broker (Original Video Game Score)",
+          "spotify_url": "https://open.spotify.com/album/233cSAOYDENEnOZl3VLsJE",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
