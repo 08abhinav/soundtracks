@@ -324,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yemon | 107928 | [107928-yemon.json](./107928-yemon.json) |
 | Yenemy | 248728 | [248728-yenemy.json](./248728-yenemy.json) |
 | Yenght | 94258 | [94258-yenght.json](./94258-yenght.json) |
+| Yeolhyeol Kangho W | 215830 | [215830-yeolhyeol-kangho-w.json](./215830-yeolhyeol-kangho-w.json) |
 | Yeomna: The Legend of Dongbaek | 152239 | [152239-yeomna-the-legend-of-dongbaek.json](./152239-yeomna-the-legend-of-dongbaek.json) |
 | Yeonkyung | 336004 | [336004-yeonkyung.json](./336004-yeonkyung.json) |
 | Yeoubul | 166754 | [166754-yeoubul.json](./166754-yeoubul.json) |
@@ -652,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshiwara | 328615 | [328615-yoshiwara.json](./328615-yoshiwara.json) |
 | Yoshiwara Higanbana | 153489 | [153489-yoshiwara-higanbana.json](./153489-yoshiwara-higanbana.json) |
 | Yoshiwara Higanbana: Kuon no Chigiri | 110335 | [110335-yoshiwara-higanbana-kuon-no-chigiri.json](./110335-yoshiwara-higanbana-kuon-no-chigiri.json) |
+| Yosin: Gumihodyeon | 215847 | [215847-yosin-gumihodyeon.json](./215847-yosin-gumihodyeon.json) |
 | Yosuga no Sora | 329518 | [329518-yosuga-no-sora.json](./329518-yosuga-no-sora.json) |
 | Yosumin! | 9309 | [9309-yosumin.json](./9309-yosumin.json) |
 | Yots | 408062 | [408062-yots.json](./408062-yots.json) |
