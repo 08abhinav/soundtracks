@@ -2044,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate of Hellas | 21302 | [21302-fate-of-hellas.json](./21302-fate-of-hellas.json) |
 | Fate of India | 104324 | [104324-fate-of-india.json](./104324-fate-of-india.json) |
 | Fate of Kai | 139314 | [139314-fate-of-kai.json](./139314-fate-of-kai.json) |
+| Fate of the Damned | 225800 | [225800-fate-of-the-damned.json](./225800-fate-of-the-damned.json) |
 | Fate of the Elder Gods | 125454 | [125454-fate-of-the-elder-gods.json](./125454-fate-of-the-elder-gods.json) |
 | Fate of the Empress | 159202 | [159202-fate-of-the-empress.json](./159202-fate-of-the-empress.json) |
 | Fate of the Seventh Scholar | 366260 | [366260-fate-of-the-seventh-scholar.json](./366260-fate-of-the-seventh-scholar.json) |
@@ -5652,6 +5653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Follow The Banner | 322807 | [322807-follow-the-banner.json](./322807-follow-the-banner.json) |
 | Follow the Black Kitten | 187203 | [187203-follow-the-black-kitten.json](./187203-follow-the-black-kitten.json) |
 | Follow The Cat | 170544 | [170544-follow-the-cat.json](./170544-follow-the-cat.json) |
+| Follow the Crown | 225191 | [225191-follow-the-crown.json](./225191-follow-the-crown.json) |
 | Follow the Darkness | 151572 | [151572-follow-the-darkness.json](./151572-follow-the-darkness.json) |
 | Follow the Leader | 264035 | [264035-follow-the-leader.json](./264035-follow-the-leader.json) |
 | Follow the Meaning | 286094 | [286094-follow-the-meaning.json](./286094-follow-the-meaning.json) |
@@ -5729,6 +5731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Truck VR | 343329 | [343329-food-truck-vr.json](./343329-food-truck-vr.json) |
 | Food Wagon | 333359 | [333359-food-wagon.json](./333359-food-wagon.json) |
 | Food War TD | 171439 | [171439-food-war-td.json](./171439-food-war-td.json) |
+| Foodfight! | 225838 | [225838-foodfight.json](./225838-foodfight.json) |
 | FoodFighters | 286010 | [286010-foodfighters.json](./286010-foodfighters.json) |
 | Foodguessr | 293936 | [293936-foodguessr.json](./293936-foodguessr.json) |
 | Foodie Avenue | 250368 | [250368-foodie-avenue.json](./250368-foodie-avenue.json) |
