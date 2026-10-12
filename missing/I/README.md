@@ -1577,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immoral Ward | 22483 | [22483-immoral-ward.json](./22483-immoral-ward.json) |
 | Immortal | 320348 | [320348-immortal.json](./320348-immortal.json) |
 | Immortal Awakening | 227252 | [227252-immortal-awakening.json](./227252-immortal-awakening.json) |
+| Immortal Blade | 220284 | [220284-immortal-blade.json](./220284-immortal-blade.json) |
 | Immortal Chess | 413174 | [413174-immortal-chess.json](./413174-immortal-chess.json) |
 | Immortal Cities: Nile Online | 11274 | [11274-immortal-cities-nile-online.json](./11274-immortal-cities-nile-online.json) |
 | Immortal Clan: Grandmastery | 395726 | [395726-immortal-clan-grandmastery.json](./395726-immortal-clan-grandmastery.json) |
@@ -4305,6 +4306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Its Time To Meet God | 334131 | [334131-its-time-to-meet-god.json](./334131-its-time-to-meet-god.json) |
 | Its Village | 51502 | [51502-its-village.json](./51502-its-village.json) |
 | ItsJustAStory | 251745 | [251745-itsjustastory.json](./251745-itsjustastory.json) |
+| Itsu Doko de Online | 220295 | [220295-itsu-doko-de-online.json](./220295-itsu-doko-de-online.json) |
 | Itsu no Ma ni Koukan Nikki | 222319 | [222319-itsu-no-ma-ni-koukan-nikki.json](./222319-itsu-no-ma-ni-koukan-nikki.json) |
 | Itsudemo! Nyan to Wonderful | 228564 | [228564-itsudemo-nyan-to-wonderful.json](./228564-itsudemo-nyan-to-wonderful.json) |
 | Itsuka, Kasanariau Ashita he: Sayuri-hen | 203819 | [203819-itsuka-kasanariau-ashita-he-sayuri-hen.json](./203819-itsuka-kasanariau-ashita-he-sayuri-hen.json) |
