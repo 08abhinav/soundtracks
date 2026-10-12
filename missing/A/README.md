@@ -5823,6 +5823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Whisper: The Suspense Visual Novel Left Behind by a Game Creator. | 268096 | [268096-angel-whisper-the-suspense-visual-novel-left-behind-by-a-game-creator.json](./268096-angel-whisper-the-suspense-visual-novel-left-behind-by-a-game-creator.json) |
 | Angel Wings | 102168 | [102168-angel-wings.json](./102168-angel-wings.json) |
 | Angel Wings | 307047 | [307047-angel-wings.json](./307047-angel-wings.json) |
+| Angel Wings: Endless Night | 224680 | [224680-angel-wings-endless-night.json](./224680-angel-wings-endless-night.json) |
 | Angel Wish: Kimi no Egao ni Chu! | 68259 | [68259-angel-wish-kimi-no-egao-ni-chu.json](./68259-angel-wish-kimi-no-egao-ni-chu.json) |
 | Angel Zero | 398592 | [398592-angel-zero.json](./398592-angel-zero.json) |
 | Angel, Devil, Elf and Me! | 111089 | [111089-angel-devil-elf-and-me.json](./111089-angel-devil-elf-and-me.json) |
@@ -7156,6 +7157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apotheosis X | 252089 | [252089-apotheosis-x.json](./252089-apotheosis-x.json) |
 | Apox | 9981 | [9981-apox.json](./9981-apox.json) |
 | Apox: Legend | 167853 | [167853-apox-legend.json](./167853-apox-legend.json) |
+| ApoZomb | 224704 | [224704-apozomb.json](./224704-apozomb.json) |
 | App Co Tycoon | 211438 | [211438-app-co-tycoon.json](./211438-app-co-tycoon.json) |
 | App Driver + John The Zombie | 328571 | [328571-app-driver-john-the-zombie.json](./328571-app-driver-john-the-zombie.json) |
 | App Empire Tycoon | 363957 | [363957-app-empire-tycoon.json](./363957-app-empire-tycoon.json) |
