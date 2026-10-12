@@ -1790,6 +1790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mama Die and Retry | 232953 | [232953-mama-die-and-retry.json](./232953-mama-die-and-retry.json) |
 | Mama Farm | 95612 | [95612-mama-farm.json](./95612-mama-farm.json) |
 | Mama Reido vol. 3 Tomomi Mama Hen: Usotsuki wa Mama no Hajimari | 108961 | [108961-mama-reido-vol-3-tomomi-mama-hen-usotsuki-wa-mama-no-hajimari.json](./108961-mama-reido-vol-3-tomomi-mama-hen-usotsuki-wa-mama-no-hajimari.json) |
+| Mama Soybean's Delicious Oyster Sauce | 183842 | [183842-mama-soybeans-delicious-oyster-sauce.json](./183842-mama-soybeans-delicious-oyster-sauce.json) |
 | Māmā, Bié Zǒu | 130930 | [130930-mama-bie-zou.json](./130930-mama-bie-zou.json) |
 | Mama's 2-Pack | 86075 | [86075-mamas-2-pack.json](./86075-mamas-2-pack.json) |
 | Mama's Farm: Match ‪3‬ | 144995 | [144995-mamas-farm-match-3.json](./144995-mamas-farm-match-3.json) |
@@ -10025,6 +10026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Claws 5 | 357408 | [357408-monster-claws-5.json](./357408-monster-claws-5.json) |
 | Monster Clicker : Idle Halloween Strategy | 111862 | [111862-monster-clicker-idle-halloween-strategy.json](./111862-monster-clicker-idle-halloween-strategy.json) |
 | Monster Club | 185144 | [185144-monster-club.json](./185144-monster-club.json) |
+| Monster Coffeeshop | 183848 | [183848-monster-coffeeshop.json](./183848-monster-coffeeshop.json) |
 | Monster Collection: Kamen no Madoushi | 263695 | [263695-monster-collection-kamen-no-madoushi.json](./263695-monster-collection-kamen-no-madoushi.json) |
 | Monster Collections Plus | 265842 | [265842-monster-collections-plus.json](./265842-monster-collections-plus.json) |
 | Monster Collector | 143647 | [143647-monster-collector.json](./143647-monster-collector.json) |
@@ -10457,6 +10459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters' Den: Godfall - Protectorate Operations | 155550 | [155550-monsters-den-godfall-protectorate-operations.json](./155550-monsters-den-godfall-protectorate-operations.json) |
 | Monsters' Gambits | 250870 | [250870-monsters-gambits.json](./250870-monsters-gambits.json) |
 | Monsterseed | 45219 | [45219-monsterseed.json](./45219-monsterseed.json) |
+| Monstershifter | 183841 | [183841-monstershifter.json](./183841-monstershifter.json) |
 | MonsterSoft | 138803 | [138803-monstersoft.json](./138803-monstersoft.json) |
 | Monsterstone: Prelude | 215122 | [215122-monsterstone-prelude.json](./215122-monsterstone-prelude.json) |
 | MonsterTerritory | 167250 | [167250-monsterterritory.json](./167250-monsterterritory.json) |
