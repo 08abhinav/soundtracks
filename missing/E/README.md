@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eiga Sumikko Gurashi: Tobidasu Ehon to Himitsu no Ko - Game de Asobou! Ehon no Sekai | 136961 | [136961-eiga-sumikko-gurashi-tobidasu-ehon-to-himitsu-no-ko-game-de-asobou-ehon-no-sekai.json](./136961-eiga-sumikko-gurashi-tobidasu-ehon-to-himitsu-no-ko-game-de-asobou-ehon-no-sekai.json) |
 | Eigen Space | 192427 | [192427-eigen-space.json](./192427-eigen-space.json) |
 | EigenGauge | 283771 | [283771-eigengauge.json](./283771-eigengauge.json) |
+| Eigengrau | 215876 | [215876-eigengrau.json](./215876-eigengrau.json) |
 | Eigenstate | 176470 | [176470-eigenstate.json](./176470-eigenstate.json) |
 | Eight | 163756 | [163756-eight.json](./163756-eight.json) |
 | Eight Ball | 93592 | [93592-eight-ball.json](./93592-eight-ball.json) |
@@ -2055,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empires of the Void II | 189167 | [189167-empires-of-the-void-ii.json](./189167-empires-of-the-void-ii.json) |
 | Empires Through the Aeons | 240690 | [240690-empires-through-the-aeons.json](./240690-empires-through-the-aeons.json) |
 | Empires: Dawn of the Modern World | 678 | [678-empires-dawn-of-the-modern-world.json](./678-empires-dawn-of-the-modern-world.json) |
+| Empis | 215869 | [215869-empis.json](./215869-empis.json) |
 | Employee A | 188994 | [188994-employee-a.json](./188994-employee-a.json) |
 | Employee Recycling Center | 36463 | [36463-employee-recycling-center.json](./36463-employee-recycling-center.json) |
 | Employee Rules of the Night Strings | 309361 | [309361-employee-rules-of-the-night-strings.json](./309361-employee-rules-of-the-night-strings.json) |
@@ -2868,6 +2870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epigraph | 287857 | [287857-epigraph.json](./287857-epigraph.json) |
 | Epikos | 124585 | [124585-epikos.json](./124585-epikos.json) |
 | Epilepson in the Great Meadow | 403552 | [403552-epilepson-in-the-great-meadow.json](./403552-epilepson-in-the-great-meadow.json) |
+| Epileptic Seizure Battle Ball Challenge | 215878 | [215878-epileptic-seizure-battle-ball-challenge.json](./215878-epileptic-seizure-battle-ball-challenge.json) |
 | Epilogue | 356027 | [356027-epilogue.json](./356027-epilogue.json) |
 | Epimutation | 338835 | [338835-epimutation.json](./338835-epimutation.json) |
 | Epiphany | 181201 | [181201-epiphany.json](./181201-epiphany.json) |
@@ -3239,6 +3242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Lost Island | 206653 | [206653-escape-from-lost-island.json](./206653-escape-from-lost-island.json) |
 | Escape from Manimal Island | 272395 | [272395-escape-from-manimal-island.json](./272395-escape-from-manimal-island.json) |
 | Escape from Mars | 183949 | [183949-escape-from-mars.json](./183949-escape-from-mars.json) |
+| Escape From Meat City | 215877 | [215877-escape-from-meat-city.json](./215877-escape-from-meat-city.json) |
 | Escape from Mental Hospital | 377217 | [377217-escape-from-mental-hospital.json](./377217-escape-from-mental-hospital.json) |
 | Escape from Monkey Island | 63 | [63-escape-from-monkey-island.json](./63-escape-from-monkey-island.json) |
 | Escape From Monster | 163294 | [163294-escape-from-monster.json](./163294-escape-from-monster.json) |
@@ -4714,6 +4718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eximius: Seize the Frontline | 96094 | [96094-eximius-seize-the-frontline.json](./96094-eximius-seize-the-frontline.json) |
 | Eximius: Seize the Frontline - Exclusive Callsign Pack: Kings of Frontline | 230989 | [230989-eximius-seize-the-frontline-exclusive-callsign-pack-kings-of-frontline.json](./230989-eximius-seize-the-frontline-exclusive-callsign-pack-kings-of-frontline.json) |
 | Exipath | 400900 | [400900-exipath.json](./400900-exipath.json) |
+| Exipelago | 215868 | [215868-exipelago.json](./215868-exipelago.json) |
 | Exist | 212488 | [212488-exist.json](./212488-exist.json) |
 | Exist | 390693 | [390693-exist.json](./390693-exist.json) |
 | Exist | 88472 | [88472-exist.json](./88472-exist.json) |
