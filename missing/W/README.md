@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warfare 1917 | 61588 | [61588-warfare-1917.json](./61588-warfare-1917.json) |
 | Warfare 1944 | 103393 | [103393-warfare-1944.json](./103393-warfare-1944.json) |
 | Warfare 1944 | 61589 | [61589-warfare-1944.json](./61589-warfare-1944.json) |
+| Warfare Area 2 | 220810 | [220810-warfare-area-2.json](./220810-warfare-area-2.json) |
 | Warfare Incorporated | 23602 | [23602-warfare-incorporated.json](./23602-warfare-incorporated.json) |
 | Warfare Legacy Collection | 287786 | [287786-warfare-legacy-collection.json](./287786-warfare-legacy-collection.json) |
 | Warfare: Battleground | 293511 | [293511-warfare-battleground.json](./293511-warfare-battleground.json) |
