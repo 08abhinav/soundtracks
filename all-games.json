@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T12:06:02.740Z",
-  "total_soundtracks": 1522,
+  "generated_at": "2026-10-12T12:06:14.465Z",
+  "total_soundtracks": 1523,
   "games": [
     {
       "igdb_id": 7522,
@@ -5826,6 +5826,20 @@
           "album_name": "FINAL FANTASY XVI Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/18XUpKyB2Ptj73BZzA6scS",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 36044,
+      "game_name": "Finding Paradise",
+      "game_url": "https://ostdb.net/games/finding-paradise",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27319f3df3565e048e6d1afc469",
+      "albums": [
+        {
+          "album_name": "Finding Paradise (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2PRl4SmPZdkMdF3iUA8O16",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
