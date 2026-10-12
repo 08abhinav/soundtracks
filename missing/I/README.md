@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am on Fire | 188421 | [188421-i-am-on-fire.json](./188421-i-am-on-fire.json) |
 | I Am Overburdened | 74212 | [74212-i-am-overburdened.json](./74212-i-am-overburdened.json) |
 | I Am Part-time Worker!! | 303549 | [303549-i-am-part-time-worker.json](./303549-i-am-part-time-worker.json) |
+| I am queer, am I legit ? | 179940 | [179940-i-am-queer-am-i-legit.json](./179940-i-am-queer-am-i-legit.json) |
 | I am Rabbit | 256727 | [256727-i-am-rabbit.json](./256727-i-am-rabbit.json) |
 | I Am Reptile | 345086 | [345086-i-am-reptile.json](./345086-i-am-reptile.json) |
 | I Am Ripper | 342772 | [342772-i-am-ripper.json](./342772-i-am-ripper.json) |
