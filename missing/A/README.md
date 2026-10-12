@@ -3847,6 +3847,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aletheia: Prophecy of Perseus | 345144 | [345144-aletheia-prophecy-of-perseus.json](./345144-aletheia-prophecy-of-perseus.json) |
 | Aletheia: Return of Odysseus | 288753 | [288753-aletheia-return-of-odysseus.json](./288753-aletheia-return-of-odysseus.json) |
 | Aletta | 200170 | [200170-aletta.json](./200170-aletta.json) |
+| Alette 0: Red Moon of April | 184813 | [184813-alette-0-red-moon-of-april.json](./184813-alette-0-red-moon-of-april.json) |
+| Alette If | 184811 | [184811-alette-if.json](./184811-alette-if.json) |
 | Alex and Der Murder | 396378 | [396378-alex-and-der-murder.json](./396378-alex-and-der-murder.json) |
 | Alex and the Jets | 368610 | [368610-alex-and-the-jets.json](./368610-alex-and-the-jets.json) |
 | Alex Demeo's Race America | 48215 | [48215-alex-demeos-race-america.json](./48215-alex-demeos-race-america.json) |
@@ -4616,6 +4618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ally Racer | 138542 | [138542-ally-racer.json](./138542-ally-racer.json) |
 | AllYourArdu | 298954 | [298954-allyourardu.json](./298954-allyourardu.json) |
 | Alma | 80915 | [80915-alma.json](./80915-alma.json) |
+| Almace | 184807 | [184807-almace.json](./184807-almace.json) |
 | Almana no Kiseki | 41255 | [41255-almana-no-kiseki.json](./41255-almana-no-kiseki.json) |
 | Almanac of Girlswampwar Territory & The Girls Who Swim as Fertilizer Through the Warm Soil Cloaking the Roots of the Glorious Tree of Eugenics: Giving Birth to a Black Hole in a Walmart Parking Lot at 1am | 131413 | [131413-almanac-of-girlswampwar-territory-and-the-girls-who-swim-as-fertilizer-through-the-warm-soil-cloaking-the-roots-of-the-glorious-tree-of-eugenics-giving-birth-to-a-black-hole-in-a-walmart-parking-lot-at-1am.json](./131413-almanac-of-girlswampwar-territory-and-the-girls-who-swim-as-fertilizer-through-the-warm-soil-cloaking-the-roots-of-the-glorious-tree-of-eugenics-giving-birth-to-a-black-hole-in-a-walmart-parking-lot-at-1am.json) |
 | Almanac: Detective Agency | 399143 | [399143-almanac-detective-agency.json](./399143-almanac-detective-agency.json) |
@@ -5591,6 +5594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Otaku like me has 2 Fiancees?! | 208271 | [208271-an-otaku-like-me-has-2-fiancees.json](./208271-an-otaku-like-me-has-2-fiancees.json) |
 | An Outcry, Prelude | 198319 | [198319-an-outcry-prelude.json](./198319-an-outcry-prelude.json) |
 | An Un-epic story: The adventure of Enki and Tiny Freddie | 174093 | [174093-an-un-epic-story-the-adventure-of-enki-and-tiny-freddie.json](./174093-an-un-epic-story-the-adventure-of-enki-and-tiny-freddie.json) |
+| An unfolding Adventure | 184795 | [184795-an-unfolding-adventure.json](./184795-an-unfolding-adventure.json) |
 | An Unnamed Jumping Game | 321750 | [321750-an-unnamed-jumping-game.json](./321750-an-unnamed-jumping-game.json) |
 | An Untitled Story | 72926 | [72926-an-untitled-story.json](./72926-an-untitled-story.json) |
 | An Update is Pending | 129651 | [129651-an-update-is-pending.json](./129651-an-update-is-pending.json) |
@@ -5728,6 +5732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Magic: Bazuu! Mahou Sekai | 15892 | [15892-ancient-magic-bazuu-mahou-sekai.json](./15892-ancient-magic-bazuu-mahou-sekai.json) |
 | Ancient Mahjong | 267370 | [267370-ancient-mahjong.json](./267370-ancient-mahjong.json) |
 | Ancient Medieval Empire | 192246 | [192246-ancient-medieval-empire.json](./192246-ancient-medieval-empire.json) |
+| Ancient Metal | 184826 | [184826-ancient-metal.json](./184826-ancient-metal.json) |
 | Ancient Military | 392800 | [392800-ancient-military.json](./392800-ancient-military.json) |
 | Ancient Mind | 244879 | [244879-ancient-mind.json](./244879-ancient-mind.json) |
 | Ancient Mystery: A Quest for Hidden Wisdom | 235121 | [235121-ancient-mystery-a-quest-for-hidden-wisdom.json](./235121-ancient-mystery-a-quest-for-hidden-wisdom.json) |
@@ -6013,7 +6018,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Ball VR | 112961 | [112961-angry-ball-vr.json](./112961-angry-ball-vr.json) |
 | Angry Barry | 67987 | [67987-angry-barry.json](./67987-angry-barry.json) |
 | Angry Battalion | 330191 | [330191-angry-battalion.json](./330191-angry-battalion.json) |
-| Angry Birds | 2035 | [2035-angry-birds.json](./2035-angry-birds.json) |
 | Angry Birds Action! | 19274 | [19274-angry-birds-action.json](./19274-angry-birds-action.json) |
 | Angry Birds AR: Isle of Pigs | 196589 | [196589-angry-birds-ar-isle-of-pigs.json](./196589-angry-birds-ar-isle-of-pigs.json) |
 | Angry Birds Arcade | 231439 | [231439-angry-birds-arcade.json](./231439-angry-birds-arcade.json) |
@@ -7531,6 +7535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arachnoid | 23886 | [23886-arachnoid.json](./23886-arachnoid.json) |
 | Arachnophilia | 385926 | [385926-arachnophilia.json](./385926-arachnophilia.json) |
 | ArachnoSplat | 126406 | [126406-arachnosplat.json](./126406-arachnosplat.json) |
+| Arachnotron | 184818 | [184818-arachnotron.json](./184818-arachnotron.json) |
 | Aracnidium | 193462 | [193462-aracnidium.json](./193462-aracnidium.json) |
 | Aracore Astromining Ventures | 337661 | [337661-aracore-astromining-ventures.json](./337661-aracore-astromining-ventures.json) |
 | Aradena: Battlegrounds | 266121 | [266121-aradena-battlegrounds.json](./266121-aradena-battlegrounds.json) |
@@ -9612,6 +9617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Android Cactus+ | 115456 | [115456-assault-android-cactus.json](./115456-assault-android-cactus.json) |
 | Assault at Wounded Ankle | 350993 | [350993-assault-at-wounded-ankle.json](./350993-assault-at-wounded-ankle.json) |
 | Assault Bandit | 240347 | [240347-assault-bandit.json](./240347-assault-bandit.json) |
+| Assault Battery | 184825 | [184825-assault-battery.json](./184825-assault-battery.json) |
 | Assault City | 46117 | [46117-assault-city.json](./46117-assault-city.json) |
 | Assault Commander Rearmed | 371888 | [371888-assault-commander-rearmed.json](./371888-assault-commander-rearmed.json) |
 | Assault CorpsII | 35101 | [35101-assault-corpsii.json](./35101-assault-corpsii.json) |
@@ -9764,6 +9770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterminer | 158507 | [158507-asterminer.json](./158507-asterminer.json) |
 | Astero Inc. | 176506 | [176506-astero-inc.json](./176506-astero-inc.json) |
 | Asteroad | 149089 | [149089-asteroad.json](./149089-asteroad.json) |
+| Asterogue | 184854 | [184854-asterogue.json](./184854-asterogue.json) |
 | Asterogues | 213433 | [213433-asterogues.json](./213433-asterogues.json) |
 | Asteroid | 80931 | [80931-asteroid.json](./80931-asteroid.json) |
 | Asteroid 69 | 387096 | [387096-asteroid-69.json](./387096-asteroid-69.json) |
@@ -11468,6 +11475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aztec Assault | 58860 | [58860-aztec-assault.json](./58860-aztec-assault.json) |
 | Aztec Mayhem! | 366405 | [366405-aztec-mayhem.json](./366405-aztec-mayhem.json) |
 | Aztec Number | 102932 | [102932-aztec-number.json](./102932-aztec-number.json) |
+| Aztec Ride | 184829 | [184829-aztec-ride.json](./184829-aztec-ride.json) |
 | Aztec Solitaire | 91345 | [91345-aztec-solitaire.json](./91345-aztec-solitaire.json) |
 | Aztec Stones | 101771 | [101771-aztec-stones.json](./101771-aztec-stones.json) |
 | Aztec Tiki Talisman | 273357 | [273357-aztec-tiki-talisman.json](./273357-aztec-tiki-talisman.json) |
