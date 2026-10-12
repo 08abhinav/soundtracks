@@ -6956,7 +6956,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 1500 Series Hello Kitty Vol. 02: Hello Kitty Illust Puzzle | 64658 | [64658-simple-1500-series-hello-kitty-vol-02-hello-kitty-illust-puzzle.json](./64658-simple-1500-series-hello-kitty-vol-02-hello-kitty-illust-puzzle.json) |
 | Simple 1500 Series Hello Kitty Vol. 03: Hello Kitty Block Kuzushi | 64652 | [64652-simple-1500-series-hello-kitty-vol-03-hello-kitty-block-kuzushi.json](./64652-simple-1500-series-hello-kitty-vol-03-hello-kitty-block-kuzushi.json) |
 | Simple 1500 Series Hello Kitty Vol. 04: Trump | 64650 | [64650-simple-1500-series-hello-kitty-vol-04-trump.json](./64650-simple-1500-series-hello-kitty-vol-04-trump.json) |
+| Simple 1500 Series Vol. 100: The Uchuu Hikoushi | 203128 | [203128-simple-1500-series-vol-100-the-uchuu-hikoushi.json](./203128-simple-1500-series-vol-100-the-uchuu-hikoushi.json) |
 | Simple 1500 Series Vol. 101: The Sentou | 151843 | [151843-simple-1500-series-vol-101-the-sentou.json](./151843-simple-1500-series-vol-101-the-sentou.json) |
+| Simple 1500 Series Vol. 103: The Ganso Densha Utenshi - Densha De Go! | 203129 | [203129-simple-1500-series-vol-103-the-ganso-densha-utenshi-densha-de-go.json](./203129-simple-1500-series-vol-103-the-ganso-densha-utenshi-densha-de-go.json) |
 | Simple 1500 Series Vol. 11: The Pinball 3D | 19671 | [19671-simple-1500-series-vol-11-the-pinball-3d.json](./19671-simple-1500-series-vol-11-the-pinball-3d.json) |
 | Simple 1500 Series Vol. 12: The Quiz | 209497 | [209497-simple-1500-series-vol-12-the-quiz.json](./209497-simple-1500-series-vol-12-the-quiz.json) |
 | Simple 1500 Series Vol. 15: The Pachinko | 209498 | [209498-simple-1500-series-vol-15-the-pachinko.json](./209498-simple-1500-series-vol-15-the-pachinko.json) |
@@ -6970,6 +6972,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 1500 Series Vol. 58: The Sumo | 124665 | [124665-simple-1500-series-vol-58-the-sumo.json](./124665-simple-1500-series-vol-58-the-sumo.json) |
 | Simple 1500 Series Vol. 65: The Golf | 130774 | [130774-simple-1500-series-vol-65-the-golf.json](./130774-simple-1500-series-vol-65-the-golf.json) |
 | Simple 1500 Series Vol. 77: The Suiei | 209500 | [209500-simple-1500-series-vol-77-the-suiei.json](./209500-simple-1500-series-vol-77-the-suiei.json) |
+| Simple 1500 Series Vol. 91: The Gambler - Honoo no Tobaku Densetsu | 203119 | [203119-simple-1500-series-vol-91-the-gambler-honoo-no-tobaku-densetsu.json](./203119-simple-1500-series-vol-91-the-gambler-honoo-no-tobaku-densetsu.json) |
+| Simple 1500 Series Vol. 92: The Tozan RPG | 203121 | [203121-simple-1500-series-vol-92-the-tozan-rpg.json](./203121-simple-1500-series-vol-92-the-tozan-rpg.json) |
+| Simple 1500 Series Vol. 96: The Yakyuu 2 | 203124 | [203124-simple-1500-series-vol-96-the-yakyuu-2.json](./203124-simple-1500-series-vol-96-the-yakyuu-2.json) |
+| Simple 1500 Series Vol. 98: The Futsal | 203126 | [203126-simple-1500-series-vol-98-the-futsal.json](./203126-simple-1500-series-vol-98-the-futsal.json) |
+| Simple 1500 Series Vol. 99: The Kendo - Ken no Hanamichi | 203127 | [203127-simple-1500-series-vol-99-the-kendo-ken-no-hanamichi.json](./203127-simple-1500-series-vol-99-the-kendo-ken-no-hanamichi.json) |
+| Simple 1500 Series Vol.94: The Cameraman | 203122 | [203122-simple-1500-series-vol-94-the-cameraman.json](./203122-simple-1500-series-vol-94-the-cameraman.json) |
 | Simple 2000 Hello Kitty Series Vol. 1: Starlight Puzzle | 64651 | [64651-simple-2000-hello-kitty-series-vol-1-starlight-puzzle.json](./64651-simple-2000-hello-kitty-series-vol-1-starlight-puzzle.json) |
 | Simple 2000 Hello Kitty Series Vol. 2: Minna de Sugoroku | 203350 | [203350-simple-2000-hello-kitty-series-vol-2-minna-de-sugoroku.json](./203350-simple-2000-hello-kitty-series-vol-2-minna-de-sugoroku.json) |
 | Simple 2000 Honkaku Shikou Vol.001: The Shogi | 203343 | [203343-simple-2000-honkaku-shikou-vol-001-the-shogi.json](./203343-simple-2000-honkaku-shikou-vol-001-the-shogi.json) |
@@ -7053,9 +7061,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Arena Robots | 374959 | [374959-simple-arena-robots.json](./374959-simple-arena-robots.json) |
 | Simple Battle FX | 298949 | [298949-simple-battle-fx.json](./298949-simple-battle-fx.json) |
 | Simple Boxing Drills VR | 371587 | [371587-simple-boxing-drills-vr.json](./371587-simple-boxing-drills-vr.json) |
+| Simple Characters 2000 Series Vol. 01: Kidou Senshi Gundam - The Gunjin Shougi | 203131 | [203131-simple-characters-2000-series-vol-01-kidou-senshi-gundam-the-gunjin-shougi.json](./203131-simple-characters-2000-series-vol-01-kidou-senshi-gundam-the-gunjin-shougi.json) |
 | Simple Characters 2000 Series Vol. 03: Kamen Rider - The Bike Race | 43812 | [43812-simple-characters-2000-series-vol-03-kamen-rider-the-bike-race.json](./43812-simple-characters-2000-series-vol-03-kamen-rider-the-bike-race.json) |
+| Simple Characters 2000 Series Vol. 04: Jarinko Chie - The Hanafuda | 203132 | [203132-simple-characters-2000-series-vol-04-jarinko-chie-the-hanafuda.json](./203132-simple-characters-2000-series-vol-04-jarinko-chie-the-hanafuda.json) |
+| Simple Characters 2000 Series Vol. 05: Highschool Kimengumi - The Table Hockey | 203133 | [203133-simple-characters-2000-series-vol-05-highschool-kimengumi-the-table-hockey.json](./203133-simple-characters-2000-series-vol-05-highschool-kimengumi-the-table-hockey.json) |
+| Simple Characters 2000 Series Vol. 06: Dokonjou Gaeru - The Mahjong | 203135 | [203135-simple-characters-2000-series-vol-06-dokonjou-gaeru-the-mahjong.json](./203135-simple-characters-2000-series-vol-06-dokonjou-gaeru-the-mahjong.json) |
+| Simple Characters 2000 Series Vol. 07: Ikkyuu-san - The Quiz | 203137 | [203137-simple-characters-2000-series-vol-07-ikkyuu-san-the-quiz.json](./203137-simple-characters-2000-series-vol-07-ikkyuu-san-the-quiz.json) |
+| Simple Characters 2000 Series Vol. 09: Tsuri Kichi Sanpei - The Tsuri | 203139 | [203139-simple-characters-2000-series-vol-09-tsuri-kichi-sanpei-the-tsuri.json](./203139-simple-characters-2000-series-vol-09-tsuri-kichi-sanpei-the-tsuri.json) |
 | Simple Characters 2000 Series Vol. 10: Sakigake! Otokojuku - The Dodge Ball | 64117 | [64117-simple-characters-2000-series-vol-10-sakigake-otokojuku-the-dodge-ball.json](./64117-simple-characters-2000-series-vol-10-sakigake-otokojuku-the-dodge-ball.json) |
 | Simple Characters 2000 Series Vol. 11: Detective Conan - The Board Game | 78706 | [78706-simple-characters-2000-series-vol-11-detective-conan-the-board-game.json](./78706-simple-characters-2000-series-vol-11-detective-conan-the-board-game.json) |
+| Simple Characters 2000 Series Vol. 12: Kidou Butou-den G Gundam - The Battle | 203142 | [203142-simple-characters-2000-series-vol-12-kidou-butou-den-g-gundam-the-battle.json](./203142-simple-characters-2000-series-vol-12-kidou-butou-den-g-gundam-the-battle.json) |
+| Simple Characters 2000 Series Vol. 13: Kidou Senki Gundam W - The Battle | 203144 | [203144-simple-characters-2000-series-vol-13-kidou-senki-gundam-w-the-battle.json](./203144-simple-characters-2000-series-vol-13-kidou-senki-gundam-w-the-battle.json) |
+| Simple Characters 2000 Series Vol. 14: Nante Tantei Idol - The Jigsaw Puzzle | 203145 | [203145-simple-characters-2000-series-vol-14-nante-tantei-idol-the-jigsaw-puzzle.json](./203145-simple-characters-2000-series-vol-14-nante-tantei-idol-the-jigsaw-puzzle.json) |
+| Simple Characters 2000 Series Vol. 16: Ganba no Bouken Puzzle | 203146 | [203146-simple-characters-2000-series-vol-16-ganba-no-bouken-puzzle.json](./203146-simple-characters-2000-series-vol-16-ganba-no-bouken-puzzle.json) |
 | Simple Chess | 115124 | [115124-simple-chess.json](./115124-simple-chess.json) |
 | Simple Complex Puzzle | 186179 | [186179-simple-complex-puzzle.json](./186179-simple-complex-puzzle.json) |
 | Simple Dot | 117707 | [117707-simple-dot.json](./117707-simple-dot.json) |
@@ -13790,6 +13808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Guy: Trapped in the Cheese Place | 291773 | [291773-spider-guy-trapped-in-the-cheese-place.json](./291773-spider-guy-trapped-in-the-cheese-place.json) |
 | Spider-Man | 19114 | [19114-spider-man.json](./19114-spider-man.json) |
 | Spider-Man | 198902 | [198902-spider-man.json](./198902-spider-man.json) |
+| Spider-Man | 203134 | [203134-spider-man.json](./203134-spider-man.json) |
 | Spider-Man | 220109 | [220109-spider-man.json](./220109-spider-man.json) |
 | Spider-Man | 245400 | [245400-spider-man.json](./245400-spider-man.json) |
 | Spider-Man | 248203 | [248203-spider-man.json](./248203-spider-man.json) |
