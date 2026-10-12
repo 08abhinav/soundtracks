@@ -2932,6 +2932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls on puzzle 4 | 156622 | [156622-girls-on-puzzle-4.json](./156622-girls-on-puzzle-4.json) |
 | Girls on Tanks | 98504 | [98504-girls-on-tanks.json](./98504-girls-on-tanks.json) |
 | Girls Only | 209752 | [209752-girls-only.json](./209752-girls-only.json) |
+| Girls Only! Secret Diary & More! | 200369 | [200369-girls-only-secret-diary-and-more.json](./200369-girls-only-secret-diary-and-more.json) |
 | Girls Overboard | 167173 | [167173-girls-overboard.json](./167173-girls-overboard.json) |
 | Girls Pinball | 157575 | [157575-girls-pinball.json](./157575-girls-pinball.json) |
 | Girls Pinball: DLC1 | 157576 | [157576-girls-pinball-dlc1.json](./157576-girls-pinball-dlc1.json) |
@@ -3525,6 +3526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go, Diego, Go! Safari Rescue | 209758 | [209758-go-diego-go-safari-rescue.json](./209758-go-diego-go-safari-rescue.json) |
 | Go, Diego, Go! Safari Rescue | 209759 | [209759-go-diego-go-safari-rescue.json](./209759-go-diego-go-safari-rescue.json) |
 | Go, Smile | 246336 | [246336-go-smile.json](./246336-go-smile.json) |
+| Go, Sprout! | 200397 | [200397-go-sprout.json](./200397-go-sprout.json) |
 | Go! Benny! | 48321 | [48321-go-benny.json](./48321-go-benny.json) |
 | Go! Birdie | 146859 | [146859-go-birdie.json](./146859-go-birdie.json) |
 | Go! Dizzy Go! | 24013 | [24013-go-dizzy-go.json](./24013-go-dizzy-go.json) |
@@ -3844,6 +3846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godland: The Fire Quest 2 | 219662 | [219662-godland-the-fire-quest-2.json](./219662-godland-the-fire-quest-2.json) |
 | Godless grove | 201609 | [201609-godless-grove.json](./201609-godless-grove.json) |
 | Godless Tactics | 132673 | [132673-godless-tactics.json](./132673-godless-tactics.json) |
+| Godless Tower | 200381 | [200381-godless-tower.json](./200381-godless-tower.json) |
 | Godlike | 133768 | [133768-godlike.json](./133768-godlike.json) |
 | Godlike Burger | 143010 | [143010-godlike-burger.json](./143010-godlike-burger.json) |
 | Godmode Epochs | 252688 | [252688-godmode-epochs.json](./252688-godmode-epochs.json) |
@@ -5017,6 +5020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Tanks: WW2 Tank Games | 249327 | [249327-grand-tanks-ww2-tank-games.json](./249327-grand-tanks-ww2-tank-games.json) |
 | Grand Taxi Auto | 329571 | [329571-grand-taxi-auto.json](./329571-grand-taxi-auto.json) |
 | Grand Theft Auto | 44870 | [44870-grand-theft-auto.json](./44870-grand-theft-auto.json) |
+| Grand Theft Auto 2 | 200401 | [200401-grand-theft-auto-2.json](./200401-grand-theft-auto-2.json) |
 | Grand Theft Auto 2 | 200403 | [200403-grand-theft-auto-2.json](./200403-grand-theft-auto-2.json) |
 | Grand Theft Auto 64 | 198246 | [198246-grand-theft-auto-64.json](./198246-grand-theft-auto-64.json) |
 | Grand Theft Auto III: 10 Year Anniversary Edition | 22930 | [22930-grand-theft-auto-iii-10-year-anniversary-edition.json](./22930-grand-theft-auto-iii-10-year-anniversary-edition.json) |
