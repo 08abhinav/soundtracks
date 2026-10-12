@@ -1092,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangokushi V: Power Up Kit | 350381 | [350381-sangokushi-v-power-up-kit.json](./350381-sangokushi-v-power-up-kit.json) |
 | Sangokushi VIII: Power Up Kit | 350379 | [350379-sangokushi-viii-power-up-kit.json](./350379-sangokushi-viii-power-up-kit.json) |
 | Sangokushi: Chuugen no Hasha | 64448 | [64448-sangokushi-chuugen-no-hasha.json](./64448-sangokushi-chuugen-no-hasha.json) |
+| Sangokushi: Shinsen | 218061 | [218061-sangokushi-shinsen.json](./218061-sangokushi-shinsen.json) |
 | Sangokushi: Strategy Edition | 188391 | [188391-sangokushi-strategy-edition.json](./188391-sangokushi-strategy-edition.json) |
 | SangRaciner | 244265 | [244265-sangraciner.json](./244265-sangraciner.json) |
 | Sàngshī Wéichéng: Límíng | 369184 | [369184-sangshi-weicheng-liming.json](./369184-sangshi-weicheng-liming.json) |
@@ -4528,6 +4529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shady Wars | 260764 | [260764-shady-wars.json](./260764-shady-wars.json) |
 | Shady's Poopong: 22nd Anniversary Edition | 60618 | [60618-shadys-poopong-22nd-anniversary-edition.json](./60618-shadys-poopong-22nd-anniversary-edition.json) |
 | Shady's Stone Smash | 63567 | [63567-shadys-stone-smash.json](./63567-shadys-stone-smash.json) |
+| Shaftdiver | 218090 | [218090-shaftdiver.json](./218090-shaftdiver.json) |
 | Shafted | 211692 | [211692-shafted.json](./211692-shafted.json) |
 | Shafted | 358931 | [358931-shafted.json](./358931-shafted.json) |
 | Shagster Online 2 | 176812 | [176812-shagster-online-2.json](./176812-shagster-online-2.json) |
@@ -22051,6 +22053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suske en Wiske: De Texas Rakkers | 305432 | [305432-suske-en-wiske-de-texas-rakkers.json](./305432-suske-en-wiske-de-texas-rakkers.json) |
 | Suspect: The Run! | 235143 | [235143-suspect-the-run.json](./235143-suspect-the-run.json) |
 | Suspecto | 374193 | [374193-suspecto.json](./374193-suspecto.json) |
+| Suspects: Mobile Detective | 218056 | [218056-suspects-mobile-detective.json](./218056-suspects-mobile-detective.json) |
 | Suspects: Mystery Mansion | 143591 | [143591-suspects-mystery-mansion.json](./143591-suspects-mystery-mansion.json) |
 | Suspended Animation | 292403 | [292403-suspended-animation.json](./292403-suspended-animation.json) |
 | Suspended in Dusk | 256814 | [256814-suspended-in-dusk.json](./256814-suspended-in-dusk.json) |
