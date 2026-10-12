@@ -1551,6 +1551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | United States Capitals: Breakthrough Gaming Activity Center | 221976 | [221976-united-states-capitals-breakthrough-gaming-activity-center.json](./221976-united-states-capitals-breakthrough-gaming-activity-center.json) |
 | United States of America Jigsaw Puzzles | 278502 | [278502-united-states-of-america-jigsaw-puzzles.json](./278502-united-states-of-america-jigsaw-puzzles.json) |
 | United States Quiz | 92820 | [92820-united-states-quiz.json](./92820-united-states-quiz.json) |
+| United We Chess | 181635 | [181635-united-we-chess.json](./181635-united-we-chess.json) |
 | Unitied | 126373 | [126373-unitied.json](./126373-unitied.json) |
 | uniTower | 121693 | [121693-unitower.json](./121693-unitower.json) |
 | Unity Heroes | 297635 | [297635-unity-heroes.json](./297635-unity-heroes.json) |
@@ -2373,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utopia no Soubou | 378191 | [378191-utopia-no-soubou.json](./378191-utopia-no-soubou.json) |
 | Utopia Process | 153390 | [153390-utopia-process.json](./153390-utopia-process.json) |
 | Utopia: Birth of The Heroes | 388394 | [388394-utopia-birth-of-the-heroes.json](./388394-utopia-birth-of-the-heroes.json) |
+| Utopia: Origin | 182176 | [182176-utopia-origin.json](./182176-utopia-origin.json) |
 | Utopia: The Creation of a Nation | 12231 | [12231-utopia-the-creation-of-a-nation.json](./12231-utopia-the-creation-of-a-nation.json) |
 | Utopian Mining | 408744 | [408744-utopian-mining.json](./408744-utopian-mining.json) |
 | Utopias: Navigating Without Coordinates | 132635 | [132635-utopias-navigating-without-coordinates.json](./132635-utopias-navigating-without-coordinates.json) |
