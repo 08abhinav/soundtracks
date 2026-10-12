@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T20:54:48.155Z",
-  "total_soundtracks": 1557,
+  "generated_at": "2026-10-12T20:55:02.416Z",
+  "total_soundtracks": 1558,
   "games": [
     {
       "igdb_id": 7522,
@@ -17269,6 +17269,20 @@
           "spotify_url": "https://open.spotify.com/album/4DPKq0deFUNjGT9ESuY9HB",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 27310,
+      "game_name": "We Were Here",
+      "game_url": "https://ostdb.net/games/we-were-here",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/21/9b/6b/219b6b5d-46fc-6b09-a1ab-71632e2c56ff/artwork.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "We Were Here (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4yXQDurlThMV5D1DaAZPtq",
+          "apple_music_url": "https://music.apple.com/us/album/we-were-here-original-game-soundtrack/1491055553",
+          "album_link_url": "https://album.link/i/1491055553"
         }
       ]
     },
