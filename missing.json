@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T21:11:47.535Z",
-  "total_missing": 203312,
+  "generated_at": "2026-10-12T21:17:49.737Z",
+  "total_missing": 203308,
   "games": [
     {
       "igdb_id": 191680,
@@ -87396,11 +87396,6 @@
       "igdb_id": 305472,
       "game_name": "Before Your Eyes",
       "file": "missing/B/305472-before-your-eyes.json"
-    },
-    {
-      "igdb_id": 91477,
-      "game_name": "Before Your Eyes",
-      "file": "missing/B/91477-before-your-eyes.json"
     },
     {
       "igdb_id": 179700,
@@ -510318,11 +510313,6 @@
       "file": "missing/M/13790-mass-effect-2-firewalker-pack.json"
     },
     {
-      "igdb_id": 782,
-      "game_name": "Mass Effect 2: Lair of the Shadow Broker",
-      "file": "missing/M/782-mass-effect-2-lair-of-the-shadow-broker.json"
-    },
-    {
       "igdb_id": 783,
       "game_name": "Mass Effect 2: Overlord",
       "file": "missing/M/783-mass-effect-2-overlord.json"
@@ -607271,11 +607261,6 @@
       "igdb_id": 173172,
       "game_name": "Outer Wilds: Archaeologist Edition",
       "file": "missing/O/173172-outer-wilds-archaeologist-edition.json"
-    },
-    {
-      "igdb_id": 146761,
-      "game_name": "Outer Wilds: Echoes of the Eye",
-      "file": "missing/O/146761-outer-wilds-echoes-of-the-eye.json"
     },
     {
       "igdb_id": 350505,
@@ -915098,6 +915083,11 @@
       "file": "missing/T/70402-tonari-no-princess-rolfee.json"
     },
     {
+      "igdb_id": 184324,
+      "game_name": "Tonari no Totoro",
+      "file": "missing/T/184324-tonari-no-totoro.json"
+    },
+    {
       "igdb_id": 400960,
       "game_name": "Tonarino",
       "file": "missing/T/400960-tonarino.json"
@@ -929031,11 +929021,6 @@
       "igdb_id": 206749,
       "game_name": "Transformers: Decepticons",
       "file": "missing/T/206749-transformers-decepticons.json"
-    },
-    {
-      "igdb_id": 11175,
-      "game_name": "Transformers: Devastation",
-      "file": "missing/T/11175-transformers-devastation.json"
     },
     {
       "igdb_id": 58345,
@@ -999646,11 +999631,6 @@
       "igdb_id": 19859,
       "game_name": "XCOM 2: Shen's Last Gift",
       "file": "missing/X/19859-xcom-2-shens-last-gift.json"
-    },
-    {
-      "igdb_id": 37060,
-      "game_name": "XCOM 2: War of the Chosen",
-      "file": "missing/X/37060-xcom-2-war-of-the-chosen.json"
     },
     {
       "igdb_id": 159035,
