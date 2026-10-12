@@ -1211,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RanDungeon | 338856 | [338856-randungeon.json](./338856-randungeon.json) |
 | Randy in Sokobanland | 364357 | [364357-randy-in-sokobanland.json](./364357-randy-in-sokobanland.json) |
 | Randy the Racoon | 345061 | [345061-randy-the-racoon.json](./345061-randy-the-racoon.json) |
+| Randy's Soccer Quest | 180511 | [180511-randys-soccer-quest.json](./180511-randys-soccer-quest.json) |
 | Rangarok End Girls | 309357 | [309357-rangarok-end-girls.json](./309357-rangarok-end-girls.json) |
 | RangBi | 297720 | [297720-rangbi.json](./297720-rangbi.json) |
 | Range Ball | 104056 | [104056-range-ball.json](./104056-range-ball.json) |
@@ -2218,6 +2219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reborn in Sin | 157000 | [157000-reborn-in-sin.json](./157000-reborn-in-sin.json) |
 | Reborn in the toilet | 359548 | [359548-reborn-in-the-toilet.json](./359548-reborn-in-the-toilet.json) |
 | Reborn in Wild City | 111073 | [111073-reborn-in-wild-city.json](./111073-reborn-in-wild-city.json) |
+| Reborn Irrelevant | 180534 | [180534-reborn-irrelevant.json](./180534-reborn-irrelevant.json) |
 | Reborn Online | 135807 | [135807-reborn-online.json](./135807-reborn-online.json) |
 | Reborn Protocol | 249088 | [249088-reborn-protocol.json](./249088-reborn-protocol.json) |
 | Reborn Souls | 201589 | [201589-reborn-souls.json](./201589-reborn-souls.json) |
@@ -4427,6 +4429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Retro | 182178 | [182178-rhythm-retro.json](./182178-rhythm-retro.json) |
 | Rhythm Reunion | 295308 | [295308-rhythm-reunion.json](./295308-rhythm-reunion.json) |
 | Rhythm Rewind | 177995 | [177995-rhythm-rewind.json](./177995-rhythm-rewind.json) |
+| Rhythm Road | 180540 | [180540-rhythm-road.json](./180540-rhythm-road.json) |
 | Rhythm Stars Climbing | 157196 | [157196-rhythm-stars-climbing.json](./157196-rhythm-stars-climbing.json) |
 | Rhythm Station | 277853 | [277853-rhythm-station.json](./277853-rhythm-station.json) |
 | Rhythm Stones | 223609 | [223609-rhythm-stones.json](./223609-rhythm-stones.json) |
@@ -7694,6 +7697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruin or Victory | 190926 | [190926-ruin-or-victory.json](./190926-ruin-or-victory.json) |
 | Ruin Raiders | 132787 | [132787-ruin-raiders.json](./132787-ruin-raiders.json) |
 | Ruin: Chapter 0 | 400981 | [400981-ruin-chapter-0.json](./400981-ruin-chapter-0.json) |
+| Ruin's Hold | 180553 | [180553-ruins-hold.json](./180553-ruins-hold.json) |
 | Ruina | 373073 | [373073-ruina.json](./373073-ruina.json) |
 | Ruina Remake | 234152 | [234152-ruina-remake.json](./234152-ruina-remake.json) |
 | Ruina: Haito no Monogatari | 152475 | [152475-ruina-haito-no-monogatari.json](./152475-ruina-haito-no-monogatari.json) |
