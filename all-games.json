@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T12:06:14.465Z",
-  "total_soundtracks": 1523,
+  "generated_at": "2026-10-12T12:06:27.216Z",
+  "total_soundtracks": 1524,
   "games": [
     {
       "igdb_id": 7522,
@@ -11869,6 +11869,20 @@
           "spotify_url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW",
           "apple_music_url": "https://music.apple.com/us/album/the-music-of-red-dead-redemption-2-original-soundtrack/1466175399",
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 3735,
+      "game_name": "Red Dead Redemption: Undead Nightmare",
+      "game_url": "https://ostdb.net/games/red-dead-redemption-undead-nightmare",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8b/bc/20/8bbc2003-1478-5915-9f49-2583f2e44df7/859704836428.png/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Red Dead Redemption: Undead Nightmare Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2RVAztnGDcmO51LE7YBohk",
+          "apple_music_url": "https://music.apple.com/us/album/red-dead-redemption-undead-nightmare-original-soundtrack/1655222747",
+          "album_link_url": "https://album.link/i/1655222747"
         }
       ]
     },
