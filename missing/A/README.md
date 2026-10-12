@@ -5665,6 +5665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancestral | 318397 | [318397-ancestral.json](./318397-ancestral.json) |
 | Ancestral Hunter | 294026 | [294026-ancestral-hunter.json](./294026-ancestral-hunter.json) |
 | Anchor | 375444 | [375444-anchor.json](./375444-anchor.json) |
+| Anchor Club | 187184 | [187184-anchor-club.json](./187184-anchor-club.json) |
 | Anchor Up | 166050 | [166050-anchor-up.json](./166050-anchor-up.json) |
 | Anchor-13 | 408047 | [408047-anchor-13.json](./408047-anchor-13.json) |
 | Anchored Alone | 408269 | [408269-anchored-alone.json](./408269-anchored-alone.json) |
@@ -8163,6 +8164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archibald's Adventures | 33046 | [33046-archibalds-adventures.json](./33046-archibalds-adventures.json) |
 | Archie: Riverdale Rescue | 186060 | [186060-archie-riverdale-rescue.json](./186060-archie-riverdale-rescue.json) |
 | Archipelagates | 258224 | [258224-archipelagates.json](./258224-archipelagates.json) |
+| Archipelago | 187171 | [187171-archipelago.json](./187171-archipelago.json) |
 | Archipelago | 201184 | [201184-archipelago.json](./201184-archipelago.json) |
 | Archipelago | 301364 | [301364-archipelago.json](./301364-archipelago.json) |
 | Archipelago | 303100 | [303100-archipelago.json](./303100-archipelago.json) |
@@ -8879,6 +8881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around Us | 226230 | [226230-around-us.json](./226230-around-us.json) |
 | Aroya Knight | 389681 | [389681-aroya-knight.json](./389681-aroya-knight.json) |
 | Arpiel Online | 56466 | [56466-arpiel-online.json](./56466-arpiel-online.json) |
+| Arpsic | 187176 | [187176-arpsic.json](./187176-arpsic.json) |
 | Arran: The Book of Heroes | 172519 | [172519-arran-the-book-of-heroes.json](./172519-arran-the-book-of-heroes.json) |
 | Arranged | 118798 | [118798-arranged.json](./118798-arranged.json) |
 | Arrapha | 136229 | [136229-arrapha.json](./136229-arrapha.json) |
