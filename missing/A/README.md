@@ -6444,6 +6444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annihilator Tank | 145244 | [145244-annihilator-tank.json](./145244-annihilator-tank.json) |
 | Annihilith Of Abhorration | 271293 | [271293-annihilith-of-abhorration.json](./271293-annihilith-of-abhorration.json) |
 | Anniversary Collection Arcade Classics | 116390 | [116390-anniversary-collection-arcade-classics.json](./116390-anniversary-collection-arcade-classics.json) |
+| Anniversary no Kuni no Alice: Wonderful Wonder World | 218641 | [218641-anniversary-no-kuni-no-alice-wonderful-wonder-world.json](./218641-anniversary-no-kuni-no-alice-wonderful-wonder-world.json) |
 | Anno 117: Pax Romana - Blooming Cities Pack | 408893 | [408893-anno-117-pax-romana-blooming-cities-pack.json](./408893-anno-117-pax-romana-blooming-cities-pack.json) |
 | Anno 117: Pax Romana - Gold Edition | 377778 | [377778-anno-117-pax-romana-gold-edition.json](./377778-anno-117-pax-romana-gold-edition.json) |
 | Anno 117: Pax Romana - Marvellous Mosaic Pack | 408894 | [408894-anno-117-pax-romana-marvellous-mosaic-pack.json](./408894-anno-117-pax-romana-marvellous-mosaic-pack.json) |
@@ -9766,6 +9767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Frontier Online | 403629 | [403629-astral-frontier-online.json](./403629-astral-frontier-online.json) |
 | Astral Gate | 294043 | [294043-astral-gate.json](./294043-astral-gate.json) |
 | Astral Green | 184079 | [184079-astral-green.json](./184079-astral-green.json) |
+| Astral Guard | 218640 | [218640-astral-guard.json](./218640-astral-guard.json) |
 | Astral Guardian | 243600 | [243600-astral-guardian.json](./243600-astral-guardian.json) |
 | Astral Guardians | 303188 | [303188-astral-guardians.json](./303188-astral-guardians.json) |
 | Astral Heroes | 32858 | [32858-astral-heroes.json](./32858-astral-heroes.json) |
