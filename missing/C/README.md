@@ -3314,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cereal Cafe | 351799 | [351799-cereal-cafe.json](./351799-cereal-cafe.json) |
 | Cereal Killer | 326634 | [326634-cereal-killer.json](./326634-cereal-killer.json) |
 | Cereal Soup | 99128 | [99128-cereal-soup.json](./99128-cereal-soup.json) |
+| Cerebral | 215841 | [215841-cerebral.json](./215841-cerebral.json) |
 | Cerebrawl | 70367 | [70367-cerebrawl.json](./70367-cerebrawl.json) |
 | Cerebrum Operation | 217261 | [217261-cerebrum-operation.json](./217261-cerebrum-operation.json) |
 | Cerebrum Remastered | 401771 | [401771-cerebrum-remastered.json](./401771-cerebrum-remastered.json) |
@@ -11558,6 +11559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cry of Athena | 158506 | [158506-cry-of-athena.json](./158506-cry-of-athena.json) |
 | Cry of Fear | 3084 | [3084-cry-of-fear.json](./3084-cry-of-fear.json) |
 | Cry of Monster | 367403 | [367403-cry-of-monster.json](./367403-cry-of-monster.json) |
+| Cryaxion | 215862 | [215862-cryaxion.json](./215862-cryaxion.json) |
 | Cryep | 98751 | [98751-cryep.json](./98751-cryep.json) |
 | Cryght | 188029 | [188029-cryght.json](./188029-cryght.json) |
 | Crying Alone | 277781 | [277781-crying-alone.json](./277781-crying-alone.json) |
