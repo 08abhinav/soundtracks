@@ -437,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Skills | 316939 | [316939-vampire-skills.json](./316939-vampire-skills.json) |
 | Vampire Slasher Hero | 208955 | [208955-vampire-slasher-hero.json](./208955-vampire-slasher-hero.json) |
 | Vampire Slayer | 229227 | [229227-vampire-slayer.json](./229227-vampire-slayer.json) |
+| Vampire Slayer: New Blood | 192618 | [192618-vampire-slayer-new-blood.json](./192618-vampire-slayer-new-blood.json) |
 | Vampire Slayer: The Resurrection | 231065 | [231065-vampire-slayer-the-resurrection.json](./231065-vampire-slayer-the-resurrection.json) |
 | Vampire Survivors: 1.5 | 252864 | [252864-vampire-survivors-1-5.json](./252864-vampire-survivors-1-5.json) |
 | Vampire Survivors: Chaos Update | 237316 | [237316-vampire-survivors-chaos-update.json](./237316-vampire-survivors-chaos-update.json) |
@@ -1495,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village Supermarket Simulator: Old Times Edition | 370800 | [370800-village-supermarket-simulator-old-times-edition.json](./370800-village-supermarket-simulator-old-times-edition.json) |
 | Village Tale | 346698 | [346698-village-tale.json](./346698-village-tale.json) |
 | Village Tanuki | 185138 | [185138-village-tanuki.json](./185138-village-tanuki.json) |
+| Village the Siberia | 192645 | [192645-village-the-siberia.json](./192645-village-the-siberia.json) |
 | Village Tycoon: Farm City Simulator | 275035 | [275035-village-tycoon-farm-city-simulator.json](./275035-village-tycoon-farm-city-simulator.json) |
 | VillageBlade | 192875 | [192875-villageblade.json](./192875-villageblade.json) |
 | Villager | 178521 | [178521-villager.json](./178521-villager.json) |
