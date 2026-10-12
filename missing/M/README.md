@@ -695,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Chess | 413901 | [413901-magic-chess.json](./413901-magic-chess.json) |
 | Magic Chess Online | 138575 | [138575-magic-chess-online.json](./138575-magic-chess-online.json) |
 | Magic Chess: Go Go | 330884 | [330884-magic-chess-go-go.json](./330884-magic-chess-go-go.json) |
+| Magic Chou Party: Marisa to Marisa no Gensou Hanabi | 207040 | [207040-magic-chou-party-marisa-to-marisa-no-gensou-hanabi.json](./207040-magic-chou-party-marisa-to-marisa-no-gensou-hanabi.json) |
 | Magic Christmas Escape | 315607 | [315607-magic-christmas-escape.json](./315607-magic-christmas-escape.json) |
 | Magic Christmas Escape 2 | 315611 | [315611-magic-christmas-escape-2.json](./315611-magic-christmas-escape-2.json) |
 | Magic Christmas Escape 3 | 315638 | [315638-magic-christmas-escape-3.json](./315638-magic-christmas-escape-3.json) |
@@ -11465,6 +11466,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motto Shiritai Nippon no Meijou | 261369 | [261369-motto-shiritai-nippon-no-meijou.json](./261369-motto-shiritai-nippon-no-meijou.json) |
 | Motto! SoniComi | 93600 | [93600-motto-sonicomi.json](./93600-motto-sonicomi.json) |
 | Motto! Stitch! DS: Rhythm de Rakugaki Daisakusen | 98569 | [98569-motto-stitch-ds-rhythm-de-rakugaki-daisakusen.json](./98569-motto-stitch-ds-rhythm-de-rakugaki-daisakusen.json) |
+| Motto!? Atai no Gensoukyou | 207037 | [207037-motto-atai-no-gensoukyou.json](./207037-motto-atai-no-gensoukyou.json) |
+| Motto!? Atai no Gensoukyou alpha | 207038 | [207038-motto-atai-no-gensoukyou-alpha.json](./207038-motto-atai-no-gensoukyou-alpha.json) |
 | Motto!? Fushigi no Gensoukyou Plus: The Dungeon of Dreams and Magic | 206938 | [206938-motto-fushigi-no-gensoukyou-plus-the-dungeon-of-dreams-and-magic.json](./206938-motto-fushigi-no-gensoukyou-plus-the-dungeon-of-dreams-and-magic.json) |
 | Motto!? Fushigi no Gensoukyou Prologue: Chijou kara no Kyoui | 206939 | [206939-motto-fushigi-no-gensoukyou-prologue-chijou-kara-no-kyoui.json](./206939-motto-fushigi-no-gensoukyou-prologue-chijou-kara-no-kyoui.json) |
 | Motto!? Fushigi no Gensoukyou: Under the Moonlight | 206935 | [206935-motto-fushigi-no-gensoukyou-under-the-moonlight.json](./206935-motto-fushigi-no-gensoukyou-under-the-moonlight.json) |
@@ -11496,6 +11499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motus Paintball VR | 336593 | [336593-motus-paintball-vr.json](./336593-motus-paintball-vr.json) |
 | Moubootaur Legends | 177425 | [177425-moubootaur-legends.json](./177425-moubootaur-legends.json) |
 | Mouja | 197958 | [197958-mouja.json](./197958-mouja.json) |
+| Moujya | 207029 | [207029-moujya.json](./207029-moujya.json) |
 | Mould | 351187 | [351187-mould.json](./351187-mould.json) |
 | Moulder | 375402 | [375402-moulder.json](./375402-moulder.json) |
 | Mouldy Old Void | 303020 | [303020-mouldy-old-void.json](./303020-mouldy-old-void.json) |
@@ -13225,6 +13229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pony: Equestria Girls - Friendship Games: Motocross | 264225 | [264225-my-little-pony-equestria-girls-friendship-games-motocross.json](./264225-my-little-pony-equestria-girls-friendship-games-motocross.json) |
 | My Little Pony: Fighting is Magic | 137023 | [137023-my-little-pony-fighting-is-magic.json](./137023-my-little-pony-fighting-is-magic.json) |
 | My Little Pony: Fighting is Magic - Tribute Edition | 146263 | [146263-my-little-pony-fighting-is-magic-tribute-edition.json](./146263-my-little-pony-fighting-is-magic-tribute-edition.json) |
+| My Little Pony: Friendship is Magic | 207046 | [207046-my-little-pony-friendship-is-magic.json](./207046-my-little-pony-friendship-is-magic.json) |
 | My Little Pony: Grand Puzzleventure | 220097 | [220097-my-little-pony-grand-puzzleventure.json](./220097-my-little-pony-grand-puzzleventure.json) |
 | My Little Pony: Magic Garden | 282122 | [282122-my-little-pony-magic-garden.json](./282122-my-little-pony-magic-garden.json) |
 | My Little Pony: Twilight Sparkle, Teacher for a Day | 79615 | [79615-my-little-pony-twilight-sparkle-teacher-for-a-day.json](./79615-my-little-pony-twilight-sparkle-teacher-for-a-day.json) |
