@@ -3245,6 +3245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Superstar Soccer 99 | 49886 | [49886-international-superstar-soccer-99.json](./49886-international-superstar-soccer-99.json) |
 | International Superstar Soccer Advance | 49280 | [49280-international-superstar-soccer-advance.json](./49280-international-superstar-soccer-advance.json) |
 | International Superstar Soccer Deluxe | 9862 | [9862-international-superstar-soccer-deluxe.json](./9862-international-superstar-soccer-deluxe.json) |
+| International Table Tennis | 194251 | [194251-international-table-tennis.json](./194251-international-table-tennis.json) |
 | International Tennis | 70039 | [70039-international-tennis.json](./70039-international-tennis.json) |
 | International Tennis Tour | 44453 | [44453-international-tennis-tour.json](./44453-international-tennis-tour.json) |
 | International Toe Stubber | 307676 | [307676-international-toe-stubber.json](./307676-international-toe-stubber.json) |
