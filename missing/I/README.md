@@ -443,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I, For One, Welcome Our New Lady Knight Overlords! | 178506 | [178506-i-for-one-welcome-our-new-lady-knight-overlords.json](./178506-i-for-one-welcome-our-new-lady-knight-overlords.json) |
 | I, Robot | 335831 | [335831-i-robot.json](./335831-i-robot.json) |
 | I, Zombie | 9879 | [9879-i-zombie.json](./9879-i-zombie.json) |
+| I.A.G. Alpha | 216432 | [216432-i-a-g-alpha.json](./216432-i-a-g-alpha.json) |
 | I.C.O. | 178660 | [178660-i-c-o.json](./178660-i-c-o.json) |
 | I.C.U.P.S. | 30212 | [30212-i-c-u-p-s.json](./30212-i-c-u-p-s.json) |
 | I.Cartel | 115798 | [115798-i-cartel.json](./115798-i-cartel.json) |
@@ -1083,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Squares | 414840 | [414840-idle-squares.json](./414840-idle-squares.json) |
 | Idle Squire | 391172 | [391172-idle-squire.json](./391172-idle-squire.json) |
 | Idle Startup | 408019 | [408019-idle-startup.json](./408019-idle-startup.json) |
+| Idle Startup Tycoon | 216413 | [216413-idle-startup-tycoon.json](./216413-idle-startup-tycoon.json) |
 | Idle Stellar | 262911 | [262911-idle-stellar.json](./262911-idle-stellar.json) |
 | Idle Strikers 1945 | 303181 | [303181-idle-strikers-1945.json](./303181-idle-strikers-1945.json) |
 | Idle Submarine | 255747 | [255747-idle-submarine.json](./255747-idle-submarine.json) |
@@ -3551,6 +3553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Investigate | 229017 | [229017-investigate.json](./229017-investigate.json) |
 | Investigating Alien Cats | 368591 | [368591-investigating-alien-cats.json](./368591-investigating-alien-cats.json) |
 | Investigation Stories: Gunsound | 369552 | [369552-investigation-stories-gunsound.json](./369552-investigation-stories-gunsound.json) |
+| Investigation Stories: Windsound | 216395 | [216395-investigation-stories-windsound.json](./216395-investigation-stories-windsound.json) |
 | Investigator | 32526 | [32526-investigator.json](./32526-investigator.json) |
 | Investigator and the Case of the Unconventional Weapon | 179660 | [179660-investigator-and-the-case-of-the-unconventional-weapon.json](./179660-investigator-and-the-case-of-the-unconventional-weapon.json) |
 | Investigator Trials | 289229 | [289229-investigator-trials.json](./289229-investigator-trials.json) |
