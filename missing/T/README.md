@@ -1984,6 +1984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tea for the King | 238103 | [238103-tea-for-the-king.json](./238103-tea-for-the-king.json) |
 | Tea for the Soul | 386497 | [386497-tea-for-the-soul.json](./386497-tea-for-the-soul.json) |
 | Tea Society of a Witch | 72664 | [72664-tea-society-of-a-witch.json](./72664-tea-society-of-a-witch.json) |
+| Tea Time | 195964 | [195964-tea-time.json](./195964-tea-time.json) |
 | Tea Time | 359406 | [359406-tea-time.json](./359406-tea-time.json) |
 | Tea Time | 58894 | [58894-tea-time.json](./58894-tea-time.json) |
 | Tea With Embalming Fluid | 179016 | [179016-tea-with-embalming-fluid.json](./179016-tea-with-embalming-fluid.json) |
@@ -5001,6 +5002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crew: Wild Run Edition | 166227 | [166227-the-crew-wild-run-edition.json](./166227-the-crew-wild-run-edition.json) |
 | The Cricket C | 230301 | [230301-the-cricket-c.json](./230301-the-cricket-c.json) |
 | The Criminal | 383398 | [383398-the-criminal.json](./383398-the-criminal.json) |
+| The Crims | 195999 | [195999-the-crims.json](./195999-the-crims.json) |
 | The Crimson Crown | 15532 | [15532-the-crimson-crown.json](./15532-the-crimson-crown.json) |
 | The Crimson Debt | 290408 | [290408-the-crimson-debt.json](./290408-the-crimson-debt.json) |
 | The Crimson Diamond: Chapter 1 | 129722 | [129722-the-crimson-diamond-chapter-1.json](./129722-the-crimson-diamond-chapter-1.json) |
@@ -12441,6 +12443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World's Hardest Game | 141086 | [141086-the-worlds-hardest-game.json](./141086-the-worlds-hardest-game.json) |
 | The World's Hardest Game 2 | 224510 | [224510-the-worlds-hardest-game-2.json](./224510-the-worlds-hardest-game-2.json) |
 | The World's Hardest Game 3D | 169757 | [169757-the-worlds-hardest-game-3d.json](./169757-the-worlds-hardest-game-3d.json) |
+| The World's Hardest Game 3D 2 | 195966 | [195966-the-worlds-hardest-game-3d-2.json](./195966-the-worlds-hardest-game-3d-2.json) |
 | The World's Hardest Game 3D Nostalgia | 412509 | [412509-the-worlds-hardest-game-3d-nostalgia.json](./412509-the-worlds-hardest-game-3d-nostalgia.json) |
 | The World's Hardest Game: On Steam | 262689 | [262689-the-worlds-hardest-game-on-steam.json](./262689-the-worlds-hardest-game-on-steam.json) |
 | The Worlds Best Board Games | 51208 | [51208-the-worlds-best-board-games.json](./51208-the-worlds-best-board-games.json) |
