@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safe House | 278370 | [278370-safe-house.json](./278370-safe-house.json) |
 | Safe House | 392132 | [392132-safe-house.json](./392132-safe-house.json) |
 | Safe House | 99588 | [99588-safe-house.json](./99588-safe-house.json) |
+| Safe House Simulator | 216933 | [216933-safe-house-simulator.json](./216933-safe-house-simulator.json) |
 | Safe Journey | 175941 | [175941-safe-journey.json](./175941-safe-journey.json) |
 | Safe Not Safe | 82320 | [82320-safe-not-safe.json](./82320-safe-not-safe.json) |
 | Safe Opening Simulator | 219496 | [219496-safe-opening-simulator.json](./219496-safe-opening-simulator.json) |
@@ -866,8 +867,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Obby | 395771 | [395771-samurai-obby.json](./395771-samurai-obby.json) |
 | Samurai of Hyuga Book 5: Side Stories 11-20 | 213461 | [213461-samurai-of-hyuga-book-5-side-stories-11-20.json](./213461-samurai-of-hyuga-book-5-side-stories-11-20.json) |
 | Samurai of Hyuga Book 6 | 402539 | [402539-samurai-of-hyuga-book-6.json](./402539-samurai-of-hyuga-book-6.json) |
+| Samurai Pig : The Way of the Rooster | 216925 | [216925-samurai-pig-the-way-of-the-rooster.json](./216925-samurai-pig-the-way-of-the-rooster.json) |
 | Samurai Pizza Cats: Blast from the Past! | 332394 | [332394-samurai-pizza-cats-blast-from-the-past.json](./332394-samurai-pizza-cats-blast-from-the-past.json) |
 | Samurai Poodle | 60768 | [60768-samurai-poodle.json](./60768-samurai-poodle.json) |
+| Samurai Pussy | 216926 | [216926-samurai-pussy.json](./216926-samurai-pussy.json) |
 | Samurai Reflexion | 187980 | [187980-samurai-reflexion.json](./187980-samurai-reflexion.json) |
 | Samurai Revenge | 161219 | [161219-samurai-revenge.json](./161219-samurai-revenge.json) |
 | Samurai Revenge | 307606 | [307606-samurai-revenge.json](./307606-samurai-revenge.json) |
@@ -1145,6 +1148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanou Kaihatsu Series 4: Suiri, Kousei | 303763 | [303763-sanou-kaihatsu-series-4-suiri-kousei.json](./303763-sanou-kaihatsu-series-4-suiri-kousei.json) |
 | Sanou Kaihatsu Series 5: Meiro, Kioku | 303764 | [303764-sanou-kaihatsu-series-5-meiro-kioku.json](./303764-sanou-kaihatsu-series-5-meiro-kioku.json) |
 | Sanou Kaihatsu Series 6 Ouyou Mondai | 303766 | [303766-sanou-kaihatsu-series-6-ouyou-mondai.json](./303766-sanou-kaihatsu-series-6-ouyou-mondai.json) |
+| Sanri | 216928 | [216928-sanri.json](./216928-sanri.json) |
 | Sanrio Characters Miracle Match: Magical Onigokko | 334648 | [334648-sanrio-characters-miracle-match-magical-onigokko.json](./334648-sanrio-characters-miracle-match-magical-onigokko.json) |
 | Sanrio Characters x Tetris | 208279 | [208279-sanrio-characters-x-tetris.json](./208279-sanrio-characters-x-tetris.json) |
 | Sanrio Danshi: Watashi, Koi Wo, Shirimashita | 229031 | [229031-sanrio-danshi-watashi-koi-wo-shirimashita.json](./229031-sanrio-danshi-watashi-koi-wo-shirimashita.json) |
@@ -1561,6 +1565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Pixels | 112306 | [112306-save-the-pixels.json](./112306-save-the-pixels.json) |
 | Save the Planet | 153425 | [153425-save-the-planet.json](./153425-save-the-planet.json) |
 | Save The Planets: Meteor Storm | 263565 | [263565-save-the-planets-meteor-storm.json](./263565-save-the-planets-meteor-storm.json) |
+| Save the Princess | 216927 | [216927-save-the-princess.json](./216927-save-the-princess.json) |
 | Save the Princess? Save a Fart! | 405464 | [405464-save-the-princess-save-a-fart.json](./405464-save-the-princess-save-a-fart.json) |
 | Save the Puppy: Pet Dog Rescue | 221384 | [221384-save-the-puppy-pet-dog-rescue.json](./221384-save-the-puppy-pet-dog-rescue.json) |
 | Save the Queen | 223358 | [223358-save-the-queen.json](./223358-save-the-queen.json) |
@@ -1754,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Sand Sojourn | 266202 | [266202-scarlet-sand-sojourn.json](./266202-scarlet-sand-sojourn.json) |
 | Scarlet Skips | 398972 | [398972-scarlet-skips.json](./398972-scarlet-skips.json) |
 | Scarlet Sorceress | 382217 | [382217-scarlet-sorceress.json](./382217-scarlet-sorceress.json) |
+| Scarlet Tale | 216930 | [216930-scarlet-tale.json](./216930-scarlet-tale.json) |
 | Scarlet Thread | 290714 | [290714-scarlet-thread.json](./290714-scarlet-thread.json) |
 | Scarlet Tower | 223093 | [223093-scarlet-tower.json](./223093-scarlet-tower.json) |
 | Scarlet Wolf | 352841 | [352841-scarlet-wolf.json](./352841-scarlet-wolf.json) |
@@ -2028,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scirocco Thugs | 336515 | [336515-scirocco-thugs.json](./336515-scirocco-thugs.json) |
 | Scission | 384144 | [384144-scission.json](./384144-scission.json) |
 | Scissors and Pink Angels | 345616 | [345616-scissors-and-pink-angels.json](./345616-scissors-and-pink-angels.json) |
+| Scissors in Hell | 216931 | [216931-scissors-in-hell.json](./216931-scissors-in-hell.json) |
 | Sciware Defense | 245841 | [245841-sciware-defense.json](./245841-sciware-defense.json) |
 | Sclash | 143935 | [143935-sclash.json](./143935-sclash.json) |
 | Sclash: Joystick | 311713 | [311713-sclash-joystick.json](./311713-sclash-joystick.json) |
@@ -2343,6 +2350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screams from the Past | 256731 | [256731-screams-from-the-past.json](./256731-screams-from-the-past.json) |
 | Screamy Ski | 56286 | [56286-screamy-ski.json](./56286-screamy-ski.json) |
 | Scree | 236371 | [236371-scree.json](./236371-scree.json) |
+| Screech of Steel: Gladiators | 216932 | [216932-screech-of-steel-gladiators.json](./216932-screech-of-steel-gladiators.json) |
 | Screen | 300716 | [300716-screen.json](./300716-screen.json) |
 | Screen Blaster | 101548 | [101548-screen-blaster.json](./101548-screen-blaster.json) |
 | Screen Boy | 364503 | [364503-screen-boy.json](./364503-screen-boy.json) |
