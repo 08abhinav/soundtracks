@@ -235,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SacriFrogos | 390009 | [390009-sacrifrogos.json](./390009-sacrifrogos.json) |
 | Sacrilege | 61634 | [61634-sacrilege.json](./61634-sacrilege.json) |
 | Sacrilegious | 319692 | [319692-sacrilegious.json](./319692-sacrilegious.json) |
+| Sacritice | 207012 | [207012-sacritice.json](./207012-sacritice.json) |
 | Sad | 286771 | [286771-sad.json](./286771-sad.json) |
 | Sad But Ded | 185527 | [185527-sad-but-ded.json](./185527-sad-but-ded.json) |
 | Sad Ghouls | 194655 | [194655-sad-ghouls.json](./194655-sad-ghouls.json) |
@@ -6076,6 +6077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Showgunners | 210947 | [210947-showgunners.json](./210947-showgunners.json) |
 | Showgunners: Security Breach | 257677 | [257677-showgunners-security-breach.json](./257677-showgunners-security-breach.json) |
 | ShowMeSpeed | 303768 | [303768-showmespeed.json](./303768-showmespeed.json) |
+| Showrunner | 207043 | [207043-showrunner.json](./207043-showrunner.json) |
 | Showrunners | 398542 | [398542-showrunners.json](./398542-showrunners.json) |
 | Showtime 2073 | 34259 | [34259-showtime-2073.json](./34259-showtime-2073.json) |
 | Showtime Championship Boxing | 21506 | [21506-showtime-championship-boxing.json](./21506-showtime-championship-boxing.json) |
@@ -22194,6 +22196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sverigespelet | 300684 | [300684-sverigespelet.json](./300684-sverigespelet.json) |
 | Sveta Sky AI | 408200 | [408200-sveta-sky-ai.json](./408200-sveta-sky-ai.json) |
 | SVETIK | 394507 | [394507-svetik.json](./394507-svetik.json) |
+| Svetlograd | 207022 | [207022-svetlograd.json](./207022-svetlograd.json) |
 | SVG-001 Puzzle | 312687 | [312687-svg-001-puzzle.json](./312687-svg-001-puzzle.json) |
 | Svrvive: The Deus Helix | 26121 | [26121-svrvive-the-deus-helix.json](./26121-svrvive-the-deus-helix.json) |
 | Swabby | 312224 | [312224-swabby.json](./312224-swabby.json) |
@@ -22309,6 +22312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SWAT Kats: The Radical Squadron | 8068 | [8068-swat-kats-the-radical-squadron.json](./8068-swat-kats-the-radical-squadron.json) |
 | SWAT Siege | 336032 | [336032-swat-siege.json](./336032-swat-siege.json) |
 | SWAT: Target Liberty | 319 | [319-swat-target-liberty.json](./319-swat-target-liberty.json) |
+| SWAT: Urban Justice | 207004 | [207004-swat-urban-justice.json](./207004-swat-urban-justice.json) |
 | Swat! | 60557 | [60557-swat.json](./60557-swat.json) |
 | Swat! | 80805 | [80805-swat.json](./80805-swat.json) |
 | Swatch | 179177 | [179177-swatch.json](./179177-swatch.json) |
@@ -22520,6 +22524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweetie Candy Maze: Red Cherry | 359517 | [359517-sweetie-candy-maze-red-cherry.json](./359517-sweetie-candy-maze-red-cherry.json) |
 | Sweetie Candy Maze: Violet Plum | 406218 | [406218-sweetie-candy-maze-violet-plum.json](./406218-sweetie-candy-maze-violet-plum.json) |
 | Sweetie Candy Maze: White Chocolate | 392855 | [392855-sweetie-candy-maze-white-chocolate.json](./392855-sweetie-candy-maze-white-chocolate.json) |
+| Sweetopia | 207023 | [207023-sweetopia.json](./207023-sweetopia.json) |
 | SweetPea Village | 177894 | [177894-sweetpea-village.json](./177894-sweetpea-village.json) |
 | Sweets and Swipes | 259555 | [259555-sweets-and-swipes.json](./259555-sweets-and-swipes.json) |
 | Sweets Drop | 283721 | [283721-sweets-drop.json](./283721-sweets-drop.json) |
@@ -22748,6 +22753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Rule | 376075 | [376075-sword-of-rule.json](./376075-sword-of-rule.json) |
 | Sword of Saros | 40727 | [40727-sword-of-saros.json](./40727-sword-of-saros.json) |
 | Sword of Shushan | 158088 | [158088-sword-of-shushan.json](./158088-sword-of-shushan.json) |
+| Sword of Sia: Lady Sia 2 | 207006 | [207006-sword-of-sia-lady-sia-2.json](./207006-sword-of-sia-lady-sia-2.json) |
 | Sword of the Apocalypse | 389413 | [389413-sword-of-the-apocalypse.json](./389413-sword-of-the-apocalypse.json) |
 | Sword of the Berserk: Guts' Rage | 28840 | [28840-sword-of-the-berserk-guts-rage.json](./28840-sword-of-the-berserk-guts-rage.json) |
 | Sword of the Dimacreation | 109191 | [109191-sword-of-the-dimacreation.json](./109191-sword-of-the-dimacreation.json) |
