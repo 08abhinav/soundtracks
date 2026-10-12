@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R Body Adventure | 272388 | [272388-r-body-adventure.json](./272388-r-body-adventure.json) |
 | R for Revenge | 400364 | [400364-r-for-revenge.json](./400364-r-for-revenge.json) |
 | R is for Rachel | 197134 | [197134-r-is-for-rachel.json](./197134-r-is-for-rachel.json) |
+| R Line After Dark | 179455 | [179455-r-line-after-dark.json](./179455-r-line-after-dark.json) |
 | R no Shosai | 93531 | [93531-r-no-shosai.json](./93531-r-no-shosai.json) |
 | R Place Guesser | 198339 | [198339-r-place-guesser.json](./198339-r-place-guesser.json) |
 | R Wheel | 281042 | [281042-r-wheel.json](./281042-r-wheel.json) |
