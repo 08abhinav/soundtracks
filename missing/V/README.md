@@ -2006,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vizul 1: Empatia - Adventure in Nice Colors | 391232 | [391232-vizul-1-empatia-adventure-in-nice-colors.json](./391232-vizul-1-empatia-adventure-in-nice-colors.json) |
 | Vizzle | 159644 | [159644-vizzle.json](./159644-vizzle.json) |
 | Vlad Circus: Curse of Asmodeus | 337993 | [337993-vlad-circus-curse-of-asmodeus.json](./337993-vlad-circus-curse-of-asmodeus.json) |
+| Vlad Circus: Descend Into Madness | 219779 | [219779-vlad-circus-descend-into-madness.json](./219779-vlad-circus-descend-into-madness.json) |
 | Vlad the Impaler | 17309 | [17309-vlad-the-impaler.json](./17309-vlad-the-impaler.json) |
 | Vlad Voievod Dracula: Dungeons of Edirne | 272880 | [272880-vlad-voievod-dracula-dungeons-of-edirne.json](./272880-vlad-voievod-dracula-dungeons-of-edirne.json) |
 | Vlad Voievod Dracula: Episode 1 - Manhunt | 212219 | [212219-vlad-voievod-dracula-episode-1-manhunt.json](./212219-vlad-voievod-dracula-episode-1-manhunt.json) |
