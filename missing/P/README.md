@@ -4615,6 +4615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball: Our Church and Halloween RPG - Machine #1 | 208619 | [208619-pinball-our-church-and-halloween-rpg-machine-1.json](./208619-pinball-our-church-and-halloween-rpg-machine-1.json) |
 | Pinball: Our Church and Halloween RPG - Machine #2 | 213631 | [213631-pinball-our-church-and-halloween-rpg-machine-2.json](./213631-pinball-our-church-and-halloween-rpg-machine-2.json) |
 | Pinball: Our Church and Halloween RPG - Machine #3 | 213632 | [213632-pinball-our-church-and-halloween-rpg-machine-3.json](./213632-pinball-our-church-and-halloween-rpg-machine-3.json) |
+| Pinballer | 195972 | [195972-pinballer.json](./195972-pinballer.json) |
 | Pinballistik | 52654 | [52654-pinballistik.json](./52654-pinballistik.json) |
 | Pinballistik Alien Tycoon Bundle | 118858 | [118858-pinballistik-alien-tycoon-bundle.json](./118858-pinballistik-alien-tycoon-bundle.json) |
 | Pinballtoon | 289299 | [289299-pinballtoon.json](./289299-pinballtoon.json) |
@@ -9978,6 +9979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project D | 255117 | [255117-project-d.json](./255117-project-d.json) |
 | Project D | 305783 | [305783-project-d.json](./305783-project-d.json) |
 | Project D: Human Risen | 126632 | [126632-project-d-human-risen.json](./126632-project-d-human-risen.json) |
+| Project Dagger | 195993 | [195993-project-dagger.json](./195993-project-dagger.json) |
 | Project Dark | 244818 | [244818-project-dark.json](./244818-project-dark.json) |
 | Project Darkness | 326863 | [326863-project-darkness.json](./326863-project-darkness.json) |
 | Project Death Strikers | 211272 | [211272-project-death-strikers.json](./211272-project-death-strikers.json) |
@@ -10915,6 +10917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pugg | 211911 | [211911-pugg.json](./211911-pugg.json) |
 | Pugovki | 177051 | [177051-pugovki.json](./177051-pugovki.json) |
 | PUIQ: Demons | 298053 | [298053-puiq-demons.json](./298053-puiq-demons.json) |
+| Puk | 195985 | [195985-puk.json](./195985-puk.json) |
 | Puke | 277256 | [277256-puke.json](./277256-puke.json) |
 | Puke the Pirate | 268123 | [268123-puke-the-pirate.json](./268123-puke-the-pirate.json) |
 | PukePuke Demon | 103636 | [103636-pukepuke-demon.json](./103636-pukepuke-demon.json) |
@@ -11090,6 +11093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pungo | 355522 | [355522-pungo.json](./355522-pungo.json) |
 | Pungolo: A Prickly Adventure | 247964 | [247964-pungolo-a-prickly-adventure.json](./247964-pungolo-a-prickly-adventure.json) |
 | Puni the Florist | 347831 | [347831-puni-the-florist.json](./347831-puni-the-florist.json) |
+| Punihi Loader | 195983 | [195983-punihi-loader.json](./195983-punihi-loader.json) |
 | Puniru ha Kawaii Slime no Game wo "Ano Game" de Tsukuttemita Keredo, Hatashite Anata ha Clear Dekirunoka? | 326577 | [326577-puniru-ha-kawaii-slime-no-game-wo-ano-game-de-tsukuttemita-keredo-hatashite-anata-ha-clear-dekirunoka.json](./326577-puniru-ha-kawaii-slime-no-game-wo-ano-game-de-tsukuttemita-keredo-hatashite-anata-ha-clear-dekirunoka.json) |
 | Punirunes | 370299 | [370299-punirunes.json](./370299-punirunes.json) |
 | Punish Me | 385255 | [385255-punish-me.json](./385255-punish-me.json) |
