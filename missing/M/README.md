@@ -1392,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid Hunter | 235462 | [235462-maid-hunter.json](./235462-maid-hunter.json) |
 | Maid in Witch Life!: Yakata de Hajimaru H na Miryou Seikatsu | 194633 | [194633-maid-in-witch-life-yakata-de-hajimaru-h-na-miryou-seikatsu.json](./194633-maid-in-witch-life-yakata-de-hajimaru-h-na-miryou-seikatsu.json) |
 | Maid Knight Alicia | 199089 | [199089-maid-knight-alicia.json](./199089-maid-knight-alicia.json) |
+| Maid Made Maze | 204243 | [204243-maid-made-maze.json](./204243-maid-made-maze.json) |
 | Maid Madness | 130340 | [130340-maid-madness.json](./130340-maid-madness.json) |
 | Maid Mansion | 25826 | [25826-maid-mansion.json](./25826-maid-mansion.json) |
 | Maid Moving Boxes | 376447 | [376447-maid-moving-boxes.json](./376447-maid-moving-boxes.json) |
@@ -1828,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man of the World | 156074 | [156074-man-of-the-world.json](./156074-man-of-the-world.json) |
 | Man of War | 62287 | [62287-man-of-war.json](./62287-man-of-war.json) |
 | Man of War II: Chains of Command | 73835 | [73835-man-of-war-ii-chains-of-command.json](./73835-man-of-war-ii-chains-of-command.json) |
+| Man or Muppet | 204238 | [204238-man-or-muppet.json](./204238-man-or-muppet.json) |
 | Man or Vampire | 112264 | [112264-man-or-vampire.json](./112264-man-or-vampire.json) |
 | Man Overboard! | 242454 | [242454-man-overboard.json](./242454-man-overboard.json) |
 | Man Sa Yarbah Al Malyoon | 301363 | [301363-man-sa-yarbah-al-malyoon.json](./301363-man-sa-yarbah-al-malyoon.json) |
@@ -4507,6 +4509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot 3 Kuwagata Version | 76575 | [76575-medarot-3-kuwagata-version.json](./76575-medarot-3-kuwagata-version.json) |
 | Medarot 3 Parts Collection: Z Kara no Chousenjou | 92536 | [92536-medarot-3-parts-collection-z-kara-no-chousenjou.json](./92536-medarot-3-parts-collection-z-kara-no-chousenjou.json) |
 | Medarot 4: Kabuto Version | 91532 | [91532-medarot-4-kabuto-version.json](./91532-medarot-4-kabuto-version.json) |
+| Medarot 4: Kuwagata Version | 204235 | [204235-medarot-4-kuwagata-version.json](./204235-medarot-4-kuwagata-version.json) |
 | Medarot 5: Susutake-mura no Tenkousei - Kuwagata Version | 91534 | [91534-medarot-5-susutake-mura-no-tenkousei-kuwagata-version.json](./91534-medarot-5-susutake-mura-no-tenkousei-kuwagata-version.json) |
 | Medarot 7: Kabuto Version | 138121 | [138121-medarot-7-kabuto-version.json](./138121-medarot-7-kabuto-version.json) |
 | Medarot 7: Kuwagata Version | 83882 | [83882-medarot-7-kuwagata-version.json](./83882-medarot-7-kuwagata-version.json) |
@@ -4519,6 +4522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot Classics Plus Kabuto Version | 136832 | [136832-medarot-classics-plus-kabuto-version.json](./136832-medarot-classics-plus-kabuto-version.json) |
 | Medarot DS Kuwagata | 229104 | [229104-medarot-ds-kuwagata.json](./229104-medarot-ds-kuwagata.json) |
 | Medarot DS: Kabuto Version | 67687 | [67687-medarot-ds-kabuto-version.json](./67687-medarot-ds-kabuto-version.json) |
+| Medarot DS: Kuwagata Version | 204249 | [204249-medarot-ds-kuwagata-version.json](./204249-medarot-ds-kuwagata-version.json) |
 | Medarot G: Kabuto Version | 188653 | [188653-medarot-g-kabuto-version.json](./188653-medarot-g-kabuto-version.json) |
 | Medarot Girls Mission Kuwagata Ver. | 222459 | [222459-medarot-girls-mission-kuwagata-ver.json](./222459-medarot-girls-mission-kuwagata-ver.json) |
 | Medarot Kabuto Version | 55145 | [55145-medarot-kabuto-version.json](./55145-medarot-kabuto-version.json) |
@@ -9433,6 +9437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mogrimera: Disciple of Order | 249907 | [249907-mogrimera-disciple-of-order.json](./249907-mogrimera-disciple-of-order.json) |
 | Mogu Valley | 371607 | [371607-mogu-valley.json](./371607-mogu-valley.json) |
 | Mogu-mogu Gombo | 228622 | [228622-mogu-mogu-gombo.json](./228622-mogu-mogu-gombo.json) |
+| Mogu-mogu Rumia | 204242 | [204242-mogu-mogu-rumia.json](./204242-mogu-mogu-rumia.json) |
 | Moguchan | 38584 | [38584-moguchan.json](./38584-moguchan.json) |
 | Mogul Maniac | 40788 | [40788-mogul-maniac.json](./40788-mogul-maniac.json) |
 | Mogura de Pon! | 342739 | [342739-mogura-de-pon.json](./342739-mogura-de-pon.json) |
