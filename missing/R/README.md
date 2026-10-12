@@ -2064,6 +2064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Pixel | 333553 | [333553-realms-of-pixel.json](./333553-realms-of-pixel.json) |
 | Realms of Reverie | 358855 | [358855-realms-of-reverie.json](./358855-realms-of-reverie.json) |
 | Realms of Supremacy | 102191 | [102191-realms-of-supremacy.json](./102191-realms-of-supremacy.json) |
+| Realms of Survival | 197068 | [197068-realms-of-survival.json](./197068-realms-of-survival.json) |
 | Realms of the Forgotten | 337776 | [337776-realms-of-the-forgotten.json](./337776-realms-of-the-forgotten.json) |
 | Realms of the Haunting | 844 | [844-realms-of-the-haunting.json](./844-realms-of-the-haunting.json) |
 | Realms of Wilorth | 250871 | [250871-realms-of-wilorth.json](./250871-realms-of-wilorth.json) |
@@ -4093,6 +4094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of the Firstborn | 378336 | [378336-revenge-of-the-firstborn.json](./378336-revenge-of-the-firstborn.json) |
 | Revenge of the Gamer | 372685 | [372685-revenge-of-the-gamer.json](./372685-revenge-of-the-gamer.json) |
 | Revenge of the Kid | 101709 | [101709-revenge-of-the-kid.json](./101709-revenge-of-the-kid.json) |
+| Revenge of the Killer Octopus | 197100 | [197100-revenge-of-the-killer-octopus.json](./197100-revenge-of-the-killer-octopus.json) |
 | Revenge of the King | 271409 | [271409-revenge-of-the-king.json](./271409-revenge-of-the-king.json) |
 | Revenge of the Mutant Camels | 40918 | [40918-revenge-of-the-mutant-camels.json](./40918-revenge-of-the-mutant-camels.json) |
 | Revenge of the Ninja HD Remaster | 255873 | [255873-revenge-of-the-ninja-hd-remaster.json](./255873-revenge-of-the-ninja-hd-remaster.json) |
