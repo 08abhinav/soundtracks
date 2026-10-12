@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z Collection | 52102 | [52102-z-collection.json](./52102-z-collection.json) |
 | Z Escape: Complete Edition | 277911 | [277911-z-escape-complete-edition.json](./277911-z-escape-complete-edition.json) |
 | Z Escape: Laser Edition | 362218 | [362218-z-escape-laser-edition.json](./362218-z-escape-laser-edition.json) |
+| Z is for Zombie | 223623 | [223623-z-is-for-zombie.json](./223623-z-is-for-zombie.json) |
 | Z Juice | 311812 | [311812-z-juice.json](./311812-z-juice.json) |
 | Z Line | 254152 | [254152-z-line.json](./254152-z-line.json) |
 | Z Mission Breakout | 343406 | [343406-z-mission-breakout.json](./343406-z-mission-breakout.json) |
