@@ -657,6 +657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Angel: Hell Survival | 258185 | [258185-fallen-angel-hell-survival.json](./258185-fallen-angel-hell-survival.json) |
 | Fallen Angel: The War in Heaven | 120883 | [120883-fallen-angel-the-war-in-heaven.json](./120883-fallen-angel-the-war-in-heaven.json) |
 | Fallen Angels | 275733 | [275733-fallen-angels.json](./275733-fallen-angels.json) |
+| Fallen Arena | 226347 | [226347-fallen-arena.json](./226347-fallen-arena.json) |
 | Fallen Beast (Project Ora) | 105748 | [105748-fallen-beast-project-ora.json](./105748-fallen-beast-project-ora.json) |
 | Fallen Bird | 101337 | [101337-fallen-bird.json](./101337-fallen-bird.json) |
 | Fallen Bride Mege | 215933 | [215933-fallen-bride-mege.json](./215933-fallen-bride-mege.json) |
@@ -999,6 +1000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Chess | 207877 | [207877-family-chess.json](./207877-family-chess.json) |
 | Family Chess | 360205 | [360205-family-chess.json](./360205-family-chess.json) |
 | Family Chess: Complete Edition | 228023 | [228023-family-chess-complete-edition.json](./228023-family-chess-complete-edition.json) |
+| Family Chess: Definitive Edition | 226334 | [226334-family-chess-definitive-edition.json](./226334-family-chess-definitive-edition.json) |
 | Family Chess: Deluxe Edition | 208584 | [208584-family-chess-deluxe-edition.json](./208584-family-chess-deluxe-edition.json) |
 | Family Chess: Director's Cut | 251525 | [251525-family-chess-directors-cut.json](./251525-family-chess-directors-cut.json) |
 | Family Chess: Magnificent Edition | 246647 | [246647-family-chess-magnificent-edition.json](./246647-family-chess-magnificent-edition.json) |
@@ -4040,6 +4042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Time in Hawaii | 236002 | [236002-first-time-in-hawaii.json](./236002-first-time-in-hawaii.json) |
 | First Time In Paris: Collector's Edition | 209143 | [209143-first-time-in-paris-collectors-edition.json](./209143-first-time-in-paris-collectors-edition.json) |
 | First Time in Rome | 207323 | [207323-first-time-in-rome.json](./207323-first-time-in-rome.json) |
+| First Time in Rome: Collector's Edition | 226335 | [226335-first-time-in-rome-collectors-edition.json](./226335-first-time-in-rome-collectors-edition.json) |
 | First Time Mom | 392297 | [392297-first-time-mom.json](./392297-first-time-mom.json) |
 | First Up | 264567 | [264567-first-up.json](./264567-first-up.json) |
 | First Winter | 97027 | [97027-first-winter.json](./97027-first-winter.json) |
@@ -5843,6 +5846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 2021 Touch | 139257 | [139257-football-manager-2021-touch.json](./139257-football-manager-2021-touch.json) |
 | Football Manager 2021: Limited Edition | 139962 | [139962-football-manager-2021-limited-edition.json](./139962-football-manager-2021-limited-edition.json) |
 | Football Manager 2022 Mobile | 187830 | [187830-football-manager-2022-mobile.json](./187830-football-manager-2022-mobile.json) |
+| Football Manager 2023 Touch | 226336 | [226336-football-manager-2023-touch.json](./226336-football-manager-2023-touch.json) |
 | Football Manager 2024 | 266382 | [266382-football-manager-2024.json](./266382-football-manager-2024.json) |
 | Football Manager 2024 Mobile | 295327 | [295327-football-manager-2024-mobile.json](./295327-football-manager-2024-mobile.json) |
 | Football Manager 2024 Touch | 266727 | [266727-football-manager-2024-touch.json](./266727-football-manager-2024-touch.json) |
@@ -6191,6 +6195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forge and Fight | 118768 | [118768-forge-and-fight.json](./118768-forge-and-fight.json) |
 | Forge Front | 287768 | [287768-forge-front.json](./287768-forge-front.json) |
 | Forge Horizon | 235805 | [235805-forge-horizon.json](./235805-forge-horizon.json) |
+| Forge of Destiny | 226348 | [226348-forge-of-destiny.json](./226348-forge-of-destiny.json) |
 | Forge of Empires | 62923 | [62923-forge-of-empires.json](./62923-forge-of-empires.json) |
 | Forge of Freedom: The American Civil War 1861-1865 | 230545 | [230545-forge-of-freedom-the-american-civil-war-1861-1865.json](./230545-forge-of-freedom-the-american-civil-war-1861-1865.json) |
 | Forge of Neon 3D | 90350 | [90350-forge-of-neon-3d.json](./90350-forge-of-neon-3d.json) |
@@ -8579,6 +8584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furious Race | 105985 | [105985-furious-race.json](./105985-furious-race.json) |
 | Furious Revenge of Bolo | 153893 | [153893-furious-revenge-of-bolo.json](./153893-furious-revenge-of-bolo.json) |
 | Furious Seas | 103775 | [103775-furious-seas.json](./103775-furious-seas.json) |
+| Furious Sword | 226357 | [226357-furious-sword.json](./226357-furious-sword.json) |
 | Furious: Heat Racing | 199910 | [199910-furious-heat-racing.json](./199910-furious-heat-racing.json) |
 | Furistas Cat Cafe | 106594 | [106594-furistas-cat-cafe.json](./106594-furistas-cat-cafe.json) |
 | Furistas Cat Cafe | 106629 | [106629-furistas-cat-cafe.json](./106629-furistas-cat-cafe.json) |
