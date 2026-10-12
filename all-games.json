@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T17:50:14.331Z",
-  "total_soundtracks": 1534,
+  "generated_at": "2026-10-12T20:00:14.382Z",
+  "total_soundtracks": 1535,
   "games": [
     {
       "igdb_id": 7522,
@@ -810,6 +810,20 @@
           "album_name": "Apex Legends: Music from the Outlands, Vol. 1 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0rC4E8j8GjJzp94pcmHPIw",
           "apple_music_url": "https://music.apple.com/us/album/apex-legends-music-from-the-outlands-vol-1-original/1564335054",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 9016,
+      "game_name": "Apotheon",
+      "game_url": "https://ostdb.net/games/apotheon",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739a985531a29913bfe34b07c8",
+      "albums": [
+        {
+          "album_name": "Apotheon (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/05KZzNMhPR6jUPKDxrY8fz",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
