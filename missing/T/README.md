@@ -1290,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Defender | 187895 | [187895-tank-defender.json](./187895-tank-defender.json) |
 | Tank Defense Division | 31760 | [31760-tank-defense-division.json](./31760-tank-defense-division.json) |
 | Tank Domination | 343877 | [343877-tank-domination.json](./343877-tank-domination.json) |
+| Tank Duel 3D | 219770 | [219770-tank-duel-3d.json](./219770-tank-duel-3d.json) |
 | Tank Elite | 82130 | [82130-tank-elite.json](./82130-tank-elite.json) |
 | Tank Factory Simulator | 297878 | [297878-tank-factory-simulator.json](./297878-tank-factory-simulator.json) |
 | Tank Fantastic | 153000 | [153000-tank-fantastic.json](./153000-tank-fantastic.json) |
@@ -14857,6 +14858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Battles | 287743 | [287743-tiny-battles.json](./287743-tiny-battles.json) |
 | Tiny Biomes | 385071 | [385071-tiny-biomes.json](./385071-tiny-biomes.json) |
 | Tiny Bird Garden Deluxe | 112826 | [112826-tiny-bird-garden-deluxe.json](./112826-tiny-bird-garden-deluxe.json) |
+| Tiny Blues vs. Mini Reds | 219768 | [219768-tiny-blues-vs-mini-reds.json](./219768-tiny-blues-vs-mini-reds.json) |
 | Tiny Bookshop | 216718 | [216718-tiny-bookshop.json](./216718-tiny-bookshop.json) |
 | Tiny Boxes | 368574 | [368574-tiny-boxes.json](./368574-tiny-boxes.json) |
 | Tiny Brains | 7649 | [7649-tiny-brains.json](./7649-tiny-brains.json) |
@@ -15245,6 +15247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tlicolity Eyes Vol. 3 | 240521 | [240521-tlicolity-eyes-vol-3.json](./240521-tlicolity-eyes-vol-3.json) |
 | Tlicolity Eyes: Twinkle Showtime | 240522 | [240522-tlicolity-eyes-twinkle-showtime.json](./240522-tlicolity-eyes-twinkle-showtime.json) |
 | TLO: Casmita | 253817 | [253817-tlo-casmita.json](./253817-tlo-casmita.json) |
+| Tm Driver | 219760 | [219760-tm-driver.json](./219760-tm-driver.json) |
 | TMNT | 146283 | [146283-tmnt.json](./146283-tmnt.json) |
 | TMNT | 248512 | [248512-tmnt.json](./248512-tmnt.json) |
 | TMNT | 248513 | [248513-tmnt.json](./248513-tmnt.json) |
