@@ -1960,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled Paper Mario Fangame | 266509 | [266509-untitled-paper-mario-fangame.json](./266509-untitled-paper-mario-fangame.json) |
 | Untitled Racing Game | 219063 | [219063-untitled-racing-game.json](./219063-untitled-racing-game.json) |
 | Untitled Rhythm Puzzle Game | 143011 | [143011-untitled-rhythm-puzzle-game.json](./143011-untitled-rhythm-puzzle-game.json) |
+| Untitled Roguelike | 202048 | [202048-untitled-roguelike.json](./202048-untitled-roguelike.json) |
 | Untitled RPG from WolfEye Studios | 313175 | [313175-untitled-rpg-from-wolfeye-studios.json](./313175-untitled-rpg-from-wolfeye-studios.json) |
 | Untitled Runeterra MMO | 225568 | [225568-untitled-runeterra-mmo.json](./225568-untitled-runeterra-mmo.json) |
 | Untitled Shantae Game | 375612 | [375612-untitled-shantae-game.json](./375612-untitled-shantae-game.json) |
