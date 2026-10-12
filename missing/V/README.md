@@ -1671,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Tennis 4 | 5258 | [5258-virtua-tennis-4.json](./5258-virtua-tennis-4.json) |
 | Virtua Tennis Challenge | 46754 | [46754-virtua-tennis-challenge.json](./46754-virtua-tennis-challenge.json) |
 | Virtua Tennis: Mobile Edition | 317005 | [317005-virtua-tennis-mobile-edition.json](./317005-virtua-tennis-mobile-edition.json) |
+| Virtua Unlimited Project | 206432 | [206432-virtua-unlimited-project.json](./206432-virtua-unlimited-project.json) |
 | Virtua Volleyball | 195122 | [195122-virtua-volleyball.json](./195122-virtua-volleyball.json) |
 | Virtual AI: Aki & Mika | 216860 | [216860-virtual-ai-aki-and-mika.json](./216860-virtual-ai-aki-and-mika.json) |
 | Virtual Anime Girl | 90366 | [90366-virtual-anime-girl.json](./90366-virtual-anime-girl.json) |
@@ -1747,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Maid Streamer Ramie | 187437 | [187437-virtual-maid-streamer-ramie.json](./187437-virtual-maid-streamer-ramie.json) |
 | Virtual Mom: Happy Family 3D | 106962 | [106962-virtual-mom-happy-family-3d.json](./106962-virtual-mom-happy-family-3d.json) |
 | Virtual Mom: Job Simulator Manager | 268462 | [268462-virtual-mom-job-simulator-manager.json](./268462-virtual-mom-job-simulator-manager.json) |
+| Virtual Monster Battle | 206446 | [206446-virtual-monster-battle.json](./206446-virtual-monster-battle.json) |
 | Virtual Mother Family Game: Working Mom Simulator | 101587 | [101587-virtual-mother-family-game-working-mom-simulator.json](./101587-virtual-mother-family-game-working-mom-simulator.json) |
 | Virtual Mother Home Chef Family Simulator | 103903 | [103903-virtual-mother-home-chef-family-simulator.json](./103903-virtual-mother-home-chef-family-simulator.json) |
 | Virtual Perspective | 391756 | [391756-virtual-perspective.json](./391756-virtual-perspective.json) |
