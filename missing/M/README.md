@@ -3758,6 +3758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matricon: Monopoly | 230531 | [230531-matricon-monopoly.json](./230531-matricon-monopoly.json) |
 | Matrix Blocks | 149463 | [149463-matrix-blocks.json](./149463-matrix-blocks.json) |
 | Matrix Bullet | 266766 | [266766-matrix-bullet.json](./266766-matrix-bullet.json) |
+| Matrix Jump | 215848 | [215848-matrix-jump.json](./215848-matrix-jump.json) |
 | Matrix Mahjong | 392317 | [392317-matrix-mahjong.json](./392317-matrix-mahjong.json) |
 | Matrixed Reality | 218650 | [218650-matrixed-reality.json](./218650-matrixed-reality.json) |
 | Matryona no Yuube | 150556 | [150556-matryona-no-yuube.json](./150556-matryona-no-yuube.json) |
@@ -5587,6 +5588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories of Home | 51568 | [51568-memories-of-home.json](./51568-memories-of-home.json) |
 | Memories of Hyrule | 381769 | [381769-memories-of-hyrule.json](./381769-memories-of-hyrule.json) |
 | Memories of Loneliness | 173219 | [173219-memories-of-loneliness.json](./173219-memories-of-loneliness.json) |
+| Memories of Mir | 215837 | [215837-memories-of-mir.json](./215837-memories-of-mir.json) |
 | Memories of Misery | 297345 | [297345-memories-of-misery.json](./297345-memories-of-misery.json) |
 | Memories of War: Undead Decimation | 169456 | [169456-memories-of-war-undead-decimation.json](./169456-memories-of-war-undead-decimation.json) |
 | Memories Off | 288774 | [288774-memories-off.json](./288774-memories-off.json) |
@@ -5912,6 +5914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merely a Regret | 176922 | [176922-merely-a-regret.json](./176922-merely-a-regret.json) |
 | Merendam 2: Diary of Two Shaman Sisters | 70409 | [70409-merendam-2-diary-of-two-shaman-sisters.json](./70409-merendam-2-diary-of-two-shaman-sisters.json) |
 | Mereonozis 2D: The Kingdom of Gremlins | 296256 | [296256-mereonozis-2d-the-kingdom-of-gremlins.json](./296256-mereonozis-2d-the-kingdom-of-gremlins.json) |
+| Mereuhell Fantasy | 215840 | [215840-mereuhell-fantasy.json](./215840-mereuhell-fantasy.json) |
 | MerFight | 191862 | [191862-merfight.json](./191862-merfight.json) |
 | Merge | 121544 | [121544-merge.json](./121544-merge.json) |
 | Merge | 310137 | [310137-merge.json](./310137-merge.json) |
