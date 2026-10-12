@@ -562,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yolo Space Hacker: Mission Forensic | 196125 | [196125-yolo-space-hacker-mission-forensic.json](./196125-yolo-space-hacker-mission-forensic.json) |
 | Yomaia | 238768 | [238768-yomaia.json](./238768-yomaia.json) |
 | Yomawari: Lost in the Dark | 203885 | [203885-yomawari-lost-in-the-dark.json](./203885-yomawari-lost-in-the-dark.json) |
+| Yomawari: Lost in the Dark - Deluxe Edition | 203095 | [203095-yomawari-lost-in-the-dark-deluxe-edition.json](./203095-yomawari-lost-in-the-dark-deluxe-edition.json) |
 | Yomawari: Midnight Shadows - Limited Edition | 167050 | [167050-yomawari-midnight-shadows-limited-edition.json](./167050-yomawari-midnight-shadows-limited-edition.json) |
 | Yomawari: Night Alone | 11589 | [11589-yomawari-night-alone.json](./11589-yomawari-night-alone.json) |
 | Yomawari: Night Alone - Digital Pitch Dark Edition | 52105 | [52105-yomawari-night-alone-digital-pitch-dark-edition.json](./52105-yomawari-night-alone-digital-pitch-dark-edition.json) |
