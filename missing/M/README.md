@@ -1676,6 +1676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MakeThatMoney | 90473 | [90473-makethatmoney.json](./90473-makethatmoney.json) |
 | Makeup Girls - Wedding Dress Up & Make Up Game for girls, by Pazu | 107072 | [107072-makeup-girls-wedding-dress-up-and-make-up-game-for-girls-by-pazu.json](./107072-makeup-girls-wedding-dress-up-and-make-up-game-for-girls-by-pazu.json) |
 | Makeup Stylist: DIY Makeup Game | 208971 | [208971-makeup-stylist-diy-makeup-game.json](./208971-makeup-stylist-diy-makeup-game.json) |
+| Maki Coco | 183316 | [183316-maki-coco.json](./183316-maki-coco.json) |
 | Maki Fes! | 186615 | [186615-maki-fes.json](./186615-maki-fes.json) |
 | Maki Maker | 274675 | [274675-maki-maker.json](./274675-maki-maker.json) |
 | Maki: Paw of Fury | 215610 | [215610-maki-paw-of-fury.json](./215610-maki-paw-of-fury.json) |
@@ -1926,6 +1927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandrake | 348298 | [348298-mandrake.json](./348298-mandrake.json) |
 | Mandrake Boys | 202398 | [202398-mandrake-boys.json](./202398-mandrake-boys.json) |
 | Mandrake Girls: Garden of Secret | 202399 | [202399-mandrake-girls-garden-of-secret.json](./202399-mandrake-girls-garden-of-secret.json) |
+| Mandrake Phantasy | 183300 | [183300-mandrake-phantasy.json](./183300-mandrake-phantasy.json) |
 | Mandrake The Magician | 344315 | [344315-mandrake-the-magician.json](./344315-mandrake-the-magician.json) |
 | Mandy's Room 2: Naughty By Nature | 367014 | [367014-mandys-room-2-naughty-by-nature.json](./367014-mandys-room-2-naughty-by-nature.json) |
 | Mane | 158171 | [158171-mane.json](./158171-mane.json) |
@@ -5472,6 +5474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meliora's Detective Simulator | 123984 | [123984-melioras-detective-simulator.json](./123984-melioras-detective-simulator.json) |
 | Melissa | 225798 | [225798-melissa.json](./225798-melissa.json) |
 | Melissa K. and the Heart of Gold: Collector's Edition | 36235 | [36235-melissa-k-and-the-heart-of-gold-collectors-edition.json](./36235-melissa-k-and-the-heart-of-gold-collectors-edition.json) |
+| Melkhior's Mansion | 183289 | [183289-melkhiors-mansion.json](./183289-melkhiors-mansion.json) |
 | Melkhior's Tower | 413811 | [413811-melkhiors-tower.json](./413811-melkhiors-tower.json) |
 | Melkis: Spend With You the Sweet Days Like Fairy Tales | 222241 | [222241-melkis-spend-with-you-the-sweet-days-like-fairy-tales.json](./222241-melkis-spend-with-you-the-sweet-days-like-fairy-tales.json) |
 | Melkor | 92646 | [92646-melkor.json](./92646-melkor.json) |
@@ -5888,6 +5891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Path 2 | 360741 | [360741-meow-path-2.json](./360741-meow-path-2.json) |
 | Meow Star Archives | 415223 | [415223-meow-star-archives.json](./415223-meow-star-archives.json) |
 | Meow Survivors | 389579 | [389579-meow-survivors.json](./389579-meow-survivors.json) |
+| Meow Sushi Night | 183310 | [183310-meow-sushi-night.json](./183310-meow-sushi-night.json) |
 | Meow Time Machine: Munch | 335269 | [335269-meow-time-machine-munch.json](./335269-meow-time-machine-munch.json) |
 | Meow Time Machine: Newton | 339937 | [339937-meow-time-machine-newton.json](./339937-meow-time-machine-newton.json) |
 | Meow Tower: Doomsguard | 344970 | [344970-meow-tower-doomsguard.json](./344970-meow-tower-doomsguard.json) |
@@ -6125,6 +6129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merv Griffin's Crosswords | 50945 | [50945-merv-griffins-crosswords.json](./50945-merv-griffins-crosswords.json) |
 | Merv Liberation | 112495 | [112495-merv-liberation.json](./112495-merv-liberation.json) |
 | Mervils: A VR Adventure | 27385 | [27385-mervils-a-vr-adventure.json](./27385-mervils-a-vr-adventure.json) |
+| Meryll wants a Cookie | 183273 | [183273-meryll-wants-a-cookie.json](./183273-meryll-wants-a-cookie.json) |
 | Mesa | 233214 | [233214-mesa.json](./233214-mesa.json) |
 | Mesa | 252098 | [252098-mesa.json](./252098-mesa.json) |
 | Mesektet | 418543 | [418543-mesektet.json](./418543-mesektet.json) |
@@ -10694,6 +10699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight maze | 121734 | [121734-moonlight-maze.json](./121734-moonlight-maze.json) |
 | Moonlight Minions | 17581 | [17581-moonlight-minions.json](./17581-moonlight-minions.json) |
 | Moonlight Moggy | 229769 | [229769-moonlight-moggy.json](./229769-moonlight-moggy.json) |
+| Moonlight Mori | 183308 | [183308-moonlight-mori.json](./183308-moonlight-mori.json) |
 | Moonlight Motel | 403091 | [403091-moonlight-motel.json](./403091-moonlight-motel.json) |
 | Moonlight Pale | 404436 | [404436-moonlight-pale.json](./404436-moonlight-pale.json) |
 | Moonlight Peaks | 237123 | [237123-moonlight-peaks.json](./237123-moonlight-peaks.json) |
@@ -12050,6 +12056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Triangle Mania 2 | 265857 | [265857-mr-triangle-mania-2.json](./265857-mr-triangle-mania-2.json) |
 | Mr. Triangle The Pizza Delivery Guy Mania Simulator 2k17 | 316362 | [316362-mr-triangle-the-pizza-delivery-guy-mania-simulator-2k17.json](./316362-mr-triangle-the-pizza-delivery-guy-mania-simulator-2k17.json) |
 | Mr. Triangle The Pizza Delivery Guy Mania Simulator 2k17 Turbo HD Remix GOTY 2024 Edition: Coked Up + 1.5 Collection DX Directors Cut & Knuckles | 316364 | [316364-mr-triangle-the-pizza-delivery-guy-mania-simulator-2k17-turbo-hd-remix-goty-2024-edition-coked-up-1-5-collection-dx-directors-cut-and-knuckles.json](./316364-mr-triangle-the-pizza-delivery-guy-mania-simulator-2k17-turbo-hd-remix-goty-2024-edition-coked-up-1-5-collection-dx-directors-cut-and-knuckles.json) |
+| Mr. Tulip Head | 183274 | [183274-mr-tulip-head.json](./183274-mr-tulip-head.json) |
 | Mr. Walker's Basement | 155688 | [155688-mr-walkers-basement.json](./155688-mr-walkers-basement.json) |
 | Mr. Whiskers Bubbles | 385088 | [385088-mr-whiskers-bubbles.json](./385088-mr-whiskers-bubbles.json) |
 | Mr. Wimpy | 46079 | [46079-mr-wimpy.json](./46079-mr-wimpy.json) |
