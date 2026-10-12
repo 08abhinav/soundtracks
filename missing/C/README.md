@@ -4542,6 +4542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Child of Vision | 312862 | [312862-child-of-vision.json](./312862-child-of-vision.json) |
 | Child Phobia: Nightcoming Fears | 30084 | [30084-child-phobia-nightcoming-fears.json](./30084-child-phobia-nightcoming-fears.json) |
 | Child Run: City Surfers Runner | 245915 | [245915-child-run-city-surfers-runner.json](./245915-child-run-city-surfers-runner.json) |
+| Child vs. Clowns | 187178 | [187178-child-vs-clowns.json](./187178-child-vs-clowns.json) |
 | Child's Mind | 84573 | [84573-childs-mind.json](./84573-childs-mind.json) |
 | Child's Play | 60007 | [60007-childs-play.json](./60007-childs-play.json) |
 | Childhood | 128444 | [128444-childhood.json](./128444-childhood.json) |
@@ -5565,6 +5566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circles | 33061 | [33061-circles.json](./33061-circles.json) |
 | Circling | 304338 | [304338-circling.json](./304338-circling.json) |
 | Circlt | 57750 | [57750-circlt.json](./57750-circlt.json) |
+| Circo: Dark Story | 187167 | [187167-circo-dark-story.json](./187167-circo-dark-story.json) |
 | Circoid | 296679 | [296679-circoid.json](./296679-circoid.json) |
 | Circolour | 107239 | [107239-circolour.json](./107239-circolour.json) |
 | Circuit Blasters | 221294 | [221294-circuit-blasters.json](./221294-circuit-blasters.json) |
@@ -6997,6 +6999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Name Teacher | 292307 | [292307-code-name-teacher.json](./292307-code-name-teacher.json) |
 | Code Name: MA | 174835 | [174835-code-name-ma.json](./174835-code-name-ma.json) |
 | Code Name: Viper | 48069 | [48069-code-name-viper.json](./48069-code-name-viper.json) |
+| Code Name:X | 188334 | [188334-code-name-x.json](./188334-code-name-x.json) |
 | Code of Corruption | 374847 | [374847-code-of-corruption.json](./374847-code-of-corruption.json) |
 | Code of Ethics | 123042 | [123042-code-of-ethics.json](./123042-code-of-ethics.json) |
 | Code of Honor: The French Foreign Legion | 10099 | [10099-code-of-honor-the-french-foreign-legion.json](./10099-code-of-honor-the-french-foreign-legion.json) |
@@ -7464,6 +7467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colony Prospector | 99430 | [99430-colony-prospector.json](./99430-colony-prospector.json) |
 | Colony Ship: A Post-Earth Role Playing Game | 129128 | [129128-colony-ship-a-post-earth-role-playing-game.json](./129128-colony-ship-a-post-earth-role-playing-game.json) |
 | Colony Siege | 127192 | [127192-colony-siege.json](./127192-colony-siege.json) |
+| Colony Simulator | 187196 | [187196-colony-simulator.json](./187196-colony-simulator.json) |
 | Colony Strikes Back | 175893 | [175893-colony-strikes-back.json](./175893-colony-strikes-back.json) |
 | Colony Wars 2494 | 19585 | [19585-colony-wars-2494.json](./19585-colony-wars-2494.json) |
 | Colony Wars: Red Sun | 8282 | [8282-colony-wars-red-sun.json](./8282-colony-wars-red-sun.json) |
@@ -8603,6 +8607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest: Medieval Kingdoms | 147368 | [147368-conquest-medieval-kingdoms.json](./147368-conquest-medieval-kingdoms.json) |
 | Conquests of Camelot: The Search for the Grail | 7566 | [7566-conquests-of-camelot-the-search-for-the-grail.json](./7566-conquests-of-camelot-the-search-for-the-grail.json) |
 | Conquests of the Longbow: The Legend of Robin Hood | 7567 | [7567-conquests-of-the-longbow-the-legend-of-robin-hood.json](./7567-conquests-of-the-longbow-the-legend-of-robin-hood.json) |
+| Conquicktory | 187791 | [187791-conquicktory.json](./187791-conquicktory.json) |
 | Conquist | 205089 | [205089-conquist.json](./205089-conquist.json) |
 | Conquist Tournament | 235250 | [235250-conquist-tournament.json](./235250-conquist-tournament.json) |
 | Conquista: Tide of Wills | 415116 | [415116-conquista-tide-of-wills.json](./415116-conquista-tide-of-wills.json) |
@@ -10105,6 +10110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft Legend | 124631 | [124631-craft-legend.json](./124631-craft-legend.json) |
 | Craft Shooting - Battle Royale | 106368 | [106368-craft-shooting-battle-royale.json](./106368-craft-shooting-battle-royale.json) |
 | Craft Shooting - no rules in war for survival! | 105833 | [105833-craft-shooting-no-rules-in-war-for-survival.json](./105833-craft-shooting-no-rules-in-war-for-survival.json) |
+| Craft Skyland World City | 188329 | [188329-craft-skyland-world-city.json](./188329-craft-skyland-world-city.json) |
 | Craft the Mapcrafter: Gathering Magic Words | 151676 | [151676-craft-the-mapcrafter-gathering-magic-words.json](./151676-craft-the-mapcrafter-gathering-magic-words.json) |
 | Craft the World | 14554 | [14554-craft-the-world.json](./14554-craft-the-world.json) |
 | Craft the World: Dig with Friends | 51758 | [51758-craft-the-world-dig-with-friends.json](./51758-craft-the-world-dig-with-friends.json) |
@@ -11666,6 +11672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crushing Blow | 55525 | [55525-crushing-blow.json](./55525-crushing-blow.json) |
 | Crushing Depths | 392473 | [392473-crushing-depths.json](./392473-crushing-depths.json) |
 | Crushing on the Clock | 376461 | [376461-crushing-on-the-clock.json](./376461-crushing-on-the-clock.json) |
+| Crust Crusaders | 187788 | [187788-crust-crusaders.json](./187788-crust-crusaders.json) |
 | Crust Shump | 321042 | [321042-crust-shump.json](./321042-crust-shump.json) |
 | Crustacean Frustration | 395021 | [395021-crustacean-frustration.json](./395021-crustacean-frustration.json) |
 | Crustacean Nations | 211254 | [211254-crustacean-nations.json](./211254-crustacean-nations.json) |
@@ -12489,6 +12496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse: The Eye of Isis | 5796 | [5796-curse-the-eye-of-isis.json](./5796-curse-the-eye-of-isis.json) |
 | Curse: The First Knot | 400932 | [400932-curse-the-first-knot.json](./400932-curse-the-first-knot.json) |
 | Curseball | 205648 | [205648-curseball.json](./205648-curseball.json) |
+| Cursebound | 187881 | [187881-cursebound.json](./187881-cursebound.json) |
 | Cursebound | 344411 | [344411-cursebound.json](./344411-cursebound.json) |
 | Cursebound | 380101 | [380101-cursebound.json](./380101-cursebound.json) |
 | Cursebreakers | 416810 | [416810-cursebreakers.json](./416810-cursebreakers.json) |
