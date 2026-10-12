@@ -3021,6 +3021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EreaDrone Simulator | 104189 | [104189-ereadrone-simulator.json](./104189-ereadrone-simulator.json) |
 | EreaDrone: FPV Simulator | 112216 | [112216-ereadrone-fpv-simulator.json](./112216-ereadrone-fpv-simulator.json) |
 | Ereban: Shadow Legacy | 204624 | [204624-ereban-shadow-legacy.json](./204624-ereban-shadow-legacy.json) |
+| Erebe | 199344 | [199344-erebe.json](./199344-erebe.json) |
 | Erebus | 36919 | [36919-erebus.json](./36919-erebus.json) |
 | Erectus | 204839 | [204839-erectus.json](./204839-erectus.json) |
 | Erectus the Game | 115188 | [115188-erectus-the-game.json](./115188-erectus-the-game.json) |
@@ -3603,6 +3604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escatpade | 374083 | [374083-escatpade.json](./374083-escatpade.json) |
 | Eschalism | 385574 | [385574-eschalism.json](./385574-eschalism.json) |
 | Eschatology | 273485 | [273485-eschatology.json](./273485-eschatology.json) |
+| Eschaton | 199310 | [199310-eschaton.json](./199310-eschaton.json) |
 | Eschaton: Battle for Eternity | 385298 | [385298-eschaton-battle-for-eternity.json](./385298-eschaton-battle-for-eternity.json) |
 | Escherion | 155502 | [155502-escherion.json](./155502-escherion.json) |
 | Escoba Broom Cards Game | 331690 | [331690-escoba-broom-cards-game.json](./331690-escoba-broom-cards-game.json) |
@@ -4569,6 +4571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolized | 353371 | [353371-evolized.json](./353371-evolized.json) |
 | Evolo.The Sun | 335447 | [335447-evolo-the-sun.json](./335447-evolo-the-sun.json) |
 | EvolRun | 339777 | [339777-evolrun.json](./339777-evolrun.json) |
+| EvoluShip | 199321 | [199321-evoluship.json](./199321-evoluship.json) |
 | Evolution | 150743 | [150743-evolution.json](./150743-evolution.json) |
 | Evolution | 178006 | [178006-evolution.json](./178006-evolution.json) |
 | Evolution | 34674 | [34674-evolution.json](./34674-evolution.json) |
