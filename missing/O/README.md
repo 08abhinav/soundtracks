@@ -3127,6 +3127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Ammo | 177536 | [177536-out-of-ammo.json](./177536-out-of-ammo.json) |
 | Out of Ammo: Death Drive | 54823 | [54823-out-of-ammo-death-drive.json](./54823-out-of-ammo-death-drive.json) |
 | Out of Body | 377171 | [377171-out-of-body.json](./377171-out-of-body.json) |
+| Out of Bounds | 204817 | [204817-out-of-bounds.json](./204817-out-of-bounds.json) |
 | Out of Bounds | 357728 | [357728-out-of-bounds.json](./357728-out-of-bounds.json) |
 | Out of Brakes: Endless Racer | 232155 | [232155-out-of-brakes-endless-racer.json](./232155-out-of-brakes-endless-racer.json) |
 | Out Of Cash (Sin Blanca) | 379897 | [379897-out-of-cash-sin-blanca.json](./379897-out-of-cash-sin-blanca.json) |
