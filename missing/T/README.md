@@ -3123,6 +3123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive Off-Road Wide Open | 6198 | [6198-test-drive-off-road-wide-open.json](./6198-test-drive-off-road-wide-open.json) |
 | Test Drive Unlimited | 7215 | [7215-test-drive-unlimited.json](./7215-test-drive-unlimited.json) |
 | Test Drive Unlimited 2 | 7216 | [7216-test-drive-unlimited-2.json](./7216-test-drive-unlimited-2.json) |
+| Test Drive Unlimited Gold | 215404 | [215404-test-drive-unlimited-gold.json](./215404-test-drive-unlimited-gold.json) |
 | Test Drive Unlimited Solar Crown | 135671 | [135671-test-drive-unlimited-solar-crown.json](./135671-test-drive-unlimited-solar-crown.json) |
 | Test Drive Unlimited Solar Crown: DLC Solar Content | 311729 | [311729-test-drive-unlimited-solar-crown-dlc-solar-content.json](./311729-test-drive-unlimited-solar-crown-dlc-solar-content.json) |
 | Test Drive Unlimited Solar Crown: Ford GT 2006 | 311727 | [311727-test-drive-unlimited-solar-crown-ford-gt-2006.json](./311727-test-drive-unlimited-solar-crown-ford-gt-2006.json) |
@@ -11838,6 +11839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vampire | 292250 | [292250-the-vampire.json](./292250-the-vampire.json) |
 | The Vampire Lord of Valea Noapte | 179519 | [179519-the-vampire-lord-of-valea-noapte.json](./179519-the-vampire-lord-of-valea-noapte.json) |
 | The Vampire's Bride: A Bride Who Gets Married to Vampdoll | 334894 | [334894-the-vampires-bride-a-bride-who-gets-married-to-vampdoll.json](./334894-the-vampires-bride-a-bride-who-gets-married-to-vampdoll.json) |
+| The Vampires | 215316 | [215316-the-vampires.json](./215316-the-vampires.json) |
 | The Vanished Sister | 283844 | [283844-the-vanished-sister.json](./283844-the-vanished-sister.json) |
 | The Vanished Soul | 318063 | [318063-the-vanished-soul.json](./318063-the-vanished-soul.json) |
 | The Vanishing | 317969 | [317969-the-vanishing.json](./317969-the-vanishing.json) |
