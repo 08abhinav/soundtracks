@@ -1703,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scapevale | 130669 | [130669-scapevale.json](./130669-scapevale.json) |
 | Scapewatch | 401089 | [401089-scapewatch.json](./401089-scapewatch.json) |
 | Scapular | 400285 | [400285-scapular.json](./400285-scapular.json) |
+| Scar of the Doll: A Psycho-Horror Story about the Mystery of an Older Sister | 226338 | [226338-scar-of-the-doll-a-psycho-horror-story-about-the-mystery-of-an-older-sister.json](./226338-scar-of-the-doll-a-psycho-horror-story-about-the-mystery-of-an-older-sister.json) |
 | Scar-Lead Salvation | 329724 | [329724-scar-lead-salvation.json](./329724-scar-lead-salvation.json) |
 | Scarab | 84223 | [84223-scarab.json](./84223-scarab.json) |
 | Scarab Shooter | 72065 | [72065-scarab-shooter.json](./72065-scarab-shooter.json) |
@@ -5130,6 +5131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shibuya Scramble Stories | 351642 | [351642-shibuya-scramble-stories.json](./351642-shibuya-scramble-stories.json) |
 | Shibuya Sukeban | 248799 | [248799-shibuya-sukeban.json](./248799-shibuya-sukeban.json) |
 | Shichi-nin no Online Gamers Offline | 78095 | [78095-shichi-nin-no-online-gamers-offline.json](./78095-shichi-nin-no-online-gamers-offline.json) |
+| Shichisei Tantei Club: Koganemushi-tachi no Kisou | 226111 | [226111-shichisei-tantei-club-koganemushi-tachi-no-kisou.json](./226111-shichisei-tantei-club-koganemushi-tachi-no-kisou.json) |
 | Shichisei Toushin Guyferd: Crown Kaimetsu Sakusen | 229700 | [229700-shichisei-toushin-guyferd-crown-kaimetsu-sakusen.json](./229700-shichisei-toushin-guyferd-crown-kaimetsu-sakusen.json) |
 | Shichu Suimei Pitagraph | 222821 | [222821-shichu-suimei-pitagraph.json](./222821-shichu-suimei-pitagraph.json) |
 | Shield Arena | 412958 | [412958-shield-arena.json](./412958-shield-arena.json) |
@@ -8507,6 +8509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sliding Hero | 309545 | [309545-sliding-hero.json](./309545-sliding-hero.json) |
 | Sliding Puzzle 2018 | 104645 | [104645-sliding-puzzle-2018.json](./104645-sliding-puzzle-2018.json) |
 | Sliding Puzzle Blue | 107132 | [107132-sliding-puzzle-blue.json](./107132-sliding-puzzle-blue.json) |
+| Sliding Puzzle Deluxe: The Classic | 226356 | [226356-sliding-puzzle-deluxe-the-classic.json](./226356-sliding-puzzle-deluxe-the-classic.json) |
 | Sliding Puzzle Space | 106551 | [106551-sliding-puzzle-space.json](./106551-sliding-puzzle-space.json) |
 | Sliding Puzzles | 270388 | [270388-sliding-puzzles.json](./270388-sliding-puzzles.json) |
 | Slidy | 26509 | [26509-slidy.json](./26509-slidy.json) |
@@ -10037,6 +10040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccering | 115041 | [115041-soccering.json](./115041-soccering.json) |
 | Soccertron | 11132 | [11132-soccertron.json](./11132-soccertron.json) |
 | Social Club VR : Casino Nights | 130746 | [130746-social-club-vr-casino-nights.json](./130746-social-club-vr-casino-nights.json) |
+| Social Credit Simulator | 226344 | [226344-social-credit-simulator.json](./226344-social-credit-simulator.json) |
 | Social Democracy: An Alternate History | 301376 | [301376-social-democracy-an-alternate-history.json](./301376-social-democracy-an-alternate-history.json) |
 | Social Democracy: Petrograd 1917 - An Alternate History | 345454 | [345454-social-democracy-petrograd-1917-an-alternate-history.json](./345454-social-democracy-petrograd-1917-an-alternate-history.json) |
 | Social Dev Story | 276131 | [276131-social-dev-story.json](./276131-social-dev-story.json) |
@@ -14089,6 +14093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatoon: Torrential Climb | 316713 | [316713-splatoon-torrential-climb.json](./316713-splatoon-torrential-climb.json) |
 | Splatt Curling | 261224 | [261224-splatt-curling.json](./261224-splatt-curling.json) |
 | Splatter | 173134 | [173134-splatter.json](./173134-splatter.json) |
+| Splatter: Zombiecalypse Now + The Hong Kong Massacre | 226337 | [226337-splatter-zombiecalypse-now-the-hong-kong-massacre.json](./226337-splatter-zombiecalypse-now-the-hong-kong-massacre.json) |
 | Splatterbot | 297007 | [297007-splatterbot.json](./297007-splatterbot.json) |
 | Splatterhouse | 218366 | [218366-splatterhouse.json](./218366-splatterhouse.json) |
 | Splatterhouse | 6929 | [6929-splatterhouse.json](./6929-splatterhouse.json) |
@@ -19217,6 +19222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunny Fairy | 151678 | [151678-sunny-fairy.json](./151678-sunny-fairy.json) |
 | Sunny Girl | 252265 | [252265-sunny-girl.json](./252265-sunny-girl.json) |
 | Sunny Love | 367618 | [367618-sunny-love.json](./367618-sunny-love.json) |
+| Sunny Memories | 226353 | [226353-sunny-memories.json](./226353-sunny-memories.json) |
 | Sunny Shine Funland! | 107818 | [107818-sunny-shine-funland.json](./107818-sunny-shine-funland.json) |
 | Sunny Shine on the Funny Side of Life | 123605 | [123605-sunny-shine-on-the-funny-side-of-life.json](./123605-sunny-shine-on-the-funny-side-of-life.json) |
 | Sunny Side Crossing | 309442 | [309442-sunny-side-crossing.json](./309442-sunny-side-crossing.json) |
@@ -22265,6 +22271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Hell | 293710 | [293710-sweet-hell.json](./293710-sweet-hell.json) |
 | Sweet Hide and Seek | 339460 | [339460-sweet-hide-and-seek.json](./339460-sweet-hide-and-seek.json) |
 | Sweet Holes | 392899 | [392899-sweet-holes.json](./392899-sweet-holes.json) |
+| Sweet Holiday Jigsaws: Trick or Treat | 226349 | [226349-sweet-holiday-jigsaws-trick-or-treat.json](./226349-sweet-holiday-jigsaws-trick-or-treat.json) |
 | Sweet Home | 9426 | [9426-sweet-home.json](./9426-sweet-home.json) |
 | Sweet Home 3: Look and Find - Collector's Edition | 339459 | [339459-sweet-home-3-look-and-find-collectors-edition.json](./339459-sweet-home-3-look-and-find-collectors-edition.json) |
 | Sweet Home Puzzle | 156047 | [156047-sweet-home-puzzle.json](./156047-sweet-home-puzzle.json) |
