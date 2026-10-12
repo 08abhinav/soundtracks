@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T05:51:01.702Z",
-  "total_soundtracks": 1494,
+  "generated_at": "2026-10-12T05:51:13.070Z",
+  "total_soundtracks": 1495,
   "games": [
     {
       "igdb_id": 7522,
@@ -12973,6 +12973,20 @@
           "spotify_url": "https://music.apple.com/us/album/somerville-original-video-game-soundtrack/1711799339?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1711799339"
+        }
+      ]
+    },
+    {
+      "igdb_id": 7860,
+      "game_name": "Sonic Adventure",
+      "game_url": "https://ostdb.net/games/sonic-adventure",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/c5/01/43/c5014368-7e26-dac1-489b-25f74cc676ad/ADV1_vol_1.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Sonic Adventure Original Soundtrack (vol.1)",
+          "spotify_url": "https://open.spotify.com/album/6BnmcDIk31erAWVclI0sNN",
+          "apple_music_url": "https://music.apple.com/us/album/sonic-adventure-original-soundtrack-vol-1/915243307",
+          "album_link_url": "https://album.link/i/915243307"
         }
       ]
     },
