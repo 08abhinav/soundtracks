@@ -930,6 +930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Designs I: Grelminar's Staff | 72104 | [72104-dark-designs-i-grelminars-staff.json](./72104-dark-designs-i-grelminars-staff.json) |
 | Dark Designs II: Closing the Gate | 73329 | [73329-dark-designs-ii-closing-the-gate.json](./73329-dark-designs-ii-closing-the-gate.json) |
 | Dark Designs III: Retribution! | 356865 | [356865-dark-designs-iii-retribution.json](./356865-dark-designs-iii-retribution.json) |
+| Dark Desire 2 | 201472 | [201472-dark-desire-2.json](./201472-dark-desire-2.json) |
 | Dark Desire Mute 3 | 241295 | [241295-dark-desire-mute-3.json](./241295-dark-desire-mute-3.json) |
 | Dark Desire Mute 4 | 245918 | [245918-dark-desire-mute-4.json](./245918-dark-desire-mute-4.json) |
 | Dark Desire Mute 5 | 250029 | [250029-dark-desire-mute-5.json](./250029-dark-desire-mute-5.json) |
@@ -3800,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Horizon | 106560 | [106560-delta-horizon.json](./106560-delta-horizon.json) |
 | Delta Man | 39777 | [39777-delta-man.json](./39777-delta-man.json) |
 | Delta Manager | 398464 | [398464-delta-manager.json](./398464-delta-manager.json) |
+| Delta Manifold | 201509 | [201509-delta-manifold.json](./201509-delta-manifold.json) |
 | Delta MMORPG | 274944 | [274944-delta-mmorpg.json](./274944-delta-mmorpg.json) |
 | Delta Online | 390011 | [390011-delta-online.json](./390011-delta-online.json) |
 | Delta Particles | 196729 | [196729-delta-particles.json](./196729-delta-particles.json) |
@@ -10190,6 +10192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreaming Seal Simulator | 325288 | [325288-dreaming-seal-simulator.json](./325288-dreaming-seal-simulator.json) |
 | Dreaming Treat | 146517 | [146517-dreaming-treat.json](./146517-dreaming-treat.json) |
 | Dreaming with You | 267474 | [267474-dreaming-with-you.json](./267474-dreaming-with-you.json) |
+| Dreaming Worlds | 201516 | [201516-dreaming-worlds.json](./201516-dreaming-worlds.json) |
 | DreamIsland | 207357 | [207357-dreamisland.json](./207357-dreamisland.json) |
 | Dreamjob: Programmer | 132801 | [132801-dreamjob-programmer.json](./132801-dreamjob-programmer.json) |
 | Dreamkiller | 11331 | [11331-dreamkiller.json](./11331-dreamkiller.json) |
