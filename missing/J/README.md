@@ -648,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Monsters | 60573 | [60573-jelly-monsters.json](./60573-jelly-monsters.json) |
 | Jelly no Puzzle | 141197 | [141197-jelly-no-puzzle.json](./141197-jelly-no-puzzle.json) |
 | Jelly Pops | 22934 | [22934-jelly-pops.json](./22934-jelly-pops.json) |
+| Jelly Run 2048 | 221351 | [221351-jelly-run-2048.json](./221351-jelly-run-2048.json) |
 | Jelly Troops | 324864 | [324864-jelly-troops.json](./324864-jelly-troops.json) |
 | Jelly Truck | 322049 | [322049-jelly-truck.json](./322049-jelly-truck.json) |
 | Jelly Wants More | 105377 | [105377-jelly-wants-more.json](./105377-jelly-wants-more.json) |
@@ -2522,6 +2523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Beneath the Skin 2D | 29228 | [29228-just-beneath-the-skin-2d.json](./29228-just-beneath-the-skin-2d.json) |
 | Just Black Jack | 124025 | [124025-just-black-jack.json](./124025-just-black-jack.json) |
 | Just Blob | 217840 | [217840-just-blob.json](./217840-just-blob.json) |
+| Just Blocks | 221352 | [221352-just-blocks.json](./221352-just-blocks.json) |
 | Just Button | 240160 | [240160-just-button.json](./240160-just-button.json) |
 | Just Cause | 1042 | [1042-just-cause.json](./1042-just-cause.json) |
 | Just Cause 2 - Black Market Boom Pack DLC | 288997 | [288997-just-cause-2-black-market-boom-pack-dlc.json](./288997-just-cause-2-black-market-boom-pack-dlc.json) |
