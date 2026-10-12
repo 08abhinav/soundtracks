@@ -16383,6 +16383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonari ni Kanojo no Iru Shiawase: Winter Guest - Limited Edition | 212314 | [212314-tonari-ni-kanojo-no-iru-shiawase-winter-guest-limited-edition.json](./212314-tonari-ni-kanojo-no-iru-shiawase-winter-guest-limited-edition.json) |
 | Tonari no My Teacher | 98017 | [98017-tonari-no-my-teacher.json](./98017-tonari-no-my-teacher.json) |
 | Tonari no Princess Rolfee! | 70402 | [70402-tonari-no-princess-rolfee.json](./70402-tonari-no-princess-rolfee.json) |
+| Tonari no Totoro | 184324 | [184324-tonari-no-totoro.json](./184324-tonari-no-totoro.json) |
 | Tonarino | 400960 | [400960-tonarino.json](./400960-tonarino.json) |
 | Tondeke Perman | 385570 | [385570-tondeke-perman.json](./385570-tondeke-perman.json) |
 | Tone Sphere | 82740 | [82740-tone-sphere.json](./82740-tone-sphere.json) |
@@ -19170,7 +19171,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Dark of the Moon - Decepticons | 141826 | [141826-transformers-dark-of-the-moon-decepticons.json](./141826-transformers-dark-of-the-moon-decepticons.json) |
 | Transformers: Dark of the Moon - Stealth Force Edition | 51021 | [51021-transformers-dark-of-the-moon-stealth-force-edition.json](./51021-transformers-dark-of-the-moon-stealth-force-edition.json) |
 | Transformers: Decepticons | 206749 | [206749-transformers-decepticons.json](./206749-transformers-decepticons.json) |
-| Transformers: Devastation | 11175 | [11175-transformers-devastation.json](./11175-transformers-devastation.json) |
 | Transformers: Earth Wars | 58345 | [58345-transformers-earth-wars.json](./58345-transformers-earth-wars.json) |
 | Transformers: Fall of Cybertron | 8361 | [8361-transformers-fall-of-cybertron.json](./8361-transformers-fall-of-cybertron.json) |
 | Transformers: Forged to Fight | 27995 | [27995-transformers-forged-to-fight.json](./27995-transformers-forged-to-fight.json) |
