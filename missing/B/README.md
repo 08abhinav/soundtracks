@@ -654,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badminton Time VR | 345967 | [345967-badminton-time-vr.json](./345967-badminton-time-vr.json) |
 | Badnik Hunt 2 | 330115 | [330115-badnik-hunt-2.json](./330115-badnik-hunt-2.json) |
 | Badpak | 271952 | [271952-badpak.json](./271952-badpak.json) |
+| BadSmith | 223365 | [223365-badsmith.json](./223365-badsmith.json) |
 | Baduk Challenge | 365880 | [365880-baduk-challenge.json](./365880-baduk-challenge.json) |
 | Bae Bash! The Chaos Collection | 372066 | [372066-bae-bash-the-chaos-collection.json](./372066-bae-bash-the-chaos-collection.json) |
 | Bae Yong-joon to Manabu Kankokugo DS: Date-Hen | 269660 | [269660-bae-yong-joon-to-manabu-kankokugo-ds-date-hen.json](./269660-bae-yong-joon-to-manabu-kankokugo-ds-date-hen.json) |
@@ -6785,6 +6786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blokker | 156585 | [156585-blokker.json](./156585-blokker.json) |
 | Blokker: Orange | 163909 | [163909-blokker-orange.json](./163909-blokker-orange.json) |
 | Blokoto | 346585 | [346585-blokoto.json](./346585-blokoto.json) |
+| Blokshot Halloween | 223611 | [223611-blokshot-halloween.json](./223611-blokshot-halloween.json) |
 | Bloksie (For Now) | 386469 | [386469-bloksie-for-now.json](./386469-bloksie-for-now.json) |
 | Bloktris | 267558 | [267558-bloktris.json](./267558-bloktris.json) |
 | Bloku! | 259541 | [259541-bloku.json](./259541-bloku.json) |
@@ -7861,6 +7863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber | 171464 | [171464-bomber.json](./171464-bomber.json) |
 | Bomber | 249775 | [249775-bomber.json](./249775-bomber.json) |
 | Bomber | 270399 | [270399-bomber.json](./270399-bomber.json) |
+| Bomber 3 | 223361 | [223361-bomber-3.json](./223361-bomber-3.json) |
 | Bomber 95 | 106506 | [106506-bomber-95.json](./106506-bomber-95.json) |
 | Bomber Barn | 113497 | [113497-bomber-barn.json](./113497-bomber-barn.json) |
 | Bomber Baron | 15683 | [15683-bomber-baron.json](./15683-bomber-baron.json) |
@@ -9807,6 +9810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brigandine | 143118 | [143118-brigandine.json](./143118-brigandine.json) |
 | Brigandine: The Legend of Runersia | 121960 | [121960-brigandine-the-legend-of-runersia.json](./121960-brigandine-the-legend-of-runersia.json) |
 | Brigandine: The Legend of Runersia - Limited Edition | 136950 | [136950-brigandine-the-legend-of-runersia-limited-edition.json](./136950-brigandine-the-legend-of-runersia-limited-edition.json) |
+| Brigands and Barbarians | 223637 | [223637-brigands-and-barbarians.json](./223637-brigands-and-barbarians.json) |
 | Briganty: The Roots of Darkness | 73820 | [73820-briganty-the-roots-of-darkness.json](./73820-briganty-the-roots-of-darkness.json) |
 | Bright Bird | 139208 | [139208-bright-bird.json](./139208-bright-bird.json) |
 | Bright Bob | 83523 | [83523-bright-bob.json](./83523-bright-bob.json) |
