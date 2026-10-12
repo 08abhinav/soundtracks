@@ -3695,6 +3695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Machina | 331323 | [331323-chaos-machina.json](./331323-chaos-machina.json) |
 | Chaos Magic: Towers and Wizards | 236199 | [236199-chaos-magic-towers-and-wizards.json](./236199-chaos-magic-towers-and-wizards.json) |
 | Chaos Maker | 113033 | [113033-chaos-maker.json](./113033-chaos-maker.json) |
+| Chaos Mansion | 185364 | [185364-chaos-mansion.json](./185364-chaos-mansion.json) |
 | Chaos Mecha | 208084 | [208084-chaos-mecha.json](./208084-chaos-mecha.json) |
 | Chaos Metaverse | 267658 | [267658-chaos-metaverse.json](./267658-chaos-metaverse.json) |
 | Chaos of East | 101353 | [101353-chaos-of-east.json](./101353-chaos-of-east.json) |
@@ -9503,6 +9504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Invasion | 335844 | [335844-cosmic-invasion.json](./335844-cosmic-invasion.json) |
 | Cosmic Kitchen | 295272 | [295272-cosmic-kitchen.json](./295272-cosmic-kitchen.json) |
 | Cosmic Kites | 38814 | [38814-cosmic-kites.json](./38814-cosmic-kites.json) |
+| Cosmic Lander | 185374 | [185374-cosmic-lander.json](./185374-cosmic-lander.json) |
 | Cosmic League | 57108 | [57108-cosmic-league.json](./57108-cosmic-league.json) |
 | Cosmic League | 57134 | [57134-cosmic-league.json](./57134-cosmic-league.json) |
 | Cosmic Mart | 409021 | [409021-cosmic-mart.json](./409021-cosmic-mart.json) |
