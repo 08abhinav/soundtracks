@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vagabond's Quest | 312379 | [312379-vagabonds-quest.json](./312379-vagabonds-quest.json) |
 | Vagabond's Quest 2 | 312380 | [312380-vagabonds-quest-2.json](./312380-vagabonds-quest-2.json) |
 | Vagabones | 363949 | [363949-vagabones.json](./363949-vagabones.json) |
+| Vagalumancer | 221915 | [221915-vagalumancer.json](./221915-vagalumancer.json) |
 | Vagalume | 393741 | [393741-vagalume.json](./393741-vagalume.json) |
 | Vagan Attack | 71499 | [71499-vagan-attack.json](./71499-vagan-attack.json) |
 | Vagnerun | 324339 | [324339-vagnerun.json](./324339-vagnerun.json) |
@@ -1486,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Villager | 178521 | [178521-villager.json](./178521-villager.json) |
 | Villager comes alive | 192451 | [192451-villager-comes-alive.json](./192451-villager-comes-alive.json) |
 | Villager's Biography | 102929 | [102929-villagers-biography.json](./102929-villagers-biography.json) |
+| VillageRhapsody | 225808 | [225808-villagerhapsody.json](./225808-villagerhapsody.json) |
 | Villagers and Heroes | 16843 | [16843-villagers-and-heroes.json](./16843-villagers-and-heroes.json) |
 | Villaging | 249906 | [249906-villaging.json](./249906-villaging.json) |
 | Villain Academy | 379694 | [379694-villain-academy.json](./379694-villain-academy.json) |
