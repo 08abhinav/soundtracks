@@ -843,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangame | 109567 | [109567-hangame.json](./109567-hangame.json) |
 | Hangar 27 | 269121 | [269121-hangar-27.json](./269121-hangar-27.json) |
 | Hangar 51: Classified Investigation | 382276 | [382276-hangar-51-classified-investigation.json](./382276-hangar-51-classified-investigation.json) |
+| Hangaroo | 225814 | [225814-hangaroo.json](./225814-hangaroo.json) |
 | Hangler | 388728 | [388728-hangler.json](./388728-hangler.json) |
 | Hangman | 17259 | [17259-hangman.json](./17259-hangman.json) |
 | Hangman | 230850 | [230850-hangman.json](./230850-hangman.json) |
@@ -4233,6 +4234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi-Ten Bomberman | 77942 | [77942-hi-ten-bomberman.json](./77942-hi-ten-bomberman.json) |
 | Hi-way | 18201 | [18201-hi-way.json](./18201-hi-way.json) |
 | Hibachi Hero | 395015 | [395015-hibachi-hero.json](./395015-hibachi-hero.json) |
+| Hibernaculum | 225794 | [225794-hibernaculum.json](./225794-hibernaculum.json) |
 | Hibernation | 339638 | [339638-hibernation.json](./339638-hibernation.json) |
 | Hibernation Day | 247772 | [247772-hibernation-day.json](./247772-hibernation-day.json) |
 | Hibernia | 185084 | [185084-hibernia.json](./185084-hibernia.json) |
@@ -5487,6 +5489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Eye Spy 2 | 391337 | [391337-holiday-eye-spy-2.json](./391337-holiday-eye-spy-2.json) |
 | Holiday Flight Simulator | 32112 | [32112-holiday-flight-simulator.json](./32112-holiday-flight-simulator.json) |
 | Holiday Haywire | 236233 | [236233-holiday-haywire.json](./236233-holiday-haywire.json) |
+| Holiday Hex | 225789 | [225789-holiday-hex.json](./225789-holiday-hex.json) |
 | Holiday Hits | 279774 | [279774-holiday-hits.json](./279774-holiday-hits.json) |
 | Holiday Holocaust | 273139 | [273139-holiday-holocaust.json](./273139-holiday-holocaust.json) |
 | Holiday in Europe: Czech Adventure - Collector's Edition | 344413 | [344413-holiday-in-europe-czech-adventure-collectors-edition.json](./344413-holiday-in-europe-czech-adventure-collectors-edition.json) |
@@ -6825,6 +6828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House 2 | 267094 | [267094-house-2.json](./267094-house-2.json) |
 | House 3D: Move and Unpack | 196680 | [196680-house-3d-move-and-unpack.json](./196680-house-3d-move-and-unpack.json) |
 | House Build Flipper | 104584 | [104584-house-build-flipper.json](./104584-house-build-flipper.json) |
+| House Builder & Ultimate Fishing Simulator | 225831 | [225831-house-builder-and-ultimate-fishing-simulator.json](./225831-house-builder-and-ultimate-fishing-simulator.json) |
 | House Builder 2 | 343234 | [343234-house-builder-2.json](./343234-house-builder-2.json) |
 | House Call | 386983 | [386983-house-call.json](./386983-house-call.json) |
 | House Chores | 123994 | [123994-house-chores.json](./123994-house-chores.json) |
@@ -7327,6 +7331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human vs Monster | 150693 | [150693-human-vs-monster.json](./150693-human-vs-monster.json) |
 | Human Wall Simulator | 260414 | [260414-human-wall-simulator.json](./260414-human-wall-simulator.json) |
 | Human Within | 326045 | [326045-human-within.json](./326045-human-within.json) |
+| Human Zoo | 224151 | [224151-human-zoo.json](./224151-human-zoo.json) |
 | Human-Like | 157185 | [157185-human-like.json](./157185-human-like.json) |
 | Human, we have a problem | 32810 | [32810-human-we-have-a-problem.json](./32810-human-we-have-a-problem.json) |
 | Human: Fall Flat - Anniversary Edition | 139945 | [139945-human-fall-flat-anniversary-edition.json](./139945-human-fall-flat-anniversary-edition.json) |
