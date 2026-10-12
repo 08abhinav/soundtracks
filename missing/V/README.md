@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V pod''ezde | 116844 | [116844-v-podezde.json](./116844-v-podezde.json) |
 | V poiskakh Atlantidy | 111215 | [111215-v-poiskakh-atlantidy.json](./111215-v-poiskakh-atlantidy.json) |
 | V Rising | 148228 | [148228-v-rising.json](./148228-v-rising.json) |
+| V Rising: Dracula's Relics Pack | 226891 | [226891-v-rising-draculas-relics-pack.json](./226891-v-rising-draculas-relics-pack.json) |
 | V Rising: Founder's Pack - Eldest Bloodline | 297468 | [297468-v-rising-founders-pack-eldest-bloodline.json](./297468-v-rising-founders-pack-eldest-bloodline.json) |
 | V Rising: Haunted Nights Castle Pack | 272217 | [272217-v-rising-haunted-nights-castle-pack.json](./272217-v-rising-haunted-nights-castle-pack.json) |
 | V Rising: Invaders of Oakvale | 339621 | [339621-v-rising-invaders-of-oakvale.json](./339621-v-rising-invaders-of-oakvale.json) |
@@ -314,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie Crusade | 62574 | [62574-valkyrie-crusade.json](./62574-valkyrie-crusade.json) |
 | Valkyrie Drive: Bhikkhuni | 11527 | [11527-valkyrie-drive-bhikkhuni.json](./11527-valkyrie-drive-bhikkhuni.json) |
 | Valkyrie Drive: Bhikkhuni - Bikini Party Edition | 379957 | [379957-valkyrie-drive-bhikkhuni-bikini-party-edition.json](./379957-valkyrie-drive-bhikkhuni-bikini-party-edition.json) |
+| Valkyrie Drive: Bhikkhuni - Complete DLC Pack | 226892 | [226892-valkyrie-drive-bhikkhuni-complete-dlc-pack.json](./226892-valkyrie-drive-bhikkhuni-complete-dlc-pack.json) |
 | Valkyrie Drive: Bhikkhuni - Liberator's Edition | 42678 | [42678-valkyrie-drive-bhikkhuni-liberators-edition.json](./42678-valkyrie-drive-bhikkhuni-liberators-edition.json) |
 | Valkyrie Drive: Bhikkhuni - Nyuu Nyuu DX Pack | 380519 | [380519-valkyrie-drive-bhikkhuni-nyuu-nyuu-dx-pack.json](./380519-valkyrie-drive-bhikkhuni-nyuu-nyuu-dx-pack.json) |
 | Valkyrie Elysium | 194207 | [194207-valkyrie-elysium.json](./194207-valkyrie-elysium.json) |
@@ -1238,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victoria II | 11037 | [11037-victoria-ii.json](./11037-victoria-ii.json) |
 | Victoria II: A House Divided | 11038 | [11038-victoria-ii-a-house-divided.json](./11038-victoria-ii-a-house-divided.json) |
 | Victoria II: Heart of Darkness | 11039 | [11039-victoria-ii-heart-of-darkness.json](./11039-victoria-ii-heart-of-darkness.json) |
+| Victoria II: Interwar Cavalry Unit Pack | 226893 | [226893-victoria-ii-interwar-cavalry-unit-pack.json](./226893-victoria-ii-interwar-cavalry-unit-pack.json) |
 | Victoria: An Empire Under the Sun | 11036 | [11036-victoria-an-empire-under-the-sun.json](./11036-victoria-an-empire-under-the-sun.json) |
 | Victoria: Revolutions | 11035 | [11035-victoria-revolutions.json](./11035-victoria-revolutions.json) |
 | Victoria's Body | 158655 | [158655-victorias-body.json](./158655-victorias-body.json) |
