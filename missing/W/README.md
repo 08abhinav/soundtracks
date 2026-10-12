@@ -1904,6 +1904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We the People | 236841 | [236841-we-the-people.json](./236841-we-the-people.json) |
 | We The Pixies | 365805 | [365805-we-the-pixies.json](./365805-we-the-pixies.json) |
 | We Thieves HD | 343368 | [343368-we-thieves-hd.json](./343368-we-thieves-hd.json) |
+| We Took That Trip | 203678 | [203678-we-took-that-trip.json](./203678-we-took-that-trip.json) |
 | We Walked In Darkness | 81734 | [81734-we-walked-in-darkness.json](./81734-we-walked-in-darkness.json) |
 | We Want You | 242646 | [242646-we-want-you.json](./242646-we-want-you.json) |
 | We Want Your Head | 383154 | [383154-we-want-your-head.json](./383154-we-want-your-head.json) |
