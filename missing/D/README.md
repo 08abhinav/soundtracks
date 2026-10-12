@@ -3043,6 +3043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeCalc | 62972 | [62972-decalc.json](./62972-decalc.json) |
 | Decamped | 157028 | [157028-decamped.json](./157028-decamped.json) |
 | Décapita | 356056 | [356056-decapita.json](./356056-decapita.json) |
+| Decarathon | 180515 | [180515-decarathon.json](./180515-decarathon.json) |
 | Decathlon | 242097 | [242097-decathlon.json](./242097-decathlon.json) |
 | Decathlon 2012 | 85078 | [85078-decathlon-2012.json](./85078-decathlon-2012.json) |
 | Decay | 122884 | [122884-decay.json](./122884-decay.json) |
@@ -3114,6 +3115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck of Stabs | 346745 | [346745-deck-of-stabs.json](./346745-deck-of-stabs.json) |
 | Deck of the Dead | 240689 | [240689-deck-of-the-dead.json](./240689-deck-of-the-dead.json) |
 | Deck Remover | 295535 | [295535-deck-remover.json](./295535-deck-remover.json) |
+| Deck RX | 180509 | [180509-deck-rx.json](./180509-deck-rx.json) |
 | Deck the Halls, Gieves | 371403 | [371403-deck-the-halls-gieves.json](./371403-deck-the-halls-gieves.json) |
 | Deck the Underhalls | 326803 | [326803-deck-the-underhalls.json](./326803-deck-the-underhalls.json) |
 | Deck Warlords | 110304 | [110304-deck-warlords.json](./110304-deck-warlords.json) |
