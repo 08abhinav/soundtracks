@@ -505,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero 4 Champ | 37648 | [37648-zero-4-champ.json](./37648-zero-4-champ.json) |
 | Zero 5 | 40818 | [40818-zero-5.json](./40818-zero-5.json) |
 | Zero City: Try to Survive | 140935 | [140935-zero-city-try-to-survive.json](./140935-zero-city-try-to-survive.json) |
+| Zero Comico | 185970 | [185970-zero-comico.json](./185970-zero-comico.json) |
 | Zero Conflict TD | 271276 | [271276-zero-conflict-td.json](./271276-zero-conflict-td.json) |
 | Zero Core: Exile | 140579 | [140579-zero-core-exile.json](./140579-zero-core-exile.json) |
 | Zero Days Since | 289337 | [289337-zero-days-since.json](./289337-zero-days-since.json) |
@@ -835,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoku: The Legend of Bishin | 38239 | [38239-zoku-the-legend-of-bishin.json](./38239-zoku-the-legend-of-bishin.json) |
 | Zolana: Girl Galactic | 404943 | [404943-zolana-girl-galactic.json](./404943-zolana-girl-galactic.json) |
 | Zolaris | 153454 | [153454-zolaris.json](./153454-zolaris.json) |
+| Zold:out | 188328 | [188328-zold-out.json](./188328-zold-out.json) |
 | Zoltan's Curse | 302158 | [302158-zoltans-curse.json](./302158-zoltans-curse.json) |
 | Zolyx | 52202 | [52202-zolyx.json](./52202-zolyx.json) |
 | Zom Nom | 127768 | [127768-zom-nom.json](./127768-zom-nom.json) |
