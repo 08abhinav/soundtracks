@@ -6944,6 +6944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aozora Under Girls: Karsome Irony | 119755 | [119755-aozora-under-girls-karsome-irony.json](./119755-aozora-under-girls-karsome-irony.json) |
 | Aozora Under Girls! | 54933 | [54933-aozora-under-girls.json](./54933-aozora-under-girls.json) |
 | Apache | 600 | [600-apache.json](./600-apache.json) |
+| Apache 3D Sim Flight Simulator | 223635 | [223635-apache-3d-sim-flight-simulator.json](./223635-apache-3d-sim-flight-simulator.json) |
 | Apache Overkill | 42782 | [42782-apache-overkill.json](./42782-apache-overkill.json) |
 | Apache Strike | 137662 | [137662-apache-strike.json](./137662-apache-strike.json) |
 | Apacies: Creatures of the Old West | 271662 | [271662-apacies-creatures-of-the-old-west.json](./271662-apacies-creatures-of-the-old-west.json) |
@@ -6990,6 +6991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ape Quest | 42799 | [42799-ape-quest.json](./42799-ape-quest.json) |
 | Ape Reunion | 271267 | [271267-ape-reunion.json](./271267-ape-reunion.json) |
 | Ape Squad | 271677 | [271677-ape-squad.json](./271677-ape-squad.json) |
+| Ape vs. Caveman | 223636 | [223636-ape-vs-caveman.json](./223636-ape-vs-caveman.json) |
 | Apeiron: Tower Defense | 170856 | [170856-apeiron-tower-defense.json](./170856-apeiron-tower-defense.json) |
 | Aperion Cyberstorm | 14385 | [14385-aperion-cyberstorm.json](./14385-aperion-cyberstorm.json) |
 | Aperture | 287217 | [287217-aperture.json](./287217-aperture.json) |
@@ -7129,6 +7131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo Sonata | 372785 | [372785-apollo-sonata.json](./372785-apollo-sonata.json) |
 | Apollo Titanic Bundle | 118856 | [118856-apollo-titanic-bundle.json](./118856-apollo-titanic-bundle.json) |
 | Apollo X | 120292 | [120292-apollo-x.json](./120292-apollo-x.json) |
+| Apollo: A Dream Odyssey | 223614 | [223614-apollo-a-dream-odyssey.json](./223614-apollo-a-dream-odyssey.json) |
 | Apollo's Palace | 186601 | [186601-apollos-palace.json](./186601-apollos-palace.json) |
 | Apollo4x | 26978 | [26978-apollo4x.json](./26978-apollo4x.json) |
 | Apology Video | 406316 | [406316-apology-video.json](./406316-apology-video.json) |
