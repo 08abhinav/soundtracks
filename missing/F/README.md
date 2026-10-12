@@ -1041,6 +1041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Game Night 4: The Game Show | 47421 | [47421-family-game-night-4-the-game-show.json](./47421-family-game-night-4-the-game-show.json) |
 | Family Games | 270327 | [270327-family-games.json](./270327-family-games.json) |
 | Family Games | 45930 | [45930-family-games.json](./45930-family-games.json) |
+| Family Games Bundle: My Magic Florist + Pet Shop Snacks + Bubble Cats Rescue | 199830 | [199830-family-games-bundle-my-magic-florist-pet-shop-snacks-bubble-cats-rescue.json](./199830-family-games-bundle-my-magic-florist-pet-shop-snacks-bubble-cats-rescue.json) |
 | Family Games Compendium | 79241 | [79241-family-games-compendium.json](./79241-family-games-compendium.json) |
 | Family Games II: Junk Food Jive | 45929 | [45929-family-games-ii-junk-food-jive.json](./45929-family-games-ii-junk-food-jive.json) |
 | Family Go-Kart Racing | 50695 | [50695-family-go-kart-racing.json](./50695-family-go-kart-racing.json) |
@@ -5776,7 +5777,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Truck Tycoon: Asian Cuisine | 147922 | [147922-food-truck-tycoon-asian-cuisine.json](./147922-food-truck-tycoon-asian-cuisine.json) |
 | Food Truck Tycoon: Asian Cuisine - Complete Edition | 238046 | [238046-food-truck-tycoon-asian-cuisine-complete-edition.json](./238046-food-truck-tycoon-asian-cuisine-complete-edition.json) |
 | Food Truck Tycoon: Asian Cuisine - Deluxe Edition | 204297 | [204297-food-truck-tycoon-asian-cuisine-deluxe-edition.json](./204297-food-truck-tycoon-asian-cuisine-deluxe-edition.json) |
+| Food Truck Tycoon: Asian Cuisine Expansion Pack 2 | 199855 | [199855-food-truck-tycoon-asian-cuisine-expansion-pack-2.json](./199855-food-truck-tycoon-asian-cuisine-expansion-pack-2.json) |
 | Food Truck Tycoon: Co-op Edition | 247590 | [247590-food-truck-tycoon-co-op-edition.json](./247590-food-truck-tycoon-co-op-edition.json) |
+| Food Truck Tycoon: Complete Edition | 199845 | [199845-food-truck-tycoon-complete-edition.json](./199845-food-truck-tycoon-complete-edition.json) |
+| Food Truck Tycoon: Expansion Pack 2 | 199838 | [199838-food-truck-tycoon-expansion-pack-2.json](./199838-food-truck-tycoon-expansion-pack-2.json) |
 | Food Truck Tycoon: GOTY Edition | 268556 | [268556-food-truck-tycoon-goty-edition.json](./268556-food-truck-tycoon-goty-edition.json) |
 | Food Truck VR | 343329 | [343329-food-truck-vr.json](./343329-food-truck-vr.json) |
 | Food Wagon | 333359 | [333359-food-wagon.json](./333359-food-wagon.json) |
