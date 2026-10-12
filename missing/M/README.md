@@ -12484,13 +12484,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant DNA | 341689 | [341689-mutant-dna.json](./341689-mutant-dna.json) |
 | Mutant Fighting Cup | 234193 | [234193-mutant-fighting-cup.json](./234193-mutant-fighting-cup.json) |
 | Mutant Football League 2 | 296351 | [296351-mutant-football-league-2.json](./296351-mutant-football-league-2.json) |
+| Mutant Football League: Brainwashington Cadavers | 227389 | [227389-mutant-football-league-brainwashington-cadavers.json](./227389-mutant-football-league-brainwashington-cadavers.json) |
 | Mutant Football League: Brawltimore Razors | 154931 | [154931-mutant-football-league-brawltimore-razors.json](./154931-mutant-football-league-brawltimore-razors.json) |
 | Mutant Football League: Complete Bundle | 271469 | [271469-mutant-football-league-complete-bundle.json](./271469-mutant-football-league-complete-bundle.json) |
 | Mutant Football League: Diami Krakens | 226704 | [226704-mutant-football-league-diami-krakens.json](./226704-mutant-football-league-diami-krakens.json) |
+| Mutant Football League: Diami Krakens | 227388 | [227388-mutant-football-league-diami-krakens.json](./227388-mutant-football-league-diami-krakens.json) |
 | Mutant Football League: Dynasty Edition - Purple Oil Pack | 154927 | [154927-mutant-football-league-dynasty-edition-purple-oil-pack.json](./154927-mutant-football-league-dynasty-edition-purple-oil-pack.json) |
 | Mutant Football League: Dynasty Edition DLC Pack | 118973 | [118973-mutant-football-league-dynasty-edition-dlc-pack.json](./118973-mutant-football-league-dynasty-edition-dlc-pack.json) |
 | Mutant Football League: Gnashville Lycans | 154929 | [154929-mutant-football-league-gnashville-lycans.json](./154929-mutant-football-league-gnashville-lycans.json) |
 | Mutant Football League: LA Power Pack | 154926 | [154926-mutant-football-league-la-power-pack.json](./154926-mutant-football-league-la-power-pack.json) |
+| Mutant Football League: New Yuck Threats | 227393 | [227393-mutant-football-league-new-yuck-threats.json](./227393-mutant-football-league-new-yuck-threats.json) |
 | Mutant Football League: Sin Fransicko Forty Nightmares | 154928 | [154928-mutant-football-league-sin-fransicko-forty-nightmares.json](./154928-mutant-football-league-sin-fransicko-forty-nightmares.json) |
 | Mutant Football League: Sinsonasty Mangles | 226695 | [226695-mutant-football-league-sinsonasty-mangles.json](./226695-mutant-football-league-sinsonasty-mangles.json) |
 | Mutant Football League: Snuffalo Thrills | 154930 | [154930-mutant-football-league-snuffalo-thrills.json](./154930-mutant-football-league-snuffalo-thrills.json) |
