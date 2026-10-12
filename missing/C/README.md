@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Deer Hunt: 2004 Season | 5764 | [5764-cabelas-deer-hunt-2004-season.json](./5764-cabelas-deer-hunt-2004-season.json) |
 | Cabela's Deer Hunt: 2005 Season | 5765 | [5765-cabelas-deer-hunt-2005-season.json](./5765-cabelas-deer-hunt-2005-season.json) |
 | Cabela's Grand Slam Hunting: North American 29 | 78057 | [78057-cabelas-grand-slam-hunting-north-american-29.json](./78057-cabelas-grand-slam-hunting-north-american-29.json) |
+| Cabela's GrandSlam Hunting: 2004 Trophies | 209774 | [209774-cabelas-grandslam-hunting-2004-trophies.json](./209774-cabelas-grandslam-hunting-2004-trophies.json) |
 | Cabela's Legendary Adventures | 51037 | [51037-cabelas-legendary-adventures.json](./51037-cabelas-legendary-adventures.json) |
 | Cabela's Monster Bass | 43219 | [43219-cabelas-monster-bass.json](./43219-cabelas-monster-bass.json) |
 | Cabela's Survival: Shadows of Katmai | 6651 | [6651-cabelas-survival-shadows-of-katmai.json](./6651-cabelas-survival-shadows-of-katmai.json) |
@@ -7178,6 +7179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoLab | 31943 | [31943-colab.json](./31943-colab.json) |
 | CoLane | 405666 | [405666-colane.json](./405666-colane.json) |
 | Colby | 47156 | [47156-colby.json](./47156-colby.json) |
+| Cold | 209773 | [209773-cold.json](./209773-cold.json) |
 | Cold | 344370 | [344370-cold.json](./344370-cold.json) |
 | Cold Abyss | 275906 | [275906-cold-abyss.json](./275906-cold-abyss.json) |
 | Cold Abyss | 325709 | [325709-cold-abyss.json](./325709-cold-abyss.json) |
