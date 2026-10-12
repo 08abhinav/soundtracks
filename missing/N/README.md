@@ -1023,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebuchadnezzar | 126806 | [126806-nebuchadnezzar.json](./126806-nebuchadnezzar.json) |
 | Nebuchadnezzar: The Adventures of Sargon | 226718 | [226718-nebuchadnezzar-the-adventures-of-sargon.json](./226718-nebuchadnezzar-the-adventures-of-sargon.json) |
 | Nebula | 197412 | [197412-nebula.json](./197412-nebula.json) |
+| Nebula | 212962 | [212962-nebula.json](./212962-nebula.json) |
 | Nebula | 329118 | [329118-nebula.json](./329118-nebula.json) |
 | Nebula | 53395 | [53395-nebula.json](./53395-nebula.json) |
 | Nebula Cleanup Crew | 373520 | [373520-nebula-cleanup-crew.json](./373520-nebula-cleanup-crew.json) |
@@ -1371,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekomew's Potty Trouble | 81921 | [81921-nekomews-potty-trouble.json](./81921-nekomews-potty-trouble.json) |
 | NekoMiko | 114367 | [114367-nekomiko.json](./114367-nekomiko.json) |
 | Nekomin Kittens Invasion | 351725 | [351725-nekomin-kittens-invasion.json](./351725-nekomin-kittens-invasion.json) |
+| NekoNecro | 212970 | [212970-nekonecro.json](./212970-nekonecro.json) |
 | Nekopara After | 307678 | [307678-nekopara-after.json](./307678-nekopara-after.json) |
 | Nekopara Extra | 106416 | [106416-nekopara-extra.json](./106416-nekopara-extra.json) |
 | Nekopara Love Project Vol. 1 | 307680 | [307680-nekopara-love-project-vol-1.json](./307680-nekopara-love-project-vol-1.json) |
@@ -2562,6 +2564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nick | 29921 | [29921-nick.json](./29921-nick.json) |
 | Nick Bounty: A Case of the Crabs | 219150 | [219150-nick-bounty-a-case-of-the-crabs.json](./219150-nick-bounty-a-case-of-the-crabs.json) |
 | Nick Bounty: The Dame with the Blue Chewed Shoe. | 111203 | [111203-nick-bounty-the-dame-with-the-blue-chewed-shoe.json](./111203-nick-bounty-the-dame-with-the-blue-chewed-shoe.json) |
+| Nick Bounty: The Goat in the Grey Fedora - Remastered | 212968 | [212968-nick-bounty-the-goat-in-the-grey-fedora-remastered.json](./212968-nick-bounty-the-goat-in-the-grey-fedora-remastered.json) |
 | Nick Brawl Community Edition | 325669 | [325669-nick-brawl-community-edition.json](./325669-nick-brawl-community-edition.json) |
 | Nick Faldo Championship Golf | 295038 | [295038-nick-faldo-championship-golf.json](./295038-nick-faldo-championship-golf.json) |
 | Nick Faldo's Championship Golf | 15872 | [15872-nick-faldos-championship-golf.json](./15872-nick-faldos-championship-golf.json) |
@@ -2722,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Fright | 318402 | [318402-night-fright.json](./318402-night-fright.json) |
 | Night Furries | 367512 | [367512-night-furries.json](./367512-night-furries.json) |
 | Night Gal Summer | 229340 | [229340-night-gal-summer.json](./229340-night-gal-summer.json) |
+| Night Gate | 212967 | [212967-night-gate.json](./212967-night-gate.json) |
 | Night Guard: The Last Shift | 177533 | [177533-night-guard-the-last-shift.json](./177533-night-guard-the-last-shift.json) |
 | Night Guardian | 123527 | [123527-night-guardian.json](./123527-night-guardian.json) |
 | Night Gunner | 46078 | [46078-night-gunner.json](./46078-night-gunner.json) |
@@ -3017,6 +3021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmares from the Deep: The Cursed Heart - Collector's Edition | 88494 | [88494-nightmares-from-the-deep-the-cursed-heart-collectors-edition.json](./88494-nightmares-from-the-deep-the-cursed-heart-collectors-edition.json) |
 | Nightmares Mansion: Scary Dreams | 315104 | [315104-nightmares-mansion-scary-dreams.json](./315104-nightmares-mansion-scary-dreams.json) |
 | Nightmares of Death | 96205 | [96205-nightmares-of-death.json](./96205-nightmares-of-death.json) |
+| Nightmares of the death | 212969 | [212969-nightmares-of-the-death.json](./212969-nightmares-of-the-death.json) |
 | Nightmarescape | 280471 | [280471-nightmarescape.json](./280471-nightmarescape.json) |
 | NightmareScape | 255879 | [255879-nightmarescape.json](./255879-nightmarescape.json) |
 | NightMaresToBe | 163824 | [163824-nightmarestobe.json](./163824-nightmarestobe.json) |
@@ -4203,6 +4208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonogram Nights | 273451 | [273451-nonogram-nights.json](./273451-nonogram-nights.json) |
 | Nonogram Survival | 227823 | [227823-nonogram-survival.json](./227823-nonogram-survival.json) |
 | Nonogram: Girl's Sweets II | 228090 | [228090-nonogram-girls-sweets-ii.json](./228090-nonogram-girls-sweets-ii.json) |
+| Nonogram: Kawaii Cuties | 212966 | [212966-nonogram-kawaii-cuties.json](./212966-nonogram-kawaii-cuties.json) |
 | Nonogram: Master's Legacy | 111030 | [111030-nonogram-masters-legacy.json](./111030-nonogram-masters-legacy.json) |
 | Nonogram: Master's Legacy - The Classic Pack | 349413 | [349413-nonogram-masters-legacy-the-classic-pack.json](./349413-nonogram-masters-legacy-the-classic-pack.json) |
 | Nonogram: Master's Legacy - The Greatest Pack | 161739 | [161739-nonogram-masters-legacy-the-greatest-pack.json](./161739-nonogram-masters-legacy-the-greatest-pack.json) |
@@ -4519,6 +4525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notebook Entries Vol.1 | 215623 | [215623-notebook-entries-vol-1.json](./215623-notebook-entries-vol-1.json) |
 | Notebook Ninja Fights | 144751 | [144751-notebook-ninja-fights.json](./144751-notebook-ninja-fights.json) |
 | Notebook Workshop | 406205 | [406205-notebook-workshop.json](./406205-notebook-workshop.json) |
+| Notes From Province | 212965 | [212965-notes-from-province.json](./212965-notes-from-province.json) |
 | Notes of Obsession | 56895 | [56895-notes-of-obsession.json](./56895-notes-of-obsession.json) |
 | Notes of the Outskirts | 262255 | [262255-notes-of-the-outskirts.json](./262255-notes-of-the-outskirts.json) |
 | Notes on Crying | 181918 | [181918-notes-on-crying.json](./181918-notes-on-crying.json) |
