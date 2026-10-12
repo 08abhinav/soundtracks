@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falcon 4.0 | 33853 | [33853-falcon-4-0.json](./33853-falcon-4-0.json) |
 | Falcon 4.0: Allied Force | 695 | [695-falcon-4-0-allied-force.json](./695-falcon-4-0-allied-force.json) |
 | Falcon Age | 107212 | [107212-falcon-age.json](./107212-falcon-age.json) |
+| Falcon Beertender | 198148 | [198148-falcon-beertender.json](./198148-falcon-beertender.json) |
 | Falcon Beertender 2 | 286123 | [286123-falcon-beertender-2.json](./286123-falcon-beertender-2.json) |
 | Falcon BMS | 77298 | [77298-falcon-bms.json](./77298-falcon-bms.json) |
 | Falcon Operation: Counterstrike | 73738 | [73738-falcon-operation-counterstrike.json](./73738-falcon-operation-counterstrike.json) |
@@ -3004,6 +3005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting in Aden Gulf | 381253 | [381253-fighting-in-aden-gulf.json](./381253-fighting-in-aden-gulf.json) |
 | Fighting in Aden Gulf: 10 Degrees Turn | 54722 | [54722-fighting-in-aden-gulf-10-degrees-turn.json](./54722-fighting-in-aden-gulf-10-degrees-turn.json) |
 | Fighting Layer | 39552 | [39552-fighting-layer.json](./39552-fighting-layer.json) |
+| Fighting Legends Pack | 198128 | [198128-fighting-legends-pack.json](./198128-fighting-legends-pack.json) |
 | Fighting Mad Lads | 187396 | [187396-fighting-mad-lads.json](./187396-fighting-mad-lads.json) |
 | Fighting Masters | 46215 | [46215-fighting-masters.json](./46215-fighting-masters.json) |
 | Fighting Moore | 127015 | [127015-fighting-moore.json](./127015-fighting-moore.json) |
@@ -3459,6 +3461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Three Kingdoms 2 | 242236 | [242236-final-three-kingdoms-2.json](./242236-final-three-kingdoms-2.json) |
 | Final Upgrade | 132584 | [132584-final-upgrade.json](./132584-final-upgrade.json) |
 | Final Vendetta | 191756 | [191756-final-vendetta.json](./191756-final-vendetta.json) |
+| Final Vendetta: Super Limited Edition | 198129 | [198129-final-vendetta-super-limited-edition.json](./198129-final-vendetta-super-limited-edition.json) |
 | Final War | 368510 | [368510-final-war.json](./368510-final-war.json) |
 | Final Warfare | 231956 | [231956-final-warfare.json](./231956-final-warfare.json) |
 | Final World | 90646 | [90646-final-world.json](./90646-final-world.json) |
