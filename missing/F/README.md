@@ -7157,6 +7157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franchise Wars | 117179 | [117179-franchise-wars.json](./117179-franchise-wars.json) |
 | Francisca | 32062 | [32062-francisca.json](./32062-francisca.json) |
 | Francisca 2 | 156073 | [156073-francisca-2.json](./156073-francisca-2.json) |
+| Franco and Apollo | 211387 | [211387-franco-and-apollo.json](./211387-franco-and-apollo.json) |
 | Frank and 10 roots | 116286 | [116286-frank-and-10-roots.json](./116286-frank-and-10-roots.json) |
 | Frank and Drake | 152923 | [152923-frank-and-drake.json](./152923-frank-and-drake.json) |
 | Frank Bruno's Boxing | 45246 | [45246-frank-brunos-boxing.json](./45246-frank-brunos-boxing.json) |
