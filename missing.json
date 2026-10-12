@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T01:04:10.844Z",
-  "total_missing": 199693,
+  "generated_at": "2026-10-12T01:19:41.324Z",
+  "total_missing": 199743,
   "games": [
     {
       "igdb_id": 191680,
@@ -46718,6 +46718,11 @@
       "file": "missing/A/169307-aqua-panic-heaven-pack.json"
     },
     {
+      "igdb_id": 224146,
+      "game_name": "Aqua Panic!: Inferno Pack",
+      "file": "missing/A/224146-aqua-panic-inferno-pack.json"
+    },
+    {
       "igdb_id": 62543,
       "game_name": "Aqua Paradise: Boku no Suizokukan",
       "file": "missing/A/62543-aqua-paradise-boku-no-suizokukan.json"
@@ -62098,9 +62103,19 @@
       "file": "missing/A/325107-atomic-heart-enchantment-under-the-sea.json"
     },
     {
+      "igdb_id": 224149,
+      "game_name": "Atomic Heart: Gold Edition",
+      "file": "missing/A/224149-atomic-heart-gold-edition.json"
+    },
+    {
       "igdb_id": 224481,
       "game_name": "Atomic Heart: Limited Edition",
       "file": "missing/A/224481-atomic-heart-limited-edition.json"
+    },
+    {
+      "igdb_id": 224148,
+      "game_name": "Atomic Heart: Premium Edition",
+      "file": "missing/A/224148-atomic-heart-premium-edition.json"
     },
     {
       "igdb_id": 396565,
@@ -182563,6 +182578,11 @@
       "file": "missing/C/221844-crypto-shots.json"
     },
     {
+      "igdb_id": 224144,
+      "game_name": "Cryptobots",
+      "file": "missing/C/224144-cryptobots.json"
+    },
+    {
       "igdb_id": 265730,
       "game_name": "CryptoClash",
       "file": "missing/C/265730-cryptoclash.json"
@@ -185571,6 +185591,11 @@
       "igdb_id": 357448,
       "game_name": "Cuphead Wii U",
       "file": "missing/C/357448-cuphead-wii-u.json"
+    },
+    {
+      "igdb_id": 224179,
+      "game_name": "Cuphead: Collector's Edition",
+      "file": "missing/C/224179-cuphead-collectors-edition.json"
     },
     {
       "igdb_id": 302430,
@@ -189201,6 +189226,11 @@
       "igdb_id": 202381,
       "game_name": "Cycle",
       "file": "missing/C/202381-cycle.json"
+    },
+    {
+      "igdb_id": 224167,
+      "game_name": "Cycle",
+      "file": "missing/C/224167-cycle.json"
     },
     {
       "igdb_id": 47997,
@@ -206018,6 +206048,16 @@
       "file": "missing/D/106395-deep-rest.json"
     },
     {
+      "igdb_id": 224174,
+      "game_name": "Deep Rock Galactic: Biohazard Pack",
+      "file": "missing/D/224174-deep-rock-galactic-biohazard-pack.json"
+    },
+    {
+      "igdb_id": 224178,
+      "game_name": "Deep Rock Galactic: Dark Future Pack",
+      "file": "missing/D/224178-deep-rock-galactic-dark-future-pack.json"
+    },
+    {
       "igdb_id": 289559,
       "game_name": "Deep Rock Galactic: Decontaminator Pack",
       "file": "missing/D/289559-deep-rock-galactic-decontaminator-pack.json"
@@ -206033,6 +206073,16 @@
       "file": "missing/D/302936-deep-rock-galactic-order-of-the-deep-pack.json"
     },
     {
+      "igdb_id": 224176,
+      "game_name": "Deep Rock Galactic: Rival Tech Pack",
+      "file": "missing/D/224176-deep-rock-galactic-rival-tech-pack.json"
+    },
+    {
+      "igdb_id": 224175,
+      "game_name": "Deep Rock Galactic: Robot Rebellion Pack",
+      "file": "missing/D/224175-deep-rock-galactic-robot-rebellion-pack.json"
+    },
+    {
       "igdb_id": 270354,
       "game_name": "Deep Rock Galactic: Rogue Core",
       "file": "missing/D/270354-deep-rock-galactic-rogue-core.json"
@@ -206043,6 +206093,11 @@
       "file": "missing/D/209974-deep-rock-galactic-season-2-rival-escalation.json"
     },
     {
+      "igdb_id": 224166,
+      "game_name": "Deep Rock Galactic: Season 3 - Plaguefall",
+      "file": "missing/D/224166-deep-rock-galactic-season-3-plaguefall.json"
+    },
+    {
       "igdb_id": 251542,
       "game_name": "Deep Rock Galactic: Season 4 - Critical Corruption",
       "file": "missing/D/251542-deep-rock-galactic-season-4-critical-corruption.json"
@@ -206051,6 +206106,11 @@
       "igdb_id": 289558,
       "game_name": "Deep Rock Galactic: Supporter II Upgrade",
       "file": "missing/D/289558-deep-rock-galactic-supporter-ii-upgrade.json"
+    },
+    {
+      "igdb_id": 224177,
+      "game_name": "Deep Rock Galactic: Supporter Upgrade",
+      "file": "missing/D/224177-deep-rock-galactic-supporter-upgrade.json"
     },
     {
       "igdb_id": 240556,
@@ -249323,9 +249383,19 @@
       "file": "missing/D/169196-dying-light-2-stay-human-ultimate-edition.json"
     },
     {
+      "igdb_id": 224132,
+      "game_name": "Dying Light: 5th Anniversary Bundle",
+      "file": "missing/D/224132-dying-light-5th-anniversary-bundle.json"
+    },
+    {
       "igdb_id": 16299,
       "game_name": "Dying Light: Bozak Horde",
       "file": "missing/D/16299-dying-light-bozak-horde.json"
+    },
+    {
+      "igdb_id": 224130,
+      "game_name": "Dying Light: Classified Operation Bundle",
+      "file": "missing/D/224130-dying-light-classified-operation-bundle.json"
     },
     {
       "igdb_id": 150043,
@@ -249348,14 +249418,54 @@
       "file": "missing/D/248317-dying-light-enhanced-edition.json"
     },
     {
+      "igdb_id": 224142,
+      "game_name": "Dying Light: Godfather Bundle",
+      "file": "missing/D/224142-dying-light-godfather-bundle.json"
+    },
+    {
+      "igdb_id": 224137,
+      "game_name": "Dying Light: Harran Inmate Bundle",
+      "file": "missing/D/224137-dying-light-harran-inmate-bundle.json"
+    },
+    {
+      "igdb_id": 224134,
+      "game_name": "Dying Light: Ox Warrior Bundle",
+      "file": "missing/D/224134-dying-light-ox-warrior-bundle.json"
+    },
+    {
       "igdb_id": 152030,
       "game_name": "Dying Light: Platinum Edition",
       "file": "missing/D/152030-dying-light-platinum-edition.json"
     },
     {
+      "igdb_id": 224138,
+      "game_name": "Dying Light: Rais Elite Bundle",
+      "file": "missing/D/224138-dying-light-rais-elite-bundle.json"
+    },
+    {
+      "igdb_id": 224136,
+      "game_name": "Dying Light: Retrowave Bundle",
+      "file": "missing/D/224136-dying-light-retrowave-bundle.json"
+    },
+    {
+      "igdb_id": 224143,
+      "game_name": "Dying Light: Rust Weapon Pack",
+      "file": "missing/D/224143-dying-light-rust-weapon-pack.json"
+    },
+    {
+      "igdb_id": 224141,
+      "game_name": "Dying Light: Savvy Gamer Bundle",
+      "file": "missing/D/224141-dying-light-savvy-gamer-bundle.json"
+    },
+    {
       "igdb_id": 224127,
       "game_name": "Dying Light: Shu Warrior Bundle",
       "file": "missing/D/224127-dying-light-shu-warrior-bundle.json"
+    },
+    {
+      "igdb_id": 224140,
+      "game_name": "Dying Light: Snow Ops Bundle",
+      "file": "missing/D/224140-dying-light-snow-ops-bundle.json"
     },
     {
       "igdb_id": 406279,
@@ -249406,6 +249516,31 @@
       "igdb_id": 51766,
       "game_name": "Dying Light: The Following - Volatile Hunter Bundle",
       "file": "missing/D/51766-dying-light-the-following-volatile-hunter-bundle.json"
+    },
+    {
+      "igdb_id": 224145,
+      "game_name": "Dying Light: Unturned Weapon Pack",
+      "file": "missing/D/224145-dying-light-unturned-weapon-pack.json"
+    },
+    {
+      "igdb_id": 224131,
+      "game_name": "Dying Light: Viking - Raiders of Harran Bundle",
+      "file": "missing/D/224131-dying-light-viking-raiders-of-harran-bundle.json"
+    },
+    {
+      "igdb_id": 224133,
+      "game_name": "Dying Light: Vintage Gunslinger Bundle",
+      "file": "missing/D/224133-dying-light-vintage-gunslinger-bundle.json"
+    },
+    {
+      "igdb_id": 224139,
+      "game_name": "Dying Light: Volkan Combat Armor Bundle",
+      "file": "missing/D/224139-dying-light-volkan-combat-armor-bundle.json"
+    },
+    {
+      "igdb_id": 224135,
+      "game_name": "Dying Light: White Death Bundle",
+      "file": "missing/D/224135-dying-light-white-death-bundle.json"
     },
     {
       "igdb_id": 375952,
@@ -343328,6 +343463,11 @@
       "file": "missing/G/323728-gore-crush.json"
     },
     {
+      "igdb_id": 224168,
+      "game_name": "Gore Screaming Show",
+      "file": "missing/G/224168-gore-screaming-show.json"
+    },
+    {
       "igdb_id": 46969,
       "game_name": "Gore: Ultimate Soldier",
       "file": "missing/G/46969-gore-ultimate-soldier.json"
@@ -393146,6 +393286,11 @@
       "igdb_id": 326045,
       "game_name": "Human Within",
       "file": "missing/H/326045-human-within.json"
+    },
+    {
+      "igdb_id": 224151,
+      "game_name": "Human Zoo",
+      "file": "missing/H/224151-human-zoo.json"
     },
     {
       "igdb_id": 157185,
@@ -459226,6 +459371,11 @@
       "igdb_id": 265840,
       "game_name": "League of Champions Soccer 2024",
       "file": "missing/L/265840-league-of-champions-soccer-2024.json"
+    },
+    {
+      "igdb_id": 224161,
+      "game_name": "League of Empires",
+      "file": "missing/L/224161-league-of-empires.json"
     },
     {
       "igdb_id": 157216,
@@ -564883,6 +565033,11 @@
       "file": "missing/N/224462-neverwinter-rise-of-tiamat.json"
     },
     {
+      "igdb_id": 224164,
+      "game_name": "Neverwinter: Shadowmantle",
+      "file": "missing/N/224164-neverwinter-shadowmantle.json"
+    },
+    {
       "igdb_id": 26867,
       "game_name": "Neverwinter: Storm King's Thunder",
       "file": "missing/N/26867-neverwinter-storm-kings-thunder.json"
@@ -585151,6 +585306,11 @@
       "igdb_id": 132162,
       "game_name": "Omega Rally Championship",
       "file": "missing/O/132162-omega-rally-championship.json"
+    },
+    {
+      "igdb_id": 224163,
+      "game_name": "Omega Royale",
+      "file": "missing/O/224163-omega-royale.json"
     },
     {
       "igdb_id": 70366,
@@ -735328,6 +735488,11 @@
       "file": "missing/S/413001-siege-of-syracuse.json"
     },
     {
+      "igdb_id": 224147,
+      "game_name": "Siege of Turtle Enclave: Arcane Units Pack",
+      "file": "missing/S/224147-siege-of-turtle-enclave-arcane-units-pack.json"
+    },
+    {
       "igdb_id": 77633,
       "game_name": "Siege Saga",
       "file": "missing/S/77633-siege-saga.json"
@@ -753338,6 +753503,11 @@
       "file": "missing/S/11132-soccertron.json"
     },
     {
+      "igdb_id": 224165,
+      "game_name": "Soccerverse",
+      "file": "missing/S/224165-soccerverse.json"
+    },
+    {
       "igdb_id": 130746,
       "game_name": "Social Club VR : Casino Nights",
       "file": "missing/S/130746-social-club-vr-casino-nights.json"
@@ -762381,6 +762551,11 @@
       "igdb_id": 168724,
       "game_name": "SoulCalibur VI: Cassandra",
       "file": "missing/S/168724-soulcalibur-vi-cassandra.json"
+    },
+    {
+      "igdb_id": 224129,
+      "game_name": "SoulCalibur VI: Character Creation Set F",
+      "file": "missing/S/224129-soulcalibur-vi-character-creation-set-f.json"
     },
     {
       "igdb_id": 168726,
@@ -796288,6 +796463,16 @@
       "file": "missing/S/131505-sudoku.json"
     },
     {
+      "igdb_id": 224170,
+      "game_name": "Sudoku",
+      "file": "missing/S/224170-sudoku.json"
+    },
+    {
+      "igdb_id": 224171,
+      "game_name": "Sudoku",
+      "file": "missing/S/224171-sudoku.json"
+    },
+    {
       "igdb_id": 246366,
       "game_name": "Sudoku",
       "file": "missing/S/246366-sudoku.json"
@@ -798171,6 +798356,11 @@
       "igdb_id": 219030,
       "game_name": "Summer Lesson: Chisato Shinjo - Shichiyou no Etude",
       "file": "missing/S/219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json"
+    },
+    {
+      "igdb_id": 224150,
+      "game_name": "Summer Loops",
+      "file": "missing/S/224150-summer-loops.json"
     },
     {
       "igdb_id": 71571,
@@ -807563,6 +807753,11 @@
       "file": "missing/S/59823-super-sentai-battle-dice-o.json"
     },
     {
+      "igdb_id": 223901,
+      "game_name": "Super Sentai Legend Wars",
+      "file": "missing/S/223901-super-sentai-legend-wars.json"
+    },
+    {
       "igdb_id": 365830,
       "game_name": "Super Serious Golf",
       "file": "missing/S/365830-super-serious-golf.json"
@@ -809103,6 +809298,11 @@
       "file": "missing/S/130165-super-toxicboy.json"
     },
     {
+      "igdb_id": 223900,
+      "game_name": "Super Toy 3D",
+      "file": "missing/S/223900-super-toy-3d.json"
+    },
+    {
       "igdb_id": 208579,
       "game_name": "Super Toy Cars 1 & 2 Bundle",
       "file": "missing/S/208579-super-toy-cars-1-and-2-bundle.json"
@@ -809921,6 +810121,11 @@
       "igdb_id": 18119,
       "game_name": "Superhot Prototype",
       "file": "missing/S/18119-superhot-prototype.json"
+    },
+    {
+      "igdb_id": 223902,
+      "game_name": "Superhot Shooter 3D",
+      "file": "missing/S/223902-superhot-shooter-3d.json"
     },
     {
       "igdb_id": 27448,
@@ -811741,6 +811946,11 @@
       "igdb_id": 244750,
       "game_name": "Survival & Horror: The Damned City",
       "file": "missing/S/244750-survival-and-horror-the-damned-city.json"
+    },
+    {
+      "igdb_id": 223899,
+      "game_name": "Survival 456 But It's Impostor",
+      "file": "missing/S/223899-survival-456-but-its-impostor.json"
     },
     {
       "igdb_id": 223379,
@@ -820641,6 +820851,11 @@
       "igdb_id": 174824,
       "game_name": "Tailed Demon Slayer",
       "file": "missing/T/174824-tailed-demon-slayer.json"
+    },
+    {
+      "igdb_id": 224160,
+      "game_name": "Tailed Monsters Puzzle",
+      "file": "missing/T/224160-tailed-monsters-puzzle.json"
     },
     {
       "igdb_id": 314007,
@@ -953153,6 +953368,21 @@
       "file": "missing/W/331497-war-thunder-snake-charmer-bundle.json"
     },
     {
+      "igdb_id": 224155,
+      "game_name": "War Thunder: \"Tracks of Victory\" Bundle",
+      "file": "missing/W/224155-war-thunder-tracks-of-victory-bundle.json"
+    },
+    {
+      "igdb_id": 224156,
+      "game_name": "War Thunder: \"Weapons of Victory\" Bundle",
+      "file": "missing/W/224156-war-thunder-weapons-of-victory-bundle.json"
+    },
+    {
+      "igdb_id": 224157,
+      "game_name": "War Thunder: \"Wings of Victory\" Bundle",
+      "file": "missing/W/224157-war-thunder-wings-of-victory-bundle.json"
+    },
+    {
       "igdb_id": 331494,
       "game_name": "War Thunder: Al-Khalid-I Bundle",
       "file": "missing/W/331494-war-thunder-al-khalid-i-bundle.json"
@@ -954841,6 +955071,11 @@
       "igdb_id": 394515,
       "game_name": "Warhammer Blood Bowl",
       "file": "missing/W/394515-warhammer-blood-bowl.json"
+    },
+    {
+      "igdb_id": 224159,
+      "game_name": "Warhammer Pack: Hack and Slash",
+      "file": "missing/W/224159-warhammer-pack-hack-and-slash.json"
     },
     {
       "igdb_id": 27930,
@@ -984063,6 +984298,11 @@
       "file": "missing/Y/103017-yakuza-5-remastered.json"
     },
     {
+      "igdb_id": 224152,
+      "game_name": "Yakuza 6: Song of Life - Clan Creator Card Bundle",
+      "file": "missing/Y/224152-yakuza-6-song-of-life-clan-creator-card-bundle.json"
+    },
+    {
       "igdb_id": 301530,
       "game_name": "Yakuza GB",
       "file": "missing/Y/301530-yakuza-gb.json"
@@ -984081,6 +984321,11 @@
       "igdb_id": 55090,
       "game_name": "Yakuza Kiwami 2",
       "file": "missing/Y/55090-yakuza-kiwami-2.json"
+    },
+    {
+      "igdb_id": 224153,
+      "game_name": "Yakuza Kiwami 2: Clan Creator Bundle",
+      "file": "missing/Y/224153-yakuza-kiwami-2-clan-creator-bundle.json"
     },
     {
       "igdb_id": 167091,
@@ -991091,6 +991336,11 @@
       "igdb_id": 411008,
       "game_name": "Zaccaria Pinball: Electro-Mechanical Table Pack 2",
       "file": "missing/Z/411008-zaccaria-pinball-electro-mechanical-table-pack-2.json"
+    },
+    {
+      "igdb_id": 224154,
+      "game_name": "Zaccaria Pinball: Electro-Mechanical Tables Pack 1",
+      "file": "missing/Z/224154-zaccaria-pinball-electro-mechanical-tables-pack-1.json"
     },
     {
       "igdb_id": 395459,
