@@ -1326,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jim Henson's Bear in the Big Blue House | 49914 | [49914-jim-hensons-bear-in-the-big-blue-house.json](./49914-jim-hensons-bear-in-the-big-blue-house.json) |
 | Jim Henson's Muppets Party Cruise | 43569 | [43569-jim-hensons-muppets-party-cruise.json](./43569-jim-hensons-muppets-party-cruise.json) |
 | Jim Henson's The Muppets | 49958 | [49958-jim-hensons-the-muppets.json](./49958-jim-hensons-the-muppets.json) |
+| Jim in the Box | 202019 | [202019-jim-in-the-box.json](./202019-jim-in-the-box.json) |
 | Jim is Moving Out! | 120433 | [120433-jim-is-moving-out.json](./120433-jim-is-moving-out.json) |
 | Jim Lee's Wild C.A.T.S: Covert Action Teams | 42510 | [42510-jim-lees-wild-c-a-t-s-covert-action-teams.json](./42510-jim-lees-wild-c-a-t-s-covert-action-teams.json) |
 | Jim Power: The Lost Dimension in 3D | 42606 | [42606-jim-power-the-lost-dimension-in-3d.json](./42606-jim-power-the-lost-dimension-in-3d.json) |
