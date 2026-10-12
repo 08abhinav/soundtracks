@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred 3: First Edition | 51287 | [51287-sacred-3-first-edition.json](./51287-sacred-3-first-edition.json) |
 | Sacred Chasm: Silent Utopia | 297814 | [297814-sacred-chasm-silent-utopia.json](./297814-sacred-chasm-silent-utopia.json) |
 | Sacred Citadel | 15290 | [15290-sacred-citadel.json](./15290-sacred-citadel.json) |
+| Sacred Curse | 188970 | [188970-sacred-curse.json](./188970-sacred-curse.json) |
 | Sacred Dark | 327383 | [327383-sacred-dark.json](./327383-sacred-dark.json) |
 | Sacred Earth: Promise | 109766 | [109766-sacred-earth-promise.json](./109766-sacred-earth-promise.json) |
 | Sacred Earth: Reverie | 301360 | [301360-sacred-earth-reverie.json](./301360-sacred-earth-reverie.json) |
@@ -3646,6 +3647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Septar | 408236 | [408236-septar.json](./408236-septar.json) |
 | Septem: The Preparation | 384639 | [384639-septem-the-preparation.json](./384639-septem-the-preparation.json) |
 | September 1999 | 110468 | [110468-september-1999.json](./110468-september-1999.json) |
+| September 28 Pizza | 188888 | [188888-september-28-pizza.json](./188888-september-28-pizza.json) |
 | September 7th | 230769 | [230769-september-7th.json](./230769-september-7th.json) |
 | September is Halfway Over | 131552 | [131552-september-is-halfway-over.json](./131552-september-is-halfway-over.json) |
 | September Secrets | 82180 | [82180-september-secrets.json](./82180-september-secrets.json) |
@@ -10187,6 +10189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Social Distancing Simulator | 166204 | [166204-social-distancing-simulator.json](./166204-social-distancing-simulator.json) |
 | Social Hook | 333000 | [333000-social-hook.json](./333000-social-hook.json) |
 | Social Interaction Trainer | 31531 | [31531-social-interaction-trainer.json](./31531-social-interaction-trainer.json) |
+| Social Services of the Doomed | 188879 | [188879-social-services-of-the-doomed.json](./188879-social-services-of-the-doomed.json) |
 | Social Space | 398537 | [398537-social-space.json](./398537-social-space.json) |
 | Social Status: Life Simulator | 279103 | [279103-social-status-life-simulator.json](./279103-social-status-life-simulator.json) |
 | Socialiskigrad | 406764 | [406764-socialiskigrad.json](./406764-socialiskigrad.json) |
@@ -14619,6 +14622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sportsfriends | 9865 | [9865-sportsfriends.json](./9865-sportsfriends.json) |
 | Sportsman's Double Play | 63648 | [63648-sportsmans-double-play.json](./63648-sportsmans-double-play.json) |
 | Sportsman's Pack: Cabela's Big Game Hunter 2005 & Rapala Pro Fishing | 78930 | [78930-sportsmans-pack-cabelas-big-game-hunter-2005-and-rapala-pro-fishing.json](./78930-sportsmans-pack-cabelas-big-game-hunter-2005-and-rapala-pro-fishing.json) |
+| Sporty Games | 188899 | [188899-sporty-games.json](./188899-sporty-games.json) |
 | Spot | 119584 | [119584-spot.json](./119584-spot.json) |
 | Spot Challenge Vol. 1 | 331912 | [331912-spot-challenge-vol-1.json](./331912-spot-challenge-vol-1.json) |
 | Spot Challenge Vol. 2 | 331921 | [331921-spot-challenge-vol-2.json](./331921-spot-challenge-vol-2.json) |
@@ -16641,6 +16645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stationeers: H.E.M Droid Species Pack | 227893 | [227893-stationeers-h-e-m-droid-species-pack.json](./227893-stationeers-h-e-m-droid-species-pack.json) |
 | Stationeers: Human Cosmetics Pack | 227894 | [227894-stationeers-human-cosmetics-pack.json](./227894-stationeers-human-cosmetics-pack.json) |
 | Stationeers: Zrilian Species Pack | 227892 | [227892-stationeers-zrilian-species-pack.json](./227892-stationeers-zrilian-species-pack.json) |
+| Stationery Frontier | 188974 | [188974-stationery-frontier.json](./188974-stationery-frontier.json) |
 | Stationflow | 127462 | [127462-stationflow.json](./127462-stationflow.json) |
 | Statix | 78883 | [78883-statix.json](./78883-statix.json) |
 | Stattogories | 239339 | [239339-stattogories.json](./239339-stattogories.json) |
@@ -17133,6 +17138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stepping Selection | 66741 | [66741-stepping-selection.json](./66741-stepping-selection.json) |
 | Steppy Dungeon | 181726 | [181726-steppy-dungeon.json](./181726-steppy-dungeon.json) |
 | Steppy Pants | 57944 | [57944-steppy-pants.json](./57944-steppy-pants.json) |
+| Steps From Above | 188889 | [188889-steps-from-above.json](./188889-steps-from-above.json) |
 | Steps of Debauchery | 370578 | [370578-steps-of-debauchery.json](./370578-steps-of-debauchery.json) |
 | Stepsister Shock! | 206028 | [206028-stepsister-shock.json](./206028-stepsister-shock.json) |
 | Steptile | 287097 | [287097-steptile.json](./287097-steptile.json) |
