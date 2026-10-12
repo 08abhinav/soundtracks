@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T20:00:14.382Z",
-  "total_soundtracks": 1535,
+  "generated_at": "2026-10-12T20:05:14.216Z",
+  "total_soundtracks": 1536,
   "games": [
     {
       "igdb_id": 7522,
@@ -4702,6 +4702,20 @@
           "album_name": "Doom (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 3471,
+      "game_name": "Doom 64",
+      "game_url": "https://ostdb.net/games/doom-64",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27309a3e50195d7c228cb3943f0",
+      "albums": [
+        {
+          "album_name": "Doom 64 (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5ImPkCzQ2vxAuKREaY1L90",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
