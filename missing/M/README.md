@@ -9628,6 +9628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monari Station | 395567 | [395567-monari-station.json](./395567-monari-station.json) |
 | Monark: Deluxe Edition | 153017 | [153017-monark-deluxe-edition.json](./153017-monark-deluxe-edition.json) |
 | Monark: Limited Edition Box | 152340 | [152340-monark-limited-edition-box.json](./152340-monark-limited-edition-box.json) |
+| Monastery | 211971 | [211971-monastery.json](./211971-monastery.json) |
 | Monastery | 342174 | [342174-monastery.json](./342174-monastery.json) |
 | Monastery: Ora et Labora | 364402 | [364402-monastery-ora-et-labora.json](./364402-monastery-ora-et-labora.json) |
 | Monativity Surveillance | 359542 | [359542-monativity-surveillance.json](./359542-monativity-surveillance.json) |
@@ -9865,6 +9866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monoquous 2 | 326212 | [326212-monoquous-2.json](./326212-monoquous-2.json) |
 | MonoRaceVR | 192755 | [192755-monoracevr.json](./192755-monoracevr.json) |
 | Monorail Stories | 137051 | [137051-monorail-stories.json](./137051-monorail-stories.json) |
+| Monos: The Endless Tower | 211970 | [211970-monos-the-endless-tower.json](./211970-monos-the-endless-tower.json) |
 | Monoshiri Jiyuugaku: Ogura Hyakunin Isshu-hen | 268514 | [268514-monoshiri-jiyuugaku-ogura-hyakunin-isshu-hen.json](./268514-monoshiri-jiyuugaku-ogura-hyakunin-isshu-hen.json) |
 | Monospaced Lovers | 130844 | [130844-monospaced-lovers.json](./130844-monospaced-lovers.json) |
 | Monotonia: EXP_01 | 228514 | [228514-monotonia-exp-01.json](./228514-monotonia-exp-01.json) |
