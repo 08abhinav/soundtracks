@@ -4822,6 +4822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PipeMan | 80538 | [80538-pipeman.json](./80538-pipeman.json) |
 | Piper | 356068 | [356068-piper.json](./356068-piper.json) |
 | Pipes | 78884 | [78884-pipes.json](./78884-pipes.json) |
+| Pipes Master | 194257 | [194257-pipes-master.json](./194257-pipes-master.json) |
 | Pipes Maze | 240354 | [240354-pipes-maze.json](./240354-pipes-maze.json) |
 | Pipes Puzzles | 213539 | [213539-pipes-puzzles.json](./213539-pipes-puzzles.json) |
 | PipeWorks | 116927 | [116927-pipeworks.json](./116927-pipeworks.json) |
@@ -7777,6 +7778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygonauts | 25785 | [25785-polygonauts.json](./25785-polygonauts.json) |
 | Polygone | 108044 | [108044-polygone.json](./108044-polygone.json) |
 | Polygonet Commanders | 222905 | [222905-polygonet-commanders.json](./222905-polygonet-commanders.json) |
+| Polygonia | 194191 | [194191-polygonia.json](./194191-polygonia.json) |
 | Polygonle | 214410 | [214410-polygonle.json](./214410-polygonle.json) |
 | Polygons Tower Defense | 266435 | [266435-polygons-tower-defense.json](./266435-polygons-tower-defense.json) |
 | Polygunr | 291038 | [291038-polygunr.json](./291038-polygunr.json) |
@@ -8426,6 +8428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Posthuman: Sanctuary | 105270 | [105270-posthuman-sanctuary.json](./105270-posthuman-sanctuary.json) |
 | Postie | 345599 | [345599-postie.json](./345599-postie.json) |
 | Postknight | 27329 | [27329-postknight.json](./27329-postknight.json) |
+| Postknight 2 | 194228 | [194228-postknight-2.json](./194228-postknight-2.json) |
 | Postknight World | 337704 | [337704-postknight-world.json](./337704-postknight-world.json) |
 | PostLife | 294275 | [294275-postlife.json](./294275-postlife.json) |
 | Postman Pat | 199877 | [199877-postman-pat.json](./199877-postman-pat.json) |
