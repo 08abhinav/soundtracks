@@ -1237,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardcore Soldier | 406214 | [406214-hardcore-soldier.json](./406214-hardcore-soldier.json) |
 | Hardcore Survival | 65811 | [65811-hardcore-survival.json](./65811-hardcore-survival.json) |
 | Hardcore Trivia | 169848 | [169848-hardcore-trivia.json](./169848-hardcore-trivia.json) |
+| Hardcore: The Game | 181053 | [181053-hardcore-the-game.json](./181053-hardcore-the-game.json) |
 | HardCube 2 | 220033 | [220033-hardcube-2.json](./220033-hardcube-2.json) |
 | HardDriverz | 365150 | [365150-harddriverz.json](./365150-harddriverz.json) |
 | Harder | 334707 | [334707-harder.json](./334707-harder.json) |
@@ -1956,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Over Heels | 208281 | [208281-head-over-heels.json](./208281-head-over-heels.json) |
 | Head Over Heels: Deluxe | 340421 | [340421-head-over-heels-deluxe.json](./340421-head-over-heels-deluxe.json) |
 | Head Over Heels: Monster Girl Dating Sim | 271397 | [271397-head-over-heels-monster-girl-dating-sim.json](./271397-head-over-heels-monster-girl-dating-sim.json) |
+| Head Pain | 181048 | [181048-head-pain.json](./181048-head-pain.json) |
 | Head Panic | 39683 | [39683-head-panic.json](./39683-head-panic.json) |
 | Head Reattachment Trauma | 271249 | [271249-head-reattachment-trauma.json](./271249-head-reattachment-trauma.json) |
 | Head Shot | 32472 | [32472-head-shot.json](./32472-head-shot.json) |
