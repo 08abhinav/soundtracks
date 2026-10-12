@@ -1464,6 +1464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Geo Cup '98 Plus | 75494 | [75494-neo-geo-cup-98-plus.json](./75494-neo-geo-cup-98-plus.json) |
 | Neo Geo Cup '98 Plus Color | 43976 | [43976-neo-geo-cup-98-plus-color.json](./43976-neo-geo-cup-98-plus-color.json) |
 | Neo Geo Cup '98: The Road to the Victory | 39529 | [39529-neo-geo-cup-98-the-road-to-the-victory.json](./39529-neo-geo-cup-98-the-road-to-the-victory.json) |
+| Neo Geo Mini International | 213554 | [213554-neo-geo-mini-international.json](./213554-neo-geo-mini-international.json) |
 | Neo Golden Logres | 218154 | [218154-neo-golden-logres.json](./218154-neo-golden-logres.json) |
 | Neo Ha_Bits | 311493 | [311493-neo-ha-bits.json](./311493-neo-ha-bits.json) |
 | Neo Harbor Rescue Squad | 312760 | [312760-neo-harbor-rescue-squad.json](./312760-neo-harbor-rescue-squad.json) |
@@ -4157,6 +4158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NomNomNom | 340580 | [340580-nomnomnom.json](./340580-nomnomnom.json) |
 | NomNomNom! | 239613 | [239613-nomnomnom.json](./239613-nomnomnom.json) |
 | Nomolos: Storming the Catsle | 48699 | [48699-nomolos-storming-the-catsle.json](./48699-nomolos-storming-the-catsle.json) |
+| Nomori | 213574 | [213574-nomori.json](./213574-nomori.json) |
 | Noms the Fish | 112367 | [112367-noms-the-fish.json](./112367-noms-the-fish.json) |
 | Non Euclidean Room | 356877 | [356877-non-euclidean-room.json](./356877-non-euclidean-room.json) |
 | Non Flying Soldiers | 54252 | [54252-non-flying-soldiers.json](./54252-non-flying-soldiers.json) |
