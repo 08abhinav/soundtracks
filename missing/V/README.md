@@ -1179,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VHSMan | 386417 | [386417-vhsman.json](./386417-vhsman.json) |
 | Vi.Dange | 152802 | [152802-vi-dange.json](./152802-vi-dange.json) |
 | VIA | 377289 | [377289-via.json](./377289-via.json) |
+| Via Mortis | 200937 | [200937-via-mortis.json](./200937-via-mortis.json) |
 | Via Negativa | 186623 | [186623-via-negativa.json](./186623-via-negativa.json) |
 | Viaerium | 74331 | [74331-viaerium.json](./74331-viaerium.json) |
 | Viaja Baraja | 241256 | [241256-viaja-baraja.json](./241256-viaja-baraja.json) |
