@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nankoku Shirei!! Spy vs. Spy | 48812 | [48812-nankoku-shirei-spy-vs-spy.json](./48812-nankoku-shirei-spy-vs-spy.json) |
 | Nankou Furaku Sangokuden: Shoku to Toki no Dou Jaku | 222464 | [222464-nankou-furaku-sangokuden-shoku-to-toki-no-dou-jaku.json](./222464-nankou-furaku-sangokuden-shoku-to-toki-no-dou-jaku.json) |
 | Nankou Furaku Sangokuden: Wu to Taiga no Eisha | 222440 | [222440-nankou-furaku-sangokuden-wu-to-taiga-no-eisha.json](./222440-nankou-furaku-sangokuden-wu-to-taiga-no-eisha.json) |
+| Nanny | 188976 | [188976-nanny.json](./188976-nanny.json) |
 | Nanny - Best Babysitter Game | 105855 | [105855-nanny-best-babysitter-game.json](./105855-nanny-best-babysitter-game.json) |
 | Nanny 911 | 206783 | [206783-nanny-911.json](./206783-nanny-911.json) |
 | Nanny Mania 2 | 202184 | [202184-nanny-mania-2.json](./202184-nanny-mania-2.json) |
@@ -2019,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverseas | 301808 | [301808-neverseas.json](./301808-neverseas.json) |
 | Neversong | 133261 | [133261-neversong.json](./133261-neversong.json) |
 | Neversong: Collector's Edition | 139840 | [139840-neversong-collectors-edition.json](./139840-neversong-collectors-edition.json) |
+| Neverspring Chronicles | 188894 | [188894-neverspring-chronicles.json](./188894-neverspring-chronicles.json) |
 | NeverSynth | 225878 | [225878-neversynth.json](./225878-neversynth.json) |
 | Nevertales: Faryon | 187926 | [187926-nevertales-faryon.json](./187926-nevertales-faryon.json) |
 | Nevertales: Forgotten Pages | 187919 | [187919-nevertales-forgotten-pages.json](./187919-nevertales-forgotten-pages.json) |
@@ -4826,6 +4828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuke Bomberman | 336681 | [336681-nuke-bomberman.json](./336681-nuke-bomberman.json) |
 | Nuke City | 208085 | [208085-nuke-city.json](./208085-nuke-city.json) |
 | Nuke Destroyer | 97158 | [97158-nuke-destroyer.json](./97158-nuke-destroyer.json) |
+| Nuke Land | 188961 | [188961-nuke-land.json](./188961-nuke-land.json) |
 | Nuke Mine | 311467 | [311467-nuke-mine.json](./311467-nuke-mine.json) |
 | Nuke Them All | 250513 | [250513-nuke-them-all.json](./250513-nuke-them-all.json) |
 | Nukeout | 100763 | [100763-nukeout.json](./100763-nukeout.json) |
