@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uboat Attack: Gold Edition | 385212 | [385212-uboat-attack-gold-edition.json](./385212-uboat-attack-gold-edition.json) |
 | Uboat Attack: Vortice DLC | 316234 | [316234-uboat-attack-vortice-dlc.json](./316234-uboat-attack-vortice-dlc.json) |
 | Uboat Attack: Zeppelin DLC | 316233 | [316233-uboat-attack-zeppelin-dlc.json](./316233-uboat-attack-zeppelin-dlc.json) |
+| UBoat: The Silent Wolf | 217469 | [217469-uboat-the-silent-wolf.json](./217469-uboat-the-silent-wolf.json) |
 | Ubok. | 150160 | [150160-ubok.json](./150160-ubok.json) |
 | Ubongo Puzzle Adventure | 53946 | [53946-ubongo-puzzle-adventure.json](./53946-ubongo-puzzle-adventure.json) |
 | UBRocks | 90683 | [90683-ubrocks.json](./90683-ubrocks.json) |
@@ -1687,6 +1688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlucky Mage | 85467 | [85467-unlucky-mage.json](./85467-unlucky-mage.json) |
 | Unlucky Mummy | 401627 | [401627-unlucky-mummy.json](./401627-unlucky-mummy.json) |
 | Unlucky Seven | 29783 | [29783-unlucky-seven.json](./29783-unlucky-seven.json) |
+| Unmaker | 217452 | [217452-unmaker.json](./217452-unmaker.json) |
 | Unmanned helicopter | 105365 | [105365-unmanned-helicopter.json](./105365-unmanned-helicopter.json) |
 | UnMarked | 185078 | [185078-unmarked.json](./185078-unmarked.json) |
 | Unmasked Truths: Shattered Dreams | 350458 | [350458-unmasked-truths-shattered-dreams.json](./350458-unmasked-truths-shattered-dreams.json) |
