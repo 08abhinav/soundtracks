@@ -6770,6 +6770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pohinki Simulator | 333623 | [333623-pohinki-simulator.json](./333623-pohinki-simulator.json) |
 | Pohmielisko | 372114 | [372114-pohmielisko.json](./372114-pohmielisko.json) |
 | Poi | 19278 | [19278-poi.json](./19278-poi.json) |
+| Poi-poi!! Imo Koujou | 206452 | [206452-poi-poi-imo-koujou.json](./206452-poi-poi-imo-koujou.json) |
 | Poi: Deluxe Edition | 53464 | [53464-poi-deluxe-edition.json](./53464-poi-deluxe-edition.json) |
 | Poi: Explorer Edition | 58591 | [58591-poi-explorer-edition.json](./58591-poi-explorer-edition.json) |
 | POI: VR Dance | 250879 | [250879-poi-vr-dance.json](./250879-poi-vr-dance.json) |
@@ -8074,6 +8075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n Tanks | 43801 | [43801-popn-tanks.json](./43801-popn-tanks.json) |
 | Pop'n Tanks | 43802 | [43802-popn-tanks.json](./43802-popn-tanks.json) |
 | Pop'n Twinbee: Rainbow Bell Adventures | 42473 | [42473-popn-twinbee-rainbow-bell-adventures.json](./42473-popn-twinbee-rainbow-bell-adventures.json) |
+| Pop's Pipes / Slurp | 206462 | [206462-pops-pipes-slurp.json](./206462-pops-pipes-slurp.json) |
 | Pop's Pop's | 254593 | [254593-pops-pops.json](./254593-pops-pops.json) |
 | Pop4 | 134028 | [134028-pop4.json](./134028-pop4.json) |
 | Popap | 29154 | [29154-popap.json](./29154-popap.json) |
