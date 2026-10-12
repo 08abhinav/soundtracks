@@ -1267,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Simulator 2014 | 7571 | [7571-car-mechanic-simulator-2014.json](./7571-car-mechanic-simulator-2014.json) |
 | Car Mechanic Simulator 2021 | 152604 | [152604-car-mechanic-simulator-2021.json](./152604-car-mechanic-simulator-2021.json) |
 | Car Mechanic Simulator 2021: BMW DLC | 276213 | [276213-car-mechanic-simulator-2021-bmw-dlc.json](./276213-car-mechanic-simulator-2021-bmw-dlc.json) |
+| Car Mechanic Simulator 2021: Drag Racing | 225229 | [225229-car-mechanic-simulator-2021-drag-racing.json](./225229-car-mechanic-simulator-2021-drag-racing.json) |
 | Car Mechanic Simulator 2021: Mercedes-Benz Remastered DLC | 231841 | [231841-car-mechanic-simulator-2021-mercedes-benz-remastered-dlc.json](./231841-car-mechanic-simulator-2021-mercedes-benz-remastered-dlc.json) |
 | Car Mechanic Simulator 2021: Rims | 285696 | [285696-car-mechanic-simulator-2021-rims.json](./285696-car-mechanic-simulator-2021-rims.json) |
 | Car Mechanic Simulator VR | 119714 | [119714-car-mechanic-simulator-vr.json](./119714-car-mechanic-simulator-vr.json) |
@@ -10621,6 +10622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creeper World: Anniversary Edition | 34005 | [34005-creeper-world-anniversary-edition.json](./34005-creeper-world-anniversary-edition.json) |
 | Creepers | 15478 | [15478-creepers.json](./15478-creepers.json) |
 | Creeping Clark | 336169 | [336169-creeping-clark.json](./336169-creeping-clark.json) |
+| Creeping Deck: Pharaoh's Curse | 225228 | [225228-creeping-deck-pharaohs-curse.json](./225228-creeping-deck-pharaohs-curse.json) |
 | Creepless | 253427 | [253427-creepless.json](./253427-creepless.json) |
 | Creepo's Tales: Chopping Mall | 310556 | [310556-creepos-tales-chopping-mall.json](./310556-creepos-tales-chopping-mall.json) |
 | Creepshow | 272838 | [272838-creepshow.json](./272838-creepshow.json) |
@@ -12601,6 +12603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyanide & Happiness: Freakpocalypse - Episode 1 | 147983 | [147983-cyanide-and-happiness-freakpocalypse-episode-1.json](./147983-cyanide-and-happiness-freakpocalypse-episode-1.json) |
 | Cyanide Angel | 397162 | [397162-cyanide-angel.json](./397162-cyanide-angel.json) |
 | Cyanotype Daydream: The Girl Who Dreamed the World | 191059 | [191059-cyanotype-daydream-the-girl-who-dreamed-the-world.json](./191059-cyanotype-daydream-the-girl-who-dreamed-the-world.json) |
+| Cyball | 225843 | [225843-cyball.json](./225843-cyball.json) |
 | CybArena | 326244 | [326244-cybarena.json](./326244-cybarena.json) |
 | Cybel | 142887 | [142887-cybel.json](./142887-cybel.json) |
 | Cyber | 185031 | [185031-cyber.json](./185031-cyber.json) |
@@ -12635,6 +12638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Dose | 252243 | [252243-cyber-dose.json](./252243-cyber-dose.json) |
 | Cyber Dreamscape Battle-Deckers 2199 | 395830 | [395830-cyber-dreamscape-battle-deckers-2199.json](./395830-cyber-dreamscape-battle-deckers-2199.json) |
 | Cyber Dungeon X Monster Girls | 351759 | [351759-cyber-dungeon-x-monster-girls.json](./351759-cyber-dungeon-x-monster-girls.json) |
+| Cyber Dungeon: Excalibur | 225193 | [225193-cyber-dungeon-excalibur.json](./225193-cyber-dungeon-excalibur.json) |
 | Cyber Egg: Battle Champion | 58062 | [58062-cyber-egg-battle-champion.json](./58062-cyber-egg-battle-champion.json) |
 | Cyber Escape | 93793 | [93793-cyber-escape.json](./93793-cyber-escape.json) |
 | Cyber Evolution | 372988 | [372988-cyber-evolution.json](./372988-cyber-evolution.json) |
