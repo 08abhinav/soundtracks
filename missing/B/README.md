@@ -880,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldur's Gate: Siege of Dragonspear - Digital Deluxe Edition | 52617 | [52617-baldurs-gate-siege-of-dragonspear-digital-deluxe-edition.json](./52617-baldurs-gate-siege-of-dragonspear-digital-deluxe-edition.json) |
 | Baldur's Gate: The Complete Saga | 52616 | [52616-baldurs-gate-the-complete-saga.json](./52616-baldurs-gate-the-complete-saga.json) |
 | Baldwin's Bear | 195262 | [195262-baldwins-bear.json](./195262-baldwins-bear.json) |
+| Baldy Bounce | 217460 | [217460-baldy-bounce.json](./217460-baldy-bounce.json) |
 | Baldy Dash | 314681 | [314681-baldy-dash.json](./314681-baldy-dash.json) |
 | Baldy Land | 45420 | [45420-baldy-land.json](./45420-baldy-land.json) |
 | Bales of Amber | 206732 | [206732-bales-of-amber.json](./206732-bales-of-amber.json) |
@@ -1460,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barb Wire | 92451 | [92451-barb-wire.json](./92451-barb-wire.json) |
 | Barbara-ian | 35006 | [35006-barbara-ian.json](./35006-barbara-ian.json) |
 | Barbarian | 206238 | [206238-barbarian.json](./206238-barbarian.json) |
+| Barbarian | 217448 | [217448-barbarian.json](./217448-barbarian.json) |
 | Barbarian | 376532 | [376532-barbarian.json](./376532-barbarian.json) |
 | Barbarian | 3793 | [3793-barbarian.json](./3793-barbarian.json) |
 | Barbarian Brawl | 10021 | [10021-barbarian-brawl.json](./10021-barbarian-brawl.json) |
