@@ -4556,6 +4556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaky Structures | 180811 | [180811-shaky-structures.json](./180811-shaky-structures.json) |
 | Shaky Summit | 80179 | [80179-shaky-summit.json](./80179-shaky-summit.json) |
 | Shalguy | 373024 | [373024-shalguy.json](./373024-shalguy.json) |
+| Shall we date? Eternal Vows: Love Beyond Time | 221885 | [221885-shall-we-date-eternal-vows-love-beyond-time.json](./221885-shall-we-date-eternal-vows-love-beyond-time.json) |
 | Shall we date? Love Tangle: Finding my Better Half | 225661 | [225661-shall-we-date-love-tangle-finding-my-better-half.json](./225661-shall-we-date-love-tangle-finding-my-better-half.json) |
 | Shall we date? Sengoku Darling: Choose your Destination | 219134 | [219134-shall-we-date-sengoku-darling-choose-your-destination.json](./219134-shall-we-date-sengoku-darling-choose-your-destination.json) |
 | Shall we date?: Angel or Devil | 225315 | [225315-shall-we-date-angel-or-devil.json](./225315-shall-we-date-angel-or-devil.json) |
