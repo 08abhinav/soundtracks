@@ -998,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Feet | 3940 | [3940-happy-feet.json](./3940-happy-feet.json) |
 | Happy Feet Two | 345552 | [345552-happy-feet-two.json](./345552-happy-feet-two.json) |
 | Happy Fishing | 61559 | [61559-happy-fishing.json](./61559-happy-fishing.json) |
+| Happy Flip Cube | 204827 | [204827-happy-flip-cube.json](./204827-happy-flip-cube.json) |
 | Happy Fox | 89280 | [89280-happy-fox.json](./89280-happy-fox.json) |
 | Happy Fret | 92695 | [92695-happy-fret.json](./92695-happy-fret.json) |
 | Happy fruit | 191057 | [191057-happy-fruit.json](./191057-happy-fruit.json) |
@@ -4342,6 +4343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cosmo Cats: Bonus Level | 291364 | [291364-hidden-cosmo-cats-bonus-level.json](./291364-hidden-cosmo-cats-bonus-level.json) |
 | Hidden Cubes | 74459 | [74459-hidden-cubes.json](./74459-hidden-cubes.json) |
 | Hidden Cursed Crypt | 323930 | [323930-hidden-cursed-crypt.json](./323930-hidden-cursed-crypt.json) |
+| Hidden Desert War: Top-Down 3D | 204829 | [204829-hidden-desert-war-top-down-3d.json](./204829-hidden-desert-war-top-down-3d.json) |
 | Hidden Desire | 220035 | [220035-hidden-desire.json](./220035-hidden-desire.json) |
 | Hidden Dimensions 3 | 31191 | [31191-hidden-dimensions-3.json](./31191-hidden-dimensions-3.json) |
 | Hidden Door | 360519 | [360519-hidden-door.json](./360519-hidden-door.json) |
@@ -4398,6 +4400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden in my Paradise + Hidden around the World Bundle | 399810 | [399810-hidden-in-my-paradise-hidden-around-the-world-bundle.json](./399810-hidden-in-my-paradise-hidden-around-the-world-bundle.json) |
 | Hidden in the Dark | 210884 | [210884-hidden-in-the-dark.json](./210884-hidden-in-the-dark.json) |
 | Hidden in Time: Looking-glass Lane | 65187 | [65187-hidden-in-time-looking-glass-lane.json](./65187-hidden-in-time-looking-glass-lane.json) |
+| Hidden Industries: Top-Down 3D | 204828 | [204828-hidden-industries-top-down-3d.json](./204828-hidden-industries-top-down-3d.json) |
 | Hidden Investigation 2: Homicide | 177055 | [177055-hidden-investigation-2-homicide.json](./177055-hidden-investigation-2-homicide.json) |
 | Hidden Investigation 3: Crime Files | 176898 | [176898-hidden-investigation-3-crime-files.json](./176898-hidden-investigation-3-crime-files.json) |
 | Hidden Investigation: Who Did It? | 177042 | [177042-hidden-investigation-who-did-it.json](./177042-hidden-investigation-who-did-it.json) |
@@ -4680,6 +4683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide Your Butts! | 113004 | [113004-hide-your-butts.json](./113004-hide-your-butts.json) |
 | Hide-And-Seek | 86196 | [86196-hide-and-seek.json](./86196-hide-and-seek.json) |
 | Hide.io | 102269 | [102269-hide-io.json](./102269-hide-io.json) |
+| Hideandhunt | 204826 | [204826-hideandhunt.json](./204826-hideandhunt.json) |
 | Hideaways Lost Island | 53212 | [53212-hideaways-lost-island.json](./53212-hideaways-lost-island.json) |
 | Hideaways: Foggy Valley | 84519 | [84519-hideaways-foggy-valley.json](./84519-hideaways-foggy-valley.json) |
 | Hideko | 326201 | [326201-hideko.json](./326201-hideko.json) |
@@ -6486,6 +6490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Riding Deluxe | 81654 | [81654-horse-riding-deluxe.json](./81654-horse-riding-deluxe.json) |
 | Horse Riding Tales | 235160 | [235160-horse-riding-tales.json](./235160-horse-riding-tales.json) |
 | Horse Runner DX | 303569 | [303569-horse-runner-dx.json](./303569-horse-runner-dx.json) |
+| Horse Shelter 2022 | 204821 | [204821-horse-shelter-2022.json](./204821-horse-shelter-2022.json) |
 | Horse Shoes | 358835 | [358835-horse-shoes.json](./358835-horse-shoes.json) |
 | Horse Tales: Emerald Valley Ranch | 206679 | [206679-horse-tales-emerald-valley-ranch.json](./206679-horse-tales-emerald-valley-ranch.json) |
 | Horse Tales: Emerald Valley Ranch - Deluxe | 283268 | [283268-horse-tales-emerald-valley-ranch-deluxe.json](./283268-horse-tales-emerald-valley-ranch-deluxe.json) |
@@ -6635,6 +6640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Milf 2 | 189976 | [189976-hot-milf-2.json](./189976-hot-milf-2.json) |
 | Hot Milf 4 | 192441 | [192441-hot-milf-4.json](./192441-hot-milf-4.json) |
 | Hot Milf 5 | 286748 | [286748-hot-milf-5.json](./286748-hot-milf-5.json) |
+| Hot Milf 7 | 204822 | [204822-hot-milf-7.json](./204822-hot-milf-7.json) |
 | Hot Milf 9 | 224222 | [224222-hot-milf-9.json](./224222-hot-milf-9.json) |
 | Hot MILF VR | 344432 | [344432-hot-milf-vr.json](./344432-hot-milf-vr.json) |
 | Hot Noon | 270065 | [270065-hot-noon.json](./270065-hot-noon.json) |
@@ -6679,6 +6685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Slide | 152920 | [152920-hot-slide.json](./152920-hot-slide.json) |
 | Hot Slots | 78980 | [78980-hot-slots.json](./78980-hot-slots.json) |
 | Hot Soup | 177820 | [177820-hot-soup.json](./177820-hot-soup.json) |
+| Hot Speed | 204823 | [204823-hot-speed.json](./204823-hot-speed.json) |
 | Hot Spring Beauties Japanese Inn Date Memory | 415061 | [415061-hot-spring-beauties-japanese-inn-date-memory.json](./415061-hot-spring-beauties-japanese-inn-date-memory.json) |
 | Hot Spring Hero | 171065 | [171065-hot-spring-hero.json](./171065-hot-spring-hero.json) |
 | Hot Springs | 311567 | [311567-hot-springs.json](./311567-hot-springs.json) |
@@ -7630,6 +7637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter Revenge | 235648 | [235648-hunter-revenge.json](./235648-hunter-revenge.json) |
 | Hunter Simulator VR: Wild Hunting | 391345 | [391345-hunter-simulator-vr-wild-hunting.json](./391345-hunter-simulator-vr-wild-hunting.json) |
 | Hunter Survive Zero | 379165 | [379165-hunter-survive-zero.json](./379165-hunter-survive-zero.json) |
+| Hunter Survivors | 204824 | [204824-hunter-survivors.json](./204824-hunter-survivors.json) |
 | Hunter X Hunter: Hunter no Keifu | 65245 | [65245-hunter-x-hunter-hunter-no-keifu.json](./65245-hunter-x-hunter-hunter-no-keifu.json) |
 | Hunter X Hunter: Maboroshi no Greed Island | 60607 | [60607-hunter-x-hunter-maboroshi-no-greed-island.json](./60607-hunter-x-hunter-maboroshi-no-greed-island.json) |
 | Hunter x Hunter: Nen x Impact | 281740 | [281740-hunter-x-hunter-nen-x-impact.json](./281740-hunter-x-hunter-nen-x-impact.json) |
