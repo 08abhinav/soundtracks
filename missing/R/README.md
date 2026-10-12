@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Classics: Drag Race Simulator | 117601 | [117601-racing-classics-drag-race-simulator.json](./117601-racing-classics-drag-race-simulator.json) |
 | Racing Combat | 255040 | [255040-racing-combat.json](./255040-racing-combat.json) |
 | Racing Course | 247067 | [247067-racing-course.json](./247067-racing-course.json) |
+| Racing Days R | 209742 | [209742-racing-days-r.json](./209742-racing-days-r.json) |
 | Racing Destruction Set | 25892 | [25892-racing-destruction-set.json](./25892-racing-destruction-set.json) |
 | Racing Djani 2 | 156050 | [156050-racing-djani-2.json](./156050-racing-djani-2.json) |
 | Racing Drift Taxi Car Simulator Ultimate | 251046 | [251046-racing-drift-taxi-car-simulator-ultimate.json](./251046-racing-drift-taxi-car-simulator-ultimate.json) |
@@ -1778,8 +1779,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reader Rabbit: Kindergarten | 138102 | [138102-reader-rabbit-kindergarten.json](./138102-reader-rabbit-kindergarten.json) |
 | Reader Rabbit: Kindergarten | 67333 | [67333-reader-rabbit-kindergarten.json](./67333-reader-rabbit-kindergarten.json) |
 | Reader Rabbit: Thinking Adventures Ages 4-6 | 144857 | [144857-reader-rabbit-thinking-adventures-ages-4-6.json](./144857-reader-rabbit-thinking-adventures-ages-4-6.json) |
+| Reader Rabbit's Math Ages 6-9 | 209739 | [209739-reader-rabbits-math-ages-6-9.json](./209739-reader-rabbits-math-ages-6-9.json) |
 | Reader Rabbit's Toddler | 73297 | [73297-reader-rabbits-toddler.json](./73297-reader-rabbits-toddler.json) |
 | Reading Raven | 104090 | [104090-reading-raven.json](./104090-reading-raven.json) |
+| Reading Recipes: Grandma Ollie's Morphabet Soup | 209738 | [209738-reading-recipes-grandma-ollies-morphabet-soup.json](./209738-reading-recipes-grandma-ollies-morphabet-soup.json) |
 | Reading Simulator | 81809 | [81809-reading-simulator.json](./81809-reading-simulator.json) |
 | Reading World VR | 296082 | [296082-reading-world-vr.json](./296082-reading-world-vr.json) |
 | Ready 2 Rumble Boxing | 217944 | [217944-ready-2-rumble-boxing.json](./217944-ready-2-rumble-boxing.json) |
@@ -7865,6 +7868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Rhetoric | 280902 | [280902-rune-rhetoric.json](./280902-rune-rhetoric.json) |
 | Rune Stones | 304656 | [304656-rune-stones.json](./304656-rune-stones.json) |
 | Rune Tavern | 407341 | [407341-rune-tavern.json](./407341-rune-tavern.json) |
+| Rune Teller | 209731 | [209731-rune-teller.json](./209731-rune-teller.json) |
 | Rune Worth 2: Jikuu no Shinsen | 297593 | [297593-rune-worth-2-jikuu-no-shinsen.json](./297593-rune-worth-2-jikuu-no-shinsen.json) |
 | Rune Worth 3: Shinseiki Kourin | 297594 | [297594-rune-worth-3-shinseiki-kourin.json](./297594-rune-worth-3-shinseiki-kourin.json) |
 | Rune Worth: Kokui no Kikoushi | 243950 | [243950-rune-worth-kokui-no-kikoushi.json](./243950-rune-worth-kokui-no-kikoushi.json) |
@@ -8213,6 +8217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruzzle | 58212 | [58212-ruzzle.json](./58212-ruzzle.json) |
 | Ruzzle Adventure | 38910 | [38910-ruzzle-adventure.json](./38910-ruzzle-adventure.json) |
 | RV Drive There Co-op | 389069 | [389069-rv-drive-there-co-op.json](./389069-rv-drive-there-co-op.json) |
+| RV Escape | 210286 | [210286-rv-escape.json](./210286-rv-escape.json) |
 | RV Park Life | 228452 | [228452-rv-park-life.json](./228452-rv-park-life.json) |
 | RV Roadtrip Simulator | 403730 | [403730-rv-roadtrip-simulator.json](./403730-rv-roadtrip-simulator.json) |
 | RV Tags | 405672 | [405672-rv-tags.json](./405672-rv-tags.json) |
