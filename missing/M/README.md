@@ -1136,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnavody | 277610 | [277610-magnavody.json](./277610-magnavody.json) |
 | Magneboy | 299834 | [299834-magneboy.json](./299834-magneboy.json) |
 | Magnecube | 367757 | [367757-magnecube.json](./367757-magnecube.json) |
+| Magneko | 212980 | [212980-magneko.json](./212980-magneko.json) |
 | Magnery Reign | 156580 | [156580-magnery-reign.json](./156580-magnery-reign.json) |
 | Magnet Action: Zi | 147890 | [147890-magnet-action-zi.json](./147890-magnet-action-zi.json) |
 | Magnet Effect | 214010 | [214010-magnet-effect.json](./214010-magnet-effect.json) |
@@ -1187,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maguntsche: Chapter Two | 371971 | [371971-maguntsche-chapter-two.json](./371971-maguntsche-chapter-two.json) |
 | Magus | 170346 | [170346-magus.json](./170346-magus.json) |
 | Magus in Mystic Geometries. | 123591 | [123591-magus-in-mystic-geometries.json](./123591-magus-in-mystic-geometries.json) |
+| Magus Pocus | 212981 | [212981-magus-pocus.json](./212981-magus-pocus.json) |
 | Magus Tower | 304721 | [304721-magus-tower.json](./304721-magus-tower.json) |
 | Magusian | 392390 | [392390-magusian.json](./392390-magusian.json) |
 | MaguSphere: Magical Cannon Girls | 122296 | [122296-magusphere-magical-cannon-girls.json](./122296-magusphere-magical-cannon-girls.json) |
@@ -4748,6 +4750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Drive Mini | 215403 | [215403-mega-drive-mini.json](./215403-mega-drive-mini.json) |
 | Mega Drive Mini 2 | 215702 | [215702-mega-drive-mini-2.json](./215702-mega-drive-mini-2.json) |
 | Mega Dystopia Micro Architect | 271696 | [271696-mega-dystopia-micro-architect.json](./271696-mega-dystopia-micro-architect.json) |
+| Mega Fast Food | 213057 | [213057-mega-fast-food.json](./213057-mega-fast-food.json) |
 | Mega Force | 22433 | [22433-mega-force.json](./22433-mega-force.json) |
 | Mega Force | 6139 | [6139-mega-force.json](./6139-mega-force.json) |
 | Mega Game Room 2 | 209531 | [209531-mega-game-room-2.json](./209531-mega-game-room-2.json) |
@@ -5690,6 +5693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory of The Waters | 277496 | [277496-memory-of-the-waters.json](./277496-memory-of-the-waters.json) |
 | Memory of Time | 339123 | [339123-memory-of-time.json](./339123-memory-of-time.json) |
 | Memory Patches | 264660 | [264660-memory-patches.json](./264660-memory-patches.json) |
+| Memory Puzzle: Futanari Boss | 212983 | [212983-memory-puzzle-futanari-boss.json](./212983-memory-puzzle-futanari-boss.json) |
 | Memory Puzzle: Futanari Doctor | 204945 | [204945-memory-puzzle-futanari-doctor.json](./204945-memory-puzzle-futanari-doctor.json) |
 | Memory Puzzle: Futanari Gym | 368623 | [368623-memory-puzzle-futanari-gym.json](./368623-memory-puzzle-futanari-gym.json) |
 | Memory Puzzle: Hentai Angels | 286465 | [286465-memory-puzzle-hentai-angels.json](./286465-memory-puzzle-hentai-angels.json) |
@@ -7139,6 +7143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Report | 207371 | [207371-midnight-report.json](./207371-midnight-report.json) |
 | Midnight Road Warriors | 209513 | [209513-midnight-road-warriors.json](./209513-midnight-road-warriors.json) |
 | Midnight Runner: Blade Galaxy Beat Puzzle Legacy 3D Games Ultimate Edition | 231258 | [231258-midnight-runner-blade-galaxy-beat-puzzle-legacy-3d-games-ultimate-edition.json](./231258-midnight-runner-blade-galaxy-beat-puzzle-legacy-3d-games-ultimate-edition.json) |
+| Midnight Saga: The Monster | 212974 | [212974-midnight-saga-the-monster.json](./212974-midnight-saga-the-monster.json) |
 | Midnight Scenes Ep.2: The Goodbye Note - Special Edition | 176481 | [176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json](./176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json) |
 | Midnight Scenes: A Safe Place | 257261 | [257261-midnight-scenes-a-safe-place.json](./257261-midnight-scenes-a-safe-place.json) |
 | Midnight Scenes: The Highway | 75153 | [75153-midnight-scenes-the-highway.json](./75153-midnight-scenes-the-highway.json) |
@@ -9974,6 +9979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl * Fusion | 82764 | [82764-monster-girl-fusion.json](./82764-monster-girl-fusion.json) |
 | Monster Girl 2 | 237291 | [237291-monster-girl-2.json](./237291-monster-girl-2.json) |
 | Monster Girl Clinic | 412305 | [412305-monster-girl-clinic.json](./412305-monster-girl-clinic.json) |
+| Monster Girl Dormitory | 212973 | [212973-monster-girl-dormitory.json](./212973-monster-girl-dormitory.json) |
 | Monster Girl Dreams | 138832 | [138832-monster-girl-dreams.json](./138832-monster-girl-dreams.json) |
 | Monster Girl Dungeon | 166214 | [166214-monster-girl-dungeon.json](./166214-monster-girl-dungeon.json) |
 | Monster Girl Fantasy | 116339 | [116339-monster-girl-fantasy.json](./116339-monster-girl-fantasy.json) |
@@ -11078,6 +11084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaico | 287861 | [287861-mosaico.json](./287861-mosaico.json) |
 | Mosaics Galore 2 | 97005 | [97005-mosaics-galore-2.json](./97005-mosaics-galore-2.json) |
 | Mosaics Galore: Challenging Journey | 106143 | [106143-mosaics-galore-challenging-journey.json](./106143-mosaics-galore-challenging-journey.json) |
+| Mosaics Galore: Glorious Journey | 212972 | [212972-mosaics-galore-glorious-journey.json](./212972-mosaics-galore-glorious-journey.json) |
 | Mosaics Wall Deco | 376473 | [376473-mosaics-wall-deco.json](./376473-mosaics-wall-deco.json) |
 | Mosaique | 63393 | [63393-mosaique.json](./63393-mosaique.json) |
 | Mosaique Neko Waifus 2 | 167808 | [167808-mosaique-neko-waifus-2.json](./167808-mosaique-neko-waifus-2.json) |
@@ -11142,6 +11149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motel Styx | 215603 | [215603-motel-styx.json](./215603-motel-styx.json) |
 | MoteMancer | 338704 | [338704-motemancer.json](./338704-motemancer.json) |
 | Moth Kubit | 236869 | [236869-moth-kubit.json](./236869-moth-kubit.json) |
+| Moth Lake | 212971 | [212971-moth-lake.json](./212971-moth-lake.json) |
 | Moth Ma'am | 355015 | [355015-moth-maam.json](./355015-moth-maam.json) |
 | Moth Manor | 229771 | [229771-moth-manor.json](./229771-moth-manor.json) |
 | Moth Planet | 254585 | [254585-moth-planet.json](./254585-moth-planet.json) |
