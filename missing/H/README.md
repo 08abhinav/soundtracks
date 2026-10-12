@@ -1787,6 +1787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haven: The Leader | 298292 | [298292-haven-the-leader.json](./298292-haven-the-leader.json) |
 | Haven's Compass | 259161 | [259161-havens-compass.json](./259161-havens-compass.json) |
 | Haven's Embers | 190970 | [190970-havens-embers.json](./190970-havens-embers.json) |
+| Havendock | 208652 | [208652-havendock.json](./208652-havendock.json) |
 | HavenFlower: Regrets Of | 380219 | [380219-havenflower-regrets-of.json](./380219-havenflower-regrets-of.json) |
 | Havenhold | 204445 | [204445-havenhold.json](./204445-havenhold.json) |
 | Havenview | 219814 | [219814-havenview.json](./219814-havenview.json) |
