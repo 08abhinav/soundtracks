@@ -3707,6 +3707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photons | 288759 | [288759-photons.json](./288759-photons.json) |
 | PhotonVerse | 235881 | [235881-photonverse.json](./235881-photonverse.json) |
 | Photophobia | 373200 | [373200-photophobia.json](./373200-photophobia.json) |
+| PhotophoBoy | 185363 | [185363-photophoboy.json](./185363-photophoboy.json) |
 | Photopia | 9513 | [9513-photopia.json](./9513-photopia.json) |
 | Photoq | 188875 | [188875-photoq.json](./188875-photoq.json) |
 | Photos with Animal Crossing | 59998 | [59998-photos-with-animal-crossing.json](./59998-photos-with-animal-crossing.json) |
@@ -4655,6 +4656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pineapple on Pizza | 240496 | [240496-pineapple-on-pizza.json](./240496-pineapple-on-pizza.json) |
 | Pineapple Panic! | 337652 | [337652-pineapple-panic.json](./337652-pineapple-panic.json) |
 | Pineapple Pen | 87169 | [87169-pineapple-pen.json](./87169-pineapple-pen.json) |
+| Pineapple Pipeline: Infinite Skater Dreams | 185385 | [185385-pineapple-pipeline-infinite-skater-dreams.json](./185385-pineapple-pipeline-infinite-skater-dreams.json) |
 | Pineapple Smash Crew | 16330 | [16330-pineapple-smash-crew.json](./16330-pineapple-smash-crew.json) |
 | PineapplePizza | 28159 | [28159-pineapplepizza.json](./28159-pineapplepizza.json) |
 | Pineford: Part I | 302120 | [302120-pineford-part-i.json](./302120-pineford-part-i.json) |
@@ -6090,6 +6092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plantiquarian | 361257 | [361257-plantiquarian.json](./361257-plantiquarian.json) |
 | Plantoons | 341570 | [341570-plantoons.json](./341570-plantoons.json) |
 | Plants | 101330 | [101330-plants.json](./101330-plants.json) |
+| Plants | 185394 | [185394-plants.json](./185394-plants.json) |
 | Plants in Rush | 287718 | [287718-plants-in-rush.json](./287718-plants-in-rush.json) |
 | Plants on Fire | 408106 | [408106-plants-on-fire.json](./408106-plants-on-fire.json) |
 | Plants vs Zombies Expansion | 366941 | [366941-plants-vs-zombies-expansion.json](./366941-plants-vs-zombies-expansion.json) |
@@ -8411,6 +8414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post Apo Tycoon | 347883 | [347883-post-apo-tycoon.json](./347883-post-apo-tycoon.json) |
 | Post Apocalypse | 130355 | [130355-post-apocalypse.json](./130355-post-apocalypse.json) |
 | Post Apocalyptic Mayhem | 16229 | [16229-post-apocalyptic-mayhem.json](./16229-post-apocalyptic-mayhem.json) |
+| Post Apocalyptic Petra | 185377 | [185377-post-apocalyptic-petra.json](./185377-post-apocalyptic-petra.json) |
 | Post Cards | 142994 | [142994-post-cards.json](./142994-post-cards.json) |
 | Post Ghost | 307717 | [307717-post-ghost.json](./307717-post-ghost.json) |
 | Post Haste | 111881 | [111881-post-haste.json](./111881-post-haste.json) |
@@ -11175,6 +11179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pupil: Wandering VR | 117834 | [117834-pupil-wandering-vr.json](./117834-pupil-wandering-vr.json) |
 | Pupillary | 408296 | [408296-pupillary.json](./408296-pupillary.json) |
 | Puppers Delivers | 183430 | [183430-puppers-delivers.json](./183430-puppers-delivers.json) |
+| Puppertrator | 185399 | [185399-puppertrator.json](./185399-puppertrator.json) |
 | Puppet Fever | 72321 | [72321-puppet-fever.json](./72321-puppet-fever.json) |
 | Puppet Kings | 82853 | [82853-puppet-kings.json](./82853-puppet-kings.json) |
 | Puppet Master RPG | 94786 | [94786-puppet-master-rpg.json](./94786-puppet-master-rpg.json) |
