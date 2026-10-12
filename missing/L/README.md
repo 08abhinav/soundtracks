@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lara Croft and the Temple of Osiris: Twisted Gears Pack | 226873 | [226873-lara-croft-and-the-temple-of-osiris-twisted-gears-pack.json](./226873-lara-croft-and-the-temple-of-osiris-twisted-gears-pack.json) |
 | Lara Croft's Poker Party | 299543 | [299543-lara-crofts-poker-party.json](./299543-lara-crofts-poker-party.json) |
 | Lara Gates: The Lost Talisman Hidden Object Game | 144761 | [144761-lara-gates-the-lost-talisman-hidden-object-game.json](./144761-lara-gates-the-lost-talisman-hidden-object-game.json) |
+| Lara's Mysterious Restorations | 210213 | [210213-laras-mysterious-restorations.json](./210213-laras-mysterious-restorations.json) |
 | Laranja! | 391059 | [391059-laranja.json](./391059-laranja.json) |
 | Larcenauts | 149018 | [149018-larcenauts.json](./149018-larcenauts.json) |
 | Larcin Lazer | 169792 | [169792-larcin-lazer.json](./169792-larcin-lazer.json) |
@@ -2045,6 +2046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Ninjago: Shadow of Ronin | 19006 | [19006-lego-ninjago-shadow-of-ronin.json](./19006-lego-ninjago-shadow-of-ronin.json) |
 | LEGO Ninjago: The Four Paths | 340034 | [340034-lego-ninjago-the-four-paths.json](./340034-lego-ninjago-the-four-paths.json) |
 | LEGO Ninjago: Tournament | 77616 | [77616-lego-ninjago-tournament.json](./77616-lego-ninjago-tournament.json) |
+| LEGO Orient Expedition: The Quest for the Golden Dragon | 210319 | [210319-lego-orient-expedition-the-quest-for-the-golden-dragon.json](./210319-lego-orient-expedition-the-quest-for-the-golden-dragon.json) |
 | LEGO Pirates of the Caribbean: The Video Game | 283748 | [283748-lego-pirates-of-the-caribbean-the-video-game.json](./283748-lego-pirates-of-the-caribbean-the-video-game.json) |
 | LEGO Racers | 248764 | [248764-lego-racers.json](./248764-lego-racers.json) |
 | LEGO Racers | 343274 | [343274-lego-racers.json](./343274-lego-racers.json) |
@@ -5546,6 +5548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love in the Glen | 33083 | [33083-love-in-the-glen.json](./33083-love-in-the-glen.json) |
 | Love in the Limelight | 119589 | [119589-love-in-the-limelight.json](./119589-love-in-the-limelight.json) |
 | Love in the Time of Spellphage | 364524 | [364524-love-in-the-time-of-spellphage.json](./364524-love-in-the-time-of-spellphage.json) |
+| Love is a Canvas | 210315 | [210315-love-is-a-canvas.json](./210315-love-is-a-canvas.json) |
 | Love Is All Around | 253391 | [253391-love-is-all-around.json](./253391-love-is-all-around.json) |
 | Love Is All Around 2 | 348790 | [348790-love-is-all-around-2.json](./348790-love-is-all-around-2.json) |
 | Love is All Around: Echoes of Yesterday | 327196 | [327196-love-is-all-around-echoes-of-yesterday.json](./327196-love-is-all-around-echoes-of-yesterday.json) |
