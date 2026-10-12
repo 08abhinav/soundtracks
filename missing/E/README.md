@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports UFC Mobile | 218949 | [218949-ea-sports-ufc-mobile.json](./218949-ea-sports-ufc-mobile.json) |
 | EA Sports WRC 24 | 319197 | [319197-ea-sports-wrc-24.json](./319197-ea-sports-wrc-24.json) |
 | EA Star Wars Triple Bundle | 164777 | [164777-ea-star-wars-triple-bundle.json](./164777-ea-star-wars-triple-bundle.json) |
+| Each Other | 224717 | [224717-each-other.json](./224717-each-other.json) |
 | Eador: Masters of the Broken World | 7719 | [7719-eador-masters-of-the-broken-world.json](./7719-eador-masters-of-the-broken-world.json) |
 | Eador: Masters of the Broken World - Allied Forces | 9206 | [9206-eador-masters-of-the-broken-world-allied-forces.json](./9206-eador-masters-of-the-broken-world-allied-forces.json) |
 | Eagle | 13626 | [13626-eagle.json](./13626-eagle.json) |
@@ -1082,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eight-Minute Empire | 43080 | [43080-eight-minute-empire.json](./43080-eight-minute-empire.json) |
 | Eight-Minute Empire: Archipelago of Azra Map | 171947 | [171947-eight-minute-empire-archipelago-of-azra-map.json](./171947-eight-minute-empire-archipelago-of-azra-map.json) |
 | Eight-Minute Empire: Mountains | 171946 | [171946-eight-minute-empire-mountains.json](./171946-eight-minute-empire-mountains.json) |
+| EightBound Regal | 225790 | [225790-eightbound-regal.json](./225790-eightbound-regal.json) |
 | Eighteen | 295244 | [295244-eighteen.json](./295244-eighteen.json) |
 | Eighteen Gold | 258484 | [258484-eighteen-gold.json](./258484-eighteen-gold.json) |
 | Eighth Day Kishimoto-kun | 349991 | [349991-eighth-day-kishimoto-kun.json](./349991-eighth-day-kishimoto-kun.json) |
@@ -1600,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Dangerous: Odyssey - Deluxe Edition | 227190 | [227190-elite-dangerous-odyssey-deluxe-edition.json](./227190-elite-dangerous-odyssey-deluxe-edition.json) |
 | Elite Darts | 98956 | [98956-elite-darts.json](./98956-elite-darts.json) |
 | Elite Force | 223659 | [223659-elite-force.json](./223659-elite-force.json) |
+| Elite Forces | 224703 | [224703-elite-forces.json](./224703-elite-forces.json) |
 | Elite Forces: Navy SEALs | 84183 | [84183-elite-forces-navy-seals.json](./84183-elite-forces-navy-seals.json) |
 | Elite Forces: Unit 77 | 21291 | [21291-elite-forces-unit-77.json](./21291-elite-forces-unit-77.json) |
 | Elite Forces: WWII - Desert Rats | 23470 | [23470-elite-forces-wwii-desert-rats.json](./23470-elite-forces-wwii-desert-rats.json) |
@@ -3811,6 +3814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternally Yours | 261545 | [261545-eternally-yours.json](./261545-eternally-yours.json) |
 | Eternals' Path | 249999 | [249999-eternals-path.json](./249999-eternals-path.json) |
 | Eternam | 18544 | [18544-eternam.json](./18544-eternam.json) |
+| EternaMine | 224721 | [224721-eternamine.json](./224721-eternamine.json) |
 | Eternia: Chronicles of Meranthe | 215366 | [215366-eternia-chronicles-of-meranthe.json](./215366-eternia-chronicles-of-meranthe.json) |
 | Eternights | 203367 | [203367-eternights.json](./203367-eternights.json) |
 | Eternis: Death Match | 298433 | [298433-eternis-death-match.json](./298433-eternis-death-match.json) |
