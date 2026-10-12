@@ -832,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetbike Gang | 207233 | [207233-jetbike-gang.json](./207233-jetbike-gang.json) |
 | Jetborne Racing | 150003 | [150003-jetborne-racing.json](./150003-jetborne-racing.json) |
 | Jetbot | 90896 | [90896-jetbot.json](./90896-jetbot.json) |
+| Jetbounce | 189927 | [189927-jetbounce.json](./189927-jetbounce.json) |
 | Jetboy | 119775 | [119775-jetboy.json](./119775-jetboy.json) |
 | Jetbros | 44517 | [44517-jetbros.json](./44517-jetbros.json) |
 | JetFighter II: Advanced Mission Disk | 84260 | [84260-jetfighter-ii-advanced-mission-disk.json](./84260-jetfighter-ii-advanced-mission-disk.json) |
