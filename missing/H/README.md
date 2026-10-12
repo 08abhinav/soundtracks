@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habilis | 313898 | [313898-habilis.json](./313898-habilis.json) |
 | Habitat | 10387 | [10387-habitat.json](./10387-habitat.json) |
 | Habitat | 181243 | [181243-habitat.json](./181243-habitat.json) |
+| Habitat | 192111 | [192111-habitat.json](./192111-habitat.json) |
 | Habitat | 28717 | [28717-habitat.json](./28717-habitat.json) |
 | Habitat Complex | 312896 | [312896-habitat-complex.json](./312896-habitat-complex.json) |
 | Habitat Shapes | 379161 | [379161-habitat-shapes.json](./379161-habitat-shapes.json) |
@@ -3013,6 +3014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Henk Stroem in: Lost in Cellar | 322824 | [322824-henk-stroem-in-lost-in-cellar.json](./322824-henk-stroem-in-lost-in-cellar.json) |
 | Henka Twist Caper | 52237 | [52237-henka-twist-caper.json](./52237-henka-twist-caper.json) |
 | HenPri | 322740 | [322740-henpri.json](./322740-henpri.json) |
+| HenPri: Hentai Prison | 192094 | [192094-henpri-hentai-prison.json](./192094-henpri-hentai-prison.json) |
 | Henri | 222521 | [222521-henri.json](./222521-henri.json) |
 | Henry | 80642 | [80642-henry.json](./80642-henry.json) |
 | Henry Stickmin: Defending the Mall | 378979 | [378979-henry-stickmin-defending-the-mall.json](./378979-henry-stickmin-defending-the-mall.json) |
