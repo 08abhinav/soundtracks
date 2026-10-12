@@ -3314,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outer Ridge | 14506 | [14506-outer-ridge.json](./14506-outer-ridge.json) |
 | Outer Rim: Survivor | 95191 | [95191-outer-rim-survivor.json](./95191-outer-rim-survivor.json) |
 | Outer Space | 243173 | [243173-outer-space.json](./243173-outer-space.json) |
+| Outer Space Survival | 207033 | [207033-outer-space-survival.json](./207033-outer-space-survival.json) |
 | Outer Space: War Gears | 211622 | [211622-outer-space-war-gears.json](./211622-outer-space-war-gears.json) |
 | Outer Terror | 206226 | [206226-outer-terror.json](./206226-outer-terror.json) |
 | Outer Wards: Proving Grounds | 260234 | [260234-outer-wards-proving-grounds.json](./260234-outer-wards-proving-grounds.json) |
