@@ -3195,6 +3195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global ATC Simulator | 16945 | [16945-global-atc-simulator.json](./16945-global-atc-simulator.json) |
 | Global Aviation Dream | 126530 | [126530-global-aviation-dream.json](./126530-global-aviation-dream.json) |
 | Global Champion | 92636 | [92636-global-champion.json](./92636-global-champion.json) |
+| Global City | 181651 | [181651-global-city.json](./181651-global-city.json) |
 | Global Conflict: The Trading Card Game | 264811 | [264811-global-conflict-the-trading-card-game.json](./264811-global-conflict-the-trading-card-game.json) |
 | Global Conquest | 69946 | [69946-global-conquest.json](./69946-global-conquest.json) |
 | Global Defence Force | 5581 | [5581-global-defence-force.json](./5581-global-defence-force.json) |
@@ -3587,6 +3588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goal II | 48286 | [48286-goal-ii.json](./48286-goal-ii.json) |
 | Goal IV | 339779 | [339779-goal-iv.json](./339779-goal-iv.json) |
 | Goal Poacher VR: Football Header Simulator | 326415 | [326415-goal-poacher-vr-football-header-simulator.json](./326415-goal-poacher-vr-football-header-simulator.json) |
+| Goal Rush | 182147 | [182147-goal-rush.json](./182147-goal-rush.json) |
 | Goal Storm | 20315 | [20315-goal-storm.json](./20315-goal-storm.json) |
 | Goal Storm '97 | 20141 | [20141-goal-storm-97.json](./20141-goal-storm-97.json) |
 | Goal! | 218001 | [218001-goal.json](./218001-goal.json) |
@@ -3597,6 +3599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goal3 | 334303 | [334303-goal3.json](./334303-goal3.json) |
 | Goal92 | 40125 | [40125-goal92.json](./40125-goal92.json) |
 | Goalgetter | 159803 | [159803-goalgetter.json](./159803-goalgetter.json) |
+| Goalie | 182171 | [182171-goalie.json](./182171-goalie.json) |
 | Goalie Challenge VR | 29567 | [29567-goalie-challenge-vr.json](./29567-goalie-challenge-vr.json) |
 | Goalie Game | 328670 | [328670-goalie-game.json](./328670-goalie-game.json) |
 | Goalie Ghost | 25882 | [25882-goalie-ghost.json](./25882-goalie-ghost.json) |
@@ -6442,6 +6445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Mage VR | 197080 | [197080-guardian-mage-vr.json](./197080-guardian-mage-vr.json) |
 | Guardian Master VR | 113735 | [113735-guardian-master-vr.json](./113735-guardian-master-vr.json) |
 | Guardian of Altai | 362923 | [362923-guardian-of-altai.json](./362923-guardian-of-altai.json) |
+| Guardian of Andra: Fragments of Fate | 181605 | [181605-guardian-of-andra-fragments-of-fate.json](./181605-guardian-of-andra-fragments-of-fate.json) |
 | Guardian of Civilization | 286998 | [286998-guardian-of-civilization.json](./286998-guardian-of-civilization.json) |
 | Guardian of Dynamite: A Bomb Protector | 242022 | [242022-guardian-of-dynamite-a-bomb-protector.json](./242022-guardian-of-dynamite-a-bomb-protector.json) |
 | Guardian of Hidden Land | 352171 | [352171-guardian-of-hidden-land.json](./352171-guardian-of-hidden-land.json) |
