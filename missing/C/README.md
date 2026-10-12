@@ -7233,6 +7233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold War Warfare | 73805 | [73805-cold-war-warfare.json](./73805-cold-war-warfare.json) |
 | Cold War: Frontline | 339101 | [339101-cold-war-frontline.json](./339101-cold-war-frontline.json) |
 | Cold War: The Iron Curtain | 256451 | [256451-cold-war-the-iron-curtain.json](./256451-cold-war-the-iron-curtain.json) |
+| Cold Way | 210842 | [210842-cold-way.json](./210842-cold-way.json) |
 | Cold Wind | 151128 | [151128-cold-wind.json](./151128-cold-wind.json) |
 | Cold Winter | 8277 | [8277-cold-winter.json](./8277-cold-winter.json) |
 | Cold Winter Morning | 129050 | [129050-cold-winter-morning.json](./129050-cold-winter-morning.json) |
@@ -8158,6 +8159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes 3: Fire & Steel | 333222 | [333222-company-of-heroes-3-fire-and-steel.json](./333222-company-of-heroes-3-fire-and-steel.json) |
 | Company of Heroes 3: Hammer & Shield | 277019 | [277019-company-of-heroes-3-hammer-and-shield.json](./277019-company-of-heroes-3-hammer-and-shield.json) |
 | Company of Heroes 3: Hammer & Shield Battlegroup Pack | 400401 | [400401-company-of-heroes-3-hammer-and-shield-battlegroup-pack.json](./400401-company-of-heroes-3-hammer-and-shield-battlegroup-pack.json) |
+| Company of Heroes 3: Premium Edition | 210916 | [210916-company-of-heroes-3-premium-edition.json](./210916-company-of-heroes-3-premium-edition.json) |
 | Company of Heroes Online | 77294 | [77294-company-of-heroes-online.json](./77294-company-of-heroes-online.json) |
 | Company of Heroes: Back to Basics | 154580 | [154580-company-of-heroes-back-to-basics.json](./154580-company-of-heroes-back-to-basics.json) |
 | Company of Heroes: Battle of Crete | 127909 | [127909-company-of-heroes-battle-of-crete.json](./127909-company-of-heroes-battle-of-crete.json) |
@@ -11425,6 +11427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CRSED: F.O.A.D. - Lone Wolf | 171061 | [171061-crsed-f-o-a-d-lone-wolf.json](./171061-crsed-f-o-a-d-lone-wolf.json) |
 | CRSED: F.O.A.D. - Metal Zombie | 171058 | [171058-crsed-f-o-a-d-metal-zombie.json](./171058-crsed-f-o-a-d-metal-zombie.json) |
 | CRSED: F.O.A.D. - Street Kid | 171060 | [171060-crsed-f-o-a-d-street-kid.json](./171060-crsed-f-o-a-d-street-kid.json) |
+| CRT7 | 210849 | [210849-crt7.json](./210849-crt7.json) |
 | Crucial 2: The Refresh Update | 290398 | [290398-crucial-2-the-refresh-update.json](./290398-crucial-2-the-refresh-update.json) |
 | Crucible | 24653 | [24653-crucible.json](./24653-crucible.json) |
 | Crucible Falls: Together Forever | 96959 | [96959-crucible-falls-together-forever.json](./96959-crucible-falls-together-forever.json) |
