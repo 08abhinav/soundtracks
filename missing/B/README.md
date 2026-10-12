@@ -149,6 +149,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Escape | 400220 | [400220-baby-escape.json](./400220-baby-escape.json) |
 | Baby Felix Creativity Center | 200456 | [200456-baby-felix-creativity-center.json](./200456-baby-felix-creativity-center.json) |
 | Baby Felix Halloween | 50033 | [50033-baby-felix-halloween.json](./50033-baby-felix-halloween.json) |
+| Baby Felix's Activity Center | 200377 | [200377-baby-felixs-activity-center.json](./200377-baby-felixs-activity-center.json) |
+| Baby Felix's Shuffle Puck | 200375 | [200375-baby-felixs-shuffle-puck.json](./200375-baby-felixs-shuffle-puck.json) |
 | Baby Ghost: Jump Away With Jewel | 175361 | [175361-baby-ghost-jump-away-with-jewel.json](./175361-baby-ghost-jump-away-with-jewel.json) |
 | Baby Goat Billy | 159826 | [159826-baby-goat-billy.json](./159826-baby-goat-billy.json) |
 | Baby Hands | 68834 | [68834-baby-hands.json](./68834-baby-hands.json) |
