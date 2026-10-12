@@ -17136,6 +17136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Soujinengi: The Genius of Sappheiros | 65194 | [65194-touhou-soujinengi-the-genius-of-sappheiros.json](./65194-touhou-soujinengi-the-genius-of-sappheiros.json) |
 | Touhou Spell Bubble | 131922 | [131922-touhou-spell-bubble.json](./131922-touhou-spell-bubble.json) |
 | Touhou Spell Bubble: Akatsuki Records Song Pack | 209154 | [209154-touhou-spell-bubble-akatsuki-records-song-pack.json](./209154-touhou-spell-bubble-akatsuki-records-song-pack.json) |
+| Touhou Spell Bubble: Character Pack - Suwako Moriya | 199866 | [199866-touhou-spell-bubble-character-pack-suwako-moriya.json](./199866-touhou-spell-bubble-character-pack-suwako-moriya.json) |
 | Touhou Spell Bubble: Character Pack - Toyosatomimi no Miko | 221693 | [221693-touhou-spell-bubble-character-pack-toyosatomimi-no-miko.json](./221693-touhou-spell-bubble-character-pack-toyosatomimi-no-miko.json) |
 | Touhou Spell Bubble: Character Pack Hata no Kokoro | 209525 | [209525-touhou-spell-bubble-character-pack-hata-no-kokoro.json](./209525-touhou-spell-bubble-character-pack-hata-no-kokoro.json) |
 | Touhou Spell Bubble: Character Pack Hong Meiling | 246646 | [246646-touhou-spell-bubble-character-pack-hong-meiling.json](./246646-touhou-spell-bubble-character-pack-hong-meiling.json) |
@@ -17191,6 +17192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TouhouSnowClash | 263142 | [263142-touhousnowclash.json](./263142-touhousnowclash.json) |
 | Touka Gettan: Koufuu no Ryouou | 287638 | [287638-touka-gettan-koufuu-no-ryouou.json](./287638-touka-gettan-koufuu-no-ryouou.json) |
 | Touka Gettan: Koufuu no Ryouou Deluxe Pack | 287640 | [287640-touka-gettan-koufuu-no-ryouou-deluxe-pack.json](./287640-touka-gettan-koufuu-no-ryouou-deluxe-pack.json) |
+| Touken Ranbu Warriors: Digital Deluxe Edition | 199857 | [199857-touken-ranbu-warriors-digital-deluxe-edition.json](./199857-touken-ranbu-warriors-digital-deluxe-edition.json) |
 | Touken Ranbu Warriors: Uchiban Outfit 16-piece Set | 224518 | [224518-touken-ranbu-warriors-uchiban-outfit-16-piece-set.json](./224518-touken-ranbu-warriors-uchiban-outfit-16-piece-set.json) |
 | Touken Ranbu: Online Pocket | 194031 | [194031-touken-ranbu-online-pocket.json](./194031-touken-ranbu-online-pocket.json) |
 | Touki Kyouka | 82490 | [82490-touki-kyouka.json](./82490-touki-kyouka.json) |
