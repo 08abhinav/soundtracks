@@ -7660,6 +7660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Dinorex | 276863 | [276863-arcade-archives-dinorex.json](./276863-arcade-archives-dinorex.json) |
 | Arcade Archives: Donkey Kong 3 | 117018 | [117018-arcade-archives-donkey-kong-3.json](./117018-arcade-archives-donkey-kong-3.json) |
 | Arcade Archives: Double Dragon II - The Revenge | 99570 | [99570-arcade-archives-double-dragon-ii-the-revenge.json](./99570-arcade-archives-double-dragon-ii-the-revenge.json) |
+| Arcade Archives: Dragon Buster | 186560 | [186560-arcade-archives-dragon-buster.json](./186560-arcade-archives-dragon-buster.json) |
 | Arcade Archives: Dragon Saber | 209646 | [209646-arcade-archives-dragon-saber.json](./209646-arcade-archives-dragon-saber.json) |
 | Arcade Archives: Dragon Spirit | 192950 | [192950-arcade-archives-dragon-spirit.json](./192950-arcade-archives-dragon-spirit.json) |
 | Arcade Archives: Earth Defense Force | 146843 | [146843-arcade-archives-earth-defense-force.json](./146843-arcade-archives-earth-defense-force.json) |
@@ -7709,9 +7710,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Legend of Makai | 147085 | [147085-arcade-archives-legend-of-makai.json](./147085-arcade-archives-legend-of-makai.json) |
 | Arcade Archives: Life Force | 96365 | [96365-arcade-archives-life-force.json](./96365-arcade-archives-life-force.json) |
 | Arcade Archives: Lightning Fighters | 147112 | [147112-arcade-archives-lightning-fighters.json](./147112-arcade-archives-lightning-fighters.json) |
+| Arcade Archives: Liquid Kids | 186561 | [186561-arcade-archives-liquid-kids.json](./186561-arcade-archives-liquid-kids.json) |
 | Arcade Archives: Mach Breakers | 365535 | [365535-arcade-archives-mach-breakers.json](./365535-arcade-archives-mach-breakers.json) |
 | Arcade Archives: Magical Speed | 237356 | [237356-arcade-archives-magical-speed.json](./237356-arcade-archives-magical-speed.json) |
 | Arcade Archives: MagMax | 99562 | [99562-arcade-archives-magmax.json](./99562-arcade-archives-magmax.json) |
+| Arcade Archives: Mappy | 186562 | [186562-arcade-archives-mappy.json](./186562-arcade-archives-mappy.json) |
 | Arcade Archives: Märchen Maze | 330745 | [330745-arcade-archives-marchen-maze.json](./330745-arcade-archives-marchen-maze.json) |
 | Arcade Archives: Markham | 147084 | [147084-arcade-archives-markham.json](./147084-arcade-archives-markham.json) |
 | Arcade Archives: Marvel Land | 233950 | [233950-arcade-archives-marvel-land.json](./233950-arcade-archives-marvel-land.json) |
@@ -7721,6 +7724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Metal Black | 225889 | [225889-arcade-archives-metal-black.json](./225889-arcade-archives-metal-black.json) |
 | Arcade Archives: Metamorphic Force | 320940 | [320940-arcade-archives-metamorphic-force.json](./320940-arcade-archives-metamorphic-force.json) |
 | Arcade Archives: Midnight Landing | 375404 | [375404-arcade-archives-midnight-landing.json](./375404-arcade-archives-midnight-landing.json) |
+| Arcade Archives: Mirai Ninja | 186563 | [186563-arcade-archives-mirai-ninja.json](./186563-arcade-archives-mirai-ninja.json) |
 | Arcade Archives: Moon Patrol | 95050 | [95050-arcade-archives-moon-patrol.json](./95050-arcade-archives-moon-patrol.json) |
 | Arcade Archives: Mr. Goemon | 99763 | [99763-arcade-archives-mr-goemon.json](./99763-arcade-archives-mr-goemon.json) |
 | Arcade Archives: Mutant Night | 121427 | [121427-arcade-archives-mutant-night.json](./121427-arcade-archives-mutant-night.json) |
@@ -7735,6 +7739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Pac & Pal | 215109 | [215109-arcade-archives-pac-and-pal.json](./215109-arcade-archives-pac-and-pal.json) |
 | Arcade Archives: Pettan Pyuu | 147115 | [147115-arcade-archives-pettan-pyuu.json](./147115-arcade-archives-pettan-pyuu.json) |
 | Arcade Archives: Phelios | 234631 | [234631-arcade-archives-phelios.json](./234631-arcade-archives-phelios.json) |
+| Arcade Archives: Phozon | 186564 | [186564-arcade-archives-phozon.json](./186564-arcade-archives-phozon.json) |
 | Arcade Archives: Pinball | 68354 | [68354-arcade-archives-pinball.json](./68354-arcade-archives-pinball.json) |
 | Arcade Archives: Pirate Pete | 152252 | [152252-arcade-archives-pirate-pete.json](./152252-arcade-archives-pirate-pete.json) |
 | Arcade Archives: Plump Pop | 394382 | [394382-arcade-archives-plump-pop.json](./394382-arcade-archives-plump-pop.json) |
@@ -7748,6 +7753,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Rack'em Up | 406055 | [406055-arcade-archives-rackem-up.json](./406055-arcade-archives-rackem-up.json) |
 | Arcade Archives: Radical Radial | 147936 | [147936-arcade-archives-radical-radial.json](./147936-arcade-archives-radical-radial.json) |
 | Arcade Archives: Raiders5 | 99783 | [99783-arcade-archives-raiders5.json](./99783-arcade-archives-raiders5.json) |
+| Arcade Archives: Raimais | 186565 | [186565-arcade-archives-raimais.json](./186565-arcade-archives-raimais.json) |
+| Arcade Archives: Rally-X | 186566 | [186566-arcade-archives-rally-x.json](./186566-arcade-archives-rally-x.json) |
 | Arcade Archives: Rastan Saga | 300731 | [300731-arcade-archives-rastan-saga.json](./300731-arcade-archives-rastan-saga.json) |
 | Arcade Archives: Rastan Saga II | 306525 | [306525-arcade-archives-rastan-saga-ii.json](./306525-arcade-archives-rastan-saga-ii.json) |
 | Arcade Archives: Rave Racer | 392771 | [392771-arcade-archives-rave-racer.json](./392771-arcade-archives-rave-racer.json) |
@@ -7771,6 +7778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Shao-Lin's Road | 275809 | [275809-arcade-archives-shao-lins-road.json](./275809-arcade-archives-shao-lins-road.json) |
 | Arcade Archives: Shingen Samurai-Fighter | 153832 | [153832-arcade-archives-shingen-samurai-fighter.json](./153832-arcade-archives-shingen-samurai-fighter.json) |
 | Arcade Archives: Silk Worm | 284928 | [284928-arcade-archives-silk-worm.json](./284928-arcade-archives-silk-worm.json) |
+| Arcade Archives: Sky Kid | 186567 | [186567-arcade-archives-sky-kid.json](./186567-arcade-archives-sky-kid.json) |
 | Arcade Archives: Sky Kid DX | 240220 | [240220-arcade-archives-sky-kid-dx.json](./240220-arcade-archives-sky-kid-dx.json) |
 | Arcade Archives: Sky Skipper | 103363 | [103363-arcade-archives-sky-skipper.json](./103363-arcade-archives-sky-skipper.json) |
 | Arcade Archives: Soccer | 147640 | [147640-arcade-archives-soccer.json](./147640-arcade-archives-soccer.json) |
