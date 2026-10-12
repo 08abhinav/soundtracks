@@ -2795,6 +2795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Game Royale | 231418 | [231418-death-game-royale.json](./231418-death-game-royale.json) |
 | Death Gasp | 120732 | [120732-death-gasp.json](./120732-death-gasp.json) |
 | Death Gaze | 184962 | [184962-death-gaze.json](./184962-death-gaze.json) |
+| Death Gear | 188338 | [188338-death-gear.json](./188338-death-gear.json) |
 | Death Goat | 19873 | [19873-death-goat.json](./19873-death-goat.json) |
 | Death Hall | 116377 | [116377-death-hall.json](./116377-death-hall.json) |
 | Death Horizon Reloaded | 123988 | [123988-death-horizon-reloaded.json](./123988-death-horizon-reloaded.json) |
@@ -3743,6 +3744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delinquent Girlfriend Is Made Into a Masochist Femswine by Disgusting Bad Friend | 98544 | [98544-delinquent-girlfriend-is-made-into-a-masochist-femswine-by-disgusting-bad-friend.json](./98544-delinquent-girlfriend-is-made-into-a-masochist-femswine-by-disgusting-bad-friend.json) |
 | Deliria | 202748 | [202748-deliria.json](./202748-deliria.json) |
 | Deliriant | 28731 | [28731-deliriant.json](./28731-deliriant.json) |
+| Deliricard | 188359 | [188359-deliricard.json](./188359-deliricard.json) |
 | Delirious | 183546 | [183546-delirious.json](./183546-delirious.json) |
 | Delirium | 234755 | [234755-delirium.json](./234755-delirium.json) |
 | Delirium | 293898 | [293898-delirium.json](./293898-delirium.json) |
@@ -5070,6 +5072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Should Die | 190950 | [190950-devil-should-die.json](./190950-devil-should-die.json) |
 | Devil Slayer | 171461 | [171461-devil-slayer.json](./171461-devil-slayer.json) |
 | Devil Slayer: Raksasi - Incarnation of Darkness | 242023 | [242023-devil-slayer-raksasi-incarnation-of-darkness.json](./242023-devil-slayer-raksasi-incarnation-of-darkness.json) |
+| Devil Spire | 187879 | [187879-devil-spire.json](./187879-devil-spire.json) |
 | Devil Spire Falls | 341018 | [341018-devil-spire-falls.json](./341018-devil-spire-falls.json) |
 | Devil Station | 130676 | [130676-devil-station.json](./130676-devil-station.json) |
 | Devil Stone | 110329 | [110329-devil-stone.json](./110329-devil-stone.json) |
@@ -7311,6 +7314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog | 271842 | [271842-dog.json](./271842-dog.json) |
 | Dog | 314399 | [314399-dog.json](./314399-dog.json) |
 | Dog | 314401 | [314401-dog.json](./314401-dog.json) |
+| Dog Adventure | 187192 | [187192-dog-adventure.json](./187192-dog-adventure.json) |
 | Dog Cafe Tycoon | 226771 | [226771-dog-cafe-tycoon.json](./226771-dog-cafe-tycoon.json) |
 | Dog Clicker | 190203 | [190203-dog-clicker.json](./190203-dog-clicker.json) |
 | Dog Couple | 334803 | [334803-dog-couple.json](./334803-dog-couple.json) |
@@ -7415,6 +7419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogou Souken | 40104 | [40104-dogou-souken.json](./40104-dogou-souken.json) |
 | DogPunk | 391750 | [391750-dogpunk.json](./391750-dogpunk.json) |
 | Dogs | 311240 | [311240-dogs.json](./311240-dogs.json) |
+| Dogs and Pigs | 187187 | [187187-dogs-and-pigs.json](./187187-dogs-and-pigs.json) |
 | Dogs Cyberpuzzle | 203949 | [203949-dogs-cyberpuzzle.json](./203949-dogs-cyberpuzzle.json) |
 | Dogs Day | 238555 | [238555-dogs-day.json](./238555-dogs-day.json) |
 | Dogs of the Dark | 265678 | [265678-dogs-of-the-dark.json](./265678-dogs-of-the-dark.json) |
@@ -7910,6 +7915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Starve Together: Starter Pack 2025 | 374238 | [374238-dont-starve-together-starter-pack-2025.json](./374238-dont-starve-together-starter-pack-2025.json) |
 | Don't Starve: Console Edition | 154347 | [154347-dont-starve-console-edition.json](./154347-dont-starve-console-edition.json) |
 | Don't Starve: Mega Pack | 167117 | [167117-dont-starve-mega-pack.json](./167117-dont-starve-mega-pack.json) |
+| Don't Starve: Newhome | 187778 | [187778-dont-starve-newhome.json](./187778-dont-starve-newhome.json) |
 | Don't Starve: Nintendo Switch Edition | 96169 | [96169-dont-starve-nintendo-switch-edition.json](./96169-dont-starve-nintendo-switch-edition.json) |
 | Don't Starve: Pocket Edition | 86925 | [86925-dont-starve-pocket-edition.json](./86925-dont-starve-pocket-edition.json) |
 | Don't Steal My Christmas! | 235271 | [235271-dont-steal-my-christmas.json](./235271-dont-steal-my-christmas.json) |
@@ -8125,6 +8131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donut Arena | 190137 | [190137-donut-arena.json](./190137-donut-arena.json) |
 | Donut Blast | 340529 | [340529-donut-blast.json](./340529-donut-blast.json) |
 | Donut Boi | 130268 | [130268-donut-boi.json](./130268-donut-boi.json) |
+| Donut Break 2 | 187764 | [187764-donut-break-2.json](./187764-donut-break-2.json) |
 | Donut Break 2: Head to Head | 214516 | [214516-donut-break-2-head-to-head.json](./214516-donut-break-2-head-to-head.json) |
 | Donut Break: Head to Head | 214566 | [214566-donut-break-head-to-head.json](./214566-donut-break-head-to-head.json) |
 | Donut Crabs | 206715 | [206715-donut-crabs.json](./206715-donut-crabs.json) |
@@ -10182,6 +10189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream's Deep | 256983 | [256983-dreams-deep.json](./256983-dreams-deep.json) |
 | Dream's Reach: Village of the Gods | 154078 | [154078-dreams-reach-village-of-the-gods.json](./154078-dreams-reach-village-of-the-gods.json) |
 | DreaMarbleng | 166574 | [166574-dreamarbleng.json](./166574-dreamarbleng.json) |
+| Dreamau Adventures | 188345 | [188345-dreamau-adventures.json](./188345-dreamau-adventures.json) |
 | DreamBig 3 | 368104 | [368104-dreambig-3.json](./368104-dreambig-3.json) |
 | Dreamblood | 280903 | [280903-dreamblood.json](./280903-dreamblood.json) |
 | Dreamboat | 295806 | [295806-dreamboat.json](./295806-dreamboat.json) |
@@ -10728,6 +10736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Kick Zombie! | 118763 | [118763-drop-kick-zombie.json](./118763-drop-kick-zombie.json) |
 | Drop Loot | 411029 | [411029-drop-loot.json](./411029-drop-loot.json) |
 | Drop Mahjong Tiles | 287314 | [287314-drop-mahjong-tiles.json](./287314-drop-mahjong-tiles.json) |
+| Drop one NPC to another | 187183 | [187183-drop-one-npc-to-another.json](./187183-drop-one-npc-to-another.json) |
 | Drop Pane: Not Only Match-3 | 290480 | [290480-drop-pane-not-only-match-3.json](./290480-drop-pane-not-only-match-3.json) |
 | Drop Point: Alaska | 63688 | [63688-drop-point-alaska.json](./63688-drop-point-alaska.json) |
 | Drop Pop | 386981 | [386981-drop-pop.json](./386981-drop-pop.json) |
@@ -11138,6 +11147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DudeGo | 292967 | [292967-dudego.json](./292967-dudego.json) |
 | Dudeology 1 | 234730 | [234730-dudeology-1.json](./234730-dudeology-1.json) |
 | Dudes with Attitude | 48063 | [48063-dudes-with-attitude.json](./48063-dudes-with-attitude.json) |
+| Dudeski | 187799 | [187799-dudeski.json](./187799-dudeski.json) |
 | Dudu Monkey | 165077 | [165077-dudu-monkey.json](./165077-dudu-monkey.json) |
 | Due | 327285 | [327285-due.json](./327285-due.json) |
 | Due Date | 240367 | [240367-due-date.json](./240367-due-date.json) |
@@ -11342,6 +11352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungemon | 339930 | [339930-dungemon.json](./339930-dungemon.json) |
 | Dungen | 169436 | [169436-dungen.json](./169436-dungen.json) |
 | Dungene | 217354 | [217354-dungene.json](./217354-dungene.json) |
+| Dungenious | 187782 | [187782-dungenious.json](./187782-dungenious.json) |
 | Dungeon | 227756 | [227756-dungeon.json](./227756-dungeon.json) |
 | Dungeon | 290308 | [290308-dungeon.json](./290308-dungeon.json) |
 | Dungeon | 86095 | [86095-dungeon.json](./86095-dungeon.json) |
@@ -11481,7 +11492,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Explorer: Warriors of Ancient Arts | 42865 | [42865-dungeon-explorer-warriors-of-ancient-arts.json](./42865-dungeon-explorer-warriors-of-ancient-arts.json) |
 | Dungeon Explorer: Warriors of the Ancient Arts | 20274 | [20274-dungeon-explorer-warriors-of-the-ancient-arts.json](./20274-dungeon-explorer-warriors-of-the-ancient-arts.json) |
 | Dungeon Explorers | 385857 | [385857-dungeon-explorers.json](./385857-dungeon-explorers.json) |
+| Dungeon Falan | 187792 | [187792-dungeon-falan.json](./187792-dungeon-falan.json) |
 | Dungeon Faster | 318132 | [318132-dungeon-faster.json](./318132-dungeon-faster.json) |
+| Dungeon Fellowship | 187776 | [187776-dungeon-fellowship.json](./187776-dungeon-fellowship.json) |
 | Dungeon Fighter Live: Fall of Hendon Myre | 65266 | [65266-dungeon-fighter-live-fall-of-hendon-myre.json](./65266-dungeon-fighter-live-fall-of-hendon-myre.json) |
 | Dungeon Forge | 373181 | [373181-dungeon-forge.json](./373181-dungeon-forge.json) |
 | Dungeon Frontier | 130294 | [130294-dungeon-frontier.json](./130294-dungeon-frontier.json) |
