@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice craft : Winter crafting and building | 100788 | [100788-ice-craft-winter-crafting-and-building.json](./100788-ice-craft-winter-crafting-and-building.json) |
 | Ice Cream | 344005 | [344005-ice-cream.json](./344005-ice-cream.json) |
 | Ice Cream Break: Head to Head | 194397 | [194397-ice-cream-break-head-to-head.json](./194397-ice-cream-break-head-to-head.json) |
+| Ice Cream Disaster | 208007 | [208007-ice-cream-disaster.json](./208007-ice-cream-disaster.json) |
 | Ice Cream Drop | 274423 | [274423-ice-cream-drop.json](./274423-ice-cream-drop.json) |
 | Ice Cream Flap | 274426 | [274426-ice-cream-flap.json](./274426-ice-cream-flap.json) |
 | Ice Cream Jump | 274415 | [274415-ice-cream-jump.json](./274415-ice-cream-jump.json) |
