@@ -1865,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scavenger | 92066 | [92066-scavenger.json](./92066-scavenger.json) |
 | Scavenger Hunt: Italy | 257327 | [257327-scavenger-hunt-italy.json](./257327-scavenger-hunt-italy.json) |
 | Scavenger Hunt: Switzerland | 253256 | [253256-scavenger-hunt-switzerland.json](./253256-scavenger-hunt-switzerland.json) |
+| Scavenger of Dunomini | 185952 | [185952-scavenger-of-dunomini.json](./185952-scavenger-of-dunomini.json) |
 | Scavenger Skirmish: Mortal World | 105372 | [105372-scavenger-skirmish-mortal-world.json](./105372-scavenger-skirmish-mortal-world.json) |
 | Scavenger SV-4 | 82347 | [82347-scavenger-sv-4.json](./82347-scavenger-sv-4.json) |
 | Scavenger T.O.M | 365179 | [365179-scavenger-t-o-m.json](./365179-scavenger-t-o-m.json) |
@@ -2781,6 +2782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Season Ticket Football 2003 | 79522 | [79522-season-ticket-football-2003.json](./79522-season-ticket-football-2003.json) |
 | Season Up | 95603 | [95603-season-up.json](./95603-season-up.json) |
 | Season's Beatings | 76350 | [76350-seasons-beatings.json](./76350-seasons-beatings.json) |
+| Season's Greetings from The Smoke Room Team! | 186013 | [186013-seasons-greetings-from-the-smoke-room-team.json](./186013-seasons-greetings-from-the-smoke-room-team.json) |
 | Seasonal Affectiveness Disorder | 260789 | [260789-seasonal-affectiveness-disorder.json](./260789-seasonal-affectiveness-disorder.json) |
 | Seasonal Bloom | 369908 | [369908-seasonal-bloom.json](./369908-seasonal-bloom.json) |
 | Seasonal Soccer | 90188 | [90188-seasonal-soccer.json](./90188-seasonal-soccer.json) |
@@ -19772,6 +19774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bomberman R Online | 135826 | [135826-super-bomberman-r-online.json](./135826-super-bomberman-r-online.json) |
 | Super Bomberman R Online: Premium Pack | 150653 | [150653-super-bomberman-r-online-premium-pack.json](./150653-super-bomberman-r-online-premium-pack.json) |
 | Super Bomberman: Panic Bomber W | 42546 | [42546-super-bomberman-panic-bomber-w.json](./42546-super-bomberman-panic-bomber-w.json) |
+| Super Bombinhas | 185968 | [185968-super-bombinhas.json](./185968-super-bombinhas.json) |
 | Super BOO Quest | 110180 | [110180-super-boo-quest.json](./110180-super-boo-quest.json) |
 | Super Boss Collection | 214420 | [214420-super-boss-collection.json](./214420-super-boss-collection.json) |
 | Super Boss Gaiden | 20333 | [20333-super-boss-gaiden.json](./20333-super-boss-gaiden.json) |
@@ -22958,6 +22961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Honour | 12790 | [12790-sword-of-honour.json](./12790-sword-of-honour.json) |
 | Sword of Jade: Parallel Dreams | 285149 | [285149-sword-of-jade-parallel-dreams.json](./285149-sword-of-jade-parallel-dreams.json) |
 | Sword of Justice | 283391 | [283391-sword-of-justice.json](./283391-sword-of-justice.json) |
+| Sword of Legendia | 185950 | [185950-sword-of-legendia.json](./185950-sword-of-legendia.json) |
 | Sword of Mana | 6630 | [6630-sword-of-mana.json](./6630-sword-of-mana.json) |
 | Sword of Mejor | 356052 | [356052-sword-of-mejor.json](./356052-sword-of-mejor.json) |
 | Sword of Mine | 414825 | [414825-sword-of-mine.json](./414825-sword-of-mine.json) |
