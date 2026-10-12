@@ -5998,6 +5998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Star Wars II | 19272 | [19272-angry-birds-star-wars-ii.json](./19272-angry-birds-star-wars-ii.json) |
 | Angry Birds Tennis | 199901 | [199901-angry-birds-tennis.json](./199901-angry-birds-tennis.json) |
 | Angry Birds Trilogy | 4675 | [4675-angry-birds-trilogy.json](./4675-angry-birds-trilogy.json) |
+| Angry Birds V Rossii | 210310 | [210310-angry-birds-v-rossii.json](./210310-angry-birds-v-rossii.json) |
 | Angry Birds World Tour | 214040 | [214040-angry-birds-world-tour.json](./214040-angry-birds-world-tour.json) |
 | Angry Birds: Dangerous Railroad | 325564 | [325564-angry-birds-dangerous-railroad.json](./325564-angry-birds-dangerous-railroad.json) |
 | Angry Birds: Flock Party | 372088 | [372088-angry-birds-flock-party.json](./372088-angry-birds-flock-party.json) |
