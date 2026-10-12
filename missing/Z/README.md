@@ -687,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zig Zag Flag Shag | 84470 | [84470-zig-zag-flag-shag.json](./84470-zig-zag-flag-shag.json) |
 | Zig Zag Game | 88216 | [88216-zig-zag-game.json](./88216-zig-zag-game.json) |
 | Zig Zag Go | 84933 | [84933-zig-zag-go.json](./84933-zig-zag-go.json) |
+| Zig Zag Tilt | 197626 | [197626-zig-zag-tilt.json](./197626-zig-zag-tilt.json) |
 | Zigamus: Zombies at Vigamus | 57470 | [57470-zigamus-zombies-at-vigamus.json](./57470-zigamus-zombies-at-vigamus.json) |
 | Ziggi's First ABCs | 70044 | [70044-ziggis-first-abcs.json](./70044-ziggis-first-abcs.json) |
 | Ziggurat | 11646 | [11646-ziggurat.json](./11646-ziggurat.json) |
