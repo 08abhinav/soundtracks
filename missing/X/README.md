@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenoblade Chronicles 3 | 191411 | [191411-xenoblade-chronicles-3.json](./191411-xenoblade-chronicles-3.json) |
 | Xenoblade Chronicles 3: Future Redeemed | 236669 | [236669-xenoblade-chronicles-3-future-redeemed.json](./236669-xenoblade-chronicles-3-future-redeemed.json) |
 | Xenoblade Chronicles 3: Nintendo Switch 2 Edition | 405448 | [405448-xenoblade-chronicles-3-nintendo-switch-2-edition.json](./405448-xenoblade-chronicles-3-nintendo-switch-2-edition.json) |
+| Xenoblade Chronicles 3: Special Edition | 198151 | [198151-xenoblade-chronicles-3-special-edition.json](./198151-xenoblade-chronicles-3-special-edition.json) |
 | Xenoblade Chronicles 3D | 9553 | [9553-xenoblade-chronicles-3d.json](./9553-xenoblade-chronicles-3d.json) |
 | Xenoblade Chronicles X | 2366 | [2366-xenoblade-chronicles-x.json](./2366-xenoblade-chronicles-x.json) |
 | Xenoblade Chronicles X: Limited Edition | 51145 | [51145-xenoblade-chronicles-x-limited-edition.json](./51145-xenoblade-chronicles-x-limited-edition.json) |
