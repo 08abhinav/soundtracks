@@ -941,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicademia | 148677 | [148677-magicademia.json](./148677-magicademia.json) |
 | Magicafe | 299127 | [299127-magicafe.json](./299127-magicafe.json) |
 | Magical Animal Farm | 366423 | [366423-magical-animal-farm.json](./366423-magical-animal-farm.json) |
+| Magical Atelier | 195452 | [195452-magical-atelier.json](./195452-magical-atelier.json) |
 | Magical Backpack | 328977 | [328977-magical-backpack.json](./328977-magical-backpack.json) |
 | Magical Bakery: Deluxe Edition | 320442 | [320442-magical-bakery-deluxe-edition.json](./320442-magical-bakery-deluxe-edition.json) |
 | Magical Battle Arena | 145447 | [145447-magical-battle-arena.json](./145447-magical-battle-arena.json) |
@@ -7812,6 +7813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine? Sweeper | 287000 | [287000-mine-sweeper.json](./287000-mine-sweeper.json) |
 | Mineblader | 419989 | [419989-mineblader.json](./419989-mineblader.json) |
 | Minebot Arena | 74050 | [74050-minebot-arena.json](./74050-minebot-arena.json) |
+| Minebot expedition | 195442 | [195442-minebot-expedition.json](./195442-minebot-expedition.json) |
 | Minebuilder | 86893 | [86893-minebuilder.json](./86893-minebuilder.json) |
 | MineCart - 3D Mine Cart Game for MineCraft | 86692 | [86692-minecart-3d-mine-cart-game-for-minecraft.json](./86692-minecart-3d-mine-cart-game-for-minecraft.json) |
 | Minecart Chase | 243094 | [243094-minecart-chase.json](./243094-minecart-chase.json) |
