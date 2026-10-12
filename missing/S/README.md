@@ -6880,6 +6880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimAnimals | 5155 | [5155-simanimals.json](./5155-simanimals.json) |
 | SimAnimals Africa | 20669 | [20669-simanimals-africa.json](./20669-simanimals-africa.json) |
 | Simantik | 224685 | [224685-simantik.json](./224685-simantik.json) |
+| Simba the Cat | 204820 | [204820-simba-the-cat.json](./204820-simba-the-cat.json) |
 | SimbaQuest | 243699 | [243699-simbaquest.json](./243699-simbaquest.json) |
 | SimCasino | 141132 | [141132-simcasino.json](./141132-simcasino.json) |
 | SimCity | 1274 | [1274-simcity.json](./1274-simcity.json) |
@@ -10721,6 +10722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something's Out There | 235739 | [235739-somethings-out-there.json](./235739-somethings-out-there.json) |
 | Something's Wrong With Sunny Day Jack | 207314 | [207314-somethings-wrong-with-sunny-day-jack.json](./207314-somethings-wrong-with-sunny-day-jack.json) |
 | Sometimes Always Monsters | 20122 | [20122-sometimes-always-monsters.json](./20122-sometimes-always-monsters.json) |
+| Sometimes They Come Back | 204858 | [204858-sometimes-they-come-back.json](./204858-sometimes-they-come-back.json) |
 | Sometimes: Success Requires Sacrifice | 35712 | [35712-sometimes-success-requires-sacrifice.json](./35712-sometimes-success-requires-sacrifice.json) |
 | Somewhere | 324306 | [324306-somewhere.json](./324306-somewhere.json) |
 | Somewhere in a Clay Nowhere | 182371 | [182371-somewhere-in-a-clay-nowhere.json](./182371-somewhere-in-a-clay-nowhere.json) |
@@ -18360,6 +18362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Students' Horrible Stories: FIN | 147417 | [147417-students-horrible-stories-fin.json](./147417-students-horrible-stories-fin.json) |
 | Studio 100 Speeleiland | 130913 | [130913-studio-100-speeleiland.json](./130913-studio-100-speeleiland.json) |
 | Studio Sim: The Painting Game | 410942 | [410942-studio-sim-the-painting-game.json](./410942-studio-sim-the-painting-game.json) |
+| StudioS Fighters: Climax Champions | 204857 | [204857-studios-fighters-climax-champions.json](./204857-studios-fighters-climax-champions.json) |
 | Studium | 333708 | [333708-studium.json](./333708-studium.json) |
 | Study Arcade | 367497 | [367497-study-arcade.json](./367497-study-arcade.json) |
 | Study Time Anomaly | 369597 | [369597-study-time-anomaly.json](./369597-study-time-anomaly.json) |
@@ -18862,6 +18865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SudoKube | 193451 | [193451-sudokube.json](./193451-sudokube.json) |
 | Sudokuro | 123454 | [123454-sudokuro.json](./123454-sudokuro.json) |
 | Sudokuro: Sudoku & Kakuro Games | 337677 | [337677-sudokuro-sudoku-and-kakuro-games.json](./337677-sudokuro-sudoku-and-kakuro-games.json) |
+| Sudoqube | 204853 | [204853-sudoqube.json](./204853-sudoqube.json) |
 | Suds | 247656 | [247656-suds.json](./247656-suds.json) |
 | Suduce-U | 401066 | [401066-suduce-u.json](./401066-suduce-u.json) |
 | Sue Shi Survival | 219584 | [219584-sue-shi-survival.json](./219584-sue-shi-survival.json) |
@@ -19609,6 +19613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Brawl 3: Good vs. Evil | 63643 | [63643-super-brawl-3-good-vs-evil.json](./63643-super-brawl-3-good-vs-evil.json) |
 | Super Brawl 3: Just Got Real | 62555 | [62555-super-brawl-3-just-got-real.json](./62555-super-brawl-3-just-got-real.json) |
 | Super Brawl 4 | 59042 | [59042-super-brawl-4.json](./59042-super-brawl-4.json) |
+| Super Brawl Rush | 204856 | [204856-super-brawl-rush.json](./204856-super-brawl-rush.json) |
 | Super Brawl Universe | 125347 | [125347-super-brawl-universe.json](./125347-super-brawl-universe.json) |
 | Super Brawl World | 71180 | [71180-super-brawl-world.json](./71180-super-brawl-world.json) |
 | Super Breakout | 239502 | [239502-super-breakout.json](./239502-super-breakout.json) |
@@ -21272,6 +21277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Strong Warriors | 64922 | [64922-super-strong-warriors.json](./64922-super-strong-warriors.json) |
 | Super Stunt Spectacular | 208350 | [208350-super-stunt-spectacular.json](./208350-super-stunt-spectacular.json) |
 | Super Stuntman | 55083 | [55083-super-stuntman.json](./55083-super-stuntman.json) |
+| Super Stupid Game | 204855 | [204855-super-stupid-game.json](./204855-super-stupid-game.json) |
 | Super Stupid Space Invaders | 72305 | [72305-super-stupid-space-invaders.json](./72305-super-stupid-space-invaders.json) |
 | Super Sucker | 351233 | [351233-super-sucker.json](./351233-super-sucker.json) |
 | Super Sucker: Clever Edition | 362371 | [362371-super-sucker-clever-edition.json](./362371-super-sucker-clever-edition.json) |
@@ -22786,6 +22792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Sanctuary | 333394 | [333394-sword-sanctuary.json](./333394-sword-sanctuary.json) |
 | Sword Smash | 244385 | [244385-sword-smash.json](./244385-sword-smash.json) |
 | Sword Story | 153500 | [153500-sword-story.json](./153500-sword-story.json) |
+| Sword Tomb: Kan Yu | 204854 | [204854-sword-tomb-kan-yu.json](./204854-sword-tomb-kan-yu.json) |
 | Sword Warriors | 304242 | [304242-sword-warriors.json](./304242-sword-warriors.json) |
 | Sword World PC | 240492 | [240492-sword-world-pc.json](./240492-sword-world-pc.json) |
 | Sword World SFC 2: Inishie no Kyojin Densetsu | 37801 | [37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json](./37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json) |
