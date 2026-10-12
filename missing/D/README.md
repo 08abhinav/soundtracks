@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.R.O.N.E.: The Game | 113082 | [113082-d-r-o-n-e-the-game.json](./113082-d-r-o-n-e-the-game.json) |
 | D.S. Dal Segno: Limited Edition | 212327 | [212327-d-s-dal-segno-limited-edition.json](./212327-d-s-dal-segno-limited-edition.json) |
 | D.S.A. | 229634 | [229634-d-s-a.json](./229634-d-s-a.json) |
+| D.U.C.K.: Dangerous Ultimate Cartridge Kidnapper | 217487 | [217487-d-u-c-k-dangerous-ultimate-cartridge-kidnapper.json](./217487-d-u-c-k-dangerous-ultimate-cartridge-kidnapper.json) |
 | D.U.M.B.E.R. Ducks | 403734 | [403734-d-u-m-b-e-r-ducks.json](./403734-d-u-m-b-e-r-ducks.json) |
 | D.W. Dagger: Chapter One | 168837 | [168837-d-w-dagger-chapter-one.json](./168837-d-w-dagger-chapter-one.json) |
 | D.W. The Picky Eater | 297896 | [297896-d-w-the-picky-eater.json](./297896-d-w-the-picky-eater.json) |
@@ -153,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dad Left Me in the Car | 343318 | [343318-dad-left-me-in-the-car.json](./343318-dad-left-me-in-the-car.json) |
 | Dad Quest | 27145 | [27145-dad-quest.json](./27145-dad-quest.json) |
 | Dad's co-worker | 81605 | [81605-dads-co-worker.json](./81605-dads-co-worker.json) |
+| Dad's Dice: History of Legends | 217461 | [217461-dads-dice-history-of-legends.json](./217461-dads-dice-history-of-legends.json) |
 | Daddy Long Legs | 89289 | [89289-daddy-long-legs.json](./89289-daddy-long-legs.json) |
 | Daddy Moto Racing | 255063 | [255063-daddy-moto-racing.json](./255063-daddy-moto-racing.json) |
 | Daddy Was A Thief | 103150 | [103150-daddy-was-a-thief.json](./103150-daddy-was-a-thief.json) |
@@ -7498,6 +7500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokodemo Taikyoku: Yakuman Advance | 49586 | [49586-dokodemo-taikyoku-yakuman-advance.json](./49586-dokodemo-taikyoku-yakuman-advance.json) |
 | Doku Girls 3 | 370805 | [370805-doku-girls-3.json](./370805-doku-girls-3.json) |
 | Doku to Kuzu | 285989 | [285989-doku-to-kuzu.json](./285989-doku-to-kuzu.json) |
+| Doku's Noodle Empire | 217464 | [217464-dokus-noodle-empire.json](./217464-dokus-noodle-empire.json) |
 | Dokuro | 17734 | [17734-dokuro.json](./17734-dokuro.json) |
 | Dokutsu Randamu | 384656 | [384656-dokutsu-randamu.json](./384656-dokutsu-randamu.json) |
 | Dokutsujima | 222396 | [222396-dokutsujima.json](./222396-dokutsujima.json) |
@@ -8493,6 +8496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorothy's Job | 368016 | [368016-dorothys-job.json](./368016-dorothys-job.json) |
 | Dorothy's Magical Journey in Oz | 410213 | [410213-dorothys-magical-journey-in-oz.json](./410213-dorothys-magical-journey-in-oz.json) |
 | Dorpie | 360015 | [360015-dorpie.json](./360015-dorpie.json) |
+| Dose Response | 217458 | [217458-dose-response.json](./217458-dose-response.json) |
 | Doshin the Giant 1 | 159279 | [159279-doshin-the-giant-1.json](./159279-doshin-the-giant-1.json) |
 | Dosi | 221158 | [221158-dosi.json](./221158-dosi.json) |
 | DoSolFa-lite | 28146 | [28146-dosolfa-lite.json](./28146-dosolfa-lite.json) |
@@ -9326,6 +9330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Hunters | 269734 | [269734-dragon-hunters.json](./269734-dragon-hunters.json) |
 | Dragon Inn | 226818 | [226818-dragon-inn.json](./226818-dragon-inn.json) |
 | Dragon Is Dead | 289444 | [289444-dragon-is-dead.json](./289444-dragon-is-dead.json) |
+| Dragon Island | 217472 | [217472-dragon-island.json](./217472-dragon-island.json) |
 | Dragon Island | 220212 | [220212-dragon-island.json](./220212-dragon-island.json) |
 | Dragon Island Blue | 96061 | [96061-dragon-island-blue.json](./96061-dragon-island-blue.json) |
 | Dragon Joust | 142843 | [142843-dragon-joust.json](./142843-dragon-joust.json) |
@@ -9691,6 +9696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drak(c)ula | 298682 | [298682-drak-c-ula.json](./298682-drak-c-ula.json) |
 | Drakan: Order of the Flame | 7576 | [7576-drakan-order-of-the-flame.json](./7576-drakan-order-of-the-flame.json) |
 | Drake | 134654 | [134654-drake.json](./134654-drake.json) |
+| Drake | 217467 | [217467-drake.json](./217467-drake.json) |
 | Drake Hollow | 125630 | [125630-drake-hollow.json](./125630-drake-hollow.json) |
 | Drake's Tower | 89229 | [89229-drakes-tower.json](./89229-drakes-tower.json) |
 | Drakefall | 345052 | [345052-drakefall.json](./345052-drakefall.json) |
@@ -11918,6 +11924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf Slayer | 149502 | [149502-dwarf-slayer.json](./149502-dwarf-slayer.json) |
 | Dwarf Swordsman | 110160 | [110160-dwarf-swordsman.json](./110160-dwarf-swordsman.json) |
 | Dwarf Tower | 24563 | [24563-dwarf-tower.json](./24563-dwarf-tower.json) |
+| Dwarf's Trainfort | 217475 | [217475-dwarfs-trainfort.json](./217475-dwarfs-trainfort.json) |
 | Dwarfare: All For The Forge | 369720 | [369720-dwarfare-all-for-the-forge.json](./369720-dwarfare-all-for-the-forge.json) |
 | Dwarfender | 250894 | [250894-dwarfender.json](./250894-dwarfender.json) |
 | Dwarffarian | 191081 | [191081-dwarffarian.json](./191081-dwarffarian.json) |
