@@ -1077,6 +1077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Protocol | 374254 | [374254-zombie-protocol.json](./374254-zombie-protocol.json) |
 | Zombie Quarantine | 43543 | [43543-zombie-quarantine.json](./43543-zombie-quarantine.json) |
 | Zombie Quarantine: Blackout Survival | 334106 | [334106-zombie-quarantine-blackout-survival.json](./334106-zombie-quarantine-blackout-survival.json) |
+| Zombie Quest | 181084 | [181084-zombie-quest.json](./181084-zombie-quest.json) |
 | Zombie Quest | 377129 | [377129-zombie-quest.json](./377129-zombie-quest.json) |
 | Zombie Race: Undead Smasher | 247179 | [247179-zombie-race-undead-smasher.json](./247179-zombie-race-undead-smasher.json) |
 | Zombie Raid | 150528 | [150528-zombie-raid.json](./150528-zombie-raid.json) |
