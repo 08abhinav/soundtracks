@@ -2121,6 +2121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tearstone: Thieves of the Heart - Collector's Edition | 322791 | [322791-tearstone-thieves-of-the-heart-collectors-edition.json](./322791-tearstone-thieves-of-the-heart-collectors-edition.json) |
 | Tease and Please: Charlotte Edition | 367297 | [367297-tease-and-please-charlotte-edition.json](./367297-tease-and-please-charlotte-edition.json) |
 | Teasing Master Takagi-san VR: 1st Semester | 160134 | [160134-teasing-master-takagi-san-vr-1st-semester.json](./160134-teasing-master-takagi-san-vr-1st-semester.json) |
+| Teasing Master Takagi-san VR: 2nd Semester | 188882 | [188882-teasing-master-takagi-san-vr-2nd-semester.json](./188882-teasing-master-takagi-san-vr-2nd-semester.json) |
 | Teatime with a Vampire | 301375 | [301375-teatime-with-a-vampire.json](./301375-teatime-with-a-vampire.json) |
 | Teazle 2 | 206609 | [206609-teazle-2.json](./206609-teazle-2.json) |
 | Tebb And The Chistorbes | 232961 | [232961-tebb-and-the-chistorbes.json](./232961-tebb-and-the-chistorbes.json) |
@@ -2659,6 +2660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tendryll | 211232 | [211232-tendryll.json](./211232-tendryll.json) |
 | Tenebra | 333921 | [333921-tenebra.json](./333921-tenebra.json) |
 | Tenebra | 360014 | [360014-tenebra.json](./360014-tenebra.json) |
+| Tenebrae | 188876 | [188876-tenebrae.json](./188876-tenebrae.json) |
 | Tenebrarium | 408272 | [408272-tenebrarium.json](./408272-tenebrarium.json) |
 | Tenebrea | 372096 | [372096-tenebrea.json](./372096-tenebrea.json) |
 | TenebriS | 158128 | [158128-tenebris.json](./158128-tenebris.json) |
@@ -12419,6 +12421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wolf Among Us: Episode 2 - Smoke and Mirrors | 127108 | [127108-the-wolf-among-us-episode-2-smoke-and-mirrors.json](./127108-the-wolf-among-us-episode-2-smoke-and-mirrors.json) |
 | The Wolf Among Us: Episode 3 - A Crooked Mile | 127109 | [127109-the-wolf-among-us-episode-3-a-crooked-mile.json](./127109-the-wolf-among-us-episode-3-a-crooked-mile.json) |
 | The Wolf and the Blood Moon | 362213 | [362213-the-wolf-and-the-blood-moon.json](./362213-the-wolf-and-the-blood-moon.json) |
+| The Wolf Is Dead | 188972 | [188972-the-wolf-is-dead.json](./188972-the-wolf-is-dead.json) |
 | The Wolf: Online RPG Simulator | 86796 | [86796-the-wolf-online-rpg-simulator.json](./86796-the-wolf-online-rpg-simulator.json) |
 | The Wolf's Bite | 28215 | [28215-the-wolfs-bite.json](./28215-the-wolfs-bite.json) |
 | The Wolf's Den | 154082 | [154082-the-wolfs-den.json](./154082-the-wolfs-den.json) |
@@ -14674,6 +14677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TileDynasty FPS Arena | 90572 | [90572-tiledynasty-fps-arena.json](./90572-tiledynasty-fps-arena.json) |
 | Tilefinder | 196857 | [196857-tilefinder.json](./196857-tilefinder.json) |
 | TileGuesser | 363060 | [363060-tileguesser.json](./363060-tileguesser.json) |
+| TileHunter | 188973 | [188973-tilehunter.json](./188973-tilehunter.json) |
 | TileKnight | 389028 | [389028-tileknight.json](./389028-tileknight.json) |
 | Tilelander | 72143 | [72143-tilelander.json](./72143-tilelander.json) |
 | Tilemount | 341640 | [341640-tilemount.json](./341640-tilemount.json) |
@@ -14786,6 +14790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Flies Like an Arrow | 291022 | [291022-time-flies-like-an-arrow.json](./291022-time-flies-like-an-arrow.json) |
 | Time Flies Like An Arrow | 276728 | [276728-time-flies-like-an-arrow.json](./276728-time-flies-like-an-arrow.json) |
 | Time Flight | 60550 | [60550-time-flight.json](./60550-time-flight.json) |
+| Time Flipper | 188884 | [188884-time-flipper.json](./188884-time-flipper.json) |
 | Time for Teletubbies | 326581 | [326581-time-for-teletubbies.json](./326581-time-for-teletubbies.json) |
 | Time For You: Chapter 01 | 168860 | [168860-time-for-you-chapter-01.json](./168860-time-for-you-chapter-01.json) |
 | Time for You: Chapter 02 - Dirty Thoughts and Corporate Bots | 170373 | [170373-time-for-you-chapter-02-dirty-thoughts-and-corporate-bots.json](./170373-time-for-you-chapter-02-dirty-thoughts-and-corporate-bots.json) |
@@ -17227,6 +17232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Monster TD: Nagae Iku | 192155 | [192155-touhou-monster-td-nagae-iku.json](./192155-touhou-monster-td-nagae-iku.json) |
 | Touhou Mother | 184129 | [184129-touhou-mother.json](./184129-touhou-mother.json) |
 | Touhou Mukyuushi: Glory of Deep Skies | 246677 | [246677-touhou-mukyuushi-glory-of-deep-skies.json](./246677-touhou-mukyuushi-glory-of-deep-skies.json) |
+| Touhou Multi Scroll Shooting 2 | 188965 | [188965-touhou-multi-scroll-shooting-2.json](./188965-touhou-multi-scroll-shooting-2.json) |
 | TouHou Music Recording | 188937 | [188937-touhou-music-recording.json](./188937-touhou-music-recording.json) |
 | Touhou Mutsuigeki: Concealed the Conclusion | 51266 | [51266-touhou-mutsuigeki-concealed-the-conclusion.json](./51266-touhou-mutsuigeki-concealed-the-conclusion.json) |
 | Touhou Mystery Reel | 192886 | [192886-touhou-mystery-reel.json](./192886-touhou-mystery-reel.json) |
