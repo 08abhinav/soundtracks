@@ -1210,6 +1210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HardBall II | 12433 | [12433-hardball-ii.json](./12433-hardball-ii.json) |
 | HardBall! | 12136 | [12136-hardball.json](./12136-hardball.json) |
 | HardBall! + HardBall II | 296603 | [296603-hardball-hardball-ii.json](./296603-hardball-hardball-ii.json) |
+| Hardboiled | 193701 | [193701-hardboiled.json](./193701-hardboiled.json) |
 | HardBoiledFarm | 255967 | [255967-hardboiledfarm.json](./255967-hardboiledfarm.json) |
 | Hardcheologist | 405060 | [405060-hardcheologist.json](./405060-hardcheologist.json) |
 | HardCop 2 | 156681 | [156681-hardcop-2.json](./156681-hardcop-2.json) |
