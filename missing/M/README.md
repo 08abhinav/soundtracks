@@ -2365,6 +2365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario and Donkey Kong: Minis on the Move + Mario vs. Donkey Kong: Minis March Again! | 60579 | [60579-mario-and-donkey-kong-minis-on-the-move-mario-vs-donkey-kong-minis-march-again.json](./60579-mario-and-donkey-kong-minis-on-the-move-mario-vs-donkey-kong-minis-march-again.json) |
 | Mario and Donkey Kong's Lost Island | 323186 | [323186-mario-and-donkey-kongs-lost-island.json](./323186-mario-and-donkey-kongs-lost-island.json) |
 | Mario and Luigi: The Bowser Saga | 323819 | [323819-mario-and-luigi-the-bowser-saga.json](./323819-mario-and-luigi-the-bowser-saga.json) |
+| Mario and the Mystic Purple Stars | 218088 | [218088-mario-and-the-mystic-purple-stars.json](./218088-mario-and-the-mystic-purple-stars.json) |
 | Mario Andretti Racing | 20593 | [20593-mario-andretti-racing.json](./20593-mario-andretti-racing.json) |
 | Mario Andretti's Racing Challenge | 138177 | [138177-mario-andrettis-racing-challenge.json](./138177-mario-andrettis-racing-challenge.json) |
 | Mario Artist: Game Maker | 175951 | [175951-mario-artist-game-maker.json](./175951-mario-artist-game-maker.json) |
@@ -2559,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Learns About Colors 2 | 323824 | [323824-mario-learns-about-colors-2.json](./323824-mario-learns-about-colors-2.json) |
 | Mario Left the Cheese Out | 186098 | [186098-mario-left-the-cheese-out.json](./186098-mario-left-the-cheese-out.json) |
 | Mario Lost In Space | 384109 | [384109-mario-lost-in-space.json](./384109-mario-lost-in-space.json) |
+| Mario Mania | 218089 | [218089-mario-mania.json](./218089-mario-mania.json) |
 | Mario Motors | 231507 | [231507-mario-motors.json](./231507-mario-motors.json) |
 | Mario Movie Game | 318554 | [318554-mario-movie-game.json](./318554-mario-movie-game.json) |
 | Mario Net Quest | 246087 | [246087-mario-net-quest.json](./246087-mario-net-quest.json) |
@@ -2569,6 +2571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario no Photopi: Illustrations - Funny Accessories 1 | 350657 | [350657-mario-no-photopi-illustrations-funny-accessories-1.json](./350657-mario-no-photopi-illustrations-funny-accessories-1.json) |
 | Mario no Photopi: Illustrations - Postal Cards 1 | 350656 | [350656-mario-no-photopi-illustrations-postal-cards-1.json](./350656-mario-no-photopi-illustrations-postal-cards-1.json) |
 | Mario Noir | 323924 | [323924-mario-noir.json](./323924-mario-noir.json) |
+| Mario on Indigo Island | 218092 | [218092-mario-on-indigo-island.json](./218092-mario-on-indigo-island.json) |
 | Mario Paint | 8203 | [8203-mario-paint.json](./8203-mario-paint.json) |
 | Mario Paint 64 | 175957 | [175957-mario-paint-64.json](./175957-mario-paint-64.json) |
 | Mario Paint BS Ban: Yuushou Sakuhin Naizou Version | 150147 | [150147-mario-paint-bs-ban-yuushou-sakuhin-naizou-version.json](./150147-mario-paint-bs-ban-yuushou-sakuhin-naizou-version.json) |
@@ -5023,6 +5026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Zero 3 | 351805 | [351805-mega-man-zero-3.json](./351805-mega-man-zero-3.json) |
 | Mega Man Zero 4 | 1778 | [1778-mega-man-zero-4.json](./1778-mega-man-zero-4.json) |
 | Mega Man Zero Collection | 24355 | [24355-mega-man-zero-collection.json](./24355-mega-man-zero-collection.json) |
+| Mega Man Zero Online | 218060 | [218060-mega-man-zero-online.json](./218060-mega-man-zero-online.json) |
 | Mega Man ZX | 1779 | [1779-mega-man-zx.json](./1779-mega-man-zx.json) |
 | Mega Man ZX Advent | 1780 | [1780-mega-man-zx-advent.json](./1780-mega-man-zx-advent.json) |
 | Mega Man ZX Prequel | 311210 | [311210-mega-man-zx-prequel.json](./311210-mega-man-zx-prequel.json) |
