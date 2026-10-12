@@ -1183,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa: Zero - Showdown! Miracle Shoot | 233414 | [233414-captain-tsubasa-zero-showdown-miracle-shoot.json](./233414-captain-tsubasa-zero-showdown-miracle-shoot.json) |
 | Captain Underpants: Epic Choice-o-rama | 256837 | [256837-captain-underpants-epic-choice-o-rama.json](./256837-captain-underpants-epic-choice-o-rama.json) |
 | Captain Velvet Meteor: The Jump+ Dimensions | 194946 | [194946-captain-velvet-meteor-the-jump-dimensions.json](./194946-captain-velvet-meteor-the-jump-dimensions.json) |
+| Captain Verdeterre's Plunder | 216438 | [216438-captain-verdeterres-plunder.json](./216438-captain-verdeterres-plunder.json) |
 | Captain Wayne: Vacation Desperation | 241378 | [241378-captain-wayne-vacation-desperation.json](./241378-captain-wayne-vacation-desperation.json) |
 | Captain Whiskers: Incremental Seas | 386443 | [386443-captain-whiskers-incremental-seas.json](./386443-captain-whiskers-incremental-seas.json) |
 | Captain Willie | 285033 | [285033-captain-willie.json](./285033-captain-willie.json) |
@@ -2183,6 +2184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Torgeath: Descent into Darkness | 26590 | [26590-castle-torgeath-descent-into-darkness.json](./26590-castle-torgeath-descent-into-darkness.json) |
 | Castle Travel | 364563 | [364563-castle-travel.json](./364563-castle-travel.json) |
 | Castle V Castle | 331947 | [331947-castle-v-castle.json](./331947-castle-v-castle.json) |
+| Castle Walker | 216410 | [216410-castle-walker.json](./216410-castle-walker.json) |
 | Castle War | 380055 | [380055-castle-war.json](./380055-castle-war.json) |
 | Castle War | 380056 | [380056-castle-war.json](./380056-castle-war.json) |
 | Castle Warriors | 238381 | [238381-castle-warriors.json](./238381-castle-warriors.json) |
@@ -12835,6 +12837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberfield | 258614 | [258614-cyberfield.json](./258614-cyberfield.json) |
 | Cyberflight | 152497 | [152497-cyberflight.json](./152497-cyberflight.json) |
 | Cyberflow | 61679 | [61679-cyberflow.json](./61679-cyberflow.json) |
+| CyberFuck 2069 | 216401 | [216401-cyberfuck-2069.json](./216401-cyberfuck-2069.json) |
 | Cybergeist | 156537 | [156537-cybergeist.json](./156537-cybergeist.json) |
 | Cybergenic Ranger: Secret of the 7th Planet | 74000 | [74000-cybergenic-ranger-secret-of-the-7th-planet.json](./74000-cybergenic-ranger-secret-of-the-7th-planet.json) |
 | CyberGladiators | 50149 | [50149-cybergladiators.json](./50149-cybergladiators.json) |
