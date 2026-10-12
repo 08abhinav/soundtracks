@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zirkus-Simulator 2013 | 52781 | [52781-zirkus-simulator-2013.json](./52781-zirkus-simulator-2013.json) |
 | Zissi's Island | 31644 | [31644-zissis-island.json](./31644-zissis-island.json) |
 | Zitifono | 362715 | [362715-zitifono.json](./362715-zitifono.json) |
+| Ziva and the Wolves | 225239 | [225239-ziva-and-the-wolves.json](./225239-ziva-and-the-wolves.json) |
 | ZJ the Ball Challenge: Level 1C | 214512 | [214512-zj-the-ball-challenge-level-1c.json](./214512-zj-the-ball-challenge-level-1c.json) |
 | ZJ the Ball Challenge: Level 2C | 214511 | [214511-zj-the-ball-challenge-level-2c.json](./214511-zj-the-ball-challenge-level-2c.json) |
 | ZJ the Ball Challenge: Level 3C | 214502 | [214502-zj-the-ball-challenge-level-3c.json](./214502-zj-the-ball-challenge-level-3c.json) |
