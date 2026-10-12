@@ -5412,6 +5412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meisa no Sekai | 285386 | [285386-meisa-no-sekai.json](./285386-meisa-no-sekai.json) |
 | Měishàonián Mèng Gōngchǎng 3: Chóngshēng | 116981 | [116981-meishaonian-meng-gongchang-3-chongsheng.json](./116981-meishaonian-meng-gongchang-3-chongsheng.json) |
 | Meister | 113670 | [113670-meister.json](./113670-meister.json) |
+| Meister2 | 192639 | [192639-meister2.json](./192639-meister2.json) |
 | MeisterPower | 383980 | [383980-meisterpower.json](./383980-meisterpower.json) |
 | Meitantei Conan: Tantei-ryoku Trainer | 78712 | [78712-meitantei-conan-tantei-ryoku-trainer.json](./78712-meitantei-conan-tantei-ryoku-trainer.json) |
 | Meitantei Holmes: Kiri no London Satsujin Jiken | 48778 | [48778-meitantei-holmes-kiri-no-london-satsujin-jiken.json](./48778-meitantei-holmes-kiri-no-london-satsujin-jiken.json) |
@@ -8531,6 +8532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Tunes! Game de Tune Up! Da Pun! | 222544 | [222544-miracle-tunes-game-de-tune-up-da-pun.json](./222544-miracle-tunes-game-de-tune-up-da-pun.json) |
 | Miracle Warrior of Mountains and Seas | 153345 | [153345-miracle-warrior-of-mountains-and-seas.json](./153345-miracle-warrior-of-mountains-and-seas.json) |
 | Miracle Warriors: Seal of the Dark Lord | 47526 | [47526-miracle-warriors-seal-of-the-dark-lord.json](./47526-miracle-warriors-seal-of-the-dark-lord.json) |
+| Miraculo Island | 192612 | [192612-miraculo-island.json](./192612-miraculo-island.json) |
 | Miraculous Fall | 336682 | [336682-miraculous-fall.json](./336682-miraculous-fall.json) |
 | Miraculous Ladybug & Cat Noir | 99322 | [99322-miraculous-ladybug-and-cat-noir.json](./99322-miraculous-ladybug-and-cat-noir.json) |
 | Miraculous: Paris Under Siege | 314019 | [314019-miraculous-paris-under-siege.json](./314019-miraculous-paris-under-siege.json) |
@@ -10630,6 +10632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonfrost | 319876 | [319876-moonfrost.json](./319876-moonfrost.json) |
 | Moongrave | 370889 | [370889-moongrave.json](./370889-moongrave.json) |
 | MoonHack | 408042 | [408042-moonhack.json](./408042-moonhack.json) |
+| Moonhaven | 192613 | [192613-moonhaven.json](./192613-moonhaven.json) |
 | Mooniacs | 343469 | [343469-mooniacs.json](./343469-mooniacs.json) |
 | Moonland | 270707 | [270707-moonland.json](./270707-moonland.json) |
 | Moonland | 57499 | [57499-moonland.json](./57499-moonland.json) |
