@@ -3111,6 +3111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightening Force: Quest for the Darkstar | 46273 | [46273-lightening-force-quest-for-the-darkstar.json](./46273-lightening-force-quest-for-the-darkstar.json) |
 | Lighter | 114394 | [114394-lighter.json](./114394-lighter.json) |
 | LightFall | 234201 | [234201-lightfall.json](./234201-lightfall.json) |
+| Lightfire Defense | 207585 | [207585-lightfire-defense.json](./207585-lightfire-defense.json) |
 | Lightfish | 16271 | [16271-lightfish.json](./16271-lightfish.json) |
 | Lightforce | 28823 | [28823-lightforce.json](./28823-lightforce.json) |
 | LightGone | 294374 | [294374-lightgone.json](./294374-lightgone.json) |
