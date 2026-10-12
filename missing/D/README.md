@@ -7872,6 +7872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Steal My Christmas! | 235271 | [235271-dont-steal-my-christmas.json](./235271-dont-steal-my-christmas.json) |
 | Don't Stop | 106139 | [106139-dont-stop.json](./106139-dont-stop.json) |
 | Don't Stop Corocco | 151663 | [151663-dont-stop-corocco.json](./151663-dont-stop-corocco.json) |
+| Don't Stop Corocco 2 | 206447 | [206447-dont-stop-corocco-2.json](./206447-dont-stop-corocco-2.json) |
 | Don't Stop Cutting The Trees! | 421363 | [421363-dont-stop-cutting-the-trees.json](./421363-dont-stop-cutting-the-trees.json) |
 | Don't Stop in Red Wood | 378387 | [378387-dont-stop-in-red-wood.json](./378387-dont-stop-in-red-wood.json) |
 | Don’t Stop Smiling | 384146 | [384146-don-t-stop-smiling.json](./384146-don-t-stop-smiling.json) |
@@ -12083,6 +12084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dymension | 191262 | [191262-dymension.json](./191262-dymension.json) |
 | Dyna Blade | 271260 | [271260-dyna-blade.json](./271260-dyna-blade.json) |
 | Dyna Blade | 271402 | [271402-dyna-blade.json](./271402-dyna-blade.json) |
+| Dyna Bomb 2 | 206423 | [206423-dyna-bomb-2.json](./206423-dyna-bomb-2.json) |
 | Dynablaster Revenge | 18445 | [18445-dynablaster-revenge.json](./18445-dynablaster-revenge.json) |
 | Dynacat | 196958 | [196958-dynacat.json](./196958-dynacat.json) |
 | Dynacore | 214722 | [214722-dynacore.json](./214722-dynacore.json) |
