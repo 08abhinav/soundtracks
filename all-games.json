@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T22:00:13.823Z",
-  "total_soundtracks": 1486,
+  "generated_at": "2026-10-12T05:35:15.359Z",
+  "total_soundtracks": 1487,
   "games": [
     {
       "igdb_id": 7522,
@@ -2558,6 +2558,20 @@
           "album_name": "Call of Duty®: Modern Warfare III (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1ckWCNAs9yTEdoEq6LVYZX",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 165067,
+      "game_name": "Call of Duty: Vanguard",
+      "game_url": "https://ostdb.net/games/call-of-duty-vanguard",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738225210f238edce61707905f",
+      "albums": [
+        {
+          "album_name": "Call of Duty®: Vanguard (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/026d5PWb7liuPywKuDXIOr",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
