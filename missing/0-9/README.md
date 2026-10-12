@@ -802,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1950s Lawn Mower Kids | 65553 | [65553-1950s-lawn-mower-kids.json](./65553-1950s-lawn-mower-kids.json) |
 | 1953: KGB Unleashed | 9771 | [9771-1953-kgb-unleashed.json](./9771-1953-kgb-unleashed.json) |
 | 1953: NATO vs Warsaw Pact | 17886 | [17886-1953-nato-vs-warsaw-pact.json](./17886-1953-nato-vs-warsaw-pact.json) |
+| 1958: Dancing with Fear | 216434 | [216434-1958-dancing-with-fear.json](./216434-1958-dancing-with-fear.json) |
 | 1968 | 141731 | [141731-1968.json](./141731-1968.json) |
 | 1971: Indian Naval Front | 110956 | [110956-1971-indian-naval-front.json](./110956-1971-indian-naval-front.json) |
 | 1976: Back to Midway | 168708 | [168708-1976-back-to-midway.json](./168708-1976-back-to-midway.json) |
@@ -1152,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2K Shells | 328033 | [328033-2k-shells.json](./328033-2k-shells.json) |
 | 2K1X Subzero Heroes | 304215 | [304215-2k1x-subzero-heroes.json](./304215-2k1x-subzero-heroes.json) |
 | 2MD: VR Football Evolution | 160137 | [160137-2md-vr-football-evolution.json](./160137-2md-vr-football-evolution.json) |
+| 2MD: VR Football Unleashed All Star | 216445 | [216445-2md-vr-football-unleashed-all-star.json](./216445-2md-vr-football-unleashed-all-star.json) |
 | 2Metal | 331359 | [331359-2metal.json](./331359-2metal.json) |
 | 2Moons | 93995 | [93995-2moons.json](./93995-2moons.json) |
 | 2nd Circle: Powerful Places | 109872 | [109872-2nd-circle-powerful-places.json](./109872-2nd-circle-powerful-places.json) |
