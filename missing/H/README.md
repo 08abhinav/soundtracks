@@ -2027,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Keeper | 342634 | [342634-heart-keeper.json](./342634-heart-keeper.json) |
 | Heart Knots | 138022 | [138022-heart-knots.json](./138022-heart-knots.json) |
 | Heart Maze | 40994 | [40994-heart-maze.json](./40994-heart-maze.json) |
+| Heart no Kuni no Alice: Wonderful Twin World | 218642 | [218642-heart-no-kuni-no-alice-wonderful-twin-world.json](./218642-heart-no-kuni-no-alice-wonderful-twin-world.json) |
 | Heart of a Knight | 322078 | [322078-heart-of-a-knight.json](./322078-heart-of-a-knight.json) |
 | Heart of a Warrior | 190072 | [190072-heart-of-a-warrior.json](./190072-heart-of-a-warrior.json) |
 | Heart of Africa | 13874 | [13874-heart-of-africa.json](./13874-heart-of-africa.json) |
@@ -3813,6 +3814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Havoc: Idle Adventures | 26171 | [26171-heroes-of-havoc-idle-adventures.json](./26171-heroes-of-havoc-idle-adventures.json) |
 | Heroes of Hellas | 54097 | [54097-heroes-of-hellas.json](./54097-heroes-of-hellas.json) |
 | Heroes of Hellas 2: Olympia | 54096 | [54096-heroes-of-hellas-2-olympia.json](./54096-heroes-of-hellas-2-olympia.json) |
+| Heroes of Hellas Origins: Part Two | 218662 | [218662-heroes-of-hellas-origins-part-two.json](./218662-heroes-of-hellas-origins-part-two.json) |
 | Heroes of Holdem | 240175 | [240175-heroes-of-holdem.json](./240175-heroes-of-holdem.json) |
 | Heroes of Hyrule | 215237 | [215237-heroes-of-hyrule.json](./215237-heroes-of-hyrule.json) |
 | Heroes of Infinity | 60925 | [60925-heroes-of-infinity.json](./60925-heroes-of-infinity.json) |
