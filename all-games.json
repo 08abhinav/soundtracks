@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T20:45:14.133Z",
-  "total_soundtracks": 1539,
+  "generated_at": "2026-10-12T20:50:14.853Z",
+  "total_soundtracks": 1540,
   "games": [
     {
       "igdb_id": 7522,
@@ -2999,6 +2999,20 @@
           "spotify_url": "https://open.spotify.com/album/5tOGAXSoOLE8Ya0Yirhpba",
           "apple_music_url": "",
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 204627,
+      "game_name": "Cocoon",
+      "game_url": "https://ostdb.net/games/cocoon",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732124ed4e18814e08772bb506",
+      "albums": [
+        {
+          "album_name": "Cocoon (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/00pLQRf83VO5EHhj3VqlNU",
+          "apple_music_url": "",
+          "album_link_url": "https://album.link/s/00pLQRf83VO5EHhj3VqlNU"
         }
       ]
     },
