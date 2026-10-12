@@ -2300,6 +2300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getsuei Gakuen -kou- | 34263 | [34263-getsuei-gakuen-kou.json](./34263-getsuei-gakuen-kou.json) |
 | Getsuei no Kusari: Kyouran Moratoriamu | 136449 | [136449-getsuei-no-kusari-kyouran-moratoriamu.json](./136449-getsuei-no-kusari-kyouran-moratoriamu.json) |
 | Getsuei no Kusari: Sakuran Paranoia | 136448 | [136448-getsuei-no-kusari-sakuran-paranoia.json](./136448-getsuei-no-kusari-sakuran-paranoia.json) |
+| GetsuFumaDen: Undying Moon - Digital Deluxe Edition | 199824 | [199824-getsufumaden-undying-moon-digital-deluxe-edition.json](./199824-getsufumaden-undying-moon-digital-deluxe-edition.json) |
 | Getter Love!!: Chou Renai Party Game Tanjou | 3504 | [3504-getter-love-chou-renai-party-game-tanjou.json](./3504-getter-love-chou-renai-party-game-tanjou.json) |
 | Getter Robo Daikessen! | 77981 | [77981-getter-robo-daikessen.json](./77981-getter-robo-daikessen.json) |
 | Getting a Bottle of Water Simulator | 334664 | [334664-getting-a-bottle-of-water-simulator.json](./334664-getting-a-bottle-of-water-simulator.json) |
@@ -4707,7 +4708,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotta Get Home | 231299 | [231299-gotta-get-home.json](./231299-gotta-get-home.json) |
 | Gotta Protectors: Amazon's Running Diet | 195502 | [195502-gotta-protectors-amazons-running-diet.json](./195502-gotta-protectors-amazons-running-diet.json) |
 | Gotta Protectors: Cart of Darkness | 196318 | [196318-gotta-protectors-cart-of-darkness.json](./196318-gotta-protectors-cart-of-darkness.json) |
+| Gotta Protectors: Cart of Darkness - Ultimate Deluxe Bundle | 199883 | [199883-gotta-protectors-cart-of-darkness-ultimate-deluxe-bundle.json](./199883-gotta-protectors-cart-of-darkness-ultimate-deluxe-bundle.json) |
 | Gotta Protectors: Cart of Darkness DLC Bundle Packs 1-4 | 223590 | [223590-gotta-protectors-cart-of-darkness-dlc-bundle-packs-1-4.json](./223590-gotta-protectors-cart-of-darkness-dlc-bundle-packs-1-4.json) |
+| Gotta Protectors: Cart of Darkness DLC Pack 1 | 199878 | [199878-gotta-protectors-cart-of-darkness-dlc-pack-1.json](./199878-gotta-protectors-cart-of-darkness-dlc-pack-1.json) |
+| Gotta Protectors: Cart of Darkness DLC Pack 2 | 199879 | [199879-gotta-protectors-cart-of-darkness-dlc-pack-2.json](./199879-gotta-protectors-cart-of-darkness-dlc-pack-2.json) |
+| Gotta Protectors: Cart of Darkness DLC Pack 3 | 199880 | [199880-gotta-protectors-cart-of-darkness-dlc-pack-3.json](./199880-gotta-protectors-cart-of-darkness-dlc-pack-3.json) |
+| Gotta Protectors: Cart of Darkness DLC Pack 4 | 199881 | [199881-gotta-protectors-cart-of-darkness-dlc-pack-4.json](./199881-gotta-protectors-cart-of-darkness-dlc-pack-4.json) |
 | GottaGoFast | 275211 | [275211-gottagofast.json](./275211-gottagofast.json) |
 | Götzendiener | 19661 | [19661-gotzendiener.json](./19661-gotzendiener.json) |
 | Goudall | 350616 | [350616-goudall.json](./350616-goudall.json) |
@@ -7088,6 +7094,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunViper | 269484 | [269484-gunviper.json](./269484-gunviper.json) |
 | Gunvolt Chronicles: Luminous Avenger iX - Extra Mission: "VS ???" | 170842 | [170842-gunvolt-chronicles-luminous-avenger-ix-extra-mission-vs.json](./170842-gunvolt-chronicles-luminous-avenger-ix-extra-mission-vs.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Jason Frudnick | 196153 | [196153-gunvolt-chronicles-luminous-avenger-ix-2-jason-frudnick.json](./196153-gunvolt-chronicles-luminous-avenger-ix-2-jason-frudnick.json) |
+| Gunvolt Chronicles: Luminous Avenger iX 2 - Special DLC Boss: Kurona | 199876 | [199876-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kurona.json](./199876-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kurona.json) |
+| Gunvolt Chronicles: Luminous Avenger iX 2 - Special DLC Boss: Yang Yumo | 199869 | [199869-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-yang-yumo.json](./199869-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-yang-yumo.json) |
 | Gunvolt Chronicles: Luminous Avenger iX2 - Special DLC Boss: Kirin | 199931 | [199931-gunvolt-chronicles-luminous-avenger-ix2-special-dlc-boss-kirin.json](./199931-gunvolt-chronicles-luminous-avenger-ix2-special-dlc-boss-kirin.json) |
 | Gunvolt Records Cychronicle: Song Pack 6 | 294845 | [294845-gunvolt-records-cychronicle-song-pack-6.json](./294845-gunvolt-records-cychronicle-song-pack-6.json) |
 | Gunvolt Records Cychronicle: Song Pack 7 | 294846 | [294846-gunvolt-records-cychronicle-song-pack-7.json](./294846-gunvolt-records-cychronicle-song-pack-7.json) |
