@@ -3607,6 +3607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Köy | 320997 | [320997-koy.json](./320997-koy.json) |
 | Koya Rift | 17953 | [17953-koya-rift.json](./17953-koya-rift.json) |
 | Koyomin's Revenge | 343473 | [343473-koyomins-revenge.json](./343473-koyomins-revenge.json) |
+| Koza | 183314 | [183314-koza.json](./183314-koza.json) |
 | Koziolek Matolek idzie do szkoly | 318492 | [318492-koziolek-matolek-idzie-do-szkoly.json](./318492-koziolek-matolek-idzie-do-szkoly.json) |
 | Koziołek Matołek Wynalazca | 135255 | [135255-kozio-ek-mato-ek-wynalazca.json](./135255-kozio-ek-mato-ek-wynalazca.json) |
 | Kozmik Krooz'r | 245279 | [245279-kozmik-kroozr.json](./245279-kozmik-kroozr.json) |
