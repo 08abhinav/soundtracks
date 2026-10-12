@@ -846,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Mountain Massacre: Revenge | 331959 | [331959-candy-mountain-massacre-revenge.json](./331959-candy-mountain-massacre-revenge.json) |
 | Candy Noox | 26934 | [26934-candy-noox.json](./26934-candy-noox.json) |
 | Candy Patrol: Lollipop Defense | 108621 | [108621-candy-patrol-lollipop-defense.json](./108621-candy-patrol-lollipop-defense.json) |
+| Candy Pop Match3 | 220804 | [220804-candy-pop-match3.json](./220804-candy-pop-match3.json) |
 | Candy Puzzles | 328563 | [328563-candy-puzzles.json](./328563-candy-puzzles.json) |
 | Candy Rangers | 265694 | [265694-candy-rangers.json](./265694-candy-rangers.json) |
 | Candy Renovation | 301990 | [301990-candy-renovation.json](./301990-candy-renovation.json) |
@@ -6860,6 +6861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coconut Farm 3D | 300779 | [300779-coconut-farm-3d.json](./300779-coconut-farm-3d.json) |
 | Coconuts versus Bananas: The Invasion of Carl CocoPalm | 97456 | [97456-coconuts-versus-bananas-the-invasion-of-carl-cocopalm.json](./97456-coconuts-versus-bananas-the-invasion-of-carl-cocopalm.json) |
 | Cocoon | 204627 | [204627-cocoon.json](./204627-cocoon.json) |
+| CocoRally Ultimate | 220824 | [220824-cocorally-ultimate.json](./220824-cocorally-ultimate.json) |
 | Cocoricó: Brincando de Pega-Pega | 417542 | [417542-cocorico-brincando-de-pega-pega.json](./417542-cocorico-brincando-de-pega-pega.json) |
 | Cocoro | 317333 | [317333-cocoro.json](./317333-cocoro.json) |
 | Cocoron | 48644 | [48644-cocoron.json](./48644-cocoron.json) |
@@ -10356,6 +10358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Critters: Combat Cats | 122198 | [122198-crazy-critters-combat-cats.json](./122198-crazy-critters-combat-cats.json) |
 | Crazy Cursed Grandma's House | 272393 | [272393-crazy-cursed-grandmas-house.json](./272393-crazy-cursed-grandmas-house.json) |
 | Crazy Defense Heroes | 95092 | [95092-crazy-defense-heroes.json](./95092-crazy-defense-heroes.json) |
+| Crazy Demolition Derby Car 2022 | 220827 | [220827-crazy-demolition-derby-car-2022.json](./220827-crazy-demolition-derby-car-2022.json) |
 | Crazy Designer | 239789 | [239789-crazy-designer.json](./239789-crazy-designer.json) |
 | Crazy Dessert Maker | 98928 | [98928-crazy-dessert-maker.json](./98928-crazy-dessert-maker.json) |
 | Crazy Dreamz: Best Of | 90076 | [90076-crazy-dreamz-best-of.json](./90076-crazy-dreamz-best-of.json) |
