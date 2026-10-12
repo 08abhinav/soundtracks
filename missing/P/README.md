@@ -3662,6 +3662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photochemistry | 305548 | [305548-photochemistry.json](./305548-photochemistry.json) |
 | Photogeist | 307693 | [307693-photogeist.json](./307693-photogeist.json) |
 | Photogeist Albums: Case 1 | 307337 | [307337-photogeist-albums-case-1.json](./307337-photogeist-albums-case-1.json) |
+| Photogenic Minds: Identity | 213543 | [213543-photogenic-minds-identity.json](./213543-photogenic-minds-identity.json) |
 | Photographer's Life Simulator | 346716 | [346716-photographers-life-simulator.json](./346716-photographers-life-simulator.json) |
 | Photographic Memory Test | 308506 | [308506-photographic-memory-test.json](./308506-photographic-memory-test.json) |
 | Photography | 342104 | [342104-photography.json](./342104-photography.json) |
@@ -4794,6 +4795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piper | 356068 | [356068-piper.json](./356068-piper.json) |
 | Pipes | 78884 | [78884-pipes.json](./78884-pipes.json) |
 | Pipes Maze | 240354 | [240354-pipes-maze.json](./240354-pipes-maze.json) |
+| Pipes Puzzles | 213539 | [213539-pipes-puzzles.json](./213539-pipes-puzzles.json) |
 | PipeWorks | 116927 | [116927-pipeworks.json](./116927-pipeworks.json) |
 | Pipi & Bibi's | 40138 | [40138-pipi-and-bibis.json](./40138-pipi-and-bibis.json) |
 | Pipistrello and the Cursed Yoyo | 292157 | [292157-pipistrello-and-the-cursed-yoyo.json](./292157-pipistrello-and-the-cursed-yoyo.json) |
@@ -7411,6 +7413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Puzzle Pokers Wii | 408944 | [408944-poker-puzzle-pokers-wii.json](./408944-poker-puzzle-pokers-wii.json) |
 | Poker Relay | 328422 | [328422-poker-relay.json](./328422-poker-relay.json) |
 | Poker Smash | 21351 | [21351-poker-smash.json](./21351-poker-smash.json) |
+| Poker Soul | 213571 | [213571-poker-soul.json](./213571-poker-soul.json) |
 | Poker Squ♠res | 81285 | [81285-poker-squ-res.json](./81285-poker-squ-res.json) |
 | Poker Squares | 131523 | [131523-poker-squares.json](./131523-poker-squares.json) |
 | Poker Stacker | 78902 | [78902-poker-stacker.json](./78902-poker-stacker.json) |
@@ -11289,6 +11292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puss in Woods | 304389 | [304389-puss-in-woods.json](./304389-puss-in-woods.json) |
 | Puss! | 81128 | [81128-puss.json](./81128-puss.json) |
 | Pussies Wrestling Dicks | 211928 | [211928-pussies-wrestling-dicks.json](./211928-pussies-wrestling-dicks.json) |
+| Pussy 6 | 213547 | [213547-pussy-6.json](./213547-pussy-6.json) |
 | Pussy Kingdom: Queen of Passion | 278393 | [278393-pussy-kingdom-queen-of-passion.json](./278393-pussy-kingdom-queen-of-passion.json) |
 | Pussy Password | 335306 | [335306-pussy-password.json](./335306-pussy-password.json) |
 | Pussy Puzzle: Over 9000 | 141661 | [141661-pussy-puzzle-over-9000.json](./141661-pussy-puzzle-over-9000.json) |
