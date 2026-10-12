@@ -677,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baffle Ball | 92639 | [92639-baffle-ball.json](./92639-baffle-ball.json) |
 | Baffle My Mind | 88211 | [88211-baffle-my-mind.json](./88211-baffle-my-mind.json) |
 | BAFL: Brakes Are For Losers | 44740 | [44740-bafl-brakes-are-for-losers.json](./44740-bafl-brakes-are-for-losers.json) |
+| Bag Boy Memory | 204209 | [204209-bag-boy-memory.json](./204209-bag-boy-memory.json) |
 | Bag Closure | 137975 | [137975-bag-closure.json](./137975-bag-closure.json) |
 | Bag Fight | 402299 | [402299-bag-fight.json](./402299-bag-fight.json) |
 | Bag Fight: Handful Edition | 410852 | [410852-bag-fight-handful-edition.json](./410852-bag-fight-handful-edition.json) |
@@ -6416,6 +6417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blimpy | 328975 | [328975-blimpy.json](./328975-blimpy.json) |
 | Blinck Island Returns | 186169 | [186169-blinck-island-returns.json](./186169-blinck-island-returns.json) |
 | Blind | 156634 | [156634-blind.json](./156634-blind.json) |
+| Blind | 204215 | [204215-blind.json](./204215-blind.json) |
 | Blind | 216787 | [216787-blind.json](./216787-blind.json) |
 | Blind Affection | 180562 | [180562-blind-affection.json](./180562-blind-affection.json) |
 | Blind Box | 379348 | [379348-blind-box.json](./379348-blind-box.json) |
@@ -9083,6 +9085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bozo the Brave | 15685 | [15685-bozo-the-brave.json](./15685-bozo-the-brave.json) |
 | BP Gas Mania | 394108 | [394108-bp-gas-mania.json](./394108-bp-gas-mania.json) |
 | BP Ultimate Rally Challenge | 323851 | [323851-bp-ultimate-rally-challenge.json](./323851-bp-ultimate-rally-challenge.json) |
+| BPM Boy | 204234 | [204234-bpm-boy.json](./204234-bpm-boy.json) |
 | BPM Racing | 84465 | [84465-bpm-racing.json](./84465-bpm-racing.json) |
 | Bpop Attack | 319953 | [319953-bpop-attack.json](./319953-bpop-attack.json) |
 | BQM: BlockQuest Maker | 102940 | [102940-bqm-blockquest-maker.json](./102940-bqm-blockquest-maker.json) |
