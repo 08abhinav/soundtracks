@@ -3133,6 +3133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Hand | 260055 | [260055-out-of-hand.json](./260055-out-of-hand.json) |
 | Out of Hand: Deluxe | 330138 | [330138-out-of-hand-deluxe.json](./330138-out-of-hand-deluxe.json) |
 | Out of Hands | 211231 | [211231-out-of-hands.json](./211231-out-of-hands.json) |
+| Out of Hell | 218655 | [218655-out-of-hell.json](./218655-out-of-hell.json) |
 | Out Of Memories | 320933 | [320933-out-of-memories.json](./320933-out-of-memories.json) |
 | Out Of Mind | 287731 | [287731-out-of-mind.json](./287731-out-of-mind.json) |
 | Out of Moves: Another Try | 359985 | [359985-out-of-moves-another-try.json](./359985-out-of-moves-another-try.json) |
