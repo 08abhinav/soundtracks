@@ -10429,6 +10429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drill and Delve | 382231 | [382231-drill-and-delve.json](./382231-drill-and-delve.json) |
 | Drill Arena | 86549 | [86549-drill-arena.json](./86549-drill-arena.json) |
 | Drill Core: The Machine World | 399016 | [399016-drill-core-the-machine-world.json](./399016-drill-core-the-machine-world.json) |
+| Drill Dash | 211905 | [211905-drill-dash.json](./211905-drill-dash.json) |
 | Drill Deal | 118816 | [118816-drill-deal.json](./118816-drill-deal.json) |
 | Drill Deal: Oil Tycoon | 251107 | [251107-drill-deal-oil-tycoon.json](./251107-drill-deal-oil-tycoon.json) |
 | Drill Deep | 400957 | [400957-drill-deep.json](./400957-drill-deep.json) |
