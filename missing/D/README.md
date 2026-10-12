@@ -11898,6 +11898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusklight | 401002 | [401002-dusklight.json](./401002-dusklight.json) |
 | Dusklight Manor | 255096 | [255096-dusklight-manor.json](./255096-dusklight-manor.json) |
 | DuskVeil | 366626 | [366626-duskveil.json](./366626-duskveil.json) |
+| Duskworld | 198144 | [198144-duskworld.json](./198144-duskworld.json) |
 | Dusky Cap | 343862 | [343862-dusky-cap.json](./343862-dusky-cap.json) |
 | Dusky Depths | 273628 | [273628-dusky-depths.json](./273628-dusky-depths.json) |
 | Dust & Courage: Jake Bolton’s Journey | 298233 | [298233-dust-and-courage-jake-bolton-s-journey.json](./298233-dust-and-courage-jake-bolton-s-journey.json) |
