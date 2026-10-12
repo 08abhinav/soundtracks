@@ -322,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yellow: The Yellow Artifact | 32437 | [32437-yellow-the-yellow-artifact.json](./32437-yellow-the-yellow-artifact.json) |
 | YellowDream | 134484 | [134484-yellowdream.json](./134484-yellowdream.json) |
 | YellowPips | 384185 | [384185-yellowpips.json](./384185-yellowpips.json) |
+| Yemita | 183306 | [183306-yemita.json](./183306-yemita.json) |
 | Yemon | 107928 | [107928-yemon.json](./107928-yemon.json) |
 | Yenemy | 248728 | [248728-yenemy.json](./248728-yenemy.json) |
 | Yenght | 94258 | [94258-yenght.json](./94258-yenght.json) |
@@ -472,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoda | 327966 | [327966-yoda.json](./327966-yoda.json) |
 | Yoda's Escape | 243820 | [243820-yodas-escape.json](./243820-yodas-escape.json) |
 | Yodel-Oh! | 253298 | [253298-yodel-oh.json](./253298-yodel-oh.json) |
+| Yodo | 183307 | [183307-yodo.json](./183307-yodo.json) |
 | Yodobongingi | 234635 | [234635-yodobongingi.json](./234635-yodobongingi.json) |
 | Yodoyabashi Oyasama Club | 254505 | [254505-yodoyabashi-oyasama-club.json](./254505-yodoyabashi-oyasama-club.json) |
 | Yog-Sothoth's Yard | 250278 | [250278-yog-sothoths-yard.json](./250278-yog-sothoths-yard.json) |
