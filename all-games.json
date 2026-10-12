@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T09:50:25.117Z",
-  "total_soundtracks": 1498,
+  "generated_at": "2026-10-12T09:50:36.043Z",
+  "total_soundtracks": 1499,
   "games": [
     {
       "igdb_id": 7522,
@@ -10003,6 +10003,20 @@
           "spotify_url": "https://music.apple.com/us/album/saru-from-morbid-metal-single/1840670106?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1840670106"
+        }
+      ]
+    },
+    {
+      "igdb_id": 239392,
+      "game_name": "Mortal Kombat 1",
+      "game_url": "https://ostdb.net/games/mortal-kombat-1",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738c4a20cf4ce9c9730c72850c",
+      "albums": [
+        {
+          "album_name": "Mortal Kombat 1 (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2Gh3ZhIPiCGZc0d9pFol18",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
