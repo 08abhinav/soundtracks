@@ -2065,6 +2065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up Up & Down! | 312324 | [312324-up-up-and-down.json](./312324-up-up-and-down.json) |
 | Up Up Up | 393836 | [393836-up-up-up.json](./393836-up-up-up.json) |
 | Up With Doznik | 312569 | [312569-up-with-doznik.json](./312569-up-with-doznik.json) |
+| Up Words | 200370 | [200370-up-words.json](./200370-up-words.json) |
 | Up! The Floor Is Lava | 303705 | [303705-up-the-floor-is-lava.json](./303705-up-the-floor-is-lava.json) |
 | Upbaka! | 379706 | [379706-upbaka.json](./379706-upbaka.json) |
 | Upbeat | 390130 | [390130-upbeat.json](./390130-upbeat.json) |
