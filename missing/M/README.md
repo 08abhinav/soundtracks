@@ -7263,6 +7263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Switch Force! Collection | 120200 | [120200-mighty-switch-force-collection.json](./120200-mighty-switch-force-collection.json) |
 | Mighty Switch Force! Hose It Down! | 35124 | [35124-mighty-switch-force-hose-it-down.json](./35124-mighty-switch-force-hose-it-down.json) |
 | Mighty Switch Force! Hyper Drive Edition | 2176 | [2176-mighty-switch-force-hyper-drive-edition.json](./2176-mighty-switch-force-hyper-drive-edition.json) |
+| Mighty Tank | 221890 | [221890-mighty-tank.json](./221890-mighty-tank.json) |
 | Mighty the Armadillo | 330152 | [330152-mighty-the-armadillo.json](./330152-mighty-the-armadillo.json) |
 | Mighty Warriors | 40388 | [40388-mighty-warriors.json](./40388-mighty-warriors.json) |
 | MightyBowOfGreenHills | 96761 | [96761-mightybowofgreenhills.json](./96761-mightybowofgreenhills.json) |
@@ -7773,6 +7774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Biome Settlers 3 Skin Pack | 257345 | [257345-minecraft-biome-settlers-3-skin-pack.json](./257345-minecraft-biome-settlers-3-skin-pack.json) |
 | Minecraft: Biome Settlers Pack 1 | 302658 | [302658-minecraft-biome-settlers-pack-1.json](./302658-minecraft-biome-settlers-pack-1.json) |
 | Minecraft: Biome Settlers Pack 2 | 302660 | [302660-minecraft-biome-settlers-pack-2.json](./302660-minecraft-biome-settlers-pack-2.json) |
+| Minecraft: Buzzy Bees | 221926 | [221926-minecraft-buzzy-bees.json](./221926-minecraft-buzzy-bees.json) |
 | Minecraft: Cartoon Mobs HD Skin Pack | 324891 | [324891-minecraft-cartoon-mobs-hd-skin-pack.json](./324891-minecraft-cartoon-mobs-hd-skin-pack.json) |
 | Minecraft: Caves & Cliffs - Part II | 223159 | [223159-minecraft-caves-and-cliffs-part-ii.json](./223159-minecraft-caves-and-cliffs-part-ii.json) |
 | Minecraft: Chaos Cubed | 406874 | [406874-minecraft-chaos-cubed.json](./406874-minecraft-chaos-cubed.json) |
@@ -7875,9 +7877,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Ultimate Collection | 397759 | [397759-minecraft-ultimate-collection.json](./397759-minecraft-ultimate-collection.json) |
 | Minecraft: Uncrafting Items Mod | 343906 | [343906-minecraft-uncrafting-items-mod.json](./343906-minecraft-uncrafting-items-mod.json) |
 | Minecraft: Universal Studios Experience | 299204 | [299204-minecraft-universal-studios-experience.json](./299204-minecraft-universal-studios-experience.json) |
+| Minecraft: Update Aquatic | 221879 | [221879-minecraft-update-aquatic.json](./221879-minecraft-update-aquatic.json) |
 | Minecraft: Vault-Tec Mash-up | 235319 | [235319-minecraft-vault-tec-mash-up.json](./235319-minecraft-vault-tec-mash-up.json) |
+| Minecraft: Village & Pillage | 221919 | [221919-minecraft-village-and-pillage.json](./221919-minecraft-village-and-pillage.json) |
 | MInecraft: Weapon Fusion 2 | 333585 | [333585-minecraft-weapon-fusion-2.json](./333585-minecraft-weapon-fusion-2.json) |
 | Minecraft: Winter Whimsy Skin Pack | 324892 | [324892-minecraft-winter-whimsy-skin-pack.json](./324892-minecraft-winter-whimsy-skin-pack.json) |
+| Minecraft: World of Color Update | 221878 | [221878-minecraft-world-of-color-update.json](./221878-minecraft-world-of-color-update.json) |
 | Minecraft: Wukong Uproar In Heaven | 332582 | [332582-minecraft-wukong-uproar-in-heaven.json](./332582-minecraft-wukong-uproar-in-heaven.json) |
 | Minecraft: Xbox 360 Edition | 94029 | [94029-minecraft-xbox-360-edition.json](./94029-minecraft-xbox-360-edition.json) |
 | Minecraft: Young Gru | 320257 | [320257-minecraft-young-gru.json](./320257-minecraft-young-gru.json) |
@@ -9615,6 +9620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Maker | 111872 | [111872-money-maker.json](./111872-money-maker.json) |
 | Money Maker | 343782 | [343782-money-maker.json](./343782-money-maker.json) |
 | Money Mansion | 170350 | [170350-money-mansion.json](./170350-money-mansion.json) |
+| Money Maze | 221897 | [221897-money-maze.json](./221897-money-maze.json) |
 | Money Money | 38582 | [38582-money-money.json](./38582-money-money.json) |
 | Money Mouse in Full Barn House | 281535 | [281535-money-mouse-in-full-barn-house.json](./281535-money-mouse-in-full-barn-house.json) |
 | Money Munchers | 59890 | [59890-money-munchers.json](./59890-money-munchers.json) |
