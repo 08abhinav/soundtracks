@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kangaroo Court | 330172 | [330172-kangaroo-court.json](./330172-kangaroo-court.json) |
 | Kangarumble | 185149 | [185149-kangarumble.json](./185149-kangarumble.json) |
 | Kangho | 220280 | [220280-kangho.json](./220280-kangho.json) |
+| Kangnim2: Jecheondaeseong | 215834 | [215834-kangnim2-jecheondaeseong.json](./215834-kangnim2-jecheondaeseong.json) |
 | Kangoku Lock | 284448 | [284448-kangoku-lock.json](./284448-kangoku-lock.json) |
 | Kangoku Shounen | 181659 | [181659-kangoku-shounen.json](./181659-kangoku-shounen.json) |
 | Kangoku Suieibu: Kyouei Mizugi ni Kuikomu Inbi na Shitai | 70652 | [70652-kangoku-suieibu-kyouei-mizugi-ni-kuikomu-inbi-na-shitai.json](./70652-kangoku-suieibu-kyouei-mizugi-ni-kuikomu-inbi-na-shitai.json) |
@@ -1145,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenyuu Densetsu Yaiba | 282499 | [282499-kenyuu-densetsu-yaiba.json](./282499-kenyuu-densetsu-yaiba.json) |
 | Kenyuu Densetsu Yaiba | 282500 | [282500-kenyuu-densetsu-yaiba.json](./282500-kenyuu-densetsu-yaiba.json) |
 | Keo | 168124 | [168124-keo.json](./168124-keo.json) |
+| Keomtuseu Peuroyagu V22 | 215844 | [215844-keomtuseu-peuroyagu-v22.json](./215844-keomtuseu-peuroyagu-v22.json) |
 | Kepler Galaxy Wars: Rebel Alliance Mission | 99981 | [99981-kepler-galaxy-wars-rebel-alliance-mission.json](./99981-kepler-galaxy-wars-rebel-alliance-mission.json) |
 | Keplerth | 95587 | [95587-keplerth.json](./95587-keplerth.json) |
 | Kept Man Life | 56145 | [56145-kept-man-life.json](./56145-kept-man-life.json) |
