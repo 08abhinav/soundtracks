@@ -4318,6 +4318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecha | 336622 | [336622-mecha.json](./336622-mecha.json) |
 | Mecha Ace | 17745 | [17745-mecha-ace.json](./17745-mecha-ace.json) |
 | Mecha Arena | 321494 | [321494-mecha-arena.json](./321494-mecha-arena.json) |
+| Mecha Attack | 214103 | [214103-mecha-attack.json](./214103-mecha-attack.json) |
 | Mecha Jump | 365786 | [365786-mecha-jump.json](./365786-mecha-jump.json) |
 | Mecha Knights: Nightmare | 125202 | [125202-mecha-knights-nightmare.json](./125202-mecha-knights-nightmare.json) |
 | Mecha Knights: Nightmare 2 | 377069 | [377069-mecha-knights-nightmare-2.json](./377069-mecha-knights-nightmare-2.json) |
@@ -5347,6 +5348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meikyuu no Dollpolis | 268926 | [268926-meikyuu-no-dollpolis.json](./268926-meikyuu-no-dollpolis.json) |
 | Meikyuu Ryuuki | 284319 | [284319-meikyuu-ryuuki.json](./284319-meikyuu-ryuuki.json) |
 | Meikyuu Xross Blood | 25664 | [25664-meikyuu-xross-blood.json](./25664-meikyuu-xross-blood.json) |
+| Meiling to Cirno no Yokai no Yama Daibouken | 214138 | [214138-meiling-to-cirno-no-yokai-no-yama-daibouken.json](./214138-meiling-to-cirno-no-yokai-no-yama-daibouken.json) |
 | MeiMeiDance | 55672 | [55672-meimeidance.json](./55672-meimeidance.json) |
 | Meimetsu | 355209 | [355209-meimetsu.json](./355209-meimetsu.json) |
 | Mèimó de Màoxiǎn Shēnghuó | 164277 | [164277-meimo-de-maoxian-shenghuo.json](./164277-meimo-de-maoxian-shenghuo.json) |
