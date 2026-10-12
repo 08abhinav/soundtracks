@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Hammerin' | 50708 | [50708-happy-hammerin.json](./50708-happy-hammerin.json) |
 | Happy Hangover | 272005 | [272005-happy-hangover.json](./272005-happy-hangover.json) |
 | Happy Happy Clover | 70635 | [70635-happy-happy-clover.json](./70635-happy-happy-clover.json) |
+| Happy Happy Land | 222792 | [222792-happy-happy-land.json](./222792-happy-happy-land.json) |
 | Happy Harvest | 394106 | [394106-happy-harvest.json](./394106-happy-harvest.json) |
 | Happy Harvest! | 255797 | [255797-happy-harvest.json](./255797-happy-harvest.json) |
 | Happy Hike | 336557 | [336557-happy-hike.json](./336557-happy-hike.json) |
@@ -2651,6 +2652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellcat Ace | 25042 | [25042-hellcat-ace.json](./25042-hellcat-ace.json) |
 | Hellcats: Missions at Leyte Gulf | 337196 | [337196-hellcats-missions-at-leyte-gulf.json](./337196-hellcats-missions-at-leyte-gulf.json) |
 | Hellcome | 241288 | [241288-hellcome.json](./241288-hellcome.json) |
+| HellCopter | 223071 | [223071-hellcopter.json](./223071-hellcopter.json) |
 | Hellcrackers | 371629 | [371629-hellcrackers.json](./371629-hellcrackers.json) |
 | Hellcrossing | 245797 | [245797-hellcrossing.json](./245797-hellcrossing.json) |
 | Hellcrown | 412367 | [412367-hellcrown.json](./412367-hellcrown.json) |
@@ -3023,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Beauty | 226172 | [226172-hentai-beauty.json](./226172-hentai-beauty.json) |
 | Hentai Bikini | 301661 | [301661-hentai-bikini.json](./301661-hentai-bikini.json) |
 | Hentai Bikini | 387660 | [387660-hentai-bikini.json](./387660-hentai-bikini.json) |
+| Hentai Bodysuit | 223067 | [223067-hentai-bodysuit.json](./223067-hentai-bodysuit.json) |
 | Hentai Boy | 149427 | [149427-hentai-boy.json](./149427-hentai-boy.json) |
 | Hentai Breeding Simulator | 309474 | [309474-hentai-breeding-simulator.json](./309474-hentai-breeding-simulator.json) |
 | Hentai Brick Breaker 2 | 161162 | [161162-hentai-brick-breaker-2.json](./161162-hentai-brick-breaker-2.json) |
@@ -3483,6 +3486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her Pound of Flesh | 139386 | [139386-her-pound-of-flesh.json](./139386-her-pound-of-flesh.json) |
 | Her Shoes | 301822 | [301822-her-shoes.json](./301822-her-shoes.json) |
 | Her Sign | 183390 | [183390-her-sign.json](./183390-her-sign.json) |
+| Her Trees: First Puzzle | 222793 | [222793-her-trees-first-puzzle.json](./222793-her-trees-first-puzzle.json) |
 | Her Trees: The Puzzle House | 285920 | [285920-her-trees-the-puzzle-house.json](./285920-her-trees-the-puzzle-house.json) |
 | Her War | 135752 | [135752-her-war.json](./135752-her-war.json) |
 | Her World | 218401 | [218401-her-world.json](./218401-her-world.json) |
@@ -5015,6 +5019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hinge VR | 141170 | [141170-hinge-vr.json](./141170-hinge-vr.json) |
 | Hinge VR | 161722 | [161722-hinge-vr.json](./161722-hinge-vr.json) |
 | Hinokakera the Fragments of Innocent Sinner | 64642 | [64642-hinokakera-the-fragments-of-innocent-sinner.json](./64642-hinokakera-the-fragments-of-innocent-sinner.json) |
+| Hinoken | 222794 | [222794-hinoken.json](./222794-hinoken.json) |
 | Hinomaruko | 122404 | [122404-hinomaruko.json](./122404-hinomaruko.json) |
 | Hinter Gittern Vol. II | 100143 | [100143-hinter-gittern-vol-ii.json](./100143-hinter-gittern-vol-ii.json) |
 | Hinterhalt | 74477 | [74477-hinterhalt.json](./74477-hinterhalt.json) |
