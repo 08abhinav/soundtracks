@@ -5396,6 +5396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Wind | 72920 | [72920-shining-wind.json](./72920-shining-wind.json) |
 | Shinjatta Kanojo | 251614 | [251614-shinjatta-kanojo.json](./251614-shinjatta-kanojo.json) |
 | Shinjuku Anomaly | 386407 | [386407-shinjuku-anomaly.json](./386407-shinjuku-anomaly.json) |
+| Shinjuku Dungeon | 222471 | [222471-shinjuku-dungeon.json](./222471-shinjuku-dungeon.json) |
 | Shinjuku no Okami | 70573 | [70573-shinjuku-no-okami.json](./70573-shinjuku-no-okami.json) |
 | Shinjuku Soumei | 261212 | [261212-shinjuku-soumei.json](./261212-shinjuku-soumei.json) |
 | Shinkan Senshi Eris no Bouken | 97379 | [97379-shinkan-senshi-eris-no-bouken.json](./97379-shinkan-senshi-eris-no-bouken.json) |
@@ -11609,6 +11610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soreyuke Ebisumaru: Karakuri Meiro - Kieta Goemon no Nazo | 44446 | [44446-soreyuke-ebisumaru-karakuri-meiro-kieta-goemon-no-nazo.json](./44446-soreyuke-ebisumaru-karakuri-meiro-kieta-goemon-no-nazo.json) |
 | Soreyuke!! Kid: Go! Go! Kid | 64507 | [64507-soreyuke-kid-go-go-kid.json](./64507-soreyuke-kid-go-go-kid.json) |
 | Sorgina: A Tale of Witches | 36460 | [36460-sorgina-a-tale-of-witches.json](./36460-sorgina-a-tale-of-witches.json) |
+| Soroban Anzan Flash Anzan Kanzenban | 222472 | [222472-soroban-anzan-flash-anzan-kanzenban.json](./222472-soroban-anzan-flash-anzan-kanzenban.json) |
 | Soroban Gu | 37318 | [37318-soroban-gu.json](./37318-soroban-gu.json) |
 | Sorority Panty Raid | 337138 | [337138-sorority-panty-raid.json](./337138-sorority-panty-raid.json) |
 | Sorrow Asylum | 259621 | [259621-sorrow-asylum.json](./259621-sorrow-asylum.json) |
@@ -13152,6 +13154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spec Ops: Ranger Team Bravo | 9341 | [9341-spec-ops-ranger-team-bravo.json](./9341-spec-ops-ranger-team-bravo.json) |
 | Spec Ops: Rangers Lead the Way | 9340 | [9340-spec-ops-rangers-lead-the-way.json](./9340-spec-ops-rangers-lead-the-way.json) |
 | Spec Ops: Stealth Patrol | 9343 | [9343-spec-ops-stealth-patrol.json](./9343-spec-ops-stealth-patrol.json) |
+| Spec: Kan | 222478 | [222478-spec-kan.json](./222478-spec-kan.json) |
 | Special Agent CyberDuck | 199983 | [199983-special-agent-cyberduck.json](./199983-special-agent-cyberduck.json) |
 | Special Agent Training | 401616 | [401616-special-agent-training.json](./401616-special-agent-training.json) |
 | Special Agent: Aigis Pink | 407446 | [407446-special-agent-aigis-pink.json](./407446-special-agent-aigis-pink.json) |
@@ -13878,6 +13881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spine Lasher | 368057 | [368057-spine-lasher.json](./368057-spine-lasher.json) |
 | Spinera | 338892 | [338892-spinera.json](./338892-spinera.json) |
 | Spineworld | 209494 | [209494-spineworld.json](./209494-spineworld.json) |
+| Spinfrog: All Aboard the Frogcopter | 222461 | [222461-spinfrog-all-aboard-the-frogcopter.json](./222461-spinfrog-all-aboard-the-frogcopter.json) |
 | Sping | 145442 | [145442-sping.json](./145442-sping.json) |
 | Spingenuity | 390090 | [390090-spingenuity.json](./390090-spingenuity.json) |
 | SpinGhost | 336712 | [336712-spinghost.json](./336712-spinghost.json) |
