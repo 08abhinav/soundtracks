@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oblivion Congee | 183579 | [183579-oblivion-congee.json](./183579-oblivion-congee.json) |
 | Oblivion Dreams | 375412 | [375412-oblivion-dreams.json](./375412-oblivion-dreams.json) |
 | Oblivion Eagle | 231795 | [231795-oblivion-eagle.json](./231795-oblivion-eagle.json) |
+| Oblivion Eclipse | 216976 | [216976-oblivion-eclipse.json](./216976-oblivion-eclipse.json) |
 | Oblivion Maiden | 407419 | [407419-oblivion-maiden.json](./407419-oblivion-maiden.json) |
 | Oblivion Tesseract VR | 29708 | [29708-oblivion-tesseract-vr.json](./29708-oblivion-tesseract-vr.json) |
 | Oblivious Garden: Carmina Burana - Oblivious Garden: White Day | 171914 | [171914-oblivious-garden-carmina-burana-oblivious-garden-white-day.json](./171914-oblivious-garden-carmina-burana-oblivious-garden-white-day.json) |
@@ -1313,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On the Keyboard | 316827 | [316827-on-the-keyboard.json](./316827-on-the-keyboard.json) |
 | On the Move | 290329 | [290329-on-the-move.json](./290329-on-the-move.json) |
 | On the Other Side | 247927 | [247927-on-the-other-side.json](./247927-on-the-other-side.json) |
+| On the Peril of Parrots | 216968 | [216968-on-the-peril-of-parrots.json](./216968-on-the-peril-of-parrots.json) |
 | On the Road | 179664 | [179664-on-the-road.json](./179664-on-the-road.json) |
 | On the Run | 361697 | [361697-on-the-run.json](./361697-on-the-run.json) |
 | On the Trail of the Whitetail | 127993 | [127993-on-the-trail-of-the-whitetail.json](./127993-on-the-trail-of-the-whitetail.json) |
@@ -2013,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ono: Fast Card Game Fun | 86715 | [86715-ono-fast-card-game-fun.json](./86715-ono-fast-card-game-fun.json) |
 | Onohi | 201634 | [201634-onohi.json](./201634-onohi.json) |
 | Onoow | 298039 | [298039-onoow.json](./298039-onoow.json) |
+| OnOrbit: Virtual Space Lab | 216929 | [216929-onorbit-virtual-space-lab.json](./216929-onorbit-virtual-space-lab.json) |
 | Onraid | 31752 | [31752-onraid.json](./31752-onraid.json) |
 | Onryo | 132270 | [132270-onryo.json](./132270-onryo.json) |
 | Onryou Senki | 77561 | [77561-onryou-senki.json](./77561-onryou-senki.json) |
@@ -2093,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oozin' in Space! | 179552 | [179552-oozin-in-space.json](./179552-oozin-in-space.json) |
 | Oozing Blasphemy | 271241 | [271241-oozing-blasphemy.json](./271241-oozing-blasphemy.json) |
 | Oozing Islands | 165685 | [165685-oozing-islands.json](./165685-oozing-islands.json) |
+| OP. After-Mass N1 | 216967 | [216967-op-after-mass-n1.json](./216967-op-after-mass-n1.json) |
 | OPA: Super Janken | 341513 | [341513-opa-super-janken.json](./341513-opa-super-janken.json) |
 | Opal's Quest | 64917 | [64917-opals-quest.json](./64917-opals-quest.json) |
 | Opaldune | 288787 | [288787-opaldune.json](./288787-opaldune.json) |
@@ -2505,6 +2509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orc Massage | 127920 | [127920-orc-massage.json](./127920-orc-massage.json) |
 | Orc Survivor | 272736 | [272736-orc-survivor.json](./272736-orc-survivor.json) |
 | Orc vs. Undead | 191062 | [191062-orc-vs-undead.json](./191062-orc-vs-undead.json) |
+| Orc Warchief: Strategy City Builder | 216966 | [216966-orc-warchief-strategy-city-builder.json](./216966-orc-warchief-strategy-city-builder.json) |
 | Orca | 301336 | [301336-orca.json](./301336-orca.json) |
 | Orch Star | 76615 | [76615-orch-star.json](./76615-orch-star.json) |
 | Orchard | 92511 | [92511-orchard.json](./92511-orchard.json) |
@@ -2872,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Othello World | 42515 | [42515-othello-world.json](./42515-othello-world.json) |
 | Other | 197274 | [197274-other.json](./197274-other.json) |
 | Other Minds | 183051 | [183051-other-minds.json](./183051-other-minds.json) |
+| Other People's Fiancee Became My Woman | 216965 | [216965-other-peoples-fiancee-became-my-woman.json](./216965-other-peoples-fiancee-became-my-woman.json) |
 | Other Side | 126455 | [126455-other-side.json](./126455-other-side.json) |
 | Other Side Of Mist And Mountain | 278108 | [278108-other-side-of-mist-and-mountain.json](./278108-other-side-of-mist-and-mountain.json) |
 | Other Spheres | 388316 | [388316-other-spheres.json](./388316-other-spheres.json) |
@@ -3119,6 +3125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Bounds | 357728 | [357728-out-of-bounds.json](./357728-out-of-bounds.json) |
 | Out of Brakes: Endless Racer | 232155 | [232155-out-of-brakes-endless-racer.json](./232155-out-of-brakes-endless-racer.json) |
 | Out Of Cash (Sin Blanca) | 379897 | [379897-out-of-cash-sin-blanca.json](./379897-out-of-cash-sin-blanca.json) |
+| Out of Control | 216960 | [216960-out-of-control.json](./216960-out-of-control.json) |
 | Out of Control | 40775 | [40775-out-of-control.json](./40775-out-of-control.json) |
 | Out of Control: Space Survival Bundle: Ctrl Alt Ego + Tin Can: Supporter Edition | 331483 | [331483-out-of-control-space-survival-bundle-ctrl-alt-ego-tin-can-supporter-edition.json](./331483-out-of-control-space-survival-bundle-ctrl-alt-ego-tin-can-supporter-edition.json) |
 | Out of Coverage | 116266 | [116266-out-of-coverage.json](./116266-out-of-coverage.json) |
@@ -3134,6 +3141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Hand: Deluxe | 330138 | [330138-out-of-hand-deluxe.json](./330138-out-of-hand-deluxe.json) |
 | Out of Hands | 211231 | [211231-out-of-hands.json](./211231-out-of-hands.json) |
 | Out of Hell | 218655 | [218655-out-of-hell.json](./218655-out-of-hell.json) |
+| Out of Jail | 216963 | [216963-out-of-jail.json](./216963-out-of-jail.json) |
 | Out Of Memories | 320933 | [320933-out-of-memories.json](./320933-out-of-memories.json) |
 | Out Of Mind | 287731 | [287731-out-of-mind.json](./287731-out-of-mind.json) |
 | Out of Moves: Another Try | 359985 | [359985-out-of-moves-another-try.json](./359985-out-of-moves-another-try.json) |
@@ -3342,6 +3350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaw City | 324686 | [324686-outlaw-city.json](./324686-outlaw-city.json) |
 | Outlaw City: Dark Past | 324685 | [324685-outlaw-city-dark-past.json](./324685-outlaw-city-dark-past.json) |
 | Outlaw Cowboy | 321511 | [321511-outlaw-cowboy.json](./321511-outlaw-cowboy.json) |
+| Outlaw Driver Simulator | 216961 | [216961-outlaw-driver-simulator.json](./216961-outlaw-driver-simulator.json) |
 | Outlaw Golf 2 | 3437 | [3437-outlaw-golf-2.json](./3437-outlaw-golf-2.json) |
 | Outlaw Golf: 9 More Holes of X-Mas | 47311 | [47311-outlaw-golf-9-more-holes-of-x-mas.json](./47311-outlaw-golf-9-more-holes-of-x-mas.json) |
 | Outlaw Golf: Holiday Golf | 78687 | [78687-outlaw-golf-holiday-golf.json](./78687-outlaw-golf-holiday-golf.json) |
@@ -3355,6 +3364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaws + A Handful of Missions | 112809 | [112809-outlaws-a-handful-of-missions.json](./112809-outlaws-a-handful-of-missions.json) |
 | Outlaws of the Old West | 115549 | [115549-outlaws-of-the-old-west.json](./115549-outlaws-of-the-old-west.json) |
 | Outlets Rush | 297247 | [297247-outlets-rush.json](./297247-outlets-rush.json) |
+| Outline Dust | 216962 | [216962-outline-dust.json](./216962-outline-dust.json) |
 | Outlive | 243234 | [243234-outlive.json](./243234-outlive.json) |
 | Outliver: Redemption | 113665 | [113665-outliver-redemption.json](./113665-outliver-redemption.json) |
 | Outliver: Tribulation | 129234 | [129234-outliver-tribulation.json](./129234-outliver-tribulation.json) |
@@ -3692,6 +3702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overworked | 408180 | [408180-overworked.json](./408180-overworked.json) |
 | Overworked Alice | 289226 | [289226-overworked-alice.json](./289226-overworked-alice.json) |
 | Overworld | 139291 | [139291-overworld.json](./139291-overworld.json) |
+| Overworld Heroes | 216964 | [216964-overworld-heroes.json](./216964-overworld-heroes.json) |
 | Overwrite | 145926 | [145926-overwrite.json](./145926-overwrite.json) |
 | Overwritten: Defeat the Net | 224630 | [224630-overwritten-defeat-the-net.json](./224630-overwritten-defeat-the-net.json) |
 | OviPets | 225715 | [225715-ovipets.json](./225715-ovipets.json) |
