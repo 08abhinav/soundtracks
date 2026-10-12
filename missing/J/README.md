@@ -1802,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey Through the Undead | 348198 | [348198-journey-through-the-undead.json](./348198-journey-through-the-undead.json) |
 | Journey To Bethlehem: Fig Run | 275580 | [275580-journey-to-bethlehem-fig-run.json](./275580-journey-to-bethlehem-fig-run.json) |
 | Journey to Chaos: Pilgrimage to the West | 355218 | [355218-journey-to-chaos-pilgrimage-to-the-west.json](./355218-journey-to-chaos-pilgrimage-to-the-west.json) |
+| Journey to Destiny | 214674 | [214674-journey-to-destiny.json](./214674-journey-to-destiny.json) |
 | Journey to die | 327341 | [327341-journey-to-die.json](./327341-journey-to-die.json) |
 | Journey to Earth | 302921 | [302921-journey-to-earth.json](./302921-journey-to-earth.json) |
 | Journey to Entorus | 215178 | [215178-journey-to-entorus.json](./215178-journey-to-entorus.json) |
