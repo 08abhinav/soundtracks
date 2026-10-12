@@ -898,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Symphonia | 221717 | [221717-tales-of-symphonia.json](./221717-tales-of-symphonia.json) |
 | Tales of Symphonia Remastered | 217564 | [217564-tales-of-symphonia-remastered.json](./217564-tales-of-symphonia-remastered.json) |
 | Tales of Symphonia: Dawn of the New World | 222629 | [222629-tales-of-symphonia-dawn-of-the-new-world.json](./222629-tales-of-symphonia-dawn-of-the-new-world.json) |
+| Tales of Tarium: Awakening from the Ashes | 213538 | [213538-tales-of-tarium-awakening-from-the-ashes.json](./213538-tales-of-tarium-awakening-from-the-ashes.json) |
 | Tales of Terrabanthis | 237301 | [237301-tales-of-terrabanthis.json](./237301-tales-of-terrabanthis.json) |
 | Tales of Terror: Estate of the Heart | 19209 | [19209-tales-of-terror-estate-of-the-heart.json](./19209-tales-of-terror-estate-of-the-heart.json) |
 | Tales of Terror: House on the Hill | 139428 | [139428-tales-of-terror-house-on-the-hill.json](./139428-tales-of-terror-house-on-the-hill.json) |
@@ -2514,6 +2515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of Boonil | 198562 | [198562-temple-of-boonil.json](./198562-temple-of-boonil.json) |
 | Temple of Chaos 2: Warped Reality | 313168 | [313168-temple-of-chaos-2-warped-reality.json](./313168-temple-of-chaos-2-warped-reality.json) |
 | Temple of Darkness | 247529 | [247529-temple-of-darkness.json](./247529-temple-of-darkness.json) |
+| Temple of Horror | 213535 | [213535-temple-of-horror.json](./213535-temple-of-horror.json) |
 | Temple of Hue | 149533 | [149533-temple-of-hue.json](./149533-temple-of-hue.json) |
 | Temple of Kroz | 84200 | [84200-temple-of-kroz.json](./84200-temple-of-kroz.json) |
 | Temple of Lily | 304873 | [304873-temple-of-lily.json](./304873-temple-of-lily.json) |
@@ -13019,6 +13021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Finger Battle Arena | 192965 | [192965-three-finger-battle-arena.json](./192965-three-finger-battle-arena.json) |
 | Three Foreign Sisters!! | 379352 | [379352-three-foreign-sisters.json](./379352-three-foreign-sisters.json) |
 | Three Fourths Home: Extended Edition | 20957 | [20957-three-fourths-home-extended-edition.json](./20957-three-fourths-home-extended-edition.json) |
+| Three Fourths Home: Extended Edition - Deluxe | 213581 | [213581-three-fourths-home-extended-edition-deluxe.json](./213581-three-fourths-home-extended-edition-deluxe.json) |
 | Three Games | 178427 | [178427-three-games.json](./178427-three-games.json) |
 | Three Ghostly Roses | 124588 | [124588-three-ghostly-roses.json](./124588-three-ghostly-roses.json) |
 | Three Glyph Tiles | 256307 | [256307-three-glyph-tiles.json](./256307-three-glyph-tiles.json) |
@@ -13289,6 +13292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thy Dungeonman II | 135846 | [135846-thy-dungeonman-ii.json](./135846-thy-dungeonman-ii.json) |
 | Thy Knights of Climbalot | 109675 | [109675-thy-knights-of-climbalot.json](./109675-thy-knights-of-climbalot.json) |
 | Thymesia | 145028 | [145028-thymesia.json](./145028-thymesia.json) |
+| Thymesia: Cloud Version | 213562 | [213562-thymesia-cloud-version.json](./213562-thymesia-cloud-version.json) |
 | Thymesia: Digital Deluxe Edition | 213994 | [213994-thymesia-digital-deluxe-edition.json](./213994-thymesia-digital-deluxe-edition.json) |
 | Thyranya | 329134 | [329134-thyranya.json](./329134-thyranya.json) |
 | Thysiastery | 334695 | [334695-thysiastery.json](./334695-thysiastery.json) |
@@ -16781,6 +16785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totonoi Simulator | 325450 | [325450-totonoi-simulator.json](./325450-totonoi-simulator.json) |
 | Tots Town - House | 97151 | [97151-tots-town-house.json](./97151-tots-town-house.json) |
 | Totsugeki 64 | 203396 | [203396-totsugeki-64.json](./203396-totsugeki-64.json) |
+| Totsugeki! Mix | 213551 | [213551-totsugeki-mix.json](./213551-totsugeki-mix.json) |
 | Totsugeki! Pappara-tai | 282680 | [282680-totsugeki-pappara-tai.json](./282680-totsugeki-pappara-tai.json) |
 | Tottemo E Mahjong | 256902 | [256902-tottemo-e-mahjong.json](./256902-tottemo-e-mahjong.json) |
 | Tottemo E Mahjong Plus | 62115 | [62115-tottemo-e-mahjong-plus.json](./62115-tottemo-e-mahjong-plus.json) |
