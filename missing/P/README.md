@@ -7335,6 +7335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Winds | 393105 | [393105-pokemon-winds.json](./393105-pokemon-winds.json) |
 | Pokémon Yellow Legacy | 300522 | [300522-pokemon-yellow-legacy.json](./300522-pokemon-yellow-legacy.json) |
 | Pokémon: A Farfetch'd Story | 289581 | [289581-pokemon-a-farfetchd-story.json](./289581-pokemon-a-farfetchd-story.json) |
+| Pokémon: A Grand Day Out | 215854 | [215854-pokemon-a-grand-day-out.json](./215854-pokemon-a-grand-day-out.json) |
 | Pokémon: A Star in the Desert | 360191 | [360191-pokemon-a-star-in-the-desert.json](./360191-pokemon-a-star-in-the-desert.json) |
 | Pokémon: Abstract Version | 281477 | [281477-pokemon-abstract-version.json](./281477-pokemon-abstract-version.json) |
 | Pokémon: Battle Factory | 339247 | [339247-pokemon-battle-factory.json](./339247-pokemon-battle-factory.json) |
@@ -7636,6 +7637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Jigsaw: Predators | 388262 | [388262-poly-jigsaw-predators.json](./388262-poly-jigsaw-predators.json) |
 | Poly Jigsaw: Primates | 280474 | [280474-poly-jigsaw-primates.json](./280474-poly-jigsaw-primates.json) |
 | Poly Kingdom: Siege | 270947 | [270947-poly-kingdom-siege.json](./270947-poly-kingdom-siege.json) |
+| Poly Link: Battle Heroes | 215879 | [215879-poly-link-battle-heroes.json](./215879-poly-link-battle-heroes.json) |
 | Poly Link: RPG Girls | 215397 | [215397-poly-link-rpg-girls.json](./215397-poly-link-rpg-girls.json) |
 | Poly Match | 266267 | [266267-poly-match.json](./266267-poly-match.json) |
 | Poly Memory: Birds | 195786 | [195786-poly-memory-birds.json](./195786-poly-memory-birds.json) |
@@ -9416,6 +9418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pristine world | 32978 | [32978-pristine-world.json](./32978-pristine-world.json) |
 | Pristine World: Deluxe Edition | 53474 | [53474-pristine-world-deluxe-edition.json](./53474-pristine-world-deluxe-edition.json) |
 | Pristiq: Tash's Trilogy | 169260 | [169260-pristiq-tashs-trilogy.json](./169260-pristiq-tashs-trilogy.json) |
+| Priston Tale M | 215839 | [215839-priston-tale-m.json](./215839-priston-tale-m.json) |
 | Pristontale II: The 2nd Enigma | 72657 | [72657-pristontale-ii-the-2nd-enigma.json](./72657-pristontale-ii-the-2nd-enigma.json) |
 | Přítmí: Twilight | 118221 | [118221-pritmi-twilight.json](./118221-pritmi-twilight.json) |
 | Priton | 91948 | [91948-priton.json](./91948-priton.json) |
