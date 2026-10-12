@@ -2307,6 +2307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeon Wars Rogue | 223483 | [223483-aeon-wars-rogue.json](./223483-aeon-wars-rogue.json) |
 | Aeon's End | 119854 | [119854-aeons-end.json](./119854-aeons-end.json) |
 | Aeon's End: The Depths | 148507 | [148507-aeons-end-the-depths.json](./148507-aeons-end-the-depths.json) |
+| Aeon's End: The New Age | 193138 | [193138-aeons-end-the-new-age.json](./193138-aeons-end-the-new-age.json) |
 | Aeons Past | 223482 | [223482-aeons-past.json](./223482-aeons-past.json) |
 | Aequitas Orbis | 75064 | [75064-aequitas-orbis.json](./75064-aequitas-orbis.json) |
 | Aequor | 276752 | [276752-aequor.json](./276752-aequor.json) |
@@ -7194,6 +7195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse: The Game | 61615 | [61615-apocalypse-the-game.json](./61615-apocalypse-the-game.json) |
 | Apocalypter | 378318 | [378318-apocalypter.json](./378318-apocalypter.json) |
 | Apocalyptic | 205656 | [205656-apocalyptic.json](./205656-apocalyptic.json) |
+| Apocalyptic Adventure: Episode 1 | 193148 | [193148-apocalyptic-adventure-episode-1.json](./193148-apocalyptic-adventure-episode-1.json) |
 | Apocalyptic Cars War | 334830 | [334830-apocalyptic-cars-war.json](./334830-apocalyptic-cars-war.json) |
 | Apocalyptic Pussy | 367291 | [367291-apocalyptic-pussy.json](./367291-apocalyptic-pussy.json) |
 | Apocalyptic Slant | 192754 | [192754-apocalyptic-slant.json](./192754-apocalyptic-slant.json) |
