@@ -217,6 +217,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nana | 201771 | [201771-nana.json](./201771-nana.json) |
 | Nana Tan | 267395 | [267395-nana-tan.json](./267395-nana-tan.json) |
 | Nana-chan no Star Tanjou | 66131 | [66131-nana-chan-no-star-tanjou.json](./66131-nana-chan-no-star-tanjou.json) |
+| Nanafushigi: Nanase to Fushigi no Otome-dou | 200950 | [200950-nanafushigi-nanase-to-fushigi-no-otome-dou.json](./200950-nanafushigi-nanase-to-fushigi-no-otome-dou.json) |
+| Nanaka: Fushigi no Meikyuuroku | 200951 | [200951-nanaka-fushigi-no-meikyuuroku.json](./200951-nanaka-fushigi-no-meikyuuroku.json) |
 | Nanako Descends to Hell | 39151 | [39151-nanako-descends-to-hell.json](./39151-nanako-descends-to-hell.json) |
 | Nanali in another world | 226195 | [226195-nanali-in-another-world.json](./226195-nanali-in-another-world.json) |
 | Naname de Magic! | 213831 | [213831-naname-de-magic.json](./213831-naname-de-magic.json) |
@@ -3657,6 +3659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nixie | 267690 | [267690-nixie.json](./267690-nixie.json) |
 | Nixxsz Maids Blazing | 292303 | [292303-nixxsz-maids-blazing.json](./292303-nixxsz-maids-blazing.json) |
 | Nixy and the Seeds of Doom | 363459 | [363459-nixy-and-the-seeds-of-doom.json](./363459-nixy-and-the-seeds-of-doom.json) |
+| Njorun's Will | 200930 | [200930-njoruns-will.json](./200930-njoruns-will.json) |
 | Njuma | 287740 | [287740-njuma.json](./287740-njuma.json) |
 | NKCell | 169816 | [169816-nkcell.json](./169816-nkcell.json) |
 | Nkodice | 150587 | [150587-nkodice.json](./150587-nkodice.json) |
