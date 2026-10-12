@@ -10931,7 +10931,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat | 242151 | [242151-mortal-kombat.json](./242151-mortal-kombat.json) |
 | Mortal Kombat | 242237 | [242237-mortal-kombat.json](./242237-mortal-kombat.json) |
 | Mortal Kombat | 242239 | [242239-mortal-kombat.json](./242239-mortal-kombat.json) |
-| Mortal Kombat 1 | 239392 | [239392-mortal-kombat-1.json](./239392-mortal-kombat-1.json) |
 | Mortal Kombat 1 | 272491 | [272491-mortal-kombat-1.json](./272491-mortal-kombat-1.json) |
 | Mortal Kombat 1: Conan the Barbarian | 312343 | [312343-mortal-kombat-1-conan-the-barbarian.json](./312343-mortal-kombat-1-conan-the-barbarian.json) |
 | Mortal Kombat 1: Cyrax | 312332 | [312332-mortal-kombat-1-cyrax.json](./312332-mortal-kombat-1-cyrax.json) |
