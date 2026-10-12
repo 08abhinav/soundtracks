@@ -1985,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only You: Re-Cross | 269643 | [269643-only-you-re-cross.json](./269643-only-you-re-cross.json) |
 | OnlyCans: Thirst Date | 142461 | [142461-onlycans-thirst-date.json](./142461-onlycans-thirst-date.json) |
 | OnlyFap Simulator 2 | 209657 | [209657-onlyfap-simulator-2.json](./209657-onlyfap-simulator-2.json) |
+| OnlyFap Simulator 3 | 223066 | [223066-onlyfap-simulator-3.json](./223066-onlyfap-simulator-3.json) |
 | OnlyFap Simulator 4 | 224790 | [224790-onlyfap-simulator-4.json](./224790-onlyfap-simulator-4.json) |
 | OnlyFap Simulator 6 | 236178 | [236178-onlyfap-simulator-6.json](./236178-onlyfap-simulator-6.json) |
 | OnlyFuck 2: Scarlett | 173831 | [173831-onlyfuck-2-scarlett.json](./173831-onlyfuck-2-scarlett.json) |
