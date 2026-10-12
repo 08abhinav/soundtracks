@@ -936,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Boltgun Boom | 402507 | [402507-warhammer-40-000-boltgun-boom.json](./402507-warhammer-40-000-boltgun-boom.json) |
 | Warhammer 40,000: Chaos Gate - Daemonhunters | 152266 | [152266-warhammer-40-000-chaos-gate-daemonhunters.json](./152266-warhammer-40-000-chaos-gate-daemonhunters.json) |
 | Warhammer 40,000: Chaos Gate - Daemonhunters: Castellan - Garran Crowe | 303284 | [303284-warhammer-40-000-chaos-gate-daemonhunters-castellan-garran-crowe.json](./303284-warhammer-40-000-chaos-gate-daemonhunters-castellan-garran-crowe.json) |
+| Warhammer 40,000: Chaos Gate - Daemonhunters: Castellan Champion Edition | 193689 | [193689-warhammer-40-000-chaos-gate-daemonhunters-castellan-champion-edition.json](./193689-warhammer-40-000-chaos-gate-daemonhunters-castellan-champion-edition.json) |
 | Warhammer 40,000: Chaos Gate - Deathwatch | 402517 | [402517-warhammer-40-000-chaos-gate-deathwatch.json](./402517-warhammer-40-000-chaos-gate-deathwatch.json) |
 | Warhammer 40,000: Dakka Squadron | 143650 | [143650-warhammer-40-000-dakka-squadron.json](./143650-warhammer-40-000-dakka-squadron.json) |
 | Warhammer 40,000: Dakka Squadron - Flyboyz Edition | 143648 | [143648-warhammer-40-000-dakka-squadron-flyboyz-edition.json](./143648-warhammer-40-000-dakka-squadron-flyboyz-edition.json) |
@@ -3606,6 +3607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Williams Pinball: The Champion Pub | 354459 | [354459-williams-pinball-the-champion-pub.json](./354459-williams-pinball-the-champion-pub.json) |
 | Williams Pinball: The Getaway - High Speed II | 354453 | [354453-williams-pinball-the-getaway-high-speed-ii.json](./354453-williams-pinball-the-getaway-high-speed-ii.json) |
 | Williams Pinball: Theatre of Magic | 354458 | [354458-williams-pinball-theatre-of-magic.json](./354458-williams-pinball-theatre-of-magic.json) |
+| Willian the Game | 193699 | [193699-willian-the-game.json](./193699-willian-the-game.json) |
 | Willo | 179746 | [179746-willo.json](./179746-willo.json) |
 | Willow | 74395 | [74395-willow.json](./74395-willow.json) |
 | Willow Guard | 265256 | [265256-willow-guard.json](./265256-willow-guard.json) |
