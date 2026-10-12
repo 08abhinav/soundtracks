@@ -6503,6 +6503,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clock Tower Madness | 386273 | [386273-clock-tower-madness.json](./386273-clock-tower-madness.json) |
 | Clock Tower: Rewind | 256465 | [256465-clock-tower-rewind.json](./256465-clock-tower-rewind.json) |
 | Clock World | 398579 | [398579-clock-world.json](./398579-clock-world.json) |
+| Clock Zero: Shuuen no Ichibyou - Devote | 202593 | [202593-clock-zero-shuuen-no-ichibyou-devote.json](./202593-clock-zero-shuuen-no-ichibyou-devote.json) |
+| Clock Zero: Shuuen no Ichibyou - ExTime | 202592 | [202592-clock-zero-shuuen-no-ichibyou-extime.json](./202592-clock-zero-shuuen-no-ichibyou-extime.json) |
+| Clock Zero: Shuuen no Ichibyou Portable | 202591 | [202591-clock-zero-shuuen-no-ichibyou-portable.json](./202591-clock-zero-shuuen-no-ichibyou-portable.json) |
 | Clocked | 284827 | [284827-clocked.json](./284827-clocked.json) |
 | Clockfall | 391888 | [391888-clockfall.json](./391888-clockfall.json) |
 | Clocks | 41369 | [41369-clocks.json](./41369-clocks.json) |
