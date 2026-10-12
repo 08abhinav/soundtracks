@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warage | 155500 | [155500-warage.json](./155500-warage.json) |
 | Warage: Necromancer Campaign | 155501 | [155501-warage-necromancer-campaign.json](./155501-warage-necromancer-campaign.json) |
 | Waratte Iitomo! Tamorinpic | 37768 | [37768-waratte-iitomo-tamorinpic.json](./37768-waratte-iitomo-tamorinpic.json) |
+| Warau Ars Notoria | 196531 | [196531-warau-ars-notoria.json](./196531-warau-ars-notoria.json) |
 | Warau Salesman 2 | 239575 | [239575-warau-salesman-2.json](./239575-warau-salesman-2.json) |
 | Warau Salesman 3 | 239576 | [239576-warau-salesman-3.json](./239576-warau-salesman-3.json) |
 | Warauinu no Bouken GB: Silly Go Lucky! | 59400 | [59400-warauinu-no-bouken-gb-silly-go-lucky.json](./59400-warauinu-no-bouken-gb-silly-go-lucky.json) |
@@ -4027,6 +4028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wira | 412232 | [412232-wira.json](./412232-wira.json) |
 | Wiraburut rai Phalang: Khai Tom | 207044 | [207044-wiraburut-rai-phalang-khai-tom.json](./207044-wiraburut-rai-phalang-khai-tom.json) |
 | Wire | 195755 | [195755-wire.json](./195755-wire.json) |
+| Wire | 196541 | [196541-wire.json](./196541-wire.json) |
 | Wire Flying Maid | 129236 | [129236-wire-flying-maid.json](./129236-wire-flying-maid.json) |
 | Wire Throne | 312545 | [312545-wire-throne.json](./312545-wire-throne.json) |
 | Wire up! | 132694 | [132694-wire-up.json](./132694-wire-up.json) |
@@ -4627,6 +4629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Pets Join the Circus | 66734 | [66734-wonder-pets-join-the-circus.json](./66734-wonder-pets-join-the-circus.json) |
 | Wonder Pets!: Save the Puppy! | 205888 | [205888-wonder-pets-save-the-puppy.json](./205888-wonder-pets-save-the-puppy.json) |
 | Wonder Planet | 40245 | [40245-wonder-planet.json](./40245-wonder-planet.json) |
+| Wonder Planets | 196524 | [196524-wonder-planets.json](./196524-wonder-planets.json) |
 | Wonder Protocol | 413467 | [413467-wonder-protocol.json](./413467-wonder-protocol.json) |
 | Wonder Stick | 40162 | [40162-wonder-stick.json](./40162-wonder-stick.json) |
 | Wonder Tactics | 59030 | [59030-wonder-tactics.json](./59030-wonder-tactics.json) |
