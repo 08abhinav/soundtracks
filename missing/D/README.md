@@ -5730,6 +5730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Tamers: Battle Spirit Ver 1.5 | 63935 | [63935-digimon-tamers-battle-spirit-ver-1-5.json](./63935-digimon-tamers-battle-spirit-ver-1-5.json) |
 | Digimon Tamers: Pocket Culumon | 108939 | [108939-digimon-tamers-pocket-culumon.json](./108939-digimon-tamers-pocket-culumon.json) |
 | Digimon Up | 395561 | [395561-digimon-up.json](./395561-digimon-up.json) |
+| Digimon Vital Bracelet Lab | 185990 | [185990-digimon-vital-bracelet-lab.json](./185990-digimon-vital-bracelet-lab.json) |
 | Digimon World | 8614 | [8614-digimon-world.json](./8614-digimon-world.json) |
 | Digimon World 2 Alternative | 322120 | [322120-digimon-world-2-alternative.json](./322120-digimon-world-2-alternative.json) |
 | Digimon World 3 | 19678 | [19678-digimon-world-3.json](./19678-digimon-world-3.json) |
