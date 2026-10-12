@@ -2471,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fellow Moon | 320855 | [320855-fellow-moon.json](./320855-fellow-moon.json) |
 | Fellowship | 258627 | [258627-fellowship.json](./258627-fellowship.json) |
 | Fellowship | 330379 | [330379-fellowship.json](./330379-fellowship.json) |
+| Fellowship Manager | 182165 | [182165-fellowship-manager.json](./182165-fellowship-manager.json) |
 | Felon-E | 302356 | [302356-felon-e.json](./302356-felon-e.json) |
 | Felonian Special Forces | 255161 | [255161-felonian-special-forces.json](./255161-felonian-special-forces.json) |
 | Felony 11-79 | 45078 | [45078-felony-11-79.json](./45078-felony-11-79.json) |
@@ -3406,6 +3407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fleet | 32118 | [32118-final-fleet.json](./32118-final-fleet.json) |
 | Final Flock | 260163 | [260163-final-flock.json](./260163-final-flock.json) |
 | Final Foe | 153955 | [153955-final-foe.json](./153955-final-foe.json) |
+| Final Football Tactics | 182152 | [182152-final-football-tactics.json](./182152-final-football-tactics.json) |
 | Final Forge | 244296 | [244296-final-forge.json](./244296-final-forge.json) |
 | Final Freeway | 257369 | [257369-final-freeway.json](./257369-final-freeway.json) |
 | Final Frog | 301399 | [301399-final-frog.json](./301399-final-frog.json) |
@@ -3861,6 +3863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire in the Goal | 31170 | [31170-fire-in-the-goal.json](./31170-fire-in-the-goal.json) |
 | Fire in the Hole | 381019 | [381019-fire-in-the-hole.json](./381019-fire-in-the-hole.json) |
 | Fire Jump | 390807 | [390807-fire-jump.json](./390807-fire-jump.json) |
+| Fire Lancer | 182186 | [182186-fire-lancer.json](./182186-fire-lancer.json) |
 | Fire Lookout: Abandoned Post | 401664 | [401664-fire-lookout-abandoned-post.json](./401664-fire-lookout-abandoned-post.json) |
 | Fire Man | 247018 | [247018-fire-man.json](./247018-fire-man.json) |
 | Fire Mission | 188349 | [188349-fire-mission.json](./188349-fire-mission.json) |
@@ -5873,6 +5876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foot Odor Girl | 288910 | [288910-foot-odor-girl.json](./288910-foot-odor-girl.json) |
 | Foot Serve | 288904 | [288904-foot-serve.json](./288904-foot-serve.json) |
 | Foot Step | 320951 | [320951-foot-step.json](./320951-foot-step.json) |
+| Foot-Fall! | 182166 | [182166-foot-fall.json](./182166-foot-fall.json) |
 | Foot2Rue Nicolas Anelka | 66988 | [66988-foot2rue-nicolas-anelka.json](./66988-foot2rue-nicolas-anelka.json) |
 | Footage | 302930 | [302930-footage.json](./302930-footage.json) |
 | Footage | 309453 | [309453-footage.json](./309453-footage.json) |
@@ -6016,6 +6020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FootRock | 74735 | [74735-footrock.json](./74735-footrock.json) |
 | FootRock 2 | 29902 | [29902-footrock-2.json](./29902-footrock-2.json) |
 | Footsies Rollback Edition | 139359 | [139359-footsies-rollback-edition.json](./139359-footsies-rollback-edition.json) |
+| FootSkull | 182174 | [182174-footskull.json](./182174-footskull.json) |
 | Footsy | 311139 | [311139-footsy.json](./311139-footsy.json) |
 | Footy Ball Tournament 2018 | 104050 | [104050-footy-ball-tournament-2018.json](./104050-footy-ball-tournament-2018.json) |
 | Footy Bash | 271909 | [271909-footy-bash.json](./271909-footy-bash.json) |
@@ -6150,6 +6155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden: A First's Obsession | 402364 | [402364-forbidden-a-firsts-obsession.json](./402364-forbidden-a-firsts-obsession.json) |
 | ForbiddenEgg | 352382 | [352382-forbiddenegg.json](./352382-forbiddenegg.json) |
 | ForbiddenWord | 242675 | [242675-forbiddenword.json](./242675-forbiddenword.json) |
+| Forbon FC | 182163 | [182163-forbon-fc.json](./182163-forbon-fc.json) |
 | Force Of Guardians | 325736 | [325736-force-of-guardians.json](./325736-force-of-guardians.json) |
 | Force of Nature 2: Ghost Keeper | 150124 | [150124-force-of-nature-2-ghost-keeper.json](./150124-force-of-nature-2-ghost-keeper.json) |
 | Force of Numbers | 309521 | [309521-force-of-numbers.json](./309521-force-of-numbers.json) |
@@ -7850,6 +7856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogatto | 92280 | [92280-frogatto.json](./92280-frogatto.json) |
 | Frogatto & Friends | 343974 | [343974-frogatto-and-friends.json](./343974-frogatto-and-friends.json) |
 | Frogatto & Friends | 343976 | [343976-frogatto-and-friends.json](./343976-frogatto-and-friends.json) |
+| FrogBall | 182169 | [182169-frogball.json](./182169-frogball.json) |
 | Frogbound: The Legend of Sir Hopper | 297898 | [297898-frogbound-the-legend-of-sir-hopper.json](./297898-frogbound-the-legend-of-sir-hopper.json) |
 | Frogenlav: Skyward Bound | 278418 | [278418-frogenlav-skyward-bound.json](./278418-frogenlav-skyward-bound.json) |
 | Frogfall | 305420 | [305420-frogfall.json](./305420-frogfall.json) |
