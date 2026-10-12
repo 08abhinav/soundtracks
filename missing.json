@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T11:04:35.797Z",
-  "total_missing": 201568,
+  "generated_at": "2026-10-12T11:19:22.881Z",
+  "total_missing": 201618,
   "games": [
     {
       "igdb_id": 191680,
@@ -70698,6 +70698,11 @@
       "file": "missing/B/119717-bad-mojos.json"
     },
     {
+      "igdb_id": 203120,
+      "game_name": "Bad Monday Simulator",
+      "file": "missing/B/203120-bad-monday-simulator.json"
+    },
+    {
       "igdb_id": 281368,
       "game_name": "Bad Mothafucka",
       "file": "missing/B/281368-bad-mothafucka.json"
@@ -87783,6 +87788,11 @@
       "file": "missing/B/257852-ben-10-power-of-the-omnitrix.json"
     },
     {
+      "igdb_id": 203149,
+      "game_name": "Ben 10: Power Splash",
+      "file": "missing/B/203149-ben-10-power-splash.json"
+    },
+    {
       "igdb_id": 136659,
       "game_name": "Ben 10: Power Trip",
       "file": "missing/B/136659-ben-10-power-trip.json"
@@ -95491,6 +95501,11 @@
       "igdb_id": 311248,
       "game_name": "Bitsy Bits: The Secret of Magic",
       "file": "missing/B/311248-bitsy-bits-the-secret-of-magic.json"
+    },
+    {
+      "igdb_id": 203130,
+      "game_name": "Bitsy Mystery Dungeon",
+      "file": "missing/B/203130-bitsy-mystery-dungeon.json"
     },
     {
       "igdb_id": 319756,
@@ -189293,6 +189308,11 @@
       "file": "missing/C/12394-cute-things-dying-violently.json"
     },
     {
+      "igdb_id": 203148,
+      "game_name": "Cute Train",
+      "file": "missing/C/203148-cute-train.json"
+    },
+    {
       "igdb_id": 148540,
       "game_name": "Cute Triplets",
       "file": "missing/C/148540-cute-triplets.json"
@@ -203811,6 +203831,11 @@
       "igdb_id": 336123,
       "game_name": "Dead Weight",
       "file": "missing/D/336123-dead-weight.json"
+    },
+    {
+      "igdb_id": 203102,
+      "game_name": "Dead Wife Game",
+      "file": "missing/D/203102-dead-wife-game.json"
     },
     {
       "igdb_id": 394161,
@@ -256256,6 +256281,11 @@
       "igdb_id": 374686,
       "game_name": "Ed, Edd n Eddy: Cul-de-Sac Smash",
       "file": "missing/E/374686-ed-edd-n-eddy-cul-de-sac-smash.json"
+    },
+    {
+      "igdb_id": 203096,
+      "game_name": "Ed, Edd n Eddy: Lunchroom Rumble",
+      "file": "missing/E/203096-ed-edd-n-eddy-lunchroom-rumble.json"
     },
     {
       "igdb_id": 2817,
@@ -438608,6 +438638,11 @@
       "file": "missing/K/321523-kamen-rider-decade.json"
     },
     {
+      "igdb_id": 203125,
+      "game_name": "Kamen Rider Ex-Aid x Chariso",
+      "file": "missing/K/203125-kamen-rider-ex-aid-x-chariso.json"
+    },
+    {
       "igdb_id": 59464,
       "game_name": "Kamen Rider Ghost: Game de Kaigan!!",
       "file": "missing/K/59464-kamen-rider-ghost-game-de-kaigan.json"
@@ -496876,6 +496911,11 @@
       "igdb_id": 238444,
       "game_name": "Mail Mole: 'Xpress Deliveries",
       "file": "missing/M/238444-mail-mole-xpress-deliveries.json"
+    },
+    {
+      "igdb_id": 203098,
+      "game_name": "Mail Mole: Collector's Edition",
+      "file": "missing/M/203098-mail-mole-collectors-edition.json"
     },
     {
       "igdb_id": 25891,
@@ -571958,6 +571998,11 @@
       "file": "missing/N/88130-nexomon.json"
     },
     {
+      "igdb_id": 203097,
+      "game_name": "Nexomon + Nexomon Extinction: Complete Collection",
+      "file": "missing/N/203097-nexomon-nexomon-extinction-complete-collection.json"
+    },
+    {
       "igdb_id": 336563,
       "game_name": "Nexonauts",
       "file": "missing/N/336563-nexonauts.json"
@@ -578051,6 +578096,11 @@
       "igdb_id": 206368,
       "game_name": "Nintendo Mini Classics: Super Mario Bros.",
       "file": "missing/N/206368-nintendo-mini-classics-super-mario-bros.json"
+    },
+    {
+      "igdb_id": 203115,
+      "game_name": "Nintendo Mini Classics: Tetris",
+      "file": "missing/N/203115-nintendo-mini-classics-tetris.json"
     },
     {
       "igdb_id": 206378,
@@ -641696,6 +641746,11 @@
       "igdb_id": 278078,
       "game_name": "Pokémon: Too Many Types",
       "file": "missing/P/278078-pokemon-too-many-types.json"
+    },
+    {
+      "igdb_id": 203147,
+      "game_name": "Pokémon: Towering Legends",
+      "file": "missing/P/203147-pokemon-towering-legends.json"
     },
     {
       "igdb_id": 203221,
@@ -707823,6 +707878,11 @@
       "file": "missing/R/370765-runaway-princess.json"
     },
     {
+      "igdb_id": 203107,
+      "game_name": "Runaway Robot",
+      "file": "missing/R/203107-runaway-robot.json"
+    },
+    {
       "igdb_id": 252368,
       "game_name": "Runaway Train",
       "file": "missing/R/252368-runaway-train.json"
@@ -744863,9 +744923,19 @@
       "file": "missing/S/64650-simple-1500-series-hello-kitty-vol-04-trump.json"
     },
     {
+      "igdb_id": 203128,
+      "game_name": "Simple 1500 Series Vol. 100: The Uchuu Hikoushi",
+      "file": "missing/S/203128-simple-1500-series-vol-100-the-uchuu-hikoushi.json"
+    },
+    {
       "igdb_id": 151843,
       "game_name": "Simple 1500 Series Vol. 101: The Sentou",
       "file": "missing/S/151843-simple-1500-series-vol-101-the-sentou.json"
+    },
+    {
+      "igdb_id": 203129,
+      "game_name": "Simple 1500 Series Vol. 103: The Ganso Densha Utenshi - Densha De Go!",
+      "file": "missing/S/203129-simple-1500-series-vol-103-the-ganso-densha-utenshi-densha-de-go.json"
     },
     {
       "igdb_id": 19671,
@@ -744931,6 +745001,36 @@
       "igdb_id": 209500,
       "game_name": "Simple 1500 Series Vol. 77: The Suiei",
       "file": "missing/S/209500-simple-1500-series-vol-77-the-suiei.json"
+    },
+    {
+      "igdb_id": 203119,
+      "game_name": "Simple 1500 Series Vol. 91: The Gambler - Honoo no Tobaku Densetsu",
+      "file": "missing/S/203119-simple-1500-series-vol-91-the-gambler-honoo-no-tobaku-densetsu.json"
+    },
+    {
+      "igdb_id": 203121,
+      "game_name": "Simple 1500 Series Vol. 92: The Tozan RPG",
+      "file": "missing/S/203121-simple-1500-series-vol-92-the-tozan-rpg.json"
+    },
+    {
+      "igdb_id": 203124,
+      "game_name": "Simple 1500 Series Vol. 96: The Yakyuu 2",
+      "file": "missing/S/203124-simple-1500-series-vol-96-the-yakyuu-2.json"
+    },
+    {
+      "igdb_id": 203126,
+      "game_name": "Simple 1500 Series Vol. 98: The Futsal",
+      "file": "missing/S/203126-simple-1500-series-vol-98-the-futsal.json"
+    },
+    {
+      "igdb_id": 203127,
+      "game_name": "Simple 1500 Series Vol. 99: The Kendo - Ken no Hanamichi",
+      "file": "missing/S/203127-simple-1500-series-vol-99-the-kendo-ken-no-hanamichi.json"
+    },
+    {
+      "igdb_id": 203122,
+      "game_name": "Simple 1500 Series Vol.94: The Cameraman",
+      "file": "missing/S/203122-simple-1500-series-vol-94-the-cameraman.json"
     },
     {
       "igdb_id": 64651,
@@ -745348,9 +745448,39 @@
       "file": "missing/S/371587-simple-boxing-drills-vr.json"
     },
     {
+      "igdb_id": 203131,
+      "game_name": "Simple Characters 2000 Series Vol. 01: Kidou Senshi Gundam - The Gunjin Shougi",
+      "file": "missing/S/203131-simple-characters-2000-series-vol-01-kidou-senshi-gundam-the-gunjin-shougi.json"
+    },
+    {
       "igdb_id": 43812,
       "game_name": "Simple Characters 2000 Series Vol. 03: Kamen Rider - The Bike Race",
       "file": "missing/S/43812-simple-characters-2000-series-vol-03-kamen-rider-the-bike-race.json"
+    },
+    {
+      "igdb_id": 203132,
+      "game_name": "Simple Characters 2000 Series Vol. 04: Jarinko Chie - The Hanafuda",
+      "file": "missing/S/203132-simple-characters-2000-series-vol-04-jarinko-chie-the-hanafuda.json"
+    },
+    {
+      "igdb_id": 203133,
+      "game_name": "Simple Characters 2000 Series Vol. 05: Highschool Kimengumi - The Table Hockey",
+      "file": "missing/S/203133-simple-characters-2000-series-vol-05-highschool-kimengumi-the-table-hockey.json"
+    },
+    {
+      "igdb_id": 203135,
+      "game_name": "Simple Characters 2000 Series Vol. 06: Dokonjou Gaeru - The Mahjong",
+      "file": "missing/S/203135-simple-characters-2000-series-vol-06-dokonjou-gaeru-the-mahjong.json"
+    },
+    {
+      "igdb_id": 203137,
+      "game_name": "Simple Characters 2000 Series Vol. 07: Ikkyuu-san - The Quiz",
+      "file": "missing/S/203137-simple-characters-2000-series-vol-07-ikkyuu-san-the-quiz.json"
+    },
+    {
+      "igdb_id": 203139,
+      "game_name": "Simple Characters 2000 Series Vol. 09: Tsuri Kichi Sanpei - The Tsuri",
+      "file": "missing/S/203139-simple-characters-2000-series-vol-09-tsuri-kichi-sanpei-the-tsuri.json"
     },
     {
       "igdb_id": 64117,
@@ -745361,6 +745491,26 @@
       "igdb_id": 78706,
       "game_name": "Simple Characters 2000 Series Vol. 11: Detective Conan - The Board Game",
       "file": "missing/S/78706-simple-characters-2000-series-vol-11-detective-conan-the-board-game.json"
+    },
+    {
+      "igdb_id": 203142,
+      "game_name": "Simple Characters 2000 Series Vol. 12: Kidou Butou-den G Gundam - The Battle",
+      "file": "missing/S/203142-simple-characters-2000-series-vol-12-kidou-butou-den-g-gundam-the-battle.json"
+    },
+    {
+      "igdb_id": 203144,
+      "game_name": "Simple Characters 2000 Series Vol. 13: Kidou Senki Gundam W - The Battle",
+      "file": "missing/S/203144-simple-characters-2000-series-vol-13-kidou-senki-gundam-w-the-battle.json"
+    },
+    {
+      "igdb_id": 203145,
+      "game_name": "Simple Characters 2000 Series Vol. 14: Nante Tantei Idol - The Jigsaw Puzzle",
+      "file": "missing/S/203145-simple-characters-2000-series-vol-14-nante-tantei-idol-the-jigsaw-puzzle.json"
+    },
+    {
+      "igdb_id": 203146,
+      "game_name": "Simple Characters 2000 Series Vol. 16: Ganba no Bouken Puzzle",
+      "file": "missing/S/203146-simple-characters-2000-series-vol-16-ganba-no-bouken-puzzle.json"
     },
     {
       "igdb_id": 115124,
@@ -779036,6 +779186,11 @@
       "igdb_id": 198902,
       "game_name": "Spider-Man",
       "file": "missing/S/198902-spider-man.json"
+    },
+    {
+      "igdb_id": 203134,
+      "game_name": "Spider-Man",
+      "file": "missing/S/203134-spider-man.json"
     },
     {
       "igdb_id": 220109,
@@ -842378,6 +842533,61 @@
       "file": "missing/T/185669-tetris.json"
     },
     {
+      "igdb_id": 203099,
+      "game_name": "Tetris",
+      "file": "missing/T/203099-tetris.json"
+    },
+    {
+      "igdb_id": 203100,
+      "game_name": "Tetris",
+      "file": "missing/T/203100-tetris.json"
+    },
+    {
+      "igdb_id": 203101,
+      "game_name": "Tetris",
+      "file": "missing/T/203101-tetris.json"
+    },
+    {
+      "igdb_id": 203104,
+      "game_name": "Tetris",
+      "file": "missing/T/203104-tetris.json"
+    },
+    {
+      "igdb_id": 203105,
+      "game_name": "Tetris",
+      "file": "missing/T/203105-tetris.json"
+    },
+    {
+      "igdb_id": 203106,
+      "game_name": "Tetris",
+      "file": "missing/T/203106-tetris.json"
+    },
+    {
+      "igdb_id": 203109,
+      "game_name": "Tetris",
+      "file": "missing/T/203109-tetris.json"
+    },
+    {
+      "igdb_id": 203110,
+      "game_name": "Tetris",
+      "file": "missing/T/203110-tetris.json"
+    },
+    {
+      "igdb_id": 203111,
+      "game_name": "Tetris",
+      "file": "missing/T/203111-tetris.json"
+    },
+    {
+      "igdb_id": 203112,
+      "game_name": "Tetris",
+      "file": "missing/T/203112-tetris.json"
+    },
+    {
+      "igdb_id": 203117,
+      "game_name": "Tetris",
+      "file": "missing/T/203117-tetris.json"
+    },
+    {
       "igdb_id": 213370,
       "game_name": "Tetris",
       "file": "missing/T/213370-tetris.json"
@@ -842558,6 +842768,11 @@
       "file": "missing/T/2631-tetris-evolution.json"
     },
     {
+      "igdb_id": 203113,
+      "game_name": "Tetris for Windows CE",
+      "file": "missing/T/203113-tetris-for-windows-ce.json"
+    },
+    {
       "igdb_id": 314934,
       "game_name": "Tetris Forever",
       "file": "missing/T/314934-tetris-forever.json"
@@ -842711,6 +842926,11 @@
       "igdb_id": 25025,
       "game_name": "Tetris: The Grand Master Ace",
       "file": "missing/T/25025-tetris-the-grand-master-ace.json"
+    },
+    {
+      "igdb_id": 203114,
+      "game_name": "Tetris.com",
+      "file": "missing/T/203114-tetris-com.json"
     },
     {
       "igdb_id": 230751,
@@ -844998,6 +845218,11 @@
       "file": "missing/T/203140-the-amazing-spider-man.json"
     },
     {
+      "igdb_id": 203141,
+      "game_name": "The Amazing Spider-Man",
+      "file": "missing/T/203141-the-amazing-spider-man.json"
+    },
+    {
       "igdb_id": 203143,
       "game_name": "The Amazing Spider-Man",
       "file": "missing/T/203143-the-amazing-spider-man.json"
@@ -845011,6 +845236,11 @@
       "igdb_id": 196243,
       "game_name": "The Amazing Spider-Man 2",
       "file": "missing/T/196243-the-amazing-spider-man-2.json"
+    },
+    {
+      "igdb_id": 203150,
+      "game_name": "The Amazing Spider-Man 2",
+      "file": "missing/T/203150-the-amazing-spider-man-2.json"
     },
     {
       "igdb_id": 4755,
@@ -867071,6 +867301,11 @@
       "igdb_id": 198341,
       "game_name": "The Legend of Zelda: Ocarina of Time Online",
       "file": "missing/T/198341-the-legend-of-zelda-ocarina-of-time-online.json"
+    },
+    {
+      "igdb_id": 203116,
+      "game_name": "The Legend of Zelda: Ocarina of Time Randomizer",
+      "file": "missing/T/203116-the-legend-of-zelda-ocarina-of-time-randomizer.json"
     },
     {
       "igdb_id": 1041,
@@ -958418,6 +958653,11 @@
       "file": "missing/V/214580-vs-super-xevious-gamp-no-nazo.json"
     },
     {
+      "igdb_id": 203108,
+      "game_name": "Vs. Tetris",
+      "file": "missing/V/203108-vs-tetris.json"
+    },
+    {
       "igdb_id": 214591,
       "game_name": "Vs. The Quest of Ki",
       "file": "missing/V/214591-vs-the-quest-of-ki.json"
@@ -971896,6 +972136,11 @@
       "igdb_id": 364519,
       "game_name": "When Stars Collide",
       "file": "missing/W/364519-when-stars-collide.json"
+    },
+    {
+      "igdb_id": 203103,
+      "game_name": "When Stuffed Animals Attack!",
+      "file": "missing/W/203103-when-stuffed-animals-attack.json"
     },
     {
       "igdb_id": 228460,
@@ -995736,6 +995981,11 @@
       "igdb_id": 203885,
       "game_name": "Yomawari: Lost in the Dark",
       "file": "missing/Y/203885-yomawari-lost-in-the-dark.json"
+    },
+    {
+      "igdb_id": 203095,
+      "game_name": "Yomawari: Lost in the Dark - Deluxe Edition",
+      "file": "missing/Y/203095-yomawari-lost-in-the-dark-deluxe-edition.json"
     },
     {
       "igdb_id": 167050,
