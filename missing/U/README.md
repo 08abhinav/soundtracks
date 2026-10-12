@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | uDodge:Practice Tool | 94870 | [94870-udodge-practice-tool.json](./94870-udodge-practice-tool.json) |
 | Udoiana Raunes | 247089 | [247089-udoiana-raunes.json](./247089-udoiana-raunes.json) |
 | Udom Nebdon | 180708 | [180708-udom-nebdon.json](./180708-udom-nebdon.json) |
+| Udongein X: Seiran | 226367 | [226367-udongein-x-seiran.json](./226367-udongein-x-seiran.json) |
 | UdoRin | 213963 | [213963-udorin.json](./213963-udorin.json) |
 | Udos sagner: Sveakampen | 64389 | [64389-udos-sagner-sveakampen.json](./64389-udos-sagner-sveakampen.json) |
 | uDraw Studio | 5185 | [5185-udraw-studio.json](./5185-udraw-studio.json) |
@@ -2336,6 +2337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utility for the Soul | 312571 | [312571-utility-for-the-soul.json](./312571-utility-for-the-soul.json) |
 | Utopia | 142988 | [142988-utopia.json](./142988-utopia.json) |
 | Utopia | 174098 | [174098-utopia.json](./174098-utopia.json) |
+| Utopia | 226342 | [226342-utopia.json](./226342-utopia.json) |
 | Utopia | 377298 | [377298-utopia.json](./377298-utopia.json) |
 | Utopia | 5702 | [5702-utopia.json](./5702-utopia.json) |
 | Utopia 9: A Volatile Vacation | 20360 | [20360-utopia-9-a-volatile-vacation.json](./20360-utopia-9-a-volatile-vacation.json) |
