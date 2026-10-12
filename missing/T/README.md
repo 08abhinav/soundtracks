@@ -1923,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TaxingTiles | 277937 | [277937-taxingtiles.json](./277937-taxingtiles.json) |
 | TaxMan | 19478 | [19478-taxman.json](./19478-taxman.json) |
 | Tay Son Dynasty | 256343 | [256343-tay-son-dynasty.json](./256343-tay-son-dynasty.json) |
+| Taya's Alphabet | 195465 | [195465-tayas-alphabet.json](./195465-tayas-alphabet.json) |
 | Tayal | 109622 | [109622-tayal.json](./109622-tayal.json) |
 | Tayke Me With You | 413502 | [413502-tayke-me-with-you.json](./413502-tayke-me-with-you.json) |
 | Taylordle | 330295 | [330295-taylordle.json](./330295-taylordle.json) |
@@ -4882,6 +4883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Confinement | 332413 | [332413-the-confinement.json](./332413-the-confinement.json) |
 | The Conformist | 326857 | [326857-the-conformist.json](./326857-the-conformist.json) |
 | The Confraternity of Toast 2 | 176314 | [176314-the-confraternity-of-toast-2.json](./176314-the-confraternity-of-toast-2.json) |
+| The Conqueror of Battles | 195467 | [195467-the-conqueror-of-battles.json](./195467-the-conqueror-of-battles.json) |
 | The Consequences of Gardening | 183026 | [183026-the-consequences-of-gardening.json](./183026-the-consequences-of-gardening.json) |
 | The Consumist Journey | 270099 | [270099-the-consumist-journey.json](./270099-the-consumist-journey.json) |
 | The Contact | 288981 | [288981-the-contact.json](./288981-the-contact.json) |
@@ -10810,6 +10812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Slaverian Trucker | 185636 | [185636-the-slaverian-trucker.json](./185636-the-slaverian-trucker.json) |
 | The Slaying of Sandy Hook Elementary | 238966 | [238966-the-slaying-of-sandy-hook-elementary.json](./238966-the-slaying-of-sandy-hook-elementary.json) |
 | The Sledge of Rahmul and Merlin's Treasure | 69479 | [69479-the-sledge-of-rahmul-and-merlins-treasure.json](./69479-the-sledge-of-rahmul-and-merlins-treasure.json) |
+| The Slime | 195476 | [195476-the-slime.json](./195476-the-slime.json) |
 | The Slime Plague | 244203 | [244203-the-slime-plague.json](./244203-the-slime-plague.json) |
 | The Slime Sanctuary | 280894 | [280894-the-slime-sanctuary.json](./280894-the-slime-sanctuary.json) |
 | The Slime's Choice: TSC | 297751 | [297751-the-slimes-choice-tsc.json](./297751-the-slimes-choice-tsc.json) |
@@ -11314,6 +11317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Test: Reimagined | 389115 | [389115-the-test-reimagined.json](./389115-the-test-reimagined.json) |
 | The Testament of Sherlock Holmes | 6164 | [6164-the-testament-of-sherlock-holmes.json](./6164-the-testament-of-sherlock-holmes.json) |
 | The Testimony of Trixie Glimmer Smith | 123633 | [123633-the-testimony-of-trixie-glimmer-smith.json](./123633-the-testimony-of-trixie-glimmer-smith.json) |
+| The Testing Chamber | 195461 | [195461-the-testing-chamber.json](./195461-the-testing-chamber.json) |
 | The TET Offensive | 323804 | [323804-the-tet-offensive.json](./323804-the-tet-offensive.json) |
 | The Texas Chain Saw Massacre | 185238 | [185238-the-texas-chain-saw-massacre.json](./185238-the-texas-chain-saw-massacre.json) |
 | The Texas Chain Saw Massacre: 2003 Leatherface | 351015 | [351015-the-texas-chain-saw-massacre-2003-leatherface.json](./351015-the-texas-chain-saw-massacre-2003-leatherface.json) |
@@ -11357,6 +11361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Theater | 183077 | [183077-the-theater.json](./183077-the-theater.json) |
 | The Theodore Adventures | 44175 | [44175-the-theodore-adventures.json](./44175-the-theodore-adventures.json) |
 | The Therapist Impostor | 409414 | [409414-the-therapist-impostor.json](./409414-the-therapist-impostor.json) |
+| The Thief | 195438 | [195438-the-thief.json](./195438-the-thief.json) |
 | The Thief in the Dark | 194650 | [194650-the-thief-in-the-dark.json](./194650-the-thief-in-the-dark.json) |
 | The Thief, the Witch, the Toad, and the Mushroom. | 235726 | [235726-the-thief-the-witch-the-toad-and-the-mushroom.json](./235726-the-thief-the-witch-the-toad-and-the-mushroom.json) |
 | The Thin Silence | 96812 | [96812-the-thin-silence.json](./96812-the-thin-silence.json) |
@@ -16275,6 +16280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonight We Riot | 36352 | [36352-tonight-we-riot.json](./36352-tonight-we-riot.json) |
 | Tonight, I Die in My Sleep | 268942 | [268942-tonight-i-die-in-my-sleep.json](./268942-tonight-i-die-in-my-sleep.json) |
 | Tonight's Special | 394814 | [394814-tonights-special.json](./394814-tonights-special.json) |
+| Tonikk Tycoon | 195455 | [195455-tonikk-tycoon.json](./195455-tonikk-tycoon.json) |
 | Tonka Construction | 7954 | [7954-tonka-construction.json](./7954-tonka-construction.json) |
 | Tonka Construction 2 | 7958 | [7958-tonka-construction-2.json](./7958-tonka-construction-2.json) |
 | Tonka Firefighter | 206757 | [206757-tonka-firefighter.json](./206757-tonka-firefighter.json) |
@@ -18333,6 +18339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: Linz - Passau Route Add-On | 357394 | [357394-train-simulator-classic-linz-passau-route-add-on.json](./357394-train-simulator-classic-linz-passau-route-add-on.json) |
 | Train Simulator Classic: München - Ingolstadt Route Add-On | 357391 | [357391-train-simulator-classic-munchen-ingolstadt-route-add-on.json](./357391-train-simulator-classic-munchen-ingolstadt-route-add-on.json) |
 | Train Simulator Classic: New Haven FL9 Loco Add-On | 53838 | [53838-train-simulator-classic-new-haven-fl9-loco-add-on.json](./53838-train-simulator-classic-new-haven-fl9-loco-add-on.json) |
+| Train Simulator Classic: New Zealand Ja Class Steam Loco | 195434 | [195434-train-simulator-classic-new-zealand-ja-class-steam-loco.json](./195434-train-simulator-classic-new-zealand-ja-class-steam-loco.json) |
 | Train Simulator Classic: New Zealand Kb Class Steam Loco | 237406 | [237406-train-simulator-classic-new-zealand-kb-class-steam-loco.json](./237406-train-simulator-classic-new-zealand-kb-class-steam-loco.json) |
 | Train Simulator Classic: Norfolk Southern Saluda Grade Route Add-On | 357293 | [357293-train-simulator-classic-norfolk-southern-saluda-grade-route-add-on.json](./357293-train-simulator-classic-norfolk-southern-saluda-grade-route-add-on.json) |
 | Train Simulator Classic: ÖBB 5081 Schienenbus | 264565 | [264565-train-simulator-classic-obb-5081-schienenbus.json](./264565-train-simulator-classic-obb-5081-schienenbus.json) |
@@ -18350,6 +18357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: Tamns VTG Wagon Pack | 293393 | [293393-train-simulator-classic-tamns-vtg-wagon-pack.json](./293393-train-simulator-classic-tamns-vtg-wagon-pack.json) |
 | Train Simulator Classic: Taurus Mountains - Ulukışla: Yenice Route Add-On | 226687 | [226687-train-simulator-classic-taurus-mountains-uluk-sla-yenice-route-add-on.json](./226687-train-simulator-classic-taurus-mountains-uluk-sla-yenice-route-add-on.json) |
 | Train Simulator Classic: Tennessee Pass | 297736 | [297736-train-simulator-classic-tennessee-pass.json](./297736-train-simulator-classic-tennessee-pass.json) |
+| Train Simulator Classic: Tohoku High Speed & Main Line Route | 195435 | [195435-train-simulator-classic-tohoku-high-speed-and-main-line-route.json](./195435-train-simulator-classic-tohoku-high-speed-and-main-line-route.json) |
 | Train Simulator Classic: Tokyo Commuter - Keihin–Tohoku & Utsunomiya Lines Route Add-On | 357297 | [357297-train-simulator-classic-tokyo-commuter-keihin-tohoku-and-utsunomiya-lines-route-add-on.json](./357297-train-simulator-classic-tokyo-commuter-keihin-tohoku-and-utsunomiya-lines-route-add-on.json) |
 | Train Simulator Classic: U-Bahn Hamburg U1 - Norderstedt Mitte - Ohlstedt & Großhansdorf Route Add-On | 357294 | [357294-train-simulator-classic-u-bahn-hamburg-u1-norderstedt-mitte-ohlstedt-and-gro-hansdorf-route-add-on.json](./357294-train-simulator-classic-u-bahn-hamburg-u1-norderstedt-mitte-ohlstedt-and-gro-hansdorf-route-add-on.json) |
 | Train Simulator Classic: Wasatch Grade Scenario Pack 01 | 243375 | [243375-train-simulator-classic-wasatch-grade-scenario-pack-01.json](./243375-train-simulator-classic-wasatch-grade-scenario-pack-01.json) |
@@ -18393,6 +18401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: The Story of Forest Rail Route Add-On | 156481 | [156481-train-simulator-the-story-of-forest-rail-route-add-on.json](./156481-train-simulator-the-story-of-forest-rail-route-add-on.json) |
 | Train Simulator: Tirol: Brenner - Kufstein Route Add-On | 156490 | [156490-train-simulator-tirol-brenner-kufstein-route-add-on.json](./156490-train-simulator-tirol-brenner-kufstein-route-add-on.json) |
 | Train Simulator: UK Military Wagon Pack | 162338 | [162338-train-simulator-uk-military-wagon-pack.json](./162338-train-simulator-uk-military-wagon-pack.json) |
+| Train Simulator: Union Pacific F3 Loco | 195436 | [195436-train-simulator-union-pacific-f3-loco.json](./195436-train-simulator-union-pacific-f3-loco.json) |
 | Train Simulator: Union Pacific Heavy Challenger Steam Loco | 212227 | [212227-train-simulator-union-pacific-heavy-challenger-steam-loco.json](./212227-train-simulator-union-pacific-heavy-challenger-steam-loco.json) |
 | Train Simulator: WCML South: London Euston - Birmingham Route Add-On | 156474 | [156474-train-simulator-wcml-south-london-euston-birmingham-route-add-on.json](./156474-train-simulator-wcml-south-london-euston-birmingham-route-add-on.json) |
 | Train Simulator: Western Pacific GP20 High Nose Loco | 211898 | [211898-train-simulator-western-pacific-gp20-high-nose-loco.json](./211898-train-simulator-western-pacific-gp20-high-nose-loco.json) |
@@ -20014,6 +20023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trolley Problem | 179589 | [179589-trolley-problem.json](./179589-trolley-problem.json) |
 | Trolley Simulator | 149494 | [149494-trolley-simulator.json](./149494-trolley-simulator.json) |
 | Trollface Launch | 234908 | [234908-trollface-launch.json](./234908-trollface-launch.json) |
+| Trollface Quest | 195448 | [195448-trollface-quest.json](./195448-trollface-quest.json) |
 | Trollface Quest 3 | 257579 | [257579-trollface-quest-3.json](./257579-trollface-quest-3.json) |
 | Trollhunters: Defenders of Arcadia | 133921 | [133921-trollhunters-defenders-of-arcadia.json](./133921-trollhunters-defenders-of-arcadia.json) |
 | Trollin el Corredor | 288350 | [288350-trollin-el-corredor.json](./288350-trollin-el-corredor.json) |
