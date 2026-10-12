@@ -3455,6 +3455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Peak | 257985 | [257985-phantom-peak.json](./257985-phantom-peak.json) |
 | Phantom Pharaoh's Treasure Trap | 396704 | [396704-phantom-pharaohs-treasure-trap.json](./396704-phantom-pharaohs-treasure-trap.json) |
 | Phantom Playhouse | 331949 | [331949-phantom-playhouse.json](./331949-phantom-playhouse.json) |
+| Phantom Project | 192623 | [192623-phantom-project.json](./192623-phantom-project.json) |
 | Phantom Racing | 199443 | [199443-phantom-racing.json](./199443-phantom-racing.json) |
 | Phantom Reckoning | 343836 | [343836-phantom-reckoning.json](./343836-phantom-reckoning.json) |
 | Phantom Rend | 379862 | [379862-phantom-rend.json](./379862-phantom-rend.json) |
@@ -4568,6 +4569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX3: Williams Pinball - Volume 5 | 164004 | [164004-pinball-fx3-williams-pinball-volume-5.json](./164004-pinball-fx3-williams-pinball-volume-5.json) |
 | Pinball Gardener | 185001 | [185001-pinball-gardener.json](./185001-pinball-gardener.json) |
 | Pinball Girlfriend | 207187 | [207187-pinball-girlfriend.json](./207187-pinball-girlfriend.json) |
+| Pinball Groupies | 192627 | [192627-pinball-groupies.json](./192627-pinball-groupies.json) |
 | Pinball Hall of Fame: The Gottlieb Collection | 4067 | [4067-pinball-hall-of-fame-the-gottlieb-collection.json](./4067-pinball-hall-of-fame-the-gottlieb-collection.json) |
 | Pinball Hall of Fame: The Williams Collection | 5099 | [5099-pinball-hall-of-fame-the-williams-collection.json](./5099-pinball-hall-of-fame-the-williams-collection.json) |
 | Pinball Hazard | 74336 | [74336-pinball-hazard.json](./74336-pinball-hazard.json) |
@@ -8831,6 +8833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Practisim VR | 36641 | [36641-practisim-vr.json](./36641-practisim-vr.json) |
 | Prado Car Stunts Arena | 27993 | [27993-prado-car-stunts-arena.json](./27993-prado-car-stunts-arena.json) |
 | PraeBot | 115168 | [115168-praebot.json](./115168-praebot.json) |
+| Praecantor Lila: Bell Spell | 192655 | [192655-praecantor-lila-bell-spell.json](./192655-praecantor-lila-bell-spell.json) |
 | Praetorians HD Remaster | 119382 | [119382-praetorians-hd-remaster.json](./119382-praetorians-hd-remaster.json) |
 | Praey for the Gods | 14378 | [14378-praey-for-the-gods.json](./14378-praey-for-the-gods.json) |
 | Pragma Arbiter | 227990 | [227990-pragma-arbiter.json](./227990-pragma-arbiter.json) |
@@ -9299,6 +9302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Lana | 138687 | [138687-princess-lana.json](./138687-princess-lana.json) |
 | Princess Lili | 107881 | [107881-princess-lili.json](./107881-princess-lili.json) |
 | Princess Lover! | 387346 | [387346-princess-lover.json](./387346-princess-lover.json) |
+| Princess Maira: Initiation | 192658 | [192658-princess-maira-initiation.json](./192658-princess-maira-initiation.json) |
 | Princess Maker 2 | 194280 | [194280-princess-maker-2.json](./194280-princess-maker-2.json) |
 | Princess Maker 2 Regeneration | 261795 | [261795-princess-maker-2-regeneration.json](./261795-princess-maker-2-regeneration.json) |
 | Princess Maker 3: Fairy Tales Come True | 43184 | [43184-princess-maker-3-fairy-tales-come-true.json](./43184-princess-maker-3-fairy-tales-come-true.json) |
@@ -11192,6 +11196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppy Truck | 411658 | [411658-puppy-truck.json](./411658-puppy-truck.json) |
 | Pups & Purrs Animal Hospital | 165427 | [165427-pups-and-purrs-animal-hospital.json](./165427-pups-and-purrs-animal-hospital.json) |
 | Pups Treats | 359412 | [359412-pups-treats.json](./359412-pups-treats.json) |
+| Puputan Legend VR | 192633 | [192633-puputan-legend-vr.json](./192633-puputan-legend-vr.json) |
 | Purah's Lab | 279688 | [279688-purahs-lab.json](./279688-purahs-lab.json) |
 | Purarger Collector!! | 384805 | [384805-purarger-collector.json](./384805-purarger-collector.json) |
 | Purdy's Night Flight | 335109 | [335109-purdys-night-flight.json](./335109-purdys-night-flight.json) |
