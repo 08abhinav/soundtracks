@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T16:49:17.717Z",
-  "total_missing": 202605,
+  "generated_at": "2026-10-12T17:01:49.532Z",
+  "total_missing": 202604,
   "games": [
     {
       "igdb_id": 191680,
@@ -717636,11 +717636,6 @@
       "igdb_id": 148352,
       "game_name": "Samorost 1",
       "file": "missing/S/148352-samorost-1.json"
-    },
-    {
-      "igdb_id": 15537,
-      "game_name": "Samorost 3",
-      "file": "missing/S/15537-samorost-3.json"
     },
     {
       "igdb_id": 130179,
