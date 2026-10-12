@@ -2325,6 +2325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Brigade | 166167 | [166167-battle-brigade.json](./166167-battle-brigade.json) |
 | Battle Brothers | 14394 | [14394-battle-brothers.json](./14394-battle-brothers.json) |
 | Battle Brothers: Blazing Deserts | 155069 | [155069-battle-brothers-blazing-deserts.json](./155069-battle-brothers-blazing-deserts.json) |
+| Battle Brothers: Of Flesh and Faith | 193130 | [193130-battle-brothers-of-flesh-and-faith.json](./193130-battle-brothers-of-flesh-and-faith.json) |
 | Battle Bruise | 28320 | [28320-battle-bruise.json](./28320-battle-bruise.json) |
 | Battle Bugs | 12402 | [12402-battle-bugs.json](./12402-battle-bugs.json) |
 | Battle Calculator | 165562 | [165562-battle-calculator.json](./165562-battle-calculator.json) |
@@ -6961,6 +6962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Brothers 2 | 59504 | [59504-blood-brothers-2.json](./59504-blood-brothers-2.json) |
 | Blood Bullets & Ballet | 135075 | [135075-blood-bullets-and-ballet.json](./135075-blood-bullets-and-ballet.json) |
 | Blood Burger | 202563 | [202563-blood-burger.json](./202563-blood-burger.json) |
+| Blood Camp | 193140 | [193140-blood-camp.json](./193140-blood-camp.json) |
 | Blood Card | 109850 | [109850-blood-card.json](./109850-blood-card.json) |
 | Blood City | 108386 | [108386-blood-city.json](./108386-blood-city.json) |
 | Blood Cleaner | 322804 | [322804-blood-cleaner.json](./322804-blood-cleaner.json) |
