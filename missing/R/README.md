@@ -2354,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recycler's Terminal | 116327 | [116327-recyclers-terminal.json](./116327-recyclers-terminal.json) |
 | Recyclic | 348888 | [348888-recyclic.json](./348888-recyclic.json) |
 | Recycling Center Simulator | 298400 | [298400-recycling-center-simulator.json](./298400-recycling-center-simulator.json) |
+| Red | 194873 | [194873-red.json](./194873-red.json) |
 | Red | 196139 | [196139-red.json](./196139-red.json) |
 | Red | 29948 | [29948-red.json](./29948-red.json) |
 | Red | 75084 | [75084-red.json](./75084-red.json) |
