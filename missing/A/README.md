@@ -4670,6 +4670,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Shield | 59837 | [59837-alpha-shield.json](./59837-alpha-shield.json) |
 | Alpha Sorcerer | 245996 | [245996-alpha-sorcerer.json](./245996-alpha-sorcerer.json) |
 | Alpha Spectrum | 400493 | [400493-alpha-spectrum.json](./400493-alpha-spectrum.json) |
+| Alpha Sphere Zero: Rotten Brains | 223057 | [223057-alpha-sphere-zero-rotten-brains.json](./223057-alpha-sphere-zero-rotten-brains.json) |
+| Alpha Sphere: Director's Cut | 223056 | [223056-alpha-sphere-directors-cut.json](./223056-alpha-sphere-directors-cut.json) |
 | Alpha Squad | 100260 | [100260-alpha-squad.json](./100260-alpha-squad.json) |
 | Alpha Squadron | 358921 | [358921-alpha-squadron.json](./358921-alpha-squadron.json) |
 | Alpha Squirrel | 183517 | [183517-alpha-squirrel.json](./183517-alpha-squirrel.json) |
@@ -9595,6 +9597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterix & Obelix: Kick Buttix | 3789 | [3789-asterix-and-obelix-kick-buttix.json](./3789-asterix-and-obelix-kick-buttix.json) |
 | Asterix & Obelix: Slap Them All! - Collector's Edition | 159208 | [159208-asterix-and-obelix-slap-them-all-collectors-edition.json](./159208-asterix-and-obelix-slap-them-all-collectors-edition.json) |
 | Asterix & Obelix: Slap Them All! 1+2 | 305494 | [305494-asterix-and-obelix-slap-them-all-1-2.json](./305494-asterix-and-obelix-slap-them-all-1-2.json) |
+| Asterix and Caesar's Challenge | 223048 | [223048-asterix-and-caesars-challenge.json](./223048-asterix-and-caesars-challenge.json) |
 | Astérix and the Great Rescue | 8501 | [8501-asterix-and-the-great-rescue.json](./8501-asterix-and-the-great-rescue.json) |
 | Asterix and the Magic Carpet | 14272 | [14272-asterix-and-the-magic-carpet.json](./14272-asterix-and-the-magic-carpet.json) |
 | Astérix and the Secret Mission | 12888 | [12888-asterix-and-the-secret-mission.json](./12888-asterix-and-the-secret-mission.json) |
