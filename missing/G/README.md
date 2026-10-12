@@ -2446,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Run | 53082 | [53082-ghost-run.json](./53082-ghost-run.json) |
 | Ghost Run 3D | 154571 | [154571-ghost-run-3d.json](./154571-ghost-run-3d.json) |
 | Ghost Rush! | 97107 | [97107-ghost-rush.json](./97107-ghost-rush.json) |
+| Ghost Scramble | 212500 | [212500-ghost-scramble.json](./212500-ghost-scramble.json) |
 | Ghost Sector | 335826 | [335826-ghost-sector.json](./335826-ghost-sector.json) |
 | Ghost Shadow | 214199 | [214199-ghost-shadow.json](./214199-ghost-shadow.json) |
 | Ghost Ship: Hidden Object Adventure Games | 97210 | [97210-ghost-ship-hidden-object-adventure-games.json](./97210-ghost-ship-hidden-object-adventure-games.json) |
@@ -4606,6 +4607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gossamer Matrix | 211722 | [211722-gossamer-matrix.json](./211722-gossamer-matrix.json) |
 | Gossip | 384758 | [384758-gossip.json](./384758-gossip.json) |
 | Gossip & Potions: Tales from the Witch Shop | 276669 | [276669-gossip-and-potions-tales-from-the-witch-shop.json](./276669-gossip-and-potions-tales-from-the-witch-shop.json) |
+| Gossip Harbor: Merge Game | 212511 | [212511-gossip-harbor-merge-game.json](./212511-gossip-harbor-merge-game.json) |
 | Gossipia | 59991 | [59991-gossipia.json](./59991-gossipia.json) |
 | GoSupermodel | 347099 | [347099-gosupermodel.json](./347099-gosupermodel.json) |
 | Got Cha Mini Game Festival 2 | 270598 | [270598-got-cha-mini-game-festival-2.json](./270598-got-cha-mini-game-festival-2.json) |
@@ -5552,6 +5554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greedy Penguins | 20715 | [20715-greedy-penguins.json](./20715-greedy-penguins.json) |
 | Greedy Rabbit | 190089 | [190089-greedy-rabbit.json](./190089-greedy-rabbit.json) |
 | Greedy Squad | 348856 | [348856-greedy-squad.json](./348856-greedy-squad.json) |
+| Greedy Worm | 212523 | [212523-greedy-worm.json](./212523-greedy-worm.json) |
 | GreedyCraft | 204701 | [204701-greedycraft.json](./204701-greedycraft.json) |
 | Greek Kitchen Frenzy: Dionysus - Collector's Edition | 337249 | [337249-greek-kitchen-frenzy-dionysus-collectors-edition.json](./337249-greek-kitchen-frenzy-dionysus-collectors-edition.json) |
 | Greek Letters and Alphabet 2 | 99394 | [99394-greek-letters-and-alphabet-2.json](./99394-greek-letters-and-alphabet-2.json) |
