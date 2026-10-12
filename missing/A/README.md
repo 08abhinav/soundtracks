@@ -853,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wave of Lights | 175838 | [175838-a-wave-of-lights.json](./175838-a-wave-of-lights.json) |
 | A Way Home Uzy's Journey | 339258 | [339258-a-way-home-uzys-journey.json](./339258-a-way-home-uzys-journey.json) |
 | A Way to Die | 159854 | [159854-a-way-to-die.json](./159854-a-way-to-die.json) |
+| A Way to Smash | 221337 | [221337-a-way-to-smash.json](./221337-a-way-to-smash.json) |
 | A Way Up | 303234 | [303234-a-way-up.json](./303234-a-way-up.json) |
 | A way up! | 115617 | [115617-a-way-up.json](./115617-a-way-up.json) |
 | A Way With Words | 354960 | [354960-a-way-with-words.json](./354960-a-way-with-words.json) |
@@ -4040,6 +4041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Egg: Ascent | 137671 | [137671-alien-egg-ascent.json](./137671-alien-egg-ascent.json) |
 | Alien Engine | 207897 | [207897-alien-engine.json](./207897-alien-engine.json) |
 | Alien Epidemic | 351744 | [351744-alien-epidemic.json](./351744-alien-epidemic.json) |
+| Alien Escape RPG: Idle Spider | 221336 | [221336-alien-escape-rpg-idle-spider.json](./221336-alien-escape-rpg-idle-spider.json) |
 | Alien Extraction | 195691 | [195691-alien-extraction.json](./195691-alien-extraction.json) |
 | Alien Field | 113179 | [113179-alien-field.json](./113179-alien-field.json) |
 | Alien Fish Finger | 38858 | [38858-alien-fish-finger.json](./38858-alien-fish-finger.json) |
@@ -4362,6 +4364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All In One Sports: Three Cushion Billiards | 417372 | [417372-all-in-one-sports-three-cushion-billiards.json](./417372-all-in-one-sports-three-cushion-billiards.json) |
 | All in Vain | 392139 | [392139-all-in-vain.json](./392139-all-in-vain.json) |
 | All in! Bundle | 164807 | [164807-all-in-bundle.json](./164807-all-in-bundle.json) |
+| All in! Bundle | 221334 | [221334-all-in-bundle.json](./221334-all-in-bundle.json) |
 | All is Fair in Dust and Air | 142266 | [142266-all-is-fair-in-dust-and-air.json](./142266-all-is-fair-in-dust-and-air.json) |
 | All is Fair in Love and Vore: The Tavorion Collection | 250600 | [250600-all-is-fair-in-love-and-vore-the-tavorion-collection.json](./250600-all-is-fair-in-love-and-vore-the-tavorion-collection.json) |
 | All Japan Super Bombliss Cup '95 | 150163 | [150163-all-japan-super-bombliss-cup-95.json](./150163-all-japan-super-bombliss-cup-95.json) |
