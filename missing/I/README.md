@@ -1466,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illusions 360 | 67971 | [67971-illusions-360.json](./67971-illusions-360.json) |
 | Illusory Dreamlight 1: Deprimerie | 186174 | [186174-illusory-dreamlight-1-deprimerie.json](./186174-illusory-dreamlight-1-deprimerie.json) |
 | Illustack | 401041 | [401041-illustack.json](./401041-illustack.json) |
+| Illuvium | 198140 | [198140-illuvium.json](./198140-illuvium.json) |
 | Illvelo Swamp Happy Together | 383529 | [383529-illvelo-swamp-happy-together.json](./383529-illvelo-swamp-happy-together.json) |
 | Illville: Return instructions | 75180 | [75180-illville-return-instructions.json](./75180-illville-return-instructions.json) |
 | illWill | 191579 | [191579-illwill.json](./191579-illwill.json) |
@@ -3550,6 +3551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inventorix | 258604 | [258604-inventorix.json](./258604-inventorix.json) |
 | Inventory | 181180 | [181180-inventory.json](./181180-inventory.json) |
 | Inventory Full | 338833 | [338833-inventory-full.json](./338833-inventory-full.json) |
+| Inventory Hero | 198160 | [198160-inventory-hero.json](./198160-inventory-hero.json) |
 | Inventris TD | 319009 | [319009-inventris-td.json](./319009-inventris-td.json) |
 | Invercity | 199467 | [199467-invercity.json](./199467-invercity.json) |
 | Inverness Nights | 134676 | [134676-inverness-nights.json](./134676-inverness-nights.json) |
