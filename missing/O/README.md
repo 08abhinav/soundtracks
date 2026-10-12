@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocda | 185117 | [185117-ocda.json](./185117-ocda.json) |
 | Ocean and Fish | 387059 | [387059-ocean-and-fish.json](./387059-ocean-and-fish.json) |
 | Ocean Avenue | 177904 | [177904-ocean-avenue.json](./177904-ocean-avenue.json) |
+| Ocean Bubble Shooter | 219769 | [219769-ocean-bubble-shooter.json](./219769-ocean-bubble-shooter.json) |
 | Ocean Cargo Manager | 415169 | [415169-ocean-cargo-manager.json](./415169-ocean-cargo-manager.json) |
 | Ocean Cat | 245902 | [245902-ocean-cat.json](./245902-ocean-cat.json) |
 | Ocean City Killer | 353978 | [353978-ocean-city-killer.json](./353978-ocean-city-killer.json) |
@@ -940,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Watch | 76681 | [76681-old-watch.json](./76681-old-watch.json) |
 | Old World | 133674 | [133674-old-world.json](./133674-old-world.json) |
 | Old World Blues | 321740 | [321740-old-world-blues.json](./321740-old-world-blues.json) |
+| Old World: Complete | 219778 | [219778-old-world-complete.json](./219778-old-world-complete.json) |
 | Old World: Empires of the Indus | 400418 | [400418-old-world-empires-of-the-indus.json](./400418-old-world-empires-of-the-indus.json) |
 | Old World: Heroes of the Aegean | 199580 | [199580-old-world-heroes-of-the-aegean.json](./199580-old-world-heroes-of-the-aegean.json) |
 | Old World: Pharaohs of the Nile | 269215 | [269215-old-world-pharaohs-of-the-nile.json](./269215-old-world-pharaohs-of-the-nile.json) |
