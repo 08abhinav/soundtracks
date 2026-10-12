@@ -1617,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achtung Spitfire | 86015 | [86015-achtung-spitfire.json](./86015-achtung-spitfire.json) |
 | Achtung, die Kurve! | 11251 | [11251-achtung-die-kurve.json](./11251-achtung-die-kurve.json) |
 | Achtung! Cthulhu Tactics | 106562 | [106562-achtung-cthulhu-tactics.json](./106562-achtung-cthulhu-tactics.json) |
+| Acid Ball | 213058 | [213058-acid-ball.json](./213058-acid-ball.json) |
 | Acid Drop | 11111 | [11111-acid-drop.json](./11111-acid-drop.json) |
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
 | Acid Girls' Escape | 205568 | [205568-acid-girls-escape.json](./205568-acid-girls-escape.json) |
