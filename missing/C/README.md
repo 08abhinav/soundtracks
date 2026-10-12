@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake Shop 3 | 410232 | [410232-cake-shop-3.json](./410232-cake-shop-3.json) |
 | Cake Up | 335273 | [335273-cake-up.json](./335273-cake-up.json) |
 | Cake Yasan Monogatari Oishii Sweet wo Tsukurou! | 136878 | [136878-cake-yasan-monogatari-oishii-sweet-wo-tsukurou.json](./136878-cake-yasan-monogatari-oishii-sweet-wo-tsukurou.json) |
+| Cake4D | 215297 | [215297-cake4d.json](./215297-cake4d.json) |
 | Cake5 | 233247 | [233247-cake5.json](./233247-cake5.json) |
 | Cakefoot | 292134 | [292134-cakefoot.json](./292134-cakefoot.json) |
 | Cakewalk | 18537 | [18537-cakewalk.json](./18537-cakewalk.json) |
@@ -5833,6 +5834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Tales: Medieval Era | 324584 | [324584-city-tales-medieval-era.json](./324584-city-tales-medieval-era.json) |
 | City Trader | 94368 | [94368-city-trader.json](./94368-city-trader.json) |
 | City Traffic Car Driving Parking Career Simulator | 86958 | [86958-city-traffic-car-driving-parking-career-simulator.json](./86958-city-traffic-car-driving-parking-career-simulator.json) |
+| City Traffic Driver 2 | 215311 | [215311-city-traffic-driver-2.json](./215311-city-traffic-driver-2.json) |
 | City Transport Simulator 2026 | 397389 | [397389-city-transport-simulator-2026.json](./397389-city-transport-simulator-2026.json) |
 | City Transport Simulator 2026: Bus DLC - Citybus C2 | 399274 | [399274-city-transport-simulator-2026-bus-dlc-citybus-c2.json](./399274-city-transport-simulator-2026-bus-dlc-citybus-c2.json) |
 | City Transport Simulator 2026: Bus DLC - MAN Lion's City A26 & A47 | 399279 | [399279-city-transport-simulator-2026-bus-dlc-man-lions-city-a26-and-a47.json](./399279-city-transport-simulator-2026-bus-dlc-man-lions-city-a26-and-a47.json) |
