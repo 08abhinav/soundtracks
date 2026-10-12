@@ -6652,6 +6652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Tarzan: Untamed | 10625 | [10625-disneys-tarzan-untamed.json](./10625-disneys-tarzan-untamed.json) |
 | Disney's The Emperor's New Groove | 74426 | [74426-disneys-the-emperors-new-groove.json](./74426-disneys-the-emperors-new-groove.json) |
 | Disney's The Haunted Mansion | 49405 | [49405-disneys-the-haunted-mansion.json](./49405-disneys-the-haunted-mansion.json) |
+| Disney's The Hunchback of Notre Dame | 198763 | [198763-disneys-the-hunchback-of-notre-dame.json](./198763-disneys-the-hunchback-of-notre-dame.json) |
 | Disney's The Hunchback of Notre Dame: Topsy Turvy Games | 228495 | [228495-disneys-the-hunchback-of-notre-dame-topsy-turvy-games.json](./228495-disneys-the-hunchback-of-notre-dame-topsy-turvy-games.json) |
 | Disney's The Lion King | 198801 | [198801-disneys-the-lion-king.json](./198801-disneys-the-lion-king.json) |
 | Disney's The Lion King | 204572 | [204572-disneys-the-lion-king.json](./204572-disneys-the-lion-king.json) |
@@ -11175,6 +11176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Mansion | 308472 | [308472-duke-mansion.json](./308472-duke-mansion.json) |
 | Duke Nukem 1+2 | 137548 | [137548-duke-nukem-1-2.json](./137548-duke-nukem-1-2.json) |
 | Duke Nukem 1+2 Remastered | 251709 | [251709-duke-nukem-1-2-remastered.json](./251709-duke-nukem-1-2-remastered.json) |
+| Duke Nukem 3D | 198734 | [198734-duke-nukem-3d.json](./198734-duke-nukem-3d.json) |
 | Duke Nukem 3D | 199425 | [199425-duke-nukem-3d.json](./199425-duke-nukem-3d.json) |
 | Duke Nukem 3D | 262569 | [262569-duke-nukem-3d.json](./262569-duke-nukem-3d.json) |
 | Duke Nukem 3D | 262573 | [262573-duke-nukem-3d.json](./262573-duke-nukem-3d.json) |
