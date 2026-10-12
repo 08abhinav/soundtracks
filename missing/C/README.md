@@ -5861,6 +5861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Sights: Hello Seattle! | 206350 | [206350-city-sights-hello-seattle.json](./206350-city-sights-hello-seattle.json) |
 | City Slicker | 12985 | [12985-city-slicker.json](./12985-city-slicker.json) |
 | City Slickers | 250647 | [250647-city-slickers.json](./250647-city-slickers.json) |
+| City Smasher | 196542 | [196542-city-smasher.json](./196542-city-smasher.json) |
 | City Sniper | 151007 | [151007-city-sniper.json](./151007-city-sniper.json) |
 | City Soccer Challenge | 66956 | [66956-city-soccer-challenge.json](./66956-city-soccer-challenge.json) |
 | City States: Medieval | 381155 | [381155-city-states-medieval.json](./381155-city-states-medieval.json) |
@@ -6068,6 +6069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Puppets | 17892 | [17892-clash-of-puppets.json](./17892-clash-of-puppets.json) |
 | Clash of Robots | 50752 | [50752-clash-of-robots.json](./50752-clash-of-robots.json) |
 | Clash of Seven Heroes | 368284 | [368284-clash-of-seven-heroes.json](./368284-clash-of-seven-heroes.json) |
+| Clash of Sky | 196551 | [196551-clash-of-sky.json](./196551-clash-of-sky.json) |
 | Clash of Steel: World War II | 14500 | [14500-clash-of-steel-world-war-ii.json](./14500-clash-of-steel-world-war-ii.json) |
 | Clash of Steel: World War II, Europe 1939-45 | 71783 | [71783-clash-of-steel-world-war-ii-europe-1939-45.json](./71783-clash-of-steel-world-war-ii-europe-1939-45.json) |
 | Clash of Ten Sides | 348804 | [348804-clash-of-ten-sides.json](./348804-clash-of-ten-sides.json) |
@@ -8821,6 +8823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contract Killer: Zombies | 127050 | [127050-contract-killer-zombies.json](./127050-contract-killer-zombies.json) |
 | Contract Killers | 132218 | [132218-contract-killers.json](./132218-contract-killers.json) |
 | Contract Marriage | 303264 | [303264-contract-marriage.json](./303264-contract-marriage.json) |
+| Contract Revoked | 196502 | [196502-contract-revoked.json](./196502-contract-revoked.json) |
 | Contract Revoked: The Lost Chapters | 271237 | [271237-contract-revoked-the-lost-chapters.json](./271237-contract-revoked-the-lost-chapters.json) |
 | Contract Sudoku | 277920 | [277920-contract-sudoku.json](./277920-contract-sudoku.json) |
 | Contract Terminated | 421366 | [421366-contract-terminated.json](./421366-contract-terminated.json) |
@@ -10999,6 +11002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Tower | 365176 | [365176-crimson-tower.json](./365176-crimson-tower.json) |
 | Crimson Trigger | 30174 | [30174-crimson-trigger.json](./30174-crimson-trigger.json) |
 | Crimson Twilight: Undead Lover | 298977 | [298977-crimson-twilight-undead-lover.json](./298977-crimson-twilight-undead-lover.json) |
+| Crimson Wheels | 196525 | [196525-crimson-wheels.json](./196525-crimson-wheels.json) |
 | Crimson wind | 284990 | [284990-crimson-wind.json](./284990-crimson-wind.json) |
 | Crimsonland | 253323 | [253323-crimsonland.json](./253323-crimsonland.json) |
 | Crimsonland | 7587 | [7587-crimsonland.json](./7587-crimsonland.json) |
