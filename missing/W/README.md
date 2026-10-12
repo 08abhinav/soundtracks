@@ -5375,7 +5375,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: The Burning Crusade - Collector's Edition | 136995 | [136995-world-of-warcraft-the-burning-crusade-collectors-edition.json](./136995-world-of-warcraft-the-burning-crusade-collectors-edition.json) |
 | World of Warcraft: The War Within - Ghosts of K’aresh | 357378 | [357378-world-of-warcraft-the-war-within-ghosts-of-k-aresh.json](./357378-world-of-warcraft-the-war-within-ghosts-of-k-aresh.json) |
 | World of Warcraft: The War Within - Undermine(d) | 322152 | [322152-world-of-warcraft-the-war-within-undermine-d.json](./322152-world-of-warcraft-the-war-within-undermine-d.json) |
-| World of Warcraft: Warlords of Draenor | 3157 | [3157-world-of-warcraft-warlords-of-draenor.json](./3157-world-of-warcraft-warlords-of-draenor.json) |
 | World of Warcraft: Warlords of Draenor - Collector's Edition | 13622 | [13622-world-of-warcraft-warlords-of-draenor-collectors-edition.json](./13622-world-of-warcraft-warlords-of-draenor-collectors-edition.json) |
 | World of Warcraft: Wrath of the Lich King - Collector's Edition | 23788 | [23788-world-of-warcraft-wrath-of-the-lich-king-collectors-edition.json](./23788-world-of-warcraft-wrath-of-the-lich-king-collectors-edition.json) |
 | World of Warplanes | 3432 | [3432-world-of-warplanes.json](./3432-world-of-warplanes.json) |
