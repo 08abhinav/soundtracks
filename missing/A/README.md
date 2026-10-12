@@ -2095,6 +2095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Interpreter | 73272 | [73272-adventure-interpreter.json](./73272-adventure-interpreter.json) |
 | Adventure Island II | 6471 | [6471-adventure-island-ii.json](./6471-adventure-island-ii.json) |
 | Adventure Island: The Beginning | 50697 | [50697-adventure-island-the-beginning.json](./50697-adventure-island-the-beginning.json) |
+| Adventure Joystick | 214687 | [214687-adventure-joystick.json](./214687-adventure-joystick.json) |
 | Adventure Kitty: Drill Buster | 265665 | [265665-adventure-kitty-drill-buster.json](./265665-adventure-kitty-drill-buster.json) |
 | Adventure Learning Inside Humans | 356071 | [356071-adventure-learning-inside-humans.json](./356071-adventure-learning-inside-humans.json) |
 | ADventure Lib | 35109 | [35109-adventure-lib.json](./35109-adventure-lib.json) |
@@ -6905,6 +6906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anxiety Treatment with Relaxation | 187252 | [187252-anxiety-treatment-with-relaxation.json](./187252-anxiety-treatment-with-relaxation.json) |
 | Anxiety: Lost Night | 179490 | [179490-anxiety-lost-night.json](./179490-anxiety-lost-night.json) |
 | Anxietyware | 179002 | [179002-anxietyware.json](./179002-anxietyware.json) |
+| ANXRacers: Drift Space | 214711 | [214711-anxracers-drift-space.json](./214711-anxracers-drift-space.json) |
 | Any Castle | 337298 | [337298-any-castle.json](./337298-any-castle.json) |
 | Any Landing | 174621 | [174621-any-landing.json](./174621-any-landing.json) |
 | Any Other Color | 408133 | [408133-any-other-color.json](./408133-any-other-color.json) |
@@ -7687,6 +7689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Super Cobra | 147119 | [147119-arcade-archives-super-cobra.json](./147119-arcade-archives-super-cobra.json) |
 | Arcade Archives: Super Pac-Man | 187461 | [187461-arcade-archives-super-pac-man.json](./187461-arcade-archives-super-pac-man.json) |
 | Arcade Archives: Super Punch-Out!! | 147118 | [147118-arcade-archives-super-punch-out.json](./147118-arcade-archives-super-punch-out.json) |
+| Arcade Archives: Super Volleyball | 214665 | [214665-arcade-archives-super-volleyball.json](./214665-arcade-archives-super-volleyball.json) |
 | Arcade Archives: Super World Court | 345968 | [345968-arcade-archives-super-world-court.json](./345968-arcade-archives-super-world-court.json) |
 | Arcade Archives: Super Xevious | 342799 | [342799-arcade-archives-super-xevious.json](./342799-arcade-archives-super-xevious.json) |
 | Arcade Archives: Swimmer | 147116 | [147116-arcade-archives-swimmer.json](./147116-arcade-archives-swimmer.json) |
