@@ -7792,6 +7792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku to Nurse no Kenshuu Nisshi: Premium Edition | 146119 | [146119-boku-to-nurse-no-kenshuu-nisshi-premium-edition.json](./146119-boku-to-nurse-no-kenshuu-nisshi-premium-edition.json) |
 | Boku to Tsuri Nikki | 412519 | [412519-boku-to-tsuri-nikki.json](./412519-boku-to-tsuri-nikki.json) |
 | Boku to Wanko | 58819 | [58819-boku-to-wanko.json](./58819-boku-to-wanko.json) |
+| Boku wa Chiisai | 210919 | [210919-boku-wa-chiisai.json](./210919-boku-wa-chiisai.json) |
 | Boku wa Koukuu Kanseikan: Airport Hero 3D - Kankuu All Stars | 222426 | [222426-boku-wa-koukuu-kanseikan-airport-hero-3d-kankuu-all-stars.json](./222426-boku-wa-koukuu-kanseikan-airport-hero-3d-kankuu-all-stars.json) |
 | Boku wa Koukuu Kanseikan: Airport Hero 3D Haneda with JAL | 78708 | [78708-boku-wa-koukuu-kanseikan-airport-hero-3d-haneda-with-jal.json](./78708-boku-wa-koukuu-kanseikan-airport-hero-3d-haneda-with-jal.json) |
 | Boku, Doraemon | 66134 | [66134-boku-doraemon.json](./66134-boku-doraemon.json) |
@@ -11338,6 +11339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 21: VDL Bus Pack | 213952 | [213952-bus-simulator-21-vdl-bus-pack.json](./213952-bus-simulator-21-vdl-bus-pack.json) |
 | Bus Simulator 27 | 355086 | [355086-bus-simulator-27.json](./355086-bus-simulator-27.json) |
 | Bus Simulator 3D | 241060 | [241060-bus-simulator-3d.json](./241060-bus-simulator-3d.json) |
+| Bus Simulator City Ride | 210909 | [210909-bus-simulator-city-ride.json](./210909-bus-simulator-city-ride.json) |
 | Bus Simulator Vietnam | 384614 | [384614-bus-simulator-vietnam.json](./384614-bus-simulator-vietnam.json) |
 | Bus Simulator: Car Driving | 231770 | [231770-bus-simulator-car-driving.json](./231770-bus-simulator-car-driving.json) |
 | Bus Simulator: City Driving Ultimate | 264902 | [264902-bus-simulator-city-driving-ultimate.json](./264902-bus-simulator-city-driving-ultimate.json) |
@@ -11375,6 +11377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Businessman Simulator 2 | 402971 | [402971-businessman-simulator-2.json](./402971-businessman-simulator-2.json) |
 | Businessman Simulator 3 | 402973 | [402973-businessman-simulator-3.json](./402973-businessman-simulator-3.json) |
 | Businessmen | 301398 | [301398-businessmen.json](./301398-businessmen.json) |
+| Busou Renkin | 210840 | [210840-busou-renkin.json](./210840-busou-renkin.json) |
 | Busou Shinki: Battle Masters | 66641 | [66641-busou-shinki-battle-masters.json](./66641-busou-shinki-battle-masters.json) |
 | Busou Shinki: Battle Masters Mk. 2 | 56498 | [56498-busou-shinki-battle-masters-mk-2.json](./56498-busou-shinki-battle-masters-mk-2.json) |
 | Bussy Master: Club Leather | 311795 | [311795-bussy-master-club-leather.json](./311795-bussy-master-club-leather.json) |
