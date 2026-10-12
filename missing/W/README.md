@@ -1657,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterscape Solitaire: American Falls | 416139 | [416139-waterscape-solitaire-american-falls.json](./416139-waterscape-solitaire-american-falls.json) |
 | Watership Down | 398498 | [398498-watership-down.json](./398498-watership-down.json) |
 | Watertight | 355567 | [355567-watertight.json](./355567-watertight.json) |
+| Waterworks! | 182757 | [182757-waterworks.json](./182757-waterworks.json) |
 | Waterworld | 133281 | [133281-waterworld.json](./133281-waterworld.json) |
 | Waterworld | 338817 | [338817-waterworld.json](./338817-waterworld.json) |
 | Watris | 306037 | [306037-watris.json](./306037-watris.json) |
@@ -3060,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Nothing | 103634 | [103634-white-nothing.json](./103634-white-nothing.json) |
 | White Pearl | 76663 | [76663-white-pearl.json](./76663-white-pearl.json) |
 | White Rabbit | 161356 | [161356-white-rabbit.json](./161356-white-rabbit.json) |
+| White Rectangle | 182778 | [182778-white-rectangle.json](./182778-white-rectangle.json) |
 | White Room: Mind’s Prison | 327175 | [327175-white-room-mind-s-prison.json](./327175-white-room-mind-s-prison.json) |
 | White Rooms | 399708 | [399708-white-rooms.json](./399708-white-rooms.json) |
 | White Sands | 236228 | [236228-white-sands.json](./236228-white-sands.json) |
