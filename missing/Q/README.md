@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q.U.B.E. Ultimate Bundle | 271808 | [271808-q-u-b-e-ultimate-bundle.json](./271808-q-u-b-e-ultimate-bundle.json) |
 | Q.U.I.R.K. | 29819 | [29819-q-u-i-r-k.json](./29819-q-u-i-r-k.json) |
 | Q.u.q. | 238527 | [238527-q-u-q.json](./238527-q-u-q.json) |
+| Q'Redux | 216946 | [216946-qredux.json](./216946-qredux.json) |
 | Q*bert | 100023 | [100023-q-bert.json](./100023-q-bert.json) |
 | Q*bert | 217954 | [217954-q-bert.json](./217954-q-bert.json) |
 | Q*bert | 218430 | [218430-q-bert.json](./218430-q-bert.json) |
@@ -155,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuackShot Starring Donald Duck | 8446 | [8446-quackshot-starring-donald-duck.json](./8446-quackshot-starring-donald-duck.json) |
 | Quacktangled | 185525 | [185525-quacktangled.json](./185525-quacktangled.json) |
 | Quacktown Smackdown | 239062 | [239062-quacktown-smackdown.json](./239062-quacktown-smackdown.json) |
+| Quacky Oliver | 216945 | [216945-quacky-oliver.json](./216945-quacky-oliver.json) |
 | Quacolé Tennis | 352305 | [352305-quacole-tennis.json](./352305-quacole-tennis.json) |
 | Quad Battle | 294254 | [294254-quad-battle.json](./294254-quad-battle.json) |
 | Quad Challenge | 46212 | [46212-quad-challenge.json](./46212-quad-challenge.json) |
@@ -349,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Tripper: Max | 296520 | [296520-quantum-tripper-max.json](./296520-quantum-tripper-max.json) |
 | Quantum Tripper: Voyager | 221679 | [221679-quantum-tripper-voyager.json](./221679-quantum-tripper-voyager.json) |
 | Quantum Tripper: Wetwash | 221680 | [221680-quantum-tripper-wetwash.json](./221680-quantum-tripper-wetwash.json) |
+| Quantum Vision Board | 216944 | [216944-quantum-vision-board.json](./216944-quantum-vision-board.json) |
 | Quantum Void | 288758 | [288758-quantum-void.json](./288758-quantum-void.json) |
 | Quantum Witch | 323165 | [323165-quantum-witch.json](./323165-quantum-witch.json) |
 | Quantum Wizard | 44182 | [44182-quantum-wizard.json](./44182-quantum-wizard.json) |
