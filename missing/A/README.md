@@ -1102,6 +1102,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC Memory Match | 99415 | [99415-abc-memory-match.json](./99415-abc-memory-match.json) |
 | ABC Mysteriez: Hidden Letters | 88604 | [88604-abc-mysteriez-hidden-letters.json](./88604-abc-mysteriez-hidden-letters.json) |
 | ABC Nanpure Word-a-Pix | 222514 | [222514-abc-nanpure-word-a-pix.json](./222514-abc-nanpure-word-a-pix.json) |
+| ABC Search With Me: Adventure Bundle | 199851 | [199851-abc-search-with-me-adventure-bundle.json](./199851-abc-search-with-me-adventure-bundle.json) |
+| ABC Search with Me: Animal Pack | 199885 | [199885-abc-search-with-me-animal-pack.json](./199885-abc-search-with-me-animal-pack.json) |
+| ABC Search with Me: Food Pack | 199849 | [199849-abc-search-with-me-food-pack.json](./199849-abc-search-with-me-food-pack.json) |
+| ABC Search with Me: Sea Animal Pack | 199850 | [199850-abc-search-with-me-sea-animal-pack.json](./199850-abc-search-with-me-sea-animal-pack.json) |
+| ABC Search with Me: Zodiac Pack | 199848 | [199848-abc-search-with-me-zodiac-pack.json](./199848-abc-search-with-me-zodiac-pack.json) |
 | ABC Sports Presents: The Palm Spring Open | 46559 | [46559-abc-sports-presents-the-palm-spring-open.json](./46559-abc-sports-presents-the-palm-spring-open.json) |
 | ABC: Audioreactive Beat Circle | 138623 | [138623-abc-audioreactive-beat-circle.json](./138623-abc-audioreactive-beat-circle.json) |
 | ABC's Featuring the Jungle Jukebox | 392413 | [392413-abcs-featuring-the-jungle-jukebox.json](./392413-abcs-featuring-the-jungle-jukebox.json) |
@@ -6277,6 +6282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animals Transport Simulator | 219297 | [219297-animals-transport-simulator.json](./219297-animals-transport-simulator.json) |
 | Animals: Connect the Dots and Add Colors | 88746 | [88746-animals-connect-the-dots-and-add-colors.json](./88746-animals-connect-the-dots-and-add-colors.json) |
 | AnimaLudo | 153823 | [153823-animaludo.json](./153823-animaludo.json) |
+| AnimaLudo: Extended Edition | 199839 | [199839-animaludo-extended-edition.json](./199839-animaludo-extended-edition.json) |
 | Animalz Pop-em | 232361 | [232361-animalz-pop-em.json](./232361-animalz-pop-em.json) |
 | Animamundi: Dark Alchemist | 72665 | [72665-animamundi-dark-alchemist.json](./72665-animamundi-dark-alchemist.json) |
 | Animaniacs | 228405 | [228405-animaniacs.json](./228405-animaniacs.json) |
@@ -8425,6 +8431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aria and the Mysterious Mushroom | 249342 | [249342-aria-and-the-mysterious-mushroom.json](./249342-aria-and-the-mysterious-mushroom.json) |
 | Aria and the Secret of the Labyrinth | 385837 | [385837-aria-and-the-secret-of-the-labyrinth.json](./385837-aria-and-the-secret-of-the-labyrinth.json) |
 | Aria Chronicle | 135749 | [135749-aria-chronicle.json](./135749-aria-chronicle.json) |
+| Aria Chronicle: Necroknight Amazon Bundle | 199888 | [199888-aria-chronicle-necroknight-amazon-bundle.json](./199888-aria-chronicle-necroknight-amazon-bundle.json) |
 | Aria Dating Simulator | 385049 | [385049-aria-dating-simulator.json](./385049-aria-dating-simulator.json) |
 | Aria of Destiny | 326828 | [326828-aria-of-destiny.json](./326828-aria-of-destiny.json) |
 | Aria of God Killing | 193977 | [193977-aria-of-god-killing.json](./193977-aria-of-god-killing.json) |
@@ -10294,6 +10301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream | 172822 | [172822-atelier-sophie-2-the-alchemist-of-the-mysterious-dream.json](./172822-atelier-sophie-2-the-alchemist-of-the-mysterious-dream.json) |
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream - Digital Deluxe Edition | 221266 | [221266-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-digital-deluxe-edition.json](./221266-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-digital-deluxe-edition.json) |
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream - Extra Area: Atelier Plachta | 199509 | [199509-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-extra-area-atelier-plachta.json](./199509-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-extra-area-atelier-plachta.json) |
+| Atelier Sophie 2: The Alchemist of the Mysterious Dream - Ultimate Edition | 199870 | [199870-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-ultimate-edition.json](./199870-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-ultimate-edition.json) |
 | Atelier Sophie: The Alchemist of the Mysterious Book | 12633 | [12633-atelier-sophie-the-alchemist-of-the-mysterious-book.json](./12633-atelier-sophie-the-alchemist-of-the-mysterious-book.json) |
 | Atelier Totori: The Adventurer of Arland | 7276 | [7276-atelier-totori-the-adventurer-of-arland.json](./7276-atelier-totori-the-adventurer-of-arland.json) |
 | Atelier Totori: The Adventurer of Arland DX | 105030 | [105030-atelier-totori-the-adventurer-of-arland-dx.json](./105030-atelier-totori-the-adventurer-of-arland-dx.json) |
