@@ -1447,6 +1447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card X Monster | 212747 | [212747-card-x-monster.json](./212747-card-x-monster.json) |
 | Card-en-Ciel | 292835 | [292835-card-en-ciel.json](./292835-card-en-ciel.json) |
 | Card-en-Ciel: The World of the "Blaster Master Zero Series" | 391867 | [391867-card-en-ciel-the-world-of-the-blaster-master-zero-series.json](./391867-card-en-ciel-the-world-of-the-blaster-master-zero-series.json) |
+| Card-Jitsu | 200379 | [200379-card-jitsu.json](./200379-card-jitsu.json) |
 | Card'em All! | 346201 | [346201-cardem-all.json](./346201-cardem-all.json) |
 | Card&Casino | 399617 | [399617-card-and-casino.json](./399617-card-and-casino.json) |
 | Cardaire | 319691 | [319691-cardaire.json](./319691-cardaire.json) |
@@ -9826,6 +9827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cow Chess | 331281 | [331281-cow-chess.json](./331281-cow-chess.json) |
 | Cow Defender | 97441 | [97441-cow-defender.json](./97441-cow-defender.json) |
 | Cow Evolution | 203205 | [203205-cow-evolution.json](./203205-cow-evolution.json) |
+| Cow Hunter | 200371 | [200371-cow-hunter.json](./200371-cow-hunter.json) |
 | Cow Life Sim RPG | 281348 | [281348-cow-life-sim-rpg.json](./281348-cow-life-sim-rpg.json) |
 | Cow Project 1986 | 401643 | [401643-cow-project-1986.json](./401643-cow-project-1986.json) |
 | Cow V: The Great Egg Quest | 71060 | [71060-cow-v-the-great-egg-quest.json](./71060-cow-v-the-great-egg-quest.json) |
