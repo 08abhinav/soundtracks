@@ -4392,6 +4392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Des Racines et des Graines | 261724 | [261724-des-racines-et-des-graines.json](./261724-des-racines-et-des-graines.json) |
 | Desafio Quiz | 357376 | [357376-desafio-quiz.json](./357376-desafio-quiz.json) |
 | Desastre Colectivo | 135077 | [135077-desastre-colectivo.json](./135077-desastre-colectivo.json) |
+| Desaturation Point | 195472 | [195472-desaturation-point.json](./195472-desaturation-point.json) |
 | Descend | 264044 | [264044-descend.json](./264044-descend.json) |
 | Descend into Madness | 162837 | [162837-descend-into-madness.json](./162837-descend-into-madness.json) |
 | Descend.gg | 232661 | [232661-descend-gg.json](./232661-descend-gg.json) |
@@ -7354,6 +7355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DogeRift | 227965 | [227965-dogerift.json](./227965-dogerift.json) |
 | Dogfight | 147831 | [147831-dogfight.json](./147831-dogfight.json) |
 | Dogfight 2187 | 13599 | [13599-dogfight-2187.json](./13599-dogfight-2187.json) |
+| DogFight Time | 195439 | [195439-dogfight-time.json](./195439-dogfight-time.json) |
 | Dogfight: 80 Years of Aerial Warfare | 12051 | [12051-dogfight-80-years-of-aerial-warfare.json](./12051-dogfight-80-years-of-aerial-warfare.json) |
 | Dogfight: Battle for the Pacific | 209118 | [209118-dogfight-battle-for-the-pacific.json](./209118-dogfight-battle-for-the-pacific.json) |
 | Dogfight: Battle in the Skies | 65464 | [65464-dogfight-battle-in-the-skies.json](./65464-dogfight-battle-in-the-skies.json) |
@@ -8244,6 +8246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DOOM 87: The Lost World | 257833 | [257833-doom-87-the-lost-world.json](./257833-doom-87-the-lost-world.json) |
 | DOOM Abort | 202841 | [202841-doom-abort.json](./202841-doom-abort.json) |
 | Doom Anthology | 332005 | [332005-doom-anthology.json](./332005-doom-anthology.json) |
+| Doom CE | 195432 | [195432-doom-ce.json](./195432-doom-ce.json) |
 | Doom ChessMaster | 398500 | [398500-doom-chessmaster.json](./398500-doom-chessmaster.json) |
 | Doom City | 144214 | [144214-doom-city.json](./144214-doom-city.json) |
 | Doom Core | 275569 | [275569-doom-core.json](./275569-doom-core.json) |
