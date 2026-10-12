@@ -5722,6 +5722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Ambulance Car Driving | 265731 | [265731-city-ambulance-car-driving.json](./265731-city-ambulance-car-driving.json) |
 | City Ambulance: Rescue Express | 277018 | [277018-city-ambulance-rescue-express.json](./277018-city-ambulance-rescue-express.json) |
 | City Arena: Hero Legends | 275015 | [275015-city-arena-hero-legends.json](./275015-city-arena-hero-legends.json) |
+| City Attack 3 | 200918 | [200918-city-attack-3.json](./200918-city-attack-3.json) |
 | City Avenger | 240256 | [240256-city-avenger.json](./240256-city-avenger.json) |
 | City Balls VR | 76938 | [76938-city-balls-vr.json](./76938-city-balls-vr.json) |
 | City Bike Messenger 3D | 102847 | [102847-city-bike-messenger-3d.json](./102847-city-bike-messenger-3d.json) |
@@ -9786,6 +9787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coven: All Powerful | 351562 | [351562-coven-all-powerful.json](./351562-coven-all-powerful.json) |
 | Covenant | 324911 | [324911-covenant.json](./324911-covenant.json) |
 | Covenant of Anubis | 348771 | [348771-covenant-of-anubis.json](./348771-covenant-of-anubis.json) |
+| Covenant of Solitude | 200936 | [200936-covenant-of-solitude.json](./200936-covenant-of-solitude.json) |
 | Covenant: Project Zero | 236368 | [236368-covenant-project-zero.json](./236368-covenant-project-zero.json) |
 | Covenanted | 157155 | [157155-covenanted.json](./157155-covenanted.json) |
 | Cover Fire | 38954 | [38954-cover-fire.json](./38954-cover-fire.json) |
@@ -12361,6 +12363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curious Expedition | 19319 | [19319-curious-expedition.json](./19319-curious-expedition.json) |
 | Curious Expedition 2 Bundle | 218688 | [218688-curious-expedition-2-bundle.json](./218688-curious-expedition-2-bundle.json) |
 | Curious Expedition 2: Robots of Lux | 216160 | [216160-curious-expedition-2-robots-of-lux.json](./216160-curious-expedition-2-robots-of-lux.json) |
+| Curious Expedition 2: Shores of Taishi | 200928 | [200928-curious-expedition-2-shores-of-taishi.json](./200928-curious-expedition-2-shores-of-taishi.json) |
 | Curious Fishing | 249746 | [249746-curious-fishing.json](./249746-curious-fishing.json) |
 | Curious George Comes Home | 145899 | [145899-curious-george-comes-home.json](./145899-curious-george-comes-home.json) |
 | Curious George Early Learning Adventure | 384220 | [384220-curious-george-early-learning-adventure.json](./384220-curious-george-early-learning-adventure.json) |
