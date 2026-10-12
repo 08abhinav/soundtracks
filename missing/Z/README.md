@@ -739,6 +739,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zippy the Circle Challenge: Level 3C and Level 4C | 213854 | [213854-zippy-the-circle-challenge-level-3c-and-level-4c.json](./213854-zippy-the-circle-challenge-level-3c-and-level-4c.json) |
 | Zippy the Circle Challenge: Level 5C, Level 6C, and Level 7C | 213853 | [213853-zippy-the-circle-challenge-level-5c-level-6c-and-level-7c.json](./213853-zippy-the-circle-challenge-level-5c-level-6c-and-level-7c.json) |
 | Zippy the Circle Challenge: Level 8C, Level 9C, and Level 10C | 213851 | [213851-zippy-the-circle-challenge-level-8c-level-9c-and-level-10c.json](./213851-zippy-the-circle-challenge-level-8c-level-9c-and-level-10c.json) |
+| Zippy the Circle: Level 11, Level 12, & Level 13 | 214696 | [214696-zippy-the-circle-level-11-level-12-and-level-13.json](./214696-zippy-the-circle-level-11-level-12-and-level-13.json) |
+| Zippy the Circle: Level 8, Level 9, & Level 10 | 214695 | [214695-zippy-the-circle-level-8-level-9-and-level-10.json](./214695-zippy-the-circle-level-8-level-9-and-level-10.json) |
 | Zippy the Porcupine | 18411 | [18411-zippy-the-porcupine.json](./18411-zippy-the-porcupine.json) |
 | Zippy Zombi | 73813 | [73813-zippy-zombi.json](./73813-zippy-zombi.json) |
 | Ziria | 106091 | [106091-ziria.json](./106091-ziria.json) |
@@ -1213,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies on a Plane | 36295 | [36295-zombies-on-a-plane.json](./36295-zombies-on-a-plane.json) |
 | Zombies Overloaded | 124618 | [124618-zombies-overloaded.json](./124618-zombies-overloaded.json) |
 | Zombies Rising xXx | 274440 | [274440-zombies-rising-xxx.json](./274440-zombies-rising-xxx.json) |
+| Zombies Royale.io | 214688 | [214688-zombies-royale-io.json](./214688-zombies-royale-io.json) |
 | Zombies Shall Not Pass! | 180574 | [180574-zombies-shall-not-pass.json](./180574-zombies-shall-not-pass.json) |
 | Zombies TD | 213404 | [213404-zombies-td.json](./213404-zombies-td.json) |
 | Zombies vs Chucky | 105754 | [105754-zombies-vs-chucky.json](./105754-zombies-vs-chucky.json) |
@@ -1482,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zuma Girls | 369564 | [369564-zuma-girls.json](./369564-zuma-girls.json) |
 | Zuma's Revenge! | 8322 | [8322-zumas-revenge.json](./8322-zumas-revenge.json) |
 | Zumania: Magic Casual Puzzle | 175813 | [175813-zumania-magic-casual-puzzle.json](./175813-zumania-magic-casual-puzzle.json) |
+| Zumba Blitz | 214661 | [214661-zumba-blitz.json](./214661-zumba-blitz.json) |
 | Zumba Fitness 2 | 5306 | [5306-zumba-fitness-2.json](./5306-zumba-fitness-2.json) |
 | Zumba Fitness Rush | 47389 | [47389-zumba-fitness-rush.json](./47389-zumba-fitness-rush.json) |
 | Zumba Kids | 5309 | [5309-zumba-kids.json](./5309-zumba-kids.json) |
