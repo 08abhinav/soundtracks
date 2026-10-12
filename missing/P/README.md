@@ -4293,7 +4293,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillar Builder Puzzle | 214684 | [214684-pillar-builder-puzzle.json](./214684-pillar-builder-puzzle.json) |
 | Pillar of Gods | 337077 | [337077-pillar-of-gods.json](./337077-pillar-of-gods.json) |
 | Pillar of Salt | 361729 | [361729-pillar-of-salt.json](./361729-pillar-of-salt.json) |
-| Pillars of Eternity II: Deadfire | 26951 | [26951-pillars-of-eternity-ii-deadfire.json](./26951-pillars-of-eternity-ii-deadfire.json) |
 | Pillars of Eternity II: Deadfire - Deck of Many Things | 124822 | [124822-pillars-of-eternity-ii-deadfire-deck-of-many-things.json](./124822-pillars-of-eternity-ii-deadfire-deck-of-many-things.json) |
 | Pillars of Eternity II: Deadfire - Obsidian Edition | 83895 | [83895-pillars-of-eternity-ii-deadfire-obsidian-edition.json](./83895-pillars-of-eternity-ii-deadfire-obsidian-edition.json) |
 | Pillars of Eternity II: Deadfire - Rum Runner’s Pack | 154457 | [154457-pillars-of-eternity-ii-deadfire-rum-runner-s-pack.json](./154457-pillars-of-eternity-ii-deadfire-rum-runner-s-pack.json) |
