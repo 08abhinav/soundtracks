@@ -6261,6 +6261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rody & Mastico II | 15357 | [15357-rody-and-mastico-ii.json](./15357-rody-and-mastico-ii.json) |
 | Rody & Mastico III | 15358 | [15358-rody-and-mastico-iii.json](./15358-rody-and-mastico-iii.json) |
 | Rody & Mastico IV: Noël | 15359 | [15359-rody-and-mastico-iv-noel.json](./15359-rody-and-mastico-iv-noel.json) |
+| RoFish: Prelude | 217471 | [217471-rofish-prelude.json](./217471-rofish-prelude.json) |
 | Rog & Roll | 139401 | [139401-rog-and-roll.json](./139401-rog-and-roll.json) |
 | Rogalia | 31300 | [31300-rogalia.json](./31300-rogalia.json) |
 | Rogalik | 99654 | [99654-rogalik.json](./99654-rogalik.json) |
