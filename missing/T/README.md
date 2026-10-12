@@ -1741,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarot Readings Premium | 118741 | [118741-tarot-readings-premium.json](./118741-tarot-readings-premium.json) |
 | Tarot Spell | 390271 | [390271-tarot-spell.json](./390271-tarot-spell.json) |
 | Tarot Uranai | 254587 | [254587-tarot-uranai.json](./254587-tarot-uranai.json) |
+| Tarot: Theo's Quest | 190416 | [190416-tarot-theos-quest.json](./190416-tarot-theos-quest.json) |
 | Tarr Chronicles | 66757 | [66757-tarr-chronicles.json](./66757-tarr-chronicles.json) |
 | Tarragona 6: Algernon's Lab | 315553 | [315553-tarragona-6-algernons-lab.json](./315553-tarragona-6-algernons-lab.json) |
 | Tarragona 7: Civilisations Crossroads | 315555 | [315555-tarragona-7-civilisations-crossroads.json](./315555-tarragona-7-civilisations-crossroads.json) |
@@ -6932,6 +6933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hollow Lighthouse | 358329 | [358329-the-hollow-lighthouse.json](./358329-the-hollow-lighthouse.json) |
 | The Hollow Road: Prologue | 399769 | [399769-the-hollow-road-prologue.json](./399769-the-hollow-road-prologue.json) |
 | The Holoween collection | 206123 | [206123-the-holoween-collection.json](./206123-the-holoween-collection.json) |
+| The Holy Chalice | 190402 | [190402-the-holy-chalice.json](./190402-the-holy-chalice.json) |
 | The Holy Chalice | 194890 | [194890-the-holy-chalice.json](./194890-the-holy-chalice.json) |
 | The Holy Silence | 169746 | [169746-the-holy-silence.json](./169746-the-holy-silence.json) |
 | The Home County | 359924 | [359924-the-home-county.json](./359924-the-home-county.json) |
@@ -12816,6 +12818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Call Me... The Skul | 70093 | [70093-they-call-me-the-skul.json](./70093-they-call-me-the-skul.json) |
 | They Came for More Pasta | 345979 | [345979-they-came-for-more-pasta.json](./345979-they-came-for-more-pasta.json) |
 | They Came From a Communist Planet | 125294 | [125294-they-came-from-a-communist-planet.json](./125294-they-came-from-a-communist-planet.json) |
+| They Came From Below | 190409 | [190409-they-came-from-below.json](./190409-they-came-from-below.json) |
 | They Came From Dimension X | 213978 | [213978-they-came-from-dimension-x.json](./213978-they-came-from-dimension-x.json) |
 | They Came from the Ground | 328620 | [328620-they-came-from-the-ground.json](./328620-they-came-from-the-ground.json) |
 | They Come in Fives | 370915 | [370915-they-come-in-fives.json](./370915-they-come-in-fives.json) |
