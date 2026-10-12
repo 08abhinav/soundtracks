@@ -3185,6 +3185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masefeh | 378443 | [378443-masefeh.json](./378443-masefeh.json) |
 | Maseylia: Echoes of the Past | 302107 | [302107-maseylia-echoes-of-the-past.json](./302107-maseylia-echoes-of-the-past.json) |
 | Mash | 100606 | [100606-mash.json](./100606-mash.json) |
+| Mash Gadget | 202049 | [202049-mash-gadget.json](./202049-mash-gadget.json) |
 | Mash Motion: Sprint Rush | 397950 | [397950-mash-motion-sprint-rush.json](./397950-mash-motion-sprint-rush.json) |
 | Mash VP! Re:Vision | 319746 | [319746-mash-vp-re-vision.json](./319746-mash-vp-re-vision.json) |
 | Mash&Co | 119645 | [119645-mash-and-co.json](./119645-mash-and-co.json) |
@@ -9272,6 +9273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobu | 404826 | [404826-mobu.json](./404826-mobu.json) |
 | MoBu 2 - Race with Friends | 104627 | [104627-mobu-2-race-with-friends.json](./104627-mobu-2-race-with-friends.json) |
 | Mobula | 311790 | [311790-mobula.json](./311790-mobula.json) |
+| Mobware Minigame Jam! | 202036 | [202036-mobware-minigame-jam.json](./202036-mobware-minigame-jam.json) |
 | Moby Dick 2 | 337230 | [337230-moby-dick-2.json](./337230-moby-dick-2.json) |
 | Moby Dick: The Video Game | 337229 | [337229-moby-dick-the-video-game.json](./337229-moby-dick-the-video-game.json) |
 | Moby's Revenge | 243093 | [243093-mobys-revenge.json](./243093-mobys-revenge.json) |
@@ -11607,6 +11609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouskattack | 282111 | [282111-mouskattack.json](./282111-mouskattack.json) |
 | Moussacre | 283763 | [283763-moussacre.json](./283763-moussacre.json) |
 | Moustache Mountain | 33133 | [33133-moustache-mountain.json](./33133-moustache-mountain.json) |
+| Moustake | 202022 | [202022-moustake.json](./202022-moustake.json) |
 | Mouth Trap | 318429 | [318429-mouth-trap.json](./318429-mouth-trap.json) |
 | Mouthwashing | 264410 | [264410-mouthwashing.json](./264410-mouthwashing.json) |
 | Movafort | 212190 | [212190-movafort.json](./212190-movafort.json) |
