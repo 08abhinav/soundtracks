@@ -1197,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Internado Laguna Negra | 144305 | [144305-el-internado-laguna-negra.json](./144305-el-internado-laguna-negra.json) |
 | El lacasito de Gandalf | 320990 | [320990-el-lacasito-de-gandalf.json](./320990-el-lacasito-de-gandalf.json) |
 | El Ladrón del Tiempo | 321134 | [321134-el-ladron-del-tiempo.json](./321134-el-ladron-del-tiempo.json) |
+| El Litri en Busca del Odrogoban Perdido | 194211 | [194211-el-litri-en-busca-del-odrogoban-perdido.json](./194211-el-litri-en-busca-del-odrogoban-perdido.json) |
 | El Llamero Solitario | 404453 | [404453-el-llamero-solitario.json](./404453-el-llamero-solitario.json) |
 | El Matador | 9828 | [9828-el-matador.json](./9828-el-matador.json) |
 | El Minero | 207189 | [207189-el-minero.json](./207189-el-minero.json) |
