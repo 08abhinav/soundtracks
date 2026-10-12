@@ -6151,6 +6151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blam! Machinehead | 45414 | [45414-blam-machinehead.json](./45414-blam-machinehead.json) |
 | Blamdown Udder Fury | 33063 | [33063-blamdown-udder-fury.json](./33063-blamdown-udder-fury.json) |
 | Blame him | 111802 | [111802-blame-him.json](./111802-blame-him.json) |
+| Blame the Intern | 185369 | [185369-blame-the-intern.json](./185369-blame-the-intern.json) |
 | BlameChat | 415969 | [415969-blamechat.json](./415969-blamechat.json) |
 | Blanc | 206812 | [206812-blanc.json](./206812-blanc.json) |
 | Blanche | 184566 | [184566-blanche.json](./184566-blanche.json) |
@@ -7272,6 +7273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Zombies | 100185 | [100185-bloody-zombies.json](./100185-bloody-zombies.json) |
 | Bloodz | 217211 | [217211-bloodz.json](./217211-bloodz.json) |
 | Bloom | 110476 | [110476-bloom.json](./110476-bloom.json) |
+| Bloom | 185362 | [185362-bloom.json](./185362-bloom.json) |
 | Bloom | 198149 | [198149-bloom.json](./198149-bloom.json) |
 | Bloom | 263568 | [263568-bloom.json](./263568-bloom.json) |
 | Bloom | 380031 | [380031-bloom.json](./380031-bloom.json) |
@@ -7653,6 +7655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob Morane: Chevalerie 1 | 55094 | [55094-bob-morane-chevalerie-1.json](./55094-bob-morane-chevalerie-1.json) |
 | Bob Morane: Jungle 1 | 55095 | [55095-bob-morane-jungle-1.json](./55095-bob-morane-jungle-1.json) |
 | Bob Morane: Science Fiction 1 | 55096 | [55096-bob-morane-science-fiction-1.json](./55096-bob-morane-science-fiction-1.json) |
+| Bob PicRoss: The Joy of Painting 2 | 185392 | [185392-bob-picross-the-joy-of-painting-2.json](./185392-bob-picross-the-joy-of-painting-2.json) |
 | Bob Ross: The Joy of Painting | 205647 | [205647-bob-ross-the-joy-of-painting.json](./205647-bob-ross-the-joy-of-painting.json) |
 | Bob Saves the Princess | 373726 | [373726-bob-saves-the-princess.json](./373726-bob-saves-the-princess.json) |
 | Bob Shop | 246549 | [246549-bob-shop.json](./246549-bob-shop.json) |
@@ -11682,6 +11685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BVS Solitaire Collection | 93360 | [93360-bvs-solitaire-collection.json](./93360-bvs-solitaire-collection.json) |
 | By Any Means Necessary | 65818 | [65818-by-any-means-necessary.json](./65818-by-any-means-necessary.json) |
 | By Bait or By Bullet | 369238 | [369238-by-bait-or-by-bullet.json](./369238-by-bait-or-by-bullet.json) |
+| By Day and Night | 185393 | [185393-by-day-and-night.json](./185393-by-day-and-night.json) |
 | By God Your Anger is Beautiful | 182881 | [182881-by-god-your-anger-is-beautiful.json](./182881-by-god-your-anger-is-beautiful.json) |
 | By Grit Alone | 306947 | [306947-by-grit-alone.json](./306947-by-grit-alone.json) |
 | By Lamplight | 135612 | [135612-by-lamplight.json](./135612-by-lamplight.json) |
