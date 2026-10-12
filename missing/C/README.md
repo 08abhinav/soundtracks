@@ -737,6 +737,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can you escape prison: Portal PRO | 99703 | [99703-can-you-escape-prison-portal-pro.json](./99703-can-you-escape-prison-portal-pro.json) |
 | Can you escape Switzerland | 220050 | [220050-can-you-escape-switzerland.json](./220050-can-you-escape-switzerland.json) |
 | Can You Escape- Jail Break | 106550 | [106550-can-you-escape-jail-break.json](./106550-can-you-escape-jail-break.json) |
+| Can You Escape: Deluxe | 181614 | [181614-can-you-escape-deluxe.json](./181614-can-you-escape-deluxe.json) |
+| Can You Escape: Island | 181650 | [181650-can-you-escape-island.json](./181650-can-you-escape-island.json) |
 | Can you escape: Room Escape 1 | 106954 | [106954-can-you-escape-room-escape-1.json](./106954-can-you-escape-room-escape-1.json) |
 | Can You Escape? | 194391 | [194391-can-you-escape.json](./194391-can-you-escape.json) |
 | Can You Get Off Work on Time? | 320816 | [320816-can-you-get-off-work-on-time.json](./320816-can-you-get-off-work-on-time.json) |
@@ -3369,6 +3371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cerulean Days | 258996 | [258996-cerulean-days.json](./258996-cerulean-days.json) |
 | Cerulean Moon | 120220 | [120220-cerulean-moon.json](./120220-cerulean-moon.json) |
 | Cerulean Tears | 323929 | [323929-cerulean-tears.json](./323929-cerulean-tears.json) |
+| Cervidae | 182140 | [182140-cervidae.json](./182140-cervidae.json) |
 | Cesar Millan's Dog Whisperer | 70646 | [70646-cesar-millans-dog-whisperer.json](./70646-cesar-millans-dog-whisperer.json) |
 | Cessate il Fuoco | 305462 | [305462-cessate-il-fuoco.json](./305462-cessate-il-fuoco.json) |
 | Cessate il Fuoco/Heathcliff | 305298 | [305298-cessate-il-fuoco-heathcliff.json](./305298-cessate-il-fuoco-heathcliff.json) |
@@ -4213,6 +4216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Morph: The Queen's Wormholes | 237058 | [237058-chess-morph-the-queens-wormholes.json](./237058-chess-morph-the-queens-wormholes.json) |
 | Chess of Doom | 346550 | [346550-chess-of-doom.json](./346550-chess-of-doom.json) |
 | Chess of Fortune | 357216 | [357216-chess-of-fortune.json](./357216-chess-of-fortune.json) |
+| Chess of the SOL | 181633 | [181633-chess-of-the-sol.json](./181633-chess-of-the-sol.json) |
 | Chess Online | 88433 | [88433-chess-online.json](./88433-chess-online.json) |
 | Chess Online + | 88339 | [88339-chess-online.json](./88339-chess-online.json) |
 | Chess Opening Repertoire Builder | 297724 | [297724-chess-opening-repertoire-builder.json](./297724-chess-opening-repertoire-builder.json) |
@@ -4303,6 +4307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChessRogue | 319280 | [319280-chessrogue.json](./319280-chessrogue.json) |
 | Chesst | 400891 | [400891-chesst.json](./400891-chesst.json) |
 | Chesstris | 361633 | [361633-chesstris.json](./361633-chesstris.json) |
+| Chesstris 2000 | 181603 | [181603-chesstris-2000.json](./181603-chesstris-2000.json) |
 | Chesstris Mini | 214681 | [214681-chesstris-mini.json](./214681-chesstris-mini.json) |
 | Chesstro | 403547 | [403547-chesstro.json](./403547-chesstro.json) |
 | ChessVR | 207362 | [207362-chessvr.json](./207362-chessvr.json) |
@@ -4602,6 +4607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chill Fox | 368820 | [368820-chill-fox.json](./368820-chill-fox.json) |
 | Chill Manor | 64704 | [64704-chill-manor.json](./64704-chill-manor.json) |
 | Chill of Death's: Breath | 269280 | [269280-chill-of-deaths-breath.json](./269280-chill-of-deaths-breath.json) |
+| Chill Out | 181625 | [181625-chill-out.json](./181625-chill-out.json) |
 | Chill Out | 335474 | [335474-chill-out.json](./335474-chill-out.json) |
 | Chill Out | 413050 | [413050-chill-out.json](./413050-chill-out.json) |
 | Chill Panda | 142837 | [142837-chill-panda.json](./142837-chill-panda.json) |
@@ -5062,6 +5068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Fables: Nutcracker's Tale - Collector's Edition | 382194 | [382194-christmas-fables-nutcrackers-tale-collectors-edition.json](./382194-christmas-fables-nutcrackers-tale-collectors-edition.json) |
 | Christmas Fables: The Magic Snowflake - Collector's Edition | 280435 | [280435-christmas-fables-the-magic-snowflake-collectors-edition.json](./280435-christmas-fables-the-magic-snowflake-collectors-edition.json) |
 | Christmas Fables: The Wishing Store - Collector's Edition | 337272 | [337272-christmas-fables-the-wishing-store-collectors-edition.json](./337272-christmas-fables-the-wishing-store-collectors-edition.json) |
+| Christmas Fever! | 181648 | [181648-christmas-fever.json](./181648-christmas-fever.json) |
 | Christmas Fishing | 419830 | [419830-christmas-fishing.json](./419830-christmas-fishing.json) |
 | Christmas Fun | 226312 | [226312-christmas-fun.json](./226312-christmas-fun.json) |
 | Christmas Girls | 279522 | [279522-christmas-girls.json](./279522-christmas-girls.json) |
@@ -5777,6 +5784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Bus Simulator | 308999 | [308999-city-bus-simulator.json](./308999-city-bus-simulator.json) |
 | City Bus Simulator 2010 | 67299 | [67299-city-bus-simulator-2010.json](./67299-city-bus-simulator-2010.json) |
 | City Bus Simulator 2018 | 96501 | [96501-city-bus-simulator-2018.json](./96501-city-bus-simulator-2018.json) |
+| City Bus Simulator 2019 | 181610 | [181610-city-bus-simulator-2019.json](./181610-city-bus-simulator-2019.json) |
 | City Bus Simulator 2024 | 304324 | [304324-city-bus-simulator-2024.json](./304324-city-bus-simulator-2024.json) |
 | City Bus Tycoon | 89810 | [89810-city-bus-tycoon.json](./89810-city-bus-tycoon.json) |
 | City Car Driving 2.0 | 403690 | [403690-city-car-driving-2-0.json](./403690-city-car-driving-2-0.json) |
@@ -5812,6 +5820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Idle | 244354 | [244354-city-idle.json](./244354-city-idle.json) |
 | City Island 2: Building Sim | 103544 | [103544-city-island-2-building-sim.json](./103544-city-island-2-building-sim.json) |
 | City Island 4 | 88498 | [88498-city-island-4.json](./88498-city-island-4.json) |
+| City Island: Paradise Sim | 181653 | [181653-city-island-paradise-sim.json](./181653-city-island-paradise-sim.json) |
 | City League Softball | 209400 | [209400-city-league-softball.json](./209400-city-league-softball.json) |
 | City Legends: The Ghost of Misty Hill - Collector's Edition | 251844 | [251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json](./251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json) |
 | City Legends: The Ghost of Misty Hill - DLC | 252238 | [252238-city-legends-the-ghost-of-misty-hill-dlc.json](./252238-city-legends-the-ghost-of-misty-hill-dlc.json) |
@@ -7996,6 +8005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come on in! Succubus-san: I'll Have Your Semen Tonight, too Hungry Mere Squeezes Out Your Semen | 385838 | [385838-come-on-in-succubus-san-ill-have-your-semen-tonight-too-hungry-mere-squeezes-out-your-semen.json](./385838-come-on-in-succubus-san-ill-have-your-semen-tonight-too-hungry-mere-squeezes-out-your-semen.json) |
 | Come on Kitty | 214521 | [214521-come-on-kitty.json](./214521-come-on-kitty.json) |
 | Come on Picot | 47559 | [47559-come-on-picot.json](./47559-come-on-picot.json) |
+| Come on Up | 182161 | [182161-come-on-up.json](./182161-come-on-up.json) |
 | Come on,Fantasy baby! | 325730 | [325730-come-on-fantasy-baby.json](./325730-come-on-fantasy-baby.json) |
 | Come Out Guys | 389680 | [389680-come-out-guys.json](./389680-come-out-guys.json) |
 | Come Out, Cat | 363947 | [363947-come-out-cat.json](./363947-come-out-cat.json) |
@@ -8846,6 +8856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Continental Cafe | 52830 | [52830-continental-cafe.json](./52830-continental-cafe.json) |
 | Continental Drift | 135834 | [135834-continental-drift.json](./135834-continental-drift.json) |
 | Continental Galaxy 2020 | 59811 | [59811-continental-galaxy-2020.json](./59811-continental-galaxy-2020.json) |
+| Contingency | 181626 | [181626-contingency.json](./181626-contingency.json) |
 | Contingency Plan | 336632 | [336632-contingency-plan.json](./336632-contingency-plan.json) |
 | Contingent️ | 275352 | [275352-contingent.json](./275352-contingent.json) |
 | Continue?9876543210 | 8725 | [8725-continue-9876543210.json](./8725-continue-9876543210.json) |
