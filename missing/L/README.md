@@ -3817,6 +3817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Horrors! | 287240 | [287240-little-horrors.json](./287240-little-horrors.json) |
 | Little Inferno | 1363 | [1363-little-inferno.json](./1363-little-inferno.json) |
 | Little Inferno: Ho Ho Holiday | 224412 | [224412-little-inferno-ho-ho-holiday.json](./224412-little-inferno-ho-ho-holiday.json) |
+| Little Inner Monsters | 193666 | [193666-little-inner-monsters.json](./193666-little-inner-monsters.json) |
 | Little Island | 189072 | [189072-little-island.json](./189072-little-island.json) |
 | Little Island Adventure | 202134 | [202134-little-island-adventure.json](./202134-little-island-adventure.json) |
 | Little Islanders | 211251 | [211251-little-islanders.json](./211251-little-islanders.json) |
@@ -4376,6 +4377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locksmith | 48906 | [48906-locksmith.json](./48906-locksmith.json) |
 | Loco | 138123 | [138123-loco.json](./138123-loco.json) |
 | Loco Bonobo | 192871 | [192871-loco-bonobo.json](./192871-loco-bonobo.json) |
+| Loco Dojo Unleashed | 193680 | [193680-loco-dojo-unleashed.json](./193680-loco-dojo-unleashed.json) |
 | Loco Limbo | 304833 | [304833-loco-limbo.json](./304833-loco-limbo.json) |
 | Loco Loco | 58326 | [58326-loco-loco.json](./58326-loco-loco.json) |
 | Loco Mania | 61477 | [61477-loco-mania.json](./61477-loco-mania.json) |
