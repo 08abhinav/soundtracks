@@ -4964,6 +4964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Doesn't Walk | 156021 | [156021-she-doesnt-walk.json](./156021-she-doesnt-walk.json) |
 | She Fell Off | 260160 | [260160-she-fell-off.json](./260160-she-fell-off.json) |
 | She From The Future | 309364 | [309364-she-from-the-future.json](./309364-she-from-the-future.json) |
+| She Hates Unicorns | 189979 | [189979-she-hates-unicorns.json](./189979-she-hates-unicorns.json) |
 | She Hungers | 397665 | [397665-she-hungers.json](./397665-she-hungers.json) |
 | She is Home Alone | 310373 | [310373-she-is-home-alone.json](./310373-she-is-home-alone.json) |
 | She is Mermaid | 102086 | [102086-she-is-mermaid.json](./102086-she-is-mermaid.json) |
@@ -7321,6 +7322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singularity | 401639 | [401639-singularity.json](./401639-singularity.json) |
 | Singularity | 77285 | [77285-singularity.json](./77285-singularity.json) |
 | Singularity - Modern Lights Out | 128567 | [128567-singularity-modern-lights-out.json](./128567-singularity-modern-lights-out.json) |
+| Singularity Dungeon | 189906 | [189906-singularity-dungeon.json](./189906-singularity-dungeon.json) |
 | Singularity Runner | 219678 | [219678-singularity-runner.json](./219678-singularity-runner.json) |
 | Singularity Shooter | 112728 | [112728-singularity-shooter.json](./112728-singularity-shooter.json) |
 | Singularity Survivors | 298245 | [298245-singularity-survivors.json](./298245-singularity-survivors.json) |
@@ -7986,6 +7988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Battles | 35834 | [35834-sky-battles.json](./35834-sky-battles.json) |
 | Sky Brawl | 111179 | [111179-sky-brawl.json](./111179-sky-brawl.json) |
 | Sky Captain's Return | 213454 | [213454-sky-captains-return.json](./213454-sky-captains-return.json) |
+| Sky Caravan | 189891 | [189891-sky-caravan.json](./189891-sky-caravan.json) |
 | Sky Champ | 194017 | [194017-sky-champ.json](./194017-sky-champ.json) |
 | Sky Chuter | 328226 | [328226-sky-chuter.json](./328226-sky-chuter.json) |
 | Sky City Blues | 132824 | [132824-sky-city-blues.json](./132824-sky-city-blues.json) |
@@ -13140,6 +13143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceship Survivors | 244732 | [244732-spaceship-survivors.json](./244732-spaceship-survivors.json) |
 | Spaceship Tactics | 338269 | [338269-spaceship-tactics.json](./338269-spaceship-tactics.json) |
 | Spaceship Trouble | 166705 | [166705-spaceship-trouble.json](./166705-spaceship-trouble.json) |
+| Spaceships | 189907 | [189907-spaceships.json](./189907-spaceships.json) |
 | SpaceShooter | 180654 | [180654-spaceshooter.json](./180654-spaceshooter.json) |
 | SpaceShooter | 413900 | [413900-spaceshooter.json](./413900-spaceshooter.json) |
 | Spaceslingers | 150489 | [150489-spaceslingers.json](./150489-spaceslingers.json) |
@@ -17542,6 +17546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop Stress: A Day of Fury | 67253 | [67253-stop-stress-a-day-of-fury.json](./67253-stop-stress-a-day-of-fury.json) |
 | Stop the Blight | 338748 | [338748-stop-the-blight.json](./338748-stop-the-blight.json) |
 | Stop the Bus | 83464 | [83464-stop-the-bus.json](./83464-stop-the-bus.json) |
+| Stop the Cult | 189913 | [189913-stop-the-cult.json](./189913-stop-the-cult.json) |
 | Stop the Press! | 381631 | [381631-stop-the-press.json](./381631-stop-the-press.json) |
 | Stop the Slimes | 273967 | [273967-stop-the-slimes.json](./273967-stop-the-slimes.json) |
 | Stop Thief | 301438 | [301438-stop-thief.json](./301438-stop-thief.json) |
@@ -19377,6 +19382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumo | 281686 | [281686-sumo.json](./281686-sumo.json) |
 | Sumo | 303084 | [303084-sumo.json](./303084-sumo.json) |
 | Sumo Rumble | 307974 | [307974-sumo-rumble.json](./307974-sumo-rumble.json) |
+| Sumo Stuntmen 7 | 189987 | [189987-sumo-stuntmen-7.json](./189987-sumo-stuntmen-7.json) |
 | Sumoman | 28026 | [28026-sumoman.json](./28026-sumoman.json) |
 | Sumou | 385812 | [385812-sumou.json](./385812-sumou.json) |
 | Sump | 278460 | [278460-sump.json](./278460-sump.json) |
@@ -22566,6 +22572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Delights: The Girl’s Cafe Quest | 339466 | [339466-sweet-delights-the-girl-s-cafe-quest.json](./339466-sweet-delights-the-girl-s-cafe-quest.json) |
 | Sweet Delivery | 367298 | [367298-sweet-delivery.json](./367298-sweet-delivery.json) |
 | Sweet Desire | 147380 | [147380-sweet-desire.json](./147380-sweet-desire.json) |
+| Sweet Desire: Hentai Puzzle | 189983 | [189983-sweet-desire-hentai-puzzle.json](./189983-sweet-desire-hentai-puzzle.json) |
 | Sweet Dream | 172106 | [172106-sweet-dream.json](./172106-sweet-dream.json) |
 | Sweet Dream | 229597 | [229597-sweet-dream.json](./229597-sweet-dream.json) |
 | Sweet Dream Succubus: Nightmare Edition | 214407 | [214407-sweet-dream-succubus-nightmare-edition.json](./214407-sweet-dream-succubus-nightmare-edition.json) |
@@ -22681,6 +22688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Tooth Town | 355003 | [355003-sweet-tooth-town.json](./355003-sweet-tooth-town.json) |
 | Sweet Town | 273815 | [273815-sweet-town.json](./273815-sweet-town.json) |
 | Sweet Toys Simulator | 347760 | [347760-sweet-toys-simulator.json](./347760-sweet-toys-simulator.json) |
+| Sweet Transit | 189909 | [189909-sweet-transit.json](./189909-sweet-transit.json) |
 | Sweet Treat Solitaire | 386150 | [386150-sweet-treat-solitaire.json](./386150-sweet-treat-solitaire.json) |
 | Sweet Treats | 104043 | [104043-sweet-treats.json](./104043-sweet-treats.json) |
 | Sweet Valentine Chocolatier | 401644 | [401644-sweet-valentine-chocolatier.json](./401644-sweet-valentine-chocolatier.json) |
