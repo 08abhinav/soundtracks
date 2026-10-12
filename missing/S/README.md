@@ -11898,6 +11898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souls Quest | 326705 | [326705-souls-quest.json](./326705-souls-quest.json) |
 | Souls Survivors | 272930 | [272930-souls-survivors.json](./272930-souls-survivors.json) |
 | Souls Unguarded | 129686 | [129686-souls-unguarded.json](./129686-souls-unguarded.json) |
+| Souls-Like Bundle | 227390 | [227390-souls-like-bundle.json](./227390-souls-like-bundle.json) |
 | SoulSaverOnline | 30733 | [30733-soulsaveronline.json](./30733-soulsaveronline.json) |
 | Soulscape | 120764 | [120764-soulscape.json](./120764-soulscape.json) |
 | Soulscape | 300823 | [300823-soulscape.json](./300823-soulscape.json) |
@@ -13009,6 +13010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark | 212450 | [212450-spark.json](./212450-spark.json) |
 | Spark | 256525 | [256525-spark.json](./256525-spark.json) |
 | Spark Era | 229112 | [229112-spark-era.json](./229112-spark-era.json) |
+| Spark Era: Echo to Universe | 227171 | [227171-spark-era-echo-to-universe.json](./227171-spark-era-echo-to-universe.json) |
 | Spark Five | 111683 | [111683-spark-five.json](./111683-spark-five.json) |
 | Spark in Sonic After the Sequel | 337170 | [337170-spark-in-sonic-after-the-sequel.json](./337170-spark-in-sonic-after-the-sequel.json) |
 | Spark in the Dark | 140616 | [140616-spark-in-the-dark.json](./140616-spark-in-the-dark.json) |
@@ -15825,6 +15827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starexcess | 124248 | [124248-starexcess.json](./124248-starexcess.json) |
 | Starfall | 377279 | [377279-starfall.json](./377279-starfall.json) |
 | Starfall | 99376 | [99376-starfall.json](./99376-starfall.json) |
+| Starfall Arena | 227170 | [227170-starfall-arena.json](./227170-starfall-arena.json) |
 | Starfall Defenders | 350433 | [350433-starfall-defenders.json](./350433-starfall-defenders.json) |
 | Starfall Numbers | 74753 | [74753-starfall-numbers.json](./74753-starfall-numbers.json) |
 | Starfall Online | 131612 | [131612-starfall-online.json](./131612-starfall-online.json) |
@@ -20726,6 +20729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Princess Peach | 20497 | [20497-super-princess-peach.json](./20497-super-princess-peach.json) |
 | Super Princess Peach: Operation - Toad Rescue | 323872 | [323872-super-princess-peach-operation-toad-rescue.json](./323872-super-princess-peach-operation-toad-rescue.json) |
 | Super Producers | 98008 | [98008-super-producers.json](./98008-super-producers.json) |
+| Super Psycho Baseball | 227421 | [227421-super-psycho-baseball.json](./227421-super-psycho-baseball.json) |
 | Super Pump | 369215 | [369215-super-pump.json](./369215-super-pump.json) |
 | Super Punch | 147959 | [147959-super-punch.json](./147959-super-punch.json) |
 | Super Punch Patrol | 139882 | [139882-super-punch-patrol.json](./139882-super-punch-patrol.json) |
@@ -21847,6 +21851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Deponia | 252793 | [252793-surviving-deponia.json](./252793-surviving-deponia.json) |
 | Surviving Hunter | 257108 | [257108-surviving-hunter.json](./257108-surviving-hunter.json) |
 | Surviving Isolation | 384528 | [384528-surviving-isolation.json](./384528-surviving-isolation.json) |
+| Surviving Mars: All New In Bundle | 227392 | [227392-surviving-mars-all-new-in-bundle.json](./227392-surviving-mars-all-new-in-bundle.json) |
 | Surviving Mars: Below and Beyond | 165620 | [165620-surviving-mars-below-and-beyond.json](./165620-surviving-mars-below-and-beyond.json) |
 | Surviving Mars: Colony Design Set | 224998 | [224998-surviving-mars-colony-design-set.json](./224998-surviving-mars-colony-design-set.json) |
 | Surviving Mars: Digital Deluxe Edition | 28747 | [28747-surviving-mars-digital-deluxe-edition.json](./28747-surviving-mars-digital-deluxe-edition.json) |
