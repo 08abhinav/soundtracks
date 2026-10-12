@@ -5056,6 +5056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Frog: In the City | 96058 | [96058-amazing-frog-in-the-city.json](./96058-amazing-frog-in-the-city.json) |
 | Amazing Gardens | 344366 | [344366-amazing-gardens.json](./344366-amazing-gardens.json) |
 | Amazing Heists: Dillinger | 416882 | [416882-amazing-heists-dillinger.json](./416882-amazing-heists-dillinger.json) |
+| Amazing Hidden Object Games 3 Pack: Paranormal Mysteries | 202054 | [202054-amazing-hidden-object-games-3-pack-paranormal-mysteries.json](./202054-amazing-hidden-object-games-3-pack-paranormal-mysteries.json) |
 | Amazing Hidden Objects | 99091 | [99091-amazing-hidden-objects.json](./99091-amazing-hidden-objects.json) |
 | Amazing Human | 81741 | [81741-amazing-human.json](./81741-amazing-human.json) |
 | Amazing Island | 3784 | [3784-amazing-island.json](./3784-amazing-island.json) |
