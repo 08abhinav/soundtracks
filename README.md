@@ -1132,6 +1132,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/4d/e6/fb4de665-2fe9-d1f9-eeaf-59011aab5ef0/5053760057826.png/600x600bb.jpg" width="60" /> | [Warhammer 40,000: Dawn of War III](https://ostdb.net/games/warhammer-40-000-dawn-of-war-iii) | **Warhammer 40,000: Dawn of War III (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/warhammer-40-000-dawn-of-war-iii-original-soundtrack/1745067632?uo=4) · [Album](https://album.link/i/1745067632) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738cea9e05aca1a39ffa01292e" width="60" /> | [Warhammer 40,000: Space Marine](https://ostdb.net/games/warhammer-40-000-space-marine) | **Warhammer 40,000: Space Marine (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5NOC07ejuC5svE6snhXruN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bcf1b2c674f5e9e0a79a2f90" width="60" /> | [Warhammer 40,000: Space Marine II](https://ostdb.net/games/warhammer-40-000-space-marine-ii) | **Warhammer 40,000: Space Marine 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5XjvjWWxv6YEFpvunulQzE) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/ef/2c/31ef2c7b-ee0d-bf5a-3f8b-9b8bf186be34/5053760054580.png/600x600bb.jpg" width="60" /> | [Warhammer: Vermintide 2](https://ostdb.net/games/warhammer-vermintide-2) | **Warhammer: Vermintide 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5PRIjjUUjKFJyFQIMvlj85) · [Apple Music](https://music.apple.com/us/album/warhammer-vermintide-2-original-soundtrack/1745067094) · [Album](https://album.link/i/1745067094) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27378c8ced95dcfb1715a6455d5" width="60" /> | [Wasteland 2](https://ostdb.net/games/wasteland-2) | **Wasteland 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2ssI41m1Qfm8GwZG1aJLpm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27363f3be70513eaf47a599854f" width="60" /> | [Wasteland 3](https://ostdb.net/games/wasteland-3) | **Wasteland 3: Hymns & Ballads (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4UzVvF3JMbxM1svS6Ut8eB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27321f8885d43d4707e29aac4c0" width="60" /> | [Watch Dogs](https://ostdb.net/games/watch-dogs) | **Watch Dogs (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4hiJZ2ddV6Ny31J6aHBVKk) |
@@ -1200,4 +1201,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1525 soundtracks · last updated 2026-10-12T12:06:40.276Z_
+_1526 soundtracks · last updated 2026-10-12T12:06:51.472Z_
