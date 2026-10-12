@@ -7439,6 +7439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MILF Next Door 2: Hijabi Mama | 279226 | [279226-milf-next-door-2-hijabi-mama.json](./279226-milf-next-door-2-hijabi-mama.json) |
 | Milf Puzzle | 382483 | [382483-milf-puzzle.json](./382483-milf-puzzle.json) |
 | Milf Solitaire: Lust Collector | 400316 | [400316-milf-solitaire-lust-collector.json](./400316-milf-solitaire-lust-collector.json) |
+| Milf Toys | 193663 | [193663-milf-toys.json](./193663-milf-toys.json) |
 | Milf Toys 2 | 195244 | [195244-milf-toys-2.json](./195244-milf-toys-2.json) |
 | Milf Toys 3 | 208587 | [208587-milf-toys-3.json](./208587-milf-toys-3.json) |
 | MILFs in Paris | 366234 | [366234-milfs-in-paris.json](./366234-milfs-in-paris.json) |
@@ -8876,6 +8877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Impossible - New Dawn | 216344 | [216344-mission-impossible-new-dawn.json](./216344-mission-impossible-new-dawn.json) |
 | Mission: In Boxes | 150628 | [150628-mission-in-boxes.json](./150628-mission-in-boxes.json) |
 | Mission: Invasion Force | 70403 | [70403-mission-invasion-force.json](./70403-mission-invasion-force.json) |
+| Mission: ISS | 193696 | [193696-mission-iss.json](./193696-mission-iss.json) |
 | Mission: Mars | 298646 | [298646-mission-mars.json](./298646-mission-mars.json) |
 | Mission: Rift Seeker | 295539 | [295539-mission-rift-seeker.json](./295539-mission-rift-seeker.json) |
 | Mission: Scarlet Stars | 341114 | [341114-mission-scarlet-stars.json](./341114-mission-scarlet-stars.json) |
@@ -12601,6 +12603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Quiz | 210110 | [210110-music-quiz.json](./210110-music-quiz.json) |
 | Music Quiz Party | 173105 | [173105-music-quiz-party.json](./173105-music-quiz-party.json) |
 | Music Racer 2000 | 167568 | [167568-music-racer-2000.json](./167568-music-racer-2000.json) |
+| Music Racer: Ultimate | 193667 | [193667-music-racer-ultimate.json](./193667-music-racer-ultimate.json) |
 | Music Racing | 220178 | [220178-music-racing.json](./220178-music-racing.json) |
 | Music Room | 143475 | [143475-music-room.json](./143475-music-room.json) |
 | Music Run: Hall of the Mountain King | 266249 | [266249-music-run-hall-of-the-mountain-king.json](./266249-music-run-hall-of-the-mountain-king.json) |
