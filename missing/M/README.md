@@ -9190,6 +9190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobility: A City in Motion | 73739 | [73739-mobility-a-city-in-motion.json](./73739-mobility-a-city-in-motion.json) |
 | Mobiloid | 64104 | [64104-mobiloid.json](./64104-mobiloid.json) |
 | Mobius | 104646 | [104646-mobius.json](./104646-mobius.json) |
+| Mobius Band | 217491 | [217491-mobius-band.json](./217491-mobius-band.json) |
 | Möbius Drive | 408867 | [408867-mobius-drive.json](./408867-mobius-drive.json) |
 | Mobius Final Fantasy | 21628 | [21628-mobius-final-fantasy.json](./21628-mobius-final-fantasy.json) |
 | Möbius Front '83 | 140436 | [140436-mobius-front-83.json](./140436-mobius-front-83.json) |
@@ -9587,6 +9588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mon-cuties for All | 134679 | [134679-mon-cuties-for-all.json](./134679-mon-cuties-for-all.json) |
 | Mona | 201783 | [201783-mona.json](./201783-mona.json) |
 | Mona | 212161 | [212161-mona.json](./212161-mona.json) |
+| Mona | 217473 | [217473-mona.json](./217473-mona.json) |
 | Mona and the Witch's Hat | 195210 | [195210-mona-and-the-witchs-hat.json](./195210-mona-and-the-witchs-hat.json) |
 | Monaco | 178055 | [178055-monaco.json](./178055-monaco.json) |
 | Monaco 2 | 194505 | [194505-monaco-2.json](./194505-monaco-2.json) |
@@ -10730,6 +10732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More Dark | 124195 | [124195-more-dark.json](./124195-more-dark.json) |
 | More Dark Fables from Aesop | 254455 | [254455-more-dark-fables-from-aesop.json](./254455-more-dark-fables-from-aesop.json) |
 | More Easter Eggs! | 96051 | [96051-more-easter-eggs.json](./96051-more-easter-eggs.json) |
+| More Enemies | 217453 | [217453-more-enemies.json](./217453-more-enemies.json) |
 | More Fun with The Wiggles | 274215 | [274215-more-fun-with-the-wiggles.json](./274215-more-fun-with-the-wiggles.json) |
 | More Invaders! | 273100 | [273100-more-invaders.json](./273100-more-invaders.json) |
 | More Lies | 322084 | [322084-more-lies.json](./322084-more-lies.json) |
@@ -10737,6 +10740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More Objects Mod | 315011 | [315011-more-objects-mod.json](./315011-more-objects-mod.json) |
 | More of a Kind | 185597 | [185597-more-of-a-kind.json](./185597-more-of-a-kind.json) |
 | More or Less | 261256 | [261256-more-or-less.json](./261256-more-or-less.json) |
+| More Ore | 217493 | [217493-more-ore.json](./217493-more-ore.json) |
 | More Panda: Slot Creator | 329165 | [329165-more-panda-slot-creator.json](./329165-more-panda-slot-creator.json) |
 | More Popcorn! | 256791 | [256791-more-popcorn.json](./256791-more-popcorn.json) |
 | More Sundaes! | 256790 | [256790-more-sundaes.json](./256790-more-sundaes.json) |
@@ -10851,6 +10855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortadelo y Filemón: Una Aventura de Cine - Edición Original | 323229 | [323229-mortadelo-y-filemon-una-aventura-de-cine-edicion-original.json](./323229-mortadelo-y-filemon-una-aventura-de-cine-edicion-original.json) |
 | Mortal Blitz | 50747 | [50747-mortal-blitz.json](./50747-mortal-blitz.json) |
 | Mortal Blitz: Combat Arena | 218536 | [218536-mortal-blitz-combat-arena.json](./218536-mortal-blitz-combat-arena.json) |
+| Mortal Crux | 217445 | [217445-mortal-crux.json](./217445-mortal-crux.json) |
 | Mortal Cultivation Biography | 368504 | [368504-mortal-cultivation-biography.json](./368504-mortal-cultivation-biography.json) |
 | Mortal Dark | 215069 | [215069-mortal-dark.json](./215069-mortal-dark.json) |
 | Mortal Fight: Lethal Revenge | 291175 | [291175-mortal-fight-lethal-revenge.json](./291175-mortal-fight-lethal-revenge.json) |
