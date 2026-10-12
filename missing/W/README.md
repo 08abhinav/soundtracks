@@ -3982,6 +3982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wintersdawn in the Deep | 183591 | [183591-wintersdawn-in-the-deep.json](./183591-wintersdawn-in-the-deep.json) |
 | Wintersport | 68677 | [68677-wintersport.json](./68677-wintersport.json) |
 | WinTrek | 69859 | [69859-wintrek.json](./69859-wintrek.json) |
+| Winx Club | 200907 | [200907-winx-club.json](./200907-winx-club.json) |
 | Winx Club: Alfea Butterflix Adventures | 79740 | [79740-winx-club-alfea-butterflix-adventures.json](./79740-winx-club-alfea-butterflix-adventures.json) |
 | Winx Club: Believix in You | 25174 | [25174-winx-club-believix-in-you.json](./25174-winx-club-believix-in-you.json) |
 | Winx Club: Magical Fairy Party | 25166 | [25166-winx-club-magical-fairy-party.json](./25166-winx-club-magical-fairy-party.json) |
@@ -5112,6 +5113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Challenge Golf | 385844 | [385844-world-challenge-golf.json](./385844-world-challenge-golf.json) |
 | World Champ | 130863 | [130863-world-champ.json](./130863-world-champ.json) |
 | World Championship Boxing Manager | 76142 | [76142-world-championship-boxing-manager.json](./76142-world-championship-boxing-manager.json) |
+| World Championship Boxing Manager 2 | 200931 | [200931-world-championship-boxing-manager-2.json](./200931-world-championship-boxing-manager-2.json) |
 | World Championship Cards | 43428 | [43428-world-championship-cards.json](./43428-world-championship-cards.json) |
 | World Championship Poker | 210721 | [210721-world-championship-poker.json](./210721-world-championship-poker.json) |
 | World Championship Poker | 6237 | [6237-world-championship-poker.json](./6237-world-championship-poker.json) |
@@ -5264,6 +5266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Magic: Rise of Magic | 304918 | [304918-world-of-magic-rise-of-magic.json](./304918-world-of-magic-rise-of-magic.json) |
 | World of Magicka Bundle | 327246 | [327246-world-of-magicka-bundle.json](./327246-world-of-magicka-bundle.json) |
 | World of Mana | 239710 | [239710-world-of-mana.json](./239710-world-of-mana.json) |
+| World of Mechs | 200940 | [200940-world-of-mechs.json](./200940-world-of-mechs.json) |
 | World of Mines: Creators Edition | 235206 | [235206-world-of-mines-creators-edition.json](./235206-world-of-mines-creators-edition.json) |
 | World of MiniMonsters | 167190 | [167190-world-of-minimonsters.json](./167190-world-of-minimonsters.json) |
 | World of Mixed Martial Arts 4 | 58187 | [58187-world-of-mixed-martial-arts-4.json](./58187-world-of-mixed-martial-arts-4.json) |
