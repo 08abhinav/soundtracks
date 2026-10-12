@@ -1670,7 +1670,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dave Mirra Freestyle BMX 2 | 3871 | [3871-dave-mirra-freestyle-bmx-2.json](./3871-dave-mirra-freestyle-bmx-2.json) |
 | Dave Mirra Freestyle BMX: Maximum Remix | 84166 | [84166-dave-mirra-freestyle-bmx-maximum-remix.json](./84166-dave-mirra-freestyle-bmx-maximum-remix.json) |
 | Dave the Bird | 244367 | [244367-dave-the-bird.json](./244367-dave-the-bird.json) |
-| Dave the Diver | 203722 | [203722-dave-the-diver.json](./203722-dave-the-diver.json) |
 | Dave the Diver: Balatro | 314280 | [314280-dave-the-diver-balatro.json](./314280-dave-the-diver-balatro.json) |
 | Dave the Diver: Dredge | 279619 | [279619-dave-the-diver-dredge.json](./279619-dave-the-diver-dredge.json) |
 | Dave the Diver: Godzilla | 284718 | [284718-dave-the-diver-godzilla.json](./284718-dave-the-diver-godzilla.json) |
