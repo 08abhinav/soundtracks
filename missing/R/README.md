@@ -2445,7 +2445,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Faction | 215080 | [215080-red-faction.json](./215080-red-faction.json) |
 | Red Faction Collection | 53495 | [53495-red-faction-collection.json](./53495-red-faction-collection.json) |
 | Red Faction: B.E.A.S.T. | 264880 | [264880-red-faction-b-e-a-s-t.json](./264880-red-faction-b-e-a-s-t.json) |
-| Red Faction: Guerrilla | 846 | [846-red-faction-guerrilla.json](./846-red-faction-guerrilla.json) |
 | Red Faction: Guerrilla - Steam Edition | 28988 | [28988-red-faction-guerrilla-steam-edition.json](./28988-red-faction-guerrilla-steam-edition.json) |
 | Red Feud | 69566 | [69566-red-feud.json](./69566-red-feud.json) |
 | Red Finger | 339400 | [339400-red-finger.json](./339400-red-finger.json) |
