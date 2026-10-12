@@ -906,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Link Chronicles: Mountains of Madness | 65458 | [65458-jewel-link-chronicles-mountains-of-madness.json](./65458-jewel-link-chronicles-mountains-of-madness.json) |
 | Jewel Link: Atlantic Quest | 401014 | [401014-jewel-link-atlantic-quest.json](./401014-jewel-link-atlantic-quest.json) |
 | Jewel Mania | 360069 | [360069-jewel-mania.json](./360069-jewel-mania.json) |
+| Jewel Master | 222473 | [222473-jewel-master.json](./222473-jewel-master.json) |
 | Jewel Master | 246342 | [246342-jewel-master.json](./246342-jewel-master.json) |
 | Jewel Master 3 | 358906 | [358906-jewel-master-3.json](./358906-jewel-master-3.json) |
 | Jewel Master Atlantis 3D | 85205 | [85205-jewel-master-atlantis-3d.json](./85205-jewel-master-atlantis-3d.json) |
@@ -1905,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jrago III Requiem of the Night | 390531 | [390531-jrago-iii-requiem-of-the-night.json](./390531-jrago-iii-requiem-of-the-night.json) |
 | Jrago The Demon Hunter | 262914 | [262914-jrago-the-demon-hunter.json](./262914-jrago-the-demon-hunter.json) |
 | JRoguePG | 346657 | [346657-jroguepg.json](./346657-jroguepg.json) |
+| JS Girl Doki-doki Model Challenge | 222462 | [222462-js-girl-doki-doki-model-challenge.json](./222462-js-girl-doki-doki-model-challenge.json) |
 | Jstris | 137955 | [137955-jstris.json](./137955-jstris.json) |
 | JTAC Beats | 294960 | [294960-jtac-beats.json](./294960-jtac-beats.json) |
 | Ju | 74382 | [74382-ju.json](./74382-ju.json) |
