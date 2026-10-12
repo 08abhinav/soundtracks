@@ -2705,7 +2705,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pente Grammai | 384140 | [384140-pente-grammai.json](./384140-pente-grammai.json) |
 | Penthos | 178070 | [178070-penthos.json](./178070-penthos.json) |
 | Penthouse Interactive: Virtual Photo Shoot Vol. 1 | 254498 | [254498-penthouse-interactive-virtual-photo-shoot-vol-1.json](./254498-penthouse-interactive-virtual-photo-shoot-vol-1.json) |
-| Pentiment | 204623 | [204623-pentiment.json](./204623-pentiment.json) |
 | Pentium | 92073 | [92073-pentium.json](./92073-pentium.json) |
 | Pentomino | 202422 | [202422-pentomino.json](./202422-pentomino.json) |
 | Pentominon | 102859 | [102859-pentominon.json](./102859-pentominon.json) |
