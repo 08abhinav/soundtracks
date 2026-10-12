@@ -1995,6 +1995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juiced! | 133349 | [133349-juiced.json](./133349-juiced.json) |
 | Juicy Ass | 264114 | [264114-juicy-ass.json](./264114-juicy-ass.json) |
 | Juicy Blast | 346158 | [346158-juicy-blast.json](./346158-juicy-blast.json) |
+| Juicy Futa | 207602 | [207602-juicy-futa.json](./207602-juicy-futa.json) |
 | Juicy Hentai | 368114 | [368114-juicy-hentai.json](./368114-juicy-hentai.json) |
 | Juicy Memory Card | 156201 | [156201-juicy-memory-card.json](./156201-juicy-memory-card.json) |
 | Juicy Realm | 75263 | [75263-juicy-realm.json](./75263-juicy-realm.json) |
@@ -2392,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junkyard Keeper | 208930 | [208930-junkyard-keeper.json](./208930-junkyard-keeper.json) |
 | Junkyard Rush Racing | 326268 | [326268-junkyard-rush-racing.json](./326268-junkyard-rush-racing.json) |
 | Junkyard Space Agency | 356045 | [356045-junkyard-space-agency.json](./356045-junkyard-space-agency.json) |
+| Junkyard War | 207557 | [207557-junkyard-war.json](./207557-junkyard-war.json) |
 | Junkybots | 292959 | [292959-junkybots.json](./292959-junkybots.json) |
 | Juno and Hope Destroy Capitalism | 407357 | [407357-juno-and-hope-destroy-capitalism.json](./407357-juno-and-hope-destroy-capitalism.json) |
 | Juno Markev | 112235 | [112235-juno-markev.json](./112235-juno-markev.json) |
