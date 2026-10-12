@@ -1045,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NebuLeet | 304884 | [304884-nebuleet.json](./304884-nebuleet.json) |
 | Nebuli | 157720 | [157720-nebuli.json](./157720-nebuli.json) |
 | Nebulous | 19039 | [19039-nebulous.json](./19039-nebulous.json) |
+| Nebulous: Fleet Command | 185962 | [185962-nebulous-fleet-command.json](./185962-nebulous-fleet-command.json) |
 | Nebulus | 7817 | [7817-nebulus.json](./7817-nebulus.json) |
 | Necessary Bimbos | 185699 | [185699-necessary-bimbos.json](./185699-necessary-bimbos.json) |
 | Necessary Force | 68014 | [68014-necessary-force.json](./68014-necessary-force.json) |
@@ -1775,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neptunia reVerse: Day One Edition | 142370 | [142370-neptunia-reverse-day-one-edition.json](./142370-neptunia-reverse-day-one-edition.json) |
 | Neptunia Riders vs. Dogoos | 317845 | [317845-neptunia-riders-vs-dogoos.json](./317845-neptunia-riders-vs-dogoos.json) |
 | Neptunia Riders vs. Dogoos: Deluxe Edition | 330203 | [330203-neptunia-riders-vs-dogoos-deluxe-edition.json](./330203-neptunia-riders-vs-dogoos-deluxe-edition.json) |
+| Neptunia: Sisters vs. Sisters - Special Limited Edition | 185985 | [185985-neptunia-sisters-vs-sisters-special-limited-edition.json](./185985-neptunia-sisters-vs-sisters-special-limited-edition.json) |
 | Neptunia: Virtual Stars | 135338 | [135338-neptunia-virtual-stars.json](./135338-neptunia-virtual-stars.json) |
 | Neptunia: Virtual Stars - Emotional Limited Edition | 167057 | [167057-neptunia-virtual-stars-emotional-limited-edition.json](./167057-neptunia-virtual-stars-emotional-limited-edition.json) |
 | Neptunia: Virtual Stars - Kizuna AI | 196085 | [196085-neptunia-virtual-stars-kizuna-ai.json](./196085-neptunia-virtual-stars-kizuna-ai.json) |
