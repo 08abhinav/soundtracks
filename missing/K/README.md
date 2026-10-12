@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaitei Daisensou | 40215 | [40215-kaitei-daisensou.json](./40215-kaitei-daisensou.json) |
 | Kaitei Takara Sagashi | 40214 | [40214-kaitei-takara-sagashi.json](./40214-kaitei-takara-sagashi.json) |
 | Kaiten Sushi VR | 245809 | [245809-kaiten-sushi-vr.json](./245809-kaiten-sushi-vr.json) |
+| Kaitou Apricot | 202589 | [202589-kaitou-apricot.json](./202589-kaitou-apricot.json) |
 | Kaitou Apricot Portable | 56775 | [56775-kaitou-apricot-portable.json](./56775-kaitou-apricot-portable.json) |
 | Kaitou Elf Liely | 246107 | [246107-kaitou-elf-liely.json](./246107-kaitou-elf-liely.json) |
 | Kaitou Rousseau | 214573 | [214573-kaitou-rousseau.json](./214573-kaitou-rousseau.json) |
@@ -273,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaleido Chaos | 108400 | [108400-kaleido-chaos.json](./108400-kaleido-chaos.json) |
 | Kaleido Stella | 113745 | [113745-kaleido-stella.json](./113745-kaleido-stella.json) |
 | Kaleidocraft | 156572 | [156572-kaleidocraft.json](./156572-kaleidocraft.json) |
+| Kaleidoscope | 202577 | [202577-kaleidoscope.json](./202577-kaleidoscope.json) |
 | Kaleidoscope | 406303 | [406303-kaleidoscope.json](./406303-kaleidoscope.json) |
 | Kaleidoscope Chateau | 238722 | [238722-kaleidoscope-chateau.json](./238722-kaleidoscope-chateau.json) |
 | Kaleidoscope of Phantasm Prison | 121533 | [121533-kaleidoscope-of-phantasm-prison.json](./121533-kaleidoscope-of-phantasm-prison.json) |
@@ -358,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kami no Me no Aeon: Zenpen | 341326 | [341326-kami-no-me-no-aeon-zenpen.json](./341326-kami-no-me-no-aeon-zenpen.json) |
 | Kami no Rhapsody | 144875 | [144875-kami-no-rhapsody.json](./144875-kami-no-rhapsody.json) |
 | Kami Quest: Enter the Imagynasium | 361762 | [361762-kami-quest-enter-the-imagynasium.json](./361762-kami-quest-enter-the-imagynasium.json) |
+| Kami-sama Hajimemashita: Doki-doki Ayakashi Love | 202584 | [202584-kami-sama-hajimemashita-doki-doki-ayakashi-love.json](./202584-kami-sama-hajimemashita-doki-doki-ayakashi-love.json) |
 | Kami-sama no Shippo: Etogami-sama-tachi no Ongaeshi | 194608 | [194608-kami-sama-no-shippo-etogami-sama-tachi-no-ongaeshi.json](./194608-kami-sama-no-shippo-etogami-sama-tachi-no-ongaeshi.json) |
 | Kami-sama no you na Kimi he | 146781 | [146781-kami-sama-no-you-na-kimi-he.json](./146781-kami-sama-no-you-na-kimi-he.json) |
 | Kami-sama no you na Kimi he: Limited Edition | 146782 | [146782-kami-sama-no-you-na-kimi-he-limited-edition.json](./146782-kami-sama-no-you-na-kimi-he-limited-edition.json) |
@@ -645,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karls Kavern | 348944 | [348944-karls-kavern.json](./348944-karls-kavern.json) |
 | Karlson | 129033 | [129033-karlson.json](./129033-karlson.json) |
 | Karlson 2D | 177372 | [177372-karlson-2d.json](./177372-karlson-2d.json) |
+| Karlson Run | 202578 | [202578-karlson-run.json](./202578-karlson-run.json) |
 | Karlson64 | 175900 | [175900-karlson64.json](./175900-karlson64.json) |
 | Karm: Early Access Archives | 303605 | [303605-karm-early-access-archives.json](./303605-karm-early-access-archives.json) |
 | Karma | 34965 | [34965-karma.json](./34965-karma.json) |
