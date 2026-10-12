@@ -1742,6 +1742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neopunk | 224684 | [224684-neopunk.json](./224684-neopunk.json) |
 | NeoQuest | 229025 | [229025-neoquest.json](./229025-neoquest.json) |
 | NeoQuest II | 229026 | [229026-neoquest-ii.json](./229026-neoquest-ii.json) |
+| Neos Aires 2070: Sunday Comes First | 182753 | [182753-neos-aires-2070-sunday-comes-first.json](./182753-neos-aires-2070-sunday-comes-first.json) |
 | Neos VR | 125161 | [125161-neos-vr.json](./125161-neos-vr.json) |
 | Neosaurs | 197659 | [197659-neosaurs.json](./197659-neosaurs.json) |
 | Neospace | 230945 | [230945-neospace.json](./230945-neospace.json) |
