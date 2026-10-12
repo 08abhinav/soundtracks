@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Can Hold My Breath Forever | 139813 | [139813-i-can-hold-my-breath-forever.json](./139813-i-can-hold-my-breath-forever.json) |
 | I Can Human | 211827 | [211827-i-can-human.json](./211827-i-can-human.json) |
 | I Can Offer You Flowers | 386477 | [386477-i-can-offer-you-flowers.json](./386477-i-can-offer-you-flowers.json) |
+| I can save myself | 182749 | [182749-i-can-save-myself.json](./182749-i-can-save-myself.json) |
 | I Can Save This! | 326612 | [326612-i-can-save-this.json](./326612-i-can-save-this.json) |
 | I Can Transform | 265740 | [265740-i-can-transform.json](./265740-i-can-transform.json) |
 | I Can't Be Human | 332813 | [332813-i-cant-be-human.json](./332813-i-cant-be-human.json) |
@@ -901,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Business Tycoon: Build Simulator | 197933 | [197933-idle-business-tycoon-build-simulator.json](./197933-idle-business-tycoon-build-simulator.json) |
 | Idle Calibur: Zero | 385905 | [385905-idle-calibur-zero.json](./385905-idle-calibur-zero.json) |
 | Idle Campaign | 210851 | [210851-idle-campaign.json](./210851-idle-campaign.json) |
+| Idle Cannon | 182781 | [182781-idle-cannon.json](./182781-idle-cannon.json) |
 | Idle Casino Empire | 311153 | [311153-idle-casino-empire.json](./311153-idle-casino-empire.json) |
 | Idle Cat Village | 205585 | [205585-idle-cat-village.json](./205585-idle-cat-village.json) |
 | Idle Catfarmia | 247996 | [247996-idle-catfarmia.json](./247996-idle-catfarmia.json) |
