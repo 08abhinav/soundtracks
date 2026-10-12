@@ -1546,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save The Deal | 263378 | [263378-save-the-deal.json](./263378-save-the-deal.json) |
 | Save The Dev | 397176 | [397176-save-the-dev.json](./397176-save-the-dev.json) |
 | Save the Dinos | 206660 | [206660-save-the-dinos.json](./206660-save-the-dinos.json) |
+| Save the Doge | 212441 | [212441-save-the-doge.json](./212441-save-the-doge.json) |
 | Save The Doge | 387574 | [387574-save-the-doge.json](./387574-save-the-doge.json) |
 | Save the Dungeon! | 265578 | [265578-save-the-dungeon.json](./265578-save-the-dungeon.json) |
 | Save the Earth | 230962 | [230962-save-the-earth.json](./230962-save-the-earth.json) |
@@ -1580,6 +1581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the throne | 285527 | [285527-save-the-throne.json](./285527-save-the-throne.json) |
 | Save The Toast! | 265183 | [265183-save-the-toast.json](./265183-save-the-toast.json) |
 | Save the Universe, Please! | 32129 | [32129-save-the-universe-please.json](./32129-save-the-universe-please.json) |
+| Save the Vampire | 212508 | [212508-save-the-vampire.json](./212508-save-the-vampire.json) |
 | Save The Village: Tower Defense | 333224 | [333224-save-the-village-tower-defense.json](./333224-save-the-village-tower-defense.json) |
 | Save the Villainess | 287728 | [287728-save-the-villainess.json](./287728-save-the-villainess.json) |
 | Save the Villy | 101389 | [101389-save-the-villy.json](./101389-save-the-villy.json) |
@@ -3102,6 +3104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeing Red | 395587 | [395587-seeing-red.json](./395587-seeing-red.json) |
 | Seeing Things | 272935 | [272935-seeing-things.json](./272935-seeing-things.json) |
 | Seek | 333917 | [333917-seek.json](./333917-seek.json) |
+| Seek 'N Hide! | 212515 | [212515-seek-n-hide.json](./212515-seek-n-hide.json) |
 | Seek 'n Spell | 90913 | [90913-seek-n-spell.json](./90913-seek-n-spell.json) |
 | Seek & Destroy | 13055 | [13055-seek-and-destroy.json](./13055-seek-and-destroy.json) |
 | Seek & Destroy - Steampunk Arcade | 83797 | [83797-seek-and-destroy-steampunk-arcade.json](./83797-seek-and-destroy-steampunk-arcade.json) |
@@ -14081,6 +14084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpiritSurge | 221639 | [221639-spiritsurge.json](./221639-spiritsurge.json) |
 | Spirittea 2.0 | 374985 | [374985-spirittea-2-0.json](./374985-spirittea-2-0.json) |
 | Spiritual Bond: Breaking the Curse, Intertwining Fates | 316635 | [316635-spiritual-bond-breaking-the-curse-intertwining-fates.json](./316635-spiritual-bond-breaking-the-curse-intertwining-fates.json) |
+| Spiritual Girl | 212440 | [212440-spiritual-girl.json](./212440-spiritual-girl.json) |
 | Spiritual Soul | 275632 | [275632-spiritual-soul.json](./275632-spiritual-soul.json) |
 | Spiritual Soul 2 | 275633 | [275633-spiritual-soul-2.json](./275633-spiritual-soul-2.json) |
 | Spiritual Warfare | 73369 | [73369-spiritual-warfare.json](./73369-spiritual-warfare.json) |
@@ -17084,6 +17088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Flip Diving | 106523 | [106523-stickman-flip-diving.json](./106523-stickman-flip-diving.json) |
 | Stickman Football | 94775 | [94775-stickman-football.json](./94775-stickman-football.json) |
 | Stickman Fury | 372793 | [372793-stickman-fury.json](./372793-stickman-fury.json) |
+| Stickman Golf | 212420 | [212420-stickman-golf.json](./212420-stickman-golf.json) |
 | Stickman Hero | 227944 | [227944-stickman-hero.json](./227944-stickman-hero.json) |
 | Stickman Hero Fighting Game | 254749 | [254749-stickman-hero-fighting-game.json](./254749-stickman-hero-fighting-game.json) |
 | Stickman Hide and Seek | 220823 | [220823-stickman-hide-and-seek.json](./220823-stickman-hide-and-seek.json) |
@@ -21331,6 +21336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Weekend Mode | 96642 | [96642-super-weekend-mode.json](./96642-super-weekend-mode.json) |
 | Super Widget | 42495 | [42495-super-widget.json](./42495-super-widget.json) |
 | Super Wing Commander | 4323 | [4323-super-wing-commander.json](./4323-super-wing-commander.json) |
+| Super Wizard | 212431 | [212431-super-wizard.json](./212431-super-wizard.json) |
 | Super Wizard Fever | 197347 | [197347-super-wizard-fever.json](./197347-super-wizard-fever.json) |
 | Super Woden GP 2 | 225189 | [225189-super-woden-gp-2.json](./225189-super-woden-gp-2.json) |
 | Super Woden: Rally Edge | 350456 | [350456-super-woden-rally-edge.json](./350456-super-woden-rally-edge.json) |
@@ -21807,6 +21813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Arena | 76568 | [76568-survival-arena.json](./76568-survival-arena.json) |
 | Survival Arts | 39586 | [39586-survival-arts.json](./39586-survival-arts.json) |
 | Survival Ascension | 132752 | [132752-survival-ascension.json](./132752-survival-ascension.json) |
+| Survival at Gunpoint | 212505 | [212505-survival-at-gunpoint.json](./212505-survival-at-gunpoint.json) |
 | Survival Ball | 110916 | [110916-survival-ball.json](./110916-survival-ball.json) |
 | Survival Bowling | 262340 | [262340-survival-bowling.json](./262340-survival-bowling.json) |
 | Survival Bunker | 268946 | [268946-survival-bunker.json](./268946-survival-bunker.json) |
