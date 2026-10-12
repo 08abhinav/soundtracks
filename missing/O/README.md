@@ -2921,6 +2921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherworld Legends: Zilan | 310083 | [310083-otherworld-legends-zilan.json](./310083-otherworld-legends-zilan.json) |
 | Otherworld: Shades of Fall - Collector's Edition | 55662 | [55662-otherworld-shades-of-fall-collectors-edition.json](./55662-otherworld-shades-of-fall-collectors-edition.json) |
 | Otherworld: Spring of Shadows - Collector's Edition | 32788 | [32788-otherworld-spring-of-shadows-collectors-edition.json](./32788-otherworld-spring-of-shadows-collectors-edition.json) |
+| Otherworld: Spring of Shadows & Otherworld: Omens of Summer | 200957 | [200957-otherworld-spring-of-shadows-and-otherworld-omens-of-summer.json](./200957-otherworld-spring-of-shadows-and-otherworld-omens-of-summer.json) |
 | Otherworldly Air Gunship | 341517 | [341517-otherworldly-air-gunship.json](./341517-otherworldly-air-gunship.json) |
 | Otherworldly Stars | 179513 | [179513-otherworldly-stars.json](./179513-otherworldly-stars.json) |
 | Otherworldly: Beginning of the Rift | 341518 | [341518-otherworldly-beginning-of-the-rift.json](./341518-otherworldly-beginning-of-the-rift.json) |
