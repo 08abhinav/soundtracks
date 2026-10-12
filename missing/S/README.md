@@ -13344,6 +13344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Legends | 234330 | [234330-speed-legends.json](./234330-speed-legends.json) |
 | Speed Limit | 117106 | [117106-speed-limit.json](./117106-speed-limit.json) |
 | Speed Liner | 379878 | [379878-speed-liner.json](./379878-speed-liner.json) |
+| Speed Master | 211977 | [211977-speed-master.json](./211977-speed-master.json) |
 | Speed Master | 274136 | [274136-speed-master.json](./274136-speed-master.json) |
 | Speed Masters ASD | 130971 | [130971-speed-masters-asd.json](./130971-speed-masters-asd.json) |
 | Speed Mazing | 164985 | [164985-speed-mazing.json](./164985-speed-mazing.json) |
@@ -15171,6 +15172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Command | 10258 | [10258-star-command.json](./10258-star-command.json) |
 | Star Command | 75091 | [75091-star-command.json](./75091-star-command.json) |
 | Star Command: Revolution | 50874 | [50874-star-command-revolution.json](./50874-star-command-revolution.json) |
+| Star Commander: The Sentinel | 211900 | [211900-star-commander-the-sentinel.json](./211900-star-commander-the-sentinel.json) |
 | Star Conflict: Bark-2 | 310391 | [310391-star-conflict-bark-2.json](./310391-star-conflict-bark-2.json) |
 | Star Conflict: Bark-2 - Deluxe Edition | 310392 | [310392-star-conflict-bark-2-deluxe-edition.json](./310392-star-conflict-bark-2-deluxe-edition.json) |
 | Star Conflict: Classic Pirate Weapon Pack | 355155 | [355155-star-conflict-classic-pirate-weapon-pack.json](./355155-star-conflict-classic-pirate-weapon-pack.json) |
@@ -18835,6 +18837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suffering | 156560 | [156560-suffering.json](./156560-suffering.json) |
 | Sufferix Six: Attack of X | 369457 | [369457-sufferix-six-attack-of-x.json](./369457-sufferix-six-attack-of-x.json) |
 | Sufficiency | 262922 | [262922-sufficiency.json](./262922-sufficiency.json) |
+| Suffocate | 211897 | [211897-suffocate.json](./211897-suffocate.json) |
 | Suffocation | 295871 | [295871-suffocation.json](./295871-suffocation.json) |
 | SUGA: Survival Game | 376470 | [376470-suga-survival-game.json](./376470-suga-survival-game.json) |
 | Sugamenia | 296502 | [296502-sugamenia.json](./296502-sugamenia.json) |
@@ -22638,6 +22641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online Eron | 342589 | [342589-sword-art-online-eron.json](./342589-sword-art-online-eron.json) |
 | Sword Art Online VR: Lovely Honey Days | 102088 | [102088-sword-art-online-vr-lovely-honey-days.json](./102088-sword-art-online-vr-lovely-honey-days.json) |
 | Sword Art Online: Alicization Lycoris - Blooming of Forget-me-not | 232469 | [232469-sword-art-online-alicization-lycoris-blooming-of-forget-me-not.json](./232469-sword-art-online-alicization-lycoris-blooming-of-forget-me-not.json) |
+| Sword Art Online: Alicization Lycoris - Blooming of Matricaria | 211917 | [211917-sword-art-online-alicization-lycoris-blooming-of-matricaria.json](./211917-sword-art-online-alicization-lycoris-blooming-of-matricaria.json) |
 | Sword Art Online: Alicization Lycoris - Deluxe Edition | 166157 | [166157-sword-art-online-alicization-lycoris-deluxe-edition.json](./166157-sword-art-online-alicization-lycoris-deluxe-edition.json) |
 | Sword Art Online: Alicization Lycoris - Myosotis | 139224 | [139224-sword-art-online-alicization-lycoris-myosotis.json](./139224-sword-art-online-alicization-lycoris-myosotis.json) |
 | Sword Art Online: Alicization Rising Steel | 125818 | [125818-sword-art-online-alicization-rising-steel.json](./125818-sword-art-online-alicization-rising-steel.json) |
