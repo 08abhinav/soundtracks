@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Lines HD | 174362 | [174362-rainbow-lines-hd.json](./174362-rainbow-lines-hd.json) |
 | Rainbow Meteor | 28155 | [28155-rainbow-meteor.json](./28155-rainbow-meteor.json) |
 | Rainbow Mix | 210744 | [210744-rainbow-mix.json](./210744-rainbow-mix.json) |
+| Rainbow Mix Advanced | 214667 | [214667-rainbow-mix-advanced.json](./214667-rainbow-mix-advanced.json) |
 | Rainbow Monster: Blue Survivor | 223976 | [223976-rainbow-monster-blue-survivor.json](./223976-rainbow-monster-blue-survivor.json) |
 | Rainbow Moon | 5026 | [5026-rainbow-moon.json](./5026-rainbow-moon.json) |
 | Rainbow Moon + Rainbow Skies Strategy RPG Bundle | 287167 | [287167-rainbow-moon-rainbow-skies-strategy-rpg-bundle.json](./287167-rainbow-moon-rainbow-skies-strategy-rpg-bundle.json) |
@@ -1917,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Soccer 2011 | 116348 | [116348-real-soccer-2011.json](./116348-real-soccer-2011.json) |
 | Real Sound: Kaze no Regret | 66624 | [66624-real-sound-kaze-no-regret.json](./66624-real-sound-kaze-no-regret.json) |
 | Real Steel World Robot Boxing | 111751 | [111751-real-steel-world-robot-boxing.json](./111751-real-steel-world-robot-boxing.json) |
+| Real Stories from the Grave: Maleficium | 214698 | [214698-real-stories-from-the-grave-maleficium.json](./214698-real-stories-from-the-grave-maleficium.json) |
 | Real Stories: Veterinaire | 268390 | [268390-real-stories-veterinaire.json](./268390-real-stories-veterinaire.json) |
 | Real Tennis | 100200 | [100200-real-tennis.json](./100200-real-tennis.json) |
 | Real Tennis 2018 | 99104 | [99104-real-tennis-2018.json](./99104-real-tennis-2018.json) |
