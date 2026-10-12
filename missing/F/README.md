@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fae Populi | 188939 | [188939-fae-populi.json](./188939-fae-populi.json) |
 | Faehnor Online | 386499 | [386499-faehnor-online.json](./386499-faehnor-online.json) |
 | Faeria: Chronicles of Gagana | 117519 | [117519-faeria-chronicles-of-gagana.json](./117519-faeria-chronicles-of-gagana.json) |
+| Faeria: Elements | 227419 | [227419-faeria-elements.json](./227419-faeria-elements.json) |
 | Faeria: Game + All DLC Bundle | 238217 | [238217-faeria-game-all-dlc-bundle.json](./238217-faeria-game-all-dlc-bundle.json) |
 | Faeria: Premium Edition | 238045 | [238045-faeria-premium-edition.json](./238045-faeria-premium-edition.json) |
 | Faerie Afterlight | 133272 | [133272-faerie-afterlight.json](./133272-faerie-afterlight.json) |
@@ -445,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Elements | 214643 | [214643-fairy-elements.json](./214643-fairy-elements.json) |
 | Fairy Escape | 99632 | [99632-fairy-escape.json](./99632-fairy-escape.json) |
 | Fairy Fencer F: Advent Dark Force - Deluxe Edition | 186883 | [186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json](./186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json) |
+| Fairy Fencer F: Advent Dark Force DLC Bundle | 227385 | [227385-fairy-fencer-f-advent-dark-force-dlc-bundle.json](./227385-fairy-fencer-f-advent-dark-force-dlc-bundle.json) |
 | Fairy Fencer F: Refrain Chord | 203092 | [203092-fairy-fencer-f-refrain-chord.json](./203092-fairy-fencer-f-refrain-chord.json) |
 | Fairy Fencer F: Refrain Chord - Limited Edition | 205257 | [205257-fairy-fencer-f-refrain-chord-limited-edition.json](./205257-fairy-fencer-f-refrain-chord-limited-edition.json) |
 | Fairy Fire: Defender of the Fairies | 132775 | [132775-fairy-fire-defender-of-the-fairies.json](./132775-fairy-fire-defender-of-the-fairies.json) |
@@ -689,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Leaves | 257294 | [257294-fallen-leaves.json](./257294-fallen-leaves.json) |
 | Fallen Leaves | 57504 | [57504-fallen-leaves.json](./57504-fallen-leaves.json) |
 | Fallen Legion Revenants | 135342 | [135342-fallen-legion-revenants.json](./135342-fallen-legion-revenants.json) |
+| Fallen Legion Revenants: Digital Deluxe Edition | 227175 | [227175-fallen-legion-revenants-digital-deluxe-edition.json](./227175-fallen-legion-revenants-digital-deluxe-edition.json) |
 | Fallen Legion Revenants: Vanguard Edition | 139961 | [139961-fallen-legion-revenants-vanguard-edition.json](./139961-fallen-legion-revenants-vanguard-edition.json) |
 | Fallen Legion: Rise to Glory - Digital Deluxe Edition | 227176 | [227176-fallen-legion-rise-to-glory-digital-deluxe-edition.json](./227176-fallen-legion-rise-to-glory-digital-deluxe-edition.json) |
 | Fallen Lights | 310695 | [310695-fallen-lights.json](./310695-fallen-lights.json) |
@@ -1679,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer's Dynasty | 75102 | [75102-farmers-dynasty.json](./75102-farmers-dynasty.json) |
 | Farmer's Dynasty: Deluxe Edition | 187825 | [187825-farmers-dynasty-deluxe-edition.json](./187825-farmers-dynasty-deluxe-edition.json) |
 | Farmer's Dynasty: Machines Pack | 223549 | [223549-farmers-dynasty-machines-pack.json](./223549-farmers-dynasty-machines-pack.json) |
+| Farmer's Dynasty: Potatoes & Beets | 227417 | [227417-farmers-dynasty-potatoes-and-beets.json](./227417-farmers-dynasty-potatoes-and-beets.json) |
 | Farmer's Fairy Tale | 107839 | [107839-farmers-fairy-tale.json](./107839-farmers-fairy-tale.json) |
 | Farmer's Father: Save the Innocence | 211660 | [211660-farmers-father-save-the-innocence.json](./211660-farmers-father-save-the-innocence.json) |
 | Farmer’s Market Simulator | 348393 | [348393-farmer-s-market-simulator.json](./348393-farmer-s-market-simulator.json) |
@@ -6574,6 +6578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Diamond Diva Pack | 254667 | [254667-fortnite-diamond-diva-pack.json](./254667-fortnite-diamond-diva-pack.json) |
 | Fortnite: Drakon Steel Hybrid Crew Pack | 275307 | [275307-fortnite-drakon-steel-hybrid-crew-pack.json](./275307-fortnite-drakon-steel-hybrid-crew-pack.json) |
 | Fortnite: Fallen Love Ranger Quest Pack | 239033 | [239033-fortnite-fallen-love-ranger-quest-pack.json](./239033-fortnite-fallen-love-ranger-quest-pack.json) |
+| Fortnite: Frozen Legends Pack | 227403 | [227403-fortnite-frozen-legends-pack.json](./227403-fortnite-frozen-legends-pack.json) |
 | Fortnite: Guardians Of the Galaxy Pack | 305855 | [305855-fortnite-guardians-of-the-galaxy-pack.json](./305855-fortnite-guardians-of-the-galaxy-pack.json) |
 | Fortnite: Heartbreak Royale Pack | 275355 | [275355-fortnite-heartbreak-royale-pack.json](./275355-fortnite-heartbreak-royale-pack.json) |
 | Fortnite: Heartbreaker Ranger Pack | 279242 | [279242-fortnite-heartbreaker-ranger-pack.json](./279242-fortnite-heartbreaker-ranger-pack.json) |
