@@ -8394,6 +8394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slayser | 238760 | [238760-slayser.json](./238760-slayser.json) |
 | SlaytheCube Remake | 133898 | [133898-slaythecube-remake.json](./133898-slaythecube-remake.json) |
 | Sled Bandit | 255731 | [255731-sled-bandit.json](./255731-sled-bandit.json) |
+| Sled Racer | 200378 | [200378-sled-racer.json](./200378-sled-racer.json) |
 | Sled Riders | 301003 | [301003-sled-riders.json](./301003-sled-riders.json) |
 | Sled Storm | 8264 | [8264-sled-storm.json](./8264-sled-storm.json) |
 | Sleembo | 262490 | [262490-sleembo.json](./262490-sleembo.json) |
@@ -8992,6 +8993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Rockets Mahjongg | 208956 | [208956-small-rockets-mahjongg.json](./208956-small-rockets-mahjongg.json) |
 | Small Sister | 105631 | [105631-small-sister.json](./105631-small-sister.json) |
 | Small Soldiers | 166528 | [166528-small-soldiers.json](./166528-small-soldiers.json) |
+| Small Soldiers | 200402 | [200402-small-soldiers.json](./200402-small-soldiers.json) |
 | Small Soldiers | 71671 | [71671-small-soldiers.json](./71671-small-soldiers.json) |
 | Small Soldiers: Globotech Design Lab | 14594 | [14594-small-soldiers-globotech-design-lab.json](./14594-small-soldiers-globotech-design-lab.json) |
 | Small Soldiers: Hand to Hand Combat Game | 245408 | [245408-small-soldiers-hand-to-hand-combat-game.json](./245408-small-soldiers-hand-to-hand-combat-game.json) |
@@ -12551,6 +12553,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Intruder | 245403 | [245403-space-intruder.json](./245403-space-intruder.json) |
 | Space Intruders | 38923 | [38923-space-intruders.json](./38923-space-intruders.json) |
 | Space Invaders | 18133 | [18133-space-invaders.json](./18133-space-invaders.json) |
+| Space Invaders | 200391 | [200391-space-invaders.json](./200391-space-invaders.json) |
+| Space Invaders | 200392 | [200392-space-invaders.json](./200392-space-invaders.json) |
+| Space Invaders | 200393 | [200393-space-invaders.json](./200393-space-invaders.json) |
 | Space Invaders | 208860 | [208860-space-invaders.json](./208860-space-invaders.json) |
 | Space Invaders | 218361 | [218361-space-invaders.json](./218361-space-invaders.json) |
 | Space Invaders | 218440 | [218440-space-invaders.json](./218440-space-invaders.json) |
@@ -12620,6 +12625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Lift Danger Panic! | 147982 | [147982-space-lift-danger-panic.json](./147982-space-lift-danger-panic.json) |
 | Space Lift Danger Panic! | 56283 | [56283-space-lift-danger-panic.json](./56283-space-lift-danger-panic.json) |
 | Space Lines | 246085 | [246085-space-lines.json](./246085-space-lines.json) |
+| Space Lines: A Puzzle Arcade Game | 200359 | [200359-space-lines-a-puzzle-arcade-game.json](./200359-space-lines-a-puzzle-arcade-game.json) |
 | Space Lines: Ultimate Edition | 245975 | [245975-space-lines-ultimate-edition.json](./245975-space-lines-ultimate-edition.json) |
 | Space Lords | 182390 | [182390-space-lords.json](./182390-space-lords.json) |
 | Space Love Delta | 134638 | [134638-space-love-delta.json](./134638-space-love-delta.json) |
@@ -14272,6 +14278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split Personalities | 73323 | [73323-split-personalities.json](./73323-split-personalities.json) |
 | Split Personality Doctor | 257920 | [257920-split-personality-doctor.json](./257920-split-personality-doctor.json) |
 | Split Polarity: The Science Puzzle Arcade Game! | 273408 | [273408-split-polarity-the-science-puzzle-arcade-game.json](./273408-split-polarity-the-science-puzzle-arcade-game.json) |
+| Split Second | 200400 | [200400-split-second.json](./200400-split-second.json) |
 | Split Second | 202003 | [202003-split-second.json](./202003-split-second.json) |
 | Split Second Volley | 413485 | [413485-split-second-volley.json](./413485-split-second-volley.json) |
 | Split Signal | 128970 | [128970-split-signal.json](./128970-split-signal.json) |
@@ -15239,6 +15246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Cadre: Combat Class | 396216 | [396216-star-cadre-combat-class.json](./396216-star-cadre-combat-class.json) |
 | Star Carrier | 352785 | [352785-star-carrier.json](./352785-star-carrier.json) |
 | Star Castle | 198903 | [198903-star-castle.json](./198903-star-castle.json) |
+| Star Castle | 200394 | [200394-star-castle.json](./200394-star-castle.json) |
 | Star Castle PC | 95420 | [95420-star-castle-pc.json](./95420-star-castle-pc.json) |
 | Star Castles 2 | 397259 | [397259-star-castles-2.json](./397259-star-castles-2.json) |
 | Star Catcher | 391150 | [391150-star-catcher.json](./391150-star-catcher.json) |
@@ -15565,6 +15573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Surfer | 236752 | [236752-star-surfer.json](./236752-star-surfer.json) |
 | Star Surveyor | 32760 | [32760-star-surveyor.json](./32760-star-surveyor.json) |
 | Star Swapper | 94728 | [94728-star-swapper.json](./94728-star-swapper.json) |
+| Star Sweep | 200367 | [200367-star-sweep.json](./200367-star-sweep.json) |
 | Star Sword | 221972 | [221972-star-sword.json](./221972-star-sword.json) |
 | Star System Battle | 309463 | [309463-star-system-battle.json](./309463-star-system-battle.json) |
 | Star Tactics | 32001 | [32001-star-tactics.json](./32001-star-tactics.json) |
@@ -18549,6 +18558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Terra Draconis: Magma Grotto | 285426 | [285426-sub-terra-draconis-magma-grotto.json](./285426-sub-terra-draconis-magma-grotto.json) |
 | Sub Terrania | 22680 | [22680-sub-terrania.json](./22680-sub-terrania.json) |
 | Sub Wars | 104699 | [104699-sub-wars.json](./104699-sub-wars.json) |
+| Sub Wars | 200395 | [200395-sub-wars.json](./200395-sub-wars.json) |
 | Sub-Uber-Marine | 194380 | [194380-sub-uber-marine.json](./194380-sub-uber-marine.json) |
 | Sub0ptimal | 339653 | [339653-sub0ptimal.json](./339653-sub0ptimal.json) |
 | Suba Pogo | 414487 | [414487-suba-pogo.json](./414487-suba-pogo.json) |
