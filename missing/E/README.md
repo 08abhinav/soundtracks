@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eddie's World | 250037 | [250037-eddies-world.json](./250037-eddies-world.json) |
 | Edegard: Puqq | 244833 | [244833-edegard-puqq.json](./244833-edegard-puqq.json) |
 | EdelSuche | 265233 | [265233-edelsuche.json](./265233-edelsuche.json) |
+| Edelweiss | 184303 | [184303-edelweiss.json](./184303-edelweiss.json) |
 | Edelweiss Knights | 386867 | [386867-edelweiss-knights.json](./386867-edelweiss-knights.json) |
 | Edemn: Cyborg Skeleton | 249718 | [249718-edemn-cyborg-skeleton.json](./249718-edemn-cyborg-skeleton.json) |
 | Eden | 170276 | [170276-eden.json](./170276-eden.json) |
@@ -1376,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electrodash | 159725 | [159725-electrodash.json](./159725-electrodash.json) |
 | Electrogical | 262107 | [262107-electrogical.json](./262107-electrogical.json) |
 | Electrolight | 319192 | [319192-electrolight.json](./319192-electrolight.json) |
+| Electromagnetism | 184319 | [184319-electromagnetism.json](./184319-electromagnetism.json) |
 | Electromaze Defense | 81803 | [81803-electromaze-defense.json](./81803-electromaze-defense.json) |
 | Electron Flux | 264710 | [264710-electron-flux.json](./264710-electron-flux.json) |
 | Electron Handsome Boy | 201312 | [201312-electron-handsome-boy.json](./201312-electron-handsome-boy.json) |
@@ -2788,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epejsodion Dodgeball Defense | 166748 | [166748-epejsodion-dodgeball-defense.json](./166748-epejsodion-dodgeball-defense.json) |
 | Epejsodion Dodgeball Speed | 367310 | [367310-epejsodion-dodgeball-speed.json](./367310-epejsodion-dodgeball-speed.json) |
 | Epejsodion Dodgeball Training | 369724 | [369724-epejsodion-dodgeball-training.json](./369724-epejsodion-dodgeball-training.json) |
+| Ephemeral | 184354 | [184354-ephemeral.json](./184354-ephemeral.json) |
 | Ephemeral Dreams, Eternal Love | 260116 | [260116-ephemeral-dreams-eternal-love.json](./260116-ephemeral-dreams-eternal-love.json) |
 | Ephemeral Fantasia | 44722 | [44722-ephemeral-fantasia.json](./44722-ephemeral-fantasia.json) |
 | Ephemeral Legend | 274979 | [274979-ephemeral-legend.json](./274979-ephemeral-legend.json) |
@@ -3004,6 +3007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equinox | 264123 | [264123-equinox.json](./264123-equinox.json) |
 | Equinox | 329147 | [329147-equinox.json](./329147-equinox.json) |
 | Equinox: Homecoming | 342898 | [342898-equinox-homecoming.json](./342898-equinox-homecoming.json) |
+| Equipmentris | 184361 | [184361-equipmentris.json](./184361-equipmentris.json) |
 | Equitania | 359353 | [359353-equitania.json](./359353-equitania.json) |
 | Equiverse | 303801 | [303801-equiverse.json](./303801-equiverse.json) |
 | Er-Spectro | 81769 | [81769-er-spectro.json](./81769-er-spectro.json) |
