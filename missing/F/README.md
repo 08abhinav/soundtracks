@@ -4075,6 +4075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Chips and Bombs | 311637 | [311637-fish-chips-and-bombs.json](./311637-fish-chips-and-bombs.json) |
 | Fish Dude | 48946 | [48946-fish-dude.json](./48946-fish-dude.json) |
 | Fish Duel | 109686 | [109686-fish-duel.json](./109686-fish-duel.json) |
+| Fish Eater | 221344 | [221344-fish-eater.json](./221344-fish-eater.json) |
 | Fish Evolution | 220170 | [220170-fish-evolution.json](./220170-fish-evolution.json) |
 | Fish Eyes | 383959 | [383959-fish-eyes.json](./383959-fish-eyes.json) |
 | Fish Face | 353895 | [353895-fish-face.json](./353895-fish-face.json) |
@@ -5203,6 +5204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flora | 364685 | [364685-flora.json](./364685-flora.json) |
 | Flora and Sauna | 201035 | [201035-flora-and-sauna.json](./201035-flora-and-sauna.json) |
 | Flora and the Darkness | 175906 | [175906-flora-and-the-darkness.json](./175906-flora-and-the-darkness.json) |
+| Flora Coloring | 221345 | [221345-flora-coloring.json](./221345-flora-coloring.json) |
 | Flora Corner | 336654 | [336654-flora-corner.json](./336654-flora-corner.json) |
 | Flora Domina | 247426 | [247426-flora-domina.json](./247426-flora-domina.json) |
 | Flora Learns to Sing! | 321332 | [321332-flora-learns-to-sing.json](./321332-flora-learns-to-sing.json) |
