@@ -5263,6 +5263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dead Prince and the Pacifican Express | 185550 | [185550-the-dead-prince-and-the-pacifican-express.json](./185550-the-dead-prince-and-the-pacifican-express.json) |
 | The Dead Rising Collection | 47475 | [47475-the-dead-rising-collection.json](./47475-the-dead-rising-collection.json) |
 | The Dead Roam Free | 388224 | [388224-the-dead-roam-free.json](./388224-the-dead-roam-free.json) |
+| The Dead Rooms | 204229 | [204229-the-dead-rooms.json](./204229-the-dead-rooms.json) |
 | The Dead Sea Scrolls Adventure | 203798 | [203798-the-dead-sea-scrolls-adventure.json](./203798-the-dead-sea-scrolls-adventure.json) |
 | The Dead We Knew: Open World Survival | 412960 | [412960-the-dead-we-knew-open-world-survival.json](./412960-the-dead-we-knew-open-world-survival.json) |
 | The Dead Zone | 268137 | [268137-the-dead-zone.json](./268137-the-dead-zone.json) |
@@ -10158,6 +10159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rusty Sword: Vanguard Island | 199397 | [199397-the-rusty-sword-vanguard-island.json](./199397-the-rusty-sword-vanguard-island.json) |
 | The S Factor: Sonia and Silver | 45579 | [45579-the-s-factor-sonia-and-silver.json](./45579-the-s-factor-sonia-and-silver.json) |
 | The S.H.O.W. | 412964 | [412964-the-s-h-o-w.json](./412964-the-s-h-o-w.json) |
+| The S.Sterling Co. | 204207 | [204207-the-s-sterling-co.json](./204207-the-s-sterling-co.json) |
 | The Saboteur | 3171 | [3171-the-saboteur.json](./3171-the-saboteur.json) |
 | The Sacred Acorn | 141175 | [141175-the-sacred-acorn.json](./141175-the-sacred-acorn.json) |
 | The Sacred Geography of Kazakhstan | 214701 | [214701-the-sacred-geography-of-kazakhstan.json](./214701-the-sacred-geography-of-kazakhstan.json) |
@@ -14576,6 +14578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tim and Tom: A Bulloon that Fell from the Sky | 175362 | [175362-tim-and-tom-a-bulloon-that-fell-from-the-sky.json](./175362-tim-and-tom-a-bulloon-that-fell-from-the-sky.json) |
 | Tim Burton's The Nightmare Before Christmas | 198942 | [198942-tim-burtons-the-nightmare-before-christmas.json](./198942-tim-burtons-the-nightmare-before-christmas.json) |
 | Tim Stockdale's Riding Star | 339889 | [339889-tim-stockdales-riding-star.json](./339889-tim-stockdales-riding-star.json) |
+| Tim Tooth | 204204 | [204204-tim-tooth.json](./204204-tim-tooth.json) |
 | Tim's Birthday | 150126 | [150126-tims-birthday.json](./150126-tims-birthday.json) |
 | Timagi | 268941 | [268941-timagi.json](./268941-timagi.json) |
 | Timber | 25881 | [25881-timber.json](./25881-timber.json) |
@@ -19048,6 +19051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap Yuri Tempest | 412443 | [412443-trap-yuri-tempest.json](./412443-trap-yuri-tempest.json) |
 | Trapaze | 376282 | [376282-trapaze.json](./376282-trapaze.json) |
 | TrapBot | 188925 | [188925-trapbot.json](./188925-trapbot.json) |
+| Trapdoors | 204203 | [204203-trapdoors.json](./204203-trapdoors.json) |
 | Trapformer | 361310 | [361310-trapformer.json](./361310-trapformer.json) |
 | Trapmania | 151152 | [151152-trapmania.json](./151152-trapmania.json) |
 | Trapnoid 2 | 109743 | [109743-trapnoid-2.json](./109743-trapnoid-2.json) |
