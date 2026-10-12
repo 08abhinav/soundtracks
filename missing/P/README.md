@@ -3704,6 +3704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phraze Craze | 307911 | [307911-phraze-craze.json](./307911-phraze-craze.json) |
 | Phraze Daze: Famous Quotes Word Game | 68742 | [68742-phraze-daze-famous-quotes-word-game.json](./68742-phraze-daze-famous-quotes-word-game.json) |
 | Phrixothrix | 245857 | [245857-phrixothrix.json](./245857-phrixothrix.json) |
+| Phromg Game | 201468 | [201468-phromg-game.json](./201468-phromg-game.json) |
 | Phucker in the Ashes | 369019 | [369019-phucker-in-the-ashes.json](./369019-phucker-in-the-ashes.json) |
 | Phucker in the Gulag | 117474 | [117474-phucker-in-the-gulag.json](./117474-phucker-in-the-gulag.json) |
 | Phy Lab | 410210 | [410210-phy-lab.json](./410210-phy-lab.json) |
