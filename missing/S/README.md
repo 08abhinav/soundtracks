@@ -10901,7 +10901,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Advance 4 Advanced | 326134 | [326134-sonic-advance-4-advanced.json](./326134-sonic-advance-4-advanced.json) |
 | Sonic Advance Revamped Lite | 227797 | [227797-sonic-advance-revamped-lite.json](./227797-sonic-advance-revamped-lite.json) |
 | Sonic Advance X | 227806 | [227806-sonic-advance-x.json](./227806-sonic-advance-x.json) |
-| Sonic Adventure 2 | 7858 | [7858-sonic-adventure-2.json](./7858-sonic-adventure-2.json) |
 | Sonic Adventure 2: Battle | 7862 | [7862-sonic-adventure-2-battle.json](./7862-sonic-adventure-2-battle.json) |
 | Sonic Adventure 2: Super Hard Mode | 333695 | [333695-sonic-adventure-2-super-hard-mode.json](./333695-sonic-adventure-2-super-hard-mode.json) |
 | Sonic Adventure 2D | 334733 | [334733-sonic-adventure-2d.json](./334733-sonic-adventure-2d.json) |
@@ -17044,7 +17043,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Engine | 55524 | [55524-stick-engine.json](./55524-stick-engine.json) |
 | Stick Fight: Endless Battle | 245338 | [245338-stick-fight-endless-battle.json](./245338-stick-fight-endless-battle.json) |
 | Stick Fight: Shadow Warrior | 323193 | [323193-stick-fight-shadow-warrior.json](./323193-stick-fight-shadow-warrior.json) |
-| Stick Fight: The Game | 65832 | [65832-stick-fight-the-game.json](./65832-stick-fight-the-game.json) |
 | Stick Fighter II | 81332 | [81332-stick-fighter-ii.json](./81332-stick-fighter-ii.json) |
 | Stick Figure Badminton 2 | 402980 | [402980-stick-figure-badminton-2.json](./402980-stick-figure-badminton-2.json) |
 | Stick Figure Badminton 3 | 402982 | [402982-stick-figure-badminton-3.json](./402982-stick-figure-badminton-3.json) |
