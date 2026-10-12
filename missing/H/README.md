@@ -2044,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of a Warrior | 190072 | [190072-heart-of-a-warrior.json](./190072-heart-of-a-warrior.json) |
 | Heart of Africa | 13874 | [13874-heart-of-africa.json](./13874-heart-of-africa.json) |
 | Heart of Artemisa | 318121 | [318121-heart-of-artemisa.json](./318121-heart-of-artemisa.json) |
+| Heart of Battle | 199348 | [199348-heart-of-battle.json](./199348-heart-of-battle.json) |
 | Heart of China | 12139 | [12139-heart-of-china.json](./12139-heart-of-china.json) |
 | Heart of Crown Online | 217292 | [217292-heart-of-crown-online.json](./217292-heart-of-crown-online.json) |
 | Heart of Darkness | 6433 | [6433-heart-of-darkness.json](./6433-heart-of-darkness.json) |
