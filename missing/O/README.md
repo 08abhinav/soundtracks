@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Occupy White Walls | 105594 | [105594-occupy-white-walls.json](./105594-occupy-white-walls.json) |
 | Ocda | 185117 | [185117-ocda.json](./185117-ocda.json) |
 | Ocean and Fish | 387059 | [387059-ocean-and-fish.json](./387059-ocean-and-fish.json) |
+| Ocean Animals Puzzle for Kids & Toddlers | 203699 | [203699-ocean-animals-puzzle-for-kids-and-toddlers.json](./203699-ocean-animals-puzzle-for-kids-and-toddlers.json) |
 | Ocean Avenue | 177904 | [177904-ocean-avenue.json](./177904-ocean-avenue.json) |
 | Ocean Bubble Shooter | 219769 | [219769-ocean-bubble-shooter.json](./219769-ocean-bubble-shooter.json) |
 | Ocean Cargo Manager | 415169 | [415169-ocean-cargo-manager.json](./415169-ocean-cargo-manager.json) |
