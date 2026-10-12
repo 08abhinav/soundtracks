@@ -1983,6 +1983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TDS | 287793 | [287793-tds.json](./287793-tds.json) |
 | TDS Legacy | 331381 | [331381-tds-legacy.json](./331381-tds-legacy.json) |
 | TDS: War Games | 203541 | [203541-tds-war-games.json](./203541-tds-war-games.json) |
+| Te Encontré | 189986 | [189986-te-encontre.json](./189986-te-encontre.json) |
 | Te to Te Try on! | 402460 | [402460-te-to-te-try-on.json](./402460-te-to-te-try-on.json) |
 | Tea for God | 175782 | [175782-tea-for-god.json](./175782-tea-for-god.json) |
 | Tea for Sana | 310036 | [310036-tea-for-sana.json](./310036-tea-for-sana.json) |
@@ -2537,6 +2538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of Boonil | 198562 | [198562-temple-of-boonil.json](./198562-temple-of-boonil.json) |
 | Temple of Chaos 2: Warped Reality | 313168 | [313168-temple-of-chaos-2-warped-reality.json](./313168-temple-of-chaos-2-warped-reality.json) |
 | Temple of Darkness | 247529 | [247529-temple-of-darkness.json](./247529-temple-of-darkness.json) |
+| Temple of Endless Night | 189895 | [189895-temple-of-endless-night.json](./189895-temple-of-endless-night.json) |
 | Temple of Horror | 213535 | [213535-temple-of-horror.json](./213535-temple-of-horror.json) |
 | Temple of Hue | 149533 | [149533-temple-of-hue.json](./149533-temple-of-hue.json) |
 | Temple of Kroz | 84200 | [84200-temple-of-kroz.json](./84200-temple-of-kroz.json) |
@@ -11982,6 +11984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vampire Lord of Valea Noapte | 179519 | [179519-the-vampire-lord-of-valea-noapte.json](./179519-the-vampire-lord-of-valea-noapte.json) |
 | The Vampire's Bride: A Bride Who Gets Married to Vampdoll | 334894 | [334894-the-vampires-bride-a-bride-who-gets-married-to-vampdoll.json](./334894-the-vampires-bride-a-bride-who-gets-married-to-vampdoll.json) |
 | The Vampires | 215316 | [215316-the-vampires.json](./215316-the-vampires.json) |
+| The Van of Justice | 189914 | [189914-the-van-of-justice.json](./189914-the-van-of-justice.json) |
 | The Vanished Sister | 283844 | [283844-the-vanished-sister.json](./283844-the-vanished-sister.json) |
 | The Vanished Soul | 318063 | [318063-the-vanished-soul.json](./318063-the-vanished-soul.json) |
 | The Vanishing | 317969 | [317969-the-vanishing.json](./317969-the-vanishing.json) |
@@ -16267,6 +16270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomorrow Will Be Dying | 177874 | [177874-tomorrow-will-be-dying.json](./177874-tomorrow-will-be-dying.json) |
 | Tomorrow Won't Come For Those Without | 135658 | [135658-tomorrow-wont-come-for-those-without.json](./135658-tomorrow-wont-come-for-those-without.json) |
 | Tomorrow's Love Puzzle | 287722 | [287722-tomorrows-love-puzzle.json](./287722-tomorrows-love-puzzle.json) |
+| Tomorrow's Past | 189898 | [189898-tomorrows-past.json](./189898-tomorrows-past.json) |
 | Tomorrowness | 377682 | [377682-tomorrowness.json](./377682-tomorrowness.json) |
 | TomoTomo | 418735 | [418735-tomotomo.json](./418735-tomotomo.json) |
 | Tomotoru: Hello Kitty Happy Life | 188628 | [188628-tomotoru-hello-kitty-happy-life.json](./188628-tomotoru-hello-kitty-happy-life.json) |
@@ -17710,6 +17714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Gun Office Simulator | 108433 | [108433-toy-gun-office-simulator.json](./108433-toy-gun-office-simulator.json) |
 | Toy Home: Second Gear Pack | 328393 | [328393-toy-home-second-gear-pack.json](./328393-toy-home-second-gear-pack.json) |
 | Toy Kingdom | 246369 | [246369-toy-kingdom.json](./246369-toy-kingdom.json) |
+| Toy Kingdom 3 | 189897 | [189897-toy-kingdom-3.json](./189897-toy-kingdom-3.json) |
 | Toy Land Adventure | 371406 | [371406-toy-land-adventure.json](./371406-toy-land-adventure.json) |
 | Toy Party - Dazzling Puzzle | 87098 | [87098-toy-party-dazzling-puzzle.json](./87098-toy-party-dazzling-puzzle.json) |
 | Toy Raid | 68254 | [68254-toy-raid.json](./68254-toy-raid.json) |
@@ -21438,6 +21443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typing Hero | 126428 | [126428-typing-hero.json](./126428-typing-hero.json) |
 | Typing Jet | 316927 | [316927-typing-jet.json](./316927-typing-jet.json) |
 | Typing Karaoke | 64362 | [64362-typing-karaoke.json](./64362-typing-karaoke.json) |
+| Typing Land | 189901 | [189901-typing-land.json](./189901-typing-land.json) |
 | Typing Ninja | 290943 | [290943-typing-ninja.json](./290943-typing-ninja.json) |
 | Typing of the Date | 138656 | [138656-typing-of-the-date.json](./138656-typing-of-the-date.json) |
 | Typing of Ys | 252843 | [252843-typing-of-ys.json](./252843-typing-of-ys.json) |
