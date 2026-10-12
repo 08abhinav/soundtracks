@@ -1807,6 +1807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Library | 263383 | [263383-scary-library.json](./263383-scary-library.json) |
 | Scary Loop | 376083 | [376083-scary-loop.json](./376083-scary-loop.json) |
 | Scary Manager In Supermarket | 106657 | [106657-scary-manager-in-supermarket.json](./106657-scary-manager-in-supermarket.json) |
+| Scary Mansion Horror House HD | 208677 | [208677-scary-mansion-horror-house-hd.json](./208677-scary-mansion-horror-house-hd.json) |
 | Scary Math Teacher Boss Pranks | 303260 | [303260-scary-math-teacher-boss-pranks.json](./303260-scary-math-teacher-boss-pranks.json) |
 | Scary Maze | 102955 | [102955-scary-maze.json](./102955-scary-maze.json) |
 | Scary Maze Game | 265768 | [265768-scary-maze-game.json](./265768-scary-maze-game.json) |
@@ -5724,6 +5725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogun: Total War - Warlord Edition | 206025 | [206025-shogun-total-war-warlord-edition.json](./206025-shogun-total-war-warlord-edition.json) |
 | Shogun's Blade | 43293 | [43293-shoguns-blade.json](./43293-shoguns-blade.json) |
 | Shogun's Empire: Hex Commander | 119739 | [119739-shoguns-empire-hex-commander.json](./119739-shoguns-empire-hex-commander.json) |
+| Shogunaria | 208643 | [208643-shogunaria.json](./208643-shogunaria.json) |
 | Shogunate | 356031 | [356031-shogunate.json](./356031-shogunate.json) |
 | Shohei's Adult Streaming Channel | 161357 | [161357-shoheis-adult-streaming-channel.json](./161357-shoheis-adult-streaming-channel.json) |
 | Shojo Calibur.io | 188390 | [188390-shojo-calibur-io.json](./188390-shojo-calibur-io.json) |
@@ -11551,6 +11553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sono Hanabira: YuriCycle | 251697 | [251697-sono-hanabira-yuricycle.json](./251697-sono-hanabira-yuricycle.json) |
 | Sono Kaori de Mitasaretai: #7b5544 no Koi wo Shita Watashi no Hajimete wo Master ni Agetai | 412315 | [412315-sono-kaori-de-mitasaretai-7b5544-no-koi-wo-shita-watashi-no-hajimete-wo-master-ni-agetai.json](./412315-sono-kaori-de-mitasaretai-7b5544-no-koi-wo-shita-watashi-no-hajimete-wo-master-ni-agetai.json) |
 | Sonoklo | 408212 | [408212-sonoklo.json](./408212-sonoklo.json) |
+| Sonokuni | 208633 | [208633-sonokuni.json](./208633-sonokuni.json) |
 | Sonolus | 219761 | [219761-sonolus.json](./219761-sonolus.json) |
 | Sonority | 137045 | [137045-sonority.json](./137045-sonority.json) |
 | SONpc | 330874 | [330874-sonpc.json](./330874-sonpc.json) |
@@ -12685,6 +12688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Raiders | 52000 | [52000-space-raiders.json](./52000-space-raiders.json) |
 | Space Raiders in Space | 138622 | [138622-space-raiders-in-space.json](./138622-space-raiders-in-space.json) |
 | Space Raiders in Space + Clumsy Rush | 230406 | [230406-space-raiders-in-space-clumsy-rush.json](./230406-space-raiders-in-space-clumsy-rush.json) |
+| Space Ranger Appleseed | 208637 | [208637-space-ranger-appleseed.json](./208637-space-ranger-appleseed.json) |
 | Space Ranger ASK | 33316 | [33316-space-ranger-ask.json](./33316-space-ranger-ask.json) |
 | Space Ranger VR | 130231 | [130231-space-ranger-vr.json](./130231-space-ranger-vr.json) |
 | Space Ranger vs. Reptiloids | 104160 | [104160-space-ranger-vs-reptiloids.json](./104160-space-ranger-vs-reptiloids.json) |
@@ -14079,6 +14083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits & Alice | 358502 | [358502-spirits-and-alice.json](./358502-spirits-and-alice.json) |
 | Spirits & Spells | 4165 | [4165-spirits-and-spells.json](./4165-spirits-and-spells.json) |
 | Spirits and Secrets | 384500 | [384500-spirits-and-secrets.json](./384500-spirits-and-secrets.json) |
+| Spirits Chronicles: Flower of Hope - Collector's Edition | 208632 | [208632-spirits-chronicles-flower-of-hope-collectors-edition.json](./208632-spirits-chronicles-flower-of-hope-collectors-edition.json) |
 | Spirits of Carter Mansion | 189053 | [189053-spirits-of-carter-mansion.json](./189053-spirits-of-carter-mansion.json) |
 | Spirits of Light | 188455 | [188455-spirits-of-light.json](./188455-spirits-of-light.json) |
 | Spirits of Lunara | 383364 | [383364-spirits-of-lunara.json](./383364-spirits-of-lunara.json) |
@@ -15166,6 +15171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Birds | 305171 | [305171-star-birds.json](./305171-star-birds.json) |
 | Star Blaze | 95389 | [95389-star-blaze.json](./95389-star-blaze.json) |
 | Star Blues | 216795 | [216795-star-blues.json](./216795-star-blues.json) |
+| Star Boss | 208647 | [208647-star-boss.json](./208647-star-boss.json) |
 | Star Boss | 75109 | [75109-star-boss.json](./75109-star-boss.json) |
 | Star Boy | 96676 | [96676-star-boy.json](./96676-star-boy.json) |
 | Star Breaker | 13082 | [13082-star-breaker.json](./13082-star-breaker.json) |
