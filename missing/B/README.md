@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Kings | 373753 | [373753-baby-kings.json](./373753-baby-kings.json) |
 | Baby Life | 91752 | [91752-baby-life.json](./91752-baby-life.json) |
 | Baby Lite A Line | 100171 | [100171-baby-lite-a-line.json](./100171-baby-lite-a-line.json) |
+| Baby Luv | 205898 | [205898-baby-luv.json](./205898-baby-luv.json) |
 | Baby Maker Extreme | 66779 | [66779-baby-maker-extreme.json](./66779-baby-maker-extreme.json) |
 | Baby Mammoth's Journey to Mars | 311711 | [311711-baby-mammoths-journey-to-mars.json](./311711-baby-mammoths-journey-to-mars.json) |
 | Baby Mario's A-Maze-ing Game | 341043 | [341043-baby-marios-a-maze-ing-game.json](./341043-baby-marios-a-maze-ing-game.json) |
@@ -205,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babysitting Fun | 310540 | [310540-babysitting-fun.json](./310540-babysitting-fun.json) |
 | Babysitting Mania | 47979 | [47979-babysitting-mania.json](./47979-babysitting-mania.json) |
 | Babysitting Party | 92669 | [92669-babysitting-party.json](./92669-babysitting-party.json) |
+| Babyz | 205899 | [205899-babyz.json](./205899-babyz.json) |
 | Babyz: Your Virtual Bundle of Joy | 70343 | [70343-babyz-your-virtual-bundle-of-joy.json](./70343-babyz-your-virtual-bundle-of-joy.json) |
 | Baccarat | 348397 | [348397-baccarat.json](./348397-baccarat.json) |
 | Bacchanalia | 227880 | [227880-bacchanalia.json](./227880-bacchanalia.json) |
@@ -441,11 +443,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BackSlap | 349318 | [349318-backslap.json](./349318-backslap.json) |
 | Backspace | 343467 | [343467-backspace.json](./343467-backspace.json) |
 | Backspace Backspace Backspace | 309500 | [309500-backspace-backspace-backspace.json](./309500-backspace-backspace-backspace.json) |
+| Backspin Billards | 205901 | [205901-backspin-billards.json](./205901-backspin-billards.json) |
 | Backstab | 271663 | [271663-backstab.json](./271663-backstab.json) |
 | BackStab HD | 19257 | [19257-backstab-hd.json](./19257-backstab-hd.json) |
 | Backstage | 206727 | [206727-backstage.json](./206727-backstage.json) |
 | Backstage at Naked Porn Battle | 280204 | [280204-backstage-at-naked-porn-battle.json](./280204-backstage-at-naked-porn-battle.json) |
 | Backstage Pass | 234907 | [234907-backstage-pass.json](./234907-backstage-pass.json) |
+| Backstage Pass: The Ultimate Rock and Roll Trivia Game | 205902 | [205902-backstage-pass-the-ultimate-rock-and-roll-trivia-game.json](./205902-backstage-pass-the-ultimate-rock-and-roll-trivia-game.json) |
 | Backstage: Murdered Sleep | 297777 | [297777-backstage-murdered-sleep.json](./297777-backstage-murdered-sleep.json) |
 | Backstory | 406102 | [406102-backstory.json](./406102-backstory.json) |
 | Backstreet Billiards | 94359 | [94359-backstreet-billiards.json](./94359-backstreet-billiards.json) |
@@ -455,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backward Poiesis | 297776 | [297776-backward-poiesis.json](./297776-backward-poiesis.json) |
 | Backwards | 179176 | [179176-backwards.json](./179176-backwards.json) |
 | Backwards Mario World | 215150 | [215150-backwards-mario-world.json](./215150-backwards-mario-world.json) |
+| Backwoods Billiards | 205904 | [205904-backwoods-billiards.json](./205904-backwoods-billiards.json) |
 | Backwoods Town | 275097 | [275097-backwoods-town.json](./275097-backwoods-town.json) |
 | Backworlds | 107176 | [107176-backworlds.json](./107176-backworlds.json) |
 | Backyard | 142423 | [142423-backyard.json](./142423-backyard.json) |
@@ -463,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Baseball '09 | 132055 | [132055-backyard-baseball-09.json](./132055-backyard-baseball-09.json) |
 | Backyard Baseball '97 | 317717 | [317717-backyard-baseball-97.json](./317717-backyard-baseball-97.json) |
 | Backyard Baseball 2003 | 132053 | [132053-backyard-baseball-2003.json](./132053-backyard-baseball-2003.json) |
+| Backyard Baseball 2005 | 205906 | [205906-backyard-baseball-2005.json](./205906-backyard-baseball-2005.json) |
 | Backyard Baseball 2006 | 132054 | [132054-backyard-baseball-2006.json](./132054-backyard-baseball-2006.json) |
 | Backyard Basketball | 69242 | [69242-backyard-basketball.json](./69242-backyard-basketball.json) |
 | Backyard Basketball ‘01 | 377818 | [377818-backyard-basketball-01.json](./377818-backyard-basketball-01.json) |
@@ -2073,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bass Pro Shops: The Hunt | 51049 | [51049-bass-pro-shops-the-hunt.json](./51049-bass-pro-shops-the-hunt.json) |
 | Bass Pro Shops: The Hunt - Trophy Showdown | 51050 | [51050-bass-pro-shops-the-hunt-trophy-showdown.json](./51050-bass-pro-shops-the-hunt-trophy-showdown.json) |
 | Bass Pro Shops: The Strike - Championship Edition | 110428 | [110428-bass-pro-shops-the-strike-championship-edition.json](./110428-bass-pro-shops-the-strike-championship-edition.json) |
+| Bass Pro Shops: The Strike - Tournament Edition | 205908 | [205908-bass-pro-shops-the-strike-tournament-edition.json](./205908-bass-pro-shops-the-strike-tournament-edition.json) |
 | Bass Rise | 4141 | [4141-bass-rise.json](./4141-bass-rise.json) |
 | Bass Rush Dream | 67301 | [67301-bass-rush-dream.json](./67301-bass-rush-dream.json) |
 | Bass Strike | 43286 | [43286-bass-strike.json](./43286-bass-strike.json) |
@@ -2693,6 +2700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleCross | 266827 | [266827-battlecross.json](./266827-battlecross.json) |
 | Battlecruiser 3000AD | 77288 | [77288-battlecruiser-3000ad.json](./77288-battlecruiser-3000ad.json) |
 | Battlecruiser Millennium | 61898 | [61898-battlecruiser-millennium.json](./61898-battlecruiser-millennium.json) |
+| Battlecruiser Millennium: Gold Edition | 205907 | [205907-battlecruiser-millennium-gold-edition.json](./205907-battlecruiser-millennium-gold-edition.json) |
 | BattleCry | 7210 | [7210-battlecry.json](./7210-battlecry.json) |
 | Battlecry Berserkers | 277288 | [277288-battlecry-berserkers.json](./277288-battlecry-berserkers.json) |
 | BattleCry: Age of Myths | 335410 | [335410-battlecry-age-of-myths.json](./335410-battlecry-age-of-myths.json) |
@@ -2888,6 +2896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlestations: Pacific | 4222 | [4222-battlestations-pacific.json](./4222-battlestations-pacific.json) |
 | BattleStick | 34635 | [34635-battlestick.json](./34635-battlestick.json) |
 | BattleStones | 90851 | [90851-battlestones.json](./90851-battlestones.json) |
+| Battlestrike: Western and Eastern Front | 205909 | [205909-battlestrike-western-and-eastern-front.json](./205909-battlestrike-western-and-eastern-front.json) |
 | BattleSwarm: Field of Honor | 67707 | [67707-battleswarm-field-of-honor.json](./67707-battleswarm-field-of-honor.json) |
 | BattleSweeper | 92617 | [92617-battlesweeper.json](./92617-battlesweeper.json) |
 | BattleTabs | 140591 | [140591-battletabs.json](./140591-battletabs.json) |
@@ -4575,6 +4584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bicycle Pinochle | 73344 | [73344-bicycle-pinochle.json](./73344-bicycle-pinochle.json) |
 | Bicycle Quiz & Riding | 411147 | [411147-bicycle-quiz-and-riding.json](./411147-bicycle-quiz-and-riding.json) |
 | Bicycle Rider Simulator | 195612 | [195612-bicycle-rider-simulator.json](./195612-bicycle-rider-simulator.json) |
+| Bicycle Solitaire | 205911 | [205911-bicycle-solitaire.json](./205911-bicycle-solitaire.json) |
 | Bicycle Tour | 234606 | [234606-bicycle-tour.json](./234606-bicycle-tour.json) |
 | BicycleSim | 211100 | [211100-bicyclesim.json](./211100-bicyclesim.json) |
 | Bicyclism EP | 31950 | [31950-bicyclism-ep.json](./31950-bicyclism-ep.json) |
