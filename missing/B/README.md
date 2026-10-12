@@ -3130,6 +3130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beached | 174101 | [174101-beached.json](./174101-beached.json) |
 | Beachfront | 334227 | [334227-beachfront.json](./334227-beachfront.json) |
 | Beachgirl Dreams | 337159 | [337159-beachgirl-dreams.json](./337159-beachgirl-dreams.json) |
+| BeachRun | 200929 | [200929-beachrun.json](./200929-beachrun.json) |
 | Beachside Blitz | 353315 | [353315-beachside-blitz.json](./353315-beachside-blitz.json) |
 | Beachside Bloodbath | 337127 | [337127-beachside-bloodbath.json](./337127-beachside-bloodbath.json) |
 | Beacon | 165516 | [165516-beacon.json](./165516-beacon.json) |
@@ -5205,6 +5206,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionic Shield: Battle for Space Nebula Omega | 189123 | [189123-bionic-shield-battle-for-space-nebula-omega.json](./189123-bionic-shield-battle-for-space-nebula-omega.json) |
 | Bionic Slammer | 236324 | [236324-bionic-slammer.json](./236324-bionic-slammer.json) |
 | Bionicle Defenders | 343283 | [343283-bionicle-defenders.json](./343283-bionicle-defenders.json) |
+| Bionicle Heroes | 200958 | [200958-bionicle-heroes.json](./200958-bionicle-heroes.json) |
+| Bionicle Heroes | 200959 | [200959-bionicle-heroes.json](./200959-bionicle-heroes.json) |
 | Bionicle Heroes | 248510 | [248510-bionicle-heroes.json](./248510-bionicle-heroes.json) |
 | Bionicle Heroes | 248511 | [248511-bionicle-heroes.json](./248511-bionicle-heroes.json) |
 | Bionicle Heroes: DOOM | 135832 | [135832-bionicle-heroes-doom.json](./135832-bionicle-heroes-doom.json) |
@@ -10647,6 +10650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Quest | 287641 | [287641-bug-quest.json](./287641-bug-quest.json) |
 | Bug Riders | 277929 | [277929-bug-riders.json](./277929-bug-riders.json) |
 | Bug Splatt | 104807 | [104807-bug-splatt.json](./104807-bug-splatt.json) |
+| Bug Star | 200938 | [200938-bug-star.json](./200938-bug-star.json) |
 | Bug Too! | 45524 | [45524-bug-too.json](./45524-bug-too.json) |
 | Bug Village | 94203 | [94203-bug-village.json](./94203-bug-village.json) |
 | Bug World | 14472 | [14472-bug-world.json](./14472-bug-world.json) |
