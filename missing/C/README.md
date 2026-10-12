@@ -8008,7 +8008,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer: Red Alert - Retaliation | 18785 | [18785-command-and-conquer-red-alert-retaliation.json](./18785-command-and-conquer-red-alert-retaliation.json) |
 | Command & Conquer: Red Alert - The Aftermath | 652 | [652-command-and-conquer-red-alert-the-aftermath.json](./652-command-and-conquer-red-alert-the-aftermath.json) |
 | Command & Conquer: Red Alert 2 - Mental Omega | 180284 | [180284-command-and-conquer-red-alert-2-mental-omega.json](./180284-command-and-conquer-red-alert-2-mental-omega.json) |
-| Command & Conquer: Red Alert 3 | 959 | [959-command-and-conquer-red-alert-3.json](./959-command-and-conquer-red-alert-3.json) |
 | Command & Conquer: Red Alert 3 - Commander's Challenge | 833 | [833-command-and-conquer-red-alert-3-commanders-challenge.json](./833-command-and-conquer-red-alert-3-commanders-challenge.json) |
 | Command & Conquer: Red Alert 3 - Premier Edition | 210703 | [210703-command-and-conquer-red-alert-3-premier-edition.json](./210703-command-and-conquer-red-alert-3-premier-edition.json) |
 | Command & Conquer: Red Alert 3 - Ultimate Edition | 21205 | [21205-command-and-conquer-red-alert-3-ultimate-edition.json](./21205-command-and-conquer-red-alert-3-ultimate-edition.json) |
