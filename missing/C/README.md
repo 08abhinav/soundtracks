@@ -3838,6 +3838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charrua Soccer | 134546 | [134546-charrua-soccer.json](./134546-charrua-soccer.json) |
 | Charrua Soccer: Mirror Edition | 280344 | [280344-charrua-soccer-mirror-edition.json](./280344-charrua-soccer-mirror-edition.json) |
 | Charrua Soccer: Pro Edition | 277310 | [277310-charrua-soccer-pro-edition.json](./277310-charrua-soccer-pro-edition.json) |
+| Charset Crossfire | 195459 | [195459-charset-crossfire.json](./195459-charset-crossfire.json) |
 | Chart Attack | 94340 | [94340-chart-attack.json](./94340-chart-attack.json) |
 | Chart Wars | 80124 | [80124-chart-wars.json](./80124-chart-wars.json) |
 | Chart Wars 3 | 78094 | [78094-chart-wars-3.json](./78094-chart-wars-3.json) |
@@ -6823,6 +6824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clusterduck | 194667 | [194667-clusterduck.json](./194667-clusterduck.json) |
 | Clutch | 16049 | [16049-clutch.json](./16049-clutch.json) |
 | Clutch Hitter | 369246 | [369246-clutch-hitter.json](./369246-clutch-hitter.json) |
+| Clutter 12: It's About Time - Collector's Edition | 195433 | [195433-clutter-12-its-about-time-collectors-edition.json](./195433-clutter-12-its-about-time-collectors-edition.json) |
 | Clutter 17: Flower Power - Collector's Edition | 338869 | [338869-clutter-17-flower-power-collectors-edition.json](./338869-clutter-17-flower-power-collectors-edition.json) |
 | Clutter 18: Joe's Ultimate Challenge - Collector's Edition | 369562 | [369562-clutter-18-joes-ultimate-challenge-collectors-edition.json](./369562-clutter-18-joes-ultimate-challenge-collectors-edition.json) |
 | Clutter 19: Survey Says What? - Collector's Edition | 416781 | [416781-clutter-19-survey-says-what-collectors-edition.json](./416781-clutter-19-survey-says-what-collectors-edition.json) |
@@ -8632,6 +8634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constellation Distantia | 30090 | [30090-constellation-distantia.json](./30090-constellation-distantia.json) |
 | Constellation Tango | 191178 | [191178-constellation-tango.json](./191178-constellation-tango.json) |
 | Constellations: Beyond the Edges | 167256 | [167256-constellations-beyond-the-edges.json](./167256-constellations-beyond-the-edges.json) |
+| Constellations: Puzzles in the Sky | 195428 | [195428-constellations-puzzles-in-the-sky.json](./195428-constellations-puzzles-in-the-sky.json) |
 | Constitution | 83491 | [83491-constitution.json](./83491-constitution.json) |
 | Constriction: 1024 | 315484 | [315484-constriction-1024.json](./315484-constriction-1024.json) |
 | Construct | 129059 | [129059-construct.json](./129059-construct.json) |
@@ -12462,6 +12465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Baby | 325831 | [325831-cursed-baby.json](./325831-cursed-baby.json) |
 | Cursed Bet | 253590 | [253590-cursed-bet.json](./253590-cursed-bet.json) |
 | Cursed Blocks | 146708 | [146708-cursed-blocks.json](./146708-cursed-blocks.json) |
+| Cursed Blood | 195469 | [195469-cursed-blood.json](./195469-cursed-blood.json) |
 | Cursed Blood | 331280 | [331280-cursed-blood.json](./331280-cursed-blood.json) |
 | Cursed Bloodline | 338253 | [338253-cursed-bloodline.json](./338253-cursed-bloodline.json) |
 | Cursed Broom | 214146 | [214146-cursed-broom.json](./214146-cursed-broom.json) |
