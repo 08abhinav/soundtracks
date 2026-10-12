@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edelweiss Knights | 386867 | [386867-edelweiss-knights.json](./386867-edelweiss-knights.json) |
 | Edemn: Cyborg Skeleton | 249718 | [249718-edemn-cyborg-skeleton.json](./249718-edemn-cyborg-skeleton.json) |
 | Eden | 170276 | [170276-eden.json](./170276-eden.json) |
+| Eden | 185365 | [185365-eden.json](./185365-eden.json) |
 | Eden | 85855 | [85855-eden.json](./85855-eden.json) |
 | Eden Daho | 386516 | [386516-eden-daho.json](./386516-eden-daho.json) |
 | Eden Eternal | 46995 | [46995-eden-eternal.json](./46995-eden-eternal.json) |
