@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Bad at People, but Turns Out I’m Even Worse at Making Games | 260147 | [260147-i-am-bad-at-people-but-turns-out-i-m-even-worse-at-making-games.json](./260147-i-am-bad-at-people-but-turns-out-i-m-even-worse-at-making-games.json) |
 | I am Ball | 131973 | [131973-i-am-ball.json](./131973-i-am-ball.json) |
 | I Am Better Than You | 400532 | [400532-i-am-better-than-you.json](./400532-i-am-better-than-you.json) |
+| I am Bjorn | 212992 | [212992-i-am-bjorn.json](./212992-i-am-bjorn.json) |
 | I Am Blondi | 109521 | [109521-i-am-blondi.json](./109521-i-am-blondi.json) |
 | I am Bread | 7868 | [7868-i-am-bread.json](./7868-i-am-bread.json) |
 | I Am Brewing You Alive but You Can Leave at Any Time If You Really Want To | 135669 | [135669-i-am-brewing-you-alive-but-you-can-leave-at-any-time-if-you-really-want-to.json](./135669-i-am-brewing-you-alive-but-you-can-leave-at-any-time-if-you-really-want-to.json) |
@@ -1909,6 +1910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Dark | 50748 | [50748-in-the-dark.json](./50748-in-the-dark.json) |
 | In The Dark | 353904 | [353904-in-the-dark.json](./353904-in-the-dark.json) |
 | In The Dark 2 | 307743 | [307743-in-the-dark-2.json](./307743-in-the-dark-2.json) |
+| In the Darkness | 212990 | [212990-in-the-darkness.json](./212990-in-the-darkness.json) |
 | In the Dead of Night | 73287 | [73287-in-the-dead-of-night.json](./73287-in-the-dead-of-night.json) |
 | In the Dead of Night: Urszula's Revenge | 34090 | [34090-in-the-dead-of-night-urszulas-revenge.json](./34090-in-the-dead-of-night-urszulas-revenge.json) |
 | In The Disorderly Courtyard | 303588 | [303588-in-the-disorderly-courtyard.json](./303588-in-the-disorderly-courtyard.json) |
@@ -4137,6 +4139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isopix Art Club | 213919 | [213919-isopix-art-club.json](./213919-isopix-art-club.json) |
 | Isorropia | 133451 | [133451-isorropia.json](./133451-isorropia.json) |
 | Isoscape | 217283 | [217283-isoscape.json](./217283-isoscape.json) |
+| Isostasy | 212989 | [212989-isostasy.json](./212989-isostasy.json) |
 | Isotiles | 43510 | [43510-isotiles.json](./43510-isotiles.json) |
 | Isotiles 2 | 118983 | [118983-isotiles-2.json](./118983-isotiles-2.json) |
 | Isotope: ASH | 217235 | [217235-isotope-ash.json](./217235-isotope-ash.json) |
