@@ -4714,6 +4714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chronicles of King Arthur: Episode 1 - Excalibur | 112952 | [112952-the-chronicles-of-king-arthur-episode-1-excalibur.json](./112952-the-chronicles-of-king-arthur-episode-1-excalibur.json) |
 | The Chronicles of King Arthur: Episode 2 - Knights of the Round Table | 117630 | [117630-the-chronicles-of-king-arthur-episode-2-knights-of-the-round-table.json](./117630-the-chronicles-of-king-arthur-episode-2-knights-of-the-round-table.json) |
 | The Chronicles of Moses and the Exodus | 151082 | [151082-the-chronicles-of-moses-and-the-exodus.json](./151082-the-chronicles-of-moses-and-the-exodus.json) |
+| The Chronicles of Narnia: Prince Caspian | 200910 | [200910-the-chronicles-of-narnia-prince-caspian.json](./200910-the-chronicles-of-narnia-prince-caspian.json) |
 | The Chronicles of Narnia: Prince Caspian | 4763 | [4763-the-chronicles-of-narnia-prince-caspian.json](./4763-the-chronicles-of-narnia-prince-caspian.json) |
 | The Chronicles of Narnia: The Lion, the Witch and the Wardrobe | 3857 | [3857-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.json](./3857-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.json) |
 | The Chronicles of Noah's Ark | 105244 | [105244-the-chronicles-of-noahs-ark.json](./105244-the-chronicles-of-noahs-ark.json) |
@@ -6165,6 +6166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flame in the Flood: Complete Edition | 26181 | [26181-the-flame-in-the-flood-complete-edition.json](./26181-the-flame-in-the-flood-complete-edition.json) |
 | The Flame's Heir | 301278 | [301278-the-flames-heir.json](./301278-the-flames-heir.json) |
 | The Flames | 176510 | [176510-the-flames.json](./176510-the-flames.json) |
+| The Flames | 200926 | [200926-the-flames.json](./200926-the-flames.json) |
 | The Flash | 100289 | [100289-the-flash.json](./100289-the-flash.json) |
 | The Flat | 262910 | [262910-the-flat.json](./262910-the-flat.json) |
 | The Flawless Cup | 156000 | [156000-the-flawless-cup.json](./156000-the-flawless-cup.json) |
@@ -7970,6 +7972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Capa Negra | 215738 | [215738-the-legend-of-capa-negra.json](./215738-the-legend-of-capa-negra.json) |
 | The Legend of Cesar | 160236 | [160236-the-legend-of-cesar.json](./160236-the-legend-of-cesar.json) |
 | The Legend of Chalkvania | 395570 | [395570-the-legend-of-chalkvania.json](./395570-the-legend-of-chalkvania.json) |
+| The Legend of Chibi Ninja | 200925 | [200925-the-legend-of-chibi-ninja.json](./200925-the-legend-of-chibi-ninja.json) |
 | The Legend of Chosen Blood | 285608 | [285608-the-legend-of-chosen-blood.json](./285608-the-legend-of-chosen-blood.json) |
 | The Legend of Chuck | 291006 | [291006-the-legend-of-chuck.json](./291006-the-legend-of-chuck.json) |
 | The Legend Of Chupacabra And The Sentient Log | 404451 | [404451-the-legend-of-chupacabra-and-the-sentient-log.json](./404451-the-legend-of-chupacabra-and-the-sentient-log.json) |
@@ -12838,6 +12841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thieves Guild Master | 413662 | [413662-thieves-guild-master.json](./413662-thieves-guild-master.json) |
 | Thieves of Dingirra | 304694 | [304694-thieves-of-dingirra.json](./304694-thieves-of-dingirra.json) |
 | Thieves World | 297467 | [297467-thieves-world.json](./297467-thieves-world.json) |
+| Thieves' Paradise | 200934 | [200934-thieves-paradise.json](./200934-thieves-paradise.json) |
 | Thimbleweed Park 2 | 411759 | [411759-thimbleweed-park-2.json](./411759-thimbleweed-park-2.json) |
 | Thin Line | 333759 | [333759-thin-line.json](./333759-thin-line.json) |
 | Thin Threads | 332415 | [332415-thin-threads.json](./332415-thin-threads.json) |
@@ -18379,6 +18383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Tycoon | 152866 | [152866-train-tycoon.json](./152866-train-tycoon.json) |
 | Train Valley 2: Editor's Bulletin | 243140 | [243140-train-valley-2-editors-bulletin.json](./243140-train-valley-2-editors-bulletin.json) |
 | Train Valley 2: Japanese Trails | 367283 | [367283-train-valley-2-japanese-trails.json](./367283-train-valley-2-japanese-trails.json) |
+| Train Valley 2: Myths and Rails | 200932 | [200932-train-valley-2-myths-and-rails.json](./200932-train-valley-2-myths-and-rails.json) |
 | Train Valley 2: The Pandeia Project | 252620 | [252620-train-valley-2-the-pandeia-project.json](./252620-train-valley-2-the-pandeia-project.json) |
 | Train Valley 2: Workshop Gems - Ruby | 219540 | [219540-train-valley-2-workshop-gems-ruby.json](./219540-train-valley-2-workshop-gems-ruby.json) |
 | Train Valley Collection | 270317 | [270317-train-valley-collection.json](./270317-train-valley-collection.json) |
@@ -19952,6 +19957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troddlers | 39029 | [39029-troddlers.json](./39029-troddlers.json) |
 | Trog | 46505 | [46505-trog.json](./46505-trog.json) |
 | Trog Smash Island | 296081 | [296081-trog-smash-island.json](./296081-trog-smash-island.json) |
+| Trogday Micro Game | 200949 | [200949-trogday-micro-game.json](./200949-trogday-micro-game.json) |
 | Troggle Trouble Math | 93191 | [93191-troggle-trouble-math.json](./93191-troggle-trouble-math.json) |
 | Trois Mouvements Perpétuels | 277291 | [277291-trois-mouvements-perpetuels.json](./277291-trois-mouvements-perpetuels.json) |
 | Trojan | 236835 | [236835-trojan.json](./236835-trojan.json) |
