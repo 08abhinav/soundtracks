@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1/16384 | 411764 | [411764-1-16384.json](./411764-1-16384.json) |
 | 1/2 Blood | 98422 | [98422-1-2-blood.json](./98422-1-2-blood.json) |
 | 1/2 Red Riding Hood | 190045 | [190045-1-2-red-riding-hood.json](./190045-1-2-red-riding-hood.json) |
+| 1% Survival Escape | 210836 | [210836-1-survival-escape.json](./210836-1-survival-escape.json) |
 | 10 | 294440 | [294440-10.json](./294440-10.json) |
 | 10 Amazingly Awful Games | 78332 | [78332-10-amazingly-awful-games.json](./78332-10-amazingly-awful-games.json) |
 | 10 Amazingly Awful Games Vol 2 | 79939 | [79939-10-amazingly-awful-games-vol-2.json](./79939-10-amazingly-awful-games-vol-2.json) |
