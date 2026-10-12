@@ -7122,6 +7122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rot Splatation | 409809 | [409809-rot-splatation.json](./409809-rot-splatation.json) |
 | Rot: Purgatory Hill | 182811 | [182811-rot-purgatory-hill.json](./182811-rot-purgatory-hill.json) |
 | Rota | 291026 | [291026-rota.json](./291026-rota.json) |
+| Rota: Bend Gravity | 201487 | [201487-rota-bend-gravity.json](./201487-rota-bend-gravity.json) |
 | Rota: Kurofune | 304146 | [304146-rota-kurofune.json](./304146-rota-kurofune.json) |
 | Rota's Nautical Chronicles of Trade | 302446 | [302446-rotas-nautical-chronicles-of-trade.json](./302446-rotas-nautical-chronicles-of-trade.json) |
 | Rota's Nautical Chronicles of Trade: Aname Momo - Collaboration Commemorative Residentization DLC | 329009 | [329009-rotas-nautical-chronicles-of-trade-aname-momo-collaboration-commemorative-residentization-dlc.json](./329009-rotas-nautical-chronicles-of-trade-aname-momo-collaboration-commemorative-residentization-dlc.json) |
@@ -7340,6 +7341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Gems | 116332 | [116332-royal-gems.json](./116332-royal-gems.json) |
 | Royal Jest | 353798 | [353798-royal-jest.json](./353798-royal-jest.json) |
 | Royal Jigsaw | 108265 | [108265-royal-jigsaw.json](./108265-royal-jigsaw.json) |
+| Royal Jigsaw 2 | 201470 | [201470-royal-jigsaw-2.json](./201470-royal-jigsaw-2.json) |
 | Royal Jigsaw 3 | 241616 | [241616-royal-jigsaw-3.json](./241616-royal-jigsaw-3.json) |
 | Royal Kingdom | 327955 | [327955-royal-kingdom.json](./327955-royal-kingdom.json) |
 | Royal Legends: Marshes Curse - Collector's Edition | 186331 | [186331-royal-legends-marshes-curse-collectors-edition.json](./186331-royal-legends-marshes-curse-collectors-edition.json) |
@@ -7644,6 +7646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruinsmagus: The Warrior and the Tailor | 265762 | [265762-ruinsmagus-the-warrior-and-the-tailor.json](./265762-ruinsmagus-the-warrior-and-the-tailor.json) |
 | Ruka | 176899 | [176899-ruka.json](./176899-ruka.json) |
 | Ruki no Zetsubo | 151798 | [151798-ruki-no-zetsubo.json](./151798-ruki-no-zetsubo.json) |
+| Rukimin's Disappointing Adventure! | 201492 | [201492-rukimins-disappointing-adventure.json](./201492-rukimins-disappointing-adventure.json) |
 | Rukimin's Disappointing Adventure!: Shobomi and the Phantom Ruins | 211892 | [211892-rukimins-disappointing-adventure-shobomi-and-the-phantom-ruins.json](./211892-rukimins-disappointing-adventure-shobomi-and-the-phantom-ruins.json) |
 | Ruku's Heart Balloon | 222400 | [222400-rukus-heart-balloon.json](./222400-rukus-heart-balloon.json) |
 | Rule & Expand | 316370 | [316370-rule-and-expand.json](./316370-rule-and-expand.json) |
