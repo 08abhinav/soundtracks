@@ -4325,6 +4325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norr part I: Ace Shot | 120828 | [120828-norr-part-i-ace-shot.json](./120828-norr-part-i-ace-shot.json) |
 | Norr part II: Will Walker | 173178 | [173178-norr-part-ii-will-walker.json](./173178-norr-part-ii-will-walker.json) |
 | Norrland | 9127 | [9127-norrland.json](./9127-norrland.json) |
+| Norroth: Online | 215303 | [215303-norroth-online.json](./215303-norroth-online.json) |
 | Norse | 188562 | [188562-norse.json](./188562-norse.json) |
 | Norse by Norse West: The Return of the Lost Vikings | 2615 | [2615-norse-by-norse-west-the-return-of-the-lost-vikings.json](./2615-norse-by-norse-west-the-return-of-the-lost-vikings.json) |
 | Norse Noir: Loki's Exile | 19264 | [19264-norse-noir-lokis-exile.json](./19264-norse-noir-lokis-exile.json) |
