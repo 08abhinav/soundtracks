@@ -2533,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Multi-Games | 32119 | [32119-vr-multi-games.json](./32119-vr-multi-games.json) |
 | VR New York Story | 369756 | [369756-vr-new-york-story.json](./369756-vr-new-york-story.json) |
 | VR Ninja Dojo | 316410 | [316410-vr-ninja-dojo.json](./316410-vr-ninja-dojo.json) |
+| VR Noir | 188351 | [188351-vr-noir.json](./188351-vr-noir.json) |
 | VR Paper Airplane Hunting | 163805 | [163805-vr-paper-airplane-hunting.json](./163805-vr-paper-airplane-hunting.json) |
 | VR Party Pack | 249673 | [249673-vr-party-pack.json](./249673-vr-party-pack.json) |
 | VR Party Pack | 249675 | [249675-vr-party-pack.json](./249675-vr-party-pack.json) |
@@ -2674,6 +2675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Family Tennis | 214588 | [214588-vs-family-tennis.json](./214588-vs-family-tennis.json) |
 | Vs. Football | 214596 | [214596-vs-football.json](./214596-vs-football.json) |
 | Vs. Football | 246485 | [246485-vs-football.json](./246485-vs-football.json) |
+| Vs. From Below | 186594 | [186594-vs-from-below.json](./186594-vs-from-below.json) |
 | Vs. Gradius | 214578 | [214578-vs-gradius.json](./214578-vs-gradius.json) |
 | Vs. Great Tennis | 214599 | [214599-vs-great-tennis.json](./214599-vs-great-tennis.json) |
 | Vs. Head to Head Baseball | 214598 | [214598-vs-head-to-head-baseball.json](./214598-vs-head-to-head-baseball.json) |
@@ -2718,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vtoraya Mirovaya: Izdanie Vtoroe | 84277 | [84277-vtoraya-mirovaya-izdanie-vtoroe.json](./84277-vtoraya-mirovaya-izdanie-vtoroe.json) |
 | VTree Beach Volleyball | 100594 | [100594-vtree-beach-volleyball.json](./100594-vtree-beach-volleyball.json) |
 | VTube Studio: VNet Multiplayer Collab | 246921 | [246921-vtube-studio-vnet-multiplayer-collab.json](./246921-vtube-studio-vnet-multiplayer-collab.json) |
+| Vtuber Baseball | 187774 | [187774-vtuber-baseball.json](./187774-vtuber-baseball.json) |
 | VTuber Battle: It’s Not About Subscribers! It’s All About Power! | 331888 | [331888-vtuber-battle-it-s-not-about-subscribers-it-s-all-about-power.json](./331888-vtuber-battle-it-s-not-about-subscribers-it-s-all-about-power.json) |
 | VTuber Beats | 163862 | [163862-vtuber-beats.json](./163862-vtuber-beats.json) |
 | VTuber Manager | 282253 | [282253-vtuber-manager.json](./282253-vtuber-manager.json) |
