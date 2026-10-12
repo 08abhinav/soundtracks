@@ -516,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kao the Kangaroo: Summer Drip | 255089 | [255089-kao-the-kangaroo-summer-drip.json](./255089-kao-the-kangaroo-summer-drip.json) |
 | Kao The Kangaroo: Top Of The Class | 290412 | [290412-kao-the-kangaroo-top-of-the-class.json](./290412-kao-the-kangaroo-top-of-the-class.json) |
 | Kao the Kangaroo: VIP | 290411 | [290411-kao-the-kangaroo-vip.json](./290411-kao-the-kangaroo-vip.json) |
+| Kao the Kangaroo: Yooka x Kao | 226327 | [226327-kao-the-kangaroo-yooka-x-kao.json](./226327-kao-the-kangaroo-yooka-x-kao.json) |
 | Kaoamaru Kaiju | 222982 | [222982-kaoamaru-kaiju.json](./222982-kaoamaru-kaiju.json) |
 | Kaon : Fragmented Core | 379582 | [379582-kaon-fragmented-core.json](./379582-kaon-fragmented-core.json) |
 | Kaori After Story | 112770 | [112770-kaori-after-story.json](./112770-kaori-after-story.json) |
@@ -2882,6 +2883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights & Guns: Deluxe Edition | 257532 | [257532-knights-and-guns-deluxe-edition.json](./257532-knights-and-guns-deluxe-edition.json) |
 | Knights & Guns: Diamond Edition | 271835 | [271835-knights-and-guns-diamond-edition.json](./271835-knights-and-guns-diamond-edition.json) |
 | Knights & Guns: Expansion Pack #1 | 223559 | [223559-knights-and-guns-expansion-pack-1.json](./223559-knights-and-guns-expansion-pack-1.json) |
+| Knights & Guns: Expansion Pack #2 | 226326 | [226326-knights-and-guns-expansion-pack-2.json](./226326-knights-and-guns-expansion-pack-2.json) |
 | Knights & Guns: Expansion Packs Collection | 231282 | [231282-knights-and-guns-expansion-packs-collection.json](./231282-knights-and-guns-expansion-packs-collection.json) |
 | Knights & Guns: Gold Edition | 270794 | [270794-knights-and-guns-gold-edition.json](./270794-knights-and-guns-gold-edition.json) |
 | Knights & Guns: Grand Edition | 315860 | [315860-knights-and-guns-grand-edition.json](./315860-knights-and-guns-grand-edition.json) |
