@@ -3495,6 +3495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue the Hostages: Words of Fear | 396729 | [396729-rescue-the-hostages-words-of-fear.json](./396729-rescue-the-hostages-words-of-fear.json) |
 | Rescue the Prisoner | 272458 | [272458-rescue-the-prisoner.json](./272458-rescue-the-prisoner.json) |
 | Rescue the Puppies | 401029 | [401029-rescue-the-puppies.json](./401029-rescue-the-puppies.json) |
+| Rescue Troopers | 190901 | [190901-rescue-troopers.json](./190901-rescue-troopers.json) |
 | Rescue your chickens | 30672 | [30672-rescue-your-chickens.json](./30672-rescue-your-chickens.json) |
 | Rescue Zone | 138616 | [138616-rescue-zone.json](./138616-rescue-zone.json) |
 | Rescue: Heroes in Action | 76718 | [76718-rescue-heroes-in-action.json](./76718-rescue-heroes-in-action.json) |
@@ -7643,6 +7644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruin Hunter Raichi | 392456 | [392456-ruin-hunter-raichi.json](./392456-ruin-hunter-raichi.json) |
 | Ruin of the Fae Realm | 312314 | [312314-ruin-of-the-fae-realm.json](./312314-ruin-of-the-fae-realm.json) |
 | Ruin of the Reckless | 28240 | [28240-ruin-of-the-reckless.json](./28240-ruin-of-the-reckless.json) |
+| Ruin or Victory | 190926 | [190926-ruin-or-victory.json](./190926-ruin-or-victory.json) |
 | Ruin Raiders | 132787 | [132787-ruin-raiders.json](./132787-ruin-raiders.json) |
 | Ruin: Chapter 0 | 400981 | [400981-ruin-chapter-0.json](./400981-ruin-chapter-0.json) |
 | Ruina | 373073 | [373073-ruina.json](./373073-ruina.json) |
