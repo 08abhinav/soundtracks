@@ -3567,6 +3567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champoo Club | 172200 | [172200-champoo-club.json](./172200-champoo-club.json) |
 | Champs TD | 210862 | [210862-champs-td.json](./210862-champs-td.json) |
 | Champs: Battlegrounds | 20117 | [20117-champs-battlegrounds.json](./20117-champs-battlegrounds.json) |
+| Chamrosh | 207600 | [207600-chamrosh.json](./207600-chamrosh.json) |
 | Chanbara Fighter | 356283 | [356283-chanbara-fighter.json](./356283-chanbara-fighter.json) |
 | Chance | 387323 | [387323-chance.json](./387323-chance.json) |
 | Chance at Life | 203530 | [203530-chance-at-life.json](./203530-chance-at-life.json) |
@@ -3750,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charge! Tank Squad | 59392 | [59392-charge-tank-squad.json](./59392-charge-tank-squad.json) |
 | Charged! | 258736 | [258736-charged.json](./258736-charged.json) |
 | Charger Escape | 383373 | [383373-charger-escape.json](./383373-charger-escape.json) |
+| Charging Out Dead Zone | 207569 | [207569-charging-out-dead-zone.json](./207569-charging-out-dead-zone.json) |
 | Charging Panic | 136244 | [136244-charging-panic.json](./136244-charging-panic.json) |
 | Charinko Hero | 3854 | [3854-charinko-hero.json](./3854-charinko-hero.json) |
 | Chariot | 7897 | [7897-chariot.json](./7897-chariot.json) |
@@ -9739,6 +9741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Courier Tale | 202171 | [202171-courier-tale.json](./202171-courier-tale.json) |
 | Couroland | 223516 | [223516-couroland.json](./223516-couroland.json) |
 | Court of Ashes | 120941 | [120941-court-of-ashes.json](./120941-court-of-ashes.json) |
+| Court of Crowns | 207561 | [207561-court-of-crowns.json](./207561-court-of-crowns.json) |
 | Court of Darkness: Captivation's Kiss | 399622 | [399622-court-of-darkness-captivations-kiss.json](./399622-court-of-darkness-captivations-kiss.json) |
 | Court of Darkness: Temptation's Kiss | 370803 | [370803-court-of-darkness-temptations-kiss.json](./370803-court-of-darkness-temptations-kiss.json) |
 | Court Sort VR | 219745 | [219745-court-sort-vr.json](./219745-court-sort-vr.json) |
@@ -12727,6 +12730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Citizen Shockman 3: The Princess From Another World | 300374 | [300374-cyber-citizen-shockman-3-the-princess-from-another-world.json](./300374-cyber-citizen-shockman-3-the-princess-from-another-world.json) |
 | Cyber Citizen Shockman Zero | 306049 | [306049-cyber-citizen-shockman-zero.json](./306049-cyber-citizen-shockman-zero.json) |
 | Cyber City | 117077 | [117077-cyber-city.json](./117077-cyber-city.json) |
+| Cyber City Clash | 207604 | [207604-cyber-city-clash.json](./207604-cyber-city-clash.json) |
 | Cyber City Escape | 149725 | [149725-cyber-city-escape.json](./149725-cyber-city-escape.json) |
 | Cyber City Oedo 808: Kemono no Zokusei | 64382 | [64382-cyber-city-oedo-808-kemono-no-zokusei.json](./64382-cyber-city-oedo-808-kemono-no-zokusei.json) |
 | Cyber Clutch: Hot Import Nights | 302383 | [302383-cyber-clutch-hot-import-nights.json](./302383-cyber-clutch-hot-import-nights.json) |
