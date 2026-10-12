@@ -547,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call to Arms | 17432 | [17432-call-to-arms.json](./17432-call-to-arms.json) |
 | Call to Arms: Gates of Hell - Liberation | 261780 | [261780-call-to-arms-gates-of-hell-liberation.json](./261780-call-to-arms-gates-of-hell-liberation.json) |
 | Call to Arms: Gates of Hell - Ostfront | 211196 | [211196-call-to-arms-gates-of-hell-ostfront.json](./211196-call-to-arms-gates-of-hell-ostfront.json) |
+| Call to Arms: Gates of Hell - Scorched Earth | 219733 | [219733-call-to-arms-gates-of-hell-scorched-earth.json](./219733-call-to-arms-gates-of-hell-scorched-earth.json) |
 | Call to Arms: Gates of Hell - Talvisota | 203893 | [203893-call-to-arms-gates-of-hell-talvisota.json](./203893-call-to-arms-gates-of-hell-talvisota.json) |
 | Call to Arms: Panzer Elite | 353292 | [353292-call-to-arms-panzer-elite.json](./353292-call-to-arms-panzer-elite.json) |
 | Call to Strike | 311133 | [311133-call-to-strike.json](./311133-call-to-strike.json) |
@@ -629,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camgoo Sixplay | 93123 | [93123-camgoo-sixplay.json](./93123-camgoo-sixplay.json) |
 | Camisole | 128366 | [128366-camisole.json](./128366-camisole.json) |
 | Camo Sniper | 337157 | [337157-camo-sniper.json](./337157-camo-sniper.json) |
+| Camouflet | 219734 | [219734-camouflet.json](./219734-camouflet.json) |
 | Camp Buddy: Scoutmaster Season – Side Stories | 387576 | [387576-camp-buddy-scoutmaster-season-side-stories.json](./387576-camp-buddy-scoutmaster-season-side-stories.json) |
 | Camp Counsellor Collector | 272271 | [272271-camp-counsellor-collector.json](./272271-camp-counsellor-collector.json) |
 | Camp Grizzly | 104449 | [104449-camp-grizzly.json](./104449-camp-grizzly.json) |
@@ -680,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camphor | 237352 | [237352-camphor.json](./237352-camphor.json) |
 | Campido | 111756 | [111756-campido.json](./111756-campido.json) |
 | Camping Builder | 192838 | [192838-camping-builder.json](./192838-camping-builder.json) |
+| Camping Cat Family | 219775 | [219775-camping-cat-family.json](./219775-camping-cat-family.json) |
 | Camping Mama: Outdoor Adventures | 47942 | [47942-camping-mama-outdoor-adventures.json](./47942-camping-mama-outdoor-adventures.json) |
 | Camping Park Simulator | 249079 | [249079-camping-park-simulator.json](./249079-camping-park-simulator.json) |
 | Camping Simulator: The Squad | 150072 | [150072-camping-simulator-the-squad.json](./150072-camping-simulator-the-squad.json) |
@@ -920,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Master: Military Sport | 280154 | [280154-cannon-master-military-sport.json](./280154-cannon-master-military-sport.json) |
 | Cannon Momento | 179577 | [179577-cannon-momento.json](./179577-cannon-momento.json) |
 | Cannon Royale | 223503 | [223503-cannon-royale.json](./223503-cannon-royale.json) |
+| Cannon Shoot Plane | 219735 | [219735-cannon-shoot-plane.json](./219735-cannon-shoot-plane.json) |
 | Cannon Spike | 6719 | [6719-cannon-spike.json](./6719-cannon-spike.json) |
 | Cannon Strike | 94171 | [94171-cannon-strike.json](./94171-cannon-strike.json) |
 | Cannon Target | 253413 | [253413-cannon-target.json](./253413-cannon-target.json) |
@@ -2398,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Got Your Tongue | 360674 | [360674-cat-got-your-tongue.json](./360674-cat-got-your-tongue.json) |
 | Cat Guardian | 319201 | [319201-cat-guardian.json](./319201-cat-guardian.json) |
 | Cat Gunner | 356273 | [356273-cat-gunner.json](./356273-cat-gunner.json) |
+| Cat Herder | 219736 | [219736-cat-herder.json](./219736-cat-herder.json) |
 | Cat Heroes | 299394 | [299394-cat-heroes.json](./299394-cat-heroes.json) |
 | Cat Hits the Deck | 406209 | [406209-cat-hits-the-deck.json](./406209-cat-hits-the-deck.json) |
 | Cat Hostel | 359070 | [359070-cat-hostel.json](./359070-cat-hostel.json) |
@@ -5725,6 +5730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Mage 3: False Prophecy - Collector's Edition | 417520 | [417520-city-mage-3-false-prophecy-collectors-edition.json](./417520-city-mage-3-false-prophecy-collectors-edition.json) |
 | City Maker | 144220 | [144220-city-maker.json](./144220-city-maker.json) |
 | City Masterplan | 398007 | [398007-city-masterplan.json](./398007-city-masterplan.json) |
+| City Metro Simulator | 219737 | [219737-city-metro-simulator.json](./219737-city-metro-simulator.json) |
 | City Mysteries - Fun Seek and Find Hidden Object Puzzles | 88583 | [88583-city-mysteries-fun-seek-and-find-hidden-object-puzzles.json](./88583-city-mysteries-fun-seek-and-find-hidden-object-puzzles.json) |
 | City Night Rider | 101505 | [101505-city-night-rider.json](./101505-city-night-rider.json) |
 | City of Atlantis | 153911 | [153911-city-of-atlantis.json](./153911-city-of-atlantis.json) |
@@ -6122,6 +6128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classified: France '44 - Talon | 316378 | [316378-classified-france-44-talon.json](./316378-classified-france-44-talon.json) |
 | Classified: France '44: Overlord Edition | 289415 | [289415-classified-france-44-overlord-edition.json](./289415-classified-france-44-overlord-edition.json) |
 | Classified: The Sentinel Crisis | 5777 | [5777-classified-the-sentinel-crisis.json](./5777-classified-the-sentinel-crisis.json) |
+| ClasSimVR | 219738 | [219738-classimvr.json](./219738-classimvr.json) |
 | Classroom 0 | 377960 | [377960-classroom-0.json](./377960-classroom-0.json) |
 | Classroom Mystery Secrets Behind the Lessons | 420681 | [420681-classroom-mystery-secrets-behind-the-lessons.json](./420681-classroom-mystery-secrets-behind-the-lessons.json) |
 | Classroom of the Elite: Merge Puzzle Special Exam | 350524 | [350524-classroom-of-the-elite-merge-puzzle-special-exam.json](./350524-classroom-of-the-elite-merge-puzzle-special-exam.json) |
@@ -6757,6 +6764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clutter Puzzle Magazine Vol. 15 No. 1: Collector's Edition | 281999 | [281999-clutter-puzzle-magazine-vol-15-no-1-collectors-edition.json](./281999-clutter-puzzle-magazine-vol-15-no-1-collectors-edition.json) |
 | Clutter Puzzle Magazine: Vol. 16 No. 2 - Collector's Edition | 298695 | [298695-clutter-puzzle-magazine-vol-16-no-2-collectors-edition.json](./298695-clutter-puzzle-magazine-vol-16-no-2-collectors-edition.json) |
 | Clutter VI: Leigh's Story | 74483 | [74483-clutter-vi-leighs-story.json](./74483-clutter-vi-leighs-story.json) |
+| Clutter's Greatest Hits: Collector's Edition | 219739 | [219739-clutters-greatest-hits-collectors-edition.json](./219739-clutters-greatest-hits-collectors-edition.json) |
 | Clyde's Revenge | 72142 | [72142-clydes-revenge.json](./72142-clydes-revenge.json) |
 | CM-SS13 | 386923 | [386923-cm-ss13.json](./386923-cm-ss13.json) |
 | CM32 | 315571 | [315571-cm32.json](./315571-cm32.json) |
@@ -7018,6 +7026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Dates | 247466 | [247466-coffee-dates.json](./247466-coffee-dates.json) |
 | Coffee Express | 320924 | [320924-coffee-express.json](./320924-coffee-express.json) |
 | Coffee Extra: Ukuzala | 320528 | [320528-coffee-extra-ukuzala.json](./320528-coffee-extra-ukuzala.json) |
+| Coffee For Robots | 219740 | [219740-coffee-for-robots.json](./219740-coffee-for-robots.json) |
 | Coffee Kiss | 179079 | [179079-coffee-kiss.json](./179079-coffee-kiss.json) |
 | Coffee Mafia | 112322 | [112322-coffee-mafia.json](./112322-coffee-mafia.json) |
 | Coffee Noir | 27795 | [27795-coffee-noir.json](./27795-coffee-noir.json) |
@@ -7095,6 +7104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Exchange Craze | 275356 | [275356-coin-exchange-craze.json](./275356-coin-exchange-craze.json) |
 | Coin Factory | 312885 | [312885-coin-factory.json](./312885-coin-factory.json) |
 | Coin Factory Idle: Money Games | 249312 | [249312-coin-factory-idle-money-games.json](./249312-coin-factory-idle-money-games.json) |
+| Coin Flipper | 219741 | [219741-coin-flipper.json](./219741-coin-flipper.json) |
 | Coin Grid | 221374 | [221374-coin-grid.json](./221374-coin-grid.json) |
 | Coin Hunter | 331678 | [331678-coin-hunter.json](./331678-coin-hunter.json) |
 | Coin Jar | 291742 | [291742-coin-jar.json](./291742-coin-jar.json) |
@@ -7973,6 +7983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command: Modern Air / Naval Operations WOTY | 36237 | [36237-command-modern-air-naval-operations-woty.json](./36237-command-modern-air-naval-operations-woty.json) |
 | Command: Modern Operations - Chains of War | 167870 | [167870-command-modern-operations-chains-of-war.json](./167870-command-modern-operations-chains-of-war.json) |
 | Command: Modern Operations - Chains of War | 36628 | [36628-command-modern-operations-chains-of-war.json](./36628-command-modern-operations-chains-of-war.json) |
+| Command: Modern Operations - Falklands | 219743 | [219743-command-modern-operations-falklands.json](./219743-command-modern-operations-falklands.json) |
 | Command: Modern Operations - Red Tide | 196083 | [196083-command-modern-operations-red-tide.json](./196083-command-modern-operations-red-tide.json) |
 | Command: Modern Operations - Shifting Sands | 167866 | [167866-command-modern-operations-shifting-sands.json](./167866-command-modern-operations-shifting-sands.json) |
 | Command: Modern Operations - Shifting Sands | 75030 | [75030-command-modern-operations-shifting-sands.json](./75030-command-modern-operations-shifting-sands.json) |
@@ -9672,6 +9683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Court of Ashes | 120941 | [120941-court-of-ashes.json](./120941-court-of-ashes.json) |
 | Court of Darkness: Captivation's Kiss | 399622 | [399622-court-of-darkness-captivations-kiss.json](./399622-court-of-darkness-captivations-kiss.json) |
 | Court of Darkness: Temptation's Kiss | 370803 | [370803-court-of-darkness-temptations-kiss.json](./370803-court-of-darkness-temptations-kiss.json) |
+| Court Sort VR | 219745 | [219745-court-sort-vr.json](./219745-court-sort-vr.json) |
 | Courting Death | 318791 | [318791-courting-death.json](./318791-courting-death.json) |
 | Courtroom Chaos: Starring Arnold Schwarzenegger | 410347 | [410347-courtroom-chaos-starring-arnold-schwarzenegger.json](./410347-courtroom-chaos-starring-arnold-schwarzenegger.json) |
 | Courtroom Chaos: Starring Snoop Dogg | 371262 | [371262-courtroom-chaos-starring-snoop-dogg.json](./371262-courtroom-chaos-starring-snoop-dogg.json) |
@@ -10344,6 +10356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Christmas | 101762 | [101762-crazy-christmas.json](./101762-crazy-christmas.json) |
 | Crazy Christmas | 310552 | [310552-crazy-christmas.json](./310552-crazy-christmas.json) |
 | Crazy Circus | 269748 | [269748-crazy-circus.json](./269748-crazy-circus.json) |
+| Crazy Click Thursday | 219746 | [219746-crazy-click-thursday.json](./219746-crazy-click-thursday.json) |
 | Crazy Climber | 307266 | [307266-crazy-climber.json](./307266-crazy-climber.json) |
 | Crazy Climber | 347695 | [347695-crazy-climber.json](./347695-crazy-climber.json) |
 | Crazy Climber | 4611 | [4611-crazy-climber.json](./4611-crazy-climber.json) |
@@ -12480,6 +12493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Robo V2 | 3463 | [3463-custom-robo-v2.json](./3463-custom-robo-v2.json) |
 | Custom Romance City 3D3 | 403817 | [403817-custom-romance-city-3d3.json](./403817-custom-romance-city-3d3.json) |
 | Custom Town | 31597 | [31597-custom-town.json](./31597-custom-town.json) |
+| CustomBullet | 219747 | [219747-custombullet.json](./219747-custombullet.json) |
 | Customers From Hell: Game For Retail Workers | 148899 | [148899-customers-from-hell-game-for-retail-workers.json](./148899-customers-from-hell-game-for-retail-workers.json) |
 | Customized Girlfriend | 327902 | [327902-customized-girlfriend.json](./327902-customized-girlfriend.json) |
 | Customplay Golf 2010 | 21118 | [21118-customplay-golf-2010.json](./21118-customplay-golf-2010.json) |
@@ -12544,6 +12558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Dogs Slide | 305936 | [305936-cute-dogs-slide.json](./305936-cute-dogs-slide.json) |
 | Cute Fame: Halloween Bash | 270610 | [270610-cute-fame-halloween-bash.json](./270610-cute-fame-halloween-bash.json) |
 | Cute Fames Adventure | 261214 | [261214-cute-fames-adventure.json](./261214-cute-fames-adventure.json) |
+| Cute Fight | 219748 | [219748-cute-fight.json](./219748-cute-fight.json) |
 | Cute Fighter | 201168 | [201168-cute-fighter.json](./201168-cute-fighter.json) |
 | Cute Finders | 381700 | [381700-cute-finders.json](./381700-cute-finders.json) |
 | Cute girl with uncle's leisure time | 278737 | [278737-cute-girl-with-uncles-leisure-time.json](./278737-cute-girl-with-uncles-leisure-time.json) |
