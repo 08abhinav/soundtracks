@@ -7065,6 +7065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Shooting Defence | 265151 | [265151-hover-shooting-defence.json](./265151-hover-shooting-defence.json) |
 | Hover Skate VR | 30167 | [30167-hover-skate-vr.json](./30167-hover-skate-vr.json) |
 | Hover Strike | 40812 | [40812-hover-strike.json](./40812-hover-strike.json) |
+| Hover the Edge | 195963 | [195963-hover-the-edge.json](./195963-hover-the-edge.json) |
 | Hover X Souls | 96226 | [96226-hover-x-souls.json](./96226-hover-x-souls.json) |
 | Hoverbear | 296909 | [296909-hoverbear.json](./296909-hoverbear.json) |
 | Hoverboard Chase | 154081 | [154081-hoverboard-chase.json](./154081-hoverboard-chase.json) |
@@ -7495,6 +7496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hundred Days: Grape Lab | 167181 | [167181-hundred-days-grape-lab.json](./167181-hundred-days-grape-lab.json) |
 | Hundred Days: Napa Valley | 187853 | [187853-hundred-days-napa-valley.json](./187853-hundred-days-napa-valley.json) |
 | Hundred Fires: Episode 2 | 412547 | [412547-hundred-fires-episode-2.json](./412547-hundred-fires-episode-2.json) |
+| Hundred Fires: The Rising of Red Star | 195957 | [195957-hundred-fires-the-rising-of-red-star.json](./195957-hundred-fires-the-rising-of-red-star.json) |
 | Hundred Fires: The Rising of Red Star - Episode 3 | 264808 | [264808-hundred-fires-the-rising-of-red-star-episode-3.json](./264808-hundred-fires-the-rising-of-red-star-episode-3.json) |
 | Hundred Furious Fist Momoko: Wonderful Pink 2 | 228710 | [228710-hundred-furious-fist-momoko-wonderful-pink-2.json](./228710-hundred-furious-fist-momoko-wonderful-pink-2.json) |
 | Hundred Nights: DIFU | 395236 | [395236-hundred-nights-difu.json](./395236-hundred-nights-difu.json) |
