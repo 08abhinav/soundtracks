@@ -7192,6 +7192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might & Magic Heroes VI: Complete Edition | 53356 | [53356-might-and-magic-heroes-vi-complete-edition.json](./53356-might-and-magic-heroes-vi-complete-edition.json) |
 | Might & Magic Heroes VII - Trial by Fire | 33474 | [33474-might-and-magic-heroes-vii-trial-by-fire.json](./33474-might-and-magic-heroes-vii-trial-by-fire.json) |
 | Might & Magic Heroes VII: Deluxe Edition | 53355 | [53355-might-and-magic-heroes-vii-deluxe-edition.json](./53355-might-and-magic-heroes-vii-deluxe-edition.json) |
+| Might & Magic Heroes VII: Ultimate Edition | 219753 | [219753-might-and-magic-heroes-vii-ultimate-edition.json](./219753-might-and-magic-heroes-vii-ultimate-edition.json) |
 | Might & Magic: Clash of Heroes | 1889 | [1889-might-and-magic-clash-of-heroes.json](./1889-might-and-magic-clash-of-heroes.json) |
 | Might & Magic: Duel of Champions - Five Towers | 383112 | [383112-might-and-magic-duel-of-champions-five-towers.json](./383112-might-and-magic-duel-of-champions-five-towers.json) |
 | Might & Magic: Duel of Champions - Forgotten Wars | 383111 | [383111-might-and-magic-duel-of-champions-forgotten-wars.json](./383111-might-and-magic-duel-of-champions-forgotten-wars.json) |
