@@ -1741,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 512 Linedefs of /vr/ | 314985 | [314985-512-linedefs-of-vr.json](./314985-512-linedefs-of-vr.json) |
 | 5125m | 370206 | [370206-5125m.json](./370206-5125m.json) |
 | 5200 Menu | 93539 | [93539-5200-menu.json](./93539-5200-menu.json) |
+| 5225 | 197054 | [197054-5225.json](./197054-5225.json) |
 | 52Beatup | 261834 | [261834-52beatup.json](./261834-52beatup.json) |
 | 52Hertz | 277791 | [277791-52hertz.json](./277791-52hertz.json) |
 | 52Hertz | 367764 | [367764-52hertz.json](./367764-52hertz.json) |
