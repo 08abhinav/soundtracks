@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force 2017 Portable | 21583 | [21583-earth-defense-force-2017-portable.json](./21583-earth-defense-force-2017-portable.json) |
 | Earth Defense Force 2025 | 5585 | [5585-earth-defense-force-2025.json](./5585-earth-defense-force-2025.json) |
 | Earth Defense Force 3 for Nintendo Switch | 172720 | [172720-earth-defense-force-3-for-nintendo-switch.json](./172720-earth-defense-force-3-for-nintendo-switch.json) |
+| Earth Defense Force 4.1 for Nintendo Switch | 218057 | [218057-earth-defense-force-4-1-for-nintendo-switch.json](./218057-earth-defense-force-4-1-for-nintendo-switch.json) |
 | Earth Defense Force 4.1: Wing Diver the Shooter | 57020 | [57020-earth-defense-force-4-1-wing-diver-the-shooter.json](./57020-earth-defense-force-4-1-wing-diver-the-shooter.json) |
 | Earth Defense Force 4.1: Wing Diver the Shooter - Training Mode | 168224 | [168224-earth-defense-force-4-1-wing-diver-the-shooter-training-mode.json](./168224-earth-defense-force-4-1-wing-diver-the-shooter-training-mode.json) |
 | Earth Defense Force 5 | 27283 | [27283-earth-defense-force-5.json](./27283-earth-defense-force-5.json) |
@@ -1307,6 +1308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Election Day | 340995 | [340995-election-day.json](./340995-election-day.json) |
 | Election Day | 415126 | [415126-election-day.json](./415126-election-day.json) |
 | Election Manager 2016 | 94887 | [94887-election-manager-2016.json](./94887-election-manager-2016.json) |
+| Election Town | 218055 | [218055-election-town.json](./218055-election-town.json) |
 | Election Train | 406206 | [406206-election-train.json](./406206-election-train.json) |
 | Election Year Knockout: Boxing | 264012 | [264012-election-year-knockout-boxing.json](./264012-election-year-knockout-boxing.json) |
 | Electioneering | 174080 | [174080-electioneering.json](./174080-electioneering.json) |
