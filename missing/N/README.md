@@ -1714,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neonexus Wars | 297158 | [297158-neonexus-wars.json](./297158-neonexus-wars.json) |
 | NeonFlight | 130170 | [130170-neonflight.json](./130170-neonflight.json) |
 | NeonHat | 187517 | [187517-neonhat.json](./187517-neonhat.json) |
+| Neonimo | 187797 | [187797-neonimo.json](./187797-neonimo.json) |
 | NeonLore | 197916 | [197916-neonlore.json](./197916-neonlore.json) |
 | Neonoen | 120782 | [120782-neonoen.json](./120782-neonoen.json) |
 | NeoNomicon | 37005 | [37005-neonomicon.json](./37005-neonomicon.json) |
@@ -1808,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerve Me | 125833 | [125833-nerve-me.json](./125833-nerve-me.json) |
 | Nerved | 105226 | [105226-nerved.json](./105226-nerved.json) |
 | Nervous Brickdown | 9507 | [9507-nervous-brickdown.json](./9507-nervous-brickdown.json) |
+| Nervous Granny | 187170 | [187170-nervous-granny.json](./187170-nervous-granny.json) |
 | Nervous Pinguin | 96034 | [96034-nervous-pinguin.json](./96034-nervous-pinguin.json) |
 | NES Classic Edition | 213361 | [213361-nes-classic-edition.json](./213361-nes-classic-edition.json) |
 | NES Classics | 328666 | [328666-nes-classics.json](./328666-nes-classics.json) |
@@ -1949,6 +1951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nev's Jam Buster | 235337 | [235337-nevs-jam-buster.json](./235337-nevs-jam-buster.json) |
 | Nev's Socks | 311678 | [311678-nevs-socks.json](./311678-nevs-socks.json) |
 | Nevasca | 273547 | [273547-nevasca.json](./273547-nevasca.json) |
+| Nevedomo | 187193 | [187193-nevedomo.json](./187193-nevedomo.json) |
 | Neven | 75205 | [75205-neven.json](./75205-neven.json) |
 | Never | 262997 | [262997-never.json](./262997-never.json) |
 | Never / Together | 402908 | [402908-never-together.json](./402908-never-together.json) |
@@ -3213,6 +3216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine | 82014 | [82014-nine.json](./82014-nine.json) |
 | Nine Days | 273811 | [273811-nine-days.json](./273811-nine-days.json) |
 | Nine Errand | 274512 | [274512-nine-errand.json](./274512-nine-errand.json) |
+| Nine Hearts | 187773 | [187773-nine-hearts.json](./187773-nine-hearts.json) |
 | Nine Hentai Babes | 368513 | [368513-nine-hentai-babes.json](./368513-nine-hentai-babes.json) |
 | Nine Hole Ninja | 298818 | [298818-nine-hole-ninja.json](./298818-nine-hole-ninja.json) |
 | Nine Hours, Nine Persons, Nine Doors | 9543 | [9543-nine-hours-nine-persons-nine-doors.json](./9543-nine-hours-nine-persons-nine-doors.json) |
