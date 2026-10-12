@@ -260,10 +260,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walkabout Mini Golf: Blokhaven | 408259 | [408259-walkabout-mini-golf-blokhaven.json](./408259-walkabout-mini-golf-blokhaven.json) |
 | Walkabout Mini Golf: Forgotten Fairyland | 372655 | [372655-walkabout-mini-golf-forgotten-fairyland.json](./372655-walkabout-mini-golf-forgotten-fairyland.json) |
 | Walkabout Mini Golf: Gardens of Babylon | 196105 | [196105-walkabout-mini-golf-gardens-of-babylon.json](./196105-walkabout-mini-golf-gardens-of-babylon.json) |
+| Walkabout Mini Golf: Jim Henson's Labyrinth | 198158 | [198158-walkabout-mini-golf-jim-hensons-labyrinth.json](./198158-walkabout-mini-golf-jim-hensons-labyrinth.json) |
 | Walkabout Mini Golf: Journey to the Center of the Earth | 251576 | [251576-walkabout-mini-golf-journey-to-the-center-of-the-earth.json](./251576-walkabout-mini-golf-journey-to-the-center-of-the-earth.json) |
 | Walkabout Mini Golf: Laser Lair | 251577 | [251577-walkabout-mini-golf-laser-lair.json](./251577-walkabout-mini-golf-laser-lair.json) |
 | Walkabout Mini Golf: Mars Gardens | 360019 | [360019-walkabout-mini-golf-mars-gardens.json](./360019-walkabout-mini-golf-mars-gardens.json) |
 | Walkabout Mini Golf: Mount Olympus | 334481 | [334481-walkabout-mini-golf-mount-olympus.json](./334481-walkabout-mini-golf-mount-olympus.json) |
+| Walkabout Mini Golf: Myst | 198156 | [198156-walkabout-mini-golf-myst.json](./198156-walkabout-mini-golf-myst.json) |
 | Walkabout Mini Golf: Pocket Edition | 251578 | [251578-walkabout-mini-golf-pocket-edition.json](./251578-walkabout-mini-golf-pocket-edition.json) |
 | Walkabout Mini Golf: Raptor Cliff's | 342279 | [342279-walkabout-mini-golf-raptor-cliffs.json](./342279-walkabout-mini-golf-raptor-cliffs.json) |
 | Walkabout Mini Golf: Upside Town | 241306 | [241306-walkabout-mini-golf-upside-town.json](./241306-walkabout-mini-golf-upside-town.json) |
@@ -3036,6 +3038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Mourning: Museum In Pale | 226117 | [226117-white-mourning-museum-in-pale.json](./226117-white-mourning-museum-in-pale.json) |
 | White Night | 352190 | [352190-white-night.json](./352190-white-night.json) |
 | White Night | 8921 | [8921-white-night.json](./8921-white-night.json) |
+| White Night: Deluxe Edition | 198131 | [198131-white-night-deluxe-edition.json](./198131-white-night-deluxe-edition.json) |
 | White Noise 2 | 28112 | [28112-white-noise-2.json](./28112-white-noise-2.json) |
 | White Noise: Ghost Signal | 374145 | [374145-white-noise-ghost-signal.json](./374145-white-noise-ghost-signal.json) |
 | White Noise! | 359546 | [359546-white-noise.json](./359546-white-noise.json) |
@@ -5511,6 +5514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War II Combat: Road to Berlin | 6243 | [6243-world-war-ii-combat-road-to-berlin.json](./6243-world-war-ii-combat-road-to-berlin.json) |
 | World War II GI | 2533 | [2533-world-war-ii-gi.json](./2533-world-war-ii-gi.json) |
 | World War II: Airplanes Battle | 313443 | [313443-world-war-ii-airplanes-battle.json](./313443-world-war-ii-airplanes-battle.json) |
+| World War II: Battle combat | 198152 | [198152-world-war-ii-battle-combat.json](./198152-world-war-ii-battle-combat.json) |
 | World War II: Battle Strike | 205828 | [205828-world-war-ii-battle-strike.json](./205828-world-war-ii-battle-strike.json) |
 | World War II: Frontline Command | 10155 | [10155-world-war-ii-frontline-command.json](./10155-world-war-ii-frontline-command.json) |
 | World War II: Panzer Claws 2 | 17996 | [17996-world-war-ii-panzer-claws-2.json](./17996-world-war-ii-panzer-claws-2.json) |
