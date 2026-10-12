@@ -1453,6 +1453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fapic | 53091 | [53091-fapic.json](./53091-fapic.json) |
 | Faptastic Journey | 194316 | [194316-faptastic-journey.json](./194316-faptastic-journey.json) |
 | Far a Night | 389617 | [389617-far-a-night.json](./389617-far-a-night.json) |
+| Far Away From Home | 190432 | [190432-far-away-from-home.json](./190432-far-away-from-home.json) |
 | Far Away Train | 150527 | [150527-far-away-train.json](./150527-far-away-train.json) |
 | Far Cnight | 99729 | [99729-far-cnight.json](./99729-far-cnight.json) |
 | Far Cry 2 | 317303 | [317303-far-cry-2.json](./317303-far-cry-2.json) |
@@ -6735,6 +6736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortuna Magus | 68989 | [68989-fortuna-magus.json](./68989-fortuna-magus.json) |
 | Fortunato | 381185 | [381185-fortunato.json](./381185-fortunato.json) |
 | Fortune | 357312 | [357312-fortune.json](./357312-fortune.json) |
+| Fortune & Famine | 190408 | [190408-fortune-and-famine.json](./190408-fortune-and-famine.json) |
 | Fortune & Gloria | 105324 | [105324-fortune-and-gloria.json](./105324-fortune-and-gloria.json) |
 | Fortune Arterial | 91514 | [91514-fortune-arterial.json](./91514-fortune-arterial.json) |
 | Fortune Builder | 40895 | [40895-fortune-builder.json](./40895-fortune-builder.json) |
@@ -7153,6 +7155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragmented Almanac | 313285 | [313285-fragmented-almanac.json](./313285-fragmented-almanac.json) |
 | Fragmented City | 235756 | [235756-fragmented-city.json](./235756-fragmented-city.json) |
 | Fragmented Fear | 342245 | [342245-fragmented-fear.json](./342245-fragmented-fear.json) |
+| Fragmented Memories | 190387 | [190387-fragmented-memories.json](./190387-fragmented-memories.json) |
 | Fragmented Mind | 169477 | [169477-fragmented-mind.json](./169477-fragmented-mind.json) |
 | Fragments | 142384 | [142384-fragments.json](./142384-fragments.json) |
 | Fragments | 381037 | [381037-fragments.json](./381037-fragments.json) |
