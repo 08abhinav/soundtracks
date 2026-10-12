@@ -2118,6 +2118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Elite Cafe | 403033 | [403033-welcome-to-elite-cafe.json](./403033-welcome-to-elite-cafe.json) |
 | Welcome to Elk | 131566 | [131566-welcome-to-elk.json](./131566-welcome-to-elk.json) |
 | Welcome to Emba | 150624 | [150624-welcome-to-emba.json](./150624-welcome-to-emba.json) |
+| Welcome to Erin's Story in the World of Our Church and Halloween: Visual Novel | 223064 | [223064-welcome-to-erins-story-in-the-world-of-our-church-and-halloween-visual-novel.json](./223064-welcome-to-erins-story-in-the-world-of-our-church-and-halloween-visual-novel.json) |
 | Welcome to Everdell | 304887 | [304887-welcome-to-everdell.json](./304887-welcome-to-everdell.json) |
 | Welcome to Free Will: Episode 3 | 237060 | [237060-welcome-to-free-will-episode-3.json](./237060-welcome-to-free-will-episode-3.json) |
 | Welcome to GameCube World!! | 175969 | [175969-welcome-to-gamecube-world.json](./175969-welcome-to-gamecube-world.json) |
