@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jan Jan Paradise | 40191 | [40191-jan-jan-paradise.json](./40191-jan-jan-paradise.json) |
 | Jan Jan Paradise 2 | 40190 | [40190-jan-jan-paradise-2.json](./40190-jan-jan-paradise-2.json) |
 | Jan Ken Pro! | 333638 | [333638-jan-ken-pro.json](./333638-jan-ken-pro.json) |
+| Jan Pienkowski Haunted House | 186076 | [186076-jan-pienkowski-haunted-house.json](./186076-jan-pienkowski-haunted-house.json) |
 | Jan Sangoku Musou | 64360 | [64360-jan-sangoku-musou.json](./64360-jan-sangoku-musou.json) |
 | JanduSoft Games Bundle Vol. 1 | 247493 | [247493-jandusoft-games-bundle-vol-1.json](./247493-jandusoft-games-bundle-vol-1.json) |
 | Jane & John | 208571 | [208571-jane-and-john.json](./208571-jane-and-john.json) |
@@ -384,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jane Skriff | 138611 | [138611-jane-skriff.json](./138611-jane-skriff.json) |
 | Jane the Office Slut | 217988 | [217988-jane-the-office-slut.json](./217988-jane-the-office-slut.json) |
 | Jane Westlake Adventures - The Mystery Train | 127757 | [127757-jane-westlake-adventures-the-mystery-train.json](./127757-jane-westlake-adventures-the-mystery-train.json) |
+| Jane: Anyone can be Scared | 185964 | [185964-jane-anyone-can-be-scared.json](./185964-jane-anyone-can-be-scared.json) |
 | Jane's Advance Strike Fighters | 25531 | [25531-janes-advance-strike-fighters.json](./25531-janes-advance-strike-fighters.json) |
 | Jane's Combat Simulations: Advanced Tactical Fighters | 78026 | [78026-janes-combat-simulations-advanced-tactical-fighters.json](./78026-janes-combat-simulations-advanced-tactical-fighters.json) |
 | Jane's Combat Simulations: Advanced Tactical Fighters - Nato Fighters | 71211 | [71211-janes-combat-simulations-advanced-tactical-fighters-nato-fighters.json](./71211-janes-combat-simulations-advanced-tactical-fighters-nato-fighters.json) |
@@ -1283,6 +1285,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou GI Stable | 3524 | [3524-jikkyou-gi-stable.json](./3524-jikkyou-gi-stable.json) |
 | Jikkyou Golf Master 2000 | 143661 | [143661-jikkyou-golf-master-2000.json](./143661-jikkyou-golf-master-2000.json) |
 | Jikkyou J.League 1999 Perfect Striker | 220858 | [220858-jikkyou-j-league-1999-perfect-striker.json](./220858-jikkyou-j-league-1999-perfect-striker.json) |
+| Jikkyou J.League 1999: Perfect Striker 2 | 185993 | [185993-jikkyou-j-league-1999-perfect-striker-2.json](./185993-jikkyou-j-league-1999-perfect-striker-2.json) |
+| Jikkyou J.League Perfect Striker | 185992 | [185992-jikkyou-j-league-perfect-striker.json](./185992-jikkyou-j-league-perfect-striker.json) |
 | Jikkyou J.League Perfect Striker 3 | 168137 | [168137-jikkyou-j-league-perfect-striker-3.json](./168137-jikkyou-j-league-perfect-striker-3.json) |
 | Jikkyou J.League Perfect Striker 4 | 168154 | [168154-jikkyou-j-league-perfect-striker-4.json](./168154-jikkyou-j-league-perfect-striker-4.json) |
 | Jikkyou J.League Perfect Striker 5 | 220863 | [220863-jikkyou-j-league-perfect-striker-5.json](./220863-jikkyou-j-league-perfect-striker-5.json) |
