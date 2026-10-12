@@ -4426,6 +4426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The British Library Simulator | 182806 | [182806-the-british-library-simulator.json](./182806-the-british-library-simulator.json) |
 | The Brittle Epoch | 261751 | [261751-the-brittle-epoch.json](./261751-the-brittle-epoch.json) |
 | The Broken Balance | 216753 | [216753-the-broken-balance.json](./216753-the-broken-balance.json) |
+| The Broken Clues 2 | 210212 | [210212-the-broken-clues-2.json](./210212-the-broken-clues-2.json) |
 | The Broken Moon | 263137 | [263137-the-broken-moon.json](./263137-the-broken-moon.json) |
 | The Broken Seal | 74493 | [74493-the-broken-seal.json](./74493-the-broken-seal.json) |
 | The Broken Seal: Arena | 86434 | [86434-the-broken-seal-arena.json](./86434-the-broken-seal-arena.json) |
@@ -6813,6 +6814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hidden Game Society | 150254 | [150254-the-hidden-game-society.json](./150254-the-hidden-game-society.json) |
 | The Hidden Ghost | 195483 | [195483-the-hidden-ghost.json](./195483-the-hidden-ghost.json) |
 | The Hidden Object Collection | 146730 | [146730-the-hidden-object-collection.json](./146730-the-hidden-object-collection.json) |
+| The Hidden Prophecies of Nostradamus | 210208 | [210208-the-hidden-prophecies-of-nostradamus.json](./210208-the-hidden-prophecies-of-nostradamus.json) |
 | The Hidden Room: Pyramid | 244383 | [244383-the-hidden-room-pyramid.json](./244383-the-hidden-room-pyramid.json) |
 | The Hidden: Source | 70647 | [70647-the-hidden-source.json](./70647-the-hidden-source.json) |
 | The High Desert | 345134 | [345134-the-high-desert.json](./345134-the-high-desert.json) |
@@ -11052,6 +11054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sunday | 311572 | [311572-the-sunday.json](./311572-the-sunday.json) |
 | The Sunday Museum | 191562 | [191562-the-sunday-museum.json](./191562-the-sunday-museum.json) |
 | The Sundew | 151150 | [151150-the-sundew.json](./151150-the-sundew.json) |
+| The Sunny Life | 210217 | [210217-the-sunny-life.json](./210217-the-sunny-life.json) |
 | The Sunset | 32107 | [32107-the-sunset.json](./32107-the-sunset.json) |
 | The Sunset that day | 132763 | [132763-the-sunset-that-day.json](./132763-the-sunset-that-day.json) |
 | The Super 1-1 Challenge | 132172 | [132172-the-super-1-1-challenge.json](./132172-the-super-1-1-challenge.json) |
@@ -16703,7 +16706,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer - The King and the Warlord | 81202 | [81202-total-war-warhammer-the-king-and-the-warlord.json](./81202-total-war-warhammer-the-king-and-the-warlord.json) |
 | Total War: Warhammer - Wurrzag | 81295 | [81295-total-war-warhammer-wurrzag.json](./81295-total-war-warhammer-wurrzag.json) |
 | Total War: Warhammer 40,000 | 381245 | [381245-total-war-warhammer-40-000.json](./381245-total-war-warhammer-40-000.json) |
-| Total War: Warhammer II | 28028 | [28028-total-war-warhammer-ii.json](./28028-total-war-warhammer-ii.json) |
 | Total War: Warhammer II - Alith Anar | 167623 | [167623-total-war-warhammer-ii-alith-anar.json](./167623-total-war-warhammer-ii-alith-anar.json) |
 | Total War: Warhammer II - Blood for the Blood God II | 81192 | [81192-total-war-warhammer-ii-blood-for-the-blood-god-ii.json](./81192-total-war-warhammer-ii-blood-for-the-blood-god-ii.json) |
 | Total War: Warhammer II - Curse of the Vampire Coast | 110863 | [110863-total-war-warhammer-ii-curse-of-the-vampire-coast.json](./110863-total-war-warhammer-ii-curse-of-the-vampire-coast.json) |
@@ -16888,6 +16890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou 3D Dungeon | 152988 | [152988-touhou-3d-dungeon.json](./152988-touhou-3d-dungeon.json) |
 | Touhou Arcadia Record | 212442 | [212442-touhou-arcadia-record.json](./212442-touhou-arcadia-record.json) |
 | Touhou Baisyunyado: Soap of Royal Road | 138029 | [138029-touhou-baisyunyado-soap-of-royal-road.json](./138029-touhou-baisyunyado-soap-of-royal-road.json) |
+| Touhou Big Big Battle: The Justice | 210216 | [210216-touhou-big-big-battle-the-justice.json](./210216-touhou-big-big-battle-the-justice.json) |
 | Touhou Blooming Chaos 2 | 153523 | [153523-touhou-blooming-chaos-2.json](./153523-touhou-blooming-chaos-2.json) |
 | Touhou Blooming Chaos 2: Chara Pack 3 | 170959 | [170959-touhou-blooming-chaos-2-chara-pack-3.json](./170959-touhou-blooming-chaos-2-chara-pack-3.json) |
 | Touhou Blooming Chaos 2: Chara Pack Special - Mystia Lorelei | 169324 | [169324-touhou-blooming-chaos-2-chara-pack-special-mystia-lorelei.json](./169324-touhou-blooming-chaos-2-chara-pack-special-mystia-lorelei.json) |
@@ -17618,6 +17621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toybox Tussle | 383076 | [383076-toybox-tussle.json](./383076-toybox-tussle.json) |
 | ToyBoxers! | 403180 | [403180-toyboxers.json](./403180-toyboxers.json) |
 | ToyCamp | 384507 | [384507-toycamp.json](./384507-toycamp.json) |
+| ToyCar | 210228 | [210228-toycar.json](./210228-toycar.json) |
 | Toyforming | 250273 | [250273-toyforming.json](./250273-toyforming.json) |
 | Toyful Wonderworld | 292453 | [292453-toyful-wonderworld.json](./292453-toyful-wonderworld.json) |
 | Toyland Racer | 231847 | [231847-toyland-racer.json](./231847-toyland-racer.json) |
@@ -19219,6 +19223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Island | 25782 | [25782-treasure-island.json](./25782-treasure-island.json) |
 | Treasure Island 2 | 257411 | [257411-treasure-island-2.json](./257411-treasure-island-2.json) |
 | Treasure Island Arcade | 131519 | [131519-treasure-island-arcade.json](./131519-treasure-island-arcade.json) |
+| Treasure Island: The Gold Bag | 210210 | [210210-treasure-island-the-gold-bag.json](./210210-treasure-island-the-gold-bag.json) |
 | Treasure Island: The Golden Bug - Extended Edition | 257475 | [257475-treasure-island-the-golden-bug-extended-edition.json](./257475-treasure-island-the-golden-bug-extended-edition.json) |
 | Treasure Journey | 337044 | [337044-treasure-journey.json](./337044-treasure-journey.json) |
 | Treasure Master | 80822 | [80822-treasure-master.json](./80822-treasure-master.json) |
