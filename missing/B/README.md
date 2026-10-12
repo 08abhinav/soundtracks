@@ -6735,6 +6735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocked and Loaded | 81890 | [81890-blocked-and-loaded.json](./81890-blocked-and-loaded.json) |
 | Blocked Up | 183897 | [183897-blocked-up.json](./183897-blocked-up.json) |
 | Blocked Zona | 200565 | [200565-blocked-zona.json](./200565-blocked-zona.json) |
+| Blocked! | 207580 | [207580-blocked.json](./207580-blocked.json) |
 | Blocker | 15678 | [15678-blocker.json](./15678-blocker.json) |
 | Blocker Survive | 75849 | [75849-blocker-survive.json](./75849-blocker-survive.json) |
 | Blocker.io | 194036 | [194036-blocker-io.json](./194036-blocker-io.json) |
