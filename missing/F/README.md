@@ -4524,6 +4524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Rooms | 102361 | [102361-five-rooms.json](./102361-five-rooms.json) |
 | Five Seconds of Bad Music | 109619 | [109619-five-seconds-of-bad-music.json](./109619-five-seconds-of-bad-music.json) |
 | Five Shifts at Zlata's | 385280 | [385280-five-shifts-at-zlatas.json](./385280-five-shifts-at-zlatas.json) |
+| Five Sonic Rings Bundle | 210301 | [210301-five-sonic-rings-bundle.json](./210301-five-sonic-rings-bundle.json) |
 | Five Stages | 128429 | [128429-five-stages.json](./128429-five-stages.json) |
 | Five Star Games | 100129 | [100129-five-star-games.json](./100129-five-star-games.json) |
 | Five Star Games 2 | 79601 | [79601-five-star-games-2.json](./79601-five-star-games-2.json) |
@@ -7141,6 +7142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Framed | 11730 | [11730-framed.json](./11730-framed.json) |
 | Framed | 131508 | [131508-framed.json](./131508-framed.json) |
 | Framed | 229778 | [229778-framed.json](./229778-framed.json) |
+| Framed by the Yakuza | 210313 | [210313-framed-by-the-yakuza.json](./210313-framed-by-the-yakuza.json) |
 | Framed Fear | 340953 | [340953-framed-fear.json](./340953-framed-fear.json) |
 | FramePerfect | 394532 | [394532-frameperfect.json](./394532-frameperfect.json) |
 | Fran Bow | 11821 | [11821-fran-bow.json](./11821-fran-bow.json) |
