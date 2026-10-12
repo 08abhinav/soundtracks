@@ -443,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QUByte Classics: The Samurai Collection | 223156 | [223156-qubyte-classics-the-samurai-collection.json](./223156-qubyte-classics-the-samurai-collection.json) |
 | QUByte Classics: Thunderbolt Collection by Piko | 210630 | [210630-qubyte-classics-thunderbolt-collection-by-piko.json](./210630-qubyte-classics-thunderbolt-collection-by-piko.json) |
 | QUByte Classics: Tinhead | 221296 | [221296-qubyte-classics-tinhead.json](./221296-qubyte-classics-tinhead.json) |
+| QUByte Classics: Zero Tolerance Collection by Piko | 206478 | [206478-qubyte-classics-zero-tolerance-collection-by-piko.json](./206478-qubyte-classics-zero-tolerance-collection-by-piko.json) |
 | Que ~Ancient Leaf no Yousei~ | 62408 | [62408-que-ancient-leaf-no-yousei.json](./62408-que-ancient-leaf-no-yousei.json) |
 | Que No Importa el Mañana Si No Lo Veo de Llegar | 388181 | [388181-que-no-importa-el-manana-si-no-lo-veo-de-llegar.json](./388181-que-no-importa-el-manana-si-no-lo-veo-de-llegar.json) |
 | Que Pasa Perro? | 86043 | [86043-que-pasa-perro.json](./86043-que-pasa-perro.json) |
