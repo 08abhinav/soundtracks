@@ -2235,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Ground Zero | 133853 | [133853-scp-ground-zero.json](./133853-scp-ground-zero.json) |
 | SCP: Hellworks | 296461 | [296461-scp-hellworks.json](./296461-scp-hellworks.json) |
 | SCP: Hours to Go | 296462 | [296462-scp-hours-to-go.json](./296462-scp-hours-to-go.json) |
+| SCP: Intrusion | 207603 | [207603-scp-intrusion.json](./207603-scp-intrusion.json) |
 | SCP: Josie | 260410 | [260410-scp-josie.json](./260410-scp-josie.json) |
 | SCP: Liberation | 125908 | [125908-scp-liberation.json](./125908-scp-liberation.json) |
 | SCP: Maintain & Control | 202098 | [202098-scp-maintain-and-control.json](./202098-scp-maintain-and-control.json) |
@@ -5690,6 +5691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shockwave Original: Sudoku Daily | 282060 | [282060-shockwave-original-sudoku-daily.json](./282060-shockwave-original-sudoku-daily.json) |
 | Shockwave Tetris | 383036 | [383036-shockwave-tetris.json](./383036-shockwave-tetris.json) |
 | Shockwave Triggers | 335466 | [335466-shockwave-triggers.json](./335466-shockwave-triggers.json) |
+| Shockwave: Land of the Blind | 207577 | [207577-shockwave-land-of-the-blind.json](./207577-shockwave-land-of-the-blind.json) |
 | Shockwaves | 289421 | [289421-shockwaves.json](./289421-shockwaves.json) |
 | Shockway Rider | 28824 | [28824-shockway-rider.json](./28824-shockway-rider.json) |
 | Shodan Morita Shogi | 38372 | [38372-shodan-morita-shogi.json](./38372-shodan-morita-shogi.json) |
@@ -6525,6 +6527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sig.Null | 32071 | [32071-sig-null.json](./32071-sig-null.json) |
 | SIGame | 285584 | [285584-sigame.json](./285584-sigame.json) |
 | Sigformation | 235369 | [235369-sigformation.json](./235369-sigformation.json) |
+| Sigh of the Abyss | 207584 | [207584-sigh-of-the-abyss.json](./207584-sigh-of-the-abyss.json) |
 | SIght | 243649 | [243649-sight.json](./243649-sight.json) |
 | Sight Blight | 249726 | [249726-sight-blight.json](./249726-sight-blight.json) |
 | Sight Insomnia | 364381 | [364381-sight-insomnia.json](./364381-sight-insomnia.json) |
@@ -10304,6 +10307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Knight | 367821 | [367821-solar-knight.json](./367821-solar-knight.json) |
 | Solar Machina | 399904 | [399904-solar-machina.json](./399904-solar-machina.json) |
 | Solar Minotaur Rescue Frenzy | 66133 | [66133-solar-minotaur-rescue-frenzy.json](./66133-solar-minotaur-rescue-frenzy.json) |
+| Solar Nations | 207586 | [207586-solar-nations.json](./207586-solar-nations.json) |
 | Solar Nations 2 | 401711 | [401711-solar-nations-2.json](./401711-solar-nations-2.json) |
 | Solar Pall | 267443 | [267443-solar-pall.json](./267443-solar-pall.json) |
 | Solar Plexus | 40754 | [40754-solar-plexus.json](./40754-solar-plexus.json) |
@@ -12197,6 +12201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Armor | 6137 | [6137-space-armor.json](./6137-space-armor.json) |
 | Space Ashes | 109899 | [109899-space-ashes.json](./109899-space-ashes.json) |
 | Space Assault | 42134 | [42134-space-assault.json](./42134-space-assault.json) |
+| Space Assistance | 207573 | [207573-space-assistance.json](./207573-space-assistance.json) |
 | Space Attack | 38573 | [38573-space-attack.json](./38573-space-attack.json) |
 | Space Attack | 66909 | [66909-space-attack.json](./66909-space-attack.json) |
 | Space Avenger: Empire of Nexx | 133185 | [133185-space-avenger-empire-of-nexx.json](./133185-space-avenger-empire-of-nexx.json) |
@@ -16065,6 +16070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starmaster | 18033 | [18033-starmaster.json](./18033-starmaster.json) |
 | Starmate | 252305 | [252305-starmate.json](./252305-starmate.json) |
 | Starmatter | 178926 | [178926-starmatter.json](./178926-starmatter.json) |
+| StarMech | 207581 | [207581-starmech.json](./207581-starmech.json) |
 | Starminer | 280353 | [280353-starminer.json](./280353-starminer.json) |
 | Starmount | 327323 | [327323-starmount.json](./327323-starmount.json) |
 | Starmourn | 122849 | [122849-starmourn.json](./122849-starmourn.json) |
@@ -16901,6 +16907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Warfare | 143701 | [143701-stellar-warfare.json](./143701-stellar-warfare.json) |
 | Stellar Warrior | 83604 | [83604-stellar-warrior.json](./83604-stellar-warrior.json) |
 | Stellar Warrior: Master Levels | 171929 | [171929-stellar-warrior-master-levels.json](./171929-stellar-warrior-master-levels.json) |
+| Stellar Watch | 207596 | [207596-stellar-watch.json](./207596-stellar-watch.json) |
 | Stellar-Fire | 14515 | [14515-stellar-fire.json](./14515-stellar-fire.json) |
 | Stellar!: Infinity defense | 299453 | [299453-stellar-infinity-defense.json](./299453-stellar-infinity-defense.json) |
 | Stellara Vanguard | 372283 | [372283-stellara-vanguard.json](./372283-stellara-vanguard.json) |
