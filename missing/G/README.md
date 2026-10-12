@@ -3366,6 +3366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glyph | 50290 | [50290-glyph.json](./50290-glyph.json) |
 | Glyph 2 | 209756 | [209756-glyph-2.json](./209756-glyph-2.json) |
 | Glyph Chess | 384226 | [384226-glyph-chess.json](./384226-glyph-chess.json) |
+| Glyph Dentaku | 184833 | [184833-glyph-dentaku.json](./184833-glyph-dentaku.json) |
 | Glyph Gambit: Endgame | 398047 | [398047-glyph-gambit-endgame.json](./398047-glyph-gambit-endgame.json) |
 | Glyph VR | 151534 | [151534-glyph-vr.json](./151534-glyph-vr.json) |
 | Glyph-Bound: Kotodama | 211653 | [211653-glyph-bound-kotodama.json](./211653-glyph-bound-kotodama.json) |
@@ -5674,6 +5675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green | 133321 | [133321-green.json](./133321-green.json) |
 | Green Breach | 416833 | [416833-green-breach.json](./416833-green-breach.json) |
 | Green Crab Grab | 336166 | [336166-green-crab-grab.json](./336166-green-crab-grab.json) |
+| Green Crust | 184799 | [184799-green-crust.json](./184799-green-crust.json) |
 | Green Day Revenge | 66074 | [66074-green-day-revenge.json](./66074-green-day-revenge.json) |
 | Green Day: Dookie - Welcome to Paradise | 319233 | [319233-green-day-dookie-welcome-to-paradise.json](./319233-green-day-dookie-welcome-to-paradise.json) |
 | Green Day: Rock Band | 2694 | [2694-green-day-rock-band.json](./2694-green-day-rock-band.json) |
@@ -5842,6 +5844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greymarsh | 243566 | [243566-greymarsh.json](./243566-greymarsh.json) |
 | Greymond. Saves the Specs | 377210 | [377210-greymond-saves-the-specs.json](./377210-greymond-saves-the-specs.json) |
 | Greymood | 262288 | [262288-greymood.json](./262288-greymood.json) |
+| Greyroad | 184856 | [184856-greyroad.json](./184856-greyroad.json) |
 | Greyskin | 214049 | [214049-greyskin.json](./214049-greyskin.json) |
 | GreySky&StarNavigator | 373689 | [373689-greysky-and-starnavigator.json](./373689-greysky-and-starnavigator.json) |
 | Greystorm | 73557 | [73557-greystorm.json](./73557-greystorm.json) |
@@ -7326,6 +7329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyruss | 343879 | [343879-gyruss.json](./343879-gyruss.json) |
 | Gythol Granditti: The Crypt of Darkness | 120411 | [120411-gythol-granditti-the-crypt-of-darkness.json](./120411-gythol-granditti-the-crypt-of-darkness.json) |
 | Gyvolver | 248141 | [248141-gyvolver.json](./248141-gyvolver.json) |
+| Gyzer-0: Rising Edge | 184822 | [184822-gyzer-0-rising-edge.json](./184822-gyzer-0-rising-edge.json) |
 | GZ P.T. | 186713 | [186713-gz-p-t.json](./186713-gz-p-t.json) |
 | GZDoom SM64 | 307741 | [307741-gzdoom-sm64.json](./307741-gzdoom-sm64.json) |
 | Gzlna | 294278 | [294278-gzlna.json](./294278-gzlna.json) |
