@@ -546,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Force | 45651 | [45651-galaxy-force.json](./45651-galaxy-force.json) |
 | Galaxy Force II | 6799 | [6799-galaxy-force-ii.json](./6799-galaxy-force-ii.json) |
 | Galaxy Fräulein Yuna 2: Eien no Princess | 64689 | [64689-galaxy-fraulein-yuna-2-eien-no-princess.json](./64689-galaxy-fraulein-yuna-2-eien-no-princess.json) |
+| Galaxy Fräulein Yuna Remix | 216420 | [216420-galaxy-fraulein-yuna-remix.json](./216420-galaxy-fraulein-yuna-remix.json) |
 | Galaxy Fräulein Yuna: Final Edition | 280845 | [280845-galaxy-fraulein-yuna-final-edition.json](./280845-galaxy-fraulein-yuna-final-edition.json) |
 | Galaxy Game | 11396 | [11396-galaxy-game.json](./11396-galaxy-game.json) |
 | Galaxy Genome | 174279 | [174279-galaxy-genome.json](./174279-galaxy-genome.json) |
@@ -1807,6 +1808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generic Brazilian Favela Game with Generic Enemies 2003 | 264894 | [264894-generic-brazilian-favela-game-with-generic-enemies-2003.json](./264894-generic-brazilian-favela-game-with-generic-enemies-2003.json) |
 | Generic Fighter Maybe | 358350 | [358350-generic-fighter-maybe.json](./358350-generic-fighter-maybe.json) |
 | Generic Fishing Game | 316950 | [316950-generic-fishing-game.json](./316950-generic-fishing-game.json) |
+| Generic Kart Racing | 216424 | [216424-generic-kart-racing.json](./216424-generic-kart-racing.json) |
 | Generic nonbinary game | 176926 | [176926-generic-nonbinary-game.json](./176926-generic-nonbinary-game.json) |
 | Genesis | 127265 | [127265-genesis.json](./127265-genesis.json) |
 | Genesis | 144583 | [144583-genesis.json](./144583-genesis.json) |
