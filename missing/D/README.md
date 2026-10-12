@@ -1196,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Star | 134598 | [134598-dark-star.json](./134598-dark-star.json) |
 | Dark Star | 13571 | [13571-dark-star.json](./13571-dark-star.json) |
 | Dark Static | 362886 | [362886-dark-static.json](./362886-dark-static.json) |
+| Dark Steel | 223604 | [223604-dark-steel.json](./223604-dark-steel.json) |
 | Dark Steel Legends | 372819 | [372819-dark-steel-legends.json](./372819-dark-steel-legends.json) |
 | Dark Stories | 311685 | [311685-dark-stories.json](./311685-dark-stories.json) |
 | Dark Storm VR Missions | 34649 | [34649-dark-storm-vr-missions.json](./34649-dark-storm-vr-missions.json) |
@@ -7304,6 +7305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doggins | 61872 | [61872-doggins.json](./61872-doggins.json) |
 | Doggo | 287098 | [287098-doggo.json](./287098-doggo.json) |
 | Doggo Dungeon | 174270 | [174270-doggo-dungeon.json](./174270-doggo-dungeon.json) |
+| Doggo Patrol | 223606 | [223606-doggo-patrol.json](./223606-doggo-patrol.json) |
 | Doggo Quest | 151047 | [151047-doggo-quest.json](./151047-doggo-quest.json) |
 | Doggo Walko | 178565 | [178565-doggo-walko.json](./178565-doggo-walko.json) |
 | DoggoGuessr | 350626 | [350626-doggoguessr.json](./350626-doggoguessr.json) |
@@ -8135,6 +8137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dooly Daemoheom | 63645 | [63645-dooly-daemoheom.json](./63645-dooly-daemoheom.json) |
 | Dooly Soccer 2002 | 92313 | [92313-dooly-soccer-2002.json](./92313-dooly-soccer-2002.json) |
 | Doom | 170995 | [170995-doom.json](./170995-doom.json) |
+| Doom | 223631 | [223631-doom.json](./223631-doom.json) |
 | Doom | 259941 | [259941-doom.json](./259941-doom.json) |
 | Doom | 259942 | [259942-doom.json](./259942-doom.json) |
 | Doom | 259944 | [259944-doom.json](./259944-doom.json) |
@@ -11137,6 +11140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumbino | 307569 | [307569-dumbino.json](./307569-dumbino.json) |
 | Dumbot | 330173 | [330173-dumbot.json](./330173-dumbot.json) |
 | Dumbriel: Magnificent Adventure in Hell | 260404 | [260404-dumbriel-magnificent-adventure-in-hell.json](./260404-dumbriel-magnificent-adventure-in-hell.json) |
+| Dummy Defense | 223627 | [223627-dummy-defense.json](./223627-dummy-defense.json) |
 | Dummy Guyz | 303493 | [303493-dummy-guyz.json](./303493-dummy-guyz.json) |
 | Dummy Never Fails | 234902 | [234902-dummy-never-fails.json](./234902-dummy-never-fails.json) |
 | Dummy Never Fails 2 | 234903 | [234903-dummy-never-fails-2.json](./234903-dummy-never-fails-2.json) |
@@ -11683,6 +11687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons: The Dark Lord - Steam Special Edition | 90486 | [90486-dungeons-the-dark-lord-steam-special-edition.json](./90486-dungeons-the-dark-lord-steam-special-edition.json) |
 | Dungeons: The Eye of Draconus | 17444 | [17444-dungeons-the-eye-of-draconus.json](./17444-dungeons-the-eye-of-draconus.json) |
 | DungeonSlime | 195708 | [195708-dungeonslime.json](./195708-dungeonslime.json) |
+| DungeonSquad | 223615 | [223615-dungeonsquad.json](./223615-dungeonsquad.json) |
 | DungeonTomb | 291915 | [291915-dungeontomb.json](./291915-dungeontomb.json) |
 | DungeonTracks: In Charms Way | 184626 | [184626-dungeontracks-in-charms-way.json](./184626-dungeontracks-in-charms-way.json) |
 | DungeonUp | 34808 | [34808-dungeonup.json](./34808-dungeonup.json) |
