@@ -2730,6 +2730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is a Toilet!? | 228682 | [228682-where-is-a-toilet.json](./228682-where-is-a-toilet.json) |
 | Where is Earth? | 221109 | [221109-where-is-earth.json](./221109-where-is-earth.json) |
 | Where Is George | 287702 | [287702-where-is-george.json](./287702-where-is-george.json) |
+| Where is He | 192637 | [192637-where-is-he.json](./192637-where-is-he.json) |
 | Where Is Here: New Home | 207309 | [207309-where-is-here-new-home.json](./207309-where-is-here-new-home.json) |
 | Where is Johnny | 282227 | [282227-where-is-johnny.json](./282227-where-is-johnny.json) |
 | Where is Love? | 302439 | [302439-where-is-love.json](./302439-where-is-love.json) |
@@ -3249,6 +3250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wicked Lands | 144794 | [144794-wicked-lands.json](./144794-wicked-lands.json) |
 | Wicked Little Witch | 353291 | [353291-wicked-little-witch.json](./353291-wicked-little-witch.json) |
 | Wicked Monsters Blast! HD Plus | 85482 | [85482-wicked-monsters-blast-hd-plus.json](./85482-wicked-monsters-blast-hd-plus.json) |
+| Wicked Paradise | 192644 | [192644-wicked-paradise.json](./192644-wicked-paradise.json) |
 | Wicked Plague | 324691 | [324691-wicked-plague.json](./324691-wicked-plague.json) |
 | Wicked Rails VR | 158567 | [158567-wicked-rails-vr.json](./158567-wicked-rails-vr.json) |
 | Wicked Seed | 338693 | [338693-wicked-seed.json](./338693-wicked-seed.json) |
@@ -4352,6 +4354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard School Dropout | 416860 | [416860-wizard-school-dropout.json](./416860-wizard-school-dropout.json) |
 | Wizard Slime | 113173 | [113173-wizard-slime.json](./113173-wizard-slime.json) |
 | Wizard Soup | 408812 | [408812-wizard-soup.json](./408812-wizard-soup.json) |
+| Wizard time! | 192614 | [192614-wizard-time.json](./192614-wizard-time.json) |
 | Wizard Tournament | 304012 | [304012-wizard-tournament.json](./304012-wizard-tournament.json) |
 | Wizard Vs Zombie | 88783 | [88783-wizard-vs-zombie.json](./88783-wizard-vs-zombie.json) |
 | Wizard Vs Zombie Unlocked | 100609 | [100609-wizard-vs-zombie-unlocked.json](./100609-wizard-vs-zombie-unlocked.json) |
@@ -5758,6 +5761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WortWechsel | 58232 | [58232-wortwechsel.json](./58232-wortwechsel.json) |
 | Woten DX: Traveller's Dream | 220723 | [220723-woten-dx-travellers-dream.json](./220723-woten-dx-travellers-dream.json) |
 | Wotheguel | 155680 | [155680-wotheguel.json](./155680-wotheguel.json) |
+| Would You Like to Run an Idol Café? 3 | 192650 | [192650-would-you-like-to-run-an-idol-cafe-3.json](./192650-would-you-like-to-run-an-idol-cafe-3.json) |
 | Would You Like to Run an Idol Café? 3 | 259531 | [259531-would-you-like-to-run-an-idol-cafe-3.json](./259531-would-you-like-to-run-an-idol-cafe-3.json) |
 | Would You Love Me If I Was a Snake? | 400346 | [400346-would-you-love-me-if-i-was-a-snake.json](./400346-would-you-love-me-if-i-was-a-snake.json) |
 | Would You Rather | 326718 | [326718-would-you-rather.json](./326718-would-you-rather.json) |
