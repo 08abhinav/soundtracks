@@ -635,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palmon: Survival | 369018 | [369018-palmon-survival.json](./369018-palmon-survival.json) |
 | PalmRide: After Flight | 288754 | [288754-palmride-after-flight.json](./288754-palmride-after-flight.json) |
 | Palmyra Orphanage | 120719 | [120719-palmyra-orphanage.json](./120719-palmyra-orphanage.json) |
+| Palmyra: Nessa no Umi to Binaru Senki | 194924 | [194924-palmyra-nessa-no-umi-to-binaru-senki.json](./194924-palmyra-nessa-no-umi-to-binaru-senki.json) |
 | Palmystery | 213056 | [213056-palmystery.json](./213056-palmystery.json) |
 | Palo T Game and Watch | 289580 | [289580-palo-t-game-and-watch.json](./289580-palo-t-game-and-watch.json) |
 | Paloo Spiral | 369200 | [369200-paloo-spiral.json](./369200-paloo-spiral.json) |
@@ -8756,6 +8757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerplay | 311141 | [311141-powerplay.json](./311141-powerplay.json) |
 | Powerplay Hockey | 78947 | [78947-powerplay-hockey.json](./78947-powerplay-hockey.json) |
 | Powerplay Tennis | 394436 | [394436-powerplay-tennis.json](./394436-powerplay-tennis.json) |
+| Powerpuff Girls D: Battle in Megaville | 194875 | [194875-powerpuff-girls-d-battle-in-megaville.json](./194875-powerpuff-girls-d-battle-in-megaville.json) |
 | Powerpuff Girls: Bad Mojo Jojo | 3246 | [3246-powerpuff-girls-bad-mojo-jojo.json](./3246-powerpuff-girls-bad-mojo-jojo.json) |
 | Powerpuff Girls: Gamesville | 8007 | [8007-powerpuff-girls-gamesville.json](./8007-powerpuff-girls-gamesville.json) |
 | Powerpuff Girls: Mojo Jojo's Clone Zone | 8008 | [8008-powerpuff-girls-mojo-jojos-clone-zone.json](./8008-powerpuff-girls-mojo-jojos-clone-zone.json) |
@@ -11814,6 +11816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzletronics Digital Infinite | 157039 | [157039-puzzletronics-digital-infinite.json](./157039-puzzletronics-digital-infinite.json) |
 | Puzzletrunk | 358452 | [358452-puzzletrunk.json](./358452-puzzletrunk.json) |
 | Puzzleverse | 358453 | [358453-puzzleverse.json](./358453-puzzleverse.json) |
+| Puzzlewood Quests Premium | 194899 | [194899-puzzlewood-quests-premium.json](./194899-puzzlewood-quests-premium.json) |
 | Puzzlez: A Shapez Game | 416764 | [416764-puzzlez-a-shapez-game.json](./416764-puzzlez-a-shapez-game.json) |
 | Puzzline | 224541 | [224541-puzzline.json](./224541-puzzline.json) |
 | Puzzling Peaks EXE | 158690 | [158690-puzzling-peaks-exe.json](./158690-puzzling-peaks-exe.json) |
