@@ -2002,6 +2002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Healthy Hero: Tower Defense | 284921 | [284921-healthy-hero-tower-defense.json](./284921-healthy-hero-tower-defense.json) |
 | Healthy Hospital | 233508 | [233508-healthy-hospital.json](./233508-healthy-hospital.json) |
 | Healthy Living | 144853 | [144853-healthy-living.json](./144853-healthy-living.json) |
+| Healthy Plane | 220794 | [220794-healthy-plane.json](./220794-healthy-plane.json) |
 | Healthy Weapon | 112332 | [112332-healthy-weapon.json](./112332-healthy-weapon.json) |
 | HeapVR | 29664 | [29664-heapvr.json](./29664-heapvr.json) |
 | Hear My Cult | 260597 | [260597-hear-my-cult.json](./260597-hear-my-cult.json) |
@@ -2464,6 +2465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helicops | 78924 | [78924-helicops.json](./78924-helicops.json) |
 | Helicopter | 312256 | [312256-helicopter.json](./312256-helicopter.json) |
 | Helicopter 2015: Natural Disasters | 53184 | [53184-helicopter-2015-natural-disasters.json](./53184-helicopter-2015-natural-disasters.json) |
+| Helicopter 2022 | 220816 | [220816-helicopter-2022.json](./220816-helicopter-2022.json) |
 | Helicopter Escape 3D | 249679 | [249679-helicopter-escape-3d.json](./249679-helicopter-escape-3d.json) |
 | Helicopter Flight Simulator | 319980 | [319980-helicopter-flight-simulator.json](./319980-helicopter-flight-simulator.json) |
 | Helicopter Gunship DEX | 208606 | [208606-helicopter-gunship-dex.json](./208606-helicopter-gunship-dex.json) |
@@ -4766,6 +4768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Seize | 6264 | [6264-high-seize.json](./6264-high-seize.json) |
 | High Sidin': Hyphy Edition | 325042 | [325042-high-sidin-hyphy-edition.json](./325042-high-sidin-hyphy-edition.json) |
 | High Speed Extreme Bike Race Game: Space Heroes | 102263 | [102263-high-speed-extreme-bike-race-game-space-heroes.json](./102263-high-speed-extreme-bike-race-game-space-heroes.json) |
+| High Speed Extreme Racing | 220822 | [220822-high-speed-extreme-racing.json](./220822-high-speed-extreme-racing.json) |
 | High Speed Trains 2 - England | 88742 | [88742-high-speed-trains-2-england.json](./88742-high-speed-trains-2-england.json) |
 | High Spirits | 317300 | [317300-high-spirits.json](./317300-high-spirits.json) |
 | High Stakes | 141081 | [141081-high-stakes.json](./141081-high-stakes.json) |
@@ -7385,6 +7388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humankind: Day One Edition | 139935 | [139935-humankind-day-one-edition.json](./139935-humankind-day-one-edition.json) |
 | Humankind: Definitive Edition | 283778 | [283778-humankind-definitive-edition.json](./283778-humankind-definitive-edition.json) |
 | Humankind: Deluxe Edition | 169173 | [169173-humankind-deluxe-edition.json](./169173-humankind-deluxe-edition.json) |
+| Humankind: Together We Rule | 220818 | [220818-humankind-together-we-rule.json](./220818-humankind-together-we-rule.json) |
 | Humanoid | 263788 | [263788-humanoid.json](./263788-humanoid.json) |
 | Humanoid | 393495 | [393495-humanoid.json](./393495-humanoid.json) |
 | Humanoid 47 | 128599 | [128599-humanoid-47.json](./128599-humanoid-47.json) |
