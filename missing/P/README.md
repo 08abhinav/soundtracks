@@ -5540,6 +5540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixels With Comics | 260247 | [260247-pixels-with-comics.json](./260247-pixels-with-comics.json) |
 | Pixelscape: Oceans | 32200 | [32200-pixelscape-oceans.json](./32200-pixelscape-oceans.json) |
 | PixelShips Retro | 71145 | [71145-pixelships-retro.json](./71145-pixelships-retro.json) |
+| PixelSlime | 223613 | [223613-pixelslime.json](./223613-pixelslime.json) |
 | Pixeltroid | 321673 | [321673-pixeltroid.json](./321673-pixeltroid.json) |
 | Pixelus | 209383 | [209383-pixelus.json](./209383-pixelus.json) |
 | Pixelvader | 335923 | [335923-pixelvader.json](./335923-pixelvader.json) |
