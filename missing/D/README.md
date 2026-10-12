@@ -7745,6 +7745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Fall | 365196 | [365196-dont-fall.json](./365196-dont-fall.json) |
 | Don't Fall Asleep | 149192 | [149192-dont-fall-asleep.json](./149192-dont-fall-asleep.json) |
 | Don't Fall: Aleph | 209919 | [209919-dont-fall-aleph.json](./209919-dont-fall-aleph.json) |
+| Don't Fall: Aleph - Refresh | 214694 | [214694-dont-fall-aleph-refresh.json](./214694-dont-fall-aleph-refresh.json) |
 | Don't Fear the Sweeper | 68638 | [68638-dont-fear-the-sweeper.json](./68638-dont-fear-the-sweeper.json) |
 | Don't Feed | 65794 | [65794-dont-feed.json](./65794-dont-feed.json) |
 | Don't Feed It | 341896 | [341896-dont-feed-it.json](./341896-dont-feed-it.json) |
@@ -9786,6 +9787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Rider | 33349 | [33349-draw-rider.json](./33349-draw-rider.json) |
 | Draw Rider 2 Plus | 197236 | [197236-draw-rider-2-plus.json](./197236-draw-rider-2-plus.json) |
 | Draw Rider Plus | 175394 | [175394-draw-rider-plus.json](./175394-draw-rider-plus.json) |
+| Draw Rider Remake | 214660 | [214660-draw-rider-remake.json](./214660-draw-rider-remake.json) |
 | Draw Saber | 206718 | [206718-draw-saber.json](./206718-draw-saber.json) |
 | Draw Something 2 | 38913 | [38913-draw-something-2.json](./38913-draw-something-2.json) |
 | Draw Souls | 54488 | [54488-draw-souls.json](./54488-draw-souls.json) |
