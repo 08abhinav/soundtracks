@@ -666,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badlands Crew | 258109 | [258109-badlands-crew.json](./258109-badlands-crew.json) |
 | Badmad Robots | 294140 | [294140-badmad-robots.json](./294140-badmad-robots.json) |
 | BadMan | 240524 | [240524-badman.json](./240524-badman.json) |
+| Badminton Clash: Master League - World Championship Arena | 181654 | [181654-badminton-clash-master-league-world-championship-arena.json](./181654-badminton-clash-master-league-world-championship-arena.json) |
 | Badminton Kings VR | 89258 | [89258-badminton-kings-vr.json](./89258-badminton-kings-vr.json) |
 | Badminton Master | 224101 | [224101-badminton-master.json](./224101-badminton-master.json) |
 | Badminton Time | 314604 | [314604-badminton-time.json](./314604-badminton-time.json) |
@@ -874,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldr Force Exe | 44622 | [44622-baldr-force-exe.json](./44622-baldr-force-exe.json) |
 | Baldr Sky | 127153 | [127153-baldr-sky.json](./127153-baldr-sky.json) |
 | Baldr Sky "Zero" | 54941 | [54941-baldr-sky-zero.json](./54941-baldr-sky-zero.json) |
+| Baldr Sky "Zero" Extreme | 182150 | [182150-baldr-sky-zero-extreme.json](./182150-baldr-sky-zero-extreme.json) |
 | Baldr Sky: Zero 2 | 54744 | [54744-baldr-sky-zero-2.json](./54744-baldr-sky-zero-2.json) |
 | Baldr's Squid Isekai: A Parody | 273362 | [273362-baldrs-squid-isekai-a-parody.json](./273362-baldrs-squid-isekai-a-parody.json) |
 | Baldrhead: Busou Kinyuu Gaiden | 180223 | [180223-baldrhead-busou-kinyuu-gaiden.json](./180223-baldrhead-busou-kinyuu-gaiden.json) |
@@ -1342,6 +1344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bangungot | 217862 | [217862-bangungot.json](./217862-bangungot.json) |
 | Bangy: Adventures in Egypt | 179135 | [179135-bangy-adventures-in-egypt.json](./179135-bangy-adventures-in-egypt.json) |
 | BanHammer | 286506 | [286506-banhammer.json](./286506-banhammer.json) |
+| Banira Shio | 182142 | [182142-banira-shio.json](./182142-banira-shio.json) |
 | Banish | 191184 | [191184-banish.json](./191184-banish.json) |
 | Banished Knight | 387621 | [387621-banished-knight.json](./387621-banished-knight.json) |
 | Banished Monsters | 248676 | [248676-banished-monsters.json](./248676-banished-monsters.json) |
@@ -3052,6 +3055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be a Maid in the Demon World: The Secret Cafe of the Demon Angel Hero | 171960 | [171960-be-a-maid-in-the-demon-world-the-secret-cafe-of-the-demon-angel-hero.json](./171960-be-a-maid-in-the-demon-world-the-secret-cafe-of-the-demon-angel-hero.json) |
 | Be a Pirate | 143746 | [143746-be-a-pirate.json](./143746-be-a-pirate.json) |
 | Be Brave, Barb | 331143 | [331143-be-brave-barb.json](./331143-be-brave-barb.json) |
+| Be dog do borks | 181606 | [181606-be-dog-do-borks.json](./181606-be-dog-do-borks.json) |
 | Be Fly | 338229 | [338229-be-fly.json](./338229-be-fly.json) |
 | Be Frugal | 245901 | [245901-be-frugal.json](./245901-be-frugal.json) |
 | Be Funny Now! | 194440 | [194440-be-funny-now.json](./194440-be-funny-now.json) |
@@ -5523,6 +5527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Orchard: Animal Valley - Ultra Ultimate | 271500 | [271500-bit-orchard-animal-valley-ultra-ultimate.json](./271500-bit-orchard-animal-valley-ultra-ultimate.json) |
 | Bit Pilot | 41514 | [41514-bit-pilot.json](./41514-bit-pilot.json) |
 | Bit Pit | 176429 | [176429-bit-pit.json](./176429-bit-pit.json) |
+| Bit Pong | 182172 | [182172-bit-pong.json](./182172-bit-pong.json) |
 | Bit Rat: Singularity | 134485 | [134485-bit-rat-singularity.json](./134485-bit-rat-singularity.json) |
 | Bit Shifter | 34699 | [34699-bit-shifter.json](./34699-bit-shifter.json) |
 | Bit Sword | 190032 | [190032-bit-sword.json](./190032-bit-sword.json) |
@@ -7679,6 +7684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob the Goose | 213476 | [213476-bob-the-goose.json](./213476-bob-the-goose.json) |
 | Bob the Hamster | 60917 | [60917-bob-the-hamster.json](./60917-bob-the-hamster.json) |
 | Bob The Mad Rabbit | 410402 | [410402-bob-the-mad-rabbit.json](./410402-bob-the-mad-rabbit.json) |
+| Bob the Robber 2 | 181607 | [181607-bob-the-robber-2.json](./181607-bob-the-robber-2.json) |
 | Bob the Robber 4 | 342199 | [342199-bob-the-robber-4.json](./342199-bob-the-robber-4.json) |
 | Bob the Robber 5 | 187970 | [187970-bob-the-robber-5.json](./187970-bob-the-robber-5.json) |
 | Bob Venture 3D Level Editor | 130199 | [130199-bob-venture-3d-level-editor.json](./130199-bob-venture-3d-level-editor.json) |
@@ -8178,6 +8184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boneless VR | 302352 | [302352-boneless-vr.json](./302352-boneless-vr.json) |
 | Boneless Zombie | 34913 | [34913-boneless-zombie.json](./34913-boneless-zombie.json) |
 | Bonely Hearts Club | 411802 | [411802-bonely-hearts-club.json](./411802-bonely-hearts-club.json) |
+| Boneman's Buttons | 181627 | [181627-bonemans-buttons.json](./181627-bonemans-buttons.json) |
 | Boner | 25557 | [25557-boner.json](./25557-boner.json) |
 | Bonerdale | 221762 | [221762-bonerdale.json](./221762-bonerdale.json) |
 | Bonereader | 397769 | [397769-bonereader.json](./397769-bonereader.json) |
@@ -9840,6 +9847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brian the Brain | 151606 | [151606-brian-the-brain.json](./151606-brian-the-brain.json) |
 | Brian: The Novice Barbarian | 58825 | [58825-brian-the-novice-barbarian.json](./58825-brian-the-novice-barbarian.json) |
 | Brian's Redemption | 350450 | [350450-brians-redemption.json](./350450-brians-redemption.json) |
+| Brian's Soccer Simulator | 182146 | [182146-brians-soccer-simulator.json](./182146-brians-soccer-simulator.json) |
 | Briar Flame | 379707 | [379707-briar-flame.json](./379707-briar-flame.json) |
 | Bric | 31124 | [31124-bric.json](./31124-bric.json) |
 | Bric à Brac | 188971 | [188971-bric-a-brac.json](./188971-bric-a-brac.json) |
@@ -10914,6 +10922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Angel | 143101 | [143101-bullet-angel.json](./143101-bullet-angel.json) |
 | Bullet Art | 156680 | [156680-bullet-art.json](./156680-bullet-art.json) |
 | Bullet Audyssey | 320253 | [320253-bullet-audyssey.json](./320253-bullet-audyssey.json) |
+| Bullet Ball | 182170 | [182170-bullet-ball.json](./182170-bullet-ball.json) |
 | Bullet Barrage Basketball | 417367 | [417367-bullet-barrage-basketball.json](./417367-bullet-barrage-basketball.json) |
 | Bullet Bash | 205246 | [205246-bullet-bash.json](./205246-bullet-bash.json) |
 | Bullet Battle | 174721 | [174721-bullet-battle.json](./174721-bullet-battle.json) |
