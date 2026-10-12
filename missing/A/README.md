@@ -2689,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Defense 3 | 327421 | [327421-age-of-defense-3.json](./327421-age-of-defense-3.json) |
 | Age of Defense: Prehistory | 309860 | [309860-age-of-defense-prehistory.json](./309860-age-of-defense-prehistory.json) |
 | Age of Discovery | 199457 | [199457-age-of-discovery.json](./199457-age-of-discovery.json) |
+| Age of Dynasties: Shogun | 219260 | [219260-age-of-dynasties-shogun.json](./219260-age-of-dynasties-shogun.json) |
 | Age of Dynasty | 213428 | [213428-age-of-dynasty.json](./213428-age-of-dynasty.json) |
 | Age of Ember | 183853 | [183853-age-of-ember.json](./183853-age-of-ember.json) |
 | Age of Emerald | 132173 | [132173-age-of-emerald.json](./132173-age-of-emerald.json) |
