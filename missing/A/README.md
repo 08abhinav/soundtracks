@@ -715,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Steak Temple Panic | 202652 | [202652-a-steak-temple-panic.json](./202652-a-steak-temple-panic.json) |
 | A Steak Temple Panic: Chapter 2 - Welcome to Sanglinours | 226228 | [226228-a-steak-temple-panic-chapter-2-welcome-to-sanglinours.json](./226228-a-steak-temple-panic-chapter-2-welcome-to-sanglinours.json) |
 | A Steamboat Willie | 282679 | [282679-a-steamboat-willie.json](./282679-a-steamboat-willie.json) |
+| A Step Forward | 190922 | [190922-a-step-forward.json](./190922-a-step-forward.json) |
 | A Step From Insanity | 260220 | [260220-a-step-from-insanity.json](./260220-a-step-from-insanity.json) |
 | A Step Into Darkness | 29815 | [29815-a-step-into-darkness.json](./29815-a-step-into-darkness.json) |
 | A Stop for the Night | 304305 | [304305-a-stop-for-the-night.json](./304305-a-stop-for-the-night.json) |
@@ -1155,6 +1156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abject Abyss | 337788 | [337788-abject-abyss.json](./337788-abject-abyss.json) |
 | Ablaze Ascent | 192317 | [192317-ablaze-ascent.json](./192317-ablaze-ascent.json) |
 | Able Black | 30478 | [30478-able-black.json](./30478-able-black.json) |
+| Ableford | 190898 | [190898-ableford.json](./190898-ableford.json) |
 | Ablepsia | 67912 | [67912-ablepsia.json](./67912-ablepsia.json) |
 | Abnimality | 283872 | [283872-abnimality.json](./283872-abnimality.json) |
 | Abnormal Stairs | 316639 | [316639-abnormal-stairs.json](./316639-abnormal-stairs.json) |
@@ -3245,6 +3247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Threat | 97276 | [97276-air-threat.json](./97276-air-threat.json) |
 | Air Time | 179993 | [179993-air-time.json](./179993-air-time.json) |
 | Air Toons | 364397 | [364397-air-toons.json](./364397-air-toons.json) |
+| Air Traffic | 190928 | [190928-air-traffic.json](./190928-air-traffic.json) |
 | Air Traffic Control | 15590 | [15590-air-traffic-control.json](./15590-air-traffic-control.json) |
 | Air Traffic Control | 376854 | [376854-air-traffic-control.json](./376854-air-traffic-control.json) |
 | Air Traffic Controller 4 | 59031 | [59031-air-traffic-controller-4.json](./59031-air-traffic-controller-4.json) |
@@ -5738,6 +5741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Shadows: Awakening | 351121 | [351121-ancient-shadows-awakening.json](./351121-ancient-shadows-awakening.json) |
 | Ancient Siberia | 68471 | [68471-ancient-siberia.json](./68471-ancient-siberia.json) |
 | Ancient Souls Tamag | 167676 | [167676-ancient-souls-tamag.json](./167676-ancient-souls-tamag.json) |
+| Ancient Spider | 190936 | [190936-ancient-spider.json](./190936-ancient-spider.json) |
 | Ancient Stars | 277014 | [277014-ancient-stars.json](./277014-ancient-stars.json) |
 | Ancient Stories: Gods of Egypt | 119684 | [119684-ancient-stories-gods-of-egypt.json](./119684-ancient-stories-gods-of-egypt.json) |
 | Ancient Swarm | 410345 | [410345-ancient-swarm.json](./410345-ancient-swarm.json) |
@@ -9255,6 +9259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asguaard | 36178 | [36178-asguaard.json](./36178-asguaard.json) |
 | Ash | 127264 | [127264-ash.json](./127264-ash.json) |
 | Ash & Adam's Existential Treads | 364392 | [364392-ash-and-adams-existential-treads.json](./364392-ash-and-adams-existential-treads.json) |
+| Ash & Rust | 190902 | [190902-ash-and-rust.json](./190902-ash-and-rust.json) |
 | Ash and Tor: Yuma's Quest | 276265 | [276265-ash-and-tor-yumas-quest.json](./276265-ash-and-tor-yumas-quest.json) |
 | Ash Arms | 180283 | [180283-ash-arms.json](./180283-ash-arms.json) |
 | Ash Battle | 214048 | [214048-ash-battle.json](./214048-ash-battle.json) |
