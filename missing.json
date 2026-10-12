@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T05:34:43.075Z",
-  "total_missing": 200593,
+  "generated_at": "2026-10-12T05:41:29.244Z",
+  "total_missing": 200591,
   "games": [
     {
       "igdb_id": 191680,
@@ -127576,11 +127576,6 @@
       "igdb_id": 120543,
       "game_name": "Call of Duty: Trilogy",
       "file": "missing/C/120543-call-of-duty-trilogy.json"
-    },
-    {
-      "igdb_id": 165067,
-      "game_name": "Call of Duty: Vanguard",
-      "file": "missing/C/165067-call-of-duty-vanguard.json"
     },
     {
       "igdb_id": 205058,
@@ -345351,11 +345346,6 @@
       "igdb_id": 74655,
       "game_name": "Goro 2",
       "file": "missing/G/74655-goro-2.json"
-    },
-    {
-      "igdb_id": 9136,
-      "game_name": "Gorogoa",
-      "file": "missing/G/9136-gorogoa.json"
     },
     {
       "igdb_id": 243267,
