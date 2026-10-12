@@ -5957,6 +5957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anglerfish | 190954 | [190954-anglerfish.json](./190954-anglerfish.json) |
 | Angles | 89390 | [89390-angles.json](./89390-angles.json) |
 | AnglingTimes | 402384 | [402384-anglingtimes.json](./402384-anglingtimes.json) |
+| Angon: The Grim Age | 206429 | [206429-angon-the-grim-age.json](./206429-angon-the-grim-age.json) |
 | angoo Inc. | 71164 | [71164-angoo-inc.json](./71164-angoo-inc.json) |
 | Angra-I | 215853 | [215853-angra-i.json](./215853-angra-i.json) |
 | Angrbotha Mountains | 239668 | [239668-angrbotha-mountains.json](./239668-angrbotha-mountains.json) |
@@ -9854,6 +9855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Zone | 380451 | [380451-astral-zone.json](./380451-astral-zone.json) |
 | Astral-Battlecraft | 392318 | [392318-astral-battlecraft.json](./392318-astral-battlecraft.json) |
 | AstralAir no Shiroki Towa Finale: Shiroki Hoshi no Yume | 137105 | [137105-astralair-no-shiroki-towa-finale-shiroki-hoshi-no-yume.json](./137105-astralair-no-shiroki-towa-finale-shiroki-hoshi-no-yume.json) |
+| Astralbringer: Shaded Arkarium | 206459 | [206459-astralbringer-shaded-arkarium.json](./206459-astralbringer-shaded-arkarium.json) |
 | Astralis | 156019 | [156019-astralis.json](./156019-astralis.json) |
 | Astralis | 376870 | [376870-astralis.json](./376870-astralis.json) |
 | Astralis: Dawnblades | 390107 | [390107-astralis-dawnblades.json](./390107-astralis-dawnblades.json) |
@@ -10539,6 +10541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Reality | 231612 | [231612-attack-on-reality.json](./231612-attack-on-reality.json) |
 | Attack on Steel | 346228 | [346228-attack-on-steel.json](./346228-attack-on-steel.json) |
 | Attack on Survey Cops | 312819 | [312819-attack-on-survey-cops.json](./312819-attack-on-survey-cops.json) |
+| Attack on Tankette | 206458 | [206458-attack-on-tankette.json](./206458-attack-on-tankette.json) |
 | Attack on the Deathstar | 181203 | [181203-attack-on-the-deathstar.json](./181203-attack-on-the-deathstar.json) |
 | Attack on Time | 193848 | [193848-attack-on-time.json](./193848-attack-on-time.json) |
 | Attack on Titan | 14879 | [14879-attack-on-titan.json](./14879-attack-on-titan.json) |
