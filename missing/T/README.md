@@ -3260,6 +3260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Mario Bros. | 250321 | [250321-tetris-mario-bros.json](./250321-tetris-mario-bros.json) |
 | Tetris MicroCard | 234081 | [234081-tetris-microcard.json](./234081-tetris-microcard.json) |
 | Tetris Mind Bender | 302679 | [302679-tetris-mind-bender.json](./302679-tetris-mind-bender.json) |
+| Tetris Mini | 218085 | [218085-tetris-mini.json](./218085-tetris-mini.json) |
 | Tetris New Century | 236719 | [236719-tetris-new-century.json](./236719-tetris-new-century.json) |
 | Tetris Party Deluxe | 21099 | [21099-tetris-party-deluxe.json](./21099-tetris-party-deluxe.json) |
 | Tetris Plus | 20712 | [20712-tetris-plus.json](./20712-tetris-plus.json) |
@@ -5972,6 +5973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fast Journey | 276309 | [276309-the-fast-journey.json](./276309-the-fast-journey.json) |
 | The Fate | 27618 | [27618-the-fate.json](./27618-the-fate.json) |
 | The Fate of Baldr | 211209 | [211209-the-fate-of-baldr.json](./211209-the-fate-of-baldr.json) |
+| The Fate of the Bombiwa | 218075 | [218075-the-fate-of-the-bombiwa.json](./218075-the-fate-of-the-bombiwa.json) |
 | The Fate of the Pharaoh | 100188 | [100188-the-fate-of-the-pharaoh.json](./100188-the-fate-of-the-pharaoh.json) |
 | The Fazbear Facility | 206591 | [206591-the-fazbear-facility.json](./206591-the-fazbear-facility.json) |
 | The Fear | 94356 | [94356-the-fear.json](./94356-the-fear.json) |
@@ -8048,6 +8050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: A Link to the Islands | 213893 | [213893-the-legend-of-zelda-a-link-to-the-islands.json](./213893-the-legend-of-zelda-a-link-to-the-islands.json) |
 | The Legend of Zelda: A Link to the Past | 229416 | [229416-the-legend-of-zelda-a-link-to-the-past.json](./229416-the-legend-of-zelda-a-link-to-the-past.json) |
 | The Legend of Zelda: A Link to the Past - Hylian Legacy | 268404 | [268404-the-legend-of-zelda-a-link-to-the-past-hylian-legacy.json](./268404-the-legend-of-zelda-a-link-to-the-past-hylian-legacy.json) |
+| The Legend of Zelda: A Link to the Past - Master Quest | 218070 | [218070-the-legend-of-zelda-a-link-to-the-past-master-quest.json](./218070-the-legend-of-zelda-a-link-to-the-past-master-quest.json) |
 | The Legend of Zelda: A Link to the Past & Four Swords | 77336 | [77336-the-legend-of-zelda-a-link-to-the-past-and-four-swords.json](./77336-the-legend-of-zelda-a-link-to-the-past-and-four-swords.json) |
 | The Legend of Zelda: A Link to the Past Redux | 219073 | [219073-the-legend-of-zelda-a-link-to-the-past-redux.json](./219073-the-legend-of-zelda-a-link-to-the-past-redux.json) |
 | The Legend of Zelda: A Link to the Proto | 249317 | [249317-the-legend-of-zelda-a-link-to-the-proto.json](./249317-the-legend-of-zelda-a-link-to-the-proto.json) |
@@ -8082,6 +8085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Four Swords | 163572 | [163572-the-legend-of-zelda-four-swords.json](./163572-the-legend-of-zelda-four-swords.json) |
 | The Legend of Zelda: Four Swords Online | 323278 | [323278-the-legend-of-zelda-four-swords-online.json](./323278-the-legend-of-zelda-four-swords-online.json) |
 | The Legend of Zelda: Fourth Quest | 150079 | [150079-the-legend-of-zelda-fourth-quest.json](./150079-the-legend-of-zelda-fourth-quest.json) |
+| The Legend of Zelda: Goddess of Wisdom | 218077 | [218077-the-legend-of-zelda-goddess-of-wisdom.json](./218077-the-legend-of-zelda-goddess-of-wisdom.json) |
 | The Legend of Zelda: Goddess of Wisdom | 275308 | [275308-the-legend-of-zelda-goddess-of-wisdom.json](./275308-the-legend-of-zelda-goddess-of-wisdom.json) |
 | The Legend of Zelda: Guardians of Hyrule | 324003 | [324003-the-legend-of-zelda-guardians-of-hyrule.json](./324003-the-legend-of-zelda-guardians-of-hyrule.json) |
 | The Legend of Zelda: Hall of the Dead | 323367 | [323367-the-legend-of-zelda-hall-of-the-dead.json](./323367-the-legend-of-zelda-hall-of-the-dead.json) |
@@ -8135,6 +8139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Sage Knight | 323756 | [323756-the-legend-of-zelda-sage-knight.json](./323756-the-legend-of-zelda-sage-knight.json) |
 | The Legend of Zelda: Sands of Time | 326156 | [326156-the-legend-of-zelda-sands-of-time.json](./326156-the-legend-of-zelda-sands-of-time.json) |
 | The Legend of Zelda: Shadow Mirror | 324001 | [324001-the-legend-of-zelda-shadow-mirror.json](./324001-the-legend-of-zelda-shadow-mirror.json) |
+| The Legend of Zelda: Shadow of Night | 218079 | [218079-the-legend-of-zelda-shadow-of-night.json](./218079-the-legend-of-zelda-shadow-of-night.json) |
 | The Legend of Zelda: Shattered Dimensions | 323212 | [323212-the-legend-of-zelda-shattered-dimensions.json](./323212-the-legend-of-zelda-shattered-dimensions.json) |
 | The Legend of Zelda: Shénqí de Màozi | 163217 | [163217-the-legend-of-zelda-shenqi-de-maozi.json](./163217-the-legend-of-zelda-shenqi-de-maozi.json) |
 | The Legend of Zelda: Skyward Sword HD Randomizer | 331139 | [331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json](./331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json) |
