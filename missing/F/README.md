@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen London: The Chimney Pot Wars | 191586 | [191586-fallen-london-the-chimney-pot-wars.json](./191586-fallen-london-the-chimney-pot-wars.json) |
 | Fallen London: The Clay Man's Arm | 191596 | [191596-fallen-london-the-clay-mans-arm.json](./191596-fallen-london-the-clay-mans-arm.json) |
 | Fallen London: The Committee | 191730 | [191730-fallen-london-the-committee.json](./191730-fallen-london-the-committee.json) |
+| Fallen London: The Court of Cats | 191534 | [191534-fallen-london-the-court-of-cats.json](./191534-fallen-london-the-court-of-cats.json) |
 | Fallen London: The Crocodile Who Would Be King | 191793 | [191793-fallen-london-the-crocodile-who-would-be-king.json](./191793-fallen-london-the-crocodile-who-would-be-king.json) |
 | Fallen London: The Dilettante's Debut | 191752 | [191752-fallen-london-the-dilettantes-debut.json](./191752-fallen-london-the-dilettantes-debut.json) |
 | Fallen London: The Exile's Chalice | 221853 | [221853-fallen-london-the-exiles-chalice.json](./221853-fallen-london-the-exiles-chalice.json) |
@@ -761,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen London: The Final Curtain | 191591 | [191591-fallen-london-the-final-curtain.json](./191591-fallen-london-the-final-curtain.json) |
 | Fallen London: The Frequently Deceased | 191555 | [191555-fallen-london-the-frequently-deceased.json](./191555-fallen-london-the-frequently-deceased.json) |
 | Fallen London: The Garden Embassy | 191719 | [191719-fallen-london-the-garden-embassy.json](./191719-fallen-london-the-garden-embassy.json) |
+| Fallen London: The Haunting at the Marsh-House | 191529 | [191529-fallen-london-the-haunting-at-the-marsh-house.json](./191529-fallen-london-the-haunting-at-the-marsh-house.json) |
 | Fallen London: The Heart, the Devil and the Zee | 191597 | [191597-fallen-london-the-heart-the-devil-and-the-zee.json](./191597-fallen-london-the-heart-the-devil-and-the-zee.json) |
 | Fallen London: The Heretic of Hollow Street | 191728 | [191728-fallen-london-the-heretic-of-hollow-street.json](./191728-fallen-london-the-heretic-of-hollow-street.json) |
 | Fallen London: The House of Silk and Flame | 191794 | [191794-fallen-london-the-house-of-silk-and-flame.json](./191794-fallen-london-the-house-of-silk-and-flame.json) |
@@ -5726,6 +5728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Follow the Darkness | 151572 | [151572-follow-the-darkness.json](./151572-follow-the-darkness.json) |
 | Follow the Leader | 264035 | [264035-follow-the-leader.json](./264035-follow-the-leader.json) |
 | Follow the Meaning | 286094 | [286094-follow-the-meaning.json](./286094-follow-the-meaning.json) |
+| Follow the Reader | 191528 | [191528-follow-the-reader.json](./191528-follow-the-reader.json) |
 | Follow the Rules | 273952 | [273952-follow-the-rules.json](./273952-follow-the-rules.json) |
 | Follow the Sound by Horse Reader | 95631 | [95631-follow-the-sound-by-horse-reader.json](./95631-follow-the-sound-by-horse-reader.json) |
 | Follow the White Rabbit VR | 122178 | [122178-follow-the-white-rabbit-vr.json](./122178-follow-the-white-rabbit-vr.json) |
