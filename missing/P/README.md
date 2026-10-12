@@ -1349,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranoia | 107149 | [107149-paranoia.json](./107149-paranoia.json) |
 | Paranoia | 165050 | [165050-paranoia.json](./165050-paranoia.json) |
 | Paranoia 2: Savior | 123592 | [123592-paranoia-2-savior.json](./123592-paranoia-2-savior.json) |
+| Paranoia Place | 214118 | [214118-paranoia-place.json](./214118-paranoia-place.json) |
 | Paranoia: Happiness is Mandatory | 117313 | [117313-paranoia-happiness-is-mandatory.json](./117313-paranoia-happiness-is-mandatory.json) |
 | Paranoia: The Game Edition | 255574 | [255574-paranoia-the-game-edition.json](./255574-paranoia-the-game-edition.json) |
 | Paranoia: The Official Video Game | 90105 | [90105-paranoia-the-official-video-game.json](./90105-paranoia-the-official-video-game.json) |
@@ -3283,6 +3284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA European Tour Golf | 209983 | [209983-pga-european-tour-golf.json](./209983-pga-european-tour-golf.json) |
 | PGA Tour 2K21 | 133939 | [133939-pga-tour-2k21.json](./133939-pga-tour-2k21.json) |
 | PGA Tour 2K21: Baller Edition | 176792 | [176792-pga-tour-2k21-baller-edition.json](./176792-pga-tour-2k21-baller-edition.json) |
+| PGA Tour 2K23: Deluxe Edition | 214136 | [214136-pga-tour-2k23-deluxe-edition.json](./214136-pga-tour-2k23-deluxe-edition.json) |
 | PGA Tour 2K23: Style & Swing Pack | 307973 | [307973-pga-tour-2k23-style-and-swing-pack.json](./307973-pga-tour-2k23-style-and-swing-pack.json) |
 | PGA Tour 2K23: Tiger Woods Edition | 221421 | [221421-pga-tour-2k23-tiger-woods-edition.json](./221421-pga-tour-2k23-tiger-woods-edition.json) |
 | PGA Tour 2K25 | 328079 | [328079-pga-tour-2k25.json](./328079-pga-tour-2k25.json) |
@@ -7995,6 +7997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Quiz logo | 108285 | [108285-pop-quiz-logo.json](./108285-pop-quiz-logo.json) |
 | Pop Some Eyes | 240747 | [240747-pop-some-eyes.json](./240747-pop-some-eyes.json) |
 | Pop Star Academy | 344935 | [344935-pop-star-academy.json](./344935-pop-star-academy.json) |
+| Pop Star Classic | 214102 | [214102-pop-star-classic.json](./214102-pop-star-classic.json) |
 | Pop Star Debut | 324684 | [324684-pop-star-debut.json](./324684-pop-star-debut.json) |
 | Pop Star Dress Up - Music Idol Girl | 101571 | [101571-pop-star-dress-up-music-idol-girl.json](./101571-pop-star-dress-up-music-idol-girl.json) |
 | Pop Star Makeover | 99995 | [99995-pop-star-makeover.json](./99995-pop-star-makeover.json) |
@@ -10136,6 +10139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project R | 313104 | [313104-project-r.json](./313104-project-r.json) |
 | Project R2 | 367829 | [367829-project-r2.json](./367829-project-r2.json) |
 | Project R4T | 384159 | [384159-project-r4t.json](./384159-project-r4t.json) |
+| Project Racer | 214099 | [214099-project-racer.json](./214099-project-racer.json) |
 | Project Ragtag | 75120 | [75120-project-ragtag.json](./75120-project-ragtag.json) |
 | Project Rap Rabbit | 28699 | [28699-project-rap-rabbit.json](./28699-project-rap-rabbit.json) |
 | Project Ravensdale | 63335 | [63335-project-ravensdale.json](./63335-project-ravensdale.json) |
