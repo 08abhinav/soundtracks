@@ -5840,6 +5840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lu Dreams | 376606 | [376606-lu-dreams.json](./376606-lu-dreams.json) |
 | Lu:Cid | 229649 | [229649-lu-cid.json](./229649-lu-cid.json) |
 | Lu[Idle] | 321738 | [321738-lu-idle.json](./321738-lu-idle.json) |
+| Lua | 210850 | [210850-lua.json](./210850-lua.json) |
 | Lua Bingo | 87136 | [87136-lua-bingo.json](./87136-lua-bingo.json) |
 | Luànshì Yúnyān | 398456 | [398456-luanshi-yunyan.json](./398456-luanshi-yunyan.json) |
 | Luanti | 19437 | [19437-luanti.json](./19437-luanti.json) |
