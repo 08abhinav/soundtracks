@@ -938,6 +938,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happening Journey | 108904 | [108904-happening-journey.json](./108904-happening-journey.json) |
 | Happi Basudei | 197323 | [197323-happi-basudei.json](./197323-happi-basudei.json) |
 | Happily Ever After | 48024 | [48024-happily-ever-after.json](./48024-happily-ever-after.json) |
+| Happily Ever After Vol. 1 | 205932 | [205932-happily-ever-after-vol-1.json](./205932-happily-ever-after-vol-1.json) |
+| Happily Ever After Vol. 2 | 205933 | [205933-happily-ever-after-vol-2.json](./205933-happily-ever-after-vol-2.json) |
 | Happiness | 184120 | [184120-happiness.json](./184120-happiness.json) |
 | Happiness Charge Pretty Cure! Kawarun Collection | 216184 | [216184-happiness-charge-pretty-cure-kawarun-collection.json](./216184-happiness-charge-pretty-cure-kawarun-collection.json) |
 | Happiness Drops! | 81687 | [81687-happiness-drops.json](./81687-happiness-drops.json) |
@@ -6084,6 +6086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoofdrekenen | 98950 | [98950-hoofdrekenen.json](./98950-hoofdrekenen.json) |
 | Hoofobia | 279898 | [279898-hoofobia.json](./279898-hoofobia.json) |
 | Hook | 10225 | [10225-hook.json](./10225-hook.json) |
+| Hook | 205927 | [205927-hook.json](./205927-hook.json) |
 | Hook | 214611 | [214611-hook.json](./214611-hook.json) |
 | Hook | 78145 | [78145-hook.json](./78145-hook.json) |
 | Hook | 8704 | [8704-hook.json](./8704-hook.json) |
