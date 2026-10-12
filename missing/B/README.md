@@ -4067,6 +4067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben Tennyson: Ace Attorney | 308534 | [308534-ben-tennyson-ace-attorney.json](./308534-ben-tennyson-ace-attorney.json) |
 | Ben the Binder | 378303 | [378303-ben-the-binder.json](./378303-ben-the-binder.json) |
 | Ben There, Dan That! | 9541 | [9541-ben-there-dan-that.json](./9541-ben-there-dan-that.json) |
+| Ben Was Assimilated | 184292 | [184292-ben-was-assimilated.json](./184292-ben-was-assimilated.json) |
 | Ben's World | 367581 | [367581-bens-world.json](./367581-bens-world.json) |
 | Ben's Zombie Apocalypse | 411826 | [411826-bens-zombie-apocalypse.json](./411826-bens-zombie-apocalypse.json) |
 | Běncǎo Shàn Shí Lù | 373696 | [373696-bencao-shan-shi-lu.json](./373696-bencao-shan-shi-lu.json) |
@@ -5678,6 +5679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black blood | 132781 | [132781-black-blood.json](./132781-black-blood.json) |
 | Black Blood | 379357 | [379357-black-blood.json](./379357-black-blood.json) |
 | Black Border: Border Simulator | 174205 | [174205-black-border-border-simulator.json](./174205-black-border-border-simulator.json) |
+| Black Box Jumper | 184301 | [184301-black-box-jumper.json](./184301-black-box-jumper.json) |
 | Black Box LSS: The Merciful Savior | 259160 | [259160-black-box-lss-the-merciful-savior.json](./259160-black-box-lss-the-merciful-savior.json) |
 | Black Box Lss: The Shining Immortal | 258385 | [258385-black-box-lss-the-shining-immortal.json](./258385-black-box-lss-the-shining-immortal.json) |
 | Black Box VR | 140619 | [140619-black-box-vr.json](./140619-black-box-vr.json) |
@@ -9101,6 +9103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Legend | 277320 | [277320-boxing-legend.json](./277320-boxing-legend.json) |
 | Boxing Legends of the Ring | 38366 | [38366-boxing-legends-of-the-ring.json](./38366-boxing-legends-of-the-ring.json) |
 | Boxing Life Simulator | 407483 | [407483-boxing-life-simulator.json](./407483-boxing-life-simulator.json) |
+| Boxing Pun | 183843 | [183843-boxing-pun.json](./183843-boxing-pun.json) |
 | Boxing Revolution: Boxing Games - Knock Out | 104434 | [104434-boxing-revolution-boxing-games-knock-out.json](./104434-boxing-revolution-boxing-games-knock-out.json) |
 | Boxing Saga | 31364 | [31364-boxing-saga.json](./31364-boxing-saga.json) |
 | Boxing School | 110119 | [110119-boxing-school.json](./110119-boxing-school.json) |
@@ -11583,6 +11586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | But You Seem Fine | 120267 | [120267-but-you-seem-fine.json](./120267-but-you-seem-fine.json) |
 | Buta | 204413 | [204413-buta.json](./204413-buta.json) |
 | Buta Hime-sama | 82971 | [82971-buta-hime-sama.json](./82971-buta-hime-sama.json) |
+| Butano Fighter | 184306 | [184306-butano-fighter.json](./184306-butano-fighter.json) |
 | Butanooo! Simulator | 303805 | [303805-butanooo-simulator.json](./303805-butanooo-simulator.json) |
 | Butasan | 39131 | [39131-butasan.json](./39131-butasan.json) |
 | Butch: Hard Guy | 293250 | [293250-butch-hard-guy.json](./293250-butch-hard-guy.json) |
