@@ -633,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palmon: Survival | 369018 | [369018-palmon-survival.json](./369018-palmon-survival.json) |
 | PalmRide: After Flight | 288754 | [288754-palmride-after-flight.json](./288754-palmride-after-flight.json) |
 | Palmyra Orphanage | 120719 | [120719-palmyra-orphanage.json](./120719-palmyra-orphanage.json) |
+| Palmystery | 213056 | [213056-palmystery.json](./213056-palmystery.json) |
 | Palo T Game and Watch | 289580 | [289580-palo-t-game-and-watch.json](./289580-palo-t-game-and-watch.json) |
 | Paloo Spiral | 369200 | [369200-paloo-spiral.json](./369200-paloo-spiral.json) |
 | Palpable | 301900 | [301900-palpable.json](./301900-palpable.json) |
@@ -2729,6 +2730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | People's World | 284903 | [284903-peoples-world.json](./284903-peoples-world.json) |
 | Peoplemon | 140920 | [140920-peoplemon.json](./140920-peoplemon.json) |
 | Peopletale Online | 176790 | [176790-peopletale-online.json](./176790-peopletale-online.json) |
+| Pep-Pel | 212959 | [212959-pep-pel.json](./212959-pep-pel.json) |
 | Pepe Chatters | 287356 | [287356-pepe-chatters.json](./287356-pepe-chatters.json) |
 | Pepe Pillz | 393523 | [393523-pepe-pillz.json](./393523-pepe-pillz.json) |
 | Pepe's Little Adventure | 325703 | [325703-pepes-little-adventure.json](./325703-pepes-little-adventure.json) |
@@ -2779,6 +2781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Percussive VR | 31108 | [31108-percussive-vr.json](./31108-percussive-vr.json) |
 | PercussOne | 85721 | [85721-percussone.json](./85721-percussone.json) |
 | Percy Jackson and the Olympians: The Lightning Thief | 47899 | [47899-percy-jackson-and-the-olympians-the-lightning-thief.json](./47899-percy-jackson-and-the-olympians-the-lightning-thief.json) |
+| Percy Parcel | 212958 | [212958-percy-parcel.json](./212958-percy-parcel.json) |
 | Percy Penguin | 128467 | [128467-percy-penguin.json](./128467-percy-penguin.json) |
 | Percy's Last Stand | 118403 | [118403-percys-last-stand.json](./118403-percys-last-stand.json) |
 | Perdita | 285390 | [285390-perdita.json](./285390-perdita.json) |
@@ -4304,6 +4307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pimeval Man | 354593 | [354593-pimeval-man.json](./354593-pimeval-man.json) |
 | PiMon | 321640 | [321640-pimon.json](./321640-pimon.json) |
 | Pimp Hand Strong! | 234712 | [234712-pimp-hand-strong.json](./234712-pimp-hand-strong.json) |
+| Pimp My Cruise | 212957 | [212957-pimp-my-cruise.json](./212957-pimp-my-cruise.json) |
 | Pimp My Dungeon | 243959 | [243959-pimp-my-dungeon.json](./243959-pimp-my-dungeon.json) |
 | Pimp My Ride | 5098 | [5098-pimp-my-ride.json](./5098-pimp-my-ride.json) |
 | Pimp My Ride Street Racing | 274184 | [274184-pimp-my-ride-street-racing.json](./274184-pimp-my-ride-street-racing.json) |
@@ -4955,6 +4959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates, Vikings and Knights | 221933 | [221933-pirates-vikings-and-knights.json](./221933-pirates-vikings-and-knights.json) |
 | Pirates: Captain's Quest | 145521 | [145521-pirates-captains-quest.json](./145521-pirates-captains-quest.json) |
 | Pirates: Duels on the High Seas | 21274 | [21274-pirates-duels-on-the-high-seas.json](./21274-pirates-duels-on-the-high-seas.json) |
+| Pirates: Golden tits - Chapter 1 | 212956 | [212956-pirates-golden-tits-chapter-1.json](./212956-pirates-golden-tits-chapter-1.json) |
 | Pirates: Legend of the Black Buccaneer | 11286 | [11286-pirates-legend-of-the-black-buccaneer.json](./11286-pirates-legend-of-the-black-buccaneer.json) |
 | Pirates: Mystery of the Skeletons Island | 133425 | [133425-pirates-mystery-of-the-skeletons-island.json](./133425-pirates-mystery-of-the-skeletons-island.json) |
 | Pirates: Tides of Fortune | 23592 | [23592-pirates-tides-of-fortune.json](./23592-pirates-tides-of-fortune.json) |
@@ -6220,6 +6225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playable Mockup | 245387 | [245387-playable-mockup.json](./245387-playable-mockup.json) |
 | PlayAgain 2: The Golden Legend | 367482 | [367482-playagain-2-the-golden-legend.json](./367482-playagain-2-the-golden-legend.json) |
 | Playback '94: Episode 1 - Post Office | 407410 | [407410-playback-94-episode-1-post-office.json](./407410-playback-94-episode-1-post-office.json) |
+| Playback Trauma: In Sickness | 212955 | [212955-playback-trauma-in-sickness.json](./212955-playback-trauma-in-sickness.json) |
 | Playback Trauma: The Beach | 159888 | [159888-playback-trauma-the-beach.json](./159888-playback-trauma-the-beach.json) |
 | Playback Trauma: The Dog | 311078 | [311078-playback-trauma-the-dog.json](./311078-playback-trauma-the-dog.json) |
 | Playbook VR | 344434 | [344434-playbook-vr.json](./344434-playbook-vr.json) |
@@ -7135,6 +7141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Go: World of Wonders | 383000 | [383000-pokemon-go-world-of-wonders.json](./383000-pokemon-go-world-of-wonders.json) |
 | Pokémon Goita | 377713 | [377713-pokemon-goita.json](./377713-pokemon-goita.json) |
 | Pokémon Gold and Silver 97: Reforged | 203224 | [203224-pokemon-gold-and-silver-97-reforged.json](./203224-pokemon-gold-and-silver-97-reforged.json) |
+| Pokémon Grand Colosseum | 212982 | [212982-pokemon-grand-colosseum.json](./212982-pokemon-grand-colosseum.json) |
 | Pokémon Grape | 203217 | [203217-pokemon-grape.json](./203217-pokemon-grape.json) |
 | Pokémon Gratia | 318562 | [318562-pokemon-gratia.json](./318562-pokemon-gratia.json) |
 | Pokemon HG/SS Golden Edition | 334655 | [334655-pokemon-hg-ss-golden-edition.json](./334655-pokemon-hg-ss-golden-edition.json) |
@@ -9184,6 +9191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: The Sands of Time HD | 99585 | [99585-prince-of-persia-the-sands-of-time-hd.json](./99585-prince-of-persia-the-sands-of-time-hd.json) |
 | Prince of Persia: The Shadow and the Flame | 142256 | [142256-prince-of-persia-the-shadow-and-the-flame.json](./142256-prince-of-persia-the-shadow-and-the-flame.json) |
 | Prince of Persia: The Two Thrones | 242993 | [242993-prince-of-persia-the-two-thrones.json](./242993-prince-of-persia-the-two-thrones.json) |
+| Prince of Persia: Warrior Within | 213052 | [213052-prince-of-persia-warrior-within.json](./213052-prince-of-persia-warrior-within.json) |
 | Prince of Persia: Warrior Within HD | 99586 | [99586-prince-of-persia-warrior-within-hd.json](./99586-prince-of-persia-warrior-within-hd.json) |
 | Prince of Prussia | 336715 | [336715-prince-of-prussia.json](./336715-prince-of-prussia.json) |
 | Prince of Qin | 51402 | [51402-prince-of-qin.json](./51402-prince-of-qin.json) |
