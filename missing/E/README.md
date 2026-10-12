@@ -649,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse: Echo of Dimension | 295490 | [295490-eclipse-echo-of-dimension.json](./295490-eclipse-echo-of-dimension.json) |
 | Eclipse: Edge of Light | 27809 | [27809-eclipse-edge-of-light.json](./27809-eclipse-edge-of-light.json) |
 | Eclipse: Fall - Kami no Danzai | 379353 | [379353-eclipse-fall-kami-no-danzai.json](./379353-eclipse-fall-kami-no-danzai.json) |
+| Eclipse: Shine of Dawn | 219246 | [219246-eclipse-shine-of-dawn.json](./219246-eclipse-shine-of-dawn.json) |
 | Eclipse: Special Forces | 345002 | [345002-eclipse-special-forces.json](./345002-eclipse-special-forces.json) |
 | Eclipsed Realms | 385913 | [385913-eclipsed-realms.json](./385913-eclipsed-realms.json) |
 | Eclipsed Remnant | 385912 | [385912-eclipsed-remnant.json](./385912-eclipsed-remnant.json) |
@@ -1446,6 +1447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental: War of Magic | 20451 | [20451-elemental-war-of-magic.json](./20451-elemental-war-of-magic.json) |
 | Elementalist: 0 | 182995 | [182995-elementalist-0.json](./182995-elementalist-0.json) |
 | Elementalist.io | 184104 | [184104-elementalist-io.json](./184104-elementalist-io.json) |
+| ElementalMaster Luna: The Moon Goddess And Lost Memories | 219247 | [219247-elementalmaster-luna-the-moon-goddess-and-lost-memories.json](./219247-elementalmaster-luna-the-moon-goddess-and-lost-memories.json) |
 | Elementals | 130933 | [130933-elementals.json](./130933-elementals.json) |
 | Elementals Beta | 279043 | [279043-elementals-beta.json](./279043-elementals-beta.json) |
 | Elementals Reborn | 55484 | [55484-elementals-reborn.json](./55484-elementals-reborn.json) |
@@ -1639,6 +1641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ella's Nightmare | 384173 | [384173-ellas-nightmare.json](./384173-ellas-nightmare.json) |
 | Ellada Games RPG Bundle | 187500 | [187500-ellada-games-rpg-bundle.json](./187500-ellada-games-rpg-bundle.json) |
 | Ellan: The Lost Soul | 261768 | [261768-ellan-the-lost-soul.json](./261768-ellan-the-lost-soul.json) |
+| Elland: The Crystal Wars | 219248 | [219248-elland-the-crystal-wars.json](./219248-elland-the-crystal-wars.json) |
 | Elle | 171973 | [171973-elle.json](./171973-elle.json) |
 | Ellen and the Degenerates RPG | 114542 | [114542-ellen-and-the-degenerates-rpg.json](./114542-ellen-and-the-degenerates-rpg.json) |
 | Ellentis | 370178 | [370178-ellentis.json](./370178-ellentis.json) |
@@ -2279,6 +2282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Dungeon | 109970 | [109970-endless-dungeon.json](./109970-endless-dungeon.json) |
 | Endless Dungeon: Day One Edition | 234210 | [234210-endless-dungeon-day-one-edition.json](./234210-endless-dungeon-day-one-edition.json) |
 | Endless Dungeon: Ichiban And Kiryu Skin Pack | 289422 | [289422-endless-dungeon-ichiban-and-kiryu-skin-pack.json](./289422-endless-dungeon-ichiban-and-kiryu-skin-pack.json) |
+| Endless Engines | 219249 | [219249-endless-engines.json](./219249-endless-engines.json) |
 | Endless Escalation | 390742 | [390742-endless-escalation.json](./390742-endless-escalation.json) |
 | Endless Escape | 38912 | [38912-endless-escape.json](./38912-endless-escape.json) |
 | Endless Evolution | 390641 | [390641-endless-evolution.json](./390641-endless-evolution.json) |
@@ -2505,6 +2509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | England Exchange | 28643 | [28643-england-exchange.json](./28643-england-exchange.json) |
 | England in London | 276836 | [276836-england-in-london.json](./276836-england-in-london.json) |
 | England Team Manager | 69289 | [69289-england-team-manager.json](./69289-england-team-manager.json) |
+| English A-Game | 219250 | [219250-english-a-game.json](./219250-english-a-game.json) |
 | English Civil War | 129580 | [129580-english-civil-war.json](./129580-english-civil-war.json) |
 | English Country Tune | 9699 | [9699-english-country-tune.json](./9699-english-country-tune.json) |
 | English of the Dead | 73014 | [73014-english-of-the-dead.json](./73014-english-of-the-dead.json) |
@@ -2701,6 +2706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eolia | 204347 | [204347-eolia.json](./204347-eolia.json) |
 | Eon Altar: Episode 2 - Whispers in the Catacombs | 24875 | [24875-eon-altar-episode-2-whispers-in-the-catacombs.json](./24875-eon-altar-episode-2-whispers-in-the-catacombs.json) |
 | Eon Altar: Episode I - The Battle for Tarnum | 24874 | [24874-eon-altar-episode-i-the-battle-for-tarnum.json](./24874-eon-altar-episode-i-the-battle-for-tarnum.json) |
+| Eon Fighter | 219251 | [219251-eon-fighter.json](./219251-eon-fighter.json) |
 | Eon Fleet | 96885 | [96885-eon-fleet.json](./96885-eon-fleet.json) |
 | Eon of the Green | 233577 | [233577-eon-of-the-green.json](./233577-eon-of-the-green.json) |
 | Eon of the Green: Area Crescent | 279138 | [279138-eon-of-the-green-area-crescent.json](./279138-eon-of-the-green-area-crescent.json) |
@@ -2827,6 +2833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Snowday Adventure | 89498 | [89498-epic-snowday-adventure.json](./89498-epic-snowday-adventure.json) |
 | Epic Space Trader | 337664 | [337664-epic-space-trader.json](./337664-epic-space-trader.json) |
 | Epic Space: Online | 36322 | [36322-epic-space-online.json](./36322-epic-space-online.json) |
+| Epic Survivors | 219252 | [219252-epic-survivors.json](./219252-epic-survivors.json) |
 | Epic Tavern | 25644 | [25644-epic-tavern.json](./25644-epic-tavern.json) |
 | Epic Truck | 89796 | [89796-epic-truck.json](./89796-epic-truck.json) |
 | Epic Vampire | 307721 | [307721-epic-vampire.json](./307721-epic-vampire.json) |
