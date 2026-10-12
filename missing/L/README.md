@@ -5985,6 +5985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludus | 128123 | [128123-ludus.json](./128123-ludus.json) |
 | Ludus Latrunculorum | 384163 | [384163-ludus-latrunculorum.json](./384163-ludus-latrunculorum.json) |
 | Ludus Magnatus: Gladiator Manager Simulator | 390751 | [390751-ludus-magnatus-gladiator-manager-simulator.json](./390751-ludus-magnatus-gladiator-manager-simulator.json) |
+| Ludus Mortis | 224699 | [224699-ludus-mortis.json](./224699-ludus-mortis.json) |
 | Ludus Vetitus | 292766 | [292766-ludus-vetitus.json](./292766-ludus-vetitus.json) |
 | Ludus: A Gladiator Story | 411712 | [411712-ludus-a-gladiator-story.json](./411712-ludus-a-gladiator-story.json) |
 | Luduvo | 412303 | [412303-luduvo.json](./412303-luduvo.json) |
@@ -6142,6 +6143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminous Arc Infinity | 25101 | [25101-luminous-arc-infinity.json](./25101-luminous-arc-infinity.json) |
 | Luminous Combat | 95607 | [95607-luminous-combat.json](./95607-luminous-combat.json) |
 | Luminous Kingdom | 386291 | [386291-luminous-kingdom.json](./386291-luminous-kingdom.json) |
+| Luminous Nights | 224725 | [224725-luminous-nights.json](./224725-luminous-nights.json) |
 | Luminous of Stellar | 228486 | [228486-luminous-of-stellar.json](./228486-luminous-of-stellar.json) |
 | Luminous Plume | 140981 | [140981-luminous-plume.json](./140981-luminous-plume.json) |
 | Luminous Skies: A Short Adventure | 255956 | [255956-luminous-skies-a-short-adventure.json](./255956-luminous-skies-a-short-adventure.json) |
@@ -6439,6 +6441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LXD: Red Honey | 305877 | [305877-lxd-red-honey.json](./305877-lxd-red-honey.json) |
 | Lya | 118901 | [118901-lya.json](./118901-lya.json) |
 | Lyantei | 114993 | [114993-lyantei.json](./114993-lyantei.json) |
+| Lyara | 224709 | [224709-lyara.json](./224709-lyara.json) |
 | Lyca | 332032 | [332032-lyca.json](./332032-lyca.json) |
 | Lycah | 51739 | [51739-lycah.json](./51739-lycah.json) |
 | Lycanthorn II: Rain of Beasts | 149688 | [149688-lycanthorn-ii-rain-of-beasts.json](./149688-lycanthorn-ii-rain-of-beasts.json) |
