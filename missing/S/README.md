@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salem | 23613 | [23613-salem.json](./23613-salem.json) |
 | Salene | 405062 | [405062-salene.json](./405062-salene.json) |
 | Sales Birdman | 345604 | [345604-sales-birdman.json](./345604-sales-birdman.json) |
+| Sales Pitch | 191507 | [191507-sales-pitch.json](./191507-sales-pitch.json) |
 | Saliens | 104692 | [104692-saliens.json](./104692-saliens.json) |
 | Sally Acorn in Sonic the Hedgehog | 141883 | [141883-sally-acorn-in-sonic-the-hedgehog.json](./141883-sally-acorn-in-sonic-the-hedgehog.json) |
 | Sally Acorn in Sonic the Hedgehog 2 | 141884 | [141884-sally-acorn-in-sonic-the-hedgehog-2.json](./141884-sally-acorn-in-sonic-the-hedgehog-2.json) |
@@ -2283,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrabble Interactive: 2009 Edition | 51157 | [51157-scrabble-interactive-2009-edition.json](./51157-scrabble-interactive-2009-edition.json) |
 | Scrabble Plus | 209005 | [209005-scrabble-plus.json](./209005-scrabble-plus.json) |
 | Scrabble Slam! | 66694 | [66694-scrabble-slam.json](./66694-scrabble-slam.json) |
+| Scrabble Sprint | 191503 | [191503-scrabble-sprint.json](./191503-scrabble-sprint.json) |
 | Scrabble Tetris | 385944 | [385944-scrabble-tetris.json](./385944-scrabble-tetris.json) |
 | Scrabble: Champion Edition | 209016 | [209016-scrabble-champion-edition.json](./209016-scrabble-champion-edition.json) |
 | Scrabble: Deluxe Edition | 145290 | [145290-scrabble-deluxe-edition.json](./145290-scrabble-deluxe-edition.json) |
@@ -4409,6 +4411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Walker | 252726 | [252726-shadow-walker.json](./252726-shadow-walker.json) |
 | Shadow Walker | 291684 | [291684-shadow-walker.json](./291684-shadow-walker.json) |
 | Shadow Walls | 149933 | [149933-shadow-walls.json](./149933-shadow-walls.json) |
+| Shadow War | 191480 | [191480-shadow-war.json](./191480-shadow-war.json) |
 | Shadow Warren | 356631 | [356631-shadow-warren.json](./356631-shadow-warren.json) |
 | Shadow Warrior | 2947 | [2947-shadow-warrior.json](./2947-shadow-warrior.json) |
 | Shadow Warrior | 6057 | [6057-shadow-warrior.json](./6057-shadow-warrior.json) |
@@ -6552,6 +6555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sifu | 144022 | [144022-sifu.json](./144022-sifu.json) |
 | Sifu: Arenas | 240171 | [240171-sifu-arenas.json](./240171-sifu-arenas.json) |
 | Sifu: Deluxe Edition | 169165 | [169165-sifu-deluxe-edition.json](./169165-sifu-deluxe-edition.json) |
+| Sifu: Vengeance Edition | 191494 | [191494-sifu-vengeance-edition.json](./191494-sifu-vengeance-edition.json) |
 | Sifu's Quest | 371901 | [371901-sifus-quest.json](./371901-sifus-quest.json) |
 | Sifunight Fighters | 221711 | [221711-sifunight-fighters.json](./221711-sifunight-fighters.json) |
 | Sig | 103460 | [103460-sig.json](./103460-sig.json) |
@@ -7518,6 +7522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six in One Translator | 85086 | [85086-six-in-one-translator.json](./85086-six-in-one-translator.json) |
 | Six inches deep in mud | 278466 | [278466-six-inches-deep-in-mud.json](./278466-six-inches-deep-in-mud.json) |
 | Six Keys | 276394 | [276394-six-keys.json](./276394-six-keys.json) |
+| Six Legends | 191521 | [191521-six-legends.json](./191521-six-legends.json) |
 | Six Match | 82156 | [82156-six-match.json](./82156-six-match.json) |
 | Six Meat Under | 269209 | [269209-six-meat-under.json](./269209-six-meat-under.json) |
 | Six Micro Stories | 55837 | [55837-six-micro-stories.json](./55837-six-micro-stories.json) |
@@ -7844,6 +7849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skillwood | 284404 | [284404-skillwood.json](./284404-skillwood.json) |
 | Skillz: The DJ Game | 79213 | [79213-skillz-the-dj-game.json](./79213-skillz-the-dj-game.json) |
 | Skimmerz | 68758 | [68758-skimmerz.json](./68758-skimmerz.json) |
+| Skimming Canoe | 191516 | [191516-skimming-canoe.json](./191516-skimming-canoe.json) |
 | Skin & Bones | 135698 | [135698-skin-and-bones.json](./135698-skin-and-bones.json) |
 | Skin & Scales | 301422 | [301422-skin-and-scales.json](./301422-skin-and-scales.json) |
 | Skin Deep | 111061 | [111061-skin-deep.json](./111061-skin-deep.json) |
@@ -10178,6 +10184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Socialiskigrad | 406764 | [406764-socialiskigrad.json](./406764-socialiskigrad.json) |
 | Socialize | 182217 | [182217-socialize.json](./182217-socialize.json) |
 | Socialize | 189037 | [189037-socialize.json](./189037-socialize.json) |
+| Socialize: Poly | 191522 | [191522-socialize-poly.json](./191522-socialize-poly.json) |
 | Society's Paradigms | 152833 | [152833-societys-paradigms.json](./152833-societys-paradigms.json) |
 | Socioball | 128558 | [128558-socioball.json](./128558-socioball.json) |
 | Sociopath | 410211 | [410211-sociopath.json](./410211-sociopath.json) |
@@ -12158,6 +12165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Source Control | 62734 | [62734-source-control.json](./62734-source-control.json) |
 | Sourcelight RPG | 174282 | [174282-sourcelight-rpg.json](./174282-sourcelight-rpg.json) |
 | Sous Raccoon | 366299 | [366299-sous-raccoon.json](./366299-sous-raccoon.json) |
+| Sousaku Kanojo no Renai Koushiki | 191520 | [191520-sousaku-kanojo-no-renai-koushiki.json](./191520-sousaku-kanojo-no-renai-koushiki.json) |
 | Sousei no Mirage | 208240 | [208240-sousei-no-mirage.json](./208240-sousei-no-mirage.json) |
 | Sousei no Onmyouji | 122890 | [122890-sousei-no-onmyouji.json](./122890-sousei-no-onmyouji.json) |
 | Souseiki Gadget Robo | 137398 | [137398-souseiki-gadget-robo.json](./137398-souseiki-gadget-robo.json) |
@@ -14125,6 +14133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit City: Lofi Sessions - Winter Spirit Cosmetics Pack | 378591 | [378591-spirit-city-lofi-sessions-winter-spirit-cosmetics-pack.json](./378591-spirit-city-lofi-sessions-winter-spirit-cosmetics-pack.json) |
 | Spirit Cleaning | 151717 | [151717-spirit-cleaning.json](./151717-spirit-cleaning.json) |
 | Spirit Crossing | 336502 | [336502-spirit-crossing.json](./336502-spirit-crossing.json) |
+| Spirit Detective | 191490 | [191490-spirit-detective.json](./191490-spirit-detective.json) |
 | Spirit Drop | 334746 | [334746-spirit-drop.json](./334746-spirit-drop.json) |
 | Spirit Eyes | 211188 | [211188-spirit-eyes.json](./211188-spirit-eyes.json) |
 | Spirit Guardian | 392215 | [392215-spirit-guardian.json](./392215-spirit-guardian.json) |
@@ -15687,6 +15696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: 25th Anniversary | 147343 | [147343-star-trek-25th-anniversary.json](./147343-star-trek-25th-anniversary.json) |
 | Star Trek: 25th Anniversary | 2231 | [2231-star-trek-25th-anniversary.json](./2231-star-trek-25th-anniversary.json) |
 | Star Trek: Alien Domain | 23645 | [23645-star-trek-alien-domain.json](./23645-star-trek-alien-domain.json) |
+| Star Trek: Armada III | 191510 | [191510-star-trek-armada-iii.json](./191510-star-trek-armada-iii.json) |
 | Star Trek: Borg | 70345 | [70345-star-trek-borg.json](./70345-star-trek-borg.json) |
 | Star Trek: Bridge Commander | 9571 | [9571-star-trek-bridge-commander.json](./9571-star-trek-bridge-commander.json) |
 | Star Trek: Bridge Crew | 19519 | [19519-star-trek-bridge-crew.json](./19519-star-trek-bridge-crew.json) |
@@ -20091,6 +20101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Haste | 409791 | [409791-super-haste.json](./409791-super-haste.json) |
 | Super Haste: Debris DLC | 384296 | [384296-super-haste-debris-dlc.json](./384296-super-haste-debris-dlc.json) |
 | Super Head Esploder X | 87263 | [87263-super-head-esploder-x.json](./87263-super-head-esploder-x.json) |
+| Super Health Club | 191533 | [191533-super-health-club.json](./191533-super-health-club.json) |
 | Super Heavy Sword | 61134 | [61134-super-heavy-sword.json](./61134-super-heavy-sword.json) |
 | Super Helpful Man | 105288 | [105288-super-helpful-man.json](./105288-super-helpful-man.json) |
 | Super Hentai Racers | 208629 | [208629-super-hentai-racers.json](./208629-super-hentai-racers.json) |
