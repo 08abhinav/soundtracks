@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eek! The Cat | 42613 | [42613-eek-the-cat.json](./42613-eek-the-cat.json) |
 | EEK3 Virtual Show Floor | 145630 | [145630-eek3-virtual-show-floor.json](./145630-eek3-virtual-show-floor.json) |
 | Eel Game | 361295 | [361295-eel-game.json](./361295-eel-game.json) |
+| Eelah | 190893 | [190893-eelah.json](./190893-eelah.json) |
 | Een Wonderlijk Avontuur met Pardoes de Tovernar | 242643 | [242643-een-wonderlijk-avontuur-met-pardoes-de-tovernar.json](./242643-een-wonderlijk-avontuur-met-pardoes-de-tovernar.json) |
 | EEP Train Simulator Mission | 33266 | [33266-eep-train-simulator-mission.json](./33266-eep-train-simulator-mission.json) |
 | Eerie Desolation | 272772 | [272772-eerie-desolation.json](./272772-eerie-desolation.json) |
@@ -1299,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldritch Empathy | 314356 | [314356-eldritch-empathy.json](./314356-eldritch-empathy.json) |
 | Eldritch Exterminators | 264600 | [264600-eldritch-exterminators.json](./264600-eldritch-exterminators.json) |
 | Eldritch Hunter | 31653 | [31653-eldritch-hunter.json](./31653-eldritch-hunter.json) |
+| Eldritch Lands: The Witch Queen's Eternal War | 190899 | [190899-eldritch-lands-the-witch-queens-eternal-war.json](./190899-eldritch-lands-the-witch-queens-eternal-war.json) |
 | Eldritch Soul | 320839 | [320839-eldritch-soul.json](./320839-eldritch-soul.json) |
 | Eldritch Town | 258540 | [258540-eldritch-town.json](./258540-eldritch-town.json) |
 | Eldritch University | 121475 | [121475-eldritch-university.json](./121475-eldritch-university.json) |
