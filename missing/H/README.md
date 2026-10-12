@@ -838,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handycrafts for all | 60392 | [60392-handycrafts-for-all.json](./60392-handycrafts-for-all.json) |
 | Handyman | 117582 | [117582-handyman.json](./117582-handyman.json) |
 | Handyman | 216202 | [216202-handyman.json](./216202-handyman.json) |
+| Handyman Corporation | 190392 | [190392-handyman-corporation.json](./190392-handyman-corporation.json) |
 | Handyman Fantasy | 368078 | [368078-handyman-fantasy.json](./368078-handyman-fantasy.json) |
 | Handyman Legend | 220032 | [220032-handyman-legend.json](./220032-handyman-legend.json) |
 | Haneda Girl | 222901 | [222901-haneda-girl.json](./222901-haneda-girl.json) |
@@ -3582,11 +3583,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Here Nya | 108054 | [108054-here-nya.json](./108054-here-nya.json) |
 | Here There Be Bears | 247993 | [247993-here-there-be-bears.json](./247993-here-there-be-bears.json) |
 | Here They Lie | 19572 | [19572-here-they-lie.json](./19572-here-they-lie.json) |
+| Here to Stay | 190391 | [190391-here-to-stay.json](./190391-here-to-stay.json) |
 | Here to There | 204419 | [204419-here-to-there.json](./204419-here-to-there.json) |
 | Here We Exist | 262846 | [262846-here-we-exist.json](./262846-here-we-exist.json) |
 | Hereafter | 287147 | [287147-hereafter.json](./287147-hereafter.json) |
 | Hereafter | 47988 | [47988-hereafter.json](./47988-hereafter.json) |
 | Hereford 1642 | 190138 | [190138-hereford-1642.json](./190138-hereford-1642.json) |
+| Herency | 190406 | [190406-herency.json](./190406-herency.json) |
 | Heresis | 340465 | [340465-heresis.json](./340465-heresis.json) |
 | Heresy | 34240 | [34240-heresy.json](./34240-heresy.json) |
 | Heresy Simulator | 174125 | [174125-heresy-simulator.json](./174125-heresy-simulator.json) |
