@@ -3570,6 +3570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herbal Hunter | 294057 | [294057-herbal-hunter.json](./294057-herbal-hunter.json) |
 | Herbal Remedies | 266203 | [266203-herbal-remedies.json](./266203-herbal-remedies.json) |
 | Herbalist Simulator | 127826 | [127826-herbalist-simulator.json](./127826-herbalist-simulator.json) |
+| Herbert Crawler Post LD Edition | 180551 | [180551-herbert-crawler-post-ld-edition.json](./180551-herbert-crawler-post-ld-edition.json) |
 | Herbert's Dummy Run | 30217 | [30217-herberts-dummy-run.json](./30217-herberts-dummy-run.json) |
 | Herbheim's Mine | 188689 | [188689-herbheims-mine.json](./188689-herbheims-mine.json) |
 | Herbie at The Olympics | 40174 | [40174-herbie-at-the-olympics.json](./40174-herbie-at-the-olympics.json) |
