@@ -9193,6 +9193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Decay | 132771 | [132771-core-decay.json](./132771-core-decay.json) |
 | Core Defense | 127314 | [127314-core-defense.json](./127314-core-defense.json) |
 | Core Devourer | 235764 | [235764-core-devourer.json](./235764-core-devourer.json) |
+| Core Disruption | 194922 | [194922-core-disruption.json](./194922-core-disruption.json) |
 | Core Hustlers | 369034 | [369034-core-hustlers.json](./369034-core-hustlers.json) |
 | Core Keeper | 152127 | [152127-core-keeper.json](./152127-core-keeper.json) |
 | Core Keeper: Shimmering Frontier | 270197 | [270197-core-keeper-shimmering-frontier.json](./270197-core-keeper-shimmering-frontier.json) |
@@ -12803,6 +12804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Escape | 93793 | [93793-cyber-escape.json](./93793-cyber-escape.json) |
 | Cyber Evolution | 372988 | [372988-cyber-evolution.json](./372988-cyber-evolution.json) |
 | Cyber Factories | 156006 | [156006-cyber-factories.json](./156006-cyber-factories.json) |
+| Cyber Fight | 194916 | [194916-cyber-fight.json](./194916-cyber-fight.json) |
 | Cyber Flyer | 180580 | [180580-cyber-flyer.json](./180580-cyber-flyer.json) |
 | Cyber Girl 1.0: Booting | 154585 | [154585-cyber-girl-1-0-booting.json](./154585-cyber-girl-1-0-booting.json) |
 | Cyber Girls | 376754 | [376754-cyber-girls.json](./376754-cyber-girls.json) |
