@@ -1232,6 +1232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's World | 277577 | [277577-santas-world.json](./277577-santas-world.json) |
 | Santa's Xmas Adventure | 138194 | [138194-santas-xmas-adventure.json](./138194-santas-xmas-adventure.json) |
 | Santaclautchi | 229849 | [229849-santaclautchi.json](./229849-santaclautchi.json) |
+| SantaCorps: Snow Patrol | 210837 | [210837-santacorps-snow-patrol.json](./210837-santacorps-snow-patrol.json) |
 | SantaCraft | 141733 | [141733-santacraft.json](./141733-santacraft.json) |
 | SantaFly | 92838 | [92838-santafly.json](./92838-santafly.json) |
 | Santas Basement | 245808 | [245808-santas-basement.json](./245808-santas-basement.json) |
@@ -7622,6 +7623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleton Boomerang | 44177 | [44177-skeleton-boomerang.json](./44177-skeleton-boomerang.json) |
 | Skeleton Farmer | 364013 | [364013-skeleton-farmer.json](./364013-skeleton-farmer.json) |
 | Skeleton King | 163962 | [163962-skeleton-king.json](./163962-skeleton-king.json) |
+| Skeleton King | 210844 | [210844-skeleton-king.json](./210844-skeleton-king.json) |
 | Skeleton Messi | 293858 | [293858-skeleton-messi.json](./293858-skeleton-messi.json) |
 | Skeleton Quest | 415456 | [415456-skeleton-quest.json](./415456-skeleton-quest.json) |
 | Skeleton Sprint | 55675 | [55675-skeleton-sprint.json](./55675-skeleton-sprint.json) |
@@ -20297,6 +20299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. + | 316417 | [316417-super-mario-bros.json](./316417-super-mario-bros.json) |
 | Super Mario Bros. 0 | 345639 | [345639-super-mario-bros-0.json](./345639-super-mario-bros-0.json) |
 | Super Mario Bros. 2 | 222098 | [222098-super-mario-bros-2.json](./222098-super-mario-bros-2.json) |
+| Super Mario Bros. 2 Christmas Edition | 210839 | [210839-super-mario-bros-2-christmas-edition.json](./210839-super-mario-bros-2-christmas-edition.json) |
 | Super Mario Bros. 2 Deluxe | 321172 | [321172-super-mario-bros-2-deluxe.json](./321172-super-mario-bros-2-deluxe.json) |
 | Super Mario Bros. 2 Squared: Return to Subcon | 308376 | [308376-super-mario-bros-2-squared-return-to-subcon.json](./308376-super-mario-bros-2-squared-return-to-subcon.json) |
 | Super Mario Bros. 2: 2nd Run | 221365 | [221365-super-mario-bros-2-2nd-run.json](./221365-super-mario-bros-2-2nd-run.json) |
@@ -22631,6 +22634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword and Fairy 3 Ex | 369568 | [369568-sword-and-fairy-3-ex.json](./369568-sword-and-fairy-3-ex.json) |
 | Sword and Fairy Inn | 78048 | [78048-sword-and-fairy-inn.json](./78048-sword-and-fairy-inn.json) |
 | Sword and Fairy: Together Forever - Deluxe Edition | 285682 | [285682-sword-and-fairy-together-forever-deluxe-edition.json](./285682-sword-and-fairy-together-forever-deluxe-edition.json) |
+| Sword and Fairy: Together Forever - Premium Collector’s Edition | 210915 | [210915-sword-and-fairy-together-forever-premium-collector-s-edition.json](./210915-sword-and-fairy-together-forever-premium-collector-s-edition.json) |
 | Sword and Hammer: Hand of the King | 311706 | [311706-sword-and-hammer-hand-of-the-king.json](./311706-sword-and-hammer-hand-of-the-king.json) |
 | Sword and Plow | 305346 | [305346-sword-and-plow.json](./305346-sword-and-plow.json) |
 | Sword and Shield Idle | 296993 | [296993-sword-and-shield-idle.json](./296993-sword-and-shield-idle.json) |
