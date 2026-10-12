@@ -1406,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electroplankton Trapy | 85110 | [85110-electroplankton-trapy.json](./85110-electroplankton-trapy.json) |
 | Electroplankton Varvoice | 85109 | [85109-electroplankton-varvoice.json](./85109-electroplankton-varvoice.json) |
 | Elegant Sleuth: Mystic Family | 349311 | [349311-elegant-sleuth-mystic-family.json](./349311-elegant-sleuth-mystic-family.json) |
+| Elegos | 197069 | [197069-elegos.json](./197069-elegos.json) |
 | Elegy for Them Vigil | 315490 | [315490-elegy-for-them-vigil.json](./315490-elegy-for-them-vigil.json) |
 | Elegy of Fate | 305375 | [305375-elegy-of-fate.json](./305375-elegy-of-fate.json) |
 | Elektra | 94018 | [94018-elektra.json](./94018-elektra.json) |
@@ -1447,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Heroes: Blue Fighter 20th Level Set | 170439 | [170439-elemental-heroes-blue-fighter-20th-level-set.json](./170439-elemental-heroes-blue-fighter-20th-level-set.json) |
 | Elemental Knights R: Dark Arthur Premium Pack | 402925 | [402925-elemental-knights-r-dark-arthur-premium-pack.json](./402925-elemental-knights-r-dark-arthur-premium-pack.json) |
 | Elemental Labyrinth | 346622 | [346622-elemental-labyrinth.json](./346622-elemental-labyrinth.json) |
+| Elemental Land | 197097 | [197097-elemental-land.json](./197097-elemental-land.json) |
 | Elemental Mage Defense | 269269 | [269269-elemental-mage-defense.json](./269269-elemental-mage-defense.json) |
 | Elemental Magic Wars | 406228 | [406228-elemental-magic-wars.json](./406228-elemental-magic-wars.json) |
 | Elemental Master | 46218 | [46218-elemental-master.json](./46218-elemental-master.json) |
@@ -1687,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elliot Quest | 8596 | [8596-elliot-quest.json](./8596-elliot-quest.json) |
 | Elliot's Show Time | 344404 | [344404-elliots-show-time.json](./344404-elliots-show-time.json) |
 | Ellipsis | 19862 | [19862-ellipsis.json](./19862-ellipsis.json) |
+| Ellisar | 197072 | [197072-ellisar.json](./197072-ellisar.json) |
 | Ellixir's Dream | 348376 | [348376-ellixirs-dream.json](./348376-ellixirs-dream.json) |
 | EllrLand | 229801 | [229801-ellrland.json](./229801-ellrland.json) |
 | Ells Tales: Chairbound | 358388 | [358388-ells-tales-chairbound.json](./358388-ells-tales-chairbound.json) |
