@@ -763,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales From the Dark Manor | 414324 | [414324-tales-from-the-dark-manor.json](./414324-tales-from-the-dark-manor.json) |
 | Tales From The Dragon Mountain: The Strix | 17060 | [17060-tales-from-the-dragon-mountain-the-strix.json](./17060-tales-from-the-dragon-mountain-the-strix.json) |
 | Tales From the Herd | 277296 | [277296-tales-from-the-herd.json](./277296-tales-from-the-herd.json) |
+| Tales from the Outer Zone: Cyborg Seppuku | 182765 | [182765-tales-from-the-outer-zone-cyborg-seppuku.json](./182765-tales-from-the-outer-zone-cyborg-seppuku.json) |
 | Tales from the Outer Zone: Fleshworms | 230874 | [230874-tales-from-the-outer-zone-fleshworms.json](./230874-tales-from-the-outer-zone-fleshworms.json) |
 | Tales From The Outer Zone: The Construction | 230875 | [230875-tales-from-the-outer-zone-the-construction.json](./230875-tales-from-the-outer-zone-the-construction.json) |
 | Tales From The Outer Zone: The Goat Crone | 230876 | [230876-tales-from-the-outer-zone-the-goat-crone.json](./230876-tales-from-the-outer-zone-the-goat-crone.json) |
@@ -3537,6 +3538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 13th Floor | 356709 | [356709-the-13th-floor.json](./356709-the-13th-floor.json) |
 | The 13th Heir - Ragnarok Chapter 2 | 76503 | [76503-the-13th-heir-ragnarok-chapter-2.json](./76503-the-13th-heir-ragnarok-chapter-2.json) |
 | The 13th Month | 166148 | [166148-the-13th-month.json](./166148-the-13th-month.json) |
+| The 1485 | 182751 | [182751-the-1485.json](./182751-the-1485.json) |
 | The 18th Attic | 346707 | [346707-the-18th-attic.json](./346707-the-18th-attic.json) |
 | The 2018 Fantastic Arcade Bundle | 267967 | [267967-the-2018-fantastic-arcade-bundle.json](./267967-the-2018-fantastic-arcade-bundle.json) |
 | The 2020 Trail | 157151 | [157151-the-2020-trail.json](./157151-the-2020-trail.json) |
@@ -3761,6 +3763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Albatross | 29728 | [29728-the-albatross.json](./29728-the-albatross.json) |
 | The Albino Hunter: Revamp | 392411 | [392411-the-albino-hunter-revamp.json](./392411-the-albino-hunter-revamp.json) |
 | The Alchemist | 178474 | [178474-the-alchemist.json](./178474-the-alchemist.json) |
+| The Alchemist | 182756 | [182756-the-alchemist.json](./182756-the-alchemist.json) |
 | The Alchemist | 207373 | [207373-the-alchemist.json](./207373-the-alchemist.json) |
 | The Alchemist | 306992 | [306992-the-alchemist.json](./306992-the-alchemist.json) |
 | The Alchemist & His Battle-Scarred Homunculus | 315048 | [315048-the-alchemist-and-his-battle-scarred-homunculus.json](./315048-the-alchemist-and-his-battle-scarred-homunculus.json) |
@@ -17584,6 +17587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Stacker | 166613 | [166613-tower-stacker.json](./166613-tower-stacker.json) |
 | Tower Survivor | 238616 | [238616-tower-survivor.json](./238616-tower-survivor.json) |
 | Tower Survivors | 216444 | [216444-tower-survivors.json](./216444-tower-survivors.json) |
+| Tower Swap | 182748 | [182748-tower-swap.json](./182748-tower-swap.json) |
 | Tower Tactics Arena | 285534 | [285534-tower-tactics-arena.json](./285534-tower-tactics-arena.json) |
 | Tower Tactics: Astral Siege | 336624 | [336624-tower-tactics-astral-siege.json](./336624-tower-tactics-astral-siege.json) |
 | Tower to Heaven | 173313 | [173313-tower-to-heaven.json](./173313-tower-to-heaven.json) |
@@ -18118,6 +18122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trails in the Sky 2nd Chapter | 377314 | [377314-trails-in-the-sky-2nd-chapter.json](./377314-trails-in-the-sky-2nd-chapter.json) |
 | Trails of Illusion | 197951 | [197951-trails-of-illusion.json](./197951-trails-of-illusion.json) |
 | Trails of Sunder | 241077 | [241077-trails-of-sunder.json](./241077-trails-of-sunder.json) |
+| Trails of Tenere | 182791 | [182791-trails-of-tenere.json](./182791-trails-of-tenere.json) |
 | Trails of the Ancestors | 212828 | [212828-trails-of-the-ancestors.json](./212828-trails-of-the-ancestors.json) |
 | Trails of the Black Sun | 123953 | [123953-trails-of-the-black-sun.json](./123953-trails-of-the-black-sun.json) |
 | Train and Rail Yard Simulator | 266252 | [266252-train-and-rail-yard-simulator.json](./266252-train-and-rail-yard-simulator.json) |
@@ -19160,6 +19165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transcender | 140484 | [140484-transcender.json](./140484-transcender.json) |
 | Transcender Starship | 118767 | [118767-transcender-starship.json](./118767-transcender-starship.json) |
 | Transcontinental | 328281 | [328281-transcontinental.json](./328281-transcontinental.json) |
+| Transfer | 182769 | [182769-transfer.json](./182769-transfer.json) |
 | Transfer of Essence | 156031 | [156031-transfer-of-essence.json](./156031-transfer-of-essence.json) |
 | Transformation Tycoon | 192646 | [192646-transformation-tycoon.json](./192646-transformation-tycoon.json) |
 | Transformers | 241501 | [241501-transformers.json](./241501-transformers.json) |
