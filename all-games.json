@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T20:55:13.827Z",
-  "total_soundtracks": 1559,
+  "generated_at": "2026-10-12T21:10:15.186Z",
+  "total_soundtracks": 1560,
   "games": [
     {
       "igdb_id": 7522,
@@ -16405,6 +16405,20 @@
           "spotify_url": "https://open.spotify.com/album/6yBzSepSD88lrLHMdbe13w",
           "apple_music_url": "https://music.apple.com/us/album/trials-fusion-original-game-soundtrack/1593702644",
           "album_link_url": "https://album.link/i/1593702644"
+        }
+      ]
+    },
+    {
+      "igdb_id": 21623,
+      "game_name": "Tricky Towers",
+      "game_url": "https://ostdb.net/games/tricky-towers",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273153637023256e2eb2b279766",
+      "albums": [
+        {
+          "album_name": "Tricky Towers (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3yjePls8vQNOtoqCKHFGk5",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
