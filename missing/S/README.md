@@ -970,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanae's Sylphid Breeze | 300377 | [300377-sanaes-sylphid-breeze.json](./300377-sanaes-sylphid-breeze.json) |
 | Sanalika | 180296 | [180296-sanalika.json](./180296-sanalika.json) |
 | Sanasana | 411754 | [411754-sanasana.json](./411754-sanasana.json) |
+| Sanator: Elmo's Legacy | 197090 | [197090-sanator-elmos-legacy.json](./197090-sanator-elmos-legacy.json) |
 | Sanator: Scarlet Scarf | 113006 | [113006-sanator-scarlet-scarf.json](./113006-sanator-scarlet-scarf.json) |
 | Sanatorium | 375324 | [375324-sanatorium.json](./375324-sanatorium.json) |
 | Sanatorium | 64722 | [64722-sanatorium.json](./64722-sanatorium.json) |
@@ -1341,6 +1342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satan's Dungeon | 329593 | [329593-satans-dungeon.json](./329593-satans-dungeon.json) |
 | Satan's Hollow | 18843 | [18843-satans-hollow.json](./18843-satans-hollow.json) |
 | Satan's Pepper | 274183 | [274183-satans-pepper.json](./274183-satans-pepper.json) |
+| Satan's Puzzle 2 | 197071 | [197071-satans-puzzle-2.json](./197071-satans-puzzle-2.json) |
 | Satan's Zombies | 233230 | [233230-satans-zombies.json](./233230-satans-zombies.json) |
 | Satanic | 320733 | [320733-satanic.json](./320733-satanic.json) |
 | Satanic Panic 666 | 159779 | [159779-satanic-panic-666.json](./159779-satanic-panic-666.json) |
@@ -2578,6 +2580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Brave: Aidan Adventure | 270125 | [270125-sea-of-brave-aidan-adventure.json](./270125-sea-of-brave-aidan-adventure.json) |
 | Sea of Brave: Beast Island | 303082 | [303082-sea-of-brave-beast-island.json](./303082-sea-of-brave-beast-island.json) |
 | Sea of Change | 302373 | [302373-sea-of-change.json](./302373-sea-of-change.json) |
+| Sea of Choices | 197095 | [197095-sea-of-choices.json](./197095-sea-of-choices.json) |
 | Sea of Dawn | 167674 | [167674-sea-of-dawn.json](./167674-sea-of-dawn.json) |
 | Sea of Dreamland | 48322 | [48322-sea-of-dreamland.json](./48322-sea-of-dreamland.json) |
 | Sea of Dreams | 195487 | [195487-sea-of-dreams.json](./195487-sea-of-dreams.json) |
@@ -3603,6 +3606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentris | 17445 | [17445-sentris.json](./17445-sentris.json) |
 | Sentry | 172054 | [172054-sentry.json](./172054-sentry.json) |
 | Sentry | 218164 | [218164-sentry.json](./218164-sentry.json) |
+| Sentry City | 197082 | [197082-sentry-city.json](./197082-sentry-city.json) |
 | Sentry Knight Tactics | 24824 | [24824-sentry-knight-tactics.json](./24824-sentry-knight-tactics.json) |
 | Sentry: Obelisk of Dawn | 152898 | [152898-sentry-obelisk-of-dawn.json](./152898-sentry-obelisk-of-dawn.json) |
 | Senua | 405072 | [405072-senua.json](./405072-senua.json) |
@@ -7424,6 +7428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siren's Serenade | 179529 | [179529-sirens-serenade.json](./179529-sirens-serenade.json) |
 | Sirène | 310975 | [310975-sirene.json](./310975-sirene.json) |
 | Sirenhead | 135760 | [135760-sirenhead.json](./135760-sirenhead.json) |
+| Sirenhead: Southpoint | 197060 | [197060-sirenhead-southpoint.json](./197060-sirenhead-southpoint.json) |
 | Sirenum | 255638 | [255638-sirenum.json](./255638-sirenum.json) |
 | Sirin's Feather | 399899 | [399899-sirins-feather.json](./399899-sirins-feather.json) |
 | Sirius 7 | 93516 | [93516-sirius-7.json](./93516-sirius-7.json) |
@@ -8277,6 +8282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slap The King | 290552 | [290552-slap-the-king.json](./290552-slap-the-king.json) |
 | Slap the Rocks | 176884 | [176884-slap-the-rocks.json](./176884-slap-the-rocks.json) |
 | Slap Village: Reality Slap | 27399 | [27399-slap-village-reality-slap.json](./27399-slap-village-reality-slap.json) |
+| Slap-It Together! | 197057 | [197057-slap-it-together.json](./197057-slap-it-together.json) |
 | Slap-Shot! Hockey | 95424 | [95424-slap-shot-hockey.json](./95424-slap-shot-hockey.json) |
 | Slapdash | 240368 | [240368-slapdash.json](./240368-slapdash.json) |
 | SlapGains | 413671 | [413671-slapgains.json](./413671-slapgains.json) |
@@ -15018,6 +15024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirreled Away | 314650 | [314650-squirreled-away.json](./314650-squirreled-away.json) |
 | Squirreled Away | 326713 | [326713-squirreled-away.json](./326713-squirreled-away.json) |
 | Squirrelmageddon! | 156548 | [156548-squirrelmageddon.json](./156548-squirrelmageddon.json) |
+| Squirrels are going nuts | 197062 | [197062-squirrels-are-going-nuts.json](./197062-squirrels-are-going-nuts.json) |
 | Squirrels Gone Nuts | 290551 | [290551-squirrels-gone-nuts.json](./290551-squirrels-gone-nuts.json) |
 | Squirreltopia | 36132 | [36132-squirreltopia.json](./36132-squirreltopia.json) |
 | Squish | 342865 | [342865-squish.json](./342865-squish.json) |
@@ -15433,6 +15440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ixiom | 94357 | [94357-star-ixiom.json](./94357-star-ixiom.json) |
 | Star Jacker | 6140 | [6140-star-jacker.json](./6140-star-jacker.json) |
 | Star Jammer | 366123 | [366123-star-jammer.json](./366123-star-jammer.json) |
+| Star Jet Alpha | 197055 | [197055-star-jet-alpha.json](./197055-star-jet-alpha.json) |
 | Star Jolt | 127960 | [127960-star-jolt.json](./127960-star-jolt.json) |
 | Star Keeper | 255251 | [255251-star-keeper.json](./255251-star-keeper.json) |
 | Star Knight | 46756 | [46756-star-knight.json](./46756-star-knight.json) |
@@ -15974,6 +15982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starcross Arena | 111901 | [111901-starcross-arena.json](./111901-starcross-arena.json) |
 | StarCrossed | 28770 | [28770-starcrossed.json](./28770-starcrossed.json) |
 | Starcult. Night: Twisted Age | 402990 | [402990-starcult-night-twisted-age.json](./402990-starcult-night-twisted-age.json) |
+| Stardander School for Witches | 197061 | [197061-stardander-school-for-witches.json](./197061-stardander-school-for-witches.json) |
 | Stardash | 147628 | [147628-stardash.json](./147628-stardash.json) |
 | Stardeus | 139453 | [139453-stardeus.json](./139453-stardeus.json) |
 | Stardew Valley Expanded | 210537 | [210537-stardew-valley-expanded.json](./210537-stardew-valley-expanded.json) |
