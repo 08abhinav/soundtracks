@@ -545,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaperfahrt | 414347 | [414347-kaperfahrt.json](./414347-kaperfahrt.json) |
 | Kapi Hospital | 260739 | [260739-kapi-hospital.json](./260739-kapi-hospital.json) |
 | Kapih | 332262 | [332262-kapih.json](./332262-kapih.json) |
+| Kapital13 | 199299 | [199299-kapital13.json](./199299-kapital13.json) |
 | Kapitan Pronin: Odin protiv vseh | 202199 | [202199-kapitan-pronin-odin-protiv-vseh.json](./202199-kapitan-pronin-odin-protiv-vseh.json) |
 | Kapka The Game | 416014 | [416014-kapka-the-game.json](./416014-kapka-the-game.json) |
 | Kappa Nittori-chan | 205790 | [205790-kappa-nittori-chan.json](./205790-kappa-nittori-chan.json) |
