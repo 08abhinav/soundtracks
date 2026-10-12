@@ -3795,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matterhorn Mirka | 179540 | [179540-matterhorn-mirka.json](./179540-matterhorn-mirka.json) |
 | Matthew: Last Journey | 152808 | [152808-matthew-last-journey.json](./152808-matthew-last-journey.json) |
 | Matthias Sammer Soccer | 49101 | [49101-matthias-sammer-soccer.json](./49101-matthias-sammer-soccer.json) |
+| Matthiola Reverie Verse: Lost Island | 204819 | [204819-matthiola-reverie-verse-lost-island.json](./204819-matthiola-reverie-verse-lost-island.json) |
 | Matts & the Metamagicians | 181684 | [181684-matts-and-the-metamagicians.json](./181684-matts-and-the-metamagicians.json) |
 | Matts Project Z Endless | 149581 | [149581-matts-project-z-endless.json](./149581-matts-project-z-endless.json) |
 | Mattyflexx’s Pokeslots | 390708 | [390708-mattyflexx-s-pokeslots.json](./390708-mattyflexx-s-pokeslots.json) |
@@ -11201,6 +11202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother 25th Anniversary Edition | 48561 | [48561-mother-25th-anniversary-edition.json](./48561-mother-25th-anniversary-edition.json) |
 | Mother 3 | 3683 | [3683-mother-3.json](./3683-mother-3.json) |
 | Mother 3: Claus's Journey | 173093 | [173093-mother-3-clauss-journey.json](./173093-mother-3-clauss-journey.json) |
+| Mother 3: Opposing Force | 204861 | [204861-mother-3-opposing-force.json](./204861-mother-3-opposing-force.json) |
 | Mother 3.5 | 310951 | [310951-mother-3-5.json](./310951-mother-3-5.json) |
 | Mother 4 | 186042 | [186042-mother-4.json](./186042-mother-4.json) |
 | Mother 4 | 300351 | [300351-mother-4.json](./300351-mother-4.json) |
