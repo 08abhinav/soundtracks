@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maboroshi Tsukiyo | 128379 | [128379-maboroshi-tsukiyo.json](./128379-maboroshi-tsukiyo.json) |
 | Maboshi's Arcade | 21788 | [21788-maboshis-arcade.json](./21788-maboshis-arcade.json) |
 | Mabus 3000 | 245781 | [245781-mabus-3000.json](./245781-mabus-3000.json) |
+| Macabre | 201488 | [201488-macabre.json](./201488-macabre.json) |
 | Macabre no Zantou: Remnants of the Macabre | 309363 | [309363-macabre-no-zantou-remnants-of-the-macabre.json](./309363-macabre-no-zantou-remnants-of-the-macabre.json) |
 | Macadam: Futari Yogari | 66125 | [66125-macadam-futari-yogari.json](./66125-macadam-futari-yogari.json) |
 | Macaroni Houren-sou Interactive | 234183 | [234183-macaroni-houren-sou-interactive.json](./234183-macaroni-houren-sou-interactive.json) |
@@ -3832,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mawaranu Hoshi no Stellarium | 358343 | [358343-mawaranu-hoshi-no-stellarium.json](./358343-mawaranu-hoshi-no-stellarium.json) |
 | Mawaskes | 45999 | [45999-mawaskes.json](./45999-mawaskes.json) |
 | Mawkey The Last Macaw | 358950 | [358950-mawkey-the-last-macaw.json](./358950-mawkey-the-last-macaw.json) |
+| Mawthorne | 201504 | [201504-mawthorne.json](./201504-mawthorne.json) |
 | Mawthorne 2 | 382210 | [382210-mawthorne-2.json](./382210-mawthorne-2.json) |
 | Max & the Magic Marker | 248557 | [248557-max-and-the-magic-marker.json](./248557-max-and-the-magic-marker.json) |
 | Max & the Magic Marker | 5000 | [5000-max-and-the-magic-marker.json](./5000-max-and-the-magic-marker.json) |
@@ -8675,6 +8677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Bellevue Never Heard the Whistle | 362961 | [362961-miss-bellevue-never-heard-the-whistle.json](./362961-miss-bellevue-never-heard-the-whistle.json) |
 | Miss Bingo | 215307 | [215307-miss-bingo.json](./215307-miss-bingo.json) |
 | Miss Bullard's School for Former Ladies | 184058 | [184058-miss-bullards-school-for-former-ladies.json](./184058-miss-bullards-school-for-former-ladies.json) |
+| Miss Cecilia | 201475 | [201475-miss-cecilia.json](./201475-miss-cecilia.json) |
 | Miss Chic Business | 54236 | [54236-miss-chic-business.json](./54236-miss-chic-business.json) |
 | Miss Chic Romantic | 54235 | [54235-miss-chic-romantic.json](./54235-miss-chic-romantic.json) |
 | Miss Chocolate Eater | 304259 | [304259-miss-chocolate-eater.json](./304259-miss-chocolate-eater.json) |
