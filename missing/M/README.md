@@ -1977,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maniac Jackson and the Moonwalking Mindbenders | 93035 | [93035-maniac-jackson-and-the-moonwalking-mindbenders.json](./93035-maniac-jackson-and-the-moonwalking-mindbenders.json) |
 | Maniac Mansion | 307416 | [307416-maniac-mansion.json](./307416-maniac-mansion.json) |
 | Maniac Mansion 4 Blood | 276381 | [276381-maniac-mansion-4-blood.json](./276381-maniac-mansion-4-blood.json) |
+| Maniac Mansion Deluxe | 198173 | [198173-maniac-mansion-deluxe.json](./198173-maniac-mansion-deluxe.json) |
 | Maniac Mansion Mania | 279026 | [279026-maniac-mansion-mania.json](./279026-maniac-mansion-mania.json) |
 | Maniac Mole | 66937 | [66937-maniac-mole.json](./66937-maniac-mole.json) |
 | Maniac Outhouse | 301441 | [301441-maniac-outhouse.json](./301441-maniac-outhouse.json) |
@@ -3957,6 +3958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maya Fey: Medium Attorney | 309971 | [309971-maya-fey-medium-attorney.json](./309971-maya-fey-medium-attorney.json) |
 | Maya Fey's Borger Eating Simulator | 302645 | [302645-maya-feys-borger-eating-simulator.json](./302645-maya-feys-borger-eating-simulator.json) |
 | Maya Prophecy | 291913 | [291913-maya-prophecy.json](./291913-maya-prophecy.json) |
+| Maya the Bee: Garden Adventures | 198181 | [198181-maya-the-bee-garden-adventures.json](./198181-maya-the-bee-garden-adventures.json) |
 | Maya the Bee: Sweet Gold | 49328 | [49328-maya-the-bee-sweet-gold.json](./49328-maya-the-bee-sweet-gold.json) |
 | Maya the Bee: The Great Adventure | 49327 | [49327-maya-the-bee-the-great-adventure.json](./49327-maya-the-bee-the-great-adventure.json) |
 | Maya the Bee: What a Thunderstorm | 71035 | [71035-maya-the-bee-what-a-thunderstorm.json](./71035-maya-the-bee-what-a-thunderstorm.json) |
@@ -13586,6 +13588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Universe: Cooking Star Restaurant | 139863 | [139863-my-universe-cooking-star-restaurant.json](./139863-my-universe-cooking-star-restaurant.json) |
 | My Universe: Doctors & Nurses | 169234 | [169234-my-universe-doctors-and-nurses.json](./169234-my-universe-doctors-and-nurses.json) |
 | My Universe: Fashion Boutique | 139215 | [139215-my-universe-fashion-boutique.json](./139215-my-universe-fashion-boutique.json) |
+| My Universe: Green Adventure - Farmer Friends | 198130 | [198130-my-universe-green-adventure-farmer-friends.json](./198130-my-universe-green-adventure-farmer-friends.json) |
 | My Universe: Interior Designer | 169235 | [169235-my-universe-interior-designer.json](./169235-my-universe-interior-designer.json) |
 | My Universe: My Baby - New Edition | 170028 | [170028-my-universe-my-baby-new-edition.json](./170028-my-universe-my-baby-new-edition.json) |
 | My Universe: Pet Clinic - Cats & Dogs | 139835 | [139835-my-universe-pet-clinic-cats-and-dogs.json](./139835-my-universe-pet-clinic-cats-and-dogs.json) |
