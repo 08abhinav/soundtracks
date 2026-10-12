@@ -4186,6 +4186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Royal | 142699 | [142699-chess-royal.json](./142699-chess-royal.json) |
 | Chess Royale | 330918 | [330918-chess-royale.json](./330918-chess-royale.json) |
 | Chess Rush | 122963 | [122963-chess-rush.json](./122963-chess-rush.json) |
+| Chess Survivors | 211384 | [211384-chess-survivors.json](./211384-chess-survivors.json) |
 | Chess Titans | 26679 | [26679-chess-titans.json](./26679-chess-titans.json) |
 | Chess Twist | 284967 | [284967-chess-twist.json](./284967-chess-twist.json) |
 | Chess Undress | 260338 | [260338-chess-undress.json](./260338-chess-undress.json) |
@@ -10760,6 +10761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creta | 318538 | [318538-creta.json](./318538-creta.json) |
 | Cretaceous Carnage | 146803 | [146803-cretaceous-carnage.json](./146803-cretaceous-carnage.json) |
 | Cretaceous Crunch | 380761 | [380761-cretaceous-crunch.json](./380761-cretaceous-crunch.json) |
+| Crete | 211383 | [211383-crete.json](./211383-crete.json) |
 | Crevis | 59413 | [59413-crevis.json](./59413-crevis.json) |
 | Crew Crew Blocks | 150162 | [150162-crew-crew-blocks.json](./150162-crew-crew-blocks.json) |
 | Crewed | 402465 | [402465-crewed.json](./402465-crewed.json) |
