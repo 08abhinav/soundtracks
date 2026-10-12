@@ -5150,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiryuu no Ken Densetsu GB: SD Version | 351574 | [351574-hiryuu-no-ken-densetsu-gb-sd-version.json](./351574-hiryuu-no-ken-densetsu-gb-sd-version.json) |
 | Hiryuu no Ken II: Dragon no Tsubasa | 64447 | [64447-hiryuu-no-ken-ii-dragon-no-tsubasa.json](./64447-hiryuu-no-ken-ii-dragon-no-tsubasa.json) |
 | Hiryuu no Ken III: Go-nin no Ryuu Senshi | 61161 | [61161-hiryuu-no-ken-iii-go-nin-no-ryuu-senshi.json](./61161-hiryuu-no-ken-iii-go-nin-no-ryuu-senshi.json) |
+| Hiryuu no Ken Retsuden GB | 186591 | [186591-hiryuu-no-ken-retsuden-gb.json](./186591-hiryuu-no-ken-retsuden-gb.json) |
 | Hiryuu no Ken Special: Fighting Wars | 63936 | [63936-hiryuu-no-ken-special-fighting-wars.json](./63936-hiryuu-no-ken-special-fighting-wars.json) |
 | Hiryuu no Ken Stadium DD: Real Version | 351573 | [351573-hiryuu-no-ken-stadium-dd-real-version.json](./351573-hiryuu-no-ken-stadium-dd-real-version.json) |
 | Hiryuu no Ken Stadium DD: SD Version | 351571 | [351571-hiryuu-no-ken-stadium-dd-sd-version.json](./351571-hiryuu-no-ken-stadium-dd-sd-version.json) |
