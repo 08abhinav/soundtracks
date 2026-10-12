@@ -4590,7 +4590,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorn | 41047 | [41047-gorn.json](./41047-gorn.json) |
 | Gorn 2 | 333676 | [333676-gorn-2.json](./333676-gorn-2.json) |
 | Goro 2 | 74655 | [74655-goro-2.json](./74655-goro-2.json) |
-| Gorogoa | 9136 | [9136-gorogoa.json](./9136-gorogoa.json) |
 | Goronyan Puzzle: Nyanpi | 243267 | [243267-goronyan-puzzle-nyanpi.json](./243267-goronyan-puzzle-nyanpi.json) |
 | Gorytale | 111798 | [111798-gorytale.json](./111798-gorytale.json) |
 | Goryuujin Electro | 384780 | [384780-goryuujin-electro.json](./384780-goryuujin-electro.json) |
