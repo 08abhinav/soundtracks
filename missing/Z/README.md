@@ -1457,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zotrix Starglider | 147263 | [147263-zotrix-starglider.json](./147263-zotrix-starglider.json) |
 | Zotto suru Kowai Toshi Densetsu | 252406 | [252406-zotto-suru-kowai-toshi-densetsu.json](./252406-zotto-suru-kowai-toshi-densetsu.json) |
 | Zoul Dungeon | 316677 | [316677-zoul-dungeon.json](./316677-zoul-dungeon.json) |
+| ZOZ: Final Hour | 204210 | [204210-zoz-final-hour.json](./204210-zoz-final-hour.json) |
 | Zozo and the Lost Dreams | 369087 | [369087-zozo-and-the-lost-dreams.json](./369087-zozo-and-the-lost-dreams.json) |
 | Zozo's Show | 337749 | [337749-zozos-show.json](./337749-zozos-show.json) |
 | ZP2K9 | 78354 | [78354-zp2k9.json](./78354-zp2k9.json) |
