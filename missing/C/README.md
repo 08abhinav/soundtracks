@@ -2667,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch The Rabbit | 348244 | [348244-catch-the-rabbit.json](./348244-catch-the-rabbit.json) |
 | Catch the Rhythm | 339790 | [339790-catch-the-rhythm.json](./339790-catch-the-rhythm.json) |
 | Catch the Sperm | 319974 | [319974-catch-the-sperm.json](./319974-catch-the-sperm.json) |
+| Catch the thief | 202011 | [202011-catch-the-thief.json](./202011-catch-the-thief.json) |
 | Catch the Turtle | 410230 | [410230-catch-the-turtle.json](./410230-catch-the-turtle.json) |
 | Catch the Vandal | 298278 | [298278-catch-the-vandal.json](./298278-catch-the-vandal.json) |
 | Catch the Wally - Hide & Seek | 108247 | [108247-catch-the-wally-hide-and-seek.json](./108247-catch-the-wally-hide-and-seek.json) |
@@ -3376,6 +3377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Crisis | 271288 | [271288-chain-crisis.json](./271288-chain-crisis.json) |
 | Chain Crusher | 124771 | [124771-chain-crusher.json](./124771-chain-crusher.json) |
 | Chain Fury | 181756 | [181756-chain-fury.json](./181756-chain-fury.json) |
+| Chain Gun | 202033 | [202033-chain-gun.json](./202033-chain-gun.json) |
 | Chain Ninja | 243577 | [243577-chain-ninja.json](./243577-chain-ninja.json) |
 | Chain of Eroticism | 163400 | [163400-chain-of-eroticism.json](./163400-chain-of-eroticism.json) |
 | Chain Quest | 200106 | [200106-chain-quest.json](./200106-chain-quest.json) |
@@ -4621,6 +4623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimparty | 103404 | [103404-chimparty.json](./103404-chimparty.json) |
 | Chimpuzzle Pro | 84574 | [84574-chimpuzzle-pro.json](./84574-chimpuzzle-pro.json) |
 | Chimpy Chippa's: The Game | 284568 | [284568-chimpy-chippas-the-game.json](./284568-chimpy-chippas-the-game.json) |
+| Chin chin | 202024 | [202024-chin-chin.json](./202024-chin-chin.json) |
 | China Crisis | 280463 | [280463-china-crisis.json](./280463-china-crisis.json) |
 | China Miner | 13828 | [13828-china-miner.json](./13828-china-miner.json) |
 | China Syndrome | 18554 | [18554-china-syndrome.json](./18554-china-syndrome.json) |
@@ -7163,6 +7166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Factory Idle: Money Games | 249312 | [249312-coin-factory-idle-money-games.json](./249312-coin-factory-idle-money-games.json) |
 | Coin Flipper | 219741 | [219741-coin-flipper.json](./219741-coin-flipper.json) |
 | Coin Grid | 221374 | [221374-coin-grid.json](./221374-coin-grid.json) |
+| Coin Hound Lounge | 202015 | [202015-coin-hound-lounge.json](./202015-coin-hound-lounge.json) |
 | Coin Hunter | 331678 | [331678-coin-hunter.json](./331678-coin-hunter.json) |
 | Coin Jar | 291742 | [291742-coin-jar.json](./291742-coin-jar.json) |
 | Coin Master | 87020 | [87020-coin-master.json](./87020-coin-master.json) |
@@ -8156,6 +8160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Compact Cyber Arcade: Ultimate Spider-Man | 277799 | [277799-compact-cyber-arcade-ultimate-spider-man.json](./277799-compact-cyber-arcade-ultimate-spider-man.json) |
 | Compadrone: Land Wars | 360761 | [360761-compadrone-land-wars.json](./360761-compadrone-land-wars.json) |
 | Companion | 30884 | [30884-companion.json](./30884-companion.json) |
+| Companion Monster | 202004 | [202004-companion-monster.json](./202004-companion-monster.json) |
 | Companion of Darkness | 342630 | [342630-companion-of-darkness.json](./342630-companion-of-darkness.json) |
 | Companions of Xanth | 12412 | [12412-companions-of-xanth.json](./12412-companions-of-xanth.json) |
 | Company is Watching | 401498 | [401498-company-is-watching.json](./401498-company-is-watching.json) |
@@ -8183,6 +8188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes 3: Hammer & Shield | 277019 | [277019-company-of-heroes-3-hammer-and-shield.json](./277019-company-of-heroes-3-hammer-and-shield.json) |
 | Company of Heroes 3: Hammer & Shield Battlegroup Pack | 400401 | [400401-company-of-heroes-3-hammer-and-shield-battlegroup-pack.json](./400401-company-of-heroes-3-hammer-and-shield-battlegroup-pack.json) |
 | Company of Heroes 3: Premium Edition | 210916 | [210916-company-of-heroes-3-premium-edition.json](./210916-company-of-heroes-3-premium-edition.json) |
+| Company of Heroes Collection | 202052 | [202052-company-of-heroes-collection.json](./202052-company-of-heroes-collection.json) |
 | Company of Heroes Online | 77294 | [77294-company-of-heroes-online.json](./77294-company-of-heroes-online.json) |
 | Company of Heroes: Anthology | 207013 | [207013-company-of-heroes-anthology.json](./207013-company-of-heroes-anthology.json) |
 | Company of Heroes: Back to Basics | 154580 | [154580-company-of-heroes-back-to-basics.json](./154580-company-of-heroes-back-to-basics.json) |
@@ -10117,6 +10123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crank that Clicker | 280138 | [280138-crank-that-clicker.json](./280138-crank-that-clicker.json) |
 | Crank the Weasel | 65481 | [65481-crank-the-weasel.json](./65481-crank-the-weasel.json) |
 | Crank Tower Defense | 347140 | [347140-crank-tower-defense.json](./347140-crank-tower-defense.json) |
+| Crank-A-Sketch | 202025 | [202025-crank-a-sketch.json](./202025-crank-a-sketch.json) |
 | Crank! Push! Tilt! | 243697 | [243697-crank-push-tilt.json](./243697-crank-push-tilt.json) |
 | CrankCore Incremental | 413211 | [413211-crankcore-incremental.json](./413211-crankcore-incremental.json) |
 | Cranked | 354951 | [354951-cranked.json](./354951-cranked.json) |
@@ -11705,6 +11712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypto Rush | 338260 | [338260-crypto-rush.json](./338260-crypto-rush.json) |
 | Crypto Trading Simulator | 407374 | [407374-crypto-trading-simulator.json](./407374-crypto-trading-simulator.json) |
 | Crypto Tycoon | 189021 | [189021-crypto-tycoon.json](./189021-crypto-tycoon.json) |
+| Crypto Unicorns | 202053 | [202053-crypto-unicorns.json](./202053-crypto-unicorns.json) |
 | Crypto-Fascist | 364561 | [364561-crypto-fascist.json](./364561-crypto-fascist.json) |
 | Crypto-Shots | 221844 | [221844-crypto-shots.json](./221844-crypto-shots.json) |
 | Cryptobots | 224144 | [224144-cryptobots.json](./224144-cryptobots.json) |
