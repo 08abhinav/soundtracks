@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T16:34:59.187Z",
-  "total_missing": 202555,
+  "generated_at": "2026-10-12T16:49:17.717Z",
+  "total_missing": 202605,
   "games": [
     {
       "igdb_id": 191680,
@@ -17113,6 +17113,11 @@
       "file": "missing/A/271667-abyss-manager-idle.json"
     },
     {
+      "igdb_id": 192081,
+      "game_name": "Abyss Memory Fallen Angel and the Path of Magic",
+      "file": "missing/A/192081-abyss-memory-fallen-angel-and-the-path-of-magic.json"
+    },
+    {
       "igdb_id": 14414,
       "game_name": "Abyss Odyssey",
       "file": "missing/A/14414-abyss-odyssey.json"
@@ -20121,6 +20126,11 @@
       "igdb_id": 150585,
       "game_name": "Adorable Witch",
       "file": "missing/A/150585-adorable-witch.json"
+    },
+    {
+      "igdb_id": 192138,
+      "game_name": "Adorable Witch 2",
+      "file": "missing/A/192138-adorable-witch-2.json"
     },
     {
       "igdb_id": 211393,
@@ -52353,6 +52363,11 @@
       "file": "missing/A/63657-arena-of-heroes.json"
     },
     {
+      "igdb_id": 192112,
+      "game_name": "Arena of Octos",
+      "file": "missing/A/192112-arena-of-octos.json"
+    },
+    {
       "igdb_id": 159787,
       "game_name": "Arena of Ruins",
       "file": "missing/A/159787-arena-of-ruins.json"
@@ -67263,6 +67278,11 @@
       "file": "missing/A/369126-axols-quest.json"
     },
     {
+      "igdb_id": 192103,
+      "game_name": "Axolochi",
+      "file": "missing/A/192103-axolochi.json"
+    },
+    {
       "igdb_id": 195486,
       "game_name": "Axolotl",
       "file": "missing/A/195486-axolotl.json"
@@ -77286,6 +77306,11 @@
       "igdb_id": 74216,
       "game_name": "Bartender VR Simulator",
       "file": "missing/B/74216-bartender-vr-simulator.json"
+    },
+    {
+      "igdb_id": 192098,
+      "game_name": "Bartender: The Right Mix",
+      "file": "missing/B/192098-bartender-the-right-mix.json"
     },
     {
       "igdb_id": 244205,
@@ -123763,6 +123788,11 @@
       "file": "missing/B/360494-bunnybartalk.json"
     },
     {
+      "igdb_id": 192106,
+      "game_name": "BunnyBuns",
+      "file": "missing/B/192106-bunnybuns.json"
+    },
+    {
       "igdb_id": 390514,
       "game_name": "BunnyFlow",
       "file": "missing/B/390514-bunnyflow.json"
@@ -130426,6 +130456,11 @@
       "igdb_id": 158551,
       "game_name": "Candle In Darkness",
       "file": "missing/C/158551-candle-in-darkness.json"
+    },
+    {
+      "igdb_id": 192110,
+      "game_name": "Candle Knight",
+      "file": "missing/C/192110-candle-knight.json"
     },
     {
       "igdb_id": 185609,
@@ -137476,6 +137511,11 @@
       "igdb_id": 238381,
       "game_name": "Castle Warriors",
       "file": "missing/C/238381-castle-warriors.json"
+    },
+    {
+      "igdb_id": 192097,
+      "game_name": "Castle Wars",
+      "file": "missing/C/192097-castle-wars.json"
     },
     {
       "igdb_id": 101739,
@@ -144813,6 +144853,11 @@
       "file": "missing/C/320559-chaos-entropy.json"
     },
     {
+      "igdb_id": 192095,
+      "game_name": "Chaos Faction",
+      "file": "missing/C/192095-chaos-faction.json"
+    },
+    {
       "igdb_id": 192096,
       "game_name": "Chaos Faction 2",
       "file": "missing/C/192096-chaos-faction-2.json"
@@ -148236,6 +148281,11 @@
       "igdb_id": 178052,
       "game_name": "Chichen-Itza",
       "file": "missing/C/178052-chichen-itza.json"
+    },
+    {
+      "igdb_id": 192102,
+      "game_name": "Chichens",
+      "file": "missing/C/192102-chichens.json"
     },
     {
       "igdb_id": 183592,
@@ -180246,6 +180296,11 @@
       "igdb_id": 155011,
       "game_name": "Creatures: Docking Station",
       "file": "missing/C/155011-creatures-docking-station.json"
+    },
+    {
+      "igdb_id": 192135,
+      "game_name": "Creatures: Docking Station - Creatures 3",
+      "file": "missing/C/192135-creatures-docking-station-creatures-3.json"
     },
     {
       "igdb_id": 46085,
@@ -348198,14 +348253,104 @@
       "file": "missing/G/119523-goonya-fighter.json"
     },
     {
+      "igdb_id": 192117,
+      "game_name": "Goonya Fighter: Akane Asano",
+      "file": "missing/G/192117-goonya-fighter-akane-asano.json"
+    },
+    {
+      "igdb_id": 192119,
+      "game_name": "Goonya Fighter: Bighead Battle!!",
+      "file": "missing/G/192119-goonya-fighter-bighead-battle.json"
+    },
+    {
+      "igdb_id": 192123,
+      "game_name": "Goonya Fighter: Bomber Fighter Insanity!",
+      "file": "missing/G/192123-goonya-fighter-bomber-fighter-insanity.json"
+    },
+    {
+      "igdb_id": 192124,
+      "game_name": "Goonya Fighter: First-Aid Boxes and some TLC",
+      "file": "missing/G/192124-goonya-fighter-first-aid-boxes-and-some-tlc.json"
+    },
+    {
+      "igdb_id": 192116,
+      "game_name": "Goonya Fighter: Glyph",
+      "file": "missing/G/192116-goonya-fighter-glyph.json"
+    },
+    {
       "igdb_id": 146316,
       "game_name": "Goonya Fighter: Jiggly Haptic Edition",
       "file": "missing/G/146316-goonya-fighter-jiggly-haptic-edition.json"
     },
     {
+      "igdb_id": 192121,
+      "game_name": "Goonya Fighter: Jingisukan no JinKun",
+      "file": "missing/G/192121-goonya-fighter-jingisukan-no-jinkun.json"
+    },
+    {
+      "igdb_id": 192120,
+      "game_name": "Goonya Fighter: Kana Hayama",
+      "file": "missing/G/192120-goonya-fighter-kana-hayama.json"
+    },
+    {
+      "igdb_id": 192128,
+      "game_name": "Goonya Fighter: Kaori Nagisa",
+      "file": "missing/G/192128-goonya-fighter-kaori-nagisa.json"
+    },
+    {
+      "igdb_id": 192130,
+      "game_name": "Goonya Fighter: Nagomi Shibakko",
+      "file": "missing/G/192130-goonya-fighter-nagomi-shibakko.json"
+    },
+    {
       "igdb_id": 196140,
       "game_name": "Goonya Fighter: Puimo",
       "file": "missing/G/196140-goonya-fighter-puimo.json"
+    },
+    {
+      "igdb_id": 192125,
+      "game_name": "Goonya Fighter: Ruri Asano",
+      "file": "missing/G/192125-goonya-fighter-ruri-asano.json"
+    },
+    {
+      "igdb_id": 192131,
+      "game_name": "Goonya Fighter: Slip -n- Slide",
+      "file": "missing/G/192131-goonya-fighter-slip-n-slide.json"
+    },
+    {
+      "igdb_id": 192127,
+      "game_name": "Goonya Fighter: Special Move - Fire Them Turds!!",
+      "file": "missing/G/192127-goonya-fighter-special-move-fire-them-turds.json"
+    },
+    {
+      "igdb_id": 192129,
+      "game_name": "Goonya Fighter: Special Move - Solid Swift Sliding Kick!",
+      "file": "missing/G/192129-goonya-fighter-special-move-solid-swift-sliding-kick.json"
+    },
+    {
+      "igdb_id": 192132,
+      "game_name": "Goonya Fighter: Super Untouchable Goonya Fighters!!",
+      "file": "missing/G/192132-goonya-fighter-super-untouchable-goonya-fighters.json"
+    },
+    {
+      "igdb_id": 192122,
+      "game_name": "Goonya Fighter: Tappy",
+      "file": "missing/G/192122-goonya-fighter-tappy.json"
+    },
+    {
+      "igdb_id": 192126,
+      "game_name": "Goonya Fighter: Tenkaichi Hi-Speed Battle!!",
+      "file": "missing/G/192126-goonya-fighter-tenkaichi-hi-speed-battle.json"
+    },
+    {
+      "igdb_id": 192115,
+      "game_name": "Goonya Fighter: Uiro",
+      "file": "missing/G/192115-goonya-fighter-uiro.json"
+    },
+    {
+      "igdb_id": 192118,
+      "game_name": "Goonya Fighter: Yumi Terasaka",
+      "file": "missing/G/192118-goonya-fighter-yumi-terasaka.json"
     },
     {
       "igdb_id": 248720,
@@ -362141,6 +362286,11 @@
       "igdb_id": 181243,
       "game_name": "Habitat",
       "file": "missing/H/181243-habitat.json"
+    },
+    {
+      "igdb_id": 192111,
+      "game_name": "Habitat",
+      "file": "missing/H/192111-habitat.json"
     },
     {
       "igdb_id": 28717,
@@ -376951,6 +377101,11 @@
       "igdb_id": 322740,
       "game_name": "HenPri",
       "file": "missing/H/322740-henpri.json"
+    },
+    {
+      "igdb_id": 192094,
+      "game_name": "HenPri: Hentai Prison",
+      "file": "missing/H/192094-henpri-hentai-prison.json"
     },
     {
       "igdb_id": 222521,
@@ -452701,6 +452856,11 @@
       "igdb_id": 243707,
       "game_name": "KleptoCats Cartoon Network",
       "file": "missing/K/243707-kleptocats-cartoon-network.json"
+    },
+    {
+      "igdb_id": 192105,
+      "game_name": "KleptoCorns",
+      "file": "missing/K/192105-kleptocorns.json"
     },
     {
       "igdb_id": 105792,
@@ -634208,6 +634368,11 @@
       "file": "missing/P/162186-pixel-puzzles-ultimate-autumn.json"
     },
     {
+      "igdb_id": 192141,
+      "game_name": "Pixel Puzzles Ultimate: Autumn 2",
+      "file": "missing/P/192141-pixel-puzzles-ultimate-autumn-2.json"
+    },
+    {
       "igdb_id": 357884,
       "game_name": "Pixel Puzzles Ultimate: Bioframe",
       "file": "missing/P/357884-pixel-puzzles-ultimate-bioframe.json"
@@ -634241,6 +634406,11 @@
       "igdb_id": 162188,
       "game_name": "Pixel Puzzles Ultimate: Christmas 2",
       "file": "missing/P/162188-pixel-puzzles-ultimate-christmas-2.json"
+    },
+    {
+      "igdb_id": 192139,
+      "game_name": "Pixel Puzzles Ultimate: Christmas 3",
+      "file": "missing/P/192139-pixel-puzzles-ultimate-christmas-3.json"
     },
     {
       "igdb_id": 357885,
@@ -634341,6 +634511,11 @@
       "igdb_id": 357887,
       "game_name": "Pixel Puzzles Ultimate: Light Trail",
       "file": "missing/P/357887-pixel-puzzles-ultimate-light-trail.json"
+    },
+    {
+      "igdb_id": 192140,
+      "game_name": "Pixel Puzzles Ultimate: Lunar New Year",
+      "file": "missing/P/192140-pixel-puzzles-ultimate-lunar-new-year.json"
     },
     {
       "igdb_id": 162181,
@@ -640681,6 +640856,11 @@
       "igdb_id": 377987,
       "game_name": "Pocket Lord",
       "file": "missing/P/377987-pocket-lord.json"
+    },
+    {
+      "igdb_id": 192100,
+      "game_name": "Pocket Love",
+      "file": "missing/P/192100-pocket-love.json"
     },
     {
       "igdb_id": 63334,
@@ -690943,6 +691123,11 @@
       "file": "missing/R/235110-retro-golden-age-operation-alexandra.json"
     },
     {
+      "igdb_id": 192137,
+      "game_name": "Retro Golden Age: The Abbey of Crime",
+      "file": "missing/R/192137-retro-golden-age-the-abbey-of-crime.json"
+    },
+    {
       "igdb_id": 408247,
       "game_name": "Retro Golf Mania",
       "file": "missing/R/408247-retro-golf-mania.json"
@@ -714186,6 +714371,11 @@
       "igdb_id": 40417,
       "game_name": "Saboten Bombers",
       "file": "missing/S/40417-saboten-bombers.json"
+    },
+    {
+      "igdb_id": 192134,
+      "game_name": "Saboteur",
+      "file": "missing/S/192134-saboteur.json"
     },
     {
       "igdb_id": 112670,
@@ -751828,6 +752018,11 @@
       "file": "missing/S/415456-skeleton-quest.json"
     },
     {
+      "igdb_id": 192136,
+      "game_name": "Skeleton Scramble Deluxe",
+      "file": "missing/S/192136-skeleton-scramble-deluxe.json"
+    },
+    {
       "igdb_id": 55675,
       "game_name": "Skeleton Sprint",
       "file": "missing/S/55675-skeleton-sprint.json"
@@ -768321,6 +768516,11 @@
       "igdb_id": 317345,
       "game_name": "Sonic Adventure: Revolution",
       "file": "missing/S/317345-sonic-adventure-revolution.json"
+    },
+    {
+      "igdb_id": 192114,
+      "game_name": "Sonic Adventure: Sonic Adventure DX Upgrade",
+      "file": "missing/S/192114-sonic-adventure-sonic-adventure-dx-upgrade.json"
     },
     {
       "igdb_id": 330336,
@@ -800141,6 +800341,11 @@
       "igdb_id": 355075,
       "game_name": "Still Alive: Hollowed Horizon",
       "file": "missing/S/355075-still-alive-hollowed-horizon.json"
+    },
+    {
+      "igdb_id": 192088,
+      "game_name": "Still Be a Human",
+      "file": "missing/S/192088-still-be-a-human.json"
     },
     {
       "igdb_id": 418545,
@@ -870593,6 +870798,11 @@
       "file": "missing/T/249169-the-legend-of-heroes-trails-to-azure-deluxe-edition.json"
     },
     {
+      "igdb_id": 192133,
+      "game_name": "The Legend of Heroes: Zero no Kiseki",
+      "file": "missing/T/192133-the-legend-of-heroes-zero-no-kiseki.json"
+    },
+    {
       "igdb_id": 269847,
       "game_name": "The Legend of Iowa",
       "file": "missing/T/269847-the-legend-of-iowa.json"
@@ -883356,6 +883566,16 @@
       "igdb_id": 349499,
       "game_name": "The Sims 2: OMGWTFBBQ",
       "file": "missing/T/349499-the-sims-2-omgwtfbbq.json"
+    },
+    {
+      "igdb_id": 192108,
+      "game_name": "The Sims 2: Pets",
+      "file": "missing/T/192108-the-sims-2-pets.json"
+    },
+    {
+      "igdb_id": 192109,
+      "game_name": "The Sims 2: Pets",
+      "file": "missing/T/192109-the-sims-2-pets.json"
     },
     {
       "igdb_id": 225,
@@ -932768,6 +932988,11 @@
       "file": "missing/T/215191-tsuki-wa-kirisaku-tantei-sagara-kyouichirou.json"
     },
     {
+      "igdb_id": 192101,
+      "game_name": "Tsuki's Odyssey",
+      "file": "missing/T/192101-tsukis-odyssey.json"
+    },
+    {
       "igdb_id": 251607,
       "game_name": "Tsukiakari no Kan kara no Dasshutsu",
       "file": "missing/T/251607-tsukiakari-no-kan-kara-no-dasshutsu.json"
@@ -942011,6 +942236,11 @@
       "igdb_id": 359008,
       "game_name": "Unboxing Mr. Coo",
       "file": "missing/U/359008-unboxing-mr-coo.json"
+    },
+    {
+      "igdb_id": 192087,
+      "game_name": "Unboxing the mind of a Cryptic Killer",
+      "file": "missing/U/192087-unboxing-the-mind-of-a-cryptic-killer.json"
     },
     {
       "igdb_id": 334104,
@@ -974518,6 +974748,11 @@
       "file": "missing/W/319214-well-to-hell.json"
     },
     {
+      "igdb_id": 192083,
+      "game_name": "Well-Beings: Wellness for Kids",
+      "file": "missing/W/192083-well-beings-wellness-for-kids.json"
+    },
+    {
       "igdb_id": 352755,
       "game_name": "Well, Fuck You Too",
       "file": "missing/W/352755-well-fuck-you-too.json"
@@ -979011,6 +979246,11 @@
       "igdb_id": 255882,
       "game_name": "Who Is Your Prince? In the Rich School",
       "file": "missing/W/255882-who-is-your-prince-in-the-rich-school.json"
+    },
+    {
+      "igdb_id": 192084,
+      "game_name": "Who Is Zombie",
+      "file": "missing/W/192084-who-is-zombie.json"
     },
     {
       "igdb_id": 164951,
@@ -991173,6 +991413,11 @@
       "file": "missing/W/316236-world-war-fury-wave.json"
     },
     {
+      "igdb_id": 192082,
+      "game_name": "World War: Tank Battle",
+      "file": "missing/W/192082-world-war-tank-battle.json"
+    },
+    {
       "igdb_id": 171427,
       "game_name": "World Warfare & Economic",
       "file": "missing/W/171427-world-warfare-and-economic.json"
@@ -995846,6 +996091,11 @@
       "igdb_id": 86232,
       "game_name": "XBall Champion",
       "file": "missing/X/86232-xball-champion.json"
+    },
+    {
+      "igdb_id": 192104,
+      "game_name": "XBattle",
+      "file": "missing/X/192104-xbattle.json"
     },
     {
       "igdb_id": 28424,
