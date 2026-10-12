@@ -5053,6 +5053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binky XXIV: Game Streamer "Binky" Plays Grotto of the Grebulons | 279024 | [279024-binky-xxiv-game-streamer-binky-plays-grotto-of-the-grebulons.json](./279024-binky-xxiv-game-streamer-binky-plays-grotto-of-the-grebulons.json) |
 | Binky's Trash Service | 142483 | [142483-binkys-trash-service.json](./142483-binkys-trash-service.json) |
 | Bio Block | 274518 | [274518-bio-block.json](./274518-bio-block.json) |
+| Bio Bytes | 220274 | [220274-bio-bytes.json](./220274-bio-bytes.json) |
 | Bio Challenge | 12917 | [12917-bio-challenge.json](./12917-bio-challenge.json) |
 | Bio Crisis: Evil Hazard | 152996 | [152996-bio-crisis-evil-hazard.json](./152996-bio-crisis-evil-hazard.json) |
 | Bio Evil | 217941 | [217941-bio-evil.json](./217941-bio-evil.json) |
@@ -5482,6 +5483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitfighter | 47275 | [47275-bitfighter.json](./47275-bitfighter.json) |
 | Bitgram | 55157 | [55157-bitgram.json](./55157-bitgram.json) |
 | Bitgun | 163870 | [163870-bitgun.json](./163870-bitgun.json) |
+| Bitgwa Eodumui Jeonjaeng | 220290 | [220290-bitgwa-eodumui-jeonjaeng.json](./220290-bitgwa-eodumui-jeonjaeng.json) |
 | BitHero Survivors | 366982 | [366982-bithero-survivors.json](./366982-bithero-survivors.json) |
 | Bitiverse | 412905 | [412905-bitiverse.json](./412905-bitiverse.json) |
 | Bitlands | 197193 | [197193-bitlands.json](./197193-bitlands.json) |
@@ -7535,6 +7537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob Smith and the Unsolved Case of Mystery | 318475 | [318475-bob-smith-and-the-unsolved-case-of-mystery.json](./318475-bob-smith-and-the-unsolved-case-of-mystery.json) |
 | Bob The Astronaut | 289404 | [289404-bob-the-astronaut.json](./289404-bob-the-astronaut.json) |
 | Bob the Block: Rebooted | 296499 | [296499-bob-the-block-rebooted.json](./296499-bob-the-block-rebooted.json) |
+| Bob the Builder | 220261 | [220261-bob-the-builder.json](./220261-bob-the-builder.json) |
 | Bob the Builder | 83246 | [83246-bob-the-builder.json](./83246-bob-the-builder.json) |
 | Bob the Builder: Bob Builds A Park | 72055 | [72055-bob-the-builder-bob-builds-a-park.json](./72055-bob-the-builder-bob-builds-a-park.json) |
 | Bob the Builder: Build City | 91335 | [91335-bob-the-builder-build-city.json](./91335-bob-the-builder-build-city.json) |
