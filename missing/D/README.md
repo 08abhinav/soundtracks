@@ -1739,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Misgiving | 128446 | [128446-dawn-of-misgiving.json](./128446-dawn-of-misgiving.json) |
 | Dawn of Shadow | 237082 | [237082-dawn-of-shadow.json](./237082-dawn-of-shadow.json) |
 | Dawn of Survivor | 312140 | [312140-dawn-of-survivor.json](./312140-dawn-of-survivor.json) |
+| Dawn of Survivors 2 | 179971 | [179971-dawn-of-survivors-2.json](./179971-dawn-of-survivors-2.json) |
 | Dawn of the Breakers | 106972 | [106972-dawn-of-the-breakers.json](./106972-dawn-of-the-breakers.json) |
 | Dawn of the Celestialpod | 99159 | [99159-dawn-of-the-celestialpod.json](./99159-dawn-of-the-celestialpod.json) |
 | Dawn of the Damned | 259477 | [259477-dawn-of-the-damned.json](./259477-dawn-of-the-damned.json) |
@@ -6168,6 +6169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diplomacy is Not an Option: Fog of War | 415090 | [415090-diplomacy-is-not-an-option-fog-of-war.json](./415090-diplomacy-is-not-an-option-fog-of-war.json) |
 | Diplomacy Is Not an Option: Shareware | 342687 | [342687-diplomacy-is-not-an-option-shareware.json](./342687-diplomacy-is-not-an-option-shareware.json) |
 | Diplomata the Game | 44108 | [44108-diplomata-the-game.json](./44108-diplomata-the-game.json) |
+| Diplomatic Relations | 179941 | [179941-diplomatic-relations.json](./179941-diplomatic-relations.json) |
 | Dipod: The Foot Legacy | 146831 | [146831-dipod-the-foot-legacy.json](./146831-dipod-the-foot-legacy.json) |
 | Diptych: The Great War | 199135 | [199135-diptych-the-great-war.json](./199135-diptych-the-great-war.json) |
 | Dirappen Restoration | 265700 | [265700-dirappen-restoration.json](./265700-dirappen-restoration.json) |
