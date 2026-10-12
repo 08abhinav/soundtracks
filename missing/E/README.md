@@ -2709,6 +2709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eo | 211661 | [211661-eo.json](./211661-eo.json) |
 | EOE: Eve of Extinction | 23454 | [23454-eoe-eve-of-extinction.json](./23454-eoe-eve-of-extinction.json) |
 | EOEOnline | 303515 | [303515-eoeonline.json](./303515-eoeonline.json) |
+| Eojjeonji Joeun Iri Saenggil Geot Gateun Jeonyeok | 213055 | [213055-eojjeonji-joeun-iri-saenggil-geot-gateun-jeonyeok.json](./213055-eojjeonji-joeun-iri-saenggil-geot-gateun-jeonyeok.json) |
 | Eol-ui Moheom | 363981 | [363981-eol-ui-moheom.json](./363981-eol-ui-moheom.json) |
 | Eolia | 204347 | [204347-eolia.json](./204347-eolia.json) |
 | Eon Altar: Episode 2 - Whispers in the Catacombs | 24875 | [24875-eon-altar-episode-2-whispers-in-the-catacombs.json](./24875-eon-altar-episode-2-whispers-in-the-catacombs.json) |
