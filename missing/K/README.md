@@ -3623,6 +3623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krax Ca-caw's Concoction Chaos | 340891 | [340891-krax-ca-caws-concoction-chaos.json](./340891-krax-ca-caws-concoction-chaos.json) |
 | Krazy Bowl | 40339 | [40339-krazy-bowl.json](./40339-krazy-bowl.json) |
 | Krazy Ivan | 20604 | [20604-krazy-ivan.json](./20604-krazy-ivan.json) |
+| Krazy Kakoom | 208089 | [208089-krazy-kakoom.json](./208089-krazy-kakoom.json) |
 | Krazy Kart Racing | 67688 | [67688-krazy-kart-racing.json](./67688-krazy-kart-racing.json) |
 | Krazy Kart! | 310968 | [310968-krazy-kart.json](./310968-krazy-kart.json) |
 | Kreatur Bout | 391825 | [391825-kreatur-bout.json](./391825-kreatur-bout.json) |
