@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachaga Champ | 257308 | [257308-gachaga-champ.json](./257308-gachaga-champ.json) |
 | Gachaminer | 180227 | [180227-gachaminer.json](./180227-gachaminer.json) |
 | Gachamon | 358267 | [358267-gachamon.json](./358267-gachamon.json) |
+| Gachapin & Mukku no Daiundoukai | 198194 | [198194-gachapin-and-mukku-no-daiundoukai.json](./198194-gachapin-and-mukku-no-daiundoukai.json) |
 | Gachapin Challenge DS | 124013 | [124013-gachapin-challenge-ds.json](./124013-gachapin-challenge-ds.json) |
 | Gachapin Nikki DS | 124012 | [124012-gachapin-nikki-ds.json](./124012-gachapin-nikki-ds.json) |
 | Gachasute! Dino Device - Blue | 49500 | [49500-gachasute-dino-device-blue.json](./49500-gachasute-dino-device-blue.json) |
@@ -6233,6 +6234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Home | 8774 | [8774-grow-home.json](./8774-grow-home.json) |
 | Grow Home & Grow Up | 354503 | [354503-grow-home-and-grow-up.json](./354503-grow-home-and-grow-up.json) |
 | Grow Island | 78848 | [78848-grow-island.json](./78848-grow-island.json) |
+| Grow Nano 3 | 198167 | [198167-grow-nano-3.json](./198167-grow-nano-3.json) |
 | Grow Recovery | 175835 | [175835-grow-recovery.json](./175835-grow-recovery.json) |
 | Grow RPG | 175831 | [175831-grow-rpg.json](./175831-grow-rpg.json) |
 | Grow the Seed | 244158 | [244158-grow-the-seed.json](./244158-grow-the-seed.json) |
