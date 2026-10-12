@@ -2746,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klinok Doblesti 2 | 71791 | [71791-klinok-doblesti-2.json](./71791-klinok-doblesti-2.json) |
 | Klitorax | 221173 | [221173-klitorax.json](./221173-klitorax.json) |
 | Kloa: Child of the Forest | 209916 | [209916-kloa-child-of-the-forest.json](./209916-kloa-child-of-the-forest.json) |
+| Klomanager: Regurgitated | 195974 | [195974-klomanager-regurgitated.json](./195974-klomanager-regurgitated.json) |
 | Klondike | 14503 | [14503-klondike.json](./14503-klondike.json) |
 | Klondike | 281555 | [281555-klondike.json](./281555-klondike.json) |
 | Klondike & Girls | 112472 | [112472-klondike-and-girls.json](./112472-klondike-and-girls.json) |
