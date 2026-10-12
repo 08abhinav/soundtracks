@@ -3706,6 +3706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PhotonVerse | 235881 | [235881-photonverse.json](./235881-photonverse.json) |
 | Photophobia | 373200 | [373200-photophobia.json](./373200-photophobia.json) |
 | Photopia | 9513 | [9513-photopia.json](./9513-photopia.json) |
+| Photoq | 188875 | [188875-photoq.json](./188875-photoq.json) |
 | Photos with Animal Crossing | 59998 | [59998-photos-with-animal-crossing.json](./59998-photos-with-animal-crossing.json) |
 | Photos with Mario | 61573 | [61573-photos-with-mario.json](./61573-photos-with-mario.json) |
 | PhotoWorld | 153403 | [153403-photoworld.json](./153403-photoworld.json) |
@@ -9126,6 +9127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pride of Nations | 2068 | [2068-pride-of-nations.json](./2068-pride-of-nations.json) |
 | Pride Quiz | 272561 | [272561-pride-quiz.json](./272561-pride-quiz.json) |
 | Priest | 99688 | [99688-priest.json](./99688-priest.json) |
+| Priest Simulator: Heavy Duty | 188962 | [188962-priest-simulator-heavy-duty.json](./188962-priest-simulator-heavy-duty.json) |
 | Priest Simulator: Her Ghost | 376138 | [376138-priest-simulator-her-ghost.json](./376138-priest-simulator-her-ghost.json) |
 | Priest Simulator: Vampire Show | 110993 | [110993-priest-simulator-vampire-show.json](./110993-priest-simulator-vampire-show.json) |
 | Priest With a Gun | 336583 | [336583-priest-with-a-gun.json](./336583-priest-with-a-gun.json) |
@@ -9357,6 +9359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Rescue | 46886 | [46886-princess-rescue.json](./46886-princess-rescue.json) |
 | Princess RPG | 196814 | [196814-princess-rpg.json](./196814-princess-rpg.json) |
 | Princess Sahirah is a Spoiled Brat! | 46490 | [46490-princess-sahirah-is-a-spoiled-brat.json](./46490-princess-sahirah-is-a-spoiled-brat.json) |
+| Princess Sera Adventures | 188957 | [188957-princess-sera-adventures.json](./188957-princess-sera-adventures.json) |
 | Princess Shall Prevail | 368375 | [368375-princess-shall-prevail.json](./368375-princess-shall-prevail.json) |
 | Princess Snow White: The Enchanted Mirror | 320455 | [320455-princess-snow-white-the-enchanted-mirror.json](./320455-princess-snow-white-the-enchanted-mirror.json) |
 | Princess Solitaire | 176897 | [176897-princess-solitaire.json](./176897-princess-solitaire.json) |
@@ -11452,6 +11455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puttin' Around | 114171 | [114171-puttin-around.json](./114171-puttin-around.json) |
 | Putty | 39022 | [39022-putty.json](./39022-putty.json) |
 | Putty Pals | 32866 | [32866-putty-pals.json](./32866-putty-pals.json) |
+| Putty Putter | 188896 | [188896-putty-putter.json](./188896-putty-putter.json) |
 | Putty Squad | 39021 | [39021-putty-squad.json](./39021-putty-squad.json) |
 | Putty Squad | 85584 | [85584-putty-squad.json](./85584-putty-squad.json) |
 | Putzgrila: Mestre dos Esportes | 172472 | [172472-putzgrila-mestre-dos-esportes.json](./172472-putzgrila-mestre-dos-esportes.json) |
