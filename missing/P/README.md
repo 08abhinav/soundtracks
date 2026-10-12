@@ -1669,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Bingo | 117614 | [117614-party-bingo.json](./117614-party-bingo.json) |
 | Party Bros. | 263936 | [263936-party-bros.json](./263936-party-bros.json) |
 | Party Bunch | 212423 | [212423-party-bunch.json](./212423-party-bunch.json) |
+| Party Bundle: Ludomania & Flowlines Vs. & 2048 Battles | 199865 | [199865-party-bundle-ludomania-and-flowlines-vs-and-2048-battles.json](./199865-party-bundle-ludomania-and-flowlines-vs-and-2048-battles.json) |
 | Party Business | 128594 | [128594-party-business.json](./128594-party-business.json) |
 | Party Cemetery | 178594 | [178594-party-cemetery.json](./178594-party-cemetery.json) |
 | Party Champ | 388958 | [388958-party-champ.json](./388958-party-champ.json) |
@@ -8413,6 +8414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postknight | 27329 | [27329-postknight.json](./27329-postknight.json) |
 | Postknight World | 337704 | [337704-postknight-world.json](./337704-postknight-world.json) |
 | PostLife | 294275 | [294275-postlife.json](./294275-postlife.json) |
+| Postman Pat | 199877 | [199877-postman-pat.json](./199877-postman-pat.json) |
 | Postman Pat | 308979 | [308979-postman-pat.json](./308979-postman-pat.json) |
 | Postman Pat | 72122 | [72122-postman-pat.json](./72122-postman-pat.json) |
 | Postman Pat 2 | 68691 | [68691-postman-pat-2.json](./68691-postman-pat-2.json) |
@@ -11164,6 +11166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Blood | 310933 | [310933-pure-blood.json](./310933-pure-blood.json) |
 | Pure Chaotix | 326817 | [326817-pure-chaotix.json](./326817-pure-chaotix.json) |
 | Pure Chess: Grandmaster Edition | 82428 | [82428-pure-chess-grandmaster-edition.json](./82428-pure-chess-grandmaster-edition.json) |
+| Pure Crosswords | 199889 | [199889-pure-crosswords.json](./199889-pure-crosswords.json) |
 | Pure Electric Love "Everyone else!" Ema Sakura | 105976 | [105976-pure-electric-love-everyone-else-ema-sakura.json](./105976-pure-electric-love-everyone-else-ema-sakura.json) |
 | Pure Electric Love "Look at my eyes!" Moe Yamauchi | 105977 | [105977-pure-electric-love-look-at-my-eyes-moe-yamauchi.json](./105977-pure-electric-love-look-at-my-eyes-moe-yamauchi.json) |
 | Pure Electric Love "What do you want?" Eri Kitami | 105978 | [105978-pure-electric-love-what-do-you-want-eri-kitami.json](./105978-pure-electric-love-what-do-you-want-eri-kitami.json) |
