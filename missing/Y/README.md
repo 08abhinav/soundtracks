@@ -405,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yield! Fall of Rome | 305425 | [305425-yield-fall-of-rome.json](./305425-yield-fall-of-rome.json) |
 | Yihongyuan | 236947 | [236947-yihongyuan.json](./236947-yihongyuan.json) |
 | Yiki Action RPG | 117692 | [117692-yiki-action-rpg.json](./117692-yiki-action-rpg.json) |
+| Yin Yang Space | 197075 | [197075-yin-yang-space.json](./197075-yin-yang-space.json) |
 | Yīn Yuán | 368098 | [368098-yin-yuan.json](./368098-yin-yuan.json) |
 | Yin-Yang Labyrinth | 301600 | [301600-yin-yang-labyrinth.json](./301600-yin-yang-labyrinth.json) |
 | Yin-Yang Ping-Pong | 309883 | [309883-yin-yang-ping-pong.json](./309883-yin-yang-ping-pong.json) |
@@ -808,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You vs. Wild: Out Cold | 256855 | [256855-you-vs-wild-out-cold.json](./256855-you-vs-wild-out-cold.json) |
 | You Were Made for Loneliness | 139387 | [139387-you-were-made-for-loneliness.json](./139387-you-were-made-for-loneliness.json) |
 | You Will Die | 66639 | [66639-you-will-die.json](./66639-you-will-die.json) |
+| You Will Die a Lot Buddy, Trust Me! | 197103 | [197103-you-will-die-a-lot-buddy-trust-me.json](./197103-you-will-die-a-lot-buddy-trust-me.json) |
 | You Will Fall | 245000 | [245000-you-will-fall.json](./245000-you-will-fall.json) |
 | You Will Never Get This Achievement | 81848 | [81848-you-will-never-get-this-achievement.json](./81848-you-will-never-get-this-achievement.json) |
 | You Will Not Survive | 258512 | [258512-you-will-not-survive.json](./258512-you-will-not-survive.json) |
