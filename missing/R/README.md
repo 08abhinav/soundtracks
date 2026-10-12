@@ -1528,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayflector | 243609 | [243609-rayflector.json](./243609-rayflector.json) |
 | RayForce | 22349 | [22349-rayforce.json](./22349-rayforce.json) |
 | Raygraze | 196323 | [196323-raygraze.json](./196323-raygraze.json) |
+| Rayland | 181093 | [181093-rayland.json](./181093-rayland.json) |
 | RaylaX | 97848 | [97848-raylax.json](./97848-raylax.json) |
 | Rayman | 142129 | [142129-rayman.json](./142129-rayman.json) |
 | Rayman | 165558 | [165558-rayman.json](./165558-rayman.json) |
@@ -3681,6 +3682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resonance of Fate 4K/HD Edition: Collector's Edition | 167150 | [167150-resonance-of-fate-4k-hd-edition-collectors-edition.json](./167150-resonance-of-fate-4k-hd-edition-collectors-edition.json) |
 | Resonance of the Ocean | 207796 | [207796-resonance-of-the-ocean.json](./207796-resonance-of-the-ocean.json) |
 | Resonance Tales: Alone | 350964 | [350964-resonance-tales-alone.json](./350964-resonance-tales-alone.json) |
+| Resonance Wars | 181089 | [181089-resonance-wars.json](./181089-resonance-wars.json) |
 | Resonance: The Lost Score | 150064 | [150064-resonance-the-lost-score.json](./150064-resonance-the-lost-score.json) |
 | Resonant Dusk | 395791 | [395791-resonant-dusk.json](./395791-resonant-dusk.json) |
 | Resonant Q | 381189 | [381189-resonant-q.json](./381189-resonant-q.json) |
@@ -3985,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return | 186010 | [186010-return.json](./186010-return.json) |
 | Return | 255987 | [255987-return.json](./255987-return.json) |
 | Return Ace | 195759 | [195759-return-ace.json](./195759-return-ace.json) |
+| Return Alive | 181060 | [181060-return-alive.json](./181060-return-alive.json) |
 | Return Alive | 255803 | [255803-return-alive.json](./255803-return-alive.json) |
 | Return Fire: Maps O' Death | 4267 | [4267-return-fire-maps-o-death.json](./4267-return-fire-maps-o-death.json) |
 | Return Machine.Love() | 406290 | [406290-return-machine-love.json](./406290-return-machine-love.json) |
