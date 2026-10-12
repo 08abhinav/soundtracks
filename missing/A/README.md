@@ -1132,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abide With Me | 179614 | [179614-abide-with-me.json](./179614-abide-with-me.json) |
 | Abigail | 377429 | [377429-abigail.json](./377429-abigail.json) |
 | Abigail Fortune and the Scarlet Fairy | 181205 | [181205-abigail-fortune-and-the-scarlet-fairy.json](./181205-abigail-fortune-and-the-scarlet-fairy.json) |
+| Abigor | 210899 | [210899-abigor.json](./210899-abigor.json) |
 | Abiko the Miko | 158042 | [158042-abiko-the-miko.json](./158042-abiko-the-miko.json) |
 | Abiko the Miko 2 | 161360 | [161360-abiko-the-miko-2.json](./161360-abiko-the-miko-2.json) |
 | Ability Draft | 109031 | [109031-ability-draft.json](./109031-ability-draft.json) |
@@ -1426,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acceleration of Suguri: Y-Edition | 265071 | [265071-acceleration-of-suguri-y-edition.json](./265071-acceleration-of-suguri-y-edition.json) |
 | Accelerator Operator | 373345 | [373345-accelerator-operator.json](./373345-accelerator-operator.json) |
 | Acceptable Losses | 379459 | [379459-acceptable-losses.json](./379459-acceptable-losses.json) |
+| Acceptance | 210902 | [210902-acceptance.json](./210902-acceptance.json) |
 | Access Block | 277863 | [277863-access-block.json](./277863-access-block.json) |
 | Access Code Zero | 174269 | [174269-access-code-zero.json](./174269-access-code-zero.json) |
 | Access Denied: Escape | 240807 | [240807-access-denied-escape.json](./240807-access-denied-escape.json) |
@@ -2618,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftershock for Quake | 271795 | [271795-aftershock-for-quake.json](./271795-aftershock-for-quake.json) |
 | Aftershock: Coastline | 253377 | [253377-aftershock-coastline.json](./253377-aftershock-coastline.json) |
 | AfterShocked! | 69816 | [69816-aftershocked.json](./69816-aftershocked.json) |
+| Afterslave | 210857 | [210857-afterslave.json](./210857-afterslave.json) |
 | Aftertaste | 419845 | [419845-aftertaste.json](./419845-aftertaste.json) |
 | AfterTheDawn | 81753 | [81753-afterthedawn.json](./81753-afterthedawn.json) |
 | Aftertime | 211420 | [211420-aftertime.json](./211420-aftertime.json) |
@@ -4384,6 +4387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All In One Sports: Soccer | 417370 | [417370-all-in-one-sports-soccer.json](./417370-all-in-one-sports-soccer.json) |
 | All In One Sports: Three Cushion Billiards | 417372 | [417372-all-in-one-sports-three-cushion-billiards.json](./417372-all-in-one-sports-three-cushion-billiards.json) |
 | All in Vain | 392139 | [392139-all-in-vain.json](./392139-all-in-vain.json) |
+| All in your head | 210907 | [210907-all-in-your-head.json](./210907-all-in-your-head.json) |
 | All in! Bundle | 164807 | [164807-all-in-bundle.json](./164807-all-in-bundle.json) |
 | All in! Bundle | 221334 | [221334-all-in-bundle.json](./221334-all-in-bundle.json) |
 | All is Fair in Dust and Air | 142266 | [142266-all-is-fair-in-dust-and-air.json](./142266-all-is-fair-in-dust-and-air.json) |
@@ -4468,6 +4472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Will Fall | 328273 | [328273-all-will-fall.json](./328273-all-will-fall.json) |
 | All will Rise | 347823 | [347823-all-will-rise.json](./347823-all-will-rise.json) |
 | All World Pro Wrestling: Bonus Stories | 196054 | [196054-all-world-pro-wrestling-bonus-stories.json](./196054-all-world-pro-wrestling-bonus-stories.json) |
+| All World Pro Wrestling: Bonus Stories 2 | 210906 | [210906-all-world-pro-wrestling-bonus-stories-2.json](./210906-all-world-pro-wrestling-bonus-stories-2.json) |
 | All You Have to Do Is Click the Button | 352323 | [352323-all-you-have-to-do-is-click-the-button.json](./352323-all-you-have-to-do-is-click-the-button.json) |
 | All You Need is Help | 299592 | [299592-all-you-need-is-help.json](./299592-all-you-need-is-help.json) |
 | All You Want Bundle | 231294 | [231294-all-you-want-bundle.json](./231294-all-you-want-bundle.json) |
@@ -4585,6 +4590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almost Alive | 105356 | [105356-almost-alive.json](./105356-almost-alive.json) |
 | Almost Heroic | 179538 | [179538-almost-heroic.json](./179538-almost-heroic.json) |
 | Almost Impossible! | 58303 | [58303-almost-impossible.json](./58303-almost-impossible.json) |
+| Almost My Floor: Duality | 210905 | [210905-almost-my-floor-duality.json](./210905-almost-my-floor-duality.json) |
 | Almost My Floor: Halloween Party | 196131 | [196131-almost-my-floor-halloween-party.json](./196131-almost-my-floor-halloween-party.json) |
 | Almost Reversi | 316407 | [316407-almost-reversi.json](./316407-almost-reversi.json) |
 | Almost There: The Platformer | 113722 | [113722-almost-there-the-platformer.json](./113722-almost-there-the-platformer.json) |
@@ -5090,7 +5096,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambassador Kane | 118835 | [118835-ambassador-kane.json](./118835-ambassador-kane.json) |
 | Amber Alert Director's Cut | 345679 | [345679-amber-alert-directors-cut.json](./345679-amber-alert-directors-cut.json) |
 | Amber Battle Royale | 226219 | [226219-amber-battle-royale.json](./226219-amber-battle-royale.json) |
+| Amber City | 210904 | [210904-amber-city.json](./210904-amber-city.json) |
 | Amber Effect | 174693 | [174693-amber-effect.json](./174693-amber-effect.json) |
+| Amber Island | 210903 | [210903-amber-island.json](./210903-amber-island.json) |
 | Amber Isle: Deluxe Edition | 330195 | [330195-amber-isle-deluxe-edition.json](./330195-amber-isle-deluxe-edition.json) |
 | Amber Isle: Starter Pack | 330221 | [330221-amber-isle-starter-pack.json](./330221-amber-isle-starter-pack.json) |
 | Amber of The End | 359547 | [359547-amber-of-the-end.json](./359547-amber-of-the-end.json) |
@@ -7003,16 +7011,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apassionata: A Passionate Horse-Show - My Show | 269644 | [269644-apassionata-a-passionate-horse-show-my-show.json](./269644-apassionata-a-passionate-horse-show-my-show.json) |
 | Apathy Hayarigami | 212255 | [212255-apathy-hayarigami.json](./212255-apathy-hayarigami.json) |
 | Apathy Satsujin Club | 308888 | [308888-apathy-satsujin-club.json](./308888-apathy-satsujin-club.json) |
+| Apathy: Arai Shouji | 210825 | [210825-apathy-arai-shouji.json](./210825-apathy-arai-shouji.json) |
 | Apathy: Arai Shouji - DLC | 358497 | [358497-apathy-arai-shouji-dlc.json](./358497-apathy-arai-shouji-dlc.json) |
 | Apathy: Danshikou de Atta Kowai Hanashi | 342810 | [342810-apathy-danshikou-de-atta-kowai-hanashi.json](./342810-apathy-danshikou-de-atta-kowai-hanashi.json) |
 | Apathy: Gakkou de Atta Kowai Hanashi - Himitsu | 212257 | [212257-apathy-gakkou-de-atta-kowai-hanashi-himitsu.json](./212257-apathy-gakkou-de-atta-kowai-hanashi-himitsu.json) |
 | Apathy: Gakkou de Atta Kowai Hanashi - Kiwame | 212259 | [212259-apathy-gakkou-de-atta-kowai-hanashi-kiwame.json](./212259-apathy-gakkou-de-atta-kowai-hanashi-kiwame.json) |
 | Apathy: Gakkou de Atta Kowai Hanashi - Shinsei 2 | 212256 | [212256-apathy-gakkou-de-atta-kowai-hanashi-shinsei-2.json](./212256-apathy-gakkou-de-atta-kowai-hanashi-shinsei-2.json) |
+| Apathy: Gakkou de Atta Kowai Hanashi 2008 - Vol.1 | 210826 | [210826-apathy-gakkou-de-atta-kowai-hanashi-2008-vol-1.json](./210826-apathy-gakkou-de-atta-kowai-hanashi-2008-vol-1.json) |
 | Apathy: Inaba Hyakumantetsu in Narugami Gakuen Reikaiki | 260980 | [260980-apathy-inaba-hyakumantetsu-in-narugami-gakuen-reikaiki.json](./260980-apathy-inaba-hyakumantetsu-in-narugami-gakuen-reikaiki.json) |
 | Apathy: Midnight Collection - Vol. 1 | 150056 | [150056-apathy-midnight-collection-vol-1.json](./150056-apathy-midnight-collection-vol-1.json) |
 | Apathy: Napoli no Otoko-tachi in Gakkou de Atta Kowai Hanashi | 212260 | [212260-apathy-napoli-no-otoko-tachi-in-gakkou-de-atta-kowai-hanashi.json](./212260-apathy-napoli-no-otoko-tachi-in-gakkou-de-atta-kowai-hanashi.json) |
 | Apathy: Narugami Gakuen Nana Fushigi | 206171 | [206171-apathy-narugami-gakuen-nana-fushigi.json](./206171-apathy-narugami-gakuen-nana-fushigi.json) |
 | Apathy: Rental Kazoku | 212254 | [212254-apathy-rental-kazoku.json](./212254-apathy-rental-kazoku.json) |
+| Apathy: Shougakkou de Atta Kowai Hanashi - Getsuyoubi | 210824 | [210824-apathy-shougakkou-de-atta-kowai-hanashi-getsuyoubi.json](./210824-apathy-shougakkou-de-atta-kowai-hanashi-getsuyoubi.json) |
 | APB | 37097 | [37097-apb.json](./37097-apb.json) |
 | APB: All Points Bulletin | 23369 | [23369-apb-all-points-bulletin.json](./23369-apb-all-points-bulletin.json) |
 | APE | 404982 | [404982-ape.json](./404982-ape.json) |
@@ -8180,6 +8191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ARD: Anomalous Research Department | 182264 | [182264-ard-anomalous-research-department.json](./182264-ard-anomalous-research-department.json) |
 | Ardarium | 168331 | [168331-ardarium.json](./168331-ardarium.json) |
 | Ardem | 260389 | [260389-ardem.json](./260389-ardem.json) |
+| Arden: The World of William Shakespeare | 210828 | [210828-arden-the-world-of-william-shakespeare.json](./210828-arden-the-world-of-william-shakespeare.json) |
 | Arden's Wake | 158637 | [158637-ardens-wake.json](./158637-ardens-wake.json) |
 | Ardena | 369769 | [369769-ardena.json](./369769-ardena.json) |
 | Ardency: Heart of the Rebellion | 297788 | [297788-ardency-heart-of-the-rebellion.json](./297788-ardency-heart-of-the-rebellion.json) |
