@@ -5401,6 +5401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinco Paus | 83157 | [83157-cinco-paus.json](./83157-cinco-paus.json) |
 | Cinder & Crowns | 410867 | [410867-cinder-and-crowns.json](./410867-cinder-and-crowns.json) |
 | Cinder City | 361814 | [361814-cinder-city.json](./361814-cinder-city.json) |
+| CinderAi | 223072 | [223072-cinderai.json](./223072-cinderai.json) |
 | Cinderella | 66954 | [66954-cinderella.json](./66954-cinderella.json) |
 | Cinderella (games for girls) | 103978 | [103978-cinderella-games-for-girls.json](./103978-cinderella-games-for-girls.json) |
 | Cinderella After 4 | 303292 | [303292-cinderella-after-4.json](./303292-cinderella-after-4.json) |
@@ -5642,6 +5643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citizen Sleeper | 152271 | [152271-citizen-sleeper.json](./152271-citizen-sleeper.json) |
 | Citizen Sleeper: Deluxe Edition | 200501 | [200501-citizen-sleeper-deluxe-edition.json](./200501-citizen-sleeper-deluxe-edition.json) |
 | Citizen Sleeper: Episode - Flux | 210738 | [210738-citizen-sleeper-episode-flux.json](./210738-citizen-sleeper-episode-flux.json) |
+| Citizen Sleeper: Episode - Refuge | 223060 | [223060-citizen-sleeper-episode-refuge.json](./223060-citizen-sleeper-episode-refuge.json) |
 | Citizen Vigilante | 410862 | [410862-citizen-vigilante.json](./410862-citizen-vigilante.json) |
 | Citizen Witch | 184650 | [184650-citizen-witch.json](./184650-citizen-witch.json) |
 | Citizen Zein | 278738 | [278738-citizen-zein.json](./278738-citizen-zein.json) |
