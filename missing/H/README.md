@@ -928,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Animal Farm | 140930 | [140930-happy-animal-farm.json](./140930-happy-animal-farm.json) |
 | Happy Animal Testing | 216699 | [216699-happy-animal-testing.json](./216699-happy-animal-testing.json) |
 | Happy Animals Bowling | 126488 | [126488-happy-animals-bowling.json](./126488-happy-animals-bowling.json) |
+| Happy Animals Mini Golf | 226328 | [226328-happy-animals-mini-golf.json](./226328-happy-animals-mini-golf.json) |
 | Happy Aquarium | 250638 | [250638-happy-aquarium.json](./250638-happy-aquarium.json) |
 | Happy Ball Rush | 391328 | [391328-happy-ball-rush.json](./391328-happy-ball-rush.json) |
 | Happy Balloons | 57368 | [57368-happy-balloons.json](./57368-happy-balloons.json) |
@@ -2885,6 +2886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellpunk | 129671 | [129671-hellpunk.json](./129671-hellpunk.json) |
 | HellPunk: Purgatorium | 349925 | [349925-hellpunk-purgatorium.json](./349925-hellpunk-purgatorium.json) |
 | Hellraid | 3250 | [3250-hellraid.json](./3250-hellraid.json) |
+| HellRazor64 | 226352 | [226352-hellrazor64.json](./226352-hellrazor64.json) |
 | Hellrider | 143083 | [143083-hellrider.json](./143083-hellrider.json) |
 | Hellrooms | 324322 | [324322-hellrooms.json](./324322-hellrooms.json) |
 | Hells Bend on Wounded Knee | 248679 | [248679-hells-bend-on-wounded-knee.json](./248679-hells-bend-on-wounded-knee.json) |
