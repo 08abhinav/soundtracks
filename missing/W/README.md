@@ -2910,6 +2910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whisper Of The Curse | 287706 | [287706-whisper-of-the-curse.json](./287706-whisper-of-the-curse.json) |
 | Whisper of the House | 312555 | [312555-whisper-of-the-house.json](./312555-whisper-of-the-house.json) |
 | Whisper of the Shade: Gray | 338372 | [338372-whisper-of-the-shade-gray.json](./338372-whisper-of-the-shade-gray.json) |
+| Whisper Out of Time | 197066 | [197066-whisper-out-of-time.json](./197066-whisper-out-of-time.json) |
 | Whisper Trip | 154008 | [154008-whisper-trip.json](./154008-whisper-trip.json) |
 | Whisper: In the Dark | 267429 | [267429-whisper-in-the-dark.json](./267429-whisper-in-the-dark.json) |
 | Whispered Flight | 274738 | [274738-whispered-flight.json](./274738-whispered-flight.json) |
@@ -4229,6 +4230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With Every Heartbeat | 313851 | [313851-with-every-heartbeat.json](./313851-with-every-heartbeat.json) |
 | With Eyes Closed: Season 1 | 267431 | [267431-with-eyes-closed-season-1.json](./267431-with-eyes-closed-season-1.json) |
 | With Eyes Closed: Season 2 | 414314 | [414314-with-eyes-closed-season-2.json](./414314-with-eyes-closed-season-2.json) |
+| With Good Intentions | 197053 | [197053-with-good-intentions.json](./197053-with-good-intentions.json) |
 | With Locks of Love | 178581 | [178581-with-locks-of-love.json](./178581-with-locks-of-love.json) |
 | With Loneliness | 116932 | [116932-with-loneliness.json](./116932-with-loneliness.json) |
 | With Mountain Smiling | 250271 | [250271-with-mountain-smiling.json](./250271-with-mountain-smiling.json) |
