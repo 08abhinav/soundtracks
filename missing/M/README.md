@@ -5917,6 +5917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MeowWare | 344511 | [344511-meowware.json](./344511-meowware.json) |
 | Mepekyon Racing | 416668 | [416668-mepekyon-racing.json](./416668-mepekyon-racing.json) |
 | MER Adventure Climbing | 370687 | [370687-mer-adventure-climbing.json](./370687-mer-adventure-climbing.json) |
+| MER Innebandy | 186661 | [186661-mer-innebandy.json](./186661-mer-innebandy.json) |
 | Mer Wars | 264310 | [264310-mer-wars.json](./264310-mer-wars.json) |
 | Merauders: A Voyage of Discovery | 296981 | [296981-merauders-a-voyage-of-discovery.json](./296981-merauders-a-voyage-of-discovery.json) |
 | Merc Elite | 63276 | [63276-merc-elite.json](./63276-merc-elite.json) |
@@ -8012,6 +8013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minelvaton Saga: Ragon no Fukkatsu | 48687 | [48687-minelvaton-saga-ragon-no-fukkatsu.json](./48687-minelvaton-saga-ragon-no-fukkatsu.json) |
 | Minemadness | 201155 | [201155-minemadness.json](./201155-minemadness.json) |
 | Minemaze | 196281 | [196281-minemaze.json](./196281-minemaze.json) |
+| Minepull | 186554 | [186554-minepull.json](./186554-minepull.json) |
 | Miner 2019er | 416659 | [416659-miner-2019er.json](./416659-miner-2019er.json) |
 | Miner 2049er | 198821 | [198821-miner-2049er.json](./198821-miner-2049er.json) |
 | Miner 2049er | 293746 | [293746-miner-2049er.json](./293746-miner-2049er.json) |
@@ -10636,6 +10638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoonBase Commander | 10557 | [10557-moonbase-commander.json](./10557-moonbase-commander.json) |
 | Moonbeeps: Fireflies | 99177 | [99177-moonbeeps-fireflies.json](./99177-moonbeeps-fireflies.json) |
 | Moonblood | 257418 | [257418-moonblood.json](./257418-moonblood.json) |
+| Moonbound | 186550 | [186550-moonbound.json](./186550-moonbound.json) |
 | Moonbreaker | 214405 | [214405-moonbreaker.json](./214405-moonbreaker.json) |
 | MoonBright | 275549 | [275549-moonbright.json](./275549-moonbright.json) |
 | Moonbringer | 413478 | [413478-moonbringer.json](./413478-moonbringer.json) |
@@ -11736,6 +11739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moving Out 2: Deluxe Edition | 271470 | [271470-moving-out-2-deluxe-edition.json](./271470-moving-out-2-deluxe-edition.json) |
 | Moving Out 2: F.A.R.Tastic Four Pack | 261858 | [261858-moving-out-2-f-a-r-tastic-four-pack.json](./261858-moving-out-2-f-a-r-tastic-four-pack.json) |
 | Moving Out: Deluxe Edition | 224202 | [224202-moving-out-deluxe-edition.json](./224202-moving-out-deluxe-edition.json) |
+| Moving Out: Digital Deluxe Edition | 186548 | [186548-moving-out-digital-deluxe-edition.json](./186548-moving-out-digital-deluxe-edition.json) |
 | Moving Out: Movers in Paradise | 143880 | [143880-moving-out-movers-in-paradise.json](./143880-moving-out-movers-in-paradise.json) |
 | Moving parts | 271221 | [271221-moving-parts.json](./271221-moving-parts.json) |
 | Moving Simulator | 346719 | [346719-moving-simulator.json](./346719-moving-simulator.json) |
@@ -12742,6 +12746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutation Madness | 264690 | [264690-mutation-madness.json](./264690-mutation-madness.json) |
 | Mutation Mayhem | 102914 | [102914-mutation-mayhem.json](./102914-mutation-mayhem.json) |
 | Mutation Nation | 39522 | [39522-mutation-nation.json](./39522-mutation-nation.json) |
+| Mutation of J.B. | 186582 | [186582-mutation-of-j-b.json](./186582-mutation-of-j-b.json) |
 | Mutation Phase | 105093 | [105093-mutation-phase.json](./105093-mutation-phase.json) |
 | Mutato Match | 34736 | [34736-mutato-match.json](./34736-mutato-match.json) |
 | Mute Crimson+ | 11843 | [11843-mute-crimson.json](./11843-mute-crimson.json) |
@@ -12910,6 +12915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Candy Love | 58621 | [58621-my-candy-love.json](./58621-my-candy-love.json) |
 | My Candy Love: Alternate Life | 203694 | [203694-my-candy-love-alternate-life.json](./203694-my-candy-love-alternate-life.json) |
 | My Candy Love: High School Life | 186654 | [186654-my-candy-love-high-school-life.json](./186654-my-candy-love-high-school-life.json) |
+| My Candy Love: Love Life | 186660 | [186660-my-candy-love-love-life.json](./186660-my-candy-love-love-life.json) |
 | My Candy Love: New Gen | 227973 | [227973-my-candy-love-new-gen.json](./227973-my-candy-love-new-gen.json) |
 | My Candy Love: University Life | 186655 | [186655-my-candy-love-university-life.json](./186655-my-candy-love-university-life.json) |
 | My Cannibal Family | 404918 | [404918-my-cannibal-family.json](./404918-my-cannibal-family.json) |
@@ -13259,6 +13265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lady Juliet | 238406 | [238406-my-lady-juliet.json](./238406-my-lady-juliet.json) |
 | My Lady Sayo: Zettai Kunshu! Sayo-sama | 196175 | [196175-my-lady-sayo-zettai-kunshu-sayo-sama.json](./196175-my-lady-sayo-zettai-kunshu-sayo-sama.json) |
 | My Land! | 234739 | [234739-my-land.json](./234739-my-land.json) |
+| My Last First Kiss | 186572 | [186572-my-last-first-kiss.json](./186572-my-last-first-kiss.json) |
 | My Last Friday | 320730 | [320730-my-last-friday.json](./320730-my-last-friday.json) |
 | My Last Heatwave | 396556 | [396556-my-last-heatwave.json](./396556-my-last-heatwave.json) |
 | My Last Journey | 190390 | [190390-my-last-journey.json](./190390-my-last-journey.json) |
