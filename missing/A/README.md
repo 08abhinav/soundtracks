@@ -1911,6 +1911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adrenaline | 379561 | [379561-adrenaline.json](./379561-adrenaline.json) |
 | Adrenaline Collection Pack | 312096 | [312096-adrenaline-collection-pack.json](./312096-adrenaline-collection-pack.json) |
 | Adrenaline Dungeon | 240725 | [240725-adrenaline-dungeon.json](./240725-adrenaline-dungeon.json) |
+| Adrenaline Gamer | 221922 | [221922-adrenaline-gamer.json](./221922-adrenaline-gamer.json) |
 | Adrenaline High | 379562 | [379562-adrenaline-high.json](./379562-adrenaline-high.json) |
 | Adrenaline or Die | 379563 | [379563-adrenaline-or-die.json](./379563-adrenaline-or-die.json) |
 | Adrenaline Overload Bundle | 396439 | [396439-adrenaline-overload-bundle.json](./396439-adrenaline-overload-bundle.json) |
@@ -2442,6 +2443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affinity | 144199 | [144199-affinity.json](./144199-affinity.json) |
 | Affinity: Fallen from Paradise | 211262 | [211262-affinity-fallen-from-paradise.json](./211262-affinity-fallen-from-paradise.json) |
 | Afflicted | 261188 | [261188-afflicted.json](./261188-afflicted.json) |
+| Affliction | 221921 | [221921-affliction.json](./221921-affliction.json) |
 | Affliction | 28913 | [28913-affliction.json](./28913-affliction.json) |
 | Affogato | 210654 | [210654-affogato.json](./210654-affogato.json) |
 | Affordable Healthcare | 297763 | [297763-affordable-healthcare.json](./297763-affordable-healthcare.json) |
@@ -8115,6 +8117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Digger TCG Collection | 358873 | [358873-arctic-digger-tcg-collection.json](./358873-arctic-digger-tcg-collection.json) |
 | Arctic Drive | 370782 | [370782-arctic-drive.json](./370782-arctic-drive.json) |
 | Arctic Fleet | 112967 | [112967-arctic-fleet.json](./112967-arctic-fleet.json) |
+| Arctic Incident | 221924 | [221924-arctic-incident.json](./221924-arctic-incident.json) |
 | Arctic Isolation | 371330 | [371330-arctic-isolation.json](./371330-arctic-isolation.json) |
 | Arctic Motel Simulator | 311829 | [311829-arctic-motel-simulator.json](./311829-arctic-motel-simulator.json) |
 | Arctic Outpost | 262264 | [262264-arctic-outpost.json](./262264-arctic-outpost.json) |
@@ -10797,6 +10800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autonomous Gods | 382557 | [382557-autonomous-gods.json](./382557-autonomous-gods.json) |
 | Autonomous Swarm: The Replication War | 389641 | [389641-autonomous-swarm-the-replication-war.json](./389641-autonomous-swarm-the-replication-war.json) |
 | Autonomous Warfare Evolution | 401072 | [401072-autonomous-warfare-evolution.json](./401072-autonomous-warfare-evolution.json) |
+| Autonomy Lost | 221913 | [221913-autonomy-lost.json](./221913-autonomy-lost.json) |
 | Autopanic Zero | 236786 | [236786-autopanic-zero.json](./236786-autopanic-zero.json) |
 | AutoParts Simulator | 346163 | [346163-autoparts-simulator.json](./346163-autoparts-simulator.json) |
 | Autopsy Simulator | 132385 | [132385-autopsy-simulator.json](./132385-autopsy-simulator.json) |
