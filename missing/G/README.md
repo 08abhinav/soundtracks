@@ -4059,6 +4059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold's Gym Dance Workout | 51074 | [51074-golds-gym-dance-workout.json](./51074-golds-gym-dance-workout.json) |
 | Goldbeard's Quest | 120346 | [120346-goldbeards-quest.json](./120346-goldbeards-quest.json) |
 | Goldberg Smash & Bash Wrestling Game Fear the Spear | 198748 | [198748-goldberg-smash-and-bash-wrestling-game-fear-the-spear.json](./198748-goldberg-smash-and-bash-wrestling-game-fear-the-spear.json) |
+| Golden Age | 193661 | [193661-golden-age.json](./193661-golden-age.json) |
 | Golden Apple | 298802 | [298802-golden-apple.json](./298802-golden-apple.json) |
 | Golden Arrow | 367760 | [367760-golden-arrow.json](./367760-golden-arrow.json) |
 | Golden Axe | 279631 | [279631-golden-axe.json](./279631-golden-axe.json) |
@@ -4210,6 +4211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Club Wasteland / Aspire Ina's Tale Bundle | 200463 | [200463-golf-club-wasteland-aspire-inas-tale-bundle.json](./200463-golf-club-wasteland-aspire-inas-tale-bundle.json) |
 | Golf Daisuki! | 228552 | [228552-golf-daisuki.json](./228552-golf-daisuki.json) |
 | Golf Daisuki! O.B. Club | 134451 | [134451-golf-daisuki-o-b-club.json](./134451-golf-daisuki-o-b-club.json) |
+| Golf Dreams | 193708 | [193708-golf-dreams.json](./193708-golf-dreams.json) |
 | Golf Escape | 281387 | [281387-golf-escape.json](./281387-golf-escape.json) |
 | Golf Evolution Simulation | 265082 | [265082-golf-evolution-simulation.json](./265082-golf-evolution-simulation.json) |
 | Golf For Fun in Ice | 173229 | [173229-golf-for-fun-in-ice.json](./173229-golf-for-fun-in-ice.json) |
@@ -5113,6 +5115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandia HD Remaster | 107213 | [107213-grandia-hd-remaster.json](./107213-grandia-hd-remaster.json) |
 | Grandia II | 9580 | [9580-grandia-ii.json](./9580-grandia-ii.json) |
 | Grandiose | 154581 | [154581-grandiose.json](./154581-grandiose.json) |
+| Grandma | 193676 | [193676-grandma.json](./193676-grandma.json) |
 | Grandma Cleaning Simulator: Family Business Tycoon | 308510 | [308510-grandma-cleaning-simulator-family-business-tycoon.json](./308510-grandma-cleaning-simulator-family-business-tycoon.json) |
 | Grandma Green | 249353 | [249353-grandma-green.json](./249353-grandma-green.json) |
 | Grandma With A Gun | 335276 | [335276-grandma-with-a-gun.json](./335276-grandma-with-a-gun.json) |
