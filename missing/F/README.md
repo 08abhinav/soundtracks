@@ -2710,6 +2710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiend | 268930 | [268930-fiend.json](./268930-fiend.json) |
 | Fiend | 69932 | [69932-fiend.json](./69932-fiend.json) |
 | Fiend Exile | 350520 | [350520-fiend-exile.json](./350520-fiend-exile.json) |
+| Fiend Folio: Reheated | 222491 | [222491-fiend-folio-reheated.json](./222491-fiend-folio-reheated.json) |
 | Fiend Hunter | 42000 | [42000-fiend-hunter.json](./42000-fiend-hunter.json) |
 | Fiend Hunter | 55897 | [55897-fiend-hunter.json](./55897-fiend-hunter.json) |
 | Fiend Legion | 110393 | [110393-fiend-legion.json](./110393-fiend-legion.json) |
@@ -8840,6 +8841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Breach 64 | 244682 | [244682-future-breach-64.json](./244682-future-breach-64.json) |
 | Future Card Buddyfight Mezase! Buddy Champion! | 222542 | [222542-future-card-buddyfight-mezase-buddy-champion.json](./222542-future-card-buddyfight-mezase-buddy-champion.json) |
 | Future Card Buddyfight: Tanjou! Oretachi no Saikyou Buddy! | 222545 | [222545-future-card-buddyfight-tanjou-oretachi-no-saikyou-buddy.json](./222545-future-card-buddyfight-tanjou-oretachi-no-saikyou-buddy.json) |
+| Future Card Buddyfight: Yuujou no Bakunetsu Fight! | 222457 | [222457-future-card-buddyfight-yuujou-no-bakunetsu-fight.json](./222457-future-card-buddyfight-yuujou-no-bakunetsu-fight.json) |
 | Future Cat Sailor | 298814 | [298814-future-cat-sailor.json](./298814-future-cat-sailor.json) |
 | Future City Coaster | 93753 | [93753-future-city-coaster.json](./93753-future-city-coaster.json) |
 | Future Cop: LAPD | 11235 | [11235-future-cop-lapd.json](./11235-future-cop-lapd.json) |
