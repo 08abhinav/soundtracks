@@ -4252,6 +4252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pill Puzzle | 241868 | [241868-pill-puzzle.json](./241868-pill-puzzle.json) |
 | Pilla's Paradise | 255573 | [255573-pillas-paradise.json](./255573-pillas-paradise.json) |
 | Pillaged Village: Humbled by Savages | 315133 | [315133-pillaged-village-humbled-by-savages.json](./315133-pillaged-village-humbled-by-savages.json) |
+| Pillar Builder Puzzle | 214684 | [214684-pillar-builder-puzzle.json](./214684-pillar-builder-puzzle.json) |
 | Pillar of Gods | 337077 | [337077-pillar-of-gods.json](./337077-pillar-of-gods.json) |
 | Pillar of Salt | 361729 | [361729-pillar-of-salt.json](./361729-pillar-of-salt.json) |
 | Pillars of Eternity II: Deadfire | 26951 | [26951-pillars-of-eternity-ii-deadfire.json](./26951-pillars-of-eternity-ii-deadfire.json) |
@@ -5165,6 +5166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series: Angel's Blood | 224205 | [224205-pixel-game-maker-series-angels-blood.json](./224205-pixel-game-maker-series-angels-blood.json) |
 | Pixel Game Maker Series: Cat and Castle | 288314 | [288314-pixel-game-maker-series-cat-and-castle.json](./288314-pixel-game-maker-series-cat-and-castle.json) |
 | Pixel Game Maker Series: Chrotopia | 320460 | [320460-pixel-game-maker-series-chrotopia.json](./320460-pixel-game-maker-series-chrotopia.json) |
+| Pixel Game Maker Series: Clam Knight | 214686 | [214686-pixel-game-maker-series-clam-knight.json](./214686-pixel-game-maker-series-clam-knight.json) |
 | Pixel Game Maker Series: Hunter of Devil | 284954 | [284954-pixel-game-maker-series-hunter-of-devil.json](./284954-pixel-game-maker-series-hunter-of-devil.json) |
 | Pixel Game Maker Series: Isekai Quartet Adventure - Action Game | 152891 | [152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json](./152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json) |
 | Pixel Game Maker Series: Jetman | 207891 | [207891-pixel-game-maker-series-jetman.json](./207891-pixel-game-maker-series-jetman.json) |
@@ -9401,6 +9403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Tycoon 4: Supermax | 14882 | [14882-prison-tycoon-4-supermax.json](./14882-prison-tycoon-4-supermax.json) |
 | Prison Tycoon: Alcatraz | 14883 | [14883-prison-tycoon-alcatraz.json](./14883-prison-tycoon-alcatraz.json) |
 | Prison Tycoon: Under New Management | 152405 | [152405-prison-tycoon-under-new-management.json](./152405-prison-tycoon-under-new-management.json) |
+| Prison Tycoon: Under New Management - Bundle 1 | 214680 | [214680-prison-tycoon-under-new-management-bundle-1.json](./214680-prison-tycoon-under-new-management-bundle-1.json) |
 | Prison Tycoon: Under New Management - Maximum Security | 196298 | [196298-prison-tycoon-under-new-management-maximum-security.json](./196298-prison-tycoon-under-new-management-maximum-security.json) |
 | Prison Wars | 193267 | [193267-prison-wars.json](./193267-prison-wars.json) |
 | Prison Wars | 336725 | [336725-prison-wars.json](./336725-prison-wars.json) |
@@ -9851,6 +9854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Breach Online | 208965 | [208965-project-breach-online.json](./208965-project-breach-online.json) |
 | Project Bridge | 187432 | [187432-project-bridge.json](./187432-project-bridge.json) |
 | Project Brutality | 140298 | [140298-project-brutality.json](./140298-project-brutality.json) |
+| Project Brutality | 214713 | [214713-project-brutality.json](./214713-project-brutality.json) |
 | Project Bubblegum | 290607 | [290607-project-bubblegum.json](./290607-project-bubblegum.json) |
 | Project Butterfly | 327793 | [327793-project-butterfly.json](./327793-project-butterfly.json) |
 | Project Cairo | 297475 | [297475-project-cairo.json](./297475-project-cairo.json) |
