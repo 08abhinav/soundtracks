@@ -2116,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Come: Salvation | 402334 | [402334-kingdom-come-salvation.json](./402334-kingdom-come-salvation.json) |
 | Kingdom Coronation Collection | 320464 | [320464-kingdom-coronation-collection.json](./320464-kingdom-coronation-collection.json) |
 | Kingdom Crusade | 49047 | [49047-kingdom-crusade.json](./49047-kingdom-crusade.json) |
+| Kingdom Days Sim Date | 197618 | [197618-kingdom-days-sim-date.json](./197618-kingdom-days-sim-date.json) |
 | Kingdom Death: Simulator | 360609 | [360609-kingdom-death-simulator.json](./360609-kingdom-death-simulator.json) |
 | Kingdom Defense: Deliverance | 333136 | [333136-kingdom-defense-deliverance.json](./333136-kingdom-defense-deliverance.json) |
 | Kingdom Defense: Hero Legend | 105834 | [105834-kingdom-defense-hero-legend.json](./105834-kingdom-defense-hero-legend.json) |
@@ -3369,6 +3370,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kono Subarashii Sekai ni Shukufuku wo! Kibou no Meikyuu to Tsudoishi Boukensha-tachi! | 133771 | [133771-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi.json](./133771-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi.json) |
 | Kono Subarashii Sekai ni Shukufuku wo! Kibou no Meikyuu to Tsudoishi Boukensha-tachi! Plus: Limited Edition | 167155 | [167155-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-plus-limited-edition.json](./167155-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-plus-limited-edition.json) |
 | Kono Subarashii Sekai ni Shukufuku wo! Kibou no Meikyuu to Tsudoishi Boukensha-tachi!: Limited Edition | 167152 | [167152-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-limited-edition.json](./167152-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-limited-edition.json) |
+| Kono Subarashii Sekai ni Shukufuku wo! Noroi no Ibutsu to Madoishi Boukensha-tachi | 197605 | [197605-kono-subarashii-sekai-ni-shukufuku-wo-noroi-no-ibutsu-to-madoishi-boukensha-tachi.json](./197605-kono-subarashii-sekai-ni-shukufuku-wo-noroi-no-ibutsu-to-madoishi-boukensha-tachi.json) |
+| Kono Subarashii Sekai ni Shukufuku wo! Noroi no Ibutsu to Madoishi Boukensha-tachi: Complete Edition | 197606 | [197606-kono-subarashii-sekai-ni-shukufuku-wo-noroi-no-ibutsu-to-madoishi-boukensha-tachi-complete-edition.json](./197606-kono-subarashii-sekai-ni-shukufuku-wo-noroi-no-ibutsu-to-madoishi-boukensha-tachi-complete-edition.json) |
 | Kono Subarashii Sekai ni Shukufuku wo!: Attack of the Destroyer! | 145938 | [145938-kono-subarashii-sekai-ni-shukufuku-wo-attack-of-the-destroyer.json](./145938-kono-subarashii-sekai-ni-shukufuku-wo-attack-of-the-destroyer.json) |
 | Kono Subarashii Sekai ni Shukufuku wo!: Kono Yokubukai Game ni Shinpan wo! | 112301 | [112301-kono-subarashii-sekai-ni-shukufuku-wo-kono-yokubukai-game-ni-shinpan-wo.json](./112301-kono-subarashii-sekai-ni-shukufuku-wo-kono-yokubukai-game-ni-shinpan-wo.json) |
 | Kono Uta ga Owattara: When This Song Is Over | 282811 | [282811-kono-uta-ga-owattara-when-this-song-is-over.json](./282811-kono-uta-ga-owattara-when-this-song-is-over.json) |
