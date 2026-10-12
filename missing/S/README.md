@@ -1570,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Dungeon! | 265578 | [265578-save-the-dungeon.json](./265578-save-the-dungeon.json) |
 | Save the Earth | 230962 | [230962-save-the-earth.json](./230962-save-the-earth.json) |
 | Save the Eggs | 416110 | [416110-save-the-eggs.json](./416110-save-the-eggs.json) |
+| Save the Fish | 180497 | [180497-save-the-fish.json](./180497-save-the-fish.json) |
 | Save the Fish! | 152919 | [152919-save-the-fish.json](./152919-save-the-fish.json) |
 | Save the Flame‪!‬ | 395513 | [395513-save-the-flame.json](./395513-save-the-flame.json) |
 | Save the Frog Keita | 295268 | [295268-save-the-frog-keita.json](./295268-save-the-frog-keita.json) |
@@ -2473,6 +2474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCUD Race | 39476 | [39476-scud-race.json](./39476-scud-race.json) |
 | Scud: Industrial Evolution | 73501 | [73501-scud-industrial-evolution.json](./73501-scud-industrial-evolution.json) |
 | Scudhead | 275206 | [275206-scudhead.json](./275206-scudhead.json) |
+| Scuffed Rocket League | 180496 | [180496-scuffed-rocket-league.json](./180496-scuffed-rocket-league.json) |
 | Scuffle Buddies | 59861 | [59861-scuffle-buddies.json](./59861-scuffle-buddies.json) |
 | Sculplings | 349407 | [349407-sculplings.json](./349407-sculplings.json) |
 | Sculpt | 263763 | [263763-sculpt.json](./263763-sculpt.json) |
@@ -3409,6 +3411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Self Defense Kinda... | 258468 | [258468-self-defense-kinda.json](./258468-self-defense-kinda.json) |
 | Self Deleted | 412985 | [412985-self-deleted.json](./412985-self-deleted.json) |
 | Self Made Man: Life of an Entrepreneur | 204937 | [204937-self-made-man-life-of-an-entrepreneur.json](./204937-self-made-man-life-of-an-entrepreneur.json) |
+| Self Portrait (Interior) | 180512 | [180512-self-portrait-interior.json](./180512-self-portrait-interior.json) |
 | Self Reflection | 178011 | [178011-self-reflection.json](./178011-self-reflection.json) |
 | Self Shot | 117806 | [117806-self-shot.json](./117806-self-shot.json) |
 | Self-Defense Training Camp | 8545 | [8545-self-defense-training-camp.json](./8545-self-defense-training-camp.json) |
@@ -3528,6 +3531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senpai Arena | 254039 | [254039-senpai-arena.json](./254039-senpai-arena.json) |
 | Senpai ga Imouto no Saigo no Natsu | 406199 | [406199-senpai-ga-imouto-no-saigo-no-natsu.json](./406199-senpai-ga-imouto-no-saigo-no-natsu.json) |
 | Senpai Puzzle: Waifu Summer | 322839 | [322839-senpai-puzzle-waifu-summer.json](./322839-senpai-puzzle-waifu-summer.json) |
+| Senpai Simulator | 180539 | [180539-senpai-simulator.json](./180539-senpai-simulator.json) |
 | Senpai, Suki Desu...... Osu!: Boku o Shitatte Kureru Kouhai wa Chibikko Bishoujo de...... Yankee!? | 409418 | [409418-senpai-suki-desu-osu-boku-o-shitatte-kureru-kouhai-wa-chibikko-bishoujo-de-yankee.json](./409418-senpai-suki-desu-osu-boku-o-shitatte-kureru-kouhai-wa-chibikko-bishoujo-de-yankee.json) |
 | Senpie | 374048 | [374048-senpie.json](./374048-senpie.json) |
 | Senpon | 295998 | [295998-senpon.json](./295998-senpon.json) |
@@ -10089,6 +10093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Quirky! Puzzle Escape Game | 399789 | [399789-so-quirky-puzzle-escape-game.json](./399789-so-quirky-puzzle-escape-game.json) |
 | So to Speak | 199463 | [199463-so-to-speak.json](./199463-so-to-speak.json) |
 | So Who's Dr. Rabbit? | 291974 | [291974-so-whos-dr-rabbit.json](./291974-so-whos-dr-rabbit.json) |
+| So you think you can Chad?: An Incel Dating Sim | 180531 | [180531-so-you-think-you-can-chad-an-incel-dating-sim.json](./180531-so-you-think-you-can-chad-an-incel-dating-sim.json) |
 | So You Wanna Be A Redneck | 362972 | [362972-so-you-wanna-be-a-redneck.json](./362972-so-you-wanna-be-a-redneck.json) |
 | SO-108 | 232945 | [232945-so-108.json](./232945-so-108.json) |
 | So-Gnar | 176465 | [176465-so-gnar.json](./176465-so-gnar.json) |
@@ -12529,6 +12534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Evader | 38879 | [38879-space-evader.json](./38879-space-evader.json) |
 | Space Expand | 115132 | [115132-space-expand.json](./115132-space-expand.json) |
 | Space Expedition | 146100 | [146100-space-expedition.json](./146100-space-expedition.json) |
+| Space Explorer Iyo!! | 180513 | [180513-space-explorer-iyo.json](./180513-space-explorer-iyo.json) |
 | Space Explorers: Lunar Mission | 214477 | [214477-space-explorers-lunar-mission.json](./214477-space-explorers-lunar-mission.json) |
 | Space Explorers: Reload | 105250 | [105250-space-explorers-reload.json](./105250-space-explorers-reload.json) |
 | Space Extra | 384161 | [384161-space-extra.json](./384161-space-extra.json) |
@@ -14624,6 +14630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sporting Goods Shop | 342895 | [342895-sporting-goods-shop.json](./342895-sporting-goods-shop.json) |
 | Sporting Triangles | 72062 | [72062-sporting-triangles.json](./72062-sporting-triangles.json) |
 | Sportitions ’24 | 308497 | [308497-sportitions-24.json](./308497-sportitions-24.json) |
+| Sports | 180493 | [180493-sports.json](./180493-sports.json) |
 | Sports & Adventure Pinball | 173132 | [173132-sports-and-adventure-pinball.json](./173132-sports-and-adventure-pinball.json) |
 | Sports 5 | 254951 | [254951-sports-5.json](./254951-sports-5.json) |
 | Sports Action Pak | 56456 | [56456-sports-action-pak.json](./56456-sports-action-pak.json) |
@@ -17237,6 +17244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steven Universe: Save the Light & OK K.O.! Let's Play Heroes Combo Pack | 107150 | [107150-steven-universe-save-the-light-and-ok-k-o-lets-play-heroes-combo-pack.json](./107150-steven-universe-save-the-light-and-ok-k-o-lets-play-heroes-combo-pack.json) |
 | Steven Universe: Tap Together | 106958 | [106958-steven-universe-tap-together.json](./106958-steven-universe-tap-together.json) |
 | Steven: The Jumpmaker | 57318 | [57318-steven-the-jumpmaker.json](./57318-steven-the-jumpmaker.json) |
+| Steventon Street | 180543 | [180543-steventon-street.json](./180543-steventon-street.json) |
 | Steventon Street: Deluxe Edition | 359069 | [359069-steventon-street-deluxe-edition.json](./359069-steventon-street-deluxe-edition.json) |
 | Stevo Life | 341016 | [341016-stevo-life.json](./341016-stevo-life.json) |
 | Stewie Talking Electronic Pinball | 218441 | [218441-stewie-talking-electronic-pinball.json](./218441-stewie-talking-electronic-pinball.json) |
@@ -18440,6 +18448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striking Wine | 372815 | [372815-striking-wine.json](./372815-striking-wine.json) |
 | Strimko | 54408 | [54408-strimko.json](./54408-strimko.json) |
 | Strimpland | 395698 | [395698-strimpland.json](./395698-strimpland.json) |
+| String 'Em Up | 180554 | [180554-string-em-up.json](./180554-string-em-up.json) |
 | String Mace | 403644 | [403644-string-mace.json](./403644-string-mace.json) |
 | String Rush | 173236 | [173236-string-rush.json](./173236-string-rush.json) |
 | String Theory | 240706 | [240706-string-theory.json](./240706-string-theory.json) |
@@ -21256,6 +21265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Seals Float | 149594 | [149594-super-seals-float.json](./149594-super-seals-float.json) |
 | Super Sean 007 | 239736 | [239736-super-sean-007.json](./239736-super-sean-007.json) |
 | Super Sean 008: Xelar's Revenge | 250831 | [250831-super-sean-008-xelars-revenge.json](./250831-super-sean-008-xelars-revenge.json) |
+| Super Sec Soccer | 180500 | [180500-super-sec-soccer.json](./180500-super-sec-soccer.json) |
 | Super Seducer | 76397 | [76397-super-seducer.json](./76397-super-seducer.json) |
 | Super Seducer 2 | 103232 | [103232-super-seducer-2.json](./103232-super-seducer-2.json) |
 | Super Seeker | 111568 | [111568-super-seeker.json](./111568-super-seeker.json) |
