@@ -4056,7 +4056,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Yellow Submarine | 104689 | [104689-little-yellow-submarine.json](./104689-little-yellow-submarine.json) |
 | Little-Known Galaxy | 273654 | [273654-little-known-galaxy.json](./273654-little-known-galaxy.json) |
 | LittleBigPlanet | 21911 | [21911-littlebigplanet.json](./21911-littlebigplanet.json) |
-| LittleBigPlanet 2 | 2140 | [2140-littlebigplanet-2.json](./2140-littlebigplanet-2.json) |
 | LittleBigPlanet 2 Extras Edition | 414317 | [414317-littlebigplanet-2-extras-edition.json](./414317-littlebigplanet-2-extras-edition.json) |
 | LittleBigPlanet 2: Collector's Edition | 44554 | [44554-littlebigplanet-2-collectors-edition.json](./44554-littlebigplanet-2-collectors-edition.json) |
 | LittleBigPlanet 2: World Peace Day Costume | 321624 | [321624-littlebigplanet-2-world-peace-day-costume.json](./321624-littlebigplanet-2-world-peace-day-costume.json) |
