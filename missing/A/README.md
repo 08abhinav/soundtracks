@@ -2689,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Defense 3 | 327421 | [327421-age-of-defense-3.json](./327421-age-of-defense-3.json) |
 | Age of Defense: Prehistory | 309860 | [309860-age-of-defense-prehistory.json](./309860-age-of-defense-prehistory.json) |
 | Age of Discovery | 199457 | [199457-age-of-discovery.json](./199457-age-of-discovery.json) |
+| Age of DOOM | 218053 | [218053-age-of-doom.json](./218053-age-of-doom.json) |
 | Age of Dynasties: Shogun | 219260 | [219260-age-of-dynasties-shogun.json](./219260-age-of-dynasties-shogun.json) |
 | Age of Dynasty | 213428 | [213428-age-of-dynasty.json](./213428-age-of-dynasty.json) |
 | Age of Ember | 183853 | [183853-age-of-ember.json](./183853-age-of-ember.json) |
@@ -6425,6 +6426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annabel | 92055 | [92055-annabel.json](./92055-annabel.json) |
 | Annabel Gray | 15596 | [15596-annabel-gray.json](./15596-annabel-gray.json) |
 | Annapurna Interactive Deluxe Limited Edition | 138780 | [138780-annapurna-interactive-deluxe-limited-edition.json](./138780-annapurna-interactive-deluxe-limited-edition.json) |
+| AnnaTommy | 218102 | [218102-annatommy.json](./218102-annatommy.json) |
 | Anne Frank House VR | 143341 | [143341-anne-frank-house-vr.json](./143341-anne-frank-house-vr.json) |
 | Anne in the Sky | 183329 | [183329-anne-in-the-sky.json](./183329-anne-in-the-sky.json) |
 | Anne's Zombie Odyssey | 328574 | [328574-annes-zombie-odyssey.json](./328574-annes-zombie-odyssey.json) |
