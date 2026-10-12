@@ -2750,6 +2750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redrum | 237269 | [237269-redrum.json](./237269-redrum.json) |
 | RedShift | 328963 | [328963-redshift.json](./328963-redshift.json) |
 | Redshift VR | 111067 | [111067-redshift-vr.json](./111067-redshift-vr.json) |
+| RedShip | 188968 | [188968-redship.json](./188968-redship.json) |
 | Redshirt | 9220 | [9220-redshirt.json](./9220-redshirt.json) |
 | RedStory and the Last Glimmer | 244711 | [244711-redstory-and-the-last-glimmer.json](./244711-redstory-and-the-last-glimmer.json) |
 | Redstream | 392134 | [392134-redstream.json](./392134-redstream.json) |
@@ -7326,6 +7327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon | 159290 | [159290-roxy-raccoon.json](./159290-roxy-raccoon.json) |
 | Roxy Raccoon 3: Troubles in Time | 375845 | [375845-roxy-raccoon-3-troubles-in-time.json](./375845-roxy-raccoon-3-troubles-in-time.json) |
 | Roxy Raccoon's Bowling Bash | 199336 | [199336-roxy-raccoons-bowling-bash.json](./199336-roxy-raccoons-bowling-bash.json) |
+| Roxy Raccoon's Pinball Panic | 188874 | [188874-roxy-raccoons-pinball-panic.json](./188874-roxy-raccoons-pinball-panic.json) |
 | Roxy Raccoon's Pinball Panic: American Anniversary | 311788 | [311788-roxy-raccoons-pinball-panic-american-anniversary.json](./311788-roxy-raccoons-pinball-panic-american-anniversary.json) |
 | Roxy Raccoon's Pinball Panic: Baker's Best | 285461 | [285461-roxy-raccoons-pinball-panic-bakers-best.json](./285461-roxy-raccoons-pinball-panic-bakers-best.json) |
 | Roxy Raccoon's Pinball Panic: Christmas Carnage | 235360 | [235360-roxy-raccoons-pinball-panic-christmas-carnage.json](./235360-roxy-raccoons-pinball-panic-christmas-carnage.json) |
