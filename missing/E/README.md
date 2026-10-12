@@ -2872,6 +2872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epimutation | 338835 | [338835-epimutation.json](./338835-epimutation.json) |
 | Epiphany | 181201 | [181201-epiphany.json](./181201-epiphany.json) |
 | Epiphany in Spaaace! | 66356 | [66356-epiphany-in-spaaace.json](./66356-epiphany-in-spaaace.json) |
+| Epiphyllum in Love | 216405 | [216405-epiphyllum-in-love.json](./216405-epiphyllum-in-love.json) |
 | Episode | 369114 | [369114-episode.json](./369114-episode.json) |
 | Episode 2: The 4 Seasons of Quake #2 | 309583 | [309583-episode-2-the-4-seasons-of-quake-2.json](./309583-episode-2-the-4-seasons-of-quake-2.json) |
 | Episode XOXO | 291981 | [291981-episode-xoxo.json](./291981-episode-xoxo.json) |
@@ -3090,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Errships | 258403 | [258403-errships.json](./258403-errships.json) |
 | Ersatz | 59238 | [59238-ersatz.json](./59238-ersatz.json) |
 | Erst Kerf | 130906 | [130906-erst-kerf.json](./130906-erst-kerf.json) |
+| Erstwhile | 216431 | [216431-erstwhile.json](./216431-erstwhile.json) |
 | Erth | 134673 | [134673-erth.json](./134673-erth.json) |
 | Ertugrul | 274772 | [274772-ertugrul.json](./274772-ertugrul.json) |
 | Erulean Angel: Fantasy Commander | 351136 | [351136-erulean-angel-fantasy-commander.json](./351136-erulean-angel-fantasy-commander.json) |
@@ -4791,6 +4793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodus | 279621 | [279621-exodus.json](./279621-exodus.json) |
 | Exodus | 379592 | [379592-exodus.json](./379592-exodus.json) |
 | Exodus | 388931 | [388931-exodus.json](./388931-exodus.json) |
+| Exodus Checkmate | 216398 | [216398-exodus-checkmate.json](./216398-exodus-checkmate.json) |
 | Exodus Core | 347750 | [347750-exodus-core.json](./347750-exodus-core.json) |
 | Exodus Flight | 297070 | [297070-exodus-flight.json](./297070-exodus-flight.json) |
 | Exodus Idle | 211761 | [211761-exodus-idle.json](./211761-exodus-idle.json) |
