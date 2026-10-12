@@ -5593,10 +5593,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities XL: Limited Edition | 29202 | [29202-cities-xl-limited-edition.json](./29202-cities-xl-limited-edition.json) |
 | Cities XXL | 10094 | [10094-cities-xxl.json](./10094-cities-xxl.json) |
 | Cities: Skylines - 90s Pop Radio | 257082 | [257082-cities-skylines-90s-pop-radio.json](./257082-cities-skylines-90s-pop-radio.json) |
+| Cities: Skylines - African Vibes | 227401 | [227401-cities-skylines-african-vibes.json](./227401-cities-skylines-african-vibes.json) |
+| Cities: Skylines - Airports | 227412 | [227412-cities-skylines-airports.json](./227412-cities-skylines-airports.json) |
 | Cities: Skylines - Coast to Coast Radio | 149996 | [149996-cities-skylines-coast-to-coast-radio.json](./149996-cities-skylines-coast-to-coast-radio.json) |
 | Cities: Skylines - Content Creator Pack | 241073 | [241073-cities-skylines-content-creator-pack.json](./241073-cities-skylines-content-creator-pack.json) |
 | Cities: Skylines - Content Creator Pack: Bridges & Piers | 149999 | [149999-cities-skylines-content-creator-pack-bridges-and-piers.json](./149999-cities-skylines-content-creator-pack-bridges-and-piers.json) |
 | Cities: Skylines - Content Creator Pack: Heart of Korea | 240928 | [240928-cities-skylines-content-creator-pack-heart-of-korea.json](./240928-cities-skylines-content-creator-pack-heart-of-korea.json) |
+| Cities: Skylines - Content Creator Pack: Map Pack 2 | 227400 | [227400-cities-skylines-content-creator-pack-map-pack-2.json](./227400-cities-skylines-content-creator-pack-map-pack-2.json) |
+| Cities: Skylines - Content Creator Pack: Mid-Century Modern | 227396 | [227396-cities-skylines-content-creator-pack-mid-century-modern.json](./227396-cities-skylines-content-creator-pack-mid-century-modern.json) |
 | Cities: Skylines - Content Creator Pack: Modern City Center | 149993 | [149993-cities-skylines-content-creator-pack-modern-city-center.json](./149993-cities-skylines-content-creator-pack-modern-city-center.json) |
 | Cities: Skylines - Content Creator Pack: Modern Japan | 149995 | [149995-cities-skylines-content-creator-pack-modern-japan.json](./149995-cities-skylines-content-creator-pack-modern-japan.json) |
 | Cities: Skylines - Content Creator Pack: Seaside Resorts | 241037 | [241037-cities-skylines-content-creator-pack-seaside-resorts.json](./241037-cities-skylines-content-creator-pack-seaside-resorts.json) |
@@ -5728,6 +5732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Dolorosa | 348319 | [348319-city-of-dolorosa.json](./348319-city-of-dolorosa.json) |
 | City of Dusk | 246951 | [246951-city-of-dusk.json](./246951-city-of-dusk.json) |
 | City of Fools | 35520 | [35520-city-of-fools.json](./35520-city-of-fools.json) |
+| City of Gangsters: Bourbon Bootlegging | 227404 | [227404-city-of-gangsters-bourbon-bootlegging.json](./227404-city-of-gangsters-bourbon-bootlegging.json) |
 | City of Gangsters: Criminal Record | 193747 | [193747-city-of-gangsters-criminal-record.json](./193747-city-of-gangsters-criminal-record.json) |
 | City of Gangsters: Deluxe Edition | 173783 | [173783-city-of-gangsters-deluxe-edition.json](./173783-city-of-gangsters-deluxe-edition.json) |
 | City of Gangsters: Shadow Government | 203928 | [203928-city-of-gangsters-shadow-government.json](./203928-city-of-gangsters-shadow-government.json) |
@@ -7773,6 +7778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Mission: Battle for Normandy - Vehicle Pack | 242617 | [242617-combat-mission-battle-for-normandy-vehicle-pack.json](./242617-combat-mission-battle-for-normandy-vehicle-pack.json) |
 | Combat Mission: Beyond Overlord | 646 | [646-combat-mission-beyond-overlord.json](./646-combat-mission-beyond-overlord.json) |
 | Combat Mission: Black Sea | 77292 | [77292-combat-mission-black-sea.json](./77292-combat-mission-black-sea.json) |
+| Combat Mission: Black Sea - Battle Pack 1 | 227161 | [227161-combat-mission-black-sea-battle-pack-1.json](./227161-combat-mission-black-sea-battle-pack-1.json) |
 | Combat Mission: Final Blitzkrieg - Downfall | 288220 | [288220-combat-mission-final-blitzkrieg-downfall.json](./288220-combat-mission-final-blitzkrieg-downfall.json) |
 | Combat Mission: Red Thunder | 77293 | [77293-combat-mission-red-thunder.json](./77293-combat-mission-red-thunder.json) |
 | Combat Mission: Red Thunder - Battle Pack 1 | 252240 | [252240-combat-mission-red-thunder-battle-pack-1.json](./252240-combat-mission-red-thunder-battle-pack-1.json) |
@@ -8194,9 +8200,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conan Chronicles 2 | 356211 | [356211-conan-chronicles-2.json](./356211-conan-chronicles-2.json) |
 | Conan Exiles Enhanced | 402464 | [402464-conan-exiles-enhanced.json](./402464-conan-exiles-enhanced.json) |
 | Conan Exiles: Blood and Sand Pack | 164781 | [164781-conan-exiles-blood-and-sand-pack.json](./164781-conan-exiles-blood-and-sand-pack.json) |
+| Conan Exiles: Blood and Sand Pack | 227160 | [227160-conan-exiles-blood-and-sand-pack.json](./227160-conan-exiles-blood-and-sand-pack.json) |
 | Conan Exiles: Debaucheries of Derketo Pack | 164823 | [164823-conan-exiles-debaucheries-of-derketo-pack.json](./164823-conan-exiles-debaucheries-of-derketo-pack.json) |
 | Conan Exiles: Isle of Siptah | 167762 | [167762-conan-exiles-isle-of-siptah.json](./167762-conan-exiles-isle-of-siptah.json) |
 | Conan Exiles: Isle of Siptah Edition | 164809 | [164809-conan-exiles-isle-of-siptah-edition.json](./164809-conan-exiles-isle-of-siptah-edition.json) |
+| Conan Exiles: People of the Dragon Pack | 227159 | [227159-conan-exiles-people-of-the-dragon-pack.json](./227159-conan-exiles-people-of-the-dragon-pack.json) |
 | Conan Exiles: Riders of Hyboria | 127253 | [127253-conan-exiles-riders-of-hyboria.json](./127253-conan-exiles-riders-of-hyboria.json) |
 | Conan Exiles: Riders of Hyboria Pack | 164794 | [164794-conan-exiles-riders-of-hyboria-pack.json](./164794-conan-exiles-riders-of-hyboria-pack.json) |
 | Conan Exiles: Savage Edition | 164771 | [164771-conan-exiles-savage-edition.json](./164771-conan-exiles-savage-edition.json) |
