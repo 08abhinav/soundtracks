@@ -1171,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa V: Hasha no Shougou Campione | 38268 | [38268-captain-tsubasa-v-hasha-no-shougou-campione.json](./38268-captain-tsubasa-v-hasha-no-shougou-campione.json) |
 | Captain Tsubasa Vol. II: Super Striker | 102254 | [102254-captain-tsubasa-vol-ii-super-striker.json](./102254-captain-tsubasa-vol-ii-super-striker.json) |
 | Captain Tsubasa Zero: Miracle Shot | 124759 | [124759-captain-tsubasa-zero-miracle-shot.json](./124759-captain-tsubasa-zero-miracle-shot.json) |
+| Captain Tsubasa: Ace | 212434 | [212434-captain-tsubasa-ace.json](./212434-captain-tsubasa-ace.json) |
 | Captain Tsubasa: Dream Team | 76738 | [76738-captain-tsubasa-dream-team.json](./76738-captain-tsubasa-dream-team.json) |
 | Captain Tsubasa: Eikou no Kiseki | 49521 | [49521-captain-tsubasa-eikou-no-kiseki.json](./49521-captain-tsubasa-eikou-no-kiseki.json) |
 | Captain Tsubasa: Moeyo! Drive Shoot | 385801 | [385801-captain-tsubasa-moeyo-drive-shoot.json](./385801-captain-tsubasa-moeyo-drive-shoot.json) |
@@ -3767,6 +3768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie II | 72264 | [72264-charlie-ii.json](./72264-charlie-ii.json) |
 | Charlie II: Expansion Pack | 169327 | [169327-charlie-ii-expansion-pack.json](./169327-charlie-ii-expansion-pack.json) |
 | Charlie in the Moistverse of Madness | 192257 | [192257-charlie-in-the-moistverse-of-madness.json](./192257-charlie-in-the-moistverse-of-madness.json) |
+| Charlie in Underworld! | 212503 | [212503-charlie-in-underworld.json](./212503-charlie-in-underworld.json) |
 | Charlie Murder | 19914 | [19914-charlie-murder.json](./19914-charlie-murder.json) |
 | Charlie Ninja | 39832 | [39832-charlie-ninja.json](./39832-charlie-ninja.json) |
 | Charlie Spotlight | 391897 | [391897-charlie-spotlight.json](./391897-charlie-spotlight.json) |
@@ -4847,6 +4849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chop Chop Inc. | 398967 | [398967-chop-chop-inc.json](./398967-chop-chop-inc.json) |
 | Chop Chop Kicker | 232489 | [232489-chop-chop-kicker.json](./232489-chop-chop-kicker.json) |
 | Chop Chop Princess! | 75028 | [75028-chop-chop-princess.json](./75028-chop-chop-princess.json) |
+| Chop Chop Soccer | 212421 | [212421-chop-chop-soccer.json](./212421-chop-chop-soccer.json) |
 | Chop Chop Together | 392147 | [392147-chop-chop-together.json](./392147-chop-chop-together.json) |
 | Chop Signal | 389455 | [389455-chop-signal.json](./389455-chop-signal.json) |
 | Chop Suey | 234212 | [234212-chop-suey.json](./234212-chop-suey.json) |
@@ -7068,6 +7071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Run | 74470 | [74470-coffee-run.json](./74470-coffee-run.json) |
 | Coffee Runner Black and Mocha | 119490 | [119490-coffee-runner-black-and-mocha.json](./119490-coffee-runner-black-and-mocha.json) |
 | Coffee Shop Tycoon | 35274 | [35274-coffee-shop-tycoon.json](./35274-coffee-shop-tycoon.json) |
+| Coffee Stack | 212506 | [212506-coffee-stack.json](./212506-coffee-stack.json) |
 | Coffee Talk | 106847 | [106847-coffee-talk.json](./106847-coffee-talk.json) |
 | Coffee Talk 1+2 Double Pack Edition | 270576 | [270576-coffee-talk-1-2-double-pack-edition.json](./270576-coffee-talk-1-2-double-pack-edition.json) |
 | Coffee Talk: Episode 2 - Hibiscus & Butterfly | 186528 | [186528-coffee-talk-episode-2-hibiscus-and-butterfly.json](./186528-coffee-talk-episode-2-hibiscus-and-butterfly.json) |
@@ -11148,6 +11152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Words | 417427 | [417427-cross-words.json](./417427-cross-words.json) |
 | Cross World: Mishiranu Sora no Etatia | 350459 | [350459-cross-world-mishiranu-sora-no-etatia.json](./350459-cross-world-mishiranu-sora-no-etatia.json) |
 | Cross X Carrot | 111608 | [111608-cross-x-carrot.json](./111608-cross-x-carrot.json) |
+| Cross x Worst: Xross Over | 212522 | [212522-cross-x-worst-xross-over.json](./212522-cross-x-worst-xross-over.json) |
 | Cross-Stitch Puzzle | 90822 | [90822-cross-stitch-puzzle.json](./90822-cross-stitch-puzzle.json) |
 | Crossbar Kevin | 246961 | [246961-crossbar-kevin.json](./246961-crossbar-kevin.json) |
 | Crossbars | 353963 | [353963-crossbars.json](./353963-crossbars.json) |
@@ -12614,6 +12619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Honey 2 | 156985 | [156985-cute-honey-2.json](./156985-cute-honey-2.json) |
 | Cute Honey: Bunny Girl | 189975 | [189975-cute-honey-bunny-girl.json](./189975-cute-honey-bunny-girl.json) |
 | Cute Honey: Special Edition | 236017 | [236017-cute-honey-special-edition.json](./236017-cute-honey-special-edition.json) |
+| Cute Hoop Master | 212446 | [212446-cute-hoop-master.json](./212446-cute-hoop-master.json) |
 | Cute Ice! | 277958 | [277958-cute-ice.json](./277958-cute-ice.json) |
 | Cute Kaizo World | 208401 | [208401-cute-kaizo-world.json](./208401-cute-kaizo-world.json) |
 | Cute Mold | 374161 | [374161-cute-mold.json](./374161-cute-mold.json) |
