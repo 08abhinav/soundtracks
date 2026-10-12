@@ -1416,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mail Order Monsters | 25891 | [25891-mail-order-monsters.json](./25891-mail-order-monsters.json) |
 | Mail Plane | 41981 | [41981-mail-plane.json](./41981-mail-plane.json) |
 | Mail Rabbit | 176417 | [176417-mail-rabbit.json](./176417-mail-rabbit.json) |
+| Mail Run Endless Delivery Rush | 216448 | [216448-mail-run-endless-delivery-rush.json](./216448-mail-run-endless-delivery-rush.json) |
 | Mail Tail | 236932 | [236932-mail-tail.json](./236932-mail-tail.json) |
 | Mail To The Moon | 362336 | [362336-mail-to-the-moon.json](./362336-mail-to-the-moon.json) |
 | Mailbag Mayhem | 62191 | [62191-mailbag-mayhem.json](./62191-mailbag-mayhem.json) |
@@ -3905,6 +3906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximus 2: Street Gladiators | 237237 | [237237-maximus-2-street-gladiators.json](./237237-maximus-2-street-gladiators.json) |
 | Maxit | 78372 | [78372-maxit.json](./78372-maxit.json) |
 | Maxo Scringle's "Human Rocket" Mini-Type Rocket Golf | 402367 | [402367-maxo-scringles-human-rocket-mini-type-rocket-golf.json](./402367-maxo-scringles-human-rocket-mini-type-rocket-golf.json) |
+| Maxoo 2 | 216412 | [216412-maxoo-2.json](./216412-maxoo-2.json) |
 | MaxPlay Classic Games Volume 1 | 3996 | [3996-maxplay-classic-games-volume-1.json](./3996-maxplay-classic-games-volume-1.json) |
 | MaXplosion | 92153 | [92153-maxplosion.json](./92153-maxplosion.json) |
 | MaxRacer | 143670 | [143670-maxracer.json](./143670-maxracer.json) |
@@ -6773,6 +6775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microscope Madness | 127211 | [127211-microscope-madness.json](./127211-microscope-madness.json) |
 | Microscopic | 215613 | [215613-microscopic.json](./215613-microscopic.json) |
 | Microscopic Journey | 291152 | [291152-microscopic-journey.json](./291152-microscopic-journey.json) |
+| Microscopya | 216408 | [216408-microscopya.json](./216408-microscopya.json) |
 | Microshaft Winblows 98 | 81214 | [81214-microshaft-winblows-98.json](./81214-microshaft-winblows-98.json) |
 | MicroSoccer | 234062 | [234062-microsoccer.json](./234062-microsoccer.json) |
 | Microsoft Action Pack | 86036 | [86036-microsoft-action-pack.json](./86036-microsoft-action-pack.json) |
@@ -11713,6 +11716,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Investigator | 373676 | [373676-mr-investigator.json](./373676-mr-investigator.json) |
 | Mr Jack Pocket | 175410 | [175410-mr-jack-pocket.json](./175410-mr-jack-pocket.json) |
 | Mr Jorries! | 157136 | [157136-mr-jorries.json](./157136-mr-jorries.json) |
+| Mr Jump | 216429 | [216429-mr-jump.json](./216429-mr-jump.json) |
+| Mr Jump S | 216439 | [216439-mr-jump-s.json](./216439-mr-jump-s.json) |
 | Mr Jump World | 217804 | [217804-mr-jump-world.json](./217804-mr-jump-world.json) |
 | Mr Love: Queen's Choice | 118949 | [118949-mr-love-queens-choice.json](./118949-mr-love-queens-choice.json) |
 | Mr Makeshifter | 34655 | [34655-mr-makeshifter.json](./34655-mr-makeshifter.json) |
@@ -12052,6 +12057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MugenCards | 200698 | [200698-mugencards.json](./200698-mugencards.json) |
 | Mugengikyou: First Disaster | 301352 | [301352-mugengikyou-first-disaster.json](./301352-mugengikyou-first-disaster.json) |
 | Mugengikyou: Second Departure | 301356 | [301356-mugengikyou-second-departure.json](./301356-mugengikyou-second-departure.json) |
+| Muggle Studies | 216440 | [216440-muggle-studies.json](./216440-muggle-studies.json) |
 | Muggo Clicker | 311479 | [311479-muggo-clicker.json](./311479-muggo-clicker.json) |
 | Muggo! | 237510 | [237510-muggo.json](./237510-muggo.json) |
 | Mughaan | 238522 | [238522-mughaan.json](./238522-mughaan.json) |
