@@ -2845,6 +2845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Shot | 343744 | [343744-night-shot.json](./343744-night-shot.json) |
 | Night Signal | 119740 | [119740-night-signal.json](./119740-night-signal.json) |
 | Night Sing | 119758 | [119758-night-sing.json](./119758-night-sing.json) |
+| Night Skate | 193706 | [193706-night-skate.json](./193706-night-skate.json) |
 | Night Sky | 93735 | [93735-night-sky.json](./93735-night-sky.json) |
 | Night Slashers X | 51229 | [51229-night-slashers-x.json](./51229-night-slashers-x.json) |
 | Night Slashers: Remake | 290795 | [290795-night-slashers-remake.json](./290795-night-slashers-remake.json) |
