@@ -797,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazotoki Maze kara no Dasshutsu | 222223 | [222223-nazotoki-maze-kara-no-dasshutsu.json](./222223-nazotoki-maze-kara-no-dasshutsu.json) |
 | Nazotoki no Jikan: Thrill Suspense na Nazotoki Dasshutsu Mystery Suiri Game | 222388 | [222388-nazotoki-no-jikan-thrill-suspense-na-nazotoki-dasshutsu-mystery-suiri-game.json](./222388-nazotoki-no-jikan-thrill-suspense-na-nazotoki-dasshutsu-mystery-suiri-game.json) |
 | Nazotoki Suiri! Yuuzai? Muzai? | 251606 | [251606-nazotoki-suiri-yuuzai-muzai.json](./251606-nazotoki-suiri-yuuzai-muzai.json) |
+| Nazralath: The Fallen World | 211986 | [211986-nazralath-the-fallen-world.json](./211986-nazralath-the-fallen-world.json) |
 | Nazurin no Sagashi Mono? | 301629 | [301629-nazurin-no-sagashi-mono.json](./301629-nazurin-no-sagashi-mono.json) |
 | Nb107a | 184572 | [184572-nb107a.json](./184572-nb107a.json) |
 | NBA | 100222 | [100222-nba.json](./100222-nba.json) |
@@ -1561,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon City of Desires | 260155 | [260155-neon-city-of-desires.json](./260155-neon-city-of-desires.json) |
 | Neon City Riders: Super-Powered Edition | 169181 | [169181-neon-city-riders-super-powered-edition.json](./169181-neon-city-riders-super-powered-edition.json) |
 | Neon Clash: Echoes of the Lost | 276732 | [276732-neon-clash-echoes-of-the-lost.json](./276732-neon-clash-echoes-of-the-lost.json) |
+| Neon Cyber Samurai | 211993 | [211993-neon-cyber-samurai.json](./211993-neon-cyber-samurai.json) |
 | Neon Cyborg Cat Club | 148533 | [148533-neon-cyborg-cat-club.json](./148533-neon-cyborg-cat-club.json) |
 | Neon Dan | 282829 | [282829-neon-dan.json](./282829-neon-dan.json) |
 | Neon Dash | 391613 | [391613-neon-dash.json](./391613-neon-dash.json) |
