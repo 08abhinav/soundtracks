@@ -921,6 +921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Flight | 57112 | [57112-cannon-flight.json](./57112-cannon-flight.json) |
 | Cannon Fodder | 229022 | [229022-cannon-fodder.json](./229022-cannon-fodder.json) |
 | Cannon Fodder 2 | 11986 | [11986-cannon-fodder-2.json](./11986-cannon-fodder-2.json) |
+| Cannon Fodder and Green Game Bundle | 214664 | [214664-cannon-fodder-and-green-game-bundle.json](./214664-cannon-fodder-and-green-game-bundle.json) |
 | Cannon Foundry Simulator | 219218 | [219218-cannon-foundry-simulator.json](./219218-cannon-foundry-simulator.json) |
 | Cannon Guys | 334859 | [334859-cannon-guys.json](./334859-cannon-guys.json) |
 | Cannon Keep | 381198 | [381198-cannon-keep.json](./381198-cannon-keep.json) |
@@ -4247,6 +4248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChessRogue | 319280 | [319280-chessrogue.json](./319280-chessrogue.json) |
 | Chesst | 400891 | [400891-chesst.json](./400891-chesst.json) |
 | Chesstris | 361633 | [361633-chesstris.json](./361633-chesstris.json) |
+| Chesstris Mini | 214681 | [214681-chesstris-mini.json](./214681-chesstris-mini.json) |
 | Chesstro | 403547 | [403547-chesstro.json](./403547-chesstro.json) |
 | ChessVR | 207362 | [207362-chessvr.json](./207362-chessvr.json) |
 | ChessWorlds | 409781 | [409781-chessworlds.json](./409781-chessworlds.json) |
@@ -5232,6 +5234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Port: Heroes of All Time | 366320 | [366320-chrono-port-heroes-of-all-time.json](./366320-chrono-port-heroes-of-all-time.json) |
 | Chrono Ressurection | 263448 | [263448-chrono-ressurection.json](./263448-chrono-ressurection.json) |
 | Chrono Spin | 390176 | [390176-chrono-spin.json](./390176-chrono-spin.json) |
+| Chrono Survival | 214690 | [214690-chrono-survival.json](./214690-chrono-survival.json) |
 | Chrono Sword | 122280 | [122280-chrono-sword.json](./122280-chrono-sword.json) |
 | Chrono Tales | 333574 | [333574-chrono-tales.json](./333574-chrono-tales.json) |
 | Chrono Trigger | 20398 | [20398-chrono-trigger.json](./20398-chrono-trigger.json) |
@@ -5483,6 +5486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circadia | 166567 | [166567-circadia.json](./166567-circadia.json) |
 | Circadial | 328645 | [328645-circadial.json](./328645-circadial.json) |
 | Circadian City | 116815 | [116815-circadian-city.json](./116815-circadian-city.json) |
+| Circadian Cycle Deepest Sleep | 214708 | [214708-circadian-cycle-deepest-sleep.json](./214708-circadian-cycle-deepest-sleep.json) |
 | CircL | 185080 | [185080-circl.json](./185080-circl.json) |
 | Circle | 129066 | [129066-circle.json](./129066-circle.json) |
 | Circle | 289387 | [289387-circle.json](./289387-circle.json) |
