@@ -791,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katekyou Hitman Reborn!: Kizuna no Tag Battle | 137395 | [137395-katekyou-hitman-reborn-kizuna-no-tag-battle.json](./137395-katekyou-hitman-reborn-kizuna-no-tag-battle.json) |
 | Katekyou Hitman Reborn!: Nerae!? Ring x Vongola Trainers | 305271 | [305271-katekyou-hitman-reborn-nerae-ring-x-vongola-trainers.json](./305271-katekyou-hitman-reborn-nerae-ring-x-vongola-trainers.json) |
 | Katekyou Hitman Reborn!: Ore ga Boss! Saikyou Family Taisen | 269823 | [269823-katekyou-hitman-reborn-ore-ga-boss-saikyou-family-taisen.json](./269823-katekyou-hitman-reborn-ore-ga-boss-saikyou-family-taisen.json) |
+| KateLabs | 184797 | [184797-katelabs.json](./184797-katelabs.json) |
 | Kathana | 349446 | [349446-kathana.json](./349446-kathana.json) |
 | Katharsis Project | 117624 | [117624-katharsis-project.json](./117624-katharsis-project.json) |
 | Katharsis: The second act | 82366 | [82366-katharsis-the-second-act.json](./82366-katharsis-the-second-act.json) |
@@ -1286,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KGB Super Spy | 92633 | [92633-kgb-super-spy.json](./92633-kgb-super-spy.json) |
 | Khaba | 28581 | [28581-khaba.json](./28581-khaba.json) |
 | Khalco Farm | 414505 | [414505-khalco-farm.json](./414505-khalco-farm.json) |
+| Khaldun | 184866 | [184866-khaldun.json](./184866-khaldun.json) |
 | Khan: Absolute Power | 33293 | [33293-khan-absolute-power.json](./33293-khan-absolute-power.json) |
 | Khan: Myth of the Wind | 145603 | [145603-khan-myth-of-the-wind.json](./145603-khan-myth-of-the-wind.json) |
 | Khaos Wind | 111894 | [111894-khaos-wind.json](./111894-khaos-wind.json) |
