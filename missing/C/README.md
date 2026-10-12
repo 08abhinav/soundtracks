@@ -5245,6 +5245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicon | 35130 | [35130-chronicon.json](./35130-chronicon.json) |
 | Chronicon Apocalyptica | 114302 | [114302-chronicon-apocalyptica.json](./114302-chronicon-apocalyptica.json) |
 | Chronicon Complete | 242676 | [242676-chronicon-complete.json](./242676-chronicon-complete.json) |
+| Chronicon: Ancient Beasts | 193139 | [193139-chronicon-ancient-beasts.json](./193139-chronicon-ancient-beasts.json) |
 | Chronicon: Survivors | 314369 | [314369-chronicon-survivors.json](./314369-chronicon-survivors.json) |
 | Chronicon: The Mechanist | 233560 | [233560-chronicon-the-mechanist.json](./233560-chronicon-the-mechanist.json) |
 | Chronime Puzzle: Dogs | 418572 | [418572-chronime-puzzle-dogs.json](./418572-chronime-puzzle-dogs.json) |
@@ -8356,7 +8357,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concluse | 95239 | [95239-concluse.json](./95239-concluse.json) |
 | Conclusion | 32197 | [32197-conclusion.json](./32197-conclusion.json) |
 | Concordia: Digital Edition | 140392 | [140392-concordia-digital-edition.json](./140392-concordia-digital-edition.json) |
+| Concordia: Digital Edition - Aegyptus & Creta | 193169 | [193169-concordia-digital-edition-aegyptus-and-creta.json](./193169-concordia-digital-edition-aegyptus-and-creta.json) |
+| Concordia: Digital Edition - Britannia & Germania | 193171 | [193171-concordia-digital-edition-britannia-and-germania.json](./193171-concordia-digital-edition-britannia-and-germania.json) |
+| Concordia: Digital Edition - Corsica & Gallia | 193167 | [193167-concordia-digital-edition-corsica-and-gallia.json](./193167-concordia-digital-edition-corsica-and-gallia.json) |
+| Concordia: Digital Edition - Fish Market | 193168 | [193168-concordia-digital-edition-fish-market.json](./193168-concordia-digital-edition-fish-market.json) |
 | Concordia: Digital Edition - Imperial Bundle | 200522 | [200522-concordia-digital-edition-imperial-bundle.json](./200522-concordia-digital-edition-imperial-bundle.json) |
+| Concordia: Digital Edition - Venus | 193170 | [193170-concordia-digital-edition-venus.json](./193170-concordia-digital-edition-venus.json) |
 | Concourse X-Ray | 179172 | [179172-concourse-x-ray.json](./179172-concourse-x-ray.json) |
 | ConcPerfect 2017 | 90657 | [90657-concperfect-2017.json](./90657-concperfect-2017.json) |
 | Concrete | 312181 | [312181-concrete.json](./312181-concrete.json) |
