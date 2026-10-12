@@ -626,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeller Fellers | 337654 | [337654-jeller-fellers.json](./337654-jeller-fellers.json) |
 | Jellies of the Deep | 309895 | [309895-jellies-of-the-deep.json](./309895-jellies-of-the-deep.json) |
 | Jellies! | 221430 | [221430-jellies.json](./221430-jellies.json) |
+| Jellipop Match | 214104 | [214104-jellipop-match.json](./214104-jellipop-match.json) |
 | Jellitito | 340770 | [340770-jellitito.json](./340770-jellitito.json) |
 | Jelly | 163886 | [163886-jelly.json](./163886-jelly.json) |
 | Jelly Allstars | 64134 | [64134-jelly-allstars.json](./64134-jelly-allstars.json) |
@@ -1905,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JR East Train Simulator: Senseki Line (Aobadori to Ishinomaki) 205-3100 series | 253926 | [253926-jr-east-train-simulator-senseki-line-aobadori-to-ishinomaki-205-3100-series.json](./253926-jr-east-train-simulator-senseki-line-aobadori-to-ishinomaki-205-3100-series.json) |
 | JR East Train Simulator: Tokaido Line - Tokyo to Atami E233-3000 Series | 227195 | [227195-jr-east-train-simulator-tokaido-line-tokyo-to-atami-e233-3000-series.json](./227195-jr-east-train-simulator-tokaido-line-tokyo-to-atami-e233-3000-series.json) |
 | Jr. Pac-Man | 7453 | [7453-jr-pac-man.json](./7453-jr-pac-man.json) |
+| JR's | 214134 | [214134-jrs.json](./214134-jrs.json) |
 | JR's Christmas Adventure | 340776 | [340776-jrs-christmas-adventure.json](./340776-jrs-christmas-adventure.json) |
 | JR's: Enter the Flipside | 231499 | [231499-jrs-enter-the-flipside.json](./231499-jrs-enter-the-flipside.json) |
 | Jrago II: Guardians of Eden | 277767 | [277767-jrago-ii-guardians-of-eden.json](./277767-jrago-ii-guardians-of-eden.json) |
