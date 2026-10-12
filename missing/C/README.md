@@ -8155,6 +8155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commie Killer 2069 | 150745 | [150745-commie-killer-2069.json](./150745-commie-killer-2069.json) |
 | Commissar's Contrapasso | 126018 | [126018-commissars-contrapasso.json](./126018-commissars-contrapasso.json) |
 | Commissions Open | 413497 | [413497-commissions-open.json](./413497-commissions-open.json) |
+| Commit Arson Now | 191506 | [191506-commit-arson-now.json](./191506-commit-arson-now.json) |
 | Committed: Mystery at Shady Pines - Premium Edition | 417687 | [417687-committed-mystery-at-shady-pines-premium-edition.json](./417687-committed-mystery-at-shady-pines-premium-edition.json) |
 | Common Ground | 60070 | [60070-common-ground.json](./60070-common-ground.json) |
 | Common Hanzi Quiz: Simplified Chinese | 101360 | [101360-common-hanzi-quiz-simplified-chinese.json](./101360-common-hanzi-quiz-simplified-chinese.json) |
