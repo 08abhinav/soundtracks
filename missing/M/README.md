@@ -6752,6 +6752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Commandos | 71460 | [71460-micro-commandos.json](./71460-micro-commandos.json) |
 | Micro Games for Playdade! | 266242 | [266242-micro-games-for-playdade.json](./266242-micro-games-for-playdade.json) |
 | Micro Games: Volume 1 | 258368 | [258368-micro-games-volume-1.json](./258368-micro-games-volume-1.json) |
+| Micro Knight 4 | 195996 | [195996-micro-knight-4.json](./195996-micro-knight-4.json) |
 | Micro Machines | 250468 | [250468-micro-machines.json](./250468-micro-machines.json) |
 | Micro Machines | 250470 | [250470-micro-machines.json](./250470-micro-machines.json) |
 | Micro Machines | 250471 | [250471-micro-machines.json](./250471-micro-machines.json) |
@@ -12292,6 +12293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munchees | 319588 | [319588-munchees.json](./319588-munchees.json) |
 | Muncher | 80219 | [80219-muncher.json](./80219-muncher.json) |
 | Munchie Strikers | 258421 | [258421-munchie-strikers.json](./258421-munchie-strikers.json) |
+| Munchies | 195973 | [195973-munchies.json](./195973-munchies.json) |
 | Munchies! | 78261 | [78261-munchies.json](./78261-munchies.json) |
 | Munchkin Digital | 220682 | [220682-munchkin-digital.json](./220682-munchkin-digital.json) |
 | Munchkin Digital: Unnatural Axe | 255020 | [255020-munchkin-digital-unnatural-axe.json](./255020-munchkin-digital-unnatural-axe.json) |
