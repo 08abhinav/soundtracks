@@ -2471,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 22 | 165197 | [165197-nhl-22.json](./165197-nhl-22.json) |
 | NHL 22: X-Factor Edition | 172557 | [172557-nhl-22-x-factor-edition.json](./172557-nhl-22-x-factor-edition.json) |
 | NHL 23 | 214675 | [214675-nhl-23.json](./214675-nhl-23.json) |
+| NHL 23: X-Factor Edition | 214668 | [214668-nhl-23-x-factor-edition.json](./214668-nhl-23-x-factor-edition.json) |
 | NHL 25 | 314499 | [314499-nhl-25.json](./314499-nhl-25.json) |
 | NHL 27 | 408771 | [408771-nhl-27.json](./408771-nhl-27.json) |
 | NHL 27: Deluxe Edition | 410860 | [410860-nhl-27-deluxe-edition.json](./410860-nhl-27-deluxe-edition.json) |
