@@ -1075,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking Saban's Mighty Morphin Power Rangers: The Solar Stealers | 217938 | [217938-talking-sabans-mighty-morphin-power-rangers-the-solar-stealers.json](./217938-talking-sabans-mighty-morphin-power-rangers-the-solar-stealers.json) |
 | Talking The Simpsons: Bart vs. Homersaurus | 198889 | [198889-talking-the-simpsons-bart-vs-homersaurus.json](./198889-talking-the-simpsons-bart-vs-homersaurus.json) |
 | Talking to My Dad | 229016 | [229016-talking-to-my-dad.json](./229016-talking-to-my-dad.json) |
+| Talking Tom & Ben News | 214781 | [214781-talking-tom-and-ben-news.json](./214781-talking-tom-and-ben-news.json) |
 | Talking Tom Candy Run | 107165 | [107165-talking-tom-candy-run.json](./107165-talking-tom-candy-run.json) |
 | Talking Tom Cat | 214349 | [214349-talking-tom-cat.json](./214349-talking-tom-cat.json) |
 | Talking Tom Cat 2 | 214779 | [214779-talking-tom-cat-2.json](./214779-talking-tom-cat-2.json) |
@@ -1550,6 +1551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Derby | 327876 | [327876-tap-derby.json](./327876-tap-derby.json) |
 | Tap Drift Car | 290846 | [290846-tap-drift-car.json](./290846-tap-drift-car.json) |
 | Tap Drift: Wild Run Car Racing | 257006 | [257006-tap-drift-wild-run-car-racing.json](./257006-tap-drift-wild-run-car-racing.json) |
+| Tap Force | 214671 | [214671-tap-force.json](./214671-tap-force.json) |
 | Tap Gun | 247436 | [247436-tap-gun.json](./247436-tap-gun.json) |
 | Tap Heroes | 35228 | [35228-tap-heroes.json](./35228-tap-heroes.json) |
 | Tap It Away | 304169 | [304169-tap-it-away.json](./304169-tap-it-away.json) |
@@ -7300,6 +7302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Choco Santa: Turbo | 227840 | [227840-the-jumping-choco-santa-turbo.json](./227840-the-jumping-choco-santa-turbo.json) |
 | The Jumping Chocolate | 231371 | [231371-the-jumping-chocolate.json](./231371-the-jumping-chocolate.json) |
 | The Jumping Chocolate: Turbo | 231372 | [231372-the-jumping-chocolate-turbo.json](./231372-the-jumping-chocolate-turbo.json) |
+| The Jumping Coffee | 214700 | [214700-the-jumping-coffee.json](./214700-the-jumping-coffee.json) |
 | The Jumping Cookie | 228592 | [228592-the-jumping-cookie.json](./228592-the-jumping-cookie.json) |
 | The Jumping Cookie: Turbo | 228593 | [228593-the-jumping-cookie-turbo.json](./228593-the-jumping-cookie-turbo.json) |
 | The Jumping Donut | 315810 | [315810-the-jumping-donut.json](./315810-the-jumping-donut.json) |
@@ -10113,6 +10116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The S.H.O.W. | 412964 | [412964-the-s-h-o-w.json](./412964-the-s-h-o-w.json) |
 | The Saboteur | 3171 | [3171-the-saboteur.json](./3171-the-saboteur.json) |
 | The Sacred Acorn | 141175 | [141175-the-sacred-acorn.json](./141175-the-sacred-acorn.json) |
+| The Sacred Geography of Kazakhstan | 214701 | [214701-the-sacred-geography-of-kazakhstan.json](./214701-the-sacred-geography-of-kazakhstan.json) |
 | The Sacred Hero | 26872 | [26872-the-sacred-hero.json](./26872-the-sacred-hero.json) |
 | The Sacred Mirror of Kofun | 70081 | [70081-the-sacred-mirror-of-kofun.json](./70081-the-sacred-mirror-of-kofun.json) |
 | The Sacred Tears True | 9483 | [9483-the-sacred-tears-true.json](./9483-the-sacred-tears-true.json) |
@@ -11878,6 +11882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Viking Game | 89704 | [89704-the-viking-game.json](./89704-the-viking-game.json) |
 | The Viking Guardsman | 409736 | [409736-the-viking-guardsman.json](./409736-the-viking-guardsman.json) |
 | The Viking Way | 158610 | [158610-the-viking-way.json](./158610-the-viking-way.json) |
+| The Viking's Games: Madness Fight | 214683 | [214683-the-vikings-games-madness-fight.json](./214683-the-vikings-games-madness-fight.json) |
 | The Vikings | 37188 | [37188-the-vikings.json](./37188-the-vikings.json) |
 | The Villa of Pain | 272925 | [272925-the-villa-of-pain.json](./272925-the-villa-of-pain.json) |
 | The Village | 168634 | [168634-the-village.json](./168634-the-village.json) |
@@ -18410,6 +18415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: DR/DB DBmtrue/DBmu748 | 205502 | [205502-trainz-plus-dr-db-dbmtrue-dbmu748.json](./205502-trainz-plus-dr-db-dbmtrue-dbmu748.json) |
 | Trainz Plus: ECML Edinburgh - Dundee | 205560 | [205560-trainz-plus-ecml-edinburgh-dundee.json](./205560-trainz-plus-ecml-edinburgh-dundee.json) |
 | Trainz Plus: ECML Kings Cross - Edinburgh 1976 | 205511 | [205511-trainz-plus-ecml-kings-cross-edinburgh-1976.json](./205511-trainz-plus-ecml-kings-cross-edinburgh-1976.json) |
+| Trainz Plus: Est/Etat 241A Mountain Locomotives | 214677 | [214677-trainz-plus-est-etat-241a-mountain-locomotives.json](./214677-trainz-plus-est-etat-241a-mountain-locomotives.json) |
 | Trainz Plus: ETR 1000 - Frecciarossa | 205477 | [205477-trainz-plus-etr-1000-frecciarossa.json](./205477-trainz-plus-etr-1000-frecciarossa.json) |
 | Trainz Plus: Fall Harvest Nebraska | 205451 | [205451-trainz-plus-fall-harvest-nebraska.json](./205451-trainz-plus-fall-harvest-nebraska.json) |
 | Trainz Plus: Ffestiniog Railway Alco 1265 Mountaineer | 292663 | [292663-trainz-plus-ffestiniog-railway-alco-1265-mountaineer.json](./292663-trainz-plus-ffestiniog-railway-alco-1265-mountaineer.json) |
@@ -18565,6 +18571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019: EMD GP50 - Burlington Northern (Phase I) | 153250 | [153250-trainz-railroad-simulator-2019-emd-gp50-burlington-northern-phase-i.json](./153250-trainz-railroad-simulator-2019-emd-gp50-burlington-northern-phase-i.json) |
 | Trainz Railroad Simulator 2019: EMD GP50 - FRISCO | 153249 | [153249-trainz-railroad-simulator-2019-emd-gp50-frisco.json](./153249-trainz-railroad-simulator-2019-emd-gp50-frisco.json) |
 | Trainz Railroad Simulator 2019: EMD SD40-2 - Maersk | 153266 | [153266-trainz-railroad-simulator-2019-emd-sd40-2-maersk.json](./153266-trainz-railroad-simulator-2019-emd-sd40-2-maersk.json) |
+| Trainz Railroad Simulator 2019: Est/Etat 241A Mountain Locomotives | 214679 | [214679-trainz-railroad-simulator-2019-est-etat-241a-mountain-locomotives.json](./214679-trainz-railroad-simulator-2019-est-etat-241a-mountain-locomotives.json) |
 | Trainz Railroad Simulator 2019: ETR 1000 - Frecciarossa | 167780 | [167780-trainz-railroad-simulator-2019-etr-1000-frecciarossa.json](./167780-trainz-railroad-simulator-2019-etr-1000-frecciarossa.json) |
 | Trainz Railroad Simulator 2019: Fall Harvest Nebraska | 153247 | [153247-trainz-railroad-simulator-2019-fall-harvest-nebraska.json](./153247-trainz-railroad-simulator-2019-fall-harvest-nebraska.json) |
 | Trainz Railroad Simulator 2019: Florida Rail Road Museum Model Railroad | 162702 | [162702-trainz-railroad-simulator-2019-florida-rail-road-museum-model-railroad.json](./162702-trainz-railroad-simulator-2019-florida-rail-road-museum-model-railroad.json) |
@@ -18634,6 +18641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: CFR Modernised Doubledecker Pack No. 1 | 292654 | [292654-trainz-railroad-simulator-2022-cfr-modernised-doubledecker-pack-no-1.json](./292654-trainz-railroad-simulator-2022-cfr-modernised-doubledecker-pack-no-1.json) |
 | Trainz Railroad Simulator 2022: CFR Modernised Doubledecker Pack No. 2 | 292669 | [292669-trainz-railroad-simulator-2022-cfr-modernised-doubledecker-pack-no-2.json](./292669-trainz-railroad-simulator-2022-cfr-modernised-doubledecker-pack-no-2.json) |
 | Trainz Railroad Simulator 2022: CSD Bap 117 | 276315 | [276315-trainz-railroad-simulator-2022-csd-bap-117.json](./276315-trainz-railroad-simulator-2022-csd-bap-117.json) |
+| Trainz Railroad Simulator 2022: Est/Etat 241A Mountain Locomotives | 214678 | [214678-trainz-railroad-simulator-2022-est-etat-241a-mountain-locomotives.json](./214678-trainz-railroad-simulator-2022-est-etat-241a-mountain-locomotives.json) |
 | Trainz Railroad Simulator 2022: Ffestiniog Railway Alco 1265 Mountaineer | 292668 | [292668-trainz-railroad-simulator-2022-ffestiniog-railway-alco-1265-mountaineer.json](./292668-trainz-railroad-simulator-2022-ffestiniog-railway-alco-1265-mountaineer.json) |
 | Trainz Railroad Simulator 2022: Harvard Subdivision - Commuter Edition | 285474 | [285474-trainz-railroad-simulator-2022-harvard-subdivision-commuter-edition.json](./285474-trainz-railroad-simulator-2022-harvard-subdivision-commuter-edition.json) |
 | Trainz Railroad Simulator 2022: Industrial Mayhem | 219538 | [219538-trainz-railroad-simulator-2022-industrial-mayhem.json](./219538-trainz-railroad-simulator-2022-industrial-mayhem.json) |
