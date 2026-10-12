@@ -3283,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat & Beasties | 406225 | [406225-beat-and-beasties.json](./406225-beat-and-beasties.json) |
 | Beat Aimer! | 213971 | [213971-beat-aimer.json](./213971-beat-aimer.json) |
 | Beat Arena | 168686 | [168686-beat-arena.json](./168686-beat-arena.json) |
+| Beat Back VR | 226346 | [226346-beat-back-vr.json](./226346-beat-back-vr.json) |
 | Beat Ball | 340954 | [340954-beat-ball.json](./340954-beat-ball.json) |
 | Beat Ball 2 | 345615 | [345615-beat-ball-2.json](./345615-beat-ball-2.json) |
 | Beat Banger | 253039 | [253039-beat-banger.json](./253039-beat-banger.json) |
@@ -4695,6 +4696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Kahuna Reef 2: Chain Reaction | 205122 | [205122-big-kahuna-reef-2-chain-reaction.json](./205122-big-kahuna-reef-2-chain-reaction.json) |
 | Big Kahuna Words | 91556 | [91556-big-kahuna-words.json](./91556-big-kahuna-words.json) |
 | Big Karnak | 39614 | [39614-big-karnak.json](./39614-big-karnak.json) |
+| Big Kids Games Collection Bundle | 226330 | [226330-big-kids-games-collection-bundle.json](./226330-big-kids-games-collection-bundle.json) |
 | Big Klondike: Classic Solitaire | 168335 | [168335-big-klondike-classic-solitaire.json](./168335-big-klondike-classic-solitaire.json) |
 | Big Klondike: FreeCell Solitaire | 289855 | [289855-big-klondike-freecell-solitaire.json](./289855-big-klondike-freecell-solitaire.json) |
 | Big Klondike: Pyramid | 275075 | [275075-big-klondike-pyramid.json](./275075-big-klondike-pyramid.json) |
@@ -6221,6 +6223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Ace | 243594 | [243594-blazing-ace.json](./243594-blazing-ace.json) |
 | Blazing Angels: Squadrons of WWII | 3124 | [3124-blazing-angels-squadrons-of-wwii.json](./3124-blazing-angels-squadrons-of-wwii.json) |
 | Blazing Aries | 153904 | [153904-blazing-aries.json](./153904-blazing-aries.json) |
+| Blazing Beaks + Badland: Game of the Year Edition | 226341 | [226341-blazing-beaks-badland-game-of-the-year-edition.json](./226341-blazing-beaks-badland-game-of-the-year-edition.json) |
 | Blazing Chrome | 55042 | [55042-blazing-chrome.json](./55042-blazing-chrome.json) |
 | Blazing Core | 91140 | [91140-blazing-core.json](./91140-blazing-core.json) |
 | Blazing Crow | 301619 | [301619-blazing-crow.json](./301619-blazing-crow.json) |
