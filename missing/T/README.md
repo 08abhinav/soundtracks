@@ -5889,6 +5889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Expanse: Osiris Reborn | 347869 | [347869-the-expanse-osiris-reborn.json](./347869-the-expanse-osiris-reborn.json) |
 | The Expansion | 412194 | [412194-the-expansion.json](./412194-the-expansion.json) |
 | The Expedition | 114562 | [114562-the-expedition.json](./114562-the-expedition.json) |
+| The Expedition | 197577 | [197577-the-expedition.json](./197577-the-expedition.json) |
 | The Expendables 2: The Videogame | 9397 | [9397-the-expendables-2-the-videogame.json](./9397-the-expendables-2-the-videogame.json) |
 | The Expendabros | 9786 | [9786-the-expendabros.json](./9786-the-expendabros.json) |
 | The Experience | 13651 | [13651-the-experience.json](./13651-the-experience.json) |
@@ -6790,6 +6791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Haunted Spot 2 | 411080 | [411080-the-haunted-spot-2.json](./411080-the-haunted-spot-2.json) |
 | The Haunted Tunnel | 156063 | [156063-the-haunted-tunnel.json](./156063-the-haunted-tunnel.json) |
 | The Haunted: Hells Reach | 15017 | [15017-the-haunted-hells-reach.json](./15017-the-haunted-hells-reach.json) |
+| The Haunted: Hells Reach - The Fog | 197620 | [197620-the-haunted-hells-reach-the-fog.json](./197620-the-haunted-hells-reach-the-fog.json) |
 | The Haunted: Hells Reach - The Island | 193226 | [193226-the-haunted-hells-reach-the-island.json](./193226-the-haunted-hells-reach-the-island.json) |
 | The Haunting of Billy | 33471 | [33471-the-haunting-of-billy.json](./33471-the-haunting-of-billy.json) |
 | The Haunting of Braidwood Manor | 313813 | [313813-the-haunting-of-braidwood-manor.json](./313813-the-haunting-of-braidwood-manor.json) |
@@ -9806,6 +9808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quarantine Sector | 371429 | [371429-the-quarantine-sector.json](./371429-the-quarantine-sector.json) |
 | The Quarry | 194404 | [194404-the-quarry.json](./194404-the-quarry.json) |
 | The Quarry: '50s Throwback Character Outfits | 224517 | [224517-the-quarry-50s-throwback-character-outfits.json](./224517-the-quarry-50s-throwback-character-outfits.json) |
+| The Quarry: Deluxe Edition | 197608 | [197608-the-quarry-deluxe-edition.json](./197608-the-quarry-deluxe-edition.json) |
 | The Quarter Game | 75951 | [75951-the-quarter-game.json](./75951-the-quarter-game.json) |
 | The Quartet on Ice | 255634 | [255634-the-quartet-on-ice.json](./255634-the-quartet-on-ice.json) |
 | The Queen and the Dragon | 315784 | [315784-the-queen-and-the-dragon.json](./315784-the-queen-and-the-dragon.json) |
@@ -11933,6 +11936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Usurper: The Mines Of Qyntarr | 15516 | [15516-the-usurper-the-mines-of-qyntarr.json](./15516-the-usurper-the-mines-of-qyntarr.json) |
 | The V Anomaly | 390539 | [390539-the-v-anomaly.json](./390539-the-v-anomaly.json) |
 | The Valiant: Coat of Arms collection | 257533 | [257533-the-valiant-coat-of-arms-collection.json](./257533-the-valiant-coat-of-arms-collection.json) |
+| The Valley | 197584 | [197584-the-valley.json](./197584-the-valley.json) |
 | The Valley | 292068 | [292068-the-valley.json](./292068-the-valley.json) |
 | The Valley Beyond | 373132 | [373132-the-valley-beyond.json](./373132-the-valley-beyond.json) |
 | The Vamp | 254552 | [254552-the-vamp.json](./254552-the-vamp.json) |
