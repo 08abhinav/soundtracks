@@ -9636,6 +9636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakfast Bar Tycoon: Couch Co-op Edition | 260049 | [260049-breakfast-bar-tycoon-couch-co-op-edition.json](./260049-breakfast-bar-tycoon-couch-co-op-edition.json) |
 | Breakfast Bar Tycoon: Definitive Edition | 333719 | [333719-breakfast-bar-tycoon-definitive-edition.json](./333719-breakfast-bar-tycoon-definitive-edition.json) |
 | Breakfast Bar Tycoon: Expansion Pack | 238017 | [238017-breakfast-bar-tycoon-expansion-pack.json](./238017-breakfast-bar-tycoon-expansion-pack.json) |
+| Breakfast Bar Tycoon: Expansion Pack 2 | 199829 | [199829-breakfast-bar-tycoon-expansion-pack-2.json](./199829-breakfast-bar-tycoon-expansion-pack-2.json) |
 | Breakfast Bar Tycoon: Super Edition | 315875 | [315875-breakfast-bar-tycoon-super-edition.json](./315875-breakfast-bar-tycoon-super-edition.json) |
 | Breakfast Bar Tycoon: Ultimate Edition | 298569 | [298569-breakfast-bar-tycoon-ultimate-edition.json](./298569-breakfast-bar-tycoon-ultimate-edition.json) |
 | Breakfast Bar Tycoon: Value Edition | 317916 | [317916-breakfast-bar-tycoon-value-edition.json](./317916-breakfast-bar-tycoon-value-edition.json) |
@@ -11030,6 +11031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bundesliga Manager Professional | 72301 | [72301-bundesliga-manager-professional.json](./72301-bundesliga-manager-professional.json) |
 | Bundesliga Stars 2000 | 44832 | [44832-bundesliga-stars-2000.json](./44832-bundesliga-stars-2000.json) |
 | Bundle | 328983 | [328983-bundle.json](./328983-bundle.json) |
+| Bundle Cats + Dog | 199886 | [199886-bundle-cats-dog.json](./199886-bundle-cats-dog.json) |
 | Bundle of Joy | 317526 | [317526-bundle-of-joy.json](./317526-bundle-of-joy.json) |
 | Bundle: Journey of the Broken Circle + Cosmic Top Secret | 218468 | [218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json](./218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json) |
 | Bunflower | 205014 | [205014-bunflower.json](./205014-bunflower.json) |
