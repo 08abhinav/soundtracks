@@ -4354,6 +4354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pin-Kod. Poluchi patent pervym! | 347819 | [347819-pin-kod-poluchi-patent-pervym.json](./347819-pin-kod-poluchi-patent-pervym.json) |
 | Pina Colada | 269685 | [269685-pina-colada.json](./269685-pina-colada.json) |
 | Pina Colada 2 | 321367 | [321367-pina-colada-2.json](./321367-pina-colada-2.json) |
+| PinaPang | 193709 | [193709-pinapang.json](./193709-pinapang.json) |
 | Piñata | 32885 | [32885-pinata.json](./32885-pinata.json) |
 | Piñata Attack | 129014 | [129014-pinata-attack.json](./129014-pinata-attack.json) |
 | Piñata Go Boom | 345537 | [345537-pinata-go-boom.json](./345537-pinata-go-boom.json) |
@@ -5492,6 +5493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Shield | 110518 | [110518-pixel-shield.json](./110518-pixel-shield.json) |
 | Pixel Shinobi | 373089 | [373089-pixel-shinobi.json](./373089-pixel-shinobi.json) |
 | Pixel Shooter | 44111 | [44111-pixel-shooter.json](./44111-pixel-shooter.json) |
+| Pixel Shooter Infinity | 193712 | [193712-pixel-shooter-infinity.json](./193712-pixel-shooter-infinity.json) |
 | Pixel Skater | 190205 | [190205-pixel-skater.json](./190205-pixel-skater.json) |
 | Pixel Sniper | 402343 | [402343-pixel-sniper.json](./402343-pixel-sniper.json) |
 | Pixel Soccer | 35814 | [35814-pixel-soccer.json](./35814-pixel-soccer.json) |
@@ -11065,6 +11067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Jump | 275555 | [275555-punch-jump.json](./275555-punch-jump.json) |
 | Punch Kick Club | 338283 | [338283-punch-kick-club.json](./338283-punch-kick-club.json) |
 | Punch Kick Duck | 231911 | [231911-punch-kick-duck.json](./231911-punch-kick-duck.json) |
+| Punch Kidd | 193700 | [193700-punch-kidd.json](./193700-punch-kidd.json) |
 | Punch Line | 11775 | [11775-punch-line.json](./11775-punch-line.json) |
 | Punch Line: Cheermancy Edition | 105109 | [105109-punch-line-cheermancy-edition.json](./105109-punch-line-cheermancy-edition.json) |
 | Punch Lunch: Foodtruck Fighter | 364698 | [364698-punch-lunch-foodtruck-fighter.json](./364698-punch-lunch-foodtruck-fighter.json) |
