@@ -4806,6 +4806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop Knight | 224017 | [224017-loop-knight.json](./224017-loop-knight.json) |
 | Loop Land | 116424 | [116424-loop-land.json](./116424-loop-land.json) |
 | Loop Legend | 247032 | [247032-loop-legend.json](./247032-loop-legend.json) |
+| Loop Line | 179449 | [179449-loop-line.json](./179449-loop-line.json) |
 | Loop Merchant | 364669 | [364669-loop-merchant.json](./364669-loop-merchant.json) |
 | Loop Miner | 404411 | [404411-loop-miner.json](./404411-loop-miner.json) |
 | Loop My Crank | 374629 | [374629-loop-my-crank.json](./374629-loop-my-crank.json) |
@@ -4813,6 +4814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop the Loop: The Mansion of Gluttony | 387558 | [387558-loop-the-loop-the-mansion-of-gluttony.json](./387558-loop-the-loop-the-mansion-of-gluttony.json) |
 | Loop Theory | 288817 | [288817-loop-theory.json](./288817-loop-theory.json) |
 | Loop Trace | 417455 | [417455-loop-trace.json](./417455-loop-trace.json) |
+| Loop Train | 179447 | [179447-loop-train.json](./179447-loop-train.json) |
 | Loop Yourself | 359021 | [359021-loop-yourself.json](./359021-loop-yourself.json) |
 | Loop: New Reality | 333219 | [333219-loop-new-reality.json](./333219-loop-new-reality.json) |
 | Loop8: Celestial Edition | 221330 | [221330-loop8-celestial-edition.json](./221330-loop8-celestial-edition.json) |
