@@ -1157,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnet Effect | 214010 | [214010-magnet-effect.json](./214010-magnet-effect.json) |
 | Magnet Jack | 235665 | [235665-magnet-jack.json](./235665-magnet-jack.json) |
 | Magnet Mania 3D | 262580 | [262580-magnet-mania-3d.json](./262580-magnet-mania-3d.json) |
+| Magnet Mechs | 184819 | [184819-magnet-mechs.json](./184819-magnet-mechs.json) |
 | Magnet Miner | 354398 | [354398-magnet-miner.json](./354398-magnet-miner.json) |
 | Magneta Box | 190007 | [190007-magneta-box.json](./190007-magneta-box.json) |
 | Magnetball Lite | 253272 | [253272-magnetball-lite.json](./253272-magnetball-lite.json) |
@@ -4428,6 +4429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanized Attack | 40357 | [40357-mechanized-attack.json](./40357-mechanized-attack.json) |
 | Mechanode | 238757 | [238757-mechanode.json](./238757-mechanode.json) |
 | Mechanophagia | 287730 | [287730-mechanophagia.json](./287730-mechanophagia.json) |
+| MechApocalypse: Proving Grounds | 184817 | [184817-mechapocalypse-proving-grounds.json](./184817-mechapocalypse-proving-grounds.json) |
 | Mechapunk | 215314 | [215314-mechapunk.json](./215314-mechapunk.json) |
 | MechAssault | 5910 | [5910-mechassault.json](./5910-mechassault.json) |
 | MechAssault 2: Lone Wolf | 5911 | [5911-mechassault-2-lone-wolf.json](./5911-mechassault-2-lone-wolf.json) |
