@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T20:53:05.870Z",
-  "total_soundtracks": 1551,
+  "generated_at": "2026-10-12T20:53:21.595Z",
+  "total_soundtracks": 1552,
   "games": [
     {
       "igdb_id": 7522,
@@ -15719,6 +15719,20 @@
           "spotify_url": "https://open.spotify.com/album/0WtrTNBnJiyVfjEkXqRVqd",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 194404,
+      "game_name": "The Quarry",
+      "game_url": "https://ostdb.net/games/the-quarry",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4f/1a/7d/4f1a7d28-d50c-bbc0-6839-61501618861f/859763875581_cover.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "The Quarry (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7rJBBhUmOuTONh8fOmIFjr",
+          "apple_music_url": "https://music.apple.com/us/album/the-quarry-original-soundtrack/1637853854",
+          "album_link_url": "https://album.link/i/1637853854"
         }
       ]
     },
