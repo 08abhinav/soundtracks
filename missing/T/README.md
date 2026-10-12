@@ -5469,6 +5469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dinosaur Dooley | 46109 | [46109-the-dinosaur-dooley.json](./46109-the-dinosaur-dooley.json) |
 | The Dinosaurs Are Here | 152732 | [152732-the-dinosaurs-are-here.json](./152732-the-dinosaurs-are-here.json) |
 | The DioField Chronicle: Digital Deluxe Edition | 212339 | [212339-the-diofield-chronicle-digital-deluxe-edition.json](./212339-the-diofield-chronicle-digital-deluxe-edition.json) |
+| The Diplomat | 183828 | [183828-the-diplomat.json](./183828-the-diplomat.json) |
 | The Directed | 89253 | [89253-the-directed.json](./89253-the-directed.json) |
 | The Directorate: The Spy Who Killed A Saint | 253469 | [253469-the-directorate-the-spy-who-killed-a-saint.json](./253469-the-directorate-the-spy-who-killed-a-saint.json) |
 | The Dis-United States of America | 126405 | [126405-the-dis-united-states-of-america.json](./126405-the-dis-united-states-of-america.json) |
@@ -6651,6 +6652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Battles of Hannibal | 73519 | [73519-the-great-battles-of-hannibal.json](./73519-the-great-battles-of-hannibal.json) |
 | The Great Bedroom Escape | 385213 | [385213-the-great-bedroom-escape.json](./385213-the-great-bedroom-escape.json) |
 | The Great Beyond | 401634 | [401634-the-great-beyond.json](./401634-the-great-beyond.json) |
+| The Great Biohazard Escape | 183837 | [183837-the-great-biohazard-escape.json](./183837-the-great-biohazard-escape.json) |
 | The Great Book of Mario | 227972 | [227972-the-great-book-of-mario.json](./227972-the-great-book-of-mario.json) |
 | The Great Cave Offensive | 271262 | [271262-the-great-cave-offensive.json](./271262-the-great-cave-offensive.json) |
 | The Great Cave Offensive | 271405 | [271405-the-great-cave-offensive.json](./271405-the-great-cave-offensive.json) |
@@ -6791,6 +6793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hand of the Crownbearer | 403718 | [403718-the-hand-of-the-crownbearer.json](./403718-the-hand-of-the-crownbearer.json) |
 | The Handbook | 152868 | [152868-the-handbook.json](./152868-the-handbook.json) |
 | The Hanged Man | 56035 | [56035-the-hanged-man.json](./56035-the-hanged-man.json) |
+| The Hanging Gardens | 183826 | [183826-the-hanging-gardens.json](./183826-the-hanging-gardens.json) |
 | The Hangman | 264609 | [264609-the-hangman.json](./264609-the-hangman.json) |
 | The Hangman's Noose | 58222 | [58222-the-hangmans-noose.json](./58222-the-hangmans-noose.json) |
 | The Happiest Days of Your Life | 13870 | [13870-the-happiest-days-of-your-life.json](./13870-the-happiest-days-of-your-life.json) |
@@ -12476,6 +12479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Woods: VR Escape the Room | 114975 | [114975-the-woods-vr-escape-the-room.json](./114975-the-woods-vr-escape-the-room.json) |
 | The Woodsman | 225558 | [225558-the-woodsman.json](./225558-the-woodsman.json) |
 | The Word is Not the Thing | 74468 | [74468-the-word-is-not-the-thing.json](./74468-the-word-is-not-the-thing.json) |
+| The Wordland Scape | 183807 | [183807-the-wordland-scape.json](./183807-the-wordland-scape.json) |
 | The Words Within | 191657 | [191657-the-words-within.json](./191657-the-words-within.json) |
 | The World 3: Rise of Demon | 91965 | [91965-the-world-3-rise-of-demon.json](./91965-the-world-3-rise-of-demon.json) |
 | The World A Robot Girl Dream Of | 82871 | [82871-the-world-a-robot-girl-dream-of.json](./82871-the-world-a-robot-girl-dream-of.json) |
@@ -13200,6 +13204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Alpha One Nine | 312133 | [312133-three-alpha-one-nine.json](./312133-three-alpha-one-nine.json) |
 | Three Bosses | 174323 | [174323-three-bosses.json](./174323-three-bosses.json) |
 | Three Color Cannon | 360001 | [360001-three-color-cannon.json](./360001-three-color-cannon.json) |
+| Three Days of the Rabbit | 183831 | [183831-three-days-of-the-rabbit.json](./183831-three-days-of-the-rabbit.json) |
 | Three Days to Chicago | 259716 | [259716-three-days-to-chicago.json](./259716-three-days-to-chicago.json) |
 | Three Dead Zed | 36364 | [36364-three-dead-zed.json](./36364-three-dead-zed.json) |
 | Three Dimension | 189183 | [189183-three-dimension.json](./189183-three-dimension.json) |
@@ -16489,6 +16494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Far Too Late | 295550 | [295550-too-far-too-late.json](./295550-too-far-too-late.json) |
 | Too Fast | 183913 | [183913-too-fast.json](./183913-too-fast.json) |
 | Too Fast RPG | 240277 | [240277-too-fast-rpg.json](./240277-too-fast-rpg.json) |
+| Too Fazed | 183812 | [183812-too-fazed.json](./183812-too-fazed.json) |
 | Too Hot to Be True | 406715 | [406715-too-hot-to-be-true.json](./406715-too-hot-to-be-true.json) |
 | Too Hot to Handle: Love is a Game | 204449 | [204449-too-hot-to-handle-love-is-a-game.json](./204449-too-hot-to-handle-love-is-a-game.json) |
 | Too Hot to Hold | 416739 | [416739-too-hot-to-hold.json](./416739-too-hot-to-hold.json) |
@@ -17985,6 +17991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tractorball | 55233 | [55233-tractorball.json](./55233-tractorball.json) |
 | Trade And Fight | 306366 | [306366-trade-and-fight.json](./306366-trade-and-fight.json) |
 | Trade and Magic | 224718 | [224718-trade-and-magic.json](./224718-trade-and-magic.json) |
+| Trade Around | 183823 | [183823-trade-around.json](./183823-trade-around.json) |
 | Trade Bots: A Technical Analysis Simulation | 233664 | [233664-trade-bots-a-technical-analysis-simulation.json](./233664-trade-bots-a-technical-analysis-simulation.json) |
 | Trade City | 257683 | [257683-trade-city.json](./257683-trade-city.json) |
 | Trade Conquest | 326281 | [326281-trade-conquest.json](./326281-trade-conquest.json) |
@@ -18000,6 +18007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trader 2 | 94318 | [94318-trader-2.json](./94318-trader-2.json) |
 | Trader Life Simulator | 143666 | [143666-trader-life-simulator.json](./143666-trader-life-simulator.json) |
 | Trader of the Night | 219258 | [219258-trader-of-the-night.json](./219258-trader-of-the-night.json) |
+| Trader Tavern | 183827 | [183827-trader-tavern.json](./183827-trader-tavern.json) |
 | Traders Life Simulator | 390101 | [390101-traders-life-simulator.json](./390101-traders-life-simulator.json) |
 | Traders of Natac | 253517 | [253517-traders-of-natac.json](./253517-traders-of-natac.json) |
 | Traders: The Intergalactic Trading Game | 78323 | [78323-traders-the-intergalactic-trading-game.json](./78323-traders-the-intergalactic-trading-game.json) |
@@ -19139,6 +19147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trans-Siberian Legends: Posters in a Train Compartment | 292645 | [292645-trans-siberian-legends-posters-in-a-train-compartment.json](./292645-trans-siberian-legends-posters-in-a-train-compartment.json) |
 | Trans-Siberian Railway Simulator | 114950 | [114950-trans-siberian-railway-simulator.json](./114950-trans-siberian-railway-simulator.json) |
 | Transarctica | 10857 | [10857-transarctica.json](./10857-transarctica.json) |
+| Transatlantic Liners 1889 | 183805 | [183805-transatlantic-liners-1889.json](./183805-transatlantic-liners-1889.json) |
 | Transball | 47554 | [47554-transball.json](./47554-transball.json) |
 | TransBot | 29136 | [29136-transbot.json](./29136-transbot.json) |
 | Transcend | 74857 | [74857-transcend.json](./74857-transcend.json) |
@@ -19651,6 +19660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trek: Travel Around the World | 105083 | [105083-trek-travel-around-the-world.json](./105083-trek-travel-around-the-world.json) |
 | Trekboer | 26447 | [26447-trekboer.json](./26447-trekboer.json) |
 | Trekking and Camping | 167262 | [167262-trekking-and-camping.json](./167262-trekking-and-camping.json) |
+| Trelet: The Land of Words | 183810 | [183810-trelet-the-land-of-words.json](./183810-trelet-the-land-of-words.json) |
 | Trembling Dots | 128620 | [128620-trembling-dots.json](./128620-trembling-dots.json) |
 | Tremen | 166218 | [166218-tremen.json](./166218-tremen.json) |
 | Tremor | 410866 | [410866-tremor.json](./410866-tremor.json) |
