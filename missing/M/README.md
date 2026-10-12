@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.C Kids | 2718 | [2718-m-c-kids.json](./2718-m-c-kids.json) |
 | M.C Kids | 285032 | [285032-m-c-kids.json](./285032-m-c-kids.json) |
 | M.Duck | 197797 | [197797-m-duck.json](./197797-m-duck.json) |
+| M.E.A.T. II: Absolute Zero | 225190 | [225190-m-e-a-t-ii-absolute-zero.json](./225190-m-e-a-t-ii-absolute-zero.json) |
 | M.E.C.H.A.: Memory Erasure Control of Hover Attractor | 348770 | [348770-m-e-c-h-a-memory-erasure-control-of-hover-attractor.json](./348770-m-e-c-h-a-memory-erasure-control-of-hover-attractor.json) |
 | M.E.R.C. | 26540 | [26540-m-e-r-c.json](./26540-m-e-r-c.json) |
 | M.E.R.C. Genesis | 260031 | [260031-m-e-r-c-genesis.json](./260031-m-e-r-c-genesis.json) |
@@ -82,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MabinoB G3 | 109188 | [109188-mabinob-g3.json](./109188-mabinob-g3.json) |
 | Mabinogi Duel | 23653 | [23653-mabinogi-duel.json](./23653-mabinogi-duel.json) |
 | Mabinogi Mobile | 188377 | [188377-mabinogi-mobile.json](./188377-mabinogi-mobile.json) |
+| Maboroshi Caravan | 225197 | [225197-maboroshi-caravan.json](./225197-maboroshi-caravan.json) |
 | Maboroshi Tsukiyo | 128379 | [128379-maboroshi-tsukiyo.json](./128379-maboroshi-tsukiyo.json) |
 | Maboshi's Arcade | 21788 | [21788-maboshis-arcade.json](./21788-maboshis-arcade.json) |
 | Mabus 3000 | 245781 | [245781-mabus-3000.json](./245781-mabus-3000.json) |
@@ -670,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Bubble | 246100 | [246100-magic-bubble.json](./246100-magic-bubble.json) |
 | Magic Bubble | 246455 | [246455-magic-bubble.json](./246455-magic-bubble.json) |
 | Magic Bubble | 287655 | [287655-magic-bubble.json](./287655-magic-bubble.json) |
+| Magic Bubbles | 225208 | [225208-magic-bubbles.json](./225208-magic-bubbles.json) |
 | Magic Cards Duel | 409793 | [409793-magic-cards-duel.json](./409793-magic-cards-duel.json) |
 | Magic Carpet Plus | 72026 | [72026-magic-carpet-plus.json](./72026-magic-carpet-plus.json) |
 | Magic Caster | 291716 | [291716-magic-caster.json](./291716-magic-caster.json) |
@@ -1440,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maimaimaigoen: Episode 7 - The Lost Path | 343940 | [343940-maimaimaigoen-episode-7-the-lost-path.json](./343940-maimaimaigoen-episode-7-the-lost-path.json) |
 | Main Action | 254777 | [254777-main-action.json](./254777-main-action.json) |
 | Main Deity Space | 277515 | [277515-main-deity-space.json](./277515-main-deity-space.json) |
+| Main Event: Wrestling Manager | 225201 | [225201-main-event-wrestling-manager.json](./225201-main-event-wrestling-manager.json) |
 | Mainasutto: I'm Not Alone | 268991 | [268991-mainasutto-im-not-alone.json](./268991-mainasutto-im-not-alone.json) |
 | Mainbody | 223424 | [223424-mainbody.json](./223424-mainbody.json) |
 | MainFighter | 185493 | [185493-mainfighter.json](./185493-mainfighter.json) |
@@ -2245,6 +2249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marfa | 337039 | [337039-marfa.json](./337039-marfa.json) |
 | Marfusha: Sentinel Girls | 143638 | [143638-marfusha-sentinel-girls.json](./143638-marfusha-sentinel-girls.json) |
 | Margareta | 182810 | [182810-margareta.json](./182810-margareta.json) |
+| Margaritari | 225206 | [225206-margaritari.json](./225206-margaritari.json) |
 | Margery | 388408 | [388408-margery.json](./388408-margery.json) |
 | Margikarman ItoA | 180084 | [180084-margikarman-itoa.json](./180084-margikarman-itoa.json) |
 | Marginal act | 93778 | [93778-marginal-act.json](./93778-marginal-act.json) |
@@ -3785,6 +3790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maverick Hunter | 291917 | [291917-maverick-hunter.json](./291917-maverick-hunter.json) |
 | Mavericks | 349802 | [349802-mavericks.json](./349802-mavericks.json) |
 | Maverta Island | 186844 | [186844-maverta-island.json](./186844-maverta-island.json) |
+| Mavis Beacon Teaches Typing Version 15 | 225834 | [225834-mavis-beacon-teaches-typing-version-15.json](./225834-mavis-beacon-teaches-typing-version-15.json) |
 | Mavis Beacon Teaches Typing Version 8 | 209541 | [209541-mavis-beacon-teaches-typing-version-8.json](./209541-mavis-beacon-teaches-typing-version-8.json) |
 | Mavis Beacon Teaches Typing! for Kids | 94378 | [94378-mavis-beacon-teaches-typing-for-kids.json](./94378-mavis-beacon-teaches-typing-for-kids.json) |
 | Maw | 353975 | [353975-maw.json](./353975-maw.json) |
@@ -4213,6 +4219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mearth | 197875 | [197875-mearth.json](./197875-mearth.json) |
 | Mearth II | 226722 | [226722-mearth-ii.json](./226722-mearth-ii.json) |
 | Measurement Problem | 166740 | [166740-measurement-problem.json](./166740-measurement-problem.json) |
+| Meat | 225816 | [225816-meat.json](./225816-meat.json) |
 | Meat | 377302 | [377302-meat.json](./377302-meat.json) |
 | Meat | 383500 | [383500-meat.json](./383500-meat.json) |
 | Meat & Greed | 203546 | [203546-meat-and-greed.json](./203546-meat-and-greed.json) |
@@ -5377,6 +5384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Méli-Mélo: L'Odyssée de la Crème de Marrons | 357357 | [357357-meli-melo-lodyssee-de-la-creme-de-marrons.json](./357357-meli-melo-lodyssee-de-la-creme-de-marrons.json) |
 | Melia Keys In... Quantum Decade | 280414 | [280414-melia-keys-in-quantum-decade.json](./280414-melia-keys-in-quantum-decade.json) |
 | Meliora's Detective Simulator | 123984 | [123984-melioras-detective-simulator.json](./123984-melioras-detective-simulator.json) |
+| Melissa | 225798 | [225798-melissa.json](./225798-melissa.json) |
 | Melissa K. and the Heart of Gold: Collector's Edition | 36235 | [36235-melissa-k-and-the-heart-of-gold-collectors-edition.json](./36235-melissa-k-and-the-heart-of-gold-collectors-edition.json) |
 | Melkhior's Tower | 413811 | [413811-melkhiors-tower.json](./413811-melkhiors-tower.json) |
 | Melkis: Spend With You the Sweet Days Like Fairy Tales | 222241 | [222241-melkis-spend-with-you-the-sweet-days-like-fairy-tales.json](./222241-melkis-spend-with-you-the-sweet-days-like-fairy-tales.json) |
@@ -5656,6 +5664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Puzzle: Futanari Doctor | 204945 | [204945-memory-puzzle-futanari-doctor.json](./204945-memory-puzzle-futanari-doctor.json) |
 | Memory Puzzle: Futanari Gym | 368623 | [368623-memory-puzzle-futanari-gym.json](./368623-memory-puzzle-futanari-gym.json) |
 | Memory Puzzle: Hentai Angels | 286465 | [286465-memory-puzzle-hentai-angels.json](./286465-memory-puzzle-hentai-angels.json) |
+| Memory Puzzle: Mile High Fun | 225192 | [225192-memory-puzzle-mile-high-fun.json](./225192-memory-puzzle-mile-high-fun.json) |
 | Memory Puzzle: Mystery Mermaids | 286467 | [286467-memory-puzzle-mystery-mermaids.json](./286467-memory-puzzle-mystery-mermaids.json) |
 | Memory Puzzle: Neko Girls | 286496 | [286496-memory-puzzle-neko-girls.json](./286496-memory-puzzle-neko-girls.json) |
 | Memory Puzzle: Sexy Fairies | 286469 | [286469-memory-puzzle-sexy-fairies.json](./286469-memory-puzzle-sexy-fairies.json) |
@@ -12251,12 +12260,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Mystery Mayhem AI | 319073 | [319073-murder-mystery-mayhem-ai.json](./319073-murder-mystery-mayhem-ai.json) |
 | Murder Mystery Paradox: Fifteen Years of Summer | 247526 | [247526-murder-mystery-paradox-fifteen-years-of-summer.json](./247526-murder-mystery-paradox-fifteen-years-of-summer.json) |
 | Murder Mystery: Who Killed Linda Neuman | 251095 | [251095-murder-mystery-who-killed-linda-neuman.json](./251095-murder-mystery-who-killed-linda-neuman.json) |
+| Murder Next Room | 225214 | [225214-murder-next-room.json](./225214-murder-next-room.json) |
 | Murder on Mainstreet | 262299 | [262299-murder-on-mainstreet.json](./262299-murder-on-mainstreet.json) |
 | Murder on Snake Road | 66961 | [66961-murder-on-snake-road.json](./66961-murder-on-snake-road.json) |
 | Murder on the Disorient Express | 406054 | [406054-murder-on-the-disorient-express.json](./406054-murder-on-the-disorient-express.json) |
 | Murder on the Island | 116871 | [116871-murder-on-the-island.json](./116871-murder-on-the-island.json) |
 | Murder on the Marine Express | 151690 | [151690-murder-on-the-marine-express.json](./151690-murder-on-the-marine-express.json) |
 | Murder on the Spaceship Altair | 312330 | [312330-murder-on-the-spaceship-altair.json](./312330-murder-on-the-spaceship-altair.json) |
+| Murder on the Stella | 225221 | [225221-murder-on-the-stella.json](./225221-murder-on-the-stella.json) |
 | Murder on the Suburbia 2 | 116446 | [116446-murder-on-the-suburbia-2.json](./116446-murder-on-the-suburbia-2.json) |
 | Murder on the Zinderneuf | 23929 | [23929-murder-on-the-zinderneuf.json](./23929-murder-on-the-zinderneuf.json) |
 | Murder Party: Horror Hunt | 274967 | [274967-murder-party-horror-hunt.json](./274967-murder-party-horror-hunt.json) |
@@ -12898,6 +12909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Game About Me: Olympic Challenge | 210674 | [210674-my-game-about-me-olympic-challenge.json](./210674-my-game-about-me-olympic-challenge.json) |
 | My Garage | 162411 | [162411-my-garage.json](./162411-my-garage.json) |
 | My Garbage Cat Wakes Me Up At 3AM Every Day | 128556 | [128556-my-garbage-cat-wakes-me-up-at-3am-every-day.json](./128556-my-garbage-cat-wakes-me-up-at-3am-every-day.json) |
+| My GF Doesn't Know What I'm Into | 225805 | [225805-my-gf-doesnt-know-what-im-into.json](./225805-my-gf-doesnt-know-what-im-into.json) |
 | My Ghost Pet Is Zhong Kui | 309362 | [309362-my-ghost-pet-is-zhong-kui.json](./309362-my-ghost-pet-is-zhong-kui.json) |
 | My Giant Friend | 220677 | [220677-my-giant-friend.json](./220677-my-giant-friend.json) |
 | My Giant Sexy Sensei Bullies Me 10 | 384738 | [384738-my-giant-sexy-sensei-bullies-me-10.json](./384738-my-giant-sexy-sensei-bullies-me-10.json) |
