@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Night | 224764 | [224764-rage-night.json](./224764-rage-night.json) |
 | Rage of Bahamut | 28007 | [28007-rage-of-bahamut.json](./28007-rage-of-bahamut.json) |
 | Rage of Destiny | 162836 | [162836-rage-of-destiny.json](./162836-rage-of-destiny.json) |
+| Rage of Kings | 181613 | [181613-rage-of-kings.json](./181613-rage-of-kings.json) |
 | Rage of Mages | 13154 | [13154-rage-of-mages.json](./13154-rage-of-mages.json) |
 | Rage of Mages II: Necromancer | 13155 | [13155-rage-of-mages-ii-necromancer.json](./13155-rage-of-mages-ii-necromancer.json) |
 | Rage of Mechs | 260584 | [260584-rage-of-mechs.json](./260584-rage-of-mechs.json) |
@@ -681,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiden IV | 7154 | [7154-raiden-iv.json](./7154-raiden-iv.json) |
 | Raiden IV x Mikado Remix | 141863 | [141863-raiden-iv-x-mikado-remix.json](./141863-raiden-iv-x-mikado-remix.json) |
 | Raiden IV x Mikado Remix: Deluxe Edition | 210912 | [210912-raiden-iv-x-mikado-remix-deluxe-edition.json](./210912-raiden-iv-x-mikado-remix-deluxe-edition.json) |
+| Raiden IV x Mikado Remix: Limited Edition | 181616 | [181616-raiden-iv-x-mikado-remix-limited-edition.json](./181616-raiden-iv-x-mikado-remix-limited-edition.json) |
 | Raiden Nova | 319140 | [319140-raiden-nova.json](./319140-raiden-nova.json) |
 | Raiden Trad | 46211 | [46211-raiden-trad.json](./46211-raiden-trad.json) |
 | Raiden V | 19848 | [19848-raiden-v.json](./19848-raiden-v.json) |
@@ -4309,6 +4311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rewrite - DYH | 142892 | [142892-rewrite-dyh.json](./142892-rewrite-dyh.json) |
 | Rewrite the Romance: The Golden Lotus | 346567 | [346567-rewrite-the-romance-the-golden-lotus.json](./346567-rewrite-the-romance-the-golden-lotus.json) |
 | Rewrite+ | 172548 | [172548-rewrite.json](./172548-rewrite.json) |
+| Rewriter | 181632 | [181632-rewriter.json](./181632-rewriter.json) |
 | Rewritten | 294552 | [294552-rewritten.json](./294552-rewritten.json) |
 | Rewritten Recalls | 269182 | [269182-rewritten-recalls.json](./269182-rewritten-recalls.json) |
 | Rex | 215321 | [215321-rex.json](./215321-rex.json) |
@@ -4418,6 +4421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Racer | 406108 | [406108-rhythm-racer.json](./406108-rhythm-racer.json) |
 | Rhythm Rat Rampage | 361864 | [361864-rhythm-rat-rampage.json](./361864-rhythm-rat-rampage.json) |
 | Rhythm Realm | 248040 | [248040-rhythm-realm.json](./248040-rhythm-realm.json) |
+| Rhythm Retro | 182178 | [182178-rhythm-retro.json](./182178-rhythm-retro.json) |
 | Rhythm Reunion | 295308 | [295308-rhythm-reunion.json](./295308-rhythm-reunion.json) |
 | Rhythm Rewind | 177995 | [177995-rhythm-rewind.json](./177995-rhythm-rewind.json) |
 | Rhythm Stars Climbing | 157196 | [157196-rhythm-stars-climbing.json](./157196-rhythm-stars-climbing.json) |
@@ -4972,6 +4976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riot Police | 63379 | [63379-riot-police.json](./63379-riot-police.json) |
 | Riot Ride | 317987 | [317987-riot-ride.json](./317987-riot-ride.json) |
 | Riot Riders | 414548 | [414548-riot-riders.json](./414548-riot-riders.json) |
+| Riot Soccer | 182157 | [182157-riot-soccer.json](./182157-riot-soccer.json) |
 | Rioters 2025 | 147328 | [147328-rioters-2025.json](./147328-rioters-2025.json) |
 | RiotZ | 41923 | [41923-riotz.json](./41923-riotz.json) |
 | RIP | 392756 | [392756-rip.json](./392756-rip.json) |
@@ -7027,6 +7032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roomba Quest | 182759 | [182759-roomba-quest.json](./182759-roomba-quest.json) |
 | Roomba Quest 2 | 182762 | [182762-roomba-quest-2.json](./182762-roomba-quest-2.json) |
 | Roomba Rail Rider | 302144 | [302144-roomba-rail-rider.json](./302144-roomba-rail-rider.json) |
+| Roomba Rampage | 182141 | [182141-roomba-rampage.json](./182141-roomba-rampage.json) |
 | Roombo: First Blood | 114015 | [114015-roombo-first-blood.json](./114015-roombo-first-blood.json) |
 | Roomgaze | 347644 | [347644-roomgaze.json](./347644-roomgaze.json) |
 | Roomie Romance | 82094 | [82094-roomie-romance.json](./82094-roomie-romance.json) |
@@ -7418,6 +7424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Merge! | 296078 | [296078-royal-merge.json](./296078-royal-merge.json) |
 | Royal Montgomery Raceways | 321418 | [321418-royal-montgomery-raceways.json](./321418-royal-montgomery-raceways.json) |
 | Royal Offense | 28928 | [28928-royal-offense.json](./28928-royal-offense.json) |
+| Royal Order | 182143 | [182143-royal-order.json](./182143-royal-order.json) |
 | Royal Pit | 409557 | [409557-royal-pit.json](./409557-royal-pit.json) |
 | Royal Pro Wrestling: Jikkyou Live!! | 37203 | [37203-royal-pro-wrestling-jikkyou-live.json](./37203-royal-pro-wrestling-jikkyou-live.json) |
 | Royal Quest | 10786 | [10786-royal-quest.json](./10786-royal-quest.json) |
@@ -7538,6 +7545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RTO | 84851 | [84851-rto.json](./84851-rto.json) |
 | RTO 3 | 106519 | [106519-rto-3.json](./106519-rto-3.json) |
 | RTS Football | 259085 | [259085-rts-football.json](./259085-rts-football.json) |
+| RTS Quantum Chess | 181630 | [181630-rts-quantum-chess.json](./181630-rts-quantum-chess.json) |
 | Ru Lin Wai Shi Fan Jin | 258455 | [258455-ru-lin-wai-shi-fan-jin.json](./258455-ru-lin-wai-shi-fan-jin.json) |
 | Ruadh: Warbands | 210606 | [210606-ruadh-warbands.json](./210606-ruadh-warbands.json) |
 | Ruarua.ru | 369558 | [369558-ruarua-ru.json](./369558-ruarua-ru.json) |
