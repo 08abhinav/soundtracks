@@ -1625,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Toy Machines | 100173 | [100173-rc-toy-machines.json](./100173-rc-toy-machines.json) |
 | RC-AirSim - RC Model Airplane Flight Simulator | 31868 | [31868-rc-airsim-rc-model-airplane-flight-simulator.json](./31868-rc-airsim-rc-model-airplane-flight-simulator.json) |
 | RC: Car Maniacs | 311130 | [311130-rc-car-maniacs.json](./311130-rc-car-maniacs.json) |
+| RCPG | 220799 | [220799-rcpg.json](./220799-rcpg.json) |
 | RCRacer VR | 112463 | [112463-rcracer-vr.json](./112463-rcracer-vr.json) |
 | RDF 1985 | 23838 | [23838-rdf-1985.json](./23838-rdf-1985.json) |
 | RDP-Files_ | 265673 | [265673-rdp-files.json](./265673-rdp-files.json) |
@@ -6551,6 +6552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller Aces | 40132 | [40132-roller-aces.json](./40132-roller-aces.json) |
 | Roller Angels | 84847 | [84847-roller-angels.json](./84847-roller-angels.json) |
 | Roller Ball 6 | 196287 | [196287-roller-ball-6.json](./196287-roller-ball-6.json) |
+| Roller Ball Adventure | 220820 | [220820-roller-ball-adventure.json](./220820-roller-ball-adventure.json) |
 | Roller Champions | 119158 | [119158-roller-champions.json](./119158-roller-champions.json) |
 | Roller Coaster 3D | 88492 | [88492-roller-coaster-3d.json](./88492-roller-coaster-3d.json) |
 | Roller Coaster Apocalypse VR | 96876 | [96876-roller-coaster-apocalypse-vr.json](./96876-roller-coaster-apocalypse-vr.json) |
