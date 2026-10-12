@@ -6338,6 +6338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gas Station: Graveyard Shift | 379883 | [379883-the-gas-station-graveyard-shift.json](./379883-the-gas-station-graveyard-shift.json) |
 | The Gate | 323315 | [323315-the-gate.json](./323315-the-gate.json) |
 | The Gate | 35727 | [35727-the-gate.json](./35727-the-gate.json) |
+| The Gate 2 | 221912 | [221912-the-gate-2.json](./221912-the-gate-2.json) |
 | The Gate Must Stand | 370107 | [370107-the-gate-must-stand.json](./370107-the-gate-must-stand.json) |
 | The Gatekeeper of Scarlet's Mansion | 348237 | [348237-the-gatekeeper-of-scarlets-mansion.json](./348237-the-gatekeeper-of-scarlets-mansion.json) |
 | The Gateway Persona | 177890 | [177890-the-gateway-persona.json](./177890-the-gateway-persona.json) |
@@ -11063,6 +11064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sword of Etheria | 10901 | [10901-the-sword-of-etheria.json](./10901-the-sword-of-etheria.json) |
 | The Sword of Hope | 10946 | [10946-the-sword-of-hope.json](./10946-the-sword-of-hope.json) |
 | The Sword of Hope II | 10947 | [10947-the-sword-of-hope-ii.json](./10947-the-sword-of-hope-ii.json) |
+| The Sword of Ianna | 221902 | [221902-the-sword-of-ianna.json](./221902-the-sword-of-ianna.json) |
 | The Sword Witch's Apprentice | 351037 | [351037-the-sword-witchs-apprentice.json](./351037-the-sword-witchs-apprentice.json) |
 | The Swordbearer | 204329 | [204329-the-swordbearer.json](./204329-the-swordbearer.json) |
 | The Swords | 57720 | [57720-the-swords.json](./57720-the-swords.json) |
@@ -14665,6 +14667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Twist: Rekishi no Katasumi de... - Zenpen | 41361 | [41361-time-twist-rekishi-no-katasumi-de-zenpen.json](./41361-time-twist-rekishi-no-katasumi-de-zenpen.json) |
 | Time Up | 68597 | [68597-time-up.json](./68597-time-up.json) |
 | Time Warpers | 110073 | [110073-time-warpers.json](./110073-time-warpers.json) |
+| Time Warrior | 221900 | [221900-time-warrior.json](./221900-time-warrior.json) |
 | Time Warriors | 10859 | [10859-time-warriors.json](./10859-time-warriors.json) |
 | Time Witch | 412201 | [412201-time-witch.json](./412201-time-witch.json) |
 | Time Wiza | 364675 | [364675-time-wiza.json](./364675-time-wiza.json) |
@@ -16453,6 +16456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torn Tales | 34773 | [34773-torn-tales.json](./34773-torn-tales.json) |
 | Tornado | 206085 | [206085-tornado.json](./206085-tornado.json) |
 | Tornado | 21333 | [21333-tornado.json](./21333-tornado.json) |
+| Tornado | 221895 | [221895-tornado.json](./221895-tornado.json) |
 | Tornado | 233481 | [233481-tornado.json](./233481-tornado.json) |
 | Tornado | 266173 | [266173-tornado.json](./266173-tornado.json) |
 | Tornado | 266469 | [266469-tornado.json](./266469-tornado.json) |
