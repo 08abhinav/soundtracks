@@ -2998,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Men Can't Jump | 40821 | [40821-white-men-cant-jump.json](./40821-white-men-cant-jump.json) |
 | White Middle Class Guy Simulator | 261976 | [261976-white-middle-class-guy-simulator.json](./261976-white-middle-class-guy-simulator.json) |
 | White Mirror | 214734 | [214734-white-mirror.json](./214734-white-mirror.json) |
+| White Mourning: Museum In Pale | 226117 | [226117-white-mourning-museum-in-pale.json](./226117-white-mourning-museum-in-pale.json) |
 | White Night | 352190 | [352190-white-night.json](./352190-white-night.json) |
 | White Night | 8921 | [8921-white-night.json](./8921-white-night.json) |
 | White Noise 2 | 28112 | [28112-white-noise-2.json](./28112-white-noise-2.json) |
@@ -3356,6 +3357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Roads | 233070 | [233070-wild-roads.json](./233070-wild-roads.json) |
 | Wild Romance | 32335 | [32335-wild-romance.json](./32335-wild-romance.json) |
 | Wild Romance: Mofu-mofu Edition | 75657 | [75657-wild-romance-mofu-mofu-edition.json](./75657-wild-romance-mofu-mofu-edition.json) |
+| Wild Rumble | 226118 | [226118-wild-rumble.json](./226118-wild-rumble.json) |
 | Wild Runs | 147241 | [147241-wild-runs.json](./147241-wild-runs.json) |
 | Wild Script: Nature | 319348 | [319348-wild-script-nature.json](./319348-wild-script-nature.json) |
 | Wild Seasons | 273383 | [273383-wild-seasons.json](./273383-wild-seasons.json) |
@@ -3654,6 +3656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WinDepth | 314455 | [314455-windepth.json](./314455-windepth.json) |
 | Windfall | 80785 | [80785-windfall.json](./80785-windfall.json) |
 | Windfolk: Sky Is Just the Beginning | 187438 | [187438-windfolk-sky-is-just-the-beginning.json](./187438-windfolk-sky-is-just-the-beginning.json) |
+| Windhelm | 226119 | [226119-windhelm.json](./226119-windhelm.json) |
 | Winding Road | 180010 | [180010-winding-road.json](./180010-winding-road.json) |
 | Winding Worlds | 117009 | [117009-winding-worlds.json](./117009-winding-worlds.json) |
 | Windjammers | 11222 | [11222-windjammers.json](./11222-windjammers.json) |
@@ -5816,6 +5819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestlers Without Boundaries | 102356 | [102356-wrestlers-without-boundaries.json](./102356-wrestlers-without-boundaries.json) |
 | Wrestling Empire | 142449 | [142449-wrestling-empire.json](./142449-wrestling-empire.json) |
 | Wrestling Empire Forever | 270163 | [270163-wrestling-empire-forever.json](./270163-wrestling-empire-forever.json) |
+| Wrestling Manager 2023 | 226116 | [226116-wrestling-manager-2023.json](./226116-wrestling-manager-2023.json) |
 | Wrestling Mpire 2008 | 79374 | [79374-wrestling-mpire-2008.json](./79374-wrestling-mpire-2008.json) |
 | Wrestling Revolution 2D | 76990 | [76990-wrestling-revolution-2d.json](./76990-wrestling-revolution-2d.json) |
 | Wrestling Revolution 3D | 44186 | [44186-wrestling-revolution-3d.json](./44186-wrestling-revolution-3d.json) |
@@ -5969,6 +5973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K22 | 145780 | [145780-wwe-2k22.json](./145780-wwe-2k22.json) |
 | WWE 2K22: Deluxe Edition | 188127 | [188127-wwe-2k22-deluxe-edition.json](./188127-wwe-2k22-deluxe-edition.json) |
 | WWE 2K22: Most Wanted Pack | 230986 | [230986-wwe-2k22-most-wanted-pack.json](./230986-wwe-2k22-most-wanted-pack.json) |
+| WWE 2K22: nWo 4-Life - Bonus Pack | 226115 | [226115-wwe-2k22-nwo-4-life-bonus-pack.json](./226115-wwe-2k22-nwo-4-life-bonus-pack.json) |
 | WWE 2K22: Season Pass | 293720 | [293720-wwe-2k22-season-pass.json](./293720-wwe-2k22-season-pass.json) |
 | WWE 2K22: The Whole Dam Pack | 230988 | [230988-wwe-2k22-the-whole-dam-pack.json](./230988-wwe-2k22-the-whole-dam-pack.json) |
 | WWE 2K22: Undertaker Immortal Pack | 230987 | [230987-wwe-2k22-undertaker-immortal-pack.json](./230987-wwe-2k22-undertaker-immortal-pack.json) |
