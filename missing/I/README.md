@@ -1113,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Ultimate | 368509 | [368509-idle-ultimate.json](./368509-idle-ultimate.json) |
 | Idle Universe Creator | 351606 | [351606-idle-universe-creator.json](./351606-idle-universe-creator.json) |
 | Idle Universe: Planet Miner | 231925 | [231925-idle-universe-planet-miner.json](./231925-idle-universe-planet-miner.json) |
+| Idle Vikings Clicker | 215343 | [215343-idle-vikings-clicker.json](./215343-idle-vikings-clicker.json) |
 | Idle War Camp | 200548 | [200548-idle-war-camp.json](./200548-idle-war-camp.json) |
 | Idle Warrior | 129679 | [129679-idle-warrior.json](./129679-idle-warrior.json) |
 | Idle Wasteland | 153922 | [153922-idle-wasteland.json](./153922-idle-wasteland.json) |
@@ -1240,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ifighter 2: The Pacific 1942 | 341075 | [341075-ifighter-2-the-pacific-1942.json](./341075-ifighter-2-the-pacific-1942.json) |
 | iFishing 2: Saltwater Edition | 97446 | [97446-ifishing-2-saltwater-edition.json](./97446-ifishing-2-saltwater-edition.json) |
 | iFishing 3 | 97447 | [97447-ifishing-3.json](./97447-ifishing-3.json) |
+| Ifrit | 215344 | [215344-ifrit.json](./215344-ifrit.json) |
 | Ifu | 302488 | [302488-ifu.json](./302488-ifu.json) |
 | IFU | 274774 | [274774-ifu.json](./274774-ifu.json) |
 | IG Arena: Idle RPG | 232054 | [232054-ig-arena-idle-rpg.json](./232054-ig-arena-idle-rpg.json) |
@@ -1480,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imagicard: PAW Patrol | 137612 | [137612-imagicard-paw-patrol.json](./137612-imagicard-paw-patrol.json) |
 | ImaginAction | 210082 | [210082-imaginaction.json](./210082-imaginaction.json) |
 | Imaginal Voyages | 245779 | [245779-imaginal-voyages.json](./245779-imaginal-voyages.json) |
+| Imaginari | 215345 | [215345-imaginari.json](./215345-imaginari.json) |
 | Imaginarium | 126614 | [126614-imaginarium.json](./126614-imaginarium.json) |
 | Imaginary Chaos Fight | 340509 | [340509-imaginary-chaos-fight.json](./340509-imaginary-chaos-fight.json) |
 | Imaginary Friend Asylum | 273459 | [273459-imaginary-friend-asylum.json](./273459-imaginary-friend-asylum.json) |
@@ -3113,6 +3116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interballistic Symphony | 264804 | [264804-interballistic-symphony.json](./264804-interballistic-symphony.json) |
 | Interblocked | 257529 | [257529-interblocked.json](./257529-interblocked.json) |
 | Intercept | 234087 | [234087-intercept.json](./234087-intercept.json) |
+| Intercept 2 | 215346 | [215346-intercept-2.json](./215346-intercept-2.json) |
 | Interception | 263023 | [263023-interception.json](./263023-interception.json) |
 | Interception II | 263024 | [263024-interception-ii.json](./263024-interception-ii.json) |
 | Interceptor | 192153 | [192153-interceptor.json](./192153-interceptor.json) |
