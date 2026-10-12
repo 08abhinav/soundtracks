@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Crown | 81054 | [81054-mad-crown.json](./81054-mad-crown.json) |
 | Mad Daedalus | 218160 | [218160-mad-daedalus.json](./218160-mad-daedalus.json) |
 | Mad Dagger 2 | 100597 | [100597-mad-dagger-2.json](./100597-mad-dagger-2.json) |
+| Mad Defense | 213583 | [213583-mad-defense.json](./213583-mad-defense.json) |
 | Mad Devils: Damned-finitive Edition | 313337 | [313337-mad-devils-damned-finitive-edition.json](./313337-mad-devils-damned-finitive-edition.json) |
 | Mad Dex 2 | 227917 | [227917-mad-dex-2.json](./227917-mad-dex-2.json) |
 | Mad Dog II: The Lost Gold | 4269 | [4269-mad-dog-ii-the-lost-gold.json](./4269-mad-dog-ii-the-lost-gold.json) |
@@ -7469,6 +7470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millennium 3: Cry Wolf | 8180 | [8180-millennium-3-cry-wolf.json](./8180-millennium-3-cry-wolf.json) |
 | Millennium 5: Battle of the Millennium | 54240 | [54240-millennium-5-battle-of-the-millennium.json](./54240-millennium-5-battle-of-the-millennium.json) |
 | Millennium 5: The Battle of the Millennium | 8176 | [8176-millennium-5-the-battle-of-the-millennium.json](./8176-millennium-5-the-battle-of-the-millennium.json) |
+| Millennium Conflict | 213528 | [213528-millennium-conflict.json](./213528-millennium-conflict.json) |
 | Millennium Dawn: A Modern Day Mod | 256450 | [256450-millennium-dawn-a-modern-day-mod.json](./256450-millennium-dawn-a-modern-day-mod.json) |
 | Millennium GamePak Gold | 273905 | [273905-millennium-gamepak-gold.json](./273905-millennium-gamepak-gold.json) |
 | Millennium Gamepak Platinum | 273906 | [273906-millennium-gamepak-platinum.json](./273906-millennium-gamepak-platinum.json) |
@@ -7532,6 +7534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milo's Tiny Fish Pond | 414169 | [414169-milos-tiny-fish-pond.json](./414169-milos-tiny-fish-pond.json) |
 | Milon no Hoshizora Shabon: Puzzle Kumikyoku | 97681 | [97681-milon-no-hoshizora-shabon-puzzle-kumikyoku.json](./97681-milon-no-hoshizora-shabon-puzzle-kumikyoku.json) |
 | Milon's Secret Hell | 323347 | [323347-milons-secret-hell.json](./323347-milons-secret-hell.json) |
+| Milosc | 213532 | [213532-milosc.json](./213532-milosc.json) |
 | Milt | 181195 | [181195-milt.json](./181195-milt.json) |
 | Milthm | 258703 | [258703-milthm.json](./258703-milthm.json) |
 | Milton Cumberdale | 238990 | [238990-milton-cumberdale.json](./238990-milton-cumberdale.json) |
@@ -12172,6 +12175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MultiVersus: Founder's Pack - Premium Edition | 212308 | [212308-multiversus-founders-pack-premium-edition.json](./212308-multiversus-founders-pack-premium-edition.json) |
 | MultiVersus: Founder's Pack - Standard Edition | 212307 | [212307-multiversus-founders-pack-standard-edition.json](./212307-multiversus-founders-pack-standard-edition.json) |
 | MultiVersus: MVP Pack 2 | 316065 | [316065-multiversus-mvp-pack-2.json](./316065-multiversus-mvp-pack-2.json) |
+| MultiVersus: Season 1 | 213561 | [213561-multiversus-season-1.json](./213561-multiversus-season-1.json) |
 | Multiversus: Season 1 - Puns & Villainy | 305377 | [305377-multiversus-season-1-puns-and-villainy.json](./305377-multiversus-season-1-puns-and-villainy.json) |
 | MultiVersus: Season 3 - Sugar, Spice & Everything Nice! | 316734 | [316734-multiversus-season-3-sugar-spice-and-everything-nice.json](./316734-multiversus-season-3-sugar-spice-and-everything-nice.json) |
 | MultiVersus: Season 4 | 330139 | [330139-multiversus-season-4.json](./330139-multiversus-season-4.json) |
