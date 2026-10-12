@@ -4043,6 +4043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Tanjiro Kamado (Infinity Castle) Character Pack | 376258 | [376258-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tanjiro-kamado-infinity-castle-character-pack.json](./376258-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tanjiro-kamado-infinity-castle-character-pack.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Tanjiro, Zenitsu, and Inosuke - Character Pack | 237992 | [237992-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tanjiro-zenitsu-and-inosuke-character-pack.json](./237992-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tanjiro-zenitsu-and-inosuke-character-pack.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Zenitsu Agatsuma (Infinity Castle) Character Pack | 376257 | [376257-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-zenitsu-agatsuma-infinity-castle-character-pack.json](./376257-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-zenitsu-agatsuma-infinity-castle-character-pack.json) |
+| Demon Spore | 190422 | [190422-demon-spore.json](./190422-demon-spore.json) |
 | Demon Stalkers | 54711 | [54711-demon-stalkers.json](./54711-demon-stalkers.json) |
 | Demon Stick | 376051 | [376051-demon-stick.json](./376051-demon-stick.json) |
 | Demon Still Alive | 306344 | [306344-demon-still-alive.json](./306344-demon-still-alive.json) |
@@ -10077,6 +10078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Island: A Skyward Journey | 281380 | [281380-dream-island-a-skyward-journey.json](./281380-dream-island-a-skyward-journey.json) |
 | Dream Job: Delivery Simulator | 249713 | [249713-dream-job-delivery-simulator.json](./249713-dream-job-delivery-simulator.json) |
 | Dream Journey | 201623 | [201623-dream-journey.json](./201623-dream-journey.json) |
+| Dream Kitchen | 190421 | [190421-dream-kitchen.json](./190421-dream-kitchen.json) |
 | Dream Knights: The Little Hero | 181372 | [181372-dream-knights-the-little-hero.json](./181372-dream-knights-the-little-hero.json) |
 | Dream Kombat | 229382 | [229382-dream-kombat.json](./229382-dream-kombat.json) |
 | Dream Labyrinth | 181934 | [181934-dream-labyrinth.json](./181934-dream-labyrinth.json) |
