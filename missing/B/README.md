@@ -6076,6 +6076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasphemous II: Digital Deluxe Edition | 259135 | [259135-blasphemous-ii-digital-deluxe-edition.json](./259135-blasphemous-ii-digital-deluxe-edition.json) |
 | Blasphemous II: Mea Culpa | 317595 | [317595-blasphemous-ii-mea-culpa.json](./317595-blasphemous-ii-mea-culpa.json) |
 | Blasphemous II: The Third Sin | 404910 | [404910-blasphemous-ii-the-third-sin.json](./404910-blasphemous-ii-the-third-sin.json) |
+| Blasphemous: Digital Deluxe Edition | 227410 | [227410-blasphemous-digital-deluxe-edition.json](./227410-blasphemous-digital-deluxe-edition.json) |
 | Blasphemous: Strife & Ruin | 229861 | [229861-blasphemous-strife-and-ruin.json](./229861-blasphemous-strife-and-ruin.json) |
 | Blasphemous: Wounds of Eventide | 165391 | [165391-blasphemous-wounds-of-eventide.json](./165391-blasphemous-wounds-of-eventide.json) |
 | Blast 'Em Bunnies | 21321 | [21321-blast-em-bunnies.json](./21321-blast-em-bunnies.json) |
@@ -8583,6 +8584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce | 27679 | [27679-bounce.json](./27679-bounce.json) |
 | Bounce 2 | 356571 | [356571-bounce-2.json](./356571-bounce-2.json) |
 | Bounce a Tomato | 403659 | [403659-bounce-a-tomato.json](./403659-bounce-a-tomato.json) |
+| Bounce and Pop | 227423 | [227423-bounce-and-pop.json](./227423-bounce-and-pop.json) |
 | Bounce Arcade | 306945 | [306945-bounce-arcade.json](./306945-bounce-arcade.json) |
 | Bounce ASMR: Circle | 288911 | [288911-bounce-asmr-circle.json](./288911-bounce-asmr-circle.json) |
 | Bounce ASMR: Hexagon | 288913 | [288913-bounce-asmr-hexagon.json](./288913-bounce-asmr-hexagon.json) |
