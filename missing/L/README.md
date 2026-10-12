@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lalaloopsy Diner | 68911 | [68911-lalaloopsy-diner.json](./68911-lalaloopsy-diner.json) |
 | Lalaloopsy: Sew Magical! Sew Cute! | 113888 | [113888-lalaloopsy-sew-magical-sew-cute.json](./113888-lalaloopsy-sew-magical-sew-cute.json) |
 | Lalli | 311161 | [311161-lalli.json](./311161-lalli.json) |
+| Lama by Reiner Knizia | 223602 | [223602-lama-by-reiner-knizia.json](./223602-lama-by-reiner-knizia.json) |
 | Lama Drama FPS | 122370 | [122370-lama-drama-fps.json](./122370-lama-drama-fps.json) |
 | Lamafox - Hide and Seek! | 200499 | [200499-lamafox-hide-and-seek.json](./200499-lamafox-hide-and-seek.json) |
 | Lamb Chop & Friends | 198796 | [198796-lamb-chop-and-friends.json](./198796-lamb-chop-and-friends.json) |
@@ -5181,6 +5182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost In The Store | 408064 | [408064-lost-in-the-store.json](./408064-lost-in-the-store.json) |
 | Lost in the Storm | 190022 | [190022-lost-in-the-storm.json](./190022-lost-in-the-storm.json) |
 | Lost in the tomb | 74473 | [74473-lost-in-the-tomb.json](./74473-lost-in-the-tomb.json) |
+| Lost in the Woods: Adventure Game | 223639 | [223639-lost-in-the-woods-adventure-game.json](./223639-lost-in-the-woods-adventure-game.json) |
 | Lost in Time | 14448 | [14448-lost-in-time.json](./14448-lost-in-time.json) |
 | Lost In Time | 171602 | [171602-lost-in-time.json](./171602-lost-in-time.json) |
 | Lost in Time: Parts 1 & 2 | 80536 | [80536-lost-in-time-parts-1-and-2.json](./80536-lost-in-time-parts-1-and-2.json) |
@@ -5787,6 +5789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lowlife | 208016 | [208016-lowlife.json](./208016-lowlife.json) |
 | LowLife Forms | 304310 | [304310-lowlife-forms.json](./304310-lowlife-forms.json) |
 | LowPoly Towerdefense | 295009 | [295009-lowpoly-towerdefense.json](./295009-lowpoly-towerdefense.json) |
+| LowRes Collection | 223632 | [223632-lowres-collection.json](./223632-lowres-collection.json) |
 | Lowrider | 43550 | [43550-lowrider.json](./43550-lowrider.json) |
 | Lowrider Hopping | 287087 | [287087-lowrider-hopping.json](./287087-lowrider-hopping.json) |
 | Lows Adventures | 214489 | [214489-lows-adventures.json](./214489-lows-adventures.json) |
