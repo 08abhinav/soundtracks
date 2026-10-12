@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakkaniya | 249498 | [249498-bakkaniya.json](./249498-bakkaniya.json) |
 | Baklava Simulator 2 | 283975 | [283975-baklava-simulator-2.json](./283975-baklava-simulator-2.json) |
 | baKno Chess | 87149 | [87149-bakno-chess.json](./87149-bakno-chess.json) |
+| Bako | 190934 | [190934-bako.json](./190934-bako.json) |
 | Baktinet | 340028 | [340028-baktinet.json](./340028-baktinet.json) |
 | Baku Baku | 19665 | [19665-baku-baku.json](./19665-baku-baku.json) |
 | Baku Funshiki | 340033 | [340033-baku-funshiki.json](./340033-baku-funshiki.json) |
@@ -2469,6 +2470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Mages: Sign of Darkness | 17577 | [17577-battle-mages-sign-of-darkness.json](./17577-battle-mages-sign-of-darkness.json) |
 | Battle Magi | 402899 | [402899-battle-magi.json](./402899-battle-magi.json) |
 | Battle Mania Daiginjou | 45734 | [45734-battle-mania-daiginjou.json](./45734-battle-mania-daiginjou.json) |
+| Battle Map Studio | 190924 | [190924-battle-map-studio.json](./190924-battle-map-studio.json) |
 | Battle Master | 86222 | [86222-battle-master.json](./86222-battle-master.json) |
 | Battle Masters | 176871 | [176871-battle-masters.json](./176871-battle-masters.json) |
 | Battle Mech Frontier | 116278 | [116278-battle-mech-frontier.json](./116278-battle-mech-frontier.json) |
@@ -8267,6 +8269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book 5 Untold | 254549 | [254549-book-5-untold.json](./254549-book-5-untold.json) |
 | Book Collector | 212688 | [212688-book-collector.json](./212688-book-collector.json) |
 | Book End | 221419 | [221419-book-end.json](./221419-book-end.json) |
+| Book Hunter | 190930 | [190930-book-hunter.json](./190930-book-hunter.json) |
 | Book Inside | 392921 | [392921-book-inside.json](./392921-book-inside.json) |
 | Book Nook | 404843 | [404843-book-nook.json](./404843-book-nook.json) |
 | Book of Aliens | 127235 | [127235-book-of-aliens.json](./127235-book-of-aliens.json) |
@@ -10046,6 +10049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brisk Up | 291389 | [291389-brisk-up.json](./291389-brisk-up.json) |
 | Bristle and the Artificial Invasion | 316102 | [316102-bristle-and-the-artificial-invasion.json](./316102-bristle-and-the-artificial-invasion.json) |
 | Bristles | 23863 | [23863-bristles.json](./23863-bristles.json) |
+| Britannia | 190913 | [190913-britannia.json](./190913-britannia.json) |
 | Britannic: Patroness of the Mediterranean | 135665 | [135665-britannic-patroness-of-the-mediterranean.json](./135665-britannic-patroness-of-the-mediterranean.json) |
 | Britannica Sudoku Unlimited | 206681 | [206681-britannica-sudoku-unlimited.json](./206681-britannica-sudoku-unlimited.json) |
 | Britannica Word Search | 52476 | [52476-britannica-word-search.json](./52476-britannica-word-search.json) |
@@ -10087,6 +10091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Age: The Complete Adventure | 20865 | [20865-broken-age-the-complete-adventure.json](./20865-broken-age-the-complete-adventure.json) |
 | Broken Armor | 31900 | [31900-broken-armor.json](./31900-broken-armor.json) |
 | Broken Banners | 192839 | [192839-broken-banners.json](./192839-broken-banners.json) |
+| Broken Betrayal | 190921 | [190921-broken-betrayal.json](./190921-broken-betrayal.json) |
 | Broken Bird: Spread Your Wings | 210320 | [210320-broken-bird-spread-your-wings.json](./210320-broken-bird-spread-your-wings.json) |
 | Broken Blades | 152787 | [152787-broken-blades.json](./152787-broken-blades.json) |
 | Broken Bots | 19681 | [19681-broken-bots.json](./19681-broken-bots.json) |
