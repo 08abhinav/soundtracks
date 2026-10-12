@@ -6118,6 +6118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hook | 8704 | [8704-hook.json](./8704-hook.json) |
 | Hook & Kaiju | 266729 | [266729-hook-and-kaiju.json](./266729-hook-and-kaiju.json) |
 | Hook & Roll | 401738 | [401738-hook-and-roll.json](./401738-hook-and-roll.json) |
+| Hook 2 | 192626 | [192626-hook-2.json](./192626-hook-2.json) |
 | Hook Champ | 67249 | [67249-hook-champ.json](./67249-hook-champ.json) |
 | Hook Line and Sniper | 319365 | [319365-hook-line-and-sniper.json](./319365-hook-line-and-sniper.json) |
 | Hook Master | 152939 | [152939-hook-master.json](./152939-hook-master.json) |
