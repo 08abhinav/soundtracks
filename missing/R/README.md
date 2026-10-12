@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Fever: Moto | 106003 | [106003-racing-fever-moto.json](./106003-racing-fever-moto.json) |
 | Racing Fighters | 118249 | [118249-racing-fighters.json](./118249-racing-fighters.json) |
 | Racing Game Bundle | 379006 | [379006-racing-game-bundle.json](./379006-racing-game-bundle.json) |
+| Racing Girl | 212498 | [212498-racing-girl.json](./212498-racing-girl.json) |
 | Racing Glider | 90681 | [90681-racing-glider.json](./90681-racing-glider.json) |
 | Racing Go | 262380 | [262380-racing-go.json](./262380-racing-go.json) |
 | Racing Heroes | 197338 | [197338-racing-heroes.json](./197338-racing-heroes.json) |
@@ -3268,6 +3269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rent-A-Hero | 6001 | [6001-rent-a-hero.json](./6001-rent-a-hero.json) |
 | Rent-A-Hero No. 1 | 6002 | [6002-rent-a-hero-no-1.json](./6002-rent-a-hero-no-1.json) |
 | Rental House | 313336 | [313336-rental-house.json](./313336-rental-house.json) |
+| Rental-ya: Stage-gata Nazotoki Story | 212445 | [212445-rental-ya-stage-gata-nazotoki-story.json](./212445-rental-ya-stage-gata-nazotoki-story.json) |
 | Renters Revenge | 75177 | [75177-renters-revenge.json](./75177-renters-revenge.json) |
 | Rento Fortune Monolit | 105624 | [105624-rento-fortune-monolit.json](./105624-rento-fortune-monolit.json) |
 | Rento Fortune VR | 111592 | [111592-rento-fortune-vr.json](./111592-rento-fortune-vr.json) |
