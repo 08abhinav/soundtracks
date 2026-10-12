@@ -8198,6 +8198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lesser Known Cities of Europe | 142359 | [142359-the-lesser-known-cities-of-europe.json](./142359-the-lesser-known-cities-of-europe.json) |
 | The Letter | 33062 | [33062-the-letter.json](./33062-the-letter.json) |
 | The Letter That Came Over Time | 386396 | [386396-the-letter-that-came-over-time.json](./386396-the-letter-that-came-over-time.json) |
+| The Levels of Backrooms | 217462 | [217462-the-levels-of-backrooms.json](./217462-the-levels-of-backrooms.json) |
 | The Leverage Game | 263103 | [263103-the-leverage-game.json](./263103-the-leverage-game.json) |
 | The Leviathan's Fantasy: DLC | 289327 | [289327-the-leviathans-fantasy-dlc.json](./289327-the-leviathans-fantasy-dlc.json) |
 | The Leviathan's Fantasy: Mechanical Crisis | 329013 | [329013-the-leviathans-fantasy-mechanical-crisis.json](./329013-the-leviathans-fantasy-mechanical-crisis.json) |
@@ -9467,6 +9468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Perplexing Orb: Bounce N' Roll | 276155 | [276155-the-perplexing-orb-bounce-n-roll.json](./276155-the-perplexing-orb-bounce-n-roll.json) |
 | The Persistence | 37282 | [37282-the-persistence.json](./37282-the-persistence.json) |
 | The Person Living Next Door | 409509 | [409509-the-person-living-next-door.json](./409509-the-person-living-next-door.json) |
+| The Personal Reasons | 217476 | [217476-the-personal-reasons.json](./217476-the-personal-reasons.json) |
 | The Pet Squad | 332810 | [332810-the-pet-squad.json](./332810-the-pet-squad.json) |
 | The Petrified King | 232548 | [232548-the-petrified-king.json](./232548-the-petrified-king.json) |
 | The Petshop Incident | 71011 | [71011-the-petshop-incident.json](./71011-the-petshop-incident.json) |
@@ -11350,6 +11352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of Eden | 346153 | [346153-the-tower-of-eden.json](./346153-the-tower-of-eden.json) |
 | The Tower of Elements | 35074 | [35074-the-tower-of-elements.json](./35074-the-tower-of-elements.json) |
 | The Tower of Five Hearts | 111402 | [111402-the-tower-of-five-hearts.json](./111402-the-tower-of-five-hearts.json) |
+| The Tower of Luminus | 217494 | [217494-the-tower-of-luminus.json](./217494-the-tower-of-luminus.json) |
 | The Tower of Mimi | 338770 | [338770-the-tower-of-mimi.json](./338770-the-tower-of-mimi.json) |
 | The Tower of Shadows | 347232 | [347232-the-tower-of-shadows.json](./347232-the-tower-of-shadows.json) |
 | The Tower of the Elephant | 146199 | [146199-the-tower-of-the-elephant.json](./146199-the-tower-of-the-elephant.json) |
@@ -16554,6 +16557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Extreme Wrestling 2016 | 27681 | [27681-total-extreme-wrestling-2016.json](./27681-total-extreme-wrestling-2016.json) |
 | Total Extreme Wrestling 2020 | 134545 | [134545-total-extreme-wrestling-2020.json](./134545-total-extreme-wrestling-2020.json) |
 | Total Extreme Wrestling IX | 307862 | [307862-total-extreme-wrestling-ix.json](./307862-total-extreme-wrestling-ix.json) |
+| Total Factory | 217454 | [217454-total-factory.json](./217454-total-factory.json) |
 | Total Football | 223095 | [223095-total-football.json](./223095-total-football.json) |
 | Total Football | 46184 | [46184-total-football.json](./46184-total-football.json) |
 | Total Football Management | 94320 | [94320-total-football-management.json](./94320-total-football-management.json) |
@@ -19606,6 +19610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triopticon | 284281 | [284281-triopticon.json](./284281-triopticon.json) |
 | Trios | 129220 | [129220-trios.json](./129220-trios.json) |
 | Trip | 110120 | [110120-trip.json](./110120-trip.json) |
+| Trip | 217479 | [217479-trip.json](./217479-trip.json) |
 | Trip in Hell | 107813 | [107813-trip-in-hell.json](./107813-trip-in-hell.json) |
 | Trip Movie /Mosaic: Shounen Alice Satsujin Jiken | 366243 | [366243-trip-movie-mosaic-shounen-alice-satsujin-jiken.json](./366243-trip-movie-mosaic-shounen-alice-satsujin-jiken.json) |
 | Trip The Light | 379958 | [379958-trip-the-light.json](./379958-trip-the-light.json) |
@@ -19888,6 +19893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble in Potion High | 399707 | [399707-trouble-in-potion-high.json](./399707-trouble-in-potion-high.json) |
 | Trouble in Warsaw | 326069 | [326069-trouble-in-warsaw.json](./326069-trouble-in-warsaw.json) |
 | Trouble Inn: Jonny's Room | 163949 | [163949-trouble-inn-jonnys-room.json](./163949-trouble-inn-jonnys-room.json) |
+| Trouble Juice | 217457 | [217457-trouble-juice.json](./217457-trouble-juice.json) |
 | Trouble Magnet | 272876 | [272876-trouble-magnet.json](./272876-trouble-magnet.json) |
 | Trouble of Tabu | 298050 | [298050-trouble-of-tabu.json](./298050-trouble-of-tabu.json) |
 | Trouble on the Way | 394129 | [394129-trouble-on-the-way.json](./394129-trouble-on-the-way.json) |
