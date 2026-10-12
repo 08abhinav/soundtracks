@@ -4557,6 +4557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evilmun Family | 180196 | [180196-evilmun-family.json](./180196-evilmun-family.json) |
 | Evilmun Family 1.3.1 Water Update | 264050 | [264050-evilmun-family-1-3-1-water-update.json](./264050-evilmun-family-1-3-1-water-update.json) |
 | Evilmun Family 2.0 | 264051 | [264051-evilmun-family-2-0.json](./264051-evilmun-family-2-0.json) |
+| Evilmun Family: Season 3 | 185991 | [185991-evilmun-family-season-3.json](./185991-evilmun-family-season-3.json) |
 | Evilmun Family: Season 4 Spark | 198508 | [198508-evilmun-family-season-4-spark.json](./198508-evilmun-family-season-4-spark.json) |
 | Evilmun Family: Season 5 water renewal Part 1 | 230533 | [230533-evilmun-family-season-5-water-renewal-part-1.json](./230533-evilmun-family-season-5-water-renewal-part-1.json) |
 | Evilot | 63386 | [63386-evilot.json](./63386-evilot.json) |
@@ -5079,6 +5080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EXR | 288980 | [288980-exr.json](./288980-exr.json) |
 | EXS1 EthnologySister: Cultural functionalism | 166171 | [166171-exs1-ethnologysister-cultural-functionalism.json](./166171-exs1-ethnologysister-cultural-functionalism.json) |
 | EXS2: EthnologySister2 - Structuralism of Kinship System | 237279 | [237279-exs2-ethnologysister2-structuralism-of-kinship-system.json](./237279-exs2-ethnologysister2-structuralism-of-kinship-system.json) |
+| Exsanguinate | 185961 | [185961-exsanguinate.json](./185961-exsanguinate.json) |
 | Exsanguination | 340045 | [340045-exsanguination.json](./340045-exsanguination.json) |
 | Extase | 94197 | [94197-extase.json](./94197-extase.json) |
 | Exteria | 31056 | [31056-exteria.json](./31056-exteria.json) |
