@@ -4357,6 +4357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fit My Zoo: Zoo's Puzzle Pack 1 | 308811 | [308811-fit-my-zoo-zoos-puzzle-pack-1.json](./308811-fit-my-zoo-zoos-puzzle-pack-1.json) |
 | Fit My Zoo: Zoo's Puzzle Pack 2 | 308812 | [308812-fit-my-zoo-zoos-puzzle-pack-2.json](./308812-fit-my-zoo-zoos-puzzle-pack-2.json) |
 | Fit My Zoo: Zoo's Puzzle Pack 3 | 308813 | [308813-fit-my-zoo-zoos-puzzle-pack-3.json](./308813-fit-my-zoo-zoos-puzzle-pack-3.json) |
+| Fit Puzzle Blocks | 217449 | [217449-fit-puzzle-blocks.json](./217449-fit-puzzle-blocks.json) |
 | Fit Puzzle Blocks: Expansion Pack | 263197 | [263197-fit-puzzle-blocks-expansion-pack.json](./263197-fit-puzzle-blocks-expansion-pack.json) |
 | Fit the Shape! | 267336 | [267336-fit-the-shape.json](./267336-fit-the-shape.json) |
 | Fitba | 68631 | [68631-fitba.json](./68631-fitba.json) |
@@ -5012,6 +5013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip Run: Second Wave | 87128 | [87128-flip-run-second-wave.json](./87128-flip-run-second-wave.json) |
 | Flip Shot | 75463 | [75463-flip-shot.json](./75463-flip-shot.json) |
 | Flip Tale | 133381 | [133381-flip-tale.json](./133381-flip-tale.json) |
+| Flip TD: Tower Defense | 217481 | [217481-flip-td-tower-defense.json](./217481-flip-td-tower-defense.json) |
 | Flip That Coin! | 284573 | [284573-flip-that-coin.json](./284573-flip-that-coin.json) |
 | Flip the Birdie | 252711 | [252711-flip-the-birdie.json](./252711-flip-the-birdie.json) |
 | Flip the Rocket | 101102 | [101102-flip-the-rocket.json](./101102-flip-the-rocket.json) |
@@ -8540,6 +8542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Park | 257452 | [257452-funny-park.json](./257452-funny-park.json) |
 | Funny Park Reawakening | 418253 | [418253-funny-park-reawakening.json](./418253-funny-park-reawakening.json) |
 | Funny Pizza Land | 123615 | [123615-funny-pizza-land.json](./123615-funny-pizza-land.json) |
+| Funny Pizza Land 2 | 217485 | [217485-funny-pizza-land-2.json](./217485-funny-pizza-land-2.json) |
 | Funny Racer | 291008 | [291008-funny-racer.json](./291008-funny-racer.json) |
 | Funny Racer | 305350 | [305350-funny-racer.json](./305350-funny-racer.json) |
 | Funny Rain | 314924 | [314924-funny-rain.json](./314924-funny-rain.json) |
