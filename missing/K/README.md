@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep it Up | 312824 | [312824-keep-it-up.json](./312824-keep-it-up.json) |
 | Keep Keepers | 272363 | [272363-keep-keepers.json](./272363-keep-keepers.json) |
 | Keep Killing | 257889 | [257889-keep-killing.json](./257889-keep-killing.json) |
+| Keep Light | 190407 | [190407-keep-light.json](./190407-keep-light.json) |
 | Keep looking | 158185 | [158185-keep-looking.json](./158185-keep-looking.json) |
 | Keep Me Breathing | 176988 | [176988-keep-me-breathing.json](./176988-keep-me-breathing.json) |
 | Keep Me Burning | 181715 | [181715-keep-me-burning.json](./181715-keep-me-burning.json) |
@@ -2913,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knightfall Showdown | 322969 | [322969-knightfall-showdown.json](./322969-knightfall-showdown.json) |
 | Knighthood | 130678 | [130678-knighthood.json](./130678-knighthood.json) |
 | Knightin'+ | 120481 | [120481-knightin.json](./120481-knightin.json) |
+| Knightlife | 190427 | [190427-knightlife.json](./190427-knightlife.json) |
 | Knightly Gnomes | 309508 | [309508-knightly-gnomes.json](./309508-knightly-gnomes.json) |
 | Knightly Routine | 244125 | [244125-knightly-routine.json](./244125-knightly-routine.json) |
 | KnightMan | 257387 | [257387-knightman.json](./257387-knightman.json) |
@@ -3734,6 +3736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuafu Chases the Sun | 367611 | [367611-kuafu-chases-the-sun.json](./367611-kuafu-chases-the-sun.json) |
 | Kuàilè Xiǎojī | 130953 | [130953-kuaile-xiaoji.json](./130953-kuaile-xiaoji.json) |
 | Kub | 146694 | [146694-kub.json](./146694-kub.json) |
+| Kubberz | 190415 | [190415-kubberz.json](./190415-kubberz.json) |
 | Kubble | 111617 | [111617-kubble.json](./111617-kubble.json) |
 | Kubble Star | 129218 | [129218-kubble-star.json](./129218-kubble-star.json) |
 | Kube | 180095 | [180095-kube.json](./180095-kube.json) |
