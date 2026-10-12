@@ -2170,6 +2170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebels & Redcoats | 122394 | [122394-rebels-and-redcoats.json](./122394-rebels-and-redcoats.json) |
 | Rebels Prison Escape | 71233 | [71233-rebels-prison-escape.json](./71233-rebels-prison-escape.json) |
 | Rebels: Under the Spell of Magic | 150777 | [150777-rebels-under-the-spell-of-magic.json](./150777-rebels-under-the-spell-of-magic.json) |
+| Rebels: Under the Spell of Magic - Chapter 2 | 193149 | [193149-rebels-under-the-spell-of-magic-chapter-2.json](./193149-rebels-under-the-spell-of-magic-chapter-2.json) |
 | Rebels: Under the Spell of Magic - Chapter 4 | 267285 | [267285-rebels-under-the-spell-of-magic-chapter-4.json](./267285-rebels-under-the-spell-of-magic-chapter-4.json) |
 | Rebels: Under the Spell of Magic - Chapter 5 | 384218 | [384218-rebels-under-the-spell-of-magic-chapter-5.json](./384218-rebels-under-the-spell-of-magic-chapter-5.json) |
 | Rebelstar II: Alien Encounter | 104242 | [104242-rebelstar-ii-alien-encounter.json](./104242-rebelstar-ii-alien-encounter.json) |
@@ -5940,6 +5941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Run | 103988 | [103988-rock-run.json](./103988-rock-run.json) |
 | Rock Scissor Paper | 262927 | [262927-rock-scissor-paper.json](./262927-rock-scissor-paper.json) |
 | Rock Simulator | 127932 | [127932-rock-simulator.json](./127932-rock-simulator.json) |
+| Rock Snake | 193137 | [193137-rock-snake.json](./193137-rock-snake.json) |
 | Rock Star Life Simulator | 260409 | [260409-rock-star-life-simulator.json](./260409-rock-star-life-simulator.json) |
 | Rock Star Manager | 186680 | [186680-rock-star-manager.json](./186680-rock-star-manager.json) |
 | Rock the Goat | 239615 | [239615-rock-the-goat.json](./239615-rock-the-goat.json) |
