@@ -6764,6 +6764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distorted world | 157030 | [157030-distorted-world.json](./157030-distorted-world.json) |
 | Distorted: Night Shift Anomalies | 420693 | [420693-distorted-night-shift-anomalies.json](./420693-distorted-night-shift-anomalies.json) |
 | Distortion Nation | 135048 | [135048-distortion-nation.json](./135048-distortion-nation.json) |
+| Distraction Machine | 204226 | [204226-distraction-machine.json](./204226-distraction-machine.json) |
 | Distraint Collection | 186910 | [186910-distraint-collection.json](./186910-distraint-collection.json) |
 | Distraint: Pocket Pixel Horror | 134442 | [134442-distraint-pocket-pixel-horror.json](./134442-distraint-pocket-pixel-horror.json) |
 | Distress | 202245 | [202245-distress.json](./202245-distress.json) |
@@ -9357,6 +9358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon History | 66746 | [66746-dragon-history.json](./66746-dragon-history.json) |
 | Dragon Hop | 272396 | [272396-dragon-hop.json](./272396-dragon-hop.json) |
 | Dragon Hunt | 69236 | [69236-dragon-hunt.json](./69236-dragon-hunt.json) |
+| Dragon Hunt Adventure | 204201 | [204201-dragon-hunt-adventure.json](./204201-dragon-hunt-adventure.json) |
 | Dragon Hunter : Sniper Choice | 90664 | [90664-dragon-hunter-sniper-choice.json](./90664-dragon-hunter-sniper-choice.json) |
 | Dragon Hunters | 269734 | [269734-dragon-hunters.json](./269734-dragon-hunters.json) |
 | Dragon Inn | 226818 | [226818-dragon-inn.json](./226818-dragon-inn.json) |
