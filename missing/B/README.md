@@ -801,6 +801,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakuretsu Hunters: Mahjong Special | 123058 | [123058-bakuretsu-hunters-mahjong-special.json](./123058-bakuretsu-hunters-mahjong-special.json) |
 | Bakurokei Haishinsha vs. Kuzukei Utaite vs. Menhera Stalker | 285387 | [285387-bakurokei-haishinsha-vs-kuzukei-utaite-vs-menhera-stalker.json](./285387-bakurokei-haishinsha-vs-kuzukei-utaite-vs-menhera-stalker.json) |
 | Bakuryuu Sentai Abaranger | 130409 | [130409-bakuryuu-sentai-abaranger.json](./130409-bakuryuu-sentai-abaranger.json) |
+| Bakushou Mondai no Totsugeki Star Pirates: Dai-1-kai | 179956 | [179956-bakushou-mondai-no-totsugeki-star-pirates-dai-1-kai.json](./179956-bakushou-mondai-no-totsugeki-star-pirates-dai-1-kai.json) |
+| Bakushou Mondai no Totsugeki Star Pirates: Dai-2-kai | 179957 | [179957-bakushou-mondai-no-totsugeki-star-pirates-dai-2-kai.json](./179957-bakushou-mondai-no-totsugeki-star-pirates-dai-2-kai.json) |
+| Bakushou Mondai no Totsugeki Star Pirates: Dai-3-kai | 179958 | [179958-bakushou-mondai-no-totsugeki-star-pirates-dai-3-kai.json](./179958-bakushou-mondai-no-totsugeki-star-pirates-dai-3-kai.json) |
+| Bakushou Mondai no Totsugeki Star Pirates: Dai-4-kai | 179959 | [179959-bakushou-mondai-no-totsugeki-star-pirates-dai-4-kai.json](./179959-bakushou-mondai-no-totsugeki-star-pirates-dai-4-kai.json) |
 | Bakushou!! All Yoshimoto Quiz Ou Ketteisen DX | 45422 | [45422-bakushou-all-yoshimoto-quiz-ou-ketteisen-dx.json](./45422-bakushou-all-yoshimoto-quiz-ou-ketteisen-dx.json) |
 | Bakushou!! All Yoshimoto Quiz-Ou Ketteisen | 245247 | [245247-bakushou-all-yoshimoto-quiz-ou-ketteisen.json](./245247-bakushou-all-yoshimoto-quiz-ou-ketteisen.json) |
 | Bakusou Kyoudai Let's & Go!!: Eternal Wings | 44765 | [44765-bakusou-kyoudai-lets-and-go-eternal-wings.json](./44765-bakusou-kyoudai-lets-and-go-eternal-wings.json) |
@@ -858,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balconing Simulator 2020 | 127988 | [127988-balconing-simulator-2020.json](./127988-balconing-simulator-2020.json) |
 | Bald Bull's Punch-Out!! | 356061 | [356061-bald-bulls-punch-out.json](./356061-bald-bulls-punch-out.json) |
 | Bald Man Climbs Up | 260988 | [260988-bald-man-climbs-up.json](./260988-bald-man-climbs-up.json) |
+| Baldi's Basic's Advanced 0.0.1 | 179933 | [179933-baldis-basics-advanced-0-0-1.json](./179933-baldis-basics-advanced-0-0-1.json) |
 | Baldi's Basics 1 Year Birthday Bash! | 176497 | [176497-baldis-basics-1-year-birthday-bash.json](./176497-baldis-basics-1-year-birthday-bash.json) |
 | Baldi's Basics in 2D | 406248 | [406248-baldis-basics-in-2d.json](./406248-baldis-basics-in-2d.json) |
 | Baldi's Basics in School Education | 102854 | [102854-baldis-basics-in-school-education.json](./102854-baldis-basics-in-school-education.json) |
@@ -5078,6 +5083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binding of Isaac Bundle | 341547 | [341547-binding-of-isaac-bundle.json](./341547-binding-of-isaac-bundle.json) |
 | Binding Tower | 271785 | [271785-binding-tower.json](./271785-binding-tower.json) |
 | Bindmancer | 254006 | [254006-bindmancer.json](./254006-bindmancer.json) |
+| Bing Bong | 179978 | [179978-bing-bong.json](./179978-bing-bong.json) |
 | Bing Bong Blippo | 274436 | [274436-bing-bong-blippo.json](./274436-bing-bong-blippo.json) |
 | Bing Bong XL | 96956 | [96956-bing-bong-xl.json](./96956-bing-bong-xl.json) |
 | Bing Chilling | 371333 | [371333-bing-chilling.json](./371333-bing-chilling.json) |
@@ -5210,6 +5216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biologica! | 68775 | [68775-biologica.json](./68775-biologica.json) |
 | Biolum | 149552 | [149552-biolum.json](./149552-biolum.json) |
 | Biolune | 381612 | [381612-biolune.json](./381612-biolune.json) |
+| Bioma | 179945 | [179945-bioma.json](./179945-bioma.json) |
 | Biomass | 142950 | [142950-biomass.json](./142950-biomass.json) |
 | Biomass: Extermination | 361275 | [361275-biomass-extermination.json](./361275-biomass-extermination.json) |
 | Biome Conquest | 227943 | [227943-biome-conquest.json](./227943-biome-conquest.json) |
@@ -10385,6 +10392,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS Hacker: Replay | 68733 | [68733-bs-hacker-replay.json](./68733-bs-hacker-replay.json) |
 | BS Hacker: Zero Expansions | 78052 | [78052-bs-hacker-zero-expansions.json](./78052-bs-hacker-zero-expansions.json) |
 | BS Ihatovo Monogatari | 150170 | [150170-bs-ihatovo-monogatari.json](./150170-bs-ihatovo-monogatari.json) |
+| BS Ihatovo Monogatari: Dai-1-ya | 179948 | [179948-bs-ihatovo-monogatari-dai-1-ya.json](./179948-bs-ihatovo-monogatari-dai-1-ya.json) |
+| BS Ihatovo Monogatari: Dai-2-ya | 179949 | [179949-bs-ihatovo-monogatari-dai-2-ya.json](./179949-bs-ihatovo-monogatari-dai-2-ya.json) |
+| BS Ihatovo Monogatari: Dai-3-ya | 179950 | [179950-bs-ihatovo-monogatari-dai-3-ya.json](./179950-bs-ihatovo-monogatari-dai-3-ya.json) |
+| BS Ihatovo Monogatari: Dai-4-ya | 179951 | [179951-bs-ihatovo-monogatari-dai-4-ya.json](./179951-bs-ihatovo-monogatari-dai-4-ya.json) |
 | BS Marvelous: Camp Arnold | 134431 | [134431-bs-marvelous-camp-arnold.json](./134431-bs-marvelous-camp-arnold.json) |
 | BS Marvelous: Camp Arnold - Course 3 | 178385 | [178385-bs-marvelous-camp-arnold-course-3.json](./178385-bs-marvelous-camp-arnold-course-3.json) |
 | BS Marvelous: Camp Arnold - Course 4 | 178386 | [178386-bs-marvelous-camp-arnold-course-4.json](./178386-bs-marvelous-camp-arnold-course-4.json) |
@@ -10395,6 +10406,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS Marvelous: Time Athletic - Course 4 | 178390 | [178390-bs-marvelous-time-athletic-course-4.json](./178390-bs-marvelous-time-athletic-course-4.json) |
 | BS Parlor! Parlor! | 134433 | [134433-bs-parlor-parlor.json](./134433-bs-parlor-parlor.json) |
 | BS Shin Onigashima | 134434 | [134434-bs-shin-onigashima.json](./134434-bs-shin-onigashima.json) |
+| BS Shin Onigashima: Dai-1-wa | 179967 | [179967-bs-shin-onigashima-dai-1-wa.json](./179967-bs-shin-onigashima-dai-1-wa.json) |
+| BS Shin Onigashima: Dai-2-wa | 179968 | [179968-bs-shin-onigashima-dai-2-wa.json](./179968-bs-shin-onigashima-dai-2-wa.json) |
+| BS Shin Onigashima: Dai-3-wa | 179969 | [179969-bs-shin-onigashima-dai-3-wa.json](./179969-bs-shin-onigashima-dai-3-wa.json) |
+| BS Shin Onigashima: Dai-4-wa | 179970 | [179970-bs-shin-onigashima-dai-4-wa.json](./179970-bs-shin-onigashima-dai-4-wa.json) |
 | BS SimCity: Machi Tsukuri Taikai | 134435 | [134435-bs-simcity-machi-tsukuri-taikai.json](./134435-bs-simcity-machi-tsukuri-taikai.json) |
 | BS SimCity: Machi Tsukuri Taikai - Scenario 1 | 179711 | [179711-bs-simcity-machi-tsukuri-taikai-scenario-1.json](./179711-bs-simcity-machi-tsukuri-taikai-scenario-1.json) |
 | BS SimCity: Machi Tsukuri Taikai - Scenario 2 | 179712 | [179712-bs-simcity-machi-tsukuri-taikai-scenario-2.json](./179712-bs-simcity-machi-tsukuri-taikai-scenario-2.json) |
@@ -10406,6 +10421,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS Super Mario Collection: Dai-2-shuu | 179730 | [179730-bs-super-mario-collection-dai-2-shuu.json](./179730-bs-super-mario-collection-dai-2-shuu.json) |
 | BS Super Mario Collection: Dai-3-shuu | 179736 | [179736-bs-super-mario-collection-dai-3-shuu.json](./179736-bs-super-mario-collection-dai-3-shuu.json) |
 | BS Super Mario Collection: Dai-4-shuu | 179744 | [179744-bs-super-mario-collection-dai-4-shuu.json](./179744-bs-super-mario-collection-dai-4-shuu.json) |
+| BS Super Mario USA: Power Challenge - Dai-1-kai | 179972 | [179972-bs-super-mario-usa-power-challenge-dai-1-kai.json](./179972-bs-super-mario-usa-power-challenge-dai-1-kai.json) |
+| BS Super Mario USA: Power Challenge - Dai-2-kai | 179973 | [179973-bs-super-mario-usa-power-challenge-dai-2-kai.json](./179973-bs-super-mario-usa-power-challenge-dai-2-kai.json) |
+| BS Super Mario USA: Power Challenge - Dai-3-kai | 179974 | [179974-bs-super-mario-usa-power-challenge-dai-3-kai.json](./179974-bs-super-mario-usa-power-challenge-dai-3-kai.json) |
+| BS Super Mario USA: Power Challenge - Dai-4-kai | 179975 | [179975-bs-super-mario-usa-power-challenge-dai-4-kai.json](./179975-bs-super-mario-usa-power-challenge-dai-4-kai.json) |
 | BS Tantei Club: Yuki ni Kieta Kako | 68227 | [68227-bs-tantei-club-yuki-ni-kieta-kako.json](./68227-bs-tantei-club-yuki-ni-kieta-kako.json) |
 | BS The Legend of Zelda "MottZilla Patch" | 150080 | [150080-bs-the-legend-of-zelda-mottzilla-patch.json](./150080-bs-the-legend-of-zelda-mottzilla-patch.json) |
 | BS The Legend of Zelda: Ancient Stone Tablets | 322560 | [322560-bs-the-legend-of-zelda-ancient-stone-tablets.json](./322560-bs-the-legend-of-zelda-ancient-stone-tablets.json) |
