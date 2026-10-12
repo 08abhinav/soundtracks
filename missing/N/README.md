@@ -1506,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Testament | 270969 | [270969-neo-testament.json](./270969-neo-testament.json) |
 | Neo Turf Masters | 392403 | [392403-neo-turf-masters.json](./392403-neo-turf-masters.json) |
 | Neo Turf Masters Scotland | 400237 | [400237-neo-turf-masters-scotland.json](./400237-neo-turf-masters-scotland.json) |
+| Neo-Gensokyo Zero | 184860 | [184860-neo-gensokyo-zero.json](./184860-neo-gensokyo-zero.json) |
 | Neo-Now! | 31986 | [31986-neo-now.json](./31986-neo-now.json) |
 | Neo-Programs | 186067 | [186067-neo-programs.json](./186067-neo-programs.json) |
 | Neo-Sonic: Godspeed | 330286 | [330286-neo-sonic-godspeed.json](./330286-neo-sonic-godspeed.json) |
@@ -2686,6 +2687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niflhel's Fables: The Book of Gypsies | 199315 | [199315-niflhels-fables-the-book-of-gypsies.json](./199315-niflhels-fables-the-book-of-gypsies.json) |
 | Nifty Drifty | 197701 | [197701-nifty-drifty.json](./197701-nifty-drifty.json) |
 | Nifty Island | 282824 | [282824-nifty-island.json](./282824-nifty-island.json) |
+| Nifty League | 184289 | [184289-nifty-league.json](./184289-nifty-league.json) |
 | Nigate Tale | 139175 | [139175-nigate-tale.json](./139175-nigate-tale.json) |
 | Nige-ron-pa | 43961 | [43961-nige-ron-pa.json](./43961-nige-ron-pa.json) |
 | Nigel: The Minuscule Adventure | 121456 | [121456-nigel-the-minuscule-adventure.json](./121456-nigel-the-minuscule-adventure.json) |
@@ -2871,6 +2873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Striker Gear | 330380 | [330380-night-striker-gear.json](./330380-night-striker-gear.json) |
 | Night Swarm | 343477 | [343477-night-swarm.json](./343477-night-swarm.json) |
 | Night Thoughts | 374171 | [374171-night-thoughts.json](./374171-night-thoughts.json) |
+| Night Tide | 184323 | [184323-night-tide.json](./184323-night-tide.json) |
 | Night Time | 369222 | [369222-night-time.json](./369222-night-time.json) |
 | Night Train Simulator: Blackout | 412204 | [412204-night-train-simulator-blackout.json](./412204-night-train-simulator-blackout.json) |
 | Night Trap | 179569 | [179569-night-trap.json](./179569-night-trap.json) |
