@@ -3280,6 +3280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wickie und die starken Männer: Die Mutprobe | 250603 | [250603-wickie-und-die-starken-manner-die-mutprobe.json](./250603-wickie-und-die-starken-manner-die-mutprobe.json) |
 | Wide Awake! | 308443 | [308443-wide-awake.json](./308443-wide-awake.json) |
 | Wide Cross | 109497 | [109497-wide-cross.json](./109497-wide-cross.json) |
+| Wide Island | 179463 | [179463-wide-island.json](./179463-wide-island.json) |
 | Wide Ocean Big Jacket | 127591 | [127591-wide-ocean-big-jacket.json](./127591-wide-ocean-big-jacket.json) |
 | Wide Open | 173284 | [173284-wide-open.json](./173284-wide-open.json) |
 | Widen | 305965 | [305965-widen.json](./305965-widen.json) |
