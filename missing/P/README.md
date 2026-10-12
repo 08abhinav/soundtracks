@@ -3465,6 +3465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Ten | 311292 | [311292-phantom-ten.json](./311292-phantom-ten.json) |
 | Phantom the Huntress | 390092 | [390092-phantom-the-huntress.json](./390092-phantom-the-huntress.json) |
 | Phantom Thief Angels: Twin Angel - Labyrinth of Time and World: Re:light | 335978 | [335978-phantom-thief-angels-twin-angel-labyrinth-of-time-and-world-re-light.json](./335978-phantom-thief-angels-twin-angel-labyrinth-of-time-and-world-re-light.json) |
+| Phantom Thief Mew's Secret Prima | 197569 | [197569-phantom-thief-mews-secret-prima.json](./197569-phantom-thief-mews-secret-prima.json) |
 | Phantom Thief Mirage and the Curious Clues | 420664 | [420664-phantom-thief-mirage-and-the-curious-clues.json](./420664-phantom-thief-mirage-and-the-curious-clues.json) |
 | Phantom Tides | 223952 | [223952-phantom-tides.json](./223952-phantom-tides.json) |
 | Phantom Trigger | 27714 | [27714-phantom-trigger.json](./27714-phantom-trigger.json) |
@@ -8876,6 +8877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Predator: Hunting Grounds - Samurai Predator | 168757 | [168757-predator-hunting-grounds-samurai-predator.json](./168757-predator-hunting-grounds-samurai-predator.json) |
 | Predator: Hunting Grounds - Valkyrie Predator DLC Pack | 168763 | [168763-predator-hunting-grounds-valkyrie-predator-dlc-pack.json](./168763-predator-hunting-grounds-valkyrie-predator-dlc-pack.json) |
 | Predator: Hunting Grounds - Viking Predator | 168761 | [168761-predator-hunting-grounds-viking-predator.json](./168761-predator-hunting-grounds-viking-predator.json) |
+| Predator: Hunting Grounds - Wolf Predator | 197587 | [197587-predator-hunting-grounds-wolf-predator.json](./197587-predator-hunting-grounds-wolf-predator.json) |
 | Predator: Hunting Grounds - Yautja Edition | 320763 | [320763-predator-hunting-grounds-yautja-edition.json](./320763-predator-hunting-grounds-yautja-edition.json) |
 | Predator: Hunting Grounds: Oni Predator | 361905 | [361905-predator-hunting-grounds-oni-predator.json](./361905-predator-hunting-grounds-oni-predator.json) |
 | Predators | 79534 | [79534-predators.json](./79534-predators.json) |
@@ -9345,6 +9347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prinny Presents NIS Classics Volumes 1-3 Bundle | 234638 | [234638-prinny-presents-nis-classics-volumes-1-3-bundle.json](./234638-prinny-presents-nis-classics-volumes-1-3-bundle.json) |
 | Prinny Presents: NIS Classics Vol 1 - Deluxe Edition | 148545 | [148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json](./148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json) |
 | Prinny Presents: NIS Classics Vol 3 | 194961 | [194961-prinny-presents-nis-classics-vol-3.json](./194961-prinny-presents-nis-classics-vol-3.json) |
+| Prinny Presents: NIS Classics Vol 3 - Deluxe Edition | 197610 | [197610-prinny-presents-nis-classics-vol-3-deluxe-edition.json](./197610-prinny-presents-nis-classics-vol-3-deluxe-edition.json) |
 | Prinsess of Da Hell | 122305 | [122305-prinsess-of-da-hell.json](./122305-prinsess-of-da-hell.json) |
 | Print Gallery of an Artist | 399606 | [399606-print-gallery-of-an-artist.json](./399606-print-gallery-of-an-artist.json) |
 | Prinzessin Lillifee Puzzle: Echter Puzzlespass für Unterwegs | 252669 | [252669-prinzessin-lillifee-puzzle-echter-puzzlespass-fur-unterwegs.json](./252669-prinzessin-lillifee-puzzle-echter-puzzlespass-fur-unterwegs.json) |
