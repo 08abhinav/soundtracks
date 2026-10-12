@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yondu's Journey | 241260 | [241260-yondus-journey.json](./241260-yondus-journey.json) |
 | Yonenaga Kunio no Shogi Seminar | 54942 | [54942-yonenaga-kunio-no-shogi-seminar.json](./54942-yonenaga-kunio-no-shogi-seminar.json) |
 | Yonesawara Hospital | 203887 | [203887-yonesawara-hospital.json](./203887-yonesawara-hospital.json) |
+| Yong Heroes | 208110 | [208110-yong-heroes.json](./208110-yong-heroes.json) |
 | Yongbi M | 208061 | [208061-yongbi-m.json](./208061-yongbi-m.json) |
 | Yōngbīng Zhàngē | 127232 | [127232-yongbing-zhange.json](./127232-yongbing-zhange.json) |
 | Yongjiang River | 376275 | [376275-yongjiang-river.json](./376275-yongjiang-river.json) |
@@ -1204,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuletide Regicide | 381113 | [381113-yuletide-regicide.json](./381113-yuletide-regicide.json) |
 | Yulgang 2 | 23593 | [23593-yulgang-2.json](./23593-yulgang-2.json) |
 | Yulgang Mobile | 174698 | [174698-yulgang-mobile.json](./174698-yulgang-mobile.json) |
+| Yulgang Rush | 208067 | [208067-yulgang-rush.json](./208067-yulgang-rush.json) |
 | Yulhyul Kangho | 145569 | [145569-yulhyul-kangho.json](./145569-yulhyul-kangho.json) |
 | Yùlóng zài Tiān: Pínghéng Guózhàn Bǎn | 118295 | [118295-yulong-zai-tian-pingheng-guozhan-ban.json](./118295-yulong-zai-tian-pingheng-guozhan-ban.json) |
 | Yum Collector | 192287 | [192287-yum-collector.json](./192287-yum-collector.json) |
