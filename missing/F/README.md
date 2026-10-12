@@ -606,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Dudes 3D | 136946 | [136946-fall-dudes-3d.json](./136946-fall-dudes-3d.json) |
 | Fall for Greed | 145255 | [145255-fall-for-greed.json](./145255-fall-for-greed.json) |
 | Fall From Eden | 340053 | [340053-fall-from-eden.json](./340053-fall-from-eden.json) |
+| Fall Girls | 194929 | [194929-fall-girls.json](./194929-fall-girls.json) |
 | Fall Gummies | 146796 | [146796-fall-gummies.json](./146796-fall-gummies.json) |
 | Fall Guy | 40927 | [40927-fall-guy.json](./40927-fall-guy.json) |
 | Fall Guys World | 213892 | [213892-fall-guys-world.json](./213892-fall-guys-world.json) |
