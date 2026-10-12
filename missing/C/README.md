@@ -6474,6 +6474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clockwind | 185029 | [185029-clockwind.json](./185029-clockwind.json) |
 | Clockwise Jinx | 186338 | [186338-clockwise-jinx.json](./186338-clockwise-jinx.json) |
 | Clockwizzze | 29162 | [29162-clockwizzze.json](./29162-clockwizzze.json) |
+| ClockWork | 217480 | [217480-clockwork.json](./217480-clockwork.json) |
 | Clockwork Apple | 182934 | [182934-clockwork-apple.json](./182934-clockwork-apple.json) |
 | Clockwork Calamity in Mushroom World: What would you do if the time stopped ticking? | 153424 | [153424-clockwork-calamity-in-mushroom-world-what-would-you-do-if-the-time-stopped-ticking.json](./153424-clockwork-calamity-in-mushroom-world-what-would-you-do-if-the-time-stopped-ticking.json) |
 | Clockwork Dreams | 169238 | [169238-clockwork-dreams.json](./169238-clockwork-dreams.json) |
