@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race.a.bit | 36114 | [36114-race-a-bit.json](./36114-race-a-bit.json) |
 | Race07 | 50162 | [50162-race07.json](./50162-race07.json) |
 | Raceborn | 311638 | [311638-raceborn.json](./311638-raceborn.json) |
+| Racecar Bed | 216943 | [216943-racecar-bed.json](./216943-racecar-bed.json) |
 | Racecar Crashers | 391835 | [391835-racecar-crashers.json](./391835-racecar-crashers.json) |
 | Racecraft | 18188 | [18188-racecraft.json](./18188-racecraft.json) |
 | Raceland | 81906 | [81906-raceland.json](./81906-raceland.json) |
@@ -509,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rafting Frenzy | 253367 | [253367-rafting-frenzy.json](./253367-rafting-frenzy.json) |
 | Rag Doll Kung Fu | 19349 | [19349-rag-doll-kung-fu.json](./19349-rag-doll-kung-fu.json) |
 | Rag Doll Kung Fu: Black Belt Edition | 201793 | [201793-rag-doll-kung-fu-black-belt-edition.json](./201793-rag-doll-kung-fu-black-belt-edition.json) |
+| Raga | 216942 | [216942-raga.json](./216942-raga.json) |
 | RaGaBa | 27780 | [27780-ragaba.json](./27780-ragaba.json) |
 | RagBlo Set2 | 97824 | [97824-ragblo-set2.json](./97824-ragblo-set2.json) |
 | RagBrawl | 244163 | [244163-ragbrawl.json](./244163-ragbrawl.json) |
@@ -642,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid Auctus | 328948 | [328948-raid-auctus.json](./328948-raid-auctus.json) |
 | Raid Gaza! | 318205 | [318205-raid-gaza.json](./318205-raid-gaza.json) |
 | Raid Haven | 418577 | [418577-raid-haven.json](./418577-raid-haven.json) |
+| Raid Healing | 216941 | [216941-raid-healing.json](./216941-raid-healing.json) |
 | Raid Land | 130721 | [130721-raid-land.json](./130721-raid-land.json) |
 | Raid Leader | 237385 | [237385-raid-leader.json](./237385-raid-leader.json) |
 | Raid Manager | 197655 | [197655-raid-manager.json](./197655-raid-manager.json) |
@@ -936,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RainyDay | 265243 | [265243-rainyday.json](./265243-rainyday.json) |
 | Raiohgar: Asuka and the King of Steel | 126816 | [126816-raiohgar-asuka-and-the-king-of-steel.json](./126816-raiohgar-asuka-and-the-king-of-steel.json) |
 | Raios Funde | 245012 | [245012-raios-funde.json](./245012-raios-funde.json) |
+| Raise | 216948 | [216948-raise.json](./216948-raise.json) |
 | Raise | 239556 | [239556-raise.json](./239556-raise.json) |
 | Raise the Colours | 393816 | [393816-raise-the-colours.json](./393816-raise-the-colours.json) |
 | Raise the Dead | 37021 | [37021-raise-the-dead.json](./37021-raise-the-dead.json) |
@@ -2187,6 +2191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reborn Souls | 201589 | [201589-reborn-souls.json](./201589-reborn-souls.json) |
 | Reborn to Veer | 236244 | [236244-reborn-to-veer.json](./236244-reborn-to-veer.json) |
 | Reborn: Examine Again | 357812 | [357812-reborn-examine-again.json](./357812-reborn-examine-again.json) |
+| Reborn: Fate of Gods | 216953 | [216953-reborn-fate-of-gods.json](./216953-reborn-fate-of-gods.json) |
 | Reborn: New Life | 396590 | [396590-reborn-new-life.json](./396590-reborn-new-life.json) |
 | Reborn: The Evil Being | 373168 | [373168-reborn-the-evil-being.json](./373168-reborn-the-evil-being.json) |
 | ReBounce | 66368 | [66368-rebounce.json](./66368-rebounce.json) |
@@ -2242,6 +2247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reckpunk | 32262 | [32262-reckpunk.json](./32262-reckpunk.json) |
 | Reclaim | 366721 | [366721-reclaim.json](./366721-reclaim.json) |
 | Reclaim | 405688 | [405688-reclaim.json](./405688-reclaim.json) |
+| Reclaim the Sea | 216954 | [216954-reclaim-the-sea.json](./216954-reclaim-the-sea.json) |
 | Reclaimer | 404308 | [404308-reclaimer.json](./404308-reclaimer.json) |
 | Reclamation | 268463 | [268463-reclamation.json](./268463-reclamation.json) |
 | Reclamation of Xanthros | 298177 | [298177-reclamation-of-xanthros.json](./298177-reclamation-of-xanthros.json) |
@@ -2794,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflectile | 247546 | [247546-reflectile.json](./247546-reflectile.json) |
 | Reflecting Fate | 43434 | [43434-reflecting-fate.json](./43434-reflecting-fate.json) |
 | Reflection | 201694 | [201694-reflection.json](./201694-reflection.json) |
+| Reflection | 216955 | [216955-reflection.json](./216955-reflection.json) |
 | Reflection Arena | 406227 | [406227-reflection-arena.json](./406227-reflection-arena.json) |
 | Reflection Link | 303061 | [303061-reflection-link.json](./303061-reflection-link.json) |
 | Reflection of Loneliness | 184576 | [184576-reflection-of-loneliness.json](./184576-reflection-of-loneliness.json) |
@@ -3199,6 +3206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renai Karichaimashita: Koikari - Love For Hire - After Hours | 376587 | [376587-renai-karichaimashita-koikari-love-for-hire-after-hours.json](./376587-renai-karichaimashita-koikari-love-for-hire-after-hours.json) |
 | Renai Karichaimashita: Koikari - Love For Hire: Limited Edition | 335969 | [335969-renai-karichaimashita-koikari-love-for-hire-limited-edition.json](./335969-renai-karichaimashita-koikari-love-for-hire-limited-edition.json) |
 | Renai Kouhosei Starlight Scramble | 165537 | [165537-renai-kouhosei-starlight-scramble.json](./165537-renai-kouhosei-starlight-scramble.json) |
+| Renai X Royale: Love's a Battle | 216956 | [216956-renai-x-royale-loves-a-battle.json](./216956-renai-x-royale-loves-a-battle.json) |
 | Renai, Karichaimashita | 144892 | [144892-renai-karichaimashita.json](./144892-renai-karichaimashita.json) |
 | Renaine | 74723 | [74723-renaine.json](./74723-renaine.json) |
 | Renaissance Fighters | 220187 | [220187-renaissance-fighters.json](./220187-renaissance-fighters.json) |
@@ -3675,6 +3683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resting Island | 362194 | [362194-resting-island.json](./362194-resting-island.json) |
 | Restitched | 147290 | [147290-restitched.json](./147290-restitched.json) |
 | Restless I | 391816 | [391816-restless-i.json](./391816-restless-i.json) |
+| Restless Kids | 216957 | [216957-restless-kids.json](./216957-restless-kids.json) |
 | Restless Nights | 393756 | [393756-restless-nights.json](./393756-restless-nights.json) |
 | Restless Soul | 192398 | [192398-restless-soul.json](./192398-restless-soul.json) |
 | Restless Voronezh | 267058 | [267058-restless-voronezh.json](./267058-restless-voronezh.json) |
@@ -6829,6 +6838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ronin Heart | 366393 | [366393-ronin-heart.json](./366393-ronin-heart.json) |
 | Ronin Rush | 304713 | [304713-ronin-rush.json](./304713-ronin-rush.json) |
 | Ronin Trail | 206588 | [206588-ronin-trail.json](./206588-ronin-trail.json) |
+| Ronin: Samurai Redemption | 216936 | [216936-ronin-samurai-redemption.json](./216936-ronin-samurai-redemption.json) |
 | Ronin: Two Souls | 139474 | [139474-ronin-two-souls.json](./139474-ronin-two-souls.json) |
 | Ronin's Requiem | 305289 | [305289-ronins-requiem.json](./305289-ronins-requiem.json) |
 | Ronin's Run | 220705 | [220705-ronins-run.json](./220705-ronins-run.json) |
@@ -8137,6 +8147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rustmourne | 406184 | [406184-rustmourne.json](./406184-rustmourne.json) |
 | RustNaut | 348308 | [348308-rustnaut.json](./348308-rustnaut.json) |
 | Rusts of Corruption | 307218 | [307218-rusts-of-corruption.json](./307218-rusts-of-corruption.json) |
+| Rustwalker Legends | 216935 | [216935-rustwalker-legends.json](./216935-rustwalker-legends.json) |
 | Rusty | 239074 | [239074-rusty.json](./239074-rusty.json) |
 | Rusty | 45975 | [45975-rusty.json](./45975-rusty.json) |
 | Rusty Barrel | 270854 | [270854-rusty-barrel.json](./270854-rusty-barrel.json) |
@@ -8170,6 +8181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty's Retirement: Autumn Update | 368631 | [368631-rustys-retirement-autumn-update.json](./368631-rustys-retirement-autumn-update.json) |
 | Rusty's Retirement: Supporter Pack | 305770 | [305770-rustys-retirement-supporter-pack.json](./305770-rustys-retirement-supporter-pack.json) |
 | Rustyard | 322354 | [322354-rustyard.json](./322354-rustyard.json) |
+| Rustystreet | 216934 | [216934-rustystreet.json](./216934-rustystreet.json) |
 | Rutabaga Desert Storm | 275704 | [275704-rutabaga-desert-storm.json](./275704-rutabaga-desert-storm.json) |
 | Ruth's Journey | 133861 | [133861-ruths-journey.json](./133861-ruths-journey.json) |
 | Ruthless Carnage Hotline | 313225 | [313225-ruthless-carnage-hotline.json](./313225-ruthless-carnage-hotline.json) |
