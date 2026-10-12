@@ -8911,6 +8911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuyu no Rondo | 69310 | [69310-fuyu-no-rondo.json](./69310-fuyu-no-rondo.json) |
 | Fuyu no Sonata DS | 124014 | [124014-fuyu-no-sonata-ds.json](./124014-fuyu-no-sonata-ds.json) |
 | Fuyuzono Sacrifice | 287893 | [287893-fuyuzono-sacrifice.json](./287893-fuyuzono-sacrifice.json) |
+| Fuze Player | 221929 | [221929-fuze-player.json](./221929-fuze-player.json) |
 | Fuze4 Nintendo Switch | 85161 | [85161-fuze4-nintendo-switch.json](./85161-fuze4-nintendo-switch.json) |
 | Fuzecat | 36525 | [36525-fuzecat.json](./36525-fuzecat.json) |
 | Fuzion Frenzy | 5842 | [5842-fuzion-frenzy.json](./5842-fuzion-frenzy.json) |
