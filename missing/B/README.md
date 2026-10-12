@@ -11347,6 +11347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnout Dominator | 6203 | [6203-burnout-dominator.json](./6203-burnout-dominator.json) |
 | Burnout Drift | 116364 | [116364-burnout-drift.json](./116364-burnout-drift.json) |
 | Burnout Legends | 10916 | [10916-burnout-legends.json](./10916-burnout-legends.json) |
+| Burnout Legends | 194233 | [194233-burnout-legends.json](./194233-burnout-legends.json) |
 | Burnout Mobile | 342038 | [342038-burnout-mobile.json](./342038-burnout-mobile.json) |
 | Burnout Paradise Remastered | 78153 | [78153-burnout-paradise-remastered.json](./78153-burnout-paradise-remastered.json) |
 | Burnout Paradise: Cops and Robbers | 118274 | [118274-burnout-paradise-cops-and-robbers.json](./118274-burnout-paradise-cops-and-robbers.json) |
