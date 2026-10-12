@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laserstorm | 336689 | [336689-laserstorm.json](./336689-laserstorm.json) |
 | Lasertag | 397898 | [397898-lasertag.json](./397898-lasertag.json) |
 | Laservasion | 121454 | [121454-laservasion.json](./121454-laservasion.json) |
+| Laserworks | 184316 | [184316-laserworks.json](./184316-laserworks.json) |
 | LaserZone | 133356 | [133356-laserzone.json](./133356-laserzone.json) |
 | Lassie | 43331 | [43331-lassie.json](./43331-lassie.json) |
 | Lasso | 346094 | [346094-lasso.json](./346094-lasso.json) |
@@ -5185,6 +5186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Hammer | 221754 | [221754-lost-hammer.json](./221754-lost-hammer.json) |
 | Lost Harem | 173823 | [173823-lost-harem.json](./173823-lost-harem.json) |
 | Lost Harmony | 278978 | [278978-lost-harmony.json](./278978-lost-harmony.json) |
+| Lost Heroes | 184333 | [184333-lost-heroes.json](./184333-lost-heroes.json) |
 | Lost Heroes | 64953 | [64953-lost-heroes.json](./64953-lost-heroes.json) |
 | Lost Hope | 285919 | [285919-lost-hope.json](./285919-lost-hope.json) |
 | Lost Hope: Backrooms | 266786 | [266786-lost-hope-backrooms.json](./266786-lost-hope-backrooms.json) |
@@ -6151,11 +6153,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lula Virtual Babe | 94697 | [94697-lula-virtual-babe.json](./94697-lula-virtual-babe.json) |
 | Lula: The Sexy Empire | 11679 | [11679-lula-the-sexy-empire.json](./11679-lula-the-sexy-empire.json) |
 | Lulanda | 363006 | [363006-lulanda.json](./363006-lulanda.json) |
+| Lull Away | 184339 | [184339-lull-away.json](./184339-lull-away.json) |
 | Lullaby | 256805 | [256805-lullaby.json](./256805-lullaby.json) |
 | Lullaby Data | 311639 | [311639-lullaby-data.json](./311639-lullaby-data.json) |
 | Lullaby Days | 166703 | [166703-lullaby-days.json](./166703-lullaby-days.json) |
 | Lullaby of Demonia | 298985 | [298985-lullaby-of-demonia.json](./298985-lullaby-of-demonia.json) |
 | Lullaby of Lost Soul | 332460 | [332460-lullaby-of-lost-soul.json](./332460-lullaby-of-lost-soul.json) |
+| Lully Muk's Christmas Adventure | 183271 | [183271-lully-muks-christmas-adventure.json](./183271-lully-muks-christmas-adventure.json) |
 | Lulu & Ennoi: Sacred Suit Girls | 119621 | [119621-lulu-and-ennoi-sacred-suit-girls.json](./119621-lulu-and-ennoi-sacred-suit-girls.json) |
 | Lulu Fighter for LOL | 243096 | [243096-lulu-fighter-for-lol.json](./243096-lulu-fighter-for-lol.json) |
 | Lulu's Temple | 195696 | [195696-lulus-temple.json](./195696-lulus-temple.json) |
