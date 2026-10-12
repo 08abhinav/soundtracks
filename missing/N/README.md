@@ -767,6 +767,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Navy War | 207517 | [207517-navy-war.json](./207517-navy-war.json) |
 | Navyblue and the Spectrum Killers | 108079 | [108079-navyblue-and-the-spectrum-killers.json](./108079-navyblue-and-the-spectrum-killers.json) |
 | Naxat Cup Satellaview Bass Tournament "Big Fight" | 150171 | [150171-naxat-cup-satellaview-bass-tournament-big-fight.json](./150171-naxat-cup-satellaview-bass-tournament-big-fight.json) |
+| Naxat Cup Satellaview Bass Tournament "Big Fight": Dai-1-shuu | 179960 | [179960-naxat-cup-satellaview-bass-tournament-big-fight-dai-1-shuu.json](./179960-naxat-cup-satellaview-bass-tournament-big-fight-dai-1-shuu.json) |
+| Naxat Cup Satellaview Bass Tournament "Big Fight": Dai-2-shuu | 179961 | [179961-naxat-cup-satellaview-bass-tournament-big-fight-dai-2-shuu.json](./179961-naxat-cup-satellaview-bass-tournament-big-fight-dai-2-shuu.json) |
+| Naxat Cup Satellaview Bass Tournament "Big Fight": Dai-3-shuu | 179962 | [179962-naxat-cup-satellaview-bass-tournament-big-fight-dai-3-shuu.json](./179962-naxat-cup-satellaview-bass-tournament-big-fight-dai-3-shuu.json) |
+| Naxat Cup Satellaview Bass Tournament "Big Fight": Dai-4-shuu | 179963 | [179963-naxat-cup-satellaview-bass-tournament-big-fight-dai-4-shuu.json](./179963-naxat-cup-satellaview-bass-tournament-big-fight-dai-4-shuu.json) |
 | Naxat Open | 37707 | [37707-naxat-open.json](./37707-naxat-open.json) |
 | Naxat Stadium | 37670 | [37670-naxat-stadium.json](./37670-naxat-stadium.json) |
 | Naxos | 199402 | [199402-naxos.json](./199402-naxos.json) |
