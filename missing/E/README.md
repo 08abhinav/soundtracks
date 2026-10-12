@@ -3114,6 +3114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Error: Ai.lien | 376274 | [376274-error-ai-lien.json](./376274-error-ai-lien.json) |
 | Error: Girlfriend Not Found | 406289 | [406289-error-girlfriend-not-found.json](./406289-error-girlfriend-not-found.json) |
 | Error: Slasher Alert | 176251 | [176251-error-slasher-alert.json](./176251-error-slasher-alert.json) |
+| Error143 | 207032 | [207032-error143.json](./207032-error143.json) |
 | Error422 | 280743 | [280743-error422.json](./280743-error422.json) |
 | Errships | 258403 | [258403-errships.json](./258403-errships.json) |
 | Ersatz | 59238 | [59238-ersatz.json](./59238-ersatz.json) |
