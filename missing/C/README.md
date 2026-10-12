@@ -2583,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacombs 1: Demon War | 43505 | [43505-catacombs-1-demon-war.json](./43505-catacombs-1-demon-war.json) |
 | Catacombs of the Phantoms | 356691 | [356691-catacombs-of-the-phantoms.json](./356691-catacombs-of-the-phantoms.json) |
 | Catacombs of the Undercity | 35682 | [35682-catacombs-of-the-undercity.json](./35682-catacombs-of-the-undercity.json) |
+| Catacombs of the Yokai | 192647 | [192647-catacombs-of-the-yokai.json](./192647-catacombs-of-the-yokai.json) |
 | Catacombs Pack | 154420 | [154420-catacombs-pack.json](./154420-catacombs-pack.json) |
 | Catacombs: The Asper Case | 235854 | [235854-catacombs-the-asper-case.json](./235854-catacombs-the-asper-case.json) |
 | Cataegis : The White Wind | 35920 | [35920-cataegis-the-white-wind.json](./35920-cataegis-the-white-wind.json) |
@@ -3435,6 +3436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChainStaff | 304750 | [304750-chainstaff.json](./304750-chainstaff.json) |
 | Chainworm Kommando | 257350 | [257350-chainworm-kommando.json](./257350-chainworm-kommando.json) |
 | Chair Simulator | 146871 | [146871-chair-simulator.json](./146871-chair-simulator.json) |
+| Chair Spinning Simulator | 192629 | [192629-chair-spinning-simulator.json](./192629-chair-spinning-simulator.json) |
 | Chairades | 179995 | [179995-chairades.json](./179995-chairades.json) |
 | Chairs | 281987 | [281987-chairs.json](./281987-chairs.json) |
 | Chakan | 282492 | [282492-chakan.json](./282492-chakan.json) |
@@ -13065,6 +13067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberThreat | 253326 | [253326-cyberthreat.json](./253326-cyberthreat.json) |
 | CyberThreat | 31603 | [31603-cyberthreat.json](./31603-cyberthreat.json) |
 | Cybertrash Statyx | 258390 | [258390-cybertrash-statyx.json](./258390-cybertrash-statyx.json) |
+| Cybertruck Sim | 192631 | [192631-cybertruck-sim.json](./192631-cybertruck-sim.json) |
 | Cyberush | 154352 | [154352-cyberush.json](./154352-cyberush.json) |
 | CyberVerse | 280898 | [280898-cyberverse.json](./280898-cyberverse.json) |
 | CyberVerse | 345103 | [345103-cyberverse.json](./345103-cyberverse.json) |
