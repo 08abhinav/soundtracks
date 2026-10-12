@@ -3057,6 +3057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Bowling 3D | 66120 | [66120-beach-bowling-3d.json](./66120-beach-bowling-3d.json) |
 | Beach Boys 2: Zodiac Date | 283726 | [283726-beach-boys-2-zodiac-date.json](./283726-beach-boys-2-zodiac-date.json) |
 | Beach Boys 3: Zodiac Signs, Love & Horoscope Dating | 334091 | [334091-beach-boys-3-zodiac-signs-love-and-horoscope-dating.json](./334091-beach-boys-3-zodiac-signs-love-and-horoscope-dating.json) |
+| Beach Boys: You and Me | 214669 | [214669-beach-boys-you-and-me.json](./214669-beach-boys-you-and-me.json) |
 | Beach Buddies Brawl | 333674 | [333674-beach-buddies-brawl.json](./333674-beach-buddies-brawl.json) |
 | Beach Buggy Racing | 11287 | [11287-beach-buggy-racing.json](./11287-beach-buggy-racing.json) |
 | Beach Buggy Racing 2 | 110044 | [110044-beach-buggy-racing-2.json](./110044-beach-buggy-racing-2.json) |
