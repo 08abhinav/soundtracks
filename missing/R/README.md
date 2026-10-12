@@ -6135,6 +6135,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocksmith 2014 Edition: Remastered – blink-182: Song Pack II | 225026 | [225026-rocksmith-2014-edition-remastered-blink-182-song-pack-ii.json](./225026-rocksmith-2014-edition-remastered-blink-182-song-pack-ii.json) |
 | Rocksmith 2014 Edition: Remastered – Johnny Cash: Song Pack I-II | 225025 | [225025-rocksmith-2014-edition-remastered-johnny-cash-song-pack-i-ii.json](./225025-rocksmith-2014-edition-remastered-johnny-cash-song-pack-i-ii.json) |
 | Rocksmith 2014 Edition: Remastered – Trans-Siberian Orchestra: Song Pack | 225024 | [225024-rocksmith-2014-edition-remastered-trans-siberian-orchestra-song-pack.json](./225024-rocksmith-2014-edition-remastered-trans-siberian-orchestra-song-pack.json) |
+| Rocksmith 2014: A Day to Remember Song Pack | 226645 | [226645-rocksmith-2014-a-day-to-remember-song-pack.json](./226645-rocksmith-2014-a-day-to-remember-song-pack.json) |
+| Rocksmith 2014: Aerosmith Song Pack | 226646 | [226646-rocksmith-2014-aerosmith-song-pack.json](./226646-rocksmith-2014-aerosmith-song-pack.json) |
+| Rocksmith 2014: Alice in Chains Song Pack | 226647 | [226647-rocksmith-2014-alice-in-chains-song-pack.json](./226647-rocksmith-2014-alice-in-chains-song-pack.json) |
+| Rocksmith 2014: Alt-Rock Song Pack | 226648 | [226648-rocksmith-2014-alt-rock-song-pack.json](./226648-rocksmith-2014-alt-rock-song-pack.json) |
+| Rocksmith 2014: Anniversary Song Pack | 226649 | [226649-rocksmith-2014-anniversary-song-pack.json](./226649-rocksmith-2014-anniversary-song-pack.json) |
+| Rocksmith 2014: Audioslave Song Pack | 226650 | [226650-rocksmith-2014-audioslave-song-pack.json](./226650-rocksmith-2014-audioslave-song-pack.json) |
+| Rocksmith 2014: Biffy Clyro Song Pack | 226651 | [226651-rocksmith-2014-biffy-clyro-song-pack.json](./226651-rocksmith-2014-biffy-clyro-song-pack.json) |
 | Rocksmith 2014: Billy Talent Song Pack | 226652 | [226652-rocksmith-2014-billy-talent-song-pack.json](./226652-rocksmith-2014-billy-talent-song-pack.json) |
 | Rocksmith 2014: Blues Song Pack | 226653 | [226653-rocksmith-2014-blues-song-pack.json](./226653-rocksmith-2014-blues-song-pack.json) |
 | Rocksmith 2014: Bon Jovi Song Pack | 226654 | [226654-rocksmith-2014-bon-jovi-song-pack.json](./226654-rocksmith-2014-bon-jovi-song-pack.json) |
@@ -6157,6 +6164,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocksmith 2014: Sum 41 Song Pack | 226670 | [226670-rocksmith-2014-sum-41-song-pack.json](./226670-rocksmith-2014-sum-41-song-pack.json) |
 | Rocksmith 2014: The Black Keys Song Pack II | 226659 | [226659-rocksmith-2014-the-black-keys-song-pack-ii.json](./226659-rocksmith-2014-the-black-keys-song-pack-ii.json) |
 | Rocksmith 2014: The Cars Song Pack | 226660 | [226660-rocksmith-2014-the-cars-song-pack.json](./226660-rocksmith-2014-the-cars-song-pack.json) |
+| Rocksmith 2014: The Killers Song Pack | 226637 | [226637-rocksmith-2014-the-killers-song-pack.json](./226637-rocksmith-2014-the-killers-song-pack.json) |
+| Rocksmith 2014: The Offspring Song Pack II | 226638 | [226638-rocksmith-2014-the-offspring-song-pack-ii.json](./226638-rocksmith-2014-the-offspring-song-pack-ii.json) |
+| Rocksmith 2014: The Smashing Pumpkins Song Pack | 226639 | [226639-rocksmith-2014-the-smashing-pumpkins-song-pack.json](./226639-rocksmith-2014-the-smashing-pumpkins-song-pack.json) |
+| Rocksmith 2014: The White Stripes Song Pack | 226640 | [226640-rocksmith-2014-the-white-stripes-song-pack.json](./226640-rocksmith-2014-the-white-stripes-song-pack.json) |
+| Rocksmith 2014: The Who Song Pack | 226641 | [226641-rocksmith-2014-the-who-song-pack.json](./226641-rocksmith-2014-the-who-song-pack.json) |
+| Rocksmith 2014: Thirty Seconds to Mars Song Pack | 226642 | [226642-rocksmith-2014-thirty-seconds-to-mars-song-pack.json](./226642-rocksmith-2014-thirty-seconds-to-mars-song-pack.json) |
+| Rocksmith 2014: Three Days Grace Song Pack | 226643 | [226643-rocksmith-2014-three-days-grace-song-pack.json](./226643-rocksmith-2014-three-days-grace-song-pack.json) |
+| Rocksmith 2014: Tom Petty Song Pack | 226644 | [226644-rocksmith-2014-tom-petty-song-pack.json](./226644-rocksmith-2014-tom-petty-song-pack.json) |
+| Rocksmith 2014: Weezer Song Pack | 226635 | [226635-rocksmith-2014-weezer-song-pack.json](./226635-rocksmith-2014-weezer-song-pack.json) |
+| Rocksmith 2014: Women Who Rock Song Pack | 226636 | [226636-rocksmith-2014-women-who-rock-song-pack.json](./226636-rocksmith-2014-women-who-rock-song-pack.json) |
 | Rocksmith: Fall Out Boy Song-Pack | 226711 | [226711-rocksmith-fall-out-boy-song-pack.json](./226711-rocksmith-fall-out-boy-song-pack.json) |
 | Rocksmith: Foo Fighters - Song Pack | 226934 | [226934-rocksmith-foo-fighters-song-pack.json](./226934-rocksmith-foo-fighters-song-pack.json) |
 | Rocksmith: Queen 5-Song Pack | 226933 | [226933-rocksmith-queen-5-song-pack.json](./226933-rocksmith-queen-5-song-pack.json) |
