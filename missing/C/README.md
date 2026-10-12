@@ -9539,6 +9539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Zephyr DX | 159845 | [159845-cosmic-zephyr-dx.json](./159845-cosmic-zephyr-dx.json) |
 | Cosmic: A Journey Among Shadows | 190470 | [190470-cosmic-a-journey-among-shadows.json](./190470-cosmic-a-journey-among-shadows.json) |
 | Cosmica | 149948 | [149948-cosmica.json](./149948-cosmica.json) |
+| CosmicBreak Gun & Slash | 189988 | [189988-cosmicbreak-gun-and-slash.json](./189988-cosmicbreak-gun-and-slash.json) |
 | CosmicBreak Universal: Sylvia | 196090 | [196090-cosmicbreak-universal-sylvia.json](./196090-cosmicbreak-universal-sylvia.json) |
 | Cosmik Battle | 260883 | [260883-cosmik-battle.json](./260883-cosmik-battle.json) |
 | Cosmik Block | 109529 | [109529-cosmik-block.json](./109529-cosmik-block.json) |
