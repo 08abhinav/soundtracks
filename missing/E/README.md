@@ -1029,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggys Games Flash Collection | 114299 | [114299-eggys-games-flash-collection.json](./114299-eggys-games-flash-collection.json) |
 | Eggz: Collectible Eggs Clicker | 314253 | [314253-eggz-collectible-eggs-clicker.json](./314253-eggz-collectible-eggs-clicker.json) |
 | Eggсellence: Eggs Bounce | 233223 | [233223-egg-ellence-eggs-bounce.json](./233223-egg-ellence-eggs-bounce.json) |
+| Egnaro | 209769 | [209769-egnaro.json](./209769-egnaro.json) |
 | Egnima | 349320 | [349320-egnima.json](./349320-egnima.json) |
 | Ego :: Exit Protocol | 368285 | [368285-ego-exit-protocol.json](./368285-ego-exit-protocol.json) |
 | Ego Effect | 174842 | [174842-ego-effect.json](./174842-ego-effect.json) |
@@ -1319,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electra | 229640 | [229640-electra.json](./229640-electra.json) |
 | Electra | 78377 | [78377-electra.json](./78377-electra.json) |
 | Electranoid | 94324 | [94324-electranoid.json](./94324-electranoid.json) |
+| ElectriarCode | 210220 | [210220-electriarcode.json](./210220-electriarcode.json) |
 | Electric Crayon 3.1: At the Zoo | 68970 | [68970-electric-crayon-3-1-at-the-zoo.json](./68970-electric-crayon-3-1-at-the-zoo.json) |
 | Electric Crayon Deluxe: Dinosaurs Are Forever | 71765 | [71765-electric-crayon-deluxe-dinosaurs-are-forever.json](./71765-electric-crayon-deluxe-dinosaurs-are-forever.json) |
 | Electric Crayon Deluxe: Teenage Mutant Hero Turtles - World Tour | 78007 | [78007-electric-crayon-deluxe-teenage-mutant-hero-turtles-world-tour.json](./78007-electric-crayon-deluxe-teenage-mutant-hero-turtles-world-tour.json) |
@@ -1365,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electronic Hand-Held Monopoly | 233988 | [233988-electronic-hand-held-monopoly.json](./233988-electronic-hand-held-monopoly.json) |
 | Electronic Shop Simulator | 344354 | [344354-electronic-shop-simulator.json](./344354-electronic-shop-simulator.json) |
 | Electronic Stock Trading System | 107736 | [107736-electronic-stock-trading-system.json](./107736-electronic-stock-trading-system.json) |
+| Electronic Super Joy | 210289 | [210289-electronic-super-joy.json](./210289-electronic-super-joy.json) |
 | Electronic Super Joy 2 | 120745 | [120745-electronic-super-joy-2.json](./120745-electronic-super-joy-2.json) |
 | Electronic Super Joy 2: Groove Wizard's Tower | 171488 | [171488-electronic-super-joy-2-groove-wizards-tower.json](./171488-electronic-super-joy-2-groove-wizards-tower.json) |
 | Electronic Super Joy: Bonus Content Pack! | 156066 | [156066-electronic-super-joy-bonus-content-pack.json](./156066-electronic-super-joy-bonus-content-pack.json) |
@@ -1477,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elements Cubed | 231411 | [231411-elements-cubed.json](./231411-elements-cubed.json) |
 | Elements For Money | 287243 | [287243-elements-for-money.json](./287243-elements-for-money.json) |
 | Elements II: Hearts of Light | 33352 | [33352-elements-ii-hearts-of-light.json](./33352-elements-ii-hearts-of-light.json) |
+| Elements of Destruction | 210292 | [210292-elements-of-destruction.json](./210292-elements-of-destruction.json) |
 | Elements of Destruction | 21517 | [21517-elements-of-destruction.json](./21517-elements-of-destruction.json) |
 | Elements of Dreams | 189002 | [189002-elements-of-dreams.json](./189002-elements-of-dreams.json) |
 | Elements Voice Series vol.1 Mika Kanai - Wind&Breeze | 63953 | [63953-elements-voice-series-vol-1-mika-kanai-wind-and-breeze.json](./63953-elements-voice-series-vol-1-mika-kanai-wind-and-breeze.json) |
