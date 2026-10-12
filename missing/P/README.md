@@ -8244,6 +8244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Por um Punhado de Trólares | 298405 | [298405-por-um-punhado-de-trolares.json](./298405-por-um-punhado-de-trolares.json) |
 | Poradora vs. Monsters of the World | 324015 | [324015-poradora-vs-monsters-of-the-world.json](./324015-poradora-vs-monsters-of-the-world.json) |
 | Poramid | 185438 | [185438-poramid.json](./185438-poramid.json) |
+| Porcelain Eyes | 186011 | [186011-porcelain-eyes.json](./186011-porcelain-eyes.json) |
 | Porcelain Tales | 186031 | [186031-porcelain-tales.json](./186031-porcelain-tales.json) |
 | Porcini | 148999 | [148999-porcini.json](./148999-porcini.json) |
 | Porcuball | 96122 | [96122-porcuball.json](./96122-porcuball.json) |
