@@ -7870,6 +7870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combolite | 338675 | [338675-combolite.json](./338675-combolite.json) |
 | Combos | 37290 | [37290-combos.json](./37290-combos.json) |
 | Combotronica | 373093 | [373093-combotronica.json](./373093-combotronica.json) |
+| Combustion | 218099 | [218099-combustion.json](./218099-combustion.json) |
 | Come Again, Chachii? | 396005 | [396005-come-again-chachii.json](./396005-come-again-chachii.json) |
 | Come Alive! | 192176 | [192176-come-alive.json](./192176-come-alive.json) |
 | Come Back: Chapter 1 | 120426 | [120426-come-back-chapter-1.json](./120426-come-back-chapter-1.json) |
@@ -11304,6 +11305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crow Country | 273522 | [273522-crow-country.json](./273522-crow-country.json) |
 | Crow Crime: A Murder Mystery | 129534 | [129534-crow-crime-a-murder-mystery.json](./129534-crow-crime-a-murder-mystery.json) |
 | Crow Heist | 401039 | [401039-crow-heist.json](./401039-crow-heist.json) |
+| Crow Quest | 218063 | [218063-crow-quest.json](./218063-crow-quest.json) |
 | Crow Story | 189147 | [189147-crow-story.json](./189147-crow-story.json) |
 | Crow Style | 353797 | [353797-crow-style.json](./353797-crow-style.json) |
 | Crow-Sourcing | 312854 | [312854-crow-sourcing.json](./312854-crow-sourcing.json) |
