@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Not Crazy | 307183 | [307183-i-am-not-crazy.json](./307183-i-am-not-crazy.json) |
 | I am not legend | 192790 | [192790-i-am-not-legend.json](./192790-i-am-not-legend.json) |
 | I Am Not What Remains | 176498 | [176498-i-am-not-what-remains.json](./176498-i-am-not-what-remains.json) |
+| I Am on Fire | 188421 | [188421-i-am-on-fire.json](./188421-i-am-on-fire.json) |
 | I Am Overburdened | 74212 | [74212-i-am-overburdened.json](./74212-i-am-overburdened.json) |
 | I Am Part-time Worker!! | 303549 | [303549-i-am-part-time-worker.json](./303549-i-am-part-time-worker.json) |
 | I am Rabbit | 256727 | [256727-i-am-rabbit.json](./256727-i-am-rabbit.json) |
@@ -587,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IAssociate 2 | 254457 | [254457-iassociate-2.json](./254457-iassociate-2.json) |
 | Ibara | 44623 | [44623-ibara.json](./44623-ibara.json) |
 | Ibasket Manager 3: Online Basketball Manager | 340500 | [340500-ibasket-manager-3-online-basketball-manager.json](./340500-ibasket-manager-3-online-basketball-manager.json) |
+| Ibatic | 187188 | [187188-ibatic.json](./187188-ibatic.json) |
 | Ibb & Obb | 9139 | [9139-ibb-and-obb.json](./9139-ibb-and-obb.json) |
 | Iberia | 298787 | [298787-iberia.json](./298787-iberia.json) |
 | Ibix the Viking | 13250 | [13250-ibix-the-viking.json](./13250-ibix-the-viking.json) |
@@ -670,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Cold Beer | 77592 | [77592-ice-cold-beer.json](./77592-ice-cold-beer.json) |
 | Ice craft : Winter crafting and building | 100788 | [100788-ice-craft-winter-crafting-and-building.json](./100788-ice-craft-winter-crafting-and-building.json) |
 | Ice Cream | 344005 | [344005-ice-cream.json](./344005-ice-cream.json) |
+| Ice Cream Break | 187769 | [187769-ice-cream-break.json](./187769-ice-cream-break.json) |
 | Ice Cream Break: Head to Head | 194397 | [194397-ice-cream-break-head-to-head.json](./194397-ice-cream-break-head-to-head.json) |
 | Ice Cream Disaster | 208007 | [208007-ice-cream-disaster.json](./208007-ice-cream-disaster.json) |
 | Ice Cream Drop | 274423 | [274423-ice-cream-drop.json](./274423-ice-cream-drop.json) |
@@ -2429,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinita Strada | 61682 | [61682-infinita-strada.json](./61682-infinita-strada.json) |
 | InfinitasDM | 30546 | [30546-infinitasdm.json](./30546-infinitasdm.json) |
 | Infinite Ancient: Room Escape | 256739 | [256739-infinite-ancient-room-escape.json](./256739-infinite-ancient-room-escape.json) |
+| Infinite Arrow | 187766 | [187766-infinite-arrow.json](./187766-infinite-arrow.json) |
 | Infinite Backrooms | 405531 | [405531-infinite-backrooms.json](./405531-infinite-backrooms.json) |
 | Infinite Ball Well | 384513 | [384513-infinite-ball-well.json](./384513-infinite-ball-well.json) |
 | Infinite Block Puzzle | 98792 | [98792-infinite-block-puzzle.json](./98792-infinite-block-puzzle.json) |
@@ -3537,6 +3541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion Waves | 200578 | [200578-invasion-waves.json](./200578-invasion-waves.json) |
 | Invasion: Battlefield | 88600 | [88600-invasion-battlefield.json](./88600-invasion-battlefield.json) |
 | Invasion: Brain Craving | 33942 | [33942-invasion-brain-craving.json](./33942-invasion-brain-craving.json) |
+| Invasion: Neo Earth | 188423 | [188423-invasion-neo-earth.json](./188423-invasion-neo-earth.json) |
 | Invasion!! | 202037 | [202037-invasion.json](./202037-invasion.json) |
 | Invasion. Lost in Time | 89684 | [89684-invasion-lost-in-time.json](./89684-invasion-lost-in-time.json) |
 | Invasive | 204952 | [204952-invasive.json](./204952-invasive.json) |
@@ -3947,6 +3952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Rondo | 237603 | [237603-isekai-rondo.json](./237603-isekai-rondo.json) |
 | Isekai Saga: Awaken | 321633 | [321633-isekai-saga-awaken.json](./321633-isekai-saga-awaken.json) |
 | Isekai Slowlife | 402894 | [402894-isekai-slowlife.json](./402894-isekai-slowlife.json) |
+| Isekai Succubus: My Genderbent Saga in Another World | 187185 | [187185-isekai-succubus-my-genderbent-saga-in-another-world.json](./187185-isekai-succubus-my-genderbent-saga-in-another-world.json) |
 | Isekai Survivors | 317972 | [317972-isekai-survivors.json](./317972-isekai-survivors.json) |
 | Isekai Truck Driver | 296941 | [296941-isekai-truck-driver.json](./296941-isekai-truck-driver.json) |
 | Isekai Valley | 296944 | [296944-isekai-valley.json](./296944-isekai-valley.json) |
@@ -4207,6 +4213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Doesn't Have to Be Like This | 299125 | [299125-it-doesnt-have-to-be-like-this.json](./299125-it-doesnt-have-to-be-like-this.json) |
 | It Feeds | 207220 | [207220-it-feeds.json](./207220-it-feeds.json) |
 | It Fishes At Night | 316945 | [316945-it-fishes-at-night.json](./316945-it-fishes-at-night.json) |
+| It follows you | 187168 | [187168-it-follows-you.json](./187168-it-follows-you.json) |
 | It Girl | 338731 | [338731-it-girl.json](./338731-it-girl.json) |
 | It Goes Away in the End | 312920 | [312920-it-goes-away-in-the-end.json](./312920-it-goes-away-in-the-end.json) |
 | It Goes On | 360495 | [360495-it-goes-on.json](./360495-it-goes-on.json) |
