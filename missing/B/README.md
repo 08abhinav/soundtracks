@@ -1426,6 +1426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bantumi | 233557 | [233557-bantumi.json](./233557-bantumi.json) |
 | Banui Moheom: Idle RPG | 219781 | [219781-banui-moheom-idle-rpg.json](./219781-banui-moheom-idle-rpg.json) |
 | Banyu: Reclaiming Hope | 347888 | [347888-banyu-reclaiming-hope.json](./347888-banyu-reclaiming-hope.json) |
+| Banzai Bat | 188966 | [188966-banzai-bat.json](./188966-banzai-bat.json) |
 | Banzai Dice | 232367 | [232367-banzai-dice.json](./232367-banzai-dice.json) |
 | Banzai Escape 2 | 129645 | [129645-banzai-escape-2.json](./129645-banzai-escape-2.json) |
 | Banzai Escape 2: Subterranean | 195958 | [195958-banzai-escape-2-subterranean.json](./195958-banzai-escape-2-subterranean.json) |
@@ -9820,6 +9821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brian's Redemption | 350450 | [350450-brians-redemption.json](./350450-brians-redemption.json) |
 | Briar Flame | 379707 | [379707-briar-flame.json](./379707-briar-flame.json) |
 | Bric | 31124 | [31124-bric.json](./31124-bric.json) |
+| Bric à Brac | 188971 | [188971-bric-a-brac.json](./188971-bric-a-brac.json) |
 | Bric-a-Brac Shop | 178513 | [178513-bric-a-brac-shop.json](./178513-bric-a-brac-shop.json) |
 | Brichi Quest | 217258 | [217258-brichi-quest.json](./217258-brichi-quest.json) |
 | Brick | 356655 | [356655-brick.json](./356655-brick.json) |
