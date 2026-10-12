@@ -2925,6 +2925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of the Royal Throne | 32913 | [32913-secret-of-the-royal-throne.json](./32913-secret-of-the-royal-throne.json) |
 | Secret of the Solstice | 307331 | [307331-secret-of-the-solstice.json](./307331-secret-of-the-solstice.json) |
 | Secret of the Vikings 2: The World Tree | 265113 | [265113-secret-of-the-vikings-2-the-world-tree.json](./265113-secret-of-the-vikings-2-the-world-tree.json) |
+| Secret of the Vikings: Mystery island | 199300 | [199300-secret-of-the-vikings-mystery-island.json](./199300-secret-of-the-vikings-mystery-island.json) |
 | Secret Of World | 315032 | [315032-secret-of-world.json](./315032-secret-of-world.json) |
 | Secret Paths to the Sea | 70382 | [70382-secret-paths-to-the-sea.json](./70382-secret-paths-to-the-sea.json) |
 | Secret Paws: Cozy Apartments | 363887 | [363887-secret-paws-cozy-apartments.json](./363887-secret-paws-cozy-apartments.json) |
@@ -14761,6 +14762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Muppets: License to Croak | 3261 | [3261-spy-muppets-license-to-croak.json](./3261-spy-muppets-license-to-croak.json) |
 | Spy Network | 188111 | [188111-spy-network.json](./188111-spy-network.json) |
 | Spy of Deimos | 61880 | [61880-spy-of-deimos.json](./61880-spy-of-deimos.json) |
+| Spy Robot: Gateways to Humanity | 199335 | [199335-spy-robot-gateways-to-humanity.json](./199335-spy-robot-gateways-to-humanity.json) |
 | Spy Rumble | 204407 | [204407-spy-rumble.json](./204407-spy-rumble.json) |
 | Spy Snatcher | 73817 | [73817-spy-snatcher.json](./73817-spy-snatcher.json) |
 | Spy Story | 142350 | [142350-spy-story.json](./142350-spy-story.json) |
@@ -14959,6 +14961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squid Gurl and the Salty Sea Man | 97345 | [97345-squid-gurl-and-the-salty-sea-man.json](./97345-squid-gurl-and-the-salty-sea-man.json) |
 | Squid Guys | 286503 | [286503-squid-guys.json](./286503-squid-guys.json) |
 | Squid on Road | 236944 | [236944-squid-on-road.json](./236944-squid-on-road.json) |
+| Squid Prison | 199314 | [199314-squid-prison.json](./199314-squid-prison.json) |
 | Squid Squabble | 264602 | [264602-squid-squabble.json](./264602-squid-squabble.json) |
 | Squid Survival Simulator: Sea Animal Life 3D | 104594 | [104594-squid-survival-simulator-sea-animal-life-3d.json](./104594-squid-survival-simulator-sea-animal-life-3d.json) |
 | Squid Town | 112511 | [112511-squid-town.json](./112511-squid-town.json) |
@@ -21826,6 +21829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surface | 395545 | [395545-surface.json](./395545-surface.json) |
 | Surface Breaker | 383954 | [383954-surface-breaker.json](./383954-surface-breaker.json) |
 | Surface Labyrinth Kurumabu | 369091 | [369091-surface-labyrinth-kurumabu.json](./369091-surface-labyrinth-kurumabu.json) |
+| Surface Rush | 199311 | [199311-surface-rush.json](./199311-surface-rush.json) |
 | Surface Tension | 347360 | [347360-surface-tension.json](./347360-surface-tension.json) |
 | Surface Tension | 92822 | [92822-surface-tension.json](./92822-surface-tension.json) |
 | Surface: Alone in the Mist | 26712 | [26712-surface-alone-in-the-mist.json](./26712-surface-alone-in-the-mist.json) |
@@ -22545,6 +22549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Slave | 339442 | [339442-sweet-slave.json](./339442-sweet-slave.json) |
 | Sweet Sleep | 229729 | [229729-sweet-sleep.json](./229729-sweet-sleep.json) |
 | Sweet Solitaire: School Witch | 133232 | [133232-sweet-solitaire-school-witch.json](./133232-sweet-solitaire-school-witch.json) |
+| Sweet Solitaire: School Witch 2 | 199334 | [199334-sweet-solitaire-school-witch-2.json](./199334-sweet-solitaire-school-witch-2.json) |
 | Sweet Solitaire: School Witch 3 | 235273 | [235273-sweet-solitaire-school-witch-3.json](./235273-sweet-solitaire-school-witch-3.json) |
 | Sweet Sort | 255751 | [255751-sweet-sort.json](./255751-sweet-sort.json) |
 | Sweet Sport | 368572 | [368572-sweet-sport.json](./368572-sweet-sport.json) |
