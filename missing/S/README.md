@@ -14853,6 +14853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squidly's Revenge | 373906 | [373906-squidlys-revenge.json](./373906-squidlys-revenge.json) |
 | Squids in a Pickle | 340924 | [340924-squids-in-a-pickle.json](./340924-squids-in-a-pickle.json) |
 | Squids Odyssey | 19877 | [19877-squids-odyssey.json](./19877-squids-odyssey.json) |
+| Squids: Battle Arena | 217446 | [217446-squids-battle-arena.json](./217446-squids-battle-arena.json) |
 | Squidview | 381251 | [381251-squidview.json](./381251-squidview.json) |
 | Squidward Tentacles Jigsaw | 320895 | [320895-squidward-tentacles-jigsaw.json](./320895-squidward-tentacles-jigsaw.json) |
 | Squidward Tractor | 320896 | [320896-squidward-tractor.json](./320896-squidward-tractor.json) |
