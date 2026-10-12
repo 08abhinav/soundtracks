@@ -4706,6 +4706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medusa and Her Lover | 122930 | [122930-medusa-and-her-lover.json](./122930-medusa-and-her-lover.json) |
 | Medusa Frontier | 196889 | [196889-medusa-frontier.json](./196889-medusa-frontier.json) |
 | Medusa the Origin: Lost Dream of the Deep | 284324 | [284324-medusa-the-origin-lost-dream-of-the-deep.json](./284324-medusa-the-origin-lost-dream-of-the-deep.json) |
+| Medusa VN | 179943 | [179943-medusa-vn.json](./179943-medusa-vn.json) |
 | Medusa VR | 247181 | [247181-medusa-vr.json](./247181-medusa-vr.json) |
 | Medusa's Labyrinth VR | 28178 | [28178-medusas-labyrinth-vr.json](./28178-medusas-labyrinth-vr.json) |
 | Medusa's Mini Mystery | 177513 | [177513-medusas-mini-mystery.json](./177513-medusas-mini-mystery.json) |
