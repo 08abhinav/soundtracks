@@ -1327,6 +1327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RasterFire | 412570 | [412570-rasterfire.json](./412570-rasterfire.json) |
 | Rat Arena | 106585 | [106585-rat-arena.json](./106585-rat-arena.json) |
 | Rat Catcher | 257862 | [257862-rat-catcher.json](./257862-rat-catcher.json) |
+| Rat Chef | 207597 | [207597-rat-chef.json](./207597-rat-chef.json) |
 | Rat Climber | 330135 | [330135-rat-climber.json](./330135-rat-climber.json) |
 | Rat Farm | 414418 | [414418-rat-farm.json](./414418-rat-farm.json) |
 | Rat Hotel | 296230 | [296230-rat-hotel.json](./296230-rat-hotel.json) |
@@ -3930,6 +3931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrowave Drift | 148911 | [148911-retrowave-drift.json](./148911-retrowave-drift.json) |
 | Retrowave Hexon | 159857 | [159857-retrowave-hexon.json](./159857-retrowave-hexon.json) |
 | Retrowave Illusions: Aesthetics Edition | 250304 | [250304-retrowave-illusions-aesthetics-edition.json](./250304-retrowave-illusions-aesthetics-edition.json) |
+| Retrowave Rider | 207606 | [207606-retrowave-rider.json](./207606-retrowave-rider.json) |
 | Retrowave World | 258383 | [258383-retrowave-world.json](./258383-retrowave-world.json) |
 | Retrozen | 298417 | [298417-retrozen.json](./298417-retrozen.json) |
 | Retrys | 355576 | [355576-retrys.json](./355576-retrys.json) |
