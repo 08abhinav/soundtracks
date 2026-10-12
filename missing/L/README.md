@@ -3274,6 +3274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilly And The Murder In A Dream | 303631 | [303631-lilly-and-the-murder-in-a-dream.json](./303631-lilly-and-the-murder-in-a-dream.json) |
 | Lilly Knight and the Three Cities of Lust | 127999 | [127999-lilly-knight-and-the-three-cities-of-lust.json](./127999-lilly-knight-and-the-three-cities-of-lust.json) |
 | Lilly Monster | 195690 | [195690-lilly-monster.json](./195690-lilly-monster.json) |
+| Lilly's | 209184 | [209184-lillys.json](./209184-lillys.json) |
 | Lilly's Flower Shop | 238552 | [238552-lillys-flower-shop.json](./238552-lillys-flower-shop.json) |
 | Lilly's Rescue | 164908 | [164908-lillys-rescue.json](./164908-lillys-rescue.json) |
 | Lilly's Saga: The Stones of Evergreen | 360131 | [360131-lillys-saga-the-stones-of-evergreen.json](./360131-lillys-saga-the-stones-of-evergreen.json) |
