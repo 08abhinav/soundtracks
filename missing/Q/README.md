@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadradius | 29040 | [29040-quadradius.json](./29040-quadradius.json) |
 | Quadrant 7 | 322393 | [322393-quadrant-7.json](./322393-quadrant-7.json) |
 | QuadraPop | 225827 | [225827-quadrapop.json](./225827-quadrapop.json) |
+| Quadrata | 208109 | [208109-quadrata.json](./208109-quadrata.json) |
 | Quadratank | 225595 | [225595-quadratank.json](./225595-quadratank.json) |
 | Quadratic Puzzle 1 | 369202 | [369202-quadratic-puzzle-1.json](./369202-quadratic-puzzle-1.json) |
 | Quadratic Puzzle 2 | 374306 | [374306-quadratic-puzzle-2.json](./374306-quadratic-puzzle-2.json) |
