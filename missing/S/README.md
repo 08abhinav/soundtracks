@@ -1562,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save The Planets: Meteor Storm | 263565 | [263565-save-the-planets-meteor-storm.json](./263565-save-the-planets-meteor-storm.json) |
 | Save the Princess? Save a Fart! | 405464 | [405464-save-the-princess-save-a-fart.json](./405464-save-the-princess-save-a-fart.json) |
 | Save the Puppy: Pet Dog Rescue | 221384 | [221384-save-the-puppy-pet-dog-rescue.json](./221384-save-the-puppy-pet-dog-rescue.json) |
+| Save the Queen | 223358 | [223358-save-the-queen.json](./223358-save-the-queen.json) |
 | Save The Queen | 343783 | [343783-save-the-queen.json](./343783-save-the-queen.json) |
 | Save the Reactor | 190174 | [190174-save-the-reactor.json](./190174-save-the-reactor.json) |
 | Save The Sailboat Race | 334231 | [334231-save-the-sailboat-race.json](./334231-save-the-sailboat-race.json) |
@@ -4642,6 +4643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shank | 7518 | [7518-shank.json](./7518-shank.json) |
 | Shank the Cop | 155988 | [155988-shank-the-cop.json](./155988-shank-the-cop.json) |
 | Shankala | 377045 | [377045-shankala.json](./377045-shankala.json) |
+| Shankstars | 223605 | [223605-shankstars.json](./223605-shankstars.json) |
 | Shanky: The Vegan's Nightmare | 114906 | [114906-shanky-the-vegans-nightmare.json](./114906-shanky-the-vegans-nightmare.json) |
 | Shannara | 2233 | [2233-shannara.json](./2233-shannara.json) |
 | Shanshui | 178485 | [178485-shanshui.json](./178485-shanshui.json) |
@@ -8392,6 +8394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleigh Strikers | 279257 | [279257-sleigh-strikers.json](./279257-sleigh-strikers.json) |
 | Slemmings | 184383 | [184383-slemmings.json](./184383-slemmings.json) |
 | Slender Hentai Edition | 173814 | [173814-slender-hentai-edition.json](./173814-slender-hentai-edition.json) |
+| Slender Man Origins 2: House of Slender | 223626 | [223626-slender-man-origins-2-house-of-slender.json](./223626-slender-man-origins-2-house-of-slender.json) |
 | Slender Man Retro | 356683 | [356683-slender-man-retro.json](./356683-slender-man-retro.json) |
 | Slender Man: Chapter 1 - Alone | 63821 | [63821-slender-man-chapter-1-alone.json](./63821-slender-man-chapter-1-alone.json) |
 | Slender Man: Chapter 3 - Dreams | 59787 | [59787-slender-man-chapter-3-dreams.json](./59787-slender-man-chapter-3-dreams.json) |
@@ -12120,6 +12123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Adventure: Escape from Siphilus 1b | 219587 | [219587-space-adventure-escape-from-siphilus-1b.json](./219587-space-adventure-escape-from-siphilus-1b.json) |
 | Space Adventure: Mercury | 379151 | [379151-space-adventure-mercury.json](./379151-space-adventure-mercury.json) |
 | Space Age: Director's Cut | 293227 | [293227-space-age-directors-cut.json](./293227-space-age-directors-cut.json) |
+| Space Agency 2138 | 223622 | [223622-space-agency-2138.json](./223622-space-agency-2138.json) |
 | Space Agent Mission | 212486 | [212486-space-agent-mission.json](./212486-space-agent-mission.json) |
 | Space Agent: 8 Artifacts | 158521 | [158521-space-agent-8-artifacts.json](./158521-space-agent-8-artifacts.json) |
 | Space Alien Hangar | 360731 | [360731-space-alien-hangar.json](./360731-space-alien-hangar.json) |
@@ -22104,6 +22108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swamp Jump | 108035 | [108035-swamp-jump.json](./108035-swamp-jump.json) |
 | Swamp People | 62437 | [62437-swamp-people.json](./62437-swamp-people.json) |
 | Swamp Sim | 345586 | [345586-swamp-sim.json](./345586-swamp-sim.json) |
+| Swamp Stomp | 223634 | [223634-swamp-stomp.json](./223634-swamp-stomp.json) |
 | Swamp Thing | 198935 | [198935-swamp-thing.json](./198935-swamp-thing.json) |
 | Swamp Thing | 365685 | [365685-swamp-thing.json](./365685-swamp-thing.json) |
 | Swamp Up | 291193 | [291193-swamp-up.json](./291193-swamp-up.json) |
