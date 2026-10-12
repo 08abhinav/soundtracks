@@ -645,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraflow | 11130 | [11130-ultraflow.json](./11130-ultraflow.json) |
 | Ultraflow 2 | 129790 | [129790-ultraflow-2.json](./129790-ultraflow-2.json) |
 | Ultrafrog and the City of Destruction | 56426 | [56426-ultrafrog-and-the-city-of-destruction.json](./56426-ultrafrog-and-the-city-of-destruction.json) |
+| Ultrafun | 211908 | [211908-ultrafun.json](./211908-ultrafun.json) |
 | UltraGoodness 2 | 121539 | [121539-ultragoodness-2.json](./121539-ultragoodness-2.json) |
 | Ultragun Dreamland | 138728 | [138728-ultragun-dreamland.json](./138728-ultragun-dreamland.json) |
 | Ultrakanoid | 310179 | [310179-ultrakanoid.json](./310179-ultrakanoid.json) |
@@ -990,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncult | 264203 | [264203-uncult.json](./264203-uncult.json) |
 | Uncursed | 331985 | [331985-uncursed.json](./331985-uncursed.json) |
 | Undake 30 UraGame Daisakusen | 341155 | [341155-undake-30-uragame-daisakusen.json](./341155-undake-30-uragame-daisakusen.json) |
+| Undaunted Normandy | 211992 | [211992-undaunted-normandy.json](./211992-undaunted-normandy.json) |
 | Undawn: Desert Fury | 262700 | [262700-undawn-desert-fury.json](./262700-undawn-desert-fury.json) |
 | Undawning: The New Moon | 371047 | [371047-undawning-the-new-moon.json](./371047-undawning-the-new-moon.json) |
 | Undead & Beyond | 96889 | [96889-undead-and-beyond.json](./96889-undead-and-beyond.json) |
@@ -1044,6 +1046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under | 233136 | [233136-under.json](./233136-under.json) |
 | Under a Desert Sun: Seekers of the Cursed Vessel | 372637 | [372637-under-a-desert-sun-seekers-of-the-cursed-vessel.json](./372637-under-a-desert-sun-seekers-of-the-cursed-vessel.json) |
 | Under a Freezing Sea | 143362 | [143362-under-a-freezing-sea.json](./143362-under-a-freezing-sea.json) |
+| Under a Rock | 211912 | [211912-under-a-rock.json](./211912-under-a-rock.json) |
 | Under a Star Called Sun | 135632 | [135632-under-a-star-called-sun.json](./135632-under-a-star-called-sun.json) |
 | Under A Star Long Cold | 284847 | [284847-under-a-star-long-cold.json](./284847-under-a-star-long-cold.json) |
 | Under a Tree with Cherry Blossoms: Love with One's Back | 303300 | [303300-under-a-tree-with-cherry-blossoms-love-with-ones-back.json](./303300-under-a-tree-with-cherry-blossoms-love-with-ones-back.json) |
@@ -2054,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up the Light | 183397 | [183397-up-the-light.json](./183397-up-the-light.json) |
 | Up to Divine | 346697 | [346697-up-to-divine.json](./346697-up-to-divine.json) |
 | Up to Gods | 275351 | [275351-up-to-gods.json](./275351-up-to-gods.json) |
+| Up to Par | 211981 | [211981-up-to-par.json](./211981-up-to-par.json) |
 | Up Until the End | 133472 | [133472-up-until-the-end.json](./133472-up-until-the-end.json) |
 | Up Up & Down! | 312324 | [312324-up-up-and-down.json](./312324-up-up-and-down.json) |
 | Up Up Up | 393836 | [393836-up-up-up.json](./393836-up-up-up.json) |
