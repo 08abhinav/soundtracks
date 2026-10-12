@@ -2764,7 +2764,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Deal Casino: Championship Edition | 77391 | [77391-reel-deal-casino-championship-edition.json](./77391-reel-deal-casino-championship-edition.json) |
 | Reel Deal Casino: Gold Rush | 77581 | [77581-reel-deal-casino-gold-rush.json](./77581-reel-deal-casino-gold-rush.json) |
 | Reel Deal Casino: High Roller | 77593 | [77593-reel-deal-casino-high-roller.json](./77593-reel-deal-casino-high-roller.json) |
+| Reel Deal Casino: Imperial Fortune | 209213 | [209213-reel-deal-casino-imperial-fortune.json](./209213-reel-deal-casino-imperial-fortune.json) |
+| Reel Deal Casino: Millionaire's Club | 209212 | [209212-reel-deal-casino-millionaires-club.json](./209212-reel-deal-casino-millionaires-club.json) |
 | Reel Deal Casino: Shuffle Master Edition | 77390 | [77390-reel-deal-casino-shuffle-master-edition.json](./77390-reel-deal-casino-shuffle-master-edition.json) |
+| Reel Deal Casino: Valley of the Kings | 209210 | [209210-reel-deal-casino-valley-of-the-kings.json](./209210-reel-deal-casino-valley-of-the-kings.json) |
 | Reel Deal Poker Challenge | 66727 | [66727-reel-deal-poker-challenge.json](./66727-reel-deal-poker-challenge.json) |
 | Reel Deal Vegas Casino Experience | 77612 | [77612-reel-deal-vegas-casino-experience.json](./77612-reel-deal-vegas-casino-experience.json) |
 | Reel Fishing 3D Paradise | 84832 | [84832-reel-fishing-3d-paradise.json](./84832-reel-fishing-3d-paradise.json) |
@@ -2961,6 +2964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reincarnated As A Monster | 127158 | [127158-reincarnated-as-a-monster.json](./127158-reincarnated-as-a-monster.json) |
 | Reincarnation Tower | 289313 | [289313-reincarnation-tower.json](./289313-reincarnation-tower.json) |
 | Reincarnations: Awakening | 65846 | [65846-reincarnations-awakening.json](./65846-reincarnations-awakening.json) |
+| Reincarnations: Uncover the Past | 209209 | [209209-reincarnations-uncover-the-past.json](./209209-reincarnations-uncover-the-past.json) |
 | Reincarnator | 391887 | [391887-reincarnator.json](./391887-reincarnator.json) |
 | Reindeer Rescue | 68708 | [68708-reindeer-rescue.json](./68708-reindeer-rescue.json) |
 | Reindeer Story | 211798 | [211798-reindeer-story.json](./211798-reindeer-story.json) |
@@ -3419,6 +3423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Heroes: Fire Frenzy | 49948 | [49948-rescue-heroes-fire-frenzy.json](./49948-rescue-heroes-fire-frenzy.json) |
 | Rescue Heroes: Hurricane Havoc | 66337 | [66337-rescue-heroes-hurricane-havoc.json](./66337-rescue-heroes-hurricane-havoc.json) |
 | Rescue Heroes: Lava Landslide | 209433 | [209433-rescue-heroes-lava-landslide.json](./209433-rescue-heroes-lava-landslide.json) |
+| Rescue Heroes: Meteor Madness | 209201 | [209201-rescue-heroes-meteor-madness.json](./209201-rescue-heroes-meteor-madness.json) |
 | Rescue Heroes: Mission Select | 209434 | [209434-rescue-heroes-mission-select.json](./209434-rescue-heroes-mission-select.json) |
 | Rescue Heroes: Molten Menace | 209168 | [209168-rescue-heroes-molten-menace.json](./209168-rescue-heroes-molten-menace.json) |
 | Rescue Heroes: Tremor Trouble | 209432 | [209432-rescue-heroes-tremor-trouble.json](./209432-rescue-heroes-tremor-trouble.json) |
@@ -3776,6 +3781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro | 171479 | [171479-retro.json](./171479-retro.json) |
 | Retro Abyss | 221677 | [221677-retro-abyss.json](./221677-retro-abyss.json) |
 | Retro Adventure | 308399 | [308399-retro-adventure.json](./308399-retro-adventure.json) |
+| Retro Arcade Classics | 209194 | [209194-retro-arcade-classics.json](./209194-retro-arcade-classics.json) |
 | Retro Arcade Shooter - Attack from Pluto | 147863 | [147863-retro-arcade-shooter-attack-from-pluto.json](./147863-retro-arcade-shooter-attack-from-pluto.json) |
 | Retro Arcade Shop Simulator | 384086 | [384086-retro-arcade-shop-simulator.json](./384086-retro-arcade-shop-simulator.json) |
 | Retro Arcade: Space Invaders | 220106 | [220106-retro-arcade-space-invaders.json](./220106-retro-arcade-space-invaders.json) |
@@ -3957,6 +3963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Basic Killing | 274032 | [274032-return-to-basic-killing.json](./274032-return-to-basic-killing.json) |
 | Return To Booty Grotto | 363003 | [363003-return-to-booty-grotto.json](./363003-return-to-booty-grotto.json) |
 | Return To Castle Arbeitsamt | 402874 | [402874-return-to-castle-arbeitsamt.json](./402874-return-to-castle-arbeitsamt.json) |
+| Return to Castle Wolfenstein: Game of the Year Edition | 209195 | [209195-return-to-castle-wolfenstein-game-of-the-year-edition.json](./209195-return-to-castle-wolfenstein-game-of-the-year-edition.json) |
 | Return to Castle Wolfenstein: Operation Resurrection | 77219 | [77219-return-to-castle-wolfenstein-operation-resurrection.json](./77219-return-to-castle-wolfenstein-operation-resurrection.json) |
 | Return to Castle Wolfenstein: Tides of War | 77220 | [77220-return-to-castle-wolfenstein-tides-of-war.json](./77220-return-to-castle-wolfenstein-tides-of-war.json) |
 | Return to College Age | 355226 | [355226-return-to-college-age.json](./355226-return-to-college-age.json) |
@@ -4079,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of the Shadow Ninja | 244709 | [244709-revenge-of-the-shadow-ninja.json](./244709-revenge-of-the-shadow-ninja.json) |
 | Revenge of the Spirit: Rite of Resurrection | 32854 | [32854-revenge-of-the-spirit-rite-of-resurrection.json](./32854-revenge-of-the-spirit-rite-of-resurrection.json) |
 | Revenge of the Sunfish | 18084 | [18084-revenge-of-the-sunfish.json](./18084-revenge-of-the-sunfish.json) |
+| Revenge of the Toys | 209196 | [209196-revenge-of-the-toys.json](./209196-revenge-of-the-toys.json) |
 | Revenge of the Wounded Dragons | 21770 | [21770-revenge-of-the-wounded-dragons.json](./21770-revenge-of-the-wounded-dragons.json) |
 | Revenge on Bad Guy | 220316 | [220316-revenge-on-bad-guy.json](./220316-revenge-on-bad-guy.json) |
 | Revenge On Gold Diggers | 372482 | [372482-revenge-on-gold-diggers.json](./372482-revenge-on-gold-diggers.json) |
@@ -4109,6 +4117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverie: Sweet As Edition | 114418 | [114418-reverie-sweet-as-edition.json](./114418-reverie-sweet-as-edition.json) |
 | Reveries: Soul Collector HD | 93829 | [93829-reveries-soul-collector-hd.json](./93829-reveries-soul-collector-hd.json) |
 | Reversal | 78717 | [78717-reversal.json](./78717-reversal.json) |
+| Reversal Challenge | 209197 | [209197-reversal-challenge.json](./209197-reversal-challenge.json) |
 | Reversal of Deck | 283717 | [283717-reversal-of-deck.json](./283717-reversal-of-deck.json) |
 | Reverse 1999: A Long Long Way | 374300 | [374300-reverse-1999-a-long-long-way.json](./374300-reverse-1999-a-long-long-way.json) |
 | Reverse 1999: A Nightmare at Green Lake | 279786 | [279786-reverse-1999-a-nightmare-at-green-lake.json](./279786-reverse-1999-a-nightmare-at-green-lake.json) |
@@ -4888,6 +4897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rinse and Repeat | 286576 | [286576-rinse-and-repeat.json](./286576-rinse-and-repeat.json) |
 | Rinth Island | 22333 | [22333-rinth-island.json](./22333-rinth-island.json) |
 | Rinthylab Labyrinth | 306047 | [306047-rinthylab-labyrinth.json](./306047-rinthylab-labyrinth.json) |
+| Rio | 209217 | [209217-rio.json](./209217-rio.json) |
 | Rio Blackjack | 77271 | [77271-rio-blackjack.json](./77271-rio-blackjack.json) |
 | Rio Rex | 102223 | [102223-rio-rex.json](./102223-rio-rex.json) |
 | Rio Rise | 397904 | [397904-rio-rise.json](./397904-rio-rise.json) |
