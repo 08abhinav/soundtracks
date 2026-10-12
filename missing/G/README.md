@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachasute! Dino Device 2 - Dragon | 49498 | [49498-gachasute-dino-device-2-dragon.json](./49498-gachasute-dino-device-2-dragon.json) |
 | Gachasute! Dino Device 2 - Phoenix | 49497 | [49497-gachasute-dino-device-2-phoenix.json](./49497-gachasute-dino-device-2-phoenix.json) |
 | Gachaverse (RPG & Anime Dress Up) | 103668 | [103668-gachaverse-rpg-and-anime-dress-up.json](./103668-gachaverse-rpg-and-anime-dress-up.json) |
+| Gachi Adventure: Billy's Legacy | 217447 | [217447-gachi-adventure-billys-legacy.json](./217447-gachi-adventure-billys-legacy.json) |
 | Gachi Dash | 180005 | [180005-gachi-dash.json](./180005-gachi-dash.json) |
 | Gachi Defense | 285923 | [285923-gachi-defense.json](./285923-gachi-defense.json) |
 | Gachi Dungeon Master | 157470 | [157470-gachi-dungeon-master.json](./157470-gachi-dungeon-master.json) |
@@ -4488,6 +4489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goop God | 180036 | [180036-goop-god.json](./180036-goop-god.json) |
 | Goop Loop | 141073 | [141073-goop-loop.json](./141073-goop-loop.json) |
 | Goop Snake | 364564 | [364564-goop-snake.json](./364564-goop-snake.json) |
+| Gooper | 217459 | [217459-gooper.json](./217459-gooper.json) |
 | GoopW | 274019 | [274019-goopw.json](./274019-goopw.json) |
 | Goos Hunt | 337182 | [337182-goos-hunt.json](./337182-goos-hunt.json) |
 | Goose Goose Duck | 144442 | [144442-goose-goose-duck.json](./144442-goose-goose-duck.json) |
@@ -4723,6 +4725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grabbed by the Ghoulies | 5849 | [5849-grabbed-by-the-ghoulies.json](./5849-grabbed-by-the-ghoulies.json) |
 | Grabbers in the Woods | 294426 | [294426-grabbers-in-the-woods.json](./294426-grabbers-in-the-woods.json) |
 | Grabitoons | 231049 | [231049-grabitoons.json](./231049-grabitoons.json) |
+| Grace Hopper: Bug Rescue | 217451 | [217451-grace-hopper-bug-rescue.json](./217451-grace-hopper-bug-rescue.json) |
 | Grace Online | 248302 | [248302-grace-online.json](./248302-grace-online.json) |
 | Grace's Quest: To Catch an Art Thief | 54065 | [54065-graces-quest-to-catch-an-art-thief.json](./54065-graces-quest-to-catch-an-art-thief.json) |
 | Graceborne | 317524 | [317524-graceborne.json](./317524-graceborne.json) |
@@ -5679,6 +5682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey Bones | 164505 | [164505-grey-bones.json](./164505-grey-bones.json) |
 | Grey Cat | 401701 | [401701-grey-cat.json](./401701-grey-cat.json) |
 | Grey Cubes | 35226 | [35226-grey-cubes.json](./35226-grey-cubes.json) |
+| Grey Eminence | 217478 | [217478-grey-eminence.json](./217478-grey-eminence.json) |
 | Grey Galactic | 236950 | [236950-grey-galactic.json](./236950-grey-galactic.json) |
 | Grey Goo Definitive Edition | 54057 | [54057-grey-goo-definitive-edition.json](./54057-grey-goo-definitive-edition.json) |
 | Grey Haven | 239664 | [239664-grey-haven.json](./239664-grey-haven.json) |
@@ -6423,6 +6427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Master Manager | 207200 | [207200-guild-master-manager.json](./207200-guild-master-manager.json) |
 | Guild Masters | 110317 | [110317-guild-masters.json](./110317-guild-masters.json) |
 | Guild of Darksteel | 137461 | [137461-guild-of-darksteel.json](./137461-guild-of-darksteel.json) |
+| Guild of Dragons | 217450 | [217450-guild-of-dragons.json](./217450-guild-of-dragons.json) |
 | Guild of Dungeoneering | 11447 | [11447-guild-of-dungeoneering.json](./11447-guild-of-dungeoneering.json) |
 | Guild of Dungeoneering: Deluxe Edition | 54075 | [54075-guild-of-dungeoneering-deluxe-edition.json](./54075-guild-of-dungeoneering-deluxe-edition.json) |
 | Guild of Greats | 137024 | [137024-guild-of-greats.json](./137024-guild-of-greats.json) |
@@ -6922,6 +6927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns n Zombies | 16854 | [16854-guns-n-zombies.json](./16854-guns-n-zombies.json) |
 | Guns N' Boxes | 24064 | [24064-guns-n-boxes.json](./24064-guns-n-boxes.json) |
 | Guns N' Runs | 144927 | [144927-guns-n-runs.json](./144927-guns-n-runs.json) |
+| Guns N' Rushes | 217474 | [217474-guns-n-rushes.json](./217474-guns-n-rushes.json) |
 | Guns n' Souls feat. Song Summoner | 287009 | [287009-guns-n-souls-feat-song-summoner.json](./287009-guns-n-souls-feat-song-summoner.json) |
 | Guns of Bullshit | 129723 | [129723-guns-of-bullshit.json](./129723-guns-of-bullshit.json) |
 | Guns of Fort Defiance | 24797 | [24797-guns-of-fort-defiance.json](./24797-guns-of-fort-defiance.json) |
