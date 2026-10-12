@@ -13857,6 +13857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spike Dislike GB | 58636 | [58636-spike-dislike-gb.json](./58636-spike-dislike-gb.json) |
 | Spike Hoppin' | 41984 | [41984-spike-hoppin.json](./41984-spike-hoppin.json) |
 | Spike Match | 369748 | [369748-spike-match.json](./369748-spike-match.json) |
+| Spike Mtn | 213536 | [213536-spike-mtn.json](./213536-spike-mtn.json) |
 | Spike the Hedgehog | 91555 | [91555-spike-the-hedgehog.json](./91555-spike-the-hedgehog.json) |
 | Spike Volleyball | 112846 | [112846-spike-volleyball.json](./112846-spike-volleyball.json) |
 | Spike's Water Balloons | 46512 | [46512-spikes-water-balloons.json](./46512-spikes-water-balloons.json) |
@@ -14325,6 +14326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Mahjong | 336565 | [336565-spooky-mahjong.json](./336565-spooky-mahjong.json) |
 | Spooky Mall | 54393 | [54393-spooky-mall.json](./54393-spooky-mall.json) |
 | Spooky Manor | 62422 | [62422-spooky-manor.json](./62422-spooky-manor.json) |
+| Spooky Mansion Manager | 213546 | [213546-spooky-mansion-manager.json](./213546-spooky-mansion-manager.json) |
 | Spooky Milk Life | 208631 | [208631-spooky-milk-life.json](./208631-spooky-milk-life.json) |
 | Spooky Murder House | 369242 | [369242-spooky-murder-house.json](./369242-spooky-murder-house.json) |
 | Spooky Night: Remastered | 170369 | [170369-spooky-night-remastered.json](./170369-spooky-night-remastered.json) |
@@ -18313,6 +18315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Study Time Anomaly | 369597 | [369597-study-time-anomaly.json](./369597-study-time-anomaly.json) |
 | Stuff | 227755 | [227755-stuff.json](./227755-stuff.json) |
 | Stuff and Nonsense | 57488 | [57488-stuff-and-nonsense.json](./57488-stuff-and-nonsense.json) |
+| Stuff Enuff | 213525 | [213525-stuff-enuff.json](./213525-stuff-enuff.json) |
 | Stuff It! | 385385 | [385385-stuff-it.json](./385385-stuff-it.json) |
 | Stuff'd | 228472 | [228472-stuffd.json](./228472-stuffd.json) |
 | Stuffed | 140522 | [140522-stuffed.json](./140522-stuffed.json) |
@@ -19235,6 +19238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunday Funday: The Ride | 11166 | [11166-sunday-funday-the-ride.json](./11166-sunday-funday-the-ride.json) |
 | Sunday Gold | 204547 | [204547-sunday-gold.json](./204547-sunday-gold.json) |
 | Sunday Golf | 54691 | [54691-sunday-golf.json](./54691-sunday-golf.json) |
+| Sunday Lawd Reel 1 | 213580 | [213580-sunday-lawd-reel-1.json](./213580-sunday-lawd-reel-1.json) |
 | Sunday League Manager: Horse & Spoon | 361731 | [361731-sunday-league-manager-horse-and-spoon.json](./361731-sunday-league-manager-horse-and-spoon.json) |
 | Sunday Morning | 312146 | [312146-sunday-morning.json](./312146-sunday-morning.json) |
 | Sunday School | 376052 | [376052-sunday-school.json](./376052-sunday-school.json) |
@@ -23040,6 +23044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Swinger | 156051 | [156051-synth-swinger.json](./156051-synth-swinger.json) |
 | Synth War Tactics | 151188 | [151188-synth-war-tactics.json](./151188-synth-war-tactics.json) |
 | Synthaar | 304880 | [304880-synthaar.json](./304880-synthaar.json) |
+| Synthalaxy | 213531 | [213531-synthalaxy.json](./213531-synthalaxy.json) |
 | Synthalgia: Retro Arcade Racing | 155513 | [155513-synthalgia-retro-arcade-racing.json](./155513-synthalgia-retro-arcade-racing.json) |
 | Synthaly Universe | 402436 | [402436-synthaly-universe.json](./402436-synthaly-universe.json) |
 | Synthbiotic Dungeon | 147286 | [147286-synthbiotic-dungeon.json](./147286-synthbiotic-dungeon.json) |
