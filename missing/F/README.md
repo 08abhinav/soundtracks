@@ -6452,6 +6452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula One | 12082 | [12082-formula-one.json](./12082-formula-one.json) |
 | Formula One | 250341 | [250341-formula-one.json](./250341-formula-one.json) |
 | Formula One | 46551 | [46551-formula-one.json](./46551-formula-one.json) |
+| Formula One 2000 | 204232 | [204232-formula-one-2000.json](./204232-formula-one-2000.json) |
 | Formula One 2001 | 8299 | [8299-formula-one-2001.json](./8299-formula-one-2001.json) |
 | Formula One 2002 | 8300 | [8300-formula-one-2002.json](./8300-formula-one-2002.json) |
 | Formula One 2003 | 8301 | [8301-formula-one-2003.json](./8301-formula-one-2003.json) |
