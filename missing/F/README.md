@@ -2137,6 +2137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Father Figure | 376029 | [376029-father-figure.json](./376029-father-figure.json) |
 | Father World | 159187 | [159187-father-world.json](./159187-father-world.json) |
 | Father, Son & Holy Guns | 388891 | [388891-father-son-and-holy-guns.json](./388891-father-son-and-holy-guns.json) |
+| Father: The Truth | 202565 | [202565-father-the-truth.json](./202565-father-the-truth.json) |
 | Father.io | 58074 | [58074-father-io.json](./58074-father-io.json) |
 | Father's Day | 213858 | [213858-fathers-day.json](./213858-fathers-day.json) |
 | Father's Day Journey | 304270 | [304270-fathers-day-journey.json](./304270-fathers-day-journey.json) |
@@ -5177,6 +5178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flood Fighting Hero | 165019 | [165019-flood-fighting-hero.json](./165019-flood-fighting-hero.json) |
 | Flood of Tears | 299552 | [299552-flood-of-tears.json](./299552-flood-of-tears.json) |
 | Flood of Zombies | 333241 | [333241-flood-of-zombies.json](./333241-flood-of-zombies.json) |
+| Flood Runner 5 | 202561 | [202561-flood-runner-5.json](./202561-flood-runner-5.json) |
 | Flood the Chamber | 242813 | [242813-flood-the-chamber.json](./242813-flood-the-chamber.json) |
 | Flood-It! | 254605 | [254605-flood-it.json](./254605-flood-it.json) |
 | Flood-it! 2 | 254606 | [254606-flood-it-2.json](./254606-flood-it-2.json) |
@@ -7528,6 +7530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin: vs. Jeff | 242615 | [242615-friday-night-funkin-vs-jeff.json](./242615-friday-night-funkin-vs-jeff.json) |
 | Friday Night Funkin' 64 | 294774 | [294774-friday-night-funkin-64.json](./294774-friday-night-funkin-64.json) |
 | Friday Night Funkin' Battle Waifu | 205627 | [205627-friday-night-funkin-battle-waifu.json](./205627-friday-night-funkin-battle-waifu.json) |
+| Friday Night Funkin' Corruption: Reimagined! | 202580 | [202580-friday-night-funkin-corruption-reimagined.json](./202580-friday-night-funkin-corruption-reimagined.json) |
 | Friday Night Funkin' D-Sides | 198304 | [198304-friday-night-funkin-d-sides.json](./198304-friday-night-funkin-d-sides.json) |
 | Friday Night Funkin' D-Sides Redux | 392875 | [392875-friday-night-funkin-d-sides-redux.json](./392875-friday-night-funkin-d-sides-redux.json) |
 | Friday Night Funkin' Lullaby | 198347 | [198347-friday-night-funkin-lullaby.json](./198347-friday-night-funkin-lullaby.json) |
