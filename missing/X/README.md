@@ -67,8 +67,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men 2: Battle | 343821 | [343821-x-men-2-battle.json](./343821-x-men-2-battle.json) |
 | X-Men Cartoon Maker | 130739 | [130739-x-men-cartoon-maker.json](./130739-x-men-cartoon-maker.json) |
 | X-Men Legends | 242996 | [242996-x-men-legends.json](./242996-x-men-legends.json) |
+| X-Men Legends II: Rise of Apocalypse | 200901 | [200901-x-men-legends-ii-rise-of-apocalypse.json](./200901-x-men-legends-ii-rise-of-apocalypse.json) |
 | X-Men Legends II: Rise of Apocalypse | 245310 | [245310-x-men-legends-ii-rise-of-apocalypse.json](./245310-x-men-legends-ii-rise-of-apocalypse.json) |
 | X-Men Legends II: Rise of Apocalypse | 44495 | [44495-x-men-legends-ii-rise-of-apocalypse.json](./44495-x-men-legends-ii-rise-of-apocalypse.json) |
+| X-Men Origins: Wolverine | 200898 | [200898-x-men-origins-wolverine.json](./200898-x-men-origins-wolverine.json) |
 | X-Men Origins: Wolverine | 209931 | [209931-x-men-origins-wolverine.json](./209931-x-men-origins-wolverine.json) |
 | X-Men Origins: Wolverine | 573 | [573-x-men-origins-wolverine.json](./573-x-men-origins-wolverine.json) |
 | X-Men Origins: Wolverine - The Mobile Game | 209932 | [209932-x-men-origins-wolverine-the-mobile-game.json](./209932-x-men-origins-wolverine-the-mobile-game.json) |
