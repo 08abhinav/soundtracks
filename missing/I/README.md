@@ -3414,6 +3414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Stars | 21564 | [21564-into-the-stars.json](./21564-into-the-stars.json) |
 | Into the Stars - Deluxe | 53235 | [53235-into-the-stars-deluxe.json](./53235-into-the-stars-deluxe.json) |
 | Into the Timeverse | 172180 | [172180-into-the-timeverse.json](./172180-into-the-timeverse.json) |
+| Into the Underdusk | 194894 | [194894-into-the-underdusk.json](./194894-into-the-underdusk.json) |
 | Into The Unknown | 288814 | [288814-into-the-unknown.json](./288814-into-the-unknown.json) |
 | Into The Unknown | 358220 | [358220-into-the-unknown.json](./358220-into-the-unknown.json) |
 | Into The Unwell | 347663 | [347663-into-the-unwell.json](./347663-into-the-unwell.json) |
