@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T05:50:49.520Z",
-  "total_soundtracks": 1493,
+  "generated_at": "2026-10-12T05:51:01.702Z",
+  "total_soundtracks": 1494,
   "games": [
     {
       "igdb_id": 7522,
@@ -12583,6 +12583,20 @@
           "spotify_url": "https://open.spotify.com/album/3U6nN3EACeQ2Z6isbiZQjM",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 858,
+      "game_name": "Serious Sam: The Second Encounter",
+      "game_url": "https://ostdb.net/games/serious-sam-the-second-encounter",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/93/1b/01/931b01db-3caf-39d6-f280-6919cfa17588/artwork.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Serious Sam: The Second Encounter (Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2BZraD5EQ72YtyGGQJwVBY",
+          "apple_music_url": "https://music.apple.com/us/album/serious-sam-the-second-encounter-video-game-soundtrack/1496855093",
+          "album_link_url": "https://album.link/i/1496855093"
         }
       ]
     },
