@@ -3726,6 +3726,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Devourers | 169454 | [169454-little-devourers.json](./169454-little-devourers.json) |
 | Little Dew Drop | 265335 | [265335-little-dew-drop.json](./265335-little-dew-drop.json) |
 | Little Diggel | 29764 | [29764-little-diggel.json](./29764-little-diggel.json) |
+| Little Doll Princess Oyatsu-hen | 222488 | [222488-little-doll-princess-oyatsu-hen.json](./222488-little-doll-princess-oyatsu-hen.json) |
+| Little Doll Princess: Ryouri-Hen | 222451 | [222451-little-doll-princess-ryouri-hen.json](./222451-little-doll-princess-ryouri-hen.json) |
 | Little Doll Queen | 260377 | [260377-little-doll-queen.json](./260377-little-doll-queen.json) |
 | Little Doll Village | 414841 | [414841-little-doll-village.json](./414841-little-doll-village.json) |
 | Little Dragon Adventure | 287323 | [287323-little-dragon-adventure.json](./287323-little-dragon-adventure.json) |
