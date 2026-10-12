@@ -18497,7 +18497,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Styscraper | 334230 | [334230-styscraper.json](./334230-styscraper.json) |
 | Styx VR DrumSim | 130296 | [130296-styx-vr-drumsim.json](./130296-styx-vr-drumsim.json) |
 | Styx: Final Shores | 371136 | [371136-styx-final-shores.json](./371136-styx-final-shores.json) |
-| Styx: Master of Shadows | 6072 | [6072-styx-master-of-shadows.json](./6072-styx-master-of-shadows.json) |
 | Styx: Shards of Darkness | 13554 | [13554-styx-shards-of-darkness.json](./13554-styx-shards-of-darkness.json) |
 | Su Hack | 111002 | [111002-su-hack.json](./111002-su-hack.json) |
 | SU the Son of Gaia | 211795 | [211795-su-the-son-of-gaia.json](./211795-su-the-son-of-gaia.json) |
