@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Colony | 86946 | [86946-war-of-colony.json](./86946-war-of-colony.json) |
 | War of Criminals | 89969 | [89969-war-of-criminals.json](./89969-war-of-criminals.json) |
 | War of Crown | 76567 | [76567-war-of-crown.json](./76567-war-of-crown.json) |
+| War of Deities | 208103 | [208103-war-of-deities.json](./208103-war-of-deities.json) |
 | War of Dragons 2016 | 231891 | [231891-war-of-dragons-2016.json](./231891-war-of-dragons-2016.json) |
 | War of Eclipse | 64101 | [64101-war-of-eclipse.json](./64101-war-of-eclipse.json) |
 | War of Freedom | 158523 | [158523-war-of-freedom.json](./158523-war-of-freedom.json) |
