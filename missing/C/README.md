@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calamity Black Dragon and the Princess of Lies | 365199 | [365199-calamity-black-dragon-and-the-princess-of-lies.json](./365199-calamity-black-dragon-and-the-princess-of-lies.json) |
 | Calamity Cait | 413806 | [413806-calamity-cait.json](./413806-calamity-cait.json) |
 | Calamity Creatures | 217266 | [217266-calamity-creatures.json](./217266-calamity-creatures.json) |
+| Calamity Eliminator | 190418 | [190418-calamity-eliminator.json](./190418-calamity-eliminator.json) |
 | Calamity Sanctuary | 219216 | [219216-calamity-sanctuary.json](./219216-calamity-sanctuary.json) |
 | Calangos e Coxinhas | 303721 | [303721-calangos-e-coxinhas.json](./303721-calangos-e-coxinhas.json) |
 | Calavera: Day of the Dead | 140306 | [140306-calavera-day-of-the-dead.json](./140306-calavera-day-of-the-dead.json) |
@@ -5801,6 +5802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Masterplan | 398007 | [398007-city-masterplan.json](./398007-city-masterplan.json) |
 | City Metro Simulator | 219737 | [219737-city-metro-simulator.json](./219737-city-metro-simulator.json) |
 | City Mysteries - Fun Seek and Find Hidden Object Puzzles | 88583 | [88583-city-mysteries-fun-seek-and-find-hidden-object-puzzles.json](./88583-city-mysteries-fun-seek-and-find-hidden-object-puzzles.json) |
+| City Night Carnage | 190417 | [190417-city-night-carnage.json](./190417-city-night-carnage.json) |
 | City Night Rider | 101505 | [101505-city-night-rider.json](./101505-city-night-rider.json) |
 | City of Atlantis | 153911 | [153911-city-of-atlantis.json](./153911-city-of-atlantis.json) |
 | City of Brass | 44122 | [44122-city-of-brass.json](./44122-city-of-brass.json) |
@@ -6536,6 +6538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clock Zero: Shuuen no Ichibyou Portable | 202591 | [202591-clock-zero-shuuen-no-ichibyou-portable.json](./202591-clock-zero-shuuen-no-ichibyou-portable.json) |
 | Clocked | 284827 | [284827-clocked.json](./284827-clocked.json) |
 | Clockfall | 391888 | [391888-clockfall.json](./391888-clockfall.json) |
+| Clocknockers | 190393 | [190393-clocknockers.json](./190393-clocknockers.json) |
 | Clocks | 41369 | [41369-clocks.json](./41369-clocks.json) |
 | Clockwatch | 315694 | [315694-clockwatch.json](./315694-clockwatch.json) |
 | Clockwerk | 285156 | [285156-clockwerk.json](./285156-clockwerk.json) |
@@ -7519,6 +7522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Escape: The Love Levels | 293867 | [293867-color-escape-the-love-levels.json](./293867-color-escape-the-love-levels.json) |
 | Color Fan | 315059 | [315059-color-fan.json](./315059-color-fan.json) |
 | Color Fear | 296656 | [296656-color-fear.json](./296656-color-fear.json) |
+| Color Flash | 190424 | [190424-color-flash.json](./190424-color-flash.json) |
 | Color Fusion Fever | 278165 | [278165-color-fusion-fever.json](./278165-color-fusion-fever.json) |
 | Color FX Basketball | 245539 | [245539-color-fx-basketball.json](./245539-color-fx-basketball.json) |
 | Color FX Solitaire | 245538 | [245538-color-fx-solitaire.json](./245538-color-fx-solitaire.json) |
@@ -10422,6 +10426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayta | 133937 | [133937-crayta.json](./133937-crayta.json) |
 | Craz'D: 13th Anniversary Edition | 313296 | [313296-crazd-13th-anniversary-edition.json](./313296-crazd-13th-anniversary-edition.json) |
 | Crazee Rider | 349898 | [349898-crazee-rider.json](./349898-crazee-rider.json) |
+| Crazi Lift | 190429 | [190429-crazi-lift.json](./190429-crazi-lift.json) |
 | Crazlipse | 339336 | [339336-crazlipse.json](./339336-crazlipse.json) |
 | Crazy | 261777 | [261777-crazy.json](./261777-crazy.json) |
 | Crazy 8s Revamped | 26649 | [26649-crazy-8s-revamped.json](./26649-crazy-8s-revamped.json) |
@@ -12854,6 +12859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Lancer | 210572 | [210572-cyber-lancer.json](./210572-cyber-lancer.json) |
 | Cyber Lemur | 150749 | [150749-cyber-lemur.json](./150749-cyber-lemur.json) |
 | Cyber Loop | 301617 | [301617-cyber-loop.json](./301617-cyber-loop.json) |
+| Cyber Lounge Tycoon | 190401 | [190401-cyber-lounge-tycoon.json](./190401-cyber-lounge-tycoon.json) |
 | Cyber Love Story | 345987 | [345987-cyber-love-story.json](./345987-cyber-love-story.json) |
 | Cyber Lust | 241988 | [241988-cyber-lust.json](./241988-cyber-lust.json) |
 | Cyber Manhunt 2: New World | 276679 | [276679-cyber-manhunt-2-new-world.json](./276679-cyber-manhunt-2-new-world.json) |
