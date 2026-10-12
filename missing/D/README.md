@@ -3643,6 +3643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dehumanized | 104054 | [104054-dehumanized.json](./104054-dehumanized.json) |
 | Dehydration | 374723 | [374723-dehydration.json](./374723-dehydration.json) |
 | Dei Agminum | 356252 | [356252-dei-agminum.json](./356252-dei-agminum.json) |
+| Deicide | 191481 | [191481-deicide.json](./191481-deicide.json) |
 | Deicide 3: Distorted Existence | 194293 | [194293-deicide-3-distorted-existence.json](./194293-deicide-3-distorted-existence.json) |
 | Deified | 381183 | [381183-deified.json](./381183-deified.json) |
 | Deiity | 371367 | [371367-deiity.json](./371367-deiity.json) |
@@ -6408,6 +6409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea 5: Alliance of Vengeance | 11594 | [11594-disgaea-5-alliance-of-vengeance.json](./11594-disgaea-5-alliance-of-vengeance.json) |
 | Disgaea 5: Alliance of Vengeance - Limited Edition | 167058 | [167058-disgaea-5-alliance-of-vengeance-limited-edition.json](./167058-disgaea-5-alliance-of-vengeance-limited-edition.json) |
 | Disgaea 6 Complete | 191497 | [191497-disgaea-6-complete.json](./191497-disgaea-6-complete.json) |
+| Disgaea 6 Complete: Deluxe Edition | 191498 | [191498-disgaea-6-complete-deluxe-edition.json](./191498-disgaea-6-complete-deluxe-edition.json) |
 | Disgaea 7 Complete | 295622 | [295622-disgaea-7-complete.json](./295622-disgaea-7-complete.json) |
 | Disgaea 7: Glasses Costumes Set | 268541 | [268541-disgaea-7-glasses-costumes-set.json](./268541-disgaea-7-glasses-costumes-set.json) |
 | Disgaea 7: Vows of the Virtueless | 214530 | [214530-disgaea-7-vows-of-the-virtueless.json](./214530-disgaea-7-vows-of-the-virtueless.json) |
@@ -7595,6 +7597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolly | 133894 | [133894-dolly.json](./133894-dolly.json) |
 | Dolmen | 40102 | [40102-dolmen.json](./40102-dolmen.json) |
 | Dolmen | 75304 | [75304-dolmen.json](./75304-dolmen.json) |
+| Dolmen: Day One Edition | 191499 | [191499-dolmen-day-one-edition.json](./191499-dolmen-day-one-edition.json) |
 | Dolmenia : Chroniques Gauloises | 125369 | [125369-dolmenia-chroniques-gauloises.json](./125369-dolmenia-chroniques-gauloises.json) |
 | Dolmenjord | 217519 | [217519-dolmenjord.json](./217519-dolmenjord.json) |
 | Doloc Town | 235852 | [235852-doloc-town.json](./235852-doloc-town.json) |
@@ -9074,6 +9077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: College Basketball 2025 | 336058 | [336058-draft-day-sports-college-basketball-2025.json](./336058-draft-day-sports-college-basketball-2025.json) |
 | Draft Day Sports: College Basketball 26 | 393740 | [393740-draft-day-sports-college-basketball-26.json](./393740-draft-day-sports-college-basketball-26.json) |
 | Draft Day Sports: College Football 2020 | 128974 | [128974-draft-day-sports-college-football-2020.json](./128974-draft-day-sports-college-football-2020.json) |
+| Draft Day Sports: College Football 2022 | 191527 | [191527-draft-day-sports-college-football-2022.json](./191527-draft-day-sports-college-football-2022.json) |
 | Draft Day Sports: College Football 2023 | 213984 | [213984-draft-day-sports-college-football-2023.json](./213984-draft-day-sports-college-football-2023.json) |
 | Draft Day Sports: College Football 2024 | 262333 | [262333-draft-day-sports-college-football-2024.json](./262333-draft-day-sports-college-football-2024.json) |
 | Draft Day Sports: College Football 2025 | 386282 | [386282-draft-day-sports-college-football-2025.json](./386282-draft-day-sports-college-football-2025.json) |
