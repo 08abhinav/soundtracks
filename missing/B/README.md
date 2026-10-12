@@ -7236,6 +7236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Zombies | 100185 | [100185-bloody-zombies.json](./100185-bloody-zombies.json) |
 | Bloodz | 217211 | [217211-bloodz.json](./217211-bloodz.json) |
 | Bloom | 110476 | [110476-bloom.json](./110476-bloom.json) |
+| Bloom | 198149 | [198149-bloom.json](./198149-bloom.json) |
 | Bloom | 263568 | [263568-bloom.json](./263568-bloom.json) |
 | Bloom | 380031 | [380031-bloom.json](./380031-bloom.json) |
 | Bloom | 60555 | [60555-bloom.json](./60555-bloom.json) |
@@ -7979,6 +7980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Festival | 332840 | [332840-bomber-festival.json](./332840-bomber-festival.json) |
 | Bomber Hero | 357743 | [357743-bomber-hero.json](./357743-bomber-hero.json) |
 | Bomber Man 2002 | 287648 | [287648-bomber-man-2002.json](./287648-bomber-man-2002.json) |
+| Bomber Panda | 198165 | [198165-bomber-panda.json](./198165-bomber-panda.json) |
 | Bomber Party: Anime Avatars | 274952 | [274952-bomber-party-anime-avatars.json](./274952-bomber-party-anime-avatars.json) |
 | Bomber Party: Cute Anime Creatures Avatar | 274953 | [274953-bomber-party-cute-anime-creatures-avatar.json](./274953-bomber-party-cute-anime-creatures-avatar.json) |
 | Bomber Run | 362432 | [362432-bomber-run.json](./362432-bomber-run.json) |
@@ -7997,6 +7999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman | 287647 | [287647-bomberman.json](./287647-bomberman.json) |
 | Bomberman | 3445 | [3445-bomberman.json](./3445-bomberman.json) |
 | Bomberman | 3446 | [3446-bomberman.json](./3446-bomberman.json) |
+| Bomberman '08 | 198191 | [198191-bomberman-08.json](./198191-bomberman-08.json) |
 | Bomberman '93 | 42097 | [42097-bomberman-93.json](./42097-bomberman-93.json) |
 | Bomberman '93 Special | 42056 | [42056-bomberman-93-special.json](./42056-bomberman-93-special.json) |
 | Bomberman '94 | 3448 | [3448-bomberman-94.json](./3448-bomberman-94.json) |
@@ -8004,11 +8007,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman 3D BT Wide-ban | 198213 | [198213-bomberman-3d-bt-wide-ban.json](./198213-bomberman-3d-bt-wide-ban.json) |
 | Bomberman 64 | 80368 | [80368-bomberman-64.json](./80368-bomberman-64.json) |
 | Bomberman 64: The Second Attack! | 3452 | [3452-bomberman-64-the-second-attack.json](./3452-bomberman-64-the-second-attack.json) |
+| Bomberman Act:Zero Mobile Type | 198195 | [198195-bomberman-act-zero-mobile-type.json](./198195-bomberman-act-zero-mobile-type.json) |
 | Bomberman B-Daman | 42545 | [42545-bomberman-b-daman.json](./42545-bomberman-b-daman.json) |
 | Bomberman Blitz | 67318 | [67318-bomberman-blitz.json](./67318-bomberman-blitz.json) |
 | Bomberman Chaos | 141782 | [141782-bomberman-chaos.json](./141782-bomberman-chaos.json) |
 | Bomberman Cx | 134531 | [134531-bomberman-cx.json](./134531-bomberman-cx.json) |
 | Bomberman Fantasy Race | 22773 | [22773-bomberman-fantasy-race.json](./22773-bomberman-fantasy-race.json) |
+| Bomberman for Gree | 198192 | [198192-bomberman-for-gree.json](./198192-bomberman-for-gree.json) |
 | Bomberman GB | 135909 | [135909-bomberman-gb.json](./135909-bomberman-gb.json) |
 | Bomberman Generation | 3832 | [3832-bomberman-generation.json](./3832-bomberman-generation.json) |
 | Bomberman Hardball | 45295 | [45295-bomberman-hardball.json](./45295-bomberman-hardball.json) |
@@ -8016,8 +8021,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman II | 3447 | [3447-bomberman-ii.json](./3447-bomberman-ii.json) |
 | Bomberman II: The Revenge | 134538 | [134538-bomberman-ii-the-revenge.json](./134538-bomberman-ii-the-revenge.json) |
 | Bomberman Jetters: Game Collection | 49528 | [49528-bomberman-jetters-game-collection.json](./49528-bomberman-jetters-game-collection.json) |
+| Bomberman Kart | 198189 | [198189-bomberman-kart.json](./198189-bomberman-kart.json) |
 | Bomberman Kart | 43535 | [43535-bomberman-kart.json](./43535-bomberman-kart.json) |
 | Bomberman Kart DX | 94366 | [94366-bomberman-kart-dx.json](./94366-bomberman-kart-dx.json) |
+| Bomberman Kart Special Mini | 198190 | [198190-bomberman-kart-special-mini.json](./198190-bomberman-kart-special-mini.json) |
 | Bomberman Land | 21613 | [21613-bomberman-land.json](./21613-bomberman-land.json) |
 | Bomberman Land | 77674 | [77674-bomberman-land.json](./77674-bomberman-land.json) |
 | Bomberman Land 3 | 64947 | [64947-bomberman-land-3.json](./64947-bomberman-land-3.json) |
