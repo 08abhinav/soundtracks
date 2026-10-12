@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T07:45:14.436Z",
-  "total_soundtracks": 1496,
+  "generated_at": "2026-10-12T09:50:13.745Z",
+  "total_soundtracks": 1497,
   "games": [
     {
       "igdb_id": 7522,
@@ -3053,6 +3053,20 @@
           "spotify_url": "https://open.spotify.com/album/0mL0e9FMnDXyZieyyrpH1q",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 959,
+      "game_name": "Command & Conquer: Red Alert 3",
+      "game_url": "https://ostdb.net/games/command-and-conquer-red-alert-3",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/91/bd/79/91bd7957-f303-6e2c-f709-895d8c9ff1b2/780163545326.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Command & Conquer: Red Alert 3 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5TxjcMSN3NclQgjNcCRaI3",
+          "apple_music_url": "https://music.apple.com/us/album/command-conquer-red-alert-3-original-soundtrack/1482425987",
+          "album_link_url": "https://album.link/i/1482425987"
         }
       ]
     },
