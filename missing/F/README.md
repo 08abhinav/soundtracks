@@ -1804,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmington Tales | 44093 | [44093-farmington-tales.json](./44093-farmington-tales.json) |
 | Farmington Tales 2: Winter Crop | 294225 | [294225-farmington-tales-2-winter-crop.json](./294225-farmington-tales-2-winter-crop.json) |
 | Farmnana Defence | 404863 | [404863-farmnana-defence.json](./404863-farmnana-defence.json) |
+| Farmquest | 186552 | [186552-farmquest.json](./186552-farmquest.json) |
 | FarmRPG | 227832 | [227832-farmrpg.json](./227832-farmrpg.json) |
 | Farmtastic | 352351 | [352351-farmtastic.json](./352351-farmtastic.json) |
 | FarmTech | 257891 | [257891-farmtech.json](./257891-farmtech.json) |
@@ -2293,6 +2294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear the Unknown: Jamie Story | 351601 | [351601-fear-the-unknown-jamie-story.json](./351601-fear-the-unknown-jamie-story.json) |
 | Fear The Void | 272256 | [272256-fear-the-void.json](./272256-fear-the-void.json) |
 | Fear the Walking Dead: Dead Run | 58483 | [58483-fear-the-walking-dead-dead-run.json](./58483-fear-the-walking-dead-dead-run.json) |
+| Fear Them | 187806 | [187806-fear-them.json](./187806-fear-them.json) |
 | Fear Virtual | 302098 | [302098-fear-virtual.json](./302098-fear-virtual.json) |
 | Fear Within | 389704 | [389704-fear-within.json](./389704-fear-within.json) |
 | Fear: Call of the village. | 190731 | [190731-fear-call-of-the-village.json](./190731-fear-call-of-the-village.json) |
@@ -3010,6 +3012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Force Collection | 306653 | [306653-fighting-force-collection.json](./306653-fighting-force-collection.json) |
 | Fighting Frenzy: Swole Simulator | 120709 | [120709-fighting-frenzy-swole-simulator.json](./120709-fighting-frenzy-swole-simulator.json) |
 | Fighting Fury | 44627 | [44627-fighting-fury.json](./44627-fighting-fury.json) |
+| Fighting Heart | 188422 | [188422-fighting-heart.json](./188422-fighting-heart.json) |
 | Fighting Hero | 48582 | [48582-fighting-hero.json](./48582-fighting-hero.json) |
 | Fighting Hero III | 48581 | [48581-fighting-hero-iii.json](./48581-fighting-hero-iii.json) |
 | Fighting Ice Hockey | 355122 | [355122-fighting-ice-hockey.json](./355122-fighting-ice-hockey.json) |
@@ -3654,6 +3657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Findme: 30sai no Yume Ooibito | 197204 | [197204-findme-30sai-no-yume-ooibito.json](./197204-findme-30sai-no-yume-ooibito.json) |
 | Findola | 94677 | [94677-findola.json](./94677-findola.json) |
 | Fine Artist Color Pixel Number | 267412 | [267412-fine-artist-color-pixel-number.json](./267412-fine-artist-color-pixel-number.json) |
+| Fine Ski Jumping | 188333 | [188333-fine-ski-jumping.json](./188333-fine-ski-jumping.json) |
 | Fine Sweeper | 35349 | [35349-fine-sweeper.json](./35349-fine-sweeper.json) |
 | Fine Work Act I | 285980 | [285980-fine-work-act-i.json](./285980-fine-work-act-i.json) |
 | Finely Crafted Fetish Film | 140921 | [140921-finely-crafted-fetish-film.json](./140921-finely-crafted-fetish-film.json) |
@@ -3725,6 +3729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FINSummerVR | 104059 | [104059-finsummervr.json](./104059-finsummervr.json) |
 | Finterior Decorator | 222791 | [222791-finterior-decorator.json](./222791-finterior-decorator.json) |
 | Fio Fizhook | 296365 | [296365-fio-fizhook.json](./296365-fio-fizhook.json) |
+| Fio: Figure It Out! | 186584 | [186584-fio-figure-it-out.json](./186584-fio-figure-it-out.json) |
 | Fiona's Dream of Atlantis | 294228 | [294228-fionas-dream-of-atlantis.json](./294228-fionas-dream-of-atlantis.json) |
 | Fionna Fights: Adventure Time | 61138 | [61138-fionna-fights-adventure-time.json](./61138-fionna-fights-adventure-time.json) |
 | Fiora Arc | 273494 | [273494-fiora-arc.json](./273494-fiora-arc.json) |
@@ -3851,6 +3856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Jump | 390807 | [390807-fire-jump.json](./390807-fire-jump.json) |
 | Fire Lookout: Abandoned Post | 401664 | [401664-fire-lookout-abandoned-post.json](./401664-fire-lookout-abandoned-post.json) |
 | Fire Man | 247018 | [247018-fire-man.json](./247018-fire-man.json) |
+| Fire Mission | 188349 | [188349-fire-mission.json](./188349-fire-mission.json) |
 | Fire One | 39515 | [39515-fire-one.json](./39515-fire-one.json) |
 | Fire Opal | 153875 | [153875-fire-opal.json](./153875-fire-opal.json) |
 | Fire Pit: Throw Things Into the Fire | 389688 | [389688-fire-pit-throw-things-into-the-fire.json](./389688-fire-pit-throw-things-into-the-fire.json) |
@@ -3934,6 +3940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefighters Simulator 2026 | 393626 | [393626-firefighters-simulator-2026.json](./393626-firefighters-simulator-2026.json) |
 | Firefighters Together | 331941 | [331941-firefighters-together.json](./331941-firefighters-together.json) |
 | Firefighters: Airport Fire Department | 71591 | [71591-firefighters-airport-fire-department.json](./71591-firefighters-airport-fire-department.json) |
+| Firefighters: Plant Fire Department | 187762 | [187762-firefighters-plant-fire-department.json](./187762-firefighters-plant-fire-department.json) |
 | Firefighters: The Simulation | 32042 | [32042-firefighters-the-simulation.json](./32042-firefighters-the-simulation.json) |
 | Firefighters: The Simulation - Platinum Edition | 146129 | [146129-firefighters-the-simulation-platinum-edition.json](./146129-firefighters-the-simulation-platinum-edition.json) |
 | Firefighting Rescue Simulator | 359988 | [359988-firefighting-rescue-simulator.json](./359988-firefighting-rescue-simulator.json) |
@@ -4059,6 +4066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Light | 191155 | [191155-first-light.json](./191155-first-light.json) |
 | First Light | 336721 | [336721-first-light.json](./336721-first-light.json) |
 | First Love / Late Spring | 204493 | [204493-first-love-late-spring.json](./204493-first-love-late-spring.json) |
+| First Love Story | 187800 | [187800-first-love-story.json](./187800-first-love-story.json) |
 | First Made Break Rock | 395542 | [395542-first-made-break-rock.json](./395542-first-made-break-rock.json) |
 | First Odium | 236010 | [236010-first-odium.json](./236010-first-odium.json) |
 | First Page of Love | 254955 | [254955-first-page-of-love.json](./254955-first-page-of-love.json) |
@@ -5275,6 +5283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flora Learns to Sing! | 321332 | [321332-flora-learns-to-sing.json](./321332-flora-learns-to-sing.json) |
 | Flora Parasocial | 406765 | [406765-flora-parasocial.json](./406765-flora-parasocial.json) |
 | Floracide | 386977 | [386977-floracide.json](./386977-floracide.json) |
+| Floragram | 186585 | [186585-floragram.json](./186585-floragram.json) |
 | Floraison | 415869 | [415869-floraison.json](./415869-floraison.json) |
 | Floral Flowlove: Limited Edition | 212319 | [212319-floral-flowlove-limited-edition.json](./212319-floral-flowlove-limited-edition.json) |
 | Floral Gate | 255271 | [255271-floral-gate.json](./255271-floral-gate.json) |
@@ -6442,6 +6451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forlorn Memories | 214761 | [214761-forlorn-memories.json](./214761-forlorn-memories.json) |
 | Forlorn Outcast | 260226 | [260226-forlorn-outcast.json](./260226-forlorn-outcast.json) |
 | Forlorn Screams of Agony Echoing Forevermore | 374233 | [374233-forlorn-screams-of-agony-echoing-forevermore.json](./374233-forlorn-screams-of-agony-echoing-forevermore.json) |
+| Form | 187761 | [187761-form.json](./187761-form.json) |
 | Form | 28446 | [28446-form.json](./28446-form.json) |
 | Form Fitting | 243567 | [243567-form-fitting.json](./243567-form-fitting.json) |
 | Form of a Legend | 132800 | [132800-form-of-a-legend.json](./132800-form-of-a-legend.json) |
@@ -6716,6 +6726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress Connected | 410476 | [410476-fortress-connected.json](./410476-fortress-connected.json) |
 | Fortress Conquest | 175219 | [175219-fortress-conquest.json](./175219-fortress-conquest.json) |
 | Fortress Defense | 266117 | [266117-fortress-defense.json](./266117-fortress-defense.json) |
+| Fortress Era | 188357 | [188357-fortress-era.json](./188357-fortress-era.json) |
 | Fortress Europe | 61897 | [61897-fortress-europe.json](./61897-fortress-europe.json) |
 | Fortress Forge | 310928 | [310928-fortress-forge.json](./310928-fortress-forge.json) |
 | Fortress Guardian | 394140 | [394140-fortress-guardian.json](./394140-fortress-guardian.json) |
@@ -7407,6 +7418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free the Lazy Dogs | 258516 | [258516-free-the-lazy-dogs.json](./258516-free-the-lazy-dogs.json) |
 | Free Throw Basketball | 147868 | [147868-free-throw-basketball.json](./147868-free-throw-basketball.json) |
 | Free Trader | 298407 | [298407-free-trader.json](./298407-free-trader.json) |
+| Free War | 188326 | [188326-free-war.json](./188326-free-war.json) |
 | Free Will | 291462 | [291462-free-will.json](./291462-free-will.json) |
 | Free Yourself - The Gravity Puzzle Game Starring YOU | 81789 | [81789-free-yourself-the-gravity-puzzle-game-starring-you.json](./81789-free-yourself-the-gravity-puzzle-game-starring-you.json) |
 | Free-Energy | 180576 | [180576-free-energy.json](./180576-free-energy.json) |
