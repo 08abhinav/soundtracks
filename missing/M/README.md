@@ -1331,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjongg Compilation | 91596 | [91596-mahjongg-compilation.json](./91596-mahjongg-compilation.json) |
 | Mahjongg Compilation | 91597 | [91597-mahjongg-compilation.json](./91597-mahjongg-compilation.json) |
 | Mahjongg Master 3 | 93140 | [93140-mahjongg-master-3.json](./93140-mahjongg-master-3.json) |
+| Mahjongg Master: Egyptian Edition | 210209 | [210209-mahjongg-master-egyptian-edition.json](./210209-mahjongg-master-egyptian-edition.json) |
 | Mahjongg Platinum Evolution Edition | 96762 | [96762-mahjongg-platinum-evolution-edition.json](./96762-mahjongg-platinum-evolution-edition.json) |
 | Mahjongg Sammlung | 91603 | [91603-mahjongg-sammlung.json](./91603-mahjongg-sammlung.json) |
 | Mahjongg The Ultimate Collection 2 | 108027 | [108027-mahjongg-the-ultimate-collection-2.json](./108027-mahjongg-the-ultimate-collection-2.json) |
@@ -5944,6 +5945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Blast | 221090 | [221090-merge-blast.json](./221090-merge-blast.json) |
 | Merge Block Puzzle | 306541 | [306541-merge-block-puzzle.json](./306541-merge-block-puzzle.json) |
 | Merge Castle | 233448 | [233448-merge-castle.json](./233448-merge-castle.json) |
+| Merge Catgirl | 210316 | [210316-merge-catgirl.json](./210316-merge-catgirl.json) |
 | Merge Chess | 172007 | [172007-merge-chess.json](./172007-merge-chess.json) |
 | Merge Circle | 262342 | [262342-merge-circle.json](./262342-merge-circle.json) |
 | Merge Circus | 285472 | [285472-merge-circus.json](./285472-merge-circus.json) |
