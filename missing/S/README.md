@@ -815,7 +815,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SamoQ - Quiz Hyoryu Kyoushitsu | 98063 | [98063-samoq-quiz-hyoryu-kyoushitsu.json](./98063-samoq-quiz-hyoryu-kyoushitsu.json) |
 | Samorost | 15731 | [15731-samorost.json](./15731-samorost.json) |
 | Samorost 1 | 148352 | [148352-samorost-1.json](./148352-samorost-1.json) |
-| Samorost 3 | 15537 | [15537-samorost-3.json](./15537-samorost-3.json) |
 | Samosbor | 130179 | [130179-samosbor.json](./130179-samosbor.json) |
 | Samosbor 2D | 120986 | [120986-samosbor-2d.json](./120986-samosbor-2d.json) |
 | Samozbor ID:Heaven | 129231 | [129231-samozbor-id-heaven.json](./129231-samozbor-id-heaven.json) |
