@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactico | 285561 | [285561-galactico.json](./285561-galactico.json) |
 | Galacticraft | 232681 | [232681-galacticraft.json](./232681-galacticraft.json) |
 | Galacticverse | 275071 | [275071-galacticverse.json](./275071-galacticverse.json) |
+| Galactix | 218080 | [218080-galactix.json](./218080-galactix.json) |
 | Galactix | 381042 | [381042-galactix.json](./381042-galactix.json) |
 | Galactoids: Galactic Invaders | 217279 | [217279-galactoids-galactic-invaders.json](./217279-galactoids-galactic-invaders.json) |
 | Galactory | 160275 | [160275-galactory.json](./160275-galactory.json) |
@@ -798,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Giant | 373765 | [373765-game-giant.json](./373765-game-giant.json) |
 | Game Grumps: Joint Justice - Turnabout Hour | 182392 | [182392-game-grumps-joint-justice-turnabout-hour.json](./182392-game-grumps-joint-justice-turnabout-hour.json) |
 | Game Grumps: The Video Game | 283768 | [283768-game-grumps-the-video-game.json](./283768-game-grumps-the-video-game.json) |
+| Game Hero | 218083 | [218083-game-hero.json](./218083-game-hero.json) |
 | Game Hits! 4 Games in 1 | 209593 | [209593-game-hits-4-games-in-1.json](./209593-game-hits-4-games-in-1.json) |
 | Game in Game in Game | 259511 | [259511-game-in-game-in-game.json](./259511-game-in-game-in-game.json) |
 | Game Inside a Game | 178475 | [178475-game-inside-a-game.json](./178475-game-inside-a-game.json) |
@@ -1480,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gazza II | 41000 | [41000-gazza-ii.json](./41000-gazza-ii.json) |
 | Gazza's Electronic Football Game | 217945 | [217945-gazzas-electronic-football-game.json](./217945-gazzas-electronic-football-game.json) |
 | Gazzel Quest: The Five Magic Stones | 32110 | [32110-gazzel-quest-the-five-magic-stones.json](./32110-gazzel-quest-the-five-magic-stones.json) |
+| GB Corp. | 218086 | [218086-gb-corp.json](./218086-gb-corp.json) |
 | GB Dash | 393094 | [393094-gb-dash.json](./393094-gb-dash.json) |
 | GB Genjin Land: Viva! Chikkun Oukoku | 64344 | [64344-gb-genjin-land-viva-chikkun-oukoku.json](./64344-gb-genjin-land-viva-chikkun-oukoku.json) |
 | GB Harobots | 281454 | [281454-gb-harobots.json](./281454-gb-harobots.json) |
@@ -2674,6 +2677,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giga Fighters Batman & Robin | 218016 | [218016-giga-fighters-batman-and-robin.json](./218016-giga-fighters-batman-and-robin.json) |
 | Giga Fighters WCW/nWo | 218017 | [218017-giga-fighters-wcw-nwo.json](./218017-giga-fighters-wcw-nwo.json) |
 | Giga Pets Plus: Rugrats | 198880 | [198880-giga-pets-plus-rugrats.json](./198880-giga-pets-plus-rugrats.json) |
+| Giga Pets: Barbie - Precious Kitty | 218051 | [218051-giga-pets-barbie-precious-kitty.json](./218051-giga-pets-barbie-precious-kitty.json) |
+| Giga Pets: Barbie - Precious Puppy | 218050 | [218050-giga-pets-barbie-precious-puppy.json](./218050-giga-pets-barbie-precious-puppy.json) |
+| Giga Pets: Looney Tunes - Taz Mania | 218048 | [218048-giga-pets-looney-tunes-taz-mania.json](./218048-giga-pets-looney-tunes-taz-mania.json) |
+| Giga Pets: Looney Tunes - Tweety | 218047 | [218047-giga-pets-looney-tunes-tweety.json](./218047-giga-pets-looney-tunes-tweety.json) |
+| Giga Pets: Oreo | 218049 | [218049-giga-pets-oreo.json](./218049-giga-pets-oreo.json) |
 | Giga Pudding: The Game | 328941 | [328941-giga-pudding-the-game.json](./328941-giga-pudding-the-game.json) |
 | Giga Wing 2 | 9163 | [9163-giga-wing-2.json](./9163-giga-wing-2.json) |
 | GigaBash: Final Ascension DLC | 404835 | [404835-gigabash-final-ascension-dlc.json](./404835-gigabash-final-ascension-dlc.json) |
@@ -5937,6 +5945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grind TD | 389987 | [389987-grind-td.json](./389987-grind-td.json) |
 | Grind X Grind | 400552 | [400552-grind-x-grind.json](./400552-grind-x-grind.json) |
 | Grind Zones | 36217 | [36217-grind-zones.json](./36217-grind-zones.json) |
+| GrindCraft | 218110 | [218110-grindcraft.json](./218110-grindcraft.json) |
 | Grinded Meat | 237068 | [237068-grinded-meat.json](./237068-grinded-meat.json) |
 | Grindhouse Games Volume I | 142851 | [142851-grindhouse-games-volume-i.json](./142851-grindhouse-games-volume-i.json) |
 | Grindshift | 207307 | [207307-grindshift.json](./207307-grindshift.json) |
