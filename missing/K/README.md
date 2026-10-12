@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaia's Ascent | 337995 | [337995-kaias-ascent.json](./337995-kaias-ascent.json) |
 | Kaibil | 390732 | [390732-kaibil.json](./390732-kaibil.json) |
 | Kaibutsu Para-Dice | 263672 | [263672-kaibutsu-para-dice.json](./263672-kaibutsu-para-dice.json) |
+| Kaichu: The Kaiju Dating Sim - Deluxe Edition | 227402 | [227402-kaichu-the-kaiju-dating-sim-deluxe-edition.json](./227402-kaichu-the-kaiju-dating-sim-deluxe-edition.json) |
 | Kaidann | 290470 | [290470-kaidann.json](./290470-kaidann.json) |
 | Kaidi Armed With a Cat | 113501 | [113501-kaidi-armed-with-a-cat.json](./113501-kaidi-armed-with-a-cat.json) |
 | Kaido Genkai | 349376 | [349376-kaido-genkai.json](./349376-kaido-genkai.json) |
