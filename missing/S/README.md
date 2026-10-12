@@ -510,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row: The Third - The Trouble with Clones | 78452 | [78452-saints-row-the-third-the-trouble-with-clones.json](./78452-saints-row-the-third-the-trouble-with-clones.json) |
 | Saints Row: The Third Remastered | 132097 | [132097-saints-row-the-third-remastered.json](./132097-saints-row-the-third-remastered.json) |
 | Saira | 67328 | [67328-saira.json](./67328-saira.json) |
+| Sairento VR: Untethered | 193695 | [193695-sairento-vr-untethered.json](./193695-sairento-vr-untethered.json) |
 | Saishuu Heiki Kanojo | 74055 | [74055-saishuu-heiki-kanojo.json](./74055-saishuu-heiki-kanojo.json) |
 | Saitama Zombie Parade | 314852 | [314852-saitama-zombie-parade.json](./314852-saitama-zombie-parade.json) |
 | Saitekikai Spy Simulator | 284323 | [284323-saitekikai-spy-simulator.json](./284323-saitekikai-spy-simulator.json) |
@@ -7317,6 +7318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singularium | 270124 | [270124-singularium.json](./270124-singularium.json) |
 | Singulier | 413634 | [413634-singulier.json](./413634-singulier.json) |
 | Sinij Parovoz | 301402 | [301402-sinij-parovoz.json](./301402-sinij-parovoz.json) |
+| Sinisistar: Lite Version | 193662 | [193662-sinisistar-lite-version.json](./193662-sinisistar-lite-version.json) |
 | Sinisomnia | 375370 | [375370-sinisomnia.json](./375370-sinisomnia.json) |
 | Sinistar | 18693 | [18693-sinistar.json](./18693-sinistar.json) |
 | Sinistar Unleashed | 20377 | [20377-sinistar-unleashed.json](./20377-sinistar-unleashed.json) |
@@ -19006,6 +19008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Coat Freaks | 60401 | [60401-sugar-coat-freaks.json](./60401-sugar-coat-freaks.json) |
 | Sugar Cookie | 396209 | [396209-sugar-cookie.json](./396209-sugar-cookie.json) |
 | Sugar Cookie Mountain! | 412911 | [412911-sugar-cookie-mountain.json](./412911-sugar-cookie-mountain.json) |
+| Sugar Crime | 193677 | [193677-sugar-crime.json](./193677-sugar-crime.json) |
 | Sugar Daddy Crush: Hidden Hotel Love Story | 387674 | [387674-sugar-daddy-crush-hidden-hotel-love-story.json](./387674-sugar-daddy-crush-hidden-hotel-love-story.json) |
 | Sugar Drops | 61048 | [61048-sugar-drops.json](./61048-sugar-drops.json) |
 | Sugar Fever | 26629 | [26629-sugar-fever.json](./26629-sugar-fever.json) |
@@ -22985,6 +22988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords and Sorcery Underworld: Definitive Edition | 34318 | [34318-swords-and-sorcery-underworld-definitive-edition.json](./34318-swords-and-sorcery-underworld-definitive-edition.json) |
 | Swords and Souls | 58741 | [58741-swords-and-souls.json](./58741-swords-and-souls.json) |
 | Swords Fantasy: Battlefield | 192450 | [192450-swords-fantasy-battlefield.json](./192450-swords-fantasy-battlefield.json) |
+| Swords of Anima | 193683 | [193683-swords-of-anima.json](./193683-swords-of-anima.json) |
 | Swords of Blood | 365203 | [365203-swords-of-blood.json](./365203-swords-of-blood.json) |
 | Swords of Destiny | 23007 | [23007-swords-of-destiny.json](./23007-swords-of-destiny.json) |
 | Swords of Freeport | 316164 | [316164-swords-of-freeport.json](./316164-swords-of-freeport.json) |
