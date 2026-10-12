@@ -2612,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giant Life | 118342 | [118342-giant-life.json](./118342-giant-life.json) |
 | Giant Machines 2017 | 24684 | [24684-giant-machines-2017.json](./24684-giant-machines-2017.json) |
 | Giant Mario Bros. | 198472 | [198472-giant-mario-bros.json](./198472-giant-mario-bros.json) |
+| Giant Monster War | 221346 | [221346-giant-monster-war.json](./221346-giant-monster-war.json) |
 | Giant Rabbit Run | 208973 | [208973-giant-rabbit-run.json](./208973-giant-rabbit-run.json) |
 | Giant Robo: The Animation | 66654 | [66654-giant-robo-the-animation.json](./66654-giant-robo-the-animation.json) |
 | Giant Robot Game | 261762 | [261762-giant-robot-game.json](./261762-giant-robot-game.json) |
