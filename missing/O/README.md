@@ -507,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Light and Darkness: The Prophecy | 50385 | [50385-of-light-and-darkness-the-prophecy.json](./50385-of-light-and-darkness-the-prophecy.json) |
 | Of Light and Darkness: The Prophecy - Premonitions | 79564 | [79564-of-light-and-darkness-the-prophecy-premonitions.json](./79564-of-light-and-darkness-the-prophecy-premonitions.json) |
 | Of Love and Sorrow | 32161 | [32161-of-love-and-sorrow.json](./32161-of-love-and-sorrow.json) |
+| Of Man and War | 184865 | [184865-of-man-and-war.json](./184865-of-man-and-war.json) |
 | Of Me and My Mirror | 380680 | [380680-of-me-and-my-mirror.json](./380680-of-me-and-my-mirror.json) |
 | Of Mice and Sand: Revised | 78059 | [78059-of-mice-and-sand-revised.json](./78059-of-mice-and-sand-revised.json) |
 | Of Mist and Shadows | 133196 | [133196-of-mist-and-shadows.json](./133196-of-mist-and-shadows.json) |
@@ -2193,6 +2194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenLoco | 138233 | [138233-openloco.json](./138233-openloco.json) |
 | OpenMMO | 410878 | [410878-openmmo.json](./410878-openmmo.json) |
 | OpenMW | 111444 | [111444-openmw.json](./111444-openmw.json) |
+| OpenPop | 184869 | [184869-openpop.json](./184869-openpop.json) |
 | OpenQuest | 94550 | [94550-openquest.json](./94550-openquest.json) |
 | OpenQuiz | 246110 | [246110-openquiz.json](./246110-openquiz.json) |
 | OpenSpades | 98371 | [98371-openspades.json](./98371-openspades.json) |
@@ -2488,6 +2490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Money | 223999 | [223999-orbital-money.json](./223999-orbital-money.json) |
 | Orbital Outbreak | 385871 | [385871-orbital-outbreak.json](./385871-orbital-outbreak.json) |
 | Orbital Overdrive | 383113 | [383113-orbital-overdrive.json](./383113-orbital-overdrive.json) |
+| Orbital Paladin Melchior Y | 184805 | [184805-orbital-paladin-melchior-y.json](./184805-orbital-paladin-melchior-y.json) |
 | Orbital Patrol | 244783 | [244783-orbital-patrol.json](./244783-orbital-patrol.json) |
 | Orbital Racer | 74130 | [74130-orbital-racer.json](./74130-orbital-racer.json) |
 | Orbital Siege | 365057 | [365057-orbital-siege.json](./365057-orbital-siege.json) |
