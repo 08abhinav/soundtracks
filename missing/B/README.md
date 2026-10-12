@@ -1711,6 +1711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barista Life Simulator 2026 | 391255 | [391255-barista-life-simulator-2026.json](./391255-barista-life-simulator-2026.json) |
 | Barista Master: Café Empire | 333713 | [333713-barista-master-cafe-empire.json](./333713-barista-master-cafe-empire.json) |
 | Barista: Take Away | 207533 | [207533-barista-take-away.json](./207533-barista-take-away.json) |
+| Barji Kart | 223065 | [223065-barji-kart.json](./223065-barji-kart.json) |
 | Bark Beat | 177443 | [177443-bark-beat.json](./177443-bark-beat.json) |
 | Bark Tank | 338194 | [338194-bark-tank.json](./338194-bark-tank.json) |
 | Barkane: The Folds of Calamity | 323718 | [323718-barkane-the-folds-of-calamity.json](./323718-barkane-the-folds-of-calamity.json) |
