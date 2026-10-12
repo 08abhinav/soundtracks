@@ -1990,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WebCum Empire Tycoon | 243151 | [243151-webcum-empire-tycoon.json](./243151-webcum-empire-tycoon.json) |
 | WebCum Secrets | 338386 | [338386-webcum-secrets.json](./338386-webcum-secrets.json) |
 | Weben Blocks | 204998 | [204998-weben-blocks.json](./204998-weben-blocks.json) |
+| Weben Blocks 2 | 210926 | [210926-weben-blocks-2.json](./210926-weben-blocks-2.json) |
 | Webgeon Speedrun Edition | 213393 | [213393-webgeon-speedrun-edition.json](./213393-webgeon-speedrun-edition.json) |
 | Webmaster - Fantastic Adventures in the World of the Internet | 127121 | [127121-webmaster-fantastic-adventures-in-the-world-of-the-internet.json](./127121-webmaster-fantastic-adventures-in-the-world-of-the-internet.json) |
 | Webosaurs | 245971 | [245971-webosaurs.json](./245971-webosaurs.json) |
@@ -2144,9 +2145,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Light Fields | 93700 | [93700-welcome-to-light-fields.json](./93700-welcome-to-light-fields.json) |
 | Welcome to Lightford | 273391 | [273391-welcome-to-lightford.json](./273391-welcome-to-lightford.json) |
 | Welcome to Maison Chichigami | 330782 | [330782-welcome-to-maison-chichigami.json](./330782-welcome-to-maison-chichigami.json) |
+| Welcome to Mark's Story in the World of Project: Summer Ice | 210928 | [210928-welcome-to-marks-story-in-the-world-of-project-summer-ice.json](./210928-welcome-to-marks-story-in-the-world-of-project-summer-ice.json) |
 | Welcome to Moreytown | 28650 | [28650-welcome-to-moreytown.json](./28650-welcome-to-moreytown.json) |
 | Welcome to My Cave | 260652 | [260652-welcome-to-my-cave.json](./260652-welcome-to-my-cave.json) |
 | Welcome to nightmare | 117699 | [117699-welcome-to-nightmare.json](./117699-welcome-to-nightmare.json) |
+| Welcome to Pammy's Story in the World of Project: Summer Ice | 210929 | [210929-welcome-to-pammys-story-in-the-world-of-project-summer-ice.json](./210929-welcome-to-pammys-story-in-the-world-of-project-summer-ice.json) |
 | Welcome to Paradise | 119827 | [119827-welcome-to-paradise.json](./119827-welcome-to-paradise.json) |
 | Welcome to Paradise Island | 331119 | [331119-welcome-to-paradise-island.json](./331119-welcome-to-paradise-island.json) |
 | Welcome to Paradize: Archeology Quest | 295652 | [295652-welcome-to-paradize-archeology-quest.json](./295652-welcome-to-paradize-archeology-quest.json) |
@@ -3887,6 +3890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Games | 281646 | [281646-winter-games.json](./281646-winter-games.json) |
 | Winter Games | 281647 | [281647-winter-games.json](./281647-winter-games.json) |
 | Winter Games | 388392 | [388392-winter-games.json](./388392-winter-games.json) |
+| Winter Games 2023 | 210911 | [210911-winter-games-2023.json](./210911-winter-games-2023.json) |
 | Winter Games Challenge | 279866 | [279866-winter-games-challenge.json](./279866-winter-games-challenge.json) |
 | Winter Gifts | 412164 | [412164-winter-gifts.json](./412164-winter-gifts.json) |
 | Winter Heat | 367954 | [367954-winter-heat.json](./367954-winter-heat.json) |
