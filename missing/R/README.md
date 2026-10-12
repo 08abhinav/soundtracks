@@ -3180,6 +3180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reminisce | 306685 | [306685-reminisce.json](./306685-reminisce.json) |
 | Reminiscence | 360643 | [360643-reminiscence.json](./360643-reminiscence.json) |
 | Reminiscence in the Rain | 294369 | [294369-reminiscence-in-the-rain.json](./294369-reminiscence-in-the-rain.json) |
+| Reminiscience Overwrite | 184362 | [184362-reminiscience-overwrite.json](./184362-reminiscience-overwrite.json) |
 | ReMix: Encore | 311815 | [311815-remix-encore.json](./311815-remix-encore.json) |
 | Remnant Frontier: Survival | 373001 | [373001-remnant-frontier-survival.json](./373001-remnant-frontier-survival.json) |
 | Remnant Generation: Prologue | 392293 | [392293-remnant-generation-prologue.json](./392293-remnant-generation-prologue.json) |
@@ -3238,6 +3239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rén Líng Shìwùsuǒ: Yī Chǎng Kěyǐ Wǎnjiù de Bēijù | 316964 | [316964-ren-ling-shiwusuo-yi-chang-keyi-wanjiu-de-beiju.json](./316964-ren-ling-shiwusuo-yi-chang-keyi-wanjiu-de-beiju.json) |
 | Ren the Summoner and the Erotic Dungeon | 196127 | [196127-ren-the-summoner-and-the-erotic-dungeon.json](./196127-ren-the-summoner-and-the-erotic-dungeon.json) |
 | Ren Ti Tu Pu | 130972 | [130972-ren-ti-tu-pu.json](./130972-ren-ti-tu-pu.json) |
+| Ren'Py Chess | 184300 | [184300-renpy-chess.json](./184300-renpy-chess.json) |
 | Ren'Py Rhythm Game | 184387 | [184387-renpy-rhythm-game.json](./184387-renpy-rhythm-game.json) |
 | Ren's Demons I | 202681 | [202681-rens-demons-i.json](./202681-rens-demons-i.json) |
 | Renai 0 Kilometer | 61552 | [61552-renai-0-kilometer.json](./61552-renai-0-kilometer.json) |
@@ -3529,6 +3531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resfort | 31687 | [31687-resfort.json](./31687-resfort.json) |
 | Reshape | 255729 | [255729-reshape.json](./255729-reshape.json) |
 | Reshape | 293634 | [293634-reshape.json](./293634-reshape.json) |
+| Reshaper | 183838 | [183838-reshaper.json](./183838-reshaper.json) |
 | Reshine | 399078 | [399078-reshine.json](./399078-reshine.json) |
 | ReShot | 364646 | [364646-reshot.json](./364646-reshot.json) |
 | Residence | 259179 | [259179-residence.json](./259179-residence.json) |
@@ -4379,6 +4382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm 'n Bullets | 140928 | [140928-rhythm-n-bullets.json](./140928-rhythm-n-bullets.json) |
 | Rhythm 'n Notes: Improve Your Music Skills | 79176 | [79176-rhythm-n-notes-improve-your-music-skills.json](./79176-rhythm-n-notes-improve-your-music-skills.json) |
 | Rhythm & Beats | 292282 | [292282-rhythm-and-beats.json](./292282-rhythm-and-beats.json) |
+| Rhythm Action Gatsby | 184340 | [184340-rhythm-action-gatsby.json](./184340-rhythm-action-gatsby.json) |
 | Rhythm Any Music | 220709 | [220709-rhythm-any-music.json](./220709-rhythm-any-music.json) |
 | Rhythm Bang | 224683 | [224683-rhythm-bang.json](./224683-rhythm-bang.json) |
 | Rhythm Banki | 204245 | [204245-rhythm-banki.json](./204245-rhythm-banki.json) |
