@@ -904,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Nova | 358367 | [358367-last-nova.json](./358367-last-nova.json) |
 | Last Nuclear Darkness | 158162 | [158162-last-nuclear-darkness.json](./158162-last-nuclear-darkness.json) |
 | Last Oasis | 114422 | [114422-last-oasis.json](./114422-last-oasis.json) |
+| Last of Ark | 208664 | [208664-last-of-ark.json](./208664-last-of-ark.json) |
 | Last of Ass | 157161 | [157161-last-of-ass.json](./157161-last-of-ass.json) |
 | Last One Standing | 176332 | [176332-last-one-standing.json](./176332-last-one-standing.json) |
 | Last Order | 235994 | [235994-last-order.json](./235994-last-order.json) |
@@ -3372,6 +3373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limit Zero Breakers | 361763 | [361763-limit-zero-breakers.json](./361763-limit-zero-breakers.json) |
 | LiMiT's Escape Room Games | 196161 | [196161-limits-escape-room-games.json](./196161-limits-escape-room-games.json) |
 | Limit's Escape Room Games 2 | 211631 | [211631-limits-escape-room-games-2.json](./211631-limits-escape-room-games-2.json) |
+| Limited Lifetime Corp | 208653 | [208653-limited-lifetime-corp.json](./208653-limited-lifetime-corp.json) |
 | Limitless Hunger | 190986 | [190986-limitless-hunger.json](./190986-limitless-hunger.json) |
 | Limitless Runner | 359085 | [359085-limitless-runner.json](./359085-limitless-runner.json) |
 | Limits | 379052 | [379052-limits.json](./379052-limits.json) |
@@ -4752,6 +4754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop Eraser | 92109 | [92109-loop-eraser.json](./92109-loop-eraser.json) |
 | Loop Firefighters | 388362 | [388362-loop-firefighters.json](./388362-loop-firefighters.json) |
 | Loop Frogs | 284893 | [284893-loop-frogs.json](./284893-loop-frogs.json) |
+| Loop Grow | 208660 | [208660-loop-grow.json](./208660-loop-grow.json) |
 | Loop Hero | 141533 | [141533-loop-hero.json](./141533-loop-hero.json) |
 | Loop Hero: Deluxe Edition | 248294 | [248294-loop-hero-deluxe-edition.json](./248294-loop-hero-deluxe-edition.json) |
 | Loop Kingdom | 253005 | [253005-loop-kingdom.json](./253005-loop-kingdom.json) |
@@ -6298,6 +6301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunarrota | 198483 | [198483-lunarrota.json](./198483-lunarrota.json) |
 | Lunars | 217321 | [217321-lunars.json](./217321-lunars.json) |
 | Lunatic | 141184 | [141184-lunatic.json](./141184-lunatic.json) |
+| Lunatic | 208651 | [208651-lunatic.json](./208651-lunatic.json) |
 | Lunatic Dawn | 66183 | [66183-lunatic-dawn.json](./66183-lunatic-dawn.json) |
 | Lunatic Dawn FX | 66181 | [66181-lunatic-dawn-fx.json](./66181-lunatic-dawn-fx.json) |
 | Lunatic Dawn II | 66182 | [66182-lunatic-dawn-ii.json](./66182-lunatic-dawn-ii.json) |
