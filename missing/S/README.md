@@ -15268,6 +15268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stapel | 192987 | [192987-stapel.json](./192987-stapel.json) |
 | Star Academy: Showtime! | 327859 | [327859-star-academy-showtime.json](./327859-star-academy-showtime.json) |
 | Star Aegis | 155996 | [155996-star-aegis.json](./155996-star-aegis.json) |
+| Star Age: Space Combat | 193175 | [193175-star-age-space-combat.json](./193175-star-age-space-combat.json) |
 | Star Ally | 246403 | [246403-star-ally.json](./246403-star-ally.json) |
 | Star and Light | 134508 | [134508-star-and-light.json](./134508-star-and-light.json) |
 | Star Apoligce: Survivors | 390735 | [390735-star-apoligce-survivors.json](./390735-star-apoligce-survivors.json) |
@@ -15333,6 +15334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Conflict: Mercenary Pack - Soldier of Fortune | 354429 | [354429-star-conflict-mercenary-pack-soldier-of-fortune.json](./354429-star-conflict-mercenary-pack-soldier-of-fortune.json) |
 | Star Conflict: Mole | 354433 | [354433-star-conflict-mole.json](./354433-star-conflict-mole.json) |
 | Star Conflict: Mole - Deluxe Edition | 354434 | [354434-star-conflict-mole-deluxe-edition.json](./354434-star-conflict-mole-deluxe-edition.json) |
+| Star Conflict: Mysteries of the Universe. Stage two | 193165 | [193165-star-conflict-mysteries-of-the-universe-stage-two.json](./193165-star-conflict-mysteries-of-the-universe-stage-two.json) |
 | Star Conflict: Pilgrim | 354438 | [354438-star-conflict-pilgrim.json](./354438-star-conflict-pilgrim.json) |
 | Star Conflict: Pilum | 355161 | [355161-star-conflict-pilum.json](./355161-star-conflict-pilum.json) |
 | Star Conflict: Pilum - Deluxe edition | 355158 | [355158-star-conflict-pilum-deluxe-edition.json](./355158-star-conflict-pilum-deluxe-edition.json) |
@@ -15487,7 +15489,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Melody: Yumemi Dreamer | 172717 | [172717-star-melody-yumemi-dreamer.json](./172717-star-melody-yumemi-dreamer.json) |
 | Star Melody: Yumemi Dreamer - Chapter 10 | 195782 | [195782-star-melody-yumemi-dreamer-chapter-10.json](./195782-star-melody-yumemi-dreamer-chapter-10.json) |
 | Star Melody: Yumemi Dreamer - Chapter 11 | 196156 | [196156-star-melody-yumemi-dreamer-chapter-11.json](./196156-star-melody-yumemi-dreamer-chapter-11.json) |
+| Star Melody: Yumemi Dreamer - Chapter 3 | 193147 | [193147-star-melody-yumemi-dreamer-chapter-3.json](./193147-star-melody-yumemi-dreamer-chapter-3.json) |
 | Star Melody: Yumemi Dreamer - Chapter 4 | 191052 | [191052-star-melody-yumemi-dreamer-chapter-4.json](./191052-star-melody-yumemi-dreamer-chapter-4.json) |
+| Star Melody: Yumemi Dreamer - Chapter 6 | 193146 | [193146-star-melody-yumemi-dreamer-chapter-6.json](./193146-star-melody-yumemi-dreamer-chapter-6.json) |
+| Star Melody: Yumemi Dreamer - Chapter 7 | 193145 | [193145-star-melody-yumemi-dreamer-chapter-7.json](./193145-star-melody-yumemi-dreamer-chapter-7.json) |
+| Star Melody: Yumemi Dreamer - Chapter 8 | 193144 | [193144-star-melody-yumemi-dreamer-chapter-8.json](./193144-star-melody-yumemi-dreamer-chapter-8.json) |
 | Star Melody: Yumemi Dreamer - Chapter 9 | 196149 | [196149-star-melody-yumemi-dreamer-chapter-9.json](./196149-star-melody-yumemi-dreamer-chapter-9.json) |
 | Star Melody: Yumemi Dreamer - Limited Edition | 175977 | [175977-star-melody-yumemi-dreamer-limited-edition.json](./175977-star-melody-yumemi-dreamer-limited-edition.json) |
 | Star Mercenary | 236417 | [236417-star-mercenary.json](./236417-star-mercenary.json) |
@@ -20190,6 +20196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Halloween Puzzles | 155635 | [155635-super-jigsaw-puzzle-generations-halloween-puzzles.json](./155635-super-jigsaw-puzzle-generations-halloween-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Horses Puzzles | 155626 | [155626-super-jigsaw-puzzle-generations-horses-puzzles.json](./155626-super-jigsaw-puzzle-generations-horses-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Iceland | 155614 | [155614-super-jigsaw-puzzle-generations-iceland.json](./155614-super-jigsaw-puzzle-generations-iceland.json) |
+| Super Jigsaw Puzzle: Generations - Imagination | 193143 | [193143-super-jigsaw-puzzle-generations-imagination.json](./193143-super-jigsaw-puzzle-generations-imagination.json) |
 | Super Jigsaw Puzzle: Generations - Italy Puzzles | 155594 | [155594-super-jigsaw-puzzle-generations-italy-puzzles.json](./155594-super-jigsaw-puzzle-generations-italy-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Japan Puzzles | 155641 | [155641-super-jigsaw-puzzle-generations-japan-puzzles.json](./155641-super-jigsaw-puzzle-generations-japan-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Kittens 2 | 195278 | [195278-super-jigsaw-puzzle-generations-kittens-2.json](./195278-super-jigsaw-puzzle-generations-kittens-2.json) |
