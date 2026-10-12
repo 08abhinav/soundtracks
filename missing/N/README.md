@@ -1701,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neophyte: The Journey Begins | 66403 | [66403-neophyte-the-journey-begins.json](./66403-neophyte-the-journey-begins.json) |
 | Neophyte: The Spirit Master | 145696 | [145696-neophyte-the-spirit-master.json](./145696-neophyte-the-spirit-master.json) |
 | Neoproxima | 290545 | [290545-neoproxima.json](./290545-neoproxima.json) |
+| Neopunk | 224684 | [224684-neopunk.json](./224684-neopunk.json) |
 | NeoQuest | 229025 | [229025-neoquest.json](./229025-neoquest.json) |
 | NeoQuest II | 229026 | [229026-neoquest-ii.json](./229026-neoquest-ii.json) |
 | Neos VR | 125161 | [125161-neos-vr.json](./125161-neos-vr.json) |
@@ -1921,6 +1922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Clean | 392782 | [392782-never-clean.json](./392782-never-clean.json) |
 | Never Date Werewolves | 130137 | [130137-never-date-werewolves.json](./130137-never-date-werewolves.json) |
 | Never End, Neverland! | 173227 | [173227-never-end-neverland.json](./173227-never-end-neverland.json) |
+| Never Ending Beyond | 224687 | [224687-never-ending-beyond.json](./224687-never-ending-beyond.json) |
 | Never Ending Corridor | 387559 | [387559-never-ending-corridor.json](./387559-never-ending-corridor.json) |
 | Never Ending Dungeon | 193932 | [193932-never-ending-dungeon.json](./193932-never-ending-dungeon.json) |
 | Never Ending Night | 35919 | [35919-never-ending-night.json](./35919-never-ending-night.json) |
@@ -2046,6 +2048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Century Galaxy Legend | 192824 | [192824-new-century-galaxy-legend.json](./192824-new-century-galaxy-legend.json) |
 | New Chaos Code (tentative title) | 131549 | [131549-new-chaos-code-tentative-title.json](./131549-new-chaos-code-tentative-title.json) |
 | New Christmas House Hidden Objects | 108450 | [108450-new-christmas-house-hidden-objects.json](./108450-new-christmas-house-hidden-objects.json) |
+| New Citizen | 224690 | [224690-new-citizen.json](./224690-new-citizen.json) |
 | New Club Penguin | 246088 | [246088-new-club-penguin.json](./246088-new-club-penguin.json) |
 | New Colony | 129521 | [129521-new-colony.json](./129521-new-colony.json) |
 | New Dawn | 25819 | [25819-new-dawn.json](./25819-new-dawn.json) |
@@ -3302,6 +3305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Jajamaru-kun Ranbu | 296027 | [296027-ninja-jajamaru-kun-ranbu.json](./296027-ninja-jajamaru-kun-ranbu.json) |
 | Ninja JaJaMaru-kun: Onigiri Ninpou-chou | 74780 | [74780-ninja-jajamaru-kun-onigiri-ninpou-chou.json](./74780-ninja-jajamaru-kun-onigiri-ninpou-chou.json) |
 | Ninja JaJaMaru-kun: Sakura-hime to Karyu no Himitsu | 62207 | [62207-ninja-jajamaru-kun-sakura-hime-to-karyu-no-himitsu.json](./62207-ninja-jajamaru-kun-sakura-hime-to-karyu-no-himitsu.json) |
+| Ninja JaJaMaru: The Great Yokai Battle + Hell - Deluxe Edition | 225783 | [225783-ninja-jajamaru-the-great-yokai-battle-hell-deluxe-edition.json](./225783-ninja-jajamaru-the-great-yokai-battle-hell-deluxe-edition.json) |
 | Ninja JaJaMaru: The Lost RPGs | 234622 | [234622-ninja-jajamaru-the-lost-rpgs.json](./234622-ninja-jajamaru-the-lost-rpgs.json) |
 | Ninja Junk Punch | 65760 | [65760-ninja-junk-punch.json](./65760-ninja-junk-punch.json) |
 | Ninja Kamui: Shinobi Origins | 298587 | [298587-ninja-kamui-shinobi-origins.json](./298587-ninja-kamui-shinobi-origins.json) |
