@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadratank | 225595 | [225595-quadratank.json](./225595-quadratank.json) |
 | Quadratic Puzzle 1 | 369202 | [369202-quadratic-puzzle-1.json](./369202-quadratic-puzzle-1.json) |
 | Quadratic Puzzle 2 | 374306 | [374306-quadratic-puzzle-2.json](./374306-quadratic-puzzle-2.json) |
+| Quadratic Puzzle 4 | 195431 | [195431-quadratic-puzzle-4.json](./195431-quadratic-puzzle-4.json) |
 | Quadratic Puzzle 5 | 207376 | [207376-quadratic-puzzle-5.json](./207376-quadratic-puzzle-5.json) |
 | Quadraticus HD | 263572 | [263572-quadraticus-hd.json](./263572-quadraticus-hd.json) |
 | Quadrax | 69907 | [69907-quadrax.json](./69907-quadrax.json) |
@@ -231,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake Live | 6578 | [6578-quake-live.json](./6578-quake-live.json) |
 | Quake Minus One | 26413 | [26413-quake-minus-one.json](./26413-quake-minus-one.json) |
 | Quake Rally | 364398 | [364398-quake-rally.json](./364398-quake-rally.json) |
+| Quake Survivor | 195466 | [195466-quake-survivor.json](./195466-quake-survivor.json) |
 | Quake Upstart Mapping Project 2017 | 322055 | [322055-quake-upstart-mapping-project-2017.json](./322055-quake-upstart-mapping-project-2017.json) |
 | Quake VR | 196018 | [196018-quake-vr.json](./196018-quake-vr.json) |
 | Quake: A Roman Wilderness of Pain | 196709 | [196709-quake-a-roman-wilderness-of-pain.json](./196709-quake-a-roman-wilderness-of-pain.json) |
@@ -665,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quick Tower Defence Ultimate | 212745 | [212745-quick-tower-defence-ultimate.json](./212745-quick-tower-defence-ultimate.json) |
 | Quick Trivia | 369751 | [369751-quick-trivia.json](./369751-quick-trivia.json) |
 | Quick Whiskers | 378183 | [378183-quick-whiskers.json](./378183-quick-whiskers.json) |
+| Quick Words | 195474 | [195474-quick-words.json](./195474-quick-words.json) |
 | Quick-Change | 176953 | [176953-quick-change.json](./176953-quick-change.json) |
 | Quick, Draw! | 205795 | [205795-quick-draw.json](./205795-quick-draw.json) |
 | Quick! Mom's Home! | 107013 | [107013-quick-moms-home.json](./107013-quick-moms-home.json) |
