@@ -974,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep Runnin | 304581 | [304581-keep-runnin.json](./304581-keep-runnin.json) |
 | Keep Running | 104071 | [104071-keep-running.json](./104071-keep-running.json) |
 | Keep Sheep | 226136 | [226136-keep-sheep.json](./226136-keep-sheep.json) |
+| Keep Spinning | 179441 | [179441-keep-spinning.json](./179441-keep-spinning.json) |
 | Keep Talking and Nobody Explodes | 13226 | [13226-keep-talking-and-nobody-explodes.json](./13226-keep-talking-and-nobody-explodes.json) |
 | Keep the Balance | 50038 | [50038-keep-the-balance.json](./50038-keep-the-balance.json) |
 | Keep The Beat | 381598 | [381598-keep-the-beat.json](./381598-keep-the-beat.json) |
