@@ -3992,6 +3992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Escape 2 | 311583 | [311583-island-escape-2.json](./311583-island-escape-2.json) |
 | Island Experiment | 27938 | [27938-island-experiment.json](./27938-island-experiment.json) |
 | Island Flight Simulator | 24747 | [24747-island-flight-simulator.json](./24747-island-flight-simulator.json) |
+| Island Games | 208646 | [208646-island-games.json](./208646-island-games.json) |
 | Island Getaway | 29939 | [29939-island-getaway.json](./29939-island-getaway.json) |
 | Island Golf | 255740 | [255740-island-golf.json](./255740-island-golf.json) |
 | Island Hopper | 265141 | [265141-island-hopper.json](./265141-island-hopper.json) |
