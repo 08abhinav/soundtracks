@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T09:55:26.054Z",
-  "total_soundtracks": 1503,
+  "generated_at": "2026-10-12T09:55:39.668Z",
+  "total_soundtracks": 1504,
   "games": [
     {
       "igdb_id": 7522,
@@ -3491,6 +3491,20 @@
           "spotify_url": "https://open.spotify.com/album/3OOQRkcyunBEAzAuPt8Zow",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 6958,
+      "game_name": "Dante's Inferno",
+      "game_url": "https://ostdb.net/games/dantes-inferno",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e0/64/ff/e064ff89-2470-0c12-bf7b-47c10f41580b/780163557824.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Dante's Inferno (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4XLcCHRxAfThCUdwNKLkAo",
+          "apple_music_url": "https://music.apple.com/us/album/dantes-inferno-original-soundtrack/1489508147",
+          "album_link_url": "https://album.link/i/1489508147"
         }
       ]
     },
