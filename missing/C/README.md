@@ -4271,6 +4271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChesseR | 78700 | [78700-chesser.json](./78700-chesser.json) |
 | Chessie Chicken | 195611 | [195611-chessie-chicken.json](./195611-chessie-chicken.json) |
 | Chessium: 3D Chess Battle | 271646 | [271646-chessium-3d-chess-battle.json](./271646-chessium-3d-chess-battle.json) |
+| Chesskoban | 181045 | [181045-chesskoban.json](./181045-chesskoban.json) |
 | Chesskoban Bishop | 189106 | [189106-chesskoban-bishop.json](./189106-chesskoban-bishop.json) |
 | Chesskoban Cyber | 195144 | [195144-chesskoban-cyber.json](./195144-chesskoban-cyber.json) |
 | Chesslands | 211996 | [211996-chesslands.json](./211996-chesslands.json) |
@@ -7242,6 +7243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Pit | 394563 | [394563-coin-pit.json](./394563-coin-pit.json) |
 | Coin Push RPG | 336010 | [336010-coin-push-rpg.json](./336010-coin-push-rpg.json) |
 | Coin Pusher Casino | 230196 | [230196-coin-pusher-casino.json](./230196-coin-pusher-casino.json) |
+| Coin Rush | 181054 | [181054-coin-rush.json](./181054-coin-rush.json) |
 | Coin Rush | 336594 | [336594-coin-rush.json](./336594-coin-rush.json) |
 | Coin Slot | 355181 | [355181-coin-slot.json](./355181-coin-slot.json) |
 | Coin Slots Live | 386856 | [386856-coin-slots-live.json](./386856-coin-slots-live.json) |
@@ -8929,6 +8931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Control Craft 3 | 32849 | [32849-control-craft-3.json](./32849-control-craft-3.json) |
 | Control Freak | 111233 | [111233-control-freak.json](./111233-control-freak.json) |
 | Control Freak | 323799 | [323799-control-freak.json](./323799-control-freak.json) |
+| Control Headlights! | 181066 | [181066-control-headlights.json](./181066-control-headlights.json) |
 | Control Monger | 300497 | [300497-control-monger.json](./300497-control-monger.json) |
 | Control Resonant | 225582 | [225582-control-resonant.json](./225582-control-resonant.json) |
 | Control Resonant: Digital Deluxe Edition | 418570 | [418570-control-resonant-digital-deluxe-edition.json](./418570-control-resonant-digital-deluxe-edition.json) |
@@ -12451,6 +12454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuprum2929 | 311131 | [311131-cuprum2929.json](./311131-cuprum2929.json) |
 | Cups and Cats | 181722 | [181722-cups-and-cats.json](./181722-cups-and-cats.json) |
 | Cura | 287792 | [287792-cura.json](./287792-cura.json) |
+| Curatours | 181083 | [181083-curatours.json](./181083-curatours.json) |
 | Cure for Death | 344526 | [344526-cure-for-death.json](./344526-cure-for-death.json) |
 | Cure Girl | 127963 | [127963-cure-girl.json](./127963-cure-girl.json) |
 | Cure Mate Club | 63875 | [63875-cure-mate-club.json](./63875-cure-mate-club.json) |
