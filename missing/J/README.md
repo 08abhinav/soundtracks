@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jan Ken Pro! | 333638 | [333638-jan-ken-pro.json](./333638-jan-ken-pro.json) |
 | Jan Sangoku Musou | 64360 | [64360-jan-sangoku-musou.json](./64360-jan-sangoku-musou.json) |
 | JanduSoft Games Bundle Vol. 1 | 247493 | [247493-jandusoft-games-bundle-vol-1.json](./247493-jandusoft-games-bundle-vol-1.json) |
+| Jane & John | 208571 | [208571-jane-and-john.json](./208571-jane-and-john.json) |
 | Jane Angel 2: Fallen Heaven | 156606 | [156606-jane-angel-2-fallen-heaven.json](./156606-jane-angel-2-fallen-heaven.json) |
 | Jane Austen Simulator: Pride and Prejudice | 372611 | [372611-jane-austen-simulator-pride-and-prejudice.json](./372611-jane-austen-simulator-pride-and-prejudice.json) |
 | Jane Skriff | 138611 | [138611-jane-skriff.json](./138611-jane-skriff.json) |
@@ -1499,6 +1500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jockey Zero | 143662 | [143662-jockey-zero.json](./143662-jockey-zero.json) |
 | Jockey's Road | 62228 | [62228-jockeys-road.json](./62228-jockeys-road.json) |
 | Jocky Wilson's Compendium of Darts | 45352 | [45352-jocky-wilsons-compendium-of-darts.json](./45352-jocky-wilsons-compendium-of-darts.json) |
+| Jodie Drake | 210214 | [210214-jodie-drake.json](./210214-jodie-drake.json) |
 | Joe 'n Jo | 294368 | [294368-joe-n-jo.json](./294368-joe-n-jo.json) |
 | Joe & Mac | 213869 | [213869-joe-and-mac.json](./213869-joe-and-mac.json) |
 | Joe & Mac | 213880 | [213880-joe-and-mac.json](./213880-joe-and-mac.json) |
