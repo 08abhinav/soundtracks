@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oblako | 394373 | [394373-oblako.json](./394373-oblako.json) |
 | Oblation | 253886 | [253886-oblation.json](./253886-oblation.json) |
 | Oblige | 178964 | [178964-oblige.json](./178964-oblige.json) |
+| Oblige of Chaos | 212964 | [212964-oblige-of-chaos.json](./212964-oblige-of-chaos.json) |
 | Oblin Party | 280294 | [280294-oblin-party.json](./280294-oblin-party.json) |
 | Oblings | 387705 | [387705-oblings.json](./387705-oblings.json) |
 | Obliteracers | 18082 | [18082-obliteracers.json](./18082-obliteracers.json) |
@@ -3299,6 +3300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outdoors Unleashed: Africa 3D | 23671 | [23671-outdoors-unleashed-africa-3d.json](./23671-outdoors-unleashed-africa-3d.json) |
 | Outdoors Unlimited | 137088 | [137088-outdoors-unlimited.json](./137088-outdoors-unlimited.json) |
 | OutDrive | 18077 | [18077-outdrive.json](./18077-outdrive.json) |
+| Outer Darkness | 212963 | [212963-outer-darkness.json](./212963-outer-darkness.json) |
 | Outer Empires | 67317 | [67317-outer-empires.json](./67317-outer-empires.json) |
 | Outer Factory | 279106 | [279106-outer-factory.json](./279106-outer-factory.json) |
 | Outer Frontier | 160128 | [160128-outer-frontier.json](./160128-outer-frontier.json) |
@@ -3519,6 +3521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over The Phone | 282676 | [282676-over-the-phone.json](./282676-over-the-phone.json) |
 | Over the Radio | 369086 | [369086-over-the-radio.json](./369086-over-the-radio.json) |
 | Over the Reich | 94393 | [94393-over-the-reich.json](./94393-over-the-reich.json) |
+| Over the Speed Limit | 212960 | [212960-over-the-speed-limit.json](./212960-over-the-speed-limit.json) |
 | Over the Top: The World Arm Wrestling Championship | 94563 | [94563-over-the-top-the-world-arm-wrestling-championship.json](./94563-over-the-top-the-world-arm-wrestling-championship.json) |
 | Over The Top: WWI | 291749 | [291749-over-the-top-wwi.json](./291749-over-the-top-wwi.json) |
 | Over Tooned | 311743 | [311743-over-tooned.json](./311743-over-tooned.json) |
