@@ -1438,6 +1438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Die All Dies: No Zuo No Die | 256190 | [256190-one-die-all-dies-no-zuo-no-die.json](./256190-one-die-all-dies-no-zuo-no-die.json) |
 | One Dimension | 89984 | [89984-one-dimension.json](./89984-one-dimension.json) |
 | One Direction | 263602 | [263602-one-direction.json](./263602-one-direction.json) |
+| One Direction Heardle | 225839 | [225839-one-direction-heardle.json](./225839-one-direction-heardle.json) |
 | One Dog Story | 28327 | [28327-one-dog-story.json](./28327-one-dog-story.json) |
 | One Dog's Stay | 326272 | [326272-one-dogs-stay.json](./326272-one-dogs-stay.json) |
 | One Dollar Empire | 402252 | [402252-one-dollar-empire.json](./402252-one-dollar-empire.json) |
@@ -2041,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ookami to Koushinryou: Boku to Holo no Ichi-nen | 123449 | [123449-ookami-to-koushinryou-boku-to-holo-no-ichi-nen.json](./123449-ookami-to-koushinryou-boku-to-holo-no-ichi-nen.json) |
 | Ookami to Koushinryou: Umi wo Wataru Kaze | 61433 | [61433-ookami-to-koushinryou-umi-wo-wataru-kaze.json](./61433-ookami-to-koushinryou-umi-wo-wataru-kaze.json) |
 | Ookami-otoko Satsujin Jiken | 56755 | [56755-ookami-otoko-satsujin-jiken.json](./56755-ookami-otoko-satsujin-jiken.json) |
+| Ookeenga | 225842 | [225842-ookeenga.json](./225842-ookeenga.json) |
 | Ookibloks | 34516 | [34516-ookibloks.json](./34516-ookibloks.json) |
 | Ookiku Furikabutte: Honto no Ace ni Nareru Kamo | 61431 | [61431-ookiku-furikabutte-honto-no-ace-ni-nareru-kamo.json](./61431-ookiku-furikabutte-honto-no-ace-ni-nareru-kamo.json) |
 | Ookouchi Gengorou Ikka | 247528 | [247528-ookouchi-gengorou-ikka.json](./247528-ookouchi-gengorou-ikka.json) |
@@ -2435,6 +2437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital 1 | 96089 | [96089-orbital-1.json](./96089-orbital-1.json) |
 | Orbital Abyss: Cipher Division | 384854 | [384854-orbital-abyss-cipher-division.json](./384854-orbital-abyss-cipher-division.json) |
 | Orbital Bombardment | 237078 | [237078-orbital-bombardment.json](./237078-orbital-bombardment.json) |
+| Orbital Cargo Division | 224726 | [224726-orbital-cargo-division.json](./224726-orbital-cargo-division.json) |
 | Orbital Checkpoint | 413803 | [413803-orbital-checkpoint.json](./413803-orbital-checkpoint.json) |
 | Orbital Clash | 226165 | [226165-orbital-clash.json](./226165-orbital-clash.json) |
 | Orbital Crash | 392462 | [392462-orbital-crash.json](./392462-orbital-crash.json) |
@@ -2925,6 +2928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otome Games Romance Box | 254956 | [254956-otome-games-romance-box.json](./254956-otome-games-romance-box.json) |
 | Otome Games: Is It Love? Ryan | 105778 | [105778-otome-games-is-it-love-ryan.json](./105778-otome-games-is-it-love-ryan.json) |
 | Otome Kishi: Ima Sugu Watashi wo Dakishimete | 415321 | [415321-otome-kishi-ima-sugu-watashi-wo-dakishimete.json](./415321-otome-kishi-ima-sugu-watashi-wo-dakishimete.json) |
+| Otome Legends | 224714 | [224714-otome-legends.json](./224714-otome-legends.json) |
 | Otome no Himitsu | 188526 | [188526-otome-no-himitsu.json](./188526-otome-no-himitsu.json) |
 | Otome Riron to Sono Shuuhen Bon Voyage | 144177 | [144177-otome-riron-to-sono-shuuhen-bon-voyage.json](./144177-otome-riron-to-sono-shuuhen-bon-voyage.json) |
 | Otome Sekai no Arukikata | 305837 | [305837-otome-sekai-no-arukikata.json](./305837-otome-sekai-no-arukikata.json) |
@@ -3526,6 +3530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overcrowded: Tycoon | 200743 | [200743-overcrowded-tycoon.json](./200743-overcrowded-tycoon.json) |
 | Overcursed | 176494 | [176494-overcursed.json](./176494-overcursed.json) |
 | Overdawn | 372045 | [372045-overdawn.json](./372045-overdawn.json) |
+| Overdelivery | 224698 | [224698-overdelivery.json](./224698-overdelivery.json) |
 | Overdose | 337695 | [337695-overdose.json](./337695-overdose.json) |
 | Overdose Delusion | 277493 | [277493-overdose-delusion.json](./277493-overdose-delusion.json) |
 | Overdosed VR | 152992 | [152992-overdosed-vr.json](./152992-overdosed-vr.json) |
