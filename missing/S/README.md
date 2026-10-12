@@ -2736,6 +2736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search All: Bones | 387338 | [387338-search-all-bones.json](./387338-search-all-bones.json) |
 | Search All: Buds | 219613 | [219613-search-all-buds.json](./219613-search-all-buds.json) |
 | Search All: Cactuses | 192374 | [192374-search-all-cactuses.json](./192374-search-all-cactuses.json) |
+| Search All: Candy | 181056 | [181056-search-all-candy.json](./181056-search-all-candy.json) |
 | Search All: Christmas | 186676 | [186676-search-all-christmas.json](./186676-search-all-christmas.json) |
 | Search All: Flies | 285713 | [285713-search-all-flies.json](./285713-search-all-flies.json) |
 | Search All: Keys | 219614 | [219614-search-all-keys.json](./219614-search-all-keys.json) |
@@ -7685,6 +7686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skatesterre | 404911 | [404911-skatesterre.json](./404911-skatesterre.json) |
 | Skator Gator | 139871 | [139871-skator-gator.json](./139871-skator-gator.json) |
 | Skator Gator 3D | 217239 | [217239-skator-gator-3d.json](./217239-skator-gator-3d.json) |
+| Skautfold: Knight's End | 181058 | [181058-skautfold-knights-end.json](./181058-skautfold-knights-end.json) |
 | Skautfold: Moonless Knight | 152142 | [152142-skautfold-moonless-knight.json](./152142-skautfold-moonless-knight.json) |
 | Skautfold: Shrouded in Sanity | 19481 | [19481-skautfold-shrouded-in-sanity.json](./19481-skautfold-shrouded-in-sanity.json) |
 | Skautfold: Usurper | 251103 | [251103-skautfold-usurper.json](./251103-skautfold-usurper.json) |
@@ -12880,6 +12882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rocket | 81601 | [81601-space-rocket.json](./81601-space-rocket.json) |
 | Space Rocket Adventurers | 61155 | [61155-space-rocket-adventurers.json](./61155-space-rocket-adventurers.json) |
 | Space Rockets: Spaceship Rocket Simulator | 232180 | [232180-space-rockets-spaceship-rocket-simulator.json](./232180-space-rockets-spaceship-rocket-simulator.json) |
+| Space Rocks Blaster | 181049 | [181049-space-rocks-blaster.json](./181049-space-rocks-blaster.json) |
 | Space Rocks in Space | 365825 | [365825-space-rocks-in-space.json](./365825-space-rocks-in-space.json) |
 | Space Rocks! | 277829 | [277829-space-rocks.json](./277829-space-rocks.json) |
 | Space Roguelike Adventure | 190386 | [190386-space-roguelike-adventure.json](./190386-space-roguelike-adventure.json) |
@@ -15087,6 +15090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squid: Sponge Neighbor Expose | 326703 | [326703-squid-sponge-neighbor-expose.json](./326703-squid-sponge-neighbor-expose.json) |
 | Squid! Escape! Fight! | 229254 | [229254-squid-escape-fight.json](./229254-squid-escape-fight.json) |
 | Squidly's Revenge | 373906 | [373906-squidlys-revenge.json](./373906-squidlys-revenge.json) |
+| Squidoku | 181075 | [181075-squidoku.json](./181075-squidoku.json) |
 | Squids in a Pickle | 340924 | [340924-squids-in-a-pickle.json](./340924-squids-in-a-pickle.json) |
 | Squids Odyssey | 19877 | [19877-squids-odyssey.json](./19877-squids-odyssey.json) |
 | Squids: Battle Arena | 217446 | [217446-squids-battle-arena.json](./217446-squids-battle-arena.json) |
@@ -15488,6 +15492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fire: Eternal Cycle | 316656 | [316656-star-fire-eternal-cycle.json](./316656-star-fire-eternal-cycle.json) |
 | Star Firebirds | 30215 | [30215-star-firebirds.json](./30215-star-firebirds.json) |
 | Star Fish | 349979 | [349979-star-fish.json](./349979-star-fish.json) |
+| Star Fisher | 181064 | [181064-star-fisher.json](./181064-star-fisher.json) |
 | Star Flashback Blast! | 304288 | [304288-star-flashback-blast.json](./304288-star-flashback-blast.json) |
 | Star Fleet I: The War Begins! | 25939 | [25939-star-fleet-i-the-war-begins.json](./25939-star-fleet-i-the-war-begins.json) |
 | Star Force | 288103 | [288103-star-force.json](./288103-star-force.json) |
@@ -16307,6 +16312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarRaver | 237072 | [237072-starraver.json](./237072-starraver.json) |
 | Starry Flowers | 145644 | [145644-starry-flowers.json](./145644-starry-flowers.json) |
 | Starry Makino | 159835 | [159835-starry-makino.json](./159835-starry-makino.json) |
+| Starry Moon Island 2 | 181057 | [181057-starry-moon-island-2.json](./181057-starry-moon-island-2.json) |
 | Starry Moon Island 2: Break Out MP01 | 190576 | [190576-starry-moon-island-2-break-out-mp01.json](./190576-starry-moon-island-2-break-out-mp01.json) |
 | Starry Moon Island 2: Break Out MP02 | 190575 | [190575-starry-moon-island-2-break-out-mp02.json](./190575-starry-moon-island-2-break-out-mp02.json) |
 | Starry Moon Island 2: Break Out MP03 | 190568 | [190568-starry-moon-island-2-break-out-mp03.json](./190568-starry-moon-island-2-break-out-mp03.json) |
@@ -19450,6 +19456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumrak | 321444 | [321444-sumrak.json](./321444-sumrak.json) |
 | Sumtune | 236399 | [236399-sumtune.json](./236399-sumtune.json) |
 | Sumy Shelltris: Iceblocks 1 | 197388 | [197388-sumy-shelltris-iceblocks-1.json](./197388-sumy-shelltris-iceblocks-1.json) |
+| Sumy Shelltris: Iceblocks 2 | 181055 | [181055-sumy-shelltris-iceblocks-2.json](./181055-sumy-shelltris-iceblocks-2.json) |
 | Sun Breed | 264037 | [264037-sun-breed.json](./264037-sun-breed.json) |
 | Sun City | 310176 | [310176-sun-city.json](./310176-sun-city.json) |
 | Sun Down | 238583 | [238583-sun-down.json](./238583-sun-down.json) |
