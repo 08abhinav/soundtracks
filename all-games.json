@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T09:56:16.086Z",
-  "total_soundtracks": 1507,
+  "generated_at": "2026-10-12T09:56:26.292Z",
+  "total_soundtracks": 1508,
   "games": [
     {
       "igdb_id": 7522,
@@ -13793,6 +13793,20 @@
           "spotify_url": "https://open.spotify.com/album/5hCoZYvVBKqOBst0qfgApe",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 65832,
+      "game_name": "Stick Fight: The Game",
+      "game_url": "https://ostdb.net/games/stick-fight-the-game",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/cf/8d/78/cf8d789b-19a9-8867-4f8e-d4f321bd65ee/artwork.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Stick Fight: the Game (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5db1v8e3BJu4ymP3sCmcM8",
+          "apple_music_url": "https://music.apple.com/us/album/stick-fight-the-game-original-soundtrack-ep/1290806376",
+          "album_link_url": "https://album.link/i/1290806376"
         }
       ]
     },
