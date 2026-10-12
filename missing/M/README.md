@@ -2190,6 +2190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Skies | 75639 | [75639-marble-skies.json](./75639-marble-skies.json) |
 | Marble Souls | 412504 | [412504-marble-souls.json](./412504-marble-souls.json) |
 | Marble Void | 33235 | [33235-marble-void.json](./33235-marble-void.json) |
+| Marble Watchness | 223625 | [223625-marble-watchness.json](./223625-marble-watchness.json) |
 | Marble-O-Tron | 174294 | [174294-marble-o-tron.json](./174294-marble-o-tron.json) |
 | Marble's Marbles | 384201 | [384201-marbles-marbles.json](./384201-marbles-marbles.json) |
 | Marbled Memories | 416805 | [416805-marbled-memories.json](./416805-marbled-memories.json) |
@@ -2228,6 +2229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marchen Veil I | 240177 | [240177-marchen-veil-i.json](./240177-marchen-veil-i.json) |
 | Marchenkanna | 270034 | [270034-marchenkanna.json](./270034-marchenkanna.json) |
 | Marchers | 109160 | [109160-marchers.json](./109160-marchers.json) |
+| Marching Band Simulator | 223601 | [223601-marching-band-simulator.json](./223601-marching-band-simulator.json) |
 | Marching Order | 330151 | [330151-marching-order.json](./330151-marching-order.json) |
 | Marching Simulator | 96516 | [96516-marching-simulator.json](./96516-marching-simulator.json) |
 | Marchland | 183457 | [183457-marchland.json](./183457-marchland.json) |
@@ -6716,6 +6718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Wars | 314450 | [314450-micro-wars.json](./314450-micro-wars.json) |
 | Micro-Breakout | 320150 | [320150-micro-breakout.json](./320150-micro-breakout.json) |
 | Micro$oft Simulaattori | 98940 | [98940-micro-oft-simulaattori.json](./98940-micro-oft-simulaattori.json) |
+| Microarcade ApplePie | 223617 | [223617-microarcade-applepie.json](./223617-microarcade-applepie.json) |
 | Microbial Mayhem | 268989 | [268989-microbial-mayhem.json](./268989-microbial-mayhem.json) |
 | Microbian | 376078 | [376078-microbian.json](./376078-microbian.json) |
 | MicroBot | 21082 | [21082-microbot.json](./21082-microbot.json) |
@@ -8170,6 +8173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miniature Mayhem! | 262931 | [262931-miniature-mayhem.json](./262931-miniature-mayhem.json) |
 | Miniature TD | 54481 | [54481-miniature-td.json](./54481-miniature-td.json) |
 | Miniatures | 295904 | [295904-miniatures.json](./295904-miniatures.json) |
+| Minibash | 223621 | [223621-minibash.json](./223621-minibash.json) |
 | MiniBikers | 34085 | [34085-minibikers.json](./34085-minibikers.json) |
 | MiniBotz | 31929 | [31929-minibotz.json](./31929-minibotz.json) |
 | Minibuilder | 352182 | [352182-minibuilder.json](./352182-minibuilder.json) |
@@ -9870,6 +9874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Company | 208241 | [208241-monster-company.json](./208241-monster-company.json) |
 | Monster Craft 2 | 102262 | [102262-monster-craft-2.json](./102262-monster-craft-2.json) |
 | Monster Crown: Sin Eater | 327715 | [327715-monster-crown-sin-eater.json](./327715-monster-crown-sin-eater.json) |
+| Monster Cube | 223357 | [223357-monster-cube.json](./223357-monster-cube.json) |
 | Monster Dash | 18497 | [18497-monster-dash.json](./18497-monster-dash.json) |
 | Monster Demolition | 261416 | [261416-monster-demolition.json](./261416-monster-demolition.json) |
 | Monster Desert | 233458 | [233458-monster-desert.json](./233458-monster-desert.json) |
