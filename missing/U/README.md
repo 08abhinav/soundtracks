@@ -888,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unboxathon | 346186 | [346186-unboxathon.json](./346186-unboxathon.json) |
 | Unboxing | 225178 | [225178-unboxing.json](./225178-unboxing.json) |
 | Unboxing Mr. Coo | 359008 | [359008-unboxing-mr-coo.json](./359008-unboxing-mr-coo.json) |
+| Unboxing the mind of a Cryptic Killer | 192087 | [192087-unboxing-the-mind-of-a-cryptic-killer.json](./192087-unboxing-the-mind-of-a-cryptic-killer.json) |
 | Unboxing: Cozy Home Simulator | 334104 | [334104-unboxing-cozy-home-simulator.json](./334104-unboxing-cozy-home-simulator.json) |
 | Unbreachable | 399831 | [399831-unbreachable.json](./399831-unbreachable.json) |
 | Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend | 256848 | [256848-unbreakable-kimmy-schmidt-kimmy-vs-the-reverend.json](./256848-unbreakable-kimmy-schmidt-kimmy-vs-the-reverend.json) |
