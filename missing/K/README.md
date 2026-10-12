@@ -923,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KC Returns! II | 208374 | [208374-kc-returns-ii.json](./208374-kc-returns-ii.json) |
 | Kcpts | 244297 | [244297-kcpts.json](./244297-kcpts.json) |
 | Kculture | 388162 | [388162-kculture.json](./388162-kculture.json) |
+| KDA Fan Game | 184334 | [184334-kda-fan-game.json](./184334-kda-fan-game.json) |
 | KDice | 56512 | [56512-kdice.json](./56512-kdice.json) |
 | Ke Rulen Los Petas | 141849 | [141849-ke-rulen-los-petas.json](./141849-ke-rulen-los-petas.json) |
 | Keanu Reeves Dating Sim | 176300 | [176300-keanu-reeves-dating-sim.json](./176300-keanu-reeves-dating-sim.json) |
@@ -2191,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Hamil | 13734 | [13734-kingdom-of-hamil.json](./13734-kingdom-of-hamil.json) |
 | Kingdom of Heroes: Tactics War | 138552 | [138552-kingdom-of-heroes-tactics-war.json](./138552-kingdom-of-heroes-tactics-war.json) |
 | Kingdom of Kroz | 73796 | [73796-kingdom-of-kroz.json](./73796-kingdom-of-kroz.json) |
+| Kingdom of Lies | 183804 | [183804-kingdom-of-lies.json](./183804-kingdom-of-lies.json) |
 | Kingdom of Marionettes | 399754 | [399754-kingdom-of-marionettes.json](./399754-kingdom-of-marionettes.json) |
 | Kingdom of Night | 117531 | [117531-kingdom-of-night.json](./117531-kingdom-of-night.json) |
 | Kingdom of Nyabur: The Shattered Realm | 217501 | [217501-kingdom-of-nyabur-the-shattered-realm.json](./217501-kingdom-of-nyabur-the-shattered-realm.json) |
@@ -2816,6 +2818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KnifeBoy: Rebooted | 225880 | [225880-knifeboy-rebooted.json](./225880-knifeboy-rebooted.json) |
 | KnifePlayground: Horror Battle Royale | 277927 | [277927-knifeplayground-horror-battle-royale.json](./277927-knifeplayground-horror-battle-royale.json) |
 | Kniffelix | 122301 | [122301-kniffelix.json](./122301-kniffelix.json) |
+| Knight 24/7 | 183846 | [183846-knight-24-7.json](./183846-knight-24-7.json) |
 | Knight Adventure | 34315 | [34315-knight-adventure.json](./34315-knight-adventure.json) |
 | Knight and Mourning | 202703 | [202703-knight-and-mourning.json](./202703-knight-and-mourning.json) |
 | Knight and Princess | 170551 | [170551-knight-and-princess.json](./170551-knight-and-princess.json) |
