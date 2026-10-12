@@ -2262,6 +2262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Les Quatre Alices | 55490 | [55490-les-quatre-alices.json](./55490-les-quatre-alices.json) |
 | Les Ripoux | 133439 | [133439-les-ripoux.json](./133439-les-ripoux.json) |
 | Les Terres d'Amarande | 69473 | [69473-les-terres-damarande.json](./69473-les-terres-damarande.json) |
+| Les Visiteurs: Le Jeu | 213566 | [213566-les-visiteurs-le-jeu.json](./213566-les-visiteurs-le-jeu.json) |
 | Lesbian Mothman Hunters | 151751 | [151751-lesbian-mothman-hunters.json](./151751-lesbian-mothman-hunters.json) |
 | Lesbian Vampire Simulator | 177531 | [177531-lesbian-vampire-simulator.json](./177531-lesbian-vampire-simulator.json) |
 | Lesbian Voyeur Simulator | 367204 | [367204-lesbian-voyeur-simulator.json](./367204-lesbian-voyeur-simulator.json) |
@@ -5040,11 +5041,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Away | 191571 | [191571-lost-away.json](./191571-lost-away.json) |
 | Lost Balloons: Airy mates | 260878 | [260878-lost-balloons-airy-mates.json](./260878-lost-balloons-airy-mates.json) |
 | Lost Between | 232914 | [232914-lost-between.json](./232914-lost-between.json) |
+| Lost Beyond | 213542 | [213542-lost-beyond.json](./213542-lost-beyond.json) |
 | Lost Boy | 179063 | [179063-lost-boy.json](./179063-lost-boy.json) |
 | Lost Brother | 323895 | [323895-lost-brother.json](./323895-lost-brother.json) |
 | Lost Brothers | 127311 | [127311-lost-brothers.json](./127311-lost-brothers.json) |
 | Lost Bubbles: Sweet Mates | 185666 | [185666-lost-bubbles-sweet-mates.json](./185666-lost-bubbles-sweet-mates.json) |
 | Lost But Found | 319745 | [319745-lost-but-found.json](./319745-lost-but-found.json) |
+| Lost but Lucid | 213549 | [213549-lost-but-lucid.json](./213549-lost-but-lucid.json) |
 | Lost Case: Monster Girl Takeover | 140578 | [140578-lost-case-monster-girl-takeover.json](./140578-lost-case-monster-girl-takeover.json) |
 | Lost Castle 2 | 263225 | [263225-lost-castle-2.json](./263225-lost-castle-2.json) |
 | Lost Cause | 300766 | [300766-lost-cause.json](./300766-lost-cause.json) |
