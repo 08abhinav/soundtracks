@@ -581,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Hunter | 96903 | [96903-war-hunter.json](./96903-war-hunter.json) |
 | War Identity | 139454 | [139454-war-identity.json](./139454-war-identity.json) |
 | War in a Box: Paper Tanks | 17563 | [17563-war-in-a-box-paper-tanks.json](./17563-war-in-a-box-paper-tanks.json) |
+| War in Europe: 1940 | 201517 | [201517-war-in-europe-1940.json](./201517-war-in-europe-1940.json) |
 | War In Heaven | 216487 | [216487-war-in-heaven.json](./216487-war-in-heaven.json) |
 | War in Russia | 24916 | [24916-war-in-russia.json](./24916-war-in-russia.json) |
 | War in Space | 111010 | [111010-war-in-space.json](./111010-war-in-space.json) |
@@ -2899,6 +2900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiskey-Four | 338373 | [338373-whiskey-four.json](./338373-whiskey-four.json) |
 | Whismie | 394472 | [394472-whismie.json](./394472-whismie.json) |
 | Whisper | 132706 | [132706-whisper.json](./132706-whisper.json) |
+| Whisper Books | 201500 | [201500-whisper-books.json](./201500-whisper-books.json) |
 | Whisper Forest | 304611 | [304611-whisper-forest.json](./304611-whisper-forest.json) |
 | Whisper in the Dark | 177349 | [177349-whisper-in-the-dark.json](./177349-whisper-in-the-dark.json) |
 | Whisper Mountain Outbreak | 236169 | [236169-whisper-mountain-outbreak.json](./236169-whisper-mountain-outbreak.json) |
