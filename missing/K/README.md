@@ -473,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanji Wars | 346014 | [346014-kanji-wars.json](./346014-kanji-wars.json) |
 | KanjiFlash | 367056 | [367056-kanjiflash.json](./367056-kanjiflash.json) |
 | Kanjozoku Game: Car Racing & Highway Driving Simulator Remaster | 399798 | [399798-kanjozoku-game-car-racing-and-highway-driving-simulator-remaster.json](./399798-kanjozoku-game-car-racing-and-highway-driving-simulator-remaster.json) |
+| Kanmuri wo Motsu Kami no Te | 221932 | [221932-kanmuri-wo-motsu-kami-no-te.json](./221932-kanmuri-wo-motsu-kami-no-te.json) |
 | Kanna | 127735 | [127735-kanna.json](./127735-kanna.json) |
 | Kanna Maze | 300967 | [300967-kanna-maze.json](./300967-kanna-maze.json) |
 | Kanna School | 336662 | [336662-kanna-school.json](./336662-kanna-school.json) |
@@ -1556,6 +1557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill or Love | 123995 | [123995-kill-or-love.json](./123995-kill-or-love.json) |
 | Kill PC | 121728 | [121728-kill-pc.json](./121728-kill-pc.json) |
 | Kill Pill | 237451 | [237451-kill-pill.json](./237451-kill-pill.json) |
+| Kill Shot | 221901 | [221901-kill-shot.json](./221901-kill-shot.json) |
 | Kill Shot Bravo | 59478 | [59478-kill-shot-bravo.json](./59478-kill-shot-bravo.json) |
 | Kill the Bad Guy | 10481 | [10481-kill-the-bad-guy.json](./10481-kill-the-bad-guy.json) |
 | Kill the Barney | 325819 | [325819-kill-the-barney.json](./325819-kill-the-barney.json) |
