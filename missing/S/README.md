@@ -588,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Santa | 34032 | [34032-sakura-santa.json](./34032-sakura-santa.json) |
 | Sakura School Love | 265086 | [265086-sakura-school-love.json](./265086-sakura-school-love.json) |
 | Sakura School Simulator | 208944 | [208944-sakura-school-simulator.json](./208944-sakura-school-simulator.json) |
+| Sakura Scramble! | 205897 | [205897-sakura-scramble.json](./205897-sakura-scramble.json) |
 | Sakura Stars | 132662 | [132662-sakura-stars.json](./132662-sakura-stars.json) |
 | Sakura Street: Tycoon | 296786 | [296786-sakura-street-tycoon.json](./296786-sakura-street-tycoon.json) |
 | Sakura Succubus | 129707 | [129707-sakura-succubus.json](./129707-sakura-succubus.json) |
@@ -5632,6 +5633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiryou Sensen: War of the Dead | 42041 | [42041-shiryou-sensen-war-of-the-dead.json](./42041-shiryou-sensen-war-of-the-dead.json) |
 | Shiseido Beauty Solution Kaihatsu Center Kanshuu: Project Beauty | 220601 | [220601-shiseido-beauty-solution-kaihatsu-center-kanshuu-project-beauty.json](./220601-shiseido-beauty-solution-kaihatsu-center-kanshuu-project-beauty.json) |
 | Shisen-Sho Nikakudori | 147657 | [147657-shisen-sho-nikakudori.json](./147657-shisen-sho-nikakudori.json) |
+| Shisha: The Lost Souls | 205903 | [205903-shisha-the-lost-souls.json](./205903-shisha-the-lost-souls.json) |
 | Shissou, Yankee Damashii | 295936 | [295936-shissou-yankee-damashii.json](./295936-shissou-yankee-damashii.json) |
 | Shissou, Yankee Damashii | 70592 | [70592-shissou-yankee-damashii.json](./70592-shissou-yankee-damashii.json) |
 | Shisya | 270779 | [270779-shisya.json](./270779-shisya.json) |
