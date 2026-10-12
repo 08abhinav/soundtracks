@@ -2374,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Go Home! | 296451 | [296451-lets-go-home.json](./296451-lets-go-home.json) |
 | Let's Go Jungle!: Lost on the Island of Spice | 69304 | [69304-lets-go-jungle-lost-on-the-island-of-spice.json](./69304-lets-go-jungle-lost-on-the-island-of-spice.json) |
 | Let's Go Nuts! | 99700 | [99700-lets-go-nuts.json](./99700-lets-go-nuts.json) |
+| Let's Go Nuts! 2 | 195471 | [195471-lets-go-nuts-2.json](./195471-lets-go-nuts-2.json) |
 | Let's Go Read: An Island Adventure | 122277 | [122277-lets-go-read-an-island-adventure.json](./122277-lets-go-read-an-island-adventure.json) |
 | Let's Go Run | 242452 | [242452-lets-go-run.json](./242452-lets-go-run.json) |
 | Let's Go Thingio!: Re:Thingio Side A | 323753 | [323753-lets-go-thingio-re-thingio-side-a.json](./323753-lets-go-thingio-re-thingio-side-a.json) |
