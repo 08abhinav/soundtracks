@@ -5917,7 +5917,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Bros | 371323 | [371323-dino-bros.json](./371323-dino-bros.json) |
 | Dino Chomp | 351695 | [351695-dino-chomp.json](./351695-dino-chomp.json) |
 | Dino City | 42202 | [42202-dino-city.json](./42202-dino-city.json) |
-| Dino Crisis | 3027 | [3027-dino-crisis.json](./3027-dino-crisis.json) |
 | Dino Crisis | 317628 | [317628-dino-crisis.json](./317628-dino-crisis.json) |
 | Dino Crisis | 329772 | [329772-dino-crisis.json](./329772-dino-crisis.json) |
 | Dino Crisis 2 | 329776 | [329776-dino-crisis-2.json](./329776-dino-crisis-2.json) |
