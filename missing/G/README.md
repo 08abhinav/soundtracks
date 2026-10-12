@@ -2313,6 +2313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GFL Championshop Football II | 97473 | [97473-gfl-championshop-football-ii.json](./97473-gfl-championshop-football-ii.json) |
 | GG Bundle 2015 | 25986 | [25986-gg-bundle-2015.json](./25986-gg-bundle-2015.json) |
 | GG Date Me | 178567 | [178567-gg-date-me.json](./178567-gg-date-me.json) |
+| GG Land | 210847 | [210847-gg-land.json](./210847-gg-land.json) |
 | GG Nibbles | 46529 | [46529-gg-nibbles.json](./46529-gg-nibbles.json) |
 | GG Portrait: Akira Yuki | 46528 | [46528-gg-portrait-akira-yuki.json](./46528-gg-portrait-akira-yuki.json) |
 | GG Portrait: Pai-chan | 46602 | [46602-gg-portrait-pai-chan.json](./46602-gg-portrait-pai-chan.json) |
