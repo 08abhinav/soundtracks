@@ -3800,6 +3800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Book & Paper | 199506 | [199506-heroes-of-book-and-paper.json](./199506-heroes-of-book-and-paper.json) |
 | Heroes of Britannia | 188464 | [188464-heroes-of-britannia.json](./188464-heroes-of-britannia.json) |
 | Heroes of Camelot | 7449 | [7449-heroes-of-camelot.json](./7449-heroes-of-camelot.json) |
+| Heroes of Crown | 214100 | [214100-heroes-of-crown.json](./214100-heroes-of-crown.json) |
 | Heroes of Delum | 27408 | [27408-heroes-of-delum.json](./27408-heroes-of-delum.json) |
 | Heroes of Destiny | 63384 | [63384-heroes-of-destiny.json](./63384-heroes-of-destiny.json) |
 | Heroes of Dragon Age | 22258 | [22258-heroes-of-dragon-age.json](./22258-heroes-of-dragon-age.json) |
@@ -7383,6 +7384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HumanBloodSandwich | 389406 | [389406-humanbloodsandwich.json](./389406-humanbloodsandwich.json) |
 | Humanelfo: Um Segredo Vai Te Libertar | 338936 | [338936-humanelfo-um-segredo-vai-te-libertar.json](./338936-humanelfo-um-segredo-vai-te-libertar.json) |
 | Humani Project | 415476 | [415476-humani-project.json](./415476-humani-project.json) |
+| Humanica | 214151 | [214151-humanica.json](./214151-humanica.json) |
 | Humanitarian Helicopter | 85172 | [85172-humanitarian-helicopter.json](./85172-humanitarian-helicopter.json) |
 | Humanitas | 117001 | [117001-humanitas.json](./117001-humanitas.json) |
 | Humanities Legend: Dark Horizon | 217225 | [217225-humanities-legend-dark-horizon.json](./217225-humanities-legend-dark-horizon.json) |
