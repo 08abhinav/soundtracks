@@ -3232,6 +3232,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris | 133912 | [133912-tetris.json](./133912-tetris.json) |
 | Tetris | 180279 | [180279-tetris.json](./180279-tetris.json) |
 | Tetris | 185669 | [185669-tetris.json](./185669-tetris.json) |
+| Tetris | 203099 | [203099-tetris.json](./203099-tetris.json) |
+| Tetris | 203100 | [203100-tetris.json](./203100-tetris.json) |
+| Tetris | 203101 | [203101-tetris.json](./203101-tetris.json) |
+| Tetris | 203104 | [203104-tetris.json](./203104-tetris.json) |
+| Tetris | 203105 | [203105-tetris.json](./203105-tetris.json) |
+| Tetris | 203106 | [203106-tetris.json](./203106-tetris.json) |
+| Tetris | 203109 | [203109-tetris.json](./203109-tetris.json) |
+| Tetris | 203110 | [203110-tetris.json](./203110-tetris.json) |
+| Tetris | 203111 | [203111-tetris.json](./203111-tetris.json) |
+| Tetris | 203112 | [203112-tetris.json](./203112-tetris.json) |
+| Tetris | 203117 | [203117-tetris.json](./203117-tetris.json) |
 | Tetris | 213370 | [213370-tetris.json](./213370-tetris.json) |
 | Tetris | 214130 | [214130-tetris.json](./214130-tetris.json) |
 | Tetris | 215381 | [215381-tetris.json](./215381-tetris.json) |
@@ -3268,6 +3279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Effect: Connected - Party Edition | 376141 | [376141-tetris-effect-connected-party-edition.json](./376141-tetris-effect-connected-party-edition.json) |
 | Tetris Effect: Digital Deluxe Edition | 227334 | [227334-tetris-effect-digital-deluxe-edition.json](./227334-tetris-effect-digital-deluxe-edition.json) |
 | Tetris Evolution | 2631 | [2631-tetris-evolution.json](./2631-tetris-evolution.json) |
+| Tetris for Windows CE | 203113 | [203113-tetris-for-windows-ce.json](./203113-tetris-for-windows-ce.json) |
 | Tetris Forever | 314934 | [314934-tetris-forever.json](./314934-tetris-forever.json) |
 | Tetris Giant | 92457 | [92457-tetris-giant.json](./92457-tetris-giant.json) |
 | Tetris Illuminated Mega Screen | 233647 | [233647-tetris-illuminated-mega-screen.json](./233647-tetris-illuminated-mega-screen.json) |
@@ -3299,6 +3311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris: The Grand Master 3 - Terror‑Instinct | 25024 | [25024-tetris-the-grand-master-3-terror-instinct.json](./25024-tetris-the-grand-master-3-terror-instinct.json) |
 | Tetris: The Grand Master 4 - The Masters of Round | 25026 | [25026-tetris-the-grand-master-4-the-masters-of-round.json](./25026-tetris-the-grand-master-4-the-masters-of-round.json) |
 | Tetris: The Grand Master Ace | 25025 | [25025-tetris-the-grand-master-ace.json](./25025-tetris-the-grand-master-ace.json) |
+| Tetris.com | 203114 | [203114-tetris-com.json](./203114-tetris-com.json) |
 | Tetris'd | 230751 | [230751-tetrisd.json](./230751-tetrisd.json) |
 | Tetris26 | 40669 | [40669-tetris26.json](./40669-tetris26.json) |
 | Tetrisphere | 3612 | [3612-tetrisphere.json](./3612-tetrisphere.json) |
@@ -3756,9 +3769,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Spider-Man | 203136 | [203136-the-amazing-spider-man.json](./203136-the-amazing-spider-man.json) |
 | The Amazing Spider-Man | 203138 | [203138-the-amazing-spider-man.json](./203138-the-amazing-spider-man.json) |
 | The Amazing Spider-Man | 203140 | [203140-the-amazing-spider-man.json](./203140-the-amazing-spider-man.json) |
+| The Amazing Spider-Man | 203141 | [203141-the-amazing-spider-man.json](./203141-the-amazing-spider-man.json) |
 | The Amazing Spider-Man | 203143 | [203143-the-amazing-spider-man.json](./203143-the-amazing-spider-man.json) |
 | The Amazing Spider-Man | 254522 | [254522-the-amazing-spider-man.json](./254522-the-amazing-spider-man.json) |
 | The Amazing Spider-Man 2 | 196243 | [196243-the-amazing-spider-man-2.json](./196243-the-amazing-spider-man-2.json) |
+| The Amazing Spider-Man 2 | 203150 | [203150-the-amazing-spider-man-2.json](./203150-the-amazing-spider-man-2.json) |
 | The Amazing Spider-Man 2 | 4755 | [4755-the-amazing-spider-man-2.json](./4755-the-amazing-spider-man-2.json) |
 | The Amazing Spider-Man 2 | 83901 | [83901-the-amazing-spider-man-2.json](./83901-the-amazing-spider-man-2.json) |
 | The Amazing Spider-Man Franchise Pack | 99796 | [99796-the-amazing-spider-man-franchise-pack.json](./99796-the-amazing-spider-man-franchise-pack.json) |
@@ -8171,6 +8186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Ocarina of Time - Master Quest | 45142 | [45142-the-legend-of-zelda-ocarina-of-time-master-quest.json](./45142-the-legend-of-zelda-ocarina-of-time-master-quest.json) |
 | The Legend of Zelda: Ocarina of Time - Stamina Bar | 263457 | [263457-the-legend-of-zelda-ocarina-of-time-stamina-bar.json](./263457-the-legend-of-zelda-ocarina-of-time-stamina-bar.json) |
 | The Legend of Zelda: Ocarina of Time Online | 198341 | [198341-the-legend-of-zelda-ocarina-of-time-online.json](./198341-the-legend-of-zelda-ocarina-of-time-online.json) |
+| The Legend of Zelda: Ocarina of Time Randomizer | 203116 | [203116-the-legend-of-zelda-ocarina-of-time-randomizer.json](./203116-the-legend-of-zelda-ocarina-of-time-randomizer.json) |
 | The Legend of Zelda: Oracle of Ages | 1041 | [1041-the-legend-of-zelda-oracle-of-ages.json](./1041-the-legend-of-zelda-oracle-of-ages.json) |
 | The Legend of Zelda: Oracle of Ages Randomizer | 242025 | [242025-the-legend-of-zelda-oracle-of-ages-randomizer.json](./242025-the-legend-of-zelda-oracle-of-ages-randomizer.json) |
 | The Legend of Zelda: Oracle of Life Online | 324095 | [324095-the-legend-of-zelda-oracle-of-life-online.json](./324095-the-legend-of-zelda-oracle-of-life-online.json) |
