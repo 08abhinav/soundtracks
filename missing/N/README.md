@@ -2008,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverwinter: Curse of Icewind Dale | 224450 | [224450-neverwinter-curse-of-icewind-dale.json](./224450-neverwinter-curse-of-icewind-dale.json) |
 | Neverwinter: Elemental Evil | 224465 | [224465-neverwinter-elemental-evil.json](./224465-neverwinter-elemental-evil.json) |
 | Neverwinter: Rise of Tiamat | 224462 | [224462-neverwinter-rise-of-tiamat.json](./224462-neverwinter-rise-of-tiamat.json) |
+| Neverwinter: Shadowmantle | 224164 | [224164-neverwinter-shadowmantle.json](./224164-neverwinter-shadowmantle.json) |
 | Neverwinter: Storm King's Thunder | 26867 | [26867-neverwinter-storm-kings-thunder.json](./26867-neverwinter-storm-kings-thunder.json) |
 | Neverwinter: Strongholds | 224466 | [224466-neverwinter-strongholds.json](./224466-neverwinter-strongholds.json) |
 | Neverwinter: The Cloaked Ascendancy | 224469 | [224469-neverwinter-the-cloaked-ascendancy.json](./224469-neverwinter-the-cloaked-ascendancy.json) |
