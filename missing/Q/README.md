@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quell Logic Collection | 15816 | [15816-quell-logic-collection.json](./15816-quell-logic-collection.json) |
 | Quemarropa | 402341 | [402341-quemarropa.json](./402341-quemarropa.json) |
 | Quench | 106138 | [106138-quench.json](./106138-quench.json) |
+| QuentBlast | 218666 | [218666-quentblast.json](./218666-quentblast.json) |
 | Quento | 90205 | [90205-quento.json](./90205-quento.json) |
 | Quern: Undying Thoughts | 26223 | [26223-quern-undying-thoughts.json](./26223-quern-undying-thoughts.json) |
 | Quest | 308451 | [308451-quest.json](./308451-quest.json) |
