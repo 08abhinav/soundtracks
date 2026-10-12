@@ -6963,6 +6963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Sitter Escape Game | 241290 | [241290-house-sitter-escape-game.json](./241290-house-sitter-escape-game.json) |
 | House spirit cat | 279768 | [279768-house-spirit-cat.json](./279768-house-spirit-cat.json) |
 | House Tidy | 384178 | [384178-house-tidy.json](./384178-house-tidy.json) |
+| House Tycoon: Spin slot machine | 221347 | [221347-house-tycoon-spin-slot-machine.json](./221347-house-tycoon-spin-slot-machine.json) |
 | House with Puzzles | 274762 | [274762-house-with-puzzles.json](./274762-house-with-puzzles.json) |
 | House Zero | 421391 | [421391-house-zero.json](./421391-house-zero.json) |
 | Household Budget Management | 42197 | [42197-household-budget-management.json](./42197-household-budget-management.json) |
