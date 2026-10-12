@@ -3576,6 +3576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the difference - Very difficult Images | 104725 | [104725-find-the-difference-very-difficult-images.json](./104725-find-the-difference-very-difficult-images.json) |
 | Find the Differences 3D | 348809 | [348809-find-the-differences-3d.json](./348809-find-the-differences-3d.json) |
 | Find the Differences Detective | 232174 | [232174-find-the-differences-detective.json](./232174-find-the-differences-detective.json) |
+| Find the exit | 180557 | [180557-find-the-exit.json](./180557-find-the-exit.json) |
 | Find the Four-Leaf Clover | 389055 | [389055-find-the-four-leaf-clover.json](./389055-find-the-four-leaf-clover.json) |
 | Find the Gnome | 96682 | [96682-find-the-gnome.json](./96682-find-the-gnome.json) |
 | Find the Gnome 2 | 197270 | [197270-find-the-gnome-2.json](./197270-find-the-gnome-2.json) |
