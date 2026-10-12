@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh Balls 2 | 103527 | [103527-oh-balls-2.json](./103527-oh-balls-2.json) |
 | Oh Boy Cheese | 106617 | [106617-oh-boy-cheese.json](./106617-oh-boy-cheese.json) |
 | Oh Boy Cheese Remastered | 341503 | [341503-oh-boy-cheese-remastered.json](./341503-oh-boy-cheese-remastered.json) |
+| Oh Boy More Cheese | 192642 | [192642-oh-boy-more-cheese.json](./192642-oh-boy-more-cheese.json) |
 | Oh Chute! | 292611 | [292611-oh-chute.json](./292611-oh-chute.json) |
 | Oh Crab! | 129573 | [129573-oh-crab.json](./129573-oh-crab.json) |
 | Oh Deer | 285913 | [285913-oh-deer.json](./285913-oh-deer.json) |
@@ -1153,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ominous Tales: The Forsaken Isle - Collector's Edition | 283839 | [283839-ominous-tales-the-forsaken-isle-collectors-edition.json](./283839-ominous-tales-the-forsaken-isle-collectors-edition.json) |
 | Ominous! | 135069 | [135069-ominous.json](./135069-ominous.json) |
 | Omise de Tensyu | 138249 | [138249-omise-de-tensyu.json](./138249-omise-de-tensyu.json) |
+| Omitted | 192611 | [192611-omitted.json](./192611-omitted.json) |
 | Omizu no Hanamichi | 257113 | [257113-omizu-no-hanamichi.json](./257113-omizu-no-hanamichi.json) |
 | Ommatophilia | 288833 | [288833-ommatophilia.json](./288833-ommatophilia.json) |
 | Omni | 118164 | [118164-omni.json](./118164-omni.json) |
@@ -3172,6 +3174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out Of Memories | 320933 | [320933-out-of-memories.json](./320933-out-of-memories.json) |
 | Out Of Mind | 287731 | [287731-out-of-mind.json](./287731-out-of-mind.json) |
 | Out of Moves: Another Try | 359985 | [359985-out-of-moves-another-try.json](./359985-out-of-moves-another-try.json) |
+| Out of Orbit | 192652 | [192652-out-of-orbit.json](./192652-out-of-orbit.json) |
 | Out of Order | 195783 | [195783-out-of-order.json](./195783-out-of-order.json) |
 | Out of Order | 73544 | [73544-out-of-order.json](./73544-out-of-order.json) |
 | Out of Order Zero | 377068 | [377068-out-of-order-zero.json](./377068-out-of-order-zero.json) |
