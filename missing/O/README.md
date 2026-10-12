@@ -3666,6 +3666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overshift | 196856 | [196856-overshift.json](./196856-overshift.json) |
 | Oversight | 148135 | [148135-oversight.json](./148135-oversight.json) |
 | Overslept | 141727 | [141727-overslept.json](./141727-overslept.json) |
+| Oversomnia | 202573 | [202573-oversomnia.json](./202573-oversomnia.json) |
 | OverSoul | 109067 | [109067-oversoul.json](./109067-oversoul.json) |
 | Overstars | 151286 | [151286-overstars.json](./151286-overstars.json) |
 | Overstimulacrum | 415461 | [415461-overstimulacrum.json](./415461-overstimulacrum.json) |
