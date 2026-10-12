@@ -1515,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neodarlo | 380655 | [380655-neodarlo.json](./380655-neodarlo.json) |
 | Neodash | 148497 | [148497-neodash.json](./148497-neodash.json) |
 | Neoditronix | 376666 | [376666-neoditronix.json](./376666-neoditronix.json) |
+| Neodori Forever | 202551 | [202551-neodori-forever.json](./202551-neodori-forever.json) |
 | Neodori Infinity | 330285 | [330285-neodori-infinity.json](./330285-neodori-infinity.json) |
 | NeoDuel: Backpack Monsters | 280123 | [280123-neoduel-backpack-monsters.json](./280123-neoduel-backpack-monsters.json) |
 | NeoFables | 330552 | [330552-neofables.json](./330552-neofables.json) |
@@ -2961,6 +2962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Game | 120416 | [120416-nightmare-game.json](./120416-nightmare-game.json) |
 | Nightmare Grotto | 34661 | [34661-nightmare-grotto.json](./34661-nightmare-grotto.json) |
 | Nightmare Halls | 335438 | [335438-nightmare-halls.json](./335438-nightmare-halls.json) |
+| Nightmare Harem | 202595 | [202595-nightmare-harem.json](./202595-nightmare-harem.json) |
 | Nightmare Hospital | 405728 | [405728-nightmare-hospital.json](./405728-nightmare-hospital.json) |
 | Nightmare House | 144610 | [144610-nightmare-house.json](./144610-nightmare-house.json) |
 | Nightmare House | 290474 | [290474-nightmare-house.json](./290474-nightmare-house.json) |
