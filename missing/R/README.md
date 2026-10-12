@@ -408,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiant Click | 373105 | [373105-radiant-click.json](./373105-radiant-click.json) |
 | Radiant Dawn | 176380 | [176380-radiant-dawn.json](./176380-radiant-dawn.json) |
 | Radiant Defense | 17442 | [17442-radiant-defense.json](./17442-radiant-defense.json) |
+| Radiant Devotion | 225812 | [225812-radiant-devotion.json](./225812-radiant-devotion.json) |
 | Radiant Exodus | 293741 | [293741-radiant-exodus.json](./293741-radiant-exodus.json) |
 | Radiant Flux: Hyperfractal 4.0 | 233009 | [233009-radiant-flux-hyperfractal-4-0.json](./233009-radiant-flux-hyperfractal-4-0.json) |
 | Radiant HD | 90793 | [90793-radiant-hd.json](./90793-radiant-hd.json) |
@@ -631,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rags to Riches | 81174 | [81174-rags-to-riches.json](./81174-rags-to-riches.json) |
 | Ragtag Heroes | 211765 | [211765-ragtag-heroes.json](./211765-ragtag-heroes.json) |
 | Ragtag Rescue | 183914 | [183914-ragtag-rescue.json](./183914-ragtag-rescue.json) |
+| Raguna and the Crystal of Miracles | 225801 | [225801-raguna-and-the-crystal-of-miracles.json](./225801-raguna-and-the-crystal-of-miracles.json) |
 | Rai-Net Access Battlers | 299721 | [299721-rai-net-access-battlers.json](./299721-rai-net-access-battlers.json) |
 | Raid | 170805 | [170805-raid.json](./170805-raid.json) |
 | Raid 2000 | 30955 | [30955-raid-2000.json](./30955-raid-2000.json) |
@@ -828,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Crown | 367471 | [367471-rainbow-crown.json](./367471-rainbow-crown.json) |
 | Rainbow Cult | 104125 | [104125-rainbow-cult.json](./104125-rainbow-cult.json) |
 | Rainbow Dash Tylenol | 213934 | [213934-rainbow-dash-tylenol.json](./213934-rainbow-dash-tylenol.json) |
+| Rainbow Dawn | 225809 | [225809-rainbow-dawn.json](./225809-rainbow-dawn.json) |
 | Rainbow Despair | 337444 | [337444-rainbow-despair.json](./337444-rainbow-despair.json) |
 | Rainbow Dreams | 115016 | [115016-rainbow-dreams.json](./115016-rainbow-dreams.json) |
 | Rainbow Duck | 51605 | [51605-rainbow-duck.json](./51605-rainbow-duck.json) |
@@ -841,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Hero | 35906 | [35906-rainbow-hero.json](./35906-rainbow-hero.json) |
 | Rainbow High: Runway Rush | 249255 | [249255-rainbow-high-runway-rush.json](./249255-rainbow-high-runway-rush.json) |
 | Rainbow Hills | 216742 | [216742-rainbow-hills.json](./216742-rainbow-hills.json) |
+| Rainbow Impostor Survivor 3D | 225782 | [225782-rainbow-impostor-survivor-3d.json](./225782-rainbow-impostor-survivor-3d.json) |
 | Rainbow Infinity | 232148 | [232148-rainbow-infinity.json](./232148-rainbow-infinity.json) |
 | Rainbow Invaders | 94958 | [94958-rainbow-invaders.json](./94958-rainbow-invaders.json) |
 | Rainbow Islands | 194445 | [194445-rainbow-islands.json](./194445-rainbow-islands.json) |
@@ -1933,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealFighter | 370887 | [370887-realfighter.json](./370887-realfighter.json) |
 | RealFlight 8 | 90068 | [90068-realflight-8.json](./90068-realflight-8.json) |
 | RealFlight 8 Horizon: Hobby Edition | 162745 | [162745-realflight-8-horizon-hobby-edition.json](./162745-realflight-8-horizon-hobby-edition.json) |
+| RealFlight Evolution | 225210 | [225210-realflight-evolution.json](./225210-realflight-evolution.json) |
 | RealFlight Evolution: 2024 Year Content Pass | 297729 | [297729-realflight-evolution-2024-year-content-pass.json](./297729-realflight-evolution-2024-year-content-pass.json) |
 | RealFlight Evolution: Blade Eclipse 360 | 311080 | [311080-realflight-evolution-blade-eclipse-360.json](./311080-realflight-evolution-blade-eclipse-360.json) |
 | RealFlight Evolution: E-flite Beechcraft D18 1.5m | 356713 | [356713-realflight-evolution-e-flite-beechcraft-d18-1-5m.json](./356713-realflight-evolution-e-flite-beechcraft-d18-1-5m.json) |
@@ -3107,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remembering Emily | 348865 | [348865-remembering-emily.json](./348865-remembering-emily.json) |
 | Remembering Which Buttons Take However Long to Press | 57713 | [57713-remembering-which-buttons-take-however-long-to-press.json](./57713-remembering-which-buttons-take-however-long-to-press.json) |
 | Remembrance | 181889 | [181889-remembrance.json](./181889-remembrance.json) |
+| Remembrance | 225793 | [225793-remembrance.json](./225793-remembrance.json) |
 | Remembrance | 82917 | [82917-remembrance.json](./82917-remembrance.json) |
 | Rememento: White Shadow | 371316 | [371316-rememento-white-shadow.json](./371316-rememento-white-shadow.json) |
 | Rememory | 126380 | [126380-rememory.json](./126380-rememory.json) |
@@ -3478,6 +3484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 2: Deluxe Edition | 110809 | [110809-resident-evil-2-deluxe-edition.json](./110809-resident-evil-2-deluxe-edition.json) |
 | Resident Evil 2: Dual Shock Ver. | 213875 | [213875-resident-evil-2-dual-shock-ver.json](./213875-resident-evil-2-dual-shock-ver.json) |
 | Resident Evil 2: Extra DLC Pack | 164773 | [164773-resident-evil-2-extra-dlc-pack.json](./164773-resident-evil-2-extra-dlc-pack.json) |
+| Resident Evil 2: Kendo's Cut | 225802 | [225802-resident-evil-2-kendos-cut.json](./225802-resident-evil-2-kendos-cut.json) |
 | Resident Evil 2: Marvin's Mod | 333762 | [333762-resident-evil-2-marvins-mod.json](./333762-resident-evil-2-marvins-mod.json) |
 | Resident Evil 2: Pix' N Love Limited Edition | 221404 | [221404-resident-evil-2-pix-n-love-limited-edition.json](./221404-resident-evil-2-pix-n-love-limited-edition.json) |
 | Resident Evil 2: Seamless HD Project | 322045 | [322045-resident-evil-2-seamless-hd-project.json](./322045-resident-evil-2-seamless-hd-project.json) |
@@ -5062,6 +5069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Lords | 106119 | [106119-rising-lords.json](./106119-rising-lords.json) |
 | Rising Mist | 191815 | [191815-rising-mist.json](./191815-rising-mist.json) |
 | Rising Noracam | 151649 | [151649-rising-noracam.json](./151649-rising-noracam.json) |
+| Rising of Ants | 225236 | [225236-rising-of-ants.json](./225236-rising-of-ants.json) |
 | Rising Snake | 123567 | [123567-rising-snake.json](./123567-rising-snake.json) |
 | Rising Spire | 152795 | [152795-rising-spire.json](./152795-rising-spire.json) |
 | Rising Spirit | 402350 | [402350-rising-spirit.json](./402350-rising-spirit.json) |
@@ -5350,6 +5358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Thrills | 74012 | [74012-road-thrills.json](./74012-road-thrills.json) |
 | Road to Adventure! | 143747 | [143747-road-to-adventure.json](./143747-road-to-adventure.json) |
 | Road to Beta | 86114 | [86114-road-to-beta.json](./86114-road-to-beta.json) |
+| Road to Devadatta | 225198 | [225198-road-to-devadatta.json](./225198-road-to-devadatta.json) |
 | Road to Eden | 106101 | [106101-road-to-eden.json](./106101-road-to-eden.json) |
 | Road to Empress II | 403017 | [403017-road-to-empress-ii.json](./403017-road-to-empress-ii.json) |
 | Road to Exotics! | 275337 | [275337-road-to-exotics.json](./275337-road-to-exotics.json) |
@@ -5459,6 +5468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robbery Bob: Man of Steal | 35166 | [35166-robbery-bob-man-of-steal.json](./35166-robbery-bob-man-of-steal.json) |
 | Robbery Day | 334206 | [334206-robbery-day.json](./334206-robbery-day.json) |
 | Robbery Madness: Thief Games | 219782 | [219782-robbery-madness-thief-games.json](./219782-robbery-madness-thief-games.json) |
+| Robbie | 225218 | [225218-robbie.json](./225218-robbie.json) |
 | Robbie Swifthand and the Orb of Mysteries | 76404 | [76404-robbie-swifthand-and-the-orb-of-mysteries.json](./76404-robbie-swifthand-and-the-orb-of-mysteries.json) |
 | Robbie's Tale | 236890 | [236890-robbies-tale.json](./236890-robbies-tale.json) |
 | Robbo | 60071 | [60071-robbo.json](./60071-robbo.json) |
@@ -5735,6 +5745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotics;Notes | 7162 | [7162-robotics-notes.json](./7162-robotics-notes.json) |
 | Robotics;Notes Double Pack | 132650 | [132650-robotics-notes-double-pack.json](./132650-robotics-notes-double-pack.json) |
 | Robotics! | 362170 | [362170-robotics.json](./362170-robotics.json) |
+| Robotization: A Last Human | 225223 | [225223-robotization-a-last-human.json](./225223-robotization-a-last-human.json) |
 | Roboto | 232573 | [232573-roboto.json](./232573-roboto.json) |
 | Roboto | 384788 | [384788-roboto.json](./384788-roboto.json) |
 | Robotragedy | 171546 | [171546-robotragedy.json](./171546-robotragedy.json) |
