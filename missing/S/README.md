@@ -10946,7 +10946,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs2See Game | 90553 | [90553-songs2see-game.json](./90553-songs2see-game.json) |
 | Songtail: Whiskers of Destiny | 389740 | [389740-songtail-whiskers-of-destiny.json](./389740-songtail-whiskers-of-destiny.json) |
 | Sonia no Daibouken: Mittsu no Hihou no Kakusareta Nazo! | 279509 | [279509-sonia-no-daibouken-mittsu-no-hihou-no-kakusareta-nazo.json](./279509-sonia-no-daibouken-mittsu-no-hihou-no-kakusareta-nazo.json) |
-| Sonic & All-Stars Racing Transformed | 2174 | [2174-sonic-and-all-stars-racing-transformed.json](./2174-sonic-and-all-stars-racing-transformed.json) |
 | Sonic & Bean in Eggland | 322592 | [322592-sonic-and-bean-in-eggland.json](./322592-sonic-and-bean-in-eggland.json) |
 | Sonic & Blaze | 266506 | [266506-sonic-and-blaze.json](./266506-sonic-and-blaze.json) |
 | Sonic & Friends | 324960 | [324960-sonic-and-friends.json](./324960-sonic-and-friends.json) |
@@ -11202,7 +11201,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Headway | 331713 | [331713-sonic-headway.json](./331713-sonic-headway.json) |
 | Sonic Heardle | 198251 | [198251-sonic-heardle.json](./198251-sonic-heardle.json) |
 | Sonic Hearts | 261273 | [261273-sonic-hearts.json](./261273-sonic-hearts.json) |
-| Sonic Heroes | 4156 | [4156-sonic-heroes.json](./4156-sonic-heroes.json) |
 | Sonic Heroes Chao | 331379 | [331379-sonic-heroes-chao.json](./331379-sonic-heroes-chao.json) |
 | Sonic Heroes Competition | 300517 | [300517-sonic-heroes-competition.json](./300517-sonic-heroes-competition.json) |
 | Sonic Heroes Puzzle | 273988 | [273988-sonic-heroes-puzzle.json](./273988-sonic-heroes-puzzle.json) |
