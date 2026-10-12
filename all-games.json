@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T21:15:58.583Z",
-  "total_soundtracks": 1564,
+  "generated_at": "2026-10-12T21:16:14.686Z",
+  "total_soundtracks": 1565,
   "games": [
     {
       "igdb_id": 7522,
@@ -17942,6 +17942,20 @@
           "album_name": "XCOM 2 (Original Soundtrack from the Video Game)",
           "spotify_url": "https://open.spotify.com/album/0Ghjope2CU9IqdmCZTCNgn",
           "apple_music_url": "https://music.apple.com/us/album/xcom-2-original-soundtrack-from-the-video-game/1077916402",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 37060,
+      "game_name": "XCOM 2: War of the Chosen",
+      "game_url": "https://ostdb.net/games/xcom-2-war-of-the-chosen",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733dede27e18e54a36d450d998",
+      "albums": [
+        {
+          "album_name": "XCOM 2: War of the Chosen (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0LmDZLcFB4RgidtJ54xBgF",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
