@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ka-50 Hokum | 94959 | [94959-ka-50-hokum.json](./94959-ka-50-hokum.json) |
 | Ka-52 Team Alligator | 78646 | [78646-ka-52-team-alligator.json](./78646-ka-52-team-alligator.json) |
 | Ka-Blooey | 42660 | [42660-ka-blooey.json](./42660-ka-blooey.json) |
+| Ka: Keepers & Assassins | 211975 | [211975-ka-keepers-and-assassins.json](./211975-ka-keepers-and-assassins.json) |
 | Ka'Roo | 79382 | [79382-karoo.json](./79382-karoo.json) |
 | Kaal Yoddha | 332445 | [332445-kaal-yoddha.json](./332445-kaal-yoddha.json) |
 | Kaamos | 322683 | [322683-kaamos.json](./322683-kaamos.json) |
