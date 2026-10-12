@@ -5551,6 +5551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dragon Sword | 231458 | [231458-the-dragon-sword.json](./231458-the-dragon-sword.json) |
 | The Dragon, Thyme | 280779 | [280779-the-dragon-thyme.json](./280779-the-dragon-thyme.json) |
 | The Dragon's Intern | 312642 | [312642-the-dragons-intern.json](./312642-the-dragons-intern.json) |
+| The Dragon's Prize | 180518 | [180518-the-dragons-prize.json](./180518-the-dragons-prize.json) |
 | The Dragon's Turnabout | 303025 | [303025-the-dragons-turnabout.json](./303025-the-dragons-turnabout.json) |
 | The Dragoness: Command of the Flame | 211984 | [211984-the-dragoness-command-of-the-flame.json](./211984-the-dragoness-command-of-the-flame.json) |
 | The Dragonspire | 306087 | [306087-the-dragonspire.json](./306087-the-dragonspire.json) |
@@ -13354,6 +13355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Mirror | 30731 | [30731-through-the-mirror.json](./30731-through-the-mirror.json) |
 | Through the Mist and Sky | 102179 | [102179-through-the-mist-and-sky.json](./102179-through-the-mist-and-sky.json) |
 | Through the Nest | 374131 | [374131-through-the-nest.json](./374131-through-the-nest.json) |
+| Through the Panels | 180528 | [180528-through-the-panels.json](./180528-through-the-panels.json) |
 | Through the Tomb | 102957 | [102957-through-the-tomb.json](./102957-through-the-tomb.json) |
 | Through the Trap Door | 54718 | [54718-through-the-trap-door.json](./54718-through-the-trap-door.json) |
 | Through the Veil | 319291 | [319291-through-the-veil.json](./319291-through-the-veil.json) |
@@ -19292,6 +19294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap Again | 356885 | [356885-trap-again.json](./356885-trap-again.json) |
 | Trap and Turn | 210640 | [210640-trap-and-turn.json](./210640-trap-and-turn.json) |
 | Trap Attack | 257107 | [257107-trap-attack.json](./257107-trap-attack.json) |
+| Trap Ball | 180558 | [180558-trap-ball.json](./180558-trap-ball.json) |
 | Trap Defense | 102174 | [102174-trap-defense.json](./102174-trap-defense.json) |
 | Trap for the Heir | 287724 | [287724-trap-for-the-heir.json](./287724-trap-for-the-heir.json) |
 | Trap for Winners | 115687 | [115687-trap-for-winners.json](./115687-trap-for-winners.json) |
@@ -21250,6 +21253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Mind: The Deathly Trick | 416169 | [416169-twin-mind-the-deathly-trick.json](./416169-twin-mind-the-deathly-trick.json) |
 | Twin Mind: The Deathly Trick - Collector's Edition | 337223 | [337223-twin-mind-the-deathly-trick-collectors-edition.json](./337223-twin-mind-the-deathly-trick-collectors-edition.json) |
 | Twin Moons | 88303 | [88303-twin-moons.json](./88303-twin-moons.json) |
+| Twin Odyssey | 180519 | [180519-twin-odyssey.json](./180519-twin-odyssey.json) |
 | Twin Peaks | 199028 | [199028-twin-peaks.json](./199028-twin-peaks.json) |
 | Twin Peaks VR | 110584 | [110584-twin-peaks-vr.json](./110584-twin-peaks-vr.json) |
 | Twin Robots: Ultimate Edition | 86236 | [86236-twin-robots-ultimate-edition.json](./86236-twin-robots-ultimate-edition.json) |
