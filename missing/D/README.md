@@ -8194,6 +8194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Hex | 21475 | [21475-doodle-hex.json](./21475-doodle-hex.json) |
 | Doodle Hunt: Halloween Rush | 320331 | [320331-doodle-hunt-halloween-rush.json](./320331-doodle-hunt-halloween-rush.json) |
 | Doodle Jamboree | 54451 | [54451-doodle-jamboree.json](./54451-doodle-jamboree.json) |
+| Doodle Jump 2 | 186583 | [186583-doodle-jump-2.json](./186583-doodle-jump-2.json) |
 | Doodle Jump Adventures | 59204 | [59204-doodle-jump-adventures.json](./59204-doodle-jump-adventures.json) |
 | Doodle Jump HD | 90809 | [90809-doodle-jump-hd.json](./90809-doodle-jump-hd.json) |
 | Doodle Jump HD: Insanely Good! | 104106 | [104106-doodle-jump-hd-insanely-good.json](./104106-doodle-jump-hd-insanely-good.json) |
