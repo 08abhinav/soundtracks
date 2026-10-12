@@ -1281,6 +1281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradize Project | 208418 | [208418-paradize-project.json](./208418-paradize-project.json) |
 | Paradox | 164872 | [164872-paradox.json](./164872-paradox.json) |
 | Paradox Error | 152161 | [152161-paradox-error.json](./152161-paradox-error.json) |
+| Paradox Factor | 197059 | [197059-paradox-factor.json](./197059-paradox-factor.json) |
 | Paradox Guardians | 277361 | [277361-paradox-guardians.json](./277361-paradox-guardians.json) |
 | Paradox Lost | 330161 | [330161-paradox-lost.json](./330161-paradox-lost.json) |
 | Paradox Metal | 264142 | [264142-paradox-metal.json](./264142-paradox-metal.json) |
@@ -4684,6 +4685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pingdom | 289241 | [289241-pingdom.json](./289241-pingdom.json) |
 | Pinging | 255976 | [255976-pinging.json](./255976-pinging.json) |
 | Pingo Puzzle Poker | 51167 | [51167-pingo-puzzle-poker.json](./51167-pingo-puzzle-poker.json) |
+| Pingo's Revenge | 197076 | [197076-pingos-revenge.json](./197076-pingos-revenge.json) |
 | Pingolf | 318601 | [318601-pingolf.json](./318601-pingolf.json) |
 | Pingpon | 243174 | [243174-pingpon.json](./243174-pingpon.json) |
 | PingPong Kings VR | 89256 | [89256-pingpong-kings-vr.json](./89256-pingpong-kings-vr.json) |
@@ -10544,6 +10546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proteus | 2163 | [2163-proteus.json](./2163-proteus.json) |
 | Proteus Zone | 355111 | [355111-proteus-zone.json](./355111-proteus-zone.json) |
 | Protium | 68351 | [68351-protium.json](./68351-protium.json) |
+| Proto Akane | 197088 | [197088-proto-akane.json](./197088-proto-akane.json) |
 | Proto Mecha Game | 363906 | [363906-proto-mecha-game.json](./363906-proto-mecha-game.json) |
 | Proto Raider | 34889 | [34889-proto-raider.json](./34889-proto-raider.json) |
 | Proto Zero | 406152 | [406152-proto-zero.json](./406152-proto-zero.json) |
