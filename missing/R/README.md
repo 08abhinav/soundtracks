@@ -2406,6 +2406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Bull Air Race 2 | 100165 | [100165-red-bull-air-race-2.json](./100165-red-bull-air-race-2.json) |
 | Red Bull Crashed Ice Kinect | 20237 | [20237-red-bull-crashed-ice-kinect.json](./20237-red-bull-crashed-ice-kinect.json) |
 | Red Bull Free Skiing | 86820 | [86820-red-bull-free-skiing.json](./86820-red-bull-free-skiing.json) |
+| Red Bull MotoCross 2D | 198136 | [198136-red-bull-motocross-2d.json](./198136-red-bull-motocross-2d.json) |
 | Red Bull X-Fighters | 20629 | [20629-red-bull-x-fighters.json](./20629-red-bull-x-fighters.json) |
 | Red Bull: Soapbox Racers | 336920 | [336920-red-bull-soapbox-racers.json](./336920-red-bull-soapbox-racers.json) |
 | Red Cap Squad: Zombie Source | 339924 | [339924-red-cap-squad-zombie-source.json](./339924-red-cap-squad-zombie-source.json) |
@@ -4418,6 +4419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ribbit | 213366 | [213366-ribbit.json](./213366-ribbit.json) |
 | Ribbit Channel | 301895 | [301895-ribbit-channel.json](./301895-ribbit-channel.json) |
 | Ribbit Jump | 400368 | [400368-ribbit-jump.json](./400368-ribbit-jump.json) |
+| Ribbit Rabbit | 198166 | [198166-ribbit-rabbit.json](./198166-ribbit-rabbit.json) |
 | Ribbit Rampage | 305331 | [305331-ribbit-rampage.json](./305331-ribbit-rampage.json) |
 | Ribbit Rogue | 320841 | [320841-ribbit-rogue.json](./320841-ribbit-rogue.json) |
 | Ribbit Up: Frog Climber | 348989 | [348989-ribbit-up-frog-climber.json](./348989-ribbit-up-frog-climber.json) |
@@ -6365,6 +6367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Defense | 305934 | [305934-rogue-defense.json](./305934-rogue-defense.json) |
 | Rogue Dice | 217027 | [217027-rogue-dice.json](./217027-rogue-dice.json) |
 | Rogue Doodle | 395195 | [395195-rogue-doodle.json](./395195-rogue-doodle.json) |
+| Rogue Door Defense | 198153 | [198153-rogue-door-defense.json](./198153-rogue-door-defense.json) |
 | Rogue Drone | 107163 | [107163-rogue-drone.json](./107163-rogue-drone.json) |
 | Rogue Drone Hunter | 337759 | [337759-rogue-drone-hunter.json](./337759-rogue-drone-hunter.json) |
 | Rogue Dungeon | 188515 | [188515-rogue-dungeon.json](./188515-rogue-dungeon.json) |
