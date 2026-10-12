@@ -387,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damatte Watashi no Muko ni Nare! Reona After | 60370 | [60370-damatte-watashi-no-muko-ni-nare-reona-after.json](./60370-damatte-watashi-no-muko-ni-nare-reona-after.json) |
 | DamCell: Princess Run | 175299 | [175299-damcell-princess-run.json](./175299-damcell-princess-run.json) |
 | Dame Tu Cosita | 334917 | [334917-dame-tu-cosita.json](./334917-dame-tu-cosita.json) |
+| Dami & Flo | 179461 | [179461-dami-and-flo.json](./179461-dami-and-flo.json) |
 | Damien: The Game | 239538 | [239538-damien-the-game.json](./239538-damien-the-game.json) |
 | Damn Daniel: Basket Game | 252818 | [252818-damn-daniel-basket-game.json](./252818-damn-daniel-basket-game.json) |
 | Damn Daniel: White Vans Adventure | 201236 | [201236-damn-daniel-white-vans-adventure.json](./201236-damn-daniel-white-vans-adventure.json) |
@@ -1448,6 +1449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darth Vader Tamagotchi | 329787 | [329787-darth-vader-tamagotchi.json](./329787-darth-vader-tamagotchi.json) |
 | Darthy | 34374 | [34374-darthy.json](./34374-darthy.json) |
 | DartMUD: Lands of Ferdarchi | 349935 | [349935-dartmud-lands-of-ferdarchi.json](./349935-dartmud-lands-of-ferdarchi.json) |
+| Dartoster | 179459 | [179459-dartoster.json](./179459-dartoster.json) |
 | Darts | 159273 | [159273-darts.json](./159273-darts.json) |
 | Darts | 358830 | [358830-darts.json](./358830-darts.json) |
 | Darts and Friends | 96627 | [96627-darts-and-friends.json](./96627-darts-and-friends.json) |
@@ -1478,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Das Boot: German U-Boat Simulation | 14332 | [14332-das-boot-german-u-boat-simulation.json](./14332-das-boot-german-u-boat-simulation.json) |
 | Das Erbe | 86037 | [86037-das-erbe.json](./86037-das-erbe.json) |
 | Das Geheimnis der Ägyptischen Mumie | 92285 | [92285-das-geheimnis-der-agyptischen-mumie.json](./92285-das-geheimnis-der-agyptischen-mumie.json) |
+| Das Geisterschiff Remixed | 179421 | [179421-das-geisterschiff-remixed.json](./179421-das-geisterschiff-remixed.json) |
 | Das Magische Labyrinth | 301499 | [301499-das-magische-labyrinth.json](./301499-das-magische-labyrinth.json) |
 | Das Milliarden-Quiz | 94533 | [94533-das-milliarden-quiz.json](./94533-das-milliarden-quiz.json) |
 | Das neue Dr. Brain Gehirn Jogging | 91613 | [91613-das-neue-dr-brain-gehirn-jogging.json](./91613-das-neue-dr-brain-gehirn-jogging.json) |
@@ -1521,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashbot Ninja | 126375 | [126375-dashbot-ninja.json](./126375-dashbot-ninja.json) |
 | Dashbounce | 264801 | [264801-dashbounce.json](./264801-dashbounce.json) |
 | Dasher | 158205 | [158205-dasher.json](./158205-dasher.json) |
+| Dasher 3D | 179423 | [179423-dasher-3d.json](./179423-dasher-3d.json) |
 | Dashes & Squares | 272377 | [272377-dashes-and-squares.json](./272377-dashes-and-squares.json) |
 | DashFire | 339367 | [339367-dashfire.json](./339367-dashfire.json) |
 | Dashgunner 0 | 258906 | [258906-dashgunner-0.json](./258906-dashgunner-0.json) |
@@ -4347,6 +4351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Der Zorn Gottes | 308241 | [308241-der-zorn-gottes.json](./308241-der-zorn-gottes.json) |
 | Derace | 393602 | [393602-derace.json](./393602-derace.json) |
 | Derail: Sacrifice | 351057 | [351057-derail-sacrifice.json](./351057-derail-sacrifice.json) |
+| DeRailed | 179438 | [179438-derailed.json](./179438-derailed.json) |
 | Derange | 129099 | [129099-derange.json](./129099-derange.json) |
 | Deranged Rabbits | 33389 | [33389-deranged-rabbits.json](./33389-deranged-rabbits.json) |
 | Derby Baseball | 256712 | [256712-derby-baseball.json](./256712-derby-baseball.json) |
