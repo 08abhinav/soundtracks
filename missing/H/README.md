@@ -5036,6 +5036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hipatya in I wanna world | 307896 | [307896-hipatya-in-i-wanna-world.json](./307896-hipatya-in-i-wanna-world.json) |
 | Hiper Tronic | 72146 | [72146-hiper-tronic.json](./72146-hiper-tronic.json) |
 | HiPet! | 390582 | [390582-hipet.json](./390582-hipet.json) |
+| Hippari-nya! | 222466 | [222466-hippari-nya.json](./222466-hippari-nya.json) |
 | Hippo | 79822 | [79822-hippo.json](./79822-hippo.json) |
 | Hippo Doctor: Hospital Laboratory | 105946 | [105946-hippo-doctor-hospital-laboratory.json](./105946-hippo-doctor-hospital-laboratory.json) |
 | Hippo Eating Banana | 220835 | [220835-hippo-eating-banana.json](./220835-hippo-eating-banana.json) |
