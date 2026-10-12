@@ -4419,3 +4419,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Izuna 2: The Unemployed Ninja Returns | 21345 | [21345-izuna-2-the-unemployed-ninja-returns.json](./21345-izuna-2-the-unemployed-ninja-returns.json) |
 | Izuna: Legend of the Unemployed Ninja | 20671 | [20671-izuna-legend-of-the-unemployed-ninja.json](./20671-izuna-legend-of-the-unemployed-ninja.json) |
 | Izurana's Walk | 357248 | [357248-izuranas-walk.json](./357248-izuranas-walk.json) |
+| Izzy's Adventure | 221928 | [221928-izzys-adventure.json](./221928-izzys-adventure.json) |
