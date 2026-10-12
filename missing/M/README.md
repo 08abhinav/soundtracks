@@ -1947,6 +1947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mangchi | 39591 | [39591-mangchi.json](./39591-mangchi.json) |
 | Mangchi the Hammer Boy | 240178 | [240178-mangchi-the-hammer-boy.json](./240178-mangchi-the-hammer-boy.json) |
 | Mangetsu no Yume | 282512 | [282512-mangetsu-no-yume.json](./282512-mangetsu-no-yume.json) |
+| Manglepaw | 199307 | [199307-manglepaw.json](./199307-manglepaw.json) |
 | Mango | 393833 | [393833-mango.json](./393833-mango.json) |
 | Mango 64 | 296972 | [296972-mango-64.json](./296972-mango-64.json) |
 | Mango Goes to Mewsic School | 292256 | [292256-mango-goes-to-mewsic-school.json](./292256-mango-goes-to-mewsic-school.json) |
@@ -2899,6 +2900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marshmallows On Halloween | 272747 | [272747-marshmallows-on-halloween.json](./272747-marshmallows-on-halloween.json) |
 | Marshmellow Day Spa | 114153 | [114153-marshmellow-day-spa.json](./114153-marshmellow-day-spa.json) |
 | Marsi's Adventures | 228375 | [228375-marsis-adventures.json](./228375-marsis-adventures.json) |
+| Marsmare: Alienation | 199341 | [199341-marsmare-alienation.json](./199341-marsmare-alienation.json) |
 | Marsport | 45327 | [45327-marsport.json](./45327-marsport.json) |
 | Marsupilami | 18142 | [18142-marsupilami.json](./18142-marsupilami.json) |
 | Marsupilami: Hoobadventure - Tropical Edition | 152337 | [152337-marsupilami-hoobadventure-tropical-edition.json](./152337-marsupilami-hoobadventure-tropical-edition.json) |
@@ -11538,6 +11540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mount Hua | 378574 | [378574-mount-hua.json](./378574-mount-hua.json) |
 | Mount Lomyst | 369112 | [369112-mount-lomyst.json](./369112-mount-lomyst.json) |
 | Mount Wingsuit | 32082 | [32082-mount-wingsuit.json](./32082-mount-wingsuit.json) |
+| Mount Wingsuit 2 | 199301 | [199301-mount-wingsuit-2.json](./199301-mount-wingsuit-2.json) |
 | Mount Your Friends | 15916 | [15916-mount-your-friends.json](./15916-mount-your-friends.json) |
 | Mountain 78 | 338212 | [338212-mountain-78.json](./338212-mountain-78.json) |
 | Mountain Bicycle Rider Simulator | 264779 | [264779-mountain-bicycle-rider-simulator.json](./264779-mountain-bicycle-rider-simulator.json) |
