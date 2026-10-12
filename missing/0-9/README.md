@@ -1605,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4185113 | 212755 | [212755-4185113.json](./212755-4185113.json) |
 | 419 | 389733 | [389733-419.json](./389733-419.json) |
 | 41m | 234073 | [234073-41m.json](./234073-41m.json) |
+| 42 Ways to Die in Space | 199346 | [199346-42-ways-to-die-in-space.json](./199346-42-ways-to-die-in-space.json) |
 | 420 Button Clicker | 124689 | [124689-420-button-clicker.json](./124689-420-button-clicker.json) |
 | 42nd Street | 84338 | [84338-42nd-street.json](./84338-42nd-street.json) |
 | 44 Hidden Naomis | 353323 | [353323-44-hidden-naomis.json](./353323-44-hidden-naomis.json) |
