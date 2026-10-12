@@ -1056,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertical Dash | 59438 | [59438-vertical-dash.json](./59438-vertical-dash.json) |
 | Vertical Fall | 111860 | [111860-vertical-fall.json](./111860-vertical-fall.json) |
 | Vertical Golf | 197654 | [197654-vertical-golf.json](./197654-vertical-golf.json) |
+| Vertical Kingdom | 202602 | [202602-vertical-kingdom.json](./202602-vertical-kingdom.json) |
 | Vertical Quest | 249209 | [249209-vertical-quest.json](./249209-vertical-quest.json) |
 | Vertical Ramp Impossible 3D | 100894 | [100894-vertical-ramp-impossible-3d.json](./100894-vertical-ramp-impossible-3d.json) |
 | Vertical Runner | 388329 | [388329-vertical-runner.json](./388329-vertical-runner.json) |
