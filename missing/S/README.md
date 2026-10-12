@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctus | 235775 | [235775-sanctus.json](./235775-sanctus.json) |
 | Sanctus Mortem | 102912 | [102912-sanctus-mortem.json](./102912-sanctus-mortem.json) |
 | Sand and Rust | 124582 | [124582-sand-and-rust.json](./124582-sand-and-rust.json) |
+| Sand Castle | 192617 | [192617-sand-castle.json](./192617-sand-castle.json) |
 | Sand Castles | 161387 | [161387-sand-castles.json](./161387-sand-castles.json) |
 | Sand In a Box | 306434 | [306434-sand-in-a-box.json](./306434-sand-in-a-box.json) |
 | Sand Land: Custom Vehicle Colors - 3 Types | 311735 | [311735-sand-land-custom-vehicle-colors-3-types.json](./311735-sand-land-custom-vehicle-colors-3-types.json) |
@@ -3114,6 +3115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SeedHero | 342709 | [342709-seedhero.json](./342709-seedhero.json) |
 | Seeding The Wasteland | 406735 | [406735-seeding-the-wasteland.json](./406735-seeding-the-wasteland.json) |
 | Seedling | 62421 | [62421-seedling.json](./62421-seedling.json) |
+| Seedlings | 192625 | [192625-seedlings.json](./192625-seedlings.json) |
 | Seeds | 337669 | [337669-seeds.json](./337669-seeds.json) |
 | Seeds Life | 25756 | [25756-seeds-life.json](./25756-seeds-life.json) |
 | Seeds of Calamity | 194561 | [194561-seeds-of-calamity.json](./194561-seeds-of-calamity.json) |
@@ -7924,6 +7926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull's Impossible Quest | 143376 | [143376-skulls-impossible-quest.json](./143376-skulls-impossible-quest.json) |
 | Skull8 | 362873 | [362873-skull8.json](./362873-skull8.json) |
 | SkullBall | 412892 | [412892-skullball.json](./412892-skullball.json) |
+| Skullborn | 192615 | [192615-skullborn.json](./192615-skullborn.json) |
 | Skullbreaker | 370341 | [370341-skullbreaker.json](./370341-skullbreaker.json) |
 | Skullchef | 408786 | [408786-skullchef.json](./408786-skullchef.json) |
 | Skulldash | 142377 | [142377-skulldash.json](./142377-skulldash.json) |
@@ -8817,6 +8820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sliptime Sleuth | 132698 | [132698-sliptime-sleuth.json](./132698-sliptime-sleuth.json) |
 | Slipuzzle | 175225 | [175225-slipuzzle.json](./175225-slipuzzle.json) |
 | Slipways | 176372 | [176372-slipways.json](./176372-slipways.json) |
+| Slit Mouthed | 192654 | [192654-slit-mouthed.json](./192654-slit-mouthed.json) |
 | Slit Your Wrists! | 234729 | [234729-slit-your-wrists.json](./234729-slit-your-wrists.json) |
 | Slither Realm | 388946 | [388946-slither-realm.json](./388946-slither-realm.json) |
 | Slither Snake IO 2018 | 101372 | [101372-slither-snake-io-2018.json](./101372-slither-snake-io-2018.json) |
@@ -15512,6 +15516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star of Lemutia: Reborn | 126419 | [126419-star-of-lemutia-reborn.json](./126419-star-of-lemutia-reborn.json) |
 | Star of Providence: Into Oblivion | 358816 | [358816-star-of-providence-into-oblivion.json](./358816-star-of-providence-into-oblivion.json) |
 | Star of Providence: Relics of the Past | 145647 | [145647-star-of-providence-relics-of-the-past.json](./145647-star-of-providence-relics-of-the-past.json) |
+| Star of the Show | 192624 | [192624-star-of-the-show.json](./192624-star-of-the-show.json) |
 | Star Overdrive | 314935 | [314935-star-overdrive.json](./314935-star-overdrive.json) |
 | Star Paws | 47175 | [47175-star-paws.json](./47175-star-paws.json) |
 | Star Phantom | 136240 | [136240-star-phantom.json](./136240-star-phantom.json) |
@@ -16652,6 +16657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Sane | 294253 | [294253-stay-sane.json](./294253-stay-sane.json) |
 | Stay Tooned! | 13786 | [13786-stay-tooned.json](./13786-stay-tooned.json) |
 | Stay With Him | 415505 | [415505-stay-with-him.json](./415505-stay-with-him.json) |
+| Stay with Me!: An Alien Abduction Story | 192638 | [192638-stay-with-me-an-alien-abduction-story.json](./192638-stay-with-me-an-alien-abduction-story.json) |
 | Stay Woke Etheral Edition | 75499 | [75499-stay-woke-etheral-edition.json](./75499-stay-woke-etheral-edition.json) |
 | Stay: Ember's Desktop Adventures | 411078 | [411078-stay-embers-desktop-adventures.json](./411078-stay-embers-desktop-adventures.json) |
 | Stay? | 184073 | [184073-stay.json](./184073-stay.json) |
