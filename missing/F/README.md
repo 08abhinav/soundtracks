@@ -832,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Down | 256364 | [256364-falling-down.json](./256364-falling-down.json) |
 | Falling Down XR | 269013 | [269013-falling-down-xr.json](./269013-falling-down-xr.json) |
 | Falling Duke Nukem | 369758 | [369758-falling-duke-nukem.json](./369758-falling-duke-nukem.json) |
+| Falling Elevator | 201486 | [201486-falling-elevator.json](./201486-falling-elevator.json) |
 | Falling Flower | 340055 | [340055-falling-flower.json](./340055-falling-flower.json) |
 | Falling for Beans | 275539 | [275539-falling-for-beans.json](./275539-falling-for-beans.json) |
 | Falling for Yaoguais | 333569 | [333569-falling-for-yaoguais.json](./333569-falling-for-yaoguais.json) |
@@ -2569,6 +2570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fest Guests | 302389 | [302389-fest-guests.json](./302389-fest-guests.json) |
 | Festa!! Hyper Girls Party | 326637 | [326637-festa-hyper-girls-party.json](./326637-festa-hyper-girls-party.json) |
 | Fester's Quest | 5343 | [5343-festers-quest.json](./5343-festers-quest.json) |
+| Festival | 201493 | [201493-festival.json](./201493-festival.json) |
 | Festival Days Sim Date | 198243 | [198243-festival-days-sim-date.json](./198243-festival-days-sim-date.json) |
 | Festival Journey: Highland Dreams - Collector's Edition | 386869 | [386869-festival-journey-highland-dreams-collectors-edition.json](./386869-festival-journey-highland-dreams-collectors-edition.json) |
 | Festival Journey: Secrets of Rio - Collector's Edition | 416786 | [416786-festival-journey-secrets-of-rio-collectors-edition.json](./416786-festival-journey-secrets-of-rio-collectors-edition.json) |
@@ -6111,6 +6113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forebears | 211934 | [211934-forebears.json](./211934-forebears.json) |
 | Forecast Death | 382758 | [382758-forecast-death.json](./382758-forecast-death.json) |
 | Foreclosed | 134579 | [134579-foreclosed.json](./134579-foreclosed.json) |
+| Foreclosure Simulator | 201502 | [201502-foreclosure-simulator.json](./201502-foreclosure-simulator.json) |
 | Foregone | 116484 | [116484-foregone.json](./116484-foregone.json) |
 | Forehead Chip | 257939 | [257939-forehead-chip.json](./257939-forehead-chip.json) |
 | Foreign Affairs | 313850 | [313850-foreign-affairs.json](./313850-foreign-affairs.json) |
