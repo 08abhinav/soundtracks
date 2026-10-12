@@ -2646,6 +2646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deal or No Deal: Secret Vault Games | 209006 | [209006-deal-or-no-deal-secret-vault-games.json](./209006-deal-or-no-deal-secret-vault-games.json) |
 | Deal or No Deal: Special Edition | 51036 | [51036-deal-or-no-deal-special-edition.json](./51036-deal-or-no-deal-special-edition.json) |
 | Deal or No Deal: The Banker is Back | 70636 | [70636-deal-or-no-deal-the-banker-is-back.json](./70636-deal-or-no-deal-the-banker-is-back.json) |
+| Deal or No Deal: The Interactive DVD Game Show | 218082 | [218082-deal-or-no-deal-the-interactive-dvd-game-show.json](./218082-deal-or-no-deal-the-interactive-dvd-game-show.json) |
 | Deal or No Deal: Vegas Gold | 66428 | [66428-deal-or-no-deal-vegas-gold.json](./66428-deal-or-no-deal-vegas-gold.json) |
 | Deal With the Devil Chapter: 2 - From Tuonela to Hell | 350487 | [350487-deal-with-the-devil-chapter-2-from-tuonela-to-hell.json](./350487-deal-with-the-devil-chapter-2-from-tuonela-to-hell.json) |
 | Dealer's Choice Collection | 73513 | [73513-dealers-choice-collection.json](./73513-dealers-choice-collection.json) |
@@ -8221,6 +8222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom II: Hell on Earth | 202120 | [202120-doom-ii-hell-on-earth.json](./202120-doom-ii-hell-on-earth.json) |
 | Doom II: Japanese Community Project | 140048 | [140048-doom-ii-japanese-community-project.json](./140048-doom-ii-japanese-community-project.json) |
 | Doom II: Onna Shinkan Companion | 202835 | [202835-doom-ii-onna-shinkan-companion.json](./202835-doom-ii-onna-shinkan-companion.json) |
+| Doom II: The Cube | 218052 | [218052-doom-ii-the-cube.json](./218052-doom-ii-the-cube.json) |
 | Doom II: The Sentinel's Lexicon | 202838 | [202838-doom-ii-the-sentinels-lexicon.json](./202838-doom-ii-the-sentinels-lexicon.json) |
 | Doom III | 319655 | [319655-doom-iii.json](./319655-doom-iii.json) |
 | DooM in the Dark 2 | 131323 | [131323-doom-in-the-dark-2.json](./131323-doom-in-the-dark-2.json) |
