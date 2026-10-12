@@ -2132,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome Home | 191054 | [191054-welcome-home.json](./191054-welcome-home.json) |
 | Welcome Home | 305961 | [305961-welcome-home.json](./305961-welcome-home.json) |
 | Welcome Home | 327352 | [327352-welcome-home.json](./327352-welcome-home.json) |
+| Welcome Home 2 | 181062 | [181062-welcome-home-2.json](./181062-welcome-home-2.json) |
 | Welcome Home, Love | 30594 | [30594-welcome-home-love.json](./30594-welcome-home-love.json) |
 | Welcome House | 62987 | [62987-welcome-house.json](./62987-welcome-house.json) |
 | Welcome House 2: Keaton and His Uncle | 62985 | [62985-welcome-house-2-keaton-and-his-uncle.json](./62985-welcome-house-2-keaton-and-his-uncle.json) |
