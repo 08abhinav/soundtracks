@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XanChuchamel | 207368 | [207368-xanchuchamel.json](./207368-xanchuchamel.json) |
 | Xander the Monster Morpher: Universe Breaker | 120983 | [120983-xander-the-monster-morpher-universe-breaker.json](./120983-xander-the-monster-morpher-universe-breaker.json) |
 | Xander: 7-Shot | 337108 | [337108-xander-7-shot.json](./337108-xander-7-shot.json) |
+| Xangel | 181044 | [181044-xangel.json](./181044-xangel.json) |
 | Xango Tango | 205820 | [205820-xango-tango.json](./205820-xango-tango.json) |
 | Xanguito Aventura | 150763 | [150763-xanguito-aventura.json](./150763-xanguito-aventura.json) |
 | Xanniban | 231495 | [231495-xanniban.json](./231495-xanniban.json) |
@@ -454,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenrai | 122960 | [122960-xenrai.json](./122960-xenrai.json) |
 | Xentra Station | 361056 | [361056-xentra-station.json](./361056-xentra-station.json) |
 | Xentripetal Force | 121466 | [121466-xentripetal-force.json](./121466-xentripetal-force.json) |
+| Xenture | 181096 | [181096-xenture.json](./181096-xenture.json) |
 | Xenus Bug Eater | 386941 | [386941-xenus-bug-eater.json](./386941-xenus-bug-eater.json) |
 | Xeodrifter | 8506 | [8506-xeodrifter.json](./8506-xeodrifter.json) |
 | Xeodrifter: Special Edition | 52117 | [52117-xeodrifter-special-edition.json](./52117-xeodrifter-special-edition.json) |
@@ -597,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xordle | 197903 | [197903-xordle.json](./197903-xordle.json) |
 | Xorple | 86555 | [86555-xorple.json](./86555-xorple.json) |
 | Xoru | 324973 | [324973-xoru.json](./324973-xoru.json) |
+| Xoxo Academy | 184314 | [184314-xoxo-academy.json](./184314-xoxo-academy.json) |
 | XOXO Blood Droplets | 111606 | [111606-xoxo-blood-droplets.json](./111606-xoxo-blood-droplets.json) |
 | XOXO Droplets: Full Version Extension | 168203 | [168203-xoxo-droplets-full-version-extension.json](./168203-xoxo-droplets-full-version-extension.json) |
 | XP Racing | 289880 | [289880-xp-racing.json](./289880-xp-racing.json) |
