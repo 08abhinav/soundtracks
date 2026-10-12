@@ -7052,6 +7052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Sea | 312572 | [312572-blood-sea.json](./312572-blood-sea.json) |
 | Blood Sins | 284016 | [284016-blood-sins.json](./284016-blood-sins.json) |
 | Blood Soaked Bastard! | 349997 | [349997-blood-soaked-bastard.json](./349997-blood-soaked-bastard.json) |
+| Blood Souls | 199339 | [199339-blood-souls.json](./199339-blood-souls.json) |
 | Blood Spear | 163208 | [163208-blood-spear.json](./163208-blood-spear.json) |
 | Blood Sport | 13243 | [13243-blood-sport.json](./13243-blood-sport.json) |
 | Blood Sunset | 244657 | [244657-blood-sunset.json](./244657-blood-sunset.json) |
