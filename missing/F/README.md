@@ -1024,12 +1024,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Farm Seaside | 104104 | [104104-family-farm-seaside.json](./104104-family-farm-seaside.json) |
 | Family Fest Presents Movie Games | 70671 | [70671-family-fest-presents-movie-games.json](./70671-family-fest-presents-movie-games.json) |
 | Family Feud | 159244 | [159244-family-feud.json](./159244-family-feud.json) |
+| Family Feud | 198736 | [198736-family-feud.json](./198736-family-feud.json) |
+| Family Feud | 198737 | [198737-family-feud.json](./198737-family-feud.json) |
 | Family Feud | 257844 | [257844-family-feud.json](./257844-family-feud.json) |
 | Family Feud | 320767 | [320767-family-feud.json](./320767-family-feud.json) |
 | Family Feud | 37112 | [37112-family-feud.json](./37112-family-feud.json) |
 | Family Feud & Friends | 86099 | [86099-family-feud-and-friends.json](./86099-family-feud-and-friends.json) |
 | Family Feud Cartridge #1 | 203238 | [203238-family-feud-cartridge-1.json](./203238-family-feud-cartridge-1.json) |
 | Family Feud Cartridge #2 | 203239 | [203239-family-feud-cartridge-2.json](./203239-family-feud-cartridge-2.json) |
+| Family Feud Cartridge #3 | 198738 | [198738-family-feud-cartridge-3.json](./198738-family-feud-cartridge-3.json) |
 | Family Feud HD | 90067 | [90067-family-feud-hd.json](./90067-family-feud-hd.json) |
 | Family Feud Live! | 91127 | [91127-family-feud-live.json](./91127-family-feud-live.json) |
 | Family Feud: 2010 Edition | 324085 | [324085-family-feud-2010-edition.json](./324085-family-feud-2010-edition.json) |
@@ -1911,6 +1914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Fusion | 338093 | [338093-fast-fusion.json](./338093-fast-fusion.json) |
 | Fast Gear | 358998 | [358998-fast-gear.json](./358998-fast-gear.json) |
 | Fast Jump | 167574 | [167574-fast-jump.json](./167574-fast-jump.json) |
+| Fast Lane Bowling | 198739 | [198739-fast-lane-bowling.json](./198739-fast-lane-bowling.json) |
 | Fast Lanes Bowling | 23782 | [23782-fast-lanes-bowling.json](./23782-fast-lanes-bowling.json) |
 | Fast Like A Fox | 55973 | [55973-fast-like-a-fox.json](./55973-fast-like-a-fox.json) |
 | Fast Racing 3D | 380549 | [380549-fast-racing-3d.json](./380549-fast-racing-3d.json) |
@@ -6975,6 +6979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox Trot | 289801 | [289801-fox-trot.json](./289801-fox-trot.json) |
 | Fox Two Protocol | 408310 | [408310-fox-two-protocol.json](./408310-fox-two-protocol.json) |
 | Fox-Trot Over Run | 130970 | [130970-fox-trot-over-run.json](./130970-fox-trot-over-run.json) |
+| Fox's Peter Pan & The Pirates | 198741 | [198741-foxs-peter-pan-and-the-pirates.json](./198741-foxs-peter-pan-and-the-pirates.json) |
 | Fox's Peter Pan & The Pirates: The Revenge of Captain Hook | 72710 | [72710-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.json](./72710-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.json) |
 | Fox4Elite | 241878 | [241878-fox4elite.json](./241878-fox4elite.json) |
 | Foxblade | 244872 | [244872-foxblade.json](./244872-foxblade.json) |
@@ -7794,6 +7799,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggee | 93020 | [93020-froggee.json](./93020-froggee.json) |
 | Frogger | 11465 | [11465-frogger.json](./11465-frogger.json) |
 | Frogger | 11470 | [11470-frogger.json](./11470-frogger.json) |
+| Frogger | 198743 | [198743-frogger.json](./198743-frogger.json) |
+| Frogger | 198744 | [198744-frogger.json](./198744-frogger.json) |
 | Frogger | 199426 | [199426-frogger.json](./199426-frogger.json) |
 | Frogger | 203243 | [203243-frogger.json](./203243-frogger.json) |
 | Frogger | 218437 | [218437-frogger.json](./218437-frogger.json) |
