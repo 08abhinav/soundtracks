@@ -5994,6 +5994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE Day of Reckoning | 4571 | [4571-wwe-day-of-reckoning.json](./4571-wwe-day-of-reckoning.json) |
 | WWE Mobile Madness | 23758 | [23758-wwe-mobile-madness.json](./23758-wwe-mobile-madness.json) |
 | WWE Presents: Rockpocalypse | 63263 | [63263-wwe-presents-rockpocalypse.json](./63263-wwe-presents-rockpocalypse.json) |
+| WWE Racing Showdown | 227163 | [227163-wwe-racing-showdown.json](./227163-wwe-racing-showdown.json) |
 | WWE Raw 2: Ruthless Aggression | 24123 | [24123-wwe-raw-2-ruthless-aggression.json](./24123-wwe-raw-2-ruthless-aggression.json) |
 | WWE Slam | 57378 | [57378-wwe-slam.json](./57378-wwe-slam.json) |
 | WWE SmackDown vs. Raw 2010 | 5300 | [5300-wwe-smackdown-vs-raw-2010.json](./5300-wwe-smackdown-vs-raw-2010.json) |
