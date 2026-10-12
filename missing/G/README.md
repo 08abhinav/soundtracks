@@ -5186,6 +5186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapple Dogs: Cosmic Canines | 263347 | [263347-grapple-dogs-cosmic-canines.json](./263347-grapple-dogs-cosmic-canines.json) |
 | Grapple Flow VR | 301826 | [301826-grapple-flow-vr.json](./301826-grapple-flow-vr.json) |
 | Grapple Gal | 219804 | [219804-grapple-gal.json](./219804-grapple-gal.json) |
+| Grapple Gear | 194876 | [194876-grapple-gear.json](./194876-grapple-gear.json) |
 | Grapple Glide | 213533 | [213533-grapple-glide.json](./213533-grapple-glide.json) |
 | Grapple Gum | 254150 | [254150-grapple-gum.json](./254150-grapple-gum.json) |
 | Grapple Gunners | 219805 | [219805-grapple-gunners.json](./219805-grapple-gunners.json) |
