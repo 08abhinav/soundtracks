@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | East Front II | 84257 | [84257-east-front-ii.json](./84257-east-front-ii.json) |
 | East India Company | 2013 | [2013-east-india-company.json](./2013-east-india-company.json) |
 | East Legend | 39219 | [39219-east-legend.json](./39219-east-legend.json) |
+| East Trade Tycoon | 214113 | [214113-east-trade-tycoon.json](./214113-east-trade-tycoon.json) |
 | East Trapper | 189032 | [189032-east-trapper.json](./189032-east-trapper.json) |
 | east van EP | 134510 | [134510-east-van-ep.json](./134510-east-van-ep.json) |
 | east van EP | 230795 | [230795-east-van-ep.json](./230795-east-van-ep.json) |
