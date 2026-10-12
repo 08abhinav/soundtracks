@@ -898,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Confrontation Chapter 1 | 337679 | [337679-dark-confrontation-chapter-1.json](./337679-dark-confrontation-chapter-1.json) |
 | Dark Continent | 369150 | [369150-dark-continent.json](./369150-dark-continent.json) |
 | Dark Continent: Mist | 304167 | [304167-dark-continent-mist.json](./304167-dark-continent-mist.json) |
+| Dark Corridors | 225199 | [225199-dark-corridors.json](./225199-dark-corridors.json) |
 | Dark Cube | 125906 | [125906-dark-cube.json](./125906-dark-cube.json) |
 | Dark Data | 120754 | [120754-dark-data.json](./120754-dark-data.json) |
 | Dark Day Afternoon | 140598 | [140598-dark-day-afternoon.json](./140598-dark-day-afternoon.json) |
@@ -1207,6 +1208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Sun Pictures' Dark Sun - The Space Shooter | 114262 | [114262-dark-sun-pictures-dark-sun-the-space-shooter.json](./114262-dark-sun-pictures-dark-sun-the-space-shooter.json) |
 | Dark Sun: Shattered Lands | 2466 | [2466-dark-sun-shattered-lands.json](./2466-dark-sun-shattered-lands.json) |
 | Dark Survival | 152728 | [152728-dark-survival.json](./152728-dark-survival.json) |
+| Dark Sweeper | 225222 | [225222-dark-sweeper.json](./225222-dark-sweeper.json) |
 | Dark Sword: The Light of Ainn | 295409 | [295409-dark-sword-the-light-of-ainn.json](./295409-dark-sword-the-light-of-ainn.json) |
 | Dark Swords | 119044 | [119044-dark-swords.json](./119044-dark-swords.json) |
 | Dark Swords Firelink | 198207 | [198207-dark-swords-firelink.json](./198207-dark-swords-firelink.json) |
@@ -1417,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkzan Arena | 244895 | [244895-darkzan-arena.json](./244895-darkzan-arena.json) |
 | Darkzone: Idle RPG | 150759 | [150759-darkzone-idle-rpg.json](./150759-darkzone-idle-rpg.json) |
 | Darling II: Backlash | 203328 | [203328-darling-ii-backlash.json](./203328-darling-ii-backlash.json) |
+| Darling of the Sea | 225817 | [225817-darling-of-the-sea.json](./225817-darling-of-the-sea.json) |
 | Darling Pet | 188590 | [188590-darling-pet.json](./188590-darling-pet.json) |
 | Darn Guy Adventures | 365183 | [365183-darn-guy-adventures.json](./365183-darn-guy-adventures.json) |
 | Darok | 309447 | [309447-darok.json](./309447-darok.json) |
@@ -3168,6 +3171,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deemo: Reborn - M2U X Nicode Collection | 356575 | [356575-deemo-reborn-m2u-x-nicode-collection.json](./356575-deemo-reborn-m2u-x-nicode-collection.json) |
 | Deemo: Reborn - MILI collection | 356588 | [356588-deemo-reborn-mili-collection.json](./356588-deemo-reborn-mili-collection.json) |
 | Deemo: Reborn - N.M.S.T. Collection | 356581 | [356581-deemo-reborn-n-m-s-t-collection.json](./356581-deemo-reborn-n-m-s-t-collection.json) |
+| Deemo: Reborn - Prime Pack I | 225224 | [225224-deemo-reborn-prime-pack-i.json](./225224-deemo-reborn-prime-pack-i.json) |
+| Deemo: Reborn - Prime Pack II | 225226 | [225226-deemo-reborn-prime-pack-ii.json](./225226-deemo-reborn-prime-pack-ii.json) |
+| Deemo: Reborn - Prime Pack III | 225225 | [225225-deemo-reborn-prime-pack-iii.json](./225225-deemo-reborn-prime-pack-iii.json) |
+| Deemo: Reborn - Prime Pack IV | 225227 | [225227-deemo-reborn-prime-pack-iv.json](./225227-deemo-reborn-prime-pack-iv.json) |
 | Deemo: Reborn - Rayark Selection Vol.1 | 356586 | [356586-deemo-reborn-rayark-selection-vol-1.json](./356586-deemo-reborn-rayark-selection-vol-1.json) |
 | Deemo: Reborn - Rayark Selection Vol.2 | 356585 | [356585-deemo-reborn-rayark-selection-vol-2.json](./356585-deemo-reborn-rayark-selection-vol-2.json) |
 | Deemo: Reborn - Rayark Selection vol.3 | 356583 | [356583-deemo-reborn-rayark-selection-vol-3.json](./356583-deemo-reborn-rayark-selection-vol-3.json) |
@@ -7043,6 +7050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doashime | 274538 | [274538-doashime.json](./274538-doashime.json) |
 | Doba Dash | 182942 | [182942-doba-dash.json](./182942-doba-dash.json) |
 | Dobbel Dungeon | 290612 | [290612-dobbel-dungeon.json](./290612-dobbel-dungeon.json) |
+| DobbyxEscape: Halloween Adventure | 225212 | [225212-dobbyxescape-halloween-adventure.json](./225212-dobbyxescape-halloween-adventure.json) |
 | Doblons.io | 126023 | [126023-doblons-io.json](./126023-doblons-io.json) |
 | Dobo's Heroes | 147420 | [147420-dobos-heroes.json](./147420-dobos-heroes.json) |
 | Dobraminhos | 246932 | [246932-dobraminhos.json](./246932-dobraminhos.json) |
@@ -9999,6 +10007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Tactics | 211623 | [211623-dream-tactics.json](./211623-dream-tactics.json) |
 | Dream Tale | 36047 | [36047-dream-tale.json](./36047-dream-tale.json) |
 | Dream Tape LLC | 408910 | [408910-dream-tape-llc.json](./408910-dream-tape-llc.json) |
+| Dream Team | 225825 | [225825-dream-team.json](./225825-dream-team.json) |
 | Dream Team Basketball | 229005 | [229005-dream-team-basketball.json](./229005-dream-team-basketball.json) |
 | Dream Team Supreme | 328045 | [328045-dream-team-supreme.json](./328045-dream-team-supreme.json) |
 | Dream Team: Kid's Typing | 151846 | [151846-dream-team-kids-typing.json](./151846-dream-team-kids-typing.json) |
@@ -10500,6 +10509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droiyan Next | 146530 | [146530-droiyan-next.json](./146530-droiyan-next.json) |
 | Droker Clicker | 417576 | [417576-droker-clicker.json](./417576-droker-clicker.json) |
 | Drol | 6098 | [6098-drol.json](./6098-drol.json) |
+| Drom | 225821 | [225821-drom.json](./225821-drom.json) |
 | Drome Racers | 3901 | [3901-drome-racers.json](./3901-drome-racers.json) |
 | Dromedary | 80244 | [80244-dromedary.json](./80244-dromedary.json) |
 | Drömjobbet i Rosemond Valley | 196700 | [196700-dromjobbet-i-rosemond-valley.json](./196700-dromjobbet-i-rosemond-valley.json) |
