@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kangaroo Court | 209437 | [209437-kangaroo-court.json](./209437-kangaroo-court.json) |
 | Kangaroo Court | 330172 | [330172-kangaroo-court.json](./330172-kangaroo-court.json) |
 | Kangarumble | 185149 | [185149-kangarumble.json](./185149-kangarumble.json) |
+| Kangho | 220280 | [220280-kangho.json](./220280-kangho.json) |
 | Kangoku Lock | 284448 | [284448-kangoku-lock.json](./284448-kangoku-lock.json) |
 | Kangoku Shounen | 181659 | [181659-kangoku-shounen.json](./181659-kangoku-shounen.json) |
 | Kangoku Suieibu: Kyouei Mizugi ni Kuikomu Inbi na Shitai | 70652 | [70652-kangoku-suieibu-kyouei-mizugi-ni-kuikomu-inbi-na-shitai.json](./70652-kangoku-suieibu-kyouei-mizugi-ni-kuikomu-inbi-na-shitai.json) |
@@ -2436,6 +2437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby's Pinball Land DX | 279225 | [279225-kirbys-pinball-land-dx.json](./279225-kirbys-pinball-land-dx.json) |
 | Kirchhoff's Revenge | 89398 | [89398-kirchhoffs-revenge.json](./89398-kirchhoffs-revenge.json) |
 | Kirei Zukin Seikatsu 2 | 325723 | [325723-kirei-zukin-seikatsu-2.json](./325723-kirei-zukin-seikatsu-2.json) |
+| Kiri Desu ne | 220291 | [220291-kiri-desu-ne.json](./220291-kiri-desu-ne.json) |
 | Kirigami | 183384 | [183384-kirigami.json](./183384-kirigami.json) |
 | Kirikou | 220785 | [220785-kirikou.json](./220785-kirikou.json) |
 | Kirikou | 50028 | [50028-kirikou.json](./50028-kirikou.json) |
