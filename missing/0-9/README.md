@@ -1536,6 +1536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3Xtinction | 274943 | [274943-3xtinction.json](./274943-3xtinction.json) |
 | 4 Action Hits Collection | 420699 | [420699-4-action-hits-collection.json](./420699-4-action-hits-collection.json) |
 | 4 Alice : Lorange Journey | 76508 | [76508-4-alice-lorange-journey.json](./76508-4-alice-lorange-journey.json) |
+| 4 Alice Magical Autistic Girls | 181043 | [181043-4-alice-magical-autistic-girls.json](./181043-4-alice-magical-autistic-girls.json) |
 | 4 Colors Classic Multiplayer | 202767 | [202767-4-colors-classic-multiplayer.json](./202767-4-colors-classic-multiplayer.json) |
 | 4 Colours | 262058 | [262058-4-colours.json](./262058-4-colours.json) |
 | 4 days in *** | 244365 | [244365-4-days-in.json](./244365-4-days-in.json) |
