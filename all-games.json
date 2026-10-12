@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T12:05:37.923Z",
-  "total_soundtracks": 1520,
+  "generated_at": "2026-10-12T12:05:51.203Z",
+  "total_soundtracks": 1521,
   "games": [
     {
       "igdb_id": 7522,
@@ -4489,6 +4489,20 @@
           "spotify_url": "https://open.spotify.com/album/4g7JIOhSJv3eYEzCCwIchi",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 37030,
+      "game_name": "Dishonored: Death of the Outsider",
+      "game_url": "https://ostdb.net/games/dishonored-death-of-the-outsider",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cb/a0/bf/cba0bf1a-5cd1-cad9-5936-2d70f5009632/093155175570_cover.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Dishonored: Death of the Outsider (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6uvJvKD5z98wDl4haYoIMm",
+          "apple_music_url": "https://music.apple.com/us/album/dishonored-death-of-the-outsider-original-game-soundtrack/1526283908",
+          "album_link_url": "https://album.link/i/1526283908"
         }
       ]
     },
