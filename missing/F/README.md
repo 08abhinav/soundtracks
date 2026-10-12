@@ -1756,6 +1756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 22: Case IH Farmall Anniversary Pack | 276271 | [276271-farming-simulator-22-case-ih-farmall-anniversary-pack.json](./276271-farming-simulator-22-case-ih-farmall-anniversary-pack.json) |
 | Farming Simulator 22: Farm Production Pack | 296643 | [296643-farming-simulator-22-farm-production-pack.json](./296643-farming-simulator-22-farm-production-pack.json) |
 | Farming Simulator 22: Göweil Pack | 239013 | [239013-farming-simulator-22-goweil-pack.json](./239013-farming-simulator-22-goweil-pack.json) |
+| Farming Simulator 22: Platinum Edition | 209191 | [209191-farming-simulator-22-platinum-edition.json](./209191-farming-simulator-22-platinum-edition.json) |
 | Farming Simulator 22: Premium Expansion | 255023 | [255023-farming-simulator-22-premium-expansion.json](./255023-farming-simulator-22-premium-expansion.json) |
 | Farming Simulator 22: Pumps n' Hoses Pack | 210271 | [210271-farming-simulator-22-pumps-n-hoses-pack.json](./210271-farming-simulator-22-pumps-n-hoses-pack.json) |
 | Farming Simulator 22: Vermeer Pack | 210269 | [210269-farming-simulator-22-vermeer-pack.json](./210269-farming-simulator-22-vermeer-pack.json) |
@@ -2815,6 +2816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 2004 | 240275 | [240275-fifa-soccer-2004.json](./240275-fifa-soccer-2004.json) |
 | FIFA Soccer 2004 | 240276 | [240276-fifa-soccer-2004.json](./240276-fifa-soccer-2004.json) |
 | FIFA Soccer 2004 | 3136 | [3136-fifa-soccer-2004.json](./3136-fifa-soccer-2004.json) |
+| FIFA Soccer 2005: Mobile International Edition | 209186 | [209186-fifa-soccer-2005-mobile-international-edition.json](./209186-fifa-soccer-2005-mobile-international-edition.json) |
 | FIFA Soccer 64 | 10682 | [10682-fifa-soccer-64.json](./10682-fifa-soccer-64.json) |
 | FIFA Soccer 96 | 209424 | [209424-fifa-soccer-96.json](./209424-fifa-soccer-96.json) |
 | FIFA Soccer 96 | 240232 | [240232-fifa-soccer-96.json](./240232-fifa-soccer-96.json) |
