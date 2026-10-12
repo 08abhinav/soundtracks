@@ -1454,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Dreamy Night | 312587 | [312587-one-dreamy-night.json](./312587-one-dreamy-night.json) |
 | One Drone | 236251 | [236251-one-drone.json](./236251-one-drone.json) |
 | One Drop | 284396 | [284396-one-drop.json](./284396-one-drop.json) |
+| One Drunken Knight | 211969 | [211969-one-drunken-knight.json](./211969-one-drunken-knight.json) |
 | One Dumb Wizard | 402970 | [402970-one-dumb-wizard.json](./402970-one-dumb-wizard.json) |
 | One Eleven | 211694 | [211694-one-eleven.json](./211694-one-eleven.json) |
 | One Epic Game | 52641 | [52641-one-epic-game.json](./52641-one-epic-game.json) |
@@ -2908,6 +2909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherworld Legends: Ebonfang | 212215 | [212215-otherworld-legends-ebonfang.json](./212215-otherworld-legends-ebonfang.json) |
 | Otherworld Legends: Fluffette | 310084 | [310084-otherworld-legends-fluffette.json](./310084-otherworld-legends-fluffette.json) |
 | Otherworld Legends: Hannah | 199589 | [199589-otherworld-legends-hannah.json](./199589-otherworld-legends-hannah.json) |
+| Otherworld Legends: Jadetalon | 211895 | [211895-otherworld-legends-jadetalon.json](./211895-otherworld-legends-jadetalon.json) |
 | Otherworld Legends: Skin - The Unreturning | 361892 | [361892-otherworld-legends-skin-the-unreturning.json](./361892-otherworld-legends-skin-the-unreturning.json) |
 | Otherworld Legends: Uliana | 226705 | [226705-otherworld-legends-uliana.json](./226705-otherworld-legends-uliana.json) |
 | Otherworld Legends: Zilan | 310083 | [310083-otherworld-legends-zilan.json](./310083-otherworld-legends-zilan.json) |
