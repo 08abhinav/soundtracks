@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T07:19:31.439Z",
-  "total_missing": 200934,
+  "generated_at": "2026-10-12T07:46:39.498Z",
+  "total_missing": 200983,
   "games": [
     {
       "igdb_id": 191680,
@@ -40431,6 +40431,11 @@
       "igdb_id": 4675,
       "game_name": "Angry Birds Trilogy",
       "file": "missing/A/4675-angry-birds-trilogy.json"
+    },
+    {
+      "igdb_id": 210310,
+      "game_name": "Angry Birds V Rossii",
+      "file": "missing/A/210310-angry-birds-v-rossii.json"
     },
     {
       "igdb_id": 214040,
@@ -117488,6 +117493,11 @@
       "file": "missing/B/192839-broken-banners.json"
     },
     {
+      "igdb_id": 210320,
+      "game_name": "Broken Bird: Spread Your Wings",
+      "file": "missing/B/210320-broken-bird-spread-your-wings.json"
+    },
+    {
       "igdb_id": 152787,
       "game_name": "Broken Blades",
       "file": "missing/B/152787-broken-blades.json"
@@ -119513,6 +119523,21 @@
       "file": "missing/B/210285-bubble-tanks.json"
     },
     {
+      "igdb_id": 210291,
+      "game_name": "Bubble Tanks 3",
+      "file": "missing/B/210291-bubble-tanks-3.json"
+    },
+    {
+      "igdb_id": 210293,
+      "game_name": "Bubble Tanks Arenas",
+      "file": "missing/B/210293-bubble-tanks-arenas.json"
+    },
+    {
+      "igdb_id": 210290,
+      "game_name": "Bubble Tanks II",
+      "file": "missing/B/210290-bubble-tanks-ii.json"
+    },
+    {
       "igdb_id": 342251,
       "game_name": "Bubble Tanks TD 2",
       "file": "missing/B/342251-bubble-tanks-td-2.json"
@@ -120461,6 +120486,11 @@
       "igdb_id": 322985,
       "game_name": "Bug-o-Buster",
       "file": "missing/B/322985-bug-o-buster.json"
+    },
+    {
+      "igdb_id": 210321,
+      "game_name": "Bug-Off!",
+      "file": "missing/B/210321-bug-off.json"
     },
     {
       "igdb_id": 254999,
@@ -122276,6 +122306,11 @@
       "igdb_id": 318525,
       "game_name": "Buna Wants Beer",
       "file": "missing/B/318525-buna-wants-beer.json"
+    },
+    {
+      "igdb_id": 210322,
+      "game_name": "Bunbons",
+      "file": "missing/B/210322-bunbons.json"
     },
     {
       "igdb_id": 226274,
@@ -137641,6 +137676,11 @@
       "igdb_id": 241322,
       "game_name": "Cat Jigsaw Puzzle Games: Expansion Pack 9",
       "file": "missing/C/241322-cat-jigsaw-puzzle-games-expansion-pack-9.json"
+    },
+    {
+      "igdb_id": 210317,
+      "game_name": "Cat Jump",
+      "file": "missing/C/210317-cat-jump.json"
     },
     {
       "igdb_id": 175792,
@@ -198083,6 +198123,11 @@
       "file": "missing/D/113152-darkwinds.json"
     },
     {
+      "igdb_id": 210309,
+      "game_name": "Darkwing Duck",
+      "file": "missing/D/210309-darkwing-duck.json"
+    },
+    {
       "igdb_id": 363974,
       "game_name": "Darkwing Duck R",
       "file": "missing/D/363974-darkwing-duck-r.json"
@@ -229023,6 +229068,11 @@
       "file": "missing/D/211962-dominay.json"
     },
     {
+      "igdb_id": 210211,
+      "game_name": "Dominic Cranes's Dreamscape Mystery",
+      "file": "missing/D/210211-dominic-craness-dreamscape-mystery.json"
+    },
+    {
       "igdb_id": 191103,
       "game_name": "Dominion: Adventures",
       "file": "missing/D/191103-dominion-adventures.json"
@@ -239803,6 +239853,11 @@
       "file": "missing/D/133352-draught-kraft.json"
     },
     {
+      "igdb_id": 210221,
+      "game_name": "Draughts",
+      "file": "missing/D/210221-draughts.json"
+    },
+    {
       "igdb_id": 410076,
       "game_name": "Dravo's Twisted Show",
       "file": "missing/D/410076-dravos-twisted-show.json"
@@ -243553,6 +243608,11 @@
       "file": "missing/D/285559-driveland.json"
     },
     {
+      "igdb_id": 210287,
+      "game_name": "Driven",
+      "file": "missing/D/210287-driven.json"
+    },
+    {
       "igdb_id": 117524,
       "game_name": "Driven Out",
       "file": "missing/D/117524-driven-out.json"
@@ -245821,6 +245881,11 @@
       "igdb_id": 218155,
       "game_name": "Duck Duck Swap",
       "file": "missing/D/218155-duck-duck-swap.json"
+    },
+    {
+      "igdb_id": 210288,
+      "game_name": "Duck Dynasty",
+      "file": "missing/D/210288-duck-dynasty.json"
     },
     {
       "igdb_id": 234327,
@@ -258563,6 +258628,11 @@
       "file": "missing/E/94324-electranoid.json"
     },
     {
+      "igdb_id": 210220,
+      "game_name": "ElectriarCode",
+      "file": "missing/E/210220-electriarcode.json"
+    },
+    {
       "igdb_id": 68970,
       "game_name": "Electric Crayon 3.1: At the Zoo",
       "file": "missing/E/68970-electric-crayon-3-1-at-the-zoo.json"
@@ -258791,6 +258861,11 @@
       "igdb_id": 107736,
       "game_name": "Electronic Stock Trading System",
       "file": "missing/E/107736-electronic-stock-trading-system.json"
+    },
+    {
+      "igdb_id": 210289,
+      "game_name": "Electronic Super Joy",
+      "file": "missing/E/210289-electronic-super-joy.json"
     },
     {
       "igdb_id": 120745,
@@ -259351,6 +259426,11 @@
       "igdb_id": 33352,
       "game_name": "Elements II: Hearts of Light",
       "file": "missing/E/33352-elements-ii-hearts-of-light.json"
+    },
+    {
+      "igdb_id": 210292,
+      "game_name": "Elements of Destruction",
+      "file": "missing/E/210292-elements-of-destruction.json"
     },
     {
       "igdb_id": 21517,
@@ -300758,6 +300838,11 @@
       "file": "missing/F/385280-five-shifts-at-zlatas.json"
     },
     {
+      "igdb_id": 210301,
+      "game_name": "Five Sonic Rings Bundle",
+      "file": "missing/F/210301-five-sonic-rings-bundle.json"
+    },
+    {
       "igdb_id": 128429,
       "game_name": "Five Stages",
       "file": "missing/F/128429-five-stages.json"
@@ -313843,6 +313928,11 @@
       "file": "missing/F/229778-framed.json"
     },
     {
+      "igdb_id": 210313,
+      "game_name": "Framed by the Yakuza",
+      "file": "missing/F/210313-framed-by-the-yakuza.json"
+    },
+    {
       "igdb_id": 340953,
       "game_name": "Framed Fear",
       "file": "missing/F/340953-framed-fear.json"
@@ -323926,6 +324016,11 @@
       "igdb_id": 103264,
       "game_name": "Gadgeteer",
       "file": "missing/G/103264-gadgeteer.json"
+    },
+    {
+      "igdb_id": 210318,
+      "game_name": "Gadkiy Ya 2",
+      "file": "missing/G/210318-gadkiy-ya-2.json"
     },
     {
       "igdb_id": 132222,
@@ -334548,6 +334643,11 @@
       "file": "missing/G/41106-gevaudan.json"
     },
     {
+      "igdb_id": 210294,
+      "game_name": "Gex 3: Deep Cover Gecko",
+      "file": "missing/G/210294-gex-3-deep-cover-gecko.json"
+    },
+    {
       "igdb_id": 3505,
       "game_name": "Gex 3: Deep Cover Gecko",
       "file": "missing/G/3505-gex-3-deep-cover-gecko.json"
@@ -335606,6 +335706,11 @@
       "igdb_id": 269357,
       "game_name": "Ghostbusters: Spirits Unleashed - Ecto Edition",
       "file": "missing/G/269357-ghostbusters-spirits-unleashed-ecto-edition.json"
+    },
+    {
+      "igdb_id": 210296,
+      "game_name": "Ghostbusters: The Video Game",
+      "file": "missing/G/210296-ghostbusters-the-video-game.json"
     },
     {
       "igdb_id": 566,
@@ -359211,6 +359316,11 @@
       "igdb_id": 343911,
       "game_name": "Ha-ha-ho-ho-horror",
       "file": "missing/H/343911-ha-ha-ho-ho-horror.json"
+    },
+    {
+      "igdb_id": 210226,
+      "game_name": "Ha*co",
+      "file": "missing/H/210226-ha-co.json"
     },
     {
       "igdb_id": 113710,
@@ -429358,6 +429468,11 @@
       "file": "missing/J/45352-jocky-wilsons-compendium-of-darts.json"
     },
     {
+      "igdb_id": 210214,
+      "game_name": "Jodie Drake",
+      "file": "missing/J/210214-jodie-drake.json"
+    },
+    {
       "igdb_id": 294368,
       "game_name": "Joe 'n Jo",
       "file": "missing/J/294368-joe-n-jo.json"
@@ -448878,6 +448993,11 @@
       "file": "missing/K/358365-kittys-adventure-for-xbox-one.json"
     },
     {
+      "igdb_id": 210227,
+      "game_name": "Kitty's Catch",
+      "file": "missing/K/210227-kittys-catch.json"
+    },
+    {
       "igdb_id": 367550,
       "game_name": "Kitty's Hungry Adventure",
       "file": "missing/K/367550-kittys-hungry-adventure.json"
@@ -458738,6 +458858,11 @@
       "file": "missing/L/144761-lara-gates-the-lost-talisman-hidden-object-game.json"
     },
     {
+      "igdb_id": 210213,
+      "game_name": "Lara's Mysterious Restorations",
+      "file": "missing/L/210213-laras-mysterious-restorations.json"
+    },
+    {
       "igdb_id": 391059,
       "game_name": "Laranja!",
       "file": "missing/L/391059-laranja.json"
@@ -465921,6 +466046,11 @@
       "igdb_id": 77616,
       "game_name": "LEGO Ninjago: Tournament",
       "file": "missing/L/77616-lego-ninjago-tournament.json"
+    },
+    {
+      "igdb_id": 210319,
+      "game_name": "LEGO Orient Expedition: The Quest for the Golden Dragon",
+      "file": "missing/L/210319-lego-orient-expedition-the-quest-for-the-golden-dragon.json"
     },
     {
       "igdb_id": 283748,
@@ -483433,6 +483563,11 @@
       "file": "missing/L/364524-love-in-the-time-of-spellphage.json"
     },
     {
+      "igdb_id": 210315,
+      "game_name": "Love is a Canvas",
+      "file": "missing/L/210315-love-is-a-canvas.json"
+    },
+    {
       "igdb_id": 253391,
       "game_name": "Love Is All Around",
       "file": "missing/L/253391-love-is-all-around.json"
@@ -494951,6 +495086,11 @@
       "igdb_id": 93140,
       "game_name": "Mahjongg Master 3",
       "file": "missing/M/93140-mahjongg-master-3.json"
+    },
+    {
+      "igdb_id": 210209,
+      "game_name": "Mahjongg Master: Egyptian Edition",
+      "file": "missing/M/210209-mahjongg-master-egyptian-edition.json"
     },
     {
       "igdb_id": 96762,
@@ -518016,6 +518156,11 @@
       "igdb_id": 233448,
       "game_name": "Merge Castle",
       "file": "missing/M/233448-merge-castle.json"
+    },
+    {
+      "igdb_id": 210316,
+      "game_name": "Merge Catgirl",
+      "file": "missing/M/210316-merge-catgirl.json"
     },
     {
       "igdb_id": 172007,
@@ -559291,6 +559436,11 @@
       "igdb_id": 41284,
       "game_name": "Nakayama Miho no Tokimeki High School",
       "file": "missing/N/41284-nakayama-miho-no-tokimeki-high-school.json"
+    },
+    {
+      "igdb_id": 210297,
+      "game_name": "Nakayoshi Chao!",
+      "file": "missing/N/210297-nakayoshi-chao.json"
     },
     {
       "igdb_id": 217820,
@@ -648228,6 +648378,11 @@
       "file": "missing/P/98437-priests-artifice-raguna-series-2.json"
     },
     {
+      "igdb_id": 210311,
+      "game_name": "Priklyucheniya Mishek Gammi",
+      "file": "missing/P/210311-priklyucheniya-mishek-gammi.json"
+    },
+    {
       "igdb_id": 93803,
       "game_name": "Prim Rogue",
       "file": "missing/P/93803-prim-rogue.json"
@@ -707673,6 +707828,11 @@
       "file": "missing/R/389069-rv-drive-there-co-op.json"
     },
     {
+      "igdb_id": 210286,
+      "game_name": "RV Escape",
+      "file": "missing/R/210286-rv-escape.json"
+    },
+    {
       "igdb_id": 228452,
       "game_name": "RV Park Life",
       "file": "missing/R/228452-rv-park-life.json"
@@ -717698,6 +717858,11 @@
       "file": "missing/S/234650-school-flight-simulator.json"
     },
     {
+      "igdb_id": 210314,
+      "game_name": "School Girl Apartment Paradise",
+      "file": "missing/S/210314-school-girl-apartment-paradise.json"
+    },
+    {
       "igdb_id": 41827,
       "game_name": "School Girl/Zombie Hunter",
       "file": "missing/S/41827-school-girl-zombie-hunter.json"
@@ -723971,6 +724136,11 @@
       "igdb_id": 346196,
       "game_name": "Sega Football Club Champions",
       "file": "missing/S/346196-sega-football-club-champions.json"
+    },
+    {
+      "igdb_id": 210299,
+      "game_name": "Sega Fun Pack: Sonic and the Secret Rings & Super Monkey Ball Banana Blitz",
+      "file": "missing/S/210299-sega-fun-pack-sonic-and-the-secret-rings-and-super-monkey-ball-banana-blitz.json"
     },
     {
       "igdb_id": 79600,
@@ -762838,6 +763008,11 @@
       "file": "missing/S/330532-sonic-coconut-hunter.json"
     },
     {
+      "igdb_id": 210298,
+      "game_name": "Sonic Collector's Edition",
+      "file": "missing/S/210298-sonic-collectors-edition.json"
+    },
+    {
       "igdb_id": 129145,
       "game_name": "Sonic Color Contrast",
       "file": "missing/S/129145-sonic-color-contrast.json"
@@ -763933,9 +764108,24 @@
       "file": "missing/S/242033-sonic-r-characters-metal-knuckles-and-tails-doll.json"
     },
     {
+      "igdb_id": 210307,
+      "game_name": "Sonic R/Sonic 3D",
+      "file": "missing/S/210307-sonic-r-sonic-3d.json"
+    },
+    {
       "igdb_id": 333936,
       "game_name": "Sonic Racers",
       "file": "missing/S/333936-sonic-racers.json"
+    },
+    {
+      "igdb_id": 210306,
+      "game_name": "Sonic Racing Kart",
+      "file": "missing/S/210306-sonic-racing-kart.json"
+    },
+    {
+      "igdb_id": 210308,
+      "game_name": "Sonic Racing Shift Up",
+      "file": "missing/S/210308-sonic-racing-shift-up.json"
     },
     {
       "igdb_id": 374160,
@@ -764043,9 +764233,24 @@
       "file": "missing/S/331706-sonic-reshuffled.json"
     },
     {
+      "igdb_id": 210304,
+      "game_name": "Sonic Reversi",
+      "file": "missing/S/210304-sonic-reversi.json"
+    },
+    {
+      "igdb_id": 210305,
+      "game_name": "Sonic Reversi Hyper",
+      "file": "missing/S/210305-sonic-reversi-hyper.json"
+    },
+    {
       "igdb_id": 331869,
       "game_name": "Sonic Revolution",
       "file": "missing/S/331869-sonic-revolution.json"
+    },
+    {
+      "igdb_id": 210302,
+      "game_name": "Sonic Riders",
+      "file": "missing/S/210302-sonic-riders.json"
     },
     {
       "igdb_id": 4158,
@@ -764286,6 +764491,11 @@
       "igdb_id": 370287,
       "game_name": "Sonic Saga: The Mystery of South Island",
       "file": "missing/S/370287-sonic-saga-the-mystery-of-south-island.json"
+    },
+    {
+      "igdb_id": 210303,
+      "game_name": "Sonic Saturn",
+      "file": "missing/S/210303-sonic-saturn.json"
     },
     {
       "igdb_id": 334685,
@@ -764541,6 +764751,11 @@
       "igdb_id": 207208,
       "game_name": "Sonic the Hedgehog",
       "file": "missing/S/207208-sonic-the-hedgehog.json"
+    },
+    {
+      "igdb_id": 210300,
+      "game_name": "Sonic the Hedgehog",
+      "file": "missing/S/210300-sonic-the-hedgehog.json"
     },
     {
       "igdb_id": 239066,
@@ -795286,6 +795501,11 @@
       "igdb_id": 210284,
       "game_name": "Stormwinds",
       "file": "missing/S/210284-stormwinds.json"
+    },
+    {
+      "igdb_id": 210295,
+      "game_name": "Stormwinds: The Lost Campaigns",
+      "file": "missing/S/210295-stormwinds-the-lost-campaigns.json"
     },
     {
       "igdb_id": 174136,
@@ -845908,6 +846128,11 @@
       "file": "missing/T/216753-the-broken-balance.json"
     },
     {
+      "igdb_id": 210212,
+      "game_name": "The Broken Clues 2",
+      "file": "missing/T/210212-the-broken-clues-2.json"
+    },
+    {
       "igdb_id": 263137,
       "game_name": "The Broken Moon",
       "file": "missing/T/263137-the-broken-moon.json"
@@ -857841,6 +858066,11 @@
       "igdb_id": 146730,
       "game_name": "The Hidden Object Collection",
       "file": "missing/T/146730-the-hidden-object-collection.json"
+    },
+    {
+      "igdb_id": 210208,
+      "game_name": "The Hidden Prophecies of Nostradamus",
+      "file": "missing/T/210208-the-hidden-prophecies-of-nostradamus.json"
     },
     {
       "igdb_id": 244383,
@@ -879036,6 +879266,11 @@
       "igdb_id": 151150,
       "game_name": "The Sundew",
       "file": "missing/T/151150-the-sundew.json"
+    },
+    {
+      "igdb_id": 210217,
+      "game_name": "The Sunny Life",
+      "file": "missing/T/210217-the-sunny-life.json"
     },
     {
       "igdb_id": 32107,
@@ -907293,11 +907528,6 @@
       "file": "missing/T/381245-total-war-warhammer-40-000.json"
     },
     {
-      "igdb_id": 28028,
-      "game_name": "Total War: Warhammer II",
-      "file": "missing/T/28028-total-war-warhammer-ii.json"
-    },
-    {
       "igdb_id": 167623,
       "game_name": "Total War: Warhammer II - Alith Anar",
       "file": "missing/T/167623-total-war-warhammer-ii-alith-anar.json"
@@ -908216,6 +908446,11 @@
       "igdb_id": 138029,
       "game_name": "Touhou Baisyunyado: Soap of Royal Road",
       "file": "missing/T/138029-touhou-baisyunyado-soap-of-royal-road.json"
+    },
+    {
+      "igdb_id": 210216,
+      "game_name": "Touhou Big Big Battle: The Justice",
+      "file": "missing/T/210216-touhou-big-big-battle-the-justice.json"
     },
     {
       "igdb_id": 153523,
@@ -911866,6 +912101,11 @@
       "igdb_id": 384507,
       "game_name": "ToyCamp",
       "file": "missing/T/384507-toycamp.json"
+    },
+    {
+      "igdb_id": 210228,
+      "game_name": "ToyCar",
+      "file": "missing/T/210228-toycar.json"
     },
     {
       "igdb_id": 250273,
@@ -919871,6 +920111,11 @@
       "igdb_id": 131519,
       "game_name": "Treasure Island Arcade",
       "file": "missing/T/131519-treasure-island-arcade.json"
+    },
+    {
+      "igdb_id": 210210,
+      "game_name": "Treasure Island: The Gold Bag",
+      "file": "missing/T/210210-treasure-island-the-gold-bag.json"
     },
     {
       "igdb_id": 257475,
