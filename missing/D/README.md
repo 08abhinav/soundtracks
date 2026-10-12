@@ -7791,6 +7791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Dig Down | 269768 | [269768-dont-dig-down.json](./269768-dont-dig-down.json) |
 | Don't Dig Up the Dead | 298781 | [298781-dont-dig-up-the-dead.json](./298781-dont-dig-up-the-dead.json) |
 | Don't Disturb | 32065 | [32065-dont-disturb.json](./32065-dont-disturb.json) |
+| Don't Drink & Drive Simulator 2018 | 182794 | [182794-dont-drink-and-drive-simulator-2018.json](./182794-dont-drink-and-drive-simulator-2018.json) |
 | Don't Drink That! | 364667 | [364667-dont-drink-that.json](./364667-dont-drink-that.json) |
 | Don't Drink the Pink | 307786 | [307786-dont-drink-the-pink.json](./307786-dont-drink-the-pink.json) |
 | Don't Drop Luggage! | 303483 | [303483-dont-drop-luggage.json](./303483-dont-drop-luggage.json) |
@@ -7900,6 +7901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don’t Pull Me! | 409389 | [409389-don-t-pull-me.json](./409389-don-t-pull-me.json) |
 | Don't Punch Me | 265613 | [265613-dont-punch-me.json](./265613-dont-punch-me.json) |
 | Don't Push Me | 188444 | [188444-dont-push-me.json](./188444-dont-push-me.json) |
+| Don't Push the Red Button: Anniversary Edition & VR | 182795 | [182795-dont-push-the-red-button-anniversary-edition-and-vr.json](./182795-dont-push-the-red-button-anniversary-edition-and-vr.json) |
 | Don't Push Your Luck | 400304 | [400304-dont-push-your-luck.json](./400304-dont-push-your-luck.json) |
 | Don't Rage | 243576 | [243576-dont-rage.json](./243576-dont-rage.json) |
 | Don't Remember | 236878 | [236878-dont-remember.json](./236878-dont-remember.json) |
