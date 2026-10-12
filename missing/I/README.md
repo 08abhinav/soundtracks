@@ -1959,6 +1959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Mood | 196848 | [196848-in-the-mood.json](./196848-in-the-mood.json) |
 | In the Mood for Youth | 348799 | [348799-in-the-mood-for-youth.json](./348799-in-the-mood-for-youth.json) |
 | In the Mountains | 192325 | [192325-in-the-mountains.json](./192325-in-the-mountains.json) |
+| In the Name of Freedom: Black Apocalypse | 181604 | [181604-in-the-name-of-freedom-black-apocalypse.json](./181604-in-the-name-of-freedom-black-apocalypse.json) |
 | In the name of sin | 74510 | [74510-in-the-name-of-sin.json](./74510-in-the-name-of-sin.json) |
 | In The Night You Had Bad Dreams | 340758 | [340758-in-the-night-you-had-bad-dreams.json](./340758-in-the-night-you-had-bad-dreams.json) |
 | In the Pause Between the Ringing. | 177831 | [177831-in-the-pause-between-the-ringing.json](./177831-in-the-pause-between-the-ringing.json) |
@@ -3378,6 +3379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Box | 183001 | [183001-into-the-box.json](./183001-into-the-box.json) |
 | Into the Breach: Advanced Edition | 247511 | [247511-into-the-breach-advanced-edition.json](./247511-into-the-breach-advanced-edition.json) |
 | Into the Cannon, Soldier! | 381366 | [381366-into-the-cannon-soldier.json](./381366-into-the-cannon-soldier.json) |
+| Into the Cave | 181608 | [181608-into-the-cave.json](./181608-into-the-cave.json) |
 | Into the Circle | 128410 | [128410-into-the-circle.json](./128410-into-the-circle.json) |
 | Into the Core | 118429 | [118429-into-the-core.json](./118429-into-the-core.json) |
 | Into The Corner | 339112 | [339112-into-the-corner.json](./339112-into-the-corner.json) |
