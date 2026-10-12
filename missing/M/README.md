@@ -2013,6 +2013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manners Be Damned! | 330900 | [330900-manners-be-damned.json](./330900-manners-be-damned.json) |
 | Manny's | 260528 | [260528-mannys.json](./260528-mannys.json) |
 | Manny's 2 | 329018 | [329018-mannys-2.json](./329018-mannys-2.json) |
+| Manny's Mechanical Emporium | 224679 | [224679-mannys-mechanical-emporium.json](./224679-mannys-mechanical-emporium.json) |
 | Manny's Murderous Movie Theater: The Snackbar Simulator | 370718 | [370718-mannys-murderous-movie-theater-the-snackbar-simulator.json](./370718-mannys-murderous-movie-theater-the-snackbar-simulator.json) |
 | Manonnikki | 229698 | [229698-manonnikki.json](./229698-manonnikki.json) |
 | Manor Cafe | 105854 | [105854-manor-cafe.json](./105854-manor-cafe.json) |
@@ -6412,6 +6413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Exodus: Master Artyom Edition | 113629 | [113629-metro-exodus-master-artyom-edition.json](./113629-metro-exodus-master-artyom-edition.json) |
 | Metro Exodus: Sam's Story | 121756 | [121756-metro-exodus-sams-story.json](./121756-metro-exodus-sams-story.json) |
 | Metro Gravity | 310157 | [310157-metro-gravity.json](./310157-metro-gravity.json) |
+| Metro Manager LA | 224706 | [224706-metro-manager-la.json](./224706-metro-manager-la.json) |
 | Metro Mini Market Simulator | 365228 | [365228-metro-mini-market-simulator.json](./365228-metro-mini-market-simulator.json) |
 | Metro MP | 212211 | [212211-metro-mp.json](./212211-metro-mp.json) |
 | Metro PD: Close to You | 238426 | [238426-metro-pd-close-to-you.json](./238426-metro-pd-close-to-you.json) |
@@ -9386,6 +9388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mokoko X | 191723 | [191723-mokoko-x.json](./191723-mokoko-x.json) |
 | Mokoko X Deluxe | 246636 | [246636-mokoko-x-deluxe.json](./246636-mokoko-x-deluxe.json) |
 | Mokomon: Five Elements | 415152 | [415152-mokomon-five-elements.json](./415152-mokomon-five-elements.json) |
+| Moksha | 224702 | [224702-moksha.json](./224702-moksha.json) |
 | Moksha | 402528 | [402528-moksha.json](./402528-moksha.json) |
 | MolaMola Adventure | 333039 | [333039-molamola-adventure.json](./333039-molamola-adventure.json) |
 | Molang: A Happy Day | 101010 | [101010-molang-a-happy-day.json](./101010-molang-a-happy-day.json) |
