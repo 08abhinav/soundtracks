@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T09:04:38.445Z",
-  "total_missing": 201233,
+  "generated_at": "2026-10-12T09:19:32.586Z",
+  "total_missing": 201283,
   "games": [
     {
       "igdb_id": 191680,
@@ -61178,6 +61178,16 @@
       "file": "missing/A/14489-atac-the-secret-war-against-drugs.json"
     },
     {
+      "igdb_id": 207035,
+      "game_name": "Atai no Gensoukyou",
+      "file": "missing/A/207035-atai-no-gensoukyou.json"
+    },
+    {
+      "igdb_id": 207039,
+      "game_name": "Atai no Gensoukyou Shunkashuutou",
+      "file": "missing/A/207039-atai-no-gensoukyou-shunkashuutou.json"
+    },
+    {
       "igdb_id": 36426,
       "game_name": "Atajrubah",
       "file": "missing/A/36426-atajrubah.json"
@@ -65941,6 +65951,11 @@
       "igdb_id": 146250,
       "game_name": "Avoid Them: Breakthrough Gaming Arcade",
       "file": "missing/A/146250-avoid-them-breakthrough-gaming-arcade.json"
+    },
+    {
+      "igdb_id": 207050,
+      "game_name": "Avoid Them: Breakthrough Gaming Arcade - Challenge Mode Edition",
+      "file": "missing/A/207050-avoid-them-breakthrough-gaming-arcade-challenge-mode-edition.json"
     },
     {
       "igdb_id": 17169,
@@ -77291,6 +77306,31 @@
       "igdb_id": 177858,
       "game_name": "Baseball, But Fun",
       "file": "missing/B/177858-baseball-but-fun.json"
+    },
+    {
+      "igdb_id": 207058,
+      "game_name": "Baseball: Breakthrough Gaming Arcade - 2 Player Cooperation Edition",
+      "file": "missing/B/207058-baseball-breakthrough-gaming-arcade-2-player-cooperation-edition.json"
+    },
+    {
+      "igdb_id": 207060,
+      "game_name": "Baseball: Breakthrough Gaming Arcade - 2 Player Cooperation Edition: Challenge Mode",
+      "file": "missing/B/207060-baseball-breakthrough-gaming-arcade-2-player-cooperation-edition-challenge-mode.json"
+    },
+    {
+      "igdb_id": 207056,
+      "game_name": "Baseball: Breakthrough Gaming Arcade - 3 Player Cooperation Edition",
+      "file": "missing/B/207056-baseball-breakthrough-gaming-arcade-3-player-cooperation-edition.json"
+    },
+    {
+      "igdb_id": 207054,
+      "game_name": "Baseball: Breakthrough Gaming Arcade - 4 Player Cooperation Edition",
+      "file": "missing/B/207054-baseball-breakthrough-gaming-arcade-4-player-cooperation-edition.json"
+    },
+    {
+      "igdb_id": 207047,
+      "game_name": "Baseball: Breakthrough Gaming Arcade - Challenge Mode Edition",
+      "file": "missing/B/207047-baseball-breakthrough-gaming-arcade-challenge-mode-edition.json"
     },
     {
       "igdb_id": 40267,
@@ -92128,6 +92168,11 @@
       "file": "missing/B/290651-bill-and-teds-excellent-game-boy-adventure.json"
     },
     {
+      "igdb_id": 207048,
+      "game_name": "Bill & Ted's Excellent Retro Collection: Collector's Edition",
+      "file": "missing/B/207048-bill-and-teds-excellent-retro-collection-collectors-edition.json"
+    },
+    {
       "igdb_id": 203772,
       "game_name": "Bill and Ted's Excellent Retro Collection",
       "file": "missing/B/203772-bill-and-teds-excellent-retro-collection.json"
@@ -93716,6 +93761,11 @@
       "igdb_id": 403643,
       "game_name": "Biotype",
       "file": "missing/B/403643-biotype.json"
+    },
+    {
+      "igdb_id": 207024,
+      "game_name": "Bip + Bop",
+      "file": "missing/B/207024-bip-bop.json"
     },
     {
       "igdb_id": 218644,
@@ -138893,6 +138943,11 @@
       "file": "missing/C/152229-catch-the-bowling-balls.json"
     },
     {
+      "igdb_id": 207053,
+      "game_name": "Catch the Bowling Balls: Challenge Mode Edition",
+      "file": "missing/C/207053-catch-the-bowling-balls-challenge-mode-edition.json"
+    },
+    {
       "igdb_id": 330922,
       "game_name": "Catch the Candy: Remastered",
       "file": "missing/C/330922-catch-the-candy-remastered.json"
@@ -165588,6 +165643,11 @@
       "file": "missing/C/281426-command-and-conquer-3-tiberium-wars.json"
     },
     {
+      "igdb_id": 207005,
+      "game_name": "Command & Conquer 3: Tiberium Wars - Kane Edition",
+      "file": "missing/C/207005-command-and-conquer-3-tiberium-wars-kane-edition.json"
+    },
+    {
       "igdb_id": 414520,
       "game_name": "Command & Conquer 3D",
       "file": "missing/C/414520-command-and-conquer-3d.json"
@@ -166488,6 +166548,11 @@
       "file": "missing/C/77294-company-of-heroes-online.json"
     },
     {
+      "igdb_id": 207013,
+      "game_name": "Company of Heroes: Anthology",
+      "file": "missing/C/207013-company-of-heroes-anthology.json"
+    },
+    {
       "igdb_id": 154580,
       "game_name": "Company of Heroes: Back to Basics",
       "file": "missing/C/154580-company-of-heroes-back-to-basics.json"
@@ -167101,6 +167166,11 @@
       "igdb_id": 35142,
       "game_name": "Concealed Intent",
       "file": "missing/C/35142-concealed-intent.json"
+    },
+    {
+      "igdb_id": 207016,
+      "game_name": "Concentration",
+      "file": "missing/C/207016-concentration.json"
     },
     {
       "igdb_id": 217829,
@@ -168106,6 +168176,16 @@
       "igdb_id": 224085,
       "game_name": "Conquer the Islands",
       "file": "missing/C/224085-conquer-the-islands.json"
+    },
+    {
+      "igdb_id": 207017,
+      "game_name": "Conquer the Skies",
+      "file": "missing/C/207017-conquer-the-skies.json"
+    },
+    {
+      "igdb_id": 207019,
+      "game_name": "Conquer the Universe",
+      "file": "missing/C/207019-conquer-the-universe.json"
     },
     {
       "igdb_id": 71532,
@@ -195151,6 +195231,11 @@
       "igdb_id": 332416,
       "game_name": "Dare to Lucid Dream",
       "file": "missing/D/332416-dare-to-lucid-dream.json"
+    },
+    {
+      "igdb_id": 207014,
+      "game_name": "Dare to Stay",
+      "file": "missing/D/207014-dare-to-stay.json"
     },
     {
       "igdb_id": 137069,
@@ -267858,6 +267943,11 @@
       "file": "missing/E/176251-error-slasher-alert.json"
     },
     {
+      "igdb_id": 207032,
+      "game_name": "Error143",
+      "file": "missing/E/207032-error143.json"
+    },
+    {
       "igdb_id": 280743,
       "game_name": "Error422",
       "file": "missing/E/280743-error422.json"
@@ -294778,6 +294868,11 @@
       "file": "missing/F/207021-final-fantasy-vii.json"
     },
     {
+      "igdb_id": 207028,
+      "game_name": "Final Fantasy VII",
+      "file": "missing/F/207028-final-fantasy-vii.json"
+    },
+    {
       "igdb_id": 381337,
       "game_name": "Final Fantasy VII",
       "file": "missing/F/381337-final-fantasy-vii.json"
@@ -304991,6 +305086,11 @@
       "igdb_id": 295835,
       "game_name": "Flow Factory",
       "file": "missing/F/295835-flow-factory.json"
+    },
+    {
+      "igdb_id": 207045,
+      "game_name": "Flow Fit: Sudoku",
+      "file": "missing/F/207045-flow-fit-sudoku.json"
     },
     {
       "igdb_id": 307907,
@@ -339906,6 +340006,11 @@
       "igdb_id": 3348,
       "game_name": "Glover",
       "file": "missing/G/3348-glover.json"
+    },
+    {
+      "igdb_id": 207051,
+      "game_name": "Glover: Collector's Edition",
+      "file": "missing/G/207051-glover-collectors-edition.json"
     },
     {
       "igdb_id": 180567,
@@ -386076,6 +386181,11 @@
       "igdb_id": 408308,
       "game_name": "Hitsuji no Hakobune",
       "file": "missing/H/408308-hitsuji-no-hakobune.json"
+    },
+    {
+      "igdb_id": 207041,
+      "game_name": "Hitsuji Shitsuji",
+      "file": "missing/H/207041-hitsuji-shitsuji.json"
     },
     {
       "igdb_id": 212730,
@@ -467338,6 +467448,11 @@
       "file": "missing/L/137068-lemures-blues-2-a-m.json"
     },
     {
+      "igdb_id": 207042,
+      "game_name": "Lemuria",
+      "file": "missing/L/207042-lemuria.json"
+    },
+    {
       "igdb_id": 344427,
       "game_name": "Lemuria",
       "file": "missing/L/344427-lemuria.json"
@@ -492526,6 +492641,11 @@
       "igdb_id": 330884,
       "game_name": "Magic Chess: Go Go",
       "file": "missing/M/330884-magic-chess-go-go.json"
+    },
+    {
+      "igdb_id": 207040,
+      "game_name": "Magic Chou Party: Marisa to Marisa no Gensou Hanabi",
+      "file": "missing/M/207040-magic-chou-party-marisa-to-marisa-no-gensou-hanabi.json"
     },
     {
       "igdb_id": 315607,
@@ -546378,6 +546498,16 @@
       "file": "missing/M/98569-motto-stitch-ds-rhythm-de-rakugaki-daisakusen.json"
     },
     {
+      "igdb_id": 207037,
+      "game_name": "Motto!? Atai no Gensoukyou",
+      "file": "missing/M/207037-motto-atai-no-gensoukyou.json"
+    },
+    {
+      "igdb_id": 207038,
+      "game_name": "Motto!? Atai no Gensoukyou alpha",
+      "file": "missing/M/207038-motto-atai-no-gensoukyou-alpha.json"
+    },
+    {
       "igdb_id": 206938,
       "game_name": "Motto!? Fushigi no Gensoukyou Plus: The Dungeon of Dreams and Magic",
       "file": "missing/M/206938-motto-fushigi-no-gensoukyou-plus-the-dungeon-of-dreams-and-magic.json"
@@ -546531,6 +546661,11 @@
       "igdb_id": 197958,
       "game_name": "Mouja",
       "file": "missing/M/197958-mouja.json"
+    },
+    {
+      "igdb_id": 207029,
+      "game_name": "Moujya",
+      "file": "missing/M/207029-moujya.json"
     },
     {
       "igdb_id": 351187,
@@ -555176,6 +555311,11 @@
       "igdb_id": 146263,
       "game_name": "My Little Pony: Fighting is Magic - Tribute Edition",
       "file": "missing/M/146263-my-little-pony-fighting-is-magic-tribute-edition.json"
+    },
+    {
+      "igdb_id": 207046,
+      "game_name": "My Little Pony: Friendship is Magic",
+      "file": "missing/M/207046-my-little-pony-friendship-is-magic.json"
     },
     {
       "igdb_id": 220097,
@@ -601426,6 +601566,11 @@
       "igdb_id": 243173,
       "game_name": "Outer Space",
       "file": "missing/O/243173-outer-space.json"
+    },
+    {
+      "igdb_id": 207033,
+      "game_name": "Outer Space Survival",
+      "file": "missing/O/207033-outer-space-survival.json"
     },
     {
       "igdb_id": 211622,
@@ -669433,6 +669578,26 @@
       "file": "missing/R/145668-racing-breakthrough-gaming-arcade.json"
     },
     {
+      "igdb_id": 207059,
+      "game_name": "Racing: Breakthrough Gaming Arcade - 2 Player Cooperation Edition",
+      "file": "missing/R/207059-racing-breakthrough-gaming-arcade-2-player-cooperation-edition.json"
+    },
+    {
+      "igdb_id": 207057,
+      "game_name": "Racing: Breakthrough Gaming Arcade - 3 Player Cooperation Edition",
+      "file": "missing/R/207057-racing-breakthrough-gaming-arcade-3-player-cooperation-edition.json"
+    },
+    {
+      "igdb_id": 207055,
+      "game_name": "Racing: Breakthrough Gaming Arcade - 4 Player Cooperation Edition",
+      "file": "missing/R/207055-racing-breakthrough-gaming-arcade-4-player-cooperation-edition.json"
+    },
+    {
+      "igdb_id": 207052,
+      "game_name": "Racing: Breakthrough Gaming Arcade - Challenge Mode Edition",
+      "file": "missing/R/207052-racing-breakthrough-gaming-arcade-challenge-mode-edition.json"
+    },
+    {
       "igdb_id": 369232,
       "game_name": "Racing: Storm Chase",
       "file": "missing/R/369232-racing-storm-chase.json"
@@ -710278,6 +710443,11 @@
       "file": "missing/S/319692-sacrilegious.json"
     },
     {
+      "igdb_id": 207012,
+      "game_name": "Sacritice",
+      "file": "missing/S/207012-sacritice.json"
+    },
+    {
       "igdb_id": 286771,
       "game_name": "Sad",
       "file": "missing/S/286771-sad.json"
@@ -739481,6 +739651,11 @@
       "igdb_id": 303768,
       "game_name": "ShowMeSpeed",
       "file": "missing/S/303768-showmespeed.json"
+    },
+    {
+      "igdb_id": 207043,
+      "game_name": "Showrunner",
+      "file": "missing/S/207043-showrunner.json"
     },
     {
       "igdb_id": 398542,
@@ -820083,6 +820258,11 @@
       "file": "missing/S/394507-svetik.json"
     },
     {
+      "igdb_id": 207022,
+      "game_name": "Svetlograd",
+      "file": "missing/S/207022-svetlograd.json"
+    },
+    {
       "igdb_id": 312687,
       "game_name": "SVG-001 Puzzle",
       "file": "missing/S/312687-svg-001-puzzle.json"
@@ -820656,6 +820836,11 @@
       "igdb_id": 319,
       "game_name": "SWAT: Target Liberty",
       "file": "missing/S/319-swat-target-liberty.json"
+    },
+    {
+      "igdb_id": 207004,
+      "game_name": "SWAT: Urban Justice",
+      "file": "missing/S/207004-swat-urban-justice.json"
     },
     {
       "igdb_id": 60557,
@@ -821711,6 +821896,11 @@
       "igdb_id": 392855,
       "game_name": "Sweetie Candy Maze: White Chocolate",
       "file": "missing/S/392855-sweetie-candy-maze-white-chocolate.json"
+    },
+    {
+      "igdb_id": 207023,
+      "game_name": "Sweetopia",
+      "file": "missing/S/207023-sweetopia.json"
     },
     {
       "igdb_id": 177894,
@@ -822851,6 +823041,11 @@
       "igdb_id": 158088,
       "game_name": "Sword of Shushan",
       "file": "missing/S/158088-sword-of-shushan.json"
+    },
+    {
+      "igdb_id": 207006,
+      "game_name": "Sword of Sia: Lady Sia 2",
+      "file": "missing/S/207006-sword-of-sia-lady-sia-2.json"
     },
     {
       "igdb_id": 389413,
@@ -841873,6 +842068,11 @@
       "file": "missing/T/407450-text-dungeon-the-ring-of-life.json"
     },
     {
+      "igdb_id": 207031,
+      "game_name": "Text Express",
+      "file": "missing/T/207031-text-express.json"
+    },
+    {
       "igdb_id": 46564,
       "game_name": "Text Tiles",
       "file": "missing/T/46564-text-tiles.json"
@@ -856743,9 +856943,19 @@
       "file": "missing/T/227729-the-game-of-life-2-under-the-sea.json"
     },
     {
+      "igdb_id": 207002,
+      "game_name": "The Game of Life: Path to Success",
+      "file": "missing/T/207002-the-game-of-life-path-to-success.json"
+    },
+    {
       "igdb_id": 48819,
       "game_name": "The Game of Life: RPG Jinsei Game",
       "file": "missing/T/48819-the-game-of-life-rpg-jinsei-game.json"
+    },
+    {
+      "igdb_id": 207003,
+      "game_name": "The Game of Life: SpongeBob SquarePants Edition",
+      "file": "missing/T/207003-the-game-of-life-spongebob-squarepants-edition.json"
     },
     {
       "igdb_id": 230930,
@@ -859193,6 +859403,16 @@
       "file": "missing/T/146730-the-hidden-object-collection.json"
     },
     {
+      "igdb_id": 207010,
+      "game_name": "The Hidden Object Show Seasons 1 & 2",
+      "file": "missing/T/207010-the-hidden-object-show-seasons-1-and-2.json"
+    },
+    {
+      "igdb_id": 207009,
+      "game_name": "The Hidden Object Show: Season 2",
+      "file": "missing/T/207009-the-hidden-object-show-season-2.json"
+    },
+    {
       "igdb_id": 210208,
       "game_name": "The Hidden Prophecies of Nostradamus",
       "file": "missing/T/210208-the-hidden-prophecies-of-nostradamus.json"
@@ -859271,6 +859491,11 @@
       "igdb_id": 20375,
       "game_name": "The History Channel: Great Battles of Rome",
       "file": "missing/T/20375-the-history-channel-great-battles-of-rome.json"
+    },
+    {
+      "igdb_id": 207011,
+      "game_name": "The History Channel: Lost Worlds",
+      "file": "missing/T/207011-the-history-channel-lost-worlds.json"
     },
     {
       "igdb_id": 200675,
@@ -862141,6 +862366,11 @@
       "igdb_id": 212988,
       "game_name": "The King of Fighter XV: Characters - Team Awakened Orochi",
       "file": "missing/T/212988-the-king-of-fighter-xv-characters-team-awakened-orochi.json"
+    },
+    {
+      "igdb_id": 207007,
+      "game_name": "The King of Fighters",
+      "file": "missing/T/207007-the-king-of-fighters.json"
     },
     {
       "igdb_id": 15427,
@@ -913608,6 +913838,11 @@
       "file": "missing/T/284441-track-star.json"
     },
     {
+      "igdb_id": 207049,
+      "game_name": "Track: Breakthrough Gaming Arcade - Challenge Mode Edition",
+      "file": "missing/T/207049-track-breakthrough-gaming-arcade-challenge-mode-edition.json"
+    },
+    {
       "igdb_id": 333074,
       "game_name": "Trackastrophe!",
       "file": "missing/T/333074-trackastrophe.json"
@@ -923076,6 +923311,11 @@
       "igdb_id": 62749,
       "game_name": "Tridonis",
       "file": "missing/T/62749-tridonis.json"
+    },
+    {
+      "igdb_id": 207027,
+      "game_name": "Triennale Game Collection Vol. 2",
+      "file": "missing/T/207027-triennale-game-collection-vol-2.json"
     },
     {
       "igdb_id": 309556,
@@ -977168,6 +977408,11 @@
       "file": "missing/W/412232-wira.json"
     },
     {
+      "igdb_id": 207044,
+      "game_name": "Wiraburut rai Phalang: Khai Tom",
+      "file": "missing/W/207044-wiraburut-rai-phalang-khai-tom.json"
+    },
+    {
       "igdb_id": 195755,
       "game_name": "Wire",
       "file": "missing/W/195755-wire.json"
@@ -1005726,6 +1005971,11 @@
       "igdb_id": 264070,
       "game_name": "Zugya",
       "file": "missing/Z/264070-zugya.json"
+    },
+    {
+      "igdb_id": 207015,
+      "game_name": "Zugzwang",
+      "file": "missing/Z/207015-zugzwang.json"
     },
     {
       "igdb_id": 338311,
