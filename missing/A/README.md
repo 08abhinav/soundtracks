@@ -2604,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterimage: Deluxe Edition | 234215 | [234215-afterimage-deluxe-edition.json](./234215-afterimage-deluxe-edition.json) |
 | Afterinfection | 153013 | [153013-afterinfection.json](./153013-afterinfection.json) |
 | Afterlife | 175 | [175-afterlife.json](./175-afterlife.json) |
+| Afterlife | 195976 | [195976-afterlife.json](./195976-afterlife.json) |
 | Afterlife | 264043 | [264043-afterlife.json](./264043-afterlife.json) |
 | Afterlife Beans | 164979 | [164979-afterlife-beans.json](./164979-afterlife-beans.json) |
 | Afterlife Connections LLC | 307715 | [307715-afterlife-connections-llc.json](./307715-afterlife-connections-llc.json) |
@@ -4624,6 +4625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aloisius | 183469 | [183469-aloisius.json](./183469-aloisius.json) |
 | Alon | 152986 | [152986-alon.json](./152986-alon.json) |
 | Alon | 311568 | [311568-alon.json](./311568-alon.json) |
+| Alone | 195984 | [195984-alone.json](./195984-alone.json) |
 | Alone | 196110 | [196110-alone.json](./196110-alone.json) |
 | Alone | 97495 | [97495-alone.json](./97495-alone.json) |
 | Alone but Strong | 369625 | [369625-alone-but-strong.json](./369625-alone-but-strong.json) |
@@ -4933,6 +4935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ama Me (In Incisis) | 297551 | [297551-ama-me-in-incisis.json](./297551-ama-me-in-incisis.json) |
 | AMA Superbike | 94233 | [94233-ama-superbike.json](./94233-ama-superbike.json) |
 | Ama's Lullaby | 303156 | [303156-amas-lullaby.json](./303156-amas-lullaby.json) |
+| Amadeus | 195995 | [195995-amadeus.json](./195995-amadeus.json) |
 | Amadeus Revenge | 70471 | [70471-amadeus-revenge.json](./70471-amadeus-revenge.json) |
 | Amadeus: A Riddle for Thee - Episode 1: Waltz | 296491 | [296491-amadeus-a-riddle-for-thee-episode-1-waltz.json](./296491-amadeus-a-riddle-for-thee-episode-1-waltz.json) |
 | Amado | 14496 | [14496-amado.json](./14496-amado.json) |
@@ -5401,6 +5404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amnesia: Final Revelations | 116950 | [116950-amnesia-final-revelations.json](./116950-amnesia-final-revelations.json) |
 | Amnesia: Rebirth | 131785 | [131785-amnesia-rebirth.json](./131785-amnesia-rebirth.json) |
 | Amnesia: The Bunker | 228258 | [228258-amnesia-the-bunker.json](./228258-amnesia-the-bunker.json) |
+| Amnesia: The Great Work | 196001 | [196001-amnesia-the-great-work.json](./196001-amnesia-the-great-work.json) |
 | Amnios | 14254 | [14254-amnios.json](./14254-amnios.json) |
 | Amnork | 62239 | [62239-amnork.json](./62239-amnork.json) |
 | Amo | 293087 | [293087-amo.json](./293087-amo.json) |
