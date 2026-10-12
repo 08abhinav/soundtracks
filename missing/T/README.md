@@ -5249,6 +5249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dead Daughter | 371623 | [371623-the-dead-daughter.json](./371623-the-dead-daughter.json) |
 | The Dead House | 366732 | [366732-the-dead-house.json](./366732-the-dead-house.json) |
 | The Dead in my Living Room | 142378 | [142378-the-dead-in-my-living-room.json](./142378-the-dead-in-my-living-room.json) |
+| The Dead Inside | 208090 | [208090-the-dead-inside.json](./208090-the-dead-inside.json) |
 | The Dead Linger | 9055 | [9055-the-dead-linger.json](./9055-the-dead-linger.json) |
 | The Dead Mountaineer's Hotel | 54438 | [54438-the-dead-mountaineers-hotel.json](./54438-the-dead-mountaineers-hotel.json) |
 | The Dead Prince | 196167 | [196167-the-dead-prince.json](./196167-the-dead-prince.json) |
@@ -8516,6 +8517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Kingdom Prophecy | 200581 | [200581-the-lost-kingdom-prophecy.json](./200581-the-lost-kingdom-prophecy.json) |
 | The Lost Labyrinth | 166712 | [166712-the-lost-labyrinth.json](./166712-the-lost-labyrinth.json) |
 | The Lost Land of Bahía Blanca | 406792 | [406792-the-lost-land-of-bahia-blanca.json](./406792-the-lost-land-of-bahia-blanca.json) |
+| The Lost Lands: Dinosaur Hunter | 208006 | [208006-the-lost-lands-dinosaur-hunter.json](./208006-the-lost-lands-dinosaur-hunter.json) |
 | The Lost Legends of Redwall: Escape the Gloomer | 111724 | [111724-the-lost-legends-of-redwall-escape-the-gloomer.json](./111724-the-lost-legends-of-redwall-escape-the-gloomer.json) |
 | The Lost Legends of Redwall: Feasts & Friends | 280511 | [280511-the-lost-legends-of-redwall-feasts-and-friends.json](./280511-the-lost-legends-of-redwall-feasts-and-friends.json) |
 | The Lost Legends of Redwall: The Scout - Act 3 | 171612 | [171612-the-lost-legends-of-redwall-the-scout-act-3.json](./171612-the-lost-legends-of-redwall-the-scout-act-3.json) |
@@ -14575,6 +14577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Alive | 186099 | [186099-time-alive.json](./186099-time-alive.json) |
 | Time and Eternity | 19922 | [19922-time-and-eternity.json](./19922-time-and-eternity.json) |
 | Time and Magik: The Trilogy | 15497 | [15497-time-and-magik-the-trilogy.json](./15497-time-and-magik-the-trilogy.json) |
+| Time and Summon | 208082 | [208082-time-and-summon.json](./208082-time-and-summon.json) |
 | Time Assassin | 344383 | [344383-time-assassin.json](./344383-time-assassin.json) |
 | Time Attack! RPG | 152382 | [152382-time-attack-rpg.json](./152382-time-attack-rpg.json) |
 | Time Avarice | 295267 | [295267-time-avarice.json](./295267-time-avarice.json) |
@@ -17500,6 +17503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town Story | 106967 | [106967-town-story.json](./106967-town-story.json) |
 | Town Village: Farm Build Trade | 88736 | [88736-town-village-farm-build-trade.json](./88736-town-village-farm-build-trade.json) |
 | Town With No Name | 69874 | [69874-town-with-no-name.json](./69874-town-with-no-name.json) |
+| Town's Tale with Ebichu | 208098 | [208098-towns-tale-with-ebichu.json](./208098-towns-tale-with-ebichu.json) |
 | Townbox | 347829 | [347829-townbox.json](./347829-townbox.json) |
 | TownCraft | 17319 | [17319-towncraft.json](./17319-towncraft.json) |
 | Towne of Gringle | 319178 | [319178-towne-of-gringle.json](./319178-towne-of-gringle.json) |
