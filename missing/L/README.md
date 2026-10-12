@@ -934,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Ride | 296368 | [296368-last-ride.json](./296368-last-ride.json) |
 | Last Ride | 377575 | [377575-last-ride.json](./377575-last-ride.json) |
 | Last Ride | 413171 | [413171-last-ride.json](./413171-last-ride.json) |
+| Last Rites | 184810 | [184810-last-rites.json](./184810-last-rites.json) |
 | Last Rites | 320471 | [320471-last-rites.json](./320471-last-rites.json) |
 | Last Rites | 71124 | [71124-last-rites.json](./71124-last-rites.json) |
 | Last Rose | 125800 | [125800-last-rose.json](./125800-last-rose.json) |
@@ -1207,6 +1208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laxy Bro | 61037 | [61037-laxy-bro.json](./61037-laxy-bro.json) |
 | Lay | 204978 | [204978-lay.json](./204978-lay.json) |
 | Lay a Beauty to Rest: The Darkness Peach Blossom Spring | 229920 | [229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json](./229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json) |
+| Lay Down Your Roots | 184832 | [184832-lay-down-your-roots.json](./184832-lay-down-your-roots.json) |
 | Layer - Simple is Hard | 128568 | [128568-layer-simple-is-hard.json](./128568-layer-simple-is-hard.json) |
 | Layer Cake | 370342 | [370342-layer-cake.json](./370342-layer-cake.json) |
 | Layer Front | 108929 | [108929-layer-front.json](./108929-layer-front.json) |
@@ -1894,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion | 319203 | [319203-legion.json](./319203-legion.json) |
 | Legion Arena | 125179 | [125179-legion-arena.json](./125179-legion-arena.json) |
 | Legion Draft | 395867 | [395867-legion-draft.json](./395867-legion-draft.json) |
+| Legion Fall | 184847 | [184847-legion-fall.json](./184847-legion-fall.json) |
 | Legion Gold | 125180 | [125180-legion-gold.json](./125180-legion-gold.json) |
 | Legion Hunters | 414491 | [414491-legion-hunters.json](./414491-legion-hunters.json) |
 | Legion of Evil | 346775 | [346775-legion-of-evil.json](./346775-legion-of-evil.json) |
@@ -2856,6 +2859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Code | 287774 | [287774-life-code.json](./287774-life-code.json) |
 | Life Combinations | 117479 | [117479-life-combinations.json](./117479-life-combinations.json) |
 | Life Dash | 336572 | [336572-life-dash.json](./336572-life-dash.json) |
+| Life Diviner | 184803 | [184803-life-diviner.json](./184803-life-diviner.json) |
 | Life Dream | 331456 | [331456-life-dream.json](./331456-life-dream.json) |
 | Life Eater | 289431 | [289431-life-eater.json](./289431-life-eater.json) |
 | Life Effect | 236763 | [236763-life-effect.json](./236763-life-effect.json) |
@@ -3626,6 +3630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liquid Kids | 16750 | [16750-liquid-kids.json](./16750-liquid-kids.json) |
 | Liquid Light | 286001 | [286001-liquid-light.json](./286001-liquid-light.json) |
 | Liquid Metal: Alien Attack | 56565 | [56565-liquid-metal-alien-attack.json](./56565-liquid-metal-alien-attack.json) |
+| Liquid Metal: Arena | 184830 | [184830-liquid-metal-arena.json](./184830-liquid-metal-arena.json) |
 | Liquid Pinball | 30357 | [30357-liquid-pinball.json](./30357-liquid-pinball.json) |
 | Liquid Space | 127078 | [127078-liquid-space.json](./127078-liquid-space.json) |
 | Liquid Space | 264554 | [264554-liquid-space.json](./264554-liquid-space.json) |
