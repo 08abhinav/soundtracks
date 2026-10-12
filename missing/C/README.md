@@ -1574,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CardShark Hearts | 83479 | [83479-cardshark-hearts.json](./83479-cardshark-hearts.json) |
 | Cardsharp | 417445 | [417445-cardsharp.json](./417445-cardsharp.json) |
 | Cardstronaut | 345058 | [345058-cardstronaut.json](./345058-cardstronaut.json) |
+| Cardterrupters | 213564 | [213564-cardterrupters.json](./213564-cardterrupters.json) |
 | Cardtographer | 330339 | [330339-cardtographer.json](./330339-cardtographer.json) |
 | CardWarden | 175409 | [175409-cardwarden.json](./175409-cardwarden.json) |
 | CardWirth | 172774 | [172774-cardwirth.json](./172774-cardwirth.json) |
@@ -5340,6 +5341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chucky Mendoza and the Curse of the Pharaoh | 132720 | [132720-chucky-mendoza-and-the-curse-of-the-pharaoh.json](./132720-chucky-mendoza-and-the-curse-of-the-pharaoh.json) |
 | Chucky: Slash & Dash | 307138 | [307138-chucky-slash-and-dash.json](./307138-chucky-slash-and-dash.json) |
 | Chucky: The Road To Heaven | 235449 | [235449-chucky-the-road-to-heaven.json](./235449-chucky-the-road-to-heaven.json) |
+| Chug the Tiny Tugboat | 213548 | [213548-chug-the-tiny-tugboat.json](./213548-chug-the-tiny-tugboat.json) |
 | Chuggington: Babysitter Brewster | 230548 | [230548-chuggington-babysitter-brewster.json](./230548-chuggington-babysitter-brewster.json) |
 | Chuhou Joutai | 133460 | [133460-chuhou-joutai.json](./133460-chuhou-joutai.json) |
 | Chuka Taisen | 386350 | [386350-chuka-taisen.json](./386350-chuka-taisen.json) |
@@ -7045,6 +7047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Break | 261180 | [261180-coffee-break.json](./261180-coffee-break.json) |
 | Coffee Break | 326214 | [326214-coffee-break.json](./326214-coffee-break.json) |
 | Coffee Break | 71743 | [71743-coffee-break.json](./71743-coffee-break.json) |
+| Coffee Break: A Sip Away from Doom | 213577 | [213577-coffee-break-a-sip-away-from-doom.json](./213577-coffee-break-a-sip-away-from-doom.json) |
 | Coffee Break: Head to Head | 207277 | [207277-coffee-break-head-to-head.json](./207277-coffee-break-head-to-head.json) |
 | Coffee Buns | 281377 | [281377-coffee-buns.json](./281377-coffee-buns.json) |
 | Coffee Crisis | 56697 | [56697-coffee-crisis.json](./56697-coffee-crisis.json) |
@@ -7188,6 +7191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Depth | 157202 | [157202-cold-depth.json](./157202-cold-depth.json) |
 | Cold Engines | 199474 | [199474-cold-engines.json](./199474-cold-engines.json) |
 | Cold Fear | 5780 | [5780-cold-fear.json](./5780-cold-fear.json) |
+| Cold Front | 213579 | [213579-cold-front.json](./213579-cold-front.json) |
 | Cold Front | 261455 | [261455-cold-front.json](./261455-cold-front.json) |
 | Cold Ground | 265523 | [265523-cold-ground.json](./265523-cold-ground.json) |
 | Cold Harvest | 191195 | [191195-cold-harvest.json](./191195-cold-harvest.json) |
@@ -11890,6 +11894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube 2x1 RailFarm | 331994 | [331994-cube-2x1-railfarm.json](./331994-cube-2x1-railfarm.json) |
 | Cube 332 | 109729 | [109729-cube-332.json](./109729-cube-332.json) |
 | Cube 3x1 | 331993 | [331993-cube-3x1.json](./331993-cube-3x1.json) |
+| Cube Adventure | 213545 | [213545-cube-adventure.json](./213545-cube-adventure.json) |
 | Cube Airport | 249186 | [249186-cube-airport.json](./249186-cube-airport.json) |
 | Cube Arena | 304900 | [304900-cube-arena.json](./304900-cube-arena.json) |
 | Cube Battlefield: 2048 | 267071 | [267071-cube-battlefield-2048.json](./267071-cube-battlefield-2048.json) |
@@ -12376,6 +12381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed | 230251 | [230251-cursed.json](./230251-cursed.json) |
 | Cursed | 376637 | [376637-cursed.json](./376637-cursed.json) |
 | Cursed 2 | 196786 | [196786-cursed-2.json](./196786-cursed-2.json) |
+| Cursed 3 | 213534 | [213534-cursed-3.json](./213534-cursed-3.json) |
 | Cursed Baby | 325831 | [325831-cursed-baby.json](./325831-cursed-baby.json) |
 | Cursed Bet | 253590 | [253590-cursed-bet.json](./253590-cursed-bet.json) |
 | Cursed Blocks | 146708 | [146708-cursed-blocks.json](./146708-cursed-blocks.json) |
