@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T05:51:13.070Z",
-  "total_soundtracks": 1495,
+  "generated_at": "2026-10-12T07:45:14.436Z",
+  "total_soundtracks": 1496,
   "games": [
     {
       "igdb_id": 7522,
@@ -15531,6 +15531,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/tormented-souls-2-original-soundtrack/1847460718?uo=4",
           "album_link_url": "https://album.link/i/1847460718"
+        }
+      ]
+    },
+    {
+      "igdb_id": 28028,
+      "game_name": "Total War: Warhammer II",
+      "game_url": "https://ostdb.net/games/total-war-warhammer-ii",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e82afbe1451de1e157bda479",
+      "albums": [
+        {
+          "album_name": "Total War: Warhammer II (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6o78CL054sQlHHqGIzxsiS",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
