@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O! Holy Knight | 285588 | [285588-o-holy-knight.json](./285588-o-holy-knight.json) |
 | O! My Genesis VR | 27182 | [27182-o-my-genesis-vr.json](./27182-o-my-genesis-vr.json) |
 | O! Strelalka!!! | 55265 | [55265-o-strelalka.json](./55265-o-strelalka.json) |
+| O.A.C: World Begins | 197581 | [197581-o-a-c-world-begins.json](./197581-o-a-c-world-begins.json) |
 | O.B.O.L | 402359 | [402359-o-b-o-l.json](./402359-o-b-o-l.json) |
 | O.D.T.: Escape... ...Or Die Trying | 45213 | [45213-o-d-t-escape-or-die-trying.json](./45213-o-d-t-escape-or-die-trying.json) |
 | O.J.'s All-American Race to Acquittal | 298307 | [298307-o-j-s-all-american-race-to-acquittal.json](./298307-o-j-s-all-american-race-to-acquittal.json) |
@@ -2059,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oogies Chicken Quest | 399170 | [399170-oogies-chicken-quest.json](./399170-oogies-chicken-quest.json) |
 | Oogy: Can You Help | 190086 | [190086-oogy-can-you-help.json](./190086-oogy-can-you-help.json) |
 | Ookami Game | 151847 | [151847-ookami-game.json](./151847-ookami-game.json) |
+| Ookami Kakushi | 197613 | [197613-ookami-kakushi.json](./197613-ookami-kakushi.json) |
 | Ookami to Koushinryou: Boku to Holo no Ichi-nen | 123449 | [123449-ookami-to-koushinryou-boku-to-holo-no-ichi-nen.json](./123449-ookami-to-koushinryou-boku-to-holo-no-ichi-nen.json) |
 | Ookami to Koushinryou: Umi wo Wataru Kaze | 61433 | [61433-ookami-to-koushinryou-umi-wo-wataru-kaze.json](./61433-ookami-to-koushinryou-umi-wo-wataru-kaze.json) |
 | Ookami-otoko Satsujin Jiken | 56755 | [56755-ookami-otoko-satsujin-jiken.json](./56755-ookami-otoko-satsujin-jiken.json) |
