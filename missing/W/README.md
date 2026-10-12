@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Survivors | 338553 | [338553-waifu-survivors.json](./338553-waifu-survivors.json) |
 | Waifu Uncovered | 375431 | [375431-waifu-uncovered.json](./375431-waifu-uncovered.json) |
 | Waifu vs. Evil | 154372 | [154372-waifu-vs-evil.json](./154372-waifu-vs-evil.json) |
+| Waifu Wars | 213573 | [213573-waifu-wars.json](./213573-waifu-wars.json) |
 | Waifu Wars Online | 119642 | [119642-waifu-wars-online.json](./119642-waifu-wars-online.json) |
 | Waifu Wars Splash | 183560 | [183560-waifu-wars-splash.json](./183560-waifu-wars-splash.json) |
 | Waifu Wave Defenders | 352238 | [352238-waifu-wave-defenders.json](./352238-waifu-wave-defenders.json) |
