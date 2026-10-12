@@ -14,6 +14,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E-Elementals | 208436 | [208436-e-elementals.json](./208436-e-elementals.json) |
 | E-FCC | 311742 | [311742-e-fcc.json](./311742-e-fcc.json) |
 | E-gon Adventures | 340538 | [340538-e-gon-adventures.json](./340538-e-gon-adventures.json) |
+| E-mail clue | 200388 | [200388-e-mail-clue.json](./200388-e-mail-clue.json) |
+| E-mail Football | 200386 | [200386-e-mail-football.json](./200386-e-mail-football.json) |
+| E-mail Nascar | 200387 | [200387-e-mail-nascar.json](./200387-e-mail-nascar.json) |
+| E-mail Upwords | 200389 | [200389-e-mail-upwords.json](./200389-e-mail-upwords.json) |
 | E-Motion | 13639 | [13639-e-motion.json](./13639-e-motion.json) |
 | E-On | 211701 | [211701-e-on.json](./211701-e-on.json) |
 | E-Police | 341531 | [341531-e-police.json](./341531-e-police.json) |
@@ -874,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Efficus: Kono Omoi wo Kimi ni... | 339910 | [339910-efficus-kono-omoi-wo-kimi-ni.json](./339910-efficus-kono-omoi-wo-kimi-ni.json) |
 | Effie: Galand's Edition | 155147 | [155147-effie-galands-edition.json](./155147-effie-galands-edition.json) |
 | Effigy | 218715 | [218715-effigy.json](./218715-effigy.json) |
+| Effigy: The Descent | 200385 | [200385-effigy-the-descent.json](./200385-effigy-the-descent.json) |
 | Effing Worms | 210662 | [210662-effing-worms.json](./210662-effing-worms.json) |
 | Effortworld | 265655 | [265655-effortworld.json](./265655-effortworld.json) |
 | Effugium | 255954 | [255954-effugium.json](./255954-effugium.json) |
@@ -4886,6 +4891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorcism Agency | 355208 | [355208-exorcism-agency.json](./355208-exorcism-agency.json) |
 | Exorcism Express | 181153 | [181153-exorcism-express.json](./181153-exorcism-express.json) |
 | Exorcism: Case Zero | 72489 | [72489-exorcism-case-zero.json](./72489-exorcism-case-zero.json) |
+| Exorcist | 200360 | [200360-exorcist.json](./200360-exorcist.json) |
 | Exorcist | 411051 | [411051-exorcist.json](./411051-exorcist.json) |
 | Exorcist 2: Crow Magic | 236845 | [236845-exorcist-2-crow-magic.json](./236845-exorcist-2-crow-magic.json) |
 | Exorcist Hotline | 399270 | [399270-exorcist-hotline.json](./399270-exorcist-hotline.json) |
