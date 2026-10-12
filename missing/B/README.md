@@ -4983,6 +4983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binaries | 18207 | [18207-binaries.json](./18207-binaries.json) |
 | Binarion | 242600 | [242600-binarion.json](./242600-binarion.json) |
 | Binary | 172678 | [172678-binary.json](./172678-binary.json) |
+| Binary | 208640 | [208640-binary.json](./208640-binary.json) |
 | Binary Battle | 360134 | [360134-binary-battle.json](./360134-binary-battle.json) |
 | Binary Blocks | 182894 | [182894-binary-blocks.json](./182894-binary-blocks.json) |
 | Binary Boy | 125407 | [125407-binary-boy.json](./125407-binary-boy.json) |
@@ -5797,6 +5798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Snow | 221849 | [221849-black-snow.json](./221849-black-snow.json) |
 | Black Spire | 380005 | [380005-black-spire.json](./380005-black-spire.json) |
 | Black Spot | 193880 | [193880-black-spot.json](./193880-black-spot.json) |
+| Black Stallion Cabaret | 208575 | [208575-black-stallion-cabaret.json](./208575-black-stallion-cabaret.json) |
 | Black Star | 319571 | [319571-black-star.json](./319571-black-star.json) |
 | Black stone | 284000 | [284000-black-stone.json](./284000-black-stone.json) |
 | Black Stone: Magic & Steel | 5750 | [5750-black-stone-magic-and-steel.json](./5750-black-stone-magic-and-steel.json) |
@@ -6544,6 +6546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobber | 269277 | [269277-blobber.json](./269277-blobber.json) |
 | Blobbers | 41529 | [41529-blobbers.json](./41529-blobbers.json) |
 | Blobbins | 151745 | [151745-blobbins.json](./151745-blobbins.json) |
+| Blobble Wars 2 | 208636 | [208636-blobble-wars-2.json](./208636-blobble-wars-2.json) |
 | Blobbs Remastered | 335810 | [335810-blobbs-remastered.json](./335810-blobbs-remastered.json) |
 | Blobbton | 315687 | [315687-blobbton.json](./315687-blobbton.json) |
 | Blobby Jump | 194287 | [194287-blobby-jump.json](./194287-blobby-jump.json) |
