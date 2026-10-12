@@ -2437,6 +2437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Embrace: Paradisus | 186332 | [186332-red-embrace-paradisus.json](./186332-red-embrace-paradisus.json) |
 | Red End | 292233 | [292233-red-end.json](./292233-red-end.json) |
 | Red Entity | 181917 | [181917-red-entity.json](./181917-red-entity.json) |
+| Red Escape Bundle | 215318 | [215318-red-escape-bundle.json](./215318-red-escape-bundle.json) |
 | Red Eye | 274378 | [274378-red-eye.json](./274378-red-eye.json) |
 | Red Eyes | 103195 | [103195-red-eyes.json](./103195-red-eyes.json) |
 | Red Faction | 215080 | [215080-red-faction.json](./215080-red-faction.json) |
@@ -3336,6 +3337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | reProgram | 128633 | [128633-reprogram.json](./128633-reprogram.json) |
 | Reptile Island | 386383 | [386383-reptile-island.json](./386383-reptile-island.json) |
 | Reptile Park VR | 253863 | [253863-reptile-park-vr.json](./253863-reptile-park-vr.json) |
+| Reptile Rehab | 215323 | [215323-reptile-rehab.json](./215323-reptile-rehab.json) |
 | Reptile Silhouette | 361344 | [361344-reptile-silhouette.json](./361344-reptile-silhouette.json) |
 | Reptilian Rising | 153846 | [153846-reptilian-rising.json](./153846-reptilian-rising.json) |
 | Reptillian Rebellion | 123610 | [123610-reptillian-rebellion.json](./123610-reptillian-rebellion.json) |
@@ -3611,6 +3613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | reSnake | 230734 | [230734-resnake.json](./230734-resnake.json) |
 | Resobeat | 377046 | [377046-resobeat.json](./377046-resobeat.json) |
 | Resolutiion | 121996 | [121996-resolutiion.json](./121996-resolutiion.json) |
+| Resonance | 215322 | [215322-resonance.json](./215322-resonance.json) |
 | Resonance | 276280 | [276280-resonance.json](./276280-resonance.json) |
 | Resonance | 6327 | [6327-resonance.json](./6327-resonance.json) |
 | Resonance chain | 295488 | [295488-resonance-chain.json](./295488-resonance-chain.json) |
@@ -4240,6 +4243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rewrite+ | 172548 | [172548-rewrite.json](./172548-rewrite.json) |
 | Rewritten | 294552 | [294552-rewritten.json](./294552-rewritten.json) |
 | Rewritten Recalls | 269182 | [269182-rewritten-recalls.json](./269182-rewritten-recalls.json) |
+| Rex | 215321 | [215321-rex.json](./215321-rex.json) |
 | Rex | 45348 | [45348-rex.json](./45348-rex.json) |
 | ReX | 99193 | [99193-rex.json](./99193-rex.json) |
 | Rex Blade: The Battle Begins | 209165 | [209165-rex-blade-the-battle-begins.json](./209165-rex-blade-the-battle-begins.json) |
