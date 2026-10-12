@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okinawa Rush | 69375 | [69375-okinawa-rush.json](./69375-okinawa-rush.json) |
 | OkioGo! | 61061 | [61061-okiogo.json](./61061-okiogo.json) |
 | Okiraku Daifugou 3D | 222326 | [222326-okiraku-daifugou-3d.json](./222326-okiraku-daifugou-3d.json) |
+| Okiraku Fishing 3D | 222450 | [222450-okiraku-fishing-3d.json](./222450-okiraku-fishing-3d.json) |
 | Okiraku Golf 3D | 222293 | [222293-okiraku-golf-3d.json](./222293-okiraku-golf-3d.json) |
 | Okiraku Ping Pong 3D | 222329 | [222329-okiraku-ping-pong-3d.json](./222329-okiraku-ping-pong-3d.json) |
 | Okiro | 371886 | [371886-okiro.json](./371886-okiro.json) |
@@ -2533,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order 13 VR | 402889 | [402889-order-13-vr.json](./402889-order-13-vr.json) |
 | Order Automatica | 213444 | [213444-order-automatica.json](./213444-order-automatica.json) |
 | Order from Caos | 139340 | [139340-order-from-caos.json](./139340-order-from-caos.json) |
+| Order Land | 222494 | [222494-order-land.json](./222494-order-land.json) |
 | Order matters | 26486 | [26486-order-matters.json](./26486-order-matters.json) |
 | Order of Battle: Allies Defiant | 154565 | [154565-order-of-battle-allies-defiant.json](./154565-order-of-battle-allies-defiant.json) |
 | Order of Battle: Allies Victorious | 220614 | [220614-order-of-battle-allies-victorious.json](./220614-order-of-battle-allies-victorious.json) |
