@@ -224,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daggers Cavern | 308469 | [308469-daggers-cavern.json](./308469-daggers-cavern.json) |
 | Dagon: The Little Glass Bottle | 234512 | [234512-dagon-the-little-glass-bottle.json](./234512-dagon-the-little-glass-bottle.json) |
 | Dagon: The Railway Horror | 266823 | [266823-dagon-the-railway-horror.json](./266823-dagon-the-railway-horror.json) |
+| Daguri: Gambling Apocalypse | 208657 | [208657-daguri-gambling-apocalypse.json](./208657-daguri-gambling-apocalypse.json) |
 | Dah-Varsity | 304205 | [304205-dah-varsity.json](./304205-dah-varsity.json) |
 | Dahalo | 127252 | [127252-dahalo.json](./127252-dahalo.json) |
 | Dahlia | 58839 | [58839-dahlia.json](./58839-dahlia.json) |
@@ -8112,6 +8113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Defense | 366295 | [366295-doodle-defense.json](./366295-doodle-defense.json) |
 | Doodle Devil: Dark Side | 386861 | [386861-doodle-devil-dark-side.json](./386861-doodle-devil-dark-side.json) |
 | Doodle Devil: Pack | 212360 | [212360-doodle-devil-pack.json](./212360-doodle-devil-pack.json) |
+| Doodle Drive | 208649 | [208649-doodle-drive.json](./208649-doodle-drive.json) |
 | Doodle Drops: Physics Puzzler | 88784 | [88784-doodle-drops-physics-puzzler.json](./88784-doodle-drops-physics-puzzler.json) |
 | Doodle Empires | 336893 | [336893-doodle-empires.json](./336893-doodle-empires.json) |
 | Doodle Escape | 338011 | [338011-doodle-escape.json](./338011-doodle-escape.json) |
