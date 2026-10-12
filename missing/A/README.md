@@ -3958,6 +3958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice and You in the planet of numbers | 144141 | [144141-alice-and-you-in-the-planet-of-numbers.json](./144141-alice-and-you-in-the-planet-of-numbers.json) |
 | Alice Clancy's Shattered Dimensions | 279076 | [279076-alice-clancys-shattered-dimensions.json](./279076-alice-clancys-shattered-dimensions.json) |
 | Alice Closet | 159283 | [159283-alice-closet.json](./159283-alice-closet.json) |
+| Alice Fiction | 188327 | [188327-alice-fiction.json](./188327-alice-fiction.json) |
 | Alice Gear Aegis CS: Concerto of Simulatrix | 198385 | [198385-alice-gear-aegis-cs-concerto-of-simulatrix.json](./198385-alice-gear-aegis-cs-concerto-of-simulatrix.json) |
 | Alice Gear Aegis CS: Concerto of Simulatrix - Limited Edition | 198386 | [198386-alice-gear-aegis-cs-concerto-of-simulatrix-limited-edition.json](./198386-alice-gear-aegis-cs-concerto-of-simulatrix-limited-edition.json) |
 | Alice Greenfingers 2 | 64732 | [64732-alice-greenfingers-2.json](./64732-alice-greenfingers-2.json) |
@@ -4708,6 +4709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha | 313804 | [313804-alpha.json](./313804-alpha.json) |
 | Alpha 2 | 323996 | [323996-alpha-2.json](./323996-alpha-2.json) |
 | Alpha Accident: Terra Nova | 256878 | [256878-alpha-accident-terra-nova.json](./256878-alpha-accident-terra-nova.json) |
+| Alpha Ace | 188364 | [188364-alpha-ace.json](./188364-alpha-ace.json) |
 | Alpha and Omega | 98810 | [98810-alpha-and-omega.json](./98810-alpha-and-omega.json) |
 | Alpha Beam With Ernie | 3252 | [3252-alpha-beam-with-ernie.json](./3252-alpha-beam-with-ernie.json) |
 | Alpha Black Zero: Intrepid Protocol | 73232 | [73232-alpha-black-zero-intrepid-protocol.json](./73232-alpha-black-zero-intrepid-protocol.json) |
@@ -5760,6 +5762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Warlords: Aequilibrium | 102219 | [102219-ancient-warlords-aequilibrium.json](./102219-ancient-warlords-aequilibrium.json) |
 | Ancient Warriors | 283901 | [283901-ancient-warriors.json](./283901-ancient-warriors.json) |
 | Ancient Wars: Medieval Crusades | 211401 | [211401-ancient-wars-medieval-crusades.json](./211401-ancient-wars-medieval-crusades.json) |
+| Ancient Wars: Sparta Definitive Edition | 188425 | [188425-ancient-wars-sparta-definitive-edition.json](./188425-ancient-wars-sparta-definitive-edition.json) |
 | Ancient Wind Spread | 270784 | [270784-ancient-wind-spread.json](./270784-ancient-wind-spread.json) |
 | Ancient Witch Arena | 215659 | [215659-ancient-witch-arena.json](./215659-ancient-witch-arena.json) |
 | Ancient Wonders: Gardens of Babylon | 273656 | [273656-ancient-wonders-gardens-of-babylon.json](./273656-ancient-wonders-gardens-of-babylon.json) |
@@ -7188,6 +7191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - Museum of Horror! | 171089 | [171089-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-museum-of-horror.json](./171089-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-museum-of-horror.json) |
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - The Thin Blue Line! | 171088 | [171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json](./171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json) |
 | Apocalypse Love Shelter | 290495 | [290495-apocalypse-love-shelter.json](./290495-apocalypse-love-shelter.json) |
+| Apocalypse Max | 188353 | [188353-apocalypse-max.json](./188353-apocalypse-max.json) |
 | Apocalypse Mechanism | 103499 | [103499-apocalypse-mechanism.json](./103499-apocalypse-mechanism.json) |
 | Apocalypse Meow: Chapter One - Gatitos: The Paws of Fate | 71172 | [71172-apocalypse-meow-chapter-one-gatitos-the-paws-of-fate.json](./71172-apocalypse-meow-chapter-one-gatitos-the-paws-of-fate.json) |
 | Apocalypse Neighbors | 14357 | [14357-apocalypse-neighbors.json](./14357-apocalypse-neighbors.json) |
