@@ -1285,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iGP Manager | 59353 | [59353-igp-manager.json](./59353-igp-manager.json) |
 | IGPX | 338690 | [338690-igpx.json](./338690-igpx.json) |
 | IGPX: Immortal Grand Prix | 20563 | [20563-igpx-immortal-grand-prix.json](./20563-igpx-immortal-grand-prix.json) |
+| Igrerea: The Land Above the Stars | 217483 | [217483-igrerea-the-land-above-the-stars.json](./217483-igrerea-the-land-above-the-stars.json) |
 | iGrow Game | 21986 | [21986-igrow-game.json](./21986-igrow-game.json) |
 | IGS Classic Arcade Collection | 245916 | [245916-igs-classic-arcade-collection.json](./245916-igs-classic-arcade-collection.json) |
 | IGT Aztec Temple | 25064 | [25064-igt-aztec-temple.json](./25064-igt-aztec-temple.json) |
@@ -3314,6 +3315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into a Hearth Yonder | 341682 | [341682-into-a-hearth-yonder.json](./341682-into-a-hearth-yonder.json) |
 | Into Arith | 270567 | [270567-into-arith.json](./270567-into-arith.json) |
 | Into Asteroid Belt | 178641 | [178641-into-asteroid-belt.json](./178641-into-asteroid-belt.json) |
+| Into Evil | 217470 | [217470-into-evil.json](./217470-into-evil.json) |
 | Into Hell | 261179 | [261179-into-hell.json](./261179-into-hell.json) |
 | Into Magicland | 45342 | [45342-into-magicland.json](./45342-into-magicland.json) |
 | Into Oblivion | 301586 | [301586-into-oblivion.json](./301586-into-oblivion.json) |
