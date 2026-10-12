@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T12:10:13.714Z",
-  "total_soundtracks": 1528,
+  "generated_at": "2026-10-12T12:10:27.815Z",
+  "total_soundtracks": 1529,
   "games": [
     {
       "igdb_id": 7522,
@@ -12877,6 +12877,20 @@
           "spotify_url": "https://music.apple.com/us/album/season-a-letter-to-the-future-original-soundtrack/1668889357?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1668889357"
+        }
+      ]
+    },
+    {
+      "igdb_id": 3216,
+      "game_name": "Secret of Mana",
+      "game_url": "https://ostdb.net/games/secret-of-mana",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/83/55/0d/83550d95-95e6-b04e-f1b4-9464424c763e/0205_jk_seiken_densetsu2_haishin_3000x3000px.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Secret of Mana Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6M9aWlXAbhmldOntn8Z46I",
+          "apple_music_url": "https://music.apple.com/us/album/%E8%81%96%E5%89%A3%E4%BC%9D%E8%AA%AC2-secret-of-mana-original-soundtrack/1345280355",
+          "album_link_url": "https://album.link/i/1345280355"
         }
       ]
     },
