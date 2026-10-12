@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T11:19:22.881Z",
-  "total_missing": 201618,
+  "generated_at": "2026-10-12T11:32:04.403Z",
+  "total_missing": 201616,
   "games": [
     {
       "igdb_id": 191680,
@@ -618278,11 +618278,6 @@
       "file": "missing/P/254498-penthouse-interactive-virtual-photo-shoot-vol-1.json"
     },
     {
-      "igdb_id": 204623,
-      "game_name": "Pentiment",
-      "file": "missing/P/204623-pentiment.json"
-    },
-    {
       "igdb_id": 92073,
       "game_name": "Pentium",
       "file": "missing/P/92073-pentium.json"
@@ -802636,11 +802631,6 @@
       "igdb_id": 371136,
       "game_name": "Styx: Final Shores",
       "file": "missing/S/371136-styx-final-shores.json"
-    },
-    {
-      "igdb_id": 6072,
-      "game_name": "Styx: Master of Shadows",
-      "file": "missing/S/6072-styx-master-of-shadows.json"
     },
     {
       "igdb_id": 13554,
