@@ -817,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warehouse 30 | 403013 | [403013-warehouse-30.json](./403013-warehouse-30.json) |
 | Warehouse and Logistics Simulator | 17031 | [17031-warehouse-and-logistics-simulator.json](./17031-warehouse-and-logistics-simulator.json) |
 | Warehouse Bots | 298179 | [298179-warehouse-bots.json](./298179-warehouse-bots.json) |
+| Warehouse Hunter | 212502 | [212502-warehouse-hunter.json](./212502-warehouse-hunter.json) |
 | Warehouse Job | 353773 | [353773-warehouse-job.json](./353773-warehouse-job.json) |
 | Warehouse Manager Simulator | 294296 | [294296-warehouse-manager-simulator.json](./294296-warehouse-manager-simulator.json) |
 | Warehouse Seduction | 279552 | [279552-warehouse-seduction.json](./279552-warehouse-seduction.json) |
