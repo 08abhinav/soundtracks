@@ -3614,6 +3614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deflection Dimension | 102353 | [102353-deflection-dimension.json](./102353-deflection-dimension.json) |
 | Deflector | 179190 | [179190-deflector.json](./179190-deflector.json) |
 | Deflector | 93563 | [93563-deflector.json](./93563-deflector.json) |
+| Deflector: Specimen Zero | 189925 | [189925-deflector-specimen-zero.json](./189925-deflector-specimen-zero.json) |
 | Deflectorium | 293860 | [293860-deflectorium.json](./293860-deflectorium.json) |
 | Deflektor | 12042 | [12042-deflektor.json](./12042-deflektor.json) |
 | Deflex | 92476 | [92476-deflex.json](./92476-deflex.json) |
