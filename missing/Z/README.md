@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaccaria Pinball: Deluxe Tables Pack 1 | 208453 | [208453-zaccaria-pinball-deluxe-tables-pack-1.json](./208453-zaccaria-pinball-deluxe-tables-pack-1.json) |
 | Zaccaria Pinball: Earth Wind Fire Deluxe Pinball Table | 349922 | [349922-zaccaria-pinball-earth-wind-fire-deluxe-pinball-table.json](./349922-zaccaria-pinball-earth-wind-fire-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Electro-Mechanical Table Pack 2 | 411008 | [411008-zaccaria-pinball-electro-mechanical-table-pack-2.json](./411008-zaccaria-pinball-electro-mechanical-table-pack-2.json) |
+| Zaccaria Pinball: Electro-Mechanical Tables Pack 1 | 224154 | [224154-zaccaria-pinball-electro-mechanical-tables-pack-1.json](./224154-zaccaria-pinball-electro-mechanical-tables-pack-1.json) |
 | Zaccaria Pinball: Fallen Aces Table Pack | 395459 | [395459-zaccaria-pinball-fallen-aces-table-pack.json](./395459-zaccaria-pinball-fallen-aces-table-pack.json) |
 | Zaccaria Pinball: Future World Deluxe Pinball Table | 349923 | [349923-zaccaria-pinball-future-world-deluxe-pinball-table.json](./349923-zaccaria-pinball-future-world-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Locomotion 2018 Table | 158489 | [158489-zaccaria-pinball-locomotion-2018-table.json](./158489-zaccaria-pinball-locomotion-2018-table.json) |
