@@ -3357,6 +3357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Text Adventure: Xianghua-hen | 227749 | [227749-text-adventure-xianghua-hen.json](./227749-text-adventure-xianghua-hen.json) |
 | Text and Drive: Friendship Never Dies | 131384 | [131384-text-and-drive-friendship-never-dies.json](./131384-text-and-drive-friendship-never-dies.json) |
 | Text Dungeon: The Ring of Life | 407450 | [407450-text-dungeon-the-ring-of-life.json](./407450-text-dungeon-the-ring-of-life.json) |
+| Text Express | 207031 | [207031-text-express.json](./207031-text-express.json) |
 | Text Tiles | 46564 | [46564-text-tiles.json](./46564-text-tiles.json) |
 | Text Wall | 339272 | [339272-text-wall.json](./339272-text-wall.json) |
 | Text Your Life | 339270 | [339270-text-your-life.json](./339270-text-your-life.json) |
@@ -6331,7 +6332,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life 2: Sandy Shores World | 171592 | [171592-the-game-of-life-2-sandy-shores-world.json](./171592-the-game-of-life-2-sandy-shores-world.json) |
 | The Game of Life 2: Sweet Haven World | 207800 | [207800-the-game-of-life-2-sweet-haven-world.json](./207800-the-game-of-life-2-sweet-haven-world.json) |
 | The Game of Life 2: Under the Sea | 227729 | [227729-the-game-of-life-2-under-the-sea.json](./227729-the-game-of-life-2-under-the-sea.json) |
+| The Game of Life: Path to Success | 207002 | [207002-the-game-of-life-path-to-success.json](./207002-the-game-of-life-path-to-success.json) |
 | The Game of Life: RPG Jinsei Game | 48819 | [48819-the-game-of-life-rpg-jinsei-game.json](./48819-the-game-of-life-rpg-jinsei-game.json) |
+| The Game of Life: SpongeBob SquarePants Edition | 207003 | [207003-the-game-of-life-spongebob-squarepants-edition.json](./207003-the-game-of-life-spongebob-squarepants-edition.json) |
 | The Game of The Playful | 230930 | [230930-the-game-of-the-playful.json](./230930-the-game-of-the-playful.json) |
 | The Game of Unknown | 195127 | [195127-the-game-of-unknown.json](./195127-the-game-of-unknown.json) |
 | The Game of Worlds Tournament! | 57485 | [57485-the-game-of-worlds-tournament.json](./57485-the-game-of-worlds-tournament.json) |
@@ -6821,6 +6824,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hidden Game Society | 150254 | [150254-the-hidden-game-society.json](./150254-the-hidden-game-society.json) |
 | The Hidden Ghost | 195483 | [195483-the-hidden-ghost.json](./195483-the-hidden-ghost.json) |
 | The Hidden Object Collection | 146730 | [146730-the-hidden-object-collection.json](./146730-the-hidden-object-collection.json) |
+| The Hidden Object Show Seasons 1 & 2 | 207010 | [207010-the-hidden-object-show-seasons-1-and-2.json](./207010-the-hidden-object-show-seasons-1-and-2.json) |
+| The Hidden Object Show: Season 2 | 207009 | [207009-the-hidden-object-show-season-2.json](./207009-the-hidden-object-show-season-2.json) |
 | The Hidden Prophecies of Nostradamus | 210208 | [210208-the-hidden-prophecies-of-nostradamus.json](./210208-the-hidden-prophecies-of-nostradamus.json) |
 | The Hidden Room: Pyramid | 244383 | [244383-the-hidden-room-pyramid.json](./244383-the-hidden-room-pyramid.json) |
 | The Hidden: Source | 70647 | [70647-the-hidden-source.json](./70647-the-hidden-source.json) |
@@ -6837,6 +6842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The History Channel: Crusades - Quest for Power | 69799 | [69799-the-history-channel-crusades-quest-for-power.json](./69799-the-history-channel-crusades-quest-for-power.json) |
 | The History Channel: Great Battles of Rome | 143345 | [143345-the-history-channel-great-battles-of-rome.json](./143345-the-history-channel-great-battles-of-rome.json) |
 | The History Channel: Great Battles of Rome | 20375 | [20375-the-history-channel-great-battles-of-rome.json](./20375-the-history-channel-great-battles-of-rome.json) |
+| The History Channel: Lost Worlds | 207011 | [207011-the-history-channel-lost-worlds.json](./207011-the-history-channel-lost-worlds.json) |
 | The History Channel: The Civil War Experience | 200675 | [200675-the-history-channel-the-civil-war-experience.json](./200675-the-history-channel-the-civil-war-experience.json) |
 | The History of Everything | 415205 | [415205-the-history-of-everything.json](./415205-the-history-of-everything.json) |
 | The History of Fruit | 268471 | [268471-the-history-of-fruit.json](./268471-the-history-of-fruit.json) |
@@ -7411,6 +7417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Dragons | 6814 | [6814-the-king-of-dragons.json](./6814-the-king-of-dragons.json) |
 | The King of Drive: Parking Edition | 196102 | [196102-the-king-of-drive-parking-edition.json](./196102-the-king-of-drive-parking-edition.json) |
 | The King of Fighter XV: Characters - Team Awakened Orochi | 212988 | [212988-the-king-of-fighter-xv-characters-team-awakened-orochi.json](./212988-the-king-of-fighter-xv-characters-team-awakened-orochi.json) |
+| The King of Fighters | 207007 | [207007-the-king-of-fighters.json](./207007-the-king-of-fighters.json) |
 | The King of Fighters '95 | 15427 | [15427-the-king-of-fighters-95.json](./15427-the-king-of-fighters-95.json) |
 | The King of Fighters '96 Collection | 75462 | [75462-the-king-of-fighters-96-collection.json](./75462-the-king-of-fighters-96-collection.json) |
 | The King of Fighters '97 | 15428 | [15428-the-king-of-fighters-97.json](./15428-the-king-of-fighters-97.json) |
@@ -17704,6 +17711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Track No.9 | 339808 | [339808-track-no-9.json](./339808-track-no-9.json) |
 | Track Racing: The Holy Rosary | 275133 | [275133-track-racing-the-holy-rosary.json](./275133-track-racing-the-holy-rosary.json) |
 | Track Star | 284441 | [284441-track-star.json](./284441-track-star.json) |
+| Track: Breakthrough Gaming Arcade - Challenge Mode Edition | 207049 | [207049-track-breakthrough-gaming-arcade-challenge-mode-edition.json](./207049-track-breakthrough-gaming-arcade-challenge-mode-edition.json) |
 | Trackastrophe! | 333074 | [333074-trackastrophe.json](./333074-trackastrophe.json) |
 | TrackDayR | 143045 | [143045-trackdayr.json](./143045-trackdayr.json) |
 | Tracked: Shoot to Survive | 360773 | [360773-tracked-shoot-to-survive.json](./360773-tracked-shoot-to-survive.json) |
@@ -19598,6 +19606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trident's Wake | 74813 | [74813-tridents-wake.json](./74813-tridents-wake.json) |
 | Tridle | 228715 | [228715-tridle.json](./228715-tridle.json) |
 | Tridonis | 62749 | [62749-tridonis.json](./62749-tridonis.json) |
+| Triennale Game Collection Vol. 2 | 207027 | [207027-triennale-game-collection-vol-2.json](./207027-triennale-game-collection-vol-2.json) |
 | Trifecta | 309556 | [309556-trifecta.json](./309556-trifecta.json) |
 | Trifide | 94381 | [94381-trifide.json](./94381-trifide.json) |
 | Trifoil | 312574 | [312574-trifoil.json](./312574-trifoil.json) |
