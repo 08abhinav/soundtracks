@@ -2295,6 +2295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear The Void | 272256 | [272256-fear-the-void.json](./272256-fear-the-void.json) |
 | Fear the Walking Dead: Dead Run | 58483 | [58483-fear-the-walking-dead-dead-run.json](./58483-fear-the-walking-dead-dead-run.json) |
 | Fear Them | 187806 | [187806-fear-them.json](./187806-fear-them.json) |
+| Fear Therapy | 185995 | [185995-fear-therapy.json](./185995-fear-therapy.json) |
 | Fear Virtual | 302098 | [302098-fear-virtual.json](./302098-fear-virtual.json) |
 | Fear Within | 389704 | [389704-fear-within.json](./389704-fear-within.json) |
 | Fear: Call of the village. | 190731 | [190731-fear-call-of-the-village.json](./190731-fear-call-of-the-village.json) |
@@ -5124,6 +5125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flippets | 321657 | [321657-flippets.json](./321657-flippets.json) |
 | Flippin Misfits | 212809 | [212809-flippin-misfits.json](./212809-flippin-misfits.json) |
 | Flippin' Phones | 58884 | [58884-flippin-phones.json](./58884-flippin-phones.json) |
+| Flipping Beat | 185976 | [185976-flipping-beat.json](./185976-flipping-beat.json) |
 | Flipping Filip | 104820 | [104820-flipping-filip.json](./104820-flipping-filip.json) |
 | Flipping Frogs 64 | 369060 | [369060-flipping-frogs-64.json](./369060-flipping-frogs-64.json) |
 | Flipping in the air | 278703 | [278703-flipping-in-the-air.json](./278703-flipping-in-the-air.json) |
