@@ -276,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake Bakery | 245204 | [245204-cake-bakery.json](./245204-cake-bakery.json) |
 | Cake Bash | 113826 | [113826-cake-bash.json](./113826-cake-bash.json) |
 | Cake Bites Make & Bake: Cooking Dessert Kids Game | 109012 | [109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json](./109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json) |
+| Cake Clicker | 183290 | [183290-cake-clicker.json](./183290-cake-clicker.json) |
 | Cake Duel | 134401 | [134401-cake-duel.json](./134401-cake-duel.json) |
 | Cake Invaders | 151611 | [151611-cake-invaders.json](./151611-cake-invaders.json) |
 | Cake Kills Candy | 184988 | [184988-cake-kills-candy.json](./184988-cake-kills-candy.json) |
@@ -1088,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsule Force | 11184 | [11184-capsule-force.json](./11184-capsule-force.json) |
 | Capsule Hotel Simulator | 159887 | [159887-capsule-hotel-simulator.json](./159887-capsule-hotel-simulator.json) |
 | Capsule Jump | 86564 | [86564-capsule-jump.json](./86564-capsule-jump.json) |
+| Capsule Lock | 183293 | [183293-capsule-lock.json](./183293-capsule-lock.json) |
 | Capsule Rush | 218710 | [218710-capsule-rush.json](./218710-capsule-rush.json) |
 | Capsule Servant | 121441 | [121441-capsule-servant.json](./121441-capsule-servant.json) |
 | Capsule Silence XXIV | 58737 | [58737-capsule-silence-xxiv.json](./58737-capsule-silence-xxiv.json) |
@@ -3465,6 +3467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chalicebound | 300985 | [300985-chalicebound.json](./300985-chalicebound.json) |
 | Chalk River | 322857 | [322857-chalk-river.json](./322857-chalk-river.json) |
 | Chalk Up! | 175184 | [175184-chalk-up.json](./175184-chalk-up.json) |
+| Chalkboard | 183279 | [183279-chalkboard.json](./183279-chalkboard.json) |
 | Chalkboard Sports Baseball | 80123 | [80123-chalkboard-sports-baseball.json](./80123-chalkboard-sports-baseball.json) |
 | Chalked | 90906 | [90906-chalked.json](./90906-chalked.json) |
 | Chalkship | 114924 | [114924-chalkship.json](./114924-chalkship.json) |
