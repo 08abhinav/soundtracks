@@ -11248,6 +11248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purr Bricks | 396012 | [396012-purr-bricks.json](./396012-purr-bricks.json) |
 | Purr Pals Purrfection | 209375 | [209375-purr-pals-purrfection.json](./209375-purr-pals-purrfection.json) |
 | Purranoia | 385218 | [385218-purranoia.json](./385218-purranoia.json) |
+| Purrate Adventure: Volcano Isle | 200382 | [200382-purrate-adventure-volcano-isle.json](./200382-purrate-adventure-volcano-isle.json) |
 | Purrates | 353799 | [353799-purrates.json](./353799-purrates.json) |
 | Purrdy's Race | 335111 | [335111-purrdys-race.json](./335111-purrdys-race.json) |
 | Purrfect Alchemy | 337808 | [337808-purrfect-alchemy.json](./337808-purrfect-alchemy.json) |
