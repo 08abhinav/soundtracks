@@ -3024,6 +3024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavemen: The Rise of Tribe | 249895 | [249895-cavemen-the-rise-of-tribe.json](./249895-cavemen-the-rise-of-tribe.json) |
 | Cavephobia | 285393 | [285393-cavephobia.json](./285393-cavephobia.json) |
 | Cavequest | 2876 | [2876-cavequest.json](./2876-cavequest.json) |
+| Caver | 199330 | [199330-caver.json](./199330-caver.json) |
 | Cavern | 272856 | [272856-cavern.json](./272856-cavern.json) |
 | Cavern Adventurers | 291983 | [291983-cavern-adventurers.json](./291983-cavern-adventurers.json) |
 | Cavern Commandos | 171458 | [171458-cavern-commandos.json](./171458-cavern-commandos.json) |
@@ -6313,6 +6314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleopatra Fortune: S-Tribute | 225886 | [225886-cleopatra-fortune-s-tribute.json](./225886-cleopatra-fortune-s-tribute.json) |
 | Cleopatra no Mahou | 41328 | [41328-cleopatra-no-mahou.json](./41328-cleopatra-no-mahou.json) |
 | Clériga | 300674 | [300674-cleriga.json](./300674-cleriga.json) |
+| Cleromancy | 199305 | [199305-cleromancy.json](./199305-cleromancy.json) |
 | Cleveland 1968 | 319933 | [319933-cleveland-1968.json](./319933-cleveland-1968.json) |
 | Clever & Smart: A Movie Adventure | 98237 | [98237-clever-and-smart-a-movie-adventure.json](./98237-clever-and-smart-a-movie-adventure.json) |
 | Clever Dog | 346051 | [346051-clever-dog.json](./346051-clever-dog.json) |
