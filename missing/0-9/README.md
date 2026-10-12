@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Screen Platformer | 97902 | [97902-1-screen-platformer.json](./97902-1-screen-platformer.json) |
 | 1 Screen Platformer 2 | 133473 | [133473-1-screen-platformer-2.json](./133473-1-screen-platformer-2.json) |
 | 1 Shot 1 Kill | 297759 | [297759-1-shot-1-kill.json](./297759-1-shot-1-kill.json) |
+| 1 Teratoaster | 184343 | [184343-1-teratoaster.json](./184343-1-teratoaster.json) |
 | 1 Thousand Deaths | 411656 | [411656-1-thousand-deaths.json](./411656-1-thousand-deaths.json) |
 | 1 Trait Escape | 237063 | [237063-1-trait-escape.json](./237063-1-trait-escape.json) |
 | 1 vs. 100 | 138101 | [138101-1-vs-100.json](./138101-1-vs-100.json) |
@@ -926,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Player Baseball | 245578 | [245578-2-player-baseball.json](./245578-2-player-baseball.json) |
 | 2 Player games : the Challenge | 208905 | [208905-2-player-games-the-challenge.json](./208905-2-player-games-the-challenge.json) |
 | 2 Player Soccer Squad | 12355 | [12355-2-player-soccer-squad.json](./12355-2-player-soccer-squad.json) |
+| 2 Seconds | 183806 | [183806-2-seconds.json](./183806-2-seconds.json) |
 | 2 Sectors | 260785 | [260785-2-sectors.json](./260785-2-sectors.json) |
 | 2 Spicy | 66967 | [66967-2-spicy.json](./66967-2-spicy.json) |
 | 2 Synchro Hedgehogs | 167831 | [167831-2-synchro-hedgehogs.json](./167831-2-synchro-hedgehogs.json) |
@@ -952,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20 Challenges: Episode 3 - The Tale from a Bone | 339244 | [339244-20-challenges-episode-3-the-tale-from-a-bone.json](./339244-20-challenges-episode-3-the-tale-from-a-bone.json) |
 | 20 Challenges: Episode 4 - Temple of the Elements | 344022 | [344022-20-challenges-episode-4-temple-of-the-elements.json](./344022-20-challenges-episode-4-temple-of-the-elements.json) |
 | 20 Challenges: Episode 5 - Community Vibe | 392352 | [392352-20-challenges-episode-5-community-vibe.json](./392352-20-challenges-episode-5-community-vibe.json) |
+| 20 Days | 184870 | [184870-20-days.json](./184870-20-days.json) |
 | 20 Days | 371267 | [371267-20-days.json](./371267-20-days.json) |
 | 20 Doors | 256769 | [256769-20-doors.json](./256769-20-doors.json) |
 | 20 em 1 | 94700 | [94700-20-em-1.json](./94700-20-em-1.json) |
@@ -1157,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2D Indie Bundle | 301007 | [301007-2d-indie-bundle.json](./301007-2d-indie-bundle.json) |
 | 2D Knock-Out | 326747 | [326747-2d-knock-out.json](./326747-2d-knock-out.json) |
 | 2D Owen | 134578 | [134578-2d-owen.json](./134578-2d-owen.json) |
+| 2D Platformer Game (Toy Factory) | 184282 | [184282-2d-platformer-game-toy-factory.json](./184282-2d-platformer-game-toy-factory.json) |
 | 2D Zombie Survival | 115044 | [115044-2d-zombie-survival.json](./115044-2d-zombie-survival.json) |
 | 2Dark: Deluxe Edition | 52545 | [52545-2dark-deluxe-edition.json](./52545-2dark-deluxe-edition.json) |
 | 2DGameManias Taken | 109652 | [109652-2dgamemanias-taken.json](./109652-2dgamemanias-taken.json) |
