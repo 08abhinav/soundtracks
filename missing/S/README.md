@@ -3034,6 +3034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of War | 117632 | [117632-secrets-of-war.json](./117632-secrets-of-war.json) |
 | Secrets of Wynne | 244503 | [244503-secrets-of-wynne.json](./244503-secrets-of-wynne.json) |
 | Secrets Under Eco | 287184 | [287184-secrets-under-eco.json](./287184-secrets-under-eco.json) |
+| Secrets Untold | 182750 | [182750-secrets-untold.json](./182750-secrets-untold.json) |
 | Sect House | 343828 | [343828-sect-house.json](./343828-sect-house.json) |
 | Sectant | 144259 | [144259-sectant.json](./144259-sectant.json) |
 | Section 13 | 215221 | [215221-section-13.json](./215221-section-13.json) |
@@ -7460,6 +7461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sire Abandon | 200432 | [200432-sire-abandon.json](./200432-sire-abandon.json) |
 | Siren | 14522 | [14522-siren.json](./14522-siren.json) |
 | Siren | 195494 | [195494-siren.json](./195494-siren.json) |
+| Siren for Hire | 182766 | [182766-siren-for-hire.json](./182766-siren-for-hire.json) |
 | Siren Head Dating Sim | 177958 | [177958-siren-head-dating-sim.json](./177958-siren-head-dating-sim.json) |
 | Siren Head Resurrection | 176246 | [176246-siren-head-resurrection.json](./176246-siren-head-resurrection.json) |
 | Siren Head SCP 6789 | 243223 | [243223-siren-head-scp-6789.json](./243223-siren-head-scp-6789.json) |
@@ -10474,6 +10476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solarpower | 118766 | [118766-solarpower.json](./118766-solarpower.json) |
 | Solarpunk | 194950 | [194950-solarpunk.json](./194950-solarpunk.json) |
 | Solarpunk: Failed States | 187288 | [187288-solarpunk-failed-states.json](./187288-solarpunk-failed-states.json) |
+| Solarpunkification | 182774 | [182774-solarpunkification.json](./182774-solarpunkification.json) |
 | Solarys The Witch of Fire | 301392 | [301392-solarys-the-witch-of-fire.json](./301392-solarys-the-witch-of-fire.json) |
 | Solas 128 | 139176 | [139176-solas-128.json](./139176-solas-128.json) |
 | Solas and the White Winter | 90830 | [90830-solas-and-the-white-winter.json](./90830-solas-and-the-white-winter.json) |
@@ -14557,6 +14560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spookyville | 299409 | [299409-spookyville.json](./299409-spookyville.json) |
 | Spoolside | 87814 | [87814-spoolside.json](./87814-spoolside.json) |
 | Spoonman: Ballad of a Bonehead | 307708 | [307708-spoonman-ballad-of-a-bonehead.json](./307708-spoonman-ballad-of-a-bonehead.json) |
+| Spoons | 182793 | [182793-spoons.json](./182793-spoons.json) |
 | SPooNS | 179014 | [179014-spoons.json](./179014-spoons.json) |
 | Spoons Card Game | 102740 | [102740-spoons-card-game.json](./102740-spoons-card-game.json) |
 | Spoons III | 70369 | [70369-spoons-iii.json](./70369-spoons-iii.json) |
@@ -21074,6 +21078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pixel Racers | 111185 | [111185-super-pixel-racers.json](./111185-super-pixel-racers.json) |
 | Super Pixelander | 124757 | [124757-super-pixelander.json](./124757-super-pixelander.json) |
 | Super Planet Life | 225101 | [225101-super-planet-life.json](./225101-super-planet-life.json) |
+| Super Platformer | 182745 | [182745-super-platformer.json](./182745-super-platformer.json) |
 | Super Plumber | 104802 | [104802-super-plumber.json](./104802-super-plumber.json) |
 | Super Pocket Tennis | 44500 | [44500-super-pocket-tennis.json](./44500-super-pocket-tennis.json) |
 | Super Pocket: Atari Edition | 327197 | [327197-super-pocket-atari-edition.json](./327197-super-pocket-atari-edition.json) |
@@ -21548,6 +21553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tokusatsu Taisen 2001 | 43905 | [43905-super-tokusatsu-taisen-2001.json](./43905-super-tokusatsu-taisen-2001.json) |
 | Super Tony Land | 81210 | [81210-super-tony-land.json](./81210-super-tony-land.json) |
 | Super Toss the Turtle | 57104 | [57104-super-toss-the-turtle.json](./57104-super-toss-the-turtle.json) |
+| Super Tower Rush | 182788 | [182788-super-tower-rush.json](./182788-super-tower-rush.json) |
 | Super Tower Rush | 50849 | [50849-super-tower-rush.json](./50849-super-tower-rush.json) |
 | Super Toxicboy | 130165 | [130165-super-toxicboy.json](./130165-super-toxicboy.json) |
 | Super Toy 3D | 223900 | [223900-super-toy-3d.json](./223900-super-toy-3d.json) |
