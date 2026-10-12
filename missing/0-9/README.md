@@ -1743,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6 Pack of Craft Games | 194386 | [194386-6-pack-of-craft-games.json](./194386-6-pack-of-craft-games.json) |
 | 6 Rooms | 377405 | [377405-6-rooms.json](./377405-6-rooms.json) |
 | 6 Ways To 7 | 377404 | [377404-6-ways-to-7.json](./377404-6-ways-to-7.json) |
+| 6 x 1 = Unlimited | 222452 | [222452-6-x-1-unlimited.json](./222452-6-x-1-unlimited.json) |
 | 6-7 | 386391 | [386391-6-7.json](./386391-6-7.json) |
 | 6-gatsu no Kimi to Boku | 412403 | [412403-6-gatsu-no-kimi-to-boku.json](./412403-6-gatsu-no-kimi-to-boku.json) |
 | 6-in-1 Board Game Club | 223607 | [223607-6-in-1-board-game-club.json](./223607-6-in-1-board-game-club.json) |
