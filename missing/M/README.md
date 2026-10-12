@@ -2890,6 +2890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martial Champion | 39544 | [39544-martial-champion.json](./39544-martial-champion.json) |
 | Martial Fire | 232440 | [232440-martial-fire.json](./232440-martial-fire.json) |
 | Martial Heroes | 68119 | [68119-martial-heroes.json](./68119-martial-heroes.json) |
+| Martial Knight | 226324 | [226324-martial-knight.json](./226324-martial-knight.json) |
 | Martial Law | 168099 | [168099-martial-law.json](./168099-martial-law.json) |
 | Martial Law: Our Spring | 293863 | [293863-martial-law-our-spring.json](./293863-martial-law-our-spring.json) |
 | Martial Tricks | 394133 | [394133-martial-tricks.json](./394133-martial-tricks.json) |
@@ -12382,6 +12383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Wars 2: Episode 3 - Red & Furious | 172155 | [172155-mushroom-wars-2-episode-3-red-and-furious.json](./172155-mushroom-wars-2-episode-3-red-and-furious.json) |
 | Mushroom Wars: Space! | 268502 | [268502-mushroom-wars-space.json](./268502-mushroom-wars-space.json) |
 | Mushroom: The Ruckus | 98994 | [98994-mushroom-the-ruckus.json](./98994-mushroom-the-ruckus.json) |
+| Mushrooman | 226362 | [226362-mushrooman.json](./226362-mushrooman.json) |
 | Mushrooming | 378550 | [378550-mushrooming.json](./378550-mushrooming.json) |
 | MushroomJump | 311273 | [311273-mushroomjump.json](./311273-mushroomjump.json) |
 | Mushroots | 292961 | [292961-mushroots.json](./292961-mushroots.json) |
