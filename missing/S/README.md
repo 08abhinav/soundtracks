@@ -7774,6 +7774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skies Above | 272931 | [272931-skies-above.json](./272931-skies-above.json) |
 | Skies Above the Great War | 244876 | [244876-skies-above-the-great-war.json](./244876-skies-above-the-great-war.json) |
 | Skies of Arcadia | 19007 | [19007-skies-of-arcadia.json](./19007-skies-of-arcadia.json) |
+| Skies of Blue: Remake | 204220 | [204220-skies-of-blue-remake.json](./204220-skies-of-blue-remake.json) |
 | Skies of Chaos | 111844 | [111844-skies-of-chaos.json](./111844-skies-of-chaos.json) |
 | Skies of Glory | 62446 | [62446-skies-of-glory.json](./62446-skies-of-glory.json) |
 | SkifY | 75075 | [75075-skify.json](./75075-skify.json) |
@@ -8830,7 +8831,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slotter Chou Mania: Antonio Inoki ga Genki ni Suru Pachi-Slot Ki | 77014 | [77014-slotter-chou-mania-antonio-inoki-ga-genki-ni-suru-pachi-slot-ki.json](./77014-slotter-chou-mania-antonio-inoki-ga-genki-ni-suru-pachi-slot-ki.json) |
 | Slotter Mania 8 | 78653 | [78653-slotter-mania-8.json](./78653-slotter-mania-8.json) |
 | Slotter Mania P: Tetsuya Shinjuku vs Ueno | 62738 | [62738-slotter-mania-p-tetsuya-shinjuku-vs-ueno.json](./62738-slotter-mania-p-tetsuya-shinjuku-vs-ueno.json) |
+| Slotter Up Core 5 | 204223 | [204223-slotter-up-core-5.json](./204223-slotter-up-core-5.json) |
+| Slotter Up Core 6 | 204224 | [204224-slotter-up-core-6.json](./204224-slotter-up-core-6.json) |
 | Slotter Up Core 7: Dekitou da! Street Fighter II | 55060 | [55060-slotter-up-core-7-dekitou-da-street-fighter-ii.json](./55060-slotter-up-core-7-dekitou-da-street-fighter-ii.json) |
+| Slotter Up Core 8 | 204225 | [204225-slotter-up-core-8.json](./204225-slotter-up-core-8.json) |
 | Slottso Party | 79574 | [79574-slottso-party.json](./79574-slottso-party.json) |
 | Slow and Steady | 157486 | [157486-slow-and-steady.json](./157486-slow-and-steady.json) |
 | Slow Burn | 313870 | [313870-slow-burn.json](./313870-slow-burn.json) |
@@ -18141,6 +18145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strider | 5333 | [5333-strider.json](./5333-strider.json) |
 | Strider | 74421 | [74421-strider.json](./74421-strider.json) |
 | Strider 2 | 5923 | [5923-strider-2.json](./5923-strider-2.json) |
+| Strider Hiryuu | 204250 | [204250-strider-hiryuu.json](./204250-strider-hiryuu.json) |
 | Strider II | 12782 | [12782-strider-ii.json](./12782-strider-ii.json) |
 | Strider Mountain | 222415 | [222415-strider-mountain.json](./222415-strider-mountain.json) |
 | Strider-X | 336658 | [336658-strider-x.json](./336658-strider-x.json) |
@@ -22152,6 +22157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suspicious Person Information | 275904 | [275904-suspicious-person-information.json](./275904-suspicious-person-information.json) |
 | Suspicious Shuffle | 219557 | [219557-suspicious-shuffle.json](./219557-suspicious-shuffle.json) |
 | Sussy Cat | 401075 | [401075-sussy-cat.json](./401075-sussy-cat.json) |
+| Sussy's Floppy Disk-venture | 204212 | [204212-sussys-floppy-disk-venture.json](./204212-sussys-floppy-disk-venture.json) |
 | Sustainable Shaun | 207839 | [207839-sustainable-shaun.json](./207839-sustainable-shaun.json) |
 | Sustenance | 316986 | [316986-sustenance.json](./316986-sustenance.json) |
 | Susuki Kaidan | 413865 | [413865-susuki-kaidan.json](./413865-susuki-kaidan.json) |
