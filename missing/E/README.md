@@ -2205,6 +2205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End of Life Care | 181886 | [181886-end-of-life-care.json](./181886-end-of-life-care.json) |
 | End of Line | 330158 | [330158-end-of-line.json](./330158-end-of-line.json) |
 | End of Lines | 188903 | [188903-end-of-lines.json](./188903-end-of-lines.json) |
+| End of Night | 211972 | [211972-end-of-night.json](./211972-end-of-night.json) |
 | End of Realms | 121413 | [121413-end-of-realms.json](./121413-end-of-realms.json) |
 | End of Serenity | 61466 | [61466-end-of-serenity.json](./61466-end-of-serenity.json) |
 | End of Sonic Inflation | 140540 | [140540-end-of-sonic-inflation.json](./140540-end-of-sonic-inflation.json) |
