@@ -6367,6 +6367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian II: Revenge of the Mutants | 152477 | [152477-guardian-ii-revenge-of-the-mutants.json](./152477-guardian-ii-revenge-of-the-mutants.json) |
 | Guardian Kingdoms | 54686 | [54686-guardian-kingdoms.json](./54686-guardian-kingdoms.json) |
 | Guardian Legend | 284351 | [284351-guardian-legend.json](./284351-guardian-legend.json) |
+| Guardian Mage VR | 197080 | [197080-guardian-mage-vr.json](./197080-guardian-mage-vr.json) |
 | Guardian Master VR | 113735 | [113735-guardian-master-vr.json](./113735-guardian-master-vr.json) |
 | Guardian of Altai | 362923 | [362923-guardian-of-altai.json](./362923-guardian-of-altai.json) |
 | Guardian of Civilization | 286998 | [286998-guardian-of-civilization.json](./286998-guardian-of-civilization.json) |
