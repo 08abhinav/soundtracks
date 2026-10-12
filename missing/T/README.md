@@ -9925,6 +9925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quest: Thor's Hammer | 36959 | [36959-the-quest-thors-hammer.json](./36959-the-quest-thors-hammer.json) |
 | The Question | 170529 | [170529-the-question.json](./170529-the-question.json) |
 | The Question's Quest of Sin | 322370 | [322370-the-questions-quest-of-sin.json](./322370-the-questions-quest-of-sin.json) |
+| The Quiet Apocalypse | 181087 | [181087-the-quiet-apocalypse.json](./181087-the-quiet-apocalypse.json) |
 | The Quiet Collection | 59887 | [59887-the-quiet-collection.json](./59887-the-quiet-collection.json) |
 | The Quiet Days of Dorothy | 391324 | [391324-the-quiet-days-of-dorothy.json](./391324-the-quiet-days-of-dorothy.json) |
 | The Quiet Lonely House | 186264 | [186264-the-quiet-lonely-house.json](./186264-the-quiet-lonely-house.json) |
@@ -13213,6 +13214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threat Actor | 245745 | [245745-threat-actor.json](./245745-threat-actor.json) |
 | Three Alpha One Nine | 312133 | [312133-three-alpha-one-nine.json](./312133-three-alpha-one-nine.json) |
 | Three Bosses | 174323 | [174323-three-bosses.json](./174323-three-bosses.json) |
+| Three Color Ball | 181091 | [181091-three-color-ball.json](./181091-three-color-ball.json) |
 | Three Color Cannon | 360001 | [360001-three-color-cannon.json](./360001-three-color-cannon.json) |
 | Three Days of the Rabbit | 183831 | [183831-three-days-of-the-rabbit.json](./183831-three-days-of-the-rabbit.json) |
 | Three Days to Chicago | 259716 | [259716-three-days-to-chicago.json](./259716-three-days-to-chicago.json) |
@@ -20460,6 +20462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Crime: New York City | 4215 | [4215-true-crime-new-york-city.json](./4215-true-crime-new-york-city.json) |
 | True Crime: Streets of LA | 4216 | [4216-true-crime-streets-of-la.json](./4216-true-crime-streets-of-la.json) |
 | True Detective Solitaire | 88755 | [88755-true-detective-solitaire.json](./88755-true-detective-solitaire.json) |
+| True Detective Solitaire 2 | 181092 | [181092-true-detective-solitaire-2.json](./181092-true-detective-solitaire-2.json) |
 | True Disc Golf | 247586 | [247586-true-disc-golf.json](./247586-true-disc-golf.json) |
 | True Driver | 252258 | [252258-true-driver.json](./252258-true-driver.json) |
 | True Fantasy Live Online | 18106 | [18106-true-fantasy-live-online.json](./18106-true-fantasy-live-online.json) |
