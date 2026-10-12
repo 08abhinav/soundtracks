@@ -4123,6 +4123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berlin 1948 | 15701 | [15701-berlin-1948.json](./15701-berlin-1948.json) |
 | Berlitz* French Translator | 94168 | [94168-berlitz-french-translator.json](./94168-berlitz-french-translator.json) |
 | Bermuda | 380011 | [380011-bermuda.json](./380011-bermuda.json) |
+| Bermuda Adventures | 216414 | [216414-bermuda-adventures.json](./216414-bermuda-adventures.json) |
 | Bermuda Triangle | 22557 | [22557-bermuda-triangle.json](./22557-bermuda-triangle.json) |
 | Bermuda Triangle: Saving the Coral | 67391 | [67391-bermuda-triangle-saving-the-coral.json](./67391-bermuda-triangle-saving-the-coral.json) |
 | Bermuda: Lost Survival | 43365 | [43365-bermuda-lost-survival.json](./43365-bermuda-lost-survival.json) |
