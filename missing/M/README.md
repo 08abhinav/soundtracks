@@ -3748,6 +3748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mathville | 387698 | [387698-mathville.json](./387698-mathville.json) |
 | Matilda 2 | 409609 | [409609-matilda-2.json](./409609-matilda-2.json) |
 | Mating Zone | 59888 | [59888-mating-zone.json](./59888-mating-zone.json) |
+| Matisse's 3D World | 215313 | [215313-matisses-3d-world.json](./215313-matisses-3d-world.json) |
 | Mato Anomalies | 212050 | [212050-mato-anomalies.json](./212050-mato-anomalies.json) |
 | Mato Anomalies: Day One Edition | 228732 | [228732-mato-anomalies-day-one-edition.json](./228732-mato-anomalies-day-one-edition.json) |
 | Mato Anomalies: Digital Deluxe Edition | 241414 | [241414-mato-anomalies-digital-deluxe-edition.json](./241414-mato-anomalies-digital-deluxe-edition.json) |
@@ -4378,6 +4379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanized Attack | 40357 | [40357-mechanized-attack.json](./40357-mechanized-attack.json) |
 | Mechanode | 238757 | [238757-mechanode.json](./238757-mechanode.json) |
 | Mechanophagia | 287730 | [287730-mechanophagia.json](./287730-mechanophagia.json) |
+| Mechapunk | 215314 | [215314-mechapunk.json](./215314-mechapunk.json) |
 | MechAssault | 5910 | [5910-mechassault.json](./5910-mechassault.json) |
 | MechAssault 2: Lone Wolf | 5911 | [5911-mechassault-2-lone-wolf.json](./5911-mechassault-2-lone-wolf.json) |
 | MechAssault 2: Lone Wolf Limited Edition | 47315 | [47315-mechassault-2-lone-wolf-limited-edition.json](./47315-mechassault-2-lone-wolf-limited-edition.json) |
@@ -4740,6 +4742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Drive 4 | 230774 | [230774-mega-drive-4.json](./230774-mega-drive-4.json) |
 | Mega Drive 4 | 230789 | [230789-mega-drive-4.json](./230789-mega-drive-4.json) |
 | Mega Drive Mini | 215392 | [215392-mega-drive-mini.json](./215392-mega-drive-mini.json) |
+| Mega Drive Mini | 215403 | [215403-mega-drive-mini.json](./215403-mega-drive-mini.json) |
 | Mega Drive Mini 2 | 215702 | [215702-mega-drive-mini-2.json](./215702-mega-drive-mini-2.json) |
 | Mega Dystopia Micro Architect | 271696 | [271696-mega-dystopia-micro-architect.json](./271696-mega-dystopia-micro-architect.json) |
 | Mega Force | 22433 | [22433-mega-force.json](./22433-mega-force.json) |
@@ -8624,6 +8627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss | 242777 | [242777-miss.json](./242777-miss.json) |
 | Miss Agatha's Palace | 187199 | [187199-miss-agathas-palace.json](./187199-miss-agathas-palace.json) |
 | Miss Bellevue Never Heard the Whistle | 362961 | [362961-miss-bellevue-never-heard-the-whistle.json](./362961-miss-bellevue-never-heard-the-whistle.json) |
+| Miss Bingo | 215307 | [215307-miss-bingo.json](./215307-miss-bingo.json) |
 | Miss Bullard's School for Former Ladies | 184058 | [184058-miss-bullards-school-for-former-ladies.json](./184058-miss-bullards-school-for-former-ladies.json) |
 | Miss Chic Business | 54236 | [54236-miss-chic-business.json](./54236-miss-chic-business.json) |
 | Miss Chic Romantic | 54235 | [54235-miss-chic-romantic.json](./54235-miss-chic-romantic.json) |
