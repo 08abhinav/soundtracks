@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T12:05:25.731Z",
-  "total_soundtracks": 1519,
+  "generated_at": "2026-10-12T12:05:37.923Z",
+  "total_soundtracks": 1520,
   "games": [
     {
       "igdb_id": 7522,
@@ -4419,6 +4419,20 @@
           "spotify_url": "https://open.spotify.com/album/3F4ROg6ZRKuevgBULADLrI",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 4132,
+      "game_name": "Dino Crisis 2",
+      "game_url": "https://ostdb.net/games/dino-crisis-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27379ab25cf0fe24c306a7d52a4",
+      "albums": [
+        {
+          "album_name": "DINO CRISIS 2 ORIGINAL SOUNDTRACK",
+          "spotify_url": "https://open.spotify.com/album/2OI8nGskwIpDJ3rXszm4nz",
+          "apple_music_url": "",
+          "album_link_url": "https://album.link/s/2OI8nGskwIpDJ3rXszm4nz"
         }
       ]
     },
