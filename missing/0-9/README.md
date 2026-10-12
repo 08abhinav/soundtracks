@@ -498,12 +498,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw World Tour: Europe | 96827 | [96827-1001-jigsaw-world-tour-europe.json](./96827-1001-jigsaw-world-tour-europe.json) |
 | 1001 Jigsaw: 6 Magic Elements | 268037 | [268037-1001-jigsaw-6-magic-elements.json](./268037-1001-jigsaw-6-magic-elements.json) |
 | 1001 Jigsaw: Castles and Palaces 5 | 257464 | [257464-1001-jigsaw-castles-and-palaces-5.json](./257464-1001-jigsaw-castles-and-palaces-5.json) |
+| 1001 Jigsaw: Cute Cats 2 | 211385 | [211385-1001-jigsaw-cute-cats-2.json](./211385-1001-jigsaw-cute-cats-2.json) |
 | 1001 Jigsaw: Cute Cats 5 | 244869 | [244869-1001-jigsaw-cute-cats-5.json](./244869-1001-jigsaw-cute-cats-5.json) |
 | 1001 Jigsaw: Earth Chronicles 3 | 90040 | [90040-1001-jigsaw-earth-chronicles-3.json](./90040-1001-jigsaw-earth-chronicles-3.json) |
 | 1001 Jigsaw: Earth Chronicles 4 | 87252 | [87252-1001-jigsaw-earth-chronicles-4.json](./87252-1001-jigsaw-earth-chronicles-4.json) |
 | 1001 Jigsaw: Earth Chronicles 8 | 199582 | [199582-1001-jigsaw-earth-chronicles-8.json](./199582-1001-jigsaw-earth-chronicles-8.json) |
 | 1001 Jigsaw: Home Sweet Home - Back from Vacation | 188933 | [188933-1001-jigsaw-home-sweet-home-back-from-vacation.json](./188933-1001-jigsaw-home-sweet-home-back-from-vacation.json) |
 | 1001 Jigsaw: Home Sweet Home 2 | 202729 | [202729-1001-jigsaw-home-sweet-home-2.json](./202729-1001-jigsaw-home-sweet-home-2.json) |
+| 1001 Jigsaw: Home Sweet Home 3 | 211386 | [211386-1001-jigsaw-home-sweet-home-3.json](./211386-1001-jigsaw-home-sweet-home-3.json) |
 | 1001 Jigsaw: Ice Age | 268041 | [268041-1001-jigsaw-ice-age.json](./268041-1001-jigsaw-ice-age.json) |
 | 1001 Jigsaw: Interior Design | 208836 | [208836-1001-jigsaw-interior-design.json](./208836-1001-jigsaw-interior-design.json) |
 | 1001 Jigsaw: Legends of Mystery 4 | 200701 | [200701-1001-jigsaw-legends-of-mystery-4.json](./200701-1001-jigsaw-legends-of-mystery-4.json) |
@@ -675,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13 Page | 201304 | [201304-13-page.json](./201304-13-page.json) |
 | 13 Rosas | 270620 | [270620-13-rosas.json](./270620-13-rosas.json) |
 | 13 Seconds | 283868 | [283868-13-seconds.json](./283868-13-seconds.json) |
+| 13 Steps | 211388 | [211388-13-steps.json](./211388-13-steps.json) |
 | 13 Thieves | 234074 | [234074-13-thieves.json](./234074-13-thieves.json) |
 | 13 Wood St | 152479 | [152479-13-wood-st.json](./152479-13-wood-st.json) |
 | 13: Origin - Chapter One | 197399 | [197399-13-origin-chapter-one.json](./197399-13-origin-chapter-one.json) |
@@ -1257,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30 Days Another | 216778 | [216778-30-days-another.json](./216778-30-days-another.json) |
 | 30 Days in Red Army | 204425 | [204425-30-days-in-red-army.json](./204425-30-days-in-red-army.json) |
 | 30 Days of Tower | 290955 | [290955-30-days-of-tower.json](./290955-30-days-of-tower.json) |
+| 30 Days to be the Best | 211389 | [211389-30-days-to-be-the-best.json](./211389-30-days-to-be-the-best.json) |
 | 30 Floors of Madness | 308952 | [308952-30-floors-of-madness.json](./308952-30-floors-of-madness.json) |
 | 30 in 1 Family Games Mega Collection | 391259 | [391259-30-in-1-family-games-mega-collection.json](./391259-30-in-1-family-games-mega-collection.json) |
 | 30 Minutes to Die | 214691 | [214691-30-minutes-to-die.json](./214691-30-minutes-to-die.json) |
@@ -1794,6 +1798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 688(I) Hunter/Killer | 585 | [585-688-i-hunter-killer.json](./585-688-i-hunter-killer.json) |
 | 69 | 334791 | [334791-69.json](./334791-69.json) |
 | 69 Andariel Hot | 208630 | [208630-69-andariel-hot.json](./208630-69-andariel-hot.json) |
+| 69 Berta Hot | 211390 | [211390-69-berta-hot.json](./211390-69-berta-hot.json) |
 | 69 Ember Hot | 222961 | [222961-69-ember-hot.json](./222961-69-ember-hot.json) |
 | 69 Hitomi Love | 173837 | [173837-69-hitomi-love.json](./173837-69-hitomi-love.json) |
 | 69 Love | 337782 | [337782-69-love.json](./337782-69-love.json) |
