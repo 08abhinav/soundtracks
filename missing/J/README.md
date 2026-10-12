@@ -2447,9 +2447,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World Evolution 2: Dominion Biosyn Expansion | 203760 | [203760-jurassic-world-evolution-2-dominion-biosyn-expansion.json](./203760-jurassic-world-evolution-2-dominion-biosyn-expansion.json) |
 | Jurassic World Evolution 2: Dominion Malta Expansion | 228747 | [228747-jurassic-world-evolution-2-dominion-malta-expansion.json](./228747-jurassic-world-evolution-2-dominion-malta-expansion.json) |
 | Jurassic World Evolution 2: Feathered Species Pack | 242524 | [242524-jurassic-world-evolution-2-feathered-species-pack.json](./242524-jurassic-world-evolution-2-feathered-species-pack.json) |
+| Jurassic World Evolution 2: Late Cretaceous Pack | 227397 | [227397-jurassic-world-evolution-2-late-cretaceous-pack.json](./227397-jurassic-world-evolution-2-late-cretaceous-pack.json) |
 | Jurassic World Evolution 2: Park Managers' Collection Pack | 308278 | [308278-jurassic-world-evolution-2-park-managers-collection-pack.json](./308278-jurassic-world-evolution-2-park-managers-collection-pack.json) |
 | Jurassic World Evolution 3: Deluxe Edition | 406704 | [406704-jurassic-world-evolution-3-deluxe-edition.json](./406704-jurassic-world-evolution-3-deluxe-edition.json) |
 | Jurassic World Evolution: Deluxe Dinosaur Pack | 226794 | [226794-jurassic-world-evolution-deluxe-dinosaur-pack.json](./226794-jurassic-world-evolution-deluxe-dinosaur-pack.json) |
+| Jurassic World Evolution: Dinosaur Collection | 227420 | [227420-jurassic-world-evolution-dinosaur-collection.json](./227420-jurassic-world-evolution-dinosaur-collection.json) |
 | Jurassic World Evolution: Return to Jurassic Park | 140515 | [140515-jurassic-world-evolution-return-to-jurassic-park.json](./140515-jurassic-world-evolution-return-to-jurassic-park.json) |
 | Jurassic World Revealed | 104259 | [104259-jurassic-world-revealed.json](./104259-jurassic-world-revealed.json) |
 | Jurassic World VRSE | 315071 | [315071-jurassic-world-vrse.json](./315071-jurassic-world-vrse.json) |
