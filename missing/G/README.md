@@ -3560,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator: Waste of Space Bundle | 234308 | [234308-goat-simulator-waste-of-space-bundle.json](./234308-goat-simulator-waste-of-space-bundle.json) |
 | Goat Survivor | 367025 | [367025-goat-survivor.json](./367025-goat-survivor.json) |
 | Goat!Goat! | 242481 | [242481-goat-goat.json](./242481-goat-goat.json) |
+| Goat's Tale 2 | 213540 | [213540-goats-tale-2.json](./213540-goats-tale-2.json) |
 | Goat's Tale 2: Plus | 236770 | [236770-goats-tale-2-plus.json](./236770-goats-tale-2-plus.json) |
 | Goat's Tale Adventure | 283378 | [283378-goats-tale-adventure.json](./283378-goats-tale-adventure.json) |
 | GoatBrains | 405036 | [405036-goatbrains.json](./405036-goatbrains.json) |
@@ -4076,6 +4077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Rails: Road to Klondike | 191833 | [191833-golden-rails-road-to-klondike.json](./191833-golden-rails-road-to-klondike.json) |
 | Golden Rails: Small Town Story | 148909 | [148909-golden-rails-small-town-story.json](./148909-golden-rails-small-town-story.json) |
 | Golden Rails: The Heart of the State - Collector's Edition | 338773 | [338773-golden-rails-the-heart-of-the-state-collectors-edition.json](./338773-golden-rails-the-heart-of-the-state-collectors-edition.json) |
+| Golden Rails: World's Fair | 213559 | [213559-golden-rails-worlds-fair.json](./213559-golden-rails-worlds-fair.json) |
 | Golden Rainbow Slot Simulator | 88734 | [88734-golden-rainbow-slot-simulator.json](./88734-golden-rainbow-slot-simulator.json) |
 | Golden Record Retriever | 234310 | [234310-golden-record-retriever.json](./234310-golden-record-retriever.json) |
 | Golden Retriever | 168646 | [168646-golden-retriever.json](./168646-golden-retriever.json) |
@@ -5126,6 +5128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapple Dogs: Cosmic Canines | 263347 | [263347-grapple-dogs-cosmic-canines.json](./263347-grapple-dogs-cosmic-canines.json) |
 | Grapple Flow VR | 301826 | [301826-grapple-flow-vr.json](./301826-grapple-flow-vr.json) |
 | Grapple Gal | 219804 | [219804-grapple-gal.json](./219804-grapple-gal.json) |
+| Grapple Glide | 213533 | [213533-grapple-glide.json](./213533-grapple-glide.json) |
 | Grapple Gum | 254150 | [254150-grapple-gum.json](./254150-grapple-gum.json) |
 | Grapple Gunners | 219805 | [219805-grapple-gunners.json](./219805-grapple-gunners.json) |
 | Grapple Souls | 388333 | [388333-grapple-souls.json](./388333-grapple-souls.json) |
