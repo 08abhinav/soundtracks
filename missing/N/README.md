@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Näkemiin: Hongkong | 85757 | [85757-nakemiin-hongkong.json](./85757-nakemiin-hongkong.json) |
 | Naki no Ryuu: Mahjong Hishou-den | 37912 | [37912-naki-no-ryuu-mahjong-hishou-den.json](./37912-naki-no-ryuu-mahjong-hishou-den.json) |
 | Nakiti Generations | 31762 | [31762-nakiti-generations.json](./31762-nakiti-generations.json) |
+| Nakornsampan | 181046 | [181046-nakornsampan.json](./181046-nakornsampan.json) |
 | Nakoruru: Anohito kara no Okurimono | 57624 | [57624-nakoruru-anohito-kara-no-okurimono.json](./57624-nakoruru-anohito-kara-no-okurimono.json) |
 | Nakwon: Last Paradise | 266732 | [266732-nakwon-last-paradise.json](./266732-nakwon-last-paradise.json) |
 | Nalogi 2 | 96899 | [96899-nalogi-2.json](./96899-nalogi-2.json) |
@@ -2273,6 +2274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New York Mysteries: The Lantern of Souls | 31799 | [31799-new-york-mysteries-the-lantern-of-souls.json](./31799-new-york-mysteries-the-lantern-of-souls.json) |
 | New York Nights 2: Friends For Life | 264134 | [264134-new-york-nights-2-friends-for-life.json](./264134-new-york-nights-2-friends-for-life.json) |
 | New York Nights: Success in the City | 159237 | [159237-new-york-nights-success-in-the-city.json](./159237-new-york-nights-success-in-the-city.json) |
+| New York Rat Simulator | 181095 | [181095-new-york-rat-simulator.json](./181095-new-york-rat-simulator.json) |
 | New York Shark | 294427 | [294427-new-york-shark.json](./294427-new-york-shark.json) |
 | New York Simulator Air Racing and The Statue of Liberty | 197650 | [197650-new-york-simulator-air-racing-and-the-statue-of-liberty.json](./197650-new-york-simulator-air-racing-and-the-statue-of-liberty.json) |
 | New York Taxi Simulator | 33444 | [33444-new-york-taxi-simulator.json](./33444-new-york-taxi-simulator.json) |
@@ -3066,6 +3068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmist | 406906 | [406906-nightmist.json](./406906-nightmist.json) |
 | Nightomb | 260857 | [260857-nightomb.json](./260857-nightomb.json) |
 | Nightout | 172503 | [172503-nightout.json](./172503-nightout.json) |
+| Nightowl | 182138 | [182138-nightowl.json](./182138-nightowl.json) |
 | Nightraiders | 23948 | [23948-nightraiders.json](./23948-nightraiders.json) |
 | NightReaper2 | 388192 | [388192-nightreaper2.json](./388192-nightreaper2.json) |
 | Nightriderz | 159142 | [159142-nightriderz.json](./159142-nightriderz.json) |
@@ -4603,6 +4606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notre-Dame de Paris: Journey Back in Time | 151074 | [151074-notre-dame-de-paris-journey-back-in-time.json](./151074-notre-dame-de-paris-journey-back-in-time.json) |
 | Notrium | 35751 | [35751-notrium.json](./35751-notrium.json) |
 | Nótt & Dagr | 135039 | [135039-nott-and-dagr.json](./135039-nott-and-dagr.json) |
+| Nott Longa | 181090 | [181090-nott-longa.json](./181090-nott-longa.json) |
 | Nottolot | 290648 | [290648-nottolot.json](./290648-nottolot.json) |
 | Notyet | 57352 | [57352-notyet.json](./57352-notyet.json) |
 | NotZilla Ice Cream Vendor | 179533 | [179533-notzilla-ice-cream-vendor.json](./179533-notzilla-ice-cream-vendor.json) |
