@@ -3778,6 +3778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemistress Vivi | 287142 | [287142-alchemistress-vivi.json](./287142-alchemistress-vivi.json) |
 | Alchemists' Garden | 199908 | [199908-alchemists-garden.json](./199908-alchemists-garden.json) |
 | Alchemos | 190041 | [190041-alchemos.json](./190041-alchemos.json) |
+| Alchemy | 179418 | [179418-alchemy.json](./179418-alchemy.json) |
 | Alchemy | 337805 | [337805-alchemy.json](./337805-alchemy.json) |
 | Alchemy 1000 | 134383 | [134383-alchemy-1000.json](./134383-alchemy-1000.json) |
 | Alchemy Academy | 337810 | [337810-alchemy-academy.json](./337810-alchemy-academy.json) |
@@ -5226,6 +5227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ameizu | 311595 | [311595-ameizu.json](./311595-ameizu.json) |
 | Amelia and Terror of the Night: Story Book for Kids | 68945 | [68945-amelia-and-terror-of-the-night-story-book-for-kids.json](./68945-amelia-and-terror-of-the-night-story-book-for-kids.json) |
 | Amelia Watson Case File no.420 | 269474 | [269474-amelia-watson-case-file-no-420.json](./269474-amelia-watson-case-file-no-420.json) |
+| Amelia: The Drought Curse | 179425 | [179425-amelia-the-drought-curse.json](./179425-amelia-the-drought-curse.json) |
 | Amelia's Curse | 87972 | [87972-amelias-curse.json](./87972-amelias-curse.json) |
 | Amelia's Diner | 300769 | [300769-amelias-diner.json](./300769-amelias-diner.json) |
 | Amelia's Garden | 319780 | [319780-amelias-garden.json](./319780-amelias-garden.json) |
