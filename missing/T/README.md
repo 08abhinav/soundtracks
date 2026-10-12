@@ -16530,6 +16530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Extreme Wrestling 2016 | 27681 | [27681-total-extreme-wrestling-2016.json](./27681-total-extreme-wrestling-2016.json) |
 | Total Extreme Wrestling 2020 | 134545 | [134545-total-extreme-wrestling-2020.json](./134545-total-extreme-wrestling-2020.json) |
 | Total Extreme Wrestling IX | 307862 | [307862-total-extreme-wrestling-ix.json](./307862-total-extreme-wrestling-ix.json) |
+| Total Football | 223095 | [223095-total-football.json](./223095-total-football.json) |
 | Total Football | 46184 | [46184-total-football.json](./46184-total-football.json) |
 | Total Football Management | 94320 | [94320-total-football-management.json](./94320-total-football-management.json) |
 | Total Football Online | 406683 | [406683-total-football-online.json](./406683-total-football-online.json) |
@@ -16801,6 +16802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touge King: The Spirits 2 | 66100 | [66100-touge-king-the-spirits-2.json](./66100-touge-king-the-spirits-2.json) |
 | Touge Max 2 | 66099 | [66099-touge-max-2.json](./66099-touge-max-2.json) |
 | Touge R | 60621 | [60621-touge-r.json](./60621-touge-r.json) |
+| Touge Shakai | 223058 | [223058-touge-shakai.json](./223058-touge-shakai.json) |
 | Touge: JDM Dealership Simulator | 414158 | [414158-touge-jdm-dealership-simulator.json](./414158-touge-jdm-dealership-simulator.json) |
 | Tougen Anki: Crimson Inferno | 396591 | [396591-tougen-anki-crimson-inferno.json](./396591-tougen-anki-crimson-inferno.json) |
 | Tougenkyou | 151807 | [151807-tougenkyou.json](./151807-tougenkyou.json) |
