@@ -838,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K22: Cross-Gen Digital Bundle | 158592 | [158592-nba-2k22-cross-gen-digital-bundle.json](./158592-nba-2k22-cross-gen-digital-bundle.json) |
 | NBA 2K22: NBA 75th Anniversary Edition | 158594 | [158594-nba-2k22-nba-75th-anniversary-edition.json](./158594-nba-2k22-nba-75th-anniversary-edition.json) |
 | NBA 2K22: WNBA 25th Anniversary Edition | 158595 | [158595-nba-2k22-wnba-25th-anniversary-edition.json](./158595-nba-2k22-wnba-25th-anniversary-edition.json) |
+| NBA 2K23: Digital Deluxe Edition | 216409 | [216409-nba-2k23-digital-deluxe-edition.json](./216409-nba-2k23-digital-deluxe-edition.json) |
 | NBA 2K24: 25th Anniversary Edition | 265738 | [265738-nba-2k24-25th-anniversary-edition.json](./265738-nba-2k24-25th-anniversary-edition.json) |
 | NBA 2K24: Black Mamba Edition | 256201 | [256201-nba-2k24-black-mamba-edition.json](./256201-nba-2k24-black-mamba-edition.json) |
 | NBA 2K25 | 308034 | [308034-nba-2k25.json](./308034-nba-2k25.json) |
@@ -3104,6 +3105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nik and Kit Racing | 213351 | [213351-nik-and-kit-racing.json](./213351-nik-and-kit-racing.json) |
 | Nik and Kit: Kit's Adventure | 214013 | [214013-nik-and-kit-kits-adventure.json](./214013-nik-and-kit-kits-adventure.json) |
 | Nik and Kit: Nik's Adventure | 212793 | [212793-nik-and-kit-niks-adventure.json](./212793-nik-and-kit-niks-adventure.json) |
+| Nik and Kit's Math Quiz: Breakthrough Gaming Activity Center | 216450 | [216450-nik-and-kits-math-quiz-breakthrough-gaming-activity-center.json](./216450-nik-and-kits-math-quiz-breakthrough-gaming-activity-center.json) |
 | Nik Jam the Sage | 331384 | [331384-nik-jam-the-sage.json](./331384-nik-jam-the-sage.json) |
 | Nik Jam Violator | 330715 | [330715-nik-jam-violator.json](./330715-nik-jam-violator.json) |
 | Nik Super Gunventure | 282690 | [282690-nik-super-gunventure.json](./282690-nik-super-gunventure.json) |
