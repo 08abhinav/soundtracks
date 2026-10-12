@@ -3738,6 +3738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retr0Mine | 386704 | [386704-retr0mine.json](./386704-retr0mine.json) |
 | Retrace | 116873 | [116873-retrace.json](./116873-retrace.json) |
 | ReTrace | 401045 | [401045-retrace.json](./401045-retrace.json) |
+| Retrace the Light | 224693 | [224693-retrace-the-light.json](./224693-retrace-the-light.json) |
 | Retribution | 324966 | [324966-retribution.json](./324966-retribution.json) |
 | Retribution | 94404 | [94404-retribution.json](./94404-retribution.json) |
 | Retribution: Universal Requiem | 164875 | [164875-retribution-universal-requiem.json](./164875-retribution-universal-requiem.json) |
@@ -4298,6 +4299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm 'n Notes: Improve Your Music Skills | 79176 | [79176-rhythm-n-notes-improve-your-music-skills.json](./79176-rhythm-n-notes-improve-your-music-skills.json) |
 | Rhythm & Beats | 292282 | [292282-rhythm-and-beats.json](./292282-rhythm-and-beats.json) |
 | Rhythm Any Music | 220709 | [220709-rhythm-any-music.json](./220709-rhythm-any-music.json) |
+| Rhythm Bang | 224683 | [224683-rhythm-bang.json](./224683-rhythm-bang.json) |
 | Rhythm Brawl | 173059 | [173059-rhythm-brawl.json](./173059-rhythm-brawl.json) |
 | Rhythm Cat Pro | 86707 | [86707-rhythm-cat-pro.json](./86707-rhythm-cat-pro.json) |
 | Rhythm Control 2 | 232513 | [232513-rhythm-control-2.json](./232513-rhythm-control-2.json) |
@@ -8204,6 +8206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rygar SNES Port | 377227 | [377227-rygar-snes-port.json](./377227-rygar-snes-port.json) |
 | Rygar: The Battle of Argus | 21058 | [21058-rygar-the-battle-of-argus.json](./21058-rygar-the-battle-of-argus.json) |
 | Rygar: The Legendary Adventure | 5134 | [5134-rygar-the-legendary-adventure.json](./5134-rygar-the-legendary-adventure.json) |
+| Rygrad | 224722 | [224722-rygrad.json](./224722-rygrad.json) |
 | RYL: Path of the Emperor | 6548 | [6548-ryl-path-of-the-emperor.json](./6548-ryl-path-of-the-emperor.json) |
 | Rym 9000 | 81867 | [81867-rym-9000.json](./81867-rym-9000.json) |
 | Rym 9000: Limited Edition | 167035 | [167035-rym-9000-limited-edition.json](./167035-rym-9000-limited-edition.json) |
