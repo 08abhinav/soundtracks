@@ -1393,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Three Kingdoms: War | 304165 | [304165-fantasy-three-kingdoms-war.json](./304165-fantasy-three-kingdoms-war.json) |
 | Fantasy Tower | 304617 | [304617-fantasy-tower.json](./304617-fantasy-tower.json) |
 | Fantasy Tower Defense | 251631 | [251631-fantasy-tower-defense.json](./251631-fantasy-tower-defense.json) |
+| Fantasy Town | 206450 | [206450-fantasy-town.json](./206450-fantasy-town.json) |
 | Fantasy Trader | 338749 | [338749-fantasy-trader.json](./338749-fantasy-trader.json) |
 | Fantasy Triple Mahjong | 216416 | [216416-fantasy-triple-mahjong.json](./216416-fantasy-triple-mahjong.json) |
 | Fantasy Up | 259286 | [259286-fantasy-up.json](./259286-fantasy-up.json) |
@@ -8264,6 +8265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuel Station Simulator | 336369 | [336369-fuel-station-simulator.json](./336369-fuel-station-simulator.json) |
 | Fuel Tanker Truck | 105918 | [105918-fuel-tanker-truck.json](./105918-fuel-tanker-truck.json) |
 | Fuel Tiracas | 77282 | [77282-fuel-tiracas.json](./77282-fuel-tiracas.json) |
+| Fuezon | 206451 | [206451-fuezon.json](./206451-fuezon.json) |
 | Fuga: Melodies of Steel - Back to School Costume Pack | 228026 | [228026-fuga-melodies-of-steel-back-to-school-costume-pack.json](./228026-fuga-melodies-of-steel-back-to-school-costume-pack.json) |
 | Fuga: Melodies of Steel - Fantasy Costume Pack | 284455 | [284455-fuga-melodies-of-steel-fantasy-costume-pack.json](./284455-fuga-melodies-of-steel-fantasy-costume-pack.json) |
 | Fuga: Melodies of Steel - Ultimate Edition | 283145 | [283145-fuga-melodies-of-steel-ultimate-edition.json](./283145-fuga-melodies-of-steel-ultimate-edition.json) |
