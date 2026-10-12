@@ -1561,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gearend | 29963 | [29963-gearend.json](./29963-gearend.json) |
 | GearGrit | 292410 | [292410-geargrit.json](./292410-geargrit.json) |
 | Gearguns: Tank Offensive | 31375 | [31375-gearguns-tank-offensive.json](./31375-gearguns-tank-offensive.json) |
+| GearHead 2 | 183288 | [183288-gearhead-2.json](./183288-gearhead-2.json) |
 | Gearhead Karting | 252019 | [252019-gearhead-karting.json](./252019-gearhead-karting.json) |
 | GearHead: Arena | 181230 | [181230-gearhead-arena.json](./181230-gearhead-arena.json) |
 | Gearlock: Episode 1 | 381719 | [381719-gearlock-episode-1.json](./381719-gearlock-episode-1.json) |
@@ -4330,6 +4331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golgo 13: Mienai Guntai | 91930 | [91930-golgo-13-mienai-guntai.json](./91930-golgo-13-mienai-guntai.json) |
 | Golgo-13 2 - Kiseki no Dandou | 91928 | [91928-golgo-13-2-kiseki-no-dandou.json](./91928-golgo-13-2-kiseki-no-dandou.json) |
 | Golgo-13 3 - Juusei no Chinkonka | 91929 | [91929-golgo-13-3-juusei-no-chinkonka.json](./91929-golgo-13-3-juusei-no-chinkonka.json) |
+| Golgol runner | 183320 | [183320-golgol-runner.json](./183320-golgol-runner.json) |
 | Golgothica | 381323 | [381323-golgothica.json](./381323-golgothica.json) |
 | Goliath | 268929 | [268929-goliath.json](./268929-goliath.json) |
 | Goliath | 325737 | [325737-goliath.json](./325737-goliath.json) |
@@ -4471,6 +4473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good puzzle: Castles | 161364 | [161364-good-puzzle-castles.json](./161364-good-puzzle-castles.json) |
 | Good Soup | 381134 | [381134-good-soup.json](./381134-good-soup.json) |
 | Good Vibes | 178500 | [178500-good-vibes.json](./178500-good-vibes.json) |
+| Good-bye Old World | 183317 | [183317-good-bye-old-world.json](./183317-good-bye-old-world.json) |
 | Good-Bye to Youtopia | 321546 | [321546-good-bye-to-youtopia.json](./321546-good-bye-to-youtopia.json) |
 | Goodboy Galaxy/Witch n' Wiz | 260091 | [260091-goodboy-galaxy-witch-n-wiz.json](./260091-goodboy-galaxy-witch-n-wiz.json) |
 | Goodbye | 130741 | [130741-goodbye.json](./130741-goodbye.json) |
