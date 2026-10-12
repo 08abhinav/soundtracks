@@ -467,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen of Seas 2 | 102347 | [102347-queen-of-seas-2.json](./102347-queen-of-seas-2.json) |
 | Queen of Succubus | 82751 | [82751-queen-of-succubus.json](./82751-queen-of-succubus.json) |
 | Queen of Tactics | 272259 | [272259-queen-of-tactics.json](./272259-queen-of-tactics.json) |
+| Queen of the Court | 209749 | [209749-queen-of-the-court.json](./209749-queen-of-the-court.json) |
 | Queen of The Hill | 306061 | [306061-queen-of-the-hill.json](./306061-queen-of-the-hill.json) |
 | Queen Of The Sands | 415079 | [415079-queen-of-the-sands.json](./415079-queen-of-the-sands.json) |
 | Queen of Zarkov | 173288 | [173288-queen-of-zarkov.json](./173288-queen-of-zarkov.json) |
@@ -531,6 +532,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest for Cathay Kingdom Mah Jong | 367446 | [367446-quest-for-cathay-kingdom-mah-jong.json](./367446-quest-for-cathay-kingdom-mah-jong.json) |
 | Quest for Choices: Ivan's Tale - Chapter 0+1 | 392393 | [392393-quest-for-choices-ivans-tale-chapter-0-1.json](./392393-quest-for-choices-ivans-tale-chapter-0-1.json) |
 | Quest For Corgi Butts | 328050 | [328050-quest-for-corgi-butts.json](./328050-quest-for-corgi-butts.json) |
+| Quest For Fame | 209748 | [209748-quest-for-fame.json](./209748-quest-for-fame.json) |
+| Quest For Glory Anthology | 209747 | [209747-quest-for-glory-anthology.json](./209747-quest-for-glory-anthology.json) |
 | Quest for Glory II: Trial by Fire | 1894 | [1894-quest-for-glory-ii-trial-by-fire.json](./1894-quest-for-glory-ii-trial-by-fire.json) |
 | Quest for Glory V: Dragon Fire | 1897 | [1897-quest-for-glory-v-dragon-fire.json](./1897-quest-for-glory-v-dragon-fire.json) |
 | Quest for Glory: Shadows of Darkness | 1896 | [1896-quest-for-glory-shadows-of-darkness.json](./1896-quest-for-glory-shadows-of-darkness.json) |
@@ -540,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest For Milkshake | 310950 | [310950-quest-for-milkshake.json](./310950-quest-for-milkshake.json) |
 | Quest for Moomoo | 233983 | [233983-quest-for-moomoo.json](./233983-quest-for-moomoo.json) |
 | Quest for Quintana Roo | 12317 | [12317-quest-for-quintana-roo.json](./12317-quest-for-quintana-roo.json) |
+| Quest for Saddam | 209746 | [209746-quest-for-saddam.json](./209746-quest-for-saddam.json) |
 | Quest for the Book of Truth | 181207 | [181207-quest-for-the-book-of-truth.json](./181207-quest-for-the-book-of-truth.json) |
 | Quest for the Code | 185633 | [185633-quest-for-the-code.json](./185633-quest-for-the-code.json) |
 | Quest for the Crystal Skulls | 268756 | [268756-quest-for-the-crystal-skulls.json](./268756-quest-for-the-crystal-skulls.json) |
@@ -707,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiplash | 11588 | [11588-quiplash.json](./11588-quiplash.json) |
 | Quirk | 139801 | [139801-quirk.json](./139801-quirk.json) |
 | Quirk! Origins: A Jester's Tale | 274516 | [274516-quirk-origins-a-jesters-tale.json](./274516-quirk-origins-a-jesters-tale.json) |
+| Quirks | 209745 | [209745-quirks.json](./209745-quirks.json) |
 | Quirky Crystal RPG | 108379 | [108379-quirky-crystal-rpg.json](./108379-quirky-crystal-rpg.json) |
 | Quisisana | 344493 | [344493-quisisana.json](./344493-quisisana.json) |
 | Quit the Game to Win | 179167 | [179167-quit-the-game-to-win.json](./179167-quit-the-game-to-win.json) |
@@ -731,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz 4 All | 242017 | [242017-quiz-4-all.json](./242017-quiz-4-all.json) |
 | Quiz Aa! Megami-sama: Tatakau Tsubasa to Tomoni | 131572 | [131572-quiz-aa-megami-sama-tatakau-tsubasa-to-tomoni.json](./131572-quiz-aa-megami-sama-tatakau-tsubasa-to-tomoni.json) |
 | Quiz Academy | 398689 | [398689-quiz-academy.json](./398689-quiz-academy.json) |
+| Quiz Animania | 209744 | [209744-quiz-animania.json](./209744-quiz-animania.json) |
 | Quiz Caravan Cult Q | 97683 | [97683-quiz-caravan-cult-q.json](./97683-quiz-caravan-cult-q.json) |
 | Quiz Country Flags | 104110 | [104110-quiz-country-flags.json](./104110-quiz-country-flags.json) |
 | Quiz Crossword | 90766 | [90766-quiz-crossword.json](./90766-quiz-crossword.json) |
@@ -828,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qvadriga | 17347 | [17347-qvadriga.json](./17347-qvadriga.json) |
 | Qwepoi | 292255 | [292255-qwepoi.json](./292255-qwepoi.json) |
 | Qwert: A New Type of Word Game! | 250270 | [250270-qwert-a-new-type-of-word-game.json](./250270-qwert-a-new-type-of-word-game.json) |
+| Qwerty | 209743 | [209743-qwerty.json](./209743-qwerty.json) |
 | Qwerty Garden | 396585 | [396585-qwerty-garden.json](./396585-qwerty-garden.json) |
 | Qwerty Warriors 2 | 334229 | [334229-qwerty-warriors-2.json](./334229-qwerty-warriors-2.json) |
 | Qwess | 276192 | [276192-qwess.json](./276192-qwess.json) |
