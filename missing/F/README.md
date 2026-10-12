@@ -2656,6 +2656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fidget Spinner - Extra Speed | 102606 | [102606-fidget-spinner-extra-speed.json](./102606-fidget-spinner-extra-speed.json) |
 | Fidget Spinner Editor | 68595 | [68595-fidget-spinner-editor.json](./68595-fidget-spinner-editor.json) |
 | Fidget Spinner Simulator | 51415 | [51415-fidget-spinner-simulator.json](./51415-fidget-spinner-simulator.json) |
+| Fidget Town | 220247 | [220247-fidget-town.json](./220247-fidget-town.json) |
 | Fido | 315275 | [315275-fido.json](./315275-fido.json) |
 | Fido | 352330 | [352330-fido.json](./352330-fido.json) |
 | Fido 2: Puppy Power | 315278 | [315278-fido-2-puppy-power.json](./315278-fido-2-puppy-power.json) |
