@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T09:34:25.869Z",
-  "total_missing": 201333,
+  "generated_at": "2026-10-12T09:52:40.220Z",
+  "total_missing": 201329,
   "games": [
     {
       "igdb_id": 191680,
@@ -165811,11 +165811,6 @@
       "igdb_id": 180284,
       "game_name": "Command & Conquer: Red Alert 2 - Mental Omega",
       "file": "missing/C/180284-command-and-conquer-red-alert-2-mental-omega.json"
-    },
-    {
-      "igdb_id": 959,
-      "game_name": "Command & Conquer: Red Alert 3",
-      "file": "missing/C/959-command-and-conquer-red-alert-3.json"
     },
     {
       "igdb_id": 833,
@@ -411948,11 +411943,6 @@
       "file": "missing/I/7850-infamous-festival-of-blood.json"
     },
     {
-      "igdb_id": 7328,
-      "game_name": "Infamous: First Light",
-      "file": "missing/I/7328-infamous-first-light.json"
-    },
-    {
       "igdb_id": 374313,
       "game_name": "Infamous: Precinct Assault",
       "file": "missing/I/374313-infamous-precinct-assault.json"
@@ -543988,11 +543978,6 @@
       "file": "missing/M/242239-mortal-kombat.json"
     },
     {
-      "igdb_id": 239392,
-      "game_name": "Mortal Kombat 1",
-      "file": "missing/M/239392-mortal-kombat-1.json"
-    },
-    {
       "igdb_id": 272491,
       "game_name": "Mortal Kombat 1",
       "file": "missing/M/272491-mortal-kombat-1.json"
@@ -586871,11 +586856,6 @@
       "igdb_id": 382904,
       "game_name": "Octodad Shorts",
       "file": "missing/O/382904-octodad-shorts.json"
-    },
-    {
-      "igdb_id": 4788,
-      "game_name": "Octodad: Dadliest Catch",
-      "file": "missing/O/4788-octodad-dadliest-catch.json"
     },
     {
       "igdb_id": 180250,
@@ -816928,11 +816908,6 @@
       "file": "missing/S/223902-superhot-shooter-3d.json"
     },
     {
-      "igdb_id": 27448,
-      "game_name": "SuperHot: Mind Control Delete",
-      "file": "missing/S/27448-superhot-mind-control-delete.json"
-    },
-    {
       "igdb_id": 155188,
       "game_name": "Superhot: One of Us Bundle",
       "file": "missing/S/155188-superhot-one-of-us-bundle.json"
@@ -959491,6 +959466,11 @@
       "igdb_id": 123599,
       "game_name": "Walt Disney's The Jungle Book",
       "file": "missing/W/123599-walt-disneys-the-jungle-book.json"
+    },
+    {
+      "igdb_id": 205928,
+      "game_name": "Walt Disney's The Jungle Book",
+      "file": "missing/W/205928-walt-disneys-the-jungle-book.json"
     },
     {
       "igdb_id": 49922,
