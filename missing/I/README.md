@@ -2891,6 +2891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insane West | 117564 | [117564-insane-west.json](./117564-insane-west.json) |
 | Insanely Twisted Shadow Planet | 6168 | [6168-insanely-twisted-shadow-planet.json](./6168-insanely-twisted-shadow-planet.json) |
 | Insania | 132738 | [132738-insania.json](./132738-insania.json) |
+| Insaniam | 190927 | [190927-insaniam.json](./190927-insaniam.json) |
 | Insanias | 250950 | [250950-insanias.json](./250950-insanias.json) |
 | Insanidade | 342218 | [342218-insanidade.json](./342218-insanidade.json) |
 | Insaniquarium! | 334696 | [334696-insaniquarium.json](./334696-insaniquarium.json) |
