@@ -4971,6 +4971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordBuzz 4 | 420654 | [420654-wordbuzz-4.json](./420654-wordbuzz-4.json) |
 | WordCookies Cross | 87002 | [87002-wordcookies-cross.json](./87002-wordcookies-cross.json) |
 | WordCrasher | 87702 | [87702-wordcrasher.json](./87702-wordcrasher.json) |
+| Worddate | 202045 | [202045-worddate.json](./202045-worddate.json) |
 | Worded! | 233051 | [233051-worded.json](./233051-worded.json) |
 | Worder | 116852 | [116852-worder.json](./116852-worder.json) |
 | WordFall | 186666 | [186666-wordfall.json](./186666-wordfall.json) |
