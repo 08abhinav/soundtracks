@@ -1362,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko's Rage | 251840 | [251840-nekos-rage.json](./251840-nekos-rage.json) |
 | Nekoba RocknRoll | 152502 | [152502-nekoba-rocknroll.json](./152502-nekoba-rocknroll.json) |
 | Nekobabaa: Melonbooks Omake Tokubetsu-hen | 212253 | [212253-nekobabaa-melonbooks-omake-tokubetsu-hen.json](./212253-nekobabaa-melonbooks-omake-tokubetsu-hen.json) |
+| NekoBellow | 194241 | [194241-nekobellow.json](./194241-nekobellow.json) |
 | NekoBooM! | 102334 | [102334-nekoboom.json](./102334-nekoboom.json) |
 | NekoBop | 234125 | [234125-nekobop.json](./234125-nekobop.json) |
 | Nekoburo: Cats Block | 20024 | [20024-nekoburo-cats-block.json](./20024-nekoburo-cats-block.json) |
@@ -3408,6 +3409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Senki | 92465 | [92465-ninja-senki.json](./92465-ninja-senki.json) |
 | Ninja Sentai Hurricanger & Hyakujuu Sentai Gaoranger: Chou Sentai Super Battle | 62743 | [62743-ninja-sentai-hurricanger-and-hyakujuu-sentai-gaoranger-chou-sentai-super-battle.json](./62743-ninja-sentai-hurricanger-and-hyakujuu-sentai-gaoranger-chou-sentai-super-battle.json) |
 | Ninja Sentai Kakuranger | 310198 | [310198-ninja-sentai-kakuranger.json](./310198-ninja-sentai-kakuranger.json) |
+| Ninja Shodown | 194215 | [194215-ninja-shodown.json](./194215-ninja-shodown.json) |
 | Ninja Shurican | 183467 | [183467-ninja-shurican.json](./183467-ninja-shurican.json) |
 | Ninja Shuriken Master | 300855 | [300855-ninja-shuriken-master.json](./300855-ninja-shuriken-master.json) |
 | Ninja Slayer: Neo-Saitama In Flames | 298395 | [298395-ninja-slayer-neo-saitama-in-flames.json](./298395-ninja-slayer-neo-saitama-in-flames.json) |
