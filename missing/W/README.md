@@ -4005,6 +4005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiper | 312020 | [312020-wiper.json](./312020-wiper.json) |
 | Wiping | 38558 | [38558-wiping.json](./38558-wiping.json) |
 | Wira | 412232 | [412232-wira.json](./412232-wira.json) |
+| Wiraburut rai Phalang: Khai Tom | 207044 | [207044-wiraburut-rai-phalang-khai-tom.json](./207044-wiraburut-rai-phalang-khai-tom.json) |
 | Wire | 195755 | [195755-wire.json](./195755-wire.json) |
 | Wire Flying Maid | 129236 | [129236-wire-flying-maid.json](./129236-wire-flying-maid.json) |
 | Wire Throne | 312545 | [312545-wire-throne.json](./312545-wire-throne.json) |
