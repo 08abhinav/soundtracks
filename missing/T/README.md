@@ -1776,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tass Times in Tonetown | 29031 | [29031-tass-times-in-tonetown.json](./29031-tass-times-in-tonetown.json) |
 | Taste My Arsenal | 103981 | [103981-taste-my-arsenal.json](./103981-taste-my-arsenal.json) |
 | Taste of Blood | 361268 | [361268-taste-of-blood.json](./361268-taste-of-blood.json) |
+| Taste of Heaven | 200407 | [200407-taste-of-heaven.json](./200407-taste-of-heaven.json) |
 | Taste of Seduction | 212198 | [212198-taste-of-seduction.json](./212198-taste-of-seduction.json) |
 | Taste of Sweet Magic | 217784 | [217784-taste-of-sweet-magic.json](./217784-taste-of-sweet-magic.json) |
 | Taste of the Wind | 366249 | [366249-taste-of-the-wind.json](./366249-taste-of-the-wind.json) |
