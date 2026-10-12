@@ -1006,11 +1006,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewels of Darkness: Adventure Quest | 39160 | [39160-jewels-of-darkness-adventure-quest.json](./39160-jewels-of-darkness-adventure-quest.json) |
 | Jewels of Darkness: Colossal Adventure | 39159 | [39159-jewels-of-darkness-colossal-adventure.json](./39159-jewels-of-darkness-colossal-adventure.json) |
 | Jewels of Darkness: Dungeon Adventure | 39158 | [39158-jewels-of-darkness-dungeon-adventure.json](./39158-jewels-of-darkness-dungeon-adventure.json) |
+| Jewels of Rome | 181644 | [181644-jewels-of-rome.json](./181644-jewels-of-rome.json) |
 | Jewels of Sinai | 209986 | [209986-jewels-of-sinai.json](./209986-jewels-of-sinai.json) |
 | Jewels of the Ages | 130308 | [130308-jewels-of-the-ages.json](./130308-jewels-of-the-ages.json) |
 | Jewels of the Mysterious Woodland: Cat and Children Jewel Match | 171403 | [171403-jewels-of-the-mysterious-woodland-cat-and-children-jewel-match.json](./171403-jewels-of-the-mysterious-woodland-cat-and-children-jewel-match.json) |
 | Jewels of the Mysterious Woodland: Fairies Magical Jewel Match Quest | 171596 | [171596-jewels-of-the-mysterious-woodland-fairies-magical-jewel-match-quest.json](./171596-jewels-of-the-mysterious-woodland-fairies-magical-jewel-match-quest.json) |
 | Jewels of the Tropical Lost Island | 44066 | [44066-jewels-of-the-tropical-lost-island.json](./44066-jewels-of-the-tropical-lost-island.json) |
+| Jewels of the Wild West | 181643 | [181643-jewels-of-the-wild-west.json](./181643-jewels-of-the-wild-west.json) |
 | Jewels Palace | 114757 | [114757-jewels-palace.json](./114757-jewels-palace.json) |
 | Jewels Time : Endless match | 108510 | [108510-jewels-time-endless-match.json](./108510-jewels-time-endless-match.json) |
 | Jezebel and the Flame | 186254 | [186254-jezebel-and-the-flame.json](./186254-jezebel-and-the-flame.json) |
