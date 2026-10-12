@@ -2010,6 +2010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Vikings | 130247 | [130247-king-of-vikings.json](./130247-king-of-vikings.json) |
 | King of Wildlings | 27810 | [27810-king-of-wildlings.json](./27810-king-of-wildlings.json) |
 | King Out | 422141 | [422141-king-out.json](./422141-king-out.json) |
+| King Pig | 203669 | [203669-king-pig.json](./203669-king-pig.json) |
 | King Pins | 140452 | [140452-king-pins.json](./140452-king-pins.json) |
 | King Rabbit: Puzzle | 111196 | [111196-king-rabbit-puzzle.json](./111196-king-rabbit-puzzle.json) |
 | King Randall's Party | 107800 | [107800-king-randalls-party.json](./107800-king-randalls-party.json) |
@@ -2597,6 +2598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitten Burst | 201690 | [201690-kitten-burst.json](./201690-kitten-burst.json) |
 | Kitten Cannon | 25889 | [25889-kitten-cannon.json](./25889-kitten-cannon.json) |
 | Kitten Coliseum | 388230 | [388230-kitten-coliseum.json](./388230-kitten-coliseum.json) |
+| Kitten Hero | 203679 | [203679-kitten-hero.json](./203679-kitten-hero.json) |
 | Kitten Island | 251112 | [251112-kitten-island.json](./251112-kitten-island.json) |
 | Kitten Kaboodle | 40236 | [40236-kitten-kaboodle.json](./40236-kitten-kaboodle.json) |
 | Kitten Life Simulator | 97496 | [97496-kitten-life-simulator.json](./97496-kitten-life-simulator.json) |
