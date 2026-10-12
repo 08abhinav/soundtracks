@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life 1 Anthology | 400309 | [400309-half-life-1-anthology.json](./400309-half-life-1-anthology.json) |
 | Half-Life 2 Classic | 128657 | [128657-half-life-2-classic.json](./128657-half-life-2-classic.json) |
 | Half-Life 2: Alone Mod | 323932 | [323932-half-life-2-alone-mod.json](./323932-half-life-2-alone-mod.json) |
+| Half-Life 2: Calamity | 185975 | [185975-half-life-2-calamity.json](./185975-half-life-2-calamity.json) |
 | Half-Life 2: Capture the Flag | 221720 | [221720-half-life-2-capture-the-flag.json](./221720-half-life-2-capture-the-flag.json) |
 | Half-Life 2: Collector's Edition | 237394 | [237394-half-life-2-collectors-edition.json](./237394-half-life-2-collectors-edition.json) |
 | Half-Life 2: Game of the Year Edition | 314459 | [314459-half-life-2-game-of-the-year-edition.json](./314459-half-life-2-game-of-the-year-edition.json) |
@@ -5891,6 +5892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homefront: The Revolution | 1886 | [1886-homefront-the-revolution.json](./1886-homefront-the-revolution.json) |
 | Homefront: The Revolution - Aftermath | 53206 | [53206-homefront-the-revolution-aftermath.json](./53206-homefront-the-revolution-aftermath.json) |
 | Homefront: The Revolution - Beyond the Walls | 53207 | [53207-homefront-the-revolution-beyond-the-walls.json](./53207-homefront-the-revolution-beyond-the-walls.json) |
+| Homefront: The Revolution - Freedom Fighter Bundle | 185979 | [185979-homefront-the-revolution-freedom-fighter-bundle.json](./185979-homefront-the-revolution-freedom-fighter-bundle.json) |
 | Homefront: The Revolution - The Voice Of Freedom | 53205 | [53205-homefront-the-revolution-the-voice-of-freedom.json](./53205-homefront-the-revolution-the-voice-of-freedom.json) |
 | Homefront: The Rock Map Pack | 224224 | [224224-homefront-the-rock-map-pack.json](./224224-homefront-the-rock-map-pack.json) |
 | Homehead | 346023 | [346023-homehead.json](./346023-homehead.json) |
@@ -6881,6 +6883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Transylvania: Crazy Cruise | 105769 | [105769-hotel-transylvania-crazy-cruise.json](./105769-hotel-transylvania-crazy-cruise.json) |
 | Hotel Transylvania: Hotel Havoc | 104263 | [104263-hotel-transylvania-hotel-havoc.json](./104263-hotel-transylvania-hotel-havoc.json) |
 | Hotel Transylvania: Monsters | 105851 | [105851-hotel-transylvania-monsters.json](./105851-hotel-transylvania-monsters.json) |
+| Hotel Transylvania: Scary-Tale Adventures | 185966 | [185966-hotel-transylvania-scary-tale-adventures.json](./185966-hotel-transylvania-scary-tale-adventures.json) |
 | Hotel Transylvania: Social Game | 108821 | [108821-hotel-transylvania-social-game.json](./108821-hotel-transylvania-social-game.json) |
 | Hotel Tycoon | 414881 | [414881-hotel-tycoon.json](./414881-hotel-tycoon.json) |
 | Hotel Tycoon 2 HD | 101014 | [101014-hotel-tycoon-2-hd.json](./101014-hotel-tycoon-2-hd.json) |
@@ -7302,6 +7305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HSNU | 288433 | [288433-hsnu.json](./288433-hsnu.json) |
 | HSNU Academy 79th Anniversary | 396207 | [396207-hsnu-academy-79th-anniversary.json](./396207-hsnu-academy-79th-anniversary.json) |
 | HSS: Reload | 317306 | [317306-hss-reload.json](./317306-hss-reload.json) |
+| HSV Adventure Racing | 185994 | [185994-hsv-adventure-racing.json](./185994-hsv-adventure-racing.json) |
 | HSX: Hypersonic Xtreme | 43656 | [43656-hsx-hypersonic-xtreme.json](./43656-hsx-hypersonic-xtreme.json) |
 | HTC | 221914 | [221914-htc.json](./221914-htc.json) |
 | htoL#NiQ: The Firefly Diary - Limited Edition | 89918 | [89918-htol-niq-the-firefly-diary-limited-edition.json](./89918-htol-niq-the-firefly-diary-limited-edition.json) |
