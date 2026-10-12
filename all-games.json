@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T12:00:14.041Z",
-  "total_soundtracks": 1517,
+  "generated_at": "2026-10-12T12:05:14.432Z",
+  "total_soundtracks": 1518,
   "games": [
     {
       "igdb_id": 7522,
@@ -475,6 +475,20 @@
           "spotify_url": "https://open.spotify.com/album/76hQ5E6y5p8yvSwES6ZxsF",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 55056,
+      "game_name": "Age of Empires II: Definitive Edition",
+      "game_url": "https://ostdb.net/games/age-of-empires-ii-definitive-edition",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e8/d1/00/e8d10015-19d3-4019-e748-3a448b7d3956/192641388347_Cover.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Age of Empires II Definitive Edition, Vol. 1 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/59UJfUpjv8Io4viRUYHlmQ",
+          "apple_music_url": "https://music.apple.com/us/album/age-of-empires-ii-definitive-edition-vol-1-original/1484435903",
+          "album_link_url": "https://album.link/i/1484435903"
         }
       ]
     },
