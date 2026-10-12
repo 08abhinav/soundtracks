@@ -1078,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Spa Tycoon 3D | 208923 | [208923-idle-spa-tycoon-3d.json](./208923-idle-spa-tycoon-3d.json) |
 | Idle Space Force | 246425 | [246425-idle-space-force.json](./246425-idle-space-force.json) |
 | Idle Space Navy | 266983 | [266983-idle-space-navy.json](./266983-idle-space-navy.json) |
+| Idle Space Station | 214101 | [214101-idle-space-station.json](./214101-idle-space-station.json) |
 | Idle Sphere | 323157 | [323157-idle-sphere.json](./323157-idle-sphere.json) |
 | Idle Spiral | 211230 | [211230-idle-spiral.json](./211230-idle-spiral.json) |
 | Idle Spiral: Custom Spiral Pack | 291702 | [291702-idle-spiral-custom-spiral-pack.json](./291702-idle-spiral-custom-spiral-pack.json) |
