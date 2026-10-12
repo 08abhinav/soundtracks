@@ -7848,6 +7848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runaway Farm | 249896 | [249896-runaway-farm.json](./249896-runaway-farm.json) |
 | Runaway Girl: Picked up a Girl | 298724 | [298724-runaway-girl-picked-up-a-girl.json](./298724-runaway-girl-picked-up-a-girl.json) |
 | Runaway Princess | 370765 | [370765-runaway-princess.json](./370765-runaway-princess.json) |
+| Runaway Robot | 203107 | [203107-runaway-robot.json](./203107-runaway-robot.json) |
 | Runaway Train | 252368 | [252368-runaway-train.json](./252368-runaway-train.json) |
 | Runaway Train 2D | 400908 | [400908-runaway-train-2d.json](./400908-runaway-train-2d.json) |
 | Runaway VR | 54446 | [54446-runaway-vr.json](./54446-runaway-vr.json) |
