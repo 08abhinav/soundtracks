@@ -4649,6 +4649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chipper & Sons Lumber Co. | 59984 | [59984-chipper-and-sons-lumber-co.json](./59984-chipper-and-sons-lumber-co.json) |
 | Chippy | 117217 | [117217-chippy.json](./117217-chippy.json) |
 | Chippy & Noppo | 240228 | [240228-chippy-and-noppo.json](./240228-chippy-and-noppo.json) |
+| Chippy's Escape from Seaberry Keep | 224681 | [224681-chippys-escape-from-seaberry-keep.json](./224681-chippys-escape-from-seaberry-keep.json) |
 | Chiptune DJ | 106409 | [106409-chiptune-dj.json](./106409-chiptune-dj.json) |
 | Chiptune Runner | 52741 | [52741-chiptune-runner.json](./52741-chiptune-runner.json) |
 | ChipWits | 292223 | [292223-chipwits.json](./292223-chipwits.json) |
