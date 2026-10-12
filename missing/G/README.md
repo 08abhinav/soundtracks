@@ -1676,6 +1676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Rush | 105445 | [105445-gem-rush.json](./105445-gem-rush.json) |
 | Gem Setter | 176340 | [176340-gem-setter.json](./176340-gem-setter.json) |
 | Gem Shoot | 175344 | [175344-gem-shoot.json](./175344-gem-shoot.json) |
+| Gem Tower Defense 2 | 196510 | [196510-gem-tower-defense-2.json](./196510-gem-tower-defense-2.json) |
 | Gem Venture | 217326 | [217326-gem-venture.json](./217326-gem-venture.json) |
 | Gem Wizard | 273489 | [273489-gem-wizard.json](./273489-gem-wizard.json) |
 | Gem Wizards Tactics | 142742 | [142742-gem-wizards-tactics.json](./142742-gem-wizards-tactics.json) |
@@ -1936,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genius Quiz Youtubers 2 | 241928 | [241928-genius-quiz-youtubers-2.json](./241928-genius-quiz-youtubers-2.json) |
 | Genius Quiz Youtubers 3 | 241930 | [241930-genius-quiz-youtubers-3.json](./241930-genius-quiz-youtubers-3.json) |
 | Genius Quiz Yugi | 241927 | [241927-genius-quiz-yugi.json](./241927-genius-quiz-yugi.json) |
+| Genius Shooter | 196540 | [196540-genius-shooter.json](./196540-genius-shooter.json) |
 | Genius: Im Zentrum der Macht | 86122 | [86122-genius-im-zentrum-der-macht.json](./86122-genius-im-zentrum-der-macht.json) |
 | Genji: Days of the Blade | 7315 | [7315-genji-days-of-the-blade.json](./7315-genji-days-of-the-blade.json) |
 | Genji: Time Suspense Adventure | 66150 | [66150-genji-time-suspense-adventure.json](./66150-genji-time-suspense-adventure.json) |
@@ -5645,6 +5647,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Inferno | 410929 | [410929-green-inferno.json](./410929-green-inferno.json) |
 | Green Lantern | 208319 | [208319-green-lantern.json](./208319-green-lantern.json) |
 | Green Lantern Battle Cards | 64339 | [64339-green-lantern-battle-cards.json](./64339-green-lantern-battle-cards.json) |
+| Green Lantern: Rise of the Manhunters | 196504 | [196504-green-lantern-rise-of-the-manhunters.json](./196504-green-lantern-rise-of-the-manhunters.json) |
+| Green Lantern: Rise of the Manhunters | 196505 | [196505-green-lantern-rise-of-the-manhunters.json](./196505-green-lantern-rise-of-the-manhunters.json) |
 | Green Lantern: Rise of the Manhunters | 289569 | [289569-green-lantern-rise-of-the-manhunters.json](./289569-green-lantern-rise-of-the-manhunters.json) |
 | Green Lantern: Rise of the Manhunters | 4896 | [4896-green-lantern-rise-of-the-manhunters.json](./4896-green-lantern-rise-of-the-manhunters.json) |
 | Green Lava Studios Volume 2 | 195092 | [195092-green-lava-studios-volume-2.json](./195092-green-lava-studios-volume-2.json) |
@@ -6382,6 +6386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian of the Rebellion | 347096 | [347096-guardian-of-the-rebellion.json](./347096-guardian-of-the-rebellion.json) |
 | Guardian of the Sacred Seal | 386442 | [386442-guardian-of-the-sacred-seal.json](./386442-guardian-of-the-sacred-seal.json) |
 | Guardian Prelude | 104580 | [104580-guardian-prelude.json](./104580-guardian-prelude.json) |
+| Guardian Project | 196539 | [196539-guardian-project.json](./196539-guardian-project.json) |
 | Guardian Realms RPG | 365188 | [365188-guardian-realms-rpg.json](./365188-guardian-realms-rpg.json) |
 | Guardian Realms TCG | 365187 | [365187-guardian-realms-tcg.json](./365187-guardian-realms-tcg.json) |
 | Guardian Recall | 123006 | [123006-guardian-recall.json](./123006-guardian-recall.json) |
@@ -6999,6 +7004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns and Braps | 127027 | [127027-guns-and-braps.json](./127027-guns-and-braps.json) |
 | Guns and Donuts | 260635 | [260635-guns-and-donuts.json](./260635-guns-and-donuts.json) |
 | Guns and Grapples | 152363 | [152363-guns-and-grapples.json](./152363-guns-and-grapples.json) |
+| Guns and Lords | 196537 | [196537-guns-and-lords.json](./196537-guns-and-lords.json) |
 | Guns and Spurs 2 | 174869 | [174869-guns-and-spurs-2.json](./174869-guns-and-spurs-2.json) |
 | Guns and Waifus | 157209 | [157209-guns-and-waifus.json](./157209-guns-and-waifus.json) |
 | Guns at Dawn: Arena | 214451 | [214451-guns-at-dawn-arena.json](./214451-guns-at-dawn-arena.json) |
