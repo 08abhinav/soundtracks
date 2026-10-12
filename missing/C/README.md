@@ -5590,6 +5590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cirno's Not So Ice Day | 362896 | [362896-cirnos-not-so-ice-day.json](./362896-cirnos-not-so-ice-day.json) |
 | Cirno's Perfect Punchout!! | 219035 | [219035-cirnos-perfect-punchout.json](./219035-cirnos-perfect-punchout.json) |
 | Cirno's Perfect Summer Vacation | 127713 | [127713-cirnos-perfect-summer-vacation.json](./127713-cirnos-perfect-summer-vacation.json) |
+| Cirno's Strongest Shaved Ice Operation! | 204248 | [204248-cirnos-strongest-shaved-ice-operation.json](./204248-cirnos-strongest-shaved-ice-operation.json) |
 | Cirnozardry | 292858 | [292858-cirnozardry.json](./292858-cirnozardry.json) |
 | Cirque des Animaux | 383080 | [383080-cirque-des-animaux.json](./383080-cirque-des-animaux.json) |
 | Cirque du Flea | 366412 | [366412-cirque-du-flea.json](./366412-cirque-du-flea.json) |
@@ -6662,6 +6663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudy & Stormy: Pawtastic Adventure | 333911 | [333911-cloudy-and-stormy-pawtastic-adventure.json](./333911-cloudy-and-stormy-pawtastic-adventure.json) |
 | Cloudy Day | 361267 | [361267-cloudy-day.json](./361267-cloudy-day.json) |
 | Cloudy Days | 236949 | [236949-cloudy-days.json](./236949-cloudy-days.json) |
+| Cloudy Super Mario Bros. U 2 | 204221 | [204221-cloudy-super-mario-bros-u-2.json](./204221-cloudy-super-mario-bros-u-2.json) |
 | Cloudy Valley | 284826 | [284826-cloudy-valley.json](./284826-cloudy-valley.json) |
 | Cloudy with a Chance of Kittens | 345140 | [345140-cloudy-with-a-chance-of-kittens.json](./345140-cloudy-with-a-chance-of-kittens.json) |
 | Cloudy with a Chance of Meatballs | 4767 | [4767-cloudy-with-a-chance-of-meatballs.json](./4767-cloudy-with-a-chance-of-meatballs.json) |
@@ -7258,6 +7260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coldblooded | 403007 | [403007-coldblooded.json](./403007-coldblooded.json) |
 | Colddigger | 118996 | [118996-colddigger.json](./118996-colddigger.json) |
 | Coldfall | 113005 | [113005-coldfall.json](./113005-coldfall.json) |
+| ColdFortune | 204231 | [204231-coldfortune.json](./204231-coldfortune.json) |
 | Coldline | 227913 | [227913-coldline.json](./227913-coldline.json) |
 | Coldplay Canoodlers | 356110 | [356110-coldplay-canoodlers.json](./356110-coldplay-canoodlers.json) |
 | ColdSide: Retro Edition | 410206 | [410206-coldside-retro-edition.json](./410206-coldside-retro-edition.json) |
@@ -8537,6 +8540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest of Elysium 2 | 326798 | [326798-conquest-of-elysium-2.json](./326798-conquest-of-elysium-2.json) |
 | Conquest of Elysium 4 | 24605 | [24605-conquest-of-elysium-4.json](./24605-conquest-of-elysium-4.json) |
 | Conquest of Empires 2 | 272191 | [272191-conquest-of-empires-2.json](./272191-conquest-of-empires-2.json) |
+| Conquest of Helios | 204202 | [204202-conquest-of-helios.json](./204202-conquest-of-helios.json) |
 | Conquest of Japan | 73770 | [73770-conquest-of-japan.json](./73770-conquest-of-japan.json) |
 | Conquest of Kings | 295566 | [295566-conquest-of-kings.json](./295566-conquest-of-kings.json) |
 | Conquest of Mars | 40728 | [40728-conquest-of-mars.json](./40728-conquest-of-mars.json) |
@@ -11502,6 +11506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crunchies Munchies | 336084 | [336084-crunchies-munchies.json](./336084-crunchies-munchies.json) |
 | Crunchy Numbers Math Arcade | 205082 | [205082-crunchy-numbers-math-arcade.json](./205082-crunchy-numbers-math-arcade.json) |
 | Crunda | 333043 | [333043-crunda.json](./333043-crunda.json) |
+| Crunky | 204200 | [204200-crunky.json](./204200-crunky.json) |
 | Cruo Domine | 246857 | [246857-cruo-domine.json](./246857-cruo-domine.json) |
 | Crusade in Europe | 25922 | [25922-crusade-in-europe.json](./25922-crusade-in-europe.json) |
 | Crusade of Deitra | 173296 | [173296-crusade-of-deitra.json](./173296-crusade-of-deitra.json) |
