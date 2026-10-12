@@ -2032,6 +2032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empires & Allies | 60553 | [60553-empires-and-allies.json](./60553-empires-and-allies.json) |
 | Empires Apart: Aztec Civilization Pack | 226809 | [226809-empires-apart-aztec-civilization-pack.json](./226809-empires-apart-aztec-civilization-pack.json) |
 | Empires Apart: Chinese Civilization Pack | 169311 | [169311-empires-apart-chinese-civilization-pack.json](./169311-empires-apart-chinese-civilization-pack.json) |
+| Empires II | 223619 | [223619-empires-ii.json](./223619-empires-ii.json) |
 | Empires II: What Would You Risk for World Conquest? | 100215 | [100215-empires-ii-what-would-you-risk-for-world-conquest.json](./100215-empires-ii-what-would-you-risk-for-world-conquest.json) |
 | Empires in Arms | 215076 | [215076-empires-in-arms.json](./215076-empires-in-arms.json) |
 | Empires in Ruins | 51406 | [51406-empires-in-ruins.json](./51406-empires-in-ruins.json) |
@@ -2324,6 +2325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Nightmare | 193996 | [193996-endless-nightmare.json](./193996-endless-nightmare.json) |
 | Endless Nightmare: Shrine | 200737 | [200737-endless-nightmare-shrine.json](./200737-endless-nightmare-shrine.json) |
 | Endless Nightmare: Weird Hospital | 174767 | [174767-endless-nightmare-weird-hospital.json](./174767-endless-nightmare-weird-hospital.json) |
+| Endless Nights RPG | 223628 | [223628-endless-nights-rpg.json](./223628-endless-nights-rpg.json) |
 | Endless Nights: Zombie Apocalypse | 244253 | [244253-endless-nights-zombie-apocalypse.json](./244253-endless-nights-zombie-apocalypse.json) |
 | Endless Ocean | 289872 | [289872-endless-ocean.json](./289872-endless-ocean.json) |
 | Endless Ocean: Blue World | 4833 | [4833-endless-ocean-blue-world.json](./4833-endless-ocean-blue-world.json) |
