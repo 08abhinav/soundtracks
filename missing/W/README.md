@@ -2224,6 +2224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Well Keeper | 368649 | [368649-well-keeper.json](./368649-well-keeper.json) |
 | Well of Lost Souls | 271788 | [271788-well-of-lost-souls.json](./271788-well-of-lost-souls.json) |
 | Well to Hell | 319214 | [319214-well-to-hell.json](./319214-well-to-hell.json) |
+| Well-Beings: Wellness for Kids | 192083 | [192083-well-beings-wellness-for-kids.json](./192083-well-beings-wellness-for-kids.json) |
 | Well, Fuck You Too | 352755 | [352755-well-fuck-you-too.json](./352755-well-fuck-you-too.json) |
 | Wellington's Victory | 106728 | [106728-wellingtons-victory.json](./106728-wellingtons-victory.json) |
 | Wells | 31298 | [31298-wells.json](./31298-wells.json) |
@@ -3123,6 +3124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Is This Man | 113570 | [113570-who-is-this-man.json](./113570-who-is-this-man.json) |
 | Who Is You | 123549 | [123549-who-is-you.json](./123549-who-is-you.json) |
 | Who Is Your Prince? In the Rich School | 255882 | [255882-who-is-your-prince-in-the-rich-school.json](./255882-who-is-your-prince-in-the-rich-school.json) |
+| Who Is Zombie | 192084 | [192084-who-is-zombie.json](./192084-who-is-zombie.json) |
 | Who Killed Mr. White? | 164951 | [164951-who-killed-mr-white.json](./164951-who-killed-mr-white.json) |
 | Who Killed My Sister? | 122946 | [122946-who-killed-my-sister.json](./122946-who-killed-my-sister.json) |
 | Who Killed the Streamer? | 260645 | [260645-who-killed-the-streamer.json](./260645-who-killed-the-streamer.json) |
@@ -5555,6 +5557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War: D-Day Part One | 275042 | [275042-world-war-d-day-part-one.json](./275042-world-war-d-day-part-one.json) |
 | World War: D-Day Part Two | 278663 | [278663-world-war-d-day-part-two.json](./278663-world-war-d-day-part-two.json) |
 | World War: Fury Wave | 316236 | [316236-world-war-fury-wave.json](./316236-world-war-fury-wave.json) |
+| World War: Tank Battle | 192082 | [192082-world-war-tank-battle.json](./192082-world-war-tank-battle.json) |
 | World Warfare & Economic | 171427 | [171427-world-warfare-and-economic.json](./171427-world-warfare-and-economic.json) |
 | World Wars | 40244 | [40244-world-wars.json](./40244-world-wars.json) |
 | World Wide Love!: Sekai Seifuku Kanojo Fandisc | 375364 | [375364-world-wide-love-sekai-seifuku-kanojo-fandisc.json](./375364-world-wide-love-sekai-seifuku-kanojo-fandisc.json) |
