@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw: Home Sweet Home 3 | 211386 | [211386-1001-jigsaw-home-sweet-home-3.json](./211386-1001-jigsaw-home-sweet-home-3.json) |
 | 1001 Jigsaw: Ice Age | 268041 | [268041-1001-jigsaw-ice-age.json](./268041-1001-jigsaw-ice-age.json) |
 | 1001 Jigsaw: Interior Design | 208836 | [208836-1001-jigsaw-interior-design.json](./208836-1001-jigsaw-interior-design.json) |
+| 1001 Jigsaw: Legends of Mystery 3 | 197597 | [197597-1001-jigsaw-legends-of-mystery-3.json](./197597-1001-jigsaw-legends-of-mystery-3.json) |
 | 1001 Jigsaw: Legends of Mystery 4 | 200701 | [200701-1001-jigsaw-legends-of-mystery-4.json](./200701-1001-jigsaw-legends-of-mystery-4.json) |
 | 1001 Jigsaw: Legends of Mystery 5 | 203857 | [203857-1001-jigsaw-legends-of-mystery-5.json](./203857-1001-jigsaw-legends-of-mystery-5.json) |
 | 1001 Jigsaw: Legends of Mystery 6 | 212899 | [212899-1001-jigsaw-legends-of-mystery-6.json](./212899-1001-jigsaw-legends-of-mystery-6.json) |
@@ -1202,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Cushion Masters | 153462 | [153462-3-cushion-masters.json](./153462-3-cushion-masters.json) |
 | 3 Days of Tactical Farming | 185000 | [185000-3-days-of-tactical-farming.json](./185000-3-days-of-tactical-farming.json) |
 | 3 Days to Live | 379898 | [379898-3-days-to-live.json](./379898-3-days-to-live.json) |
+| 3 Days: Ghosts of War | 197583 | [197583-3-days-ghosts-of-war.json](./197583-3-days-ghosts-of-war.json) |
 | 3 Deep Space | 83269 | [83269-3-deep-space.json](./83269-3-deep-space.json) |
 | 3 Foot Ninja | 241472 | [241472-3-foot-ninja.json](./241472-3-foot-ninja.json) |
 | 3 Games in 1: Tak and the Power of Juju / SpongeBob SquarePants: SuperSponge / Rugrats: I Gotta Go Party | 82098 | [82098-3-games-in-1-tak-and-the-power-of-juju-spongebob-squarepants-supersponge-rugrats-i-gotta-go-party.json](./82098-3-games-in-1-tak-and-the-power-of-juju-spongebob-squarepants-supersponge-rugrats-i-gotta-go-party.json) |
@@ -1426,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Puyo Puyo 2: Tsuu | 87195 | [87195-3d-puyo-puyo-2-tsuu.json](./87195-3d-puyo-puyo-2-tsuu.json) |
 | 3D Puzzle Dark Fantasy | 357751 | [357751-3d-puzzle-dark-fantasy.json](./357751-3d-puzzle-dark-fantasy.json) |
 | 3D Puzzle: Abandoned Prison | 308949 | [308949-3d-puzzle-abandoned-prison.json](./308949-3d-puzzle-abandoned-prison.json) |
+| 3D Puzzle: Alchemist House | 197582 | [197582-3d-puzzle-alchemist-house.json](./197582-3d-puzzle-alchemist-house.json) |
 | 3D Puzzle: Apocalyptic Wasteland | 337612 | [337612-3d-puzzle-apocalyptic-wasteland.json](./337612-3d-puzzle-apocalyptic-wasteland.json) |
 | 3D Puzzle: Battle Royal | 254034 | [254034-3d-puzzle-battle-royal.json](./254034-3d-puzzle-battle-royal.json) |
 | 3D Puzzle: Breaking Bed | 280314 | [280314-3d-puzzle-breaking-bed.json](./280314-3d-puzzle-breaking-bed.json) |
