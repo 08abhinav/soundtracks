@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T10:05:37.710Z",
-  "total_soundtracks": 1511,
+  "generated_at": "2026-10-12T10:05:47.263Z",
+  "total_soundtracks": 1512,
   "games": [
     {
       "igdb_id": 7522,
@@ -12465,6 +12465,20 @@
           "spotify_url": "https://open.spotify.com/album/1RAynSIRV1VJlszPBJ6N3N",
           "apple_music_url": "https://music.apple.com/us/album/rust-vol-1-original-game-soundtrack/1887857023",
           "album_link_url": "https://album.link/i/1887857023"
+        }
+      ]
+    },
+    {
+      "igdb_id": 18011,
+      "game_name": "Rusty Lake Hotel",
+      "game_url": "https://ostdb.net/games/rusty-lake-hotel",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27362ededa694d227d28d770ef7",
+      "albums": [
+        {
+          "album_name": "Rusty Lake Hotel (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0bbLKL23ag3UiyZFFsekiY",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
