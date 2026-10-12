@@ -1833,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unrushed Defence | 236342 | [236342-unrushed-defence.json](./236342-unrushed-defence.json) |
 | Unsafe Express | 173282 | [173282-unsafe-express.json](./173282-unsafe-express.json) |
 | Unscramble | 88656 | [88656-unscramble.json](./88656-unscramble.json) |
+| Unscramble Heroes | 218108 | [218108-unscramble-heroes.json](./218108-unscramble-heroes.json) |
 | Unscripted | 150764 | [150764-unscripted.json](./150764-unscripted.json) |
 | Unscripted | 223383 | [223383-unscripted.json](./223383-unscripted.json) |
 | Unseasonable Flowering | 399221 | [399221-unseasonable-flowering.json](./399221-unseasonable-flowering.json) |
