@@ -2556,6 +2556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Bounce | 412398 | [412398-infinity-bounce.json](./412398-infinity-bounce.json) |
 | Infinity Cave | 313422 | [313422-infinity-cave.json](./313422-infinity-cave.json) |
 | Infinity Conflict | 188406 | [188406-infinity-conflict.json](./188406-infinity-conflict.json) |
+| Infinity Conquer | 196521 | [196521-infinity-conquer.json](./196521-infinity-conquer.json) |
 | Infinity Cure | 43965 | [43965-infinity-cure.json](./43965-infinity-cure.json) |
 | Infinity Dive | 181839 | [181839-infinity-dive.json](./181839-infinity-dive.json) |
 | Infinity Dungeons | 203569 | [203569-infinity-dungeons.json](./203569-infinity-dungeons.json) |
