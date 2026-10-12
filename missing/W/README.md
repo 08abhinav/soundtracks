@@ -1576,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Flow | 284576 | [284576-water-flow.json](./284576-water-flow.json) |
 | Water Girls | 169256 | [169256-water-girls.json](./169256-water-girls.json) |
 | Water Horse | 363987 | [363987-water-horse.json](./363987-water-horse.json) |
+| Water Is All I Can See | 214663 | [214663-water-is-all-i-can-see.json](./214663-water-is-all-i-can-see.json) |
 | Water Level / B.l.u.e. Exploration | 320938 | [320938-water-level-b-l-u-e-exploration.json](./320938-water-level-b-l-u-e-exploration.json) |
 | Water Maid | 333038 | [333038-water-maid.json](./333038-water-maid.json) |
 | Water Me & You | 260169 | [260169-water-me-and-you.json](./260169-water-me-and-you.json) |
