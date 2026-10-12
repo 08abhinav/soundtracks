@@ -846,6 +846,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273c30055ab78de65fa56c87e7b" width="60" /> | [Rome: Total War - Alexander](https://ostdb.net/games/rome-total-war-alexander) | **Rome Total War (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6rBrMTjROx03uL5oz8boX8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c30055ab78de65fa56c87e7b" width="60" /> | [Rome: Total War - Barbarian Invasion](https://ostdb.net/games/rome-total-war-barbarian-invasion) | **Rome Total War (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6rBrMTjROx03uL5oz8boX8) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/87/68/7c876843-600d-9100-c551-7d4315419ba5/8721466129389.png/600x600bb.jpg" width="60" /> | [Rust](https://ostdb.net/games/rust) | **Rust Vol. 1 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1RAynSIRV1VJlszPBJ6N3N) · [Apple Music](https://music.apple.com/us/album/rust-vol-1-original-game-soundtrack/1887857023) · [Album](https://album.link/i/1887857023) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27362ededa694d227d28d770ef7" width="60" /> | [Rusty Lake Hotel](https://ostdb.net/games/rusty-lake-hotel) | **Rusty Lake Hotel (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0bbLKL23ag3UiyZFFsekiY) |
 
 ### S
 
@@ -1186,4 +1187,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1511 soundtracks · last updated 2026-10-12T10:05:37.710Z_
+_1512 soundtracks · last updated 2026-10-12T10:05:47.263Z_
