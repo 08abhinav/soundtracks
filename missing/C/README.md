@@ -1620,6 +1620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carious Weltling | 354450 | [354450-carious-weltling.json](./354450-carious-weltling.json) |
 | CarJacker: Hotwired and Gone! | 66365 | [66365-carjacker-hotwired-and-gone.json](./66365-carjacker-hotwired-and-gone.json) |
 | Carl Currency, Expert Exchanger | 229345 | [229345-carl-currency-expert-exchanger.json](./229345-carl-currency-expert-exchanger.json) |
+| Carl jii-san no Sora Tobu Ie | 222455 | [222455-carl-jii-san-no-sora-tobu-ie.json](./222455-carl-jii-san-no-sora-tobu-ie.json) |
 | Carl Lewis Athletics 2000 | 66342 | [66342-carl-lewis-athletics-2000.json](./66342-carl-lewis-athletics-2000.json) |
 | Carl the Caveman | 281419 | [281419-carl-the-caveman.json](./281419-carl-the-caveman.json) |
 | Carl the Caveman: Christmas Adventures | 281421 | [281421-carl-the-caveman-christmas-adventures.json](./281421-carl-the-caveman-christmas-adventures.json) |
