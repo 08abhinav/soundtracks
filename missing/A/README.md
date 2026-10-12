@@ -3536,6 +3536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akka Arrh | 225592 | [225592-akka-arrh.json](./225592-akka-arrh.json) |
 | Akka Arrh | 237527 | [237527-akka-arrh.json](./237527-akka-arrh.json) |
 | Akka Arrh: Special Edition | 245274 | [245274-akka-arrh-special-edition.json](./245274-akka-arrh-special-edition.json) |
+| Akki no Jikan | 220292 | [220292-akki-no-jikan.json](./220292-akki-no-jikan.json) |
 | Akko de Pon! Ikasama Hourouki | 65280 | [65280-akko-de-pon-ikasama-hourouki.json](./65280-akko-de-pon-ikasama-hourouki.json) |
 | Akko ni Omakase! Brain Shock | 269544 | [269544-akko-ni-omakase-brain-shock.json](./269544-akko-ni-omakase-brain-shock.json) |
 | Aknadach | 391056 | [391056-aknadach.json](./391056-aknadach.json) |
