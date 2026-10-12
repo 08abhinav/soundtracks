@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Armored Core Mobile 2 | 350578 | [350578-g-mode-archives-armored-core-mobile-2.json](./350578-g-mode-archives-armored-core-mobile-2.json) |
 | G-Mode Archives+: Armored Core Mobile Mission | 342805 | [342805-g-mode-archives-armored-core-mobile-mission.json](./342805-g-mode-archives-armored-core-mobile-mission.json) |
 | G-Mode Archives+: Bokujou Monogatari Mobile - Life & Love | 315678 | [315678-g-mode-archives-bokujou-monogatari-mobile-life-and-love.json](./315678-g-mode-archives-bokujou-monogatari-mobile-life-and-love.json) |
+| G-Mode Archives+: Danmaku Kentei Shiken - Ketsui-Hen | 214712 | [214712-g-mode-archives-danmaku-kentei-shiken-ketsui-hen.json](./214712-g-mode-archives-danmaku-kentei-shiken-ketsui-hen.json) |
 | G-Mode Archives+: Flash Motor Karen | 388380 | [388380-g-mode-archives-flash-motor-karen.json](./388380-g-mode-archives-flash-motor-karen.json) |
 | G-Mode Archives+: Idol Janshi Suchie-Pai | 256268 | [256268-g-mode-archives-idol-janshi-suchie-pai.json](./256268-g-mode-archives-idol-janshi-suchie-pai.json) |
 | G-Mode Archives+: Kishinden Strike-G- | 412402 | [412402-g-mode-archives-kishinden-strike-g.json](./412402-g-mode-archives-kishinden-strike-g.json) |
