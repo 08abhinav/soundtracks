@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taaltris | 94699 | [94699-taaltris.json](./94699-taaltris.json) |
 | Taarradhin | 57179 | [57179-taarradhin.json](./57179-taarradhin.json) |
 | Tab + Notch | 401091 | [401091-tab-notch.json](./401091-tab-notch.json) |
+| Tab-Bot | 202005 | [202005-tab-bot.json](./202005-tab-bot.json) |
 | Tabboz Simulator | 191239 | [191239-tabboz-simulator.json](./191239-tabboz-simulator.json) |
 | Tabby Cat's Great Catventure | 177423 | [177423-tabby-cats-great-catventure.json](./177423-tabby-cats-great-catventure.json) |
 | Tabé-O-Ja | 150071 | [150071-tabe-o-ja.json](./150071-tabe-o-ja.json) |
@@ -4021,6 +4022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bad Son | 192888 | [192888-the-bad-son.json](./192888-the-bad-son.json) |
 | The Bad, The Worse & Djanky | 155009 | [155009-the-bad-the-worse-and-djanky.json](./155009-the-bad-the-worse-and-djanky.json) |
 | The Bag Man's Curse | 326636 | [326636-the-bag-mans-curse.json](./326636-the-bag-mans-curse.json) |
+| The Bagel Archive | 202035 | [202035-the-bagel-archive.json](./202035-the-bagel-archive.json) |
 | The Baker of Shireton | 59683 | [59683-the-baker-of-shireton.json](./59683-the-baker-of-shireton.json) |
 | The Bakerville Case | 217383 | [217383-the-bakerville-case.json](./217383-the-bakerville-case.json) |
 | The Bakery Tales | 328475 | [328475-the-bakery-tales.json](./328475-the-bakery-tales.json) |
@@ -14561,6 +14563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilescapes | 350518 | [350518-tilescapes.json](./350518-tilescapes.json) |
 | Tileshire | 413042 | [413042-tileshire.json](./413042-tileshire.json) |
 | Tilesweeper | 104139 | [104139-tilesweeper.json](./104139-tilesweeper.json) |
+| TileSwitcher | 202028 | [202028-tileswitcher.json](./202028-tileswitcher.json) |
 | TileUp | 363577 | [363577-tileup.json](./363577-tileup.json) |
 | Tiling Towers | 249811 | [249811-tiling-towers.json](./249811-tiling-towers.json) |
 | Till Death Rolls Us Apart | 400544 | [400544-till-death-rolls-us-apart.json](./400544-till-death-rolls-us-apart.json) |
