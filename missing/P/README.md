@@ -9060,6 +9060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Priest With a Gun | 336583 | [336583-priest-with-a-gun.json](./336583-priest-with-a-gun.json) |
 | Priest: An Exorcist Simulator | 109559 | [109559-priest-an-exorcist-simulator.json](./109559-priest-an-exorcist-simulator.json) |
 | Priest's Artifice: Raguna Series 2 | 98437 | [98437-priests-artifice-raguna-series-2.json](./98437-priests-artifice-raguna-series-2.json) |
+| Priklyucheniya Mishek Gammi | 210311 | [210311-priklyucheniya-mishek-gammi.json](./210311-priklyucheniya-mishek-gammi.json) |
 | Prim Rogue | 93803 | [93803-prim-rogue.json](./93803-prim-rogue.json) |
 | Prima: First Rogues | 291233 | [291233-prima-first-rogues.json](./291233-prima-first-rogues.json) |
 | Primage | 292969 | [292969-primage.json](./292969-primage.json) |
