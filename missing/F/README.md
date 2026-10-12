@@ -1393,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Tower | 304617 | [304617-fantasy-tower.json](./304617-fantasy-tower.json) |
 | Fantasy Tower Defense | 251631 | [251631-fantasy-tower-defense.json](./251631-fantasy-tower-defense.json) |
 | Fantasy Trader | 338749 | [338749-fantasy-trader.json](./338749-fantasy-trader.json) |
+| Fantasy Triple Mahjong | 216416 | [216416-fantasy-triple-mahjong.json](./216416-fantasy-triple-mahjong.json) |
 | Fantasy Up | 259286 | [259286-fantasy-up.json](./259286-fantasy-up.json) |
 | Fantasy Valley: Season 1 | 309561 | [309561-fantasy-valley-season-1.json](./309561-fantasy-valley-season-1.json) |
 | Fantasy Village Simulator | 278981 | [278981-fantasy-village-simulator.json](./278981-fantasy-village-simulator.json) |
@@ -5284,6 +5285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower and Animal 3D Encyclopedia | 77006 | [77006-flower-and-animal-3d-encyclopedia.json](./77006-flower-and-animal-3d-encyclopedia.json) |
 | Flower Bears | 307732 | [307732-flower-bears.json](./307732-flower-bears.json) |
 | Flower Boy Athletic High | 203287 | [203287-flower-boy-athletic-high.json](./203287-flower-boy-athletic-high.json) |
+| Flower Cells | 216447 | [216447-flower-cells.json](./216447-flower-cells.json) |
 | Flower Daze | 366428 | [366428-flower-daze.json](./366428-flower-daze.json) |
 | Flower Defence | 56761 | [56761-flower-defence.json](./56761-flower-defence.json) |
 | Flower Design II | 384522 | [384522-flower-design-ii.json](./384522-flower-design-ii.json) |
