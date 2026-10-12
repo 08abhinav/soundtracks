@@ -3171,6 +3171,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kode Zero | 362252 | [362252-kode-zero.json](./362252-kode-zero.json) |
 | Kodoku no Yurikago | 260941 | [260941-kodoku-no-yurikago.json](./260941-kodoku-no-yurikago.json) |
 | Kodomo Chousadan Mighty Pockets | 134461 | [134461-kodomo-chousadan-mighty-pockets.json](./134461-kodomo-chousadan-mighty-pockets.json) |
+| Kodomo Chousadan Mighty Pockets: Chousa 1 - Junk-ya Black no Ie | 179964 | [179964-kodomo-chousadan-mighty-pockets-chousa-1-junk-ya-black-no-ie.json](./179964-kodomo-chousadan-mighty-pockets-chousa-1-junk-ya-black-no-ie.json) |
+| Kodomo Chousadan Mighty Pockets: Chousa 2 - Hanzai Toshi Big Apple | 179965 | [179965-kodomo-chousadan-mighty-pockets-chousa-2-hanzai-toshi-big-apple.json](./179965-kodomo-chousadan-mighty-pockets-chousa-2-hanzai-toshi-big-apple.json) |
+| Kodomo Chousadan Mighty Pockets: Chousa 3 - Kyakusen Queen Patra no Nazo | 179966 | [179966-kodomo-chousadan-mighty-pockets-chousa-3-kyakusen-queen-patra-no-nazo.json](./179966-kodomo-chousadan-mighty-pockets-chousa-3-kyakusen-queen-patra-no-nazo.json) |
 | Kodomo-tachi no Kuni Magic Children | 353375 | [353375-kodomo-tachi-no-kuni-magic-children.json](./353375-kodomo-tachi-no-kuni-magic-children.json) |
 | Koe | 50532 | [50532-koe.json](./50532-koe.json) |
 | Koe wo Tayori ni SP | 83818 | [83818-koe-wo-tayori-ni-sp.json](./83818-koe-wo-tayori-ni-sp.json) |
