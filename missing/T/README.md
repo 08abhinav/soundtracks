@@ -1598,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap to Build | 245337 | [245337-tap-to-build.json](./245337-tap-to-build.json) |
 | Tap to Dive | 233090 | [233090-tap-to-dive.json](./233090-tap-to-dive.json) |
 | Tap To Jump On Time 3D | 254389 | [254389-tap-to-jump-on-time-3d.json](./254389-tap-to-jump-on-time-3d.json) |
+| Tap to Merge | 227164 | [227164-tap-to-merge.json](./227164-tap-to-merge.json) |
 | Tap Track Heroes | 241864 | [241864-tap-track-heroes.json](./241864-tap-track-heroes.json) |
 | Tap Tricks | 176962 | [176962-tap-tricks.json](./176962-tap-tricks.json) |
 | Tap Tycoon | 58195 | [58195-tap-tycoon.json](./58195-tap-tycoon.json) |
@@ -11071,6 +11072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of (Your Name) | 282030 | [282030-the-tale-of-your-name.json](./282030-the-tale-of-your-name.json) |
 | The Tale of a Man named Tom | 57147 | [57147-the-tale-of-a-man-named-tom.json](./57147-the-tale-of-a-man-named-tom.json) |
 | The Tale of Alltynex Deluxe Edition | 368370 | [368370-the-tale-of-alltynex-deluxe-edition.json](./368370-the-tale-of-alltynex-deluxe-edition.json) |
+| The Tale of Bistun: Digital Collector's Edition | 227172 | [227172-the-tale-of-bistun-digital-collectors-edition.json](./227172-the-tale-of-bistun-digital-collectors-edition.json) |
 | The Tale of Despereaux | 51163 | [51163-the-tale-of-despereaux.json](./51163-the-tale-of-despereaux.json) |
 | The Tale of Doris and the Dragon | 79274 | [79274-the-tale-of-doris-and-the-dragon.json](./79274-the-tale-of-doris-and-the-dragon.json) |
 | The Tale of Doris and the Dragon - Episode 1 | 31613 | [31613-the-tale-of-doris-and-the-dragon-episode-1.json](./31613-the-tale-of-doris-and-the-dragon-episode-1.json) |
@@ -17641,6 +17643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tradewinds Odyssey | 59456 | [59456-tradewinds-odyssey.json](./59456-tradewinds-odyssey.json) |
 | Tradie Tapper | 351569 | [351569-tradie-tapper.json](./351569-tradie-tapper.json) |
 | Trading Card Inspector | 360751 | [360751-trading-card-inspector.json](./360751-trading-card-inspector.json) |
+| Trading Legend | 227165 | [227165-trading-legend.json](./227165-trading-legend.json) |
 | Trading Simulator | 274563 | [274563-trading-simulator.json](./274563-trading-simulator.json) |
 | Trading Simulator | 290421 | [290421-trading-simulator.json](./290421-trading-simulator.json) |
 | Trading Towns | 297880 | [297880-trading-towns.json](./297880-trading-towns.json) |
