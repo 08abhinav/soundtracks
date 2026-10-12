@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T09:56:04.260Z",
-  "total_soundtracks": 1506,
+  "generated_at": "2026-10-12T09:56:16.086Z",
+  "total_soundtracks": 1507,
   "games": [
     {
       "igdb_id": 7522,
@@ -13113,6 +13113,20 @@
           "spotify_url": "https://open.spotify.com/album/6BnmcDIk31erAWVclI0sNN",
           "apple_music_url": "https://music.apple.com/us/album/sonic-adventure-original-soundtrack-vol-1/915243307",
           "album_link_url": "https://album.link/i/915243307"
+        }
+      ]
+    },
+    {
+      "igdb_id": 7858,
+      "game_name": "Sonic Adventure 2",
+      "game_url": "https://ostdb.net/games/sonic-adventure-2",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/6d/f0/6a/6df06a57-fd59-9c04-dfc3-1b975d50fc0b/ADV2_Vol1.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Sonic Adventure 2 Original Soundtrack (vol.1)",
+          "spotify_url": "https://open.spotify.com/album/2mnhCObpHcTNkT9PEeYrkn",
+          "apple_music_url": "https://music.apple.com/us/album/sonic-adventure-2-original-soundtrack-vol-1/929920745",
+          "album_link_url": "https://album.link/i/929920745"
         }
       ]
     },
