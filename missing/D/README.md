@@ -2440,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Watch | 347900 | [347900-dead-watch.json](./347900-dead-watch.json) |
 | Dead Weight | 288215 | [288215-dead-weight.json](./288215-dead-weight.json) |
 | Dead Weight | 336123 | [336123-dead-weight.json](./336123-dead-weight.json) |
+| Dead Wife Game | 203102 | [203102-dead-wife-game.json](./203102-dead-wife-game.json) |
 | Dead Witch in Night Sky | 394161 | [394161-dead-witch-in-night-sky.json](./394161-dead-witch-in-night-sky.json) |
 | Dead World Heroes | 221185 | [221185-dead-world-heroes.json](./221185-dead-world-heroes.json) |
 | Dead World: La Argentina Muerta | 237246 | [237246-dead-world-la-argentina-muerta.json](./237246-dead-world-la-argentina-muerta.json) |
