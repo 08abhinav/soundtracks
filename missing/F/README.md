@@ -1591,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm and Click - Idle Hell Clicker | 95862 | [95862-farm-and-click-idle-hell-clicker.json](./95862-farm-and-click-idle-hell-clicker.json) |
 | Farm and Fix Simulator | 244785 | [244785-farm-and-fix-simulator.json](./244785-farm-and-fix-simulator.json) |
 | Farm and Girls | 367046 | [367046-farm-and-girls.json](./367046-farm-and-girls.json) |
+| Farm and Mine | 184858 | [184858-farm-and-mine.json](./184858-farm-and-mine.json) |
 | Farm Animals - Activity Book | 96059 | [96059-farm-animals-activity-book.json](./96059-farm-animals-activity-book.json) |
 | Farm Boy | 92507 | [92507-farm-boy.json](./92507-farm-boy.json) |
 | Farm Builder | 147255 | [147255-farm-builder.json](./147255-farm-builder.json) |
@@ -3610,6 +3611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finder Love: Hoshino Aki - Nangoku Trouble Rendezvous | 196715 | [196715-finder-love-hoshino-aki-nangoku-trouble-rendezvous.json](./196715-finder-love-hoshino-aki-nangoku-trouble-rendezvous.json) |
 | Finder Love: Kudo Risa - First Shoot ha Kimi to | 196717 | [196717-finder-love-kudo-risa-first-shoot-ha-kimi-to.json](./196717-finder-love-kudo-risa-first-shoot-ha-kimi-to.json) |
 | Finders Keepers | 13845 | [13845-finders-keepers.json](./13845-finders-keepers.json) |
+| Finders Keepers | 184821 | [184821-finders-keepers.json](./184821-finders-keepers.json) |
 | Finders Reapers | 124210 | [124210-finders-reapers.json](./124210-finders-reapers.json) |
 | Finders Reapers: Attack & Defend Character Pack | 155505 | [155505-finders-reapers-attack-and-defend-character-pack.json](./155505-finders-reapers-attack-and-defend-character-pack.json) |
 | Finders Reapers: Evil & Nasty Character Pack | 155506 | [155506-finders-reapers-evil-and-nasty-character-pack.json](./155506-finders-reapers-evil-and-nasty-character-pack.json) |
@@ -4596,6 +4598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fix My Car: Classic Muscle | 96833 | [96833-fix-my-car-classic-muscle.json](./96833-fix-my-car-classic-muscle.json) |
 | Fix My Car: Garage Wars - Furious Street Mechanics! | 70406 | [70406-fix-my-car-garage-wars-furious-street-mechanics.json](./70406-fix-my-car-garage-wars-furious-street-mechanics.json) |
 | Fix My Hand Doc | 219789 | [219789-fix-my-hand-doc.json](./219789-fix-my-hand-doc.json) |
+| Fix My Heart | 184835 | [184835-fix-my-heart.json](./184835-fix-my-heart.json) |
 | Fix My Truck: Offroad Pickup | 104670 | [104670-fix-my-truck-offroad-pickup.json](./104670-fix-my-truck-offroad-pickup.json) |
 | Fix Race | 90187 | [90187-fix-race.json](./90187-fix-race.json) |
 | Fix the Lab! | 265929 | [265929-fix-the-lab.json](./265929-fix-the-lab.json) |
@@ -4642,6 +4645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flagman | 76972 | [76972-flagman.json](./76972-flagman.json) |
 | Flags For Friends | 177882 | [177882-flags-for-friends.json](./177882-flags-for-friends.json) |
 | Flagship | 61563 | [61563-flagship.json](./61563-flagship.json) |
+| Flagships | 184876 | [184876-flagships.json](./184876-flagships.json) |
 | Flagsplosion | 38763 | [38763-flagsplosion.json](./38763-flagsplosion.json) |
 | Flail | 402415 | [402415-flail.json](./402415-flail.json) |
 | Flail Faster | 211823 | [211823-flail-faster.json](./211823-flail-faster.json) |
@@ -6097,6 +6101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Zekyll | 368814 | [368814-for-zekyll.json](./368814-for-zekyll.json) |
 | Forays into Norrendrin | 148391 | [148391-forays-into-norrendrin.json](./148391-forays-into-norrendrin.json) |
 | Forbidden | 195953 | [195953-forbidden.json](./195953-forbidden.json) |
+| Forbidden Arms: Bloodlust | 184853 | [184853-forbidden-arms-bloodlust.json](./184853-forbidden-arms-bloodlust.json) |
 | Forbidden Art | 123978 | [123978-forbidden-art.json](./123978-forbidden-art.json) |
 | Forbidden City Journey | 240778 | [240778-forbidden-city-journey.json](./240778-forbidden-city-journey.json) |
 | Forbidden Compass | 404206 | [404206-forbidden-compass.json](./404206-forbidden-compass.json) |
@@ -7898,6 +7903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggerty Arcade 2 | 189185 | [189185-froggerty-arcade-2.json](./189185-froggerty-arcade-2.json) |
 | Froggie Dash | 311686 | [311686-froggie-dash.json](./311686-froggie-dash.json) |
 | Froggie: A Retro Platformer | 211968 | [211968-froggie-a-retro-platformer.json](./211968-froggie-a-retro-platformer.json) |
+| FroggieChat | 184831 | [184831-froggiechat.json](./184831-froggiechat.json) |
 | Froggin' Around | 265777 | [265777-froggin-around.json](./265777-froggin-around.json) |
 | Froggle | 407506 | [407506-froggle.json](./407506-froggle.json) |
 | Froggo | 115678 | [115678-froggo.json](./115678-froggo.json) |
