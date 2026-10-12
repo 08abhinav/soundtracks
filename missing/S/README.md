@@ -7708,6 +7708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketch of a job that you had | 184090 | [184090-sketch-of-a-job-that-you-had.json](./184090-sketch-of-a-job-that-you-had.json) |
 | Sketch Rider | 235246 | [235246-sketch-rider.json](./235246-sketch-rider.json) |
 | Sketch Tales | 13161 | [13161-sketch-tales.json](./13161-sketch-tales.json) |
+| Sketch, Share, Solve | 198164 | [198164-sketch-share-solve.json](./198164-sketch-share-solve.json) |
 | Sketch, Share, Solve: Video Games & Animals | 341154 | [341154-sketch-share-solve-video-games-and-animals.json](./341154-sketch-share-solve-video-games-and-animals.json) |
 | Sketch! Run! | 105886 | [105886-sketch-run.json](./105886-sketch-run.json) |
 | Sketchbook | 359617 | [359617-sketchbook.json](./359617-sketchbook.json) |
@@ -11408,6 +11409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog Classic Heroes | 129159 | [129159-sonic-the-hedgehog-classic-heroes.json](./129159-sonic-the-hedgehog-classic-heroes.json) |
 | Sonic the Hedgehog DVD | 334139 | [334139-sonic-the-hedgehog-dvd.json](./334139-sonic-the-hedgehog-dvd.json) |
 | Sonic the Hedgehog Extreme Boarding | 198563 | [198563-sonic-the-hedgehog-extreme-boarding.json](./198563-sonic-the-hedgehog-extreme-boarding.json) |
+| Sonic the Hedgehog Forever | 198174 | [198174-sonic-the-hedgehog-forever.json](./198174-sonic-the-hedgehog-forever.json) |
 | Sonic The Hedgehog FTS | 324957 | [324957-sonic-the-hedgehog-fts.json](./324957-sonic-the-hedgehog-fts.json) |
 | Sonic the Hedgehog Game Gear/Master System Remake | 332588 | [332588-sonic-the-hedgehog-game-gear-master-system-remake.json](./332588-sonic-the-hedgehog-game-gear-master-system-remake.json) |
 | Sonic the Hedgehog Golf | 197369 | [197369-sonic-the-hedgehog-golf.json](./197369-sonic-the-hedgehog-golf.json) |
@@ -14683,6 +14685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprocket Rocket Rumble | 123028 | [123028-sprocket-rocket-rumble.json](./123028-sprocket-rocket-rumble.json) |
 | Sprocket Rocket: Design and Conquer | 320885 | [320885-sprocket-rocket-design-and-conquer.json](./320885-sprocket-rocket-design-and-conquer.json) |
 | Sproing | 329401 | [329401-sproing.json](./329401-sproing.json) |
+| Sprout | 198150 | [198150-sprout.json](./198150-sprout.json) |
 | Sprout Crafter | 329587 | [329587-sprout-crafter.json](./329587-sprout-crafter.json) |
 | Sprout Lands | 193481 | [193481-sprout-lands.json](./193481-sprout-lands.json) |
 | Sprout of Control | 310125 | [310125-sprout-of-control.json](./310125-sprout-of-control.json) |
@@ -15553,6 +15556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Sky 2 | 18462 | [18462-star-sky-2.json](./18462-star-sky-2.json) |
 | Star Sky 2 | 33512 | [33512-star-sky-2.json](./33512-star-sky-2.json) |
 | Star Sky 3 | 109702 | [109702-star-sky-3.json](./109702-star-sky-3.json) |
+| Star Sled | 198159 | [198159-star-sled.json](./198159-star-sled.json) |
 | Star Soldier | 295667 | [295667-star-soldier.json](./295667-star-soldier.json) |
 | Star Soldier | 48240 | [48240-star-soldier.json](./48240-star-soldier.json) |
 | Star Soldier vs. DoDonPachi Daioujou Caravan'06 | 365107 | [365107-star-soldier-vs-dodonpachi-daioujou-caravan06.json](./365107-star-soldier-vs-dodonpachi-daioujou-caravan06.json) |
@@ -19401,6 +19405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunkenland | 213475 | [213475-sunkenland.json](./213475-sunkenland.json) |
 | Sunkissed | 313831 | [313831-sunkissed.json](./313831-sunkissed.json) |
 | SunKong | 390768 | [390768-sunkong.json](./390768-sunkong.json) |
+| Sunky.Mpeg | 198176 | [198176-sunky-mpeg.json](./198176-sunky-mpeg.json) |
 | Sunland Hike | 264613 | [264613-sunland-hike.json](./264613-sunland-hike.json) |
 | Sunless Empire | 383603 | [383603-sunless-empire.json](./383603-sunless-empire.json) |
 | Sunless Sea | 8925 | [8925-sunless-sea.json](./8925-sunless-sea.json) |
@@ -20742,6 +20747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid: Phazon | 42524 | [42524-super-metroid-phazon.json](./42524-super-metroid-phazon.json) |
 | Super Metroid: Project Base | 198334 | [198334-super-metroid-project-base.json](./198334-super-metroid-project-base.json) |
 | Super Metroid: Redesign | 42521 | [42521-super-metroid-redesign.json](./42521-super-metroid-redesign.json) |
+| Super Metroid: Redesign - Axeil Edition | 198163 | [198163-super-metroid-redesign-axeil-edition.json](./198163-super-metroid-redesign-axeil-edition.json) |
 | Super Metroid: Redux | 188575 | [188575-super-metroid-redux.json](./188575-super-metroid-redux.json) |
 | Super Metroid: Rotation | 199009 | [199009-super-metroid-rotation.json](./199009-super-metroid-rotation.json) |
 | Super Metroid: Rumbled | 377737 | [377737-super-metroid-rumbled.json](./377737-super-metroid-rumbled.json) |
@@ -21736,6 +21742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superstition S2 | 177357 | [177357-superstition-s2.json](./177357-superstition-s2.json) |
 | Superstore | 328482 | [328482-superstore.json](./328482-superstore.json) |
 | SuperSuperMarket! | 302364 | [302364-supersupermarket.json](./302364-supersupermarket.json) |
+| Supertan Marioner 3D Infinity World Adventures | 198180 | [198180-supertan-marioner-3d-infinity-world-adventures.json](./198180-supertan-marioner-3d-infinity-world-adventures.json) |
 | SuperTanks | 149939 | [149939-supertanks.json](./149939-supertanks.json) |
 | SuperTotalCarnage! | 230356 | [230356-supertotalcarnage.json](./230356-supertotalcarnage.json) |
 | SuperTrucks Offroad Racing | 237384 | [237384-supertrucks-offroad-racing.json](./237384-supertrucks-offroad-racing.json) |
