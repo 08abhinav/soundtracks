@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T17:00:14.259Z",
-  "total_soundtracks": 1532,
+  "generated_at": "2026-10-12T17:10:14.639Z",
+  "total_soundtracks": 1533,
   "games": [
     {
       "igdb_id": 7522,
@@ -9583,6 +9583,20 @@
           "spotify_url": "https://open.spotify.com/album/3JgCdYr7asDpQ0Q7HV4JTx",
           "apple_music_url": "https://music.apple.com/us/album/medal-of-honor-pacific-assault-original-soundtrack/1496644722",
           "album_link_url": "https://album.link/i/1496644722"
+        }
+      ]
+    },
+    {
+      "igdb_id": 1316,
+      "game_name": "Medal of Honor: Rising Sun",
+      "game_url": "https://ostdb.net/games/medal-of-honor-rising-sun",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ef02f39abae03b7af8eddd0a",
+      "albums": [
+        {
+          "album_name": "Medal of Honor: Rising Sun (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6sMtKW4mZmYnXecJFWiJ6K",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
