@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T20:54:31.067Z",
-  "total_soundtracks": 1556,
+  "generated_at": "2026-10-12T20:54:48.155Z",
+  "total_soundtracks": 1557,
   "games": [
     {
       "igdb_id": 7522,
@@ -16687,6 +16687,20 @@
           "spotify_url": "https://open.spotify.com/album/3TjU2yKwySPgoS0JhsGckG",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 19241,
+      "game_name": "Unravel Two",
+      "game_url": "https://ostdb.net/games/unravel-two",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/fb/b6/02/fbb60298-14f7-36e7-ac48-3aa7fcf22525/780163539424.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Unravel Two (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0b86d8bwDsAlT8ucnsTkCN",
+          "apple_music_url": "https://music.apple.com/us/album/unravel-two-original-soundtrack/1456001341",
+          "album_link_url": "https://album.link/i/1456001341"
         }
       ]
     },
