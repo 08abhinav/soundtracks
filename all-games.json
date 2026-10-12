@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T20:53:36.380Z",
-  "total_soundtracks": 1553,
+  "generated_at": "2026-10-12T20:53:53.453Z",
+  "total_soundtracks": 1554,
   "games": [
     {
       "igdb_id": 7522,
@@ -16099,6 +16099,20 @@
           "spotify_url": "https://open.spotify.com/album/4XgslC8ZcPPxaiuBLmKoKU",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 2291,
+      "game_name": "Thomas Was Alone",
+      "game_url": "https://ostdb.net/games/thomas-was-alone",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/bf/ff/f9bfffaf-f81e-d43f-75c0-31c8932ac470/859709153322_cover.tif/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Thomas Was Alone Ost",
+          "spotify_url": "https://open.spotify.com/album/0Iw5Z8FWMPL28DC44z2kda",
+          "apple_music_url": "https://music.apple.com/us/album/thomas-was-alone-original-soundtrack/576915445",
+          "album_link_url": "https://album.link/i/576915445"
         }
       ]
     },
