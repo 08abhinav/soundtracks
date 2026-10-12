@@ -17994,6 +17994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StreetSync | 332983 | [332983-streetsync.json](./332983-streetsync.json) |
 | Strength & Honour 2 | 54404 | [54404-strength-and-honour-2.json](./54404-strength-and-honour-2.json) |
 | Strength & Skill: Guiness Book of Records | 283734 | [283734-strength-and-skill-guiness-book-of-records.json](./283734-strength-and-skill-guiness-book-of-records.json) |
+| Strength & Virtue: Lord of Midchester | 225194 | [225194-strength-and-virtue-lord-of-midchester.json](./225194-strength-and-virtue-lord-of-midchester.json) |
 | Strength in Numbers | 348438 | [348438-strength-in-numbers.json](./348438-strength-in-numbers.json) |
 | Strength of the Sword 3 | 52864 | [52864-strength-of-the-sword-3.json](./52864-strength-of-the-sword-3.json) |
 | Stress Attack | 337771 | [337771-stress-attack.json](./337771-stress-attack.json) |
@@ -18295,6 +18296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunts | 11630 | [11630-stunts.json](./11630-stunts.json) |
 | Stunts above Clouds 2 | 296988 | [296988-stunts-above-clouds-2.json](./296988-stunts-above-clouds-2.json) |
 | Stunts Contest Extreme Cars | 216864 | [216864-stunts-contest-extreme-cars.json](./216864-stunts-contest-extreme-cars.json) |
+| Stunts Contest Monster Car | 225196 | [225196-stunts-contest-monster-car.json](./225196-stunts-contest-monster-car.json) |
 | Stunts Contest Police Car | 393016 | [393016-stunts-contest-police-car.json](./393016-stunts-contest-police-car.json) |
 | Stunts Contest: Beach Edition | 215710 | [215710-stunts-contest-beach-edition.json](./215710-stunts-contest-beach-edition.json) |
 | Stunts Contest: Super Bike | 215709 | [215709-stunts-contest-super-bike.json](./215709-stunts-contest-super-bike.json) |
