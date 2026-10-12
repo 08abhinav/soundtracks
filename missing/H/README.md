@@ -7591,6 +7591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Wolf | 189910 | [189910-hungry-wolf.json](./189910-hungry-wolf.json) |
 | HunieCam Studio | 19847 | [19847-huniecam-studio.json](./19847-huniecam-studio.json) |
 | Hunk Empire | 398363 | [398363-hunk-empire.json](./398363-hunk-empire.json) |
+| Hunkenstein | 188967 | [188967-hunkenstein.json](./188967-hunkenstein.json) |
 | Hunker Down | 236735 | [236735-hunker-down.json](./236735-hunker-down.json) |
 | Hunkfrat | 374401 | [374401-hunkfrat.json](./374401-hunkfrat.json) |
 | Hunsvotti | 392167 | [392167-hunsvotti.json](./392167-hunsvotti.json) |
