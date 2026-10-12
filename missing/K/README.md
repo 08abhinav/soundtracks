@@ -1574,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill It With Fire: Exterminator Edition | 208574 | [208574-kill-it-with-fire-exterminator-edition.json](./208574-kill-it-with-fire-exterminator-edition.json) |
 | Kill It With Fire: HeatWave | 137005 | [137005-kill-it-with-fire-heatwave.json](./137005-kill-it-with-fire-heatwave.json) |
 | Kill Kill Kill Kill | 312579 | [312579-kill-kill-kill-kill.json](./312579-kill-kill-kill-kill.json) |
+| Kill King | 189923 | [189923-kill-king.json](./189923-kill-king.json) |
 | Kill la Kill: IF - Limited Box Edition | 167112 | [167112-kill-la-kill-if-limited-box-edition.json](./167112-kill-la-kill-if-limited-box-edition.json) |
 | Kill Loop | 409824 | [409824-kill-loop.json](./409824-kill-loop.json) |
 | Kill Me If You Can | 292293 | [292293-kill-me-if-you-can.json](./292293-kill-me-if-you-can.json) |
