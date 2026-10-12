@@ -551,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Normal Home in Ohio | 256730 | [256730-a-normal-home-in-ohio.json](./256730-a-normal-home-in-ohio.json) |
 | A Normal Survey | 393794 | [393794-a-normal-survey.json](./393794-a-normal-survey.json) |
 | A Once Glorious City | 271725 | [271725-a-once-glorious-city.json](./271725-a-once-glorious-city.json) |
+| A Pact With Me | 209704 | [209704-a-pact-with-me.json](./209704-a-pact-with-me.json) |
 | A Pair of Feathers Squawk Together | 311607 | [311607-a-pair-of-feathers-squawk-together.json](./311607-a-pair-of-feathers-squawk-together.json) |
 | A Paper Mario Puzzle Game | 323741 | [323741-a-paper-mario-puzzle-game.json](./323741-a-paper-mario-puzzle-game.json) |
 | A Paranormal Story | 335399 | [335399-a-paranormal-story.json](./335399-a-paranormal-story.json) |
@@ -1220,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Blue | 71466 | [71466-absolute-blue.json](./71466-absolute-blue.json) |
 | Absolute BrickBuster | 76150 | [76150-absolute-brickbuster.json](./76150-absolute-brickbuster.json) |
 | Absolute Chess | 74418 | [74418-absolute-chess.json](./74418-absolute-chess.json) |
+| Absolute Deduction Bundle | 209687 | [209687-absolute-deduction-bundle.json](./209687-absolute-deduction-bundle.json) |
 | Absolute Doppelkopf | 79215 | [79215-absolute-doppelkopf.json](./79215-absolute-doppelkopf.json) |
 | Absolute Doppelkopf for Windows 11 | 264542 | [264542-absolute-doppelkopf-for-windows-11.json](./264542-absolute-doppelkopf-for-windows-11.json) |
 | Absolute Duo | 92286 | [92286-absolute-duo.json](./92286-absolute-duo.json) |
@@ -2234,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Megara: Demeter's Cat-astrophe | 149549 | [149549-adventures-of-megara-demeters-cat-astrophe.json](./149549-adventures-of-megara-demeters-cat-astrophe.json) |
 | Adventures of Mike | 101344 | [101344-adventures-of-mike.json](./101344-adventures-of-mike.json) |
 | Adventures of Pipi 2: Save Hype | 101639 | [101639-adventures-of-pipi-2-save-hype.json](./101639-adventures-of-pipi-2-save-hype.json) |
+| Adventures of Quin85 | 209629 | [209629-adventures-of-quin85.json](./209629-adventures-of-quin85.json) |
 | Adventures of Robbo | 401869 | [401869-adventures-of-robbo.json](./401869-adventures-of-robbo.json) |
 | Adventures of Robinson Crusoe | 36128 | [36128-adventures-of-robinson-crusoe.json](./36128-adventures-of-robinson-crusoe.json) |
 | Adventures of Ruby Rabbit | 211702 | [211702-adventures-of-ruby-rabbit.json](./211702-adventures-of-ruby-rabbit.json) |
@@ -6935,6 +6938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Any Landing | 174621 | [174621-any-landing.json](./174621-any-landing.json) |
 | Any Other Color | 408133 | [408133-any-other-color.json](./408133-any-other-color.json) |
 | Any World | 192794 | [192794-any-world.json](./192794-any-world.json) |
+| Any.One Online | 209772 | [209772-any-one-online.json](./209772-any-one-online.json) |
 | AnyCircuit | 385289 | [385289-anycircuit.json](./385289-anycircuit.json) |
 | Anykey | 89671 | [89671-anykey.json](./89671-anykey.json) |
 | Anykey Simulator | 31787 | [31787-anykey-simulator.json](./31787-anykey-simulator.json) |
