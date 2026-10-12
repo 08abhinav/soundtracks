@@ -1121,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle World | 392449 | [392449-idle-world.json](./392449-idle-world.json) |
 | Idle Zombie Shelter | 200729 | [200729-idle-zombie-shelter.json](./200729-idle-zombie-shelter.json) |
 | Idle Zoo Park | 260661 | [260661-idle-zoo-park.json](./260661-idle-zoo-park.json) |
+| Idle Zoo Tycoon | 220814 | [220814-idle-zoo-tycoon.json](./220814-idle-zoo-tycoon.json) |
 | Idle: Generators | 252289 | [252289-idle-generators.json](./252289-idle-generators.json) |
 | Idleant | 376104 | [376104-idleant.json](./376104-idleant.json) |
 | IdleCoin | 301497 | [301497-idlecoin.json](./301497-idlecoin.json) |
@@ -3736,6 +3737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Legacy | 400865 | [400865-iron-legacy.json](./400865-iron-legacy.json) |
 | Iron Line | 287785 | [287785-iron-line.json](./287785-iron-line.json) |
 | Iron Lord | 12158 | [12158-iron-lord.json](./12158-iron-lord.json) |
+| Iron Maiden Quiz | 220805 | [220805-iron-maiden-quiz.json](./220805-iron-maiden-quiz.json) |
 | Iron Maiden: Legacy of the Beast | 16473 | [16473-iron-maiden-legacy-of-the-beast.json](./16473-iron-maiden-legacy-of-the-beast.json) |
 | Iron Man | 200688 | [200688-iron-man.json](./200688-iron-man.json) |
 | Iron Man | 248179 | [248179-iron-man.json](./248179-iron-man.json) |
