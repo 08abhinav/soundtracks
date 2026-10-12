@@ -2422,12 +2422,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Felis | 56275 | [56275-felis.json](./56275-felis.json) |
 | Felis: Cat Saving Platformer | 30106 | [30106-felis-cat-saving-platformer.json](./30106-felis-cat-saving-platformer.json) |
 | Felix in the Factory | 13713 | [13713-felix-in-the-factory.json](./13713-felix-in-the-factory.json) |
+| Felix Jigsaw Puzzle | 200372 | [200372-felix-jigsaw-puzzle.json](./200372-felix-jigsaw-puzzle.json) |
 | Felix Jumpman | 29878 | [29878-felix-jumpman.json](./29878-felix-jumpman.json) |
+| Felix the Cat | 200368 | [200368-felix-the-cat.json](./200368-felix-the-cat.json) |
 | Felix the Cat | 240932 | [240932-felix-the-cat.json](./240932-felix-the-cat.json) |
 | Felix the Cat | 282575 | [282575-felix-the-cat.json](./282575-felix-the-cat.json) |
 | Felix the Cat | 8449 | [8449-felix-the-cat.json](./8449-felix-the-cat.json) |
 | Felix the Cat: A Bomba-Relógio | 282585 | [282585-felix-the-cat-a-bomba-relogio.json](./282585-felix-the-cat-a-bomba-relogio.json) |
 | Felix the Cat: Contra os Inimigos | 282586 | [282586-felix-the-cat-contra-os-inimigos.json](./282586-felix-the-cat-contra-os-inimigos.json) |
+| Felix the Cat's Giant Electronic Comic Book | 200374 | [200374-felix-the-cats-giant-electronic-comic-book.json](./200374-felix-the-cats-giant-electronic-comic-book.json) |
 | Felix the Cat's Giant Electronic Comic Book | 240933 | [240933-felix-the-cats-giant-electronic-comic-book.json](./240933-felix-the-cats-giant-electronic-comic-book.json) |
 | Felix the Reaper | 80006 | [80006-felix-the-reaper.json](./80006-felix-the-reaper.json) |
 | Felix the Toy | 144846 | [144846-felix-the-toy.json](./144846-felix-the-toy.json) |
@@ -4202,6 +4205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing at the Lake Full of Cats | 375583 | [375583-fishing-at-the-lake-full-of-cats.json](./375583-fishing-at-the-lake-full-of-cats.json) |
 | Fishing Blast | 299526 | [299526-fishing-blast.json](./299526-fishing-blast.json) |
 | Fishing Cat's Slack-off Diary | 392862 | [392862-fishing-cats-slack-off-diary.json](./392862-fishing-cats-slack-off-diary.json) |
+| Fishing Champion | 200398 | [200398-fishing-champion.json](./200398-fishing-champion.json) |
 | Fishing Clash 2020: Fish Catching Games | 135263 | [135263-fishing-clash-2020-fish-catching-games.json](./135263-fishing-clash-2020-fish-catching-games.json) |
 | Fishing Clash: Catching Fish Game. Bass Hunting 3D | 99389 | [99389-fishing-clash-catching-fish-game-bass-hunting-3d.json](./99389-fishing-clash-catching-fish-game-bass-hunting-3d.json) |
 | Fishing Clicker | 333667 | [333667-fishing-clicker.json](./333667-fishing-clicker.json) |
@@ -5724,6 +5728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Adventures | 395173 | [395173-food-adventures.json](./395173-food-adventures.json) |
 | Food and Girls | 148363 | [148363-food-and-girls.json](./148363-food-and-girls.json) |
 | Food And Hotel Simulator Bundle: Road Cafe & Motel Business & Street Food | 399634 | [399634-food-and-hotel-simulator-bundle-road-cafe-and-motel-business-and-street-food.json](./399634-food-and-hotel-simulator-bundle-road-cafe-and-motel-business-and-street-food.json) |
+| Food Battle: The Game | 200364 | [200364-food-battle-the-game.json](./200364-food-battle-the-game.json) |
 | Food Bomber | 107795 | [107795-food-bomber.json](./107795-food-bomber.json) |
 | Food Cart Simulator | 346174 | [346174-food-cart-simulator.json](./346174-food-cart-simulator.json) |
 | Food Chain | 209464 | [209464-food-chain.json](./209464-food-chain.json) |
@@ -7585,6 +7590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': vs. Kapi - Arcade Showdown | 180206 | [180206-friday-night-funkin-vs-kapi-arcade-showdown.json](./180206-friday-night-funkin-vs-kapi-arcade-showdown.json) |
 | Friday Night Funkin': Vs. Nekomata Okayu | 226421 | [226421-friday-night-funkin-vs-nekomata-okayu.json](./226421-friday-night-funkin-vs-nekomata-okayu.json) |
 | Friday Night Funkin': vs. Reggie the Rat | 198491 | [198491-friday-night-funkin-vs-reggie-the-rat.json](./198491-friday-night-funkin-vs-reggie-the-rat.json) |
+| Friday Night Funkin': Vs. Sonic.Exe | 200373 | [200373-friday-night-funkin-vs-sonic-exe.json](./200373-friday-night-funkin-vs-sonic-exe.json) |
 | Friday Night Funkin': VS. Starlight Glimmer & Trixie | 202416 | [202416-friday-night-funkin-vs-starlight-glimmer-and-trixie.json](./202416-friday-night-funkin-vs-starlight-glimmer-and-trixie.json) |
 | Friday Night Funkin': vs. Zardy | 329149 | [329149-friday-night-funkin-vs-zardy.json](./329149-friday-night-funkin-vs-zardy.json) |
 | Friday Night Funkin': vs.Tails Doll | 275262 | [275262-friday-night-funkin-vs-tails-doll.json](./275262-friday-night-funkin-vs-tails-doll.json) |
@@ -8447,6 +8453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Fruit Merge | 305388 | [305388-fun-fruit-merge.json](./305388-fun-fruit-merge.json) |
 | Fun Gus | 310159 | [310159-fun-gus.json](./310159-fun-gus.json) |
 | Fun Home | 374298 | [374298-fun-home.json](./374298-fun-home.json) |
+| Fun House | 200396 | [200396-fun-house.json](./200396-fun-house.json) |
 | Fun Infused Arcade | 260178 | [260178-fun-infused-arcade.json](./260178-fun-infused-arcade.json) |
 | Fun Kid Racing Magic Forest | 175720 | [175720-fun-kid-racing-magic-forest.json](./175720-fun-kid-racing-magic-forest.json) |
 | Fun Match | 328658 | [328658-fun-match.json](./328658-fun-match.json) |
