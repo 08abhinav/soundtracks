@@ -2834,6 +2834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battles of the Ancient World III | 197344 | [197344-battles-of-the-ancient-world-iii.json](./197344-battles-of-the-ancient-world-iii.json) |
 | Battlescar: Punk Was Invented By Girls | 171452 | [171452-battlescar-punk-was-invented-by-girls.json](./171452-battlescar-punk-was-invented-by-girls.json) |
 | Battleship | 154988 | [154988-battleship.json](./154988-battleship.json) |
+| Battleship | 220787 | [220787-battleship.json](./220787-battleship.json) |
 | Battleship | 22445 | [22445-battleship.json](./22445-battleship.json) |
 | Battleship | 267406 | [267406-battleship.json](./267406-battleship.json) |
 | Battleship | 282239 | [282239-battleship.json](./282239-battleship.json) |
@@ -4064,6 +4065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bengbo | 257104 | [257104-bengbo.json](./257104-bengbo.json) |
 | Benighted | 226251 | [226251-benighted.json](./226251-benighted.json) |
 | Benign Land | 329137 | [329137-benign-land.json](./329137-benign-land.json) |
+| Benjamin Blümchen: Das Große Zoofest | 220789 | [220789-benjamin-blumchen-das-gro-e-zoofest.json](./220789-benjamin-blumchen-das-gro-e-zoofest.json) |
 | Benjamin's Quest | 291161 | [291161-benjamins-quest.json](./291161-benjamins-quest.json) |
 | Benjamin's Revenge | 291157 | [291157-benjamins-revenge.json](./291157-benjamins-revenge.json) |
 | Benji and the Crystal of Light | 324325 | [324325-benji-and-the-crystal-of-light.json](./324325-benji-and-the-crystal-of-light.json) |
@@ -4551,6 +4553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BicycleSim | 211100 | [211100-bicyclesim.json](./211100-bicyclesim.json) |
 | Bicyclism EP | 31950 | [31950-bicyclism-ep.json](./31950-bicyclism-ep.json) |
 | Bid King | 390605 | [390605-bid-king.json](./390605-bid-king.json) |
+| Bid Whist: Card Game | 220817 | [220817-bid-whist-card-game.json](./220817-bid-whist-card-game.json) |
 | Bienvenue à la cosy académie | 129135 | [129135-bienvenue-a-la-cosy-academie.json](./129135-bienvenue-a-la-cosy-academie.json) |
 | Bierwagen Rush | 130121 | [130121-bierwagen-rush.json](./130121-bierwagen-rush.json) |
 | Bifrost | 262983 | [262983-bifrost.json](./262983-bifrost.json) |
@@ -9730,6 +9733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricks | 292111 | [292111-bricks.json](./292111-bricks.json) |
 | Bricks '2000 | 375585 | [375585-bricks-2000.json](./375585-bricks-2000.json) |
 | Bricks Breaker Challenge | 234561 | [234561-bricks-breaker-challenge.json](./234561-bricks-breaker-challenge.json) |
+| Bricks Breaker Puzzle Classic | 220807 | [220807-bricks-breaker-puzzle-classic.json](./220807-bricks-breaker-puzzle-classic.json) |
 | Bricks Breaker Quest | 105516 | [105516-bricks-breaker-quest.json](./105516-bricks-breaker-quest.json) |
 | Bricks Breaker Shot | 96821 | [96821-bricks-breaker-shot.json](./96821-bricks-breaker-shot.json) |
 | Bricks Breaker: Manga Girls | 205575 | [205575-bricks-breaker-manga-girls.json](./205575-bricks-breaker-manga-girls.json) |
@@ -10315,6 +10319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Mix 3 in 1 Plus | 90685 | [90685-bubble-mix-3-in-1-plus.json](./90685-bubble-mix-3-in-1-plus.json) |
 | Bubble People | 173265 | [173265-bubble-people.json](./173265-bubble-people.json) |
 | Bubble Piles | 241615 | [241615-bubble-piles.json](./241615-bubble-piles.json) |
+| Bubble Pirate Shooter | 220812 | [220812-bubble-pirate-shooter.json](./220812-bubble-pirate-shooter.json) |
 | Bubble Pirates | 120256 | [120256-bubble-pirates.json](./120256-bubble-pirates.json) |
 | Bubble Pop Letters & Shapes | 213396 | [213396-bubble-pop-letters-and-shapes.json](./213396-bubble-pop-letters-and-shapes.json) |
 | Bubble Pop Math Challenge Gr. 1-2 Premium | 87255 | [87255-bubble-pop-math-challenge-gr-1-2-premium.json](./87255-bubble-pop-math-challenge-gr-1-2-premium.json) |
@@ -10862,6 +10867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumper | 31845 | [31845-bumper.json](./31845-bumper.json) |
 | Bumper 7 | 319574 | [319574-bumper-7.json](./319574-bumper-7.json) |
 | Bumper Ball Bash | 276229 | [276229-bumper-ball-bash.json](./276229-bumper-ball-bash.json) |
+| Bumper Ball Io | 220811 | [220811-bumper-ball-io.json](./220811-bumper-ball-io.json) |
 | Bumper Boat Kids Tilt | 197705 | [197705-bumper-boat-kids-tilt.json](./197705-bumper-boat-kids-tilt.json) |
 | Bumper Boss | 134975 | [134975-bumper-boss.json](./134975-bumper-boss.json) |
 | Bumper Bout | 408105 | [408105-bumper-bout.json](./408105-bumper-bout.json) |
