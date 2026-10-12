@@ -592,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall | 34073 | [34073-fall.json](./34073-fall.json) |
 | Fall | 364999 | [364999-fall.json](./364999-fall.json) |
 | Fall | 380756 | [380756-fall.json](./380756-fall.json) |
+| Fall Apartment | 183825 | [183825-fall-apartment.json](./183825-fall-apartment.json) |
 | Fall Asleep | 331465 | [331465-fall-asleep.json](./331465-fall-asleep.json) |
 | Fall Asleep | 381010 | [381010-fall-asleep.json](./381010-fall-asleep.json) |
 | Fall Balance Ball | 144212 | [144212-fall-balance-ball.json](./144212-fall-balance-ball.json) |
@@ -1569,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faria: Ghosts of the Stream | 32149 | [32149-faria-ghosts-of-the-stream.json](./32149-faria-ghosts-of-the-stream.json) |
 | Faria: Starfall | 59249 | [59249-faria-starfall.json](./59249-faria-starfall.json) |
 | Farjius no Jakoutei: Neo Metal Fantasy | 69862 | [69862-farjius-no-jakoutei-neo-metal-fantasy.json](./69862-farjius-no-jakoutei-neo-metal-fantasy.json) |
+| FarKae City | 183835 | [183835-farkae-city.json](./183835-farkae-city.json) |
 | Farkas: the Last Redhaft | 301088 | [301088-farkas-the-last-redhaft.json](./301088-farkas-the-last-redhaft.json) |
 | Farkle King | 243745 | [243745-farkle-king.json](./243745-farkle-king.json) |
 | Farkle with Friends | 338774 | [338774-farkle-with-friends.json](./338774-farkle-with-friends.json) |
@@ -4224,6 +4226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisher's Qualm | 218664 | [218664-fishers-qualm.json](./218664-fishers-qualm.json) |
 | Fisherman | 326247 | [326247-fisherman.json](./326247-fisherman.json) |
 | Fisherman Simulator | 318694 | [318694-fisherman-simulator.json](./318694-fisherman-simulator.json) |
+| Fisherman: Idle Fishing Clicker | 183814 | [183814-fisherman-idle-fishing-clicker.json](./183814-fisherman-idle-fishing-clicker.json) |
 | Fisherman’s Bait: Marlin Challenge | 270623 | [270623-fisherman-s-bait-marlin-challenge.json](./270623-fisherman-s-bait-marlin-challenge.json) |
 | Fisherman's Bass Club | 43427 | [43427-fishermans-bass-club.json](./43427-fishermans-bass-club.json) |
 | Fisherman's House | 172749 | [172749-fishermans-house.json](./172749-fishermans-house.json) |
@@ -5324,6 +5327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Florist Business Simulator | 311215 | [311215-florist-business-simulator.json](./311215-florist-business-simulator.json) |
 | Florist Shop | 44070 | [44070-florist-shop.json](./44070-florist-shop.json) |
 | Floristry | 68956 | [68956-floristry.json](./68956-floristry.json) |
+| Florus | 183802 | [183802-florus.json](./183802-florus.json) |
 | Flotilla 2 | 99064 | [99064-flotilla-2.json](./99064-flotilla-2.json) |
 | Flotsam | 74527 | [74527-flotsam.json](./74527-flotsam.json) |
 | Flotsam and Jetsam Potion Commotion | 246522 | [246522-flotsam-and-jetsam-potion-commotion.json](./246522-flotsam-and-jetsam-potion-commotion.json) |
@@ -8372,6 +8376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fugitive 3D | 152758 | [152758-fugitive-3d.json](./152758-fugitive-3d.json) |
 | Fugitive Flight | 395835 | [395835-fugitive-flight.json](./395835-fugitive-flight.json) |
 | Fugitive Hunter | 24101 | [24101-fugitive-hunter.json](./24101-fugitive-hunter.json) |
+| Fugitive Shift | 183836 | [183836-fugitive-shift.json](./183836-fugitive-shift.json) |
 | Fugitive Tense: A Game About TIme | 382468 | [382468-fugitive-tense-a-game-about-time.json](./382468-fugitive-tense-a-game-about-time.json) |
 | Fugu | 314377 | [314377-fugu.json](./314377-fugu.json) |
 | Fugu Maze | 104703 | [104703-fugu-maze.json](./104703-fugu-maze.json) |
