@@ -2305,6 +2305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexa Tech Laboratory | 273636 | [273636-nexa-tech-laboratory.json](./273636-nexa-tech-laboratory.json) |
 | Nexo | 368376 | [368376-nexo.json](./368376-nexo.json) |
 | Nexomon | 88130 | [88130-nexomon.json](./88130-nexomon.json) |
+| Nexomon + Nexomon Extinction: Complete Collection | 203097 | [203097-nexomon-nexomon-extinction-complete-collection.json](./203097-nexomon-nexomon-extinction-complete-collection.json) |
 | Nexonauts | 336563 | [336563-nexonauts.json](./336563-nexonauts.json) |
 | Next 2 | 81627 | [81627-next-2.json](./81627-next-2.json) |
 | Next 4 | 102440 | [102440-next-4.json](./102440-next-4.json) |
@@ -3524,6 +3525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Mini Classics: Star Trek - The Next Generation | 206386 | [206386-nintendo-mini-classics-star-trek-the-next-generation.json](./206386-nintendo-mini-classics-star-trek-the-next-generation.json) |
 | Nintendo Mini Classics: Sudoku | 206388 | [206388-nintendo-mini-classics-sudoku.json](./206388-nintendo-mini-classics-sudoku.json) |
 | Nintendo Mini Classics: Super Mario Bros. | 206368 | [206368-nintendo-mini-classics-super-mario-bros.json](./206368-nintendo-mini-classics-super-mario-bros.json) |
+| Nintendo Mini Classics: Tetris | 203115 | [203115-nintendo-mini-classics-tetris.json](./203115-nintendo-mini-classics-tetris.json) |
 | Nintendo Mini Classics: The Smurfs | 206378 | [206378-nintendo-mini-classics-the-smurfs.json](./206378-nintendo-mini-classics-the-smurfs.json) |
 | Nintendo Mini Classics: UEFA Euro 2008 | 206389 | [206389-nintendo-mini-classics-uefa-euro-2008.json](./206389-nintendo-mini-classics-uefa-euro-2008.json) |
 | Nintendo Mini Classics: Zelda | 206370 | [206370-nintendo-mini-classics-zelda.json](./206370-nintendo-mini-classics-zelda.json) |
