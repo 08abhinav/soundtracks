@@ -1818,6 +1818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 69 Ember Hot | 222961 | [222961-69-ember-hot.json](./222961-69-ember-hot.json) |
 | 69 Hitomi Love | 173837 | [173837-69-hitomi-love.json](./173837-69-hitomi-love.json) |
 | 69 Love | 337782 | [337782-69-love.json](./337782-69-love.json) |
+| 69 Mary Love | 192630 | [192630-69-mary-love.json](./192630-69-mary-love.json) |
 | 69 Mizuki Love | 196121 | [196121-69-mizuki-love.json](./196121-69-mizuki-love.json) |
 | 69 Moriko Love | 192686 | [192686-69-moriko-love.json](./192686-69-moriko-love.json) |
 | 69 Naomi Hot | 223068 | [223068-69-naomi-hot.json](./223068-69-naomi-hot.json) |
