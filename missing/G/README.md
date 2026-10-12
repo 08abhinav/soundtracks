@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuen Utopia Manabi Straight! Kira-kira Happy Festa! | 61449 | [61449-gakuen-utopia-manabi-straight-kira-kira-happy-festa.json](./61449-gakuen-utopia-manabi-straight-kira-kira-happy-festa.json) |
 | Gakuin Makyo: High School Crisis | 322577 | [322577-gakuin-makyo-high-school-crisis.json](./322577-gakuin-makyo-high-school-crisis.json) |
 | Gakusen Toshi Asteriks Festa: Kirameki no Stella | 175688 | [175688-gakusen-toshi-asteriks-festa-kirameki-no-stella.json](./175688-gakusen-toshi-asteriks-festa-kirameki-no-stella.json) |
+| Gakuyuu Unmei Kyoudoutai | 222444 | [222444-gakuyuu-unmei-kyoudoutai.json](./222444-gakuyuu-unmei-kyoudoutai.json) |
 | Gal Guardians: Demon Purge | 212571 | [212571-gal-guardians-demon-purge.json](./212571-gal-guardians-demon-purge.json) |
 | Gal Gunvolt Burst | 92038 | [92038-gal-gunvolt-burst.json](./92038-gal-gunvolt-burst.json) |
 | Gal Metal: Encore Pack | 314025 | [314025-gal-metal-encore-pack.json](./314025-gal-metal-encore-pack.json) |
