@@ -8126,6 +8126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n Tanks | 43801 | [43801-popn-tanks.json](./43801-popn-tanks.json) |
 | Pop'n Tanks | 43802 | [43802-popn-tanks.json](./43802-popn-tanks.json) |
 | Pop'n Twinbee: Rainbow Bell Adventures | 42473 | [42473-popn-twinbee-rainbow-bell-adventures.json](./42473-popn-twinbee-rainbow-bell-adventures.json) |
+| Pop's | 190425 | [190425-pops.json](./190425-pops.json) |
 | Pop's Pipes / Slurp | 206462 | [206462-pops-pipes-slurp.json](./206462-pops-pipes-slurp.json) |
 | Pop's Pop's | 254593 | [254593-pops-pops.json](./254593-pops-pops.json) |
 | Pop4 | 134028 | [134028-pop4.json](./134028-pop4.json) |
@@ -8389,6 +8390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Possession | 90649 | [90649-possession.json](./90649-possession.json) |
 | Possession 1881 | 150750 | [150750-possession-1881.json](./150750-possession-1881.json) |
 | Possession Game | 354523 | [354523-possession-game.json](./354523-possession-game.json) |
+| Possession Obsession | 190419 | [190419-possession-obsession.json](./190419-possession-obsession.json) |
 | Possessioner | 213296 | [213296-possessioner.json](./213296-possessioner.json) |
 | Posshexor | 323810 | [323810-posshexor.json](./323810-posshexor.json) |
 | Possibility Space | 285152 | [285152-possibility-space.json](./285152-possibility-space.json) |
