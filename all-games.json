@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T10:05:25.612Z",
-  "total_soundtracks": 1510,
+  "generated_at": "2026-10-12T10:05:37.710Z",
+  "total_soundtracks": 1511,
   "games": [
     {
       "igdb_id": 7522,
@@ -8128,6 +8128,20 @@
           "album_name": "It Takes Two (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1RVUhqrZ6vEkghRDhe76qV",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 8978,
+      "game_name": "Jetpack Joyride",
+      "game_url": "https://ostdb.net/games/jetpack-joyride",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273853d9d9db6ac202a4af5fc50",
+      "albums": [
+        {
+          "album_name": "Jetpack Joyride (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6JK9GjsXGG2oJm5ZHWLwjq",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
