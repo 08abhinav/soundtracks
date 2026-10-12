@@ -2474,6 +2474,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeadCore Redux | 345547 | [345547-deadcore-redux.json](./345547-deadcore-redux.json) |
 | Deadcraft: Deluxe Edition | 199896 | [199896-deadcraft-deluxe-edition.json](./199896-deadcraft-deluxe-edition.json) |
 | Deadcraft: Digital Deluxe Edition | 221250 | [221250-deadcraft-digital-deluxe-edition.json](./221250-deadcraft-digital-deluxe-edition.json) |
+| Deadcraft: It Came From the Junkyard | 199859 | [199859-deadcraft-it-came-from-the-junkyard.json](./199859-deadcraft-it-came-from-the-junkyard.json) |
+| Deadcraft: Jessie's Wasteland Wares | 199860 | [199860-deadcraft-jessies-wasteland-wares.json](./199860-deadcraft-jessies-wasteland-wares.json) |
 | Deaded | 238738 | [238738-deaded.json](./238738-deaded.json) |
 | Deadenders | 250230 | [250230-deadenders.json](./250230-deadenders.json) |
 | Deadeus | 122405 | [122405-deadeus.json](./122405-deadeus.json) |
