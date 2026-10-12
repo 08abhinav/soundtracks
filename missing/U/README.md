@@ -1149,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercover | 321997 | [321997-undercover.json](./321997-undercover.json) |
 | Undercover | 403189 | [403189-undercover.json](./403189-undercover.json) |
 | Undercover AD2025 Kei | 86084 | [86084-undercover-ad2025-kei.json](./86084-undercover-ad2025-kei.json) |
+| Undercover Cops: Collector's Edition | 195986 | [195986-undercover-cops-collectors-edition.json](./195986-undercover-cops-collectors-edition.json) |
 | Undercover Girlfriend | 206005 | [206005-undercover-girlfriend.json](./206005-undercover-girlfriend.json) |
 | Undercover: Blood Bonds | 225303 | [225303-undercover-blood-bonds.json](./225303-undercover-blood-bonds.json) |
 | Undercover: Dual Motives | 66379 | [66379-undercover-dual-motives.json](./66379-undercover-dual-motives.json) |
@@ -2022,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unwanted visitors | 154090 | [154090-unwanted-visitors.json](./154090-unwanted-visitors.json) |
 | Unwashed | 244294 | [244294-unwashed.json](./244294-unwashed.json) |
 | Unwavering Love | 405465 | [405465-unwavering-love.json](./405465-unwavering-love.json) |
+| Unwelcome | 195951 | [195951-unwelcome.json](./195951-unwelcome.json) |
 | Unwelcome | 262285 | [262285-unwelcome.json](./262285-unwelcome.json) |
 | Unwelcome Guest | 337453 | [337453-unwelcome-guest.json](./337453-unwelcome-guest.json) |
 | Unwell Known | 152829 | [152829-unwell-known.json](./152829-unwell-known.json) |
