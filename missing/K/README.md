@@ -1961,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Kings | 231927 | [231927-king-of-kings.json](./231927-king-of-kings.json) |
 | King of Kinks | 195121 | [195121-king-of-kinks.json](./195121-king-of-kinks.json) |
 | King of Kung Fu | 285918 | [285918-king-of-kung-fu.json](./285918-king-of-kung-fu.json) |
+| King of Land Grabbers 3D | 212510 | [212510-king-of-land-grabbers-3d.json](./212510-king-of-land-grabbers-3d.json) |
 | King of Light | 237463 | [237463-king-of-light.json](./237463-king-of-light.json) |
 | King of Meat | 314255 | [314255-king-of-meat.json](./314255-king-of-meat.json) |
 | King of Mobius | 228597 | [228597-king-of-mobius.json](./228597-king-of-mobius.json) |
@@ -3165,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi No Hotrock | 40230 | [40230-koi-no-hotrock.json](./40230-koi-no-hotrock.json) |
 | Koi no Tsuzuki wa Honeymoon de | 238412 | [238412-koi-no-tsuzuki-wa-honeymoon-de.json](./238412-koi-no-tsuzuki-wa-honeymoon-de.json) |
 | Koi Puncher MMXVIII | 184972 | [184972-koi-puncher-mmxviii.json](./184972-koi-puncher-mmxviii.json) |
+| Koi Remake | 212444 | [212444-koi-remake.json](./212444-koi-remake.json) |
 | Koi Shiyo? | 194535 | [194535-koi-shiyo.json](./194535-koi-shiyo.json) |
 | Koi Solitaire | 108415 | [108415-koi-solitaire.json](./108415-koi-solitaire.json) |
 | Koi suru Kanojo no Bukiyou na Butai | 238100 | [238100-koi-suru-kanojo-no-bukiyou-na-butai.json](./238100-koi-suru-kanojo-no-bukiyou-na-butai.json) |
