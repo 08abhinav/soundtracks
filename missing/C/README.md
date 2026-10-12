@@ -5226,6 +5226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles Of Crystal: Turn-Basde Epoch | 297367 | [297367-chronicles-of-crystal-turn-basde-epoch.json](./297367-chronicles-of-crystal-turn-basde-epoch.json) |
 | Chronicles of cyberpunk | 75931 | [75931-chronicles-of-cyberpunk.json](./75931-chronicles-of-cyberpunk.json) |
 | Chronicles of Cyberpunk: Deep Sleep | 155499 | [155499-chronicles-of-cyberpunk-deep-sleep.json](./155499-chronicles-of-cyberpunk-deep-sleep.json) |
+| Chronicles of Deeps | 188881 | [188881-chronicles-of-deeps.json](./188881-chronicles-of-deeps.json) |
 | Chronicles of Elyria | 58484 | [58484-chronicles-of-elyria.json](./58484-chronicles-of-elyria.json) |
 | Chronicles Of Errodean | 247740 | [247740-chronicles-of-errodean.json](./247740-chronicles-of-errodean.json) |
 | Chronicles of Fear: The Babysitter's Tale | 303734 | [303734-chronicles-of-fear-the-babysitters-tale.json](./303734-chronicles-of-fear-the-babysitters-tale.json) |
@@ -10081,6 +10082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cradle of Nightmare : Flowers to you | 339333 | [339333-cradle-of-nightmare-flowers-to-you.json](./339333-cradle-of-nightmare-flowers-to-you.json) |
 | Cradle of Nightmares: Chapter 1 | 323502 | [323502-cradle-of-nightmares-chapter-1.json](./323502-cradle-of-nightmares-chapter-1.json) |
 | Cradle of Rome 2 HD | 102101 | [102101-cradle-of-rome-2-hd.json](./102101-cradle-of-rome-2-hd.json) |
+| Cradle of Souls | 188886 | [188886-cradle-of-souls.json](./188886-cradle-of-souls.json) |
 | Cradle of the Dark Brood | 408203 | [408203-cradle-of-the-dark-brood.json](./408203-cradle-of-the-dark-brood.json) |
 | Cradle Song | 65248 | [65248-cradle-song.json](./65248-cradle-song.json) |
 | Cradlemoor | 197058 | [197058-cradlemoor.json](./197058-cradlemoor.json) |
