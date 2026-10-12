@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Princess | 339996 | [339996-magical-princess.json](./339996-magical-princess.json) |
 | Magical Prisma | 130404 | [130404-magical-prisma.json](./130404-magical-prisma.json) |
 | Magical Psalter II: Féngmó zhī Tú | 394500 | [394500-magical-psalter-ii-fengmo-zhi-tu.json](./394500-magical-psalter-ii-fengmo-zhi-tu.json) |
+| Magical Queen's Land | 207599 | [207599-magical-queens-land.json](./207599-magical-queens-land.json) |
 | Magical Runes | 368600 | [368600-magical-runes.json](./368600-magical-runes.json) |
 | Magical School Girls Battle Arena | 316643 | [316643-magical-school-girls-battle-arena.json](./316643-magical-school-girls-battle-arena.json) |
 | Magical Sound Car | 159359 | [159359-magical-sound-car.json](./159359-magical-sound-car.json) |
@@ -4359,6 +4360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanic 8230 | 151107 | [151107-mechanic-8230.json](./151107-mechanic-8230.json) |
 | Mechanic 8230: Deluxe Edition | 252700 | [252700-mechanic-8230-deluxe-edition.json](./252700-mechanic-8230-deluxe-edition.json) |
 | Mechanic 8230: Escape From Ilgrot - Extended Edition | 259544 | [259544-mechanic-8230-escape-from-ilgrot-extended-edition.json](./259544-mechanic-8230-escape-from-ilgrot-extended-edition.json) |
+| Mechanic Heroes | 207565 | [207565-mechanic-heroes.json](./207565-mechanic-heroes.json) |
 | Mechanic Infantry | 61986 | [61986-mechanic-infantry.json](./61986-mechanic-infantry.json) |
 | Mechanic Legends | 314472 | [314472-mechanic-legends.json](./314472-mechanic-legends.json) |
 | Mechanic Master | 23822 | [23822-mechanic-master.json](./23822-mechanic-master.json) |
@@ -11209,6 +11211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother Island | 176831 | [176831-mother-island.json](./176831-mother-island.json) |
 | Mother Machine | 315742 | [315742-mother-machine.json](./315742-mother-machine.json) |
 | Mother May I | 291455 | [291455-mother-may-i.json](./291455-mother-may-i.json) |
+| Mother Nature: Balance Broken | 207583 | [207583-mother-nature-balance-broken.json](./207583-mother-nature-balance-broken.json) |
 | Mother of All Battles | 102823 | [102823-mother-of-all-battles.json](./102823-mother-of-all-battles.json) |
 | Mother of All Battles! | 338001 | [338001-mother-of-all-battles.json](./338001-mother-of-all-battles.json) |
 | Mother of Many | 194403 | [194403-mother-of-many.json](./194403-mother-of-many.json) |
