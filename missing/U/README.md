@@ -852,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unavailed | 268940 | [268940-unavailed.json](./268940-unavailed.json) |
 | Unavowed | 27867 | [27867-unavowed.json](./27867-unavowed.json) |
 | Unawake | 173247 | [173247-unawake.json](./173247-unawake.json) |
+| Unaware | 197104 | [197104-unaware.json](./197104-unaware.json) |
 | UNB | 335890 | [335890-unb.json](./335890-unb.json) |
 | Unbaitable | 417442 | [417442-unbaitable.json](./417442-unbaitable.json) |
 | Unbeatable | 144859 | [144859-unbeatable.json](./144859-unbeatable.json) |
