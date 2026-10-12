@@ -999,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A(s)century | 135625 | [135625-a-s-century.json](./135625-a-s-century.json) |
 | A/X-101 | 5360 | [5360-a-x-101.json](./5360-a-x-101.json) |
 | A&E Crime Scene: AR | 95872 | [95872-a-and-e-crime-scene-ar.json](./95872-a-and-e-crime-scene-ar.json) |
+| A=B | 182188 | [182188-a-b.json](./182188-a-b.json) |
 | A100 | 200380 | [200380-a100.json](./200380-a100.json) |
 | A2 Racer III: Europa Tour | 44841 | [44841-a2-racer-iii-europa-tour.json](./44841-a2-racer-iii-europa-tour.json) |
 | A2Be: A Science Fiction Narrative | 87810 | [87810-a2be-a-science-fiction-narrative.json](./87810-a2be-a-science-fiction-narrative.json) |
@@ -5596,6 +5597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Ode to Todd the Toad: Frogcare! | 185628 | [185628-an-ode-to-todd-the-toad-frogcare.json](./185628-an-ode-to-todd-the-toad-frogcare.json) |
 | An Ordinary Sonic ROM Hack | 129178 | [129178-an-ordinary-sonic-rom-hack.json](./129178-an-ordinary-sonic-rom-hack.json) |
 | An Otaku like me has 2 Fiancees?! | 208271 | [208271-an-otaku-like-me-has-2-fiancees.json](./208271-an-otaku-like-me-has-2-fiancees.json) |
+| An Outcry | 182180 | [182180-an-outcry.json](./182180-an-outcry.json) |
 | An Outcry, Prelude | 198319 | [198319-an-outcry-prelude.json](./198319-an-outcry-prelude.json) |
 | An Un-epic story: The adventure of Enki and Tiny Freddie | 174093 | [174093-an-un-epic-story-the-adventure-of-enki-and-tiny-freddie.json](./174093-an-un-epic-story-the-adventure-of-enki-and-tiny-freddie.json) |
 | An unfolding Adventure | 184795 | [184795-an-unfolding-adventure.json](./184795-an-unfolding-adventure.json) |
@@ -5824,6 +5826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anderson | 102378 | [102378-anderson.json](./102378-anderson.json) |
 | Anderson | 171444 | [171444-anderson.json](./171444-anderson.json) |
 | Andi-Land | 84203 | [84203-andi-land.json](./84203-andi-land.json) |
+| Andi's Moving Company | 182139 | [182139-andis-moving-company.json](./182139-andis-moving-company.json) |
 | Andor's Trail | 207864 | [207864-andors-trail.json](./207864-andors-trail.json) |
 | Andou: Pulse of Cup | 369572 | [369572-andou-pulse-of-cup.json](./369572-andou-pulse-of-cup.json) |
 | Andre Agassi Tennis | 369245 | [369245-andre-agassi-tennis.json](./369245-andre-agassi-tennis.json) |
@@ -9425,6 +9428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asistent detektiva Zbyška | 391284 | [391284-asistent-detektiva-zbyska.json](./391284-asistent-detektiva-zbyska.json) |
 | Ask Angela | 65019 | [65019-ask-angela.json](./65019-ask-angela.json) |
 | Ask Gear Re:Boost | 325447 | [325447-ask-gear-re-boost.json](./325447-ask-gear-re-boost.json) |
+| Ask Her | 182154 | [182154-ask-her.json](./182154-ask-her.json) |
 | Ask her out | 287096 | [287096-ask-her-out.json](./287096-ask-her-out.json) |
 | Ask Her Out | 181881 | [181881-ask-her-out.json](./181881-ask-her-out.json) |
 | Ask Madame Clairvoya | 231628 | [231628-ask-madame-clairvoya.json](./231628-ask-madame-clairvoya.json) |
@@ -10084,6 +10088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrokill | 35064 | [35064-astrokill.json](./35064-astrokill.json) |
 | Astrokings | 109915 | [109915-astrokings.json](./109915-astrokings.json) |
 | Astrolancer | 294943 | [294943-astrolancer.json](./294943-astrolancer.json) |
+| Astrolight | 182144 | [182144-astrolight.json](./182144-astrolight.json) |
 | Astroloco: Worst Contact | 9987 | [9987-astroloco-worst-contact.json](./9987-astroloco-worst-contact.json) |
 | Astrologer | 130963 | [130963-astrologer.json](./130963-astrologer.json) |
 | Astrology DS: The Stars in Your Hands | 315632 | [315632-astrology-ds-the-stars-in-your-hands.json](./315632-astrology-ds-the-stars-in-your-hands.json) |
