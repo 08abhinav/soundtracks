@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 For 2 | 88545 | [88545-2-for-2.json](./88545-2-for-2.json) |
 | 2 Foxes and the Puzzling Forest | 185095 | [185095-2-foxes-and-the-puzzling-forest.json](./185095-2-foxes-and-the-puzzling-forest.json) |
 | 2 Game Pack I Haunted Hotel: Eclipse & Haunted Hotel: Ancient Bane | 201816 | [201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json](./201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json) |
+| 2 Games I MediEvil & C-12: Final Resistance | 214662 | [214662-2-games-i-medievil-and-c-12-final-resistance.json](./214662-2-games-i-medievil-and-c-12-final-resistance.json) |
 | 2 Games In 1 Double Pack I Hot Wheels: World Race + Hot Wheels: Velocity X | 82101 | [82101-2-games-in-1-double-pack-i-hot-wheels-world-race-hot-wheels-velocity-x.json](./82101-2-games-in-1-double-pack-i-hot-wheels-world-race-hot-wheels-velocity-x.json) |
 | 2 Games In 1 Double Pack: Finding Nemo + Monsters, Inc. | 78697 | [78697-2-games-in-1-double-pack-finding-nemo-monsters-inc.json](./78697-2-games-in-1-double-pack-finding-nemo-monsters-inc.json) |
 | 2 Games in 1 Double Pack: Power Rangers Ninja Storm + Power Rangers Time Force | 86044 | [86044-2-games-in-1-double-pack-power-rangers-ninja-storm-power-rangers-time-force.json](./86044-2-games-in-1-double-pack-power-rangers-ninja-storm-power-rangers-time-force.json) |
@@ -1255,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30 Days of Tower | 290955 | [290955-30-days-of-tower.json](./290955-30-days-of-tower.json) |
 | 30 Floors of Madness | 308952 | [308952-30-floors-of-madness.json](./308952-30-floors-of-madness.json) |
 | 30 in 1 Family Games Mega Collection | 391259 | [391259-30-in-1-family-games-mega-collection.json](./391259-30-in-1-family-games-mega-collection.json) |
+| 30 Minutes to Die | 214691 | [214691-30-minutes-to-die.json](./214691-30-minutes-to-die.json) |
 | 30 Minutes to Rescue | 398035 | [398035-30-minutes-to-rescue.json](./398035-30-minutes-to-rescue.json) |
 | 30 Pferdespiele | 91609 | [91609-30-pferdespiele.json](./91609-30-pferdespiele.json) |
 | 30 Seconds to Jail | 97110 | [97110-30-seconds-to-jail.json](./97110-30-seconds-to-jail.json) |
