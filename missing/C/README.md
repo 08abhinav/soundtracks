@@ -12675,6 +12675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Star Heroes | 349471 | [349471-cute-star-heroes.json](./349471-cute-star-heroes.json) |
 | Cute Techno Slayer: Re Seele | 379700 | [379700-cute-techno-slayer-re-seele.json](./379700-cute-techno-slayer-re-seele.json) |
 | Cute Things Dying Violently | 12394 | [12394-cute-things-dying-violently.json](./12394-cute-things-dying-violently.json) |
+| Cute Train | 203148 | [203148-cute-train.json](./203148-cute-train.json) |
 | Cute Triplets | 148540 | [148540-cute-triplets.json](./148540-cute-triplets.json) |
 | Cute-ing Gallery | 336661 | [336661-cute-ing-gallery.json](./336661-cute-ing-gallery.json) |
 | Cute, Broke, and Dungeon Bound | 334132 | [334132-cute-broke-and-dungeon-bound.json](./334132-cute-broke-and-dungeon-bound.json) |
