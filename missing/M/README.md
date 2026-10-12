@@ -282,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Skills Motocross 3 | 241639 | [241639-mad-skills-motocross-3.json](./241639-mad-skills-motocross-3.json) |
 | Mad Skills Motocross: Chasing the Dream | 292230 | [292230-mad-skills-motocross-chasing-the-dream.json](./292230-mad-skills-motocross-chasing-the-dream.json) |
 | Mad Skills Snocross | 232330 | [232330-mad-skills-snocross.json](./232330-mad-skills-snocross.json) |
+| Mad Stalker: Full Metal Force | 221317 | [221317-mad-stalker-full-metal-force.json](./221317-mad-stalker-full-metal-force.json) |
 | Mad Stalker: Full Metal Force | 41408 | [41408-mad-stalker-full-metal-force.json](./41408-mad-stalker-full-metal-force.json) |
 | Mad Streets | 130517 | [130517-mad-streets.json](./130517-mad-streets.json) |
 | Mad Taxi | 153327 | [153327-mad-taxi.json](./153327-mad-taxi.json) |
@@ -751,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Heart | 114996 | [114996-magic-heart.json](./114996-magic-heart.json) |
 | Magic Hero Incremental | 386446 | [386446-magic-hero-incremental.json](./386446-magic-hero-incremental.json) |
 | Magic Heroes | 120261 | [120261-magic-heroes.json](./120261-magic-heroes.json) |
+| Magic Hop | 221354 | [221354-magic-hop.json](./221354-magic-hop.json) |
 | Magic Hour | 30093 | [30093-magic-hour.json](./30093-magic-hour.json) |
 | Magic Island Escape | 315472 | [315472-magic-island-escape.json](./315472-magic-island-escape.json) |
 | Magic Island Escape 2 | 315473 | [315473-magic-island-escape-2.json](./315473-magic-island-escape-2.json) |
@@ -1221,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Cub3d | 6846 | [6846-mahjong-cub3d.json](./6846-mahjong-cub3d.json) |
 | Mahjong Deluxe 2 | 89686 | [89686-mahjong-deluxe-2.json](./89686-mahjong-deluxe-2.json) |
 | Mahjong Deluxe 2: Astral Planes | 105996 | [105996-mahjong-deluxe-2-astral-planes.json](./105996-mahjong-deluxe-2-astral-planes.json) |
+| Mahjong Demon XL | 221333 | [221333-mahjong-demon-xl.json](./221333-mahjong-demon-xl.json) |
 | Mahjong Detective: The Stolen Love | 295919 | [295919-mahjong-detective-the-stolen-love.json](./295919-mahjong-detective-the-stolen-love.json) |
 | Mahjong Elements HD | 174371 | [174371-mahjong-elements-hd.json](./174371-mahjong-elements-hd.json) |
 | Mahjong Elements HDX | 88370 | [88370-mahjong-elements-hdx.json](./88370-mahjong-elements-hdx.json) |
@@ -6339,6 +6342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetaTron | 33213 | [33213-metatron.json](./33213-metatron.json) |
 | Metavaxx | 159052 | [159052-metavaxx.json](./159052-metavaxx.json) |
 | Metaverse Keeper | 111984 | [111984-metaverse-keeper.json](./111984-metaverse-keeper.json) |
+| Metavoidal | 221335 | [221335-metavoidal.json](./221335-metavoidal.json) |
 | Metawork: Antique Shop Simulator | 366330 | [366330-metawork-antique-shop-simulator.json](./366330-metawork-antique-shop-simulator.json) |
 | Metawork: Hotel Simulator | 243395 | [243395-metawork-hotel-simulator.json](./243395-metawork-hotel-simulator.json) |
 | MetaWorld | 31841 | [31841-metaworld.json](./31841-metaworld.json) |
@@ -7052,6 +7056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Dreams | 255242 | [255242-midnight-dreams.json](./255242-midnight-dreams.json) |
 | Midnight Drifter | 240222 | [240222-midnight-drifter.json](./240222-midnight-drifter.json) |
 | Midnight Dungeon | 179719 | [179719-midnight-dungeon.json](./179719-midnight-dungeon.json) |
+| Midnight DX | 221369 | [221369-midnight-dx.json](./221369-midnight-dx.json) |
 | Midnight Faerie | 176371 | [176371-midnight-faerie.json](./176371-midnight-faerie.json) |
 | Midnight Feast | 118318 | [118318-midnight-feast.json](./118318-midnight-feast.json) |
 | Midnight Files: Missing in Forest Lake | 387054 | [387054-midnight-files-missing-in-forest-lake.json](./387054-midnight-files-missing-in-forest-lake.json) |
@@ -13274,6 +13279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Riding Stables | 17045 | [17045-my-riding-stables.json](./17045-my-riding-stables.json) |
 | My Riding Stables 2: A New Adventure | 140008 | [140008-my-riding-stables-2-a-new-adventure.json](./140008-my-riding-stables-2-a-new-adventure.json) |
 | My Riding Stables: Life with Horses 2 | 109770 | [109770-my-riding-stables-life-with-horses-2.json](./109770-my-riding-stables-life-with-horses-2.json) |
+| My Robot Girlfriend | 221367 | [221367-my-robot-girlfriend.json](./221367-my-robot-girlfriend.json) |
 | My Rusty Submarine: New Waters | 358291 | [358291-my-rusty-submarine-new-waters.json](./358291-my-rusty-submarine-new-waters.json) |
 | My RV Skills | 316857 | [316857-my-rv-skills.json](./316857-my-rv-skills.json) |
 | My Sacred Place | 259747 | [259747-my-sacred-place.json](./259747-my-sacred-place.json) |
