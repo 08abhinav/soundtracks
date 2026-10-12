@@ -5855,6 +5855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andromeda Mission | 15571 | [15571-andromeda-mission.json](./15571-andromeda-mission.json) |
 | Andromeda One | 292695 | [292695-andromeda-one.json](./292695-andromeda-one.json) |
 | Andromeda Overdrive | 265420 | [265420-andromeda-overdrive.json](./265420-andromeda-overdrive.json) |
+| Andromeda Six: Tea Time with Oppo | 181615 | [181615-andromeda-six-tea-time-with-oppo.json](./181615-andromeda-six-tea-time-with-oppo.json) |
 | Andromeda Six: Team Time with Oppo | 256361 | [256361-andromeda-six-team-time-with-oppo.json](./256361-andromeda-six-team-time-with-oppo.json) |
 | Andromeda SS | 249705 | [249705-andromeda-ss.json](./249705-andromeda-ss.json) |
 | Andromeda Survivors | 219677 | [219677-andromeda-survivors.json](./219677-andromeda-survivors.json) |
