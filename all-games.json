@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T11:30:13.840Z",
-  "total_soundtracks": 1514,
+  "generated_at": "2026-10-12T11:30:25.613Z",
+  "total_soundtracks": 1515,
   "games": [
     {
       "igdb_id": 7522,
@@ -13989,6 +13989,20 @@
           "spotify_url": "https://music.apple.com/us/album/styx-blades-of-greed-original-game-soundtrack/1878398482?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1878398482"
+        }
+      ]
+    },
+    {
+      "igdb_id": 6072,
+      "game_name": "Styx: Master of Shadows",
+      "game_url": "https://ostdb.net/games/styx-master-of-shadows",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730bb67c0c5a647271cee81720",
+      "albums": [
+        {
+          "album_name": "Styx: Master of Shadows (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3D6E3DskBXcO6FbrG8PRcR",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
