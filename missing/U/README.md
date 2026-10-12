@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Moto Bike Simulator | 283221 | [283221-ultimate-moto-bike-simulator.json](./283221-ultimate-moto-bike-simulator.json) |
 | Ultimate MotoCross 4 | 227948 | [227948-ultimate-motocross-4.json](./227948-ultimate-motocross-4.json) |
 | Ultimate Motorcycle Simulator | 100826 | [100826-ultimate-motorcycle-simulator.json](./100826-ultimate-motorcycle-simulator.json) |
+| Ultimate Muscle Roller Championship | 197570 | [197570-ultimate-muscle-roller-championship.json](./197570-ultimate-muscle-roller-championship.json) |
 | Ultimate Muscle: The Kinnikuman Legacy - The Path of the Superhero | 49208 | [49208-ultimate-muscle-the-kinnikuman-legacy-the-path-of-the-superhero.json](./49208-ultimate-muscle-the-kinnikuman-legacy-the-path-of-the-superhero.json) |
 | Ultimate Mutant Warrior 3D | 104267 | [104267-ultimate-mutant-warrior-3d.json](./104267-ultimate-mutant-warrior-3d.json) |
 | Ultimate Mythic Ski Jumping League | 357214 | [357214-ultimate-mythic-ski-jumping-league.json](./357214-ultimate-mythic-ski-jumping-league.json) |
