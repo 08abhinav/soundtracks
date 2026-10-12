@@ -477,6 +477,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanna Maze | 300967 | [300967-kanna-maze.json](./300967-kanna-maze.json) |
 | Kanna School | 336662 | [336662-kanna-school.json](./336662-kanna-school.json) |
 | Kannagi no Mori Samidare Tsuzuri | 136476 | [136476-kannagi-no-mori-samidare-tsuzuri.json](./136476-kannagi-no-mori-samidare-tsuzuri.json) |
+| Kannagi no Mori: Ryuujin Kitan | 223083 | [223083-kannagi-no-mori-ryuujin-kitan.json](./223083-kannagi-no-mori-ryuujin-kitan.json) |
+| Kannagi no Mori: Youko Kitan | 223082 | [223082-kannagi-no-mori-youko-kitan.json](./223082-kannagi-no-mori-youko-kitan.json) |
 | Kannagi Usagi | 263139 | [263139-kannagi-usagi.json](./263139-kannagi-usagi.json) |
 | Kannou Mukashi Banashi Portable | 56766 | [56766-kannou-mukashi-banashi-portable.json](./56766-kannou-mukashi-banashi-portable.json) |
 | Kanojo * Step | 139862 | [139862-kanojo-step.json](./139862-kanojo-step.json) |
@@ -3070,6 +3072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ko Ima ni Ari | 357166 | [357166-ko-ima-ni-ari.json](./357166-ko-ima-ni-ari.json) |
 | KO Punch | 62795 | [62795-ko-punch.json](./62795-ko-punch.json) |
 | KO Seiki Beast Sanjuushi | 108922 | [108922-ko-seiki-beast-sanjuushi.json](./108922-ko-seiki-beast-sanjuushi.json) |
+| Koakuma | 222787 | [222787-koakuma.json](./222787-koakuma.json) |
 | Koala Kids | 34981 | [34981-koala-kids.json](./34981-koala-kids.json) |
 | Koala Rush | 187841 | [187841-koala-rush.json](./187841-koala-rush.json) |
 | Koala Sling | 268020 | [268020-koala-sling.json](./268020-koala-sling.json) |
@@ -3221,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kollidoskop! | 96857 | [96857-kollidoskop.json](./96857-kollidoskop.json) |
 | Kollywood: The Game | 340030 | [340030-kollywood-the-game.json](./340030-kollywood-the-game.json) |
 | Kolo | 169771 | [169771-kolo.json](./169771-kolo.json) |
+| Kolo Terorita | 223054 | [223054-kolo-terorita.json](./223054-kolo-terorita.json) |
 | Kolobok Piramida | 266283 | [266283-kolobok-piramida.json](./266283-kolobok-piramida.json) |
 | Kolobok: The Return | 169841 | [169841-kolobok-the-return.json](./169841-kolobok-the-return.json) |
 | Koloboke: Sickness Simulator | 373344 | [373344-koloboke-sickness-simulator.json](./373344-koloboke-sickness-simulator.json) |
