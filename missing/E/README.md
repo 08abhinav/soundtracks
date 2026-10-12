@@ -1570,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevenses: The Flask | 123974 | [123974-elevenses-the-flask.json](./123974-elevenses-the-flask.json) |
 | Eleventh: Unsacred | 255165 | [255165-eleventh-unsacred.json](./255165-eleventh-unsacred.json) |
 | Elevral | 393044 | [393044-elevral.json](./393044-elevral.json) |
+| Elex II: Collector's Edition | 181638 | [181638-elex-ii-collectors-edition.json](./181638-elex-ii-collectors-edition.json) |
 | Elf | 12061 | [12061-elf.json](./12061-elf.json) |
 | Elf Adventure | 282715 | [282715-elf-adventure.json](./282715-elf-adventure.json) |
 | Elf Adventure: The Lost Castle | 344553 | [344553-elf-adventure-the-lost-castle.json](./344553-elf-adventure-the-lost-castle.json) |
@@ -5183,6 +5184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Offroad Racing | 320540 | [320540-extreme-offroad-racing.json](./320540-extreme-offroad-racing.json) |
 | Extreme Offroad Racing VR | 345124 | [345124-extreme-offroad-racing-vr.json](./345124-extreme-offroad-racing-vr.json) |
 | Extreme Offroad Simulator | 243571 | [243571-extreme-offroad-simulator.json](./243571-extreme-offroad-simulator.json) |
+| Extreme Offrоad Cars 2 | 181642 | [181642-extreme-offr-ad-cars-2.json](./181642-extreme-offr-ad-cars-2.json) |
 | Extreme Overtake | 323528 | [323528-extreme-overtake.json](./323528-extreme-overtake.json) |
 | Extreme Painting Puzzle | 110504 | [110504-extreme-painting-puzzle.json](./110504-extreme-painting-puzzle.json) |
 | Extreme Pamplona | 139232 | [139232-extreme-pamplona.json](./139232-extreme-pamplona.json) |
