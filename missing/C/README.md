@@ -1281,6 +1281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Parking Adventure | 384283 | [384283-car-parking-adventure.json](./384283-car-parking-adventure.json) |
 | Car Parking Game 3D - Real City Driving School | 83585 | [83585-car-parking-game-3d-real-city-driving-school.json](./83585-car-parking-game-3d-real-city-driving-school.json) |
 | Car Parking Legends: Drive & Park Adventure | 322661 | [322661-car-parking-legends-drive-and-park-adventure.json](./322661-car-parking-legends-drive-and-park-adventure.json) |
+| Car Parking Madness School Drive Mechanic Car Games Simulator 2023 | 226331 | [226331-car-parking-madness-school-drive-mechanic-car-games-simulator-2023.json](./226331-car-parking-madness-school-drive-mechanic-car-games-simulator-2023.json) |
 | Car Parking Multiplayer | 232563 | [232563-car-parking-multiplayer.json](./232563-car-parking-multiplayer.json) |
 | Car Parking Multiplayer 2 | 245213 | [245213-car-parking-multiplayer-2.json](./245213-car-parking-multiplayer-2.json) |
 | Car Parking Real Driving Sim | 274976 | [274976-car-parking-real-driving-sim.json](./274976-car-parking-real-driving-sim.json) |
@@ -10906,6 +10907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crispy Chicken Speedmap Session 02 | 312892 | [312892-crispy-chicken-speedmap-session-02.json](./312892-crispy-chicken-speedmap-session-02.json) |
 | Crispy Chicken Speedmap Session 5: Paint It Doom | 323912 | [323912-crispy-chicken-speedmap-session-5-paint-it-doom.json](./323912-crispy-chicken-speedmap-session-5-paint-it-doom.json) |
 | Crispy Kart | 391771 | [391771-crispy-kart.json](./391771-crispy-kart.json) |
+| Crispy Puppy | 226350 | [226350-crispy-puppy.json](./226350-crispy-puppy.json) |
 | Criss Cross | 152756 | [152756-criss-cross.json](./152756-criss-cross.json) |
 | Criss Cross | 67520 | [67520-criss-cross.json](./67520-criss-cross.json) |
 | Criss Cross Bomb | 322064 | [322064-criss-cross-bomb.json](./322064-criss-cross-bomb.json) |
