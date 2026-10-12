@@ -3703,6 +3703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire & Crown: A Romantic Tale of the Hundred Years' War | 390761 | [390761-fire-and-crown-a-romantic-tale-of-the-hundred-years-war.json](./390761-fire-and-crown-a-romantic-tale-of-the-hundred-years-war.json) |
 | Fire & Forget: The Final Assault | 53041 | [53041-fire-and-forget-the-final-assault.json](./53041-fire-and-forget-the-final-assault.json) |
 | Fire & Ice: The Daring Adventures of Cool Coyote | 12099 | [12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json](./12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json) |
+| Fire & Maneuver: American Civil War | 211899 | [211899-fire-and-maneuver-american-civil-war.json](./211899-fire-and-maneuver-american-civil-war.json) |
 | Fire & Water | 147997 | [147997-fire-and-water.json](./147997-fire-and-water.json) |
 | Fire All Humans | 211134 | [211134-fire-all-humans.json](./211134-fire-all-humans.json) |
 | Fire All Weapons | 257973 | [257973-fire-all-weapons.json](./257973-fire-all-weapons.json) |
@@ -8630,6 +8631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furni-Jumpin' | 255132 | [255132-furni-jumpin.json](./255132-furni-jumpin.json) |
 | Furnish Master | 212816 | [212816-furnish-master.json](./212816-furnish-master.json) |
 | Furniture Assembler Simulator | 402351 | [402351-furniture-assembler-simulator.json](./402351-furniture-assembler-simulator.json) |
+| Furniture Busters | 211991 | [211991-furniture-busters.json](./211991-furniture-busters.json) |
 | Furniture Service | 340541 | [340541-furniture-service.json](./340541-furniture-service.json) |
 | Furniture: Build & Repair | 288864 | [288864-furniture-build-and-repair.json](./288864-furniture-build-and-repair.json) |
 | Furopon World | 85822 | [85822-furopon-world.json](./85822-furopon-world.json) |
