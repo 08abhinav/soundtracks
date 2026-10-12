@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabotage City | 393820 | [393820-sabotage-city.json](./393820-sabotage-city.json) |
 | Sabotage Will Set Us Free | 181376 | [181376-sabotage-will-set-us-free.json](./181376-sabotage-will-set-us-free.json) |
 | Saboten Bombers | 40417 | [40417-saboten-bombers.json](./40417-saboten-bombers.json) |
+| Saboteur | 192134 | [192134-saboteur.json](./192134-saboteur.json) |
 | Saboteur! | 112670 | [112670-saboteur.json](./112670-saboteur.json) |
 | Saboteur! | 26354 | [26354-saboteur.json](./26354-saboteur.json) |
 | Sabotris | 207293 | [207293-sabotris.json](./207293-sabotris.json) |
@@ -7690,6 +7691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleton King | 210844 | [210844-skeleton-king.json](./210844-skeleton-king.json) |
 | Skeleton Messi | 293858 | [293858-skeleton-messi.json](./293858-skeleton-messi.json) |
 | Skeleton Quest | 415456 | [415456-skeleton-quest.json](./415456-skeleton-quest.json) |
+| Skeleton Scramble Deluxe | 192136 | [192136-skeleton-scramble-deluxe.json](./192136-skeleton-scramble-deluxe.json) |
 | Skeleton Sprint | 55675 | [55675-skeleton-sprint.json](./55675-skeleton-sprint.json) |
 | Skeleton Troubles | 166707 | [166707-skeleton-troubles.json](./166707-skeleton-troubles.json) |
 | Skeleton Village | 298644 | [298644-skeleton-village.json](./298644-skeleton-village.json) |
@@ -10989,6 +10991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Adventure: Neo | 330154 | [330154-sonic-adventure-neo.json](./330154-sonic-adventure-neo.json) |
 | Sonic Adventure: Renegade | 331302 | [331302-sonic-adventure-renegade.json](./331302-sonic-adventure-renegade.json) |
 | Sonic Adventure: Revolution | 317345 | [317345-sonic-adventure-revolution.json](./317345-sonic-adventure-revolution.json) |
+| Sonic Adventure: Sonic Adventure DX Upgrade | 192114 | [192114-sonic-adventure-sonic-adventure-dx-upgrade.json](./192114-sonic-adventure-sonic-adventure-dx-upgrade.json) |
 | Sonic Adventure: SRB2 | 330336 | [330336-sonic-adventure-srb2.json](./330336-sonic-adventure-srb2.json) |
 | Sonic After the Sequel DX | 370295 | [370295-sonic-after-the-sequel-dx.json](./370295-sonic-after-the-sequel-dx.json) |
 | Sonic All Mix | 326155 | [326155-sonic-all-mix.json](./326155-sonic-all-mix.json) |
@@ -17351,6 +17354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Alive | 415464 | [415464-still-alive.json](./415464-still-alive.json) |
 | Still Alive DS | 270389 | [270389-still-alive-ds.json](./270389-still-alive-ds.json) |
 | Still Alive: Hollowed Horizon | 355075 | [355075-still-alive-hollowed-horizon.json](./355075-still-alive-hollowed-horizon.json) |
+| Still Be a Human | 192088 | [192088-still-be-a-human.json](./192088-still-be-a-human.json) |
 | Still Breathing | 418545 | [418545-still-breathing.json](./418545-still-breathing.json) |
 | Still Dark at Dawn | 111028 | [111028-still-dark-at-dawn.json](./111028-still-dark-at-dawn.json) |
 | Still Here... A cute Adventure | 100773 | [100773-still-here-a-cute-adventure.json](./100773-still-here-a-cute-adventure.json) |
