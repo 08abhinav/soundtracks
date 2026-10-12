@@ -1313,6 +1313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors & Mages | 173270 | [173270-warriors-and-mages.json](./173270-warriors-and-mages.json) |
 | Warriors All-Stars: Treasure Box | 212334 | [212334-warriors-all-stars-treasure-box.json](./212334-warriors-all-stars-treasure-box.json) |
 | Warriors Match Connect Classic | 235231 | [235231-warriors-match-connect-classic.json](./235231-warriors-match-connect-classic.json) |
+| Warriors of Destiny | 188346 | [188346-warriors-of-destiny.json](./188346-warriors-of-destiny.json) |
 | Warriors of Dust | 278350 | [278350-warriors-of-dust.json](./278350-warriors-of-dust.json) |
 | Warriors of Nova Thera | 314443 | [314443-warriors-of-nova-thera.json](./314443-warriors-of-nova-thera.json) |
 | Warriors of Ragnarök | 123578 | [123578-warriors-of-ragnarok.json](./123578-warriors-of-ragnarok.json) |
@@ -1637,6 +1638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watermelon Blocks | 148953 | [148953-watermelon-blocks.json](./148953-watermelon-blocks.json) |
 | Watermelon Challenge | 275693 | [275693-watermelon-challenge.json](./275693-watermelon-challenge.json) |
 | Watermelon Game: Fruits Puzzle | 293904 | [293904-watermelon-game-fruits-puzzle.json](./293904-watermelon-game-fruits-puzzle.json) |
+| Watermelon Madness | 187777 | [187777-watermelon-madness.json](./187777-watermelon-madness.json) |
 | Watermelon Merge: Strategy Game | 303236 | [303236-watermelon-merge-strategy-game.json](./303236-watermelon-merge-strategy-game.json) |
 | WaterMelon Mosikkaeng | 282246 | [282246-watermelon-mosikkaeng.json](./282246-watermelon-mosikkaeng.json) |
 | Watermelon Simulator | 325627 | [325627-watermelon-simulator.json](./325627-watermelon-simulator.json) |
@@ -2182,6 +2184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to QiQu Club | 400226 | [400226-welcome-to-qiqu-club.json](./400226-welcome-to-qiqu-club.json) |
 | Welcome to Scott's Story in the World of Our Church and Halloween: Visual Novel | 225588 | [225588-welcome-to-scotts-story-in-the-world-of-our-church-and-halloween-visual-novel.json](./225588-welcome-to-scotts-story-in-the-world-of-our-church-and-halloween-visual-novel.json) |
 | Welcome to Sushi Tree | 316612 | [316612-welcome-to-sushi-tree.json](./316612-welcome-to-sushi-tree.json) |
+| Welcome to the Adamant Maintenance Monitoring Terminal | 186599 | [186599-welcome-to-the-adamant-maintenance-monitoring-terminal.json](./186599-welcome-to-the-adamant-maintenance-monitoring-terminal.json) |
 | Welcome to the Adventurer Inn! | 169460 | [169460-welcome-to-the-adventurer-inn.json](./169460-welcome-to-the-adventurer-inn.json) |
 | Welcome to the Backrooms | 197191 | [197191-welcome-to-the-backrooms.json](./197191-welcome-to-the-backrooms.json) |
 | Welcome to the Ballroom | 137577 | [137577-welcome-to-the-ballroom.json](./137577-welcome-to-the-ballroom.json) |
@@ -3008,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Breath: Perfect Edition | 125290 | [125290-white-breath-perfect-edition.json](./125290-white-breath-perfect-edition.json) |
 | White Camellia | 398510 | [398510-white-camellia.json](./398510-white-camellia.json) |
 | White Carve | 182897 | [182897-white-carve.json](./182897-white-carve.json) |
+| White Cat Golf | 188342 | [188342-white-cat-golf.json](./188342-white-cat-golf.json) |
 | White Cat Stories | 346230 | [346230-white-cat-stories.json](./346230-white-cat-stories.json) |
 | White Cat Town Mystery | 287704 | [287704-white-cat-town-mystery.json](./287704-white-cat-town-mystery.json) |
 | White Chamber | 247598 | [247598-white-chamber.json](./247598-white-chamber.json) |
@@ -3736,6 +3740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windsquire: Race From Dragon Castle | 241054 | [241054-windsquire-race-from-dragon-castle.json](./241054-windsquire-race-from-dragon-castle.json) |
 | WindStop Strategy | 385567 | [385567-windstop-strategy.json](./385567-windstop-strategy.json) |
 | Windstorm: Double Pack | 259539 | [259539-windstorm-double-pack.json](./259539-windstorm-double-pack.json) |
+| Windstorm: Start of a Great Friendship | 186557 | [186557-windstorm-start-of-a-great-friendship.json](./186557-windstorm-start-of-a-great-friendship.json) |
 | Windstorm: Start of a Great Friendship - Remastered | 295730 | [295730-windstorm-start-of-a-great-friendship-remastered.json](./295730-windstorm-start-of-a-great-friendship-remastered.json) |
 | Windsurfers Paradise | 12902 | [12902-windsurfers-paradise.json](./12902-windsurfers-paradise.json) |
 | Windsurfing MMX | 213988 | [213988-windsurfing-mmx.json](./213988-windsurfing-mmx.json) |
@@ -4643,6 +4648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Protocol | 413467 | [413467-wonder-protocol.json](./413467-wonder-protocol.json) |
 | Wonder Stick | 40162 | [40162-wonder-stick.json](./40162-wonder-stick.json) |
 | Wonder Tactics | 59030 | [59030-wonder-tactics.json](./59030-wonder-tactics.json) |
+| Wonder Trek | 186581 | [186581-wonder-trek.json](./186581-wonder-trek.json) |
 | Wonder Trips | 239143 | [239143-wonder-trips.json](./239143-wonder-trips.json) |
 | Wonder Wand | 304016 | [304016-wonder-wand.json](./304016-wonder-wand.json) |
 | Wonder Wandelier | 263986 | [263986-wonder-wandelier.json](./263986-wonder-wandelier.json) |
