@@ -1317,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Knights | 350375 | [350375-abyss-knights.json](./350375-abyss-knights.json) |
 | Abyss Looters | 312663 | [312663-abyss-looters.json](./312663-abyss-looters.json) |
 | Abyss Manager Idle | 271667 | [271667-abyss-manager-idle.json](./271667-abyss-manager-idle.json) |
+| Abyss Memory Fallen Angel and the Path of Magic | 192081 | [192081-abyss-memory-fallen-angel-and-the-path-of-magic.json](./192081-abyss-memory-fallen-angel-and-the-path-of-magic.json) |
 | Abyss Odyssey | 14414 | [14414-abyss-odyssey.json](./14414-abyss-odyssey.json) |
 | Abyss Odyssey: Extended Dream Edition | 21110 | [21110-abyss-odyssey-extended-dream-edition.json](./21110-abyss-odyssey-extended-dream-edition.json) |
 | Abyss of Doom | 403689 | [403689-abyss-of-doom.json](./403689-abyss-of-doom.json) |
@@ -1919,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adorabilis | 254373 | [254373-adorabilis.json](./254373-adorabilis.json) |
 | Adorable Garden | 352865 | [352865-adorable-garden.json](./352865-adorable-garden.json) |
 | Adorable Witch | 150585 | [150585-adorable-witch.json](./150585-adorable-witch.json) |
+| Adorable Witch 2 | 192138 | [192138-adorable-witch-2.json](./192138-adorable-witch-2.json) |
 | Adorable Witch 4: Lust | 211393 | [211393-adorable-witch-4-lust.json](./211393-adorable-witch-4-lust.json) |
 | Adorable Witch 5: Lingering | 235850 | [235850-adorable-witch-5-lingering.json](./235850-adorable-witch-5-lingering.json) |
 | Adorate | 362874 | [362874-adorate.json](./362874-adorate.json) |
@@ -8355,6 +8357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena of Dreams | 305266 | [305266-arena-of-dreams.json](./305266-arena-of-dreams.json) |
 | Arena of Faith | 277259 | [277259-arena-of-faith.json](./277259-arena-of-faith.json) |
 | Arena of Heroes | 63657 | [63657-arena-of-heroes.json](./63657-arena-of-heroes.json) |
+| Arena of Octos | 192112 | [192112-arena-of-octos.json](./192112-arena-of-octos.json) |
 | Arena of Ruins | 159787 | [159787-arena-of-ruins.json](./159787-arena-of-ruins.json) |
 | Arena of Speed: Fast and Furious | 174832 | [174832-arena-of-speed-fast-and-furious.json](./174832-arena-of-speed-fast-and-furious.json) |
 | Arena of Taryon | 278609 | [278609-arena-of-taryon.json](./278609-arena-of-taryon.json) |
@@ -11335,6 +11338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axo Away | 184065 | [184065-axo-away.json](./184065-axo-away.json) |
 | Axobubble | 361254 | [361254-axobubble.json](./361254-axobubble.json) |
 | Axol's Quest | 369126 | [369126-axols-quest.json](./369126-axols-quest.json) |
+| Axolochi | 192103 | [192103-axolochi.json](./192103-axolochi.json) |
 | Axolotl | 195486 | [195486-axolotl.json](./195486-axolotl.json) |
 | Axolotl | 267997 | [267997-axolotl.json](./267997-axolotl.json) |
 | Axolotl Kingdom | 245940 | [245940-axolotl-kingdom.json](./245940-axolotl-kingdom.json) |
