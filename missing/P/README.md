@@ -11148,6 +11148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Mini Golf | 188100 | [188100-pure-mini-golf.json](./188100-pure-mini-golf.json) |
 | Pure Nastalgia | 277034 | [277034-pure-nastalgia.json](./277034-pure-nastalgia.json) |
 | Pure Pinball 2.0 Redux | 51881 | [51881-pure-pinball-2-0-redux.json](./51881-pure-pinball-2-0-redux.json) |
+| Pure Pinball: American Pinball Reborn | 209750 | [209750-pure-pinball-american-pinball-reborn.json](./209750-pure-pinball-american-pinball-reborn.json) |
 | Pure Pool Pro | 347286 | [347286-pure-pool-pro.json](./347286-pure-pool-pro.json) |
 | Pure Pool Snooker Bundle | 193761 | [193761-pure-pool-snooker-bundle.json](./193761-pure-pool-snooker-bundle.json) |
 | Pure Shooter | 360687 | [360687-pure-shooter.json](./360687-pure-shooter.json) |
