@@ -2372,6 +2372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junkman Simulator | 153971 | [153971-junkman-simulator.json](./153971-junkman-simulator.json) |
 | JunkMetal | 283818 | [283818-junkmetal.json](./283818-junkmetal.json) |
 | Junko | 286124 | [286124-junko.json](./286124-junko.json) |
+| Junkoid | 215859 | [215859-junkoid.json](./215859-junkoid.json) |
 | Junkpunk: Arena | 153856 | [153856-junkpunk-arena.json](./153856-junkpunk-arena.json) |
 | JunkRats | 353805 | [353805-junkrats.json](./353805-junkrats.json) |
 | Junkworld | 174745 | [174745-junkworld.json](./174745-junkworld.json) |
