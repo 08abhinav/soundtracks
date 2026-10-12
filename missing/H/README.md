@@ -6391,6 +6391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror House Part II | 112160 | [112160-horror-house-part-ii.json](./112160-horror-house-part-ii.json) |
 | Horror House Survival | 103570 | [103570-horror-house-survival.json](./103570-horror-house-survival.json) |
 | Horror Hunt | 121600 | [121600-horror-hunt.json](./121600-horror-hunt.json) |
+| Horror Hunt: Until Daylight | 208070 | [208070-horror-hunt-until-daylight.json](./208070-horror-hunt-until-daylight.json) |
 | Horror In Hongdae | 303570 | [303570-horror-in-hongdae.json](./303570-horror-in-hongdae.json) |
 | Horror in the Forest | 365258 | [365258-horror-in-the-forest.json](./365258-horror-in-the-forest.json) |
 | Horror In Valkeala | 192951 | [192951-horror-in-valkeala.json](./192951-horror-in-valkeala.json) |
