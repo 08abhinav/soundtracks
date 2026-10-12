@@ -4419,6 +4419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not An NPC Game | 418297 | [418297-not-an-npc-game.json](./418297-not-an-npc-game.json) |
 | Not Another Advent Story | 210496 | [210496-not-another-advent-story.json](./210496-not-another-advent-story.json) |
 | Not Another Hero | 57498 | [57498-not-another-hero.json](./57498-not-another-hero.json) |
+| Not Another Needle Game | 223051 | [223051-not-another-needle-game.json](./223051-not-another-needle-game.json) |
 | Not Another Weekend | 140388 | [140388-not-another-weekend.json](./140388-not-another-weekend.json) |
 | Not Born to be King | 231842 | [231842-not-born-to-be-king.json](./231842-not-born-to-be-king.json) |
 | Not Burned Evil | 276977 | [276977-not-burned-evil.json](./276977-not-burned-evil.json) |
