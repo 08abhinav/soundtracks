@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caillou: Four Seasons of Fun | 137020 | [137020-caillou-four-seasons-of-fun.json](./137020-caillou-four-seasons-of-fun.json) |
 | Caillou: Magic Playhouse | 73885 | [73885-caillou-magic-playhouse.json](./73885-caillou-magic-playhouse.json) |
 | Caillou: Ready to Read | 206700 | [206700-caillou-ready-to-read.json](./206700-caillou-ready-to-read.json) |
+| Cain | 184838 | [184838-cain.json](./184838-cain.json) |
 | Cain | 380049 | [380049-cain.json](./380049-cain.json) |
 | Cain & Iddo: Break Week | 316138 | [316138-cain-and-iddo-break-week.json](./316138-cain-and-iddo-break-week.json) |
 | Cain in the 3rd Earth | 146534 | [146534-cain-in-the-3rd-earth.json](./146534-cain-in-the-3rd-earth.json) |
@@ -2784,6 +2785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CatNab | 188986 | [188986-catnab.json](./188986-catnab.json) |
 | Catnight | 188582 | [188582-catnight.json](./188582-catnight.json) |
 | Catnigma | 376755 | [376755-catnigma.json](./376755-catnigma.json) |
+| Catnip | 184791 | [184791-catnip.json](./184791-catnip.json) |
 | Catnip & Coffee | 350529 | [350529-catnip-and-coffee.json](./350529-catnip-and-coffee.json) |
 | Catniptic | 263059 | [263059-catniptic.json](./263059-catniptic.json) |
 | Cato: Buttered Cat | 203934 | [203934-cato-buttered-cat.json](./203934-cato-buttered-cat.json) |
@@ -7199,6 +7201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin | 314433 | [314433-coin.json](./314433-coin.json) |
 | Coin 'n Carry | 63684 | [63684-coin-n-carry.json](./63684-coin-n-carry.json) |
 | Coin & Cauldron | 391618 | [391618-coin-and-cauldron.json](./391618-coin-and-cauldron.json) |
+| Coin Coliseum | 184851 | [184851-coin-coliseum.json](./184851-coin-coliseum.json) |
 | Coin Collection Challenge | 379904 | [379904-coin-collection-challenge.json](./379904-coin-collection-challenge.json) |
 | Coin Commander | 128349 | [128349-coin-commander.json](./128349-coin-commander.json) |
 | Coin Counter | 346794 | [346794-coin-counter.json](./346794-coin-counter.json) |
@@ -9172,6 +9175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copper Dreams | 59674 | [59674-copper-dreams.json](./59674-copper-dreams.json) |
 | Copper Jacket | 313466 | [313466-copper-jacket.json](./313466-copper-jacket.json) |
 | Copper Odyssey | 161375 | [161375-copper-odyssey.json](./161375-copper-odyssey.json) |
+| Copper Quest | 184879 | [184879-copper-quest.json](./184879-copper-quest.json) |
 | Copperbell | 122841 | [122841-copperbell.json](./122841-copperbell.json) |
 | Copperfell | 373737 | [373737-copperfell.json](./373737-copperfell.json) |
 | Copperfields | 264588 | [264588-copperfields.json](./264588-copperfields.json) |
@@ -11078,7 +11082,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis Beat | 4136 | [4136-crisis-beat.json](./4136-crisis-beat.json) |
 | Crisis Brigade 2: Reloaded | 223144 | [223144-crisis-brigade-2-reloaded.json](./223144-crisis-brigade-2-reloaded.json) |
 | Crisis Bullet | 296446 | [296446-crisis-bullet.json](./296446-crisis-bullet.json) |
-| Crisis Core: Final Fantasy VII | 2407 | [2407-crisis-core-final-fantasy-vii.json](./2407-crisis-core-final-fantasy-vii.json) |
 | Crisis Core: Final Fantasy VII - Collector's Edition | 141504 | [141504-crisis-core-final-fantasy-vii-collectors-edition.json](./141504-crisis-core-final-fantasy-vii-collectors-edition.json) |
 | Crisis Heart Brawlers: Clash at Otakon | 64681 | [64681-crisis-heart-brawlers-clash-at-otakon.json](./64681-crisis-heart-brawlers-clash-at-otakon.json) |
 | Crisis in the Aegean Sea | 127320 | [127320-crisis-in-the-aegean-sea.json](./127320-crisis-in-the-aegean-sea.json) |
