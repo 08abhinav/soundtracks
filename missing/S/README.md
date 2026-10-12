@@ -2012,6 +2012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schoolgirl Card Pull Simulator | 394559 | [394559-schoolgirl-card-pull-simulator.json](./394559-schoolgirl-card-pull-simulator.json) |
 | Schoolgirl Supervisor: Saori Sato | 322266 | [322266-schoolgirl-supervisor-saori-sato.json](./322266-schoolgirl-supervisor-saori-sato.json) |
 | Schoolgirl Tournament Fighting | 60086 | [60086-schoolgirl-tournament-fighting.json](./60086-schoolgirl-tournament-fighting.json) |
+| Schoolhouse Note | 182160 | [182160-schoolhouse-note.json](./182160-schoolhouse-note.json) |
 | Schoolhouse Rock! Grammar Rock | 209767 | [209767-schoolhouse-rock-grammar-rock.json](./209767-schoolhouse-rock-grammar-rock.json) |
 | Schoolhouse Rock!: America Rock | 113469 | [113469-schoolhouse-rock-america-rock.json](./113469-schoolhouse-rock-america-rock.json) |
 | Schoolhouse Rock!: Math Rock | 142707 | [142707-schoolhouse-rock-math-rock.json](./142707-schoolhouse-rock-math-rock.json) |
@@ -10072,6 +10073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Long Earth | 33376 | [33376-so-long-earth.json](./33376-so-long-earth.json) |
 | So Long Grandma | 87995 | [87995-so-long-grandma.json](./87995-so-long-grandma.json) |
 | So Many Cubes | 31791 | [31791-so-many-cubes.json](./31791-so-many-cubes.json) |
+| So Many Spiders | 182136 | [182136-so-many-spiders.json](./182136-so-many-spiders.json) |
 | So Many Words | 308548 | [308548-so-many-words.json](./308548-so-many-words.json) |
 | So Much Stuff 2 | 245814 | [245814-so-much-stuff-2.json](./245814-so-much-stuff-2.json) |
 | So Much Stuff 2: Collector's Edition | 290425 | [290425-so-much-stuff-2-collectors-edition.json](./290425-so-much-stuff-2-collectors-edition.json) |
@@ -10155,6 +10157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Kid | 4302 | [4302-soccer-kid.json](./4302-soccer-kid.json) |
 | Soccer Kid Collection | 403733 | [403733-soccer-kid-collection.json](./403733-soccer-kid-collection.json) |
 | Soccer Kids Champions | 104723 | [104723-soccer-kids-champions.json](./104723-soccer-kids-champions.json) |
+| Soccer League | 182151 | [182151-soccer-league.json](./182151-soccer-league.json) |
 | Soccer League: Winner's Cup | 48531 | [48531-soccer-league-winners-cup.json](./48531-soccer-league-winners-cup.json) |
 | Soccer Legends | 36018 | [36018-soccer-legends.json](./36018-soccer-legends.json) |
 | Soccer Lines | 241334 | [241334-soccer-lines.json](./241334-soccer-lines.json) |
@@ -10302,6 +10305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokama | 318532 | [318532-sokama.json](./318532-sokama.json) |
 | Sokfest | 240314 | [240314-sokfest.json](./240314-sokfest.json) |
 | Sokko Seitokai: Sonic Council | 165073 | [165073-sokko-seitokai-sonic-council.json](./165073-sokko-seitokai-sonic-council.json) |
+| Sokkqer | 182173 | [182173-sokkqer.json](./182173-sokkqer.json) |
 | Soko Banana | 333712 | [333712-soko-banana.json](./333712-soko-banana.json) |
 | Soko Loco | 129576 | [129576-soko-loco.json](./129576-soko-loco.json) |
 | Soko Loco Deluxe | 115328 | [115328-soko-loco-deluxe.json](./115328-soko-loco-deluxe.json) |
@@ -10892,6 +10896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonata | 271137 | [271137-sonata.json](./271137-sonata.json) |
 | Sonata Theory | 155028 | [155028-sonata-theory.json](./155028-sonata-theory.json) |
 | Sonatina | 305474 | [305474-sonatina.json](./305474-sonatina.json) |
+| Sonder | 182153 | [182153-sonder.json](./182153-sonder.json) |
 | Sonder: Lights of Little Tokyo | 219589 | [219589-sonder-lights-of-little-tokyo.json](./219589-sonder-lights-of-little-tokyo.json) |
 | Song Animals | 116101 | [116101-song-animals.json](./116101-song-animals.json) |
 | Song Beater: Quite My Tempo! | 119993 | [119993-song-beater-quite-my-tempo.json](./119993-song-beater-quite-my-tempo.json) |
@@ -14196,6 +14201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Latte | 364380 | [364380-spirit-latte.json](./364380-spirit-latte.json) |
 | Spirit Legends: Finding Balance - Collector's Edition | 338707 | [338707-spirit-legends-finding-balance-collectors-edition.json](./338707-spirit-legends-finding-balance-collectors-edition.json) |
 | Spirit Legends: Solar Eclipse - Collector's Edition | 338706 | [338706-spirit-legends-solar-eclipse-collectors-edition.json](./338706-spirit-legends-solar-eclipse-collectors-edition.json) |
+| Spirit Legends: The Aeon Heart | 181612 | [181612-spirit-legends-the-aeon-heart.json](./181612-spirit-legends-the-aeon-heart.json) |
 | Spirit Legends: Time for Change | 422082 | [422082-spirit-legends-time-for-change.json](./422082-spirit-legends-time-for-change.json) |
 | Spirit Level | 322997 | [322997-spirit-level.json](./322997-spirit-level.json) |
 | Spirit Lords | 59784 | [59784-spirit-lords.json](./59784-spirit-lords.json) |
@@ -17851,6 +17857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Tales of Tei-Shan | 301262 | [301262-strange-tales-of-tei-shan.json](./301262-strange-tales-of-tei-shan.json) |
 | Strange Terror from Beyond the Stars! | 133303 | [133303-strange-terror-from-beyond-the-stars.json](./133303-strange-terror-from-beyond-the-stars.json) |
 | Strange Terror from the Deep | 184939 | [184939-strange-terror-from-the-deep.json](./184939-strange-terror-from-the-deep.json) |
+| Strange Therapy | 181620 | [181620-strange-therapy.json](./181620-strange-therapy.json) |
 | Strange Things | 75775 | [75775-strange-things.json](./75775-strange-things.json) |
 | Strange Toilet | 294975 | [294975-strange-toilet.json](./294975-strange-toilet.json) |
 | Strange Winds | 383637 | [383637-strange-winds.json](./383637-strange-winds.json) |
@@ -20110,6 +20117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Frog's Quest | 108410 | [108410-super-frogs-quest.json](./108410-super-frogs-quest.json) |
 | Super Froppings | 418700 | [418700-super-froppings.json](./418700-super-froppings.json) |
 | Super Fruit Ninja | 287353 | [287353-super-fruit-ninja.json](./287353-super-fruit-ninja.json) |
+| Super Fun Soccer | 182167 | [182167-super-fun-soccer.json](./182167-super-fun-soccer.json) |
 | Super Furi Puzzles | 334833 | [334833-super-furi-puzzles.json](./334833-super-furi-puzzles.json) |
 | Super Gahaku | 417571 | [417571-super-gahaku.json](./417571-super-gahaku.json) |
 | Super Galaxy Ball | 219579 | [219579-super-galaxy-ball.json](./219579-super-galaxy-ball.json) |
@@ -20776,6 +20784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World and the Bois! | 268366 | [268366-super-mario-world-and-the-bois.json](./268366-super-mario-world-and-the-bois.json) |
 | Super Mario World Bros. | 268367 | [268367-super-mario-world-bros.json](./268367-super-mario-world-bros.json) |
 | Super Mario World Odyssey | 247185 | [247185-super-mario-world-odyssey.json](./247185-super-mario-world-odyssey.json) |
+| Super Mario World Randomizer | 182184 | [182184-super-mario-world-randomizer.json](./182184-super-mario-world-randomizer.json) |
 | Super Mario World Remastered | 339866 | [339866-super-mario-world-remastered.json](./339866-super-mario-world-remastered.json) |
 | Super Mario World Rumbled | 377736 | [377736-super-mario-world-rumbled.json](./377736-super-mario-world-rumbled.json) |
 | Super Mario World The Pit Version | 267973 | [267973-super-mario-world-the-pit-version.json](./267973-super-mario-world-the-pit-version.json) |
