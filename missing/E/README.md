@@ -1663,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elleria: Book 1 | 341539 | [341539-elleria-book-1.json](./341539-elleria-book-1.json) |
 | Ellie | 113681 | [113681-ellie.json](./113681-ellie.json) |
 | Ellie & Max | 175426 | [175426-ellie-and-max.json](./175426-ellie-and-max.json) |
+| Ellie: Help me out, please... | 208071 | [208071-ellie-help-me-out-please.json](./208071-ellie-help-me-out-please.json) |
 | Ellie's | 233968 | [233968-ellies.json](./233968-ellies.json) |
 | Ellie's Enchanted Garden | 209198 | [209198-ellies-enchanted-garden.json](./209198-ellies-enchanted-garden.json) |
 | Ellie's Farm 2: African Adventures - Collector's Edition | 356106 | [356106-ellies-farm-2-african-adventures-collectors-edition.json](./356106-ellies-farm-2-african-adventures-collectors-edition.json) |
@@ -2280,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Alice: Nana-iro Mahoutsukai Kiki Ippatsu! | 204986 | [204986-endless-alice-nana-iro-mahoutsukai-kiki-ippatsu.json](./204986-endless-alice-nana-iro-mahoutsukai-kiki-ippatsu.json) |
 | Endless Anime Golf | 245773 | [245773-endless-anime-golf.json](./245773-endless-anime-golf.json) |
 | Endless Apocalypse | 249246 | [249246-endless-apocalypse.json](./249246-endless-apocalypse.json) |
+| Endless Ark | 208087 | [208087-endless-ark.json](./208087-endless-ark.json) |
 | Endless Ascent | 289423 | [289423-endless-ascent.json](./289423-endless-ascent.json) |
 | Endless Asphalt | 382950 | [382950-endless-asphalt.json](./382950-endless-asphalt.json) |
 | Endless Battle | 109664 | [109664-endless-battle.json](./109664-endless-battle.json) |
