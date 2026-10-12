@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T12:05:51.203Z",
-  "total_soundtracks": 1521,
+  "generated_at": "2026-10-12T12:06:02.740Z",
+  "total_soundtracks": 1522,
   "games": [
     {
       "igdb_id": 7522,
@@ -5605,6 +5605,20 @@
           "spotify_url": "https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 428,
+      "game_name": "Final Fantasy Tactics",
+      "game_url": "https://ostdb.net/games/final-fantasy-tactics",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/c7/ec/33c7ec86-7fb3-8d92-3bd2-5c5c5047001a/mzi.tpayyyqa.tif/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "FINAL FANTASY TACTICS Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc",
+          "apple_music_url": "https://music.apple.com/us/album/final-fantasy-tactics-original-soundtrack/255190011",
+          "album_link_url": "https://album.link/i/255190011"
         }
       ]
     },
