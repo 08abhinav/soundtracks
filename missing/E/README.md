@@ -3177,6 +3177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Factory | 317983 | [317983-escape-factory.json](./317983-escape-factory.json) |
 | Escape First | 97243 | [97243-escape-first.json](./97243-escape-first.json) |
 | Escape First 3 | 131778 | [131778-escape-first-3.json](./131778-escape-first-3.json) |
+| Escape First Alchemist | 213537 | [213537-escape-first-alchemist.json](./213537-escape-first-alchemist.json) |
 | Escape from 1927 | 240498 | [240498-escape-from-1927.json](./240498-escape-from-1927.json) |
 | Escape From a Deserted Island: The Adventures of Nyanzou & Kumakichi | 154979 | [154979-escape-from-a-deserted-island-the-adventures-of-nyanzou-and-kumakichi.json](./154979-escape-from-a-deserted-island-the-adventures-of-nyanzou-and-kumakichi.json) |
 | Escape From A Fairytale -Snow White- | 82158 | [82158-escape-from-a-fairytale-snow-white.json](./82158-escape-from-a-fairytale-snow-white.json) |
@@ -3540,6 +3541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape! | 89659 | [89659-escape.json](./89659-escape.json) |
 | Escape! Skeleton.J | 254409 | [254409-escape-skeleton-j.json](./254409-escape-skeleton-j.json) |
 | Escape! Sloths and Palm Trees Island | 174625 | [174625-escape-sloths-and-palm-trees-island.json](./174625-escape-sloths-and-palm-trees-island.json) |
+| Escape!!! | 213526 | [213526-escape.json](./213526-escape.json) |
 | Escape30DayCircle | 360650 | [360650-escape30daycircle.json](./360650-escape30daycircle.json) |
 | Escaped Chasm | 116988 | [116988-escaped-chasm.json](./116988-escaped-chasm.json) |
 | Escapee GO! | 67059 | [67059-escapee-go.json](./67059-escapee-go.json) |
