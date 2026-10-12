@@ -3055,6 +3055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror Signal | 299434 | [299434-terror-signal.json](./299434-terror-signal.json) |
 | Terror Spikys | 268227 | [268227-terror-spikys.json](./268227-terror-spikys.json) |
 | Terror Squid | 122182 | [122182-terror-squid.json](./122182-terror-squid.json) |
+| Terror Time | 220792 | [220792-terror-time.json](./220792-terror-time.json) |
 | Terror Type: A.L.C.H.E.M.Y. | 338318 | [338318-terror-type-a-l-c-h-e-m-y.json](./338318-terror-type-a-l-c-h-e-m-y.json) |
 | Terrorarium | 115014 | [115014-terrorarium.json](./115014-terrorarium.json) |
 | Terrorbytes | 319843 | [319843-terrorbytes.json](./319843-terrorbytes.json) |
@@ -9662,6 +9663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Punisher: No Mercy | 21287 | [21287-the-punisher-no-mercy.json](./21287-the-punisher-no-mercy.json) |
 | The Punisher: The Ultimate Payback! | 49028 | [49028-the-punisher-the-ultimate-payback.json](./49028-the-punisher-the-ultimate-payback.json) |
 | The Puppet Master | 30910 | [30910-the-puppet-master.json](./30910-the-puppet-master.json) |
+| The Puppet Word Game | 220808 | [220808-the-puppet-word-game.json](./220808-the-puppet-word-game.json) |
 | The Puppeteer | 252010 | [252010-the-puppeteer.json](./252010-the-puppeteer.json) |
 | The Pure Bundle | 82409 | [82409-the-pure-bundle.json](./82409-the-pure-bundle.json) |
 | The Pure Wargame | 72279 | [72279-the-pure-wargame.json](./72279-the-pure-wargame.json) |
@@ -10926,6 +10928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Story Goes On Chapter 5 | 337693 | [337693-the-story-goes-on-chapter-5.json](./337693-the-story-goes-on-chapter-5.json) |
 | The Story Goes On Chapter 6 | 337694 | [337694-the-story-goes-on-chapter-6.json](./337694-the-story-goes-on-chapter-6.json) |
 | The Story of a World | 216154 | [216154-the-story-of-a-world.json](./216154-the-story-of-a-world.json) |
+| The Story of Barker | 220815 | [220815-the-story-of-barker.json](./220815-the-story-of-barker.json) |
 | The Story of Bill Bear | 173030 | [173030-the-story-of-bill-bear.json](./173030-the-story-of-bill-bear.json) |
 | The Story of King Aress | 125464 | [125464-the-story-of-king-aress.json](./125464-the-story-of-king-aress.json) |
 | The Story of Mikagoyama | 390661 | [390661-the-story-of-mikagoyama.json](./390661-the-story-of-mikagoyama.json) |
@@ -17713,6 +17716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic V | 149931 | [149931-traffic-v.json](./149931-traffic-v.json) |
 | Traffic X | 68096 | [68096-traffic-x.json](./68096-traffic-x.json) |
 | Traffic.io Car Games & Race | 240188 | [240188-traffic-io-car-games-and-race.json](./240188-traffic-io-car-games-and-race.json) |
+| Trafficker: 4th Generation Warfare | 220798 | [220798-trafficker-4th-generation-warfare.json](./220798-trafficker-4th-generation-warfare.json) |
 | TrafficVille 3D | 343846 | [343846-trafficville-3d.json](./343846-trafficville-3d.json) |
 | Traffix | 118755 | [118755-traffix.json](./118755-traffix.json) |
 | Traffix 3D | 296071 | [296071-traffix-3d.json](./296071-traffix-3d.json) |
@@ -18174,6 +18178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Feather River Canyon Enhanced: Oroville - Portola | 293691 | [293691-train-simulator-feather-river-canyon-enhanced-oroville-portola.json](./293691-train-simulator-feather-river-canyon-enhanced-oroville-portola.json) |
 | Train Simulator: Giselabahn: Saalfelden - Wörgl Route Add-On | 156478 | [156478-train-simulator-giselabahn-saalfelden-worgl-route-add-on.json](./156478-train-simulator-giselabahn-saalfelden-worgl-route-add-on.json) |
 | Train Simulator: Glasgow to Dunblane and Alloa Route | 264546 | [264546-train-simulator-glasgow-to-dunblane-and-alloa-route.json](./264546-train-simulator-glasgow-to-dunblane-and-alloa-route.json) |
+| Train Simulator: Huddersfield Line - Manchester: Leeds Route | 220791 | [220791-train-simulator-huddersfield-line-manchester-leeds-route.json](./220791-train-simulator-huddersfield-line-manchester-leeds-route.json) |
 | Train Simulator: Isle of Wight Route Add-On | 156483 | [156483-train-simulator-isle-of-wight-route-add-on.json](./156483-train-simulator-isle-of-wight-route-add-on.json) |
 | Train Simulator: London Subway | 103448 | [103448-train-simulator-london-subway.json](./103448-train-simulator-london-subway.json) |
 | Train Simulator: London Subway | 103488 | [103488-train-simulator-london-subway.json](./103488-train-simulator-london-subway.json) |
