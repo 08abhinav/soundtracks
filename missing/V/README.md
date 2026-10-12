@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegas Royal Jackpot CSS | 232370 | [232370-vegas-royal-jackpot-css.json](./232370-vegas-royal-jackpot-css.json) |
 | Vegas Stakes | 38410 | [38410-vegas-stakes.json](./38410-vegas-stakes.json) |
 | Vegas Stakes | 85469 | [85469-vegas-stakes.json](./85469-vegas-stakes.json) |
+| Vegas Tales | 185974 | [185974-vegas-tales.json](./185974-vegas-tales.json) |
 | Vege Bubble Shoot | 278490 | [278490-vege-bubble-shoot.json](./278490-vege-bubble-shoot.json) |
 | VegeMine | 272192 | [272192-vegemine.json](./272192-vegemine.json) |
 | Vegetable Game | 191569 | [191569-vegetable-game.json](./191569-vegetable-game.json) |
