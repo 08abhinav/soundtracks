@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maenovan | 168123 | [168123-maenovan.json](./168123-maenovan.json) |
 | Maerl Bay | 248578 | [248578-maerl-bay.json](./248578-maerl-bay.json) |
 | Maestria | 207841 | [207841-maestria.json](./207841-maestria.json) |
+| Maestro | 184279 | [184279-maestro.json](./184279-maestro.json) |
 | Maestro | 306924 | [306924-maestro.json](./306924-maestro.json) |
 | Maestro Mario | 328592 | [328592-maestro-mario.json](./328592-maestro-mario.json) |
 | Maestro: Music from the Void - Collector's Edition | 104804 | [104804-maestro-music-from-the-void-collectors-edition.json](./104804-maestro-music-from-the-void-collectors-edition.json) |
@@ -2385,6 +2386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario + Rabbids Sparks of Hope: The Tower of Doooom | 240300 | [240300-mario-rabbids-sparks-of-hope-the-tower-of-doooom.json](./240300-mario-rabbids-sparks-of-hope-the-tower-of-doooom.json) |
 | Mario + Wario Complete | 318037 | [318037-mario-wario-complete.json](./318037-mario-wario-complete.json) |
 | Mario 128 | 130354 | [130354-mario-128.json](./130354-mario-128.json) |
+| Mario 2Dyssey | 184321 | [184321-mario-2dyssey.json](./184321-mario-2dyssey.json) |
 | Mario 3: Vokrug Svyeta | 202673 | [202673-mario-3-vokrug-svyeta.json](./202673-mario-3-vokrug-svyeta.json) |
 | Mario 4: Kosmichyeskaya Odissyeya | 200539 | [200539-mario-4-kosmichyeskaya-odissyeya.json](./200539-mario-4-kosmichyeskaya-odissyeya.json) |
 | Mario 64 x Banjo Kazooie | 134018 | [134018-mario-64-x-banjo-kazooie.json](./134018-mario-64-x-banjo-kazooie.json) |
@@ -13706,6 +13708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Witch Wants Elixirs! | 385715 | [385715-my-witch-wants-elixirs.json](./385715-my-witch-wants-elixirs.json) |
 | My Wolf Girlfriend | 206199 | [206199-my-wolf-girlfriend.json](./206199-my-wolf-girlfriend.json) |
 | My Woods | 335652 | [335652-my-woods.json](./335652-my-woods.json) |
+| My World Still Burns | 184313 | [184313-my-world-still-burns.json](./184313-my-world-still-burns.json) |
 | My World, My Way | 21253 | [21253-my-world-my-way.json](./21253-my-world-my-way.json) |
 | My Xiuxian World | 341161 | [341161-my-xiuxian-world.json](./341161-my-xiuxian-world.json) |
 | My Young Boyfriend Part 1 | 298881 | [298881-my-young-boyfriend-part-1.json](./298881-my-young-boyfriend-part-1.json) |
