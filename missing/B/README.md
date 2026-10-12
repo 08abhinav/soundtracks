@@ -6938,6 +6938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Brothers | 127892 | [127892-blood-brothers.json](./127892-blood-brothers.json) |
 | Blood Brothers 2 | 59504 | [59504-blood-brothers-2.json](./59504-blood-brothers-2.json) |
 | Blood Bullets & Ballet | 135075 | [135075-blood-bullets-and-ballet.json](./135075-blood-bullets-and-ballet.json) |
+| Blood Burger | 202563 | [202563-blood-burger.json](./202563-blood-burger.json) |
 | Blood Card | 109850 | [109850-blood-card.json](./109850-blood-card.json) |
 | Blood City | 108386 | [108386-blood-city.json](./108386-blood-city.json) |
 | Blood Cleaner | 322804 | [322804-blood-cleaner.json](./322804-blood-cleaner.json) |
@@ -8559,6 +8560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boston Bomb Club | 10865 | [10865-boston-bomb-club.json](./10865-boston-bomb-club.json) |
 | Boston Nursing Home | 157174 | [157174-boston-nursing-home.json](./157174-boston-nursing-home.json) |
 | Bot Battles | 116835 | [116835-bot-battles.json](./116835-bot-battles.json) |
+| Bot Brigade | 202552 | [202552-bot-brigade.json](./202552-bot-brigade.json) |
 | Bot Colony | 16835 | [16835-bot-colony.json](./16835-bot-colony.json) |
 | Bot Crafter | 253584 | [253584-bot-crafter.json](./253584-bot-crafter.json) |
 | Bot Gaiden | 96218 | [96218-bot-gaiden.json](./96218-bot-gaiden.json) |
