@@ -1991,6 +1991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heads Up! Hot Dogs | 175345 | [175345-heads-up-hot-dogs.json](./175345-heads-up-hot-dogs.json) |
 | Heads Up! Netflix Edition | 362897 | [362897-heads-up-netflix-edition.json](./362897-heads-up-netflix-edition.json) |
 | Heads Up! Phones Down Edition | 275797 | [275797-heads-up-phones-down-edition.json](./275797-heads-up-phones-down-edition.json) |
+| Heads Will Roll: Reforged | 197592 | [197592-heads-will-roll-reforged.json](./197592-heads-will-roll-reforged.json) |
 | Heads Will Roll: Reforged - Not a Hero | 296904 | [296904-heads-will-roll-reforged-not-a-hero.json](./296904-heads-will-roll-reforged-not-a-hero.json) |
 | Heads Will Roll: Reforged - Threads of Destiny | 327860 | [327860-heads-will-roll-reforged-threads-of-destiny.json](./327860-heads-will-roll-reforged-threads-of-destiny.json) |
 | Heads-Up | 231634 | [231634-heads-up.json](./231634-heads-up.json) |
@@ -3570,6 +3571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Here Comes Niko! | 142405 | [142405-here-comes-niko.json](./142405-here-comes-niko.json) |
 | Here Comes the Bride | 82174 | [82174-here-comes-the-bride.json](./82174-here-comes-the-bride.json) |
 | Here Comes the Swarm | 361846 | [361846-here-comes-the-swarm.json](./361846-here-comes-the-swarm.json) |
+| Here Comes the Wiji Waji | 197622 | [197622-here-comes-the-wiji-waji.json](./197622-here-comes-the-wiji-waji.json) |
 | Here For Sweethearts | 184036 | [184036-here-for-sweethearts.json](./184036-here-for-sweethearts.json) |
 | Here Nya | 108054 | [108054-here-nya.json](./108054-here-nya.json) |
 | Here There Be Bears | 247993 | [247993-here-there-be-bears.json](./247993-here-there-be-bears.json) |
