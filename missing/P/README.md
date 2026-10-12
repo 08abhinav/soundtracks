@@ -4799,6 +4799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipe Dreamin' VR: The Big Easy | 160154 | [160154-pipe-dreamin-vr-the-big-easy.json](./160154-pipe-dreamin-vr-the-big-easy.json) |
 | Pipe Dreams | 232141 | [232141-pipe-dreams.json](./232141-pipe-dreams.json) |
 | Pipe Fitter | 172549 | [172549-pipe-fitter.json](./172549-pipe-fitter.json) |
+| Pipe Head Story | 196544 | [196544-pipe-head-story.json](./196544-pipe-head-story.json) |
 | Pipe Inspector: Plumbocalypse | 336534 | [336534-pipe-inspector-plumbocalypse.json](./336534-pipe-inspector-plumbocalypse.json) |
 | Pipe It Puzzle Challenge | 167610 | [167610-pipe-it-puzzle-challenge.json](./167610-pipe-it-puzzle-challenge.json) |
 | Pipe Line Puzzle | 268572 | [268572-pipe-line-puzzle.json](./268572-pipe-line-puzzle.json) |
@@ -6643,6 +6644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Mirror | 57894 | [57894-pocket-mirror.json](./57894-pocket-mirror.json) |
 | Pocket Mirror: GoldenerTraum | 211637 | [211637-pocket-mirror-goldenertraum.json](./211637-pocket-mirror-goldenertraum.json) |
 | Pocket Mobsters | 63146 | [63146-pocket-mobsters.json](./63146-pocket-mobsters.json) |
+| Pocket Monster | 196530 | [196530-pocket-monster.json](./196530-pocket-monster.json) |
 | Pocket Monsters Diamond & Pearl: Pokémon wo Sagase! Meiro de Daibouken! | 125325 | [125325-pocket-monsters-diamond-and-pearl-pokemon-wo-sagase-meiro-de-daibouken.json](./125325-pocket-monsters-diamond-and-pearl-pokemon-wo-sagase-meiro-de-daibouken.json) |
 | Pocket Monsters RPG | 130335 | [130335-pocket-monsters-rpg.json](./130335-pocket-monsters-rpg.json) |
 | Pocket Monsters: Suuji wo Tsukamaeyou! | 63849 | [63849-pocket-monsters-suuji-wo-tsukamaeyou.json](./63849-pocket-monsters-suuji-wo-tsukamaeyou.json) |
@@ -7884,6 +7886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ponon! Deluxe | 263576 | [263576-ponon-deluxe.json](./263576-ponon-deluxe.json) |
 | PonPonTown | 372986 | [372986-ponpontown.json](./372986-ponpontown.json) |
 | Ponpu | 132777 | [132777-ponpu.json](./132777-ponpu.json) |
+| Ponster | 196511 | [196511-ponster.json](./196511-ponster.json) |
 | Pontefract | 139317 | [139317-pontefract.json](./139317-pontefract.json) |
 | Pontifex | 78898 | [78898-pontifex.json](./78898-pontifex.json) |
 | Pony Card Match HD | 96740 | [96740-pony-card-match-hd.json](./96740-pony-card-match-hd.json) |
@@ -9088,6 +9091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prickle | 297186 | [297186-prickle.json](./297186-prickle.json) |
 | Prickly Goo To The Rescue | 328051 | [328051-prickly-goo-to-the-rescue.json](./328051-prickly-goo-to-the-rescue.json) |
 | Pricolage: Idolized | 260237 | [260237-pricolage-idolized.json](./260237-pricolage-idolized.json) |
+| Priconne! Grand Masters | 196523 | [196523-priconne-grand-masters.json](./196523-priconne-grand-masters.json) |
 | Pride | 181737 | [181737-pride.json](./181737-pride.json) |
 | Pride and Prejudice: Blood Ties | 192776 | [192776-pride-and-prejudice-blood-ties.json](./192776-pride-and-prejudice-blood-ties.json) |
 | Pride FC: Fighting Championships | 18276 | [18276-pride-fc-fighting-championships.json](./18276-pride-fc-fighting-championships.json) |
