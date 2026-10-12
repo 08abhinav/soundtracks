@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween 1 | 300824 | [300824-halloween-1.json](./300824-halloween-1.json) |
 | Halloween 2: Asylum | 357182 | [357182-halloween-2-asylum.json](./357182-halloween-2-asylum.json) |
 | Halloween 3D | 106514 | [106514-halloween-3d.json](./106514-halloween-3d.json) |
+| Halloween Candy Break | 187763 | [187763-halloween-candy-break.json](./187763-halloween-candy-break.json) |
 | Halloween Candy Break 2: Head to Head | 214515 | [214515-halloween-candy-break-2-head-to-head.json](./214515-halloween-candy-break-2-head-to-head.json) |
 | Halloween Candy Break Head to Head | 210084 | [210084-halloween-candy-break-head-to-head.json](./210084-halloween-candy-break-head-to-head.json) |
 | Halloween Chronicles: Behind the Door | 187938 | [187938-halloween-chronicles-behind-the-door.json](./187938-halloween-chronicles-behind-the-door.json) |
@@ -2659,6 +2660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell-o | 301963 | [301963-hell-o.json](./301963-hell-o.json) |
 | Hell, the Dungeon Again! | 96259 | [96259-hell-the-dungeon-again.json](./96259-hell-the-dungeon-again.json) |
 | Hell: A Cyberpunk Thriller | 4297 | [4297-hell-a-cyberpunk-thriller.json](./4297-hell-a-cyberpunk-thriller.json) |
+| Hell: Fight for Gilrand | 187781 | [187781-hell-fight-for-gilrand.json](./187781-hell-fight-for-gilrand.json) |
 | Hell's Bell | 295861 | [295861-hells-bell.json](./295861-hells-bell.json) |
 | Hell's Cooking Joy | 339107 | [339107-hells-cooking-joy.json](./339107-hells-cooking-joy.json) |
 | Hell's Descent | 318764 | [318764-hells-descent.json](./318764-hells-descent.json) |
@@ -6181,6 +6183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoops Madness | 140354 | [140354-hoops-madness.json](./140354-hoops-madness.json) |
 | Hoops Manager 2 | 175249 | [175249-hoops-manager-2.json](./175249-hoops-manager-2.json) |
 | Hoops Mania | 417382 | [417382-hoops-mania.json](./417382-hoops-mania.json) |
+| Hoops Puzzler | 187796 | [187796-hoops-puzzler.json](./187796-hoops-puzzler.json) |
 | Hoops: Shut Up and Jam | 245294 | [245294-hoops-shut-up-and-jam.json](./245294-hoops-shut-up-and-jam.json) |
 | Hoops: Shut Up and Jam 2 | 245293 | [245293-hoops-shut-up-and-jam-2.json](./245293-hoops-shut-up-and-jam-2.json) |
 | Hoopworld | 21744 | [21744-hoopworld.json](./21744-hoopworld.json) |
@@ -6206,6 +6209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop N' Swap | 340481 | [340481-hop-n-swap.json](./340481-hop-n-swap.json) |
 | Hop Off | 184958 | [184958-hop-off.json](./184958-hop-off.json) |
 | Hop Rocket | 384806 | [384806-hop-rocket.json](./384806-hop-rocket.json) |
+| Hop Skip and Thump | 187257 | [187257-hop-skip-and-thump.json](./187257-hop-skip-and-thump.json) |
 | Hop Skip Jump | 149014 | [149014-hop-skip-jump.json](./149014-hop-skip-jump.json) |
 | Hop Spring Girl | 296658 | [296658-hop-spring-girl.json](./296658-hop-spring-girl.json) |
 | Hop Step Idol | 202400 | [202400-hop-step-idol.json](./202400-hop-step-idol.json) |
@@ -7599,6 +7603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunkfrat | 374401 | [374401-hunkfrat.json](./374401-hunkfrat.json) |
 | Hunsvotti | 392167 | [392167-hunsvotti.json](./392167-hunsvotti.json) |
 | Hunt | 147908 | [147908-hunt.json](./147908-hunt.json) |
+| Hunt | 187765 | [187765-hunt.json](./187765-hunt.json) |
 | Hunt | 95447 | [95447-hunt.json](./95447-hunt.json) |
 | Hunt 'n Sneak | 111193 | [111193-hunt-n-sneak.json](./111193-hunt-n-sneak.json) |
 | Hunt & Seek | 224042 | [224042-hunt-and-seek.json](./224042-hunt-and-seek.json) |
