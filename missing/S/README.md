@@ -10293,6 +10293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Cesto | 286327 | [286327-sol-cesto.json](./286327-sol-cesto.json) |
 | Sol Cresta | 148382 | [148382-sol-cresta.json](./148382-sol-cresta.json) |
 | Sol Cresta: Dramatic DLC | 201018 | [201018-sol-cresta-dramatic-dlc.json](./201018-sol-cresta-dramatic-dlc.json) |
+| Sol Cresta: Dramatic Edition | 199868 | [199868-sol-cresta-dramatic-edition.json](./199868-sol-cresta-dramatic-edition.json) |
 | Sol Divide | 35026 | [35026-sol-divide.json](./35026-sol-divide.json) |
 | SOL Exodus | 10886 | [10886-sol-exodus.json](./10886-sol-exodus.json) |
 | Sol Frontiers | 317033 | [317033-sol-frontiers.json](./317033-sol-frontiers.json) |
@@ -22189,6 +22190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Soul Universe | 264026 | [264026-sushi-soul-universe.json](./264026-sushi-soul-universe.json) |
 | Sushi Striker: The Way of Sushido | 37179 | [37179-sushi-striker-the-way-of-sushido.json](./37179-sushi-striker-the-way-of-sushido.json) |
 | Sushi Surf: Endless Run Fun | 196592 | [196592-sushi-surf-endless-run-fun.json](./196592-sushi-surf-endless-run-fun.json) |
+| Sushi Time!: Complete Edition | 199840 | [199840-sushi-time-complete-edition.json](./199840-sushi-time-complete-edition.json) |
 | Sushi Time!: Premium Edition | 241402 | [241402-sushi-time-premium-edition.json](./241402-sushi-time-premium-edition.json) |
 | Sushi vs. Remilia Scarlet | 206739 | [206739-sushi-vs-remilia-scarlet.json](./206739-sushi-vs-remilia-scarlet.json) |
 | Sushi Yummy | 399183 | [399183-sushi-yummy.json](./399183-sushi-yummy.json) |
