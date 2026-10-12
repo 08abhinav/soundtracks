@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T05:50:39.095Z",
-  "total_soundtracks": 1492,
+  "generated_at": "2026-10-12T05:50:49.520Z",
+  "total_soundtracks": 1493,
   "games": [
     {
       "igdb_id": 7522,
@@ -11603,6 +11603,20 @@
           "spotify_url": "https://open.spotify.com/album/3dzPS0HCk5ryzA6qHOPP9U",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 846,
+      "game_name": "Red Faction: Guerrilla",
+      "game_url": "https://ostdb.net/games/red-faction-guerrilla",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/65/4e/f0/654ef067-6e0a-44e4-3646-680fc4d992df/cover.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Red Faction: Guerrilla (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4oDKarFLFHmhtrOkrxM2CV",
+          "apple_music_url": "https://music.apple.com/us/album/red-faction-guerrilla-original-soundtrack/1725361977",
+          "album_link_url": "https://album.link/i/1725361977"
         }
       ]
     },
