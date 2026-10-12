@@ -9324,6 +9324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Architect: Psych Ward - Warden's Edition | 148526 | [148526-prison-architect-psych-ward-wardens-edition.json](./148526-prison-architect-psych-ward-wardens-edition.json) |
 | Prison Architect: Second Chances | 148519 | [148519-prison-architect-second-chances.json](./148519-prison-architect-second-chances.json) |
 | Prison Architect: Total Lockdown Bundle | 164789 | [164789-prison-architect-total-lockdown-bundle.json](./164789-prison-architect-total-lockdown-bundle.json) |
+| Prison Architect: Undead | 220790 | [220790-prison-architect-undead.json](./220790-prison-architect-undead.json) |
 | Prison Ball: Full Blown | 167214 | [167214-prison-ball-full-blown.json](./167214-prison-ball-full-blown.json) |
 | Prison Ball: Full Blown - Cheyenne Storm | 167221 | [167221-prison-ball-full-blown-cheyenne-storm.json](./167221-prison-ball-full-blown-cheyenne-storm.json) |
 | Prison Ball: Full Blown - Deborah Fire | 167220 | [167220-prison-ball-full-blown-deborah-fire.json](./167220-prison-ball-full-blown-deborah-fire.json) |
