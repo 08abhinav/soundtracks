@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salmon City | 388166 | [388166-salmon-city.json](./388166-salmon-city.json) |
 | Salmon Run | 69800 | [69800-salmon-run.json](./69800-salmon-run.json) |
 | Salmon Tower | 404182 | [404182-salmon-tower.json](./404182-salmon-tower.json) |
+| Salome's Kiss | 190940 | [190940-salomes-kiss.json](./190940-salomes-kiss.json) |
 | Salomónico | 304219 | [304219-salomonico.json](./304219-salomonico.json) |
 | Saloon Cars Deluxe | 13256 | [13256-saloon-cars-deluxe.json](./13256-saloon-cars-deluxe.json) |
 | Saloon Sally | 13754 | [13754-saloon-sally.json](./13754-saloon-sally.json) |
@@ -1605,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Them | 106536 | [106536-save-them.json](./106536-save-them.json) |
 | Save Thine Kingdom | 115561 | [115561-save-thine-kingdom.json](./115561-save-thine-kingdom.json) |
 | Save Twiks | 291726 | [291726-save-twiks.json](./291726-save-twiks.json) |
+| Save Us | 190931 | [190931-save-us.json](./190931-save-us.json) |
 | Save Us, Doctor Faust! | 416827 | [416827-save-us-doctor-faust.json](./416827-save-us-doctor-faust.json) |
 | Save Your Soul | 370187 | [370187-save-your-soul.json](./370187-save-your-soul.json) |
 | Save: Teaser - Before the Dawn | 313463 | [313463-save-teaser-before-the-dawn.json](./313463-save-teaser-before-the-dawn.json) |
@@ -2251,6 +2253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Hours to Go | 296462 | [296462-scp-hours-to-go.json](./296462-scp-hours-to-go.json) |
 | SCP: Intrusion | 207603 | [207603-scp-intrusion.json](./207603-scp-intrusion.json) |
 | SCP: Josie | 260410 | [260410-scp-josie.json](./260410-scp-josie.json) |
+| SCP: Keter | 190925 | [190925-scp-keter.json](./190925-scp-keter.json) |
 | SCP: Liberation | 125908 | [125908-scp-liberation.json](./125908-scp-liberation.json) |
 | SCP: Maintain & Control | 202098 | [202098-scp-maintain-and-control.json](./202098-scp-maintain-and-control.json) |
 | SCP: Mystery Man | 320169 | [320169-scp-mystery-man.json](./320169-scp-mystery-man.json) |
@@ -8260,6 +8263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SL The Game | 320274 | [320274-sl-the-game.json](./320274-sl-the-game.json) |
 | Slab | 98708 | [98708-slab.json](./98708-slab.json) |
 | Slackball | 392905 | [392905-slackball.json](./392905-slackball.json) |
+| Slacker Dungeon | 190904 | [190904-slacker-dungeon.json](./190904-slacker-dungeon.json) |
 | Slackers: Carts of Glory | 293685 | [293685-slackers-carts-of-glory.json](./293685-slackers-carts-of-glory.json) |
 | Slackjaw | 355520 | [355520-slackjaw.json](./355520-slackjaw.json) |
 | Slackline VR | 194920 | [194920-slackline-vr.json](./194920-slackline-vr.json) |
@@ -14962,6 +14966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squarelets | 297054 | [297054-squarelets.json](./297054-squarelets.json) |
 | Squarelings | 416009 | [416009-squarelings.json](./416009-squarelings.json) |
 | Squarely | 364574 | [364574-squarely.json](./364574-squarely.json) |
+| SquareMan-Boy | 190939 | [190939-squareman-boy.json](./190939-squareman-boy.json) |
 | Squarena | 191829 | [191829-squarena.json](./191829-squarena.json) |
 | Squarepinski | 372994 | [372994-squarepinski.json](./372994-squarepinski.json) |
 | Squares | 101610 | [101610-squares.json](./101610-squares.json) |
