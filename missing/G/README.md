@@ -1288,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garrison I-II | 112231 | [112231-garrison-i-ii.json](./112231-garrison-i-ii.json) |
 | Garrison II: The Legend Continues | 47155 | [47155-garrison-ii-the-legend-continues.json](./47155-garrison-ii-the-legend-continues.json) |
 | Garry Kitchen's Super Battletank: War in the Gulf | 46681 | [46681-garry-kitchens-super-battletank-war-in-the-gulf.json](./46681-garry-kitchens-super-battletank-war-in-the-gulf.json) |
+| Garry's worst fear | 220788 | [220788-garrys-worst-fear.json](./220788-garrys-worst-fear.json) |
 | Garshasp: Temple of the Dragon | 16247 | [16247-garshasp-temple-of-the-dragon.json](./16247-garshasp-temple-of-the-dragon.json) |
 | Garshasp: The Monster Slayer | 3279 | [3279-garshasp-the-monster-slayer.json](./3279-garshasp-the-monster-slayer.json) |
 | Garten of Banban 0 | 320854 | [320854-garten-of-banban-0.json](./320854-garten-of-banban-0.json) |
@@ -2029,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | geoDefense | 90909 | [90909-geodefense.json](./90909-geodefense.json) |
 | GeoDefense Swarm | 41499 | [41499-geodefense-swarm.json](./41499-geodefense-swarm.json) |
 | Geodessey | 111753 | [111753-geodessey.json](./111753-geodessey.json) |
+| GeoDiscover | 220809 | [220809-geodiscover.json](./220809-geodiscover.json) |
 | Geodyssey | 356017 | [356017-geodyssey.json](./356017-geodyssey.json) |
 | GeoEmpires | 342644 | [342644-geoempires.json](./342644-geoempires.json) |
 | GeoExpert - Russia Geography | 103152 | [103152-geoexpert-russia-geography.json](./103152-geoexpert-russia-geography.json) |
