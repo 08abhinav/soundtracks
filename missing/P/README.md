@@ -10487,6 +10487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ProjectTeo | 149932 | [149932-projectteo.json](./149932-projectteo.json) |
 | Projekt Everblood | 213590 | [213590-projekt-everblood.json](./213590-projekt-everblood.json) |
 | Projekt Godhand | 329766 | [329766-projekt-godhand.json](./329766-projekt-godhand.json) |
+| Projekt Melody: A Nut Between Worlds! | 186659 | [186659-projekt-melody-a-nut-between-worlds.json](./186659-projekt-melody-a-nut-between-worlds.json) |
 | Projekt Z: Beyond Order | 138752 | [138752-projekt-z-beyond-order.json](./138752-projekt-z-beyond-order.json) |
 | Projekt: Passion - Season 2 | 297187 | [297187-projekt-passion-season-2.json](./297187-projekt-passion-season-2.json) |
 | Prokshov | 143728 | [143728-prokshov.json](./143728-prokshov.json) |
