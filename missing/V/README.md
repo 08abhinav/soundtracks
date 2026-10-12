@@ -1331,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Videophobia | 327615 | [327615-videophobia.json](./327615-videophobia.json) |
 | Videopulp: Super Carty's Dread | 133320 | [133320-videopulp-super-cartys-dread.json](./133320-videopulp-super-cartys-dread.json) |
 | Videoverse | 213618 | [213618-videoverse.json](./213618-videoverse.json) |
+| Viduzzles | 214704 | [214704-viduzzles.json](./214704-viduzzles.json) |
 | Vidya Poker | 367836 | [367836-vidya-poker.json](./367836-vidya-poker.json) |
 | Vie: Itsuka no Natsu no Hi. | 131377 | [131377-vie-itsuka-no-natsu-no-hi.json](./131377-vie-itsuka-no-natsu-no-hi.json) |
 | Vie: Try Again | 382560 | [382560-vie-try-again.json](./382560-vie-try-again.json) |
@@ -2306,6 +2307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voracious | 118148 | [118148-voracious.json](./118148-voracious.json) |
 | Voracious | 351770 | [351770-voracious.json](./351770-voracious.json) |
 | Vorago | 312560 | [312560-vorago.json](./312560-vorago.json) |
+| Vorax | 214692 | [214692-vorax.json](./214692-vorax.json) |
 | Voraxis | 387350 | [387350-voraxis.json](./387350-voraxis.json) |
 | Vorble | 22208 | [22208-vorble.json](./22208-vorble.json) |
 | Vordakk's Keep | 268425 | [268425-vordakks-keep.json](./268425-vordakks-keep.json) |
