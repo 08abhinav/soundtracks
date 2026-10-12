@@ -4335,6 +4335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | North Atlantic Convoy Raider | 23997 | [23997-north-atlantic-convoy-raider.json](./23997-north-atlantic-convoy-raider.json) |
 | North Modding Company: Bergsbruk | 143689 | [143689-north-modding-company-bergsbruk.json](./143689-north-modding-company-bergsbruk.json) |
 | North of Iraq Part 1 | 128318 | [128318-north-of-iraq-part-1.json](./128318-north-of-iraq-part-1.json) |
+| North of Nowhere | 216970 | [216970-north-of-nowhere.json](./216970-north-of-nowhere.json) |
 | North Pole Workshop | 411062 | [411062-north-pole-workshop.json](./411062-north-pole-workshop.json) |
 | North Salvation | 246475 | [246475-north-salvation.json](./246475-north-salvation.json) |
 | North Shore | 349265 | [349265-north-shore.json](./349265-north-shore.json) |
@@ -4347,6 +4348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northern Blade | 145643 | [145643-northern-blade.json](./145643-northern-blade.json) |
 | Northern Blades | 148472 | [148472-northern-blades.json](./148472-northern-blades.json) |
 | Northern Guilds | 193338 | [193338-northern-guilds.json](./193338-northern-guilds.json) |
+| Northern Kingdoms | 216969 | [216969-northern-kingdoms.json](./216969-northern-kingdoms.json) |
 | Northern Lights | 345534 | [345534-northern-lights.json](./345534-northern-lights.json) |
 | Northern Lights | 345535 | [345535-northern-lights.json](./345535-northern-lights.json) |
 | Northern Regime | 31875 | [31875-northern-regime.json](./31875-northern-regime.json) |
@@ -4434,6 +4436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Alone | 108847 | [108847-not-alone.json](./108847-not-alone.json) |
 | Not Alone | 184094 | [184094-not-alone.json](./184094-not-alone.json) |
 | Not Alone | 223040 | [223040-not-alone.json](./223040-not-alone.json) |
+| Not Alone: Remake | 216971 | [216971-not-alone-remake.json](./216971-not-alone-remake.json) |
 | Not an Aim Trainer | 305776 | [305776-not-an-aim-trainer.json](./305776-not-an-aim-trainer.json) |
 | Not An NPC Game | 418297 | [418297-not-an-npc-game.json](./418297-not-an-npc-game.json) |
 | Not Another Advent Story | 210496 | [210496-not-another-advent-story.json](./210496-not-another-advent-story.json) |
@@ -4575,6 +4578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Island | 144768 | [144768-nova-island.json](./144768-nova-island.json) |
 | Nova Jumper | 414388 | [414388-nova-jumper.json](./414388-nova-jumper.json) |
 | Nova Lands | 137931 | [137931-nova-lands.json](./137931-nova-lands.json) |
+| Nova Lands: Emilia's Mission | 216972 | [216972-nova-lands-emilias-mission.json](./216972-nova-lands-emilias-mission.json) |
 | Nova Odessa: The Demon Trainer | 202672 | [202672-nova-odessa-the-demon-trainer.json](./202672-nova-odessa-the-demon-trainer.json) |
 | Nova Parkour | 137945 | [137945-nova-parkour.json](./137945-nova-parkour.json) |
 | Nova Patria | 353828 | [353828-nova-patria.json](./353828-nova-patria.json) |
@@ -4608,6 +4612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | November | 255893 | [255893-november.json](./255893-november.json) |
 | November 5th | 262561 | [262561-november-5th.json](./262561-november-5th.json) |
 | Novena Diabolos | 132267 | [132267-novena-diabolos.json](./132267-novena-diabolos.json) |
+| Novi Cube | 216973 | [216973-novi-cube.json](./216973-novi-cube.json) |
 | Novivors | 301984 | [301984-novivors.json](./301984-novivors.json) |
 | Novopangea | 277671 | [277671-novopangea.json](./277671-novopangea.json) |
 | Novovu | 130879 | [130879-novovu.json](./130879-novovu.json) |
@@ -4645,6 +4650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nowhere Road | 384861 | [384861-nowhere-road.json](./384861-nowhere-road.json) |
 | Nowhere to Run | 407377 | [407377-nowhere-to-run.json](./407377-nowhere-to-run.json) |
 | Nowhere, MI | 248793 | [248793-nowhere-mi.json](./248793-nowhere-mi.json) |
+| Nowhere: Mysterious Artifacts | 216974 | [216974-nowhere-mysterious-artifacts.json](./216974-nowhere-mysterious-artifacts.json) |
 | NowLoading Forever | 406649 | [406649-nowloading-forever.json](./406649-nowloading-forever.json) |
 | Nowotnik Puzzle | 138660 | [138660-nowotnik-puzzle.json](./138660-nowotnik-puzzle.json) |
 | Nowv | 320541 | [320541-nowv.json](./320541-nowv.json) |
@@ -5012,6 +5018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyotai Inkan: Utsurikawaru Chijokuteki Koukishin | 313235 | [313235-nyotai-inkan-utsurikawaru-chijokuteki-koukishin.json](./313235-nyotai-inkan-utsurikawaru-chijokuteki-koukishin.json) |
 | Nyra: The Fall of Light | 390097 | [390097-nyra-the-fall-of-light.json](./390097-nyra-the-fall-of-light.json) |
 | Nyrthos | 120242 | [120242-nyrthos.json](./120242-nyrthos.json) |
+| Nysunder | 216975 | [216975-nysunder.json](./216975-nysunder.json) |
 | NYT Crossplay: Play and Spell | 387535 | [387535-nyt-crossplay-play-and-spell.json](./387535-nyt-crossplay-play-and-spell.json) |
 | NYT Games | 280218 | [280218-nyt-games.json](./280218-nyt-games.json) |
 | Nyx | 98804 | [98804-nyx.json](./98804-nyx.json) |
