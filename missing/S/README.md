@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailing | 38928 | [38928-sailing.json](./38928-sailing.json) |
 | Sailing Alone: Aftermath | 312708 | [312708-sailing-alone-aftermath.json](./312708-sailing-alone-aftermath.json) |
 | Sailing Era | 223172 | [223172-sailing-era.json](./223172-sailing-era.json) |
+| Sailing Simulator: Baltic Sea & Caribbean | 195998 | [195998-sailing-simulator-baltic-sea-and-caribbean.json](./195998-sailing-simulator-baltic-sea-and-caribbean.json) |
 | Sailing the Winds & New Tanks | 375160 | [375160-sailing-the-winds-and-new-tanks.json](./375160-sailing-the-winds-and-new-tanks.json) |
 | Sailist | 244333 | [244333-sailist.json](./244333-sailist.json) |
 | Sailor Cats | 202708 | [202708-sailor-cats.json](./202708-sailor-cats.json) |
@@ -437,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saimai Rd | 196635 | [196635-saimai-rd.json](./196635-saimai-rd.json) |
 | Saimazoom | 45326 | [45326-saimazoom.json](./45326-saimazoom.json) |
 | Saimin Choukyou Shimai | 108866 | [108866-saimin-choukyou-shimai.json](./108866-saimin-choukyou-shimai.json) |
+| Saimin Gakushuu: Secret Desire | 195970 | [195970-saimin-gakushuu-secret-desire.json](./195970-saimin-gakushuu-secret-desire.json) |
 | Saimin Reiki | 59036 | [59036-saimin-reiki.json](./59036-saimin-reiki.json) |
 | Saimin School Days: Hypnotic School Days | 239000 | [239000-saimin-school-days-hypnotic-school-days.json](./239000-saimin-school-days-hypnotic-school-days.json) |
 | Saint | 94739 | [94739-saint.json](./94739-saint.json) |
@@ -1843,6 +1845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Wife Chapter 2 | 303092 | [303092-scary-wife-chapter-2.json](./303092-scary-wife-chapter-2.json) |
 | Scaryfish III | 71786 | [71786-scaryfish-iii.json](./71786-scaryfish-iii.json) |
 | Scatch 2: The Painter Cat | 278983 | [278983-scatch-2-the-painter-cat.json](./278983-scatch-2-the-painter-cat.json) |
+| Scatch: The Painter Cat | 195960 | [195960-scatch-the-painter-cat.json](./195960-scatch-the-painter-cat.json) |
 | Scattered Ashes | 268966 | [268966-scattered-ashes.json](./268966-scattered-ashes.json) |
 | Scattered Wings | 398578 | [398578-scattered-wings.json](./398578-scattered-wings.json) |
 | Scattergories Weekly | 376139 | [376139-scattergories-weekly.json](./376139-scattergories-weekly.json) |
@@ -10601,6 +10604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Stories | 180280 | [180280-solitaire-stories.json](./180280-solitaire-stories.json) |
 | Solitaire Story 3 | 205024 | [205024-solitaire-story-3.json](./205024-solitaire-story-3.json) |
 | Solitaire Superstars | 96764 | [96764-solitaire-superstars.json](./96764-solitaire-superstars.json) |
+| Solitaire TED and PET | 195965 | [195965-solitaire-ted-and-pet.json](./195965-solitaire-ted-and-pet.json) |
 | Solitaire Till Dawn | 87179 | [87179-solitaire-till-dawn.json](./87179-solitaire-till-dawn.json) |
 | Solitaire Twin Pack | 122310 | [122310-solitaire-twin-pack.json](./122310-solitaire-twin-pack.json) |
 | Solitaire Twist Collection | 54387 | [54387-solitaire-twist-collection.json](./54387-solitaire-twist-collection.json) |
@@ -12720,6 +12724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Orcs Brawl | 348895 | [348895-space-orcs-brawl.json](./348895-space-orcs-brawl.json) |
 | Space Out | 195166 | [195166-space-out.json](./195166-space-out.json) |
 | Space Out | 72627 | [72627-space-out.json](./72627-space-out.json) |
+| Space Overlord: I got Isekai'd into a Sci-fi World | 195979 | [195979-space-overlord-i-got-isekaid-into-a-sci-fi-world.json](./195979-space-overlord-i-got-isekaid-into-a-sci-fi-world.json) |
 | Space Papers: Planet's Border | 277840 | [277840-space-papers-planets-border.json](./277840-space-papers-planets-border.json) |
 | Space Phallus | 66369 | [66369-space-phallus.json](./66369-space-phallus.json) |
 | Space Piercer | 192251 | [192251-space-piercer.json](./192251-space-piercer.json) |
@@ -15900,6 +15905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wolves 3: Ashes of Victory | 65847 | [65847-star-wolves-3-ashes-of-victory.json](./65847-star-wolves-3-ashes-of-victory.json) |
 | Star Wolves 3: Civil War | 9851 | [9851-star-wolves-3-civil-war.json](./9851-star-wolves-3-civil-war.json) |
 | Star Word | 318784 | [318784-star-word.json](./318784-star-word.json) |
+| Star Zeal 4x | 195975 | [195975-star-zeal-4x.json](./195975-star-zeal-4x.json) |
 | Star-blaze | 15377 | [15377-star-blaze.json](./15377-star-blaze.json) |
 | Star-Crossed Myth: The Department of Punishments | 123451 | [123451-star-crossed-myth-the-department-of-punishments.json](./123451-star-crossed-myth-the-department-of-punishments.json) |
 | Star-Crossed Myth: The Department of Punishments - Constellations of Love: Dui | 238070 | [238070-star-crossed-myth-the-department-of-punishments-constellations-of-love-dui.json](./238070-star-crossed-myth-the-department-of-punishments-constellations-of-love-dui.json) |
@@ -21448,6 +21454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Turbo Demon Busters! | 74860 | [74860-super-turbo-demon-busters.json](./74860-super-turbo-demon-busters.json) |
 | Super Turbo Sudoku | 110960 | [110960-super-turbo-sudoku.json](./110960-super-turbo-sudoku.json) |
 | Super Turrican | 191878 | [191878-super-turrican.json](./191878-super-turrican.json) |
+| Super Turrican 2: Special Edition | 195988 | [195988-super-turrican-2-special-edition.json](./195988-super-turrican-2-special-edition.json) |
 | Super Turrican: Director's Cut | 172518 | [172518-super-turrican-directors-cut.json](./172518-super-turrican-directors-cut.json) |
 | Super Tutor: Spelling | 59376 | [59376-super-tutor-spelling.json](./59376-super-tutor-spelling.json) |
 | Super Tux Party | 184420 | [184420-super-tux-party.json](./184420-super-tux-party.json) |
@@ -21594,6 +21601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superheroes Fast Highway Racing Challenges | 100869 | [100869-superheroes-fast-highway-racing-challenges.json](./100869-superheroes-fast-highway-racing-challenges.json) |
 | Superheroes: Power of New Horizons Legacy | 324124 | [324124-superheroes-power-of-new-horizons-legacy.json](./324124-superheroes-power-of-new-horizons-legacy.json) |
 | Superhot Prototype | 18119 | [18119-superhot-prototype.json](./18119-superhot-prototype.json) |
+| SuperHot Quake | 195987 | [195987-superhot-quake.json](./195987-superhot-quake.json) |
 | Superhot Shooter 3D | 223902 | [223902-superhot-shooter-3d.json](./223902-superhot-shooter-3d.json) |
 | Superhot: One of Us Bundle | 155188 | [155188-superhot-one-of-us-bundle.json](./155188-superhot-one-of-us-bundle.json) |
 | Superhuman | 330798 | [330798-superhuman.json](./330798-superhuman.json) |
