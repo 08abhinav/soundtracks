@@ -4734,6 +4734,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chronicles of Moses and the Exodus | 151082 | [151082-the-chronicles-of-moses-and-the-exodus.json](./151082-the-chronicles-of-moses-and-the-exodus.json) |
 | The Chronicles of Narnia: Prince Caspian | 200910 | [200910-the-chronicles-of-narnia-prince-caspian.json](./200910-the-chronicles-of-narnia-prince-caspian.json) |
 | The Chronicles of Narnia: Prince Caspian | 4763 | [4763-the-chronicles-of-narnia-prince-caspian.json](./4763-the-chronicles-of-narnia-prince-caspian.json) |
+| The Chronicles of Narnia: The Lion, the Witch and the Wardrobe | 194237 | [194237-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.json](./194237-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.json) |
+| The Chronicles of Narnia: The Lion, the Witch and the Wardrobe | 194238 | [194238-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.json](./194238-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.json) |
 | The Chronicles of Narnia: The Lion, the Witch and the Wardrobe | 3857 | [3857-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.json](./3857-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.json) |
 | The Chronicles of Noah's Ark | 105244 | [105244-the-chronicles-of-noahs-ark.json](./105244-the-chronicles-of-noahs-ark.json) |
 | The Chronicles of Nyanya | 68669 | [68669-the-chronicles-of-nyanya.json](./68669-the-chronicles-of-nyanya.json) |
@@ -7058,6 +7060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Huntsman: Winter's Curse (Book 5) | 164440 | [164440-the-huntsman-winters-curse-book-5.json](./164440-the-huntsman-winters-curse-book-5.json) |
 | The Hurt in Secret | 369550 | [369550-the-hurt-in-secret.json](./369550-the-hurt-in-secret.json) |
 | The Hustle: Detroit Streets | 73266 | [73266-the-hustle-detroit-streets.json](./73266-the-hustle-detroit-streets.json) |
+| The Hydra | 194230 | [194230-the-hydra.json](./194230-the-hydra.json) |
 | The Hypnic Chain | 336729 | [336729-the-hypnic-chain.json](./336729-the-hypnic-chain.json) |
 | The Hypno Shop | 228364 | [228364-the-hypno-shop.json](./228364-the-hypno-shop.json) |
 | The I of It | 225292 | [225292-the-i-of-it.json](./225292-the-i-of-it.json) |
@@ -8589,6 +8592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Hotel | 253395 | [253395-the-lost-hotel.json](./253395-the-lost-hotel.json) |
 | The Lost Identity | 417354 | [417354-the-lost-identity.json](./417354-the-lost-identity.json) |
 | The Lost Inca Prophecy | 63122 | [63122-the-lost-inca-prophecy.json](./63122-the-lost-inca-prophecy.json) |
+| The Lost Island | 194248 | [194248-the-lost-island.json](./194248-the-lost-island.json) |
 | The Lost Island | 329582 | [329582-the-lost-island.json](./329582-the-lost-island.json) |
 | The Lost Island | 34248 | [34248-the-lost-island.json](./34248-the-lost-island.json) |
 | The Lost Island of Alanna | 71496 | [71496-the-lost-island-of-alanna.json](./71496-the-lost-island-of-alanna.json) |
@@ -11724,6 +11728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The tram of wishes | 152836 | [152836-the-tram-of-wishes.json](./152836-the-tram-of-wishes.json) |
 | The Transformers | 8015 | [8015-the-transformers.json](./8015-the-transformers.json) |
 | The Trap | 196838 | [196838-the-trap.json](./196838-the-trap.json) |
+| The Trap 2: Mindlock | 194222 | [194222-the-trap-2-mindlock.json](./194222-the-trap-2-mindlock.json) |
 | The Trap: Remake - Winter | 351098 | [351098-the-trap-remake-winter.json](./351098-the-trap-remake-winter.json) |
 | The Trap: Remastered | 170871 | [170871-the-trap-remastered.json](./170871-the-trap-remastered.json) |
 | The Trasamire Campaigns | 213418 | [213418-the-trasamire-campaigns.json](./213418-the-trasamire-campaigns.json) |
@@ -12075,6 +12080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wait | 128605 | [128605-the-wait.json](./128605-the-wait.json) |
 | The Waiting Room | 74695 | [74695-the-waiting-room.json](./74695-the-waiting-room.json) |
 | The Waitress | 337140 | [337140-the-waitress.json](./337140-the-waitress.json) |
+| The Wake | 194253 | [194253-the-wake.json](./194253-the-wake.json) |
 | The Wake Event | 418564 | [418564-the-wake-event.json](./418564-the-wake-event.json) |
 | The Wake of the Wyrm | 415904 | [415904-the-wake-of-the-wyrm.json](./415904-the-wake-of-the-wyrm.json) |
 | The Wakers | 204330 | [204330-the-wakers.json](./204330-the-wakers.json) |
@@ -16109,6 +16115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb of Pharaohs | 158140 | [158140-tomb-of-pharaohs.json](./158140-tomb-of-pharaohs.json) |
 | Tomb of Syrinx | 37292 | [37292-tomb-of-syrinx.json](./37292-tomb-of-syrinx.json) |
 | Tomb of the Bloodletter | 334195 | [334195-tomb-of-the-bloodletter.json](./334195-tomb-of-the-bloodletter.json) |
+| Tomb of the Brain | 194189 | [194189-tomb-of-the-brain.json](./194189-tomb-of-the-brain.json) |
 | Tomb of the Brain | 291011 | [291011-tomb-of-the-brain.json](./291011-tomb-of-the-brain.json) |
 | Tomb of the Brave | 297890 | [297890-tomb-of-the-brave.json](./297890-tomb-of-the-brave.json) |
 | Tomb of the Dash | 199630 | [199630-tomb-of-the-dash.json](./199630-tomb-of-the-dash.json) |
@@ -20643,6 +20650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuna Roll | 325826 | [325826-tuna-roll.json](./325826-tuna-roll.json) |
 | Tuna The Cat | 249184 | [249184-tuna-the-cat.json](./249184-tuna-the-cat.json) |
 | Tundralia: The Frigid Frontier | 324714 | [324714-tundralia-the-frigid-frontier.json](./324714-tundralia-the-frigid-frontier.json) |
+| Tune Cruiser | 194194 | [194194-tune-cruiser.json](./194194-tune-cruiser.json) |
 | Tune Her Out | 303211 | [303211-tune-her-out.json](./303211-tune-her-out.json) |
 | Tune in to the Show | 380183 | [380183-tune-in-to-the-show.json](./380183-tune-in-to-the-show.json) |
 | Tune My Car: Tuning Studio & Mechanic Simulator 2026 | 409562 | [409562-tune-my-car-tuning-studio-and-mechanic-simulator-2026.json](./409562-tune-my-car-tuning-studio-and-mechanic-simulator-2026.json) |
