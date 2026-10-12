@@ -1125,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warkanoid II: Wildlife | 122851 | [122851-warkanoid-ii-wildlife.json](./122851-warkanoid-ii-wildlife.json) |
 | Warkestra | 275336 | [275336-warkestra.json](./275336-warkestra.json) |
 | Warlander | 116684 | [116684-warlander.json](./116684-warlander.json) |
+| Warlander | 215835 | [215835-warlander.json](./215835-warlander.json) |
 | Warlanes | 301264 | [301264-warlanes.json](./301264-warlanes.json) |
 | WarLeague | 230308 | [230308-warleague.json](./230308-warleague.json) |
 | Warlike | 151151 | [151151-warlike.json](./151151-warlike.json) |
