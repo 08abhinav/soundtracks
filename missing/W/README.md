@@ -1163,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlocks Quarry: Random Worlds + Explorer | 243773 | [243773-warlocks-quarry-random-worlds-explorer.json](./243773-warlocks-quarry-random-worlds-explorer.json) |
 | Warlode | 400530 | [400530-warlode.json](./400530-warlode.json) |
 | Warlondor | 401740 | [401740-warlondor.json](./401740-warlondor.json) |
+| Warlord | 184287 | [184287-warlord.json](./184287-warlord.json) |
 | Warlord: Britannia | 199476 | [199476-warlord-britannia.json](./199476-warlord-britannia.json) |
 | WarLord: Edenui Churak | 220281 | [220281-warlord-edenui-churak.json](./220281-warlord-edenui-churak.json) |
 | Warlordocracy | 190023 | [190023-warlordocracy.json](./190023-warlordocracy.json) |
@@ -1927,6 +1928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We'll Meet Once More | 206030 | [206030-well-meet-once-more.json](./206030-well-meet-once-more.json) |
 | We're Back! A Dinosaur's Story | 241985 | [241985-were-back-a-dinosaurs-story.json](./241985-were-back-a-dinosaurs-story.json) |
 | We're Closed Sorry | 298775 | [298775-were-closed-sorry.json](./298775-were-closed-sorry.json) |
+| We're Getting There | 184317 | [184317-were-getting-there.json](./184317-were-getting-there.json) |
 | We're Here, Papa | 410922 | [410922-were-here-papa.json](./410922-were-here-papa.json) |
 | We're in the Same Boat | 399704 | [399704-were-in-the-same-boat.json](./399704-were-in-the-same-boat.json) |
 | We're Tethered Together | 269195 | [269195-were-tethered-together.json](./269195-were-tethered-together.json) |
@@ -2640,6 +2642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When I’m Not Drawing | 392405 | [392405-when-i-m-not-drawing.json](./392405-when-i-m-not-drawing.json) |
 | When In Rome | 34112 | [34112-when-in-rome.json](./34112-when-in-rome.json) |
 | When in Rome 1: Accounting for Taste | 216340 | [216340-when-in-rome-1-accounting-for-taste.json](./216340-when-in-rome-1-accounting-for-taste.json) |
+| When It Hits | 184348 | [184348-when-it-hits.json](./184348-when-it-hits.json) |
 | When It Hits the Fan | 56593 | [56593-when-it-hits-the-fan.json](./56593-when-it-hits-the-fan.json) |
 | When It Rains | 397045 | [397045-when-it-rains.json](./397045-when-it-rains.json) |
 | When it Rains Red | 382211 | [382211-when-it-rains-red.json](./382211-when-it-rains-red.json) |
