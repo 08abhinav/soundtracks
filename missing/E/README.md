@@ -3287,6 +3287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Hadrian's Wall | 372603 | [372603-escape-from-hadrians-wall.json](./372603-escape-from-hadrians-wall.json) |
 | Escape from Haon Island | 339768 | [339768-escape-from-haon-island.json](./339768-escape-from-haon-island.json) |
 | Escape From Hata | 285466 | [285466-escape-from-hata.json](./285466-escape-from-hata.json) |
+| Escape from Heaven | 183808 | [183808-escape-from-heaven.json](./183808-escape-from-heaven.json) |
 | Escape from here | 68659 | [68659-escape-from-here.json](./68659-escape-from-here.json) |
 | Escape from here | 68666 | [68666-escape-from-here.json](./68666-escape-from-here.json) |
 | Escape from hospital | 169392 | [169392-escape-from-hospital.json](./169392-escape-from-hospital.json) |
@@ -4411,6 +4412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everybody's Putter Golf With Toro | 66090 | [66090-everybodys-putter-golf-with-toro.json](./66090-everybodys-putter-golf-with-toro.json) |
 | Everybody's RPG: Reborn | 147318 | [147318-everybodys-rpg-reborn.json](./147318-everybodys-rpg-reborn.json) |
 | Everybody's Sad | 113672 | [113672-everybodys-sad.json](./113672-everybodys-sad.json) |
+| Everybody's Solitary | 183817 | [183817-everybodys-solitary.json](./183817-everybodys-solitary.json) |
 | Everyday Baseball VR | 107415 | [107415-everyday-baseball-vr.json](./107415-everyday-baseball-vr.json) |
 | Everyday Heroines: 3 in 1 | 332012 | [332012-everyday-heroines-3-in-1.json](./332012-everyday-heroines-3-in-1.json) |
 | Everyday House Tamagotchi | 222427 | [222427-everyday-house-tamagotchi.json](./222427-everyday-house-tamagotchi.json) |
