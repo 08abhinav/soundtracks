@@ -6678,6 +6678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block-ed | 276687 | [276687-block-ed.json](./276687-block-ed.json) |
 | Block-Man 1 | 64752 | [64752-block-man-1.json](./64752-block-man-1.json) |
 | Block-O-Mania | 57090 | [57090-block-o-mania.json](./57090-block-o-mania.json) |
+| Block-Quake | 218058 | [218058-block-quake.json](./218058-block-quake.json) |
 | Block;Shift | 293103 | [293103-block-shift.json](./293103-block-shift.json) |
 | Block: Puzzle Game | 87543 | [87543-block-puzzle-game.json](./87543-block-puzzle-game.json) |
 | Block! Hexa Puzzle | 88914 | [88914-block-hexa-puzzle.json](./88914-block-hexa-puzzle.json) |
