@@ -6417,6 +6417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind: Summer Sunset | 324425 | [324425-blind-summer-sunset.json](./324425-blind-summer-sunset.json) |
 | BlindBlade II | 133374 | [133374-blindblade-ii.json](./133374-blindblade-ii.json) |
 | BlinDead | 289298 | [289298-blindead.json](./289298-blindead.json) |
+| Blinded by Fear | 213541 | [213541-blinded-by-fear.json](./213541-blinded-by-fear.json) |
 | Blindernoth | 362995 | [362995-blindernoth.json](./362995-blindernoth.json) |
 | Blindfire | 320139 | [320139-blindfire.json](./320139-blindfire.json) |
 | Blindfold | 356150 | [356150-blindfold.json](./356150-blindfold.json) |
@@ -7150,6 +7151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Heaven | 263995 | [263995-bloody-heaven.json](./263995-bloody-heaven.json) |
 | Bloody Heck | 261548 | [261548-bloody-heck.json](./261548-bloody-heck.json) |
 | Bloody Hell | 213501 | [213501-bloody-hell.json](./213501-bloody-hell.json) |
+| Bloody Hell Hotel | 213557 | [213557-bloody-hell-hotel.json](./213557-bloody-hell-hotel.json) |
 | Bloody Hills | 258378 | [258378-bloody-hills.json](./258378-bloody-hills.json) |
 | Bloody Horror Plant | 239684 | [239684-bloody-horror-plant.json](./239684-bloody-horror-plant.json) |
 | Bloody Layne | 174794 | [174794-bloody-layne.json](./174794-bloody-layne.json) |
@@ -11503,6 +11505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz! The Sports Quiz | 43520 | [43520-buzz-the-sports-quiz.json](./43520-buzz-the-sports-quiz.json) |
 | Buzz! The Ultimate Music Quiz | 44586 | [44586-buzz-the-ultimate-music-quiz.json](./44586-buzz-the-ultimate-music-quiz.json) |
 | Buzz!: Brain of the World | 7282 | [7282-buzz-brain-of-the-world.json](./7282-buzz-brain-of-the-world.json) |
+| Buzz!: quem é o génio português? | 213552 | [213552-buzz-quem-e-o-genio-portugues.json](./213552-buzz-quem-e-o-genio-portugues.json) |
 | Buzz!: Quiz TV | 7283 | [7283-buzz-quiz-tv.json](./7283-buzz-quiz-tv.json) |
 | Buzz!: Quiz TV Special Edition | 268768 | [268768-buzz-quiz-tv-special-edition.json](./268768-buzz-quiz-tv-special-edition.json) |
 | Buzz!: Quiz World | 7284 | [7284-buzz-quiz-world.json](./7284-buzz-quiz-world.json) |
