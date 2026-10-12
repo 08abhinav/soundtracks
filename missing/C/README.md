@@ -1028,6 +1028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cape Hideous | 320532 | [320532-cape-hideous.json](./320532-cape-hideous.json) |
 | Cape's Escape Game 3rd Room | 165615 | [165615-capes-escape-game-3rd-room.json](./165615-capes-escape-game-3rd-room.json) |
 | Cape's Escape Game 4th Room | 173142 | [173142-capes-escape-game-4th-room.json](./173142-capes-escape-game-4th-room.json) |
+| Cape's Escape Game 5th Room | 186569 | [186569-capes-escape-game-5th-room.json](./186569-capes-escape-game-5th-room.json) |
 | Cape's Escape Game 7th Room | 287171 | [287171-capes-escape-game-7th-room.json](./287171-capes-escape-game-7th-room.json) |
 | Capelord: Bounty Hunters | 190718 | [190718-capelord-bounty-hunters.json](./190718-capelord-bounty-hunters.json) |
 | Capers vs Pirates | 336680 | [336680-capers-vs-pirates.json](./336680-capers-vs-pirates.json) |
@@ -1878,6 +1879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Network: Toon Jam! | 206759 | [206759-cartoon-network-toon-jam.json](./206759-cartoon-network-toon-jam.json) |
 | Cartoon Pet Game | 335068 | [335068-cartoon-pet-game.json](./335068-cartoon-pet-game.json) |
 | Cartoon Rage | 239216 | [239216-cartoon-rage.json](./239216-cartoon-rage.json) |
+| Cartoon Tower Defense | 186568 | [186568-cartoon-tower-defense.json](./186568-cartoon-tower-defense.json) |
 | Cartoon Universe | 247576 | [247576-cartoon-universe.json](./247576-cartoon-universe.json) |
 | Cartoon Wars | 230784 | [230784-cartoon-wars.json](./230784-cartoon-wars.json) |
 | Cartoon Wars Blade | 369757 | [369757-cartoon-wars-blade.json](./369757-cartoon-wars-blade.json) |
@@ -5085,6 +5087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Puzzle Story | 328540 | [328540-christmas-puzzle-story.json](./328540-christmas-puzzle-story.json) |
 | Christmas Race | 322983 | [322983-christmas-race.json](./322983-christmas-race.json) |
 | Christmas Race 2 | 88197 | [88197-christmas-race-2.json](./88197-christmas-race-2.json) |
+| Christmas Racing | 186573 | [186573-christmas-racing.json](./186573-christmas-racing.json) |
 | Christmas Rhythm | 158219 | [158219-christmas-rhythm.json](./158219-christmas-rhythm.json) |
 | Christmas Rocket Pudding | 276851 | [276851-christmas-rocket-pudding.json](./276851-christmas-rocket-pudding.json) |
 | Christmas Run 2 | 228333 | [228333-christmas-run-2.json](./228333-christmas-run-2.json) |
@@ -5530,6 +5533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cipheur | 330901 | [330901-cipheur.json](./330901-cipheur.json) |
 | Circa | 94170 | [94170-circa.json](./94170-circa.json) |
 | Circa Infinity | 16312 | [16312-circa-infinity.json](./16312-circa-infinity.json) |
+| Circa Infinity: Ultimate Edition | 186559 | [186559-circa-infinity-ultimate-edition.json](./186559-circa-infinity-ultimate-edition.json) |
 | Circadia | 166567 | [166567-circadia.json](./166567-circadia.json) |
 | Circadial | 328645 | [328645-circadial.json](./328645-circadial.json) |
 | Circadian City | 116815 | [116815-circadian-city.json](./116815-circadian-city.json) |
@@ -5863,6 +5867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Parking Driver: Draw The Path Simulator | 271839 | [271839-city-parking-driver-draw-the-path-simulator.json](./271839-city-parking-driver-draw-the-path-simulator.json) |
 | City Party | 384867 | [384867-city-party.json](./384867-city-party.json) |
 | City Patrol: Police | 97925 | [97925-city-patrol-police.json](./97925-city-patrol-police.json) |
+| City Pipes | 186574 | [186574-city-pipes.json](./186574-city-pipes.json) |
 | City Pixel Transporters | 409403 | [409403-city-pixel-transporters.json](./409403-city-pixel-transporters.json) |
 | City Police Helicopter Flight Simulator | 100995 | [100995-city-police-helicopter-flight-simulator.json](./100995-city-police-helicopter-flight-simulator.json) |
 | City Quest | 17565 | [17565-city-quest.json](./17565-city-quest.json) |
@@ -5884,6 +5889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Sniper | 151007 | [151007-city-sniper.json](./151007-city-sniper.json) |
 | City Soccer Challenge | 66956 | [66956-city-soccer-challenge.json](./66956-city-soccer-challenge.json) |
 | City States: Medieval | 381155 | [381155-city-states-medieval.json](./381155-city-states-medieval.json) |
+| City Stunt Driver | 186575 | [186575-city-stunt-driver.json](./186575-city-stunt-driver.json) |
 | City Super Battlefield | 289781 | [289781-city-super-battlefield.json](./289781-city-super-battlefield.json) |
 | City Super Hero 3D: Flying Legend Warriors Deluxe Simulator | 212276 | [212276-city-super-hero-3d-flying-legend-warriors-deluxe-simulator.json](./212276-city-super-hero-3d-flying-legend-warriors-deluxe-simulator.json) |
 | City Survival Project | 130842 | [130842-city-survival-project.json](./130842-city-survival-project.json) |
@@ -8012,6 +8018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comic Book Universe | 322774 | [322774-comic-book-universe.json](./322774-comic-book-universe.json) |
 | Comic Circus | 83201 | [83201-comic-circus.json](./83201-comic-circus.json) |
 | Comic Coloring Book | 147888 | [147888-comic-coloring-book.json](./147888-comic-coloring-book.json) |
+| Comic Coloring Book: Complete Edition | 186576 | [186576-comic-coloring-book-complete-edition.json](./186576-comic-coloring-book-complete-edition.json) |
 | Comic Coloring Book: Complete Edition - Colors Special | 275053 | [275053-comic-coloring-book-complete-edition-colors-special.json](./275053-comic-coloring-book-complete-edition-colors-special.json) |
 | Comic Coloring Book: Complete Edition - Draw Extended | 263528 | [263528-comic-coloring-book-complete-edition-draw-extended.json](./263528-comic-coloring-book-complete-edition-draw-extended.json) |
 | Comic Coloring Book: Complete Edition - DRAW Special | 277905 | [277905-comic-coloring-book-complete-edition-draw-special.json](./277905-comic-coloring-book-complete-edition-draw-special.json) |
@@ -8716,6 +8723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Simulator: Titanium Edition | 305488 | [305488-construction-simulator-titanium-edition.json](./305488-construction-simulator-titanium-edition.json) |
 | Construction Simulator: Year 1 Season Pass | 246401 | [246401-construction-simulator-year-1-season-pass.json](./246401-construction-simulator-year-1-season-pass.json) |
 | Construction Simulator: Year 2 Season Pass | 293132 | [293132-construction-simulator-year-2-season-pass.json](./293132-construction-simulator-year-2-season-pass.json) |
+| Construction Site Driver | 186578 | [186578-construction-site-driver.json](./186578-construction-site-driver.json) |
 | Construction Site Driver 2 | 223568 | [223568-construction-site-driver-2.json](./223568-construction-site-driver-2.json) |
 | Construction Worker Simulator | 151102 | [151102-construction-worker-simulator.json](./151102-construction-worker-simulator.json) |
 | Construction: Action | 354053 | [354053-construction-action.json](./354053-construction-action.json) |
@@ -10678,6 +10686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Toad | 68754 | [68754-crazy-toad.json](./68754-crazy-toad.json) |
 | Crazy Tracer | 13707 | [13707-crazy-tracer.json](./13707-crazy-tracer.json) |
 | Crazy Traffic: City Parking Simulator | 317925 | [317925-crazy-traffic-city-parking-simulator.json](./317925-crazy-traffic-city-parking-simulator.json) |
+| Crazy Trucks | 186579 | [186579-crazy-trucks.json](./186579-crazy-trucks.json) |
 | Crazy Vacation | 310553 | [310553-crazy-vacation.json](./310553-crazy-vacation.json) |
 | Crazy Valet | 40719 | [40719-crazy-valet.json](./40719-crazy-valet.json) |
 | Crazy Wheel Rider HD | 213395 | [213395-crazy-wheel-rider-hd.json](./213395-crazy-wheel-rider-hd.json) |
@@ -10801,6 +10810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepslore | 195165 | [195165-creepslore.json](./195165-creepslore.json) |
 | Creepy | 270744 | [270744-creepy.json](./270744-creepy.json) |
 | Creepy & Cute Pixel Plushy Craft | 336900 | [336900-creepy-and-cute-pixel-plushy-craft.json](./336900-creepy-and-cute-pixel-plushy-craft.json) |
+| Creepy Balls | 186577 | [186577-creepy-balls.json](./186577-creepy-balls.json) |
 | Creepy Brawlers | 77955 | [77955-creepy-brawlers.json](./77955-creepy-brawlers.json) |
 | Creepy Camping | 367515 | [367515-creepy-camping.json](./367515-creepy-camping.json) |
 | Creepy Castle | 25567 | [25567-creepy-castle.json](./25567-creepy-castle.json) |
