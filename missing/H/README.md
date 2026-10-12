@@ -5426,6 +5426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hogwarts Legacy: Onyx Hippogriff Mount | 304809 | [304809-hogwarts-legacy-onyx-hippogriff-mount.json](./304809-hogwarts-legacy-onyx-hippogriff-mount.json) |
 | Hogwash | 125386 | [125386-hogwash.json](./125386-hogwash.json) |
 | Hohokum | 10088 | [10088-hohokum.json](./10088-hohokum.json) |
+| Hoi An Heritage | 214705 | [214705-hoi-an-heritage.json](./214705-hoi-an-heritage.json) |
 | Hoisan's Random Game | 122857 | [122857-hoisans-random-game.json](./122857-hoisans-random-game.json) |
 | Hoist Sail for the Heliopause and Home | 7847 | [7847-hoist-sail-for-the-heliopause-and-home.json](./7847-hoist-sail-for-the-heliopause-and-home.json) |
 | Hokkaido Game | 272254 | [272254-hokkaido-game.json](./272254-hokkaido-game.json) |
@@ -6368,6 +6369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Clash | 319969 | [319969-horror-clash.json](./319969-horror-clash.json) |
 | Horror Cliche | 412115 | [412115-horror-cliche.json](./412115-horror-cliche.json) |
 | Horror Drift | 187531 | [187531-horror-drift.json](./187531-horror-drift.json) |
+| Horror Fun | 214666 | [214666-horror-fun.json](./214666-horror-fun.json) |
 | Horror Gallery | 262908 | [262908-horror-gallery.json](./262908-horror-gallery.json) |
 | Horror Game Collection | 184595 | [184595-horror-game-collection.json](./184595-horror-game-collection.json) |
 | Horror Game: Granny | 100232 | [100232-horror-game-granny.json](./100232-horror-game-granny.json) |
@@ -7661,6 +7663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huntfeast | 147431 | [147431-huntfeast.json](./147431-huntfeast.json) |
 | HuntForOut | 207731 | [207731-huntforout.json](./207731-huntforout.json) |
 | Huntin' Adventure | 210054 | [210054-huntin-adventure.json](./210054-huntin-adventure.json) |
+| Hunting and Camping: In a Singularity | 214685 | [214685-hunting-and-camping-in-a-singularity.json](./214685-hunting-and-camping-in-a-singularity.json) |
 | Hunting Animals - Shooting Simulator | 87144 | [87144-hunting-animals-shooting-simulator.json](./87144-hunting-animals-shooting-simulator.json) |
 | Hunting Arcade | 210055 | [210055-hunting-arcade.json](./210055-hunting-arcade.json) |
 | Hunting Challenge | 145561 | [145561-hunting-challenge.json](./145561-hunting-challenge.json) |
