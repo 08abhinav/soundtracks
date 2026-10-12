@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe Simulator | 235790 | [235790-cafe-simulator.json](./235790-cafe-simulator.json) |
 | Cafe Simulator | 380048 | [380048-cafe-simulator.json](./380048-cafe-simulator.json) |
 | Café Stella and the Reaper's Butterflies | 195774 | [195774-cafe-stella-and-the-reapers-butterflies.json](./195774-cafe-stella-and-the-reapers-butterflies.json) |
+| Cafe Terrace | 221343 | [221343-cafe-terrace.json](./221343-cafe-terrace.json) |
 | Cafe Tsuku: Is the order a Heart? | 204711 | [204711-cafe-tsuku-is-the-order-a-heart.json](./204711-cafe-tsuku-is-the-order-a-heart.json) |
 | Cafe Venus Flytrap | 247458 | [247458-cafe-venus-flytrap.json](./247458-cafe-venus-flytrap.json) |
 | Cafeland: Restaurant Cooking | 233478 | [233478-cafeland-restaurant-cooking.json](./233478-cafeland-restaurant-cooking.json) |
@@ -6849,6 +6850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coco Pony - My Dream Pet | 96305 | [96305-coco-pony-my-dream-pet.json](./96305-coco-pony-my-dream-pet.json) |
 | Coco to the Rescue | 230365 | [230365-coco-to-the-rescue.json](./230365-coco-to-the-rescue.json) |
 | Cocoa 2: Twenty Four Hour Parsley People | 178452 | [178452-cocoa-2-twenty-four-hour-parsley-people.json](./178452-cocoa-2-twenty-four-hour-parsley-people.json) |
+| Cocobi Hospital | 221373 | [221373-cocobi-hospital.json](./221373-cocobi-hospital.json) |
 | Cocoboy | 377811 | [377811-cocoboy.json](./377811-cocoboy.json) |
 | Cocommando | 393474 | [393474-cocommando.json](./393474-cocommando.json) |
 | Cocona World | 41257 | [41257-cocona-world.json](./41257-cocona-world.json) |
@@ -7091,6 +7093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Exchange Craze | 275356 | [275356-coin-exchange-craze.json](./275356-coin-exchange-craze.json) |
 | Coin Factory | 312885 | [312885-coin-factory.json](./312885-coin-factory.json) |
 | Coin Factory Idle: Money Games | 249312 | [249312-coin-factory-idle-money-games.json](./249312-coin-factory-idle-money-games.json) |
+| Coin Grid | 221374 | [221374-coin-grid.json](./221374-coin-grid.json) |
 | Coin Hunter | 331678 | [331678-coin-hunter.json](./331678-coin-hunter.json) |
 | Coin Jar | 291742 | [291742-coin-jar.json](./291742-coin-jar.json) |
 | Coin Master | 87020 | [87020-coin-master.json](./87020-coin-master.json) |
@@ -8912,6 +8915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Simulator: Pizza | 299378 | [299378-cooking-simulator-pizza.json](./299378-cooking-simulator-pizza.json) |
 | Cooking Simulator: Sushi | 273371 | [273371-cooking-simulator-sushi.json](./273371-cooking-simulator-sushi.json) |
 | Cooking Time! | 369725 | [369725-cooking-time.json](./369725-cooking-time.json) |
+| Cooking Train | 221375 | [221375-cooking-train.json](./221375-cooking-train.json) |
 | Cooking Trip: Back on the Road | 120385 | [120385-cooking-trip-back-on-the-road.json](./120385-cooking-trip-back-on-the-road.json) |
 | Cooking Trip: Collector's Edition | 273341 | [273341-cooking-trip-collectors-edition.json](./273341-cooking-trip-collectors-edition.json) |
 | Cooking Trip: New Challenge - Collector's Edition | 276299 | [276299-cooking-trip-new-challenge-collectors-edition.json](./276299-cooking-trip-new-challenge-collectors-edition.json) |
@@ -11995,6 +11999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Neon Nightclub | 286764 | [286764-cubic-neon-nightclub.json](./286764-cubic-neon-nightclub.json) |
 | Cubic Ninja | 6754 | [6754-cubic-ninja.json](./6754-cubic-ninja.json) |
 | Cubic Odyssey | 329371 | [329371-cubic-odyssey.json](./329371-cubic-odyssey.json) |
+| Cubic Parking | 221332 | [221332-cubic-parking.json](./221332-cubic-parking.json) |
 | Cubic Snake | 184388 | [184388-cubic-snake.json](./184388-cubic-snake.json) |
 | Cubic Spree | 376862 | [376862-cubic-spree.json](./376862-cubic-spree.json) |
 | Cubic Survivor | 255962 | [255962-cubic-survivor.json](./255962-cubic-survivor.json) |
