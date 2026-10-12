@@ -522,6 +522,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Zombie Defense 2 | 211801 | [211801-ultimate-zombie-defense-2.json](./211801-ultimate-zombie-defense-2.json) |
 | UltiMatt | 246929 | [246929-ultimatt.json](./246929-ultimatt.json) |
 | Ultimaze | 206716 | [206716-ultimaze.json](./206716-ultimaze.json) |
+| Ultimotion: Fitness | 220270 | [220270-ultimotion-fitness.json](./220270-ultimotion-fitness.json) |
+| Ultimotion: Sleeping Beauty & Tinker Bell | 220271 | [220271-ultimotion-sleeping-beauty-and-tinker-bell.json](./220271-ultimotion-sleeping-beauty-and-tinker-bell.json) |
+| Ultimotion: Swing Zone Sports | 220269 | [220269-ultimotion-swing-zone-sports.json](./220269-ultimotion-swing-zone-sports.json) |
 | Ultimuh MCMLXVII: Part 2 of the 39th Trilogy - The Quest for the Golden Amulet | 73462 | [73462-ultimuh-mcmlxvii-part-2-of-the-39th-trilogy-the-quest-for-the-golden-amulet.json](./73462-ultimuh-mcmlxvii-part-2-of-the-39th-trilogy-the-quest-for-the-golden-amulet.json) |
 | Ultimus | 267425 | [267425-ultimus.json](./267425-ultimus.json) |
 | Ultimus bellum | 74703 | [74703-ultimus-bellum.json](./74703-ultimus-bellum.json) |
