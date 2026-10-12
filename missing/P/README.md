@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachio-kun: Warau Uchuu | 59508 | [59508-pachio-kun-warau-uchuu.json](./59508-pachio-kun-warau-uchuu.json) |
 | PachiPara 13: Super Umi to Pachipro Fuuunroku | 77996 | [77996-pachipara-13-super-umi-to-pachipro-fuuunroku.json](./77996-pachipara-13-super-umi-to-pachipro-fuuunroku.json) |
 | PachiPara 14: Kaze to Kumo to Super Umi in Okinawa | 61905 | [61905-pachipara-14-kaze-to-kumo-to-super-umi-in-okinawa.json](./61905-pachipara-14-kaze-to-kumo-to-super-umi-in-okinawa.json) |
+| PachiPara 3D: Deluxe Umi Monogatari | 222465 | [222465-pachipara-3d-deluxe-umi-monogatari.json](./222465-pachipara-3d-deluxe-umi-monogatari.json) |
 | PachiPara 3D: Ooumi Monogatari 2 with Agnes Lum - Pachi-Pro Fuuunroku Hana Kesareta License | 141149 | [141149-pachipara-3d-ooumi-monogatari-2-with-agnes-lum-pachi-pro-fuuunroku-hana-kesareta-license.json](./141149-pachipara-3d-ooumi-monogatari-2-with-agnes-lum-pachi-pro-fuuunroku-hana-kesareta-license.json) |
 | PachiPara 3D: Taikai Monogatari 2 - Pachi Pro Fuuunroku Hana: Kibou to Uragiri no Gakuen Seikatsu | 222330 | [222330-pachipara-3d-taikai-monogatari-2-pachi-pro-fuuunroku-hana-kibou-to-uragiri-no-gakuen-seikatsu.json](./222330-pachipara-3d-taikai-monogatari-2-pachi-pro-fuuunroku-hana-kibou-to-uragiri-no-gakuen-seikatsu.json) |
 | PachiPara Slot+ Pachi-Slot Daiku no Gen-san: Ikuze! Honō no Gen Matsuri-hen | 138686 | [138686-pachipara-slot-pachi-slot-daiku-no-gen-san-ikuze-hono-no-gen-matsuri-hen.json](./138686-pachipara-slot-pachi-slot-daiku-no-gen-san-ikuze-hono-no-gen-matsuri-hen.json) |
@@ -2600,6 +2601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin no Mondai X: Tenkuu no 7 Senshi | 68010 | [68010-penguin-no-mondai-x-tenkuu-no-7-senshi.json](./68010-penguin-no-mondai-x-tenkuu-no-7-senshi.json) |
 | Penguin no Mondai: Saikyou Penguin Densetsu! | 69272 | [69272-penguin-no-mondai-saikyou-penguin-densetsu.json](./69272-penguin-no-mondai-saikyou-penguin-densetsu.json) |
 | Penguin no Mondai: The Wars | 141147 | [141147-penguin-no-mondai-the-wars.json](./141147-penguin-no-mondai-the-wars.json) |
+| Penguin no Mondai+ Bakushou! Roulette Battle!! | 222490 | [222490-penguin-no-mondai-bakushou-roulette-battle.json](./222490-penguin-no-mondai-bakushou-roulette-battle.json) |
 | Penguin Noir | 247764 | [247764-penguin-noir.json](./247764-penguin-noir.json) |
 | Penguin Pairs | 239109 | [239109-penguin-pairs.json](./239109-penguin-pairs.json) |
 | Penguin Panic | 162838 | [162838-penguin-panic.json](./162838-penguin-panic.json) |
@@ -4104,6 +4106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pih | 375457 | [375457-pih.json](./375457-pih.json) |
 | PiiSim | 125931 | [125931-piisim.json](./125931-piisim.json) |
 | Pik's Epic Kirby Sprite Comics: Teh Game 2 | 246666 | [246666-piks-epic-kirby-sprite-comics-teh-game-2.json](./246666-piks-epic-kirby-sprite-comics-teh-game-2.json) |
+| Pika Pika Nurse Monogatari 2 | 222443 | [222443-pika-pika-nurse-monogatari-2.json](./222443-pika-pika-nurse-monogatari-2.json) |
 | Pika Pika Nurse Monogatari: Shounika ha Itsumo Oosawagi | 136932 | [136932-pika-pika-nurse-monogatari-shounika-ha-itsumo-oosawagi.json](./136932-pika-pika-nurse-monogatari-shounika-ha-itsumo-oosawagi.json) |
 | Pika Pop | 72165 | [72165-pika-pop.json](./72165-pika-pop.json) |
 | Pikabuu: Stop! | 357230 | [357230-pikabuu-stop.json](./357230-pikabuu-stop.json) |
@@ -11320,6 +11323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo Tetris 2: Launch Edition | 139944 | [139944-puyo-puyo-tetris-2-launch-edition.json](./139944-puyo-puyo-tetris-2-launch-edition.json) |
 | Puyo Puyo Tetris 2S | 338091 | [338091-puyo-puyo-tetris-2s.json](./338091-puyo-puyo-tetris-2s.json) |
 | Puyo Puyo Touch | 251500 | [251500-puyo-puyo-touch.json](./251500-puyo-puyo-touch.json) |
+| Puyo Puyo Tsuu | 222469 | [222469-puyo-puyo-tsuu.json](./222469-puyo-puyo-tsuu.json) |
 | Puyo Puyo Tsuu | 45976 | [45976-puyo-puyo-tsuu.json](./45976-puyo-puyo-tsuu.json) |
 | Puyo Puyo Zurashi | 251502 | [251502-puyo-puyo-zurashi.json](./251502-puyo-puyo-zurashi.json) |
 | Puyo Puyo! The Medal Edition | 251496 | [251496-puyo-puyo-the-medal-edition.json](./251496-puyo-puyo-the-medal-edition.json) |
