@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T12:06:51.472Z",
-  "total_soundtracks": 1526,
+  "generated_at": "2026-10-12T12:07:04.614Z",
+  "total_soundtracks": 1527,
   "games": [
     {
       "igdb_id": 7522,
@@ -5883,6 +5883,20 @@
           "spotify_url": "https://music.apple.com/us/album/floatlands/1381096859?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1381096859"
+        }
+      ]
+    },
+    {
+      "igdb_id": 1353,
+      "game_name": "flOw",
+      "game_url": "https://ostdb.net/games/flow",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ecd6429ee1e3546da6d4250e",
+      "albums": [
+        {
+          "album_name": "flOw (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4Qu0FzzCAKKb6FIIwYeigR",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
