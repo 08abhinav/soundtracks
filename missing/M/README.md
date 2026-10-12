@@ -4721,6 +4721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meeting Her | 253909 | [253909-meeting-her.json](./253909-meeting-her.json) |
 | Meeting in the Flesh | 135008 | [135008-meeting-in-the-flesh.json](./135008-meeting-in-the-flesh.json) |
 | Meeting Myself | 275919 | [275919-meeting-myself.json](./275919-meeting-myself.json) |
+| MeetLight and the Secrets of the Universe | 209765 | [209765-meetlight-and-the-secrets-of-the-universe.json](./209765-meetlight-and-the-secrets-of-the-universe.json) |
 | Meeuw | 135829 | [135829-meeuw.json](./135829-meeuw.json) |
 | MEFB | 130736 | [130736-mefb.json](./130736-mefb.json) |
 | MEG 9: Lost Echoes | 59944 | [59944-meg-9-lost-echoes.json](./59944-meg-9-lost-echoes.json) |
