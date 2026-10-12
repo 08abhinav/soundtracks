@@ -2256,6 +2256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Rich or Die Gaming | 34627 | [34627-get-rich-or-die-gaming.json](./34627-get-rich-or-die-gaming.json) |
 | Get Rich! | 180704 | [180704-get-rich.json](./180704-get-rich.json) |
 | Get Rid Of Those Corners | 401523 | [401523-get-rid-of-those-corners.json](./401523-get-rid-of-those-corners.json) |
+| Get Ride! AM Driver: Soukoku no Shinjitsu | 191488 | [191488-get-ride-am-driver-soukoku-no-shinjitsu.json](./191488-get-ride-am-driver-soukoku-no-shinjitsu.json) |
 | Get Ride! AMDriver: Senkou no Hero Tanjou | 49605 | [49605-get-ride-amdriver-senkou-no-hero-tanjou.json](./49605-get-ride-amdriver-senkou-no-hero-tanjou.json) |
 | Get Ride! AMDriver: Shutsugeki! Battle Party | 49604 | [49604-get-ride-amdriver-shutsugeki-battle-party.json](./49604-get-ride-amdriver-shutsugeki-battle-party.json) |
 | Get Slapped! | 258405 | [258405-get-slapped.json](./258405-get-slapped.json) |
@@ -3338,6 +3339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glukhovo | 270184 | [270184-glukhovo.json](./270184-glukhovo.json) |
 | Gluon | 377961 | [377961-gluon.json](./377961-gluon.json) |
 | Glusiverse | 304599 | [304599-glusiverse.json](./304599-glusiverse.json) |
+| Glut: A Superabundance of Nothing | 191500 | [191500-glut-a-superabundance-of-nothing.json](./191500-glut-a-superabundance-of-nothing.json) |
 | Glutto, the Eater of Worlds | 185507 | [185507-glutto-the-eater-of-worlds.json](./185507-glutto-the-eater-of-worlds.json) |
 | Glutton | 154068 | [154068-glutton.json](./154068-glutton.json) |
 | Gluttony | 353979 | [353979-gluttony.json](./353979-gluttony.json) |
@@ -5099,6 +5101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: Liberty City Stories | 3263 | [3263-grand-theft-auto-liberty-city-stories.json](./3263-grand-theft-auto-liberty-city-stories.json) |
 | Grand Theft Auto: London 1961 | 13233 | [13233-grand-theft-auto-london-1961.json](./13233-grand-theft-auto-london-1961.json) |
 | Grand Theft Auto: Misterix | 253324 | [253324-grand-theft-auto-misterix.json](./253324-grand-theft-auto-misterix.json) |
+| Grand Theft Auto: Montevideo City | 191486 | [191486-grand-theft-auto-montevideo-city.json](./191486-grand-theft-auto-montevideo-city.json) |
 | Grand Theft Auto: San Andreas - Flame's Story | 320920 | [320920-grand-theft-auto-san-andreas-flames-story.json](./320920-grand-theft-auto-san-andreas-flames-story.json) |
 | Grand Theft Auto: San Andreas - The Definitive Edition | 178126 | [178126-grand-theft-auto-san-andreas-the-definitive-edition.json](./178126-grand-theft-auto-san-andreas-the-definitive-edition.json) |
 | Grand Theft Auto: Sindacco Chronicles | 256515 | [256515-grand-theft-auto-sindacco-chronicles.json](./256515-grand-theft-auto-sindacco-chronicles.json) |
