@@ -2543,6 +2543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Hero Soukessen: Taose! Aku no Gundan | 79278 | [79278-sd-hero-soukessen-taose-aku-no-gundan.json](./79278-sd-hero-soukessen-taose-aku-no-gundan.json) |
 | SD Hiryuu no Ken | 38322 | [38322-sd-hiryuu-no-ken.json](./38322-sd-hiryuu-no-ken.json) |
 | SD Hiryuu no Ken Gaiden | 64968 | [64968-sd-hiryuu-no-ken-gaiden.json](./64968-sd-hiryuu-no-ken-gaiden.json) |
+| SD Hiryuu no Ken Gaiden EX | 186595 | [186595-sd-hiryuu-no-ken-gaiden-ex.json](./186595-sd-hiryuu-no-ken-gaiden-ex.json) |
 | SD Lupin Sansei: Kinko Yaburi Daisakusen | 66206 | [66206-sd-lupin-sansei-kinko-yaburi-daisakusen.json](./66206-sd-lupin-sansei-kinko-yaburi-daisakusen.json) |
 | SD Sengoku-den: Tenka Touitsu-hen - Aku Mu Haiki Yume Yama no Tatakai! | 346026 | [346026-sd-sengoku-den-tenka-touitsu-hen-aku-mu-haiki-yume-yama-no-tatakai.json](./346026-sd-sengoku-den-tenka-touitsu-hen-aku-mu-haiki-yume-yama-no-tatakai.json) |
 | SD Shin Kamen Rider Rumble | 231290 | [231290-sd-shin-kamen-rider-rumble.json](./231290-sd-shin-kamen-rider-rumble.json) |
@@ -8025,6 +8026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Gamblers Races | 106362 | [106362-sky-gamblers-races.json](./106362-sky-gamblers-races.json) |
 | Sky Gamblers: Afterburner | 115109 | [115109-sky-gamblers-afterburner.json](./115109-sky-gamblers-afterburner.json) |
 | Sky Gamblers: Storm Raiders | 17497 | [17497-sky-gamblers-storm-raiders.json](./17497-sky-gamblers-storm-raiders.json) |
+| Sky Games | 186571 | [186571-sky-games.json](./186571-sky-games.json) |
 | Sky Garden | 208948 | [208948-sky-garden.json](./208948-sky-garden.json) |
 | Sky Girls: Flight Attendants | 87871 | [87871-sky-girls-flight-attendants.json](./87871-sky-girls-flight-attendants.json) |
 | Sky Goddess Remaking | 235187 | [235187-sky-goddess-remaking.json](./235187-sky-goddess-remaking.json) |
@@ -8868,6 +8870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sloper | 89998 | [89998-sloper.json](./89998-sloper.json) |
 | Slopeside Kings | 389658 | [389658-slopeside-kings.json](./389658-slopeside-kings.json) |
 | Slopey | 96918 | [96918-slopey.json](./96918-slopey.json) |
+| Sloppy Eater | 186593 | [186593-sloppy-eater.json](./186593-sloppy-eater.json) |
 | Sloppy Eater: Meal Deal Edition | 186638 | [186638-sloppy-eater-meal-deal-edition.json](./186638-sloppy-eater-meal-deal-edition.json) |
 | Sloppy Goat | 93782 | [93782-sloppy-goat.json](./93782-sloppy-goat.json) |
 | Slordax: The Unknown Enemy | 73244 | [73244-slordax-the-unknown-enemy.json](./73244-slordax-the-unknown-enemy.json) |
@@ -16511,6 +16514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Troopers: Extermination - Galactic Victory Edition | 333690 | [333690-starship-troopers-extermination-galactic-victory-edition.json](./333690-starship-troopers-extermination-galactic-victory-edition.json) |
 | Starship Troopers: Extermination - Warrior Tiger Bundle | 331519 | [331519-starship-troopers-extermination-warrior-tiger-bundle.json](./331519-starship-troopers-extermination-warrior-tiger-bundle.json) |
 | Starship Troopers: Terran Command - Urban Onslaught | 298054 | [298054-starship-troopers-terran-command-urban-onslaught.json](./298054-starship-troopers-terran-command-urban-onslaught.json) |
+| Starship Wars | 186555 | [186555-starship-wars.json](./186555-starship-wars.json) |
 | StarShip Wars | 389422 | [389422-starship-wars.json](./389422-starship-wars.json) |
 | Starship: Invasion | 69889 | [69889-starship-invasion.json](./69889-starship-invasion.json) |
 | Starship: Turret Mode | 354428 | [354428-starship-turret-mode.json](./354428-starship-turret-mode.json) |
@@ -21810,6 +21814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supernova Tactics | 211287 | [211287-supernova-tactics.json](./211287-supernova-tactics.json) |
 | Superola and the Lost Burgers | 87475 | [87475-superola-and-the-lost-burgers.json](./87475-superola-and-the-lost-burgers.json) |
 | Superorbit.io | 58285 | [58285-superorbit-io.json](./58285-superorbit-io.json) |
+| Superpanda | 186549 | [186549-superpanda.json](./186549-superpanda.json) |
 | Superpanel | 377702 | [377702-superpanel.json](./377702-superpanel.json) |
 | Superpantsu Harematchii | 151607 | [151607-superpantsu-harematchii.json](./151607-superpantsu-harematchii.json) |
 | Superpersons University | 277362 | [277362-superpersons-university.json](./277362-superpersons-university.json) |
