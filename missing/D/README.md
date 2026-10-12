@@ -3273,13 +3273,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Realms | 92442 | [92442-deep-realms.json](./92442-deep-realms.json) |
 | Deep Research | 271493 | [271493-deep-research.json](./271493-deep-research.json) |
 | Deep Rest | 106395 | [106395-deep-rest.json](./106395-deep-rest.json) |
+| Deep Rock Galactic: Biohazard Pack | 224174 | [224174-deep-rock-galactic-biohazard-pack.json](./224174-deep-rock-galactic-biohazard-pack.json) |
+| Deep Rock Galactic: Dark Future Pack | 224178 | [224178-deep-rock-galactic-dark-future-pack.json](./224178-deep-rock-galactic-dark-future-pack.json) |
 | Deep Rock Galactic: Decontaminator Pack | 289559 | [289559-deep-rock-galactic-decontaminator-pack.json](./289559-deep-rock-galactic-decontaminator-pack.json) |
 | Deep Rock Galactic: Deluxe Edition | 188021 | [188021-deep-rock-galactic-deluxe-edition.json](./188021-deep-rock-galactic-deluxe-edition.json) |
 | Deep Rock Galactic: Order of the Deep Pack | 302936 | [302936-deep-rock-galactic-order-of-the-deep-pack.json](./302936-deep-rock-galactic-order-of-the-deep-pack.json) |
+| Deep Rock Galactic: Rival Tech Pack | 224176 | [224176-deep-rock-galactic-rival-tech-pack.json](./224176-deep-rock-galactic-rival-tech-pack.json) |
+| Deep Rock Galactic: Robot Rebellion Pack | 224175 | [224175-deep-rock-galactic-robot-rebellion-pack.json](./224175-deep-rock-galactic-robot-rebellion-pack.json) |
 | Deep Rock Galactic: Rogue Core | 270354 | [270354-deep-rock-galactic-rogue-core.json](./270354-deep-rock-galactic-rogue-core.json) |
 | Deep Rock Galactic: Season 2 - Rival Escalation | 209974 | [209974-deep-rock-galactic-season-2-rival-escalation.json](./209974-deep-rock-galactic-season-2-rival-escalation.json) |
+| Deep Rock Galactic: Season 3 - Plaguefall | 224166 | [224166-deep-rock-galactic-season-3-plaguefall.json](./224166-deep-rock-galactic-season-3-plaguefall.json) |
 | Deep Rock Galactic: Season 4 - Critical Corruption | 251542 | [251542-deep-rock-galactic-season-4-critical-corruption.json](./251542-deep-rock-galactic-season-4-critical-corruption.json) |
 | Deep Rock Galactic: Supporter II Upgrade | 289558 | [289558-deep-rock-galactic-supporter-ii-upgrade.json](./289558-deep-rock-galactic-supporter-ii-upgrade.json) |
+| Deep Rock Galactic: Supporter Upgrade | 224177 | [224177-deep-rock-galactic-supporter-upgrade.json](./224177-deep-rock-galactic-supporter-upgrade.json) |
 | Deep Rock Galactic: Survivor | 240556 | [240556-deep-rock-galactic-survivor.json](./240556-deep-rock-galactic-survivor.json) |
 | Deep Rock Galactic: Ultimate Edition | 188047 | [188047-deep-rock-galactic-ultimate-edition.json](./188047-deep-rock-galactic-ultimate-edition.json) |
 | Deep Rune | 153962 | [153962-deep-rune.json](./153962-deep-rune.json) |
@@ -11934,13 +11940,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Light 2: Stay Human - Reloaded Edition | 322800 | [322800-dying-light-2-stay-human-reloaded-edition.json](./322800-dying-light-2-stay-human-reloaded-edition.json) |
 | Dying Light 2: Stay Human - The Walking Dead Bundle | 259068 | [259068-dying-light-2-stay-human-the-walking-dead-bundle.json](./259068-dying-light-2-stay-human-the-walking-dead-bundle.json) |
 | Dying Light 2: Stay Human - Ultimate Edition | 169196 | [169196-dying-light-2-stay-human-ultimate-edition.json](./169196-dying-light-2-stay-human-ultimate-edition.json) |
+| Dying Light: 5th Anniversary Bundle | 224132 | [224132-dying-light-5th-anniversary-bundle.json](./224132-dying-light-5th-anniversary-bundle.json) |
 | Dying Light: Bozak Horde | 16299 | [16299-dying-light-bozak-horde.json](./16299-dying-light-bozak-horde.json) |
+| Dying Light: Classified Operation Bundle | 224130 | [224130-dying-light-classified-operation-bundle.json](./224130-dying-light-classified-operation-bundle.json) |
 | Dying Light: Cuisine & Cargo | 150043 | [150043-dying-light-cuisine-and-cargo.json](./150043-dying-light-cuisine-and-cargo.json) |
 | Dying Light: Definitive Edition | 205006 | [205006-dying-light-definitive-edition.json](./205006-dying-light-definitive-edition.json) |
 | Dying Light: Dieselpunk Bundle | 224128 | [224128-dying-light-dieselpunk-bundle.json](./224128-dying-light-dieselpunk-bundle.json) |
 | Dying Light: Enhanced Edition | 248317 | [248317-dying-light-enhanced-edition.json](./248317-dying-light-enhanced-edition.json) |
+| Dying Light: Godfather Bundle | 224142 | [224142-dying-light-godfather-bundle.json](./224142-dying-light-godfather-bundle.json) |
+| Dying Light: Harran Inmate Bundle | 224137 | [224137-dying-light-harran-inmate-bundle.json](./224137-dying-light-harran-inmate-bundle.json) |
+| Dying Light: Ox Warrior Bundle | 224134 | [224134-dying-light-ox-warrior-bundle.json](./224134-dying-light-ox-warrior-bundle.json) |
 | Dying Light: Platinum Edition | 152030 | [152030-dying-light-platinum-edition.json](./152030-dying-light-platinum-edition.json) |
+| Dying Light: Rais Elite Bundle | 224138 | [224138-dying-light-rais-elite-bundle.json](./224138-dying-light-rais-elite-bundle.json) |
+| Dying Light: Retrowave Bundle | 224136 | [224136-dying-light-retrowave-bundle.json](./224136-dying-light-retrowave-bundle.json) |
+| Dying Light: Rust Weapon Pack | 224143 | [224143-dying-light-rust-weapon-pack.json](./224143-dying-light-rust-weapon-pack.json) |
+| Dying Light: Savvy Gamer Bundle | 224141 | [224141-dying-light-savvy-gamer-bundle.json](./224141-dying-light-savvy-gamer-bundle.json) |
 | Dying Light: Shu Warrior Bundle | 224127 | [224127-dying-light-shu-warrior-bundle.json](./224127-dying-light-shu-warrior-bundle.json) |
+| Dying Light: Snow Ops Bundle | 224140 | [224140-dying-light-snow-ops-bundle.json](./224140-dying-light-snow-ops-bundle.json) |
 | Dying Light: The Beast - Action Hero Essentials | 406279 | [406279-dying-light-the-beast-action-hero-essentials.json](./406279-dying-light-the-beast-action-hero-essentials.json) |
 | Dying Light: The Beast - Castor Woods Prepper Bundle | 406277 | [406277-dying-light-the-beast-castor-woods-prepper-bundle.json](./406277-dying-light-the-beast-castor-woods-prepper-bundle.json) |
 | Dying Light: The Beast - Discharge Weapon Pack | 406280 | [406280-dying-light-the-beast-discharge-weapon-pack.json](./406280-dying-light-the-beast-discharge-weapon-pack.json) |
@@ -11951,6 +11967,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Light: The Following - Gun Psycho Bundle | 51768 | [51768-dying-light-the-following-gun-psycho-bundle.json](./51768-dying-light-the-following-gun-psycho-bundle.json) |
 | Dying Light: The Following - Harran Ranger Bundle | 51767 | [51767-dying-light-the-following-harran-ranger-bundle.json](./51767-dying-light-the-following-harran-ranger-bundle.json) |
 | Dying Light: The Following - Volatile Hunter Bundle | 51766 | [51766-dying-light-the-following-volatile-hunter-bundle.json](./51766-dying-light-the-following-volatile-hunter-bundle.json) |
+| Dying Light: Unturned Weapon Pack | 224145 | [224145-dying-light-unturned-weapon-pack.json](./224145-dying-light-unturned-weapon-pack.json) |
+| Dying Light: Viking - Raiders of Harran Bundle | 224131 | [224131-dying-light-viking-raiders-of-harran-bundle.json](./224131-dying-light-viking-raiders-of-harran-bundle.json) |
+| Dying Light: Vintage Gunslinger Bundle | 224133 | [224133-dying-light-vintage-gunslinger-bundle.json](./224133-dying-light-vintage-gunslinger-bundle.json) |
+| Dying Light: Volkan Combat Armor Bundle | 224139 | [224139-dying-light-volkan-combat-armor-bundle.json](./224139-dying-light-volkan-combat-armor-bundle.json) |
+| Dying Light: White Death Bundle | 224135 | [224135-dying-light-white-death-bundle.json](./224135-dying-light-white-death-bundle.json) |
 | Dying Night Sex with Zombi | 375952 | [375952-dying-night-sex-with-zombi.json](./375952-dying-night-sex-with-zombi.json) |
 | Dying of Thirst | 177298 | [177298-dying-of-thirst.json](./177298-dying-of-thirst.json) |
 | Dying Reign | 355560 | [355560-dying-reign.json](./355560-dying-reign.json) |
