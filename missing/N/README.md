@@ -1433,6 +1433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemesis: The Final Challenge | 262392 | [262392-nemesis-the-final-challenge.json](./262392-nemesis-the-final-challenge.json) |
 | Nemexia | 142976 | [142976-nemexia.json](./142976-nemexia.json) |
 | Nemezis: Mysterious Journey III - Deluxe Edition | 159692 | [159692-nemezis-mysterious-journey-iii-deluxe-edition.json](./159692-nemezis-mysterious-journey-iii-deluxe-edition.json) |
+| Nemire | 199306 | [199306-nemire.json](./199306-nemire.json) |
 | Nemixar | 396003 | [396003-nemixar.json](./396003-nemixar.json) |
 | Nemiza's Verdict | 335832 | [335832-nemizas-verdict.json](./335832-nemizas-verdict.json) |
 | Nemo | 303778 | [303778-nemo.json](./303778-nemo.json) |
@@ -2667,6 +2668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nifa's First Mission | 248051 | [248051-nifas-first-mission.json](./248051-nifas-first-mission.json) |
 | Niffelheim: Odin's Blessing | 167841 | [167841-niffelheim-odins-blessing.json](./167841-niffelheim-odins-blessing.json) |
 | Niflheim Academy | 225672 | [225672-niflheim-academy.json](./225672-niflheim-academy.json) |
+| Niflhel's Fables: The Book of Gypsies | 199315 | [199315-niflhels-fables-the-book-of-gypsies.json](./199315-niflhels-fables-the-book-of-gypsies.json) |
 | Nifty Drifty | 197701 | [197701-nifty-drifty.json](./197701-nifty-drifty.json) |
 | Nifty Island | 282824 | [282824-nifty-island.json](./282824-nifty-island.json) |
 | Nigate Tale | 139175 | [139175-nigate-tale.json](./139175-nigate-tale.json) |
