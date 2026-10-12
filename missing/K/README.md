@@ -2015,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of the Sandcastle | 129566 | [129566-king-of-the-sandcastle.json](./129566-king-of-the-sandcastle.json) |
 | King of the Savage Realms | 195473 | [195473-king-of-the-savage-realms.json](./195473-king-of-the-savage-realms.json) |
 | King of the Times | 269225 | [269225-king-of-the-times.json](./269225-king-of-the-times.json) |
+| King of the Universe | 188878 | [188878-king-of-the-universe.json](./188878-king-of-the-universe.json) |
 | King of the West | 231986 | [231986-king-of-the-west.json](./231986-king-of-the-west.json) |
 | King of Thieves | 39216 | [39216-king-of-thieves.json](./39216-king-of-thieves.json) |
 | King of Tokyo | 391281 | [391281-king-of-tokyo.json](./391281-king-of-tokyo.json) |
