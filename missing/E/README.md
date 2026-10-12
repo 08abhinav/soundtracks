@@ -671,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eco City | 397760 | [397760-eco-city.json](./397760-eco-city.json) |
 | Eco Mahjong | 177049 | [177049-eco-mahjong.json](./177049-eco-mahjong.json) |
 | Eco Of The Wild Online | 287192 | [287192-eco-of-the-wild-online.json](./287192-eco-of-the-wild-online.json) |
+| Eco Park | 188891 | [188891-eco-park.json](./188891-eco-park.json) |
 | Eco Ronin | 323440 | [323440-eco-ronin.json](./323440-eco-ronin.json) |
 | Eco Shooter: Plant 530 | 20506 | [20506-eco-shooter-plant-530.json](./20506-eco-shooter-plant-530.json) |
 | Eco Warrior Simulator | 151281 | [151281-eco-warrior-simulator.json](./151281-eco-warrior-simulator.json) |
@@ -1813,6 +1814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embassy Assault | 12935 | [12935-embassy-assault.json](./12935-embassy-assault.json) |
 | Embattled | 261872 | [261872-embattled.json](./261872-embattled.json) |
 | Ember & Blade | 340741 | [340741-ember-and-blade.json](./340741-ember-and-blade.json) |
+| Ember Crusade IV | 188880 | [188880-ember-crusade-iv.json](./188880-ember-crusade-iv.json) |
 | Ember Island | 391189 | [391189-ember-island.json](./391189-ember-island.json) |
 | Ember Kaboom | 33291 | [33291-ember-kaboom.json](./33291-ember-kaboom.json) |
 | Ember Knight Solitaire | 156107 | [156107-ember-knight-solitaire.json](./156107-ember-knight-solitaire.json) |
