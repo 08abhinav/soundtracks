@@ -393,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Pixel Wars: The Farce Awakens | 351041 | [351041-galactic-pixel-wars-the-farce-awakens.json](./351041-galactic-pixel-wars-the-farce-awakens.json) |
 | Galactic Pocket Billiards | 75936 | [75936-galactic-pocket-billiards.json](./75936-galactic-pocket-billiards.json) |
 | Galactic Princess | 62553 | [62553-galactic-princess.json](./62553-galactic-princess.json) |
+| Galactic Ravager | 187177 | [187177-galactic-ravager.json](./187177-galactic-ravager.json) |
 | Galactic Realms: Quest for the Forgotten | 400406 | [400406-galactic-realms-quest-for-the-forgotten.json](./400406-galactic-realms-quest-for-the-forgotten.json) |
 | Galactic Reign | 63665 | [63665-galactic-reign.json](./63665-galactic-reign.json) |
 | Galactic Revolution | 125315 | [125315-galactic-revolution.json](./125315-galactic-revolution.json) |
@@ -542,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Cannon Rider | 33051 | [33051-galaxy-cannon-rider.json](./33051-galaxy-cannon-rider.json) |
 | Galaxy Cocoa | 363573 | [363573-galaxy-cocoa.json](./363573-galaxy-cocoa.json) |
 | Galaxy Defenders: Classic TD | 359068 | [359068-galaxy-defenders-classic-td.json](./359068-galaxy-defenders-classic-td.json) |
+| Galaxy Defense | 188347 | [188347-galaxy-defense.json](./188347-galaxy-defense.json) |
 | Galaxy Defense War | 372018 | [372018-galaxy-defense-war.json](./372018-galaxy-defense-war.json) |
 | Galaxy Defense: Fortress TD | 344951 | [344951-galaxy-defense-fortress-td.json](./344951-galaxy-defense-fortress-td.json) |
 | Galaxy Drift | 164957 | [164957-galaxy-drift.json](./164957-galaxy-drift.json) |
@@ -3193,6 +3195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Effect | 13051 | [13051-global-effect.json](./13051-global-effect.json) |
 | Global Elite | 298684 | [298684-global-elite.json](./298684-global-elite.json) |
 | Global Farmer | 301913 | [301913-global-farmer.json](./301913-global-farmer.json) |
+| Global Flame | 188358 | [188358-global-flame.json](./188358-global-flame.json) |
 | Global Folktale | 254538 | [254538-global-folktale.json](./254538-global-folktale.json) |
 | Global Football | 402377 | [402377-global-football.json](./402377-global-football.json) |
 | Global Fortune | 119604 | [119604-global-fortune.json](./119604-global-fortune.json) |
@@ -3614,6 +3617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat's Tale 2 | 213540 | [213540-goats-tale-2.json](./213540-goats-tale-2.json) |
 | Goat's Tale 2: Plus | 236770 | [236770-goats-tale-2-plus.json](./236770-goats-tale-2-plus.json) |
 | Goat's Tale Adventure | 283378 | [283378-goats-tale-adventure.json](./283378-goats-tale-adventure.json) |
+| Goat's Tale Plus | 187173 | [187173-goats-tale-plus.json](./187173-goats-tale-plus.json) |
 | GoatBrains | 405036 | [405036-goatbrains.json](./405036-goatbrains.json) |
 | Goats on a Bridge | 10367 | [10367-goats-on-a-bridge.json](./10367-goats-on-a-bridge.json) |
 | Gob | 415231 | [415231-gob.json](./415231-gob.json) |
@@ -3838,6 +3842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goddess of Card War: DLC-1 | 170420 | [170420-goddess-of-card-war-dlc-1.json](./170420-goddess-of-card-war-dlc-1.json) |
 | Goddess of Card War: DLC-2 | 170419 | [170419-goddess-of-card-war-dlc-2.json](./170419-goddess-of-card-war-dlc-2.json) |
 | Goddess of Fate IV: Lilith | 281447 | [281447-goddess-of-fate-iv-lilith.json](./281447-goddess-of-fate-iv-lilith.json) |
+| Goddess of Genesis S | 188323 | [188323-goddess-of-genesis-s.json](./188323-goddess-of-genesis-s.json) |
 | Goddess of Hentai | 281341 | [281341-goddess-of-hentai.json](./281341-goddess-of-hentai.json) |
 | Goddess of Math | 116116 | [116116-goddess-of-math.json](./116116-goddess-of-math.json) |
 | Goddess of Strategy | 390170 | [390170-goddess-of-strategy.json](./390170-goddess-of-strategy.json) |
@@ -4118,6 +4123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Marriage | 60396 | [60396-golden-marriage.json](./60396-golden-marriage.json) |
 | Golden Marriage: Jewel Days | 60395 | [60395-golden-marriage-jewel-days.json](./60395-golden-marriage-jewel-days.json) |
 | Golden Memory 2 | 242103 | [242103-golden-memory-2.json](./242103-golden-memory-2.json) |
+| Golden Mine Pickaxe | 187190 | [187190-golden-mine-pickaxe.json](./187190-golden-mine-pickaxe.json) |
 | Golden Mine Pickaxe 2: Mummy Tombs | 195189 | [195189-golden-mine-pickaxe-2-mummy-tombs.json](./195189-golden-mine-pickaxe-2-mummy-tombs.json) |
 | Golden Moon | 158180 | [158180-golden-moon.json](./158180-golden-moon.json) |
 | Golden Nugget 64 | 3374 | [3374-golden-nugget-64.json](./3374-golden-nugget-64.json) |
@@ -6248,6 +6254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Zero | 249174 | [249174-ground-zero.json](./249174-ground-zero.json) |
 | Ground Zero | 298803 | [298803-ground-zero.json](./298803-ground-zero.json) |
 | Ground Zero: Texas | 5390 | [5390-ground-zero-texas.json](./5390-ground-zero-texas.json) |
+| Ground Zero: Texas - Nuclear Edition | 187759 | [187759-ground-zero-texas-nuclear-edition.json](./187759-ground-zero-texas-nuclear-edition.json) |
 | Ground-Unbound | 175793 | [175793-ground-unbound.json](./175793-ground-unbound.json) |
 | GroundBreaker | 375848 | [375848-groundbreaker.json](./375848-groundbreaker.json) |
 | Grounded 2: Beat the Heat | 398431 | [398431-grounded-2-beat-the-heat.json](./398431-grounded-2-beat-the-heat.json) |
