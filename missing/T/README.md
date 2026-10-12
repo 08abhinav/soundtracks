@@ -592,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takara Cards | 194401 | [194401-takara-cards.json](./194401-takara-cards.json) |
 | Takara Shimai: Scratch Simulator | 384133 | [384133-takara-shimai-scratch-simulator.json](./384133-takara-shimai-scratch-simulator.json) |
 | Takara-hai Oozumou Eisei Basho | 151639 | [151639-takara-hai-oozumou-eisei-basho.json](./151639-takara-hai-oozumou-eisei-basho.json) |
+| Takashi: Ninja Warrior | 196543 | [196543-takashi-ninja-warrior.json](./196543-takashi-ninja-warrior.json) |
 | Takatron: 2098 | 384785 | [384785-takatron-2098.json](./384785-takatron-2098.json) |
 | Take | 57490 | [57490-take.json](./57490-take.json) |
 | Take 'Em Out | 71802 | [71802-take-em-out.json](./71802-take-em-out.json) |
@@ -5665,6 +5666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Gold Road | 283120 | [283120-the-elder-scrolls-online-gold-road.json](./283120-the-elder-scrolls-online-gold-road.json) |
 | The Elder Scrolls Online: Greymoor | 128442 | [128442-the-elder-scrolls-online-greymoor.json](./128442-the-elder-scrolls-online-greymoor.json) |
 | The Elder Scrolls Online: High Isle | 195342 | [195342-the-elder-scrolls-online-high-isle.json](./195342-the-elder-scrolls-online-high-isle.json) |
+| The Elder Scrolls Online: High Isle Collector's Edition | 196517 | [196517-the-elder-scrolls-online-high-isle-collectors-edition.json](./196517-the-elder-scrolls-online-high-isle-collectors-edition.json) |
 | The Elder Scrolls Online: Horns of the Reach | 63873 | [63873-the-elder-scrolls-online-horns-of-the-reach.json](./63873-the-elder-scrolls-online-horns-of-the-reach.json) |
 | The Elder Scrolls Online: Imperial City | 117156 | [117156-the-elder-scrolls-online-imperial-city.json](./117156-the-elder-scrolls-online-imperial-city.json) |
 | The Elder Scrolls Online: Lost Depths | 237338 | [237338-the-elder-scrolls-online-lost-depths.json](./237338-the-elder-scrolls-online-lost-depths.json) |
@@ -16000,6 +16002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six: Lockdown | 312285 | [312285-tom-clancys-rainbow-six-lockdown.json](./312285-tom-clancys-rainbow-six-lockdown.json) |
 | Tom Clancy's Rainbow Six: Rogue Spear - Black Thorn | 1846 | [1846-tom-clancys-rainbow-six-rogue-spear-black-thorn.json](./1846-tom-clancys-rainbow-six-rogue-spear-black-thorn.json) |
 | Tom Clancy's Rainbow Six: Siege - Year 5 Deluxe Edition | 136815 | [136815-tom-clancys-rainbow-six-siege-year-5-deluxe-edition.json](./136815-tom-clancys-rainbow-six-siege-year-5-deluxe-edition.json) |
+| Tom Clancy's Rainbow Six: Vegas | 196507 | [196507-tom-clancys-rainbow-six-vegas.json](./196507-tom-clancys-rainbow-six-vegas.json) |
 | Tom Clancy's Rainbow Six: Vegas | 314292 | [314292-tom-clancys-rainbow-six-vegas.json](./314292-tom-clancys-rainbow-six-vegas.json) |
 | Tom Clancy's Rainbow Six: Vegas | 909 | [909-tom-clancys-rainbow-six-vegas.json](./909-tom-clancys-rainbow-six-vegas.json) |
 | Tom Clancy's Rainbow Six: Vegas 2 | 1853 | [1853-tom-clancys-rainbow-six-vegas-2.json](./1853-tom-clancys-rainbow-six-vegas-2.json) |
@@ -18431,6 +18434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainbow | 182229 | [182229-trainbow.json](./182229-trainbow.json) |
 | TrainCraft | 265614 | [265614-traincraft.json](./265614-traincraft.json) |
 | Trainee Death Simulator | 319810 | [319810-trainee-death-simulator.json](./319810-trainee-death-simulator.json) |
+| Trainer Canyon | 196526 | [196526-trainer-canyon.json](./196526-trainer-canyon.json) |
 | Trainer Eyes | 338952 | [338952-trainer-eyes.json](./338952-trainer-eyes.json) |
 | Trainfort | 345442 | [345442-trainfort.json](./345442-trainfort.json) |
 | Training aim | 88239 | [88239-training-aim.json](./88239-training-aim.json) |
