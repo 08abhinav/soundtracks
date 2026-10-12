@@ -2673,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giants | 158196 | [158196-giants.json](./158196-giants.json) |
 | Giants | 405057 | [405057-giants.json](./405057-giants.json) |
 | Giants War | 103492 | [103492-giants-war.json](./103492-giants-war.json) |
+| Giants: Citizen Kabuto | 194235 | [194235-giants-citizen-kabuto.json](./194235-giants-citizen-kabuto.json) |
 | Giants: Citizen Kabuto | 34 | [34-giants-citizen-kabuto.json](./34-giants-citizen-kabuto.json) |
 | Gibba Gibba! | 361055 | [361055-gibba-gibba.json](./361055-gibba-gibba.json) |
 | Gibberish | 317378 | [317378-gibberish.json](./317378-gibberish.json) |
@@ -4191,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf | 282126 | [282126-golf.json](./282126-golf.json) |
 | Golf | 358832 | [358832-golf.json](./358832-golf.json) |
 | Golf | 86354 | [86354-golf.json](./86354-golf.json) |
+| Golf 5 eClub | 194227 | [194227-golf-5-eclub.json](./194227-golf-5-eclub.json) |
 | Golf 5 Max | 394096 | [394096-golf-5-max.json](./394096-golf-5-max.json) |
 | Golf a Guy! | 199332 | [199332-golf-a-guy.json](./199332-golf-a-guy.json) |
 | Golf Adventure Galaxy | 74013 | [74013-golf-adventure-galaxy.json](./74013-golf-adventure-galaxy.json) |
@@ -6099,6 +6101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grooove | 272346 | [272346-grooove.json](./272346-grooove.json) |
 | Groove Adventure Rave | 69328 | [69328-groove-adventure-rave.json](./69328-groove-adventure-rave.json) |
 | Groove Adventure Rave: Hikari to Yami no Daikessen | 49597 | [49597-groove-adventure-rave-hikari-to-yami-no-daikessen.json](./49597-groove-adventure-rave-hikari-to-yami-no-daikessen.json) |
+| Groove Catch | 194193 | [194193-groove-catch.json](./194193-groove-catch.json) |
 | Groove Catcher | 171583 | [171583-groove-catcher.json](./171583-groove-catcher.json) |
 | Groove Coaster + Touhou All DLC Bundle | 362481 | [362481-groove-coaster-touhou-all-dlc-bundle.json](./362481-groove-coaster-touhou-all-dlc-bundle.json) |
 | Groove Coaster + Undertale DLC Bundle | 362273 | [362273-groove-coaster-undertale-dlc-bundle.json](./362273-groove-coaster-undertale-dlc-bundle.json) |
