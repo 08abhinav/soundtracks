@@ -8632,6 +8632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furious: Heat Racing | 199910 | [199910-furious-heat-racing.json](./199910-furious-heat-racing.json) |
 | Furistas Cat Cafe | 106594 | [106594-furistas-cat-cafe.json](./106594-furistas-cat-cafe.json) |
 | Furistas Cat Cafe | 106629 | [106629-furistas-cat-cafe.json](./106629-furistas-cat-cafe.json) |
+| Furius Legacy | 209763 | [209763-furius-legacy.json](./209763-furius-legacy.json) |
 | Furlong Fracas | 248761 | [248761-furlong-fracas.json](./248761-furlong-fracas.json) |
 | Furni-Jumpin' | 255132 | [255132-furni-jumpin.json](./255132-furni-jumpin.json) |
 | Furnish Master | 212816 | [212816-furnish-master.json](./212816-furnish-master.json) |
