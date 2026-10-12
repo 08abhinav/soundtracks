@@ -1715,6 +1715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geminose: Animal Popstars | 144940 | [144940-geminose-animal-popstars.json](./144940-geminose-animal-popstars.json) |
 | Geminum | 352391 | [352391-geminum.json](./352391-geminum.json) |
 | Gemistry | 68957 | [68957-gemistry.json](./68957-gemistry.json) |
+| Gemlands | 195456 | [195456-gemlands.json](./195456-gemlands.json) |
 | Gemmy Gems: A Cozy Shop Sim | 413170 | [413170-gemmy-gems-a-cozy-shop-sim.json](./413170-gemmy-gems-a-cozy-shop-sim.json) |
 | Gemmy's Adventure | 333112 | [333112-gemmys-adventure.json](./333112-gemmys-adventure.json) |
 | Gemology | 85167 | [85167-gemology.json](./85167-gemology.json) |
