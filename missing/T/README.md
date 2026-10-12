@@ -4774,6 +4774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Circle: Martial Arts Fighter | 206189 | [206189-the-circle-martial-arts-fighter.json](./206189-the-circle-martial-arts-fighter.json) |
 | The Circulation of Shadows | 271462 | [271462-the-circulation-of-shadows.json](./271462-the-circulation-of-shadows.json) |
 | The Circus of Misfortune | 364662 | [364662-the-circus-of-misfortune.json](./364662-the-circus-of-misfortune.json) |
+| The Citadel | 184356 | [184356-the-citadel.json](./184356-the-citadel.json) |
 | The Citadel | 58820 | [58820-the-citadel.json](./58820-the-citadel.json) |
 | The Citadel of Sinners | 271810 | [271810-the-citadel-of-sinners.json](./271810-the-citadel-of-sinners.json) |
 | The Citizen | 296374 | [296374-the-citizen.json](./296374-the-citizen.json) |
@@ -6071,6 +6072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fate of Baldr | 211209 | [211209-the-fate-of-baldr.json](./211209-the-fate-of-baldr.json) |
 | The Fate of the Bombiwa | 218075 | [218075-the-fate-of-the-bombiwa.json](./218075-the-fate-of-the-bombiwa.json) |
 | The Fate of the Pharaoh | 100188 | [100188-the-fate-of-the-pharaoh.json](./100188-the-fate-of-the-pharaoh.json) |
+| The Father | 184338 | [184338-the-father.json](./184338-the-father.json) |
 | The Fazbear Facility | 206591 | [206591-the-fazbear-facility.json](./206591-the-fazbear-facility.json) |
 | The Fear | 94356 | [94356-the-fear.json](./94356-the-fear.json) |
 | The Fear 2: Creepy Scream House | 96745 | [96745-the-fear-2-creepy-scream-house.json](./96745-the-fear-2-creepy-scream-house.json) |
@@ -8223,6 +8225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Echoes of the Past | 268405 | [268405-the-legend-of-zelda-echoes-of-the-past.json](./268405-the-legend-of-zelda-echoes-of-the-past.json) |
 | The Legend of Zelda: Echoes of Wisdom | 306149 | [306149-the-legend-of-zelda-echoes-of-wisdom.json](./306149-the-legend-of-zelda-echoes-of-wisdom.json) |
 | The Legend of Zelda: Era of Decline | 301519 | [301519-the-legend-of-zelda-era-of-decline.json](./301519-the-legend-of-zelda-era-of-decline.json) |
+| The Legend of Zelda: Eternal Rain | 184332 | [184332-the-legend-of-zelda-eternal-rain.json](./184332-the-legend-of-zelda-eternal-rain.json) |
 | The Legend of Zelda: Fall of Hyrule | 250514 | [250514-the-legend-of-zelda-fall-of-hyrule.json](./250514-the-legend-of-zelda-fall-of-hyrule.json) |
 | The Legend of Zelda: Four Swords | 163572 | [163572-the-legend-of-zelda-four-swords.json](./163572-the-legend-of-zelda-four-swords.json) |
 | The Legend of Zelda: Four Swords Online | 323278 | [323278-the-legend-of-zelda-four-swords-online.json](./323278-the-legend-of-zelda-four-swords-online.json) |
@@ -8702,6 +8705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The love letter | 398435 | [398435-the-love-letter.json](./398435-the-love-letter.json) |
 | The Love Letter | 63820 | [63820-the-love-letter.json](./63820-the-love-letter.json) |
 | The Love of Cooking | 384791 | [384791-the-love-of-cooking.json](./384791-the-love-of-cooking.json) |
+| The Lover of Me | 184328 | [184328-the-lover-of-me.json](./184328-the-lover-of-me.json) |
 | The Lucid Dreamer Bundle | 201012 | [201012-the-lucid-dreamer-bundle.json](./201012-the-lucid-dreamer-bundle.json) |
 | The Luckiest in the Megaverse | 285594 | [285594-the-luckiest-in-the-megaverse.json](./285594-the-luckiest-in-the-megaverse.json) |
 | The Lucky Acre | 409026 | [409026-the-lucky-acre.json](./409026-the-lucky-acre.json) |
@@ -14957,6 +14961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time-Gate | 69937 | [69937-time-gate.json](./69937-time-gate.json) |
 | Time's Disillusion | 236960 | [236960-times-disillusion.json](./236960-times-disillusion.json) |
 | Time's Prison | 318423 | [318423-times-prison.json](./318423-times-prison.json) |
+| Time's Race Against Time | 184326 | [184326-times-race-against-time.json](./184326-times-race-against-time.json) |
 | Time's Up | 75409 | [75409-times-up.json](./75409-times-up.json) |
 | Time's Up in Tiny Town | 190471 | [190471-times-up-in-tiny-town.json](./190471-times-up-in-tiny-town.json) |
 | Timeball | 7791 | [7791-timeball.json](./7791-timeball.json) |
@@ -19711,6 +19716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triad Volume 1 | 93153 | [93153-triad-volume-1.json](./93153-triad-volume-1.json) |
 | Triad Volume 2 | 78888 | [78888-triad-volume-2.json](./78888-triad-volume-2.json) |
 | Triad Wars | 7491 | [7491-triad-wars.json](./7491-triad-wars.json) |
+| Triadic | 184350 | [184350-triadic.json](./184350-triadic.json) |
 | Triadino | 277342 | [277342-triadino.json](./277342-triadino.json) |
 | Triage | 228341 | [228341-triage.json](./228341-triage.json) |
 | Triage | 353861 | [353861-triage.json](./353861-triage.json) |
@@ -19881,7 +19887,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Test 2: Genius Brain? | 88863 | [88863-tricky-test-2-genius-brain.json](./88863-tricky-test-2-genius-brain.json) |
 | Tricky Test 2018 | 105794 | [105794-tricky-test-2018.json](./105794-tricky-test-2018.json) |
 | Tricky Thief | 240180 | [240180-tricky-thief.json](./240180-tricky-thief.json) |
-| Tricky Towers | 21623 | [21623-tricky-towers.json](./21623-tricky-towers.json) |
 | Tricky Tracks | 229335 | [229335-tricky-tracks.json](./229335-tricky-tracks.json) |
 | Tricky Tracks 2010 | 249710 | [249710-tricky-tracks-2010.json](./249710-tricky-tracks-2010.json) |
 | Tricky Truck | 20183 | [20183-tricky-truck.json](./20183-tricky-truck.json) |
