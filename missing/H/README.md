@@ -2277,6 +2277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven's Glaive | 387362 | [387362-heavens-glaive.json](./387362-heavens-glaive.json) |
 | Heaven's Grave | 121473 | [121473-heavens-grave.json](./121473-heavens-grave.json) |
 | Heaven's Hope | 17992 | [17992-heavens-hope.json](./17992-heavens-hope.json) |
+| Heaven's Hospital | 189990 | [189990-heavens-hospital.json](./189990-heavens-hospital.json) |
 | Heaven's Ladder | 340424 | [340424-heavens-ladder.json](./340424-heavens-ladder.json) |
 | Heaven's Machine | 181296 | [181296-heavens-machine.json](./181296-heavens-machine.json) |
 | Heaven's Palace | 362725 | [362725-heavens-palace.json](./362725-heavens-palace.json) |
@@ -3673,6 +3674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Keeper | 125183 | [125183-hero-keeper.json](./125183-hero-keeper.json) |
 | Hero Legend | 246338 | [246338-hero-legend.json](./246338-hero-legend.json) |
 | Hero Like | 396188 | [396188-hero-like.json](./396188-hero-like.json) |
+| Hero Lilith | 189919 | [189919-hero-lilith.json](./189919-hero-lilith.json) |
 | Hero Link | 390194 | [390194-hero-link.json](./390194-hero-link.json) |
 | Hero Lodge | 186815 | [186815-hero-lodge.json](./186815-hero-lodge.json) |
 | Hero Mages | 197632 | [197632-hero-mages.json](./197632-hero-mages.json) |
@@ -4412,6 +4414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Gardens | 108262 | [108262-hidden-gardens.json](./108262-hidden-gardens.json) |
 | Hidden Gems of Bermuda 2 | 273034 | [273034-hidden-gems-of-bermuda-2.json](./273034-hidden-gems-of-bermuda-2.json) |
 | Hidden Gems, Hidden Secrets | 240499 | [240499-hidden-gems-hidden-secrets.json](./240499-hidden-gems-hidden-secrets.json) |
+| Hidden Ghost Town | 189902 | [189902-hidden-ghost-town.json](./189902-hidden-ghost-town.json) |
 | Hidden Girls: Bikini Dreams | 420673 | [420673-hidden-girls-bikini-dreams.json](./420673-hidden-girls-bikini-dreams.json) |
 | Hidden Girls: Quiet Beauty | 415059 | [415059-hidden-girls-quiet-beauty.json](./415059-hidden-girls-quiet-beauty.json) |
 | Hidden Girls: Tropical Vibes | 420672 | [420672-hidden-girls-tropical-vibes.json](./420672-hidden-girls-tropical-vibes.json) |
@@ -6691,6 +6694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Racing | 246461 | [246461-hot-racing.json](./246461-hot-racing.json) |
 | Hot Rider | 252257 | [252257-hot-rider.json](./252257-hot-rider.json) |
 | Hot Rider Racing Simulator | 290428 | [290428-hot-rider-racing-simulator.json](./290428-hot-rider-racing-simulator.json) |
+| Hot Roads | 189922 | [189922-hot-roads.json](./189922-hot-roads.json) |
 | Hot Robot | 367205 | [367205-hot-robot.json](./367205-hot-robot.json) |
 | Hot Rod | 12146 | [12146-hot-rod.json](./12146-hot-rod.json) |
 | Hot Rod Racer | 85180 | [85180-hot-rod-racer.json](./85180-hot-rod-racer.json) |
@@ -7012,6 +7016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Jigsaw: Vintage Revival | 273473 | [273473-house-of-jigsaw-vintage-revival.json](./273473-house-of-jigsaw-vintage-revival.json) |
 | House of Legacy | 267849 | [267849-house-of-legacy.json](./267849-house-of-legacy.json) |
 | House of Lost Souls | 333624 | [333624-house-of-lost-souls.json](./333624-house-of-lost-souls.json) |
+| House of Maids | 189980 | [189980-house-of-maids.json](./189980-house-of-maids.json) |
 | House of Moiré | 212991 | [212991-house-of-moire.json](./212991-house-of-moire.json) |
 | House of Necrosis | 206009 | [206009-house-of-necrosis.json](./206009-house-of-necrosis.json) |
 | House of Nowhere | 385861 | [385861-house-of-nowhere.json](./385861-house-of-nowhere.json) |
@@ -7583,6 +7588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Snake | 394112 | [394112-hungry-snake.json](./394112-hungry-snake.json) |
 | Hungry Sumo | 22204 | [22204-hungry-sumo.json](./22204-hungry-sumo.json) |
 | Hungry Tea Party | 129756 | [129756-hungry-tea-party.json](./129756-hungry-tea-party.json) |
+| Hungry Wolf | 189910 | [189910-hungry-wolf.json](./189910-hungry-wolf.json) |
 | HunieCam Studio | 19847 | [19847-huniecam-studio.json](./19847-huniecam-studio.json) |
 | Hunk Empire | 398363 | [398363-hunk-empire.json](./398363-hunk-empire.json) |
 | Hunker Down | 236735 | [236735-hunker-down.json](./236735-hunker-down.json) |
