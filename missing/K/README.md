@@ -2292,8 +2292,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingyo Chuuihou!: Gyopi-chan Mikke | 385785 | [385785-kingyo-chuuihou-gyopi-chan-mikke.json](./385785-kingyo-chuuihou-gyopi-chan-mikke.json) |
 | Kiniro Mosaic Memories | 202390 | [202390-kiniro-mosaic-memories.json](./202390-kiniro-mosaic-memories.json) |
 | Kiniro no Corda 2 | 57703 | [57703-kiniro-no-corda-2.json](./57703-kiniro-no-corda-2.json) |
+| Kiniro no Corda 2 f | 221321 | [221321-kiniro-no-corda-2-f.json](./221321-kiniro-no-corda-2-f.json) |
 | Kiniro no Corda 2: Encore | 57704 | [57704-kiniro-no-corda-2-encore.json](./57704-kiniro-no-corda-2-encore.json) |
+| Kiniro no Corda 2f Encore | 221322 | [221322-kiniro-no-corda-2f-encore.json](./221322-kiniro-no-corda-2f-encore.json) |
 | Kiniro no Corda 3 | 79928 | [79928-kiniro-no-corda-3.json](./79928-kiniro-no-corda-3.json) |
+| Kiniro no Corda 3 AnotherSky feat. Amane Gakuen | 221325 | [221325-kiniro-no-corda-3-anothersky-feat-amane-gakuen.json](./221325-kiniro-no-corda-3-anothersky-feat-amane-gakuen.json) |
+| Kiniro no Corda 3 AnotherSky feat. Jinnan | 221323 | [221323-kiniro-no-corda-3-anothersky-feat-jinnan.json](./221323-kiniro-no-corda-3-anothersky-feat-jinnan.json) |
+| Kiniro no Corda 3 AnotherSky feat. Shiseikan | 221324 | [221324-kiniro-no-corda-3-anothersky-feat-shiseikan.json](./221324-kiniro-no-corda-3-anothersky-feat-shiseikan.json) |
 | Kiniro no Corda 4 | 57702 | [57702-kiniro-no-corda-4.json](./57702-kiniro-no-corda-4.json) |
 | Kiniro no Corda Octave | 109570 | [109570-kiniro-no-corda-octave.json](./109570-kiniro-no-corda-octave.json) |
 | Kiniro no Corda: La Corda d'Oro | 57705 | [57705-kiniro-no-corda-la-corda-doro.json](./57705-kiniro-no-corda-la-corda-doro.json) |
