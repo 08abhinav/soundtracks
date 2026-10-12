@@ -627,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Guys: Ultimate Knockout - Season 6 | 182201 | [182201-fall-guys-ultimate-knockout-season-6.json](./182201-fall-guys-ultimate-knockout-season-6.json) |
 | Fall Guys: Wildfire Pack | 243683 | [243683-fall-guys-wildfire-pack.json](./243683-fall-guys-wildfire-pack.json) |
 | Fall In Love - My Billionaire Boss | 120870 | [120870-fall-in-love-my-billionaire-boss.json](./120870-fall-in-love-my-billionaire-boss.json) |
+| Fall in the Rift | 199342 | [199342-fall-in-the-rift.json](./199342-fall-in-the-rift.json) |
 | Fall into Decay | 253507 | [253507-fall-into-decay.json](./253507-fall-into-decay.json) |
 | Fall Jo! | 232047 | [232047-fall-jo.json](./232047-fall-jo.json) |
 | Fall Ninja | 268450 | [268450-fall-ninja.json](./268450-fall-ninja.json) |
@@ -6525,6 +6526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Apocalypse | 13850 | [13850-fort-apocalypse.json](./13850-fort-apocalypse.json) |
 | Fort Apocalypse II | 47202 | [47202-fort-apocalypse-ii.json](./47202-fort-apocalypse-ii.json) |
 | Fort Boyard | 50030 | [50030-fort-boyard.json](./50030-fort-boyard.json) |
+| Fort Boyard 2022 | 199324 | [199324-fort-boyard-2022.json](./199324-fort-boyard-2022.json) |
 | Fort Boyard, le jeu | 268131 | [268131-fort-boyard-le-jeu.json](./268131-fort-boyard-le-jeu.json) |
 | Fort Boyard: Millennium | 310666 | [310666-fort-boyard-millennium.json](./310666-fort-boyard-millennium.json) |
 | Fort Boyard: The Challenge | 388268 | [388268-fort-boyard-the-challenge.json](./388268-fort-boyard-the-challenge.json) |
@@ -7070,6 +7072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractured Light | 240830 | [240830-fractured-light.json](./240830-fractured-light.json) |
 | Fractured Mind | 294273 | [294273-fractured-mind.json](./294273-fractured-mind.json) |
 | Fractured Perception | 336149 | [336149-fractured-perception.json](./336149-fractured-perception.json) |
+| Fractured Sanity | 199303 | [199303-fractured-sanity.json](./199303-fractured-sanity.json) |
 | Fractured Skyline | 116426 | [116426-fractured-skyline.json](./116426-fractured-skyline.json) |
 | Fractured Space | 9815 | [9815-fractured-space.json](./9815-fractured-space.json) |
 | Fractured Voyage | 150787 | [150787-fractured-voyage.json](./150787-fractured-voyage.json) |
