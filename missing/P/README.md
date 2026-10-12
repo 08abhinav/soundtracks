@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paladin's Lance | 164925 | [164925-paladins-lance.json](./164925-paladins-lance.json) |
 | Paladin's Legacy | 356866 | [356866-paladins-legacy.json](./356866-paladins-legacy.json) |
 | Paladin's Oath | 190739 | [190739-paladins-oath.json](./190739-paladins-oath.json) |
+| Paladin's Passage | 199318 | [199318-paladins-passage.json](./199318-paladins-passage.json) |
 | Paladin's Quest | 166057 | [166057-paladins-quest.json](./166057-paladins-quest.json) |
 | Paladin's Quest | 46586 | [46586-paladins-quest.json](./46586-paladins-quest.json) |
 | Paladins Strike | 70844 | [70844-paladins-strike.json](./70844-paladins-strike.json) |
@@ -1217,6 +1218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parachute 22 | 205098 | [205098-parachute-22.json](./205098-parachute-22.json) |
 | Parachute Ninja | 232671 | [232671-parachute-ninja.json](./232671-parachute-ninja.json) |
 | Paracom | 384535 | [384535-paracom.json](./384535-paracom.json) |
+| Paracreat | 199304 | [199304-paracreat.json](./199304-paracreat.json) |
 | Paradaice | 151083 | [151083-paradaice.json](./151083-paradaice.json) |
 | Paradiddle | 74191 | [74191-paradiddle.json](./74191-paradiddle.json) |
 | Paradigm | 27762 | [27762-paradigm.json](./27762-paradigm.json) |
@@ -11631,6 +11633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Mate DS: Crossword Mate | 306451 | [306451-puzzle-mate-ds-crossword-mate.json](./306451-puzzle-mate-ds-crossword-mate.json) |
 | Puzzle Mate DS: Nanpure Mate | 306449 | [306449-puzzle-mate-ds-nanpure-mate.json](./306449-puzzle-mate-ds-nanpure-mate.json) |
 | Puzzle Mate DS: Oekaki Mate | 306448 | [306448-puzzle-mate-ds-oekaki-mate.json](./306448-puzzle-mate-ds-oekaki-mate.json) |
+| Puzzle Mino | 199328 | [199328-puzzle-mino.json](./199328-puzzle-mino.json) |
 | Puzzle Monkeys | 85583 | [85583-puzzle-monkeys.json](./85583-puzzle-monkeys.json) |
 | Puzzle Myth | 93374 | [93374-puzzle-myth.json](./93374-puzzle-myth.json) |
 | Puzzle Nebula | 32165 | [32165-puzzle-nebula.json](./32165-puzzle-nebula.json) |
