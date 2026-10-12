@@ -3241,6 +3241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast OL | 358509 | [358509-beast-ol.json](./358509-beast-ol.json) |
 | Beast Park | 281950 | [281950-beast-park.json](./281950-beast-park.json) |
 | Beast Quest: Ultimate Heroes | 175761 | [175761-beast-quest-ultimate-heroes.json](./175761-beast-quest-ultimate-heroes.json) |
+| Beast Saga Saikyou Gekiotsu Coliseum | 222442 | [222442-beast-saga-saikyou-gekiotsu-coliseum.json](./222442-beast-saga-saikyou-gekiotsu-coliseum.json) |
 | Beast Survivor | 374792 | [374792-beast-survivor.json](./374792-beast-survivor.json) |
 | Beast Unleashed | 349460 | [349460-beast-unleashed.json](./349460-beast-unleashed.json) |
 | Beast Whalers | 192685 | [192685-beast-whalers.json](./192685-beast-whalers.json) |
@@ -6550,6 +6551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Breaker Deluxe 2 | 85718 | [85718-block-breaker-deluxe-2.json](./85718-block-breaker-deluxe-2.json) |
 | Block Breakerz | 250413 | [250413-block-breakerz.json](./250413-block-breakerz.json) |
 | Block Bros. | 240938 | [240938-block-bros.json](./240938-block-bros.json) |
+| Block Builder SP | 222448 | [222448-block-builder-sp.json](./222448-block-builder-sp.json) |
 | Block Buster | 138046 | [138046-block-buster.json](./138046-block-buster.json) |
 | Block Buster | 138047 | [138047-block-buster.json](./138047-block-buster.json) |
 | Block Buster | 152222 | [152222-block-buster.json](./152222-block-buster.json) |
@@ -7714,6 +7716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku Boku | 236974 | [236974-boku-boku.json](./236974-boku-boku.json) |
 | Boku dake ga Shitteiru | 375356 | [375356-boku-dake-ga-shitteiru.json](./375356-boku-dake-ga-shitteiru.json) |
 | Boku ha Kimi dake wo Mitsumeru: I Gaze at Only You | 335996 | [335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json](./335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json) |
+| Boku ha Koukuu Kanseikan: Airport Hero 3D - Haneda All Stars | 222492 | [222492-boku-ha-koukuu-kanseikan-airport-hero-3d-haneda-all-stars.json](./222492-boku-ha-koukuu-kanseikan-airport-hero-3d-haneda-all-stars.json) |
 | Boku ha Koukuu Kanseikan: Airport Hero Narita | 269486 | [269486-boku-ha-koukuu-kanseikan-airport-hero-narita.json](./269486-boku-ha-koukuu-kanseikan-airport-hero-narita.json) |
 | Boku ha Koukuu Kanseikan: Airport Hero Shinchitose | 269487 | [269487-boku-ha-koukuu-kanseikan-airport-hero-shinchitose.json](./269487-boku-ha-koukuu-kanseikan-airport-hero-shinchitose.json) |
 | Boku ha Plarail Untenshi: Shinkansen & Joukikikansha-hen | 344320 | [344320-boku-ha-plarail-untenshi-shinkansen-and-joukikikansha-hen.json](./344320-boku-ha-plarail-untenshi-shinkansen-and-joukikikansha-hen.json) |
