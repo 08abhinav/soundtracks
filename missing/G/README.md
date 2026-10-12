@@ -6152,6 +6152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groovy | 201709 | [201709-groovy.json](./201709-groovy.json) |
 | Grordbattle | 116386 | [116386-grordbattle.json](./116386-grordbattle.json) |
 | Gross | 150091 | [150091-gross.json](./150091-gross.json) |
+| Grot Slasher | 203668 | [203668-grot-slasher.json](./203668-grot-slasher.json) |
 | Grotesque Insight | 258622 | [258622-grotesque-insight.json](./258622-grotesque-insight.json) |
 | Grotesque Realm | 225205 | [225205-grotesque-realm.json](./225205-grotesque-realm.json) |
 | Grotesque Tactics 2: Dungeons and Donuts | 16149 | [16149-grotesque-tactics-2-dungeons-and-donuts.json](./16149-grotesque-tactics-2-dungeons-and-donuts.json) |
