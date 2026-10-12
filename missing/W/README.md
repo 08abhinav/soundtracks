@@ -2414,6 +2414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whale Rock Games: Immersive Puzzles Bundle | 249804 | [249804-whale-rock-games-immersive-puzzles-bundle.json](./249804-whale-rock-games-immersive-puzzles-bundle.json) |
 | Whale Rock: All Games Bundle | 249802 | [249802-whale-rock-all-games-bundle.json](./249802-whale-rock-all-games-bundle.json) |
 | Whale Singer: Rise of the Leviathan | 334899 | [334899-whale-singer-rise-of-the-leviathan.json](./334899-whale-singer-rise-of-the-leviathan.json) |
+| Whale Tennis | 179979 | [179979-whale-tennis.json](./179979-whale-tennis.json) |
 | Whale Trail | 65473 | [65473-whale-trail.json](./65473-whale-trail.json) |
 | Whale Trail Frenzy | 411629 | [411629-whale-trail-frenzy.json](./411629-whale-trail-frenzy.json) |
 | Whale Well | 312626 | [312626-whale-well.json](./312626-whale-well.json) |
