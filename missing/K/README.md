@@ -2678,6 +2678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiwamero! Shunkan Jump Kentei | 222453 | [222453-kiwamero-shunkan-jump-kentei.json](./222453-kiwamero-shunkan-jump-kentei.json) |
 | Kiwanuka | 61305 | [61305-kiwanuka.json](./61305-kiwanuka.json) |
 | Kiwaya | 128962 | [128962-kiwaya.json](./128962-kiwaya.json) |
+| Kiwen Kon | 202026 | [202026-kiwen-kon.json](./202026-kiwen-kon.json) |
 | Kiwi | 186256 | [186256-kiwi.json](./186256-kiwi.json) |
 | Kiwi | 306688 | [306688-kiwi.json](./306688-kiwi.json) |
 | Kiwi 64 | 128579 | [128579-kiwi-64.json](./128579-kiwi-64.json) |
@@ -3618,6 +3619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krampus | 25317 | [25317-krampus.json](./25317-krampus.json) |
 | Krampus Kills | 191094 | [191094-krampus-kills.json](./191094-krampus-kills.json) |
 | Krampus Quest | 76674 | [76674-krampus-quest.json](./76674-krampus-quest.json) |
+| Kranker | 202041 | [202041-kranker.json](./202041-kranker.json) |
 | KrankShot! | 353789 | [353789-krankshot.json](./353789-krankshot.json) |
 | krAsAvA Shot | 116831 | [116831-krasava-shot.json](./116831-krasava-shot.json) |
 | Krashimals | 330558 | [330558-krashimals.json](./330558-krashimals.json) |
