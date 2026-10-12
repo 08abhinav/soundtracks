@@ -2410,6 +2410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Death Fighter | 200062 | [200062-red-death-fighter.json](./200062-red-death-fighter.json) |
 | Red Desert Render | 132148 | [132148-red-desert-render.json](./132148-red-desert-render.json) |
 | Red Door Ylw Door | 308556 | [308556-red-door-ylw-door.json](./308556-red-door-ylw-door.json) |
+| Red Dot: Front Line | 227166 | [227166-red-dot-front-line.json](./227166-red-dot-front-line.json) |
 | Red Dreams | 418538 | [418538-red-dreams.json](./418538-red-dreams.json) |
 | Red Dungeon | 184902 | [184902-red-dungeon.json](./184902-red-dungeon.json) |
 | Red Dusk | 356062 | [356062-red-dusk.json](./356062-red-dusk.json) |
@@ -4284,6 +4285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhyme-A-Line | 306034 | [306034-rhyme-a-line.json](./306034-rhyme-a-line.json) |
 | Rhymo's Falling Star | 306032 | [306032-rhymos-falling-star.json](./306032-rhymos-falling-star.json) |
 | Rhyolite | 335351 | [335351-rhyolite.json](./335351-rhyolite.json) |
+| Rhyth-Metria | 227167 | [227167-rhyth-metria.json](./227167-rhyth-metria.json) |
 | Rhythia | 234769 | [234769-rhythia.json](./234769-rhythia.json) |
 | Rhythm 'n Bullets | 140928 | [140928-rhythm-n-bullets.json](./140928-rhythm-n-bullets.json) |
 | Rhythm 'n Notes: Improve Your Music Skills | 79176 | [79176-rhythm-n-notes-improve-your-music-skills.json](./79176-rhythm-n-notes-improve-your-music-skills.json) |
@@ -5169,6 +5171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivais Em Batalha | 90579 | [90579-rivais-em-batalha.json](./90579-rivais-em-batalha.json) |
 | Rival Ball Tournament | 71707 | [71707-rival-ball-tournament.json](./71707-rival-ball-tournament.json) |
 | Rival Books of Aster | 38965 | [38965-rival-books-of-aster.json](./38965-rival-books-of-aster.json) |
+| Rival Fire | 227168 | [227168-rival-fire.json](./227168-rival-fire.json) |
 | Rival Fury | 188648 | [188648-rival-fury.json](./188648-rival-fury.json) |
 | Rival Gears Racing | 262467 | [262467-rival-gears-racing.json](./262467-rival-gears-racing.json) |
 | Rival Goals | 272944 | [272944-rival-goals.json](./272944-rival-goals.json) |
@@ -7953,6 +7956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Hour | 18541 | [18541-rush-hour.json](./18541-rush-hour.json) |
 | Rush Hour | 28056 | [28056-rush-hour.json](./28056-rush-hour.json) |
 | Rush Hour | 385782 | [385782-rush-hour.json](./385782-rush-hour.json) |
+| Rush Hour 3D | 227169 | [227169-rush-hour-3d.json](./227169-rush-hour-3d.json) |
 | Rush Hour Deluxe: The ultimate traffic jam game! | 220878 | [220878-rush-hour-deluxe-the-ultimate-traffic-jam-game.json](./220878-rush-hour-deluxe-the-ultimate-traffic-jam-game.json) |
 | Rush Hour Rally | 174662 | [174662-rush-hour-rally.json](./174662-rush-hour-rally.json) |
 | Rush Hours Collection | 283209 | [283209-rush-hours-collection.json](./283209-rush-hours-collection.json) |
