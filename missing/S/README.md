@@ -785,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samenai Akumu no Hate de Odorou. | 285377 | [285377-samenai-akumu-no-hate-de-odorou.json](./285377-samenai-akumu-no-hate-de-odorou.json) |
 | SameShadow: Fernando's Journey | 272241 | [272241-sameshadow-fernandos-journey.json](./272241-sameshadow-fernandos-journey.json) |
 | Samgugji: Paewang | 368040 | [368040-samgugji-paewang.json](./368040-samgugji-paewang.json) |
+| Samgukji 2022 | 215833 | [215833-samgukji-2022.json](./215833-samgukji-2022.json) |
 | Samhain | 125269 | [125269-samhain.json](./125269-samhain.json) |
 | Samhain | 178419 | [178419-samhain.json](./178419-samhain.json) |
 | Samhain | 179687 | [179687-samhain.json](./179687-samhain.json) |
@@ -6232,6 +6233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuten Order: Digital Deluxe Edition | 345702 | [345702-shuten-order-digital-deluxe-edition.json](./345702-shuten-order-digital-deluxe-edition.json) |
 | Shutix | 120230 | [120230-shutix.json](./120230-shutix.json) |
 | Shutokou Battle Gaiden: Super Technic Challenge | 208469 | [208469-shutokou-battle-gaiden-super-technic-challenge.json](./208469-shutokou-battle-gaiden-super-technic-challenge.json) |
+| Shutokou Battle Online | 215852 | [215852-shutokou-battle-online.json](./215852-shutokou-battle-online.json) |
 | Shutter | 244861 | [244861-shutter.json](./244861-shutter.json) |
 | Shutter | 391145 | [391145-shutter.json](./391145-shutter.json) |
 | Shutter 2 | 158547 | [158547-shutter-2.json](./158547-shutter-2.json) |
@@ -7179,6 +7181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sine Die | 256856 | [256856-sine-die.json](./256856-sine-die.json) |
 | Sine Mora | 10832 | [10832-sine-mora.json](./10832-sine-mora.json) |
 | Sine Mora EX | 27666 | [27666-sine-mora-ex.json](./27666-sine-mora-ex.json) |
+| Sinemareul Butakae | 215846 | [215846-sinemareul-butakae.json](./215846-sinemareul-butakae.json) |
 | Sinergy | 268964 | [268964-sinergy.json](./268964-sinergy.json) |
 | Sineus Arena Survivors | 384856 | [384856-sineus-arena-survivors.json](./384856-sineus-arena-survivors.json) |
 | Sinew | 369587 | [369587-sinew.json](./369587-sinew.json) |
@@ -13193,6 +13196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Force | 62682 | [62682-special-force.json](./62682-special-force.json) |
 | Special Force 2: Tale of the Truthful Pledge | 78634 | [78634-special-force-2-tale-of-the-truthful-pledge.json](./78634-special-force-2-tale-of-the-truthful-pledge.json) |
 | Special Force Alpha | 394786 | [394786-special-force-alpha.json](./394786-special-force-alpha.json) |
+| Special Force for Kakao | 215832 | [215832-special-force-for-kakao.json](./215832-special-force-for-kakao.json) |
 | Special Force M: Remastered | 223907 | [223907-special-force-m-remastered.json](./223907-special-force-m-remastered.json) |
 | Special Force VR | 50535 | [50535-special-force-vr.json](./50535-special-force-vr.json) |
 | Special Force VR: Infinity War | 116492 | [116492-special-force-vr-infinity-war.json](./116492-special-force-vr-infinity-war.json) |
@@ -22876,6 +22880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symphonica 64 | 110266 | [110266-symphonica-64.json](./110266-symphonica-64.json) |
 | Symphonics | 107934 | [107934-symphonics.json](./107934-symphonics.json) |
 | Symphony | 7401 | [7401-symphony.json](./7401-symphony.json) |
+| Symphony of Epic | 215829 | [215829-symphony-of-epic.json](./215829-symphony-of-epic.json) |
 | Symphony of Eternity | 59852 | [59852-symphony-of-eternity.json](./59852-symphony-of-eternity.json) |
 | Symphony of Science | 271850 | [271850-symphony-of-science.json](./271850-symphony-of-science.json) |
 | Symphony of Souls | 253573 | [253573-symphony-of-souls.json](./253573-symphony-of-souls.json) |
