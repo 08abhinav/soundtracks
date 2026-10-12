@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japan Train Models: JR Kyushu Edition | 286104 | [286104-japan-train-models-jr-kyushu-edition.json](./286104-japan-train-models-jr-kyushu-edition.json) |
 | Japan Train Models: JR West Edition | 278130 | [278130-japan-train-models-jr-west-edition.json](./278130-japan-train-models-jr-west-edition.json) |
 | Japan Trip | 340767 | [340767-japan-trip.json](./340767-japan-trip.json) |
+| Japanese DoJo | 190935 | [190935-japanese-dojo.json](./190935-japanese-dojo.json) |
 | Japanese Dominatrixes Are the Best | 385702 | [385702-japanese-dominatrixes-are-the-best.json](./385702-japanese-dominatrixes-are-the-best.json) |
 | Japanese Dungeon: Learn J-Word | 232068 | [232068-japanese-dungeon-learn-j-word.json](./232068-japanese-dungeon-learn-j-word.json) |
 | Japanese Escape Games: Atelier Kissa Furatto kara no Dasshutsu | 222222 | [222222-japanese-escape-games-atelier-kissa-furatto-kara-no-dasshutsu.json](./222222-japanese-escape-games-atelier-kissa-furatto-kara-no-dasshutsu.json) |
@@ -1010,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jezebel and the Flame | 186254 | [186254-jezebel-and-the-flame.json](./186254-jezebel-and-the-flame.json) |
 | Jezebel: Givin' Love a Shot | 260611 | [260611-jezebel-givin-love-a-shot.json](./260611-jezebel-givin-love-a-shot.json) |
 | Jezzak | 263591 | [263591-jezzak.json](./263591-jezzak.json) |
+| JezzBall Atomic | 190910 | [190910-jezzball-atomic.json](./190910-jezzball-atomic.json) |
 | Jezzball Classic Deluxe Edition | 371891 | [371891-jezzball-classic-deluxe-edition.json](./371891-jezzball-classic-deluxe-edition.json) |
 | JFCBP1 | 273114 | [273114-jfcbp1.json](./273114-jfcbp1.json) |
 | JFCBP2 | 273115 | [273115-jfcbp2.json](./273115-jfcbp2.json) |
