@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T20:51:59.605Z",
-  "total_soundtracks": 1547,
+  "generated_at": "2026-10-12T20:52:15.949Z",
+  "total_soundtracks": 1548,
   "games": [
     {
       "igdb_id": 7522,
@@ -11905,6 +11905,20 @@
           "spotify_url": "https://open.spotify.com/album/4qOpD0MgKVTaPahw9zHL59",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 27082,
+      "game_name": "Raft",
+      "game_url": "https://ostdb.net/games/raft",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/53/17/6b/53176ba8-c884-a0f0-9c9f-9bd34ed1e903/artwork.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Raft (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4Vpij8BFebiVgfCrwUM1lP",
+          "apple_music_url": "https://music.apple.com/us/album/raft-original-soundtrack/1718285264",
+          "album_link_url": "https://album.link/i/1718285264"
         }
       ]
     },
