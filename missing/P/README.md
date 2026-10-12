@@ -5783,6 +5783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Basket 2009 2010 | 268383 | [268383-planet-basket-2009-2010.json](./268383-planet-basket-2009-2010.json) |
 | Planet Blood | 156591 | [156591-planet-blood.json](./156591-planet-blood.json) |
 | Planet Bom Bom | 345486 | [345486-planet-bom-bom.json](./345486-planet-bom-bom.json) |
+| Planet Breakout 2 | 224701 | [224701-planet-breakout-2.json](./224701-planet-breakout-2.json) |
 | Planet Centauri | 34841 | [34841-planet-centauri.json](./34841-planet-centauri.json) |
 | Planet Chyton | 391760 | [391760-planet-chyton.json](./391760-planet-chyton.json) |
 | Planet Coaster 2 | 308099 | [308099-planet-coaster-2.json](./308099-planet-coaster-2.json) |
@@ -10896,6 +10897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Online | 110273 | [110273-pumpkin-online.json](./110273-pumpkin-online.json) |
 | Pumpkin Panic | 257329 | [257329-pumpkin-panic.json](./257329-pumpkin-panic.json) |
 | Pumpkin Restaurant | 345064 | [345064-pumpkin-restaurant.json](./345064-pumpkin-restaurant.json) |
+| Pumpkin Ripper | 224723 | [224723-pumpkin-ripper.json](./224723-pumpkin-ripper.json) |
 | Pumpkin SculptrVR | 30753 | [30753-pumpkin-sculptrvr.json](./30753-pumpkin-sculptrvr.json) |
 | Pumpkin Story | 201571 | [201571-pumpkin-story.json](./201571-pumpkin-story.json) |
 | Pumpkin Surprise | 246528 | [246528-pumpkin-surprise.json](./246528-pumpkin-surprise.json) |
