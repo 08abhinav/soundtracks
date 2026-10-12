@@ -7596,6 +7596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': V.S. Father Foundest | 200665 | [200665-friday-night-funkin-v-s-father-foundest.json](./200665-friday-night-funkin-v-s-father-foundest.json) |
 | Friday Night Funkin': V.S. Neco-Arc | 203230 | [203230-friday-night-funkin-v-s-neco-arc.json](./203230-friday-night-funkin-v-s-neco-arc.json) |
 | Friday Night Funkin': V.S. Whitty | 165075 | [165075-friday-night-funkin-v-s-whitty.json](./165075-friday-night-funkin-v-s-whitty.json) |
+| Friday Night Funkin': V.S. Whitty - Definitive Edition | 195454 | [195454-friday-night-funkin-v-s-whitty-definitive-edition.json](./195454-friday-night-funkin-v-s-whitty-definitive-edition.json) |
 | Friday Night Funkin': Vs Ankha | 186302 | [186302-friday-night-funkin-vs-ankha.json](./186302-friday-night-funkin-vs-ankha.json) |
 | Friday Night Funkin': VS Boykisser | 266414 | [266414-friday-night-funkin-vs-boykisser.json](./266414-friday-night-funkin-vs-boykisser.json) |
 | Friday Night Funkin': Vs Impostor | 202380 | [202380-friday-night-funkin-vs-impostor.json](./202380-friday-night-funkin-vs-impostor.json) |
