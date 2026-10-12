@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaby Arena | 182286 | [182286-kaby-arena.json](./182286-kaby-arena.json) |
 | Kabziman | 331278 | [331278-kabziman.json](./331278-kabziman.json) |
 | Kacau | 390811 | [390811-kacau.json](./390811-kacau.json) |
+| Kach | 212984 | [212984-kach.json](./212984-kach.json) |
 | Kachinka | 421328 | [421328-kachinka.json](./421328-kachinka.json) |
 | Kachou Shima Kousaku: Super Business Adventure | 37969 | [37969-kachou-shima-kousaku-super-business-adventure.json](./37969-kachou-shima-kousaku-super-business-adventure.json) |
 | Kacipbara | 393159 | [393159-kacipbara.json](./393159-kacipbara.json) |
@@ -243,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakosatsu | 109181 | [109181-kakosatsu.json](./109181-kakosatsu.json) |
 | Kaku-San-Sei Million Arthur | 44073 | [44073-kaku-san-sei-million-arthur.json](./44073-kaku-san-sei-million-arthur.json) |
 | Kakuchou Shoujo-kei Trinary | 346771 | [346771-kakuchou-shoujo-kei-trinary.json](./346771-kakuchou-shoujo-kei-trinary.json) |
+| Kakudo | 212985 | [212985-kakudo.json](./212985-kakudo.json) |
 | Kakuge Yarou: Fighting Game Creator | 43920 | [43920-kakuge-yarou-fighting-game-creator.json](./43920-kakuge-yarou-fighting-game-creator.json) |
 | Kakugo no Susume | 43830 | [43830-kakugo-no-susume.json](./43830-kakugo-no-susume.json) |
 | Kakuhina | 255610 | [255610-kakuhina.json](./255610-kakuhina.json) |
@@ -359,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kami-sama no you na Kimi he: Limited Edition | 146782 | [146782-kami-sama-no-you-na-kimi-he-limited-edition.json](./146782-kami-sama-no-you-na-kimi-he-limited-edition.json) |
 | Kami: Parade of Senses | 286000 | [286000-kami-parade-of-senses.json](./286000-kami-parade-of-senses.json) |
 | Kami: The Great Guardian | 408034 | [408034-kami-the-great-guardian.json](./408034-kami-the-great-guardian.json) |
+| Kamibako: Mythology of Cube | 212986 | [212986-kamibako-mythology-of-cube.json](./212986-kamibako-mythology-of-cube.json) |
 | Kamigami no Asobi InFinite | 136474 | [136474-kamigami-no-asobi-infinite.json](./136474-kamigami-no-asobi-infinite.json) |
 | Kamigami no Asobi: Ludere Deorum | 125461 | [125461-kamigami-no-asobi-ludere-deorum.json](./125461-kamigami-no-asobi-ludere-deorum.json) |
 | Kamigami: Spirits of the Nature | 258004 | [258004-kamigami-spirits-of-the-nature.json](./258004-kamigami-spirits-of-the-nature.json) |
@@ -2443,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby's Dream World | 243927 | [243927-kirbys-dream-world.json](./243927-kirbys-dream-world.json) |
 | Kirby's Dreamland Collision | 323916 | [323916-kirbys-dreamland-collision.json](./323916-kirbys-dreamland-collision.json) |
 | Kirby's Epic Yarn | 2184 | [2184-kirbys-epic-yarn.json](./2184-kirbys-epic-yarn.json) |
+| Kirby's Halloween Adventure | 212961 | [212961-kirbys-halloween-adventure.json](./212961-kirbys-halloween-adventure.json) |
 | Kirby's Pinball Land DX | 279225 | [279225-kirbys-pinball-land-dx.json](./279225-kirbys-pinball-land-dx.json) |
 | Kirchhoff's Revenge | 89398 | [89398-kirchhoffs-revenge.json](./89398-kirchhoffs-revenge.json) |
 | Kirei Zukin Seikatsu 2 | 325723 | [325723-kirei-zukin-seikatsu-2.json](./325723-kirei-zukin-seikatsu-2.json) |
@@ -2847,6 +2851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Shooter | 319943 | [319943-knight-shooter.json](./319943-knight-shooter.json) |
 | Knight Sim Life | 300868 | [300868-knight-sim-life.json](./300868-knight-sim-life.json) |
 | Knight Slinger | 64103 | [64103-knight-slinger.json](./64103-knight-slinger.json) |
+| Knight Solitaire 3 | 212987 | [212987-knight-solitaire-3.json](./212987-knight-solitaire-3.json) |
 | Knight Solitaire. Royal Cup | 89475 | [89475-knight-solitaire-royal-cup.json](./89475-knight-solitaire-royal-cup.json) |
 | Knight Speed | 264708 | [264708-knight-speed.json](./264708-knight-speed.json) |
 | Knight Squad 2 | 137112 | [137112-knight-squad-2.json](./137112-knight-squad-2.json) |
@@ -3636,6 +3641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krila | 260943 | [260943-krila.json](./260943-krila.json) |
 | Krim: The Music Bot | 102383 | [102383-krim-the-music-bot.json](./102383-krim-the-music-bot.json) |
 | Krimson Patrol | 409032 | [409032-krimson-patrol.json](./409032-krimson-patrol.json) |
+| Krimzon hoard | 212977 | [212977-krimzon-hoard.json](./212977-krimzon-hoard.json) |
 | Kring | 216755 | [216755-kring.json](./216755-kring.json) |
 | Krinkle Krusher | 26496 | [26496-krinkle-krusher.json](./26496-krinkle-krusher.json) |
 | Kriophobia | 50164 | [50164-kriophobia.json](./50164-kriophobia.json) |
@@ -3700,6 +3706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kubble | 111617 | [111617-kubble.json](./111617-kubble.json) |
 | Kubble Star | 129218 | [129218-kubble-star.json](./129218-kubble-star.json) |
 | Kube | 180095 | [180095-kube.json](./180095-kube.json) |
+| Kube | 212976 | [212976-kube.json](./212976-kube.json) |
 | Kube Kreatures: Bleached White | 386274 | [386274-kube-kreatures-bleached-white.json](./386274-kube-kreatures-bleached-white.json) |
 | Kubes | 67633 | [67633-kubes.json](./67633-kubes.json) |
 | Kubic | 283143 | [283143-kubic.json](./283143-kubic.json) |
