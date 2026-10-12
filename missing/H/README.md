@@ -6730,6 +6730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels: World's Best Driver | 10418 | [10418-hot-wheels-worlds-best-driver.json](./10418-hot-wheels-worlds-best-driver.json) |
 | Hot Worlds | 259036 | [259036-hot-worlds.json](./259036-hot-worlds.json) |
 | Hot-blooded Cheerleading | 324099 | [324099-hot-blooded-cheerleading.json](./324099-hot-blooded-cheerleading.json) |
+| Hot-Pink | 217490 | [217490-hot-pink.json](./217490-hot-pink.json) |
 | Hotch Kiss | 148358 | [148358-hotch-kiss.json](./148358-hotch-kiss.json) |
 | Hotch Kiss | 63302 | [63302-hotch-kiss.json](./63302-hotch-kiss.json) |
 | Hotdog Butcher | 406283 | [406283-hotdog-butcher.json](./406283-hotdog-butcher.json) |
