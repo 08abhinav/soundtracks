@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T20:51:28.841Z",
-  "total_soundtracks": 1545,
+  "generated_at": "2026-10-12T20:51:45.105Z",
+  "total_soundtracks": 1546,
   "games": [
     {
       "igdb_id": 7522,
@@ -10409,6 +10409,20 @@
           "spotify_url": "https://open.spotify.com/album/1DVCNAcMAd2eCgOmC84m2P",
           "apple_music_url": "https://music.apple.com/us/album/monument-valley-original-soundtrack/887804425",
           "album_link_url": "https://album.link/i/887804425"
+        }
+      ]
+    },
+    {
+      "igdb_id": 27771,
+      "game_name": "Moonlighter",
+      "game_url": "https://ostdb.net/games/moonlighter",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739f8af001b0e4a0e3d367ad8e",
+      "albums": [
+        {
+          "album_name": "Moonlighter (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4tTuU0u3qLeB6DjJPv2jY1",
+          "apple_music_url": "",
+          "album_link_url": "https://album.link/s/4tTuU0u3qLeB6DjJPv2jY1"
         }
       ]
     },
