@@ -1470,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | pareidolia in █▄██▄▄ | 280796 | [280796-pareidolia-in.json](./280796-pareidolia-in.json) |
 | ParelVR | 410164 | [410164-parelvr.json](./410164-parelvr.json) |
 | Parents vs. Kids | 226320 | [226320-parents-vs-kids.json](./226320-parents-vs-kids.json) |
+| Paresis | 208634 | [208634-paresis.json](./208634-paresis.json) |
 | Paresis II | 335374 | [335374-paresis-ii.json](./335374-paresis-ii.json) |
 | Parfait Fan Box | 332428 | [332428-parfait-fan-box.json](./332428-parfait-fan-box.json) |
 | Parfait Remake | 167107 | [167107-parfait-remake.json](./167107-parfait-remake.json) |
@@ -3665,6 +3666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photobia: Tales from the Dark | 298660 | [298660-photobia-tales-from-the-dark.json](./298660-photobia-tales-from-the-dark.json) |
 | Photobound | 181164 | [181164-photobound.json](./181164-photobound.json) |
 | Photochemistry | 305548 | [305548-photochemistry.json](./305548-photochemistry.json) |
+| Photoelektric | 208667 | [208667-photoelektric.json](./208667-photoelektric.json) |
 | Photogeist | 307693 | [307693-photogeist.json](./307693-photogeist.json) |
 | Photogeist Albums: Case 1 | 307337 | [307337-photogeist-albums-case-1.json](./307337-photogeist-albums-case-1.json) |
 | Photogenic Minds: Identity | 213543 | [213543-photogenic-minds-identity.json](./213543-photogenic-minds-identity.json) |
@@ -3844,6 +3846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picket Fences | 262345 | [262345-picket-fences.json](./262345-picket-fences.json) |
 | Picket Line | 249714 | [249714-picket-line.json](./249714-picket-line.json) |
 | Picket Puzzle | 293778 | [293778-picket-puzzle.json](./293778-picket-puzzle.json) |
+| Picking Wheat | 208650 | [208650-picking-wheat.json](./208650-picking-wheat.json) |
 | Pickle | 314264 | [314264-pickle.json](./314264-pickle.json) |
 | Pickle | 314284 | [314284-pickle.json](./314284-pickle.json) |
 | Pickle Frickle | 211717 | [211717-pickle-frickle.json](./211717-pickle-frickle.json) |
@@ -4829,6 +4832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piradice | 176290 | [176290-piradice.json](./176290-piradice.json) |
 | Piraka Attack | 409761 | [409761-piraka-attack.json](./409761-piraka-attack.json) |
 | Piranha | 351661 | [351661-piranha.json](./351661-piranha.json) |
+| Pirap Ilji: Geu Namjarobuteoui Talchul | 208655 | [208655-pirap-ilji-geu-namjarobuteoui-talchul.json](./208655-pirap-ilji-geu-namjarobuteoui-talchul.json) |
 | Pirarucu's Money Rush | 301023 | [301023-pirarucus-money-rush.json](./301023-pirarucus-money-rush.json) |
 | Piratado 1 | 30743 | [30743-piratado-1.json](./30743-piratado-1.json) |
 | Pirate | 305469 | [305469-pirate.json](./305469-pirate.json) |
@@ -8097,6 +8101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popgoes Arcade: Fighting Chance | 306983 | [306983-popgoes-arcade-fighting-chance.json](./306983-popgoes-arcade-fighting-chance.json) |
 | Popgoes Encore! | 238959 | [238959-popgoes-encore.json](./238959-popgoes-encore.json) |
 | Popgoes Evergreen | 234342 | [234342-popgoes-evergreen.json](./234342-popgoes-evergreen.json) |
+| Popgoes Finale | 208573 | [208573-popgoes-finale.json](./208573-popgoes-finale.json) |
 | Popgoes Reprinted | 238962 | [238962-popgoes-reprinted.json](./238962-popgoes-reprinted.json) |
 | Popgoes: Archives | 238956 | [238956-popgoes-archives.json](./238956-popgoes-archives.json) |
 | Popgoes: Lost Dreams | 250606 | [250606-popgoes-lost-dreams.json](./250606-popgoes-lost-dreams.json) |
