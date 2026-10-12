@@ -4867,6 +4867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Chain - Logic Puzzle | 96048 | [96048-number-chain-logic-puzzle.json](./96048-number-chain-logic-puzzle.json) |
 | Number Chaser | 41011 | [41011-number-chaser.json](./41011-number-chaser.json) |
 | Number Crush | 366321 | [366321-number-crush.json](./366321-number-crush.json) |
+| Number Days Sim Date | 197614 | [197614-number-days-sim-date.json](./197614-number-days-sim-date.json) |
 | Number Dungeon | 388364 | [388364-number-dungeon.json](./388364-number-dungeon.json) |
 | Number Game: 24 Points | 369736 | [369736-number-game-24-points.json](./369736-number-game-24-points.json) |
 | Number Guesser | 97905 | [97905-number-guesser.json](./97905-number-guesser.json) |
