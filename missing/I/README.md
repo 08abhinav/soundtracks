@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Level | 267956 | [267956-i-am-level.json](./267956-i-am-level.json) |
 | I am Machine | 371877 | [371877-i-am-machine.json](./371877-i-am-machine.json) |
 | I Am Monkey | 372054 | [372054-i-am-monkey.json](./372054-i-am-monkey.json) |
+| I Am Mouse | 197085 | [197085-i-am-mouse.json](./197085-i-am-mouse.json) |
 | I am Neutron | 294172 | [294172-i-am-neutron.json](./294172-i-am-neutron.json) |
 | I Am Night | 352165 | [352165-i-am-night.json](./352165-i-am-night.json) |
 | I Am Not A Robot | 388336 | [388336-i-am-not-a-robot.json](./388336-i-am-not-a-robot.json) |
@@ -349,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Traveled Back to 5 Days Before the Apocalypse | 379554 | [379554-i-traveled-back-to-5-days-before-the-apocalypse.json](./379554-i-traveled-back-to-5-days-before-the-apocalypse.json) |
 | I Unplugged the Kids | 412243 | [412243-i-unplugged-the-kids.json](./412243-i-unplugged-the-kids.json) |
 | I Walk Among Zombies Vol. 0 | 163740 | [163740-i-walk-among-zombies-vol-0.json](./163740-i-walk-among-zombies-vol-0.json) |
+| I Wani Hug that Gator! | 197078 | [197078-i-wani-hug-that-gator.json](./197078-i-wani-hug-that-gator.json) |
 | I Wanna Be the Cat | 76580 | [76580-i-wanna-be-the-cat.json](./76580-i-wanna-be-the-cat.json) |
 | I Wanna Be the Co-op | 108829 | [108829-i-wanna-be-the-co-op.json](./108829-i-wanna-be-the-co-op.json) |
 | I Wanna Be the Creator | 110912 | [110912-i-wanna-be-the-creator.json](./110912-i-wanna-be-the-creator.json) |
