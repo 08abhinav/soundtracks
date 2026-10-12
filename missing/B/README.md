@@ -3233,6 +3233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beary the Hatchet | 269679 | [269679-beary-the-hatchet.json](./269679-beary-the-hatchet.json) |
 | Bearzerk | 344983 | [344983-bearzerk.json](./344983-bearzerk.json) |
 | Bearzerkers | 17881 | [17881-bearzerkers.json](./17881-bearzerkers.json) |
+| Beast | 202029 | [202029-beast.json](./202029-beast.json) |
 | Beast Agenda 2030 | 106539 | [106539-beast-agenda-2030.json](./106539-beast-agenda-2030.json) |
 | Beast and Cleaver | 345021 | [345021-beast-and-cleaver.json](./345021-beast-and-cleaver.json) |
 | Beast and Princess | 136469 | [136469-beast-and-princess.json](./136469-beast-and-princess.json) |
@@ -4329,6 +4330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Between Stations | 177332 | [177332-between-stations.json](./177332-between-stations.json) |
 | Between Stops | 401640 | [401640-between-stops.json](./401640-between-stops.json) |
 | Between the City and the Needle | 110231 | [110231-between-the-city-and-the-needle.json](./110231-between-the-city-and-the-needle.json) |
+| Between the Lines | 202021 | [202021-between-the-lines.json](./202021-between-the-lines.json) |
 | Between the Lines | 380008 | [380008-between-the-lines.json](./380008-between-the-lines.json) |
 | Between the Worlds 2: The Pyramid | 175798 | [175798-between-the-worlds-2-the-pyramid.json](./175798-between-the-worlds-2-the-pyramid.json) |
 | Between them | 149536 | [149536-between-them.json](./149536-between-them.json) |
