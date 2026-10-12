@@ -648,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshida Koumuten | 265650 | [265650-yoshida-koumuten.json](./265650-yoshida-koumuten.json) |
 | Yoshiko, Go to Your Relatives' House! | 394434 | [394434-yoshiko-go-to-your-relatives-house.json](./394434-yoshiko-go-to-your-relatives-house.json) |
 | Yoshima: Hentai Simulator | 326304 | [326304-yoshima-hentai-simulator.json](./326304-yoshima-hentai-simulator.json) |
+| Yoshimi Yahtzee | 202039 | [202039-yoshimi-yahtzee.json](./202039-yoshimi-yahtzee.json) |
 | Yoshimi-kun wa Game Bakkari | 356152 | [356152-yoshimi-kun-wa-game-bakkari.json](./356152-yoshimi-kun-wa-game-bakkari.json) |
 | Yoshimoto Mahjong Club | 382990 | [382990-yoshimoto-mahjong-club.json](./382990-yoshimoto-mahjong-club.json) |
 | Yoshinoya | 43426 | [43426-yoshinoya.json](./43426-yoshinoya.json) |
@@ -726,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Can't Win This Game | 361263 | [361263-you-cant-win-this-game.json](./361263-you-cant-win-this-game.json) |
 | You Complete Me | 123466 | [123466-you-complete-me.json](./123466-you-complete-me.json) |
 | You Deserve | 32036 | [32036-you-deserve.json](./32036-you-deserve.json) |
+| You Do Jump | 202012 | [202012-you-do-jump.json](./202012-you-do-jump.json) |
 | You Doesn't Exist | 65826 | [65826-you-doesnt-exist.json](./65826-you-doesnt-exist.json) |
 | You Don't Belong Here | 391115 | [391115-you-dont-belong-here.json](./391115-you-dont-belong-here.json) |
 | You Don't Know Jack | 144785 | [144785-you-dont-know-jack.json](./144785-you-dont-know-jack.json) |
@@ -827,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You're Full of It | 202180 | [202180-youre-full-of-it.json](./202180-youre-full-of-it.json) |
 | You're Going to Make a Great Mother One Day | 177490 | [177490-youre-going-to-make-a-great-mother-one-day.json](./177490-youre-going-to-make-a-great-mother-one-day.json) |
 | You're Gonna Die 1000 Times (Or So) | 321474 | [321474-youre-gonna-die-1000-times-or-so.json](./321474-youre-gonna-die-1000-times-or-so.json) |
+| You're Gonna Die: Pocket Edition | 202043 | [202043-youre-gonna-die-pocket-edition.json](./202043-youre-gonna-die-pocket-edition.json) |
 | You're Gonna Miss the Bus! | 271385 | [271385-youre-gonna-miss-the-bus.json](./271385-youre-gonna-miss-the-bus.json) |
 | You're Gonna Miss the Bus! | 271683 | [271683-youre-gonna-miss-the-bus.json](./271683-youre-gonna-miss-the-bus.json) |
 | You're Grounded! | 322355 | [322355-youre-grounded.json](./322355-youre-grounded.json) |
