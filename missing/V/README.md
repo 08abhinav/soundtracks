@@ -2681,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Super Chinese | 214579 | [214579-vs-super-chinese.json](./214579-vs-super-chinese.json) |
 | Vs. Super Mario Bros. | 92342 | [92342-vs-super-mario-bros.json](./92342-vs-super-mario-bros.json) |
 | Vs. Super Xevious: Gamp no Nazo | 214580 | [214580-vs-super-xevious-gamp-no-nazo.json](./214580-vs-super-xevious-gamp-no-nazo.json) |
+| Vs. Tetris | 203108 | [203108-vs-tetris.json](./203108-vs-tetris.json) |
 | Vs. The Quest of Ki | 214591 | [214591-vs-the-quest-of-ki.json](./214591-vs-the-quest-of-ki.json) |
 | Vs. Top Gun | 214589 | [214589-vs-top-gun.json](./214589-vs-top-gun.json) |
 | Vs. Toukaidou Gojuusan-tsugi | 214602 | [214602-vs-toukaidou-gojuusan-tsugi.json](./214602-vs-toukaidou-gojuusan-tsugi.json) |
