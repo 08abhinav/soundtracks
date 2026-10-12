@@ -10487,6 +10487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protect Me Knight | 22479 | [22479-protect-me-knight.json](./22479-protect-me-knight.json) |
 | Protect Mother | 241631 | [241631-protect-mother.json](./241631-protect-mother.json) |
 | Protect My Cheese | 219642 | [219642-protect-my-cheese.json](./219642-protect-my-cheese.json) |
+| Protect My Love | 205905 | [205905-protect-my-love.json](./205905-protect-my-love.json) |
 | Protect the campus | 123502 | [123502-protect-the-campus.json](./123502-protect-the-campus.json) |
 | Protect the Grimoire | 413133 | [413133-protect-the-grimoire.json](./413133-protect-the-grimoire.json) |
 | Protect the Planet | 257969 | [257969-protect-the-planet.json](./257969-protect-the-planet.json) |
