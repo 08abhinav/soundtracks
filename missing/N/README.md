@@ -2187,6 +2187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Supper Banana! | 366220 | [366220-new-supper-banana.json](./366220-new-supper-banana.json) |
 | New Swordsman | 212478 | [212478-new-swordsman.json](./212478-new-swordsman.json) |
 | New Tab | 184587 | [184587-new-tab.json](./184587-new-tab.json) |
+| New Tales from the Borderlands: Deluxe Edition | 214140 | [214140-new-tales-from-the-borderlands-deluxe-edition.json](./214140-new-tales-from-the-borderlands-deluxe-edition.json) |
 | New Terra | 189077 | [189077-new-terra.json](./189077-new-terra.json) |
 | New Town Needs Tamer | 216989 | [216989-new-town-needs-tamer.json](./216989-new-town-needs-tamer.json) |
 | New Unou Kids Wii | 268393 | [268393-new-unou-kids-wii.json](./268393-new-unou-kids-wii.json) |
