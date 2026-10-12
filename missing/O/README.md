@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ogre Chambers DX | 239795 | [239795-ogre-chambers-dx.json](./239795-ogre-chambers-dx.json) |
 | Ogre Labs | 310703 | [310703-ogre-labs.json](./310703-ogre-labs.json) |
 | Ogre Stampede | 413480 | [413480-ogre-stampede.json](./413480-ogre-stampede.json) |
+| Ogre: Console Edition | 202050 | [202050-ogre-console-edition.json](./202050-ogre-console-edition.json) |
 | Ogre's Ambition 2 | 82775 | [82775-ogres-ambition-2.json](./82775-ogres-ambition-2.json) |
 | Ogrez | 119605 | [119605-ogrez.json](./119605-ogrez.json) |
 | Ogriesh Flower | 247079 | [247079-ogriesh-flower.json](./247079-ogriesh-flower.json) |
@@ -2075,6 +2076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ooops Up | 84290 | [84290-ooops-up.json](./84290-ooops-up.json) |
 | Ooparts | 269600 | [269600-ooparts.json](./269600-ooparts.json) |
 | Oops Airlines | 391222 | [391222-oops-airlines.json](./391222-oops-airlines.json) |
+| Oops You Started An Intergalactic War | 202020 | [202020-oops-you-started-an-intergalactic-war.json](./202020-oops-you-started-an-intergalactic-war.json) |
 | Oops, All Archers! | 263389 | [263389-oops-all-archers.json](./263389-oops-all-archers.json) |
 | Oops, I said Yes?! | 239870 | [239870-oops-i-said-yes.json](./239870-oops-i-said-yes.json) |
 | Oops! All Greyboxes! | 262548 | [262548-oops-all-greyboxes.json](./262548-oops-all-greyboxes.json) |
