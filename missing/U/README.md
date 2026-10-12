@@ -2317,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UsoNatsu: The Summer Romance Bloomed From a Lie | 234340 | [234340-usonatsu-the-summer-romance-bloomed-from-a-lie.json](./234340-usonatsu-the-summer-romance-bloomed-from-a-lie.json) |
 | Usotsuki Game | 83528 | [83528-usotsuki-game.json](./83528-usotsuki-game.json) |
 | Usotsuki Shangurira | 132090 | [132090-usotsuki-shangurira.json](./132090-usotsuki-shangurira.json) |
+| USS Tempest: Spaceship Simulator | 190894 | [190894-uss-tempest-spaceship-simulator.json](./190894-uss-tempest-spaceship-simulator.json) |
 | Ustje | 379983 | [379983-ustje.json](./379983-ustje.json) |
 | Usual | 296624 | [296624-usual.json](./296624-usual.json) |
 | Usual John | 105141 | [105141-usual-john.json](./105141-usual-john.json) |
