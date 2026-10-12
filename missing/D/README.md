@@ -3128,6 +3128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deckum Demonium | 384756 | [384756-deckum-demonium.json](./384756-deckum-demonium.json) |
 | Deckweaver: Descent Into Chaos | 260577 | [260577-deckweaver-descent-into-chaos.json](./260577-deckweaver-descent-into-chaos.json) |
 | Declan Moses | 418761 | [418761-declan-moses.json](./418761-declan-moses.json) |
+| Decline | 204865 | [204865-decline.json](./204865-decline.json) |
 | Decline | 326202 | [326202-decline.json](./326202-decline.json) |
 | Decline | 406895 | [406895-decline.json](./406895-decline.json) |
 | Deco Deck | 247929 | [247929-deco-deck.json](./247929-deco-deck.json) |
@@ -4455,6 +4456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Racer | 61646 | [61646-desert-racer.json](./61646-desert-racer.json) |
 | Desert Raider | 151174 | [151174-desert-raider.json](./151174-desert-raider.json) |
 | Desert Rats | 12419 | [12419-desert-rats.json](./12419-desert-rats.json) |
+| Desert Revenant | 204835 | [204835-desert-revenant.json](./204835-desert-revenant.json) |
 | Desert Revenant 2: The Reawakening | 381356 | [381356-desert-revenant-2-the-reawakening.json](./381356-desert-revenant-2-the-reawakening.json) |
 | Desert Rider | 42149 | [42149-desert-rider.json](./42149-desert-rider.json) |
 | Desert Rigs | 134060 | [134060-desert-rigs.json](./134060-desert-rigs.json) |
@@ -6905,6 +6907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divnozemye | 290858 | [290858-divnozemye.json](./290858-divnozemye.json) |
 | Dìwáng Chāiqiān Bàn | 367485 | [367485-diwang-chaiqian-ban.json](./367485-diwang-chaiqian-ban.json) |
 | Dìxiàshì | 148693 | [148693-dixiashi.json](./148693-dixiashi.json) |
+| Dixotomia | 204836 | [204836-dixotomia.json](./204836-dixotomia.json) |
 | DIY Fashion Star - Design Hacks Clothing Game | 104486 | [104486-diy-fashion-star-design-hacks-clothing-game.json](./104486-diy-fashion-star-design-hacks-clothing-game.json) |
 | DIY Horse Race Thing | 342860 | [342860-diy-horse-race-thing.json](./342860-diy-horse-race-thing.json) |
 | DIY My Boy | 165704 | [165704-diy-my-boy.json](./165704-diy-my-boy.json) |
@@ -11004,6 +11007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Life 9: The Flock | 253309 | [253309-duck-life-9-the-flock.json](./253309-duck-life-9-the-flock.json) |
 | Duck Life: Space | 29177 | [29177-duck-life-space.json](./29177-duck-life-space.json) |
 | Duck Maze | 378193 | [378193-duck-maze.json](./378193-duck-maze.json) |
+| Duck Mission | 204837 | [204837-duck-mission.json](./204837-duck-mission.json) |
 | Duck n' Dodge | 68359 | [68359-duck-n-dodge.json](./68359-duck-n-dodge.json) |
 | Duck Norris Tales | 372044 | [372044-duck-norris-tales.json](./372044-duck-norris-tales.json) |
 | Duck Nukem: Four Feathers | 230210 | [230210-duck-nukem-four-feathers.json](./230210-duck-nukem-four-feathers.json) |
