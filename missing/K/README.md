@@ -2652,6 +2652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty's Adventure for XBox One | 358365 | [358365-kittys-adventure-for-xbox-one.json](./358365-kittys-adventure-for-xbox-one.json) |
 | Kitty's Hungry Adventure | 367550 | [367550-kittys-hungry-adventure.json](./367550-kittys-hungry-adventure.json) |
 | Kitty's Last Adventure | 295372 | [295372-kittys-last-adventure.json](./295372-kittys-last-adventure.json) |
+| Kitty's Venture | 214123 | [214123-kittys-venture.json](./214123-kittys-venture.json) |
 | KittyKart | 256972 | [256972-kittykart.json](./256972-kittykart.json) |
 | KittyToy | 306605 | [306605-kittytoy.json](./306605-kittytoy.json) |
 | Kity Builder | 204525 | [204525-kity-builder.json](./204525-kity-builder.json) |
