@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life 2: Calamity | 185975 | [185975-half-life-2-calamity.json](./185975-half-life-2-calamity.json) |
 | Half-Life 2: Capture the Flag | 221720 | [221720-half-life-2-capture-the-flag.json](./221720-half-life-2-capture-the-flag.json) |
 | Half-Life 2: Collector's Edition | 237394 | [237394-half-life-2-collectors-edition.json](./237394-half-life-2-collectors-edition.json) |
+| Half-Life 2: Deeper Down | 184288 | [184288-half-life-2-deeper-down.json](./184288-half-life-2-deeper-down.json) |
 | Half-Life 2: Game of the Year Edition | 314459 | [314459-half-life-2-game-of-the-year-edition.json](./314459-half-life-2-game-of-the-year-edition.json) |
 | Half-Life 2: MMod - Half-Life 2: Episode One | 271414 | [271414-half-life-2-mmod-half-life-2-episode-one.json](./271414-half-life-2-mmod-half-life-2-episode-one.json) |
 | Half-Life 2: MMod - Half-Life 2: Episode Two | 271415 | [271415-half-life-2-mmod-half-life-2-episode-two.json](./271415-half-life-2-mmod-half-life-2-episode-two.json) |
@@ -425,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halfmoon | 364583 | [364583-halfmoon.json](./364583-halfmoon.json) |
 | HalfMoon Adventures | 333164 | [333164-halfmoon-adventures.json](./333164-halfmoon-adventures.json) |
 | Halfquake Trilogy | 127942 | [127942-halfquake-trilogy.json](./127942-halfquake-trilogy.json) |
+| Halft | 182792 | [182792-halft.json](./182792-halft.json) |
 | Halftime Adventures | 373218 | [373218-halftime-adventures.json](./373218-halftime-adventures.json) |
 | Halftime Builders | 247416 | [247416-halftime-builders.json](./247416-halftime-builders.json) |
 | Halfway | 178445 | [178445-halfway.json](./178445-halfway.json) |
@@ -2172,6 +2174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts Deluxe | 118736 | [118736-hearts-deluxe.json](./118736-hearts-deluxe.json) |
 | Hearts in Orbit: When Stars Align | 295860 | [295860-hearts-in-orbit-when-stars-align.json](./295860-hearts-in-orbit-when-stars-align.json) |
 | Hearts in Sirence | 298972 | [298972-hearts-in-sirence.json](./298972-hearts-in-sirence.json) |
+| Hearts Like Clockwork | 184331 | [184331-hearts-like-clockwork.json](./184331-hearts-like-clockwork.json) |
 | Hearts Lite | 91330 | [91330-hearts-lite.json](./91330-hearts-lite.json) |
 | Hearts of Demons: Baron | 196029 | [196029-hearts-of-demons-baron.json](./196029-hearts-of-demons-baron.json) |
 | Hearts of Iron 2 Complete | 27833 | [27833-hearts-of-iron-2-complete.json](./27833-hearts-of-iron-2-complete.json) |
@@ -6615,6 +6618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hostile Dreams 2 | 332458 | [332458-hostile-dreams-2.json](./332458-hostile-dreams-2.json) |
 | Hostile Mars | 151031 | [151031-hostile-mars.json](./151031-hostile-mars.json) |
 | Hostile Space Revived | 97973 | [97973-hostile-space-revived.json](./97973-hostile-space-revived.json) |
+| Hostile Takeover | 182754 | [182754-hostile-takeover.json](./182754-hostile-takeover.json) |
 | Hostile Waters | 308449 | [308449-hostile-waters.json](./308449-hostile-waters.json) |
 | Hosting Simulator: 2026 | 406312 | [406312-hosting-simulator-2026.json](./406312-hosting-simulator-2026.json) |
 | Hostyle | 397700 | [397700-hostyle.json](./397700-hostyle.json) |
@@ -7841,6 +7845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hwaet! The Vercelli Book Saga | 403085 | [403085-hwaet-the-vercelli-book-saga.json](./403085-hwaet-the-vercelli-book-saga.json) |
 | Hwajilguji | 219147 | [219147-hwajilguji.json](./219147-hwajilguji.json) |
 | HWY 17 | 252093 | [252093-hwy-17.json](./252093-hwy-17.json) |
+| HWY3310 | 182786 | [182786-hwy3310.json](./182786-hwy3310.json) |
 | HxHxH = Hajimari wa H kara: Daisuki Dakara, Daikirai! | 108920 | [108920-hxhxh-hajimari-wa-h-kara-daisuki-dakara-daikirai.json](./108920-hxhxh-hajimari-wa-h-kara-daisuki-dakara-daikirai.json) |
 | Hyacinth | 225747 | [225747-hyacinth.json](./225747-hyacinth.json) |
 | Hyacinthus | 120942 | [120942-hyacinthus.json](./120942-hyacinthus.json) |
