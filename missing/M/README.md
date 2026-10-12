@@ -633,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maggotmania | 109041 | [109041-maggotmania.json](./109041-maggotmania.json) |
 | Magi Death Fight: Mahou Gakuen | 58878 | [58878-magi-death-fight-mahou-gakuen.json](./58878-magi-death-fight-mahou-gakuen.json) |
 | Magi Trials | 33449 | [33449-magi-trials.json](./33449-magi-trials.json) |
+| Magi: Aratanaru Sekai | 222480 | [222480-magi-aratanaru-sekai.json](./222480-magi-aratanaru-sekai.json) |
 | Magi: Hajimari no Meikyuu | 191666 | [191666-magi-hajimari-no-meikyuu.json](./191666-magi-hajimari-no-meikyuu.json) |
 | Magi: Mind Game | 197917 | [197917-magi-mind-game.json](./197917-magi-mind-game.json) |
 | Magia Para Todos | 86111 | [86111-magia-para-todos.json](./86111-magia-para-todos.json) |
@@ -4486,6 +4487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot DS Kuwagata | 229104 | [229104-medarot-ds-kuwagata.json](./229104-medarot-ds-kuwagata.json) |
 | Medarot DS: Kabuto Version | 67687 | [67687-medarot-ds-kabuto-version.json](./67687-medarot-ds-kabuto-version.json) |
 | Medarot G: Kabuto Version | 188653 | [188653-medarot-g-kabuto-version.json](./188653-medarot-g-kabuto-version.json) |
+| Medarot Girls Mission Kuwagata Ver. | 222459 | [222459-medarot-girls-mission-kuwagata-ver.json](./222459-medarot-girls-mission-kuwagata-ver.json) |
 | Medarot Kabuto Version | 55145 | [55145-medarot-kabuto-version.json](./55145-medarot-kabuto-version.json) |
 | Medarot Kabuto/Kuwagata | 91529 | [91529-medarot-kabuto-kuwagata.json](./91529-medarot-kabuto-kuwagata.json) |
 | Medarot Kuwagata Version | 55144 | [55144-medarot-kuwagata-version.json](./55144-medarot-kuwagata-version.json) |
@@ -5310,6 +5312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meian | 416759 | [416759-meian.json](./416759-meian.json) |
 | Meian | 97673 | [97673-meian.json](./97673-meian.json) |
 | MeiaUm: Escaping the Pix | 329373 | [329373-meiaum-escaping-the-pix.json](./329373-meiaum-escaping-the-pix.json) |
+| Meiga to Tanoshimu Otona no Machigai Sagashi | 222476 | [222476-meiga-to-tanoshimu-otona-no-machigai-sagashi.json](./222476-meiga-to-tanoshimu-otona-no-machigai-sagashi.json) |
 | Meiji Ishin | 48781 | [48781-meiji-ishin.json](./48781-meiji-ishin.json) |
 | Meiji Katsugeki Haikara Ryuuseigumi: Seibai Shimaseu, Yonaoshi Kagyou | 136827 | [136827-meiji-katsugeki-haikara-ryuuseigumi-seibai-shimaseu-yonaoshi-kagyou.json](./136827-meiji-katsugeki-haikara-ryuuseigumi-seibai-shimaseu-yonaoshi-kagyou.json) |
 | Meiji Tokyo Renka | 136445 | [136445-meiji-tokyo-renka.json](./136445-meiji-tokyo-renka.json) |
@@ -8324,6 +8327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MinMe | 241050 | [241050-minme.json](./241050-minme.json) |
 | Minna de Asobo: Shanghai DS 2 | 71570 | [71570-minna-de-asobo-shanghai-ds-2.json](./71570-minna-de-asobo-shanghai-ds-2.json) |
 | Minna de Asobou: Koinu de Kururin | 408865 | [408865-minna-de-asobou-koinu-de-kururin.json](./408865-minna-de-asobou-koinu-de-kururin.json) |
+| Minna De Daifugo | 222446 | [222446-minna-de-daifugo.json](./222446-minna-de-daifugo.json) |
 | Minna de Hayaoshi Quiz | 238971 | [238971-minna-de-hayaoshi-quiz.json](./238971-minna-de-hayaoshi-quiz.json) |
 | Minna de Nanpure | 55939 | [55939-minna-de-nanpure.json](./55939-minna-de-nanpure.json) |
 | Minna de Noujiru! Warumono Nage-houdai! Ningen Medal Game | 358495 | [358495-minna-de-noujiru-warumono-nage-houdai-ningen-medal-game.json](./358495-minna-de-noujiru-warumono-nage-houdai-ningen-medal-game.json) |
@@ -9367,6 +9371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moira: Fated Twins | 121459 | [121459-moira-fated-twins.json](./121459-moira-fated-twins.json) |
 | Moji Blade | 421379 | [421379-moji-blade.json](./421379-moji-blade.json) |
 | Moji Bowling | 92115 | [92115-moji-bowling.json](./92115-moji-bowling.json) |
+| Moji Puzzle Kotoda Maru | 222483 | [222483-moji-puzzle-kotoda-maru.json](./222483-moji-puzzle-kotoda-maru.json) |
 | Mojib-Ribbon | 25097 | [25097-mojib-ribbon.json](./25097-mojib-ribbon.json) |
 | Mójiè Qíbīng | 268440 | [268440-mojie-qibing.json](./268440-mojie-qibing.json) |
 | Mojito the Cat: Animals Skins | 298336 | [298336-mojito-the-cat-animals-skins.json](./298336-mojito-the-cat-animals-skins.json) |
