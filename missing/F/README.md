@@ -1007,6 +1007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Chess: Definitive Edition | 226334 | [226334-family-chess-definitive-edition.json](./226334-family-chess-definitive-edition.json) |
 | Family Chess: Deluxe Edition | 208584 | [208584-family-chess-deluxe-edition.json](./208584-family-chess-deluxe-edition.json) |
 | Family Chess: Director's Cut | 251525 | [251525-family-chess-directors-cut.json](./251525-family-chess-directors-cut.json) |
+| Family Chess: Extended Edition | 215312 | [215312-family-chess-extended-edition.json](./215312-family-chess-extended-edition.json) |
 | Family Chess: Magnificent Edition | 246647 | [246647-family-chess-magnificent-edition.json](./246647-family-chess-magnificent-edition.json) |
 | Family Chess: Ultimate Edition | 212340 | [212340-family-chess-ultimate-edition.json](./212340-family-chess-ultimate-edition.json) |
 | Family Chess: Ultra Deluxe | 254678 | [254678-family-chess-ultra-deluxe.json](./254678-family-chess-ultra-deluxe.json) |
@@ -4005,6 +4006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Date: Late to Date | 210233 | [210233-first-date-late-to-date.json](./210233-first-date-late-to-date.json) |
 | First date/Can't relate | 179616 | [179616-first-date-cant-relate.json](./179616-first-date-cant-relate.json) |
 | First Day: Home Defender | 129025 | [129025-first-day-home-defender.json](./129025-first-day-home-defender.json) |
+| First Dwarf | 215296 | [215296-first-dwarf.json](./215296-first-dwarf.json) |
 | First Expedition | 2892 | [2892-first-expedition.json](./2892-first-expedition.json) |
 | First Flight | 307582 | [307582-first-flight.json](./307582-first-flight.json) |
 | First Floor | 159797 | [159797-first-floor.json](./159797-first-floor.json) |
@@ -5665,6 +5667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Folklore Hunter | 128474 | [128474-folklore-hunter.json](./128474-folklore-hunter.json) |
 | Folklore: Shadows of the Shackled | 259460 | [259460-folklore-shadows-of-the-shackled.json](./259460-folklore-shadows-of-the-shackled.json) |
 | Folkloric Excursion | 159790 | [159790-folkloric-excursion.json](./159790-folkloric-excursion.json) |
+| Folktale | 215306 | [215306-folktale.json](./215306-folktale.json) |
 | Follia: Dear Father | 118671 | [118671-follia-dear-father.json](./118671-follia-dear-father.json) |
 | Follow Dalian | 377070 | [377070-follow-dalian.json](./377070-follow-dalian.json) |
 | Follow Dream | 296591 | [296591-follow-dream.json](./296591-follow-dream.json) |
