@@ -15586,6 +15586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet: Confrontation | 327301 | [327301-toilet-confrontation.json](./327301-toilet-confrontation.json) |
 | Toilet: Urinal Game | 409416 | [409416-toilet-urinal-game.json](./409416-toilet-urinal-game.json) |
 | Toiletworld | 57472 | [57472-toiletworld.json](./57472-toiletworld.json) |
+| Toite Susunde! Nazo Toki Castle | 222454 | [222454-toite-susunde-nazo-toki-castle.json](./222454-toite-susunde-nazo-toki-castle.json) |
 | ToiTony | 272277 | [272277-toitony.json](./272277-toitony.json) |
 | Tojibo | 373101 | [373101-tojibo.json](./373101-tojibo.json) |
 | Tok 2 | 116338 | [116338-tok-2.json](./116338-tok-2.json) |
