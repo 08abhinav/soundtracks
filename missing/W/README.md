@@ -5420,6 +5420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Sweeper | 415917 | [415917-world-sweeper.json](./415917-world-sweeper.json) |
 | World Table Tennis Champs | 170409 | [170409-world-table-tennis-champs.json](./170409-world-table-tennis-champs.json) |
 | World Tennis Stars | 49349 | [49349-world-tennis-stars.json](./49349-world-tennis-stars.json) |
+| World to Conquer | 223624 | [223624-world-to-conquer.json](./223624-world-to-conquer.json) |
 | World to the West | 27518 | [27518-world-to-the-west.json](./27518-world-to-the-west.json) |
 | World Tour Fishing | 5805 | [5805-world-tour-fishing.json](./5805-world-tour-fishing.json) |
 | World Tour Golf | 37172 | [37172-world-tour-golf.json](./37172-world-tour-golf.json) |
