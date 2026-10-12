@@ -430,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Witch Cats | 347751 | [347751-100-witch-cats.json](./347751-100-witch-cats.json) |
 | 100 Women: Guess the Name of 100 Famous Women | 369054 | [369054-100-women-guess-the-name-of-100-famous-women.json](./369054-100-women-guess-the-name-of-100-famous-women.json) |
 | 100 Words | 365859 | [365859-100-words.json](./365859-100-words.json) |
+| 100 Years: Life Simulator | 212457 | [212457-100-years-life-simulator.json](./212457-100-years-life-simulator.json) |
 | 100 Years' War | 96687 | [96687-100-years-war.json](./96687-100-years-war.json) |
 | 100 Yen Exorcist | 408725 | [408725-100-yen-exorcist.json](./408725-100-yen-exorcist.json) |
 | 100-Level Dungeon | 156577 | [156577-100-level-dungeon.json](./156577-100-level-dungeon.json) |
