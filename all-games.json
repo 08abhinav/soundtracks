@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T17:10:14.639Z",
-  "total_soundtracks": 1533,
+  "generated_at": "2026-10-12T17:50:14.331Z",
+  "total_soundtracks": 1534,
   "games": [
     {
       "igdb_id": 7522,
@@ -3311,6 +3311,20 @@
           "spotify_url": "https://open.spotify.com/album/5PtKUxCsYh3QKUJOF8Mlsr",
           "apple_music_url": "",
           "album_link_url": "https://album.link/s/5PtKUxCsYh3QKUJOF8Mlsr"
+        }
+      ]
+    },
+    {
+      "igdb_id": 3084,
+      "game_name": "Cry of Fear",
+      "game_url": "https://ostdb.net/games/cry-of-fear",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27316a12d11913a5faf9ffd992a",
+      "albums": [
+        {
+          "album_name": "Cry of Fear (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5W3eM8JU5JHuGbH2wgG436",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
