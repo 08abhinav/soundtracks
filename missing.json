@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T23:19:57.236Z",
-  "total_missing": 203708,
+  "generated_at": "2026-10-12T23:34:38.894Z",
+  "total_missing": 203758,
   "games": [
     {
       "igdb_id": 191680,
@@ -17713,6 +17713,11 @@
       "file": "missing/A/185077-academy-romance-7.json"
     },
     {
+      "igdb_id": 179935,
+      "game_name": "Academy Z: Beginning of the catastrophe",
+      "file": "missing/A/179935-academy-z-beginning-of-the-catastrophe.json"
+    },
+    {
       "igdb_id": 297558,
       "game_name": "Acai cOrner",
       "file": "missing/A/297558-acai-corner.json"
@@ -29431,6 +29436,11 @@
       "igdb_id": 173292,
       "game_name": "Alchemist's Mountain",
       "file": "missing/A/173292-alchemists-mountain.json"
+    },
+    {
+      "igdb_id": 179984,
+      "game_name": "Alchemist's Prison",
+      "file": "missing/A/179984-alchemists-prison.json"
     },
     {
       "igdb_id": 297059,
@@ -72383,6 +72393,26 @@
       "file": "missing/B/130409-bakuryuu-sentai-abaranger.json"
     },
     {
+      "igdb_id": 179956,
+      "game_name": "Bakushou Mondai no Totsugeki Star Pirates: Dai-1-kai",
+      "file": "missing/B/179956-bakushou-mondai-no-totsugeki-star-pirates-dai-1-kai.json"
+    },
+    {
+      "igdb_id": 179957,
+      "game_name": "Bakushou Mondai no Totsugeki Star Pirates: Dai-2-kai",
+      "file": "missing/B/179957-bakushou-mondai-no-totsugeki-star-pirates-dai-2-kai.json"
+    },
+    {
+      "igdb_id": 179958,
+      "game_name": "Bakushou Mondai no Totsugeki Star Pirates: Dai-3-kai",
+      "file": "missing/B/179958-bakushou-mondai-no-totsugeki-star-pirates-dai-3-kai.json"
+    },
+    {
+      "igdb_id": 179959,
+      "game_name": "Bakushou Mondai no Totsugeki Star Pirates: Dai-4-kai",
+      "file": "missing/B/179959-bakushou-mondai-no-totsugeki-star-pirates-dai-4-kai.json"
+    },
+    {
       "igdb_id": 45422,
       "game_name": "Bakushou!! All Yoshimoto Quiz Ou Ketteisen DX",
       "file": "missing/B/45422-bakushou-all-yoshimoto-quiz-ou-ketteisen-dx.json"
@@ -72666,6 +72696,11 @@
       "igdb_id": 260988,
       "game_name": "Bald Man Climbs Up",
       "file": "missing/B/260988-bald-man-climbs-up.json"
+    },
+    {
+      "igdb_id": 179933,
+      "game_name": "Baldi's Basic's Advanced 0.0.1",
+      "file": "missing/B/179933-baldis-basics-advanced-0-0-1.json"
     },
     {
       "igdb_id": 176497,
@@ -93768,6 +93803,11 @@
       "file": "missing/B/254006-bindmancer.json"
     },
     {
+      "igdb_id": 179978,
+      "game_name": "Bing Bong",
+      "file": "missing/B/179978-bing-bong.json"
+    },
+    {
       "igdb_id": 274436,
       "game_name": "Bing Bong Blippo",
       "file": "missing/B/274436-bing-bong-blippo.json"
@@ -94426,6 +94466,11 @@
       "igdb_id": 381612,
       "game_name": "Biolune",
       "file": "missing/B/381612-biolune.json"
+    },
+    {
+      "igdb_id": 179945,
+      "game_name": "Bioma",
+      "file": "missing/B/179945-bioma.json"
     },
     {
       "igdb_id": 142950,
@@ -120303,6 +120348,26 @@
       "file": "missing/B/150170-bs-ihatovo-monogatari.json"
     },
     {
+      "igdb_id": 179948,
+      "game_name": "BS Ihatovo Monogatari: Dai-1-ya",
+      "file": "missing/B/179948-bs-ihatovo-monogatari-dai-1-ya.json"
+    },
+    {
+      "igdb_id": 179949,
+      "game_name": "BS Ihatovo Monogatari: Dai-2-ya",
+      "file": "missing/B/179949-bs-ihatovo-monogatari-dai-2-ya.json"
+    },
+    {
+      "igdb_id": 179950,
+      "game_name": "BS Ihatovo Monogatari: Dai-3-ya",
+      "file": "missing/B/179950-bs-ihatovo-monogatari-dai-3-ya.json"
+    },
+    {
+      "igdb_id": 179951,
+      "game_name": "BS Ihatovo Monogatari: Dai-4-ya",
+      "file": "missing/B/179951-bs-ihatovo-monogatari-dai-4-ya.json"
+    },
+    {
       "igdb_id": 134431,
       "game_name": "BS Marvelous: Camp Arnold",
       "file": "missing/B/134431-bs-marvelous-camp-arnold.json"
@@ -120351,6 +120416,26 @@
       "igdb_id": 134434,
       "game_name": "BS Shin Onigashima",
       "file": "missing/B/134434-bs-shin-onigashima.json"
+    },
+    {
+      "igdb_id": 179967,
+      "game_name": "BS Shin Onigashima: Dai-1-wa",
+      "file": "missing/B/179967-bs-shin-onigashima-dai-1-wa.json"
+    },
+    {
+      "igdb_id": 179968,
+      "game_name": "BS Shin Onigashima: Dai-2-wa",
+      "file": "missing/B/179968-bs-shin-onigashima-dai-2-wa.json"
+    },
+    {
+      "igdb_id": 179969,
+      "game_name": "BS Shin Onigashima: Dai-3-wa",
+      "file": "missing/B/179969-bs-shin-onigashima-dai-3-wa.json"
+    },
+    {
+      "igdb_id": 179970,
+      "game_name": "BS Shin Onigashima: Dai-4-wa",
+      "file": "missing/B/179970-bs-shin-onigashima-dai-4-wa.json"
     },
     {
       "igdb_id": 134435,
@@ -120406,6 +120491,26 @@
       "igdb_id": 179744,
       "game_name": "BS Super Mario Collection: Dai-4-shuu",
       "file": "missing/B/179744-bs-super-mario-collection-dai-4-shuu.json"
+    },
+    {
+      "igdb_id": 179972,
+      "game_name": "BS Super Mario USA: Power Challenge - Dai-1-kai",
+      "file": "missing/B/179972-bs-super-mario-usa-power-challenge-dai-1-kai.json"
+    },
+    {
+      "igdb_id": 179973,
+      "game_name": "BS Super Mario USA: Power Challenge - Dai-2-kai",
+      "file": "missing/B/179973-bs-super-mario-usa-power-challenge-dai-2-kai.json"
+    },
+    {
+      "igdb_id": 179974,
+      "game_name": "BS Super Mario USA: Power Challenge - Dai-3-kai",
+      "file": "missing/B/179974-bs-super-mario-usa-power-challenge-dai-3-kai.json"
+    },
+    {
+      "igdb_id": 179975,
+      "game_name": "BS Super Mario USA: Power Challenge - Dai-4-kai",
+      "file": "missing/B/179975-bs-super-mario-usa-power-challenge-dai-4-kai.json"
     },
     {
       "igdb_id": 68227,
@@ -153278,6 +153383,11 @@
       "file": "missing/C/235244-chrome-wars.json"
     },
     {
+      "igdb_id": 179983,
+      "game_name": "ChromeRivals",
+      "file": "missing/C/179983-chromerivals.json"
+    },
+    {
       "igdb_id": 334834,
       "game_name": "Chromium Man Clicker",
       "file": "missing/C/334834-chromium-man-clicker.json"
@@ -159281,6 +159391,11 @@
       "igdb_id": 218703,
       "game_name": "Click to Sail",
       "file": "missing/C/218703-click-to-sail.json"
+    },
+    {
+      "igdb_id": 179946,
+      "game_name": "Click to Survive",
+      "file": "missing/C/179946-click-to-survive.json"
     },
     {
       "igdb_id": 227971,
@@ -185853,6 +185968,11 @@
       "file": "missing/C/367403-cry-of-monster.json"
     },
     {
+      "igdb_id": 179944,
+      "game_name": "Cry: Hunter's Record - Chapter 1",
+      "file": "missing/C/179944-cry-hunters-record-chapter-1.json"
+    },
+    {
       "igdb_id": 215862,
       "game_name": "Cryaxion",
       "file": "missing/C/215862-cryaxion.json"
@@ -202231,6 +202351,11 @@
       "igdb_id": 312140,
       "game_name": "Dawn of Survivor",
       "file": "missing/D/312140-dawn-of-survivor.json"
+    },
+    {
+      "igdb_id": 179971,
+      "game_name": "Dawn of Survivors 2",
+      "file": "missing/D/179971-dawn-of-survivors-2.json"
     },
     {
       "igdb_id": 106972,
@@ -224376,6 +224501,11 @@
       "igdb_id": 44108,
       "game_name": "Diplomata the Game",
       "file": "missing/D/44108-diplomata-the-game.json"
+    },
+    {
+      "igdb_id": 179941,
+      "game_name": "Diplomatic Relations",
+      "file": "missing/D/179941-diplomatic-relations.json"
     },
     {
       "igdb_id": 146831,
@@ -265908,6 +266038,11 @@
       "file": "missing/E/61108-enbornx.json"
     },
     {
+      "igdb_id": 179942,
+      "game_name": "Enby Enough",
+      "file": "missing/E/179942-enby-enough.json"
+    },
+    {
       "igdb_id": 95407,
       "game_name": "Encased",
       "file": "missing/E/95407-encased.json"
@@ -277661,6 +277796,11 @@
       "igdb_id": 28803,
       "game_name": "Evil Glitch",
       "file": "missing/E/28803-evil-glitch.json"
+    },
+    {
+      "igdb_id": 179934,
+      "game_name": "Evil God Korone",
+      "file": "missing/E/179934-evil-god-korone.json"
     },
     {
       "igdb_id": 176435,
@@ -405508,6 +405648,11 @@
       "file": "missing/I/303549-i-am-part-time-worker.json"
     },
     {
+      "igdb_id": 179940,
+      "game_name": "I am queer, am I legit ?",
+      "file": "missing/I/179940-i-am-queer-am-i-legit.json"
+    },
+    {
       "igdb_id": 256727,
       "game_name": "I am Rabbit",
       "file": "missing/I/256727-i-am-rabbit.json"
@@ -457458,6 +457603,21 @@
       "file": "missing/K/134461-kodomo-chousadan-mighty-pockets.json"
     },
     {
+      "igdb_id": 179964,
+      "game_name": "Kodomo Chousadan Mighty Pockets: Chousa 1 - Junk-ya Black no Ie",
+      "file": "missing/K/179964-kodomo-chousadan-mighty-pockets-chousa-1-junk-ya-black-no-ie.json"
+    },
+    {
+      "igdb_id": 179965,
+      "game_name": "Kodomo Chousadan Mighty Pockets: Chousa 2 - Hanzai Toshi Big Apple",
+      "file": "missing/K/179965-kodomo-chousadan-mighty-pockets-chousa-2-hanzai-toshi-big-apple.json"
+    },
+    {
+      "igdb_id": 179966,
+      "game_name": "Kodomo Chousadan Mighty Pockets: Chousa 3 - Kyakusen Queen Patra no Nazo",
+      "file": "missing/K/179966-kodomo-chousadan-mighty-pockets-chousa-3-kyakusen-queen-patra-no-nazo.json"
+    },
+    {
       "igdb_id": 353375,
       "game_name": "Kodomo-tachi no Kuni Magic Children",
       "file": "missing/K/353375-kodomo-tachi-no-kuni-magic-children.json"
@@ -486986,6 +487146,11 @@
       "igdb_id": 350047,
       "game_name": "Lordship",
       "file": "missing/L/350047-lordship.json"
+    },
+    {
+      "igdb_id": 179938,
+      "game_name": "Lore City: Alkahest",
+      "file": "missing/L/179938-lore-city-alkahest.json"
     },
     {
       "igdb_id": 202605,
@@ -518381,6 +518546,11 @@
       "igdb_id": 284324,
       "game_name": "Medusa the Origin: Lost Dream of the Deep",
       "file": "missing/M/284324-medusa-the-origin-lost-dream-of-the-deep.json"
+    },
+    {
+      "igdb_id": 179943,
+      "game_name": "Medusa VN",
+      "file": "missing/M/179943-medusa-vn.json"
     },
     {
       "igdb_id": 247181,
@@ -569993,6 +570163,26 @@
       "file": "missing/N/150171-naxat-cup-satellaview-bass-tournament-big-fight.json"
     },
     {
+      "igdb_id": 179960,
+      "game_name": "Naxat Cup Satellaview Bass Tournament \"Big Fight\": Dai-1-shuu",
+      "file": "missing/N/179960-naxat-cup-satellaview-bass-tournament-big-fight-dai-1-shuu.json"
+    },
+    {
+      "igdb_id": 179961,
+      "game_name": "Naxat Cup Satellaview Bass Tournament \"Big Fight\": Dai-2-shuu",
+      "file": "missing/N/179961-naxat-cup-satellaview-bass-tournament-big-fight-dai-2-shuu.json"
+    },
+    {
+      "igdb_id": 179962,
+      "game_name": "Naxat Cup Satellaview Bass Tournament \"Big Fight\": Dai-3-shuu",
+      "file": "missing/N/179962-naxat-cup-satellaview-bass-tournament-big-fight-dai-3-shuu.json"
+    },
+    {
+      "igdb_id": 179963,
+      "game_name": "Naxat Cup Satellaview Bass Tournament \"Big Fight\": Dai-4-shuu",
+      "file": "missing/N/179963-naxat-cup-satellaview-bass-tournament-big-fight-dai-4-shuu.json"
+    },
+    {
       "igdb_id": 37707,
       "game_name": "Naxat Open",
       "file": "missing/N/37707-naxat-open.json"
@@ -607098,6 +607288,11 @@
       "file": "missing/O/249711-our-last-dayz.json"
     },
     {
+      "igdb_id": 179937,
+      "game_name": "Our Last Stand: A way home",
+      "file": "missing/O/179937-our-last-stand-a-way-home.json"
+    },
+    {
       "igdb_id": 276186,
       "game_name": "Our Life on Water",
       "file": "missing/O/276186-our-life-on-water.json"
@@ -634261,6 +634456,11 @@
       "igdb_id": 375862,
       "game_name": "Ping Of Death: Odyssey Live",
       "file": "missing/P/375862-ping-of-death-odyssey-live.json"
+    },
+    {
+      "igdb_id": 179980,
+      "game_name": "Ping Phonk",
+      "file": "missing/P/179980-ping-phonk.json"
     },
     {
       "igdb_id": 247006,
@@ -672956,6 +673156,11 @@
       "igdb_id": 116239,
       "game_name": "Quar: Infernal Machines",
       "file": "missing/Q/116239-quar-infernal-machines.json"
+    },
+    {
+      "igdb_id": 179977,
+      "game_name": "Quarantennis",
+      "file": "missing/Q/179977-quarantennis.json"
     },
     {
       "igdb_id": 295910,
@@ -837808,6 +838013,26 @@
       "file": "missing/T/151639-takara-hai-oozumou-eisei-basho.json"
     },
     {
+      "igdb_id": 179953,
+      "game_name": "Takara-hai Oozumou Eisei Basho: Aki-basho",
+      "file": "missing/T/179953-takara-hai-oozumou-eisei-basho-aki-basho.json"
+    },
+    {
+      "igdb_id": 179955,
+      "game_name": "Takara-hai Oozumou Eisei Basho: Fuyu-basho",
+      "file": "missing/T/179955-takara-hai-oozumou-eisei-basho-fuyu-basho.json"
+    },
+    {
+      "igdb_id": 179954,
+      "game_name": "Takara-hai Oozumou Eisei Basho: Haru-basho",
+      "file": "missing/T/179954-takara-hai-oozumou-eisei-basho-haru-basho.json"
+    },
+    {
+      "igdb_id": 179952,
+      "game_name": "Takara-hai Oozumou Eisei Basho: Natsu-basho",
+      "file": "missing/T/179952-takara-hai-oozumou-eisei-basho-natsu-basho.json"
+    },
+    {
       "igdb_id": 196543,
       "game_name": "Takashi: Ninja Warrior",
       "file": "missing/T/196543-takashi-ninja-warrior.json"
@@ -848518,6 +848743,11 @@
       "file": "missing/T/123005-tennis-cup.json"
     },
     {
+      "igdb_id": 179982,
+      "game_name": "Tennis Dog: Ultimate Good Boy",
+      "file": "missing/T/179982-tennis-dog-ultimate-good-boy.json"
+    },
+    {
       "igdb_id": 197896,
       "game_name": "Tennis Elbow",
       "file": "missing/T/197896-tennis-elbow.json"
@@ -848701,6 +848931,11 @@
       "igdb_id": 172783,
       "game_name": "Tennis Tourney",
       "file": "missing/T/172783-tennis-tourney.json"
+    },
+    {
+      "igdb_id": 179981,
+      "game_name": "Tennis Tower",
+      "file": "missing/T/179981-tennis-tower.json"
     },
     {
       "igdb_id": 117168,
@@ -879508,6 +879743,11 @@
       "file": "missing/T/176347-the-miami-horror.json"
     },
     {
+      "igdb_id": 179939,
+      "game_name": "The Mice Guys",
+      "file": "missing/T/179939-the-mice-guys.json"
+    },
+    {
       "igdb_id": 108605,
       "game_name": "The Mice of Riddle Place - The Mystery of Mrs. Wirth",
       "file": "missing/T/108605-the-mice-of-riddle-place-the-mystery-of-mrs-wirth.json"
@@ -880026,6 +880266,11 @@
       "igdb_id": 415911,
       "game_name": "The Monkey's Paw",
       "file": "missing/T/415911-the-monkeys-paw.json"
+    },
+    {
+      "igdb_id": 179936,
+      "game_name": "The monotony of carrots",
+      "file": "missing/T/179936-the-monotony-of-carrots.json"
     },
     {
       "igdb_id": 111019,
@@ -981001,6 +981246,11 @@
       "igdb_id": 334899,
       "game_name": "Whale Singer: Rise of the Leviathan",
       "file": "missing/W/334899-whale-singer-rise-of-the-leviathan.json"
+    },
+    {
+      "igdb_id": 179979,
+      "game_name": "Whale Tennis",
+      "file": "missing/W/179979-whale-tennis.json"
     },
     {
       "igdb_id": 65473,
