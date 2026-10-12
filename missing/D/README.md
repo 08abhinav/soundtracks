@@ -4482,6 +4482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desertopia | 244804 | [244804-desertopia.json](./244804-desertopia.json) |
 | Deserved | 391598 | [391598-deserved.json](./391598-deserved.json) |
 | Desespejos | 181799 | [181799-desespejos.json](./181799-desespejos.json) |
+| Desi Adda: Games of India | 218634 | [218634-desi-adda-games-of-india.json](./218634-desi-adda-games-of-india.json) |
 | Desierto | 327872 | [327872-desierto.json](./327872-desierto.json) |
 | Design A Train | 106083 | [106083-design-a-train.json](./106083-design-a-train.json) |
 | Design It Girl! | 96306 | [96306-design-it-girl.json](./96306-design-it-girl.json) |
@@ -4863,6 +4864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Solitaire: Butler Story 3 | 258947 | [258947-detective-solitaire-butler-story-3.json](./258947-detective-solitaire-butler-story-3.json) |
 | Detective Solitaire: The Ghost Agency | 168693 | [168693-detective-solitaire-the-ghost-agency.json](./168693-detective-solitaire-the-ghost-agency.json) |
 | Detective Solitaire: The Ghost Agency 2 | 222280 | [222280-detective-solitaire-the-ghost-agency-2.json](./222280-detective-solitaire-the-ghost-agency-2.json) |
+| Detective Stories | 218675 | [218675-detective-stories.json](./218675-detective-stories.json) |
 | Detective Stories Bundle | 118885 | [118885-detective-stories-bundle.json](./118885-detective-stories-bundle.json) |
 | Detective Story | 148553 | [148553-detective-story.json](./148553-detective-story.json) |
 | Detective Time | 180035 | [180035-detective-time.json](./180035-detective-time.json) |
@@ -6428,6 +6430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dismal Passages | 229221 | [229221-dismal-passages.json](./229221-dismal-passages.json) |
 | Dismal Signal | 271320 | [271320-dismal-signal.json](./271320-dismal-signal.json) |
 | Dismantle: Construct Carnage | 114882 | [114882-dismantle-construct-carnage.json](./114882-dismantle-construct-carnage.json) |
+| Dismantled 2 | 218685 | [218685-dismantled-2.json](./218685-dismantled-2.json) |
 | Dismantled Director's Cut | 201695 | [201695-dismantled-directors-cut.json](./201695-dismantled-directors-cut.json) |
 | Dismantlement: Radio | 25030 | [25030-dismantlement-radio.json](./25030-dismantlement-radio.json) |
 | Dismaya | 180694 | [180694-dismaya.json](./180694-dismaya.json) |
@@ -11405,6 +11408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Killer | 400474 | [400474-dungeon-killer.json](./400474-dungeon-killer.json) |
 | Dungeon Killing | 355210 | [355210-dungeon-killing.json](./355210-dungeon-killing.json) |
 | Dungeon King | 236411 | [236411-dungeon-king.json](./236411-dungeon-king.json) |
+| Dungeon Knight | 218680 | [218680-dungeon-knight.json](./218680-dungeon-knight.json) |
 | Dungeon Knight | 252600 | [252600-dungeon-knight.json](./252600-dungeon-knight.json) |
 | Dungeon Land | 66059 | [66059-dungeon-land.json](./66059-dungeon-land.json) |
 | Dungeon Legend | 242491 | [242491-dungeon-legend.json](./242491-dungeon-legend.json) |
