@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V-Rally 4: Ultimate Edition | 110832 | [110832-v-rally-4-ultimate-edition.json](./110832-v-rally-4-ultimate-edition.json) |
 | V-Ray | 138709 | [138709-v-ray.json](./138709-v-ray.json) |
 | V-Shift | 338559 | [338559-v-shift.json](./338559-v-shift.json) |
+| V-Speedway | 194220 | [194220-v-speedway.json](./194220-v-speedway.json) |
 | V-Tennis | 20711 | [20711-v-tennis.json](./20711-v-tennis.json) |
 | V-Tennis 2 | 57712 | [57712-v-tennis-2.json](./57712-v-tennis-2.json) |
 | V-VR | 27739 | [27739-v-vr.json](./27739-v-vr.json) |
@@ -523,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Van Helsing | 6226 | [6226-van-helsing.json](./6226-van-helsing.json) |
 | Van Helsing sniper Zx100 | 85470 | [85470-van-helsing-sniper-zx100.json](./85470-van-helsing-sniper-zx100.json) |
 | Van Life: Home Simulator | 370793 | [370793-van-life-home-simulator.json](./370793-van-life-home-simulator.json) |
+| Van Pershing | 194186 | [194186-van-pershing.json](./194186-van-pershing.json) |
 | Van Stalker | 386969 | [386969-van-stalker.json](./386969-van-stalker.json) |
 | Van Tourisimo | 182947 | [182947-van-tourisimo.json](./182947-van-tourisimo.json) |
 | Van V. Vamp | 342125 | [342125-van-v-vamp.json](./342125-van-v-vamp.json) |
