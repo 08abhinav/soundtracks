@@ -503,6 +503,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kantai Collection | 12737 | [12737-kantai-collection.json](./12737-kantai-collection.json) |
 | Kanto Expansion Pak | 282044 | [282044-kanto-expansion-pak.json](./282044-kanto-expansion-pak.json) |
 | Kanuchi: Futatsu No Tsubasa | 56765 | [56765-kanuchi-futatsu-no-tsubasa.json](./56765-kanuchi-futatsu-no-tsubasa.json) |
+| Kanuchi: Kuroki Tsubasa no Shou | 218646 | [218646-kanuchi-kuroki-tsubasa-no-shou.json](./218646-kanuchi-kuroki-tsubasa-no-shou.json) |
+| Kanuchi: Shiroki Tsubasa no Shou | 218643 | [218643-kanuchi-shiroki-tsubasa-no-shou.json](./218643-kanuchi-shiroki-tsubasa-no-shou.json) |
 | Kanun 1919 | 396567 | [396567-kanun-1919.json](./396567-kanun-1919.json) |
 | Kanye Quest 3030 | 63104 | [63104-kanye-quest-3030.json](./63104-kanye-quest-3030.json) |
 | Kanye Zone | 274745 | [274745-kanye-zone.json](./274745-kanye-zone.json) |
