@@ -4323,6 +4323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Pepper Crew | 184629 | [184629-the-black-pepper-crew.json](./184629-the-black-pepper-crew.json) |
 | The Black Pool | 226447 | [226447-the-black-pool.json](./226447-the-black-pool.json) |
 | The Black Pool: Arena Survivors | 374750 | [374750-the-black-pool-arena-survivors.json](./374750-the-black-pool-arena-survivors.json) |
+| The Black Pyramid | 184298 | [184298-the-black-pyramid.json](./184298-the-black-pyramid.json) |
 | The Black Rose | 124260 | [124260-the-black-rose.json](./124260-the-black-rose.json) |
 | The Black Shift | 406736 | [406736-the-black-shift.json](./406736-the-black-shift.json) |
 | The Black Signal | 351709 | [351709-the-black-signal.json](./351709-the-black-signal.json) |
@@ -4433,6 +4434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Borderless | 406117 | [406117-the-borderless.json](./406117-the-borderless.json) |
 | The Boss Baby: Get That Baby! | 256853 | [256853-the-boss-baby-get-that-baby.json](./256853-the-boss-baby-get-that-baby.json) |
 | The Boss Gangster: Criminal Empire - From the Streets | 400956 | [400956-the-boss-gangster-criminal-empire-from-the-streets.json](./400956-the-boss-gangster-criminal-empire-from-the-streets.json) |
+| The Boss: A Jacksepticeye Fan Game | 184294 | [184294-the-boss-a-jacksepticeye-fan-game.json](./184294-the-boss-a-jacksepticeye-fan-game.json) |
 | The Bot Squad: Puzzle Battles | 344452 | [344452-the-bot-squad-puzzle-battles.json](./344452-the-bot-squad-puzzle-battles.json) |
 | The Botanist | 130113 | [130113-the-botanist.json](./130113-the-botanist.json) |
 | The Botanist | 26425 | [26425-the-botanist.json](./26425-the-botanist.json) |
@@ -5454,6 +5456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Diamond Mystery in Rosemond Valley | 125305 | [125305-the-diamond-mystery-in-rosemond-valley.json](./125305-the-diamond-mystery-in-rosemond-valley.json) |
 | The Diary | 250356 | [250356-the-diary.json](./250356-the-diary.json) |
 | The Die Is Cast | 240474 | [240474-the-die-is-cast.json](./240474-the-die-is-cast.json) |
+| The Difference Between Us | 184309 | [184309-the-difference-between-us.json](./184309-the-difference-between-us.json) |
 | The Dig | 207 | [207-the-dig.json](./207-the-dig.json) |
 | The Dime Birthday Level Collection | 312901 | [312901-the-dime-birthday-level-collection.json](./312901-the-dime-birthday-level-collection.json) |
 | The Dimension of Anaconda | 360101 | [360101-the-dimension-of-anaconda.json](./360101-the-dimension-of-anaconda.json) |
@@ -19198,6 +19201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TransGenDeer | 327847 | [327847-transgendeer.json](./327847-transgendeer.json) |
 | Transgression | 93511 | [93511-transgression.json](./93511-transgression.json) |
 | Transience | 229004 | [229004-transience.json](./229004-transience.json) |
+| Transient | 184318 | [184318-transient.json](./184318-transient.json) |
 | Transient Station | 184078 | [184078-transient-station.json](./184078-transient-station.json) |
 | Transient: Extended Edition | 186911 | [186911-transient-extended-edition.json](./186911-transient-extended-edition.json) |
 | Transilio | 270174 | [270174-transilio.json](./270174-transilio.json) |
