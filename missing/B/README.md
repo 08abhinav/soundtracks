@@ -2841,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleMore | 111689 | [111689-battlemore.json](./111689-battlemore.json) |
 | Battlenauts | 323727 | [323727-battlenauts.json](./323727-battlenauts.json) |
 | BattleOps | 224097 | [224097-battleops.json](./224097-battleops.json) |
+| BattlePan's Odyssey | 184848 | [184848-battlepans-odyssey.json](./184848-battlepans-odyssey.json) |
 | BattleParty | 143937 | [143937-battleparty.json](./143937-battleparty.json) |
 | Battlepaths | 9779 | [9779-battlepaths.json](./9779-battlepaths.json) |
 | BattlePets | 300983 | [300983-battlepets.json](./300983-battlepets.json) |
@@ -5523,6 +5524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Shifter | 34699 | [34699-bit-shifter.json](./34699-bit-shifter.json) |
 | Bit Sword | 190032 | [190032-bit-sword.json](./190032-bit-sword.json) |
 | Bit the Apple, So What? | 249069 | [249069-bit-the-apple-so-what.json](./249069-bit-the-apple-so-what.json) |
+| Bit-Buster | 184936 | [184936-bit-buster.json](./184936-bit-buster.json) |
 | Bit-Cremental: Fishistry | 325629 | [325629-bit-cremental-fishistry.json](./325629-bit-cremental-fishistry.json) |
 | Bit-cremental: Fishistry Color | 387693 | [387693-bit-cremental-fishistry-color.json](./387693-bit-cremental-fishistry-color.json) |
 | Bit.Saw | 60775 | [60775-bit-saw.json](./60775-bit-saw.json) |
@@ -9903,6 +9905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brickout Kings | 108402 | [108402-brickout-kings.json](./108402-brickout-kings.json) |
 | Bricks | 292111 | [292111-bricks.json](./292111-bricks.json) |
 | Bricks '2000 | 375585 | [375585-bricks-2000.json](./375585-bricks-2000.json) |
+| Bricks Ahead | 184792 | [184792-bricks-ahead.json](./184792-bricks-ahead.json) |
 | Bricks Breaker Challenge | 234561 | [234561-bricks-breaker-challenge.json](./234561-bricks-breaker-challenge.json) |
 | Bricks Breaker Puzzle Classic | 220807 | [220807-bricks-breaker-puzzle-classic.json](./220807-bricks-breaker-puzzle-classic.json) |
 | Bricks Breaker Quest | 105516 | [105516-bricks-breaker-quest.json](./105516-bricks-breaker-quest.json) |
@@ -10868,6 +10871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buissons | 123543 | [123543-buissons.json](./123543-buissons.json) |
 | Bujingai: The Forsaken City | 19413 | [19413-bujingai-the-forsaken-city.json](./19413-bujingai-the-forsaken-city.json) |
 | Buka | 96028 | [96028-buka.json](./96028-buka.json) |
+| Buki Buki! | 184837 | [184837-buki-buki.json](./184837-buki-buki.json) |
 | Bukkaku | 159186 | [159186-bukkaku.json](./159186-bukkaku.json) |
 | Buku Sudoku | 74407 | [74407-buku-sudoku.json](./74407-buku-sudoku.json) |
 | Buku Sudoku Mahjongg Kakuro | 206693 | [206693-buku-sudoku-mahjongg-kakuro.json](./206693-buku-sudoku-mahjongg-kakuro.json) |
@@ -11212,6 +11216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buramato | 214744 | [214744-buramato.json](./214744-buramato.json) |
 | Burari Sekai Untei | 295914 | [295914-burari-sekai-untei.json](./295914-burari-sekai-untei.json) |
 | Burasagatte Iru Kiji | 261809 | [261809-burasagatte-iru-kiji.json](./261809-burasagatte-iru-kiji.json) |
+| Burd. | 184836 | [184836-burd.json](./184836-burd.json) |
 | Burden 2: Remnants | 229643 | [229643-burden-2-remnants.json](./229643-burden-2-remnants.json) |
 | Burden of 80 Proof | 230248 | [230248-burden-of-80-proof.json](./230248-burden-of-80-proof.json) |
 | Burden of Command | 54935 | [54935-burden-of-command.json](./54935-burden-of-command.json) |
