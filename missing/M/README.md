@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machinicide | 196962 | [196962-machinicide.json](./196962-machinicide.json) |
 | Machinika Museum | 163777 | [163777-machinika-museum.json](./163777-machinika-museum.json) |
 | Machinika: Atlas | 290865 | [290865-machinika-atlas.json](./290865-machinika-atlas.json) |
+| Machinist | 208096 | [208096-machinist.json](./208096-machinist.json) |
 | Machiteba Tengoku! Makereba Jigoku! Ryoutsuryuu Ikkakusenkin Daisakusen! | 269588 | [269588-machiteba-tengoku-makereba-jigoku-ryoutsuryuu-ikkakusenkin-daisakusen.json](./269588-machiteba-tengoku-makereba-jigoku-ryoutsuryuu-ikkakusenkin-daisakusen.json) |
 | Machizzle | 139478 | [139478-machizzle.json](./139478-machizzle.json) |
 | Macho Scooping | 291908 | [291908-macho-scooping.json](./291908-macho-scooping.json) |
@@ -500,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madshot | 191697 | [191697-madshot.json](./191697-madshot.json) |
 | MadSpace: To Hell and Beyond | 10144 | [10144-madspace-to-hell-and-beyond.json](./10144-madspace-to-hell-and-beyond.json) |
 | Madstone | 50721 | [50721-madstone.json](./50721-madstone.json) |
+| Madtale | 208094 | [208094-madtale.json](./208094-madtale.json) |
 | Madtoys Knights | 319115 | [319115-madtoys-knights.json](./319115-madtoys-knights.json) |
 | Maduro Run | 392933 | [392933-maduro-run.json](./392933-maduro-run.json) |
 | Madvent Calendar 3 Necrosis | 229375 | [229375-madvent-calendar-3-necrosis.json](./229375-madvent-calendar-3-necrosis.json) |
@@ -5609,6 +5611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories of Mir | 215837 | [215837-memories-of-mir.json](./215837-memories-of-mir.json) |
 | Memories of Misery | 297345 | [297345-memories-of-misery.json](./297345-memories-of-misery.json) |
 | Memories of War: Undead Decimation | 169456 | [169456-memories-of-war-undead-decimation.json](./169456-memories-of-war-undead-decimation.json) |
+| Memories of Wilderness | 208081 | [208081-memories-of-wilderness.json](./208081-memories-of-wilderness.json) |
 | Memories Off | 288774 | [288774-memories-off.json](./288774-memories-off.json) |
 | Memories Off | 382966 | [382966-memories-off.json](./382966-memories-off.json) |
 | Memories Off | 68243 | [68243-memories-off.json](./68243-memories-off.json) |
@@ -6313,6 +6316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Surge | 369218 | [369218-metal-surge.json](./369218-metal-surge.json) |
 | Metal Survivor | 224520 | [224520-metal-survivor.json](./224520-metal-survivor.json) |
 | Metal Swarm Infinity | 167680 | [167680-metal-swarm-infinity.json](./167680-metal-swarm-infinity.json) |
+| Metal Swat | 208078 | [208078-metal-swat.json](./208078-metal-swat.json) |
 | Metal Tales: Overkill | 149692 | [149692-metal-tales-overkill.json](./149692-metal-tales-overkill.json) |
 | Metal Thunder | 320475 | [320475-metal-thunder.json](./320475-metal-thunder.json) |
 | Metal Torrent | 67703 | [67703-metal-torrent.json](./67703-metal-torrent.json) |
@@ -12636,6 +12640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Survivors | 382324 | [382324-mutant-survivors.json](./382324-mutant-survivors.json) |
 | Mutant Year Zero: Road to Eden | 89560 | [89560-mutant-year-zero-road-to-eden.json](./89560-mutant-year-zero-road-to-eden.json) |
 | Mutant Year Zero: Road to Eden - Deluxe Edition | 121623 | [121623-mutant-year-zero-road-to-eden-deluxe-edition.json](./121623-mutant-year-zero-road-to-eden-deluxe-edition.json) |
+| Mutant: War of Mercenaries | 208068 | [208068-mutant-war-of-mercenaries.json](./208068-mutant-war-of-mercenaries.json) |
 | Mutantity | 250887 | [250887-mutantity.json](./250887-mutantity.json) |
 | Mutants & Zombies | 278532 | [278532-mutants-and-zombies.json](./278532-mutants-and-zombies.json) |
 | Mutants Ate My Carrots | 273401 | [273401-mutants-ate-my-carrots.json](./273401-mutants-ate-my-carrots.json) |
