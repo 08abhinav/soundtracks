@@ -4594,6 +4594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Card Stars: Cribbage / Solitaire | 59883 | [59883-the-card-stars-cribbage-solitaire.json](./59883-the-card-stars-cribbage-solitaire.json) |
 | THE Card: Poker, Texas hold 'em, Blackjack and Page One | 109491 | [109491-the-card-poker-texas-hold-em-blackjack-and-page-one.json](./109491-the-card-poker-texas-hold-em-blackjack-and-page-one.json) |
 | The Cardinal of the Kremlin | 14382 | [14382-the-cardinal-of-the-kremlin.json](./14382-the-cardinal-of-the-kremlin.json) |
+| The Cards Never Lie | 185402 | [185402-the-cards-never-lie.json](./185402-the-cards-never-lie.json) |
 | The Cards You're Dealt | 182877 | [182877-the-cards-youre-dealt.json](./182877-the-cards-youre-dealt.json) |
 | The Caretaker’s Lease | 361046 | [361046-the-caretaker-s-lease.json](./361046-the-caretaker-s-lease.json) |
 | The Carnage Continues | 276385 | [276385-the-carnage-continues.json](./276385-the-carnage-continues.json) |
@@ -6199,6 +6200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fissure | 407277 | [407277-the-fissure.json](./407277-the-fissure.json) |
 | The Fittest | 188371 | [188371-the-fittest.json](./188371-the-fittest.json) |
 | The Five Covens | 144864 | [144864-the-five-covens.json](./144864-the-five-covens.json) |
+| The Five Gods of Kung Fu | 185458 | [185458-the-five-gods-of-kung-fu.json](./185458-the-five-gods-of-kung-fu.json) |
 | The Five Nights at Freddy's Mod | 366300 | [366300-the-five-nights-at-freddys-mod.json](./366300-the-five-nights-at-freddys-mod.json) |
 | The Five Steps to Ensuring Momo Graduates Successfully!!! | 216253 | [216253-the-five-steps-to-ensuring-momo-graduates-successfully.json](./216253-the-five-steps-to-ensuring-momo-graduates-successfully.json) |
 | The Fixer of the Adventurer's Guild | 287106 | [287106-the-fixer-of-the-adventurers-guild.json](./287106-the-fixer-of-the-adventurers-guild.json) |
@@ -6516,6 +6518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Girl Who Sees | 149576 | [149576-the-girl-who-sees.json](./149576-the-girl-who-sees.json) |
 | The Girl Who Wasn't There | 318130 | [318130-the-girl-who-wasnt-there.json](./318130-the-girl-who-wasnt-there.json) |
 | The Girl With The Bow | 354515 | [354515-the-girl-with-the-bow.json](./354515-the-girl-with-the-bow.json) |
+| The Girl with the Golden Glance | 185404 | [185404-the-girl-with-the-golden-glance.json](./185404-the-girl-with-the-golden-glance.json) |
 | The Girl's Moving Castle | 291759 | [291759-the-girls-moving-castle.json](./291759-the-girls-moving-castle.json) |
 | The Girlfriend From My Novel | 211727 | [211727-the-girlfriend-from-my-novel.json](./211727-the-girlfriend-from-my-novel.json) |
 | The Given | 257265 | [257265-the-given.json](./257265-the-given.json) |
@@ -9436,6 +9439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Orphanage | 236381 | [236381-the-orphanage.json](./236381-the-orphanage.json) |
 | The Orphaned House | 413212 | [413212-the-orphaned-house.json](./413212-the-orphaned-house.json) |
 | The Othello | 91958 | [91958-the-othello.json](./91958-the-othello.json) |
+| The Other | 185366 | [185366-the-other.json](./185366-the-other.json) |
 | The Other Brothers | 116428 | [116428-the-other-brothers.json](./116428-the-other-brothers.json) |
 | The Other Me | 261550 | [261550-the-other-me.json](./261550-the-other-me.json) |
 | The Other Order | 384793 | [384793-the-other-order.json](./384793-the-other-order.json) |
@@ -10181,6 +10185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rolling Edge | 26966 | [26966-the-rolling-edge.json](./26966-the-rolling-edge.json) |
 | The Rolling Room | 309893 | [309893-the-rolling-room.json](./309893-the-rolling-room.json) |
 | The Rollingball's Melody | 34308 | [34308-the-rollingballs-melody.json](./34308-the-rollingballs-melody.json) |
+| The Romance Theorem | 185367 | [185367-the-romance-theorem.json](./185367-the-romance-theorem.json) |
 | The Romantic Blue | 232551 | [232551-the-romantic-blue.json](./232551-the-romantic-blue.json) |
 | The Roof | 23418 | [23418-the-roof.json](./23418-the-roof.json) |
 | The Rookery | 312744 | [312744-the-rookery.json](./312744-the-rookery.json) |
@@ -10622,6 +10627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silver Case 2425: Limited Edition | 167074 | [167074-the-silver-case-2425-limited-edition.json](./167074-the-silver-case-2425-limited-edition.json) |
 | The Silver Case: Deluxe Edition | 51921 | [51921-the-silver-case-deluxe-edition.json](./51921-the-silver-case-deluxe-edition.json) |
 | The Silver Lining | 50807 | [50807-the-silver-lining.json](./50807-the-silver-lining.json) |
+| The Silver Spoon Caper | 185403 | [185403-the-silver-spoon-caper.json](./185403-the-silver-spoon-caper.json) |
 | The Simen Rumors | 397220 | [397220-the-simen-rumors.json](./397220-the-simen-rumors.json) |
 | The Simpler Times | 421354 | [421354-the-simpler-times.json](./421354-the-simpler-times.json) |
 | The Simplest Game in the World | 262872 | [262872-the-simplest-game-in-the-world.json](./262872-the-simplest-game-in-the-world.json) |
@@ -13074,6 +13080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Ship Goes Brrr | 366339 | [366339-this-ship-goes-brrr.json](./366339-this-ship-goes-brrr.json) |
 | This Short Indie Game Made Me Miss My Friends: Rainy Plays Lonely Game Livestream | 403029 | [403029-this-short-indie-game-made-me-miss-my-friends-rainy-plays-lonely-game-livestream.json](./403029-this-short-indie-game-made-me-miss-my-friends-rainy-plays-lonely-game-livestream.json) |
 | This Side | 116279 | [116279-this-side.json](./116279-this-side.json) |
+| This Side of Me | 185391 | [185391-this-side-of-me.json](./185391-this-side-of-me.json) |
 | This Side Up | 272897 | [272897-this-side-up.json](./272897-this-side-up.json) |
 | This Starry Midnight We Make | 17776 | [17776-this-starry-midnight-we-make.json](./17776-this-starry-midnight-we-make.json) |
 | This Strange Realm of Mine | 50506 | [50506-this-strange-realm-of-mine.json](./50506-this-strange-realm-of-mine.json) |
