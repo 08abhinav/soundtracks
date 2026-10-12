@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man World 3 | 4064 | [4064-pac-man-world-3.json](./4064-pac-man-world-3.json) |
 | Pac-Man World Rally | 248531 | [248531-pac-man-world-rally.json](./248531-pac-man-world-rally.json) |
 | Pac-Man World Re-Pac | 206811 | [206811-pac-man-world-re-pac.json](./206811-pac-man-world-re-pac.json) |
+| Pac-Man x Bomberman | 198193 | [198193-pac-man-x-bomberman.json](./198193-pac-man-x-bomberman.json) |
 | Pac-Man: Adventures in Time | 78239 | [78239-pac-man-adventures-in-time.json](./78239-pac-man-adventures-in-time.json) |
 | Pac-Man: Championship Edition DX | 21737 | [21737-pac-man-championship-edition-dx.json](./21737-pac-man-championship-edition-dx.json) |
 | Pac-Man: Ghost Zone | 311759 | [311759-pac-man-ghost-zone.json](./311759-pac-man-ghost-zone.json) |
@@ -6605,6 +6606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket GT | 225807 | [225807-pocket-gt.json](./225807-pocket-gt.json) |
 | Pocket GT Racing | 209353 | [209353-pocket-gt-racing.json](./209353-pocket-gt-racing.json) |
 | Pocket Hero-Wars of Mini Tanks | 105906 | [105906-pocket-hero-wars-of-mini-tanks.json](./105906-pocket-hero-wars-of-mini-tanks.json) |
+| Pocket Heroes | 198168 | [198168-pocket-heroes.json](./198168-pocket-heroes.json) |
 | Pocket Hockey | 324520 | [324520-pocket-hockey.json](./324520-pocket-hockey.json) |
 | Pocket Hunter Origins | 174870 | [174870-pocket-hunter-origins.json](./174870-pocket-hunter-origins.json) |
 | Pocket Idler: Fishing Pond | 298345 | [298345-pocket-idler-fishing-pond.json](./298345-pocket-idler-fishing-pond.json) |
