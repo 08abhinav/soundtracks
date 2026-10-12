@@ -4755,6 +4755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flashloop | 348337 | [348337-flashloop.json](./348337-flashloop.json) |
 | Flashout 2 | 17357 | [17357-flashout-2.json](./17357-flashout-2.json) |
 | Flashout 3D | 39206 | [39206-flashout-3d.json](./39206-flashout-3d.json) |
+| Flashout 3D: Enhanced Edition | 214676 | [214676-flashout-3d-enhanced-edition.json](./214676-flashout-3d-enhanced-edition.json) |
 | Flashout III | 199568 | [199568-flashout-iii.json](./199568-flashout-iii.json) |
 | Flashy Maze | 130742 | [130742-flashy-maze.json](./130742-flashy-maze.json) |
 | Flask | 366367 | [366367-flask.json](./366367-flask.json) |
@@ -5736,6 +5737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Monster and Animals Memory Match | 82354 | [82354-food-monster-and-animals-memory-match.json](./82354-food-monster-and-animals-memory-match.json) |
 | Food Poppers | 189031 | [189031-food-poppers.json](./189031-food-poppers.json) |
 | Food Street: Restaurant Game | 249666 | [249666-food-street-restaurant-game.json](./249666-food-street-restaurant-game.json) |
+| Food Stylist: Design Game | 214672 | [214672-food-stylist-design-game.json](./214672-food-stylist-design-game.json) |
 | Food Truck Chef | 105841 | [105841-food-truck-chef.json](./105841-food-truck-chef.json) |
 | Food Truck Monopoly | 348875 | [348875-food-truck-monopoly.json](./348875-food-truck-monopoly.json) |
 | Food Truck Shop Simulator | 350537 | [350537-food-truck-shop-simulator.json](./350537-food-truck-shop-simulator.json) |
