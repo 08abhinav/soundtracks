@@ -5689,6 +5689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogi Shoshinsha Muyou | 57740 | [57740-shogi-shoshinsha-muyou.json](./57740-shogi-shoshinsha-muyou.json) |
 | Shogi Shoshisha Muyo | 42031 | [42031-shogi-shoshisha-muyo.json](./42031-shogi-shoshisha-muyo.json) |
 | Shogi Wars | 312359 | [312359-shogi-wars.json](./312359-shogi-wars.json) |
+| Shogi: Japanese Chess | 221357 | [221357-shogi-japanese-chess.json](./221357-shogi-japanese-chess.json) |
 | Shogo: Mobile Armor Division | 12464 | [12464-shogo-mobile-armor-division.json](./12464-shogo-mobile-armor-division.json) |
 | Shogun | 298095 | [298095-shogun.json](./298095-shogun.json) |
 | Shogun Castle | 336590 | [336590-shogun-castle.json](./336590-shogun-castle.json) |
@@ -7886,6 +7887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky City Blues | 132824 | [132824-sky-city-blues.json](./132824-sky-city-blues.json) |
 | Sky City Rush | 364502 | [364502-sky-city-rush.json](./364502-sky-city-rush.json) |
 | Sky Clash: Lords of Clans 3D | 51563 | [51563-sky-clash-lords-of-clans-3d.json](./51563-sky-clash-lords-of-clans-3d.json) |
+| Sky Combat | 221358 | [221358-sky-combat.json](./221358-sky-combat.json) |
 | Sky Crew | 103888 | [103888-sky-crew.json](./103888-sky-crew.json) |
 | Sky Dancer | 80802 | [80802-sky-dancer.json](./80802-sky-dancer.json) |
 | Sky Dancer Run | 174755 | [174755-sky-dancer-run.json](./174755-sky-dancer-run.json) |
@@ -10032,6 +10034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Squad | 291486 | [291486-soccer-squad.json](./291486-soccer-squad.json) |
 | Soccer Star 23 Top Leagues | 239037 | [239037-soccer-star-23-top-leagues.json](./239037-soccer-star-23-top-leagues.json) |
 | Soccer Star Manager | 108467 | [108467-soccer-star-manager.json](./108467-soccer-star-manager.json) |
+| Soccer Star: 2022 Football Cup | 221359 | [221359-soccer-star-2022-football-cup.json](./221359-soccer-star-2022-football-cup.json) |
 | Soccer Stars | 38059 | [38059-soccer-stars.json](./38059-soccer-stars.json) |
 | Soccer Story | 213264 | [213264-soccer-story.json](./213264-soccer-story.json) |
 | Soccer Sumos | 200143 | [200143-soccer-sumos.json](./200143-soccer-sumos.json) |
@@ -10120,6 +10123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Softball: Breakthrough Gaming Arcade - 4 Player Cooperation Edition | 213633 | [213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json](./213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json) |
 | Softly Placed | 379978 | [379978-softly-placed.json](./379978-softly-placed.json) |
 | Softnauts the Game | 23908 | [23908-softnauts-the-game.json](./23908-softnauts-the-game.json) |
+| Softris | 221360 | [221360-softris.json](./221360-softris.json) |
 | Softstar Games Bundle | 231783 | [231783-softstar-games-bundle.json](./231783-softstar-games-bundle.json) |
 | Software House Simulator | 149728 | [149728-software-house-simulator.json](./149728-software-house-simulator.json) |
 | Software Inc. | 35463 | [35463-software-inc.json](./35463-software-inc.json) |
@@ -13676,6 +13680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Escape | 359464 | [359464-spider-escape.json](./359464-spider-escape.json) |
 | Spider Fear | 130914 | [130914-spider-fear.json](./130914-spider-fear.json) |
 | Spider Fighter | 18530 | [18530-spider-fighter.json](./18530-spider-fighter.json) |
+| Spider Fighter 2 | 221361 | [221361-spider-fighter-2.json](./221361-spider-fighter-2.json) |
 | Spider Fire | 181117 | [181117-spider-fire.json](./181117-spider-fire.json) |
 | Spider Fox | 254558 | [254558-spider-fox.json](./254558-spider-fox.json) |
 | Spider Hunter | 234527 | [234527-spider-hunter.json](./234527-spider-hunter.json) |
@@ -14232,6 +14237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spongebob Squarepants: Shrink n' Sink Golf | 394537 | [394537-spongebob-squarepants-shrink-n-sink-golf.json](./394537-spongebob-squarepants-shrink-n-sink-golf.json) |
 | SpongeBob SquarePants: SuperSponge | 248626 | [248626-spongebob-squarepants-supersponge.json](./248626-spongebob-squarepants-supersponge.json) |
 | SpongeBob SquarePants: The Clam Prix | 230402 | [230402-spongebob-squarepants-the-clam-prix.json](./230402-spongebob-squarepants-the-clam-prix.json) |
+| SpongeBob SquarePants: The Cosmic Shake - BFF Edition | 221329 | [221329-spongebob-squarepants-the-cosmic-shake-bff-edition.json](./221329-spongebob-squarepants-the-cosmic-shake-bff-edition.json) |
 | SpongeBob SquarePants: The Fry Cook Games | 220115 | [220115-spongebob-squarepants-the-fry-cook-games.json](./220115-spongebob-squarepants-the-fry-cook-games.json) |
 | SpongeBob SquarePants: The Patrick Star Game | 314939 | [314939-spongebob-squarepants-the-patrick-star-game.json](./314939-spongebob-squarepants-the-patrick-star-game.json) |
 | SpongeBob SquarePants: Titans of the Tide | 358751 | [358751-spongebob-squarepants-titans-of-the-tide.json](./358751-spongebob-squarepants-titans-of-the-tide.json) |
@@ -16313,6 +16319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarTropics | 15901 | [15901-startropics.json](./15901-startropics.json) |
 | Startup Company: Console Edition | 228020 | [228020-startup-company-console-edition.json](./228020-startup-company-console-edition.json) |
 | Startup Freak | 74369 | [74369-startup-freak.json](./74369-startup-freak.json) |
+| StartUp! Gym | 221362 | [221362-startup-gym.json](./221362-startup-gym.json) |
 | Starva Saga | 391184 | [391184-starva-saga.json](./391184-starva-saga.json) |
 | Starvania: Tales Of The Past | 372498 | [372498-starvania-tales-of-the-past.json](./372498-starvania-tales-of-the-past.json) |
 | Starvation | 213360 | [213360-starvation.json](./213360-starvation.json) |
@@ -20240,6 +20247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. 2 | 222098 | [222098-super-mario-bros-2.json](./222098-super-mario-bros-2.json) |
 | Super Mario Bros. 2 Deluxe | 321172 | [321172-super-mario-bros-2-deluxe.json](./321172-super-mario-bros-2-deluxe.json) |
 | Super Mario Bros. 2 Squared: Return to Subcon | 308376 | [308376-super-mario-bros-2-squared-return-to-subcon.json](./308376-super-mario-bros-2-squared-return-to-subcon.json) |
+| Super Mario Bros. 2: 2nd Run | 221365 | [221365-super-mario-bros-2-2nd-run.json](./221365-super-mario-bros-2-2nd-run.json) |
 | Super Mario Bros. 3 | 158723 | [158723-super-mario-bros-3.json](./158723-super-mario-bros-3.json) |
 | Super Mario Bros. 3 | 270351 | [270351-super-mario-bros-3.json](./270351-super-mario-bros-3.json) |
 | Super Mario Bros. 3 Advance | 322002 | [322002-super-mario-bros-3-advance.json](./322002-super-mario-bros-3-advance.json) |
@@ -21782,6 +21790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Island | 201672 | [201672-survival-island.json](./201672-survival-island.json) |
 | Survival Island | 40690 | [40690-survival-island.json](./40690-survival-island.json) |
 | Survival Island: Evolve | 231882 | [231882-survival-island-evolve.json](./231882-survival-island-evolve.json) |
+| Survival Island: The Forest 3D | 221364 | [221364-survival-island-the-forest-3d.json](./221364-survival-island-the-forest-3d.json) |
 | Survival Journals | 114889 | [114889-survival-journals.json](./114889-survival-journals.json) |
 | Survival Kids | 338087 | [338087-survival-kids.json](./338087-survival-kids.json) |
 | Survival Machine | 152121 | [152121-survival-machine.json](./152121-survival-machine.json) |
