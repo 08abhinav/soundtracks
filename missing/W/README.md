@@ -5920,6 +5920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wunderdoktor | 74537 | [74537-wunderdoktor.json](./74537-wunderdoktor.json) |
 | Wunderhaven | 166763 | [166763-wunderhaven.json](./166763-wunderhaven.json) |
 | Wunderheilung | 128560 | [128560-wunderheilung.json](./128560-wunderheilung.json) |
+| Wunderling DX | 219755 | [219755-wunderling-dx.json](./219755-wunderling-dx.json) |
 | Wünderpack | 360702 | [360702-wunderpack.json](./360702-wunderpack.json) |
 | Wunderverse | 106359 | [106359-wunderverse.json](./106359-wunderverse.json) |
 | Wunkfall | 413887 | [413887-wunkfall.json](./413887-wunkfall.json) |
