@@ -1173,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abomination | 71602 | [71602-abomination.json](./71602-abomination.json) |
 | Abomination Ops | 355575 | [355575-abomination-ops.json](./355575-abomination-ops.json) |
 | Abomination Tower | 36011 | [36011-abomination-tower.json](./36011-abomination-tower.json) |
+| Abomiracers | 197084 | [197084-abomiracers.json](./197084-abomiracers.json) |
 | Abondoned Village | 277282 | [277282-abondoned-village.json](./277282-abondoned-village.json) |
 | Aborigenus | 110070 | [110070-aborigenus.json](./110070-aborigenus.json) |
 | Abort, Retry, Fail | 201227 | [201227-abort-retry-fail.json](./201227-abort-retry-fail.json) |
@@ -10788,6 +10789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Auto: Maximum Autodrive In The Alien Apocalypse | 277602 | [277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json](./277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json) |
 | Auto Battle | 19338 | [19338-auto-battle.json](./19338-auto-battle.json) |
 | Auto Brawl Chess | 243604 | [243604-auto-brawl-chess.json](./243604-auto-brawl-chess.json) |
+| Auto Cast | 197092 | [197092-auto-cast.json](./197092-auto-cast.json) |
 | Auto Chess | 119188 | [119188-auto-chess.json](./119188-auto-chess.json) |
 | Auto Chess Souls | 392249 | [392249-auto-chess-souls.json](./392249-auto-chess-souls.json) |
 | Auto Club Revolution | 80491 | [80491-auto-club-revolution.json](./80491-auto-club-revolution.json) |
