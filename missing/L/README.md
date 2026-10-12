@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Kid on the Bus | 409712 | [409712-last-kid-on-the-bus.json](./409712-last-kid-on-the-bus.json) |
 | Last King of Africa | 47883 | [47883-last-king-of-africa.json](./47883-last-king-of-africa.json) |
 | Last Kingdom | 361305 | [361305-last-kingdom.json](./361305-last-kingdom.json) |
+| Last Kiss Before Summer | 218631 | [218631-last-kiss-before-summer.json](./218631-last-kiss-before-summer.json) |
 | Last Knight | 177847 | [177847-last-knight.json](./177847-last-knight.json) |
 | Last Knight | 53266 | [53266-last-knight.json](./53266-last-knight.json) |
 | Last Labyrinth | 109245 | [109245-last-labyrinth.json](./109245-last-labyrinth.json) |
@@ -5557,6 +5558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Liar | 225646 | [225646-love-liar.json](./225646-love-liar.json) |
 | Love Lime! | 183000 | [183000-love-lime.json](./183000-love-lime.json) |
 | Love Live! Nijigasaki High School Idol Club: Tokimeki Roadmap to the Future | 282695 | [282695-love-live-nijigasaki-high-school-idol-club-tokimeki-roadmap-to-the-future.json](./282695-love-live-nijigasaki-high-school-idol-club-tokimeki-roadmap-to-the-future.json) |
+| Love Live! School Idol Festival 2: Miracle Live! | 218658 | [218658-love-live-school-idol-festival-2-miracle-live.json](./218658-love-live-school-idol-festival-2-miracle-live.json) |
 | Love Live! School Idol Festival: After School Activity - Wai-Wai! Home Meeting!! | 141248 | [141248-love-live-school-idol-festival-after-school-activity-wai-wai-home-meeting.json](./141248-love-live-school-idol-festival-after-school-activity-wai-wai-home-meeting.json) |
 | Love Live! School Idol Paradise | 81340 | [81340-love-live-school-idol-paradise.json](./81340-love-live-school-idol-paradise.json) |
 | Love Love Candy | 253902 | [253902-love-love-candy.json](./253902-love-love-candy.json) |
