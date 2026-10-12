@@ -2772,6 +2772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orrery | 317811 | [317811-orrery.json](./317811-orrery.json) |
 | Orrery | 68918 | [68918-orrery.json](./68918-orrery.json) |
 | Orrin's Chessboard | 377758 | [377758-orrins-chessboard.json](./377758-orrins-chessboard.json) |
+| Orrstead | 191513 | [191513-orrstead.json](./191513-orrstead.json) |
 | Orso | 390200 | [390200-orso.json](./390200-orso.json) |
 | Ortharion: The Last Battle | 193444 | [193444-ortharion-the-last-battle.json](./193444-ortharion-the-last-battle.json) |
 | Ortheo | 163197 | [163197-ortheo.json](./163197-ortheo.json) |
