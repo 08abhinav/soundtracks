@@ -2021,6 +2021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juiced! | 133349 | [133349-juiced.json](./133349-juiced.json) |
 | Juicy Ass | 264114 | [264114-juicy-ass.json](./264114-juicy-ass.json) |
 | Juicy Blast | 346158 | [346158-juicy-blast.json](./346158-juicy-blast.json) |
+| Juicy Bois: Conflict | 190403 | [190403-juicy-bois-conflict.json](./190403-juicy-bois-conflict.json) |
 | Juicy Futa | 207602 | [207602-juicy-futa.json](./207602-juicy-futa.json) |
 | Juicy Hentai | 368114 | [368114-juicy-hentai.json](./368114-juicy-hentai.json) |
 | Juicy Memory Card | 156201 | [156201-juicy-memory-card.json](./156201-juicy-memory-card.json) |
