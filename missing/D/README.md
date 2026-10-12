@@ -953,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Eden | 231830 | [231830-dark-eden.json](./231830-dark-eden.json) |
 | Dark Eden | 30713 | [30713-dark-eden.json](./30713-dark-eden.json) |
 | Dark Eden Umbra | 359526 | [359526-dark-eden-umbra.json](./359526-dark-eden-umbra.json) |
+| Dark Eden: Blood War | 220288 | [220288-dark-eden-blood-war.json](./220288-dark-eden-blood-war.json) |
 | Dark Egg | 213974 | [213974-dark-egg.json](./213974-dark-egg.json) |
 | Dark Elf | 391806 | [391806-dark-elf.json](./391806-dark-elf.json) |
 | Dark Elf | 51570 | [51570-dark-elf.json](./51570-dark-elf.json) |
@@ -6530,6 +6531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Tsum Tsum Stadium | 250331 | [250331-disney-tsum-tsum-stadium.json](./250331-disney-tsum-tsum-stadium.json) |
 | Disney Twisted-Wonderland | 117776 | [117776-disney-twisted-wonderland.json](./117776-disney-twisted-wonderland.json) |
 | Disney Two Pack I Big Hero 6: Battle In the Bay & Frozen: Olaf's Quest | 79914 | [79914-disney-two-pack-i-big-hero-6-battle-in-the-bay-and-frozen-olafs-quest.json](./79914-disney-two-pack-i-big-hero-6-battle-in-the-bay-and-frozen-olafs-quest.json) |
+| Disney Ultimotion | 220273 | [220273-disney-ultimotion.json](./220273-disney-ultimotion.json) |
 | Disney Villains Challenge | 97983 | [97983-disney-villains-challenge.json](./97983-disney-villains-challenge.json) |
 | Disney XD Grand Prix | 361336 | [361336-disney-xd-grand-prix.json](./361336-disney-xd-grand-prix.json) |
 | Disney's 101 Dalmatians II: Patch's London Adventure | 43737 | [43737-disneys-101-dalmatians-ii-patchs-london-adventure.json](./43737-disneys-101-dalmatians-ii-patchs-london-adventure.json) |
@@ -10844,6 +10846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dual Orb II | 15907 | [15907-dual-orb-ii.json](./15907-dual-orb-ii.json) |
 | Dual Pack I Awakening: The Goblin Kingdom and Awakening: The Skyward Castle | 201857 | [201857-dual-pack-i-awakening-the-goblin-kingdom-and-awakening-the-skyward-castle.json](./201857-dual-pack-i-awakening-the-goblin-kingdom-and-awakening-the-skyward-castle.json) |
 | Dual Pack I Spirits of Mystery: Song of the Phoenix & Spirits of Mystery: The Dark Minotaur | 201853 | [201853-dual-pack-i-spirits-of-mystery-song-of-the-phoenix-and-spirits-of-mystery-the-dark-minotaur.json](./201853-dual-pack-i-spirits-of-mystery-song-of-the-phoenix-and-spirits-of-mystery-the-dark-minotaur.json) |
+| Dual Pack: Pac-Man World 3 / Namco Museum DS | 220258 | [220258-dual-pack-pac-man-world-3-namco-museum-ds.json](./220258-dual-pack-pac-man-world-3-namco-museum-ds.json) |
 | Dual Paths | 349823 | [349823-dual-paths.json](./349823-dual-paths.json) |
 | Dual Protocol: The Case of Eva & Miles | 407324 | [407324-dual-protocol-the-case-of-eva-and-miles.json](./407324-dual-protocol-the-case-of-eva-and-miles.json) |
 | Dual Souls: The Last Bearer - Complete Edition | 196049 | [196049-dual-souls-the-last-bearer-complete-edition.json](./196049-dual-souls-the-last-bearer-complete-edition.json) |
@@ -11062,6 +11065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dug'n | 180621 | [180621-dugn.json](./180621-dugn.json) |
 | Duga | 111752 | [111752-duga.json](./111752-duga.json) |
 | Dugashoba! | 202251 | [202251-dugashoba.json](./202251-dugashoba.json) |
+| Dugeundugeun Dijeoteu Kape | 220287 | [220287-dugeundugeun-dijeoteu-kape.json](./220287-dugeundugeun-dijeoteu-kape.json) |
 | Dui | 263110 | [263110-dui.json](./263110-dui.json) |
 | Duil | 161348 | [161348-duil.json](./161348-duil.json) |
 | Duilius: The Ancient Duel | 294152 | [294152-duilius-the-ancient-duel.json](./294152-duilius-the-ancient-duel.json) |
