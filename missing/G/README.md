@@ -2162,6 +2162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Germs: Nerawareta Machi | 62438 | [62438-germs-nerawareta-machi.json](./62438-germs-nerawareta-machi.json) |
 | Germs.io | 112152 | [112152-germs-io.json](./112152-germs-io.json) |
 | Gero-Gero | 295844 | [295844-gero-gero.json](./295844-gero-gero.json) |
+| Geronimo | 208670 | [208670-geronimo.json](./208670-geronimo.json) |
 | Geronimo Stilton in the Kingdom of Fantasy | 42807 | [42807-geronimo-stilton-in-the-kingdom-of-fantasy.json](./42807-geronimo-stilton-in-the-kingdom-of-fantasy.json) |
 | Geronimo Stilton: Return to the Kingdom of Fantasy | 42757 | [42757-geronimo-stilton-return-to-the-kingdom-of-fantasy.json](./42757-geronimo-stilton-return-to-the-kingdom-of-fantasy.json) |
 | Geronimo Stilton: The Return to the Kingdom of Fantasy | 52225 | [52225-geronimo-stilton-the-return-to-the-kingdom-of-fantasy.json](./52225-geronimo-stilton-the-return-to-the-kingdom-of-fantasy.json) |
@@ -5386,6 +5387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Fight | 73476 | [73476-gravity-fight.json](./73476-gravity-fight.json) |
 | Gravity Flip | 190204 | [190204-gravity-flip.json](./190204-gravity-flip.json) |
 | Gravity Flip X | 334912 | [334912-gravity-flip-x.json](./334912-gravity-flip-x.json) |
+| Gravity Flux | 208661 | [208661-gravity-flux.json](./208661-gravity-flux.json) |
 | Gravity Force | 357726 | [357726-gravity-force.json](./357726-gravity-force.json) |
 | Gravity Game | 187265 | [187265-gravity-game.json](./187265-gravity-game.json) |
 | Gravity Games Bike: Street Vert Dirt | 5851 | [5851-gravity-games-bike-street-vert-dirt.json](./5851-gravity-games-bike-street-vert-dirt.json) |
@@ -6871,6 +6873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunFleet | 30023 | [30023-gunfleet.json](./30023-gunfleet.json) |
 | Gunfright | 14102 | [14102-gunfright.json](./14102-gunfright.json) |
 | GunFu Deadlands | 242441 | [242441-gunfu-deadlands.json](./242441-gunfu-deadlands.json) |
+| Gung 3D | 208654 | [208654-gung-3d.json](./208654-gung-3d.json) |
 | Gungage | 44863 | [44863-gungage.json](./44863-gungage.json) |
 | Gungame.io | 56923 | [56923-gungame-io.json](./56923-gungame-io.json) |
 | GunGirl 2 | 23720 | [23720-gungirl-2.json](./23720-gungirl-2.json) |
