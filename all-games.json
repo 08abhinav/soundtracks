@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T20:40:30.842Z",
-  "total_soundtracks": 1538,
+  "generated_at": "2026-10-12T20:45:14.133Z",
+  "total_soundtracks": 1539,
   "games": [
     {
       "igdb_id": 7522,
@@ -729,6 +729,20 @@
           "spotify_url": "https://music.apple.com/us/album/anger-foot-original-soundtrack/1755913370?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1755913370"
+        }
+      ]
+    },
+    {
+      "igdb_id": 2035,
+      "game_name": "Angry Birds",
+      "game_url": "https://ostdb.net/games/angry-birds",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/46/5a/7e465a01-cbca-57c6-2431-bcfd7310fddb/5054526021419_1.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Angry Birds (Original Game Soundtrack) [Extended Edition]",
+          "spotify_url": "https://open.spotify.com/album/723enP78JetX37xpL5NcbG",
+          "apple_music_url": "https://music.apple.com/us/album/angry-birds-original-game-soundtrack-extended-edition-ep/1530256320",
+          "album_link_url": "https://album.link/i/1530256320"
         }
       ]
     },
