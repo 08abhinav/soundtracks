@@ -688,6 +688,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Thunder: "Black Friday" Bundle | 331500 | [331500-war-thunder-black-friday-bundle.json](./331500-war-thunder-black-friday-bundle.json) |
 | War Thunder: "Serpent Rising" Bundle | 331498 | [331498-war-thunder-serpent-rising-bundle.json](./331498-war-thunder-serpent-rising-bundle.json) |
 | War Thunder: "Snake Charmer" Bundle | 331497 | [331497-war-thunder-snake-charmer-bundle.json](./331497-war-thunder-snake-charmer-bundle.json) |
+| War Thunder: "Tracks of Victory" Bundle | 224155 | [224155-war-thunder-tracks-of-victory-bundle.json](./224155-war-thunder-tracks-of-victory-bundle.json) |
+| War Thunder: "Weapons of Victory" Bundle | 224156 | [224156-war-thunder-weapons-of-victory-bundle.json](./224156-war-thunder-weapons-of-victory-bundle.json) |
+| War Thunder: "Wings of Victory" Bundle | 224157 | [224157-war-thunder-wings-of-victory-bundle.json](./224157-war-thunder-wings-of-victory-bundle.json) |
 | War Thunder: Al-Khalid-I Bundle | 331494 | [331494-war-thunder-al-khalid-i-bundle.json](./331494-war-thunder-al-khalid-i-bundle.json) |
 | War Thunder: Ancient Helicopter Snail Bundle | 316622 | [316622-war-thunder-ancient-helicopter-snail-bundle.json](./316622-war-thunder-ancient-helicopter-snail-bundle.json) |
 | War Thunder: Ancient Tank Bundle | 303028 | [303028-war-thunder-ancient-tank-bundle.json](./303028-war-thunder-ancient-tank-bundle.json) |
@@ -1026,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer Age of Sigmar: Storm Ground | 137328 | [137328-warhammer-age-of-sigmar-storm-ground.json](./137328-warhammer-age-of-sigmar-storm-ground.json) |
 | Warhammer Age of Sigmar: Tempestfall | 145080 | [145080-warhammer-age-of-sigmar-tempestfall.json](./145080-warhammer-age-of-sigmar-tempestfall.json) |
 | Warhammer Blood Bowl | 394515 | [394515-warhammer-blood-bowl.json](./394515-warhammer-blood-bowl.json) |
+| Warhammer Pack: Hack and Slash | 224159 | [224159-warhammer-pack-hack-and-slash.json](./224159-warhammer-pack-hack-and-slash.json) |
 | Warhammer Quest 2: The End Times | 27930 | [27930-warhammer-quest-2-the-end-times.json](./27930-warhammer-quest-2-the-end-times.json) |
 | Warhammer Quest Deluxe | 53906 | [53906-warhammer-quest-deluxe.json](./53906-warhammer-quest-deluxe.json) |
 | Warhammer Quest: Silver Tower | 151194 | [151194-warhammer-quest-silver-tower.json](./151194-warhammer-quest-silver-tower.json) |
