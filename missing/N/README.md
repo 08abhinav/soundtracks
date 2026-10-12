@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naheulbeuk's Dungeon Master | 252851 | [252851-naheulbeuks-dungeon-master.json](./252851-naheulbeuks-dungeon-master.json) |
 | Naheulbeuk's Dungeon Master: Steward Edition | 277029 | [277029-naheulbeuks-dungeon-master-steward-edition.json](./277029-naheulbeuks-dungeon-master-steward-edition.json) |
 | Nahi's Winter Holidate | 386736 | [386736-nahis-winter-holidate.json](./386736-nahis-winter-holidate.json) |
+| Nahka | 189912 | [189912-nahka.json](./189912-nahka.json) |
 | Nahlakh | 94013 | [94013-nahlakh.json](./94013-nahlakh.json) |
 | Naiad | 180277 | [180277-naiad.json](./180277-naiad.json) |
 | Naïca | 118959 | [118959-naica.json](./118959-naica.json) |
