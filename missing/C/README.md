@@ -11677,7 +11677,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CRW : Metal Jacket | 127833 | [127833-crw-metal-jacket.json](./127833-crw-metal-jacket.json) |
 | CRW: Counter Revolution War | 61554 | [61554-crw-counter-revolution-war.json](./61554-crw-counter-revolution-war.json) |
 | Cry of Athena | 158506 | [158506-cry-of-athena.json](./158506-cry-of-athena.json) |
-| Cry of Fear | 3084 | [3084-cry-of-fear.json](./3084-cry-of-fear.json) |
 | Cry of Monster | 367403 | [367403-cry-of-monster.json](./367403-cry-of-monster.json) |
 | Cryaxion | 215862 | [215862-cryaxion.json](./215862-cryaxion.json) |
 | Cryep | 98751 | [98751-cryep.json](./98751-cryep.json) |
