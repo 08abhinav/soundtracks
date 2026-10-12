@@ -2746,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catjong 3: Purrl of the East | 393825 | [393825-catjong-3-purrl-of-the-east.json](./393825-catjong-3-purrl-of-the-east.json) |
 | Catlateral Damage | 17966 | [17966-catlateral-damage.json](./17966-catlateral-damage.json) |
 | Catlateral Damage: VR | 170315 | [170315-catlateral-damage-vr.json](./170315-catlateral-damage-vr.json) |
+| Catlike Magic | 214116 | [214116-catlike-magic.json](./214116-catlike-magic.json) |
 | Catloaf 2600 | 93154 | [93154-catloaf-2600.json](./93154-catloaf-2600.json) |
 | Catloaf Kart Racing | 382564 | [382564-catloaf-kart-racing.json](./382564-catloaf-kart-racing.json) |
 | Catloons | 240204 | [240204-catloons.json](./240204-catloons.json) |
@@ -3112,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ceke Ceke | 208227 | [208227-ceke-ceke.json](./208227-ceke-ceke.json) |
 | Cel Damage 2 | 143110 | [143110-cel-damage-2.json](./143110-cel-damage-2.json) |
 | Cel Story | 364350 | [364350-cel-story.json](./364350-cel-story.json) |
+| Celadon | 214121 | [214121-celadon.json](./214121-celadon.json) |
 | Celebrate | 80178 | [80178-celebrate.json](./80178-celebrate.json) |
 | Celebrating Lake Xochimilco | 250299 | [250299-celebrating-lake-xochimilco.json](./250299-celebrating-lake-xochimilco.json) |
 | Celebrating Lotería! | 375816 | [375816-celebrating-loteria.json](./375816-celebrating-loteria.json) |
@@ -5700,6 +5702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Bus Driver Simulator | 279864 | [279864-city-bus-driver-simulator.json](./279864-city-bus-driver-simulator.json) |
 | City Bus Driver Simulator 2 | 311632 | [311632-city-bus-driver-simulator-2.json](./311632-city-bus-driver-simulator-2.json) |
 | City Bus Driving Simulator | 147606 | [147606-city-bus-driving-simulator.json](./147606-city-bus-driving-simulator.json) |
+| City Bus Manager | 214150 | [214150-city-bus-manager.json](./214150-city-bus-manager.json) |
 | City Bus Simulator | 308999 | [308999-city-bus-simulator.json](./308999-city-bus-simulator.json) |
 | City Bus Simulator 2010 | 67299 | [67299-city-bus-simulator-2010.json](./67299-city-bus-simulator-2010.json) |
 | City Bus Simulator 2018 | 96501 | [96501-city-bus-simulator-2018.json](./96501-city-bus-simulator-2018.json) |
@@ -8852,6 +8855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cook for the Giant | 52827 | [52827-cook-for-the-giant.json](./52827-cook-for-the-giant.json) |
 | Cook It! | 185500 | [185500-cook-it.json](./185500-cook-it.json) |
 | Cook MIX | 390819 | [390819-cook-mix.json](./390819-cook-mix.json) |
+| Cook Off: Animal Rescue | 214107 | [214107-cook-off-animal-rescue.json](./214107-cook-off-animal-rescue.json) |
 | Cook OL | 288908 | [288908-cook-ol.json](./288908-cook-ol.json) |
 | Cook or Be Cooked | 361825 | [361825-cook-or-be-cooked.json](./361825-cook-or-be-cooked.json) |
 | Cook Out! | 250045 | [250045-cook-out.json](./250045-cook-out.json) |
@@ -11132,6 +11136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross the Ages: Trading Card Game | 217807 | [217807-cross-the-ages-trading-card-game.json](./217807-cross-the-ages-trading-card-game.json) |
 | Cross The Boundaries | 334182 | [334182-cross-the-boundaries.json](./334182-cross-the-boundaries.json) |
 | Cross the Gap | 184976 | [184976-cross-the-gap.json](./184976-cross-the-gap.json) |
+| Cross the Hell Master | 214120 | [214120-cross-the-hell-master.json](./214120-cross-the-hell-master.json) |
 | Cross the Maze World | 290471 | [290471-cross-the-maze-world.json](./290471-cross-the-maze-world.json) |
 | Cross the Red Line | 113859 | [113859-cross-the-red-line.json](./113859-cross-the-red-line.json) |
 | Cross the Road | 186057 | [186057-cross-the-road.json](./186057-cross-the-road.json) |
@@ -12378,6 +12383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Blocks | 146708 | [146708-cursed-blocks.json](./146708-cursed-blocks.json) |
 | Cursed Blood | 331280 | [331280-cursed-blood.json](./331280-cursed-blood.json) |
 | Cursed Bloodline | 338253 | [338253-cursed-bloodline.json](./338253-cursed-bloodline.json) |
+| Cursed Broom | 214146 | [214146-cursed-broom.json](./214146-cursed-broom.json) |
 | Cursed by Feedback | 364666 | [364666-cursed-by-feedback.json](./364666-cursed-by-feedback.json) |
 | Cursed Cargo | 394329 | [394329-cursed-cargo.json](./394329-cursed-cargo.json) |
 | Cursed Castilla | 197635 | [197635-cursed-castilla.json](./197635-cursed-castilla.json) |
