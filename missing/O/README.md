@@ -1769,6 +1769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Vacancy | 184039 | [184039-one-vacancy.json](./184039-one-vacancy.json) |
 | One Vision | 132144 | [132144-one-vision.json](./132144-one-vision.json) |
 | One Watcher | 96243 | [96243-one-watcher.json](./96243-one-watcher.json) |
+| One Way | 187197 | [187197-one-way.json](./187197-one-way.json) |
 | One Way Flight | 33002 | [33002-one-way-flight.json](./33002-one-way-flight.json) |
 | One Way Heroics Plus | 147990 | [147990-one-way-heroics-plus.json](./147990-one-way-heroics-plus.json) |
 | One Way Home | 244491 | [244491-one-way-home.json](./244491-one-way-home.json) |
