@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth Escape | 41901 | [41901-labyrinth-escape.json](./41901-labyrinth-escape.json) |
 | Labyrinth Eternal | 187898 | [187898-labyrinth-eternal.json](./187898-labyrinth-eternal.json) |
 | Labyrinth Inf | 181104 | [181104-labyrinth-inf.json](./181104-labyrinth-inf.json) |
+| Labyrinth Legend II | 206443 | [206443-labyrinth-legend-ii.json](./206443-labyrinth-legend-ii.json) |
 | Labyrinth Life: Deluxe Edition | 121418 | [121418-labyrinth-life-deluxe-edition.json](./121418-labyrinth-life-deluxe-edition.json) |
 | Labyrinth Lunacy | 104694 | [104694-labyrinth-lunacy.json](./104694-labyrinth-lunacy.json) |
 | Labyrinth Master | 356672 | [356672-labyrinth-master.json](./356672-labyrinth-master.json) |
@@ -4234,6 +4235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LMA Manager 2004 | 22545 | [22545-lma-manager-2004.json](./22545-lma-manager-2004.json) |
 | LMA Manager 2007 | 20561 | [20561-lma-manager-2007.json](./20561-lma-manager-2007.json) |
 | LMA Professional Manager 2005 | 22547 | [22547-lma-professional-manager-2005.json](./22547-lma-professional-manager-2005.json) |
+| LN of Zombies | 206434 | [206434-ln-of-zombies.json](./206434-ln-of-zombies.json) |
 | Lo and Behold | 371874 | [371874-lo-and-behold.json](./371874-lo-and-behold.json) |
 | Lo-fi | 179620 | [179620-lo-fi.json](./179620-lo-fi.json) |
 | Lo-Fi Golf | 360684 | [360684-lo-fi-golf.json](./360684-lo-fi-golf.json) |
