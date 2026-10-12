@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakfu: The Brotherhood | 109554 | [109554-wakfu-the-brotherhood.json](./109554-wakfu-the-brotherhood.json) |
 | Waking Atlas | 251829 | [251829-waking-atlas.json](./251829-waking-atlas.json) |
 | Waking Dreams | 360733 | [360733-waking-dreams.json](./360733-waking-dreams.json) |
+| Waking Knightmare | 220279 | [220279-waking-knightmare.json](./220279-waking-knightmare.json) |
 | Waking Nightmare | 181849 | [181849-waking-nightmare.json](./181849-waking-nightmare.json) |
 | Waking Nightmares | 375287 | [375287-waking-nightmares.json](./375287-waking-nightmares.json) |
 | Waking Nitemare | 309429 | [309429-waking-nitemare.json](./309429-waking-nitemare.json) |
@@ -1150,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlode | 400530 | [400530-warlode.json](./400530-warlode.json) |
 | Warlondor | 401740 | [401740-warlondor.json](./401740-warlondor.json) |
 | Warlord: Britannia | 199476 | [199476-warlord-britannia.json](./199476-warlord-britannia.json) |
+| WarLord: Edenui Churak | 220281 | [220281-warlord-edenui-churak.json](./220281-warlord-edenui-churak.json) |
 | Warlordocracy | 190023 | [190023-warlordocracy.json](./190023-warlordocracy.json) |
 | Warlordocracy: Chapter 2 | 258217 | [258217-warlordocracy-chapter-2.json](./258217-warlordocracy-chapter-2.json) |
 | Warlordocracy: Chapter 3 | 336569 | [336569-warlordocracy-chapter-3.json](./336569-warlordocracy-chapter-3.json) |
@@ -2551,6 +2553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Fortune: New 3rd Edition | 47182 | [47182-wheel-of-fortune-new-3rd-edition.json](./47182-wheel-of-fortune-new-3rd-edition.json) |
 | Wheel of Fortune: New Second Edition | 209617 | [209617-wheel-of-fortune-new-second-edition.json](./209617-wheel-of-fortune-new-second-edition.json) |
 | Wheel of Fortune: Pogo Edition | 355010 | [355010-wheel-of-fortune-pogo-edition.json](./355010-wheel-of-fortune-pogo-edition.json) |
+| Wheel of Fortune: Second Edition | 220260 | [220260-wheel-of-fortune-second-edition.json](./220260-wheel-of-fortune-second-edition.json) |
 | Wheel of Fortune: Show Puzzles | 87370 | [87370-wheel-of-fortune-show-puzzles.json](./87370-wheel-of-fortune-show-puzzles.json) |
 | Wheel of Innocence | 222846 | [222846-wheel-of-innocence.json](./222846-wheel-of-innocence.json) |
 | Wheel of Naughtiness | 226154 | [226154-wheel-of-naughtiness.json](./226154-wheel-of-naughtiness.json) |
