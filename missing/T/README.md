@@ -816,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Fandom Vol. 2: Tear Version | 43459 | [43459-tales-of-fandom-vol-2-tear-version.json](./43459-tales-of-fandom-vol-2-tear-version.json) |
 | Tales of Fear: Episode Zero | 379432 | [379432-tales-of-fear-episode-zero.json](./379432-tales-of-fear-episode-zero.json) |
 | Tales of Fearless | 379435 | [379435-tales-of-fearless.json](./379435-tales-of-fearless.json) |
+| Tales of Fire | 203677 | [203677-tales-of-fire.json](./203677-tales-of-fire.json) |
 | Tales of Formentera | 414437 | [414437-tales-of-formentera.json](./414437-tales-of-formentera.json) |
 | Tales of Fortune | 312121 | [312121-tales-of-fortune.json](./312121-tales-of-fortune.json) |
 | Tales of Glacier VR | 57036 | [57036-tales-of-glacier-vr.json](./57036-tales-of-glacier-vr.json) |
@@ -5386,6 +5387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devious Four Chronicles 8: Goddess Robes | 321461 | [321461-the-devious-four-chronicles-8-goddess-robes.json](./321461-the-devious-four-chronicles-8-goddess-robes.json) |
 | The Devourer: Hunted Souls | 238626 | [238626-the-devourer-hunted-souls.json](./238626-the-devourer-hunted-souls.json) |
 | The Dew | 55273 | [55273-the-dew.json](./55273-the-dew.json) |
+| The Diabolical Trilogy | 203717 | [203717-the-diabolical-trilogy.json](./203717-the-diabolical-trilogy.json) |
 | The Diamond Adventures | 377218 | [377218-the-diamond-adventures.json](./377218-the-diamond-adventures.json) |
 | The Diamond Mystery in Rosemond Valley | 125305 | [125305-the-diamond-mystery-in-rosemond-valley.json](./125305-the-diamond-mystery-in-rosemond-valley.json) |
 | The Diary | 250356 | [250356-the-diary.json](./250356-the-diary.json) |
@@ -7393,6 +7395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Karate Tournament | 40342 | [40342-the-karate-tournament.json](./40342-the-karate-tournament.json) |
 | The Karters 2: Turbo Charged | 230763 | [230763-the-karters-2-turbo-charged.json](./230763-the-karters-2-turbo-charged.json) |
 | The Katagean Redoubt | 271816 | [271816-the-katagean-redoubt.json](./271816-the-katagean-redoubt.json) |
+| The Katydids Incident | 203675 | [203675-the-katydids-incident.json](./203675-the-katydids-incident.json) |
 | The Kebab House: Cooking Simulator | 362175 | [362175-the-kebab-house-cooking-simulator.json](./362175-the-kebab-house-cooking-simulator.json) |
 | The Keep | 146340 | [146340-the-keep.json](./146340-the-keep.json) |
 | The Keeper | 162424 | [162424-the-keeper.json](./162424-the-keeper.json) |
@@ -8861,6 +8864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mines of Morseph | 55289 | [55289-the-mines-of-morseph.json](./55289-the-mines-of-morseph.json) |
 | The Mines of White Label | 289982 | [289982-the-mines-of-white-label.json](./289982-the-mines-of-white-label.json) |
 | The Minesweeper | 406322 | [406322-the-minesweeper.json](./406322-the-minesweeper.json) |
+| The Minesweeper: Crew Bomber Expedition | 203703 | [203703-the-minesweeper-crew-bomber-expedition.json](./203703-the-minesweeper-crew-bomber-expedition.json) |
 | The Minesweeper's Tale | 411056 | [411056-the-minesweepers-tale.json](./411056-the-minesweepers-tale.json) |
 | The Mini Crossword | 311756 | [311756-the-mini-crossword.json](./311756-the-mini-crossword.json) |
 | The Ministry for Anomaly Observation | 405582 | [405582-the-ministry-for-anomaly-observation.json](./405582-the-ministry-for-anomaly-observation.json) |
@@ -12231,6 +12235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Window Box | 113850 | [113850-the-window-box.json](./113850-the-window-box.json) |
 | The Windows Are Gone | 267093 | [267093-the-windows-are-gone.json](./267093-the-windows-are-gone.json) |
 | The Wine Hunt: Aim Fidelity | 257975 | [257975-the-wine-hunt-aim-fidelity.json](./257975-the-wine-hunt-aim-fidelity.json) |
+| The Wine Story | 203685 | [203685-the-wine-story.json](./203685-the-wine-story.json) |
 | The Winning Secret of the Newbie Strategist Princess | 259171 | [259171-the-winning-secret-of-the-newbie-strategist-princess.json](./259171-the-winning-secret-of-the-newbie-strategist-princess.json) |
 | The Winter | 209684 | [209684-the-winter.json](./209684-the-winter.json) |
 | The Winter Games | 264346 | [264346-the-winter-games.json](./264346-the-winter-games.json) |
@@ -17326,6 +17331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Saviors | 22440 | [22440-tower-of-saviors.json](./22440-tower-of-saviors.json) |
 | Tower of Shades | 127386 | [127386-tower-of-shades.json](./127386-tower-of-shades.json) |
 | Tower of Souls | 61550 | [61550-tower-of-souls.json](./61550-tower-of-souls.json) |
+| Tower of Spirit | 203670 | [203670-tower-of-spirit.json](./203670-tower-of-spirit.json) |
 | Tower of Square | 399692 | [399692-tower-of-square.json](./399692-tower-of-square.json) |
 | Tower of Tears | 268212 | [268212-tower-of-tears.json](./268212-tower-of-tears.json) |
 | Tower of the Ancients | 206753 | [206753-tower-of-the-ancients.json](./206753-tower-of-the-ancients.json) |
