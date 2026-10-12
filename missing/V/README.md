@@ -1731,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual High School Girl Game | 106654 | [106654-virtual-high-school-girl-game.json](./106654-virtual-high-school-girl-game.json) |
 | Virtual Hiryuu no Ken | 61162 | [61162-virtual-hiryuu-no-ken.json](./61162-virtual-hiryuu-no-ken.json) |
 | Virtual Horse Ranch II | 73250 | [73250-virtual-horse-ranch-ii.json](./73250-virtual-horse-ranch-ii.json) |
+| Virtual Hunting Experience | 200406 | [200406-virtual-hunting-experience.json](./200406-virtual-hunting-experience.json) |
 | Virtual Insanity | 39779 | [39779-virtual-insanity.json](./39779-virtual-insanity.json) |
 | Virtual Interactive Fireplace | 338566 | [338566-virtual-interactive-fireplace.json](./338566-virtual-interactive-fireplace.json) |
 | Virtual Job Shop Simulator | 107273 | [107273-virtual-job-shop-simulator.json](./107273-virtual-job-shop-simulator.json) |
