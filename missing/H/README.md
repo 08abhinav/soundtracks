@@ -6001,6 +6001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Trap | 379540 | [379540-honey-trap.json](./379540-honey-trap.json) |
 | Honey Trap Amnesia | 371915 | [371915-honey-trap-amnesia.json](./371915-honey-trap-amnesia.json) |
 | Honey Trap Escape: Family of Villains and the Cage | 366110 | [366110-honey-trap-escape-family-of-villains-and-the-cage.json](./366110-honey-trap-escape-family-of-villains-and-the-cage.json) |
+| Honey Twigs | 185376 | [185376-honey-twigs.json](./185376-honey-twigs.json) |
 | Honey Vibes | 287894 | [287894-honey-vibes.json](./287894-honey-vibes.json) |
 | Honey, I Joined a Cult | 99634 | [99634-honey-i-joined-a-cult.json](./99634-honey-i-joined-a-cult.json) |
 | Honeyblaster | 95436 | [95436-honeyblaster.json](./95436-honeyblaster.json) |
@@ -6993,6 +6994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Of 1000 Fowl | 399249 | [399249-house-of-1000-fowl.json](./399249-house-of-1000-fowl.json) |
 | House of Alice | 32091 | [32091-house-of-alice.json](./32091-house-of-alice.json) |
 | House of Asterion | 202599 | [202599-house-of-asterion.json](./202599-house-of-asterion.json) |
+| House of Berluscont | 185368 | [185368-house-of-berluscont.json](./185368-house-of-berluscont.json) |
 | House of Cards: A Modern Fantasy Story Game | 134555 | [134555-house-of-cards-a-modern-fantasy-story-game.json](./134555-house-of-cards-a-modern-fantasy-story-game.json) |
 | House of Cards: TD | 298128 | [298128-house-of-cards-td.json](./298128-house-of-cards-td.json) |
 | House of Cathalon | 142442 | [142442-house-of-cathalon.json](./142442-house-of-cathalon.json) |
