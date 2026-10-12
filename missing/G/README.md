@@ -1226,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden's Bane: DG's Quest | 208610 | [208610-gardens-bane-dgs-quest.json](./208610-gardens-bane-dgs-quest.json) |
 | Gardener | 285578 | [285578-gardener.json](./285578-gardener.json) |
 | Gardener Simulator | 390636 | [390636-gardener-simulator.json](./390636-gardener-simulator.json) |
+| Gardener's Path | 185953 | [185953-gardeners-path.json](./185953-gardeners-path.json) |
 | Gardener's Quest | 287235 | [287235-gardeners-quest.json](./287235-gardeners-quest.json) |
 | Gardenia: Prologue | 402924 | [402924-gardenia-prologue.json](./402924-gardenia-prologue.json) |
 | Gardening by Choice: Flowers and Foliage | 45886 | [45886-gardening-by-choice-flowers-and-foliage.json](./45886-gardening-by-choice-flowers-and-foliage.json) |
@@ -4305,6 +4306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf: Tee it Up! | 20794 | [20794-golf-tee-it-up.json](./20794-golf-tee-it-up.json) |
 | Golf: The Ultimate Collection | 314665 | [314665-golf-the-ultimate-collection.json](./314665-golf-the-ultimate-collection.json) |
 | Golf's Best: St. Andrews - The Home of Golf | 71773 | [71773-golfs-best-st-andrews-the-home-of-golf.json](./71773-golfs-best-st-andrews-the-home-of-golf.json) |
+| Golf+ | 186012 | [186012-golf.json](./186012-golf.json) |
 | GolFall: Make Your Way Up | 401166 | [401166-golfall-make-your-way-up.json](./401166-golfall-make-your-way-up.json) |
 | Golfaria | 318470 | [318470-golfaria.json](./318470-golfaria.json) |
 | Golfing Around | 108442 | [108442-golfing-around.json](./108442-golfing-around.json) |
@@ -4632,6 +4634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gordon Freakman | 322671 | [322671-gordon-freakman.json](./322671-gordon-freakman.json) |
 | Gordon Freakman 2: Kleiner-Life | 322672 | [322672-gordon-freakman-2-kleiner-life.json](./322672-gordon-freakman-2-kleiner-life.json) |
 | Gordon Ramsay Dash | 58306 | [58306-gordon-ramsay-dash.json](./58306-gordon-ramsay-dash.json) |
+| Gordon Streaman 2 | 185963 | [185963-gordon-streaman-2.json](./185963-gordon-streaman-2.json) |
 | Gordost' Ulypa: VR-legendy Chuvashii | 368897 | [368897-gordost-ulypa-vr-legendy-chuvashii.json](./368897-gordost-ulypa-vr-legendy-chuvashii.json) |
 | Gordy | 356584 | [356584-gordy.json](./356584-gordy.json) |
 | Gore | 263419 | [263419-gore.json](./263419-gore.json) |
@@ -4980,6 +4983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy: Relink - Emote Expansion Set: Grab Bag | 312002 | [312002-granblue-fantasy-relink-emote-expansion-set-grab-bag.json](./312002-granblue-fantasy-relink-emote-expansion-set-grab-bag.json) |
 | Granblue Fantasy: Relink - Emote Expansion Set: I Work Out | 305779 | [305779-granblue-fantasy-relink-emote-expansion-set-i-work-out.json](./305779-granblue-fantasy-relink-emote-expansion-set-i-work-out.json) |
 | Granblue Fantasy: Versus | 113378 | [113378-granblue-fantasy-versus.json](./113378-granblue-fantasy-versus.json) |
+| Granblue Fantasy: Versus - Legendary Edition | 185989 | [185989-granblue-fantasy-versus-legendary-edition.json](./185989-granblue-fantasy-versus-legendary-edition.json) |
 | Granblue Fantasy: Versus - Lobby Avatar (Gold Ship) | 332665 | [332665-granblue-fantasy-versus-lobby-avatar-gold-ship.json](./332665-granblue-fantasy-versus-lobby-avatar-gold-ship.json) |
 | Granblue Fantasy: Versus - Seox | 233643 | [233643-granblue-fantasy-versus-seox.json](./233643-granblue-fantasy-versus-seox.json) |
 | Grand Academy for Future Villains | 67914 | [67914-grand-academy-for-future-villains.json](./67914-grand-academy-for-future-villains.json) |
@@ -5779,6 +5783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gregory Horror Show: Lost Qualia | 322154 | [322154-gregory-horror-show-lost-qualia.json](./322154-gregory-horror-show-lost-qualia.json) |
 | Gregory's Epic Adventure | 229362 | [229362-gregorys-epic-adventure.json](./229362-gregorys-epic-adventure.json) |
 | Grejsimojs | 287305 | [287305-grejsimojs.json](./287305-grejsimojs.json) |
+| Gremlin Collection 1 | 185977 | [185977-gremlin-collection-1.json](./185977-gremlin-collection-1.json) |
 | Gremlin Invasion: Survivor | 35724 | [35724-gremlin-invasion-survivor.json](./35724-gremlin-invasion-survivor.json) |
 | Gremlins | 25673 | [25673-gremlins.json](./25673-gremlins.json) |
 | Gremlins 2: The New Batch | 119197 | [119197-gremlins-2-the-new-batch.json](./119197-gremlins-2-the-new-batch.json) |
@@ -5866,6 +5871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid-M | 257921 | [257921-grid-m.json](./257921-grid-m.json) |
 | Grid: Autosport - Drag Pack | 365684 | [365684-grid-autosport-drag-pack.json](./365684-grid-autosport-drag-pack.json) |
 | Grid: Day One Edition | 136177 | [136177-grid-day-one-edition.json](./136177-grid-day-one-edition.json) |
+| Grid:Locked | 185956 | [185956-grid-locked.json](./185956-grid-locked.json) |
 | Grid16 | 270637 | [270637-grid16.json](./270637-grid16.json) |
 | Gridblocked | 204719 | [204719-gridblocked.json](./204719-gridblocked.json) |
 | Gridbug | 67680 | [67680-gridbug.json](./67680-gridbug.json) |
@@ -6056,6 +6062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrimRail | 367612 | [367612-grimrail.json](./367612-grimrail.json) |
 | Grimrain | 302077 | [302077-grimrain.json](./302077-grimrain.json) |
 | Grimroll | 334348 | [334348-grimroll.json](./334348-grimroll.json) |
+| Grimscape | 185959 | [185959-grimscape.json](./185959-grimscape.json) |
 | Grimshade | 102199 | [102199-grimshade.json](./102199-grimshade.json) |
 | Grimshire | 284411 | [284411-grimshire.json](./284411-grimshire.json) |
 | Grimslair | 391587 | [391587-grimslair.json](./391587-grimslair.json) |
