@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B-Rain | 286443 | [286443-b-rain.json](./286443-b-rain.json) |
 | B-Side | 219730 | [219730-b-side.json](./219730-b-side.json) |
 | B-Sides | 183582 | [183582-b-sides.json](./183582-b-sides.json) |
+| B-Team | 193693 | [193693-b-team.json](./193693-b-team.json) |
 | B-Wings | 273080 | [273080-b-wings.json](./273080-b-wings.json) |
 | B. Braun Future Operating Room | 30686 | [30686-b-braun-future-operating-room.json](./30686-b-braun-future-operating-room.json) |
 | B. C. Story | 39879 | [39879-b-c-story.json](./39879-b-c-story.json) |
@@ -1039,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballimals | 67594 | [67594-ballimals.json](./67594-ballimals.json) |
 | Ballin' | 173239 | [173239-ballin.json](./173239-ballin.json) |
 | Ballionaire | 274333 | [274333-ballionaire.json](./274333-ballionaire.json) |
+| Ballista | 193691 | [193691-ballista.json](./193691-ballista.json) |
 | Ballista Legend | 117038 | [117038-ballista-legend.json](./117038-ballista-legend.json) |
 | Ballistic | 187303 | [187303-ballistic.json](./187303-ballistic.json) |
 | Ballistic | 187304 | [187304-ballistic.json](./187304-ballistic.json) |
@@ -6121,6 +6123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blair Witch Volume 2: The Legend of Coffin Rock | 18490 | [18490-blair-witch-volume-2-the-legend-of-coffin-rock.json](./18490-blair-witch-volume-2-the-legend-of-coffin-rock.json) |
 | Blair Witch Volume 3: The Elly Kedward Tale | 18491 | [18491-blair-witch-volume-3-the-elly-kedward-tale.json](./18491-blair-witch-volume-3-the-elly-kedward-tale.json) |
 | Blair Witch: Deluxe Edition | 154467 | [154467-blair-witch-deluxe-edition.json](./154467-blair-witch-deluxe-edition.json) |
+| Blair Witch: Oculus Quest Edition | 193692 | [193692-blair-witch-oculus-quest-edition.json](./193692-blair-witch-oculus-quest-edition.json) |
 | Blake and Mortimer: The Curse of the Thirty Denarii | 89374 | [89374-blake-and-mortimer-the-curse-of-the-thirty-denarii.json](./89374-blake-and-mortimer-the-curse-of-the-thirty-denarii.json) |
 | Blake Stone: Planet Strike | 8490 | [8490-blake-stone-planet-strike.json](./8490-blake-stone-planet-strike.json) |
 | Blake Strongflank | 182515 | [182515-blake-strongflank.json](./182515-blake-strongflank.json) |
@@ -10121,6 +10124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Picture Telephone | 252290 | [252290-broken-picture-telephone.json](./252290-broken-picture-telephone.json) |
 | Broken Picturephone | 71160 | [71160-broken-picturephone.json](./71160-broken-picturephone.json) |
 | Broken Pieces | 137286 | [137286-broken-pieces.json](./137286-broken-pieces.json) |
+| Broken Pipe | 193669 | [193669-broken-pipe.json](./193669-broken-pipe.json) |
 | Broken Prism | 346211 | [346211-broken-prism.json](./346211-broken-prism.json) |
 | Broken Puppet | 124607 | [124607-broken-puppet.json](./124607-broken-puppet.json) |
 | Broken Race | 372099 | [372099-broken-race.json](./372099-broken-race.json) |
