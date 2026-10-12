@@ -1022,7 +1022,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Om Nom Solitaire | 183608 | [183608-om-nom-solitaire.json](./183608-om-nom-solitaire.json) |
 | Om Nom: Candy Flick | 343993 | [343993-om-nom-candy-flick.json](./343993-om-nom-candy-flick.json) |
 | Om Nom: Coloring, Toons & Puzzle - All DLC Pack | 199933 | [199933-om-nom-coloring-toons-and-puzzle-all-dlc-pack.json](./199933-om-nom-coloring-toons-and-puzzle-all-dlc-pack.json) |
+| Om Nom: Coloring, Toons & Puzzle - Complete Pack | 199831 | [199831-om-nom-coloring-toons-and-puzzle-complete-pack.json](./199831-om-nom-coloring-toons-and-puzzle-complete-pack.json) |
 | Om Nom: Coloring, Toons & Puzzle - Delicious Dots | 199922 | [199922-om-nom-coloring-toons-and-puzzle-delicious-dots.json](./199922-om-nom-coloring-toons-and-puzzle-delicious-dots.json) |
+| Om Nom: Coloring, Toons & Puzzle - Flavorful Puzzles | 199828 | [199828-om-nom-coloring-toons-and-puzzle-flavorful-puzzles.json](./199828-om-nom-coloring-toons-and-puzzle-flavorful-puzzles.json) |
+| Om Nom: Coloring, Toons & Puzzle - Sweet Coloring Pages | 199827 | [199827-om-nom-coloring-toons-and-puzzle-sweet-coloring-pages.json](./199827-om-nom-coloring-toons-and-puzzle-sweet-coloring-pages.json) |
+| Om Nom: Coloring, Toons & Puzzle - Tasty Toons | 199826 | [199826-om-nom-coloring-toons-and-puzzle-tasty-toons.json](./199826-om-nom-coloring-toons-and-puzzle-tasty-toons.json) |
 | Om Nom: Run - Costumes and Themes | 251666 | [251666-om-nom-run-costumes-and-themes.json](./251666-om-nom-run-costumes-and-themes.json) |
 | Om Nom: Run - Ultimate Edition | 251667 | [251667-om-nom-run-ultimate-edition.json](./251667-om-nom-run-ultimate-edition.json) |
 | Om Nom: Run & Om Nom: Run 2 | 363971 | [363971-om-nom-run-and-om-nom-run-2.json](./363971-om-nom-run-and-om-nom-run-2.json) |
