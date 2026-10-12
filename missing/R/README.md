@@ -1791,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reader Rabbit: Thinking Adventures Ages 4-6 | 144857 | [144857-reader-rabbit-thinking-adventures-ages-4-6.json](./144857-reader-rabbit-thinking-adventures-ages-4-6.json) |
 | Reader Rabbit's Math Ages 6-9 | 209739 | [209739-reader-rabbits-math-ages-6-9.json](./209739-reader-rabbits-math-ages-6-9.json) |
 | Reader Rabbit's Toddler | 73297 | [73297-reader-rabbits-toddler.json](./73297-reader-rabbits-toddler.json) |
+| Reading Blaster: Ages 9-12 | 191530 | [191530-reading-blaster-ages-9-12.json](./191530-reading-blaster-ages-9-12.json) |
 | Reading Raven | 104090 | [104090-reading-raven.json](./104090-reading-raven.json) |
 | Reading Recipes: Grandma Ollie's Morphabet Soup | 209738 | [209738-reading-recipes-grandma-ollies-morphabet-soup.json](./209738-reading-recipes-grandma-ollies-morphabet-soup.json) |
 | Reading Simulator | 81809 | [81809-reading-simulator.json](./81809-reading-simulator.json) |
@@ -5354,6 +5355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RNFF: Running Naked in a Field of Flowers | 69544 | [69544-rnff-running-naked-in-a-field-of-flowers.json](./69544-rnff-running-naked-in-a-field-of-flowers.json) |
 | RNG Quest | 338865 | [338865-rng-quest.json](./338865-rng-quest.json) |
 | RNG Quest | 338866 | [338866-rng-quest.json](./338866-rng-quest.json) |
+| RNG Royale | 191532 | [191532-rng-royale.json](./191532-rng-royale.json) |
 | Rô + Fire Race + Scrap Bolts + Milk Seller + Home Sweet Home + Rafa's World | 306552 | [306552-ro-fire-race-scrap-bolts-milk-seller-home-sweet-home-rafas-world.json](./306552-ro-fire-race-scrap-bolts-milk-seller-home-sweet-home-rafas-world.json) |
 | Ro Sham Bo Rush | 252142 | [252142-ro-sham-bo-rush.json](./252142-ro-sham-bo-rush.json) |
 | RO: Idle Poring | 74770 | [74770-ro-idle-poring.json](./74770-ro-idle-poring.json) |
@@ -7356,6 +7358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Defense: Ancient Menace | 337586 | [337586-royal-defense-ancient-menace.json](./337586-royal-defense-ancient-menace.json) |
 | Royal Detective: Incident at Ashford | 355553 | [355553-royal-detective-incident-at-ashford.json](./355553-royal-detective-incident-at-ashford.json) |
 | Royal Dice: Random Defense | 174810 | [174810-royal-dice-random-defense.json](./174810-royal-dice-random-defense.json) |
+| Royal Duality | 191515 | [191515-royal-duality.json](./191515-royal-duality.json) |
 | Royal Dungeon | 205605 | [205605-royal-dungeon.json](./205605-royal-dungeon.json) |
 | Royal Envoy 2 | 63401 | [63401-royal-envoy-2.json](./63401-royal-envoy-2.json) |
 | Royal Envoy 2: Collector's Edition | 201855 | [201855-royal-envoy-2-collectors-edition.json](./201855-royal-envoy-2-collectors-edition.json) |
