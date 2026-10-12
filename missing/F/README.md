@@ -3729,6 +3729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire & Forget: The Final Assault | 53041 | [53041-fire-and-forget-the-final-assault.json](./53041-fire-and-forget-the-final-assault.json) |
 | Fire & Ice: The Daring Adventures of Cool Coyote | 12099 | [12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json](./12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json) |
 | Fire & Maneuver: American Civil War | 211899 | [211899-fire-and-maneuver-american-civil-war.json](./211899-fire-and-maneuver-american-civil-war.json) |
+| Fire & Reign | 195959 | [195959-fire-and-reign.json](./195959-fire-and-reign.json) |
 | Fire & Water | 147997 | [147997-fire-and-water.json](./147997-fire-and-water.json) |
 | Fire All Humans | 211134 | [211134-fire-all-humans.json](./211134-fire-all-humans.json) |
 | Fire All Weapons | 257973 | [257973-fire-all-weapons.json](./257973-fire-all-weapons.json) |
@@ -3903,6 +3904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireboy & Watergirl 3: The Ice Temple | 122938 | [122938-fireboy-and-watergirl-3-the-ice-temple.json](./122938-fireboy-and-watergirl-3-the-ice-temple.json) |
 | Fireboy & Watergirl 4: The Crystal Temple | 122936 | [122936-fireboy-and-watergirl-4-the-crystal-temple.json](./122936-fireboy-and-watergirl-4-the-crystal-temple.json) |
 | Fireboy & Watergirl: Elements | 113679 | [113679-fireboy-and-watergirl-elements.json](./113679-fireboy-and-watergirl-elements.json) |
+| Fireboy & Watergirl: Fairy Tales | 195980 | [195980-fireboy-and-watergirl-fairy-tales.json](./195980-fireboy-and-watergirl-fairy-tales.json) |
 | Fireboy and Watergirl: Online | 88769 | [88769-fireboy-and-watergirl-online.json](./88769-fireboy-and-watergirl-online.json) |
 | Firebug | 13714 | [13714-firebug.json](./13714-firebug.json) |
 | Firebug | 24888 | [24888-firebug.json](./24888-firebug.json) |
@@ -5176,6 +5178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floating Sandbox | 167707 | [167707-floating-sandbox.json](./167707-floating-sandbox.json) |
 | Floating with Spirits | 383368 | [383368-floating-with-spirits.json](./383368-floating-with-spirits.json) |
 | Floating World | 311166 | [311166-floating-world.json](./311166-floating-world.json) |
+| FloatingPoint | 195997 | [195997-floatingpoint.json](./195997-floatingpoint.json) |
 | Floatmotion | 59976 | [59976-floatmotion.json](./59976-floatmotion.json) |
 | Floatopia | 314274 | [314274-floatopia.json](./314274-floatopia.json) |
 | Floaty Brain In Space | 60893 | [60893-floaty-brain-in-space.json](./60893-floaty-brain-in-space.json) |
@@ -6071,6 +6074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Your Tranquility | 228503 | [228503-for-your-tranquility.json](./228503-for-your-tranquility.json) |
 | For Zekyll | 368814 | [368814-for-zekyll.json](./368814-for-zekyll.json) |
 | Forays into Norrendrin | 148391 | [148391-forays-into-norrendrin.json](./148391-forays-into-norrendrin.json) |
+| Forbidden | 195953 | [195953-forbidden.json](./195953-forbidden.json) |
 | Forbidden Art | 123978 | [123978-forbidden-art.json](./123978-forbidden-art.json) |
 | Forbidden City Journey | 240778 | [240778-forbidden-city-journey.json](./240778-forbidden-city-journey.json) |
 | Forbidden Compass | 404206 | [404206-forbidden-compass.json](./404206-forbidden-compass.json) |
