@@ -1151,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Romance: Hunchback of Notre-Dame - Collector's Edition | 116108 | [116108-dark-romance-hunchback-of-notre-dame-collectors-edition.json](./116108-dark-romance-hunchback-of-notre-dame-collectors-edition.json) |
 | Dark Romance: Kingdom of Death HD | 88810 | [88810-dark-romance-kingdom-of-death-hd.json](./88810-dark-romance-kingdom-of-death-hd.json) |
 | Dark Romance: Monster Within | 101486 | [101486-dark-romance-monster-within.json](./101486-dark-romance-monster-within.json) |
+| Dark Romance: Sleepy Hollow | 181647 | [181647-dark-romance-sleepy-hollow.json](./181647-dark-romance-sleepy-hollow.json) |
 | Dark Romance: The Ethereal Gardens - Collector's Edition | 123522 | [123522-dark-romance-the-ethereal-gardens-collectors-edition.json](./123522-dark-romance-the-ethereal-gardens-collectors-edition.json) |
 | Dark Romance: The Swan Sonata - Collector's Edition | 110345 | [110345-dark-romance-the-swan-sonata-collectors-edition.json](./110345-dark-romance-the-swan-sonata-collectors-edition.json) |
 | Dark Romance: The Swan Sonata HD | 88812 | [88812-dark-romance-the-swan-sonata-hd.json](./88812-dark-romance-the-swan-sonata-hd.json) |
@@ -7370,6 +7371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogchild | 59062 | [59062-dogchild.json](./59062-dogchild.json) |
 | Doge and the Lost Kitten | 103409 | [103409-doge-and-the-lost-kitten.json](./103409-doge-and-the-lost-kitten.json) |
 | Doge Dimensions | 187527 | [187527-doge-dimensions.json](./187527-doge-dimensions.json) |
+| Doge Game | 182168 | [182168-doge-game.json](./182168-doge-game.json) |
 | Doge Jump | 62678 | [62678-doge-jump.json](./62678-doge-jump.json) |
 | Doge Rescue | 224072 | [224072-doge-rescue.json](./224072-doge-rescue.json) |
 | Doge Simulator | 243050 | [243050-doge-simulator.json](./243050-doge-simulator.json) |
