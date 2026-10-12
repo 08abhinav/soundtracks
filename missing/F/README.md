@@ -5648,6 +5648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foes.io | 75135 | [75135-foes-io.json](./75135-foes-io.json) |
 | FOF: Fear Of Failure | 372496 | [372496-fof-fear-of-failure.json](./372496-fof-fear-of-failure.json) |
 | Fog | 201837 | [201837-fog.json](./201837-fog.json) |
+| Fog | 204841 | [204841-fog.json](./204841-fog.json) |
 | Fog & Silver | 214144 | [214144-fog-and-silver.json](./214144-fog-and-silver.json) |
 | Fog Horror | 235892 | [235892-fog-horror.json](./235892-fog-horror.json) |
 | Fogel and Porki Evil Arcade | 211675 | [211675-fogel-and-porki-evil-arcade.json](./211675-fogel-and-porki-evil-arcade.json) |
@@ -7645,6 +7646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friendzoned 4 | 276807 | [276807-friendzoned-4.json](./276807-friendzoned-4.json) |
 | Frieseria: The Grand Reopening | 266994 | [266994-frieseria-the-grand-reopening.json](./266994-frieseria-the-grand-reopening.json) |
 | Frigate | 250923 | [250923-frigate.json](./250923-frigate.json) |
+| Frigato: Shadows of the Caribbean | 204842 | [204842-frigato-shadows-of-the-caribbean.json](./204842-frigato-shadows-of-the-caribbean.json) |
 | Fright Animatronics | 391129 | [391129-fright-animatronics.json](./391129-fright-animatronics.json) |
 | Fright Chasers: Director's Cut | 312212 | [312212-fright-chasers-directors-cut.json](./312212-fright-chasers-directors-cut.json) |
 | Fright Chasers: Soul Reaper | 312213 | [312213-fright-chasers-soul-reaper.json](./312213-fright-chasers-soul-reaper.json) |
@@ -8853,6 +8855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futanari Sex: Naughty Massage | 203847 | [203847-futanari-sex-naughty-massage.json](./203847-futanari-sex-naughty-massage.json) |
 | Futanari Sex: Naughty Visit | 368124 | [368124-futanari-sex-naughty-visit.json](./368124-futanari-sex-naughty-visit.json) |
 | Futanari Sex: Office Whores | 368123 | [368123-futanari-sex-office-whores.json](./368123-futanari-sex-office-whores.json) |
+| Futanari Sex: The Birthday Massage | 204834 | [204834-futanari-sex-the-birthday-massage.json](./204834-futanari-sex-the-birthday-massage.json) |
 | Futanari Sex: The Fertility Doctor | 368122 | [368122-futanari-sex-the-fertility-doctor.json](./368122-futanari-sex-the-fertility-doctor.json) |
 | Futanari Sex: The Gym | 203539 | [203539-futanari-sex-the-gym.json](./203539-futanari-sex-the-gym.json) |
 | Futanari Sex: Unexpected Roomate | 222288 | [222288-futanari-sex-unexpected-roomate.json](./222288-futanari-sex-unexpected-roomate.json) |
