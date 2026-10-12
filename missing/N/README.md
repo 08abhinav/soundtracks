@@ -144,8 +144,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Classic Fighter Collection | 43282 | [43282-namco-classic-fighter-collection.json](./43282-namco-classic-fighter-collection.json) |
 | Namco classics volume 1 | 37331 | [37331-namco-classics-volume-1.json](./37331-namco-classics-volume-1.json) |
 | Namco classics volume 2 | 37328 | [37328-namco-classics-volume-2.json](./37328-namco-classics-volume-2.json) |
+| Namco Collection Vol. 1 | 220251 | [220251-namco-collection-vol-1.json](./220251-namco-collection-vol-1.json) |
+| Namco Collection Vol. 2 | 220252 | [220252-namco-collection-vol-2.json](./220252-namco-collection-vol-2.json) |
+| Namco Games Portal | 220254 | [220254-namco-games-portal.json](./220254-namco-games-portal.json) |
 | Namco History Vol. 1 | 220150 | [220150-namco-history-vol-1.json](./220150-namco-history-vol-1.json) |
 | Namco History Vol. 2 | 220151 | [220151-namco-history-vol-2.json](./220151-namco-history-vol-2.json) |
+| Namco History Vol. 3 | 220249 | [220249-namco-history-vol-3.json](./220249-namco-history-vol-3.json) |
+| Namco History Vol. 4 | 220250 | [220250-namco-history-vol-4.json](./220250-namco-history-vol-4.json) |
 | Namco Logic | 343342 | [343342-namco-logic.json](./343342-namco-logic.json) |
 | Namco Museum | 131507 | [131507-namco-museum.json](./131507-namco-museum.json) |
 | Namco Museum | 28445 | [28445-namco-museum.json](./28445-namco-museum.json) |
@@ -475,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto: Shinobi Collection Shippuranbu | 139193 | [139193-naruto-shinobi-collection-shippuranbu.json](./139193-naruto-shinobi-collection-shippuranbu.json) |
 | Naruto: Slugfest | 130874 | [130874-naruto-slugfest.json](./130874-naruto-slugfest.json) |
 | Naruto: The Broken Bond | 7102 | [7102-naruto-the-broken-bond.json](./7102-naruto-the-broken-bond.json) |
+| Naruto: Ultimate Collection | 220253 | [220253-naruto-ultimate-collection.json](./220253-naruto-ultimate-collection.json) |
 | Naruto: Ultimate Ninja 3 | 19626 | [19626-naruto-ultimate-ninja-3.json](./19626-naruto-ultimate-ninja-3.json) |
 | Naruto: Ultimate Ninja Storm | 19635 | [19635-naruto-ultimate-ninja-storm.json](./19635-naruto-ultimate-ninja-storm.json) |
 | Naruto: Ultimate Ninja Storm - Limited Edition | 44661 | [44661-naruto-ultimate-ninja-storm-limited-edition.json](./44661-naruto-ultimate-ninja-storm-limited-edition.json) |
