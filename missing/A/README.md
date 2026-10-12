@@ -6438,6 +6438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: Aesthetic Artisans Bundle | 317365 | [317365-anno-1800-aesthetic-artisans-bundle.json](./317365-anno-1800-aesthetic-artisans-bundle.json) |
 | Anno 1800: Amusements Pack | 227317 | [227317-anno-1800-amusements-pack.json](./227317-anno-1800-amusements-pack.json) |
 | Anno 1800: Bright Harvest | 151058 | [151058-anno-1800-bright-harvest.json](./151058-anno-1800-bright-harvest.json) |
+| Anno 1800: City Lights Pack | 227411 | [227411-anno-1800-city-lights-pack.json](./227411-anno-1800-city-lights-pack.json) |
 | Anno 1800: Complete Edition Year 3 | 146123 | [146123-anno-1800-complete-edition-year-3.json](./146123-anno-1800-complete-edition-year-3.json) |
 | Anno 1800: Complete Edition Year 4 | 197663 | [197663-anno-1800-complete-edition-year-4.json](./197663-anno-1800-complete-edition-year-4.json) |
 | Anno 1800: Console Edition | 231778 | [231778-anno-1800-console-edition.json](./231778-anno-1800-console-edition.json) |
@@ -6452,15 +6453,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: Gold Edition | 273340 | [273340-anno-1800-gold-edition.json](./273340-anno-1800-gold-edition.json) |
 | Anno 1800: Gold Edition Year 3 | 146136 | [146136-anno-1800-gold-edition-year-3.json](./146136-anno-1800-gold-edition-year-3.json) |
 | Anno 1800: Gold Edition Year 4 | 197662 | [197662-anno-1800-gold-edition-year-4.json](./197662-anno-1800-gold-edition-year-4.json) |
+| Anno 1800: Holiday Pack | 227395 | [227395-anno-1800-holiday-pack.json](./227395-anno-1800-holiday-pack.json) |
 | Anno 1800: Industrial Immersion Bundle | 317367 | [317367-anno-1800-industrial-immersion-bundle.json](./317367-anno-1800-industrial-immersion-bundle.json) |
 | Anno 1800: Land of Lions | 151061 | [151061-anno-1800-land-of-lions.json](./151061-anno-1800-land-of-lions.json) |
 | Anno 1800: New World Rising | 197351 | [197351-anno-1800-new-world-rising.json](./197351-anno-1800-new-world-rising.json) |
 | Anno 1800: Old Town Pack | 227938 | [227938-anno-1800-old-town-pack.json](./227938-anno-1800-old-town-pack.json) |
 | Anno 1800: Pirate Cove Pack | 317336 | [317336-anno-1800-pirate-cove-pack.json](./317336-anno-1800-pirate-cove-pack.json) |
+| Anno 1800: Seasonal Decorations Pack | 227405 | [227405-anno-1800-seasonal-decorations-pack.json](./227405-anno-1800-seasonal-decorations-pack.json) |
 | Anno 1800: Seeds of Change | 197349 | [197349-anno-1800-seeds-of-change.json](./197349-anno-1800-seeds-of-change.json) |
 | Anno 1800: The High Life | 165588 | [165588-anno-1800-the-high-life.json](./165588-anno-1800-the-high-life.json) |
 | Anno 1800: The Passage | 121765 | [121765-anno-1800-the-passage.json](./121765-anno-1800-the-passage.json) |
 | Anno 1800: Tourist Season | 151204 | [151204-anno-1800-tourist-season.json](./151204-anno-1800-tourist-season.json) |
+| Anno 1800: Vehicle Liveries Pack | 227418 | [227418-anno-1800-vehicle-liveries-pack.json](./227418-anno-1800-vehicle-liveries-pack.json) |
 | Anno 2070: Bonus Edition | 180261 | [180261-anno-2070-bonus-edition.json](./180261-anno-2070-bonus-edition.json) |
 | Anno 2070: Deep Ocean | 8228 | [8228-anno-2070-deep-ocean.json](./8228-anno-2070-deep-ocean.json) |
 | Anno 2070: Royal Edition | 180263 | [180263-anno-2070-royal-edition.json](./180263-anno-2070-royal-edition.json) |
