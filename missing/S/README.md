@@ -5713,6 +5713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shivering Stone | 274484 | [274484-shivering-stone.json](./274484-shivering-stone.json) |
 | Shivers | 12477 | [12477-shivers.json](./12477-shivers.json) |
 | Shiya | 178600 | [178600-shiya.json](./178600-shiya.json) |
+| Shizoku: Shuriken Brawl | 179422 | [179422-shizoku-shuriken-brawl.json](./179422-shizoku-shuriken-brawl.json) |
 | Shizue: Innocent Curse | 117086 | [117086-shizue-innocent-curse.json](./117086-shizue-innocent-curse.json) |
 | Shizuku: Japanese myth | 219610 | [219610-shizuku-japanese-myth.json](./219610-shizuku-japanese-myth.json) |
 | Shizumeru Rakuen | 263138 | [263138-shizumeru-rakuen.json](./263138-shizumeru-rakuen.json) |
@@ -5761,6 +5762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shodot | 244267 | [244267-shodot.json](./244267-shodot.json) |
 | Shoe Doodle | 108267 | [108267-shoe-doodle.json](./108267-shoe-doodle.json) |
 | Shoe Salesman Mania | 378280 | [378280-shoe-salesman-mania.json](./378280-shoe-salesman-mania.json) |
+| Shoe Snake Reloaded | 179429 | [179429-shoe-snake-reloaded.json](./179429-shoe-snake-reloaded.json) |
 | Shoebill | 151119 | [151119-shoebill.json](./151119-shoebill.json) |
 | Shoemaker | 110772 | [110772-shoemaker.json](./110772-shoemaker.json) |
 | Shoestrings Story | 345090 | [345090-shoestrings-story.json](./345090-shoestrings-story.json) |
@@ -8409,6 +8411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaughterfest 2012 | 140891 | [140891-slaughterfest-2012.json](./140891-slaughterfest-2012.json) |
 | Slaughterfest 3 | 140892 | [140892-slaughterfest-3.json](./140892-slaughterfest-3.json) |
 | Slaughterhouse | 149596 | [149596-slaughterhouse.json](./149596-slaughterhouse.json) |
+| Slaughtertrain | 179457 | [179457-slaughtertrain.json](./179457-slaughtertrain.json) |
 | Slaughtra | 344408 | [344408-slaughtra.json](./344408-slaughtra.json) |
 | Slav Tiles | 198505 | [198505-slav-tiles.json](./198505-slav-tiles.json) |
 | Slava Ukraini! | 201582 | [201582-slava-ukraini.json](./201582-slava-ukraini.json) |
@@ -17178,6 +17181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stem | 24944 | [24944-stem.json](./24944-stem.json) |
 | Stencil Art | 147621 | [147621-stencil-art.json](./147621-stencil-art.json) |
 | Steno Arcade | 33369 | [33369-steno-arcade.json](./33369-steno-arcade.json) |
+| Step | 179436 | [179436-step.json](./179436-step.json) |
 | Step | 360115 | [360115-step.json](./360115-step.json) |
 | Step 'N Smush | 404791 | [404791-step-n-smush.json](./404791-step-n-smush.json) |
 | Step Away | 369037 | [369037-step-away.json](./369037-step-away.json) |
@@ -17290,6 +17294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Knight Takes Over the Universe | 138657 | [138657-stick-knight-takes-over-the-universe.json](./138657-stick-knight-takes-over-the-universe.json) |
 | Stick man Flipper | 112742 | [112742-stick-man-flipper.json](./112742-stick-man-flipper.json) |
 | Stick Man Rescue | 44501 | [44501-stick-man-rescue.json](./44501-stick-man-rescue.json) |
+| Stick Match 2 | 179439 | [179439-stick-match-2.json](./179439-stick-match-2.json) |
 | Stick Mountain | 412503 | [412503-stick-mountain.json](./412503-stick-mountain.json) |
 | Stick N' Sheep | 403072 | [403072-stick-n-sheep.json](./403072-stick-n-sheep.json) |
 | Stick Nightmare | 41971 | [41971-stick-nightmare.json](./41971-stick-nightmare.json) |
@@ -23153,6 +23158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordthrust 5: The Green Plague | 24793 | [24793-swordthrust-5-the-green-plague.json](./24793-swordthrust-5-the-green-plague.json) |
 | Swordthrust 6: The Eternal Curse | 24794 | [24794-swordthrust-6-the-eternal-curse.json](./24794-swordthrust-6-the-eternal-curse.json) |
 | Swordthrust 7: The Hall of Alchemie | 24795 | [24795-swordthrust-7-the-hall-of-alchemie.json](./24795-swordthrust-7-the-hall-of-alchemie.json) |
+| SwordVania | 179424 | [179424-swordvania.json](./179424-swordvania.json) |
 | SworLd | 192808 | [192808-sworld.json](./192808-sworld.json) |
 | SWR JST DX Selective Memory Erase Effect | 35564 | [35564-swr-jst-dx-selective-memory-erase-effect.json](./35564-swr-jst-dx-selective-memory-erase-effect.json) |
 | Swung | 134577 | [134577-swung.json](./134577-swung.json) |
