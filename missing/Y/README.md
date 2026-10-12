@@ -94,7 +94,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza Series Starter Pack | 311045 | [311045-yakuza-series-starter-pack.json](./311045-yakuza-series-starter-pack.json) |
 | Yakuza Shadows of New York | 322399 | [322399-yakuza-shadows-of-new-york.json](./322399-yakuza-shadows-of-new-york.json) |
 | Yakuza: Dead Souls | 7489 | [7489-yakuza-dead-souls.json](./7489-yakuza-dead-souls.json) |
-| Yakuza: Like a Dragon | 36550 | [36550-yakuza-like-a-dragon.json](./36550-yakuza-like-a-dragon.json) |
 | Yakuza: Like a Dragon - Day One Edition | 136196 | [136196-yakuza-like-a-dragon-day-one-edition.json](./136196-yakuza-like-a-dragon-day-one-edition.json) |
 | Yakuza: Like a Dragon - Job Set | 156200 | [156200-yakuza-like-a-dragon-job-set.json](./156200-yakuza-like-a-dragon-job-set.json) |
 | Yakuza: Like a Dragon - Karaoke Set | 259523 | [259523-yakuza-like-a-dragon-karaoke-set.json](./259523-yakuza-like-a-dragon-karaoke-set.json) |
