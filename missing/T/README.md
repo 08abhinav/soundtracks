@@ -7781,6 +7781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Rocket | 64645 | [64645-the-last-rocket.json](./64645-the-last-rocket.json) |
 | The Last Rolling Hero | 80939 | [80939-the-last-rolling-hero.json](./80939-the-last-rolling-hero.json) |
 | The Last Roman Village | 113837 | [113837-the-last-roman-village.json](./113837-the-last-roman-village.json) |
+| The Last Roman Village 2 | 211988 | [211988-the-last-roman-village-2.json](./211988-the-last-roman-village-2.json) |
 | The Last Rose | 287739 | [287739-the-last-rose.json](./287739-the-last-rose.json) |
 | The Last Run: Dead Zombie Shooter | 209142 | [209142-the-last-run-dead-zombie-shooter.json](./209142-the-last-run-dead-zombie-shooter.json) |
 | The Last Running Hero | 188011 | [188011-the-last-running-hero.json](./188011-the-last-running-hero.json) |
@@ -8551,6 +8552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Vikings | 214736 | [214736-the-lost-vikings.json](./214736-the-lost-vikings.json) |
 | The Lost Vikings | 214769 | [214769-the-lost-vikings.json](./214769-the-lost-vikings.json) |
 | The Lost Vikings | 454 | [454-the-lost-vikings.json](./454-the-lost-vikings.json) |
+| The Lost Village | 211916 | [211916-the-lost-village.json](./211916-the-lost-village.json) |
 | The Lost Village: Fantasy | 289987 | [289987-the-lost-village-fantasy.json](./289987-the-lost-village-fantasy.json) |
 | The Lost Village: JiangHu | 298625 | [298625-the-lost-village-jianghu.json](./298625-the-lost-village-jianghu.json) |
 | The Lost Village: Monster Sect | 358474 | [358474-the-lost-village-monster-sect.json](./358474-the-lost-village-monster-sect.json) |
@@ -9962,6 +9964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Revenge of Mr.Samuel | 199381 | [199381-the-revenge-of-mr-samuel.json](./199381-the-revenge-of-mr-samuel.json) |
 | The Revenge of Shinobi | 10222 | [10222-the-revenge-of-shinobi.json](./10222-the-revenge-of-shinobi.json) |
 | The Revenge of Tungsten | 260329 | [260329-the-revenge-of-tungsten.json](./260329-the-revenge-of-tungsten.json) |
+| The Revival | 211987 | [211987-the-revival.json](./211987-the-revival.json) |
 | The Revived Throne | 249249 | [249249-the-revived-throne.json](./249249-the-revived-throne.json) |
 | The Revolt: Massing | 193884 | [193884-the-revolt-massing.json](./193884-the-revolt-massing.json) |
 | The Reward of Cherishment and Eternity. | 329199 | [329199-the-reward-of-cherishment-and-eternity.json](./329199-the-reward-of-cherishment-and-eternity.json) |
@@ -16745,6 +16748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Normal Journey: The Interactive Musical | 157021 | [157021-totally-normal-journey-the-interactive-musical.json](./157021-totally-normal-journey-the-interactive-musical.json) |
 | Totally Not Sumo | 306043 | [306043-totally-not-sumo.json](./306043-totally-not-sumo.json) |
 | Totally Rad Metal Detector League | 220714 | [220714-totally-rad-metal-detector-league.json](./220714-totally-rad-metal-detector-league.json) |
+| Totally Ratical Adventures | 211913 | [211913-totally-ratical-adventures.json](./211913-totally-ratical-adventures.json) |
 | Totally Realistic Unicorn Buffalo Simulator | 142463 | [142463-totally-realistic-unicorn-buffalo-simulator.json](./142463-totally-realistic-unicorn-buffalo-simulator.json) |
 | Totally Reliable Adventure Party | 160243 | [160243-totally-reliable-adventure-party.json](./160243-totally-reliable-adventure-party.json) |
 | Totally Reliable Delivery Service: Atari Attire | 381600 | [381600-totally-reliable-delivery-service-atari-attire.json](./381600-totally-reliable-delivery-service-atari-attire.json) |
@@ -17859,6 +17863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Life: A Railway Simulator - 1920's Orient-Express Train | 219541 | [219541-train-life-a-railway-simulator-1920s-orient-express-train.json](./219541-train-life-a-railway-simulator-1920s-orient-express-train.json) |
 | Train Life: A Railway Simulator - The Orient-Express Edition | 214141 | [214141-train-life-a-railway-simulator-the-orient-express-edition.json](./214141-train-life-a-railway-simulator-the-orient-express-edition.json) |
 | Train Mechanic Simulator 2017 | 27940 | [27940-train-mechanic-simulator-2017.json](./27940-train-mechanic-simulator-2017.json) |
+| Train Mechanic Simulator 2025 | 211983 | [211983-train-mechanic-simulator-2025.json](./211983-train-mechanic-simulator-2025.json) |
 | Train Merger | 108472 | [108472-train-merger.json](./108472-train-merger.json) |
 | Train Metropolis | 333085 | [333085-train-metropolis.json](./333085-train-metropolis.json) |
 | Train Miner | 344443 | [344443-train-miner.json](./344443-train-miner.json) |
@@ -18265,6 +18270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: UK Military Wagon Pack | 162338 | [162338-train-simulator-uk-military-wagon-pack.json](./162338-train-simulator-uk-military-wagon-pack.json) |
 | Train Simulator: Union Pacific Heavy Challenger Steam Loco | 212227 | [212227-train-simulator-union-pacific-heavy-challenger-steam-loco.json](./212227-train-simulator-union-pacific-heavy-challenger-steam-loco.json) |
 | Train Simulator: WCML South: London Euston - Birmingham Route Add-On | 156474 | [156474-train-simulator-wcml-south-london-euston-birmingham-route-add-on.json](./156474-train-simulator-wcml-south-london-euston-birmingham-route-add-on.json) |
+| Train Simulator: Western Pacific GP20 High Nose Loco | 211898 | [211898-train-simulator-western-pacific-gp20-high-nose-loco.json](./211898-train-simulator-western-pacific-gp20-high-nose-loco.json) |
 | Train Station Project | 334234 | [334234-train-station-project.json](./334234-train-station-project.json) |
 | Train Station Renovation | 108347 | [108347-train-station-renovation.json](./108347-train-station-renovation.json) |
 | Train Station Renovation: Germany | 195217 | [195217-train-station-renovation-germany.json](./195217-train-station-renovation-germany.json) |
@@ -20764,6 +20770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tweenies Doodles' Bones | 50058 | [50058-tweenies-doodles-bones.json](./50058-tweenies-doodles-bones.json) |
 | Tweet Star | 108518 | [108518-tweet-star.json](./108518-tweet-star.json) |
 | Tweety & The Magic Gems | 49346 | [49346-tweety-and-the-magic-gems.json](./49346-tweety-and-the-magic-gems.json) |
+| Twelfth Life | 211989 | [211989-twelfth-life.json](./211989-twelfth-life.json) |
 | Twell | 241379 | [241379-twell.json](./241379-twell.json) |
 | Twelve a Dozen | 23428 | [23428-twelve-a-dozen.json](./23428-twelve-a-dozen.json) |
 | Twelve Mental Patients | 359362 | [359362-twelve-mental-patients.json](./359362-twelve-mental-patients.json) |
@@ -21225,6 +21232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyrium | 244701 | [244701-tyrium.json](./244701-tyrium.json) |
 | Tyrofeud | 335239 | [335239-tyrofeud.json](./335239-tyrofeud.json) |
 | Tyrone Soulz | 264535 | [264535-tyrone-soulz.json](./264535-tyrone-soulz.json) |
+| Tyrone vs Cops VR | 211909 | [211909-tyrone-vs-cops-vr.json](./211909-tyrone-vs-cops-vr.json) |
 | Tyroom vs. Typing Gunner | 188499 | [188499-tyroom-vs-typing-gunner.json](./188499-tyroom-vs-typing-gunner.json) |
 | Tyto | 398472 | [398472-tyto.json](./398472-tyto.json) |
 | Tyto Ecology | 33243 | [33243-tyto-ecology.json](./33243-tyto-ecology.json) |
