@@ -1951,9 +1951,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinder: Kingmaker - Enhanced Plus Edition | 154530 | [154530-pathfinder-kingmaker-enhanced-plus-edition.json](./154530-pathfinder-kingmaker-enhanced-plus-edition.json) |
 | Pathfinder: Kingmaker - Royal Ascension | 134569 | [134569-pathfinder-kingmaker-royal-ascension.json](./134569-pathfinder-kingmaker-royal-ascension.json) |
 | Pathfinder: Kingmaker - Varnhold's Lot | 115540 | [115540-pathfinder-kingmaker-varnholds-lot.json](./115540-pathfinder-kingmaker-varnholds-lot.json) |
+| Pathfinder: Wrath of the Righteous - A Visitor from Distant Lands | 193129 | [193129-pathfinder-wrath-of-the-righteous-a-visitor-from-distant-lands.json](./193129-pathfinder-wrath-of-the-righteous-a-visitor-from-distant-lands.json) |
+| Pathfinder: Wrath of the Righteous - Faces of War | 193128 | [193128-pathfinder-wrath-of-the-righteous-faces-of-war.json](./193128-pathfinder-wrath-of-the-righteous-faces-of-war.json) |
 | Pathfinder: Wrath of the Righteous - Game of the Year Edition | 331855 | [331855-pathfinder-wrath-of-the-righteous-game-of-the-year-edition.json](./331855-pathfinder-wrath-of-the-righteous-game-of-the-year-edition.json) |
 | Pathfinder: Wrath of the Righteous - Limited Edition | 206675 | [206675-pathfinder-wrath-of-the-righteous-limited-edition.json](./206675-pathfinder-wrath-of-the-righteous-limited-edition.json) |
 | Pathfinder: Wrath of the Righteous - Love Beyond Death | 186869 | [186869-pathfinder-wrath-of-the-righteous-love-beyond-death.json](./186869-pathfinder-wrath-of-the-righteous-love-beyond-death.json) |
+| Pathfinder: Wrath of the Righteous - Paint of War | 193127 | [193127-pathfinder-wrath-of-the-righteous-paint-of-war.json](./193127-pathfinder-wrath-of-the-righteous-paint-of-war.json) |
 | Pathfinder: Wrath of the Righteous - The Lord of Nothing | 269217 | [269217-pathfinder-wrath-of-the-righteous-the-lord-of-nothing.json](./269217-pathfinder-wrath-of-the-righteous-the-lord-of-nothing.json) |
 | Pathfinder: Wrath of the Righteous - The Treasure of the Midnight Isles | 215691 | [215691-pathfinder-wrath-of-the-righteous-the-treasure-of-the-midnight-isles.json](./215691-pathfinder-wrath-of-the-righteous-the-treasure-of-the-midnight-isles.json) |
 | Pathfinder: Wrath of the Righteous - Through the Ashes | 198351 | [198351-pathfinder-wrath-of-the-righteous-through-the-ashes.json](./198351-pathfinder-wrath-of-the-righteous-through-the-ashes.json) |
@@ -6864,6 +6867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon AlteRed | 210072 | [210072-pokemon-altered.json](./210072-pokemon-altered.json) |
 | Pokémon Amethyst | 323762 | [323762-pokemon-amethyst.json](./323762-pokemon-amethyst.json) |
 | Pokémon and the Last Wish | 153510 | [153510-pokemon-and-the-last-wish.json](./153510-pokemon-and-the-last-wish.json) |
+| Pokémon and the Last Wish Part II | 193163 | [193163-pokemon-and-the-last-wish-part-ii.json](./193163-pokemon-and-the-last-wish-part-ii.json) |
 | Pokémon Anniversary Crystal | 313100 | [313100-pokemon-anniversary-crystal.json](./313100-pokemon-anniversary-crystal.json) |
 | Pokemon Aquamarine | 325718 | [325718-pokemon-aquamarine.json](./325718-pokemon-aquamarine.json) |
 | Pokémon Art Academy | 7410 | [7410-pokemon-art-academy.json](./7410-pokemon-art-academy.json) |
@@ -9420,6 +9424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Architect: Mobile | 174886 | [174886-prison-architect-mobile.json](./174886-prison-architect-mobile.json) |
 | Prison Architect: Nintendo Switch Edition | 222532 | [222532-prison-architect-nintendo-switch-edition.json](./222532-prison-architect-nintendo-switch-edition.json) |
 | Prison Architect: Nintendo Switch Edition - Bundle | 222502 | [222502-prison-architect-nintendo-switch-edition-bundle.json](./222502-prison-architect-nintendo-switch-edition-bundle.json) |
+| Prison Architect: Perfect Storm | 193162 | [193162-prison-architect-perfect-storm.json](./193162-prison-architect-perfect-storm.json) |
 | Prison Architect: PlayStation 4 Edition | 99758 | [99758-prison-architect-playstation-4-edition.json](./99758-prison-architect-playstation-4-edition.json) |
 | Prison Architect: Psych Ward - Warden's Edition | 148526 | [148526-prison-architect-psych-ward-wardens-edition.json](./148526-prison-architect-psych-ward-wardens-edition.json) |
 | Prison Architect: Second Chances | 148519 | [148519-prison-architect-second-chances.json](./148519-prison-architect-second-chances.json) |
