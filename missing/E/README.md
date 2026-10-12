@@ -735,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden Eternal | 46995 | [46995-eden-eternal.json](./46995-eden-eternal.json) |
 | Eden Gamma | 235793 | [235793-eden-gamma.json](./235793-eden-gamma.json) |
 | Eden Genesis | 280561 | [280561-eden-genesis.json](./280561-eden-genesis.json) |
+| Eden Island | 202548 | [202548-eden-island.json](./202548-eden-island.json) |
 | Eden Isle: Resort Paradise | 261841 | [261841-eden-isle-resort-paradise.json](./261841-eden-isle-resort-paradise.json) |
 | Eden of Ikemen: Love in a Lost World | 206034 | [206034-eden-of-ikemen-love-in-a-lost-world.json](./206034-eden-of-ikemen-love-in-a-lost-world.json) |
 | Eden Remains: Arrival | 203944 | [203944-eden-remains-arrival.json](./203944-eden-remains-arrival.json) |
@@ -2081,6 +2082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empires: Dawn of the Modern World | 678 | [678-empires-dawn-of-the-modern-world.json](./678-empires-dawn-of-the-modern-world.json) |
 | Empis | 215869 | [215869-empis.json](./215869-empis.json) |
 | Employee A | 188994 | [188994-employee-a.json](./188994-employee-a.json) |
+| Employee of the Month | 202550 | [202550-employee-of-the-month.json](./202550-employee-of-the-month.json) |
 | Employee Recycling Center | 36463 | [36463-employee-recycling-center.json](./36463-employee-recycling-center.json) |
 | Employee Rules of the Night Strings | 309361 | [309361-employee-rules-of-the-night-strings.json](./309361-employee-rules-of-the-night-strings.json) |
 | Emporea | 34091 | [34091-emporea.json](./34091-emporea.json) |
@@ -4966,6 +4968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expest | 265611 | [265611-expest.json](./265611-expest.json) |
 | Exphysia | 292218 | [292218-exphysia.json](./292218-exphysia.json) |
 | Expiare | 388920 | [388920-expiare.json](./388920-expiare.json) |
+| Expiate | 202574 | [202574-expiate.json](./202574-expiate.json) |
 | Expiration | 171572 | [171572-expiration.json](./171572-expiration.json) |
 | Explo Bee | 233745 | [233745-explo-bee.json](./233745-explo-bee.json) |
 | Exploaris: Vermis story | 167837 | [167837-exploaris-vermis-story.json](./167837-exploaris-vermis-story.json) |
