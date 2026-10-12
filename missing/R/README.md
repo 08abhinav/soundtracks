@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raddle | 345510 | [345510-raddle.json](./345510-raddle.json) |
 | Radia Senki: Reimeihen | 48686 | [48686-radia-senki-reimeihen.json](./48686-radia-senki-reimeihen.json) |
 | Radial Ascension | 273553 | [273553-radial-ascension.json](./273553-radial-ascension.json) |
+| Radial Flow | 208663 | [208663-radial-flow.json](./208663-radial-flow.json) |
 | Radial Fusion | 357306 | [357306-radial-fusion.json](./357306-radial-fusion.json) |
 | Radial Impact | 34819 | [34819-radial-impact.json](./34819-radial-impact.json) |
 | Radial-G: Proteus | 130820 | [130820-radial-g-proteus.json](./130820-radial-g-proteus.json) |
@@ -7010,6 +7011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roots | 249440 | [249440-roots.json](./249440-roots.json) |
 | Roots And Sprouts | 401539 | [401539-roots-and-sprouts.json](./401539-roots-and-sprouts.json) |
 | Roots Devour | 331443 | [331443-roots-devour.json](./331443-roots-devour.json) |
+| Roots in the Sky: The Hand of Glory 2 | 208675 | [208675-roots-in-the-sky-the-hand-of-glory-2.json](./208675-roots-in-the-sky-the-hand-of-glory-2.json) |
 | Roots Need Control 3.0 | 243121 | [243121-roots-need-control-3-0.json](./243121-roots-need-control-3-0.json) |
 | Roots of Cinder | 270081 | [270081-roots-of-cinder.json](./270081-roots-of-cinder.json) |
 | Roots of Fury | 290529 | [290529-roots-of-fury.json](./290529-roots-of-fury.json) |
