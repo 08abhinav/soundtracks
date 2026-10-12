@@ -3427,6 +3427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Path | 201580 | [201580-line-path.json](./201580-line-path.json) |
 | Line Physics: Draw Lines to Solve Puzzles | 105777 | [105777-line-physics-draw-lines-to-solve-puzzles.json](./105777-line-physics-draw-lines-to-solve-puzzles.json) |
 | Line Physics: Drawing Puzzle | 106976 | [106976-line-physics-drawing-puzzle.json](./106976-line-physics-drawing-puzzle.json) |
+| Line Play | 202587 | [202587-line-play.json](./202587-line-play.json) |
 | Line Points: Challenge your coordination | 232055 | [232055-line-points-challenge-your-coordination.json](./232055-line-points-challenge-your-coordination.json) |
 | Line Rider | 28810 | [28810-line-rider.json](./28810-line-rider.json) |
 | Line Rider: Freestyle | 54163 | [54163-line-rider-freestyle.json](./54163-line-rider-freestyle.json) |
@@ -4977,6 +4978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Time | 23050 | [23050-lords-of-time.json](./23050-lords-of-time.json) |
 | Lords of Uberdark | 65774 | [65774-lords-of-uberdark.json](./65774-lords-of-uberdark.json) |
 | Lordship | 350047 | [350047-lordship.json](./350047-lordship.json) |
+| Lore Distance Relationship | 202605 | [202605-lore-distance-relationship.json](./202605-lore-distance-relationship.json) |
 | Lore Finder | 112762 | [112762-lore-finder.json](./112762-lore-finder.json) |
 | Lore Masters: Pathfinder | 330382 | [330382-lore-masters-pathfinder.json](./330382-lore-masters-pathfinder.json) |
 | Lore of Luvarith: The Hollow Crown | 384079 | [384079-lore-of-luvarith-the-hollow-crown.json](./384079-lore-of-luvarith-the-hollow-crown.json) |
