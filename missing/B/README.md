@@ -4264,6 +4264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best of PlayStation Network Vol. 1 | 21605 | [21605-best-of-playstation-network-vol-1.json](./21605-best-of-playstation-network-vol-1.json) |
 | Best of Poker | 23803 | [23803-best-of-poker.json](./23803-best-of-poker.json) |
 | Best of Sierra Nr. 7 | 133972 | [133972-best-of-sierra-nr-7.json](./133972-best-of-sierra-nr-7.json) |
+| Best of Solitaire | 185984 | [185984-best-of-solitaire.json](./185984-best-of-solitaire.json) |
 | Best of Solitaire | 85508 | [85508-best-of-solitaire.json](./85508-best-of-solitaire.json) |
 | Best of Tests DS | 47930 | [47930-best-of-tests-ds.json](./47930-best-of-tests-ds.json) |
 | Best of the Best: Championship Karate | 7783 | [7783-best-of-the-best-championship-karate.json](./7783-best-of-the-best-championship-karate.json) |
