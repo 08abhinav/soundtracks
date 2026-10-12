@@ -1544,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Man Army | 402565 | [402565-one-man-army.json](./402565-one-man-army.json) |
 | One Man Army | 65462 | [65462-one-man-army.json](./65462-one-man-army.json) |
 | One Man Army VR | 89397 | [89397-one-man-army-vr.json](./89397-one-man-army-vr.json) |
+| One Man Football | 182175 | [182175-one-man-football.json](./182175-one-man-football.json) |
 | One Man's Shit: An Interactive Trash Adventure | 128638 | [128638-one-mans-shit-an-interactive-trash-adventure.json](./128638-one-mans-shit-an-interactive-trash-adventure.json) |
 | One Man's Trash | 343353 | [343353-one-mans-trash.json](./343353-one-mans-trash.json) |
 | One Man's War | 226716 | [226716-one-mans-war.json](./226716-one-mans-war.json) |
@@ -1719,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Putt Wonder | 181709 | [181709-one-putt-wonder.json](./181709-one-putt-wonder.json) |
 | One Py Berry Match | 97317 | [97317-one-py-berry-match.json](./97317-one-py-berry-match.json) |
 | One Question and You'll Want to Share It! 1000 Trivia Quiz Questions | 409554 | [409554-one-question-and-youll-want-to-share-it-1000-trivia-quiz-questions.json](./409554-one-question-and-youll-want-to-share-it-1000-trivia-quiz-questions.json) |
+| One Room Dungeon | 182164 | [182164-one-room-dungeon.json](./182164-one-room-dungeon.json) |
 | One Room Dungeon | 319069 | [319069-one-room-dungeon.json](./319069-one-room-dungeon.json) |
 | One Room Hotel | 178654 | [178654-one-room-hotel.json](./178654-one-room-hotel.json) |
 | One Room: Prisoner's Dilemma | 304353 | [304353-one-room-prisoners-dilemma.json](./304353-one-room-prisoners-dilemma.json) |
@@ -2102,6 +2104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oops! All Gyarus! | 294991 | [294991-oops-all-gyarus.json](./294991-oops-all-gyarus.json) |
 | Oops! All Techbase | 259493 | [259493-oops-all-techbase.json](./259493-oops-all-techbase.json) |
 | Oops! Inc. Emergency Center | 395044 | [395044-oops-inc-emergency-center.json](./395044-oops-inc-emergency-center.json) |
+| Oops! No Brakes | 181618 | [181618-oops-no-brakes.json](./181618-oops-no-brakes.json) |
 | Oops! Simulator | 390757 | [390757-oops-simulator.json](./390757-oops-simulator.json) |
 | Oops! You're the Hero! | 412427 | [412427-oops-youre-the-hero.json](./412427-oops-youre-the-hero.json) |
 | Oops! Zombie Swarm | 298658 | [298658-oops-zombie-swarm.json](./298658-oops-zombie-swarm.json) |
@@ -2868,6 +2871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ostalgie: The Berlin Wall - Legacy of Hoxha | 172165 | [172165-ostalgie-the-berlin-wall-legacy-of-hoxha.json](./172165-ostalgie-the-berlin-wall-legacy-of-hoxha.json) |
 | Ostallian Core | 294298 | [294298-ostallian-core.json](./294298-ostallian-core.json) |
 | Ostekrigen på Mælkevejen | 91455 | [91455-ostekrigen-pa-m-lkevejen.json](./91455-ostekrigen-pa-m-lkevejen.json) |
+| Osteotic Bypass | 181623 | [181623-osteotic-bypass.json](./181623-osteotic-bypass.json) |
 | Ostera: The curse of... | 295145 | [295145-ostera-the-curse-of.json](./295145-ostera-the-curse-of.json) |
 | Osterballerei | 92972 | [92972-osterballerei.json](./92972-osterballerei.json) |
 | Osterity | 308276 | [308276-osterity.json](./308276-osterity.json) |
