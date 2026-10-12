@@ -876,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangman | 327217 | [327217-hangman.json](./327217-hangman.json) |
 | Hangman | 329790 | [329790-hangman.json](./329790-hangman.json) |
 | Hangman | 377831 | [377831-hangman.json](./377831-hangman.json) |
+| Hangman 2 | 181652 | [181652-hangman-2.json](./181652-hangman-2.json) |
 | Hangman for Windows | 83452 | [83452-hangman-for-windows.json](./83452-hangman-for-windows.json) |
 | Hangman Hijinks | 366435 | [366435-hangman-hijinks.json](./366435-hangman-hijinks.json) |
 | Hangman II | 248920 | [248920-hangman-ii.json](./248920-hangman-ii.json) |
@@ -1679,6 +1680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Hotel: Charles Dexter Ward | 139199 | [139199-haunted-hotel-charles-dexter-ward.json](./139199-haunted-hotel-charles-dexter-ward.json) |
 | Haunted Hotel: Charles Dexter Ward - Collector's Edition | 102188 | [102188-haunted-hotel-charles-dexter-ward-collectors-edition.json](./102188-haunted-hotel-charles-dexter-ward-collectors-edition.json) |
 | Haunted Hotel: Death Sentence | 182387 | [182387-haunted-hotel-death-sentence.json](./182387-haunted-hotel-death-sentence.json) |
+| Haunted Hotel: Death Sentence - Collector's Edition | 182177 | [182177-haunted-hotel-death-sentence-collectors-edition.json](./182177-haunted-hotel-death-sentence-collectors-edition.json) |
 | Haunted Hotel: Death Sentence & Eternity | 201825 | [201825-haunted-hotel-death-sentence-and-eternity.json](./201825-haunted-hotel-death-sentence-and-eternity.json) |
 | Haunted Hotel: Eclipse | 139200 | [139200-haunted-hotel-eclipse.json](./139200-haunted-hotel-eclipse.json) |
 | Haunted Hotel: Eclipse - Collector's Edition | 114345 | [114345-haunted-hotel-eclipse-collectors-edition.json](./114345-haunted-hotel-eclipse-collectors-edition.json) |
@@ -3936,6 +3938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of War | 227471 | [227471-heroes-of-war.json](./227471-heroes-of-war.json) |
 | Heroes of War | 286215 | [286215-heroes-of-war.json](./286215-heroes-of-war.json) |
 | Heroes of Warland | 112141 | [112141-heroes-of-warland.json](./112141-heroes-of-warland.json) |
+| Heroes of Xanfurth | 182182 | [182182-heroes-of-xanfurth.json](./182182-heroes-of-xanfurth.json) |
 | Heroes of Zaruban | 159652 | [159652-heroes-of-zaruban.json](./159652-heroes-of-zaruban.json) |
 | Heroes of Zulula | 63381 | [63381-heroes-of-zulula.json](./63381-heroes-of-zulula.json) |
 | Heroes Origins | 266205 | [266205-heroes-origins.json](./266205-heroes-origins.json) |
@@ -5866,6 +5869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Store Simulator | 407486 | [407486-home-store-simulator.json](./407486-home-store-simulator.json) |
 | Home Story: 1971 | 101747 | [101747-home-story-1971.json](./101747-home-story-1971.json) |
 | Home Street: Dream House Sim | 90555 | [90555-home-street-dream-house-sim.json](./90555-home-street-dream-house-sim.json) |
+| Home Sweet Home | 181631 | [181631-home-sweet-home.json](./181631-home-sweet-home.json) |
 | Home Sweet Home | 346116 | [346116-home-sweet-home.json](./346116-home-sweet-home.json) |
 | Home Sweet Home | 346758 | [346758-home-sweet-home.json](./346758-home-sweet-home.json) |
 | Home Sweet Home: Online | 249814 | [249814-home-sweet-home-online.json](./249814-home-sweet-home-online.json) |
@@ -8196,6 +8200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypogean Descent | 266791 | [266791-hypogean-descent.json](./266791-hypogean-descent.json) |
 | Hyposphere | 33020 | [33020-hyposphere.json](./33020-hyposphere.json) |
 | Hyposphere 2 | 187918 | [187918-hyposphere-2.json](./187918-hyposphere-2.json) |
+| Hyposphere 3: Overdrive | 181655 | [181655-hyposphere-3-overdrive.json](./181655-hyposphere-3-overdrive.json) |
 | Hyposphere Z | 158632 | [158632-hyposphere-z.json](./158632-hyposphere-z.json) |
 | Hypothermia | 108900 | [108900-hypothermia.json](./108900-hypothermia.json) |
 | Hypotheses on the Symmetry between Vision and Hands | 294157 | [294157-hypotheses-on-the-symmetry-between-vision-and-hands.json](./294157-hypotheses-on-the-symmetry-between-vision-and-hands.json) |
