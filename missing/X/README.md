@@ -223,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 11: MSK Productions - Sharjah Intl Airport | 162764 | [162764-x-plane-11-msk-productions-sharjah-intl-airport.json](./162764-x-plane-11-msk-productions-sharjah-intl-airport.json) |
 | X-Plane 11: Pilot's - LEAM: Almeria Airport | 162802 | [162802-x-plane-11-pilots-leam-almeria-airport.json](./162802-x-plane-11-pilots-leam-almeria-airport.json) |
 | X-Plane 11: SAM Airport Vehicles | 162779 | [162779-x-plane-11-sam-airport-vehicles.json](./162779-x-plane-11-sam-airport-vehicles.json) |
+| X-Plane 11: Skyline Simulations - KAST: Astoria Regional Airport | 204219 | [204219-x-plane-11-skyline-simulations-kast-astoria-regional-airport.json](./204219-x-plane-11-skyline-simulations-kast-astoria-regional-airport.json) |
 | X-Plane 11: Skyline Simulations - KLGB: Long Beach Airport XP | 162813 | [162813-x-plane-11-skyline-simulations-klgb-long-beach-airport-xp.json](./162813-x-plane-11-skyline-simulations-klgb-long-beach-airport-xp.json) |
 | X-Plane 11: Skyline Simulations - LGSM: Samos Airport | 162757 | [162757-x-plane-11-skyline-simulations-lgsm-samos-airport.json](./162757-x-plane-11-skyline-simulations-lgsm-samos-airport.json) |
 | X-Plane 11: Skyline Simulations - LIAA: Terni Alvaro Leonardi Airport | 162791 | [162791-x-plane-11-skyline-simulations-liaa-terni-alvaro-leonardi-airport.json](./162791-x-plane-11-skyline-simulations-liaa-terni-alvaro-leonardi-airport.json) |
