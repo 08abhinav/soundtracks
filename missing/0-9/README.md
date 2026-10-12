@@ -1745,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6 Ways To 7 | 377404 | [377404-6-ways-to-7.json](./377404-6-ways-to-7.json) |
 | 6-7 | 386391 | [386391-6-7.json](./386391-6-7.json) |
 | 6-gatsu no Kimi to Boku | 412403 | [412403-6-gatsu-no-kimi-to-boku.json](./412403-6-gatsu-no-kimi-to-boku.json) |
+| 6-in-1 Board Game Club | 223607 | [223607-6-in-1-board-game-club.json](./223607-6-in-1-board-game-club.json) |
 | 6-in-1 Fami Collection: NES Collection Nr 2 | 37642 | [37642-6-in-1-fami-collection-nes-collection-nr-2.json](./37642-6-in-1-fami-collection-nes-collection-nr-2.json) |
 | 6-in-1 IQ Scale Bundle: Lost Starships | 166212 | [166212-6-in-1-iq-scale-bundle-lost-starships.json](./166212-6-in-1-iq-scale-bundle-lost-starships.json) |
 | 6-in-1 IQ Scale Bundle: Starships | 170806 | [170806-6-in-1-iq-scale-bundle-starships.json](./170806-6-in-1-iq-scale-bundle-starships.json) |
