@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T20:50:43.802Z",
-  "total_soundtracks": 1542,
+  "generated_at": "2026-10-12T20:50:59.105Z",
+  "total_soundtracks": 1543,
   "games": [
     {
       "igdb_id": 7522,
@@ -7733,6 +7733,20 @@
           "spotify_url": "https://music.apple.com/us/album/heroes-of-the-storm-original-soundtrack/1815478441?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1815478441"
+        }
+      ]
+    },
+    {
+      "igdb_id": 233585,
+      "game_name": "Hi-Fi Rush",
+      "game_url": "https://ostdb.net/games/hi-fi-rush",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/ac/fa/daacfa69-5cc5-1360-7923-f4bad22eb2a4/888272170962.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Hi-Fi RUSH: Original Game Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/24WVSsYxabHZQfwNk41ERs",
+          "apple_music_url": "https://music.apple.com/us/album/hi-fi-rush-original-game-soundtrack/1852459983",
+          "album_link_url": "https://album.link/i/1852459983"
         }
       ]
     },
