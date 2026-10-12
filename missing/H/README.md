@@ -4072,6 +4072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexachampions | 316186 | [316186-hexachampions.json](./316186-hexachampions.json) |
 | Hexachess | 374634 | [374634-hexachess.json](./374634-hexachess.json) |
 | HexaCycle | 115643 | [115643-hexacycle.json](./115643-hexacycle.json) |
+| Hexadecordle | 194882 | [194882-hexadecordle.json](./194882-hexadecordle.json) |
 | Hexagon Defense | 147909 | [147909-hexagon-defense.json](./147909-hexagon-defense.json) |
 | Hexagon Defense | 36965 | [36965-hexagon-defense.json](./36965-hexagon-defense.json) |
 | Hexagon Dungeon | 114785 | [114785-hexagon-dungeon.json](./114785-hexagon-dungeon.json) |
