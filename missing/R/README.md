@@ -4298,6 +4298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rewind to Fear: The Mansion | 342003 | [342003-rewind-to-fear-the-mansion.json](./342003-rewind-to-fear-the-mansion.json) |
 | Rewind: One Last Chance | 197736 | [197736-rewind-one-last-chance.json](./197736-rewind-one-last-chance.json) |
 | Rewindead | 382756 | [382756-rewindead.json](./382756-rewindead.json) |
+| Rewinder | 183315 | [183315-rewinder.json](./183315-rewinder.json) |
 | ReWire | 348839 | [348839-rewire.json](./348839-rewire.json) |
 | Rework | 310507 | [310507-rework.json](./310507-rework.json) |
 | Reworld | 130807 | [130807-reworld.json](./130807-reworld.json) |
@@ -4572,6 +4573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddles of the Past | 32090 | [32090-riddles-of-the-past.json](./32090-riddles-of-the-past.json) |
 | Riddles with Sir Connery | 314497 | [314497-riddles-with-sir-connery.json](./314497-riddles-with-sir-connery.json) |
 | RiddleWood | 392274 | [392274-riddlewood.json](./392274-riddlewood.json) |
+| Ride | 183311 | [183311-ride.json](./183311-ride.json) |
 | Ride 'Em Rigby: Regular Show | 61140 | [61140-ride-em-rigby-regular-show.json](./61140-ride-em-rigby-regular-show.json) |
 | Ride 2: 2017 Top Bikes Pack | 226961 | [226961-ride-2-2017-top-bikes-pack.json](./226961-ride-2-2017-top-bikes-pack.json) |
 | Ride 2: Aprilia and Suzuki Bonus Pack | 226962 | [226962-ride-2-aprilia-and-suzuki-bonus-pack.json](./226962-ride-2-aprilia-and-suzuki-bonus-pack.json) |
