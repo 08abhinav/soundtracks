@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H8machine | 210868 | [210868-h8machine.json](./210868-h8machine.json) |
 | Ha_Bits | 170537 | [170537-ha-bits.json](./170537-ha-bits.json) |
 | Ha-ha-ho-ho-horror | 343911 | [343911-ha-ha-ho-ho-horror.json](./343911-ha-ha-ho-ho-horror.json) |
+| Ha*co | 210226 | [210226-ha-co.json](./210226-ha-co.json) |
 | Ha/ck | 113710 | [113710-ha-ck.json](./113710-ha-ck.json) |
 | Habanero-tan House | 279758 | [279758-habanero-tan-house.json](./279758-habanero-tan-house.json) |
 | Habblet | 274195 | [274195-habblet.json](./274195-habblet.json) |
@@ -3499,6 +3500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her Love Just Washed Away | 261957 | [261957-her-love-just-washed-away.json](./261957-her-love-just-washed-away.json) |
 | Her Love, Like Poison | 332442 | [332442-her-love-like-poison.json](./332442-her-love-like-poison.json) |
 | Her Majesty's Apathy Bomb | 180709 | [180709-her-majestys-apathy-bomb.json](./180709-her-majestys-apathy-bomb.json) |
+| Her Name Was Fire | 209779 | [209779-her-name-was-fire.json](./209779-her-name-was-fire.json) |
 | Her New Memory | 152295 | [152295-her-new-memory.json](./152295-her-new-memory.json) |
 | Her New Memory: BDSM | 217541 | [217541-her-new-memory-bdsm.json](./217541-her-new-memory-bdsm.json) |
 | Her Nightmares: Redacted | 212265 | [212265-her-nightmares-redacted.json](./212265-her-nightmares-redacted.json) |
