@@ -6180,6 +6180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fleets of Sol | 34949 | [34949-the-fleets-of-sol.json](./34949-the-fleets-of-sol.json) |
 | The Flick of the Dead | 125152 | [125152-the-flick-of-the-dead.json](./125152-the-flick-of-the-dead.json) |
 | The Flight of Dowran | 75038 | [75038-the-flight-of-dowran.json](./75038-the-flight-of-dowran.json) |
+| The Flintstones | 198740 | [198740-the-flintstones.json](./198740-the-flintstones.json) |
 | The Flintstones | 205923 | [205923-the-flintstones.json](./205923-the-flintstones.json) |
 | The Flintstones | 47227 | [47227-the-flintstones.json](./47227-the-flintstones.json) |
 | The Flintstones | 51942 | [51942-the-flintstones.json](./51942-the-flintstones.json) |
@@ -7128,6 +7129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible Adventures of Van Helsing: Extended Edition | 27680 | [27680-the-incredible-adventures-of-van-helsing-extended-edition.json](./27680-the-incredible-adventures-of-van-helsing-extended-edition.json) |
 | The Incredible Adventures of Van Helsing: The Complete Trilogy | 115460 | [115460-the-incredible-adventures-of-van-helsing-the-complete-trilogy.json](./115460-the-incredible-adventures-of-van-helsing-the-complete-trilogy.json) |
 | The Incredible Coneman | 262418 | [262418-the-incredible-coneman.json](./262418-the-incredible-coneman.json) |
+| The Incredible Crash Dummies | 198764 | [198764-the-incredible-crash-dummies.json](./198764-the-incredible-crash-dummies.json) |
 | The Incredible Hulk | 225619 | [225619-the-incredible-hulk.json](./225619-the-incredible-hulk.json) |
 | The Incredible Hulk | 368893 | [368893-the-incredible-hulk.json](./368893-the-incredible-hulk.json) |
 | The Incredible Hulk | 94829 | [94829-the-incredible-hulk.json](./94829-the-incredible-hulk.json) |
