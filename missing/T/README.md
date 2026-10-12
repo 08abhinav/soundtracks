@@ -2075,6 +2075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teaparty in Candyworld | 357226 | [357226-teaparty-in-candyworld.json](./357226-teaparty-in-candyworld.json) |
 | Teapot Poppers | 146915 | [146915-teapot-poppers.json](./146915-teapot-poppers.json) |
 | Tear of Time: Lost Memory | 192783 | [192783-tear-of-time-lost-memory.json](./192783-tear-of-time-lost-memory.json) |
+| Tear of Titans | 199319 | [199319-tear-of-titans.json](./199319-tear-of-titans.json) |
 | Tear Ring Saga | 43872 | [43872-tear-ring-saga.json](./43872-tear-ring-saga.json) |
 | Tear Ring Saga Series: Berwick Saga: Lazberia Chronicle Chapter 174 | 80578 | [80578-tear-ring-saga-series-berwick-saga-lazberia-chronicle-chapter-174.json](./80578-tear-ring-saga-series-berwick-saga-lazberia-chronicle-chapter-174.json) |
 | Tear Ripple | 305305 | [305305-tear-ripple.json](./305305-tear-ripple.json) |
@@ -4444,6 +4445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Breach: A VR Escape Game | 120119 | [120119-the-breach-a-vr-escape-game.json](./120119-the-breach-a-vr-escape-game.json) |
 | The Bread Must Rise | 245926 | [245926-the-bread-must-rise.json](./245926-the-bread-must-rise.json) |
 | The Bread Pub Brawlers | 86118 | [86118-the-bread-pub-brawlers.json](./86118-the-bread-pub-brawlers.json) |
+| The Break-In | 199298 | [199298-the-break-in.json](./199298-the-break-in.json) |
 | the Breath. | 59242 | [59242-the-breath.json](./59242-the-breath.json) |
 | The Bricksperience | 184370 | [184370-the-bricksperience.json](./184370-the-bricksperience.json) |
 | The Bride Horror Game | 238950 | [238950-the-bride-horror-game.json](./238950-the-bride-horror-game.json) |
@@ -9819,6 +9821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quest for Achievements | 334744 | [334744-the-quest-for-achievements.json](./334744-the-quest-for-achievements.json) |
 | The Quest for Achievements II | 334753 | [334753-the-quest-for-achievements-ii.json](./334753-the-quest-for-achievements-ii.json) |
 | The Quest for Achievements Remix | 121008 | [121008-the-quest-for-achievements-remix.json](./121008-the-quest-for-achievements-remix.json) |
+| The Quest for Excalibur: Puy du Fou | 199326 | [199326-the-quest-for-excalibur-puy-du-fou.json](./199326-the-quest-for-excalibur-puy-du-fou.json) |
 | The Quest for Moe's | 112977 | [112977-the-quest-for-moes.json](./112977-the-quest-for-moes.json) |
 | The Quest for One | 202970 | [202970-the-quest-for-one.json](./202970-the-quest-for-one.json) |
 | The Quest For Royal Love | 184909 | [184909-the-quest-for-royal-love.json](./184909-the-quest-for-royal-love.json) |
@@ -11134,6 +11137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Superfluous | 31953 | [31953-the-superfluous.json](./31953-the-superfluous.json) |
 | The Superfluous Sand | 133398 | [133398-the-superfluous-sand.json](./133398-the-superfluous-sand.json) |
 | The Superlatives: Aetherfall | 74668 | [74668-the-superlatives-aetherfall.json](./74668-the-superlatives-aetherfall.json) |
+| The Supermarket Hunter | 199338 | [199338-the-supermarket-hunter.json](./199338-the-supermarket-hunter.json) |
 | The Supernatural Power Troll | 322844 | [322844-the-supernatural-power-troll.json](./322844-the-supernatural-power-troll.json) |
 | The Supper | 128289 | [128289-the-supper.json](./128289-the-supper.json) |
 | The Supplier's Complex | 343201 | [343201-the-suppliers-complex.json](./343201-the-suppliers-complex.json) |
@@ -14494,6 +14498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Woods PGA Tour Golf | 206788 | [206788-tiger-woods-pga-tour-golf.json](./206788-tiger-woods-pga-tour-golf.json) |
 | Tiger-Heli | 364617 | [364617-tiger-heli.json](./364617-tiger-heli.json) |
 | Tigers on the Hunt | 59521 | [59521-tigers-on-the-hunt.json](./59521-tigers-on-the-hunt.json) |
+| Tigey's Gift | 199302 | [199302-tigeys-gift.json](./199302-tigeys-gift.json) |
 | Tigger's Family Tree 3D Adventure | 209036 | [209036-tiggers-family-tree-3d-adventure.json](./209036-tiggers-family-tree-3d-adventure.json) |
 | Tight Man | 393457 | [393457-tight-man.json](./393457-tight-man.json) |
 | Tightrope | 388706 | [388706-tightrope.json](./388706-tightrope.json) |
@@ -14887,6 +14892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeWalker | 117607 | [117607-timewalker.json](./117607-timewalker.json) |
 | TimeWarp | 240909 | [240909-timewarp.json](./240909-timewarp.json) |
 | TimeWatch | 130909 | [130909-timewatch.json](./130909-timewatch.json) |
+| Timeways | 199309 | [199309-timeways.json](./199309-timeways.json) |
 | Timewell: Trail of Celestes | 216397 | [216397-timewell-trail-of-celestes.json](./216397-timewell-trail-of-celestes.json) |
 | Timewreck Tales | 173037 | [173037-timewreck-tales.json](./173037-timewreck-tales.json) |
 | Timez Attack | 133752 | [133752-timez-attack.json](./133752-timez-attack.json) |
