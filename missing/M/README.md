@@ -1121,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MagixHome VR | 31125 | [31125-magixhome-vr.json](./31125-magixhome-vr.json) |
 | MagJongg | 91522 | [91522-magjongg.json](./91522-magjongg.json) |
 | Magla | 344017 | [344017-magla.json](./344017-magla.json) |
+| Maglam Lord: Deluxe Edition | 199823 | [199823-maglam-lord-deluxe-edition.json](./199823-maglam-lord-deluxe-edition.json) |
 | Magma | 229163 | [229163-magma.json](./229163-magma.json) |
 | Magma Chamber | 32968 | [32968-magma-chamber.json](./32968-magma-chamber.json) |
 | Magma Fever | 260629 | [260629-magma-fever.json](./260629-magma-fever.json) |
@@ -10102,6 +10103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Rise: Kamura Collection DLC Pack | 252632 | [252632-monster-hunter-rise-kamura-collection-dlc-pack.json](./252632-monster-hunter-rise-kamura-collection-dlc-pack.json) |
 | Monster Hunter Rise: Kingdom Collection DLC Pack | 252630 | [252630-monster-hunter-rise-kingdom-collection-dlc-pack.json](./252630-monster-hunter-rise-kingdom-collection-dlc-pack.json) |
 | Monster Hunter Rise: Sunbreak | 172425 | [172425-monster-hunter-rise-sunbreak.json](./172425-monster-hunter-rise-sunbreak.json) |
+| Monster Hunter Rise: Sunbreak - Deluxe Edition | 199890 | [199890-monster-hunter-rise-sunbreak-deluxe-edition.json](./199890-monster-hunter-rise-sunbreak-deluxe-edition.json) |
 | Monster Hunter Rise: Title Update 1 | 252379 | [252379-monster-hunter-rise-title-update-1.json](./252379-monster-hunter-rise-title-update-1.json) |
 | Monster Hunter Rise: Title Update 2 | 252380 | [252380-monster-hunter-rise-title-update-2.json](./252380-monster-hunter-rise-title-update-2.json) |
 | Monster Hunter Rise: Title Update 3 | 252381 | [252381-monster-hunter-rise-title-update-3.json](./252381-monster-hunter-rise-title-update-3.json) |
