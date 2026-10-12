@@ -1858,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bart's Quest For TV | 317310 | [317310-barts-quest-for-tv.json](./317310-barts-quest-for-tv.json) |
 | Bartender Hustle | 153899 | [153899-bartender-hustle.json](./153899-bartender-hustle.json) |
 | Bartender VR Simulator | 74216 | [74216-bartender-vr-simulator.json](./74216-bartender-vr-simulator.json) |
+| Bartender: The Right Mix | 192098 | [192098-bartender-the-right-mix.json](./192098-bartender-the-right-mix.json) |
 | Bartenders | 244205 | [244205-bartenders.json](./244205-bartenders.json) |
 | Barter & Blades | 281953 | [281953-barter-and-blades.json](./281953-barter-and-blades.json) |
 | Bartholomew.exe | 358899 | [358899-bartholomew-exe.json](./358899-bartholomew-exe.json) |
@@ -11153,6 +11154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny's Pizza Tycoon | 265394 | [265394-bunnys-pizza-tycoon.json](./265394-bunnys-pizza-tycoon.json) |
 | Bunny’s Rent-a-Mom Agency | 392841 | [392841-bunny-s-rent-a-mom-agency.json](./392841-bunny-s-rent-a-mom-agency.json) |
 | BunnyBarTalk | 360494 | [360494-bunnybartalk.json](./360494-bunnybartalk.json) |
+| BunnyBuns | 192106 | [192106-bunnybuns.json](./192106-bunnybuns.json) |
 | BunnyFlow | 390514 | [390514-bunnyflow.json](./390514-bunnyflow.json) |
 | Bunnymare: Circus Escape | 120234 | [120234-bunnymare-circus-escape.json](./120234-bunnymare-circus-escape.json) |
 | BunnyOps | 378417 | [378417-bunnyops.json](./378417-bunnyops.json) |
