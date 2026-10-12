@@ -6441,6 +6441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege of Dungeon | 204934 | [204934-siege-of-dungeon.json](./204934-siege-of-dungeon.json) |
 | Siege of Osaka | 239181 | [239181-siege-of-osaka.json](./239181-siege-of-osaka.json) |
 | Siege of Syracuse | 413001 | [413001-siege-of-syracuse.json](./413001-siege-of-syracuse.json) |
+| Siege of Turtle Enclave: Arcane Units Pack | 224147 | [224147-siege-of-turtle-enclave-arcane-units-pack.json](./224147-siege-of-turtle-enclave-arcane-units-pack.json) |
 | Siege Saga | 77633 | [77633-siege-saga.json](./77633-siege-saga.json) |
 | Siege Showdown | 270072 | [270072-siege-showdown.json](./270072-siege-showdown.json) |
 | Siege Survival: Gloria Victis | 145242 | [145242-siege-survival-gloria-victis.json](./145242-siege-survival-gloria-victis.json) |
@@ -10043,6 +10044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccerholix | 93577 | [93577-soccerholix.json](./93577-soccerholix.json) |
 | Soccering | 115041 | [115041-soccering.json](./115041-soccering.json) |
 | Soccertron | 11132 | [11132-soccertron.json](./11132-soccertron.json) |
+| Soccerverse | 224165 | [224165-soccerverse.json](./224165-soccerverse.json) |
 | Social Club VR : Casino Nights | 130746 | [130746-social-club-vr-casino-nights.json](./130746-social-club-vr-casino-nights.json) |
 | Social Credit Simulator | 226344 | [226344-social-credit-simulator.json](./226344-social-credit-simulator.json) |
 | Social Democracy: An Alternate History | 301376 | [301376-social-democracy-an-alternate-history.json](./301376-social-democracy-an-alternate-history.json) |
@@ -11851,6 +11853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulCalibur VI: 2B | 168722 | [168722-soulcalibur-vi-2b.json](./168722-soulcalibur-vi-2b.json) |
 | SoulCalibur VI: Amy | 168723 | [168723-soulcalibur-vi-amy.json](./168723-soulcalibur-vi-amy.json) |
 | SoulCalibur VI: Cassandra | 168724 | [168724-soulcalibur-vi-cassandra.json](./168724-soulcalibur-vi-cassandra.json) |
+| SoulCalibur VI: Character Creation Set F | 224129 | [224129-soulcalibur-vi-character-creation-set-f.json](./224129-soulcalibur-vi-character-creation-set-f.json) |
 | SoulCalibur VI: Haohmaru | 168726 | [168726-soulcalibur-vi-haohmaru.json](./168726-soulcalibur-vi-haohmaru.json) |
 | SoulCalibur VI: Hilde | 168725 | [168725-soulcalibur-vi-hilde.json](./168725-soulcalibur-vi-hilde.json) |
 | SoulCalibur VI: Hwang | 168728 | [168728-soulcalibur-vi-hwang.json](./168728-soulcalibur-vi-hwang.json) |
@@ -18631,6 +18634,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudokku Elite Collection | 58256 | [58256-sudokku-elite-collection.json](./58256-sudokku-elite-collection.json) |
 | Sudoku | 131490 | [131490-sudoku.json](./131490-sudoku.json) |
 | Sudoku | 131505 | [131505-sudoku.json](./131505-sudoku.json) |
+| Sudoku | 224170 | [224170-sudoku.json](./224170-sudoku.json) |
+| Sudoku | 224171 | [224171-sudoku.json](./224171-sudoku.json) |
 | Sudoku | 246366 | [246366-sudoku.json](./246366-sudoku.json) |
 | Sudoku | 263395 | [263395-sudoku.json](./263395-sudoku.json) |
 | Sudoku | 267544 | [267544-sudoku.json](./267544-sudoku.json) |
@@ -19008,6 +19013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Lesson | 13668 | [13668-summer-lesson.json](./13668-summer-lesson.json) |
 | Summer Lesson: Allison Snow - Nanokakan no Niwa | 336180 | [336180-summer-lesson-allison-snow-nanokakan-no-niwa.json](./336180-summer-lesson-allison-snow-nanokakan-no-niwa.json) |
 | Summer Lesson: Chisato Shinjo - Shichiyou no Etude | 219030 | [219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json](./219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json) |
+| Summer Loops | 224150 | [224150-summer-loops.json](./224150-summer-loops.json) |
 | Summer Mahjong | 71571 | [71571-summer-mahjong.json](./71571-summer-mahjong.json) |
 | Summer Meetings | 121692 | [121692-summer-meetings.json](./121692-summer-meetings.json) |
 | Summer Memories: Deluxe Edition | 186897 | [186897-summer-memories-deluxe-edition.json](./186897-summer-memories-deluxe-edition.json) |
@@ -20886,6 +20892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Seeker | 111568 | [111568-super-seeker.json](./111568-super-seeker.json) |
 | Super Senso | 26626 | [26626-super-senso.json](./26626-super-senso.json) |
 | Super Sentai Battle: Dice-O | 59823 | [59823-super-sentai-battle-dice-o.json](./59823-super-sentai-battle-dice-o.json) |
+| Super Sentai Legend Wars | 223901 | [223901-super-sentai-legend-wars.json](./223901-super-sentai-legend-wars.json) |
 | Super Serious Golf | 365830 | [365830-super-serious-golf.json](./365830-super-serious-golf.json) |
 | Super Serpent Snake 3D | 412292 | [412292-super-serpent-snake-3d.json](./412292-super-serpent-snake-3d.json) |
 | Super Seymour Saves the Plant | 18573 | [18573-super-seymour-saves-the-plant.json](./18573-super-seymour-saves-the-plant.json) |
@@ -21194,6 +21201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Toss the Turtle | 57104 | [57104-super-toss-the-turtle.json](./57104-super-toss-the-turtle.json) |
 | Super Tower Rush | 50849 | [50849-super-tower-rush.json](./50849-super-tower-rush.json) |
 | Super Toxicboy | 130165 | [130165-super-toxicboy.json](./130165-super-toxicboy.json) |
+| Super Toy 3D | 223900 | [223900-super-toy-3d.json](./223900-super-toy-3d.json) |
 | Super Toy Cars 1 & 2 Bundle | 208579 | [208579-super-toy-cars-1-and-2-bundle.json](./208579-super-toy-cars-1-and-2-bundle.json) |
 | Super Toy Cars 2 | 122256 | [122256-super-toy-cars-2.json](./122256-super-toy-cars-2.json) |
 | Super Toy Cars 2: Ultimate Racing | 146179 | [146179-super-toy-cars-2-ultimate-racing.json](./146179-super-toy-cars-2-ultimate-racing.json) |
@@ -21358,6 +21366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superheroes Fast Highway Racing Challenges | 100869 | [100869-superheroes-fast-highway-racing-challenges.json](./100869-superheroes-fast-highway-racing-challenges.json) |
 | Superheroes: Power of New Horizons Legacy | 324124 | [324124-superheroes-power-of-new-horizons-legacy.json](./324124-superheroes-power-of-new-horizons-legacy.json) |
 | Superhot Prototype | 18119 | [18119-superhot-prototype.json](./18119-superhot-prototype.json) |
+| Superhot Shooter 3D | 223902 | [223902-superhot-shooter-3d.json](./223902-superhot-shooter-3d.json) |
 | SuperHot: Mind Control Delete | 27448 | [27448-superhot-mind-control-delete.json](./27448-superhot-mind-control-delete.json) |
 | Superhot: One of Us Bundle | 155188 | [155188-superhot-one-of-us-bundle.json](./155188-superhot-one-of-us-bundle.json) |
 | Superhuman | 330798 | [330798-superhuman.json](./330798-superhuman.json) |
@@ -21722,6 +21731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival & Horror: Hangman's Rope | 244273 | [244273-survival-and-horror-hangmans-rope.json](./244273-survival-and-horror-hangmans-rope.json) |
 | Survival & Horror: Mortanis Prisoners Prologue | 253422 | [253422-survival-and-horror-mortanis-prisoners-prologue.json](./253422-survival-and-horror-mortanis-prisoners-prologue.json) |
 | Survival & Horror: The Damned City | 244750 | [244750-survival-and-horror-the-damned-city.json](./244750-survival-and-horror-the-damned-city.json) |
+| Survival 456 But It's Impostor | 223899 | [223899-survival-456-but-its-impostor.json](./223899-survival-456-but-its-impostor.json) |
 | Survival Academy | 223379 | [223379-survival-academy.json](./223379-survival-academy.json) |
 | Survival Adventures Collection | 332487 | [332487-survival-adventures-collection.json](./332487-survival-adventures-collection.json) |
 | Survival After War | 319773 | [319773-survival-after-war.json](./319773-survival-after-war.json) |
