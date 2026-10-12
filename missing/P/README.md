@@ -3795,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piccross Adventure House | 102819 | [102819-piccross-adventure-house.json](./102819-piccross-adventure-house.json) |
 | picFind - Find in the Space | 96851 | [96851-picfind-find-in-the-space.json](./96851-picfind-find-in-the-space.json) |
 | Pichenette | 384530 | [384530-pichenette.json](./384530-pichenette.json) |
+| Pichi Girl | 226351 | [226351-pichi-girl.json](./226351-pichi-girl.json) |
 | Pichon: The Bouncy Bird | 180107 | [180107-pichon-the-bouncy-bird.json](./180107-pichon-the-bouncy-bird.json) |
 | Pichu Bros. Mini | 92303 | [92303-pichu-bros-mini.json](./92303-pichu-bros-mini.json) |
 | Pick 'n Pile | 40765 | [40765-pick-n-pile.json](./40765-pick-n-pile.json) |
@@ -4505,6 +4506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX3: Core Collection | 164005 | [164005-pinball-fx3-core-collection.json](./164005-pinball-fx3-core-collection.json) |
 | Pinball FX3: Indiana Jones - The Pinball Adventure | 193394 | [193394-pinball-fx3-indiana-jones-the-pinball-adventure.json](./193394-pinball-fx3-indiana-jones-the-pinball-adventure.json) |
 | Pinball FX3: Marvel Pinball - Avengers Chronicles | 163998 | [163998-pinball-fx3-marvel-pinball-avengers-chronicles.json](./163998-pinball-fx3-marvel-pinball-avengers-chronicles.json) |
+| Pinball FX3: Marvel Pinball - Cinematic Pack | 226360 | [226360-pinball-fx3-marvel-pinball-cinematic-pack.json](./226360-pinball-fx3-marvel-pinball-cinematic-pack.json) |
 | Pinball FX3: Marvel Pinball Original Pack | 164003 | [164003-pinball-fx3-marvel-pinball-original-pack.json](./164003-pinball-fx3-marvel-pinball-original-pack.json) |
 | Pinball FX3: Marvel Pinball Vengeance and Virtue Pack | 163999 | [163999-pinball-fx3-marvel-pinball-vengeance-and-virtue-pack.json](./163999-pinball-fx3-marvel-pinball-vengeance-and-virtue-pack.json) |
 | Pinball FX3: Marvel's Women of Power | 164006 | [164006-pinball-fx3-marvels-women-of-power.json](./164006-pinball-fx3-marvels-women-of-power.json) |
@@ -11523,6 +11525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Piecer: The Holiday Spirit | 380670 | [380670-puzzle-piecer-the-holiday-spirit.json](./380670-puzzle-piecer-the-holiday-spirit.json) |
 | Puzzle Piecer: The Sky Above | 349422 | [349422-puzzle-piecer-the-sky-above.json](./349422-puzzle-piecer-the-sky-above.json) |
 | Puzzle Piecer: The World Below | 330806 | [330806-puzzle-piecer-the-world-below.json](./330806-puzzle-piecer-the-world-below.json) |
+| Puzzle Pieces 5: Fairy Ring | 226345 | [226345-puzzle-pieces-5-fairy-ring.json](./226345-puzzle-pieces-5-fairy-ring.json) |
 | Puzzle Pirates: Dark Seas | 59866 | [59866-puzzle-pirates-dark-seas.json](./59866-puzzle-pirates-dark-seas.json) |
 | Puzzle Player | 322038 | [322038-puzzle-player.json](./322038-puzzle-player.json) |
 | Puzzle Playground | 308502 | [308502-puzzle-playground.json](./308502-puzzle-playground.json) |
