@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1x111 | 322853 | [322853-1x111.json](./322853-1x111.json) |
 | 2 3 4 Player Games | 125921 | [125921-2-3-4-player-games.json](./125921-2-3-4-player-games.json) |
 | 2 Bit Operative | 197119 | [197119-2-bit-operative.json](./197119-2-bit-operative.json) |
+| 2 Cats & 1 Dog | 203696 | [203696-2-cats-and-1-dog.json](./203696-2-cats-and-1-dog.json) |
 | 2 Cubes 1 Ball | 107206 | [107206-2-cubes-1-ball.json](./107206-2-cubes-1-ball.json) |
 | 2 Days to Vegas | 27751 | [27751-2-days-to-vegas.json](./27751-2-days-to-vegas.json) |
 | 2 Disney Games: Disney Sports Skateboarding + Disney Sports Football | 147310 | [147310-2-disney-games-disney-sports-skateboarding-disney-sports-football.json](./147310-2-disney-games-disney-sports-skateboarding-disney-sports-football.json) |
