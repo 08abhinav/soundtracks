@@ -2130,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maps 4TMD | 312911 | [312911-maps-4tmd.json](./312911-maps-4tmd.json) |
 | Maps: U.S.A. | 201011 | [201011-maps-u-s-a.json](./201011-maps-u-s-a.json) |
 | Mapsnatch | 186639 | [186639-mapsnatch.json](./186639-mapsnatch.json) |
+| Mapstermind | 200408 | [200408-mapstermind.json](./200408-mapstermind.json) |
 | MapTap.gg | 400496 | [400496-maptap-gg.json](./400496-maptap-gg.json) |
 | Maptroid | 210833 | [210833-maptroid.json](./210833-maptroid.json) |
 | Mapventure Story | 238587 | [238587-mapventure-story.json](./238587-mapventure-story.json) |
@@ -3549,6 +3550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match 3 Madness | 209552 | [209552-match-3-madness.json](./209552-match-3-madness.json) |
 | Match 3 Revolution | 34498 | [34498-match-3-revolution.json](./34498-match-3-revolution.json) |
 | Match 3x3 Collection | 93972 | [93972-match-3x3-collection.json](./93972-match-3x3-collection.json) |
+| Match 4 | 200399 | [200399-match-4.json](./200399-match-4.json) |
 | Match App! | 347340 | [347340-match-app.json](./347340-match-app.json) |
 | Match Connect Challenge | 99150 | [99150-match-connect-challenge.json](./99150-match-connect-challenge.json) |
 | Match Day | 39123 | [39123-match-day.json](./39123-match-day.json) |
@@ -11697,6 +11699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moxie 2 | 174325 | [174325-moxie-2.json](./174325-moxie-2.json) |
 | Moxie Girlz | 92466 | [92466-moxie-girlz.json](./92466-moxie-girlz.json) |
 | Moyashibito DX | 233211 | [233211-moyashibito-dx.json](./233211-moyashibito-dx.json) |
+| Mozaki Blocks Deluxe | 200366 | [200366-mozaki-blocks-deluxe.json](./200366-mozaki-blocks-deluxe.json) |
 | Mozarella Hills | 291766 | [291766-mozarella-hills.json](./291766-mozarella-hills.json) |
 | Mozart Requiem | 141726 | [141726-mozart-requiem.json](./141726-mozart-requiem.json) |
 | Mozi | 310080 | [310080-mozi.json](./310080-mozi.json) |
