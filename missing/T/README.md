@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taima Toushin Hachikuma Tok | 245929 | [245929-taima-toushin-hachikuma-tok.json](./245929-taima-toushin-hachikuma-tok.json) |
 | Taimanin Asagi | 259866 | [259866-taimanin-asagi.json](./259866-taimanin-asagi.json) |
 | Taimanin Collection: Battle Arena | 301616 | [301616-taimanin-collection-battle-arena.json](./301616-taimanin-collection-battle-arena.json) |
+| Taimanin Gogo! | 216425 | [216425-taimanin-gogo.json](./216425-taimanin-gogo.json) |
 | Taimanin RPG Extasy | 272920 | [272920-taimanin-rpg-extasy.json](./272920-taimanin-rpg-extasy.json) |
 | Taimanin Squad | 382371 | [382371-taimanin-squad.json](./382371-taimanin-squad.json) |
 | Taimanin Yukikaze | 292222 | [292222-taimanin-yukikaze.json](./292222-taimanin-yukikaze.json) |
@@ -1941,6 +1942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TCG One | 149983 | [149983-tcg-one.json](./149983-tcg-one.json) |
 | Tchia: Kepler Customization Pack | 243232 | [243232-tchia-kepler-customization-pack.json](./243232-tchia-kepler-customization-pack.json) |
 | Tchia: Oléti Edition | 239605 | [239605-tchia-oleti-edition.json](./239605-tchia-oleti-edition.json) |
+| Tchow Rainbow | 216449 | [216449-tchow-rainbow.json](./216449-tchow-rainbow.json) |
 | Tchunk | 323437 | [323437-tchunk.json](./323437-tchunk.json) |
 | TCQ | 216272 | [216272-tcq.json](./216272-tcq.json) |
 | TCStrikers5 | 339414 | [339414-tcstrikers5.json](./339414-tcstrikers5.json) |
@@ -5685,6 +5687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End | 329067 | [329067-the-end.json](./329067-the-end.json) |
 | The End | 38578 | [38578-the-end.json](./38578-the-end.json) |
 | The End Grows | 274580 | [274580-the-end-grows.json](./274580-the-end-grows.json) |
+| The End is Nahual: If I May Say So | 216415 | [216415-the-end-is-nahual-if-i-may-say-so.json](./216415-the-end-is-nahual-if-i-may-say-so.json) |
 | The End is Never the End | 269850 | [269850-the-end-is-never-the-end.json](./269850-the-end-is-never-the-end.json) |
 | The End o,,,o | 31847 | [31847-the-end-o-o.json](./31847-the-end-o-o.json) |
 | The End of an Actress | 126961 | [126961-the-end-of-an-actress.json](./126961-the-end-of-an-actress.json) |
@@ -6555,6 +6558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Farce | 318176 | [318176-the-great-farce.json](./318176-the-great-farce.json) |
 | The Great Fear | 260650 | [260650-the-great-fear.json](./260650-the-great-fear.json) |
 | The Great Flood | 380563 | [380563-the-great-flood.json](./380563-the-great-flood.json) |
+| The Great Forever Tomorrow | 216436 | [216436-the-great-forever-tomorrow.json](./216436-the-great-forever-tomorrow.json) |
 | The Great Fusion | 19499 | [19499-the-great-fusion.json](./19499-the-great-fusion.json) |
 | The Great Gatsby | 76889 | [76889-the-great-gatsby.json](./76889-the-great-gatsby.json) |
 | The Great Ghoul Duel 2 | 223047 | [223047-the-great-ghoul-duel-2.json](./223047-the-great-ghoul-duel-2.json) |
@@ -8337,6 +8341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lonely League | 245004 | [245004-the-lonely-league.json](./245004-the-lonely-league.json) |
 | The Lonely Logs of Lincoln Lane | 301920 | [301920-the-lonely-logs-of-lincoln-lane.json](./301920-the-lonely-logs-of-lincoln-lane.json) |
 | The Lonely Miner | 411121 | [411121-the-lonely-miner.json](./411121-the-lonely-miner.json) |
+| The Lonely People | 216446 | [216446-the-lonely-people.json](./216446-the-lonely-people.json) |
 | The Loner | 29712 | [29712-the-loner.json](./29712-the-loner.json) |
 | The Lonesome Guild | 333042 | [333042-the-lonesome-guild.json](./333042-the-lonesome-guild.json) |
 | The Long Arc | 353787 | [353787-the-long-arc.json](./353787-the-long-arc.json) |
@@ -12502,6 +12507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Their Story. | 404398 | [404398-their-story.json](./404398-their-story.json) |
 | TheLast.io | 125984 | [125984-thelast-io.json](./125984-thelast-io.json) |
 | TheLooppy | 83487 | [83487-thelooppy.json](./83487-thelooppy.json) |
+| Thelos | 216443 | [216443-thelos.json](./216443-thelos.json) |
 | Them and Us | 107688 | [107688-them-and-us.json](./107688-them-and-us.json) |
 | Them or Us | 216995 | [216995-them-or-us.json](./216995-them-or-us.json) |
 | Them: The Summoning | 10957 | [10957-them-the-summoning.json](./10957-them-the-summoning.json) |
@@ -14775,6 +14781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeWalker | 117607 | [117607-timewalker.json](./117607-timewalker.json) |
 | TimeWarp | 240909 | [240909-timewarp.json](./240909-timewarp.json) |
 | TimeWatch | 130909 | [130909-timewatch.json](./130909-timewatch.json) |
+| Timewell: Trail of Celestes | 216397 | [216397-timewell-trail-of-celestes.json](./216397-timewell-trail-of-celestes.json) |
 | Timewreck Tales | 173037 | [173037-timewreck-tales.json](./173037-timewreck-tales.json) |
 | Timez Attack | 133752 | [133752-timez-attack.json](./133752-timez-attack.json) |
 | TimeZero | 58813 | [58813-timezero.json](./58813-timezero.json) |
@@ -15907,6 +15914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's The Division 2: Warlords of New York - Season 3: Concealed Agenda | 217530 | [217530-tom-clancys-the-division-2-warlords-of-new-york-season-3-concealed-agenda.json](./217530-tom-clancys-the-division-2-warlords-of-new-york-season-3-concealed-agenda.json) |
 | Tom Clancy's The Division 2: Warlords of New York - Season 4: End of Watch | 217531 | [217531-tom-clancys-the-division-2-warlords-of-new-york-season-4-end-of-watch.json](./217531-tom-clancys-the-division-2-warlords-of-new-york-season-4-end-of-watch.json) |
 | Tom Clancy's The Division 2: Warlords of New York - Season 9: Hidden Alliance | 217536 | [217536-tom-clancys-the-division-2-warlords-of-new-york-season-9-hidden-alliance.json](./217536-tom-clancys-the-division-2-warlords-of-new-york-season-9-hidden-alliance.json) |
+| Tom Clancy's The Division 2: Warlords of New York - Season Ten: Price of Power | 216426 | [216426-tom-clancys-the-division-2-warlords-of-new-york-season-ten-price-of-power.json](./216426-tom-clancys-the-division-2-warlords-of-new-york-season-ten-price-of-power.json) |
 | Tom Clancy's The Division 2: Year 1 Pass | 152165 | [152165-tom-clancys-the-division-2-year-1-pass.json](./152165-tom-clancys-the-division-2-year-1-pass.json) |
 | Tom Clancy's The Division: Gold Edition | 53822 | [53822-tom-clancys-the-division-gold-edition.json](./53822-tom-clancys-the-division-gold-edition.json) |
 | Tom Clancy's The Division: Heartland | 146881 | [146881-tom-clancys-the-division-heartland.json](./146881-tom-clancys-the-division-heartland.json) |
@@ -17271,6 +17279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Stack | 265743 | [265743-tower-stack.json](./265743-tower-stack.json) |
 | Tower Stacker | 166613 | [166613-tower-stacker.json](./166613-tower-stacker.json) |
 | Tower Survivor | 238616 | [238616-tower-survivor.json](./238616-tower-survivor.json) |
+| Tower Survivors | 216444 | [216444-tower-survivors.json](./216444-tower-survivors.json) |
 | Tower Tactics Arena | 285534 | [285534-tower-tactics-arena.json](./285534-tower-tactics-arena.json) |
 | Tower Tactics: Astral Siege | 336624 | [336624-tower-tactics-astral-siege.json](./336624-tower-tactics-astral-siege.json) |
 | Tower to Heaven | 173313 | [173313-tower-to-heaven.json](./173313-tower-to-heaven.json) |
