@@ -2653,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Again | 117019 | [117019-again.json](./117019-again.json) |
 | Again | 117713 | [117713-again.json](./117713-again.json) |
 | Again | 177548 | [177548-again.json](./177548-again.json) |
+| Again | 193673 | [193673-again.json](./193673-again.json) |
 | Again and Again | 216182 | [216182-again-and-again.json](./216182-again-and-again.json) |
 | Again? | 106503 | [106503-again.json](./106503-again.json) |
 | Against | 152211 | [152211-against.json](./152211-against.json) |
@@ -6733,6 +6734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another TD | 391759 | [391759-another-td.json](./391759-another-td.json) |
 | Another Time Another Leaf: Kagami no Naka no Tantei | 69283 | [69283-another-time-another-leaf-kagami-no-naka-no-tantei.json](./69283-another-time-another-leaf-kagami-no-naka-no-tantei.json) |
 | Another Timeless Night | 270700 | [270700-another-timeless-night.json](./270700-another-timeless-night.json) |
+| Another Tomorrow | 193707 | [193707-another-tomorrow.json](./193707-another-tomorrow.json) |
 | Another Try | 127097 | [127097-another-try.json](./127097-another-try.json) |
 | Another Try 2 | 291460 | [291460-another-try-2.json](./291460-another-try-2.json) |
 | Another Vic in the Wall | 83267 | [83267-another-vic-in-the-wall.json](./83267-another-vic-in-the-wall.json) |
@@ -11398,6 +11400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azazel Gamble | 370284 | [370284-azazel-gamble.json](./370284-azazel-gamble.json) |
 | Azazel's Christmas Fable | 221174 | [221174-azazels-christmas-fable.json](./221174-azazels-christmas-fable.json) |
 | Azera Online | 76612 | [76612-azera-online.json](./76612-azera-online.json) |
+| Azerion | 193671 | [193671-azerion.json](./193671-azerion.json) |
 | Azhar Erriad: Destruction | 362760 | [362760-azhar-erriad-destruction.json](./362760-azhar-erriad-destruction.json) |
 | Azimech | 156220 | [156220-azimech.json](./156220-azimech.json) |
 | Azimuth | 252655 | [252655-azimuth.json](./252655-azimuth.json) |
