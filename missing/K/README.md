@@ -624,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karen's Fault | 265101 | [265101-karens-fault.json](./265101-karens-fault.json) |
 | Kareshi no Mawari ni itara Iya na Onna Tomodachi wo Kobushi de Wakaraseru Game | 373699 | [373699-kareshi-no-mawari-ni-itara-iya-na-onna-tomodachi-wo-kobushi-de-wakaraseru-game.json](./373699-kareshi-no-mawari-ni-itara-iya-na-onna-tomodachi-wo-kobushi-de-wakaraseru-game.json) |
 | Karga | 296458 | [296458-karga.json](./296458-karga.json) |
+| Kargo: A neo-noir adventure | 217492 | [217492-kargo-a-neo-noir-adventure.json](./217492-kargo-a-neo-noir-adventure.json) |
 | Kari | 150497 | [150497-kari.json](./150497-kari.json) |
 | Kari Gurashi Ren'ai | 97347 | [97347-kari-gurashi-renai.json](./97347-kari-gurashi-renai.json) |
 | Kari ni A-kun to Shiyou | 380182 | [380182-kari-ni-a-kun-to-shiyou.json](./380182-kari-ni-a-kun-to-shiyou.json) |
@@ -1204,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kewbii | 215592 | [215592-kewbii.json](./215592-kewbii.json) |
 | Kewter’s Showroom | 340787 | [340787-kewter-s-showroom.json](./340787-kewter-s-showroom.json) |
 | Kewtia: Crystallite Hunt | 75859 | [75859-kewtia-crystallite-hunt.json](./75859-kewtia-crystallite-hunt.json) |
+| Key | 217484 | [217484-key.json](./217484-key.json) |
 | Key 2 | 369579 | [369579-key-2.json](./369579-key-2.json) |
 | Key Defence | 122339 | [122339-key-defence.json](./122339-key-defence.json) |
 | Key Finder | 358940 | [358940-key-finder.json](./358940-key-finder.json) |
