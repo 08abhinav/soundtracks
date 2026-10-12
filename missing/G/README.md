@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galagi Shooter | 197342 | [197342-galagi-shooter.json](./197342-galagi-shooter.json) |
 | Galah Galah | 228958 | [228958-galah-galah.json](./228958-galah-galah.json) |
 | Galahad | 46595 | [46595-galahad.json](./46595-galahad.json) |
+| Galaia | 211910 | [211910-galaia.json](./211910-galaia.json) |
 | Galak Zed | 116874 | [116874-galak-zed.json](./116874-galak-zed.json) |
 | Galak-Z: The Dimensional | 11203 | [11203-galak-z-the-dimensional.json](./11203-galak-z-the-dimensional.json) |
 | Galak-Z: The Virtual | 111039 | [111039-galak-z-the-virtual.json](./111039-galak-z-the-virtual.json) |
@@ -4308,6 +4309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GonzoVR | 109865 | [109865-gonzovr.json](./109865-gonzovr.json) |
 | Gonzzalezz | 39154 | [39154-gonzzalezz.json](./39154-gonzzalezz.json) |
 | Goo Fighter | 283725 | [283725-goo-fighter.json](./283725-goo-fighter.json) |
+| Goo Gladiators | 211914 | [211914-goo-gladiators.json](./211914-goo-gladiators.json) |
 | Goo Go | 304380 | [304380-goo-go.json](./304380-goo-go.json) |
 | Goo Hunter | 333128 | [333128-goo-hunter.json](./333128-goo-hunter.json) |
 | Goo Saga | 57709 | [57709-goo-saga.json](./57709-goo-saga.json) |
@@ -5576,6 +5578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Game: TimeSwapper | 33753 | [33753-green-game-timeswapper.json](./33753-green-game-timeswapper.json) |
 | Green Garden | 226359 | [226359-green-garden.json](./226359-green-garden.json) |
 | Green Guy Goes Grappling 2 | 255065 | [255065-green-guy-goes-grappling-2.json](./255065-green-guy-goes-grappling-2.json) |
+| Green Hawk Down | 211978 | [211978-green-hawk-down.json](./211978-green-hawk-down.json) |
 | Green Hawk Platoon | 215014 | [215014-green-hawk-platoon.json](./215014-green-hawk-platoon.json) |
 | Green Heights | 322094 | [322094-green-heights.json](./322094-green-heights.json) |
 | Green Hell | 101461 | [101461-green-hell.json](./101461-green-hell.json) |
