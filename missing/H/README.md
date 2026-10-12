@@ -1283,6 +1283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harley Davidson: Race Across America | 49926 | [49926-harley-davidson-race-across-america.json](./49926-harley-davidson-race-across-america.json) |
 | Harley Pasternak's Hollywood Workout | 50963 | [50963-harley-pasternaks-hollywood-workout.json](./50963-harley-pasternaks-hollywood-workout.json) |
 | Harley-Davidson & L.A. Riders | 39479 | [39479-harley-davidson-and-l-a-riders.json](./39479-harley-davidson-and-l-a-riders.json) |
+| Harley-Davidson Motorcycles: Road to Daytona | 198752 | [198752-harley-davidson-motorcycles-road-to-daytona.json](./198752-harley-davidson-motorcycles-road-to-daytona.json) |
 | Harley-Davidson: Race to the Rally | 66341 | [66341-harley-davidson-race-to-the-rally.json](./66341-harley-davidson-race-to-the-rally.json) |
 | Harley-Davidson: The Road to Sturgis | 12137 | [12137-harley-davidson-the-road-to-sturgis.json](./12137-harley-davidson-the-road-to-sturgis.json) |
 | Harlow | 151023 | [151023-harlow.json](./151023-harlow.json) |
@@ -1370,17 +1371,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter and the Sorcerer's Stone | 112660 | [112660-harry-potter-and-the-sorcerers-stone.json](./112660-harry-potter-and-the-sorcerers-stone.json) |
 | Harry Potter and the Sorcerer's Stone | 118554 | [118554-harry-potter-and-the-sorcerers-stone.json](./118554-harry-potter-and-the-sorcerers-stone.json) |
 | Harry Potter and the Sorcerer's Stone: Third-Floor Corridor Challenge | 266498 | [266498-harry-potter-and-the-sorcerers-stone-third-floor-corridor-challenge.json](./266498-harry-potter-and-the-sorcerers-stone-third-floor-corridor-challenge.json) |
+| Harry Potter Book of Spells | 198753 | [198753-harry-potter-book-of-spells.json](./198753-harry-potter-book-of-spells.json) |
 | Harry Potter Collection | 286660 | [286660-harry-potter-collection.json](./286660-harry-potter-collection.json) |
 | Harry Potter DVD Game: Wizarding World | 266196 | [266196-harry-potter-dvd-game-wizarding-world.json](./266196-harry-potter-dvd-game-wizarding-world.json) |
+| Harry Potter Fluffy Action Game | 198754 | [198754-harry-potter-fluffy-action-game.json](./198754-harry-potter-fluffy-action-game.json) |
 | Harry Potter for Kinect | 20743 | [20743-harry-potter-for-kinect.json](./20743-harry-potter-for-kinect.json) |
 | Harry Potter Interactive DVD Game: Hogwarts Challenge | 266195 | [266195-harry-potter-interactive-dvd-game-hogwarts-challenge.json](./266195-harry-potter-interactive-dvd-game-hogwarts-challenge.json) |
 | Harry Potter Interactive Watch | 238009 | [238009-harry-potter-interactive-watch.json](./238009-harry-potter-interactive-watch.json) |
+| Harry Potter Labyrinth | 198755 | [198755-harry-potter-labyrinth.json](./198755-harry-potter-labyrinth.json) |
 | Harry Potter Puzzles & Spells | 139256 | [139256-harry-potter-puzzles-and-spells.json](./139256-harry-potter-puzzles-and-spells.json) |
 | Harry Potter Quidditch Champions: Firebolt Supreme Broom Skin | 316066 | [316066-harry-potter-quidditch-champions-firebolt-supreme-broom-skin.json](./316066-harry-potter-quidditch-champions-firebolt-supreme-broom-skin.json) |
 | Harry Potter RPG | 141244 | [141244-harry-potter-rpg.json](./141244-harry-potter-rpg.json) |
 | Harry Potter Tamagotchi | 251591 | [251591-harry-potter-tamagotchi.json](./251591-harry-potter-tamagotchi.json) |
+| Harry Potter: Electronic Quidditch Game | 198758 | [198758-harry-potter-electronic-quidditch-game.json](./198758-harry-potter-electronic-quidditch-game.json) |
+| Harry Potter: LED Force Feel Game | 198759 | [198759-harry-potter-led-force-feel-game.json](./198759-harry-potter-led-force-feel-game.json) |
 | Harry Potter: Magic Awakened | 125209 | [125209-harry-potter-magic-awakened.json](./125209-harry-potter-magic-awakened.json) |
 | Harry Potter: Mastering Magic | 266200 | [266200-harry-potter-mastering-magic.json](./266200-harry-potter-mastering-magic.json) |
+| Harry Potter: Mini Action Game - Harry Potter | 198757 | [198757-harry-potter-mini-action-game-harry-potter.json](./198757-harry-potter-mini-action-game-harry-potter.json) |
 | Harry Potter: Quidditch Champions | 246166 | [246166-harry-potter-quidditch-champions.json](./246166-harry-potter-quidditch-champions.json) |
 | Harry Potter: Quidditch Champions - Deluxe Edition | 318003 | [318003-harry-potter-quidditch-champions-deluxe-edition.json](./318003-harry-potter-quidditch-champions-deluxe-edition.json) |
 | Harry Potter: Quidditch Champions - Deluxe Pack | 328987 | [328987-harry-potter-quidditch-champions-deluxe-pack.json](./328987-harry-potter-quidditch-champions-deluxe-pack.json) |
@@ -2285,6 +2292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeavenX | 339841 | [339841-heavenx.json](./339841-heavenx.json) |
 | Heavy Armored Assassin | 241287 | [241287-heavy-armored-assassin.json](./241287-heavy-armored-assassin.json) |
 | Heavy As Stone | 322601 | [322601-heavy-as-stone.json](./322601-heavy-as-stone.json) |
+| Heavy Barrel | 198760 | [198760-heavy-barrel.json](./198760-heavy-barrel.json) |
 | Heavy Barrel | 412812 | [412812-heavy-barrel.json](./412812-heavy-barrel.json) |
 | Heavy Barrel | 46776 | [46776-heavy-barrel.json](./46776-heavy-barrel.json) |
 | Heavy Blade | 98764 | [98764-heavy-blade.json](./98764-heavy-blade.json) |
@@ -5642,6 +5650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollywood Pictures II | 53208 | [53208-hollywood-pictures-ii.json](./53208-hollywood-pictures-ii.json) |
 | Hollywood Pinball | 49862 | [49862-hollywood-pinball.json](./49862-hollywood-pinball.json) |
 | Hollywood Poker Pro | 75232 | [75232-hollywood-poker-pro.json](./75232-hollywood-poker-pro.json) |
+| Hollywood Squares | 198761 | [198761-hollywood-squares.json](./198761-hollywood-squares.json) |
 | Hollywood Squares | 48056 | [48056-hollywood-squares.json](./48056-hollywood-squares.json) |
 | Hollywood Squares | 52194 | [52194-hollywood-squares.json](./52194-hollywood-squares.json) |
 | Hollywood Tycoon | 67958 | [67958-hollywood-tycoon.json](./67958-hollywood-tycoon.json) |
@@ -5760,6 +5769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Alone | 4523 | [4523-home-alone.json](./4523-home-alone.json) |
 | Home Alone | 78598 | [78598-home-alone.json](./78598-home-alone.json) |
 | Home Alone | 78599 | [78599-home-alone.json](./78599-home-alone.json) |
+| Home Alone 2: Lost in New York | 198762 | [198762-home-alone-2-lost-in-new-york.json](./198762-home-alone-2-lost-in-new-york.json) |
 | Home Alone 2: Lost in New York | 243884 | [243884-home-alone-2-lost-in-new-york.json](./243884-home-alone-2-lost-in-new-york.json) |
 | Home Alone Girlfriend | 76943 | [76943-home-alone-girlfriend.json](./76943-home-alone-girlfriend.json) |
 | Home Alone Survival | 365062 | [365062-home-alone-survival.json](./365062-home-alone-survival.json) |
