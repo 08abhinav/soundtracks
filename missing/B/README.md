@@ -9996,6 +9996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Age: The Complete Adventure | 20865 | [20865-broken-age-the-complete-adventure.json](./20865-broken-age-the-complete-adventure.json) |
 | Broken Armor | 31900 | [31900-broken-armor.json](./31900-broken-armor.json) |
 | Broken Banners | 192839 | [192839-broken-banners.json](./192839-broken-banners.json) |
+| Broken Bird: Spread Your Wings | 210320 | [210320-broken-bird-spread-your-wings.json](./210320-broken-bird-spread-your-wings.json) |
 | Broken Blades | 152787 | [152787-broken-blades.json](./152787-broken-blades.json) |
 | Broken Bots | 19681 | [19681-broken-bots.json](./19681-broken-bots.json) |
 | Broken Boughs | 218993 | [218993-broken-boughs.json](./218993-broken-boughs.json) |
@@ -10401,6 +10402,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Struggle II: Rebubbled | 116257 | [116257-bubble-struggle-ii-rebubbled.json](./116257-bubble-struggle-ii-rebubbled.json) |
 | Bubble Surge | 343858 | [343858-bubble-surge.json](./343858-bubble-surge.json) |
 | Bubble Tanks | 210285 | [210285-bubble-tanks.json](./210285-bubble-tanks.json) |
+| Bubble Tanks 3 | 210291 | [210291-bubble-tanks-3.json](./210291-bubble-tanks-3.json) |
+| Bubble Tanks Arenas | 210293 | [210293-bubble-tanks-arenas.json](./210293-bubble-tanks-arenas.json) |
+| Bubble Tanks II | 210290 | [210290-bubble-tanks-ii.json](./210290-bubble-tanks-ii.json) |
 | Bubble Tanks TD 2 | 342251 | [342251-bubble-tanks-td-2.json](./342251-bubble-tanks-td-2.json) |
 | Bubble Tanks Tower Defense | 234700 | [234700-bubble-tanks-tower-defense.json](./234700-bubble-tanks-tower-defense.json) |
 | Bubble Tanks Tower Defense 1.5 | 234703 | [234703-bubble-tanks-tower-defense-1-5.json](./234703-bubble-tanks-tower-defense-1-5.json) |
@@ -10591,6 +10595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Village | 94203 | [94203-bug-village.json](./94203-bug-village.json) |
 | Bug World | 14472 | [14472-bug-world.json](./14472-bug-world.json) |
 | Bug-o-Buster | 322985 | [322985-bug-o-buster.json](./322985-bug-o-buster.json) |
+| Bug-Off! | 210321 | [210321-bug-off.json](./210321-bug-off.json) |
 | Bug: Beetles Underground | 254999 | [254999-bug-beetles-underground.json](./254999-bug-beetles-underground.json) |
 | Bug’s Quest for Tapes | 354570 | [354570-bug-s-quest-for-tapes.json](./354570-bug-s-quest-for-tapes.json) |
 | Bug×Bug | 285389 | [285389-bug-bug.json](./285389-bug-bug.json) |
@@ -10954,6 +10959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bun Buns: Cute DLC | 395689 | [395689-bun-buns-cute-dlc.json](./395689-bun-buns-cute-dlc.json) |
 | Bun Wars: Best of fun for Boys Girls and Kids | 101533 | [101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json](./101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json) |
 | Buna Wants Beer | 318525 | [318525-buna-wants-beer.json](./318525-buna-wants-beer.json) |
+| Bunbons | 210322 | [210322-bunbons.json](./210322-bunbons.json) |
 | Bunch of Heroes: Holiday Pack | 226274 | [226274-bunch-of-heroes-holiday-pack.json](./226274-bunch-of-heroes-holiday-pack.json) |
 | Bunches For Bart! | 297795 | [297795-bunches-for-bart.json](./297795-bunches-for-bart.json) |
 | Buncho: The Lost Bird | 185419 | [185419-buncho-the-lost-bird.json](./185419-buncho-the-lost-bird.json) |
