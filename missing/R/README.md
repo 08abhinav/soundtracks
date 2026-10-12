@@ -513,7 +513,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raev: Kingdom on the Distant Shores | 336154 | [336154-raev-kingdom-on-the-distant-shores.json](./336154-raev-kingdom-on-the-distant-shores.json) |
 | Rafa's World + Axolotl + Cat Milk | 242658 | [242658-rafas-world-axolotl-cat-milk.json](./242658-rafas-world-axolotl-cat-milk.json) |
 | Rafflesia | 40167 | [40167-rafflesia.json](./40167-rafflesia.json) |
-| Raft | 27082 | [27082-raft.json](./27082-raft.json) |
 | Raft Life | 203704 | [203704-raft-life.json](./203704-raft-life.json) |
 | Raft Rider | 22819 | [22819-raft-rider.json](./22819-raft-rider.json) |
 | Raft Survival | 193810 | [193810-raft-survival.json](./193810-raft-survival.json) |
