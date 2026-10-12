@@ -6800,7 +6800,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clusterball | 10349 | [10349-clusterball.json](./10349-clusterball.json) |
 | Clusterball Arcade | 63838 | [63838-clusterball-arcade.json](./63838-clusterball-arcade.json) |
 | Clusterduck | 194667 | [194667-clusterduck.json](./194667-clusterduck.json) |
-| Clustertruck | 18484 | [18484-clustertruck.json](./18484-clustertruck.json) |
 | Clutch | 16049 | [16049-clutch.json](./16049-clutch.json) |
 | Clutch Hitter | 369246 | [369246-clutch-hitter.json](./369246-clutch-hitter.json) |
 | Clutter 17: Flower Power - Collector's Edition | 338869 | [338869-clutter-17-flower-power-collectors-edition.json](./338869-clutter-17-flower-power-collectors-edition.json) |
