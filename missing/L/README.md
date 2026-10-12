@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady in tomb: Beneath the ocean | 220749 | [220749-lady-in-tomb-beneath-the-ocean.json](./220749-lady-in-tomb-beneath-the-ocean.json) |
 | Lady Killer | 40338 | [40338-lady-killer.json](./40338-lady-killer.json) |
 | Lady Knight Quest | 341095 | [341095-lady-knight-quest.json](./341095-lady-knight-quest.json) |
+| Lady of Dreams | 215337 | [215337-lady-of-dreams.json](./215337-lady-of-dreams.json) |
 | Lady Pac | 185165 | [185165-lady-pac.json](./185165-lady-pac.json) |
 | Lady Popular: Fashion Arena | 351050 | [351050-lady-popular-fashion-arena.json](./351050-lady-popular-fashion-arena.json) |
 | Lady Rose Wardrobe | 398639 | [398639-lady-rose-wardrobe.json](./398639-lady-rose-wardrobe.json) |
@@ -932,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Ruler of Vicissity | 236173 | [236173-last-ruler-of-vicissity.json](./236173-last-ruler-of-vicissity.json) |
 | Last Salvo | 76651 | [76651-last-salvo.json](./76651-last-salvo.json) |
 | Last Sapiens | 216471 | [216471-last-sapiens.json](./216471-last-sapiens.json) |
+| Last Second | 215338 | [215338-last-second.json](./215338-last-second.json) |
 | Last Second Save | 382898 | [382898-last-second-save.json](./382898-last-second-save.json) |
 | Last Seen Online | 281011 | [281011-last-seen-online.json](./281011-last-seen-online.json) |
 | Last Shape Standing | 164910 | [164910-last-shape-standing.json](./164910-last-shape-standing.json) |
@@ -1631,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Edda | 66401 | [66401-legend-of-edda.json](./66401-legend-of-edda.json) |
 | Legend of Edda Brasil | 235639 | [235639-legend-of-edda-brasil.json](./235639-legend-of-edda-brasil.json) |
 | Legend of Eeeg | 107643 | [107643-legend-of-eeeg.json](./107643-legend-of-eeeg.json) |
+| Legend of Egypt: Pharaohs Garden 2 - The sacred crocodile | 215339 | [215339-legend-of-egypt-pharaohs-garden-2-the-sacred-crocodile.json](./215339-legend-of-egypt-pharaohs-garden-2-the-sacred-crocodile.json) |
 | Legend of Empress | 255118 | [255118-legend-of-empress.json](./255118-legend-of-empress.json) |
 | Legend of Fae | 16262 | [16262-legend-of-fae.json](./16262-legend-of-fae.json) |
 | Legend of Fairies | 73814 | [73814-legend-of-fairies.json](./73814-legend-of-fairies.json) |
@@ -2806,6 +2809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life & Shadow: Celestial Call | 348444 | [348444-life-and-shadow-celestial-call.json](./348444-life-and-shadow-celestial-call.json) |
 | Life 2047 Escape Simulator | 376086 | [376086-life-2047-escape-simulator.json](./376086-life-2047-escape-simulator.json) |
 | Life after Death | 211110 | [211110-life-after-death.json](./211110-life-after-death.json) |
+| Life After Death | 215340 | [215340-life-after-death.json](./215340-life-after-death.json) |
 | Life After End | 233957 | [233957-life-after-end.json](./233957-life-after-end.json) |
 | Life After Magic | 215863 | [215863-life-after-magic.json](./215863-life-after-magic.json) |
 | Life And Death Are Predetermined by Heaven | 330555 | [330555-life-and-death-are-predetermined-by-heaven.json](./330555-life-and-death-are-predetermined-by-heaven.json) |
@@ -4986,6 +4990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lose 95 | 201112 | [201112-lose-95.json](./201112-lose-95.json) |
 | Lose Control | 178632 | [178632-lose-control.json](./178632-lose-control.json) |
 | Lose Control | 380642 | [380642-lose-control.json](./380642-lose-control.json) |
+| Lose Ctrl | 215341 | [215341-lose-ctrl.json](./215341-lose-ctrl.json) |
 | Lose Grace Tale | 358478 | [358478-lose-grace-tale.json](./358478-lose-grace-tale.json) |
 | Lose Your Head | 179125 | [179125-lose-your-head.json](./179125-lose-your-head.json) |
 | Lose Your Head Deluxe Bundle | 164810 | [164810-lose-your-head-deluxe-bundle.json](./164810-lose-your-head-deluxe-bundle.json) |
