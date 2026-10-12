@@ -639,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MageTrain | 338350 | [338350-magetrain.json](./338350-magetrain.json) |
 | MagFighter | 295354 | [295354-magfighter.json](./295354-magfighter.json) |
 | Maggie's Apartment | 50504 | [50504-maggies-apartment.json](./50504-maggies-apartment.json) |
+| Maggie's Grinning Soul | 182145 | [182145-maggies-grinning-soul.json](./182145-maggies-grinning-soul.json) |
 | Maggie's Movies - Camera, Action! | 61879 | [61879-maggies-movies-camera-action.json](./61879-maggies-movies-camera-action.json) |
 | Maggie's Movies: Second Shot | 132789 | [132789-maggies-movies-second-shot.json](./132789-maggies-movies-second-shot.json) |
 | Maggie's Rainy Ride | 375334 | [375334-maggies-rainy-ride.json](./375334-maggies-rainy-ride.json) |
@@ -1990,6 +1991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mania Fish | 188069 | [188069-mania-fish.json](./188069-mania-fish.json) |
 | Mania Quiz | 101106 | [101106-mania-quiz.json](./101106-mania-quiz.json) |
 | Maniac | 229814 | [229814-maniac.json](./229814-maniac.json) |
+| Maniac Inc. | 182162 | [182162-maniac-inc.json](./182162-maniac-inc.json) |
 | Maniac Jackson and the Moonwalking Mindbenders | 93035 | [93035-maniac-jackson-and-the-moonwalking-mindbenders.json](./93035-maniac-jackson-and-the-moonwalking-mindbenders.json) |
 | Maniac Mansion | 307416 | [307416-maniac-mansion.json](./307416-maniac-mansion.json) |
 | Maniac Mansion 4 Blood | 276381 | [276381-maniac-mansion-4-blood.json](./276381-maniac-mansion-4-blood.json) |
@@ -11746,6 +11748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moving Day | 75793 | [75793-moving-day.json](./75793-moving-day.json) |
 | Moving Day: Make It Home | 389417 | [389417-moving-day-make-it-home.json](./389417-moving-day-make-it-home.json) |
 | Moving Forward with Cat | 343221 | [343221-moving-forward-with-cat.json](./343221-moving-forward-with-cat.json) |
+| Moving In | 182158 | [182158-moving-in.json](./182158-moving-in.json) |
 | Moving Letters | 157512 | [157512-moving-letters.json](./157512-moving-letters.json) |
 | Moving On | 202712 | [202712-moving-on.json](./202712-moving-on.json) |
 | Moving On | 303075 | [303075-moving-on.json](./303075-moving-on.json) |
@@ -12297,6 +12300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiplayer RPG | 307737 | [307737-multiplayer-rpg.json](./307737-multiplayer-rpg.json) |
 | Multiplayer Spiders | 296362 | [296362-multiplayer-spiders.json](./296362-multiplayer-spiders.json) |
 | Multiplayer Survivors | 307738 | [307738-multiplayer-survivors.json](./307738-multiplayer-survivors.json) |
+| Multiplayer Table Football | 182159 | [182159-multiplayer-table-football.json](./182159-multiplayer-table-football.json) |
 | Multiplayer Turtles | 249330 | [249330-multiplayer-turtles.json](./249330-multiplayer-turtles.json) |
 | Multiplayer Wizards | 304820 | [304820-multiplayer-wizards.json](./304820-multiplayer-wizards.json) |
 | Multiplayer.Golf | 205657 | [205657-multiplayer-golf.json](./205657-multiplayer-golf.json) |
@@ -13993,6 +13997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Tales: Art and Souls | 187922 | [187922-mystery-tales-art-and-souls.json](./187922-mystery-tales-art-and-souls.json) |
 | Mystery Tales: Her Own Eyes HD - A Hidden Object Mystery (Full) | 90065 | [90065-mystery-tales-her-own-eyes-hd-a-hidden-object-mystery-full.json](./90065-mystery-tales-her-own-eyes-hd-a-hidden-object-mystery-full.json) |
 | Mystery Tales: Master of Puppets | 187948 | [187948-mystery-tales-master-of-puppets.json](./187948-mystery-tales-master-of-puppets.json) |
+| Mystery Tales: The House of Others | 181645 | [181645-mystery-tales-the-house-of-others.json](./181645-mystery-tales-the-house-of-others.json) |
 | Mystery Tales: The Twilight World - Collector's Edition | 74994 | [74994-mystery-tales-the-twilight-world-collectors-edition.json](./74994-mystery-tales-the-twilight-world-collectors-edition.json) |
 | Mystery Tapes | 79536 | [79536-mystery-tapes.json](./79536-mystery-tapes.json) |
 | Mystery Tiles Premium | 100958 | [100958-mystery-tiles-premium.json](./100958-mystery-tiles-premium.json) |
@@ -14090,6 +14095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Totem | 246355 | [246355-mystic-totem.json](./246355-mystic-totem.json) |
 | Mystic Tower Legends | 341354 | [341354-mystic-tower-legends.json](./341354-mystic-tower-legends.json) |
 | Mystic Towers | 2519 | [2519-mystic-towers.json](./2519-mystic-towers.json) |
+| Mystic Tribes | 182185 | [182185-mystic-tribes.json](./182185-mystic-tribes.json) |
 | Mystic Vale: Mana Storm | 170956 | [170956-mystic-vale-mana-storm.json](./170956-mystic-vale-mana-storm.json) |
 | Mystic Vale: Vale of Magic | 170955 | [170955-mystic-vale-vale-of-magic.json](./170955-mystic-vale-vale-of-magic.json) |
 | Mystic Vale: Vale of the Wild | 170957 | [170957-mystic-vale-vale-of-the-wild.json](./170957-mystic-vale-vale-of-the-wild.json) |
