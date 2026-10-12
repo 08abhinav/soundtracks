@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oblitus | 17523 | [17523-oblitus.json](./17523-oblitus.json) |
 | Oblitus Casa | 231425 | [231425-oblitus-casa.json](./231425-oblitus-casa.json) |
 | Oblitus Mortis | 336918 | [336918-oblitus-mortis.json](./336918-oblitus-mortis.json) |
+| Oblivio | 182771 | [182771-oblivio.json](./182771-oblivio.json) |
 | Oblivion | 77199 | [77199-oblivion.json](./77199-oblivion.json) |
 | Oblivion Congee | 183579 | [183579-oblivion-congee.json](./183579-oblivion-congee.json) |
 | Oblivion Dreams | 375412 | [375412-oblivion-dreams.json](./375412-oblivion-dreams.json) |
@@ -725,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh Crab! | 129573 | [129573-oh-crab.json](./129573-oh-crab.json) |
 | Oh Deer | 285913 | [285913-oh-deer.json](./285913-oh-deer.json) |
 | Oh Frog | 132242 | [132242-oh-frog.json](./132242-oh-frog.json) |
+| Oh High! | 182785 | [182785-oh-high.json](./182785-oh-high.json) |
 | Oh Jeez, Oh No, My Rabbits Are Gone! | 127201 | [127201-oh-jeez-oh-no-my-rabbits-are-gone.json](./127201-oh-jeez-oh-no-my-rabbits-are-gone.json) |
 | Oh Jellies! | 398442 | [398442-oh-jellies.json](./398442-oh-jellies.json) |
 | Oh Mummy | 13022 | [13022-oh-mummy.json](./13022-oh-mummy.json) |
@@ -760,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh Ship Arena | 107756 | [107756-oh-ship-arena.json](./107756-oh-ship-arena.json) |
 | Oh Ship! | 399593 | [399593-oh-ship.json](./399593-oh-ship.json) |
 | Oh Shit Boulder | 211691 | [211691-oh-shit-boulder.json](./211691-oh-shit-boulder.json) |
+| Oh Snake! | 182780 | [182780-oh-snake.json](./182780-oh-snake.json) |
 | Oh Snap | 92086 | [92086-oh-snap.json](./92086-oh-snap.json) |
 | Oh Snow! | 408051 | [408051-oh-snow.json](./408051-oh-snow.json) |
 | Oh That's Why | 381951 | [381951-oh-thats-why.json](./381951-oh-thats-why.json) |
