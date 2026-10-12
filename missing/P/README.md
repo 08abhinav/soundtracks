@@ -4810,6 +4810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pippu: Bauble Quest | 165602 | [165602-pippu-bauble-quest.json](./165602-pippu-bauble-quest.json) |
 | Pips | 362932 | [362932-pips.json](./362932-pips.json) |
 | Pipsqueak! | 304306 | [304306-pipsqueak.json](./304306-pipsqueak.json) |
+| Pipyakas | 216396 | [216396-pipyakas.json](./216396-pipyakas.json) |
 | Piquant Bathing | 111575 | [111575-piquant-bathing.json](./111575-piquant-bathing.json) |
 | Pir-Crew | 176783 | [176783-pir-crew.json](./176783-pir-crew.json) |
 | Piradice | 176290 | [176290-piradice.json](./176290-piradice.json) |
@@ -6667,6 +6668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocketing the Ball | 294126 | [294126-pocketing-the-ball.json](./294126-pocketing-the-ball.json) |
 | Pocketman Teal | 181232 | [181232-pocketman-teal.json](./181232-pocketman-teal.json) |
 | Pocketon Peak | 181686 | [181686-pocketon-peak.json](./181686-pocketon-peak.json) |
+| PocketShooting | 216437 | [216437-pocketshooting.json](./216437-pocketshooting.json) |
 | PocketSports Football HD | 64684 | [64684-pocketsports-football-hd.json](./64684-pocketsports-football-hd.json) |
 | PocketWarwick | 64345 | [64345-pocketwarwick.json](./64345-pocketwarwick.json) |
 | Pockey | 81177 | [81177-pockey.json](./81177-pockey.json) |
@@ -9795,6 +9797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Aeroes | 330342 | [330342-project-aeroes.json](./330342-project-aeroes.json) |
 | Project Aftershock | 94753 | [94753-project-aftershock.json](./94753-project-aftershock.json) |
 | Project Agora | 140326 | [140326-project-agora.json](./140326-project-agora.json) |
+| Project Alex | 216400 | [216400-project-alex.json](./216400-project-alex.json) |
 | Project Alpha | 324347 | [324347-project-alpha.json](./324347-project-alpha.json) |
 | Project Alpha 002 | 30943 | [30943-project-alpha-002.json](./30943-project-alpha-002.json) |
 | Project Angels | 203310 | [203310-project-angels.json](./203310-project-angels.json) |
