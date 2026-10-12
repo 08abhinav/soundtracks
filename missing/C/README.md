@@ -877,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Trail | 359335 | [359335-candy-trail.json](./359335-candy-trail.json) |
 | Candy Tycoon | 236517 | [236517-candy-tycoon.json](./236517-candy-tycoon.json) |
 | Candy War | 402991 | [402991-candy-war.json](./402991-candy-war.json) |
+| Candy Wrapper | 184297 | [184297-candy-wrapper.json](./184297-candy-wrapper.json) |
 | Candy Zero | 249313 | [249313-candy-zero.json](./249313-candy-zero.json) |
 | Candy, Please! | 57157 | [57157-candy-please.json](./57157-candy-please.json) |
 | Candybox: Mobile | 402348 | [402348-candybox-mobile.json](./402348-candybox-mobile.json) |
@@ -1076,6 +1077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cappuccino: The Refill | 271781 | [271781-cappuccino-the-refill.json](./271781-cappuccino-the-refill.json) |
 | Cappuchino Spoontforce Deluxe VI: Girl of the Boiling Fury | 181872 | [181872-cappuchino-spoontforce-deluxe-vi-girl-of-the-boiling-fury.json](./181872-cappuchino-spoontforce-deluxe-vi-girl-of-the-boiling-fury.json) |
 | Capria: Magic of the Elements | 33142 | [33142-capria-magic-of-the-elements.json](./33142-capria-magic-of-the-elements.json) |
+| Capricious | 183824 | [183824-capricious.json](./183824-capricious.json) |
 | Capsella: The Lights of Lucerne | 103501 | [103501-capsella-the-lights-of-lucerne.json](./103501-capsella-the-lights-of-lucerne.json) |
 | Capsize | 122403 | [122403-capsize.json](./122403-capsize.json) |
 | Capsized | 3050 | [3050-capsized.json](./3050-capsized.json) |
@@ -1155,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Prosper | 158122 | [158122-captain-prosper.json](./158122-captain-prosper.json) |
 | Captain Puff MacFly | 361728 | [361728-captain-puff-macfly.json](./361728-captain-puff-macfly.json) |
 | Captain Quazar | 39015 | [39015-captain-quazar.json](./39015-captain-quazar.json) |
+| Captain Rixot: Lost on Enceladus | 183840 | [183840-captain-rixot-lost-on-enceladus.json](./183840-captain-rixot-lost-on-enceladus.json) |
 | Captain Rocket | 344959 | [344959-captain-rocket.json](./344959-captain-rocket.json) |
 | Captain Scarlet | 83233 | [83233-captain-scarlet.json](./83233-captain-scarlet.json) |
 | Captain Slog | 60636 | [60636-captain-slog.json](./60636-captain-slog.json) |
@@ -1971,6 +1974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cash Sprint | 384674 | [384674-cash-sprint.json](./384674-cash-sprint.json) |
 | Cash Wash Simulator | 351092 | [351092-cash-wash-simulator.json](./351092-cash-wash-simulator.json) |
 | Cash_Out | 35167 | [35167-cash-out.json](./35167-cash-out.json) |
+| Cashand Case | 183822 | [183822-cashand-case.json](./183822-cashand-case.json) |
 | CashGrab | 368686 | [368686-cashgrab.json](./368686-cashgrab.json) |
 | CashGrab: Refunded | 350952 | [350952-cashgrab-refunded.json](./350952-cashgrab-refunded.json) |
 | Cashier of Grocery Shop: Profession | 102772 | [102772-cashier-of-grocery-shop-profession.json](./102772-cashier-of-grocery-shop-profession.json) |
@@ -2729,6 +2733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caterpillar: Adventures in Time | 206094 | [206094-caterpillar-adventures-in-time.json](./206094-caterpillar-adventures-in-time.json) |
 | Caterra | 224079 | [224079-caterra.json](./224079-caterra.json) |
 | Caterva: Outsider Dreams | 412535 | [412535-caterva-outsider-dreams.json](./412535-caterva-outsider-dreams.json) |
+| Caterwaul | 184347 | [184347-caterwaul.json](./184347-caterwaul.json) |
 | Caterzillar | 82950 | [82950-caterzillar.json](./82950-caterzillar.json) |
 | Catetris | 419899 | [419899-catetris.json](./419899-catetris.json) |
 | Catfender | 109871 | [109871-catfender.json](./109871-catfender.json) |
@@ -5477,6 +5482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cigar Break | 323813 | [323813-cigar-break.json](./323813-cigar-break.json) |
 | Cigarette Quest | 229829 | [229829-cigarette-quest.json](./229829-cigarette-quest.json) |
 | Ciggy World | 314299 | [314299-ciggy-world.json](./314299-ciggy-world.json) |
+| Ciikos Bridge | 183815 | [183815-ciikos-bridge.json](./183815-ciikos-bridge.json) |
 | Cǐkè Tànsuǒ Zhōng | 156705 | [156705-cike-tansuo-zhong.json](./156705-cike-tansuo-zhong.json) |
 | Cinco Noches en Casa Rosada | 327222 | [327222-cinco-noches-en-casa-rosada.json](./327222-cinco-noches-en-casa-rosada.json) |
 | Cinco Noches en Casa Rosada 2 | 353900 | [353900-cinco-noches-en-casa-rosada-2.json](./353900-cinco-noches-en-casa-rosada-2.json) |
@@ -8455,6 +8461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confined Space | 415101 | [415101-confined-space.json](./415101-confined-space.json) |
 | Confined: Leaving OKB-134 | 291489 | [291489-confined-leaving-okb-134.json](./291489-confined-leaving-okb-134.json) |
 | Confinement Community Project | 312891 | [312891-confinement-community-project.json](./312891-confinement-community-project.json) |
+| Confinium | 184336 | [184336-confinium.json](./184336-confinium.json) |
 | Confiscator | 292235 | [292235-confiscator.json](./292235-confiscator.json) |
 | Conflagrant Rodent | 271815 | [271815-conflagrant-rodent.json](./271815-conflagrant-rodent.json) |
 | Conflicks - Revolutionary Space Battles | 17195 | [17195-conflicks-revolutionary-space-battles.json](./17195-conflicks-revolutionary-space-battles.json) |
@@ -10167,6 +10174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crafty Fox | 181328 | [181328-crafty-fox.json](./181328-crafty-fox.json) |
 | Crafty Lands | 249462 | [249462-crafty-lands.json](./249462-crafty-lands.json) |
 | Crafty Racer | 285481 | [285481-crafty-racer.json](./285481-crafty-racer.json) |
+| CraftyCounty | 184349 | [184349-craftycounty.json](./184349-craftycounty.json) |
 | CragEx-5 | 346125 | [346125-cragex-5.json](./346125-cragex-5.json) |
 | Craggenrock | 207498 | [207498-craggenrock.json](./207498-craggenrock.json) |
 | Craggfall | 415157 | [415157-craggfall.json](./415157-craggfall.json) |
@@ -10365,6 +10373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashbots | 109627 | [109627-crashbots.json](./109627-crashbots.json) |
 | Crashday: Redline Edition | 50093 | [50093-crashday-redline-edition.json](./50093-crashday-redline-edition.json) |
 | Crashed | 329598 | [329598-crashed.json](./329598-crashed.json) |
+| Crashed Bandicoot | 184342 | [184342-crashed-bandicoot.json](./184342-crashed-bandicoot.json) |
 | Crashimals | 120893 | [120893-crashimals.json](./120893-crashimals.json) |
 | Crashimals | 268931 | [268931-crashimals.json](./268931-crashimals.json) |
 | Crashing Race | 172598 | [172598-crashing-race.json](./172598-crashing-race.json) |
@@ -11992,6 +12001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthulhu: Frozen Nightmare | 135269 | [135269-cthulhu-frozen-nightmare.json](./135269-cthulhu-frozen-nightmare.json) |
 | Cthulhu: The Cosmic Abyss - Sanity Skin Pack | 402540 | [402540-cthulhu-the-cosmic-abyss-sanity-skin-pack.json](./402540-cthulhu-the-cosmic-abyss-sanity-skin-pack.json) |
 | Cthulhu's Reach: Devil Reef | 258013 | [258013-cthulhus-reach-devil-reef.json](./258013-cthulhus-reach-devil-reef.json) |
+| Cthulhu's Spelling Bee | 183813 | [183813-cthulhus-spelling-bee.json](./183813-cthulhus-spelling-bee.json) |
 | Cthuloop | 381119 | [381119-cthuloop.json](./381119-cthuloop.json) |
 | Cthuloot | 235448 | [235448-cthuloot.json](./235448-cthuloot.json) |
 | CTR: St. Patrick's Day Racing | 399179 | [399179-ctr-st-patricks-day-racing.json](./399179-ctr-st-patricks-day-racing.json) |
@@ -12404,6 +12414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuphead & The Delicious Last Course | 210917 | [210917-cuphead-and-the-delicious-last-course.json](./210917-cuphead-and-the-delicious-last-course.json) |
 | Cuphead Wii U | 357448 | [357448-cuphead-wii-u.json](./357448-cuphead-wii-u.json) |
 | Cuphead: Collector's Edition | 224179 | [224179-cuphead-collectors-edition.json](./224179-cuphead-collectors-edition.json) |
+| Cuphead: Game and Watch Edition | 184311 | [184311-cuphead-game-and-watch-edition.json](./184311-cuphead-game-and-watch-edition.json) |
 | Cupiclaw | 302430 | [302430-cupiclaw.json](./302430-cupiclaw.json) |
 | Cupid | 253362 | [253362-cupid.json](./253362-cupid.json) |
 | Cupid Bistro!! | 72659 | [72659-cupid-bistro.json](./72659-cupid-bistro.json) |
