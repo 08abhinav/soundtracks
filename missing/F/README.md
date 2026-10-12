@@ -649,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall of the Space Core, Vol. 1 | 392847 | [392847-fall-of-the-space-core-vol-1.json](./392847-fall-of-the-space-core-vol-1.json) |
 | Fall Platform | 320536 | [320536-fall-platform.json](./320536-fall-platform.json) |
 | Fall Squad Guys: Stumble Knockout Royale | 314016 | [314016-fall-squad-guys-stumble-knockout-royale.json](./314016-fall-squad-guys-stumble-knockout-royale.json) |
+| Fall Up | 188897 | [188897-fall-up.json](./188897-fall-up.json) |
 | Fall Valley | 267843 | [267843-fall-valley.json](./267843-fall-valley.json) |
 | Fall Weiss | 62205 | [62205-fall-weiss.json](./62205-fall-weiss.json) |
 | Fall Words | 296350 | [296350-fall-words.json](./296350-fall-words.json) |
@@ -1277,6 +1278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Friends: Dream Worlds | 314998 | [314998-fantasy-friends-dream-worlds.json](./314998-fantasy-friends-dream-worlds.json) |
 | Fantasy Friends: Under the Sea | 153817 | [153817-fantasy-friends-under-the-sea.json](./153817-fantasy-friends-under-the-sea.json) |
 | Fantasy Games | 319578 | [319578-fantasy-games.json](./319578-fantasy-games.json) |
+| Fantasy Gardens | 188959 | [188959-fantasy-gardens.json](./188959-fantasy-gardens.json) |
 | Fantasy General | 14417 | [14417-fantasy-general.json](./14417-fantasy-general.json) |
 | Fantasy General II: Empire Aflame | 154501 | [154501-fantasy-general-ii-empire-aflame.json](./154501-fantasy-general-ii-empire-aflame.json) |
 | Fantasy General II: Evolution | 154502 | [154502-fantasy-general-ii-evolution.json](./154502-fantasy-general-ii-evolution.json) |
@@ -3564,6 +3566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Four-Leaf Clover | 389055 | [389055-find-the-four-leaf-clover.json](./389055-find-the-four-leaf-clover.json) |
 | Find the Gnome | 96682 | [96682-find-the-gnome.json](./96682-find-the-gnome.json) |
 | Find the Gnome 2 | 197270 | [197270-find-the-gnome-2.json](./197270-find-the-gnome-2.json) |
+| Find the heart | 188955 | [188955-find-the-heart.json](./188955-find-the-heart.json) |
 | Find the Key | 224532 | [224532-find-the-key.json](./224532-find-the-key.json) |
 | Find the light | 216473 | [216473-find-the-light.json](./216473-find-the-light.json) |
 | Find the Lost Lights | 310155 | [310155-find-the-lost-lights.json](./310155-find-the-lost-lights.json) |
