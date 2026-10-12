@@ -5013,6 +5013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Time | 23050 | [23050-lords-of-time.json](./23050-lords-of-time.json) |
 | Lords of Uberdark | 65774 | [65774-lords-of-uberdark.json](./65774-lords-of-uberdark.json) |
 | Lordship | 350047 | [350047-lordship.json](./350047-lordship.json) |
+| Lore City: Alkahest | 179938 | [179938-lore-city-alkahest.json](./179938-lore-city-alkahest.json) |
 | Lore Distance Relationship | 202605 | [202605-lore-distance-relationship.json](./202605-lore-distance-relationship.json) |
 | Lore Finder | 112762 | [112762-lore-finder.json](./112762-lore-finder.json) |
 | Lore Masters: Pathfinder | 330382 | [330382-lore-masters-pathfinder.json](./330382-lore-masters-pathfinder.json) |
