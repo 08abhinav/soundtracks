@@ -1450,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 5: Resistance Edition | 83887 | [83887-far-cry-5-resistance-edition.json](./83887-far-cry-5-resistance-edition.json) |
 | Far Cry 5: The Father Edition | 83886 | [83886-far-cry-5-the-father-edition.json](./83886-far-cry-5-the-father-edition.json) |
 | Far Cry 6: Collector's Edition | 149987 | [149987-far-cry-6-collectors-edition.json](./149987-far-cry-6-collectors-edition.json) |
+| Far Cry 6: Game of the Year Edition | 220800 | [220800-far-cry-6-game-of-the-year-edition.json](./220800-far-cry-6-game-of-the-year-edition.json) |
 | Far Cry 6: Gold Edition | 136403 | [136403-far-cry-6-gold-edition.json](./136403-far-cry-6-gold-edition.json) |
 | Far Cry 6: Limited Edition | 139867 | [139867-far-cry-6-limited-edition.json](./139867-far-cry-6-limited-edition.json) |
 | Far Cry 6: Lost Between Worlds | 228591 | [228591-far-cry-6-lost-between-worlds.json](./228591-far-cry-6-lost-between-worlds.json) |
