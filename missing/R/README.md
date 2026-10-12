@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type Final 2: DLC Set 3 | 155063 | [155063-r-type-final-2-dlc-set-3.json](./155063-r-type-final-2-dlc-set-3.json) |
 | R-Type Final 2: DLC Set 5 | 193745 | [193745-r-type-final-2-dlc-set-5.json](./193745-r-type-final-2-dlc-set-5.json) |
 | R-Type Final 2: DLC Set 6 | 193746 | [193746-r-type-final-2-dlc-set-6.json](./193746-r-type-final-2-dlc-set-6.json) |
+| R-Type Final 2: DLC Set 8 | 219777 | [219777-r-type-final-2-dlc-set-8.json](./219777-r-type-final-2-dlc-set-8.json) |
 | R-Type Final 2: Limited Edition | 143057 | [143057-r-type-final-2-limited-edition.json](./143057-r-type-final-2-limited-edition.json) |
 | R-Type Final 2: Limited Edition + Special Chronicle Box Set | 143058 | [143058-r-type-final-2-limited-edition-special-chronicle-box-set.json](./143058-r-type-final-2-limited-edition-special-chronicle-box-set.json) |
 | R-Type Final 2: Ultimate Edition | 271121 | [271121-r-type-final-2-ultimate-edition.json](./271121-r-type-final-2-ultimate-edition.json) |
