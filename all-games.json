@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T11:30:25.613Z",
-  "total_soundtracks": 1515,
+  "generated_at": "2026-10-12T11:30:37.873Z",
+  "total_soundtracks": 1516,
   "games": [
     {
       "igdb_id": 7522,
@@ -16646,6 +16646,20 @@
           "album_name": "Warhammer 40,000: Space Marine 2 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5XjvjWWxv6YEFpvunulQzE",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 3101,
+      "game_name": "Wasteland 2",
+      "game_url": "https://ostdb.net/games/wasteland-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27378c8ced95dcfb1715a6455d5",
+      "albums": [
+        {
+          "album_name": "Wasteland 2 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2ssI41m1Qfm8GwZG1aJLpm",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
