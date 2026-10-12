@@ -8080,6 +8080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails through Daybreak II - Limited Edition | 313762 | [313762-the-legend-of-heroes-trails-through-daybreak-ii-limited-edition.json](./313762-the-legend-of-heroes-trails-through-daybreak-ii-limited-edition.json) |
 | The Legend of Heroes: Trails to Azure | 23323 | [23323-the-legend-of-heroes-trails-to-azure.json](./23323-the-legend-of-heroes-trails-to-azure.json) |
 | The Legend of Heroes: Trails to Azure - Deluxe Edition | 249169 | [249169-the-legend-of-heroes-trails-to-azure-deluxe-edition.json](./249169-the-legend-of-heroes-trails-to-azure-deluxe-edition.json) |
+| The Legend of Heroes: Zero no Kiseki | 192133 | [192133-the-legend-of-heroes-zero-no-kiseki.json](./192133-the-legend-of-heroes-zero-no-kiseki.json) |
 | The Legend of Iowa | 269847 | [269847-the-legend-of-iowa.json](./269847-the-legend-of-iowa.json) |
 | The Legend of Kairo | 373360 | [373360-the-legend-of-kairo.json](./373360-the-legend-of-kairo.json) |
 | The Legend of Karl | 143660 | [143660-the-legend-of-karl.json](./143660-the-legend-of-karl.json) |
@@ -10633,6 +10634,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 2: IKEA Home Stuff | 13135 | [13135-the-sims-2-ikea-home-stuff.json](./13135-the-sims-2-ikea-home-stuff.json) |
 | The Sims 2: Legacy Collection | 329955 | [329955-the-sims-2-legacy-collection.json](./329955-the-sims-2-legacy-collection.json) |
 | The Sims 2: OMGWTFBBQ | 349499 | [349499-the-sims-2-omgwtfbbq.json](./349499-the-sims-2-omgwtfbbq.json) |
+| The Sims 2: Pets | 192108 | [192108-the-sims-2-pets.json](./192108-the-sims-2-pets.json) |
+| The Sims 2: Pets | 192109 | [192109-the-sims-2-pets.json](./192109-the-sims-2-pets.json) |
 | The Sims 2: Pets | 225 | [225-the-sims-2-pets.json](./225-the-sims-2-pets.json) |
 | The Sims 2: Pets | 286683 | [286683-the-sims-2-pets.json](./286683-the-sims-2-pets.json) |
 | The Sims 2: Super Collection | 77215 | [77215-the-sims-2-super-collection.json](./77215-the-sims-2-super-collection.json) |
@@ -20515,6 +20518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuki to Taiyou no Raksharuki 2: Sabaku no Kuni no Ohime-sama | 194927 | [194927-tsuki-to-taiyou-no-raksharuki-2-sabaku-no-kuni-no-ohime-sama.json](./194927-tsuki-to-taiyou-no-raksharuki-2-sabaku-no-kuni-no-ohime-sama.json) |
 | Tsuki to Taiyou no Raksharuki: Dancers Harem | 194928 | [194928-tsuki-to-taiyou-no-raksharuki-dancers-harem.json](./194928-tsuki-to-taiyou-no-raksharuki-dancers-harem.json) |
 | Tsuki wa Kirisaku: Tantei Sagara Kyouichirou | 215191 | [215191-tsuki-wa-kirisaku-tantei-sagara-kyouichirou.json](./215191-tsuki-wa-kirisaku-tantei-sagara-kyouichirou.json) |
+| Tsuki's Odyssey | 192101 | [192101-tsukis-odyssey.json](./192101-tsukis-odyssey.json) |
 | Tsukiakari no Kan kara no Dasshutsu | 251607 | [251607-tsukiakari-no-kan-kara-no-dasshutsu.json](./251607-tsukiakari-no-kan-kara-no-dasshutsu.json) |
 | Tsukibito | 59402 | [59402-tsukibito.json](./59402-tsukibito.json) |
 | Tsukihime Plus-Disc | 144565 | [144565-tsukihime-plus-disc.json](./144565-tsukihime-plus-disc.json) |
