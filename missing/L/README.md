@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady Dracula's Mansion | 317978 | [317978-lady-draculas-mansion.json](./317978-lady-draculas-mansion.json) |
 | Lady Gaga Revenge 2 | 66039 | [66039-lady-gaga-revenge-2.json](./66039-lady-gaga-revenge-2.json) |
 | Lady Godiva: Naked Eye | 310741 | [310741-lady-godiva-naked-eye.json](./310741-lady-godiva-naked-eye.json) |
+| Lady Hunt | 192660 | [192660-lady-hunt.json](./192660-lady-hunt.json) |
 | Lady in tomb: Beneath the ocean | 220749 | [220749-lady-in-tomb-beneath-the-ocean.json](./220749-lady-in-tomb-beneath-the-ocean.json) |
 | Lady Killer | 40338 | [40338-lady-killer.json](./40338-lady-killer.json) |
 | Lady Knight Quest | 341095 | [341095-lady-knight-quest.json](./341095-lady-knight-quest.json) |
@@ -440,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Chaos Online II: Revolution | 119634 | [119634-land-of-chaos-online-ii-revolution.json](./119634-land-of-chaos-online-ii-revolution.json) |
 | Land of Chark | 141243 | [141243-land-of-chark.json](./141243-land-of-chark.json) |
 | Land Of Chasers | 278409 | [278409-land-of-chasers.json](./278409-land-of-chasers.json) |
+| Land of Foot | 192657 | [192657-land-of-foot.json](./192657-land-of-foot.json) |
 | Land of Futures | 294144 | [294144-land-of-futures.json](./294144-land-of-futures.json) |
 | Land of Ghosts | 341629 | [341629-land-of-ghosts.json](./341629-land-of-ghosts.json) |
 | Land of Glarefall | 352737 | [352737-land-of-glarefall.json](./352737-land-of-glarefall.json) |
@@ -975,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Tale | 238367 | [238367-last-tale.json](./238367-last-tale.json) |
 | Last Term | 370870 | [370870-last-term.json](./370870-last-term.json) |
 | Last Term, First Love | 391734 | [391734-last-term-first-love.json](./391734-last-term-first-love.json) |
+| Last Threshold | 192634 | [192634-last-threshold.json](./192634-last-threshold.json) |
 | Last Throne | 364035 | [364035-last-throne.json](./364035-last-throne.json) |
 | Last Toon Standing | 72512 | [72512-last-toon-standing.json](./72512-last-toon-standing.json) |
 | Last Train Home | 131385 | [131385-last-train-home.json](./131385-last-train-home.json) |
