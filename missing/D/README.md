@@ -782,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dare mo ga Kanojo o Neratteru. | 82976 | [82976-dare-mo-ga-kanojo-o-neratteru.json](./82976-dare-mo-ga-kanojo-o-neratteru.json) |
 | Dare to Fly | 52184 | [52184-dare-to-fly.json](./52184-dare-to-fly.json) |
 | Dare to Lucid Dream | 332416 | [332416-dare-to-lucid-dream.json](./332416-dare-to-lucid-dream.json) |
+| Dare to Stay | 207014 | [207014-dare-to-stay.json](./207014-dare-to-stay.json) |
 | Daredemo Asobi Taizen | 137069 | [137069-daredemo-asobi-taizen.json](./137069-daredemo-asobi-taizen.json) |
 | Daredemo Kantan! Watanabe Akira no Tsume Shogi | 269751 | [269751-daredemo-kantan-watanabe-akira-no-tsume-shogi.json](./269751-daredemo-kantan-watanabe-akira-no-tsume-shogi.json) |
 | Daredevil | 18254 | [18254-daredevil.json](./18254-daredevil.json) |
