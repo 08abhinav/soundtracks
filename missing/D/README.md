@@ -1415,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkWind | 228505 | [228505-darkwind.json](./228505-darkwind.json) |
 | Darkwind: War on Wheels | 17305 | [17305-darkwind-war-on-wheels.json](./17305-darkwind-war-on-wheels.json) |
 | Darkwinds | 113152 | [113152-darkwinds.json](./113152-darkwinds.json) |
+| Darkwing Duck | 210309 | [210309-darkwing-duck.json](./210309-darkwing-duck.json) |
 | Darkwing Duck R | 363974 | [363974-darkwing-duck-r.json](./363974-darkwing-duck-r.json) |
 | Darkwood | 139157 | [139157-darkwood.json](./139157-darkwood.json) |
 | Darkwood | 17032 | [17032-darkwood.json](./17032-darkwood.json) |
@@ -7603,6 +7604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominator | 13601 | [13601-dominator.json](./13601-dominator.json) |
 | Dominator Idle | 235879 | [235879-dominator-idle.json](./235879-dominator-idle.json) |
 | Dominay | 211962 | [211962-dominay.json](./211962-dominay.json) |
+| Dominic Cranes's Dreamscape Mystery | 210211 | [210211-dominic-craness-dreamscape-mystery.json](./210211-dominic-craness-dreamscape-mystery.json) |
 | Dominion: Adventures | 191103 | [191103-dominion-adventures.json](./191103-dominion-adventures.json) |
 | Dominion: Alchemy | 191100 | [191100-dominion-alchemy.json](./191100-dominion-alchemy.json) |
 | Dominion: Allies | 191055 | [191055-dominion-allies.json](./191055-dominion-allies.json) |
@@ -9759,6 +9761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drasle Family: Pochi & Bochi | 342621 | [342621-drasle-family-pochi-and-bochi.json](./342621-drasle-family-pochi-and-bochi.json) |
 | Draugen: Collector's Edition | 124776 | [124776-draugen-collectors-edition.json](./124776-draugen-collectors-edition.json) |
 | Draught Kraft | 133352 | [133352-draught-kraft.json](./133352-draught-kraft.json) |
+| Draughts | 210221 | [210221-draughts.json](./210221-draughts.json) |
 | Dravo's Twisted Show | 410076 | [410076-dravos-twisted-show.json](./410076-dravos-twisted-show.json) |
 | Draw | 258014 | [258014-draw.json](./258014-draw.json) |
 | Draw & Color Maze: Paint Labyrinth Puzzle | 276959 | [276959-draw-and-color-maze-paint-labyrinth-puzzle.json](./276959-draw-and-color-maze-paint-labyrinth-puzzle.json) |
@@ -10509,6 +10512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DriveCraft | 392909 | [392909-drivecraft.json](./392909-drivecraft.json) |
 | DriveCrazy | 151746 | [151746-drivecrazy.json](./151746-drivecrazy.json) |
 | Driveland | 285559 | [285559-driveland.json](./285559-driveland.json) |
+| Driven | 210287 | [210287-driven.json](./210287-driven.json) |
 | Driven Out | 117524 | [117524-driven-out.json](./117524-driven-out.json) |
 | Driver | 675 | [675-driver.json](./675-driver.json) |
 | Driver / Driver 2 Twin Pack | 382533 | [382533-driver-driver-2-twin-pack.json](./382533-driver-driver-2-twin-pack.json) |
@@ -10963,6 +10967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Duck Shark | 390163 | [390163-duck-duck-shark.json](./390163-duck-duck-shark.json) |
 | Duck Duck Shoot | 330181 | [330181-duck-duck-shoot.json](./330181-duck-duck-shoot.json) |
 | Duck Duck Swap | 218155 | [218155-duck-duck-swap.json](./218155-duck-duck-swap.json) |
+| Duck Dynasty | 210288 | [210288-duck-dynasty.json](./210288-duck-dynasty.json) |
 | Duck Dynasty: Battle of the Beards | 234327 | [234327-duck-dynasty-battle-of-the-beards.json](./234327-duck-dynasty-battle-of-the-beards.json) |
 | Duck Eggs | 325058 | [325058-duck-eggs.json](./325058-duck-eggs.json) |
 | Duck Flighting | 151089 | [151089-duck-flighting.json](./151089-duck-flighting.json) |
