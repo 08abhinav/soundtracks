@@ -5976,6 +5976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cladun X3 | 317862 | [317862-cladun-x3.json](./317862-cladun-x3.json) |
 | Claim Jumper | 18508 | [18508-claim-jumper.json](./18508-claim-jumper.json) |
 | Claim the Forest: Settling Peace | 399618 | [399618-claim-the-forest-settling-peace.json](./399618-claim-the-forest-settling-peace.json) |
+| Claim your Free BitBuddy Today! | 197064 | [197064-claim-your-free-bitbuddy-today.json](./197064-claim-your-free-bitbuddy-today.json) |
 | Claims & Caverns | 414284 | [414284-claims-and-caverns.json](./414284-claims-and-caverns.json) |
 | Clair Obscur: Expedition 33 - Thank You Update | 381336 | [381336-clair-obscur-expedition-33-thank-you-update.json](./381336-clair-obscur-expedition-33-thank-you-update.json) |
 | Clair Obscur: Expedition 33 – Deluxe Edition | 333209 | [333209-clair-obscur-expedition-33-deluxe-edition.json](./333209-clair-obscur-expedition-33-deluxe-edition.json) |
@@ -9239,6 +9240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cornflower Corbin | 23939 | [23939-cornflower-corbin.json](./23939-cornflower-corbin.json) |
 | Cornhole Hero | 418742 | [418742-cornhole-hero.json](./418742-cornhole-hero.json) |
 | Cornsweeper | 285039 | [285039-cornsweeper.json](./285039-cornsweeper.json) |
+| Cornucopia | 197077 | [197077-cornucopia.json](./197077-cornucopia.json) |
 | Cornucopia | 237054 | [237054-cornucopia.json](./237054-cornucopia.json) |
 | Cornucopia of Kaizo | 330124 | [330124-cornucopia-of-kaizo.json](./330124-cornucopia-of-kaizo.json) |
 | Corny Crush | 210691 | [210691-corny-crush.json](./210691-corny-crush.json) |
@@ -10003,6 +10005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crabs & Cocktails | 412211 | [412211-crabs-and-cocktails.json](./412211-crabs-and-cocktails.json) |
 | Crabs Dive In Crossway | 385830 | [385830-crabs-dive-in-crossway.json](./385830-crabs-dive-in-crossway.json) |
 | Crabs Must Die! | 373019 | [373019-crabs-must-die.json](./373019-crabs-must-die.json) |
+| Crabs: Chef's Story | 197089 | [197089-crabs-chefs-story.json](./197089-crabs-chefs-story.json) |
 | Crabs: Sponge's Neighbor | 326702 | [326702-crabs-sponges-neighbor.json](./326702-crabs-sponges-neighbor.json) |
 | Crabs! | 179118 | [179118-crabs.json](./179118-crabs.json) |
 | Crabs! | 349509 | [349509-crabs.json](./349509-crabs.json) |
@@ -10043,6 +10046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cradle of Rome 2 HD | 102101 | [102101-cradle-of-rome-2-hd.json](./102101-cradle-of-rome-2-hd.json) |
 | Cradle of the Dark Brood | 408203 | [408203-cradle-of-the-dark-brood.json](./408203-cradle-of-the-dark-brood.json) |
 | Cradle Song | 65248 | [65248-cradle-song.json](./65248-cradle-song.json) |
+| Cradlemoor | 197058 | [197058-cradlemoor.json](./197058-cradlemoor.json) |
 | Cradles | 253982 | [253982-cradles.json](./253982-cradles.json) |
 | Craft | 280355 | [280355-craft.json](./280355-craft.json) |
 | Craft & Conquer | 339334 | [339334-craft-and-conquer.json](./339334-craft-and-conquer.json) |
