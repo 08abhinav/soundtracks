@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Brief History of the World | 103565 | [103565-a-brief-history-of-the-world.json](./103565-a-brief-history-of-the-world.json) |
 | A Brief Tale | 411683 | [411683-a-brief-tale.json](./411683-a-brief-tale.json) |
 | A Broken Halo | 216776 | [216776-a-broken-halo.json](./216776-a-broken-halo.json) |
+| A Bug's Life | 205931 | [205931-a-bugs-life.json](./205931-a-bugs-life.json) |
 | A Bug's Life | 49841 | [49841-a-bugs-life.json](./49841-a-bugs-life.json) |
 | A Bug's Life: Active Play | 311677 | [311677-a-bugs-life-active-play.json](./311677-a-bugs-life-active-play.json) |
 | A buggy Adventure | 143353 | [143353-a-buggy-adventure.json](./143353-a-buggy-adventure.json) |
@@ -10354,6 +10355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlantis Odyssey | 320345 | [320345-atlantis-odyssey.json](./320345-atlantis-odyssey.json) |
 | Atlantis Quest | 73744 | [73744-atlantis-quest.json](./73744-atlantis-quest.json) |
 | Atlantis-6 | 147472 | [147472-atlantis-6.json](./147472-atlantis-6.json) |
+| Atlantis: Coral Quest | 205895 | [205895-atlantis-coral-quest.json](./205895-atlantis-coral-quest.json) |
 | Atlantis: Evolution | 19446 | [19446-atlantis-evolution.json](./19446-atlantis-evolution.json) |
 | Atlantis: Mysteries of Ancient Inventors | 88345 | [88345-atlantis-mysteries-of-ancient-inventors.json](./88345-atlantis-mysteries-of-ancient-inventors.json) |
 | Atlantis: The Last Resort | 45947 | [45947-atlantis-the-last-resort.json](./45947-atlantis-the-last-resort.json) |
@@ -10411,6 +10413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic | 324958 | [324958-atomic.json](./324958-atomic.json) |
 | Atomic 79 | 30119 | [30119-atomic-79.json](./30119-atomic-79.json) |
 | Atomic Betty 2 | 202191 | [202191-atomic-betty-2.json](./202191-atomic-betty-2.json) |
+| Atomic Betty: Intergalactic Conspiracy | 205892 | [205892-atomic-betty-intergalactic-conspiracy.json](./205892-atomic-betty-intergalactic-conspiracy.json) |
 | Atomic Blast | 242418 | [242418-atomic-blast.json](./242418-atomic-blast.json) |
 | Atomic Bomber | 96671 | [96671-atomic-bomber.json](./96671-atomic-bomber.json) |
 | Atomic Bomberman | 18153 | [18153-atomic-bomberman.json](./18153-atomic-bomberman.json) |
