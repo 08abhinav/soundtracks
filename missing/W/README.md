@@ -4732,6 +4732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wood Block Escape Bundle | 215319 | [215319-wood-block-escape-bundle.json](./215319-wood-block-escape-bundle.json) |
 | Wood Block Puzzle | 220190 | [220190-wood-block-puzzle.json](./220190-wood-block-puzzle.json) |
 | Wood Block Puzzle Game | 98830 | [98830-wood-block-puzzle-game.json](./98830-wood-block-puzzle-game.json) |
+| Wood Brothers Flying Colours | 188901 | [188901-wood-brothers-flying-colours.json](./188901-wood-brothers-flying-colours.json) |
 | Wood Cuter | 201800 | [201800-wood-cuter.json](./201800-wood-cuter.json) |
 | Wood for Nobody Else | 357212 | [357212-wood-for-nobody-else.json](./357212-wood-for-nobody-else.json) |
 | Wood for the Trees | 176958 | [176958-wood-for-the-trees.json](./176958-wood-for-the-trees.json) |
