@@ -1506,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majigire Genkai OL-chan | 308867 | [308867-majigire-genkai-ol-chan.json](./308867-majigire-genkai-ol-chan.json) |
 | Majikoi! Love Me Seriously! | 65611 | [65611-majikoi-love-me-seriously.json](./65611-majikoi-love-me-seriously.json) |
 | Majin and the Forsaken Kingdom | 7062 | [7062-majin-and-the-forsaken-kingdom.json](./7062-majin-and-the-forsaken-kingdom.json) |
+| Majin Island | 220293 | [220293-majin-island.json](./220293-majin-island.json) |
 | Majin Tantei Nougami Neuro: Battle da yo! Hannin Shuugou! | 216201 | [216201-majin-tantei-nougami-neuro-battle-da-yo-hannin-shuugou.json](./216201-majin-tantei-nougami-neuro-battle-da-yo-hannin-shuugou.json) |
 | Majin Tensei | 38231 | [38231-majin-tensei.json](./38231-majin-tensei.json) |
 | Majin Tensei II: Spiral Nemesis | 38263 | [38263-majin-tensei-ii-spiral-nemesis.json](./38263-majin-tensei-ii-spiral-nemesis.json) |
@@ -2944,6 +2945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Duel | 138543 | [138543-marvel-duel.json](./138543-marvel-duel.json) |
 | Marvel End Time Arena | 89254 | [89254-marvel-end-time-arena.json](./89254-marvel-end-time-arena.json) |
 | Marvel First Alliance | 300380 | [300380-marvel-first-alliance.json](./300380-marvel-first-alliance.json) |
+| Marvel Heroes | 220262 | [220262-marvel-heroes.json](./220262-marvel-heroes.json) |
 | Marvel Heroes | 363910 | [363910-marvel-heroes.json](./363910-marvel-heroes.json) |
 | Marvel Heroes: 001 - Character: Spider-Man | 363438 | [363438-marvel-heroes-001-character-spider-man.json](./363438-marvel-heroes-001-character-spider-man.json) |
 | Marvel Heroes: 002 - Character: Captain America | 363439 | [363439-marvel-heroes-002-character-captain-america.json](./363439-marvel-heroes-002-character-captain-america.json) |
@@ -14034,3 +14036,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MyVegas Slots | 323168 | [323168-myvegas-slots.json](./323168-myvegas-slots.json) |
 | MyWhoosh | 392380 | [392380-mywhoosh.json](./392380-mywhoosh.json) |
 | Myworld is Yourworld | 271802 | [271802-myworld-is-yourworld.json](./271802-myworld-is-yourworld.json) |
+| MZ Samgukji | 220289 | [220289-mz-samgukji.json](./220289-mz-samgukji.json) |
