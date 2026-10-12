@@ -719,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvation Denied | 395837 | [395837-salvation-denied.json](./395837-salvation-denied.json) |
 | Salvation Hours | 306490 | [306490-salvation-hours.json](./306490-salvation-hours.json) |
 | Salvation in Corruption | 75183 | [75183-salvation-in-corruption.json](./75183-salvation-in-corruption.json) |
+| Salvation of the soul | 224686 | [224686-salvation-of-the-soul.json](./224686-salvation-of-the-soul.json) |
 | Salvation Plan: Spirit Evil | 284336 | [284336-salvation-plan-spirit-evil.json](./284336-salvation-plan-spirit-evil.json) |
 | Salvator | 86530 | [86530-salvator.json](./86530-salvator.json) |
 | Salvatorem | 298714 | [298714-salvatorem.json](./298714-salvatorem.json) |
@@ -955,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanada Juu Yuushi | 48862 | [48862-sanada-juu-yuushi.json](./48862-sanada-juu-yuushi.json) |
 | Sanae no Chou Tokkyuu: TheExpressTrial | 206929 | [206929-sanae-no-chou-tokkyuu-theexpresstrial.json](./206929-sanae-no-chou-tokkyuu-theexpresstrial.json) |
 | Sanae Toumaden X | 158500 | [158500-sanae-toumaden-x.json](./158500-sanae-toumaden-x.json) |
+| Sanae Toumaden X2 | 224689 | [224689-sanae-toumaden-x2.json](./224689-sanae-toumaden-x2.json) |
 | Sanae's Sylphid Breeze | 300377 | [300377-sanaes-sylphid-breeze.json](./300377-sanaes-sylphid-breeze.json) |
 | Sanalika | 180296 | [180296-sanalika.json](./180296-sanalika.json) |
 | Sanasana | 411754 | [411754-sanasana.json](./411754-sanasana.json) |
@@ -3847,6 +3849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Sins: Academic Version | 112933 | [112933-seven-sins-academic-version.json](./112933-seven-sins-academic-version.json) |
 | Seven Skies to Paradise | 219601 | [219601-seven-skies-to-paradise.json](./219601-seven-skies-to-paradise.json) |
 | Seven Souls Online | 166033 | [166033-seven-souls-online.json](./166033-seven-souls-online.json) |
+| Seven Spirits | 224720 | [224720-seven-spirits.json](./224720-seven-spirits.json) |
 | Seven Stars 3D | 381261 | [381261-seven-stars-3d.json](./381261-seven-stars-3d.json) |
 | Seven Stars 3D 2 | 381262 | [381262-seven-stars-3d-2.json](./381262-seven-stars-3d-2.json) |
 | Seven Suns of Orion | 418732 | [418732-seven-suns-of-orion.json](./418732-seven-suns-of-orion.json) |
@@ -6828,6 +6831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimAnimals | 371270 | [371270-simanimals.json](./371270-simanimals.json) |
 | SimAnimals | 5155 | [5155-simanimals.json](./5155-simanimals.json) |
 | SimAnimals Africa | 20669 | [20669-simanimals-africa.json](./20669-simanimals-africa.json) |
+| Simantik | 224685 | [224685-simantik.json](./224685-simantik.json) |
 | SimbaQuest | 243699 | [243699-simbaquest.json](./243699-simbaquest.json) |
 | SimCasino | 141132 | [141132-simcasino.json](./141132-simcasino.json) |
 | SimCity | 1274 | [1274-simcity.json](./1274-simcity.json) |
@@ -12622,6 +12626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Ranger ASK | 33316 | [33316-space-ranger-ask.json](./33316-space-ranger-ask.json) |
 | Space Ranger VR | 130231 | [130231-space-ranger-vr.json](./130231-space-ranger-vr.json) |
 | Space Ranger vs. Reptiloids | 104160 | [104160-space-ranger-vs-reptiloids.json](./104160-space-ranger-vs-reptiloids.json) |
+| Space Ranger: First Meet | 224678 | [224678-space-ranger-first-meet.json](./224678-space-ranger-first-meet.json) |
 | Space Ranger: Return to Earth | 45907 | [45907-space-ranger-return-to-earth.json](./45907-space-ranger-return-to-earth.json) |
 | Space Rangers | 7592 | [7592-space-rangers.json](./7592-space-rangers.json) |
 | Space Rangers 2: Dominators | 7593 | [7593-space-rangers-2-dominators.json](./7593-space-rangers-2-dominators.json) |
@@ -19599,6 +19604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Crate Box | 9945 | [9945-super-crate-box.json](./9945-super-crate-box.json) |
 | Super Crate Box Together | 304150 | [304150-super-crate-box-together.json](./304150-super-crate-box-together.json) |
 | Super Crayon | 337232 | [337232-super-crayon.json](./337232-super-crayon.json) |
+| Super Crazy Chickens | 224724 | [224724-super-crazy-chickens.json](./224724-super-crazy-chickens.json) |
 | Super Crazy Guitar Maniac Deluxe | 262446 | [262446-super-crazy-guitar-maniac-deluxe.json](./262446-super-crazy-guitar-maniac-deluxe.json) |
 | Super Crazy Guitar Maniac Deluxe 2 | 262447 | [262447-super-crazy-guitar-maniac-deluxe-2.json](./262447-super-crazy-guitar-maniac-deluxe-2.json) |
 | Super Crazy Guitar Maniac Deluxe 3 | 262472 | [262472-super-crazy-guitar-maniac-deluxe-3.json](./262472-super-crazy-guitar-maniac-deluxe-3.json) |
@@ -21937,6 +21943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivors of Xcalibur | 334852 | [334852-survivors-of-xcalibur.json](./334852-survivors-of-xcalibur.json) |
 | Survivors SymphonYs | 345007 | [345007-survivors-symphonys.json](./345007-survivors-symphonys.json) |
 | Survivors Will | 250347 | [250347-survivors-will.json](./250347-survivors-will.json) |
+| Survivors: Three Kingdoms | 224695 | [224695-survivors-three-kingdoms.json](./224695-survivors-three-kingdoms.json) |
 | SUS | 290548 | [290548-sus.json](./290548-sus.json) |
 | Sus Virus Amogus | 304864 | [304864-sus-virus-amogus.json](./304864-sus-virus-amogus.json) |
 | SUS: The Game | 282101 | [282101-sus-the-game.json](./282101-sus-the-game.json) |
