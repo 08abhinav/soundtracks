@@ -7399,6 +7399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon: The Hodgepodge Platoon | 327157 | [327157-pokemon-the-hodgepodge-platoon.json](./327157-pokemon-the-hodgepodge-platoon.json) |
 | Pokémon: The Pit | 308392 | [308392-pokemon-the-pit.json](./308392-pokemon-the-pit.json) |
 | Pokémon: Too Many Types | 278078 | [278078-pokemon-too-many-types.json](./278078-pokemon-too-many-types.json) |
+| Pokémon: Towering Legends | 203147 | [203147-pokemon-towering-legends.json](./203147-pokemon-towering-legends.json) |
 | Pokémon: Ultra Violet Version | 203221 | [203221-pokemon-ultra-violet-version.json](./203221-pokemon-ultra-violet-version.json) |
 | Pokémon/Grand Order | 330927 | [330927-pokemon-grand-order.json](./330927-pokemon-grand-order.json) |
 | PokemonGoGo | 381780 | [381780-pokemongogo.json](./381780-pokemongogo.json) |
