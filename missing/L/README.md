@@ -2448,6 +2448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2021: Hits Français et Internationaux Solo | 137084 | [137084-lets-sing-2021-hits-francais-et-internationaux-solo.json](./137084-lets-sing-2021-hits-francais-et-internationaux-solo.json) |
 | Let's Sing 2022: Chinese Version | 215361 | [215361-lets-sing-2022-chinese-version.json](./215361-lets-sing-2022-chinese-version.json) |
 | Let's Sing 2022: French Version | 175978 | [175978-lets-sing-2022-french-version.json](./175978-lets-sing-2022-french-version.json) |
+| Let's Sing 2023: Incluye Canciones Españolas | 221328 | [221328-lets-sing-2023-incluye-canciones-espanolas.json](./221328-lets-sing-2023-incluye-canciones-espanolas.json) |
 | Let's Sing 2023: Platinum Edition | 225829 | [225829-lets-sing-2023-platinum-edition.json](./225829-lets-sing-2023-platinum-edition.json) |
 | Let's Sing 2024 with International Hits: Gold Edition | 271838 | [271838-lets-sing-2024-with-international-hits-gold-edition.json](./271838-lets-sing-2024-with-international-hits-gold-edition.json) |
 | Let's Sing 2024 with International Hits: Platinum Edition | 271836 | [271836-lets-sing-2024-with-international-hits-platinum-edition.json](./271836-lets-sing-2024-with-international-hits-platinum-edition.json) |
@@ -4746,6 +4747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop Trace | 417455 | [417455-loop-trace.json](./417455-loop-trace.json) |
 | Loop Yourself | 359021 | [359021-loop-yourself.json](./359021-loop-yourself.json) |
 | Loop: New Reality | 333219 | [333219-loop-new-reality.json](./333219-loop-new-reality.json) |
+| Loop8: Celestial Edition | 221330 | [221330-loop8-celestial-edition.json](./221330-loop8-celestial-edition.json) |
 | Loopbreaker | 395586 | [395586-loopbreaker.json](./395586-loopbreaker.json) |
 | LoopBreaker | 335241 | [335241-loopbreaker.json](./335241-loopbreaker.json) |
 | Loopdio | 321425 | [321425-loopdio.json](./321425-loopdio.json) |
