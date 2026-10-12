@@ -6468,6 +6468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Trooper: Redux | 27519 | [27519-rogue-trooper-redux.json](./27519-rogue-trooper-redux.json) |
 | Rogue Valley | 236910 | [236910-rogue-valley.json](./236910-rogue-valley.json) |
 | Rogue Vector | 410431 | [410431-rogue-vector.json](./410431-rogue-vector.json) |
+| Rogue Warlords | 199340 | [199340-rogue-warlords.json](./199340-rogue-warlords.json) |
 | Rogue Warrior | 564 | [564-rogue-warrior.json](./564-rogue-warrior.json) |
 | Rogue Waters | 314422 | [314422-rogue-waters.json](./314422-rogue-waters.json) |
 | Rogue Waves | 414345 | [414345-rogue-waves.json](./414345-rogue-waves.json) |
@@ -7298,6 +7299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxanne The Forgotten Path | 365846 | [365846-roxanne-the-forgotten-path.json](./365846-roxanne-the-forgotten-path.json) |
 | Roxy Raccoon | 159290 | [159290-roxy-raccoon.json](./159290-roxy-raccoon.json) |
 | Roxy Raccoon 3: Troubles in Time | 375845 | [375845-roxy-raccoon-3-troubles-in-time.json](./375845-roxy-raccoon-3-troubles-in-time.json) |
+| Roxy Raccoon's Bowling Bash | 199336 | [199336-roxy-raccoons-bowling-bash.json](./199336-roxy-raccoons-bowling-bash.json) |
 | Roxy Raccoon's Pinball Panic: American Anniversary | 311788 | [311788-roxy-raccoons-pinball-panic-american-anniversary.json](./311788-roxy-raccoons-pinball-panic-american-anniversary.json) |
 | Roxy Raccoon's Pinball Panic: Baker's Best | 285461 | [285461-roxy-raccoons-pinball-panic-bakers-best.json](./285461-roxy-raccoons-pinball-panic-bakers-best.json) |
 | Roxy Raccoon's Pinball Panic: Christmas Carnage | 235360 | [235360-roxy-raccoons-pinball-panic-christmas-carnage.json](./235360-roxy-raccoons-pinball-panic-christmas-carnage.json) |
