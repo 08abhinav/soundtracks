@@ -3587,6 +3587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty Lawyer Victoria 2 | 200058 | [200058-beauty-lawyer-victoria-2.json](./200058-beauty-lawyer-victoria-2.json) |
 | Beauty List | 92133 | [92133-beauty-list.json](./92133-beauty-list.json) |
 | Beauty or the Beast | 165517 | [165517-beauty-or-the-beast.json](./165517-beauty-or-the-beast.json) |
+| Beauty Paradise | 201467 | [201467-beauty-paradise.json](./201467-beauty-paradise.json) |
 | Beauty Rental Shop | 203286 | [203286-beauty-rental-shop.json](./203286-beauty-rental-shop.json) |
 | Beauty Showdown: Awakening | 273088 | [273088-beauty-showdown-awakening.json](./273088-beauty-showdown-awakening.json) |
 | Beauty vs. Robot | 170279 | [170279-beauty-vs-robot.json](./170279-beauty-vs-robot.json) |
@@ -4532,6 +4533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bhavacakra Grace | 114829 | [114829-bhavacakra-grace.json](./114829-bhavacakra-grace.json) |
 | BHB: BioHazard Bot | 75047 | [75047-bhb-biohazard-bot.json](./75047-bhb-biohazard-bot.json) |
 | Bher | 359361 | [359361-bher.json](./359361-bher.json) |
+| Bhop Craze | 201503 | [201503-bhop-craze.json](./201503-bhop-craze.json) |
 | Bhop PRO | 144294 | [144294-bhop-pro.json](./144294-bhop-pro.json) |
 | Bi-Color | 176381 | [176381-bi-color.json](./176381-bi-color.json) |
 | Bi! Bi! | 40742 | [40742-bi-bi.json](./40742-bi-bi.json) |
@@ -8189,6 +8191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boo Boo Bananas | 101322 | [101322-boo-boo-bananas.json](./101322-boo-boo-bananas.json) |
 | Boo Boo Booster | 343325 | [343325-boo-boo-booster.json](./343325-boo-boo-booster.json) |
 | Boo Breakers: The Ghostening | 30808 | [30808-boo-breakers-the-ghostening.json](./30808-boo-breakers-the-ghostening.json) |
+| Boo Men | 201498 | [201498-boo-men.json](./201498-boo-men.json) |
 | Boo: The World's Cutest Dog Game | 57909 | [57909-boo-the-worlds-cutest-dog-game.json](./57909-boo-the-worlds-cutest-dog-game.json) |
 | Boo! Are you scared? | 329128 | [329128-boo-are-you-scared.json](./329128-boo-are-you-scared.json) |
 | Boo! Are you scared? The Chests Game | 328964 | [328964-boo-are-you-scared-the-chests-game.json](./328964-boo-are-you-scared-the-chests-game.json) |
@@ -10954,6 +10957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulwark: Falconeer Chronicles - Berracutta | 351178 | [351178-bulwark-falconeer-chronicles-berracutta.json](./351178-bulwark-falconeer-chronicles-berracutta.json) |
 | Bulwark: Falconeer Chronicles - Medieval Houses | 408049 | [408049-bulwark-falconeer-chronicles-medieval-houses.json](./408049-bulwark-falconeer-chronicles-medieval-houses.json) |
 | Bum Bum Monsterz | 258511 | [258511-bum-bum-monsterz.json](./258511-bum-bum-monsterz.json) |
+| Bum Simulator VR | 201513 | [201513-bum-simulator-vr.json](./201513-bum-simulator-vr.json) |
 | Bumaga | 197122 | [197122-bumaga.json](./197122-bumaga.json) |
 | Bumballon | 190027 | [190027-bumballon.json](./190027-bumballon.json) |
 | Bumbi | 289426 | [289426-bumbi.json](./289426-bumbi.json) |
