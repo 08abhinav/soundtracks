@@ -968,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Factory | 211625 | [211625-idle-factory.json](./211625-idle-factory.json) |
 | Idle Factory Tycoon | 99142 | [99142-idle-factory-tycoon.json](./99142-idle-factory-tycoon.json) |
 | Idle Farming Tycoon Empire | 175877 | [175877-idle-farming-tycoon-empire.json](./175877-idle-farming-tycoon-empire.json) |
+| Idle Fishing Tycoon | 212517 | [212517-idle-fishing-tycoon.json](./212517-idle-fishing-tycoon.json) |
 | Idle Fitness Gym Tycoon | 392447 | [392447-idle-fitness-gym-tycoon.json](./392447-idle-fitness-gym-tycoon.json) |
 | Idle Flipper | 87666 | [87666-idle-flipper.json](./87666-idle-flipper.json) |
 | Idle Food Empire Tycoon | 219268 | [219268-idle-food-empire-tycoon.json](./219268-idle-food-empire-tycoon.json) |
@@ -1103,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Tick | 274043 | [274043-idle-tick.json](./274043-idle-tick.json) |
 | Idle Tides | 409814 | [409814-idle-tides.json](./409814-idle-tides.json) |
 | Idle Tiers | 369577 | [369577-idle-tiers.json](./369577-idle-tiers.json) |
+| Idle Tiny Wizard | 212516 | [212516-idle-tiny-wizard.json](./212516-idle-tiny-wizard.json) |
 | Idle to Level 1000 | 359570 | [359570-idle-to-level-1000.json](./359570-idle-to-level-1000.json) |
 | Idle Tower Defense | 248156 | [248156-idle-tower-defense.json](./248156-idle-tower-defense.json) |
 | Idle Tower Tycoon | 101522 | [101522-idle-tower-tycoon.json](./101522-idle-tower-tycoon.json) |
@@ -4021,6 +4023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Saver | 132996 | [132996-island-saver.json](./132996-island-saver.json) |
 | Island Saver: Dinosaur Island | 238039 | [238039-island-saver-dinosaur-island.json](./238039-island-saver-dinosaur-island.json) |
 | Island Saver: Fantasy Island | 171915 | [171915-island-saver-fantasy-island.json](./171915-island-saver-fantasy-island.json) |
+| Island Shoot | 212424 | [212424-island-shoot.json](./212424-island-shoot.json) |
 | Island Simulator 2016 | 31914 | [31914-island-simulator-2016.json](./31914-island-simulator-2016.json) |
 | Island Sky | 335307 | [335307-island-sky.json](./335307-island-sky.json) |
 | Island Supermarket Simulator | 348465 | [348465-island-supermarket-simulator.json](./348465-island-supermarket-simulator.json) |
