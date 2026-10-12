@@ -1244,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warpath: Jurassic Park | 8278 | [8278-warpath-jurassic-park.json](./8278-warpath-jurassic-park.json) |
 | Warpaws | 219259 | [219259-warpaws.json](./219259-warpaws.json) |
 | WarpBall | 34482 | [34482-warpball.json](./34482-warpball.json) |
+| Warped Kart Racers | 200376 | [200376-warped-kart-racers.json](./200376-warped-kart-racers.json) |
 | Warped North | 263451 | [263451-warped-north.json](./263451-warped-north.json) |
 | Warped Space Shooter | 182980 | [182980-warped-space-shooter.json](./182980-warped-space-shooter.json) |
 | Warped Times | 211104 | [211104-warped-times.json](./211104-warped-times.json) |
@@ -3544,6 +3545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildshade Fantasy Horse Races | 233069 | [233069-wildshade-fantasy-horse-races.json](./233069-wildshade-fantasy-horse-races.json) |
 | Wildsilver | 152784 | [152784-wildsilver.json](./152784-wildsilver.json) |
 | Wildsite | 282210 | [282210-wildsite.json](./282210-wildsite.json) |
+| WildSnake | 200365 | [200365-wildsnake.json](./200365-wildsnake.json) |
 | WildSnake | 243758 | [243758-wildsnake.json](./243758-wildsnake.json) |
 | WildSnake | 282485 | [282485-wildsnake.json](./282485-wildsnake.json) |
 | Wildsong | 287694 | [287694-wildsong.json](./287694-wildsong.json) |
@@ -6102,6 +6104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWF War Zone | 3645 | [3645-wwf-war-zone.json](./3645-wwf-war-zone.json) |
 | WWF Wrestlemania | 366703 | [366703-wwf-wrestlemania.json](./366703-wwf-wrestlemania.json) |
 | WWF Wrestlemania | 72120 | [72120-wwf-wrestlemania.json](./72120-wwf-wrestlemania.json) |
+| WWF WrestleMania 2000 | 200404 | [200404-wwf-wrestlemania-2000.json](./200404-wwf-wrestlemania-2000.json) |
 | WWF WrestleMania Challenge | 19513 | [19513-wwf-wrestlemania-challenge.json](./19513-wwf-wrestlemania-challenge.json) |
 | WWF WrestleMania: The Arcade Game | 4546 | [4546-wwf-wrestlemania-the-arcade-game.json](./4546-wwf-wrestlemania-the-arcade-game.json) |
 | WWF: Super Wrestlemania | 45566 | [45566-wwf-super-wrestlemania.json](./45566-wwf-super-wrestlemania.json) |
