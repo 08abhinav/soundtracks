@@ -5344,6 +5344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Ultimate: Angel Wings | 162178 | [162178-pixel-puzzles-ultimate-angel-wings.json](./162178-pixel-puzzles-ultimate-angel-wings.json) |
 | Pixel Puzzles Ultimate: Animals | 226860 | [226860-pixel-puzzles-ultimate-animals.json](./226860-pixel-puzzles-ultimate-animals.json) |
 | Pixel Puzzles Ultimate: Autumn | 162186 | [162186-pixel-puzzles-ultimate-autumn.json](./162186-pixel-puzzles-ultimate-autumn.json) |
+| Pixel Puzzles Ultimate: Autumn 2 | 192141 | [192141-pixel-puzzles-ultimate-autumn-2.json](./192141-pixel-puzzles-ultimate-autumn-2.json) |
 | Pixel Puzzles Ultimate: Bioframe | 357884 | [357884-pixel-puzzles-ultimate-bioframe.json](./357884-pixel-puzzles-ultimate-bioframe.json) |
 | Pixel Puzzles Ultimate: Canary Islands | 192145 | [192145-pixel-puzzles-ultimate-canary-islands.json](./192145-pixel-puzzles-ultimate-canary-islands.json) |
 | Pixel Puzzles Ultimate: Castles | 162175 | [162175-pixel-puzzles-ultimate-castles.json](./162175-pixel-puzzles-ultimate-castles.json) |
@@ -5351,6 +5352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Ultimate: Cheregi 2 | 192143 | [192143-pixel-puzzles-ultimate-cheregi-2.json](./192143-pixel-puzzles-ultimate-cheregi-2.json) |
 | Pixel Puzzles Ultimate: China | 162184 | [162184-pixel-puzzles-ultimate-china.json](./162184-pixel-puzzles-ultimate-china.json) |
 | Pixel Puzzles Ultimate: Christmas 2 | 162188 | [162188-pixel-puzzles-ultimate-christmas-2.json](./162188-pixel-puzzles-ultimate-christmas-2.json) |
+| Pixel Puzzles Ultimate: Christmas 3 | 192139 | [192139-pixel-puzzles-ultimate-christmas-3.json](./192139-pixel-puzzles-ultimate-christmas-3.json) |
 | Pixel Puzzles Ultimate: Colorful 2 | 357885 | [357885-pixel-puzzles-ultimate-colorful-2.json](./357885-pixel-puzzles-ultimate-colorful-2.json) |
 | Pixel Puzzles Ultimate: Coral Reef | 162196 | [162196-pixel-puzzles-ultimate-coral-reef.json](./162196-pixel-puzzles-ultimate-coral-reef.json) |
 | Pixel Puzzles Ultimate: Da Vinci | 162164 | [162164-pixel-puzzles-ultimate-da-vinci.json](./162164-pixel-puzzles-ultimate-da-vinci.json) |
@@ -5371,6 +5373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Ultimate: Jigsaw - Variety Pack 21 | 303699 | [303699-pixel-puzzles-ultimate-jigsaw-variety-pack-21.json](./303699-pixel-puzzles-ultimate-jigsaw-variety-pack-21.json) |
 | Pixel Puzzles Ultimate: Jigsaw - Variety Pack 4XS | 303698 | [303698-pixel-puzzles-ultimate-jigsaw-variety-pack-4xs.json](./303698-pixel-puzzles-ultimate-jigsaw-variety-pack-4xs.json) |
 | Pixel Puzzles Ultimate: Light Trail | 357887 | [357887-pixel-puzzles-ultimate-light-trail.json](./357887-pixel-puzzles-ultimate-light-trail.json) |
+| Pixel Puzzles Ultimate: Lunar New Year | 192140 | [192140-pixel-puzzles-ultimate-lunar-new-year.json](./192140-pixel-puzzles-ultimate-lunar-new-year.json) |
 | Pixel Puzzles Ultimate: Noel | 162181 | [162181-pixel-puzzles-ultimate-noel.json](./162181-pixel-puzzles-ultimate-noel.json) |
 | Pixel Puzzles Ultimate: Pin-Ups | 162183 | [162183-pixel-puzzles-ultimate-pin-ups.json](./162183-pixel-puzzles-ultimate-pin-ups.json) |
 | Pixel Puzzles Ultimate: PP1 UndeadZ | 162154 | [162154-pixel-puzzles-ultimate-pp1-undeadz.json](./162154-pixel-puzzles-ultimate-pp1-undeadz.json) |
@@ -6639,6 +6642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Lights | 239924 | [239924-pocket-lights.json](./239924-pocket-lights.json) |
 | Pocket Lint Zero | 387645 | [387645-pocket-lint-zero.json](./387645-pocket-lint-zero.json) |
 | Pocket Lord | 377987 | [377987-pocket-lord.json](./377987-pocket-lord.json) |
+| Pocket Love | 192100 | [192100-pocket-love.json](./192100-pocket-love.json) |
 | Pocket Love | 63334 | [63334-pocket-love.json](./63334-pocket-love.json) |
 | Pocket Love: If | 43973 | [43973-pocket-love-if.json](./43973-pocket-love-if.json) |
 | Pocket Ludo | 401098 | [401098-pocket-ludo.json](./401098-pocket-ludo.json) |
