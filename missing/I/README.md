@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm going to die if I don't eat sushi! | 187212 | [187212-im-going-to-die-if-i-dont-eat-sushi.json](./187212-im-going-to-die-if-i-dont-eat-sushi.json) |
 | I'm Home Already | 350461 | [350461-im-home-already.json](./350461-im-home-already.json) |
 | I'm In Charge | 249216 | [249216-im-in-charge.json](./249216-im-in-charge.json) |
+| I'm in Love With Your Dead Grandmother | 213585 | [213585-im-in-love-with-your-dead-grandmother.json](./213585-im-in-love-with-your-dead-grandmother.json) |
 | I'm in Love With Your Dead Grandmother Presents: Noah SmallJohnson's Puzzle Game | 321519 | [321519-im-in-love-with-your-dead-grandmother-presents-noah-smalljohnsons-puzzle-game.json](./321519-im-in-love-with-your-dead-grandmother-presents-noah-smalljohnsons-puzzle-game.json) |
 | I'm in Love With Your Dead Grandmother Presents: Noah Smalljohnson's Puzzle Game - Digital Deluxe Mega Chad Edition | 332816 | [332816-im-in-love-with-your-dead-grandmother-presents-noah-smalljohnsons-puzzle-game-digital-deluxe-mega-chad-edition.json](./332816-im-in-love-with-your-dead-grandmother-presents-noah-smalljohnsons-puzzle-game-digital-deluxe-mega-chad-edition.json) |
 | I'm Joshua | 22345 | [22345-im-joshua.json](./22345-im-joshua.json) |
@@ -1125,6 +1126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Wizard | 101773 | [101773-idle-wizard.json](./101773-idle-wizard.json) |
 | Idle World | 392449 | [392449-idle-world.json](./392449-idle-world.json) |
 | Idle Zombie Shelter | 200729 | [200729-idle-zombie-shelter.json](./200729-idle-zombie-shelter.json) |
+| Idle Zombies Clicker | 213529 | [213529-idle-zombies-clicker.json](./213529-idle-zombies-clicker.json) |
 | Idle Zoo Park | 260661 | [260661-idle-zoo-park.json](./260661-idle-zoo-park.json) |
 | Idle Zoo Tycoon | 220814 | [220814-idle-zoo-tycoon.json](./220814-idle-zoo-tycoon.json) |
 | Idle: Generators | 252289 | [252289-idle-generators.json](./252289-idle-generators.json) |
@@ -2526,6 +2528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity | 382380 | [382380-infinity.json](./382380-infinity.json) |
 | Infinity Angel | 224035 | [224035-infinity-angel.json](./224035-infinity-angel.json) |
 | Infinity Attackers | 120415 | [120415-infinity-attackers.json](./120415-infinity-attackers.json) |
+| Infinity Ball | 213575 | [213575-infinity-ball.json](./213575-infinity-ball.json) |
 | Infinity BattleSoul | 188516 | [188516-infinity-battlesoul.json](./188516-infinity-battlesoul.json) |
 | Infinity Beats Song Edition | 87150 | [87150-infinity-beats-song-edition.json](./87150-infinity-beats-song-edition.json) |
 | Infinity Blade | 10029 | [10029-infinity-blade.json](./10029-infinity-blade.json) |
