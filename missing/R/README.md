@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R/A\W | 341548 | [341548-r-a-w.json](./341548-r-a-w.json) |
 | R/C Sports: Copter Challenge | 202927 | [202927-r-c-sports-copter-challenge.json](./202927-r-c-sports-copter-challenge.json) |
 | R00000 | 260309 | [260309-r00000.json](./260309-r00000.json) |
+| R00m | 199862 | [199862-r00m.json](./199862-r00m.json) |
 | R0x | 182917 | [182917-r0x.json](./182917-r0x.json) |
 | R2 Online: Reign of Revolution | 91269 | [91269-r2-online-reign-of-revolution.json](./91269-r2-online-reign-of-revolution.json) |
 | R2Beat | 108993 | [108993-r2beat.json](./108993-r2beat.json) |
@@ -2606,7 +2607,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red White Yellow Stingray | 200459 | [200459-red-white-yellow-stingray.json](./200459-red-white-yellow-stingray.json) |
 | Red Wings: Aces of the Sky | 121768 | [121768-red-wings-aces-of-the-sky.json](./121768-red-wings-aces-of-the-sky.json) |
 | Red Wings: Aces of the Sky - Baron Edition | 146165 | [146165-red-wings-aces-of-the-sky-baron-edition.json](./146165-red-wings-aces-of-the-sky-baron-edition.json) |
+| Red Wings: American Aces Bundle | 199852 | [199852-red-wings-american-aces-bundle.json](./199852-red-wings-american-aces-bundle.json) |
 | Red Wings: Coloring Planes | 192405 | [192405-red-wings-coloring-planes.json](./192405-red-wings-coloring-planes.json) |
+| Red Wings: Coloring Planes - American Aces | 199875 | [199875-red-wings-coloring-planes-american-aces.json](./199875-red-wings-coloring-planes-american-aces.json) |
+| Red Wings: Coloring Planes Bundle | 199847 | [199847-red-wings-coloring-planes-bundle.json](./199847-red-wings-coloring-planes-bundle.json) |
 | Red Wolf | 378200 | [378200-red-wolf.json](./378200-red-wolf.json) |
 | Red World Fan Fork | 398440 | [398440-red-world-fan-fork.json](./398440-red-world-fan-fork.json) |
 | Red Wrecker | 71204 | [71204-red-wrecker.json](./71204-red-wrecker.json) |
@@ -6481,6 +6485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogueball Recess | 352147 | [352147-rogueball-recess.json](./352147-rogueball-recess.json) |
 | Rogueblock | 382770 | [382770-rogueblock.json](./382770-rogueblock.json) |
 | Roguebook: Deluxe Edition | 192301 | [192301-roguebook-deluxe-edition.json](./192301-roguebook-deluxe-edition.json) |
+| Roguebook: Fugoro - Merchant of Wonders | 199854 | [199854-roguebook-fugoro-merchant-of-wonders.json](./199854-roguebook-fugoro-merchant-of-wonders.json) |
 | Rogueborne Fury | 293629 | [293629-rogueborne-fury.json](./293629-rogueborne-fury.json) |
 | Roguebot | 248814 | [248814-roguebot.json](./248814-roguebot.json) |
 | Roguebots Arena | 350504 | [350504-roguebots-arena.json](./350504-roguebots-arena.json) |
@@ -7871,6 +7876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Factory 4 Special: Another Episode Pack | 237997 | [237997-rune-factory-4-special-another-episode-pack.json](./237997-rune-factory-4-special-another-episode-pack.json) |
 | Rune Factory 4 Special: Archival Edition | 136190 | [136190-rune-factory-4-special-archival-edition.json](./136190-rune-factory-4-special-archival-edition.json) |
 | Rune Factory 5 | 115279 | [115279-rune-factory-5.json](./115279-rune-factory-5.json) |
+| Rune Factory 5: Digital Deluxe Edition | 199842 | [199842-rune-factory-5-digital-deluxe-edition.json](./199842-rune-factory-5-digital-deluxe-edition.json) |
 | Rune Factory 5: Premium Box Limited Edition | 148156 | [148156-rune-factory-5-premium-box-limited-edition.json](./148156-rune-factory-5-premium-box-limited-edition.json) |
 | Rune Factory 6 | 250924 | [250924-rune-factory-6.json](./250924-rune-factory-6.json) |
 | Rune Factory Frontier | 5132 | [5132-rune-factory-frontier.json](./5132-rune-factory-frontier.json) |
