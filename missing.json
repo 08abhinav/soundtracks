@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T00:04:48.390Z",
-  "total_missing": 199443,
+  "generated_at": "2026-10-12T00:19:17.195Z",
+  "total_missing": 199493,
   "games": [
     {
       "igdb_id": 191680,
@@ -426073,6 +426073,11 @@
       "file": "missing/J/123507-joe-blunt-up-in-smoke.json"
     },
     {
+      "igdb_id": 226866,
+      "game_name": "Joe Danger 2: The Movie - Undead Movie Pack",
+      "file": "missing/J/226866-joe-danger-2-the-movie-undead-movie-pack.json"
+    },
+    {
       "igdb_id": 11243,
       "game_name": "Joe Danger Infinity",
       "file": "missing/J/11243-joe-danger-infinity.json"
@@ -430791,6 +430796,11 @@
       "igdb_id": 228747,
       "game_name": "Jurassic World Evolution 2: Dominion Malta Expansion",
       "file": "missing/J/228747-jurassic-world-evolution-2-dominion-malta-expansion.json"
+    },
+    {
+      "igdb_id": 226867,
+      "game_name": "Jurassic World Evolution 2: Early Cretaceous Pack",
+      "file": "missing/J/226867-jurassic-world-evolution-2-early-cretaceous-pack.json"
     },
     {
       "igdb_id": 242524,
@@ -442198,6 +442208,11 @@
       "file": "missing/K/274573-king-wizard-of-the-forest-kingdom.json"
     },
     {
+      "igdb_id": 226868,
+      "game_name": "King's Blade",
+      "file": "missing/K/226868-kings-blade.json"
+    },
+    {
       "igdb_id": 9613,
       "game_name": "King's Bounty",
       "file": "missing/K/9613-kings-bounty.json"
@@ -443731,6 +443746,11 @@
       "igdb_id": 346033,
       "game_name": "Kinnikuman: Taiketsu Akuma Choujin",
       "file": "missing/K/346033-kinnikuman-taiketsu-akuma-choujin.json"
+    },
+    {
+      "igdb_id": 226869,
+      "game_name": "KinnikuNeko: Super Muscle Cat",
+      "file": "missing/K/226869-kinnikuneko-super-muscle-cat.json"
     },
     {
       "igdb_id": 383157,
@@ -455056,6 +455076,26 @@
       "igdb_id": 769,
       "game_name": "Lara Croft and the Guardian of Light",
       "file": "missing/L/769-lara-croft-and-the-guardian-of-light.json"
+    },
+    {
+      "igdb_id": 226870,
+      "game_name": "Lara Croft and the Temple of Osiris: Deus Ex Pack",
+      "file": "missing/L/226870-lara-croft-and-the-temple-of-osiris-deus-ex-pack.json"
+    },
+    {
+      "igdb_id": 226871,
+      "game_name": "Lara Croft and the Temple of Osiris: Icy Death Pack",
+      "file": "missing/L/226871-lara-croft-and-the-temple-of-osiris-icy-death-pack.json"
+    },
+    {
+      "igdb_id": 226872,
+      "game_name": "Lara Croft and the Temple of Osiris: Legend Pack",
+      "file": "missing/L/226872-lara-croft-and-the-temple-of-osiris-legend-pack.json"
+    },
+    {
+      "igdb_id": 226873,
+      "game_name": "Lara Croft and the Temple of Osiris: Twisted Gears Pack",
+      "file": "missing/L/226873-lara-croft-and-the-temple-of-osiris-twisted-gears-pack.json"
     },
     {
       "igdb_id": 299543,
@@ -474708,6 +474748,11 @@
       "file": "missing/L/151046-lone-king.json"
     },
     {
+      "igdb_id": 226874,
+      "game_name": "Lone Knight",
+      "file": "missing/L/226874-lone-knight.json"
+    },
+    {
       "igdb_id": 352246,
       "game_name": "Lone Labyrinth: Burden of the Just",
       "file": "missing/L/352246-lone-labyrinth-burden-of-the-just.json"
@@ -476026,6 +476071,11 @@
       "igdb_id": 174868,
       "game_name": "Loot Legends: Robots vs Aliens",
       "file": "missing/L/174868-loot-legends-robots-vs-aliens.json"
+    },
+    {
+      "igdb_id": 226875,
+      "game_name": "Loot List",
+      "file": "missing/L/226875-loot-list.json"
     },
     {
       "igdb_id": 391204,
@@ -482363,6 +482413,11 @@
       "file": "missing/L/411677-lumaworlds.json"
     },
     {
+      "igdb_id": 226876,
+      "game_name": "Lumba: Hangover",
+      "file": "missing/L/226876-lumba-hangover.json"
+    },
+    {
       "igdb_id": 210890,
       "game_name": "Lumba: Redux",
       "file": "missing/L/210890-lumba-redux.json"
@@ -484061,6 +484116,11 @@
       "igdb_id": 31701,
       "game_name": "Luxis",
       "file": "missing/L/31701-luxis.json"
+    },
+    {
+      "igdb_id": 226877,
+      "game_name": "Luxo Buddies: Expansion Pack 1",
+      "file": "missing/L/226877-luxo-buddies-expansion-pack-1.json"
     },
     {
       "igdb_id": 7534,
@@ -624688,6 +624748,11 @@
       "file": "missing/P/162187-pixel-puzzles-ultimate-variety-pack-15.json"
     },
     {
+      "igdb_id": 226865,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack 19",
+      "file": "missing/P/226865-pixel-puzzles-ultimate-variety-pack-19.json"
+    },
+    {
       "igdb_id": 357889,
       "game_name": "Pixel Puzzles Ultimate: Variety Pack 24",
       "file": "missing/P/357889-pixel-puzzles-ultimate-variety-pack-24.json"
@@ -624718,6 +624783,11 @@
       "file": "missing/P/162155-pixel-puzzles-ultimate-variety-pack-4.json"
     },
     {
+      "igdb_id": 226863,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack 4XL",
+      "file": "missing/P/226863-pixel-puzzles-ultimate-variety-pack-4xl.json"
+    },
+    {
       "igdb_id": 162168,
       "game_name": "Pixel Puzzles Ultimate: Variety Pack 5",
       "file": "missing/P/162168-pixel-puzzles-ultimate-variety-pack-5.json"
@@ -624726,6 +624796,11 @@
       "igdb_id": 192144,
       "game_name": "Pixel Puzzles Ultimate: Variety Pack 5XS",
       "file": "missing/P/192144-pixel-puzzles-ultimate-variety-pack-5xs.json"
+    },
+    {
+      "igdb_id": 226864,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack 6XS",
+      "file": "missing/P/226864-pixel-puzzles-ultimate-variety-pack-6xs.json"
     },
     {
       "igdb_id": 357893,
@@ -691898,6 +691973,41 @@
       "file": "missing/R/225024-rocksmith-2014-edition-remastered-trans-siberian-orchestra-song-pack.json"
     },
     {
+      "igdb_id": 226645,
+      "game_name": "Rocksmith 2014: A Day to Remember Song Pack",
+      "file": "missing/R/226645-rocksmith-2014-a-day-to-remember-song-pack.json"
+    },
+    {
+      "igdb_id": 226646,
+      "game_name": "Rocksmith 2014: Aerosmith Song Pack",
+      "file": "missing/R/226646-rocksmith-2014-aerosmith-song-pack.json"
+    },
+    {
+      "igdb_id": 226647,
+      "game_name": "Rocksmith 2014: Alice in Chains Song Pack",
+      "file": "missing/R/226647-rocksmith-2014-alice-in-chains-song-pack.json"
+    },
+    {
+      "igdb_id": 226648,
+      "game_name": "Rocksmith 2014: Alt-Rock Song Pack",
+      "file": "missing/R/226648-rocksmith-2014-alt-rock-song-pack.json"
+    },
+    {
+      "igdb_id": 226649,
+      "game_name": "Rocksmith 2014: Anniversary Song Pack",
+      "file": "missing/R/226649-rocksmith-2014-anniversary-song-pack.json"
+    },
+    {
+      "igdb_id": 226650,
+      "game_name": "Rocksmith 2014: Audioslave Song Pack",
+      "file": "missing/R/226650-rocksmith-2014-audioslave-song-pack.json"
+    },
+    {
+      "igdb_id": 226651,
+      "game_name": "Rocksmith 2014: Biffy Clyro Song Pack",
+      "file": "missing/R/226651-rocksmith-2014-biffy-clyro-song-pack.json"
+    },
+    {
       "igdb_id": 226652,
       "game_name": "Rocksmith 2014: Billy Talent Song Pack",
       "file": "missing/R/226652-rocksmith-2014-billy-talent-song-pack.json"
@@ -692006,6 +692116,56 @@
       "igdb_id": 226660,
       "game_name": "Rocksmith 2014: The Cars Song Pack",
       "file": "missing/R/226660-rocksmith-2014-the-cars-song-pack.json"
+    },
+    {
+      "igdb_id": 226637,
+      "game_name": "Rocksmith 2014: The Killers Song Pack",
+      "file": "missing/R/226637-rocksmith-2014-the-killers-song-pack.json"
+    },
+    {
+      "igdb_id": 226638,
+      "game_name": "Rocksmith 2014: The Offspring Song Pack II",
+      "file": "missing/R/226638-rocksmith-2014-the-offspring-song-pack-ii.json"
+    },
+    {
+      "igdb_id": 226639,
+      "game_name": "Rocksmith 2014: The Smashing Pumpkins Song Pack",
+      "file": "missing/R/226639-rocksmith-2014-the-smashing-pumpkins-song-pack.json"
+    },
+    {
+      "igdb_id": 226640,
+      "game_name": "Rocksmith 2014: The White Stripes Song Pack",
+      "file": "missing/R/226640-rocksmith-2014-the-white-stripes-song-pack.json"
+    },
+    {
+      "igdb_id": 226641,
+      "game_name": "Rocksmith 2014: The Who Song Pack",
+      "file": "missing/R/226641-rocksmith-2014-the-who-song-pack.json"
+    },
+    {
+      "igdb_id": 226642,
+      "game_name": "Rocksmith 2014: Thirty Seconds to Mars Song Pack",
+      "file": "missing/R/226642-rocksmith-2014-thirty-seconds-to-mars-song-pack.json"
+    },
+    {
+      "igdb_id": 226643,
+      "game_name": "Rocksmith 2014: Three Days Grace Song Pack",
+      "file": "missing/R/226643-rocksmith-2014-three-days-grace-song-pack.json"
+    },
+    {
+      "igdb_id": 226644,
+      "game_name": "Rocksmith 2014: Tom Petty Song Pack",
+      "file": "missing/R/226644-rocksmith-2014-tom-petty-song-pack.json"
+    },
+    {
+      "igdb_id": 226635,
+      "game_name": "Rocksmith 2014: Weezer Song Pack",
+      "file": "missing/R/226635-rocksmith-2014-weezer-song-pack.json"
+    },
+    {
+      "igdb_id": 226636,
+      "game_name": "Rocksmith 2014: Women Who Rock Song Pack",
+      "file": "missing/R/226636-rocksmith-2014-women-who-rock-song-pack.json"
     },
     {
       "igdb_id": 226711,
@@ -910933,6 +911093,11 @@
       "file": "missing/T/94916-transcend.json"
     },
     {
+      "igdb_id": 226894,
+      "game_name": "Transcendence",
+      "file": "missing/T/226894-transcendence.json"
+    },
+    {
       "igdb_id": 401031,
       "game_name": "Transcendence in the Poolrooms",
       "file": "missing/T/401031-transcendence-in-the-poolrooms.json"
@@ -911406,6 +911571,11 @@
       "igdb_id": 53856,
       "game_name": "Transport Giant: Gold Edition 2012",
       "file": "missing/T/53856-transport-giant-gold-edition-2012.json"
+    },
+    {
+      "igdb_id": 226895,
+      "game_name": "Transport INC: Map Pack",
+      "file": "missing/T/226895-transport-inc-map-pack.json"
     },
     {
       "igdb_id": 5504,
@@ -935123,6 +935293,11 @@
       "file": "missing/V/148228-v-rising.json"
     },
     {
+      "igdb_id": 226891,
+      "game_name": "V Rising: Dracula's Relics Pack",
+      "file": "missing/V/226891-v-rising-draculas-relics-pack.json"
+    },
+    {
       "igdb_id": 297468,
       "game_name": "V Rising: Founder's Pack - Eldest Bloodline",
       "file": "missing/V/297468-v-rising-founders-pack-eldest-bloodline.json"
@@ -936586,6 +936761,11 @@
       "igdb_id": 379957,
       "game_name": "Valkyrie Drive: Bhikkhuni - Bikini Party Edition",
       "file": "missing/V/379957-valkyrie-drive-bhikkhuni-bikini-party-edition.json"
+    },
+    {
+      "igdb_id": 226892,
+      "game_name": "Valkyrie Drive: Bhikkhuni - Complete DLC Pack",
+      "file": "missing/V/226892-valkyrie-drive-bhikkhuni-complete-dlc-pack.json"
     },
     {
       "igdb_id": 42678,
@@ -941206,6 +941386,11 @@
       "igdb_id": 11039,
       "game_name": "Victoria II: Heart of Darkness",
       "file": "missing/V/11039-victoria-ii-heart-of-darkness.json"
+    },
+    {
+      "igdb_id": 226893,
+      "game_name": "Victoria II: Interwar Cavalry Unit Pack",
+      "file": "missing/V/226893-victoria-ii-interwar-cavalry-unit-pack.json"
     },
     {
       "igdb_id": 11036,
@@ -952698,9 +952883,34 @@
       "file": "missing/W/284415-warface-clutch.json"
     },
     {
+      "igdb_id": 226890,
+      "game_name": "Warface: Complete Tournament Pack",
+      "file": "missing/W/226890-warface-complete-tournament-pack.json"
+    },
+    {
+      "igdb_id": 226889,
+      "game_name": "Warface: Engineer Tournament Pack",
+      "file": "missing/W/226889-warface-engineer-tournament-pack.json"
+    },
+    {
       "igdb_id": 172778,
       "game_name": "Warface: Global Operations",
       "file": "missing/W/172778-warface-global-operations.json"
+    },
+    {
+      "igdb_id": 226888,
+      "game_name": "Warface: Medic Tournament Pack",
+      "file": "missing/W/226888-warface-medic-tournament-pack.json"
+    },
+    {
+      "igdb_id": 226887,
+      "game_name": "Warface: Rifleman Tournament Pack",
+      "file": "missing/W/226887-warface-rifleman-tournament-pack.json"
+    },
+    {
+      "igdb_id": 226886,
+      "game_name": "Warface: Sniper Tournament Pack",
+      "file": "missing/W/226886-warface-sniper-tournament-pack.json"
     },
     {
       "igdb_id": 82438,
@@ -952951,6 +953161,16 @@
       "igdb_id": 53887,
       "game_name": "Wargame: Red Dragon - Complete Edition",
       "file": "missing/W/53887-wargame-red-dragon-complete-edition.json"
+    },
+    {
+      "igdb_id": 226885,
+      "game_name": "Wargame: Red Dragon - Double Nation Pack Reds",
+      "file": "missing/W/226885-wargame-red-dragon-double-nation-pack-reds.json"
+    },
+    {
+      "igdb_id": 226884,
+      "game_name": "Wargame: Red Dragon - Nation Pack: Israel",
+      "file": "missing/W/226884-wargame-red-dragon-nation-pack-israel.json"
     },
     {
       "igdb_id": 170456,
@@ -955098,6 +955318,11 @@
       "file": "missing/W/252804-warriors-orochi-4-scenario-pack-1.json"
     },
     {
+      "igdb_id": 226880,
+      "game_name": "Warriors Orochi 4: Scenario Pack 2",
+      "file": "missing/W/226880-warriors-orochi-4-scenario-pack-2.json"
+    },
+    {
       "igdb_id": 336559,
       "game_name": "Warriors Waifus Mahjong",
       "file": "missing/W/336559-warriors-waifus-mahjong.json"
@@ -956006,6 +956231,11 @@
       "igdb_id": 310212,
       "game_name": "Watch",
       "file": "missing/W/310212-watch.json"
+    },
+    {
+      "igdb_id": 226879,
+      "game_name": "Watch Dogs 2: Mega Pack",
+      "file": "missing/W/226879-watch-dogs-2-mega-pack.json"
     },
     {
       "igdb_id": 28377,
@@ -957511,6 +957741,11 @@
       "igdb_id": 152342,
       "game_name": "We Are Football: Bundesliga Edition",
       "file": "missing/W/152342-we-are-football-bundesliga-edition.json"
+    },
+    {
+      "igdb_id": 226881,
+      "game_name": "We Are Football: National Teams",
+      "file": "missing/W/226881-we-are-football-national-teams.json"
     },
     {
       "igdb_id": 258445,
@@ -967963,6 +968198,16 @@
       "file": "missing/W/216826-winter-resort-simulator-2-riedstein.json"
     },
     {
+      "igdb_id": 226882,
+      "game_name": "Winter Resort Simulator Season 2: Content Pack",
+      "file": "missing/W/226882-winter-resort-simulator-season-2-content-pack.json"
+    },
+    {
+      "igdb_id": 226883,
+      "game_name": "Winter Resort Simulator Season 2: TechnoAlpin - Snow Expert Pack",
+      "file": "missing/W/226883-winter-resort-simulator-season-2-technoalpin-snow-expert-pack.json"
+    },
+    {
       "igdb_id": 366953,
       "game_name": "Winter Sadness Simulator",
       "file": "missing/W/366953-winter-sadness-simulator.json"
@@ -976301,6 +976546,11 @@
       "igdb_id": 79925,
       "game_name": "Worlds of Magic: Planar Conquest",
       "file": "missing/W/79925-worlds-of-magic-planar-conquest.json"
+    },
+    {
+      "igdb_id": 226878,
+      "game_name": "Worlds of Magic: Sorcerer Lords Pack",
+      "file": "missing/W/226878-worlds-of-magic-sorcerer-lords-pack.json"
     },
     {
       "igdb_id": 160281,
