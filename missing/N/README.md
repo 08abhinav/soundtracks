@@ -282,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nano Flat Owner | 391032 | [391032-nano-flat-owner.json](./391032-nano-flat-owner.json) |
 | Nano Force | 250483 | [250483-nano-force.json](./250483-nano-force.json) |
 | Nano Neighbors | 347838 | [347838-nano-neighbors.json](./347838-nano-neighbors.json) |
+| Nano Organism | 201495 | [201495-nano-organism.json](./201495-nano-organism.json) |
 | Nano Reef | 405538 | [405538-nano-reef.json](./405538-nano-reef.json) |
 | Nano Shift VR | 48000 | [48000-nano-shift-vr.json](./48000-nano-shift-vr.json) |
 | Nano Wars | 157018 | [157018-nano-wars.json](./157018-nano-wars.json) |
@@ -4977,6 +4978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuts & Bolts Puzzle | 265749 | [265749-nuts-and-bolts-puzzle.json](./265749-nuts-and-bolts-puzzle.json) |
 | Nuts Physics | 175272 | [175272-nuts-physics.json](./175272-nuts-physics.json) |
 | Nuts Protocol | 207192 | [207192-nuts-protocol.json](./207192-nuts-protocol.json) |
+| Nuts Space Shooter | 201515 | [201515-nuts-space-shooter.json](./201515-nuts-space-shooter.json) |
 | NutShot | 291356 | [291356-nutshot.json](./291356-nutshot.json) |
 | NutsMania | 401757 | [401757-nutsmania.json](./401757-nutsmania.json) |
 | Nutty | 299170 | [299170-nutty.json](./299170-nutty.json) |
