@@ -569,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaxx Blorgin's UFO Jam | 391306 | [391306-jaxx-blorgins-ufo-jam.json](./391306-jaxx-blorgins-ufo-jam.json) |
 | Jay and Silent Bob: Chronic Blunt Punch | 28284 | [28284-jay-and-silent-bob-chronic-blunt-punch.json](./28284-jay-and-silent-bob-chronic-blunt-punch.json) |
 | Jay and Silent Bob's: Joint Venture | 411541 | [411541-jay-and-silent-bobs-joint-venture.json](./411541-jay-and-silent-bobs-joint-venture.json) |
+| Jay Arnold's Immortal Quest | 179427 | [179427-jay-arnolds-immortal-quest.json](./179427-jay-arnolds-immortal-quest.json) |
 | Jay Schilling's Edge of Chaos | 189025 | [189025-jay-schillings-edge-of-chaos.json](./189025-jay-schillings-edge-of-chaos.json) |
 | Jay's Walkin' | 156554 | [156554-jays-walkin.json](./156554-jays-walkin.json) |
 | Jayce | 177500 | [177500-jayce.json](./177500-jayce.json) |
