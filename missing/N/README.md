@@ -2082,6 +2082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Frontier | 120855 | [120855-new-frontier.json](./120855-new-frontier.json) |
 | New Frontier: Zombies | 130787 | [130787-new-frontier-zombies.json](./130787-new-frontier-zombies.json) |
 | New Game! The Challenge Stage! | 117577 | [117577-new-game-the-challenge-stage.json](./117577-new-game-the-challenge-stage.json) |
+| New Gangster Crime | 219771 | [219771-new-gangster-crime.json](./219771-new-gangster-crime.json) |
 | New Ganymede | 266783 | [266783-new-ganymede.json](./266783-new-ganymede.json) |
 | New Ghostbusters II | 3658 | [3658-new-ghostbusters-ii.json](./3658-new-ghostbusters-ii.json) |
 | New Giant Business | 119609 | [119609-new-giant-business.json](./119609-new-giant-business.json) |
