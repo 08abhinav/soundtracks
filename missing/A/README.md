@@ -3602,6 +3602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akuma Ouji to Ayatsuri Ningyou | 242068 | [242068-akuma-ouji-to-ayatsuri-ningyou.json](./242068-akuma-ouji-to-ayatsuri-ningyou.json) |
 | Akuma Shitsuji to Kuroi Neko | 367762 | [367762-akuma-shitsuji-to-kuroi-neko.json](./367762-akuma-shitsuji-to-kuroi-neko.json) |
 | Akuma-kun: Makai no Wana | 48605 | [48605-akuma-kun-makai-no-wana.json](./48605-akuma-kun-makai-no-wana.json) |
+| Akuma: Cyberpunk Rhythm Action | 192636 | [192636-akuma-cyberpunk-rhythm-action.json](./192636-akuma-cyberpunk-rhythm-action.json) |
 | Akuma: Demon Spawn | 72177 | [72177-akuma-demon-spawn.json](./72177-akuma-demon-spawn.json) |
 | Akumajou Densetsu | 151162 | [151162-akumajou-densetsu.json](./151162-akumajou-densetsu.json) |
 | Akumajou Densetsu | 353301 | [353301-akumajou-densetsu.json](./353301-akumajou-densetsu.json) |
@@ -6503,6 +6504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annelids | 57118 | [57118-annelids.json](./57118-annelids.json) |
 | Annexation | 404838 | [404838-annexation.json](./404838-annexation.json) |
 | Annie and the AI | 223489 | [223489-annie-and-the-ai.json](./223489-annie-and-the-ai.json) |
+| Annie and the Art Gallery | 192656 | [192656-annie-and-the-art-gallery.json](./192656-annie-and-the-art-gallery.json) |
 | Annie and the Shadow Palace | 158071 | [158071-annie-and-the-shadow-palace.json](./158071-annie-and-the-shadow-palace.json) |
 | Annie Android: Automated Affection | 165510 | [165510-annie-android-automated-affection.json](./165510-annie-android-automated-affection.json) |
 | Annihilate the Spance | 192985 | [192985-annihilate-the-spance.json](./192985-annihilate-the-spance.json) |
