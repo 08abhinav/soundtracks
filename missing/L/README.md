@@ -1693,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Red | 334507 | [334507-legend-of-red.json](./334507-legend-of-red.json) |
 | Legend of Roland | 39781 | [39781-legend-of-roland.json](./39781-legend-of-roland.json) |
 | Legend of Rome 2: The Magic Hourglass | 296488 | [296488-legend-of-rome-2-the-magic-hourglass.json](./296488-legend-of-rome-2-the-magic-hourglass.json) |
+| Legend of Rome: The Wrath of Mars | 199345 | [199345-legend-of-rome-the-wrath-of-mars.json](./199345-legend-of-rome-the-wrath-of-mars.json) |
 | Legend of Saha | 347817 | [347817-legend-of-saha.json](./347817-legend-of-saha.json) |
 | Legend of Serigel | 180648 | [180648-legend-of-serigel.json](./180648-legend-of-serigel.json) |
 | Legend of Silkroad | 23625 | [23625-legend-of-silkroad.json](./23625-legend-of-silkroad.json) |
@@ -2208,6 +2209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lennus II: Fuuin no Shito | 38376 | [38376-lennus-ii-fuuin-no-shito.json](./38376-lennus-ii-fuuin-no-shito.json) |
 | Lenny Loosejocks Goes Snowboarding | 407924 | [407924-lenny-loosejocks-goes-snowboarding.json](./407924-lenny-loosejocks-goes-snowboarding.json) |
 | Lenny Loosejocks Goes Walkabout | 170548 | [170548-lenny-loosejocks-goes-walkabout.json](./170548-lenny-loosejocks-goes-walkabout.json) |
+| Lenny Loosejocks in Space | 199337 | [199337-lenny-loosejocks-in-space.json](./199337-lenny-loosejocks-in-space.json) |
 | Lenny! | 186343 | [186343-lenny.json](./186343-lenny.json) |
 | Lenrual | 380692 | [380692-lenrual.json](./380692-lenrual.json) |
 | Lens Gloss | 272236 | [272236-lens-gloss.json](./272236-lens-gloss.json) |
@@ -3460,6 +3462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linebound | 403778 | [403778-linebound.json](./403778-linebound.json) |
 | Linecook | 179198 | [179198-linecook.json](./179198-linecook.json) |
 | Linehot Putin: All Stars | 116855 | [116855-linehot-putin-all-stars.json](./116855-linehot-putin-all-stars.json) |
+| Linelith | 199313 | [199313-linelith.json](./199313-linelith.json) |
 | Lineoff | 181913 | [181913-lineoff.json](./181913-lineoff.json) |
 | Lines | 91339 | [91339-lines.json](./91339-lines.json) |
 | Lines - Best Puzzle Game | 87073 | [87073-lines-best-puzzle-game.json](./87073-lines-best-puzzle-game.json) |
@@ -4568,6 +4571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | London's Aesop | 177903 | [177903-londons-aesop.json](./177903-londons-aesop.json) |
 | Londonian Gothics: Meikyuu no Lolita | 122996 | [122996-londonian-gothics-meikyuu-no-lolita.json](./122996-londonian-gothics-meikyuu-no-lolita.json) |
 | Lone | 181160 | [181160-lone.json](./181160-lone.json) |
+| Lone Bastion | 199322 | [199322-lone-bastion.json](./199322-lone-bastion.json) |
 | Lone Bird in the Tree | 374438 | [374438-lone-bird-in-the-tree.json](./374438-lone-bird-in-the-tree.json) |
 | Lone Chef | 388208 | [388208-lone-chef.json](./388208-lone-chef.json) |
 | Lone City | 373163 | [373163-lone-city.json](./373163-lone-city.json) |
