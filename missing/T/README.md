@@ -4987,6 +4987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crystal Skull | 69558 | [69558-the-crystal-skull.json](./69558-the-crystal-skull.json) |
 | The Crystals of Atlantis | 96282 | [96282-the-crystals-of-atlantis.json](./96282-the-crystals-of-atlantis.json) |
 | The Cube | 120141 | [120141-the-cube.json](./120141-the-cube.json) |
+| The Cube | 226361 | [226361-the-cube.json](./226361-the-cube.json) |
 | The Cube | 347640 | [347640-the-cube.json](./347640-the-cube.json) |
 | The Cube | 61686 | [61686-the-cube.json](./61686-the-cube.json) |
 | The Cube | 88652 | [88652-the-cube.json](./88652-the-cube.json) |
@@ -19304,6 +19305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials in Tainted Space | 128001 | [128001-trials-in-tainted-space.json](./128001-trials-in-tainted-space.json) |
 | Trials Mountain Heights | 305136 | [305136-trials-mountain-heights.json](./305136-trials-mountain-heights.json) |
 | Trials of Ascension: Exile | 105147 | [105147-trials-of-ascension-exile.json](./105147-trials-of-ascension-exile.json) |
+| Trials of Cascadia | 226364 | [226364-trials-of-cascadia.json](./226364-trials-of-cascadia.json) |
 | Trials of Dash | 415889 | [415889-trials-of-dash.json](./415889-trials-of-dash.json) |
 | Trials of Fire | 116992 | [116992-trials-of-fire.json](./116992-trials-of-fire.json) |
 | Trials of Guinevere | 127611 | [127611-trials-of-guinevere.json](./127611-trials-of-guinevere.json) |
