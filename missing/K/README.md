@@ -2194,6 +2194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Kroz | 73796 | [73796-kingdom-of-kroz.json](./73796-kingdom-of-kroz.json) |
 | Kingdom of Lies | 183804 | [183804-kingdom-of-lies.json](./183804-kingdom-of-lies.json) |
 | Kingdom of Marionettes | 399754 | [399754-kingdom-of-marionettes.json](./399754-kingdom-of-marionettes.json) |
+| Kingdom of Maverta | 181074 | [181074-kingdom-of-maverta.json](./181074-kingdom-of-maverta.json) |
 | Kingdom of Night | 117531 | [117531-kingdom-of-night.json](./117531-kingdom-of-night.json) |
 | Kingdom of Nyabur: The Shattered Realm | 217501 | [217501-kingdom-of-nyabur-the-shattered-realm.json](./217501-kingdom-of-nyabur-the-shattered-realm.json) |
 | Kingdom of Paradise | 259656 | [259656-kingdom-of-paradise.json](./259656-kingdom-of-paradise.json) |
@@ -3843,6 +3844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Superstar | 116409 | [116409-kung-fu-superstar.json](./116409-kung-fu-superstar.json) |
 | Kung Fu Zombie | 106646 | [106646-kung-fu-zombie.json](./106646-kung-fu-zombie.json) |
 | Kung Fu: Shadow Fist | 56777 | [56777-kung-fu-shadow-fist.json](./56777-kung-fu-shadow-fist.json) |
+| Kung Fury: Street Rage - A Day at the Beach | 182181 | [182181-kung-fury-street-rage-a-day-at-the-beach.json](./182181-kung-fury-street-rage-a-day-at-the-beach.json) |
 | Kung Fury: Street Rage - Ultimate Edition | 204716 | [204716-kung-fury-street-rage-ultimate-edition.json](./204716-kung-fury-street-rage-ultimate-edition.json) |
 | Kung Pao Banqi | 320527 | [320527-kung-pao-banqi.json](./320527-kung-pao-banqi.json) |
 | Kung-fu Beat | 332672 | [332672-kung-fu-beat.json](./332672-kung-fu-beat.json) |
