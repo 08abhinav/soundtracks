@@ -1591,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elfenwelt | 73243 | [73243-elfenwelt.json](./73243-elfenwelt.json) |
 | Elfheim: Chapter 1 | 207745 | [207745-elfheim-chapter-1.json](./207745-elfheim-chapter-1.json) |
 | Elfie | 304867 | [304867-elfie.json](./304867-elfie.json) |
+| Elfin Clay | 189904 | [189904-elfin-clay.json](./189904-elfin-clay.json) |
 | Elfin National Park | 341877 | [341877-elfin-national-park.json](./341877-elfin-national-park.json) |
 | Elfland | 246394 | [246394-elfland.json](./246394-elfland.json) |
 | ElfLand | 79982 | [79982-elfland.json](./79982-elfland.json) |
@@ -2629,6 +2630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enoah's Quest | 303516 | [303516-enoahs-quest.json](./303516-enoahs-quest.json) |
 | Enoch | 217334 | [217334-enoch.json](./217334-enoch.json) |
 | Enoch Never Dies | 350514 | [350514-enoch-never-dies.json](./350514-enoch-never-dies.json) |
+| Enoh | 189921 | [189921-enoh.json](./189921-enoh.json) |
 | Enoki | 157149 | [157149-enoki.json](./157149-enoki.json) |
 | Enotria: The Last Song | 218521 | [218521-enotria-the-last-song.json](./218521-enotria-the-last-song.json) |
 | Enough Plumbers | 141730 | [141730-enough-plumbers.json](./141730-enough-plumbers.json) |
@@ -3623,6 +3625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escort Alia | 241363 | [241363-escort-alia.json](./241363-escort-alia.json) |
 | Escort Alia: Escort Rena | 241320 | [241320-escort-alia-escort-rena.json](./241320-escort-alia-escort-rena.json) |
 | Escort Commander | 80998 | [80998-escort-commander.json](./80998-escort-commander.json) |
+| Escort Simulator 2 | 189984 | [189984-escort-simulator-2.json](./189984-escort-simulator-2.json) |
 | Escort's Secrets 18+ | 275135 | [275135-escorts-secrets-18.json](./275135-escorts-secrets-18.json) |
 | Escortina Life! 2.0 | 286075 | [286075-escortina-life-2-0.json](./286075-escortina-life-2-0.json) |
 | Escria | 402469 | [402469-escria.json](./402469-escria.json) |
