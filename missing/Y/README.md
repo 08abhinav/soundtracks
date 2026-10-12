@@ -76,10 +76,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza 4 | 2062 | [2062-yakuza-4.json](./2062-yakuza-4.json) |
 | Yakuza 4 Remastered | 103016 | [103016-yakuza-4-remastered.json](./103016-yakuza-4-remastered.json) |
 | Yakuza 5 Remastered | 103017 | [103017-yakuza-5-remastered.json](./103017-yakuza-5-remastered.json) |
+| Yakuza 6: Song of Life - Clan Creator Card Bundle | 224152 | [224152-yakuza-6-song-of-life-clan-creator-card-bundle.json](./224152-yakuza-6-song-of-life-clan-creator-card-bundle.json) |
 | Yakuza GB | 301530 | [301530-yakuza-gb.json](./301530-yakuza-gb.json) |
 | Yakuza Kiss | 104130 | [104130-yakuza-kiss.json](./104130-yakuza-kiss.json) |
 | Yakuza Kiwami & Yakuza Kiwami 2 Bundle | 370796 | [370796-yakuza-kiwami-and-yakuza-kiwami-2-bundle.json](./370796-yakuza-kiwami-and-yakuza-kiwami-2-bundle.json) |
 | Yakuza Kiwami 2 | 55090 | [55090-yakuza-kiwami-2.json](./55090-yakuza-kiwami-2.json) |
+| Yakuza Kiwami 2: Clan Creator Bundle | 224153 | [224153-yakuza-kiwami-2-clan-creator-bundle.json](./224153-yakuza-kiwami-2-clan-creator-bundle.json) |
 | Yakuza Kiwami 2: Limited Edition | 167091 | [167091-yakuza-kiwami-2-limited-edition.json](./167091-yakuza-kiwami-2-limited-edition.json) |
 | Yakuza Kiwami 3 & Dark Ties: Deluxe Edition | 370826 | [370826-yakuza-kiwami-3-and-dark-ties-deluxe-edition.json](./370826-yakuza-kiwami-3-and-dark-ties-deluxe-edition.json) |
 | Yakuza Kiwami 3 & Dark Ties: Flip Phone Customization Pack | 375193 | [375193-yakuza-kiwami-3-and-dark-ties-flip-phone-customization-pack.json](./375193-yakuza-kiwami-3-and-dark-ties-flip-phone-customization-pack.json) |
@@ -955,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Turn to Disembark | 288448 | [288448-your-turn-to-disembark.json](./288448-your-turn-to-disembark.json) |
 | Your Turn To Thrive | 413776 | [413776-your-turn-to-thrive.json](./413776-your-turn-to-thrive.json) |
 | Your Very Last Words | 352760 | [352760-your-very-last-words.json](./352760-your-very-last-words.json) |
+| Your Voice in the Autumn Leaves | 225819 | [225819-your-voice-in-the-autumn-leaves.json](./225819-your-voice-in-the-autumn-leaves.json) |
 | Your Waifu Juice | 216478 | [216478-your-waifu-juice.json](./216478-your-waifu-juice.json) |
 | Your Way Out | 395998 | [395998-your-way-out.json](./395998-your-way-out.json) |
 | Your wife | 166731 | [166731-your-wife.json](./166731-your-wife.json) |
