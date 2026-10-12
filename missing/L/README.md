@@ -599,6 +599,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lar | 281336 | [281336-lar.json](./281336-lar.json) |
 | Lara at the Movies: Blood from the Mummy's Tomb | 315558 | [315558-lara-at-the-movies-blood-from-the-mummys-tomb.json](./315558-lara-at-the-movies-blood-from-the-mummys-tomb.json) |
 | Lara Croft and the Guardian of Light | 769 | [769-lara-croft-and-the-guardian-of-light.json](./769-lara-croft-and-the-guardian-of-light.json) |
+| Lara Croft and the Temple of Osiris: Deus Ex Pack | 226870 | [226870-lara-croft-and-the-temple-of-osiris-deus-ex-pack.json](./226870-lara-croft-and-the-temple-of-osiris-deus-ex-pack.json) |
+| Lara Croft and the Temple of Osiris: Icy Death Pack | 226871 | [226871-lara-croft-and-the-temple-of-osiris-icy-death-pack.json](./226871-lara-croft-and-the-temple-of-osiris-icy-death-pack.json) |
+| Lara Croft and the Temple of Osiris: Legend Pack | 226872 | [226872-lara-croft-and-the-temple-of-osiris-legend-pack.json](./226872-lara-croft-and-the-temple-of-osiris-legend-pack.json) |
+| Lara Croft and the Temple of Osiris: Twisted Gears Pack | 226873 | [226873-lara-croft-and-the-temple-of-osiris-twisted-gears-pack.json](./226873-lara-croft-and-the-temple-of-osiris-twisted-gears-pack.json) |
 | Lara Croft's Poker Party | 299543 | [299543-lara-crofts-poker-party.json](./299543-lara-crofts-poker-party.json) |
 | Lara Gates: The Lost Talisman Hidden Object Game | 144761 | [144761-lara-gates-the-lost-talisman-hidden-object-game.json](./144761-lara-gates-the-lost-talisman-hidden-object-game.json) |
 | Laranja! | 391059 | [391059-laranja.json](./391059-laranja.json) |
@@ -4529,6 +4533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Fury | 338684 | [338684-lone-fury.json](./338684-lone-fury.json) |
 | Lone Hero Path | 292416 | [292416-lone-hero-path.json](./292416-lone-hero-path.json) |
 | Lone King | 151046 | [151046-lone-king.json](./151046-lone-king.json) |
+| Lone Knight | 226874 | [226874-lone-knight.json](./226874-lone-knight.json) |
 | Lone Labyrinth: Burden of the Just | 352246 | [352246-lone-labyrinth-burden-of-the-just.json](./352246-lone-labyrinth-burden-of-the-just.json) |
 | Lone Lamp | 289239 | [289239-lone-lamp.json](./289239-lone-lamp.json) |
 | Lone McLonegan : A Western Adventure | 153926 | [153926-lone-mclonegan-a-western-adventure.json](./153926-lone-mclonegan-a-western-adventure.json) |
@@ -4793,6 +4798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Hero DX | 17289 | [17289-loot-hero-dx.json](./17289-loot-hero-dx.json) |
 | Loot Hound | 34187 | [34187-loot-hound.json](./34187-loot-hound.json) |
 | Loot Legends: Robots vs Aliens | 174868 | [174868-loot-legends-robots-vs-aliens.json](./174868-loot-legends-robots-vs-aliens.json) |
+| Loot List | 226875 | [226875-loot-list.json](./226875-loot-list.json) |
 | Loot Loop | 391204 | [391204-loot-loop.json](./391204-loot-loop.json) |
 | Loot Loot Goblin | 316778 | [316778-loot-loot-goblin.json](./316778-loot-loot-goblin.json) |
 | Loot of Idle | 374942 | [374942-loot-of-idle.json](./374942-loot-of-idle.json) |
@@ -6058,6 +6064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luma Island | 293035 | [293035-luma-island.json](./293035-luma-island.json) |
 | Luma Island: Pirates | 347822 | [347822-luma-island-pirates.json](./347822-luma-island-pirates.json) |
 | LumaWorlds | 411677 | [411677-lumaworlds.json](./411677-lumaworlds.json) |
+| Lumba: Hangover | 226876 | [226876-lumba-hangover.json](./226876-lumba-hangover.json) |
 | Lumba: Redux | 210890 | [210890-lumba-redux.json](./210890-lumba-redux.json) |
 | Lumbah Jump | 211789 | [211789-lumbah-jump.json](./211789-lumbah-jump.json) |
 | LumbearJack | 163629 | [163629-lumbearjack.json](./163629-lumbearjack.json) |
@@ -6398,6 +6405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luxe Chalk | 87798 | [87798-luxe-chalk.json](./87798-luxe-chalk.json) |
 | Luxin Time | 41894 | [41894-luxin-time.json](./41894-luxin-time.json) |
 | Luxis | 31701 | [31701-luxis.json](./31701-luxis.json) |
+| Luxo Buddies: Expansion Pack 1 | 226877 | [226877-luxo-buddies-expansion-pack-1.json](./226877-luxo-buddies-expansion-pack-1.json) |
 | Luxor | 7534 | [7534-luxor.json](./7534-luxor.json) |
 | Luxor 2 HD | 30226 | [30226-luxor-2-hd.json](./30226-luxor-2-hd.json) |
 | Luxor Adventures | 7540 | [7540-luxor-adventures.json](./7540-luxor-adventures.json) |
