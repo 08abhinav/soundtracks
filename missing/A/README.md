@@ -3606,6 +3606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akumajou Dracula | 377248 | [377248-akumajou-dracula.json](./377248-akumajou-dracula.json) |
 | Akumajou Dracula X: Gekka no Yasoukyoku | 45508 | [45508-akumajou-dracula-x-gekka-no-yasoukyoku.json](./45508-akumajou-dracula-x-gekka-no-yasoukyoku.json) |
 | Akumanor Gaiden | 361222 | [361222-akumanor-gaiden.json](./361222-akumanor-gaiden.json) |
+| Akumi Wars | 199329 | [199329-akumi-wars.json](./199329-akumi-wars.json) |
 | Akumon Summoner | 393458 | [393458-akumon-summoner.json](./393458-akumon-summoner.json) |
 | Akunin-Akka | 389995 | [389995-akunin-akka.json](./389995-akunin-akka.json) |
 | Akupara Collection | 324009 | [324009-akupara-collection.json](./324009-akupara-collection.json) |
@@ -7354,6 +7355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Panic!: Heaven Pack | 169307 | [169307-aqua-panic-heaven-pack.json](./169307-aqua-panic-heaven-pack.json) |
 | Aqua Panic!: Inferno Pack | 224146 | [224146-aqua-panic-inferno-pack.json](./224146-aqua-panic-inferno-pack.json) |
 | Aqua Paradise: Boku no Suizokukan | 62543 | [62543-aqua-paradise-boku-no-suizokukan.json](./62543-aqua-paradise-boku-no-suizokukan.json) |
+| Aqua Populo | 199347 | [199347-aqua-populo.json](./199347-aqua-populo.json) |
 | Aqua Pump | 93820 | [93820-aqua-pump.json](./93820-aqua-pump.json) |
 | Aqua Puzzle Adventures | 306527 | [306527-aqua-puzzle-adventures.json](./306527-aqua-puzzle-adventures.json) |
 | Aqua Racer | 293247 | [293247-aqua-racer.json](./293247-aqua-racer.json) |
@@ -8260,6 +8262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are You Ok? | 179054 | [179054-are-you-ok.json](./179054-are-you-ok.json) |
 | Are you Ready VR | 143955 | [143955-are-you-ready-vr.json](./143955-are-you-ready-vr.json) |
 | Are You Smarter Than a 5th Grader | 35440 | [35440-are-you-smarter-than-a-5th-grader.json](./35440-are-you-smarter-than-a-5th-grader.json) |
+| Are You Smarter than a 5th Grader? | 199325 | [199325-are-you-smarter-than-a-5th-grader.json](./199325-are-you-smarter-than-a-5th-grader.json) |
 | Are You Smarter Than a 5th Grader? | 212767 | [212767-are-you-smarter-than-a-5th-grader.json](./212767-are-you-smarter-than-a-5th-grader.json) |
 | Are You Smarter Than A 5th Grader? | 220072 | [220072-are-you-smarter-than-a-5th-grader.json](./220072-are-you-smarter-than-a-5th-grader.json) |
 | Are You Smarter Than a 5th Grader? Game Time | 197940 | [197940-are-you-smarter-than-a-5th-grader-game-time.json](./197940-are-you-smarter-than-a-5th-grader-game-time.json) |
@@ -8949,6 +8952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Murder: FBI Confidential | 9986 | [9986-art-of-murder-fbi-confidential.json](./9986-art-of-murder-fbi-confidential.json) |
 | Art of Not Getting Found | 180670 | [180670-art-of-not-getting-found.json](./180670-art-of-not-getting-found.json) |
 | Art of Rally: Australia | 275115 | [275115-art-of-rally-australia.json](./275115-art-of-rally-australia.json) |
+| Art of Rally: Collector's Edition | 199323 | [199323-art-of-rally-collectors-edition.json](./199323-art-of-rally-collectors-edition.json) |
 | Art of Rally: Deluxe Edition | 155074 | [155074-art-of-rally-deluxe-edition.json](./155074-art-of-rally-deluxe-edition.json) |
 | Art of Solitaire | 347884 | [347884-art-of-solitaire.json](./347884-art-of-solitaire.json) |
 | Art of Stunt | 286095 | [286095-art-of-stunt.json](./286095-art-of-stunt.json) |
@@ -11390,6 +11394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azkend | 20368 | [20368-azkend.json](./20368-azkend.json) |
 | Azkend 2: The World Beneath | 19893 | [19893-azkend-2-the-world-beneath.json](./19893-azkend-2-the-world-beneath.json) |
 | Azlan: Rise of the Burlpups | 164991 | [164991-azlan-rise-of-the-burlpups.json](./164991-azlan-rise-of-the-burlpups.json) |
+| Aznak | 199312 | [199312-aznak.json](./199312-aznak.json) |
 | Aznana | 151729 | [151729-aznana.json](./151729-aznana.json) |
 | Azorius | 261729 | [261729-azorius.json](./261729-azorius.json) |
 | Azoth | 338723 | [338723-azoth.json](./338723-azoth.json) |
