@@ -6125,6 +6125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Payphone | 351235 | [351235-the-final-payphone.json](./351235-the-final-payphone.json) |
 | The Final Pin | 262277 | [262277-the-final-pin.json](./262277-the-final-pin.json) |
 | The Final Print | 347777 | [347777-the-final-print.json](./347777-the-final-print.json) |
+| The Final Rescue | 190918 | [190918-the-final-rescue.json](./190918-the-final-rescue.json) |
 | The Final Round | 139245 | [139245-the-final-round.json](./139245-the-final-round.json) |
 | The Final Round | 19709 | [19709-the-final-round.json](./19709-the-final-round.json) |
 | The Final Specimen: Arrival | 30037 | [30037-the-final-specimen-arrival.json](./30037-the-final-specimen-arrival.json) |
@@ -6800,6 +6801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Haunted Dolls | 157181 | [157181-the-haunted-dolls.json](./157181-the-haunted-dolls.json) |
 | The Haunted Farm | 274937 | [274937-the-haunted-farm.json](./274937-the-haunted-farm.json) |
 | The Haunted Graveyard | 110343 | [110343-the-haunted-graveyard.json](./110343-the-haunted-graveyard.json) |
+| The Haunted Grounds | 190933 | [190933-the-haunted-grounds.json](./190933-the-haunted-grounds.json) |
 | The Haunted Hospice | 259285 | [259285-the-haunted-hospice.json](./259285-the-haunted-hospice.json) |
 | The Haunted House | 314061 | [314061-the-haunted-house.json](./314061-the-haunted-house.json) |
 | The Haunted House of Doom | 161693 | [161693-the-haunted-house-of-doom.json](./161693-the-haunted-house-of-doom.json) |
@@ -7750,6 +7752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Experiment: A Memetric Story | 370118 | [370118-the-last-experiment-a-memetric-story.json](./370118-the-last-experiment-a-memetric-story.json) |
 | The Last Express | 7650 | [7650-the-last-express.json](./7650-the-last-express.json) |
 | The Last Express: Gold Edition | 30235 | [30235-the-last-express-gold-edition.json](./30235-the-last-express-gold-edition.json) |
+| The Last Exterminator | 190905 | [190905-the-last-exterminator.json](./190905-the-last-exterminator.json) |
 | The Last Faith | 133896 | [133896-the-last-faith.json](./133896-the-last-faith.json) |
 | The Last Faith: Awakened Ancients | 376704 | [376704-the-last-faith-awakened-ancients.json](./376704-the-last-faith-awakened-ancients.json) |
 | The Last Faith: The Nycrux Edition | 291539 | [291539-the-last-faith-the-nycrux-edition.json](./291539-the-last-faith-the-nycrux-edition.json) |
