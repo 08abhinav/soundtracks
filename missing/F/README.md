@@ -4677,6 +4677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Birds 2 | 268501 | [268501-flappy-birds-2.json](./268501-flappy-birds-2.json) |
 | Flappy Box | 285478 | [285478-flappy-box.json](./285478-flappy-box.json) |
 | Flappy Brolly | 255008 | [255008-flappy-brolly.json](./255008-flappy-brolly.json) |
+| Flappy Butt | 207568 | [207568-flappy-butt.json](./207568-flappy-butt.json) |
 | Flappy Camel | 283767 | [283767-flappy-camel.json](./283767-flappy-camel.json) |
 | Flappy Cato | 413158 | [413158-flappy-cato.json](./413158-flappy-cato.json) |
 | Flappy Coq | 376044 | [376044-flappy-coq.json](./376044-flappy-coq.json) |
@@ -8494,6 +8495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FungEye | 291235 | [291235-fungeye.json](./291235-fungeye.json) |
 | Fungi Crossing | 333157 | [333157-fungi-crossing.json](./333157-fungi-crossing.json) |
 | Fungi Fantastico | 333013 | [333013-fungi-fantastico.json](./333013-fungi-fantastico.json) |
+| Fungiman | 207562 | [207562-fungiman.json](./207562-fungiman.json) |
 | Fungiman 2 | 333645 | [333645-fungiman-2.json](./333645-fungiman-2.json) |
 | Fungoids: Steam Version | 93613 | [93613-fungoids-steam-version.json](./93613-fungoids-steam-version.json) |
 | Fungus | 13852 | [13852-fungus.json](./13852-fungus.json) |
