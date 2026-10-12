@@ -6546,6 +6546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: New World Rising | 197351 | [197351-anno-1800-new-world-rising.json](./197351-anno-1800-new-world-rising.json) |
 | Anno 1800: Old Town Pack | 227938 | [227938-anno-1800-old-town-pack.json](./227938-anno-1800-old-town-pack.json) |
 | Anno 1800: Pirate Cove Pack | 317336 | [317336-anno-1800-pirate-cove-pack.json](./317336-anno-1800-pirate-cove-pack.json) |
+| Anno 1800: Season 4 Pass | 194884 | [194884-anno-1800-season-4-pass.json](./194884-anno-1800-season-4-pass.json) |
 | Anno 1800: Seasonal Decorations Pack | 227405 | [227405-anno-1800-seasonal-decorations-pack.json](./227405-anno-1800-seasonal-decorations-pack.json) |
 | Anno 1800: Seeds of Change | 197349 | [197349-anno-1800-seeds-of-change.json](./197349-anno-1800-seeds-of-change.json) |
 | Anno 1800: The High Life | 165588 | [165588-anno-1800-the-high-life.json](./165588-anno-1800-the-high-life.json) |
@@ -7488,6 +7489,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arabian Nights | 10861 | [10861-arabian-nights.json](./10861-arabian-nights.json) |
 | Arabian Nights | 111656 | [111656-arabian-nights.json](./111656-arabian-nights.json) |
 | Arabian Nights | 271778 | [271778-arabian-nights.json](./271778-arabian-nights.json) |
+| Arabian Nights Desert Heart Love | 194923 | [194923-arabian-nights-desert-heart-love.json](./194923-arabian-nights-desert-heart-love.json) |
+| Arabian Nights Love Story | 194921 | [194921-arabian-nights-love-story.json](./194921-arabian-nights-love-story.json) |
 | Arabian Nights: Sabaku no Seirei-ou | 38381 | [38381-arabian-nights-sabaku-no-seirei-ou.json](./38381-arabian-nights-sabaku-no-seirei-ou.json) |
 | Arabian Princess: Dress Princess Match 3 | 232337 | [232337-arabian-princess-dress-princess-match-3.json](./232337-arabian-princess-dress-princess-match-3.json) |
 | Arabian Stones: The VR Sudoku Game | 122817 | [122817-arabian-stones-the-vr-sudoku-game.json](./122817-arabian-stones-the-vr-sudoku-game.json) |
@@ -7793,6 +7796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: TX-1 | 411810 | [411810-arcade-archives-tx-1.json](./411810-arcade-archives-tx-1.json) |
 | Arcade Archives: Typhoon Gal | 173130 | [173130-arcade-archives-typhoon-gal.json](./173130-arcade-archives-typhoon-gal.json) |
 | Arcade Archives: Urban Champion | 68314 | [68314-arcade-archives-urban-champion.json](./68314-arcade-archives-urban-champion.json) |
+| Arcade Archives: USAAF Mustang | 194887 | [194887-arcade-archives-usaaf-mustang.json](./194887-arcade-archives-usaaf-mustang.json) |
 | Arcade Archives: Vandyke | 165600 | [165600-arcade-archives-vandyke.json](./165600-arcade-archives-vandyke.json) |
 | Arcade Archives: Vigilante | 121716 | [121716-arcade-archives-vigilante.json](./121716-arcade-archives-vigilante.json) |
 | Arcade Archives: Violence Fight | 320312 | [320312-arcade-archives-violence-fight.json](./320312-arcade-archives-violence-fight.json) |
@@ -10813,6 +10817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Hustle | 313456 | [313456-auto-hustle.json](./313456-auto-hustle.json) |
 | Auto Island | 159798 | [159798-auto-island.json](./159798-auto-island.json) |
 | Auto Jurassic Knights | 370866 | [370866-auto-jurassic-knights.json](./370866-auto-jurassic-knights.json) |
+| Auto Kingdom Crunch | 194913 | [194913-auto-kingdom-crunch.json](./194913-auto-kingdom-crunch.json) |
 | Auto Legends | 312257 | [312257-auto-legends.json](./312257-auto-legends.json) |
 | Auto Mechanic | 167164 | [167164-auto-mechanic.json](./167164-auto-mechanic.json) |
 | Auto Mechanic Sim | 246865 | [246865-auto-mechanic-sim.json](./246865-auto-mechanic-sim.json) |
