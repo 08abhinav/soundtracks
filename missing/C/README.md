@@ -5832,6 +5832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Life: World Edition | 206347 | [206347-city-life-world-edition.json](./206347-city-life-world-edition.json) |
 | City Limits | 208438 | [208438-city-limits.json](./208438-city-limits.json) |
 | City Living: Urban Stories | 106746 | [106746-city-living-urban-stories.json](./106746-city-living-urban-stories.json) |
+| City Loop | 179446 | [179446-city-loop.json](./179446-city-loop.json) |
 | City Mage 3: False Prophecy - Collector's Edition | 417520 | [417520-city-mage-3-false-prophecy-collectors-edition.json](./417520-city-mage-3-false-prophecy-collectors-edition.json) |
 | City Maker | 144220 | [144220-city-maker.json](./144220-city-maker.json) |
 | City Masterplan | 398007 | [398007-city-masterplan.json](./398007-city-masterplan.json) |
@@ -8103,6 +8104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer: The Covert Operations | 663 | [663-command-and-conquer-the-covert-operations.json](./663-command-and-conquer-the-covert-operations.json) |
 | Command and Destroy | 47887 | [47887-command-and-destroy.json](./47887-command-and-destroy.json) |
 | Command Ant Conquer | 176357 | [176357-command-ant-conquer.json](./176357-command-ant-conquer.json) |
+| Command Bots | 179435 | [179435-command-bots.json](./179435-command-bots.json) |
 | Command Center Earth | 273634 | [273634-command-center-earth.json](./273634-command-center-earth.json) |
 | Command Doctrine | 416109 | [416109-command-doctrine.json](./416109-command-doctrine.json) |
 | Command Heroes | 151845 | [151845-command-heroes.json](./151845-command-heroes.json) |
@@ -8233,6 +8235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commute | 204674 | [204674-commute.json](./204674-commute.json) |
 | Commute | 204676 | [204676-commute.json](./204676-commute.json) |
 | Commuter | 189160 | [189160-commuter.json](./189160-commuter.json) |
+| Commuter Connector | 179440 | [179440-commuter-connector.json](./179440-commuter-connector.json) |
 | Comp IV | 245533 | [245533-comp-iv.json](./245533-comp-iv.json) |
 | Compact Cyber Arcade: Disney Frozen Elsa | 246551 | [246551-compact-cyber-arcade-disney-frozen-elsa.json](./246551-compact-cyber-arcade-disney-frozen-elsa.json) |
 | Compact Cyber Arcade: Ultimate Spider-Man | 277799 | [277799-compact-cyber-arcade-ultimate-spider-man.json](./277799-compact-cyber-arcade-ultimate-spider-man.json) |
