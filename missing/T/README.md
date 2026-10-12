@@ -12203,8 +12203,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witcher 3: Wild Hunt - Complete Edition: 10th Anniversary Edition | 372654 | [372654-the-witcher-3-wild-hunt-complete-edition-10th-anniversary-edition.json](./372654-the-witcher-3-wild-hunt-complete-edition-10th-anniversary-edition.json) |
 | The Witcher 3: Wild Hunt - Songs of the Past | 403150 | [403150-the-witcher-3-wild-hunt-songs-of-the-past.json](./403150-the-witcher-3-wild-hunt-songs-of-the-past.json) |
 | The Witcher Franchise Bundle | 154960 | [154960-the-witcher-franchise-bundle.json](./154960-the-witcher-franchise-bundle.json) |
+| The Witcher Remake | 220277 | [220277-the-witcher-remake.json](./220277-the-witcher-remake.json) |
 | The Witcher: Crimson Trail | 187249 | [187249-the-witcher-crimson-trail.json](./187249-the-witcher-crimson-trail.json) |
 | The Witcher: Monster Slayer | 137125 | [137125-the-witcher-monster-slayer.json](./137125-the-witcher-monster-slayer.json) |
+| The Witcher: Project Sirius | 220276 | [220276-the-witcher-project-sirius.json](./220276-the-witcher-project-sirius.json) |
 | The Witcher: Side Effects | 224493 | [224493-the-witcher-side-effects.json](./224493-the-witcher-side-effects.json) |
 | The Witcher: The Price of Neutrality | 224492 | [224492-the-witcher-the-price-of-neutrality.json](./224492-the-witcher-the-price-of-neutrality.json) |
 | The Witches Pond | 277823 | [277823-the-witches-pond.json](./277823-the-witches-pond.json) |
@@ -17114,6 +17116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tover | 24994 | [24994-tover.json](./24994-tover.json) |
 | Toverblade | 145473 | [145473-toverblade.json](./145473-toverblade.json) |
 | Tow Game | 348347 | [348347-tow-game.json](./348347-tow-game.json) |
+| Tow n Go | 220248 | [220248-tow-n-go.json](./220248-tow-n-go.json) |
 | Tow Truck | 104635 | [104635-tow-truck.json](./104635-tow-truck.json) |
 | Tow Truck | 310153 | [310153-tow-truck.json](./310153-tow-truck.json) |
 | Tow Truck: Max | 102137 | [102137-tow-truck-max.json](./102137-tow-truck-max.json) |
@@ -17508,6 +17511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Soldiers: War Chest - Hall of Fame Edition | 44532 | [44532-toy-soldiers-war-chest-hall-of-fame-edition.json](./44532-toy-soldiers-war-chest-hall-of-fame-edition.json) |
 | Toy Soldiers: War Chest - Masters of the Universe Pack | 410326 | [410326-toy-soldiers-war-chest-masters-of-the-universe-pack.json](./410326-toy-soldiers-war-chest-masters-of-the-universe-pack.json) |
 | Toy Story | 220099 | [220099-toy-story.json](./220099-toy-story.json) |
+| Toy Story | 220268 | [220268-toy-story.json](./220268-toy-story.json) |
 | Toy Story 2 | 165581 | [165581-toy-story-2.json](./165581-toy-story-2.json) |
 | Toy Story 2: Buzz Lightyear to the Rescue! | 305791 | [305791-toy-story-2-buzz-lightyear-to-the-rescue.json](./305791-toy-story-2-buzz-lightyear-to-the-rescue.json) |
 | Toy Story 2: Operation Rescue Woody | 77330 | [77330-toy-story-2-operation-rescue-woody.json](./77330-toy-story-2-operation-rescue-woody.json) |
@@ -17518,6 +17522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Story 3: The Video Game | 202117 | [202117-toy-story-3-the-video-game.json](./202117-toy-story-3-the-video-game.json) |
 | Toy Story Activity Center | 79896 | [79896-toy-story-activity-center.json](./79896-toy-story-activity-center.json) |
 | Toy Story Drop! | 116973 | [116973-toy-story-drop.json](./116973-toy-story-drop.json) |
+| Toy Story Mania! | 220267 | [220267-toy-story-mania.json](./220267-toy-story-mania.json) |
 | Toy Story Racer | 18944 | [18944-toy-story-racer.json](./18944-toy-story-racer.json) |
 | Toy Story Survivor | 231890 | [231890-toy-story-survivor.json](./231890-toy-story-survivor.json) |
 | Toy Story: Free! Interactive DVD-ROM | 325573 | [325573-toy-story-free-interactive-dvd-rom.json](./325573-toy-story-free-interactive-dvd-rom.json) |
