@@ -822,7 +822,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warface | 1912 | [1912-warface.json](./1912-warface.json) |
 | Warface: Chernobyl | 114759 | [114759-warface-chernobyl.json](./114759-warface-chernobyl.json) |
 | Warface: Clutch | 284415 | [284415-warface-clutch.json](./284415-warface-clutch.json) |
+| Warface: Complete Tournament Pack | 226890 | [226890-warface-complete-tournament-pack.json](./226890-warface-complete-tournament-pack.json) |
+| Warface: Engineer Tournament Pack | 226889 | [226889-warface-engineer-tournament-pack.json](./226889-warface-engineer-tournament-pack.json) |
 | Warface: Global Operations | 172778 | [172778-warface-global-operations.json](./172778-warface-global-operations.json) |
+| Warface: Medic Tournament Pack | 226888 | [226888-warface-medic-tournament-pack.json](./226888-warface-medic-tournament-pack.json) |
+| Warface: Rifleman Tournament Pack | 226887 | [226887-warface-rifleman-tournament-pack.json](./226887-warface-rifleman-tournament-pack.json) |
+| Warface: Sniper Tournament Pack | 226886 | [226886-warface-sniper-tournament-pack.json](./226886-warface-sniper-tournament-pack.json) |
 | WarFallen | 82438 | [82438-warfallen.json](./82438-warfallen.json) |
 | Warfare 1917 | 61588 | [61588-warfare-1917.json](./61588-warfare-1917.json) |
 | Warfare 1944 | 103393 | [103393-warfare-1944.json](./103393-warfare-1944.json) |
@@ -873,6 +878,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wargame Construction Set Pack | 278721 | [278721-wargame-construction-set-pack.json](./278721-wargame-construction-set-pack.json) |
 | Wargame: European Escalation | 8383 | [8383-wargame-european-escalation.json](./8383-wargame-european-escalation.json) |
 | Wargame: Red Dragon - Complete Edition | 53887 | [53887-wargame-red-dragon-complete-edition.json](./53887-wargame-red-dragon-complete-edition.json) |
+| Wargame: Red Dragon - Double Nation Pack Reds | 226885 | [226885-wargame-red-dragon-double-nation-pack-reds.json](./226885-wargame-red-dragon-double-nation-pack-reds.json) |
+| Wargame: Red Dragon - Nation Pack: Israel | 226884 | [226884-wargame-red-dragon-nation-pack-israel.json](./226884-wargame-red-dragon-nation-pack-israel.json) |
 | Wargame: Red Dragon - Nation Pack: Netherlands | 170456 | [170456-wargame-red-dragon-nation-pack-netherlands.json](./170456-wargame-red-dragon-nation-pack-netherlands.json) |
 | Wargame: Red Dragon - Norse Dragons | 170454 | [170454-wargame-red-dragon-norse-dragons.json](./170454-wargame-red-dragon-norse-dragons.json) |
 | Wargame: Red Dragon - Second Korean War | 170455 | [170455-wargame-red-dragon-second-korean-war.json](./170455-wargame-red-dragon-second-korean-war.json) |
@@ -1302,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors Orochi 4: Deluxe Edition | 118941 | [118941-warriors-orochi-4-deluxe-edition.json](./118941-warriors-orochi-4-deluxe-edition.json) |
 | Warriors Orochi 4: Scenario Pack | 237975 | [237975-warriors-orochi-4-scenario-pack.json](./237975-warriors-orochi-4-scenario-pack.json) |
 | Warriors Orochi 4: Scenario Pack 1 | 252804 | [252804-warriors-orochi-4-scenario-pack-1.json](./252804-warriors-orochi-4-scenario-pack-1.json) |
+| Warriors Orochi 4: Scenario Pack 2 | 226880 | [226880-warriors-orochi-4-scenario-pack-2.json](./226880-warriors-orochi-4-scenario-pack-2.json) |
 | Warriors Waifus Mahjong | 336559 | [336559-warriors-waifus-mahjong.json](./336559-warriors-waifus-mahjong.json) |
 | Warriors: Abyss - Atelier Series Academy Costume Set | 379120 | [379120-warriors-abyss-atelier-series-academy-costume-set.json](./379120-warriors-abyss-atelier-series-academy-costume-set.json) |
 | Warriors: Abyss - Atelier Series Vacation Costume Set | 379119 | [379119-warriors-abyss-atelier-series-vacation-costume-set.json](./379119-warriors-abyss-atelier-series-vacation-costume-set.json) |
@@ -1484,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch | 117604 | [117604-watch.json](./117604-watch.json) |
 | Watch | 271912 | [271912-watch.json](./271912-watch.json) |
 | Watch | 310212 | [310212-watch.json](./310212-watch.json) |
+| Watch Dogs 2: Mega Pack | 226879 | [226879-watch-dogs-2-mega-pack.json](./226879-watch-dogs-2-mega-pack.json) |
 | Watch Dogs 2: No Compromise | 28377 | [28377-watch-dogs-2-no-compromise.json](./28377-watch-dogs-2-no-compromise.json) |
 | Watch Dogs 2: Private Eye Pack | 399907 | [399907-watch-dogs-2-private-eye-pack.json](./399907-watch-dogs-2-private-eye-pack.json) |
 | Watch Dogs 2: Psychedelic Pack | 263104 | [263104-watch-dogs-2-psychedelic-pack.json](./263104-watch-dogs-2-psychedelic-pack.json) |
@@ -1785,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We are Eva | 191656 | [191656-we-are-eva.json](./191656-we-are-eva.json) |
 | We are Football 2024 | 288844 | [288844-we-are-football-2024.json](./288844-we-are-football-2024.json) |
 | We Are Football: Bundesliga Edition | 152342 | [152342-we-are-football-bundesliga-edition.json](./152342-we-are-football-bundesliga-edition.json) |
+| We Are Football: National Teams | 226881 | [226881-we-are-football-national-teams.json](./226881-we-are-football-national-teams.json) |
 | We Are Gladiators | 258445 | [258445-we-are-gladiators.json](./258445-we-are-gladiators.json) |
 | We Are Gum | 374054 | [374054-we-are-gum.json](./374054-we-are-gum.json) |
 | We Are Illuminati | 120333 | [120333-we-are-illuminati.json](./120333-we-are-illuminati.json) |
@@ -3875,6 +3885,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Polaris | 127007 | [127007-winter-polaris.json](./127007-winter-polaris.json) |
 | Winter Quackdown | 384285 | [384285-winter-quackdown.json](./384285-winter-quackdown.json) |
 | Winter Resort Simulator 2: Riedstein | 216826 | [216826-winter-resort-simulator-2-riedstein.json](./216826-winter-resort-simulator-2-riedstein.json) |
+| Winter Resort Simulator Season 2: Content Pack | 226882 | [226882-winter-resort-simulator-season-2-content-pack.json](./226882-winter-resort-simulator-season-2-content-pack.json) |
+| Winter Resort Simulator Season 2: TechnoAlpin - Snow Expert Pack | 226883 | [226883-winter-resort-simulator-season-2-technoalpin-snow-expert-pack.json](./226883-winter-resort-simulator-season-2-technoalpin-snow-expert-pack.json) |
 | Winter Sadness Simulator | 366953 | [366953-winter-sadness-simulator.json](./366953-winter-sadness-simulator.json) |
 | Winter Shard | 125413 | [125413-winter-shard.json](./125413-winter-shard.json) |
 | Winter Solitaire | 115525 | [115525-winter-solitaire.json](./115525-winter-solitaire.json) |
@@ -5543,6 +5555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds of Legend: Son of the Empire | 71521 | [71521-worlds-of-legend-son-of-the-empire.json](./71521-worlds-of-legend-son-of-the-empire.json) |
 | Worlds of Magic | 9336 | [9336-worlds-of-magic.json](./9336-worlds-of-magic.json) |
 | Worlds of Magic: Planar Conquest | 79925 | [79925-worlds-of-magic-planar-conquest.json](./79925-worlds-of-magic-planar-conquest.json) |
+| Worlds of Magic: Sorcerer Lords Pack | 226878 | [226878-worlds-of-magic-sorcerer-lords-pack.json](./226878-worlds-of-magic-sorcerer-lords-pack.json) |
 | Worlds of Magic: Titans | 160281 | [160281-worlds-of-magic-titans.json](./160281-worlds-of-magic-titans.json) |
 | Worlds of Nyx | 391695 | [391695-worlds-of-nyx.json](./391695-worlds-of-nyx.json) |
 | Worlds of the Future | 169170 | [169170-worlds-of-the-future.json](./169170-worlds-of-the-future.json) |
