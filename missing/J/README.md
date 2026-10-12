@@ -2284,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpy: A Very Hard Game | 28098 | [28098-jumpy-a-very-hard-game.json](./28098-jumpy-a-very-hard-game.json) |
 | Juna: The Dreamwalker | 260315 | [260315-juna-the-dreamwalker.json](./260315-juna-the-dreamwalker.json) |
 | Junction | 109032 | [109032-junction.json](./109032-junction.json) |
+| June | 203676 | [203676-june.json](./203676-june.json) |
 | june 18 2024 (White people in China) | 318232 | [318232-june-18-2024-white-people-in-china.json](./318232-june-18-2024-white-people-in-china.json) |
 | June 30th | 229591 | [229591-june-30th.json](./229591-june-30th.json) |
 | June Bride Nightmare | 356620 | [356620-june-bride-nightmare.json](./356620-june-bride-nightmare.json) |
