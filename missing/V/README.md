@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valentine for Futureless Butterfly | 396031 | [396031-valentine-for-futureless-butterfly.json](./396031-valentine-for-futureless-butterfly.json) |
 | Valentine Panic | 68587 | [68587-valentine-panic.json](./68587-valentine-panic.json) |
 | Valentine's Day Bikini Femdom | 400903 | [400903-valentines-day-bikini-femdom.json](./400903-valentines-day-bikini-femdom.json) |
+| Valentine's Day Griddlers 2 | 199333 | [199333-valentines-day-griddlers-2.json](./199333-valentines-day-griddlers-2.json) |
 | Valentine's Venture: True Love Odyssey | 333742 | [333742-valentines-venture-true-love-odyssey.json](./333742-valentines-venture-true-love-odyssey.json) |
 | Valentines Cafe | 114977 | [114977-valentines-cafe.json](./114977-valentines-cafe.json) |
 | Valentines Desire: Steam Edition | 130956 | [130956-valentines-desire-steam-edition.json](./130956-valentines-desire-steam-edition.json) |
