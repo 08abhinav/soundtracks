@@ -4341,6 +4341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Striker | 256235 | [256235-mech-striker.json](./256235-mech-striker.json) |
 | Mech Survivor Elite | 311779 | [311779-mech-survivor-elite.json](./311779-mech-survivor-elite.json) |
 | Mech Tech | 238441 | [238441-mech-tech.json](./238441-mech-tech.json) |
+| Mech vs. Aliens | 196547 | [196547-mech-vs-aliens.json](./196547-mech-vs-aliens.json) |
 | Mech vs. Bugs | 263784 | [263784-mech-vs-bugs.json](./263784-mech-vs-bugs.json) |
 | Mech Warfare Arena | 174665 | [174665-mech-warfare-arena.json](./174665-mech-warfare-arena.json) |
 | Mech Wars | 317028 | [317028-mech-wars.json](./317028-mech-wars.json) |
@@ -9113,6 +9114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB The Show 20 | 125013 | [125013-mlb-the-show-20.json](./125013-mlb-the-show-20.json) |
 | MLB The Show 20: MVP Edition | 136218 | [136218-mlb-the-show-20-mvp-edition.json](./136218-mlb-the-show-20-mvp-edition.json) |
 | MLB The Show 21 | 143260 | [143260-mlb-the-show-21.json](./143260-mlb-the-show-21.json) |
+| MLB The Show 22: Digital Deluxe Edition | 196514 | [196514-mlb-the-show-22-digital-deluxe-edition.json](./196514-mlb-the-show-22-digital-deluxe-edition.json) |
 | MLB The Show 22: MVP Edition | 196516 | [196516-mlb-the-show-22-mvp-edition.json](./196516-mlb-the-show-22-mvp-edition.json) |
 | MLB The Show 24: Digital Deluxe Edition | 286200 | [286200-mlb-the-show-24-digital-deluxe-edition.json](./286200-mlb-the-show-24-digital-deluxe-edition.json) |
 | MLB The Show 24: MVP Edition | 286201 | [286201-mlb-the-show-24-mvp-edition.json](./286201-mlb-the-show-24-mvp-edition.json) |
@@ -10017,6 +10019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Energy Supercross: The Official Videogame 4 - 2Stroke Bikes Pack (125) | 170942 | [170942-monster-energy-supercross-the-official-videogame-4-2stroke-bikes-pack-125.json](./170942-monster-energy-supercross-the-official-videogame-4-2stroke-bikes-pack-125.json) |
 | Monster Energy Supercross: The Official Videogame 4 - Historical Monster Energy Cup 2011 | 170943 | [170943-monster-energy-supercross-the-official-videogame-4-historical-monster-energy-cup-2011.json](./170943-monster-energy-supercross-the-official-videogame-4-historical-monster-energy-cup-2011.json) |
 | Monster Energy Supercross: The Official Videogame 5 - Legends Pack Vol. 1 | 197589 | [197589-monster-energy-supercross-the-official-videogame-5-legends-pack-vol-1.json](./197589-monster-energy-supercross-the-official-videogame-5-legends-pack-vol-1.json) |
+| Monster Energy Supercross: The Official Videogame 5 - Special Edition | 196512 | [196512-monster-energy-supercross-the-official-videogame-5-special-edition.json](./196512-monster-energy-supercross-the-official-videogame-5-special-edition.json) |
 | Monster Evo | 154975 | [154975-monster-evo.json](./154975-monster-evo.json) |
 | Monster Evolution | 191066 | [191066-monster-evolution.json](./191066-monster-evolution.json) |
 | Monster evolution: hit and smash | 101955 | [101955-monster-evolution-hit-and-smash.json](./101955-monster-evolution-hit-and-smash.json) |
