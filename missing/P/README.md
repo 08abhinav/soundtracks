@@ -4939,6 +4939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates Deck | 35643 | [35643-pirates-deck.json](./35643-pirates-deck.json) |
 | Pirates Girls | 148971 | [148971-pirates-girls.json](./148971-pirates-girls.json) |
 | Pirates Golden Quest | 300854 | [300854-pirates-golden-quest.json](./300854-pirates-golden-quest.json) |
+| Pirates Jigsaw Puzzle for Kids & Toddlers | 203698 | [203698-pirates-jigsaw-puzzle-for-kids-and-toddlers.json](./203698-pirates-jigsaw-puzzle-for-kids-and-toddlers.json) |
 | Pirates Kingdom | 323170 | [323170-pirates-kingdom.json](./323170-pirates-kingdom.json) |
 | Pirates Odyssey | 270122 | [270122-pirates-odyssey.json](./270122-pirates-odyssey.json) |
 | Pirates of Black Cove | 2067 | [2067-pirates-of-black-cove.json](./2067-pirates-of-black-cove.json) |
@@ -5192,6 +5193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series: Hunter of Devil | 284954 | [284954-pixel-game-maker-series-hunter-of-devil.json](./284954-pixel-game-maker-series-hunter-of-devil.json) |
 | Pixel Game Maker Series: Isekai Quartet Adventure - Action Game | 152891 | [152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json](./152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json) |
 | Pixel Game Maker Series: Jetman | 207891 | [207891-pixel-game-maker-series-jetman.json](./207891-pixel-game-maker-series-jetman.json) |
+| Pixel Game Maker Series: Kingdom Fighter | 203720 | [203720-pixel-game-maker-series-kingdom-fighter.json](./203720-pixel-game-maker-series-kingdom-fighter.json) |
 | Pixel Game Maker Series: LunLun Superherobabys DX | 283263 | [283263-pixel-game-maker-series-lunlun-superherobabys-dx.json](./283263-pixel-game-maker-series-lunlun-superherobabys-dx.json) |
 | Pixel Game Maker Series: Ninja Otedama R | 247487 | [247487-pixel-game-maker-series-ninja-otedama-r.json](./247487-pixel-game-maker-series-ninja-otedama-r.json) |
 | Pixel Game Maker Series: Ninja Sneaking R | 215114 | [215114-pixel-game-maker-series-ninja-sneaking-r.json](./215114-pixel-game-maker-series-ninja-sneaking-r.json) |
@@ -9934,6 +9936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Chernaya | 406246 | [406246-project-chernaya.json](./406246-project-chernaya.json) |
 | Project Chromata | 369469 | [369469-project-chromata.json](./369469-project-chromata.json) |
 | Project Circle | 294382 | [294382-project-circle.json](./294382-project-circle.json) |
+| Project Clean Earth | 203692 | [203692-project-clean-earth.json](./203692-project-clean-earth.json) |
 | Project Cobalt | 366310 | [366310-project-cobalt.json](./366310-project-cobalt.json) |
 | Project Code: Shift | 75412 | [75412-project-code-shift.json](./75412-project-code-shift.json) |
 | Project Colored Mountains | 264095 | [264095-project-colored-mountains.json](./264095-project-colored-mountains.json) |
@@ -11498,6 +11501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Bundle Xbox: Mimi New Friend, Sokocrab and StoryBlocks | 335104 | [335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json](./335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json) |
 | Puzzle Bundle Xbox: PuzzlePet - Feed Your Cat, Say Cheese, Mimi the Cat: New Friends, Story Blocks: The King and Sokocrab | 335103 | [335103-puzzle-bundle-xbox-puzzlepet-feed-your-cat-say-cheese-mimi-the-cat-new-friends-story-blocks-the-king-and-sokocrab.json](./335103-puzzle-bundle-xbox-puzzlepet-feed-your-cat-say-cheese-mimi-the-cat-new-friends-story-blocks-the-king-and-sokocrab.json) |
 | Puzzle Bundle: 3 in 1 | 147804 | [147804-puzzle-bundle-3-in-1.json](./147804-puzzle-bundle-3-in-1.json) |
+| Puzzle Bundle: Inbento & Golf Peaks | 203710 | [203710-puzzle-bundle-inbento-and-golf-peaks.json](./203710-puzzle-bundle-inbento-and-golf-peaks.json) |
 | Puzzle by Nikoli S Akari | 223561 | [223561-puzzle-by-nikoli-s-akari.json](./223561-puzzle-by-nikoli-s-akari.json) |
 | Puzzle by Nikoli S Hashiwokakero | 237357 | [237357-puzzle-by-nikoli-s-hashiwokakero.json](./237357-puzzle-by-nikoli-s-hashiwokakero.json) |
 | Puzzle by Nikoli S Slitherlink | 225545 | [225545-puzzle-by-nikoli-s-slitherlink.json](./225545-puzzle-by-nikoli-s-slitherlink.json) |
