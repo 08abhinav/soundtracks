@@ -4380,6 +4380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Tactics: Blades of the Shogun - Ultimate Bundle | 331516 | [331516-shadow-tactics-blades-of-the-shogun-ultimate-bundle.json](./331516-shadow-tactics-blades-of-the-shogun-ultimate-bundle.json) |
 | Shadow the Hedgehog | 4105 | [4105-shadow-the-hedgehog.json](./4105-shadow-the-hedgehog.json) |
 | Shadow the Hedgehog 2 | 326833 | [326833-shadow-the-hedgehog-2.json](./326833-shadow-the-hedgehog-2.json) |
+| Shadow the Hedgehog Flash | 200917 | [200917-shadow-the-hedgehog-flash.json](./200917-shadow-the-hedgehog-flash.json) |
 | Shadow the Hedgehog in Sonic the Hedgehog | 148165 | [148165-shadow-the-hedgehog-in-sonic-the-hedgehog.json](./148165-shadow-the-hedgehog-in-sonic-the-hedgehog.json) |
 | Shadow the Plumber | 357447 | [357447-shadow-the-plumber.json](./357447-shadow-the-plumber.json) |
 | Shadow Thief | 249115 | [249115-shadow-thief.json](./249115-shadow-thief.json) |
@@ -13089,6 +13090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceward Ho! | 47296 | [47296-spaceward-ho.json](./47296-spaceward-ho.json) |
 | Spacewars: Interstellar Empire | 57758 | [57758-spacewars-interstellar-empire.json](./57758-spacewars-interstellar-empire.json) |
 | Spacewind The Zeppelin | 292587 | [292587-spacewind-the-zeppelin.json](./292587-spacewind-the-zeppelin.json) |
+| Spacewing War | 200942 | [200942-spacewing-war.json](./200942-spacewing-war.json) |
 | Spacewing War 2 | 266235 | [266235-spacewing-war-2.json](./266235-spacewing-war-2.json) |
 | SpaceWorms | 114200 | [114200-spaceworms.json](./114200-spaceworms.json) |
 | SpaceWrestler XL | 128610 | [128610-spacewrestler-xl.json](./128610-spacewrestler-xl.json) |
@@ -16531,6 +16533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station Nexus | 406291 | [406291-station-nexus.json](./406291-station-nexus.json) |
 | Station Noctis | 338331 | [338331-station-noctis.json](./338331-station-noctis.json) |
 | Station Sabotage | 283770 | [283770-station-sabotage.json](./283770-station-sabotage.json) |
+| Station Spacewalk Game | 200954 | [200954-station-spacewalk-game.json](./200954-station-spacewalk-game.json) |
 | Station Zeta | 304003 | [304003-station-zeta.json](./304003-station-zeta.json) |
 | Stationbreak | 406641 | [406641-stationbreak.json](./406641-stationbreak.json) |
 | Stationeers: H.E.M Droid Species Pack | 227893 | [227893-stationeers-h-e-m-droid-species-pack.json](./227893-stationeers-h-e-m-droid-species-pack.json) |
@@ -20090,6 +20093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Brazil Puzzles | 155596 | [155596-super-jigsaw-puzzle-generations-brazil-puzzles.json](./155596-super-jigsaw-puzzle-generations-brazil-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Bridges | 207785 | [207785-super-jigsaw-puzzle-generations-bridges.json](./207785-super-jigsaw-puzzle-generations-bridges.json) |
 | Super Jigsaw Puzzle: Generations - Bugs Puzzles | 155593 | [155593-super-jigsaw-puzzle-generations-bugs-puzzles.json](./155593-super-jigsaw-puzzle-generations-bugs-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Butterflies | 200927 | [200927-super-jigsaw-puzzle-generations-butterflies.json](./200927-super-jigsaw-puzzle-generations-butterflies.json) |
 | Super Jigsaw Puzzle: Generations - Canada | 195279 | [195279-super-jigsaw-puzzle-generations-canada.json](./195279-super-jigsaw-puzzle-generations-canada.json) |
 | Super Jigsaw Puzzle: Generations - Cars Puzzles | 155592 | [155592-super-jigsaw-puzzle-generations-cars-puzzles.json](./155592-super-jigsaw-puzzle-generations-cars-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Castles Puzzles | 155595 | [155595-super-jigsaw-puzzle-generations-castles-puzzles.json](./155595-super-jigsaw-puzzle-generations-castles-puzzles.json) |
@@ -20835,6 +20839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Nisqually | 73273 | [73273-super-nisqually.json](./73273-super-nisqually.json) |
 | Super Nitrous Zoomer | 114982 | [114982-super-nitrous-zoomer.json](./114982-super-nitrous-zoomer.json) |
 | Super Noah's Ark 3D | 11168 | [11168-super-noahs-ark-3d.json](./11168-super-noahs-ark-3d.json) |
+| Super Nodage World | 200916 | [200916-super-nodage-world.json](./200916-super-nodage-world.json) |
 | Super Nosebleed Land | 105075 | [105075-super-nosebleed-land.json](./105075-super-nosebleed-land.json) |
 | Super Nostalgia World | 267972 | [267972-super-nostalgia-world.json](./267972-super-nostalgia-world.json) |
 | Super Nova | 414296 | [414296-super-nova.json](./414296-super-nova.json) |
