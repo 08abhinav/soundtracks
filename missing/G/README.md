@@ -4537,8 +4537,26 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goontang Chackalaka | 322674 | [322674-goontang-chackalaka.json](./322674-goontang-chackalaka.json) |
 | Goony | 85632 | [85632-goony.json](./85632-goony.json) |
 | Goonya Fighter | 119523 | [119523-goonya-fighter.json](./119523-goonya-fighter.json) |
+| Goonya Fighter: Akane Asano | 192117 | [192117-goonya-fighter-akane-asano.json](./192117-goonya-fighter-akane-asano.json) |
+| Goonya Fighter: Bighead Battle!! | 192119 | [192119-goonya-fighter-bighead-battle.json](./192119-goonya-fighter-bighead-battle.json) |
+| Goonya Fighter: Bomber Fighter Insanity! | 192123 | [192123-goonya-fighter-bomber-fighter-insanity.json](./192123-goonya-fighter-bomber-fighter-insanity.json) |
+| Goonya Fighter: First-Aid Boxes and some TLC | 192124 | [192124-goonya-fighter-first-aid-boxes-and-some-tlc.json](./192124-goonya-fighter-first-aid-boxes-and-some-tlc.json) |
+| Goonya Fighter: Glyph | 192116 | [192116-goonya-fighter-glyph.json](./192116-goonya-fighter-glyph.json) |
 | Goonya Fighter: Jiggly Haptic Edition | 146316 | [146316-goonya-fighter-jiggly-haptic-edition.json](./146316-goonya-fighter-jiggly-haptic-edition.json) |
+| Goonya Fighter: Jingisukan no JinKun | 192121 | [192121-goonya-fighter-jingisukan-no-jinkun.json](./192121-goonya-fighter-jingisukan-no-jinkun.json) |
+| Goonya Fighter: Kana Hayama | 192120 | [192120-goonya-fighter-kana-hayama.json](./192120-goonya-fighter-kana-hayama.json) |
+| Goonya Fighter: Kaori Nagisa | 192128 | [192128-goonya-fighter-kaori-nagisa.json](./192128-goonya-fighter-kaori-nagisa.json) |
+| Goonya Fighter: Nagomi Shibakko | 192130 | [192130-goonya-fighter-nagomi-shibakko.json](./192130-goonya-fighter-nagomi-shibakko.json) |
 | Goonya Fighter: Puimo | 196140 | [196140-goonya-fighter-puimo.json](./196140-goonya-fighter-puimo.json) |
+| Goonya Fighter: Ruri Asano | 192125 | [192125-goonya-fighter-ruri-asano.json](./192125-goonya-fighter-ruri-asano.json) |
+| Goonya Fighter: Slip -n- Slide | 192131 | [192131-goonya-fighter-slip-n-slide.json](./192131-goonya-fighter-slip-n-slide.json) |
+| Goonya Fighter: Special Move - Fire Them Turds!! | 192127 | [192127-goonya-fighter-special-move-fire-them-turds.json](./192127-goonya-fighter-special-move-fire-them-turds.json) |
+| Goonya Fighter: Special Move - Solid Swift Sliding Kick! | 192129 | [192129-goonya-fighter-special-move-solid-swift-sliding-kick.json](./192129-goonya-fighter-special-move-solid-swift-sliding-kick.json) |
+| Goonya Fighter: Super Untouchable Goonya Fighters!! | 192132 | [192132-goonya-fighter-super-untouchable-goonya-fighters.json](./192132-goonya-fighter-super-untouchable-goonya-fighters.json) |
+| Goonya Fighter: Tappy | 192122 | [192122-goonya-fighter-tappy.json](./192122-goonya-fighter-tappy.json) |
+| Goonya Fighter: Tenkaichi Hi-Speed Battle!! | 192126 | [192126-goonya-fighter-tenkaichi-hi-speed-battle.json](./192126-goonya-fighter-tenkaichi-hi-speed-battle.json) |
+| Goonya Fighter: Uiro | 192115 | [192115-goonya-fighter-uiro.json](./192115-goonya-fighter-uiro.json) |
+| Goonya Fighter: Yumi Terasaka | 192118 | [192118-goonya-fighter-yumi-terasaka.json](./192118-goonya-fighter-yumi-terasaka.json) |
 | Goonya Monster: Additional Character (Buster) - Clione | 248720 | [248720-goonya-monster-additional-character-buster-clione.json](./248720-goonya-monster-additional-character-buster-clione.json) |
 | Goonya Monster: Additional Character (Buster) - Gatchman V/All Guys | 256423 | [256423-goonya-monster-additional-character-buster-gatchman-v-all-guys.json](./256423-goonya-monster-additional-character-buster-gatchman-v-all-guys.json) |
 | Goonya Monster: Additional Character (Buster) - Mari Tomari/All Guys | 256424 | [256424-goonya-monster-additional-character-buster-mari-tomari-all-guys.json](./256424-goonya-monster-additional-character-buster-mari-tomari-all-guys.json) |
