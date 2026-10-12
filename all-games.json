@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T20:50:59.105Z",
-  "total_soundtracks": 1543,
+  "generated_at": "2026-10-12T20:51:15.906Z",
+  "total_soundtracks": 1544,
   "games": [
     {
       "igdb_id": 7522,
@@ -9091,6 +9091,20 @@
           "spotify_url": "https://open.spotify.com/album/7sDQMALUhCJzKJ5qEdgbF1",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 2140,
+      "game_name": "LittleBigPlanet 2",
+      "game_url": "https://ostdb.net/games/littlebigplanet-2",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/1a/3e/721a3e1e-b1a1-849c-54c9-747d6f1c310b/196872922295.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "LittleBigPlanet 2 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1tZqXH48vp932kY9ZuHDbU",
+          "apple_music_url": "https://music.apple.com/us/album/littlebigplanet-2-original-game-soundtrack/1798272955",
+          "album_link_url": "https://album.link/i/1798272955"
         }
       ]
     },
