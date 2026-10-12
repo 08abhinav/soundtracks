@@ -8210,6 +8210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom & Destiny Advanced | 25944 | [25944-doom-and-destiny-advanced.json](./25944-doom-and-destiny-advanced.json) |
 | Doom & Destiny Worlds | 133012 | [133012-doom-and-destiny-worlds.json](./133012-doom-and-destiny-worlds.json) |
 | Doom & Destiny Worlds: Damsels & Dragons | 251099 | [251099-doom-and-destiny-worlds-damsels-and-dragons.json](./251099-doom-and-destiny-worlds-damsels-and-dragons.json) |
+| Doom & Destiny Worlds: Fantastic Quests and Where to Find Them | 197572 | [197572-doom-and-destiny-worlds-fantastic-quests-and-where-to-find-them.json](./197572-doom-and-destiny-worlds-fantastic-quests-and-where-to-find-them.json) |
 | Doom & Destiny Worlds: Randomicity | 208831 | [208831-doom-and-destiny-worlds-randomicity.json](./208831-doom-and-destiny-worlds-randomicity.json) |
 | Doom & Destiny Worlds: Survival of the Nerdiest | 171949 | [171949-doom-and-destiny-worlds-survival-of-the-nerdiest.json](./171949-doom-and-destiny-worlds-survival-of-the-nerdiest.json) |
 | Doom & Destiny Worlds: Ultimate Supporter Edition | 255260 | [255260-doom-and-destiny-worlds-ultimate-supporter-edition.json](./255260-doom-and-destiny-worlds-ultimate-supporter-edition.json) |
