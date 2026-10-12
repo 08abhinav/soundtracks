@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Dagger 2 | 100597 | [100597-mad-dagger-2.json](./100597-mad-dagger-2.json) |
 | Mad Defense | 213583 | [213583-mad-defense.json](./213583-mad-defense.json) |
 | Mad Devils: Damned-finitive Edition | 313337 | [313337-mad-devils-damned-finitive-edition.json](./313337-mad-devils-damned-finitive-edition.json) |
+| Mad Dex | 188356 | [188356-mad-dex.json](./188356-mad-dex.json) |
 | Mad Dex 2 | 227917 | [227917-mad-dex-2.json](./227917-mad-dex-2.json) |
 | Mad Dog II: The Lost Gold | 4269 | [4269-mad-dog-ii-the-lost-gold.json](./4269-mad-dog-ii-the-lost-gold.json) |
 | Mad Dog McCree: Gunslinger Pack | 78300 | [78300-mad-dog-mccree-gunslinger-pack.json](./78300-mad-dog-mccree-gunslinger-pack.json) |
@@ -494,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MadOut | 35679 | [35679-madout.json](./35679-madout.json) |
 | Madout Big City | 29580 | [29580-madout-big-city.json](./29580-madout-big-city.json) |
 | MadOut Ice Storm | 34479 | [34479-madout-ice-storm.json](./34479-madout-ice-storm.json) |
+| MadOut: Metal | 187793 | [187793-madout-metal.json](./187793-madout-metal.json) |
 | MadPug | 418257 | [418257-madpug.json](./418257-madpug.json) |
 | MADrigal CD Collection | 365110 | [365110-madrigal-cd-collection.json](./365110-madrigal-cd-collection.json) |
 | Madrobot X | 31793 | [31793-madrobot-x.json](./31793-madrobot-x.json) |
@@ -610,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Recall | 402284 | [402284-mage-recall.json](./402284-mage-recall.json) |
 | Mage Rumble | 173050 | [173050-mage-rumble.json](./173050-mage-rumble.json) |
 | Mage Saga | 235292 | [235292-mage-saga.json](./235292-mage-saga.json) |
+| Mage Tower | 187191 | [187191-mage-tower.json](./187191-mage-tower.json) |
 | Mage VR -Mini Version- | 114344 | [114344-mage-vr-mini-version.json](./114344-mage-vr-mini-version.json) |
 | Mage VR: The Lost Memories | 115619 | [115619-mage-vr-the-lost-memories.json](./115619-mage-vr-the-lost-memories.json) |
 | Mage vs. Castle | 301819 | [301819-mage-vs-castle.json](./301819-mage-vs-castle.json) |
@@ -1363,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahou no Shippo na | 69587 | [69587-mahou-no-shippo-na.json](./69587-mahou-no-shippo-na.json) |
 | Mahou no Tenshi Creamy Mami: Futatsu no Sekai no Monogatari | 131375 | [131375-mahou-no-tenshi-creamy-mami-futatsu-no-sekai-no-monogatari.json](./131375-mahou-no-tenshi-creamy-mami-futatsu-no-sekai-no-monogatari.json) |
 | Mahou Shoujo Dai Shippai | 395496 | [395496-mahou-shoujo-dai-shippai.json](./395496-mahou-shoujo-dai-shippai.json) |
+| Mahou Shoujo Desu ga, Dungeon de Mugen ni Tsuyoku Natte mo Ii Desu ka | 187152 | [187152-mahou-shoujo-desu-ga-dungeon-de-mugen-ni-tsuyoku-natte-mo-ii-desu-ka.json](./187152-mahou-shoujo-desu-ga-dungeon-de-mugen-ni-tsuyoku-natte-mo-ii-desu-ka.json) |
 | Mahou Shoujo Pretty Sammy: Osorubeshi Shintai Sokutei! Kakubakuhatsu 5 Byou Mae!! | 61329 | [61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json](./61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json) |
 | Mahou Show-Jo | 185426 | [185426-mahou-show-jo.json](./185426-mahou-show-jo.json) |
 | Mahou Tsukai Kurohime | 108956 | [108956-mahou-tsukai-kurohime.json](./108956-mahou-tsukai-kurohime.json) |
@@ -4680,6 +4684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medium Rare | 383136 | [383136-medium-rare.json](./383136-medium-rare.json) |
 | Medium-naut | 151559 | [151559-medium-naut.json](./151559-medium-naut.json) |
 | Medium: The Psychic Party Game | 161158 | [161158-medium-the-psychic-party-game.json](./161158-medium-the-psychic-party-game.json) |
+| Medium5 | 188332 | [188332-medium5.json](./188332-medium5.json) |
 | Medival Hustle | 304578 | [304578-medival-hustle.json](./304578-medival-hustle.json) |
 | Medivination | 302505 | [302505-medivination.json](./302505-medivination.json) |
 | Medoka Magik Grls Extended | 159229 | [159229-medoka-magik-grls-extended.json](./159229-medoka-magik-grls-extended.json) |
@@ -5841,6 +5846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mental Hospital III HD | 212783 | [212783-mental-hospital-iii-hd.json](./212783-mental-hospital-iii-hd.json) |
 | Mental Hospital IV | 292817 | [292817-mental-hospital-iv.json](./292817-mental-hospital-iv.json) |
 | Mental Hospital V | 200030 | [200030-mental-hospital-v.json](./200030-mental-hospital-v.json) |
+| Mental Math Tutor | 187186 | [187186-mental-math-tutor.json](./187186-mental-math-tutor.json) |
 | Mental Medicine | 405680 | [405680-mental-medicine.json](./405680-mental-medicine.json) |
 | Mental Salvo | 311659 | [311659-mental-salvo.json](./311659-mental-salvo.json) |
 | Mental: The Dark Night | 236828 | [236828-mental-the-dark-night.json](./236828-mental-the-dark-night.json) |
@@ -6656,6 +6662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mia Hamm Soccer Shootout | 98004 | [98004-mia-hamm-soccer-shootout.json](./98004-mia-hamm-soccer-shootout.json) |
 | MIA Online | 135806 | [135806-mia-online.json](./135806-mia-online.json) |
 | MIA: Memory Fragments | 404202 | [404202-mia-memory-fragments.json](./404202-mia-memory-fragments.json) |
+| Mia's Christmas | 187770 | [187770-mias-christmas.json](./187770-mias-christmas.json) |
 | Mia's Christmas 2 | 229165 | [229165-mias-christmas-2.json](./229165-mias-christmas-2.json) |
 | Mia's Hunt | 261201 | [261201-mias-hunt.json](./261201-mias-hunt.json) |
 | Mia's Journey | 421336 | [421336-mias-journey.json](./421336-mias-journey.json) |
@@ -7610,6 +7617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiM: Meditation Interactive Matrix | 358995 | [358995-mim-meditation-interactive-matrix.json](./358995-mim-meditation-interactive-matrix.json) |
 | Mima's Magical Wardrobe | 325817 | [325817-mimas-magical-wardrobe.json](./325817-mimas-magical-wardrobe.json) |
 | Mimana Iyar Chronicle | 80165 | [80165-mimana-iyar-chronicle.json](./80165-mimana-iyar-chronicle.json) |
+| Mimelet | 187784 | [187784-mimelet.json](./187784-mimelet.json) |
 | Mimesis Online | 23453 | [23453-mimesis-online.json](./23453-mimesis-online.json) |
 | Mimetic | 383731 | [383731-mimetic.json](./383731-mimetic.json) |
 | Mimetic Love | 215595 | [215595-mimetic-love.json](./215595-mimetic-love.json) |
@@ -10057,6 +10065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Fishing 2018 | 102766 | [102766-monster-fishing-2018.json](./102766-monster-fishing-2018.json) |
 | Monster Fishing Legends | 108277 | [108277-monster-fishing-legends.json](./108277-monster-fishing-legends.json) |
 | Monster Fishing: Fishing Life RPG | 233510 | [233510-monster-fishing-fishing-life-rpg.json](./233510-monster-fishing-fishing-life-rpg.json) |
+| Monster Fishing: Tournament | 188362 | [188362-monster-fishing-tournament.json](./188362-monster-fishing-tournament.json) |
 | Monster Force | 49390 | [49390-monster-force.json](./49390-monster-force.json) |
 | Monster Forest | 383949 | [383949-monster-forest.json](./383949-monster-forest.json) |
 | Monster Fruit Academy | 187864 | [187864-monster-fruit-academy.json](./187864-monster-fruit-academy.json) |
@@ -13185,6 +13194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero: Doctor | 206773 | [206773-my-hero-doctor.json](./206773-my-hero-doctor.json) |
 | My Hero: Tiny Ninja | 232544 | [232544-my-hero-tiny-ninja.json](./232544-my-hero-tiny-ninja.json) |
 | My Hero's One Justice 2: Itsuka Kendo Cheerleader Costume | 333233 | [333233-my-heros-one-justice-2-itsuka-kendo-cheerleader-costume.json](./333233-my-heros-one-justice-2-itsuka-kendo-cheerleader-costume.json) |
+| My Heroes | 188341 | [188341-my-heroes.json](./188341-my-heroes.json) |
 | My Heroes: SEA | 142426 | [142426-my-heroes-sea.json](./142426-my-heroes-sea.json) |
 | My Hidden Dreams | 339928 | [339928-my-hidden-dreams.json](./339928-my-hidden-dreams.json) |
 | My High School Cat Girlfriend | 206155 | [206155-my-high-school-cat-girlfriend.json](./206155-my-high-school-cat-girlfriend.json) |
@@ -14078,6 +14088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystical Riddles: Behind Doll's Eyes - Collector's Edition | 215638 | [215638-mystical-riddles-behind-dolls-eyes-collectors-edition.json](./215638-mystical-riddles-behind-dolls-eyes-collectors-edition.json) |
 | Mystical Riddles: Ghostly Park DLC | 361775 | [361775-mystical-riddles-ghostly-park-dlc.json](./361775-mystical-riddles-ghostly-park-dlc.json) |
 | Mystical Riddles: Haunted Portraits - Collector's Edition | 337262 | [337262-mystical-riddles-haunted-portraits-collectors-edition.json](./337262-mystical-riddles-haunted-portraits-collectors-edition.json) |
+| Mystical Riddles: Snowy Peak Hotel - Collector's Edition | 187807 | [187807-mystical-riddles-snowy-peak-hotel-collectors-edition.json](./187807-mystical-riddles-snowy-peak-hotel-collectors-edition.json) |
 | Mystical Samurai | 136453 | [136453-mystical-samurai.json](./136453-mystical-samurai.json) |
 | Mystical Stones | 247172 | [247172-mystical-stones.json](./247172-mystical-stones.json) |
 | Mystics Ablaze | 383345 | [383345-mystics-ablaze.json](./383345-mystics-ablaze.json) |
