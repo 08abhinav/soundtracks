@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YBit | 65790 | [65790-ybit.json](./65790-ybit.json) |
 | Ycom | 279517 | [279517-ycom.json](./279517-ycom.json) |
 | Ye Fenny: Revenge of the Evil Good Shepherd | 81783 | [81783-ye-fenny-revenge-of-the-evil-good-shepherd.json](./81783-ye-fenny-revenge-of-the-evil-good-shepherd.json) |
+| Ye Olde Cribbage Club: A Later Daters Game | 203695 | [203695-ye-olde-cribbage-club-a-later-daters-game.json](./203695-ye-olde-cribbage-club-a-later-daters-game.json) |
 | Yeager | 186739 | [186739-yeager.json](./186739-yeager.json) |
 | Yeah Bunny 2 | 337091 | [337091-yeah-bunny-2.json](./337091-yeah-bunny-2.json) |
 | Yeah Bunny! | 99183 | [99183-yeah-bunny.json](./99183-yeah-bunny.json) |
@@ -1415,4 +1416,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YuYu Hakusho: Tokubetsu-hen | 42532 | [42532-yuyu-hakusho-tokubetsu-hen.json](./42532-yuyu-hakusho-tokubetsu-hen.json) |
 | Yuyuko's Butterfly Dream | 113143 | [113143-yuyukos-butterfly-dream.json](./113143-yuyukos-butterfly-dream.json) |
 | Yuzai x Muzai | 69206 | [69206-yuzai-x-muzai.json](./69206-yuzai-x-muzai.json) |
+| Yuzusoft Collection | 203689 | [203689-yuzusoft-collection.json](./203689-yuzusoft-collection.json) |
 | Yves: Crazy Student | 327967 | [327967-yves-crazy-student.json](./327967-yves-crazy-student.json) |
