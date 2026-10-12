@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T13:34:53.737Z",
-  "total_missing": 201955,
+  "generated_at": "2026-10-12T13:49:18.422Z",
+  "total_missing": 202005,
   "games": [
     {
       "igdb_id": 191680,
@@ -225208,6 +225208,11 @@
       "file": "missing/D/49405-disneys-the-haunted-mansion.json"
     },
     {
+      "igdb_id": 198763,
+      "game_name": "Disney's The Hunchback of Notre Dame",
+      "file": "missing/D/198763-disneys-the-hunchback-of-notre-dame.json"
+    },
+    {
       "igdb_id": 228495,
       "game_name": "Disney's The Hunchback of Notre Dame: Topsy Turvy Games",
       "file": "missing/D/228495-disneys-the-hunchback-of-notre-dame-topsy-turvy-games.json"
@@ -247823,6 +247828,11 @@
       "file": "missing/D/251709-duke-nukem-1-2-remastered.json"
     },
     {
+      "igdb_id": 198734,
+      "game_name": "Duke Nukem 3D",
+      "file": "missing/D/198734-duke-nukem-3d.json"
+    },
+    {
       "igdb_id": 199425,
       "game_name": "Duke Nukem 3D",
       "file": "missing/D/199425-duke-nukem-3d.json"
@@ -256651,6 +256661,11 @@
       "igdb_id": 93042,
       "game_name": "Ed Chess",
       "file": "missing/E/93042-ed-chess.json"
+    },
+    {
+      "igdb_id": 198735,
+      "game_name": "Ed Grimley",
+      "file": "missing/E/198735-ed-grimley.json"
     },
     {
       "igdb_id": 195077,
@@ -284668,6 +284683,16 @@
       "file": "missing/F/159244-family-feud.json"
     },
     {
+      "igdb_id": 198736,
+      "game_name": "Family Feud",
+      "file": "missing/F/198736-family-feud.json"
+    },
+    {
+      "igdb_id": 198737,
+      "game_name": "Family Feud",
+      "file": "missing/F/198737-family-feud.json"
+    },
+    {
       "igdb_id": 257844,
       "game_name": "Family Feud",
       "file": "missing/F/257844-family-feud.json"
@@ -284696,6 +284721,11 @@
       "igdb_id": 203239,
       "game_name": "Family Feud Cartridge #2",
       "file": "missing/F/203239-family-feud-cartridge-2.json"
+    },
+    {
+      "igdb_id": 198738,
+      "game_name": "Family Feud Cartridge #3",
+      "file": "missing/F/198738-family-feud-cartridge-3.json"
     },
     {
       "igdb_id": 90067,
@@ -289101,6 +289131,11 @@
       "igdb_id": 167574,
       "game_name": "Fast Jump",
       "file": "missing/F/167574-fast-jump.json"
+    },
+    {
+      "igdb_id": 198739,
+      "game_name": "Fast Lane Bowling",
+      "file": "missing/F/198739-fast-lane-bowling.json"
     },
     {
       "igdb_id": 23782,
@@ -314423,6 +314458,11 @@
       "file": "missing/F/130970-fox-trot-over-run.json"
     },
     {
+      "igdb_id": 198741,
+      "game_name": "Fox's Peter Pan & The Pirates",
+      "file": "missing/F/198741-foxs-peter-pan-and-the-pirates.json"
+    },
+    {
       "igdb_id": 72710,
       "game_name": "Fox's Peter Pan & The Pirates: The Revenge of Captain Hook",
       "file": "missing/F/72710-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.json"
@@ -318516,6 +318556,16 @@
       "igdb_id": 11470,
       "game_name": "Frogger",
       "file": "missing/F/11470-frogger.json"
+    },
+    {
+      "igdb_id": 198743,
+      "game_name": "Frogger",
+      "file": "missing/F/198743-frogger.json"
+    },
+    {
+      "igdb_id": 198744,
+      "game_name": "Frogger",
+      "file": "missing/F/198744-frogger.json"
     },
     {
       "igdb_id": 199426,
@@ -325173,6 +325223,11 @@
       "file": "missing/G/81200-g-i-joe-special-ops.json"
     },
     {
+      "igdb_id": 198747,
+      "game_name": "G.I. Joe: Star Brigade",
+      "file": "missing/G/198747-g-i-joe-star-brigade.json"
+    },
+    {
       "igdb_id": 8166,
       "game_name": "G.I. Joe: The Atlantis Factor",
       "file": "missing/G/8166-g-i-joe-the-atlantis-factor.json"
@@ -331093,6 +331148,11 @@
       "file": "missing/G/216282-gargoyles-remastered.json"
     },
     {
+      "igdb_id": 198745,
+      "game_name": "Gargoyles: Night Flight",
+      "file": "missing/G/198745-gargoyles-night-flight.json"
+    },
+    {
       "igdb_id": 214747,
       "game_name": "Garin Game: Curse of Revival Ceremony",
       "file": "missing/G/214747-garin-game-curse-of-revival-ceremony.json"
@@ -331906,6 +331966,11 @@
       "igdb_id": 261166,
       "game_name": "Gauntler",
       "file": "missing/G/261166-gauntler.json"
+    },
+    {
+      "igdb_id": 198746,
+      "game_name": "Gauntlet",
+      "file": "missing/G/198746-gauntlet.json"
     },
     {
       "igdb_id": 330890,
@@ -344898,6 +344963,11 @@
       "file": "missing/G/120346-goldbeards-quest.json"
     },
     {
+      "igdb_id": 198748,
+      "game_name": "Goldberg Smash & Bash Wrestling Game Fear the Spear",
+      "file": "missing/G/198748-goldberg-smash-and-bash-wrestling-game-fear-the-spear.json"
+    },
+    {
       "igdb_id": 298802,
       "game_name": "Golden Apple",
       "file": "missing/G/298802-golden-apple.json"
@@ -345306,6 +345376,11 @@
       "igdb_id": 82145,
       "game_name": "Golden Tee 2018",
       "file": "missing/G/82145-golden-tee-2018.json"
+    },
+    {
+      "igdb_id": 198749,
+      "game_name": "Golden Tee Golf",
+      "file": "missing/G/198749-golden-tee-golf.json"
     },
     {
       "igdb_id": 28719,
@@ -347001,6 +347076,11 @@
       "igdb_id": 60895,
       "game_name": "Goofball Goals",
       "file": "missing/G/60895-goofball-goals.json"
+    },
+    {
+      "igdb_id": 198750,
+      "game_name": "Goofy",
+      "file": "missing/G/198750-goofy.json"
     },
     {
       "igdb_id": 396724,
@@ -367313,6 +367393,11 @@
       "file": "missing/H/39479-harley-davidson-and-l-a-riders.json"
     },
     {
+      "igdb_id": 198752,
+      "game_name": "Harley-Davidson Motorcycles: Road to Daytona",
+      "file": "missing/H/198752-harley-davidson-motorcycles-road-to-daytona.json"
+    },
+    {
       "igdb_id": 66341,
       "game_name": "Harley-Davidson: Race to the Rally",
       "file": "missing/H/66341-harley-davidson-race-to-the-rally.json"
@@ -367748,6 +367833,11 @@
       "file": "missing/H/266498-harry-potter-and-the-sorcerers-stone-third-floor-corridor-challenge.json"
     },
     {
+      "igdb_id": 198753,
+      "game_name": "Harry Potter Book of Spells",
+      "file": "missing/H/198753-harry-potter-book-of-spells.json"
+    },
+    {
       "igdb_id": 286660,
       "game_name": "Harry Potter Collection",
       "file": "missing/H/286660-harry-potter-collection.json"
@@ -367756,6 +367846,11 @@
       "igdb_id": 266196,
       "game_name": "Harry Potter DVD Game: Wizarding World",
       "file": "missing/H/266196-harry-potter-dvd-game-wizarding-world.json"
+    },
+    {
+      "igdb_id": 198754,
+      "game_name": "Harry Potter Fluffy Action Game",
+      "file": "missing/H/198754-harry-potter-fluffy-action-game.json"
     },
     {
       "igdb_id": 20743,
@@ -367771,6 +367866,11 @@
       "igdb_id": 238009,
       "game_name": "Harry Potter Interactive Watch",
       "file": "missing/H/238009-harry-potter-interactive-watch.json"
+    },
+    {
+      "igdb_id": 198755,
+      "game_name": "Harry Potter Labyrinth",
+      "file": "missing/H/198755-harry-potter-labyrinth.json"
     },
     {
       "igdb_id": 139256,
@@ -367793,6 +367893,16 @@
       "file": "missing/H/251591-harry-potter-tamagotchi.json"
     },
     {
+      "igdb_id": 198758,
+      "game_name": "Harry Potter: Electronic Quidditch Game",
+      "file": "missing/H/198758-harry-potter-electronic-quidditch-game.json"
+    },
+    {
+      "igdb_id": 198759,
+      "game_name": "Harry Potter: LED Force Feel Game",
+      "file": "missing/H/198759-harry-potter-led-force-feel-game.json"
+    },
+    {
       "igdb_id": 125209,
       "game_name": "Harry Potter: Magic Awakened",
       "file": "missing/H/125209-harry-potter-magic-awakened.json"
@@ -367801,6 +367911,11 @@
       "igdb_id": 266200,
       "game_name": "Harry Potter: Mastering Magic",
       "file": "missing/H/266200-harry-potter-mastering-magic.json"
+    },
+    {
+      "igdb_id": 198757,
+      "game_name": "Harry Potter: Mini Action Game - Harry Potter",
+      "file": "missing/H/198757-harry-potter-mini-action-game-harry-potter.json"
     },
     {
       "igdb_id": 246166,
@@ -372321,6 +372436,11 @@
       "igdb_id": 322601,
       "game_name": "Heavy As Stone",
       "file": "missing/H/322601-heavy-as-stone.json"
+    },
+    {
+      "igdb_id": 198760,
+      "game_name": "Heavy Barrel",
+      "file": "missing/H/198760-heavy-barrel.json"
     },
     {
       "igdb_id": 412812,
@@ -389108,6 +389228,11 @@
       "file": "missing/H/75232-hollywood-poker-pro.json"
     },
     {
+      "igdb_id": 198761,
+      "game_name": "Hollywood Squares",
+      "file": "missing/H/198761-hollywood-squares.json"
+    },
+    {
       "igdb_id": 48056,
       "game_name": "Hollywood Squares",
       "file": "missing/H/48056-hollywood-squares.json"
@@ -389696,6 +389821,11 @@
       "igdb_id": 78599,
       "game_name": "Home Alone",
       "file": "missing/H/78599-home-alone.json"
+    },
+    {
+      "igdb_id": 198762,
+      "game_name": "Home Alone 2: Lost in New York",
+      "file": "missing/H/198762-home-alone-2-lost-in-new-york.json"
     },
     {
       "igdb_id": 243884,
@@ -412183,6 +412313,11 @@
       "file": "missing/I/194307-independant-video-video-game.json"
     },
     {
+      "igdb_id": 198765,
+      "game_name": "Independence Day",
+      "file": "missing/I/198765-independence-day.json"
+    },
+    {
       "igdb_id": 354411,
       "game_name": "Independence Day Resurgence: Battle Heroes",
       "file": "missing/I/354411-independence-day-resurgence-battle-heroes.json"
@@ -416661,6 +416796,16 @@
       "igdb_id": 316634,
       "game_name": "Inspector Douglas's Diary",
       "file": "missing/I/316634-inspector-douglass-diary.json"
+    },
+    {
+      "igdb_id": 198766,
+      "game_name": "Inspector Gadget",
+      "file": "missing/I/198766-inspector-gadget.json"
+    },
+    {
+      "igdb_id": 198767,
+      "game_name": "Inspector Gadget",
+      "file": "missing/I/198767-inspector-gadget.json"
     },
     {
       "igdb_id": 4859,
@@ -426668,6 +426813,16 @@
       "file": "missing/J/18757-jawbreaker.json"
     },
     {
+      "igdb_id": 198768,
+      "game_name": "Jawbreaker",
+      "file": "missing/J/198768-jawbreaker.json"
+    },
+    {
+      "igdb_id": 198769,
+      "game_name": "Jawbreaker",
+      "file": "missing/J/198769-jawbreaker.json"
+    },
+    {
       "igdb_id": 217341,
       "game_name": "Jawbreaker",
       "file": "missing/J/217341-jawbreaker.json"
@@ -426991,6 +427146,11 @@
       "igdb_id": 49888,
       "game_name": "Jeff Gordon XS Racing",
       "file": "missing/J/49888-jeff-gordon-xs-racing.json"
+    },
+    {
+      "igdb_id": 198770,
+      "game_name": "Jeff Gordon's Du Pont Pacesetter Games",
+      "file": "missing/J/198770-jeff-gordons-du-pont-pacesetter-games.json"
     },
     {
       "igdb_id": 337491,
@@ -427498,9 +427658,49 @@
       "file": "missing/J/43911-jeopardy-2nd-edition.json"
     },
     {
+      "igdb_id": 198772,
+      "game_name": "Jeopardy! Cartridge #1",
+      "file": "missing/J/198772-jeopardy-cartridge-1.json"
+    },
+    {
+      "igdb_id": 198773,
+      "game_name": "Jeopardy! Cartridge #2",
+      "file": "missing/J/198773-jeopardy-cartridge-2.json"
+    },
+    {
+      "igdb_id": 198774,
+      "game_name": "Jeopardy! Cartridge #3",
+      "file": "missing/J/198774-jeopardy-cartridge-3.json"
+    },
+    {
+      "igdb_id": 198775,
+      "game_name": "Jeopardy! Cartridge #4",
+      "file": "missing/J/198775-jeopardy-cartridge-4.json"
+    },
+    {
+      "igdb_id": 198776,
+      "game_name": "Jeopardy! Cartridge #5",
+      "file": "missing/J/198776-jeopardy-cartridge-5.json"
+    },
+    {
+      "igdb_id": 198777,
+      "game_name": "Jeopardy! Cartridge #6",
+      "file": "missing/J/198777-jeopardy-cartridge-6.json"
+    },
+    {
+      "igdb_id": 198771,
+      "game_name": "Jeopardy! Deluxe Edition",
+      "file": "missing/J/198771-jeopardy-deluxe-edition.json"
+    },
+    {
       "igdb_id": 42512,
       "game_name": "Jeopardy! Deluxe Edition",
       "file": "missing/J/42512-jeopardy-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 198778,
+      "game_name": "Jeopardy! Deluxe Edition Cartridge 2",
+      "file": "missing/J/198778-jeopardy-deluxe-edition-cartridge-2.json"
     },
     {
       "igdb_id": 79544,
@@ -427876,6 +428076,11 @@
       "igdb_id": 22281,
       "game_name": "Jet Li: Rise to Honor",
       "file": "missing/J/22281-jet-li-rise-to-honor.json"
+    },
+    {
+      "igdb_id": 198779,
+      "game_name": "Jet Moto",
+      "file": "missing/J/198779-jet-moto.json"
     },
     {
       "igdb_id": 287885,
@@ -430603,6 +430808,16 @@
       "file": "missing/J/43569-jim-hensons-muppets-party-cruise.json"
     },
     {
+      "igdb_id": 198780,
+      "game_name": "Jim Henson's Muppets: Coach Kermit",
+      "file": "missing/J/198780-jim-hensons-muppets-coach-kermit.json"
+    },
+    {
+      "igdb_id": 198781,
+      "game_name": "Jim Henson's Muppets: Street Surfin'",
+      "file": "missing/J/198781-jim-hensons-muppets-street-surfin.json"
+    },
+    {
       "igdb_id": 49958,
       "game_name": "Jim Henson's The Muppets",
       "file": "missing/J/49958-jim-hensons-the-muppets.json"
@@ -431793,6 +432008,11 @@
       "file": "missing/J/81751-john-dungeon.json"
     },
     {
+      "igdb_id": 198782,
+      "game_name": "John Elway's Quarterback",
+      "file": "missing/J/198782-john-elways-quarterback.json"
+    },
+    {
       "igdb_id": 40343,
       "game_name": "John Elway's Team Quarterback",
       "file": "missing/J/40343-john-elways-team-quarterback.json"
@@ -432623,6 +432843,11 @@
       "file": "missing/J/18837-jordan-vs-bird-one-on-one.json"
     },
     {
+      "igdb_id": 198783,
+      "game_name": "Jordan vs. Bird: One on One",
+      "file": "missing/J/198783-jordan-vs-bird-one-on-one.json"
+    },
+    {
       "igdb_id": 330926,
       "game_name": "Jordan vs. Bird: One on One",
       "file": "missing/J/330926-jordan-vs-bird-one-on-one.json"
@@ -433208,6 +433433,11 @@
       "file": "missing/J/234783-joushou-mahjong-tenpai-kansen-data.json"
     },
     {
+      "igdb_id": 198784,
+      "game_name": "Joust",
+      "file": "missing/J/198784-joust.json"
+    },
+    {
       "igdb_id": 239137,
       "game_name": "Joust",
       "file": "missing/J/239137-joust.json"
@@ -433686,6 +433916,11 @@
       "igdb_id": 221649,
       "game_name": "Judero",
       "file": "missing/J/221649-judero.json"
+    },
+    {
+      "igdb_id": 198785,
+      "game_name": "Judge Dredd",
+      "file": "missing/J/198785-judge-dredd.json"
     },
     {
       "igdb_id": 4387,
@@ -434171,6 +434406,11 @@
       "igdb_id": 58507,
       "game_name": "Jumble Blocks",
       "file": "missing/J/58507-jumble-blocks.json"
+    },
+    {
+      "igdb_id": 198786,
+      "game_name": "Jumble Electronic Word Game",
+      "file": "missing/J/198786-jumble-electronic-word-game.json"
     },
     {
       "igdb_id": 92053,
@@ -858693,6 +858933,11 @@
       "file": "missing/T/75038-the-flight-of-dowran.json"
     },
     {
+      "igdb_id": 198740,
+      "game_name": "The Flintstones",
+      "file": "missing/T/198740-the-flintstones.json"
+    },
+    {
       "igdb_id": 205923,
       "game_name": "The Flintstones",
       "file": "missing/T/205923-the-flintstones.json"
@@ -863431,6 +863676,11 @@
       "igdb_id": 262418,
       "game_name": "The Incredible Coneman",
       "file": "missing/T/262418-the-incredible-coneman.json"
+    },
+    {
+      "igdb_id": 198764,
+      "game_name": "The Incredible Crash Dummies",
+      "file": "missing/T/198764-the-incredible-crash-dummies.json"
     },
     {
       "igdb_id": 225619,
