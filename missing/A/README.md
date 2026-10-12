@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Vampyre Story: Year One | 3137 | [3137-a-vampyre-story-year-one.json](./3137-a-vampyre-story-year-one.json) |
 | A Verdant Hue | 32234 | [32234-a-verdant-hue.json](./32234-a-verdant-hue.json) |
 | A Very British Summer | 375941 | [375941-a-very-british-summer.json](./375941-a-very-british-summer.json) |
+| A Very Corporate Escape Room | 207571 | [207571-a-very-corporate-escape-room.json](./207571-a-very-corporate-escape-room.json) |
 | A Very Long Rope to the Top of the Sky | 124616 | [124616-a-very-long-rope-to-the-top-of-the-sky.json](./124616-a-very-long-rope-to-the-top-of-the-sky.json) |
 | A Very Merry Nightmare | 338182 | [338182-a-very-merry-nightmare.json](./338182-a-very-merry-nightmare.json) |
 | A Very Pilkington Christmas | 280752 | [280752-a-very-pilkington-christmas.json](./280752-a-very-pilkington-christmas.json) |
@@ -1299,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Deck: Deckbuilding Roguelike | 373159 | [373159-abyss-deck-deckbuilding-roguelike.json](./373159-abyss-deck-deckbuilding-roguelike.json) |
 | Abyss Delvers | 194378 | [194378-abyss-delvers.json](./194378-abyss-delvers.json) |
 | Abyss Eschaton Survivors | 348852 | [348852-abyss-eschaton-survivors.json](./348852-abyss-eschaton-survivors.json) |
+| Abyss Fantasia | 207601 | [207601-abyss-fantasia.json](./207601-abyss-fantasia.json) |
 | Abyss Horizon | 97453 | [97453-abyss-horizon.json](./97453-abyss-horizon.json) |
 | Abyss Infection | 157152 | [157152-abyss-infection.json](./157152-abyss-infection.json) |
 | Abyss King | 199485 | [199485-abyss-king.json](./199485-abyss-king.json) |
@@ -3396,6 +3398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airship: Kingdoms Adrift | 231336 | [231336-airship-kingdoms-adrift.json](./231336-airship-kingdoms-adrift.json) |
 | Airships: Conquer the Skies | 35934 | [35934-airships-conquer-the-skies.json](./35934-airships-conquer-the-skies.json) |
 | Airships: Heroes and Villains | 244353 | [244353-airships-heroes-and-villains.json](./244353-airships-heroes-and-villains.json) |
+| AirShooShoo | 207589 | [207589-airshooshoo.json](./207589-airshooshoo.json) |
 | Airsoft Allstars | 393023 | [393023-airsoft-allstars.json](./393023-airsoft-allstars.json) |
 | Airsoft Bomb | 102575 | [102575-airsoft-bomb.json](./102575-airsoft-bomb.json) |
 | Airsoft Online | 297765 | [297765-airsoft-online.json](./297765-airsoft-online.json) |
@@ -6417,6 +6420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animo Stars Arena | 243064 | [243064-animo-stars-arena.json](./243064-animo-stars-arena.json) |
 | Animorphs: Know the Secret | 68723 | [68723-animorphs-know-the-secret.json](./68723-animorphs-know-the-secret.json) |
 | Animorphs: Shattered Reality | 43927 | [43927-animorphs-shattered-reality.json](./43927-animorphs-shattered-reality.json) |
+| Animosa | 207560 | [207560-animosa.json](./207560-animosa.json) |
 | Animosity's Duel | 133800 | [133800-animositys-duel.json](./133800-animositys-duel.json) |
 | AnimuJump | 238628 | [238628-animujump.json](./238628-animujump.json) |
 | Animus: Harbinger | 125190 | [125190-animus-harbinger.json](./125190-animus-harbinger.json) |
@@ -8404,6 +8408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aria | 305379 | [305379-aria.json](./305379-aria.json) |
 | Aria | 84445 | [84445-aria.json](./84445-aria.json) |
 | Aria and The Ancient Artifacts | 314053 | [314053-aria-and-the-ancient-artifacts.json](./314053-aria-and-the-ancient-artifacts.json) |
+| Aria and the Crystal Kingdom | 207605 | [207605-aria-and-the-crystal-kingdom.json](./207605-aria-and-the-crystal-kingdom.json) |
 | Aria and the Mysterious Mushroom | 249342 | [249342-aria-and-the-mysterious-mushroom.json](./249342-aria-and-the-mysterious-mushroom.json) |
 | Aria and the Secret of the Labyrinth | 385837 | [385837-aria-and-the-secret-of-the-labyrinth.json](./385837-aria-and-the-secret-of-the-labyrinth.json) |
 | Aria Chronicle | 135749 | [135749-aria-chronicle.json](./135749-aria-chronicle.json) |
