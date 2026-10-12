@@ -3701,6 +3701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serenity | 392294 | [392294-serenity.json](./392294-serenity.json) |
 | Serenity | 418862 | [418862-serenity.json](./418862-serenity.json) |
 | Serenity at Dusk | 179056 | [179056-serenity-at-dusk.json](./179056-serenity-at-dusk.json) |
+| Serenity Ov Ball | 185459 | [185459-serenity-ov-ball.json](./185459-serenity-ov-ball.json) |
 | Sereno | 368367 | [368367-sereno.json](./368367-sereno.json) |
 | Seres | 207382 | [207382-seres.json](./207382-seres.json) |
 | Seres Universalis: Three Kingdoms | 372109 | [372109-seres-universalis-three-kingdoms.json](./372109-seres-universalis-three-kingdoms.json) |
@@ -4939,6 +4940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Vault | 390783 | [390783-shattered-vault.json](./390783-shattered-vault.json) |
 | Shattered Void | 340380 | [340380-shattered-void.json](./340380-shattered-void.json) |
 | Shattered World | 264632 | [264632-shattered-world.json](./264632-shattered-world.json) |
+| Shattered World: Beneath a Stone Sky | 185389 | [185389-shattered-world-beneath-a-stone-sky.json](./185389-shattered-world-beneath-a-stone-sky.json) |
 | Shattered Worlds | 155654 | [155654-shattered-worlds.json](./155654-shattered-worlds.json) |
 | Shattered: The Final Days | 248048 | [248048-shattered-the-final-days.json](./248048-shattered-the-final-days.json) |
 | Shatterhand | 48648 | [48648-shatterhand.json](./48648-shatterhand.json) |
@@ -5609,6 +5611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShipLord | 19326 | [19326-shiplord.json](./19326-shiplord.json) |
 | Shipmatch | 256232 | [256232-shipmatch.json](./256232-shipmatch.json) |
 | ShipOS 1994 | 312191 | [312191-shipos-1994.json](./312191-shipos-1994.json) |
+| Shipping Out! | 185383 | [185383-shipping-out.json](./185383-shipping-out.json) |
 | ShipRect | 212797 | [212797-shiprect.json](./212797-shiprect.json) |
 | Ships | 187826 | [187826-ships.json](./187826-ships.json) |
 | Ships 2022 | 148897 | [148897-ships-2022.json](./148897-ships-2022.json) |
@@ -15303,6 +15306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Standby | 248069 | [248069-standby.json](./248069-standby.json) |
 | Standby | 26715 | [26715-standby.json](./26715-standby.json) |
 | Standby Say You! | 108836 | [108836-standby-say-you.json](./108836-standby-say-you.json) |
+| Standing There | 185401 | [185401-standing-there.json](./185401-standing-there.json) |
 | Standing Together | 374807 | [374807-standing-together.json](./374807-standing-together.json) |
 | StandOff | 348831 | [348831-standoff.json](./348831-standoff.json) |
 | Standoff Multiplayer | 138172 | [138172-standoff-multiplayer.json](./138172-standoff-multiplayer.json) |
@@ -22816,6 +22820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swinging Singles | 92158 | [92158-swinging-singles.json](./92158-swinging-singles.json) |
 | Swinging-Man | 188428 | [188428-swinging-man.json](./188428-swinging-man.json) |
 | Swingmania | 304039 | [304039-swingmania.json](./304039-swingmania.json) |
+| SwingShot | 185384 | [185384-swingshot.json](./185384-swingshot.json) |
 | Swingularity | 333566 | [333566-swingularity.json](./333566-swingularity.json) |
 | Swingy Sword | 90210 | [90210-swingy-sword.json](./90210-swingy-sword.json) |
 | swipe | 346219 | [346219-swipe.json](./346219-swipe.json) |
