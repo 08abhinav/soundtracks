@@ -2689,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption: Liar | 65221 | [65221-redemption-liar.json](./65221-redemption-liar.json) |
 | Redemption: Wrath of Sin | 265568 | [265568-redemption-wrath-of-sin.json](./265568-redemption-wrath-of-sin.json) |
 | Redemption? | 265110 | [265110-redemption.json](./265110-redemption.json) |
+| Redemptoris: Isekai | 186079 | [186079-redemptoris-isekai.json](./186079-redemptoris-isekai.json) |
 | RedEx | 163956 | [163956-redex.json](./163956-redex.json) |
 | Redfall: Steelbook Launch Edition | 350534 | [350534-redfall-steelbook-launch-edition.json](./350534-redfall-steelbook-launch-edition.json) |
 | Redfir Hills | 304116 | [304116-redfir-hills.json](./304116-redfir-hills.json) |
@@ -3967,6 +3968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retsnom | 34946 | [34946-retsnom.json](./34946-retsnom.json) |
 | Rettungssimulator Online | 144937 | [144937-rettungssimulator-online.json](./144937-rettungssimulator-online.json) |
 | Return | 177418 | [177418-return.json](./177418-return.json) |
+| Return | 186010 | [186010-return.json](./186010-return.json) |
 | Return | 255987 | [255987-return.json](./255987-return.json) |
 | Return Ace | 195759 | [195759-return-ace.json](./195759-return-ace.json) |
 | Return Alive | 255803 | [255803-return-alive.json](./255803-return-alive.json) |
@@ -4945,6 +4947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rionag: Survey Fleet | 253862 | [253862-rionag-survey-fleet.json](./253862-rionag-survey-fleet.json) |
 | Rios de Lluvia | 335973 | [335973-rios-de-lluvia.json](./335973-rios-de-lluvia.json) |
 | Riot | 279702 | [279702-riot.json](./279702-riot.json) |
+| Riot Act | 185998 | [185998-riot-act.json](./185998-riot-act.json) |
 | Riot At World | 159723 | [159723-riot-at-world.json](./159723-riot-at-world.json) |
 | Riot City | 39851 | [39851-riot-city.json](./39851-riot-city.json) |
 | Riot Control | 269119 | [269119-riot-control.json](./269119-riot-control.json) |
@@ -7508,6 +7511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RTL Ski Jumping 2006 | 80865 | [80865-rtl-ski-jumping-2006.json](./80865-rtl-ski-jumping-2006.json) |
 | RTL Skispringen 2003 | 94245 | [94245-rtl-skispringen-2003.json](./94245-rtl-skispringen-2003.json) |
 | RTL Winter Games 2007 | 152301 | [152301-rtl-winter-games-2007.json](./152301-rtl-winter-games-2007.json) |
+| RTL WLS 2000 | 186002 | [186002-rtl-wls-2000.json](./186002-rtl-wls-2000.json) |
 | RTM: The Last Days | 212209 | [212209-rtm-the-last-days.json](./212209-rtm-the-last-days.json) |
 | RTO | 84851 | [84851-rto.json](./84851-rto.json) |
 | RTO 3 | 106519 | [106519-rto-3.json](./106519-rto-3.json) |
