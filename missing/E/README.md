@@ -1152,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eject Bombin' | 182923 | [182923-eject-bombin.json](./182923-eject-bombin.json) |
 | Ekans | 260588 | [260588-ekans.json](./260588-ekans.json) |
 | Ekholux | 374399 | [374399-ekholux.json](./374399-ekholux.json) |
+| Ekika Queen's Iand | 206444 | [206444-ekika-queens-iand.json](./206444-ekika-queens-iand.json) |
 | Eklips | 174180 | [174180-eklips.json](./174180-eklips.json) |
 | Eko | 223673 | [223673-eko.json](./223673-eko.json) |
 | Eko And The Bewitched Lands | 292963 | [292963-eko-and-the-bewitched-lands.json](./292963-eko-and-the-bewitched-lands.json) |
@@ -3734,6 +3735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Estranged Family | 381954 | [381954-estranged-family.json](./381954-estranged-family.json) |
 | Estranged: The Departure | 147260 | [147260-estranged-the-departure.json](./147260-estranged-the-departure.json) |
 | Estresamente | 241257 | [241257-estresamente.json](./241257-estresamente.json) |
+| Esukoto Makai Youhei-dan | 206449 | [206449-esukoto-makai-youhei-dan.json](./206449-esukoto-makai-youhei-dan.json) |
 | ESWAT: City Under Siege | 6670 | [6670-eswat-city-under-siege.json](./6670-eswat-city-under-siege.json) |
 | ESWAT: Cyber Police | 39869 | [39869-eswat-cyber-police.json](./39869-eswat-cyber-police.json) |
 | Esylium MMORPG | 250885 | [250885-esylium-mmorpg.json](./250885-esylium-mmorpg.json) |
