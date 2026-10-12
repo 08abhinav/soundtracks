@@ -4165,6 +4165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisher-Price: Little People Discovery Airport | 144860 | [144860-fisher-price-little-people-discovery-airport.json](./144860-fisher-price-little-people-discovery-airport.json) |
 | Fisher-Price: Ready for School - Kindergarten | 77007 | [77007-fisher-price-ready-for-school-kindergarten.json](./77007-fisher-price-ready-for-school-kindergarten.json) |
 | Fisher-Price: Time To Play - Pet Shop | 283677 | [283677-fisher-price-time-to-play-pet-shop.json](./283677-fisher-price-time-to-play-pet-shop.json) |
+| Fisher's Qualm | 218664 | [218664-fishers-qualm.json](./218664-fishers-qualm.json) |
 | Fisherman | 326247 | [326247-fisherman.json](./326247-fisherman.json) |
 | Fisherman Simulator | 318694 | [318694-fisherman-simulator.json](./318694-fisherman-simulator.json) |
 | Fisherman’s Bait: Marlin Challenge | 270623 | [270623-fisherman-s-bait-marlin-challenge.json](./270623-fisherman-s-bait-marlin-challenge.json) |
@@ -7566,6 +7567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frido | 232456 | [232456-frido.json](./232456-frido.json) |
 | Fried Chicken in Wonderland | 158576 | [158576-fried-chicken-in-wonderland.json](./158576-fried-chicken-in-wonderland.json) |
 | Fried Chicken Wings Cause Love Fires | 372084 | [372084-fried-chicken-wings-cause-love-fires.json](./372084-fried-chicken-wings-cause-love-fires.json) |
+| Fried Panic | 218663 | [218663-fried-panic.json](./218663-fried-panic.json) |
 | Fried Rice Apocalypse | 338727 | [338727-fried-rice-apocalypse.json](./338727-fried-rice-apocalypse.json) |
 | Frieda is Changing | 357272 | [357272-frieda-is-changing.json](./357272-frieda-is-changing.json) |
 | Friend Hunt | 276777 | [276777-friend-hunt.json](./276777-friend-hunt.json) |
