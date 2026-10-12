@@ -2161,6 +2161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enatus Radi | 212216 | [212216-enatus-radi.json](./212216-enatus-radi.json) |
 | Enbody | 176999 | [176999-enbody.json](./176999-enbody.json) |
 | EnbornX | 61108 | [61108-enbornx.json](./61108-enbornx.json) |
+| Enby Enough | 179942 | [179942-enby-enough.json](./179942-enby-enough.json) |
 | Encased | 95407 | [95407-encased.json](./95407-encased.json) |
 | Encased: Portrait Pack | 230991 | [230991-encased-portrait-pack.json](./230991-encased-portrait-pack.json) |
 | Encave | 404778 | [404778-encave.json](./404778-encave.json) |
@@ -4511,6 +4512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Genome | 51565 | [51565-evil-genome.json](./51565-evil-genome.json) |
 | Evil Girls Party! | 265213 | [265213-evil-girls-party.json](./265213-evil-girls-party.json) |
 | Evil Glitch | 28803 | [28803-evil-glitch.json](./28803-evil-glitch.json) |
+| Evil God Korone | 179934 | [179934-evil-god-korone.json](./179934-evil-god-korone.json) |
 | Evil Hand | 176435 | [176435-evil-hand.json](./176435-evil-hand.json) |
 | Evil Holiday | 287193 | [287193-evil-holiday.json](./287193-evil-holiday.json) |
 | Evil Hunter Tycoon | 197357 | [197357-evil-hunter-tycoon.json](./197357-evil-hunter-tycoon.json) |
