@@ -3792,6 +3792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironguard | 32973 | [32973-ironguard.json](./32973-ironguard.json) |
 | Ironheart | 131615 | [131615-ironheart.json](./131615-ironheart.json) |
 | Ironheart: Cardia | 291466 | [291466-ironheart-cardia.json](./291466-ironheart-cardia.json) |
+| IronKnight | 223364 | [223364-ironknight.json](./223364-ironknight.json) |
 | Ironlights | 131560 | [131560-ironlights.json](./131560-ironlights.json) |
 | Ironmarked | 301281 | [301281-ironmarked.json](./301281-ironmarked.json) |
 | Ironpants | 62198 | [62198-ironpants.json](./62198-ironpants.json) |
