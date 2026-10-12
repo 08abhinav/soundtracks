@@ -1773,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EM: Shader Attack | 31354 | [31354-em-shader-attack.json](./31354-em-shader-attack.json) |
 | EmagineWorld | 213402 | [213402-emagineworld.json](./213402-emagineworld.json) |
 | Emagon | 60783 | [60783-emagon.json](./60783-emagon.json) |
+| Emancipator Go! | 217456 | [217456-emancipator-go.json](./217456-emancipator-go.json) |
 | Emancy: Borderline War | 237650 | [237650-emancy-borderline-war.json](./237650-emancy-borderline-war.json) |
 | Embark Untitled Game | 115446 | [115446-embark-untitled-game.json](./115446-embark-untitled-game.json) |
 | Embassy Assault | 12935 | [12935-embassy-assault.json](./12935-embassy-assault.json) |
