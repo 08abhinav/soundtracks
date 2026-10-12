@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ojingeo Project | 393658 | [393658-ojingeo-project.json](./393658-ojingeo-project.json) |
 | Ojo Por Ojo | 301893 | [301893-ojo-por-ojo.json](./301893-ojo-por-ojo.json) |
 | Ojou-sama Express | 270746 | [270746-ojou-sama-express.json](./270746-ojou-sama-express.json) |
+| Ojou-sama no Doki-doki Daisakusen: Norowareta Kurenai no Yakata | 204251 | [204251-ojou-sama-no-doki-doki-daisakusen-norowareta-kurenai-no-yakata.json](./204251-ojou-sama-no-doki-doki-daisakusen-norowareta-kurenai-no-yakata.json) |
 | Ojou-sama no Hanbun wa Renai de Dekiteimasu! | 328216 | [328216-ojou-sama-no-hanbun-wa-renai-de-dekiteimasu.json](./328216-ojou-sama-no-hanbun-wa-renai-de-dekiteimasu.json) |
 | Ojou-sama to Himitsu no Otome | 132100 | [132100-ojou-sama-to-himitsu-no-otome.json](./132100-ojou-sama-to-himitsu-no-otome.json) |
 | Ojou-sama, Chijoku no hate ni Warau. | 108940 | [108940-ojou-sama-chijoku-no-hate-ni-warau.json](./108940-ojou-sama-chijoku-no-hate-ni-warau.json) |
@@ -3101,6 +3102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Way | 104673 | [104673-our-way.json](./104673-our-way.json) |
 | Our Way | 169977 | [169977-our-way.json](./169977-our-way.json) |
 | Our Winding Road | 301408 | [301408-our-winding-road.json](./301408-our-winding-road.json) |
+| Our Wonderland | 204222 | [204222-our-wonderland.json](./204222-our-wonderland.json) |
 | Our Wonderland | 403157 | [403157-our-wonderland.json](./403157-our-wonderland.json) |
 | Our Worlds | 130877 | [130877-our-worlds.json](./130877-our-worlds.json) |
 | Ouran High School Host Club | 81475 | [81475-ouran-high-school-host-club.json](./81475-ouran-high-school-host-club.json) |
