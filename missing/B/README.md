@@ -2242,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batomon Showdown | 398645 | [398645-batomon-showdown.json](./398645-batomon-showdown.json) |
 | Bats | 118285 | [118285-bats.json](./118285-bats.json) |
 | Bats & Terry | 48609 | [48609-bats-and-terry.json](./48609-bats-and-terry.json) |
+| Batsu Maru | 189894 | [189894-batsu-maru.json](./189894-batsu-maru.json) |
 | Batsu! | 160215 | [160215-batsu.json](./160215-batsu.json) |
 | Batsugun | 292117 | [292117-batsugun.json](./292117-batsugun.json) |
 | Batsumaru | 191511 | [191511-batsumaru.json](./191511-batsumaru.json) |
@@ -6692,6 +6693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Gal | 38587 | [38587-block-gal.json](./38587-block-gal.json) |
 | Block Gun | 255332 | [255332-block-gun.json](./255332-block-gun.json) |
 | Block Heads: Instakill | 108305 | [108305-block-heads-instakill.json](./108305-block-heads-instakill.json) |
+| Block Heist | 189893 | [189893-block-heist.json](./189893-block-heist.json) |
 | Block Hopper | 283388 | [283388-block-hopper.json](./283388-block-hopper.json) |
 | Block In | 390148 | [390148-block-in.json](./390148-block-in.json) |
 | Block Jam | 323702 | [323702-block-jam.json](./323702-block-jam.json) |
@@ -7949,6 +7951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Magic Tower | 367855 | [367855-bomb-magic-tower.json](./367855-bomb-magic-tower.json) |
 | Bomb Man | 78266 | [78266-bomb-man.json](./78266-bomb-man.json) |
 | Bomb Meirin | 204406 | [204406-bomb-meirin.json](./204406-bomb-meirin.json) |
+| Bomb Pong | 189926 | [189926-bomb-pong.json](./189926-bomb-pong.json) |
 | Bomb Riders | 108407 | [108407-bomb-riders.json](./108407-bomb-riders.json) |
 | Bomb Rush Cyberfunk: Base & Jay | 262252 | [262252-bomb-rush-cyberfunk-base-and-jay.json](./262252-bomb-rush-cyberfunk-base-and-jay.json) |
 | Bomb Rush Cyberfunk: Exclusive Edition | 379972 | [379972-bomb-rush-cyberfunk-exclusive-edition.json](./379972-bomb-rush-cyberfunk-exclusive-edition.json) |
@@ -11066,6 +11069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bun Wars: Best of fun for Boys Girls and Kids | 101533 | [101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json](./101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json) |
 | Buna Wants Beer | 318525 | [318525-buna-wants-beer.json](./318525-buna-wants-beer.json) |
 | Bunbons | 210322 | [210322-bunbons.json](./210322-bunbons.json) |
+| Bunce | 189903 | [189903-bunce.json](./189903-bunce.json) |
 | Bunch of Heroes: Holiday Pack | 226274 | [226274-bunch-of-heroes-holiday-pack.json](./226274-bunch-of-heroes-holiday-pack.json) |
 | Bunches For Bart! | 297795 | [297795-bunches-for-bart.json](./297795-bunches-for-bart.json) |
 | Buncho: The Lost Bird | 185419 | [185419-buncho-the-lost-bird.json](./185419-buncho-the-lost-bird.json) |
