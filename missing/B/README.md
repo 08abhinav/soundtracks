@@ -3829,7 +3829,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before You Die | 185434 | [185434-before-you-die.json](./185434-before-you-die.json) |
 | Before You Forget | 261447 | [261447-before-you-forget.json](./261447-before-you-forget.json) |
 | Before Your Eyes | 305472 | [305472-before-your-eyes.json](./305472-before-your-eyes.json) |
-| Before Your Eyes | 91477 | [91477-before-your-eyes.json](./91477-before-your-eyes.json) |
 | Befriendus | 179700 | [179700-befriendus.json](./179700-befriendus.json) |
 | Bega's Battle | 23938 | [23938-begas-battle.json](./23938-begas-battle.json) |
 | Beggar Simulator: Istanbul | 413815 | [413815-beggar-simulator-istanbul.json](./413815-beggar-simulator-istanbul.json) |
