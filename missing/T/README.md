@@ -2444,6 +2444,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teleball | 201016 | [201016-teleball.json](./201016-teleball.json) |
 | TeleBlast | 108420 | [108420-teleblast.json](./108420-teleblast.json) |
 | TeleCollision | 280868 | [280868-telecollision.json](./280868-telecollision.json) |
+| Telefoot Soccer 2000 | 186003 | [186003-telefoot-soccer-2000.json](./186003-telefoot-soccer-2000.json) |
+| Telefoot Soccer 2000 | 186004 | [186004-telefoot-soccer-2000.json](./186004-telefoot-soccer-2000.json) |
 | Teleforum | 226605 | [226605-teleforum.json](./226605-teleforum.json) |
 | Telegeddon | 369461 | [369461-telegeddon.json](./369461-telegeddon.json) |
 | Teleglitch: Die More Edition | 7884 | [7884-teleglitch-die-more-edition.json](./7884-teleglitch-die-more-edition.json) |
@@ -4747,6 +4749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chronicles of Narnia: The Lion, the Witch and the Wardrobe | 194237 | [194237-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.json](./194237-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.json) |
 | The Chronicles of Narnia: The Lion, the Witch and the Wardrobe | 194238 | [194238-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.json](./194238-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.json) |
 | The Chronicles of Narnia: The Lion, the Witch and the Wardrobe | 3857 | [3857-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.json](./3857-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.json) |
+| The Chronicles of Narnia: The Voyage of the Dawn Treader | 185951 | [185951-the-chronicles-of-narnia-the-voyage-of-the-dawn-treader.json](./185951-the-chronicles-of-narnia-the-voyage-of-the-dawn-treader.json) |
 | The Chronicles of Noah's Ark | 105244 | [105244-the-chronicles-of-noahs-ark.json](./105244-the-chronicles-of-noahs-ark.json) |
 | The Chronicles of Nyanya | 68669 | [68669-the-chronicles-of-nyanya.json](./68669-the-chronicles-of-nyanya.json) |
 | The Chronicles of Overlord | 219550 | [219550-the-chronicles-of-overlord.json](./219550-the-chronicles-of-overlord.json) |
@@ -5056,6 +5059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crust: Supporter Pack | 400874 | [400874-the-crust-supporter-pack.json](./400874-the-crust-supporter-pack.json) |
 | The Crypt of Treasure | 219551 | [219551-the-crypt-of-treasure.json](./219551-the-crypt-of-treasure.json) |
 | The Crypt Terror | 231516 | [231516-the-crypt-terror.json](./231516-the-crypt-terror.json) |
+| The Crypto Prophecies | 186005 | [186005-the-crypto-prophecies.json](./186005-the-crypto-prophecies.json) |
 | The Cryptokiller | 376542 | [376542-the-cryptokiller.json](./376542-the-cryptokiller.json) |
 | The Cryptologist Room | 154430 | [154430-the-cryptologist-room.json](./154430-the-cryptologist-room.json) |
 | The Crypts | 268469 | [268469-the-crypts.json](./268469-the-crypts.json) |
@@ -7560,6 +7564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XV: Characters Mature & Vice | 317839 | [317839-the-king-of-fighters-xv-characters-mature-and-vice.json](./317839-the-king-of-fighters-xv-characters-mature-and-vice.json) |
 | The King of Fighters XV: Deluxe Edition | 172556 | [172556-the-king-of-fighters-xv-deluxe-edition.json](./172556-the-king-of-fighters-xv-deluxe-edition.json) |
 | The King of Fighters XV: DLC Costume "Classic Leona" | 332031 | [332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json](./332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json) |
+| The King of Fighters XV: Omega Edition | 185982 | [185982-the-king-of-fighters-xv-omega-edition.json](./185982-the-king-of-fighters-xv-omega-edition.json) |
 | The King of Fighters XV: Omega Rugal | 323408 | [323408-the-king-of-fighters-xv-omega-rugal.json](./323408-the-king-of-fighters-xv-omega-rugal.json) |
 | The King of Fighters XV: Team Garou | 195801 | [195801-the-king-of-fighters-xv-team-garou.json](./195801-the-king-of-fighters-xv-team-garou.json) |
 | The King of Fighters: AFK | 364038 | [364038-the-king-of-fighters-afk.json](./364038-the-king-of-fighters-afk.json) |
