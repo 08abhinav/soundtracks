@@ -595,6 +595,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takara Cards | 194401 | [194401-takara-cards.json](./194401-takara-cards.json) |
 | Takara Shimai: Scratch Simulator | 384133 | [384133-takara-shimai-scratch-simulator.json](./384133-takara-shimai-scratch-simulator.json) |
 | Takara-hai Oozumou Eisei Basho | 151639 | [151639-takara-hai-oozumou-eisei-basho.json](./151639-takara-hai-oozumou-eisei-basho.json) |
+| Takara-hai Oozumou Eisei Basho: Aki-basho | 179953 | [179953-takara-hai-oozumou-eisei-basho-aki-basho.json](./179953-takara-hai-oozumou-eisei-basho-aki-basho.json) |
+| Takara-hai Oozumou Eisei Basho: Fuyu-basho | 179955 | [179955-takara-hai-oozumou-eisei-basho-fuyu-basho.json](./179955-takara-hai-oozumou-eisei-basho-fuyu-basho.json) |
+| Takara-hai Oozumou Eisei Basho: Haru-basho | 179954 | [179954-takara-hai-oozumou-eisei-basho-haru-basho.json](./179954-takara-hai-oozumou-eisei-basho-haru-basho.json) |
+| Takara-hai Oozumou Eisei Basho: Natsu-basho | 179952 | [179952-takara-hai-oozumou-eisei-basho-natsu-basho.json](./179952-takara-hai-oozumou-eisei-basho-natsu-basho.json) |
 | Takashi: Ninja Warrior | 196543 | [196543-takashi-ninja-warrior.json](./196543-takashi-ninja-warrior.json) |
 | Takatron: 2098 | 384785 | [384785-takatron-2098.json](./384785-takatron-2098.json) |
 | Take | 57490 | [57490-take.json](./57490-take.json) |
@@ -2737,6 +2741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Club Story | 134020 | [134020-tennis-club-story.json](./134020-tennis-club-story.json) |
 | Tennis Court Smash | 92667 | [92667-tennis-court-smash.json](./92667-tennis-court-smash.json) |
 | Tennis Cup | 123005 | [123005-tennis-cup.json](./123005-tennis-cup.json) |
+| Tennis Dog: Ultimate Good Boy | 179982 | [179982-tennis-dog-ultimate-good-boy.json](./179982-tennis-dog-ultimate-good-boy.json) |
 | Tennis Elbow | 197896 | [197896-tennis-elbow.json](./197896-tennis-elbow.json) |
 | Tennis Elbow 2013 | 35830 | [35830-tennis-elbow-2013.json](./35830-tennis-elbow-2013.json) |
 | Tennis Elbow Manager | 31291 | [31291-tennis-elbow-manager.json](./31291-tennis-elbow-manager.json) |
@@ -2774,6 +2779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Smash: Racketville | 382230 | [382230-tennis-smash-racketville.json](./382230-tennis-smash-racketville.json) |
 | Tennis Stars: Ultimate Clash | 235130 | [235130-tennis-stars-ultimate-clash.json](./235130-tennis-stars-ultimate-clash.json) |
 | Tennis Tourney | 172783 | [172783-tennis-tourney.json](./172783-tennis-tourney.json) |
+| Tennis Tower | 179981 | [179981-tennis-tower.json](./179981-tennis-tower.json) |
 | Tennis Tune-Up | 117168 | [117168-tennis-tune-up.json](./117168-tennis-tune-up.json) |
 | Tennis Untimate 3D Pro | 107100 | [107100-tennis-untimate-3d-pro.json](./107100-tennis-untimate-3d-pro.json) |
 | Tennis World Tour | 36544 | [36544-tennis-world-tour.json](./36544-tennis-world-tour.json) |
@@ -8935,6 +8941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Metronomicon: Slay the Dance Floor - The End Records Challenge Pack | 225580 | [225580-the-metronomicon-slay-the-dance-floor-the-end-records-challenge-pack.json](./225580-the-metronomicon-slay-the-dance-floor-the-end-records-challenge-pack.json) |
 | The Metronomicon: Slay The Dance Floor - The End Records Challenge Pack | 225234 | [225234-the-metronomicon-slay-the-dance-floor-the-end-records-challenge-pack.json](./225234-the-metronomicon-slay-the-dance-floor-the-end-records-challenge-pack.json) |
 | The Miami Horror | 176347 | [176347-the-miami-horror.json](./176347-the-miami-horror.json) |
+| The Mice Guys | 179939 | [179939-the-mice-guys.json](./179939-the-mice-guys.json) |
 | The Mice of Riddle Place - The Mystery of Mrs. Wirth | 108605 | [108605-the-mice-of-riddle-place-the-mystery-of-mrs-wirth.json](./108605-the-mice-of-riddle-place-the-mystery-of-mrs-wirth.json) |
 | The Mice Plight | 259008 | [259008-the-mice-plight.json](./259008-the-mice-plight.json) |
 | The Midnight Bakery | 135875 | [135875-the-midnight-bakery.json](./135875-the-midnight-bakery.json) |
@@ -9039,6 +9046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Monkey King: The Legend Begins | 50608 | [50608-the-monkey-king-the-legend-begins.json](./50608-the-monkey-king-the-legend-begins.json) |
 | The Monkey P | 223148 | [223148-the-monkey-p.json](./223148-the-monkey-p.json) |
 | The Monkey's Paw | 415911 | [415911-the-monkeys-paw.json](./415911-the-monkeys-paw.json) |
+| The monotony of carrots | 179936 | [179936-the-monotony-of-carrots.json](./179936-the-monotony-of-carrots.json) |
 | The Monster | 111019 | [111019-the-monster.json](./111019-the-monster.json) |
 | The Monster Breeder | 126558 | [126558-the-monster-breeder.json](./126558-the-monster-breeder.json) |
 | The Monster of Memory: Destiny | 150765 | [150765-the-monster-of-memory-destiny.json](./150765-the-monster-of-memory-destiny.json) |
