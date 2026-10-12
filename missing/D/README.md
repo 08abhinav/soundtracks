@@ -5928,6 +5928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Delivery | 121581 | [121581-dino-delivery.json](./121581-dino-delivery.json) |
 | Dino Dini's Kick Off Revival | 19591 | [19591-dino-dinis-kick-off-revival.json](./19591-dino-dinis-kick-off-revival.json) |
 | Dino Dino | 287770 | [287770-dino-dino.json](./287770-dino-dino.json) |
+| Dino Domination | 212428 | [212428-dino-domination.json](./212428-dino-domination.json) |
 | Dino Domino | 360022 | [360022-dino-domino.json](./360022-dino-domino.json) |
 | Dino Eggs | 23928 | [23928-dino-eggs.json](./23928-dino-eggs.json) |
 | Dino Eggs: Rebirth | 33336 | [33336-dino-eggs-rebirth.json](./33336-dino-eggs-rebirth.json) |
@@ -9530,7 +9531,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Tax Return Simulator 2015 | 182973 | [182973-dragon-tax-return-simulator-2015.json](./182973-dragon-tax-return-simulator-2015.json) |
 | Dragon Title | 295804 | [295804-dragon-title.json](./295804-dragon-title.json) |
 | Dragon Tower | 267292 | [267292-dragon-tower.json](./267292-dragon-tower.json) |
+| Dragon Trail: Hunter World | 212501 | [212501-dragon-trail-hunter-world.json](./212501-dragon-trail-hunter-world.json) |
 | Dragon Trails | 173289 | [173289-dragon-trails.json](./173289-dragon-trails.json) |
+| Dragon Trial | 212514 | [212514-dragon-trial.json](./212514-dragon-trial.json) |
 | Dragon Tycoon Edge | 97321 | [97321-dragon-tycoon-edge.json](./97321-dragon-tycoon-edge.json) |
 | Dragon Up | 205060 | [205060-dragon-up.json](./205060-dragon-up.json) |
 | Dragon valley | 109744 | [109744-dragon-valley.json](./109744-dragon-valley.json) |
