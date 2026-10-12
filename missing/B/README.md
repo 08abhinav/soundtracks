@@ -1938,6 +1938,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball with Heads | 246974 | [246974-baseball-with-heads.json](./246974-baseball-with-heads.json) |
 | Baseball-e | 170006 | [170006-baseball-e.json](./170006-baseball-e.json) |
 | Baseball, But Fun | 177858 | [177858-baseball-but-fun.json](./177858-baseball-but-fun.json) |
+| Baseball: Breakthrough Gaming Arcade - 2 Player Cooperation Edition | 207058 | [207058-baseball-breakthrough-gaming-arcade-2-player-cooperation-edition.json](./207058-baseball-breakthrough-gaming-arcade-2-player-cooperation-edition.json) |
+| Baseball: Breakthrough Gaming Arcade - 2 Player Cooperation Edition: Challenge Mode | 207060 | [207060-baseball-breakthrough-gaming-arcade-2-player-cooperation-edition-challenge-mode.json](./207060-baseball-breakthrough-gaming-arcade-2-player-cooperation-edition-challenge-mode.json) |
+| Baseball: Breakthrough Gaming Arcade - 3 Player Cooperation Edition | 207056 | [207056-baseball-breakthrough-gaming-arcade-3-player-cooperation-edition.json](./207056-baseball-breakthrough-gaming-arcade-3-player-cooperation-edition.json) |
+| Baseball: Breakthrough Gaming Arcade - 4 Player Cooperation Edition | 207054 | [207054-baseball-breakthrough-gaming-arcade-4-player-cooperation-edition.json](./207054-baseball-breakthrough-gaming-arcade-4-player-cooperation-edition.json) |
+| Baseball: Breakthrough Gaming Arcade - Challenge Mode Edition | 207047 | [207047-baseball-breakthrough-gaming-arcade-challenge-mode-edition.json](./207047-baseball-breakthrough-gaming-arcade-challenge-mode-edition.json) |
 | Baseball: The Season II | 40267 | [40267-baseball-the-season-ii.json](./40267-baseball-the-season-ii.json) |
 | Baseball4 | 59450 | [59450-baseball4.json](./59450-baseball4.json) |
 | Baseballoons | 235280 | [235280-baseballoons.json](./235280-baseballoons.json) |
@@ -4905,6 +4910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bill & Ted's Excellent Adventure | 175897 | [175897-bill-and-teds-excellent-adventure.json](./175897-bill-and-teds-excellent-adventure.json) |
 | Bill & Ted's Excellent Adventure: The Computer Game! | 83911 | [83911-bill-and-teds-excellent-adventure-the-computer-game.json](./83911-bill-and-teds-excellent-adventure-the-computer-game.json) |
 | Bill & Ted's Excellent Game Boy Adventure | 290651 | [290651-bill-and-teds-excellent-game-boy-adventure.json](./290651-bill-and-teds-excellent-game-boy-adventure.json) |
+| Bill & Ted's Excellent Retro Collection: Collector's Edition | 207048 | [207048-bill-and-teds-excellent-retro-collection-collectors-edition.json](./207048-bill-and-teds-excellent-retro-collection-collectors-edition.json) |
 | Bill and Ted's Excellent Retro Collection | 203772 | [203772-bill-and-teds-excellent-retro-collection.json](./203772-bill-and-teds-excellent-retro-collection.json) |
 | Bill Bounce | 231623 | [231623-bill-bounce.json](./231623-bill-bounce.json) |
 | Bill Hates Videogames | 219206 | [219206-bill-hates-videogames.json](./219206-bill-hates-videogames.json) |
@@ -5223,6 +5229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biotopia | 258039 | [258039-biotopia.json](./258039-biotopia.json) |
 | Biotoxin | 271184 | [271184-biotoxin.json](./271184-biotoxin.json) |
 | Biotype | 403643 | [403643-biotype.json](./403643-biotype.json) |
+| Bip + Bop | 207024 | [207024-bip-bop.json](./207024-bip-bop.json) |
 | BipBop | 218644 | [218644-bipbop.json](./218644-bipbop.json) |
 | BipBop II | 73829 | [73829-bipbop-ii.json](./73829-bipbop-ii.json) |
 | BipBop III | 218645 | [218645-bipbop-iii.json](./218645-bipbop-iii.json) |
