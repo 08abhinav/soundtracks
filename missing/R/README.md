@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragtag Rescue | 183914 | [183914-ragtag-rescue.json](./183914-ragtag-rescue.json) |
 | Raguna and the Crystal of Miracles | 225801 | [225801-raguna-and-the-crystal-of-miracles.json](./225801-raguna-and-the-crystal-of-miracles.json) |
 | Rai-Net Access Battlers | 299721 | [299721-rai-net-access-battlers.json](./299721-rai-net-access-battlers.json) |
+| Raia Nova | 189911 | [189911-raia-nova.json](./189911-raia-nova.json) |
 | Raid | 170805 | [170805-raid.json](./170805-raid.json) |
 | Raid 2000 | 30955 | [30955-raid-2000.json](./30955-raid-2000.json) |
 | Raid 2020 | 48211 | [48211-raid-2020.json](./48211-raid-2020.json) |
@@ -4324,6 +4325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RFA Station | 244907 | [244907-rfa-station.json](./244907-rfa-station.json) |
 | rFactor | 9493 | [9493-rfactor.json](./9493-rfactor.json) |
 | rFactor 2 | 9494 | [9494-rfactor-2.json](./9494-rfactor-2.json) |
+| RFVR | 189989 | [189989-rfvr.json](./189989-rfvr.json) |
 | Rg-ft | 176997 | [176997-rg-ft.json](./176997-rg-ft.json) |
 | RGB | 251216 | [251216-rgb.json](./251216-rgb.json) |
 | RGB ON Experience | 174629 | [174629-rgb-on-experience.json](./174629-rgb-on-experience.json) |
@@ -5823,6 +5825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotica | 19744 | [19744-robotica.json](./19744-robotica.json) |
 | Robotica | 211292 | [211292-robotica.json](./211292-robotica.json) |
 | Robotica | 384783 | [384783-robotica.json](./384783-robotica.json) |
+| Robotics in VR | 189924 | [189924-robotics-in-vr.json](./189924-robotics-in-vr.json) |
 | Robotics;Notes | 7162 | [7162-robotics-notes.json](./7162-robotics-notes.json) |
 | Robotics;Notes Double Pack | 132650 | [132650-robotics-notes-double-pack.json](./132650-robotics-notes-double-pack.json) |
 | Robotics! | 362170 | [362170-robotics.json](./362170-robotics.json) |
