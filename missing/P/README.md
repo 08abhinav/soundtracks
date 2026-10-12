@@ -1180,6 +1180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paprika Trainer | 280263 | [280263-paprika-trainer.json](./280263-paprika-trainer.json) |
 | Paprika x Persona False God Reincarnation | 386466 | [386466-paprika-x-persona-false-god-reincarnation.json](./386466-paprika-x-persona-false-god-reincarnation.json) |
 | Paprium | 55107 | [55107-paprium.json](./55107-paprium.json) |
+| Papu Superstars Racing | 222789 | [222789-papu-superstars-racing.json](./222789-papu-superstars-racing.json) |
 | Papuan Dominatrixes Are the Best | 385704 | [385704-papuan-dominatrixes-are-the-best.json](./385704-papuan-dominatrixes-are-the-best.json) |
 | Papy Panic | 391263 | [391263-papy-panic.json](./391263-papy-panic.json) |
 | Papyrus | 49864 | [49864-papyrus.json](./49864-papyrus.json) |
@@ -7240,6 +7241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Sapphire Version | 355533 | [355533-pokemon-sapphire-version.json](./355533-pokemon-sapphire-version.json) |
 | Pokémon Scarlet and Pokémon Violet Double Pack | 203516 | [203516-pokemon-scarlet-and-pokemon-violet-double-pack.json](./203516-pokemon-scarlet-and-pokemon-violet-double-pack.json) |
 | Pokémon Scarlet: The Hidden Treasure of Area Zero - Part 2: The Indigo Disk | 239932 | [239932-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json](./239932-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json) |
+| Pokémon Shattered Light | 223053 | [223053-pokemon-shattered-light.json](./223053-pokemon-shattered-light.json) |
 | Pokémon Shield | 115653 | [115653-pokemon-shield.json](./115653-pokemon-shield.json) |
 | Pokémon Shinju Adventures | 331943 | [331943-pokemon-shinju-adventures.json](./331943-pokemon-shinju-adventures.json) |
 | Pokémon Showdown | 87797 | [87797-pokemon-showdown.json](./87797-pokemon-showdown.json) |
@@ -9094,6 +9096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primo | 271724 | [271724-primo.json](./271724-primo.json) |
 | Primo Richards: Case 1 | 302150 | [302150-primo-richards-case-1.json](./302150-primo-richards-case-1.json) |
 | Primordial | 158671 | [158671-primordial.json](./158671-primordial.json) |
+| Primordial Pain | 223099 | [223099-primordial-pain.json](./223099-primordial-pain.json) |
 | Primordial Soup | 401863 | [401863-primordial-soup.json](./401863-primordial-soup.json) |
 | Primordialis | 317541 | [317541-primordialis.json](./317541-primordialis.json) |
 | Primordials: Battle of Gods | 137978 | [137978-primordials-battle-of-gods.json](./137978-primordials-battle-of-gods.json) |
@@ -10697,6 +10700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pual Blarp Ghoul Cop | 327945 | [327945-pual-blarp-ghoul-cop.json](./327945-pual-blarp-ghoul-cop.json) |
 | Pub Encounter | 33397 | [33397-pub-encounter.json](./33397-pub-encounter.json) |
 | Pub Fascination | 226735 | [226735-pub-fascination.json](./226735-pub-fascination.json) |
+| Pub Games | 223092 | [223092-pub-games.json](./223092-pub-games.json) |
 | Pub Games | 399605 | [399605-pub-games.json](./399605-pub-games.json) |
 | Pub Mania | 325247 | [325247-pub-mania.json](./325247-pub-mania.json) |
 | Pub Sim | 311277 | [311277-pub-sim.json](./311277-pub-sim.json) |
