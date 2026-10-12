@@ -705,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Pop: Bubble Shooter | 87039 | [87039-panda-pop-bubble-shooter.json](./87039-panda-pop-bubble-shooter.json) |
 | Panda Prince | 48891 | [48891-panda-prince.json](./48891-panda-prince.json) |
 | Panda Push | 162868 | [162868-panda-push.json](./162868-panda-push.json) |
+| Panda Roll | 218665 | [218665-panda-roll.json](./218665-panda-roll.json) |
 | Panda Run | 55267 | [55267-panda-run.json](./55267-panda-run.json) |
 | Panda vs Lightning | 98796 | [98796-panda-vs-lightning.json](./98796-panda-vs-lightning.json) |
 | Panda vs. Bugs | 196555 | [196555-panda-vs-bugs.json](./196555-panda-vs-bugs.json) |
@@ -1116,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperly | 403748 | [403748-paperly.json](./403748-paperly.json) |
 | Paperly: Paper Plane Adventure | 194040 | [194040-paperly-paper-plane-adventure.json](./194040-paperly-paper-plane-adventure.json) |
 | Paperman | 385577 | [385577-paperman.json](./385577-paperman.json) |
+| Paperplanes | 218678 | [218678-paperplanes.json](./218678-paperplanes.json) |
 | PaperPlanets | 106612 | [106612-paperplanets.json](./106612-paperplanets.json) |
 | Paperquarium | 249458 | [249458-paperquarium.json](./249458-paperquarium.json) |
 | Paperwork | 374620 | [374620-paperwork.json](./374620-paperwork.json) |
@@ -3877,6 +3879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pico Topia | 272737 | [272737-pico-topia.json](./272737-pico-topia.json) |
 | Pico Tower | 284301 | [284301-pico-tower.json](./284301-pico-tower.json) |
 | Pico vs. Bear | 331683 | [331683-pico-vs-bear.json](./331683-pico-vs-bear.json) |
+| Pico World Race | 218636 | [218636-pico-world-race.json](./218636-pico-world-race.json) |
 | Pico-8 Multicart | 202717 | [202717-pico-8-multicart.json](./202717-pico-8-multicart.json) |
 | Picoban | 243778 | [243778-picoban.json](./243778-picoban.json) |
 | PicOHRoss | 387521 | [387521-picohross.json](./387521-picohross.json) |
