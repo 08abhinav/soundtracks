@@ -10210,6 +10210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamWatcher | 145430 | [145430-dreamwatcher.json](./145430-dreamwatcher.json) |
 | Dreamwater | 252385 | [252385-dreamwater.json](./252385-dreamwater.json) |
 | Dreamweb | 2489 | [2489-dreamweb.json](./2489-dreamweb.json) |
+| Dreamwild | 223094 | [223094-dreamwild.json](./223094-dreamwild.json) |
 | Dreamwillow | 184661 | [184661-dreamwillow.json](./184661-dreamwillow.json) |
 | DreamWoods 2 | 361164 | [361164-dreamwoods-2.json](./361164-dreamwoods-2.json) |
 | Dreamworks 2-in-1 Party Pack | 130311 | [130311-dreamworks-2-in-1-party-pack.json](./130311-dreamworks-2-in-1-party-pack.json) |
@@ -11999,9 +12000,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamic | 226170 | [226170-dynamic.json](./226170-dynamic.json) |
 | Dynamic Arms VR | 190968 | [190968-dynamic-arms-vr.json](./190968-dynamic-arms-vr.json) |
 | Dynamic Chord feat. Apple-Polisher | 142447 | [142447-dynamic-chord-feat-apple-polisher.json](./142447-dynamic-chord-feat-apple-polisher.json) |
+| Dynamic Chord feat. Apple-Polisher: V Edition | 223081 | [223081-dynamic-chord-feat-apple-polisher-v-edition.json](./223081-dynamic-chord-feat-apple-polisher-v-edition.json) |
 | Dynamic Chord feat. Kyohso | 142446 | [142446-dynamic-chord-feat-kyohso.json](./142446-dynamic-chord-feat-kyohso.json) |
+| Dynamic Chord feat. Kyohso Append Disc | 223078 | [223078-dynamic-chord-feat-kyohso-append-disc.json](./223078-dynamic-chord-feat-kyohso-append-disc.json) |
+| Dynamic Chord feat. Kyohso: V Edition | 223079 | [223079-dynamic-chord-feat-kyohso-v-edition.json](./223079-dynamic-chord-feat-kyohso-v-edition.json) |
 | Dynamic Chord feat. Liar-S | 142445 | [142445-dynamic-chord-feat-liar-s.json](./142445-dynamic-chord-feat-liar-s.json) |
+| Dynamic Chord feat. Liar-S Append Disc | 223076 | [223076-dynamic-chord-feat-liar-s-append-disc.json](./223076-dynamic-chord-feat-liar-s-append-disc.json) |
+| Dynamic Chord feat. Liar-S: V Edition | 223077 | [223077-dynamic-chord-feat-liar-s-v-edition.json](./223077-dynamic-chord-feat-liar-s-v-edition.json) |
 | Dynamic Chord feat. Rêve Parfait | 140304 | [140304-dynamic-chord-feat-reve-parfait.json](./140304-dynamic-chord-feat-reve-parfait.json) |
+| Dynamic Chord feat. Rēve Parfait Append Disc | 223075 | [223075-dynamic-chord-feat-reve-parfait-append-disc.json](./223075-dynamic-chord-feat-reve-parfait-append-disc.json) |
 | Dynamic Chord feat.Liar-s Remaster Edition | 363031 | [363031-dynamic-chord-feat-liar-s-remaster-edition.json](./363031-dynamic-chord-feat-liar-s-remaster-edition.json) |
 | Dynamic Country Club: 3D Golf Simulation | 45873 | [45873-dynamic-country-club-3d-golf-simulation.json](./45873-dynamic-country-club-3d-golf-simulation.json) |
 | Dynamic Duo | 13615 | [13615-dynamic-duo.json](./13615-dynamic-duo.json) |
