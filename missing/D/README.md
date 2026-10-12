@@ -4315,6 +4315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby Quest: Horse Manager HD | 246429 | [246429-derby-quest-horse-manager-hd.json](./246429-derby-quest-horse-manager-hd.json) |
 | Derby Quiz: My Dream Horse | 167093 | [167093-derby-quiz-my-dream-horse.json](./167093-derby-quiz-my-dream-horse.json) |
 | Derby Stallion | 137021 | [137021-derby-stallion.json](./137021-derby-stallion.json) |
+| Derby Stallion | 222487 | [222487-derby-stallion.json](./222487-derby-stallion.json) |
 | Derby Stallion (Tentative Title) | 85565 | [85565-derby-stallion-tentative-title.json](./85565-derby-stallion-tentative-title.json) |
 | Derby Stallion 04 | 123048 | [123048-derby-stallion-04.json](./123048-derby-stallion-04.json) |
 | Derby Stallion 2 | 405468 | [405468-derby-stallion-2.json](./405468-derby-stallion-2.json) |
@@ -8428,6 +8429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai | 60545 | [60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json](./60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json) |
 | Doraijin | 129674 | [129674-doraijin.json](./129674-doraijin.json) |
 | DoraKone | 116849 | [116849-dorakone.json](./116849-dorakone.json) |
+| DoraMoji: Nobita no Kanji Daisakusen | 222467 | [222467-doramoji-nobita-no-kanji-daisakusen.json](./222467-doramoji-nobita-no-kanji-daisakusen.json) |
 | Dorapan | 66753 | [66753-dorapan.json](./66753-dorapan.json) |
 | DoraSlot: Bakuenchi! Kyojin no Hoshi II | 269492 | [269492-doraslot-bakuenchi-kyojin-no-hoshi-ii.json](./269492-doraslot-bakuenchi-kyojin-no-hoshi-ii.json) |
 | DoraSlot: Oki-Slot-Ou! Pioneer 12 | 269493 | [269493-doraslot-oki-slot-ou-pioneer-12.json](./269493-doraslot-oki-slot-ou-pioneer-12.json) |
@@ -8498,6 +8500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot. | 94201 | [94201-dot.json](./94201-dot.json) |
 | Dota | 233022 | [233022-dota.json](./233022-dota.json) |
 | Dota 2: New Frontiers | 246900 | [246900-dota-2-new-frontiers.json](./246900-dota-2-new-frontiers.json) |
+| Dotabata Chouri Akushon IT-kei Ramen Dorasu | 222447 | [222447-dotabata-chouri-akushon-it-kei-ramen-dorasu.json](./222447-dotabata-chouri-akushon-it-kei-ramen-dorasu.json) |
 | DotAge | 111045 | [111045-dotage.json](./111045-dotage.json) |
 | DotAge: Folkways | 336527 | [336527-dotage-folkways.json](./336527-dotage-folkways.json) |
 | DotAge: Trade Secrets | 394372 | [394372-dotage-trade-secrets.json](./394372-dotage-trade-secrets.json) |
@@ -9928,6 +9931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Garden | 339968 | [339968-dream-garden.json](./339968-dream-garden.json) |
 | Dream Gate | 45234 | [45234-dream-gate.json](./45234-dream-gate.json) |
 | Dream Genie | 201294 | [201294-dream-genie.json](./201294-dream-genie.json) |
+| Dream Girl Premier | 222445 | [222445-dream-girl-premier.json](./222445-dream-girl-premier.json) |
 | Dream Girlfriend | 208979 | [208979-dream-girlfriend.json](./208979-dream-girlfriend.json) |
 | Dream Girlfriend: Doomer Girl | 272208 | [272208-dream-girlfriend-doomer-girl.json](./272208-dream-girlfriend-doomer-girl.json) |
 | Dream Girlfriend: Twitch Thot | 368106 | [368106-dream-girlfriend-twitch-thot.json](./368106-dream-girlfriend-twitch-thot.json) |
