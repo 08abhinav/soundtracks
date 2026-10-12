@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T17:49:53.523Z",
-  "total_missing": 202754,
+  "generated_at": "2026-10-12T17:51:39.905Z",
+  "total_missing": 202753,
   "games": [
     {
       "igdb_id": 191680,
@@ -184991,11 +184991,6 @@
       "igdb_id": 158506,
       "game_name": "Cry of Athena",
       "file": "missing/C/158506-cry-of-athena.json"
-    },
-    {
-      "igdb_id": 3084,
-      "game_name": "Cry of Fear",
-      "file": "missing/C/3084-cry-of-fear.json"
     },
     {
       "igdb_id": 367403,
