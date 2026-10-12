@@ -9737,6 +9737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Plow | 192872 | [192872-snow-plow.json](./192872-snow-plow.json) |
 | Snow Plow Train Simulator 3D - Russia | 87104 | [87104-snow-plow-train-simulator-3d-russia.json](./87104-snow-plow-train-simulator-3d-russia.json) |
 | Snow Plow Truck | 101488 | [101488-snow-plow-truck.json](./101488-snow-plow-truck.json) |
+| Snow Plowing Simulator | 218677 | [218677-snow-plowing-simulator.json](./218677-snow-plowing-simulator.json) |
 | Snow Plowing Simulator: Ski Resort | 374764 | [374764-snow-plowing-simulator-ski-resort.json](./374764-snow-plowing-simulator-ski-resort.json) |
 | Snow Problem | 342060 | [342060-snow-problem.json](./342060-snow-problem.json) |
 | Snow Question | 268959 | [268959-snow-question.json](./268959-snow-question.json) |
@@ -11114,6 +11115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic McOrigins Plus | 265230 | [265230-sonic-mcorigins-plus.json](./265230-sonic-mcorigins-plus.json) |
 | Sonic Medley | 326999 | [326999-sonic-medley.json](./326999-sonic-medley.json) |
 | Sonic Mega Collection | 4157 | [4157-sonic-mega-collection.json](./4157-sonic-mega-collection.json) |
+| Sonic Mega Collection Plus Mini | 218656 | [218656-sonic-mega-collection-plus-mini.json](./218656-sonic-mega-collection-plus-mini.json) |
 | Sonic Melee 2: The Forbidden Fate | 330301 | [330301-sonic-melee-2-the-forbidden-fate.json](./330301-sonic-melee-2-the-forbidden-fate.json) |
 | Sonic Metal Memories | 333799 | [333799-sonic-metal-memories.json](./333799-sonic-metal-memories.json) |
 | Sonic Meteor | 331718 | [331718-sonic-meteor.json](./331718-sonic-meteor.json) |
@@ -14276,6 +14278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spook Tower | 179735 | [179735-spook-tower.json](./179735-spook-tower.json) |
 | Spook-A-Boo | 317993 | [317993-spook-a-boo.json](./317993-spook-a-boo.json) |
 | Spooked | 45325 | [45325-spooked.json](./45325-spooked.json) |
+| Spooked Hide & Seek | 218669 | [218669-spooked-hide-and-seek.json](./218669-spooked-hide-and-seek.json) |
 | Spooker | 403027 | [403027-spooker.json](./403027-spooker.json) |
 | Spookie Dookie | 372669 | [372669-spookie-dookie.json](./372669-spookie-dookie.json) |
 | Spookitchen | 350595 | [350595-spookitchen.json](./350595-spookitchen.json) |
@@ -22656,6 +22659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Mana | 6630 | [6630-sword-of-mana.json](./6630-sword-of-mana.json) |
 | Sword of Mejor | 356052 | [356052-sword-of-mejor.json](./356052-sword-of-mejor.json) |
 | Sword of Mine | 414825 | [414825-sword-of-mine.json](./414825-sword-of-mine.json) |
+| Sword of Moonlight King's Field Making tool | 218639 | [218639-sword-of-moonlight-kings-field-making-tool.json](./218639-sword-of-moonlight-kings-field-making-tool.json) |
 | Sword of Power | 176273 | [176273-sword-of-power.json](./176273-sword-of-power.json) |
 | Sword of Rapier | 64509 | [64509-sword-of-rapier.json](./64509-sword-of-rapier.json) |
 | Sword of Resistance | 134640 | [134640-sword-of-resistance.json](./134640-sword-of-resistance.json) |
