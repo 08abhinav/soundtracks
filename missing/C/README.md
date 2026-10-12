@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Outlaws | 256734 | [256734-call-of-outlaws.json](./256734-call-of-outlaws.json) |
 | Call of Pixel: Close Quarters | 112948 | [112948-call-of-pixel-close-quarters.json](./112948-call-of-pixel-close-quarters.json) |
 | Call of Senpai: Waifu Warfare | 192379 | [192379-call-of-senpai-waifu-warfare.json](./192379-call-of-senpai-waifu-warfare.json) |
+| Call of Senpai: Waifu Warfare 2 | 197574 | [197574-call-of-senpai-waifu-warfare-2.json](./197574-call-of-senpai-waifu-warfare-2.json) |
 | Call of Sentinels | 264152 | [264152-call-of-sentinels.json](./264152-call-of-sentinels.json) |
 | Call of Smoking Snakes | 420568 | [420568-call-of-smoking-snakes.json](./420568-call-of-smoking-snakes.json) |
 | Call of the Ages: Collector's Edition | 341086 | [341086-call-of-the-ages-collectors-edition.json](./341086-call-of-the-ages-collectors-edition.json) |
