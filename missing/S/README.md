@@ -4174,6 +4174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SGS Fall Weiss | 197271 | [197271-sgs-fall-weiss.json](./197271-sgs-fall-weiss.json) |
 | SGS Korean War | 202653 | [202653-sgs-korean-war.json](./202653-sgs-korean-war.json) |
 | SGS NATO's Nightmare | 212166 | [212166-sgs-natos-nightmare.json](./212166-sgs-natos-nightmare.json) |
+| SGS Operation Hawaii | 190398 | [190398-sgs-operation-hawaii.json](./190398-sgs-operation-hawaii.json) |
 | SGS Pacific D-Day | 197415 | [197415-sgs-pacific-d-day.json](./197415-sgs-pacific-d-day.json) |
 | SGS Spain at War | 197187 | [197187-sgs-spain-at-war.json](./197187-sgs-spain-at-war.json) |
 | SGS Taipings | 230923 | [230923-sgs-taipings.json](./230923-sgs-taipings.json) |
@@ -10593,6 +10594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Game Christmas | 201471 | [201471-solitaire-game-christmas.json](./201471-solitaire-game-christmas.json) |
 | Solitaire Grand Harvest | 321601 | [321601-solitaire-grand-harvest.json](./321601-solitaire-grand-harvest.json) |
 | Solitaire Halloween Story | 156089 | [156089-solitaire-halloween-story.json](./156089-solitaire-halloween-story.json) |
+| Solitaire Harmony | 190396 | [190396-solitaire-harmony.json](./190396-solitaire-harmony.json) |
 | Solitaire Holiday Season | 386151 | [386151-solitaire-holiday-season.json](./386151-solitaire-holiday-season.json) |
 | Solitaire Home Story | 354999 | [354999-solitaire-home-story.json](./354999-solitaire-home-story.json) |
 | Solitaire Jester | 123427 | [123427-solitaire-jester.json](./123427-solitaire-jester.json) |
@@ -12840,6 +12842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rockets: Spaceship Rocket Simulator | 232180 | [232180-space-rockets-spaceship-rocket-simulator.json](./232180-space-rockets-spaceship-rocket-simulator.json) |
 | Space Rocks in Space | 365825 | [365825-space-rocks-in-space.json](./365825-space-rocks-in-space.json) |
 | Space Rocks! | 277829 | [277829-space-rocks.json](./277829-space-rocks.json) |
+| Space Roguelike Adventure | 190386 | [190386-space-roguelike-adventure.json](./190386-space-roguelike-adventure.json) |
 | Space RPG 3 | 99407 | [99407-space-rpg-3.json](./99407-space-rpg-3.json) |
 | Space Run | 202768 | [202768-space-run.json](./202768-space-run.json) |
 | Space Run : Super Car Endless Game 2014 | 106730 | [106730-space-run-super-car-endless-game-2014.json](./106730-space-run-super-car-endless-game-2014.json) |
@@ -14475,6 +14478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Dwellers 5: Collector's Edition | 416773 | [416773-spooky-dwellers-5-collectors-edition.json](./416773-spooky-dwellers-5-collectors-edition.json) |
 | Spooky Halloween in the Voxel World | 219681 | [219681-spooky-halloween-in-the-voxel-world.json](./219681-spooky-halloween-in-the-voxel-world.json) |
 | Spooky Hoofs | 90394 | [90394-spooky-hoofs.json](./90394-spooky-hoofs.json) |
+| Spooky Horror Game | 190431 | [190431-spooky-horror-game.json](./190431-spooky-horror-game.json) |
 | Spooky House | 179715 | [179715-spooky-house.json](./179715-spooky-house.json) |
 | Spooky Lab - Creative halloween game for kids | 100999 | [100999-spooky-lab-creative-halloween-game-for-kids.json](./100999-spooky-lab-creative-halloween-game-for-kids.json) |
 | Spooky Land Defenders | 415946 | [415946-spooky-land-defenders.json](./415946-spooky-land-defenders.json) |
@@ -15617,6 +15621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Sentry | 322825 | [322825-star-sentry.json](./322825-star-sentry.json) |
 | Star Shaman | 135111 | [135111-star-shaman.json](./135111-star-shaman.json) |
 | Star Shift Origins | 163193 | [163193-star-shift-origins.json](./163193-star-shift-origins.json) |
+| Star Shift Rebellion | 190395 | [190395-star-shift-rebellion.json](./190395-star-shift-rebellion.json) |
 | Star Ship | 18424 | [18424-star-ship.json](./18424-star-ship.json) |
 | Star Shogun | 311160 | [311160-star-shogun.json](./311160-star-shogun.json) |
 | Star Shredders | 81697 | [81697-star-shredders.json](./81697-star-shredders.json) |
@@ -20318,6 +20323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Lee World | 120950 | [120950-super-lee-world.json](./120950-super-lee-world.json) |
 | Super Life: Franchise Lord | 195188 | [195188-super-life-franchise-lord.json](./195188-super-life-franchise-lord.json) |
 | Super Liftpia | 279531 | [279531-super-liftpia.json](./279531-super-liftpia.json) |
+| Super Liquid Soccer | 190414 | [190414-super-liquid-soccer.json](./190414-super-liquid-soccer.json) |
 | Super Little Acorns 3D Turbo | 23523 | [23523-super-little-acorns-3d-turbo.json](./23523-super-little-acorns-3d-turbo.json) |
 | Super Live Stadium | 301384 | [301384-super-live-stadium.json](./301384-super-live-stadium.json) |
 | Super Lobster Run | 126984 | [126984-super-lobster-run.json](./126984-super-lobster-run.json) |
