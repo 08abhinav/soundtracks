@@ -2502,6 +2502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosteez | 276936 | [276936-ghosteez.json](./276936-ghosteez.json) |
 | Ghostflippers | 408722 | [408722-ghostflippers.json](./408722-ghostflippers.json) |
 | Ghostforged | 391808 | [391808-ghostforged.json](./391808-ghostforged.json) |
+| Ghostfriend | 223102 | [223102-ghostfriend.json](./223102-ghostfriend.json) |
 | GhostGame | 114885 | [114885-ghostgame.json](./114885-ghostgame.json) |
 | Ghosth | 179747 | [179747-ghosth.json](./179747-ghosth.json) |
 | Ghosthero: Shadow of Vengeance | 295845 | [295845-ghosthero-shadow-of-vengeance.json](./295845-ghosthero-shadow-of-vengeance.json) |
