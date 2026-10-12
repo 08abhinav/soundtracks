@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe Panic | 296075 | [296075-cafe-panic.json](./296075-cafe-panic.json) |
 | Cafe Simulator | 235790 | [235790-cafe-simulator.json](./235790-cafe-simulator.json) |
 | Cafe Simulator | 380048 | [380048-cafe-simulator.json](./380048-cafe-simulator.json) |
+| Cafe Space Angel | 180533 | [180533-cafe-space-angel.json](./180533-cafe-space-angel.json) |
 | Café Stella and the Reaper's Butterflies | 195774 | [195774-cafe-stella-and-the-reapers-butterflies.json](./195774-cafe-stella-and-the-reapers-butterflies.json) |
 | Cafe Terrace | 221343 | [221343-cafe-terrace.json](./221343-cafe-terrace.json) |
 | Cafe Tsuku: Is the order a Heart? | 204711 | [204711-cafe-tsuku-is-the-order-a-heart.json](./204711-cafe-tsuku-is-the-order-a-heart.json) |
@@ -9932,6 +9933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboy Carl | 306456 | [306456-cowboy-carl.json](./306456-cowboy-carl.json) |
 | Cowboy Duel: Red Wild West Massacre | 305411 | [305411-cowboy-duel-red-wild-west-massacre.json](./305411-cowboy-duel-red-wild-west-massacre.json) |
 | Cowboy Escape | 88233 | [88233-cowboy-escape.json](./88233-cowboy-escape.json) |
+| Cowboy Football | 180535 | [180535-cowboy-football.json](./180535-cowboy-football.json) |
 | Cowboy Gold Round-Up | 103867 | [103867-cowboy-gold-round-up.json](./103867-cowboy-gold-round-up.json) |
 | Cowboy Life Simulator | 123528 | [123528-cowboy-life-simulator.json](./123528-cowboy-life-simulator.json) |
 | Cowboy vs. UFOs | 57110 | [57110-cowboy-vs-ufos.json](./57110-cowboy-vs-ufos.json) |
