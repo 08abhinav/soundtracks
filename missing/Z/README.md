@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zangus | 313249 | [313249-zangus.json](./313249-zangus.json) |
 | Zangyura | 138717 | [138717-zangyura.json](./138717-zangyura.json) |
 | Zanki Zero: Last Beginning | 28245 | [28245-zanki-zero-last-beginning.json](./28245-zanki-zero-last-beginning.json) |
+| Zankinzoken | 226112 | [226112-zankinzoken.json](./226112-zankinzoken.json) |
 | Zankoi's Chronicles | 255959 | [255959-zankois-chronicles.json](./255959-zankois-chronicles.json) |
 | Zany Bounce | 245748 | [245748-zany-bounce.json](./245748-zany-bounce.json) |
 | Zany Kong | 98231 | [98231-zany-kong.json](./98231-zany-kong.json) |
