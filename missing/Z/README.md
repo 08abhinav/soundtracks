@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zag | 301967 | [301967-zag.json](./301967-zag.json) |
 | Zaga-33 | 22334 | [22334-zaga-33.json](./22334-zaga-33.json) |
 | Zagadki Tigrenka Usika | 188599 | [188599-zagadki-tigrenka-usika.json](./188599-zagadki-tigrenka-usika.json) |
+| Zagamihara | 192632 | [192632-zagamihara.json](./192632-zagamihara.json) |
 | Zagan Must Be Rescued | 163907 | [163907-zagan-must-be-rescued.json](./163907-zagan-must-be-rescued.json) |
 | Zagerrrr | 176366 | [176366-zagerrrr.json](./176366-zagerrrr.json) |
 | Zahak | 287676 | [287676-zahak.json](./287676-zahak.json) |
