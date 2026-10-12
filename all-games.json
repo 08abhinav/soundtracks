@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T12:10:39.141Z",
-  "total_soundtracks": 1530,
+  "generated_at": "2026-10-12T12:10:51.358Z",
+  "total_soundtracks": 1531,
   "games": [
     {
       "igdb_id": 7522,
@@ -17509,6 +17509,20 @@
           "spotify_url": "https://music.apple.com/us/album/%E9%BE%8D%E3%81%8C%E5%A6%82%E3%81%8F-%E6%A5%B53-%E9%BE%8D%E3%81%8C%E5%A6%82%E3%81%8F3%E5%A4%96%E4%BC%9D-dark-ties-original-soundtrack/1873461027?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1873461027"
+        }
+      ]
+    },
+    {
+      "igdb_id": 36550,
+      "game_name": "Yakuza: Like a Dragon",
+      "game_url": "https://ostdb.net/games/yakuza-like-a-dragon",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/06/37/91/0637914d-bbf7-384a-0345-14d477c2e4d1/PA00112601_4_160653_jacket.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "YAKUZA LIKE A DRAGON ORIGINAL SOUNDTRACK",
+          "spotify_url": "https://open.spotify.com/album/6cI2wOigB9ve7pjNnTRAdL",
+          "apple_music_url": "https://music.apple.com/us/album/yakuza-like-a-dragon-original-soundtrack/1668127277",
+          "album_link_url": "https://album.link/i/1668127277"
         }
       ]
     },
