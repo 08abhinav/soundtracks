@@ -4690,6 +4690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exile III: Ruined World | 19578 | [19578-exile-iii-ruined-world.json](./19578-exile-iii-ruined-world.json) |
 | Exile Online | 27669 | [27669-exile-online.json](./27669-exile-online.json) |
 | Exile to Death | 32869 | [32869-exile-to-death.json](./32869-exile-to-death.json) |
+| Exile: Avengers Fire | 220283 | [220283-exile-avengers-fire.json](./220283-exile-avengers-fire.json) |
 | Exile: Escape from the Pit | 7765 | [7765-exile-escape-from-the-pit.json](./7765-exile-escape-from-the-pit.json) |
 | Exiled | 283090 | [283090-exiled.json](./283090-exiled.json) |
 | Exiled from Court | 177356 | [177356-exiled-from-court.json](./177356-exiled-from-court.json) |
