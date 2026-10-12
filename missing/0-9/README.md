@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | "Two Draw" | 74340 | [74340-two-draw.json](./74340-two-draw.json) |
 | (A)woken | 307298 | [307298-a-woken.json](./307298-a-woken.json) |
 | (Neg)Entropic Wandering | 309451 | [309451-neg-entropic-wandering.json](./309451-neg-entropic-wandering.json) |
+| (O_O) | 209770 | [209770-o-o.json](./209770-o-o.json) |
 | [K]night City | 365226 | [365226-k-night-city.json](./365226-k-night-city.json) |
 | [REC] Desolation | 333760 | [333760-rec-desolation.json](./333760-rec-desolation.json) |
 | [Redacted] | 292844 | [292844-redacted.json](./292844-redacted.json) |
@@ -1136,6 +1137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 280 Zzzap | 19710 | [19710-280-zzzap.json](./19710-280-zzzap.json) |
 | 280 Zzzap/Dodgem 2001 | 139471 | [139471-280-zzzap-dodgem-2001.json](./139471-280-zzzap-dodgem-2001.json) |
 | 286 Miles | 333601 | [333601-286-miles.json](./333601-286-miles.json) |
+| 2999 Game Kids | 209723 | [209723-2999-game-kids.json](./209723-2999-game-kids.json) |
 | 2BBee | 261789 | [261789-2bbee.json](./261789-2bbee.json) |
 | 2D Brick Breaker Game Remastered | 368060 | [368060-2d-brick-breaker-game-remastered.json](./368060-2d-brick-breaker-game-remastered.json) |
 | 2D Dogfight | 256275 | [256275-2d-dogfight.json](./256275-2d-dogfight.json) |
@@ -1937,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Bit Slasher 4-in-1 Horror Demakes | 237312 | [237312-8-bit-slasher-4-in-1-horror-demakes.json](./237312-8-bit-slasher-4-in-1-horror-demakes.json) |
 | 8-Bit Slasher 4-in-1 Horror Demakes | 255083 | [255083-8-bit-slasher-4-in-1-horror-demakes.json](./255083-8-bit-slasher-4-in-1-horror-demakes.json) |
 | 8-Bit Waterslide | 101105 | [101105-8-bit-waterslide.json](./101105-8-bit-waterslide.json) |
+| 8-BIT Yu-No's Great Adventure | 209737 | [209737-8-bit-yu-nos-great-adventure.json](./209737-8-bit-yu-nos-great-adventure.json) |
 | 8-in-1 Games | 247011 | [247011-8-in-1-games.json](./247011-8-in-1-games.json) |
 | 8-in-1 IQ Scale Bundle | 81896 | [81896-8-in-1-iq-scale-bundle.json](./81896-8-in-1-iq-scale-bundle.json) |
 | 80 Days & Overboard! | 212873 | [212873-80-days-and-overboard.json](./212873-80-days-and-overboard.json) |
