@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk of Life | 346648 | [346648-walk-of-life.json](./346648-walk-of-life.json) |
 | Walk on Arrow | 104956 | [104956-walk-on-arrow.json](./104956-walk-on-arrow.json) |
 | Walk on the Ground Simulator | 120945 | [120945-walk-on-the-ground-simulator.json](./120945-walk-on-the-ground-simulator.json) |
+| Walk the dog | 183319 | [183319-walk-the-dog.json](./183319-walk-the-dog.json) |
 | Walk the Fort | 115605 | [115605-walk-the-fort.json](./115605-walk-the-fort.json) |
 | Walk The Frog | 348324 | [348324-walk-the-frog.json](./348324-walk-the-frog.json) |
 | Walk the Past VR | 239742 | [239742-walk-the-past-vr.json](./239742-walk-the-past-vr.json) |
@@ -1786,6 +1787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ways&Ball | 116244 | [116244-ways-and-ball.json](./116244-ways-and-ball.json) |
 | Waystones | 341864 | [341864-waystones.json](./341864-waystones.json) |
 | Waystones | 346626 | [346626-waystones.json](./346626-waystones.json) |
+| Wayward | 183282 | [183282-wayward.json](./183282-wayward.json) |
 | Wayward | 22099 | [22099-wayward.json](./22099-wayward.json) |
 | Wayward Rose | 248050 | [248050-wayward-rose.json](./248050-wayward-rose.json) |
 | Wayward Shadows | 213416 | [213416-wayward-shadows.json](./213416-wayward-shadows.json) |
@@ -3226,6 +3228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why I was Born | 213488 | [213488-why-i-was-born.json](./213488-why-i-was-born.json) |
 | Why Is There A Girl In My House?! | 128418 | [128418-why-is-there-a-girl-in-my-house.json](./128418-why-is-there-a-girl-in-my-house.json) |
 | Why is this Dragon so Fucking Cute?? | 136854 | [136854-why-is-this-dragon-so-fucking-cute.json](./136854-why-is-this-dragon-so-fucking-cute.json) |
+| Why Jeff | 183297 | [183297-why-jeff.json](./183297-why-jeff.json) |
 | Why Me | 377147 | [377147-why-me.json](./377147-why-me.json) |
 | Why Neon Lights Again? | 128990 | [128990-why-neon-lights-again.json](./128990-why-neon-lights-again.json) |
 | Why Not Frog? | 185474 | [185474-why-not-frog.json](./185474-why-not-frog.json) |
@@ -5701,6 +5704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wormhole Cafe | 235709 | [235709-wormhole-cafe.json](./235709-wormhole-cafe.json) |
 | Wormhole Warfare | 176995 | [176995-wormhole-warfare.json](./176995-wormhole-warfare.json) |
 | Wormhole: Battle for Planet Earth | 265091 | [265091-wormhole-battle-for-planet-earth.json](./265091-wormhole-battle-for-planet-earth.json) |
+| Wormholes n' chill | 183281 | [183281-wormholes-n-chill.json](./183281-wormholes-n-chill.json) |
 | Wormi | 269083 | [269083-wormi.json](./269083-wormi.json) |
 | Worming from Home | 386933 | [386933-worming-from-home.json](./386933-worming-from-home.json) |
 | Wormix | 315030 | [315030-wormix.json](./315030-wormix.json) |
