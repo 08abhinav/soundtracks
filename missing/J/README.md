@@ -845,6 +845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JetMan Galactic | 241874 | [241874-jetman-galactic.json](./241874-jetman-galactic.json) |
 | Jetman Hero: Jetpack Shooter | 223553 | [223553-jetman-hero-jetpack-shooter.json](./223553-jetman-hero-jetpack-shooter.json) |
 | JetmanGo | 68467 | [68467-jetmango.json](./68467-jetmango.json) |
+| Jetpac | 187877 | [187877-jetpac.json](./187877-jetpac.json) |
 | Jetpac Refuelled | 7854 | [7854-jetpac-refuelled.json](./7854-jetpac-refuelled.json) |
 | Jetpac Too | 239653 | [239653-jetpac-too.json](./239653-jetpac-too.json) |
 | Jetpack 2 | 137947 | [137947-jetpack-2.json](./137947-jetpack-2.json) |
@@ -1393,6 +1394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jingle Strike VR | 381764 | [381764-jingle-strike-vr.json](./381764-jingle-strike-vr.json) |
 | Jingo Jango | 76140 | [76140-jingo-jango.json](./76140-jingo-jango.json) |
 | Jingoku | 175829 | [175829-jingoku.json](./175829-jingoku.json) |
+| Jingor Mine | 187181 | [187181-jingor-mine.json](./187181-jingor-mine.json) |
 | Jingor Sudoku | 188975 | [188975-jingor-sudoku.json](./188975-jingor-sudoku.json) |
 | Jinja | 313500 | [313500-jinja.json](./313500-jinja.json) |
 | Jìnjì | 129614 | [129614-jinji.json](./129614-jinji.json) |
@@ -2081,6 +2083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump | 272304 | [272304-jump.json](./272304-jump.json) |
 | Jump | 363034 | [363034-jump.json](./363034-jump.json) |
 | Jump 'n Bump | 19226 | [19226-jump-n-bump.json](./19226-jump-n-bump.json) |
+| Jump 'n' Run VR | 187768 | [187768-jump-n-run-vr.json](./187768-jump-n-run-vr.json) |
 | Jump & Fall | 369168 | [369168-jump-and-fall.json](./369168-jump-and-fall.json) |
 | Jump & Splash | 87129 | [87129-jump-and-splash.json](./87129-jump-and-splash.json) |
 | Jump 1/2 | 215761 | [215761-jump-1-2.json](./215761-jump-1-2.json) |
@@ -2751,6 +2754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justice League: Dangerous Pursuit | 338691 | [338691-justice-league-dangerous-pursuit.json](./338691-justice-league-dangerous-pursuit.json) |
 | Justice League: Laptop Infantil | 297741 | [297741-justice-league-laptop-infantil.json](./297741-justice-league-laptop-infantil.json) |
 | Justice League: Save Planet Earth | 245459 | [245459-justice-league-save-planet-earth.json](./245459-justice-league-save-planet-earth.json) |
+| Justice League: Superheroes | 188325 | [188325-justice-league-superheroes.json](./188325-justice-league-superheroes.json) |
 | Justice League: The Rescue | 245458 | [245458-justice-league-the-rescue.json](./245458-justice-league-the-rescue.json) |
 | Justice Legion | 103359 | [103359-justice-legion.json](./103359-justice-legion.json) |
 | Justice Ninja Casey | 326645 | [326645-justice-ninja-casey.json](./326645-justice-ninja-casey.json) |
