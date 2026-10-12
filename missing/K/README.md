@@ -2000,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Valley | 121729 | [121729-king-valley.json](./121729-king-valley.json) |
 | King War | 240734 | [240734-king-war.json](./240734-king-war.json) |
 | King Wizard, of the Forest Kingdom | 274573 | [274573-king-wizard-of-the-forest-kingdom.json](./274573-king-wizard-of-the-forest-kingdom.json) |
+| King's Blade | 226868 | [226868-kings-blade.json](./226868-kings-blade.json) |
 | King's Bounty | 9613 | [9613-kings-bounty.json](./9613-kings-bounty.json) |
 | King's Bounty 2 | 74329 | [74329-kings-bounty-2.json](./74329-kings-bounty-2.json) |
 | King's Bounty II: Day One Edition | 146330 | [146330-kings-bounty-ii-day-one-edition.json](./146330-kings-bounty-ii-day-one-edition.json) |
@@ -2307,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinnikuman: Muscle Shot | 60595 | [60595-kinnikuman-muscle-shot.json](./60595-kinnikuman-muscle-shot.json) |
 | Kinnikuman: Sakuretsu! Muscle Power | 346022 | [346022-kinnikuman-sakuretsu-muscle-power.json](./346022-kinnikuman-sakuretsu-muscle-power.json) |
 | Kinnikuman: Taiketsu Akuma Choujin | 346033 | [346033-kinnikuman-taiketsu-akuma-choujin.json](./346033-kinnikuman-taiketsu-akuma-choujin.json) |
+| KinnikuNeko: Super Muscle Cat | 226869 | [226869-kinnikuneko-super-muscle-cat.json](./226869-kinnikuneko-super-muscle-cat.json) |
 | Kino | 383157 | [383157-kino.json](./383157-kino.json) |
 | Kino no Tabi II: The Beautiful World | 141757 | [141757-kino-no-tabi-ii-the-beautiful-world.json](./141757-kino-no-tabi-ii-the-beautiful-world.json) |
 | KinoCon! Defend My Sweet Home! | 204396 | [204396-kinocon-defend-my-sweet-home.json](./204396-kinocon-defend-my-sweet-home.json) |
