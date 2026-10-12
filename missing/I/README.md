@@ -1335,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikebana | 352962 | [352962-ikebana.json](./352962-ikebana.json) |
 | Ikemen Oukoku Joou to Shinjitsu no Kiss | 229030 | [229030-ikemen-oukoku-joou-to-shinjitsu-no-kiss.json](./229030-ikemen-oukoku-joou-to-shinjitsu-no-kiss.json) |
 | Ikemen Prince: Beauty and Her Beast | 229032 | [229032-ikemen-prince-beauty-and-her-beast.json](./229032-ikemen-prince-beauty-and-her-beast.json) |
+| Ikemen Rensen: Taira no Kiyomori | 227422 | [227422-ikemen-rensen-taira-no-kiyomori.json](./227422-ikemen-rensen-taira-no-kiyomori.json) |
 | Ikemen Sengoku: Romances Across Time | 145953 | [145953-ikemen-sengoku-romances-across-time.json](./145953-ikemen-sengoku-romances-across-time.json) |
 | Ikemen Vampire: Temptation in the Dark | 225536 | [225536-ikemen-vampire-temptation-in-the-dark.json](./225536-ikemen-vampire-temptation-in-the-dark.json) |
 | Ikemen Villains: Wrapped in Wicked Romance | 229033 | [229033-ikemen-villains-wrapped-in-wicked-romance.json](./229033-ikemen-villains-wrapped-in-wicked-romance.json) |
