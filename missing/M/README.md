@@ -8711,6 +8711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miskatonic | 389973 | [389973-miskatonic.json](./389973-miskatonic.json) |
 | Miskatonic Diaries | 201631 | [201631-miskatonic-diaries.json](./201631-miskatonic-diaries.json) |
 | Miskatonic University | 258007 | [258007-miskatonic-university.json](./258007-miskatonic-university.json) |
+| Misled Puzzled | 185373 | [185373-misled-puzzled.json](./185373-misled-puzzled.json) |
 | Miso Nikki | 166586 | [166586-miso-nikki.json](./166586-miso-nikki.json) |
 | Misplaced | 172050 | [172050-misplaced.json](./172050-misplaced.json) |
 | Misplaced | 300034 | [300034-misplaced.json](./300034-misplaced.json) |
@@ -12604,6 +12605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroots | 292961 | [292961-mushroots.json](./292961-mushroots.json) |
 | Mushrush | 292975 | [292975-mushrush.json](./292975-mushrush.json) |
 | Mushy | 191660 | [191660-mushy.json](./191660-mushy.json) |
+| Mushy Moon | 185372 | [185372-mushy-moon.json](./185372-mushy-moon.json) |
 | Mushy Score | 257694 | [257694-mushy-score.json](./257694-mushy-score.json) |
 | Musi-Chance | 190906 | [190906-musi-chance.json](./190906-musi-chance.json) |
 | Music 2002: Club Edition | 144600 | [144600-music-2002-club-edition.json](./144600-music-2002-club-edition.json) |
