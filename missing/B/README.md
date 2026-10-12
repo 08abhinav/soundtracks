@@ -485,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Football '99 | 366897 | [366897-backyard-football-99.json](./366897-backyard-football-99.json) |
 | Backyard Football 2004 | 68879 | [68879-backyard-football-2004.json](./68879-backyard-football-2004.json) |
 | Backyard Football 2006 | 72974 | [72974-backyard-football-2006.json](./72974-backyard-football-2006.json) |
+| Backyard Fury | 183304 | [183304-backyard-fury.json](./183304-backyard-fury.json) |
 | Backyard Hockey | 206012 | [206012-backyard-hockey.json](./206012-backyard-hockey.json) |
 | Backyard Hockey | 49244 | [49244-backyard-hockey.json](./49244-backyard-hockey.json) |
 | Backyard Hockey ‘02 | 377817 | [377817-backyard-hockey-02.json](./377817-backyard-hockey-02.json) |
@@ -4841,6 +4842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Titty Teacher: Hentai School Life | 97667 | [97667-big-titty-teacher-hentai-school-life.json](./97667-big-titty-teacher-hentai-school-life.json) |
 | Big Top | 304302 | [304302-big-top.json](./304302-big-top.json) |
 | Big Top Solitaire | 386134 | [386134-big-top-solitaire.json](./386134-big-top-solitaire.json) |
+| Big Trouble in Little Garden | 183280 | [183280-big-trouble-in-little-garden.json](./183280-big-trouble-in-little-garden.json) |
 | Big Truck 4X4 Challenge | 385266 | [385266-big-truck-4x4-challenge.json](./385266-big-truck-4x4-challenge.json) |
 | Big TV Mary Bar | 48324 | [48324-big-tv-mary-bar.json](./48324-big-tv-mary-bar.json) |
 | Big Watermelon Galaxy | 420677 | [420677-big-watermelon-galaxy.json](./420677-big-watermelon-galaxy.json) |
