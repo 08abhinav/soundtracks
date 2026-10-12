@@ -6414,6 +6414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gift | 192151 | [192151-the-gift.json](./192151-the-gift.json) |
 | The Gift | 53739 | [53739-the-gift.json](./53739-the-gift.json) |
 | The Gigglebone Gang: The AlphaBonk Farm | 206110 | [206110-the-gigglebone-gang-the-alphabonk-farm.json](./206110-the-gigglebone-gang-the-alphabonk-farm.json) |
+| The Giraffe G | 210925 | [210925-the-giraffe-g.json](./210925-the-giraffe-g.json) |
 | The Giraffe World | 174095 | [174095-the-giraffe-world.json](./174095-the-giraffe-world.json) |
 | The Girl and the Robot | 22777 | [22777-the-girl-and-the-robot.json](./22777-the-girl-and-the-robot.json) |
 | The Girl From Gunma Kai | 344884 | [344884-the-girl-from-gunma-kai.json](./344884-the-girl-from-gunma-kai.json) |
@@ -7327,11 +7328,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Muffin: Turbo | 229167 | [229167-the-jumping-muffin-turbo.json](./229167-the-jumping-muffin-turbo.json) |
 | The Jumping Noodles | 212689 | [212689-the-jumping-noodles.json](./212689-the-jumping-noodles.json) |
 | The Jumping Noodles: Turbo | 212792 | [212792-the-jumping-noodles-turbo.json](./212792-the-jumping-noodles-turbo.json) |
+| The Jumping Nuggets | 210922 | [210922-the-jumping-nuggets.json](./210922-the-jumping-nuggets.json) |
+| The Jumping Nuggets: Turbo | 210923 | [210923-the-jumping-nuggets-turbo.json](./210923-the-jumping-nuggets-turbo.json) |
 | The Jumping Onion Ring | 329575 | [329575-the-jumping-onion-ring.json](./329575-the-jumping-onion-ring.json) |
 | The Jumping Orange 3 | 373563 | [373563-the-jumping-orange-3.json](./373563-the-jumping-orange-3.json) |
 | The Jumping Pasta | 214012 | [214012-the-jumping-pasta.json](./214012-the-jumping-pasta.json) |
 | The Jumping Pasta: Turbo | 214011 | [214011-the-jumping-pasta-turbo.json](./214011-the-jumping-pasta-turbo.json) |
 | The Jumping Pizza | 202771 | [202771-the-jumping-pizza.json](./202771-the-jumping-pizza.json) |
+| The Jumping Pizza: Turbo | 210924 | [210924-the-jumping-pizza-turbo.json](./210924-the-jumping-pizza-turbo.json) |
 | The Jumping Pumpkin | 218555 | [218555-the-jumping-pumpkin.json](./218555-the-jumping-pumpkin.json) |
 | The Jumping Pumpkin: Halloween Edition | 222805 | [222805-the-jumping-pumpkin-halloween-edition.json](./222805-the-jumping-pumpkin-halloween-edition.json) |
 | The Jumping Pumpkin: Halloween Edition - Turbo | 222806 | [222806-the-jumping-pumpkin-halloween-edition-turbo.json](./222806-the-jumping-pumpkin-halloween-edition-turbo.json) |
@@ -12585,6 +12589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Can Be Only One | 181893 | [181893-there-can-be-only-one.json](./181893-there-can-be-only-one.json) |
 | There Can Only be Two | 235711 | [235711-there-can-only-be-two.json](./235711-there-can-only-be-two.json) |
 | There Exists Nobody | 322970 | [322970-there-exists-nobody.json](./322970-there-exists-nobody.json) |
+| There Is A Bomb | 210830 | [210830-there-is-a-bomb.json](./210830-there-is-a-bomb.json) |
 | There is a Genie in my Szechuan Sauce: Remastered | 228372 | [228372-there-is-a-genie-in-my-szechuan-sauce-remastered.json](./228372-there-is-a-genie-in-my-szechuan-sauce-remastered.json) |
 | There Is No Escape | 396213 | [396213-there-is-no-escape.json](./396213-there-is-no-escape.json) |
 | There Is No Fangame | 406811 | [406811-there-is-no-fangame.json](./406811-there-is-no-fangame.json) |
@@ -14554,6 +14559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timberdoku | 300840 | [300840-timberdoku.json](./300840-timberdoku.json) |
 | Timberholt | 388253 | [388253-timberholt.json](./388253-timberholt.json) |
 | Timberjack | 215063 | [215063-timberjack.json](./215063-timberjack.json) |
+| Timberman VR | 210843 | [210843-timberman-vr.json](./210843-timberman-vr.json) |
 | Timberquest | 245859 | [245859-timberquest.json](./245859-timberquest.json) |
 | Timberveil | 382757 | [382757-timberveil.json](./382757-timberveil.json) |
 | Timbre Star | 83147 | [83147-timbre-star.json](./83147-timbre-star.json) |
