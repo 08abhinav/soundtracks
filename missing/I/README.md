@@ -2918,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insect Adventure | 140373 | [140373-insect-adventure.json](./140373-insect-adventure.json) |
 | Insect Planet TD | 111461 | [111461-insect-planet-td.json](./111461-insect-planet-td.json) |
 | Insect Planet TD | 111462 | [111462-insect-planet-td.json](./111462-insect-planet-td.json) |
+| Insect Simulator | 192641 | [192641-insect-simulator.json](./192641-insect-simulator.json) |
 | Insect Wars | 249920 | [249920-insect-wars.json](./249920-insect-wars.json) |
 | Insect Worlds | 151294 | [151294-insect-worlds.json](./151294-insect-worlds.json) |
 | Insect: Bombardier beetle | 158075 | [158075-insect-bombardier-beetle.json](./158075-insect-bombardier-beetle.json) |
