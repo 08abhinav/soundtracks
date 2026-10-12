@@ -836,7 +836,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warehuman | 201685 | [201685-warehuman.json](./201685-warehuman.json) |
 | Warera Mitsurin Tankentai!! | 179034 | [179034-warera-mitsurin-tankentai.json](./179034-warera-mitsurin-tankentai.json) |
 | Warf | 262881 | [262881-warf.json](./262881-warf.json) |
-| Warface | 1912 | [1912-warface.json](./1912-warface.json) |
 | Warface: Chernobyl | 114759 | [114759-warface-chernobyl.json](./114759-warface-chernobyl.json) |
 | Warface: Clutch | 284415 | [284415-warface-clutch.json](./284415-warface-clutch.json) |
 | Warface: Complete Tournament Pack | 226890 | [226890-warface-complete-tournament-pack.json](./226890-warface-complete-tournament-pack.json) |
@@ -1192,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warmage | 280234 | [280234-warmage.json](./280234-warmage.json) |
 | WarMage | 26542 | [26542-warmage.json](./26542-warmage.json) |
 | WarMages | 68676 | [68676-warmages.json](./68676-warmages.json) |
+| Warmancers of the Aether | 184846 | [184846-warmancers-of-the-aether.json](./184846-warmancers-of-the-aether.json) |
 | WarMen Tactics | 85496 | [85496-warmen-tactics.json](./85496-warmen-tactics.json) |
 | Warmerise | 363053 | [363053-warmerise.json](./363053-warmerise.json) |
 | Warmle | 210589 | [210589-warmle.json](./210589-warmle.json) |
@@ -1915,7 +1915,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Walked In Darkness | 81734 | [81734-we-walked-in-darkness.json](./81734-we-walked-in-darkness.json) |
 | We Want You | 242646 | [242646-we-want-you.json](./242646-we-want-you.json) |
 | We Want Your Head | 383154 | [383154-we-want-your-head.json](./383154-we-want-your-head.json) |
-| We Were Here | 27310 | [27310-we-were-here.json](./27310-we-were-here.json) |
 | We Were Here Together | 109535 | [109535-we-were-here-together.json](./109535-we-were-here-together.json) |
 | We Were Here Tomorrow | 393015 | [393015-we-were-here-tomorrow.json](./393015-we-were-here-tomorrow.json) |
 | We Were Here Too | 54486 | [54486-we-were-here-too.json](./54486-we-were-here-too.json) |
@@ -5830,6 +5829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath of the Samurai | 119494 | [119494-wrath-of-the-samurai.json](./119494-wrath-of-the-samurai.json) |
 | Wrath of the Sea King | 69905 | [69905-wrath-of-the-sea-king.json](./69905-wrath-of-the-sea-king.json) |
 | Wrath of Towers | 294383 | [294383-wrath-of-towers.json](./294383-wrath-of-towers.json) |
+| Wrath Rally | 184934 | [184934-wrath-rally.json](./184934-wrath-rally.json) |
 | Wrath: Aeon of Ruin VR - Brutal Edition | 313772 | [313772-wrath-aeon-of-ruin-vr-brutal-edition.json](./313772-wrath-aeon-of-ruin-vr-brutal-edition.json) |
 | WRC 10: Deluxe Edition | 169202 | [169202-wrc-10-deluxe-edition.json](./169202-wrc-10-deluxe-edition.json) |
 | WRC 2: FIA World Rally Championship | 9393 | [9393-wrc-2-fia-world-rally-championship.json](./9393-wrc-2-fia-world-rally-championship.json) |
