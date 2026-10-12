@@ -7269,6 +7269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Pals | 271661 | [271661-aqua-pals.json](./271661-aqua-pals.json) |
 | Aqua Panic | 364355 | [364355-aqua-panic.json](./364355-aqua-panic.json) |
 | Aqua Panic!: Heaven Pack | 169307 | [169307-aqua-panic-heaven-pack.json](./169307-aqua-panic-heaven-pack.json) |
+| Aqua Panic!: Inferno Pack | 224146 | [224146-aqua-panic-inferno-pack.json](./224146-aqua-panic-inferno-pack.json) |
 | Aqua Paradise: Boku no Suizokukan | 62543 | [62543-aqua-paradise-boku-no-suizokukan.json](./62543-aqua-paradise-boku-no-suizokukan.json) |
 | Aqua Pump | 93820 | [93820-aqua-pump.json](./93820-aqua-pump.json) |
 | Aqua Puzzle Adventures | 306527 | [306527-aqua-puzzle-adventures.json](./306527-aqua-puzzle-adventures.json) |
@@ -10342,7 +10343,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Heart: Annihilation Instinct | 255689 | [255689-atomic-heart-annihilation-instinct.json](./255689-atomic-heart-annihilation-instinct.json) |
 | Atomic Heart: Blood on Crystal | 395854 | [395854-atomic-heart-blood-on-crystal.json](./395854-atomic-heart-blood-on-crystal.json) |
 | Atomic Heart: Enchantment Under the Sea | 325107 | [325107-atomic-heart-enchantment-under-the-sea.json](./325107-atomic-heart-enchantment-under-the-sea.json) |
+| Atomic Heart: Gold Edition | 224149 | [224149-atomic-heart-gold-edition.json](./224149-atomic-heart-gold-edition.json) |
 | Atomic Heart: Limited Edition | 224481 | [224481-atomic-heart-limited-edition.json](./224481-atomic-heart-limited-edition.json) |
+| Atomic Heart: Premium Edition | 224148 | [224148-atomic-heart-premium-edition.json](./224148-atomic-heart-premium-edition.json) |
 | Atomic Heart: Ultimate Edition | 396565 | [396565-atomic-heart-ultimate-edition.json](./396565-atomic-heart-ultimate-edition.json) |
 | Atomic Heist | 90091 | [90091-atomic-heist.json](./90091-atomic-heist.json) |
 | Atomic Owl | 283949 | [283949-atomic-owl.json](./283949-atomic-owl.json) |
