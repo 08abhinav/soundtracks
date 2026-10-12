@@ -6176,6 +6176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaforces Bowling Center | 279122 | [279122-metaforces-bowling-center.json](./279122-metaforces-bowling-center.json) |
 | Metagal | 19321 | [19321-metagal.json](./19321-metagal.json) |
 | Metagates | 224526 | [224526-metagates.json](./224526-metagates.json) |
+| MetaGods | 191501 | [191501-metagods.json](./191501-metagods.json) |
 | Metahorror Therapy Session | 338930 | [338930-metahorror-therapy-session.json](./338930-metahorror-therapy-session.json) |
 | Metal | 95217 | [95217-metal.json](./95217-metal.json) |
 | Metal Angel 3 | 91961 | [91961-metal-angel-3.json](./91961-metal-angel-3.json) |
@@ -6333,6 +6334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug SB Fanthology | 324895 | [324895-metal-slug-sb-fanthology.json](./324895-metal-slug-sb-fanthology.json) |
 | Metal Slug Triple Pack | 268630 | [268630-metal-slug-triple-pack.json](./268630-metal-slug-triple-pack.json) |
 | Metal Slug: Commander | 193975 | [193975-metal-slug-commander.json](./193975-metal-slug-commander.json) |
+| Metal Slug: Super Vehicle-001 | 191477 | [191477-metal-slug-super-vehicle-001.json](./191477-metal-slug-super-vehicle-001.json) |
 | Metal Soldier Isaac II | 40353 | [40353-metal-soldier-isaac-ii.json](./40353-metal-soldier-isaac-ii.json) |
 | Metal Soldiers 3 | 206126 | [206126-metal-soldiers-3.json](./206126-metal-soldiers-3.json) |
 | Metal Sonic in Sonic 3 & Knuckles | 129187 | [129187-metal-sonic-in-sonic-3-and-knuckles.json](./129187-metal-sonic-in-sonic-3-and-knuckles.json) |
@@ -13308,6 +13310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Universe: Demodium | 286542 | [286542-my-little-universe-demodium.json](./286542-my-little-universe-demodium.json) |
 | My Little Universe: Xmas Character Pack | 285129 | [285129-my-little-universe-xmas-character-pack.json](./285129-my-little-universe-xmas-character-pack.json) |
 | My Little Work: Garage | 89180 | [89180-my-little-work-garage.json](./89180-my-little-work-garage.json) |
+| My Little World | 191524 | [191524-my-little-world.json](./191524-my-little-world.json) |
 | My Little Worms | 55718 | [55718-my-little-worms.json](./55718-my-little-worms.json) |
 | My Love 2 | 303286 | [303286-my-love-2.json](./303286-my-love-2.json) |
 | My Love for You is Evermore | 254570 | [254570-my-love-for-you-is-evermore.json](./254570-my-love-for-you-is-evermore.json) |
@@ -13374,6 +13377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Newborn Santa: Grow A Christmas Baby | 256348 | [256348-my-newborn-santa-grow-a-christmas-baby.json](./256348-my-newborn-santa-grow-a-christmas-baby.json) |
 | My Newspaper | 217499 | [217499-my-newspaper.json](./217499-my-newspaper.json) |
 | My Next Life as a Bird | 274756 | [274756-my-next-life-as-a-bird.json](./274756-my-next-life-as-a-bird.json) |
+| My Next Life as a Villainess: All Routes Lead to Doom! - Pirates of the Disturbance | 191485 | [191485-my-next-life-as-a-villainess-all-routes-lead-to-doom-pirates-of-the-disturbance.json](./191485-my-next-life-as-a-villainess-all-routes-lead-to-doom-pirates-of-the-disturbance.json) |
 | My Next Life as a Villainess: All Routes Lead to Doom! - Pirates of the Disturbance: Day One Edition | 270177 | [270177-my-next-life-as-a-villainess-all-routes-lead-to-doom-pirates-of-the-disturbance-day-one-edition.json](./270177-my-next-life-as-a-villainess-all-routes-lead-to-doom-pirates-of-the-disturbance-day-one-edition.json) |
 | My Night Sun All Games | 276308 | [276308-my-night-sun-all-games.json](./276308-my-night-sun-all-games.json) |
 | My Nights at Singing Monsters | 367563 | [367563-my-nights-at-singing-monsters.json](./367563-my-nights-at-singing-monsters.json) |
@@ -13952,6 +13956,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Trackers: Nightsville Horror HD | 108259 | [108259-mystery-trackers-nightsville-horror-hd.json](./108259-mystery-trackers-nightsville-horror-hd.json) |
 | Mystery Trackers: Paxton Creek Avenger | 89134 | [89134-mystery-trackers-paxton-creek-avenger.json](./89134-mystery-trackers-paxton-creek-avenger.json) |
 | Mystery Trackers: Paxton Creek Avenger Collector's Edition | 153456 | [153456-mystery-trackers-paxton-creek-avenger-collectors-edition.json](./153456-mystery-trackers-paxton-creek-avenger-collectors-edition.json) |
+| Mystery Trackers: Raincliff | 191483 | [191483-mystery-trackers-raincliff.json](./191483-mystery-trackers-raincliff.json) |
+| Mystery Trackers: Raincliff - Collector's Edition | 191484 | [191484-mystery-trackers-raincliff-collectors-edition.json](./191484-mystery-trackers-raincliff-collectors-edition.json) |
 | Mystery Trackers: Raincliff's Phantoms | 201829 | [201829-mystery-trackers-raincliffs-phantoms.json](./201829-mystery-trackers-raincliffs-phantoms.json) |
 | Mystery Trackers: Raincliff's Phantoms - Collector's Edition | 381380 | [381380-mystery-trackers-raincliffs-phantoms-collectors-edition.json](./381380-mystery-trackers-raincliffs-phantoms-collectors-edition.json) |
 | Mystery Trackers: Raincliff's Phantoms & Mystery Trackers: Blackrow's Secret | 201817 | [201817-mystery-trackers-raincliffs-phantoms-and-mystery-trackers-blackrows-secret.json](./201817-mystery-trackers-raincliffs-phantoms-and-mystery-trackers-blackrows-secret.json) |
