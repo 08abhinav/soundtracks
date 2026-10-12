@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Don't Know Jack: The Irreverent Collection | 205803 | [205803-you-dont-know-jack-the-irreverent-collection.json](./205803-you-dont-know-jack-the-irreverent-collection.json) |
 | You Don't Know Jack: The NetShow | 391588 | [391588-you-dont-know-jack-the-netshow.json](./391588-you-dont-know-jack-the-netshow.json) |
 | You Don't Know Richard | 73253 | [73253-you-dont-know-richard.json](./73253-you-dont-know-richard.json) |
+| You Don't Know the Half of It: Fins of the Father | 180506 | [180506-you-dont-know-the-half-of-it-fins-of-the-father.json](./180506-you-dont-know-the-half-of-it-fins-of-the-father.json) |
 | You Donut Get It | 391223 | [391223-you-donut-get-it.json](./391223-you-donut-get-it.json) |
 | You Draw I Puzzle | 286770 | [286770-you-draw-i-puzzle.json](./286770-you-draw-i-puzzle.json) |
 | You Draw, I Guess | 278498 | [278498-you-draw-i-guess.json](./278498-you-draw-i-guess.json) |
