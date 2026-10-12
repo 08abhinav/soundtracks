@@ -3719,6 +3719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Cortarás a tu Hermana con el Filo de Esta Espada | 135690 | [135690-no-cortaras-a-tu-hermana-con-el-filo-de-esta-espada.json](./135690-no-cortaras-a-tu-hermana-con-el-filo-de-esta-espada.json) |
 | No Crime | 244298 | [244298-no-crime.json](./244298-no-crime.json) |
 | No Crossing | 111855 | [111855-no-crossing.json](./111855-no-crossing.json) |
+| No Crying in Baseball | 180514 | [180514-no-crying-in-baseball.json](./180514-no-crying-in-baseball.json) |
 | No Cure 2 | 158195 | [158195-no-cure-2.json](./158195-no-cure-2.json) |
 | No Death in Wild West | 349516 | [349516-no-death-in-wild-west.json](./349516-no-death-in-wild-west.json) |
 | No Deck? No Dice? | 184471 | [184471-no-deck-no-dice.json](./184471-no-deck-no-dice.json) |
