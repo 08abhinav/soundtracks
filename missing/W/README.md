@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky Escape | 276151 | [276151-wacky-escape.json](./276151-wacky-escape.json) |
 | Wacky Jumpers | 288473 | [288473-wacky-jumpers.json](./288473-wacky-jumpers.json) |
 | Wacky Races | 12817 | [12817-wacky-races.json](./12817-wacky-races.json) |
+| Wacky Races | 205917 | [205917-wacky-races.json](./205917-wacky-races.json) |
 | Wacky Races | 81547 | [81547-wacky-races.json](./81547-wacky-races.json) |
 | Wacky Races | 81548 | [81548-wacky-races.json](./81548-wacky-races.json) |
 | Wacky Races Starring Dastardly & Muttley | 43447 | [43447-wacky-races-starring-dastardly-and-muttley.json](./43447-wacky-races-starring-dastardly-and-muttley.json) |
@@ -373,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walt Disney's Snow White and the Seven Dwarfs | 59938 | [59938-walt-disneys-snow-white-and-the-seven-dwarfs.json](./59938-walt-disneys-snow-white-and-the-seven-dwarfs.json) |
 | Walt Disney's Snow White and the Seven Dwarves | 198896 | [198896-walt-disneys-snow-white-and-the-seven-dwarves.json](./198896-walt-disneys-snow-white-and-the-seven-dwarves.json) |
 | Walt Disney's The Jungle Book | 123599 | [123599-walt-disneys-the-jungle-book.json](./123599-walt-disneys-the-jungle-book.json) |
+| Walt Disney's The Jungle Book | 205928 | [205928-walt-disneys-the-jungle-book.json](./205928-walt-disneys-the-jungle-book.json) |
 | Walt Disney's The Jungle Book: Mowgli's Wild Adventure | 49922 | [49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json](./49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json) |
 | Walthros | 353366 | [353366-walthros.json](./353366-walthros.json) |
 | Walto | 391237 | [391237-walto.json](./391237-walto.json) |
@@ -533,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War and Empires | 187264 | [187264-war-and-empires.json](./187264-war-and-empires.json) |
 | War and Magic | 125354 | [125354-war-and-magic.json](./125354-war-and-magic.json) |
 | War and Peace | 253332 | [253332-war-and-peace.json](./253332-war-and-peace.json) |
+| War and Peace: 1796 - 1815 | 205915 | [205915-war-and-peace-1796-1815.json](./205915-war-and-peace-1796-1815.json) |
 | War and Politics | 374806 | [374806-war-and-politics.json](./374806-war-and-politics.json) |
 | War Angels | 385609 | [385609-war-angels.json](./385609-war-angels.json) |
 | War Ashes | 214488 | [214488-war-ashes.json](./214488-war-ashes.json) |
@@ -894,6 +897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wargame: Red Dragon - Norse Dragons | 170454 | [170454-wargame-red-dragon-norse-dragons.json](./170454-wargame-red-dragon-norse-dragons.json) |
 | Wargame: Red Dragon - Second Korean War | 170455 | [170455-wargame-red-dragon-second-korean-war.json](./170455-wargame-red-dragon-second-korean-war.json) |
 | Wargame: Red Dragon - The Millionth Mile | 170457 | [170457-wargame-red-dragon-the-millionth-mile.json](./170457-wargame-red-dragon-the-millionth-mile.json) |
+| WarGames | 205922 | [205922-wargames.json](./205922-wargames.json) |
 | WarGames | 23935 | [23935-wargames.json](./23935-wargames.json) |
 | WarGames: Defcon 1 | 45028 | [45028-wargames-defcon-1.json](./45028-wargames-defcon-1.json) |
 | Wargle | 291151 | [291151-wargle.json](./291151-wargle.json) |
@@ -1740,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of the Wizard | 232431 | [232431-way-of-the-wizard.json](./232431-way-of-the-wizard.json) |
 | Way on Where | 195740 | [195740-way-on-where.json](./195740-way-on-where.json) |
 | Way To Fall | 282247 | [282247-way-to-fall.json](./282247-way-to-fall.json) |
+| Way to Go! Bowling | 205893 | [205893-way-to-go-bowling.json](./205893-way-to-go-bowling.json) |
 | Way to Town | 358466 | [358466-way-to-town.json](./358466-way-to-town.json) |
 | Way to Yaatra | 140604 | [140604-way-to-yaatra.json](./140604-way-to-yaatra.json) |
 | Way Walkers: University | 168695 | [168695-way-walkers-university.json](./168695-way-walkers-university.json) |
@@ -2005,6 +2010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wedding Girl Makeover | 96072 | [96072-wedding-girl-makeover.json](./96072-wedding-girl-makeover.json) |
 | Wedding Peach: Doki-doki Oironaoshi | 64951 | [64951-wedding-peach-doki-doki-oironaoshi.json](./64951-wedding-peach-doki-doki-oironaoshi.json) |
 | Wedding Peach: Jamapii Panic | 64952 | [64952-wedding-peach-jamapii-panic.json](./64952-wedding-peach-jamapii-panic.json) |
+| Wedding Salon | 205910 | [205910-wedding-salon.json](./205910-wedding-salon.json) |
 | Wedding Salon - Girls Makeup, Dressup and Makeover | 89196 | [89196-wedding-salon-girls-makeup-dressup-and-makeover.json](./89196-wedding-salon-girls-makeup-dressup-and-makeover.json) |
 | Wedding Witch | 264522 | [264522-wedding-witch.json](./264522-wedding-witch.json) |
 | WeddingRun | 234001 | [234001-weddingrun.json](./234001-weddingrun.json) |
@@ -3625,6 +3631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wimbledon II | 46105 | [46105-wimbledon-ii.json](./46105-wimbledon-ii.json) |
 | Wimmelbild-Box Mystery | 65543 | [65543-wimmelbild-box-mystery.json](./65543-wimmelbild-box-mystery.json) |
 | Wimp: Who Stole My Pants? | 36175 | [36175-wimp-who-stole-my-pants.json](./36175-wimp-who-stole-my-pants.json) |
+| Win a Million: The Ultimate Quiz Game | 205890 | [205890-win-a-million-the-ultimate-quiz-game.json](./205890-win-a-million-the-ultimate-quiz-game.json) |
 | Win Big or Die | 30937 | [30937-win-big-or-die.json](./30937-win-big-or-die.json) |
 | Win by Definition | 187263 | [187263-win-by-definition.json](./187263-win-by-definition.json) |
 | Win or Crash! | 287699 | [287699-win-or-crash.json](./287699-win-or-crash.json) |
@@ -4604,6 +4611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder of Blue | 345509 | [345509-wonder-of-blue.json](./345509-wonder-of-blue.json) |
 | Wonder Parade | 100767 | [100767-wonder-parade.json](./100767-wonder-parade.json) |
 | Wonder Pets Join the Circus | 66734 | [66734-wonder-pets-join-the-circus.json](./66734-wonder-pets-join-the-circus.json) |
+| Wonder Pets!: Save the Puppy! | 205888 | [205888-wonder-pets-save-the-puppy.json](./205888-wonder-pets-save-the-puppy.json) |
 | Wonder Planet | 40245 | [40245-wonder-planet.json](./40245-wonder-planet.json) |
 | Wonder Protocol | 413467 | [413467-wonder-protocol.json](./413467-wonder-protocol.json) |
 | Wonder Stick | 40162 | [40162-wonder-stick.json](./40162-wonder-stick.json) |
@@ -4817,6 +4825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Connect HD | 96069 | [96069-word-connect-hd.json](./96069-word-connect-hd.json) |
 | Word Crack | 137408 | [137408-word-crack.json](./137408-word-crack.json) |
 | Word Crack | 402312 | [402312-word-crack.json](./402312-word-crack.json) |
+| Word Craft | 205889 | [205889-word-craft.json](./205889-word-craft.json) |
 | Word Crossy: A crossword game | 88767 | [88767-word-crossy-a-crossword-game.json](./88767-word-crossy-a-crossword-game.json) |
 | Word Crush | 78150 | [78150-word-crush.json](./78150-word-crush.json) |
 | Word Crystal | 195197 | [195197-word-crystal.json](./195197-word-crystal.json) |
@@ -4833,6 +4842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Guru - Puzzle Word Game | 89233 | [89233-word-guru-puzzle-word-game.json](./89233-word-guru-puzzle-word-game.json) |
 | Word Harmony | 52130 | [52130-word-harmony.json](./52130-word-harmony.json) |
 | Word Invaders! | 232479 | [232479-word-invaders.json](./232479-word-invaders.json) |
+| Word Island | 205887 | [205887-word-island.json](./205887-word-island.json) |
 | Word Jong | 47715 | [47715-word-jong.json](./47715-word-jong.json) |
 | Word Jumblerama Blitz | 89575 | [89575-word-jumblerama-blitz.json](./89575-word-jumblerama-blitz.json) |
 | Word Killer: Revolution | 29968 | [29968-word-killer-revolution.json](./29968-word-killer-revolution.json) |
@@ -4844,6 +4854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Logic by Powgi | 85495 | [85495-word-logic-by-powgi.json](./85495-word-logic-by-powgi.json) |
 | Word Maker | 377140 | [377140-word-maker.json](./377140-word-maker.json) |
 | Word Mess | 91982 | [91982-word-mess.json](./91982-word-mess.json) |
+| Word Monaco | 205881 | [205881-word-monaco.json](./205881-word-monaco.json) |
 | Word Munchers | 82151 | [82151-word-munchers.json](./82151-word-munchers.json) |
 | Word of Kitchen | 190702 | [190702-word-of-kitchen.json](./190702-word-of-kitchen.json) |
 | Word of Mouth Stories | 152991 | [152991-word-of-mouth-stories.json](./152991-word-of-mouth-stories.json) |
@@ -4903,6 +4914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Sudoku - Tapestry Twist | 89531 | [89531-word-sudoku-tapestry-twist.json](./89531-word-sudoku-tapestry-twist.json) |
 | Word Surf | 208941 | [208941-word-surf.json](./208941-word-surf.json) |
 | Word Swipe | 101529 | [101529-word-swipe.json](./101529-word-swipe.json) |
+| Word Symphony | 205882 | [205882-word-symphony.json](./205882-word-symphony.json) |
 | Word Tango | 383550 | [383550-word-tango.json](./383550-word-tango.json) |
 | Word to Angel | 333049 | [333049-word-to-angel.json](./333049-word-to-angel.json) |
 | Word to your Sensei | 200123 | [200123-word-to-your-sensei.json](./200123-word-to-your-sensei.json) |
@@ -4913,6 +4925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Trails | 232888 | [232888-word-trails.json](./232888-word-trails.json) |
 | Word Trails | 305339 | [305339-word-trails.json](./305339-word-trails.json) |
 | Word Training Camp | 130929 | [130929-word-training-camp.json](./130929-word-training-camp.json) |
+| Word Travels | 205883 | [205883-word-travels.json](./205883-word-travels.json) |
 | Word Tropics - Free Word Games and Puzzles | 106656 | [106656-word-tropics-free-word-games-and-puzzles.json](./106656-word-tropics-free-word-games-and-puzzles.json) |
 | Word Tuah | 338303 | [338303-word-tuah.json](./338303-word-tuah.json) |
 | Word Turtle Island | 301082 | [301082-word-turtle-island.json](./301082-word-turtle-island.json) |
@@ -4929,6 +4942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Whisper | 254163 | [254163-word-whisper.json](./254163-word-whisper.json) |
 | Word Whiz | 93345 | [93345-word-whiz.json](./93345-word-whiz.json) |
 | Word Whomp HD | 318610 | [318610-word-whomp-hd.json](./318610-word-whomp-hd.json) |
+| Word Whomp Underground | 205884 | [205884-word-whomp-underground.json](./205884-word-whomp-underground.json) |
 | Word Wise | 157723 | [157723-word-wise.json](./157723-word-wise.json) |
 | Word Wizard 3D | 84937 | [84937-word-wizard-3d.json](./84937-word-wizard-3d.json) |
 | Word Worm | 229344 | [229344-word-worm.json](./229344-word-worm.json) |
@@ -4966,6 +4980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordify | 147461 | [147461-wordify.json](./147461-wordify.json) |
 | Wordish | 187434 | [187434-wordish.json](./187434-wordish.json) |
 | Wordism | 239093 | [239093-wordism.json](./239093-wordism.json) |
+| WordJong | 205886 | [205886-wordjong.json](./205886-wordjong.json) |
 | WordJong Arcade | 65492 | [65492-wordjong-arcade.json](./65492-wordjong-arcade.json) |
 | WordKiller: Revolution | 180122 | [180122-wordkiller-revolution.json](./180122-wordkiller-revolution.json) |
 | Wordkour | 307730 | [307730-wordkour.json](./307730-wordkour.json) |
@@ -5035,6 +5050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordyBuilder | 245972 | [245972-wordybuilder.json](./245972-wordybuilder.json) |
 | Wordz + | 90894 | [90894-wordz.json](./90894-wordz.json) |
 | WordZap | 117962 | [117962-wordzap.json](./117962-wordzap.json) |
+| WordZap Deluxe | 205885 | [205885-wordzap-deluxe.json](./205885-wordzap-deluxe.json) |
 | Work Beasts | 304023 | [304023-work-beasts.json](./304023-work-beasts.json) |
 | Work from Home | 218717 | [218717-work-from-home.json](./218717-work-from-home.json) |
 | Work Girl | 378359 | [378359-work-girl.json](./378359-work-girl.json) |
