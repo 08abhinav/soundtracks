@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Immortal Ring | 390592 | [390592-tale-of-immortal-ring.json](./390592-tale-of-immortal-ring.json) |
 | Tale of Jade Li Guang | 151740 | [151740-tale-of-jade-li-guang.json](./151740-tale-of-jade-li-guang.json) |
 | Tale of Legends | 260685 | [260685-tale-of-legends.json](./260685-tale-of-legends.json) |
+| Tale of Memories | 225815 | [225815-tale-of-memories.json](./225815-tale-of-memories.json) |
 | Tale of MoWu | 158111 | [158111-tale-of-mowu.json](./158111-tale-of-mowu.json) |
 | Tale of Rainbow 7 | 132607 | [132607-tale-of-rainbow-7.json](./132607-tale-of-rainbow-7.json) |
 | Tale of Ren: Searching for Heart Droplets | 270892 | [270892-tale-of-ren-searching-for-heart-droplets.json](./270892-tale-of-ren-searching-for-heart-droplets.json) |
@@ -5834,6 +5835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Explorers | 177416 | [177416-the-explorers.json](./177416-the-explorers.json) |
 | The Explors: Pyramid Explorers | 122917 | [122917-the-explors-pyramid-explorers.json](./122917-the-explors-pyramid-explorers.json) |
 | The Expression Amrilato | 119580 | [119580-the-expression-amrilato.json](./119580-the-expression-amrilato.json) |
+| The Extraterrestrials Museum of Earth Exploration | 225188 | [225188-the-extraterrestrials-museum-of-earth-exploration.json](./225188-the-extraterrestrials-museum-of-earth-exploration.json) |
 | The Eye | 141836 | [141836-the-eye.json](./141836-the-eye.json) |
 | The Eye of Borrack | 122823 | [122823-the-eye-of-borrack.json](./122823-the-eye-of-borrack.json) |
 | The Eye of Judgment: Legends | 46020 | [46020-the-eye-of-judgment-legends.json](./46020-the-eye-of-judgment-legends.json) |
@@ -8746,8 +8748,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Messenger | 71628 | [71628-the-messenger.json](./71628-the-messenger.json) |
 | The Messenger: Picnic Panic Bundle | 237906 | [237906-the-messenger-picnic-panic-bundle.json](./237906-the-messenger-picnic-panic-bundle.json) |
 | The Meteorite | 191806 | [191806-the-meteorite.json](./191806-the-meteorite.json) |
+| The Metronomicon: Slay the Dance Floor - Chiptune Challenge Pack 1 | 225230 | [225230-the-metronomicon-slay-the-dance-floor-chiptune-challenge-pack-1.json](./225230-the-metronomicon-slay-the-dance-floor-chiptune-challenge-pack-1.json) |
+| The Metronomicon: Slay the Dance Floor - Chiptune Challenge Pack 2 | 225231 | [225231-the-metronomicon-slay-the-dance-floor-chiptune-challenge-pack-2.json](./225231-the-metronomicon-slay-the-dance-floor-chiptune-challenge-pack-2.json) |
 | The Metronomicon: Slay the Dance Floor - Indie Game Challenge Pack 1 | 224485 | [224485-the-metronomicon-slay-the-dance-floor-indie-game-challenge-pack-1.json](./224485-the-metronomicon-slay-the-dance-floor-indie-game-challenge-pack-1.json) |
+| The Metronomicon: Slay the Dance Floor - J-Punch Challenge Pack | 225233 | [225233-the-metronomicon-slay-the-dance-floor-j-punch-challenge-pack.json](./225233-the-metronomicon-slay-the-dance-floor-j-punch-challenge-pack.json) |
 | The Metronomicon: Slay the Dance Floor - The End Records Challenge Pack | 225580 | [225580-the-metronomicon-slay-the-dance-floor-the-end-records-challenge-pack.json](./225580-the-metronomicon-slay-the-dance-floor-the-end-records-challenge-pack.json) |
+| The Metronomicon: Slay The Dance Floor - The End Records Challenge Pack | 225234 | [225234-the-metronomicon-slay-the-dance-floor-the-end-records-challenge-pack.json](./225234-the-metronomicon-slay-the-dance-floor-the-end-records-challenge-pack.json) |
 | The Miami Horror | 176347 | [176347-the-miami-horror.json](./176347-the-miami-horror.json) |
 | The Mice of Riddle Place - The Mystery of Mrs. Wirth | 108605 | [108605-the-mice-of-riddle-place-the-mystery-of-mrs-wirth.json](./108605-the-mice-of-riddle-place-the-mystery-of-mrs-wirth.json) |
 | The Mice Plight | 259008 | [259008-the-mice-plight.json](./259008-the-mice-plight.json) |
@@ -10982,6 +10988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Summoning | 50134 | [50134-the-summoning.json](./50134-the-summoning.json) |
 | The Sun and Moon | 17811 | [17811-the-sun-and-moon.json](./17811-the-sun-and-moon.json) |
 | The Sun at Night | 9049 | [9049-the-sun-at-night.json](./9049-the-sun-at-night.json) |
+| The Sun Atop a Column | 225240 | [225240-the-sun-atop-a-column.json](./225240-the-sun-atop-a-column.json) |
 | The Sun Crosswords: Volume 1 & 2 | 118165 | [118165-the-sun-crosswords-volume-1-and-2.json](./118165-the-sun-crosswords-volume-1-and-2.json) |
 | The Sun Does Not Exist | 128543 | [128543-the-sun-does-not-exist.json](./128543-the-sun-does-not-exist.json) |
 | The Sun Never Sets | 38962 | [38962-the-sun-never-sets.json](./38962-the-sun-never-sets.json) |
@@ -11535,6 +11542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Town of Light: Deluxe Edition | 86237 | [86237-the-town-of-light-deluxe-edition.json](./86237-the-town-of-light-deluxe-edition.json) |
 | The Town Secrets | 275912 | [275912-the-town-secrets.json](./275912-the-town-secrets.json) |
 | The Toxicity | 270704 | [270704-the-toxicity.json](./270704-the-toxicity.json) |
+| The Toy Factory Across the Street | 225820 | [225820-the-toy-factory-across-the-street.json](./225820-the-toy-factory-across-the-street.json) |
 | The Toy Shop | 391894 | [391894-the-toy-shop.json](./391894-the-toy-shop.json) |
 | The Toymaker's Apprentice | 114980 | [114980-the-toymakers-apprentice.json](./114980-the-toymakers-apprentice.json) |
 | The Toys Room | 66927 | [66927-the-toys-room.json](./66927-the-toys-room.json) |
@@ -11708,6 +11716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Undermall | 394454 | [394454-the-undermall.json](./394454-the-undermall.json) |
 | The Undersea | 273819 | [273819-the-undersea.json](./273819-the-undersea.json) |
 | The Underside | 242468 | [242468-the-underside.json](./242468-the-underside.json) |
+| The Undertaking | 225837 | [225837-the-undertaking.json](./225837-the-undertaking.json) |
 | The Underworld | 271804 | [271804-the-underworld.json](./271804-the-underworld.json) |
 | The Underworld | 71175 | [71175-the-underworld.json](./71175-the-underworld.json) |
 | The Undying Beast | 177310 | [177310-the-undying-beast.json](./177310-the-undying-beast.json) |
@@ -12499,6 +12508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theory of Poltaran | 186314 | [186314-theory-of-poltaran.json](./186314-theory-of-poltaran.json) |
 | Theos: Cities of Myth | 403819 | [403819-theos-cities-of-myth.json](./403819-theos-cities-of-myth.json) |
 | TheoTown | 109152 | [109152-theotown.json](./109152-theotown.json) |
+| Thera 1 | 225796 | [225796-thera-1.json](./225796-thera-1.json) |
 | Thera: Legacy of Great Torment | 356250 | [356250-thera-legacy-of-great-torment.json](./356250-thera-legacy-of-great-torment.json) |
 | Theralite | 329770 | [329770-theralite.json](./329770-theralite.json) |
 | Therapist Simulator | 336378 | [336378-therapist-simulator.json](./336378-therapist-simulator.json) |
@@ -15841,6 +15851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Splinter Cell: Double Agent | 7469 | [7469-tom-clancys-splinter-cell-double-agent.json](./7469-tom-clancys-splinter-cell-double-agent.json) |
 | Tom Clancy's Splinter Cell: Elite Echelon Edition | 27866 | [27866-tom-clancys-splinter-cell-elite-echelon-edition.json](./27866-tom-clancys-splinter-cell-elite-echelon-edition.json) |
 | Tom Clancy's Splinter Cell: Essentials | 22632 | [22632-tom-clancys-splinter-cell-essentials.json](./22632-tom-clancys-splinter-cell-essentials.json) |
+| Tom Clancy's Splinter Cell: Extended Ops | 225824 | [225824-tom-clancys-splinter-cell-extended-ops.json](./225824-tom-clancys-splinter-cell-extended-ops.json) |
 | Tom Clancy's Splinter Cell: Mission-Pack | 80186 | [80186-tom-clancys-splinter-cell-mission-pack.json](./80186-tom-clancys-splinter-cell-mission-pack.json) |
 | Tom Clancy's Splinter Cell: Pandora Tomorrow | 134396 | [134396-tom-clancys-splinter-cell-pandora-tomorrow.json](./134396-tom-clancys-splinter-cell-pandora-tomorrow.json) |
 | Tom Clancy's Splinter Cell: Pandora Tomorrow | 874 | [874-tom-clancys-splinter-cell-pandora-tomorrow.json](./874-tom-clancys-splinter-cell-pandora-tomorrow.json) |
@@ -16226,6 +16237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toontown Realms | 134489 | [134489-toontown-realms.json](./134489-toontown-realms.json) |
 | Toontown Rewritten | 134488 | [134488-toontown-rewritten.json](./134488-toontown-rewritten.json) |
 | Toontown Rewritten: Clear Coasts | 373635 | [373635-toontown-rewritten-clear-coasts.json](./373635-toontown-rewritten-clear-coasts.json) |
+| Toontown Rewritten: Sellbot Task Force | 225810 | [225810-toontown-rewritten-sellbot-task-force.json](./225810-toontown-rewritten-sellbot-task-force.json) |
 | Toontown: The Grindworks | 333930 | [333930-toontown-the-grindworks.json](./333930-toontown-the-grindworks.json) |
 | Toot's Race | 108593 | [108593-toots-race.json](./108593-toots-race.json) |
 | Tooth and Tail | 12519 | [12519-tooth-and-tail.json](./12519-tooth-and-tail.json) |
@@ -16386,6 +16398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torevetchi | 230184 | [230184-torevetchi.json](./230184-torevetchi.json) |
 | Torgar's Quest | 33361 | [33361-torgars-quest.json](./33361-torgars-quest.json) |
 | Tori | 95218 | [95218-tori.json](./95218-tori.json) |
+| Tori no Hoshi: Aerial Planet | 225835 | [225835-tori-no-hoshi-aerial-planet.json](./225835-tori-no-hoshi-aerial-planet.json) |
 | Tori Note | 289403 | [289403-tori-note.json](./289403-tori-note.json) |
 | Tori-Emaki | 206084 | [206084-tori-emaki.json](./206084-tori-emaki.json) |
 | Toricky S | 151650 | [151650-toricky-s.json](./151650-toricky-s.json) |
@@ -20751,6 +20764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Fish | 287568 | [287568-twin-fish.json](./287568-twin-fish.json) |
 | Twin Goddesses | 43810 | [43810-twin-goddesses.json](./43810-twin-goddesses.json) |
 | Twin Hawk | 294036 | [294036-twin-hawk.json](./294036-twin-hawk.json) |
+| Twin Jet Racer | 225200 | [225200-twin-jet-racer.json](./225200-twin-jet-racer.json) |
 | Twin Jump | 168621 | [168621-twin-jump.json](./168621-twin-jump.json) |
 | Twin Kingdom Valley | 12971 | [12971-twin-kingdom-valley.json](./12971-twin-kingdom-valley.json) |
 | Twin Mind: Nobody's Here | 228076 | [228076-twin-mind-nobodys-here.json](./228076-twin-mind-nobodys-here.json) |
