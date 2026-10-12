@@ -3321,6 +3321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Country | 151014 | [151014-wild-country.json](./151014-wild-country.json) |
 | Wild Cup Soccer | 38841 | [38841-wild-cup-soccer.json](./38841-wild-cup-soccer.json) |
 | Wild Deer Hunt Jungle Sniper | 28011 | [28011-wild-deer-hunt-jungle-sniper.json](./28011-wild-deer-hunt-jungle-sniper.json) |
+| Wild Delivery | 211894 | [211894-wild-delivery.json](./211894-wild-delivery.json) |
 | Wild Dive | 150258 | [150258-wild-dive.json](./150258-wild-dive.json) |
 | Wild Dose | 140919 | [140919-wild-dose.json](./140919-wild-dose.json) |
 | Wild Downtown | 76704 | [76704-wild-downtown.json](./76704-wild-downtown.json) |
