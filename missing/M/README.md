@@ -12868,6 +12868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cozy Room | 328507 | [328507-my-cozy-room.json](./328507-my-cozy-room.json) |
 | My Cozy Workspace | 403746 | [403746-my-cozy-workspace.json](./403746-my-cozy-workspace.json) |
 | My Craft: Block Edition | 102849 | [102849-my-craft-block-edition.json](./102849-my-craft-block-edition.json) |
+| My Crazy High School Romcom | 205894 | [205894-my-crazy-high-school-romcom.json](./205894-my-crazy-high-school-romcom.json) |
 | My Creampie Heaven | 173815 | [173815-my-creampie-heaven.json](./173815-my-creampie-heaven.json) |
 | My Crush Beach Date Puzzle | 418322 | [418322-my-crush-beach-date-puzzle.json](./418322-my-crush-beach-date-puzzle.json) |
 | My Cup of Coffee: Earl Grey Forever After | 57904 | [57904-my-cup-of-coffee-earl-grey-forever-after.json](./57904-my-cup-of-coffee-earl-grey-forever-after.json) |
@@ -12910,6 +12911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Disney Kitchen | 44764 | [44764-my-disney-kitchen.json](./44764-my-disney-kitchen.json) |
 | My Divorce Story | 208642 | [208642-my-divorce-story.json](./208642-my-divorce-story.json) |
 | My DIY Slime PlayTime | 106732 | [106732-my-diy-slime-playtime.json](./106732-my-diy-slime-playtime.json) |
+| My Dog Girlfriend | 205900 | [205900-my-dog-girlfriend.json](./205900-my-dog-girlfriend.json) |
 | My Dog! | 310018 | [310018-my-dog.json](./310018-my-dog.json) |
 | My DoItAll | 92625 | [92625-my-doitall.json](./92625-my-doitall.json) |
 | My Doki Doki SNAFU | 379141 | [379141-my-doki-doki-snafu.json](./379141-my-doki-doki-snafu.json) |
@@ -13321,6 +13323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Ninja Destiny | 228359 | [228359-my-ninja-destiny.json](./228359-my-ninja-destiny.json) |
 | My Ninja Romance | 299520 | [299520-my-ninja-romance.json](./299520-my-ninja-romance.json) |
 | My Nonogram Waifu: Forbidden Love | 262367 | [262367-my-nonogram-waifu-forbidden-love.json](./262367-my-nonogram-waifu-forbidden-love.json) |
+| My Nurse Girlfriend | 205891 | [205891-my-nurse-girlfriend.json](./205891-my-nurse-girlfriend.json) |
 | My Oil Empire | 212480 | [212480-my-oil-empire.json](./212480-my-oil-empire.json) |
 | My Only | 375859 | [375859-my-only.json](./375859-my-only.json) |
 | My Only Sunshine | 122152 | [122152-my-only-sunshine.json](./122152-my-only-sunshine.json) |
@@ -13480,6 +13483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sweet Herbivore High | 231421 | [231421-my-sweet-herbivore-high.json](./231421-my-sweet-herbivore-high.json) |
 | My Sweet Puppy Love | 208280 | [208280-my-sweet-puppy-love.json](./208280-my-sweet-puppy-love.json) |
 | My Sweet Roomies | 378198 | [378198-my-sweet-roomies.json](./378198-my-sweet-roomies.json) |
+| My Sweet Stepsisters | 205896 | [205896-my-sweet-stepsisters.json](./205896-my-sweet-stepsisters.json) |
 | My Sweet Summer Oni | 213279 | [213279-my-sweet-summer-oni.json](./213279-my-sweet-summer-oni.json) |
 | My Sweet Waifu | 88120 | [88120-my-sweet-waifu.json](./88120-my-sweet-waifu.json) |
 | My Sweet Washing Machine! | 156654 | [156654-my-sweet-washing-machine.json](./156654-my-sweet-washing-machine.json) |
