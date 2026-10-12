@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T20:50:28.689Z",
-  "total_soundtracks": 1541,
+  "generated_at": "2026-10-12T20:50:43.802Z",
+  "total_soundtracks": 1542,
   "games": [
     {
       "igdb_id": 7522,
@@ -7489,6 +7489,20 @@
           "spotify_url": "https://open.spotify.com/album/4eOwVM6B9yJCwk030GGYRI",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 2640,
+      "game_name": "Halo: Combat Evolved Anniversary",
+      "game_url": "https://ostdb.net/games/halo-combat-evolved-anniversary",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/82/0e/41/820e416e-d4c6-43db-8360-7d6a3c6ceab5/669311301420_cover.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Halo: Combat Evolved Anniversary (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0rfm9799u3MynzweWN140v",
+          "apple_music_url": "https://music.apple.com/us/album/halo-combat-evolved-anniversary-original-soundtrack/1682536194",
+          "album_link_url": "https://album.link/i/1682536194"
         }
       ]
     },
