@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Taxi | 153327 | [153327-mad-taxi.json](./153327-mad-taxi.json) |
 | Mad Taxi Simulator | 411739 | [411739-mad-taxi-simulator.json](./411739-mad-taxi-simulator.json) |
 | Mad Television Tycoon | 353814 | [353814-mad-television-tycoon.json](./353814-mad-television-tycoon.json) |
+| Mad Trapper | 210845 | [210845-mad-trapper.json](./210845-mad-trapper.json) |
 | Mad Valley | 294135 | [294135-mad-valley.json](./294135-mad-valley.json) |
 | Mad Void | 321051 | [321051-mad-void.json](./321051-mad-void.json) |
 | Mad Way | 256285 | [256285-mad-way.json](./256285-mad-way.json) |
@@ -2121,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maps: U.S.A. | 201011 | [201011-maps-u-s-a.json](./201011-maps-u-s-a.json) |
 | Mapsnatch | 186639 | [186639-mapsnatch.json](./186639-mapsnatch.json) |
 | MapTap.gg | 400496 | [400496-maptap-gg.json](./400496-maptap-gg.json) |
+| Maptroid | 210833 | [210833-maptroid.json](./210833-maptroid.json) |
 | Mapventure Story | 238587 | [238587-mapventure-story.json](./238587-mapventure-story.json) |
 | Maqiupai | 92993 | [92993-maqiupai.json](./92993-maqiupai.json) |
 | Maquisard | 128427 | [128427-maquisard.json](./128427-maquisard.json) |
@@ -4006,6 +4008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayoi Shopping Street | 365861 | [365861-mayoi-shopping-street.json](./365861-mayoi-shopping-street.json) |
 | Mayonaka 10 Chome | 301093 | [301093-mayonaka-10-chome.json](./301093-mayonaka-10-chome.json) |
 | Mayonez | 106538 | [106538-mayonez.json](./106538-mayonez.json) |
+| Mayonnaise Hole | 210827 | [210827-mayonnaise-hole.json](./210827-mayonnaise-hole.json) |
 | Mayor May Knott | 249857 | [249857-mayor-may-knott.json](./249857-mayor-may-knott.json) |
 | Mayor Moon | 121434 | [121434-mayor-moon.json](./121434-mayor-moon.json) |
 | Mayor of Defense | 166746 | [166746-mayor-of-defense.json](./166746-mayor-of-defense.json) |
@@ -4356,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanic Infantry | 61986 | [61986-mechanic-infantry.json](./61986-mechanic-infantry.json) |
 | Mechanic Legends | 314472 | [314472-mechanic-legends.json](./314472-mechanic-legends.json) |
 | Mechanic Master | 23822 | [23822-mechanic-master.json](./23822-mechanic-master.json) |
+| Mechanic Mechanica | 210838 | [210838-mechanic-mechanica.json](./210838-mechanic-mechanica.json) |
 | Mechanic Miner | 77754 | [77754-mechanic-miner.json](./77754-mechanic-miner.json) |
 | Mechanic Story | 245738 | [245738-mechanic-story.json](./245738-mechanic-story.json) |
 | Mechanic Supermarket 2024 | 321487 | [321487-mechanic-supermarket-2024.json](./321487-mechanic-supermarket-2024.json) |
@@ -5415,6 +5419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meli | 381846 | [381846-meli.json](./381846-meli.json) |
 | Méli-Mélo: L'Odyssée de la Crème de Marrons | 357357 | [357357-meli-melo-lodyssee-de-la-creme-de-marrons.json](./357357-meli-melo-lodyssee-de-la-creme-de-marrons.json) |
 | Melia Keys In... Quantum Decade | 280414 | [280414-melia-keys-in-quantum-decade.json](./280414-melia-keys-in-quantum-decade.json) |
+| Meliora | 210848 | [210848-meliora.json](./210848-meliora.json) |
 | Meliora's Detective Simulator | 123984 | [123984-melioras-detective-simulator.json](./123984-melioras-detective-simulator.json) |
 | Melissa | 225798 | [225798-melissa.json](./225798-melissa.json) |
 | Melissa K. and the Heart of Gold: Collector's Edition | 36235 | [36235-melissa-k-and-the-heart-of-gold-collectors-edition.json](./36235-melissa-k-and-the-heart-of-gold-collectors-edition.json) |
@@ -7596,6 +7601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mina the Hollower | 189781 | [189781-mina-the-hollower.json](./189781-mina-the-hollower.json) |
 | Mina the Hollower GBC Demake | 305750 | [305750-mina-the-hollower-gbc-demake.json](./305750-mina-the-hollower-gbc-demake.json) |
 | Minable & Create | 155123 | [155123-minable-and-create.json](./155123-minable-and-create.json) |
+| Minakata Hakudou Toujou | 210835 | [210835-minakata-hakudou-toujou.json](./210835-minakata-hakudou-toujou.json) |
 | Minako: Beloved Wife in the Countryside | 295391 | [295391-minako-beloved-wife-in-the-countryside.json](./295391-minako-beloved-wife-in-the-countryside.json) |
 | Minami Lane | 276203 | [276203-minami-lane.json](./276203-minami-lane.json) |
 | Minami no Shima ni Buta Ga Ita | 267647 | [267647-minami-no-shima-ni-buta-ga-ita.json](./267647-minami-no-shima-ni-buta-ga-ita.json) |
@@ -12943,6 +12949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Final Cursed Days - Cursed Transformation Version | 336621 | [336621-my-final-cursed-days-cursed-transformation-version.json](./336621-my-final-cursed-days-cursed-transformation-version.json) |
 | My First Date RPG | 169431 | [169431-my-first-date-rpg.json](./169431-my-first-date-rpg.json) |
 | My First Date RPG 2 | 196813 | [196813-my-first-date-rpg-2.json](./196813-my-first-date-rpg-2.json) |
+| My First Date RPG: Elliot - Story One | 210921 | [210921-my-first-date-rpg-elliot-story-one.json](./210921-my-first-date-rpg-elliot-story-one.json) |
 | My First Date RPG: Elliot - Story Two | 313903 | [313903-my-first-date-rpg-elliot-story-two.json](./313903-my-first-date-rpg-elliot-story-two.json) |
 | My First Date RPG: Oriana - Story One | 215100 | [215100-my-first-date-rpg-oriana-story-one.json](./215100-my-first-date-rpg-oriana-story-one.json) |
 | My First Date RPG: Oriana - Story Three | 314024 | [314024-my-first-date-rpg-oriana-story-three.json](./314024-my-first-date-rpg-oriana-story-three.json) |
@@ -13521,6 +13528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Universe: Pet Clinic - Cats & Dogs: Panda Edition | 210513 | [210513-my-universe-pet-clinic-cats-and-dogs-panda-edition.json](./210513-my-universe-pet-clinic-cats-and-dogs-panda-edition.json) |
 | My Universe: Pets Edition | 221949 | [221949-my-universe-pets-edition.json](./221949-my-universe-pets-edition.json) |
 | My Universe: Puppies and Kittens | 169236 | [169236-my-universe-puppies-and-kittens.json](./169236-my-universe-puppies-and-kittens.json) |
+| My Universe: Puppies and Kittens - Panda Edition | 210918 | [210918-my-universe-puppies-and-kittens-panda-edition.json](./210918-my-universe-puppies-and-kittens-panda-edition.json) |
 | My Universe: School Teacher | 139216 | [139216-my-universe-school-teacher.json](./139216-my-universe-school-teacher.json) |
 | My UnReal Pet | 158705 | [158705-my-unreal-pet.json](./158705-my-unreal-pet.json) |
 | My Unusual Feline Friend | 259014 | [259014-my-unusual-feline-friend.json](./259014-my-unusual-feline-friend.json) |
