@@ -4993,6 +4993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billy la Banlieue | 85733 | [85733-billy-la-banlieue.json](./85733-billy-la-banlieue.json) |
 | Billy Masters Was Right | 139402 | [139402-billy-masters-was-right.json](./139402-billy-masters-was-right.json) |
 | Billy Meets World | 121605 | [121605-billy-meets-world.json](./121605-billy-meets-world.json) |
+| Billy Saves the World | 197098 | [197098-billy-saves-the-world.json](./197098-billy-saves-the-world.json) |
 | Billy the Hero | 411755 | [411755-billy-the-hero.json](./411755-billy-the-hero.json) |
 | Billy the Kid | 355142 | [355142-billy-the-kid.json](./355142-billy-the-kid.json) |
 | Billy's Boot Camp: Wii de Enjoy Diet! | 136884 | [136884-billys-boot-camp-wii-de-enjoy-diet.json](./136884-billys-boot-camp-wii-de-enjoy-diet.json) |
@@ -5952,6 +5953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackout: Sightless Home | 227257 | [227257-blackout-sightless-home.json](./227257-blackout-sightless-home.json) |
 | Blackout: The Darkest Night | 118192 | [118192-blackout-the-darkest-night.json](./118192-blackout-the-darkest-night.json) |
 | Blackout: Uma Aventura Energética | 293896 | [293896-blackout-uma-aventura-energetica.json](./293896-blackout-uma-aventura-energetica.json) |
+| Blackout!! | 197087 | [197087-blackout.json](./197087-blackout.json) |
 | Blackpink: The Game | 250430 | [250430-blackpink-the-game.json](./250430-blackpink-the-game.json) |
 | BlackSands | 391334 | [391334-blacksands.json](./391334-blacksands.json) |
 | Blackscar Mountain | 72093 | [72093-blackscar-mountain.json](./72093-blackscar-mountain.json) |
@@ -6825,6 +6827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockshock | 83482 | [83482-blockshock.json](./83482-blockshock.json) |
 | BlockShot Champion | 56783 | [56783-blockshot-champion.json](./56783-blockshot-champion.json) |
 | Blocksplode | 118250 | [118250-blocksplode.json](./118250-blocksplode.json) |
+| BlockStar VR | 197099 | [197099-blockstar-vr.json](./197099-blockstar-vr.json) |
 | BlockStarPlanet | 55168 | [55168-blockstarplanet.json](./55168-blockstarplanet.json) |
 | Blockstory | 137030 | [137030-blockstory.json](./137030-blockstory.json) |
 | Blocksworld | 68685 | [68685-blocksworld.json](./68685-blocksworld.json) |
