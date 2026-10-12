@@ -4399,6 +4399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard's Symphony | 96111 | [96111-wizards-symphony.json](./96111-wizards-symphony.json) |
 | Wizard's Terror | 176253 | [176253-wizards-terror.json](./176253-wizards-terror.json) |
 | Wizard's Warp | 332398 | [332398-wizards-warp.json](./332398-wizards-warp.json) |
+| Wizard's Way Out | 181622 | [181622-wizards-way-out.json](./181622-wizards-way-out.json) |
 | Wizard's Wheel 2 | 237241 | [237241-wizards-wheel-2.json](./237241-wizards-wheel-2.json) |
 | Wizard's Words | 105966 | [105966-wizards-words.json](./105966-wizards-words.json) |
 | Wizard's Wrath Legends | 312828 | [312828-wizards-wrath-legends.json](./312828-wizards-wrath-legends.json) |
