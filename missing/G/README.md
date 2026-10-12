@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.I. Joe: Operation Blackout - Digital Deluxe | 173160 | [173160-g-i-joe-operation-blackout-digital-deluxe.json](./173160-g-i-joe-operation-blackout-digital-deluxe.json) |
 | G.I. Joe: Snake Eyes | 218427 | [218427-g-i-joe-snake-eyes.json](./218427-g-i-joe-snake-eyes.json) |
 | G.I. joe: Special Ops | 81200 | [81200-g-i-joe-special-ops.json](./81200-g-i-joe-special-ops.json) |
+| G.I. Joe: Star Brigade | 198747 | [198747-g-i-joe-star-brigade.json](./198747-g-i-joe-star-brigade.json) |
 | G.I. Joe: The Atlantis Factor | 8166 | [8166-g-i-joe-the-atlantis-factor.json](./8166-g-i-joe-the-atlantis-factor.json) |
 | G.I. Joe: The Rise of Cobra | 200914 | [200914-g-i-joe-the-rise-of-cobra.json](./200914-g-i-joe-the-rise-of-cobra.json) |
 | G.I. Joe: War on Cobra | 138573 | [138573-g-i-joe-war-on-cobra.json](./138573-g-i-joe-war-on-cobra.json) |
@@ -1289,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gargoyle Garden | 386883 | [386883-gargoyle-garden.json](./386883-gargoyle-garden.json) |
 | Gargoyle Ruins | 175331 | [175331-gargoyle-ruins.json](./175331-gargoyle-ruins.json) |
 | Gargoyles Remastered | 216282 | [216282-gargoyles-remastered.json](./216282-gargoyles-remastered.json) |
+| Gargoyles: Night Flight | 198745 | [198745-gargoyles-night-flight.json](./198745-gargoyles-night-flight.json) |
 | Garin Game: Curse of Revival Ceremony | 214747 | [214747-garin-game-curse-of-revival-ceremony.json](./214747-garin-game-curse-of-revival-ceremony.json) |
 | Garland Boy | 327187 | [327187-garland-boy.json](./327187-garland-boy.json) |
 | Garlic | 132685 | [132685-garlic.json](./132685-garlic.json) |
@@ -1452,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gauley | 341327 | [341327-gauley.json](./341327-gauley.json) |
 | Gaung | 362998 | [362998-gaung.json](./362998-gaung.json) |
 | Gauntler | 261166 | [261166-gauntler.json](./261166-gauntler.json) |
+| Gauntlet | 198746 | [198746-gauntlet.json](./198746-gauntlet.json) |
 | Gauntlet | 330890 | [330890-gauntlet.json](./330890-gauntlet.json) |
 | Gauntlet | 381045 | [381045-gauntlet.json](./381045-gauntlet.json) |
 | Gauntlet | 7293 | [7293-gauntlet.json](./7293-gauntlet.json) |
@@ -4050,6 +4053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Up | 405619 | [405619-gold-up.json](./405619-gold-up.json) |
 | Gold's Gym Dance Workout | 51074 | [51074-golds-gym-dance-workout.json](./51074-golds-gym-dance-workout.json) |
 | Goldbeard's Quest | 120346 | [120346-goldbeards-quest.json](./120346-goldbeards-quest.json) |
+| Goldberg Smash & Bash Wrestling Game Fear the Spear | 198748 | [198748-goldberg-smash-and-bash-wrestling-game-fear-the-spear.json](./198748-goldberg-smash-and-bash-wrestling-game-fear-the-spear.json) |
 | Golden Apple | 298802 | [298802-golden-apple.json](./298802-golden-apple.json) |
 | Golden Arrow | 367760 | [367760-golden-arrow.json](./367760-golden-arrow.json) |
 | Golden Axe | 279631 | [279631-golden-axe.json](./279631-golden-axe.json) |
@@ -4132,6 +4136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Tee 2015 | 60928 | [60928-golden-tee-2015.json](./60928-golden-tee-2015.json) |
 | Golden Tee 2017 | 55848 | [55848-golden-tee-2017.json](./55848-golden-tee-2017.json) |
 | Golden Tee 2018 | 82145 | [82145-golden-tee-2018.json](./82145-golden-tee-2018.json) |
+| Golden Tee Golf | 198749 | [198749-golden-tee-golf.json](./198749-golden-tee-golf.json) |
 | Golden Tee Live | 28719 | [28719-golden-tee-live.json](./28719-golden-tee-live.json) |
 | Golden Tee PGA Tour | 337445 | [337445-golden-tee-pga-tour.json](./337445-golden-tee-pga-tour.json) |
 | Golden Trails 2 | 88205 | [88205-golden-trails-2.json](./88205-golden-trails-2.json) |
@@ -4471,6 +4476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goof Troop | 325563 | [325563-goof-troop.json](./325563-goof-troop.json) |
 | Goof Troop ST: Space Treasure | 215378 | [215378-goof-troop-st-space-treasure.json](./215378-goof-troop-st-space-treasure.json) |
 | Goofball Goals | 60895 | [60895-goofball-goals.json](./60895-goofball-goals.json) |
+| Goofy | 198750 | [198750-goofy.json](./198750-goofy.json) |
 | Goofy Ahh Game | 396724 | [396724-goofy-ahh-game.json](./396724-goofy-ahh-game.json) |
 | Goofy Gorillas | 276667 | [276667-goofy-gorillas.json](./276667-goofy-gorillas.json) |
 | Goofy Insanity | 259240 | [259240-goofy-insanity.json](./259240-goofy-insanity.json) |
