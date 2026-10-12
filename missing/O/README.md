@@ -3402,6 +3402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outpath: First Journey | 236761 | [236761-outpath-first-journey.json](./236761-outpath-first-journey.json) |
 | Outpost | 100123 | [100123-outpost.json](./100123-outpost.json) |
 | Outpost | 14487 | [14487-outpost.json](./14487-outpost.json) |
+| Outpost | 195952 | [195952-outpost.json](./195952-outpost.json) |
 | Outpost | 244185 | [244185-outpost.json](./244185-outpost.json) |
 | Outpost 13 | 35744 | [35744-outpost-13.json](./35744-outpost-13.json) |
 | Outpost 16 | 320862 | [320862-outpost-16.json](./320862-outpost-16.json) |
