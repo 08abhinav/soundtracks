@@ -1754,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Skips | 398972 | [398972-scarlet-skips.json](./398972-scarlet-skips.json) |
 | Scarlet Sorceress | 382217 | [382217-scarlet-sorceress.json](./382217-scarlet-sorceress.json) |
 | Scarlet Thread | 290714 | [290714-scarlet-thread.json](./290714-scarlet-thread.json) |
+| Scarlet Tower | 223093 | [223093-scarlet-tower.json](./223093-scarlet-tower.json) |
 | Scarlet Wolf | 352841 | [352841-scarlet-wolf.json](./352841-scarlet-wolf.json) |
 | Scarlet's Haunted Hotel | 319373 | [319373-scarlets-haunted-hotel.json](./319373-scarlets-haunted-hotel.json) |
 | Scarlett Mysteries: Cursed Child | 37006 | [37006-scarlett-mysteries-cursed-child.json](./37006-scarlett-mysteries-cursed-child.json) |
@@ -8789,6 +8790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slow Down | 348743 | [348743-slow-down.json](./348743-slow-down.json) |
 | Slow Fourier Transform | 364637 | [364637-slow-fourier-transform.json](./364637-slow-fourier-transform.json) |
 | Slow Rise | 267066 | [267066-slow-rise.json](./267066-slow-rise.json) |
+| Slow Roads | 222796 | [222796-slow-roads.json](./222796-slow-roads.json) |
 | Slow.Bullet VR | 392797 | [392797-slow-bullet-vr.json](./392797-slow-bullet-vr.json) |
 | SlowAndSteady.io | 313322 | [313322-slowandsteady-io.json](./313322-slowandsteady-io.json) |
 | Slowburn | 292762 | [292762-slowburn.json](./292762-slowburn.json) |
@@ -13545,6 +13547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellRogue: Supporter Pack | 310094 | [310094-spellrogue-supporter-pack.json](./310094-spellrogue-supporter-pack.json) |
 | Spells & Secrets | 198494 | [198494-spells-and-secrets.json](./198494-spells-and-secrets.json) |
 | Spells & Secrets + Stranded Sails | 336047 | [336047-spells-and-secrets-stranded-sails.json](./336047-spells-and-secrets-stranded-sails.json) |
+| Spells and Fellas | 223049 | [223049-spells-and-fellas.json](./223049-spells-and-fellas.json) |
 | Spells and Sacrifice | 291910 | [291910-spells-and-sacrifice.json](./291910-spells-and-sacrifice.json) |
 | Spells For Sad Goths With Shitty Parents | 176921 | [176921-spells-for-sad-goths-with-shitty-parents.json](./176921-spells-for-sad-goths-with-shitty-parents.json) |
 | Spells of Genesis | 57726 | [57726-spells-of-genesis.json](./57726-spells-of-genesis.json) |
@@ -16327,6 +16330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stary | 113644 | [113644-stary.json](./113644-stary.json) |
 | Starzzle | 382218 | [382218-starzzle.json](./382218-starzzle.json) |
 | Stash: A Card Looter | 367473 | [367473-stash-a-card-looter.json](./367473-stash-a-card-looter.json) |
+| Stasis | 223055 | [223055-stasis.json](./223055-stasis.json) |
 | Stasis Bundle | 353984 | [353984-stasis-bundle.json](./353984-stasis-bundle.json) |
 | Stasis: Bone Totem | 140866 | [140866-stasis-bone-totem.json](./140866-stasis-bone-totem.json) |
 | Stasis: Deluxe Edition | 51894 | [51894-stasis-deluxe-edition.json](./51894-stasis-deluxe-edition.json) |
@@ -19654,6 +19658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dead Rising 3 Arcade Remix | 21879 | [21879-super-dead-rising-3-arcade-remix.json](./21879-super-dead-rising-3-arcade-remix.json) |
 | Super Death Arena | 30126 | [30126-super-death-arena.json](./30126-super-death-arena.json) |
 | Super Demo World: The Legend Continues | 198224 | [198224-super-demo-world-the-legend-continues.json](./198224-super-demo-world-the-legend-continues.json) |
+| Super Depressed Bro... | 223087 | [223087-super-depressed-bro.json](./223087-super-depressed-bro.json) |
 | Super Depth | 239567 | [239567-super-depth.json](./239567-super-depth.json) |
 | Super Destronaut | 31859 | [31859-super-destronaut.json](./31859-super-destronaut.json) |
 | Super Destronaut 2: Go Duck Yourself | 84917 | [84917-super-destronaut-2-go-duck-yourself.json](./84917-super-destronaut-2-go-duck-yourself.json) |
@@ -20403,6 +20408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Star Scramble Jam | 370297 | [370297-super-mario-star-scramble-jam.json](./370297-super-mario-star-scramble-jam.json) |
 | Super Mario Star World | 185685 | [185685-super-mario-star-world.json](./185685-super-mario-star-world.json) |
 | Super Mario Starlight | 273867 | [273867-super-mario-starlight.json](./273867-super-mario-starlight.json) |
+| Super Mario Starshine | 223050 | [223050-super-mario-starshine.json](./223050-super-mario-starshine.json) |
 | Super Mario Storm I | 324681 | [324681-super-mario-storm-i.json](./324681-super-mario-storm-i.json) |
 | Super Mario Story | 313110 | [313110-super-mario-story.json](./313110-super-mario-story.json) |
 | Super Mario Subpop | 320159 | [320159-super-mario-subpop.json](./320159-super-mario-subpop.json) |
@@ -20473,6 +20479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario: Red Scare 2 | 318038 | [318038-super-mario-red-scare-2.json](./318038-super-mario-red-scare-2.json) |
 | Super Mario: Shatters of A Soul | 323871 | [323871-super-mario-shatters-of-a-soul.json](./323871-super-mario-shatters-of-a-soul.json) |
 | Super Mario: The Cursed Forest | 275565 | [275565-super-mario-the-cursed-forest.json](./275565-super-mario-the-cursed-forest.json) |
+| Super Mario: The Daisyquest | 223059 | [223059-super-mario-the-daisyquest.json](./223059-super-mario-the-daisyquest.json) |
 | Super Mario: The End of the Stars | 313409 | [313409-super-mario-the-end-of-the-stars.json](./313409-super-mario-the-end-of-the-stars.json) |
 | Super Mario: The Last GBA Quest | 195488 | [195488-super-mario-the-last-gba-quest.json](./195488-super-mario-the-last-gba-quest.json) |
 | Super Mario: The Lost Dreams | 135168 | [135168-super-mario-the-lost-dreams.json](./135168-super-mario-the-lost-dreams.json) |
