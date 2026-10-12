@@ -419,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quattro Super Hits | 57619 | [57619-quattro-super-hits.json](./57619-quattro-super-hits.json) |
 | Quazatron | 23061 | [23061-quazatron.json](./23061-quazatron.json) |
 | Qub | 362305 | [362305-qub.json](./362305-qub.json) |
+| Qubd | 223608 | [223608-qubd.json](./223608-qubd.json) |
 | Qube Stories: Escape Adventure | 260711 | [260711-qube-stories-escape-adventure.json](./260711-qube-stories-escape-adventure.json) |
 | QubeFall | 184395 | [184395-qubefall.json](./184395-qubefall.json) |
 | Qubes | 348943 | [348943-qubes.json](./348943-qubes.json) |
