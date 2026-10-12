@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Big Wave Soccer | 65030 | [65030-j-league-big-wave-soccer.json](./65030-j-league-big-wave-soccer.json) |
 | J.League Dynamite Soccer 64 | 3519 | [3519-j-league-dynamite-soccer-64.json](./3519-j-league-dynamite-soccer-64.json) |
 | J.League Eleven Beat 1997 | 3520 | [3520-j-league-eleven-beat-1997.json](./3520-j-league-eleven-beat-1997.json) |
+| J.League Excite Stage '94 | 220813 | [220813-j-league-excite-stage-94.json](./220813-j-league-excite-stage-94.json) |
 | J.League Excite Stage '94: AS Flügels | 329706 | [329706-j-league-excite-stage-94-as-flugels.json](./329706-j-league-excite-stage-94-as-flugels.json) |
 | J.League Excite Stage '94: Bellmare | 329709 | [329709-j-league-excite-stage-94-bellmare.json](./329709-j-league-excite-stage-94-bellmare.json) |
 | J.League Excite Stage '94: JEF United | 329702 | [329702-j-league-excite-stage-94-jef-united.json](./329702-j-league-excite-stage-94-jef-united.json) |
@@ -979,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewelpet: Mahou no Oheya de Issho ni Asobou! | 269788 | [269788-jewelpet-mahou-no-oheya-de-issho-ni-asobou.json](./269788-jewelpet-mahou-no-oheya-de-issho-ni-asobou.json) |
 | Jewelry Hearts Academia: We Will Wing Wonder World | 210504 | [210504-jewelry-hearts-academia-we-will-wing-wonder-world.json](./210504-jewelry-hearts-academia-we-will-wing-wonder-world.json) |
 | Jewels Deluxe | 108478 | [108478-jewels-deluxe.json](./108478-jewels-deluxe.json) |
+| Jewels Hole | 220819 | [220819-jewels-hole.json](./220819-jewels-hole.json) |
 | Jewels II: The Ultimate Challenge | 72052 | [72052-jewels-ii-the-ultimate-challenge.json](./72052-jewels-ii-the-ultimate-challenge.json) |
 | Jewels Mania Adventure Star | 108512 | [108512-jewels-mania-adventure-star.json](./108512-jewels-mania-adventure-star.json) |
 | Jewels of Darkness: Adventure Quest | 39160 | [39160-jewels-of-darkness-adventure-quest.json](./39160-jewels-of-darkness-adventure-quest.json) |
