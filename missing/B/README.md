@@ -7828,6 +7828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolt & Whalington | 401177 | [401177-bolt-and-whalington.json](./401177-bolt-and-whalington.json) |
 | Bolt Action | 380996 | [380996-bolt-action.json](./380996-bolt-action.json) |
 | Bolt Action Stealth | 277506 | [277506-bolt-action-stealth.json](./277506-bolt-action-stealth.json) |
+| Bolt Bot Screwy Viruses | 209777 | [209777-bolt-bot-screwy-viruses.json](./209777-bolt-bot-screwy-viruses.json) |
 | Bolt Riley, A Reggae Adventure: Chapter 1 | 36168 | [36168-bolt-riley-a-reggae-adventure-chapter-1.json](./36168-bolt-riley-a-reggae-adventure-chapter-1.json) |
 | Bolt Runner | 298094 | [298094-bolt-runner.json](./298094-bolt-runner.json) |
 | Bolt: Be-Awesome Edition | 269667 | [269667-bolt-be-awesome-edition.json](./269667-bolt-be-awesome-edition.json) |
