@@ -330,7 +330,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XCOM 2: Reinforcement Pack | 225099 | [225099-xcom-2-reinforcement-pack.json](./225099-xcom-2-reinforcement-pack.json) |
 | XCOM 2: Resistance Warrior Pack | 225096 | [225096-xcom-2-resistance-warrior-pack.json](./225096-xcom-2-resistance-warrior-pack.json) |
 | XCOM 2: Shen's Last Gift | 19859 | [19859-xcom-2-shens-last-gift.json](./19859-xcom-2-shens-last-gift.json) |
-| XCOM 2: War of the Chosen | 37060 | [37060-xcom-2-war-of-the-chosen.json](./37060-xcom-2-war-of-the-chosen.json) |
 | XCOM Legends | 159035 | [159035-xcom-legends.json](./159035-xcom-legends.json) |
 | XCOM: Chimera Squad | 132139 | [132139-xcom-chimera-squad.json](./132139-xcom-chimera-squad.json) |
 | XCOM: Enemy Unknown - Elite Edition | 88607 | [88607-xcom-enemy-unknown-elite-edition.json](./88607-xcom-enemy-unknown-elite-edition.json) |
@@ -694,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xxx_Cyberrat_Xxx | 216818 | [216818-xxx-cyberrat-xxx.json](./216818-xxx-cyberrat-xxx.json) |
 | XXX, I Want You to Keep Fighting | 294385 | [294385-xxx-i-want-you-to-keep-fighting.json](./294385-xxx-i-want-you-to-keep-fighting.json) |
 | XxxHolic: Watanuki no Izayoi Sowa | 194567 | [194567-xxxholic-watanuki-no-izayoi-sowa.json](./194567-xxxholic-watanuki-no-izayoi-sowa.json) |
+| Xxxy | 184861 | [184861-xxxy.json](./184861-xxxy.json) |
 | XXZ | 55272 | [55272-xxz.json](./55272-xxz.json) |
 | XXZ: XXL | 149917 | [149917-xxz-xxl.json](./149917-xxz-xxl.json) |
 | XXZ: XXL - Dead Souls Trial | 170505 | [170505-xxz-xxl-dead-souls-trial.json](./170505-xxz-xxl-dead-souls-trial.json) |
