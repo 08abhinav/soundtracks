@@ -9277,6 +9277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ash Survival | 362763 | [362763-ash-survival.json](./362763-ash-survival.json) |
 | Ash Warden | 361767 | [361767-ash-warden.json](./361767-ash-warden.json) |
 | Ash. | 76669 | [76669-ash.json](./76669-ash.json) |
+| Asha | 189915 | [189915-asha.json](./189915-asha.json) |
 | Ashanti Protocol: Unmanned Peacekeepers Amidst a Tempest of Conflict | 330335 | [330335-ashanti-protocol-unmanned-peacekeepers-amidst-a-tempest-of-conflict.json](./330335-ashanti-protocol-unmanned-peacekeepers-amidst-a-tempest-of-conflict.json) |
 | AshBall | 373653 | [373653-ashball.json](./373653-ashball.json) |
 | AshCreek | 419130 | [419130-ashcreek.json](./419130-ashcreek.json) |
