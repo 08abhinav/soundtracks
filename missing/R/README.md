@@ -3280,6 +3280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repentance | 202326 | [202326-repentance.json](./202326-repentance.json) |
 | Repentant | 106564 | [106564-repentant.json](./106564-repentant.json) |
 | Repentless | 213640 | [213640-repentless.json](./213640-repentless.json) |
+| Repentless 2 | 223062 | [223062-repentless-2.json](./223062-repentless-2.json) |
 | Repetendium | 207744 | [207744-repetendium.json](./207744-repetendium.json) |
 | RePirates | 181332 | [181332-repirates.json](./181332-repirates.json) |
 | Repit 2 | 220685 | [220685-repit-2.json](./220685-repit-2.json) |
@@ -5942,6 +5943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Knight | 10782 | [10782-rocket-knight.json](./10782-rocket-knight.json) |
 | Rocket Knight Adventures: Re-Sparked | 283095 | [283095-rocket-knight-adventures-re-sparked.json](./283095-rocket-knight-adventures-re-sparked.json) |
 | Rocket Lander | 25152 | [25152-rocket-lander.json](./25152-rocket-lander.json) |
+| Rocket League Sideswipe: Season 5 | 223084 | [223084-rocket-league-sideswipe-season-5.json](./223084-rocket-league-sideswipe-season-5.json) |
 | Rocket League: Chaos Run | 202859 | [202859-rocket-league-chaos-run.json](./202859-rocket-league-chaos-run.json) |
 | Rocket League: Collector's Edition | 41620 | [41620-rocket-league-collectors-edition.json](./41620-rocket-league-collectors-edition.json) |
 | Rocket League: DC Super Heroes DLC Pack | 226939 | [226939-rocket-league-dc-super-heroes-dlc-pack.json](./226939-rocket-league-dc-super-heroes-dlc-pack.json) |
