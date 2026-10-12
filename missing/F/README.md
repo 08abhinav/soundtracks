@@ -5034,6 +5034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Unlimited III | 715 | [715-flight-unlimited-iii.json](./715-flight-unlimited-iii.json) |
 | Flight Unlimited Las Vegas | 34909 | [34909-flight-unlimited-las-vegas.json](./34909-flight-unlimited-las-vegas.json) |
 | Flight? Youth! | 395670 | [395670-flight-youth.json](./395670-flight-youth.json) |
+| FlightChess | 181061 | [181061-flightchess.json](./181061-flightchess.json) |
 | FlightGear | 51200 | [51200-flightgear.json](./51200-flightgear.json) |
 | Flightless | 74678 | [74678-flightless.json](./74678-flightless.json) |
 | Flightless Bug | 410184 | [410184-flightless-bug.json](./410184-flightless-bug.json) |
@@ -7804,6 +7805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Adventure | 417347 | [417347-frog-adventure.json](./417347-frog-adventure.json) |
 | Frog Affirmations | 229071 | [229071-frog-affirmations.json](./229071-frog-affirmations.json) |
 | Frog And Roll | 266810 | [266810-frog-and-roll.json](./266810-frog-and-roll.json) |
+| Frog Ball Rerolled | 181072 | [181072-frog-ball-rerolled.json](./181072-frog-ball-rerolled.json) |
 | Frog Bard | 338312 | [338312-frog-bard.json](./338312-frog-bard.json) |
 | Frog Bath | 132665 | [132665-frog-bath.json](./132665-frog-bath.json) |
 | Frog Bath Challenge | 413177 | [413177-frog-bath-challenge.json](./413177-frog-bath-challenge.json) |
