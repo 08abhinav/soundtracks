@@ -2401,6 +2401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orb Boy | 180184 | [180184-orb-boy.json](./180184-orb-boy.json) |
 | Orb Devils | 239606 | [239606-orb-devils.json](./239606-orb-devils.json) |
 | Orb Flo | 68325 | [68325-orb-flo.json](./68325-orb-flo.json) |
+| Orb Fort | 215865 | [215865-orb-fort.json](./215865-orb-fort.json) |
 | Orb in Wonder | 277365 | [277365-orb-in-wonder.json](./277365-orb-in-wonder.json) |
 | Orb of Creation | 182972 | [182972-orb-of-creation.json](./182972-orb-of-creation.json) |
 | Orb of Millean | 301440 | [301440-orb-of-millean.json](./301440-orb-of-millean.json) |
