@@ -2653,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch Royale | 368667 | [368667-catch-royale.json](./368667-catch-royale.json) |
 | Catch the Balls | 348273 | [348273-catch-the-balls.json](./348273-catch-the-balls.json) |
 | Catch the Bowling Balls | 152229 | [152229-catch-the-bowling-balls.json](./152229-catch-the-bowling-balls.json) |
+| Catch the Bowling Balls: Challenge Mode Edition | 207053 | [207053-catch-the-bowling-balls-challenge-mode-edition.json](./207053-catch-the-bowling-balls-challenge-mode-edition.json) |
 | Catch the Candy: Remastered | 330922 | [330922-catch-the-candy-remastered.json](./330922-catch-the-candy-remastered.json) |
 | Catch the Clown II | 331897 | [331897-catch-the-clown-ii.json](./331897-catch-the-clown-ii.json) |
 | Catch the Donut | 164276 | [164276-catch-the-donut.json](./164276-catch-the-donut.json) |
@@ -7992,6 +7993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer 3: Kane's Wrath | 395863 | [395863-command-and-conquer-3-kanes-wrath.json](./395863-command-and-conquer-3-kanes-wrath.json) |
 | Command & Conquer 3: Kane's Wrath | 707 | [707-command-and-conquer-3-kanes-wrath.json](./707-command-and-conquer-3-kanes-wrath.json) |
 | Command & Conquer 3: Tiberium Wars | 281426 | [281426-command-and-conquer-3-tiberium-wars.json](./281426-command-and-conquer-3-tiberium-wars.json) |
+| Command & Conquer 3: Tiberium Wars - Kane Edition | 207005 | [207005-command-and-conquer-3-tiberium-wars-kane-edition.json](./207005-command-and-conquer-3-tiberium-wars-kane-edition.json) |
 | Command & Conquer 3D | 414520 | [414520-command-and-conquer-3d.json](./414520-command-and-conquer-3d.json) |
 | Command & Conquer 4: Tiberian Twilight | 670 | [670-command-and-conquer-4-tiberian-twilight.json](./670-command-and-conquer-4-tiberian-twilight.json) |
 | Command & Conquer Remastered Collection | 112104 | [112104-command-and-conquer-remastered-collection.json](./112104-command-and-conquer-remastered-collection.json) |
@@ -8172,6 +8174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes 3: Hammer & Shield Battlegroup Pack | 400401 | [400401-company-of-heroes-3-hammer-and-shield-battlegroup-pack.json](./400401-company-of-heroes-3-hammer-and-shield-battlegroup-pack.json) |
 | Company of Heroes 3: Premium Edition | 210916 | [210916-company-of-heroes-3-premium-edition.json](./210916-company-of-heroes-3-premium-edition.json) |
 | Company of Heroes Online | 77294 | [77294-company-of-heroes-online.json](./77294-company-of-heroes-online.json) |
+| Company of Heroes: Anthology | 207013 | [207013-company-of-heroes-anthology.json](./207013-company-of-heroes-anthology.json) |
 | Company of Heroes: Back to Basics | 154580 | [154580-company-of-heroes-back-to-basics.json](./154580-company-of-heroes-back-to-basics.json) |
 | Company of Heroes: Battle of Crete | 127909 | [127909-company-of-heroes-battle-of-crete.json](./127909-company-of-heroes-battle-of-crete.json) |
 | Company of Heroes: Blitzkrieg Mod | 127910 | [127910-company-of-heroes-blitzkrieg-mod.json](./127910-company-of-heroes-blitzkrieg-mod.json) |
@@ -8295,6 +8298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concave Shooter | 186166 | [186166-concave-shooter.json](./186166-concave-shooter.json) |
 | Concealed | 139783 | [139783-concealed.json](./139783-concealed.json) |
 | Concealed Intent | 35142 | [35142-concealed-intent.json](./35142-concealed-intent.json) |
+| Concentration | 207016 | [207016-concentration.json](./207016-concentration.json) |
 | Concentration | 217829 | [217829-concentration.json](./217829-concentration.json) |
 | Concentration | 319797 | [319797-concentration.json](./319797-concentration.json) |
 | Concentration Required | 338882 | [338882-concentration-required.json](./338882-concentration-required.json) |
@@ -8496,6 +8500,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquer or Die | 187289 | [187289-conquer-or-die.json](./187289-conquer-or-die.json) |
 | Conquer the Dungeon | 190720 | [190720-conquer-the-dungeon.json](./190720-conquer-the-dungeon.json) |
 | Conquer the Islands | 224085 | [224085-conquer-the-islands.json](./224085-conquer-the-islands.json) |
+| Conquer the Skies | 207017 | [207017-conquer-the-skies.json](./207017-conquer-the-skies.json) |
+| Conquer the Universe | 207019 | [207019-conquer-the-universe.json](./207019-conquer-the-universe.json) |
 | Conquer the World | 71532 | [71532-conquer-the-world.json](./71532-conquer-the-world.json) |
 | Conquer The World | 356591 | [356591-conquer-the-world.json](./356591-conquer-the-world.json) |
 | Conquer-Strike 2 | 273370 | [273370-conquer-strike-2.json](./273370-conquer-strike-2.json) |
