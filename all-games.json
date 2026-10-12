@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T10:05:13.531Z",
-  "total_soundtracks": 1509,
+  "generated_at": "2026-10-12T10:05:25.612Z",
+  "total_soundtracks": 1510,
   "games": [
     {
       "igdb_id": 7522,
@@ -6559,6 +6559,20 @@
           "spotify_url": "https://music.apple.com/us/album/godfall-music-from-the-video-game/1537461882?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1537461882"
+        }
+      ]
+    },
+    {
+      "igdb_id": 5565,
+      "game_name": "Golden Axe",
+      "game_url": "https://ostdb.net/games/golden-axe",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/2d/6a/ec/2d6aecc5-a5bb-e43c-ac23-20fc161957ef/sega.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Golden Axe The Music",
+          "spotify_url": "https://open.spotify.com/album/05PU3OQUhK72yz87Mxv06w",
+          "apple_music_url": "https://music.apple.com/us/album/golden-axe-the-music/990212026",
+          "album_link_url": "https://album.link/i/990212026"
         }
       ]
     },
