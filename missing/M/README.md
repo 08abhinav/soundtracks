@@ -2370,7 +2370,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Sonic at the Rio 2016 Olympic Games | 11258 | [11258-mario-and-sonic-at-the-rio-2016-olympic-games.json](./11258-mario-and-sonic-at-the-rio-2016-olympic-games.json) |
 | Mario & Sonic at the Rio 2016 Olympic Games | 132111 | [132111-mario-and-sonic-at-the-rio-2016-olympic-games.json](./132111-mario-and-sonic-at-the-rio-2016-olympic-games.json) |
 | Mario & Sonic at the Sochi 2014 Olympic Winter Games | 3990 | [3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json](./3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json) |
-| Mario + Rabbids Kingdom Battle | 28414 | [28414-mario-rabbids-kingdom-battle.json](./28414-mario-rabbids-kingdom-battle.json) |
 | Mario + Rabbids Kingdom Battle: Donkey Kong Adventure | 103317 | [103317-mario-rabbids-kingdom-battle-donkey-kong-adventure.json](./103317-mario-rabbids-kingdom-battle-donkey-kong-adventure.json) |
 | Mario + Rabbids Kingdom Battle: Gold Edition | 121506 | [121506-mario-rabbids-kingdom-battle-gold-edition.json](./121506-mario-rabbids-kingdom-battle-gold-edition.json) |
 | Mario + Rabbids Kingdom Battle: Pixel Pack | 237995 | [237995-mario-rabbids-kingdom-battle-pixel-pack.json](./237995-mario-rabbids-kingdom-battle-pixel-pack.json) |
@@ -10702,7 +10701,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Walks | 51178 | [51178-moonlight-walks.json](./51178-moonlight-walks.json) |
 | Moonlight Warrior | 117107 | [117107-moonlight-warrior.json](./117107-moonlight-warrior.json) |
 | Moonlighter | 227752 | [227752-moonlighter.json](./227752-moonlighter.json) |
-| Moonlighter | 27771 | [27771-moonlighter.json](./27771-moonlighter.json) |
 | Moonlighter 2: The Endless Vault | 324570 | [324570-moonlighter-2-the-endless-vault.json](./324570-moonlighter-2-the-endless-vault.json) |
 | Moonlighter: Between Dimensions | 119236 | [119236-moonlighter-between-dimensions.json](./119236-moonlighter-between-dimensions.json) |
 | Moonlit | 141094 | [141094-moonlit.json](./141094-moonlit.json) |
