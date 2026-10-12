@@ -1508,6 +1508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uninvited | 378914 | [378914-uninvited.json](./378914-uninvited.json) |
 | Uninvited | 378915 | [378915-uninvited.json](./378915-uninvited.json) |
 | Uninvited | 8708 | [8708-uninvited.json](./8708-uninvited.json) |
+| Uninvited Guest | 181052 | [181052-uninvited-guest.json](./181052-uninvited-guest.json) |
 | Uninvited: MacVenture Series | 35912 | [35912-uninvited-macventure-series.json](./35912-uninvited-macventure-series.json) |
 | Union | 151048 | [151048-union.json](./151048-union.json) |
 | Union | 226751 | [226751-union.json](./226751-union.json) |
