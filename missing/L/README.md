@@ -952,6 +952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Shot | 160278 | [160278-last-shot.json](./160278-last-shot.json) |
 | Last Signal | 257982 | [257982-last-signal.json](./257982-last-signal.json) |
 | Last Signal | 395151 | [395151-last-signal.json](./395151-last-signal.json) |
+| Last Sinner | 187164 | [187164-last-sinner.json](./187164-last-sinner.json) |
 | Last Soldier | 52270 | [52270-last-soldier.json](./52270-last-soldier.json) |
 | Last Soul | 343776 | [343776-last-soul.json](./343776-last-soul.json) |
 | Last Souls | 195971 | [195971-last-souls.json](./195971-last-souls.json) |
@@ -2835,6 +2836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life After Death | 215340 | [215340-life-after-death.json](./215340-life-after-death.json) |
 | Life After End | 233957 | [233957-life-after-end.json](./233957-life-after-end.json) |
 | Life After Magic | 215863 | [215863-life-after-magic.json](./215863-life-after-magic.json) |
+| Life and Death 2 | 187804 | [187804-life-and-death-2.json](./187804-life-and-death-2.json) |
 | Life And Death Are Predetermined by Heaven | 330555 | [330555-life-and-death-are-predetermined-by-heaven.json](./330555-life-and-death-are-predetermined-by-heaven.json) |
 | Life and Death: A Journey of Star-Crossed Lovers | 314296 | [314296-life-and-death-a-journey-of-star-crossed-lovers.json](./314296-life-and-death-a-journey-of-star-crossed-lovers.json) |
 | Life and Minimalism | 202962 | [202962-life-and-minimalism.json](./202962-life-and-minimalism.json) |
