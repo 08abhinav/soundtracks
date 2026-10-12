@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T10:04:07.429Z",
-  "total_missing": 201372,
+  "generated_at": "2026-10-12T10:07:21.759Z",
+  "total_missing": 201368,
   "games": [
     {
       "igdb_id": 191680,
@@ -159831,11 +159831,6 @@
       "igdb_id": 194667,
       "game_name": "Clusterduck",
       "file": "missing/C/194667-clusterduck.json"
-    },
-    {
-      "igdb_id": 18484,
-      "game_name": "Clustertruck",
-      "file": "missing/C/18484-clustertruck.json"
     },
     {
       "igdb_id": 16049,
@@ -344063,11 +344058,6 @@
       "file": "missing/G/305875-golden-axe.json"
     },
     {
-      "igdb_id": 5565,
-      "game_name": "Golden Axe",
-      "file": "missing/G/5565-golden-axe.json"
-    },
-    {
       "igdb_id": 202829,
       "game_name": "Golden Axe Classics",
       "file": "missing/G/202829-golden-axe-classics.json"
@@ -427091,11 +427081,6 @@
       "igdb_id": 223397,
       "game_name": "Jetpack Guy",
       "file": "missing/J/223397-jetpack-guy.json"
-    },
-    {
-      "igdb_id": 8978,
-      "game_name": "Jetpack Joyride",
-      "file": "missing/J/8978-jetpack-joyride.json"
     },
     {
       "igdb_id": 208929,
@@ -709071,11 +709056,6 @@
       "igdb_id": 347351,
       "game_name": "Rusty Foodies",
       "file": "missing/R/347351-rusty-foodies.json"
-    },
-    {
-      "igdb_id": 18011,
-      "game_name": "Rusty Lake Hotel",
-      "file": "missing/R/18011-rusty-lake-hotel.json"
     },
     {
       "igdb_id": 54678,
