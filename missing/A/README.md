@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Nest for Us | 259499 | [259499-a-nest-for-us.json](./259499-a-nest-for-us.json) |
 | A New Adventure: FaYoh 2 | 131374 | [131374-a-new-adventure-fayoh-2.json](./131374-a-new-adventure-fayoh-2.json) |
 | A New Don | 183433 | [183433-a-new-don.json](./183433-a-new-don.json) |
+| A New Kaizo Era | 213572 | [213572-a-new-kaizo-era.json](./213572-a-new-kaizo-era.json) |
 | A New Leaf: Memories | 167583 | [167583-a-new-leaf-memories.json](./167583-a-new-leaf-memories.json) |
 | A New Life | 304304 | [304304-a-new-life.json](./304304-a-new-life.json) |
 | A New Reckoning | 61707 | [61707-a-new-reckoning.json](./61707-a-new-reckoning.json) |
