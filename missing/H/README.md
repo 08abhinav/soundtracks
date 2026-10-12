@@ -1128,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harbinger's Horse GT | 183586 | [183586-harbingers-horse-gt.json](./183586-harbingers-horse-gt.json) |
 | Harbingers of Desspair | 320959 | [320959-harbingers-of-desspair.json](./320959-harbingers-of-desspair.json) |
 | Harbingers of Destiny | 392412 | [392412-harbingers-of-destiny.json](./392412-harbingers-of-destiny.json) |
+| Harbingers: Last Survival | 188361 | [188361-harbingers-last-survival.json](./188361-harbingers-last-survival.json) |
 | Harbor Captain | 294042 | [294042-harbor-captain.json](./294042-harbor-captain.json) |
 | Harbor Escape | 40671 | [40671-harbor-escape.json](./40671-harbor-escape.json) |
 | Harbor Havoc 3D | 181165 | [181165-harbor-havoc-3d.json](./181165-harbor-havoc-3d.json) |
@@ -6377,6 +6378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horn of Balance | 296912 | [296912-horn-of-balance.json](./296912-horn-of-balance.json) |
 | Horn Sounds | 262887 | [262887-horn-sounds.json](./262887-horn-sounds.json) |
 | Horn-Nie | 291037 | [291037-horn-nie.json](./291037-horn-nie.json) |
+| Horned Monster | 188339 | [188339-horned-monster.json](./188339-horned-monster.json) |
 | Hornet the Vanguard | 303572 | [303572-hornet-the-vanguard.json](./303572-hornet-the-vanguard.json) |
 | Horns of Fear | 74436 | [74436-horns-of-fear.json](./74436-horns-of-fear.json) |
 | Horns of Justice | 211290 | [211290-horns-of-justice.json](./211290-horns-of-justice.json) |
@@ -7192,6 +7194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Melt a Maiden's Heart | 326280 | [326280-how-to-melt-a-maidens-heart.json](./326280-how-to-melt-a-maidens-heart.json) |
 | How to Raise a Wolf Girl | 122825 | [122825-how-to-raise-a-wolf-girl.json](./122825-how-to-raise-a-wolf-girl.json) |
 | How to Say Goodbye | 126445 | [126445-how-to-say-goodbye.json](./126445-how-to-say-goodbye.json) |
+| How to Sing to Open Your Heart: Remastered | 188424 | [188424-how-to-sing-to-open-your-heart-remastered.json](./188424-how-to-sing-to-open-your-heart-remastered.json) |
 | How to Sovle Rubiks Cube in 30 seconds | 103669 | [103669-how-to-sovle-rubiks-cube-in-30-seconds.json](./103669-how-to-sovle-rubiks-cube-in-30-seconds.json) |
 | How to Spend Holidays | 82989 | [82989-how-to-spend-holidays.json](./82989-how-to-spend-holidays.json) |
 | How to Survive 2: Dead Dynamite | 169929 | [169929-how-to-survive-2-dead-dynamite.json](./169929-how-to-survive-2-dead-dynamite.json) |
@@ -7810,6 +7813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hustle Quest: Historia of Urth | 299155 | [299155-hustle-quest-historia-of-urth.json](./299155-hustle-quest-historia-of-urth.json) |
 | Hustler | 92282 | [92282-hustler.json](./92282-hustler.json) |
 | Hustomten | 167564 | [167564-hustomten.json](./167564-hustomten.json) |
+| Hutaoriji: Emoji Girl Menhera | 188360 | [188360-hutaoriji-emoji-girl-menhera.json](./188360-hutaoriji-emoji-girl-menhera.json) |
 | Huts | 129575 | [129575-huts.json](./129575-huts.json) |
 | Huuma Mina: The Game | 82501 | [82501-huuma-mina-the-game.json](./82501-huuma-mina-the-game.json) |
 | Huusuienbu: Chapter Spring and Summer | 55706 | [55706-huusuienbu-chapter-spring-and-summer.json](./55706-huusuienbu-chapter-spring-and-summer.json) |
