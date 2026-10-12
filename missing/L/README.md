@@ -2477,6 +2477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2021: Hits Français et Internationaux Solo | 137084 | [137084-lets-sing-2021-hits-francais-et-internationaux-solo.json](./137084-lets-sing-2021-hits-francais-et-internationaux-solo.json) |
 | Let's Sing 2022: Chinese Version | 215361 | [215361-lets-sing-2022-chinese-version.json](./215361-lets-sing-2022-chinese-version.json) |
 | Let's Sing 2022: French Version | 175978 | [175978-lets-sing-2022-french-version.json](./175978-lets-sing-2022-french-version.json) |
+| Let's Sing 2022: Platinum Edition | 185980 | [185980-lets-sing-2022-platinum-edition.json](./185980-lets-sing-2022-platinum-edition.json) |
 | Let's Sing 2023: Incluye Canciones Españolas | 221328 | [221328-lets-sing-2023-incluye-canciones-espanolas.json](./221328-lets-sing-2023-incluye-canciones-espanolas.json) |
 | Let's Sing 2023: Platinum Edition | 225829 | [225829-lets-sing-2023-platinum-edition.json](./225829-lets-sing-2023-platinum-edition.json) |
 | Let's Sing 2024 with International Hits: Gold Edition | 271838 | [271838-lets-sing-2024-with-international-hits-gold-edition.json](./271838-lets-sing-2024-with-international-hits-gold-edition.json) |
@@ -5173,6 +5174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost girl's [diary] | 33473 | [33473-lost-girls-diary.json](./33473-lost-girls-diary.json) |
 | Lost God | 24939 | [24939-lost-god.json](./24939-lost-god.json) |
 | Lost Gold | 156065 | [156065-lost-gold.json](./156065-lost-gold.json) |
+| Lost Grimoires 1-3 | 185983 | [185983-lost-grimoires-1-3.json](./185983-lost-grimoires-1-3.json) |
 | Lost Grimoires 2: Shard of Mystery | 29961 | [29961-lost-grimoires-2-shard-of-mystery.json](./29961-lost-grimoires-2-shard-of-mystery.json) |
 | Lost Group | 291188 | [291188-lost-group.json](./291188-lost-group.json) |
 | Lost Hammer | 221754 | [221754-lost-hammer.json](./221754-lost-hammer.json) |
