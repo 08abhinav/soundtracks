@@ -7151,6 +7151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragile Peace | 370264 | [370264-fragile-peace.json](./370264-fragile-peace.json) |
 | Fragile Reflection | 309533 | [309533-fragile-reflection.json](./309533-fragile-reflection.json) |
 | Fragile Soft Machines | 139236 | [139236-fragile-soft-machines.json](./139236-fragile-soft-machines.json) |
+| Fragile Soul | 185396 | [185396-fragile-soul.json](./185396-fragile-soul.json) |
 | Fragile Sun | 329194 | [329194-fragile-sun.json](./329194-fragile-sun.json) |
 | Fragment | 172049 | [172049-fragment.json](./172049-fragment.json) |
 | Fragment Collapse | 409678 | [409678-fragment-collapse.json](./409678-fragment-collapse.json) |
