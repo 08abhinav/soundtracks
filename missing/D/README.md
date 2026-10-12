@@ -8373,6 +8373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Door4: Ultimatum | 319686 | [319686-door4-ultimatum.json](./319686-door4-ultimatum.json) |
 | Dooria | 158231 | [158231-dooria.json](./158231-dooria.json) |
 | Doorka | 346154 | [346154-doorka.json](./346154-doorka.json) |
+| Doorman | 200358 | [200358-doorman.json](./200358-doorman.json) |
 | Doors | 168388 | [168388-doors.json](./168388-doors.json) |
 | Doors | 16987 | [16987-doors.json](./16987-doors.json) |
 | Doors | 223422 | [223422-doors.json](./223422-doors.json) |
@@ -11982,6 +11983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf's Trainfort | 217475 | [217475-dwarfs-trainfort.json](./217475-dwarfs-trainfort.json) |
 | Dwarfare: All For The Forge | 369720 | [369720-dwarfare-all-for-the-forge.json](./369720-dwarfare-all-for-the-forge.json) |
 | Dwarfender | 250894 | [250894-dwarfender.json](./250894-dwarfender.json) |
+| Dwarfenstein | 200357 | [200357-dwarfenstein.json](./200357-dwarfenstein.json) |
 | Dwarffarian | 191081 | [191081-dwarffarian.json](./191081-dwarffarian.json) |
 | DwarfHeim | 117584 | [117584-dwarfheim.json](./117584-dwarfheim.json) |
 | DwarfHold: Tokens & Towers | 357836 | [357836-dwarfhold-tokens-and-towers.json](./357836-dwarfhold-tokens-and-towers.json) |
