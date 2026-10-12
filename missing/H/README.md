@@ -7898,6 +7898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperBrawl Tournament: Ultimate Edition | 188012 | [188012-hyperbrawl-tournament-ultimate-edition.json](./188012-hyperbrawl-tournament-ultimate-edition.json) |
 | Hyperburner | 94780 | [94780-hyperburner.json](./94780-hyperburner.json) |
 | Hypercharge: Unboxed | 39758 | [39758-hypercharge-unboxed.json](./39758-hypercharge-unboxed.json) |
+| Hypercharge: Unboxed - Complete Edition | 227408 | [227408-hypercharge-unboxed-complete-edition.json](./227408-hypercharge-unboxed-complete-edition.json) |
 | Hyperchase Auto Race | 41990 | [41990-hyperchase-auto-race.json](./41990-hyperchase-auto-race.json) |
 | Hypercide | 156532 | [156532-hypercide.json](./156532-hypercide.json) |
 | Hypercore | 357205 | [357205-hypercore.json](./357205-hypercore.json) |
