@@ -738,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad Corporation 2 | 190449 | [190449-railroad-corporation-2.json](./190449-railroad-corporation-2.json) |
 | Railroad Corporation: All or Nothing | 174164 | [174164-railroad-corporation-all-or-nothing.json](./174164-railroad-corporation-all-or-nothing.json) |
 | Railroad Corporation: Competitive Spirit DLC | 262300 | [262300-railroad-corporation-competitive-spirit-dlc.json](./262300-railroad-corporation-competitive-spirit-dlc.json) |
+| Railroad Corporation: Niagara River | 213053 | [213053-railroad-corporation-niagara-river.json](./213053-railroad-corporation-niagara-river.json) |
 | Railroad Crossing Play | 389093 | [389093-railroad-crossing-play.json](./389093-railroad-crossing-play.json) |
 | Railroad Empire | 27693 | [27693-railroad-empire.json](./27693-railroad-empire.json) |
 | Railroad Empire | 394822 | [394822-railroad-empire.json](./394822-railroad-empire.json) |
