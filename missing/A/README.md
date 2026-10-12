@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dream That Never Wakes Up | 236391 | [236391-a-dream-that-never-wakes-up.json](./236391-a-dream-that-never-wakes-up.json) |
 | A Dream Within a Dream | 394781 | [394781-a-dream-within-a-dream.json](./394781-a-dream-within-a-dream.json) |
 | A Drift for the Irresolute | 180614 | [180614-a-drift-for-the-irresolute.json](./180614-a-drift-for-the-irresolute.json) |
+| A Drunk Man Looks at the Thistle Decoded | 198134 | [198134-a-drunk-man-looks-at-the-thistle-decoded.json](./198134-a-drunk-man-looks-at-the-thistle-decoded.json) |
 | A Dual Ascent | 327839 | [327839-a-dual-ascent.json](./327839-a-dual-ascent.json) |
 | A Dungeon Is You | 301076 | [301076-a-dungeon-is-you.json](./301076-a-dungeon-is-you.json) |
 | A Dwarf's Story | 64707 | [64707-a-dwarfs-story.json](./64707-a-dwarfs-story.json) |
@@ -5344,6 +5345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ami's Room | 216211 | [216211-amis-room.json](./216211-amis-room.json) |
 | Amicade | 254027 | [254027-amicade.json](./254027-amicade.json) |
 | Amicusia | 394123 | [394123-amicusia.json](./394123-amicusia.json) |
+| Amid Evil VR | 198154 | [198154-amid-evil-vr.json](./198154-amid-evil-vr.json) |
 | Amid Evil: Champion Edition | 263589 | [263589-amid-evil-champion-edition.json](./263589-amid-evil-champion-edition.json) |
 | Amid Evil: The Black Labyrinth | 152264 | [152264-amid-evil-the-black-labyrinth.json](./152264-amid-evil-the-black-labyrinth.json) |
 | Amid the Grid | 394824 | [394824-amid-the-grid.json](./394824-amid-the-grid.json) |
