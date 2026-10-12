@@ -345,11 +345,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: 25th Anniversary Update | 277523 | [277523-half-life-25th-anniversary-update.json](./277523-half-life-25th-anniversary-update.json) |
 | Half-Life: Abeyance | 221789 | [221789-half-life-abeyance.json](./221789-half-life-abeyance.json) |
 | Half-Life: Beyond | 329025 | [329025-half-life-beyond.json](./329025-half-life-beyond.json) |
+| Half-Life: Black Guard | 221880 | [221880-half-life-black-guard.json](./221880-half-life-black-guard.json) |
+| Half-Life: Brave Brain | 221882 | [221882-half-life-brave-brain.json](./221882-half-life-brave-brain.json) |
 | Half-Life: C.A.G.E.D. | 127914 | [127914-half-life-c-a-g-e-d.json](./127914-half-life-c-a-g-e-d.json) |
 | Half-Life: Chernobyl | 127954 | [127954-half-life-chernobyl.json](./127954-half-life-chernobyl.json) |
 | Half-Life: Cleaner's Adventures | 221857 | [221857-half-life-cleaners-adventures.json](./221857-half-life-cleaners-adventures.json) |
 | Half-Life: Cross Product Multiplayer | 360604 | [360604-half-life-cross-product-multiplayer.json](./360604-half-life-cross-product-multiplayer.json) |
 | Half-Life: Crowbar-Deep in the Dead | 221795 | [221795-half-life-crowbar-deep-in-the-dead.json](./221795-half-life-crowbar-deep-in-the-dead.json) |
+| Half-Life: Dark Future | 221884 | [221884-half-life-dark-future.json](./221884-half-life-dark-future.json) |
 | Half-Life: Dark Matter | 150592 | [150592-half-life-dark-matter.json](./150592-half-life-dark-matter.json) |
 | Half-Life: E7 Black Star | 196832 | [196832-half-life-e7-black-star.json](./196832-half-life-e7-black-star.json) |
 | Half-Life: Echoes | 150226 | [150226-half-life-echoes.json](./150226-half-life-echoes.json) |
@@ -371,10 +374,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Loop | 221797 | [221797-half-life-loop.json](./221797-half-life-loop.json) |
 | Half-Life: Military Duty | 222314 | [222314-half-life-military-duty.json](./222314-half-life-military-duty.json) |
 | Half-Life: Mission of Mercy | 248300 | [248300-half-life-mission-of-mercy.json](./248300-half-life-mission-of-mercy.json) |
+| Half-Life: Operation Rift | 221881 | [221881-half-life-operation-rift.json](./221881-half-life-operation-rift.json) |
+| Half-Life: Operation Rosenberg | 221905 | [221905-half-life-operation-rosenberg.json](./221905-half-life-operation-rosenberg.json) |
 | Half-Life: Peaces Like Us | 221213 | [221213-half-life-peaces-like-us.json](./221213-half-life-peaces-like-us.json) |
 | Half-Life: Prison | 221855 | [221855-half-life-prison.json](./221855-half-life-prison.json) |
 | Half-Life: Pulse | 248292 | [248292-half-life-pulse.json](./248292-half-life-pulse.json) |
 | Half-Life: Rally | 221805 | [221805-half-life-rally.json](./221805-half-life-rally.json) |
+| Half-Life: Reamped | 221927 | [221927-half-life-reamped.json](./221927-half-life-reamped.json) |
 | Half-Life: Recovery | 221801 | [221801-half-life-recovery.json](./221801-half-life-recovery.json) |
 | Half-Life: Reissues | 196840 | [196840-half-life-reissues.json](./196840-half-life-reissues.json) |
 | Half-Life: Residual Life | 196836 | [196836-half-life-residual-life.json](./196836-half-life-residual-life.json) |
@@ -385,17 +391,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Shift-Two | 247554 | [247554-half-life-shift-two.json](./247554-half-life-shift-two.json) |
 | Half-Life: Soldier | 221803 | [221803-half-life-soldier.json](./221803-half-life-soldier.json) |
 | Half-Life: Sum | 218736 | [218736-half-life-sum.json](./218736-half-life-sum.json) |
+| Half-Life: The Alpha Unit | 221883 | [221883-half-life-the-alpha-unit.json](./221883-half-life-the-alpha-unit.json) |
 | Half-Life: The Challenger Deep 2 | 196853 | [196853-half-life-the-challenger-deep-2.json](./196853-half-life-the-challenger-deep-2.json) |
 | Half-Life: The Core | 222322 | [222322-half-life-the-core.json](./222322-half-life-the-core.json) |
 | Half-Life: The Evasion | 222287 | [222287-half-life-the-evasion.json](./222287-half-life-the-evasion.json) |
+| Half-Life: The Gate | 221910 | [221910-half-life-the-gate.json](./221910-half-life-the-gate.json) |
 | Half-Life: The Infected | 196732 | [196732-half-life-the-infected.json](./196732-half-life-the-infected.json) |
 | Half-Life: Through The City | 309106 | [309106-half-life-through-the-city.json](./309106-half-life-through-the-city.json) |
 | Half-Life: Timeline 1 | 221804 | [221804-half-life-timeline-1.json](./221804-half-life-timeline-1.json) |
+| Half-Life: Timeline II - Iced Earth | 221908 | [221908-half-life-timeline-ii-iced-earth.json](./221908-half-life-timeline-ii-iced-earth.json) |
+| Half-Life: Timeline III - The Heart of Darkness | 221909 | [221909-half-life-timeline-iii-the-heart-of-darkness.json](./221909-half-life-timeline-iii-the-heart-of-darkness.json) |
+| Half-Life: Trials | 221906 | [221906-half-life-trials.json](./221906-half-life-trials.json) |
 | Half-Life: Ultimate Attack | 285388 | [285388-half-life-ultimate-attack.json](./285388-half-life-ultimate-attack.json) |
 | Half-Life: Uplink | 93071 | [93071-half-life-uplink.json](./93071-half-life-uplink.json) |
 | Half-Life: Uplinked | 221790 | [221790-half-life-uplinked.json](./221790-half-life-uplinked.json) |
 | Half-Life: Visitors | 221854 | [221854-half-life-visitors.json](./221854-half-life-visitors.json) |
 | Half-Life: VR Mod | 221166 | [221166-half-life-vr-mod.json](./221166-half-life-vr-mod.json) |
+| Half-Life: Weapon Edition | 221907 | [221907-half-life-weapon-edition.json](./221907-half-life-weapon-edition.json) |
 | Half-Life: Xen-Warrior | 221808 | [221808-half-life-xen-warrior.json](./221808-half-life-xen-warrior.json) |
 | Half-Life: Zombie Edition | 196734 | [196734-half-life-zombie-edition.json](./196734-half-life-zombie-edition.json) |
 | Half-Nuked | 196730 | [196730-half-nuked.json](./196730-half-nuked.json) |
@@ -7194,6 +7206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HSNU Academy 79th Anniversary | 396207 | [396207-hsnu-academy-79th-anniversary.json](./396207-hsnu-academy-79th-anniversary.json) |
 | HSS: Reload | 317306 | [317306-hss-reload.json](./317306-hss-reload.json) |
 | HSX: Hypersonic Xtreme | 43656 | [43656-hsx-hypersonic-xtreme.json](./43656-hsx-hypersonic-xtreme.json) |
+| HTC | 221914 | [221914-htc.json](./221914-htc.json) |
 | htoL#NiQ: The Firefly Diary - Limited Edition | 89918 | [89918-htol-niq-the-firefly-diary-limited-edition.json](./89918-htol-niq-the-firefly-diary-limited-edition.json) |
 | HTown Fight | 97530 | [97530-htown-fight.json](./97530-htown-fight.json) |
 | HTR High Tech Racing | 85174 | [85174-htr-high-tech-racing.json](./85174-htr-high-tech-racing.json) |
