@@ -1760,6 +1760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Bunny Challenge | 272763 | [272763-impossible-bunny-challenge.json](./272763-impossible-bunny-challenge.json) |
 | Impossible Caves | 105927 | [105927-impossible-caves.json](./105927-impossible-caves.json) |
 | Impossible Commando Shooting FPS Fury | 101983 | [101983-impossible-commando-shooting-fps-fury.json](./101983-impossible-commando-shooting-fps-fury.json) |
+| Impossible Crime Book | 200384 | [200384-impossible-crime-book.json](./200384-impossible-crime-book.json) |
 | Impossible Date: Tricky Riddle | 208924 | [208924-impossible-date-tricky-riddle.json](./208924-impossible-date-tricky-riddle.json) |
 | Impossible Draw | 128565 | [128565-impossible-draw.json](./128565-impossible-draw.json) |
 | Impossible Dungeon | 220186 | [220186-impossible-dungeon.json](./220186-impossible-dungeon.json) |
@@ -2129,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiana Jones and the Great Circle: Digital Premium Upgrade | 332027 | [332027-indiana-jones-and-the-great-circle-digital-premium-upgrade.json](./332027-indiana-jones-and-the-great-circle-digital-premium-upgrade.json) |
 | Indiana Jones and The Great Circle: Premium Edition | 317815 | [317815-indiana-jones-and-the-great-circle-premium-edition.json](./317815-indiana-jones-and-the-great-circle-premium-edition.json) |
 | Indiana Jones and the Great Circle: The Order of Giants | 321852 | [321852-indiana-jones-and-the-great-circle-the-order-of-giants.json](./321852-indiana-jones-and-the-great-circle-the-order-of-giants.json) |
+| Indiana Jones and the Infernal Machine | 200405 | [200405-indiana-jones-and-the-infernal-machine.json](./200405-indiana-jones-and-the-infernal-machine.json) |
 | Indiana Jones and the Last Crusade: The Action Game | 185 | [185-indiana-jones-and-the-last-crusade-the-action-game.json](./185-indiana-jones-and-the-last-crusade-the-action-game.json) |
 | Indiana Jones and the Last Crusade: The Action Game | 307079 | [307079-indiana-jones-and-the-last-crusade-the-action-game.json](./307079-indiana-jones-and-the-last-crusade-the-action-game.json) |
 | Indiana Jones and the Lost Puzzles | 61042 | [61042-indiana-jones-and-the-lost-puzzles.json](./61042-indiana-jones-and-the-lost-puzzles.json) |
