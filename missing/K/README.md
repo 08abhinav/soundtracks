@@ -1194,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ketsui Death Label | 47856 | [47856-ketsui-death-label.json](./47856-ketsui-death-label.json) |
 | Ketsui: Kizuna Jigoku Tachi Extra | 79853 | [79853-ketsui-kizuna-jigoku-tachi-extra.json](./79853-ketsui-kizuna-jigoku-tachi-extra.json) |
 | Ketsui: Kizuna Jigoku-tachi | 214717 | [214717-ketsui-kizuna-jigoku-tachi.json](./214717-ketsui-kizuna-jigoku-tachi.json) |
+| Ketsui: Kizuna Jigoku-tachi DX | 214714 | [214714-ketsui-kizuna-jigoku-tachi-dx.json](./214714-ketsui-kizuna-jigoku-tachi-dx.json) |
 | Ketto Majiku | 105123 | [105123-ketto-majiku.json](./105123-ketto-majiku.json) |
 | Ketu de Ganba | 97999 | [97999-ketu-de-ganba.json](./97999-ketu-de-ganba.json) |
 | Keturan | 358470 | [358470-keturan.json](./358470-keturan.json) |
