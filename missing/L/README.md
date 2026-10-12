@@ -1661,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Johnny | 366351 | [366351-legend-of-johnny.json](./366351-legend-of-johnny.json) |
 | Legend of Junior | 112521 | [112521-legend-of-junior.json](./112521-legend-of-junior.json) |
 | Legend of K-1 Grand Prix '96 | 66886 | [66886-legend-of-k-1-grand-prix-96.json](./66886-legend-of-k-1-grand-prix-96.json) |
+| Legend of Kay | 194236 | [194236-legend-of-kay.json](./194236-legend-of-kay.json) |
 | Legend of Kay | 3219 | [3219-legend-of-kay.json](./3219-legend-of-kay.json) |
 | Legend of Keepers | 111965 | [111965-legend-of-keepers.json](./111965-legend-of-keepers.json) |
 | Legend of Keepers Collection | 222226 | [222226-legend-of-keepers-collection.json](./222226-legend-of-keepers-collection.json) |
@@ -1875,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of War: Patton | 20015 | [20015-legends-of-war-patton.json](./20015-legends-of-war-patton.json) |
 | Legends of Wasteland | 391113 | [391113-legends-of-wasteland.json](./391113-legends-of-wasteland.json) |
 | Legends of Wrestling | 3974 | [3974-legends-of-wrestling.json](./3974-legends-of-wrestling.json) |
+| Legends of Wrestling II | 194214 | [194214-legends-of-wrestling-ii.json](./194214-legends-of-wrestling-ii.json) |
 | Legends of Zork | 69302 | [69302-legends-of-zork.json](./69302-legends-of-zork.json) |
 | Legends Scrolls | 247215 | [247215-legends-scrolls.json](./247215-legends-scrolls.json) |
 | Legends: Saint George | 349812 | [349812-legends-saint-george.json](./349812-legends-saint-george.json) |
