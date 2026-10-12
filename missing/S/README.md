@@ -2351,6 +2351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scratchers | 352885 | [352885-scratchers.json](./352885-scratchers.json) |
 | Scratches | 11836 | [11836-scratches.json](./11836-scratches.json) |
 | Scratchin' Melodii | 215235 | [215235-scratchin-melodii.json](./215235-scratchin-melodii.json) |
+| ScrawlBrawl | 194902 | [194902-scrawlbrawl.json](./194902-scrawlbrawl.json) |
 | Scream and Steel: Horror Story Shooter | 284493 | [284493-scream-and-steel-horror-story-shooter.json](./284493-scream-and-steel-horror-story-shooter.json) |
 | Scream Collector | 74450 | [74450-scream-collector.json](./74450-scream-collector.json) |
 | Scream Hero | 194000 | [194000-scream-hero.json](./194000-scream-hero.json) |
@@ -3066,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Security: The Horrible Nights | 298319 | [298319-security-the-horrible-nights.json](./298319-security-the-horrible-nights.json) |
 | Sedap! A Culinary Adventure | 273429 | [273429-sedap-a-culinary-adventure.json](./273429-sedap-a-culinary-adventure.json) |
 | Sedecktion | 297213 | [297213-sedecktion.json](./297213-sedecktion.json) |
+| Sedecordle | 194881 | [194881-sedecordle.json](./194881-sedecordle.json) |
 | Sedomairi | 159706 | [159706-sedomairi.json](./159706-sedomairi.json) |
 | Seduce Her Harem | 257865 | [257865-seduce-her-harem.json](./257865-seduce-her-harem.json) |
 | Seduce Me the Otome | 19075 | [19075-seduce-me-the-otome.json](./19075-seduce-me-the-otome.json) |
@@ -8247,6 +8249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slackball | 392905 | [392905-slackball.json](./392905-slackball.json) |
 | Slackers: Carts of Glory | 293685 | [293685-slackers-carts-of-glory.json](./293685-slackers-carts-of-glory.json) |
 | Slackjaw | 355520 | [355520-slackjaw.json](./355520-slackjaw.json) |
+| Slackline VR | 194920 | [194920-slackline-vr.json](./194920-slackline-vr.json) |
 | Slag | 253336 | [253336-slag.json](./253336-slag.json) |
 | Slag | 70398 | [70398-slag.json](./70398-slag.json) |
 | Slain 2: The Beast Within | 340587 | [340587-slain-2-the-beast-within.json](./340587-slain-2-the-beast-within.json) |
@@ -9141,6 +9144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Runner! | 223912 | [223912-smash-runner.json](./223912-smash-runner.json) |
 | Smash Rush | 127183 | [127183-smash-rush.json](./127183-smash-rush.json) |
 | Smash simulator | 320833 | [320833-smash-simulator.json](./320833-smash-simulator.json) |
+| Smash Slug | 194877 | [194877-smash-slug.json](./194877-smash-slug.json) |
 | Smash Splat Deluxe Set | 231788 | [231788-smash-splat-deluxe-set.json](./231788-smash-splat-deluxe-set.json) |
 | Smash Table Tennis | 84880 | [84880-smash-table-tennis.json](./84880-smash-table-tennis.json) |
 | Smash Team | 61735 | [61735-smash-team.json](./61735-smash-team.json) |
@@ -11079,6 +11083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Definitive | 370216 | [370216-sonic-definitive.json](./370216-sonic-definitive.json) |
 | Sonic Destiny | 331715 | [331715-sonic-destiny.json](./331715-sonic-destiny.json) |
 | Sonic Digitalized | 326152 | [326152-sonic-digitalized.json](./326152-sonic-digitalized.json) |
+| Sonic Dimensions | 194893 | [194893-sonic-dimensions.json](./194893-sonic-dimensions.json) |
 | Sonic Discovery | 321063 | [321063-sonic-discovery.json](./321063-sonic-discovery.json) |
 | Sonic Discovery | 321064 | [321064-sonic-discovery.json](./321064-sonic-discovery.json) |
 | Sonic DL Adventure | 318512 | [318512-sonic-dl-adventure.json](./318512-sonic-dl-adventure.json) |
@@ -14875,6 +14880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squally | 111118 | [111118-squally.json](./111118-squally.json) |
 | Squamations | 197219 | [197219-squamations.json](./197219-squamations.json) |
 | Squarcat | 124056 | [124056-squarcat.json](./124056-squarcat.json) |
+| Squardle | 194885 | [194885-squardle.json](./194885-squardle.json) |
 | Square | 195626 | [195626-square.json](./195626-square.json) |
 | Square | 208591 | [208591-square.json](./208591-square.json) |
 | Square | 247020 | [247020-square.json](./247020-square.json) |
@@ -20756,6 +20762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mega Runners | 365137 | [365137-super-mega-runners.json](./365137-super-mega-runners.json) |
 | Super Mega Space Blaster Special | 119009 | [119009-super-mega-space-blaster-special.json](./119009-super-mega-space-blaster-special.json) |
 | Super Mega Zero | 194981 | [194981-super-mega-zero.json](./194981-super-mega-zero.json) |
+| Super Melee Adventure 64 | 194874 | [194874-super-melee-adventure-64.json](./194874-super-melee-adventure-64.json) |
 | Super Methane Bros | 12785 | [12785-super-methane-bros.json](./12785-super-methane-bros.json) |
 | Super Metroid and A Link to the Past Crossover Randomizer | 210231 | [210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json](./210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json) |
 | Super Metroid Arcade | 330214 | [330214-super-metroid-arcade.json](./330214-super-metroid-arcade.json) |
@@ -20855,6 +20862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Muscle Mario Bros | 323808 | [323808-super-muscle-mario-bros.json](./323808-super-muscle-mario-bros.json) |
 | Super Mustache | 24616 | [24616-super-mustache.json](./24616-super-mustache.json) |
 | Super Nanaru | 183864 | [183864-super-nanaru.json](./183864-super-nanaru.json) |
+| Super Nano Blaster | 194914 | [194914-super-nano-blaster.json](./194914-super-nano-blaster.json) |
 | Super Nano Jumpers | 36960 | [36960-super-nano-jumpers.json](./36960-super-nano-jumpers.json) |
 | Super Nantucket World | 312875 | [312875-super-nantucket-world.json](./312875-super-nantucket-world.json) |
 | Super Nario World | 316627 | [316627-super-nario-world.json](./316627-super-nario-world.json) |
