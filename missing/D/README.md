@@ -2441,6 +2441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Trip: Hope | 236758 | [236758-dead-trip-hope.json](./236758-dead-trip-hope.json) |
 | Dead Tropics | 96907 | [96907-dead-tropics.json](./96907-dead-tropics.json) |
 | Dead Trust | 383614 | [383614-dead-trust.json](./383614-dead-trust.json) |
+| Dead Tunnel | 192651 | [192651-dead-tunnel.json](./192651-dead-tunnel.json) |
 | Dead Venture | 234609 | [234609-dead-venture.json](./234609-dead-venture.json) |
 | Dead Watch | 347900 | [347900-dead-watch.json](./347900-dead-watch.json) |
 | Dead Weight | 288215 | [288215-dead-weight.json](./288215-dead-weight.json) |
@@ -3073,6 +3074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decide in 5 Seconds: Who Is the Culprit? | 409665 | [409665-decide-in-5-seconds-who-is-the-culprit.json](./409665-decide-in-5-seconds-who-is-the-culprit.json) |
 | Decide Your Fate | 405694 | [405694-decide-your-fate.json](./405694-decide-your-fate.json) |
 | Decidit | 317328 | [317328-decidit.json](./317328-decidit.json) |
+| Decimal | 192659 | [192659-decimal.json](./192659-decimal.json) |
 | Decimated | 206358 | [206358-decimated.json](./206358-decimated.json) |
 | Decimation X | 66374 | [66374-decimation-x.json](./66374-decimation-x.json) |
 | Decipher the Deck | 309473 | [309473-decipher-the-deck.json](./309473-decipher-the-deck.json) |
@@ -5897,6 +5899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Runners | 192802 | [192802-diner-runners.json](./192802-diner-runners.json) |
 | Diner Simulator | 345063 | [345063-diner-simulator.json](./345063-diner-simulator.json) |
 | Diner Simulator: Horror Story | 326200 | [326200-diner-simulator-horror-story.json](./326200-diner-simulator-horror-story.json) |
+| Diner Together | 192648 | [192648-diner-together.json](./192648-diner-together.json) |
 | Ding Dong Dang | 302470 | [302470-ding-dong-dang.json](./302470-ding-dong-dang.json) |
 | Ding Dong Dead | 272495 | [272495-ding-dong-dead.json](./272495-ding-dong-dead.json) |
 | Ding Dong Pitch | 379555 | [379555-ding-dong-pitch.json](./379555-ding-dong-pitch.json) |
@@ -9435,6 +9438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Nest Escape | 315645 | [315645-dragon-nest-escape.json](./315645-dragon-nest-escape.json) |
 | Dragon Nest M | 104643 | [104643-dragon-nest-m.json](./104643-dragon-nest-m.json) |
 | Dragon Nest: Rebirth of Legend | 345998 | [345998-dragon-nest-rebirth-of-legend.json](./345998-dragon-nest-rebirth-of-legend.json) |
+| Dragon Ninja Byoka | 192628 | [192628-dragon-ninja-byoka.json](./192628-dragon-ninja-byoka.json) |
 | Dragon Oath | 59945 | [59945-dragon-oath.json](./59945-dragon-oath.json) |
 | Dragon of Calon Valley | 323737 | [323737-dragon-of-calon-valley.json](./323737-dragon-of-calon-valley.json) |
 | Dragon of Illusion | 407283 | [407283-dragon-of-illusion.json](./407283-dragon-of-illusion.json) |
