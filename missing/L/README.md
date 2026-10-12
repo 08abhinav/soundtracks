@@ -4214,6 +4214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Llama God | 179991 | [179991-llama-god.json](./179991-llama-god.json) |
 | Llama Legends | 394812 | [394812-llama-legends.json](./394812-llama-legends.json) |
 | Llama Villa | 129572 | [129572-llama-villa.json](./129572-llama-villa.json) |
+| LlamaCarrot | 202032 | [202032-llamacarrot.json](./202032-llamacarrot.json) |
 | Llamagotchi | 223597 | [223597-llamagotchi.json](./223597-llamagotchi.json) |
 | Llamalandia | 258002 | [258002-llamalandia.json](./258002-llamalandia.json) |
 | Llamas With Hats: Cruise Catastrophe | 63336 | [63336-llamas-with-hats-cruise-catastrophe.json](./63336-llamas-with-hats-cruise-catastrophe.json) |
