@@ -2042,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Maker | 240352 | [240352-9-maker.json](./240352-9-maker.json) |
 | 9 Men's Morris | 351067 | [351067-9-mens-morris.json](./351067-9-mens-morris.json) |
 | 9 Monkeys of Shaolin | 94078 | [94078-9-monkeys-of-shaolin.json](./94078-9-monkeys-of-shaolin.json) |
+| 9 Monkeys of Shaolin + Ash of Gods + Redeemer: Bundle | 194258 | [194258-9-monkeys-of-shaolin-ash-of-gods-redeemer-bundle.json](./194258-9-monkeys-of-shaolin-ash-of-gods-redeemer-bundle.json) |
 | 9 R.I.P. | 241526 | [241526-9-r-i-p.json](./241526-9-r-i-p.json) |
 | 9 R.I.P.: Special Edition | 257269 | [257269-9-r-i-p-special-edition.json](./257269-9-r-i-p-special-edition.json) |
 | 9 Realms | 258564 | [258564-9-realms.json](./258564-9-realms.json) |
