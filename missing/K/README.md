@@ -1561,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Invaders | 278714 | [278714-kill-invaders.json](./278714-kill-invaders.json) |
 | Kill It With Fire | 130508 | [130508-kill-it-with-fire.json](./130508-kill-it-with-fire.json) |
 | Kill it with Fire 2 | 252847 | [252847-kill-it-with-fire-2.json](./252847-kill-it-with-fire-2.json) |
+| Kill It With Fire: Exterminator Edition | 208574 | [208574-kill-it-with-fire-exterminator-edition.json](./208574-kill-it-with-fire-exterminator-edition.json) |
 | Kill It With Fire: HeatWave | 137005 | [137005-kill-it-with-fire-heatwave.json](./137005-kill-it-with-fire-heatwave.json) |
 | Kill Kill Kill Kill | 312579 | [312579-kill-kill-kill-kill.json](./312579-kill-kill-kill-kill.json) |
 | Kill la Kill: IF - Limited Box Edition | 167112 | [167112-kill-la-kill-if-limited-box-edition.json](./167112-kill-la-kill-if-limited-box-edition.json) |
@@ -2656,6 +2657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Tactics | 149510 | [149510-kitty-tactics.json](./149510-kitty-tactics.json) |
 | Kitty: Isolation | 139320 | [139320-kitty-isolation.json](./139320-kitty-isolation.json) |
 | Kitty's Adventure for XBox One | 358365 | [358365-kittys-adventure-for-xbox-one.json](./358365-kittys-adventure-for-xbox-one.json) |
+| Kitty's Catch | 210227 | [210227-kittys-catch.json](./210227-kittys-catch.json) |
 | Kitty's Hungry Adventure | 367550 | [367550-kittys-hungry-adventure.json](./367550-kittys-hungry-adventure.json) |
 | Kitty's Last Adventure | 295372 | [295372-kittys-last-adventure.json](./295372-kittys-last-adventure.json) |
 | Kitty's Venture | 214123 | [214123-kittys-venture.json](./214123-kittys-venture.json) |
