@@ -10178,6 +10178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokoban | 47946 | [47946-sokoban.json](./47946-sokoban.json) |
 | Sokoban | 6136 | [6136-sokoban.json](./6136-sokoban.json) |
 | Sokoban (Boxman) Classic | 171619 | [171619-sokoban-boxman-classic.json](./171619-sokoban-boxman-classic.json) |
+| Sokoban Block Puzzle | 215315 | [215315-sokoban-block-puzzle.json](./215315-sokoban-block-puzzle.json) |
 | Sokoban DS | 307081 | [307081-sokoban-ds.json](./307081-sokoban-ds.json) |
 | Sokoban Gianta | 155973 | [155973-sokoban-gianta.json](./155973-sokoban-gianta.json) |
 | Sokoban Land DX | 44206 | [44206-sokoban-land-dx.json](./44206-sokoban-land-dx.json) |
@@ -17803,6 +17804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streamline | 177552 | [177552-streamline.json](./177552-streamline.json) |
 | Streamline | 20178 | [20178-streamline.json](./20178-streamline.json) |
 | Streamline | 81180 | [81180-streamline.json](./81180-streamline.json) |
+| Streamonaire | 215310 | [215310-streamonaire.json](./215310-streamonaire.json) |
 | Streamtubers | 370565 | [370565-streamtubers.json](./370565-streamtubers.json) |
 | StreamWalker Tribes | 180252 | [180252-streamwalker-tribes.json](./180252-streamwalker-tribes.json) |
 | StreamWare | 278631 | [278631-streamware.json](./278631-streamware.json) |
