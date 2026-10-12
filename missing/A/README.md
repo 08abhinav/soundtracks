@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Aventura Máxica de Merliño | 362969 | [362969-a-aventura-maxica-de-merlino.json](./362969-a-aventura-maxica-de-merlino.json) |
 | A Baby CEO?! | 391884 | [391884-a-baby-ceo.json](./391884-a-baby-ceo.json) |
 | A Bad Clicker | 337787 | [337787-a-bad-clicker.json](./337787-a-bad-clicker.json) |
+| A Bad Day | 180555 | [180555-a-bad-day.json](./180555-a-bad-day.json) |
 | A Balloon Game | 266127 | [266127-a-balloon-game.json](./266127-a-balloon-game.json) |
 | A Bark in the Dark | 225289 | [225289-a-bark-in-the-dark.json](./225289-a-bark-in-the-dark.json) |
 | A Bear's Night Out | 124606 | [124606-a-bears-night-out.json](./124606-a-bears-night-out.json) |
@@ -686,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Simple Shooter | 179578 | [179578-a-simple-shooter.json](./179578-a-simple-shooter.json) |
 | A Simple Square | 236226 | [236226-a-simple-square.json](./236226-a-simple-square.json) |
 | A Sirius Game | 34694 | [34694-a-sirius-game.json](./34694-a-sirius-game.json) |
+| A Skier's Journey | 180504 | [180504-a-skiers-journey.json](./180504-a-skiers-journey.json) |
 | A Sky Full of Stars Interstellar Focus | 150590 | [150590-a-sky-full-of-stars-interstellar-focus.json](./150590-a-sky-full-of-stars-interstellar-focus.json) |
 | A Skyrocket Story | 58800 | [58800-a-skyrocket-story.json](./58800-a-skyrocket-story.json) |
 | A Slice of Lunch | 372799 | [372799-a-slice-of-lunch.json](./372799-a-slice-of-lunch.json) |
@@ -1566,6 +1568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Squadron: WWII Conflicts | 223931 | [223931-ace-squadron-wwii-conflicts.json](./223931-ace-squadron-wwii-conflicts.json) |
 | Ace Squared | 337793 | [337793-ace-squared.json](./337793-ace-squared.json) |
 | Ace Strategy Mecha Nova | 335857 | [335857-ace-strategy-mecha-nova.json](./335857-ace-strategy-mecha-nova.json) |
+| Ace Tennis 64 | 180516 | [180516-ace-tennis-64.json](./180516-ace-tennis-64.json) |
 | Ace the Space-Case | 76194 | [76194-ace-the-space-case.json](./76194-ace-the-space-case.json) |
 | Ace Triad | 283890 | [283890-ace-triad.json](./283890-ace-triad.json) |
 | Ace Ventura | 4586 | [4586-ace-ventura.json](./4586-ace-ventura.json) |
@@ -10627,6 +10630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Killer Tomatoes | 273079 | [273079-attack-of-the-killer-tomatoes.json](./273079-attack-of-the-killer-tomatoes.json) |
 | Attack of the Killer Tomatoes | 7761 | [7761-attack-of-the-killer-tomatoes.json](./7761-attack-of-the-killer-tomatoes.json) |
 | Attack of the Movies 3D | 4683 | [4683-attack-of-the-movies-3d.json](./4683-attack-of-the-movies-3d.json) |
+| Attack of the Murder Hornets | 180495 | [180495-attack-of-the-murder-hornets.json](./180495-attack-of-the-murder-hornets.json) |
 | Attack of the Mutant Artificial Trees | 229250 | [229250-attack-of-the-mutant-artificial-trees.json](./229250-attack-of-the-mutant-artificial-trees.json) |
 | Attack of the Mutant Camels | 13823 | [13823-attack-of-the-mutant-camels.json](./13823-attack-of-the-mutant-camels.json) |
 | Attack of the Mutant Camels '89 | 318633 | [318633-attack-of-the-mutant-camels-89.json](./318633-attack-of-the-mutant-camels-89.json) |
