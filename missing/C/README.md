@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards | 12918 | [12918-cards.json](./12918-cards.json) |
 | Cards & Cannons | 399261 | [399261-cards-and-cannons.json](./399261-cards-and-cannons.json) |
 | Cards & Crystals | 156007 | [156007-cards-and-crystals.json](./156007-cards-and-crystals.json) |
+| Cards & Dragon Sealed | 206430 | [206430-cards-and-dragon-sealed.json](./206430-cards-and-dragon-sealed.json) |
 | Cards & Tankards | 143354 | [143354-cards-and-tankards.json](./143354-cards-and-tankards.json) |
 | Cards +1 | 182850 | [182850-cards-1.json](./182850-cards-1.json) |
 | Cards after Midnight | 420538 | [420538-cards-after-midnight.json](./420538-cards-after-midnight.json) |
@@ -3713,6 +3714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos;Head Noah / Chaos;Child Double Pack | 194326 | [194326-chaos-head-noah-chaos-child-double-pack.json](./194326-chaos-head-noah-chaos-child-double-pack.json) |
 | Chaos;Head Noah / Chaos;Child Double Pack: SteelBook Launch Edition | 194407 | [194407-chaos-head-noah-chaos-child-double-pack-steelbook-launch-edition.json](./194407-chaos-head-noah-chaos-child-double-pack-steelbook-launch-edition.json) |
 | Chaos: Immortal Era | 224081 | [224081-chaos-immortal-era.json](./224081-chaos-immortal-era.json) |
+| Chaosground: The Siege for Freedom | 206435 | [206435-chaosground-the-siege-for-freedom.json](./206435-chaosground-the-siege-for-freedom.json) |
 | Chāoshí Kōng zhī Lún | 281408 | [281408-chaoshi-kong-zhi-lun.json](./281408-chaoshi-kong-zhi-lun.json) |
 | ChaosTower | 120326 | [120326-chaostower.json](./120326-chaostower.json) |
 | ChaosWorld | 221183 | [221183-chaosworld.json](./221183-chaosworld.json) |
@@ -4728,6 +4730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiyokagi | 222356 | [222356-chiyokagi.json](./222356-chiyokagi.json) |
 | Chiyonofuji no Ooichou | 48536 | [48536-chiyonofuji-no-ooichou.json](./48536-chiyonofuji-no-ooichou.json) |
 | Chǐzǐ hé Xiàngpí | 99068 | [99068-chizi-he-xiangpi.json](./99068-chizi-he-xiangpi.json) |
+| Chizome Kijo | 206457 | [206457-chizome-kijo.json](./206457-chizome-kijo.json) |
 | Chkn | 34021 | [34021-chkn.json](./34021-chkn.json) |
 | Chloe Puzzle Game | 162247 | [162247-chloe-puzzle-game.json](./162247-chloe-puzzle-game.json) |
 | Chloe's Requiem | 124639 | [124639-chloes-requiem.json](./124639-chloes-requiem.json) |
@@ -5702,6 +5705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citrus | 104440 | [104440-citrus.json](./104440-citrus.json) |
 | Citrus Rampage | 189073 | [189073-citrus-rampage.json](./189073-citrus-rampage.json) |
 | Citrus Summer | 373888 | [373888-citrus-summer.json](./373888-citrus-summer.json) |
+| Citrus Trance | 206425 | [206425-citrus-trance.json](./206425-citrus-trance.json) |
 | CitrusBall | 355162 | [355162-citrusball.json](./355162-citrusball.json) |
 | CiTV Racing | 325555 | [325555-citv-racing.json](./325555-citv-racing.json) |
 | City | 175689 | [175689-city.json](./175689-city.json) |
@@ -7194,6 +7198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Abyss | 325709 | [325709-cold-abyss.json](./325709-cold-abyss.json) |
 | Cold Alley | 74335 | [74335-cold-alley.json](./74335-cold-alley.json) |
 | Cold and Unforgiving | 276108 | [276108-cold-and-unforgiving.json](./276108-cold-and-unforgiving.json) |
+| Cold Bed on Route | 206454 | [206454-cold-bed-on-route.json](./206454-cold-bed-on-route.json) |
 | Cold Bite | 115008 | [115008-cold-bite.json](./115008-cold-bite.json) |
 | Cold Blooded | 338875 | [338875-cold-blooded.json](./338875-cold-blooded.json) |
 | Cold Boot | 348876 | [348876-cold-boot.json](./348876-cold-boot.json) |
