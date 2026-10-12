@@ -3233,6 +3233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Down Below | 373157 | [373157-deep-down-below.json](./373157-deep-down-below.json) |
 | Deep Duck Trouble Starring Donald Duck | 8447 | [8447-deep-duck-trouble-starring-donald-duck.json](./8447-deep-duck-trouble-starring-donald-duck.json) |
 | Deep Dungeon | 177860 | [177860-deep-dungeon.json](./177860-deep-dungeon.json) |
+| Deep Dungeon | 219235 | [219235-deep-dungeon.json](./219235-deep-dungeon.json) |
 | Deep Dungeon Adventure | 311984 | [311984-deep-dungeon-adventure.json](./311984-deep-dungeon-adventure.json) |
 | Deep Dungeons of Doom | 17876 | [17876-deep-dungeons-of-doom.json](./17876-deep-dungeons-of-doom.json) |
 | Deep Echo | 25762 | [25762-deep-echo.json](./25762-deep-echo.json) |
@@ -3424,6 +3425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Man | 19045 | [19045-deer-man.json](./19045-deer-man.json) |
 | Deer Napped | 93223 | [93223-deer-napped.json](./93223-deer-napped.json) |
 | Deer Simulator | 83185 | [83185-deer-simulator.json](./83185-deer-simulator.json) |
+| DeerHunterFan.com TV: The Season | 219236 | [219236-deerhunterfan-com-tv-the-season.json](./219236-deerhunterfan-com-tv-the-season.json) |
 | Deerlivery | 361738 | [361738-deerlivery.json](./361738-deerlivery.json) |
 | Deers and Deckards | 284400 | [284400-deers-and-deckards.json](./284400-deers-and-deckards.json) |
 | Deesse: Love and War | 231962 | [231962-deesse-love-and-war.json](./231962-deesse-love-and-war.json) |
@@ -3447,6 +3449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defeated Girl | 219038 | [219038-defeated-girl.json](./219038-defeated-girl.json) |
 | Defect | 21928 | [21928-defect.json](./21928-defect.json) |
 | Defect | 313764 | [313764-defect.json](./313764-defect.json) |
+| Defect detector | 219237 | [219237-defect-detector.json](./219237-defect-detector.json) |
 | Defect Process | 173029 | [173029-defect-process.json](./173029-defect-process.json) |
 | Defective | 343738 | [343738-defective.json](./343738-defective.json) |
 | Defence Agent Gaya | 82906 | [82906-defence-agent-gaya.json](./82906-defence-agent-gaya.json) |
@@ -3906,6 +3909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolish & Build | 135607 | [135607-demolish-and-build.json](./135607-demolish-and-build.json) |
 | Demolish & Build 2017 | 24941 | [24941-demolish-and-build-2017.json](./24941-demolish-and-build-2017.json) |
 | Demolish & Build 2018 | 90102 | [90102-demolish-and-build-2018.json](./90102-demolish-and-build-2018.json) |
+| Demolish or Die | 219239 | [219239-demolish-or-die.json](./219239-demolish-or-die.json) |
 | Demolition | 125341 | [125341-demolition.json](./125341-demolition.json) |
 | Demolition | 308335 | [308335-demolition.json](./308335-demolition.json) |
 | Demolition Ball | 102930 | [102930-demolition-ball.json](./102930-demolition-ball.json) |
@@ -4280,6 +4284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depths of Sanity | 55071 | [55071-depths-of-sanity.json](./55071-depths-of-sanity.json) |
 | Depths Unseen | 365271 | [365271-depths-unseen.json](./365271-depths-unseen.json) |
 | Depthscraper | 183890 | [183890-depthscraper.json](./183890-depthscraper.json) |
+| Deputinization | 219240 | [219240-deputinization.json](./219240-deputinization.json) |
 | Deputy Arsh | 329192 | [329192-deputy-arsh.json](./329192-deputy-arsh.json) |
 | Deputy Den | 346751 | [346751-deputy-den.json](./346751-deputy-den.json) |
 | Dequivsia | 326603 | [326603-dequivsia.json](./326603-dequivsia.json) |
@@ -4355,6 +4360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deriver | 401714 | [401714-deriver.json](./401714-deriver.json) |
 | Dermapis | 359056 | [359056-dermapis.json](./359056-dermapis.json) |
 | Dermimi's! | 327898 | [327898-dermimis.json](./327898-dermimis.json) |
+| Derp Souls | 219241 | [219241-derp-souls.json](./219241-derp-souls.json) |
 | Derpy Dinos | 74433 | [74433-derpy-dinos.json](./74433-derpy-dinos.json) |
 | Derpy Fish | 356078 | [356078-derpy-fish.json](./356078-derpy-fish.json) |
 | Derpy Pirates! The Search for the Bungalow | 126425 | [126425-derpy-pirates-the-search-for-the-bungalow.json](./126425-derpy-pirates-the-search-for-the-bungalow.json) |
@@ -4610,6 +4616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | deSpiria | 92865 | [92865-despiria.json](./92865-despiria.json) |
 | Despoiler | 87036 | [87036-despoiler.json](./87036-despoiler.json) |
 | Despot Zombie | 291698 | [291698-despot-zombie.json](./291698-despot-zombie.json) |
+| Despot's Game: Challenges | 219242 | [219242-despots-game-challenges.json](./219242-despots-game-challenges.json) |
 | Despot's Game: Collector's Edition | 219052 | [219052-despots-game-collectors-edition.json](./219052-despots-game-collectors-edition.json) |
 | Despotik Design | 13591 | [13591-despotik-design.json](./13591-despotik-design.json) |
 | Despotism 3k | 75056 | [75056-despotism-3k.json](./75056-despotism-3k.json) |
@@ -4902,6 +4909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detourist | 278744 | [278744-detourist.json](./278744-detourist.json) |
 | Detox | 181882 | [181882-detox.json](./181882-detox.json) |
 | Detra | 345560 | [345560-detra.json](./345560-detra.json) |
+| Detriot | 219243 | [219243-detriot.json](./219243-detriot.json) |
 | Detrita Battlegrounds | 54494 | [54494-detrita-battlegrounds.json](./54494-detrita-battlegrounds.json) |
 | Detritus | 192392 | [192392-detritus.json](./192392-detritus.json) |
 | Detroit | 71813 | [71813-detroit.json](./71813-detroit.json) |
@@ -5987,6 +5995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino's Offline Adventure | 195208 | [195208-dinos-offline-adventure.json](./195208-dinos-offline-adventure.json) |
 | Dinobag's Arcade | 169749 | [169749-dinobags-arcade.json](./169749-dinobags-arcade.json) |
 | Dinoblade | 330174 | [330174-dinoblade.json](./330174-dinoblade.json) |
+| Dinoblits | 219244 | [219244-dinoblits.json](./219244-dinoblits.json) |
 | Dinobot and Tiara Present: ApplePop | 240826 | [240826-dinobot-and-tiara-present-applepop.json](./240826-dinobot-and-tiara-present-applepop.json) |
 | DinoBox | 417416 | [417416-dinobox.json](./417416-dinobox.json) |
 | Dinobreak | 264154 | [264154-dinobreak.json](./264154-dinobreak.json) |
@@ -6184,6 +6193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Horror | 236222 | [236222-dirty-horror.json](./236222-dirty-horror.json) |
 | Dirty House | 278158 | [278158-dirty-house.json](./278158-dirty-house.json) |
 | Dirty Kids | 100160 | [100160-dirty-kids.json](./100160-dirty-kids.json) |
+| Dirty Land | 219245 | [219245-dirty-land.json](./219245-dirty-land.json) |
 | Dirty Laundry | 406832 | [406832-dirty-laundry.json](./406832-dirty-laundry.json) |
 | Dirty Little Puzzle | 416067 | [416067-dirty-little-puzzle.json](./416067-dirty-little-puzzle.json) |
 | Dirty Little Secrets | 313891 | [313891-dirty-little-secrets.json](./313891-dirty-little-secrets.json) |
