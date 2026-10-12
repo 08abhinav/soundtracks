@@ -1477,6 +1477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mainasutto: I'm Not Alone | 268991 | [268991-mainasutto-im-not-alone.json](./268991-mainasutto-im-not-alone.json) |
 | Mainbody | 223424 | [223424-mainbody.json](./223424-mainbody.json) |
 | MainFighter | 185493 | [185493-mainfighter.json](./185493-mainfighter.json) |
+| Mainframe | 182779 | [182779-mainframe.json](./182779-mainframe.json) |
 | Mainframe Escape | 417386 | [417386-mainframe-escape.json](./417386-mainframe-escape.json) |
 | Mainframe Men | 384147 | [384147-mainframe-men.json](./384147-mainframe-men.json) |
 | MainFrames | 313809 | [313809-mainframes.json](./313809-mainframes.json) |
