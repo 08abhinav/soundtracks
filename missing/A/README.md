@@ -3426,6 +3426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirMech: Command | 19899 | [19899-airmech-command.json](./19899-airmech-command.json) |
 | AironBall: The Floating Lands | 44225 | [44225-aironball-the-floating-lands.json](./44225-aironball-the-floating-lands.json) |
 | Airplane Attack | 358847 | [358847-airplane-attack.json](./358847-airplane-attack.json) |
+| Airplane Chefs | 142762 | [142762-airplane-chefs.json](./142762-airplane-chefs.json) |
 | Airplane Delivery Simulator 2024: Realistic Geographical | 300962 | [300962-airplane-delivery-simulator-2024-realistic-geographical.json](./300962-airplane-delivery-simulator-2024-realistic-geographical.json) |
 | Airplane Flight Simulator | 251630 | [251630-airplane-flight-simulator.json](./251630-airplane-flight-simulator.json) |
 | Airplane Flight Simulator: Dangerous Landings | 328580 | [328580-airplane-flight-simulator-dangerous-landings.json](./328580-airplane-flight-simulator-dangerous-landings.json) |
@@ -5554,6 +5555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Shadows | 380068 | [380068-among-shadows.json](./380068-among-shadows.json) |
 | Among Space | 354940 | [354940-among-space.json](./354940-among-space.json) |
 | Among Stars | 211405 | [211405-among-stars.json](./211405-among-stars.json) |
+| Among Stars and Robots | 142798 | [142798-among-stars-and-robots.json](./142798-among-stars-and-robots.json) |
 | Among the Clouds | 397421 | [397421-among-the-clouds.json](./397421-among-the-clouds.json) |
 | Among The Dead | 303157 | [303157-among-the-dead.json](./303157-among-the-dead.json) |
 | Among the Dead Ones | 174671 | [174671-among-the-dead-ones.json](./174671-among-the-dead-ones.json) |
@@ -6638,6 +6640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anna's Quest | 11367 | [11367-annas-quest.json](./11367-annas-quest.json) |
 | Annabel | 92055 | [92055-annabel.json](./92055-annabel.json) |
 | Annabel Gray | 15596 | [15596-annabel-gray.json](./15596-annabel-gray.json) |
+| Annalynn | 142687 | [142687-annalynn.json](./142687-annalynn.json) |
 | Annapurna Interactive Deluxe Limited Edition | 138780 | [138780-annapurna-interactive-deluxe-limited-edition.json](./138780-annapurna-interactive-deluxe-limited-edition.json) |
 | AnnaTommy | 218102 | [218102-annatommy.json](./218102-annatommy.json) |
 | Anne Frank House VR | 143341 | [143341-anne-frank-house-vr.json](./143341-anne-frank-house-vr.json) |
@@ -7283,6 +7286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends: Prodigy | 342775 | [342775-apex-legends-prodigy.json](./342775-apex-legends-prodigy.json) |
 | Apex Legends: Season 5 | 133259 | [133259-apex-legends-season-5.json](./133259-apex-legends-season-5.json) |
 | Apex Legends: Season 7 | 140448 | [140448-apex-legends-season-7.json](./140448-apex-legends-season-7.json) |
+| Apex Legends: Season 8 | 142781 | [142781-apex-legends-season-8.json](./142781-apex-legends-season-8.json) |
 | Apex Legends: Shockwave | 314909 | [314909-apex-legends-shockwave.json](./314909-apex-legends-shockwave.json) |
 | Apex Legends: Takeover | 333785 | [333785-apex-legends-takeover.json](./333785-apex-legends-takeover.json) |
 | Apex Legends: Upheaval | 300464 | [300464-apex-legends-upheaval.json](./300464-apex-legends-upheaval.json) |
@@ -7910,6 +7914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Ridge Racer | 347092 | [347092-arcade-archives-ridge-racer.json](./347092-arcade-archives-ridge-racer.json) |
 | Arcade Archives: Riot | 321501 | [321501-arcade-archives-riot.json](./321501-arcade-archives-riot.json) |
 | Arcade Archives: Roc'n Rope | 381795 | [381795-arcade-archives-rocn-rope.json](./381795-arcade-archives-rocn-rope.json) |
+| Arcade Archives: Rod Land | 142696 | [142696-arcade-archives-rod-land.json](./142696-arcade-archives-rod-land.json) |
 | Arcade Archives: Roller Jammer | 210745 | [210745-arcade-archives-roller-jammer.json](./210745-arcade-archives-roller-jammer.json) |
 | Arcade Archives: Rolling Thunder | 196174 | [196174-arcade-archives-rolling-thunder.json](./196174-arcade-archives-rolling-thunder.json) |
 | Arcade Archives: Rolling Thunder 2 | 251000 | [251000-arcade-archives-rolling-thunder-2.json](./251000-arcade-archives-rolling-thunder-2.json) |
