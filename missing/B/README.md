@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bago | 83449 | [83449-bago.json](./83449-bago.json) |
 | Bagration | 81665 | [81665-bagration.json](./81665-bagration.json) |
 | Bah, Humbug! | 97350 | [97350-bah-humbug.json](./97350-bah-humbug.json) |
+| Bahamian Rhapsody | 167378 | [167378-bahamian-rhapsody.json](./167378-bahamian-rhapsody.json) |
 | Bahamut and the Waqwaq Tree | 264652 | [264652-bahamut-and-the-waqwaq-tree.json](./264652-bahamut-and-the-waqwaq-tree.json) |
 | Bahamut Disco | 295932 | [295932-bahamut-disco.json](./295932-bahamut-disco.json) |
 | Bahamut Lagoon | 15843 | [15843-bahamut-lagoon.json](./15843-bahamut-lagoon.json) |
@@ -3828,6 +3829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beetlejuice: Bad as Can | 55287 | [55287-beetlejuice-bad-as-can.json](./55287-beetlejuice-bad-as-can.json) |
 | Beetlejuice: Horrific Hijinx from the Neitherworld! | 80889 | [80889-beetlejuice-horrific-hijinx-from-the-neitherworld.json](./80889-beetlejuice-horrific-hijinx-from-the-neitherworld.json) |
 | Beetlenaut | 62197 | [62197-beetlenaut.json](./62197-beetlenaut.json) |
+| BeetleQuest | 167391 | [167391-beetlequest.json](./167391-beetlequest.json) |
 | BeetleQuest 2023 | 271289 | [271289-beetlequest-2023.json](./271289-beetlequest-2023.json) |
 | BeetleQuest: The Puzzle Game | 358449 | [358449-beetlequest-the-puzzle-game.json](./358449-beetlequest-the-puzzle-game.json) |
 | Beetles | 163819 | [163819-beetles.json](./163819-beetles.json) |
@@ -11776,6 +11778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buy Sell | 374158 | [374158-buy-sell.json](./374158-buy-sell.json) |
 | Buyhads | 169872 | [169872-buyhads.json](./169872-buyhads.json) |
 | Buying Tomato | 394869 | [394869-buying-tomato.json](./394869-buying-tomato.json) |
+| Bǔyú Zhàfāntiān | 167346 | [167346-buyu-zhafantian.json](./167346-buyu-zhafantian.json) |
 | Buzama ni! Gehin ni! Tsugou yoku! Kyokon Suuhai! Haramase Onaho Gakuen | 108915 | [108915-buzama-ni-gehin-ni-tsugou-yoku-kyokon-suuhai-haramase-onaho-gakuen.json](./108915-buzama-ni-gehin-ni-tsugou-yoku-kyokon-suuhai-haramase-onaho-gakuen.json) |
 | Buzludzha Evil | 328094 | [328094-buzludzha-evil.json](./328094-buzludzha-evil.json) |
 | Buzludzha VR | 126496 | [126496-buzludzha-vr.json](./126496-buzludzha-vr.json) |
