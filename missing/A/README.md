@@ -5386,6 +5386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator 2018 | 86722 | [86722-american-truck-simulator-2018.json](./86722-american-truck-simulator-2018.json) |
 | American Truck Simulator 2022 | 197844 | [197844-american-truck-simulator-2022.json](./197844-american-truck-simulator-2022.json) |
 | American Truck Simulator: British Columbia | 375345 | [375345-american-truck-simulator-british-columbia.json](./375345-american-truck-simulator-british-columbia.json) |
+| American Truck Simulator: Cabin Accessories | 155358 | [155358-american-truck-simulator-cabin-accessories.json](./155358-american-truck-simulator-cabin-accessories.json) |
 | American Truck Simulator: Christmas Paint Jobs Pack | 353403 | [353403-american-truck-simulator-christmas-paint-jobs-pack.json](./353403-american-truck-simulator-christmas-paint-jobs-pack.json) |
 | American Truck Simulator: Colorado | 167679 | [167679-american-truck-simulator-colorado.json](./167679-american-truck-simulator-colorado.json) |
 | American Truck Simulator: Dragon Truck Design Pack | 263050 | [263050-american-truck-simulator-dragon-truck-design-pack.json](./263050-american-truck-simulator-dragon-truck-design-pack.json) |
