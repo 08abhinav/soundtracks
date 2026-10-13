@@ -1600,6 +1600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill The Crows | 253394 | [253394-kill-the-crows.json](./253394-kill-the-crows.json) |
 | Kill the Cute | 244721 | [244721-kill-the-cute.json](./244721-kill-the-cute.json) |
 | Kill the Dictator | 111213 | [111213-kill-the-dictator.json](./111213-kill-the-dictator.json) |
+| Kill the Dragon | 175642 | [175642-kill-the-dragon.json](./175642-kill-the-dragon.json) |
 | Kill the Dragon | 184635 | [184635-kill-the-dragon.json](./184635-kill-the-dragon.json) |
 | Kill the Dragon | 268494 | [268494-kill-the-dragon.json](./268494-kill-the-dragon.json) |
 | Kill the Emoji | 54999 | [54999-kill-the-emoji.json](./54999-kill-the-emoji.json) |
