@@ -4121,6 +4121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Balls | 280256 | [280256-the-balls.json](./280256-the-balls.json) |
 | The Ballz are Lava! | 225695 | [225695-the-ballz-are-lava.json](./225695-the-ballz-are-lava.json) |
 | The Balrog and the Cat | 58857 | [58857-the-balrog-and-the-cat.json](./58857-the-balrog-and-the-cat.json) |
+| The Banana Saved the World | 157902 | [157902-the-banana-saved-the-world.json](./157902-the-banana-saved-the-world.json) |
 | The Bananatree Brothers | 97455 | [97455-the-bananatree-brothers.json](./97455-the-bananatree-brothers.json) |
 | The Bananatree Brothers: Eat Carrots | 97454 | [97454-the-bananatree-brothers-eat-carrots.json](./97454-the-bananatree-brothers-eat-carrots.json) |
 | The Banker Tycoon | 379340 | [379340-the-banker-tycoon.json](./379340-the-banker-tycoon.json) |
@@ -5604,6 +5605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dragon's Turnabout | 303025 | [303025-the-dragons-turnabout.json](./303025-the-dragons-turnabout.json) |
 | The Dragoness: Command of the Flame | 211984 | [211984-the-dragoness-command-of-the-flame.json](./211984-the-dragoness-command-of-the-flame.json) |
 | The Dragonspire | 306087 | [306087-the-dragonspire.json](./306087-the-dragonspire.json) |
+| The Drained Goddess | 157931 | [157931-the-drained-goddess.json](./157931-the-drained-goddess.json) |
 | The Draugr | 107004 | [107004-the-draugr.json](./107004-the-draugr.json) |
 | The Drawn Hour | 408727 | [408727-the-drawn-hour.json](./408727-the-drawn-hour.json) |
 | The Drawnjuring | 311807 | [311807-the-drawnjuring.json](./311807-the-drawnjuring.json) |
@@ -6390,6 +6392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten World | 244348 | [244348-the-forgotten-world.json](./244348-the-forgotten-world.json) |
 | The Forgotten: It Begins | 73526 | [73526-the-forgotten-it-begins.json](./73526-the-forgotten-it-begins.json) |
 | The Forlorn | 415163 | [415163-the-forlorn.json](./415163-the-forlorn.json) |
+| The Forsaken Ruins | 157911 | [157911-the-forsaken-ruins.json](./157911-the-forsaken-ruins.json) |
 | The Fortress | 346730 | [346730-the-fortress.json](./346730-the-fortress.json) |
 | The Fortune Teller Game | 342178 | [342178-the-fortune-teller-game.json](./342178-the-fortune-teller-game.json) |
 | The Found Magic | 386426 | [386426-the-found-magic.json](./386426-the-found-magic.json) |
@@ -8694,6 +8697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Frames | 309134 | [309134-the-lost-frames.json](./309134-the-lost-frames.json) |
 | The Lost Froglins | 401070 | [401070-the-lost-froglins.json](./401070-the-lost-froglins.json) |
 | The Lost Game | 119734 | [119734-the-lost-game.json](./119734-the-lost-game.json) |
+| The Lost Game: Royal Game of Ur | 157937 | [157937-the-lost-game-royal-game-of-ur.json](./157937-the-lost-game-royal-game-of-ur.json) |
 | The Lost Garden | 345981 | [345981-the-lost-garden.json](./345981-the-lost-garden.json) |
 | The Lost Gardens | 74646 | [74646-the-lost-gardens.json](./74646-the-lost-gardens.json) |
 | The Lost Girl | 225769 | [225769-the-lost-girl.json](./225769-the-lost-girl.json) |
@@ -15410,6 +15414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinkle Pit | 59666 | [59666-tinkle-pit.json](./59666-tinkle-pit.json) |
 | Tinny Strays | 409507 | [409507-tinny-strays.json](./409507-tinny-strays.json) |
 | Tino's Fruit Stand | 327254 | [327254-tinos-fruit-stand.json](./327254-tinos-fruit-stand.json) |
+| Tinseltown Tycoon | 157889 | [157889-tinseltown-tycoon.json](./157889-tinseltown-tycoon.json) |
 | Tint n Ink | 171975 | [171975-tint-n-ink.json](./171975-tint-n-ink.json) |
 | Tint The Saver | 334181 | [334181-tint-the-saver.json](./334181-tint-the-saver.json) |
 | Tint. | 125817 | [125817-tint.json](./125817-tint.json) |
@@ -17052,6 +17057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torino 2006 | 6205 | [6205-torino-2006.json](./6205-torino-2006.json) |
 | Torins Towers: Rise of Heroes | 167255 | [167255-torins-towers-rise-of-heroes.json](./167255-torins-towers-rise-of-heroes.json) |
 | Toripon | 116971 | [116971-toripon.json](./116971-toripon.json) |
+| Tormans | 157903 | [157903-tormans.json](./157903-tormans.json) |
 | Torment: Tides of Numenera | 2004 | [2004-torment-tides-of-numenera.json](./2004-torment-tides-of-numenera.json) |
 | Torment: Tides of Numenera - Collector's Edition | 26537 | [26537-torment-tides-of-numenera-collectors-edition.json](./26537-torment-tides-of-numenera-collectors-edition.json) |
 | Torment: Tides of Numenera - Day One Edition | 26538 | [26538-torment-tides-of-numenera-day-one-edition.json](./26538-torment-tides-of-numenera-day-one-edition.json) |
