@@ -1132,6 +1132,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 | Cover | Game | Albums |
 |---|---|---|
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/b3/50/43/b350434b-80b7-833d-6de0-8b71ca4a470d/191061044055.jpg/600x600bb.jpg" width="60" /> | [Ultimate Chicken Horse](https://ostdb.net/games/ultimate-chicken-horse) | **Ultimate Chicken Horse (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6aZJusKpK3tdiUJYaTqbv0) · [Apple Music](https://music.apple.com/us/album/ultimate-chicken-horse-original-soundtrack/1175097476) · [Album](https://album.link/i/1175097476) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa82e45cd18df77d166e7977" width="60" /> | [Uncharted 2: Among Thieves](https://ostdb.net/games/uncharted-2-among-thieves) | **Uncharted 2: Among Thieves (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5ZHFLShyZ4XtrQNbPU5F5c) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27369453e92913ed939a7c11b64" width="60" /> | [Uncharted 3: Drake's Deception](https://ostdb.net/games/uncharted-3-drakes-deception) | **Uncharted 3: Drake's Deception (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5LrG1kmYsNmMvKh9ofcvrc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c310161a5293c08250186274" width="60" /> | [Uncharted 4: A Thief's End](https://ostdb.net/games/uncharted-4-a-thiefs-end) | **Uncharted 4: A Thief's End (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7EgaELKfoWg2UoyObtQEsX) |
@@ -1254,4 +1255,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1579 soundtracks · last updated 2026-10-13T17:36:03.062Z_
+_1580 soundtracks · last updated 2026-10-13T17:36:19.748Z_
