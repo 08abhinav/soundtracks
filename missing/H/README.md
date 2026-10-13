@@ -4187,6 +4187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexcells Plus | 11060 | [11060-hexcells-plus.json](./11060-hexcells-plus.json) |
 | HexChess 360 | 92506 | [92506-hexchess-360.json](./92506-hexchess-360.json) |
 | Hexcite: The Shapes of Victory | 49925 | [49925-hexcite-the-shapes-of-victory.json](./49925-hexcite-the-shapes-of-victory.json) |
+| Hexcity | 174248 | [174248-hexcity.json](./174248-hexcity.json) |
 | Hexcodle | 313472 | [313472-hexcodle.json](./313472-hexcodle.json) |
 | HexConnect | 235254 | [235254-hexconnect.json](./235254-hexconnect.json) |
 | Hexcraft: Harlequin Fair | 153342 | [153342-hexcraft-harlequin-fair.json](./153342-hexcraft-harlequin-fair.json) |
@@ -4859,6 +4860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highblast | 189066 | [189066-highblast.json](./189066-highblast.json) |
 | Highborn: Chapter 2 | 168838 | [168838-highborn-chapter-2.json](./168838-highborn-chapter-2.json) |
 | Highborn: Chapter 3 | 168839 | [168839-highborn-chapter-3.json](./168839-highborn-chapter-3.json) |
+| Higher | 174060 | [174060-higher.json](./174060-higher.json) |
 | Higher Ground | 105077 | [105077-higher-ground.json](./105077-higher-ground.json) |
 | HighFleet | 157439 | [157439-highfleet.json](./157439-highfleet.json) |
 | Highland Huntress | 302079 | [302079-highland-huntress.json](./302079-highland-huntress.json) |
@@ -7384,6 +7386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hue Hooligans | 323856 | [323856-hue-hooligans.json](./323856-hue-hooligans.json) |
 | Hue Hop | 311642 | [311642-hue-hop.json](./311642-hue-hop.json) |
 | Hue, Pulse | 334312 | [334312-hue-pulse.json](./334312-hue-pulse.json) |
+| Hue^2 | 174245 | [174245-hue-2.json](./174245-hue-2.json) |
 | Huebi's Adventure | 394339 | [394339-huebis-adventure.json](./394339-huebis-adventure.json) |
 | HueBots | 34589 | [34589-huebots.json](./34589-huebots.json) |
 | Huebrix | 68924 | [68924-huebrix.json](./68924-huebrix.json) |
@@ -7573,6 +7576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hundred Soul: The Last Savior | 174678 | [174678-hundred-soul-the-last-savior.json](./174678-hundred-soul-the-last-savior.json) |
 | Hundred Swords | 12435 | [12435-hundred-swords.json](./12435-hundred-swords.json) |
 | Hundreds | 21905 | [21905-hundreds.json](./21905-hundreds.json) |
+| Hundreds of Mysteries: Season1 | 174066 | [174066-hundreds-of-mysteries-season1.json](./174066-hundreds-of-mysteries-season1.json) |
 | Hundredth | 208036 | [208036-hundredth.json](./208036-hundredth.json) |
 | Hùndùn Qíshì | 235275 | [235275-hundun-qishi.json](./235275-hundun-qishi.json) |
 | Hùndùn Zhàn Yù | 367428 | [367428-hundun-zhan-yu.json](./367428-hundun-zhan-yu.json) |
