@@ -2684,6 +2684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Festival Journey: Secrets of Rio - Collector's Edition | 416786 | [416786-festival-journey-secrets-of-rio-collectors-edition.json](./416786-festival-journey-secrets-of-rio-collectors-edition.json) |
 | Festival Journey: Venetian Masquerade - Collector's Edition | 350490 | [350490-festival-journey-venetian-masquerade-collectors-edition.json](./350490-festival-journey-venetian-masquerade-collectors-edition.json) |
 | Festival of the Spirit | 183541 | [183541-festival-of-the-spirit.json](./183541-festival-of-the-spirit.json) |
+| Festival Tycoon | 138468 | [138468-festival-tycoon.json](./138468-festival-tycoon.json) |
 | Festival Tycoon: Water for All! | 226701 | [226701-festival-tycoon-water-for-all.json](./226701-festival-tycoon-water-for-all.json) |
 | Festive Themed Santa Killer Simulator | 408120 | [408120-festive-themed-santa-killer-simulator.json](./408120-festive-themed-santa-killer-simulator.json) |
 | Fetch | 206052 | [206052-fetch.json](./206052-fetch.json) |
@@ -6696,6 +6697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Champions | 201552 | [201552-forsaken-champions.json](./201552-forsaken-champions.json) |
 | Forsaken Compound | 299441 | [299441-forsaken-compound.json](./299441-forsaken-compound.json) |
 | Forsaken Denizen | 395004 | [395004-forsaken-denizen.json](./395004-forsaken-denizen.json) |
+| Forsaken Flesh | 138491 | [138491-forsaken-flesh.json](./138491-forsaken-flesh.json) |
 | Forsaken Frontiers | 288820 | [288820-forsaken-frontiers.json](./288820-forsaken-frontiers.json) |
 | Forsaken Generation | 65801 | [65801-forsaken-generation.json](./65801-forsaken-generation.json) |
 | Forsaken Isle | 35819 | [35819-forsaken-isle.json](./35819-forsaken-isle.json) |
