@@ -1088,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Party: 30 Great Games Winter Fun | 23360 | [23360-family-party-30-great-games-winter-fun.json](./23360-family-party-30-great-games-winter-fun.json) |
 | Family Pirate Party | 50700 | [50700-family-pirate-party.json](./50700-family-pirate-party.json) |
 | Family Project | 92699 | [92699-family-project.json](./92699-family-project.json) |
+| Family Quiz | 172089 | [172089-family-quiz.json](./172089-family-quiz.json) |
 | Family Quiz | 268129 | [268129-family-quiz.json](./268129-family-quiz.json) |
 | Family Reunion | 381629 | [381629-family-reunion.json](./381629-family-reunion.json) |
 | Family Road Trips | 215402 | [215402-family-road-trips.json](./215402-family-road-trips.json) |
