@@ -1036,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LastSafeZone | 265131 | [265131-lastsafezone.json](./265131-lastsafezone.json) |
 | LastShot | 128338 | [128338-lastshot.json](./128338-lastshot.json) |
 | LastStanding | 413750 | [413750-laststanding.json](./413750-laststanding.json) |
+| Lasy Podpoduszańskie | 146655 | [146655-lasy-podpoduszanskie.json](./146655-lasy-podpoduszanskie.json) |
 | Latale | 94907 | [94907-latale.json](./94907-latale.json) |
 | Lataman | 188495 | [188495-lataman.json](./188495-lataman.json) |
 | Latangerine Last Journey | 116277 | [116277-latangerine-last-journey.json](./116277-latangerine-last-journey.json) |
@@ -2482,6 +2483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Play Journalists | 377615 | [377615-lets-play-journalists.json](./377615-lets-play-journalists.json) |
 | Let's Play Mums | 92654 | [92654-lets-play-mums.json](./92654-lets-play-mums.json) |
 | Let's Play with Nanai! | 111069 | [111069-lets-play-with-nanai.json](./111069-lets-play-with-nanai.json) |
+| Let's Play: Ancient Greek Punishment - Teaches Typing | 146668 | [146668-lets-play-ancient-greek-punishment-teaches-typing.json](./146668-lets-play-ancient-greek-punishment-teaches-typing.json) |
 | Let's Play! Oink Games - Complete Edition | 315859 | [315859-lets-play-oink-games-complete-edition.json](./315859-lets-play-oink-games-complete-edition.json) |
 | Let's Play! Oink Games: Kobayakawa | 263993 | [263993-lets-play-oink-games-kobayakawa.json](./263993-lets-play-oink-games-kobayakawa.json) |
 | Let's Play! Oink Games: Make the Difference | 255277 | [255277-lets-play-oink-games-make-the-difference.json](./255277-lets-play-oink-games-make-the-difference.json) |
@@ -3153,6 +3155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Tomb | 358937 | [358937-light-tomb.json](./358937-light-tomb.json) |
 | Light Touch: Pixel Block Escape | 197726 | [197726-light-touch-pixel-block-escape.json](./197726-light-touch-pixel-block-escape.json) |
 | Light Towers | 357847 | [357847-light-towers.json](./357847-light-towers.json) |
+| Light Tracer II: The Two Worlds | 146672 | [146672-light-tracer-ii-the-two-worlds.json](./146672-light-tracer-ii-the-two-worlds.json) |
 | Light Unseen | 303630 | [303630-light-unseen.json](./303630-light-unseen.json) |
 | Light Up the Dark | 404960 | [404960-light-up-the-dark.json](./404960-light-up-the-dark.json) |
 | Light Up the Holidays | 110953 | [110953-light-up-the-holidays.json](./110953-light-up-the-holidays.json) |
