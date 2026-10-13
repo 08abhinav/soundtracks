@@ -3699,6 +3699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bedrotting | 298265 | [298265-bedrotting.json](./298265-bedrotting.json) |
 | Bedtime | 182911 | [182911-bedtime.json](./182911-bedtime.json) |
 | Bedtime Blues | 112782 | [112782-bedtime-blues.json](./112782-bedtime-blues.json) |
+| Bedtime Fright | 178917 | [178917-bedtime-fright.json](./178917-bedtime-fright.json) |
 | Bedtime Horror Stories | 220647 | [220647-bedtime-horror-stories.json](./220647-bedtime-horror-stories.json) |
 | Bedtime Nightmare | 377969 | [377969-bedtime-nightmare.json](./377969-bedtime-nightmare.json) |
 | Bedtime Stories | 371963 | [371963-bedtime-stories.json](./371963-bedtime-stories.json) |
