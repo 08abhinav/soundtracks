@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Occidental Heroes | 388012 | [388012-occidental-heroes.json](./388012-occidental-heroes.json) |
 | Occult | 153954 | [153954-occult.json](./153954-occult.json) |
 | Occult Chambers | 235186 | [235186-occult-chambers.json](./235186-occult-chambers.json) |
+| Occult Crime Police | 178899 | [178899-occult-crime-police.json](./178899-occult-crime-police.json) |
 | Occult: Scarlet Elegy | 404973 | [404973-occult-scarlet-elegy.json](./404973-occult-scarlet-elegy.json) |
 | OcculThieves | 272374 | [272374-occulthieves.json](./272374-occulthieves.json) |
 | Occultism Interrogation: The Ritual of Little Nightmares | 164922 | [164922-occultism-interrogation-the-ritual-of-little-nightmares.json](./164922-occultism-interrogation-the-ritual-of-little-nightmares.json) |
