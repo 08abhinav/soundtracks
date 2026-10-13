@@ -6332,6 +6332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flintstones: The Movie | 146331 | [146331-the-flintstones-the-movie.json](./146331-the-flintstones-the-movie.json) |
 | The Flintstones: The Treasure of Sierra Madrock | 8450 | [8450-the-flintstones-the-treasure-of-sierra-madrock.json](./8450-the-flintstones-the-treasure-of-sierra-madrock.json) |
 | The Flintstones' Keyboard Fun | 41494 | [41494-the-flintstones-keyboard-fun.json](./41494-the-flintstones-keyboard-fun.json) |
+| The Floating City | 148884 | [148884-the-floating-city.json](./148884-the-floating-city.json) |
 | The Flock | 19968 | [19968-the-flock.json](./19968-the-flock.json) |
 | The Flood | 93780 | [93780-the-flood.json](./93780-the-flood.json) |
 | The Floor is [Blank] | 157140 | [157140-the-floor-is-blank.json](./157140-the-floor-is-blank.json) |
@@ -8214,6 +8215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails to Azure | 23323 | [23323-the-legend-of-heroes-trails-to-azure.json](./23323-the-legend-of-heroes-trails-to-azure.json) |
 | The Legend of Heroes: Trails to Azure - Deluxe Edition | 249169 | [249169-the-legend-of-heroes-trails-to-azure-deluxe-edition.json](./249169-the-legend-of-heroes-trails-to-azure-deluxe-edition.json) |
 | The Legend of Heroes: Zero no Kiseki | 192133 | [192133-the-legend-of-heroes-zero-no-kiseki.json](./192133-the-legend-of-heroes-zero-no-kiseki.json) |
+| The Legend of HyperStar | 148847 | [148847-the-legend-of-hyperstar.json](./148847-the-legend-of-hyperstar.json) |
 | The Legend of Iowa | 269847 | [269847-the-legend-of-iowa.json](./269847-the-legend-of-iowa.json) |
 | The Legend of Kairo | 373360 | [373360-the-legend-of-kairo.json](./373360-the-legend-of-kairo.json) |
 | The Legend of Karl | 143660 | [143660-the-legend-of-karl.json](./143660-the-legend-of-karl.json) |
@@ -9168,6 +9170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moon Relax | 165021 | [165021-the-moon-relax.json](./165021-the-moon-relax.json) |
 | The Moon Sliver | 17965 | [17965-the-moon-sliver.json](./17965-the-moon-sliver.json) |
 | The Moonflower | 248007 | [248007-the-moonflower.json](./248007-the-moonflower.json) |
+| The Moonlight Motel | 148870 | [148870-the-moonlight-motel.json](./148870-the-moonlight-motel.json) |
 | The Moonlighters | 62993 | [62993-the-moonlighters.json](./62993-the-moonlighters.json) |
 | The Moonlit Tower | 216324 | [216324-the-moonlit-tower.json](./216324-the-moonlit-tower.json) |
 | The Mooseman | 27358 | [27358-the-mooseman.json](./27358-the-mooseman.json) |
@@ -13514,6 +13517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Fragmentation | 147400 | [147400-through-the-fragmentation.json](./147400-through-the-fragmentation.json) |
 | Through the Frame | 169402 | [169402-through-the-frame.json](./169402-through-the-frame.json) |
 | Through the Galaxy | 312129 | [312129-through-the-galaxy.json](./312129-through-the-galaxy.json) |
+| Through the Helios | 148849 | [148849-through-the-helios.json](./148849-through-the-helios.json) |
 | Through the Looking Glass | 71709 | [71709-through-the-looking-glass.json](./71709-through-the-looking-glass.json) |
 | Through the Manor | 406320 | [406320-through-the-manor.json](./406320-through-the-manor.json) |
 | Through the Mirror | 30731 | [30731-through-the-mirror.json](./30731-through-the-mirror.json) |
@@ -19087,6 +19091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Your Brain! Spot the Difference with Dog Photos | 300842 | [300842-train-your-brain-spot-the-difference-with-dog-photos.json](./300842-train-your-brain-spot-the-difference-with-dog-photos.json) |
 | Train Your Brain! Spot the Difference With Space Photos | 385070 | [385070-train-your-brain-spot-the-difference-with-space-photos.json](./385070-train-your-brain-spot-the-difference-with-space-photos.json) |
 | Train Your Fingers: Lab | 348730 | [348730-train-your-fingers-lab.json](./348730-train-your-fingers-lab.json) |
+| Train Your Minibot | 148856 | [148856-train-your-minibot.json](./148856-train-your-minibot.json) |
 | Train'em | 163971 | [163971-trainem.json](./163971-trainem.json) |
 | Trainbow | 182229 | [182229-trainbow.json](./182229-trainbow.json) |
 | TrainClicker Idle Evolution | 149364 | [149364-trainclicker-idle-evolution.json](./149364-trainclicker-idle-evolution.json) |
