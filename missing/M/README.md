@@ -7680,6 +7680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millennium GamePak Gold | 273905 | [273905-millennium-gamepak-gold.json](./273905-millennium-gamepak-gold.json) |
 | Millennium Gamepak Platinum | 273906 | [273906-millennium-gamepak-platinum.json](./273906-millennium-gamepak-platinum.json) |
 | Millennium Mantra | 209223 | [209223-millennium-mantra.json](./209223-millennium-mantra.json) |
+| Millennium MegaHits | 137374 | [137374-millennium-megahits.json](./137374-millennium-megahits.json) |
 | Millennium Mini-Episode | 263422 | [263422-millennium-mini-episode.json](./263422-millennium-mini-episode.json) |
 | Millennium Mission | 274731 | [274731-millennium-mission.json](./274731-millennium-mission.json) |
 | Millennium Racer: Y2K Fighters | 79897 | [79897-millennium-racer-y2k-fighters.json](./79897-millennium-racer-y2k-fighters.json) |
