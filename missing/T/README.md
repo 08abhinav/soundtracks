@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Kathay | 361259 | [361259-tales-of-kathay.json](./361259-tales-of-kathay.json) |
 | Tales of Kizna | 294593 | [294593-tales-of-kizna.json](./294593-tales-of-kizna.json) |
 | Tales of Klodan | 349328 | [349328-tales-of-klodan.json](./349328-tales-of-klodan.json) |
+| Tales of Kongfu | 161602 | [161602-tales-of-kongfu.json](./161602-tales-of-kongfu.json) |
 | Tales of Lagoona: Orphans of the Ocean | 54424 | [54424-tales-of-lagoona-orphans-of-the-ocean.json](./54424-tales-of-lagoona-orphans-of-the-ocean.json) |
 | Tales of Legendary Lust: Aphrodisia | 392890 | [392890-tales-of-legendary-lust-aphrodisia.json](./392890-tales-of-legendary-lust-aphrodisia.json) |
 | Tales of Legends IV: If | 55500 | [55500-tales-of-legends-iv-if.json](./55500-tales-of-legends-iv-if.json) |
@@ -3710,6 +3711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Graham | 398329 | [398329-the-adventures-of-graham.json](./398329-the-adventures-of-graham.json) |
 | The Adventures of Harry: The evidence Under the Underwear | 345123 | [345123-the-adventures-of-harry-the-evidence-under-the-underwear.json](./345123-the-adventures-of-harry-the-evidence-under-the-underwear.json) |
 | The Adventures of Heart Love Dude | 56148 | [56148-the-adventures-of-heart-love-dude.json](./56148-the-adventures-of-heart-love-dude.json) |
+| The Adventures of Herbie & Katt LeChatt | 161618 | [161618-the-adventures-of-herbie-and-katt-lechatt.json](./161618-the-adventures-of-herbie-and-katt-lechatt.json) |
 | The Adventures of Hori | 392285 | [392285-the-adventures-of-hori.json](./392285-the-adventures-of-hori.json) |
 | The Adventures of Hyperman | 71556 | [71556-the-adventures-of-hyperman.json](./71556-the-adventures-of-hyperman.json) |
 | The Adventures of Jason and the Argonauts | 114926 | [114926-the-adventures-of-jason-and-the-argonauts.json](./114926-the-adventures-of-jason-and-the-argonauts.json) |
@@ -10380,6 +10382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Salvation Project | 177977 | [177977-the-salvation-project.json](./177977-the-salvation-project.json) |
 | The Samaritan Paradox | 18642 | [18642-the-samaritan-paradox.json](./18642-the-samaritan-paradox.json) |
 | The Same World 2 | 214022 | [214022-the-same-world-2.json](./214022-the-same-world-2.json) |
+| The Sand Dunes | 161613 | [161613-the-sand-dunes.json](./161613-the-sand-dunes.json) |
 | The Sandbox | 16872 | [16872-the-sandbox.json](./16872-the-sandbox.json) |
 | The Sandbox | 182468 | [182468-the-sandbox.json](./182468-the-sandbox.json) |
 | The Sandbox - Building & Craft | 90705 | [90705-the-sandbox-building-and-craft.json](./90705-the-sandbox-building-and-craft.json) |
@@ -12004,6 +12007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimatum: Choices | 326795 | [326795-the-ultimatum-choices.json](./326795-the-ultimatum-choices.json) |
 | The Ultra Mission | 199105 | [199105-the-ultra-mission.json](./199105-the-ultra-mission.json) |
 | The Umbrella Ninja | 260734 | [260734-the-umbrella-ninja.json](./260734-the-umbrella-ninja.json) |
+| The Un-Beatable Game | 161588 | [161588-the-un-beatable-game.json](./161588-the-un-beatable-game.json) |
 | The Unachievable Game | 205232 | [205232-the-unachievable-game.json](./205232-the-unachievable-game.json) |
 | The Unbreakable Chain | 62967 | [62967-the-unbreakable-chain.json](./62967-the-unbreakable-chain.json) |
 | The Uncanny X-Men | 48050 | [48050-the-uncanny-x-men.json](./48050-the-uncanny-x-men.json) |
@@ -12407,6 +12411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Whisper of the Abyss: Echo of Eden | 311256 | [311256-the-whisper-of-the-abyss-echo-of-eden.json](./311256-the-whisper-of-the-abyss-echo-of-eden.json) |
 | The Whisper Soul | 232966 | [232966-the-whisper-soul.json](./232966-the-whisper-soul.json) |
 | The Whispered World | 7145 | [7145-the-whispered-world.json](./7145-the-whispered-world.json) |
+| The Whisperer | 161600 | [161600-the-whisperer.json](./161600-the-whisperer.json) |
 | The Whisperer | 240127 | [240127-the-whisperer.json](./240127-the-whisperer.json) |
 | The Whisperer in Darkness | 33700 | [33700-the-whisperer-in-darkness.json](./33700-the-whisperer-in-darkness.json) |
 | The Whispering Bones | 389400 | [389400-the-whispering-bones.json](./389400-the-whispering-bones.json) |
@@ -20767,6 +20772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truxton Extreme | 287620 | [287620-truxton-extreme.json](./287620-truxton-extreme.json) |
 | Truxton II | 293647 | [293647-truxton-ii.json](./293647-truxton-ii.json) |
 | Truxton II | 39662 | [39662-truxton-ii.json](./39662-truxton-ii.json) |
+| Truzzle | 161609 | [161609-truzzle.json](./161609-truzzle.json) |
 | Try | 135695 | [135695-try.json](./135695-try.json) |
 | Try 2 Sleep | 323434 | [323434-try-2-sleep.json](./323434-try-2-sleep.json) |
 | Try Again | 219526 | [219526-try-again.json](./219526-try-again.json) |
@@ -20976,6 +20982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tube Repairs | 370258 | [370258-tube-repairs.json](./370258-tube-repairs.json) |
 | Tube Rolling | 159794 | [159794-tube-rolling.json](./159794-tube-rolling.json) |
 | Tube Spin | 106001 | [106001-tube-spin.json](./106001-tube-spin.json) |
+| Tube Tussle | 161604 | [161604-tube-tussle.json](./161604-tube-tussle.json) |
 | Tube Tycoon | 58612 | [58612-tube-tycoon.json](./58612-tube-tycoon.json) |
 | Tube Warriors | 94558 | [94558-tube-warriors.json](./94558-tube-warriors.json) |
 | Tube Way Army | 80201 | [80201-tube-way-army.json](./80201-tube-way-army.json) |
@@ -21829,6 +21836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typomancer in the Feather's Way | 174261 | [174261-typomancer-in-the-feathers-way.json](./174261-typomancer-in-the-feathers-way.json) |
 | Tyr | 371867 | [371867-tyr.json](./371867-tyr.json) |
 | Tyr: Chains of Valhalla | 96750 | [96750-tyr-chains-of-valhalla.json](./96750-tyr-chains-of-valhalla.json) |
+| Tyrania: A Kinetic Visual Novel | 161579 | [161579-tyrania-a-kinetic-visual-novel.json](./161579-tyrania-a-kinetic-visual-novel.json) |
 | Tyrannical Chickens | 278726 | [278726-tyrannical-chickens.json](./278726-tyrannical-chickens.json) |
 | Tyrannis: Co-Prosperity | 253824 | [253824-tyrannis-co-prosperity.json](./253824-tyrannis-co-prosperity.json) |
 | Tyrannizer | 270741 | [270741-tyrannizer.json](./270741-tyrannizer.json) |
