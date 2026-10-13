@@ -2467,6 +2467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heisei Shin Onigashima | 170336 | [170336-heisei-shin-onigashima.json](./170336-heisei-shin-onigashima.json) |
 | Heisei Tensai Bakabon | 249763 | [249763-heisei-tensai-bakabon.json](./249763-heisei-tensai-bakabon.json) |
 | Heisei Tensai Bakabon Minna de Family Resturant ni Iku no da! | 249764 | [249764-heisei-tensai-bakabon-minna-de-family-resturant-ni-iku-no-da.json](./249764-heisei-tensai-bakabon-minna-de-family-resturant-ni-iku-no-da.json) |
+| Heisen Bay | 156908 | [156908-heisen-bay.json](./156908-heisen-bay.json) |
 | Heisen-Bro Hustler | 419898 | [419898-heisen-bro-hustler.json](./419898-heisen-bro-hustler.json) |
 | Heist | 111050 | [111050-heist.json](./111050-heist.json) |
 | Heist | 84304 | [84304-heist.json](./84304-heist.json) |
@@ -3751,6 +3752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of Not Our Time | 144818 | [144818-hero-of-not-our-time.json](./144818-hero-of-not-our-time.json) |
 | Hero of Sparta | 21690 | [21690-hero-of-sparta.json](./21690-hero-of-sparta.json) |
 | Hero of Sunset | 364375 | [364375-hero-of-sunset.json](./364375-hero-of-sunset.json) |
+| Hero of the Demon | 156917 | [156917-hero-of-the-demon.json](./156917-hero-of-the-demon.json) |
 | Hero of the Forest | 122818 | [122818-hero-of-the-forest.json](./122818-hero-of-the-forest.json) |
 | Hero of the Galactic Core | 55512 | [55512-hero-of-the-galactic-core.json](./55512-hero-of-the-galactic-core.json) |
 | Hero of the Hive | 311600 | [311600-hero-of-the-hive.json](./311600-hero-of-the-hive.json) |
@@ -5527,6 +5529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hodl Simulator | 159570 | [159570-hodl-simulator.json](./159570-hodl-simulator.json) |
 | Hodl: The God of Crypto | 97922 | [97922-hodl-the-god-of-crypto.json](./97922-hodl-the-god-of-crypto.json) |
 | HodlGod | 175895 | [175895-hodlgod.json](./175895-hodlgod.json) |
+| Hoesa Kiugi | 156918 | [156918-hoesa-kiugi.json](./156918-hoesa-kiugi.json) |
 | Hog Heist | 360645 | [360645-hog-heist.json](./360645-hog-heist.json) |
 | Hog Hunter 2021 | 160090 | [160090-hog-hunter-2021.json](./160090-hog-hunter-2021.json) |
 | Hogan's Alley | 4601 | [4601-hogans-alley.json](./4601-hogans-alley.json) |
