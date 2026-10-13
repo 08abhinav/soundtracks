@@ -7550,6 +7550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humpty's Castle Adventure | 210053 | [210053-humptys-castle-adventure.json](./210053-humptys-castle-adventure.json) |
 | Humpty's Scramble | 144139 | [144139-humptys-scramble.json](./144139-humptys-scramble.json) |
 | Hunchback at the Olympics | 70105 | [70105-hunchback-at-the-olympics.json](./70105-hunchback-at-the-olympics.json) |
+| Huncho | 176759 | [176759-huncho.json](./176759-huncho.json) |
 | Hunckie Egg | 134422 | [134422-hunckie-egg.json](./134422-hunckie-egg.json) |
 | Hundra | 92962 | [92962-hundra.json](./92962-hundra.json) |
 | Hundred | 267068 | [267068-hundred.json](./267068-hundred.json) |
