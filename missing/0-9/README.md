@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | (A)woken | 307298 | [307298-a-woken.json](./307298-a-woken.json) |
 | (Neg)Entropic Wandering | 309451 | [309451-neg-entropic-wandering.json](./309451-neg-entropic-wandering.json) |
 | (O_O) | 209770 | [209770-o-o.json](./209770-o-o.json) |
+| [HammerA] HammerTime ! | 134969 | [134969-hammera-hammertime.json](./134969-hammera-hammertime.json) |
 | [K]night City | 365226 | [365226-k-night-city.json](./365226-k-night-city.json) |
 | [OPT-OUT]: Uncanny | 153742 | [153742-opt-out-uncanny.json](./153742-opt-out-uncanny.json) |
 | [REC] Desolation | 333760 | [333760-rec-desolation.json](./333760-rec-desolation.json) |
@@ -715,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13's | 190047 | [190047-13s.json](./190047-13s.json) |
 | 1306 Chapter 1: Reactors & Robots | 343403 | [343403-1306-chapter-1-reactors-and-robots.json](./343403-1306-chapter-1-reactors-and-robots.json) |
 | 1337D00m | 109489 | [109489-1337d00m.json](./109489-1337d00m.json) |
+| 1365 | 134937 | [134937-1365.json](./134937-1365.json) |
 | 1378km | 139389 | [139389-1378km.json](./139389-1378km.json) |
 | 137E0 Action 1 Steak | 234303 | [234303-137e0-action-1-steak.json](./234303-137e0-action-1-steak.json) |
 | 1387: MMO Strategy | 213313 | [213313-1387-mmo-strategy.json](./213313-1387-mmo-strategy.json) |
@@ -1299,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3:30 am. at Floater's Cemetery | 184959 | [184959-3-30-am-at-floaters-cemetery.json](./184959-3-30-am-at-floaters-cemetery.json) |
 | 3:33 A.M. | 318976 | [318976-3-33-a-m.json](./318976-3-33-a-m.json) |
 | 3..2..1..Grenades! | 32004 | [32004-3-2-1-grenades.json](./32004-3-2-1-grenades.json) |
+| 3.5 Ins Micro Disc Software: Adventure with Technician Ted / Heathrow International Air Traffic Control | 137331 | [137331-3-5-ins-micro-disc-software-adventure-with-technician-ted-heathrow-international-air-traffic-control.json](./137331-3-5-ins-micro-disc-software-adventure-with-technician-ted-heathrow-international-air-traffic-control.json) |
 | 30 Days Another | 216778 | [216778-30-days-another.json](./216778-30-days-another.json) |
 | 30 Days in Red Army | 204425 | [204425-30-days-in-red-army.json](./204425-30-days-in-red-army.json) |
 | 30 Days of Tower | 290955 | [290955-30-days-of-tower.json](./290955-30-days-of-tower.json) |
