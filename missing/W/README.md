@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waba | 104821 | [104821-waba.json](./104821-waba.json) |
 | Wabash Cannonball | 175415 | [175415-wabash-cannonball.json](./175415-wabash-cannonball.json) |
 | Wabisabi | 127786 | [127786-wabisabi.json](./127786-wabisabi.json) |
+| Wacca Lily R | 154811 | [154811-wacca-lily-r.json](./154811-wacca-lily-r.json) |
 | Wachenröder | 93007 | [93007-wachenroder.json](./93007-wachenroder.json) |
 | Wack Track Pack | 358318 | [358318-wack-track-pack.json](./358318-wack-track-pack.json) |
 | Wacki: Kosmiczna Rozgrywka | 81666 | [81666-wacki-kosmiczna-rozgrywka.json](./81666-wacki-kosmiczna-rozgrywka.json) |
@@ -991,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Inquisitor - Martyr: Ultimate Edition | 219440 | [219440-warhammer-40-000-inquisitor-martyr-ultimate-edition.json](./219440-warhammer-40-000-inquisitor-martyr-ultimate-edition.json) |
 | Warhammer 40,000: Inquisitor - Prophecy | 118770 | [118770-warhammer-40-000-inquisitor-prophecy.json](./118770-warhammer-40-000-inquisitor-prophecy.json) |
 | Warhammer 40,000: Kill Team | 7045 | [7045-warhammer-40-000-kill-team.json](./7045-warhammer-40-000-kill-team.json) |
+| Warhammer 40,000: Lost Crusade | 154795 | [154795-warhammer-40-000-lost-crusade.json](./154795-warhammer-40-000-lost-crusade.json) |
 | Warhammer 40,000: Mechanicus | 88461 | [88461-warhammer-40-000-mechanicus.json](./88461-warhammer-40-000-mechanicus.json) |
 | Warhammer 40,000: Mechanicus II | 302176 | [302176-warhammer-40-000-mechanicus-ii.json](./302176-warhammer-40-000-mechanicus-ii.json) |
 | Warhammer 40,000: Regicide | 11450 | [11450-warhammer-40-000-regicide.json](./11450-warhammer-40-000-regicide.json) |
@@ -4911,6 +4913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Dungeons | 262368 | [262368-word-dungeons.json](./262368-word-dungeons.json) |
 | Word Escape | 152930 | [152930-word-escape.json](./152930-word-escape.json) |
 | Word Factori | 154576 | [154576-word-factori.json](./154576-word-factori.json) |
+| Word Farm Adventure | 154793 | [154793-word-farm-adventure.json](./154793-word-farm-adventure.json) |
 | Word Feud | 131583 | [131583-word-feud.json](./131583-word-feud.json) |
 | Word Finder - Word Connect | 96742 | [96742-word-finder-word-connect.json](./96742-word-finder-word-connect.json) |
 | Word Forward | 58298 | [58298-word-forward.json](./58298-word-forward.json) |
