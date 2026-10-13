@@ -4005,6 +4005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belial Wars | 234351 | [234351-belial-wars.json](./234351-belial-wars.json) |
 | Belief & Betrayal | 21459 | [21459-belief-and-betrayal.json](./21459-belief-and-betrayal.json) |
 | Believe | 165632 | [165632-believe.json](./165632-believe.json) |
+| Believer! | 139088 | [139088-believer.json](./139088-believer.json) |
 | Believr Pro Wrestling | 406158 | [406158-believr-pro-wrestling.json](./406158-believr-pro-wrestling.json) |
 | Bell Kingdom | 211447 | [211447-bell-kingdom.json](./211447-bell-kingdom.json) |
 | Bell Park, Youth Detective | 139308 | [139308-bell-park-youth-detective.json](./139308-bell-park-youth-detective.json) |
@@ -5068,6 +5069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bill & Ted's Excellent Game Boy Adventure | 290651 | [290651-bill-and-teds-excellent-game-boy-adventure.json](./290651-bill-and-teds-excellent-game-boy-adventure.json) |
 | Bill & Ted's Excellent Retro Collection: Collector's Edition | 207048 | [207048-bill-and-teds-excellent-retro-collection-collectors-edition.json](./207048-bill-and-teds-excellent-retro-collection-collectors-edition.json) |
 | Bill and Ted's Excellent Retro Collection | 203772 | [203772-bill-and-teds-excellent-retro-collection.json](./203772-bill-and-teds-excellent-retro-collection.json) |
+| Bill Belichick Offseason Simulator | 139151 | [139151-bill-belichick-offseason-simulator.json](./139151-bill-belichick-offseason-simulator.json) |
 | Bill Bounce | 231623 | [231623-bill-bounce.json](./231623-bill-bounce.json) |
 | Bill Hates Videogames | 219206 | [219206-bill-hates-videogames.json](./219206-bill-hates-videogames.json) |
 | Bill Killem | 343997 | [343997-bill-killem.json](./343997-bill-killem.json) |
@@ -10992,6 +10994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BugSquash | 346562 | [346562-bugsquash.json](./346562-bugsquash.json) |
 | Bugtris | 130674 | [130674-bugtris.json](./130674-bugtris.json) |
 | BugWorld | 254003 | [254003-bugworld.json](./254003-bugworld.json) |
+| Bugworld: Online | 139148 | [139148-bugworld-online.json](./139148-bugworld-online.json) |
 | Bugz | 270400 | [270400-bugz.json](./270400-bugz.json) |
 | Bugz Bows & Curses | 214192 | [214192-bugz-bows-and-curses.json](./214192-bugz-bows-and-curses.json) |
 | Buhei | 265397 | [265397-buhei.json](./265397-buhei.json) |
