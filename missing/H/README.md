@@ -2628,6 +2628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Guide | 130852 | [130852-hell-guide.json](./130852-hell-guide.json) |
 | Hell Heroes | 226720 | [226720-hell-heroes.json](./226720-hell-heroes.json) |
 | Hell Hospital | 414424 | [414424-hell-hospital.json](./414424-hell-hospital.json) |
+| Hell Hunt | 138481 | [138481-hell-hunt.json](./138481-hell-hunt.json) |
 | Hell Hunter: Anti-Nomen | 270032 | [270032-hell-hunter-anti-nomen.json](./270032-hell-hunter-anti-nomen.json) |
 | Hell Hunter: Damned Soul | 272380 | [272380-hell-hunter-damned-soul.json](./272380-hell-hunter-damned-soul.json) |
 | Hell in a Can | 271762 | [271762-hell-in-a-can.json](./271762-hell-in-a-can.json) |
@@ -8180,6 +8181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperblast! | 342612 | [342612-hyperblast.json](./342612-hyperblast.json) |
 | Hyperboard Extreme | 369176 | [369176-hyperboard-extreme.json](./369176-hyperboard-extreme.json) |
 | HyperBody | 292518 | [292518-hyperbody.json](./292518-hyperbody.json) |
+| Hyperbolic Arcade Trading | 138503 | [138503-hyperbolic-arcade-trading.json](./138503-hyperbolic-arcade-trading.json) |
 | Hyperbolica | 161510 | [161510-hyperbolica.json](./161510-hyperbolica.json) |
 | Hyperborea | 117703 | [117703-hyperborea.json](./117703-hyperborea.json) |
 | Hyperborean Charter | 113025 | [113025-hyperborean-charter.json](./113025-hyperborean-charter.json) |
