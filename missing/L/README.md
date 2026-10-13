@@ -3409,6 +3409,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limbus Company: Season 8 - Punctum | 416722 | [416722-limbus-company-season-8-punctum.json](./416722-limbus-company-season-8-punctum.json) |
 | Limbus Stable | 352213 | [352213-limbus-stable.json](./352213-limbus-stable.json) |
 | Lime Ergot | 138142 | [138142-lime-ergot.json](./138142-lime-ergot.json) |
+| Lime Iro Ryuukitan X ~Koi, Oshiete Kudasai.~ | 153731 | [153731-lime-iro-ryuukitan-x-koi-oshiete-kudasai.json](./153731-lime-iro-ryuukitan-x-koi-oshiete-kudasai.json) |
+| Lime Iro Senkitan ~Meiji Nippon, Otome Sakimorisu.~ | 153735 | [153735-lime-iro-senkitan-meiji-nippon-otome-sakimorisu.json](./153735-lime-iro-senkitan-meiji-nippon-otome-sakimorisu.json) |
 | Lime Juice | 323719 | [323719-lime-juice.json](./323719-lime-juice.json) |
 | Lime Stenched Dirt | 375555 | [375555-lime-stenched-dirt.json](./375555-lime-stenched-dirt.json) |
 | Lime Volleyball | 307590 | [307590-lime-volleyball.json](./307590-lime-volleyball.json) |
