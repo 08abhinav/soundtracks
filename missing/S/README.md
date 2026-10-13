@@ -2027,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School of Dragons: How to Train Your Dragon | 36191 | [36191-school-of-dragons-how-to-train-your-dragon.json](./36191-school-of-dragons-how-to-train-your-dragon.json) |
 | School of Horror | 104148 | [104148-school-of-horror.json](./104148-school-of-horror.json) |
 | School Of Love: Clubs! | 290305 | [290305-school-of-love-clubs.json](./290305-school-of-love-clubs.json) |
+| School of Magic | 133120 | [133120-school-of-magic.json](./133120-school-of-magic.json) |
 | School of Talent: Suzu-Route | 29932 | [29932-school-of-talent-suzu-route.json](./29932-school-of-talent-suzu-route.json) |
 | School Out Simulator2 | 296443 | [296443-school-out-simulator2.json](./296443-school-out-simulator2.json) |
 | School Out Simulator3 | 296444 | [296444-school-out-simulator3.json](./296444-school-out-simulator3.json) |
@@ -5320,6 +5321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shield Hero | 351630 | [351630-shield-hero.json](./351630-shield-hero.json) |
 | Shield Hero Rise | 188386 | [188386-shield-hero-rise.json](./188386-shield-hero-rise.json) |
 | Shield of Breaker | 380118 | [380118-shield-of-breaker.json](./380118-shield-of-breaker.json) |
+| Shield of Shalwend | 133126 | [133126-shield-of-shalwend.json](./133126-shield-of-shalwend.json) |
 | Shieldbound | 349406 | [349406-shieldbound.json](./349406-shieldbound.json) |
 | Shieldmaiden | 129709 | [129709-shieldmaiden.json](./129709-shieldmaiden.json) |
 | Shields of Loyalty | 156040 | [156040-shields-of-loyalty.json](./156040-shields-of-loyalty.json) |
@@ -6976,6 +6978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silly's Gameshow | 347804 | [347804-sillys-gameshow.json](./347804-sillys-gameshow.json) |
 | Sillyfun Valley | 158577 | [158577-sillyfun-valley.json](./158577-sillyfun-valley.json) |
 | Silmar | 230258 | [230258-silmar.json](./230258-silmar.json) |
+| Silmaris: Dice Kingdom | 133109 | [133109-silmaris-dice-kingdom.json](./133109-silmaris-dice-kingdom.json) |
 | Silo | 348224 | [348224-silo.json](./348224-silo.json) |
 | Silph Road | 104578 | [104578-silph-road.json](./104578-silph-road.json) |
 | Silpheed | 65578 | [65578-silpheed.json](./65578-silpheed.json) |
@@ -12362,6 +12365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound of Drop: Fall into Poison | 19279 | [19279-sound-of-drop-fall-into-poison.json](./19279-sound-of-drop-fall-into-poison.json) |
 | Sound of Horses | 357859 | [357859-sound-of-horses.json](./357859-sound-of-horses.json) |
 | Sound of Summer Thunder | 360669 | [360669-sound-of-summer-thunder.json](./360669-sound-of-summer-thunder.json) |
+| Sound Science | 133158 | [133158-sound-science.json](./133158-sound-science.json) |
 | Sound Shapes | 7729 | [7729-sound-shapes.json](./7729-sound-shapes.json) |
 | Sound Shift | 12890 | [12890-sound-shift.json](./12890-sound-shift.json) |
 | Sound Shooting!! Rhythm Shooter | 362812 | [362812-sound-shooting-rhythm-shooter.json](./362812-sound-shooting-rhythm-shooter.json) |
@@ -15467,6 +15471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack the States 2 | 396763 | [396763-stack-the-states-2.json](./396763-stack-the-states-2.json) |
 | Stack to Ascension | 353802 | [353802-stack-to-ascension.json](./353802-stack-to-ascension.json) |
 | Stack Tower͏ | 219264 | [219264-stack-tower.json](./219264-stack-tower.json) |
+| Stack Up (or dive trying) | 133132 | [133132-stack-up-or-dive-trying.json](./133132-stack-up-or-dive-trying.json) |
 | Stack World | 236383 | [236383-stack-world.json](./236383-stack-world.json) |
 | Stack-Making Neighbors | 258976 | [258976-stack-making-neighbors.json](./258976-stack-making-neighbors.json) |
 | Stack! | 191216 | [191216-stack.json](./191216-stack.json) |
@@ -23329,6 +23334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword & Seek | 309847 | [309847-sword-and-seek.json](./309847-sword-and-seek.json) |
 | Sword & Siege Crusades: Book II | 402956 | [402956-sword-and-siege-crusades-book-ii.json](./402956-sword-and-siege-crusades-book-ii.json) |
 | Sword & Spatula | 257892 | [257892-sword-and-spatula.json](./257892-sword-and-spatula.json) |
+| Sword and Adventurer | 133115 | [133115-sword-and-adventurer.json](./133115-sword-and-adventurer.json) |
 | Sword and Expedition: Placing Heroes | 188040 | [188040-sword-and-expedition-placing-heroes.json](./188040-sword-and-expedition-placing-heroes.json) |
 | Sword and Fairy 3 Ex | 369568 | [369568-sword-and-fairy-3-ex.json](./369568-sword-and-fairy-3-ex.json) |
 | Sword and Fairy Inn | 78048 | [78048-sword-and-fairy-inn.json](./78048-sword-and-fairy-inn.json) |
