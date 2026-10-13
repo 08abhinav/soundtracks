@@ -8392,6 +8392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legends of Owlia | 30059 | [30059-the-legends-of-owlia.json](./30059-the-legends-of-owlia.json) |
 | The Legends of Oz: One Hundred Years of Oz | 269668 | [269668-the-legends-of-oz-one-hundred-years-of-oz.json](./269668-the-legends-of-oz-one-hundred-years-of-oz.json) |
 | The Legions of Rome | 31353 | [31353-the-legions-of-rome.json](./31353-the-legions-of-rome.json) |
+| The LEGO Games Bundle | 164574 | [164574-the-lego-games-bundle.json](./164574-the-lego-games-bundle.json) |
 | The LEGO Movie 2 Videogame | 112674 | [112674-the-lego-movie-2-videogame.json](./112674-the-lego-movie-2-videogame.json) |
 | The LEGO Movie 2 Videogame: Galactic Adventures Character & Level Pack | 238013 | [238013-the-lego-movie-2-videogame-galactic-adventures-character-and-level-pack.json](./238013-the-lego-movie-2-videogame-galactic-adventures-character-and-level-pack.json) |
 | The LEGO Movie 2 Videogame: Minifigure Edition | 139954 | [139954-the-lego-movie-2-videogame-minifigure-edition.json](./139954-the-lego-movie-2-videogame-minifigure-edition.json) |
@@ -10622,6 +10623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shame of a Daydreamer | 349394 | [349394-the-shame-of-a-daydreamer.json](./349394-the-shame-of-a-daydreamer.json) |
 | The Shape of Happiness | 274144 | [274144-the-shape-of-happiness.json](./274144-the-shape-of-happiness.json) |
 | The Shape of Heart | 31840 | [31840-the-shape-of-heart.json](./31840-the-shape-of-heart.json) |
+| The Shape of Heart: Episode II | 164601 | [164601-the-shape-of-heart-episode-ii.json](./164601-the-shape-of-heart-episode-ii.json) |
 | The Shape of Things | 211729 | [211729-the-shape-of-things.json](./211729-the-shape-of-things.json) |
 | The Shape of Things: Gacha Box 1 | 278109 | [278109-the-shape-of-things-gacha-box-1.json](./278109-the-shape-of-things-gacha-box-1.json) |
 | The Shape of Time | 165730 | [165730-the-shape-of-time.json](./165730-the-shape-of-time.json) |
@@ -12413,6 +12415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The White Diner | 117575 | [117575-the-white-diner.json](./117575-the-white-diner.json) |
 | The White Flower | 392801 | [392801-the-white-flower.json](./392801-the-white-flower.json) |
 | The White Hell | 390545 | [390545-the-white-hell.json](./390545-the-white-hell.json) |
+| The White Lady of the Bridge Breaking in West Lake | 164594 | [164594-the-white-lady-of-the-bridge-breaking-in-west-lake.json](./164594-the-white-lady-of-the-bridge-breaking-in-west-lake.json) |
 | The White Lamb: No Shelter | 390074 | [390074-the-white-lamb-no-shelter.json](./390074-the-white-lamb-no-shelter.json) |
 | The White Owl | 276747 | [276747-the-white-owl.json](./276747-the-white-owl.json) |
 | The White Prison | 262912 | [262912-the-white-prison.json](./262912-the-white-prison.json) |
@@ -17347,6 +17350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Danmaku: Infinity | 233785 | [233785-touhou-danmaku-infinity.json](./233785-touhou-danmaku-infinity.json) |
 | TouHou Dew Valley | 262654 | [262654-touhou-dew-valley.json](./262654-touhou-dew-valley.json) |
 | Touhou Diablo: Treasure Hunter G | 191487 | [191487-touhou-diablo-treasure-hunter-g.json](./191487-touhou-diablo-treasure-hunter-g.json) |
+| Touhou DollDraft | 164598 | [164598-touhou-dolldraft.json](./164598-touhou-dolldraft.json) |
 | Touhou Doumeiju: Mystical Power Plant | 246671 | [246671-touhou-doumeiju-mystical-power-plant.json](./246671-touhou-doumeiju-mystical-power-plant.json) |
 | Touhou Dream Duel | 347095 | [347095-touhou-dream-duel.json](./347095-touhou-dream-duel.json) |
 | Touhou Drunken Rebellion | 372678 | [372678-touhou-drunken-rebellion.json](./372678-touhou-drunken-rebellion.json) |
