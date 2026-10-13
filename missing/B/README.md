@@ -3866,6 +3866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Befabled | 183477 | [183477-befabled.json](./183477-befabled.json) |
 | Before | 380013 | [380013-before.json](./380013-before.json) |
 | Before Closure | 369925 | [369925-before-closure.json](./369925-before-closure.json) |
+| Before Dark | 149858 | [149858-before-dark.json](./149858-before-dark.json) |
 | Before Dawn | 229101 | [229101-before-dawn.json](./229101-before-dawn.json) |
 | Before Exit: Gas Station - Daylight DLC | 378305 | [378305-before-exit-gas-station-daylight-dlc.json](./378305-before-exit-gas-station-daylight-dlc.json) |
 | Before Exit: Gas Station - Midnight DLC | 378304 | [378304-before-exit-gas-station-midnight-dlc.json](./378304-before-exit-gas-station-midnight-dlc.json) |
@@ -6826,6 +6827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block King Demands Red Squares | 347088 | [347088-block-king-demands-red-squares.json](./347088-block-king-demands-red-squares.json) |
 | Block Kuzushi | 38269 | [38269-block-kuzushi.json](./38269-block-kuzushi.json) |
 | Block Line Engineer | 188944 | [188944-block-line-engineer.json](./188944-block-line-engineer.json) |
+| Block Machine | 149901 | [149901-block-machine.json](./149901-block-machine.json) |
 | Block Magic Puzzle | 290466 | [290466-block-magic-puzzle.json](./290466-block-magic-puzzle.json) |
 | Block Man Adventures | 295557 | [295557-block-man-adventures.json](./295557-block-man-adventures.json) |
 | Block Master 3D Puzzle | 357976 | [357976-block-master-3d-puzzle.json](./357976-block-master-3d-puzzle.json) |
