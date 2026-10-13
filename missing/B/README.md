@@ -684,6 +684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baff | 118340 | [118340-baff.json](./118340-baff.json) |
 | Baff 4 | 234348 | [234348-baff-4.json](./234348-baff-4.json) |
 | Baff C | 412384 | [412384-baff-c.json](./412384-baff-c.json) |
+| Baff F | 156881 | [156881-baff-f.json](./156881-baff-f.json) |
 | Baffle Ball | 92639 | [92639-baffle-ball.json](./92639-baffle-ball.json) |
 | Baffle My Mind | 88211 | [88211-baffle-my-mind.json](./88211-baffle-my-mind.json) |
 | BAFL: Brakes Are For Losers | 44740 | [44740-bafl-brakes-are-for-losers.json](./44740-bafl-brakes-are-for-losers.json) |
@@ -1068,6 +1069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballistic | 302039 | [302039-ballistic.json](./302039-ballistic.json) |
 | Ballistic | 80488 | [80488-ballistic.json](./80488-ballistic.json) |
 | Ballistic Brews | 415866 | [415866-ballistic-brews.json](./415866-ballistic-brews.json) |
+| Ballistic M.A.D.ness | 156887 | [156887-ballistic-m-a-d-ness.json](./156887-ballistic-m-a-d-ness.json) |
 | Ballistic Mini Golf | 74117 | [74117-ballistic-mini-golf.json](./74117-ballistic-mini-golf.json) |
 | Ballistic Overkill | 17320 | [17320-ballistic-overkill.json](./17320-ballistic-overkill.json) |
 | Ballistic Tanks | 32327 | [32327-ballistic-tanks.json](./32327-ballistic-tanks.json) |
