@@ -767,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baking Time: Speedy Animals | 300947 | [300947-baking-time-speedy-animals.json](./300947-baking-time-speedy-animals.json) |
 | Baking Time: Strong Pets | 300948 | [300948-baking-time-strong-pets.json](./300948-baking-time-strong-pets.json) |
 | Bakkaniya | 249498 | [249498-bakkaniya.json](./249498-bakkaniya.json) |
+| Baklava Simulator | 165757 | [165757-baklava-simulator.json](./165757-baklava-simulator.json) |
 | Baklava Simulator 2 | 283975 | [283975-baklava-simulator-2.json](./283975-baklava-simulator-2.json) |
 | baKno Chess | 87149 | [87149-bakno-chess.json](./87149-bakno-chess.json) |
 | Bako | 190934 | [190934-bako.json](./190934-bako.json) |
@@ -9422,6 +9423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brambles in the Mist | 168338 | [168338-brambles-in-the-mist.json](./168338-brambles-in-the-mist.json) |
 | Braminar | 80614 | [80614-braminar.json](./80614-braminar.json) |
 | Branchbound: Launch of the Logs | 377064 | [377064-branchbound-launch-of-the-logs.json](./377064-branchbound-launch-of-the-logs.json) |
+| Branches | 165725 | [165725-branches.json](./165725-branches.json) |
 | Brand | 63553 | [63553-brand.json](./63553-brand.json) |
 | Brand New World | 290613 | [290613-brand-new-world.json](./290613-brand-new-world.json) |
 | Brand! New! Friends! | 372477 | [372477-brand-new-friends.json](./372477-brand-new-friends.json) |
