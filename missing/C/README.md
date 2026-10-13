@@ -5596,6 +5596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle = Circle | 293853 | [293853-circle-circle.json](./293853-circle-circle.json) |
 | Circle Breakout | 128577 | [128577-circle-breakout.json](./128577-circle-breakout.json) |
 | Circle Empires | 104937 | [104937-circle-empires.json](./104937-circle-empires.json) |
+| Circle Empires Rivals: Forces of Nature | 171520 | [171520-circle-empires-rivals-forces-of-nature.json](./171520-circle-empires-rivals-forces-of-nature.json) |
 | Circle Empires Tactics | 145295 | [145295-circle-empires-tactics.json](./145295-circle-empires-tactics.json) |
 | Circle of Blood | 616 | [616-circle-of-blood.json](./616-circle-of-blood.json) |
 | Circle of Football | 137614 | [137614-circle-of-football.json](./137614-circle-of-football.json) |
@@ -6249,6 +6250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Sudoku | 126741 | [126741-classic-sudoku.json](./126741-classic-sudoku.json) |
 | Classic Sudoku | 206973 | [206973-classic-sudoku.json](./206973-classic-sudoku.json) |
 | Classic Table Tennis | 90848 | [90848-classic-table-tennis.json](./90848-classic-table-tennis.json) |
+| Classic Tanks 2020 | 171340 | [171340-classic-tanks-2020.json](./171340-classic-tanks-2020.json) |
 | Classic Train Simulator | 202684 | [202684-classic-train-simulator.json](./202684-classic-train-simulator.json) |
 | Classic Trivia | 87062 | [87062-classic-trivia.json](./87062-classic-trivia.json) |
 | Classic Us | 393463 | [393463-classic-us.json](./393463-classic-us.json) |
@@ -12521,6 +12523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curfuffles | 255036 | [255036-curfuffles.json](./255036-curfuffles.json) |
 | Curiosaurios Club: Un Viaje Espacial | 147375 | [147375-curiosaurios-club-un-viaje-espacial.json](./147375-curiosaurios-club-un-viaje-espacial.json) |
 | Curiosity | 108949 | [108949-curiosity.json](./108949-curiosity.json) |
+| Curiosity | 171329 | [171329-curiosity.json](./171329-curiosity.json) |
 | Curiosity | 318392 | [318392-curiosity.json](./318392-curiosity.json) |
 | Curiosity Killed the Explorer | 277541 | [277541-curiosity-killed-the-explorer.json](./277541-curiosity-killed-the-explorer.json) |
 | Curiosity of a Turnabout | 310423 | [310423-curiosity-of-a-turnabout.json](./310423-curiosity-of-a-turnabout.json) |
