@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T06:34:34.628Z",
-  "total_missing": 205073,
+  "generated_at": "2026-10-13T06:49:46.991Z",
+  "total_missing": 205123,
   "games": [
     {
       "igdb_id": 191680,
@@ -14683,6 +14683,16 @@
       "file": "missing/A/122649-a-total-war-saga-troy.json"
     },
     {
+      "igdb_id": 166274,
+      "game_name": "A Total War Saga: Troy - Ajax & Diomedes",
+      "file": "missing/A/166274-a-total-war-saga-troy-ajax-and-diomedes.json"
+    },
+    {
+      "igdb_id": 166273,
+      "game_name": "A Total War Saga: Troy - Amazons",
+      "file": "missing/A/166273-a-total-war-saga-troy-amazons.json"
+    },
+    {
       "igdb_id": 169185,
       "game_name": "A Total War Saga: Troy - Heroic Edition",
       "file": "missing/A/169185-a-total-war-saga-troy-heroic-edition.json"
@@ -26031,6 +26041,11 @@
       "igdb_id": 150039,
       "game_name": "Aibeya 2",
       "file": "missing/A/150039-aibeya-2.json"
+    },
+    {
+      "igdb_id": 166265,
+      "game_name": "Aibeya: Premium Limited Edition",
+      "file": "missing/A/166265-aibeya-premium-limited-edition.json"
     },
     {
       "igdb_id": 269543,
@@ -73533,6 +73548,11 @@
       "file": "missing/B/166611-ball-bounce-maze.json"
     },
     {
+      "igdb_id": 166289,
+      "game_name": "Ball Bounce Progress",
+      "file": "missing/B/166289-ball-bounce-progress.json"
+    },
+    {
       "igdb_id": 412511,
       "game_name": "Ball Boy Simulator",
       "file": "missing/B/412511-ball-boy-simulator.json"
@@ -82356,6 +82376,11 @@
       "igdb_id": 38216,
       "game_name": "Battle Tycoon: Flash Hiders SFX",
       "file": "missing/B/38216-battle-tycoon-flash-hiders-sfx.json"
+    },
+    {
+      "igdb_id": 166281,
+      "game_name": "Battle Wave 2323",
+      "file": "missing/B/166281-battle-wave-2323.json"
     },
     {
       "igdb_id": 314633,
@@ -99116,6 +99141,11 @@
       "igdb_id": 250430,
       "game_name": "Blackpink: The Game",
       "file": "missing/B/250430-blackpink-the-game.json"
+    },
+    {
+      "igdb_id": 166272,
+      "game_name": "Blacksad: Under the Skin - Collector's Edition",
+      "file": "missing/B/166272-blacksad-under-the-skin-collectors-edition.json"
     },
     {
       "igdb_id": 391334,
@@ -122358,6 +122388,11 @@
       "file": "missing/B/306587-bubsy-in-the-purrfect-collection.json"
     },
     {
+      "igdb_id": 166269,
+      "game_name": "Bubsy: Paws on Fire - Limited Edition",
+      "file": "missing/B/166269-bubsy-paws-on-fire-limited-edition.json"
+    },
+    {
       "igdb_id": 402300,
       "game_name": "Bubu Battle Royale",
       "file": "missing/B/402300-bubu-battle-royale.json"
@@ -132481,6 +132516,11 @@
       "igdb_id": 301662,
       "game_name": "Candy Hentai",
       "file": "missing/C/301662-candy-hentai.json"
+    },
+    {
+      "igdb_id": 166297,
+      "game_name": "Candy Ice Cream Jam Match 3",
+      "file": "missing/C/166297-candy-ice-cream-jam-match-3.json"
     },
     {
       "igdb_id": 147131,
@@ -173733,6 +173773,11 @@
       "file": "missing/C/150282-cookie-store.json"
     },
     {
+      "igdb_id": 166302,
+      "game_name": "Cookie Story Crush",
+      "file": "missing/C/166302-cookie-story-crush.json"
+    },
+    {
       "igdb_id": 181856,
       "game_name": "Cookie's Bakery",
       "file": "missing/C/181856-cookies-bakery.json"
@@ -206773,6 +206818,11 @@
       "file": "missing/D/389425-dead-or-alive-6-last-round.json"
     },
     {
+      "igdb_id": 166261,
+      "game_name": "Dead or Alive 6: Collector's Limited Edition",
+      "file": "missing/D/166261-dead-or-alive-6-collectors-limited-edition.json"
+    },
+    {
       "igdb_id": 225904,
       "game_name": "Dead or Alive 6: Energy Up! Training Wear Set",
       "file": "missing/D/225904-dead-or-alive-6-energy-up-training-wear-set.json"
@@ -221588,6 +221638,11 @@
       "file": "missing/D/221877-diabolik-lovers-more-blood-limited-v-edition.json"
     },
     {
+      "igdb_id": 166268,
+      "game_name": "Diabolik Lovers: Grand Edition - Limited Edition",
+      "file": "missing/D/166268-diabolik-lovers-grand-edition-limited-edition.json"
+    },
+    {
       "igdb_id": 44509,
       "game_name": "Diabolik Lovers: Haunted Dark Bridal - Limited Edition",
       "file": "missing/D/44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json"
@@ -230476,6 +230531,11 @@
       "igdb_id": 383046,
       "game_name": "DJMax Respect: Chunithm Pack",
       "file": "missing/D/383046-djmax-respect-chunithm-pack.json"
+    },
+    {
+      "igdb_id": 166278,
+      "game_name": "DJMax Respect: Limited Edition",
+      "file": "missing/D/166278-djmax-respect-limited-edition.json"
     },
     {
       "igdb_id": 383056,
@@ -253533,6 +253593,11 @@
       "file": "missing/D/184875-dungeon-of-the-gods.json"
     },
     {
+      "igdb_id": 166295,
+      "game_name": "Dungeon of Weirdos",
+      "file": "missing/D/166295-dungeon-of-weirdos.json"
+    },
+    {
       "igdb_id": 72637,
       "game_name": "Dungeon of Windaria",
       "file": "missing/D/72637-dungeon-of-windaria.json"
@@ -267318,6 +267383,11 @@
       "file": "missing/E/78589-empire-of-angels-iv.json"
     },
     {
+      "igdb_id": 166264,
+      "game_name": "Empire of Angels IV: Limited Edition",
+      "file": "missing/E/166264-empire-of-angels-iv-limited-edition.json"
+    },
+    {
       "igdb_id": 66950,
       "game_name": "Empire of Atlantis",
       "file": "missing/E/66950-empire-of-atlantis.json"
@@ -273346,6 +273416,11 @@
       "igdb_id": 312818,
       "game_name": "Escape from Bash Street School!",
       "file": "missing/E/312818-escape-from-bash-street-school.json"
+    },
+    {
+      "igdb_id": 166300,
+      "game_name": "Escape From Bell Cave",
+      "file": "missing/E/166300-escape-from-bell-cave.json"
     },
     {
       "igdb_id": 334325,
@@ -341553,6 +341628,11 @@
       "file": "missing/G/23442-ghost-blade.json"
     },
     {
+      "igdb_id": 166279,
+      "game_name": "Ghost Blade HD: Limited Edition",
+      "file": "missing/G/166279-ghost-blade-hd-limited-edition.json"
+    },
+    {
       "igdb_id": 391320,
       "game_name": "Ghost Blood",
       "file": "missing/G/391320-ghost-blood.json"
@@ -342321,6 +342401,11 @@
       "igdb_id": 228987,
       "game_name": "Ghost?",
       "file": "missing/G/228987-ghost.json"
+    },
+    {
+      "igdb_id": 166301,
+      "game_name": "Ghost'n Brothers",
+      "file": "missing/G/166301-ghostn-brothers.json"
     },
     {
       "igdb_id": 180182,
@@ -350681,6 +350766,11 @@
       "igdb_id": 142952,
       "game_name": "Goldfish Brain",
       "file": "missing/G/142952-goldfish-brain.json"
+    },
+    {
+      "igdb_id": 166298,
+      "game_name": "Goldfish Go-Karts",
+      "file": "missing/G/166298-goldfish-go-karts.json"
     },
     {
       "igdb_id": 107075,
@@ -391278,6 +391368,11 @@
       "file": "missing/H/263932-higurashi-no-naku-koro-ni-hou-kamikashimashi-hen.json"
     },
     {
+      "igdb_id": 166271,
+      "game_name": "Higurashi no Naku Koro ni Hou: Limited Edition",
+      "file": "missing/H/166271-higurashi-no-naku-koro-ni-hou-limited-edition.json"
+    },
+    {
       "igdb_id": 263490,
       "game_name": "Higurashi no Naku Koro ni Hou: Outbreak",
       "file": "missing/H/263490-higurashi-no-naku-koro-ni-hou-outbreak.json"
@@ -414728,6 +414823,11 @@
       "file": "missing/I/3953-ikaruga.json"
     },
     {
+      "igdb_id": 166304,
+      "game_name": "Ikaruga: Limited Edition",
+      "file": "missing/I/166304-ikaruga-limited-edition.json"
+    },
+    {
       "igdb_id": 346150,
       "game_name": "Ikasama Mahjong",
       "file": "missing/I/346150-ikasama-mahjong.json"
@@ -429208,6 +429308,11 @@
       "file": "missing/I/299125-it-doesnt-have-to-be-like-this.json"
     },
     {
+      "igdb_id": 166299,
+      "game_name": "It Falls",
+      "file": "missing/I/166299-it-falls.json"
+    },
+    {
       "igdb_id": 207220,
       "game_name": "It Feeds",
       "file": "missing/I/207220-it-feeds.json"
@@ -435196,6 +435301,11 @@
       "igdb_id": 401014,
       "game_name": "Jewel Link: Atlantic Quest",
       "file": "missing/J/401014-jewel-link-atlantic-quest.json"
+    },
+    {
+      "igdb_id": 166288,
+      "game_name": "Jewel Magic Castle",
+      "file": "missing/J/166288-jewel-magic-castle.json"
     },
     {
       "igdb_id": 360069,
@@ -514323,6 +514433,11 @@
       "file": "missing/M/89548-mary-skelter-2.json"
     },
     {
+      "igdb_id": 166266,
+      "game_name": "Mary Skelter 2: Limited Edition",
+      "file": "missing/M/166266-mary-skelter-2-limited-edition.json"
+    },
+    {
       "igdb_id": 131974,
       "game_name": "Mary Skelter Finale",
       "file": "missing/M/131974-mary-skelter-finale.json"
@@ -543403,6 +543518,11 @@
       "file": "missing/M/116145-mistover.json"
     },
     {
+      "igdb_id": 166270,
+      "game_name": "Mistover: Limited Edition",
+      "file": "missing/M/166270-mistover-limited-edition.json"
+    },
+    {
       "igdb_id": 369774,
       "game_name": "Mistress Marigold's Home Improvement",
       "file": "missing/M/369774-mistress-marigolds-home-improvement.json"
@@ -548006,6 +548126,11 @@
       "igdb_id": 417673,
       "game_name": "Monochromatic Aberration",
       "file": "missing/M/417673-monochromatic-aberration.json"
+    },
+    {
+      "igdb_id": 166291,
+      "game_name": "Monochrome",
+      "file": "missing/M/166291-monochrome.json"
     },
     {
       "igdb_id": 123993,
@@ -583443,6 +583568,11 @@
       "file": "missing/N/44539-nier-automata-limited-edition-steelbook.json"
     },
     {
+      "igdb_id": 166307,
+      "game_name": "NieR: Automata - Steelbook Edition",
+      "file": "missing/N/166307-nier-automata-steelbook-edition.json"
+    },
+    {
       "igdb_id": 206805,
       "game_name": "Nier: Automata - The End of Yorha Edition",
       "file": "missing/N/206805-nier-automata-the-end-of-yorha-edition.json"
@@ -598698,6 +598828,11 @@
       "file": "missing/O/55977-office-space-idle-profits.json"
     },
     {
+      "igdb_id": 166285,
+      "game_name": "Office Strike War: Multiplayer Battle Royale",
+      "file": "missing/O/166285-office-strike-war-multiplayer-battle-royale.json"
+    },
+    {
       "igdb_id": 248664,
       "game_name": "Office Waifu",
       "file": "missing/O/248664-office-waifu.json"
@@ -604151,6 +604286,11 @@
       "igdb_id": 121417,
       "game_name": "One Piece: World Seeker - Deluxe Edition",
       "file": "missing/O/121417-one-piece-world-seeker-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 166282,
+      "game_name": "One Piece: World Seeker - The Pirate King Edition",
+      "file": "missing/O/166282-one-piece-world-seeker-the-pirate-king-edition.json"
     },
     {
       "igdb_id": 152911,
@@ -624798,6 +624938,11 @@
       "file": "missing/P/193129-pathfinder-wrath-of-the-righteous-a-visitor-from-distant-lands.json"
     },
     {
+      "igdb_id": 166283,
+      "game_name": "Pathfinder: Wrath of the Righteous - Commander Edition",
+      "file": "missing/P/166283-pathfinder-wrath-of-the-righteous-commander-edition.json"
+    },
+    {
       "igdb_id": 193128,
       "game_name": "Pathfinder: Wrath of the Righteous - Faces of War",
       "file": "missing/P/193128-pathfinder-wrath-of-the-righteous-faces-of-war.json"
@@ -624816,6 +624961,11 @@
       "igdb_id": 186869,
       "game_name": "Pathfinder: Wrath of the Righteous - Love Beyond Death",
       "file": "missing/P/186869-pathfinder-wrath-of-the-righteous-love-beyond-death.json"
+    },
+    {
+      "igdb_id": 166284,
+      "game_name": "Pathfinder: Wrath of the Righteous - Mythic Edition",
+      "file": "missing/P/166284-pathfinder-wrath-of-the-righteous-mythic-edition.json"
     },
     {
       "igdb_id": 193127,
@@ -671398,6 +671548,11 @@
       "file": "missing/P/390192-pupple-pop.json"
     },
     {
+      "igdb_id": 166290,
+      "game_name": "Puppo!",
+      "file": "missing/P/166290-puppo.json"
+    },
+    {
       "igdb_id": 213392,
       "game_name": "Puppy Balloon Ride",
       "file": "missing/P/213392-puppy-balloon-ride.json"
@@ -671421,6 +671576,11 @@
       "igdb_id": 106357,
       "game_name": "Puppy Dentist",
       "file": "missing/P/106357-puppy-dentist.json"
+    },
+    {
+      "igdb_id": 166294,
+      "game_name": "Puppy Dog Pop: Bubble Shoot Mania",
+      "file": "missing/P/166294-puppy-dog-pop-bubble-shoot-mania.json"
     },
     {
       "igdb_id": 105994,
@@ -672346,6 +672506,11 @@
       "igdb_id": 215037,
       "game_name": "Pushing Crates",
       "file": "missing/P/215037-pushing-crates.json"
+    },
+    {
+      "igdb_id": 166296,
+      "game_name": "Pushing Hands: Fighting Game",
+      "file": "missing/P/166296-pushing-hands-fighting-game.json"
     },
     {
       "igdb_id": 298033,
@@ -680211,6 +680376,11 @@
       "igdb_id": 157560,
       "game_name": "R.T.O. Tales of the Dark Lands: Deluxe Edition",
       "file": "missing/R/157560-r-t-o-tales-of-the-dark-lands-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 166292,
+      "game_name": "R.U.N",
+      "file": "missing/R/166292-r-u-n.json"
     },
     {
       "igdb_id": 59363,
@@ -700746,6 +700916,11 @@
       "igdb_id": 419152,
       "game_name": "Reverie: An Odd Sim Date",
       "file": "missing/R/419152-reverie-an-odd-sim-date.json"
+    },
+    {
+      "igdb_id": 166303,
+      "game_name": "Reverie: Limited Edition",
+      "file": "missing/R/166303-reverie-limited-edition.json"
     },
     {
       "igdb_id": 114418,
@@ -739856,6 +740031,11 @@
       "igdb_id": 330277,
       "game_name": "Sense Off: A Sacred Story in the Wind",
       "file": "missing/S/330277-sense-off-a-sacred-story-in-the-wind.json"
+    },
+    {
+      "igdb_id": 166263,
+      "game_name": "Sense: A Cyberpunk Ghost Story - Limited Edition",
+      "file": "missing/S/166263-sense-a-cyberpunk-ghost-story-limited-edition.json"
     },
     {
       "igdb_id": 358430,
@@ -817218,6 +817398,11 @@
       "file": "missing/S/124799-sudden-strike-4-finland-winter-storm.json"
     },
     {
+      "igdb_id": 166280,
+      "game_name": "Sudden Strike 4: Steelbook Edition",
+      "file": "missing/S/166280-sudden-strike-4-steelbook-edition.json"
+    },
+    {
       "igdb_id": 355088,
       "game_name": "Sudden Strike 5",
       "file": "missing/S/355088-sudden-strike-5.json"
@@ -828603,6 +828788,16 @@
       "file": "missing/S/80139-super-robot-wars-og-the-moon-dwellers.json"
     },
     {
+      "igdb_id": 166276,
+      "game_name": "Super Robot Wars OG: The Moon Dwellers - Collector's Edition",
+      "file": "missing/S/166276-super-robot-wars-og-the-moon-dwellers-collectors-edition.json"
+    },
+    {
+      "igdb_id": 166306,
+      "game_name": "Super Robot Wars OG: The Moon Dwellers - Limited Edition",
+      "file": "missing/S/166306-super-robot-wars-og-the-moon-dwellers-limited-edition.json"
+    },
+    {
       "igdb_id": 87796,
       "game_name": "Super Robot Wars X",
       "file": "missing/S/87796-super-robot-wars-x.json"
@@ -837426,6 +837621,11 @@
       "igdb_id": 166157,
       "game_name": "Sword Art Online: Alicization Lycoris - Deluxe Edition",
       "file": "missing/S/166157-sword-art-online-alicization-lycoris-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 166309,
+      "game_name": "Sword Art Online: Alicization Lycoris - Limited Edition",
+      "file": "missing/S/166309-sword-art-online-alicization-lycoris-limited-edition.json"
     },
     {
       "igdb_id": 139224,
@@ -846723,6 +846923,11 @@
       "file": "missing/T/82005-tank-game.json"
     },
     {
+      "igdb_id": 166275,
+      "game_name": "Tank Golfing",
+      "file": "missing/T/166275-tank-golfing.json"
+    },
+    {
       "igdb_id": 231885,
       "game_name": "Tank Hero: Awesome Tank War g",
       "file": "missing/T/231885-tank-hero-awesome-tank-war-g.json"
@@ -848196,6 +848401,11 @@
       "igdb_id": 214195,
       "game_name": "Tap the Blocks",
       "file": "missing/T/214195-tap-the-blocks.json"
+    },
+    {
+      "igdb_id": 166287,
+      "game_name": "Tap the Frog: Doodle",
+      "file": "missing/T/166287-tap-the-frog-doodle.json"
     },
     {
       "igdb_id": 158568,
@@ -850498,6 +850708,11 @@
       "file": "missing/T/103018-team-sonic-racing.json"
     },
     {
+      "igdb_id": 166305,
+      "game_name": "Team Sonic Racing: 30th Anniversary Edition",
+      "file": "missing/T/166305-team-sonic-racing-30th-anniversary-edition.json"
+    },
+    {
       "igdb_id": 12792,
       "game_name": "Team Suzuki",
       "file": "missing/T/12792-team-suzuki.json"
@@ -852016,6 +852231,11 @@
       "igdb_id": 163266,
       "game_name": "Tekken 7: Cave of Enlightenment",
       "file": "missing/T/163266-tekken-7-cave-of-enlightenment.json"
+    },
+    {
+      "igdb_id": 166277,
+      "game_name": "Tekken 7: Collector's Edition",
+      "file": "missing/T/166277-tekken-7-collectors-edition.json"
     },
     {
       "igdb_id": 173152,
@@ -894328,6 +894548,11 @@
       "file": "missing/T/226791-the-sims-4-pastel-pop-kit.json"
     },
     {
+      "igdb_id": 166308,
+      "game_name": "The Sims 4: Plus Eco Lifestyle Bundle",
+      "file": "missing/T/166308-the-sims-4-plus-eco-lifestyle-bundle.json"
+    },
+    {
       "igdb_id": 136201,
       "game_name": "The Sims 4: Plus Island Living Bundle",
       "file": "missing/T/136201-the-sims-4-plus-island-living-bundle.json"
@@ -914361,6 +914586,11 @@
       "igdb_id": 239221,
       "game_name": "Tiles Fall",
       "file": "missing/T/239221-tiles-fall.json"
+    },
+    {
+      "igdb_id": 166293,
+      "game_name": "Tiles Hop: EDM Rush!",
+      "file": "missing/T/166293-tiles-hop-edm-rush.json"
     },
     {
       "igdb_id": 108439,
@@ -951213,6 +951443,11 @@
       "file": "missing/U/51059-ultimate-party-challenge.json"
     },
     {
+      "igdb_id": 166286,
+      "game_name": "Ultimate Physical Wrestling",
+      "file": "missing/U/166286-ultimate-physical-wrestling.json"
+    },
+    {
       "igdb_id": 146840,
       "game_name": "Ultimate Pinball",
       "file": "missing/U/146840-ultimate-pinball.json"
@@ -961953,6 +962188,11 @@
       "file": "missing/V/125987-vader-immortal-a-star-wars-vr-series.json"
     },
     {
+      "igdb_id": 166260,
+      "game_name": "Vader Immortal: A Star Wars VR Series - Special Retail Edition",
+      "file": "missing/V/166260-vader-immortal-a-star-wars-vr-series-special-retail-edition.json"
+    },
+    {
       "igdb_id": 122633,
       "game_name": "Vader Immortal: Episode II",
       "file": "missing/V/122633-vader-immortal-episode-ii.json"
@@ -966986,6 +967226,11 @@
       "igdb_id": 302186,
       "game_name": "Vest A Life",
       "file": "missing/V/302186-vest-a-life.json"
+    },
+    {
+      "igdb_id": 166267,
+      "game_name": "Vesta: Limited Edition",
+      "file": "missing/V/166267-vesta-limited-edition.json"
     },
     {
       "igdb_id": 186886,
@@ -1007056,6 +1007301,11 @@
       "igdb_id": 27663,
       "game_name": "X-Morph: Defense",
       "file": "missing/X/27663-x-morph-defense.json"
+    },
+    {
+      "igdb_id": 166262,
+      "game_name": "X-Morph: Defense - Limited Edition",
+      "file": "missing/X/166262-x-morph-defense-limited-edition.json"
     },
     {
       "igdb_id": 50110,
