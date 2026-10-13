@@ -9358,17 +9358,26 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Extreme Fusion Pack | 72764 | [72764-dragon-ball-extreme-fusion-pack.json](./72764-dragon-ball-extreme-fusion-pack.json) |
 | Dragon Ball FighterZ | 36911 | [36911-dragon-ball-fighterz.json](./36911-dragon-ball-fighterz.json) |
 | Dragon Ball FighterZ and Dragon Ball Xenoverse 2 Double Pack | 144760 | [144760-dragon-ball-fighterz-and-dragon-ball-xenoverse-2-double-pack.json](./144760-dragon-ball-fighterz-and-dragon-ball-xenoverse-2-double-pack.json) |
+| Dragon Ball FighterZ: Android 17 | 144712 | [144712-dragon-ball-fighterz-android-17.json](./144712-dragon-ball-fighterz-android-17.json) |
 | Dragon Ball FighterZ: Android 21 - Lab Coat | 263393 | [263393-dragon-ball-fighterz-android-21-lab-coat.json](./263393-dragon-ball-fighterz-android-21-lab-coat.json) |
+| Dragon Ball FighterZ: Bardock | 144702 | [144702-dragon-ball-fighterz-bardock.json](./144702-dragon-ball-fighterz-bardock.json) |
+| Dragon Ball FighterZ: Broly | 144701 | [144701-dragon-ball-fighterz-broly.json](./144701-dragon-ball-fighterz-broly.json) |
 | Dragon Ball FighterZ: Commentator Voice Pack | 366823 | [366823-dragon-ball-fighterz-commentator-voice-pack.json](./366823-dragon-ball-fighterz-commentator-voice-pack.json) |
 | Dragon Ball FighterZ: Commentator Voice Pack 2 | 366820 | [366820-dragon-ball-fighterz-commentator-voice-pack-2.json](./366820-dragon-ball-fighterz-commentator-voice-pack-2.json) |
 | Dragon Ball FighterZ: Commentator Voice Pack 3 | 366821 | [366821-dragon-ball-fighterz-commentator-voice-pack-3.json](./366821-dragon-ball-fighterz-commentator-voice-pack-3.json) |
 | Dragon Ball FighterZ: Commentator Voice Pack 4 | 366818 | [366818-dragon-ball-fighterz-commentator-voice-pack-4.json](./366818-dragon-ball-fighterz-commentator-voice-pack-4.json) |
+| Dragon Ball FighterZ: Cooler | 144710 | [144710-dragon-ball-fighterz-cooler.json](./144710-dragon-ball-fighterz-cooler.json) |
 | Dragon Ball FighterZ: Daima Pack | 399111 | [399111-dragon-ball-fighterz-daima-pack.json](./399111-dragon-ball-fighterz-daima-pack.json) |
 | Dragon Ball FighterZ: Dragon Ball Daima Pack | 399188 | [399188-dragon-ball-fighterz-dragon-ball-daima-pack.json](./399188-dragon-ball-fighterz-dragon-ball-daima-pack.json) |
 | Dragon Ball FighterZ: Exclusive SS Goku Lobby Avatar | 366822 | [366822-dragon-ball-fighterz-exclusive-ss-goku-lobby-avatar.json](./366822-dragon-ball-fighterz-exclusive-ss-goku-lobby-avatar.json) |
+| Dragon Ball FighterZ: FighterZ Pass | 144714 | [144714-dragon-ball-fighterz-fighterz-pass.json](./144714-dragon-ball-fighterz-fighterz-pass.json) |
+| Dragon Ball FighterZ: Goku | 144706 | [144706-dragon-ball-fighterz-goku.json](./144706-dragon-ball-fighterz-goku.json) |
 | Dragon Ball FighterZ: Legendary Edition | 288859 | [288859-dragon-ball-fighterz-legendary-edition.json](./288859-dragon-ball-fighterz-legendary-edition.json) |
 | Dragon Ball FighterZ: Stamps Girls Pack | 366819 | [366819-dragon-ball-fighterz-stamps-girls-pack.json](./366819-dragon-ball-fighterz-stamps-girls-pack.json) |
 | Dragon Ball FighterZ: Super Edition | 200680 | [200680-dragon-ball-fighterz-super-edition.json](./200680-dragon-ball-fighterz-super-edition.json) |
+| Dragon Ball FighterZ: Vegeta | 144707 | [144707-dragon-ball-fighterz-vegeta.json](./144707-dragon-ball-fighterz-vegeta.json) |
+| Dragon Ball FighterZ: Vegito (SSGSS) | 144705 | [144705-dragon-ball-fighterz-vegito-ssgss.json](./144705-dragon-ball-fighterz-vegito-ssgss.json) |
+| Dragon Ball FighterZ: Zamasu (Fused) | 144704 | [144704-dragon-ball-fighterz-zamasu-fused.json](./144704-dragon-ball-fighterz-zamasu-fused.json) |
 | Dragon Ball Fusions | 19314 | [19314-dragon-ball-fusions.json](./19314-dragon-ball-fusions.json) |
 | Dragon Ball GT: Final Bout | 2558 | [2558-dragon-ball-gt-final-bout.json](./2558-dragon-ball-gt-final-bout.json) |
 | Dragon Ball GT: Transformation 2 | 66363 | [66363-dragon-ball-gt-transformation-2.json](./66363-dragon-ball-gt-transformation-2.json) |
