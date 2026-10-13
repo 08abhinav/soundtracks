@@ -2042,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manifold | 165407 | [165407-manifold.json](./165407-manifold.json) |
 | Manika | 290528 | [290528-manika.json](./290528-manika.json) |
 | Manikineko Online | 392458 | [392458-manikineko-online.json](./392458-manikineko-online.json) |
+| Manipulate: Sacrifice | 150968 | [150968-manipulate-sacrifice.json](./150968-manipulate-sacrifice.json) |
 | Manipulated | 28109 | [28109-manipulated.json](./28109-manipulated.json) |
 | Manipulation | 380600 | [380600-manipulation.json](./380600-manipulation.json) |
 | Manipulator of Figure 3 | 335448 | [335448-manipulator-of-figure-3.json](./335448-manipulator-of-figure-3.json) |
@@ -2111,6 +2112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manuganu 2 | 175909 | [175909-manuganu-2.json](./175909-manuganu-2.json) |
 | Manus Dei | 269226 | [269226-manus-dei.json](./269226-manus-dei.json) |
 | Manx TT Super Bike | 36572 | [36572-manx-tt-super-bike.json](./36572-manx-tt-super-bike.json) |
+| Many Bricks Breaker | 150947 | [150947-many-bricks-breaker.json](./150947-many-bricks-breaker.json) |
 | Many Crimes of Serenity Falls | 301917 | [301917-many-crimes-of-serenity-falls.json](./301917-many-crimes-of-serenity-falls.json) |
 | Many Eyed | 270051 | [270051-many-eyed.json](./270051-many-eyed.json) |
 | Many Faces | 127823 | [127823-many-faces.json](./127823-many-faces.json) |
