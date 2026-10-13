@@ -6720,6 +6720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sika: Tribe's salvation | 184985 | [184985-sika-tribes-salvation.json](./184985-sika-tribes-salvation.json) |
 | Sikanda | 108380 | [108380-sikanda.json](./108380-sikanda.json) |
 | Sikhl | 308266 | [308266-sikhl.json](./308266-sikhl.json) |
+| Sil | 148296 | [148296-sil.json](./148296-sil.json) |
 | Sil and the Fading World | 331103 | [331103-sil-and-the-fading-world.json](./331103-sil-and-the-fading-world.json) |
 | Silah | 176195 | [176195-silah.json](./176195-silah.json) |
 | Silberheim Evolving Card Game | 393787 | [393787-silberheim-evolving-card-game.json](./393787-silberheim-evolving-card-game.json) |
@@ -18134,6 +18135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategic Mind Complete Franchise Bundle | 274431 | [274431-strategic-mind-complete-franchise-bundle.json](./274431-strategic-mind-complete-franchise-bundle.json) |
 | Strategic Mind: Fight for Dominance | 257425 | [257425-strategic-mind-fight-for-dominance.json](./257425-strategic-mind-fight-for-dominance.json) |
 | Strategic Mind: Fight for Dominance + Kaiju Wars - Fight Monsters Bundle | 289417 | [289417-strategic-mind-fight-for-dominance-kaiju-wars-fight-monsters-bundle.json](./289417-strategic-mind-fight-for-dominance-kaiju-wars-fight-monsters-bundle.json) |
+| Strategic Mind: Spectre of Communism | 148300 | [148300-strategic-mind-spectre-of-communism.json](./148300-strategic-mind-spectre-of-communism.json) |
 | Strategic Simulations: Commander's Collection | 73779 | [73779-strategic-simulations-commanders-collection.json](./73779-strategic-simulations-commanders-collection.json) |
 | Strategic Stalemate | 364969 | [364969-strategic-stalemate.json](./364969-strategic-stalemate.json) |
 | Strategic War in Europe | 9467 | [9467-strategic-war-in-europe.json](./9467-strategic-war-in-europe.json) |
@@ -18580,6 +18582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike City | 410390 | [410390-strike-city.json](./410390-strike-city.json) |
 | Strike Commander and Privateer TwinPack | 72134 | [72134-strike-commander-and-privateer-twinpack.json](./72134-strike-commander-and-privateer-twinpack.json) |
 | Strike Commander: Tactical Operations | 70914 | [70914-strike-commander-tactical-operations.json](./70914-strike-commander-tactical-operations.json) |
+| Strike Daz Cans | 148325 | [148325-strike-daz-cans.json](./148325-strike-daz-cans.json) |
 | Strike Fighters: Project 1 | 23766 | [23766-strike-fighters-project-1.json](./23766-strike-fighters-project-1.json) |
 | Strike Force | 273011 | [273011-strike-force.json](./273011-strike-force.json) |
 | Strike Force | 46856 | [46856-strike-force.json](./46856-strike-force.json) |
@@ -21845,6 +21848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tutor: Spelling | 59376 | [59376-super-tutor-spelling.json](./59376-super-tutor-spelling.json) |
 | Super Tux Party | 184420 | [184420-super-tux-party.json](./184420-super-tux-party.json) |
 | Super Tyrone Land | 142464 | [142464-super-tyrone-land.json](./142464-super-tyrone-land.json) |
+| Super Ubie Island 2 | 148311 | [148311-super-ubie-island-2.json](./148311-super-ubie-island-2.json) |
 | Super Ubie Land | 85530 | [85530-super-ubie-land.json](./85530-super-ubie-land.json) |
 | Super UDK & RU Country | 322792 | [322792-super-udk-and-ru-country.json](./322792-super-udk-and-ru-country.json) |
 | Super Ultimate Fighters X | 381710 | [381710-super-ultimate-fighters-x.json](./381710-super-ultimate-fighters-x.json) |
@@ -23594,6 +23598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Et Sis | 228511 | [228511-synth-et-sis.json](./228511-synth-et-sis.json) |
 | Synth Laser | 373201 | [373201-synth-laser.json](./373201-synth-laser.json) |
 | Synth Pong | 235759 | [235759-synth-pong.json](./235759-synth-pong.json) |
+| Synth Retro Vapor Wave | 148309 | [148309-synth-retro-vapor-wave.json](./148309-synth-retro-vapor-wave.json) |
 | Synth Riders | 105333 | [105333-synth-riders.json](./105333-synth-riders.json) |
 | Synth Riders | 372492 | [372492-synth-riders.json](./372492-synth-riders.json) |
 | Synth Riders: 80s Mixtape - Side A | 356903 | [356903-synth-riders-80s-mixtape-side-a.json](./356903-synth-riders-80s-mixtape-side-a.json) |
