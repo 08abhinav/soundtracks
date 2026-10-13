@@ -2417,6 +2417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whackerball | 234120 | [234120-whackerball.json](./234120-whackerball.json) |
 | Whacking Hell! | 282223 | [282223-whacking-hell.json](./282223-whacking-hell.json) |
 | Whacky Ball | 243712 | [243712-whacky-ball.json](./243712-whacky-ball.json) |
+| Whacky Golf | 161578 | [161578-whacky-golf.json](./161578-whacky-golf.json) |
 | Whacky Park | 216796 | [216796-whacky-park.json](./216796-whacky-park.json) |
 | Whale Eater | 183981 | [183981-whale-eater.json](./183981-whale-eater.json) |
 | Whale Game Online | 274529 | [274529-whale-game-online.json](./274529-whale-game-online.json) |
