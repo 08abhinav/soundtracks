@@ -3093,6 +3093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrible Life Expectancy | 352386 | [352386-terrible-life-expectancy.json](./352386-terrible-life-expectancy.json) |
 | Terrible Teeth | 167156 | [167156-terrible-teeth.json](./167156-terrible-teeth.json) |
 | Terrierble Logic | 251008 | [251008-terrierble-logic.json](./251008-terrierble-logic.json) |
+| Terrifying 9/11 | 165146 | [165146-terrifying-9-11.json](./165146-terrifying-9-11.json) |
 | Territopple | 379666 | [379666-territopple.json](./379666-territopple.json) |
 | Territorial.io | 152149 | [152149-territorial-io.json](./152149-territorial-io.json) |
 | Territory | 171036 | [171036-territory.json](./171036-territory.json) |
@@ -4757,6 +4758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chick C | 191265 | [191265-the-chick-c.json](./191265-the-chick-c.json) |
 | The Chicken Bandit | 61117 | [61117-the-chicken-bandit.json](./61117-the-chicken-bandit.json) |
 | The Chicken Game | 229603 | [229603-the-chicken-game.json](./229603-the-chicken-game.json) |
+| The Chikafag and Chika | 165133 | [165133-the-chikafag-and-chika.json](./165133-the-chikafag-and-chika.json) |
 | The Child Of Slendrina | 323911 | [323911-the-child-of-slendrina.json](./323911-the-child-of-slendrina.json) |
 | The Children of Clay | 320420 | [320420-the-children-of-clay.json](./320420-the-children-of-clay.json) |
 | The Children's Friend | 236731 | [236731-the-childrens-friend.json](./236731-the-childrens-friend.json) |
@@ -9297,6 +9299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Network | 21777 | [21777-the-network.json](./21777-the-network.json) |
 | The Neurochemical Conjob | 291396 | [291396-the-neurochemical-conjob.json](./291396-the-neurochemical-conjob.json) |
 | The Never-Ending Sleepover | 370785 | [370785-the-never-ending-sleepover.json](./370785-the-never-ending-sleepover.json) |
+| The Neverending Labyrinth | 165149 | [165149-the-neverending-labyrinth.json](./165149-the-neverending-labyrinth.json) |
 | The NeverEnding Story | 13020 | [13020-the-neverending-story.json](./13020-the-neverending-story.json) |
 | The Neverending Story II | 80515 | [80515-the-neverending-story-ii.json](./80515-the-neverending-story-ii.json) |
 | The Neverhood | 2164 | [2164-the-neverhood.json](./2164-the-neverhood.json) |
@@ -15042,6 +15045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Out Sports: Baseball | 57936 | [57936-time-out-sports-baseball.json](./57936-time-out-sports-baseball.json) |
 | Time Over | 368658 | [368658-time-over.json](./368658-time-over.json) |
 | Time Parallax: The Burial Vault | 262291 | [262291-time-parallax-the-burial-vault.json](./262291-time-parallax-the-burial-vault.json) |
+| Time Patrol | 165171 | [165171-time-patrol.json](./165171-time-patrol.json) |
 | Time Pilot | 246402 | [246402-time-pilot.json](./246402-time-pilot.json) |
 | Time Pilot Demake | 303780 | [303780-time-pilot-demake.json](./303780-time-pilot-demake.json) |
 | Time Princess | 142715 | [142715-time-princess.json](./142715-time-princess.json) |
@@ -15633,6 +15637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanigods | 328469 | [328469-titanigods.json](./328469-titanigods.json) |
 | Titanion | 50413 | [50413-titanion.json](./50413-titanion.json) |
 | Titanium Hound | 217386 | [217386-titanium-hound.json](./217386-titanium-hound.json) |
+| Titankin: Prologue | 165111 | [165111-titankin-prologue.json](./165111-titankin-prologue.json) |
 | Titans Black Ops | 165596 | [165596-titans-black-ops.json](./165596-titans-black-ops.json) |
 | Titans Clinic | 329062 | [329062-titans-clinic.json](./329062-titans-clinic.json) |
 | Titans Clinic VR | 252105 | [252105-titans-clinic-vr.json](./252105-titans-clinic-vr.json) |
@@ -15684,6 +15689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TKKG: Mystery of the Mayan Treasure | 206216 | [206216-tkkg-mystery-of-the-mayan-treasure.json](./206216-tkkg-mystery-of-the-mayan-treasure.json) |
 | TKKG: The Betrayal | 206217 | [206217-tkkg-the-betrayal.json](./206217-tkkg-the-betrayal.json) |
 | TKKG: Verrat an TKKG | 150019 | [150019-tkkg-verrat-an-tkkg.json](./150019-tkkg-verrat-an-tkkg.json) |
+| TKKG: Voodoozauber | 165158 | [165158-tkkg-voodoozauber.json](./165158-tkkg-voodoozauber.json) |
 | TKKG: Wer stoppt den Feuerteufel? | 158722 | [158722-tkkg-wer-stoppt-den-feuerteufel.json](./158722-tkkg-wer-stoppt-den-feuerteufel.json) |
 | Tkl Online | 36106 | [36106-tkl-online.json](./36106-tkl-online.json) |
 | TKO | 78914 | [78914-tko.json](./78914-tko.json) |
@@ -16442,6 +16448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: Legend | 248536 | [248536-tomb-raider-legend.json](./248536-tomb-raider-legend.json) |
 | Tomb Raider: Legend | 305560 | [305560-tomb-raider-legend.json](./305560-tomb-raider-legend.json) |
 | Tomb Raider: Lost and Found | 408978 | [408978-tomb-raider-lost-and-found.json](./408978-tomb-raider-lost-and-found.json) |
+| Tomb Raider: Quest for Cinnabar | 165177 | [165177-tomb-raider-quest-for-cinnabar.json](./165177-tomb-raider-quest-for-cinnabar.json) |
 | Tomb Raider: Shanty Town | 172133 | [172133-tomb-raider-shanty-town.json](./172133-tomb-raider-shanty-town.json) |
 | Tomb Raider: Survival Edition | 53817 | [53817-tomb-raider-survival-edition.json](./53817-tomb-raider-survival-edition.json) |
 | Tomb Raider: The Action Adventure | 123009 | [123009-tomb-raider-the-action-adventure.json](./123009-tomb-raider-the-action-adventure.json) |
@@ -16450,6 +16457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: The Angel of Darkness 1.5 | 156178 | [156178-tomb-raider-the-angel-of-darkness-1-5.json](./156178-tomb-raider-the-angel-of-darkness-1-5.json) |
 | Tomb Raider: The Last Revelation | 319749 | [319749-tomb-raider-the-last-revelation.json](./319749-tomb-raider-the-last-revelation.json) |
 | Tomb Raider: The Last Revelation - The Times | 68115 | [68115-tomb-raider-the-last-revelation-the-times.json](./68115-tomb-raider-the-last-revelation-the-times.json) |
+| Tomb Raider: The Osiris Codex | 165176 | [165176-tomb-raider-the-osiris-codex.json](./165176-tomb-raider-the-osiris-codex.json) |
 | Tomb Raider: The Prophecy | 18809 | [18809-tomb-raider-the-prophecy.json](./18809-tomb-raider-the-prophecy.json) |
 | Tomb Raider: Tomb of the Lost Adventurer | 144991 | [144991-tomb-raider-tomb-of-the-lost-adventurer.json](./144991-tomb-raider-tomb-of-the-lost-adventurer.json) |
 | Tomb Raider: Underworld | 146720 | [146720-tomb-raider-underworld.json](./146720-tomb-raider-underworld.json) |
