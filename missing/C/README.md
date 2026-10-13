@@ -4635,6 +4635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Childhood | 128444 | [128444-childhood.json](./128444-childhood.json) |
 | Childhood Dreams: Jigsaw Puzzle | 242509 | [242509-childhood-dreams-jigsaw-puzzle.json](./242509-childhood-dreams-jigsaw-puzzle.json) |
 | Childhood Dreams: Jigsaw Puzzle - Expansion Pack 1 | 242510 | [242510-childhood-dreams-jigsaw-puzzle-expansion-pack-1.json](./242510-childhood-dreams-jigsaw-puzzle-expansion-pack-1.json) |
+| Childhood Friends | 150423 | [150423-childhood-friends.json](./150423-childhood-friends.json) |
 | Childhood Friends | 364958 | [364958-childhood-friends.json](./364958-childhood-friends.json) |
 | Childhood Gone: Shadowed Wand | 157536 | [157536-childhood-gone-shadowed-wand.json](./157536-childhood-gone-shadowed-wand.json) |
 | Childhood Watermelon | 366311 | [366311-childhood-watermelon.json](./366311-childhood-watermelon.json) |
@@ -6133,6 +6134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clan Fantasy Adventures | 373156 | [373156-clan-fantasy-adventures.json](./373156-clan-fantasy-adventures.json) |
 | Clan Generator | 212244 | [212244-clan-generator.json](./212244-clan-generator.json) |
 | Clan of Champions | 16341 | [16341-clan-of-champions.json](./16341-clan-of-champions.json) |
+| Clan of Death | 150430 | [150430-clan-of-death.json](./150430-clan-of-death.json) |
 | Clan Senki | 102872 | [102872-clan-senki.json](./102872-clan-senki.json) |
 | Clan Wars | 188089 | [188089-clan-wars.json](./188089-clan-wars.json) |
 | Clan Wars | 212162 | [212162-clan-wars.json](./212162-clan-wars.json) |
@@ -7929,6 +7931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloristic | 134426 | [134426-coloristic.json](./134426-coloristic.json) |
 | Colorize | 380079 | [380079-colorize.json](./380079-colorize.json) |
 | Colorize ASMR | 303051 | [303051-colorize-asmr.json](./303051-colorize-asmr.json) |
+| Colorize Inspect | 150425 | [150425-colorize-inspect.json](./150425-colorize-inspect.json) |
 | Colorizing: Cozy Days | 362199 | [362199-colorizing-cozy-days.json](./362199-colorizing-cozy-days.json) |
 | Colorizing: Daydream | 371420 | [371420-colorizing-daydream.json](./371420-colorizing-daydream.json) |
 | Colorizing: Good Times | 317233 | [317233-colorizing-good-times.json](./317233-colorizing-good-times.json) |
@@ -9085,6 +9088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Control Freak | 323799 | [323799-control-freak.json](./323799-control-freak.json) |
 | Control Headlights! | 181066 | [181066-control-headlights.json](./181066-control-headlights.json) |
 | Control Monger | 300497 | [300497-control-monger.json](./300497-control-monger.json) |
+| Control Over | 150437 | [150437-control-over.json](./150437-control-over.json) |
 | Control Resonant | 225582 | [225582-control-resonant.json](./225582-control-resonant.json) |
 | Control Resonant: Digital Deluxe Edition | 418570 | [418570-control-resonant-digital-deluxe-edition.json](./418570-control-resonant-digital-deluxe-edition.json) |
 | Control Room | 333794 | [333794-control-room.json](./333794-control-room.json) |
@@ -9492,6 +9496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corona Blossom Vol.1 Gift From the Galaxy | 32228 | [32228-corona-blossom-vol-1-gift-from-the-galaxy.json](./32228-corona-blossom-vol-1-gift-from-the-galaxy.json) |
 | Corona Blossom Vol.3 Journey to the Stars | 30334 | [30334-corona-blossom-vol-3-journey-to-the-stars.json](./30334-corona-blossom-vol-3-journey-to-the-stars.json) |
 | Corona Borealis | 113186 | [113186-corona-borealis.json](./113186-corona-borealis.json) |
+| Corona Find Us | 150419 | [150419-corona-find-us.json](./150419-corona-find-us.json) |
 | Corona Frustration Elimination | 165001 | [165001-corona-frustration-elimination.json](./165001-corona-frustration-elimination.json) |
 | Corona Kombat | 159582 | [159582-corona-kombat.json](./159582-corona-kombat.json) |
 | Corona MotorSport | 35926 | [35926-corona-motorsport.json](./35926-corona-motorsport.json) |
@@ -12674,6 +12679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curiosity of a Turnabout | 310423 | [310423-curiosity-of-a-turnabout.json](./310423-curiosity-of-a-turnabout.json) |
 | Curiosity Queller | 184392 | [184392-curiosity-queller.json](./184392-curiosity-queller.json) |
 | Curiosmos | 304883 | [304883-curiosmos.json](./304883-curiosmos.json) |
+| Curious Alice | 150456 | [150456-curious-alice.json](./150456-curious-alice.json) |
 | Curious Cases | 116470 | [116470-curious-cases.json](./116470-curious-cases.json) |
 | Curious Expedition | 19319 | [19319-curious-expedition.json](./19319-curious-expedition.json) |
 | Curious Expedition 2 Bundle | 218688 | [218688-curious-expedition-2-bundle.json](./218688-curious-expedition-2-bundle.json) |
@@ -12948,6 +12954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut the Rope: Blast | 183607 | [183607-cut-the-rope-blast.json](./183607-cut-the-rope-blast.json) |
 | Cut the Rope: Holiday Gift | 91951 | [91951-cut-the-rope-holiday-gift.json](./91951-cut-the-rope-holiday-gift.json) |
 | Cut the Rope: Magic | 46498 | [46498-cut-the-rope-magic.json](./46498-cut-the-rope-magic.json) |
+| Cut Them Up | 150461 | [150461-cut-them-up.json](./150461-cut-them-up.json) |
 | Cut to the Core | 203963 | [203963-cut-to-the-core.json](./203963-cut-to-the-core.json) |
 | Cut WallStreet2 | 255031 | [255031-cut-wallstreet2.json](./255031-cut-wallstreet2.json) |
 | Cute & Cozy 5-in-1 | 390510 | [390510-cute-and-cozy-5-in-1.json](./390510-cute-and-cozy-5-in-1.json) |
@@ -13341,6 +13348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberSpace Crossword Puzzle | 83450 | [83450-cyberspace-crossword-puzzle.json](./83450-cyberspace-crossword-puzzle.json) |
 | Cyberspace Defender | 347293 | [347293-cyberspace-defender.json](./347293-cyberspace-defender.json) |
 | Cyberspace VR | 160145 | [160145-cyberspace-vr.json](./160145-cyberspace-vr.json) |
+| Cyberspace: Infinite | 150457 | [150457-cyberspace-infinite.json](./150457-cyberspace-infinite.json) |
 | Cybersphere | 228696 | [228696-cybersphere.json](./228696-cybersphere.json) |
 | Cyberstorm | 204959 | [204959-cyberstorm.json](./204959-cyberstorm.json) |
 | CyberStorm 2: Corporate Wars | 11028 | [11028-cyberstorm-2-corporate-wars.json](./11028-cyberstorm-2-corporate-wars.json) |
