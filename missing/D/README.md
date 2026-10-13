@@ -798,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daredevil's Descent & Cryogenic Crypt | 271759 | [271759-daredevils-descent-and-cryogenic-crypt.json](./271759-daredevils-descent-and-cryogenic-crypt.json) |
 | Daregon | 57468 | [57468-daregon.json](./57468-daregon.json) |
 | Darfall | 217030 | [217030-darfall.json](./217030-darfall.json) |
+| Darfur is Dying | 172078 | [172078-darfur-is-dying.json](./172078-darfur-is-dying.json) |
 | Daria: A Kingdom Simulator | 275101 | [275101-daria-a-kingdom-simulator.json](./275101-daria-a-kingdom-simulator.json) |
 | Daring Academy | 211816 | [211816-daring-academy.json](./211816-daring-academy.json) |
 | Darius | 6789 | [6789-darius.json](./6789-darius.json) |
@@ -5516,6 +5517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Didnapper | 295249 | [295249-didnapper.json](./295249-didnapper.json) |
 | Die 3 | 269641 | [269641-die-3.json](./269641-die-3.json) |
 | Die Again | 133340 | [133340-die-again.json](./133340-die-again.json) |
+| Die Again: Northern Front | 172091 | [172091-die-again-northern-front.json](./172091-die-again-northern-front.json) |
 | Die Alien Slime | 13593 | [13593-die-alien-slime.json](./13593-die-alien-slime.json) |
 | Die Bahnwelt | 82035 | [82035-die-bahnwelt.json](./82035-die-bahnwelt.json) |
 | Die Biene Maja: Klatschmohnwiese in Gefahr | 94425 | [94425-die-biene-maja-klatschmohnwiese-in-gefahr.json](./94425-die-biene-maja-klatschmohnwiese-in-gefahr.json) |
@@ -7754,6 +7756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominos Pro | 86694 | [86694-dominos-pro.json](./86694-dominos-pro.json) |
 | Dominos Pro | 86873 | [86873-dominos-pro.json](./86873-dominos-pro.json) |
 | Dominot | 389023 | [389023-dominot.json](./389023-dominot.json) |
+| Dominus | 172081 | [172081-dominus.json](./172081-dominus.json) |
 | Dominus 2 | 106421 | [106421-dominus-2.json](./106421-dominus-2.json) |
 | Dominus Diabolicus | 294764 | [294764-dominus-diabolicus.json](./294764-dominus-diabolicus.json) |
 | Dominus Galaxia | 124744 | [124744-dominus-galaxia.json](./124744-dominus-galaxia.json) |
