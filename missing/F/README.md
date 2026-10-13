@@ -1517,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 4: Kyrat Edition | 41616 | [41616-far-cry-4-kyrat-edition.json](./41616-far-cry-4-kyrat-edition.json) |
 | Far Cry 4: Steelbook Edition | 51531 | [51531-far-cry-4-steelbook-edition.json](./51531-far-cry-4-steelbook-edition.json) |
 | Far Cry 4: Valley of The Yetis | 23383 | [23383-far-cry-4-valley-of-the-yetis.json](./23383-far-cry-4-valley-of-the-yetis.json) |
+| Far Cry 5 + Far Cry: New Dawn Double Pack | 146032 | [146032-far-cry-5-far-cry-new-dawn-double-pack.json](./146032-far-cry-5-far-cry-new-dawn-double-pack.json) |
 | Far Cry 5: Resistance Edition | 83887 | [83887-far-cry-5-resistance-edition.json](./83887-far-cry-5-resistance-edition.json) |
 | Far Cry 5: The Father Edition | 83886 | [83886-far-cry-5-the-father-edition.json](./83886-far-cry-5-the-father-edition.json) |
 | Far Cry 6: Collector's Edition | 149987 | [149987-far-cry-6-collectors-edition.json](./149987-far-cry-6-collectors-edition.json) |
@@ -1562,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Horizon | 291163 | [291163-far-horizon.json](./291163-far-horizon.json) |
 | Far Lands | 411567 | [411567-far-lands.json](./411567-far-lands.json) |
 | Far light | 166775 | [166775-far-light.json](./166775-far-light.json) |
+| Far North Survival | 146065 | [146065-far-north-survival.json](./146065-far-north-survival.json) |
 | Far Out: Selene | 258028 | [258028-far-out-selene.json](./258028-far-out-selene.json) |
 | Far Sector | 173285 | [173285-far-sector.json](./173285-far-sector.json) |
 | Far Side of the Mirror | 368511 | [368511-far-side-of-the-mirror.json](./368511-far-side-of-the-mirror.json) |
@@ -2185,6 +2187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Samurai Remnant: Digital Deluxe Edition | 259526 | [259526-fate-samurai-remnant-digital-deluxe-edition.json](./259526-fate-samurai-remnant-digital-deluxe-edition.json) |
 | Fate/Stay Night | 12328 | [12328-fate-stay-night.json](./12328-fate-stay-night.json) |
 | Fate/Stay Night: First Press Limited Edition | 307303 | [307303-fate-stay-night-first-press-limited-edition.json](./307303-fate-stay-night-first-press-limited-edition.json) |
+| Fate/Stay Night: Réalta Nua | 146062 | [146062-fate-stay-night-realta-nua.json](./146062-fate-stay-night-realta-nua.json) |
 | Fate/Stay Night: Réalta Nua - Fate | 47067 | [47067-fate-stay-night-realta-nua-fate.json](./47067-fate-stay-night-realta-nua-fate.json) |
 | Fate/Stay Night: Réalta Nua - Heaven's Feel | 47066 | [47066-fate-stay-night-realta-nua-heavens-feel.json](./47066-fate-stay-night-realta-nua-heavens-feel.json) |
 | Fate/tiger colosseum | 12331 | [12331-fate-tiger-colosseum.json](./12331-fate-tiger-colosseum.json) |
@@ -3319,6 +3322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Tactics: The Ivalice Chronicles | 347121 | [347121-final-fantasy-tactics-the-ivalice-chronicles.json](./347121-final-fantasy-tactics-the-ivalice-chronicles.json) |
 | Final Fantasy Tactics: The War of the Lions | 394 | [394-final-fantasy-tactics-the-war-of-the-lions.json](./394-final-fantasy-tactics-the-war-of-the-lions.json) |
 | Final Fantasy Type-0 HD: Limited Edition | 186630 | [186630-final-fantasy-type-0-hd-limited-edition.json](./186630-final-fantasy-type-0-hd-limited-edition.json) |
+| Final Fantasy V | 146069 | [146069-final-fantasy-v.json](./146069-final-fantasy-v.json) |
 | Final Fantasy V | 158984 | [158984-final-fantasy-v.json](./158984-final-fantasy-v.json) |
 | Final Fantasy V | 288349 | [288349-final-fantasy-v.json](./288349-final-fantasy-v.json) |
 | Final Fantasy V | 400427 | [400427-final-fantasy-v.json](./400427-final-fantasy-v.json) |
@@ -5862,6 +5866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fomalhaut Flowers | 159714 | [159714-fomalhaut-flowers.json](./159714-fomalhaut-flowers.json) |
 | FoMO | 272771 | [272771-fomo.json](./272771-fomo.json) |
 | Fomography | 264003 | [264003-fomography.json](./264003-fomography.json) |
+| FOnline: Ashes of Phoenix | 146067 | [146067-fonline-ashes-of-phoenix.json](./146067-fonline-ashes-of-phoenix.json) |
 | Fono | 161336 | [161336-fono.json](./161336-fono.json) |
 | Font Quiz | 232059 | [232059-font-quiz.json](./232059-font-quiz.json) |
 | Fonzi Fuddy: Ace Defective | 322050 | [322050-fonzi-fuddy-ace-defective.json](./322050-fonzi-fuddy-ace-defective.json) |
@@ -7858,6 +7863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FriendOS | 374604 | [374604-friendos.json](./374604-friendos.json) |
 | Friends and Fangs | 391712 | [391712-friends-and-fangs.json](./391712-friends-and-fangs.json) |
 | Friends in a Room | 295770 | [295770-friends-in-a-room.json](./295770-friends-in-a-room.json) |
+| Friends Killing Friends | 146085 | [146085-friends-killing-friends.json](./146085-friends-killing-friends.json) |
 | Friends Marble | 91337 | [91337-friends-marble.json](./91337-friends-marble.json) |
 | Friends of a Feather | 391128 | [391128-friends-of-a-feather.json](./391128-friends-of-a-feather.json) |
 | Friends of Little Yus | 191158 | [191158-friends-of-little-yus.json](./191158-friends-of-little-yus.json) |
