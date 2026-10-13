@@ -4229,6 +4229,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liveza: Death of the Earth | 32960 | [32960-liveza-death-of-the-earth.json](./32960-liveza-death-of-the-earth.json) |
 | Livid Meadow | 271209 | [271209-livid-meadow.json](./271209-livid-meadow.json) |
 | Living Art | 195555 | [195555-living-art.json](./195555-living-art.json) |
+| Living Books: Arthur's Birthday | 134330 | [134330-living-books-arthurs-birthday.json](./134330-living-books-arthurs-birthday.json) |
+| Living Books: Arthur's Computer Adventure | 134339 | [134339-living-books-arthurs-computer-adventure.json](./134339-living-books-arthurs-computer-adventure.json) |
 | Living Books: Arthur's Reading Race | 144031 | [144031-living-books-arthurs-reading-race.json](./144031-living-books-arthurs-reading-race.json) |
 | Living Books: D.W. the Picky Eater | 122276 | [122276-living-books-d-w-the-picky-eater.json](./122276-living-books-d-w-the-picky-eater.json) |
 | Living Books: Dr. Seuss's ABC | 134447 | [134447-living-books-dr-seusss-abc.json](./134447-living-books-dr-seusss-abc.json) |
