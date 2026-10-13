@@ -2328,6 +2328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PB Makes Lunch | 177411 | [177411-pb-makes-lunch.json](./177411-pb-makes-lunch.json) |
 | PBA Bowling | 75210 | [75210-pba-bowling.json](./75210-pba-bowling.json) |
 | PBA Bowling 2 | 94674 | [94674-pba-bowling-2.json](./94674-pba-bowling-2.json) |
+| PBA Pro Bowling 2021 | 142172 | [142172-pba-pro-bowling-2021.json](./142172-pba-pro-bowling-2021.json) |
 | PBA Pro Bowling 2026 | 369592 | [369592-pba-pro-bowling-2026.json](./369592-pba-pro-bowling-2026.json) |
 | PBA Pro Bowling 2027 | 416842 | [416842-pba-pro-bowling-2027.json](./416842-pba-pro-bowling-2027.json) |
 | PBA Tour Bowling II | 210011 | [210011-pba-tour-bowling-ii.json](./210011-pba-tour-bowling-ii.json) |
@@ -2974,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Periodic Lottery | 403192 | [403192-periodic-lottery.json](./403192-periodic-lottery.json) |
 | Periodic Table: Game | 356690 | [356690-periodic-table-game.json](./356690-periodic-table-game.json) |
 | Periodicity: Hats and Scars | 341583 | [341583-periodicity-hats-and-scars.json](./341583-periodicity-hats-and-scars.json) |
+| Peripeteia | 142186 | [142186-peripeteia.json](./142186-peripeteia.json) |
 | Periphery | 377180 | [377180-periphery.json](./377180-periphery.json) |
 | Periphery Online | 207598 | [207598-periphery-online.json](./207598-periphery-online.json) |
 | Periphery Synthetic | 215696 | [215696-periphery-synthetic.json](./215696-periphery-synthetic.json) |
@@ -9137,6 +9139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prehistoric Animals | 69223 | [69223-prehistoric-animals.json](./69223-prehistoric-animals.json) |
 | Prehistoric Dude | 138774 | [138774-prehistoric-dude.json](./138774-prehistoric-dude.json) |
 | Prehistoric Gal | 293656 | [293656-prehistoric-gal.json](./293656-prehistoric-gal.json) |
+| Prehistoric Hunt | 142203 | [142203-prehistoric-hunt.json](./142203-prehistoric-hunt.json) |
 | Prehistoric Isle | 78964 | [78964-prehistoric-isle.json](./78964-prehistoric-isle.json) |
 | Prehistoric Isle 2 | 39280 | [39280-prehistoric-isle-2.json](./39280-prehistoric-isle-2.json) |
 | Prehistoric Kingdom | 54499 | [54499-prehistoric-kingdom.json](./54499-prehistoric-kingdom.json) |
@@ -12204,6 +12207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzrama | 152918 | [152918-puzzrama.json](./152918-puzzrama.json) |
 | Puzzsoft’s Cooleidoscope | 316050 | [316050-puzzsoft-s-cooleidoscope.json](./316050-puzzsoft-s-cooleidoscope.json) |
 | Puzzwords | 91908 | [91908-puzzwords.json](./91908-puzzwords.json) |
+| Puzzzle | 142218 | [142218-puzzzle.json](./142218-puzzzle.json) |
 | PVPClicker | 382896 | [382896-pvpclicker.json](./382896-pvpclicker.json) |
 | PvPillman | 285463 | [285463-pvpillman.json](./285463-pvpillman.json) |
 | Pwanet Pwotector | 335408 | [335408-pwanet-pwotector.json](./335408-pwanet-pwotector.json) |
