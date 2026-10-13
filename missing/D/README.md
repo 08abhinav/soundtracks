@@ -1278,6 +1278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Train | 25298 | [25298-dark-train.json](./25298-dark-train.json) |
 | Dark Train: Coupe | 51436 | [51436-dark-train-coupe.json](./51436-dark-train-coupe.json) |
 | Dark Traveller | 241952 | [241952-dark-traveller.json](./241952-dark-traveller.json) |
+| Dark Treasury | 151482 | [151482-dark-treasury.json](./151482-dark-treasury.json) |
 | Dark Umbra | 295793 | [295793-dark-umbra.json](./295793-dark-umbra.json) |
 | Dark Universe | 256893 | [256893-dark-universe.json](./256893-dark-universe.json) |
 | Dark Universe | 69798 | [69798-dark-universe.json](./69798-dark-universe.json) |
@@ -10229,6 +10230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Job: Delivery Simulator | 249713 | [249713-dream-job-delivery-simulator.json](./249713-dream-job-delivery-simulator.json) |
 | Dream Journey | 201623 | [201623-dream-journey.json](./201623-dream-journey.json) |
 | Dream Kitchen | 190421 | [190421-dream-kitchen.json](./190421-dream-kitchen.json) |
+| Dream Knights | 151481 | [151481-dream-knights.json](./151481-dream-knights.json) |
 | Dream Knights: The Little Hero | 181372 | [181372-dream-knights-the-little-hero.json](./181372-dream-knights-the-little-hero.json) |
 | Dream Kombat | 229382 | [229382-dream-kombat.json](./229382-dream-kombat.json) |
 | Dream Labyrinth | 181934 | [181934-dream-labyrinth.json](./181934-dream-labyrinth.json) |
