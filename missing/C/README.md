@@ -405,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty Tactics | 276488 | [276488-call-of-duty-tactics.json](./276488-call-of-duty-tactics.json) |
 | Call of Duty: Advanced Warfare - Ascendance | 20890 | [20890-call-of-duty-advanced-warfare-ascendance.json](./20890-call-of-duty-advanced-warfare-ascendance.json) |
 | Call of Duty: Advanced Warfare - Atlas Digital Pack | 25973 | [25973-call-of-duty-advanced-warfare-atlas-digital-pack.json](./25973-call-of-duty-advanced-warfare-atlas-digital-pack.json) |
+| Call of Duty: Advanced Warfare - Atlas Limited Edition | 136290 | [136290-call-of-duty-advanced-warfare-atlas-limited-edition.json](./136290-call-of-duty-advanced-warfare-atlas-limited-edition.json) |
 | Call of Duty: Advanced Warfare - Dubbed Edition | 201043 | [201043-call-of-duty-advanced-warfare-dubbed-edition.json](./201043-call-of-duty-advanced-warfare-dubbed-edition.json) |
 | Call of Duty: Advanced Warfare - Gold Edition | 99788 | [99788-call-of-duty-advanced-warfare-gold-edition.json](./99788-call-of-duty-advanced-warfare-gold-edition.json) |
 | Call of Duty: Advanced Warfare - Havoc | 20889 | [20889-call-of-duty-advanced-warfare-havoc.json](./20889-call-of-duty-advanced-warfare-havoc.json) |
@@ -1165,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Kaon | 27566 | [27566-captain-kaon.json](./27566-captain-kaon.json) |
 | Captain Knick Knack | 210641 | [210641-captain-knick-knack.json](./210641-captain-knick-knack.json) |
 | Captain Laserhawk: The G.A.M.E. | 283390 | [283390-captain-laserhawk-the-g-a-m-e.json](./283390-captain-laserhawk-the-g-a-m-e.json) |
+| Captain Love!! | 137322 | [137322-captain-love.json](./137322-captain-love.json) |
 | Captain MaCaw | 110165 | [110165-captain-macaw.json](./110165-captain-macaw.json) |
 | Captain MaCaw 2 | 238594 | [238594-captain-macaw-2.json](./238594-captain-macaw-2.json) |
 | Captain Mayo | 137491 | [137491-captain-mayo.json](./137491-captain-mayo.json) |
@@ -1654,6 +1656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Career of the President | 164860 | [164860-career-of-the-president.json](./164860-career-of-the-president.json) |
 | Caren and the Tangled Tentacles | 344976 | [344976-caren-and-the-tangled-tentacles.json](./344976-caren-and-the-tangled-tentacles.json) |
 | Carena | 135830 | [135830-carena.json](./135830-carena.json) |
+| Carestia | 136143 | [136143-carestia.json](./136143-carestia.json) |
 | Caretaker Retribution | 34236 | [34236-caretaker-retribution.json](./34236-caretaker-retribution.json) |
 | Cargame | 143727 | [143727-cargame.json](./143727-cargame.json) |
 | Cargasm | 79256 | [79256-cargasm.json](./79256-cargasm.json) |
@@ -7831,6 +7834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Game 10k | 362358 | [362358-coloring-game-10k.json](./362358-coloring-game-10k.json) |
 | Coloring Game 2 | 130094 | [130094-coloring-game-2.json](./130094-coloring-game-2.json) |
 | Coloring Game 2: Deluxe Edition | 162617 | [162617-coloring-game-2-deluxe-edition.json](./162617-coloring-game-2-deluxe-edition.json) |
+| Coloring Game 3 | 137339 | [137339-coloring-game-3.json](./137339-coloring-game-3.json) |
 | Coloring Game 3: Art Museum | 252759 | [252759-coloring-game-3-art-museum.json](./252759-coloring-game-3-art-museum.json) |
 | Coloring Game 3: Season Pass | 252761 | [252761-coloring-game-3-season-pass.json](./252761-coloring-game-3-season-pass.json) |
 | Coloring Game 3: Video Game No. 1 | 252760 | [252760-coloring-game-3-video-game-no-1.json](./252760-coloring-game-3-video-game-no-1.json) |
@@ -9158,6 +9162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Convent Of Magical Chambers | 404962 | [404962-convent-of-magical-chambers.json](./404962-convent-of-magical-chambers.json) |
 | Conventional Vampires | 301407 | [301407-conventional-vampires.json](./301407-conventional-vampires.json) |
 | Convergence | 380086 | [380086-convergence.json](./380086-convergence.json) |
+| Convergence Compulsion | 137345 | [137345-convergence-compulsion.json](./137345-convergence-compulsion.json) |
 | Convergence: A League of Legends Story | 127354 | [127354-convergence-a-league-of-legends-story.json](./127354-convergence-a-league-of-legends-story.json) |
 | Convergence: A League of Legends Story - Deluxe Edition | 249360 | [249360-convergence-a-league-of-legends-story-deluxe-edition.json](./249360-convergence-a-league-of-legends-story-deluxe-edition.json) |
 | Conversation With a Rock | 297099 | [297099-conversation-with-a-rock.json](./297099-conversation-with-a-rock.json) |
