@@ -3183,6 +3183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeker Of Shadows | 296625 | [296625-seeker-of-shadows.json](./296625-seeker-of-shadows.json) |
 | Seeker of the Ruins | 331304 | [331304-seeker-of-the-ruins.json](./331304-seeker-of-the-ruins.json) |
 | Seeker Shrine | 399735 | [399735-seeker-shrine.json](./399735-seeker-shrine.json) |
+| Seekers | 169342 | [169342-seekers.json](./169342-seekers.json) |
 | Seekers Aeterna | 217339 | [217339-seekers-aeterna.json](./217339-seekers-aeterna.json) |
 | Seekers of Eclipse | 278697 | [278697-seekers-of-eclipse.json](./278697-seekers-of-eclipse.json) |
 | Seekers of Sahul | 236356 | [236356-seekers-of-sahul.json](./236356-seekers-of-sahul.json) |
@@ -13218,6 +13219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceMaster X-7 | 23844 | [23844-spacemaster-x-7.json](./23844-spacemaster-x-7.json) |
 | Spacemen | 15696 | [15696-spacemen.json](./15696-spacemen.json) |
 | SpaceMerc | 55696 | [55696-spacemerc.json](./55696-spacemerc.json) |
+| SpaceNet: A Space Adventure | 169344 | [169344-spacenet-a-space-adventure.json](./169344-spacenet-a-space-adventure.json) |
 | SpacePod | 142319 | [142319-spacepod.json](./142319-spacepod.json) |
 | SpacePom | 192367 | [192367-spacepom.json](./192367-spacepom.json) |
 | Spaceport Architect | 419992 | [419992-spaceport-architect.json](./419992-spaceport-architect.json) |
@@ -20532,6 +20534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mano Bros: Jungle World | 320923 | [320923-super-mano-bros-jungle-world.json](./320923-super-mano-bros-jungle-world.json) |
 | Super Mansion | 72695 | [72695-super-mansion.json](./72695-super-mansion.json) |
 | Super Marathon | 72986 | [72986-super-marathon.json](./72986-super-marathon.json) |
+| Super Marble Brothers | 169352 | [169352-super-marble-brothers.json](./169352-super-marble-brothers.json) |
 | Super Marine | 234929 | [234929-super-marine.json](./234929-super-marine.json) |
 | Super Mario | 238096 | [238096-super-mario.json](./238096-super-mario.json) |
 | Super Mario /v/orld 2: Moot Point | 333702 | [333702-super-mario-v-orld-2-moot-point.json](./333702-super-mario-v-orld-2-moot-point.json) |
@@ -21256,6 +21259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Realistic Autocross VR | 123474 | [123474-super-realistic-autocross-vr.json](./123474-super-realistic-autocross-vr.json) |
 | Super Recoilfight | 117814 | [117814-super-recoilfight.json](./117814-super-recoilfight.json) |
 | Super Retro Chase | 182931 | [182931-super-retro-chase.json](./182931-super-retro-chase.json) |
+| Super Retro Fighter | 169484 | [169484-super-retro-fighter.json](./169484-super-retro-fighter.json) |
 | Super Retro Maker | 75404 | [75404-super-retro-maker.json](./75404-super-retro-maker.json) |
 | Super Retro Platformer Collection | 242770 | [242770-super-retro-platformer-collection.json](./242770-super-retro-platformer-collection.json) |
 | Super Retro Retry | 273399 | [273399-super-retro-retry.json](./273399-super-retro-retry.json) |
