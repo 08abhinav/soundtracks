@@ -2817,6 +2817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Hike | 385376 | [385376-night-hike.json](./385376-night-hike.json) |
 | Night House | 57503 | [57503-night-house.json](./57503-night-house.json) |
 | Night in the Countryside | 176400 | [176400-night-in-the-countryside.json](./176400-night-in-the-countryside.json) |
+| Night in the Storm | 134494 | [134494-night-in-the-storm.json](./134494-night-in-the-storm.json) |
 | Night in the Unpleasant House | 227837 | [227837-night-in-the-unpleasant-house.json](./227837-night-in-the-unpleasant-house.json) |
 | Night in the Woods: Longest Night | 55865 | [55865-night-in-the-woods-longest-night.json](./55865-night-in-the-woods-longest-night.json) |
 | Night in the Woods: Lost Constellation | 60719 | [60719-night-in-the-woods-lost-constellation.json](./60719-night-in-the-woods-lost-constellation.json) |
@@ -3755,6 +3756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NLL Lacrosse 2010 | 66705 | [66705-nll-lacrosse-2010.json](./66705-nll-lacrosse-2010.json) |
 | NMDC | 199584 | [199584-nmdc.json](./199584-nmdc.json) |
 | NMNE | 181106 | [181106-nmne.json](./181106-nmne.json) |
+| Nnnnnn | 134352 | [134352-nnnnnn.json](./134352-nnnnnn.json) |
 | No Afraid Of Battle | 341481 | [341481-no-afraid-of-battle.json](./341481-no-afraid-of-battle.json) |
 | No Alien Dating Allowed! | 382481 | [382481-no-alien-dating-allowed.json](./382481-no-alien-dating-allowed.json) |
 | No Anglerfish | 195104 | [195104-no-anglerfish.json](./195104-no-anglerfish.json) |
@@ -4350,6 +4352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonononogram | 343313 | [343313-nonononogram.json](./343313-nonononogram.json) |
 | Nonotown | 238467 | [238467-nonotown.json](./238467-nonotown.json) |
 | Nonozle: Food and Drink + Miscellaneous Puzzle Packs | 332610 | [332610-nonozle-food-and-drink-miscellaneous-puzzle-packs.json](./332610-nonozle-food-and-drink-miscellaneous-puzzle-packs.json) |
+| Nonsense Asteroid | 134327 | [134327-nonsense-asteroid.json](./134327-nonsense-asteroid.json) |
 | Nonsense Fall | 348937 | [348937-nonsense-fall.json](./348937-nonsense-fall.json) |
 | Nonsense Soccer | 156874 | [156874-nonsense-soccer.json](./156874-nonsense-soccer.json) |
 | Nonstop | 188427 | [188427-nonstop.json](./188427-nonstop.json) |
