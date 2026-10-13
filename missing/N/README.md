@@ -1449,6 +1449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemesis Realms | 80883 | [80883-nemesis-realms.json](./80883-nemesis-realms.json) |
 | Nemesis the Warlock | 37187 | [37187-nemesis-the-warlock.json](./37187-nemesis-the-warlock.json) |
 | Nemesis Z | 287211 | [287211-nemesis-z.json](./287211-nemesis-z.json) |
+| Nemesis: Race Against the Pandemic | 160063 | [160063-nemesis-race-against-the-pandemic.json](./160063-nemesis-race-against-the-pandemic.json) |
 | Nemesis: The Final Challenge | 262391 | [262391-nemesis-the-final-challenge.json](./262391-nemesis-the-final-challenge.json) |
 | Nemesis: The Final Challenge | 262392 | [262392-nemesis-the-final-challenge.json](./262392-nemesis-the-final-challenge.json) |
 | Nemexia | 142976 | [142976-nemexia.json](./142976-nemexia.json) |
@@ -4671,6 +4672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Dash | 256530 | [256530-nova-dash.json](./256530-nova-dash.json) |
 | Nova Empire | 98467 | [98467-nova-empire.json](./98467-nova-empire.json) |
 | Nova Force | 60583 | [60583-nova-force.json](./60583-nova-force.json) |
+| Nova Genetics | 160073 | [160073-nova-genetics.json](./160073-nova-genetics.json) |
 | Nova Golf | 89242 | [89242-nova-golf.json](./89242-nova-golf.json) |
 | Nova Impact | 405521 | [405521-nova-impact.json](./405521-nova-impact.json) |
 | Nova Island | 144768 | [144768-nova-island.json](./144768-nova-island.json) |
