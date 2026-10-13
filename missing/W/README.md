@@ -5160,6 +5160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Boxing | 48599 | [48599-world-boxing.json](./48599-world-boxing.json) |
 | World Boxing Challenge | 237372 | [237372-world-boxing-challenge.json](./237372-world-boxing-challenge.json) |
 | World Boxing Manager | 30292 | [30292-world-boxing-manager.json](./30292-world-boxing-manager.json) |
+| World Bus Driving Simulator | 174613 | [174613-world-bus-driving-simulator.json](./174613-world-bus-driving-simulator.json) |
 | World Challenge Golf | 385844 | [385844-world-challenge-golf.json](./385844-world-challenge-golf.json) |
 | World Champ | 130863 | [130863-world-champ.json](./130863-world-champ.json) |
 | World Championship Boxing Manager | 76142 | [76142-world-championship-boxing-manager.json](./76142-world-championship-boxing-manager.json) |
@@ -5318,6 +5319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Mana | 239710 | [239710-world-of-mana.json](./239710-world-of-mana.json) |
 | World of Mechs | 200940 | [200940-world-of-mechs.json](./200940-world-of-mechs.json) |
 | World of Mines: Creators Edition | 235206 | [235206-world-of-mines-creators-edition.json](./235206-world-of-mines-creators-edition.json) |
+| World of Mines! | 175146 | [175146-world-of-mines.json](./175146-world-of-mines.json) |
 | World of MiniMonsters | 167190 | [167190-world-of-minimonsters.json](./167190-world-of-minimonsters.json) |
 | World of Mixed Martial Arts 4 | 58187 | [58187-world-of-mixed-martial-arts-4.json](./58187-world-of-mixed-martial-arts-4.json) |
 | World of Mixed Martial Arts 5 | 125436 | [125436-world-of-mixed-martial-arts-5.json](./125436-world-of-mixed-martial-arts-5.json) |
@@ -5334,6 +5336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Outlaws: Sprint Cars 2002 | 23474 | [23474-world-of-outlaws-sprint-cars-2002.json](./23474-world-of-outlaws-sprint-cars-2002.json) |
 | World of Padman | 51251 | [51251-world-of-padman.json](./51251-world-of-padman.json) |
 | World of Paranoia | 167292 | [167292-world-of-paranoia.json](./167292-world-of-paranoia.json) |
+| World of Pets: Multiplayer | 174593 | [174593-world-of-pets-multiplayer.json](./174593-world-of-pets-multiplayer.json) |
 | World of Pool | 45995 | [45995-world-of-pool.json](./45995-world-of-pool.json) |
 | World of Radiance: The Girl in the Shadows | 403075 | [403075-world-of-radiance-the-girl-in-the-shadows.json](./403075-world-of-radiance-the-girl-in-the-shadows.json) |
 | World of Reinvention | 267430 | [267430-world-of-reinvention.json](./267430-world-of-reinvention.json) |
