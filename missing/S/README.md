@@ -1953,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scheming Through the Zombie Apocalypse: Episode 2 - Caged | 110542 | [110542-scheming-through-the-zombie-apocalypse-episode-2-caged.json](./110542-scheming-through-the-zombie-apocalypse-episode-2-caged.json) |
 | Schiffbruch | 76251 | [76251-schiffbruch.json](./76251-schiffbruch.json) |
 | SCHiM | 140799 | [140799-schim.json](./140799-schim.json) |
+| Schism | 136135 | [136135-schism.json](./136135-schism.json) |
 | Schism | 260885 | [260885-schism.json](./260885-schism.json) |
 | Schism | 266227 | [266227-schism.json](./266227-schism.json) |
 | Schismo's Sideshow | 313985 | [313985-schismos-sideshow.json](./313985-schismos-sideshow.json) |
@@ -3597,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura Burst | 9915 | [9915-senran-kagura-burst.json](./9915-senran-kagura-burst.json) |
 | Senran Kagura Burst Re:Newal - At the Seams Edition | 136354 | [136354-senran-kagura-burst-re-newal-at-the-seams-edition.json](./136354-senran-kagura-burst-re-newal-at-the-seams-edition.json) |
 | Senran Kagura Burst Re:Newal - Miyabi Character and Campaign | 248315 | [248315-senran-kagura-burst-re-newal-miyabi-character-and-campaign.json](./248315-senran-kagura-burst-re-newal-miyabi-character-and-campaign.json) |
+| Senran Kagura Burst Re:Newal - Tailor-Made Edition | 136293 | [136293-senran-kagura-burst-re-newal-tailor-made-edition.json](./136293-senran-kagura-burst-re-newal-tailor-made-edition.json) |
 | Senran Kagura Burst Re:Newal - Yumi Character and Campaign | 248311 | [248311-senran-kagura-burst-re-newal-yumi-character-and-campaign.json](./248311-senran-kagura-burst-re-newal-yumi-character-and-campaign.json) |
 | Senran Kagura Peach and Reflextions: Limited Double Pack | 117172 | [117172-senran-kagura-peach-and-reflextions-limited-double-pack.json](./117172-senran-kagura-peach-and-reflextions-limited-double-pack.json) |
 | Senran Kagura Peach Ball | 54521 | [54521-senran-kagura-peach-ball.json](./54521-senran-kagura-peach-ball.json) |
@@ -9873,6 +9875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite 5: Valentine's Weapon Skin Pack | 307279 | [307279-sniper-elite-5-valentines-weapon-skin-pack.json](./307279-sniper-elite-5-valentines-weapon-skin-pack.json) |
 | Sniper Elite 5: Winter Weapons Skin Pack | 307281 | [307281-sniper-elite-5-winter-weapons-skin-pack.json](./307281-sniper-elite-5-winter-weapons-skin-pack.json) |
 | Sniper Elite III | 8366 | [8366-sniper-elite-iii.json](./8366-sniper-elite-iii.json) |
+| Sniper Elite III: Collector's Edition | 136295 | [136295-sniper-elite-iii-collectors-edition.json](./136295-sniper-elite-iii-collectors-edition.json) |
 | Sniper Elite III: Save Churchill Part 2 - Belly of the Beast | 10874 | [10874-sniper-elite-iii-save-churchill-part-2-belly-of-the-beast.json](./10874-sniper-elite-iii-save-churchill-part-2-belly-of-the-beast.json) |
 | Sniper Elite III: Save Churchill Part 3 - Confrontation | 10875 | [10875-sniper-elite-iii-save-churchill-part-3-confrontation.json](./10875-sniper-elite-iii-save-churchill-part-3-confrontation.json) |
 | Sniper Elite III: Target Hitler - Hunt the Grey Wolf | 10876 | [10876-sniper-elite-iii-target-hitler-hunt-the-grey-wolf.json](./10876-sniper-elite-iii-target-hitler-hunt-the-grey-wolf.json) |
@@ -11366,6 +11369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Forces + Super Monkey Ball: Banana Blitz HD Double Pack | 139951 | [139951-sonic-forces-super-monkey-ball-banana-blitz-hd-double-pack.json](./139951-sonic-forces-super-monkey-ball-banana-blitz-hd-double-pack.json) |
 | Sonic Forces Adventure | 317359 | [317359-sonic-forces-adventure.json](./317359-sonic-forces-adventure.json) |
 | Sonic Forces Overclocked | 280749 | [280749-sonic-forces-overclocked.json](./280749-sonic-forces-overclocked.json) |
+| Sonic Forces: Day One Edition | 136167 | [136167-sonic-forces-day-one-edition.json](./136167-sonic-forces-day-one-edition.json) |
 | Sonic Forces: Speed Battle | 69392 | [69392-sonic-forces-speed-battle.json](./69392-sonic-forces-speed-battle.json) |
 | Sonic Free Riders: No Kinect Patch | 276926 | [276926-sonic-free-riders-no-kinect-patch.json](./276926-sonic-free-riders-no-kinect-patch.json) |
 | Sonic Freedom Frontiers | 316345 | [316345-sonic-freedom-frontiers.json](./316345-sonic-freedom-frontiers.json) |
