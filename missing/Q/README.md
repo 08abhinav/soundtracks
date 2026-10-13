@@ -389,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarantine Zone: The Last Check | 342760 | [342760-quarantine-zone-the-last-check.json](./342760-quarantine-zone-the-last-check.json) |
 | Quarantine-Z | 258541 | [258541-quarantine-z.json](./258541-quarantine-z.json) |
 | Quarantine: Global Pandemic | 164047 | [164047-quarantine-global-pandemic.json](./164047-quarantine-global-pandemic.json) |
+| Quarantini | 134923 | [134923-quarantini.json](./134923-quarantini.json) |
 | Quarked up Omnibus: Clean - Fix - Escape | 372600 | [372600-quarked-up-omnibus-clean-fix-escape.json](./372600-quarked-up-omnibus-clean-fix-escape.json) |
 | Quarrel | 20659 | [20659-quarrel.json](./20659-quarrel.json) |
 | Quarrel Hill | 295330 | [295330-quarrel-hill.json](./295330-quarrel-hill.json) |
@@ -531,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queens | 242695 | [242695-queens.json](./242695-queens.json) |
 | Queens Blade | 137380 | [137380-queens-blade.json](./137380-queens-blade.json) |
 | Queens Climax | 385303 | [385303-queens-climax.json](./385303-queens-climax.json) |
+| Queens Garden: Sakura Season | 133151 | [133151-queens-garden-sakura-season.json](./133151-queens-garden-sakura-season.json) |
 | Queensrÿche's Promised Land | 71465 | [71465-queensryches-promised-land.json](./71465-queensryches-promised-land.json) |
 | Queeny Army | 126565 | [126565-queeny-army.json](./126565-queeny-army.json) |
 | Queer and Chill | 149965 | [149965-queer-and-chill.json](./149965-queer-and-chill.json) |
