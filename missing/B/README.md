@@ -7713,6 +7713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blunted in The Malen | 302956 | [302956-blunted-in-the-malen.json](./302956-blunted-in-the-malen.json) |
 | Blur | 3235 | [3235-blur.json](./3235-blur.json) |
 | Blur time | 60790 | [60790-blur-time.json](./60790-blur-time.json) |
+| Blurple Food Wars | 143412 | [143412-blurple-food-wars.json](./143412-blurple-food-wars.json) |
 | Blurred Weird Night | 150647 | [150647-blurred-weird-night.json](./150647-blurred-weird-night.json) |
 | Blurry Shopping | 381098 | [381098-blurry-shopping.json](./381098-blurry-shopping.json) |
 | Blut Club | 229103 | [229103-blut-club.json](./229103-blut-club.json) |
