@@ -6179,6 +6179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Enigma | 258450 | [258450-for-enigma.json](./258450-for-enigma.json) |
 | For Eternity | 110309 | [110309-for-eternity.json](./110309-for-eternity.json) |
 | For Evelyn II: Shards of Creation | 236723 | [236723-for-evelyn-ii-shards-of-creation.json](./236723-for-evelyn-ii-shards-of-creation.json) |
+| for Give | 134334 | [134334-for-give.json](./134334-for-give.json) |
 | For God's Sake | 110793 | [110793-for-gods-sake.json](./110793-for-gods-sake.json) |
 | For God's Sake, Help Him! | 373647 | [373647-for-gods-sake-help-him.json](./373647-for-gods-sake-help-him.json) |
 | For Hell's Sake | 310027 | [310027-for-hells-sake.json](./310027-for-hells-sake.json) |
