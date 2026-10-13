@@ -11,7 +11,7 @@ OSTDB is a non-commercial fan project. It is not affiliated with, endorsed by, o
 
   > Data from [OSTDB (ostdb.net)](https://ostdb.net)
 
-- **Non-commercial use only.** For commercial use, ask first at [api@ostdb.net](mailto:api@ostdb.net).
+- **Non-commercial use only.** For commercial use, ask first at [api@ostdb.net](mailto:support@ostdb.net).
 - **ShareAlike.** If you publish a dataset built from OSTDB data, publish it under CC BY-NC-SA 4.0 too.
 - For live lookups, prefer the API at [ostdb.net/api](https://ostdb.net/api) over scraping the website.
 
