@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radium Lux | 349392 | [349392-radium-lux.json](./349392-radium-lux.json) |
 | Radix | 221658 | [221658-radix.json](./221658-radix.json) |
 | Radley Ravencroft's Spy Web Mystery | 343287 | [343287-radley-ravencrofts-spy-web-mystery.json](./343287-radley-ravencrofts-spy-web-mystery.json) |
+| Radon Blast | 144717 | [144717-radon-blast.json](./144717-radon-blast.json) |
 | Radzone | 256248 | [256248-radzone.json](./256248-radzone.json) |
 | Raef | 131588 | [131588-raef.json](./131588-raef.json) |
 | Raev: Kingdom on the Distant Shores | 336154 | [336154-raev-kingdom-on-the-distant-shores.json](./336154-raev-kingdom-on-the-distant-shores.json) |
@@ -4359,6 +4360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reworld | 130807 | [130807-reworld.json](./130807-reworld.json) |
 | Reworld | 193800 | [193800-reworld.json](./193800-reworld.json) |
 | Rewrite - DYH | 142892 | [142892-rewrite-dyh.json](./142892-rewrite-dyh.json) |
+| Rewrite Harvest festa! | 144733 | [144733-rewrite-harvest-festa.json](./144733-rewrite-harvest-festa.json) |
 | Rewrite the Romance: The Golden Lotus | 346567 | [346567-rewrite-the-romance-the-golden-lotus.json](./346567-rewrite-the-romance-the-golden-lotus.json) |
 | Rewrite+ | 172548 | [172548-rewrite.json](./172548-rewrite.json) |
 | Rewriter | 181632 | [181632-rewriter.json](./181632-rewriter.json) |
