@@ -505,6 +505,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Grit & Graves | 371465 | [371465-of-grit-and-graves.json](./371465-of-grit-and-graves.json) |
 | Of Guards and Thieves | 17430 | [17430-of-guards-and-thieves.json](./17430-of-guards-and-thieves.json) |
 | Of Guards and Thieves: Firefight | 167677 | [167677-of-guards-and-thieves-firefight.json](./167677-of-guards-and-thieves-firefight.json) |
+| Of Guards and Thieves: Hunting Grounds | 170973 | [170973-of-guards-and-thieves-hunting-grounds.json](./170973-of-guards-and-thieves-hunting-grounds.json) |
+| Of Guards and Thieves: Racing | 170972 | [170972-of-guards-and-thieves-racing.json](./170972-of-guards-and-thieves-racing.json) |
 | Of Guards and Thieves: Zombie Rush | 166013 | [166013-of-guards-and-thieves-zombie-rush.json](./166013-of-guards-and-thieves-zombie-rush.json) |
 | Of Hibnernry Boneyard Ler Ardus | 397097 | [397097-of-hibnernry-boneyard-ler-ardus.json](./397097-of-hibnernry-boneyard-ler-ardus.json) |
 | Of Ice & Snow | 229783 | [229783-of-ice-and-snow.json](./229783-of-ice-and-snow.json) |
