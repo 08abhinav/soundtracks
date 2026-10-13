@@ -678,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Adventures | 155025 | [155025-magic-adventures.json](./155025-magic-adventures.json) |
 | Magic and Dragon: 4X Battle | 323427 | [323427-magic-and-dragon-4x-battle.json](./323427-magic-and-dragon-4x-battle.json) |
 | Magic and Elements | 205581 | [205581-magic-and-elements.json](./205581-magic-and-elements.json) |
+| Magic Archers | 148862 | [148862-magic-archers.json](./148862-magic-archers.json) |
 | Magic Archery | 318318 | [318318-magic-archery.json](./318318-magic-archery.json) |
 | Magic Balls | 163868 | [163868-magic-balls.json](./163868-magic-balls.json) |
 | Magic Balls | 263474 | [263474-magic-balls.json](./263474-magic-balls.json) |
@@ -737,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Duck | 287787 | [287787-magic-duck.json](./287787-magic-duck.json) |
 | Magic Dungeon Hero: Freedom or Death | 328102 | [328102-magic-dungeon-hero-freedom-or-death.json](./328102-magic-dungeon-hero-freedom-or-death.json) |
 | Magic Easter Escape | 315573 | [315573-magic-easter-escape.json](./315573-magic-easter-escape.json) |
+| Magic Emperor 1 | 148867 | [148867-magic-emperor-1.json](./148867-magic-emperor-1.json) |
 | Magic Encyclopedia: Illusions | 99383 | [99383-magic-encyclopedia-illusions.json](./99383-magic-encyclopedia-illusions.json) |
 | Magic Escape | 273468 | [273468-magic-escape.json](./273468-magic-escape.json) |
 | Magic Factory | 115047 | [115047-magic-factory.json](./115047-magic-factory.json) |
@@ -1090,18 +1092,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicka Complete Edition | 384629 | [384629-magicka-complete-edition.json](./384629-magicka-complete-edition.json) |
 | Magicka: Aspiring Musician Robes | 327241 | [327241-magicka-aspiring-musician-robes.json](./327241-magicka-aspiring-musician-robes.json) |
 | Magicka: Dungeons and Daemons | 22643 | [22643-magicka-dungeons-and-daemons.json](./22643-magicka-dungeons-and-daemons.json) |
+| Magicka: Dungeons and Gargoyles | 148877 | [148877-magicka-dungeons-and-gargoyles.json](./148877-magicka-dungeons-and-gargoyles.json) |
 | Magicka: Final Frontier | 50819 | [50819-magicka-final-frontier.json](./50819-magicka-final-frontier.json) |
 | Magicka: Frozen Lake | 50818 | [50818-magicka-frozen-lake.json](./50818-magicka-frozen-lake.json) |
 | Magicka: Gamer Bundle | 327236 | [327236-magicka-gamer-bundle.json](./327236-magicka-gamer-bundle.json) |
+| Magicka: Grimnir's Laboratory | 148876 | [148876-magicka-grimnirs-laboratory.json](./148876-magicka-grimnirs-laboratory.json) |
 | Magicka: Heirlooms Item Pack | 327243 | [327243-magicka-heirlooms-item-pack.json](./327243-magicka-heirlooms-item-pack.json) |
 | Magicka: Holiday Spirit Item Pack | 327238 | [327238-magicka-holiday-spirit-item-pack.json](./327238-magicka-holiday-spirit-item-pack.json) |
 | Magicka: Horror Props Item Pack | 327239 | [327239-magicka-horror-props-item-pack.json](./327239-magicka-horror-props-item-pack.json) |
+| Magicka: Lonely Island Cruise | 148875 | [148875-magicka-lonely-island-cruise.json](./148875-magicka-lonely-island-cruise.json) |
+| Magicka: Marshlands | 148879 | [148879-magicka-marshlands.json](./148879-magicka-marshlands.json) |
 | Magicka: Mega Villain Robes | 327240 | [327240-magicka-mega-villain-robes.json](./327240-magicka-mega-villain-robes.json) |
 | Magicka: Nippon | 50817 | [50817-magicka-nippon.json](./50817-magicka-nippon.json) |
 | Magicka: Party Robes | 50816 | [50816-magicka-party-robes.json](./50816-magicka-party-robes.json) |
 | Magicka: Peculiar Gadgets Item Pack | 327242 | [327242-magicka-peculiar-gadgets-item-pack.json](./327242-magicka-peculiar-gadgets-item-pack.json) |
 | Magicka: The Other Side of the Coin | 22642 | [22642-magicka-the-other-side-of-the-coin.json](./22642-magicka-the-other-side-of-the-coin.json) |
 | Magicka: The Watchtower | 50815 | [50815-magicka-the-watchtower.json](./50815-magicka-the-watchtower.json) |
+| Magicka: Tower of Niflheim | 148874 | [148874-magicka-tower-of-niflheim.json](./148874-magicka-tower-of-niflheim.json) |
 | Magicka: Vietnam | 21781 | [21781-magicka-vietnam.json](./21781-magicka-vietnam.json) |
 | Magicka: Wizard's Survival Kit | 50820 | [50820-magicka-wizards-survival-kit.json](./50820-magicka-wizards-survival-kit.json) |
 | Magicka: Wizards of the Square Tablet | 10527 | [10527-magicka-wizards-of-the-square-tablet.json](./10527-magicka-wizards-of-the-square-tablet.json) |
@@ -5887,6 +5894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Méng Chǒng Xīyóu | 367432 | [367432-meng-chong-xiyou.json](./367432-meng-chong-xiyou.json) |
 | Mèng Huí Sānguó | 154921 | [154921-meng-hui-sanguo.json](./154921-meng-hui-sanguo.json) |
 | Meng Jun Gan Si Dui | 319846 | [319846-meng-jun-gan-si-dui.json](./319846-meng-jun-gan-si-dui.json) |
+| Mèng Luò Fánchén | 148881 | [148881-meng-luo-fanchen.json](./148881-meng-luo-fanchen.json) |
 | Mènghuàn Shuǐguǒ Pán: 777 Casino | 86066 | [86066-menghuan-shuiguo-pan-777-casino.json](./86066-menghuan-shuiguo-pan-777-casino.json) |
 | Menhera Kanojo to Boku: Uwaki shitara Jinsei Shuuryou yo | 208936 | [208936-menhera-kanojo-to-boku-uwaki-shitara-jinsei-shuuryou-yo.json](./208936-menhera-kanojo-to-boku-uwaki-shitara-jinsei-shuuryou-yo.json) |
 | Menhera Ota-hime Circle: Needy Princess Nerd Club | 305286 | [305286-menhera-ota-hime-circle-needy-princess-nerd-club.json](./305286-menhera-ota-hime-circle-needy-princess-nerd-club.json) |
@@ -6126,6 +6134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meria and the Island of Orcs | 195643 | [195643-meria-and-the-island-of-orcs.json](./195643-meria-and-the-island-of-orcs.json) |
 | Merica Tale | 367500 | [367500-merica-tale.json](./367500-merica-tale.json) |
 | Meridian | 312177 | [312177-meridian.json](./312177-meridian.json) |
+| Meridian 157: Chapter 1 | 148844 | [148844-meridian-157-chapter-1.json](./148844-meridian-157-chapter-1.json) |
 | Meridian 157: Prologue | 219133 | [219133-meridian-157-prologue.json](./219133-meridian-157-prologue.json) |
 | Meridian 59 | 18342 | [18342-meridian-59.json](./18342-meridian-59.json) |
 | Meridian: Age of Invention | 34578 | [34578-meridian-age-of-invention.json](./34578-meridian-age-of-invention.json) |
@@ -12462,6 +12471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mumbo Shuffle | 398547 | [398547-mumbo-shuffle.json](./398547-mumbo-shuffle.json) |
 | Mummification | 243063 | [243063-mummification.json](./243063-mummification.json) |
 | Mummmaster! | 150769 | [150769-mummmaster.json](./150769-mummmaster.json) |
+| Mummy Candies | 148857 | [148857-mummy-candies.json](./148857-mummy-candies.json) |
 | Mummy Madness | 185702 | [185702-mummy-madness.json](./185702-mummy-madness.json) |
 | Mummy Maze Deluxe | 62007 | [62007-mummy-maze-deluxe.json](./62007-mummy-maze-deluxe.json) |
 | Mummy Sandbox | 175883 | [175883-mummy-sandbox.json](./175883-mummy-sandbox.json) |
