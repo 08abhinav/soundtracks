@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D Missile | 304278 | [304278-d-missile.json](./304278-d-missile.json) |
 | D or D | 250004 | [250004-d-or-d.json](./250004-d-or-d.json) |
 | D-100 | 250968 | [250968-d-100.json](./250968-d-100.json) |
+| D-Corp | 142824 | [142824-d-corp.json](./142824-d-corp.json) |
 | D-Cube Planet | 66980 | [66980-d-cube-planet.json](./66980-d-cube-planet.json) |
 | D-Day | 14768 | [14768-d-day.json](./14768-d-day.json) |
 | D-Day | 27252 | [27252-d-day.json](./27252-d-day.json) |
@@ -2511,6 +2512,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead_file.exe | 52072 | [52072-dead-file-exe.json](./52072-dead-file-exe.json) |
 | Dead-End Detective: The Sixpence Strangler | 164924 | [164924-dead-end-detective-the-sixpence-strangler.json](./164924-dead-end-detective-the-sixpence-strangler.json) |
 | Dead, Too Dead | 326286 | [326286-dead-too-dead.json](./326286-dead-too-dead.json) |
+| Dead.Air | 142683 | [142683-dead-air.json](./142683-dead-air.json) |
+| Dead.Wire | 142682 | [142682-dead-wire.json](./142682-dead-wire.json) |
 | Dead's dawn | 286039 | [286039-deads-dawn.json](./286039-deads-dawn.json) |
 | Dead6hot | 33612 | [33612-dead6hot.json](./33612-dead6hot.json) |
 | Deadbait | 161381 | [161381-deadbait.json](./161381-deadbait.json) |
@@ -3942,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltora Quest | 47936 | [47936-deltora-quest.json](./47936-deltora-quest.json) |
 | Delucid | 390254 | [390254-delucid.json](./390254-delucid.json) |
 | Deluge | 351644 | [351644-deluge.json](./351644-deluge.json) |
+| Deluge: Onset | 142829 | [142829-deluge-onset.json](./142829-deluge-onset.json) |
 | Deluge: Threnody of Crashing Waves | 173264 | [173264-deluge-threnody-of-crashing-waves.json](./173264-deluge-threnody-of-crashing-waves.json) |
 | Delunky: Endless Descent | 177861 | [177861-delunky-endless-descent.json](./177861-delunky-endless-descent.json) |
 | Delusion | 302735 | [302735-delusion.json](./302735-delusion.json) |
@@ -4660,6 +4664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Island: Idle Together! | 412456 | [412456-desktop-island-idle-together.json](./412456-desktop-island-idle-together.json) |
 | Desktop Mark | 253589 | [253589-desktop-mark.json](./253589-desktop-mark.json) |
 | Desktop Mars | 388330 | [388330-desktop-mars.json](./388330-desktop-mars.json) |
+| Desktop Meadow | 142795 | [142795-desktop-meadow.json](./142795-desktop-meadow.json) |
 | Desktop Nard | 389544 | [389544-desktop-nard.json](./389544-desktop-nard.json) |
 | Desktop Pals | 306687 | [306687-desktop-pals.json](./306687-desktop-pals.json) |
 | Desktop Pasture | 360667 | [360667-desktop-pasture.json](./360667-desktop-pasture.json) |
@@ -7630,7 +7635,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki House | 207712 | [207712-doki-doki-house.json](./207712-doki-doki-house.json) |
 | Doki Doki Indian Man Time | 333919 | [333919-doki-doki-indian-man-time.json](./333919-doki-doki-indian-man-time.json) |
 | Doki Doki Literature Club | 309582 | [309582-doki-doki-literature-club.json](./309582-doki-doki-literature-club.json) |
-| Doki Doki Literature Club Plus! | 152122 | [152122-doki-doki-literature-club-plus.json](./152122-doki-doki-literature-club-plus.json) |
 | Doki Doki Literature Club Plus!: Premium Edition | 166194 | [166194-doki-doki-literature-club-plus-premium-edition.json](./166194-doki-doki-literature-club-plus-premium-edition.json) |
 | Doki Doki Literature Club The Mod In Which Natsuki Has A Nice Day And Nothing Horrible Happens To Her, Thank You Very Much | 334279 | [334279-doki-doki-literature-club-the-mod-in-which-natsuki-has-a-nice-day-and-nothing-horrible-happens-to-her-thank-you-very-much.json](./334279-doki-doki-literature-club-the-mod-in-which-natsuki-has-a-nice-day-and-nothing-horrible-happens-to-her-thank-you-very-much.json) |
 | Doki Doki Literature Club: Purist Mod | 172644 | [172644-doki-doki-literature-club-purist-mod.json](./172644-doki-doki-literature-club-purist-mod.json) |
@@ -9078,6 +9082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr Scrime's Spook School | 13607 | [13607-dr-scrimes-spook-school.json](./13607-dr-scrimes-spook-school.json) |
 | Dr Smart Space Encyclopedia | 242046 | [242046-dr-smart-space-encyclopedia.json](./242046-dr-smart-space-encyclopedia.json) |
 | Dr Wan | 246849 | [246849-dr-wan.json](./246849-dr-wan.json) |
+| Dr. Atominus | 142807 | [142807-dr-atominus.json](./142807-dr-atominus.json) |
 | Dr. Awesome, MicroSurgeon M.D. | 70567 | [70567-dr-awesome-microsurgeon-m-d.json](./70567-dr-awesome-microsurgeon-m-d.json) |
 | Dr. Bloodshot | 311041 | [311041-dr-bloodshot.json](./311041-dr-bloodshot.json) |
 | Dr. Bon Bon Puzzle | 229346 | [229346-dr-bon-bon-puzzle.json](./229346-dr-bon-bon-puzzle.json) |
@@ -10572,7 +10577,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamy Syrup | 330906 | [330906-dreamy-syrup.json](./330906-dreamy-syrup.json) |
 | Dreary Disposition | 271799 | [271799-dreary-disposition.json](./271799-dreary-disposition.json) |
 | Dredark | 152886 | [152886-dredark.json](./152886-dredark.json) |
-| Dredge | 164867 | [164867-dredge.json](./164867-dredge.json) |
 | Dredge: Complete Edition | 313780 | [313780-dredge-complete-edition.json](./313780-dredge-complete-edition.json) |
 | Dredge: Deluxe Edition | 239148 | [239148-dredge-deluxe-edition.json](./239148-dredge-deluxe-edition.json) |
 | Dredge: Digital Deluxe Edition | 240219 | [240219-dredge-digital-deluxe-edition.json](./240219-dredge-digital-deluxe-edition.json) |
@@ -11030,6 +11034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Druid's Tale: Crystal Cave | 61653 | [61653-druids-tale-crystal-cave.json](./61653-druids-tale-crystal-cave.json) |
 | Druidstone: The Secret of the Menhir Forest | 28142 | [28142-druidstone-the-secret-of-the-menhir-forest.json](./28142-druidstone-the-secret-of-the-menhir-forest.json) |
 | Drum Box | 187360 | [187360-drum-box.json](./187360-drum-box.json) |
+| Drum Brain | 142796 | [142796-drum-brain.json](./142796-drum-brain.json) |
 | Drum Girl | 232140 | [232140-drum-girl.json](./232140-drum-girl.json) |
 | Drum Legend | 277023 | [277023-drum-legend.json](./277023-drum-legend.json) |
 | Drum Revolution | 337842 | [337842-drum-revolution.json](./337842-drum-revolution.json) |
