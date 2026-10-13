@@ -5920,6 +5920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andrio's World | 247373 | [247373-andrios-world.json](./247373-andrios-world.json) |
 | Andro Dunos | 39622 | [39622-andro-dunos.json](./39622-andro-dunos.json) |
 | Andro's World | 99111 | [99111-andros-world.json](./99111-andros-world.json) |
+| Android | 150966 | [150966-android.json](./150966-android.json) |
 | Android | 391270 | [391270-android.json](./391270-android.json) |
 | Android Amazones | 120987 | [120987-android-amazones.json](./120987-android-amazones.json) |
 | Android Assault: The Revenge of Bari-Arm | 5358 | [5358-android-assault-the-revenge-of-bari-arm.json](./5358-android-assault-the-revenge-of-bari-arm.json) |
@@ -6650,6 +6651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1701: Limited Edition | 180266 | [180266-anno-1701-limited-edition.json](./180266-anno-1701-limited-edition.json) |
 | Anno 1800: Aesthetic Artisans Bundle | 317365 | [317365-anno-1800-aesthetic-artisans-bundle.json](./317365-anno-1800-aesthetic-artisans-bundle.json) |
 | Anno 1800: Amusements Pack | 227317 | [227317-anno-1800-amusements-pack.json](./227317-anno-1800-amusements-pack.json) |
+| Anno 1800: Botanica | 150963 | [150963-anno-1800-botanica.json](./150963-anno-1800-botanica.json) |
 | Anno 1800: Bright Harvest | 151058 | [151058-anno-1800-bright-harvest.json](./151058-anno-1800-bright-harvest.json) |
 | Anno 1800: City Lights Pack | 227411 | [227411-anno-1800-city-lights-pack.json](./227411-anno-1800-city-lights-pack.json) |
 | Anno 1800: Complete Edition Year 3 | 146123 | [146123-anno-1800-complete-edition-year-3.json](./146123-anno-1800-complete-edition-year-3.json) |
@@ -9002,6 +9004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aron's Adventure | 117147 | [117147-arons-adventure.json](./117147-arons-adventure.json) |
 | Aron's Adventure: Magic Reborn | 277355 | [277355-arons-adventure-magic-reborn.json](./277355-arons-adventure-magic-reborn.json) |
 | Aron's Gift | 96100 | [96100-arons-gift.json](./96100-arons-gift.json) |
+| Arosia | 150954 | [150954-arosia.json](./150954-arosia.json) |
 | Around the Block | 390791 | [390791-around-the-block.json](./390791-around-the-block.json) |
 | Around the Fire | 157166 | [157166-around-the-fire.json](./157166-around-the-fire.json) |
 | Around the Moon | 90103 | [90103-around-the-moon.json](./90103-around-the-moon.json) |
@@ -9827,6 +9830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assia: Returning to Dreams | 257314 | [257314-assia-returning-to-dreams.json](./257314-assia-returning-to-dreams.json) |
 | Assignment Due: Project Blue | 257555 | [257555-assignment-due-project-blue.json](./257555-assignment-due-project-blue.json) |
 | Assimilation | 72125 | [72125-assimilation.json](./72125-assimilation.json) |
+| Assimilation X | 150975 | [150975-assimilation-x.json](./150975-assimilation-x.json) |
 | Assistant to the Lost Detective: Remaster | 298126 | [298126-assistant-to-the-lost-detective-remaster.json](./298126-assistant-to-the-lost-detective-remaster.json) |
 | Associate | 354527 | [354527-associate.json](./354527-associate.json) |
 | Assualt cube | 178444 | [178444-assualt-cube.json](./178444-assualt-cube.json) |
