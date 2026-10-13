@@ -2762,6 +2762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Is My Parking Spot | 141016 | [141016-where-is-my-parking-spot.json](./141016-where-is-my-parking-spot.json) |
 | Where Is My Pet? | 417359 | [417359-where-is-my-pet.json](./417359-where-is-my-pet.json) |
 | Where is My Son? | 390143 | [390143-where-is-my-son.json](./390143-where-is-my-son.json) |
+| Where is Paradise? | 174057 | [174057-where-is-paradise.json](./174057-where-is-paradise.json) |
 | Where is Starlingdive | 414527 | [414527-where-is-starlingdive.json](./414527-where-is-starlingdive.json) |
 | Where is the Beach | 114354 | [114354-where-is-the-beach.json](./114354-where-is-the-beach.json) |
 | Where is the Meaning? | 161396 | [161396-where-is-the-meaning.json](./161396-where-is-the-meaning.json) |
@@ -4893,6 +4894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Game | 161224 | [161224-word-game.json](./161224-word-game.json) |
 | Word Game | 88428 | [88428-word-game.json](./88428-word-game.json) |
 | Word Game World | 339961 | [339961-word-game-world.json](./339961-word-game-world.json) |
+| Word Game: Episode 0 | 174067 | [174067-word-game-episode-0.json](./174067-word-game-episode-0.json) |
 | Word Games - Order letters and create words | 96070 | [96070-word-games-order-letters-and-create-words.json](./96070-word-games-order-letters-and-create-words.json) |
 | Word Guru - Puzzle Word Game | 89233 | [89233-word-guru-puzzle-word-game.json](./89233-word-guru-puzzle-word-game.json) |
 | Word Harmony | 52130 | [52130-word-harmony.json](./52130-word-harmony.json) |
