@@ -1177,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need For Seed: Undergrowth | 185512 | [185512-need-for-seed-undergrowth.json](./185512-need-for-seed-undergrowth.json) |
 | Need for sharp | 163880 | [163880-need-for-sharp.json](./163880-need-for-sharp.json) |
 | Need for Speed Deluxe Bundle | 331479 | [331479-need-for-speed-deluxe-bundle.json](./331479-need-for-speed-deluxe-bundle.json) |
+| Need for Speed GT | 137897 | [137897-need-for-speed-gt.json](./137897-need-for-speed-gt.json) |
 | Need for Speed II | 91 | [91-need-for-speed-ii.json](./91-need-for-speed-ii.json) |
 | Need For Speed Pro Street Pepega Edition | 257349 | [257349-need-for-speed-pro-street-pepega-edition.json](./257349-need-for-speed-pro-street-pepega-edition.json) |
 | Need for Speed Rivals: Complete Edition | 118896 | [118896-need-for-speed-rivals-complete-edition.json](./118896-need-for-speed-rivals-complete-edition.json) |
