@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iberia | 298787 | [298787-iberia.json](./298787-iberia.json) |
 | Ibix the Viking | 13250 | [13250-ibix-the-viking.json](./13250-ibix-the-viking.json) |
 | Ibiza Beach Party | 340341 | [340341-ibiza-beach-party.json](./340341-ibiza-beach-party.json) |
+| iBlast Moki 2 HD | 174235 | [174235-iblast-moki-2-hd.json](./174235-iblast-moki-2-hd.json) |
 | Iblis | 344578 | [344578-iblis.json](./344578-iblis.json) |
 | Iblis2: Sorcery | 226703 | [226703-iblis2-sorcery.json](./226703-iblis2-sorcery.json) |
 | Iblis3: Phenomena | 372013 | [372013-iblis3-phenomena.json](./372013-iblis3-phenomena.json) |
@@ -4021,6 +4022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ishin no Arashi: Bakumatsu Shishi-den | 186737 | [186737-ishin-no-arashi-bakumatsu-shishi-den.json](./186737-ishin-no-arashi-bakumatsu-shishi-den.json) |
 | Ishin no Arashi: Shippuu Ryoma-den | 186738 | [186738-ishin-no-arashi-shippuu-ryoma-den.json](./186738-ishin-no-arashi-shippuu-ryoma-den.json) |
 | Ishu Saikyou-ou Zukan: Battle Colosseum | 225897 | [225897-ishu-saikyou-ou-zukan-battle-colosseum.json](./225897-ishu-saikyou-ou-zukan-battle-colosseum.json) |
+| iShuffle Board 2 | 174234 | [174234-ishuffle-board-2.json](./174234-ishuffle-board-2.json) |
 | IShuffle Bowling | 175298 | [175298-ishuffle-bowling.json](./175298-ishuffle-bowling.json) |
 | Isida | 382755 | [382755-isida.json](./382755-isida.json) |
 | Isis: The Fall | 255100 | [255100-isis-the-fall.json](./255100-isis-the-fall.json) |
