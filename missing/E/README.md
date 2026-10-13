@@ -4187,6 +4187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evasion From Hell | 193767 | [193767-evasion-from-hell.json](./193767-evasion-from-hell.json) |
 | Evasive | 273917 | [273917-evasive.json](./273917-evasive.json) |
 | Evasive Action | 74088 | [74088-evasive-action.json](./74088-evasive-action.json) |
+| Evasive Maneuvers | 166845 | [166845-evasive-maneuvers.json](./166845-evasive-maneuvers.json) |
 | Evaverse | 158522 | [158522-evaverse.json](./158522-evaverse.json) |
 | Evdeki Lanet | 160164 | [160164-evdeki-lanet.json](./160164-evdeki-lanet.json) |
 | Eve Burst Error Plus | 73525 | [73525-eve-burst-error-plus.json](./73525-eve-burst-error-plus.json) |
