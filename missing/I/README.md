@@ -1032,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Knights | 220174 | [220174-idle-knights.json](./220174-idle-knights.json) |
 | Idle Land of Exile | 348849 | [348849-idle-land-of-exile.json](./348849-idle-land-of-exile.json) |
 | Idle landmark! | 249175 | [249175-idle-landmark.json](./249175-idle-landmark.json) |
+| Idle League | 174777 | [174777-idle-league.json](./174777-idle-league.json) |
 | Idle Legends | 303184 | [303184-idle-legends.json](./303184-idle-legends.json) |
 | Idle Lemonade Tycoon Empire | 255802 | [255802-idle-lemonade-tycoon-empire.json](./255802-idle-lemonade-tycoon-empire.json) |
 | Idle looter | 376073 | [376073-idle-looter.json](./376073-idle-looter.json) |
@@ -2590,6 +2591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Golf | 285949 | [285949-infinity-golf.json](./285949-infinity-golf.json) |
 | Infinity Inc. | 201614 | [201614-infinity-inc.json](./201614-infinity-inc.json) |
 | Infinity Is What We Will Be | 286102 | [286102-infinity-is-what-we-will-be.json](./286102-infinity-is-what-we-will-be.json) |
+| Infinity Island | 174611 | [174611-infinity-island.json](./174611-infinity-island.json) |
 | Infinity Kingdom | 143085 | [143085-infinity-kingdom.json](./143085-infinity-kingdom.json) |
 | Infinity Knights: Xross | 289302 | [289302-infinity-knights-xross.json](./289302-infinity-knights-xross.json) |
 | Infinity Mechs | 235150 | [235150-infinity-mechs.json](./235150-infinity-mechs.json) |
