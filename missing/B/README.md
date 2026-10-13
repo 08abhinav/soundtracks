@@ -2384,6 +2384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Cry of Freedom | 63551 | [63551-battle-cry-of-freedom.json](./63551-battle-cry-of-freedom.json) |
 | Battle Cry of Freedom: Blood & Gore | 239721 | [239721-battle-cry-of-freedom-blood-and-gore.json](./239721-battle-cry-of-freedom-blood-and-gore.json) |
 | Battle Cube | 128598 | [128598-battle-cube.json](./128598-battle-cube.json) |
+| Battle Cube | 171508 | [171508-battle-cube.json](./171508-battle-cube.json) |
 | Battle Dawn | 139433 | [139433-battle-dawn.json](./139433-battle-dawn.json) |
 | Battle Dawn 2: Terra Reborn | 217230 | [217230-battle-dawn-2-terra-reborn.json](./217230-battle-dawn-2-terra-reborn.json) |
 | Battle destruction | 175730 | [175730-battle-destruction.json](./175730-battle-destruction.json) |
@@ -5012,6 +5013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billiards Champ 3D | 146731 | [146731-billiards-champ-3d.json](./146731-billiards-champ-3d.json) |
 | Billiards Dungeon | 149079 | [149079-billiards-dungeon.json](./149079-billiards-dungeon.json) |
 | Billiards II Simulator | 14305 | [14305-billiards-ii-simulator.json](./14305-billiards-ii-simulator.json) |
+| Billiards Legend: Black 8 Miracle | 171319 | [171319-billiards-legend-black-8-miracle.json](./171319-billiards-legend-black-8-miracle.json) |
 | Billiards Merge 2048 | 231972 | [231972-billiards-merge-2048.json](./231972-billiards-merge-2048.json) |
 | Billiards Night Out | 404452 | [404452-billiards-night-out.json](./404452-billiards-night-out.json) |
 | Billiards Simulator | 14304 | [14304-billiards-simulator.json](./14304-billiards-simulator.json) |
@@ -5594,6 +5596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitcoin VS Brain | 89961 | [89961-bitcoin-vs-brain.json](./89961-bitcoin-vs-brain.json) |
 | BitColony | 351263 | [351263-bitcolony.json](./351263-bitcolony.json) |
 | BitColor | 184116 | [184116-bitcolor.json](./184116-bitcolor.json) |
+| BitCraft Online | 171530 | [171530-bitcraft-online.json](./171530-bitcraft-online.json) |
 | Bitdude | 30049 | [30049-bitdude.json](./30049-bitdude.json) |
 | Bite at the Museum | 146727 | [146727-bite-at-the-museum.json](./146727-bite-at-the-museum.json) |
 | Bite Me | 128623 | [128623-bite-me.json](./128623-bite-me.json) |
@@ -5804,6 +5807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Jacket | 372112 | [372112-black-jacket.json](./372112-black-jacket.json) |
 | Black Knight and White Devil | 108942 | [108942-black-knight-and-white-devil.json](./108942-black-knight-and-white-devil.json) |
 | Black Knight: Marine Strike Fighter | 71051 | [71051-black-knight-marine-strike-fighter.json](./71051-black-knight-marine-strike-fighter.json) |
+| Black Knight: Milena | 171335 | [171335-black-knight-milena.json](./171335-black-knight-milena.json) |
 | Black Lake | 410926 | [410926-black-lake.json](./410926-black-lake.json) |
 | Black Lamp | 11964 | [11964-black-lamp.json](./11964-black-lamp.json) |
 | Black Lazar | 187390 | [187390-black-lazar.json](./187390-black-lazar.json) |
@@ -7531,6 +7535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Skies | 63858 | [63858-blue-skies.json](./63858-blue-skies.json) |
 | Blue Sky Arena | 208105 | [208105-blue-sky-arena.json](./208105-blue-sky-arena.json) |
 | Blue sky fighter | 129076 | [129076-blue-sky-fighter.json](./129076-blue-sky-fighter.json) |
+| Blue Snake Adventures: Master Level | 171332 | [171332-blue-snake-adventures-master-level.json](./171332-blue-snake-adventures-master-level.json) |
 | Blue Solar: Chaos War | 32057 | [32057-blue-solar-chaos-war.json](./32057-blue-solar-chaos-war.json) |
 | Blue Sphere Madness | 332598 | [332598-blue-sphere-madness.json](./332598-blue-sphere-madness.json) |
 | Blue Sphere Plus | 216302 | [216302-blue-sphere-plus.json](./216302-blue-sphere-plus.json) |
