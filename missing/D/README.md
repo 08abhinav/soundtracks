@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Forest Virtual Chatroom | 116253 | [116253-dark-forest-virtual-chatroom.json](./116253-dark-forest-virtual-chatroom.json) |
 | Dark Forest: Lost Story VR | 164923 | [164923-dark-forest-lost-story-vr.json](./164923-dark-forest-lost-story-vr.json) |
 | Dark Forester | 35760 | [35760-dark-forester.json](./35760-dark-forester.json) |
+| Dark Frame | 159561 | [159561-dark-frame.json](./159561-dark-frame.json) |
 | Dark Front | 378597 | [378597-dark-front.json](./378597-dark-front.json) |
 | Dark Frontiers | 203362 | [203362-dark-frontiers.json](./203362-dark-frontiers.json) |
 | Dark Fusion | 12036 | [12036-dark-fusion.json](./12036-dark-fusion.json) |
@@ -3566,6 +3567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender of Diosa | 341090 | [341090-defender-of-diosa.json](./341090-defender-of-diosa.json) |
 | Defender of Falyndor | 311604 | [311604-defender-of-falyndor.json](./311604-defender-of-falyndor.json) |
 | Defender of Freedom | 65734 | [65734-defender-of-freedom.json](./65734-defender-of-freedom.json) |
+| Defender of Kuiper Belt | 159560 | [159560-defender-of-kuiper-belt.json](./159560-defender-of-kuiper-belt.json) |
 | Defender of RON | 71174 | [71174-defender-of-ron.json](./71174-defender-of-ron.json) |
 | Defender of the Crown | 1873 | [1873-defender-of-the-crown.json](./1873-defender-of-the-crown.json) |
 | Defender of the Crown | 328950 | [328950-defender-of-the-crown.json](./328950-defender-of-the-crown.json) |
@@ -4081,6 +4083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Siege | 406905 | [406905-demon-siege.json](./406905-demon-siege.json) |
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Gyutaro Character Pack | 226692 | [226692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-gyutaro-character-pack.json](./226692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-gyutaro-character-pack.json) |
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Tengen Uzui Character Pack | 209695 | [209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json](./209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json) |
+| Demon Slayer Akagi | 158937 | [158937-demon-slayer-akagi.json](./158937-demon-slayer-akagi.json) |
 | Demon Slayer: Kimetsu no Yaiba - Keppuu Kengeki Royale | 131963 | [131963-demon-slayer-kimetsu-no-yaiba-keppuu-kengeki-royale.json](./131963-demon-slayer-kimetsu-no-yaiba-keppuu-kengeki-royale.json) |
 | Demon Slayer: Kimetsu no Yaiba - Sweep the Board! | 266193 | [266193-demon-slayer-kimetsu-no-yaiba-sweep-the-board.json](./266193-demon-slayer-kimetsu-no-yaiba-sweep-the-board.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles | 153054 | [153054-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles.json](./153054-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles.json) |
@@ -5545,6 +5548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Didi & Ditto: Kindergarten | 73832 | [73832-didi-and-ditto-kindergarten.json](./73832-didi-and-ditto-kindergarten.json) |
 | Didnapper | 295249 | [295249-didnapper.json](./295249-didnapper.json) |
 | Die 3 | 269641 | [269641-die-3.json](./269641-die-3.json) |
+| Die After Sunset | 158966 | [158966-die-after-sunset.json](./158966-die-after-sunset.json) |
 | Die Again | 133340 | [133340-die-again.json](./133340-die-again.json) |
 | Die Again: Northern Front | 172091 | [172091-die-again-northern-front.json](./172091-die-again-northern-front.json) |
 | Die Alien Slime | 13593 | [13593-die-alien-slime.json](./13593-die-alien-slime.json) |
@@ -7050,6 +7054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJ Life | 67978 | [67978-dj-life.json](./67978-dj-life.json) |
 | DJ Life Simulator: From Your Bedroom to the Mainstage | 391147 | [391147-dj-life-simulator-from-your-bedroom-to-the-mainstage.json](./391147-dj-life-simulator-from-your-bedroom-to-the-mainstage.json) |
 | DJ Max Fever | 42892 | [42892-dj-max-fever.json](./42892-dj-max-fever.json) |
+| DJ Meow | 158960 | [158960-dj-meow.json](./158960-dj-meow.json) |
 | DJ Mix Tour | 68028 | [68028-dj-mix-tour.json](./68028-dj-mix-tour.json) |
 | DJ Puff | 13596 | [13596-dj-puff.json](./13596-dj-puff.json) |
 | DJ Puff's Volcanic Capers | 47215 | [47215-dj-puffs-volcanic-capers.json](./47215-dj-puffs-volcanic-capers.json) |
@@ -8240,6 +8245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donut Punks | 141638 | [141638-donut-punks.json](./141638-donut-punks.json) |
 | Donut Shop Simulator | 348761 | [348761-donut-shop-simulator.json](./348761-donut-shop-simulator.json) |
 | Donutal | 391675 | [391675-donutal.json](./391675-donutal.json) |
+| Donutis Simulator | 159538 | [159538-donutis-simulator.json](./159538-donutis-simulator.json) |
 | Donuts | 263019 | [263019-donuts.json](./263019-donuts.json) |
 | Donuts 'N' Justice | 25932 | [25932-donuts-n-justice.json](./25932-donuts-n-justice.json) |
 | Donuts Drift | 91087 | [91087-donuts-drift.json](./91087-donuts-drift.json) |
@@ -8278,6 +8284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle God Bundle | 119072 | [119072-doodle-god-bundle.json](./119072-doodle-god-bundle.json) |
 | Doodle God HD | 88467 | [88467-doodle-god-hd.json](./88467-doodle-god-hd.json) |
 | Doodle God Ultimate Collection | 118153 | [118153-doodle-god-ultimate-collection.json](./118153-doodle-god-ultimate-collection.json) |
+| Doodle God Universe | 159559 | [159559-doodle-god-universe.json](./159559-doodle-god-universe.json) |
 | Doodle God: 8-bit Mania | 31000 | [31000-doodle-god-8-bit-mania.json](./31000-doodle-god-8-bit-mania.json) |
 | Doodle God: Alchemy Jam | 80911 | [80911-doodle-god-alchemy-jam.json](./80911-doodle-god-alchemy-jam.json) |
 | Doodle God: Evolution | 114180 | [114180-doodle-god-evolution.json](./114180-doodle-god-evolution.json) |
@@ -8441,6 +8448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomed Freedom | 91111 | [91111-doomed-freedom.json](./91111-doomed-freedom.json) |
 | Doomed Hell 64 | 332386 | [332386-doomed-hell-64.json](./332386-doomed-hell-64.json) |
 | Doomed Heretic | 104599 | [104599-doomed-heretic.json](./104599-doomed-heretic.json) |
+| Doomed Lands | 159575 | [159575-doomed-lands.json](./159575-doomed-lands.json) |
 | Doomed Love | 301944 | [301944-doomed-love.json](./301944-doomed-love.json) |
 | Doomed Otaku | 339981 | [339981-doomed-otaku.json](./339981-doomed-otaku.json) |
 | Doomed Space Wars | 261284 | [261284-doomed-space-wars.json](./261284-doomed-space-wars.json) |
