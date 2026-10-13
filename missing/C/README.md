@@ -375,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Boba | 244391 | [244391-call-of-boba.json](./244391-call-of-boba.json) |
 | Call of Clans: Optional Elite Card Pack | 355221 | [355221-call-of-clans-optional-elite-card-pack.json](./355221-call-of-clans-optional-elite-card-pack.json) |
 | Call of Clans: Random Legend Card Pack | 355222 | [355222-call-of-clans-random-legend-card-pack.json](./355222-call-of-clans-random-legend-card-pack.json) |
+| Call of Coronga | 148851 | [148851-call-of-coronga.json](./148851-call-of-coronga.json) |
 | Call of Cthulhu: The Darkness Within Book 1 | 228320 | [228320-call-of-cthulhu-the-darkness-within-book-1.json](./228320-call-of-cthulhu-the-darkness-within-book-1.json) |
 | Call of Cutie | 411724 | [411724-call-of-cutie.json](./411724-call-of-cutie.json) |
 | Call of Death Zombie Invasion | 231976 | [231976-call-of-death-zombie-invasion.json](./231976-call-of-death-zombie-invasion.json) |
@@ -610,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calpria | 416686 | [416686-calpria.json](./416686-calpria.json) |
 | CalQ | 61569 | [61569-calq.json](./61569-calq.json) |
 | Caltron 6-in-1 | 81250 | [81250-caltron-6-in-1.json](./81250-caltron-6-in-1.json) |
+| Calturin and Clone | 148883 | [148883-calturin-and-clone.json](./148883-calturin-and-clone.json) |
 | Calvar: The Darkest Gate | 318008 | [318008-calvar-the-darkest-gate.json](./318008-calvar-the-darkest-gate.json) |
 | Calvin | 94951 | [94951-calvin.json](./94951-calvin.json) |
 | Calvin Tucker's Farm Animal Racing | 89420 | [89420-calvin-tuckers-farm-animal-racing.json](./89420-calvin-tuckers-farm-animal-racing.json) |
@@ -1419,6 +1421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card & Digital | 385324 | [385324-card-and-digital.json](./385324-card-and-digital.json) |
 | Card & Puzzle Collection Ginga | 365679 | [365679-card-and-puzzle-collection-ginga.json](./365679-card-and-puzzle-collection-ginga.json) |
 | Card Adventure | 187271 | [187271-card-adventure.json](./187271-card-adventure.json) |
+| Card Apocalypse | 148839 | [148839-card-apocalypse.json](./148839-card-apocalypse.json) |
 | Card Artisan | 366129 | [366129-card-artisan.json](./366129-card-artisan.json) |
 | Card Battle Spirit Link | 107742 | [107742-card-battle-spirit-link.json](./107742-card-battle-spirit-link.json) |
 | Card Blast | 204966 | [204966-card-blast.json](./204966-card-blast.json) |
@@ -3721,6 +3724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Awakens | 232656 | [232656-chaos-awakens.json](./232656-chaos-awakens.json) |
 | Chaos Battle | 57063 | [57063-chaos-battle.json](./57063-chaos-battle.json) |
 | Chaos Battle League | 69350 | [69350-chaos-battle-league.json](./69350-chaos-battle-league.json) |
+| Chaos Battle Universe | 148865 | [148865-chaos-battle-universe.json](./148865-chaos-battle-universe.json) |
 | Chaos Brave Village | 298693 | [298693-chaos-brave-village.json](./298693-chaos-brave-village.json) |
 | Chaos Break | 46084 | [46084-chaos-break.json](./46084-chaos-break.json) |
 | Chaos Breaker | 76597 | [76597-chaos-breaker.json](./76597-chaos-breaker.json) |
@@ -5639,6 +5643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circadial | 328645 | [328645-circadial.json](./328645-circadial.json) |
 | Circadian City | 116815 | [116815-circadian-city.json](./116815-circadian-city.json) |
 | Circadian Cycle Deepest Sleep | 214708 | [214708-circadian-cycle-deepest-sleep.json](./214708-circadian-cycle-deepest-sleep.json) |
+| Circadian Dice | 148873 | [148873-circadian-dice.json](./148873-circadian-dice.json) |
 | CircL | 185080 | [185080-circl.json](./185080-circl.json) |
 | Circle | 129066 | [129066-circle.json](./129066-circle.json) |
 | Circle | 289387 | [289387-circle.json](./289387-circle.json) |
@@ -6892,6 +6897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Penguin: Game Day! | 92058 | [92058-club-penguin-game-day.json](./92058-club-penguin-game-day.json) |
 | Club Pinball | 243691 | [243691-club-pinball.json](./243691-club-pinball.json) |
 | Club Soccer Director 2018 | 55160 | [55160-club-soccer-director-2018.json](./55160-club-soccer-director-2018.json) |
+| Club Soccer Director 2021 | 148859 | [148859-club-soccer-director-2021.json](./148859-club-soccer-director-2021.json) |
 | Club Sports Collection Upgrade Edition | 397887 | [397887-club-sports-collection-upgrade-edition.json](./397887-club-sports-collection-upgrade-edition.json) |
 | Club Sports Collection: Definitive Edition | 400198 | [400198-club-sports-collection-definitive-edition.json](./400198-club-sports-collection-definitive-edition.json) |
 | Club Sports Collection: Premium Edition | 395676 | [395676-club-sports-collection-premium-edition.json](./395676-club-sports-collection-premium-edition.json) |
