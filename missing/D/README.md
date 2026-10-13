@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Praise 2: The ReMix | 209002 | [209002-dance-praise-2-the-remix.json](./209002-dance-praise-2-the-remix.json) |
 | Dance Praise: The Original | 209001 | [209001-dance-praise-the-original.json](./209001-dance-praise-the-original.json) |
 | Dance School Stories | 89824 | [89824-dance-school-stories.json](./89824-dance-school-stories.json) |
+| Dance Station Stepper | 141588 | [141588-dance-station-stepper.json](./141588-dance-station-stepper.json) |
 | Dance Summit 2001: Bust a Move | 72953 | [72953-dance-summit-2001-bust-a-move.json](./72953-dance-summit-2001-bust-a-move.json) |
 | Dance To Heck | 338863 | [338863-dance-to-heck.json](./338863-dance-to-heck.json) |
 | Dance to the Finish | 178595 | [178595-dance-to-the-finish.json](./178595-dance-to-the-finish.json) |
@@ -4030,6 +4031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Derby Reloaded | 303219 | [303219-demolition-derby-reloaded.json](./303219-demolition-derby-reloaded.json) |
 | Demolition Dodge | 233114 | [233114-demolition-dodge.json](./233114-demolition-dodge.json) |
 | Demolition Engineer | 99660 | [99660-demolition-engineer.json](./99660-demolition-engineer.json) |
+| Demolition Expert: The Simulation | 141617 | [141617-demolition-expert-the-simulation.json](./141617-demolition-expert-the-simulation.json) |
 | Demolition Girl | 26570 | [26570-demolition-girl.json](./26570-demolition-girl.json) |
 | Demolition Inc. | 15126 | [15126-demolition-inc.json](./15126-demolition-inc.json) |
 | Demolition Inc.: Level & Weapon | 238632 | [238632-demolition-inc-level-and-weapon.json](./238632-demolition-inc-level-and-weapon.json) |
@@ -7054,6 +7056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divineko | 291617 | [291617-divineko.json](./291617-divineko.json) |
 | Diviner | 394850 | [394850-diviner.json](./394850-diviner.json) |
 | DivineRPG | 241498 | [241498-divinerpg.json](./241498-divinerpg.json) |
+| Diving City | 142184 | [142184-diving-city.json](./142184-diving-city.json) |
 | Diving Corsola | 71567 | [71567-diving-corsola.json](./71567-diving-corsola.json) |
 | Diving Disorder | 157567 | [157567-diving-disorder.json](./157567-diving-disorder.json) |
 | Diving Focus | 348368 | [348368-diving-focus.json](./348368-diving-focus.json) |
@@ -8479,6 +8482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Troopers: Mutant Chronicles | 4544 | [4544-doom-troopers-mutant-chronicles.json](./4544-doom-troopers-mutant-chronicles.json) |
 | Doom Ultimate Enhanced | 198487 | [198487-doom-ultimate-enhanced.json](./198487-doom-ultimate-enhanced.json) |
 | Doom Warrior | 59860 | [59860-doom-warrior.json](./59860-doom-warrior.json) |
+| Doom Zero | 142176 | [142176-doom-zero.json](./142176-doom-zero.json) |
 | Doom: Bloodfall | 26558 | [26558-doom-bloodfall.json](./26558-doom-bloodfall.json) |
 | DOOM: Collector's Edition | 41614 | [41614-doom-collectors-edition.json](./41614-doom-collectors-edition.json) |
 | DOOM: Enhanced Vanilla Project | 199416 | [199416-doom-enhanced-vanilla-project.json](./199416-doom-enhanced-vanilla-project.json) |
@@ -8668,6 +8672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon Comic Traveler | 405668 | [405668-doraemon-comic-traveler.json](./405668-doraemon-comic-traveler.json) |
 | Doraemon Dorayaki Shop Story | 314958 | [314958-doraemon-dorayaki-shop-story.json](./314958-doraemon-dorayaki-shop-story.json) |
 | Doraemon Gadget Rush | 259527 | [259527-doraemon-gadget-rush.json](./259527-doraemon-gadget-rush.json) |
+| Doraemon Gakushuu Collection | 141584 | [141584-doraemon-gakushuu-collection.json](./141584-doraemon-gakushuu-collection.json) |
 | Doraemon Giga Pad | 314371 | [314371-doraemon-giga-pad.json](./314371-doraemon-giga-pad.json) |
 | Doraemon no Bouken Meiro | 349437 | [349437-doraemon-no-bouken-meiro.json](./349437-doraemon-no-bouken-meiro.json) |
 | Doraemon no Eawase Montage | 349436 | [349436-doraemon-no-eawase-montage.json](./349436-doraemon-no-eawase-montage.json) |
@@ -11315,6 +11320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducklings IO | 150020 | [150020-ducklings-io.json](./150020-ducklings-io.json) |
 | Ducklyte | 247475 | [247475-ducklyte.json](./247475-ducklyte.json) |
 | Duckpocalypse | 31767 | [31767-duckpocalypse.json](./31767-duckpocalypse.json) |
+| Ducks | 141578 | [141578-ducks.json](./141578-ducks.json) |
 | Ducks | 314262 | [314262-ducks.json](./314262-ducks.json) |
 | Ducks | 314263 | [314263-ducks.json](./314263-ducks.json) |
 | Ducks | 329054 | [329054-ducks.json](./329054-ducks.json) |
@@ -11574,6 +11580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon & Dice | 233546 | [233546-dungeon-and-dice.json](./233546-dungeon-and-dice.json) |
 | Dungeon & Doggies | 303499 | [303499-dungeon-and-doggies.json](./303499-dungeon-and-doggies.json) |
 | Dungeon & Evil | 174847 | [174847-dungeon-and-evil.json](./174847-dungeon-and-evil.json) |
+| Dungeon & Fighter Mobile | 142182 | [142182-dungeon-and-fighter-mobile.json](./142182-dungeon-and-fighter-mobile.json) |
 | Dungeon & Fighter: Arad | 325603 | [325603-dungeon-and-fighter-arad.json](./325603-dungeon-and-fighter-arad.json) |
 | Dungeon & Fighter: Spirit | 142154 | [142154-dungeon-and-fighter-spirit.json](./142154-dungeon-and-fighter-spirit.json) |
 | Dungeon & Guarder | 92312 | [92312-dungeon-and-guarder.json](./92312-dungeon-and-guarder.json) |
