@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jailbreak Russia | 104023 | [104023-jailbreak-russia.json](./104023-jailbreak-russia.json) |
 | Jailbreak Simulator | 121482 | [121482-jailbreak-simulator.json](./121482-jailbreak-simulator.json) |
 | Jailbreak: The Ultimate Escape | 256260 | [256260-jailbreak-the-ultimate-escape.json](./256260-jailbreak-the-ultimate-escape.json) |
+| Jailbreak!: Source | 165134 | [165134-jailbreak-source.json](./165134-jailbreak-source.json) |
 | JailBreaker | 274775 | [274775-jailbreaker.json](./274775-jailbreaker.json) |
 | JailBreaker | 98478 | [98478-jailbreaker.json](./98478-jailbreaker.json) |
 | JaJaMaru Jr: Denshouki Jaleco Memorial | 122912 | [122912-jajamaru-jr-denshouki-jaleco-memorial.json](./122912-jajamaru-jr-denshouki-jaleco-memorial.json) |
