@@ -1416,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wartales: The Skelmar Invasion | 322788 | [322788-wartales-the-skelmar-invasion.json](./322788-wartales-the-skelmar-invasion.json) |
 | Wartales: The Tavern Opens! | 296870 | [296870-wartales-the-tavern-opens.json](./296870-wartales-the-tavern-opens.json) |
 | WarTech: Senko no Ronde | 7245 | [7245-wartech-senko-no-ronde.json](./7245-wartech-senko-no-ronde.json) |
+| Warthog Launch | 165168 | [165168-warthog-launch.json](./165168-warthog-launch.json) |
 | Warthog Rally | 393022 | [393022-warthog-rally.json](./393022-warthog-rally.json) |
 | Wartide | 389671 | [389671-wartide.json](./389671-wartide.json) |
 | Wartide: Heroes of Atlantis | 74313 | [74313-wartide-heroes-of-atlantis.json](./74313-wartide-heroes-of-atlantis.json) |
@@ -4157,6 +4158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch House Mixtape | 271187 | [271187-witch-house-mixtape.json](./271187-witch-house-mixtape.json) |
 | Witch Hunt | 134420 | [134420-witch-hunt.json](./134420-witch-hunt.json) |
 | Witch Hunt | 210283 | [210283-witch-hunt.json](./210283-witch-hunt.json) |
+| Witch Hunter | 165174 | [165174-witch-hunter.json](./165174-witch-hunter.json) |
 | Witch Hunter | 218158 | [218158-witch-hunter.json](./218158-witch-hunter.json) |
 | Witch Hunters: Full Moon Ceremony - Collector's Edition | 74350 | [74350-witch-hunters-full-moon-ceremony-collectors-edition.json](./74350-witch-hunters-full-moon-ceremony-collectors-edition.json) |
 | Witch Isis | 82835 | [82835-witch-isis.json](./82835-witch-isis.json) |
