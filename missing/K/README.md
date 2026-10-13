@@ -1595,6 +1595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Crab | 255124 | [255124-kill-crab.json](./255124-kill-crab.json) |
 | Kill Dad | 126034 | [126034-kill-dad.json](./126034-kill-dad.json) |
 | Kill Demons | 150951 | [150951-kill-demons.json](./150951-kill-demons.json) |
+| Kill Fish | 142189 | [142189-kill-fish.json](./142189-kill-fish.json) |
 | Kill H1N1 | 394208 | [394208-kill-h1n1.json](./394208-kill-h1n1.json) |
 | Kill Him! Online Wars | 102880 | [102880-kill-him-online-wars.json](./102880-kill-him-online-wars.json) |
 | Kill Invaders | 278714 | [278714-kill-invaders.json](./278714-kill-invaders.json) |
@@ -3469,6 +3470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konran;Zanki | 353452 | [353452-konran-zanki.json](./353452-konran-zanki.json) |
 | Konsui Fighter | 105555 | [105555-konsui-fighter.json](./105555-konsui-fighter.json) |
 | Kontra | 238396 | [238396-kontra.json](./238396-kontra.json) |
+| Kontrol Flow | 142196 | [142196-kontrol-flow.json](./142196-kontrol-flow.json) |
 | Konung 1 + 2 | 153008 | [153008-konung-1-2.json](./153008-konung-1-2.json) |
 | Koob Dog | 289777 | [289777-koob-dog.json](./289777-koob-dog.json) |
 | Koodbool | 308448 | [308448-koodbool.json](./308448-koodbool.json) |
