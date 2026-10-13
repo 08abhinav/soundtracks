@@ -1601,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jogo do Banquinho do Raul Gil | 222874 | [222874-jogo-do-banquinho-do-raul-gil.json](./222874-jogo-do-banquinho-do-raul-gil.json) |
 | Jogo Satanista para Praticar o Mal | 178443 | [178443-jogo-satanista-para-praticar-o-mal.json](./178443-jogo-satanista-para-praticar-o-mal.json) |
 | Johan | 403561 | [403561-johan.json](./403561-johan.json) |
+| Johan: The Archer & The Witch | 133116 | [133116-johan-the-archer-and-the-witch.json](./133116-johan-the-archer-and-the-witch.json) |
 | John Adventure | 63574 | [63574-john-adventure.json](./63574-john-adventure.json) |
 | John Adventure | 63575 | [63575-john-adventure.json](./63575-john-adventure.json) |
 | John Black: Memories | 108417 | [108417-john-black-memories.json](./108417-john-black-memories.json) |
