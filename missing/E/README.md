@@ -1272,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elder Gate | 166660 | [166660-elder-gate.json](./166660-elder-gate.json) |
 | Elder Kings II | 225709 | [225709-elder-kings-ii.json](./225709-elder-kings-ii.json) |
 | Elder Lich | 325514 | [325514-elder-lich.json](./325514-elder-lich.json) |
+| Elder Puzzle | 163554 | [163554-elder-puzzle.json](./163554-elder-puzzle.json) |
 | Elder Ring | 351154 | [351154-elder-ring.json](./351154-elder-ring.json) |
 | Elder Sign: Omens | 16729 | [16729-elder-sign-omens.json](./16729-elder-sign-omens.json) |
 | Elder Sign: Omens for iPad | 91068 | [91068-elder-sign-omens-for-ipad.json](./91068-elder-sign-omens-for-ipad.json) |
@@ -2233,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encore | 403601 | [403601-encore.json](./403601-encore.json) |
 | EnCore | 94678 | [94678-encore.json](./94678-encore.json) |
 | Encore Card Games | 130706 | [130706-encore-card-games.json](./130706-encore-card-games.json) |
+| Encore Classic: Puzzle & Board Games | 163560 | [163560-encore-classic-puzzle-and-board-games.json](./163560-encore-classic-puzzle-and-board-games.json) |
 | Encore Encore! | 364682 | [364682-encore-encore.json](./364682-encore-encore.json) |
 | Encore Illusions | 190437 | [190437-encore-illusions.json](./190437-encore-illusions.json) |
 | Encore Rally | 267867 | [267867-encore-rally.json](./267867-encore-rally.json) |
@@ -3295,6 +3297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Dimension-3 | 236722 | [236722-escape-from-dimension-3.json](./236722-escape-from-dimension-3.json) |
 | Escape From Duck | 394564 | [394564-escape-from-duck.json](./394564-escape-from-duck.json) |
 | Escape From Duckness | 395218 | [395218-escape-from-duckness.json](./395218-escape-from-duckness.json) |
+| Escape from DuFo | 163574 | [163574-escape-from-dufo.json](./163574-escape-from-dufo.json) |
 | Escape From Earth | 121458 | [121458-escape-from-earth.json](./121458-escape-from-earth.json) |
 | Escape from Elm Street | 320295 | [320295-escape-from-elm-street.json](./320295-escape-from-elm-street.json) |
 | Escape From Eternity | 186673 | [186673-escape-from-eternity.json](./186673-escape-from-eternity.json) |
