@@ -1217,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Hijo: A Wild West Tale | 25227 | [25227-el-hijo-a-wild-west-tale.json](./25227-el-hijo-a-wild-west-tale.json) |
 | El Hincha Rusia 2018 | 104053 | [104053-el-hincha-rusia-2018.json](./104053-el-hincha-rusia-2018.json) |
 | El Internado Laguna Negra | 144305 | [144305-el-internado-laguna-negra.json](./144305-el-internado-laguna-negra.json) |
+| El Interrogatorio | 135564 | [135564-el-interrogatorio.json](./135564-el-interrogatorio.json) |
 | El lacasito de Gandalf | 320990 | [320990-el-lacasito-de-gandalf.json](./320990-el-lacasito-de-gandalf.json) |
 | El Ladrón del Tiempo | 321134 | [321134-el-ladron-del-tiempo.json](./321134-el-ladron-del-tiempo.json) |
 | El Litri en Busca del Odrogoban Perdido | 194211 | [194211-el-litri-en-busca-del-odrogoban-perdido.json](./194211-el-litri-en-busca-del-odrogoban-perdido.json) |
@@ -1630,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elfscape: Ancestors | 297923 | [297923-elfscape-ancestors.json](./297923-elfscape-ancestors.json) |
 | Elfsquad7 | 93501 | [93501-elfsquad7.json](./93501-elfsquad7.json) |
 | Elhosea | 287710 | [287710-elhosea.json](./287710-elhosea.json) |
+| Elibean Nights | 135718 | [135718-elibean-nights.json](./135718-elibean-nights.json) |
 | Elidon | 13633 | [13633-elidon.json](./13633-elidon.json) |
 | Elidriel | 252024 | [252024-elidriel.json](./252024-elidriel.json) |
 | Elif | 186689 | [186689-elif.json](./186689-elif.json) |
@@ -3268,6 +3270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Academy: The Complete Edition | 246408 | [246408-escape-academy-the-complete-edition.json](./246408-escape-academy-the-complete-edition.json) |
 | Escape again | 120721 | [120721-escape-again.json](./120721-escape-again.json) |
 | Escape Architect VR | 121477 | [121477-escape-architect-vr.json](./121477-escape-architect-vr.json) |
+| Escape Area 51 | 135597 | [135597-escape-area-51.json](./135597-escape-area-51.json) |
 | Escape Artist | 386136 | [386136-escape-artist.json](./386136-escape-artist.json) |
 | Escape Artist: The Trial | 30591 | [30591-escape-artist-the-trial.json](./30591-escape-artist-the-trial.json) |
 | Escape Asylum | 96936 | [96936-escape-asylum.json](./96936-escape-asylum.json) |
@@ -4400,6 +4403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everlong Swansong | 257086 | [257086-everlong-swansong.json](./257086-everlong-swansong.json) |
 | Everlost | 397695 | [397695-everlost.json](./397695-everlost.json) |
 | EverMatch | 237672 | [237672-evermatch.json](./237672-evermatch.json) |
+| EverMerge | 135600 | [135600-evermerge.json](./135600-evermerge.json) |
 | EverMerge: Match 3 Puzzle Game | 290414 | [290414-evermerge-match-3-puzzle-game.json](./290414-evermerge-match-3-puzzle-game.json) |
 | Evermoon | 238080 | [238080-evermoon.json](./238080-evermoon.json) |
 | Evermore | 57514 | [57514-evermore.json](./57514-evermore.json) |
