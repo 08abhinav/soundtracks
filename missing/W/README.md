@@ -1148,6 +1148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlock | 13044 | [13044-warlock.json](./13044-warlock.json) |
 | Warlock | 19773 | [19773-warlock.json](./19773-warlock.json) |
 | Warlock II: Great Mage Edition | 53910 | [53910-warlock-ii-great-mage-edition.json](./53910-warlock-ii-great-mage-edition.json) |
+| Warlock II: The Exiled - Three Mighty Mages | 170789 | [170789-warlock-ii-the-exiled-three-mighty-mages.json](./170789-warlock-ii-the-exiled-three-mighty-mages.json) |
 | Warlock II: The Exiled - Wrath of the Nagas | 19207 | [19207-warlock-ii-the-exiled-wrath-of-the-nagas.json](./19207-warlock-ii-the-exiled-wrath-of-the-nagas.json) |
 | Warlock Quest II | 75228 | [75228-warlock-quest-ii.json](./75228-warlock-quest-ii.json) |
 | Warlock Survivors | 244215 | [244215-warlock-survivors.json](./244215-warlock-survivors.json) |
@@ -5679,6 +5680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds of Magic: Titans | 160281 | [160281-worlds-of-magic-titans.json](./160281-worlds-of-magic-titans.json) |
 | Worlds of Nyx | 391695 | [391695-worlds-of-nyx.json](./391695-worlds-of-nyx.json) |
 | Worlds of the Future | 169170 | [169170-worlds-of-the-future.json](./169170-worlds-of-the-future.json) |
+| Worlds Series Battle Grand Master Endgame | 170966 | [170966-worlds-series-battle-grand-master-endgame.json](./170966-worlds-series-battle-grand-master-endgame.json) |
 | Worlds War 1 | 251649 | [251649-worlds-war-1.json](./251649-worlds-war-1.json) |
 | Worlds Within Worlds | 176312 | [176312-worlds-within-worlds.json](./176312-worlds-within-worlds.json) |
 | Worlds: History Simulator | 125297 | [125297-worlds-history-simulator.json](./125297-worlds-history-simulator.json) |
