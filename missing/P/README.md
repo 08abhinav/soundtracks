@@ -1963,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PathCraft | 204340 | [204340-pathcraft.json](./204340-pathcraft.json) |
 | Pathfinder | 282100 | [282100-pathfinder.json](./282100-pathfinder.json) |
 | Pathfinder Adventures | 36611 | [36611-pathfinder-adventures.json](./36611-pathfinder-adventures.json) |
+| Pathfinder Adventures: Rise of the Goblins | 155354 | [155354-pathfinder-adventures-rise-of-the-goblins.json](./155354-pathfinder-adventures-rise-of-the-goblins.json) |
 | Pathfinder Puzzle | 158182 | [158182-pathfinder-puzzle.json](./158182-pathfinder-puzzle.json) |
 | Pathfinder: Abomination Vaults | 280311 | [280311-pathfinder-abomination-vaults.json](./280311-pathfinder-abomination-vaults.json) |
 | Pathfinder: Gallowspire Survivors | 252859 | [252859-pathfinder-gallowspire-survivors.json](./252859-pathfinder-gallowspire-survivors.json) |
@@ -7906,6 +7907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polyemisokos | 205572 | [205572-polyemisokos.json](./205572-polyemisokos.json) |
 | Polyfield WW2 | 102148 | [102148-polyfield-ww2.json](./102148-polyfield-ww2.json) |
 | PolyFight | 316278 | [316278-polyfight.json](./316278-polyfight.json) |
+| Polyforce WW2 | 155384 | [155384-polyforce-ww2.json](./155384-polyforce-ww2.json) |
 | Polyfuru feat. Asano Ruri | 122215 | [122215-polyfuru-feat-asano-ruri.json](./122215-polyfuru-feat-asano-ruri.json) |
 | Polyfuru feat. Marinasu β | 127179 | [127179-polyfuru-feat-marinasu.json](./127179-polyfuru-feat-marinasu.json) |
 | Polyfuru feat. Miya Kamino | 118290 | [118290-polyfuru-feat-miya-kamino.json](./118290-polyfuru-feat-miya-kamino.json) |
@@ -8243,6 +8245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n Music Fever! | 78291 | [78291-popn-music-fever.json](./78291-popn-music-fever.json) |
 | Pop'n Music GB: Animation Melody | 209619 | [209619-popn-music-gb-animation-melody.json](./209619-popn-music-gb-animation-melody.json) |
 | Pop'n Music Iroha | 79935 | [79935-popn-music-iroha.json](./79935-popn-music-iroha.json) |
+| Pop'n Music Kaimei Riddles | 155387 | [155387-popn-music-kaimei-riddles.json](./155387-popn-music-kaimei-riddles.json) |
 | Pop'n Music Lapistoria | 79936 | [79936-popn-music-lapistoria.json](./79936-popn-music-lapistoria.json) |
 | Pop'n Music Portable | 67314 | [67314-popn-music-portable.json](./67314-popn-music-portable.json) |
 | Pop'n Music Portable 2 | 64472 | [64472-popn-music-portable-2.json](./64472-popn-music-portable-2.json) |
@@ -8425,6 +8428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal 64 | 261713 | [261713-portal-64.json](./261713-portal-64.json) |
 | Portal 64: Still Alive | 377846 | [377846-portal-64-still-alive.json](./377846-portal-64-still-alive.json) |
 | Portal Brawlers | 310746 | [310746-portal-brawlers.json](./310746-portal-brawlers.json) |
+| Portal Defect | 155383 | [155383-portal-defect.json](./155383-portal-defect.json) |
 | Portal Defense | 207516 | [207516-portal-defense.json](./207516-portal-defense.json) |
 | Portal done Half-Life Source | 323554 | [323554-portal-done-half-life-source.json](./323554-portal-done-half-life-source.json) |
 | Portal Dungeon: Character Pack - Duck | 275719 | [275719-portal-dungeon-character-pack-duck.json](./275719-portal-dungeon-character-pack-duck.json) |
