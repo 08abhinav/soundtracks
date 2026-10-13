@@ -6192,6 +6192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anima De Machina | 309975 | [309975-anima-de-machina.json](./309975-anima-de-machina.json) |
 | Anima Fighters | 332422 | [332422-anima-fighters.json](./332422-anima-fighters.json) |
 | Anima Flux | 249480 | [249480-anima-flux.json](./249480-anima-flux.json) |
+| Anima Forest | 166847 | [166847-anima-forest.json](./166847-anima-forest.json) |
 | Anima Gate of Memories: I & II Remaster | 346952 | [346952-anima-gate-of-memories-i-and-ii-remaster.json](./346952-anima-gate-of-memories-i-and-ii-remaster.json) |
 | Anima Keeper | 291355 | [291355-anima-keeper.json](./291355-anima-keeper.json) |
 | Anima Mundi | 350000 | [350000-anima-mundi.json](./350000-anima-mundi.json) |
@@ -8938,6 +8939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arnie | 13797 | [13797-arnie.json](./13797-arnie.json) |
 | Arnie | 14268 | [14268-arnie.json](./14268-arnie.json) |
 | Arnmoire | 125803 | [125803-arnmoire.json](./125803-arnmoire.json) |
+| Arnold | 166835 | [166835-arnold.json](./166835-arnold.json) |
 | Arnold Palmer Tournament Golf | 12869 | [12869-arnold-palmer-tournament-golf.json](./12869-arnold-palmer-tournament-golf.json) |
 | Arnold the Adventurer | 58862 | [58862-arnold-the-adventurer.json](./58862-arnold-the-adventurer.json) |
 | Arnold the Adventurer II | 58861 | [58861-arnold-the-adventurer-ii.json](./58861-arnold-the-adventurer-ii.json) |
