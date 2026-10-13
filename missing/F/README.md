@@ -460,6 +460,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Fire: Defender of the Fairies | 132775 | [132775-fairy-fire-defender-of-the-fairies.json](./132775-fairy-fire-defender-of-the-fairies.json) |
 | Fairy Forge | 418282 | [418282-fairy-forge.json](./418282-fairy-forge.json) |
 | Fairy Glade | 175980 | [175980-fairy-glade.json](./175980-fairy-glade.json) |
+| Fairy Godmother Stories: Dark Deal | 155360 | [155360-fairy-godmother-stories-dark-deal.json](./155360-fairy-godmother-stories-dark-deal.json) |
+| Fairy Godmother Stories: Dark Deal - Collector's Edition | 155359 | [155359-fairy-godmother-stories-dark-deal-collectors-edition.json](./155359-fairy-godmother-stories-dark-deal-collectors-edition.json) |
 | Fairy Godmother Stories: Miraculous Dream - Collector's Edition | 166805 | [166805-fairy-godmother-stories-miraculous-dream-collectors-edition.json](./166805-fairy-godmother-stories-miraculous-dream-collectors-edition.json) |
 | Fairy Godmother Stories: Puss in Boots Collector's Edition | 151202 | [151202-fairy-godmother-stories-puss-in-boots-collectors-edition.json](./151202-fairy-godmother-stories-puss-in-boots-collectors-edition.json) |
 | Fairy Godmother Tycoon | 68634 | [68634-fairy-godmother-tycoon.json](./68634-fairy-godmother-tycoon.json) |
@@ -1384,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Mosaics 3: Distant Worlds | 100735 | [100735-fantasy-mosaics-3-distant-worlds.json](./100735-fantasy-mosaics-3-distant-worlds.json) |
 | Fantasy Mosaics 31: First Date | 381347 | [381347-fantasy-mosaics-31-first-date.json](./381347-fantasy-mosaics-31-first-date.json) |
 | Fantasy Mosaics 32: Santa's Hut | 381346 | [381346-fantasy-mosaics-32-santas-hut.json](./381346-fantasy-mosaics-32-santas-hut.json) |
+| Fantasy Mosaics 34: Zen Garden | 155345 | [155345-fantasy-mosaics-34-zen-garden.json](./155345-fantasy-mosaics-34-zen-garden.json) |
 | Fantasy Mosaics 35: Day at the Museum | 188525 | [188525-fantasy-mosaics-35-day-at-the-museum.json](./188525-fantasy-mosaics-35-day-at-the-museum.json) |
 | Fantasy Mosaics 37: Spooky Night | 296060 | [296060-fantasy-mosaics-37-spooky-night.json](./296060-fantasy-mosaics-37-spooky-night.json) |
 | Fantasy Mosaics 38: Underwater Adventure | 337259 | [337259-fantasy-mosaics-38-underwater-adventure.json](./337259-fantasy-mosaics-38-underwater-adventure.json) |
