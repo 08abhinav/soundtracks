@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Slumber Party | 384715 | [384715-waifu-slumber-party.json](./384715-waifu-slumber-party.json) |
 | Waifu Space Conquest | 250383 | [250383-waifu-space-conquest.json](./250383-waifu-space-conquest.json) |
 | Waifu Survivors | 338553 | [338553-waifu-survivors.json](./338553-waifu-survivors.json) |
+| Waifu Uncovered | 137907 | [137907-waifu-uncovered.json](./137907-waifu-uncovered.json) |
 | Waifu Uncovered | 375431 | [375431-waifu-uncovered.json](./375431-waifu-uncovered.json) |
 | Waifu vs. Evil | 154372 | [154372-waifu-vs-evil.json](./154372-waifu-vs-evil.json) |
 | Waifu Wars | 213573 | [213573-waifu-wars.json](./213573-waifu-wars.json) |
