@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Little Lily Princess | 33333 | [33333-a-little-lily-princess.json](./33333-a-little-lily-princess.json) |
 | A Little Piece of Healing | 308423 | [308423-a-little-piece-of-healing.json](./308423-a-little-piece-of-healing.json) |
 | A Little Rabbit Story | 83521 | [83521-a-little-rabbit-story.json](./83521-a-little-rabbit-story.json) |
+| A Little Time | 158419 | [158419-a-little-time.json](./158419-a-little-time.json) |
 | A Little to the Left | 152180 | [152180-a-little-to-the-left.json](./152180-a-little-to-the-left.json) |
 | A Little to the Left Seeing Stars DLC Bundle | 312110 | [312110-a-little-to-the-left-seeing-stars-dlc-bundle.json](./312110-a-little-to-the-left-seeing-stars-dlc-bundle.json) |
 | A Little to the Left: Deep Clean | 264334 | [264334-a-little-to-the-left-deep-clean.json](./264334-a-little-to-the-left-deep-clean.json) |
@@ -7659,6 +7660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arboria | 126432 | [126432-arboria.json](./126432-arboria.json) |
 | Arby | 377051 | [377051-arby.json](./377051-arby.json) |
 | Arc | 182772 | [182772-arc.json](./182772-arc.json) |
+| Arc Apellago | 158411 | [158411-arc-apellago.json](./158411-arc-apellago.json) |
 | Arc Aquarium | 387076 | [387076-arc-aquarium.json](./387076-arc-aquarium.json) |
 | ARC Continuum | 27671 | [27671-arc-continuum.json](./27671-arc-continuum.json) |
 | Arc Doors | 281344 | [281344-arc-doors.json](./281344-arc-doors.json) |
