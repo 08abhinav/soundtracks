@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wales Interactive VR Bundle | 119086 | [119086-wales-interactive-vr-bundle.json](./119086-wales-interactive-vr-bundle.json) |
 | Walfie's Nonograms | 389599 | [389599-walfies-nonograms.json](./389599-walfies-nonograms.json) |
 | Waligie 3: On Mars | 318032 | [318032-waligie-3-on-mars.json](./318032-waligie-3-on-mars.json) |
+| Walk | 152080 | [152080-walk.json](./152080-walk.json) |
 | Walk and Stroll | 239728 | [239728-walk-and-stroll.json](./239728-walk-and-stroll.json) |
 | Walk Around And Do Nothing | 392358 | [392358-walk-around-and-do-nothing.json](./392358-walk-around-and-do-nothing.json) |
 | Walk Around the World | 414532 | [414532-walk-around-the-world.json](./414532-walk-around-the-world.json) |
@@ -2485,6 +2486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Is Love?: Vol. 1 | 203921 | [203921-what-is-love-vol-1.json](./203921-what-is-love-vol-1.json) |
 | What is My Name | 305538 | [305538-what-is-my-name.json](./305538-what-is-my-name.json) |
 | What is Older? | 374674 | [374674-what-is-older.json](./374674-what-is-older.json) |
+| What is schlo? | 152010 | [152010-what-is-schlo.json](./152010-what-is-schlo.json) |
 | What is That Outside | 343233 | [343233-what-is-that-outside.json](./343233-what-is-that-outside.json) |
 | What Is The Ghost | 363512 | [363512-what-is-the-ghost.json](./363512-what-is-the-ghost.json) |
 | What Is This Sorcery | 328451 | [328451-what-is-this-sorcery.json](./328451-what-is-this-sorcery.json) |
@@ -3265,6 +3267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why Me | 377147 | [377147-why-me.json](./377147-why-me.json) |
 | Why Neon Lights Again? | 128990 | [128990-why-neon-lights-again.json](./128990-why-neon-lights-again.json) |
 | Why Not Frog? | 185474 | [185474-why-not-frog.json](./185474-why-not-frog.json) |
+| Why Not? | 152009 | [152009-why-not.json](./152009-why-not.json) |
 | Why Pizza? | 151545 | [151545-why-pizza.json](./151545-why-pizza.json) |
 | Why So Evil | 9368 | [9368-why-so-evil.json](./9368-why-so-evil.json) |
 | Why So Evil 2: Dystopia | 35629 | [35629-why-so-evil-2-dystopia.json](./35629-why-so-evil-2-dystopia.json) |
