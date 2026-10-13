@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safari Islands | 241532 | [241532-safari-islands.json](./241532-safari-islands.json) |
 | Safari Kart | 263579 | [263579-safari-kart.json](./263579-safari-kart.json) |
 | Safari Kongo | 79243 | [79243-safari-kongo.json](./79243-safari-kongo.json) |
+| Safari Park Ranger | 167373 | [167373-safari-park-ranger.json](./167373-safari-park-ranger.json) |
 | Safari Party | 256224 | [256224-safari-party.json](./256224-safari-party.json) |
 | Safari Pinball | 124086 | [124086-safari-pinball.json](./124086-safari-pinball.json) |
 | Safari Puzzle Match | 319952 | [319952-safari-puzzle-match.json](./319952-safari-puzzle-match.json) |
@@ -4060,6 +4061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Poker | 417405 | [417405-sex-poker.json](./417405-sex-poker.json) |
 | Sex Prison | 175795 | [175795-sex-prison.json](./175795-sex-prison.json) |
 | Sex Prison VR | 368090 | [368090-sex-prison-vr.json](./368090-sex-prison-vr.json) |
+| Sex Quest | 167387 | [167387-sex-quest.json](./167387-sex-quest.json) |
 | Sex Restaurant: Kuronekotei | 108938 | [108938-sex-restaurant-kuronekotei.json](./108938-sex-restaurant-kuronekotei.json) |
 | Sex Rhythm: Onsen | 257846 | [257846-sex-rhythm-onsen.json](./257846-sex-rhythm-onsen.json) |
 | Sex Room: 18+ | 235270 | [235270-sex-room-18.json](./235270-sex-room-18.json) |
@@ -8001,6 +8003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skullforge: The Hunt | 110272 | [110272-skullforge-the-hunt.json](./110272-skullforge-the-hunt.json) |
 | Skullgirls Encore: Beowulf | 127262 | [127262-skullgirls-encore-beowulf.json](./127262-skullgirls-encore-beowulf.json) |
 | Skullgirls: 2nd Encore | 11179 | [11179-skullgirls-2nd-encore.json](./11179-skullgirls-2nd-encore.json) |
+| Skullgirls: 2nd Encore - Annie | 167349 | [167349-skullgirls-2nd-encore-annie.json](./167349-skullgirls-2nd-encore-annie.json) |
 | Skullgirls: Season 1 Pass | 370325 | [370325-skullgirls-season-1-pass.json](./370325-skullgirls-season-1-pass.json) |
 | Skullhammer | 181862 | [181862-skullhammer.json](./181862-skullhammer.json) |
 | Skullivan's | 329158 | [329158-skullivans.json](./329158-skullivans.json) |
@@ -8877,6 +8880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slink & Snatch: Tales of Thievery | 220666 | [220666-slink-and-snatch-tales-of-thievery.json](./220666-slink-and-snatch-tales-of-thievery.json) |
 | Slinki | 35633 | [35633-slinki.json](./35633-slinki.json) |
 | Slip | 36357 | [36357-slip.json](./36357-slip.json) |
+| Slip 'n Dip | 167365 | [167365-slip-n-dip.json](./167365-slip-n-dip.json) |
 | Slip 'n Slime | 310190 | [310190-slip-n-slime.json](./310190-slip-n-slime.json) |
 | Slip & Skid | 275082 | [275082-slip-and-skid.json](./275082-slip-and-skid.json) |
 | Slip Tripping | 271189 | [271189-slip-tripping.json](./271189-slip-tripping.json) |
@@ -9577,6 +9581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakecremental | 341463 | [341463-snakecremental.json](./341463-snakecremental.json) |
 | Snakeez | 69021 | [69021-snakeez.json](./69021-snakeez.json) |
 | Snakehaus | 274496 | [274496-snakehaus.json](./274496-snakehaus.json) |
+| SnakeLaw Island | 167375 | [167375-snakelaw-island.json](./167375-snakelaw-island.json) |
 | Snakelike | 113874 | [113874-snakelike.json](./113874-snakelike.json) |
 | SnakeLike | 374231 | [374231-snakelike.json](./374231-snakelike.json) |
 | SnakeLogic | 104674 | [104674-snakelogic.json](./104674-snakelogic.json) |
@@ -13483,6 +13488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Tee Shot | 60587 | [60587-special-tee-shot.json](./60587-special-tee-shot.json) |
 | Special Transport Simulator 2013 | 54384 | [54384-special-transport-simulator-2013.json](./54384-special-transport-simulator-2013.json) |
 | Special Warfare | 108075 | [108075-special-warfare.json](./108075-special-warfare.json) |
+| Specialist's Vengeance | 167394 | [167394-specialists-vengeance.json](./167394-specialists-vengeance.json) |
 | Species: Artificial Life, Real Evolution | 57787 | [57787-species-artificial-life-real-evolution.json](./57787-species-artificial-life-real-evolution.json) |
 | Species: Unknown | 302968 | [302968-species-unknown.json](./302968-species-unknown.json) |
 | Specimen #08 | 262963 | [262963-specimen-08.json](./262963-specimen-08.json) |
