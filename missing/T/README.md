@@ -3373,6 +3373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Kiwamemichi | 137623 | [137623-tetris-kiwamemichi.json](./137623-tetris-kiwamemichi.json) |
 | Tetris Kuromi Sanrio Key Chain Game Console | 321551 | [321551-tetris-kuromi-sanrio-key-chain-game-console.json](./321551-tetris-kuromi-sanrio-key-chain-game-console.json) |
 | Tetris Mario Bros. | 250321 | [250321-tetris-mario-bros.json](./250321-tetris-mario-bros.json) |
+| Tetris Max | 144033 | [144033-tetris-max.json](./144033-tetris-max.json) |
 | Tetris MicroCard | 234081 | [234081-tetris-microcard.json](./234081-tetris-microcard.json) |
 | Tetris Mind Bender | 302679 | [302679-tetris-mind-bender.json](./302679-tetris-mind-bender.json) |
 | Tetris Mini | 218085 | [218085-tetris-mini.json](./218085-tetris-mini.json) |
@@ -16507,6 +16508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege + The Division Double Pack | 144734 | [144734-tom-clancys-rainbow-six-siege-the-division-double-pack.json](./144734-tom-clancys-rainbow-six-siege-the-division-double-pack.json) |
 | Tom Clancy's Rainbow Six Siege X | 349484 | [349484-tom-clancys-rainbow-six-siege-x.json](./349484-tom-clancys-rainbow-six-siege-x.json) |
 | Tom Clancy's Rainbow Six Siege: Complete Edition | 53820 | [53820-tom-clancys-rainbow-six-siege-complete-edition.json](./53820-tom-clancys-rainbow-six-siege-complete-edition.json) |
+| Tom Clancy's Rainbow Six Siege: Crimson Heist | 144049 | [144049-tom-clancys-rainbow-six-siege-crimson-heist.json](./144049-tom-clancys-rainbow-six-siege-crimson-heist.json) |
 | Tom Clancy's Rainbow Six Siege: Deluxe Edition | 118882 | [118882-tom-clancys-rainbow-six-siege-deluxe-edition.json](./118882-tom-clancys-rainbow-six-siege-deluxe-edition.json) |
 | Tom Clancy's Rainbow Six Siege: North Star | 158944 | [158944-tom-clancys-rainbow-six-siege-north-star.json](./158944-tom-clancys-rainbow-six-siege-north-star.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Blood Orchid | 55167 | [55167-tom-clancys-rainbow-six-siege-operation-blood-orchid.json](./55167-tom-clancys-rainbow-six-siege-operation-blood-orchid.json) |
