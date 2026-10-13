@@ -1337,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Tour de France | 172668 | [172668-le-tour-de-france.json](./172668-le-tour-de-france.json) |
 | Le Tour de France: Centenary Edition | 43449 | [43449-le-tour-de-france-centenary-edition.json](./43449-le-tour-de-france-centenary-edition.json) |
 | Le Trésor d'ali Gator | 336174 | [336174-le-tresor-dali-gator.json](./336174-le-tresor-dali-gator.json) |
+| Le Voyage de Toki | 142809 | [142809-le-voyage-de-toki.json](./142809-le-voyage-de-toki.json) |
 | Le Zoo | 346065 | [346065-le-zoo.json](./346065-le-zoo.json) |
 | Lea | 269228 | [269228-lea.json](./269228-lea.json) |
 | Lea | 310112 | [310112-lea.json](./310112-lea.json) |
@@ -3901,7 +3902,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Honeybee | 288359 | [288359-little-honeybee.json](./288359-little-honeybee.json) |
 | Little Horror Raiser | 216185 | [216185-little-horror-raiser.json](./216185-little-horror-raiser.json) |
 | Little Horrors! | 287240 | [287240-little-horrors.json](./287240-little-horrors.json) |
-| Little Inferno | 1363 | [1363-little-inferno.json](./1363-little-inferno.json) |
 | Little Inferno: Ho Ho Holiday | 224412 | [224412-little-inferno-ho-ho-holiday.json](./224412-little-inferno-ho-ho-holiday.json) |
 | Little Inner Monsters | 193666 | [193666-little-inner-monsters.json](./193666-little-inner-monsters.json) |
 | Little Island | 189072 | [189072-little-island.json](./189072-little-island.json) |
@@ -5049,6 +5049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of the Click 5 | 347778 | [347778-lord-of-the-click-5.json](./347778-lord-of-the-click-5.json) |
 | Lord of the Dark Castle | 35761 | [35761-lord-of-the-dark-castle.json](./35761-lord-of-the-dark-castle.json) |
 | Lord of the Imps | 212979 | [212979-lord-of-the-imps.json](./212979-lord-of-the-imps.json) |
+| Lord of the Jungle | 142763 | [142763-lord-of-the-jungle.json](./142763-lord-of-the-jungle.json) |
 | Lord of the Other World | 174815 | [174815-lord-of-the-other-world.json](./174815-lord-of-the-other-world.json) |
 | Lord of the Race | 260656 | [260656-lord-of-the-race.json](./260656-lord-of-the-race.json) |
 | Lord of the Rings: Warrior of Middle Earth | 190102 | [190102-lord-of-the-rings-warrior-of-middle-earth.json](./190102-lord-of-the-rings-warrior-of-middle-earth.json) |
@@ -5303,6 +5304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Dungeon | 158406 | [158406-lost-in-dungeon.json](./158406-lost-in-dungeon.json) |
 | Lost In Failures | 291093 | [291093-lost-in-failures.json](./291093-lost-in-failures.json) |
 | Lost In Fantaland | 157064 | [157064-lost-in-fantaland.json](./157064-lost-in-fantaland.json) |
+| Lost in Firefly Forest | 142778 | [142778-lost-in-firefly-forest.json](./142778-lost-in-firefly-forest.json) |
 | Lost in Harmony | 58892 | [58892-lost-in-harmony.json](./58892-lost-in-harmony.json) |
 | Lost in Heart of Chernobyl: Survival | 314864 | [314864-lost-in-heart-of-chernobyl-survival.json](./314864-lost-in-heart-of-chernobyl-survival.json) |
 | Lost in Hell | 207786 | [207786-lost-in-hell.json](./207786-lost-in-hell.json) |
