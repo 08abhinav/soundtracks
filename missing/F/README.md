@@ -467,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Fire: Defender of the Fairies | 132775 | [132775-fairy-fire-defender-of-the-fairies.json](./132775-fairy-fire-defender-of-the-fairies.json) |
 | Fairy Forge | 418282 | [418282-fairy-forge.json](./418282-fairy-forge.json) |
 | Fairy Glade | 175980 | [175980-fairy-glade.json](./175980-fairy-glade.json) |
+| Fairy Godmother Stories: Cinderella | 139725 | [139725-fairy-godmother-stories-cinderella.json](./139725-fairy-godmother-stories-cinderella.json) |
 | Fairy Godmother Stories: Dark Deal | 155360 | [155360-fairy-godmother-stories-dark-deal.json](./155360-fairy-godmother-stories-dark-deal.json) |
 | Fairy Godmother Stories: Dark Deal - Collector's Edition | 155359 | [155359-fairy-godmother-stories-dark-deal-collectors-edition.json](./155359-fairy-godmother-stories-dark-deal-collectors-edition.json) |
 | Fairy Godmother Stories: Miraculous Dream - Collector's Edition | 166805 | [166805-fairy-godmother-stories-miraculous-dream-collectors-edition.json](./166805-fairy-godmother-stories-miraculous-dream-collectors-edition.json) |
@@ -2748,6 +2749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fibble | 228714 | [228714-fibble.json](./228714-fibble.json) |
 | Fibble: Flick 'n' Roll | 65220 | [65220-fibble-flick-n-roll.json](./65220-fibble-flick-n-roll.json) |
 | Fibbler.io | 282568 | [282568-fibbler-io.json](./282568-fibbler-io.json) |
+| Fibby.io | 139718 | [139718-fibby-io.json](./139718-fibby-io.json) |
 | Fiber Twig | 135101 | [135101-fiber-twig.json](./135101-fiber-twig.json) |
 | Fiber Twig 2: Restoration of Magic Garden | 58183 | [58183-fiber-twig-2-restoration-of-magic-garden.json](./58183-fiber-twig-2-restoration-of-magic-garden.json) |
 | Fiber Twig: Midnight Puzzle | 30701 | [30701-fiber-twig-midnight-puzzle.json](./30701-fiber-twig-midnight-puzzle.json) |
@@ -4130,6 +4132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireworks Simulator: Realistic | 169400 | [169400-fireworks-simulator-realistic.json](./169400-fireworks-simulator-realistic.json) |
 | Firey's Candy Bar Adventure | 296227 | [296227-fireys-candy-bar-adventure.json](./296227-fireys-candy-bar-adventure.json) |
 | Firezone | 74397 | [74397-firezone.json](./74397-firezone.json) |
+| Firing Vibes | 139680 | [139680-firing-vibes.json](./139680-firing-vibes.json) |
 | Firmament | 89994 | [89994-firmament.json](./89994-firmament.json) |
 | Firmament Wars | 104042 | [104042-firmament-wars.json](./104042-firmament-wars.json) |
 | Firo & Klawd | 28218 | [28218-firo-and-klawd.json](./28218-firo-and-klawd.json) |
@@ -4925,6 +4928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flashout 3D | 39206 | [39206-flashout-3d.json](./39206-flashout-3d.json) |
 | Flashout 3D: Enhanced Edition | 214676 | [214676-flashout-3d-enhanced-edition.json](./214676-flashout-3d-enhanced-edition.json) |
 | Flashout III | 199568 | [199568-flashout-iii.json](./199568-flashout-iii.json) |
+| Flashpoint Campaigns: Red Storm | 139724 | [139724-flashpoint-campaigns-red-storm.json](./139724-flashpoint-campaigns-red-storm.json) |
 | Flashpoint Campaigns: Southern Storm | 143429 | [143429-flashpoint-campaigns-southern-storm.json](./143429-flashpoint-campaigns-southern-storm.json) |
 | Flashy Maze | 130742 | [130742-flashy-maze.json](./130742-flashy-maze.json) |
 | Flask | 366367 | [366367-flask.json](./366367-flask.json) |
