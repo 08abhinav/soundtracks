@@ -1364,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikaros | 51955 | [51955-ikaros.json](./51955-ikaros.json) |
 | Ikaruga | 200996 | [200996-ikaruga.json](./200996-ikaruga.json) |
 | Ikaruga | 3953 | [3953-ikaruga.json](./3953-ikaruga.json) |
+| Ikaruga: Limited Edition | 166304 | [166304-ikaruga-limited-edition.json](./166304-ikaruga-limited-edition.json) |
 | Ikasama Mahjong | 346150 | [346150-ikasama-mahjong.json](./346150-ikasama-mahjong.json) |
 | Ikasumi Potion | 308923 | [308923-ikasumi-potion.json](./308923-ikasumi-potion.json) |
 | Ikatan: Ikamono Tantei | 72774 | [72774-ikatan-ikamono-tantei.json](./72774-ikatan-ikamono-tantei.json) |
@@ -4258,6 +4259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Consumes | 245778 | [245778-it-consumes.json](./245778-it-consumes.json) |
 | It Devours Our Souls | 184956 | [184956-it-devours-our-souls.json](./184956-it-devours-our-souls.json) |
 | It Doesn't Have to Be Like This | 299125 | [299125-it-doesnt-have-to-be-like-this.json](./299125-it-doesnt-have-to-be-like-this.json) |
+| It Falls | 166299 | [166299-it-falls.json](./166299-it-falls.json) |
 | It Feeds | 207220 | [207220-it-feeds.json](./207220-it-feeds.json) |
 | It Fishes At Night | 316945 | [316945-it-fishes-at-night.json](./316945-it-fishes-at-night.json) |
 | It follows you | 187168 | [187168-it-follows-you.json](./187168-it-follows-you.json) |
