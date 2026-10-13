@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Napoleon 1813 | 62209 | [62209-napoleon-1813.json](./62209-napoleon-1813.json) |
 | Napoleon at Waterloo | 25092 | [25092-napoleon-at-waterloo.json](./25092-napoleon-at-waterloo.json) |
 | Napoleon Dynamite: The Game | 2824 | [2824-napoleon-dynamite-the-game.json](./2824-napoleon-dynamite-the-game.json) |
+| Napoleon Maiden | 150964 | [150964-napoleon-maiden.json](./150964-napoleon-maiden.json) |
 | Napoleon Solitaire | 132169 | [132169-napoleon-solitaire.json](./132169-napoleon-solitaire.json) |
 | Napoleon: Rule of Iron | 358985 | [358985-napoleon-rule-of-iron.json](./358985-napoleon-rule-of-iron.json) |
 | Napoleon: Total War - Coalition Battle Pack | 82108 | [82108-napoleon-total-war-coalition-battle-pack.json](./82108-napoleon-total-war-coalition-battle-pack.json) |
@@ -1744,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeonPowerUp! | 267841 | [267841-neonpowerup.json](./267841-neonpowerup.json) |
 | Neonsomnia | 257087 | [257087-neonsomnia.json](./257087-neonsomnia.json) |
 | NeonTunnel | 176365 | [176365-neontunnel.json](./176365-neontunnel.json) |
+| Neonverse Defenders | 150933 | [150933-neonverse-defenders.json](./150933-neonverse-defenders.json) |
 | NeonXSZ | 17314 | [17314-neonxsz.json](./17314-neonxsz.json) |
 | Neopets Browser | 131370 | [131370-neopets-browser.json](./131370-neopets-browser.json) |
 | Neopets Petpet Adventures: The Wand of Wishing | 78340 | [78340-neopets-petpet-adventures-the-wand-of-wishing.json](./78340-neopets-petpet-adventures-the-wand-of-wishing.json) |
@@ -3458,6 +3460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Runner | 233234 | [233234-ninja-runner.json](./233234-ninja-runner.json) |
 | Ninja Saga | 198177 | [198177-ninja-saga.json](./198177-ninja-saga.json) |
 | Ninja Savior | 268496 | [268496-ninja-savior.json](./268496-ninja-savior.json) |
+| Ninja Scarf | 150983 | [150983-ninja-scarf.json](./150983-ninja-scarf.json) |
 | Ninja Scroller | 181762 | [181762-ninja-scroller.json](./181762-ninja-scroller.json) |
 | Ninja Senki | 92465 | [92465-ninja-senki.json](./92465-ninja-senki.json) |
 | Ninja Sentai Hurricanger & Hyakujuu Sentai Gaoranger: Chou Sentai Super Battle | 62743 | [62743-ninja-sentai-hurricanger-and-hyakujuu-sentai-gaoranger-chou-sentai-super-battle.json](./62743-ninja-sentai-hurricanger-and-hyakujuu-sentai-gaoranger-chou-sentai-super-battle.json) |
@@ -3551,6 +3554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NinNinDays 2 | 230799 | [230799-ninnindays-2.json](./230799-ninnindays-2.json) |
 | NinNinDays2 | 186695 | [186695-ninnindays2.json](./186695-ninnindays2.json) |
 | NinNinDays2 | 192399 | [192399-ninnindays2.json](./192399-ninnindays2.json) |
+| Nino Maze Lofi | 150934 | [150934-nino-maze-lofi.json](./150934-nino-maze-lofi.json) |
 | Nino Maze Lofi II | 193197 | [193197-nino-maze-lofi-ii.json](./193197-nino-maze-lofi-ii.json) |
 | Ninpek | 317577 | [317577-ninpek.json](./317577-ninpek.json) |
 | Ninpen Manmaru | 62714 | [62714-ninpen-manmaru.json](./62714-ninpen-manmaru.json) |
@@ -3815,6 +3819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Love: 2009 | 399069 | [399069-no-love-2009.json](./399069-no-love-2009.json) |
 | No Luca No | 92496 | [92496-no-luca-no.json](./92496-no-luca-no.json) |
 | No Male Heroes | 74776 | [74776-no-male-heroes.json](./74776-no-male-heroes.json) |
+| No Man is an Island | 150959 | [150959-no-man-is-an-island.json](./150959-no-man-is-an-island.json) |
 | No Man's Area | 302080 | [302080-no-mans-area.json](./302080-no-mans-area.json) |
 | No Man's Home | 346645 | [346645-no-mans-home.json](./346645-no-mans-home.json) |
 | No Man's Island | 148160 | [148160-no-mans-island.json](./148160-no-mans-island.json) |
