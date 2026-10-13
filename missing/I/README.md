@@ -2070,6 +2070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incoming War | 211979 | [211979-incoming-war.json](./211979-incoming-war.json) |
 | Incompatible Fusion Machine | 312585 | [312585-incompatible-fusion-machine.json](./312585-incompatible-fusion-machine.json) |
 | Incompatible Species | 55129 | [55129-incompatible-species.json](./55129-incompatible-species.json) |
+| Inconvenience Store | 177780 | [177780-inconvenience-store.json](./177780-inconvenience-store.json) |
 | Incorp Inc | 30135 | [30135-incorp-inc.json](./30135-incorp-inc.json) |
 | InCrazyBall | 360490 | [360490-incrazyball.json](./360490-incrazyball.json) |
 | Increase World | 367996 | [367996-increase-world.json](./367996-increase-world.json) |
