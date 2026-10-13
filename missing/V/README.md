@@ -596,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanishing Point: Tenshi no Kieta Machi | 308971 | [308971-vanishing-point-tenshi-no-kieta-machi.json](./308971-vanishing-point-tenshi-no-kieta-machi.json) |
 | Vanishing Realms | 18694 | [18694-vanishing-realms.json](./18694-vanishing-realms.json) |
 | Vanishing Realms: The Sundered Rift | 167244 | [167244-vanishing-realms-the-sundered-rift.json](./167244-vanishing-realms-the-sundered-rift.json) |
+| Vanitas | 137923 | [137923-vanitas.json](./137923-vanitas.json) |
 | Vanity | 273650 | [273650-vanity.json](./273650-vanity.json) |
 | Vanity: Fighter Skin | 380206 | [380206-vanity-fighter-skin.json](./380206-vanity-fighter-skin.json) |
 | Vanity: Military Skin | 380208 | [380208-vanity-military-skin.json](./380208-vanity-military-skin.json) |
@@ -2469,6 +2470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxile | 272585 | [272585-voxile.json](./272585-voxile.json) |
 | Voxorp | 178628 | [178628-voxorp.json](./178628-voxorp.json) |
 | Voxrush | 211138 | [211138-voxrush.json](./211138-voxrush.json) |
+| VoxStory | 137887 | [137887-voxstory.json](./137887-voxstory.json) |
 | Voya Nui Online Game | 155023 | [155023-voya-nui-online-game.json](./155023-voya-nui-online-game.json) |
 | Voyage | 119617 | [119617-voyage.json](./119617-voyage.json) |
 | Voyage | 232012 | [232012-voyage.json](./232012-voyage.json) |
