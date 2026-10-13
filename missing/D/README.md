@@ -7881,6 +7881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Go Up There | 387546 | [387546-dont-go-up-there.json](./387546-dont-go-up-there.json) |
 | Don't Go, Pikachu! | 250496 | [250496-dont-go-pikachu.json](./250496-dont-go-pikachu.json) |
 | Don't Grind | 96894 | [96894-dont-grind.json](./96894-dont-grind.json) |
+| Don't Hate Me | 174055 | [174055-dont-hate-me.json](./174055-dont-hate-me.json) |
 | Don't Hate My Music Taste | 167818 | [167818-dont-hate-my-music-taste.json](./167818-dont-hate-my-music-taste.json) |
 | Don't Hide | 215907 | [215907-dont-hide.json](./215907-dont-hide.json) |
 | Don't Ice your Cool | 307787 | [307787-dont-ice-your-cool.json](./307787-dont-ice-your-cool.json) |
@@ -11844,6 +11845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Guns | 158081 | [158081-dungeons-and-guns.json](./158081-dungeons-and-guns.json) |
 | Dungeons & Keyboards | 250953 | [250953-dungeons-and-keyboards.json](./250953-dungeons-and-keyboards.json) |
 | Dungeons & Lesbians | 134554 | [134554-dungeons-and-lesbians.json](./134554-dungeons-and-lesbians.json) |
+| Dungeons & Miners | 174256 | [174256-dungeons-and-miners.json](./174256-dungeons-and-miners.json) |
 | Dungeons & Warbands | 390685 | [390685-dungeons-and-warbands.json](./390685-dungeons-and-warbands.json) |
 | Dungeons & Zombies | 125215 | [125215-dungeons-and-zombies.json](./125215-dungeons-and-zombies.json) |
 | Dungeons 2 | 9767 | [9767-dungeons-2.json](./9767-dungeons-2.json) |
