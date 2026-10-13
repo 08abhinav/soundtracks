@@ -1570,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unity of Command II: Moscow 41 | 166051 | [166051-unity-of-command-ii-moscow-41.json](./166051-unity-of-command-ii-moscow-41.json) |
 | Unity of Command II: Stalingrad | 196058 | [196058-unity-of-command-ii-stalingrad.json](./196058-unity-of-command-ii-stalingrad.json) |
 | Unity of Command: Black Turn | 171631 | [171631-unity-of-command-black-turn.json](./171631-unity-of-command-black-turn.json) |
+| Unity of Command: Red Turn | 171341 | [171341-unity-of-command-red-turn.json](./171341-unity-of-command-red-turn.json) |
 | Unity to Survive | 368507 | [368507-unity-to-survive.json](./368507-unity-to-survive.json) |
 | Unity-chan no Knife Nage Master | 206047 | [206047-unity-chan-no-knife-nage-master.json](./206047-unity-chan-no-knife-nage-master.json) |
 | Unity-chan the SharpShooter! | 304899 | [304899-unity-chan-the-sharpshooter.json](./304899-unity-chan-the-sharpshooter.json) |
