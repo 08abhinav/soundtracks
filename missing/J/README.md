@@ -1323,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu 13 | 78581 | [78581-jikkyou-pawafuru-puroyakyu-13.json](./78581-jikkyou-pawafuru-puroyakyu-13.json) |
 | Jikkyou Pawafuru Puroyakyu 14 | 69203 | [69203-jikkyou-pawafuru-puroyakyu-14.json](./69203-jikkyou-pawafuru-puroyakyu-14.json) |
 | Jikkyou Pawafuru Puroyakyu 15 | 69204 | [69204-jikkyou-pawafuru-puroyakyu-15.json](./69204-jikkyou-pawafuru-puroyakyu-15.json) |
+| Jikkyou Pawafuru Puroyakyu 2000 | 136733 | [136733-jikkyou-pawafuru-puroyakyu-2000.json](./136733-jikkyou-pawafuru-puroyakyu-2000.json) |
 | Jikkyou Pawafuru Puroyakyu 2000: Kaimaku-ban | 229575 | [229575-jikkyou-pawafuru-puroyakyu-2000-kaimaku-ban.json](./229575-jikkyou-pawafuru-puroyakyu-2000-kaimaku-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 2001: Kettei-ban | 229579 | [229579-jikkyou-pawafuru-puroyakyu-2001-kettei-ban.json](./229579-jikkyou-pawafuru-puroyakyu-2001-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 2002 Haru | 229580 | [229580-jikkyou-pawafuru-puroyakyu-2002-haru.json](./229580-jikkyou-pawafuru-puroyakyu-2002-haru.json) |
@@ -1339,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu 2018: Digital Deluxe Edition | 118877 | [118877-jikkyou-pawafuru-puroyakyu-2018-digital-deluxe-edition.json](./118877-jikkyou-pawafuru-puroyakyu-2018-digital-deluxe-edition.json) |
 | Jikkyou Pawafuru Puroyakyu 3 | 42642 | [42642-jikkyou-pawafuru-puroyakyu-3.json](./42642-jikkyou-pawafuru-puroyakyu-3.json) |
 | Jikkyou Pawafuru Puroyakyu 5 | 3526 | [3526-jikkyou-pawafuru-puroyakyu-5.json](./3526-jikkyou-pawafuru-puroyakyu-5.json) |
+| Jikkyou Pawafuru Puroyakyu 6 | 136734 | [136734-jikkyou-pawafuru-puroyakyu-6.json](./136734-jikkyou-pawafuru-puroyakyu-6.json) |
 | Jikkyou Pawafuru Puroyakyu 8 | 74702 | [74702-jikkyou-pawafuru-puroyakyu-8.json](./74702-jikkyou-pawafuru-puroyakyu-8.json) |
 | Jikkyou Pawafuru Puroyakyu Championship 2017 | 98511 | [98511-jikkyou-pawafuru-puroyakyu-championship-2017.json](./98511-jikkyou-pawafuru-puroyakyu-championship-2017.json) |
 | Jikkyou Pawafuru Puroyakyu Next | 229557 | [229557-jikkyou-pawafuru-puroyakyu-next.json](./229557-jikkyou-pawafuru-puroyakyu-next.json) |
@@ -1348,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu Portable 4 | 229585 | [229585-jikkyou-pawafuru-puroyakyu-portable-4.json](./229585-jikkyou-pawafuru-puroyakyu-portable-4.json) |
 | Jikkyou Pawafuru Puroyakyu S | 229569 | [229569-jikkyou-pawafuru-puroyakyu-s.json](./229569-jikkyou-pawafuru-puroyakyu-s.json) |
 | Jikkyou Pawafuru Puroyakyu Wii | 229183 | [229183-jikkyou-pawafuru-puroyakyu-wii.json](./229183-jikkyou-pawafuru-puroyakyu-wii.json) |
+| Jikkyou Pawafuru Puroyakyu: Basic-ban 2001 | 136732 | [136732-jikkyou-pawafuru-puroyakyu-basic-ban-2001.json](./136732-jikkyou-pawafuru-puroyakyu-basic-ban-2001.json) |
 | Jikkyou Pawafuru Puroyakyu: Dreamcast Edition | 229577 | [229577-jikkyou-pawafuru-puroyakyu-dreamcast-edition.json](./229577-jikkyou-pawafuru-puroyakyu-dreamcast-edition.json) |
 | Jikkyou Pawafuru Puroyakyu: Premium-ban | 229581 | [229581-jikkyou-pawafuru-puroyakyu-premium-ban.json](./229581-jikkyou-pawafuru-puroyakyu-premium-ban.json) |
 | Jikkyou Pawafuru Puroyakyu: Success Special | 98014 | [98014-jikkyou-pawafuru-puroyakyu-success-special.json](./98014-jikkyou-pawafuru-puroyakyu-success-special.json) |
@@ -1953,6 +1956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joyride: Lowpoly World | 259010 | [259010-joyride-lowpoly-world.json](./259010-joyride-lowpoly-world.json) |
 | Joyrider | 270412 | [270412-joyrider.json](./270412-joyrider.json) |
 | Joyshot | 181914 | [181914-joyshot.json](./181914-joyshot.json) |
+| JoySound.TV Plus | 136720 | [136720-joysound-tv-plus.json](./136720-joysound-tv-plus.json) |
 | Joyspring | 156046 | [156046-joyspring.json](./156046-joyspring.json) |
 | Joyville | 260104 | [260104-joyville.json](./260104-joyville.json) |
 | Joyville 2 | 305751 | [305751-joyville-2.json](./305751-joyville-2.json) |
@@ -2828,6 +2832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juurin | 93986 | [93986-juurin.json](./93986-juurin.json) |
 | Juurru | 241839 | [241839-juurru.json](./241839-juurru.json) |
 | Juuryoku Shisen-shou | 206352 | [206352-juuryoku-shisen-shou.json](./206352-juuryoku-shisen-shou.json) |
+| Juusanshi Engi: Engetsu Sangokuden 1 & 2 | 136758 | [136758-juusanshi-engi-engetsu-sangokuden-1-and-2.json](./136758-juusanshi-engi-engetsu-sangokuden-1-and-2.json) |
 | Juuyoku no Jousai | 134624 | [134624-juuyoku-no-jousai.json](./134624-juuyoku-no-jousai.json) |
 | Juuzaengi: Engetsu Sangoku Den 1 & 2 | 135859 | [135859-juuzaengi-engetsu-sangoku-den-1-and-2.json](./135859-juuzaengi-engetsu-sangoku-den-1-and-2.json) |
 | Juvenate | 366104 | [366104-juvenate.json](./366104-juvenate.json) |
