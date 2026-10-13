@@ -1292,6 +1292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Band Together | 358417 | [358417-band-together.json](./358417-band-together.json) |
 | Band Wagon | 91435 | [91435-band-wagon.json](./91435-band-wagon.json) |
 | Band Yarouze! | 175680 | [175680-band-yarouze.json](./175680-band-yarouze.json) |
+| Band-kun | 170248 | [170248-band-kun.json](./170248-band-kun.json) |
 | Bandage on my right cheek | 28087 | [28087-bandage-on-my-right-cheek.json](./28087-bandage-on-my-right-cheek.json) |
 | Bandai Golf: Challenge Pebble Beach | 9285 | [9285-bandai-golf-challenge-pebble-beach.json](./9285-bandai-golf-challenge-pebble-beach.json) |
 | Bandai Namco Games Presents: J Legend Retsuden | 63114 | [63114-bandai-namco-games-presents-j-legend-retsuden.json](./63114-bandai-namco-games-presents-j-legend-retsuden.json) |
@@ -1837,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barren Roads | 35954 | [35954-barren-roads.json](./35954-barren-roads.json) |
 | Barrhell | 276702 | [276702-barrhell.json](./276702-barrhell.json) |
 | Barricade | 18116 | [18116-barricade.json](./18116-barricade.json) |
+| Barricadez ReVisited | 169897 | [169897-barricadez-revisited.json](./169897-barricadez-revisited.json) |
 | Barrier | 317304 | [317304-barrier.json](./317304-barrier.json) |
 | Barrier | 346049 | [346049-barrier.json](./346049-barrier.json) |
 | Barrier | 38546 | [38546-barrier.json](./38546-barrier.json) |
@@ -2832,6 +2834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlegrounds of Eldhelm | 17955 | [17955-battlegrounds-of-eldhelm.json](./17955-battlegrounds-of-eldhelm.json) |
 | Battlegrounds Real Time Strategy Multiplayer: Spy vs Spy Edition | 88376 | [88376-battlegrounds-real-time-strategy-multiplayer-spy-vs-spy-edition.json](./88376-battlegrounds-real-time-strategy-multiplayer-spy-vs-spy-edition.json) |
 | Battlegrounds: The Pirate King | 294158 | [294158-battlegrounds-the-pirate-king.json](./294158-battlegrounds-the-pirate-king.json) |
+| BattleGrounds: War, Tanks and Nukes | 169665 | [169665-battlegrounds-war-tanks-and-nukes.json](./169665-battlegrounds-war-tanks-and-nukes.json) |
 | BattleGuild | 251816 | [251816-battleguild.json](./251816-battleguild.json) |
 | Battlegun | 52276 | [52276-battlegun.json](./52276-battlegun.json) |
 | Battlehawks 1942 | 178 | [178-battlehawks-1942.json](./178-battlehawks-1942.json) |
@@ -3171,7 +3174,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach-Head II | 13389 | [13389-beach-head-ii.json](./13389-beach-head-ii.json) |
 | Beachcomber | 333945 | [333945-beachcomber.json](./333945-beachcomber.json) |
 | Beachcomber | 388924 | [388924-beachcomber.json](./388924-beachcomber.json) |
+| Beached | 169905 | [169905-beached.json](./169905-beached.json) |
 | Beached | 174101 | [174101-beached.json](./174101-beached.json) |
+| Beached II | 169906 | [169906-beached-ii.json](./169906-beached-ii.json) |
 | Beachfront | 334227 | [334227-beachfront.json](./334227-beachfront.json) |
 | Beachgirl Dreams | 337159 | [337159-beachgirl-dreams.json](./337159-beachgirl-dreams.json) |
 | BeachHead 2020 | 173198 | [173198-beachhead-2020.json](./173198-beachhead-2020.json) |
@@ -10267,6 +10272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Universe + Brawl Chess | 231362 | [231362-broken-universe-brawl-chess.json](./231362-broken-universe-brawl-chess.json) |
 | Broken Voyage | 405471 | [405471-broken-voyage.json](./405471-broken-voyage.json) |
 | Broken War | 309136 | [309136-broken-war.json](./309136-broken-war.json) |
+| Broken World | 170244 | [170244-broken-world.json](./170244-broken-world.json) |
 | BrokenEarth | 62973 | [62973-brokenearth.json](./62973-brokenearth.json) |
 | BrokenLore: Ascend | 377235 | [377235-brokenlore-ascend.json](./377235-brokenlore-ascend.json) |
 | BrokenLore: Don't Lie | 370708 | [370708-brokenlore-dont-lie.json](./370708-brokenlore-dont-lie.json) |
@@ -11523,6 +11529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burst Noir: Fireworks Simulator | 414823 | [414823-burst-noir-fireworks-simulator.json](./414823-burst-noir-fireworks-simulator.json) |
 | Burst Planet | 161393 | [161393-burst-planet.json](./161393-burst-planet.json) |
 | Burst Space | 279086 | [279086-burst-space.json](./279086-burst-space.json) |
+| Burst Squad | 169729 | [169729-burst-squad.json](./169729-burst-squad.json) |
 | Burst the Game | 28929 | [28929-burst-the-game.json](./28929-burst-the-game.json) |
 | Burst! | 321409 | [321409-burst.json](./321409-burst.json) |
 | Burstly | 74742 | [74742-burstly.json](./74742-burstly.json) |
@@ -11612,6 +11619,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Business Ryoku Kentei DS | 70410 | [70410-business-ryoku-kentei-ds.json](./70410-business-ryoku-kentei-ds.json) |
 | Business Superstar Idle Tycoon | 262346 | [262346-business-superstar-idle-tycoon.json](./262346-business-superstar-idle-tycoon.json) |
 | Business Tour Deluxe | 173128 | [173128-business-tour-deluxe.json](./173128-business-tour-deluxe.json) |
+| Business Tour: Crazy Heroes - Mr. and Mrs. Balloonski | 170239 | [170239-business-tour-crazy-heroes-mr-and-mrs-balloonski.json](./170239-business-tour-crazy-heroes-mr-and-mrs-balloonski.json) |
+| Business Tour: Crazy Heroes - Rainbow Mercenary | 170243 | [170243-business-tour-crazy-heroes-rainbow-mercenary.json](./170243-business-tour-crazy-heroes-rainbow-mercenary.json) |
+| Business Tour: Crazy Heroes - Wild bird | 170237 | [170237-business-tour-crazy-heroes-wild-bird.json](./170237-business-tour-crazy-heroes-wild-bird.json) |
+| Business Tour: Football - Forward Number 10 | 170238 | [170238-business-tour-football-forward-number-10.json](./170238-business-tour-football-forward-number-10.json) |
+| Business Tour: Football - Forward Number 7 | 170240 | [170240-business-tour-football-forward-number-7.json](./170240-business-tour-football-forward-number-7.json) |
+| Business Tour: Great Leaders - Caesar | 170242 | [170242-business-tour-great-leaders-caesar.json](./170242-business-tour-great-leaders-caesar.json) |
+| Business Tour: Great Leaders - Cleopatra | 170236 | [170236-business-tour-great-leaders-cleopatra.json](./170236-business-tour-great-leaders-cleopatra.json) |
+| Business Tour: Great Leaders - King | 170241 | [170241-business-tour-great-leaders-king.json](./170241-business-tour-great-leaders-king.json) |
+| Business Tour: Great Leaders - Lincoln | 170234 | [170234-business-tour-great-leaders-lincoln.json](./170234-business-tour-great-leaders-lincoln.json) |
+| Business Tour: Great Leaders - Napoleon | 170235 | [170235-business-tour-great-leaders-napoleon.json](./170235-business-tour-great-leaders-napoleon.json) |
 | Business Tycoon | 12409 | [12409-business-tycoon.json](./12409-business-tycoon.json) |
 | BusinessMan | 52066 | [52066-businessman.json](./52066-businessman.json) |
 | Businessman Simulator | 402891 | [402891-businessman-simulator.json](./402891-businessman-simulator.json) |
