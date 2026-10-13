@@ -1537,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 7: Skies Unknown - ADF-01 FALKEN Set | 282536 | [282536-ace-combat-7-skies-unknown-adf-01-falken-set.json](./282536-ace-combat-7-skies-unknown-adf-01-falken-set.json) |
 | Ace Combat 7: Skies Unknown - ADF-11F Raven Set | 282535 | [282535-ace-combat-7-skies-unknown-adf-11f-raven-set.json](./282535-ace-combat-7-skies-unknown-adf-11f-raven-set.json) |
 | Ace Combat 7: Skies Unknown - ADFX-01 Morgan Set | 282537 | [282537-ace-combat-7-skies-unknown-adfx-01-morgan-set.json](./282537-ace-combat-7-skies-unknown-adfx-01-morgan-set.json) |
+| Ace Combat 7: Skies Unknown - Anchorhead Raid | 164586 | [164586-ace-combat-7-skies-unknown-anchorhead-raid.json](./164586-ace-combat-7-skies-unknown-anchorhead-raid.json) |
 | Ace Combat 7: Skies Unknown - ASF-X Shinden II Set | 282579 | [282579-ace-combat-7-skies-unknown-asf-x-shinden-ii-set.json](./282579-ace-combat-7-skies-unknown-asf-x-shinden-ii-set.json) |
 | Ace Combat 7: Skies Unknown - Cutting-Edge Aircraft Series Set | 324420 | [324420-ace-combat-7-skies-unknown-cutting-edge-aircraft-series-set.json](./324420-ace-combat-7-skies-unknown-cutting-edge-aircraft-series-set.json) |
 | Ace Combat 7: Skies Unknown - Deluxe Edition 2022 | 282545 | [282545-ace-combat-7-skies-unknown-deluxe-edition-2022.json](./282545-ace-combat-7-skies-unknown-deluxe-edition-2022.json) |
@@ -1550,9 +1551,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 7: Skies Unknown - Premium Edition | 139975 | [139975-ace-combat-7-skies-unknown-premium-edition.json](./139975-ace-combat-7-skies-unknown-premium-edition.json) |
 | Ace Combat 7: Skies Unknown - Season Pass | 282538 | [282538-ace-combat-7-skies-unknown-season-pass.json](./282538-ace-combat-7-skies-unknown-season-pass.json) |
 | Ace Combat 7: Skies Unknown - Strangereal Edition | 282532 | [282532-ace-combat-7-skies-unknown-strangereal-edition.json](./282532-ace-combat-7-skies-unknown-strangereal-edition.json) |
+| Ace Combat 7: Skies Unknown - Ten Million Relief Plan | 164583 | [164583-ace-combat-7-skies-unknown-ten-million-relief-plan.json](./164583-ace-combat-7-skies-unknown-ten-million-relief-plan.json) |
 | Ace Combat 7: Skies Unknown - Top Gun: Maverick Aircraft Set | 203860 | [203860-ace-combat-7-skies-unknown-top-gun-maverick-aircraft-set.json](./203860-ace-combat-7-skies-unknown-top-gun-maverick-aircraft-set.json) |
 | Ace Combat 7: Skies Unknown - Top Gun: Maverick Edition | 204084 | [204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json](./204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json) |
 | Ace Combat 7: Skies Unknown - Ultimate Edition | 282547 | [282547-ace-combat-7-skies-unknown-ultimate-edition.json](./282547-ace-combat-7-skies-unknown-ultimate-edition.json) |
+| Ace Combat 7: Skies Unknown - Unexpected Visitor | 164584 | [164584-ace-combat-7-skies-unknown-unexpected-visitor.json](./164584-ace-combat-7-skies-unknown-unexpected-visitor.json) |
 | Ace Combat 8: Wings of Theve | 381247 | [381247-ace-combat-8-wings-of-theve.json](./381247-ace-combat-8-wings-of-theve.json) |
 | Ace Combat Infinity | 6628 | [6628-ace-combat-infinity.json](./6628-ace-combat-infinity.json) |
 | Ace Combat X: Recompiled | 413916 | [413916-ace-combat-x-recompiled.json](./413916-ace-combat-x-recompiled.json) |
@@ -2783,6 +2786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires III Mobile | 144347 | [144347-age-of-empires-iii-mobile.json](./144347-age-of-empires-iii-mobile.json) |
 | Age of Empires III: Definitive Edition | 55057 | [55057-age-of-empires-iii-definitive-edition.json](./55057-age-of-empires-iii-definitive-edition.json) |
 | Age of Empires III: Definitive Edition - Knights of the Mediterranean | 202424 | [202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json](./202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json) |
+| Age of Empires III: Definitive Edition - United States Civilization | 164609 | [164609-age-of-empires-iii-definitive-edition-united-states-civilization.json](./164609-age-of-empires-iii-definitive-edition-united-states-civilization.json) |
 | Age of Empires III: Definitive Edition – Hero Cosmetic Pack: Lizzie | 265617 | [265617-age-of-empires-iii-definitive-edition-hero-cosmetic-pack-lizzie.json](./265617-age-of-empires-iii-definitive-edition-hero-cosmetic-pack-lizzie.json) |
 | Age of Empires III: The Asian Dynasties Mobile | 145574 | [145574-age-of-empires-iii-the-asian-dynasties-mobile.json](./145574-age-of-empires-iii-the-asian-dynasties-mobile.json) |
 | Age of Empires IV: Dynasties of the East | 361886 | [361886-age-of-empires-iv-dynasties-of-the-east.json](./361886-age-of-empires-iv-dynasties-of-the-east.json) |
