@@ -3156,6 +3156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Cut and Nut | 369996 | [369996-hentai-cut-and-nut.json](./369996-hentai-cut-and-nut.json) |
 | Hentai Cyber | 368099 | [368099-hentai-cyber.json](./368099-hentai-cyber.json) |
 | Hentai Darts | 165529 | [165529-hentai-darts.json](./165529-hentai-darts.json) |
+| Hentai Dates | 150439 | [150439-hentai-dates.json](./150439-hentai-dates.json) |
 | Hentai Dating Stories: Brazil | 300943 | [300943-hentai-dating-stories-brazil.json](./300943-hentai-dating-stories-brazil.json) |
 | Hentai Dating Stories: Brazil - Best Stories 1 | 308788 | [308788-hentai-dating-stories-brazil-best-stories-1.json](./308788-hentai-dating-stories-brazil-best-stories-1.json) |
 | Hentai Dating Stories: Brazil - Best Stories 2 | 308787 | [308787-hentai-dating-stories-brazil-best-stories-2.json](./308787-hentai-dating-stories-brazil-best-stories-2.json) |
@@ -4258,6 +4259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexia | 319023 | [319023-hexia.json](./319023-hexia.json) |
 | Hexic HD | 2732 | [2732-hexic-hd.json](./2732-hexic-hd.json) |
 | Hexical | 240686 | [240686-hexical.json](./240686-hexical.json) |
+| HexiHashi | 150467 | [150467-hexihashi.json](./150467-hexihashi.json) |
 | Hexile | 105544 | [105544-hexile.json](./105544-hexile.json) |
 | Hexin : Space Chess Game | 102211 | [102211-hexin-space-chess-game.json](./102211-hexin-space-chess-game.json) |
 | Hexion | 40197 | [40197-hexion.json](./40197-hexion.json) |
