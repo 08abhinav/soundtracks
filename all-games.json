@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T19:30:14.666Z",
-  "total_soundtracks": 1597,
+  "generated_at": "2026-10-13T19:35:14.186Z",
+  "total_soundtracks": 1598,
   "games": [
     {
       "igdb_id": 7522,
@@ -9219,6 +9219,20 @@
           "spotify_url": "https://open.spotify.com/album/06i5zPGRMQaAbDWq4ITNjj",
           "apple_music_url": "https://music.apple.com/us/album/limbo-original-videogame-soundtrack-ep/1109391252",
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 1363,
+      "game_name": "Little Inferno",
+      "game_url": "https://ostdb.net/games/little-inferno",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/21/d3/4a21d36d-32e6-df31-da18-2eb61eb0f5d7/5063670368806_cover.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Little Inferno (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2Ty0J55ejYgCDIUuddMKGd",
+          "apple_music_url": "https://music.apple.com/us/album/little-inferno-original-game-soundtrack/1807980602",
+          "album_link_url": "https://album.link/i/1807980602"
         }
       ]
     },
