@@ -5456,6 +5456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MeiQi 2022 | 190735 | [190735-meiqi-2022.json](./190735-meiqi-2022.json) |
 | MeiQi 2023 | 224646 | [224646-meiqi-2023.json](./224646-meiqi-2023.json) |
 | MeiQi 2024 | 322036 | [322036-meiqi-2024.json](./322036-meiqi-2024.json) |
+| Meirin in Fists of Fire | 164063 | [164063-meirin-in-fists-of-fire.json](./164063-meirin-in-fists-of-fire.json) |
 | Meiro | 126508 | [126508-meiro.json](./126508-meiro.json) |
 | Meiro Master | 197253 | [197253-meiro-master.json](./197253-meiro-master.json) |
 | Meisa no Sekai | 285386 | [285386-meisa-no-sekai.json](./285386-meisa-no-sekai.json) |
