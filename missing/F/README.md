@@ -8015,6 +8015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Space: Mission Pack - Molten Iron | 271919 | [271919-from-space-mission-pack-molten-iron.json](./271919-from-space-mission-pack-molten-iron.json) |
 | From Space: Operation Clear Skies | 277590 | [277590-from-space-operation-clear-skies.json](./277590-from-space-operation-clear-skies.json) |
 | From Space: Resistance Bundle | 304801 | [304801-from-space-resistance-bundle.json](./304801-from-space-resistance-bundle.json) |
+| From That Moment She Neglected The World | 176934 | [176934-from-that-moment-she-neglected-the-world.json](./176934-from-that-moment-she-neglected-the-world.json) |
 | From the Abyss | 17266 | [17266-from-the-abyss.json](./17266-from-the-abyss.json) |
 | From the Age of Dinosaurs to the Edo Period: Tokio no Meiro - By Gentaro Kagawa | 396908 | [396908-from-the-age-of-dinosaurs-to-the-edo-period-tokio-no-meiro-by-gentaro-kagawa.json](./396908-from-the-age-of-dinosaurs-to-the-edo-period-tokio-no-meiro-by-gentaro-kagawa.json) |
 | From the Ashes | 224243 | [224243-from-the-ashes.json](./224243-from-the-ashes.json) |
