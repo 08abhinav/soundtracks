@@ -1314,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raptor Evolution: Complete Edition | 385207 | [385207-raptor-evolution-complete-edition.json](./385207-raptor-evolution-complete-edition.json) |
 | Raptor Evolution: Gold Edition | 404283 | [404283-raptor-evolution-gold-edition.json](./404283-raptor-evolution-gold-edition.json) |
 | Raptor Rush | 242610 | [242610-raptor-rush.json](./242610-raptor-rush.json) |
+| Raptor Territory | 143449 | [143449-raptor-territory.json](./143449-raptor-territory.json) |
 | Raptor: Cretaceous Island | 111850 | [111850-raptor-cretaceous-island.json](./111850-raptor-cretaceous-island.json) |
 | Rapture Island | 331106 | [331106-rapture-island.json](./331106-rapture-island.json) |
 | Rapture Recovery Squad | 304654 | [304654-rapture-recovery-squad.json](./304654-rapture-recovery-squad.json) |
@@ -1438,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravaged: Zombie Apocalypse | 10752 | [10752-ravaged-zombie-apocalypse.json](./10752-ravaged-zombie-apocalypse.json) |
 | Ravager | 55676 | [55676-ravager.json](./55676-ravager.json) |
 | Rave Gazebo | 275723 | [275723-rave-gazebo.json](./275723-rave-gazebo.json) |
+| Rave Heart | 143421 | [143421-rave-heart.json](./143421-rave-heart.json) |
 | Rave: Ultimate Battle | 63349 | [63349-rave-ultimate-battle.json](./63349-rave-ultimate-battle.json) |
 | Ravelle: Last Draw | 387011 | [387011-ravelle-last-draw.json](./387011-ravelle-last-draw.json) |
 | Raven | 197173 | [197173-raven.json](./197173-raven.json) |
@@ -2247,6 +2249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reborn: Fate of Gods | 216953 | [216953-reborn-fate-of-gods.json](./216953-reborn-fate-of-gods.json) |
 | Reborn: New Life | 396590 | [396590-reborn-new-life.json](./396590-reborn-new-life.json) |
 | Reborn: The Evil Being | 373168 | [373168-reborn-the-evil-being.json](./373168-reborn-the-evil-being.json) |
+| Reborn: The Mark Of The Blood | 143465 | [143465-reborn-the-mark-of-the-blood.json](./143465-reborn-the-mark-of-the-blood.json) |
 | ReBounce | 66368 | [66368-rebounce.json](./66368-rebounce.json) |
 | Rebound | 111188 | [111188-rebound.json](./111188-rebound.json) |
 | Rebound Ball | 127222 | [127222-rebound-ball.json](./127222-rebound-ball.json) |
@@ -3057,6 +3060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rekkr: Sunken Land | 167786 | [167786-rekkr-sunken-land.json](./167786-rekkr-sunken-land.json) |
 | Reknum | 130401 | [130401-reknum.json](./130401-reknum.json) |
 | Reknum DX | 182475 | [182475-reknum-dx.json](./182475-reknum-dx.json) |
+| Reknum: Fantasy of Dreams | 143443 | [143443-reknum-fantasy-of-dreams.json](./143443-reknum-fantasy-of-dreams.json) |
 | Reknum: Origins Collection | 182476 | [182476-reknum-origins-collection.json](./182476-reknum-origins-collection.json) |
 | Reknum: Origins Collection - Limited Edition | 182477 | [182477-reknum-origins-collection-limited-edition.json](./182477-reknum-origins-collection-limited-edition.json) |
 | Rekoil | 7666 | [7666-rekoil.json](./7666-rekoil.json) |
@@ -3380,6 +3384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repetendium | 207744 | [207744-repetendium.json](./207744-repetendium.json) |
 | RePirates | 181332 | [181332-repirates.json](./181332-repirates.json) |
 | Repit 2 | 220685 | [220685-repit-2.json](./220685-repit-2.json) |
+| Repkiss | 143444 | [143444-repkiss.json](./143444-repkiss.json) |
 | Replaced | 152244 | [152244-replaced.json](./152244-replaced.json) |
 | Replacement | 182763 | [182763-replacement.json](./182763-replacement.json) |
 | Replay Boys | 259188 | [259188-replay-boys.json](./259188-replay-boys.json) |
@@ -4585,6 +4590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricky Raccoon | 34666 | [34666-ricky-raccoon.json](./34666-ricky-raccoon.json) |
 | Ricky Recharge | 121593 | [121593-ricky-recharge.json](./121593-ricky-recharge.json) |
 | Ricky's Furry Duck Hunt | 255265 | [255265-rickys-furry-duck-hunt.json](./255265-rickys-furry-duck-hunt.json) |
+| Rico London | 143454 | [143454-rico-london.json](./143454-rico-london.json) |
 | Rico: A Tale of Two Brothers | 125184 | [125184-rico-a-tale-of-two-brothers.json](./125184-rico-a-tale-of-two-brothers.json) |
 | Rico: Breakout | 171328 | [171328-rico-breakout.json](./171328-rico-breakout.json) |
 | Ricochet | 209166 | [209166-ricochet.json](./209166-ricochet.json) |
@@ -5794,6 +5800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboJep | 165691 | [165691-robojep.json](./165691-robojep.json) |
 | RoboJesus | 250837 | [250837-robojesus.json](./250837-robojesus.json) |
 | Robokill | 361334 | [361334-robokill.json](./361334-robokill.json) |
+| Robokill 2: Leviathan Five | 143455 | [143455-robokill-2-leviathan-five.json](./143455-robokill-2-leviathan-five.json) |
 | RoboKong | 137571 | [137571-robokong.json](./137571-robokong.json) |
 | Robolifter | 227850 | [227850-robolifter.json](./227850-robolifter.json) |
 | Roboloop | 295776 | [295776-roboloop.json](./295776-roboloop.json) |
