@@ -7359,6 +7359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Howard the Duck: Adventure on Volcano Island | 28853 | [28853-howard-the-duck-adventure-on-volcano-island.json](./28853-howard-the-duck-adventure-on-volcano-island.json) |
 | Howdy, Jacob! | 148512 | [148512-howdy-jacob.json](./148512-howdy-jacob.json) |
 | Howdy! The Western Game | 100584 | [100584-howdy-the-western-game.json](./100584-howdy-the-western-game.json) |
+| Howie Go Viral | 140258 | [140258-howie-go-viral.json](./140258-howie-go-viral.json) |
 | Howl | 31710 | [31710-howl.json](./31710-howl.json) |
 | Howl | 399756 | [399756-howl.json](./399756-howl.json) |
 | Howl of Iron | 230926 | [230926-howl-of-iron.json](./230926-howl-of-iron.json) |
