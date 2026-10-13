@@ -11456,6 +11456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure + LEGO Batman | 147216 | [147216-pure-lego-batman.json](./147216-pure-lego-batman.json) |
 | Pure Badminton | 267825 | [267825-pure-badminton.json](./267825-pure-badminton.json) |
 | Pure Blood | 310933 | [310933-pure-blood.json](./310933-pure-blood.json) |
+| Pure Bowl VR | 146674 | [146674-pure-bowl-vr.json](./146674-pure-bowl-vr.json) |
 | Pure Chaotix | 326817 | [326817-pure-chaotix.json](./326817-pure-chaotix.json) |
 | Pure Chess: Grandmaster Edition | 82428 | [82428-pure-chess-grandmaster-edition.json](./82428-pure-chess-grandmaster-edition.json) |
 | Pure Crosswords | 199889 | [199889-pure-crosswords.json](./199889-pure-crosswords.json) |
@@ -12251,6 +12252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyro | 373724 | [373724-pyro.json](./373724-pyro.json) |
 | Pyro Complete Bundle | 218460 | [218460-pyro-complete-bundle.json](./218460-pyro-complete-bundle.json) |
 | Pyro Jump Rescue | 293149 | [293149-pyro-jump-rescue.json](./293149-pyro-jump-rescue.json) |
+| Pyro Sand | 146670 | [146670-pyro-sand.json](./146670-pyro-sand.json) |
 | Pyro VR | 29602 | [29602-pyro-vr.json](./29602-pyro-vr.json) |
 | Pyrocast | 288762 | [288762-pyrocast.json](./288762-pyrocast.json) |
 | Pyromancer | 124580 | [124580-pyromancer.json](./124580-pyromancer.json) |
