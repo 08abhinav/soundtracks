@@ -3203,6 +3203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Games Collection Vol. 3 | 362202 | [362202-hentai-games-collection-vol-3.json](./362202-hentai-games-collection-vol-3.json) |
 | Hentai GIF Puzzle | 163541 | [163541-hentai-gif-puzzle.json](./163541-hentai-gif-puzzle.json) |
 | Hentai Girl Betty | 111252 | [111252-hentai-girl-betty.json](./111252-hentai-girl-betty.json) |
+| Hentai Girl Clicker | 158403 | [158403-hentai-girl-clicker.json](./158403-hentai-girl-clicker.json) |
 | Hentai Girl Division | 194201 | [194201-hentai-girl-division.json](./194201-hentai-girl-division.json) |
 | Hentai Girl Fantasy | 136425 | [136425-hentai-girl-fantasy.json](./136425-hentai-girl-fantasy.json) |
 | Hentai Girl Hime | 136426 | [136426-hentai-girl-hime.json](./136426-hentai-girl-hime.json) |
@@ -6469,6 +6470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Dungeon | 272285 | [272285-horny-dungeon.json](./272285-horny-dungeon.json) |
 | Horny Fantasy Girl Hentai | 149407 | [149407-horny-fantasy-girl-hentai.json](./149407-horny-fantasy-girl-hentai.json) |
 | Horny Fighter | 105090 | [105090-horny-fighter.json](./105090-horny-fighter.json) |
+| Horny Girl Hentai Puzzle | 158399 | [158399-horny-girl-hentai-puzzle.json](./158399-horny-girl-hentai-puzzle.json) |
 | Horny Girls Hentai | 161327 | [161327-horny-girls-hentai.json](./161327-horny-girls-hentai.json) |
 | Horny Honey | 156628 | [156628-horny-honey.json](./156628-horny-honey.json) |
 | Horny Hotel Maids | 242437 | [242437-horny-hotel-maids.json](./242437-horny-hotel-maids.json) |
@@ -6573,6 +6575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horrors Glade | 333366 | [333366-horrors-glade.json](./333366-horrors-glade.json) |
 | Horrors of Helmsfirth | 263701 | [263701-horrors-of-helmsfirth.json](./263701-horrors-of-helmsfirth.json) |
 | HorrorVale | 120814 | [120814-horrorvale.json](./120814-horrorvale.json) |
+| Horroyale | 158414 | [158414-horroyale.json](./158414-horroyale.json) |
 | Horse | 114273 | [114273-horse.json](./114273-horse.json) |
 | Horse & Horse | 401802 | [401802-horse-and-horse.json](./401802-horse-and-horse.json) |
 | Horse 2 | 339396 | [339396-horse-2.json](./339396-horse-2.json) |
@@ -7024,6 +7027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Build Flipper | 104584 | [104584-house-build-flipper.json](./104584-house-build-flipper.json) |
 | House Builder & Ultimate Fishing Simulator | 225831 | [225831-house-builder-and-ultimate-fishing-simulator.json](./225831-house-builder-and-ultimate-fishing-simulator.json) |
 | House Builder 2 | 343234 | [343234-house-builder-2.json](./343234-house-builder-2.json) |
+| House Builder: First Job | 158404 | [158404-house-builder-first-job.json](./158404-house-builder-first-job.json) |
 | House Call | 386983 | [386983-house-call.json](./386983-house-call.json) |
 | House Chores | 123994 | [123994-house-chores.json](./123994-house-chores.json) |
 | House Cleaner Flipper Game | 105916 | [105916-house-cleaner-flipper-game.json](./105916-house-cleaner-flipper-game.json) |
