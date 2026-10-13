@@ -922,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balkadia | 129618 | [129618-balkadia.json](./129618-balkadia.json) |
 | Balkan Bloodbath | 310726 | [310726-balkan-bloodbath.json](./310726-balkan-bloodbath.json) |
 | Balkan Horror Tales | 330542 | [330542-balkan-horror-tales.json](./330542-balkan-horror-tales.json) |
+| Ball | 140884 | [140884-ball.json](./140884-ball.json) |
 | Ball | 231388 | [231388-ball.json](./231388-ball.json) |
 | Ball & Gun | 403805 | [403805-ball-and-gun.json](./403805-ball-and-gun.json) |
 | Ball 28 In Space | 334086 | [334086-ball-28-in-space.json](./334086-ball-28-in-space.json) |
@@ -1250,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana girl | 106606 | [106606-banana-girl.json](./106606-banana-girl.json) |
 | Banana Girls | 338192 | [338192-banana-girls.json](./338192-banana-girls.json) |
 | Banana Grab | 231626 | [231626-banana-grab.json](./231626-banana-grab.json) |
+| Banana Hell | 140861 | [140861-banana-hell.json](./140861-banana-hell.json) |
 | Banana Heroes: Fruit Survivor | 245371 | [245371-banana-heroes-fruit-survivor.json](./245371-banana-heroes-fruit-survivor.json) |
 | Banana Hunter | 192954 | [192954-banana-hunter.json](./192954-banana-hunter.json) |
 | Banana Islands | 73773 | [73773-banana-islands.json](./73773-banana-islands.json) |
@@ -4790,6 +4792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Brave | 91440 | [91440-big-brave.json](./91440-big-brave.json) |
 | Big Breakfast 2 | 416846 | [416846-big-breakfast-2.json](./416846-big-breakfast-2.json) |
 | Big Brother | 201165 | [201165-big-brother.json](./201165-big-brother.json) |
+| Big Brother Brasil | 140880 | [140880-big-brother-brasil.json](./140880-big-brother-brasil.json) |
 | Big Brother Series 2: The Game | 72753 | [72753-big-brother-series-2-the-game.json](./72753-big-brother-series-2-the-game.json) |
 | Big Brother: The Game | 139906 | [139906-big-brother-the-game.json](./139906-big-brother-the-game.json) |
 | Big Brother: The Game | 66035 | [66035-big-brother-the-game.json](./66035-big-brother-the-game.json) |
@@ -5534,6 +5537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birthday Blues | 177881 | [177881-birthday-blues.json](./177881-birthday-blues.json) |
 | Birthday Boy | 399612 | [399612-birthday-boy.json](./399612-birthday-boy.json) |
 | Birthday Kid | 237425 | [237425-birthday-kid.json](./237425-birthday-kid.json) |
+| Birthday of Midnight | 140948 | [140948-birthday-of-midnight.json](./140948-birthday-of-midnight.json) |
 | Birthday Visit | 407198 | [407198-birthday-visit.json](./407198-birthday-visit.json) |
 | Birthdays the Beginning: Digital Limited Edition | 52628 | [52628-birthdays-the-beginning-digital-limited-edition.json](./52628-birthdays-the-beginning-digital-limited-edition.json) |
 | Birthdays the Beginning: Limited Edition | 122225 | [122225-birthdays-the-beginning-limited-edition.json](./122225-birthdays-the-beginning-limited-edition.json) |
