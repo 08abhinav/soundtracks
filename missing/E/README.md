@@ -935,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Monster Hero | 67364 | [67364-egg-monster-hero.json](./67364-egg-monster-hero.json) |
 | Egg of Empire | 156210 | [156210-egg-of-empire.json](./156210-egg-of-empire.json) |
 | Egg Over It: Fall Flat From the Top | 201560 | [201560-egg-over-it-fall-flat-from-the-top.json](./201560-egg-over-it-fall-flat-from-the-top.json) |
+| Egg Rabbit | 157423 | [157423-egg-rabbit.json](./157423-egg-rabbit.json) |
 | Egg Run | 320731 | [320731-egg-run.json](./320731-egg-run.json) |
 | Egg Squeeze | 318509 | [318509-egg-squeeze.json](./318509-egg-squeeze.json) |
 | Egg Surprise | 314432 | [314432-egg-surprise.json](./314432-egg-surprise.json) |
