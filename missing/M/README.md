@@ -4063,7 +4063,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maybe I Can | 153957 | [153957-maybe-i-can.json](./153957-maybe-i-can.json) |
 | Maybe Tomorrow | 238740 | [238740-maybe-tomorrow.json](./238740-maybe-tomorrow.json) |
 | Maybe: Interactive Stories | 139886 | [139886-maybe-interactive-stories.json](./139886-maybe-interactive-stories.json) |
+| Maybe: Interactive Stories - Princess Irene | 139695 | [139695-maybe-interactive-stories-princess-irene.json](./139695-maybe-interactive-stories-princess-irene.json) |
 | Maybe: Interactive Stories - Royal Blood | 103997 | [103997-maybe-interactive-stories-royal-blood.json](./103997-maybe-interactive-stories-royal-blood.json) |
+| Maybe: Interactive Stories - Triangle of Kisses | 139694 | [139694-maybe-interactive-stories-triangle-of-kisses.json](./139694-maybe-interactive-stories-triangle-of-kisses.json) |
 | Mayday | 38577 | [38577-mayday.json](./38577-mayday.json) |
 | Mayday | 392860 | [392860-mayday.json](./392860-mayday.json) |
 | Mayday Protocol | 382328 | [382328-mayday-protocol.json](./382328-mayday-protocol.json) |
@@ -5690,6 +5692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memetyper | 67926 | [67926-memetyper.json](./67926-memetyper.json) |
 | MemGame | 128641 | [128641-memgame.json](./128641-memgame.json) |
 | MemGrid | 408104 | [408104-memgrid.json](./408104-memgrid.json) |
+| Memo | 139686 | [139686-memo.json](./139686-memo.json) |
 | Memo Blox | 304373 | [304373-memo-blox.json](./304373-memo-blox.json) |
 | Memo Box - Memory Challenges | 108625 | [108625-memo-box-memory-challenges.json](./108625-memo-box-memory-challenges.json) |
 | Memo R.I.P. | 400411 | [400411-memo-r-i-p.json](./400411-memo-r-i-p.json) |
@@ -11816,6 +11819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mourningwood Lodge | 370104 | [370104-mourningwood-lodge.json](./370104-mourningwood-lodge.json) |
 | Mouse Attack | 42143 | [42143-mouse-attack.json](./42143-mouse-attack.json) |
 | Mouse Boy | 54228 | [54228-mouse-boy.json](./54228-mouse-boy.json) |
+| Mouse Corp. | 139692 | [139692-mouse-corp.json](./139692-mouse-corp.json) |
 | Mouse Dream | 166772 | [166772-mouse-dream.json](./166772-mouse-dream.json) |
 | Mouse Dreams | 27805 | [27805-mouse-dreams.json](./27805-mouse-dreams.json) |
 | Mouse Hero | 157716 | [157716-mouse-hero.json](./157716-mouse-hero.json) |
