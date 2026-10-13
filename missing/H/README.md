@@ -3178,6 +3178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Fantasy Chicks | 253935 | [253935-hentai-fantasy-chicks.json](./253935-hentai-fantasy-chicks.json) |
 | Hentai Femdom Sim: Femdom University | 159772 | [159772-hentai-femdom-sim-femdom-university.json](./159772-hentai-femdom-sim-femdom-university.json) |
 | Hentai Fetishes: Yuri | 379548 | [379548-hentai-fetishes-yuri.json](./379548-hentai-fetishes-yuri.json) |
+| Hentai Fight Club | 163011 | [163011-hentai-fight-club.json](./163011-hentai-fight-club.json) |
 | Hentai Foot Fetish | 404940 | [404940-hentai-foot-fetish.json](./404940-hentai-foot-fetish.json) |
 | Hentai Forever | 149425 | [149425-hentai-forever.json](./149425-hentai-forever.json) |
 | Hentai Fox | 310938 | [310938-hentai-fox.json](./310938-hentai-fox.json) |
@@ -3275,6 +3276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Heroes | 141010 | [141010-hentai-heroes.json](./141010-hentai-heroes.json) |
 | Hentai Hexa Mosaic | 107783 | [107783-hentai-hexa-mosaic.json](./107783-hentai-hexa-mosaic.json) |
 | Hentai Homewrecker | 297799 | [297799-hentai-homewrecker.json](./297799-hentai-homewrecker.json) |
+| Hentai Honeys Jigsaw | 163013 | [163013-hentai-honeys-jigsaw.json](./163013-hentai-honeys-jigsaw.json) |
 | Hentai Horny Furry | 384703 | [384703-hentai-horny-furry.json](./384703-hentai-horny-furry.json) |
 | Hentai Hospital | 371360 | [371360-hentai-hospital.json](./371360-hentai-hospital.json) |
 | Hentai House Wife | 371369 | [371369-hentai-house-wife.json](./371369-hentai-house-wife.json) |
@@ -3284,6 +3286,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai IQ Puzzle | 163570 | [163570-hentai-iq-puzzle.json](./163570-hentai-iq-puzzle.json) |
 | Hentai IQ Puzzle: Puzzle Pack - 5 IQ | 163571 | [163571-hentai-iq-puzzle-puzzle-pack-5-iq.json](./163571-hentai-iq-puzzle-puzzle-pack-5-iq.json) |
 | Hentai Island | 226187 | [226187-hentai-island.json](./226187-hentai-island.json) |
+| Hentai Jigsaw Alison | 162998 | [162998-hentai-jigsaw-alison.json](./162998-hentai-jigsaw-alison.json) |
+| Hentai Jigsaw Emma | 162997 | [162997-hentai-jigsaw-emma.json](./162997-hentai-jigsaw-emma.json) |
+| Hentai Jigsaw Flora | 162994 | [162994-hentai-jigsaw-flora.json](./162994-hentai-jigsaw-flora.json) |
 | Hentai Jigsaw Girls 2 | 162840 | [162840-hentai-jigsaw-girls-2.json](./162840-hentai-jigsaw-girls-2.json) |
 | Hentai Jigsaw Photo Studio: Neko Girls | 286747 | [286747-hentai-jigsaw-photo-studio-neko-girls.json](./286747-hentai-jigsaw-photo-studio-neko-girls.json) |
 | Hentai Jigsaw Puzzle | 252056 | [252056-hentai-jigsaw-puzzle.json](./252056-hentai-jigsaw-puzzle.json) |
@@ -4426,6 +4431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Dose | 184598 | [184598-hidden-dose.json](./184598-hidden-dose.json) |
 | Hidden Dragon: Legend | 45095 | [45095-hidden-dragon-legend.json](./45095-hidden-dragon-legend.json) |
 | Hidden Dream | 132615 | [132615-hidden-dream.json](./132615-hidden-dream.json) |
+| Hidden Dream | 163031 | [163031-hidden-dream.json](./163031-hidden-dream.json) |
 | Hidden Dungeon Top-Down 3D | 222935 | [222935-hidden-dungeon-top-down-3d.json](./222935-hidden-dungeon-top-down-3d.json) |
 | Hidden Epee | 248116 | [248116-hidden-epee.json](./248116-hidden-epee.json) |
 | Hidden Expedition Collection | 50860 | [50860-hidden-expedition-collection.json](./50860-hidden-expedition-collection.json) |
