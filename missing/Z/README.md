@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | Z After | 213938 | [213938-z-after.json](./213938-z-after.json) |
 | Z After: A Point and Click Survival | 343272 | [343272-z-after-a-point-and-click-survival.json](./343272-z-after-a-point-and-click-survival.json) |
+| Z Arena | 153156 | [153156-z-arena.json](./153156-z-arena.json) |
 | Z Buster | 79566 | [79566-z-buster.json](./79566-z-buster.json) |
 | Z Collection | 52102 | [52102-z-collection.json](./52102-z-collection.json) |
 | Z Escape: Complete Edition | 277911 | [277911-z-escape-complete-edition.json](./277911-z-escape-complete-edition.json) |
@@ -639,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZET | 126477 | [126477-zet.json](./126477-zet.json) |
 | Zet Zillions | 280184 | [280184-zet-zillions.json](./280184-zet-zillions.json) |
 | Zeta | 250525 | [250525-zeta.json](./250525-zeta.json) |
+| Zeta Bit Player Pack 1 | 153141 | [153141-zeta-bit-player-pack-1.json](./153141-zeta-bit-player-pack-1.json) |
 | Zeta Complex | 117164 | [117164-zeta-complex.json](./117164-zeta-complex.json) |
 | Zeta Fighters | 9922 | [9922-zeta-fighters.json](./9922-zeta-fighters.json) |
 | Zeta Flyff | 121479 | [121479-zeta-flyff.json](./121479-zeta-flyff.json) |
