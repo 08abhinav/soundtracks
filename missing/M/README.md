@@ -11131,6 +11131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morse Shingou de Ai wo Tsutae yo. | 367396 | [367396-morse-shingou-de-ai-wo-tsutae-yo.json](./367396-morse-shingou-de-ai-wo-tsutae-yo.json) |
 | Morse vs. Horse | 344340 | [344340-morse-vs-horse.json](./344340-morse-vs-horse.json) |
 | Morsels | 314931 | [314931-morsels.json](./314931-morsels.json) |
+| Morshu RTX | 144069 | [144069-morshu-rtx.json](./144069-morshu-rtx.json) |
 | Morstairs: Part I - Oath of Fealty | 225550 | [225550-morstairs-part-i-oath-of-fealty.json](./225550-morstairs-part-i-oath-of-fealty.json) |
 | Mort the Chicken | 45049 | [45049-mort-the-chicken.json](./45049-mort-the-chicken.json) |
 | MORT: Manageably OK Response Team | 395815 | [395815-mort-manageably-ok-response-team.json](./395815-mort-manageably-ok-response-team.json) |
@@ -11697,6 +11698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motoshow Idle | 212433 | [212433-motoshow-idle.json](./212433-motoshow-idle.json) |
 | MotoX | 224638 | [224638-motox.json](./224638-motox.json) |
 | Mots Croisés | 93557 | [93557-mots-croises.json](./93557-mots-croises.json) |
+| Mots Croises, La Selection Des Meilleurs Mots Croises, Tele 7 Jeux | 144075 | [144075-mots-croises-la-selection-des-meilleurs-mots-croises-tele-7-jeux.json](./144075-mots-croises-la-selection-des-meilleurs-mots-croises-tele-7-jeux.json) |
 | Mottainai Ghost | 339980 | [339980-mottainai-ghost.json](./339980-mottainai-ghost.json) |
 | Motte Island | 20064 | [20064-motte-island.json](./20064-motte-island.json) |
 | Motteke Tamago | 42015 | [42015-motteke-tamago.json](./42015-motteke-tamago.json) |
@@ -13062,6 +13064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Baby 3 & Friends | 48041 | [48041-my-baby-3-and-friends.json](./48041-my-baby-3-and-friends.json) |
 | My Baby Girl | 47976 | [47976-my-baby-girl.json](./47976-my-baby-girl.json) |
 | My Baby Unicorn | 243752 | [243752-my-baby-unicorn.json](./243752-my-baby-unicorn.json) |
+| My Baby: First Steps | 144073 | [144073-my-baby-first-steps.json](./144073-my-baby-first-steps.json) |
 | My Baby: First Steps | 47910 | [47910-my-baby-first-steps.json](./47910-my-baby-first-steps.json) |
 | My Bakery Empire | 87373 | [87373-my-bakery-empire.json](./87373-my-bakery-empire.json) |
 | My Bakery Empire: Complete Edition | 284503 | [284503-my-bakery-empire-complete-edition.json](./284503-my-bakery-empire-complete-edition.json) |
