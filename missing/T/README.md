@@ -844,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Fandom Vol. 1: Cress Version | 100158 | [100158-tales-of-fandom-vol-1-cress-version.json](./100158-tales-of-fandom-vol-1-cress-version.json) |
 | Tales of Fandom Vol. 2: Luke Version | 100288 | [100288-tales-of-fandom-vol-2-luke-version.json](./100288-tales-of-fandom-vol-2-luke-version.json) |
 | Tales of Fandom Vol. 2: Tear Version | 43459 | [43459-tales-of-fandom-vol-2-tear-version.json](./43459-tales-of-fandom-vol-2-tear-version.json) |
+| Tales of Farhollow | 151496 | [151496-tales-of-farhollow.json](./151496-tales-of-farhollow.json) |
 | Tales of Fear: Episode Zero | 379432 | [379432-tales-of-fear-episode-zero.json](./379432-tales-of-fear-episode-zero.json) |
 | Tales of Fearless | 379435 | [379435-tales-of-fearless.json](./379435-tales-of-fearless.json) |
 | Tales of Fire | 203677 | [203677-tales-of-fire.json](./203677-tales-of-fire.json) |
@@ -4767,6 +4768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chase | 168949 | [168949-the-chase.json](./168949-the-chase.json) |
 | The Chase: Ultimate Edition | 138568 | [138568-the-chase-ultimate-edition.json](./138568-the-chase-ultimate-edition.json) |
 | The Chaste Full-Metal Maiden - Leiria | 124262 | [124262-the-chaste-full-metal-maiden-leiria.json](./124262-the-chaste-full-metal-maiden-leiria.json) |
+| The Chatters Show | 151465 | [151465-the-chatters-show.json](./151465-the-chatters-show.json) |
 | The Cheese Chase: Pizza Madness | 319772 | [319772-the-cheese-chase-pizza-madness.json](./319772-the-cheese-chase-pizza-madness.json) |
 | The Cheetah Girls | 49367 | [49367-the-cheetah-girls.json](./49367-the-cheetah-girls.json) |
 | The Cheetah Girls: Passport to Stardom | 117498 | [117498-the-cheetah-girls-passport-to-stardom.json](./117498-the-cheetah-girls-passport-to-stardom.json) |
@@ -6653,6 +6655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gods Fabled: Soil Frontier | 229836 | [229836-the-gods-fabled-soil-frontier.json](./229836-the-gods-fabled-soil-frontier.json) |
 | The Gold and Black Keys that Cannot Open | 251192 | [251192-the-gold-and-black-keys-that-cannot-open.json](./251192-the-gold-and-black-keys-that-cannot-open.json) |
 | The Gold of the Aztecs | 12120 | [12120-the-gold-of-the-aztecs.json](./12120-the-gold-of-the-aztecs.json) |
+| The Gold River Project | 151463 | [151463-the-gold-river-project.json](./151463-the-gold-river-project.json) |
 | The Golden Age | 213586 | [213586-the-golden-age.json](./213586-the-golden-age.json) |
 | The Golden Caravan | 399928 | [399928-the-golden-caravan.json](./399928-the-golden-caravan.json) |
 | The Golden Compass | 4892 | [4892-the-golden-compass.json](./4892-the-golden-compass.json) |
@@ -8527,6 +8530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Adventure | 364040 | [364040-the-little-adventure.json](./364040-the-little-adventure.json) |
 | The Little Baby | 285553 | [285553-the-little-baby.json](./285553-the-little-baby.json) |
 | The Little Big Crisis | 217793 | [217793-the-little-big-crisis.json](./217793-the-little-big-crisis.json) |
+| The Little Black Bestiary: A Midsummer Night's Barcrawl | 151498 | [151498-the-little-black-bestiary-a-midsummer-nights-barcrawl.json](./151498-the-little-black-bestiary-a-midsummer-nights-barcrawl.json) |
 | The Little Drone 2 | 172202 | [172202-the-little-drone-2.json](./172202-the-little-drone-2.json) |
 | The Little Engine That Could | 242030 | [242030-the-little-engine-that-could.json](./242030-the-little-engine-that-could.json) |
 | The Little Girl Mill of a Ginko | 300383 | [300383-the-little-girl-mill-of-a-ginko.json](./300383-the-little-girl-mill-of-a-ginko.json) |
@@ -11576,6 +11580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Third Age | 264137 | [264137-the-third-age.json](./264137-the-third-age.json) |
 | The Third Celestial Realm | 358500 | [358500-the-third-celestial-realm.json](./358500-the-third-celestial-realm.json) |
 | The Third Courier | 12795 | [12795-the-third-courier.json](./12795-the-third-courier.json) |
+| The Third Day | 151504 | [151504-the-third-day.json](./151504-the-third-day.json) |
 | The Third Pig | 337176 | [337176-the-third-pig.json](./337176-the-third-pig.json) |
 | The Third Shift | 139451 | [139451-the-third-shift.json](./139451-the-third-shift.json) |
 | The Third Tourist | 356563 | [356563-the-third-tourist.json](./356563-the-third-tourist.json) |
@@ -17738,6 +17743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toukon Heat | 274405 | [274405-toukon-heat.json](./274405-toukon-heat.json) |
 | Toumayhem | 202857 | [202857-toumayhem.json](./202857-toumayhem.json) |
 | Toumei na Yasashisa | 368604 | [368604-toumei-na-yasashisa.json](./368604-toumei-na-yasashisa.json) |
+| Toupei55 | 151475 | [151475-toupei55.json](./151475-toupei55.json) |
 | Tour de Akiba | 179505 | [179505-tour-de-akiba.json](./179505-tour-de-akiba.json) |
 | Tour de Drone | 305931 | [305931-tour-de-drone.json](./305931-tour-de-drone.json) |
 | Tour De France | 95456 | [95456-tour-de-france.json](./95456-tour-de-france.json) |
