@@ -3154,6 +3154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koa: A Gluttonous Wizard | 215335 | [215335-koa-a-gluttonous-wizard.json](./215335-koa-a-gluttonous-wizard.json) |
 | Koakuma | 222787 | [222787-koakuma.json](./222787-koakuma.json) |
 | Koala Kids | 34981 | [34981-koala-kids.json](./34981-koala-kids.json) |
+| Koala Quest: Parenthood Prevention | 171321 | [171321-koala-quest-parenthood-prevention.json](./171321-koala-quest-parenthood-prevention.json) |
 | Koala Rush | 187841 | [187841-koala-rush.json](./187841-koala-rush.json) |
 | Koala Sling | 268020 | [268020-koala-sling.json](./268020-koala-sling.json) |
 | Koalas Deliv & Guy | 366359 | [366359-koalas-deliv-and-guy.json](./366359-koalas-deliv-and-guy.json) |
