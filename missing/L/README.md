@@ -2895,6 +2895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Is Not the End | 156999 | [156999-life-is-not-the-end.json](./156999-life-is-not-the-end.json) |
 | Life is Pain | 239584 | [239584-life-is-pain.json](./239584-life-is-pain.json) |
 | Life is Paine | 188443 | [188443-life-is-paine.json](./188443-life-is-paine.json) |
+| Life is Scary | 176765 | [176765-life-is-scary.json](./176765-life-is-scary.json) |
 | Life is Strange 2: Episode 4 - Faith | 119055 | [119055-life-is-strange-2-episode-4-faith.json](./119055-life-is-strange-2-episode-4-faith.json) |
 | Life is Strange 2: Episode 5 - Wolves | 119054 | [119054-life-is-strange-2-episode-5-wolves.json](./119054-life-is-strange-2-episode-5-wolves.json) |
 | Life is Strange Collection | 361759 | [361759-life-is-strange-collection.json](./361759-life-is-strange-collection.json) |
