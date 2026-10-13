@@ -485,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen of Tactics | 272259 | [272259-queen-of-tactics.json](./272259-queen-of-tactics.json) |
 | Queen of the Court | 209749 | [209749-queen-of-the-court.json](./209749-queen-of-the-court.json) |
 | Queen of The Hill | 306061 | [306061-queen-of-the-hill.json](./306061-queen-of-the-hill.json) |
+| Queen of the Pack | 161577 | [161577-queen-of-the-pack.json](./161577-queen-of-the-pack.json) |
 | Queen Of The Sands | 415079 | [415079-queen-of-the-sands.json](./415079-queen-of-the-sands.json) |
 | Queen of Zarkov | 173288 | [173288-queen-of-zarkov.json](./173288-queen-of-zarkov.json) |
 | Queen Pirate: Love Adrift | 298992 | [298992-queen-pirate-love-adrift.json](./298992-queen-pirate-love-adrift.json) |
