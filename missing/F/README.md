@@ -970,15 +970,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famicom Hinshi Tai | 328619 | [328619-famicom-hinshi-tai.json](./328619-famicom-hinshi-tai.json) |
 | Famicom Igo Nyuumon | 48331 | [48331-famicom-igo-nyuumon.json](./48331-famicom-igo-nyuumon.json) |
 | Famicom Meijinsen | 48330 | [48330-famicom-meijinsen.json](./48330-famicom-meijinsen.json) |
+| Famicom Mini: Balloon Fight | 170260 | [170260-famicom-mini-balloon-fight.json](./170260-famicom-mini-balloon-fight.json) |
+| Famicom Mini: Clu Clu Land | 170252 | [170252-famicom-mini-clu-clu-land.json](./170252-famicom-mini-clu-clu-land.json) |
 | Famicom Mini: Dai-2-ji Super Robot Taisen | 170948 | [170948-famicom-mini-dai-2-ji-super-robot-taisen.json](./170948-famicom-mini-dai-2-ji-super-robot-taisen.json) |
+| Famicom Mini: Dig Dug | 170261 | [170261-famicom-mini-dig-dug.json](./170261-famicom-mini-dig-dug.json) |
 | Famicom Mini: Famicom Mukashibanashi - Shin Onigashima | 170333 | [170333-famicom-mini-famicom-mukashibanashi-shin-onigashima.json](./170333-famicom-mini-famicom-mukashibanashi-shin-onigashima.json) |
+| Famicom Mini: Famicom Tantei Club - Kieta Koukeisha | 170264 | [170264-famicom-mini-famicom-tantei-club-kieta-koukeisha.json](./170264-famicom-mini-famicom-tantei-club-kieta-koukeisha.json) |
+| Famicom Mini: Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo | 170265 | [170265-famicom-mini-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo.json](./170265-famicom-mini-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo.json) |
 | Famicom Mini: Ganbare Goemon! - Karakuri Douchuu | 170271 | [170271-famicom-mini-ganbare-goemon-karakuri-douchuu.json](./170271-famicom-mini-ganbare-goemon-karakuri-douchuu.json) |
+| Famicom Mini: Hikari Shinwa - Palutena no Kagami | 170268 | [170268-famicom-mini-hikari-shinwa-palutena-no-kagami.json](./170268-famicom-mini-hikari-shinwa-palutena-no-kagami.json) |
 | Famicom Mini: Kidou Senshi Z Gundam - Hot Scramble | 170947 | [170947-famicom-mini-kidou-senshi-z-gundam-hot-scramble.json](./170947-famicom-mini-kidou-senshi-z-gundam-hot-scramble.json) |
+| Famicom Mini: Makaimura | 170267 | [170267-famicom-mini-makaimura.json](./170267-famicom-mini-makaimura.json) |
 | Famicom Mini: Mappy | 170277 | [170277-famicom-mini-mappy.json](./170277-famicom-mini-mappy.json) |
 | Famicom Mini: Mario Bros. | 170287 | [170287-famicom-mini-mario-bros.json](./170287-famicom-mini-mario-bros.json) |
 | Famicom Mini: Nazo no Murasame-jou | 170269 | [170269-famicom-mini-nazo-no-murasame-jou.json](./170269-famicom-mini-nazo-no-murasame-jou.json) |
 | Famicom Mini: SD Gundam World - Gachapon Senshi: Scramble Wars | 170283 | [170283-famicom-mini-sd-gundam-world-gachapon-senshi-scramble-wars.json](./170283-famicom-mini-sd-gundam-world-gachapon-senshi-scramble-wars.json) |
 | Famicom Mini: Star Soldier | 170295 | [170295-famicom-mini-star-soldier.json](./170295-famicom-mini-star-soldier.json) |
+| Famicom Mini: Super Mario Bros. 2 | 170253 | [170253-famicom-mini-super-mario-bros-2.json](./170253-famicom-mini-super-mario-bros-2.json) |
+| Famicom Mini: Takahashi Meijin no Bouken-jima | 170259 | [170259-famicom-mini-takahashi-meijin-no-bouken-jima.json](./170259-famicom-mini-takahashi-meijin-no-bouken-jima.json) |
 | Famicom Mini: TwinBee | 170309 | [170309-famicom-mini-twinbee.json](./170309-famicom-mini-twinbee.json) |
 | Famicom Mini: Wrecking Crew | 170318 | [170318-famicom-mini-wrecking-crew.json](./170318-famicom-mini-wrecking-crew.json) |
 | Famicom Mukashibanashi: Shin Onigashima - Kouhen | 41418 | [41418-famicom-mukashibanashi-shin-onigashima-kouhen.json](./41418-famicom-mukashibanashi-shin-onigashima-kouhen.json) |
@@ -3696,6 +3705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Football: Goal in One | 238549 | [238549-finger-football-goal-in-one.json](./238549-finger-football-goal-in-one.json) |
 | Finger Football: Goal in One + Two | 262491 | [262491-finger-football-goal-in-one-two.json](./262491-finger-football-goal-in-one-two.json) |
 | Finger Gravity | 253263 | [253263-finger-gravity.json](./253263-finger-gravity.json) |
+| Finger Guessing King | 169722 | [169722-finger-guessing-king.json](./169722-finger-guessing-king.json) |
 | Finger Maniac | 262351 | [262351-finger-maniac.json](./262351-finger-maniac.json) |
 | Finger Ninja | 82006 | [82006-finger-ninja.json](./82006-finger-ninja.json) |
 | Finger on the Roof! Go! Rooftop Runner! | 214568 | [214568-finger-on-the-roof-go-rooftop-runner.json](./214568-finger-on-the-roof-go-rooftop-runner.json) |
@@ -4500,6 +4510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Ethans | 194614 | [194614-five-nights-at-ethans.json](./194614-five-nights-at-ethans.json) |
 | Five Nights at F***boy's 2: Final Mix | 170335 | [170335-five-nights-at-f-boys-2-final-mix.json](./170335-five-nights-at-f-boys-2-final-mix.json) |
 | Five Nights at F***boy's 3: Final Mix | 171894 | [171894-five-nights-at-f-boys-3-final-mix.json](./171894-five-nights-at-f-boys-3-final-mix.json) |
+| Five Nights at F***boy's: Final Mix | 170035 | [170035-five-nights-at-f-boys-final-mix.json](./170035-five-nights-at-f-boys-final-mix.json) |
 | Five Nights at Floppa 0 | 207759 | [207759-five-nights-at-floppa-0.json](./207759-five-nights-at-floppa-0.json) |
 | Five Nights at Flow's | 377841 | [377841-five-nights-at-flows.json](./377841-five-nights-at-flows.json) |
 | Five Nights at Flow's 1 Remaster | 377843 | [377843-five-nights-at-flows-1-remaster.json](./377843-five-nights-at-flows-1-remaster.json) |
@@ -8432,6 +8443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fukakutei Sekai no Tantei Shinshi Virginal Vol. 1 | 122875 | [122875-fukakutei-sekai-no-tantei-shinshi-virginal-vol-1.json](./122875-fukakutei-sekai-no-tantei-shinshi-virginal-vol-1.json) |
 | Fukakutei Sekai no Tantei Shinshi Virginal Vol. 2 | 122876 | [122876-fukakutei-sekai-no-tantei-shinshi-virginal-vol-2.json](./122876-fukakutei-sekai-no-tantei-shinshi-virginal-vol-2.json) |
 | Fukakutei Sekai no Tantei Shinshi: Akugyou Futaasa no Jiken File | 122879 | [122879-fukakutei-sekai-no-tantei-shinshi-akugyou-futaasa-no-jiken-file.json](./122879-fukakutei-sekai-no-tantei-shinshi-akugyou-futaasa-no-jiken-file.json) |
+| Fukawa-chan | 170246 | [170246-fukawa-chan.json](./170246-fukawa-chan.json) |
 | Fukoumori: Moririi no Unhappy Project | 269677 | [269677-fukoumori-moririi-no-unhappy-project.json](./269677-fukoumori-moririi-no-unhappy-project.json) |
 | Fuksoft | 209439 | [209439-fuksoft.json](./209439-fuksoft.json) |
 | Fuksoft II | 209440 | [209440-fuksoft-ii.json](./209440-fuksoft-ii.json) |
