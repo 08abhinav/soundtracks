@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake Platformer | 329089 | [329089-cake-platformer.json](./329089-cake-platformer.json) |
 | Cake Shop | 109015 | [109015-cake-shop.json](./109015-cake-shop.json) |
 | Cake Shop 3 | 410232 | [410232-cake-shop-3.json](./410232-cake-shop-3.json) |
+| Cake Shop Simulator | 156876 | [156876-cake-shop-simulator.json](./156876-cake-shop-simulator.json) |
 | Cake Up | 335273 | [335273-cake-up.json](./335273-cake-up.json) |
 | Cake Yasan Monogatari Oishii Sweet wo Tsukurou! | 136878 | [136878-cake-yasan-monogatari-oishii-sweet-wo-tsukurou.json](./136878-cake-yasan-monogatari-oishii-sweet-wo-tsukurou.json) |
 | Cake4D | 215297 | [215297-cake4d.json](./215297-cake4d.json) |
@@ -3863,6 +3864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie Murder | 19914 | [19914-charlie-murder.json](./19914-charlie-murder.json) |
 | Charlie Ninja | 39832 | [39832-charlie-ninja.json](./39832-charlie-ninja.json) |
 | Charlie Spotlight | 391897 | [391897-charlie-spotlight.json](./391897-charlie-spotlight.json) |
+| Charlie the Roach | 156883 | [156883-charlie-the-roach.json](./156883-charlie-the-roach.json) |
 | Charlie the Steak | 310574 | [310574-charlie-the-steak.json](./310574-charlie-the-steak.json) |
 | Charlie: The Legend | 172022 | [172022-charlie-the-legend.json](./172022-charlie-the-legend.json) |
 | Charlie's Adventure | 30487 | [30487-charlies-adventure.json](./30487-charlies-adventure.json) |
@@ -4374,6 +4376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chesto: At the Checkout | 134686 | [134686-chesto-at-the-checkout.json](./134686-chesto-at-the-checkout.json) |
 | Chests O' Booty | 84576 | [84576-chests-o-booty.json](./84576-chests-o-booty.json) |
 | Chetz! | 164088 | [164088-chetz.json](./164088-chetz.json) |
+| Chevalier Historie | 156907 | [156907-chevalier-historie.json](./156907-chevalier-historie.json) |
 | Chevrolet Camaro Wild Ride 3D | 84575 | [84575-chevrolet-camaro-wild-ride-3d.json](./84575-chevrolet-camaro-wild-ride-3d.json) |
 | Chew Chew Mimic | 281006 | [281006-chew-chew-mimic.json](./281006-chew-chew-mimic.json) |
 | Chew Your Food | 395886 | [395886-chew-your-food.json](./395886-chew-your-food.json) |
@@ -9467,6 +9470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corona Frustration Elimination | 165001 | [165001-corona-frustration-elimination.json](./165001-corona-frustration-elimination.json) |
 | Corona Kombat | 159582 | [159582-corona-kombat.json](./159582-corona-kombat.json) |
 | Corona MotorSport | 35926 | [35926-corona-motorsport.json](./35926-corona-motorsport.json) |
+| Corona Simulator | 156889 | [156889-corona-simulator.json](./156889-corona-simulator.json) |
 | Corona Simulator: Savior Edition | 165004 | [165004-corona-simulator-savior-edition.json](./165004-corona-simulator-savior-edition.json) |
 | Coronarun | 156704 | [156704-coronarun.json](./156704-coronarun.json) |
 | Coronation | 91381 | [91381-coronation.json](./91381-coronation.json) |
