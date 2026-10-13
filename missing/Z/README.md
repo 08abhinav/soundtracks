@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie God | 386994 | [386994-zombie-god.json](./386994-zombie-god.json) |
 | Zombie Gorge: Survival Defense | 385064 | [385064-zombie-gorge-survival-defense.json](./385064-zombie-gorge-survival-defense.json) |
 | Zombie Graveyard Simulator | 333007 | [333007-zombie-graveyard-simulator.json](./333007-zombie-graveyard-simulator.json) |
+| Zombie Groove | 148861 | [148861-zombie-groove.json](./148861-zombie-groove.json) |
 | Zombie Gunship Revenant AR | 87281 | [87281-zombie-gunship-revenant-ar.json](./87281-zombie-gunship-revenant-ar.json) |
 | Zombie Hamsters | 400376 | [400376-zombie-hamsters.json](./400376-zombie-hamsters.json) |
 | Zombie Harvest | 87158 | [87158-zombie-harvest.json](./87158-zombie-harvest.json) |
