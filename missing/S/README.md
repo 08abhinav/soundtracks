@@ -6112,6 +6112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shout Seven | 159245 | [159245-shout-seven.json](./159245-shout-seven.json) |
 | Shoutrageous! | 101952 | [101952-shoutrageous.json](./101952-shoutrageous.json) |
 | Shovel Adventure | 220784 | [220784-shovel-adventure.json](./220784-shovel-adventure.json) |
+| Shovel Escape | 172450 | [172450-shovel-escape.json](./172450-shovel-escape.json) |
 | Shovel Game | 361337 | [361337-shovel-game.json](./361337-shovel-game.json) |
 | Shovel Knight Dig | 122097 | [122097-shovel-knight-dig.json](./122097-shovel-knight-dig.json) |
 | Shovel Knight Showdown | 27242 | [27242-shovel-knight-showdown.json](./27242-shovel-knight-showdown.json) |
@@ -8972,6 +8973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slow Down | 180673 | [180673-slow-down.json](./180673-slow-down.json) |
 | Slow Down | 348743 | [348743-slow-down.json](./348743-slow-down.json) |
 | Slow Fourier Transform | 364637 | [364637-slow-fourier-transform.json](./364637-slow-fourier-transform.json) |
+| Slow Living With Princess | 172447 | [172447-slow-living-with-princess.json](./172447-slow-living-with-princess.json) |
 | Slow Rise | 267066 | [267066-slow-rise.json](./267066-slow-rise.json) |
 | Slow Roads | 222796 | [222796-slow-roads.json](./222796-slow-roads.json) |
 | Slow.Bullet VR | 392797 | [392797-slow-bullet-vr.json](./392797-slow-bullet-vr.json) |
@@ -19194,6 +19196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Style: Complete Edition | 141892 | [141892-sugar-style-complete-edition.json](./141892-sugar-style-complete-edition.json) |
 | Sugar Sugar Rune: Heart Ga Ippai! Moegi Gakuen | 49811 | [49811-sugar-sugar-rune-heart-ga-ippai-moegi-gakuen.json](./49811-sugar-sugar-rune-heart-ga-ippai-moegi-gakuen.json) |
 | Sugar, Sugar | 89099 | [89099-sugar-sugar.json](./89099-sugar-sugar.json) |
+| Sugar's Delight | 172445 | [172445-sugars-delight.json](./172445-sugars-delight.json) |
 | Sugarbound | 334288 | [334288-sugarbound.json](./334288-sugarbound.json) |
 | Sugarbunnies Wii: Youkoso Bunnies Field he | 409015 | [409015-sugarbunnies-wii-youkoso-bunnies-field-he.json](./409015-sugarbunnies-wii-youkoso-bunnies-field-he.json) |
 | Sugarcane Empire | 186825 | [186825-sugarcane-empire.json](./186825-sugarcane-empire.json) |
@@ -20263,6 +20266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super High Ball: Pinball Platformer | 133372 | [133372-super-high-ball-pinball-platformer.json](./133372-super-high-ball-pinball-platformer.json) |
 | Super High School Danger Course | 271128 | [271128-super-high-school-danger-course.json](./271128-super-high-school-danger-course.json) |
 | Super High School Sports Day Crankathlon | 230724 | [230724-super-high-school-sports-day-crankathlon.json](./230724-super-high-school-sports-day-crankathlon.json) |
+| Super High-Way | 172649 | [172649-super-high-way.json](./172649-super-high-way.json) |
 | Super Hiking Simulator 2020: After | 172117 | [172117-super-hiking-simulator-2020-after.json](./172117-super-hiking-simulator-2020-after.json) |
 | Super Hiking Simulator 2020: Puzzles | 163422 | [163422-super-hiking-simulator-2020-puzzles.json](./163422-super-hiking-simulator-2020-puzzles.json) |
 | Super Hind | 44475 | [44475-super-hind.json](./44475-super-hind.json) |
@@ -21960,6 +21964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supersonic Fight | 216712 | [216712-supersonic-fight.json](./216712-supersonic-fight.json) |
 | Supersonic Highway Defenders | 355559 | [355559-supersonic-highway-defenders.json](./355559-supersonic-highway-defenders.json) |
 | Supersonic Mario | 308471 | [308471-supersonic-mario.json](./308471-supersonic-mario.json) |
+| Supersonic Rhyme Chamber | 172444 | [172444-supersonic-rhyme-chamber.json](./172444-supersonic-rhyme-chamber.json) |
 | Supersonic Tank Cats | 55299 | [55299-supersonic-tank-cats.json](./55299-supersonic-tank-cats.json) |
 | SuperSpec Rallycross | 291740 | [291740-superspec-rallycross.json](./291740-superspec-rallycross.json) |
 | SuperSpeed Deluxe | 366963 | [366963-superspeed-deluxe.json](./366963-superspeed-deluxe.json) |
