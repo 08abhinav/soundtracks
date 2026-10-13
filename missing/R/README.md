@@ -1258,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranma ½: Datou, Ganso Musabetsu Kakutou-ryuu! | 75858 | [75858-ranma-1-2-datou-ganso-musabetsu-kakutou-ryuu.json](./75858-ranma-1-2-datou-ganso-musabetsu-kakutou-ryuu.json) |
 | Ranocta | 292239 | [292239-ranocta.json](./292239-ranocta.json) |
 | Ranphon | 258623 | [258623-ranphon.json](./258623-ranphon.json) |
+| Ransack Raccoon | 165766 | [165766-ransack-raccoon.json](./165766-ransack-raccoon.json) |
 | Ransomware Dating Sim | 124221 | [124221-ransomware-dating-sim.json](./124221-ransomware-dating-sim.json) |
 | Rantou Proresu | 83211 | [83211-rantou-proresu.json](./83211-rantou-proresu.json) |
 | Ranveer vs. Wild With Bear Grylls | 256869 | [256869-ranveer-vs-wild-with-bear-grylls.json](./256869-ranveer-vs-wild-with-bear-grylls.json) |
@@ -5692,6 +5693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Terror | 158116 | [158116-robo-terror.json](./158116-robo-terror.json) |
 | Robo Wars | 196316 | [196316-robo-wars.json](./196316-robo-wars.json) |
 | Robo Wrestle 2001 | 40422 | [40422-robo-wrestle-2001.json](./40422-robo-wrestle-2001.json) |
+| Robo-Boy Risky Venture | 165759 | [165759-robo-boy-risky-venture.json](./165759-robo-boy-risky-venture.json) |
 | Robo-Key | 181803 | [181803-robo-key.json](./181803-robo-key.json) |
 | Robo-Summit | 180683 | [180683-robo-summit.json](./180683-robo-summit.json) |
 | Robo-tea: 1cup! | 178518 | [178518-robo-tea-1cup.json](./178518-robo-tea-1cup.json) |
@@ -7021,6 +7023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roogoo Attack! | 21242 | [21242-roogoo-attack.json](./21242-roogoo-attack.json) |
 | Roogoo Twisted Towers! | 21248 | [21248-roogoo-twisted-towers.json](./21248-roogoo-twisted-towers.json) |
 | Rookfall | 174617 | [174617-rookfall.json](./174617-rookfall.json) |
+| Rookie Bowman | 165758 | [165758-rookie-bowman.json](./165758-rookie-bowman.json) |
 | Rookie Boxing | 319776 | [319776-rookie-boxing.json](./319776-rookie-boxing.json) |
 | Rookie Guard and the Queen | 280259 | [280259-rookie-guard-and-the-queen.json](./280259-rookie-guard-and-the-queen.json) |
 | Rookie Math Pro | 102205 | [102205-rookie-math-pro.json](./102205-rookie-math-pro.json) |
