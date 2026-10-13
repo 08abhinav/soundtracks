@@ -829,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Destiny 2 | 1203 | [1203-tales-of-destiny-2.json](./1203-tales-of-destiny-2.json) |
 | Tales of Destiny II | 1202 | [1202-tales-of-destiny-ii.json](./1202-tales-of-destiny-ii.json) |
 | Tales of Destiny: Director's Cut | 80500 | [80500-tales-of-destiny-directors-cut.json](./80500-tales-of-destiny-directors-cut.json) |
+| Tales of Djungarian Hamster | 148322 | [148322-tales-of-djungarian-hamster.json](./148322-tales-of-djungarian-hamster.json) |
 | Tales of Dungeon | 193809 | [193809-tales-of-dungeon.json](./193809-tales-of-dungeon.json) |
 | Tales of Echoes of the Symphony of Mana | 379434 | [379434-tales-of-echoes-of-the-symphony-of-mana.json](./379434-tales-of-echoes-of-the-symphony-of-mana.json) |
 | Tales of Eden: Midgard | 358455 | [358455-tales-of-eden-midgard.json](./358455-tales-of-eden-midgard.json) |
@@ -9486,6 +9487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Office | 94901 | [94901-the-office.json](./94901-the-office.json) |
 | The Office Killer | 344386 | [344386-the-office-killer.json](./344386-the-office-killer.json) |
 | The Office Rooms | 373305 | [373305-the-office-rooms.json](./373305-the-office-rooms.json) |
+| The Office Simulation | 148319 | [148319-the-office-simulation.json](./148319-the-office-simulation.json) |
 | The Official Everton FC Intelligensia | 314965 | [314965-the-official-everton-fc-intelligensia.json](./314965-the-official-everton-fc-intelligensia.json) |
 | The Ogi: Cycles | 280250 | [280250-the-ogi-cycles.json](./280250-the-ogi-cycles.json) |
 | The Ogre King | 410446 | [410446-the-ogre-king.json](./410446-the-ogre-king.json) |
@@ -10974,6 +10976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simulacrum | 230858 | [230858-the-simulacrum.json](./230858-the-simulacrum.json) |
 | The Simulation | 295157 | [295157-the-simulation.json](./295157-the-simulation.json) |
 | The Simuloid Affair: Infinite Possibilities | 300692 | [300692-the-simuloid-affair-infinite-possibilities.json](./300692-the-simuloid-affair-infinite-possibilities.json) |
+| The Sin | 148329 | [148329-the-sin.json](./148329-the-sin.json) |
 | The Sin Collector: Repentless | 169773 | [169773-the-sin-collector-repentless.json](./169773-the-sin-collector-repentless.json) |
 | The Sin of Fabien | 405705 | [405705-the-sin-of-fabien.json](./405705-the-sin-of-fabien.json) |
 | The Singing Saw Simulator | 289963 | [289963-the-singing-saw-simulator.json](./289963-the-singing-saw-simulator.json) |
@@ -12571,6 +12574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch's Isle | 55764 | [55764-the-witchs-isle.json](./55764-the-witchs-isle.json) |
 | The Witch's Knight | 254745 | [254745-the-witchs-knight.json](./254745-the-witchs-knight.json) |
 | The Witch's Love Diary | 120528 | [120528-the-witchs-love-diary.json](./120528-the-witchs-love-diary.json) |
+| The Witch's Maze | 148315 | [148315-the-witchs-maze.json](./148315-the-witchs-maze.json) |
 | The Witch's Night Watch | 288988 | [288988-the-witchs-night-watch.json](./288988-the-witchs-night-watch.json) |
 | The Witch's Realm | 346583 | [346583-the-witchs-realm.json](./346583-the-witchs-realm.json) |
 | The Witch's Redemption | 298629 | [298629-the-witchs-redemption.json](./298629-the-witchs-redemption.json) |
@@ -13233,6 +13237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is Football 2002 | 44626 | [44626-this-is-football-2002.json](./44626-this-is-football-2002.json) |
 | This Is Football 2005 | 43444 | [43444-this-is-football-2005.json](./43444-this-is-football-2005.json) |
 | This is Football Management | 66974 | [66974-this-is-football-management.json](./66974-this-is-football-management.json) |
+| This is Forever | 148292 | [148292-this-is-forever.json](./148292-this-is-forever.json) |
 | This is hard for me | 176255 | [176255-this-is-hard-for-me.json](./176255-this-is-hard-for-me.json) |
 | This is Hell | 221356 | [221356-this-is-hell.json](./221356-this-is-hell.json) |
 | This Is How U Look Saying This Shit | 277597 | [277597-this-is-how-u-look-saying-this-shit.json](./277597-this-is-how-u-look-saying-this-shit.json) |
@@ -20538,6 +20543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trillenium | 295153 | [295153-trillenium.json](./295153-trillenium.json) |
 | Trillionia | 106632 | [106632-trillionia.json](./106632-trillionia.json) |
 | Trilogic | 91978 | [91978-trilogic.json](./91978-trilogic.json) |
+| Trilogy King Man | 148318 | [148318-trilogy-king-man.json](./148318-trilogy-king-man.json) |
 | Trilogy Kuki Youka Shinden | 153741 | [153741-trilogy-kuki-youka-shinden.json](./153741-trilogy-kuki-youka-shinden.json) |
 | Trilogy of the Moon | 339795 | [339795-trilogy-of-the-moon.json](./339795-trilogy-of-the-moon.json) |
 | Trim For Your Dream | 266270 | [266270-trim-for-your-dream.json](./266270-trim-for-your-dream.json) |
@@ -21031,6 +21037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Fantasy Live Online | 18106 | [18106-true-fantasy-live-online.json](./18106-true-fantasy-live-online.json) |
 | True Fear: Forsaken Souls Part 2 | 111276 | [111276-true-fear-forsaken-souls-part-2.json](./111276-true-fear-forsaken-souls-part-2.json) |
 | True Fishing 2 | 396750 | [396750-true-fishing-2.json](./396750-true-fishing-2.json) |
+| True Game | 148308 | [148308-true-game.json](./148308-true-game.json) |
 | True Hate | 149239 | [149239-true-hate.json](./149239-true-hate.json) |
 | True Hentai Puzzle | 163568 | [163568-true-hentai-puzzle.json](./163568-true-hentai-puzzle.json) |
 | True Hentai Puzzle: 666 | 163569 | [163569-true-hentai-puzzle-666.json](./163569-true-hentai-puzzle-666.json) |
