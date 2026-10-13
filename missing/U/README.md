@@ -1160,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercover | 321997 | [321997-undercover.json](./321997-undercover.json) |
 | Undercover | 403189 | [403189-undercover.json](./403189-undercover.json) |
 | Undercover AD2025 Kei | 86084 | [86084-undercover-ad2025-kei.json](./86084-undercover-ad2025-kei.json) |
+| Undercover brother | 164089 | [164089-undercover-brother.json](./164089-undercover-brother.json) |
 | Undercover Cops: Collector's Edition | 195986 | [195986-undercover-cops-collectors-edition.json](./195986-undercover-cops-collectors-edition.json) |
 | Undercover Girlfriend | 206005 | [206005-undercover-girlfriend.json](./206005-undercover-girlfriend.json) |
 | Undercover: Blood Bonds | 225303 | [225303-undercover-blood-bonds.json](./225303-undercover-blood-bonds.json) |
