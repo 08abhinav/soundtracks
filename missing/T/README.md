@@ -884,6 +884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Kongfu | 161602 | [161602-tales-of-kongfu.json](./161602-tales-of-kongfu.json) |
 | Tales of Lagoona 3: Frauds, Forgeries, and Fishsticks | 155368 | [155368-tales-of-lagoona-3-frauds-forgeries-and-fishsticks.json](./155368-tales-of-lagoona-3-frauds-forgeries-and-fishsticks.json) |
 | Tales of Lagoona: Orphans of the Ocean | 54424 | [54424-tales-of-lagoona-orphans-of-the-ocean.json](./54424-tales-of-lagoona-orphans-of-the-ocean.json) |
+| Tales of Landor | 143450 | [143450-tales-of-landor.json](./143450-tales-of-landor.json) |
 | Tales of Legendary Lust: Aphrodisia | 392890 | [392890-tales-of-legendary-lust-aphrodisia.json](./392890-tales-of-legendary-lust-aphrodisia.json) |
 | Tales of Legends IV: If | 55500 | [55500-tales-of-legends-iv-if.json](./55500-tales-of-legends-iv-if.json) |
 | Tales of Lost Ages Vol 1. | 298057 | [298057-tales-of-lost-ages-vol-1.json](./298057-tales-of-lost-ages-vol-1.json) |
@@ -3042,6 +3043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terracide | 77393 | [77393-terracide.json](./77393-terracide.json) |
 | Terraclysm Survivors | 401888 | [401888-terraclysm-survivors.json](./401888-terraclysm-survivors.json) |
 | Terracosmic | 132622 | [132622-terracosmic.json](./132622-terracosmic.json) |
+| Terracotta | 143435 | [143435-terracotta.json](./143435-terracotta.json) |
 | Terracotta | 271235 | [271235-terracotta.json](./271235-terracotta.json) |
 | Terracotta: Collector's Edition | 300479 | [300479-terracotta-collectors-edition.json](./300479-terracotta-collectors-edition.json) |
 | Terracrest | 317330 | [317330-terracrest.json](./317330-terracrest.json) |
@@ -3615,6 +3617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 3rd Night | 281684 | [281684-the-3rd-night.json](./281684-the-3rd-night.json) |
 | The 4 Masters of Melody | 259767 | [259767-the-4-masters-of-melody.json](./259767-the-4-masters-of-melody.json) |
 | The 4 Sins | 286656 | [286656-the-4-sins.json](./286656-the-4-sins.json) |
+| The 46th | 143463 | [143463-the-46th.json](./143463-the-46th.json) |
 | The 4th Unit | 78724 | [78724-the-4th-unit.json](./78724-the-4th-unit.json) |
 | The 4th Unit 2 | 78725 | [78725-the-4th-unit-2.json](./78725-the-4th-unit-2.json) |
 | The 4th Unit 3 - Dual Targets | 78726 | [78726-the-4th-unit-3-dual-targets.json](./78726-the-4th-unit-3-dual-targets.json) |
@@ -7753,6 +7756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Knightling | 313587 | [313587-the-knightling.json](./313587-the-knightling.json) |
 | The Knights of Dice | 184469 | [184469-the-knights-of-dice.json](./184469-the-knights-of-dice.json) |
 | The Knights of the Cross | 394556 | [394556-the-knights-of-the-cross.json](./394556-the-knights-of-the-cross.json) |
+| The Knights Quest | 143467 | [143467-the-knights-quest.json](./143467-the-knights-quest.json) |
 | The Knowledge of Hermit | 272894 | [272894-the-knowledge-of-hermit.json](./272894-the-knowledge-of-hermit.json) |
 | The Koala Brothers: Outback Adventures | 49398 | [49398-the-koala-brothers-outback-adventures.json](./49398-the-koala-brothers-outback-adventures.json) |
 | The Kobolds Left Behind | 201701 | [201701-the-kobolds-left-behind.json](./201701-the-kobolds-left-behind.json) |
@@ -9792,6 +9796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Phantom Thief Stina and 30 Jewels | 85438 | [85438-the-phantom-thief-stina-and-30-jewels.json](./85438-the-phantom-thief-stina-and-30-jewels.json) |
 | The Phantom's Call | 383696 | [383696-the-phantoms-call.json](./383696-the-phantoms-call.json) |
 | The Phantom's Revenge | 25135 | [25135-the-phantoms-revenge.json](./25135-the-phantoms-revenge.json) |
+| The Pharaoh's Tomb | 143468 | [143468-the-pharaohs-tomb.json](./143468-the-pharaohs-tomb.json) |
 | The Pharaoh's Tomb | 290306 | [290306-the-pharaohs-tomb.json](./290306-the-pharaohs-tomb.json) |
 | The Pharody | 334222 | [334222-the-pharody.json](./334222-the-pharody.json) |
 | The Phenomenon of Edgar Allan Poe 1/2 | 155465 | [155465-the-phenomenon-of-edgar-allan-poe-1-2.json](./155465-the-phenomenon-of-edgar-allan-poe-1-2.json) |
@@ -21617,6 +21622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turnabout Mugging | 309983 | [309983-turnabout-mugging.json](./309983-turnabout-mugging.json) |
 | Turnabout of Courage | 306630 | [306630-turnabout-of-courage.json](./306630-turnabout-of-courage.json) |
 | Turnabout of the Final Day | 306603 | [306603-turnabout-of-the-final-day.json](./306603-turnabout-of-the-final-day.json) |
+| Turnabout of the Golden Witch | 143453 | [143453-turnabout-of-the-golden-witch.json](./143453-turnabout-of-the-golden-witch.json) |
 | Turnabout Pairs | 306631 | [306631-turnabout-pairs.json](./306631-turnabout-pairs.json) |
 | Turnabout Reality | 306624 | [306624-turnabout-reality.json](./306624-turnabout-reality.json) |
 | Turnabout Remembrances | 310015 | [310015-turnabout-remembrances.json](./310015-turnabout-remembrances.json) |
