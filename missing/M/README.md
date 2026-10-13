@@ -3493,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Pieces: Jigsaw Puzzles - Summer Time | 216163 | [216163-master-of-pieces-jigsaw-puzzles-summer-time.json](./216163-master-of-pieces-jigsaw-puzzles-summer-time.json) |
 | Master of Pottery: Suzhou Garden | 199600 | [199600-master-of-pottery-suzhou-garden.json](./199600-master-of-pottery-suzhou-garden.json) |
 | Master of Puppets | 235690 | [235690-master-of-puppets.json](./235690-master-of-puppets.json) |
+| Master of Refraction | 153163 | [153163-master-of-refraction.json](./153163-master-of-refraction.json) |
 | Master of Rogues - The Seven Artifacts | 107847 | [107847-master-of-rogues-the-seven-artifacts.json](./107847-master-of-rogues-the-seven-artifacts.json) |
 | Master of Secrets: Dark Europe | 113860 | [113860-master-of-secrets-dark-europe.json](./113860-master-of-secrets-dark-europe.json) |
 | Master of Shotgun Camper | 311625 | [311625-master-of-shotgun-camper.json](./311625-master-of-shotgun-camper.json) |
@@ -9481,6 +9482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Ludo | 175325 | [175325-modern-ludo.json](./175325-modern-ludo.json) |
 | Modern Mud | 377691 | [377691-modern-mud.json](./377691-modern-mud.json) |
 | Modern Museum | 305524 | [305524-modern-museum.json](./305524-modern-museum.json) |
+| Modern Naval Combat | 153149 | [153149-modern-naval-combat.json](./153149-modern-naval-combat.json) |
 | Modern Naval Warfare | 186903 | [186903-modern-naval-warfare.json](./186903-modern-naval-warfare.json) |
 | Modern Naval Warfare: Sea Combat | 389067 | [389067-modern-naval-warfare-sea-combat.json](./389067-modern-naval-warfare-sea-combat.json) |
 | Modern Road-Like | 104041 | [104041-modern-road-like.json](./104041-modern-road-like.json) |
@@ -14074,6 +14076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of Gevaudan | 332448 | [332448-mystery-of-gevaudan.json](./332448-mystery-of-gevaudan.json) |
 | Mystery of Haunted Hollow: Point Click Escape Game | 91066 | [91066-mystery-of-haunted-hollow-point-click-escape-game.json](./91066-mystery-of-haunted-hollow-point-click-escape-game.json) |
 | Mystery of Hidden Inheritance | 95581 | [95581-mystery-of-hidden-inheritance.json](./95581-mystery-of-hidden-inheritance.json) |
+| Mystery of Lucy Green: The Devil's Diaries | 153158 | [153158-mystery-of-lucy-green-the-devils-diaries.json](./153158-mystery-of-lucy-green-the-devils-diaries.json) |
 | Mystery of Mortlake Mansion | 65188 | [65188-mystery-of-mortlake-mansion.json](./65188-mystery-of-mortlake-mansion.json) |
 | Mystery of Munroe Manor | 298865 | [298865-mystery-of-munroe-manor.json](./298865-mystery-of-munroe-manor.json) |
 | Mystery of Myths: Heart of Athens - Collector's Edition | 337258 | [337258-mystery-of-myths-heart-of-athens-collectors-edition.json](./337258-mystery-of-myths-heart-of-athens-collectors-edition.json) |
