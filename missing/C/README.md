@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadria Item Shop | 107894 | [107894-cadria-item-shop.json](./107894-cadria-item-shop.json) |
 | Caduca | 412969 | [412969-caduca.json](./412969-caduca.json) |
 | Caduceus | 186190 | [186190-caduceus.json](./186190-caduceus.json) |
+| Cadulium | 175652 | [175652-cadulium.json](./175652-cadulium.json) |
 | Cadwallon: City of Thieves | 87615 | [87615-cadwallon-city-of-thieves.json](./87615-cadwallon-city-of-thieves.json) |
 | Caelum's Crux | 389619 | [389619-caelums-crux.json](./389619-caelums-crux.json) |
 | Caesar Empire War | 150263 | [150263-caesar-empire-war.json](./150263-caesar-empire-war.json) |
@@ -234,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cage Me Not | 372631 | [372631-cage-me-not.json](./372631-cage-me-not.json) |
 | Cage of Roses | 303720 | [303720-cage-of-roses.json](./303720-cage-of-roses.json) |
 | Cage of Y | 398032 | [398032-cage-of-y.json](./398032-cage-of-y.json) |
+| Cage-Face: Case 1 - The Mine | 175651 | [175651-cage-face-case-1-the-mine.json](./175651-cage-face-case-1-the-mine.json) |
 | Cage-Face: Case 2 - The Sewer | 193432 | [193432-cage-face-case-2-the-sewer.json](./193432-cage-face-case-2-the-sewer.json) |
 | Cage: Open | 193307 | [193307-cage-open.json](./193307-cage-open.json) |
 | Cagebreak | 60568 | [60568-cagebreak.json](./60568-cagebreak.json) |
@@ -4595,6 +4597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children of Hell | 317507 | [317507-children-of-hell.json](./317507-children-of-hell.json) |
 | Children of Kronos | 376668 | [376668-children-of-kronos.json](./376668-children-of-kronos.json) |
 | Children of Mare | 347344 | [347344-children-of-mare.json](./347344-children-of-mare.json) |
+| Children of Morta: Ancient Spirits | 175855 | [175855-children-of-morta-ancient-spirits.json](./175855-children-of-morta-ancient-spirits.json) |
 | Children of Morta: Complete Edition | 175878 | [175878-children-of-morta-complete-edition.json](./175878-children-of-morta-complete-edition.json) |
 | Children of Orc | 30920 | [30920-children-of-orc.json](./30920-children-of-orc.json) |
 | Children of Saturn | 312134 | [312134-children-of-saturn.json](./312134-children-of-saturn.json) |
@@ -6414,6 +6417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click Manga: Ginga Eiyuu Densetsu 2 | 259487 | [259487-click-manga-ginga-eiyuu-densetsu-2.json](./259487-click-manga-ginga-eiyuu-densetsu-2.json) |
 | Click Manga: Opera Za no Kaijin | 260111 | [260111-click-manga-opera-za-no-kaijin.json](./260111-click-manga-opera-za-no-kaijin.json) |
 | Click Me Harder | 365165 | [365165-click-me-harder.json](./365165-click-me-harder.json) |
+| Click of Cthulhu | 175845 | [175845-click-of-cthulhu.json](./175845-click-of-cthulhu.json) |
 | Click On Cups Together | 309480 | [309480-click-on-cups-together.json](./309480-click-on-cups-together.json) |
 | Click on piña coladas together | 306023 | [306023-click-on-pina-coladas-together.json](./306023-click-on-pina-coladas-together.json) |
 | Click On Staplers Together | 306024 | [306024-click-on-staplers-together.json](./306024-click-on-staplers-together.json) |
@@ -7478,6 +7482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collie Defense | 338788 | [338788-collie-defense.json](./338788-collie-defense.json) |
 | Collision | 331107 | [331107-collision.json](./331107-collision.json) |
 | Collision Course | 30539 | [30539-collision-course.json](./30539-collision-course.json) |
+| Collision Hero | 175854 | [175854-collision-hero.json](./175854-collision-hero.json) |
 | Collisions | 34756 | [34756-collisions.json](./34756-collisions.json) |
 | Colloc | 120424 | [120424-colloc.json](./120424-colloc.json) |
 | Colmen's Quest | 175955 | [175955-colmens-quest.json](./175955-colmens-quest.json) |
