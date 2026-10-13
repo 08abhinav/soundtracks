@@ -1428,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarTorn | 179473 | [179473-wartorn.json](./179473-wartorn.json) |
 | WarTorn | 94337 | [94337-wartorn.json](./94337-wartorn.json) |
 | Wartune | 23652 | [23652-wartune.json](./23652-wartune.json) |
+| Wartune Reborn | 160087 | [160087-wartune-reborn.json](./160087-wartune-reborn.json) |
 | Wartune Ultra | 392881 | [392881-wartune-ultra.json](./392881-wartune-ultra.json) |
 | WarUniverse | 123614 | [123614-waruniverse.json](./123614-waruniverse.json) |
 | WarWest | 112336 | [112336-warwest.json](./112336-warwest.json) |
@@ -1768,6 +1769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way to Town | 358466 | [358466-way-to-town.json](./358466-way-to-town.json) |
 | Way to Yaatra | 140604 | [140604-way-to-yaatra.json](./140604-way-to-yaatra.json) |
 | Way Walkers: University | 168695 | [168695-way-walkers-university.json](./168695-way-walkers-university.json) |
+| Way Walkers: University 2 | 160088 | [160088-way-walkers-university-2.json](./160088-way-walkers-university-2.json) |
 | Way-z | 110933 | [110933-way-z.json](./110933-way-z.json) |
 | WAyE | 105378 | [105378-waye.json](./105378-waye.json) |
 | Wayfarer | 178450 | [178450-wayfarer.json](./178450-wayfarer.json) |
@@ -3393,6 +3395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Goo Chase | 44223 | [44223-wild-goo-chase.json](./44223-wild-goo-chase.json) |
 | Wild Growth | 331389 | [331389-wild-growth.json](./331389-wild-growth.json) |
 | Wild Guardians | 120218 | [120218-wild-guardians.json](./120218-wild-guardians.json) |
+| Wild Gun | 160078 | [160078-wild-gun.json](./160078-wild-gun.json) |
 | Wild Gunman | 4625 | [4625-wild-gunman.json](./4625-wild-gunman.json) |
 | Wild Gunslinger | 287696 | [287696-wild-gunslinger.json](./287696-wild-gunslinger.json) |
 | Wild Heart | 183403 | [183403-wild-heart.json](./183403-wild-heart.json) |
