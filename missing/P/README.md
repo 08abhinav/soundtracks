@@ -10606,6 +10606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protect My Love | 205905 | [205905-protect-my-love.json](./205905-protect-my-love.json) |
 | Protect the campus | 123502 | [123502-protect-the-campus.json](./123502-protect-the-campus.json) |
 | Protect the Grimoire | 413133 | [413133-protect-the-grimoire.json](./413133-protect-the-grimoire.json) |
+| Protect the Kingdom | 179086 | [179086-protect-the-kingdom.json](./179086-protect-the-kingdom.json) |
 | Protect the Planet | 257969 | [257969-protect-the-planet.json](./257969-protect-the-planet.json) |
 | Protect The Town: Armageddon | 291165 | [291165-protect-the-town-armageddon.json](./291165-protect-the-town-armageddon.json) |
 | Protect Your Gold From Barack Obama | 313343 | [313343-protect-your-gold-from-barack-obama.json](./313343-protect-your-gold-from-barack-obama.json) |
@@ -11980,6 +11981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PxBeats | 256540 | [256540-pxbeats.json](./256540-pxbeats.json) |
 | PXL Play | 232393 | [232393-pxl-play.json](./232393-pxl-play.json) |
 | Pxl-Ship | 133359 | [133359-pxl-ship.json](./133359-pxl-ship.json) |
+| Pygmalion Lied | 178889 | [178889-pygmalion-lied.json](./178889-pygmalion-lied.json) |
 | Pyhare | 338279 | [338279-pyhare.json](./338279-pyhare.json) |
 | Pyjama Party | 184346 | [184346-pyjama-party.json](./184346-pyjama-party.json) |
 | Pyjamarama | 23060 | [23060-pyjamarama.json](./23060-pyjamarama.json) |
