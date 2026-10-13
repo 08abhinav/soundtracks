@@ -852,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark and Light | 251093 | [251093-dark-and-light.json](./251093-dark-and-light.json) |
 | Dark and Light | 26973 | [26973-dark-and-light.json](./26973-dark-and-light.json) |
 | Dark and Light Mobile | 227497 | [227497-dark-and-light-mobile.json](./227497-dark-and-light-mobile.json) |
+| Dark and Light: Shard of Faith | 170970 | [170970-dark-and-light-shard-of-faith.json](./170970-dark-and-light-shard-of-faith.json) |
 | Dark and Light: Tales of Gaia | 51999 | [51999-dark-and-light-tales-of-gaia.json](./51999-dark-and-light-tales-of-gaia.json) |
 | Dark Angael | 206964 | [206964-dark-angael.json](./206964-dark-angael.json) |
 | Dark Angels: Masquerade of Shadows | 30383 | [30383-dark-angels-masquerade-of-shadows.json](./30383-dark-angels-masquerade-of-shadows.json) |
@@ -2185,6 +2186,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Earth Zombies | 188672 | [188672-dead-earth-zombies.json](./188672-dead-earth-zombies.json) |
 | Dead Echo | 410377 | [410377-dead-echo.json](./410377-dead-echo.json) |
 | Dead Effect 2 VR | 38968 | [38968-dead-effect-2-vr.json](./38968-dead-effect-2-vr.json) |
+| Dead Effect 2 VR: Cybermagic | 170969 | [170969-dead-effect-2-vr-cybermagic.json](./170969-dead-effect-2-vr-cybermagic.json) |
+| Dead Effect 2 VR: Escape From Meridian | 170967 | [170967-dead-effect-2-vr-escape-from-meridian.json](./170967-dead-effect-2-vr-escape-from-meridian.json) |
+| Dead Effect 2: Escape From Meridian | 170968 | [170968-dead-effect-2-escape-from-meridian.json](./170968-dead-effect-2-escape-from-meridian.json) |
 | Dead End | 285003 | [285003-dead-end.json](./285003-dead-end.json) |
 | Dead End Aegis | 186893 | [186893-dead-end-aegis.json](./186893-dead-end-aegis.json) |
 | Dead End Aegis: Gaiden | 192688 | [192688-dead-end-aegis-gaiden.json](./192688-dead-end-aegis-gaiden.json) |
@@ -6479,6 +6483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea: Hour of Darkness | 11610 | [11610-disgaea-hour-of-darkness.json](./11610-disgaea-hour-of-darkness.json) |
 | Disgrace: When Our Beautiful World Disappears | 377707 | [377707-disgrace-when-our-beautiful-world-disappears.json](./377707-disgrace-when-our-beautiful-world-disappears.json) |
 | Disgraced Swordswoman Battle | 134605 | [134605-disgraced-swordswoman-battle.json](./134605-disgraced-swordswoman-battle.json) |
+| Disgraced: Hands of Fate | 170796 | [170796-disgraced-hands-of-fate.json](./170796-disgraced-hands-of-fate.json) |
 | Disgraced: Trailblazer | 161730 | [161730-disgraced-trailblazer.json](./161730-disgraced-trailblazer.json) |
 | Disguised Blessing | 332991 | [332991-disguised-blessing.json](./332991-disguised-blessing.json) |
 | Disgusting Puzzle 2 | 232941 | [232941-disgusting-puzzle-2.json](./232941-disgusting-puzzle-2.json) |
