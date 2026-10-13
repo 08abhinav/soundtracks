@@ -3028,6 +3028,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gish | 8384 | [8384-gish.json](./8384-gish.json) |
 | Git Gud | 330269 | [330269-git-gud.json](./330269-git-gud.json) |
 | Git Up! | 335498 | [335498-git-up.json](./335498-git-up.json) |
+| Gitadora Exchain | 154831 | [154831-gitadora-exchain.json](./154831-gitadora-exchain.json) |
+| Gitadora High-Voltage | 154836 | [154836-gitadora-high-voltage.json](./154836-gitadora-high-voltage.json) |
+| Gitadora Matixx | 154828 | [154828-gitadora-matixx.json](./154828-gitadora-matixx.json) |
+| Gitadora Nextage | 154833 | [154833-gitadora-nextage.json](./154833-gitadora-nextage.json) |
+| Gitadora Tri-Boost | 154822 | [154822-gitadora-tri-boost.json](./154822-gitadora-tri-boost.json) |
+| Gitadora Tri-Boost Re:Evolve | 154823 | [154823-gitadora-tri-boost-re-evolve.json](./154823-gitadora-tri-boost-re-evolve.json) |
 | Gitaroo Man | 11338 | [11338-gitaroo-man.json](./11338-gitaroo-man.json) |
 | Gitaroo Man Lives! | 42813 | [42813-gitaroo-man-lives.json](./42813-gitaroo-man-lives.json) |
 | Giten Megami Tensei: Tokyo Mokushiroku | 103378 | [103378-giten-megami-tensei-tokyo-mokushiroku.json](./103378-giten-megami-tensei-tokyo-mokushiroku.json) |
@@ -3849,6 +3855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of War Sons of Sparta: Digital Deluxe Edition | 407463 | [407463-god-of-war-sons-of-sparta-digital-deluxe-edition.json](./407463-god-of-war-sons-of-sparta-digital-deluxe-edition.json) |
 | God of War Trilogy | 44653 | [44653-god-of-war-trilogy.json](./44653-god-of-war-trilogy.json) |
 | God of War Trilogy Remake | 389441 | [389441-god-of-war-trilogy-remake.json](./389441-god-of-war-trilogy-remake.json) |
+| God of War: Ascension - Collector's Edition | 154812 | [154812-god-of-war-ascension-collectors-edition.json](./154812-god-of-war-ascension-collectors-edition.json) |
 | God of War: Ascension - Special Edition | 44664 | [44664-god-of-war-ascension-special-edition.json](./44664-god-of-war-ascension-special-edition.json) |
 | God of War: Ascension - Ultimate Edition | 118907 | [118907-god-of-war-ascension-ultimate-edition.json](./118907-god-of-war-ascension-ultimate-edition.json) |
 | God of War: Betrayal | 21233 | [21233-god-of-war-betrayal.json](./21233-god-of-war-betrayal.json) |
