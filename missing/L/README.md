@@ -5178,6 +5178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost and Found Co. | 224629 | [224629-lost-and-found-co.json](./224629-lost-and-found-co.json) |
 | Lost and Foundry | 287304 | [287304-lost-and-foundry.json](./287304-lost-and-foundry.json) |
 | Lost and Hound | 116833 | [116833-lost-and-hound.json](./116833-lost-and-hound.json) |
+| Lost Angel | 143466 | [143466-lost-angel.json](./143466-lost-angel.json) |
 | Lost Artifacts: Frozen Queen | 123484 | [123484-lost-artifacts-frozen-queen.json](./123484-lost-artifacts-frozen-queen.json) |
 | Lost Artifacts: The Ghost of Florence | 420583 | [420583-lost-artifacts-the-ghost-of-florence.json](./420583-lost-artifacts-the-ghost-of-florence.json) |
 | Lost Artifacts: The Ghost of Florence - Collector's Edition | 378352 | [378352-lost-artifacts-the-ghost-of-florence-collectors-edition.json](./378352-lost-artifacts-the-ghost-of-florence-collectors-edition.json) |
@@ -5501,6 +5502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Tenet | 260213 | [260213-lost-tenet.json](./260213-lost-tenet.json) |
 | Lost The Lights | 288270 | [288270-lost-the-lights.json](./288270-lost-the-lights.json) |
 | Lost to Riches | 245900 | [245900-lost-to-riches.json](./245900-lost-to-riches.json) |
+| Lost to Time | 143446 | [143446-lost-to-time.json](./143446-lost-to-time.json) |
 | Lost Toys | 62996 | [62996-lost-toys.json](./62996-lost-toys.json) |
 | Lost Traces: Unsolved Cases - False Awakening | 280842 | [280842-lost-traces-unsolved-cases-false-awakening.json](./280842-lost-traces-unsolved-cases-false-awakening.json) |
 | Lost Traces: Unsolved Cases - Genesis | 329387 | [329387-lost-traces-unsolved-cases-genesis.json](./329387-lost-traces-unsolved-cases-genesis.json) |
