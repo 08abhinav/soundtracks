@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T17:35:07.857Z",
-  "total_missing": 207068,
+  "generated_at": "2026-10-13T17:38:28.196Z",
+  "total_missing": 207063,
   "games": [
     {
       "igdb_id": 191680,
@@ -330638,11 +330638,6 @@
       "file": "missing/F/77936-fureraba-friend-to-lover-mini-fandisk.json"
     },
     {
-      "igdb_id": 17026,
-      "game_name": "Furi",
-      "file": "missing/F/17026-furi.json"
-    },
-    {
       "igdb_id": 278637,
       "game_name": "Furi Demake: The Chain",
       "file": "missing/F/278637-furi-demake-the-chain.json"
@@ -457341,11 +457336,6 @@
       "igdb_id": 1865,
       "game_name": "Killzone",
       "file": "missing/K/1865-killzone.json"
-    },
-    {
-      "igdb_id": 1866,
-      "game_name": "Killzone 2",
-      "file": "missing/K/1866-killzone-2.json"
     },
     {
       "igdb_id": 23729,
@@ -954958,11 +954948,6 @@
       "file": "missing/T/18559-turmoil.json"
     },
     {
-      "igdb_id": 19438,
-      "game_name": "Turmoil",
-      "file": "missing/T/19438-turmoil.json"
-    },
-    {
       "igdb_id": 305530,
       "game_name": "Turmoil",
       "file": "missing/T/305530-turmoil.json"
@@ -959801,11 +959786,6 @@
       "igdb_id": 91895,
       "game_name": "Ultimate Chess 3D",
       "file": "missing/U/91895-ultimate-chess-3d.json"
-    },
-    {
-      "igdb_id": 18158,
-      "game_name": "Ultimate Chicken Horse",
-      "file": "missing/U/18158-ultimate-chicken-horse.json"
     },
     {
       "igdb_id": 159206,
@@ -1017976,11 +1017956,6 @@
       "igdb_id": 159035,
       "game_name": "XCOM Legends",
       "file": "missing/X/159035-xcom-legends.json"
-    },
-    {
-      "igdb_id": 132139,
-      "game_name": "XCOM: Chimera Squad",
-      "file": "missing/X/132139-xcom-chimera-squad.json"
     },
     {
       "igdb_id": 88607,
