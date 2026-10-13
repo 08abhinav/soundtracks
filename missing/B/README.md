@@ -2876,6 +2876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlemaster | 11947 | [11947-battlemaster.json](./11947-battlemaster.json) |
 | BattleMaster | 172045 | [172045-battlemaster.json](./172045-battlemaster.json) |
 | Battlement | 345010 | [345010-battlement.json](./345010-battlement.json) |
+| Battlemetal | 149398 | [149398-battlemetal.json](./149398-battlemetal.json) |
 | Battleminer | 77772 | [77772-battleminer.json](./77772-battleminer.json) |
 | Battleminer Giants | 322116 | [322116-battleminer-giants.json](./322116-battleminer-giants.json) |
 | Battlemon | 359514 | [359514-battlemon.json](./359514-battlemon.json) |
@@ -4928,6 +4929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Trouble in Little Garden | 183280 | [183280-big-trouble-in-little-garden.json](./183280-big-trouble-in-little-garden.json) |
 | Big Truck 4X4 Challenge | 385266 | [385266-big-truck-4x4-challenge.json](./385266-big-truck-4x4-challenge.json) |
 | Big TV Mary Bar | 48324 | [48324-big-tv-mary-bar.json](./48324-big-tv-mary-bar.json) |
+| Big Watermelon | 149358 | [149358-big-watermelon.json](./149358-big-watermelon.json) |
 | Big Watermelon Galaxy | 420677 | [420677-big-watermelon-galaxy.json](./420677-big-watermelon-galaxy.json) |
 | Big Watermelon Match | 283295 | [283295-big-watermelon-match.json](./283295-big-watermelon-match.json) |
 | Big Win Football 2019 | 108590 | [108590-big-win-football-2019.json](./108590-big-win-football-2019.json) |
@@ -6010,6 +6012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlackberryNova | 126436 | [126436-blackberrynova.json](./126436-blackberrynova.json) |
 | BlackberryNova: Sports Club | 221759 | [221759-blackberrynova-sports-club.json](./221759-blackberrynova-sports-club.json) |
 | Blackblade Revenant | 327178 | [327178-blackblade-revenant.json](./327178-blackblade-revenant.json) |
+| Blackbody Theory of Motion | 149357 | [149357-blackbody-theory-of-motion.json](./149357-blackbody-theory-of-motion.json) |
 | Blackbox | 328240 | [328240-blackbox.json](./328240-blackbox.json) |
 | Blackbox | 37056 | [37056-blackbox.json](./37056-blackbox.json) |
 | BlackBox | 130951 | [130951-blackbox.json](./130951-blackbox.json) |
@@ -6138,6 +6141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackwood Division | 373110 | [373110-blackwood-division.json](./373110-blackwood-division.json) |
 | Blackwood: Beneath the Silence | 365181 | [365181-blackwood-beneath-the-silence.json](./365181-blackwood-beneath-the-silence.json) |
 | Blackwoods | 312577 | [312577-blackwoods.json](./312577-blackwoods.json) |
+| Bladam Topaz | 149395 | [149395-bladam-topaz.json](./149395-bladam-topaz.json) |
 | Blade | 122191 | [122191-blade.json](./122191-blade.json) |
 | Blade | 14312 | [14312-blade.json](./14312-blade.json) |
 | Blade | 8719 | [8719-blade.json](./8719-blade.json) |
