@@ -12198,6 +12198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusk | 25260 | [25260-dusk.json](./25260-dusk.json) |
 | Dusk '82 | 152265 | [152265-dusk-82.json](./152265-dusk-82.json) |
 | Dusk 12: Deadly Zone | 17738 | [17738-dusk-12-deadly-zone.json](./17738-dusk-12-deadly-zone.json) |
+| Dusk Child | 134498 | [134498-dusk-child.json](./134498-dusk-child.json) |
 | Dusk Diver: Special Limited Edition | 167119 | [167119-dusk-diver-special-limited-edition.json](./167119-dusk-diver-special-limited-edition.json) |
 | Dusk Golem's Anthology of Horror | 124193 | [124193-dusk-golems-anthology-of-horror.json](./124193-dusk-golems-anthology-of-horror.json) |
 | Dusk HD | 269503 | [269503-dusk-hd.json](./269503-dusk-hd.json) |
