@@ -3583,6 +3583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion | 47145 | [47145-invasion.json](./47145-invasion.json) |
 | Invasion | 95388 | [95388-invasion.json](./95388-invasion.json) |
 | Invasion - The Abductors | 39624 | [39624-invasion-the-abductors.json](./39624-invasion-the-abductors.json) |
+| Invasion 2: Doomed | 150434 | [150434-invasion-2-doomed.json](./150434-invasion-2-doomed.json) |
 | Invasion 360 | 333665 | [333665-invasion-360.json](./333665-invasion-360.json) |
 | Invasion Deutschland | 125313 | [125313-invasion-deutschland.json](./125313-invasion-deutschland.json) |
 | Invasion Eternity | 258218 | [258218-invasion-eternity.json](./258218-invasion-eternity.json) |
