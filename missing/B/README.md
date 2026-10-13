@@ -11447,6 +11447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burninate the Barnyard | 231613 | [231613-burninate-the-barnyard.json](./231613-burninate-the-barnyard.json) |
 | Burning Angels | 266889 | [266889-burning-angels.json](./266889-burning-angels.json) |
 | Burning Angels | 37719 | [37719-burning-angels.json](./37719-burning-angels.json) |
+| Burning Ball | 169347 | [169347-burning-ball.json](./169347-burning-ball.json) |
 | Burning Calories | 255148 | [255148-burning-calories.json](./255148-burning-calories.json) |
 | Burning Daylight | 116695 | [116695-burning-daylight.json](./116695-burning-daylight.json) |
 | Burning Dead | 226777 | [226777-burning-dead.json](./226777-burning-dead.json) |
