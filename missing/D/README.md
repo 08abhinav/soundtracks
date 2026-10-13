@@ -6056,6 +6056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinkum | 120322 | [120322-dinkum.json](./120322-dinkum.json) |
 | Dinkum Together | 330952 | [330952-dinkum-together.json](./330952-dinkum-together.json) |
 | Dinky Doo | 13840 | [13840-dinky-doo.json](./13840-dinky-doo.json) |
+| Dinky Dungeon | 138507 | [138507-dinky-dungeon.json](./138507-dinky-dungeon.json) |
 | Dinky Guardians | 244516 | [244516-dinky-guardians.json](./244516-dinky-guardians.json) |
 | Dinky Rinky | 231610 | [231610-dinky-rinky.json](./231610-dinky-rinky.json) |
 | Dinner Bell | 60005 | [60005-dinner-bell.json](./60005-dinner-bell.json) |
@@ -7033,6 +7034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Divinity | 671 | [671-divine-divinity.json](./671-divine-divinity.json) |
 | Divine Doubt | 278707 | [278707-divine-doubt.json](./278707-divine-doubt.json) |
 | Divine Duel | 215026 | [215026-divine-duel.json](./215026-divine-duel.json) |
+| Divine Dungeons | 138510 | [138510-divine-dungeons.json](./138510-divine-dungeons.json) |
 | Divine Dynamo Flamefrit | 309095 | [309095-divine-dynamo-flamefrit.json](./309095-divine-dynamo-flamefrit.json) |
 | Divine Gambit | 375314 | [375314-divine-gambit.json](./375314-divine-gambit.json) |
 | Divine Gate Zero | 227486 | [227486-divine-gate-zero.json](./227486-divine-gate-zero.json) |
@@ -10476,6 +10478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamland Farm: Kitchen Furnitures | 324461 | [324461-dreamland-farm-kitchen-furnitures.json](./324461-dreamland-farm-kitchen-furnitures.json) |
 | Dreamland Farm: Stone Fence and Tiles | 324477 | [324477-dreamland-farm-stone-fence-and-tiles.json](./324477-dreamland-farm-stone-fence-and-tiles.json) |
 | Dreamland Solitaire Bundle | 309631 | [309631-dreamland-solitaire-bundle.json](./309631-dreamland-solitaire-bundle.json) |
+| Dreamland Solitaire: Dark Prophecy | 138478 | [138478-dreamland-solitaire-dark-prophecy.json](./138478-dreamland-solitaire-dark-prophecy.json) |
 | Dreamland Solitaire: Dragon's Fury | 122819 | [122819-dreamland-solitaire-dragons-fury.json](./122819-dreamland-solitaire-dragons-fury.json) |
 | Dreamland: Village Life | 208446 | [208446-dreamland-village-life.json](./208446-dreamland-village-life.json) |
 | Dreamlander | 147805 | [147805-dreamlander.json](./147805-dreamlander.json) |
@@ -10501,6 +10504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams | 286686 | [286686-dreams.json](./286686-dreams.json) |
 | Dreams and Nightmares | 146277 | [146277-dreams-and-nightmares.json](./146277-dreams-and-nightmares.json) |
 | Dreams Creator | 118197 | [118197-dreams-creator.json](./118197-dreams-creator.json) |
+| Dreams Keeper Solitaire | 138497 | [138497-dreams-keeper-solitaire.json](./138497-dreams-keeper-solitaire.json) |
 | Dreams of a Geisha | 264700 | [264700-dreams-of-a-geisha.json](./264700-dreams-of-a-geisha.json) |
 | Dreams of a Lifetime | 210588 | [210588-dreams-of-a-lifetime.json](./210588-dreams-of-a-lifetime.json) |
 | Dreams of a Visionary | 407498 | [407498-dreams-of-a-visionary.json](./407498-dreams-of-a-visionary.json) |
