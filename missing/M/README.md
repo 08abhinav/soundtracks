@@ -955,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Bakery: Deluxe Edition | 320442 | [320442-magical-bakery-deluxe-edition.json](./320442-magical-bakery-deluxe-edition.json) |
 | Magical Battle Arena | 145447 | [145447-magical-battle-arena.json](./145447-magical-battle-arena.json) |
 | Magical Battle Arena: Complete Form | 61320 | [61320-magical-battle-arena-complete-form.json](./61320-magical-battle-arena-complete-form.json) |
+| Magical Battle Cry | 169901 | [169901-magical-battle-cry.json](./169901-magical-battle-cry.json) |
 | Magical Battle Festa | 17218 | [17218-magical-battle-festa.json](./17218-magical-battle-festa.json) |
 | Magical Beat | 52549 | [52549-magical-beat.json](./52549-magical-beat.json) |
 | Magical Blaster | 151741 | [151741-magical-blaster.json](./151741-magical-blaster.json) |
@@ -8577,6 +8578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mira's Journal | 370918 | [370918-miras-journal.json](./370918-miras-journal.json) |
 | Mira's Mirage Mirror | 361691 | [361691-miras-mirage-mirror.json](./361691-miras-mirage-mirror.json) |
 | Mira's Tale | 129088 | [129088-miras-tale.json](./129088-miras-tale.json) |
+| Mira's Workshop | 169724 | [169724-miras-workshop.json](./169724-miras-workshop.json) |
 | Miracle Brave | 405560 | [405560-miracle-brave.json](./405560-miracle-brave.json) |
 | Miracle Casino Paradise | 37926 | [37926-miracle-casino-paradise.json](./37926-miracle-casino-paradise.json) |
 | Miracle Chou Party Plus: Sanae to Tenshi no Gensou Labyrinth | 206955 | [206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json](./206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json) |
@@ -9089,6 +9091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixtape | 305157 | [305157-mixtape.json](./305157-mixtape.json) |
 | Mixtape Fever | 177004 | [177004-mixtape-fever.json](./177004-mixtape-fever.json) |
 | Mixups by POWGI | 118158 | [118158-mixups-by-powgi.json](./118158-mixups-by-powgi.json) |
+| Mixx Island | 169668 | [169668-mixx-island.json](./169668-mixx-island.json) |
 | Mixx Island: Remix Plus | 244820 | [244820-mixx-island-remix-plus.json](./244820-mixx-island-remix-plus.json) |
 | Mixx Island: Remix Plus - Amazing Edition | 290431 | [290431-mixx-island-remix-plus-amazing-edition.json](./290431-mixx-island-remix-plus-amazing-edition.json) |
 | Mixx Island: Remix Plus - Complete + | 324448 | [324448-mixx-island-remix-plus-complete.json](./324448-mixx-island-remix-plus-complete.json) |
@@ -10268,6 +10271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Jam Steel Titans 2: Inverse Truck Pack | 223548 | [223548-monster-jam-steel-titans-2-inverse-truck-pack.json](./223548-monster-jam-steel-titans-2-inverse-truck-pack.json) |
 | Monster Jam: Maximum Destruction | 4019 | [4019-monster-jam-maximum-destruction.json](./4019-monster-jam-maximum-destruction.json) |
 | Monster Killer | 150762 | [150762-monster-killer.json](./150762-monster-killer.json) |
+| Monster Killer | 169728 | [169728-monster-killer.json](./169728-monster-killer.json) |
 | Monster Kingdom: Jewel Summoner | 42890 | [42890-monster-kingdom-jewel-summoner.json](./42890-monster-kingdom-jewel-summoner.json) |
 | Monster Knockout | 224755 | [224755-monster-knockout.json](./224755-monster-knockout.json) |
 | Monster Knockout: Bounce DLC | 361774 | [361774-monster-knockout-bounce-dlc.json](./361774-monster-knockout-bounce-dlc.json) |
@@ -11392,6 +11396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motion Soccer Pro | 320521 | [320521-motion-soccer-pro.json](./320521-motion-soccer-pro.json) |
 | Motion Wulin | 373515 | [373515-motion-wulin.json](./373515-motion-wulin.json) |
 | Motioning Monument | 314679 | [314679-motioning-monument.json](./314679-motioning-monument.json) |
+| Motionless | 169666 | [169666-motionless.json](./169666-motionless.json) |
 | Motionrec | 275847 | [275847-motionrec.json](./275847-motionrec.json) |
 | Motionrec | 290075 | [290075-motionrec.json](./290075-motionrec.json) |
 | MotionSports: Adrenaline | 20215 | [20215-motionsports-adrenaline.json](./20215-motionsports-adrenaline.json) |
@@ -12044,6 +12049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Nutz: Hoppin' Mad | 39030 | [39030-mr-nutz-hoppin-mad.json](./39030-mr-nutz-hoppin-mad.json) |
 | Mr. Onion | 246354 | [246354-mr-onion.json](./246354-mr-onion.json) |
 | Mr. Parkour | 141034 | [141034-mr-parkour.json](./141034-mr-parkour.json) |
+| Mr. Parkour 2 | 169725 | [169725-mr-parkour-2.json](./169725-mr-parkour-2.json) |
 | Mr. Parkour 3 | 141153 | [141153-mr-parkour-3.json](./141153-mr-parkour-3.json) |
 | Mr. Pencil Presents DoodleCraft | 230332 | [230332-mr-pencil-presents-doodlecraft.json](./230332-mr-pencil-presents-doodlecraft.json) |
 | Mr. Photographer | 292750 | [292750-mr-photographer.json](./292750-mr-photographer.json) |
@@ -13419,6 +13425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Love Match | 240855 | [240855-my-love-match.json](./240855-my-love-match.json) |
 | My Love With The GirlsGroup | 292418 | [292418-my-love-with-the-girlsgroup.json](./292418-my-love-with-the-girlsgroup.json) |
 | My Lovely Cat: Remastered | 325733 | [325733-my-lovely-cat-remastered.json](./325733-my-lovely-cat-remastered.json) |
+| My Lovely Daughter: The Inquisitor | 170233 | [170233-my-lovely-daughter-the-inquisitor.json](./170233-my-lovely-daughter-the-inquisitor.json) |
 | My Lovely Dog Adventure | 263231 | [263231-my-lovely-dog-adventure.json](./263231-my-lovely-dog-adventure.json) |
 | My Lovely Family Bundle | 223563 | [223563-my-lovely-family-bundle.json](./223563-my-lovely-family-bundle.json) |
 | My Lovely Flower | 373659 | [373659-my-lovely-flower.json](./373659-my-lovely-flower.json) |
