@@ -7580,6 +7580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreeCraft Survival Pocket Edition | 338777 | [338777-freecraft-survival-pocket-edition.json](./338777-freecraft-survival-pocket-edition.json) |
 | Freed Software | 220024 | [220024-freed-software.json](./220024-freed-software.json) |
 | FreeDiver: Triton Down | 117797 | [117797-freediver-triton-down.json](./117797-freediver-triton-down.json) |
+| Freedom | 148833 | [148833-freedom.json](./148833-freedom.json) |
 | Freedom | 271995 | [271995-freedom.json](./271995-freedom.json) |
 | Freedom Bridge | 115034 | [115034-freedom-bridge.json](./115034-freedom-bridge.json) |
 | Freedom Cry | 34653 | [34653-freedom-cry.json](./34653-freedom-cry.json) |
@@ -7696,6 +7697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frequency Dissonance | 199120 | [199120-frequency-dissonance.json](./199120-frequency-dissonance.json) |
 | Frequency Garden | 126522 | [126522-frequency-garden.json](./126522-frequency-garden.json) |
 | Frequency Sync | 130241 | [130241-frequency-sync.json](./130241-frequency-sync.json) |
+| Frequency: Chernobyl - First Signal | 148853 | [148853-frequency-chernobyl-first-signal.json](./148853-frequency-chernobyl-first-signal.json) |
 | Frequent Flyer | 30585 | [30585-frequent-flyer.json](./30585-frequent-flyer.json) |
 | Fresh Body | 30666 | [30666-fresh-body.json](./30666-fresh-body.json) |
 | Fresh Catch! | 346712 | [346712-fresh-catch.json](./346712-fresh-catch.json) |
