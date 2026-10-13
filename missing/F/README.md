@@ -2822,6 +2822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiend Hunter | 42000 | [42000-fiend-hunter.json](./42000-fiend-hunter.json) |
 | Fiend Hunter | 55897 | [55897-fiend-hunter.json](./55897-fiend-hunter.json) |
 | Fiend Legion | 110393 | [110393-fiend-legion.json](./110393-fiend-legion.json) |
+| Fiend's Isle | 144739 | [144739-fiends-isle.json](./144739-fiends-isle.json) |
 | Fiendish Freddy's Big Top O' Fun | 12095 | [12095-fiendish-freddys-big-top-o-fun.json](./12095-fiendish-freddys-big-top-o-fun.json) |
 | Fiendish Thieves | 156998 | [156998-fiendish-thieves.json](./156998-fiendish-thieves.json) |
 | Fiends of Imprisonment | 34265 | [34265-fiends-of-imprisonment.json](./34265-fiends-of-imprisonment.json) |
@@ -3367,6 +3368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VII Revelation: Summoning Materia - Polydroid Alexander | 416151 | [416151-final-fantasy-vii-revelation-summoning-materia-polydroid-alexander.json](./416151-final-fantasy-vii-revelation-summoning-materia-polydroid-alexander.json) |
 | Final Fantasy VII Snowboarding | 127832 | [127832-final-fantasy-vii-snowboarding.json](./127832-final-fantasy-vii-snowboarding.json) |
 | Final Fantasy VII: Ever Crisis | 144040 | [144040-final-fantasy-vii-ever-crisis.json](./144040-final-fantasy-vii-ever-crisis.json) |
+| Final Fantasy VII: New Threat Mod | 144689 | [144689-final-fantasy-vii-new-threat-mod.json](./144689-final-fantasy-vii-new-threat-mod.json) |
 | Final Fantasy VII: Regenesis | 394328 | [394328-final-fantasy-vii-regenesis.json](./394328-final-fantasy-vii-regenesis.json) |
 | Final Fantasy VIII | 203538 | [203538-final-fantasy-viii.json](./203538-final-fantasy-viii.json) |
 | Final Fantasy VIII Remastered | 119374 | [119374-final-fantasy-viii-remastered.json](./119374-final-fantasy-viii-remastered.json) |
@@ -3562,6 +3564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finally Free | 290625 | [290625-finally-free.json](./290625-finally-free.json) |
 | Financial Football | 91919 | [91919-financial-football.json](./91919-financial-football.json) |
 | Financial Freedom | 397824 | [397824-financial-freedom.json](./397824-financial-freedom.json) |
+| Finc Home Fit | 144726 | [144726-finc-home-fit.json](./144726-finc-home-fit.json) |
 | Fincester Tower | 236404 | [236404-fincester-tower.json](./236404-fincester-tower.json) |
 | Finch | 304902 | [304902-finch.json](./304902-finch.json) |
 | Finch & Archie | 306095 | [306095-finch-and-archie.json](./306095-finch-and-archie.json) |
