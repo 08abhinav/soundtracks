@@ -2068,6 +2068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DDRMax2: Dance Dance Revolution | 44711 | [44711-ddrmax2-dance-dance-revolution.json](./44711-ddrmax2-dance-dance-revolution.json) |
 | DDS Defenders Dark Side | 214726 | [214726-dds-defenders-dark-side.json](./214726-dds-defenders-dark-side.json) |
 | DDS x Narcos | 277260 | [277260-dds-x-narcos.json](./277260-dds-x-narcos.json) |
+| DDTank | 146050 | [146050-ddtank.json](./146050-ddtank.json) |
 | de Blob | 2637 | [2637-de-blob.json](./2637-de-blob.json) |
 | De Blob | 233776 | [233776-de-blob.json](./233776-de-blob.json) |
 | De Blob 2 | 4796 | [4796-de-blob-2.json](./4796-de-blob-2.json) |
@@ -6854,6 +6855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disposable Corps | 343468 | [343468-disposable-corps.json](./343468-disposable-corps.json) |
 | Disposable Hero | 12048 | [12048-disposable-hero.json](./12048-disposable-hero.json) |
 | Disposable Heroes | 14037 | [14037-disposable-heroes.json](./14037-disposable-heroes.json) |
+| Disposable Heroes | 146079 | [146079-disposable-heroes.json](./146079-disposable-heroes.json) |
 | Disposable heroes 2 : The curse that killed a queen | 173193 | [173193-disposable-heroes-2-the-curse-that-killed-a-queen.json](./173193-disposable-heroes-2-the-curse-that-killed-a-queen.json) |
 | Disposal Of Otherworldly Monsters | 271223 | [271223-disposal-of-otherworldly-monsters.json](./271223-disposal-of-otherworldly-monsters.json) |
 | Disposition | 318007 | [318007-disposition.json](./318007-disposition.json) |
