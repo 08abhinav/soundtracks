@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kami: The Great Guardian | 408034 | [408034-kami-the-great-guardian.json](./408034-kami-the-great-guardian.json) |
 | Kamibako: Mythology of Cube | 212986 | [212986-kamibako-mythology-of-cube.json](./212986-kamibako-mythology-of-cube.json) |
 | Kamigami no Asobi InFinite | 136474 | [136474-kamigami-no-asobi-infinite.json](./136474-kamigami-no-asobi-infinite.json) |
+| Kamigami no Asobi Ludere Deorum: Unite Edition | 165172 | [165172-kamigami-no-asobi-ludere-deorum-unite-edition.json](./165172-kamigami-no-asobi-ludere-deorum-unite-edition.json) |
 | Kamigami no Asobi: Ludere Deorum | 125461 | [125461-kamigami-no-asobi-ludere-deorum.json](./125461-kamigami-no-asobi-ludere-deorum.json) |
 | Kamigami: Spirits of the Nature | 258004 | [258004-kamigami-spirits-of-the-nature.json](./258004-kamigami-spirits-of-the-nature.json) |
 | Kamihi yori: Tokiori-hen | 288827 | [288827-kamihi-yori-tokiori-hen.json](./288827-kamihi-yori-tokiori-hen.json) |
