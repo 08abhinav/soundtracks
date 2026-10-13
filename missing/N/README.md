@@ -3884,6 +3884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Sleep for Sole | 267362 | [267362-no-sleep-for-sole.json](./267362-no-sleep-for-sole.json) |
 | No Son of Mine | 201314 | [201314-no-son-of-mine.json](./201314-no-son-of-mine.json) |
 | No Stars No Problem | 323279 | [323279-no-stars-no-problem.json](./323279-no-stars-no-problem.json) |
+| No Stars, Only Constellations | 176935 | [176935-no-stars-only-constellations.json](./176935-no-stars-only-constellations.json) |
 | No Stick Shooter | 28910 | [28910-no-stick-shooter.json](./28910-no-stick-shooter.json) |
 | No Stone Unturned | 253883 | [253883-no-stone-unturned.json](./253883-no-stone-unturned.json) |
 | No Straight Roads | 114783 | [114783-no-straight-roads.json](./114783-no-straight-roads.json) |
@@ -4554,6 +4555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Pacman | 135091 | [135091-not-pacman.json](./135091-not-pacman.json) |
 | Not Pinball | 175734 | [175734-not-pinball.json](./175734-not-pinball.json) |
 | Not Quite Dead | 414336 | [414336-not-quite-dead.json](./414336-not-quite-dead.json) |
+| Not seafoam | 176937 | [176937-not-seafoam.json](./176937-not-seafoam.json) |
 | Not So Heart | 117801 | [117801-not-so-heart.json](./117801-not-so-heart.json) |
 | Not So Middle Ages | 98775 | [98775-not-so-middle-ages.json](./98775-not-so-middle-ages.json) |
 | Not so Simple Sonic Advance 2 Worlds | 294405 | [294405-not-so-simple-sonic-advance-2-worlds.json](./294405-not-so-simple-sonic-advance-2-worlds.json) |
