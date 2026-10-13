@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tae Bo Girl Dress Up | 62596 | [62596-tae-bo-girl-dress-up.json](./62596-tae-bo-girl-dress-up.json) |
 | TaekwonGirl | 329087 | [329087-taekwongirl.json](./329087-taekwongirl.json) |
 | Taern | 55929 | [55929-taern.json](./55929-taern.json) |
+| Tafl Champions: Ancient Chess | 159577 | [159577-tafl-champions-ancient-chess.json](./159577-tafl-champions-ancient-chess.json) |
 | Tafl PTK | 296997 | [296997-tafl-ptk.json](./296997-tafl-ptk.json) |
 | Taflheim | 415313 | [415313-taflheim.json](./415313-taflheim.json) |
 | Tag | 359004 | [359004-tag.json](./359004-tag.json) |
@@ -551,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taisho Romance Theater | 366031 | [366031-taisho-romance-theater.json](./366031-taisho-romance-theater.json) |
 | Taisho Taxi Service | 274938 | [274938-taisho-taxi-service.json](./274938-taisho-taxi-service.json) |
 | Taisho x Alice Epilogue | 153498 | [153498-taisho-x-alice-epilogue.json](./153498-taisho-x-alice-epilogue.json) |
+| Taisho x Alice: Episode 2 | 158955 | [158955-taisho-x-alice-episode-2.json](./158955-taisho-x-alice-episode-2.json) |
 | Taisho x Alice: Episode 3 | 150505 | [150505-taisho-x-alice-episode-3.json](./150505-taisho-x-alice-episode-3.json) |
 | Taisho x Alice: Heads & Tails! | 201613 | [201613-taisho-x-alice-heads-and-tails.json](./201613-taisho-x-alice-heads-and-tails.json) |
 | Taisho Yakyuu Musume: Otometachi no Seishun Nikki | 269515 | [269515-taisho-yakyuu-musume-otometachi-no-seishun-nikki.json](./269515-taisho-yakyuu-musume-otometachi-no-seishun-nikki.json) |
@@ -1413,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tankette | 207282 | [207282-tankette.json](./207282-tankette.json) |
 | Tankex | 117436 | [117436-tankex.json](./117436-tankex.json) |
 | TankFall Arena | 406845 | [406845-tankfall-arena.json](./406845-tankfall-arena.json) |
+| Tankfight | 159537 | [159537-tankfight.json](./159537-tankfight.json) |
 | TankHead | 324944 | [324944-tankhead.json](./324944-tankhead.json) |
 | Tanki 2.0 | 344902 | [344902-tanki-2-0.json](./344902-tanki-2-0.json) |
 | Tanki 2011 | 298833 | [298833-tanki-2011.json](./298833-tanki-2011.json) |
@@ -3829,6 +3832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazeing Labyrinth | 57085 | [57085-the-amazeing-labyrinth.json](./57085-the-amazeing-labyrinth.json) |
 | The Amazing Adventures of ANSI Dude | 79231 | [79231-the-amazing-adventures-of-ansi-dude.json](./79231-the-amazing-adventures-of-ansi-dude.json) |
 | The Amazing American Circus: The Ringmaster's Edition | 159701 | [159701-the-amazing-american-circus-the-ringmasters-edition.json](./159701-the-amazing-american-circus-the-ringmasters-edition.json) |
+| The Amazing Ball | 159555 | [159555-the-amazing-ball.json](./159555-the-amazing-ball.json) |
 | The Amazing Brain Train! | 21379 | [21379-the-amazing-brain-train.json](./21379-the-amazing-brain-train.json) |
 | The Amazing Dare Dozen | 241471 | [241471-the-amazing-dare-dozen.json](./241471-the-amazing-dare-dozen.json) |
 | The Amazing Eternals | 31189 | [31189-the-amazing-eternals.json](./31189-the-amazing-eternals.json) |
@@ -5265,6 +5269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Fever | 210551 | [210551-the-dark-fever.json](./210551-the-dark-fever.json) |
 | The Dark Half | 71515 | [71515-the-dark-half.json](./71515-the-dark-half.json) |
 | The Dark Heart of Balor | 199483 | [199483-the-dark-heart-of-balor.json](./199483-the-dark-heart-of-balor.json) |
+| The Dark Hills of Cherai 2: The Regal Scepter | 158947 | [158947-the-dark-hills-of-cherai-2-the-regal-scepter.json](./158947-the-dark-hills-of-cherai-2-the-regal-scepter.json) |
 | The Dark House | 267949 | [267949-the-dark-house.json](./267949-the-dark-house.json) |
 | The Dark Inside Me | 99005 | [99005-the-dark-inside-me.json](./99005-the-dark-inside-me.json) |
 | The Dark is a Soft, Warm Pressure | 276921 | [276921-the-dark-is-a-soft-warm-pressure.json](./276921-the-dark-is-a-soft-warm-pressure.json) |
@@ -6225,6 +6230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Finest Spark | 408235 | [408235-the-finest-spark.json](./408235-the-finest-spark.json) |
 | The Finnish War | 195573 | [195573-the-finnish-war.json](./195573-the-finnish-war.json) |
 | The Finnish War x Sotidrokhima: Finlandsaga | 269188 | [269188-the-finnish-war-x-sotidrokhima-finlandsaga.json](./269188-the-finnish-war-x-sotidrokhima-finlandsaga.json) |
+| The Fire | 159573 | [159573-the-fire.json](./159573-the-fire.json) |
 | The Fire Chief Compilation | 145261 | [145261-the-fire-chief-compilation.json](./145261-the-fire-chief-compilation.json) |
 | The Fire Nobody Started | 332067 | [332067-the-fire-nobody-started.json](./332067-the-fire-nobody-started.json) |
 | The Fire Rises | 321742 | [321742-the-fire-rises.json](./321742-the-fire-rises.json) |
@@ -9465,6 +9471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Old Village Story | 62794 | [62794-the-old-village-story.json](./62794-the-old-village-story.json) |
 | The Old War | 201479 | [201479-the-old-war.json](./201479-the-old-war.json) |
 | The Old Ways | 356756 | [356756-the-old-ways.json](./356756-the-old-ways.json) |
+| The Old West Savior | 159580 | [159580-the-old-west-savior.json](./159580-the-old-west-savior.json) |
 | The Oldest Edda | 190721 | [190721-the-oldest-edda.json](./190721-the-oldest-edda.json) |
 | The Oliver Twins Collection | 136367 | [136367-the-oliver-twins-collection.json](./136367-the-oliver-twins-collection.json) |
 | The Olympics | 13260 | [13260-the-olympics.json](./13260-the-olympics.json) |
@@ -10902,6 +10909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Sweet Slumber Party Kit | 330390 | [330390-the-sims-4-sweet-slumber-party-kit.json](./330390-the-sims-4-sweet-slumber-party-kit.json) |
 | The Sims 4: Tea Time Solarium Kit | 404224 | [404224-the-sims-4-tea-time-solarium-kit.json](./404224-the-sims-4-tea-time-solarium-kit.json) |
 | The Sims 4: The Daring Lifestyle Bundle | 249484 | [249484-the-sims-4-the-daring-lifestyle-bundle.json](./249484-the-sims-4-the-daring-lifestyle-bundle.json) |
+| The Sims 4: Throwback Fit Kit | 158965 | [158965-the-sims-4-throwback-fit-kit.json](./158965-the-sims-4-throwback-fit-kit.json) |
 | The Sims 4: Tiny Living Stuff | 129132 | [129132-the-sims-4-tiny-living-stuff.json](./129132-the-sims-4-tiny-living-stuff.json) |
 | The Sims 4: Toddler Stuff | 54696 | [54696-the-sims-4-toddler-stuff.json](./54696-the-sims-4-toddler-stuff.json) |
 | The Sims 4: Vintage Glamour Stuff | 121025 | [121025-the-sims-4-vintage-glamour-stuff.json](./121025-the-sims-4-vintage-glamour-stuff.json) |
@@ -11429,6 +11437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Teletransport Smurf | 135833 | [135833-the-teletransport-smurf.json](./135833-the-teletransport-smurf.json) |
 | The Telltale Games Collection | 99799 | [99799-the-telltale-games-collection.json](./99799-the-telltale-games-collection.json) |
 | The Telltale Undead Survival Bundle | 82408 | [82408-the-telltale-undead-survival-bundle.json](./82408-the-telltale-undead-survival-bundle.json) |
+| The Telos Monument | 158930 | [158930-the-telos-monument.json](./158930-the-telos-monument.json) |
 | The Telwynium | 179663 | [179663-the-telwynium.json](./179663-the-telwynium.json) |
 | The Telwynium | 404830 | [404830-the-telwynium.json](./404830-the-telwynium.json) |
 | The Tempest | 217775 | [217775-the-tempest.json](./217775-the-tempest.json) |
@@ -12582,6 +12591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Word is Not the Thing | 74468 | [74468-the-word-is-not-the-thing.json](./74468-the-word-is-not-the-thing.json) |
 | The Wordland Scape | 183807 | [183807-the-wordland-scape.json](./183807-the-wordland-scape.json) |
 | The Words Within | 191657 | [191657-the-words-within.json](./191657-the-words-within.json) |
+| The World | 158923 | [158923-the-world.json](./158923-the-world.json) |
 | The World 3: Rise of Demon | 91965 | [91965-the-world-3-rise-of-demon.json](./91965-the-world-3-rise-of-demon.json) |
 | The World A Robot Girl Dream Of | 82871 | [82871-the-world-a-robot-girl-dream-of.json](./82871-the-world-a-robot-girl-dream-of.json) |
 | The World According to Girl | 192823 | [192823-the-world-according-to-girl.json](./192823-the-world-according-to-girl.json) |
@@ -12709,6 +12719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thea is Drowning | 179072 | [179072-thea-is-drowning.json](./179072-thea-is-drowning.json) |
 | Thea Realm Fighters | 270273 | [270273-thea-realm-fighters.json](./270273-thea-realm-fighters.json) |
 | Thea: The Awakening - Return of the Giants | 171334 | [171334-thea-the-awakening-return-of-the-giants.json](./171334-thea-the-awakening-return-of-the-giants.json) |
+| Thearchy | 158929 | [158929-thearchy.json](./158929-thearchy.json) |
 | Theater of Death | 206191 | [206191-theater-of-death.json](./206191-theater-of-death.json) |
 | Theater of the Mind | 366286 | [366286-theater-of-the-mind.json](./366286-theater-of-the-mind.json) |
 | Theatre of Death | 15483 | [15483-theatre-of-death.json](./15483-theatre-of-death.json) |
@@ -13371,6 +13382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Nights Escape | 315589 | [315589-three-nights-escape.json](./315589-three-nights-escape.json) |
 | Three Nights Four Days! Very H Camping School With Teachers All Missing | 98499 | [98499-three-nights-four-days-very-h-camping-school-with-teachers-all-missing.json](./98499-three-nights-four-days-very-h-camping-school-with-teachers-all-missing.json) |
 | Three of a Fish | 123546 | [123546-three-of-a-fish.json](./123546-three-of-a-fish.json) |
+| Three of Cards | 159564 | [159564-three-of-cards.json](./159564-three-of-cards.json) |
 | Three of Us | 181753 | [181753-three-of-us.json](./181753-three-of-us.json) |
 | Three Random Archives | 265114 | [265114-three-random-archives.json](./265114-three-random-archives.json) |
 | Three Six Nine | 362985 | [362985-three-six-nine.json](./362985-three-six-nine.json) |
@@ -16408,6 +16420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege X | 349484 | [349484-tom-clancys-rainbow-six-siege-x.json](./349484-tom-clancys-rainbow-six-siege-x.json) |
 | Tom Clancy's Rainbow Six Siege: Complete Edition | 53820 | [53820-tom-clancys-rainbow-six-siege-complete-edition.json](./53820-tom-clancys-rainbow-six-siege-complete-edition.json) |
 | Tom Clancy's Rainbow Six Siege: Deluxe Edition | 118882 | [118882-tom-clancys-rainbow-six-siege-deluxe-edition.json](./118882-tom-clancys-rainbow-six-siege-deluxe-edition.json) |
+| Tom Clancy's Rainbow Six Siege: North Star | 158944 | [158944-tom-clancys-rainbow-six-siege-north-star.json](./158944-tom-clancys-rainbow-six-siege-north-star.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Blood Orchid | 55167 | [55167-tom-clancys-rainbow-six-siege-operation-blood-orchid.json](./55167-tom-clancys-rainbow-six-siege-operation-blood-orchid.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Brutal Swarm | 217522 | [217522-tom-clancys-rainbow-six-siege-operation-brutal-swarm.json](./217522-tom-clancys-rainbow-six-siege-operation-brutal-swarm.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Neon Dawn | 141194 | [141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json](./141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json) |
@@ -16862,6 +16875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tootuff: Mission Nadia | 48037 | [48037-tootuff-mission-nadia.json](./48037-tootuff-mission-nadia.json) |
 | Top Banana | 69564 | [69564-top-banana.json](./69564-top-banana.json) |
 | Top Bike: Racing & Moto Drag | 187455 | [187455-top-bike-racing-and-moto-drag.json](./187455-top-bike-racing-and-moto-drag.json) |
+| Top Billiards | 159547 | [159547-top-billiards.json](./159547-top-billiards.json) |
 | Top Bowler | 172654 | [172654-top-bowler.json](./172654-top-bowler.json) |
 | Top Burger | 117102 | [117102-top-burger.json](./117102-top-burger.json) |
 | Top Check | 331986 | [331986-top-check.json](./331986-top-check.json) |
@@ -21859,6 +21873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TY the Tasmanian Tiger 4 | 12876 | [12876-ty-the-tasmanian-tiger-4.json](./12876-ty-the-tasmanian-tiger-4.json) |
 | TY the Tasmanian Tiger 4: Bush Rescue Returns | 264559 | [264559-ty-the-tasmanian-tiger-4-bush-rescue-returns.json](./264559-ty-the-tasmanian-tiger-4-bush-rescue-returns.json) |
 | Ty the Tasmanian Tiger 4: Gunyip! | 307671 | [307671-ty-the-tasmanian-tiger-4-gunyip.json](./307671-ty-the-tasmanian-tiger-4-gunyip.json) |
+| TY the Tasmanian Tiger HD + TY the Tasmanian Tiger 2: Bush Rescue HD Bundle | 158950 | [158950-ty-the-tasmanian-tiger-hd-ty-the-tasmanian-tiger-2-bush-rescue-hd-bundle.json](./158950-ty-the-tasmanian-tiger-hd-ty-the-tasmanian-tiger-2-bush-rescue-hd-bundle.json) |
 | Ty the Tasmanian Tiger: Bush Rescue Bundle | 336490 | [336490-ty-the-tasmanian-tiger-bush-rescue-bundle.json](./336490-ty-the-tasmanian-tiger-bush-rescue-bundle.json) |
 | Tyalband | 276310 | [276310-tyalband.json](./276310-tyalband.json) |
 | Tybot Invasion: The Typing Runner | 151568 | [151568-tybot-invasion-the-typing-runner.json](./151568-tybot-invasion-the-typing-runner.json) |
