@@ -1268,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazy Chess | 142734 | [142734-lazy-chess.json](./142734-lazy-chess.json) |
 | Lazy Climbers | 400464 | [400464-lazy-climbers.json](./400464-lazy-climbers.json) |
 | Lazy Galaxy: Rebel Story | 102624 | [102624-lazy-galaxy-rebel-story.json](./102624-lazy-galaxy-rebel-story.json) |
+| Lazy gang | 157910 | [157910-lazy-gang.json](./157910-lazy-gang.json) |
 | Lazy Kickers | 407559 | [407559-lazy-kickers.json](./407559-lazy-kickers.json) |
 | Lazy Paper | 415884 | [415884-lazy-paper.json](./415884-lazy-paper.json) |
 | Lazy Pirates | 180752 | [180752-lazy-pirates.json](./180752-lazy-pirates.json) |
