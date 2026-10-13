@@ -5644,6 +5644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship on Wheels | 311574 | [311574-ship-on-wheels.json](./311574-ship-on-wheels.json) |
 | Ship Regulus | 263970 | [263970-ship-regulus.json](./263970-ship-regulus.json) |
 | Ship Shape | 263590 | [263590-ship-shape.json](./263590-ship-shape.json) |
+| Ship Shifters | 151487 | [151487-ship-shifters.json](./151487-ship-shifters.json) |
 | Ship Sim 2020 | 146819 | [146819-ship-sim-2020.json](./146819-ship-sim-2020.json) |
 | Ship Simulator | 327584 | [327584-ship-simulator.json](./327584-ship-simulator.json) |
 | Ship Simulator 2006: Collector's Edition | 51361 | [51361-ship-simulator-2006-collectors-edition.json](./51361-ship-simulator-2006-collectors-edition.json) |
@@ -6752,6 +6753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Doom | 180086 | [180086-silent-doom.json](./180086-silent-doom.json) |
 | Silent Dragon US | 39850 | [39850-silent-dragon-us.json](./39850-silent-dragon-us.json) |
 | Silent Dread: Last Order | 408116 | [408116-silent-dread-last-order.json](./408116-silent-dread-last-order.json) |
+| Silent Earth | 151495 | [151495-silent-earth.json](./151495-silent-earth.json) |
 | Silent Escape: Induction | 127945 | [127945-silent-escape-induction.json](./127945-silent-escape-induction.json) |
 | Silent Fangs: Stealthy Vampire's Tale | 371264 | [371264-silent-fangs-stealthy-vampires-tale.json](./371264-silent-fangs-stealthy-vampires-tale.json) |
 | Silent Forest: Deadly Night Horror | 330404 | [330404-silent-forest-deadly-night-horror.json](./330404-silent-forest-deadly-night-horror.json) |
@@ -7707,6 +7709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate City Heroes | 21120 | [21120-skate-city-heroes.json](./21120-skate-city-heroes.json) |
 | Skate City: New York | 324872 | [324872-skate-city-new-york.json](./324872-skate-city-new-york.json) |
 | Skate Fish | 318004 | [318004-skate-fish.json](./318004-skate-fish.json) |
+| Skate Forever | 151497 | [151497-skate-forever.json](./151497-skate-forever.json) |
 | Skate Hooligans | 182546 | [182546-skate-hooligans.json](./182546-skate-hooligans.json) |
 | Skate It | 352870 | [352870-skate-it.json](./352870-skate-it.json) |
 | Skate It | 5157 | [5157-skate-it.json](./5157-skate-it.json) |
@@ -10146,6 +10149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowtracked | 216888 | [216888-snowtracked.json](./216888-snowtracked.json) |
 | Snowy Flag | 291444 | [291444-snowy-flag.json](./291444-snowy-flag.json) |
 | Snowy Leaps | 233436 | [233436-snowy-leaps.json](./233436-snowy-leaps.json) |
+| Snowy Love | 151458 | [151458-snowy-love.json](./151458-snowy-love.json) |
 | Snowy Mountain | 235744 | [235744-snowy-mountain.json](./235744-snowy-mountain.json) |
 | Snowy: Fish Frenzy | 71519 | [71519-snowy-fish-frenzy.json](./71519-snowy-fish-frenzy.json) |
 | Snowy: Lunch Rush | 73289 | [73289-snowy-lunch-rush.json](./73289-snowy-lunch-rush.json) |
@@ -14360,6 +14364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of Maya | 29903 | [29903-spirit-of-maya.json](./29903-spirit-of-maya.json) |
 | Spirit of Revenge: Gem Fury | 53652 | [53652-spirit-of-revenge-gem-fury.json](./53652-spirit-of-revenge-gem-fury.json) |
 | Spirit of the Backwaters | 248076 | [248076-spirit-of-the-backwaters.json](./248076-spirit-of-the-backwaters.json) |
+| Spirit of the Blade | 151480 | [151480-spirit-of-the-blade.json](./151480-spirit-of-the-blade.json) |
 | Spirit of the Island | 152373 | [152373-spirit-of-the-island.json](./152373-spirit-of-the-island.json) |
 | Spirit of the Island: Beach Resort | 251664 | [251664-spirit-of-the-island-beach-resort.json](./251664-spirit-of-the-island-beach-resort.json) |
 | Spirit of the Lilies | 326687 | [326687-spirit-of-the-lilies.json](./326687-spirit-of-the-lilies.json) |
@@ -15055,6 +15060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpyLens: Sex in focus | 368622 | [368622-spylens-sex-in-focus.json](./368622-spylens-sex-in-focus.json) |
 | Spymaster | 235249 | [235249-spymaster.json](./235249-spymaster.json) |
 | Spymaster | 395813 | [395813-spymaster.json](./395813-spymaster.json) |
+| SpyNames | 151483 | [151483-spynames.json](./151483-spynames.json) |
 | Spyragon | 227809 | [227809-spyragon.json](./227809-spyragon.json) |
 | Spyrazoid | 227833 | [227833-spyrazoid.json](./227833-spyrazoid.json) |
 | Spyrit Walker | 304872 | [304872-spyrit-walker.json](./304872-spyrit-walker.json) |
@@ -15187,6 +15193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squares of Hell | 304612 | [304612-squares-of-hell.json](./304612-squares-of-hell.json) |
 | Squares Proximity | 366332 | [366332-squares-proximity.json](./366332-squares-proximity.json) |
 | Squares Puzzle | 334824 | [334824-squares-puzzle.json](./334824-squares-puzzle.json) |
+| Squares Rage | 151508 | [151508-squares-rage.json](./151508-squares-rage.json) |
 | Squares Story | 143944 | [143944-squares-story.json](./143944-squares-story.json) |
 | Squareverse | 390664 | [390664-squareverse.json](./390664-squareverse.json) |
 | Squarewave Maker | 90139 | [90139-squarewave-maker.json](./90139-squarewave-maker.json) |
