@@ -1363,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss of Light | 283876 | [283876-abyss-of-light.json](./283876-abyss-of-light.json) |
 | Abyss of Neptune | 145563 | [145563-abyss-of-neptune.json](./145563-abyss-of-neptune.json) |
 | Abyss Of Pleasure | 379549 | [379549-abyss-of-pleasure.json](./379549-abyss-of-pleasure.json) |
+| Abyss of the Sacrifice | 145397 | [145397-abyss-of-the-sacrifice.json](./145397-abyss-of-the-sacrifice.json) |
 | Abyss Pact | 339129 | [339129-abyss-pact.json](./339129-abyss-pact.json) |
 | Abyss Prowler | 383581 | [383581-abyss-prowler.json](./383581-abyss-prowler.json) |
 | Abyss Rebel | 357415 | [357415-abyss-rebel.json](./357415-abyss-rebel.json) |
@@ -7793,6 +7794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Cosmo Police Galivan | 99566 | [99566-arcade-archives-cosmo-police-galivan.json](./99566-arcade-archives-cosmo-police-galivan.json) |
 | Arcade Archives: Crazy Balloon | 351223 | [351223-arcade-archives-crazy-balloon.json](./351223-arcade-archives-crazy-balloon.json) |
 | Arcade Archives: Crime Fighters | 147106 | [147106-arcade-archives-crime-fighters.json](./147106-arcade-archives-crime-fighters.json) |
+| Arcade Archives: Cybattler | 145373 | [145373-arcade-archives-cybattler.json](./145373-arcade-archives-cybattler.json) |
 | Arcade Archives: Cyber Cycles | 414882 | [414882-arcade-archives-cyber-cycles.json](./414882-arcade-archives-cyber-cycles.json) |
 | Arcade Archives: Dacholer | 370269 | [370269-arcade-archives-dacholer.json](./370269-arcade-archives-dacholer.json) |
 | Arcade Archives: Darius | 121426 | [121426-arcade-archives-darius.json](./121426-arcade-archives-darius.json) |
@@ -9654,6 +9656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Brotherhood: The Da Vinci Disappearance | 8216 | [8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json](./8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json) |
 | Assassin's Creed Chronicles: India | 14902 | [14902-assassins-creed-chronicles-india.json](./14902-assassins-creed-chronicles-india.json) |
 | Assassin's Creed Ezio Auditore Pack | 219007 | [219007-assassins-creed-ezio-auditore-pack.json](./219007-assassins-creed-ezio-auditore-pack.json) |
+| Assassin's Creed I+II Welcome Pack | 145406 | [145406-assassins-creed-i-ii-welcome-pack.json](./145406-assassins-creed-i-ii-welcome-pack.json) |
 | Assassin's Creed Identity | 17028 | [17028-assassins-creed-identity.json](./17028-assassins-creed-identity.json) |
 | Assassin's Creed II Game of the Year Edition + Assassin's Creed | 353891 | [353891-assassins-creed-ii-game-of-the-year-edition-assassins-creed.json](./353891-assassins-creed-ii-game-of-the-year-edition-assassins-creed.json) |
 | Assassin's Creed II: Battle of Forlì | 9562 | [9562-assassins-creed-ii-battle-of-forli.json](./9562-assassins-creed-ii-battle-of-forli.json) |
@@ -11304,6 +11307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aventia | 187219 | [187219-aventia.json](./187219-aventia.json) |
 | Aventura Copilului Albastru și Urât | 198321 | [198321-aventura-copilului-albastru-si-urat.json](./198321-aventura-copilului-albastru-si-urat.json) |
 | Aventura de Luigi | 322003 | [322003-aventura-de-luigi.json](./322003-aventura-de-luigi.json) |
+| Aventura na Selva com Gilberto Barros | 145386 | [145386-aventura-na-selva-com-gilberto-barros.json](./145386-aventura-na-selva-com-gilberto-barros.json) |
 | Aventuras na Selva | 215309 | [215309-aventuras-na-selva.json](./215309-aventuras-na-selva.json) |
 | Average Human Ball Game | 349368 | [349368-average-human-ball-game.json](./349368-average-human-ball-game.json) |
 | Average Maria Individual | 293891 | [293891-average-maria-individual.json](./293891-average-maria-individual.json) |
