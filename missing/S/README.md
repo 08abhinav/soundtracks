@@ -4431,7 +4431,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Strikers | 270194 | [270194-shadow-strikers.json](./270194-shadow-strikers.json) |
 | Shadow Survival | 219602 | [219602-shadow-survival.json](./219602-shadow-survival.json) |
 | Shadow Tactics: Aiko's Choice - Deluxe Edition | 331844 | [331844-shadow-tactics-aikos-choice-deluxe-edition.json](./331844-shadow-tactics-aikos-choice-deluxe-edition.json) |
-| Shadow Tactics: Blades of the Shogun | 19085 | [19085-shadow-tactics-blades-of-the-shogun.json](./19085-shadow-tactics-blades-of-the-shogun.json) |
 | Shadow Tactics: Blades of the Shogun - Deluxe Edition | 331845 | [331845-shadow-tactics-blades-of-the-shogun-deluxe-edition.json](./331845-shadow-tactics-blades-of-the-shogun-deluxe-edition.json) |
 | Shadow Tactics: Blades of the Shogun - Ultimate Bundle | 331516 | [331516-shadow-tactics-blades-of-the-shogun-ultimate-bundle.json](./331516-shadow-tactics-blades-of-the-shogun-ultimate-bundle.json) |
 | Shadow the Hedgehog | 4105 | [4105-shadow-the-hedgehog.json](./4105-shadow-the-hedgehog.json) |
