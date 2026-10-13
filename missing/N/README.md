@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto: Slugfest | 130874 | [130874-naruto-slugfest.json](./130874-naruto-slugfest.json) |
 | Naruto: The Broken Bond | 7102 | [7102-naruto-the-broken-bond.json](./7102-naruto-the-broken-bond.json) |
 | Naruto: Ultimate Collection | 220253 | [220253-naruto-ultimate-collection.json](./220253-naruto-ultimate-collection.json) |
+| Naruto: Ultimate Duel | 174605 | [174605-naruto-ultimate-duel.json](./174605-naruto-ultimate-duel.json) |
 | Naruto: Ultimate Ninja 3 | 19626 | [19626-naruto-ultimate-ninja-3.json](./19626-naruto-ultimate-ninja-3.json) |
 | Naruto: Ultimate Ninja Storm | 19635 | [19635-naruto-ultimate-ninja-storm.json](./19635-naruto-ultimate-ninja-storm.json) |
 | Naruto: Ultimate Ninja Storm - Limited Edition | 44661 | [44661-naruto-ultimate-ninja-storm-limited-edition.json](./44661-naruto-ultimate-ninja-storm-limited-edition.json) |
