@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T08:32:27.175Z",
-  "total_missing": 205420,
+  "generated_at": "2026-10-13T08:37:57.950Z",
+  "total_missing": 205418,
   "games": [
     {
       "igdb_id": 191680,
@@ -875563,11 +875563,6 @@
       "file": "missing/T/254024-the-gun-is-good.json"
     },
     {
-      "igdb_id": 136000,
-      "game_name": "The Gunk",
-      "file": "missing/T/136000-the-gunk.json"
-    },
-    {
       "igdb_id": 381594,
       "game_name": "The Gurgling",
       "file": "missing/T/381594-the-gurgling.json"
@@ -986486,11 +986481,6 @@
       "igdb_id": 393015,
       "game_name": "We Were Here Tomorrow",
       "file": "missing/W/393015-we-were-here-tomorrow.json"
-    },
-    {
-      "igdb_id": 54486,
-      "game_name": "We Were Here Too",
-      "file": "missing/W/54486-we-were-here-too.json"
     },
     {
       "igdb_id": 292437,
