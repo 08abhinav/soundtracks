@@ -5392,13 +5392,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Ultimate Jigsaw: Mini Beasts | 303594 | [303594-pixel-puzzles-ultimate-jigsaw-mini-beasts.json](./303594-pixel-puzzles-ultimate-jigsaw-mini-beasts.json) |
 | Pixel Puzzles Ultimate Jigsaw: Variety Pack 23 | 293071 | [293071-pixel-puzzles-ultimate-jigsaw-variety-pack-23.json](./293071-pixel-puzzles-ultimate-jigsaw-variety-pack-23.json) |
 | Pixel Puzzles Ultimate: 2016 Jigsaw Collection | 53461 | [53461-pixel-puzzles-ultimate-2016-jigsaw-collection.json](./53461-pixel-puzzles-ultimate-2016-jigsaw-collection.json) |
+| Pixel Puzzles Ultimate: Aerial Photography | 162107 | [162107-pixel-puzzles-ultimate-aerial-photography.json](./162107-pixel-puzzles-ultimate-aerial-photography.json) |
+| Pixel Puzzles Ultimate: Aki | 162120 | [162120-pixel-puzzles-ultimate-aki.json](./162120-pixel-puzzles-ultimate-aki.json) |
 | Pixel Puzzles Ultimate: Angel Wings | 162178 | [162178-pixel-puzzles-ultimate-angel-wings.json](./162178-pixel-puzzles-ultimate-angel-wings.json) |
 | Pixel Puzzles Ultimate: Animals | 226860 | [226860-pixel-puzzles-ultimate-animals.json](./226860-pixel-puzzles-ultimate-animals.json) |
+| Pixel Puzzles Ultimate: Australia | 162091 | [162091-pixel-puzzles-ultimate-australia.json](./162091-pixel-puzzles-ultimate-australia.json) |
 | Pixel Puzzles Ultimate: Autumn | 162186 | [162186-pixel-puzzles-ultimate-autumn.json](./162186-pixel-puzzles-ultimate-autumn.json) |
 | Pixel Puzzles Ultimate: Autumn 2 | 192141 | [192141-pixel-puzzles-ultimate-autumn-2.json](./192141-pixel-puzzles-ultimate-autumn-2.json) |
+| Pixel Puzzles Ultimate: Beach Volleyball | 162087 | [162087-pixel-puzzles-ultimate-beach-volleyball.json](./162087-pixel-puzzles-ultimate-beach-volleyball.json) |
 | Pixel Puzzles Ultimate: Bioframe | 357884 | [357884-pixel-puzzles-ultimate-bioframe.json](./357884-pixel-puzzles-ultimate-bioframe.json) |
+| Pixel Puzzles Ultimate: Bosch's Garden | 162126 | [162126-pixel-puzzles-ultimate-boschs-garden.json](./162126-pixel-puzzles-ultimate-boschs-garden.json) |
 | Pixel Puzzles Ultimate: Canary Islands | 192145 | [192145-pixel-puzzles-ultimate-canary-islands.json](./192145-pixel-puzzles-ultimate-canary-islands.json) |
 | Pixel Puzzles Ultimate: Castles | 162175 | [162175-pixel-puzzles-ultimate-castles.json](./162175-pixel-puzzles-ultimate-castles.json) |
+| Pixel Puzzles Ultimate: Castles 2 | 162099 | [162099-pixel-puzzles-ultimate-castles-2.json](./162099-pixel-puzzles-ultimate-castles-2.json) |
+| Pixel Puzzles Ultimate: Cats | 162103 | [162103-pixel-puzzles-ultimate-cats.json](./162103-pixel-puzzles-ultimate-cats.json) |
+| Pixel Puzzles Ultimate: Cats 2 | 162119 | [162119-pixel-puzzles-ultimate-cats-2.json](./162119-pixel-puzzles-ultimate-cats-2.json) |
 | Pixel Puzzles Ultimate: Cheregi | 226861 | [226861-pixel-puzzles-ultimate-cheregi.json](./226861-pixel-puzzles-ultimate-cheregi.json) |
 | Pixel Puzzles Ultimate: Cheregi 2 | 192143 | [192143-pixel-puzzles-ultimate-cheregi-2.json](./192143-pixel-puzzles-ultimate-cheregi-2.json) |
 | Pixel Puzzles Ultimate: China | 162184 | [162184-pixel-puzzles-ultimate-china.json](./162184-pixel-puzzles-ultimate-china.json) |
@@ -5407,38 +5415,69 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Ultimate: Colorful 2 | 357885 | [357885-pixel-puzzles-ultimate-colorful-2.json](./357885-pixel-puzzles-ultimate-colorful-2.json) |
 | Pixel Puzzles Ultimate: Coral Reef | 162196 | [162196-pixel-puzzles-ultimate-coral-reef.json](./162196-pixel-puzzles-ultimate-coral-reef.json) |
 | Pixel Puzzles Ultimate: Da Vinci | 162164 | [162164-pixel-puzzles-ultimate-da-vinci.json](./162164-pixel-puzzles-ultimate-da-vinci.json) |
+| Pixel Puzzles Ultimate: Desserts | 162117 | [162117-pixel-puzzles-ultimate-desserts.json](./162117-pixel-puzzles-ultimate-desserts.json) |
 | Pixel Puzzles Ultimate: Deutschland | 192146 | [192146-pixel-puzzles-ultimate-deutschland.json](./192146-pixel-puzzles-ultimate-deutschland.json) |
 | Pixel Puzzles Ultimate: Dino Park | 357886 | [357886-pixel-puzzles-ultimate-dino-park.json](./357886-pixel-puzzles-ultimate-dino-park.json) |
+| Pixel Puzzles Ultimate: Dogs | 162095 | [162095-pixel-puzzles-ultimate-dogs.json](./162095-pixel-puzzles-ultimate-dogs.json) |
+| Pixel Puzzles Ultimate: Dolphins | 162125 | [162125-pixel-puzzles-ultimate-dolphins.json](./162125-pixel-puzzles-ultimate-dolphins.json) |
+| Pixel Puzzles Ultimate: Embers | 162094 | [162094-pixel-puzzles-ultimate-embers.json](./162094-pixel-puzzles-ultimate-embers.json) |
 | Pixel Puzzles Ultimate: England | 162171 | [162171-pixel-puzzles-ultimate-england.json](./162171-pixel-puzzles-ultimate-england.json) |
+| Pixel Puzzles Ultimate: European Art | 162118 | [162118-pixel-puzzles-ultimate-european-art.json](./162118-pixel-puzzles-ultimate-european-art.json) |
 | Pixel Puzzles Ultimate: Extreme Sports | 162194 | [162194-pixel-puzzles-ultimate-extreme-sports.json](./162194-pixel-puzzles-ultimate-extreme-sports.json) |
+| Pixel Puzzles Ultimate: Fantasy 2 | 162098 | [162098-pixel-puzzles-ultimate-fantasy-2.json](./162098-pixel-puzzles-ultimate-fantasy-2.json) |
+| Pixel Puzzles Ultimate: Flowers | 162082 | [162082-pixel-puzzles-ultimate-flowers.json](./162082-pixel-puzzles-ultimate-flowers.json) |
+| Pixel Puzzles Ultimate: Germany | 162110 | [162110-pixel-puzzles-ultimate-germany.json](./162110-pixel-puzzles-ultimate-germany.json) |
 | Pixel Puzzles Ultimate: Glaciers | 162169 | [162169-pixel-puzzles-ultimate-glaciers.json](./162169-pixel-puzzles-ultimate-glaciers.json) |
 | Pixel Puzzles Ultimate: Halloween | 162189 | [162189-pixel-puzzles-ultimate-halloween.json](./162189-pixel-puzzles-ultimate-halloween.json) |
 | Pixel Puzzles Ultimate: Halloween 2 | 162176 | [162176-pixel-puzzles-ultimate-halloween-2.json](./162176-pixel-puzzles-ultimate-halloween-2.json) |
 | Pixel Puzzles Ultimate: Halloween 3 | 192142 | [192142-pixel-puzzles-ultimate-halloween-3.json](./192142-pixel-puzzles-ultimate-halloween-3.json) |
 | Pixel Puzzles Ultimate: Halloween 4 | 192148 | [192148-pixel-puzzles-ultimate-halloween-4.json](./192148-pixel-puzzles-ultimate-halloween-4.json) |
 | Pixel Puzzles Ultimate: Holidays | 162163 | [162163-pixel-puzzles-ultimate-holidays.json](./162163-pixel-puzzles-ultimate-holidays.json) |
+| Pixel Puzzles Ultimate: Horror | 162084 | [162084-pixel-puzzles-ultimate-horror.json](./162084-pixel-puzzles-ultimate-horror.json) |
+| Pixel Puzzles Ultimate: Horses | 162109 | [162109-pixel-puzzles-ultimate-horses.json](./162109-pixel-puzzles-ultimate-horses.json) |
 | Pixel Puzzles Ultimate: India | 162177 | [162177-pixel-puzzles-ultimate-india.json](./162177-pixel-puzzles-ultimate-india.json) |
 | Pixel Puzzles Ultimate: Ireland | 162179 | [162179-pixel-puzzles-ultimate-ireland.json](./162179-pixel-puzzles-ultimate-ireland.json) |
+| Pixel Puzzles Ultimate: IWS | 162112 | [162112-pixel-puzzles-ultimate-iws.json](./162112-pixel-puzzles-ultimate-iws.json) |
 | Pixel Puzzles Ultimate: Japan | 162156 | [162156-pixel-puzzles-ultimate-japan.json](./162156-pixel-puzzles-ultimate-japan.json) |
 | Pixel Puzzles Ultimate: Japan 2 | 162159 | [162159-pixel-puzzles-ultimate-japan-2.json](./162159-pixel-puzzles-ultimate-japan-2.json) |
+| Pixel Puzzles Ultimate: Jigsaw | 162122 | [162122-pixel-puzzles-ultimate-jigsaw.json](./162122-pixel-puzzles-ultimate-jigsaw.json) |
 | Pixel Puzzles Ultimate: Jigsaw - Variety Pack 21 | 303699 | [303699-pixel-puzzles-ultimate-jigsaw-variety-pack-21.json](./303699-pixel-puzzles-ultimate-jigsaw-variety-pack-21.json) |
 | Pixel Puzzles Ultimate: Jigsaw - Variety Pack 4XS | 303698 | [303698-pixel-puzzles-ultimate-jigsaw-variety-pack-4xs.json](./303698-pixel-puzzles-ultimate-jigsaw-variety-pack-4xs.json) |
+| Pixel Puzzles Ultimate: Landscapes XL | 162106 | [162106-pixel-puzzles-ultimate-landscapes-xl.json](./162106-pixel-puzzles-ultimate-landscapes-xl.json) |
 | Pixel Puzzles Ultimate: Light Trail | 357887 | [357887-pixel-puzzles-ultimate-light-trail.json](./357887-pixel-puzzles-ultimate-light-trail.json) |
 | Pixel Puzzles Ultimate: Lunar New Year | 192140 | [192140-pixel-puzzles-ultimate-lunar-new-year.json](./192140-pixel-puzzles-ultimate-lunar-new-year.json) |
+| Pixel Puzzles Ultimate: Macro | 162129 | [162129-pixel-puzzles-ultimate-macro.json](./162129-pixel-puzzles-ultimate-macro.json) |
+| Pixel Puzzles Ultimate: Montana | 162127 | [162127-pixel-puzzles-ultimate-montana.json](./162127-pixel-puzzles-ultimate-montana.json) |
+| Pixel Puzzles Ultimate: Mountains | 162108 | [162108-pixel-puzzles-ultimate-mountains.json](./162108-pixel-puzzles-ultimate-mountains.json) |
+| Pixel Puzzles Ultimate: New England Fall | 162086 | [162086-pixel-puzzles-ultimate-new-england-fall.json](./162086-pixel-puzzles-ultimate-new-england-fall.json) |
 | Pixel Puzzles Ultimate: Noel | 162181 | [162181-pixel-puzzles-ultimate-noel.json](./162181-pixel-puzzles-ultimate-noel.json) |
 | Pixel Puzzles Ultimate: Pin-Ups | 162183 | [162183-pixel-puzzles-ultimate-pin-ups.json](./162183-pixel-puzzles-ultimate-pin-ups.json) |
+| Pixel Puzzles Ultimate: PP1 Japan | 162102 | [162102-pixel-puzzles-ultimate-pp1-japan.json](./162102-pixel-puzzles-ultimate-pp1-japan.json) |
 | Pixel Puzzles Ultimate: PP1 UndeadZ | 162154 | [162154-pixel-puzzles-ultimate-pp1-undeadz.json](./162154-pixel-puzzles-ultimate-pp1-undeadz.json) |
+| Pixel Puzzles Ultimate: PP2 Anime | 162096 | [162096-pixel-puzzles-ultimate-pp2-anime.json](./162096-pixel-puzzles-ultimate-pp2-anime.json) |
+| Pixel Puzzles Ultimate: PP2 Birds | 162123 | [162123-pixel-puzzles-ultimate-pp2-birds.json](./162123-pixel-puzzles-ultimate-pp2-birds.json) |
+| Pixel Puzzles Ultimate: PP2 Space | 162128 | [162128-pixel-puzzles-ultimate-pp2-space.json](./162128-pixel-puzzles-ultimate-pp2-space.json) |
 | Pixel Puzzles Ultimate: Primates | 162182 | [162182-pixel-puzzles-ultimate-primates.json](./162182-pixel-puzzles-ultimate-primates.json) |
 | Pixel Puzzles Ultimate: Puzzle Pack 2000 AD | 163416 | [163416-pixel-puzzles-ultimate-puzzle-pack-2000-ad.json](./163416-pixel-puzzles-ultimate-puzzle-pack-2000-ad.json) |
+| Pixel Puzzles Ultimate: Reptile | 162116 | [162116-pixel-puzzles-ultimate-reptile.json](./162116-pixel-puzzles-ultimate-reptile.json) |
+| Pixel Puzzles Ultimate: Rio | 162097 | [162097-pixel-puzzles-ultimate-rio.json](./162097-pixel-puzzles-ultimate-rio.json) |
 | Pixel Puzzles Ultimate: Russia | 162197 | [162197-pixel-puzzles-ultimate-russia.json](./162197-pixel-puzzles-ultimate-russia.json) |
 | Pixel Puzzles Ultimate: Samurai | 162180 | [162180-pixel-puzzles-ultimate-samurai.json](./162180-pixel-puzzles-ultimate-samurai.json) |
+| Pixel Puzzles Ultimate: Santa | 162092 | [162092-pixel-puzzles-ultimate-santa.json](./162092-pixel-puzzles-ultimate-santa.json) |
 | Pixel Puzzles Ultimate: Savanna | 162195 | [162195-pixel-puzzles-ultimate-savanna.json](./162195-pixel-puzzles-ultimate-savanna.json) |
+| Pixel Puzzles Ultimate: Scotland | 162090 | [162090-pixel-puzzles-ultimate-scotland.json](./162090-pixel-puzzles-ultimate-scotland.json) |
 | Pixel Puzzles Ultimate: Shipwrecks | 162193 | [162193-pixel-puzzles-ultimate-shipwrecks.json](./162193-pixel-puzzles-ultimate-shipwrecks.json) |
 | Pixel Puzzles Ultimate: Space 2 | 162190 | [162190-pixel-puzzles-ultimate-space-2.json](./162190-pixel-puzzles-ultimate-space-2.json) |
+| Pixel Puzzles Ultimate: Spain | 162130 | [162130-pixel-puzzles-ultimate-spain.json](./162130-pixel-puzzles-ultimate-spain.json) |
+| Pixel Puzzles Ultimate: Stuck At Home | 162083 | [162083-pixel-puzzles-ultimate-stuck-at-home.json](./162083-pixel-puzzles-ultimate-stuck-at-home.json) |
 | Pixel Puzzles Ultimate: Summer | 162165 | [162165-pixel-puzzles-ultimate-summer.json](./162165-pixel-puzzles-ultimate-summer.json) |
 | Pixel Puzzles Ultimate: Summertime | 162162 | [162162-pixel-puzzles-ultimate-summertime.json](./162162-pixel-puzzles-ultimate-summertime.json) |
 | Pixel Puzzles Ultimate: Sunflowers | 148510 | [148510-pixel-puzzles-ultimate-sunflowers.json](./148510-pixel-puzzles-ultimate-sunflowers.json) |
+| Pixel Puzzles Ultimate: Surreal | 162124 | [162124-pixel-puzzles-ultimate-surreal.json](./162124-pixel-puzzles-ultimate-surreal.json) |
 | Pixel Puzzles Ultimate: T.C.O.T.C | 162192 | [162192-pixel-puzzles-ultimate-t-c-o-t-c.json](./162192-pixel-puzzles-ultimate-t-c-o-t-c.json) |
+| Pixel Puzzles Ultimate: Thailand | 162131 | [162131-pixel-puzzles-ultimate-thailand.json](./162131-pixel-puzzles-ultimate-thailand.json) |
+| Pixel Puzzles Ultimate: Traditional Cut | 162093 | [162093-pixel-puzzles-ultimate-traditional-cut.json](./162093-pixel-puzzles-ultimate-traditional-cut.json) |
+| Pixel Puzzles Ultimate: Trains | 162105 | [162105-pixel-puzzles-ultimate-trains.json](./162105-pixel-puzzles-ultimate-trains.json) |
 | Pixel Puzzles Ultimate: Ukiyo-e | 162167 | [162167-pixel-puzzles-ultimate-ukiyo-e.json](./162167-pixel-puzzles-ultimate-ukiyo-e.json) |
 | Pixel Puzzles Ultimate: Ukiyo-e 2 | 162174 | [162174-pixel-puzzles-ultimate-ukiyo-e-2.json](./162174-pixel-puzzles-ultimate-ukiyo-e-2.json) |
 | Pixel Puzzles Ultimate: Ukiyo-e 3 | 226862 | [226862-pixel-puzzles-ultimate-ukiyo-e-3.json](./226862-pixel-puzzles-ultimate-ukiyo-e-3.json) |
@@ -5447,25 +5486,36 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Ultimate: Variety Pack 1 | 162172 | [162172-pixel-puzzles-ultimate-variety-pack-1.json](./162172-pixel-puzzles-ultimate-variety-pack-1.json) |
 | Pixel Puzzles Ultimate: Variety Pack 10 | 148493 | [148493-pixel-puzzles-ultimate-variety-pack-10.json](./148493-pixel-puzzles-ultimate-variety-pack-10.json) |
 | Pixel Puzzles Ultimate: Variety Pack 12 | 162191 | [162191-pixel-puzzles-ultimate-variety-pack-12.json](./162191-pixel-puzzles-ultimate-variety-pack-12.json) |
+| Pixel Puzzles Ultimate: Variety Pack 13 | 162113 | [162113-pixel-puzzles-ultimate-variety-pack-13.json](./162113-pixel-puzzles-ultimate-variety-pack-13.json) |
+| Pixel Puzzles Ultimate: Variety Pack 14 | 162100 | [162100-pixel-puzzles-ultimate-variety-pack-14.json](./162100-pixel-puzzles-ultimate-variety-pack-14.json) |
 | Pixel Puzzles Ultimate: Variety Pack 15 | 162187 | [162187-pixel-puzzles-ultimate-variety-pack-15.json](./162187-pixel-puzzles-ultimate-variety-pack-15.json) |
+| Pixel Puzzles Ultimate: Variety Pack 17 | 162111 | [162111-pixel-puzzles-ultimate-variety-pack-17.json](./162111-pixel-puzzles-ultimate-variety-pack-17.json) |
+| Pixel Puzzles Ultimate: Variety Pack 18 | 162101 | [162101-pixel-puzzles-ultimate-variety-pack-18.json](./162101-pixel-puzzles-ultimate-variety-pack-18.json) |
 | Pixel Puzzles Ultimate: Variety Pack 19 | 226865 | [226865-pixel-puzzles-ultimate-variety-pack-19.json](./226865-pixel-puzzles-ultimate-variety-pack-19.json) |
+| Pixel Puzzles Ultimate: Variety Pack 2 | 162088 | [162088-pixel-puzzles-ultimate-variety-pack-2.json](./162088-pixel-puzzles-ultimate-variety-pack-2.json) |
 | Pixel Puzzles Ultimate: Variety Pack 24 | 357889 | [357889-pixel-puzzles-ultimate-variety-pack-24.json](./357889-pixel-puzzles-ultimate-variety-pack-24.json) |
 | Pixel Puzzles Ultimate: Variety Pack 25 | 357890 | [357890-pixel-puzzles-ultimate-variety-pack-25.json](./357890-pixel-puzzles-ultimate-variety-pack-25.json) |
 | Pixel Puzzles Ultimate: Variety Pack 26 | 357891 | [357891-pixel-puzzles-ultimate-variety-pack-26.json](./357891-pixel-puzzles-ultimate-variety-pack-26.json) |
 | Pixel Puzzles Ultimate: Variety Pack 27 | 357892 | [357892-pixel-puzzles-ultimate-variety-pack-27.json](./357892-pixel-puzzles-ultimate-variety-pack-27.json) |
 | Pixel Puzzles Ultimate: Variety Pack 3XL | 192147 | [192147-pixel-puzzles-ultimate-variety-pack-3xl.json](./192147-pixel-puzzles-ultimate-variety-pack-3xl.json) |
+| Pixel Puzzles Ultimate: Variety Pack 3XS | 162121 | [162121-pixel-puzzles-ultimate-variety-pack-3xs.json](./162121-pixel-puzzles-ultimate-variety-pack-3xs.json) |
 | Pixel Puzzles Ultimate: Variety Pack 4 | 162155 | [162155-pixel-puzzles-ultimate-variety-pack-4.json](./162155-pixel-puzzles-ultimate-variety-pack-4.json) |
 | Pixel Puzzles Ultimate: Variety Pack 4XL | 226863 | [226863-pixel-puzzles-ultimate-variety-pack-4xl.json](./226863-pixel-puzzles-ultimate-variety-pack-4xl.json) |
 | Pixel Puzzles Ultimate: Variety Pack 5 | 162168 | [162168-pixel-puzzles-ultimate-variety-pack-5.json](./162168-pixel-puzzles-ultimate-variety-pack-5.json) |
 | Pixel Puzzles Ultimate: Variety Pack 5XS | 192144 | [192144-pixel-puzzles-ultimate-variety-pack-5xs.json](./192144-pixel-puzzles-ultimate-variety-pack-5xs.json) |
 | Pixel Puzzles Ultimate: Variety Pack 6XS | 226864 | [226864-pixel-puzzles-ultimate-variety-pack-6xs.json](./226864-pixel-puzzles-ultimate-variety-pack-6xs.json) |
+| Pixel Puzzles Ultimate: Variety Pack 7 | 162089 | [162089-pixel-puzzles-ultimate-variety-pack-7.json](./162089-pixel-puzzles-ultimate-variety-pack-7.json) |
+| Pixel Puzzles Ultimate: Variety Pack 8 | 162115 | [162115-pixel-puzzles-ultimate-variety-pack-8.json](./162115-pixel-puzzles-ultimate-variety-pack-8.json) |
 | Pixel Puzzles Ultimate: Variety Pack 8SX | 357893 | [357893-pixel-puzzles-ultimate-variety-pack-8sx.json](./357893-pixel-puzzles-ultimate-variety-pack-8sx.json) |
 | Pixel Puzzles Ultimate: Variety Pack 9 | 162166 | [162166-pixel-puzzles-ultimate-variety-pack-9.json](./162166-pixel-puzzles-ultimate-variety-pack-9.json) |
+| Pixel Puzzles Ultimate: Variety Pack XL | 162104 | [162104-pixel-puzzles-ultimate-variety-pack-xl.json](./162104-pixel-puzzles-ultimate-variety-pack-xl.json) |
 | Pixel Puzzles Ultimate: Variety Pack XS | 162170 | [162170-pixel-puzzles-ultimate-variety-pack-xs.json](./162170-pixel-puzzles-ultimate-variety-pack-xs.json) |
+| Pixel Puzzles Ultimate: Variety Pack XXL | 162114 | [162114-pixel-puzzles-ultimate-variety-pack-xxl.json](./162114-pixel-puzzles-ultimate-variety-pack-xxl.json) |
 | Pixel Puzzles Ultimate: Variety Pack XXS | 162161 | [162161-pixel-puzzles-ultimate-variety-pack-xxs.json](./162161-pixel-puzzles-ultimate-variety-pack-xxs.json) |
 | Pixel Puzzles Ultimate: Volcanoes | 162173 | [162173-pixel-puzzles-ultimate-volcanoes.json](./162173-pixel-puzzles-ultimate-volcanoes.json) |
 | Pixel Puzzles Ultimate: Wales | 162160 | [162160-pixel-puzzles-ultimate-wales.json](./162160-pixel-puzzles-ultimate-wales.json) |
 | Pixel Puzzles Ultimate: Waterfalls | 162157 | [162157-pixel-puzzles-ultimate-waterfalls.json](./162157-pixel-puzzles-ultimate-waterfalls.json) |
+| Pixel Puzzles Ultimate: Wild West | 162132 | [162132-pixel-puzzles-ultimate-wild-west.json](./162132-pixel-puzzles-ultimate-wild-west.json) |
 | Pixel Puzzles Winter Jigsaws | 389415 | [389415-pixel-puzzles-winter-jigsaws.json](./389415-pixel-puzzles-winter-jigsaws.json) |
 | Pixel Puzzles World War II Jigsaws | 263779 | [263779-pixel-puzzles-world-war-ii-jigsaws.json](./263779-pixel-puzzles-world-war-ii-jigsaws.json) |
 | Pixel Puzzles World War II Jigsaws Pack: Invasion of Poland | 265245 | [265245-pixel-puzzles-world-war-ii-jigsaws-pack-invasion-of-poland.json](./265245-pixel-puzzles-world-war-ii-jigsaws-pack-invasion-of-poland.json) |
