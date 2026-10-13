@@ -1077,6 +1077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Pizza Empire | 235299 | [235299-idle-pizza-empire.json](./235299-idle-pizza-empire.json) |
 | Idle Planet Miner | 361818 | [361818-idle-planet-miner.json](./361818-idle-planet-miner.json) |
 | Idle Plant Game | 277782 | [277782-idle-plant-game.json](./277782-idle-plant-game.json) |
+| Idle Police Tycoon | 169900 | [169900-idle-police-tycoon.json](./169900-idle-police-tycoon.json) |
 | Idle Portal Guardian | 118372 | [118372-idle-portal-guardian.json](./118372-idle-portal-guardian.json) |
 | Idle Quest Giver | 247210 | [247210-idle-quest-giver.json](./247210-idle-quest-giver.json) |
 | Idle Racing GO: Car Clicker Tycoon | 113604 | [113604-idle-racing-go-car-clicker-tycoon.json](./113604-idle-racing-go-car-clicker-tycoon.json) |
@@ -4064,6 +4065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Games | 208646 | [208646-island-games.json](./208646-island-games.json) |
 | Island Getaway | 29939 | [29939-island-getaway.json](./29939-island-getaway.json) |
 | Island Golf | 255740 | [255740-island-golf.json](./255740-island-golf.json) |
+| Island Herders | 169719 | [169719-island-herders.json](./169719-island-herders.json) |
 | Island Hopper | 265141 | [265141-island-hopper.json](./265141-island-hopper.json) |
 | Island King | 261415 | [261415-island-king.json](./261415-island-king.json) |
 | Island Life | 92439 | [92439-island-life.json](./92439-island-life.json) |
