@@ -1157,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nedia Hotel | 201548 | [201548-nedia-hotel.json](./201548-nedia-hotel.json) |
 | Nedra | 324297 | [324297-nedra.json](./324297-nedra.json) |
 | Nedy's Adventure: The Curse of Vera Deluxe | 324525 | [324525-nedys-adventure-the-curse-of-vera-deluxe.json](./324525-nedys-adventure-the-curse-of-vera-deluxe.json) |
+| Neebota: Zeebo's Awakening | 164090 | [164090-neebota-zeebos-awakening.json](./164090-neebota-zeebos-awakening.json) |
 | Need 4 Meat | 317537 | [317537-need-4-meat.json](./317537-need-4-meat.json) |
 | Need For Conquest | 157203 | [157203-need-for-conquest.json](./157203-need-for-conquest.json) |
 | Need for Drifting | 249229 | [249229-need-for-drifting.json](./249229-need-for-drifting.json) |
@@ -1999,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never out of Time | 193476 | [193476-never-out-of-time.json](./193476-never-out-of-time.json) |
 | Never Rain | 221103 | [221103-never-rain.json](./221103-never-rain.json) |
 | Never Really Alone | 307199 | [307199-never-really-alone.json](./307199-never-really-alone.json) |
+| Never Return | 165122 | [165122-never-return.json](./165122-never-return.json) |
 | Never Second in Rome | 334259 | [334259-never-second-in-rome.json](./334259-never-second-in-rome.json) |
 | Never Secure | 389717 | [389717-never-secure.json](./389717-never-secure.json) |
 | Never Sort By Color | 411710 | [411710-never-sort-by-color.json](./411710-never-sort-by-color.json) |
