@@ -2459,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voyage on the Alihacc Desert | 336361 | [336361-voyage-on-the-alihacc-desert.json](./336361-voyage-on-the-alihacc-desert.json) |
 | Voyage Phaser (Mobware) | 202009 | [202009-voyage-phaser-mobware.json](./202009-voyage-phaser-mobware.json) |
 | Voyage Router | 352752 | [352752-voyage-router.json](./352752-voyage-router.json) |
+| Voyage: A Sorceress' Vacation | 146629 | [146629-voyage-a-sorceress-vacation.json](./146629-voyage-a-sorceress-vacation.json) |
 | Voyager | 12930 | [12930-voyager.json](./12930-voyager.json) |
 | Voyager | 131492 | [131492-voyager.json](./131492-voyager.json) |
 | Voyager | 284566 | [284566-voyager.json](./284566-voyager.json) |
