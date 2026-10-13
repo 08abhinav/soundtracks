@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caduceus | 186190 | [186190-caduceus.json](./186190-caduceus.json) |
 | Cadulium | 175652 | [175652-cadulium.json](./175652-cadulium.json) |
 | Cadwallon: City of Thieves | 87615 | [87615-cadwallon-city-of-thieves.json](./87615-cadwallon-city-of-thieves.json) |
+| Caedes | 164607 | [164607-caedes.json](./164607-caedes.json) |
 | Caelum's Crux | 389619 | [389619-caelums-crux.json](./389619-caelums-crux.json) |
 | Caesar Empire War | 150263 | [150263-caesar-empire-war.json](./150263-caesar-empire-war.json) |
 | Caesar II | 7509 | [7509-caesar-ii.json](./7509-caesar-ii.json) |
