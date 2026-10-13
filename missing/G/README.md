@@ -2122,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeoJelly | 232457 | [232457-geojelly.json](./232457-geojelly.json) |
 | GeoJelly Space Odyssey Bundle | 284504 | [284504-geojelly-space-odyssey-bundle.json](./284504-geojelly-space-odyssey-bundle.json) |
 | GeoJelly: in the Space | 279861 | [279861-geojelly-in-the-space.json](./279861-geojelly-in-the-space.json) |
+| GeoLogic | 133138 | [133138-geologic.json](./133138-geologic.json) |
 | Geom | 84515 | [84515-geom.json](./84515-geom.json) |
 | Geom | 93023 | [93023-geom.json](./93023-geom.json) |
 | Geom Cube | 44758 | [44758-geom-cube.json](./44758-geom-cube.json) |
@@ -2502,6 +2503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Ninja | 289447 | [289447-ghost-ninja.json](./289447-ghost-ninja.json) |
 | Ghost Observation | 395047 | [395047-ghost-observation.json](./395047-ghost-observation.json) |
 | Ghost of a Tale | 7684 | [7684-ghost-of-a-tale.json](./7684-ghost-of-a-tale.json) |
+| Ghost of Dragon | 133143 | [133143-ghost-of-dragon.json](./133143-ghost-of-dragon.json) |
 | Ghost of the Fireflies | 68729 | [68729-ghost-of-the-fireflies.json](./68729-ghost-of-the-fireflies.json) |
 | Ghost of Tokyo | 406790 | [406790-ghost-of-tokyo.json](./406790-ghost-of-tokyo.json) |
 | Ghost of Tomorrow: Chapter 1 | 168861 | [168861-ghost-of-tomorrow-chapter-1.json](./168861-ghost-of-tomorrow-chapter-1.json) |
@@ -2854,6 +2856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gin no Eclipse | 204556 | [204556-gin-no-eclipse.json](./204556-gin-no-eclipse.json) |
 | Gin Rummy | 179597 | [179597-gin-rummy.json](./179597-gin-rummy.json) |
 | Gin Rummy | 377838 | [377838-gin-rummy.json](./377838-gin-rummy.json) |
+| Gin Rummy 3D Premium | 133118 | [133118-gin-rummy-3d-premium.json](./133118-gin-rummy-3d-premium.json) |
 | Gin Rummy Royale | 88576 | [88576-gin-rummy-royale.json](./88576-gin-rummy-royale.json) |
 | Gin Rummy Ultra | 87640 | [87640-gin-rummy-ultra.json](./87640-gin-rummy-ultra.json) |
 | Gin Rummy: Casino Card Game | 88612 | [88612-gin-rummy-casino-card-game.json](./88612-gin-rummy-casino-card-game.json) |
