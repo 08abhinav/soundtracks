@@ -1812,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 19: Ambassador Edition | 202420 | [202420-farming-simulator-19-ambassador-edition.json](./202420-farming-simulator-19-ambassador-edition.json) |
 | Farming Simulator 19: Anderson Group Equipment Pack | 166098 | [166098-farming-simulator-19-anderson-group-equipment-pack.json](./166098-farming-simulator-19-anderson-group-equipment-pack.json) |
 | Farming Simulator 19: Bourgault DLC | 166099 | [166099-farming-simulator-19-bourgault-dlc.json](./166099-farming-simulator-19-bourgault-dlc.json) |
+| Farming Simulator 19: Day One Edition | 136148 | [136148-farming-simulator-19-day-one-edition.json](./136148-farming-simulator-19-day-one-edition.json) |
 | Farming Simulator 19: Grimme Equipment Pack | 166101 | [166101-farming-simulator-19-grimme-equipment-pack.json](./166101-farming-simulator-19-grimme-equipment-pack.json) |
 | Farming Simulator 19: Holmer Terra Variant DLC | 166100 | [166100-farming-simulator-19-holmer-terra-variant-dlc.json](./166100-farming-simulator-19-holmer-terra-variant-dlc.json) |
 | Farming Simulator 19: John Deere Cotton DLC | 166105 | [166105-farming-simulator-19-john-deere-cotton-dlc.json](./166105-farming-simulator-19-john-deere-cotton-dlc.json) |
@@ -2161,6 +2162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Empire of Dirt: Made in Heaven | 382874 | [382874-fate-empire-of-dirt-made-in-heaven.json](./382874-fate-empire-of-dirt-made-in-heaven.json) |
 | Fate/Extella Link | 55137 | [55137-fate-extella-link.json](./55137-fate-extella-link.json) |
 | Fate/Extella Link: Digital Deluxe Edition | 119067 | [119067-fate-extella-link-digital-deluxe-edition.json](./119067-fate-extella-link-digital-deluxe-edition.json) |
+| Fate/Extella Link: Fleeting Glory - Limited Edition | 136294 | [136294-fate-extella-link-fleeting-glory-limited-edition.json](./136294-fate-extella-link-fleeting-glory-limited-edition.json) |
 | Fate/Extella Link: Premium Edition | 136766 | [136766-fate-extella-link-premium-edition.json](./136766-fate-extella-link-premium-edition.json) |
 | Fate/Extella: Celebration Box | 140007 | [140007-fate-extella-celebration-box.json](./140007-fate-extella-celebration-box.json) |
 | Fate/Extella: Regalia Box | 212318 | [212318-fate-extella-regalia-box.json](./212318-fate-extella-regalia-box.json) |
@@ -3875,6 +3877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Fates: V.O.W Edition | 337600 | [337600-fire-emblem-fates-v-o-w-edition.json](./337600-fire-emblem-fates-v-o-w-edition.json) |
 | Fire Emblem Heroes | 26841 | [26841-fire-emblem-heroes.json](./26841-fire-emblem-heroes.json) |
 | Fire Emblem Warriors + Season Pass Bundle | 294234 | [294234-fire-emblem-warriors-season-pass-bundle.json](./294234-fire-emblem-warriors-season-pass-bundle.json) |
+| Fire Emblem Warriors: Limited Edition | 136159 | [136159-fire-emblem-warriors-limited-edition.json](./136159-fire-emblem-warriors-limited-edition.json) |
 | Fire Emblem Warriors: Season Pass | 294235 | [294235-fire-emblem-warriors-season-pass.json](./294235-fire-emblem-warriors-season-pass.json) |
 | Fire Emblem Warriors: Three Hopes | 191396 | [191396-fire-emblem-warriors-three-hopes.json](./191396-fire-emblem-warriors-three-hopes.json) |
 | Fire Emblem Wars | 338815 | [338815-fire-emblem-wars.json](./338815-fire-emblem-wars.json) |
