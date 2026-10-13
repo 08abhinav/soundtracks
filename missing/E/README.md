@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth: Revival | 215230 | [215230-earth-revival.json](./215230-earth-revival.json) |
 | Earth's Center of Gravity | 209667 | [209667-earths-center-of-gravity.json](./209667-earths-center-of-gravity.json) |
 | Earth's Last Defense | 182535 | [182535-earths-last-defense.json](./182535-earths-last-defense.json) |
+| Earth's Shadow | 164078 | [164078-earths-shadow.json](./164078-earths-shadow.json) |
 | Earthborne | 303054 | [303054-earthborne.json](./303054-earthborne.json) |
 | EarthBound 3 | 323282 | [323282-earthbound-3.json](./323282-earthbound-3.json) |
 | EarthBound 64 | 133324 | [133324-earthbound-64.json](./133324-earthbound-64.json) |
@@ -632,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoveil: The Last Guest | 351708 | [351708-echoveil-the-last-guest.json](./351708-echoveil-the-last-guest.json) |
 | Echowood | 387652 | [387652-echowood.json](./387652-echowood.json) |
 | EchtegP | 254789 | [254789-echtegp.json](./254789-echtegp.json) |
+| Ecila | 164087 | [164087-ecila.json](./164087-ecila.json) |
 | Ecila | 257392 | [257392-ecila.json](./257392-ecila.json) |
 | Ecio | 119674 | [119674-ecio.json](./119674-ecio.json) |
 | Ecity | 87099 | [87099-ecity.json](./87099-ecity.json) |
@@ -3061,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eraser vs. Ruler | 323706 | [323706-eraser-vs-ruler.json](./323706-eraser-vs-ruler.json) |
 | Erasure | 125282 | [125282-erasure.json](./125282-erasure.json) |
 | Erayu | 58903 | [58903-erayu.json](./58903-erayu.json) |
+| Erazer: Devise & Destroy | 164058 | [164058-erazer-devise-and-destroy.json](./164058-erazer-devise-and-destroy.json) |
 | Erdetspill | 411414 | [411414-erdetspill.json](./411414-erdetspill.json) |
 | EreaDrone Simulator | 104189 | [104189-ereadrone-simulator.json](./104189-ereadrone-simulator.json) |
 | EreaDrone: FPV Simulator | 112216 | [112216-ereadrone-fpv-simulator.json](./112216-ereadrone-fpv-simulator.json) |
@@ -4966,6 +4969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorcist | 200360 | [200360-exorcist.json](./200360-exorcist.json) |
 | Exorcist | 411051 | [411051-exorcist.json](./411051-exorcist.json) |
 | Exorcist 2: Crow Magic | 236845 | [236845-exorcist-2-crow-magic.json](./236845-exorcist-2-crow-magic.json) |
+| Exorcist Fairy | 164084 | [164084-exorcist-fairy.json](./164084-exorcist-fairy.json) |
 | Exorcist Hotline | 399270 | [399270-exorcist-hotline.json](./399270-exorcist-hotline.json) |
 | Exorcist II | 209181 | [209181-exorcist-ii.json](./209181-exorcist-ii.json) |
 | Exorcist Onmyoji | 304875 | [304875-exorcist-onmyoji.json](./304875-exorcist-onmyoji.json) |
