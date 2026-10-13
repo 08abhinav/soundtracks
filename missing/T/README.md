@@ -17271,7 +17271,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Baisyunyado: Soap of Royal Road | 138029 | [138029-touhou-baisyunyado-soap-of-royal-road.json](./138029-touhou-baisyunyado-soap-of-royal-road.json) |
 | Touhou Big Big Battle: The Justice | 210216 | [210216-touhou-big-big-battle-the-justice.json](./210216-touhou-big-big-battle-the-justice.json) |
 | Touhou Blooming Chaos 2 | 153523 | [153523-touhou-blooming-chaos-2.json](./153523-touhou-blooming-chaos-2.json) |
+| Touhou Blooming Chaos 2: Chara Pack 1 | 170962 | [170962-touhou-blooming-chaos-2-chara-pack-1.json](./170962-touhou-blooming-chaos-2-chara-pack-1.json) |
+| Touhou Blooming Chaos 2: Chara Pack 2 | 170961 | [170961-touhou-blooming-chaos-2-chara-pack-2.json](./170961-touhou-blooming-chaos-2-chara-pack-2.json) |
 | Touhou Blooming Chaos 2: Chara Pack 3 | 170959 | [170959-touhou-blooming-chaos-2-chara-pack-3.json](./170959-touhou-blooming-chaos-2-chara-pack-3.json) |
+| Touhou Blooming Chaos 2: Chara Pack 4 | 170960 | [170960-touhou-blooming-chaos-2-chara-pack-4.json](./170960-touhou-blooming-chaos-2-chara-pack-4.json) |
 | Touhou Blooming Chaos 2: Chara Pack Special - Mystia Lorelei | 169324 | [169324-touhou-blooming-chaos-2-chara-pack-special-mystia-lorelei.json](./169324-touhou-blooming-chaos-2-chara-pack-special-mystia-lorelei.json) |
 | Touhou Blooming Soul | 203848 | [203848-touhou-blooming-soul.json](./203848-touhou-blooming-soul.json) |
 | Touhou Cannonball | 111052 | [111052-touhou-cannonball.json](./111052-touhou-cannonball.json) |
@@ -20368,7 +20371,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tron 2.0: Killer App | 79835 | [79835-tron-2-0-killer-app.json](./79835-tron-2-0-killer-app.json) |
 | Tron 2.0: Killer App Mod | 327416 | [327416-tron-2-0-killer-app-mod.json](./327416-tron-2-0-killer-app-mod.json) |
 | Tron Run/r | 19978 | [19978-tron-run-r.json](./19978-tron-run-r.json) |
+| Tron Run/r: Cycle Extender Bundle | 170985 | [170985-tron-run-r-cycle-extender-bundle.json](./170985-tron-run-r-cycle-extender-bundle.json) |
 | Tron Run/r: Deluxe Edition | 53853 | [53853-tron-run-r-deluxe-edition.json](./53853-tron-run-r-deluxe-edition.json) |
+| Tron Run/r: Outlands | 170984 | [170984-tron-run-r-outlands.json](./170984-tron-run-r-outlands.json) |
 | Tron Run/r: Ultimate Edition | 53852 | [53852-tron-run-r-ultimate-edition.json](./53852-tron-run-r-ultimate-edition.json) |
 | Tron: Catalyst | 319717 | [319717-tron-catalyst.json](./319717-tron-catalyst.json) |
 | Tron: Deadly Discs | 5710 | [5710-tron-deadly-discs.json](./5710-tron-deadly-discs.json) |
@@ -20866,6 +20871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsykial | 270748 | [270748-tsykial.json](./270748-tsykial.json) |
 | TT Isle of Man: Collection | 275041 | [275041-tt-isle-of-man-collection.json](./275041-tt-isle-of-man-collection.json) |
 | TT Isle of Man: Ride on the Edge | 81220 | [81220-tt-isle-of-man-ride-on-the-edge.json](./81220-tt-isle-of-man-ride-on-the-edge.json) |
+| TT Isle of Man: Ride on the Edge - Sidecar Thrill | 170793 | [170793-tt-isle-of-man-ride-on-the-edge-sidecar-thrill.json](./170793-tt-isle-of-man-ride-on-the-edge-sidecar-thrill.json) |
 | TT Isle of Man: Ride on the Edge 3 | 228729 | [228729-tt-isle-of-man-ride-on-the-edge-3.json](./228729-tt-isle-of-man-ride-on-the-edge-3.json) |
 | TTA 1 | 253565 | [253565-tta-1.json](./253565-tta-1.json) |
 | TTPP | 274926 | [274926-ttpp.json](./274926-ttpp.json) |
