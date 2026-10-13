@@ -3669,6 +3669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sept Jours, Sept Lieux, Sept Vies | 151284 | [151284-sept-jours-sept-lieux-sept-vies.json](./151284-sept-jours-sept-lieux-sept-vies.json) |
 | Septar | 408236 | [408236-septar.json](./408236-septar.json) |
 | Septem: The Preparation | 384639 | [384639-septem-the-preparation.json](./384639-septem-the-preparation.json) |
+| September 12th: A Toy World | 172075 | [172075-september-12th-a-toy-world.json](./172075-september-12th-a-toy-world.json) |
 | September 1999 | 110468 | [110468-september-1999.json](./110468-september-1999.json) |
 | September 28 Pizza | 188888 | [188888-september-28-pizza.json](./188888-september-28-pizza.json) |
 | September 7th | 230769 | [230769-september-7th.json](./230769-september-7th.json) |
@@ -10369,6 +10370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokobear: Goo | 221161 | [221161-sokobear-goo.json](./221161-sokobear-goo.json) |
 | Sokobear: Spring | 219592 | [219592-sokobear-spring.json](./219592-sokobear-spring.json) |
 | Sokobear: Summer | 220796 | [220796-sokobear-summer.json](./220796-sokobear-summer.json) |
+| Sokobear: Winter | 171878 | [171878-sokobear-winter.json](./171878-sokobear-winter.json) |
 | Sokobond Express | 164896 | [164896-sokobond-express.json](./164896-sokobond-express.json) |
 | Sokobos 2 | 347350 | [347350-sokobos-2.json](./347350-sokobos-2.json) |
 | Sokobot | 189150 | [189150-sokobot.json](./189150-sokobot.json) |
@@ -11794,6 +11796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorbetta: Gravely in Debt | 129733 | [129733-sorbetta-gravely-in-debt.json](./129733-sorbetta-gravely-in-debt.json) |
 | Sorcerer | 23856 | [23856-sorcerer.json](./23856-sorcerer.json) |
 | Sorcerer King: Rivals | 24922 | [24922-sorcerer-king-rivals.json](./24922-sorcerer-king-rivals.json) |
+| Sorcerer Knights | 171872 | [171872-sorcerer-knights.json](./171872-sorcerer-knights.json) |
 | Sorcerer of Fortune | 175439 | [175439-sorcerer-of-fortune.json](./175439-sorcerer-of-fortune.json) |
 | Sorcerer of Revenge | 134636 | [134636-sorcerer-of-revenge.json](./134636-sorcerer-of-revenge.json) |
 | Sorcerer Smackdown | 310099 | [310099-sorcerer-smackdown.json](./310099-sorcerer-smackdown.json) |
@@ -13077,6 +13080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Wackos | 279850 | [279850-space-wackos.json](./279850-space-wackos.json) |
 | Space Walk | 170527 | [170527-space-walk.json](./170527-space-walk.json) |
 | Space Walk: Memory Games for Adults | 232538 | [232538-space-walk-memory-games-for-adults.json](./232538-space-walk-memory-games-for-adults.json) |
+| Space War | 171888 | [171888-space-war.json](./171888-space-war.json) |
 | Space War Arena | 114884 | [114884-space-war-arena.json](./114884-space-war-arena.json) |
 | Space War Attack | 43546 | [43546-space-war-attack.json](./43546-space-war-attack.json) |
 | Space War Economy Idle | 346253 | [346253-space-war-economy-idle.json](./346253-space-war-economy-idle.json) |
@@ -17009,6 +17013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Racer | 250952 | [250952-steel-racer.json](./250952-steel-racer.json) |
 | Steel Rain | 142711 | [142711-steel-rain.json](./142711-steel-rain.json) |
 | Steel Rain | 34833 | [34833-steel-rain.json](./34833-steel-rain.json) |
+| Steel Rain: Expeditions | 172093 | [172093-steel-rain-expeditions.json](./172093-steel-rain-expeditions.json) |
 | Steel Rampart | 245951 | [245951-steel-rampart.json](./245951-steel-rampart.json) |
 | Steel Ranger | 179658 | [179658-steel-ranger.json](./179658-steel-ranger.json) |
 | Steel Rats: Deluxe Edition | 119083 | [119083-steel-rats-deluxe-edition.json](./119083-steel-rats-deluxe-edition.json) |
@@ -22259,6 +22264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Z | 149219 | [149219-survival-z.json](./149219-survival-z.json) |
 | Survival Z The Alpha | 292304 | [292304-survival-z-the-alpha.json](./292304-survival-z-the-alpha.json) |
 | Survival Zombies: The Inverted Evolution | 33575 | [33575-survival-zombies-the-inverted-evolution.json](./33575-survival-zombies-the-inverted-evolution.json) |
+| Survival Zone | 171881 | [171881-survival-zone.json](./171881-survival-zone.json) |
 | Survival Zone: Craft, Build & Grow | 336395 | [336395-survival-zone-craft-build-and-grow.json](./336395-survival-zone-craft-build-and-grow.json) |
 | Survival: Fountain of Youth - Captain's Edition | 317209 | [317209-survival-fountain-of-youth-captains-edition.json](./317209-survival-fountain-of-youth-captains-edition.json) |
 | Survival: Fountain of Youth - Sea Wolf Pack | 298249 | [298249-survival-fountain-of-youth-sea-wolf-pack.json](./298249-survival-fountain-of-youth-sea-wolf-pack.json) |
@@ -23092,6 +23098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Fireheart - The Awakening Element | 31989 | [31989-sword-of-fireheart-the-awakening-element.json](./31989-sword-of-fireheart-the-awakening-element.json) |
 | Sword of Hearts | 183437 | [183437-sword-of-hearts.json](./183437-sword-of-hearts.json) |
 | Sword of Honour | 12790 | [12790-sword-of-honour.json](./12790-sword-of-honour.json) |
+| Sword of Hypotenuse | 171874 | [171874-sword-of-hypotenuse.json](./171874-sword-of-hypotenuse.json) |
 | Sword of Jade: Parallel Dreams | 285149 | [285149-sword-of-jade-parallel-dreams.json](./285149-sword-of-jade-parallel-dreams.json) |
 | Sword of Justice | 283391 | [283391-sword-of-justice.json](./283391-sword-of-justice.json) |
 | Sword of Legendia | 185950 | [185950-sword-of-legendia.json](./185950-sword-of-legendia.json) |
