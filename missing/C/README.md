@@ -503,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Vanguard - Season One | 202688 | [202688-call-of-duty-vanguard-season-one.json](./202688-call-of-duty-vanguard-season-one.json) |
 | Call of Duty: Vanguard - Season Three | 202690 | [202690-call-of-duty-vanguard-season-three.json](./202690-call-of-duty-vanguard-season-three.json) |
 | Call of Duty: Vanguard - Season Two | 202689 | [202689-call-of-duty-vanguard-season-two.json](./202689-call-of-duty-vanguard-season-two.json) |
+| Call of Duty: Vanguard - Ultimate Edition | 170047 | [170047-call-of-duty-vanguard-ultimate-edition.json](./170047-call-of-duty-vanguard-ultimate-edition.json) |
 | Call of Duty: Warchest | 240503 | [240503-call-of-duty-warchest.json](./240503-call-of-duty-warchest.json) |
 | Call of Duty: Warzone | 131800 | [131800-call-of-duty-warzone.json](./131800-call-of-duty-warzone.json) |
 | Call of Duty: Warzone - Combat Pack: Shogun | 305852 | [305852-call-of-duty-warzone-combat-pack-shogun.json](./305852-call-of-duty-warzone-combat-pack-shogun.json) |
@@ -625,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cambrian Crawl | 404981 | [404981-cambrian-crawl.json](./404981-cambrian-crawl.json) |
 | Cambrian Dawn | 226280 | [226280-cambrian-dawn.json](./226280-cambrian-dawn.json) |
 | Camega | 202808 | [202808-camega.json](./202808-camega.json) |
+| Camel | 169914 | [169914-camel.json](./169914-camel.json) |
 | Camel Up | 197715 | [197715-camel-up.json](./197715-camel-up.json) |
 | Camelbirds | 318978 | [318978-camelbirds.json](./318978-camelbirds.json) |
 | Camellia Train | 200530 | [200530-camellia-train.json](./200530-camellia-train.json) |
@@ -7062,6 +7064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Dungeon | 185592 | [185592-code-dungeon.json](./185592-code-dungeon.json) |
 | Code Eagle! | 246438 | [246438-code-eagle.json](./246438-code-eagle.json) |
 | Code Exit | 292540 | [292540-code-exit.json](./292540-code-exit.json) |
+| Code Geass: Genesic Re;Code | 169915 | [169915-code-geass-genesic-re-code.json](./169915-code-geass-genesic-re-code.json) |
 | Code Geass: Hangyaku no Lelouch | 80230 | [80230-code-geass-hangyaku-no-lelouch.json](./80230-code-geass-hangyaku-no-lelouch.json) |
 | Code Geass: Lelouch of the Rebellion - Lost Colors | 66411 | [66411-code-geass-lelouch-of-the-rebellion-lost-colors.json](./66411-code-geass-lelouch-of-the-rebellion-lost-colors.json) |
 | Code Geass: Lelouch of the Rebellion R2 Banjou no Geass Gekijou | 80162 | [80162-code-geass-lelouch-of-the-rebellion-r2-banjou-no-geass-gekijou.json](./80162-code-geass-lelouch-of-the-rebellion-r2-banjou-no-geass-gekijou.json) |
@@ -8015,6 +8018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combine Destiny | 222417 | [222417-combine-destiny.json](./222417-combine-destiny.json) |
 | Combine War Toys | 111029 | [111029-combine-war-toys.json](./111029-combine-war-toys.json) |
 | Combine! Dino Robot - Dino Corps | 90971 | [90971-combine-dino-robot-dino-corps.json](./90971-combine-dino-robot-dino-corps.json) |
+| Combined Arms Operations Series | 169713 | [169713-combined-arms-operations-series.json](./169713-combined-arms-operations-series.json) |
 | Combined Arms: World War II | 59523 | [59523-combined-arms-world-war-ii.json](./59523-combined-arms-world-war-ii.json) |
 | Combined_Arms | 143116 | [143116-combined-arms.json](./143116-combined-arms.json) |
 | Combined_Arms Gaiden | 143117 | [143117-combined-arms-gaiden.json](./143117-combined-arms-gaiden.json) |
@@ -10476,6 +10480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craterbound | 186123 | [186123-craterbound.json](./186123-craterbound.json) |
 | Crates n' Mohawks | 186339 | [186339-crates-n-mohawks.json](./186339-crates-n-mohawks.json) |
 | CrateTastrophe | 164271 | [164271-cratetastrophe.json](./164271-cratetastrophe.json) |
+| Crave | 170250 | [170250-crave.json](./170250-crave.json) |
 | Craving Wisps | 403210 | [403210-craving-wisps.json](./403210-craving-wisps.json) |
 | Crawl | 11049 | [11049-crawl.json](./11049-crawl.json) |
 | Crawl | 295634 | [295634-crawl.json](./295634-crawl.json) |
@@ -11601,6 +11606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown Solitaire: Card Game | 96714 | [96714-crown-solitaire-card-game.json](./96714-crown-solitaire-card-game.json) |
 | Crown Trick | 113689 | [113689-crown-trick.json](./113689-crown-trick.json) |
 | Crown Trick: Limited Edition | 173112 | [173112-crown-trick-limited-edition.json](./173112-crown-trick-limited-edition.json) |
+| Crown Trick: Special Edition | 170037 | [170037-crown-trick-special-edition.json](./170037-crown-trick-special-edition.json) |
 | Crown Wars: The Black Prince | 208416 | [208416-crown-wars-the-black-prince.json](./208416-crown-wars-the-black-prince.json) |
 | Crown Wars: The Black Prince - Brotherhood of Light Cosmetic Pack | 290124 | [290124-crown-wars-the-black-prince-brotherhood-of-light-cosmetic-pack.json](./290124-crown-wars-the-black-prince-brotherhood-of-light-cosmetic-pack.json) |
 | Crown Wars: The Black Prince - Sacred Edition | 302179 | [302179-crown-wars-the-black-prince-sacred-edition.json](./302179-crown-wars-the-black-prince-sacred-edition.json) |
@@ -11992,6 +11998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Rider | 160210 | [160210-crystal-rider.json](./160210-crystal-rider.json) |
 | Crystal Riders VR | 236393 | [236393-crystal-riders-vr.json](./236393-crystal-riders-vr.json) |
 | Crystal Sequence | 151015 | [151015-crystal-sequence.json](./151015-crystal-sequence.json) |
+| Crystal Shard Adventure: Meta | 169913 | [169913-crystal-shard-adventure-meta.json](./169913-crystal-shard-adventure-meta.json) |
 | Crystal Soul Arena | 122899 | [122899-crystal-soul-arena.json](./122899-crystal-soul-arena.json) |
 | Crystal Soul Chambers | 132257 | [132257-crystal-soul-chambers.json](./132257-crystal-soul-chambers.json) |
 | Crystal Squad | 236503 | [236503-crystal-squad.json](./236503-crystal-squad.json) |
