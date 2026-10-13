@@ -1942,7 +1942,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Arthouse | 117005 | [117005-lego-arthouse.json](./117005-lego-arthouse.json) |
 | LEGO Batman 2: DC Super Heroes | 6836 | [6836-lego-batman-2-dc-super-heroes.json](./6836-lego-batman-2-dc-super-heroes.json) |
 | LEGO Batman 3: Beyond Gotham | 7685 | [7685-lego-batman-3-beyond-gotham.json](./7685-lego-batman-3-beyond-gotham.json) |
+| LEGO Batman 3: Beyond Gotham - Batman 75th Anniversary | 168791 | [168791-lego-batman-3-beyond-gotham-batman-75th-anniversary.json](./168791-lego-batman-3-beyond-gotham-batman-75th-anniversary.json) |
 | LEGO Batman 3: Beyond Gotham - Dark Knight | 266232 | [266232-lego-batman-3-beyond-gotham-dark-knight.json](./266232-lego-batman-3-beyond-gotham-dark-knight.json) |
+| LEGO Batman 3: Beyond Gotham - Heroines and Villainesses Character Pack | 168790 | [168790-lego-batman-3-beyond-gotham-heroines-and-villainesses-character-pack.json](./168790-lego-batman-3-beyond-gotham-heroines-and-villainesses-character-pack.json) |
+| LEGO Batman 3: Beyond Gotham - Man of Steel | 168789 | [168789-lego-batman-3-beyond-gotham-man-of-steel.json](./168789-lego-batman-3-beyond-gotham-man-of-steel.json) |
 | LEGO Batman 3: Beyond Gotham - Premium Edition | 118897 | [118897-lego-batman-3-beyond-gotham-premium-edition.json](./118897-lego-batman-3-beyond-gotham-premium-edition.json) |
 | Lego Batman 3: Beyond Gotham Rainbow Character Pack | 254995 | [254995-lego-batman-3-beyond-gotham-rainbow-character-pack.json](./254995-lego-batman-3-beyond-gotham-rainbow-character-pack.json) |
 | LEGO Batman Trilogy | 125173 | [125173-lego-batman-trilogy.json](./125173-lego-batman-trilogy.json) |
