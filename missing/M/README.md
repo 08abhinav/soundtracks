@@ -4665,7 +4665,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Coin Hunt | 368540 | [368540-medieval-coin-hunt.json](./368540-medieval-coin-hunt.json) |
 | Medieval Combat: Age of Glory | 216354 | [216354-medieval-combat-age-of-glory.json](./216354-medieval-combat-age-of-glory.json) |
 | Medieval Conquest | 305948 | [305948-medieval-conquest.json](./305948-medieval-conquest.json) |
+| Medieval Cop | 141592 | [141592-medieval-cop.json](./141592-medieval-cop.json) |
 | Medieval Cop - Adam and Eva | 101751 | [101751-medieval-cop-adam-and-eva.json](./101751-medieval-cop-adam-and-eva.json) |
+| Medieval Cop: Medieval Angel | 141597 | [141597-medieval-cop-medieval-angel.json](./141597-medieval-cop-medieval-angel.json) |
+| Medieval Cop: Medieval Chronicle | 141596 | [141596-medieval-cop-medieval-chronicle.json](./141596-medieval-cop-medieval-chronicle.json) |
 | Medieval Cop: Wolf's Bane | 101693 | [101693-medieval-cop-wolfs-bane.json](./101693-medieval-cop-wolfs-bane.json) |
 | Medieval Crafter: Blacksmith | 244837 | [244837-medieval-crafter-blacksmith.json](./244837-medieval-crafter-blacksmith.json) |
 | Medieval Defence | 235997 | [235997-medieval-defence.json](./235997-medieval-defence.json) |
@@ -10559,6 +10562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Tutor | 357455 | [357455-monster-tutor.json](./357455-monster-tutor.json) |
 | Monster Universe | 237640 | [237640-monster-universe.json](./237640-monster-universe.json) |
 | Monster Waifu | 226190 | [226190-monster-waifu.json](./226190-monster-waifu.json) |
+| Monster Warlord | 141483 | [141483-monster-warlord.json](./141483-monster-warlord.json) |
 | Monster Wilds | 159532 | [159532-monster-wilds.json](./159532-monster-wilds.json) |
 | Monster X Monster | 118032 | [118032-monster-x-monster.json](./118032-monster-x-monster.json) |
 | Monster: Titan's Playground | 302927 | [302927-monster-titans-playground.json](./302927-monster-titans-playground.json) |
