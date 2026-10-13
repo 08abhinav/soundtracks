@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T07:49:50.410Z",
-  "total_missing": 205323,
+  "generated_at": "2026-10-13T08:32:27.175Z",
+  "total_missing": 205420,
   "games": [
     {
       "igdb_id": 191680,
@@ -2543,6 +2543,11 @@
       "file": "missing/0-9/244869-1001-jigsaw-cute-cats-5.json"
     },
     {
+      "igdb_id": 163000,
+      "game_name": "1001 Jigsaw: Earth Chronicles 2",
+      "file": "missing/0-9/163000-1001-jigsaw-earth-chronicles-2.json"
+    },
+    {
       "igdb_id": 90040,
       "game_name": "1001 Jigsaw: Earth Chronicles 3",
       "file": "missing/0-9/90040-1001-jigsaw-earth-chronicles-3.json"
@@ -2551,6 +2556,11 @@
       "igdb_id": 87252,
       "game_name": "1001 Jigsaw: Earth Chronicles 4",
       "file": "missing/0-9/87252-1001-jigsaw-earth-chronicles-4.json"
+    },
+    {
+      "igdb_id": 162995,
+      "game_name": "1001 Jigsaw: Earth Chronicles 5",
+      "file": "missing/0-9/162995-1001-jigsaw-earth-chronicles-5.json"
     },
     {
       "igdb_id": 195443,
@@ -7051,6 +7061,16 @@
       "igdb_id": 149424,
       "game_name": "3D Hentai Chess",
       "file": "missing/0-9/149424-3d-hentai-chess.json"
+    },
+    {
+      "igdb_id": 163558,
+      "game_name": "3D Hentai Puzzle",
+      "file": "missing/0-9/163558-3d-hentai-puzzle.json"
+    },
+    {
+      "igdb_id": 163534,
+      "game_name": "3D Hentai Puzzle 2",
+      "file": "missing/0-9/163534-3d-hentai-puzzle-2.json"
     },
     {
       "igdb_id": 327387,
@@ -17476,6 +17496,11 @@
       "igdb_id": 341612,
       "game_name": "Abyss Vaulter",
       "file": "missing/A/341612-abyss-vaulter.json"
+    },
+    {
+      "igdb_id": 163024,
+      "game_name": "Abyss Vein",
+      "file": "missing/A/163024-abyss-vein.json"
     },
     {
       "igdb_id": 235746,
@@ -31011,6 +31036,16 @@
       "igdb_id": 223485,
       "game_name": "Alice's Burger Shop",
       "file": "missing/A/223485-alices-burger-shop.json"
+    },
+    {
+      "igdb_id": 163005,
+      "game_name": "Alice's Jigsaw: Time Travel",
+      "file": "missing/A/163005-alices-jigsaw-time-travel.json"
+    },
+    {
+      "igdb_id": 163001,
+      "game_name": "Alice's Jigsaw: Time Travel 2",
+      "file": "missing/A/163001-alices-jigsaw-time-travel-2.json"
     },
     {
       "igdb_id": 102816,
@@ -86723,6 +86758,11 @@
       "file": "missing/B/127142-beatmania-iidx-27-heroic-verse.json"
     },
     {
+      "igdb_id": 163564,
+      "game_name": "Beatmania IIDX 29 CastHour",
+      "file": "missing/B/163564-beatmania-iidx-29-casthour.json"
+    },
+    {
       "igdb_id": 94021,
       "game_name": "Beatmania IIDX 2nd style",
       "file": "missing/B/94021-beatmania-iidx-2nd-style.json"
@@ -97121,6 +97161,11 @@
       "igdb_id": 272836,
       "game_name": "Bite Size Terrors: Eye Candy",
       "file": "missing/B/272836-bite-size-terrors-eye-candy.json"
+    },
+    {
+      "igdb_id": 163527,
+      "game_name": "Bite Sized Puzzle",
+      "file": "missing/B/163527-bite-sized-puzzle.json"
     },
     {
       "igdb_id": 108770,
@@ -150968,6 +151013,11 @@
       "file": "missing/C/249849-chicken-tricks.json"
     },
     {
+      "igdb_id": 163022,
+      "game_name": "Chicken Utopia",
+      "file": "missing/C/163022-chicken-utopia.json"
+    },
+    {
       "igdb_id": 276297,
       "game_name": "Chicken vs. Eggs",
       "file": "missing/C/276297-chicken-vs-eggs.json"
@@ -161891,6 +161941,11 @@
       "igdb_id": 133323,
       "game_name": "Close Your Eyes",
       "file": "missing/C/133323-close-your-eyes.json"
+    },
+    {
+      "igdb_id": 163551,
+      "game_name": "Close Your Eyes: The Twisted Puzzle",
+      "file": "missing/C/163551-close-your-eyes-the-twisted-puzzle.json"
     },
     {
       "igdb_id": 155991,
@@ -173331,6 +173386,11 @@
       "igdb_id": 263215,
       "game_name": "Contraption Maker: Mighty Knights Parts & Puzzles Pack",
       "file": "missing/C/263215-contraption-maker-mighty-knights-parts-and-puzzles-pack.json"
+    },
+    {
+      "igdb_id": 163533,
+      "game_name": "Contraption Maker: Wonderstructs - Part & Puzzle Expansion Pack",
+      "file": "missing/C/163533-contraption-maker-wonderstructs-part-and-puzzle-expansion-pack.json"
     },
     {
       "igdb_id": 24864,
@@ -189783,6 +189843,11 @@
       "file": "missing/C/107789-cubeology.json"
     },
     {
+      "igdb_id": 163546,
+      "game_name": "CubePuzzle",
+      "file": "missing/C/163546-cubepuzzle.json"
+    },
+    {
       "igdb_id": 254584,
       "game_name": "Cuber",
       "file": "missing/C/254584-cuber.json"
@@ -191886,6 +191951,11 @@
       "igdb_id": 337215,
       "game_name": "Cursed House 7",
       "file": "missing/C/337215-cursed-house-7.json"
+    },
+    {
+      "igdb_id": 163532,
+      "game_name": "Cursed House 9: Match 3 Puzzle",
+      "file": "missing/C/163532-cursed-house-9-match-3-puzzle.json"
     },
     {
       "igdb_id": 315581,
@@ -224983,6 +225053,11 @@
       "file": "missing/D/408955-dimensions-2.json"
     },
     {
+      "igdb_id": 163547,
+      "game_name": "Dimensions Puzzle",
+      "file": "missing/D/163547-dimensions-puzzle.json"
+    },
+    {
       "igdb_id": 16152,
       "game_name": "Dimensity",
       "file": "missing/D/16152-dimensity.json"
@@ -252983,6 +253058,11 @@
       "file": "missing/D/322851-dungeon-crystal.json"
     },
     {
+      "igdb_id": 163573,
+      "game_name": "Dungeon D14",
+      "file": "missing/D/163573-dungeon-d14.json"
+    },
+    {
       "igdb_id": 191832,
       "game_name": "Dungeon Dad",
       "file": "missing/D/191832-dungeon-dad.json"
@@ -253861,6 +253941,11 @@
       "igdb_id": 65261,
       "game_name": "Dungeon Overlord",
       "file": "missing/D/65261-dungeon-overlord.json"
+    },
+    {
+      "igdb_id": 163017,
+      "game_name": "Dungeon Overseer",
+      "file": "missing/D/163017-dungeon-overseer.json"
     },
     {
       "igdb_id": 117561,
@@ -263703,6 +263788,11 @@
       "file": "missing/E/325514-elder-lich.json"
     },
     {
+      "igdb_id": 163554,
+      "game_name": "Elder Puzzle",
+      "file": "missing/E/163554-elder-puzzle.json"
+    },
+    {
       "igdb_id": 351154,
       "game_name": "Elder Ring",
       "file": "missing/E/351154-elder-ring.json"
@@ -268506,6 +268596,11 @@
       "igdb_id": 130706,
       "game_name": "Encore Card Games",
       "file": "missing/E/130706-encore-card-games.json"
+    },
+    {
+      "igdb_id": 163560,
+      "game_name": "Encore Classic: Puzzle & Board Games",
+      "file": "missing/E/163560-encore-classic-puzzle-and-board-games.json"
     },
     {
       "igdb_id": 364682,
@@ -273816,6 +273911,11 @@
       "igdb_id": 395218,
       "game_name": "Escape From Duckness",
       "file": "missing/E/395218-escape-from-duckness.json"
+    },
+    {
+      "igdb_id": 163574,
+      "game_name": "Escape from DuFo",
+      "file": "missing/E/163574-escape-from-dufo.json"
     },
     {
       "igdb_id": 121458,
@@ -280763,6 +280863,11 @@
       "file": "missing/E/17313-evopollution.json"
     },
     {
+      "igdb_id": 163020,
+      "game_name": "Evorales",
+      "file": "missing/E/163020-evorales.json"
+    },
+    {
       "igdb_id": 236839,
       "game_name": "Evorevo",
       "file": "missing/E/236839-evorevo.json"
@@ -286038,6 +286143,11 @@
       "file": "missing/F/227419-faeria-elements.json"
     },
     {
+      "igdb_id": 163526,
+      "game_name": "Faeria: Fall of Everlife",
+      "file": "missing/F/163526-faeria-fall-of-everlife.json"
+    },
+    {
       "igdb_id": 238217,
       "game_name": "Faeria: Game + All DLC Bundle",
       "file": "missing/F/238217-faeria-game-all-dlc-bundle.json"
@@ -286046,6 +286156,11 @@
       "igdb_id": 238045,
       "game_name": "Faeria: Premium Edition",
       "file": "missing/F/238045-faeria-premium-edition.json"
+    },
+    {
+      "igdb_id": 163524,
+      "game_name": "Faeria: Resurgence",
+      "file": "missing/F/163524-faeria-resurgence.json"
     },
     {
       "igdb_id": 133272,
@@ -300598,11 +300713,6 @@
       "file": "missing/F/394-final-fantasy-tactics-the-war-of-the-lions.json"
     },
     {
-      "igdb_id": 7399,
-      "game_name": "Final Fantasy Type-0 HD",
-      "file": "missing/F/7399-final-fantasy-type-0-hd.json"
-    },
-    {
       "igdb_id": 186630,
       "game_name": "Final Fantasy Type-0 HD: Limited Edition",
       "file": "missing/F/186630-final-fantasy-type-0-hd-limited-edition.json"
@@ -312173,6 +312283,11 @@
       "file": "missing/F/93528-flycatcher.json"
     },
     {
+      "igdb_id": 163023,
+      "game_name": "FlyChivements",
+      "file": "missing/F/163023-flychivements.json"
+    },
+    {
       "igdb_id": 117619,
       "game_name": "Flyeeex",
       "file": "missing/F/117619-flyeeex.json"
@@ -313216,6 +313331,11 @@
       "igdb_id": 218129,
       "game_name": "Follow You",
       "file": "missing/F/218129-follow-you.json"
+    },
+    {
+      "igdb_id": 163039,
+      "game_name": "Follow Your Heart",
+      "file": "missing/F/163039-follow-your-heart.json"
     },
     {
       "igdb_id": 288125,
@@ -323233,6 +323353,11 @@
       "file": "missing/F/158029-frikin-the-laser-shark.json"
     },
     {
+      "igdb_id": 163531,
+      "game_name": "Frincess&Cnight",
+      "file": "missing/F/163531-frincess-and-cnight.json"
+    },
+    {
       "igdb_id": 121393,
       "game_name": "Fringe Planet",
       "file": "missing/F/121393-fringe-planet.json"
@@ -328536,6 +328661,11 @@
       "igdb_id": 148570,
       "game_name": "Furry Pride",
       "file": "missing/F/148570-furry-pride.json"
+    },
+    {
+      "igdb_id": 163552,
+      "game_name": "Furry Puzzle",
+      "file": "missing/F/163552-furry-puzzle.json"
     },
     {
       "igdb_id": 237055,
@@ -344456,6 +344586,11 @@
       "igdb_id": 154365,
       "game_name": "Girl Jigsaw 2",
       "file": "missing/G/154365-girl-jigsaw-2.json"
+    },
+    {
+      "igdb_id": 162993,
+      "game_name": "Girl Jigsaw 2: Patch",
+      "file": "missing/G/162993-girl-jigsaw-2-patch.json"
     },
     {
       "igdb_id": 391854,
@@ -366158,6 +366293,11 @@
       "file": "missing/G/54071-gunspell.json"
     },
     {
+      "igdb_id": 163550,
+      "game_name": "Gunspell 2: Match 3 Puzzle RPG",
+      "file": "missing/G/163550-gunspell-2-match-3-puzzle-rpg.json"
+    },
+    {
       "igdb_id": 36221,
       "game_name": "Gunspell: Steam Edition",
       "file": "missing/G/36221-gunspell-steam-edition.json"
@@ -382943,6 +383083,11 @@
       "file": "missing/H/379548-hentai-fetishes-yuri.json"
     },
     {
+      "igdb_id": 163011,
+      "game_name": "Hentai Fight Club",
+      "file": "missing/H/163011-hentai-fight-club.json"
+    },
+    {
       "igdb_id": 404940,
       "game_name": "Hentai Foot Fetish",
       "file": "missing/H/404940-hentai-foot-fetish.json"
@@ -383038,6 +383183,11 @@
       "file": "missing/H/362202-hentai-games-collection-vol-3.json"
     },
     {
+      "igdb_id": 163541,
+      "game_name": "Hentai GIF Puzzle",
+      "file": "missing/H/163541-hentai-gif-puzzle.json"
+    },
+    {
       "igdb_id": 111252,
       "game_name": "Hentai Girl Betty",
       "file": "missing/H/111252-hentai-girl-betty.json"
@@ -383076,6 +383226,11 @@
       "igdb_id": 294164,
       "game_name": "Hentai Girls",
       "file": "missing/H/294164-hentai-girls.json"
+    },
+    {
+      "igdb_id": 163535,
+      "game_name": "Hentai Girls 18+",
+      "file": "missing/H/163535-hentai-girls-18.json"
     },
     {
       "igdb_id": 340435,
@@ -383418,6 +383573,11 @@
       "file": "missing/H/297799-hentai-homewrecker.json"
     },
     {
+      "igdb_id": 163013,
+      "game_name": "Hentai Honeys Jigsaw",
+      "file": "missing/H/163013-hentai-honeys-jigsaw.json"
+    },
+    {
       "igdb_id": 384703,
       "game_name": "Hentai Horny Furry",
       "file": "missing/H/384703-hentai-horny-furry.json"
@@ -383448,9 +383608,34 @@
       "file": "missing/H/155689-hentai-in-the-forest.json"
     },
     {
+      "igdb_id": 163570,
+      "game_name": "Hentai IQ Puzzle",
+      "file": "missing/H/163570-hentai-iq-puzzle.json"
+    },
+    {
+      "igdb_id": 163571,
+      "game_name": "Hentai IQ Puzzle: Puzzle Pack - 5 IQ",
+      "file": "missing/H/163571-hentai-iq-puzzle-puzzle-pack-5-iq.json"
+    },
+    {
       "igdb_id": 226187,
       "game_name": "Hentai Island",
       "file": "missing/H/226187-hentai-island.json"
+    },
+    {
+      "igdb_id": 162998,
+      "game_name": "Hentai Jigsaw Alison",
+      "file": "missing/H/162998-hentai-jigsaw-alison.json"
+    },
+    {
+      "igdb_id": 162997,
+      "game_name": "Hentai Jigsaw Emma",
+      "file": "missing/H/162997-hentai-jigsaw-emma.json"
+    },
+    {
+      "igdb_id": 162994,
+      "game_name": "Hentai Jigsaw Flora",
+      "file": "missing/H/162994-hentai-jigsaw-flora.json"
     },
     {
       "igdb_id": 162840,
@@ -383738,6 +383923,16 @@
       "file": "missing/H/161411-hentai-nureta-puzzle-college.json"
     },
     {
+      "igdb_id": 163557,
+      "game_name": "Hentai Nureta Puzzle Cyberpunk",
+      "file": "missing/H/163557-hentai-nureta-puzzle-cyberpunk.json"
+    },
+    {
+      "igdb_id": 163559,
+      "game_name": "Hentai Nureta Puzzle Power Girls",
+      "file": "missing/H/163559-hentai-nureta-puzzle-power-girls.json"
+    },
+    {
       "igdb_id": 296945,
       "game_name": "Hentai Nurse",
       "file": "missing/H/296945-hentai-nurse.json"
@@ -383846,6 +384041,11 @@
       "igdb_id": 111487,
       "game_name": "Hentai Plus Girl",
       "file": "missing/H/111487-hentai-plus-girl.json"
+    },
+    {
+      "igdb_id": 163543,
+      "game_name": "Hentai Plus Girl: Puzzle Pack - 5 Girls",
+      "file": "missing/H/163543-hentai-plus-girl-puzzle-pack-5-girls.json"
     },
     {
       "igdb_id": 411068,
@@ -389146,6 +389346,11 @@
       "igdb_id": 132615,
       "game_name": "Hidden Dream",
       "file": "missing/H/132615-hidden-dream.json"
+    },
+    {
+      "igdb_id": 163031,
+      "game_name": "Hidden Dream",
+      "file": "missing/H/163031-hidden-dream.json"
     },
     {
       "igdb_id": 222935,
@@ -400696,6 +400901,11 @@
       "igdb_id": 224512,
       "game_name": "Hot Heat Reset",
       "file": "missing/H/224512-hot-heat-reset.json"
+    },
+    {
+      "igdb_id": 163529,
+      "game_name": "Hot Hentai Puzzle Vol.1",
+      "file": "missing/H/163529-hot-hentai-puzzle-vol-1.json"
     },
     {
       "igdb_id": 269011,
@@ -436543,6 +436753,11 @@
       "file": "missing/J/366437-jigsaw-detective.json"
     },
     {
+      "igdb_id": 162996,
+      "game_name": "Jigsaw Frame: Relax",
+      "file": "missing/J/162996-jigsaw-frame-relax.json"
+    },
+    {
       "igdb_id": 197341,
       "game_name": "Jigsaw Fun 3-in-1 Collection",
       "file": "missing/J/197341-jigsaw-fun-3-in-1-collection.json"
@@ -436836,6 +437051,16 @@
       "igdb_id": 283274,
       "game_name": "Jigsaw Pets",
       "file": "missing/J/283274-jigsaw-pets.json"
+    },
+    {
+      "igdb_id": 163009,
+      "game_name": "Jigsaw Pieces 3: Fantasy",
+      "file": "missing/J/163009-jigsaw-pieces-3-fantasy.json"
+    },
+    {
+      "igdb_id": 162999,
+      "game_name": "Jigsaw Pieces: Romance",
+      "file": "missing/J/162999-jigsaw-pieces-romance.json"
     },
     {
       "igdb_id": 97145,
@@ -461836,6 +462061,11 @@
       "igdb_id": 340888,
       "game_name": "Kombi",
       "file": "missing/K/340888-kombi.json"
+    },
+    {
+      "igdb_id": 163007,
+      "game_name": "Kombi Travels: Jigsaw Landscapes",
+      "file": "missing/K/163007-kombi-travels-jigsaw-landscapes.json"
     },
     {
       "igdb_id": 194249,
@@ -494908,6 +495138,11 @@
       "file": "missing/L/118239-lovely-girl-puzzle.json"
     },
     {
+      "igdb_id": 163540,
+      "game_name": "Lovely Girls Puzzle",
+      "file": "missing/L/163540-lovely-girls-puzzle.json"
+    },
+    {
       "igdb_id": 155019,
       "game_name": "Lovely Goddess",
       "file": "missing/L/155019-lovely-goddess.json"
@@ -495366,6 +495601,11 @@
       "igdb_id": 295009,
       "game_name": "LowPoly Towerdefense",
       "file": "missing/L/295009-lowpoly-towerdefense.json"
+    },
+    {
+      "igdb_id": 163019,
+      "game_name": "LowPolyExplorer",
+      "file": "missing/L/163019-lowpolyexplorer.json"
     },
     {
       "igdb_id": 223632,
@@ -498543,6 +498783,16 @@
       "file": "missing/L/329071-lux.json"
     },
     {
+      "igdb_id": 163034,
+      "game_name": "Lux Delux: American History Lux",
+      "file": "missing/L/163034-lux-delux-american-history-lux.json"
+    },
+    {
+      "igdb_id": 163035,
+      "game_name": "Lux Delux: Ancient Empires Lux",
+      "file": "missing/L/163035-lux-delux-ancient-empires-lux.json"
+    },
+    {
       "igdb_id": 96895,
       "game_name": "Lux DLX 3 - Map Conquest Game",
       "file": "missing/L/96895-lux-dlx-3-map-conquest-game.json"
@@ -498556,6 +498806,11 @@
       "igdb_id": 217286,
       "game_name": "Lux Intacta",
       "file": "missing/L/217286-lux-intacta.json"
+    },
+    {
+      "igdb_id": 163036,
+      "game_name": "Lux mina",
+      "file": "missing/L/163036-lux-mina.json"
     },
     {
       "igdb_id": 149030,
@@ -517636,6 +517891,11 @@
       "igdb_id": 186703,
       "game_name": "Math Gym",
       "file": "missing/M/186703-math-gym.json"
+    },
+    {
+      "igdb_id": 163556,
+      "game_name": "Math Hero: Minimalist Puzzle",
+      "file": "missing/M/163556-math-hero-minimalist-puzzle.json"
     },
     {
       "igdb_id": 238935,
@@ -553498,11 +553758,6 @@
       "file": "missing/M/304874-mordfield-command.json"
     },
     {
-      "igdb_id": 27729,
-      "game_name": "Mordhau",
-      "file": "missing/M/27729-mordhau.json"
-    },
-    {
       "igdb_id": 272449,
       "game_name": "Mordhau: Archduke Set",
       "file": "missing/M/272449-mordhau-archduke-set.json"
@@ -565678,6 +565933,11 @@
       "file": "missing/M/68938-my-japanese-coach.json"
     },
     {
+      "igdb_id": 163002,
+      "game_name": "My Jigsaw Adventures: The Source of Power",
+      "file": "missing/M/163002-my-jigsaw-adventures-the-source-of-power.json"
+    },
+    {
       "igdb_id": 339105,
       "game_name": "My Journey",
       "file": "missing/M/339105-my-journey.json"
@@ -566446,6 +566706,11 @@
       "igdb_id": 153503,
       "game_name": "My Neighborhood Arcade",
       "file": "missing/M/153503-my-neighborhood-arcade.json"
+    },
+    {
+      "igdb_id": 163530,
+      "game_name": "My Neighborhood Arcade: Block Puzzle Unit",
+      "file": "missing/M/163530-my-neighborhood-arcade-block-puzzle-unit.json"
     },
     {
       "igdb_id": 265591,
@@ -569971,6 +570236,11 @@
       "igdb_id": 247172,
       "game_name": "Mystical Stones",
       "file": "missing/M/247172-mystical-stones.json"
+    },
+    {
+      "igdb_id": 163040,
+      "game_name": "Mysticism",
+      "file": "missing/M/163040-mysticism.json"
     },
     {
       "igdb_id": 383345,
@@ -584756,6 +585026,11 @@
       "igdb_id": 170464,
       "game_name": "Night of Full Moon: Magic Curtain",
       "file": "missing/N/170464-night-of-full-moon-magic-curtain.json"
+    },
+    {
+      "igdb_id": 163523,
+      "game_name": "Night of Full Moon: Memory Puzzle",
+      "file": "missing/N/163523-night-of-full-moon-memory-puzzle.json"
     },
     {
       "igdb_id": 170460,
@@ -610508,6 +610783,11 @@
       "file": "missing/O/12456-oscar.json"
     },
     {
+      "igdb_id": 163553,
+      "game_name": "Oscar & Gems: Puzzle Quest",
+      "file": "missing/O/163553-oscar-and-gems-puzzle-quest.json"
+    },
+    {
       "igdb_id": 86031,
       "game_name": "Oscar der Ballonfahrer taucht unter",
       "file": "missing/O/86031-oscar-der-ballonfahrer-taucht-unter.json"
@@ -615006,6 +615286,11 @@
       "igdb_id": 196856,
       "game_name": "Overshift",
       "file": "missing/O/196856-overshift.json"
+    },
+    {
+      "igdb_id": 163025,
+      "game_name": "OverShoot Battle Race",
+      "file": "missing/O/163025-overshoot-battle-race.json"
     },
     {
       "igdb_id": 148135,
@@ -627973,6 +628258,11 @@
       "file": "missing/P/176286-pebbles-wenches.json"
     },
     {
+      "igdb_id": 163015,
+      "game_name": "Peblito: Rock and Roll",
+      "file": "missing/P/163015-peblito-rock-and-roll.json"
+    },
+    {
       "igdb_id": 335693,
       "game_name": "Pec-Men",
       "file": "missing/P/335693-pec-men.json"
@@ -637303,6 +637593,11 @@
       "file": "missing/P/241868-pill-puzzle.json"
     },
     {
+      "igdb_id": 163549,
+      "game_name": "Pill Puzzle 2",
+      "file": "missing/P/163549-pill-puzzle-2.json"
+    },
+    {
       "igdb_id": 255573,
       "game_name": "Pilla's Paradise",
       "file": "missing/P/255573-pillas-paradise.json"
@@ -642596,6 +642891,11 @@
       "igdb_id": 357954,
       "game_name": "Pixel Puzzles Traditional Jigsaws: Motorbikes",
       "file": "missing/P/357954-pixel-puzzles-traditional-jigsaws-motorbikes.json"
+    },
+    {
+      "igdb_id": 163003,
+      "game_name": "Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 1",
+      "file": "missing/P/163003-pixel-puzzles-traditional-jigsaws-pack-variety-pack-1.json"
     },
     {
       "igdb_id": 267407,
@@ -672398,6 +672698,31 @@
       "file": "missing/P/58066-pure-farming-2018.json"
     },
     {
+      "igdb_id": 163027,
+      "game_name": "Pure Farming 2018: Landini REX-F",
+      "file": "missing/P/163027-pure-farming-2018-landini-rex-f.json"
+    },
+    {
+      "igdb_id": 163028,
+      "game_name": "Pure Farming 2018: Lindner Geotrac 134ep",
+      "file": "missing/P/163028-pure-farming-2018-lindner-geotrac-134ep.json"
+    },
+    {
+      "igdb_id": 163026,
+      "game_name": "Pure Farming 2018: Montana Goats",
+      "file": "missing/P/163026-pure-farming-2018-montana-goats.json"
+    },
+    {
+      "igdb_id": 163029,
+      "game_name": "Pure Farming 2018: Versatile 4WD 610",
+      "file": "missing/P/163029-pure-farming-2018-versatile-4wd-610.json"
+    },
+    {
+      "igdb_id": 163030,
+      "game_name": "Pure Farming 2018: Zetor Major CL 80",
+      "file": "missing/P/163030-pure-farming-2018-zetor-major-cl-80.json"
+    },
+    {
       "igdb_id": 81926,
       "game_name": "Pure Football 2018",
       "file": "missing/P/81926-pure-football-2018.json"
@@ -673321,6 +673646,11 @@
       "igdb_id": 141661,
       "game_name": "Pussy Puzzle: Over 9000",
       "file": "missing/P/141661-pussy-puzzle-over-9000.json"
+    },
+    {
+      "igdb_id": 163562,
+      "game_name": "Pussy Puzzle: Over 9000",
+      "file": "missing/P/163562-pussy-puzzle-over-9000.json"
     },
     {
       "igdb_id": 227822,
@@ -674488,6 +674818,11 @@
       "file": "missing/P/163913-puzzle-girls-celia.json"
     },
     {
+      "igdb_id": 163548,
+      "game_name": "Puzzle Girls: Cheryl",
+      "file": "missing/P/163548-puzzle-girls-cheryl.json"
+    },
+    {
       "igdb_id": 420662,
       "game_name": "Puzzle Girls: Dark Temptation",
       "file": "missing/P/420662-puzzle-girls-dark-temptation.json"
@@ -674626,6 +674961,11 @@
       "igdb_id": 152763,
       "game_name": "Puzzle Light: Rotate",
       "file": "missing/P/152763-puzzle-light-rotate.json"
+    },
+    {
+      "igdb_id": 163539,
+      "game_name": "Puzzle Light: Slide",
+      "file": "missing/P/163539-puzzle-light-slide.json"
     },
     {
       "igdb_id": 334103,
@@ -674888,6 +675228,11 @@
       "file": "missing/P/110505-puzzle-plunder.json"
     },
     {
+      "igdb_id": 163538,
+      "game_name": "Puzzle Plunder: Vampire Night",
+      "file": "missing/P/163538-puzzle-plunder-vampire-night.json"
+    },
+    {
       "igdb_id": 23550,
       "game_name": "Puzzle Poker",
       "file": "missing/P/23550-puzzle-poker.json"
@@ -675088,6 +675433,11 @@
       "file": "missing/P/129089-puzzle-tower.json"
     },
     {
+      "igdb_id": 163542,
+      "game_name": "Puzzle Tower: Underground",
+      "file": "missing/P/163542-puzzle-tower-underground.json"
+    },
+    {
       "igdb_id": 268979,
       "game_name": "Puzzle toys",
       "file": "missing/P/268979-puzzle-toys.json"
@@ -675253,6 +675603,11 @@
       "file": "missing/P/116941-puzzle-ocean.json"
     },
     {
+      "igdb_id": 163555,
+      "game_name": "Puzzle: Stone Blocks",
+      "file": "missing/P/163555-puzzle-stone-blocks.json"
+    },
+    {
       "igdb_id": 163433,
       "game_name": "Puzzle: Ultimate - Puzzle Pack: Castles",
       "file": "missing/P/163433-puzzle-ultimate-puzzle-pack-castles.json"
@@ -675388,6 +675743,11 @@
       "file": "missing/P/303663-puzzlemazed.json"
     },
     {
+      "igdb_id": 163561,
+      "game_name": "PuzzlePet: Feed Your Cat",
+      "file": "missing/P/163561-puzzlepet-feed-your-cat.json"
+    },
+    {
       "igdb_id": 244171,
       "game_name": "Puzzlepops! Plus",
       "file": "missing/P/244171-puzzlepops-plus.json"
@@ -675521,6 +675881,11 @@
       "igdb_id": 165592,
       "game_name": "Puzzletronics",
       "file": "missing/P/165592-puzzletronics.json"
+    },
+    {
+      "igdb_id": 163536,
+      "game_name": "Puzzletronics Analog Eletronics",
+      "file": "missing/P/163536-puzzletronics-analog-eletronics.json"
     },
     {
       "igdb_id": 157039,
@@ -676431,6 +676796,16 @@
       "igdb_id": 169210,
       "game_name": "Q.U.B.E. 2: Deluxe Edition",
       "file": "missing/Q/169210-q-u-b-e-2-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 163544,
+      "game_name": "Q.U.B.E. 2: Puzzle Pack 1 - Lost Orbit",
+      "file": "missing/Q/163544-q-u-b-e-2-puzzle-pack-1-lost-orbit.json"
+    },
+    {
+      "igdb_id": 163563,
+      "game_name": "Q.U.B.E. 2: Puzzle Pack 2 - Aftermath",
+      "file": "missing/Q/163563-q-u-b-e-2-puzzle-pack-2-aftermath.json"
     },
     {
       "igdb_id": 233013,
@@ -708858,6 +709233,11 @@
       "file": "missing/R/394460-robin-hood-forest-adventures.json"
     },
     {
+      "igdb_id": 163038,
+      "game_name": "Robin Hood: Sherwood Builders",
+      "file": "missing/R/163038-robin-hood-sherwood-builders.json"
+    },
+    {
       "igdb_id": 330262,
       "game_name": "Robin Hood: Sherwood Defenders",
       "file": "missing/R/330262-robin-hood-sherwood-defenders.json"
@@ -726238,6 +726618,11 @@
       "file": "missing/S/104692-saliens.json"
     },
     {
+      "igdb_id": 163014,
+      "game_name": "Saligia",
+      "file": "missing/S/163014-saligia.json"
+    },
+    {
       "igdb_id": 141883,
       "game_name": "Sally Acorn in Sonic the Hedgehog",
       "file": "missing/S/141883-sally-acorn-in-sonic-the-hedgehog.json"
@@ -730001,6 +730386,11 @@
       "igdb_id": 382452,
       "game_name": "Saturday AM: Battle Manga",
       "file": "missing/S/382452-saturday-am-battle-manga.json"
+    },
+    {
+      "igdb_id": 163032,
+      "game_name": "Saturday Morning Sandbox",
+      "file": "missing/S/163032-saturday-morning-sandbox.json"
     },
     {
       "igdb_id": 406253,
@@ -747041,6 +747431,11 @@
       "igdb_id": 314519,
       "game_name": "Shapez 2: Supporter Edition",
       "file": "missing/S/314519-shapez-2-supporter-edition.json"
+    },
+    {
+      "igdb_id": 163537,
+      "game_name": "shapez.io: Puzzle DLC",
+      "file": "missing/S/163537-shapez-io-puzzle-dlc.json"
     },
     {
       "igdb_id": 211742,
@@ -768578,6 +768973,11 @@
       "file": "missing/S/299752-smalland-survive-the-wilds-vr.json"
     },
     {
+      "igdb_id": 163021,
+      "game_name": "Smalles",
+      "file": "missing/S/163021-smalles.json"
+    },
+    {
       "igdb_id": 177341,
       "game_name": "Smalls Island Woes",
       "file": "missing/S/177341-smalls-island-woes.json"
@@ -771956,11 +772356,6 @@
       "igdb_id": 156186,
       "game_name": "Sniper: Ghost Warrior 2 - World Hunter Pack",
       "file": "missing/S/156186-sniper-ghost-warrior-2-world-hunter-pack.json"
-    },
-    {
-      "igdb_id": 10964,
-      "game_name": "Sniper: Ghost Warrior 3",
-      "file": "missing/S/10964-sniper-ghost-warrior-3.json"
     },
     {
       "igdb_id": 26889,
@@ -811358,6 +811753,11 @@
       "file": "missing/S/103352-stony-road.json"
     },
     {
+      "igdb_id": 163528,
+      "game_name": "Stoopid Puzzle Game",
+      "file": "missing/S/163528-stoopid-puzzle-game.json"
+    },
+    {
       "igdb_id": 135700,
       "game_name": "Stop",
       "file": "missing/S/135700-stop.json"
@@ -824948,6 +825348,11 @@
       "file": "missing/S/155632-super-jigsaw-puzzle-generations-france-puzzles.json"
     },
     {
+      "igdb_id": 163004,
+      "game_name": "Super Jigsaw Puzzle: Generations - Fruits Puzzles",
+      "file": "missing/S/163004-super-jigsaw-puzzle-generations-fruits-puzzles.json"
+    },
+    {
       "igdb_id": 155589,
       "game_name": "Super Jigsaw Puzzle: Generations - Germany Puzzles",
       "file": "missing/S/155589-super-jigsaw-puzzle-generations-germany-puzzles.json"
@@ -825086,6 +825491,11 @@
       "igdb_id": 155604,
       "game_name": "Super Jigsaw Puzzle: Generations - Random Animals Puzzles",
       "file": "missing/S/155604-super-jigsaw-puzzle-generations-random-animals-puzzles.json"
+    },
+    {
+      "igdb_id": 163008,
+      "game_name": "Super Jigsaw Puzzle: Generations - Random Puzzles",
+      "file": "missing/S/163008-super-jigsaw-puzzle-generations-random-puzzles.json"
     },
     {
       "igdb_id": 155636,
@@ -829116,6 +829526,21 @@
       "igdb_id": 23072,
       "game_name": "Super Puzzle Fighter II Turbo HD Remix",
       "file": "missing/S/23072-super-puzzle-fighter-ii-turbo-hd-remix.json"
+    },
+    {
+      "igdb_id": 163565,
+      "game_name": "Super Puzzle Galaxy",
+      "file": "missing/S/163565-super-puzzle-galaxy.json"
+    },
+    {
+      "igdb_id": 163566,
+      "game_name": "Super Puzzle Galaxy - Boost Ball DLC Pack",
+      "file": "missing/S/163566-super-puzzle-galaxy-boost-ball-dlc-pack.json"
+    },
+    {
+      "igdb_id": 163567,
+      "game_name": "Super Puzzle Galaxy: Warp Ball DLC Pack",
+      "file": "missing/S/163567-super-puzzle-galaxy-warp-ball-dlc-pack.json"
     },
     {
       "igdb_id": 139238,
@@ -859511,6 +859936,11 @@
       "igdb_id": 340571,
       "game_name": "The Adventures of Detective Donut at Shao-Lu Temple",
       "file": "missing/T/340571-the-adventures-of-detective-donut-at-shao-lu-temple.json"
+    },
+    {
+      "igdb_id": 163016,
+      "game_name": "The Adventures of Dinobot and Tiara!",
+      "file": "missing/T/163016-the-adventures-of-dinobot-and-tiara.json"
     },
     {
       "igdb_id": 369600,
@@ -932738,6 +933168,11 @@
       "file": "missing/T/382209-train-journey.json"
     },
     {
+      "igdb_id": 163012,
+      "game_name": "Train Life: A Railway Simulator",
+      "file": "missing/T/163012-train-life-a-railway-simulator.json"
+    },
+    {
       "igdb_id": 219541,
       "game_name": "Train Life: A Railway Simulator - 1920's Orient-Express Train",
       "file": "missing/T/219541-train-life-a-railway-simulator-1920s-orient-express-train.json"
@@ -944418,6 +944853,16 @@
       "file": "missing/T/149239-true-hate.json"
     },
     {
+      "igdb_id": 163568,
+      "game_name": "True Hentai Puzzle",
+      "file": "missing/T/163568-true-hentai-puzzle.json"
+    },
+    {
+      "igdb_id": 163569,
+      "game_name": "True Hentai Puzzle: 666",
+      "file": "missing/T/163569-true-hentai-puzzle-666.json"
+    },
+    {
       "igdb_id": 103674,
       "game_name": "True Horror",
       "file": "missing/T/103674-true-horror.json"
@@ -945133,6 +945578,11 @@
       "file": "missing/T/227234-ts-marketplace-maunsell-59ft-low-window-corridor-coach-pack-southern-olive-green.json"
     },
     {
+      "igdb_id": 163042,
+      "game_name": "TS Marketplace: Mittenwaldbahn Scenario Pack 01 Add-On",
+      "file": "missing/T/163042-ts-marketplace-mittenwaldbahn-scenario-pack-01-add-on.json"
+    },
+    {
       "igdb_id": 227232,
       "game_name": "TS Marketplace: Mount Shasta Scenario Pack 01",
       "file": "missing/T/227232-ts-marketplace-mount-shasta-scenario-pack-01.json"
@@ -945191,6 +945641,11 @@
       "igdb_id": 227230,
       "game_name": "TS Marketplace: Tehachapi Pass Scenario Pack 01",
       "file": "missing/T/227230-ts-marketplace-tehachapi-pass-scenario-pack-01.json"
+    },
+    {
+      "igdb_id": 163041,
+      "game_name": "TS Marketplace: Union Pacific Scenario Pack 02 Add-On",
+      "file": "missing/T/163041-ts-marketplace-union-pacific-scenario-pack-02-add-on.json"
     },
     {
       "igdb_id": 130745,
@@ -952643,6 +953098,11 @@
       "file": "missing/U/163324-ultimate-sudoku-collection-basic-diagonal-pack.json"
     },
     {
+      "igdb_id": 163006,
+      "game_name": "Ultimate Sudoku Collection: Basic Jigsaw Pack",
+      "file": "missing/U/163006-ultimate-sudoku-collection-basic-jigsaw-pack.json"
+    },
+    {
       "igdb_id": 163316,
       "game_name": "Ultimate Sudoku Collection: Basic Pack",
       "file": "missing/U/163316-ultimate-sudoku-collection-basic-pack.json"
@@ -952716,6 +953176,11 @@
       "igdb_id": 163323,
       "game_name": "Ultimate Sudoku Collection: Samurai Expert Pack",
       "file": "missing/U/163323-ultimate-sudoku-collection-samurai-expert-pack.json"
+    },
+    {
+      "igdb_id": 163010,
+      "game_name": "Ultimate Sudoku Collection: Samurai Jigsaw Pack",
+      "file": "missing/U/163010-ultimate-sudoku-collection-samurai-jigsaw-pack.json"
     },
     {
       "igdb_id": 163331,
@@ -961936,6 +962401,11 @@
       "igdb_id": 190894,
       "game_name": "USS Tempest: Spaceship Simulator",
       "file": "missing/U/190894-uss-tempest-spaceship-simulator.json"
+    },
+    {
+      "igdb_id": 163545,
+      "game_name": "USSR Chan: Hentai Puzzle Game",
+      "file": "missing/U/163545-ussr-chan-hentai-puzzle-game.json"
     },
     {
       "igdb_id": 379983,
@@ -975178,6 +975648,11 @@
       "file": "missing/V/165749-vr-lunar-base-skirmish-control-the-moon.json"
     },
     {
+      "igdb_id": 163037,
+      "game_name": "VR Luxury Life (Be a Billionaire)",
+      "file": "missing/V/163037-vr-luxury-life-be-a-billionaire.json"
+    },
+    {
       "igdb_id": 384634,
       "game_name": "VR Masturbate",
       "file": "missing/V/384634-vr-masturbate.json"
@@ -977096,6 +977571,11 @@
       "igdb_id": 143651,
       "game_name": "Waifu's Spooky Space Station",
       "file": "missing/W/143651-waifus-spooky-space-station.json"
+    },
+    {
+      "igdb_id": 163018,
+      "game_name": "Waifus Smash",
+      "file": "missing/W/163018-waifus-smash.json"
     },
     {
       "igdb_id": 338554,
@@ -999541,6 +1000021,11 @@
       "igdb_id": 64713,
       "game_name": "Women's Murder Club: Twice in a Blue Moon",
       "file": "missing/W/64713-womens-murder-club-twice-in-a-blue-moon.json"
+    },
+    {
+      "igdb_id": 163033,
+      "game_name": "Women's Prison",
+      "file": "missing/W/163033-womens-prison.json"
     },
     {
       "igdb_id": 152880,
