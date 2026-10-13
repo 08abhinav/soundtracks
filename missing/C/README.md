@@ -1970,6 +1970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cascade Theater | 303269 | [303269-cascade-theater.json](./303269-cascade-theater.json) |
 | Cascadia Quest | 154564 | [154564-cascadia-quest.json](./154564-cascadia-quest.json) |
 | Cascading Failure | 155690 | [155690-cascading-failure.json](./155690-cascading-failure.json) |
+| Cascadio | 134948 | [134948-cascadio.json](./134948-cascadio.json) |
 | Case | 323550 | [323550-case.json](./323550-case.json) |
 | Case #1472 | 201494 | [201494-case-1472.json](./201494-case-1472.json) |
 | Case #8 | 18212 | [18212-case-8.json](./18212-case-8.json) |
@@ -12434,6 +12435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubed | 120996 | [120996-cubed.json](./120996-cubed.json) |
 | CubeDood in the Memory Snatcher | 239336 | [239336-cubedood-in-the-memory-snatcher.json](./239336-cubedood-in-the-memory-snatcher.json) |
 | CubeeRun Memories | 284983 | [284983-cubeerun-memories.json](./284983-cubeerun-memories.json) |
+| Cubefall | 134934 | [134934-cubefall.json](./134934-cubefall.json) |
 | CubeGate | 266178 | [266178-cubegate.json](./266178-cubegate.json) |
 | CubeGod | 291371 | [291371-cubegod.json](./291371-cubegod.json) |
 | CubeGun | 17372 | [17372-cubegun.json](./17372-cubegun.json) |
