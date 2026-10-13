@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lac-Pochette Centennial | 398508 | [398508-lac-pochette-centennial.json](./398508-lac-pochette-centennial.json) |
 | Lacerta | 323542 | [323542-lacerta.json](./323542-lacerta.json) |
 | Lacey's Flash Games | 334698 | [334698-laceys-flash-games.json](./334698-laceys-flash-games.json) |
+| Lack of Water | 173004 | [173004-lack-of-water.json](./173004-lack-of-water.json) |
 | Lackgirl I: Astra Inclinant, sed Non Obligant. | 243225 | [243225-lackgirl-i-astra-inclinant-sed-non-obligant.json](./243225-lackgirl-i-astra-inclinant-sed-non-obligant.json) |
 | Lackgirl II: De Docta Ignorantia | 314282 | [314282-lackgirl-ii-de-docta-ignorantia.json](./314282-lackgirl-ii-de-docta-ignorantia.json) |
 | Lacrimal Eye | 312713 | [312713-lacrimal-eye.json](./312713-lacrimal-eye.json) |
@@ -5793,6 +5794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovelorn Sanatorium Ⅲ | 239654 | [239654-lovelorn-sanatorium-iii.json](./239654-lovelorn-sanatorium-iii.json) |
 | Lovelove Boin: High-handed Girl's Boobs | 97374 | [97374-lovelove-boin-high-handed-girls-boobs.json](./97374-lovelove-boin-high-handed-girls-boobs.json) |
 | Lovely Anemone | 184905 | [184905-lovely-anemone.json](./184905-lovely-anemone.json) |
+| Lovely Animal Stories | 173201 | [173201-lovely-animal-stories.json](./173201-lovely-animal-stories.json) |
 | Lovely Anime Puzzle: Christmas | 369696 | [369696-lovely-anime-puzzle-christmas.json](./369696-lovely-anime-puzzle-christmas.json) |
 | Lovely Anime Puzzle: Spring | 398328 | [398328-lovely-anime-puzzle-spring.json](./398328-lovely-anime-puzzle-spring.json) |
 | Lovely Anime Puzzle: Summer | 385868 | [385868-lovely-anime-puzzle-summer.json](./385868-lovely-anime-puzzle-summer.json) |
@@ -5907,6 +5909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lowrider | 43550 | [43550-lowrider.json](./43550-lowrider.json) |
 | Lowrider Hopping | 287087 | [287087-lowrider-hopping.json](./287087-lowrider-hopping.json) |
 | Lows Adventures | 214489 | [214489-lows-adventures.json](./214489-lows-adventures.json) |
+| Lowsy | 173216 | [173216-lowsy.json](./173216-lowsy.json) |
 | Lowtide | 265981 | [265981-lowtide.json](./265981-lowtide.json) |
 | Lowtris | 362337 | [362337-lowtris.json](./362337-lowtris.json) |
 | Loya | 239661 | [239661-loya.json](./239661-loya.json) |
@@ -6067,6 +6070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Stars 2 | 89722 | [89722-lucky-stars-2.json](./89722-lucky-stars-2.json) |
 | Lucky Stars Video Slots | 175990 | [175990-lucky-stars-video-slots.json](./175990-lucky-stars-video-slots.json) |
 | Lucky Tlhalerwa: Super Incursion | 190059 | [190059-lucky-tlhalerwa-super-incursion.json](./190059-lucky-tlhalerwa-super-incursion.json) |
+| Lucky Tlhalerwa's Cybernetic Titan | 173204 | [173204-lucky-tlhalerwas-cybernetic-titan.json](./173204-lucky-tlhalerwas-cybernetic-titan.json) |
 | Lucky Tower | 219067 | [219067-lucky-tower.json](./219067-lucky-tower.json) |
 | Lucky VS Aliens | 95221 | [95221-lucky-vs-aliens.json](./95221-lucky-vs-aliens.json) |
 | Luckyest | 376124 | [376124-luckyest.json](./376124-luckyest.json) |
