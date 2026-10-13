@@ -841,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dariusburst: Second Prologue | 22340 | [22340-dariusburst-second-prologue.json](./22340-dariusburst-second-prologue.json) |
 | Dark & Under | 144371 | [144371-dark-and-under.json](./144371-dark-and-under.json) |
 | Dark 7 | 310528 | [310528-dark-7.json](./310528-dark-7.json) |
+| Dark Abyss | 148283 | [148283-dark-abyss.json](./148283-dark-abyss.json) |
 | Dark Adelita | 350419 | [350419-dark-adelita.json](./350419-dark-adelita.json) |
 | Dark Adventure | 38529 | [38529-dark-adventure.json](./38529-dark-adventure.json) |
 | Dark Aegis | 416790 | [416790-dark-aegis.json](./416790-dark-aegis.json) |
@@ -5080,6 +5081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deva | 403684 | [403684-deva.json](./403684-deva.json) |
 | Deva: The Haunted Game | 148513 | [148513-deva-the-haunted-game.json](./148513-deva-the-haunted-game.json) |
 | Devader | 68765 | [68765-devader.json](./68765-devader.json) |
+| Devast.io | 148303 | [148303-devast-io.json](./148303-devast-io.json) |
 | Devastated | 129211 | [129211-devastated.json](./129211-devastated.json) |
 | Devastated Path | 265436 | [265436-devastated-path.json](./265436-devastated-path.json) |
 | Devastating Blow | 66346 | [66346-devastating-blow.json](./66346-devastating-blow.json) |
@@ -10454,6 +10456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams of a Visionary | 407498 | [407498-dreams-of-a-visionary.json](./407498-dreams-of-a-visionary.json) |
 | Dreams of Adventure | 173177 | [173177-dreams-of-adventure.json](./173177-dreams-of-adventure.json) |
 | Dreams of Amelia | 344881 | [344881-dreams-of-amelia.json](./344881-dreams-of-amelia.json) |
+| Dreams of an Exile | 148306 | [148306-dreams-of-an-exile.json](./148306-dreams-of-an-exile.json) |
 | Dreams of Another | 331205 | [331205-dreams-of-another.json](./331205-dreams-of-another.json) |
 | Dreams of Being | 170002 | [170002-dreams-of-being.json](./170002-dreams-of-being.json) |
 | Dreams of Dead | 202249 | [202249-dreams-of-dead.json](./202249-dreams-of-dead.json) |
@@ -10953,6 +10956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drown Rabbit | 397937 | [397937-drown-rabbit.json](./397937-drown-rabbit.json) |
 | Drown the Bride | 318691 | [318691-drown-the-bride.json](./318691-drown-the-bride.json) |
 | Drowned Caves | 402501 | [402501-drowned-caves.json](./402501-drowned-caves.json) |
+| Drowned Gems | 148282 | [148282-drowned-gems.json](./148282-drowned-gems.json) |
 | Drowned God: Conspiracy of the Ages | 12421 | [12421-drowned-god-conspiracy-of-the-ages.json](./12421-drowned-god-conspiracy-of-the-ages.json) |
 | Drowned Grave | 387649 | [387649-drowned-grave.json](./387649-drowned-grave.json) |
 | Drowned Helicopter | 166695 | [166695-drowned-helicopter.json](./166695-drowned-helicopter.json) |
