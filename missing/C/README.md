@@ -1046,6 +1046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom's Soccer Shootout | 42598 | [42598-capcoms-soccer-shootout.json](./42598-capcoms-soccer-shootout.json) |
 | Cape Fathom | 310764 | [310764-cape-fathom.json](./310764-cape-fathom.json) |
 | Cape Hideous | 320532 | [320532-cape-hideous.json](./320532-cape-hideous.json) |
+| Cape's Escape Game 2.5th Room | 148326 | [148326-capes-escape-game-2-5th-room.json](./148326-capes-escape-game-2-5th-room.json) |
 | Cape's Escape Game 3rd Room | 165615 | [165615-capes-escape-game-3rd-room.json](./165615-capes-escape-game-3rd-room.json) |
 | Cape's Escape Game 4th Room | 173142 | [173142-capes-escape-game-4th-room.json](./173142-capes-escape-game-4th-room.json) |
 | Cape's Escape Game 5th Room | 186569 | [186569-capes-escape-game-5th-room.json](./186569-capes-escape-game-5th-room.json) |
@@ -2078,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cassette Boy | 248898 | [248898-cassette-boy.json](./248898-cassette-boy.json) |
 | Cassette Five | 153853 | [153853-cassette-five.json](./153853-cassette-five.json) |
 | Cassette Four | 153513 | [153513-cassette-four.json](./153513-cassette-four.json) |
+| Cassette Three | 148294 | [148294-cassette-three.json](./148294-cassette-three.json) |
 | Cassidy | 145032 | [145032-cassidy.json](./145032-cassidy.json) |
 | Cassiel | 276262 | [276262-cassiel.json](./276262-cassiel.json) |
 | Cassius | 172197 | [172197-cassius.json](./172197-cassius.json) |
@@ -4126,6 +4128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef Word Ardee | 187862 | [187862-chef-word-ardee.json](./187862-chef-word-ardee.json) |
 | Chef Yummy | 106366 | [106366-chef-yummy.json](./106366-chef-yummy.json) |
 | Chef: A Restaurant Tycoon Game | 107908 | [107908-chef-a-restaurant-tycoon-game.json](./107908-chef-a-restaurant-tycoon-game.json) |
+| Chef: A Restaurant Tycoon Game - Eastern Asian Cuisine | 148331 | [148331-chef-a-restaurant-tycoon-game-eastern-asian-cuisine.json](./148331-chef-a-restaurant-tycoon-game-eastern-asian-cuisine.json) |
 | Chef: A Restaurant Tycoon Game - Pizza & Baked Goods | 207730 | [207730-chef-a-restaurant-tycoon-game-pizza-and-baked-goods.json](./207730-chef-a-restaurant-tycoon-game-pizza-and-baked-goods.json) |
 | Chef: Cocktails & Drinks | 249198 | [249198-chef-cocktails-and-drinks.json](./249198-chef-cocktails-and-drinks.json) |
 | Chef's Dogma | 405054 | [405054-chefs-dogma.json](./405054-chefs-dogma.json) |
@@ -5452,6 +5455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuánqí Shìjiè zhī Zhàng Jiàn Tiānyá H5 | 156638 | [156638-chuanqi-shijie-zhi-zhang-jian-tianya-h5.json](./156638-chuanqi-shijie-zhi-zhang-jian-tianya-h5.json) |
 | Chubaw Desuyo! Kyoushou Recipe Shuu | 122911 | [122911-chubaw-desuyo-kyoushou-recipe-shuu.json](./122911-chubaw-desuyo-kyoushou-recipe-shuu.json) |
 | Chubby & Flubby | 176471 | [176471-chubby-and-flubby.json](./176471-chubby-and-flubby.json) |
+| Chubby Bear Smash | 148302 | [148302-chubby-bear-smash.json](./148302-chubby-bear-smash.json) |
 | Chubby Cat | 194984 | [194984-chubby-cat.json](./194984-chubby-cat.json) |
 | Chubby Cat 2 | 231050 | [231050-chubby-cat-2.json](./231050-chubby-cat-2.json) |
 | Chubby Cats | 348886 | [348886-chubby-cats.json](./348886-chubby-cats.json) |
@@ -8697,6 +8701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect 4 Faces: Match & Play | 232389 | [232389-connect-4-faces-match-and-play.json](./232389-connect-4-faces-match-and-play.json) |
 | Connect Bricks | 153827 | [153827-connect-bricks.json](./153827-connect-bricks.json) |
 | Connect Collect | 329240 | [329240-connect-collect.json](./329240-connect-collect.json) |
+| Connect Color Dots: Fun Water Flow Pipe Line Art Puzzle Game | 148336 | [148336-connect-color-dots-fun-water-flow-pipe-line-art-puzzle-game.json](./148336-connect-color-dots-fun-water-flow-pipe-line-art-puzzle-game.json) |
 | Connect Dots | 396371 | [396371-connect-dots.json](./396371-connect-dots.json) |
 | Connect Dots Puzzle: Classic Casual Arcade | 244823 | [244823-connect-dots-puzzle-classic-casual-arcade.json](./244823-connect-dots-puzzle-classic-casual-arcade.json) |
 | Connect Far Away Tale | 387599 | [387599-connect-far-away-tale.json](./387599-connect-far-away-tale.json) |
