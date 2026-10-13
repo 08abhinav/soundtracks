@@ -1874,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patch the Pipe | 328686 | [328686-patch-the-pipe.json](./328686-patch-the-pipe.json) |
 | PatchCon! Defend the Library | 202948 | [202948-patchcon-defend-the-library.json](./202948-patchcon-defend-the-library.json) |
 | Patched World | 237481 | [237481-patched-world.json](./237481-patched-world.json) |
+| Patchman Adventures | 174237 | [174237-patchman-adventures.json](./174237-patchman-adventures.json) |
 | Patchman vs. Blue Squares | 90119 | [90119-patchman-vs-blue-squares.json](./90119-patchman-vs-blue-squares.json) |
 | Patchman vs. Red Circles | 35012 | [35012-patchman-vs-red-circles.json](./35012-patchman-vs-red-circles.json) |
 | Patchmania Kids: A Puzzle About Bunny Revenge! | 104138 | [104138-patchmania-kids-a-puzzle-about-bunny-revenge.json](./104138-patchmania-kids-a-puzzle-about-bunny-revenge.json) |
@@ -2570,6 +2571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penalty | 292982 | [292982-penalty.json](./292982-penalty.json) |
 | Penalty | 312265 | [312265-penalty.json](./312265-penalty.json) |
 | Penalty Challenge | 311227 | [311227-penalty-challenge.json](./311227-penalty-challenge.json) |
+| Penalty Shoot-Out Soccer: 2010 World Champion | 174233 | [174233-penalty-shoot-out-soccer-2010-world-champion.json](./174233-penalty-shoot-out-soccer-2010-world-champion.json) |
 | Penalty Shooters Footy | 241061 | [241061-penalty-shooters-footy.json](./241061-penalty-shooters-footy.json) |
 | Penalty Soccer 2012 | 259560 | [259560-penalty-soccer-2012.json](./259560-penalty-soccer-2012.json) |
 | Penance | 135017 | [135017-penance.json](./135017-penance.json) |
@@ -2717,6 +2719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PentaBlox | 188581 | [188581-pentablox.json](./188581-pentablox.json) |
 | Pentacore | 211187 | [211187-pentacore.json](./211187-pentacore.json) |
 | Pentacorn Quest | 360117 | [360117-pentacorn-quest.json](./360117-pentacorn-quest.json) |
+| Pentaction: Medieval | 174247 | [174247-pentaction-medieval.json](./174247-pentaction-medieval.json) |
 | Pentagonal Saloon | 120468 | [120468-pentagonal-saloon.json](./120468-pentagonal-saloon.json) |
 | Pentaloop | 346671 | [346671-pentaloop.json](./346671-pentaloop.json) |
 | PentaPip | 412805 | [412805-pentapip.json](./412805-pentapip.json) |
@@ -4063,6 +4066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pieceful | 138237 | [138237-pieceful.json](./138237-pieceful.json) |
 | Pieces | 46587 | [46587-pieces.json](./46587-pieces.json) |
 | Pieces I: A Maskros Nebula Game | 296503 | [296503-pieces-i-a-maskros-nebula-game.json](./296503-pieces-i-a-maskros-nebula-game.json) |
+| Pieces of Beauty | 174069 | [174069-pieces-of-beauty.json](./174069-pieces-of-beauty.json) |
 | Pieces of Beauty 2 | 190173 | [190173-pieces-of-beauty-2.json](./190173-pieces-of-beauty-2.json) |
 | Pieces of Cake | 181256 | [181256-pieces-of-cake.json](./181256-pieces-of-cake.json) |
 | Pieces of Eight | 96677 | [96677-pieces-of-eight.json](./96677-pieces-of-eight.json) |
