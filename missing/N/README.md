@@ -2822,6 +2822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of the Duat | 373722 | [373722-night-of-the-duat.json](./373722-night-of-the-duat.json) |
 | Night of the Extinct | 351274 | [351274-night-of-the-extinct.json](./351274-night-of-the-extinct.json) |
 | Night of the Idle Horde | 422116 | [422116-night-of-the-idle-horde.json](./422116-night-of-the-idle-horde.json) |
+| Night of the Lesbian Vampires | 178913 | [178913-night-of-the-lesbian-vampires.json](./178913-night-of-the-lesbian-vampires.json) |
 | Night of the Living Bubble | 391169 | [391169-night-of-the-living-bubble.json](./391169-night-of-the-living-bubble.json) |
 | Night of the Living Skurre | 367973 | [367973-night-of-the-living-skurre.json](./367973-night-of-the-living-skurre.json) |
 | Night of the loving dead | 161905 | [161905-night-of-the-loving-dead.json](./161905-night-of-the-loving-dead.json) |
