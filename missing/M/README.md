@@ -7998,6 +7998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft Create: Above and Beyond | 326827 | [326827-minecraft-create-above-and-beyond.json](./326827-minecraft-create-above-and-beyond.json) |
 | Minecraft Dungeons: Hero Edition | 132145 | [132145-minecraft-dungeons-hero-edition.json](./132145-minecraft-dungeons-hero-edition.json) |
 | Minecraft Dungeons: Howling Peaks | 142160 | [142160-minecraft-dungeons-howling-peaks.json](./142160-minecraft-dungeons-howling-peaks.json) |
+| Minecraft Dungeons: Jungle Awakens | 135565 | [135565-minecraft-dungeons-jungle-awakens.json](./135565-minecraft-dungeons-jungle-awakens.json) |
 | Minecraft Dungeons: Ultimate Edition | 164776 | [164776-minecraft-dungeons-ultimate-edition.json](./164776-minecraft-dungeons-ultimate-edition.json) |
 | Minecraft Earth | 118711 | [118711-minecraft-earth.json](./118711-minecraft-earth.json) |
 | Minecraft Education | 28407 | [28407-minecraft-education.json](./28407-minecraft-education.json) |
