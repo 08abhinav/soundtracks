@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake Brutalist Jam III | 383621 | [383621-quake-brutalist-jam-iii.json](./383621-quake-brutalist-jam-iii.json) |
 | Quake Champions | 19530 | [19530-quake-champions.json](./19530-quake-champions.json) |
 | Quake Champions: Classic | 366933 | [366933-quake-champions-classic.json](./366933-quake-champions-classic.json) |
+| Quake Champions: Doom Edition | 145419 | [145419-quake-champions-doom-edition.json](./145419-quake-champions-doom-edition.json) |
 | Quake Combat+ | 357435 | [357435-quake-combat.json](./357435-quake-combat.json) |
 | Quake Condensed | 271776 | [271776-quake-condensed.json](./271776-quake-condensed.json) |
 | Quake II | 261085 | [261085-quake-ii.json](./261085-quake-ii.json) |
@@ -319,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Apex | 195151 | [195151-quantum-apex.json](./195151-quantum-apex.json) |
 | Quantum Beast | 295526 | [295526-quantum-beast.json](./295526-quantum-beast.json) |
 | Quantum Break: Timeless Collector's Edition | 103387 | [103387-quantum-break-timeless-collectors-edition.json](./103387-quantum-break-timeless-collectors-edition.json) |
+| Quantum Castle | 145409 | [145409-quantum-castle.json](./145409-quantum-castle.json) |
 | Quantum Chess | 33252 | [33252-quantum-chess.json](./33252-quantum-chess.json) |
 | Quantum Coffee Conundrum: Director's Cut | 400937 | [400937-quantum-coffee-conundrum-directors-cut.json](./400937-quantum-coffee-conundrum-directors-cut.json) |
 | Quantum Coherence | 215901 | [215901-quantum-coherence.json](./215901-quantum-coherence.json) |
@@ -352,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum of Soul | 247994 | [247994-quantum-of-soul.json](./247994-quantum-of-soul.json) |
 | Quantum Paradox | 153338 | [153338-quantum-paradox.json](./153338-quantum-paradox.json) |
 | Quantum Phantom Basketball | 252766 | [252766-quantum-phantom-basketball.json](./252766-quantum-phantom-basketball.json) |
+| Quantum Project | 148279 | [148279-quantum-project.json](./148279-quantum-project.json) |
 | Quantum Qitty | 180799 | [180799-quantum-qitty.json](./180799-quantum-qitty.json) |
 | Quantum Quartz | 378423 | [378423-quantum-quartz.json](./378423-quantum-quartz.json) |
 | Quantum Runners | 151006 | [151006-quantum-runners.json](./151006-quantum-runners.json) |
