@@ -2444,6 +2444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pebble Beach Golf Links | 4273 | [4273-pebble-beach-golf-links.json](./4273-pebble-beach-golf-links.json) |
 | Pebble End | 187772 | [187772-pebble-end.json](./187772-pebble-end.json) |
 | Pebble Knights | 347758 | [347758-pebble-knights.json](./347758-pebble-knights.json) |
+| Pebble of Time | 165145 | [165145-pebble-of-time.json](./165145-pebble-of-time.json) |
 | Pebble Witch | 151022 | [151022-pebble-witch.json](./151022-pebble-witch.json) |
 | Pebble's Bakery | 180714 | [180714-pebbles-bakery.json](./180714-pebbles-bakery.json) |
 | Pebbles | 419869 | [419869-pebbles.json](./419869-pebbles.json) |
@@ -7411,6 +7412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Survivor Burst | 414864 | [414864-pokemon-survivor-burst.json](./414864-pokemon-survivor-burst.json) |
 | Pokémon Sweet 2th | 141822 | [141822-pokemon-sweet-2th.json](./141822-pokemon-sweet-2th.json) |
 | Pokémon Sword & Pokémon Shield Double Pack | 115652 | [115652-pokemon-sword-and-pokemon-shield-double-pack.json](./115652-pokemon-sword-and-pokemon-shield-double-pack.json) |
+| Pokémon Sword & Shield GBA | 165160 | [165160-pokemon-sword-and-shield-gba.json](./165160-pokemon-sword-and-shield-gba.json) |
 | Pokémon Sword and Shield | 294432 | [294432-pokemon-sword-and-shield.json](./294432-pokemon-sword-and-shield.json) |
 | Pokémon Sword and Shield Ultimate Plus | 334072 | [334072-pokemon-sword-and-shield-ultimate-plus.json](./334072-pokemon-sword-and-shield-ultimate-plus.json) |
 | Pokémon Sword Expansion Pass | 128071 | [128071-pokemon-sword-expansion-pass.json](./128071-pokemon-sword-expansion-pass.json) |
@@ -8070,6 +8072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poolside Boys Kiss: Passion Fruits Hotel Dating Sim | 362196 | [362196-poolside-boys-kiss-passion-fruits-hotel-dating-sim.json](./362196-poolside-boys-kiss-passion-fruits-hotel-dating-sim.json) |
 | Poolside Girls Kiss: Passion Fruits Hotel Dating Sim | 362364 | [362364-poolside-girls-kiss-passion-fruits-hotel-dating-sim.json](./362364-poolside-girls-kiss-passion-fruits-hotel-dating-sim.json) |
 | Poolside Vigil | 384180 | [384180-poolside-vigil.json](./384180-poolside-vigil.json) |
+| Poom | 165143 | [165143-poom.json](./165143-poom.json) |
 | Poom: Miasma Massacre | 229757 | [229757-poom-miasma-massacre.json](./229757-poom-miasma-massacre.json) |
 | Poop | 314398 | [314398-poop.json](./314398-poop.json) |
 | Poop Clicker | 195625 | [195625-poop-clicker.json](./195625-poop-clicker.json) |
@@ -10545,6 +10548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Taco | 420547 | [420547-project-taco.json](./420547-project-taco.json) |
 | Project: Tempo | 231909 | [231909-project-tempo.json](./231909-project-tempo.json) |
 | Project: The MIR Incident | 204062 | [204062-project-the-mir-incident.json](./204062-project-the-mir-incident.json) |
+| Project: Undead | 165157 | [165157-project-undead.json](./165157-project-undead.json) |
 | Project: Unity | 275572 | [275572-project-unity.json](./275572-project-unity.json) |
 | Project: Waterfall | 224783 | [224783-project-waterfall.json](./224783-project-waterfall.json) |
 | Project: X Insurrection | 147292 | [147292-project-x-insurrection.json](./147292-project-x-insurrection.json) |
@@ -10621,6 +10625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prophecy of the Nun | 165657 | [165657-prophecy-of-the-nun.json](./165657-prophecy-of-the-nun.json) |
 | Prophecy: The Viking Child | 49029 | [49029-prophecy-the-viking-child.json](./49029-prophecy-the-viking-child.json) |
 | Prophet Margin | 376537 | [376537-prophet-margin.json](./376537-prophet-margin.json) |
+| PropHunter | 165107 | [165107-prophunter.json](./165107-prophunter.json) |
 | Propis | 194290 | [194290-propis.json](./194290-propis.json) |
 | Proportionator | 316765 | [316765-proportionator.json](./316765-proportionator.json) |
 | Prose & Codes | 191577 | [191577-prose-and-codes.json](./191577-prose-and-codes.json) |
