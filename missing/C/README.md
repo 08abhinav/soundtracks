@@ -1368,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Wash | 295261 | [295261-car-wash.json](./295261-car-wash.json) |
 | Car Wash | 323503 | [323503-car-wash.json](./323503-car-wash.json) |
 | Car Wash Simulator | 343750 | [343750-car-wash-simulator.json](./343750-car-wash-simulator.json) |
+| Car Wash TD: Tower Defense | 174070 | [174070-car-wash-td-tower-defense.json](./174070-car-wash-td-tower-defense.json) |
 | Car-Toon Chaos | 298170 | [298170-car-toon-chaos.json](./298170-car-toon-chaos.json) |
 | Car! | 314670 | [314670-car.json](./314670-car.json) |
 | Car's Empire | 176218 | [176218-cars-empire.json](./176218-cars-empire.json) |
@@ -1591,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards of Heart | 296029 | [296029-cards-of-heart.json](./296029-cards-of-heart.json) |
 | Cards of Knight | 110149 | [110149-cards-of-knight.json](./110149-cards-of-knight.json) |
 | Cards of Lust | 392896 | [392896-cards-of-lust.json](./392896-cards-of-lust.json) |
+| Cards of Terra | 174258 | [174258-cards-of-terra.json](./174258-cards-of-terra.json) |
 | Cards of the Bog | 182862 | [182862-cards-of-the-bog.json](./182862-cards-of-the-bog.json) |
 | Cards of the Dead | 147335 | [147335-cards-of-the-dead.json](./147335-cards-of-the-dead.json) |
 | Cards of the Dreaming Dragons | 207531 | [207531-cards-of-the-dreaming-dragons.json](./207531-cards-of-the-dreaming-dragons.json) |
@@ -4424,6 +4426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Blaster | 175778 | [175778-chicken-blaster.json](./175778-chicken-blaster.json) |
 | Chicken Bomb | 137595 | [137595-chicken-bomb.json](./137595-chicken-bomb.json) |
 | Chicken Boy's Counterattack | 291488 | [291488-chicken-boys-counterattack.json](./291488-chicken-boys-counterattack.json) |
+| Chicken Cha Cha Cha | 174236 | [174236-chicken-cha-cha-cha.json](./174236-chicken-cha-cha-cha.json) |
 | Chicken Chasers | 380067 | [380067-chicken-chasers.json](./380067-chicken-chasers.json) |
 | Chicken Chicken | 390635 | [390635-chicken-chicken.json](./390635-chicken-chicken.json) |
 | Chicken Climber | 401112 | [401112-chicken-climber.json](./401112-chicken-climber.json) |
@@ -8103,6 +8106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comit in Krater Returns | 112859 | [112859-comit-in-krater-returns.json](./112859-comit-in-krater-returns.json) |
 | Comit the Astrodian | 30842 | [30842-comit-the-astrodian.json](./30842-comit-the-astrodian.json) |
 | Comit the Astrodian 3 | 65821 | [65821-comit-the-astrodian-3.json](./65821-comit-the-astrodian-3.json) |
+| Comix Breaker | 174262 | [174262-comix-breaker.json](./174262-comix-breaker.json) |
 | Comix Zero | 324330 | [324330-comix-zero.json](./324330-comix-zero.json) |
 | Comixxx Duality | 196141 | [196141-comixxx-duality.json](./196141-comixxx-duality.json) |
 | Comixxx Strip | 392936 | [392936-comixxx-strip.json](./392936-comixxx-strip.json) |
@@ -10304,6 +10308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craps at Aces Casino | 150260 | [150260-craps-at-aces-casino.json](./150260-craps-at-aces-casino.json) |
 | Craps HD | 89674 | [89674-craps-hd.json](./89674-craps-hd.json) |
 | Craps-Shooter | 91012 | [91012-craps-shooter.json](./91012-craps-shooter.json) |
+| Craps+ | 174251 | [174251-craps.json](./174251-craps.json) |
 | Crapshoot | 380095 | [380095-crapshoot.json](./380095-crapshoot.json) |
 | CrapShoot | 319239 | [319239-crapshoot.json](./319239-crapshoot.json) |
 | CrapsVR | 31932 | [31932-crapsvr.json](./31932-crapsvr.json) |
