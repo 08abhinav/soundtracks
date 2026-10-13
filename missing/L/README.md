@@ -5199,6 +5199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Assassin | 157574 | [157574-lost-assassin.json](./157574-lost-assassin.json) |
 | Lost Astronaut's Fringes of the Empire | 58906 | [58906-lost-astronauts-fringes-of-the-empire.json](./58906-lost-astronauts-fringes-of-the-empire.json) |
 | Lost at Sea | 209139 | [209139-lost-at-sea.json](./209139-lost-at-sea.json) |
+| Lost At Sea | 134951 | [134951-lost-at-sea.json](./134951-lost-at-sea.json) |
 | Lost Away | 191571 | [191571-lost-away.json](./191571-lost-away.json) |
 | Lost Balloons: Airy mates | 260878 | [260878-lost-balloons-airy-mates.json](./260878-lost-balloons-airy-mates.json) |
 | Lost Between | 232914 | [232914-lost-between.json](./232914-lost-between.json) |
