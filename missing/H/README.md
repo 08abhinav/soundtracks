@@ -1634,6 +1634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HatTrick Beginnings | 272483 | [272483-hattrick-beginnings.json](./272483-hattrick-beginnings.json) |
 | Hattrick! | 93137 | [93137-hattrick.json](./93137-hattrick.json) |
 | Hatup | 204093 | [204093-hatup.json](./204093-hatup.json) |
+| Haul Away Joe | 176393 | [176393-haul-away-joe.json](./176393-haul-away-joe.json) |
 | Haul My Home | 415256 | [415256-haul-my-home.json](./415256-haul-my-home.json) |
 | Haulin' Oats | 192829 | [192829-haulin-oats.json](./192829-haulin-oats.json) |
 | Hauling Away | 208276 | [208276-hauling-away.json](./208276-hauling-away.json) |
@@ -2339,6 +2340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Hand: Pixel Tree Forest Fury - Deluxe Edition | 317254 | [317254-heavy-hand-pixel-tree-forest-fury-deluxe-edition.json](./317254-heavy-hand-pixel-tree-forest-fury-deluxe-edition.json) |
 | Heavy Hearts | 219825 | [219825-heavy-hearts.json](./219825-heavy-hearts.json) |
 | Heavy Hogur | 54079 | [54079-heavy-hogur.json](./54079-heavy-hogur.json) |
+| Heavy Industries | 176199 | [176199-heavy-industries.json](./176199-heavy-industries.json) |
 | Heavy Machinery vs. Shumai | 409528 | [409528-heavy-machinery-vs-shumai.json](./409528-heavy-machinery-vs-shumai.json) |
 | Heavy Machines & Construction | 266261 | [266261-heavy-machines-and-construction.json](./266261-heavy-machines-and-construction.json) |
 | Heavy Metal | 12141 | [12141-heavy-metal.json](./12141-heavy-metal.json) |
@@ -7127,6 +7129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover the Edge | 195963 | [195963-hover-the-edge.json](./195963-hover-the-edge.json) |
 | Hover X Souls | 96226 | [96226-hover-x-souls.json](./96226-hover-x-souls.json) |
 | Hoverbear | 296909 | [296909-hoverbear.json](./296909-hoverbear.json) |
+| Hoverbike Joust | 176219 | [176219-hoverbike-joust.json](./176219-hoverbike-joust.json) |
 | Hoverboard Chase | 154081 | [154081-hoverboard-chase.json](./154081-hoverboard-chase.json) |
 | Hoverboard Hero | 237381 | [237381-hoverboard-hero.json](./237381-hoverboard-hero.json) |
 | Hovercab Station | 262994 | [262994-hovercab-station.json](./262994-hovercab-station.json) |
