@@ -8706,6 +8706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pou 3D | 380799 | [380799-pou-3d.json](./380799-pou-3d.json) |
 | Poubelle City | 381359 | [381359-poubelle-city.json](./381359-poubelle-city.json) |
 | Pouch | 340596 | [340596-pouch.json](./340596-pouch.json) |
+| Poulet Poulet | 151473 | [151473-poulet-poulet.json](./151473-poulet-poulet.json) |
 | Poultry Party | 341558 | [341558-poultry-party.json](./341558-poultry-party.json) |
 | Poultry Princess | 306626 | [306626-poultry-princess.json](./306626-poultry-princess.json) |
 | Poumosa | 406642 | [406642-poumosa.json](./406642-poumosa.json) |
@@ -9898,6 +9899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Tennis WTA Tour | 242802 | [242802-pro-tennis-wta-tour.json](./242802-pro-tennis-wta-tour.json) |
 | Pro Turkey Hunting | 234077 | [234077-pro-turkey-hunting.json](./234077-pro-turkey-hunting.json) |
 | Pro Wrestling Kentei DS | 66990 | [66990-pro-wrestling-kentei-ds.json](./66990-pro-wrestling-kentei-ds.json) |
+| Pro Wrestling Sim | 151459 | [151459-pro-wrestling-sim.json](./151459-pro-wrestling-sim.json) |
 | Pro Wrestling Tycoon | 413165 | [413165-pro-wrestling-tycoon.json](./413165-pro-wrestling-tycoon.json) |
 | Pro Wrestling X | 17337 | [17337-pro-wrestling-x.json](./17337-pro-wrestling-x.json) |
 | Pro Yakyuu Dream Nine Superstars | 220313 | [220313-pro-yakyuu-dream-nine-superstars.json](./220313-pro-yakyuu-dream-nine-superstars.json) |
@@ -10193,6 +10195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Dark Sky | 154282 | [154282-project-dark-sky.json](./154282-project-dark-sky.json) |
 | Project Darkness | 326863 | [326863-project-darkness.json](./326863-project-darkness.json) |
 | Project Death Strikers | 211272 | [211272-project-death-strikers.json](./211272-project-death-strikers.json) |
+| Project Death Wish | 151456 | [151456-project-death-wish.json](./151456-project-death-wish.json) |
 | Project DeepWeb | 120422 | [120422-project-deepweb.json](./120422-project-deepweb.json) |
 | Project DeepWeb: Eternal Nightmare | 366712 | [366712-project-deepweb-eternal-nightmare.json](./366712-project-deepweb-eternal-nightmare.json) |
 | Project Defense | 105243 | [105243-project-defense.json](./105243-project-defense.json) |
