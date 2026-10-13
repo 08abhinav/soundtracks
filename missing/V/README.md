@@ -1153,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vestige | 187882 | [187882-vestige.json](./187882-vestige.json) |
 | Vestige | 392262 | [392262-vestige.json](./392262-vestige.json) |
 | Vestige Memoria | 219519 | [219519-vestige-memoria.json](./219519-vestige-memoria.json) |
+| Vestiges | 144694 | [144694-vestiges.json](./144694-vestiges.json) |
 | Vestiges: Fallen Tribes | 273566 | [273566-vestiges-fallen-tribes.json](./273566-vestiges-fallen-tribes.json) |
 | Vestigia: Joust | 364706 | [364706-vestigia-joust.json](./364706-vestigia-joust.json) |
 | Vestria Story | 193940 | [193940-vestria-story.json](./193940-vestria-story.json) |
