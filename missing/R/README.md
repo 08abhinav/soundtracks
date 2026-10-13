@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.override | 403832 | [403832-r-override.json](./403832-r-override.json) |
 | R.P.G | 234326 | [234326-r-p-g.json](./234326-r-p-g.json) |
 | R.T.O. Tales of the Dark Lands: Deluxe Edition | 157560 | [157560-r-t-o-tales-of-the-dark-lands-deluxe-edition.json](./157560-r-t-o-tales-of-the-dark-lands-deluxe-edition.json) |
+| R.U.N | 166292 | [166292-r-u-n.json](./166292-r-u-n.json) |
 | R.U.R.U.R.: Petit Prince | 59363 | [59363-r-u-r-u-r-petit-prince.json](./59363-r-u-r-u-r-petit-prince.json) |
 | R.U.S.H.: Rival Ultimate Steel Hand | 395527 | [395527-r-u-s-h-rival-ultimate-steel-hand.json](./395527-r-u-s-h-rival-ultimate-steel-hand.json) |
 | R'lyeh Assault | 230194 | [230194-rlyeh-assault.json](./230194-rlyeh-assault.json) |
@@ -4190,6 +4191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverie Knights Tactics: Prologue | 156214 | [156214-reverie-knights-tactics-prologue.json](./156214-reverie-knights-tactics-prologue.json) |
 | Reverie: A Heroes Tale | 89951 | [89951-reverie-a-heroes-tale.json](./89951-reverie-a-heroes-tale.json) |
 | Reverie: An Odd Sim Date | 419152 | [419152-reverie-an-odd-sim-date.json](./419152-reverie-an-odd-sim-date.json) |
+| Reverie: Limited Edition | 166303 | [166303-reverie-limited-edition.json](./166303-reverie-limited-edition.json) |
 | Reverie: Sweet As Edition | 114418 | [114418-reverie-sweet-as-edition.json](./114418-reverie-sweet-as-edition.json) |
 | Reveries: Soul Collector HD | 93829 | [93829-reveries-soul-collector-hd.json](./93829-reveries-soul-collector-hd.json) |
 | Reversal | 78717 | [78717-reversal.json](./78717-reversal.json) |
