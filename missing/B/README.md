@@ -6677,6 +6677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobz | 14320 | [14320-blobz.json](./14320-blobz.json) |
 | Bloc | 94860 | [94860-bloc.json](./94860-bloc.json) |
 | Blochead | 78963 | [78963-blochead.json](./78963-blochead.json) |
+| Block | 172653 | [172653-block.json](./172653-block.json) |
 | Block ‘Em Sock ‘Em | 381135 | [381135-block-em-sock-em.json](./381135-block-em-sock-em.json) |
 | Block & Shot | 263976 | [263976-block-and-shot.json](./263976-block-and-shot.json) |
 | Block 1010: Colorful | 107073 | [107073-block-1010-colorful.json](./107073-block-1010-colorful.json) |
@@ -10400,6 +10401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutish Mine | 22372 | [22372-brutish-mine.json](./22372-brutish-mine.json) |
 | Brutus | 178041 | [178041-brutus.json](./178041-brutus.json) |
 | Brutus | 91950 | [91950-brutus.json](./91950-brutus.json) |
+| Bruv | 172436 | [172436-bruv.json](./172436-bruv.json) |
 | Bruxa | 184377 | [184377-bruxa.json](./184377-bruxa.json) |
 | Bruxa | 254645 | [254645-bruxa.json](./254645-bruxa.json) |
 | Bruxa Luna | 280859 | [280859-bruxa-luna.json](./280859-bruxa-luna.json) |
@@ -11412,8 +11414,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnin Rubber | 44493 | [44493-burnin-rubber.json](./44493-burnin-rubber.json) |
 | Burnin' Rubber | 172601 | [172601-burnin-rubber.json](./172601-burnin-rubber.json) |
 | Burnin' Rubber | 86208 | [86208-burnin-rubber.json](./86208-burnin-rubber.json) |
+| Burnin' Rubber 2 | 172643 | [172643-burnin-rubber-2.json](./172643-burnin-rubber-2.json) |
 | Burnin' Rubber 3 | 133876 | [133876-burnin-rubber-3.json](./133876-burnin-rubber-3.json) |
 | Burnin' Rubber 4 | 133877 | [133877-burnin-rubber-4.json](./133877-burnin-rubber-4.json) |
+| Burnin' Rubber 5 | 172645 | [172645-burnin-rubber-5.json](./172645-burnin-rubber-5.json) |
+| Burnin' Rubber 5 Air | 172647 | [172647-burnin-rubber-5-air.json](./172647-burnin-rubber-5-air.json) |
+| Burnin' Rubber 5 XS | 172646 | [172646-burnin-rubber-5-xs.json](./172646-burnin-rubber-5-xs.json) |
 | Burnin' Rubber 6 | 320749 | [320749-burnin-rubber-6.json](./320749-burnin-rubber-6.json) |
 | Burnin' Rubber Shift | 237965 | [237965-burnin-rubber-shift.json](./237965-burnin-rubber-shift.json) |
 | Burninate the Barnyard | 231613 | [231613-burninate-the-barnyard.json](./231613-burninate-the-barnyard.json) |
