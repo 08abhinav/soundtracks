@@ -963,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Backpack | 328977 | [328977-magical-backpack.json](./328977-magical-backpack.json) |
 | Magical Bakery: Deluxe Edition | 320442 | [320442-magical-bakery-deluxe-edition.json](./320442-magical-bakery-deluxe-edition.json) |
 | Magical Battle Arena | 145447 | [145447-magical-battle-arena.json](./145447-magical-battle-arena.json) |
+| Magical Battle Arena Next | 144729 | [144729-magical-battle-arena-next.json](./144729-magical-battle-arena-next.json) |
 | Magical Battle Arena: Complete Form | 61320 | [61320-magical-battle-arena-complete-form.json](./61320-magical-battle-arena-complete-form.json) |
 | Magical Battle Cry | 169901 | [169901-magical-battle-cry.json](./169901-magical-battle-cry.json) |
 | Magical Battle Festa | 17218 | [17218-magical-battle-festa.json](./17218-magical-battle-festa.json) |
@@ -1794,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malleus Maleficarum | 373104 | [373104-malleus-maleficarum.json](./373104-malleus-maleficarum.json) |
 | Malleus Maleficarum: The Witch of San Ignacio | 318794 | [318794-malleus-maleficarum-the-witch-of-san-ignacio.json](./318794-malleus-maleficarum-the-witch-of-san-ignacio.json) |
 | Mallion | 279527 | [279527-mallion.json](./279527-mallion.json) |
+| Mallory and the Marble Sanctum | 144693 | [144693-mallory-and-the-marble-sanctum.json](./144693-mallory-and-the-marble-sanctum.json) |
 | Mallow & The Street of the Fallen | 376861 | [376861-mallow-and-the-street-of-the-fallen.json](./376861-mallow-and-the-street-of-the-fallen.json) |
 | Mallows | 26456 | [26456-mallows.json](./26456-mallows.json) |
 | Malody | 76901 | [76901-malody.json](./76901-malody.json) |
@@ -2274,6 +2276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Souls | 412504 | [412504-marble-souls.json](./412504-marble-souls.json) |
 | Marble Void | 33235 | [33235-marble-void.json](./33235-marble-void.json) |
 | Marble Watchness | 223625 | [223625-marble-watchness.json](./223625-marble-watchness.json) |
+| Marble World | 144745 | [144745-marble-world.json](./144745-marble-world.json) |
 | Marble-O-Tron | 174294 | [174294-marble-o-tron.json](./174294-marble-o-tron.json) |
 | Marble's Marbles | 384201 | [384201-marbles-marbles.json](./384201-marbles-marbles.json) |
 | Marbled Memories | 416805 | [416805-marbled-memories.json](./416805-marbled-memories.json) |
@@ -4904,6 +4907,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 7 Refit | 219080 | [219080-mega-man-7-refit.json](./219080-mega-man-7-refit.json) |
 | Mega Man 8-bit Deathmatch | 136285 | [136285-mega-man-8-bit-deathmatch.json](./136285-mega-man-8-bit-deathmatch.json) |
 | Mega Man 8: Anniversary Collector's Edition | 45182 | [45182-mega-man-8-anniversary-collectors-edition.json](./45182-mega-man-8-anniversary-collectors-edition.json) |
+| Mega Man 9: Endless Attack Mode | 144695 | [144695-mega-man-9-endless-attack-mode.json](./144695-mega-man-9-endless-attack-mode.json) |
+| Mega Man 9: Hero Mode | 144698 | [144698-mega-man-9-hero-mode.json](./144698-mega-man-9-hero-mode.json) |
+| Mega Man 9: Proto Man Mode | 144696 | [144696-mega-man-9-proto-man-mode.json](./144696-mega-man-9-proto-man-mode.json) |
+| Mega Man 9: Special Stage | 144697 | [144697-mega-man-9-special-stage.json](./144697-mega-man-9-special-stage.json) |
+| Mega Man 9: Superhero Mode | 144699 | [144699-mega-man-9-superhero-mode.json](./144699-mega-man-9-superhero-mode.json) |
 | Mega Man Again | 332628 | [332628-mega-man-again.json](./332628-mega-man-again.json) |
 | Mega Man Anniversary Collection | 1728 | [1728-mega-man-anniversary-collection.json](./1728-mega-man-anniversary-collection.json) |
 | Mega Man Arkanoid | 245035 | [245035-mega-man-arkanoid.json](./245035-mega-man-arkanoid.json) |
