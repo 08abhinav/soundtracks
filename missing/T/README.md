@@ -21565,7 +21565,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turma do Arrepio: Grand Prix | 249456 | [249456-turma-do-arrepio-grand-prix.json](./249456-turma-do-arrepio-grand-prix.json) |
 | Turma do Chico Bento | 251580 | [251580-turma-do-chico-bento.json](./251580-turma-do-chico-bento.json) |
 | Turmoil | 18559 | [18559-turmoil.json](./18559-turmoil.json) |
-| Turmoil | 19438 | [19438-turmoil.json](./19438-turmoil.json) |
 | Turmoil | 305530 | [305530-turmoil.json](./305530-turmoil.json) |
 | Turmoil | 47153 | [47153-turmoil.json](./47153-turmoil.json) |
 | Turmoil: Deeper Underground | 319085 | [319085-turmoil-deeper-underground.json](./319085-turmoil-deeper-underground.json) |
