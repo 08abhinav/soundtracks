@@ -8427,6 +8427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuel Tiracas | 77282 | [77282-fuel-tiracas.json](./77282-fuel-tiracas.json) |
 | Fuezon | 206451 | [206451-fuezon.json](./206451-fuezon.json) |
 | Fuga: Melodies of Steel - Back to School Costume Pack | 228026 | [228026-fuga-melodies-of-steel-back-to-school-costume-pack.json](./228026-fuga-melodies-of-steel-back-to-school-costume-pack.json) |
+| Fuga: Melodies of Steel - Deluxe Edition | 164582 | [164582-fuga-melodies-of-steel-deluxe-edition.json](./164582-fuga-melodies-of-steel-deluxe-edition.json) |
 | Fuga: Melodies of Steel - Fantasy Costume Pack | 284455 | [284455-fuga-melodies-of-steel-fantasy-costume-pack.json](./284455-fuga-melodies-of-steel-fantasy-costume-pack.json) |
 | Fuga: Melodies of Steel - Ultimate Edition | 283145 | [283145-fuga-melodies-of-steel-ultimate-edition.json](./283145-fuga-melodies-of-steel-ultimate-edition.json) |
 | Fuga: Melodies of Steel 2 - Animal Costume Pack | 278520 | [278520-fuga-melodies-of-steel-2-animal-costume-pack.json](./278520-fuga-melodies-of-steel-2-animal-costume-pack.json) |
@@ -8884,6 +8885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Sexy Girls | 375951 | [375951-furry-sexy-girls.json](./375951-furry-sexy-girls.json) |
 | Furry Shades of Gay | 165025 | [165025-furry-shades-of-gay.json](./165025-furry-shades-of-gay.json) |
 | Furry Shakespeare: Dashing Dinosaurs & Sexy Centaurs | 240137 | [240137-furry-shakespeare-dashing-dinosaurs-and-sexy-centaurs.json](./240137-furry-shakespeare-dashing-dinosaurs-and-sexy-centaurs.json) |
+| Furry Shakespeare: Dreamin' of One Lazy Dead Midsummer | 164600 | [164600-furry-shakespeare-dreamin-of-one-lazy-dead-midsummer.json](./164600-furry-shakespeare-dreamin-of-one-lazy-dead-midsummer.json) |
 | Furry Shakespeare: Emperor Penguin Lear | 133180 | [133180-furry-shakespeare-emperor-penguin-lear.json](./133180-furry-shakespeare-emperor-penguin-lear.json) |
 | Furry Shakespeare: Love's Lizards Lost | 128973 | [128973-furry-shakespeare-loves-lizards-lost.json](./128973-furry-shakespeare-loves-lizards-lost.json) |
 | Furry Shakespeare: Oops! All Dragons! | 152805 | [152805-furry-shakespeare-oops-all-dragons.json](./152805-furry-shakespeare-oops-all-dragons.json) |
