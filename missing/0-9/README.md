@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Word Search Puzzles | 232481 | [232481-1000-word-search-puzzles.json](./232481-1000-word-search-puzzles.json) |
 | 1000 Words | 322687 | [322687-1000-words.json](./322687-1000-words.json) |
 | 1000 Words | 83913 | [83913-1000-words.json](./83913-1000-words.json) |
+| 1000-Bit | 137930 | [137930-1000-bit.json](./137930-1000-bit.json) |
 | 1000: The All-Mother's Embrace | 326044 | [326044-1000-the-all-mothers-embrace.json](./326044-1000-the-all-mothers-embrace.json) |
 | 10000000 | 9705 | [9705-10000000.json](./9705-10000000.json) |
 | 1000cc Turbo | 12347 | [12347-1000cc-turbo.json](./12347-1000cc-turbo.json) |
@@ -1685,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4Tacos | 276274 | [276274-4tacos.json](./276274-4tacos.json) |
 | 4Team | 31104 | [31104-4team.json](./31104-4team.json) |
 | 4th Dawn | 219512 | [219512-4th-dawn.json](./219512-4th-dawn.json) |
+| 4th Dimension | 137934 | [137934-4th-dimension.json](./137934-4th-dimension.json) |
 | 4th Era: The RuneChild | 120320 | [120320-4th-era-the-runechild.json](./120320-4th-era-the-runechild.json) |
 | 4th Generation Warfare | 128944 | [128944-4th-generation-warfare.json](./128944-4th-generation-warfare.json) |
 | 4th Generation Warfare: Commando Unit | 196056 | [196056-4th-generation-warfare-commando-unit.json](./196056-4th-generation-warfare-commando-unit.json) |
