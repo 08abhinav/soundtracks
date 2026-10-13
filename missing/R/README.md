@@ -2311,6 +2311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recolit | 152179 | [152179-recolit.json](./152179-recolit.json) |
 | Recollect: Coloring Book | 106002 | [106002-recollect-coloring-book.json](./106002-recollect-coloring-book.json) |
 | Recollection | 343806 | [343806-recollection.json](./343806-recollection.json) |
+| Recon Control | 156914 | [156914-recon-control.json](./156914-recon-control.json) |
 | Recon Quest | 291578 | [291578-recon-quest.json](./291578-recon-quest.json) |
 | Reconciliation | 309536 | [309536-reconciliation.json](./309536-reconciliation.json) |
 | Recondo | 215888 | [215888-recondo.json](./215888-recondo.json) |
@@ -6087,6 +6088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Fist | 19175 | [19175-rocket-fist.json](./19175-rocket-fist.json) |
 | Rocket Frog | 277949 | [277949-rocket-frog.json](./277949-rocket-frog.json) |
 | Rocket Fruit | 144778 | [144778-rocket-fruit.json](./144778-rocket-fruit.json) |
+| Rocket Ghost Aidan 2 | 156909 | [156909-rocket-ghost-aidan-2.json](./156909-rocket-ghost-aidan-2.json) |
 | Rocket Hat | 329397 | [329397-rocket-hat.json](./329397-rocket-hat.json) |
 | Rocket Hippo! | 107392 | [107392-rocket-hippo.json](./107392-rocket-hippo.json) |
 | Rocket Horizon | 256928 | [256928-rocket-horizon.json](./256928-rocket-horizon.json) |
@@ -6531,6 +6533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Port - Red Nightmare | 32758 | [32758-rogue-port-red-nightmare.json](./32758-rogue-port-red-nightmare.json) |
 | Rogue Princess | 211750 | [211750-rogue-princess.json](./211750-rogue-princess.json) |
 | Rogue Prison | 19179 | [19179-rogue-prison.json](./19179-rogue-prison.json) |
+| Rogue Production Facility | 156899 | [156899-rogue-production-facility.json](./156899-rogue-production-facility.json) |
 | Rogue Quest | 402511 | [402511-rogue-quest.json](./402511-rogue-quest.json) |
 | Rogue Quest: The Vault of the Lost Tyrant | 74358 | [74358-rogue-quest-the-vault-of-the-lost-tyrant.json](./74358-rogue-quest-the-vault-of-the-lost-tyrant.json) |
 | Rogue Raccoon | 358356 | [358356-rogue-raccoon.json](./358356-rogue-raccoon.json) |
