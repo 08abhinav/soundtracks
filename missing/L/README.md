@@ -837,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Front | 374206 | [374206-last-front.json](./374206-last-front.json) |
 | Last Game of the Decade 2019 | 229630 | [229630-last-game-of-the-decade-2019.json](./229630-last-game-of-the-decade-2019.json) |
 | Last Gang Standing | 159843 | [159843-last-gang-standing.json](./159843-last-gang-standing.json) |
+| Last Genesis | 175851 | [175851-last-genesis.json](./175851-last-genesis.json) |
 | Last Group Out | 189196 | [189196-last-group-out.json](./189196-last-group-out.json) |
 | Last Guest | 346778 | [346778-last-guest.json](./346778-last-guest.json) |
 | Last Half of Darkness | 312756 | [312756-last-half-of-darkness.json](./312756-last-half-of-darkness.json) |
@@ -2589,6 +2590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter To A Friend | 251451 | [251451-letter-to-a-friend.json](./251451-letter-to-a-friend.json) |
 | Letter to a Landlord | 309345 | [309345-letter-to-a-landlord.json](./309345-letter-to-a-landlord.json) |
 | Letter Vetter | 149084 | [149084-letter-vetter.json](./149084-letter-vetter.json) |
+| Letter Wizard | 175856 | [175856-letter-wizard.json](./175856-letter-wizard.json) |
 | Letter Zap! | 70430 | [70430-letter-zap.json](./70430-letter-zap.json) |
 | Letter-Setter | 55452 | [55452-letter-setter.json](./55452-letter-setter.json) |
 | Letteral | 242795 | [242795-letteral.json](./242795-letteral.json) |
@@ -4793,6 +4795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looney Tunes: Wacky World of Sports | 306142 | [306142-looney-tunes-wacky-world-of-sports.json](./306142-looney-tunes-wacky-world-of-sports.json) |
 | Looney Tunes: Wacky World of Sports - Deluxe Edition | 315873 | [315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json](./315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json) |
 | Loong | 288828 | [288828-loong.json](./288828-loong.json) |
+| Loonies 8192 | 175654 | [175654-loonies-8192.json](./175654-loonies-8192.json) |
 | Loonley Toons Run | 105767 | [105767-loonley-toons-run.json](./105767-loonley-toons-run.json) |
 | Loony | 197934 | [197934-loony.json](./197934-loony.json) |
 | Loony Balloon | 41543 | [41543-loony-balloon.json](./41543-loony-balloon.json) |
