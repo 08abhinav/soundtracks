@@ -9157,6 +9157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mourne's | 207338 | [207338-the-mournes.json](./207338-the-mournes.json) |
 | The Mouse | 57482 | [57482-the-mouse.json](./57482-the-mouse.json) |
 | The Mouse and The Cat | 247055 | [247055-the-mouse-and-the-cat.json](./247055-the-mouse-and-the-cat.json) |
+| The Mouse and the Cheese | 166832 | [166832-the-mouse-and-the-cheese.json](./166832-the-mouse-and-the-cheese.json) |
 | The Mouse Police | 66928 | [66928-the-mouse-police.json](./66928-the-mouse-police.json) |
 | The Mouse The Merrier | 275823 | [275823-the-mouse-the-merrier.json](./275823-the-mouse-the-merrier.json) |
 | The Mousing Cat | 41564 | [41564-the-mousing-cat.json](./41564-the-mousing-cat.json) |
@@ -9479,6 +9480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oracle's Cave | 312556 | [312556-the-oracles-cave.json](./312556-the-oracles-cave.json) |
 | The Orange of Tomorrow | 348275 | [348275-the-orange-of-tomorrow.json](./348275-the-orange-of-tomorrow.json) |
 | The Orb Chambers II | 32064 | [32064-the-orb-chambers-ii.json](./32064-the-orb-chambers-ii.json) |
+| The Orb Chambers Remastered | 166814 | [166814-the-orb-chambers-remastered.json](./166814-the-orb-chambers-remastered.json) |
 | The Orc Invasion | 237950 | [237950-the-orc-invasion.json](./237950-the-orc-invasion.json) |
 | The Orchid's Edge | 231373 | [231373-the-orchids-edge.json](./231373-the-orchids-edge.json) |
 | The Ord Accord | 289972 | [289972-the-ord-accord.json](./289972-the-ord-accord.json) |
@@ -15056,6 +15058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Squared | 26977 | [26977-time-squared.json](./26977-time-squared.json) |
 | Time Stand Still | 10992 | [10992-time-stand-still.json](./10992-time-stand-still.json) |
 | Time Stone | 134479 | [134479-time-stone.json](./134479-time-stone.json) |
+| Time Storm | 166834 | [166834-time-storm.json](./166834-time-storm.json) |
 | Time Stripper | 57633 | [57633-time-stripper.json](./57633-time-stripper.json) |
 | Time Survivors: Chapter 0 | 258108 | [258108-time-survivors-chapter-0.json](./258108-time-survivors-chapter-0.json) |
 | Time Takers | 361861 | [361861-time-takers.json](./361861-time-takers.json) |
@@ -16010,6 +16013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tohou Sky Arena: Matsuri Climax - Playable Character: Yuyuko Saigyouji | 238034 | [238034-tohou-sky-arena-matsuri-climax-playable-character-yuyuko-saigyouji.json](./238034-tohou-sky-arena-matsuri-climax-playable-character-yuyuko-saigyouji.json) |
 | Tohu | 118044 | [118044-tohu.json](./118044-tohu.json) |
 | Tohu-Teka | 120159 | [120159-tohu-teka.json](./120159-tohu-teka.json) |
+| Toi | 166828 | [166828-toi.json](./166828-toi.json) |
 | Toi Acid Game | 47525 | [47525-toi-acid-game.json](./47525-toi-acid-game.json) |
 | Toil & Trubble | 404933 | [404933-toil-and-trubble.json](./404933-toil-and-trubble.json) |
 | Toilet 8 | 378306 | [378306-toilet-8.json](./378306-toilet-8.json) |
@@ -19885,6 +19889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tres | 319800 | [319800-tres.json](./319800-tres.json) |
 | Tres Acordes | 230757 | [230757-tres-acordes.json](./230757-tres-acordes.json) |
 | Tres Undos | 208269 | [208269-tres-undos.json](./208269-tres-undos.json) |
+| Tres-Bashers | 166809 | [166809-tres-bashers.json](./166809-tres-bashers.json) |
 | Tresmir Sight | 298169 | [298169-tresmir-sight.json](./298169-tresmir-sight.json) |
 | Trespass: Episode 1 | 31879 | [31879-trespass-episode-1.json](./31879-trespass-episode-1.json) |
 | Trespasser 2 | 204111 | [204111-trespasser-2.json](./204111-trespasser-2.json) |
