@@ -11007,6 +11007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pug's Quest | 82954 | [82954-pugs-quest.json](./82954-pugs-quest.json) |
 | Pugg | 211911 | [211911-pugg.json](./211911-pugg.json) |
 | Pugovki | 177051 | [177051-pugovki.json](./177051-pugovki.json) |
+| Pui Pui Molcar Let's! Molcar Party! | 175849 | [175849-pui-pui-molcar-lets-molcar-party.json](./175849-pui-pui-molcar-lets-molcar-party.json) |
 | PUIQ: Demons | 298053 | [298053-puiq-demons.json](./298053-puiq-demons.json) |
 | Puk | 195985 | [195985-puk.json](./195985-puk.json) |
 | Puke | 277256 | [277256-puke.json](./277256-puke.json) |
@@ -11595,10 +11596,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Agent | 15995 | [15995-puzzle-agent.json](./15995-puzzle-agent.json) |
 | Puzzle Arcade | 74420 | [74420-puzzle-arcade.json](./74420-puzzle-arcade.json) |
 | Puzzle Arena Toshinden | 44824 | [44824-puzzle-arena-toshinden.json](./44824-puzzle-arena-toshinden.json) |
+| Puzzle Art: Birds | 175645 | [175645-puzzle-art-birds.json](./175645-puzzle-art-birds.json) |
 | Puzzle Art: Dogs | 173043 | [173043-puzzle-art-dogs.json](./173043-puzzle-art-dogs.json) |
 | Puzzle Art: Horses | 191207 | [191207-puzzle-art-horses.json](./191207-puzzle-art-horses.json) |
 | Puzzle Art: Primates | 189963 | [189963-puzzle-art-primates.json](./189963-puzzle-art-primates.json) |
 | Puzzle Art: Rodents | 191208 | [191208-puzzle-art-rodents.json](./191208-puzzle-art-rodents.json) |
+| Puzzle Art: Snakes | 175644 | [175644-puzzle-art-snakes.json](./175644-puzzle-art-snakes.json) |
 | Puzzle Atlas | 404402 | [404402-puzzle-atlas.json](./404402-puzzle-atlas.json) |
 | Puzzle Ball Z | 384509 | [384509-puzzle-ball-z.json](./384509-puzzle-ball-z.json) |
 | Puzzle Balls | 268478 | [268478-puzzle-balls.json](./268478-puzzle-balls.json) |
