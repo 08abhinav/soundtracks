@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | (Neg)Entropic Wandering | 309451 | [309451-neg-entropic-wandering.json](./309451-neg-entropic-wandering.json) |
 | (O_O) | 209770 | [209770-o-o.json](./209770-o-o.json) |
 | [K]night City | 365226 | [365226-k-night-city.json](./365226-k-night-city.json) |
+| [OPT-OUT]: Uncanny | 153742 | [153742-opt-out-uncanny.json](./153742-opt-out-uncanny.json) |
 | [REC] Desolation | 333760 | [333760-rec-desolation.json](./333760-rec-desolation.json) |
 | [Redacted] | 292844 | [292844-redacted.json](./292844-redacted.json) |
 | [Redacted] | 396399 | [396399-redacted.json](./396399-redacted.json) |
