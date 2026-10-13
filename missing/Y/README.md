@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza: Like a Dragon - Limited Edition | 386271 | [386271-yakuza-like-a-dragon-limited-edition.json](./386271-yakuza-like-a-dragon-limited-edition.json) |
 | Yakuza: Like a Dragon - Management Mode Set | 259521 | [259521-yakuza-like-a-dragon-management-mode-set.json](./259521-yakuza-like-a-dragon-management-mode-set.json) |
 | Yakuza: Like a Dragon - Pachislot Machines | 382341 | [382341-yakuza-like-a-dragon-pachislot-machines.json](./382341-yakuza-like-a-dragon-pachislot-machines.json) |
+| Yakuza: Like a Dragon - Ultimate Costume Set | 164572 | [164572-yakuza-like-a-dragon-ultimate-costume-set.json](./164572-yakuza-like-a-dragon-ultimate-costume-set.json) |
 | Yakyosho | 201679 | [201679-yakyosho.json](./201679-yakyosho.json) |
 | Yakyuu Dou: The Way to Gloria | 66197 | [66197-yakyuu-dou-the-way-to-gloria.json](./66197-yakyuu-dou-the-way-to-gloria.json) |
 | Yakyuuken | 246486 | [246486-yakyuuken.json](./246486-yakyuuken.json) |
