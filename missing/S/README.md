@@ -5971,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shootout Pool | 317528 | [317528-shootout-pool.json](./317528-shootout-pool.json) |
 | Shootout! | 109450 | [109450-shootout.json](./109450-shootout.json) |
 | Shootout! : World Edition | 90897 | [90897-shootout-world-edition.json](./90897-shootout-world-edition.json) |
+| ShootRun | 156888 | [156888-shootrun.json](./156888-shootrun.json) |
 | Shoottris: Beyond the Classic Game | 110508 | [110508-shoottris-beyond-the-classic-game.json](./110508-shoottris-beyond-the-classic-game.json) |
 | Shootvaders: The Beginning | 190945 | [190945-shootvaders-the-beginning.json](./190945-shootvaders-the-beginning.json) |
 | ShootX | 343260 | [343260-shootx.json](./343260-shootx.json) |
@@ -7794,6 +7795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleton War | 290857 | [290857-skeleton-war.json](./290857-skeleton-war.json) |
 | Skeleton Warrior | 130198 | [130198-skeleton-warrior.json](./130198-skeleton-warrior.json) |
 | Skeleton Warriors | 8084 | [8084-skeleton-warriors.json](./8084-skeleton-warriors.json) |
+| Skeleton Wave | 156894 | [156894-skeleton-wave.json](./156894-skeleton-wave.json) |
 | Skeletons Uprising | 265153 | [265153-skeletons-uprising.json](./265153-skeletons-uprising.json) |
 | Skeletons vs Nadia | 203756 | [203756-skeletons-vs-nadia.json](./203756-skeletons-vs-nadia.json) |
 | Skeletris | 134701 | [134701-skeletris.json](./134701-skeletris.json) |
@@ -9131,6 +9133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Cell | 224657 | [224657-small-cell.json](./224657-small-cell.json) |
 | Small Dragon Big Appetite | 340360 | [340360-small-dragon-big-appetite.json](./340360-small-dragon-big-appetite.json) |
 | Small Hero Survive | 301624 | [301624-small-hero-survive.json](./301624-small-hero-survive.json) |
+| Small Iron | 156897 | [156897-small-iron.json](./156897-small-iron.json) |
 | Small Islands | 176339 | [176339-small-islands.json](./176339-small-islands.json) |
 | Small Kingdoms | 262959 | [262959-small-kingdoms.json](./262959-small-kingdoms.json) |
 | Small Living World 2 | 355699 | [355699-small-living-world-2.json](./355699-small-living-world-2.json) |
@@ -15325,6 +15328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack Ball Run! | 262331 | [262331-stack-ball-run.json](./262331-stack-ball-run.json) |
 | Stack Bounce | 302747 | [302747-stack-bounce.json](./302747-stack-bounce.json) |
 | Stack Columns | 63129 | [63129-stack-columns.json](./63129-stack-columns.json) |
+| Stack Defense | 156906 | [156906-stack-defense.json](./156906-stack-defense.json) |
 | Stack It | 216749 | [216749-stack-it.json](./216749-stack-it.json) |
 | Stack Jump | 87657 | [87657-stack-jump.json](./87657-stack-jump.json) |
 | Stack Machines | 232434 | [232434-stack-machines.json](./232434-stack-machines.json) |
@@ -16685,6 +16689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Troopers: Extermination - Galactic Victory Edition | 333690 | [333690-starship-troopers-extermination-galactic-victory-edition.json](./333690-starship-troopers-extermination-galactic-victory-edition.json) |
 | Starship Troopers: Extermination - Warrior Tiger Bundle | 331519 | [331519-starship-troopers-extermination-warrior-tiger-bundle.json](./331519-starship-troopers-extermination-warrior-tiger-bundle.json) |
 | Starship Troopers: Terran Command - Urban Onslaught | 298054 | [298054-starship-troopers-terran-command-urban-onslaught.json](./298054-starship-troopers-terran-command-urban-onslaught.json) |
+| Starship Tunnel | 156904 | [156904-starship-tunnel.json](./156904-starship-tunnel.json) |
 | Starship Wars | 186555 | [186555-starship-wars.json](./186555-starship-wars.json) |
 | StarShip Wars | 389422 | [389422-starship-wars.json](./389422-starship-wars.json) |
 | Starship: Invasion | 69889 | [69889-starship-invasion.json](./69889-starship-invasion.json) |
