@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Pinball | 20730 | [20730-zen-pinball.json](./20730-zen-pinball.json) |
 | Zen Pinball 2 | 6008 | [6008-zen-pinball-2.json](./6008-zen-pinball-2.json) |
 | Zen Pinball 3D | 21146 | [21146-zen-pinball-3d.json](./21146-zen-pinball-3d.json) |
+| Zen Pinball Party | 174587 | [174587-zen-pinball-party.json](./174587-zen-pinball-party.json) |
 | Zen Pinball Party: My Little Pony Pinball | 231447 | [231447-zen-pinball-party-my-little-pony-pinball.json](./231447-zen-pinball-party-my-little-pony-pinball.json) |
 | Zen Pinball World | 324566 | [324566-zen-pinball-world.json](./324566-zen-pinball-world.json) |
 | Zen Pinball World: A Charlie Brown Christmas Pinball | 354059 | [354059-zen-pinball-world-a-charlie-brown-christmas-pinball.json](./354059-zen-pinball-world-a-charlie-brown-christmas-pinball.json) |
@@ -589,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero4 Champ Series: Drift Champ | 124629 | [124629-zero4-champ-series-drift-champ.json](./124629-zero4-champ-series-drift-champ.json) |
 | ZeroCar | 88249 | [88249-zerocar.json](./88249-zerocar.json) |
 | Zerocar: Future Motorsport | 116453 | [116453-zerocar-future-motorsport.json](./116453-zerocar-future-motorsport.json) |
+| Zeroed Out | 175321 | [175321-zeroed-out.json](./175321-zeroed-out.json) |
 | Zeroentity | 193942 | [193942-zeroentity.json](./193942-zeroentity.json) |
 | ZeroKing | 278497 | [278497-zeroking.json](./278497-zeroking.json) |
 | Zeromiss | 327210 | [327210-zeromiss.json](./327210-zeromiss.json) |
