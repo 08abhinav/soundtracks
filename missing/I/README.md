@@ -829,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icy Gifts | 342232 | [342232-icy-gifts.json](./342232-icy-gifts.json) |
 | Icy Incline | 296919 | [296919-icy-incline.json](./296919-icy-incline.json) |
 | Icy Journey | 246542 | [246542-icy-journey.json](./246542-icy-journey.json) |
+| Icy Maze | 145375 | [145375-icy-maze.json](./145375-icy-maze.json) |
 | Icy Ropes | 87176 | [87176-icy-ropes.json](./87176-icy-ropes.json) |
 | Icy Spell | 294863 | [294863-icy-spell.json](./294863-icy-spell.json) |
 | Icy Tower | 18095 | [18095-icy-tower.json](./18095-icy-tower.json) |
