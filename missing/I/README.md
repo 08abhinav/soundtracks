@@ -1124,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Tamers: Mini Monsters | 188369 | [188369-idle-tamers-mini-monsters.json](./188369-idle-tamers-mini-monsters.json) |
 | Idle Taoist Mage Warrior 2 | 298665 | [298665-idle-taoist-mage-warrior-2.json](./298665-idle-taoist-mage-warrior-2.json) |
 | Idle Tap Zoo: Tap, Build & Upg | 245345 | [245345-idle-tap-zoo-tap-build-and-upg.json](./245345-idle-tap-zoo-tap-build-and-upg.json) |
+| Idle TD: Heroes vs Zombies | 160074 | [160074-idle-td-heroes-vs-zombies.json](./160074-idle-td-heroes-vs-zombies.json) |
 | Idle Three Kingdoms | 224039 | [224039-idle-three-kingdoms.json](./224039-idle-three-kingdoms.json) |
 | Idle Tick | 274043 | [274043-idle-tick.json](./274043-idle-tick.json) |
 | Idle Tides | 409814 | [409814-idle-tides.json](./409814-idle-tides.json) |
@@ -2591,6 +2592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Blocks | 301612 | [301612-infinity-blocks.json](./301612-infinity-blocks.json) |
 | Infinity Bounce | 412398 | [412398-infinity-bounce.json](./412398-infinity-bounce.json) |
 | Infinity Cave | 313422 | [313422-infinity-cave.json](./313422-infinity-cave.json) |
+| Infinity Coloring Pixel | 162616 | [162616-infinity-coloring-pixel.json](./162616-infinity-coloring-pixel.json) |
 | Infinity Conflict | 188406 | [188406-infinity-conflict.json](./188406-infinity-conflict.json) |
 | Infinity Conquer | 196521 | [196521-infinity-conquer.json](./196521-infinity-conquer.json) |
 | Infinity Cure | 43965 | [43965-infinity-cure.json](./43965-infinity-cure.json) |
