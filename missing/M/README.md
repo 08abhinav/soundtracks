@@ -624,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage's Arena | 205009 | [205009-mages-arena.json](./205009-mages-arena.json) |
 | Mage's Initiation | 63533 | [63533-mages-initiation.json](./63533-mages-initiation.json) |
 | Mage's Legacy | 312162 | [312162-mages-legacy.json](./312162-mages-legacy.json) |
+| Mage's Maze Play: Inma no Doukutsu ni Idomu Boukensha | 175659 | [175659-mages-maze-play-inma-no-doukutsu-ni-idomu-boukensha.json](./175659-mages-maze-play-inma-no-doukutsu-ni-idomu-boukensha.json) |
 | Mageanoid | 312190 | [312190-mageanoid.json](./312190-mageanoid.json) |
 | MageCraft | 244147 | [244147-magecraft.json](./244147-magecraft.json) |
 | Magefall | 210719 | [210719-magefall.json](./210719-magefall.json) |
@@ -1629,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make It Cozy! | 409546 | [409546-make-it-cozy.json](./409546-make-it-cozy.json) |
 | Make It Fly! | 224014 | [224014-make-it-fly.json](./224014-make-it-fly.json) |
 | Make It In Time | 214164 | [214164-make-it-in-time.json](./214164-make-it-in-time.json) |
+| Make It Last: While You Can | 175842 | [175842-make-it-last-while-you-can.json](./175842-make-it-last-while-you-can.json) |
 | Make It Rain: The Love of Money | 61718 | [61718-make-it-rain-the-love-of-money.json](./61718-make-it-rain-the-love-of-money.json) |
 | Make It Stop! | 301349 | [301349-make-it-stop.json](./301349-make-it-stop.json) |
 | Make It True | 326679 | [326679-make-it-true.json](./326679-make-it-true.json) |
@@ -3502,6 +3504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master the Sky | 257693 | [257693-master-the-sky.json](./257693-master-the-sky.json) |
 | Master Thief Simulator | 389540 | [389540-master-thief-simulator.json](./389540-master-thief-simulator.json) |
 | Master Thief: Skyscraper Sting | 295920 | [295920-master-thief-skyscraper-sting.json](./295920-master-thief-skyscraper-sting.json) |
+| Master Whip | 175658 | [175658-master-whip.json](./175658-master-whip.json) |
 | Master x Re:master | 395138 | [395138-master-x-re-master.json](./395138-master-x-re-master.json) |
 | Masterchef Cakes Edition | 217507 | [217507-masterchef-cakes-edition.json](./217507-masterchef-cakes-edition.json) |
 | Masterchef Chinese Food Edition | 195273 | [195273-masterchef-chinese-food-edition.json](./195273-masterchef-chinese-food-edition.json) |
@@ -6674,6 +6677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MHZ | 369219 | [369219-mhz.json](./369219-mhz.json) |
 | Mi Espada | 288825 | [288825-mi-espada.json](./288825-mi-espada.json) |
 | Mi ni Iku zo! Hedgehog | 228507 | [228507-mi-ni-iku-zo-hedgehog.json](./228507-mi-ni-iku-zo-hedgehog.json) |
+| Mi Scusi | 175650 | [175650-mi-scusi.json](./175650-mi-scusi.json) |
 | Mi'pu'mi' Collection | 151627 | [151627-mipumi-collection.json](./151627-mipumi-collection.json) |
 | MI5 Bob | 71166 | [71166-mi5-bob.json](./71166-mi5-bob.json) |
 | Mia | 169370 | [169370-mia.json](./169370-mia.json) |
@@ -10066,6 +10070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Dash | 18497 | [18497-monster-dash.json](./18497-monster-dash.json) |
 | Monster Demolition | 261416 | [261416-monster-demolition.json](./261416-monster-demolition.json) |
 | Monster Desert | 233458 | [233458-monster-desert.json](./233458-monster-desert.json) |
+| Monster Dice | 175649 | [175649-monster-dice.json](./175649-monster-dice.json) |
 | Monster Dot | 76154 | [76154-monster-dot.json](./76154-monster-dot.json) |
 | Monster Dungeon | 192666 | [192666-monster-dungeon.json](./192666-monster-dungeon.json) |
 | Monster Dunk | 130333 | [130333-monster-dunk.json](./130333-monster-dunk.json) |
