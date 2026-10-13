@@ -1513,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Out | 217308 | [217308-dash-out.json](./217308-dash-out.json) |
 | Dash Queen | 74716 | [74716-dash-queen.json](./74716-dash-queen.json) |
 | Dash Quest | 99402 | [99402-dash-quest.json](./99402-dash-quest.json) |
+| Dash Realm | 173006 | [173006-dash-realm.json](./173006-dash-realm.json) |
 | Dash Shooters | 211137 | [211137-dash-shooters.json](./211137-dash-shooters.json) |
 | Dash till Puff 2 | 39229 | [39229-dash-till-puff-2.json](./39229-dash-till-puff-2.json) |
 | Dash Trails | 392853 | [392853-dash-trails.json](./392853-dash-trails.json) |
@@ -6775,6 +6776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disposable Corps | 343468 | [343468-disposable-corps.json](./343468-disposable-corps.json) |
 | Disposable Hero | 12048 | [12048-disposable-hero.json](./12048-disposable-hero.json) |
 | Disposable Heroes | 14037 | [14037-disposable-heroes.json](./14037-disposable-heroes.json) |
+| Disposable heroes 2 : The curse that killed a queen | 173193 | [173193-disposable-heroes-2-the-curse-that-killed-a-queen.json](./173193-disposable-heroes-2-the-curse-that-killed-a-queen.json) |
 | Disposal Of Otherworldly Monsters | 271223 | [271223-disposal-of-otherworldly-monsters.json](./271223-disposal-of-otherworldly-monsters.json) |
 | Disposition | 318007 | [318007-disposition.json](./318007-disposition.json) |
 | Disquiet | 226736 | [226736-disquiet.json](./226736-disquiet.json) |
