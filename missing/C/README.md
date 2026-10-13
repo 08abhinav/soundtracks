@@ -10641,6 +10641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Animal Choir | 284988 | [284988-crazy-animal-choir.json](./284988-crazy-animal-choir.json) |
 | Crazy Appliances | 86392 | [86392-crazy-appliances.json](./86392-crazy-appliances.json) |
 | Crazy Archery | 113696 | [113696-crazy-archery.json](./113696-crazy-archery.json) |
+| Crazy Ball Adventures: Treasure | 155371 | [155371-crazy-ball-adventures-treasure.json](./155371-crazy-ball-adventures-treasure.json) |
 | Crazy Balloon | 69592 | [69592-crazy-balloon.json](./69592-crazy-balloon.json) |
 | Crazy Balloon Pop | 108927 | [108927-crazy-balloon-pop.json](./108927-crazy-balloon-pop.json) |
 | Crazy Basket | 394473 | [394473-crazy-basket.json](./394473-crazy-basket.json) |
@@ -12262,6 +12263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Fight | 213613 | [213613-cube-fight.json](./213613-cube-fight.json) |
 | Cube Fight | 380099 | [380099-cube-fight.json](./380099-cube-fight.json) |
 | Cube Foundry | 349876 | [349876-cube-foundry.json](./349876-cube-foundry.json) |
+| Cube Full of Mines: Slate Map | 155378 | [155378-cube-full-of-mines-slate-map.json](./155378-cube-full-of-mines-slate-map.json) |
 | Cube Game | 137605 | [137605-cube-game.json](./137605-cube-game.json) |
 | Cube Game Server Boss | 383691 | [383691-cube-game-server-boss.json](./383691-cube-game-server-boss.json) |
 | Cube Gothic | 140359 | [140359-cube-gothic.json](./140359-cube-gothic.json) |
