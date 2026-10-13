@@ -1055,6 +1055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cape's Escape Game 7th Room | 287171 | [287171-capes-escape-game-7th-room.json](./287171-capes-escape-game-7th-room.json) |
 | Capeless Heroes | 176223 | [176223-capeless-heroes.json](./176223-capeless-heroes.json) |
 | Capelord: Bounty Hunters | 190718 | [190718-capelord-bounty-hunters.json](./190718-capelord-bounty-hunters.json) |
+| Caper in the Castro | 139125 | [139125-caper-in-the-castro.json](./139125-caper-in-the-castro.json) |
 | Capers vs Pirates | 336680 | [336680-capers-vs-pirates.json](./336680-capers-vs-pirates.json) |
 | Capes | 217376 | [217376-capes.json](./217376-capes.json) |
 | Capes: King City Edition | 303287 | [303287-capes-king-city-edition.json](./303287-capes-king-city-edition.json) |
@@ -9268,6 +9269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Chaos | 246492 | [246492-cooking-chaos.json](./246492-cooking-chaos.json) |
 | Cooking City: Summer Party | 187892 | [187892-cooking-city-summer-party.json](./187892-cooking-city-summer-party.json) |
 | Cooking Companions | 132788 | [132788-cooking-companions.json](./132788-cooking-companions.json) |
+| Cooking Companions: Appetizer Edition | 139141 | [139141-cooking-companions-appetizer-edition.json](./139141-cooking-companions-appetizer-edition.json) |
 | Cooking Craze | 88770 | [88770-cooking-craze.json](./88770-cooking-craze.json) |
 | Cooking Craze: Starter Pack | 295118 | [295118-cooking-craze-starter-pack.json](./295118-cooking-craze-starter-pack.json) |
 | Cooking Crew | 262954 | [262954-cooking-crew.json](./262954-cooking-crew.json) |
@@ -10366,6 +10368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft Craft Craft! | 168118 | [168118-craft-craft-craft.json](./168118-craft-craft-craft.json) |
 | Craft Drill | 408119 | [408119-craft-drill.json](./408119-craft-drill.json) |
 | Craft Elements | 126577 | [126577-craft-elements.json](./126577-craft-elements.json) |
+| Craft Fighter | 139129 | [139129-craft-fighter.json](./139129-craft-fighter.json) |
 | Craft Hero | 194264 | [194264-craft-hero.json](./194264-craft-hero.json) |
 | Craft Jam | 176416 | [176416-craft-jam.json](./176416-craft-jam.json) |
 | Craft Keep VR | 26932 | [26932-craft-keep-vr.json](./26932-craft-keep-vr.json) |
@@ -11050,6 +11053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatures II: Torture Trouble | 11375 | [11375-creatures-ii-torture-trouble.json](./11375-creatures-ii-torture-trouble.json) |
 | Creatures Inc. | 112008 | [112008-creatures-inc.json](./112008-creatures-inc.json) |
 | Creatures Like Us | 415171 | [415171-creatures-like-us.json](./415171-creatures-like-us.json) |
+| Creatures of Aether | 139140 | [139140-creatures-of-aether.json](./139140-creatures-of-aether.json) |
 | Creatures of Ava: WDC Charity Backpack Trinkets Set | 312835 | [312835-creatures-of-ava-wdc-charity-backpack-trinkets-set.json](./312835-creatures-of-ava-wdc-charity-backpack-trinkets-set.json) |
 | Creatures of the Night | 335391 | [335391-creatures-of-the-night.json](./335391-creatures-of-the-night.json) |
 | Creatures of War | 217338 | [217338-creatures-of-war.json](./217338-creatures-of-war.json) |
