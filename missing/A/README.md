@@ -4182,6 +4182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Crab in the Ghostmaze | 180706 | [180706-alien-crab-in-the-ghostmaze.json](./180706-alien-crab-in-the-ghostmaze.json) |
 | Alien Crusader | 89385 | [89385-alien-crusader.json](./89385-alien-crusader.json) |
 | Alien Cube | 254779 | [254779-alien-cube.json](./254779-alien-cube.json) |
+| Alien Dawn | 141582 | [141582-alien-dawn.json](./141582-alien-dawn.json) |
 | Alien Dead | 229715 | [229715-alien-dead.json](./229715-alien-dead.json) |
 | Alien Death Mob | 148317 | [148317-alien-death-mob.json](./148317-alien-death-mob.json) |
 | Alien Deathstorm | 396023 | [396023-alien-deathstorm.json](./396023-alien-deathstorm.json) |
@@ -5678,6 +5679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Evening of Wonders | 258941 | [258941-an-evening-of-wonders.json](./258941-an-evening-of-wonders.json) |
 | An evening stroll | 183938 | [183938-an-evening-stroll.json](./183938-an-evening-stroll.json) |
 | An Everyday Story | 235642 | [235642-an-everyday-story.json](./235642-an-everyday-story.json) |
+| An Evil Existence | 140953 | [140953-an-evil-existence.json](./140953-an-evil-existence.json) |
 | An Exorcism | 375556 | [375556-an-exorcism.json](./375556-an-exorcism.json) |
 | An ExScourgeon Through Space and Time! | 180658 | [180658-an-exscourgeon-through-space-and-time.json](./180658-an-exscourgeon-through-space-and-time.json) |
 | An Idle Nightmare | 334839 | [334839-an-idle-nightmare.json](./334839-an-idle-nightmare.json) |
@@ -6732,6 +6734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annual Intruders | 169813 | [169813-annual-intruders.json](./169813-annual-intruders.json) |
 | Annual Intruders 2.0 | 191048 | [191048-annual-intruders-2-0.json](./191048-annual-intruders-2-0.json) |
 | Annuit Coeptis | 303149 | [303149-annuit-coeptis.json](./303149-annuit-coeptis.json) |
+| Annulus | 140888 | [140888-annulus.json](./140888-annulus.json) |
 | Annulus | 196308 | [196308-annulus.json](./196308-annulus.json) |
 | Annum | 286749 | [286749-annum.json](./286749-annum.json) |
 | Annunaki Clicker | 348786 | [348786-annunaki-clicker.json](./348786-annunaki-clicker.json) |
@@ -6968,6 +6971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antarctic Tales Enhanced Edition | 268511 | [268511-antarctic-tales-enhanced-edition.json](./268511-antarctic-tales-enhanced-edition.json) |
 | Antares | 125343 | [125343-antares.json](./125343-antares.json) |
 | Antares | 132727 | [132727-antares.json](./132727-antares.json) |
+| Antaresian Reliquary | 141566 | [141566-antaresian-reliquary.json](./141566-antaresian-reliquary.json) |
 | Antartica | 400962 | [400962-antartica.json](./400962-antartica.json) |
 | AntCity | 318137 | [318137-antcity.json](./318137-antcity.json) |
 | Antcopter | 306036 | [306036-antcopter.json](./306036-antcopter.json) |
@@ -10200,6 +10204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Smash 'n' Blast! | 233553 | [233553-astro-smash-n-blast.json](./233553-astro-smash-n-blast.json) |
 | Astro Spider: Between Threads and Stars | 364067 | [364067-astro-spider-between-threads-and-stars.json](./364067-astro-spider-between-threads-and-stars.json) |
 | Astro Tripper | 16265 | [16265-astro-tripper.json](./16265-astro-tripper.json) |
+| Astro Universe | 140969 | [140969-astro-universe.json](./140969-astro-universe.json) |
 | Astro Warrior | 37176 | [37176-astro-warrior.json](./37176-astro-warrior.json) |
 | Astro Warrior/Pit Pot | 93584 | [93584-astro-warrior-pit-pot.json](./93584-astro-warrior-pit-pot.json) |
 | Astro Wars | 250337 | [250337-astro-wars.json](./250337-astro-wars.json) |
@@ -10648,6 +10653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlas Reactor VR Character Viewer | 33173 | [33173-atlas-reactor-vr-character-viewer.json](./33173-atlas-reactor-vr-character-viewer.json) |
 | Atlas Reactor: All Freelancers Pack | 52430 | [52430-atlas-reactor-all-freelancers-pack.json](./52430-atlas-reactor-all-freelancers-pack.json) |
 | Atlas Reactor: Ultimate Reactor Pack | 52429 | [52429-atlas-reactor-ultimate-reactor-pack.json](./52429-atlas-reactor-ultimate-reactor-pack.json) |
+| Atlas Rogues | 140950 | [140950-atlas-rogues.json](./140950-atlas-rogues.json) |
 | Atlas Wept | 169854 | [169854-atlas-wept.json](./169854-atlas-wept.json) |
 | Atlas: Groundbreaking Adventures | 109478 | [109478-atlas-groundbreaking-adventures.json](./109478-atlas-groundbreaking-adventures.json) |
 | Atlas: The Gift of Aramai | 169902 | [169902-atlas-the-gift-of-aramai.json](./169902-atlas-the-gift-of-aramai.json) |
@@ -11544,6 +11550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axel & Pixel | 14845 | [14845-axel-and-pixel.json](./14845-axel-and-pixel.json) |
 | Axel City | 124767 | [124767-axel-city.json](./124767-axel-city.json) |
 | Axel's Journey | 183414 | [183414-axels-journey.json](./183414-axels-journey.json) |
+| Axes | 140967 | [140967-axes.json](./140967-axes.json) |
 | Axes and Arrows | 34355 | [34355-axes-and-arrows.json](./34355-axes-and-arrows.json) |
 | AxeSlinger | 382299 | [382299-axeslinger.json](./382299-axeslinger.json) |
 | Axet | 14497 | [14497-axet.json](./14497-axet.json) |
@@ -11573,6 +11580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axis Assassin | 13808 | [13808-axis-assassin.json](./13808-axis-assassin.json) |
 | Axis Football 2016 | 32085 | [32085-axis-football-2016.json](./32085-axis-football-2016.json) |
 | Axis Football 2017 | 54812 | [54812-axis-football-2017.json](./54812-axis-football-2017.json) |
+| Axis Football 2020 | 140957 | [140957-axis-football-2020.json](./140957-axis-football-2020.json) |
 | Axis Football 2021 | 153011 | [153011-axis-football-2021.json](./153011-axis-football-2021.json) |
 | Axis Football 2023 | 213436 | [213436-axis-football-2023.json](./213436-axis-football-2023.json) |
 | Axis Football 2024 | 264762 | [264762-axis-football-2024.json](./264762-axis-football-2024.json) |
