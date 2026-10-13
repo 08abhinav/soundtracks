@@ -5035,6 +5035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rings of Zilfin | 2891 | [2891-rings-of-zilfin.json](./2891-rings-of-zilfin.json) |
 | Ringworld: Revenge of the Patriarch | 46727 | [46727-ringworld-revenge-of-the-patriarch.json](./46727-ringworld-revenge-of-the-patriarch.json) |
 | Ringwyrm | 410985 | [410985-ringwyrm.json](./410985-ringwyrm.json) |
+| Rinlo | 133133 | [133133-rinlo.json](./133133-rinlo.json) |
 | Rinne | 182316 | [182316-rinne.json](./182316-rinne.json) |
 | Rinne no Hate de Kimi wo Matsu | 417545 | [417545-rinne-no-hate-de-kimi-wo-matsu.json](./417545-rinne-no-hate-de-kimi-wo-matsu.json) |
 | Rinne no Lagrange: Kamogawa Match | 268741 | [268741-rinne-no-lagrange-kamogawa-match.json](./268741-rinne-no-lagrange-kamogawa-match.json) |
@@ -5766,6 +5767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo-Worms | 157673 | [157673-robo-worms.json](./157673-robo-worms.json) |
 | RoBo: The Allectric Idventurer | 211283 | [211283-robo-the-allectric-idventurer.json](./211283-robo-the-allectric-idventurer.json) |
 | Robo50 | 211744 | [211744-robo50.json](./211744-robo50.json) |
+| RoboArena | 133125 | [133125-roboarena.json](./133125-roboarena.json) |
 | RoboBall | 111681 | [111681-roboball.json](./111681-roboball.json) |
 | Roboban: Colors | 302938 | [302938-roboban-colors.json](./302938-roboban-colors.json) |
 | Robobeat | 192534 | [192534-robobeat.json](./192534-robobeat.json) |
@@ -8180,6 +8182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runewaker | 186803 | [186803-runewaker.json](./186803-runewaker.json) |
 | Runewatch: Age of Arcanum | 208464 | [208464-runewatch-age-of-arcanum.json](./208464-runewatch-age-of-arcanum.json) |
 | Runeyana | 32935 | [32935-runeyana.json](./32935-runeyana.json) |
+| Runflexio | 133144 | [133144-runflexio.json](./133144-runflexio.json) |
 | Runflexio: Exhibition Version | 183330 | [183330-runflexio-exhibition-version.json](./183330-runflexio-exhibition-version.json) |
 | Rungore | 220488 | [220488-rungore.json](./220488-rungore.json) |
 | Runi's Math Castle | 306337 | [306337-runis-math-castle.json](./306337-runis-math-castle.json) |
