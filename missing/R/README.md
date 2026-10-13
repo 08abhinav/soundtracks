@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race & Destroy | 32738 | [32738-race-and-destroy.json](./32738-race-and-destroy.json) |
 | Race 07 | 10380 | [10380-race-07.json](./10380-race-07.json) |
 | Race 07: Formula RaceRoom | 120183 | [120183-race-07-formula-raceroom.json](./120183-race-07-formula-raceroom.json) |
+| Race 07: GTR Evolution Expansion Pack | 167904 | [167904-race-07-gtr-evolution-expansion-pack.json](./167904-race-07-gtr-evolution-expansion-pack.json) |
 | Race 07: STCC - The Game 1 | 164387 | [164387-race-07-stcc-the-game-1.json](./164387-race-07-stcc-the-game-1.json) |
 | Race 07: STCC - The Game 2 | 164386 | [164386-race-07-stcc-the-game-2.json](./164386-race-07-stcc-the-game-2.json) |
 | Race Ace | 315274 | [315274-race-ace.json](./315274-race-ace.json) |
