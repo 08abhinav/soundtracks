@@ -1125,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lauren's visit | 108066 | [108066-laurens-visit.json](./108066-laurens-visit.json) |
 | Lava Escape Mine | 168712 | [168712-lava-escape-mine.json](./168712-lava-escape-mine.json) |
 | Lava Fever | 22786 | [22786-lava-fever.json](./22786-lava-fever.json) |
+| Lava Friends | 176186 | [176186-lava-friends.json](./176186-lava-friends.json) |
 | Lava Hop! | 352344 | [352344-lava-hop.json](./352344-lava-hop.json) |
 | Lava Joe | 181258 | [181258-lava-joe.json](./181258-lava-joe.json) |
 | Lava Pool | 108031 | [108031-lava-pool.json](./108031-lava-pool.json) |
@@ -1408,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League Star | 100870 | [100870-league-star.json](./100870-league-star.json) |
 | League TD | 261746 | [261746-league-td.json](./261746-league-td.json) |
 | Leak Elite | 136385 | [136385-leak-elite.json](./136385-leak-elite.json) |
+| Leak or Die! | 176391 | [176391-leak-or-die.json](./176391-leak-or-die.json) |
 | Leaks In Space | 369563 | [369563-leaks-in-space.json](./369563-leaks-in-space.json) |
 | Leander | 12173 | [12173-leander.json](./12173-leander.json) |
 | Leann sins | 367286 | [367286-leann-sins.json](./367286-leann-sins.json) |
@@ -4990,6 +4992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord Winklebottom Investigates | 115180 | [115180-lord-winklebottom-investigates.json](./115180-lord-winklebottom-investigates.json) |
 | Lordcraft | 420669 | [420669-lordcraft.json](./420669-lordcraft.json) |
 | Lordlings of Yore | 25614 | [25614-lordlings-of-yore.json](./25614-lordlings-of-yore.json) |
+| Lordmancer 2 | 176189 | [176189-lordmancer-2.json](./176189-lordmancer-2.json) |
 | Lords & Knights | 323155 | [323155-lords-and-knights.json](./323155-lords-and-knights.json) |
 | Lords & Peasants | 20057 | [20057-lords-and-peasants.json](./20057-lords-and-peasants.json) |
 | Lords and Peasents | 220783 | [220783-lords-and-peasents.json](./220783-lords-and-peasents.json) |
