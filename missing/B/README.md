@@ -4511,6 +4511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Myths | 224708 | [224708-beyond-myths.json](./224708-beyond-myths.json) |
 | Beyond Pearl Harbor: Pacific Warriors | 37289 | [37289-beyond-pearl-harbor-pacific-warriors.json](./37289-beyond-pearl-harbor-pacific-warriors.json) |
 | Beyond Perception | 108845 | [108845-beyond-perception.json](./108845-beyond-perception.json) |
+| Beyond Polaris Guardian | 161589 | [161589-beyond-polaris-guardian.json](./161589-beyond-polaris-guardian.json) |
 | Beyond Protocol | 72646 | [72646-beyond-protocol.json](./72646-beyond-protocol.json) |
 | Beyond Reach | 316725 | [316725-beyond-reach.json](./316725-beyond-reach.json) |
 | Beyond Reality | 317339 | [317339-beyond-reality.json](./317339-beyond-reality.json) |
@@ -9097,6 +9098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowser's Revenge 3 | 276782 | [276782-bowsers-revenge-3.json](./276782-bowsers-revenge-3.json) |
 | Bowser's Revenge 4 | 316124 | [316124-bowsers-revenge-4.json](./316124-bowsers-revenge-4.json) |
 | Bowser's Valley | 268009 | [268009-bowsers-valley.json](./268009-bowsers-valley.json) |
+| Bowsette | 161572 | [161572-bowsette.json](./161572-bowsette.json) |
 | Bowslinger | 33088 | [33088-bowslinger.json](./33088-bowslinger.json) |
 | Box | 130782 | [130782-box.json](./130782-box.json) |
 | Box | 131332 | [131332-box.json](./131332-box.json) |
@@ -9633,6 +9635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl Stars: Year Of The Tiger | 318578 | [318578-brawl-stars-year-of-the-tiger.json](./318578-brawl-stars-year-of-the-tiger.json) |
 | Brawl Tactics: Origins | 258089 | [258089-brawl-tactics-origins.json](./258089-brawl-tactics-origins.json) |
 | Brawlberry | 273961 | [273961-brawlberry.json](./273961-brawlberry.json) |
+| Brawler | 161606 | [161606-brawler.json](./161606-brawler.json) |
 | Brawler Bro's | 216698 | [216698-brawler-bros.json](./216698-brawler-bros.json) |
 | Brawler Friends | 58185 | [58185-brawler-friends.json](./58185-brawler-friends.json) |
 | Brawler Friends | 58186 | [58186-brawler-friends.json](./58186-brawler-friends.json) |
