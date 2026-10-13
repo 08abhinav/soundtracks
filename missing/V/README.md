@@ -679,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vayan | 216494 | [216494-vayan.json](./216494-vayan.json) |
 | Vaygren: Lustful Temptation | 307173 | [307173-vaygren-lustful-temptation.json](./307173-vaygren-lustful-temptation.json) |
 | Vazial Saga XX | 166633 | [166633-vazial-saga-xx.json](./166633-vazial-saga-xx.json) |
+| VB Mario Kart | 165164 | [165164-vb-mario-kart.json](./165164-vb-mario-kart.json) |
 | VB Mario Land | 175949 | [175949-vb-mario-land.json](./175949-vb-mario-land.json) |
 | VBS1 | 94962 | [94962-vbs1.json](./94962-vbs1.json) |
 | VBS2 | 94963 | [94963-vbs2.json](./94963-vbs2.json) |
@@ -1835,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Temple: Order of the Golden Dawn | 51919 | [51919-virtual-temple-order-of-the-golden-dawn.json](./51919-virtual-temple-order-of-the-golden-dawn.json) |
 | Virtual Ties Isekaijoucho Träumerei | 376085 | [376085-virtual-ties-isekaijoucho-traumerei.json](./376085-virtual-ties-isekaijoucho-traumerei.json) |
 | Virtual Towers Online | 112273 | [112273-virtual-towers-online.json](./112273-virtual-towers-online.json) |
+| Virtual Vacation Zone | 165167 | [165167-virtual-vacation-zone.json](./165167-virtual-vacation-zone.json) |
 | Virtual VCS | 270271 | [270271-virtual-vcs.json](./270271-virtual-vcs.json) |
 | Virtual Viking | 133216 | [133216-virtual-viking.json](./133216-virtual-viking.json) |
 | Virtual Villagers 2: The Lost Children | 14975 | [14975-virtual-villagers-2-the-lost-children.json](./14975-virtual-villagers-2-the-lost-children.json) |
