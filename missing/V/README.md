@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valknut | 74367 | [74367-valknut.json](./74367-valknut.json) |
 | Valkyr | 47152 | [47152-valkyr.json](./47152-valkyr.json) |
 | Valkyria Chronicles 2 | 14674 | [14674-valkyria-chronicles-2.json](./14674-valkyria-chronicles-2.json) |
+| Valkyria Chronicles 2: Additional Stickers DLC | 140351 | [140351-valkyria-chronicles-2-additional-stickers-dlc.json](./140351-valkyria-chronicles-2-additional-stickers-dlc.json) |
 | Valkyria Chronicles 2: Banquet of Ghosts | 140338 | [140338-valkyria-chronicles-2-banquet-of-ghosts.json](./140338-valkyria-chronicles-2-banquet-of-ghosts.json) |
 | Valkyria Chronicles 2: Battle at Doeffein EX | 140330 | [140330-valkyria-chronicles-2-battle-at-doeffein-ex.json](./140330-valkyria-chronicles-2-battle-at-doeffein-ex.json) |
 | Valkyria Chronicles 2: Battle at Lanseal EX | 140332 | [140332-valkyria-chronicles-2-battle-at-lanseal-ex.json](./140332-valkyria-chronicles-2-battle-at-lanseal-ex.json) |
@@ -286,9 +287,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyria Chronicles 2: Battle at Roendahl EX | 140329 | [140329-valkyria-chronicles-2-battle-at-roendahl-ex.json](./140329-valkyria-chronicles-2-battle-at-roendahl-ex.json) |
 | Valkyria Chronicles 2: Cerculean Catastrophe | 140339 | [140339-valkyria-chronicles-2-cerculean-catastrophe.json](./140339-valkyria-chronicles-2-cerculean-catastrophe.json) |
 | Valkyria Chronicles 2: DLC Pack 2 | 138838 | [138838-valkyria-chronicles-2-dlc-pack-2.json](./138838-valkyria-chronicles-2-dlc-pack-2.json) |
+| Valkyria Chronicles 2: Exercise vs. Class C | 140347 | [140347-valkyria-chronicles-2-exercise-vs-class-c.json](./140347-valkyria-chronicles-2-exercise-vs-class-c.json) |
+| Valkyria Chronicles 2: Exercise vs. Class D | 140348 | [140348-valkyria-chronicles-2-exercise-vs-class-d.json](./140348-valkyria-chronicles-2-exercise-vs-class-d.json) |
+| Valkyria Chronicles 2: Exercise vs. Class E | 140349 | [140349-valkyria-chronicles-2-exercise-vs-class-e.json](./140349-valkyria-chronicles-2-exercise-vs-class-e.json) |
+| Valkyria Chronicles 2: Exercise vs. Class F | 140350 | [140350-valkyria-chronicles-2-exercise-vs-class-f.json](./140350-valkyria-chronicles-2-exercise-vs-class-f.json) |
+| Valkyria Chronicles 2: Final Engineer Exam | 140345 | [140345-valkyria-chronicles-2-final-engineer-exam.json](./140345-valkyria-chronicles-2-final-engineer-exam.json) |
 | Valkyria Chronicles 2: Final Lancer Exam | 140343 | [140343-valkyria-chronicles-2-final-lancer-exam.json](./140343-valkyria-chronicles-2-final-lancer-exam.json) |
 | Valkyria Chronicles 2: Final Scout Exam | 140342 | [140342-valkyria-chronicles-2-final-scout-exam.json](./140342-valkyria-chronicles-2-final-scout-exam.json) |
 | Valkyria Chronicles 2: Final Tech Exam | 140344 | [140344-valkyria-chronicles-2-final-tech-exam.json](./140344-valkyria-chronicles-2-final-tech-exam.json) |
+| Valkyria Chronicles 2: Final Trooper Exam | 140346 | [140346-valkyria-chronicles-2-final-trooper-exam.json](./140346-valkyria-chronicles-2-final-trooper-exam.json) |
 | Valkyria Chronicles 2: Mellvere Crisis | 140340 | [140340-valkyria-chronicles-2-mellvere-crisis.json](./140340-valkyria-chronicles-2-mellvere-crisis.json) |
 | Valkyria Chronicles 2: Mine Offensive | 140341 | [140341-valkyria-chronicles-2-mine-offensive.json](./140341-valkyria-chronicles-2-mine-offensive.json) |
 | Valkyria Chronicles 2: Race Against Time | 140336 | [140336-valkyria-chronicles-2-race-against-time.json](./140336-valkyria-chronicles-2-race-against-time.json) |
@@ -1261,7 +1268,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victim.exe | 335344 | [335344-victim-exe.json](./335344-victim-exe.json) |
 | Victim's Tongue | 397765 | [397765-victims-tongue.json](./397765-victims-tongue.json) |
 | Victor Banana | 171478 | [171478-victor-banana.json](./171478-victor-banana.json) |
-| Victor Vran | 9180 | [9180-victor-vran.json](./9180-victor-vran.json) |
 | Victor Vran: Cauldron of Chaos Dungeon | 171348 | [171348-victor-vran-cauldron-of-chaos-dungeon.json](./171348-victor-vran-cauldron-of-chaos-dungeon.json) |
 | Victor Vran: Fractured Worlds | 51790 | [51790-victor-vran-fractured-worlds.json](./51790-victor-vran-fractured-worlds.json) |
 | Victor Vran: Motörhead -Through the Ages | 51787 | [51787-victor-vran-motorhead-through-the-ages.json](./51787-victor-vran-motorhead-through-the-ages.json) |
