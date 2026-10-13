@@ -14364,14 +14364,64 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Air Strike MP098 | 160874 | [160874-tiger-tank-59-i-air-strike-mp098.json](./160874-tiger-tank-59-i-air-strike-mp098.json) |
 | Tiger Tank 59 I: Air Strike MP099 | 160862 | [160862-tiger-tank-59-i-air-strike-mp099.json](./160862-tiger-tank-59-i-air-strike-mp099.json) |
 | Tiger Tank 59 I: Air Strike MP100 | 160880 | [160880-tiger-tank-59-i-air-strike-mp100.json](./160880-tiger-tank-59-i-air-strike-mp100.json) |
+| Tiger Tank 59 I: Battleship MP001 | 160617 | [160617-tiger-tank-59-i-battleship-mp001.json](./160617-tiger-tank-59-i-battleship-mp001.json) |
+| Tiger Tank 59 I: Battleship MP002 | 160570 | [160570-tiger-tank-59-i-battleship-mp002.json](./160570-tiger-tank-59-i-battleship-mp002.json) |
 | Tiger Tank 59 I: Battleship MP003 | 160368 | [160368-tiger-tank-59-i-battleship-mp003.json](./160368-tiger-tank-59-i-battleship-mp003.json) |
+| Tiger Tank 59 I: Battleship MP005 | 160610 | [160610-tiger-tank-59-i-battleship-mp005.json](./160610-tiger-tank-59-i-battleship-mp005.json) |
+| Tiger Tank 59 I: Battleship MP007 | 160616 | [160616-tiger-tank-59-i-battleship-mp007.json](./160616-tiger-tank-59-i-battleship-mp007.json) |
 | Tiger Tank 59 I: Battleship MP008 | 160317 | [160317-tiger-tank-59-i-battleship-mp008.json](./160317-tiger-tank-59-i-battleship-mp008.json) |
+| Tiger Tank 59 I: Battleship MP009 | 160615 | [160615-tiger-tank-59-i-battleship-mp009.json](./160615-tiger-tank-59-i-battleship-mp009.json) |
+| Tiger Tank 59 I: Battleship MP010 | 160599 | [160599-tiger-tank-59-i-battleship-mp010.json](./160599-tiger-tank-59-i-battleship-mp010.json) |
+| Tiger Tank 59 I: Battleship MP011 | 160594 | [160594-tiger-tank-59-i-battleship-mp011.json](./160594-tiger-tank-59-i-battleship-mp011.json) |
+| Tiger Tank 59 I: Battleship MP012 | 160569 | [160569-tiger-tank-59-i-battleship-mp012.json](./160569-tiger-tank-59-i-battleship-mp012.json) |
+| Tiger Tank 59 I: Battleship MP013 | 160600 | [160600-tiger-tank-59-i-battleship-mp013.json](./160600-tiger-tank-59-i-battleship-mp013.json) |
+| Tiger Tank 59 I: Battleship MP015 | 160607 | [160607-tiger-tank-59-i-battleship-mp015.json](./160607-tiger-tank-59-i-battleship-mp015.json) |
 | Tiger Tank 59 I: Battleship MP016 | 160637 | [160637-tiger-tank-59-i-battleship-mp016.json](./160637-tiger-tank-59-i-battleship-mp016.json) |
+| Tiger Tank 59 I: Battleship MP018 | 160614 | [160614-tiger-tank-59-i-battleship-mp018.json](./160614-tiger-tank-59-i-battleship-mp018.json) |
+| Tiger Tank 59 I: Battleship MP019 | 160572 | [160572-tiger-tank-59-i-battleship-mp019.json](./160572-tiger-tank-59-i-battleship-mp019.json) |
 | Tiger Tank 59 I: Battleship MP020 | 160319 | [160319-tiger-tank-59-i-battleship-mp020.json](./160319-tiger-tank-59-i-battleship-mp020.json) |
+| Tiger Tank 59 I: Battleship MP023 | 160611 | [160611-tiger-tank-59-i-battleship-mp023.json](./160611-tiger-tank-59-i-battleship-mp023.json) |
+| Tiger Tank 59 I: Battleship MP024 | 160603 | [160603-tiger-tank-59-i-battleship-mp024.json](./160603-tiger-tank-59-i-battleship-mp024.json) |
+| Tiger Tank 59 I: Battleship MP025 | 160584 | [160584-tiger-tank-59-i-battleship-mp025.json](./160584-tiger-tank-59-i-battleship-mp025.json) |
+| Tiger Tank 59 I: Battleship MP027 | 160601 | [160601-tiger-tank-59-i-battleship-mp027.json](./160601-tiger-tank-59-i-battleship-mp027.json) |
 | Tiger Tank 59 I: Battleship MP030 | 160346 | [160346-tiger-tank-59-i-battleship-mp030.json](./160346-tiger-tank-59-i-battleship-mp030.json) |
+| Tiger Tank 59 I: Battleship MP032 | 160588 | [160588-tiger-tank-59-i-battleship-mp032.json](./160588-tiger-tank-59-i-battleship-mp032.json) |
+| Tiger Tank 59 I: Battleship MP035 | 160597 | [160597-tiger-tank-59-i-battleship-mp035.json](./160597-tiger-tank-59-i-battleship-mp035.json) |
+| Tiger Tank 59 I: Battleship MP036 | 160577 | [160577-tiger-tank-59-i-battleship-mp036.json](./160577-tiger-tank-59-i-battleship-mp036.json) |
 | Tiger Tank 59 I: Battleship MP037 | 160360 | [160360-tiger-tank-59-i-battleship-mp037.json](./160360-tiger-tank-59-i-battleship-mp037.json) |
+| Tiger Tank 59 I: Battleship MP038 | 160587 | [160587-tiger-tank-59-i-battleship-mp038.json](./160587-tiger-tank-59-i-battleship-mp038.json) |
+| Tiger Tank 59 I: Battleship MP042 | 160573 | [160573-tiger-tank-59-i-battleship-mp042.json](./160573-tiger-tank-59-i-battleship-mp042.json) |
+| Tiger Tank 59 I: Battleship MP043 | 160606 | [160606-tiger-tank-59-i-battleship-mp043.json](./160606-tiger-tank-59-i-battleship-mp043.json) |
+| Tiger Tank 59 I: Battleship MP047 | 160590 | [160590-tiger-tank-59-i-battleship-mp047.json](./160590-tiger-tank-59-i-battleship-mp047.json) |
+| Tiger Tank 59 I: Battleship MP048 | 160595 | [160595-tiger-tank-59-i-battleship-mp048.json](./160595-tiger-tank-59-i-battleship-mp048.json) |
+| Tiger Tank 59 I: Battleship MP049 | 160612 | [160612-tiger-tank-59-i-battleship-mp049.json](./160612-tiger-tank-59-i-battleship-mp049.json) |
+| Tiger Tank 59 I: Battleship MP053 | 160585 | [160585-tiger-tank-59-i-battleship-mp053.json](./160585-tiger-tank-59-i-battleship-mp053.json) |
+| Tiger Tank 59 I: Battleship MP054 | 160575 | [160575-tiger-tank-59-i-battleship-mp054.json](./160575-tiger-tank-59-i-battleship-mp054.json) |
+| Tiger Tank 59 I: Battleship MP055 | 160592 | [160592-tiger-tank-59-i-battleship-mp055.json](./160592-tiger-tank-59-i-battleship-mp055.json) |
+| Tiger Tank 59 I: Battleship MP056 | 160605 | [160605-tiger-tank-59-i-battleship-mp056.json](./160605-tiger-tank-59-i-battleship-mp056.json) |
+| Tiger Tank 59 I: Battleship MP057 | 160613 | [160613-tiger-tank-59-i-battleship-mp057.json](./160613-tiger-tank-59-i-battleship-mp057.json) |
 | Tiger Tank 59 I: Battleship MP058 | 160323 | [160323-tiger-tank-59-i-battleship-mp058.json](./160323-tiger-tank-59-i-battleship-mp058.json) |
+| Tiger Tank 59 I: Battleship MP060 | 160582 | [160582-tiger-tank-59-i-battleship-mp060.json](./160582-tiger-tank-59-i-battleship-mp060.json) |
 | Tiger Tank 59 I: Battleship MP061 | 161150 | [161150-tiger-tank-59-i-battleship-mp061.json](./161150-tiger-tank-59-i-battleship-mp061.json) |
+| Tiger Tank 59 I: Battleship MP062 | 160602 | [160602-tiger-tank-59-i-battleship-mp062.json](./160602-tiger-tank-59-i-battleship-mp062.json) |
+| Tiger Tank 59 I: Battleship MP070 | 160609 | [160609-tiger-tank-59-i-battleship-mp070.json](./160609-tiger-tank-59-i-battleship-mp070.json) |
+| Tiger Tank 59 I: Battleship MP071 | 160580 | [160580-tiger-tank-59-i-battleship-mp071.json](./160580-tiger-tank-59-i-battleship-mp071.json) |
+| Tiger Tank 59 I: Battleship MP072 | 160576 | [160576-tiger-tank-59-i-battleship-mp072.json](./160576-tiger-tank-59-i-battleship-mp072.json) |
+| Tiger Tank 59 I: Battleship MP078 | 160589 | [160589-tiger-tank-59-i-battleship-mp078.json](./160589-tiger-tank-59-i-battleship-mp078.json) |
+| Tiger Tank 59 I: Battleship MP080 | 160579 | [160579-tiger-tank-59-i-battleship-mp080.json](./160579-tiger-tank-59-i-battleship-mp080.json) |
+| Tiger Tank 59 I: Battleship MP081 | 160578 | [160578-tiger-tank-59-i-battleship-mp081.json](./160578-tiger-tank-59-i-battleship-mp081.json) |
+| Tiger Tank 59 I: Battleship MP083 | 160583 | [160583-tiger-tank-59-i-battleship-mp083.json](./160583-tiger-tank-59-i-battleship-mp083.json) |
+| Tiger Tank 59 I: Battleship MP084 | 160604 | [160604-tiger-tank-59-i-battleship-mp084.json](./160604-tiger-tank-59-i-battleship-mp084.json) |
+| Tiger Tank 59 I: Battleship MP089 | 160591 | [160591-tiger-tank-59-i-battleship-mp089.json](./160591-tiger-tank-59-i-battleship-mp089.json) |
+| Tiger Tank 59 I: Battleship MP091 | 160571 | [160571-tiger-tank-59-i-battleship-mp091.json](./160571-tiger-tank-59-i-battleship-mp091.json) |
+| Tiger Tank 59 I: Battleship MP093 | 160581 | [160581-tiger-tank-59-i-battleship-mp093.json](./160581-tiger-tank-59-i-battleship-mp093.json) |
+| Tiger Tank 59 I: Battleship MP094 | 160608 | [160608-tiger-tank-59-i-battleship-mp094.json](./160608-tiger-tank-59-i-battleship-mp094.json) |
+| Tiger Tank 59 I: Battleship MP095 | 160593 | [160593-tiger-tank-59-i-battleship-mp095.json](./160593-tiger-tank-59-i-battleship-mp095.json) |
+| Tiger Tank 59 I: Battleship MP096 | 160596 | [160596-tiger-tank-59-i-battleship-mp096.json](./160596-tiger-tank-59-i-battleship-mp096.json) |
+| Tiger Tank 59 I: Battleship MP097 | 160598 | [160598-tiger-tank-59-i-battleship-mp097.json](./160598-tiger-tank-59-i-battleship-mp097.json) |
+| Tiger Tank 59 I: Battleship MP098 | 160586 | [160586-tiger-tank-59-i-battleship-mp098.json](./160586-tiger-tank-59-i-battleship-mp098.json) |
+| Tiger Tank 59 I: Battleship MP099 | 160618 | [160618-tiger-tank-59-i-battleship-mp099.json](./160618-tiger-tank-59-i-battleship-mp099.json) |
+| Tiger Tank 59 I: Battleship MP100 | 160574 | [160574-tiger-tank-59-i-battleship-mp100.json](./160574-tiger-tank-59-i-battleship-mp100.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP001 | 160345 | [160345-tiger-tank-59-i-black-hill-fortress-mp001.json](./160345-tiger-tank-59-i-black-hill-fortress-mp001.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP017 | 160304 | [160304-tiger-tank-59-i-black-hill-fortress-mp017.json](./160304-tiger-tank-59-i-black-hill-fortress-mp017.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP022 | 160353 | [160353-tiger-tank-59-i-black-hill-fortress-mp022.json](./160353-tiger-tank-59-i-black-hill-fortress-mp022.json) |
