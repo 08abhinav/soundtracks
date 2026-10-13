@@ -1872,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindred Spirits on the Roof: Full Chorus | 124804 | [124804-kindred-spirits-on-the-roof-full-chorus.json](./124804-kindred-spirits-on-the-roof-full-chorus.json) |
 | Kindred Vale | 300965 | [300965-kindred-vale.json](./300965-kindred-vale.json) |
 | Kindred: High Tide | 373210 | [373210-kindred-high-tide.json](./373210-kindred-high-tide.json) |
+| Kinduo | 152689 | [152689-kinduo.json](./152689-kinduo.json) |
 | Kinduo 2: Frostbite | 263043 | [263043-kinduo-2-frostbite.json](./263043-kinduo-2-frostbite.json) |
 | Kindvixen's | 296618 | [296618-kindvixens.json](./296618-kindvixens.json) |
 | Kine | 95225 | [95225-kine.json](./95225-kine.json) |
@@ -2667,6 +2668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kittenrock Cats - A Hidden Object Game | 255973 | [255973-kittenrock-cats-a-hidden-object-game.json](./255973-kittenrock-cats-a-hidden-object-game.json) |
 | Kittenrock Cats - A Hidden Object Game | 287657 | [287657-kittenrock-cats-a-hidden-object-game.json](./287657-kittenrock-cats-a-hidden-object-game.json) |
 | Kittens and Cacti | 71236 | [71236-kittens-and-cacti.json](./71236-kittens-and-cacti.json) |
+| Kittens and Yarn | 152655 | [152655-kittens-and-yarn.json](./152655-kittens-and-yarn.json) |
 | Kittens in Space | 224700 | [224700-kittens-in-space.json](./224700-kittens-in-space.json) |
 | Kittens of Fear | 155664 | [155664-kittens-of-fear.json](./155664-kittens-of-fear.json) |
 | Kittens with Cannons | 179122 | [179122-kittens-with-cannons.json](./179122-kittens-with-cannons.json) |
@@ -3187,6 +3189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kobold: Chapter I | 112055 | [112055-kobold-chapter-i.json](./112055-kobold-chapter-i.json) |
 | KoboldKare | 344381 | [344381-koboldkare.json](./344381-koboldkare.json) |
 | KoboldKroniken | 258939 | [258939-koboldkroniken.json](./258939-koboldkroniken.json) |
+| Koboo: The Tree Spirit | 152679 | [152679-koboo-the-tree-spirit.json](./152679-koboo-the-tree-spirit.json) |
 | Koboomballs | 112845 | [112845-koboomballs.json](./112845-koboomballs.json) |
 | Kobyashi Naru | 52204 | [52204-kobyashi-naru.json](./52204-kobyashi-naru.json) |
 | KochiKame: Ryo-san's Billion-yen Beat | 402892 | [402892-kochikame-ryo-sans-billion-yen-beat.json](./402892-kochikame-ryo-sans-billion-yen-beat.json) |
