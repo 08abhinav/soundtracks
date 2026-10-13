@@ -1786,6 +1786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uno: Winter Theme DLC | 153165 | [153165-uno-winter-theme-dlc.json](./153165-uno-winter-theme-dlc.json) |
 | UNO! Mobile | 142109 | [142109-uno-mobile.json](./142109-uno-mobile.json) |
 | Uno/Skip-Bo | 78905 | [78905-uno-skip-bo.json](./78905-uno-skip-bo.json) |
+| Unoccupied | 142191 | [142191-unoccupied.json](./142191-unoccupied.json) |
 | Unofficial Pokemon Trading Card Game | 363944 | [363944-unofficial-pokemon-trading-card-game.json](./363944-unofficial-pokemon-trading-card-game.json) |
 | Unoklive vs. Zuck | 182459 | [182459-unoklive-vs-zuck.json](./182459-unoklive-vs-zuck.json) |
 | Unolingo | 288195 | [288195-unolingo.json](./288195-unolingo.json) |
@@ -1947,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsupervised | 247658 | [247658-unsupervised.json](./247658-unsupervised.json) |
 | Unsustainable: a god job | 180842 | [180842-unsustainable-a-god-job.json](./180842-unsustainable-a-god-job.json) |
 | Unswappers | 367289 | [367289-unswappers.json](./367289-unswappers.json) |
+| Untale: King of Revinia | 140876 | [140876-untale-king-of-revinia.json](./140876-untale-king-of-revinia.json) |
 | Untameable | 313800 | [313800-untameable.json](./313800-untameable.json) |
 | Untamed | 280233 | [280233-untamed.json](./280233-untamed.json) |
 | Untamed Isle | 395197 | [395197-untamed-isle.json](./395197-untamed-isle.json) |
