@@ -1922,6 +1922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schacht | 31775 | [31775-schacht.json](./31775-schacht.json) |
 | Schäferstündchen Adventures | 78920 | [78920-schaferstundchen-adventures.json](./78920-schaferstundchen-adventures.json) |
 | Schar: Blue Shield Alliance | 35941 | [35941-schar-blue-shield-alliance.json](./35941-schar-blue-shield-alliance.json) |
+| Schastye | 158408 | [158408-schastye.json](./158408-schastye.json) |
 | SchattenJagd | 98954 | [98954-schattenjagd.json](./98954-schattenjagd.json) |
 | Schattenjäger | 380128 | [380128-schattenjager.json](./380128-schattenjager.json) |
 | Schattenspiel | 103873 | [103873-schattenspiel.json](./103873-schattenspiel.json) |
@@ -3884,6 +3885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Settle | 397075 | [397075-settle.json](./397075-settle.json) |
 | Settle and Battle: New Empires | 324295 | [324295-settle-and-battle-new-empires.json](./324295-settle-and-battle-new-empires.json) |
 | Settled | 33480 | [33480-settled.json](./33480-settled.json) |
+| Settlement Survival | 158413 | [158413-settlement-survival.json](./158413-settlement-survival.json) |
 | Settlement: Colossus | 53589 | [53589-settlement-colossus.json](./53589-settlement-colossus.json) |
 | Settlements | 81671 | [81671-settlements.json](./81671-settlements.json) |
 | Settlements Rising | 245838 | [245838-settlements-rising.json](./245838-settlements-rising.json) |
