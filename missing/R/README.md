@@ -3904,6 +3904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Kart | 234205 | [234205-retro-kart.json](./234205-retro-kart.json) |
 | Retro League Racing | 296530 | [296530-retro-league-racing.json](./296530-retro-league-racing.json) |
 | Retro Life | 239785 | [239785-retro-life.json](./239785-retro-life.json) |
+| Retro Machina: Nucleonics | 159569 | [159569-retro-machina-nucleonics.json](./159569-retro-machina-nucleonics.json) |
 | Retro Meadow | 362759 | [362759-retro-meadow.json](./362759-retro-meadow.json) |
 | Retro Miami | 76505 | [76505-retro-miami.json](./76505-retro-miami.json) |
 | Retro Mystery Club Vol.2: The Beppu Case | 289264 | [289264-retro-mystery-club-vol-2-the-beppu-case.json](./289264-retro-mystery-club-vol-2-the-beppu-case.json) |
@@ -4857,6 +4858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riftcast | 311635 | [311635-riftcast.json](./311635-riftcast.json) |
 | Rifted Worlds | 280439 | [280439-rifted-worlds.json](./280439-rifted-worlds.json) |
 | Riftfall | 411762 | [411762-riftfall.json](./411762-riftfall.json) |
+| Riftnote | 158920 | [158920-riftnote.json](./158920-riftnote.json) |
 | Riftopia | 346234 | [346234-riftopia.json](./346234-riftopia.json) |
 | Riftshot | 417536 | [417536-riftshot.json](./417536-riftshot.json) |
 | RiftStar Raiders | 27103 | [27103-riftstar-raiders.json](./27103-riftstar-raiders.json) |
@@ -5389,6 +5391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River King: Mystic Valley | 20520 | [20520-river-king-mystic-valley.json](./20520-river-king-mystic-valley.json) |
 | River Legends | 174206 | [174206-river-legends.json](./174206-river-legends.json) |
 | River Legends: A Fly Fishing Adventure | 120706 | [120706-river-legends-a-fly-fishing-adventure.json](./120706-river-legends-a-fly-fishing-adventure.json) |
+| River Master | 158943 | [158943-river-master.json](./158943-river-master.json) |
 | River Patrol | 18478 | [18478-river-patrol.json](./18478-river-patrol.json) |
 | River Raid 3D | 204070 | [204070-river-raid-3d.json](./204070-river-raid-3d.json) |
 | River Rescue | 23897 | [23897-river-rescue.json](./23897-river-rescue.json) |
@@ -7123,6 +7126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Root Of Evil: The Tailor | 30705 | [30705-root-of-evil-the-tailor.json](./30705-root-of-evil-the-tailor.json) |
 | Root Of Win | 258186 | [258186-root-of-win.json](./258186-root-of-win.json) |
 | Root of Wisdom | 177400 | [177400-root-of-wisdom.json](./177400-root-of-wisdom.json) |
+| Root Out | 159550 | [159550-root-out.json](./159550-root-out.json) |
 | Root: Exiles & Partisans & Vagabonds | 195233 | [195233-root-exiles-and-partisans-and-vagabonds.json](./195233-root-exiles-and-partisans-and-vagabonds.json) |
 | Root: Hirelings & Landmarks | 385182 | [385182-root-hirelings-and-landmarks.json](./385182-root-hirelings-and-landmarks.json) |
 | Root: The Marauder Expansion | 364037 | [364037-root-the-marauder-expansion.json](./364037-root-the-marauder-expansion.json) |
@@ -7377,6 +7381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Routine | 8948 | [8948-routine.json](./8948-routine.json) |
 | Routine Checkup | 245357 | [245357-routine-checkup.json](./245357-routine-checkup.json) |
 | Routine Feat | 125052 | [125052-routine-feat.json](./125052-routine-feat.json) |
+| Routine Racers | 158926 | [158926-routine-racers.json](./158926-routine-racers.json) |
 | Routz | 125875 | [125875-routz.json](./125875-routz.json) |
 | Rouvy | 319175 | [319175-rouvy.json](./319175-rouvy.json) |
 | Rova | 297209 | [297209-rova.json](./297209-rova.json) |
@@ -7440,6 +7445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roy's Bizarre Adventure | 234548 | [234548-roys-bizarre-adventure.json](./234548-roys-bizarre-adventure.json) |
 | Roy's Rugs | 199385 | [199385-roys-rugs.json](./199385-roys-rugs.json) |
 | Royal Alchemist | 109734 | [109734-royal-alchemist.json](./109734-royal-alchemist.json) |
+| Royal Battleground IO | 158959 | [158959-royal-battleground-io.json](./158959-royal-battleground-io.json) |
 | Royal Birkdale Championship Golf | 93341 | [93341-royal-birkdale-championship-golf.json](./93341-royal-birkdale-championship-golf.json) |
 | Royal Blade | 95879 | [95879-royal-blade.json](./95879-royal-blade.json) |
 | Royal Block | 269309 | [269309-royal-block.json](./269309-royal-block.json) |
