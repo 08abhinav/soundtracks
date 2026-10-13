@@ -2532,6 +2532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadlink | 204239 | [204239-deadlink.json](./204239-deadlink.json) |
 | DeadLock | 166073 | [166073-deadlock.json](./166073-deadlock.json) |
 | Deadlock: Planetary Conquest | 10171 | [10171-deadlock-planetary-conquest.json](./10171-deadlock-planetary-conquest.json) |
+| Deadlocked | 177277 | [177277-deadlocked.json](./177277-deadlocked.json) |
 | Deadlocked | 197796 | [197796-deadlocked.json](./197796-deadlocked.json) |
 | Deadlocked | 274514 | [274514-deadlocked.json](./274514-deadlocked.json) |
 | Deadly Animal Duel | 61893 | [61893-deadly-animal-duel.json](./61893-deadly-animal-duel.json) |
@@ -5818,6 +5819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Runner | 93725 | [93725-digital-runner.json](./93725-digital-runner.json) |
 | Digital Spacecade | 28181 | [28181-digital-spacecade.json](./28181-digital-spacecade.json) |
 | Digital Survivor | 411728 | [411728-digital-survivor.json](./411728-digital-survivor.json) |
+| Digital Tamers: ReBorn | 177283 | [177283-digital-tamers-reborn.json](./177283-digital-tamers-reborn.json) |
 | Digital Virus | 236008 | [236008-digital-virus.json](./236008-digital-virus.json) |
 | Digital Zoo Gallery | 154465 | [154465-digital-zoo-gallery.json](./154465-digital-zoo-gallery.json) |
 | DigitalDNA Zombies | 83197 | [83197-digitaldna-zombies.json](./83197-digitaldna-zombies.json) |
@@ -7143,6 +7145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Something | 192752 | [192752-do-something.json](./192752-do-something.json) |
 | Do the Cat | 326267 | [326267-do-the-cat.json](./326267-do-the-cat.json) |
 | Do They Know | 399256 | [399256-do-they-know.json](./399256-do-they-know.json) |
+| Do Unto Others | 177252 | [177252-do-unto-others.json](./177252-do-unto-others.json) |
 | Do Up | 365832 | [365832-do-up.json](./365832-do-up.json) |
 | Do Us Part | 276106 | [276106-do-us-part.json](./276106-do-us-part.json) |
 | Do You Even Brick?! | 401548 | [401548-do-you-even-brick.json](./401548-do-you-even-brick.json) |
@@ -7886,6 +7889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Look At Me | 184952 | [184952-dont-look-at-me.json](./184952-dont-look-at-me.json) |
 | Don't Look Away | 221188 | [221188-dont-look-away.json](./221188-dont-look-away.json) |
 | Don't Look Away 2 | 359078 | [359078-dont-look-away-2.json](./359078-dont-look-away-2.json) |
+| Don't Look Away from the Colors | 177257 | [177257-dont-look-away-from-the-colors.json](./177257-dont-look-away-from-the-colors.json) |
 | Don't Look Back | 343785 | [343785-dont-look-back.json](./343785-dont-look-back.json) |
 | Don't Look Back! | 317395 | [317395-dont-look-back.json](./317395-dont-look-back.json) |
 | Don't Look Down | 107877 | [107877-dont-look-down.json](./107877-dont-look-down.json) |
