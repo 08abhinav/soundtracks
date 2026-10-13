@@ -6821,7 +6821,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guilt and the Shadow | 36145 | [36145-the-guilt-and-the-shadow.json](./36145-the-guilt-and-the-shadow.json) |
 | The Gun Game | 235247 | [235247-the-gun-game.json](./235247-the-gun-game.json) |
 | The Gun is Good | 254024 | [254024-the-gun-is-good.json](./254024-the-gun-is-good.json) |
-| The Gunk | 136000 | [136000-the-gunk.json](./136000-the-gunk.json) |
 | The Gurgling | 381594 | [381594-the-gurgling.json](./381594-the-gurgling.json) |
 | The Gurion Mountains | 148915 | [148915-the-gurion-mountains.json](./148915-the-gurion-mountains.json) |
 | The Gutter | 415997 | [415997-the-gutter.json](./415997-the-gutter.json) |
