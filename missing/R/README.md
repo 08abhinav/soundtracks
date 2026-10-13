@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Aces | 5426 | [5426-racing-aces.json](./5426-racing-aces.json) |
 | Racing angle | 123469 | [123469-racing-angle.json](./123469-racing-angle.json) |
 | Racing Beat | 40393 | [40393-racing-beat.json](./40393-racing-beat.json) |
+| Racing Bros | 135604 | [135604-racing-bros.json](./135604-racing-bros.json) |
 | Racing Car | 346068 | [346068-racing-car.json](./346068-racing-car.json) |
 | Racing Car Chaos: Extreme Stunt Showdown | 308503 | [308503-racing-car-chaos-extreme-stunt-showdown.json](./308503-racing-car-chaos-extreme-stunt-showdown.json) |
 | Racing Car Forge | 193840 | [193840-racing-car-forge.json](./193840-racing-car-forge.json) |
@@ -1340,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rasetsu 2 | 374684 | [374684-rasetsu-2.json](./374684-rasetsu-2.json) |
 | Rashlander | 116832 | [116832-rashlander.json](./116832-rashlander.json) |
 | Rashness | 185390 | [185390-rashness.json](./185390-rashness.json) |
+| Rashomon | 135602 | [135602-rashomon.json](./135602-rashomon.json) |
 | Rashomon of Shinjuku | 225314 | [225314-rashomon-of-shinjuku.json](./225314-rashomon-of-shinjuku.json) |
 | Raskopnik: The Trench Warrior | 186766 | [186766-raskopnik-the-trench-warrior.json](./186766-raskopnik-the-trench-warrior.json) |
 | Rasmus Klump i Pingonesien | 118914 | [118914-rasmus-klump-i-pingonesien.json](./118914-rasmus-klump-i-pingonesien.json) |
@@ -5645,6 +5647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roar | 179078 | [179078-roar.json](./179078-roar.json) |
 | Roar of Revenge | 167595 | [167595-roar-of-revenge.json](./167595-roar-of-revenge.json) |
 | Roar Rampage | 374282 | [374282-roar-rampage.json](./374282-roar-rampage.json) |
+| Roaring Streets | 136136 | [136136-roaring-streets.json](./136136-roaring-streets.json) |
 | Roaring Streets! | 181293 | [181293-roaring-streets.json](./181293-roaring-streets.json) |
 | Roaring Twenties Solitaire | 213935 | [213935-roaring-twenties-solitaire.json](./213935-roaring-twenties-solitaire.json) |
 | Roark Games: Congressman | 143957 | [143957-roark-games-congressman.json](./143957-roark-games-congressman.json) |
