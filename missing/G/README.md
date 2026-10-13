@@ -1400,6 +1400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gat Rat | 348830 | [348830-gat-rat.json](./348830-gat-rat.json) |
 | Gatari: Sand on Teeth | 78584 | [78584-gatari-sand-on-teeth.json](./78584-gatari-sand-on-teeth.json) |
 | Gatcha Gear | 285115 | [285115-gatcha-gear.json](./285115-gatcha-gear.json) |
+| Gate | 168932 | [168932-gate.json](./168932-gate.json) |
 | Gate | 170353 | [170353-gate.json](./170353-gate.json) |
 | Gate 88 | 77982 | [77982-gate-88.json](./77982-gate-88.json) |
 | Gate Builders | 197414 | [197414-gate-builders.json](./197414-gate-builders.json) |
