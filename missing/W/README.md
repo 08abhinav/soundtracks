@@ -4502,6 +4502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WizzBall | 81221 | [81221-wizzball.json](./81221-wizzball.json) |
 | Wizzerd Quest 2 | 296455 | [296455-wizzerd-quest-2.json](./296455-wizzerd-quest-2.json) |
 | Wizzo PopOut | 348824 | [348824-wizzo-popout.json](./348824-wizzo-popout.json) |
+| WKSP Rumble | 156880 | [156880-wksp-rumble.json](./156880-wksp-rumble.json) |
 | Włatcy Móch Wrzód na Dópie | 94964 | [94964-w-atcy-moch-wrzod-na-dopie.json](./94964-w-atcy-moch-wrzod-na-dopie.json) |
 | Wloku | 307617 | [307617-wloku.json](./307617-wloku.json) |
 | WN RPG Hoshi no Kuzure | 294242 | [294242-wn-rpg-hoshi-no-kuzure.json](./294242-wn-rpg-hoshi-no-kuzure.json) |
