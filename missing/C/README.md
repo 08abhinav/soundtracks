@@ -1183,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Superhero Flying Robot Rescue | 101981 | [101981-captain-superhero-flying-robot-rescue.json](./101981-captain-superhero-flying-robot-rescue.json) |
 | Captain Temporium | 174579 | [174579-captain-temporium.json](./174579-captain-temporium.json) |
 | Captain Toad Treasure Tracker | 162427 | [162427-captain-toad-treasure-tracker.json](./162427-captain-toad-treasure-tracker.json) |
+| Captain Toad Treasure Tracker for SNES II | 162624 | [162624-captain-toad-treasure-tracker-for-snes-ii.json](./162624-captain-toad-treasure-tracker-for-snes-ii.json) |
 | Captain Toad: Prism Star Quest | 358338 | [358338-captain-toad-prism-star-quest.json](./358338-captain-toad-prism-star-quest.json) |
 | Captain Toad: Treasure Tracker - Special Edition | 51139 | [51139-captain-toad-treasure-tracker-special-edition.json](./51139-captain-toad-treasure-tracker-special-edition.json) |
 | Captain Toad: Treasure Tracker - Special Episode | 132225 | [132225-captain-toad-treasure-tracker-special-episode.json](./132225-captain-toad-treasure-tracker-special-episode.json) |
@@ -3016,6 +3017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Hikers | 291869 | [291869-cave-hikers.json](./291869-cave-hikers.json) |
 | Cave Hopper | 139468 | [139468-cave-hopper.json](./139468-cave-hopper.json) |
 | Cave Looters | 410829 | [410829-cave-looters.json](./410829-cave-looters.json) |
+| Cave Nightmare | 161620 | [161620-cave-nightmare.json](./161620-cave-nightmare.json) |
 | Cave Oasis at Shylake | 380423 | [380423-cave-oasis-at-shylake.json](./380423-cave-oasis-at-shylake.json) |
 | Cave of Avarice | 166680 | [166680-cave-of-avarice.json](./166680-cave-of-avarice.json) |
 | Cave of Cards | 339995 | [339995-cave-of-cards.json](./339995-cave-of-cards.json) |
@@ -7744,6 +7746,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Book - Halloween | 87110 | [87110-coloring-book-halloween.json](./87110-coloring-book-halloween.json) |
 | Coloring Book - Travel | 89544 | [89544-coloring-book-travel.json](./89544-coloring-book-travel.json) |
 | Coloring Book - Yummies | 89528 | [89528-coloring-book-yummies.json](./89528-coloring-book-yummies.json) |
+| Coloring Book for Kids | 162618 | [162618-coloring-book-for-kids.json](./162618-coloring-book-for-kids.json) |
+| Coloring Book for Kids: Full Version | 162615 | [162615-coloring-book-for-kids-full-version.json](./162615-coloring-book-for-kids-full-version.json) |
 | Coloring Book for Ladybug & Cat Noir | 96011 | [96011-coloring-book-for-ladybug-and-cat-noir.json](./96011-coloring-book-for-ladybug-and-cat-noir.json) |
 | Coloring Book Series: Aquarium | 283280 | [283280-coloring-book-series-aquarium.json](./283280-coloring-book-series-aquarium.json) |
 | Coloring Book: Adventure Bundle - 90 Drawings | 362377 | [362377-coloring-book-adventure-bundle-90-drawings.json](./362377-coloring-book-adventure-bundle-90-drawings.json) |
@@ -7759,6 +7763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Game | 114998 | [114998-coloring-game.json](./114998-coloring-game.json) |
 | Coloring Game 10k | 362358 | [362358-coloring-game-10k.json](./362358-coloring-game-10k.json) |
 | Coloring Game 2 | 130094 | [130094-coloring-game-2.json](./130094-coloring-game-2.json) |
+| Coloring Game 2: Deluxe Edition | 162617 | [162617-coloring-game-2-deluxe-edition.json](./162617-coloring-game-2-deluxe-edition.json) |
 | Coloring Game 3: Art Museum | 252759 | [252759-coloring-game-3-art-museum.json](./252759-coloring-game-3-art-museum.json) |
 | Coloring Game 3: Season Pass | 252761 | [252761-coloring-game-3-season-pass.json](./252761-coloring-game-3-season-pass.json) |
 | Coloring Game 3: Video Game No. 1 | 252760 | [252760-coloring-game-3-video-game-no-1.json](./252760-coloring-game-3-video-game-no-1.json) |
@@ -7807,9 +7812,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Games for Families+ | 415287 | [415287-coloring-games-for-families.json](./415287-coloring-games-for-families.json) |
 | Coloring Pages: Lumberhill Tales | 316917 | [316917-coloring-pages-lumberhill-tales.json](./316917-coloring-pages-lumberhill-tales.json) |
 | Coloring Pixel: Fantasy Characters | 173203 | [173203-coloring-pixel-fantasy-characters.json](./173203-coloring-pixel-fantasy-characters.json) |
+| Coloring Pixels: Advent 2 Pack | 162600 | [162600-coloring-pixels-advent-2-pack.json](./162600-coloring-pixels-advent-2-pack.json) |
 | Coloring Pixels: Advent 3 Pack | 225002 | [225002-coloring-pixels-advent-3-pack.json](./225002-coloring-pixels-advent-3-pack.json) |
 | Coloring Pixels: Advent 4 Pack | 227467 | [227467-coloring-pixels-advent-4-pack.json](./227467-coloring-pixels-advent-4-pack.json) |
 | Coloring Pixels: Advent 6 Pack | 351619 | [351619-coloring-pixels-advent-6-pack.json](./351619-coloring-pixels-advent-6-pack.json) |
+| Coloring Pixels: Advent Pack | 162611 | [162611-coloring-pixels-advent-pack.json](./162611-coloring-pixels-advent-pack.json) |
+| Coloring Pixels: Amusement Park Pack | 162588 | [162588-coloring-pixels-amusement-park-pack.json](./162588-coloring-pixels-amusement-park-pack.json) |
+| Coloring Pixels: Animals Pack | 162598 | [162598-coloring-pixels-animals-pack.json](./162598-coloring-pixels-animals-pack.json) |
 | Coloring Pixels: Bakery Pack | 211896 | [211896-coloring-pixels-bakery-pack.json](./211896-coloring-pixels-bakery-pack.json) |
 | Coloring Pixels: Candy Pack | 351621 | [351621-coloring-pixels-candy-pack.json](./351621-coloring-pixels-candy-pack.json) |
 | Coloring Pixels: Celebration XL Pack | 351626 | [351626-coloring-pixels-celebration-xl-pack.json](./351626-coloring-pixels-celebration-xl-pack.json) |
@@ -7819,33 +7828,57 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Collection 4 | 317232 | [317232-coloring-pixels-collection-4.json](./317232-coloring-pixels-collection-4.json) |
 | Coloring Pixels: Collection 5 | 320454 | [320454-coloring-pixels-collection-5.json](./320454-coloring-pixels-collection-5.json) |
 | Coloring Pixels: Comic Pack | 393615 | [393615-coloring-pixels-comic-pack.json](./393615-coloring-pixels-comic-pack.json) |
+| Coloring Pixels: Dinosaurs Pack | 162590 | [162590-coloring-pixels-dinosaurs-pack.json](./162590-coloring-pixels-dinosaurs-pack.json) |
+| Coloring Pixels: Fairy Tales Pack | 162606 | [162606-coloring-pixels-fairy-tales-pack.json](./162606-coloring-pixels-fairy-tales-pack.json) |
 | Coloring Pixels: Fantasy Maps Pack | 351622 | [351622-coloring-pixels-fantasy-maps-pack.json](./351622-coloring-pixels-fantasy-maps-pack.json) |
+| Coloring Pixels: Farm Pack | 162613 | [162613-coloring-pixels-farm-pack.json](./162613-coloring-pixels-farm-pack.json) |
+| Coloring Pixels: Flag Pack | 162607 | [162607-coloring-pixels-flag-pack.json](./162607-coloring-pixels-flag-pack.json) |
+| Coloring Pixels: Flowers Pack | 162591 | [162591-coloring-pixels-flowers-pack.json](./162591-coloring-pixels-flowers-pack.json) |
+| Coloring Pixels: Food Pack | 162602 | [162602-coloring-pixels-food-pack.json](./162602-coloring-pixels-food-pack.json) |
 | Coloring Pixels: Fun and Games Pack | 277968 | [277968-coloring-pixels-fun-and-games-pack.json](./277968-coloring-pixels-fun-and-games-pack.json) |
 | Coloring Pixels: Gothic Pack | 354617 | [354617-coloring-pixels-gothic-pack.json](./354617-coloring-pixels-gothic-pack.json) |
+| Coloring Pixels: Halloween 2 Pack | 162601 | [162601-coloring-pixels-halloween-2-pack.json](./162601-coloring-pixels-halloween-2-pack.json) |
 | Coloring Pixels: Halloween 3 Pack | 222817 | [222817-coloring-pixels-halloween-3-pack.json](./222817-coloring-pixels-halloween-3-pack.json) |
 | Coloring Pixels: Halloween 4 Pack | 222818 | [222818-coloring-pixels-halloween-4-pack.json](./222818-coloring-pixels-halloween-4-pack.json) |
 | Coloring Pixels: Halloween 5 Pack | 271132 | [271132-coloring-pixels-halloween-5-pack.json](./271132-coloring-pixels-halloween-5-pack.json) |
 | Coloring Pixels: Halloween 6 Pack | 351620 | [351620-coloring-pixels-halloween-6-pack.json](./351620-coloring-pixels-halloween-6-pack.json) |
+| Coloring Pixels: Halloween Pack | 162609 | [162609-coloring-pixels-halloween-pack.json](./162609-coloring-pixels-halloween-pack.json) |
 | Coloring Pixels: Illusions Pack | 225003 | [225003-coloring-pixels-illusions-pack.json](./225003-coloring-pixels-illusions-pack.json) |
 | Coloring Pixels: Insects Pack | 225004 | [225004-coloring-pixels-insects-pack.json](./225004-coloring-pixels-insects-pack.json) |
 | Coloring Pixels: Isometric 3 Pack | 351618 | [351618-coloring-pixels-isometric-3-pack.json](./351618-coloring-pixels-isometric-3-pack.json) |
+| Coloring Pixels: Isometric Pack | 162604 | [162604-coloring-pixels-isometric-pack.json](./162604-coloring-pixels-isometric-pack.json) |
 | Coloring Pixels: Japan Pack | 241318 | [241318-coloring-pixels-japan-pack.json](./241318-coloring-pixels-japan-pack.json) |
+| Coloring Pixels: Landmarks 2 Pack | 162608 | [162608-coloring-pixels-landmarks-2-pack.json](./162608-coloring-pixels-landmarks-2-pack.json) |
+| Coloring Pixels: Landmarks Pack | 162612 | [162612-coloring-pixels-landmarks-pack.json](./162612-coloring-pixels-landmarks-pack.json) |
 | Coloring Pixels: Magic Pack | 259861 | [259861-coloring-pixels-magic-pack.json](./259861-coloring-pixels-magic-pack.json) |
+| Coloring Pixels: Marine Life Pack | 162599 | [162599-coloring-pixels-marine-life-pack.json](./162599-coloring-pixels-marine-life-pack.json) |
 | Coloring Pixels: Medieval Pack | 277967 | [277967-coloring-pixels-medieval-pack.json](./277967-coloring-pixels-medieval-pack.json) |
 | Coloring Pixels: Microscopic Pack | 327369 | [327369-coloring-pixels-microscopic-pack.json](./327369-coloring-pixels-microscopic-pack.json) |
+| Coloring Pixels: Monsters Pack | 162610 | [162610-coloring-pixels-monsters-pack.json](./162610-coloring-pixels-monsters-pack.json) |
 | Coloring Pixels: Mythology 2 Pack | 201705 | [201705-coloring-pixels-mythology-2-pack.json](./201705-coloring-pixels-mythology-2-pack.json) |
 | Coloring Pixels: Natural Wonders | 393616 | [393616-coloring-pixels-natural-wonders.json](./393616-coloring-pixels-natural-wonders.json) |
 | Coloring Pixels: Onion Pack | 276232 | [276232-coloring-pixels-onion-pack.json](./276232-coloring-pixels-onion-pack.json) |
 | Coloring Pixels: Pastels Pack | 351624 | [351624-coloring-pixels-pastels-pack.json](./351624-coloring-pixels-pastels-pack.json) |
+| Coloring Pixels: Patterns Pack | 162593 | [162593-coloring-pixels-patterns-pack.json](./162593-coloring-pixels-patterns-pack.json) |
 | Coloring Pixels: Pets Pack | 305514 | [305514-coloring-pixels-pets-pack.json](./305514-coloring-pixels-pets-pack.json) |
 | Coloring Pixels: Pirates Pack | 252239 | [252239-coloring-pixels-pirates-pack.json](./252239-coloring-pixels-pirates-pack.json) |
 | Coloring Pixels: Platformers | 193422 | [193422-coloring-pixels-platformers.json](./193422-coloring-pixels-platformers.json) |
 | Coloring Pixels: Realistic 2 Pack | 351623 | [351623-coloring-pixels-realistic-2-pack.json](./351623-coloring-pixels-realistic-2-pack.json) |
+| Coloring Pixels: Realistic Pack | 162605 | [162605-coloring-pixels-realistic-pack.json](./162605-coloring-pixels-realistic-pack.json) |
 | Coloring Pixels: Retro Pack | 194648 | [194648-coloring-pixels-retro-pack.json](./194648-coloring-pixels-retro-pack.json) |
+| Coloring Pixels: RPG Book | 162592 | [162592-coloring-pixels-rpg-book.json](./162592-coloring-pixels-rpg-book.json) |
+| Coloring Pixels: Safari Pack | 162594 | [162594-coloring-pixels-safari-pack.json](./162594-coloring-pixels-safari-pack.json) |
+| Coloring Pixels: Space Pack | 162596 | [162596-coloring-pixels-space-pack.json](./162596-coloring-pixels-space-pack.json) |
+| Coloring Pixels: Spring Pack | 162597 | [162597-coloring-pixels-spring-pack.json](./162597-coloring-pixels-spring-pack.json) |
 | Coloring Pixels: Steampunk Pack | 231329 | [231329-coloring-pixels-steampunk-pack.json](./231329-coloring-pixels-steampunk-pack.json) |
 | Coloring Pixels: Tarot Pack | 225005 | [225005-coloring-pixels-tarot-pack.json](./225005-coloring-pixels-tarot-pack.json) |
+| Coloring Pixels: Technology Pack | 162614 | [162614-coloring-pixels-technology-pack.json](./162614-coloring-pixels-technology-pack.json) |
 | Coloring Pixels: Transport Pack | 255253 | [255253-coloring-pixels-transport-pack.json](./255253-coloring-pixels-transport-pack.json) |
+| Coloring Pixels: Variety Pack | 162603 | [162603-coloring-pixels-variety-pack.json](./162603-coloring-pixels-variety-pack.json) |
+| Coloring Pixels: Vistas Pack | 162595 | [162595-coloring-pixels-vistas-pack.json](./162595-coloring-pixels-vistas-pack.json) |
+| Coloring Pixels: Vistas Pack 2 | 162587 | [162587-coloring-pixels-vistas-pack-2.json](./162587-coloring-pixels-vistas-pack-2.json) |
 | Coloring Pixels: Vistas Pack 3 | 305513 | [305513-coloring-pixels-vistas-pack-3.json](./305513-coloring-pixels-vistas-pack-3.json) |
+| Coloring Pixels: Winter Holidays Pack | 162589 | [162589-coloring-pixels-winter-holidays-pack.json](./162589-coloring-pixels-winter-holidays-pack.json) |
 | Coloring Pixels: Zodiac Pack | 351625 | [351625-coloring-pixels-zodiac-pack.json](./351625-coloring-pixels-zodiac-pack.json) |
 | Coloring Voxels: Advent Pack | 384090 | [384090-coloring-voxels-advent-pack.json](./384090-coloring-voxels-advent-pack.json) |
 | Coloring Voxels: Computer Pack | 384093 | [384093-coloring-voxels-computer-pack.json](./384093-coloring-voxels-computer-pack.json) |
@@ -9111,6 +9144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Run: Witch's Castle | 193964 | [193964-cookie-run-witchs-castle.json](./193964-cookie-run-witchs-castle.json) |
 | Cookie Shop: Create Your Dream Shop | 151253 | [151253-cookie-shop-create-your-dream-shop.json](./151253-cookie-shop-create-your-dream-shop.json) |
 | Cookie Smash: Cookie Mania | 267338 | [267338-cookie-smash-cookie-mania.json](./267338-cookie-smash-cookie-mania.json) |
+| Cookie Space | 161592 | [161592-cookie-space.json](./161592-cookie-space.json) |
 | Cookie Store | 150282 | [150282-cookie-store.json](./150282-cookie-store.json) |
 | Cookie Story Crush | 166302 | [166302-cookie-story-crush.json](./166302-cookie-story-crush.json) |
 | Cookie's Bakery | 181856 | [181856-cookies-bakery.json](./181856-cookies-bakery.json) |
@@ -11144,6 +11178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Frontier | 335864 | [335864-crimson-frontier.json](./335864-crimson-frontier.json) |
 | Crimson Furnace | 381626 | [381626-crimson-furnace.json](./381626-crimson-furnace.json) |
 | Crimson Gem Saga | 19640 | [19640-crimson-gem-saga.json](./19640-crimson-gem-saga.json) |
+| Crimson Glaive Sigma | 161601 | [161601-crimson-glaive-sigma.json](./161601-crimson-glaive-sigma.json) |
 | Crimson Gray: Dusk and Dawn | 105368 | [105368-crimson-gray-dusk-and-dawn.json](./105368-crimson-gray-dusk-and-dawn.json) |
 | Crimson Hell | 293512 | [293512-crimson-hell.json](./293512-crimson-hell.json) |
 | Crimson Hills | 29067 | [29067-crimson-hills.json](./29067-crimson-hills.json) |
