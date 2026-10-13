@@ -5807,6 +5807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Markarth | 237336 | [237336-the-elder-scrolls-online-markarth.json](./237336-the-elder-scrolls-online-markarth.json) |
 | The Elder Scrolls Online: Morrowind - Collector's Edition | 136339 | [136339-the-elder-scrolls-online-morrowind-collectors-edition.json](./136339-the-elder-scrolls-online-morrowind-collectors-edition.json) |
 | The Elder Scrolls Online: Necrom | 233587 | [233587-the-elder-scrolls-online-necrom.json](./233587-the-elder-scrolls-online-necrom.json) |
+| The Elder Scrolls Online: Premium Edition | 136165 | [136165-the-elder-scrolls-online-premium-edition.json](./136165-the-elder-scrolls-online-premium-edition.json) |
 | The Elder Scrolls Online: Season One - Return of the Thieves Guild | 405082 | [405082-the-elder-scrolls-online-season-one-return-of-the-thieves-guild.json](./405082-the-elder-scrolls-online-season-one-return-of-the-thieves-guild.json) |
 | The Elder Scrolls Online: Shadows of the Hist | 128476 | [128476-the-elder-scrolls-online-shadows-of-the-hist.json](./128476-the-elder-scrolls-online-shadows-of-the-hist.json) |
 | The Elder Scrolls Online: Stonethorn | 135827 | [135827-the-elder-scrolls-online-stonethorn.json](./135827-the-elder-scrolls-online-stonethorn.json) |
@@ -8235,6 +8236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails into Reverie - Standard Cosmetic Set | 251672 | [251672-the-legend-of-heroes-trails-into-reverie-standard-cosmetic-set.json](./251672-the-legend-of-heroes-trails-into-reverie-standard-cosmetic-set.json) |
 | The Legend of Heroes: Trails into Reverie - Ultimate Edition | 257016 | [257016-the-legend-of-heroes-trails-into-reverie-ultimate-edition.json](./257016-the-legend-of-heroes-trails-into-reverie-ultimate-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel | 13557 | [13557-the-legend-of-heroes-trails-of-cold-steel.json](./13557-the-legend-of-heroes-trails-of-cold-steel.json) |
+| The Legend of Heroes: Trails of Cold Steel - Decisive Edition | 136298 | [136298-the-legend-of-heroes-trails-of-cold-steel-decisive-edition.json](./136298-the-legend-of-heroes-trails-of-cold-steel-decisive-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel - Lionheart Edition | 89911 | [89911-the-legend-of-heroes-trails-of-cold-steel-lionheart-edition.json](./89911-the-legend-of-heroes-trails-of-cold-steel-lionheart-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel II | 13558 | [13558-the-legend-of-heroes-trails-of-cold-steel-ii.json](./13558-the-legend-of-heroes-trails-of-cold-steel-ii.json) |
 | The Legend of Heroes: Trails of Cold Steel II - All Ride-Alongs | 124812 | [124812-the-legend-of-heroes-trails-of-cold-steel-ii-all-ride-alongs.json](./124812-the-legend-of-heroes-trails-of-cold-steel-ii-all-ride-alongs.json) |
@@ -8433,6 +8435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Shadow of Night | 218079 | [218079-the-legend-of-zelda-shadow-of-night.json](./218079-the-legend-of-zelda-shadow-of-night.json) |
 | The Legend of Zelda: Shattered Dimensions | 323212 | [323212-the-legend-of-zelda-shattered-dimensions.json](./323212-the-legend-of-zelda-shattered-dimensions.json) |
 | The Legend of Zelda: Shénqí de Màozi | 163217 | [163217-the-legend-of-zelda-shenqi-de-maozi.json](./163217-the-legend-of-zelda-shenqi-de-maozi.json) |
+| The Legend of Zelda: Skyward Sword - Limited Edition Pack | 136162 | [136162-the-legend-of-zelda-skyward-sword-limited-edition-pack.json](./136162-the-legend-of-zelda-skyward-sword-limited-edition-pack.json) |
 | The Legend of Zelda: Skyward Sword HD Randomizer | 331139 | [331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json](./331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json) |
 | The Legend of Zelda: Skyward Sword Randomizer | 241895 | [241895-the-legend-of-zelda-skyward-sword-randomizer.json](./241895-the-legend-of-zelda-skyward-sword-randomizer.json) |
 | The Legend of Zelda: Specter's Oculus | 323365 | [323365-the-legend-of-zelda-specters-oculus.json](./323365-the-legend-of-zelda-specters-oculus.json) |
@@ -9464,6 +9467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ninja | 346067 | [346067-the-ninja.json](./346067-the-ninja.json) |
 | The Ninja Gaiden as Interpreted by MiniMacro Sound | 311650 | [311650-the-ninja-gaiden-as-interpreted-by-minimacro-sound.json](./311650-the-ninja-gaiden-as-interpreted-by-minimacro-sound.json) |
 | The Ninja of the 4 Seasons | 195518 | [195518-the-ninja-of-the-4-seasons.json](./195518-the-ninja-of-the-4-seasons.json) |
+| The Ninja Saviors: Return of the Warriors - Ninja Art Edition | 136154 | [136154-the-ninja-saviors-return-of-the-warriors-ninja-art-edition.json](./136154-the-ninja-saviors-return-of-the-warriors-ninja-art-edition.json) |
 | The Ninja Warriors | 5406 | [5406-the-ninja-warriors.json](./5406-the-ninja-warriors.json) |
 | The Ninji Saga Part 1: Birth of a Legend | 275328 | [275328-the-ninji-saga-part-1-birth-of-a-legend.json](./275328-the-ninji-saga-part-1-birth-of-a-legend.json) |
 | The Ninth Way | 161184 | [161184-the-ninth-way.json](./161184-the-ninth-way.json) |
@@ -10914,8 +10918,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Bundle - City Living, Vampires, Vintage Glamour Stuff | 159336 | [159336-the-sims-4-bundle-city-living-vampires-vintage-glamour-stuff.json](./159336-the-sims-4-bundle-city-living-vampires-vintage-glamour-stuff.json) |
 | The Sims 4: Bundle - Get to Work, Dine Out, Cool Kitchen Stuff | 159334 | [159334-the-sims-4-bundle-get-to-work-dine-out-cool-kitchen-stuff.json](./159334-the-sims-4-bundle-get-to-work-dine-out-cool-kitchen-stuff.json) |
 | The Sims 4: Bundle Pack 1 | 159326 | [159326-the-sims-4-bundle-pack-1.json](./159326-the-sims-4-bundle-pack-1.json) |
+| The Sims 4: Bundle Pack 2 | 136144 | [136144-the-sims-4-bundle-pack-2.json](./136144-the-sims-4-bundle-pack-2.json) |
 | The Sims 4: Bundle Pack 3 | 159327 | [159327-the-sims-4-bundle-pack-3.json](./159327-the-sims-4-bundle-pack-3.json) |
 | The Sims 4: Bundle Pack 4 | 159328 | [159328-the-sims-4-bundle-pack-4.json](./159328-the-sims-4-bundle-pack-4.json) |
+| The Sims 4: Bundle Pack 5 | 136140 | [136140-the-sims-4-bundle-pack-5.json](./136140-the-sims-4-bundle-pack-5.json) |
 | The Sims 4: Bundle Pack 6 | 159329 | [159329-the-sims-4-bundle-pack-6.json](./159329-the-sims-4-bundle-pack-6.json) |
 | The Sims 4: Business Chic Kit | 330394 | [330394-the-sims-4-business-chic-kit.json](./330394-the-sims-4-business-chic-kit.json) |
 | The Sims 4: Bust the Dust Kit | 151112 | [151112-the-sims-4-bust-the-dust-kit.json](./151112-the-sims-4-bust-the-dust-kit.json) |
