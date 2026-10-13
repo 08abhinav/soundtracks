@@ -5706,6 +5706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Story: The Way Home | 102187 | [102187-love-story-the-way-home.json](./102187-love-story-the-way-home.json) |
 | Love Sucks: Night One | 156516 | [156516-love-sucks-night-one.json](./156516-love-sucks-night-one.json) |
 | Love Sucks: Night Three | 303639 | [303639-love-sucks-night-three.json](./303639-love-sucks-night-three.json) |
+| Love Sweets | 178338 | [178338-love-sweets.json](./178338-love-sweets.json) |
 | Love Take Back | 330814 | [330814-love-take-back.json](./330814-love-take-back.json) |
 | Love Talks | 209477 | [209477-love-talks.json](./209477-love-talks.json) |
 | Love Tangle | 232897 | [232897-love-tangle.json](./232897-love-tangle.json) |
