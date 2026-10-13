@@ -3152,6 +3152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror Squid | 122182 | [122182-terror-squid.json](./122182-terror-squid.json) |
 | Terror Time | 220792 | [220792-terror-time.json](./220792-terror-time.json) |
 | Terror Type: A.L.C.H.E.M.Y. | 338318 | [338318-terror-type-a-l-c-h-e-m-y.json](./338318-terror-type-a-l-c-h-e-m-y.json) |
+| Terror-Daktil 4D | 147211 | [147211-terror-daktil-4d.json](./147211-terror-daktil-4d.json) |
 | Terrorarium | 115014 | [115014-terrorarium.json](./115014-terrorarium.json) |
 | Terrorbytes | 319843 | [319843-terrorbytes.json](./319843-terrorbytes.json) |
 | Terrorfest | 313882 | [313882-terrorfest.json](./313882-terrorfest.json) |
@@ -4365,6 +4366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Birth of an Artificial Intelligence | 165778 | [165778-the-birth-of-an-artificial-intelligence.json](./165778-the-birth-of-an-artificial-intelligence.json) |
 | The Bit.Trip | 20152 | [20152-the-bit-trip.json](./20152-the-bit-trip.json) |
 | The Bit's Escape | 287756 | [287756-the-bits-escape.json](./287756-the-bits-escape.json) |
+| The Bitmap Brothers Collection 1 | 147181 | [147181-the-bitmap-brothers-collection-1.json](./147181-the-bitmap-brothers-collection-1.json) |
 | The Bitmap Brothers Collection 2 | 325242 | [325242-the-bitmap-brothers-collection-2.json](./325242-the-bitmap-brothers-collection-2.json) |
 | The Bitsy Jim Jam | 184038 | [184038-the-bitsy-jim-jam.json](./184038-the-bitsy-jim-jam.json) |
 | The Biz | 62023 | [62023-the-biz.json](./62023-the-biz.json) |
@@ -6367,6 +6369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fool and his Money | 64185 | [64185-the-fool-and-his-money.json](./64185-the-fool-and-his-money.json) |
 | The Fool's Errand | 12107 | [12107-the-fools-errand.json](./12107-the-fools-errand.json) |
 | The Football A | 216356 | [216356-the-football-a.json](./216356-the-football-a.json) |
+| The Football Collection 2008 | 147194 | [147194-the-football-collection-2008.json](./147194-the-football-collection-2008.json) |
 | The Football Playbook: Tactical Puzzles | 197247 | [197247-the-football-playbook-tactical-puzzles.json](./197247-the-football-playbook-tactical-puzzles.json) |
 | The Football Quiz | 219171 | [219171-the-football-quiz.json](./219171-the-football-quiz.json) |
 | The Football T | 209917 | [209917-the-football-t.json](./209917-the-football-t.json) |
@@ -13836,6 +13839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tierbabys Puzzle: Echter Puzzlespass für Unterwegs | 252658 | [252658-tierbabys-puzzle-echter-puzzlespass-fur-unterwegs.json](./252658-tierbabys-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | Tierra | 170906 | [170906-tierra.json](./170906-tierra.json) |
 | Tierra: Adventure Mystery | 174306 | [174306-tierra-adventure-mystery.json](./174306-tierra-adventure-mystery.json) |
+| Tierras Perdidas | 147176 | [147176-tierras-perdidas.json](./147176-tierras-perdidas.json) |
 | Tiestru | 36255 | [36255-tiestru.json](./36255-tiestru.json) |
 | Tiěxuè Gōngshā | 151615 | [151615-tiexue-gongsha.json](./151615-tiexue-gongsha.json) |
 | Tiffany Alvord Dream World | 233079 | [233079-tiffany-alvord-dream-world.json](./233079-tiffany-alvord-dream-world.json) |
