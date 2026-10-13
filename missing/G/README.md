@@ -1352,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garukilla | 92508 | [92508-garukilla.json](./92508-garukilla.json) |
 | Gary Grigsby's Pacific War | 72106 | [72106-gary-grigsbys-pacific-war.json](./72106-gary-grigsbys-pacific-war.json) |
 | Gary Grigsby's War in the East | 24627 | [24627-gary-grigsbys-war-in-the-east.json](./24627-gary-grigsbys-war-in-the-east.json) |
+| Gary Grigsby's War in the East 2 | 143425 | [143425-gary-grigsbys-war-in-the-east-2.json](./143425-gary-grigsbys-war-in-the-east-2.json) |
 | Gary Grigsby's War in the East: Don to the Danube | 154491 | [154491-gary-grigsbys-war-in-the-east-don-to-the-danube.json](./154491-gary-grigsbys-war-in-the-east-don-to-the-danube.json) |
 | Gary Grigsby's War in the East: Lost Battles | 174171 | [174171-gary-grigsbys-war-in-the-east-lost-battles.json](./174171-gary-grigsbys-war-in-the-east-lost-battles.json) |
 | Gary Grigsby's War in the Pacific | 69846 | [69846-gary-grigsbys-war-in-the-pacific.json](./69846-gary-grigsbys-war-in-the-pacific.json) |
@@ -7427,6 +7428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gylt: Collector's Edition | 256177 | [256177-gylt-collectors-edition.json](./256177-gylt-collectors-edition.json) |
 | Gym Bullies | 302935 | [302935-gym-bullies.json](./302935-gym-bullies.json) |
 | Gym Business: Fitness Empire Simulator | 319306 | [319306-gym-business-fitness-empire-simulator.json](./319306-gym-business-fitness-empire-simulator.json) |
+| Gym Class VR | 143458 | [143458-gym-class-vr.json](./143458-gym-class-vr.json) |
 | Gym Class: Basketball VR | 223143 | [223143-gym-class-basketball-vr.json](./223143-gym-class-basketball-vr.json) |
 | Gym Lifting Hero: Tile Master | 340527 | [340527-gym-lifting-hero-tile-master.json](./340527-gym-lifting-hero-tile-master.json) |
 | Gym Nights | 274487 | [274487-gym-nights.json](./274487-gym-nights.json) |
