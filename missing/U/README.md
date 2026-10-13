@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultrawings Flat | 113038 | [113038-ultrawings-flat.json](./113038-ultrawings-flat.json) |
 | Ultraworld Exodus | 36184 | [36184-ultraworld-exodus.json](./36184-ultraworld-exodus.json) |
 | Ultrazone | 268223 | [268223-ultrazone.json](./268223-ultrazone.json) |
+| Ultreia | 154798 | [154798-ultreia.json](./154798-ultreia.json) |
 | Ultreia: Enhanced Edition | 316384 | [316384-ultreia-enhanced-edition.json](./316384-ultreia-enhanced-edition.json) |
 | Ultris: The Ultimate Tetris | 14520 | [14520-ultris-the-ultimate-tetris.json](./14520-ultris-the-ultimate-tetris.json) |
 | Ultron | 57133 | [57133-ultron.json](./57133-ultron.json) |
@@ -1464,6 +1465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unholy Eyeballs | 177945 | [177945-unholy-eyeballs.json](./177945-unholy-eyeballs.json) |
 | Unholy Heights | 16648 | [16648-unholy-heights.json](./16648-unholy-heights.json) |
 | Unholy Legacy | 306361 | [306361-unholy-legacy.json](./306361-unholy-legacy.json) |
+| Unholy Neighbourhood | 154789 | [154789-unholy-neighbourhood.json](./154789-unholy-neighbourhood.json) |
 | Unholy Night: The Darkness Hunter | 26502 | [26502-unholy-night-the-darkness-hunter.json](./26502-unholy-night-the-darkness-hunter.json) |
 | Unholy Ossuary | 271789 | [271789-unholy-ossuary.json](./271789-unholy-ossuary.json) |
 | Unholy Realms | 140993 | [140993-unholy-realms.json](./140993-unholy-realms.json) |
@@ -2272,6 +2274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UrlX | 350541 | [350541-urlx.json](./350541-urlx.json) |
 | Urmels großer Flug | 410090 | [410090-urmels-gro-er-flug.json](./410090-urmels-gro-er-flug.json) |
 | Urok | 319766 | [319766-urok.json](./319766-urok.json) |
+| Uros: A Trip Through Shadows | 154800 | [154800-uros-a-trip-through-shadows.json](./154800-uros-a-trip-through-shadows.json) |
 | Urotsukidouji | 123014 | [123014-urotsukidouji.json](./123014-urotsukidouji.json) |
 | Ursid | 367572 | [367572-ursid.json](./367572-ursid.json) |
 | Ursine Science | 260162 | [260162-ursine-science.json](./260162-ursine-science.json) |
@@ -2316,6 +2319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Usagi Sekai: Bunny Shaman | 338581 | [338581-usagi-sekai-bunny-shaman.json](./338581-usagi-sekai-bunny-shaman.json) |
 | Usagi Shima | 204511 | [204511-usagi-shima.json](./204511-usagi-shima.json) |
 | Usagi Yojimbo: Way of the Ronin | 36060 | [36060-usagi-yojimbo-way-of-the-ronin.json](./36060-usagi-yojimbo-way-of-the-ronin.json) |
+| Usagi: Yasei no Touhai - Yamashiro Mahjong-hen | 154843 | [154843-usagi-yasei-no-touhai-yamashiro-mahjong-hen.json](./154843-usagi-yasei-no-touhai-yamashiro-mahjong-hen.json) |
 | Usagito Watashi | 280908 | [280908-usagito-watashi.json](./280908-usagito-watashi.json) |
 | Usavich - Game no Jikan | 133333 | [133333-usavich-game-no-jikan.json](./133333-usavich-game-no-jikan.json) |
 | USB-bot | 358302 | [358302-usb-bot.json](./358302-usb-bot.json) |
