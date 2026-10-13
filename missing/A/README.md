@@ -1155,6 +1155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aberrant Nights | 304671 | [304671-aberrant-nights.json](./304671-aberrant-nights.json) |
 | Aberrate Inc. | 377431 | [377431-aberrate-inc.json](./377431-aberrate-inc.json) |
 | Aberration | 187259 | [187259-aberration.json](./187259-aberration.json) |
+| Aberration Analyst | 167393 | [167393-aberration-analyst.json](./167393-aberration-analyst.json) |
 | Abglantz | 216775 | [216775-abglantz.json](./216775-abglantz.json) |
 | Abh | 173184 | [173184-abh.json](./173184-abh.json) |
 | Abha | 111036 | [111036-abha.json](./111036-abha.json) |
@@ -1303,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absurdistan | 166671 | [166671-absurdistan.json](./166671-absurdistan.json) |
 | Absurdle | 280697 | [280697-absurdle.json](./280697-absurdle.json) |
 | Absylon 7 | 165403 | [165403-absylon-7.json](./165403-absylon-7.json) |
+| Abtos Covert | 167396 | [167396-abtos-covert.json](./167396-abtos-covert.json) |
 | Abu Batata | 411555 | [411555-abu-batata.json](./411555-abu-batata.json) |
 | Abunai Josei Shinrigaku Nyuumon | 269683 | [269683-abunai-josei-shinrigaku-nyuumon.json](./269683-abunai-josei-shinrigaku-nyuumon.json) |
 | Abunai Koi no Sousashitsu | 197859 | [197859-abunai-koi-no-sousashitsu.json](./197859-abunai-koi-no-sousashitsu.json) |
@@ -6406,6 +6408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Artist | 280177 | [280177-anime-artist.json](./280177-anime-artist.json) |
 | Anime Artist 2: Lovely Danya | 129685 | [129685-anime-artist-2-lovely-danya.json](./129685-anime-artist-2-lovely-danya.json) |
 | Anime Artist 3: Harem | 158160 | [158160-anime-artist-3-harem.json](./158160-anime-artist-3-harem.json) |
+| Anime Artist: Tiffy’s Notty Secret | 167377 | [167377-anime-artist-tiffy-s-notty-secret.json](./167377-anime-artist-tiffy-s-notty-secret.json) |
 | Anime Babes: Solitaire | 110515 | [110515-anime-babes-solitaire.json](./110515-anime-babes-solitaire.json) |
 | Anime Beauty Girl Puzzle: Love Game History Adventure | 252699 | [252699-anime-beauty-girl-puzzle-love-game-history-adventure.json](./252699-anime-beauty-girl-puzzle-love-game-history-adventure.json) |
 | Anime Bowling Babes | 24997 | [24997-anime-bowling-babes.json](./24997-anime-bowling-babes.json) |
@@ -7942,6 +7945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Classics: Super Breakout / Battlezone | 79702 | [79702-arcade-classics-super-breakout-battlezone.json](./79702-arcade-classics-super-breakout-battlezone.json) |
 | Arcade Crossy Road | 228367 | [228367-arcade-crossy-road.json](./228367-arcade-crossy-road.json) |
 | Arcade Daze | 251088 | [251088-arcade-daze.json](./251088-arcade-daze.json) |
+| Arcade Drift | 167347 | [167347-arcade-drift.json](./167347-arcade-drift.json) |
 | Arcade Flight | 203529 | [203529-arcade-flight.json](./203529-arcade-flight.json) |
 | Arcade Force Four | 94416 | [94416-arcade-force-four.json](./94416-arcade-force-four.json) |
 | Arcade Fusion Bundle | 300764 | [300764-arcade-fusion-bundle.json](./300764-arcade-fusion-bundle.json) |
@@ -10648,6 +10652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AtooB | 304629 | [304629-atoob.json](./304629-atoob.json) |
 | Atop the Witch's Tower | 225714 | [225714-atop-the-witchs-tower.json](./225714-atop-the-witchs-tower.json) |
 | Atop the Witch's Tower WS | 341704 | [341704-atop-the-witchs-tower-ws.json](./341704-atop-the-witchs-tower-ws.json) |
+| Atopes | 167359 | [167359-atopes.json](./167359-atopes.json) |
 | ATP Tour Championship Tennis | 46234 | [46234-atp-tour-championship-tennis.json](./46234-atp-tour-championship-tennis.json) |
 | Atramentum VR | 29797 | [29797-atramentum-vr.json](./29797-atramentum-vr.json) |
 | Atrapa la Bandera | 204455 | [204455-atrapa-la-bandera.json](./204455-atrapa-la-bandera.json) |
