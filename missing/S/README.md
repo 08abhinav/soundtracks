@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saihate Station | 301102 | [301102-saihate-station.json](./301102-saihate-station.json) |
 | Saihate Station: Twilight Railway | 337103 | [337103-saihate-station-twilight-railway.json](./337103-saihate-station-twilight-railway.json) |
 | Saikai Sotsugyou Ryokou '98 | 263954 | [263954-saikai-sotsugyou-ryokou-98.json](./263954-saikai-sotsugyou-ryokou-98.json) |
+| Saiki Kusuo no Psi Nan: Shijou Psi Dai no Psi Nan!? | 136888 | [136888-saiki-kusuo-no-psi-nan-shijou-psi-dai-no-psi-nan.json](./136888-saiki-kusuo-no-psi-nan-shijou-psi-dai-no-psi-nan.json) |
 | Saikin Koi Shiteru? | 123410 | [123410-saikin-koi-shiteru.json](./123410-saikin-koi-shiteru.json) |
 | Saikin MMO | 306083 | [306083-saikin-mmo.json](./306083-saikin-mmo.json) |
 | Saikko-nee to Death Game | 301025 | [301025-saikko-nee-to-death-game.json](./301025-saikko-nee-to-death-game.json) |
@@ -542,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakeretsu | 37393 | [37393-sakeretsu.json](./37393-sakeretsu.json) |
 | Sakeworld | 249916 | [249916-sakeworld.json](./249916-sakeworld.json) |
 | Saki Portable | 66919 | [66919-saki-portable.json](./66919-saki-portable.json) |
+| Saki Zenkoku Hen Plus | 136751 | [136751-saki-zenkoku-hen-plus.json](./136751-saki-zenkoku-hen-plus.json) |
 | Saki: Achiga-Hen Episode of Side-A Portable | 135902 | [135902-saki-achiga-hen-episode-of-side-a-portable.json](./135902-saki-achiga-hen-episode-of-side-a-portable.json) |
 | Sakigake!! Otokojuku | 64112 | [64112-sakigake-otokojuku.json](./64112-sakigake-otokojuku.json) |
 | Sakigake!! Otokojuku: Meikoushima Kessen | 64113 | [64113-sakigake-otokojuku-meikoushima-kessen.json](./64113-sakigake-otokojuku-meikoushima-kessen.json) |
@@ -642,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura, Moyu.: As the Night's, Reincarnation | 137106 | [137106-sakura-moyu-as-the-nights-reincarnation.json](./137106-sakura-moyu-as-the-nights-reincarnation.json) |
 | Sakuraba Ema's Intertwining Threshold | 418771 | [418771-sakuraba-emas-intertwining-threshold.json](./418771-sakuraba-emas-intertwining-threshold.json) |
 | Sakurairo Prism | 234149 | [234149-sakurairo-prism.json](./234149-sakurairo-prism.json) |
+| Sakurazaka Shouboutai | 137323 | [137323-sakurazaka-shouboutai.json](./137323-sakurazaka-shouboutai.json) |
 | Sakuya Izayoi Gives You Advice and Dabs | 129389 | [129389-sakuya-izayoi-gives-you-advice-and-dabs.json](./129389-sakuya-izayoi-gives-you-advice-and-dabs.json) |
 | Sakuya-san Crisis & SakuTaku | 210549 | [210549-sakuya-san-crisis-and-sakutaku.json](./210549-sakuya-san-crisis-and-sakutaku.json) |
 | Sakuya-san Crisis 2: The Linkage Of Servant Trial | 210553 | [210553-sakuya-san-crisis-2-the-linkage-of-servant-trial.json](./210553-sakuya-san-crisis-2-the-linkage-of-servant-trial.json) |
@@ -10301,6 +10304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Academy Simulator | 240841 | [240841-soccer-academy-simulator.json](./240841-soccer-academy-simulator.json) |
 | Soccer Adventures | 139187 | [139187-soccer-adventures.json](./139187-soccer-adventures.json) |
 | Soccer America International Cup | 43307 | [43307-soccer-america-international-cup.json](./43307-soccer-america-international-cup.json) |
+| Soccer Battle - PvP Football | 137333 | [137333-soccer-battle-pvp-football.json](./137333-soccer-battle-pvp-football.json) |
 | Soccer Battle Royale | 108973 | [108973-soccer-battle-royale.json](./108973-soccer-battle-royale.json) |
 | Soccer Battles | 170251 | [170251-soccer-battles.json](./170251-soccer-battles.json) |
 | Soccer Boss | 190209 | [190209-soccer-boss.json](./190209-soccer-boss.json) |
@@ -11963,6 +11967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorceress Services | 362889 | [362889-sorceress-services.json](./362889-sorceress-services.json) |
 | Sorcerian | 14486 | [14486-sorcerian.json](./14486-sorcerian.json) |
 | Sorcerian Additional Scenario Vol. 2: Sengoku Sorcerian | 137432 | [137432-sorcerian-additional-scenario-vol-2-sengoku-sorcerian.json](./137432-sorcerian-additional-scenario-vol-2-sengoku-sorcerian.json) |
+| Sorcerian Additional Scenario Vol. 3: Pyramid Sorcerian | 137360 | [137360-sorcerian-additional-scenario-vol-3-pyramid-sorcerian.json](./137360-sorcerian-additional-scenario-vol-3-pyramid-sorcerian.json) |
 | Sorcerian Online | 230853 | [230853-sorcerian-online.json](./230853-sorcerian-online.json) |
 | SorcerLand | 212267 | [212267-sorcerland.json](./212267-sorcerland.json) |
 | Sorceror's Apprentice | 94188 | [94188-sorcerors-apprentice.json](./94188-sorcerors-apprentice.json) |
@@ -15249,6 +15254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squaredance | 58308 | [58308-squaredance.json](./58308-squaredance.json) |
 | Squaredle | 213881 | [213881-squaredle.json](./213881-squaredle.json) |
 | Squareface | 31585 | [31585-squareface.json](./31585-squareface.json) |
+| Squarelaxy | 137350 | [137350-squarelaxy.json](./137350-squarelaxy.json) |
 | Squarelaxy | 183326 | [183326-squarelaxy.json](./183326-squarelaxy.json) |
 | Squarelets | 297054 | [297054-squarelets.json](./297054-squarelets.json) |
 | Squarelings | 416009 | [416009-squarelings.json](./416009-squarelings.json) |
@@ -17882,6 +17888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop! Don’t Die In Australia | 290936 | [290936-stop-don-t-die-in-australia.json](./290936-stop-don-t-die-in-australia.json) |
 | Stop! Fill-in-the-Blank Word Game | 217979 | [217979-stop-fill-in-the-blank-word-game.json](./217979-stop-fill-in-the-blank-word-game.json) |
 | Stop10 | 292156 | [292156-stop10.json](./292156-stop10.json) |
+| stopDrop | 137354 | [137354-stopdrop.json](./137354-stopdrop.json) |
 | Stoplights | 392140 | [392140-stoplights.json](./392140-stoplights.json) |
 | Stopots | 50157 | [50157-stopots.json](./50157-stopots.json) |
 | Stoppa! | 115813 | [115813-stoppa.json](./115813-stoppa.json) |
@@ -18309,6 +18316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Battlecards | 130703 | [130703-stream-battlecards.json](./130703-stream-battlecards.json) |
 | Stream Defense | 239208 | [239208-stream-defense.json](./239208-stream-defense.json) |
 | Stream Defense Protocol | 343302 | [343302-stream-defense-protocol.json](./343302-stream-defense-protocol.json) |
+| Stream Dogfighter | 137357 | [137357-stream-dogfighter.json](./137357-stream-dogfighter.json) |
 | Stream Draws | 139448 | [139448-stream-draws.json](./139448-stream-draws.json) |
 | Stream Fighters | 126578 | [126578-stream-fighters.json](./126578-stream-fighters.json) |
 | Stream Madness | 150685 | [150685-stream-madness.json](./150685-stream-madness.json) |
@@ -19642,6 +19650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Lesson | 13668 | [13668-summer-lesson.json](./13668-summer-lesson.json) |
 | Summer Lesson: Allison Snow - Nanokakan no Niwa | 336180 | [336180-summer-lesson-allison-snow-nanokakan-no-niwa.json](./336180-summer-lesson-allison-snow-nanokakan-no-niwa.json) |
 | Summer Lesson: Chisato Shinjo - Shichiyou no Etude | 219030 | [219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json](./219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json) |
+| Summer Lesson: Hikari Miyamoto | 136765 | [136765-summer-lesson-hikari-miyamoto.json](./136765-summer-lesson-hikari-miyamoto.json) |
 | Summer Loops | 224150 | [224150-summer-loops.json](./224150-summer-loops.json) |
 | Summer Mahjong | 71571 | [71571-summer-mahjong.json](./71571-summer-mahjong.json) |
 | Summer Meetings | 121692 | [121692-summer-meetings.json](./121692-summer-meetings.json) |
@@ -21533,6 +21542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Wars OG: The Moon Dwellers - Collector's Edition | 166276 | [166276-super-robot-wars-og-the-moon-dwellers-collectors-edition.json](./166276-super-robot-wars-og-the-moon-dwellers-collectors-edition.json) |
 | Super Robot Wars OG: The Moon Dwellers - Limited Edition | 166306 | [166306-super-robot-wars-og-the-moon-dwellers-limited-edition.json](./166306-super-robot-wars-og-the-moon-dwellers-limited-edition.json) |
 | Super Robot Wars X | 87796 | [87796-super-robot-wars-x.json](./87796-super-robot-wars-x.json) |
+| Super Robot Wars X: Premium Anime Song & Sound Edition | 136755 | [136755-super-robot-wars-x-premium-anime-song-and-sound-edition.json](./136755-super-robot-wars-x-premium-anime-song-and-sound-edition.json) |
 | Super Robot Wars Y | 337040 | [337040-super-robot-wars-y.json](./337040-super-robot-wars-y.json) |
 | Super Robot Wars Y: Deluxe Edition | 356809 | [356809-super-robot-wars-y-deluxe-edition.json](./356809-super-robot-wars-y-deluxe-edition.json) |
 | Super Robot Wars Y: DLC 1 - Contract from the Darkness | 375171 | [375171-super-robot-wars-y-dlc-1-contract-from-the-darkness.json](./375171-super-robot-wars-y-dlc-1-contract-from-the-darkness.json) |
