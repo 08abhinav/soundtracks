@@ -4325,6 +4325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loading Human: Chapter 1 | 42897 | [42897-loading-human-chapter-1.json](./42897-loading-human-chapter-1.json) |
 | Loading Screen Simulator | 43136 | [43136-loading-screen-simulator.json](./43136-loading-screen-simulator.json) |
 | Loading Simulator | 252668 | [252668-loading-simulator.json](./252668-loading-simulator.json) |
+| Loading Story | 169144 | [169144-loading-story.json](./169144-loading-story.json) |
 | Loading Zone | 193469 | [193469-loading-zone.json](./193469-loading-zone.json) |
 | Loading... | 365761 | [365761-loading.json](./365761-loading.json) |
 | Loaf: The Video Game | 408148 | [408148-loaf-the-video-game.json](./408148-loaf-the-video-game.json) |
@@ -4720,6 +4721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Ago: A Puzzle Tale | 148169 | [148169-long-ago-a-puzzle-tale.json](./148169-long-ago-a-puzzle-tale.json) |
 | Long Arm of the Law | 111863 | [111863-long-arm-of-the-law.json](./111863-long-arm-of-the-law.json) |
 | Long Boy: Escape Game | 199907 | [199907-long-boy-escape-game.json](./199907-long-boy-escape-game.json) |
+| Long Car Journey | 169491 | [169491-long-car-journey.json](./169491-long-car-journey.json) |
 | Long Count | 126622 | [126622-long-count.json](./126622-long-count.json) |
 | Long Dives | 413166 | [413166-long-dives.json](./413166-long-dives.json) |
 | Long Dream | 217238 | [217238-long-dream.json](./217238-long-dream.json) |
