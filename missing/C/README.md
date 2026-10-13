@@ -419,7 +419,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops 6 - Season 3 | 362953 | [362953-call-of-duty-black-ops-6-season-3.json](./362953-call-of-duty-black-ops-6-season-3.json) |
 | Call of Duty: Black Ops 6 - Season 4 | 362955 | [362955-call-of-duty-black-ops-6-season-4.json](./362955-call-of-duty-black-ops-6-season-4.json) |
 | Call of Duty: Black Ops 6 - Season 5 | 362956 | [362956-call-of-duty-black-ops-6-season-5.json](./362956-call-of-duty-black-ops-6-season-5.json) |
-| Call of Duty: Black Ops Cold War | 137001 | [137001-call-of-duty-black-ops-cold-war.json](./137001-call-of-duty-black-ops-cold-war.json) |
 | Call of Duty: Black Ops Cold War - Season Four | 152117 | [152117-call-of-duty-black-ops-cold-war-season-four.json](./152117-call-of-duty-black-ops-cold-war-season-four.json) |
 | Call of Duty: Black Ops Cold War - Season Six | 172674 | [172674-call-of-duty-black-ops-cold-war-season-six.json](./172674-call-of-duty-black-ops-cold-war-season-six.json) |
 | Call of Duty: Black Ops Cold War - Season Two | 144050 | [144050-call-of-duty-black-ops-cold-war-season-two.json](./144050-call-of-duty-black-ops-cold-war-season-two.json) |
@@ -2109,6 +2108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castaway on a Weird Island | 174198 | [174198-castaway-on-a-weird-island.json](./174198-castaway-on-a-weird-island.json) |
 | Castaway Paradise | 36279 | [36279-castaway-paradise.json](./36279-castaway-paradise.json) |
 | Castaway Paradise - Animal Sim Island | 107089 | [107089-castaway-paradise-animal-sim-island.json](./107089-castaway-paradise-animal-sim-island.json) |
+| Castaway Party | 142782 | [142782-castaway-party.json](./142782-castaway-party.json) |
 | Castaway Samurai | 319127 | [319127-castaway-samurai.json](./319127-castaway-samurai.json) |
 | Castaway Soul | 336688 | [336688-castaway-soul.json](./336688-castaway-soul.json) |
 | Castaway Station | 250856 | [250856-castaway-station.json](./250856-castaway-station.json) |
@@ -4965,6 +4965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chompies! | 207407 | [207407-chompies.json](./207407-chompies.json) |
 | Chompy Chomp Chomp Party | 223508 | [223508-chompy-chomp-chomp-party.json](./223508-chompy-chomp-chomp-party.json) |
 | Chóngshēng Zhànshì | 158537 | [158537-chongsheng-zhanshi.json](./158537-chongsheng-zhanshi.json) |
+| Chonka | 142212 | [142212-chonka.json](./142212-chonka.json) |
 | Chonkymon | 149035 | [149035-chonkymon.json](./149035-chonkymon.json) |
 | Choo Choo Crossing | 278722 | [278722-choo-choo-crossing.json](./278722-choo-choo-crossing.json) |
 | Choo Choo Minder | 252988 | [252988-choo-choo-minder.json](./252988-choo-choo-minder.json) |
@@ -7598,6 +7599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colonia | 207511 | [207511-colonia.json](./207511-colonia.json) |
 | Colonial Combat | 332651 | [332651-colonial-combat.json](./332651-colonial-combat.json) |
 | Colonial Conquest | 97307 | [97307-colonial-conquest.json](./97307-colonial-conquest.json) |
+| Colonials Programme | 142179 | [142179-colonials-programme.json](./142179-colonials-programme.json) |
 | Colonies | 118353 | [118353-colonies.json](./118353-colonies.json) |
 | Colonies End | 122829 | [122829-colonies-end.json](./122829-colonies-end.json) |
 | Colonies Online | 36439 | [36439-colonies-online.json](./36439-colonies-online.json) |
@@ -12607,7 +12609,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult of the Abyss | 122391 | [122391-cult-of-the-abyss.json](./122391-cult-of-the-abyss.json) |
 | Cult of the Cat | 269274 | [269274-cult-of-the-cat.json](./269274-cult-of-the-cat.json) |
 | Cult of the Dragon | 374987 | [374987-cult-of-the-dragon.json](./374987-cult-of-the-dragon.json) |
-| Cult of the Lamb | 165351 | [165351-cult-of-the-lamb.json](./165351-cult-of-the-lamb.json) |
 | Cult of the Lamb: Arcade Edition | 380184 | [380184-cult-of-the-lamb-arcade-edition.json](./380184-cult-of-the-lamb-arcade-edition.json) |
 | Cult of the Lamb: Cultist Edition | 204780 | [204780-cult-of-the-lamb-cultist-edition.json](./204780-cult-of-the-lamb-cultist-edition.json) |
 | Cult of the Lamb: Deluxe Edition | 222943 | [222943-cult-of-the-lamb-deluxe-edition.json](./222943-cult-of-the-lamb-deluxe-edition.json) |
