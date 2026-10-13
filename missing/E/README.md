@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Taken | 362339 | [362339-earth-taken.json](./362339-earth-taken.json) |
 | Earth Under Siege | 17867 | [17867-earth-under-siege.json](./17867-earth-under-siege.json) |
 | Earth vs. Mars | 333779 | [333779-earth-vs-mars.json](./333779-earth-vs-mars.json) |
+| Earth Warrior | 155853 | [155853-earth-warrior.json](./155853-earth-warrior.json) |
 | Earth, Fire, And Wind | 286044 | [286044-earth-fire-and-wind.json](./286044-earth-fire-and-wind.json) |
 | Earth: Revival | 215230 | [215230-earth-revival.json](./215230-earth-revival.json) |
 | Earth's Center of Gravity | 209667 | [209667-earths-center-of-gravity.json](./209667-earths-center-of-gravity.json) |
@@ -2290,6 +2291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End Of World: Story | 291363 | [291363-end-of-world-story.json](./291363-end-of-world-story.json) |
 | End Party | 192370 | [192370-end-party.json](./192370-end-party.json) |
 | End Point | 260861 | [260861-end-point.json](./260861-end-point.json) |
+| End Reach | 155859 | [155859-end-reach.json](./155859-end-reach.json) |
 | End Roll: Rewind | 198233 | [198233-end-roll-rewind.json](./198233-end-roll-rewind.json) |
 | End Space | 69415 | [69415-end-space.json](./69415-end-space.json) |
 | End State | 77337 | [77337-end-state.json](./77337-end-state.json) |
