@@ -1362,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Survivors | 311261 | [311261-abyss-survivors.json](./311261-abyss-survivors.json) |
 | Abyss Unchained | 331349 | [331349-abyss-unchained.json](./331349-abyss-unchained.json) |
 | Abyss Vaulter | 341612 | [341612-abyss-vaulter.json](./341612-abyss-vaulter.json) |
+| Abyss Vein | 163024 | [163024-abyss-vein.json](./163024-abyss-vein.json) |
 | Abyss World | 235746 | [235746-abyss-world.json](./235746-abyss-world.json) |
 | Abyss: House | 356070 | [356070-abyss-house.json](./356070-abyss-house.json) |
 | Abyss: Konmei no Toki | 319645 | [319645-abyss-konmei-no-toki.json](./319645-abyss-konmei-no-toki.json) |
@@ -4067,6 +4068,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice's Adventures | 96939 | [96939-alices-adventures.json](./96939-alices-adventures.json) |
 | Alice's Adventures in Wonderland | 95466 | [95466-alices-adventures-in-wonderland.json](./95466-alices-adventures-in-wonderland.json) |
 | Alice's Burger Shop | 223485 | [223485-alices-burger-shop.json](./223485-alices-burger-shop.json) |
+| Alice's Jigsaw: Time Travel | 163005 | [163005-alices-jigsaw-time-travel.json](./163005-alices-jigsaw-time-travel.json) |
+| Alice's Jigsaw: Time Travel 2 | 163001 | [163001-alices-jigsaw-time-travel-2.json](./163001-alices-jigsaw-time-travel-2.json) |
 | Alice's Jigsaw: Wonderland 2 | 102816 | [102816-alices-jigsaw-wonderland-2.json](./102816-alices-jigsaw-wonderland-2.json) |
 | Alice's Jigsaw: Wonderland Chronicles | 286516 | [286516-alices-jigsaw-wonderland-chronicles.json](./286516-alices-jigsaw-wonderland-chronicles.json) |
 | Alice's Jigsaw: Wonderland Chronicles 2 | 286517 | [286517-alices-jigsaw-wonderland-chronicles-2.json](./286517-alices-jigsaw-wonderland-chronicles-2.json) |
