@@ -2958,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Star Interceptor | 45334 | [45334-death-star-interceptor.json](./45334-death-star-interceptor.json) |
 | Death Star Prison Break | 178618 | [178618-death-star-prison-break.json](./178618-death-star-prison-break.json) |
 | Death Stare | 176220 | [176220-death-stare.json](./176220-death-stare.json) |
+| Death Stranding: Digital Deluxe Edition | 136160 | [136160-death-stranding-digital-deluxe-edition.json](./136160-death-stranding-digital-deluxe-edition.json) |
 | Death Stranding: Director's Cut - Digital Deluxe Edition | 407589 | [407589-death-stranding-directors-cut-digital-deluxe-edition.json](./407589-death-stranding-directors-cut-digital-deluxe-edition.json) |
 | Death Stranding: Higgs Variant | 386264 | [386264-death-stranding-higgs-variant.json](./386264-death-stranding-higgs-variant.json) |
 | Death Strike | 182918 | [182918-death-strike.json](./182918-death-strike.json) |
@@ -4728,6 +4729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desperado 2 | 13590 | [13590-desperado-2.json](./13590-desperado-2.json) |
 | Desperados | 68252 | [68252-desperados.json](./68252-desperados.json) |
 | Desperados 2: Cooper's Revenge | 7261 | [7261-desperados-2-coopers-revenge.json](./7261-desperados-2-coopers-revenge.json) |
+| Desperados III: Deluxe Edition | 136289 | [136289-desperados-iii-deluxe-edition.json](./136289-desperados-iii-deluxe-edition.json) |
 | Desperados III: Money for the Vultures - Part 1: Late to the Party | 152234 | [152234-desperados-iii-money-for-the-vultures-part-1-late-to-the-party.json](./152234-desperados-iii-money-for-the-vultures-part-1-late-to-the-party.json) |
 | Desperados III: Money for the Vultures - Part 2: Five Steps Ahead | 152235 | [152235-desperados-iii-money-for-the-vultures-part-2-five-steps-ahead.json](./152235-desperados-iii-money-for-the-vultures-part-2-five-steps-ahead.json) |
 | Desperados III: Money for the Vultures - Part 3: Once More With Feeling | 152236 | [152236-desperados-iii-money-for-the-vultures-part-3-once-more-with-feeling.json](./152236-desperados-iii-money-for-the-vultures-part-3-once-more-with-feeling.json) |
@@ -8502,6 +8504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Zero | 142176 | [142176-doom-zero.json](./142176-doom-zero.json) |
 | Doom: Bloodfall | 26558 | [26558-doom-bloodfall.json](./26558-doom-bloodfall.json) |
 | DOOM: Collector's Edition | 41614 | [41614-doom-collectors-edition.json](./41614-doom-collectors-edition.json) |
+| DOOM: Day One Edition | 136168 | [136168-doom-day-one-edition.json](./136168-doom-day-one-edition.json) |
 | DOOM: Enhanced Vanilla Project | 199416 | [199416-doom-enhanced-vanilla-project.json](./199416-doom-enhanced-vanilla-project.json) |
 | Doom: Hell Followed | 25571 | [25571-doom-hell-followed.json](./25571-doom-hell-followed.json) |
 | DooM: Infernal Attack | 198352 | [198352-doom-infernal-attack.json](./198352-doom-infernal-attack.json) |
@@ -8884,6 +8887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon 3: The Rosetta Stone | 281520 | [281520-double-dragon-3-the-rosetta-stone.json](./281520-double-dragon-3-the-rosetta-stone.json) |
 | Double Dragon Advance | 6384 | [6384-double-dragon-advance.json](./6384-double-dragon-advance.json) |
 | Double Dragon Dodgeball | 374779 | [374779-double-dragon-dodgeball.json](./374779-double-dragon-dodgeball.json) |
+| Double Dragon II | 136134 | [136134-double-dragon-ii.json](./136134-double-dragon-ii.json) |
 | Double Dragon II SNES Port | 377224 | [377224-double-dragon-ii-snes-port.json](./377224-double-dragon-ii-snes-port.json) |
 | Double Dragon II: The Revenge | 281506 | [281506-double-dragon-ii-the-revenge.json](./281506-double-dragon-ii-the-revenge.json) |
 | Double Dragon II: The Revenge | 281507 | [281507-double-dragon-ii-the-revenge.json](./281507-double-dragon-ii-the-revenge.json) |
@@ -9460,6 +9464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Pack | 333616 | [333616-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-pack.json](./333616-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-pack.json) |
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Part 1 | 333617 | [333617-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-1.json](./333617-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-1.json) |
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Part 2 | 333618 | [333618-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-2.json](./333618-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-2.json) |
+| Dragon Ball Z: Kakarot - Deluxe Edition | 136138 | [136138-dragon-ball-z-kakarot-deluxe-edition.json](./136138-dragon-ball-z-kakarot-deluxe-edition.json) |
 | Dragon Ball Z: Kakarot - Deluxe Special Edition | 233944 | [233944-dragon-ball-z-kakarot-deluxe-special-edition.json](./233944-dragon-ball-z-kakarot-deluxe-special-edition.json) |
 | Dragon Ball Z: Kakarot - Dragon Ball Card Warriors | 142494 | [142494-dragon-ball-z-kakarot-dragon-ball-card-warriors.json](./142494-dragon-ball-z-kakarot-dragon-ball-card-warriors.json) |
 | Dragon Ball Z: Kakarot - Legendary Edition | 307893 | [307893-dragon-ball-z-kakarot-legendary-edition.json](./307893-dragon-ball-z-kakarot-legendary-edition.json) |
