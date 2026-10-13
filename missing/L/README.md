@@ -1825,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Allods | 326147 | [326147-legends-of-allods.json](./326147-legends-of-allods.json) |
 | Legends of Amberland II: The Song of Trees | 220604 | [220604-legends-of-amberland-ii-the-song-of-trees.json](./220604-legends-of-amberland-ii-the-song-of-trees.json) |
 | Legends of Amberland III: The Crimson Tower | 355038 | [355038-legends-of-amberland-iii-the-crimson-tower.json](./355038-legends-of-amberland-iii-the-crimson-tower.json) |
+| Legends of Andor | 174250 | [174250-legends-of-andor.json](./174250-legends-of-andor.json) |
 | Legends of Andor: The King's Secret | 114540 | [114540-legends-of-andor-the-kings-secret.json](./114540-legends-of-andor-the-kings-secret.json) |
 | Legends of Aria Eternal | 361910 | [361910-legends-of-aria-eternal.json](./361910-legends-of-aria-eternal.json) |
 | Legends of Aria: Classic | 298244 | [298244-legends-of-aria-classic.json](./298244-legends-of-aria-classic.json) |
