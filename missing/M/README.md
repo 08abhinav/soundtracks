@@ -1896,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana Chess | 195148 | [195148-mana-chess.json](./195148-mana-chess.json) |
 | Mana Cycle | 296970 | [296970-mana-cycle.json](./296970-mana-cycle.json) |
 | Mana Fortress | 244157 | [244157-mana-fortress.json](./244157-mana-fortress.json) |
+| Mana Gloom | 142175 | [142175-mana-gloom.json](./142175-mana-gloom.json) |
 | Mana Go Round | 167814 | [167814-mana-go-round.json](./167814-mana-go-round.json) |
 | Mana Khemia: Alchemists of Al-Revis | 20996 | [20996-mana-khemia-alchemists-of-al-revis.json](./20996-mana-khemia-alchemists-of-al-revis.json) |
 | Mana Khemia: Alchemists of Al-Revis - Premium Edition | 43308 | [43308-mana-khemia-alchemists-of-al-revis-premium-edition.json](./43308-mana-khemia-alchemists-of-al-revis-premium-edition.json) |
@@ -6632,6 +6633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Doom | 324011 | [324011-metroid-doom.json](./324011-metroid-doom.json) |
 | Metroid Dread | 15698 | [15698-metroid-dread.json](./15698-metroid-dread.json) |
 | Metroid Dread | 233651 | [233651-metroid-dread.json](./233651-metroid-dread.json) |
+| Metroid Dreadnought | 142221 | [142221-metroid-dreadnought.json](./142221-metroid-dreadnought.json) |
 | Metroid Ecliption | 324077 | [324077-metroid-ecliption.json](./324077-metroid-ecliption.json) |
 | Metroid Fool | 295024 | [295024-metroid-fool.json](./295024-metroid-fool.json) |
 | Metroid FreezeFlame | 255382 | [255382-metroid-freezeflame.json](./255382-metroid-freezeflame.json) |
@@ -8599,6 +8601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna no Sokoban | 121416 | [121416-minna-no-sokoban.json](./121416-minna-no-sokoban.json) |
 | Minna no Tabou no Nakayoshi Daisakusen | 48628 | [48628-minna-no-tabou-no-nakayoshi-daisakusen.json](./48628-minna-no-tabou-no-nakayoshi-daisakusen.json) |
 | Minna no Tetris | 218532 | [218532-minna-no-tetris.json](./218532-minna-no-tetris.json) |
+| Minna no Tsumeshougi Nyuomon-hen | 142215 | [142215-minna-no-tsumeshougi-nyuomon-hen.json](./142215-minna-no-tsumeshougi-nyuomon-hen.json) |
 | Minna no! Shougakusei aru aru Sagashi: Kokomo mo Otona mo Tanoshimeru Irasuto Quiz no Tore Game | 222232 | [222232-minna-no-shougakusei-aru-aru-sagashi-kokomo-mo-otona-mo-tanoshimeru-irasuto-quiz-no-tore-game.json](./222232-minna-no-shougakusei-aru-aru-sagashi-kokomo-mo-otona-mo-tanoshimeru-irasuto-quiz-no-tore-game.json) |
 | Minna to Capcom All-Stars | 80494 | [80494-minna-to-capcom-all-stars.json](./80494-minna-to-capcom-all-stars.json) |
 | Minnano Gensokyo Single | 369561 | [369561-minnano-gensokyo-single.json](./369561-minnano-gensokyo-single.json) |
@@ -9186,6 +9189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixtape Fever | 177004 | [177004-mixtape-fever.json](./177004-mixtape-fever.json) |
 | Mixups by POWGI | 118158 | [118158-mixups-by-powgi.json](./118158-mixups-by-powgi.json) |
 | Mixx Island | 169668 | [169668-mixx-island.json](./169668-mixx-island.json) |
+| Mixx Island: Remix | 142199 | [142199-mixx-island-remix.json](./142199-mixx-island-remix.json) |
 | Mixx Island: Remix Plus | 244820 | [244820-mixx-island-remix-plus.json](./244820-mixx-island-remix-plus.json) |
 | Mixx Island: Remix Plus - Amazing Edition | 290431 | [290431-mixx-island-remix-plus-amazing-edition.json](./290431-mixx-island-remix-plus-amazing-edition.json) |
 | Mixx Island: Remix Plus - Complete + | 324448 | [324448-mixx-island-remix-plus-complete.json](./324448-mixx-island-remix-plus-complete.json) |
