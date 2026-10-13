@@ -7746,6 +7746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Sol | 83159 | [83159-color-sol.json](./83159-color-sol.json) |
 | Color Soul: Memories | 124229 | [124229-color-soul-memories.json](./124229-color-soul-memories.json) |
 | Color Souls | 167604 | [167604-color-souls.json](./167604-color-souls.json) |
+| Color Space | 133735 | [133735-color-space.json](./133735-color-space.json) |
 | Color Spin | 96917 | [96917-color-spin.json](./96917-color-spin.json) |
 | Color Splash: Animals | 276677 | [276677-color-splash-animals.json](./276677-color-splash-animals.json) |
 | Color Splash: Birds | 264764 | [264764-color-splash-birds.json](./264764-color-splash-birds.json) |
@@ -12207,6 +12208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Story: Dawn of Dusk | 190972 | [190972-crystal-story-dawn-of-dusk.json](./190972-crystal-story-dawn-of-dusk.json) |
 | Crystal Story: The Hero and the Evil Witch | 133357 | [133357-crystal-story-the-hero-and-the-evil-witch.json](./133357-crystal-story-the-hero-and-the-evil-witch.json) |
 | Crystal Survivor | 297882 | [297882-crystal-survivor.json](./297882-crystal-survivor.json) |
+| Crystal the Witch | 133705 | [133705-crystal-the-witch.json](./133705-crystal-the-witch.json) |
 | Crystal Towers 2 XL | 46642 | [46642-crystal-towers-2-xl.json](./46642-crystal-towers-2-xl.json) |
 | Crystal Vale: Dino Escape | 387662 | [387662-crystal-vale-dino-escape.json](./387662-crystal-vale-dino-escape.json) |
 | Crystal Vein | 396000 | [396000-crystal-vein.json](./396000-crystal-vein.json) |
@@ -12931,6 +12933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursor*10 | 29042 | [29042-cursor-10.json](./29042-cursor-10.json) |
 | Cursorcana | 343240 | [343240-cursorcana.json](./343240-cursorcana.json) |
 | CursorLublub | 334207 | [334207-cursorlublub.json](./334207-cursorlublub.json) |
+| Cursors.io | 133703 | [133703-cursors-io.json](./133703-cursors-io.json) |
 | Curtain | 159075 | [159075-curtain.json](./159075-curtain.json) |
 | Curtain Call | 197133 | [197133-curtain-call.json](./197133-curtain-call.json) |
 | Curtain Call | 319673 | [319673-curtain-call.json](./319673-curtain-call.json) |
