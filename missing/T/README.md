@@ -4895,6 +4895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Clockwork Labyrinth | 166704 | [166704-the-clockwork-labyrinth.json](./166704-the-clockwork-labyrinth.json) |
 | The Clockwork Man 2 | 88744 | [88744-the-clockwork-man-2.json](./88744-the-clockwork-man-2.json) |
 | The Closed Circle | 226313 | [226313-the-closed-circle.json](./226313-the-closed-circle.json) |
+| The Closer: Game of the Year Edition | 141591 | [141591-the-closer-game-of-the-year-edition.json](./141591-the-closer-game-of-the-year-edition.json) |
 | The Closure | 249767 | [249767-the-closure.json](./249767-the-closure.json) |
 | The Clot Thickens | 156578 | [156578-the-clot-thickens.json](./156578-the-clot-thickens.json) |
 | The Clotted Island | 128591 | [128591-the-clotted-island.json](./128591-the-clotted-island.json) |
@@ -5660,6 +5661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dream Machine: Chapter 6 | 168833 | [168833-the-dream-machine-chapter-6.json](./168833-the-dream-machine-chapter-6.json) |
 | The Dream Machine: The Definitive Edition | 400858 | [400858-the-dream-machine-the-definitive-edition.json](./400858-the-dream-machine-the-definitive-edition.json) |
 | The Dream Observatory | 318148 | [318148-the-dream-observatory.json](./318148-the-dream-observatory.json) |
+| The Dream of Shadowlands | 142170 | [142170-the-dream-of-shadowlands.json](./142170-the-dream-of-shadowlands.json) |
 | The Dream of Shadowlands: Episode 2 | 174071 | [174071-the-dream-of-shadowlands-episode-2.json](./174071-the-dream-of-shadowlands-episode-2.json) |
 | The Dream of the Limbo | 298601 | [298601-the-dream-of-the-limbo.json](./298601-the-dream-of-the-limbo.json) |
 | The Dream Team | 196872 | [196872-the-dream-team.json](./196872-the-dream-team.json) |
@@ -8380,6 +8382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Link's Shadow | 269867 | [269867-the-legend-of-zelda-links-shadow.json](./269867-the-legend-of-zelda-links-shadow.json) |
 | The Legend of Zelda: Majora's Mask - Masked Quest | 172482 | [172482-the-legend-of-zelda-majoras-mask-masked-quest.json](./172482-the-legend-of-zelda-majoras-mask-masked-quest.json) |
 | The Legend of Zelda: Majora's Mask 3D | 8593 | [8593-the-legend-of-zelda-majoras-mask-3d.json](./8593-the-legend-of-zelda-majoras-mask-3d.json) |
+| The Legend of Zelda: Majora's Mask 3D - Special Edition | 141589 | [141589-the-legend-of-zelda-majoras-mask-3d-special-edition.json](./141589-the-legend-of-zelda-majoras-mask-3d-special-edition.json) |
 | The Legend of Zelda: Majora's Mask Randomizer | 241860 | [241860-the-legend-of-zelda-majoras-mask-randomizer.json](./241860-the-legend-of-zelda-majoras-mask-randomizer.json) |
 | The Legend of Zelda: Mask of the Gods | 323280 | [323280-the-legend-of-zelda-mask-of-the-gods.json](./323280-the-legend-of-zelda-mask-of-the-gods.json) |
 | The Legend of Zelda: Master of Time | 159195 | [159195-the-legend-of-zelda-master-of-time.json](./159195-the-legend-of-zelda-master-of-time.json) |
@@ -11040,6 +11043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sky House | 305341 | [305341-the-sky-house.json](./305341-the-sky-house.json) |
 | The Sky May Be | 252213 | [252213-the-sky-may-be.json](./252213-the-sky-may-be.json) |
 | The Sky Project: Land of Noris | 418547 | [418547-the-sky-project-land-of-noris.json](./418547-the-sky-project-land-of-noris.json) |
+| The Skylia Prophecy | 141585 | [141585-the-skylia-prophecy.json](./141585-the-skylia-prophecy.json) |
 | The Skyscraper and the Scar | 57477 | [57477-the-skyscraper-and-the-scar.json](./57477-the-skyscraper-and-the-scar.json) |
 | The Slasher Camp Massacre | 218738 | [218738-the-slasher-camp-massacre.json](./218738-the-slasher-camp-massacre.json) |
 | The Slater | 104815 | [104815-the-slater.json](./104815-the-slater.json) |
@@ -16613,6 +16617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomato Jones 2 | 28648 | [28648-tomato-jones-2.json](./28648-tomato-jones-2.json) |
 | Tomato Jones Adventures | 53819 | [53819-tomato-jones-adventures.json](./53819-tomato-jones-adventures.json) |
 | Tomato Way 2 | 104831 | [104831-tomato-way-2.json](./104831-tomato-way-2.json) |
+| Tomato Way 3 | 141563 | [141563-tomato-way-3.json](./141563-tomato-way-3.json) |
 | Tomato Worm | 181196 | [181196-tomato-worm.json](./181196-tomato-worm.json) |
 | Tomatomare | 146078 | [146078-tomatomare.json](./146078-tomatomare.json) |
 | Tomb Boom | 366232 | [366232-tomb-boom.json](./366232-tomb-boom.json) |
