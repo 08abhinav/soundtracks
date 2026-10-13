@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E-Shop Tycoon | 293624 | [293624-e-shop-tycoon.json](./293624-e-shop-tycoon.json) |
 | E-Tech Simulator | 308960 | [308960-e-tech-simulator.json](./308960-e-tech-simulator.json) |
 | E.B. | 129049 | [129049-e-b.json](./129049-e-b.json) |
+| E.E.R.I.E | 148838 | [148838-e-e-r-i-e.json](./148838-e-e-r-i-e.json) |
 | E.E.R.I.E2 | 221760 | [221760-e-e-r-i-e2.json](./221760-e-e-r-i-e2.json) |
 | E.R. Mania | 91748 | [91748-e-r-mania.json](./91748-e-r-mania.json) |
 | E.S.P. | 145658 | [145658-e-s-p.json](./145658-e-s-p.json) |
@@ -2443,9 +2444,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Sky | 128413 | [128413-endless-sky.json](./128413-endless-sky.json) |
 | Endless Snake | 401789 | [401789-endless-snake.json](./401789-endless-snake.json) |
 | Endless Soul Light Solitaire | 169867 | [169867-endless-soul-light-solitaire.json](./169867-endless-soul-light-solitaire.json) |
+| Endless Space 2: Celestial Worlds | 148837 | [148837-endless-space-2-celestial-worlds.json](./148837-endless-space-2-celestial-worlds.json) |
 | Endless Space 2: Deluxe Edition | 187986 | [187986-endless-space-2-deluxe-edition.json](./187986-endless-space-2-deluxe-edition.json) |
 | Endless Space 2: Harmonic Memories | 355694 | [355694-endless-space-2-harmonic-memories.json](./355694-endless-space-2-harmonic-memories.json) |
 | Endless Space 2: Lost Symphony | 355686 | [355686-endless-space-2-lost-symphony.json](./355686-endless-space-2-lost-symphony.json) |
+| Endless Space 2: Supremacy | 148835 | [148835-endless-space-2-supremacy.json](./148835-endless-space-2-supremacy.json) |
 | Endless Space 2: Vaulters | 82431 | [82431-endless-space-2-vaulters.json](./82431-endless-space-2-vaulters.json) |
 | Endless Space: Definitive Edition | 231650 | [231650-endless-space-definitive-edition.json](./231650-endless-space-definitive-edition.json) |
 | Endless Space: Emperor Edition | 28083 | [28083-endless-space-emperor-edition.json](./28083-endless-space-emperor-edition.json) |
