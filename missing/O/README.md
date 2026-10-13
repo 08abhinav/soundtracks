@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Jigsaw Puzzle - Work Environment | 89284 | [89284-office-jigsaw-puzzle-work-environment.json](./89284-office-jigsaw-puzzle-work-environment.json) |
 | Office Keeper | 412199 | [412199-office-keeper.json](./412199-office-keeper.json) |
 | Office Ladies | 411727 | [411727-office-ladies.json](./411727-office-ladies.json) |
+| Office Life | 154258 | [154258-office-life.json](./154258-office-life.json) |
 | Office Love Affair | 157708 | [157708-office-love-affair.json](./157708-office-love-affair.json) |
 | Office Madness 2: Corporation | 200026 | [200026-office-madness-2-corporation.json](./200026-office-madness-2-corporation.json) |
 | Office Management 101 | 60585 | [60585-office-management-101.json](./60585-office-management-101.json) |
@@ -3115,6 +3116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Ascent | 341520 | [341520-our-ascent.json](./341520-our-ascent.json) |
 | Our Bad Ending | 354487 | [354487-our-bad-ending.json](./354487-our-bad-ending.json) |
 | Our Baseball Club Manager Girl Was Framed in a Bunk Bed so I Banged Her | 83220 | [83220-our-baseball-club-manager-girl-was-framed-in-a-bunk-bed-so-i-banged-her.json](./83220-our-baseball-club-manager-girl-was-framed-in-a-bunk-bed-so-i-banged-her.json) |
+| Our Battle Has Just Begun! episode 1 | 154242 | [154242-our-battle-has-just-begun-episode-1.json](./154242-our-battle-has-just-begun-episode-1.json) |
 | Our Beautiful Earth | 154431 | [154431-our-beautiful-earth.json](./154431-our-beautiful-earth.json) |
 | Our Beautiful Earth 2 | 164887 | [164887-our-beautiful-earth-2.json](./164887-our-beautiful-earth-2.json) |
 | Our Beautiful Earth 3 | 294447 | [294447-our-beautiful-earth-3.json](./294447-our-beautiful-earth-3.json) |
@@ -3706,6 +3708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overlook: Local multiplayer game up to 16 players | 78112 | [78112-overlook-local-multiplayer-game-up-to-16-players.json](./78112-overlook-local-multiplayer-game-up-to-16-players.json) |
 | Overloop | 75025 | [75025-overloop.json](./75025-overloop.json) |
 | Overlooting | 334898 | [334898-overlooting.json](./334898-overlooting.json) |
+| Overlord | 154250 | [154250-overlord.json](./154250-overlord.json) |
 | Overlord | 341528 | [341528-overlord.json](./341528-overlord.json) |
 | Overlord | 44 | [44-overlord.json](./44-overlord.json) |
 | Overlord: Dark Legend | 47 | [47-overlord-dark-legend.json](./47-overlord-dark-legend.json) |
