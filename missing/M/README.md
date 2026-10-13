@@ -8273,6 +8273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Motor Racing X | 197623 | [197623-mini-motor-racing-x.json](./197623-mini-motor-racing-x.json) |
 | Mini Motor Racing X: Digital Deluxe Edition | 132167 | [132167-mini-motor-racing-x-digital-deluxe-edition.json](./132167-mini-motor-racing-x-digital-deluxe-edition.json) |
 | Mini Motorways: Creative Mode | 347897 | [347897-mini-motorways-creative-mode.json](./347897-mini-motorways-creative-mode.json) |
+| Mini Moves: Among Stars | 160064 | [160064-mini-moves-among-stars.json](./160064-mini-moves-among-stars.json) |
 | Mini Murder Mysteries | 405019 | [405019-mini-murder-mysteries.json](./405019-mini-murder-mysteries.json) |
 | Mini Ninjas Adventures | 20234 | [20234-mini-ninjas-adventures.json](./20234-mini-ninjas-adventures.json) |
 | Mini Party | 83857 | [83857-mini-party.json](./83857-mini-party.json) |
@@ -8601,6 +8602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Chou Party Plus: Sanae to Tenshi no Gensou Labyrinth | 206955 | [206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json](./206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json) |
 | Miracle Chou Party: Sanae to Tenshi no Gensou Labyrinth | 206944 | [206944-miracle-chou-party-sanae-to-tenshi-no-gensou-labyrinth.json](./206944-miracle-chou-party-sanae-to-tenshi-no-gensou-labyrinth.json) |
 | Miracle Circus | 110365 | [110365-miracle-circus.json](./110365-miracle-circus.json) |
+| Miracle Field | 160092 | [160092-miracle-field.json](./160092-miracle-field.json) |
 | Miracle Girls Festival | 13658 | [13658-miracle-girls-festival.json](./13658-miracle-girls-festival.json) |
 | Miracle Girls Festival | 86426 | [86426-miracle-girls-festival.json](./86426-miracle-girls-festival.json) |
 | Miracle Heroes: Temporal Bounty Hunter | 338705 | [338705-miracle-heroes-temporal-bounty-hunter.json](./338705-miracle-heroes-temporal-bounty-hunter.json) |
@@ -13051,6 +13053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Company and I Fell Into an RPG | 132217 | [132217-my-company-and-i-fell-into-an-rpg.json](./132217-my-company-and-i-fell-into-an-rpg.json) |
 | My Confounding Cat is Criminally Cute! | 284911 | [284911-my-confounding-cat-is-criminally-cute.json](./284911-my-confounding-cat-is-criminally-cute.json) |
 | My Cool Diner | 200150 | [200150-my-cool-diner.json](./200150-my-cool-diner.json) |
+| My Cousin the Rogue | 160062 | [160062-my-cousin-the-rogue.json](./160062-my-cousin-the-rogue.json) |
 | My Coworkers Are Made Of Static | 401490 | [401490-my-coworkers-are-made-of-static.json](./401490-my-coworkers-are-made-of-static.json) |
 | My Cozy Aquarium | 373615 | [373615-my-cozy-aquarium.json](./373615-my-cozy-aquarium.json) |
 | My Cozy Home | 258936 | [258936-my-cozy-home.json](./258936-my-cozy-home.json) |
@@ -13789,6 +13792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Virtual Tutor: Reading Kindergarten to First Grade | 67665 | [67665-my-virtual-tutor-reading-kindergarten-to-first-grade.json](./67665-my-virtual-tutor-reading-kindergarten-to-first-grade.json) |
 | My Virtual Tutor: Reading Pre-K to Kindergarten | 67664 | [67664-my-virtual-tutor-reading-pre-k-to-kindergarten.json](./67664-my-virtual-tutor-reading-pre-k-to-kindergarten.json) |
 | My Vow to My Liege | 122157 | [122157-my-vow-to-my-liege.json](./122157-my-vow-to-my-liege.json) |
+| My waifu guild | 160061 | [160061-my-waifu-guild.json](./160061-my-waifu-guild.json) |
 | My Waifu Is A Tank Girl! | 391043 | [391043-my-waifu-is-a-tank-girl.json](./391043-my-waifu-is-a-tank-girl.json) |
 | My Way VR | 75406 | [75406-my-way-vr.json](./75406-my-way-vr.json) |
 | My Wedding and 7 Rings | 238423 | [238423-my-wedding-and-7-rings.json](./238423-my-wedding-and-7-rings.json) |
