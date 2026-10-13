@@ -1481,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FantaVision | 376693 | [376693-fantavision.json](./376693-fantavision.json) |
 | Fantavision 202X | 229133 | [229133-fantavision-202x.json](./229133-fantavision-202x.json) |
 | Fanterra: A Fantasy Farming Adventure | 383712 | [383712-fanterra-a-fantasy-farming-adventure.json](./383712-fanterra-a-fantasy-farming-adventure.json) |
+| Fantoccini | 148281 | [148281-fantoccini.json](./148281-fantoccini.json) |
 | Fantom Feast | 112928 | [112928-fantom-feast.json](./112928-fantom-feast.json) |
 | Fantomas | 313250 | [313250-fantomas.json](./313250-fantomas.json) |
 | FantômeRapport: Intermezzo | 406101 | [406101-fantomerapport-intermezzo.json](./406101-fantomerapport-intermezzo.json) |
@@ -3050,6 +3051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Edition | 54913 | [54913-fighting-edition.json](./54913-fighting-edition.json) |
 | Fighting EX Layer | 41828 | [41828-fighting-ex-layer.json](./41828-fighting-ex-layer.json) |
 | Fighting Ex Layer -a | 125333 | [125333-fighting-ex-layer-a.json](./125333-fighting-ex-layer-a.json) |
+| Fighting Ex Layer Another Dash | 148285 | [148285-fighting-ex-layer-another-dash.json](./148285-fighting-ex-layer-another-dash.json) |
 | Fighting EX Layer: Character - Terry | 224472 | [224472-fighting-ex-layer-character-terry.json](./224472-fighting-ex-layer-character-terry.json) |
 | Fighting Eyes | 45307 | [45307-fighting-eyes.json](./45307-fighting-eyes.json) |
 | Fighting Fantasy Classics | 102159 | [102159-fighting-fantasy-classics.json](./102159-fighting-fantasy-classics.json) |
@@ -6457,6 +6459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Fears | 312734 | [312734-forgotten-fears.json](./312734-forgotten-fears.json) |
 | Forgotten Fluff | 406748 | [406748-forgotten-fluff.json](./406748-forgotten-fluff.json) |
 | Forgotten Forest: Afterlife | 58301 | [58301-forgotten-forest-afterlife.json](./58301-forgotten-forest-afterlife.json) |
+| Forgotten Forest: Eye of the Great One | 148314 | [148314-forgotten-forest-eye-of-the-great-one.json](./148314-forgotten-forest-eye-of-the-great-one.json) |
 | Forgotten Fragments | 156059 | [156059-forgotten-fragments.json](./156059-forgotten-fragments.json) |
 | Forgotten Gifts | 114349 | [114349-forgotten-gifts.json](./114349-forgotten-gifts.json) |
 | Forgotten Heroes | 31858 | [31858-forgotten-heroes.json](./31858-forgotten-heroes.json) |
@@ -7576,6 +7579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freecell Battle King | 114907 | [114907-freecell-battle-king.json](./114907-freecell-battle-king.json) |
 | FreeCell Solitaire - Classic Deck Card Games | 88365 | [88365-freecell-solitaire-classic-deck-card-games.json](./88365-freecell-solitaire-classic-deck-card-games.json) |
 | FreeCell Solitaire Classic Card Game | 340247 | [340247-freecell-solitaire-classic-card-game.json](./340247-freecell-solitaire-classic-card-game.json) |
+| FreeCell Solitaire Collection | 148324 | [148324-freecell-solitaire-collection.json](./148324-freecell-solitaire-collection.json) |
 | FreeCell X | 100993 | [100993-freecell-x.json](./100993-freecell-x.json) |
 | FreeCraft Survival Pocket Edition | 338777 | [338777-freecraft-survival-pocket-edition.json](./338777-freecraft-survival-pocket-edition.json) |
 | Freed Software | 220024 | [220024-freed-software.json](./220024-freed-software.json) |
