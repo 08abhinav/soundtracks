@@ -3366,6 +3366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pewt 'em Up! | 203561 | [203561-pewt-em-up.json](./203561-pewt-em-up.json) |
 | Peyton's Post-Op Visits | 183908 | [183908-peytons-post-op-visits.json](./183908-peytons-post-op-visits.json) |
 | Pferd & Pony - Mein Pferdehof | 125959 | [125959-pferd-and-pony-mein-pferdehof.json](./125959-pferd-and-pony-mein-pferdehof.json) |
+| Pferd & Pony: Mein Pferdehof & Lass uns Reiten 2 | 137895 | [137895-pferd-and-pony-mein-pferdehof-and-lass-uns-reiten-2.json](./137895-pferd-and-pony-mein-pferdehof-and-lass-uns-reiten-2.json) |
 | Pferdefreunde Puzzle: Echter Puzzlespass für Unterwegs | 252664 | [252664-pferdefreunde-puzzle-echter-puzzlespass-fur-unterwegs.json](./252664-pferdefreunde-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | PGA Championship Golf 1999 Edition | 830 | [830-pga-championship-golf-1999-edition.json](./830-pga-championship-golf-1999-edition.json) |
 | PGA Championship Golf 2000 | 831 | [831-pga-championship-golf-2000.json](./831-pga-championship-golf-2000.json) |
@@ -11106,7 +11107,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psyvariar 2: The Will to Fabricate | 5993 | [5993-psyvariar-2-the-will-to-fabricate.json](./5993-psyvariar-2-the-will-to-fabricate.json) |
 | Psyvariar 2: Ultimate Final | 43346 | [43346-psyvariar-2-ultimate-final.json](./43346-psyvariar-2-ultimate-final.json) |
 | Psyvariar 3 | 379262 | [379262-psyvariar-3.json](./379262-psyvariar-3.json) |
+| Psyvariar Reassemble | 137921 | [137921-psyvariar-reassemble.json](./137921-psyvariar-reassemble.json) |
 | Psyvariar: Complete Edition | 43351 | [43351-psyvariar-complete-edition.json](./43351-psyvariar-complete-edition.json) |
+| Psyvariar: Medium Unit | 137925 | [137925-psyvariar-medium-unit.json](./137925-psyvariar-medium-unit.json) |
 | PT Boats: South Gambit | 15770 | [15770-pt-boats-south-gambit.json](./15770-pt-boats-south-gambit.json) |
 | PT-109 | 71181 | [71181-pt-109.json](./71181-pt-109.json) |
 | PTCS: A Post Traumatic Christmas Special | 312624 | [312624-ptcs-a-post-traumatic-christmas-special.json](./312624-ptcs-a-post-traumatic-christmas-special.json) |
