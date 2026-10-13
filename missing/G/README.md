@@ -2393,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Battle | 78319 | [78319-ghost-battle.json](./78319-ghost-battle.json) |
 | Ghost Beat | 170887 | [170887-ghost-beat.json](./170887-ghost-beat.json) |
 | Ghost Blade | 23442 | [23442-ghost-blade.json](./23442-ghost-blade.json) |
+| Ghost Blade HD: Limited Edition | 166279 | [166279-ghost-blade-hd-limited-edition.json](./166279-ghost-blade-hd-limited-edition.json) |
 | Ghost Blood | 391320 | [391320-ghost-blood.json](./391320-ghost-blood.json) |
 | Ghost Bros | 224236 | [224236-ghost-bros.json](./224236-ghost-bros.json) |
 | Ghost Buster 3D | 114937 | [114937-ghost-buster-3d.json](./114937-ghost-buster-3d.json) |
@@ -2547,6 +2548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Writer | 404946 | [404946-ghost-writer.json](./404946-ghost-writer.json) |
 | Ghost: Elisa Cameron | 146929 | [146929-ghost-elisa-cameron.json](./146929-ghost-elisa-cameron.json) |
 | Ghost? | 228987 | [228987-ghost.json](./228987-ghost.json) |
+| Ghost'n Brothers | 166301 | [166301-ghostn-brothers.json](./166301-ghostn-brothers.json) |
 | Ghost's Way | 180182 | [180182-ghosts-way.json](./180182-ghosts-way.json) |
 | Ghostbane | 286621 | [286621-ghostbane.json](./286621-ghostbane.json) |
 | GhostBlood | 71195 | [71195-ghostblood.json](./71195-ghostblood.json) |
@@ -4219,6 +4221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoldenShot | 275686 | [275686-goldenshot.json](./275686-goldenshot.json) |
 | Goldfish | 346226 | [346226-goldfish.json](./346226-goldfish.json) |
 | Goldfish Brain | 142952 | [142952-goldfish-brain.json](./142952-goldfish-brain.json) |
+| Goldfish Go-Karts | 166298 | [166298-goldfish-go-karts.json](./166298-goldfish-go-karts.json) |
 | Goldfish Pinball Blast | 107075 | [107075-goldfish-pinball-blast.json](./107075-goldfish-pinball-blast.json) |
 | GoldfishFlap | 172677 | [172677-goldfishflap.json](./172677-goldfishflap.json) |
 | Goldgräber Simulator | 136368 | [136368-goldgraber-simulator.json](./136368-goldgraber-simulator.json) |
