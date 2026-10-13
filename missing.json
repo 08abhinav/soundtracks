@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T05:48:58.771Z",
-  "total_missing": 204923,
+  "generated_at": "2026-10-13T06:04:29.218Z",
+  "total_missing": 204973,
   "games": [
     {
       "igdb_id": 191680,
@@ -31163,6 +31163,11 @@
       "file": "missing/A/344944-alien-attack.json"
     },
     {
+      "igdb_id": 167928,
+      "game_name": "Alien Attack: Zero",
+      "file": "missing/A/167928-alien-attack-zero.json"
+    },
+    {
       "igdb_id": 76198,
       "game_name": "Alien Bash",
       "file": "missing/A/76198-alien-bash.json"
@@ -43241,6 +43246,11 @@
       "igdb_id": 156668,
       "game_name": "Anime Wave Simulator",
       "file": "missing/A/156668-anime-wave-simulator.json"
+    },
+    {
+      "igdb_id": 167886,
+      "game_name": "Anime World",
+      "file": "missing/A/167886-anime-world.json"
     },
     {
       "igdb_id": 337089,
@@ -56898,6 +56908,11 @@
       "file": "missing/A/382787-aruma-ketera.json"
     },
     {
+      "igdb_id": 167889,
+      "game_name": "Aruna",
+      "file": "missing/A/167889-aruna.json"
+    },
+    {
       "igdb_id": 14787,
       "game_name": "Arvale",
       "file": "missing/A/14787-arvale.json"
@@ -63836,6 +63851,11 @@
       "igdb_id": 154542,
       "game_name": "Atomicrops: Deluxe Edition",
       "file": "missing/A/154542-atomicrops-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 167929,
+      "game_name": "Atomicrops: Invasive Species",
+      "file": "missing/A/167929-atomicrops-invasive-species.json"
     },
     {
       "igdb_id": 196051,
@@ -89411,6 +89431,11 @@
       "igdb_id": 236728,
       "game_name": "Benders of Moona",
       "file": "missing/B/236728-benders-of-moona.json"
+    },
+    {
+      "igdb_id": 167911,
+      "game_name": "Bending the Light",
+      "file": "missing/B/167911-bending-the-light.json"
     },
     {
       "igdb_id": 245981,
@@ -133598,6 +133623,11 @@
       "file": "missing/C/300425-capslock.json"
     },
     {
+      "igdb_id": 167907,
+      "game_name": "Capsule",
+      "file": "missing/C/167907-capsule.json"
+    },
+    {
       "igdb_id": 17487,
       "game_name": "Capsule",
       "file": "missing/C/17487-capsule.json"
@@ -138856,6 +138886,11 @@
       "igdb_id": 79838,
       "game_name": "Castle Explorer",
       "file": "missing/C/79838-castle-explorer.json"
+    },
+    {
+      "igdb_id": 167906,
+      "game_name": "Castle Explorer: Heroes and rings",
+      "file": "missing/C/167906-castle-explorer-heroes-and-rings.json"
     },
     {
       "igdb_id": 174172,
@@ -169008,9 +169043,19 @@
       "file": "missing/C/36628-command-modern-operations-chains-of-war.json"
     },
     {
+      "igdb_id": 167880,
+      "game_name": "Command: Modern Operations - Desert Storm",
+      "file": "missing/C/167880-command-modern-operations-desert-storm.json"
+    },
+    {
       "igdb_id": 219743,
       "game_name": "Command: Modern Operations - Falklands",
       "file": "missing/C/219743-command-modern-operations-falklands.json"
+    },
+    {
+      "igdb_id": 167879,
+      "game_name": "Command: Modern Operations - Kashmir Fire",
+      "file": "missing/C/167879-command-modern-operations-kashmir-fire.json"
     },
     {
       "igdb_id": 196083,
@@ -169041,6 +169086,16 @@
       "igdb_id": 167869,
       "game_name": "Command: Modern Operations Live - Aegean in Flames",
       "file": "missing/C/167869-command-modern-operations-live-aegean-in-flames.json"
+    },
+    {
+      "igdb_id": 167881,
+      "game_name": "Command: Modern Operations Live - Commonwealth Collision",
+      "file": "missing/C/167881-command-modern-operations-live-commonwealth-collision.json"
+    },
+    {
+      "igdb_id": 167882,
+      "game_name": "Command: Modern Operations Live - Korean Missile Crisis",
+      "file": "missing/C/167882-command-modern-operations-live-korean-missile-crisis.json"
     },
     {
       "igdb_id": 167867,
@@ -213413,6 +213468,11 @@
       "file": "missing/D/35914-deja-vu-ii-macventure-series.json"
     },
     {
+      "igdb_id": 167905,
+      "game_name": "Deja Vu: Collector's Edition",
+      "file": "missing/D/167905-deja-vu-collectors-edition.json"
+    },
+    {
       "igdb_id": 35913,
       "game_name": "Deja Vu: MacVenture Series",
       "file": "missing/D/35913-deja-vu-macventure-series.json"
@@ -233456,6 +233516,11 @@
       "igdb_id": 162412,
       "game_name": "Dominating the Skies",
       "file": "missing/D/162412-dominating-the-skies.json"
+    },
+    {
+      "igdb_id": 167914,
+      "game_name": "Domination",
+      "file": "missing/D/167914-domination.json"
     },
     {
       "igdb_id": 106010,
@@ -293398,6 +293463,11 @@
       "file": "missing/F/283287-fastest-finger-first-3-hint-quiz.json"
     },
     {
+      "igdb_id": 167922,
+      "game_name": "Fastest Hands in the Wasd",
+      "file": "missing/F/167922-fastest-hands-in-the-wasd.json"
+    },
+    {
       "igdb_id": 349895,
       "game_name": "FastFly",
       "file": "missing/F/349895-fastfly.json"
@@ -299106,6 +299176,11 @@
       "igdb_id": 163987,
       "game_name": "Fill and Cross: Trick or Treat",
       "file": "missing/F/163987-fill-and-cross-trick-or-treat.json"
+    },
+    {
+      "igdb_id": 167927,
+      "game_name": "Fill and Cross: Trick or Treat 2",
+      "file": "missing/F/167927-fill-and-cross-trick-or-treat-2.json"
     },
     {
       "igdb_id": 94877,
@@ -320416,6 +320491,21 @@
       "igdb_id": 99575,
       "game_name": "Freakshow: Anniversary",
       "file": "missing/F/99575-freakshow-anniversary.json"
+    },
+    {
+      "igdb_id": 167912,
+      "game_name": "Freakshow: Episode 1",
+      "file": "missing/F/167912-freakshow-episode-1.json"
+    },
+    {
+      "igdb_id": 167909,
+      "game_name": "Freakshow: Episode 2",
+      "file": "missing/F/167909-freakshow-episode-2.json"
+    },
+    {
+      "igdb_id": 167910,
+      "game_name": "Freakshow: Episode 3",
+      "file": "missing/F/167910-freakshow-episode-3.json"
     },
     {
       "igdb_id": 27711,
@@ -361386,6 +361476,11 @@
       "igdb_id": 281353,
       "game_name": "Grunn",
       "file": "missing/G/281353-grunn.json"
+    },
+    {
+      "igdb_id": 167915,
+      "game_name": "Grunnd",
+      "file": "missing/G/167915-grunnd.json"
     },
     {
       "igdb_id": 117398,
@@ -500533,6 +500628,11 @@
       "file": "missing/M/385595-maelstrom-the-battle-for-earth-begins-enhanced.json"
     },
     {
+      "igdb_id": 167908,
+      "game_name": "Maelstrom: Undertow Bundle",
+      "file": "missing/M/167908-maelstrom-undertow-bundle.json"
+    },
+    {
       "igdb_id": 163885,
       "game_name": "Maenhir",
       "file": "missing/M/163885-maenhir.json"
@@ -518756,6 +518856,11 @@
       "igdb_id": 146775,
       "game_name": "Maze with Cube",
       "file": "missing/M/146775-maze-with-cube.json"
+    },
+    {
+      "igdb_id": 167930,
+      "game_name": "Maze Workout: Lost Urban Exit Game - Trials 1",
+      "file": "missing/M/167930-maze-workout-lost-urban-exit-game-trials-1.json"
     },
     {
       "igdb_id": 394432,
@@ -553933,6 +554038,11 @@
       "file": "missing/M/409726-mortem.json"
     },
     {
+      "igdb_id": 167887,
+      "game_name": "Mortem: VR Edition",
+      "file": "missing/M/167887-mortem-vr-edition.json"
+    },
+    {
       "igdb_id": 177015,
       "game_name": "Morterra",
       "file": "missing/M/177015-morterra.json"
@@ -555451,6 +555561,11 @@
       "igdb_id": 168359,
       "game_name": "MotoGP 15: GP de Portugal Circuito Estoril",
       "file": "missing/M/168359-motogp-15-gp-de-portugal-circuito-estoril.json"
+    },
+    {
+      "igdb_id": 167923,
+      "game_name": "MotoGP 15: Red Bull Rookies Cup",
+      "file": "missing/M/167923-motogp-15-red-bull-rookies-cup.json"
     },
     {
       "igdb_id": 53366,
@@ -598513,9 +598628,19 @@
       "file": "missing/O/154480-offworld-trading-company-ceres-initiative.json"
     },
     {
+      "igdb_id": 167924,
+      "game_name": "Offworld Trading Company: Interdimensional",
+      "file": "missing/O/167924-offworld-trading-company-interdimensional.json"
+    },
+    {
       "igdb_id": 154477,
       "game_name": "Offworld Trading Company: Limited Supply",
       "file": "missing/O/154477-offworld-trading-company-limited-supply.json"
+    },
+    {
+      "igdb_id": 167925,
+      "game_name": "Offworld Trading Company: Market Corrections",
+      "file": "missing/O/167925-offworld-trading-company-market-corrections.json"
     },
     {
       "igdb_id": 154444,
@@ -598526,6 +598651,11 @@
       "igdb_id": 154479,
       "game_name": "Offworld Trading Company: Scenario Toolkit",
       "file": "missing/O/154479-offworld-trading-company-scenario-toolkit.json"
+    },
+    {
+      "igdb_id": 167926,
+      "game_name": "Offworld Trading Company: The Europa Wager Expansion",
+      "file": "missing/O/167926-offworld-trading-company-the-europa-wager-expansion.json"
     },
     {
       "igdb_id": 124817,
@@ -602403,6 +602533,21 @@
       "file": "missing/O/32931-one-day-in-london.json"
     },
     {
+      "igdb_id": 167884,
+      "game_name": "One Day in London: Chapter III",
+      "file": "missing/O/167884-one-day-in-london-chapter-iii.json"
+    },
+    {
+      "igdb_id": 167883,
+      "game_name": "One Day in London: Chapter IV",
+      "file": "missing/O/167883-one-day-in-london-chapter-iv.json"
+    },
+    {
+      "igdb_id": 167885,
+      "game_name": "One Day in London: Chapter V",
+      "file": "missing/O/167885-one-day-in-london-chapter-v.json"
+    },
+    {
       "igdb_id": 150535,
       "game_name": "One Day More",
       "file": "missing/O/150535-one-day-more.json"
@@ -604256,6 +604401,56 @@
       "igdb_id": 292054,
       "game_name": "OneBit Jetpack",
       "file": "missing/O/292054-onebit-jetpack.json"
+    },
+    {
+      "igdb_id": 167896,
+      "game_name": "Onechanbara Origin: Exclusive Aya Bonus Mission - Father Loses His Sanity",
+      "file": "missing/O/167896-onechanbara-origin-exclusive-aya-bonus-mission-father-loses-his-sanity.json"
+    },
+    {
+      "igdb_id": 167897,
+      "game_name": "Onechanbara Origin: Exclusive Aya Bonus Mission - Memories with Father",
+      "file": "missing/O/167897-onechanbara-origin-exclusive-aya-bonus-mission-memories-with-father.json"
+    },
+    {
+      "igdb_id": 167895,
+      "game_name": "Onechanbara Origin: Exclusive Lei Bonus Mission - Battle Experiment with 137",
+      "file": "missing/O/167895-onechanbara-origin-exclusive-lei-bonus-mission-battle-experiment-with-137.json"
+    },
+    {
+      "igdb_id": 167903,
+      "game_name": "Onechanbara Origin: Exclusive Lei Bonus Mission - Dear Saki",
+      "file": "missing/O/167903-onechanbara-origin-exclusive-lei-bonus-mission-dear-saki.json"
+    },
+    {
+      "igdb_id": 167902,
+      "game_name": "Onechanbara Origin: Exclusive Lei Bonus Mission - My Aya",
+      "file": "missing/O/167902-onechanbara-origin-exclusive-lei-bonus-mission-my-aya.json"
+    },
+    {
+      "igdb_id": 167900,
+      "game_name": "Onechanbara Origin: Exclusive Lei Bonus Mission - Poisoning Experiment No. 1",
+      "file": "missing/O/167900-onechanbara-origin-exclusive-lei-bonus-mission-poisoning-experiment-no-1.json"
+    },
+    {
+      "igdb_id": 167894,
+      "game_name": "Onechanbara Origin: Exclusive Lei Bonus Mission - Poisoning Experiment No. XX",
+      "file": "missing/O/167894-onechanbara-origin-exclusive-lei-bonus-mission-poisoning-experiment-no-xx.json"
+    },
+    {
+      "igdb_id": 167898,
+      "game_name": "Onechanbara Origin: Exclusive Lei Bonus Mission - The Destruction of Uroboros",
+      "file": "missing/O/167898-onechanbara-origin-exclusive-lei-bonus-mission-the-destruction-of-uroboros.json"
+    },
+    {
+      "igdb_id": 167901,
+      "game_name": "Onechanbara Origin: Exclusive Saki Bonus Mission - A Shitty Father",
+      "file": "missing/O/167901-onechanbara-origin-exclusive-saki-bonus-mission-a-shitty-father.json"
+    },
+    {
+      "igdb_id": 167899,
+      "game_name": "Onechanbara Origin: Exclusive Saki Bonus Mission - Fight to the Death",
+      "file": "missing/O/167899-onechanbara-origin-exclusive-saki-bonus-mission-fight-to-the-death.json"
     },
     {
       "igdb_id": 116359,
@@ -661893,6 +662088,11 @@
       "file": "missing/P/8215-prismata.json"
     },
     {
+      "igdb_id": 167920,
+      "game_name": "Prismata: Founder's Edition DLC",
+      "file": "missing/P/167920-prismata-founders-edition-dlc.json"
+    },
+    {
       "igdb_id": 66305,
       "game_name": "Prismatic Solid",
       "file": "missing/P/66305-prismatic-solid.json"
@@ -680351,6 +680551,11 @@
       "igdb_id": 120183,
       "game_name": "Race 07: Formula RaceRoom",
       "file": "missing/R/120183-race-07-formula-raceroom.json"
+    },
+    {
+      "igdb_id": 167904,
+      "game_name": "Race 07: GTR Evolution Expansion Pack",
+      "file": "missing/R/167904-race-07-gtr-evolution-expansion-pack.json"
     },
     {
       "igdb_id": 164387,
@@ -832778,6 +832983,11 @@
       "file": "missing/S/265134-survival-on-a-deserted-island.json"
     },
     {
+      "igdb_id": 167931,
+      "game_name": "Survival on Amazonia",
+      "file": "missing/S/167931-survival-on-amazonia.json"
+    },
+    {
       "igdb_id": 106126,
       "game_name": "Survival on Raft in the Ocean",
       "file": "missing/S/106126-survival-on-raft-in-the-ocean.json"
@@ -927078,6 +927288,26 @@
       "file": "missing/T/167086-toukiden-2-limited-edition.json"
     },
     {
+      "igdb_id": 167916,
+      "game_name": "Toukiden 2: Mission Collection Set 1",
+      "file": "missing/T/167916-toukiden-2-mission-collection-set-1.json"
+    },
+    {
+      "igdb_id": 167919,
+      "game_name": "Toukiden 2: Mission Collection Set 2",
+      "file": "missing/T/167919-toukiden-2-mission-collection-set-2.json"
+    },
+    {
+      "igdb_id": 167918,
+      "game_name": "Toukiden 2: Mission Collection Set 3",
+      "file": "missing/T/167918-toukiden-2-mission-collection-set-3.json"
+    },
+    {
+      "igdb_id": 167917,
+      "game_name": "Toukiden 2: Mission Collection Set 4",
+      "file": "missing/T/167917-toukiden-2-mission-collection-set-4.json"
+    },
+    {
       "igdb_id": 171916,
       "game_name": "Toukiden: Kiwami - Mission Collection 1-3",
       "file": "missing/T/171916-toukiden-kiwami-mission-collection-1-3.json"
@@ -1004998,6 +1005228,21 @@
       "file": "missing/W/136359-wwe-2k19-deluxe-edition.json"
     },
     {
+      "igdb_id": 167892,
+      "game_name": "WWE 2K19: New Moves",
+      "file": "missing/W/167892-wwe-2k19-new-moves.json"
+    },
+    {
+      "igdb_id": 167891,
+      "game_name": "WWE 2K19: Rey Mysterio & Ronda Rousey",
+      "file": "missing/W/167891-wwe-2k19-rey-mysterio-and-ronda-rousey.json"
+    },
+    {
+      "igdb_id": 167893,
+      "game_name": "WWE 2K19: Titans Pack",
+      "file": "missing/W/167893-wwe-2k19-titans-pack.json"
+    },
+    {
       "igdb_id": 121437,
       "game_name": "WWE 2K20: Deluxe Edition",
       "file": "missing/W/121437-wwe-2k20-deluxe-edition.json"
@@ -1024371,6 +1024616,11 @@
       "igdb_id": 105879,
       "game_name": "Zup! Zero 2",
       "file": "missing/Z/105879-zup-zero-2.json"
+    },
+    {
+      "igdb_id": 167890,
+      "game_name": "Zup! Zero: DLC",
+      "file": "missing/Z/167890-zup-zero-dlc.json"
     },
     {
       "igdb_id": 169712,
