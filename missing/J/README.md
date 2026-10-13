@@ -2133,6 +2133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Greed | 363563 | [363563-jump-greed.json](./363563-jump-greed.json) |
 | Jump Hero | 137956 | [137956-jump-hero.json](./137956-jump-hero.json) |
 | Jump Hero II: Jinsei wa Jabuun | 137620 | [137620-jump-hero-ii-jinsei-wa-jabuun.json](./137620-jump-hero-ii-jinsei-wa-jabuun.json) |
+| Jump Hero: Beginning | 166802 | [166802-jump-hero-beginning.json](./166802-jump-hero-beginning.json) |
 | Jump Heroes | 290726 | [290726-jump-heroes.json](./290726-jump-heroes.json) |
 | Jump If You Can! | 193227 | [193227-jump-if-you-can.json](./193227-jump-if-you-can.json) |
 | Jump into the Plane | 174703 | [174703-jump-into-the-plane.json](./174703-jump-into-the-plane.json) |
@@ -2228,6 +2229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumper, Jumpy Time Attack Adventure | 309367 | [309367-jumper-jumpy-time-attack-adventure.json](./309367-jumper-jumpy-time-attack-adventure.json) |
 | Jumper: Speedrun | 55253 | [55253-jumper-speedrun.json](./55253-jumper-speedrun.json) |
 | Jumper's Doom | 351634 | [351634-jumpers-doom.json](./351634-jumpers-doom.json) |
+| Jumperbird | 166839 | [166839-jumperbird.json](./166839-jumperbird.json) |
 | Jumpers League | 329960 | [329960-jumpers-league.json](./329960-jumpers-league.json) |
 | JumpFall.io | 327943 | [327943-jumpfall-io.json](./327943-jumpfall-io.json) |
 | JumpFist | 59223 | [59223-jumpfist.json](./59223-jumpfist.json) |
