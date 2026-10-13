@@ -1751,6 +1751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scapefall | 238932 | [238932-scapefall.json](./238932-scapefall.json) |
 | Scapeghost | 12208 | [12208-scapeghost.json](./12208-scapeghost.json) |
 | Scapeland | 33493 | [33493-scapeland.json](./33493-scapeland.json) |
+| Scaper Dash | 147232 | [147232-scaper-dash.json](./147232-scaper-dash.json) |
 | Scapevale | 130669 | [130669-scapevale.json](./130669-scapevale.json) |
 | Scapewatch | 401089 | [401089-scapewatch.json](./401089-scapewatch.json) |
 | Scapular | 400285 | [400285-scapular.json](./400285-scapular.json) |
@@ -2333,6 +2334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scramble of the Far East | 364555 | [364555-scramble-of-the-far-east.json](./364555-scramble-of-the-far-east.json) |
 | Scramble Spirits | 12847 | [12847-scramble-spirits.json](./12847-scramble-spirits.json) |
 | Scramble Up! | 324316 | [324316-scramble-up.json](./324316-scramble-up.json) |
+| Scramble: Battle of Britain | 147188 | [147188-scramble-battle-of-britain.json](./147188-scramble-battle-of-britain.json) |
 | Scrambled | 58163 | [58163-scrambled.json](./58163-scrambled.json) |
 | Scrambled Egg | 40198 | [40198-scrambled-egg.json](./40198-scrambled-egg.json) |
 | Scrambled: Syd City | 178896 | [178896-scrambled-syd-city.json](./178896-scrambled-syd-city.json) |
@@ -5414,6 +5416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Devil Children - Koori no Sho | 92475 | [92475-shin-megami-tensei-devil-children-koori-no-sho.json](./92475-shin-megami-tensei-devil-children-koori-no-sho.json) |
 | Shin Megami Tensei: Devil Children - Puzzle de Call! | 49821 | [49821-shin-megami-tensei-devil-children-puzzle-de-call.json](./49821-shin-megami-tensei-devil-children-puzzle-de-call.json) |
 | Shin Megami Tensei: Devil Children - Shiro no Sho | 71717 | [71717-shin-megami-tensei-devil-children-shiro-no-sho.json](./71717-shin-megami-tensei-devil-children-shiro-no-sho.json) |
+| Shin Megami Tensei: Devil Collection | 147169 | [147169-shin-megami-tensei-devil-collection.json](./147169-shin-megami-tensei-devil-collection.json) |
 | Shin Megami Tensei: Devil Hunter Zero | 139762 | [139762-shin-megami-tensei-devil-hunter-zero.json](./139762-shin-megami-tensei-devil-hunter-zero.json) |
 | Shin Megami Tensei: Devil Summoner | 357453 | [357453-shin-megami-tensei-devil-summoner.json](./357453-shin-megami-tensei-devil-summoner.json) |
 | Shin Megami Tensei: Devil Summoner - Soul Hackers | 281414 | [281414-shin-megami-tensei-devil-summoner-soul-hackers.json](./281414-shin-megami-tensei-devil-summoner-soul-hackers.json) |
@@ -5984,6 +5987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shootout Pool | 317528 | [317528-shootout-pool.json](./317528-shootout-pool.json) |
 | Shootout! | 109450 | [109450-shootout.json](./109450-shootout.json) |
 | Shootout! : World Edition | 90897 | [90897-shootout-world-edition.json](./90897-shootout-world-edition.json) |
+| ShootOut(SystemD) | 147209 | [147209-shootout-systemd.json](./147209-shootout-systemd.json) |
 | ShootRun | 156888 | [156888-shootrun.json](./156888-shootrun.json) |
 | Shoottris: Beyond the Classic Game | 110508 | [110508-shoottris-beyond-the-classic-game.json](./110508-shoottris-beyond-the-classic-game.json) |
 | Shootvaders: The Beginning | 190945 | [190945-shootvaders-the-beginning.json](./190945-shootvaders-the-beginning.json) |
@@ -14542,6 +14546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spline: Part One | 392898 | [392898-spline-part-one.json](./392898-spline-part-one.json) |
 | Splink | 380646 | [380646-splink.json](./380646-splink.json) |
 | Splinter | 138691 | [138691-splinter.json](./138691-splinter.json) |
+| Splinter Cell Double Agent + Rainbow Six Vegas | 147230 | [147230-splinter-cell-double-agent-rainbow-six-vegas.json](./147230-splinter-cell-double-agent-rainbow-six-vegas.json) |
 | Splinter Cell: Blacklist Spider-Bot | 344900 | [344900-splinter-cell-blacklist-spider-bot.json](./344900-splinter-cell-blacklist-spider-bot.json) |
 | Splinter Zone | 28867 | [28867-splinter-zone.json](./28867-splinter-zone.json) |
 | Splintered | 319206 | [319206-splintered.json](./319206-splintered.json) |
@@ -18828,6 +18833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunt Drifters | 124604 | [124604-stunt-drifters.json](./124604-stunt-drifters.json) |
 | Stunt Driver Collection | 328478 | [328478-stunt-driver-collection.json](./328478-stunt-driver-collection.json) |
 | Stunt Flyer | 66617 | [66617-stunt-flyer.json](./66617-stunt-flyer.json) |
+| Stunt Flyer: Hero of the Skies | 147193 | [147193-stunt-flyer-hero-of-the-skies.json](./147193-stunt-flyer-hero-of-the-skies.json) |
 | Stunt Hill | 90194 | [90194-stunt-hill.json](./90194-stunt-hill.json) |
 | Stunt Island | 50113 | [50113-stunt-island.json](./50113-stunt-island.json) |
 | Stunt Kids | 48235 | [48235-stunt-kids.json](./48235-stunt-kids.json) |
@@ -22405,6 +22411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Gladiator: Blades of the Coliseum | 322978 | [322978-survival-gladiator-blades-of-the-coliseum.json](./322978-survival-gladiator-blades-of-the-coliseum.json) |
 | Survival Hell | 110514 | [110514-survival-hell.json](./110514-survival-hell.json) |
 | Survival Hold Your Self | 342077 | [342077-survival-hold-your-self.json](./342077-survival-hold-your-self.json) |
+| Survival Horror #8,436 | 147205 | [147205-survival-horror-8-436.json](./147205-survival-horror-8-436.json) |
 | Survival in Draconia | 309468 | [309468-survival-in-draconia.json](./309468-survival-in-draconia.json) |
 | Survival in Three Kingdoms | 115803 | [115803-survival-in-three-kingdoms.json](./115803-survival-in-three-kingdoms.json) |
 | Survival Island | 201672 | [201672-survival-island.json](./201672-survival-island.json) |
