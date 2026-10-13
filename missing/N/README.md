@@ -1324,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Bento 2 | 362206 | [362206-neko-bento-2.json](./362206-neko-bento-2.json) |
 | Neko Café Stories | 369697 | [369697-neko-cafe-stories.json](./369697-neko-cafe-stories.json) |
 | Neko Candy Shop | 169143 | [169143-neko-candy-shop.json](./169143-neko-candy-shop.json) |
+| Neko Chan | 161596 | [161596-neko-chan.json](./161596-neko-chan.json) |
 | Neko Cosmo Police | 209482 | [209482-neko-cosmo-police.json](./209482-neko-cosmo-police.json) |
 | Neko Dai Suki! | 45257 | [45257-neko-dai-suki.json](./45257-neko-dai-suki.json) |
 | Neko Daisuki! | 19668 | [19668-neko-daisuki.json](./19668-neko-daisuki.json) |
@@ -2826,6 +2827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of Full Moon: Ghost | 220738 | [220738-night-of-full-moon-ghost.json](./220738-night-of-full-moon-ghost.json) |
 | Night of Full Moon: Little Pig Monster - Crossover | 269233 | [269233-night-of-full-moon-little-pig-monster-crossover.json](./269233-night-of-full-moon-little-pig-monster-crossover.json) |
 | Night of Full Moon: Magic Curtain | 170464 | [170464-night-of-full-moon-magic-curtain.json](./170464-night-of-full-moon-magic-curtain.json) |
+| Night of Full Moon: Memory Puzzle | 163523 | [163523-night-of-full-moon-memory-puzzle.json](./163523-night-of-full-moon-memory-puzzle.json) |
 | Night of Full Moon: The Red Hood Diary | 170460 | [170460-night-of-full-moon-the-red-hood-diary.json](./170460-night-of-full-moon-the-red-hood-diary.json) |
 | Night of Full Moon: Witcher - Mirror | 269234 | [269234-night-of-full-moon-witcher-mirror.json](./269234-night-of-full-moon-witcher-mirror.json) |
 | Night of Horror | 247222 | [247222-night-of-horror.json](./247222-night-of-horror.json) |
@@ -3956,6 +3958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No-Go | 202195 | [202195-no-go.json](./202195-no-go.json) |
 | No-Hi | 311204 | [311204-no-hi.json](./311204-no-hi.json) |
 | No-Snake Hotel | 198375 | [198375-no-snake-hotel.json](./198375-no-snake-hotel.json) |
+| No-Zero | 161585 | [161585-no-zero.json](./161585-no-zero.json) |
 | No, Birdie, No! | 128640 | [128640-no-birdie-no.json](./128640-no-birdie-no.json) |
 | No, Human | 93503 | [93503-no-human.json](./93503-no-human.json) |
 | No, I'm not a Voenkom | 377757 | [377757-no-im-not-a-voenkom.json](./377757-no-im-not-a-voenkom.json) |
