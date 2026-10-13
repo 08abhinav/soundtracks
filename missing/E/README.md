@@ -1927,6 +1927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency Crew 2: Global Warming | 235894 | [235894-emergency-crew-2-global-warming.json](./235894-emergency-crew-2-global-warming.json) |
 | Emergency Crew 3: Perfect Getaway - Collector's Edition | 256732 | [256732-emergency-crew-3-perfect-getaway-collectors-edition.json](./256732-emergency-crew-3-perfect-getaway-collectors-edition.json) |
 | Emergency Crew 4: Call of the Ancestors | 360663 | [360663-emergency-crew-4-call-of-the-ancestors.json](./360663-emergency-crew-4-call-of-the-ancestors.json) |
+| Emergency Crew: Volcano Eruption | 165751 | [165751-emergency-crew-volcano-eruption.json](./165751-emergency-crew-volcano-eruption.json) |
 | Emergency Exit | 329160 | [329160-emergency-exit.json](./329160-emergency-exit.json) |
 | Emergency Fire Helicopter Simulator 3D | 108451 | [108451-emergency-fire-helicopter-simulator-3d.json](./108451-emergency-fire-helicopter-simulator-3d.json) |
 | Emergency Fire Response | 22633 | [22633-emergency-fire-response.json](./22633-emergency-fire-response.json) |
@@ -3591,6 +3592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Void | 183920 | [183920-escape-the-void.json](./183920-escape-the-void.json) |
 | Escape the Void | 296681 | [296681-escape-the-void.json](./296681-escape-the-void.json) |
 | Escape The Void | 302196 | [302196-escape-the-void.json](./302196-escape-the-void.json) |
+| Escape This Big Maze! | 165746 | [165746-escape-this-big-maze.json](./165746-escape-this-big-maze.json) |
 | Escape to Hell | 179517 | [179517-escape-to-hell.json](./179517-escape-to-hell.json) |
 | Escape to Mars | 159707 | [159707-escape-to-mars.json](./159707-escape-to-mars.json) |
 | Escape to Moscow 2 | 355150 | [355150-escape-to-moscow-2.json](./355150-escape-to-moscow-2.json) |
@@ -4532,6 +4534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Girls Party! | 265213 | [265213-evil-girls-party.json](./265213-evil-girls-party.json) |
 | Evil Glitch | 28803 | [28803-evil-glitch.json](./28803-evil-glitch.json) |
 | Evil God Korone | 179934 | [179934-evil-god-korone.json](./179934-evil-god-korone.json) |
+| Evil God Land | 165734 | [165734-evil-god-land.json](./165734-evil-god-land.json) |
 | Evil Hand | 176435 | [176435-evil-hand.json](./176435-evil-hand.json) |
 | Evil Holiday | 287193 | [287193-evil-holiday.json](./287193-evil-holiday.json) |
 | Evil Hunter Tycoon | 197357 | [197357-evil-hunter-tycoon.json](./197357-evil-hunter-tycoon.json) |
