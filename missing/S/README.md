@@ -1832,6 +1832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarred Stars | 154985 | [154985-scarred-stars.json](./154985-scarred-stars.json) |
 | Scarred Steel | 374780 | [374780-scarred-steel.json](./374780-scarred-steel.json) |
 | Scarry Village | 301995 | [301995-scarry-village.json](./301995-scarry-village.json) |
+| Scars of Honor | 133695 | [133695-scars-of-honor.json](./133695-scars-of-honor.json) |
 | Scars of Mars | 267687 | [267687-scars-of-mars.json](./267687-scars-of-mars.json) |
 | Scars of Summer | 169438 | [169438-scars-of-summer.json](./169438-scars-of-summer.json) |
 | Scars of Summer: After | 381696 | [381696-scars-of-summer-after.json](./381696-scars-of-summer-after.json) |
@@ -2170,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scopecreep | 370891 | [370891-scopecreep.json](./370891-scopecreep.json) |
 | Scopic | 132865 | [132865-scopic.json](./132865-scopic.json) |
 | Scopophobia | 361678 | [361678-scopophobia.json](./361678-scopophobia.json) |
+| Scopus | 133723 | [133723-scopus.json](./133723-scopus.json) |
 | Scorb VR | 75082 | [75082-scorb-vr.json](./75082-scorb-vr.json) |
 | Scorch | 30137 | [30137-scorch.json](./30137-scorch.json) |
 | Scorched 3D | 51249 | [51249-scorched-3d.json](./51249-scorched-3d.json) |
@@ -4642,6 +4644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of the Past | 364647 | [364647-shadows-of-the-past.json](./364647-shadows-of-the-past.json) |
 | Shadows of the Past | 365752 | [365752-shadows-of-the-past.json](./365752-shadows-of-the-past.json) |
 | Shadows of the Tusk | 66118 | [66118-shadows-of-the-tusk.json](./66118-shadows-of-the-tusk.json) |
+| Shadows of the Void | 133720 | [133720-shadows-of-the-void.json](./133720-shadows-of-the-void.json) |
 | Shadows of the Werewolf | 315060 | [315060-shadows-of-the-werewolf.json](./315060-shadows-of-the-werewolf.json) |
 | Shadows of Thornkeep | 374073 | [374073-shadows-of-thornkeep.json](./374073-shadows-of-thornkeep.json) |
 | Shadows of War | 35998 | [35998-shadows-of-war.json](./35998-shadows-of-war.json) |
