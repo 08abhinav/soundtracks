@@ -699,6 +699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Simple Square | 236226 | [236226-a-simple-square.json](./236226-a-simple-square.json) |
 | A Simple Survey | 176752 | [176752-a-simple-survey.json](./176752-a-simple-survey.json) |
 | A Sirius Game | 34694 | [34694-a-sirius-game.json](./34694-a-sirius-game.json) |
+| A Sketchbook About Her Sun | 152682 | [152682-a-sketchbook-about-her-sun.json](./152682-a-sketchbook-about-her-sun.json) |
 | A Skier's Journey | 180504 | [180504-a-skiers-journey.json](./180504-a-skiers-journey.json) |
 | A Sky Full of Stars Interstellar Focus | 150590 | [150590-a-sky-full-of-stars-interstellar-focus.json](./150590-a-sky-full-of-stars-interstellar-focus.json) |
 | A Skyrocket Story | 58800 | [58800-a-skyrocket-story.json](./58800-a-skyrocket-story.json) |
@@ -1698,6 +1699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aconitum | 379468 | [379468-aconitum.json](./379468-aconitum.json) |
 | Acorn Assault: Rodent Revolution | 21991 | [21991-acorn-assault-rodent-revolution.json](./21991-acorn-assault-rodent-revolution.json) |
 | Acorn Avengers | 407281 | [407281-acorn-avengers.json](./407281-acorn-avengers.json) |
+| Acorn City: Tropical! | 152675 | [152675-acorn-city-tropical.json](./152675-acorn-city-tropical.json) |
 | Acorn Hunt | 293078 | [293078-acorn-hunt.json](./293078-acorn-hunt.json) |
 | Acorn Tactics | 76573 | [76573-acorn-tactics.json](./76573-acorn-tactics.json) |
 | Acorn-A-Thon | 307328 | [307328-acorn-a-thon.json](./307328-acorn-a-thon.json) |
@@ -7560,6 +7562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarium Land: Complete Edition | 273299 | [273299-aquarium-land-complete-edition.json](./273299-aquarium-land-complete-edition.json) |
 | Aquarium Land: Platinum Edition | 385193 | [385193-aquarium-land-platinum-edition.json](./385193-aquarium-land-platinum-edition.json) |
 | Aquarium Shop | 146919 | [146919-aquarium-shop.json](./146919-aquarium-shop.json) |
+| Aquarium Travels | 152642 | [152642-aquarium-travels.json](./152642-aquarium-travels.json) |
 | Aquarius | 299557 | [299557-aquarius.json](./299557-aquarius.json) |
 | Aquarius Baseball: Genkai no, Sono Saki e. | 268110 | [268110-aquarius-baseball-genkai-no-sono-saki-e.json](./268110-aquarius-baseball-genkai-no-sono-saki-e.json) |
 | Aquascapes | 144353 | [144353-aquascapes.json](./144353-aquascapes.json) |
@@ -11506,6 +11509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axiom | 234347 | [234347-axiom.json](./234347-axiom.json) |
 | Axiom | 257286 | [257286-axiom.json](./257286-axiom.json) |
 | Axiom Alternative | 158589 | [158589-axiom-alternative.json](./158589-axiom-alternative.json) |
+| Axiom Alternative II | 152670 | [152670-axiom-alternative-ii.json](./152670-axiom-alternative-ii.json) |
 | Axiom of Echoes: Proof Refactor | 408045 | [408045-axiom-of-echoes-proof-refactor.json](./408045-axiom-of-echoes-proof-refactor.json) |
 | Axiom Verge 1 & 2 Double Pack | 172714 | [172714-axiom-verge-1-and-2-double-pack.json](./172714-axiom-verge-1-and-2-double-pack.json) |
 | Axiom Verge 2 | 127269 | [127269-axiom-verge-2.json](./127269-axiom-verge-2.json) |
