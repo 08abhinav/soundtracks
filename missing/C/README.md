@@ -1227,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capture Corps: Archipelago | 217867 | [217867-capture-corps-archipelago.json](./217867-capture-corps-archipelago.json) |
 | Capture Creatures | 195252 | [195252-capture-creatures.json](./195252-capture-creatures.json) |
 | Capture the Flag | 23901 | [23901-capture-the-flag.json](./23901-capture-the-flag.json) |
+| Capture the Flag 1 | 173192 | [173192-capture-the-flag-1.json](./173192-capture-the-flag-1.json) |
 | Capture the Intelligence | 306725 | [306725-capture-the-intelligence.json](./306725-capture-the-intelligence.json) |
 | Capture the Pixel | 176188 | [176188-capture-the-pixel.json](./176188-capture-the-pixel.json) |
 | Captured | 312193 | [312193-captured.json](./312193-captured.json) |
@@ -2213,6 +2214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Rush Zombies | 241620 | [241620-castle-rush-zombies.json](./241620-castle-rush-zombies.json) |
 | Castle Secrets: Between Day and Night | 87998 | [87998-castle-secrets-between-day-and-night.json](./87998-castle-secrets-between-day-and-night.json) |
 | Castle Shikigami 2 | 4149 | [4149-castle-shikigami-2.json](./4149-castle-shikigami-2.json) |
+| Castle Siege | 173196 | [173196-castle-siege.json](./173196-castle-siege.json) |
 | Castle Slots | 58631 | [58631-castle-slots.json](./58631-castle-slots.json) |
 | Castle Solitaire | 370338 | [370338-castle-solitaire.json](./370338-castle-solitaire.json) |
 | Castle Story | 3238 | [3238-castle-story.json](./3238-castle-story.json) |
@@ -7775,6 +7777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Game: The Family | 255589 | [255589-coloring-game-the-family.json](./255589-coloring-game-the-family.json) |
 | Coloring Games for Families+ | 415287 | [415287-coloring-games-for-families.json](./415287-coloring-games-for-families.json) |
 | Coloring Pages: Lumberhill Tales | 316917 | [316917-coloring-pages-lumberhill-tales.json](./316917-coloring-pages-lumberhill-tales.json) |
+| Coloring Pixel: Fantasy Characters | 173203 | [173203-coloring-pixel-fantasy-characters.json](./173203-coloring-pixel-fantasy-characters.json) |
 | Coloring Pixels: Advent 3 Pack | 225002 | [225002-coloring-pixels-advent-3-pack.json](./225002-coloring-pixels-advent-3-pack.json) |
 | Coloring Pixels: Advent 4 Pack | 227467 | [227467-coloring-pixels-advent-4-pack.json](./227467-coloring-pixels-advent-4-pack.json) |
 | Coloring Pixels: Advent 6 Pack | 351619 | [351619-coloring-pixels-advent-6-pack.json](./351619-coloring-pixels-advent-6-pack.json) |
@@ -9701,6 +9704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmos Rings | 197752 | [197752-cosmos-rings.json](./197752-cosmos-rings.json) |
 | Cosmos: Stella Returns | 263981 | [263981-cosmos-stella-returns.json](./263981-cosmos-stella-returns.json) |
 | Cosmosa | 117548 | [117548-cosmosa.json](./117548-cosmosa.json) |
+| Cosmosapiens | 173210 | [173210-cosmosapiens.json](./173210-cosmosapiens.json) |
 | Cosmoscope | 158200 | [158200-cosmoscope.json](./158200-cosmoscope.json) |
 | Cosmoswat | 386514 | [386514-cosmoswat.json](./386514-cosmoswat.json) |
 | Cosmotots | 303739 | [303739-cosmotots.json](./303739-cosmotots.json) |
@@ -11264,6 +11268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croixleur Sigma: Deluxe Edition | 131689 | [131689-croixleur-sigma-deluxe-edition.json](./131689-croixleur-sigma-deluxe-edition.json) |
 | Croket! Kindan no Kinka Box | 248202 | [248202-croket-kindan-no-kinka-box.json](./248202-croket-kindan-no-kinka-box.json) |
 | Crollors Game Pack | 85559 | [85559-crollors-game-pack.json](./85559-crollors-game-pack.json) |
+| Crom: Journey of Conquest | 173217 | [173217-crom-journey-of-conquest.json](./173217-crom-journey-of-conquest.json) |
 | Crome: Before Purgatory | 112764 | [112764-crome-before-purgatory.json](./112764-crome-before-purgatory.json) |
 | Cromwell | 134614 | [134614-cromwell.json](./134614-cromwell.json) |
 | Crone | 408087 | [408087-crone.json](./408087-crone.json) |
