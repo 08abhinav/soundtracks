@@ -21680,6 +21680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typefighters | 18956 | [18956-typefighters.json](./18956-typefighters.json) |
 | Typefighters: Steam Edition | 90589 | [90589-typefighters-steam-edition.json](./90589-typefighters-steam-edition.json) |
 | Typer | 88354 | [88354-typer.json](./88354-typer.json) |
+| Typer Hero | 173013 | [173013-typer-hero.json](./173013-typer-hero.json) |
 | TypeRush | 203185 | [203185-typerush.json](./203185-typerush.json) |
 | Typeshift | 27884 | [27884-typeshift.json](./27884-typeshift.json) |
 | TypeSpell Journey | 294290 | [294290-typespell-journey.json](./294290-typespell-journey.json) |
