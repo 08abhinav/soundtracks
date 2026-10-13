@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T05:34:31.069Z",
-  "total_missing": 204874,
+  "generated_at": "2026-10-13T05:41:47.599Z",
+  "total_missing": 204873,
   "games": [
     {
       "igdb_id": 191680,
@@ -743516,11 +743516,6 @@
       "igdb_id": 331844,
       "game_name": "Shadow Tactics: Aiko's Choice - Deluxe Edition",
       "file": "missing/S/331844-shadow-tactics-aikos-choice-deluxe-edition.json"
-    },
-    {
-      "igdb_id": 19085,
-      "game_name": "Shadow Tactics: Blades of the Shogun",
-      "file": "missing/S/19085-shadow-tactics-blades-of-the-shogun.json"
     },
     {
       "igdb_id": 331845,
