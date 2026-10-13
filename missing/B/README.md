@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B-e-e-t-l-e: Be right back! | 366937 | [366937-b-e-e-t-l-e-be-right-back.json](./366937-b-e-e-t-l-e-be-right-back.json) |
 | B-Line | 370237 | [370237-b-line.json](./370237-b-line.json) |
 | B-Prison Unchain | 410418 | [410418-b-prison-unchain.json](./410418-b-prison-unchain.json) |
+| B-Project: Ryuusei Fantasia | 148845 | [148845-b-project-ryuusei-fantasia.json](./148845-b-project-ryuusei-fantasia.json) |
 | B-Rabbit | 117482 | [117482-b-rabbit.json](./117482-b-rabbit.json) |
 | B-Rain | 286443 | [286443-b-rain.json](./286443-b-rain.json) |
 | B-Side | 219730 | [219730-b-side.json](./219730-b-side.json) |
@@ -4005,6 +4006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bella Sara | 269570 | [269570-bella-sara.json](./269570-bella-sara.json) |
 | Bella Sara 2: The Magic of Drasilmare | 84987 | [84987-bella-sara-2-the-magic-of-drasilmare.json](./84987-bella-sara-2-the-magic-of-drasilmare.json) |
 | Bella-Anna's Head | 376554 | [376554-bella-annas-head.json](./376554-bella-annas-head.json) |
+| Bella: The girl in the Woods | 148836 | [148836-bella-the-girl-in-the-woods.json](./148836-bella-the-girl-in-the-woods.json) |
 | Belladonna | 9246 | [9246-belladonna.json](./9246-belladonna.json) |
 | Belladonna's Flight | 255344 | [255344-belladonnas-flight.json](./255344-belladonnas-flight.json) |
 | Bellator: MMA Onslaught | 47438 | [47438-bellator-mma-onslaught.json](./47438-bellator-mma-onslaught.json) |
@@ -4312,6 +4314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bespoken | 289814 | [289814-bespoken.json](./289814-bespoken.json) |
 | Best Bout Boxing | 38543 | [38543-best-bout-boxing.json](./38543-best-bout-boxing.json) |
 | Best Buds vs Bad Guys | 52631 | [52631-best-buds-vs-bad-guys.json](./52631-best-buds-vs-bad-guys.json) |
+| Best Day Ever | 148863 | [148863-best-day-ever.json](./148863-best-day-ever.json) |
 | Best Election Simulator In Russia! | 217253 | [217253-best-election-simulator-in-russia.json](./217253-best-election-simulator-in-russia.json) |
 | Best Eleven: Champions Club | 196596 | [196596-best-eleven-champions-club.json](./196596-best-eleven-champions-club.json) |
 | Best Elf | 169783 | [169783-best-elf.json](./169783-best-elf.json) |
@@ -7379,6 +7382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Merc | 152814 | [152814-bloody-merc.json](./152814-bloody-merc.json) |
 | Bloody Nightshift | 176743 | [176743-bloody-nightshift.json](./176743-bloody-nightshift.json) |
 | Bloody Ragdoll : Fort Escape | 87857 | [87857-bloody-ragdoll-fort-escape.json](./87857-bloody-ragdoll-fort-escape.json) |
+| Bloody Raid | 148878 | [148878-bloody-raid.json](./148878-bloody-raid.json) |
 | Bloody Rally Show | 139211 | [139211-bloody-rally-show.json](./139211-bloody-rally-show.json) |
 | Bloody Roar | 2749 | [2749-bloody-roar.json](./2749-bloody-roar.json) |
 | Bloody Roar 2 | 4140 | [4140-bloody-roar-2.json](./4140-bloody-roar-2.json) |
@@ -11884,6 +11888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz!: Quiz World | 7284 | [7284-buzz-quiz-world.json](./7284-buzz-quiz-world.json) |
 | Buzz!: The Pop Quiz | 21360 | [21360-buzz-the-pop-quiz.json](./21360-buzz-the-pop-quiz.json) |
 | Buzzing Cars | 221925 | [221925-buzzing-cars.json](./221925-buzzing-cars.json) |
+| Buzzle | 148866 | [148866-buzzle.json](./148866-buzzle.json) |
 | Buzzsaw | 60760 | [60760-buzzsaw.json](./60760-buzzsaw.json) |
 | Buzzsaw Cat | 184407 | [184407-buzzsaw-cat.json](./184407-buzzsaw-cat.json) |
 | Buzzsaw+ | 403761 | [403761-buzzsaw.json](./403761-buzzsaw.json) |
