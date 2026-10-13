@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Guardian Royale | 159807 | [159807-galaxy-guardian-royale.json](./159807-galaxy-guardian-royale.json) |
 | Galaxy Gunners | 38570 | [38570-galaxy-gunners.json](./38570-galaxy-gunners.json) |
 | Galaxy Hero H2H | 233207 | [233207-galaxy-hero-h2h.json](./233207-galaxy-hero-h2h.json) |
+| Galaxy Highways | 167364 | [167364-galaxy-highways.json](./167364-galaxy-highways.json) |
 | Galaxy Hordes | 258978 | [258978-galaxy-hordes.json](./258978-galaxy-hordes.json) |
 | Galaxy Hunter: Into the Portal | 137639 | [137639-galaxy-hunter-into-the-portal.json](./137639-galaxy-hunter-into-the-portal.json) |
 | Galaxy Idle Clicker | 311697 | [311697-galaxy-idle-clicker.json](./311697-galaxy-idle-clicker.json) |
@@ -3872,6 +3873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godbreakers | 358248 | [358248-godbreakers.json](./358248-godbreakers.json) |
 | Goddess Arrival | 276662 | [276662-goddess-arrival.json](./276662-goddess-arrival.json) |
 | Goddess Connect | 310203 | [310203-goddess-connect.json](./310203-goddess-connect.json) |
+| Goddess detective | 167379 | [167379-goddess-detective.json](./167379-goddess-detective.json) |
 | Goddess Detective 2 | 255125 | [255125-goddess-detective-2.json](./255125-goddess-detective-2.json) |
 | Goddess Detective 3 | 269001 | [269001-goddess-detective-3.json](./269001-goddess-detective-3.json) |
 | Goddess Era: Paradise Oath | 259628 | [259628-goddess-era-paradise-oath.json](./259628-goddess-era-paradise-oath.json) |
@@ -5106,6 +5108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix Manager 2 | 71439 | [71439-grand-prix-manager-2.json](./71439-grand-prix-manager-2.json) |
 | Grand Prix Multiplication | 397211 | [397211-grand-prix-multiplication.json](./397211-grand-prix-multiplication.json) |
 | Grand Prix Racing | 147355 | [147355-grand-prix-racing.json](./147355-grand-prix-racing.json) |
+| Grand Prix Racing on Line | 167390 | [167390-grand-prix-racing-on-line.json](./167390-grand-prix-racing-on-line.json) |
 | Grand Prix Racing Universal | 302736 | [302736-grand-prix-racing-universal.json](./302736-grand-prix-racing-universal.json) |
 | Grand Prix Rally II | 46750 | [46750-grand-prix-rally-ii.json](./46750-grand-prix-rally-ii.json) |
 | Grand Prix Rock 'N Racing | 19892 | [19892-grand-prix-rock-n-racing.json](./19892-grand-prix-rock-n-racing.json) |
