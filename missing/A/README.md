@@ -2615,6 +2615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After... Prologue | 405063 | [405063-after-prologue.json](./405063-after-prologue.json) |
 | After... Wasureenu Kizuna | 283252 | [283252-after-wasureenu-kizuna.json](./283252-after-wasureenu-kizuna.json) |
 | Afterblast | 164434 | [164434-afterblast.json](./164434-afterblast.json) |
+| AfterBreach: Mystery Shooter | 174591 | [174591-afterbreach-mystery-shooter.json](./174591-afterbreach-mystery-shooter.json) |
 | Afterbright | 357794 | [357794-afterbright.json](./357794-afterbright.json) |
 | Afterburn | 112424 | [112424-afterburn.json](./112424-afterburn.json) |
 | Aftercare Sessions | 322175 | [322175-aftercare-sessions.json](./322175-aftercare-sessions.json) |
@@ -2743,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Conan: Unchained - Hyborian Conqueror Collection | 171936 | [171936-age-of-conan-unchained-hyborian-conqueror-collection.json](./171936-age-of-conan-unchained-hyborian-conqueror-collection.json) |
 | Age of Conquest III | 9949 | [9949-age-of-conquest-iii.json](./9949-age-of-conquest-iii.json) |
 | Age of Conquest IV | 36268 | [36268-age-of-conquest-iv.json](./36268-age-of-conquest-iv.json) |
+| Age of Conquest: Asia | 174583 | [174583-age-of-conquest-asia.json](./174583-age-of-conquest-asia.json) |
 | Age of Damnation | 374943 | [374943-age-of-damnation.json](./374943-age-of-damnation.json) |
 | Age of Darkness: Die Suche nach Relict | 118291 | [118291-age-of-darkness-die-suche-nach-relict.json](./118291-age-of-darkness-die-suche-nach-relict.json) |
 | Age of Darkness: Final Stand | 159424 | [159424-age-of-darkness-final-stand.json](./159424-age-of-darkness-final-stand.json) |
@@ -3282,6 +3284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Traffic Sim: Airport Dispatcher Simulator | 290464 | [290464-air-traffic-sim-airport-dispatcher-simulator.json](./290464-air-traffic-sim-airport-dispatcher-simulator.json) |
 | Air Trix | 18048 | [18048-air-trix.json](./18048-air-trix.json) |
 | Air Twister | 203458 | [203458-air-twister.json](./203458-air-twister.json) |
+| Air Tycoon 2 | 175127 | [175127-air-tycoon-2.json](./175127-air-tycoon-2.json) |
 | Air Warrior | 14232 | [14232-air-warrior.json](./14232-air-warrior.json) |
 | Air Warrior II | 376855 | [376855-air-warrior-ii.json](./376855-air-warrior-ii.json) |
 | Air Warrior III | 376856 | [376856-air-warrior-iii.json](./376856-air-warrior-iii.json) |
@@ -3413,6 +3416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Master | 29649 | [29649-airport-master.json](./29649-airport-master.json) |
 | Airport Police Contraband Simulator: Border Patrol | 324982 | [324982-airport-police-contraband-simulator-border-patrol.json](./324982-airport-police-contraband-simulator-border-patrol.json) |
 | Airport Police Simulator | 374416 | [374416-airport-police-simulator.json](./374416-airport-police-simulator.json) |
+| Airport Renovator | 174580 | [174580-airport-renovator.json](./174580-airport-renovator.json) |
 | Airport Renovator Simulator | 267295 | [267295-airport-renovator-simulator.json](./267295-airport-renovator-simulator.json) |
 | Airport Run | 268016 | [268016-airport-run.json](./268016-airport-run.json) |
 | Airport Scanner | 91172 | [91172-airport-scanner.json](./91172-airport-scanner.json) |
@@ -7525,6 +7529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AR Darts | 55895 | [55895-ar-darts.json](./55895-ar-darts.json) |
 | AR Defender | 78284 | [78284-ar-defender.json](./78284-ar-defender.json) |
 | AR Flappy | 232186 | [232186-ar-flappy.json](./232186-ar-flappy.json) |
+| AR Flower | 175134 | [175134-ar-flower.json](./175134-ar-flower.json) |
 | AR Invaders | 63248 | [63248-ar-invaders.json](./63248-ar-invaders.json) |
 | Ar Luminae | 221848 | [221848-ar-luminae.json](./221848-ar-luminae.json) |
 | AR Magic Color UP | 56487 | [56487-ar-magic-color-up.json](./56487-ar-magic-color-up.json) |
@@ -10690,6 +10695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Titan Tribute Game 2 | 316810 | [316810-attack-on-titan-tribute-game-2.json](./316810-attack-on-titan-tribute-game-2.json) |
 | Attack on Titan: A Choice with No Regrets | 200562 | [200562-attack-on-titan-a-choice-with-no-regrets.json](./200562-attack-on-titan-a-choice-with-no-regrets.json) |
 | Attack on Titan: Assault | 105884 | [105884-attack-on-titan-assault.json](./105884-attack-on-titan-assault.json) |
+| Attack on Titan: Brave Order | 174604 | [174604-attack-on-titan-brave-order.json](./174604-attack-on-titan-brave-order.json) |
 | Attack on Titan: Burning Bright in the Forests of the Night | 200576 | [200576-attack-on-titan-burning-bright-in-the-forests-of-the-night.json](./200576-attack-on-titan-burning-bright-in-the-forests-of-the-night.json) |
 | Attack on Titan: Episode 2 | 169780 | [169780-attack-on-titan-episode-2.json](./169780-attack-on-titan-episode-2.json) |
 | Attack on Titan: Episode 3 | 169781 | [169781-attack-on-titan-episode-3.json](./169781-attack-on-titan-episode-3.json) |
@@ -10797,6 +10803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Augie Doggie and Doggie Daddy | 67274 | [67274-augie-doggie-and-doggie-daddy.json](./67274-augie-doggie-and-doggie-daddy.json) |
 | Augment Anthem | 365733 | [365733-augment-anthem.json](./365733-augment-anthem.json) |
 | Augmental Puzzles | 398544 | [398544-augmental-puzzles.json](./398544-augmental-puzzles.json) |
+| Augmented AR Jungle Adventure | 175311 | [175311-augmented-ar-jungle-adventure.json](./175311-augmented-ar-jungle-adventure.json) |
 | Augmented Empire | 27984 | [27984-augmented-empire.json](./27984-augmented-empire.json) |
 | Augmented Fear | 376547 | [376547-augmented-fear.json](./376547-augmented-fear.json) |
 | Augmented Fourth | 60028 | [60028-augmented-fourth.json](./60028-augmented-fourth.json) |
