@@ -6899,11 +6899,36 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 3: Mountain Dew Car Pack | 140368 | [140368-forza-horizon-3-mountain-dew-car-pack.json](./140368-forza-horizon-3-mountain-dew-car-pack.json) |
 | Forza Horizon 3: Platinum plus Expansions Bundle | 201179 | [201179-forza-horizon-3-platinum-plus-expansions-bundle.json](./201179-forza-horizon-3-platinum-plus-expansions-bundle.json) |
 | Forza Horizon 3: Porsche Car Pack | 140367 | [140367-forza-horizon-3-porsche-car-pack.json](./140367-forza-horizon-3-porsche-car-pack.json) |
+| Forza Horizon 4: 1959 Cadillac Eldorado Biarritz Convertible | 153726 | [153726-forza-horizon-4-1959-cadillac-eldorado-biarritz-convertible.json](./153726-forza-horizon-4-1959-cadillac-eldorado-biarritz-convertible.json) |
+| Forza Horizon 4: 1959 Porsche 356A Coupe | 153715 | [153715-forza-horizon-4-1959-porsche-356a-coupe.json](./153715-forza-horizon-4-1959-porsche-356a-coupe.json) |
+| Forza Horizon 4: 1962 Triumph TR3B | 153722 | [153722-forza-horizon-4-1962-triumph-tr3b.json](./153722-forza-horizon-4-1962-triumph-tr3b.json) |
+| Forza Horizon 4: 1963 Opel Kadett A | 153718 | [153718-forza-horizon-4-1963-opel-kadett-a.json](./153718-forza-horizon-4-1963-opel-kadett-a.json) |
+| Forza Horizon 4: 1966 Volkswagen Double Cab Pick-Up | 153703 | [153703-forza-horizon-4-1966-volkswagen-double-cab-pick-up.json](./153703-forza-horizon-4-1966-volkswagen-double-cab-pick-up.json) |
+| Forza Horizon 4: 1967 Sunbeam Tiger | 153706 | [153706-forza-horizon-4-1967-sunbeam-tiger.json](./153706-forza-horizon-4-1967-sunbeam-tiger.json) |
+| Forza Horizon 4: 1968 Ford Mustang GT 2+2 Fastback | 153705 | [153705-forza-horizon-4-1968-ford-mustang-gt-2-2-fastback.json](./153705-forza-horizon-4-1968-ford-mustang-gt-2-2-fastback.json) |
+| Forza Horizon 4: 1970 Triumph TR6 PI | 153723 | [153723-forza-horizon-4-1970-triumph-tr6-pi.json](./153723-forza-horizon-4-1970-triumph-tr6-pi.json) |
+| Forza Horizon 4: 1974 Honda CivicRS | 153727 | [153727-forza-horizon-4-1974-honda-civicrs.json](./153727-forza-horizon-4-1974-honda-civicrs.json) |
+| Forza Horizon 4: 1977 Hoonigan Ford Gymkhana 10 F-150 | 153708 | [153708-forza-horizon-4-1977-hoonigan-ford-gymkhana-10-f-150.json](./153708-forza-horizon-4-1977-hoonigan-ford-gymkhana-10-f-150.json) |
+| Forza Horizon 4: 1979 Talbot Sunbeam Lotus | 153707 | [153707-forza-horizon-4-1979-talbot-sunbeam-lotus.json](./153707-forza-horizon-4-1979-talbot-sunbeam-lotus.json) |
+| Forza Horizon 4: 1993 Hoonigan Ford Escort Cosworth Group A | 153710 | [153710-forza-horizon-4-1993-hoonigan-ford-escort-cosworth-group-a.json](./153710-forza-horizon-4-1993-hoonigan-ford-escort-cosworth-group-a.json) |
+| Forza Horizon 4: 1993 Porsche 968 Turbo S | 153711 | [153711-forza-horizon-4-1993-porsche-968-turbo-s.json](./153711-forza-horizon-4-1993-porsche-968-turbo-s.json) |
+| Forza Horizon 4: 2002 Mazda RX-7 Spirit R Type-A | 153721 | [153721-forza-horizon-4-2002-mazda-rx-7-spirit-r-type-a.json](./153721-forza-horizon-4-2002-mazda-rx-7-spirit-r-type-a.json) |
+| Forza Horizon 4: 2004 Vauxhall VX220 | 153704 | [153704-forza-horizon-4-2004-vauxhall-vx220.json](./153704-forza-horizon-4-2004-vauxhall-vx220.json) |
+| Forza Horizon 4: 2005 Honda NSX-R GT | 153701 | [153701-forza-horizon-4-2005-honda-nsx-r-gt.json](./153701-forza-horizon-4-2005-honda-nsx-r-gt.json) |
+| Forza Horizon 4: 2018 Aston Martin Vantage | 153712 | [153712-forza-horizon-4-2018-aston-martin-vantage.json](./153712-forza-horizon-4-2018-aston-martin-vantage.json) |
+| Forza Horizon 4: 2018 Chevrolet Camaro ZL1 1LE | 153702 | [153702-forza-horizon-4-2018-chevrolet-camaro-zl1-1le.json](./153702-forza-horizon-4-2018-chevrolet-camaro-zl1-1le.json) |
+| Forza Horizon 4: 2018 Morgan Aero GT | 153709 | [153709-forza-horizon-4-2018-morgan-aero-gt.json](./153709-forza-horizon-4-2018-morgan-aero-gt.json) |
+| Forza Horizon 4: 2018 Nissan SentraNismo | 153724 | [153724-forza-horizon-4-2018-nissan-sentranismo.json](./153724-forza-horizon-4-2018-nissan-sentranismo.json) |
+| Forza Horizon 4: 2019 BMW i8 Roadster | 153725 | [153725-forza-horizon-4-2019-bmw-i8-roadster.json](./153725-forza-horizon-4-2019-bmw-i8-roadster.json) |
+| Forza Horizon 4: 2019 Chevrolet Corvette ZR1 | 153714 | [153714-forza-horizon-4-2019-chevrolet-corvette-zr1.json](./153714-forza-horizon-4-2019-chevrolet-corvette-zr1.json) |
+| Forza Horizon 4: 2019 Porsche 911 Carrera S | 153719 | [153719-forza-horizon-4-2019-porsche-911-carrera-s.json](./153719-forza-horizon-4-2019-porsche-911-carrera-s.json) |
 | Forza Horizon 4: Best of Bond Car Pack | 140292 | [140292-forza-horizon-4-best-of-bond-car-pack.json](./140292-forza-horizon-4-best-of-bond-car-pack.json) |
 | Forza Horizon 4: Car Pass | 365709 | [365709-forza-horizon-4-car-pass.json](./365709-forza-horizon-4-car-pass.json) |
 | Forza Horizon 4: Expansions Bundle | 136391 | [136391-forza-horizon-4-expansions-bundle.json](./136391-forza-horizon-4-expansions-bundle.json) |
+| Forza Horizon 4: Icons Car Pack | 153717 | [153717-forza-horizon-4-icons-car-pack.json](./153717-forza-horizon-4-icons-car-pack.json) |
 | Forza Horizon 4: LEGO Speed Champions | 121517 | [121517-forza-horizon-4-lego-speed-champions.json](./121517-forza-horizon-4-lego-speed-champions.json) |
 | Forza Horizon 4: Mitsubishi Motors Car Pack | 140365 | [140365-forza-horizon-4-mitsubishi-motors-car-pack.json](./140365-forza-horizon-4-mitsubishi-motors-car-pack.json) |
+| Forza Horizon 4: VIP | 153720 | [153720-forza-horizon-4-vip.json](./153720-forza-horizon-4-vip.json) |
 | Forza Horizon 4: Welcome Pack | 365712 | [365712-forza-horizon-4-welcome-pack.json](./365712-forza-horizon-4-welcome-pack.json) |
 | Forza Horizon 5 Nissan Heritage Car Pack | 361777 | [361777-forza-horizon-5-nissan-heritage-car-pack.json](./361777-forza-horizon-5-nissan-heritage-car-pack.json) |
 | Forza Horizon 5 Universal Icons Car Pack | 361779 | [361779-forza-horizon-5-universal-icons-car-pack.json](./361779-forza-horizon-5-universal-icons-car-pack.json) |
