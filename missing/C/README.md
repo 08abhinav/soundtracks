@@ -12166,6 +12166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Math | 257428 | [257428-crystal-math.json](./257428-crystal-math.json) |
 | Crystal Monsters | 79538 | [79538-crystal-monsters.json](./79538-crystal-monsters.json) |
 | Crystal of Atlantis | 247981 | [247981-crystal-of-atlantis.json](./247981-crystal-of-atlantis.json) |
+| Crystal Ortha | 140966 | [140966-crystal-ortha.json](./140966-crystal-ortha.json) |
 | Crystal Path | 107821 | [107821-crystal-path.json](./107821-crystal-path.json) |
 | Crystal Pixels | 68904 | [68904-crystal-pixels.json](./68904-crystal-pixels.json) |
 | Crystal Plague | 152454 | [152454-crystal-plague.json](./152454-crystal-plague.json) |
@@ -12375,6 +12376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Monster | 74389 | [74389-cube-monster.json](./74389-cube-monster.json) |
 | Cube Paste | 146231 | [146231-cube-paste.json](./146231-cube-paste.json) |
 | Cube Quest | 25818 | [25818-cube-quest.json](./25818-cube-quest.json) |
+| Cube Raiders | 140968 | [140968-cube-raiders.json](./140968-cube-raiders.json) |
 | Cube Railway | 312695 | [312695-cube-railway.json](./312695-cube-railway.json) |
 | Cube Rampage | 134702 | [134702-cube-rampage.json](./134702-cube-rampage.json) |
 | Cube Royale | 269035 | [269035-cube-royale.json](./269035-cube-royale.json) |
