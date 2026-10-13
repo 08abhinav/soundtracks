@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fail World | 356064 | [356064-fail-world.json](./356064-fail-world.json) |
 | Fail.safe | 367557 | [367557-fail-safe.json](./367557-fail-safe.json) |
 | Failed Adventurer | 154260 | [154260-failed-adventurer.json](./154260-failed-adventurer.json) |
+| Failed Ninja Academy | 152650 | [152650-failed-ninja-academy.json](./152650-failed-ninja-academy.json) |
 | Failed State | 98375 | [98375-failed-state.json](./98375-failed-state.json) |
 | Failed Trust | 290558 | [290558-failed-trust.json](./290558-failed-trust.json) |
 | Failspace | 111795 | [111795-failspace.json](./111795-failspace.json) |
@@ -1176,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fancy Slingshot VR | 31670 | [31670-fancy-slingshot-vr.json](./31670-fancy-slingshot-vr.json) |
 | Fancy Solitaire | 147422 | [147422-fancy-solitaire.json](./147422-fancy-solitaire.json) |
 | Fancy Tale | 109523 | [109523-fancy-tale.json](./109523-fancy-tale.json) |
+| Fancy the Frog | 152653 | [152653-fancy-the-frog.json](./152653-fancy-the-frog.json) |
 | Fancy World - Earth of Crisis | 39686 | [39686-fancy-world-earth-of-crisis.json](./39686-fancy-world-earth-of-crisis.json) |
 | Fancy! | 237069 | [237069-fancy.json](./237069-fancy.json) |
 | Fandominion | 259646 | [259646-fandominion.json](./259646-fandominion.json) |
@@ -2290,6 +2292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear & Hunger 2: Termina | 224262 | [224262-fear-and-hunger-2-termina.json](./224262-fear-and-hunger-2-termina.json) |
 | Fear & Hunger 3 | 324308 | [324308-fear-and-hunger-3.json](./324308-fear-and-hunger-3.json) |
 | Fear & Respect | 70423 | [70423-fear-and-respect.json](./70423-fear-and-respect.json) |
+| Fear 2: The Disappeared 207 | 153136 | [153136-fear-2-the-disappeared-207.json](./153136-fear-2-the-disappeared-207.json) |
 | Fear Academy | 345079 | [345079-fear-academy.json](./345079-fear-academy.json) |
 | Fear Assessment+ | 254396 | [254396-fear-assessment.json](./254396-fear-assessment.json) |
 | Fear Calibration | 303072 | [303072-fear-calibration.json](./303072-fear-calibration.json) |
@@ -6449,6 +6452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Gifts | 114349 | [114349-forgotten-gifts.json](./114349-forgotten-gifts.json) |
 | Forgotten Heroes | 31858 | [31858-forgotten-heroes.json](./31858-forgotten-heroes.json) |
 | Forgotten Hill Disillusion | 121472 | [121472-forgotten-hill-disillusion.json](./121472-forgotten-hill-disillusion.json) |
+| Forgotten Hill First Steps | 153157 | [153157-forgotten-hill-first-steps.json](./153157-forgotten-hill-first-steps.json) |
 | Forgotten Hill Mementoes | 87980 | [87980-forgotten-hill-mementoes.json](./87980-forgotten-hill-mementoes.json) |
 | Forgotten Hill: Fall | 317638 | [317638-forgotten-hill-fall.json](./317638-forgotten-hill-fall.json) |
 | Forgotten Hill: Surgery | 101764 | [101764-forgotten-hill-surgery.json](./101764-forgotten-hill-surgery.json) |
