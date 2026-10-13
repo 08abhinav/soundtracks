@@ -3871,6 +3871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Eroticism: Amorous Advances | 244349 | [244349-heroes-of-eroticism-amorous-advances.json](./244349-heroes-of-eroticism-amorous-advances.json) |
 | Heroes of Eroticism: New Beginnings | 221204 | [221204-heroes-of-eroticism-new-beginnings.json](./221204-heroes-of-eroticism-new-beginnings.json) |
 | Heroes of Fantasia | 168656 | [168656-heroes-of-fantasia.json](./168656-heroes-of-fantasia.json) |
+| Heroes of Flatlandia | 174597 | [174597-heroes-of-flatlandia.json](./174597-heroes-of-flatlandia.json) |
 | Heroes of Gaia | 63867 | [63867-heroes-of-gaia.json](./63867-heroes-of-gaia.json) |
 | Heroes of Hammerwatch II: Celestial Ruins | 411671 | [411671-heroes-of-hammerwatch-ii-celestial-ruins.json](./411671-heroes-of-hammerwatch-ii-celestial-ruins.json) |
 | Heroes of Havoc: Idle Adventures | 26171 | [26171-heroes-of-havoc-idle-adventures.json](./26171-heroes-of-havoc-idle-adventures.json) |
@@ -5467,6 +5468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey Space | 44174 | [44174-hockey-space.json](./44174-hockey-space.json) |
 | Hockey Stars | 238931 | [238931-hockey-stars.json](./238931-hockey-stars.json) |
 | Hockey Super Squad | 321537 | [321537-hockey-super-squad.json](./321537-hockey-super-squad.json) |
+| Hockey VR | 175154 | [175154-hockey-vr.json](./175154-hockey-vr.json) |
 | Hockey: Strategy of Success | 115690 | [115690-hockey-strategy-of-success.json](./115690-hockey-strategy-of-success.json) |
 | Hockeysplit | 128976 | [128976-hockeysplit.json](./128976-hockeysplit.json) |
 | Hoco Poco | 129577 | [129577-hoco-poco.json](./129577-hoco-poco.json) |
