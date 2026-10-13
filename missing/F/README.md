@@ -7829,6 +7829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friendly Arena | 150946 | [150946-friendly-arena.json](./150946-friendly-arena.json) |
 | Friendly Blonding | 213527 | [213527-friendly-blonding.json](./213527-friendly-blonding.json) |
 | Friendly Facade | 232528 | [232528-friendly-facade.json](./232528-friendly-facade.json) |
+| Friendly Find | 149373 | [149373-friendly-find.json](./149373-friendly-find.json) |
 | Friendly Fire | 157099 | [157099-friendly-fire.json](./157099-friendly-fire.json) |
 | Friendly Fire: Arena | 158653 | [158653-friendly-fire-arena.json](./158653-friendly-fire-arena.json) |
 | Friendly Premonition | 242811 | [242811-friendly-premonition.json](./242811-friendly-premonition.json) |
