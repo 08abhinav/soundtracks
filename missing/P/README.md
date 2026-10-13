@@ -9087,6 +9087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Press W to Move Forward | 222823 | [222823-press-w-to-move-forward.json](./222823-press-w-to-move-forward.json) |
 | Press X to Not Die | 13619 | [13619-press-x-to-not-die.json](./13619-press-x-to-not-die.json) |
 | Press X to Not Die: Special Edition | 53472 | [53472-press-x-to-not-die-special-edition.json](./53472-press-x-to-not-die-special-edition.json) |
+| Press Your Luck | 172073 | [172073-press-your-luck.json](./172073-press-your-luck.json) |
 | Press Your Luck | 394523 | [394523-press-your-luck.json](./394523-press-your-luck.json) |
 | Press Your Luck | 52646 | [52646-press-your-luck.json](./52646-press-your-luck.json) |
 | Press-Switch | 217993 | [217993-press-switch.json](./217993-press-switch.json) |
