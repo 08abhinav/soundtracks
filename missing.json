@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T09:33:45.743Z",
-  "total_missing": 205618,
+  "generated_at": "2026-10-13T10:05:07.228Z",
+  "total_missing": 205718,
   "games": [
     {
       "igdb_id": 191680,
@@ -51926,6 +51926,11 @@
       "igdb_id": 247023,
       "game_name": "Archery",
       "file": "missing/A/247023-archery.json"
+    },
+    {
+      "igdb_id": 160102,
+      "game_name": "Archery Arena",
+      "file": "missing/A/160102-archery-arena.json"
     },
     {
       "igdb_id": 105774,
@@ -143213,6 +143218,11 @@
       "file": "missing/C/330917-caught-by-a-spider.json"
     },
     {
+      "igdb_id": 160076,
+      "game_name": "Caught in Nowhere",
+      "file": "missing/C/160076-caught-in-nowhere.json"
+    },
+    {
       "igdb_id": 385247,
       "game_name": "Caught Lacking: Femboy Edition",
       "file": "missing/C/385247-caught-lacking-femboy-edition.json"
@@ -171958,6 +171968,11 @@
       "file": "missing/C/83821-conquer.json"
     },
     {
+      "igdb_id": 160057,
+      "game_name": "Conquer and Breed the Demon Queen",
+      "file": "missing/C/160057-conquer-and-breed-the-demon-queen.json"
+    },
+    {
       "igdb_id": 100333,
       "game_name": "Conquer City Wars",
       "file": "missing/C/100333-conquer-city-wars.json"
@@ -198228,6 +198243,11 @@
       "file": "missing/D/108988-dancerush-stardom.json"
     },
     {
+      "igdb_id": 160084,
+      "game_name": "Dances and Girls",
+      "file": "missing/D/160084-dances-and-girls.json"
+    },
+    {
       "igdb_id": 117088,
       "game_name": "Dances with Butterflies VR",
       "file": "missing/D/117088-dances-with-butterflies-vr.json"
@@ -200378,6 +200398,11 @@
       "file": "missing/D/415503-dark-doll.json"
     },
     {
+      "igdb_id": 160066,
+      "game_name": "Dark Dragonkin",
+      "file": "missing/D/160066-dark-dragonkin.json"
+    },
+    {
       "igdb_id": 95620,
       "game_name": "Dark Drive",
       "file": "missing/D/95620-dark-drive.json"
@@ -202041,6 +202066,11 @@
       "igdb_id": 125439,
       "game_name": "Dark Zone Defense",
       "file": "missing/D/125439-dark-zone-defense.json"
+    },
+    {
+      "igdb_id": 160094,
+      "game_name": "DarkAir",
+      "file": "missing/D/160094-darkair.json"
     },
     {
       "igdb_id": 280362,
@@ -277813,6 +277843,11 @@
       "file": "missing/E/15395-eufloria-hd.json"
     },
     {
+      "igdb_id": 160069,
+      "game_name": "Eugene's Dream: The Daily Ins And Outs Of A Sane Robot In An Insane World",
+      "file": "missing/E/160069-eugenes-dream-the-daily-ins-and-outs-of-a-sane-robot-in-an-insane-world.json"
+    },
+    {
       "igdb_id": 18426,
       "game_name": "Eugenics",
       "file": "missing/E/18426-eugenics.json"
@@ -300023,6 +300058,11 @@
       "file": "missing/F/346592-figurine-shop-simulator.json"
     },
     {
+      "igdb_id": 160096,
+      "game_name": "FIL",
+      "file": "missing/F/160096-fil.json"
+    },
+    {
       "igdb_id": 121885,
       "game_name": "Filament",
       "file": "missing/F/121885-filament.json"
@@ -301756,6 +301796,11 @@
       "igdb_id": 241517,
       "game_name": "Final Gun",
       "file": "missing/F/241517-final-gun.json"
+    },
+    {
+      "igdb_id": 160101,
+      "game_name": "Final Hope: The Plot",
+      "file": "missing/F/160101-final-hope-the-plot.json"
     },
     {
       "igdb_id": 27772,
@@ -306331,6 +306376,11 @@
       "igdb_id": 364504,
       "game_name": "Fishing Time",
       "file": "missing/F/364504-fishing-time.json"
+    },
+    {
+      "igdb_id": 160083,
+      "game_name": "Fishing Together",
+      "file": "missing/F/160083-fishing-together.json"
     },
     {
       "igdb_id": 356076,
@@ -319386,6 +319436,11 @@
       "igdb_id": 399697,
       "game_name": "Foturians: Myth and Reality",
       "file": "missing/F/399697-foturians-myth-and-reality.json"
+    },
+    {
+      "igdb_id": 160072,
+      "game_name": "Foul Play",
+      "file": "missing/F/160072-foul-play.json"
     },
     {
       "igdb_id": 5895,
@@ -346063,6 +346118,11 @@
       "file": "missing/G/13002-glider-rider.json"
     },
     {
+      "igdb_id": 160085,
+      "game_name": "Glider Sim",
+      "file": "missing/G/160085-glider-sim.json"
+    },
+    {
       "igdb_id": 326413,
       "game_name": "Glider Simulator",
       "file": "missing/G/326413-glider-simulator.json"
@@ -364603,6 +364663,11 @@
       "file": "missing/G/407353-gumball-hero.json"
     },
     {
+      "igdb_id": 160100,
+      "game_name": "GumBall Warrior",
+      "file": "missing/G/160100-gumball-warrior.json"
+    },
+    {
       "igdb_id": 203209,
       "game_name": "Gumball: School House Rush",
       "file": "missing/G/203209-gumball-school-house-rush.json"
@@ -365161,6 +365226,11 @@
       "igdb_id": 40965,
       "game_name": "Gun.Smoke",
       "file": "missing/G/40965-gun-smoke.json"
+    },
+    {
+      "igdb_id": 160089,
+      "game_name": "Gun&Dun",
+      "file": "missing/G/160089-gun-and-dun.json"
     },
     {
       "igdb_id": 353314,
@@ -395033,6 +395103,11 @@
       "file": "missing/H/360645-hog-heist.json"
     },
     {
+      "igdb_id": 160090,
+      "game_name": "Hog Hunter 2021",
+      "file": "missing/H/160090-hog-hunter-2021.json"
+    },
+    {
       "igdb_id": 4601,
       "game_name": "Hogan's Alley",
       "file": "missing/H/4601-hogans-alley.json"
@@ -406213,6 +406288,11 @@
       "file": "missing/H/235889-hunted-kalevala.json"
     },
     {
+      "igdb_id": 160082,
+      "game_name": "Hunted: Kobayashi Tower",
+      "file": "missing/H/160082-hunted-kobayashi-tower.json"
+    },
+    {
       "igdb_id": 25874,
       "game_name": "Hunted: One Step Too Far",
       "file": "missing/H/25874-hunted-one-step-too-far.json"
@@ -414531,6 +414611,11 @@
       "igdb_id": 245345,
       "game_name": "Idle Tap Zoo: Tap, Build & Upg",
       "file": "missing/I/245345-idle-tap-zoo-tap-build-and-upg.json"
+    },
+    {
+      "igdb_id": 160074,
+      "game_name": "Idle TD: Heroes vs Zombies",
+      "file": "missing/I/160074-idle-td-heroes-vs-zombies.json"
     },
     {
       "igdb_id": 224039,
@@ -450003,6 +450088,11 @@
       "file": "missing/K/158138-kawaii-memory.json"
     },
     {
+      "igdb_id": 160104,
+      "game_name": "Kawaii Neko Girls",
+      "file": "missing/K/160104-kawaii-neko-girls.json"
+    },
+    {
       "igdb_id": 319847,
       "game_name": "Kawaii Neko Girls 2",
       "file": "missing/K/319847-kawaii-neko-girls-2.json"
@@ -452696,6 +452786,11 @@
       "igdb_id": 16035,
       "game_name": "Kid Chameleon",
       "file": "missing/K/16035-kid-chameleon.json"
+    },
+    {
+      "igdb_id": 160107,
+      "game_name": "Kid Detective",
+      "file": "missing/K/160107-kid-detective.json"
     },
     {
       "igdb_id": 1125,
@@ -477576,6 +477671,11 @@
       "igdb_id": 175398,
       "game_name": "Leonardo's Cat",
       "file": "missing/L/175398-leonardos-cat.json"
+    },
+    {
+      "igdb_id": 160075,
+      "game_name": "Leonardo's Island",
+      "file": "missing/L/160075-leonardos-island.json"
     },
     {
       "igdb_id": 374277,
@@ -540808,6 +540908,11 @@
       "file": "missing/M/347897-mini-motorways-creative-mode.json"
     },
     {
+      "igdb_id": 160064,
+      "game_name": "Mini Moves: Among Stars",
+      "file": "missing/M/160064-mini-moves-among-stars.json"
+    },
+    {
       "igdb_id": 405019,
       "game_name": "Mini Murder Mysteries",
       "file": "missing/M/405019-mini-murder-mysteries.json"
@@ -542446,6 +542551,11 @@
       "igdb_id": 110365,
       "game_name": "Miracle Circus",
       "file": "missing/M/110365-miracle-circus.json"
+    },
+    {
+      "igdb_id": 160092,
+      "game_name": "Miracle Field",
+      "file": "missing/M/160092-miracle-field.json"
     },
     {
       "igdb_id": 13658,
@@ -564698,6 +564808,11 @@
       "file": "missing/M/200150-my-cool-diner.json"
     },
     {
+      "igdb_id": 160062,
+      "game_name": "My Cousin the Rogue",
+      "file": "missing/M/160062-my-cousin-the-rogue.json"
+    },
+    {
       "igdb_id": 401490,
       "game_name": "My Coworkers Are Made Of Static",
       "file": "missing/M/401490-my-coworkers-are-made-of-static.json"
@@ -568386,6 +568501,11 @@
       "igdb_id": 122157,
       "game_name": "My Vow to My Liege",
       "file": "missing/M/122157-my-vow-to-my-liege.json"
+    },
+    {
+      "igdb_id": 160061,
+      "game_name": "My waifu guild",
+      "file": "missing/M/160061-my-waifu-guild.json"
     },
     {
       "igdb_id": 391043,
@@ -578416,6 +578536,11 @@
       "igdb_id": 287211,
       "game_name": "Nemesis Z",
       "file": "missing/N/287211-nemesis-z.json"
+    },
+    {
+      "igdb_id": 160063,
+      "game_name": "Nemesis: Race Against the Pandemic",
+      "file": "missing/N/160063-nemesis-race-against-the-pandemic.json"
     },
     {
       "igdb_id": 262391,
@@ -594528,6 +594653,11 @@
       "file": "missing/N/60583-nova-force.json"
     },
     {
+      "igdb_id": 160073,
+      "game_name": "Nova Genetics",
+      "file": "missing/N/160073-nova-genetics.json"
+    },
+    {
       "igdb_id": 89242,
       "game_name": "Nova Golf",
       "file": "missing/N/89242-nova-golf.json"
@@ -602723,6 +602853,11 @@
       "file": "missing/O/221736-omni-magic.json"
     },
     {
+      "igdb_id": 160099,
+      "game_name": "Omnia",
+      "file": "missing/O/160099-omnia.json"
+    },
+    {
       "igdb_id": 102092,
       "game_name": "Omnibion War",
       "file": "missing/O/102092-omnibion-war.json"
@@ -603541,6 +603676,11 @@
       "igdb_id": 415951,
       "game_name": "On The Hook",
       "file": "missing/O/415951-on-the-hook.json"
+    },
+    {
+      "igdb_id": 160065,
+      "game_name": "On the Hunt",
+      "file": "missing/O/160065-on-the-hunt.json"
     },
     {
       "igdb_id": 243786,
@@ -673468,6 +673608,11 @@
       "file": "missing/P/382438-purgatory-of-the-golden-witch.json"
     },
     {
+      "igdb_id": 160071,
+      "game_name": "Purgatory Overkill",
+      "file": "missing/P/160071-purgatory-overkill.json"
+    },
+    {
       "igdb_id": 390774,
       "game_name": "Purgatory Pitstop",
       "file": "missing/P/390774-purgatory-pitstop.json"
@@ -675196,6 +675341,11 @@
       "igdb_id": 259828,
       "game_name": "Puzzle da Moro!",
       "file": "missing/P/259828-puzzle-da-moro.json"
+    },
+    {
+      "igdb_id": 160059,
+      "game_name": "Puzzle Dazzle 3D",
+      "file": "missing/P/160059-puzzle-dazzle-3d.json"
     },
     {
       "igdb_id": 20897,
@@ -680073,6 +680223,11 @@
       "file": "missing/Q/12317-quest-for-quintana-roo.json"
     },
     {
+      "igdb_id": 160106,
+      "game_name": "Quest for Runia",
+      "file": "missing/Q/160106-quest-for-runia.json"
+    },
+    {
       "igdb_id": 209746,
       "game_name": "Quest for Saddam",
       "file": "missing/Q/209746-quest-for-saddam.json"
@@ -680781,6 +680936,11 @@
       "igdb_id": 190450,
       "game_name": "Quiet Farm",
       "file": "missing/Q/190450-quiet-farm.json"
+    },
+    {
+      "igdb_id": 160058,
+      "game_name": "Quiet Godo",
+      "file": "missing/Q/160058-quiet-godo.json"
     },
     {
       "igdb_id": 317023,
@@ -731538,6 +731698,11 @@
       "file": "missing/S/405534-save-humanity-exe.json"
     },
     {
+      "igdb_id": 160086,
+      "game_name": "Save Iron Globe",
+      "file": "missing/S/160086-save-iron-globe.json"
+    },
+    {
       "igdb_id": 114808,
       "game_name": "Save Koch",
       "file": "missing/S/114808-save-koch.json"
@@ -758511,6 +758676,11 @@
       "igdb_id": 302142,
       "game_name": "Silver Sonic: The Crystal Islands",
       "file": "missing/S/302142-silver-sonic-the-crystal-islands.json"
+    },
+    {
+      "igdb_id": 160060,
+      "game_name": "Silver Squad: Age of the Vortex",
+      "file": "missing/S/160060-silver-squad-age-of-the-vortex.json"
     },
     {
       "igdb_id": 144997,
@@ -788983,6 +789153,11 @@
       "file": "missing/S/38903-space-sprint.json"
     },
     {
+      "igdb_id": 160098,
+      "game_name": "Space Sprinter VR",
+      "file": "missing/S/160098-space-sprinter-vr.json"
+    },
+    {
       "igdb_id": 346725,
       "game_name": "Space Squad Survival",
       "file": "missing/S/346725-space-squad-survival.json"
@@ -797958,6 +798133,11 @@
       "file": "missing/S/359401-spring-a-line.json"
     },
     {
+      "igdb_id": 160080,
+      "game_name": "Spring and Girls",
+      "file": "missing/S/160080-spring-and-girls.json"
+    },
+    {
       "igdb_id": 82165,
       "game_name": "Spring Babies",
       "file": "missing/S/82165-spring-babies.json"
@@ -799611,6 +799791,11 @@
       "igdb_id": 184467,
       "game_name": "Squatzee",
       "file": "missing/S/184467-squatzee.json"
+    },
+    {
+      "igdb_id": 160103,
+      "game_name": "Squaxel",
+      "file": "missing/S/160103-squaxel.json"
     },
     {
       "igdb_id": 313269,
@@ -832763,6 +832948,11 @@
       "file": "missing/S/96642-super-weekend-mode.json"
     },
     {
+      "igdb_id": 160077,
+      "game_name": "Super Whiplash",
+      "file": "missing/S/160077-super-whiplash.json"
+    },
+    {
       "igdb_id": 42495,
       "game_name": "Super Widget",
       "file": "missing/S/42495-super-widget.json"
@@ -835648,6 +835838,11 @@
       "file": "missing/S/201323-survive-10-minutes-please.json"
     },
     {
+      "igdb_id": 160068,
+      "game_name": "Survive after hell",
+      "file": "missing/S/160068-survive-after-hell.json"
+    },
+    {
       "igdb_id": 236285,
       "game_name": "Survive and Revenge",
       "file": "missing/S/236285-survive-and-revenge.json"
@@ -837671,6 +837866,11 @@
       "igdb_id": 169381,
       "game_name": "Sweet and Cute",
       "file": "missing/S/169381-sweet-and-cute.json"
+    },
+    {
+      "igdb_id": 160093,
+      "game_name": "Sweet and Hot",
+      "file": "missing/S/160093-sweet-and-hot.json"
     },
     {
       "igdb_id": 282666,
@@ -843821,6 +844021,11 @@
       "igdb_id": 220861,
       "game_name": "Tahoe Dragon: The Beginning",
       "file": "missing/T/220861-tahoe-dragon-the-beginning.json"
+    },
+    {
+      "igdb_id": 160067,
+      "game_name": "Tahul",
+      "file": "missing/T/160067-tahul.json"
     },
     {
       "igdb_id": 187878,
@@ -851076,6 +851281,11 @@
       "igdb_id": 55150,
       "game_name": "Task III",
       "file": "missing/T/55150-task-iii.json"
+    },
+    {
+      "igdb_id": 160095,
+      "game_name": "Task Men",
+      "file": "missing/T/160095-task-men.json"
     },
     {
       "igdb_id": 144861,
@@ -894078,6 +894288,11 @@
       "file": "missing/T/115049-the-saviors-gang.json"
     },
     {
+      "igdb_id": 160097,
+      "game_name": "The Savoury Inspector",
+      "file": "missing/T/160097-the-savoury-inspector.json"
+    },
+    {
       "igdb_id": 386286,
       "game_name": "The Scaling",
       "file": "missing/T/386286-the-scaling.json"
@@ -904883,6 +905098,11 @@
       "file": "missing/T/154082-the-wolfs-den.json"
     },
     {
+      "igdb_id": 160070,
+      "game_name": "The Wolf's Girl",
+      "file": "missing/T/160070-the-wolfs-girl.json"
+    },
+    {
       "igdb_id": 398476,
       "game_name": "The Woman Above",
       "file": "missing/T/398476-the-woman-above.json"
@@ -913918,9 +914138,29 @@
       "file": "missing/T/160880-tiger-tank-59-i-air-strike-mp100.json"
     },
     {
+      "igdb_id": 160617,
+      "game_name": "Tiger Tank 59 I: Battleship MP001",
+      "file": "missing/T/160617-tiger-tank-59-i-battleship-mp001.json"
+    },
+    {
+      "igdb_id": 160570,
+      "game_name": "Tiger Tank 59 I: Battleship MP002",
+      "file": "missing/T/160570-tiger-tank-59-i-battleship-mp002.json"
+    },
+    {
       "igdb_id": 160368,
       "game_name": "Tiger Tank 59 I: Battleship MP003",
       "file": "missing/T/160368-tiger-tank-59-i-battleship-mp003.json"
+    },
+    {
+      "igdb_id": 160610,
+      "game_name": "Tiger Tank 59 I: Battleship MP005",
+      "file": "missing/T/160610-tiger-tank-59-i-battleship-mp005.json"
+    },
+    {
+      "igdb_id": 160616,
+      "game_name": "Tiger Tank 59 I: Battleship MP007",
+      "file": "missing/T/160616-tiger-tank-59-i-battleship-mp007.json"
     },
     {
       "igdb_id": 160317,
@@ -913928,9 +914168,49 @@
       "file": "missing/T/160317-tiger-tank-59-i-battleship-mp008.json"
     },
     {
+      "igdb_id": 160615,
+      "game_name": "Tiger Tank 59 I: Battleship MP009",
+      "file": "missing/T/160615-tiger-tank-59-i-battleship-mp009.json"
+    },
+    {
+      "igdb_id": 160599,
+      "game_name": "Tiger Tank 59 I: Battleship MP010",
+      "file": "missing/T/160599-tiger-tank-59-i-battleship-mp010.json"
+    },
+    {
+      "igdb_id": 160594,
+      "game_name": "Tiger Tank 59 I: Battleship MP011",
+      "file": "missing/T/160594-tiger-tank-59-i-battleship-mp011.json"
+    },
+    {
+      "igdb_id": 160569,
+      "game_name": "Tiger Tank 59 I: Battleship MP012",
+      "file": "missing/T/160569-tiger-tank-59-i-battleship-mp012.json"
+    },
+    {
+      "igdb_id": 160600,
+      "game_name": "Tiger Tank 59 I: Battleship MP013",
+      "file": "missing/T/160600-tiger-tank-59-i-battleship-mp013.json"
+    },
+    {
+      "igdb_id": 160607,
+      "game_name": "Tiger Tank 59 I: Battleship MP015",
+      "file": "missing/T/160607-tiger-tank-59-i-battleship-mp015.json"
+    },
+    {
       "igdb_id": 160637,
       "game_name": "Tiger Tank 59 I: Battleship MP016",
       "file": "missing/T/160637-tiger-tank-59-i-battleship-mp016.json"
+    },
+    {
+      "igdb_id": 160614,
+      "game_name": "Tiger Tank 59 I: Battleship MP018",
+      "file": "missing/T/160614-tiger-tank-59-i-battleship-mp018.json"
+    },
+    {
+      "igdb_id": 160572,
+      "game_name": "Tiger Tank 59 I: Battleship MP019",
+      "file": "missing/T/160572-tiger-tank-59-i-battleship-mp019.json"
     },
     {
       "igdb_id": 160319,
@@ -913938,9 +914218,44 @@
       "file": "missing/T/160319-tiger-tank-59-i-battleship-mp020.json"
     },
     {
+      "igdb_id": 160611,
+      "game_name": "Tiger Tank 59 I: Battleship MP023",
+      "file": "missing/T/160611-tiger-tank-59-i-battleship-mp023.json"
+    },
+    {
+      "igdb_id": 160603,
+      "game_name": "Tiger Tank 59 I: Battleship MP024",
+      "file": "missing/T/160603-tiger-tank-59-i-battleship-mp024.json"
+    },
+    {
+      "igdb_id": 160584,
+      "game_name": "Tiger Tank 59 I: Battleship MP025",
+      "file": "missing/T/160584-tiger-tank-59-i-battleship-mp025.json"
+    },
+    {
+      "igdb_id": 160601,
+      "game_name": "Tiger Tank 59 I: Battleship MP027",
+      "file": "missing/T/160601-tiger-tank-59-i-battleship-mp027.json"
+    },
+    {
       "igdb_id": 160346,
       "game_name": "Tiger Tank 59 I: Battleship MP030",
       "file": "missing/T/160346-tiger-tank-59-i-battleship-mp030.json"
+    },
+    {
+      "igdb_id": 160588,
+      "game_name": "Tiger Tank 59 I: Battleship MP032",
+      "file": "missing/T/160588-tiger-tank-59-i-battleship-mp032.json"
+    },
+    {
+      "igdb_id": 160597,
+      "game_name": "Tiger Tank 59 I: Battleship MP035",
+      "file": "missing/T/160597-tiger-tank-59-i-battleship-mp035.json"
+    },
+    {
+      "igdb_id": 160577,
+      "game_name": "Tiger Tank 59 I: Battleship MP036",
+      "file": "missing/T/160577-tiger-tank-59-i-battleship-mp036.json"
     },
     {
       "igdb_id": 160360,
@@ -913948,14 +914263,169 @@
       "file": "missing/T/160360-tiger-tank-59-i-battleship-mp037.json"
     },
     {
+      "igdb_id": 160587,
+      "game_name": "Tiger Tank 59 I: Battleship MP038",
+      "file": "missing/T/160587-tiger-tank-59-i-battleship-mp038.json"
+    },
+    {
+      "igdb_id": 160573,
+      "game_name": "Tiger Tank 59 I: Battleship MP042",
+      "file": "missing/T/160573-tiger-tank-59-i-battleship-mp042.json"
+    },
+    {
+      "igdb_id": 160606,
+      "game_name": "Tiger Tank 59 I: Battleship MP043",
+      "file": "missing/T/160606-tiger-tank-59-i-battleship-mp043.json"
+    },
+    {
+      "igdb_id": 160590,
+      "game_name": "Tiger Tank 59 I: Battleship MP047",
+      "file": "missing/T/160590-tiger-tank-59-i-battleship-mp047.json"
+    },
+    {
+      "igdb_id": 160595,
+      "game_name": "Tiger Tank 59 I: Battleship MP048",
+      "file": "missing/T/160595-tiger-tank-59-i-battleship-mp048.json"
+    },
+    {
+      "igdb_id": 160612,
+      "game_name": "Tiger Tank 59 I: Battleship MP049",
+      "file": "missing/T/160612-tiger-tank-59-i-battleship-mp049.json"
+    },
+    {
+      "igdb_id": 160585,
+      "game_name": "Tiger Tank 59 I: Battleship MP053",
+      "file": "missing/T/160585-tiger-tank-59-i-battleship-mp053.json"
+    },
+    {
+      "igdb_id": 160575,
+      "game_name": "Tiger Tank 59 I: Battleship MP054",
+      "file": "missing/T/160575-tiger-tank-59-i-battleship-mp054.json"
+    },
+    {
+      "igdb_id": 160592,
+      "game_name": "Tiger Tank 59 I: Battleship MP055",
+      "file": "missing/T/160592-tiger-tank-59-i-battleship-mp055.json"
+    },
+    {
+      "igdb_id": 160605,
+      "game_name": "Tiger Tank 59 I: Battleship MP056",
+      "file": "missing/T/160605-tiger-tank-59-i-battleship-mp056.json"
+    },
+    {
+      "igdb_id": 160613,
+      "game_name": "Tiger Tank 59 I: Battleship MP057",
+      "file": "missing/T/160613-tiger-tank-59-i-battleship-mp057.json"
+    },
+    {
       "igdb_id": 160323,
       "game_name": "Tiger Tank 59 I: Battleship MP058",
       "file": "missing/T/160323-tiger-tank-59-i-battleship-mp058.json"
     },
     {
+      "igdb_id": 160582,
+      "game_name": "Tiger Tank 59 I: Battleship MP060",
+      "file": "missing/T/160582-tiger-tank-59-i-battleship-mp060.json"
+    },
+    {
       "igdb_id": 161150,
       "game_name": "Tiger Tank 59 I: Battleship MP061",
       "file": "missing/T/161150-tiger-tank-59-i-battleship-mp061.json"
+    },
+    {
+      "igdb_id": 160602,
+      "game_name": "Tiger Tank 59 I: Battleship MP062",
+      "file": "missing/T/160602-tiger-tank-59-i-battleship-mp062.json"
+    },
+    {
+      "igdb_id": 160609,
+      "game_name": "Tiger Tank 59 I: Battleship MP070",
+      "file": "missing/T/160609-tiger-tank-59-i-battleship-mp070.json"
+    },
+    {
+      "igdb_id": 160580,
+      "game_name": "Tiger Tank 59 I: Battleship MP071",
+      "file": "missing/T/160580-tiger-tank-59-i-battleship-mp071.json"
+    },
+    {
+      "igdb_id": 160576,
+      "game_name": "Tiger Tank 59 I: Battleship MP072",
+      "file": "missing/T/160576-tiger-tank-59-i-battleship-mp072.json"
+    },
+    {
+      "igdb_id": 160589,
+      "game_name": "Tiger Tank 59 I: Battleship MP078",
+      "file": "missing/T/160589-tiger-tank-59-i-battleship-mp078.json"
+    },
+    {
+      "igdb_id": 160579,
+      "game_name": "Tiger Tank 59 I: Battleship MP080",
+      "file": "missing/T/160579-tiger-tank-59-i-battleship-mp080.json"
+    },
+    {
+      "igdb_id": 160578,
+      "game_name": "Tiger Tank 59 I: Battleship MP081",
+      "file": "missing/T/160578-tiger-tank-59-i-battleship-mp081.json"
+    },
+    {
+      "igdb_id": 160583,
+      "game_name": "Tiger Tank 59 I: Battleship MP083",
+      "file": "missing/T/160583-tiger-tank-59-i-battleship-mp083.json"
+    },
+    {
+      "igdb_id": 160604,
+      "game_name": "Tiger Tank 59 I: Battleship MP084",
+      "file": "missing/T/160604-tiger-tank-59-i-battleship-mp084.json"
+    },
+    {
+      "igdb_id": 160591,
+      "game_name": "Tiger Tank 59 I: Battleship MP089",
+      "file": "missing/T/160591-tiger-tank-59-i-battleship-mp089.json"
+    },
+    {
+      "igdb_id": 160571,
+      "game_name": "Tiger Tank 59 I: Battleship MP091",
+      "file": "missing/T/160571-tiger-tank-59-i-battleship-mp091.json"
+    },
+    {
+      "igdb_id": 160581,
+      "game_name": "Tiger Tank 59 I: Battleship MP093",
+      "file": "missing/T/160581-tiger-tank-59-i-battleship-mp093.json"
+    },
+    {
+      "igdb_id": 160608,
+      "game_name": "Tiger Tank 59 I: Battleship MP094",
+      "file": "missing/T/160608-tiger-tank-59-i-battleship-mp094.json"
+    },
+    {
+      "igdb_id": 160593,
+      "game_name": "Tiger Tank 59 I: Battleship MP095",
+      "file": "missing/T/160593-tiger-tank-59-i-battleship-mp095.json"
+    },
+    {
+      "igdb_id": 160596,
+      "game_name": "Tiger Tank 59 I: Battleship MP096",
+      "file": "missing/T/160596-tiger-tank-59-i-battleship-mp096.json"
+    },
+    {
+      "igdb_id": 160598,
+      "game_name": "Tiger Tank 59 I: Battleship MP097",
+      "file": "missing/T/160598-tiger-tank-59-i-battleship-mp097.json"
+    },
+    {
+      "igdb_id": 160586,
+      "game_name": "Tiger Tank 59 I: Battleship MP098",
+      "file": "missing/T/160586-tiger-tank-59-i-battleship-mp098.json"
+    },
+    {
+      "igdb_id": 160618,
+      "game_name": "Tiger Tank 59 I: Battleship MP099",
+      "file": "missing/T/160618-tiger-tank-59-i-battleship-mp099.json"
+    },
+    {
+      "igdb_id": 160574,
+      "game_name": "Tiger Tank 59 I: Battleship MP100",
+      "file": "missing/T/160574-tiger-tank-59-i-battleship-mp100.json"
     },
     {
       "igdb_id": 160345,
@@ -942728,6 +943198,11 @@
       "file": "missing/T/85455-triboo.json"
     },
     {
+      "igdb_id": 160105,
+      "game_name": "Tribulation",
+      "file": "missing/T/160105-tribulation.json"
+    },
+    {
       "igdb_id": 410983,
       "game_name": "Tribulum",
       "file": "missing/T/410983-tribulum.json"
@@ -948821,6 +949296,11 @@
       "igdb_id": 317362,
       "game_name": "Turret Defense King",
       "file": "missing/T/317362-turret-defense-king.json"
+    },
+    {
+      "igdb_id": 160079,
+      "game_name": "Turret Defense: Bug Invasion",
+      "file": "missing/T/160079-turret-defense-bug-invasion.json"
     },
     {
       "igdb_id": 235670,
@@ -984953,6 +985433,11 @@
       "file": "missing/W/23652-wartune.json"
     },
     {
+      "igdb_id": 160087,
+      "game_name": "Wartune Reborn",
+      "file": "missing/W/160087-wartune-reborn.json"
+    },
+    {
       "igdb_id": 392881,
       "game_name": "Wartune Ultra",
       "file": "missing/W/392881-wartune-ultra.json"
@@ -986651,6 +987136,11 @@
       "igdb_id": 168695,
       "game_name": "Way Walkers: University",
       "file": "missing/W/168695-way-walkers-university.json"
+    },
+    {
+      "igdb_id": 160088,
+      "game_name": "Way Walkers: University 2",
+      "file": "missing/W/160088-way-walkers-university-2.json"
     },
     {
       "igdb_id": 110933,
@@ -994776,6 +995266,11 @@
       "igdb_id": 120218,
       "game_name": "Wild Guardians",
       "file": "missing/W/120218-wild-guardians.json"
+    },
+    {
+      "igdb_id": 160078,
+      "game_name": "Wild Gun",
+      "file": "missing/W/160078-wild-gun.json"
     },
     {
       "igdb_id": 4625,
@@ -1014916,6 +1015411,11 @@
       "igdb_id": 117692,
       "game_name": "Yiki Action RPG",
       "file": "missing/Y/117692-yiki-action-rpg.json"
+    },
+    {
+      "igdb_id": 160091,
+      "game_name": "Yin Yang",
+      "file": "missing/Y/160091-yin-yang.json"
     },
     {
       "igdb_id": 197075,
