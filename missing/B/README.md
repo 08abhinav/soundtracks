@@ -3571,6 +3571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania 6thMIX + Core Remix | 280863 | [280863-beatmania-6thmix-core-remix.json](./280863-beatmania-6thmix-core-remix.json) |
 | Beatmania 6thMix: The UK Underground Music | 79612 | [79612-beatmania-6thmix-the-uk-underground-music.json](./79612-beatmania-6thmix-the-uk-underground-music.json) |
 | Beatmania 7thMix: Keepin' Evolution | 94743 | [94743-beatmania-7thmix-keepin-evolution.json](./94743-beatmania-7thmix-keepin-evolution.json) |
+| Beatmania Append 3rdMix Mini | 135555 | [135555-beatmania-append-3rdmix-mini.json](./135555-beatmania-append-3rdmix-mini.json) |
 | Beatmania Append 5thMix: Time to Get Down | 70994 | [70994-beatmania-append-5thmix-time-to-get-down.json](./70994-beatmania-append-5thmix-time-to-get-down.json) |
 | Beatmania Append ClubMix | 54706 | [54706-beatmania-append-clubmix.json](./54706-beatmania-append-clubmix.json) |
 | Beatmania Append Gottamix 2: Going Global | 292855 | [292855-beatmania-append-gottamix-2-going-global.json](./292855-beatmania-append-gottamix-2-going-global.json) |
@@ -9438,6 +9439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Out: Can You Pass It? | 312644 | [312644-brain-out-can-you-pass-it.json](./312644-brain-out-can-you-pass-it.json) |
 | Brain Overload: Calculate | 275519 | [275519-brain-overload-calculate.json](./275519-brain-overload-calculate.json) |
 | Brain Party | 70629 | [70629-brain-party.json](./70629-brain-party.json) |
+| Brain Please Don't | 135563 | [135563-brain-please-dont.json](./135563-brain-please-dont.json) |
 | Brain Pump | 116155 | [116155-brain-pump.json](./116155-brain-pump.json) |
 | Brain Puzzle | 90203 | [90203-brain-puzzle.json](./90203-brain-puzzle.json) |
 | Brain Puzzle: Tricky Quest | 354394 | [354394-brain-puzzle-tricky-quest.json](./354394-brain-puzzle-tricky-quest.json) |
