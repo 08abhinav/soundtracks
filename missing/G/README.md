@@ -999,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamera 2000 | 44865 | [44865-gamera-2000.json](./44865-gamera-2000.json) |
 | Gamera Dream Battle | 227743 | [227743-gamera-dream-battle.json](./227743-gamera-dream-battle.json) |
 | Gamera: The Time Adventure | 66081 | [66081-gamera-the-time-adventure.json](./66081-gamera-the-time-adventure.json) |
+| Gamerbots: Third-Robot Shooting | 144036 | [144036-gamerbots-third-robot-shooting.json](./144036-gamerbots-third-robot-shooting.json) |
 | Gamers Choice | 86083 | [86083-gamers-choice.json](./86083-gamers-choice.json) |
 | Gamers Pack | 72043 | [72043-gamers-pack.json](./72043-gamers-pack.json) |
 | Gamers Unknown Survival | 54484 | [54484-gamers-unknown-survival.json](./54484-gamers-unknown-survival.json) |
@@ -4244,6 +4245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Tee 2018 | 82145 | [82145-golden-tee-2018.json](./82145-golden-tee-2018.json) |
 | Golden Tee Golf | 198749 | [198749-golden-tee-golf.json](./198749-golden-tee-golf.json) |
 | Golden Tee Live | 28719 | [28719-golden-tee-live.json](./28719-golden-tee-live.json) |
+| Golden Tee Mobile | 144039 | [144039-golden-tee-mobile.json](./144039-golden-tee-mobile.json) |
 | Golden Tee PGA Tour | 337445 | [337445-golden-tee-pga-tour.json](./337445-golden-tee-pga-tour.json) |
 | Golden Trails 2 | 88205 | [88205-golden-trails-2.json](./88205-golden-trails-2.json) |
 | Golden Trails 3 | 100016 | [100016-golden-trails-3.json](./100016-golden-trails-3.json) |
@@ -7281,6 +7283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunsmith Workshop Simulator | 286191 | [286191-gunsmith-workshop-simulator.json](./286191-gunsmith-workshop-simulator.json) |
 | Gunsmoke | 261449 | [261449-gunsmoke.json](./261449-gunsmoke.json) |
 | Gunso's Skateboard Run | 333733 | [333733-gunsos-skateboard-run.json](./333733-gunsos-skateboard-run.json) |
+| GunSoul Girl | 144055 | [144055-gunsoul-girl.json](./144055-gunsoul-girl.json) |
 | GunSoul Girl 2 | 213000 | [213000-gunsoul-girl-2.json](./213000-gunsoul-girl-2.json) |
 | GunSpectre | 236882 | [236882-gunspectre.json](./236882-gunspectre.json) |
 | Gunspell | 54071 | [54071-gunspell.json](./54071-gunspell.json) |
