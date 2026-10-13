@@ -3014,6 +3014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equinox | 264123 | [264123-equinox.json](./264123-equinox.json) |
 | Equinox | 329147 | [329147-equinox.json](./329147-equinox.json) |
 | Equinox: Homecoming | 342898 | [342898-equinox-homecoming.json](./342898-equinox-homecoming.json) |
+| Equinoxe | 176210 | [176210-equinoxe.json](./176210-equinoxe.json) |
 | Equipmentris | 184361 | [184361-equipmentris.json](./184361-equipmentris.json) |
 | Equitania | 359353 | [359353-equitania.json](./359353-equitania.json) |
 | Equiverse | 303801 | [303801-equiverse.json](./303801-equiverse.json) |
