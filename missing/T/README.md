@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TacWars | 94881 | [94881-tacwars.json](./94881-tacwars.json) |
 | Tad the Lost Explorer and the Emerald Tablet | 204124 | [204124-tad-the-lost-explorer-and-the-emerald-tablet.json](./204124-tad-the-lost-explorer-and-the-emerald-tablet.json) |
 | Tad the Lost Explorer and the Emerald Tablet: Craziest and Madness Edition | 250359 | [250359-tad-the-lost-explorer-and-the-emerald-tablet-craziest-and-madness-edition.json](./250359-tad-the-lost-explorer-and-the-emerald-tablet-craziest-and-madness-edition.json) |
+| Tadahito: Story of Ellis | 152049 | [152049-tadahito-story-of-ellis.json](./152049-tadahito-story-of-ellis.json) |
 | Tadaima Yuusha Boshuuchuu Okawari | 37799 | [37799-tadaima-yuusha-boshuuchuu-okawari.json](./37799-tadaima-yuusha-boshuuchuu-okawari.json) |
 | Taddle Quest | 224608 | [224608-taddle-quest.json](./224608-taddle-quest.json) |
 | Tadeo Jones y el Manuscrito Perdido | 82043 | [82043-tadeo-jones-y-el-manuscrito-perdido.json](./82043-tadeo-jones-y-el-manuscrito-perdido.json) |
@@ -2121,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teamball.io | 154815 | [154815-teamball-io.json](./154815-teamball-io.json) |
 | Teamchef | 93006 | [93006-teamchef.json](./93006-teamchef.json) |
 | Teamfight Manager 2 | 369638 | [369638-teamfight-manager-2.json](./369638-teamfight-manager-2.json) |
+| TeamJumpers 2: New Reality | 152032 | [152032-teamjumpers-2-new-reality.json](./152032-teamjumpers-2-new-reality.json) |
 | Teamkill | 191560 | [191560-teamkill.json](./191560-teamkill.json) |
 | TeamPlay | 163976 | [163976-teamplay.json](./163976-teamplay.json) |
 | TeamPunk | 232927 | [232927-teampunk.json](./232927-teampunk.json) |
@@ -5328,6 +5330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Wings 2 | 120345 | [120345-the-dark-wings-2.json](./120345-the-dark-wings-2.json) |
 | The Dark Wish | 123470 | [123470-the-dark-wish.json](./123470-the-dark-wish.json) |
 | The Dark World | 221234 | [221234-the-dark-world.json](./221234-the-dark-world.json) |
+| The Dark World: Edge of Eternity | 152053 | [152053-the-dark-world-edge-of-eternity.json](./152053-the-dark-world-edge-of-eternity.json) |
 | The Darked | 142227 | [142227-the-darked.json](./142227-the-darked.json) |
 | The Darkened Halls | 275701 | [275701-the-darkened-halls.json](./275701-the-darkened-halls.json) |
 | The Darkened Outpost | 263424 | [263424-the-darkened-outpost.json](./263424-the-darkened-outpost.json) |
@@ -8816,6 +8819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The m0rg VS keys | 93721 | [93721-the-m0rg-vs-keys.json](./93721-the-m0rg-vs-keys.json) |
 | The Machine | 288126 | [288126-the-machine.json](./288126-the-machine.json) |
 | The Machine | 79257 | [79257-the-machine.json](./79257-the-machine.json) |
+| The Machine's Garden | 152045 | [152045-the-machines-garden.json](./152045-the-machines-garden.json) |
 | The Machinery | 271747 | [271747-the-machinery.json](./271747-the-machinery.json) |
 | The Madman | 205274 | [205274-the-madman.json](./205274-the-madman.json) |
 | The Madness of Death | 214182 | [214182-the-madness-of-death.json](./214182-the-madness-of-death.json) |
@@ -15184,6 +15188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Mysteries 3: The Final Enigma | 17764 | [17764-time-mysteries-3-the-final-enigma.json](./17764-time-mysteries-3-the-final-enigma.json) |
 | Time Mysteries Collection | 53801 | [53801-time-mysteries-collection.json](./53801-time-mysteries-collection.json) |
 | Time Mysteries: Inheritance - Remastered | 35726 | [35726-time-mysteries-inheritance-remastered.json](./35726-time-mysteries-inheritance-remastered.json) |
+| Time Navigator | 152022 | [152022-time-navigator.json](./152022-time-navigator.json) |
 | Time Ocean | 244467 | [244467-time-ocean.json](./244467-time-ocean.json) |
 | Time of Fury | 17486 | [17486-time-of-fury.json](./17486-time-of-fury.json) |
 | Time of Heroes | 341087 | [341087-time-of-heroes.json](./341087-time-of-heroes.json) |
@@ -15841,6 +15846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tkium Underground | 225181 | [225181-tkium-underground.json](./225181-tkium-underground.json) |
 | TKKG: Alarm in der Geisterbahn | 182384 | [182384-tkkg-alarm-in-der-geisterbahn.json](./182384-tkkg-alarm-in-der-geisterbahn.json) |
 | TKKG: Deadly Chocolate | 200658 | [200658-tkkg-deadly-chocolate.json](./200658-tkkg-deadly-chocolate.json) |
+| TKKG: Der Fälscherbande auf der Spur | 152034 | [152034-tkkg-der-falscherbande-auf-der-spur.json](./152034-tkkg-der-falscherbande-auf-der-spur.json) |
 | TKKG: Die Feuerprobe | 120853 | [120853-tkkg-die-feuerprobe.json](./120853-tkkg-die-feuerprobe.json) |
 | TKKG: Jennifer is Missing | 206218 | [206218-tkkg-jennifer-is-missing.json](./206218-tkkg-jennifer-is-missing.json) |
 | TKKG: Mystery of the Mayan Treasure | 206216 | [206216-tkkg-mystery-of-the-mayan-treasure.json](./206216-tkkg-mystery-of-the-mayan-treasure.json) |
@@ -20509,6 +20515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trine 2: Complete Story | 38932 | [38932-trine-2-complete-story.json](./38932-trine-2-complete-story.json) |
 | Trine 3: The Artifacts of Power | 8255 | [8255-trine-3-the-artifacts-of-power.json](./8255-trine-3-the-artifacts-of-power.json) |
 | Trine 4: Definitive Edition | 347277 | [347277-trine-4-definitive-edition.json](./347277-trine-4-definitive-edition.json) |
+| Trine 4: Melody of Mystery | 152036 | [152036-trine-4-melody-of-mystery.json](./152036-trine-4-melody-of-mystery.json) |
 | Trine 4: The Nightmare Prince | 110846 | [110846-trine-4-the-nightmare-prince.json](./110846-trine-4-the-nightmare-prince.json) |
 | Trine 5: A Clockwork Conspiracy | 245390 | [245390-trine-5-a-clockwork-conspiracy.json](./245390-trine-5-a-clockwork-conspiracy.json) |
 | Trine Bundle | 142369 | [142369-trine-bundle.json](./142369-trine-bundle.json) |
