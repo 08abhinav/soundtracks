@@ -276,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EarthBound Zero Remake | 324007 | [324007-earthbound-zero-remake.json](./324007-earthbound-zero-remake.json) |
 | Earthbreakers | 126458 | [126458-earthbreakers.json](./126458-earthbreakers.json) |
 | EarthCraft 2: World Exploration & Survival | 99705 | [99705-earthcraft-2-world-exploration-and-survival.json](./99705-earthcraft-2-world-exploration-and-survival.json) |
+| Earthfall: Deluxe Edition | 136297 | [136297-earthfall-deluxe-edition.json](./136297-earthfall-deluxe-edition.json) |
 | Earthflow: Fate of the Stargazer | 52205 | [52205-earthflow-fate-of-the-stargazer.json](./52205-earthflow-fate-of-the-stargazer.json) |
 | EarthGang: Mirrorland | 234503 | [234503-earthgang-mirrorland.json](./234503-earthgang-mirrorland.json) |
 | Earthion | 281015 | [281015-earthion.json](./281015-earthion.json) |
@@ -2250,6 +2251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encore | 403601 | [403601-encore.json](./403601-encore.json) |
 | EnCore | 94678 | [94678-encore.json](./94678-encore.json) |
 | Encore Card Games | 130706 | [130706-encore-card-games.json](./130706-encore-card-games.json) |
+| Encore Classic Card Games | 136300 | [136300-encore-classic-card-games.json](./136300-encore-classic-card-games.json) |
 | Encore Classic: Puzzle & Board Games | 163560 | [163560-encore-classic-puzzle-and-board-games.json](./163560-encore-classic-puzzle-and-board-games.json) |
 | Encore Encore! | 364682 | [364682-encore-encore.json](./364682-encore-encore.json) |
 | Encore Illusions | 190437 | [190437-encore-illusions.json](./190437-encore-illusions.json) |
@@ -4113,6 +4115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Truck Simulator 2: Farm Machinery | 356654 | [356654-euro-truck-simulator-2-farm-machinery.json](./356654-euro-truck-simulator-2-farm-machinery.json) |
 | Euro Truck Simulator 2: Forest Machinery | 378923 | [378923-euro-truck-simulator-2-forest-machinery.json](./378923-euro-truck-simulator-2-forest-machinery.json) |
 | Euro Truck Simulator 2: Heart of Russia | 165013 | [165013-euro-truck-simulator-2-heart-of-russia.json](./165013-euro-truck-simulator-2-heart-of-russia.json) |
+| Euro Truck Simulator 2: Heavy Cargo | 136172 | [136172-euro-truck-simulator-2-heavy-cargo.json](./136172-euro-truck-simulator-2-heavy-cargo.json) |
 | Euro Truck Simulator 2: Iberia | 145585 | [145585-euro-truck-simulator-2-iberia.json](./145585-euro-truck-simulator-2-iberia.json) |
 | Euro Truck Simulator 2: Isle of Ireland | 375302 | [375302-euro-truck-simulator-2-isle-of-ireland.json](./375302-euro-truck-simulator-2-isle-of-ireland.json) |
 | Euro Truck Simulator 2: Italia | 76432 | [76432-euro-truck-simulator-2-italia.json](./76432-euro-truck-simulator-2-italia.json) |
@@ -4294,6 +4297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evenfall | 362328 | [362328-evenfall.json](./362328-evenfall.json) |
 | Evening | 360501 | [360501-evening.json](./360501-evening.json) |
 | Evening Star | 13647 | [13647-evening-star.json](./13647-evening-star.json) |
+| Evening Star + Southern Belle | 137361 | [137361-evening-star-southern-belle.json](./137361-evening-star-southern-belle.json) |
 | Evening Star 2 | 114296 | [114296-evening-star-2.json](./114296-evening-star-2.json) |
 | Evening Starter | 163765 | [163765-evening-starter.json](./163765-evening-starter.json) |
 | Evening Vibes | 217020 | [217020-evening-vibes.json](./217020-evening-vibes.json) |
