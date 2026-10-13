@@ -1188,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetism Rally | 257263 | [257263-magnetism-rally.json](./257263-magnetism-rally.json) |
 | Magnetized | 31113 | [31113-magnetized.json](./31113-magnetized.json) |
 | Magnetized Knight | 115795 | [115795-magnetized-knight.json](./115795-magnetized-knight.json) |
+| MagnetoBotty | 149390 | [149390-magnetobotty.json](./149390-magnetobotty.json) |
 | Magnetoresistive | 180597 | [180597-magnetoresistive.json](./180597-magnetoresistive.json) |
 | Magnetron | 34089 | [34089-magnetron.json](./34089-magnetron.json) |
 | Magnets | 366911 | [366911-magnets.json](./366911-magnets.json) |
@@ -4411,6 +4412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech_Romancer Charity Bundle 2 | 205016 | [205016-mech-romancer-charity-bundle-2.json](./205016-mech-romancer-charity-bundle-2.json) |
 | Mecha | 336622 | [336622-mecha.json](./336622-mecha.json) |
 | Mecha Ace | 17745 | [17745-mecha-ace.json](./17745-mecha-ace.json) |
+| Mecha and Tank Fighting | 149365 | [149365-mecha-and-tank-fighting.json](./149365-mecha-and-tank-fighting.json) |
 | Mecha Arena | 321494 | [321494-mecha-arena.json](./321494-mecha-arena.json) |
 | Mecha Attack | 214103 | [214103-mecha-attack.json](./214103-mecha-attack.json) |
 | Mecha Jump | 365786 | [365786-mecha-jump.json](./365786-mecha-jump.json) |
@@ -4828,6 +4830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Bundle 15-in-1 | 401132 | [401132-mega-bundle-15-in-1.json](./401132-mega-bundle-15-in-1.json) |
 | Mega Bundle: Cats | 208046 | [208046-mega-bundle-cats.json](./208046-mega-bundle-cats.json) |
 | Mega Business M: Business World | 199900 | [199900-mega-business-m-business-world.json](./199900-mega-business-m-business-world.json) |
+| Mega Capital | 149383 | [149383-mega-capital.json](./149383-mega-capital.json) |
 | Mega Carrier Simulator | 392170 | [392170-mega-carrier-simulator.json](./392170-mega-carrier-simulator.json) |
 | Mega Cat Studios Collection 1 | 130688 | [130688-mega-cat-studios-collection-1.json](./130688-mega-cat-studios-collection-1.json) |
 | Mega City Force | 238767 | [238767-mega-city-force.json](./238767-mega-city-force.json) |
@@ -12665,6 +12668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muse Dash 2 | 400225 | [400225-muse-dash-2.json](./400225-muse-dash-2.json) |
 | Muse Dash: Just as Planned | 356178 | [356178-muse-dash-just-as-planned.json](./356178-muse-dash-just-as-planned.json) |
 | Muse Dash: Muse Plus | 356177 | [356177-muse-dash-muse-plus.json](./356177-muse-dash-muse-plus.json) |
+| Muse: Night Out | 149399 | [149399-muse-night-out.json](./149399-muse-night-out.json) |
 | Museca | 57107 | [57107-museca.json](./57107-museca.json) |
 | Museful | 398543 | [398543-museful.json](./398543-museful.json) |
 | Musestruck | 330945 | [330945-musestruck.json](./330945-musestruck.json) |
