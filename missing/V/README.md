@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocity Classics: Volume 1 | 84252 | [84252-velocity-classics-volume-1.json](./84252-velocity-classics-volume-1.json) |
 | Velocity One | 357199 | [357199-velocity-one.json](./357199-velocity-one.json) |
 | Velocity Racing: 1000 | 359572 | [359572-velocity-racing-1000.json](./359572-velocity-racing-1000.json) |
+| Velocity Raptor | 145388 | [145388-velocity-raptor.json](./145388-velocity-raptor.json) |
 | Velocity Redux | 413229 | [413229-velocity-redux.json](./413229-velocity-redux.json) |
 | Velocity Rift | 377299 | [377299-velocity-rift.json](./377299-velocity-rift.json) |
 | Velocity Rush | 338574 | [338574-velocity-rush.json](./338574-velocity-rush.json) |
@@ -980,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venus the Flytrap | 69560 | [69560-venus-the-flytrap.json](./69560-venus-the-flytrap.json) |
 | Venus Vacation Prism: Dead or Alive Xtreme | 318023 | [318023-venus-vacation-prism-dead-or-alive-xtreme.json](./318023-venus-vacation-prism-dead-or-alive-xtreme.json) |
 | Venus Voyager 2 | 292882 | [292882-venus-voyager-2.json](./292882-venus-voyager-2.json) |
+| Venus: Improbable Dream | 145404 | [145404-venus-improbable-dream.json](./145404-venus-improbable-dream.json) |
 | Venus: The Last Ascent | 407293 | [407293-venus-the-last-ascent.json](./407293-venus-the-last-ascent.json) |
 | VenusBlood Ragnarok International | 348435 | [348435-venusblood-ragnarok-international.json](./348435-venusblood-ragnarok-international.json) |
 | Venusian Vengeance | 35704 | [35704-venusian-vengeance.json](./35704-venusian-vengeance.json) |
