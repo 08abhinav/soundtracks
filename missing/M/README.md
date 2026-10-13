@@ -7144,6 +7144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microwave Story | 311060 | [311060-microwave-story.json](./311060-microwave-story.json) |
 | Microwave Yourself | 364401 | [364401-microwave-yourself.json](./364401-microwave-yourself.json) |
 | MicroWorks | 132893 | [132893-microworks.json](./132893-microworks.json) |
+| Mictlan: An Ancient Mythical Tale | 154807 | [154807-mictlan-an-ancient-mythical-tale.json](./154807-mictlan-an-ancient-mythical-tale.json) |
 | Mid-Death Crisis | 295495 | [295495-mid-death-crisis.json](./295495-mid-death-crisis.json) |
 | Midair | 55115 | [55115-midair.json](./55115-midair.json) |
 | Midas | 338837 | [338837-midas.json](./338837-midas.json) |
@@ -13594,6 +13595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Princess Girlfriend | 228416 | [228416-my-princess-girlfriend.json](./228416-my-princess-girlfriend.json) |
 | My Protogen Engineer | 291474 | [291474-my-protogen-engineer.json](./291474-my-protogen-engineer.json) |
 | My Puppy Love | 99100 | [99100-my-puppy-love.json](./99100-my-puppy-love.json) |
+| My Puppy Shop | 154786 | [154786-my-puppy-shop.json](./154786-my-puppy-shop.json) |
 | My Putrid Ponies | 367541 | [367541-my-putrid-ponies.json](./367541-my-putrid-ponies.json) |
 | My Railroad | 118952 | [118952-my-railroad.json](./118952-my-railroad.json) |
 | My Raising Diary | 321594 | [321594-my-raising-diary.json](./321594-my-raising-diary.json) |
