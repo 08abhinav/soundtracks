@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Frog's Job 2: Froggina | 400419 | [400419-a-frogs-job-2-froggina.json](./400419-a-frogs-job-2-froggina.json) |
 | A Frog's Job: Level Pack 1 | 306558 | [306558-a-frogs-job-level-pack-1.json](./306558-a-frogs-job-level-pack-1.json) |
 | A Frog's Job: Level Pack 2 | 306559 | [306559-a-frogs-job-level-pack-2.json](./306559-a-frogs-job-level-pack-2.json) |
+| A Frog's Tale | 144700 | [144700-a-frogs-tale.json](./144700-a-frogs-tale.json) |
 | A Fugu's Dive | 379501 | [379501-a-fugus-dive.json](./379501-a-fugus-dive.json) |
 | A Furry Tale: A night in Havena | 312673 | [312673-a-furry-tale-a-night-in-havena.json](./312673-a-furry-tale-a-night-in-havena.json) |
 | A Future With You | 364521 | [364521-a-future-with-you.json](./364521-a-future-with-you.json) |
@@ -676,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Shadow in Space | 383719 | [383719-a-shadow-in-space.json](./383719-a-shadow-in-space.json) |
 | A Shadow of Time | 247966 | [247966-a-shadow-of-time.json](./247966-a-shadow-of-time.json) |
 | A Shard of Mine | 243418 | [243418-a-shard-of-mine.json](./243418-a-shard-of-mine.json) |
+| A Shiba Story | 144692 | [144692-a-shiba-story.json](./144692-a-shiba-story.json) |
 | A Shiver in Time | 177853 | [177853-a-shiver-in-time.json](./177853-a-shiver-in-time.json) |
 | A Shlong Adventure | 372122 | [372122-a-shlong-adventure.json](./372122-a-shlong-adventure.json) |
 | A Shock of Dimension | 422154 | [422154-a-shock-of-dimension.json](./422154-a-shock-of-dimension.json) |
@@ -9768,6 +9770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault at Wounded Ankle | 350993 | [350993-assault-at-wounded-ankle.json](./350993-assault-at-wounded-ankle.json) |
 | Assault Bandit | 240347 | [240347-assault-bandit.json](./240347-assault-bandit.json) |
 | Assault Battery | 184825 | [184825-assault-battery.json](./184825-assault-battery.json) |
+| Assault Bots | 144737 | [144737-assault-bots.json](./144737-assault-bots.json) |
 | Assault City | 46117 | [46117-assault-city.json](./46117-assault-city.json) |
 | Assault Commander Rearmed | 371888 | [371888-assault-commander-rearmed.json](./371888-assault-commander-rearmed.json) |
 | Assault CorpsII | 35101 | [35101-assault-corpsii.json](./35101-assault-corpsii.json) |
