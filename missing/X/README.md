@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Mercs | 59982 | [59982-x-mercs.json](./59982-x-mercs.json) |
 | X-Moon | 112325 | [112325-x-moon.json](./112325-x-moon.json) |
 | X-Morph: Defense | 27663 | [27663-x-morph-defense.json](./27663-x-morph-defense.json) |
+| X-Morph: Defense - Limited Edition | 166262 | [166262-x-morph-defense-limited-edition.json](./166262-x-morph-defense-limited-edition.json) |
 | X-Motor Racing | 50110 | [50110-x-motor-racing.json](./50110-x-motor-racing.json) |
 | X-Noir | 124598 | [124598-x-noir.json](./124598-x-noir.json) |
 | X-Note | 36055 | [36055-x-note.json](./36055-x-note.json) |
