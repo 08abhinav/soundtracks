@@ -2284,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Ride! AMDriver: Shutsugeki! Battle Party | 49604 | [49604-get-ride-amdriver-shutsugeki-battle-party.json](./49604-get-ride-amdriver-shutsugeki-battle-party.json) |
 | Get Slapped! | 258405 | [258405-get-slapped.json](./258405-get-slapped.json) |
 | Get Some | 53083 | [53083-get-some.json](./53083-get-some.json) |
+| Get Stuffed! | 164596 | [164596-get-stuffed.json](./164596-get-stuffed.json) |
 | Get Stuffed! | 175655 | [175655-get-stuffed.json](./175655-get-stuffed.json) |
 | Get Tanked! | 169863 | [169863-get-tanked.json](./169863-get-tanked.json) |
 | Get the Ball Rolling | 211929 | [211929-get-the-ball-rolling.json](./211929-get-the-ball-rolling.json) |
@@ -6098,6 +6099,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimm Shuffle | 158670 | [158670-grimm-shuffle.json](./158670-grimm-shuffle.json) |
 | Grimm Tales | 239010 | [239010-grimm-tales.json](./239010-grimm-tales.json) |
 | Grimm: Dark Legacy | 25823 | [25823-grimm-dark-legacy.json](./25823-grimm-dark-legacy.json) |
+| Grimm: Episode 11 - King Midas | 164565 | [164565-grimm-episode-11-king-midas.json](./164565-grimm-episode-11-king-midas.json) |
+| Grimm: Episode 12 - Cinderella | 164560 | [164560-grimm-episode-12-cinderella.json](./164560-grimm-episode-12-cinderella.json) |
+| Grimm: Episode 13 - The Golden Goose | 164563 | [164563-grimm-episode-13-the-golden-goose.json](./164563-grimm-episode-13-the-golden-goose.json) |
+| Grimm: Episode 17 - The Frog King | 164568 | [164568-grimm-episode-17-the-frog-king.json](./164568-grimm-episode-17-the-frog-king.json) |
+| Grimm: Episode 18 - Jack and the Beanstalk | 164564 | [164564-grimm-episode-18-jack-and-the-beanstalk.json](./164564-grimm-episode-18-jack-and-the-beanstalk.json) |
+| Grimm: Episode 22 - The Adventures of Thumbling | 164567 | [164567-grimm-episode-22-the-adventures-of-thumbling.json](./164567-grimm-episode-22-the-adventures-of-thumbling.json) |
+| Grimm: Episode 23 - Snow White | 164559 | [164559-grimm-episode-23-snow-white.json](./164559-grimm-episode-23-snow-white.json) |
+| Grimm: Episode 4 - Puss in Boots | 164566 | [164566-grimm-episode-4-puss-in-boots.json](./164566-grimm-episode-4-puss-in-boots.json) |
+| Grimm: Episode 5 - The Girl Without Hands | 164562 | [164562-grimm-episode-5-the-girl-without-hands.json](./164562-grimm-episode-5-the-girl-without-hands.json) |
+| Grimm: Episode 6 - Godfather Death | 164561 | [164561-grimm-episode-6-godfather-death.json](./164561-grimm-episode-6-godfather-death.json) |
 | Grimm: Quest for the Gatherer's Key | 363039 | [363039-grimm-quest-for-the-gatherers-key.json](./363039-grimm-quest-for-the-gatherers-key.json) |
 | Grimm's Hatchery | 73510 | [73510-grimms-hatchery.json](./73510-grimms-hatchery.json) |
 | Grimm's Hollow | 125110 | [125110-grimms-hollow.json](./125110-grimms-hollow.json) |
@@ -6589,6 +6600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guerrilla War | 274099 | [274099-guerrilla-war.json](./274099-guerrilla-war.json) |
 | Guerrilla War | 274100 | [274100-guerrilla-war.json](./274100-guerrilla-war.json) |
 | Guerrilla War | 39787 | [39787-guerrilla-war.json](./39787-guerrilla-war.json) |
+| Guess Colors | 164606 | [164606-guess-colors.json](./164606-guess-colors.json) |
 | Guess Da Meme | 104067 | [104067-guess-da-meme.json](./104067-guess-da-meme.json) |
 | Guess Game | 115068 | [115068-guess-game.json](./115068-guess-game.json) |
 | Guess it not | 79346 | [79346-guess-it-not.json](./79346-guess-it-not.json) |
