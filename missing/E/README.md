@@ -1491,6 +1491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elementary My Dear Majesty! | 35902 | [35902-elementary-my-dear-majesty.json](./35902-elementary-my-dear-majesty.json) |
 | Elementers | 304888 | [304888-elementers.json](./304888-elementers.json) |
 | ElementForger | 220751 | [220751-elementforger.json](./220751-elementforger.json) |
+| Elementico | 177789 | [177789-elementico.json](./177789-elementico.json) |
 | Elementis | 138737 | [138737-elementis.json](./138737-elementis.json) |
 | Elementis TD | 411721 | [411721-elementis-td.json](./411721-elementis-td.json) |
 | Elementite | 187391 | [187391-elementite.json](./187391-elementite.json) |
@@ -1942,6 +1943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergent-Z | 372617 | [372617-emergent-z.json](./372617-emergent-z.json) |
 | Emergents Trading Card Game | 183603 | [183603-emergents-trading-card-game.json](./183603-emergents-trading-card-game.json) |
 | Emerging Tactical | 278421 | [278421-emerging-tactical.json](./278421-emerging-tactical.json) |
+| Emerita | 177787 | [177787-emerita.json](./177787-emerita.json) |
 | Emerland Solitaire Journey | 99099 | [99099-emerland-solitaire-journey.json](./99099-emerland-solitaire-journey.json) |
 | Emerland Solitaire: Endless Journey | 32079 | [32079-emerland-solitaire-endless-journey.json](./32079-emerland-solitaire-endless-journey.json) |
 | Emery Hearts | 286226 | [286226-emery-hearts.json](./286226-emery-hearts.json) |
