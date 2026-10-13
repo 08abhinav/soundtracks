@@ -2096,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up With Doznik | 312569 | [312569-up-with-doznik.json](./312569-up-with-doznik.json) |
 | Up Words | 200370 | [200370-up-words.json](./200370-up-words.json) |
 | Up! The Floor Is Lava | 303705 | [303705-up-the-floor-is-lava.json](./303705-up-the-floor-is-lava.json) |
+| Upaon: A Snake's Journey | 153754 | [153754-upaon-a-snakes-journey.json](./153754-upaon-a-snakes-journey.json) |
 | Upbaka! | 379706 | [379706-upbaka.json](./379706-upbaka.json) |
 | Upbeat | 390130 | [390130-upbeat.json](./390130-upbeat.json) |
 | Upbeat Melody Project | 386257 | [386257-upbeat-melody-project.json](./386257-upbeat-melody-project.json) |
