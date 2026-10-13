@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damn it! | 284995 | [284995-damn-it.json](./284995-damn-it.json) |
 | Damn Little Town | 262062 | [262062-damn-little-town.json](./262062-damn-little-town.json) |
 | Damn Love | 402274 | [402274-damn-love.json](./402274-damn-love.json) |
+| Damn, what was yesterday? | 157919 | [157919-damn-what-was-yesterday.json](./157919-damn-what-was-yesterday.json) |
 | Damnation | 6952 | [6952-damnation.json](./6952-damnation.json) |
 | Damnation City of Death | 35837 | [35837-damnation-city-of-death.json](./35837-damnation-city-of-death.json) |
 | Damnation84 | 401184 | [401184-damnation84.json](./401184-damnation84.json) |
@@ -2571,6 +2572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Curse | 107683 | [107683-deadly-curse.json](./107683-deadly-curse.json) |
 | Deadly Dainosaur: Hunting Safari | 147289 | [147289-deadly-dainosaur-hunting-safari.json](./147289-deadly-dainosaur-hunting-safari.json) |
 | Deadly Danger Dungeon | 323742 | [323742-deadly-danger-dungeon.json](./323742-deadly-danger-dungeon.json) |
+| Deadly Daycare VR | 157909 | [157909-deadly-daycare-vr.json](./157909-deadly-daycare-vr.json) |
 | Deadly Days: The Final Shelter | 199941 | [199941-deadly-days-the-final-shelter.json](./199941-deadly-days-the-final-shelter.json) |
 | Deadly Delivery | 99499 | [99499-deadly-delivery.json](./99499-deadly-delivery.json) |
 | Deadly Desire | 232915 | [232915-deadly-desire.json](./232915-deadly-desire.json) |
@@ -6339,6 +6341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disaster Band | 229138 | [229138-disaster-band.json](./229138-disaster-band.json) |
 | Disaster Crisis | 166749 | [166749-disaster-crisis.json](./166749-disaster-crisis.json) |
 | Disaster Dash | 238399 | [238399-disaster-dash.json](./238399-disaster-dash.json) |
+| Disaster Drive | 157904 | [157904-disaster-drive.json](./157904-disaster-drive.json) |
 | Disaster Island | 197091 | [197091-disaster-island.json](./197091-disaster-island.json) |
 | Disaster Plan Z | 301257 | [301257-disaster-plan-z.json](./301257-disaster-plan-z.json) |
 | Disaster Quest Tree | 268672 | [268672-disaster-quest-tree.json](./268672-disaster-quest-tree.json) |
@@ -11937,6 +11940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons and Dinners | 110117 | [110117-dungeons-and-dinners.json](./110117-dungeons-and-dinners.json) |
 | Dungeons and Dragons: Daggerdale | 15127 | [15127-dungeons-and-dragons-daggerdale.json](./15127-dungeons-and-dragons-daggerdale.json) |
 | Dungeons and Goblins | 270328 | [270328-dungeons-and-goblins.json](./270328-dungeons-and-goblins.json) |
+| Dungeons and Kingdoms | 157929 | [157929-dungeons-and-kingdoms.json](./157929-dungeons-and-kingdoms.json) |
 | Dungeons and Monsters | 268751 | [268751-dungeons-and-monsters.json](./268751-dungeons-and-monsters.json) |
 | Dungeons and Myths | 226816 | [226816-dungeons-and-myths.json](./226816-dungeons-and-myths.json) |
 | Dungeons and Raids | 236516 | [236516-dungeons-and-raids.json](./236516-dungeons-and-raids.json) |
