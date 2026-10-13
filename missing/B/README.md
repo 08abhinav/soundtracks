@@ -7752,6 +7752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boat Together | 374848 | [374848-boat-together.json](./374848-boat-together.json) |
 | Boat Train | 227867 | [227867-boat-train.json](./227867-boat-train.json) |
 | Boat Violence: Ship Happens | 122197 | [122197-boat-violence-ship-happens.json](./122197-boat-violence-ship-happens.json) |
+| Boat Warfare | 154247 | [154247-boat-warfare.json](./154247-boat-warfare.json) |
 | Boatgator | 253359 | [253359-boatgator.json](./253359-boatgator.json) |
 | Boating Simulator 2022 | 199458 | [199458-boating-simulator-2022.json](./199458-boating-simulator-2022.json) |
 | BoatMan | 169759 | [169759-boatman.json](./169759-boatman.json) |
