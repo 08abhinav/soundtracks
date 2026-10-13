@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops Cold War | 137001 | [137001-call-of-duty-black-ops-cold-war.json](./137001-call-of-duty-black-ops-cold-war.json) |
 | Call of Duty: Black Ops Cold War - Season Four | 152117 | [152117-call-of-duty-black-ops-cold-war-season-four.json](./152117-call-of-duty-black-ops-cold-war-season-four.json) |
 | Call of Duty: Black Ops Cold War - Season Six | 172674 | [172674-call-of-duty-black-ops-cold-war-season-six.json](./172674-call-of-duty-black-ops-cold-war-season-six.json) |
+| Call of Duty: Black Ops Cold War - Season Two | 144050 | [144050-call-of-duty-black-ops-cold-war-season-two.json](./144050-call-of-duty-black-ops-cold-war-season-two.json) |
 | Call of Duty: Black Ops Cold War - Ultimate Edition | 139887 | [139887-call-of-duty-black-ops-cold-war-ultimate-edition.json](./139887-call-of-duty-black-ops-cold-war-ultimate-edition.json) |
 | Call of Duty: Black Ops Collection | 136183 | [136183-call-of-duty-black-ops-collection.json](./136183-call-of-duty-black-ops-collection.json) |
 | Call of Duty: Black Ops II | 21865 | [21865-call-of-duty-black-ops-ii.json](./21865-call-of-duty-black-ops-ii.json) |
@@ -3512,6 +3513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chainsaw Warrior: Lords of the Night | 17543 | [17543-chainsaw-warrior-lords-of-the-night.json](./17543-chainsaw-warrior-lords-of-the-night.json) |
 | ChainStaff | 304750 | [304750-chainstaff.json](./304750-chainstaff.json) |
 | Chainworm Kommando | 257350 | [257350-chainworm-kommando.json](./257350-chainworm-kommando.json) |
+| Chair Is Videogame | 144083 | [144083-chair-is-videogame.json](./144083-chair-is-videogame.json) |
 | Chair Simulator | 146871 | [146871-chair-simulator.json](./146871-chair-simulator.json) |
 | Chair Spinning Simulator | 192629 | [192629-chair-spinning-simulator.json](./192629-chair-spinning-simulator.json) |
 | Chairades | 179995 | [179995-chairades.json](./179995-chairades.json) |
@@ -3719,6 +3721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos | 300015 | [300015-chaos.json](./300015-chaos.json) |
 | Chaos | 334058 | [334058-chaos.json](./334058-chaos.json) |
 | Chaos | 91395 | [91395-chaos.json](./91395-chaos.json) |
+| Chaos A La Maison | 144076 | [144076-chaos-a-la-maison.json](./144076-chaos-a-la-maison.json) |
 | Chaos Academy | 208057 | [208057-chaos-academy.json](./208057-chaos-academy.json) |
 | Chaos Adventure | 281990 | [281990-chaos-adventure.json](./281990-chaos-adventure.json) |
 | Chaos Agents | 356774 | [356774-chaos-agents.json](./356774-chaos-agents.json) |
@@ -4976,6 +4979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choose an Enemy | 93051 | [93051-choose-an-enemy.json](./93051-choose-an-enemy.json) |
 | Choose Your 2012 | 394192 | [394192-choose-your-2012.json](./394192-choose-your-2012.json) |
 | Choose Your Own Alternative | 389395 | [389395-choose-your-own-alternative.json](./389395-choose-your-own-alternative.json) |
+| Choose Your Own Nightmare: Night of the Werewolf | 144032 | [144032-choose-your-own-nightmare-night-of-the-werewolf.json](./144032-choose-your-own-nightmare-night-of-the-werewolf.json) |
 | Choose Your Paul! | 406139 | [406139-choose-your-paul.json](./406139-choose-your-paul.json) |
 | Choose your Poison | 195106 | [195106-choose-your-poison.json](./195106-choose-your-poison.json) |
 | Choose Your Weapon | 234719 | [234719-choose-your-weapon.json](./234719-choose-your-weapon.json) |
