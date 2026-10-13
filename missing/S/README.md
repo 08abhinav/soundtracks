@@ -22269,6 +22269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival of Primitive | 214021 | [214021-survival-of-primitive.json](./214021-survival-of-primitive.json) |
 | Survival of Runt | 392233 | [392233-survival-of-runt.json](./392233-survival-of-runt.json) |
 | Survival on a Deserted Island | 265134 | [265134-survival-on-a-deserted-island.json](./265134-survival-on-a-deserted-island.json) |
+| Survival on Amazonia | 167931 | [167931-survival-on-amazonia.json](./167931-survival-on-amazonia.json) |
 | Survival on Raft in the Ocean | 106126 | [106126-survival-on-raft-in-the-ocean.json](./106126-survival-on-raft-in-the-ocean.json) |
 | Survival Overgrowth | 106729 | [106729-survival-overgrowth.json](./106729-survival-overgrowth.json) |
 | Survival Project | 65002 | [65002-survival-project.json](./65002-survival-project.json) |
