@@ -5107,6 +5107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Fish | 39633 | [39633-devil-fish.json](./39633-devil-fish.json) |
 | Devil Force | 237432 | [237432-devil-force.json](./237432-devil-force.json) |
 | Devil Gate | 403692 | [403692-devil-gate.json](./403692-devil-gate.json) |
+| Devil Girl | 153728 | [153728-devil-girl.json](./153728-devil-girl.json) |
 | Devil Girl Needs Massages | 111183 | [111183-devil-girl-needs-massages.json](./111183-devil-girl-needs-massages.json) |
 | Devil Hunter: Raider | 357372 | [357372-devil-hunter-raider.json](./357372-devil-hunter-raider.json) |
 | Devil Hunters | 240714 | [240714-devil-hunters.json](./240714-devil-hunters.json) |
