@@ -2853,6 +2853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Eon | 280337 | [280337-epic-eon.json](./280337-epic-eon.json) |
 | Epic Escapes Dark Seas, Mysteries of Ancient Inventors Atlantis, Elementary My Dear Majesty | 201273 | [201273-epic-escapes-dark-seas-mysteries-of-ancient-inventors-atlantis-elementary-my-dear-majesty.json](./201273-epic-escapes-dark-seas-mysteries-of-ancient-inventors-atlantis-elementary-my-dear-majesty.json) |
 | Epic Fantasy | 165570 | [165570-epic-fantasy.json](./165570-epic-fantasy.json) |
+| Epic Fantasy Battle Simulator | 165131 | [165131-epic-fantasy-battle-simulator.json](./165131-epic-fantasy-battle-simulator.json) |
 | Epic Flail | 32113 | [32113-epic-flail.json](./32113-epic-flail.json) |
 | Epic Fly | 22346 | [22346-epic-fly.json](./22346-epic-fly.json) |
 | Epic Food Fight | 114402 | [114402-epic-food-fight.json](./114402-epic-food-fight.json) |
