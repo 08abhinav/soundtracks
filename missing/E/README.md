@@ -1755,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eloquence | 172742 | [172742-eloquence.json](./172742-eloquence.json) |
 | Eloquent Countenance | 200531 | [200531-eloquent-countenance.json](./200531-eloquent-countenance.json) |
 | Elowyn: Quest of Time | 347870 | [347870-elowyn-quest-of-time.json](./347870-elowyn-quest-of-time.json) |
+| Elphame | 138475 | [138475-elphame.json](./138475-elphame.json) |
 | Elpida: Crônicas de umaGuerreira | 117597 | [117597-elpida-cronicas-de-umaguerreira.json](./117597-elpida-cronicas-de-umaguerreira.json) |
 | Elpis | 381140 | [381140-elpis.json](./381140-elpis.json) |
 | Elpis: Fallen Star | 362914 | [362914-elpis-fallen-star.json](./362914-elpis-fallen-star.json) |
@@ -3146,6 +3147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ernest Colt: Western Shooter | 25052 | [25052-ernest-colt-western-shooter.json](./25052-ernest-colt-western-shooter.json) |
 | Ernesto, A Quick Dungeon Crawler | 61151 | [61151-ernesto-a-quick-dungeon-crawler.json](./61151-ernesto-a-quick-dungeon-crawler.json) |
 | Ernie's Adventures in Space | 122861 | [122861-ernies-adventures-in-space.json](./122861-ernies-adventures-in-space.json) |
+| Ernie's Quiz | 138490 | [138490-ernies-quiz.json](./138490-ernies-quiz.json) |
 | Ero Condo: Remastered | 343882 | [343882-ero-condo-remastered.json](./343882-ero-condo-remastered.json) |
 | Ero Date | 107822 | [107822-ero-date.json](./107822-ero-date.json) |
 | Ero Manager | 286478 | [286478-ero-manager.json](./286478-ero-manager.json) |
