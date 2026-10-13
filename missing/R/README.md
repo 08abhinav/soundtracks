@@ -8286,6 +8286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Overkill | 134501 | [134501-russian-overkill.json](./134501-russian-overkill.json) |
 | Russian Pawn Store | 211749 | [211749-russian-pawn-store.json](./211749-russian-pawn-store.json) |
 | Russian Peace Duck: Take My Nalogi | 96614 | [96614-russian-peace-duck-take-my-nalogi.json](./96614-russian-peace-duck-take-my-nalogi.json) |
+| Russian Prison Tattoo Simulator | 155884 | [155884-russian-prison-tattoo-simulator.json](./155884-russian-prison-tattoo-simulator.json) |
 | Russian Prisoner VS Nazi Zombies | 90177 | [90177-russian-prisoner-vs-nazi-zombies.json](./90177-russian-prisoner-vs-nazi-zombies.json) |
 | Russian Psychiatric Pastoral | 248910 | [248910-russian-psychiatric-pastoral.json](./248910-russian-psychiatric-pastoral.json) |
 | Russian Random Speedmap Pack 3 | 311463 | [311463-russian-random-speedmap-pack-3.json](./311463-russian-random-speedmap-pack-3.json) |
