@@ -1183,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omni Blade | 312023 | [312023-omni-blade.json](./312023-omni-blade.json) |
 | Omni Kitty | 391070 | [391070-omni-kitty.json](./391070-omni-kitty.json) |
 | Omni Magic! | 221736 | [221736-omni-magic.json](./221736-omni-magic.json) |
+| Omnia | 160099 | [160099-omnia.json](./160099-omnia.json) |
 | Omnibion War | 102092 | [102092-omnibion-war.json](./102092-omnibion-war.json) |
 | Omnichess | 207303 | [207303-omnichess.json](./207303-omnichess.json) |
 | Omnicube | 99598 | [99598-omnicube.json](./99598-omnicube.json) |
@@ -1347,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On the Brink | 249796 | [249796-on-the-brink.json](./249796-on-the-brink.json) |
 | On the Fly | 100560 | [100560-on-the-fly.json](./100560-on-the-fly.json) |
 | On The Hook | 415951 | [415951-on-the-hook.json](./415951-on-the-hook.json) |
+| On the Hunt | 160065 | [160065-on-the-hunt.json](./160065-on-the-hunt.json) |
 | On the Job | 243786 | [243786-on-the-job.json](./243786-on-the-job.json) |
 | On the Keyboard | 316827 | [316827-on-the-keyboard.json](./316827-on-the-keyboard.json) |
 | On the Move | 290329 | [290329-on-the-move.json](./290329-on-the-move.json) |
@@ -2280,6 +2282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation F.A.T.E. | 152865 | [152865-operation-f-a-t-e.json](./152865-operation-f-a-t-e.json) |
 | Operation Fireball | 293744 | [293744-operation-fireball.json](./293744-operation-fireball.json) |
 | Operation Flashpoint: Cold War Crisis | 288 | [288-operation-flashpoint-cold-war-crisis.json](./288-operation-flashpoint-cold-war-crisis.json) |
+| Operation Flashpoint: Game of the Year Edition | 162619 | [162619-operation-flashpoint-game-of-the-year-edition.json](./162619-operation-flashpoint-game-of-the-year-edition.json) |
 | Operation Flashpoint: Red Hammer | 449 | [449-operation-flashpoint-red-hammer.json](./449-operation-flashpoint-red-hammer.json) |
 | Operation Flashpoint: Red River | 450 | [450-operation-flashpoint-red-river.json](./450-operation-flashpoint-red-river.json) |
 | Operation Flashpoint: Resistance | 448 | [448-operation-flashpoint-resistance.json](./448-operation-flashpoint-resistance.json) |
