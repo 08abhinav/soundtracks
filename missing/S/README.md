@@ -6936,6 +6936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Thread | 202227 | [202227-silver-thread.json](./202227-silver-thread.json) |
 | Silver Thread: Deux | 298809 | [298809-silver-thread-deux.json](./298809-silver-thread-deux.json) |
 | Silver Valley | 267976 | [267976-silver-valley.json](./267976-silver-valley.json) |
+| Silver Vault | 164066 | [164066-silver-vault.json](./164066-silver-vault.json) |
 | Silver Wire | 205033 | [205033-silver-wire.json](./205033-silver-wire.json) |
 | SilverDollar | 101525 | [101525-silverdollar.json](./101525-silverdollar.json) |
 | Silverfall | 15718 | [15718-silverfall.json](./15718-silverfall.json) |
@@ -7941,6 +7942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skip | 241271 | [241271-skip.json](./241271-skip.json) |
 | Skip Ahead | 307607 | [307607-skip-ahead.json](./307607-skip-ahead.json) |
 | Skip Around The World: Finland | 310947 | [310947-skip-around-the-world-finland.json](./310947-skip-around-the-world-finland.json) |
+| Skip Lake | 164045 | [164045-skip-lake.json](./164045-skip-lake.json) |
 | Skip's Sanity | 99072 | [99072-skips-sanity.json](./99072-skips-sanity.json) |
 | Skipchaser | 31927 | [31927-skipchaser.json](./31927-skipchaser.json) |
 | Skiplit | 27799 | [27799-skiplit.json](./27799-skiplit.json) |
@@ -9594,6 +9596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnakeLogic | 104674 | [104674-snakelogic.json](./104674-snakelogic.json) |
 | Snakenoid | 84875 | [84875-snakenoid.json](./84875-snakenoid.json) |
 | Snakenoid Deluxe | 84874 | [84874-snakenoid-deluxe.json](./84874-snakenoid-deluxe.json) |
+| Snakenpon | 164065 | [164065-snakenpon.json](./164065-snakenpon.json) |
 | Snakeout | 138725 | [138725-snakeout.json](./138725-snakeout.json) |
 | SnakeQR | 146844 | [146844-snakeqr.json](./146844-snakeqr.json) |
 | Snaker 64 | 244757 | [244757-snaker-64.json](./244757-snaker-64.json) |
@@ -13517,6 +13520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectator | 216880 | [216880-spectator.json](./216880-spectator.json) |
 | Spectator 2 | 264629 | [264629-spectator-2.json](./264629-spectator-2.json) |
 | Specter Spelunker Resizes | 283736 | [283736-specter-spelunker-resizes.json](./283736-specter-spelunker-resizes.json) |
+| Specters | 164046 | [164046-specters.json](./164046-specters.json) |
 | Spectra | 183346 | [183346-spectra.json](./183346-spectra.json) |
 | Spectra: Beneath the Stain | 416637 | [416637-spectra-beneath-the-stain.json](./416637-spectra-beneath-the-stain.json) |
 | Spectraball: Extended Edition | 9069 | [9069-spectraball-extended-edition.json](./9069-spectraball-extended-edition.json) |
@@ -18503,6 +18507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Team Gladius | 142274 | [142274-strike-team-gladius.json](./142274-strike-team-gladius.json) |
 | Strike Team Online | 174838 | [174838-strike-team-online.json](./174838-strike-team-online.json) |
 | Strike the Planets! | 226765 | [226765-strike-the-planets.json](./226765-strike-the-planets.json) |
+| Strike the Striker Z | 164071 | [164071-strike-the-striker-z.json](./164071-strike-the-striker-z.json) |
 | Strike Vector EX Open Beta | 51433 | [51433-strike-vector-ex-open-beta.json](./51433-strike-vector-ex-open-beta.json) |
 | Strike Wing: Raptor Rising | 3148 | [3148-strike-wing-raptor-rising.json](./3148-strike-wing-raptor-rising.json) |
 | Strike Witches 2: Iyasu, Naosu, Puni-Puni suru | 124062 | [124062-strike-witches-2-iyasu-naosu-puni-puni-suru.json](./124062-strike-witches-2-iyasu-naosu-puni-puni-suru.json) |
@@ -21793,6 +21798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super-VGA Harrier | 70114 | [70114-super-vga-harrier.json](./70114-super-vga-harrier.json) |
 | Super-X | 46861 | [46861-super-x.json](./46861-super-x.json) |
 | Super: Taxi Simulation | 285692 | [285692-super-taxi-simulation.json](./285692-super-taxi-simulation.json) |
+| Super/Human Identity | 164052 | [164052-super-human-identity.json](./164052-super-human-identity.json) |
 | Superation | 293505 | [293505-superation.json](./293505-superation.json) |
 | Superball | 117000 | [117000-superball.json](./117000-superball.json) |
 | SuperBeam | 115608 | [115608-superbeam.json](./115608-superbeam.json) |
@@ -23086,6 +23092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword and Plow | 305346 | [305346-sword-and-plow.json](./305346-sword-and-plow.json) |
 | Sword and Shield Idle | 296993 | [296993-sword-and-shield-idle.json](./296993-sword-and-shield-idle.json) |
 | Sword and Shield: Arena VR | 31095 | [31095-sword-and-shield-arena-vr.json](./31095-sword-and-shield-arena-vr.json) |
+| Sword and Space | 164085 | [164085-sword-and-space.json](./164085-sword-and-space.json) |
 | Sword and Spirit | 158175 | [158175-sword-and-spirit.json](./158175-sword-and-spirit.json) |
 | Sword and Spoon | 101746 | [101746-sword-and-spoon.json](./101746-sword-and-spoon.json) |
 | Sword Art Online Arcade: Deep Explorer | 110791 | [110791-sword-art-online-arcade-deep-explorer.json](./110791-sword-art-online-arcade-deep-explorer.json) |
