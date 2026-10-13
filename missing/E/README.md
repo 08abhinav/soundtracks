@@ -2316,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ender Theater | 333381 | [333381-ender-theater.json](./333381-ender-theater.json) |
 | Ender's Delight | 344023 | [344023-enders-delight.json](./344023-enders-delight.json) |
 | Enderal: Forgotten Stories | 109367 | [109367-enderal-forgotten-stories.json](./109367-enderal-forgotten-stories.json) |
+| Enderal: Forgotten Stories - Special Edition | 153743 | [153743-enderal-forgotten-stories-special-edition.json](./153743-enderal-forgotten-stories-special-edition.json) |
 | Enderal: The Shards of Order | 249452 | [249452-enderal-the-shards-of-order.json](./249452-enderal-the-shards-of-order.json) |
 | Endersite | 98765 | [98765-endersite.json](./98765-endersite.json) |
 | Endgame | 228970 | [228970-endgame.json](./228970-endgame.json) |
@@ -4621,6 +4622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eviltech: Soul of Megawad | 261823 | [261823-eviltech-soul-of-megawad.json](./261823-eviltech-soul-of-megawad.json) |
 | EvilTrap | 297067 | [297067-eviltrap.json](./297067-eviltrap.json) |
 | EvilUp | 240133 | [240133-evilup.json](./240133-evilup.json) |
+| EvilvEvil | 153752 | [153752-evilvevil.json](./153752-evilvevil.json) |
 | Eviron's Chronicles | 161378 | [161378-evirons-chronicles.json](./161378-evirons-chronicles.json) |
 | EviscerateThisGirl.com | 260064 | [260064-evisceratethisgirl-com.json](./260064-evisceratethisgirl-com.json) |
 | Eviternity II | 279772 | [279772-eviternity-ii.json](./279772-eviternity-ii.json) |
