@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Day in the Lie | 176237 | [176237-a-day-in-the-lie.json](./176237-a-day-in-the-lie.json) |
 | A Day In the Life | 78681 | [78681-a-day-in-the-life.json](./78681-a-day-in-the-life.json) |
 | A Day in the Life Of | 387694 | [387694-a-day-in-the-life-of.json](./387694-a-day-in-the-life-of.json) |
+| A Day in the Life of a Slice of Bread | 178880 | [178880-a-day-in-the-life-of-a-slice-of-bread.json](./178880-a-day-in-the-life-of-a-slice-of-bread.json) |
 | A Day in the Life of a Writer | 201647 | [201647-a-day-in-the-life-of-a-writer.json](./201647-a-day-in-the-life-of-a-writer.json) |
 | A Day in the Life of Death | 311741 | [311741-a-day-in-the-life-of-death.json](./311741-a-day-in-the-life-of-death.json) |
 | A Day of Maintenance | 154623 | [154623-a-day-of-maintenance.json](./154623-a-day-of-maintenance.json) |
@@ -235,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Few Nights With: Margaret | 371041 | [371041-a-few-nights-with-margaret.json](./371041-a-few-nights-with-margaret.json) |
 | A Few of Us: Operation Nightshade | 388171 | [388171-a-few-of-us-operation-nightshade.json](./388171-a-few-of-us-operation-nightshade.json) |
 | A Fighter’s Nova: Mindara | 391811 | [391811-a-fighter-s-nova-mindara.json](./391811-a-fighter-s-nova-mindara.json) |
+| A Final Delivery | 178903 | [178903-a-final-delivery.json](./178903-a-final-delivery.json) |
 | A Finality with Sheji | 113852 | [113852-a-finality-with-sheji.json](./113852-a-finality-with-sheji.json) |
 | A Firefighter's Boxing Matches | 179136 | [179136-a-firefighters-boxing-matches.json](./179136-a-firefighters-boxing-matches.json) |
 | A Firelit Room | 196619 | [196619-a-firelit-room.json](./196619-a-firelit-room.json) |
@@ -444,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Long Time | 384292 | [384292-a-long-time.json](./384292-a-long-time.json) |
 | A Long Way Home | 180805 | [180805-a-long-way-home.json](./180805-a-long-way-home.json) |
 | A Long Way Home | 33077 | [33077-a-long-way-home.json](./33077-a-long-way-home.json) |
+| A Long Way Through a Pastel Universe | 178920 | [178920-a-long-way-through-a-pastel-universe.json](./178920-a-long-way-through-a-pastel-universe.json) |
 | A Long Way to the Nearest Star | 237440 | [237440-a-long-way-to-the-nearest-star.json](./237440-a-long-way-to-the-nearest-star.json) |
 | A Loop is a Loop is | 144789 | [144789-a-loop-is-a-loop-is.json](./144789-a-loop-is-a-loop-is.json) |
 | A Lost Land | 384655 | [384655-a-lost-land.json](./384655-a-lost-land.json) |
@@ -553,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Nightmare on Elm Street | 129595 | [129595-a-nightmare-on-elm-street.json](./129595-a-nightmare-on-elm-street.json) |
 | A Nightmare on Elm Street | 40935 | [40935-a-nightmare-on-elm-street.json](./40935-a-nightmare-on-elm-street.json) |
 | A Nightmare on Elm Street: Son of a Hundred Maniacs | 176824 | [176824-a-nightmare-on-elm-street-son-of-a-hundred-maniacs.json](./176824-a-nightmare-on-elm-street-son-of-a-hundred-maniacs.json) |
+| A Nightmare on Sesame Street | 178902 | [178902-a-nightmare-on-sesame-street.json](./178902-a-nightmare-on-sesame-street.json) |
 | A Ninja in Training | 161738 | [161738-a-ninja-in-training.json](./161738-a-ninja-in-training.json) |
 | A Ninja's Tale | 23598 | [23598-a-ninjas-tale.json](./23598-a-ninjas-tale.json) |
 | A Noble Circle | 174207 | [174207-a-noble-circle.json](./174207-a-noble-circle.json) |
