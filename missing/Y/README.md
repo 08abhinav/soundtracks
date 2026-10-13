@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yield! Fall of Rome | 305425 | [305425-yield-fall-of-rome.json](./305425-yield-fall-of-rome.json) |
 | Yihongyuan | 236947 | [236947-yihongyuan.json](./236947-yihongyuan.json) |
 | Yiki Action RPG | 117692 | [117692-yiki-action-rpg.json](./117692-yiki-action-rpg.json) |
+| Yin Yang | 160091 | [160091-yin-yang.json](./160091-yin-yang.json) |
 | Yin Yang Space | 197075 | [197075-yin-yang-space.json](./197075-yin-yang-space.json) |
 | Yīn Yuán | 368098 | [368098-yin-yuan.json](./368098-yin-yuan.json) |
 | Yin-Yang Labyrinth | 301600 | [301600-yin-yang-labyrinth.json](./301600-yin-yang-labyrinth.json) |
