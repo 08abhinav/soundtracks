@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T17:35:32.509Z",
-  "total_soundtracks": 1577,
+  "generated_at": "2026-10-13T17:35:47.301Z",
+  "total_soundtracks": 1578,
   "games": [
     {
       "igdb_id": 7522,
@@ -8643,6 +8643,20 @@
           "spotify_url": "https://open.spotify.com/album/6waZ9YsTCsWBuM26Z9v6Fo",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 1866,
+      "game_name": "Killzone 2",
+      "game_url": "https://ostdb.net/games/killzone-2",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/44/6c/bf446c41-ea70-9f57-736b-c6823dfb123e/196872621099.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Killzone 2 (Original Soundtrack from the Video Game)",
+          "spotify_url": "https://open.spotify.com/album/2bGNL08cwHVjGD4mxrEsAu",
+          "apple_music_url": "https://music.apple.com/us/album/killzone-2-original-soundtrack-from-the-video-game/1783817126",
+          "album_link_url": "https://album.link/i/1783817126"
         }
       ]
     },
