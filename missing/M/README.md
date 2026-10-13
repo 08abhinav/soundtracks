@@ -4213,6 +4213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maziacs | 93136 | [93136-maziacs.json](./93136-maziacs.json) |
 | Mazie | 296038 | [296038-mazie.json](./296038-mazie.json) |
 | Mazin Saga: Mutant Fighter | 36947 | [36947-mazin-saga-mutant-fighter.json](./36947-mazin-saga-mutant-fighter.json) |
+| Mazing | 165763 | [165763-mazing.json](./165763-mazing.json) |
 | Mazing Mad | 367278 | [367278-mazing-mad.json](./367278-mazing-mad.json) |
 | Mazinger Z | 153841 | [153841-mazinger-z.json](./153841-mazinger-z.json) |
 | MazM: Jekyll and Hyde | 105857 | [105857-mazm-jekyll-and-hyde.json](./105857-mazm-jekyll-and-hyde.json) |
@@ -7444,6 +7445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike Gunner | 142137 | [142137-mike-gunner.json](./142137-mike-gunner.json) |
 | Mike Piazza's Strike Zone | 3410 | [3410-mike-piazzas-strike-zone.json](./3410-mike-piazzas-strike-zone.json) |
 | Mike Read's Computer Pop Quiz | 71706 | [71706-mike-reads-computer-pop-quiz.json](./71706-mike-reads-computer-pop-quiz.json) |
+| Mike the Cat | 165739 | [165739-mike-the-cat.json](./165739-mike-the-cat.json) |
 | Mike Tyson Boxing | 209511 | [209511-mike-tyson-boxing.json](./209511-mike-tyson-boxing.json) |
 | Mike Tyson Boxing | 23452 | [23452-mike-tyson-boxing.json](./23452-mike-tyson-boxing.json) |
 | Mike Tyson Heavyweight Boxing | 24076 | [24076-mike-tyson-heavyweight-boxing.json](./24076-mike-tyson-heavyweight-boxing.json) |
