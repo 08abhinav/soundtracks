@@ -1940,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Driver Simulation 2025 | 328476 | [328476-taxi-driver-simulation-2025.json](./328476-taxi-driver-simulation-2025.json) |
 | Taxi Driver Simulator | 366222 | [366222-taxi-driver-simulator.json](./366222-taxi-driver-simulator.json) |
 | Taxi Driver Simulator: Car Parking | 234515 | [234515-taxi-driver-simulator-car-parking.json](./234515-taxi-driver-simulator-car-parking.json) |
+| Taxi Driver: The Simulation | 147760 | [147760-taxi-driver-the-simulation.json](./147760-taxi-driver-the-simulation.json) |
 | Taxi Goldmania | 336665 | [336665-taxi-goldmania.json](./336665-taxi-goldmania.json) |
 | Taxi in the Rain | 150177 | [150177-taxi-in-the-rain.json](./150177-taxi-in-the-rain.json) |
 | Taxi Journey | 133832 | [133832-taxi-journey.json](./133832-taxi-journey.json) |
@@ -7853,6 +7854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Day | 40336 | [40336-the-last-day.json](./40336-the-last-day.json) |
 | The Last Day of Adolf | 388884 | [388884-the-last-day-of-adolf.json](./388884-the-last-day-of-adolf.json) |
 | The Last day of Han Dynasty | 284602 | [284602-the-last-day-of-han-dynasty.json](./284602-the-last-day-of-han-dynasty.json) |
+| The Last Days | 147772 | [147772-the-last-days.json](./147772-the-last-days.json) |
 | The Last Days of Friendship Valley | 289999 | [289999-the-last-days-of-friendship-valley.json](./289999-the-last-days-of-friendship-valley.json) |
 | The Last Days of Sodom | 192662 | [192662-the-last-days-of-sodom.json](./192662-the-last-days-of-sodom.json) |
 | The Last Days of the Third Age | 356169 | [356169-the-last-days-of-the-third-age.json](./356169-the-last-days-of-the-third-age.json) |
@@ -20472,6 +20474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Questions | 233074 | [233074-tricky-questions.json](./233074-tricky-questions.json) |
 | Tricky Quicky | 78066 | [78066-tricky-quicky.json](./78066-tricky-quicky.json) |
 | Tricky Shapes | 28179 | [28179-tricky-shapes.json](./28179-tricky-shapes.json) |
+| Tricky Spider | 147768 | [147768-tricky-spider.json](./147768-tricky-spider.json) |
 | Tricky Super Mario Bros. U | 281020 | [281020-tricky-super-mario-bros-u.json](./281020-tricky-super-mario-bros-u.json) |
 | Tricky Taps | 276939 | [276939-tricky-taps.json](./276939-tricky-taps.json) |
 | Tricky Taps: Paint Power | 276940 | [276940-tricky-taps-paint-power.json](./276940-tricky-taps-paint-power.json) |
@@ -21907,6 +21910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twinworld Survivor | 304386 | [304386-twinworld-survivor.json](./304386-twinworld-survivor.json) |
 | TwinWorld: Land of Vision | 72099 | [72099-twinworld-land-of-vision.json](./72099-twinworld-land-of-vision.json) |
 | Twirly Treats | 405721 | [405721-twirly-treats.json](./405721-twirly-treats.json) |
+| Twist & Switch Bundle | 147767 | [147767-twist-and-switch-bundle.json](./147767-twist-and-switch-bundle.json) |
 | Twist & Turn | 255960 | [255960-twist-and-turn.json](./255960-twist-and-turn.json) |
 | Twist 02: Baruklinting | 214627 | [214627-twist-02-baruklinting.json](./214627-twist-02-baruklinting.json) |
 | Twist It | 342730 | [342730-twist-it.json](./342730-twist-it.json) |
