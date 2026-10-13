@@ -4675,6 +4675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Casino Empire | 257940 | [257940-the-casino-empire.json](./257940-the-casino-empire.json) |
 | The Casino: Roulette, Video Poker, Slot Machines, Craps, Baccarat | 147952 | [147952-the-casino-roulette-video-poker-slot-machines-craps-baccarat.json](./147952-the-casino-roulette-video-poker-slot-machines-craps-baccarat.json) |
 | The Cassandra Galleries | 86022 | [86022-the-cassandra-galleries.json](./86022-the-cassandra-galleries.json) |
+| The Cassir Simulator | 155852 | [155852-the-cassir-simulator.json](./155852-the-cassir-simulator.json) |
 | The Casting of Frank Stone: Deluxe Edition | 331833 | [331833-the-casting-of-frank-stone-deluxe-edition.json](./331833-the-casting-of-frank-stone-deluxe-edition.json) |
 | The Castle | 121470 | [121470-the-castle.json](./121470-the-castle.json) |
 | The Castle | 223010 | [223010-the-castle.json](./223010-the-castle.json) |
@@ -5845,6 +5846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End is Never the End | 269850 | [269850-the-end-is-never-the-end.json](./269850-the-end-is-never-the-end.json) |
 | The End o,,,o | 31847 | [31847-the-end-o-o.json](./31847-the-end-o-o.json) |
 | The End of an Actress | 126961 | [126961-the-end-of-an-actress.json](./126961-the-end-of-an-actress.json) |
+| The End of Dyeus | 155858 | [155858-the-end-of-dyeus.json](./155858-the-end-of-dyeus.json) |
 | The End of Gameplay | 343235 | [343235-the-end-of-gameplay.json](./343235-the-end-of-gameplay.json) |
 | The End of History | 310154 | [310154-the-end-of-history.json](./310154-the-end-of-history.json) |
 | The End of Labyronia: Nerubis | 158695 | [158695-the-end-of-labyronia-nerubis.json](./158695-the-end-of-labyronia-nerubis.json) |
@@ -9347,6 +9349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Next Big Thing | 10958 | [10958-the-next-big-thing.json](./10958-the-next-big-thing.json) |
 | The Next Big Thing | 264879 | [264879-the-next-big-thing.json](./264879-the-next-big-thing.json) |
 | The Next Door | 33405 | [33405-the-next-door.json](./33405-the-next-door.json) |
+| The Next Jianghu I | 155867 | [155867-the-next-jianghu-i.json](./155867-the-next-jianghu-i.json) |
 | The Next Stop | 364026 | [364026-the-next-stop.json](./364026-the-next-stop.json) |
 | The Next Tetris | 51179 | [51179-the-next-tetris.json](./51179-the-next-tetris.json) |
 | The Next World | 344422 | [344422-the-next-world.json](./344422-the-next-world.json) |
@@ -9608,6 +9611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Overseer | 306445 | [306445-the-overseer.json](./306445-the-overseer.json) |
 | The Overtaken | 177822 | [177822-the-overtaken.json](./177822-the-overtaken.json) |
 | The Owl House: Witch's Apprentice | 297588 | [297588-the-owl-house-witchs-apprentice.json](./297588-the-owl-house-witchs-apprentice.json) |
+| The Owl Quest | 155870 | [155870-the-owl-quest.json](./155870-the-owl-quest.json) |
 | The Owl-Woman Oracle | 177929 | [177929-the-owl-woman-oracle.json](./177929-the-owl-woman-oracle.json) |
 | The Owlman of Mawnan Smith | 61084 | [61084-the-owlman-of-mawnan-smith.json](./61084-the-owlman-of-mawnan-smith.json) |
 | The Pack | 113678 | [113678-the-pack.json](./113678-the-pack.json) |
@@ -9658,6 +9662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Particle of Infinite Free Will | 402531 | [402531-the-particle-of-infinite-free-will.json](./402531-the-particle-of-infinite-free-will.json) |
 | The Partners | 27621 | [27621-the-partners.json](./27621-the-partners.json) |
 | The Party | 135782 | [135782-the-party.json](./135782-the-party.json) |
+| The Passage of Time | 155869 | [155869-the-passage-of-time.json](./155869-the-passage-of-time.json) |
 | The Passenger | 266393 | [266393-the-passenger.json](./266393-the-passenger.json) |
 | The Past | 236225 | [236225-the-past.json](./236225-the-past.json) |
 | The Past Within | 147340 | [147340-the-past-within.json](./147340-the-past-within.json) |
@@ -10428,6 +10433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scent of Home | 181729 | [181729-the-scent-of-home.json](./181729-the-scent-of-home.json) |
 | The Scheme | 62582 | [62582-the-scheme.json](./62582-the-scheme.json) |
 | The Schism | 291358 | [291358-the-schism.json](./291358-the-schism.json) |
+| The Schizophrenic Dynasty of Müller | 155847 | [155847-the-schizophrenic-dynasty-of-muller.json](./155847-the-schizophrenic-dynasty-of-muller.json) |
 | The School: White Day | 89861 | [89861-the-school-white-day.json](./89861-the-school-white-day.json) |
 | The Scientist Battles | 359559 | [359559-the-scientist-battles.json](./359559-the-scientist-battles.json) |
 | The Scientists' Secret: Hidden Object Game | 259542 | [259542-the-scientists-secret-hidden-object-game.json](./259542-the-scientists-secret-hidden-object-game.json) |
