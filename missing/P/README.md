@@ -561,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pajama Sam 3: You Are What You Eat From Your Head to Your Feet | 3732 | [3732-pajama-sam-3-you-are-what-you-eat-from-your-head-to-your-feet.json](./3732-pajama-sam-3-you-are-what-you-eat-from-your-head-to-your-feet.json) |
 | Pajama Sam Vol. 1 | 154442 | [154442-pajama-sam-vol-1.json](./154442-pajama-sam-vol-1.json) |
 | Pajama Sam Vol. 2 | 154440 | [154440-pajama-sam-vol-2.json](./154440-pajama-sam-vol-2.json) |
+| Pajamorama | 133710 | [133710-pajamorama.json](./133710-pajamorama.json) |
 | Pakacuda | 83264 | [83264-pakacuda.json](./83264-pakacuda.json) |
 | Pakicetus | 126516 | [126516-pakicetus.json](./126516-pakicetus.json) |
 | Pakka Pets Village | 230212 | [230212-pakka-pets-village.json](./230212-pakka-pets-village.json) |
@@ -6446,6 +6447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Things | 371130 | [371130-play-things.json](./371130-play-things.json) |
 | Play this life | 365675 | [365675-play-this-life.json](./365675-play-this-life.json) |
 | Play to Befriend a Pokémon! | 234098 | [234098-play-to-befriend-a-pokemon.json](./234098-play-to-befriend-a-pokemon.json) |
+| Play to Cure: Genes in Space | 133711 | [133711-play-to-cure-genes-in-space.json](./133711-play-to-cure-genes-in-space.json) |
 | Play To Win | 276788 | [276788-play-to-win.json](./276788-play-to-win.json) |
 | Play With Gilbert: A Small Tail | 157722 | [157722-play-with-gilbert-a-small-tail.json](./157722-play-with-gilbert-a-small-tail.json) |
 | Play With Kizami | 105579 | [105579-play-with-kizami.json](./105579-play-with-kizami.json) |
@@ -10608,6 +10610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Treasure | 94761 | [94761-project-treasure.json](./94761-project-treasure.json) |
 | Project Trek | 193941 | [193941-project-trek.json](./193941-project-trek.json) |
 | Project TurboBlast | 327357 | [327357-project-turboblast.json](./327357-project-turboblast.json) |
+| Project U-Ta-Hi-Me | 133722 | [133722-project-u-ta-hi-me.json](./133722-project-u-ta-hi-me.json) |
 | Project Uber | 201235 | [201235-project-uber.json](./201235-project-uber.json) |
 | Project Ultra | 139143 | [139143-project-ultra.json](./139143-project-ultra.json) |
 | Project Unirah | 184528 | [184528-project-unirah.json](./184528-project-unirah.json) |
@@ -10907,6 +10910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ProtoDungeon: Episode III | 117646 | [117646-protodungeon-episode-iii.json](./117646-protodungeon-episode-iii.json) |
 | Protoform | 107113 | [107113-protoform.json](./107113-protoform.json) |
 | Protogenisis | 118824 | [118824-protogenisis.json](./118824-protogenisis.json) |
+| ProtoHunter | 133743 | [133743-protohunter.json](./133743-protohunter.json) |
 | Protolife | 89973 | [89973-protolife.json](./89973-protolife.json) |
 | Protolife: Other Side | 244889 | [244889-protolife-other-side.json](./244889-protolife-other-side.json) |
 | Proton Bus Simulator Road | 219822 | [219822-proton-bus-simulator-road.json](./219822-proton-bus-simulator-road.json) |
@@ -12287,6 +12291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyrami Head | 250967 | [250967-pyrami-head.json](./250967-pyrami-head.json) |
 | Pyramid | 195054 | [195054-pyramid.json](./195054-pyramid.json) |
 | Pyramid | 25831 | [25831-pyramid.json](./25831-pyramid.json) |
+| Pyramid 2097 | 133738 | [133738-pyramid-2097.json](./133738-pyramid-2097.json) |
 | Pyramid Adventures | 46569 | [46569-pyramid-adventures.json](./46569-pyramid-adventures.json) |
 | Pyramid Adventures: Episode 1 - Treasures of the Lost Pyramid | 66351 | [66351-pyramid-adventures-episode-1-treasures-of-the-lost-pyramid.json](./66351-pyramid-adventures-episode-1-treasures-of-the-lost-pyramid.json) |
 | Pyramid Bloxx | 194657 | [194657-pyramid-bloxx.json](./194657-pyramid-bloxx.json) |
