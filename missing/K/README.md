@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kabuki-chou Reach Mahjong: Toupuusen | 42630 | [42630-kabuki-chou-reach-mahjong-toupuusen.json](./42630-kabuki-chou-reach-mahjong-toupuusen.json) |
 | Kabuki-Z | 146076 | [146076-kabuki-z.json](./146076-kabuki-z.json) |
 | Kabuki: Quantum Fighter | 27623 | [27623-kabuki-quantum-fighter.json](./27623-kabuki-quantum-fighter.json) |
+| Kabukicho Story | 142806 | [142806-kabukicho-story.json](./142806-kabukicho-story.json) |
 | Kabushiki Baibai Trainer Kabutore | 72977 | [72977-kabushiki-baibai-trainer-kabutore.json](./72977-kabushiki-baibai-trainer-kabutore.json) |
 | Kabuto | 239776 | [239776-kabuto.json](./239776-kabuto.json) |
 | Kabuto Kuwagata | 242093 | [242093-kabuto-kuwagata.json](./242093-kabuto-kuwagata.json) |
@@ -1766,7 +1767,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killpaku! | 321380 | [321380-killpaku.json](./321380-killpaku.json) |
 | Killrun | 145940 | [145940-killrun.json](./145940-killrun.json) |
 | Killsquad | 118600 | [118600-killsquad.json](./118600-killsquad.json) |
-| Killzone | 1865 | [1865-killzone.json](./1865-killzone.json) |
 | Killzone Trilogy | 23729 | [23729-killzone-trilogy.json](./23729-killzone-trilogy.json) |
 | Killzone: Collector's Edition | 43422 | [43422-killzone-collectors-edition.json](./43422-killzone-collectors-edition.json) |
 | Killzone: Liberation | 408989 | [408989-killzone-liberation.json](./408989-killzone-liberation.json) |
@@ -3790,6 +3790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krystals with A K | 224715 | [224715-krystals-with-a-k.json](./224715-krystals-with-a-k.json) |
 | Krystine and the children in chains | 101696 | [101696-krystine-and-the-children-in-chains.json](./101696-krystine-and-the-children-in-chains.json) |
 | Kryzta | 199113 | [199113-kryzta.json](./199113-kryzta.json) |
+| Krzosek W Krainie Czarów | 142759 | [142759-krzosek-w-krainie-czarow.json](./142759-krzosek-w-krainie-czarow.json) |
 | Krzyżacy: The Knights of the Cross | 213312 | [213312-krzyzacy-the-knights-of-the-cross.json](./213312-krzyzacy-the-knights-of-the-cross.json) |
 | Krzyżacy: The Knights of the Cross - Character Pack (Western Style) | 257065 | [257065-krzyzacy-the-knights-of-the-cross-character-pack-western-style.json](./257065-krzyzacy-the-knights-of-the-cross-character-pack-western-style.json) |
 | Krzyżacy: The Knights of the Cross - Shining Stars | 289320 | [289320-krzyzacy-the-knights-of-the-cross-shining-stars.json](./289320-krzyzacy-the-knights-of-the-cross-shining-stars.json) |
