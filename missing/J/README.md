@@ -1729,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jolly Battle | 105538 | [105538-jolly-battle.json](./105538-jolly-battle.json) |
 | Jolly Bunny's Adventure | 151592 | [151592-jolly-bunnys-adventure.json](./151592-jolly-bunnys-adventure.json) |
 | Jolly Chimp Champ | 291587 | [291587-jolly-chimp-champ.json](./291587-jolly-chimp-champ.json) |
+| Jolly Good: Cakes and Ale | 156882 | [156882-jolly-good-cakes-and-ale.json](./156882-jolly-good-cakes-and-ale.json) |
 | Jolly Jam | 56432 | [56432-jolly-jam.json](./56432-jolly-jam.json) |
 | Jolly Join | 58754 | [58754-jolly-join.json](./58754-jolly-join.json) |
 | Jolly Laughter | 191563 | [191563-jolly-laughter.json](./191563-jolly-laughter.json) |
