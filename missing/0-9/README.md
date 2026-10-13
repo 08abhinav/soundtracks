@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Greece Cats | 334122 | [334122-100-greece-cats.json](./334122-100-greece-cats.json) |
 | 100 Halloweens | 265726 | [265726-100-halloweens.json](./265726-100-halloweens.json) |
 | 100 Hidden ASCII Cats | 401847 | [401847-100-hidden-ascii-cats.json](./401847-100-hidden-ascii-cats.json) |
+| 100 Hidden Birds | 161611 | [161611-100-hidden-birds.json](./161611-100-hidden-birds.json) |
 | 100 Hidden Capybaras | 321544 | [321544-100-hidden-capybaras.json](./321544-100-hidden-capybaras.json) |
 | 100 Hidden Cats in America | 330686 | [330686-100-hidden-cats-in-america.json](./330686-100-hidden-cats-in-america.json) |
 | 100 hidden Cats: Kitty House | 316960 | [316960-100-hidden-cats-kitty-house.json](./316960-100-hidden-cats-kitty-house.json) |
