@@ -2316,6 +2316,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles | 146004 | [146004-teenage-mutant-ninja-turtles.json](./146004-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles | 3815 | [3815-teenage-mutant-ninja-turtles.json](./3815-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles | 76209 | [76209-teenage-mutant-ninja-turtles.json](./76209-teenage-mutant-ninja-turtles.json) |
+| Teenage Mutant Ninja Turtles 2: Battle Nexus | 146058 | [146058-teenage-mutant-ninja-turtles-2-battle-nexus.json](./146058-teenage-mutant-ninja-turtles-2-battle-nexus.json) |
+| Teenage Mutant Ninja Turtles 3: Mutant Nightmare | 146059 | [146059-teenage-mutant-ninja-turtles-3-mutant-nightmare.json](./146059-teenage-mutant-ninja-turtles-3-mutant-nightmare.json) |
 | Teenage Mutant Ninja Turtles 3: Mutant Nightmare | 4197 | [4197-teenage-mutant-ninja-turtles-3-mutant-nightmare.json](./4197-teenage-mutant-ninja-turtles-3-mutant-nightmare.json) |
 | Teenage Mutant Ninja Turtles Arcade: Wrath of the Mutants | 288335 | [288335-teenage-mutant-ninja-turtles-arcade-wrath-of-the-mutants.json](./288335-teenage-mutant-ninja-turtles-arcade-wrath-of-the-mutants.json) |
 | Teenage Mutant Ninja Turtles Double Pack | 78938 | [78938-teenage-mutant-ninja-turtles-double-pack.json](./78938-teenage-mutant-ninja-turtles-double-pack.json) |
@@ -5132,6 +5134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crows | 326985 | [326985-the-crows.json](./326985-the-crows.json) |
 | The Cruciball | 359927 | [359927-the-cruciball.json](./359927-the-cruciball.json) |
 | The Cruel Dreamer Marchosias | 187393 | [187393-the-cruel-dreamer-marchosias.json](./187393-the-cruel-dreamer-marchosias.json) |
+| The Cruel King and the Great Hero: Storybook Edition | 146031 | [146031-the-cruel-king-and-the-great-hero-storybook-edition.json](./146031-the-cruel-king-and-the-great-hero-storybook-edition.json) |
 | The Cruel kings | 166629 | [166629-the-cruel-kings.json](./166629-the-cruel-kings.json) |
 | The Crush House | 295636 | [295636-the-crush-house.json](./295636-the-crush-house.json) |
 | The Crust: Supporter Pack | 400874 | [400874-the-crust-supporter-pack.json](./400874-the-crust-supporter-pack.json) |
@@ -12945,6 +12948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Exists Nobody | 322970 | [322970-there-exists-nobody.json](./322970-there-exists-nobody.json) |
 | There Is A Bomb | 210830 | [210830-there-is-a-bomb.json](./210830-there-is-a-bomb.json) |
 | There is a Genie in my Szechuan Sauce: Remastered | 228372 | [228372-there-is-a-genie-in-my-szechuan-sauce-remastered.json](./228372-there-is-a-genie-in-my-szechuan-sauce-remastered.json) |
+| There is a Picture | 146083 | [146083-there-is-a-picture.json](./146083-there-is-a-picture.json) |
 | There is Never Enough Space! | 181617 | [181617-there-is-never-enough-space.json](./181617-there-is-never-enough-space.json) |
 | There Is No Escape | 396213 | [396213-there-is-no-escape.json](./396213-there-is-no-escape.json) |
 | There Is No Fangame | 406811 | [406811-there-is-no-fangame.json](./406811-there-is-no-fangame.json) |
@@ -16592,6 +16596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomato Jones Adventures | 53819 | [53819-tomato-jones-adventures.json](./53819-tomato-jones-adventures.json) |
 | Tomato Way 2 | 104831 | [104831-tomato-way-2.json](./104831-tomato-way-2.json) |
 | Tomato Worm | 181196 | [181196-tomato-worm.json](./181196-tomato-worm.json) |
+| Tomatomare | 146078 | [146078-tomatomare.json](./146078-tomatomare.json) |
 | Tomb Boom | 366232 | [366232-tomb-boom.json](./366232-tomb-boom.json) |
 | Tomb Cat | 363007 | [363007-tomb-cat.json](./363007-tomb-cat.json) |
 | Tomb Color: ASMR Maze Escape | 245374 | [245374-tomb-color-asmr-maze-escape.json](./245374-tomb-color-asmr-maze-escape.json) |
@@ -20271,6 +20276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrenchesWIP | 120957 | [120957-trencheswip.json](./120957-trencheswip.json) |
 | Trenchlore | 148464 | [148464-trenchlore.json](./148464-trenchlore.json) |
 | Trenchwitch | 181690 | [181690-trenchwitch.json](./181690-trenchwitch.json) |
+| Trend Ballz | 146077 | [146077-trend-ballz.json](./146077-trend-ballz.json) |
 | Trending Pharaoh | 109515 | [109515-trending-pharaoh.json](./109515-trending-pharaoh.json) |
 | Trends | 113479 | [113479-trends.json](./113479-trends.json) |
 | Trenga Unlimited | 147257 | [147257-trenga-unlimited.json](./147257-trenga-unlimited.json) |
