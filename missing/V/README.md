@@ -1039,7 +1039,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vermillion Descent | 209137 | [209137-vermillion-descent.json](./209137-vermillion-descent.json) |
 | Vermillion Watch: Fleshbound | 187949 | [187949-vermillion-watch-fleshbound.json](./187949-vermillion-watch-fleshbound.json) |
 | Vermillion Watch: Fleshbound - Collector's Edition | 416147 | [416147-vermillion-watch-fleshbound-collectors-edition.json](./416147-vermillion-watch-fleshbound-collectors-edition.json) |
+| Vermillion Watch: Moorgate Accord | 140262 | [140262-vermillion-watch-moorgate-accord.json](./140262-vermillion-watch-moorgate-accord.json) |
 | Vermillion Watch: Order Zero | 74312 | [74312-vermillion-watch-order-zero.json](./74312-vermillion-watch-order-zero.json) |
+| Vermillion Watch: Parisian Pursuit | 140263 | [140263-vermillion-watch-parisian-pursuit.json](./140263-vermillion-watch-parisian-pursuit.json) |
 | Vermin | 232696 | [232696-vermin.json](./232696-vermin.json) |
 | Vermin | 78072 | [78072-vermin.json](./78072-vermin.json) |
 | Vermin Control | 334483 | [334483-vermin-control.json](./334483-vermin-control.json) |
