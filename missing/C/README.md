@@ -2949,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cauldron Inn | 405607 | [405607-cauldron-inn.json](./405607-cauldron-inn.json) |
 | Cauldron Tale | 293508 | [293508-cauldron-tale.json](./293508-cauldron-tale.json) |
 | Cauldrons of War: Barbarossa | 169923 | [169923-cauldrons-of-war-barbarossa.json](./169923-cauldrons-of-war-barbarossa.json) |
+| Cauldrons of War: Stalingrad | 169145 | [169145-cauldrons-of-war-stalingrad.json](./169145-cauldrons-of-war-stalingrad.json) |
 | Cauliflower Power | 136402 | [136402-cauliflower-power.json](./136402-cauliflower-power.json) |
 | Causal Effect | 256721 | [256721-causal-effect.json](./256721-causal-effect.json) |
 | Causal Loop | 339820 | [339820-causal-loop.json](./339820-causal-loop.json) |
@@ -3985,6 +3986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Check the Room 13 | 252025 | [252025-check-the-room-13.json](./252025-check-the-room-13.json) |
 | Check vs. Mate: Dark Desert DLC | 142983 | [142983-check-vs-mate-dark-desert-dlc.json](./142983-check-vs-mate-dark-desert-dlc.json) |
 | Check vs. Mate: Floating Island DLC | 142984 | [142984-check-vs-mate-floating-island-dlc.json](./142984-check-vs-mate-floating-island-dlc.json) |
+| Check-In | 169134 | [169134-check-in.json](./169134-check-in.json) |
 | Check-In Chaos | 410448 | [410448-check-in-chaos.json](./410448-check-in-chaos.json) |
 | Checked Out | 366136 | [366136-checked-out.json](./366136-checked-out.json) |
 | Checker Connector | 116952 | [116952-checker-connector.json](./116952-checker-connector.json) |
@@ -13219,6 +13221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberVerse | 345103 | [345103-cyberverse.json](./345103-cyberverse.json) |
 | CyberVirus | 153842 | [153842-cybervirus.json](./153842-cybervirus.json) |
 | Cybervoid | 339999 | [339999-cybervoid.json](./339999-cybervoid.json) |
+| CyberWaifu | 169341 | [169341-cyberwaifu.json](./169341-cyberwaifu.json) |
 | Cyberwar | 166595 | [166595-cyberwar.json](./166595-cyberwar.json) |
 | Cyberwar: Neon City | 231308 | [231308-cyberwar-neon-city.json](./231308-cyberwar-neon-city.json) |
 | Cyberwars | 78314 | [78314-cyberwars.json](./78314-cyberwars.json) |
