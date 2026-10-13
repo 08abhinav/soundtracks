@@ -5701,6 +5701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Wizards | 412968 | [412968-flying-wizards.json](./412968-flying-wizards.json) |
 | FlyingChicken | 371894 | [371894-flyingchicken.json](./371894-flyingchicken.json) |
 | FlyKnight | 310121 | [310121-flyknight.json](./310121-flyknight.json) |
+| Flykt | 150418 | [150418-flykt.json](./150418-flykt.json) |
 | Flyland Wars: 2 Not Yours Mine | 173785 | [173785-flyland-wars-2-not-yours-mine.json](./173785-flyland-wars-2-not-yours-mine.json) |
 | Flyland Wars: 3 Model Trains | 173041 | [173041-flyland-wars-3-model-trains.json](./173041-flyland-wars-3-model-trains.json) |
 | FlyManMissile | 368666 | [368666-flymanmissile.json](./368666-flymanmissile.json) |
@@ -5890,6 +5891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Maze | 234678 | [234678-food-maze.json](./234678-food-maze.json) |
 | Food Monster and Animals Memory Match | 82354 | [82354-food-monster-and-animals-memory-match.json](./82354-food-monster-and-animals-memory-match.json) |
 | Food Poppers | 189031 | [189031-food-poppers.json](./189031-food-poppers.json) |
+| Food Stranding | 150448 | [150448-food-stranding.json](./150448-food-stranding.json) |
 | Food Street: Restaurant Game | 249666 | [249666-food-street-restaurant-game.json](./249666-food-street-restaurant-game.json) |
 | Food Stylist: Design Game | 214672 | [214672-food-stylist-design-game.json](./214672-food-stylist-design-game.json) |
 | Food Truck Chef | 105841 | [105841-food-truck-chef.json](./105841-food-truck-chef.json) |
@@ -8931,6 +8933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Girlfriend Simulator | 367038 | [367038-furry-girlfriend-simulator.json](./367038-furry-girlfriend-simulator.json) |
 | Furry Hentai Isekai | 201587 | [201587-furry-hentai-isekai.json](./201587-furry-hentai-isekai.json) |
 | Furry Hentai Quest | 192460 | [192460-furry-hentai-quest.json](./192460-furry-hentai-quest.json) |
+| Furry Heroes | 150431 | [150431-furry-heroes.json](./150431-furry-heroes.json) |
 | Furry Hitler | 205664 | [205664-furry-hitler.json](./205664-furry-hitler.json) |
 | Furry Killer | 226143 | [226143-furry-killer.json](./226143-furry-killer.json) |
 | Furry Love & Sex | 221197 | [221197-furry-love-and-sex.json](./221197-furry-love-and-sex.json) |
