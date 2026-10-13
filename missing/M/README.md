@@ -492,7 +492,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madou Monogatari I: Honoo no Sotsuenji | 141807 | [141807-madou-monogatari-i-honoo-no-sotsuenji.json](./141807-madou-monogatari-i-honoo-no-sotsuenji.json) |
 | Madou Monogatari II: Arle 16-Sai | 45267 | [45267-madou-monogatari-ii-arle-16-sai.json](./45267-madou-monogatari-ii-arle-16-sai.json) |
 | Madou Monogatari III: Kyuukyoku Joou-sama | 45266 | [45266-madou-monogatari-iii-kyuukyoku-joou-sama.json](./45266-madou-monogatari-iii-kyuukyoku-joou-sama.json) |
+| Madou Monogatari: Hachamecha Kimatsushiken | 146654 | [146654-madou-monogatari-hachamecha-kimatsushiken.json](./146654-madou-monogatari-hachamecha-kimatsushiken.json) |
 | Madou Monogatari: Hanamaru Daiyouchienji | 110397 | [110397-madou-monogatari-hanamaru-daiyouchienji.json](./110397-madou-monogatari-hanamaru-daiyouchienji.json) |
+| Madou Monogatari: Michikusa Ibun | 146652 | [146652-madou-monogatari-michikusa-ibun.json](./146652-madou-monogatari-michikusa-ibun.json) |
 | Madou Monogatari: Tower of the Magician | 252162 | [252162-madou-monogatari-tower-of-the-magician.json](./252162-madou-monogatari-tower-of-the-magician.json) |
 | Madoushi Lulba | 235095 | [235095-madoushi-lulba.json](./235095-madoushi-lulba.json) |
 | MadOut | 35679 | [35679-madout.json](./35679-madout.json) |
@@ -1127,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magidoll | 196588 | [196588-magidoll.json](./196588-magidoll.json) |
 | Magiduck | 252868 | [252868-magiduck.json](./252868-magiduck.json) |
 | Magiduel | 177019 | [177019-magiduel.json](./177019-magiduel.json) |
+| MagiGhostDeadline | 146630 | [146630-magighostdeadline.json](./146630-magighostdeadline.json) |
 | Magika Bounce | 408295 | [408295-magika-bounce.json](./408295-magika-bounce.json) |
 | Magika Land of Fantasy | 95621 | [95621-magika-land-of-fantasy.json](./95621-magika-land-of-fantasy.json) |
 | Magikoopa Security Force | 322101 | [322101-magikoopa-security-force.json](./322101-magikoopa-security-force.json) |
@@ -6275,6 +6278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metagates | 224526 | [224526-metagates.json](./224526-metagates.json) |
 | MetaGods | 191501 | [191501-metagods.json](./191501-metagods.json) |
 | Metahorror Therapy Session | 338930 | [338930-metahorror-therapy-session.json](./338930-metahorror-therapy-session.json) |
+| Metajo: Furitsu Metatopology Daigaku Fuzoku Joshi Koukou SP | 146656 | [146656-metajo-furitsu-metatopology-daigaku-fuzoku-joshi-koukou-sp.json](./146656-metajo-furitsu-metatopology-daigaku-fuzoku-joshi-koukou-sp.json) |
 | Metal | 95217 | [95217-metal.json](./95217-metal.json) |
 | Metal Angel 3 | 91961 | [91961-metal-angel-3.json](./91961-metal-angel-3.json) |
 | Metal Army War Revenge | 221714 | [221714-metal-army-war-revenge.json](./221714-metal-army-war-revenge.json) |
@@ -8831,6 +8835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miskatonic University | 258007 | [258007-miskatonic-university.json](./258007-miskatonic-university.json) |
 | Misled Puzzled | 185373 | [185373-misled-puzzled.json](./185373-misled-puzzled.json) |
 | Miso Nikki | 166586 | [166586-miso-nikki.json](./166586-miso-nikki.json) |
+| Misplaced | 146627 | [146627-misplaced.json](./146627-misplaced.json) |
 | Misplaced | 172050 | [172050-misplaced.json](./172050-misplaced.json) |
 | Misplaced | 300034 | [300034-misplaced.json](./300034-misplaced.json) |
 | Misplaced | 413185 | [413185-misplaced.json](./413185-misplaced.json) |
