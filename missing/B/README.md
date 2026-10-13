@@ -3398,6 +3398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Fantasy | 175758 | [175758-beat-fantasy.json](./175758-beat-fantasy.json) |
 | Beat Feet | 369635 | [369635-beat-feet.json](./369635-beat-feet.json) |
 | Beat Fever: Music Tap Rhythm Game | 82995 | [82995-beat-fever-music-tap-rhythm-game.json](./82995-beat-fever-music-tap-rhythm-game.json) |
+| Beat Flip | 166848 | [166848-beat-flip.json](./166848-beat-flip.json) |
 | Beat Guru | 121488 | [121488-beat-guru.json](./121488-beat-guru.json) |
 | Beat Hazard | 7404 | [7404-beat-hazard.json](./7404-beat-hazard.json) |
 | Beat Hazard 3 | 199447 | [199447-beat-hazard-3.json](./199447-beat-hazard-3.json) |
@@ -4809,6 +4810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Fat Battle | 244771 | [244771-big-fat-battle.json](./244771-big-fat-battle.json) |
 | Big Fat Neighbor | 83532 | [83532-big-fat-neighbor.json](./83532-big-fat-neighbor.json) |
 | Big Fight: Big Trouble in the Atlantic Ocean | 40233 | [40233-big-fight-big-trouble-in-the-atlantic-ocean.json](./40233-big-fight-big-trouble-in-the-atlantic-ocean.json) |
+| Big Flappy Tower vs. Tiny Square | 166806 | [166806-big-flappy-tower-vs-tiny-square.json](./166806-big-flappy-tower-vs-tiny-square.json) |
 | Big Game Bundle 10-in-1 | 380189 | [380189-big-game-bundle-10-in-1.json](./380189-big-game-bundle-10-in-1.json) |
 | Big Game Fishing | 12403 | [12403-big-game-fishing.json](./12403-big-game-fishing.json) |
 | Big Game Trophy Hunter | 94208 | [94208-big-game-trophy-hunter.json](./94208-big-game-trophy-hunter.json) |
@@ -5214,6 +5216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bio-Synthetica | 235199 | [235199-bio-synthetica.json](./235199-bio-synthetica.json) |
 | BioBeasts | 112226 | [112226-biobeasts.json](./112226-biobeasts.json) |
 | BiochRL | 61110 | [61110-biochrl.json](./61110-biochrl.json) |
+| Biocide: Karver Island | 166823 | [166823-biocide-karver-island.json](./166823-biocide-karver-island.json) |
 | BioCrisis: Return 2 the Lab | 203905 | [203905-biocrisis-return-2-the-lab.json](./203905-biocrisis-return-2-the-lab.json) |
 | Biodigital | 107807 | [107807-biodigital.json](./107807-biodigital.json) |
 | Biodrone Battle | 35072 | [35072-biodrone-battle.json](./35072-biodrone-battle.json) |
@@ -8908,6 +8911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncing Over It with friends | 106406 | [106406-bouncing-over-it-with-friends.json](./106406-bouncing-over-it-with-friends.json) |
 | Bouncing Rainbow | 259629 | [259629-bouncing-rainbow.json](./259629-bouncing-rainbow.json) |
 | Bouncing Slime: Impossible Levels | 343985 | [343985-bouncing-slime-impossible-levels.json](./343985-bouncing-slime-impossible-levels.json) |
+| Bouncing Traveler | 166838 | [166838-bouncing-traveler.json](./166838-bouncing-traveler.json) |
 | Bouncy Ball | 245201 | [245201-bouncy-ball.json](./245201-bouncy-ball.json) |
 | Bouncy Bean | 388187 | [388187-bouncy-bean.json](./388187-bouncy-bean.json) |
 | Bouncy Brain | 388273 | [388273-bouncy-brain.json](./388273-bouncy-brain.json) |
@@ -9019,6 +9023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bow Course: Archery Golf | 345668 | [345668-bow-course-archery-golf.json](./345668-bow-course-archery-golf.json) |
 | Bow Hunter | 374761 | [374761-bow-hunter.json](./374761-bow-hunter.json) |
 | Bow Hunter 2015 | 250937 | [250937-bow-hunter-2015.json](./250937-bow-hunter-2015.json) |
+| Bow Man | 166812 | [166812-bow-man.json](./166812-bow-man.json) |
 | Bow-Bots | 208599 | [208599-bow-bots.json](./208599-bow-bots.json) |
 | Bow-wow Battle | 398481 | [398481-bow-wow-battle.json](./398481-bow-wow-battle.json) |
 | Bowels of the Beast | 283801 | [283801-bowels-of-the-beast.json](./283801-bowels-of-the-beast.json) |
@@ -9832,6 +9837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout Money | 108624 | [108624-breakout-money.json](./108624-breakout-money.json) |
 | Breakout Planet | 153368 | [153368-breakout-planet.json](./153368-breakout-planet.json) |
 | Breakout Poetry | 135611 | [135611-breakout-poetry.json](./135611-breakout-poetry.json) |
+| Breakout VR | 166803 | [166803-breakout-vr.json](./166803-breakout-vr.json) |
 | Breakout: Boost | 64400 | [64400-breakout-boost.json](./64400-breakout-boost.json) |
 | BreakQuest | 20548 | [20548-breakquest.json](./20548-breakquest.json) |
 | Breakthrough | 15686 | [15686-breakthrough.json](./15686-breakthrough.json) |
@@ -10999,6 +11005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulk Slash | 45462 | [45462-bulk-slash.json](./45462-bulk-slash.json) |
 | Bulken | 273826 | [273826-bulken.json](./273826-bulken.json) |
 | Bull Chase! | 267323 | [267323-bull-chase.json](./267323-bull-chase.json) |
+| Bull et Hell | 166852 | [166852-bull-et-hell.json](./166852-bull-et-hell.json) |
 | Bull Fight | 46499 | [46499-bull-fight.json](./46499-bull-fight.json) |
 | Bull Fighter | 40273 | [40273-bull-fighter.json](./40273-bull-fighter.json) |
 | Bull King of Circus | 243741 | [243741-bull-king-of-circus.json](./243741-bull-king-of-circus.json) |
@@ -11043,6 +11050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Girls Phantasia: Limited Edition | 167120 | [167120-bullet-girls-phantasia-limited-edition.json](./167120-bullet-girls-phantasia-limited-edition.json) |
 | Bullet Grinder | 190952 | [190952-bullet-grinder.json](./190952-bullet-grinder.json) |
 | Bullet Head | 393531 | [393531-bullet-head.json](./393531-bullet-head.json) |
+| Bullet Heat | 166836 | [166836-bullet-heat.json](./166836-bullet-heat.json) |
 | Bullet Heck | 245790 | [245790-bullet-heck.json](./245790-bullet-heck.json) |
 | Bullet Heli | 176463 | [176463-bullet-heli.json](./176463-bullet-heli.json) |
 | Bullet Hell Action Roguelites | 333753 | [333753-bullet-hell-action-roguelites.json](./333753-bullet-hell-action-roguelites.json) |
