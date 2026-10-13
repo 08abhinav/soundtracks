@@ -566,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Multiplayer | 212734 | [212734-rage-multiplayer.json](./212734-rage-multiplayer.json) |
 | Rage Night | 224764 | [224764-rage-night.json](./224764-rage-night.json) |
 | Rage of Bahamut | 28007 | [28007-rage-of-bahamut.json](./28007-rage-of-bahamut.json) |
+| Rage of Car Force: Car Crashing Games | 149356 | [149356-rage-of-car-force-car-crashing-games.json](./149356-rage-of-car-force-car-crashing-games.json) |
 | Rage of Destiny | 162836 | [162836-rage-of-destiny.json](./162836-rage-of-destiny.json) |
 | Rage of Kings | 181613 | [181613-rage-of-kings.json](./181613-rage-of-kings.json) |
 | Rage of Mages | 13154 | [13154-rage-of-mages.json](./13154-rage-of-mages.json) |
@@ -5297,6 +5298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ristar | 7431 | [7431-ristar.json](./7431-ristar.json) |
 | Ristorante Amore | 57173 | [57173-ristorante-amore.json](./57173-ristorante-amore.json) |
 | risTroyka | 142890 | [142890-ristroyka.json](./142890-ristroyka.json) |
+| Risu | 149860 | [149860-risu.json](./149860-risu.json) |
 | Rita | 302037 | [302037-rita.json](./302037-rita.json) |
 | Rita Hayworth Isn't In This Game | 112269 | [112269-rita-hayworth-isnt-in-this-game.json](./112269-rita-hayworth-isnt-in-this-game.json) |
 | Rita's Flower Shop | 394136 | [394136-ritas-flower-shop.json](./394136-ritas-flower-shop.json) |
@@ -6726,6 +6728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollage | 95667 | [95667-rollage.json](./95667-rollage.json) |
 | Rollance: Adventure Balls | 224106 | [224106-rollance-adventure-balls.json](./224106-rollance-adventure-balls.json) |
 | Rollaround | 13029 | [13029-rollaround.json](./13029-rollaround.json) |
+| Rollback | 149366 | [149366-rollback.json](./149366-rollback.json) |
 | Rollbot | 351031 | [351031-rollbot.json](./351031-rollbot.json) |
 | Rollcage | 8332 | [8332-rollcage.json](./8332-rollcage.json) |
 | Rolldown | 228366 | [228366-rolldown.json](./228366-rolldown.json) |
