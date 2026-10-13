@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Top Racing | 8350 | [8350-table-top-racing.json](./8350-table-top-racing.json) |
 | Table Top Racing: Nitro Edition | 136192 | [136192-table-top-racing-nitro-edition.json](./136192-table-top-racing-nitro-edition.json) |
 | Table Top Racing: World Tour | 18978 | [18978-table-top-racing-world-tour.json](./18978-table-top-racing-world-tour.json) |
+| Table Trenches | 175142 | [175142-table-trenches.json](./175142-table-trenches.json) |
 | Table Troopers | 366370 | [366370-table-troopers.json](./366370-table-troopers.json) |
 | TableSoccer | 339092 | [339092-tablesoccer.json](./339092-tablesoccer.json) |
 | Tabletop Baseball | 412396 | [412396-tabletop-baseball.json](./412396-tabletop-baseball.json) |
@@ -6677,6 +6678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Book of Mario | 227972 | [227972-the-great-book-of-mario.json](./227972-the-great-book-of-mario.json) |
 | The Great Cave Offensive | 271262 | [271262-the-great-cave-offensive.json](./271262-the-great-cave-offensive.json) |
 | The Great Cave Offensive | 271405 | [271405-the-great-cave-offensive.json](./271405-the-great-cave-offensive.json) |
+| The Great Chain of Being | 174603 | [174603-the-great-chain-of-being.json](./174603-the-great-chain-of-being.json) |
 | The Great Chicken Thief | 163876 | [163876-the-great-chicken-thief.json](./163876-the-great-chicken-thief.json) |
 | The Great Chocolate Chase: A Chocolatier Twist | 19557 | [19557-the-great-chocolate-chase-a-chocolatier-twist.json](./19557-the-great-chocolate-chase-a-chocolatier-twist.json) |
 | The Great Coffee Caper | 338210 | [338210-the-great-coffee-caper.json](./338210-the-great-coffee-caper.json) |
@@ -10476,6 +10478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seller | 84956 | [84956-the-seller.json](./84956-the-seller.json) |
 | The Senpai | 230521 | [230521-the-senpai.json](./230521-the-senpai.json) |
 | The Sensational December Machine | 321623 | [321623-the-sensational-december-machine.json](./321623-the-sensational-december-machine.json) |
+| The Sense Point | 174577 | [174577-the-sense-point.json](./174577-the-sense-point.json) |
 | The Sensha | 59418 | [59418-the-sensha.json](./59418-the-sensha.json) |
 | The Sentinel | 265158 | [265158-the-sentinel.json](./265158-the-sentinel.json) |
 | The Sentinel Remake | 212230 | [212230-the-sentinel-remake.json](./212230-the-sentinel-remake.json) |
@@ -16675,6 +16678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Race | 236832 | [236832-top-race.json](./236832-top-race.json) |
 | Top Run | 129126 | [129126-top-run.json](./129126-top-run.json) |
 | Top Runner | 172532 | [172532-top-runner.json](./172532-top-runner.json) |
+| Top Sailor | 175143 | [175143-top-sailor.json](./175143-top-sailor.json) |
 | Top Secret | 171498 | [171498-top-secret.json](./171498-top-secret.json) |
 | Top Secret | 75967 | [75967-top-secret.json](./75967-top-secret.json) |
 | Top Skater | 18047 | [18047-top-skater.json](./18047-top-skater.json) |
@@ -17138,6 +17142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Down Football Solitaire | 108077 | [108077-touch-down-football-solitaire.json](./108077-touch-down-football-solitaire.json) |
 | Touch Fish | 348258 | [348258-touch-fish.json](./348258-touch-fish.json) |
 | Touch Force | 274935 | [274935-touch-force.json](./274935-touch-force.json) |
+| Touch from a Raindrop | 175123 | [175123-touch-from-a-raindrop.json](./175123-touch-from-a-raindrop.json) |
 | Touch Game Party | 124103 | [124103-touch-game-party.json](./124103-touch-game-party.json) |
 | Touch Love | 219542 | [219542-touch-love.json](./219542-touch-love.json) |
 | Touch Me | 225597 | [225597-touch-me.json](./225597-touch-me.json) |
@@ -17840,6 +17845,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toxic 2 | 97685 | [97685-toxic-2.json](./97685-toxic-2.json) |
 | Toxic Bubbles | 23730 | [23730-toxic-bubbles.json](./23730-toxic-bubbles.json) |
 | Toxic Bunny | 145523 | [145523-toxic-bunny.json](./145523-toxic-bunny.json) |
+| Toxic Crusaders | 175121 | [175121-toxic-crusaders.json](./175121-toxic-crusaders.json) |
+| Toxic Crusaders | 175122 | [175122-toxic-crusaders.json](./175122-toxic-crusaders.json) |
 | Toxic Crusaders | 8022 | [8022-toxic-crusaders.json](./8022-toxic-crusaders.json) |
 | Toxic Grind | 6215 | [6215-toxic-grind.json](./6215-toxic-grind.json) |
 | Toxic Mayhem: The Troma Project | 74009 | [74009-toxic-mayhem-the-troma-project.json](./74009-toxic-mayhem-the-troma-project.json) |
@@ -18122,6 +18129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrafficVille 3D | 343846 | [343846-trafficville-3d.json](./343846-trafficville-3d.json) |
 | Traffix | 118755 | [118755-traffix.json](./118755-traffix.json) |
 | Traffix 3D | 296071 | [296071-traffix-3d.json](./296071-traffix-3d.json) |
+| Traffix: City Rush | 175138 | [175138-traffix-city-rush.json](./175138-traffix-city-rush.json) |
 | Trafic Road Rush | 111869 | [111869-trafic-road-rush.json](./111869-trafic-road-rush.json) |
 | Trafico | 81797 | [81797-trafico.json](./81797-trafico.json) |
 | Tragedy of Loneliness | 158614 | [158614-tragedy-of-loneliness.json](./158614-tragedy-of-loneliness.json) |
