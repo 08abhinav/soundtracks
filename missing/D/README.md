@@ -6490,6 +6490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discovery Tour Bundle by Assassin's Creed | 218999 | [218999-discovery-tour-bundle-by-assassins-creed.json](./218999-discovery-tour-bundle-by-assassins-creed.json) |
 | Discovery Tour: Ancient Greece | 133962 | [133962-discovery-tour-ancient-greece.json](./133962-discovery-tour-ancient-greece.json) |
 | Discovery Tour: Viking Age | 152231 | [152231-discovery-tour-viking-age.json](./152231-discovery-tour-viking-age.json) |
+| Discovery Yard Investigation | 149368 | [149368-discovery-yard-investigation.json](./149368-discovery-yard-investigation.json) |
 | Discovery: A Seek and Find Adventure | 9386 | [9386-discovery-a-seek-and-find-adventure.json](./9386-discovery-a-seek-and-find-adventure.json) |
 | Discovr Egypt: King Tut's Tomb | 33086 | [33086-discovr-egypt-king-tuts-tomb.json](./33086-discovr-egypt-king-tuts-tomb.json) |
 | Discremental | 405603 | [405603-discremental.json](./405603-discremental.json) |
