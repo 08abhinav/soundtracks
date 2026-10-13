@@ -8111,6 +8111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Meadow | 399788 | [399788-sky-meadow.json](./399788-sky-meadow.json) |
 | Sky Mercenaries | 36117 | [36117-sky-mercenaries.json](./36117-sky-mercenaries.json) |
 | Sky Mercenaries Redux | 147901 | [147901-sky-mercenaries-redux.json](./147901-sky-mercenaries-redux.json) |
+| Sky Mirror: Strolling | 170799 | [170799-sky-mirror-strolling.json](./170799-sky-mirror-strolling.json) |
 | Sky Nations | 17572 | [17572-sky-nations.json](./17572-sky-nations.json) |
 | Sky Oceans: Wings for Hire | 238559 | [238559-sky-oceans-wings-for-hire.json](./238559-sky-oceans-wings-for-hire.json) |
 | Sky of Destruction | 116496 | [116496-sky-of-destruction.json](./116496-sky-of-destruction.json) |
@@ -18413,6 +18414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strewn Runes | 187273 | [187273-strewn-runes.json](./187273-strewn-runes.json) |
 | Strexy Slayers | 276167 | [276167-strexy-slayers.json](./276167-strexy-slayers.json) |
 | Striatum | 342647 | [342647-striatum.json](./342647-striatum.json) |
+| Strid: Full Edition | 170800 | [170800-strid-full-edition.json](./170800-strid-full-edition.json) |
 | Stride | 132959 | [132959-stride.json](./132959-stride.json) |
 | Stride.net | 153528 | [153528-stride-net.json](./153528-stride-net.json) |
 | Striden | 237059 | [237059-striden.json](./237059-striden.json) |
