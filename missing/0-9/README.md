@@ -621,6 +621,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1112: Episode 01 | 213381 | [213381-1112-episode-01.json](./213381-1112-episode-01.json) |
 | 1112: Episode 02 | 213563 | [213563-1112-episode-02.json](./213563-1112-episode-02.json) |
 | 1112: Episode 03 | 213565 | [213565-1112-episode-03.json](./213565-1112-episode-03.json) |
+| 112 Operator: Pandemic Outbreak | 168948 | [168948-112-operator-pandemic-outbreak.json](./168948-112-operator-pandemic-outbreak.json) |
+| 112 Operator: The Last Duty | 168946 | [168946-112-operator-the-last-duty.json](./168946-112-operator-the-last-duty.json) |
+| 112 Operator: Water Operations | 168947 | [168947-112-operator-water-operations.json](./168947-112-operator-water-operations.json) |
 | 114 Miles to Doctor Noodles Farm | 250501 | [250501-114-miles-to-doctor-noodles-farm.json](./250501-114-miles-to-doctor-noodles-farm.json) |
 | 1166 | 29715 | [29715-1166.json](./29715-1166.json) |
 | 1193 Anno Domini: Merchants and Crusaders | 71494 | [71494-1193-anno-domini-merchants-and-crusaders.json](./71494-1193-anno-domini-merchants-and-crusaders.json) |
