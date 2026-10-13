@@ -5446,6 +5446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowerdrops | 134984 | [134984-flowerdrops.json](./134984-flowerdrops.json) |
 | Flowerhorn Aquarium | 255748 | [255748-flowerhorn-aquarium.json](./255748-flowerhorn-aquarium.json) |
 | Flowering Across | 153419 | [153419-flowering-across.json](./153419-flowering-across.json) |
+| Flowering Nightshade | 158400 | [158400-flowering-nightshade.json](./158400-flowering-nightshade.json) |
 | Flowering Void | 380217 | [380217-flowering-void.json](./380217-flowering-void.json) |
 | Flowers Blooming at the End of Summer | 129727 | [129727-flowers-blooming-at-the-end-of-summer.json](./129727-flowers-blooming-at-the-end-of-summer.json) |
 | Flowers Bundle | 213328 | [213328-flowers-bundle.json](./213328-flowers-bundle.json) |
