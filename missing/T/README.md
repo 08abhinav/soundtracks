@@ -1497,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Jinguji Saburo: Inochi Tatsu Kokugen | 347630 | [347630-tantei-jinguji-saburo-inochi-tatsu-kokugen.json](./347630-tantei-jinguji-saburo-inochi-tatsu-kokugen.json) |
 | Tantei Jinguji Saburo: Kadan no Itte & Nazono-Jikenbo | 67367 | [67367-tantei-jinguji-saburo-kadan-no-itte-and-nazono-jikenbo.json](./67367-tantei-jinguji-saburo-kadan-no-itte-and-nazono-jikenbo.json) |
 | Tantei Jinguji Saburo: Kiken na Futari - Kouhen | 41414 | [41414-tantei-jinguji-saburo-kiken-na-futari-kouhen.json](./41414-tantei-jinguji-saburo-kiken-na-futari-kouhen.json) |
+| Tantei Jinguji Saburo: Kiken na Futari - Zengohen | 171534 | [171534-tantei-jinguji-saburo-kiken-na-futari-zengohen.json](./171534-tantei-jinguji-saburo-kiken-na-futari-zengohen.json) |
 | Tantei Jinguji Saburo: Kiken na Futari - Zenpen | 41413 | [41413-tantei-jinguji-saburo-kiken-na-futari-zenpen.json](./41413-tantei-jinguji-saburo-kiken-na-futari-zenpen.json) |
 | Tantei Jinguji Saburo: Naki Ko no Shouzou | 347642 | [347642-tantei-jinguji-saburo-naki-ko-no-shouzou.json](./347642-tantei-jinguji-saburo-naki-ko-no-shouzou.json) |
 | Tantei Jinguji Saburo: Naki Ko no Shouzou & Nazono-Jikenbo | 347295 | [347295-tantei-jinguji-saburo-naki-ko-no-shouzou-and-nazono-jikenbo.json](./347295-tantei-jinguji-saburo-naki-ko-no-shouzou-and-nazono-jikenbo.json) |
@@ -2951,6 +2952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator: Resistance | 122611 | [122611-terminator-resistance.json](./122611-terminator-resistance.json) |
 | Terminators: The Video Game | 62965 | [62965-terminators-the-video-game.json](./62965-terminators-the-video-game.json) |
 | Terminull | 185151 | [185151-terminull.json](./185151-terminull.json) |
+| Terminus | 171327 | [171327-terminus.json](./171327-terminus.json) |
 | Terminus | 352261 | [352261-terminus.json](./352261-terminus.json) |
 | Terminus Machina | 230287 | [230287-terminus-machina.json](./230287-terminus-machina.json) |
 | Terminus: Ultiverse | 288755 | [288755-terminus-ultiverse.json](./288755-terminus-ultiverse.json) |
@@ -5887,6 +5889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Escapists: Duct Tapes Are Forever | 51927 | [51927-the-escapists-duct-tapes-are-forever.json](./51927-the-escapists-duct-tapes-are-forever.json) |
 | The Escapists: Escape Team | 51926 | [51926-the-escapists-escape-team.json](./51926-the-escapists-escape-team.json) |
 | The Escapists: Fhurst Peak Correctional Facility | 51925 | [51925-the-escapists-fhurst-peak-correctional-facility.json](./51925-the-escapists-fhurst-peak-correctional-facility.json) |
+| The Escapists: Santa's Sweatshop | 171326 | [171326-the-escapists-santas-sweatshop.json](./171326-the-escapists-santas-sweatshop.json) |
 | The Escapists: Supermax Edition | 169242 | [169242-the-escapists-supermax-edition.json](./169242-the-escapists-supermax-edition.json) |
 | The Escapists: The Walking Dead | 11744 | [11744-the-escapists-the-walking-dead.json](./11744-the-escapists-the-walking-dead.json) |
 | The Esoteric Archive | 353501 | [353501-the-esoteric-archive.json](./353501-the-esoteric-archive.json) |
@@ -6444,6 +6447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life 2: Complete Collection | 238044 | [238044-the-game-of-life-2-complete-collection.json](./238044-the-game-of-life-2-complete-collection.json) |
 | The Game of Life 2: El Dorado | 256002 | [256002-the-game-of-life-2-el-dorado.json](./256002-the-game-of-life-2-el-dorado.json) |
 | The Game of Life 2: Fairytale Kingdom World | 171608 | [171608-the-game-of-life-2-fairytale-kingdom-world.json](./171608-the-game-of-life-2-fairytale-kingdom-world.json) |
+| The Game of Life 2: Frozen Lands World | 171516 | [171516-the-game-of-life-2-frozen-lands-world.json](./171516-the-game-of-life-2-frozen-lands-world.json) |
 | The Game of Life 2: Haunted Hills world | 171398 | [171398-the-game-of-life-2-haunted-hills-world.json](./171398-the-game-of-life-2-haunted-hills-world.json) |
 | The Game of Life 2: Sandy Shores World | 171592 | [171592-the-game-of-life-2-sandy-shores-world.json](./171592-the-game-of-life-2-sandy-shores-world.json) |
 | The Game of Life 2: Sweet Haven World | 207800 | [207800-the-game-of-life-2-sweet-haven-world.json](./207800-the-game-of-life-2-sweet-haven-world.json) |
@@ -12658,6 +12662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thea Bundle | 192306 | [192306-thea-bundle.json](./192306-thea-bundle.json) |
 | Thea is Drowning | 179072 | [179072-thea-is-drowning.json](./179072-thea-is-drowning.json) |
 | Thea Realm Fighters | 270273 | [270273-thea-realm-fighters.json](./270273-thea-realm-fighters.json) |
+| Thea: The Awakening - Return of the Giants | 171334 | [171334-thea-the-awakening-return-of-the-giants.json](./171334-thea-the-awakening-return-of-the-giants.json) |
 | Theater of Death | 206191 | [206191-theater-of-death.json](./206191-theater-of-death.json) |
 | Theater of the Mind | 366286 | [366286-theater-of-the-mind.json](./366286-theater-of-the-mind.json) |
 | Theatre of Death | 15483 | [15483-theatre-of-death.json](./15483-theatre-of-death.json) |
@@ -21625,6 +21630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Worlds II: Echoes of the Dark Past | 124775 | [124775-two-worlds-ii-echoes-of-the-dark-past.json](./124775-two-worlds-ii-echoes-of-the-dark-past.json) |
 | Two Worlds II: Epic Edition | 51798 | [51798-two-worlds-ii-epic-edition.json](./51798-two-worlds-ii-epic-edition.json) |
 | Two Worlds II: Pirates of the Flying Fortress | 11032 | [11032-two-worlds-ii-pirates-of-the-flying-fortress.json](./11032-two-worlds-ii-pirates-of-the-flying-fortress.json) |
+| Two Worlds II: Shattered Embrace | 171324 | [171324-two-worlds-ii-shattered-embrace.json](./171324-two-worlds-ii-shattered-embrace.json) |
 | Two Worlds II: Velvet Game of the Year Edition | 47473 | [47473-two-worlds-ii-velvet-game-of-the-year-edition.json](./47473-two-worlds-ii-velvet-game-of-the-year-edition.json) |
 | Two Worlds: Epic Edition | 27841 | [27841-two-worlds-epic-edition.json](./27841-two-worlds-epic-edition.json) |
 | Two Worlds: The Game of the Year Edition | 53866 | [53866-two-worlds-the-game-of-the-year-edition.json](./53866-two-worlds-the-game-of-the-year-edition.json) |
