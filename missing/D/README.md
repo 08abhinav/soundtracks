@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damn it! | 284995 | [284995-damn-it.json](./284995-damn-it.json) |
 | Damn Little Town | 262062 | [262062-damn-little-town.json](./262062-damn-little-town.json) |
 | Damn Love | 402274 | [402274-damn-love.json](./402274-damn-love.json) |
+| Damn Ropes | 146622 | [146622-damn-ropes.json](./146622-damn-ropes.json) |
 | Damn, what was yesterday? | 157919 | [157919-damn-what-was-yesterday.json](./157919-damn-what-was-yesterday.json) |
 | Damnation | 6952 | [6952-damnation.json](./6952-damnation.json) |
 | Damnation City of Death | 35837 | [35837-damnation-city-of-death.json](./35837-damnation-city-of-death.json) |
@@ -5070,6 +5071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex: Transcended | 276277 | [276277-deus-ex-transcended.json](./276277-deus-ex-transcended.json) |
 | Deus Ex: Zodiac | 230249 | [230249-deus-ex-zodiac.json](./230249-deus-ex-zodiac.json) |
 | Deus Exia | 396741 | [396741-deus-exia.json](./396741-deus-exia.json) |
+| Deus Lo Veult | 146677 | [146677-deus-lo-veult.json](./146677-deus-lo-veult.json) |
 | Deus Proxy | 291536 | [291536-deus-proxy.json](./291536-deus-proxy.json) |
 | Deus Vult | 139763 | [139763-deus-vult.json](./139763-deus-vult.json) |
 | Deus Vult II | 139765 | [139765-deus-vult-ii.json](./139765-deus-vult-ii.json) |
@@ -5241,6 +5243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devious Path | 317405 | [317405-devious-path.json](./317405-devious-path.json) |
 | DeviousMUD | 66415 | [66415-deviousmud.json](./66415-deviousmud.json) |
 | Devive | 382367 | [382367-devive.json](./382367-devive.json) |
+| DevLife | 146642 | [146642-devlife.json](./146642-devlife.json) |
 | Devo Presents: Adventures of the Smart Patrol | 71739 | [71739-devo-presents-adventures-of-the-smart-patrol.json](./71739-devo-presents-adventures-of-the-smart-patrol.json) |
 | Devoid | 229212 | [229212-devoid.json](./229212-devoid.json) |
 | Devoid | 377568 | [377568-devoid.json](./377568-devoid.json) |
@@ -8469,6 +8472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DOOM: Enhanced Vanilla Project | 199416 | [199416-doom-enhanced-vanilla-project.json](./199416-doom-enhanced-vanilla-project.json) |
 | Doom: Hell Followed | 25571 | [25571-doom-hell-followed.json](./25571-doom-hell-followed.json) |
 | DooM: Infernal Attack | 198352 | [198352-doom-infernal-attack.json](./198352-doom-infernal-attack.json) |
+| Doom: Slayer's Testament | 146666 | [146666-doom-slayers-testament.json](./146666-doom-slayers-testament.json) |
 | Doom: The Dark Ages - Revelations | 405075 | [405075-doom-the-dark-ages-revelations.json](./405075-doom-the-dark-ages-revelations.json) |
 | Doom: The Gallery Experience | 327632 | [327632-doom-the-gallery-experience.json](./327632-doom-the-gallery-experience.json) |
 | DOOM: The Golden Souls | 140496 | [140496-doom-the-golden-souls.json](./140496-doom-the-golden-souls.json) |
