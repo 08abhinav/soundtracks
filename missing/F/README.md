@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faeria: Game + All DLC Bundle | 238217 | [238217-faeria-game-all-dlc-bundle.json](./238217-faeria-game-all-dlc-bundle.json) |
 | Faeria: Premium Edition | 238045 | [238045-faeria-premium-edition.json](./238045-faeria-premium-edition.json) |
 | Faerie Afterlight | 133272 | [133272-faerie-afterlight.json](./133272-faerie-afterlight.json) |
+| Faerie Alchemy: Puzzle Game | 174246 | [174246-faerie-alchemy-puzzle-game.json](./174246-faerie-alchemy-puzzle-game.json) |
 | Faerie Solitaire Classic | 182884 | [182884-faerie-solitaire-classic.json](./182884-faerie-solitaire-classic.json) |
 | Faerie Solitaire Dire | 118230 | [118230-faerie-solitaire-dire.json](./118230-faerie-solitaire-dire.json) |
 | Faerie Solitaire Remastered | 81259 | [81259-faerie-solitaire-remastered.json](./81259-faerie-solitaire-remastered.json) |
@@ -798,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Lords: Condemnation | 80150 | [80150-fallen-lords-condemnation.json](./80150-fallen-lords-condemnation.json) |
 | Fallen Mage | 30727 | [30727-fallen-mage.json](./30727-fallen-mage.json) |
 | Fallen Mage (Restocked) | 82329 | [82329-fallen-mage-restocked.json](./82329-fallen-mage-restocked.json) |
+| Fallen of the Round | 174243 | [174243-fallen-of-the-round.json](./174243-fallen-of-the-round.json) |
 | Fallen Overlord | 272922 | [272922-fallen-overlord.json](./272922-fallen-overlord.json) |
 | Fallen Priestess: My Sister's Demonic Bloodline | 385846 | [385846-fallen-priestess-my-sisters-demonic-bloodline.json](./385846-fallen-priestess-my-sisters-demonic-bloodline.json) |
 | Fallen Princess | 55909 | [55909-fallen-princess.json](./55909-fallen-princess.json) |
@@ -5374,6 +5376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower | 1354 | [1354-flower.json](./1354-flower.json) |
 | Flower and Animal 3D Encyclopedia | 77006 | [77006-flower-and-animal-3d-encyclopedia.json](./77006-flower-and-animal-3d-encyclopedia.json) |
 | Flower Bears | 307732 | [307732-flower-bears.json](./307732-flower-bears.json) |
+| Flower Board | 174253 | [174253-flower-board.json](./174253-flower-board.json) |
 | Flower Boy Athletic High | 203287 | [203287-flower-boy-athletic-high.json](./203287-flower-boy-athletic-high.json) |
 | Flower Cells | 216447 | [216447-flower-cells.json](./216447-flower-cells.json) |
 | Flower Daze | 366428 | [366428-flower-daze.json](./366428-flower-daze.json) |
