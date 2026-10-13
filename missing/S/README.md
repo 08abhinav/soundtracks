@@ -2935,6 +2935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Files: Tunguska - Remastered | 399165 | [399165-secret-files-tunguska-remastered.json](./399165-secret-files-tunguska-remastered.json) |
 | Secret Flirts | 206638 | [206638-secret-flirts.json](./206638-secret-flirts.json) |
 | Secret Forest | 295277 | [295277-secret-forest.json](./295277-secret-forest.json) |
+| Secret Game Code: Revise | 153168 | [153168-secret-game-code-revise.json](./153168-secret-game-code-revise.json) |
 | Secret Government | 110178 | [110178-secret-government.json](./110178-secret-government.json) |
 | Secret Habitat | 56176 | [56176-secret-habitat.json](./56176-secret-habitat.json) |
 | Secret HavEat | 352209 | [352209-secret-haveat.json](./352209-secret-haveat.json) |
@@ -6128,6 +6129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoujo Mahou Gaku Little Witch Romanesque Bangai Hen "Sayonara, Mauresumo" | 332429 | [332429-shoujo-mahou-gaku-little-witch-romanesque-bangai-hen-sayonara-mauresumo.json](./332429-shoujo-mahou-gaku-little-witch-romanesque-bangai-hen-sayonara-mauresumo.json) |
 | Shoujo Minority: Nagisa Another Day | 409797 | [409797-shoujo-minority-nagisa-another-day.json](./409797-shoujo-minority-nagisa-another-day.json) |
 | Shoujo Minority: Nagusame no Ai | 194607 | [194607-shoujo-minority-nagusame-no-ai.json](./194607-shoujo-minority-nagusame-no-ai.json) |
+| Shoujo Shuryou no Suiri Ryouiki: Kogane Shima no Mitsuyaku | 153137 | [153137-shoujo-shuryou-no-suiri-ryouiki-kogane-shima-no-mitsuyaku.json](./153137-shoujo-shuryou-no-suiri-ryouiki-kogane-shima-no-mitsuyaku.json) |
 | Should I Buy It? | 180818 | [180818-should-i-buy-it.json](./180818-should-i-buy-it.json) |
 | Should Shoot | 197714 | [197714-should-shoot.json](./197714-should-shoot.json) |
 | Should the Stars Have Eyes | 183926 | [183926-should-the-stars-have-eyes.json](./183926-should-the-stars-have-eyes.json) |
@@ -16648,6 +16650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars of the Beast 2 | 300259 | [300259-stars-of-the-beast-2.json](./300259-stars-of-the-beast-2.json) |
 | Stars of the Screen | 232677 | [232677-stars-of-the-screen.json](./232677-stars-of-the-screen.json) |
 | Stars Shooter | 245301 | [245301-stars-shooter.json](./245301-stars-shooter.json) |
+| Stars Slide | 153160 | [153160-stars-slide.json](./153160-stars-slide.json) |
 | Stars Survivor | 291481 | [291481-stars-survivor.json](./291481-stars-survivor.json) |
 | Stars Wheel | 175747 | [175747-stars-wheel.json](./175747-stars-wheel.json) |
 | Stars Without Number | 99095 | [99095-stars-without-number.json](./99095-stars-without-number.json) |
@@ -17714,6 +17717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Gate | 296005 | [296005-stone-gate.json](./296005-stone-gate.json) |
 | Stone Giant | 95852 | [95852-stone-giant.json](./95852-stone-giant.json) |
 | Stone Harbor | 57494 | [57494-stone-harbor.json](./57494-stone-harbor.json) |
+| Stone House Orphanage | 153127 | [153127-stone-house-orphanage.json](./153127-stone-house-orphanage.json) |
 | Stone it! | 157422 | [157422-stone-it.json](./157422-stone-it.json) |
 | Stone of Destiny | 242796 | [242796-stone-of-destiny.json](./242796-stone-of-destiny.json) |
 | Stone River | 167602 | [167602-stone-river.json](./167602-stone-river.json) |
@@ -20186,6 +20190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Destronaut 2: Go Duck Yourself | 84917 | [84917-super-destronaut-2-go-duck-yourself.json](./84917-super-destronaut-2-go-duck-yourself.json) |
 | Super Destronaut 3D | 84916 | [84916-super-destronaut-3d.json](./84916-super-destronaut-3d.json) |
 | Super Destronaut DX | 104862 | [104862-super-destronaut-dx.json](./104862-super-destronaut-dx.json) |
+| Super Destronaut DX-2 | 153130 | [153130-super-destronaut-dx-2.json](./153130-super-destronaut-dx-2.json) |
 | Super Destronaut: Land Wars | 131977 | [131977-super-destronaut-land-wars.json](./131977-super-destronaut-land-wars.json) |
 | Super Destronaut: Landed X Loaded | 295474 | [295474-super-destronaut-landed-x-loaded.json](./295474-super-destronaut-landed-x-loaded.json) |
 | Super Destroyer | 378394 | [378394-super-destroyer.json](./378394-super-destroyer.json) |
@@ -23244,6 +23249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Mejor | 356052 | [356052-sword-of-mejor.json](./356052-sword-of-mejor.json) |
 | Sword of Mine | 414825 | [414825-sword-of-mine.json](./414825-sword-of-mine.json) |
 | Sword of Moonlight King's Field Making tool | 218639 | [218639-sword-of-moonlight-kings-field-making-tool.json](./218639-sword-of-moonlight-kings-field-making-tool.json) |
+| Sword of Paladin RE | 153146 | [153146-sword-of-paladin-re.json](./153146-sword-of-paladin-re.json) |
 | Sword of Power | 176273 | [176273-sword-of-power.json](./176273-sword-of-power.json) |
 | Sword of Rapier | 64509 | [64509-sword-of-rapier.json](./64509-sword-of-rapier.json) |
 | Sword of Resistance | 134640 | [134640-sword-of-resistance.json](./134640-sword-of-resistance.json) |
