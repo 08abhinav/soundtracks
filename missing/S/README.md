@@ -2911,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Agent | 264045 | [264045-secret-agent.json](./264045-secret-agent.json) |
 | Secret Agent 001 | 224621 | [224621-secret-agent-001.json](./224621-secret-agent-001.json) |
 | Secret Agent Clank | 317376 | [317376-secret-agent-clank.json](./317376-secret-agent-clank.json) |
+| Secret Agent Dorito | 141593 | [141593-secret-agent-dorito.json](./141593-secret-agent-dorito.json) |
 | Secret Agent Files: Miami | 84858 | [84858-secret-agent-files-miami.json](./84858-secret-agent-files-miami.json) |
 | Secret Agent No. 6 | 254040 | [254040-secret-agent-no-6.json](./254040-secret-agent-no-6.json) |
 | Secret Agent Puzzle | 331662 | [331662-secret-agent-puzzle.json](./331662-secret-agent-puzzle.json) |
@@ -3823,6 +3824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serpent of Isis: Your Journey Continues | 89291 | [89291-serpent-of-isis-your-journey-continues.json](./89291-serpent-of-isis-your-journey-continues.json) |
 | Serpent Squad | 402273 | [402273-serpent-squad.json](./402273-serpent-squad.json) |
 | Serpent Wine | 332401 | [332401-serpent-wine.json](./332401-serpent-wine.json) |
+| Serpentes | 141594 | [141594-serpentes.json](./141594-serpentes.json) |
 | Serpentine | 22769 | [22769-serpentine.json](./22769-serpentine.json) |
 | Serpico | 353816 | [353816-serpico.json](./353816-serpico.json) |
 | Serpy | 78054 | [78054-serpy.json](./78054-serpy.json) |
@@ -14962,6 +14964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Springtastic Match | 359402 | [359402-springtastic-match.json](./359402-springtastic-match.json) |
 | Springtime Hike | 264231 | [264231-springtime-hike.json](./264231-springtime-hike.json) |
 | Springtime Puzzle | 359403 | [359403-springtime-puzzle.json](./359403-springtime-puzzle.json) |
+| Springy | 141600 | [141600-springy.json](./141600-springy.json) |
 | Springy: A Bounce Adventure | 216876 | [216876-springy-a-bounce-adventure.json](./216876-springy-a-bounce-adventure.json) |
 | Sprinkfield | 241333 | [241333-sprinkfield.json](./241333-sprinkfield.json) |
 | Sprinklebottom and the Haunted Ruins | 385217 | [385217-sprinklebottom-and-the-haunted-ruins.json](./385217-sprinklebottom-and-the-haunted-ruins.json) |
@@ -16032,6 +16035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Voyagers: Hentai Jigsaw | 389626 | [389626-star-voyagers-hentai-jigsaw.json](./389626-star-voyagers-hentai-jigsaw.json) |
 | Star Waker | 55275 | [55275-star-waker.json](./55275-star-waker.json) |
 | Star Warfare 2: Payback | 39784 | [39784-star-warfare-2-payback.json](./39784-star-warfare-2-payback.json) |
+| Star Warfare: Alien Invasion | 141564 | [141564-star-warfare-alien-invasion.json](./141564-star-warfare-alien-invasion.json) |
 | Star Warped | 71483 | [71483-star-warped.json](./71483-star-warped.json) |
 | Star Warrior | 94241 | [94241-star-warrior.json](./94241-star-warrior.json) |
 | Star Wars | 12858 | [12858-star-wars.json](./12858-star-wars.json) |
@@ -17297,6 +17301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Freight: Endless Horizon | 395520 | [395520-stellar-freight-endless-horizon.json](./395520-stellar-freight-endless-horizon.json) |
 | Stellar Gun | 167146 | [167146-stellar-gun.json](./167146-stellar-gun.json) |
 | Stellar Howl: Galactic Repairs | 417368 | [417368-stellar-howl-galactic-repairs.json](./417368-stellar-howl-galactic-repairs.json) |
+| Stellar Hunter | 141567 | [141567-stellar-hunter.json](./141567-stellar-hunter.json) |
 | Stellar Impact: Artillery Ship | 162582 | [162582-stellar-impact-artillery-ship.json](./162582-stellar-impact-artillery-ship.json) |
 | Stellar Impact: Carrier Ship | 162580 | [162580-stellar-impact-carrier-ship.json](./162580-stellar-impact-carrier-ship.json) |
 | Stellar Impact: Science Vessel | 162581 | [162581-stellar-impact-science-vessel.json](./162581-stellar-impact-science-vessel.json) |
@@ -18794,6 +18799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Struggle For Talyria | 148920 | [148920-struggle-for-talyria.json](./148920-struggle-for-talyria.json) |
 | Struggle for the Iliac Bay | 356168 | [356168-struggle-for-the-iliac-bay.json](./356168-struggle-for-the-iliac-bay.json) |
 | Struggle Weapon Girl | 410899 | [410899-struggle-weapon-girl.json](./410899-struggle-weapon-girl.json) |
+| Struggle: Antaresian Legacy | 141565 | [141565-struggle-antaresian-legacy.json](./141565-struggle-antaresian-legacy.json) |
 | Struggling | 115624 | [115624-struggling.json](./115624-struggling.json) |
 | Strum | 285159 | [285159-strum.json](./285159-strum.json) |
 | Stryfe - The Everlasting Battle | 39136 | [39136-stryfe-the-everlasting-battle.json](./39136-stryfe-the-everlasting-battle.json) |
@@ -20507,6 +20513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jazz Man | 57626 | [57626-super-jazz-man.json](./57626-super-jazz-man.json) |
 | Super Jeopardy! | 48698 | [48698-super-jeopardy.json](./48698-super-jeopardy.json) |
 | Super Jet Juck | 111685 | [111685-super-jet-juck.json](./111685-super-jet-juck.json) |
+| Super Jetpak DX | 141618 | [141618-super-jetpak-dx.json](./141618-super-jetpak-dx.json) |
 | Super Jewels Quest | 88550 | [88550-super-jewels-quest.json](./88550-super-jewels-quest.json) |
 | Super Jewels Quest 2 | 90358 | [90358-super-jewels-quest-2.json](./90358-super-jewels-quest-2.json) |
 | Super Jigsaw Puzzle | 86304 | [86304-super-jigsaw-puzzle.json](./86304-super-jigsaw-puzzle.json) |
@@ -21057,6 +21064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World Odyssey | 247185 | [247185-super-mario-world-odyssey.json](./247185-super-mario-world-odyssey.json) |
 | Super Mario World Randomizer | 182184 | [182184-super-mario-world-randomizer.json](./182184-super-mario-world-randomizer.json) |
 | Super Mario World Remastered | 339866 | [339866-super-mario-world-remastered.json](./339866-super-mario-world-remastered.json) |
+| Super Mario World Remix | 141607 | [141607-super-mario-world-remix.json](./141607-super-mario-world-remix.json) |
 | Super Mario World Rumbled | 377736 | [377736-super-mario-world-rumbled.json](./377736-super-mario-world-rumbled.json) |
 | Super Mario World The Pit Version | 267973 | [267973-super-mario-world-the-pit-version.json](./267973-super-mario-world-the-pit-version.json) |
 | Super Mario World U | 336106 | [336106-super-mario-world-u.json](./336106-super-mario-world-u.json) |
