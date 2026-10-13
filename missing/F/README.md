@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall of Light: Deluxe Edition | 119076 | [119076-fall-of-light-deluxe-edition.json](./119076-fall-of-light-deluxe-edition.json) |
 | Fall of Magic: Digital Edition | 56480 | [56480-fall-of-magic-digital-edition.json](./56480-fall-of-magic-digital-edition.json) |
 | Fall of Porcupine: Save the World Edition | 254153 | [254153-fall-of-porcupine-save-the-world-edition.json](./254153-fall-of-porcupine-save-the-world-edition.json) |
+| Fall of the Mafia | 157395 | [157395-fall-of-the-mafia.json](./157395-fall-of-the-mafia.json) |
 | Fall of the Mist | 293684 | [293684-fall-of-the-mist.json](./293684-fall-of-the-mist.json) |
 | Fall Of The MS Estonia | 294295 | [294295-fall-of-the-ms-estonia.json](./294295-fall-of-the-ms-estonia.json) |
 | Fall of the New Age: Collector's Edition | 251468 | [251468-fall-of-the-new-age-collectors-edition.json](./251468-fall-of-the-new-age-collectors-edition.json) |
@@ -7167,6 +7168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frackin' Universe | 279760 | [279760-frackin-universe.json](./279760-frackin-universe.json) |
 | Fractal | 30192 | [30192-fractal.json](./30192-fractal.json) |
 | Fractal | 381036 | [381036-fractal.json](./381036-fractal.json) |
+| Fractal Alchemist | 157382 | [157382-fractal-alchemist.json](./157382-fractal-alchemist.json) |
 | Fractal Block World | 152744 | [152744-fractal-block-world.json](./152744-fractal-block-world.json) |
 | Fractal City | 200933 | [200933-fractal-city.json](./200933-fractal-city.json) |
 | Fractal Craft | 364635 | [364635-fractal-craft.json](./364635-fractal-craft.json) |
@@ -7260,6 +7262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragments | 381037 | [381037-fragments.json](./381037-fragments.json) |
 | Fragments | 74490 | [74490-fragments.json](./74490-fragments.json) |
 | Fragments Blue | 380603 | [380603-fragments-blue.json](./380603-fragments-blue.json) |
+| Fragments of a Mind | 157428 | [157428-fragments-of-a-mind.json](./157428-fragments-of-a-mind.json) |
 | Fragments of Dread: Fale Haven | 372827 | [372827-fragments-of-dread-fale-haven.json](./372827-fragments-of-dread-fale-haven.json) |
 | Fragments of Dread: Late Lines FM | 390228 | [390228-fragments-of-dread-late-lines-fm.json](./390228-fragments-of-dread-late-lines-fm.json) |
 | Fragments of Euclid | 133851 | [133851-fragments-of-euclid.json](./133851-fragments-of-euclid.json) |
