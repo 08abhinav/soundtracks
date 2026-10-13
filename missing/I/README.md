@@ -1522,6 +1522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ImageFight II | 86242 | [86242-imagefight-ii.json](./86242-imagefight-ii.json) |
 | ImageStriker2 | 230796 | [230796-imagestriker2.json](./230796-imagestriker2.json) |
 | Imagicard: PAW Patrol | 137612 | [137612-imagicard-paw-patrol.json](./137612-imagicard-paw-patrol.json) |
+| Imagicard: Teenage Mutant Ninja Turtles | 137905 | [137905-imagicard-teenage-mutant-ninja-turtles.json](./137905-imagicard-teenage-mutant-ninja-turtles.json) |
 | ImaginAction | 210082 | [210082-imaginaction.json](./210082-imaginaction.json) |
 | Imaginal Voyages | 245779 | [245779-imaginal-voyages.json](./245779-imaginal-voyages.json) |
 | Imaginari | 215345 | [215345-imaginari.json](./215345-imaginari.json) |
