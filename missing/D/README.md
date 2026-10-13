@@ -4534,6 +4534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Of The Undead New Frontiers | 296364 | [296364-desert-of-the-undead-new-frontiers.json](./296364-desert-of-the-undead-new-frontiers.json) |
 | Desert of Vice | 95169 | [95169-desert-of-vice.json](./95169-desert-of-vice.json) |
 | Desert Patrol | 275232 | [275232-desert-patrol.json](./275232-desert-patrol.json) |
+| Desert Pirates | 156911 | [156911-desert-pirates.json](./156911-desert-pirates.json) |
 | Desert Race Adventures | 296592 | [296592-desert-race-adventures.json](./296592-desert-race-adventures.json) |
 | Desert Racer | 61646 | [61646-desert-racer.json](./61646-desert-racer.json) |
 | Desert Raider | 151174 | [151174-desert-raider.json](./151174-desert-raider.json) |
@@ -4824,6 +4825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy Blocks | 296642 | [296642-destroy-blocks.json](./296642-destroy-blocks.json) |
 | Destroy Geometric Shapes | 172139 | [172139-destroy-geometric-shapes.json](./172139-destroy-geometric-shapes.json) |
 | Destroy Gunners | 175673 | [175673-destroy-gunners.json](./175673-destroy-gunners.json) |
+| Destroy It | 156877 | [156877-destroy-it.json](./156877-destroy-it.json) |
 | Destroy Korcity | 264230 | [264230-destroy-korcity.json](./264230-destroy-korcity.json) |
 | Destroy Simulator | 188517 | [188517-destroy-simulator.json](./188517-destroy-simulator.json) |
 | Destroy the Castle | 349843 | [349843-destroy-the-castle.json](./349843-destroy-the-castle.json) |
@@ -10241,6 +10243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream of Light | 215903 | [215903-dream-of-light.json](./215903-dream-of-light.json) |
 | Dream of Mirror Online | 36108 | [36108-dream-of-mirror-online.json](./36108-dream-of-mirror-online.json) |
 | Dream of Pixels | 22203 | [22203-dream-of-pixels.json](./22203-dream-of-pixels.json) |
+| Dream of Salmon | 156891 | [156891-dream-of-salmon.json](./156891-dream-of-salmon.json) |
 | Dream of the Blood Moon | 122998 | [122998-dream-of-the-blood-moon.json](./122998-dream-of-the-blood-moon.json) |
 | Dream of Tiny Snow | 244786 | [244786-dream-of-tiny-snow.json](./244786-dream-of-tiny-snow.json) |
 | Dream of Tomorrow | 161354 | [161354-dream-of-tomorrow.json](./161354-dream-of-tomorrow.json) |
@@ -11028,6 +11031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunkard Quiz Show Hyoutan | 115684 | [115684-drunkard-quiz-show-hyoutan.json](./115684-drunkard-quiz-show-hyoutan.json) |
 | Drunkard Simulator | 374423 | [374423-drunkard-simulator.json](./374423-drunkard-simulator.json) |
 | Drunken Cowboys | 379053 | [379053-drunken-cowboys.json](./379053-drunken-cowboys.json) |
+| Drunken Dad Simulator | 156892 | [156892-drunken-dad-simulator.json](./156892-drunken-dad-simulator.json) |
 | Drunken Duel 2 | 146712 | [146712-drunken-duel-2.json](./146712-drunken-duel-2.json) |
 | Drunken Fight Simulator | 29913 | [29913-drunken-fight-simulator.json](./29913-drunken-fight-simulator.json) |
 | Drunken Fist 2: Zombie Hangover | 203560 | [203560-drunken-fist-2-zombie-hangover.json](./203560-drunken-fist-2-zombie-hangover.json) |
