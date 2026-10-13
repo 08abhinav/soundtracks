@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker Evolution: Untold | 1024 | [1024-hacker-evolution-untold.json](./1024-hacker-evolution-untold.json) |
 | Hacker II: The Doomsday Papers | 12133 | [12133-hacker-ii-the-doomsday-papers.json](./12133-hacker-ii-the-doomsday-papers.json) |
 | Hacker Series | 31115 | [31115-hacker-series.json](./31115-hacker-series.json) |
+| Hacker Simulator | 178337 | [178337-hacker-simulator.json](./178337-hacker-simulator.json) |
 | Hacker the Beginning | 234585 | [234585-hacker-the-beginning.json](./234585-hacker-the-beginning.json) |
 | Hacker.exe | 96503 | [96503-hacker-exe.json](./96503-hacker-exe.json) |
 | Hacker's Adventure | 142244 | [142244-hackers-adventure.json](./142244-hackers-adventure.json) |
@@ -6474,6 +6475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Night: Spooky Night Vol. 1 | 221735 | [221735-horror-night-spooky-night-vol-1.json](./221735-horror-night-spooky-night-vol-1.json) |
 | Horror Night: The Slenderman Takings | 236824 | [236824-horror-night-the-slenderman-takings.json](./236824-horror-night-the-slenderman-takings.json) |
 | Horror Nightmare Collection | 290626 | [290626-horror-nightmare-collection.json](./290626-horror-nightmare-collection.json) |
+| Horror of Minos | 178346 | [178346-horror-of-minos.json](./178346-horror-of-minos.json) |
 | Horror of the Deep | 30127 | [30127-horror-of-the-deep.json](./30127-horror-of-the-deep.json) |
 | Horror Office | 319232 | [319232-horror-office.json](./319232-horror-office.json) |
 | Horror Park of Willie Mouse | 326694 | [326694-horror-park-of-willie-mouse.json](./326694-horror-park-of-willie-mouse.json) |
@@ -7252,6 +7254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Howl of Iron | 230926 | [230926-howl-of-iron.json](./230926-howl-of-iron.json) |
 | Howling Village: Echoes | 175810 | [175810-howling-village-echoes.json](./175810-howling-village-echoes.json) |
 | HowLongToBeat: The Game | 362903 | [362903-howlongtobeat-the-game.json](./362903-howlongtobeat-the-game.json) |
+| Howloween Hero | 178362 | [178362-howloween-hero.json](./178362-howloween-hero.json) |
 | Howlville | 54104 | [54104-howlville.json](./54104-howlville.json) |
 | Howlville: The Dark Past | 99084 | [99084-howlville-the-dark-past.json](./99084-howlville-the-dark-past.json) |
 | Howrse | 152750 | [152750-howrse.json](./152750-howrse.json) |
