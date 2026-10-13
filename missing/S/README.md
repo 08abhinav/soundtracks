@@ -3438,6 +3438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Self | 118430 | [118430-self.json](./118430-self.json) |
 | Self Defense Kinda... | 258468 | [258468-self-defense-kinda.json](./258468-self-defense-kinda.json) |
 | Self Deleted | 412985 | [412985-self-deleted.json](./412985-self-deleted.json) |
+| Self Gunsbase | 149386 | [149386-self-gunsbase.json](./149386-self-gunsbase.json) |
 | Self Made Man: Life of an Entrepreneur | 204937 | [204937-self-made-man-life-of-an-entrepreneur.json](./204937-self-made-man-life-of-an-entrepreneur.json) |
 | Self Portrait (Interior) | 180512 | [180512-self-portrait-interior.json](./180512-self-portrait-interior.json) |
 | Self Reflection | 178011 | [178011-self-reflection.json](./178011-self-reflection.json) |
@@ -9419,6 +9420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoke Masks | 321041 | [321041-smoke-masks.json](./321041-smoke-masks.json) |
 | Smoked Fish and Cabbage 2 | 278620 | [278620-smoked-fish-and-cabbage-2.json](./278620-smoked-fish-and-cabbage-2.json) |
 | Smoked Fish And Cabbage 3 | 328046 | [328046-smoked-fish-and-cabbage-3.json](./328046-smoked-fish-and-cabbage-3.json) |
+| Smoked Gun | 149378 | [149378-smoked-gun.json](./149378-smoked-gun.json) |
 | Smokin' Guns | 27607 | [27607-smokin-guns.json](./27607-smokin-guns.json) |
 | Smokin' Guns - Shooting Gallery | 135854 | [135854-smokin-guns-shooting-gallery.json](./135854-smokin-guns-shooting-gallery.json) |
 | Smokin' Token | 58473 | [58473-smokin-token.json](./58473-smokin-token.json) |
@@ -10749,6 +10751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Family World | 251734 | [251734-solitaire-family-world.json](./251734-solitaire-family-world.json) |
 | Solitaire Fish Klondike | 220047 | [220047-solitaire-fish-klondike.json](./220047-solitaire-fish-klondike.json) |
 | Solitaire Forever | 88573 | [88573-solitaire-forever.json](./88573-solitaire-forever.json) |
+| Solitaire Forever II | 149360 | [149360-solitaire-forever-ii.json](./149360-solitaire-forever-ii.json) |
 | Solitaire Freecell - card game | 88414 | [88414-solitaire-freecell-card-game.json](./88414-solitaire-freecell-card-game.json) |
 | Solitaire FunPak | 79683 | [79683-solitaire-funpak.json](./79683-solitaire-funpak.json) |
 | Solitaire Game Christmas | 201471 | [201471-solitaire-game-christmas.json](./201471-solitaire-game-christmas.json) |
@@ -11010,6 +11013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Son of Perun Kharkiv | 264626 | [264626-son-of-perun-kharkiv.json](./264626-son-of-perun-kharkiv.json) |
 | Son of the Dragon | 264884 | [264884-son-of-the-dragon.json](./264884-son-of-the-dragon.json) |
 | Son of the Mask | 265638 | [265638-son-of-the-mask.json](./265638-son-of-the-mask.json) |
+| Son Savaşçı | 149374 | [149374-son-savasc.json](./149374-son-savasc.json) |
 | Son Son II | 37689 | [37689-son-son-ii.json](./37689-son-son-ii.json) |
 | Sonafleki | 393153 | [393153-sonafleki.json](./393153-sonafleki.json) |
 | Sonak | 356648 | [356648-sonak.json](./356648-sonak.json) |
@@ -14337,6 +14341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit City: Lofi Sessions - Cozy Kitchen | 325655 | [325655-spirit-city-lofi-sessions-cozy-kitchen.json](./325655-spirit-city-lofi-sessions-cozy-kitchen.json) |
 | Spirit City: Lofi Sessions - Supporter Pack | 378592 | [378592-spirit-city-lofi-sessions-supporter-pack.json](./378592-spirit-city-lofi-sessions-supporter-pack.json) |
 | Spirit City: Lofi Sessions - Winter Spirit Cosmetics Pack | 378591 | [378591-spirit-city-lofi-sessions-winter-spirit-cosmetics-pack.json](./378591-spirit-city-lofi-sessions-winter-spirit-cosmetics-pack.json) |
+| Spirit Clash | 149877 | [149877-spirit-clash.json](./149877-spirit-clash.json) |
 | Spirit Cleaning | 151717 | [151717-spirit-cleaning.json](./151717-spirit-cleaning.json) |
 | Spirit Crossing | 336502 | [336502-spirit-crossing.json](./336502-spirit-crossing.json) |
 | Spirit Detective | 191490 | [191490-spirit-detective.json](./191490-spirit-detective.json) |
@@ -14350,6 +14355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Hunters Inc. Shadow/Light | 84895 | [84895-spirit-hunters-inc-shadow-light.json](./84895-spirit-hunters-inc-shadow-light.json) |
 | Spirit Island: Horizons of Spirit Island | 254660 | [254660-spirit-island-horizons-of-spirit-island.json](./254660-spirit-island-horizons-of-spirit-island.json) |
 | Spirit Knight | 358815 | [358815-spirit-knight.json](./358815-spirit-knight.json) |
+| Spirit Land | 149883 | [149883-spirit-land.json](./149883-spirit-land.json) |
 | Spirit Latte | 364380 | [364380-spirit-latte.json](./364380-spirit-latte.json) |
 | Spirit Legends: Finding Balance - Collector's Edition | 338707 | [338707-spirit-legends-finding-balance-collectors-edition.json](./338707-spirit-legends-finding-balance-collectors-edition.json) |
 | Spirit Legends: Solar Eclipse - Collector's Edition | 338706 | [338706-spirit-legends-solar-eclipse-collectors-edition.json](./338706-spirit-legends-solar-eclipse-collectors-edition.json) |
@@ -16966,6 +16972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Strike | 333577 | [333577-stealth-strike.json](./333577-stealth-strike.json) |
 | Stealthscape | 96732 | [96732-stealthscape.json](./96732-stealthscape.json) |
 | Stealthy Guy | 102573 | [102573-stealthy-guy.json](./102573-stealthy-guy.json) |
+| Stealthy Ninja | 149384 | [149384-stealthy-ninja.json](./149384-stealthy-ninja.json) |
 | Steam | 95441 | [95441-steam.json](./95441-steam.json) |
 | Steam & Clicks | 350005 | [350005-steam-and-clicks.json](./350005-steam-and-clicks.json) |
 | Steam & Steel Railway Tycoon | 384191 | [384191-steam-and-steel-railway-tycoon.json](./384191-steam-and-steel-railway-tycoon.json) |
@@ -17709,6 +17716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stolen Heart | 397673 | [397673-stolen-heart.json](./397673-stolen-heart.json) |
 | Stolen Memories II | 270882 | [270882-stolen-memories-ii.json](./270882-stolen-memories-ii.json) |
 | Stolen Mushrooms | 268224 | [268224-stolen-mushrooms.json](./268224-stolen-mushrooms.json) |
+| Stolen Rage | 149394 | [149394-stolen-rage.json](./149394-stolen-rage.json) |
 | Stolen Recovery | 133373 | [133373-stolen-recovery.json](./133373-stolen-recovery.json) |
 | Stolen Steel VR | 29568 | [29568-stolen-steel-vr.json](./29568-stolen-steel-vr.json) |
 | Stomp | 91539 | [91539-stomp.json](./91539-stomp.json) |
@@ -23393,6 +23401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordsman Night King | 401619 | [401619-swordsman-night-king.json](./401619-swordsman-night-king.json) |
 | Swordsman on the Eternal Journey | 298811 | [298811-swordsman-on-the-eternal-journey.json](./298811-swordsman-on-the-eternal-journey.json) |
 | Swordsman Online | 9738 | [9738-swordsman-online.json](./9738-swordsman-online.json) |
+| Swordsman VR | 149881 | [149881-swordsman-vr.json](./149881-swordsman-vr.json) |
 | SwordSpin: Arena of Blades | 290547 | [290547-swordspin-arena-of-blades.json](./290547-swordspin-arena-of-blades.json) |
 | Swordthrust | 22495 | [22495-swordthrust.json](./22495-swordthrust.json) |
 | Swordthrust 5: The Green Plague | 24793 | [24793-swordthrust-5-the-green-plague.json](./24793-swordthrust-5-the-green-plague.json) |
