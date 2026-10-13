@@ -7890,7 +7890,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Art: Coloring Puzzle Game | 100322 | [100322-poly-art-coloring-puzzle-game.json](./100322-poly-art-coloring-puzzle-game.json) |
 | Poly Backrooms | 262906 | [262906-poly-backrooms.json](./262906-poly-backrooms.json) |
 | Poly Beats | 288150 | [288150-poly-beats.json](./288150-poly-beats.json) |
-| Poly Bridge | 11597 | [11597-poly-bridge.json](./11597-poly-bridge.json) |
 | Poly Bridge 2 | 132002 | [132002-poly-bridge-2.json](./132002-poly-bridge-2.json) |
 | Poly Bridge 3 | 243400 | [243400-poly-bridge-3.json](./243400-poly-bridge-3.json) |
 | Poly City : Vengeance | 114423 | [114423-poly-city-vengeance.json](./114423-poly-city-vengeance.json) |
