@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T19:28:06.649Z",
-  "total_soundtracks": 1593,
+  "generated_at": "2026-10-13T19:28:23.563Z",
+  "total_soundtracks": 1594,
   "games": [
     {
       "igdb_id": 7522,
@@ -14675,6 +14675,20 @@
           "spotify_url": "https://open.spotify.com/album/3qjsSdcrvlSS0HwJzjLQJE",
           "apple_music_url": "https://music.apple.com/us/album/streets-of-rage-official-game-soundtrack/1513110952",
           "album_link_url": "https://album.link/i/1513110952"
+        }
+      ]
+    },
+    {
+      "igdb_id": 1653,
+      "game_name": "Streets of Rage 2",
+      "game_url": "https://ostdb.net/games/streets-of-rage-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e5b4bc3c5ab658dcb77b3722",
+      "albums": [
+        {
+          "album_name": "Streets of Rage 2 (Official Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/23DOiprzUpcAFyJjDNJMuK",
+          "apple_music_url": "",
+          "album_link_url": "https://album.link/s/23DOiprzUpcAFyJjDNJMuK"
         }
       ]
     },
