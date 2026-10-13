@@ -952,6 +952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzerfaust | 258212 | [258212-panzerfaust.json](./258212-panzerfaust.json) |
 | Panzerkampf | 282075 | [282075-panzerkampf.json](./282075-panzerkampf.json) |
 | Pao Pao Party | 184609 | [184609-pao-pao-party.json](./184609-pao-pao-party.json) |
+| Paon: Beyond the Pien | 153164 | [153164-paon-beyond-the-pien.json](./153164-paon-beyond-the-pien.json) |
 | Papa Louie 3: When Sundaes Attack! | 101932 | [101932-papa-louie-3-when-sundaes-attack.json](./101932-papa-louie-3-when-sundaes-attack.json) |
 | Papa Needs a Headshot | 360095 | [360095-papa-needs-a-headshot.json](./360095-papa-needs-a-headshot.json) |
 | Papa Pear Saga | 18062 | [18062-papa-pear-saga.json](./18062-papa-pear-saga.json) |
@@ -1238,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradigm | 27762 | [27762-paradigm.json](./27762-paradigm.json) |
 | Paradigm Island | 285976 | [285976-paradigm-island.json](./285976-paradigm-island.json) |
 | Paradigm Overhaul | 291762 | [291762-paradigm-overhaul.json](./291762-paradigm-overhaul.json) |
+| Paradigm Shift | 153126 | [153126-paradigm-shift.json](./153126-paradigm-shift.json) |
 | Paradigm Shift | 9240 | [9240-paradigm-shift.json](./9240-paradigm-shift.json) |
 | Paradigm: Reboot | 193887 | [193887-paradigm-reboot.json](./193887-paradigm-reboot.json) |
 | Paradigmfetish | 223137 | [223137-paradigmfetish.json](./223137-paradigmfetish.json) |
@@ -8947,6 +8949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerslam | 101679 | [101679-powerslam.json](./101679-powerslam.json) |
 | PowerSlave | 188071 | [188071-powerslave.json](./188071-powerslave.json) |
 | PowerSlave: Exhumed | 165054 | [165054-powerslave-exhumed.json](./165054-powerslave-exhumed.json) |
+| Powerslide Legends | 152652 | [152652-powerslide-legends.json](./152652-powerslide-legends.json) |
 | Powerstar Golf: Burning Sands | 256747 | [256747-powerstar-golf-burning-sands.json](./256747-powerstar-golf-burning-sands.json) |
 | Powerstar Golf: City Park | 256745 | [256745-powerstar-golf-city-park.json](./256745-powerstar-golf-city-park.json) |
 | Powerstar Golf: Emperor's Garden | 249733 | [249733-powerstar-golf-emperors-garden.json](./249733-powerstar-golf-emperors-garden.json) |
@@ -9762,6 +9765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prize Fighter: Remastered | 203790 | [203790-prize-fighter-remastered.json](./203790-prize-fighter-remastered.json) |
 | Prizefight | 68609 | [68609-prizefight.json](./68609-prizefight.json) |
 | Prizefighters | 239914 | [239914-prizefighters.json](./239914-prizefighters.json) |
+| Prizefighters 2 | 152668 | [152668-prizefighters-2.json](./152668-prizefighters-2.json) |
 | PrizeMap | 398641 | [398641-prizemap.json](./398641-prizemap.json) |
 | Prizma Puzzle Classic | 378184 | [378184-prizma-puzzle-classic.json](./378184-prizma-puzzle-classic.json) |
 | Pro 123 My Little Funny Animals Connect the Dots | 102616 | [102616-pro-123-my-little-funny-animals-connect-the-dots.json](./102616-pro-123-my-little-funny-animals-connect-the-dots.json) |
@@ -10743,6 +10747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protect My Cheese | 219642 | [219642-protect-my-cheese.json](./219642-protect-my-cheese.json) |
 | Protect My Love | 205905 | [205905-protect-my-love.json](./205905-protect-my-love.json) |
 | Protect the campus | 123502 | [123502-protect-the-campus.json](./123502-protect-the-campus.json) |
+| Protect the Earth | 152646 | [152646-protect-the-earth.json](./152646-protect-the-earth.json) |
 | Protect the Grimoire | 413133 | [413133-protect-the-grimoire.json](./413133-protect-the-grimoire.json) |
 | Protect the Kingdom | 179086 | [179086-protect-the-kingdom.json](./179086-protect-the-kingdom.json) |
 | Protect the Planet | 257969 | [257969-protect-the-planet.json](./257969-protect-the-planet.json) |
@@ -11552,6 +11557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push Comes to Shovel | 211783 | [211783-push-comes-to-shovel.json](./211783-push-comes-to-shovel.json) |
 | Push Corgi | 379156 | [379156-push-corgi.json](./379156-push-corgi.json) |
 | Push IT: Sokoban Puzzle | 232386 | [232386-push-it-sokoban-puzzle.json](./232386-push-it-sokoban-puzzle.json) |
+| Push Me | 152677 | [152677-push-me.json](./152677-push-me.json) |
 | Push Pull | 115442 | [115442-push-pull.json](./115442-push-pull.json) |
 | Push Push | 374199 | [374199-push-push.json](./374199-push-push.json) |
 | Push Push Boom | 284291 | [284291-push-push-boom.json](./284291-push-push-boom.json) |
