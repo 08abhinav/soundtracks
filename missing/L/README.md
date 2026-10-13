@@ -3025,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifetakers & Heartbreakers | 340917 | [340917-lifetakers-and-heartbreakers.json](./340917-lifetakers-and-heartbreakers.json) |
 | Lifetime | 236400 | [236400-lifetime.json](./236400-lifetime.json) |
 | Lifeway | 211768 | [211768-lifeway.json](./211768-lifeway.json) |
+| Lifing | 167362 | [167362-lifing.json](./167362-lifing.json) |
 | Lifo | 185615 | [185615-lifo.json](./185615-lifo.json) |
 | Lifo Harvester | 55237 | [55237-lifo-harvester.json](./55237-lifo-harvester.json) |
 | Lift Up | 397072 | [397072-lift-up.json](./397072-lift-up.json) |
@@ -4713,6 +4714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Yuri | 63652 | [63652-lonely-yuri.json](./63652-lonely-yuri.json) |
 | Lonelyland VR | 105988 | [105988-lonelyland-vr.json](./105988-lonelyland-vr.json) |
 | Lonepath | 121462 | [121462-lonepath.json](./121462-lonepath.json) |
+| Loner | 167383 | [167383-loner.json](./167383-loner.json) |
 | Loner_Dog://Snuff Puppy Carnage Society | 358384 | [358384-loner-dog-snuff-puppy-carnage-society.json](./358384-loner-dog-snuff-puppy-carnage-society.json) |
 | Loner's Spell | 182967 | [182967-loners-spell.json](./182967-loners-spell.json) |
 | Lonesome Road | 349408 | [349408-lonesome-road.json](./349408-lonesome-road.json) |
