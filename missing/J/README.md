@@ -2285,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Ninja Battle | 345695 | [345695-jumping-ninja-battle.json](./345695-jumping-ninja-battle.json) |
 | Jumping Orb | 295888 | [295888-jumping-orb.json](./295888-jumping-orb.json) |
 | Jumping Over It With Kang KiYun | 120382 | [120382-jumping-over-it-with-kang-kiyun.json](./120382-jumping-over-it-with-kang-kiyun.json) |
+| Jumping Over It With Neko Girl | 143409 | [143409-jumping-over-it-with-neko-girl.json](./143409-jumping-over-it-with-neko-girl.json) |
 | Jumping Platform Minigame | 158683 | [158683-jumping-platform-minigame.json](./158683-jumping-platform-minigame.json) |
 | Jumping Pop | 46798 | [46798-jumping-pop.json](./46798-jumping-pop.json) |
 | Jumping Tank | 29701 | [29701-jumping-tank.json](./29701-jumping-tank.json) |
