@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Battles | 342846 | [342846-tactical-battles.json](./342846-tactical-battles.json) |
 | Tactical Breach Wizards: Special Edition | 396407 | [396407-tactical-breach-wizards-special-edition.json](./396407-tactical-breach-wizards-special-edition.json) |
 | Tactical Chronicle | 96515 | [96515-tactical-chronicle.json](./96515-tactical-chronicle.json) |
+| Tactical Combat Department | 164059 | [164059-tactical-combat-department.json](./164059-tactical-combat-department.json) |
 | Tactical Craft Online | 34125 | [34125-tactical-craft-online.json](./34125-tactical-craft-online.json) |
 | Tactical Manager | 182375 | [182375-tactical-manager.json](./182375-tactical-manager.json) |
 | Tactical Manager | 86220 | [86220-tactical-manager.json](./86220-tactical-manager.json) |
@@ -1866,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tau Defense | 120859 | [120859-tau-defense.json](./120859-tau-defense.json) |
 | TAU-09 | 392942 | [392942-tau-09.json](./392942-tau-09.json) |
 | TauCeti Unknown Origin | 130911 | [130911-tauceti-unknown-origin.json](./130911-tauceti-unknown-origin.json) |
+| Tauren maze | 164057 | [164057-tauren-maze.json](./164057-tauren-maze.json) |
 | Tauriel Teaches Typing | 181883 | [181883-tauriel-teaches-typing.json](./181883-tauriel-teaches-typing.json) |
 | Tauronos | 50543 | [50543-tauronos.json](./50543-tauronos.json) |
 | Taurus VR | 127776 | [127776-taurus-vr.json](./127776-taurus-vr.json) |
@@ -3546,6 +3548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's So Raven 2: Supernatural Style | 49406 | [49406-thats-so-raven-2-supernatural-style.json](./49406-thats-so-raven-2-supernatural-style.json) |
 | That's So Raven: Psychic on the Scene | 47951 | [47951-thats-so-raven-psychic-on-the-scene.json](./47951-thats-so-raven-psychic-on-the-scene.json) |
 | That's the Spirit | 57354 | [57354-thats-the-spirit.json](./57354-thats-the-spirit.json) |
+| Thatcher's Techbase | 164080 | [164080-thatchers-techbase.json](./164080-thatchers-techbase.json) |
 | Thaumistry: In Charm's Way | 27280 | [27280-thaumistry-in-charms-way.json](./27280-thaumistry-in-charms-way.json) |
 | ThaumOS | 184462 | [184462-thaumos.json](./184462-thaumos.json) |
 | Thawed Waters | 260254 | [260254-thawed-waters.json](./260254-thawed-waters.json) |
@@ -19492,6 +19495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap for the Heir | 287724 | [287724-trap-for-the-heir.json](./287724-trap-for-the-heir.json) |
 | Trap for Winners | 115687 | [115687-trap-for-winners.json](./115687-trap-for-winners.json) |
 | Trap Furry Puzzle | 112801 | [112801-trap-furry-puzzle.json](./112801-trap-furry-puzzle.json) |
+| Trap Genesis | 164073 | [164073-trap-genesis.json](./164073-trap-genesis.json) |
 | Trap Golf | 379594 | [379594-trap-golf.json](./379594-trap-golf.json) |
 | Trap Labs | 74606 | [74606-trap-labs.json](./74606-trap-labs.json) |
 | Trap Master | 65000 | [65000-trap-master.json](./65000-trap-master.json) |
