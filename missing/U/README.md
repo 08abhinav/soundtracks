@@ -956,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncle Albert's Fabulous Voyage | 25916 | [25916-uncle-alberts-fabulous-voyage.json](./25916-uncle-alberts-fabulous-voyage.json) |
 | Uncle Albert's Magical Album | 147321 | [147321-uncle-alberts-magical-album.json](./147321-uncle-alberts-magical-album.json) |
 | Uncle and His Friend | 393612 | [393612-uncle-and-his-friend.json](./393612-uncle-and-his-friend.json) |
+| Uncle Buddy's Phantom Funhouse | 172063 | [172063-uncle-buddys-phantom-funhouse.json](./172063-uncle-buddys-phantom-funhouse.json) |
 | Uncle Chop's Rocket Shop | 214710 | [214710-uncle-chops-rocket-shop.json](./214710-uncle-chops-rocket-shop.json) |
 | Uncle Chop's Rocket Shop: Deluxe Edition | 327460 | [327460-uncle-chops-rocket-shop-deluxe-edition.json](./327460-uncle-chops-rocket-shop-deluxe-edition.json) |
 | Uncle Chuck Incorporated | 319871 | [319871-uncle-chuck-incorporated.json](./319871-uncle-chuck-incorporated.json) |
