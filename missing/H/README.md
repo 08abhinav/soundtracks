@@ -312,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half Blood | 402500 | [402500-half-blood.json](./402500-half-blood.json) |
 | Half Blood RPG | 163735 | [163735-half-blood-rpg.json](./163735-half-blood-rpg.json) |
 | Half Built: Casino | 211721 | [211721-half-built-casino.json](./211721-half-built-casino.json) |
+| Half Dead 3 | 165106 | [165106-half-dead-3.json](./165106-half-dead-3.json) |
 | Half Empty | 103510 | [103510-half-empty.json](./103510-half-empty.json) |
 | Half Grip | 413472 | [413472-half-grip.json](./413472-half-grip.json) |
 | Half Hour Hexagon | 220027 | [220027-half-hour-hexagon.json](./220027-half-hour-hexagon.json) |
@@ -7873,6 +7874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hush Hush | 244826 | [244826-hush-hush.json](./244826-hush-hush.json) |
 | Hush Hush - Unlimited Survival Horror | 33344 | [33344-hush-hush-unlimited-survival-horror.json](./33344-hush-hush-unlimited-survival-horror.json) |
 | Hush Hush High | 303555 | [303555-hush-hush-high.json](./303555-hush-hush-high.json) |
+| Hush Hush: Only Your Love Can Save Them | 165135 | [165135-hush-hush-only-your-love-can-save-them.json](./165135-hush-hush-only-your-love-can-save-them.json) |
 | Hush Little Lily | 177395 | [177395-hush-little-lily.json](./177395-hush-little-lily.json) |
 | Hush: In Search of Dominic Ward | 116298 | [116298-hush-in-search-of-dominic-ward.json](./116298-hush-in-search-of-dominic-ward.json) |
 | Hushaby Baby | 59216 | [59216-hushaby-baby.json](./59216-hushaby-baby.json) |
