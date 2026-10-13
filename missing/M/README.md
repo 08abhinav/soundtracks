@@ -7689,11 +7689,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimic Sleuth | 355031 | [355031-mimic-sleuth.json](./355031-mimic-sleuth.json) |
 | Mimic Warehouse | 346649 | [346649-mimic-warehouse.json](./346649-mimic-warehouse.json) |
 | MimiCries | 265324 | [265324-mimicries.json](./265324-mimicries.json) |
+| Mimicry | 166825 | [166825-mimicry.json](./166825-mimicry.json) |
 | Mimicry | 342757 | [342757-mimicry.json](./342757-mimicry.json) |
 | Mimicry Man | 61570 | [61570-mimicry-man.json](./61570-mimicry-man.json) |
 | Mimics | 176438 | [176438-mimics.json](./176438-mimics.json) |
 | Mimics the Bots | 238514 | [238514-mimics-the-bots.json](./238514-mimics-the-bots.json) |
 | MiMiMi | 256984 | [256984-mimimi.json](./256984-mimimi.json) |
+| Mimir's Recruit | 166822 | [166822-mimirs-recruit.json](./166822-mimirs-recruit.json) |
 | Mimizu Panzer | 267645 | [267645-mimizu-panzer.json](./267645-mimizu-panzer.json) |
 | Mimo | 178448 | [178448-mimo.json](./178448-mimo.json) |
 | Mimpi | 20353 | [20353-mimpi.json](./20353-mimpi.json) |
@@ -9767,6 +9769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monaco Grand Prix | 3413 | [3413-monaco-grand-prix.json](./3413-monaco-grand-prix.json) |
 | Monaco Master | 268495 | [268495-monaco-master.json](./268495-monaco-master.json) |
 | Monaco: What's Yours Is Mine | 8739 | [8739-monaco-whats-yours-is-mine.json](./8739-monaco-whats-yours-is-mine.json) |
+| Monads II | 166842 | [166842-monads-ii.json](./166842-monads-ii.json) |
 | Monarch: Medieval Remastered | 117134 | [117134-monarch-medieval-remastered.json](./117134-monarch-medieval-remastered.json) |
 | Monarch: The Butterfly King | 106734 | [106734-monarch-the-butterfly-king.json](./106734-monarch-the-butterfly-king.json) |
 | Monarch: The Tainted Kingdom | 410962 | [410962-monarch-the-tainted-kingdom.json](./410962-monarch-the-tainted-kingdom.json) |
@@ -12481,6 +12484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Club DX | 320846 | [320846-murder-club-dx.json](./320846-murder-club-dx.json) |
 | Murder Detective: Jack the Ripper | 114535 | [114535-murder-detective-jack-the-ripper.json](./114535-murder-detective-jack-the-ripper.json) |
 | Murder Diaries | 153948 | [153948-murder-diaries.json](./153948-murder-diaries.json) |
+| Murder Diaries 2 | 166830 | [166830-murder-diaries-2.json](./166830-murder-diaries-2.json) |
 | Murder Diaries: Ankara | 88185 | [88185-murder-diaries-ankara.json](./88185-murder-diaries-ankara.json) |
 | Murder Generation: Cream City Chaos | 255276 | [255276-murder-generation-cream-city-chaos.json](./255276-murder-generation-cream-city-chaos.json) |
 | Murder Hornets | 164967 | [164967-murder-hornets.json](./164967-murder-hornets.json) |
