@@ -6293,6 +6293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clavis Kinkygate: Treasure of Danau River | 294033 | [294033-clavis-kinkygate-treasure-of-danau-river.json](./294033-clavis-kinkygate-treasure-of-danau-river.json) |
 | Claw | 176853 | [176853-claw.json](./176853-claw.json) |
 | Claw | 2474 | [2474-claw.json](./2474-claw.json) |
+| Claw Arena | 172439 | [172439-claw-arena.json](./172439-claw-arena.json) |
 | Claw Breaker | 105290 | [105290-claw-breaker.json](./105290-claw-breaker.json) |
 | Claw Dropper | 365720 | [365720-claw-dropper.json](./365720-claw-dropper.json) |
 | Claw Express | 270384 | [270384-claw-express.json](./270384-claw-express.json) |
