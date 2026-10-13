@@ -646,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Boy | 365693 | [365693-jelly-boy.json](./365693-jelly-boy.json) |
 | Jelly Boy 2 | 38364 | [38364-jelly-boy-2.json](./38364-jelly-boy-2.json) |
 | Jelly Brawl | 132591 | [132591-jelly-brawl.json](./132591-jelly-brawl.json) |
+| Jelly Brawl: Classic | 173191 | [173191-jelly-brawl-classic.json](./173191-jelly-brawl-classic.json) |
 | Jelly Bubble | 359055 | [359055-jelly-bubble.json](./359055-jelly-bubble.json) |
 | Jelly Defense | 22206 | [22206-jelly-defense.json](./22206-jelly-defense.json) |
 | Jelly Escape | 286641 | [286641-jelly-escape.json](./286641-jelly-escape.json) |
@@ -1739,6 +1740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jonah Considers What Is Asked of Him | 375384 | [375384-jonah-considers-what-is-asked-of-him.json](./375384-jonah-considers-what-is-asked-of-him.json) |
 | Jonah Lomu Rugby | 2401 | [2401-jonah-lomu-rugby.json](./2401-jonah-lomu-rugby.json) |
 | Jonah Lomu Rugby Challenge 4 | 333520 | [333520-jonah-lomu-rugby-challenge-4.json](./333520-jonah-lomu-rugby-challenge-4.json) |
+| Jonah Lomu Rugby Challenge: Quick Match | 175156 | [175156-jonah-lomu-rugby-challenge-quick-match.json](./175156-jonah-lomu-rugby-challenge-quick-match.json) |
 | Jonah: A VeggieTales Game | 80600 | [80600-jonah-a-veggietales-game.json](./80600-jonah-a-veggietales-game.json) |
 | Jonald '06 or How a Tiny Horse Living in New York City Raised 250 US Dollars So They Could Buy a Nintedo Woo On Launch Day | 357856 | [357856-jonald-06-or-how-a-tiny-horse-living-in-new-york-city-raised-250-us-dollars-so-they-could-buy-a-nintedo-woo-on-launch-day.json](./357856-jonald-06-or-how-a-tiny-horse-living-in-new-york-city-raised-250-us-dollars-so-they-could-buy-a-nintedo-woo-on-launch-day.json) |
 | Jonas Willy Online | 149013 | [149013-jonas-willy-online.json](./149013-jonas-willy-online.json) |
@@ -2327,6 +2329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpy Kitten | 101672 | [101672-jumpy-kitten.json](./101672-jumpy-kitten.json) |
 | Jumpy Paws: World Adventures | 258022 | [258022-jumpy-paws-world-adventures.json](./258022-jumpy-paws-world-adventures.json) |
 | Jumpy Penguin | 104702 | [104702-jumpy-penguin.json](./104702-jumpy-penguin.json) |
+| Jumpy Red Bird: Tube Hopper | 175313 | [175313-jumpy-red-bird-tube-hopper.json](./175313-jumpy-red-bird-tube-hopper.json) |
 | Jumpy Road Race | 232162 | [232162-jumpy-road-race.json](./232162-jumpy-road-race.json) |
 | Jumpy Rooftop | 242566 | [242566-jumpy-rooftop.json](./242566-jumpy-rooftop.json) |
 | Jumpy Skateboard Ninja: The Royale Sword Hero Dude Drive Adventure | 256360 | [256360-jumpy-skateboard-ninja-the-royale-sword-hero-dude-drive-adventure.json](./256360-jumpy-skateboard-ninja-the-royale-sword-hero-dude-drive-adventure.json) |
