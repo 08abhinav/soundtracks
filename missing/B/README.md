@@ -5303,6 +5303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biohazard The Episodes | 356241 | [356241-biohazard-the-episodes.json](./356241-biohazard-the-episodes.json) |
 | Biohazard The Operations | 356244 | [356244-biohazard-the-operations.json](./356244-biohazard-the-operations.json) |
 | Biohazard The Stories | 356245 | [356245-biohazard-the-stories.json](./356245-biohazard-the-stories.json) |
+| Biohazard Value Pack | 136741 | [136741-biohazard-value-pack.json](./136741-biohazard-value-pack.json) |
 | Biohazard Village: Cloud Z Version | 251751 | [251751-biohazard-village-cloud-z-version.json](./251751-biohazard-village-cloud-z-version.json) |
 | Biohazard Village: Z Version | 218544 | [218544-biohazard-village-z-version.json](./218544-biohazard-village-z-version.json) |
 | Biohazard Village: Z Version - Winters' Expansion | 241065 | [241065-biohazard-village-z-version-winters-expansion.json](./241065-biohazard-village-z-version-winters-expansion.json) |
@@ -5632,6 +5633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Heroes | 67937 | [67937-bit-heroes.json](./67937-bit-heroes.json) |
 | Bit Heroes Runner | 263569 | [263569-bit-heroes-runner.json](./263569-bit-heroes-runner.json) |
 | Bit Hotel | 227988 | [227988-bit-hotel.json](./227988-bit-hotel.json) |
+| Bit Legend | 137365 | [137365-bit-legend.json](./137365-bit-legend.json) |
 | Bit Lost | 363963 | [363963-bit-lost.json](./363963-bit-lost.json) |
 | Bit Maze | 406319 | [406319-bit-maze.json](./406319-bit-maze.json) |
 | Bit Orchard: Animal Valley - Amazing Edition | 256762 | [256762-bit-orchard-animal-valley-amazing-edition.json](./256762-bit-orchard-animal-valley-amazing-edition.json) |
@@ -8686,6 +8688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 3: Super Deluxe Edition | 116996 | [116996-borderlands-3-super-deluxe-edition.json](./116996-borderlands-3-super-deluxe-edition.json) |
 | Borderlands 4: Bounty Pack 1 - How Rush Saved Mercenary Day | 398014 | [398014-borderlands-4-bounty-pack-1-how-rush-saved-mercenary-day.json](./398014-borderlands-4-bounty-pack-1-how-rush-saved-mercenary-day.json) |
 | Borderlands 4: Story Pack 2 - FL4K and the Last Resort | 417666 | [417666-borderlands-4-story-pack-2-fl4k-and-the-last-resort.json](./417666-borderlands-4-story-pack-2-fl4k-and-the-last-resort.json) |
+| Borderlands Double Deluxe Collection | 136725 | [136725-borderlands-double-deluxe-collection.json](./136725-borderlands-double-deluxe-collection.json) |
 | Borderlands Double Game Add-On Pack | 147224 | [147224-borderlands-double-game-add-on-pack.json](./147224-borderlands-double-game-add-on-pack.json) |
 | Borderlands Legends | 64415 | [64415-borderlands-legends.json](./64415-borderlands-legends.json) |
 | Borderlands Mobile | 397810 | [397810-borderlands-mobile.json](./397810-borderlands-mobile.json) |
@@ -10937,6 +10940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Out! | 206692 | [206692-bug-out.json](./206692-bug-out.json) |
 | Bug Quest | 287641 | [287641-bug-quest.json](./287641-bug-quest.json) |
 | Bug Riders | 277929 | [277929-bug-riders.json](./277929-bug-riders.json) |
+| Bug Simulator | 137352 | [137352-bug-simulator.json](./137352-bug-simulator.json) |
 | Bug Splatt | 104807 | [104807-bug-splatt.json](./104807-bug-splatt.json) |
 | Bug Star | 200938 | [200938-bug-star.json](./200938-bug-star.json) |
 | Bug Too! | 45524 | [45524-bug-too.json](./45524-bug-too.json) |
