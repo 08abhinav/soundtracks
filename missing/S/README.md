@@ -1690,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sbaceball | 197700 | [197700-sbaceball.json](./197700-sbaceball.json) |
 | SBK 2011: Superbike World Championship | 41583 | [41583-sbk-2011-superbike-world-championship.json](./41583-sbk-2011-superbike-world-championship.json) |
 | SBK-08: Superbike World Championship | 264881 | [264881-sbk-08-superbike-world-championship.json](./264881-sbk-08-superbike-world-championship.json) |
+| SBK16 Official Mobile Game | 175667 | [175667-sbk16-official-mobile-game.json](./175667-sbk16-official-mobile-game.json) |
 | Sblobber 64 | 145456 | [145456-sblobber-64.json](./145456-sblobber-64.json) |
 | SBX 5K | 132214 | [132214-sbx-5k.json](./132214-sbx-5k.json) |
 | SC Cat Games Bundle | 331511 | [331511-sc-cat-games-bundle.json](./331511-sc-cat-games-bundle.json) |
@@ -9352,6 +9353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smol Survivors | 307057 | [307057-smol-survivors.json](./307057-smol-survivors.json) |
 | Smol Toad | 390127 | [390127-smol-toad.json](./390127-smol-toad.json) |
 | Smolsies | 127989 | [127989-smolsies.json](./127989-smolsies.json) |
+| Smoop Can't Sleep! | 175847 | [175847-smoop-cant-sleep.json](./175847-smoop-cant-sleep.json) |
 | Smooth Criminal | 91913 | [91913-smooth-criminal.json](./91913-smooth-criminal.json) |
 | Smooth Criminals | 51526 | [51526-smooth-criminals.json](./51526-smooth-criminals.json) |
 | Smooth Mover | 120956 | [120956-smooth-mover.json](./120956-smooth-mover.json) |
@@ -10468,6 +10470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Rogue | 133421 | [133421-solar-rogue.json](./133421-solar-rogue.json) |
 | Solar Sails | 171937 | [171937-solar-sails.json](./171937-solar-sails.json) |
 | Solar Savage | 347891 | [347891-solar-savage.json](./347891-solar-savage.json) |
+| Solar Smash | 175674 | [175674-solar-smash.json](./175674-solar-smash.json) |
 | Solar Striker | 48940 | [48940-solar-striker.json](./48940-solar-striker.json) |
 | Solar Struggle | 17984 | [17984-solar-struggle.json](./17984-solar-struggle.json) |
 | Solar Survivors | 238766 | [238766-solar-survivors.json](./238766-solar-survivors.json) |
@@ -12004,6 +12007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul of Sovereignty: Prelude | 283407 | [283407-soul-of-sovereignty-prelude.json](./283407-soul-of-sovereignty-prelude.json) |
 | Soul of the Beast | 178617 | [178617-soul-of-the-beast.json](./178617-soul-of-the-beast.json) |
 | Soul of the Forest | 310090 | [310090-soul-of-the-forest.json](./310090-soul-of-the-forest.json) |
+| Soul of the Soul | 175671 | [175671-soul-of-the-soul.json](./175671-soul-of-the-soul.json) |
 | Soul of the Ultimate Nation | 51196 | [51196-soul-of-the-ultimate-nation.json](./51196-soul-of-the-ultimate-nation.json) |
 | Soul of War | 230869 | [230869-soul-of-war.json](./230869-soul-of-war.json) |
 | Soul of War: Legions | 263992 | [263992-soul-of-war-legions.json](./263992-soul-of-war-legions.json) |
@@ -12408,6 +12412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Blaze | 127182 | [127182-space-blaze.json](./127182-space-blaze.json) |
 | Space BlocKing | 233431 | [233431-space-blocking.json](./233431-space-blocking.json) |
 | Space BloX | 119042 | [119042-space-blox.json](./119042-space-blox.json) |
+| Space Boat | 175653 | [175653-space-boat.json](./175653-space-boat.json) |
 | Space Bomb | 120417 | [120417-space-bomb.json](./120417-space-bomb.json) |
 | Space Bounce | 178984 | [178984-space-bounce.json](./178984-space-bounce.json) |
 | Space Box Battle Arena | 164968 | [164968-space-box-battle-arena.json](./164968-space-box-battle-arena.json) |
