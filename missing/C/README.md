@@ -611,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calpria | 416686 | [416686-calpria.json](./416686-calpria.json) |
 | CalQ | 61569 | [61569-calq.json](./61569-calq.json) |
 | Caltron 6-in-1 | 81250 | [81250-caltron-6-in-1.json](./81250-caltron-6-in-1.json) |
+| Calturin | 146624 | [146624-calturin.json](./146624-calturin.json) |
 | Calturin and Clone | 148883 | [148883-calturin-and-clone.json](./148883-calturin-and-clone.json) |
 | Calvar: The Darkest Gate | 318008 | [318008-calvar-the-darkest-gate.json](./318008-calvar-the-darkest-gate.json) |
 | Calvin | 94951 | [94951-calvin.json](./94951-calvin.json) |
@@ -8629,6 +8630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confederate Express | 62730 | [62730-confederate-express.json](./62730-confederate-express.json) |
 | Conference of the Shamblers | 271294 | [271294-conference-of-the-shamblers.json](./271294-conference-of-the-shamblers.json) |
 | Confession Box | 417559 | [417559-confession-box.json](./417559-confession-box.json) |
+| Confession Center | 146633 | [146633-confession-center.json](./146633-confession-center.json) |
 | Confession of the Golden Witch | 255386 | [255386-confession-of-the-golden-witch.json](./255386-confession-of-the-golden-witch.json) |
 | Confessions at Candlewood Lake | 174113 | [174113-confessions-at-candlewood-lake.json](./174113-confessions-at-candlewood-lake.json) |
 | Confessions of an NPC | 176232 | [176232-confessions-of-an-npc.json](./176232-confessions-of-an-npc.json) |
@@ -10064,6 +10066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covelink | 384650 | [384650-covelink.json](./384650-covelink.json) |
 | Covemachine | 327296 | [327296-covemachine.json](./327296-covemachine.json) |
 | Covemouth | 341632 | [341632-covemouth.json](./341632-covemouth.json) |
+| Coven | 146649 | [146649-coven.json](./146649-coven.json) |
 | Coven Escape | 315596 | [315596-coven-escape.json](./315596-coven-escape.json) |
 | Coven Escape 2 | 315597 | [315597-coven-escape-2.json](./315597-coven-escape-2.json) |
 | Coven of the Chicken Foot | 381218 | [381218-coven-of-the-chicken-foot.json](./381218-coven-of-the-chicken-foot.json) |
