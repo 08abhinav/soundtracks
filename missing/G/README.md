@@ -4783,6 +4783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goritaire | 393809 | [393809-goritaire.json](./393809-goritaire.json) |
 | Gorky 17 | 7833 | [7833-gorky-17.json](./7833-gorky-17.json) |
 | Gorky Zero: Beyond Honor | 26557 | [26557-gorky-zero-beyond-honor.json](./26557-gorky-zero-beyond-honor.json) |
+| Gormiti: Agguato nella Valle | 137936 | [137936-gormiti-agguato-nella-valle.json](./137936-gormiti-agguato-nella-valle.json) |
 | Gormiti: The Lords of Nature! | 188105 | [188105-gormiti-the-lords-of-nature.json](./188105-gormiti-the-lords-of-nature.json) |
 | Gorn | 41047 | [41047-gorn.json](./41047-gorn.json) |
 | Gorn 2 | 333676 | [333676-gorn-2.json](./333676-gorn-2.json) |
@@ -4906,6 +4907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goya's Inferno | 345601 | [345601-goyas-inferno.json](./345601-goyas-inferno.json) |
 | Goyangi Jeongwon: Merge | 214381 | [214381-goyangi-jeongwon-merge.json](./214381-goyangi-jeongwon-merge.json) |
 | Gozen Yoji no mani-mani | 285423 | [285423-gozen-yoji-no-mani-mani.json](./285423-gozen-yoji-no-mani-mani.json) |
+| GP Challenge | 137890 | [137890-gp-challenge.json](./137890-gp-challenge.json) |
 | GP Club Life Motorsports Team | 315650 | [315650-gp-club-life-motorsports-team.json](./315650-gp-club-life-motorsports-team.json) |
 | GP Fight | 92311 | [92311-gp-fight.json](./92311-gp-fight.json) |
 | GP World | 6108 | [6108-gp-world.json](./6108-gp-world.json) |
@@ -5173,6 +5175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Shooter | 336578 | [336578-grand-shooter.json](./336578-grand-shooter.json) |
 | Grand Slam | 20812 | [20812-grand-slam.json](./20812-grand-slam.json) |
 | Grand Slam Bridge II | 74004 | [74004-grand-slam-bridge-ii.json](./74004-grand-slam-bridge-ii.json) |
+| Grand Slam Rally | 137908 | [137908-grand-slam-rally.json](./137908-grand-slam-rally.json) |
 | Grand Slam Tennis | 4894 | [4894-grand-slam-tennis.json](./4894-grand-slam-tennis.json) |
 | Grand Slam Tennis 2 | 7002 | [7002-grand-slam-tennis-2.json](./7002-grand-slam-tennis-2.json) |
 | Grand Soul Saga | 292629 | [292629-grand-soul-saga.json](./292629-grand-soul-saga.json) |
