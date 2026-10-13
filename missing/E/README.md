@@ -1866,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emberward | 260224 | [260224-emberward.json](./260224-emberward.json) |
 | Emberwing: Lost Legacy - Collector's Edition | 416612 | [416612-emberwing-lost-legacy-collectors-edition.json](./416612-emberwing-lost-legacy-collectors-edition.json) |
 | Emberwood | 251723 | [251723-emberwood.json](./251723-emberwood.json) |
+| Emberzone | 169340 | [169340-emberzone.json](./169340-emberzone.json) |
 | Emblems: Sunless Vow | 294291 | [294291-emblems-sunless-vow.json](./294291-emblems-sunless-vow.json) |
 | Embodiment | 211125 | [211125-embodiment.json](./211125-embodiment.json) |
 | Embr | 117312 | [117312-embr.json](./117312-embr.json) |
@@ -3112,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ero Manager | 286478 | [286478-ero-manager.json](./286478-ero-manager.json) |
 | Ero Mission | 324014 | [324014-ero-mission.json](./324014-ero-mission.json) |
 | Ero Snooker | 167585 | [167585-ero-snooker.json](./167585-ero-snooker.json) |
+| Ero Tennis | 169488 | [169488-ero-tennis.json](./169488-ero-tennis.json) |
 | Ero Zemi: Ecchi ni Yaru-ki ni ABC | 194579 | [194579-ero-zemi-ecchi-ni-yaru-ki-ni-abc.json](./194579-ero-zemi-ecchi-ni-yaru-ki-ni-abc.json) |
 | Eroblast: Passion Edition | 262322 | [262322-eroblast-passion-edition.json](./262322-eroblast-passion-edition.json) |
 | Eroblast: Playful Edition | 259572 | [259572-eroblast-playful-edition.json](./259572-eroblast-playful-edition.json) |
