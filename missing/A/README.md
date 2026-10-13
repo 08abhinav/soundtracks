@@ -3174,6 +3174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim for the Top! Gunbuster Vol. 1 | 57928 | [57928-aim-for-the-top-gunbuster-vol-1.json](./57928-aim-for-the-top-gunbuster-vol-1.json) |
 | Aim for the Top! Gunbuster vol. 2 | 57927 | [57927-aim-for-the-top-gunbuster-vol-2.json](./57927-aim-for-the-top-gunbuster-vol-2.json) |
 | Aim God | 203784 | [203784-aim-god.json](./203784-aim-god.json) |
+| Aim Gods | 133724 | [133724-aim-gods.json](./133724-aim-gods.json) |
 | Aim in Space | 274513 | [274513-aim-in-space.json](./274513-aim-in-space.json) |
 | Aim Lab Mobile | 226768 | [226768-aim-lab-mobile.json](./226768-aim-lab-mobile.json) |
 | Aim Llama | 256191 | [256191-aim-llama.json](./256191-aim-llama.json) |
@@ -6822,6 +6823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anorak City | 308468 | [308468-anorak-city.json](./308468-anorak-city.json) |
 | Anosognosia | 398584 | [398584-anosognosia.json](./398584-anosognosia.json) |
 | Another Adventure | 27776 | [27776-another-adventure.json](./27776-another-adventure.json) |
+| Another Apocalypse | 133742 | [133742-another-apocalypse.json](./133742-another-apocalypse.json) |
 | Another Attack 2: Weissensee | 270686 | [270686-another-attack-2-weissensee.json](./270686-another-attack-2-weissensee.json) |
 | Another Attack: Woudrichem War | 270685 | [270685-another-attack-woudrichem-war.json](./270685-another-attack-woudrichem-war.json) |
 | Another Bar Game | 235780 | [235780-another-bar-game.json](./235780-another-bar-game.json) |
