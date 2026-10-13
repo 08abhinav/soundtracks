@@ -2563,6 +2563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Strike VR | 136464 | [136464-orbital-strike-vr.json](./136464-orbital-strike-vr.json) |
 | Orbital Traffic Controller | 399778 | [399778-orbital-traffic-controller.json](./399778-orbital-traffic-controller.json) |
 | Orbital X | 31797 | [31797-orbital-x.json](./31797-orbital-x.json) |
+| Orbitals | 133119 | [133119-orbitals.json](./133119-orbitals.json) |
 | Orbitals | 381237 | [381237-orbitals.json](./381237-orbitals.json) |
 | Orbiter 2016 | 139258 | [139258-orbiter-2016.json](./139258-orbiter-2016.json) |
 | Orbiterrion | 153359 | [153359-orbiterrion.json](./153359-orbiterrion.json) |
@@ -3485,6 +3486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaws | 196 | [196-outlaws.json](./196-outlaws.json) |
 | Outlaws + A Handful of Missions | 112809 | [112809-outlaws-a-handful-of-missions.json](./112809-outlaws-a-handful-of-missions.json) |
 | Outlaws of the Old West | 115549 | [115549-outlaws-of-the-old-west.json](./115549-outlaws-of-the-old-west.json) |
+| Outlaws: Corwin's Treasure | 133153 | [133153-outlaws-corwins-treasure.json](./133153-outlaws-corwins-treasure.json) |
 | Outlets Rush | 297247 | [297247-outlets-rush.json](./297247-outlets-rush.json) |
 | Outline | 134343 | [134343-outline.json](./134343-outline.json) |
 | Outline Dust | 216962 | [216962-outline-dust.json](./216962-outline-dust.json) |
