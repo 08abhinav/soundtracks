@@ -3497,6 +3497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildagotchi: Virtual Pet | 261344 | [261344-wildagotchi-virtual-pet.json](./261344-wildagotchi-virtual-pet.json) |
 | Wildagotchi: Virtual Pet - Deluxe Edition | 277304 | [277304-wildagotchi-virtual-pet-deluxe-edition.json](./277304-wildagotchi-virtual-pet-deluxe-edition.json) |
 | Wildaria | 322197 | [322197-wildaria.json](./322197-wildaria.json) |
+| Wildborn | 175665 | [175665-wildborn.json](./175665-wildborn.json) |
 | WildBorn | 398589 | [398589-wildborn.json](./398589-wildborn.json) |
 | Wildbound | 347711 | [347711-wildbound.json](./347711-wildbound.json) |
 | Wildcat Snack Attack | 338366 | [338366-wildcat-snack-attack.json](./338366-wildcat-snack-attack.json) |
@@ -5979,6 +5980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WSC Real 08: World Snooker Championship | 5292 | [5292-wsc-real-08-world-snooker-championship.json](./5292-wsc-real-08-world-snooker-championship.json) |
 | Wsg | 176388 | [176388-wsg.json](./176388-wsg.json) |
 | WSOP | 93572 | [93572-wsop.json](./93572-wsop.json) |
+| WST Snooker | 175858 | [175858-wst-snooker.json](./175858-wst-snooker.json) |
 | WSYC Remix | 271992 | [271992-wsyc-remix.json](./271992-wsyc-remix.json) |
 | WTA Tour Tennis | 66701 | [66701-wta-tour-tennis.json](./66701-wta-tour-tennis.json) |
 | WTC: Love's Labour's Lost | 216817 | [216817-wtc-loves-labours-lost.json](./216817-wtc-loves-labours-lost.json) |
