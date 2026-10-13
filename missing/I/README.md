@@ -1223,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Wars Online | 110261 | [110261-idol-wars-online.json](./110261-idol-wars-online.json) |
 | Idol-Mahjong Final Romance 2 | 75471 | [75471-idol-mahjong-final-romance-2.json](./75471-idol-mahjong-final-romance-2.json) |
 | Idola Phantasy Star Saga | 106103 | [106103-idola-phantasy-star-saga.json](./106103-idola-phantasy-star-saga.json) |
+| Idolish7 Twelve Fantasia! | 136760 | [136760-idolish7-twelve-fantasia.json](./136760-idolish7-twelve-fantasia.json) |
 | Idols Galore! | 92700 | [92700-idols-galore.json](./92700-idols-galore.json) |
 | Idols of Ash | 397084 | [397084-idols-of-ash.json](./397084-idols-of-ash.json) |
 | Idols Of Starlight | 357436 | [357436-idols-of-starlight.json](./357436-idols-of-starlight.json) |
@@ -4113,6 +4114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island of 16 Sisters Part 2 | 371866 | [371866-island-of-16-sisters-part-2.json](./371866-island-of-16-sisters-part-2.json) |
 | Island of Aito | 199657 | [199657-island-of-aito.json](./199657-island-of-aito.json) |
 | Island of AIto: Life After Death | 226852 | [226852-island-of-aito-life-after-death.json](./226852-island-of-aito-life-after-death.json) |
+| Island of Death | 137359 | [137359-island-of-death.json](./137359-island-of-death.json) |
 | Island of Despair | 326801 | [326801-island-of-despair.json](./326801-island-of-despair.json) |
 | Island of Enchantment | 296940 | [296940-island-of-enchantment.json](./296940-island-of-enchantment.json) |
 | Island of Girls Dreams | 163205 | [163205-island-of-girls-dreams.json](./163205-island-of-girls-dreams.json) |
@@ -4190,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle of Reveries | 311611 | [311611-isle-of-reveries.json](./311611-isle-of-reveries.json) |
 | Isle of Skye | 105479 | [105479-isle-of-skye.json](./105479-isle-of-skye.json) |
 | Isle of Swaps | 237304 | [237304-isle-of-swaps.json](./237304-isle-of-swaps.json) |
+| Isle of the Crown | 137362 | [137362-isle-of-the-crown.json](./137362-isle-of-the-crown.json) |
 | Isle of Tune Mobile | 101665 | [101665-isle-of-tune-mobile.json](./101665-isle-of-tune-mobile.json) |
 | Isle TD | 109195 | [109195-isle-td.json](./109195-isle-td.json) |
 | Isle Vacation | 401124 | [401124-isle-vacation.json](./401124-isle-vacation.json) |
