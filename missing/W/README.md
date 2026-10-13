@@ -1109,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhead | 396769 | [396769-warhead.json](./396769-warhead.json) |
 | Warhead Circus | 383028 | [383028-warhead-circus.json](./383028-warhead-circus.json) |
 | Warhead Vanguard | 409655 | [409655-warhead-vanguard.json](./409655-warhead-vanguard.json) |
+| Warheads | 144077 | [144077-warheads.json](./144077-warheads.json) |
 | Warheads & Overheads | 410397 | [410397-warheads-and-overheads.json](./410397-warheads-and-overheads.json) |
 | WarHeads SE | 79563 | [79563-warheads-se.json](./79563-warheads-se.json) |
 | Warhedz | 283124 | [283124-warhedz.json](./283124-warhedz.json) |
@@ -3530,6 +3531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Workshop | 157490 | [157490-wild-workshop.json](./157490-wild-workshop.json) |
 | Wild world | 150629 | [150629-wild-world.json](./150629-wild-world.json) |
 | Wild World: Tribe | 99709 | [99709-wild-world-tribe.json](./99709-wild-world-tribe.json) |
+| Wild-9 | 144067 | [144067-wild-9.json](./144067-wild-9.json) |
 | Wild's Edge | 278956 | [278956-wilds-edge.json](./278956-wilds-edge.json) |
 | WildAge | 341460 | [341460-wildage.json](./341460-wildage.json) |
 | Wildagotchi: Virtual Pet | 261344 | [261344-wildagotchi-virtual-pet.json](./261344-wildagotchi-virtual-pet.json) |
