@@ -10051,6 +10051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Couple-Cultivation Saves the World | 324669 | [324669-couple-cultivation-saves-the-world.json](./324669-couple-cultivation-saves-the-world.json) |
 | Couples | 271690 | [271690-couples.json](./271690-couples.json) |
 | Coupling | 357425 | [357425-coupling.json](./357425-coupling.json) |
+| Couplinked | 138509 | [138509-couplinked.json](./138509-couplinked.json) |
 | Courage | 207519 | [207519-courage.json](./207519-courage.json) |
 | Courage | 25768 | [25768-courage.json](./25768-courage.json) |
 | Courage for a Kiss | 113886 | [113886-courage-for-a-kiss.json](./113886-courage-for-a-kiss.json) |
