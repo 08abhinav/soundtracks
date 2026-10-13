@@ -878,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling in Reverse Heardle | 371468 | [371468-falling-in-reverse-heardle.json](./371468-falling-in-reverse-heardle.json) |
 | Falling Into Dreams | 247962 | [247962-falling-into-dreams.json](./247962-falling-into-dreams.json) |
 | Falling Into You | 218165 | [218165-falling-into-you.json](./218165-falling-into-you.json) |
+| Falling is Not the Same Thing as Dying | 135571 | [135571-falling-is-not-the-same-thing-as-dying.json](./135571-falling-is-not-the-same-thing-as-dying.json) |
 | Falling Kwadrats | 179203 | [179203-falling-kwadrats.json](./179203-falling-kwadrats.json) |
 | Falling Light | 391763 | [391763-falling-light.json](./391763-falling-light.json) |
 | Falling Lights: The Crypt – Escape | 315795 | [315795-falling-lights-the-crypt-escape.json](./315795-falling-lights-the-crypt-escape.json) |
@@ -4048,6 +4049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefighters Simulator 2026 | 393626 | [393626-firefighters-simulator-2026.json](./393626-firefighters-simulator-2026.json) |
 | Firefighters Together | 331941 | [331941-firefighters-together.json](./331941-firefighters-together.json) |
 | Firefighters: Airport Fire Department | 71591 | [71591-firefighters-airport-fire-department.json](./71591-firefighters-airport-fire-department.json) |
+| Firefighters: Airport Heroes | 135581 | [135581-firefighters-airport-heroes.json](./135581-firefighters-airport-heroes.json) |
 | Firefighters: Plant Fire Department | 187762 | [187762-firefighters-plant-fire-department.json](./187762-firefighters-plant-fire-department.json) |
 | Firefighters: The Simulation | 32042 | [32042-firefighters-the-simulation.json](./32042-firefighters-the-simulation.json) |
 | Firefighters: The Simulation - Platinum Edition | 146129 | [146129-firefighters-the-simulation-platinum-edition.json](./146129-firefighters-the-simulation-platinum-edition.json) |
@@ -5620,6 +5622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluxgates | 417364 | [417364-fluxgates.json](./417364-fluxgates.json) |
 | Fluxion | 243568 | [243568-fluxion.json](./243568-fluxion.json) |
 | Fluxly | 106484 | [106484-fluxly.json](./106484-fluxly.json) |
+| Fluxteria | 135587 | [135587-fluxteria.json](./135587-fluxteria.json) |
 | FLW Professional Bass Tournament 2000 | 74028 | [74028-flw-professional-bass-tournament-2000.json](./74028-flw-professional-bass-tournament-2000.json) |
 | Fly & Poop | 200182 | [200182-fly-and-poop.json](./200182-fly-and-poop.json) |
 | Fly a Kite | 365070 | [365070-fly-a-kite.json](./365070-fly-a-kite.json) |
