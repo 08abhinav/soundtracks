@@ -4907,6 +4907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Null Vector | 55710 | [55710-null-vector.json](./55710-null-vector.json) |
 | Null.Process | 358844 | [358844-null-process.json](./358844-null-process.json) |
 | Nullis | 391314 | [391314-nullis.json](./391314-nullis.json) |
+| Nullmaze | 158415 | [158415-nullmaze.json](./158415-nullmaze.json) |
 | Nullpoint Crisis | 362744 | [362744-nullpoint-crisis.json](./362744-nullpoint-crisis.json) |
 | Nullptr | 158234 | [158234-nullptr.json](./158234-nullptr.json) |
 | Nüllptr | 181675 | [181675-nullptr.json](./181675-nullptr.json) |
