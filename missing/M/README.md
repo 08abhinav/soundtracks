@@ -6676,6 +6676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mezzo Piano: Oshare & Lesson | 327597 | [327597-mezzo-piano-oshare-and-lesson.json](./327597-mezzo-piano-oshare-and-lesson.json) |
 | MF-01 Aerostrike | 239701 | [239701-mf-01-aerostrike.json](./239701-mf-01-aerostrike.json) |
 | MFC: Midnight Fight Club | 302769 | [302769-mfc-midnight-fight-club.json](./302769-mfc-midnight-fight-club.json) |
+| MFGG 20th Anniversary Time Capsule | 165110 | [165110-mfgg-20th-anniversary-time-capsule.json](./165110-mfgg-20th-anniversary-time-capsule.json) |
 | MFGGK | 323966 | [323966-mfggk.json](./323966-mfggk.json) |
 | MFGGK2 | 323926 | [323926-mfggk2.json](./323926-mfggk2.json) |
 | MFTK: Survivors | 408193 | [408193-mftk-survivors.json](./408193-mftk-survivors.json) |
@@ -12590,6 +12591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murphy's Minerals | 330157 | [330157-murphys-minerals.json](./330157-murphys-minerals.json) |
 | Murphy's Street | 137998 | [137998-murphys-street.json](./137998-murphys-street.json) |
 | Murtop | 232814 | [232814-murtop.json](./232814-murtop.json) |
+| Murus | 165123 | [165123-murus.json](./165123-murus.json) |
 | Musa | 298186 | [298186-musa.json](./298186-musa.json) |
 | Musaic Box | 15992 | [15992-musaic-box.json](./15992-musaic-box.json) |
 | Musasabi | 122375 | [122375-musasabi.json](./122375-musasabi.json) |
