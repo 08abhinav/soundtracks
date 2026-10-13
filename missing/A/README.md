@@ -6080,6 +6080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angra-I | 215853 | [215853-angra-i.json](./215853-angra-i.json) |
 | Angrbotha Mountains | 239668 | [239668-angrbotha-mountains.json](./239668-angrbotha-mountains.json) |
 | Angriest Whopper Game | 237940 | [237940-angriest-whopper-game.json](./237940-angriest-whopper-game.json) |
+| Angry Angry Shark | 161619 | [161619-angry-angry-shark.json](./161619-angry-angry-shark.json) |
 | Angry Angus | 224540 | [224540-angry-angus.json](./224540-angry-angus.json) |
 | Angry Arrows | 34755 | [34755-angry-arrows.json](./34755-angry-arrows.json) |
 | Angry Ball VR | 112961 | [112961-angry-ball-vr.json](./112961-angry-ball-vr.json) |
@@ -7426,6 +7427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appli Archives: Nippon Ichi Software Duologue | 56416 | [56416-appli-archives-nippon-ichi-software-duologue.json](./56416-appli-archives-nippon-ichi-software-duologue.json) |
 | Appointment with Death | 316831 | [316831-appointment-with-death.json](./316831-appointment-with-death.json) |
 | Appoooh | 39845 | [39845-appoooh.json](./39845-appoooh.json) |
+| Apprehend: Girlfriend | 161580 | [161580-apprehend-girlfriend.json](./161580-apprehend-girlfriend.json) |
 | Apprehension Arizona | 308452 | [308452-apprehension-arizona.json](./308452-apprehension-arizona.json) |
 | Apprentice Arriving | 167599 | [167599-apprentice-arriving.json](./167599-apprentice-arriving.json) |
 | Apprentice Knight-Iona | 132667 | [132667-apprentice-knight-iona.json](./132667-apprentice-knight-iona.json) |
@@ -9573,6 +9575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asphyxiation | 368153 | [368153-asphyxiation.json](./368153-asphyxiation.json) |
 | Aspic: Majaou no Noroi | 41327 | [41327-aspic-majaou-no-noroi.json](./41327-aspic-majaou-no-noroi.json) |
 | Aspiel: Edge of Chaos | 334502 | [334502-aspiel-edge-of-chaos.json](./334502-aspiel-edge-of-chaos.json) |
+| Aspiring Light | 161583 | [161583-aspiring-light.json](./161583-aspiring-light.json) |
 | ASRECorp | 32176 | [32176-asrecorp.json](./32176-asrecorp.json) |
 | Ass Sniffing Simulator | 398496 | [398496-ass-sniffing-simulator.json](./398496-ass-sniffing-simulator.json) |
 | Ass: Press F! | 379705 | [379705-ass-press-f.json](./379705-ass-press-f.json) |
