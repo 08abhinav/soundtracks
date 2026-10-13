@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Bump 2 | 313726 | [313726-baby-bump-2.json](./313726-baby-bump-2.json) |
 | Baby Bump: Book 1 | 313725 | [313725-baby-bump-book-1.json](./313725-baby-bump-book-1.json) |
 | Baby Carbonara | 404968 | [404968-baby-carbonara.json](./404968-baby-carbonara.json) |
+| Baby Coyote | 157912 | [157912-baby-coyote.json](./157912-baby-coyote.json) |
 | Baby Dino | 283970 | [283970-baby-dino.json](./283970-baby-dino.json) |
 | Baby Eater | 26127 | [26127-baby-eater.json](./26127-baby-eater.json) |
 | Baby Escape | 400220 | [400220-baby-escape.json](./400220-baby-escape.json) |
@@ -3632,6 +3633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Girls on Campus: Memories of Youth | 420678 | [420678-beautiful-girls-on-campus-memories-of-youth.json](./420678-beautiful-girls-on-campus-memories-of-youth.json) |
 | Beautiful Indie Worlds Bundle | 246112 | [246112-beautiful-indie-worlds-bundle.json](./246112-beautiful-indie-worlds-bundle.json) |
 | Beautiful Japanese Scenery: Animated Jigsaws | 31695 | [31695-beautiful-japanese-scenery-animated-jigsaws.json](./31695-beautiful-japanese-scenery-animated-jigsaws.json) |
+| Beautiful Masseuse | 157939 | [157939-beautiful-masseuse.json](./157939-beautiful-masseuse.json) |
 | Beautiful Mystic Defenders | 159748 | [159748-beautiful-mystic-defenders.json](./159748-beautiful-mystic-defenders.json) |
 | Beautiful Mystic Survivors | 200465 | [200465-beautiful-mystic-survivors.json](./200465-beautiful-mystic-survivors.json) |
 | Beautiful Sakura: Fashion Club | 327971 | [327971-beautiful-sakura-fashion-club.json](./327971-beautiful-sakura-fashion-club.json) |
