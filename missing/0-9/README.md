@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Classic Book Collection | 47939 | [47939-100-classic-book-collection.json](./47939-100-classic-book-collection.json) |
 | 100 Cyprus Cats | 334121 | [334121-100-cyprus-cats.json](./334121-100-cyprus-cats.json) |
 | 100 Day Term | 359555 | [359555-100-day-term.json](./359555-100-day-term.json) |
+| 100 Days | 164599 | [164599-100-days.json](./164599-100-days.json) |
 | 100 Days | 231985 | [231985-100-days.json](./231985-100-days.json) |
 | 100 Demon Cats | 347752 | [347752-100-demon-cats.json](./347752-100-demon-cats.json) |
 | 100 Dino Cats | 284395 | [284395-100-dino-cats.json](./284395-100-dino-cats.json) |
@@ -1838,6 +1839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 69 | 334791 | [334791-69.json](./334791-69.json) |
 | 69 Andariel Hot | 208630 | [208630-69-andariel-hot.json](./208630-69-andariel-hot.json) |
 | 69 Berta Hot | 211390 | [211390-69-berta-hot.json](./211390-69-berta-hot.json) |
+| 69 Cindy Love | 164593 | [164593-69-cindy-love.json](./164593-69-cindy-love.json) |
 | 69 Ember Hot | 222961 | [222961-69-ember-hot.json](./222961-69-ember-hot.json) |
 | 69 Hitomi Love | 173837 | [173837-69-hitomi-love.json](./173837-69-hitomi-love.json) |
 | 69 Lily Hot | 190929 | [190929-69-lily-hot.json](./190929-69-lily-hot.json) |
