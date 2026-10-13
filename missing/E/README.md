@@ -409,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eat the Fish 2016 | 90680 | [90680-eat-the-fish-2016.json](./90680-eat-the-fish-2016.json) |
 | Eat the Rich | 176802 | [176802-eat-the-rich.json](./176802-eat-the-rich.json) |
 | Eat the Rich | 285024 | [285024-eat-the-rich.json](./285024-eat-the-rich.json) |
+| Eat the Wounded | 161590 | [161590-eat-the-wounded.json](./161590-eat-the-wounded.json) |
 | Eat This | 299468 | [299468-eat-this.json](./299468-eat-this.json) |
 | Eat Your Fucking Soup | 239774 | [239774-eat-your-fucking-soup.json](./239774-eat-your-fucking-soup.json) |
 | Eat Your Vegetables! | 265754 | [265754-eat-your-vegetables.json](./265754-eat-your-vegetables.json) |
@@ -845,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edtris 2600 | 78031 | [78031-edtris-2600.json](./78031-edtris-2600.json) |
 | Edu Simulator | 408043 | [408043-edu-simulator.json](./408043-edu-simulator.json) |
 | Educating Adventures of Girl and Rabbit | 419907 | [419907-educating-adventures-of-girl-and-rabbit.json](./419907-educating-adventures-of-girl-and-rabbit.json) |
+| Education | 161586 | [161586-education.json](./161586-education.json) |
 | Education Series: General Knowledge Builder | 80603 | [80603-education-series-general-knowledge-builder.json](./80603-education-series-general-knowledge-builder.json) |
 | Educational and Learning Bundle: 5 in 1 | 192409 | [192409-educational-and-learning-bundle-5-in-1.json](./192409-educational-and-learning-bundle-5-in-1.json) |
 | Educational Games for Kids | 147919 | [147919-educational-games-for-kids.json](./147919-educational-games-for-kids.json) |
@@ -2548,6 +2550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energy Hook | 20182 | [20182-energy-hook.json](./20182-energy-hook.json) |
 | Energy Hunter Boy | 119709 | [119709-energy-hunter-boy.json](./119709-energy-hunter-boy.json) |
 | Energy Invasion | 31792 | [31792-energy-invasion.json](./31792-energy-invasion.json) |
+| Energy Island Corp. | 161581 | [161581-energy-island-corp.json](./161581-energy-island-corp.json) |
 | Energy Lab | 313206 | [313206-energy-lab.json](./313206-energy-lab.json) |
 | Energy Manager | 350530 | [350530-energy-manager.json](./350530-energy-manager.json) |
 | Energy Shock | 111624 | [111624-energy-shock.json](./111624-energy-shock.json) |
