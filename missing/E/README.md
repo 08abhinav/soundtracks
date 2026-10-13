@@ -1058,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egogia | 394794 | [394794-egogia.json](./394794-egogia.json) |
 | Egregore | 139230 | [139230-egregore.json](./139230-egregore.json) |
 | Egregore | 310046 | [310046-egregore.json](./310046-egregore.json) |
+| Egress - The Test of STS-417 | 168393 | [168393-egress-the-test-of-sts-417.json](./168393-egress-the-test-of-sts-417.json) |
 | Egress Protocol | 327940 | [327940-egress-protocol.json](./327940-egress-protocol.json) |
 | Egress Protocol | 375856 | [375856-egress-protocol.json](./375856-egress-protocol.json) |
 | Egret II Mini: Arcade Memories Vol. I | 229835 | [229835-egret-ii-mini-arcade-memories-vol-i.json](./229835-egret-ii-mini-arcade-memories-vol-i.json) |
@@ -1890,6 +1891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerald City Confidential | 16072 | [16072-emerald-city-confidential.json](./16072-emerald-city-confidential.json) |
 | Emerald Dragon | 15834 | [15834-emerald-dragon.json](./15834-emerald-dragon.json) |
 | Emerald Dreams: Sanity - Platformer Quest | 349372 | [349372-emerald-dreams-sanity-platformer-quest.json](./349372-emerald-dreams-sanity-platformer-quest.json) |
+| Emerald Eyes | 168394 | [168394-emerald-eyes.json](./168394-emerald-eyes.json) |
 | Emerald Gallery: 2-Score | 384160 | [384160-emerald-gallery-2-score.json](./384160-emerald-gallery-2-score.json) |
 | Emerald Glazed Bundle | 82383 | [82383-emerald-glazed-bundle.json](./82383-emerald-glazed-bundle.json) |
 | Emerald Hunter | 330961 | [330961-emerald-hunter.json](./330961-emerald-hunter.json) |
