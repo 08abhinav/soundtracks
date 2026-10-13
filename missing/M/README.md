@@ -5434,9 +5434,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meiga to Tanoshimu Otona no Machigai Sagashi | 222476 | [222476-meiga-to-tanoshimu-otona-no-machigai-sagashi.json](./222476-meiga-to-tanoshimu-otona-no-machigai-sagashi.json) |
 | Meiji Ishin | 48781 | [48781-meiji-ishin.json](./48781-meiji-ishin.json) |
 | Meiji Katsugeki Haikara Ryuuseigumi: Seibai Shimaseu, Yonaoshi Kagyou | 136827 | [136827-meiji-katsugeki-haikara-ryuuseigumi-seibai-shimaseu-yonaoshi-kagyou.json](./136827-meiji-katsugeki-haikara-ryuuseigumi-seibai-shimaseu-yonaoshi-kagyou.json) |
+| Meiji Seifu no Yuuga na Hitotoki | 153736 | [153736-meiji-seifu-no-yuuga-na-hitotoki.json](./153736-meiji-seifu-no-yuuga-na-hitotoki.json) |
 | Meiji Tokyo Renka | 136445 | [136445-meiji-tokyo-renka.json](./136445-meiji-tokyo-renka.json) |
 | Meiji Tokyo Renka Full Moon | 136447 | [136447-meiji-tokyo-renka-full-moon.json](./136447-meiji-tokyo-renka-full-moon.json) |
 | Meiji Tokyo Renka Twilight Kiss | 136446 | [136446-meiji-tokyo-renka-twilight-kiss.json](./136446-meiji-tokyo-renka-twilight-kiss.json) |
+| Meiji Tokyo Renka: Haikara Date | 153732 | [153732-meiji-tokyo-renka-haikara-date.json](./153732-meiji-tokyo-renka-haikara-date.json) |
 | Meijin Tanigawa Kouji Tsuzumi Shogi | 385794 | [385794-meijin-tanigawa-kouji-tsuzumi-shogi.json](./385794-meijin-tanigawa-kouji-tsuzumi-shogi.json) |
 | Meikyu Wakusei des Paraiso | 182391 | [182391-meikyu-wakusei-des-paraiso.json](./182391-meikyu-wakusei-des-paraiso.json) |
 | Meikyuu Cross Blood: Infinity - Ultimate | 248796 | [248796-meikyuu-cross-blood-infinity-ultimate.json](./248796-meikyuu-cross-blood-infinity-ultimate.json) |
@@ -12299,6 +12301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MudRunner | 54789 | [54789-mudrunner.json](./54789-mudrunner.json) |
 | Mue | 257262 | [257262-mue.json](./257262-mue.json) |
 | Mueitou: Shinsou-hen | 261203 | [261203-mueitou-shinsou-hen.json](./261203-mueitou-shinsou-hen.json) |
+| Muffin Fight | 153747 | [153747-muffin-fight.json](./153747-muffin-fight.json) |
 | Muffin Knight | 9268 | [9268-muffin-knight.json](./9268-muffin-knight.json) |
 | Muffins on Stream | 239307 | [239307-muffins-on-stream.json](./239307-muffins-on-stream.json) |
 | Muffled Warfare | 96550 | [96550-muffled-warfare.json](./96550-muffled-warfare.json) |
