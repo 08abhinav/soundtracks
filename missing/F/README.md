@@ -3288,7 +3288,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Tactics S | 63312 | [63312-final-fantasy-tactics-s.json](./63312-final-fantasy-tactics-s.json) |
 | Final Fantasy Tactics: The Ivalice Chronicles | 347121 | [347121-final-fantasy-tactics-the-ivalice-chronicles.json](./347121-final-fantasy-tactics-the-ivalice-chronicles.json) |
 | Final Fantasy Tactics: The War of the Lions | 394 | [394-final-fantasy-tactics-the-war-of-the-lions.json](./394-final-fantasy-tactics-the-war-of-the-lions.json) |
-| Final Fantasy Type-0 HD | 7399 | [7399-final-fantasy-type-0-hd.json](./7399-final-fantasy-type-0-hd.json) |
 | Final Fantasy Type-0 HD: Limited Edition | 186630 | [186630-final-fantasy-type-0-hd-limited-edition.json](./186630-final-fantasy-type-0-hd-limited-edition.json) |
 | Final Fantasy V | 158984 | [158984-final-fantasy-v.json](./158984-final-fantasy-v.json) |
 | Final Fantasy V | 288349 | [288349-final-fantasy-v.json](./288349-final-fantasy-v.json) |
