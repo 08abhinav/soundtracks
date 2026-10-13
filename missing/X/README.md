@@ -418,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xena: Warrior Princess - Death in Chains | 205822 | [205822-xena-warrior-princess-death-in-chains.json](./205822-xena-warrior-princess-death-in-chains.json) |
 | Xena: Warrior Princess - Girls Just Wanna Have Fun | 205823 | [205823-xena-warrior-princess-girls-just-wanna-have-fun.json](./205823-xena-warrior-princess-girls-just-wanna-have-fun.json) |
 | Xena: Warrior Princess - The Talisman of Fate | 3647 | [3647-xena-warrior-princess-the-talisman-of-fate.json](./3647-xena-warrior-princess-the-talisman-of-fate.json) |
+| Xendless | 164069 | [164069-xendless.json](./164069-xendless.json) |
 | Xenia | 53098 | [53098-xenia.json](./53098-xenia.json) |
 | Xenia is Online | 403680 | [403680-xenia-is-online.json](./403680-xenia-is-online.json) |
 | Xenia's Ark | 110535 | [110535-xenias-ark.json](./110535-xenias-ark.json) |
@@ -556,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xiàngsù Nányǒu Yǔyīn: Wánzhěng Bǎn | 161382 | [161382-xiangsu-nanyou-yuyin-wanzheng-ban.json](./161382-xiangsu-nanyou-yuyin-wanzheng-ban.json) |
 | Xiàngzhe Xīngchén yǔ Shēnyuān | 269475 | [269475-xiangzhe-xingchen-yu-shenyuan.json](./269475-xiangzhe-xingchen-yu-shenyuan.json) |
 | Xiānjiànjué Wǎngluòbǎn | 161328 | [161328-xianjianjue-wangluoban.json](./161328-xianjianjue-wangluoban.json) |
+| Xiānlù Zhìyì | 164060 | [164060-xianlu-zhiyi.json](./164060-xianlu-zhiyi.json) |
 | Xiānxiá Díchén Lù | 316674 | [316674-xianxia-dichen-lu.json](./316674-xianxia-dichen-lu.json) |
 | Xiānyù | 113647 | [113647-xianyu.json](./113647-xianyu.json) |
 | Xiānzōng Lù | 288437 | [288437-xianzong-lu.json](./288437-xianzong-lu.json) |
