@@ -6477,6 +6477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grunnd | 167915 | [167915-grunnd.json](./167915-grunnd.json) |
 | Grunt1914 | 117398 | [117398-grunt1914.json](./117398-grunt1914.json) |
 | Gryphon Knight Epic | 19949 | [19949-gryphon-knight-epic.json](./19949-gryphon-knight-epic.json) |
+| Gryphon Knight Epic: Definitive Edition | 147738 | [147738-gryphon-knight-epic-definitive-edition.json](./147738-gryphon-knight-epic-definitive-edition.json) |
 | GSIII: Combat Flight Simulator - Heroes of the MIG Alley | 97914 | [97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json](./97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json) |
 | GSPS The Game | 360113 | [360113-gsps-the-game.json](./360113-gsps-the-game.json) |
 | Gst Wars | 360711 | [360711-gst-wars.json](./360711-gst-wars.json) |
