@@ -4832,6 +4832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapey Heads | 241989 | [241989-shapey-heads.json](./241989-shapey-heads.json) |
 | Shapez 2: Factory | 225512 | [225512-shapez-2-factory.json](./225512-shapez-2-factory.json) |
 | Shapez 2: Supporter Edition | 314519 | [314519-shapez-2-supporter-edition.json](./314519-shapez-2-supporter-edition.json) |
+| shapez.io: Puzzle DLC | 163537 | [163537-shapez-io-puzzle-dlc.json](./163537-shapez-io-puzzle-dlc.json) |
 | Shapik: The Quest | 211742 | [211742-shapik-the-quest.json](./211742-shapik-the-quest.json) |
 | Shapo | 84898 | [84898-shapo.json](./84898-shapo.json) |
 | Shapy Road | 244805 | [244805-shapy-road.json](./244805-shapy-road.json) |
@@ -17693,6 +17694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stoneville Manor | 366262 | [366262-stoneville-manor.json](./366262-stoneville-manor.json) |
 | Stonks-9800: Stock Market Simulator | 167271 | [167271-stonks-9800-stock-market-simulator.json](./167271-stonks-9800-stock-market-simulator.json) |
 | Stony Road | 103352 | [103352-stony-road.json](./103352-stony-road.json) |
+| Stoopid Puzzle Game | 163528 | [163528-stoopid-puzzle-game.json](./163528-stoopid-puzzle-game.json) |
 | Stop | 135700 | [135700-stop.json](./135700-stop.json) |
 | Stop and Go | 93567 | [93567-stop-and-go.json](./93567-stop-and-go.json) |
 | Stop and Go! HD | 90806 | [90806-stop-and-go-hd.json](./90806-stop-and-go-hd.json) |
@@ -21245,6 +21247,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Puzzle Cross | 236253 | [236253-super-puzzle-cross.json](./236253-super-puzzle-cross.json) |
 | Super Puzzle Fighter II Turbo | 20803 | [20803-super-puzzle-fighter-ii-turbo.json](./20803-super-puzzle-fighter-ii-turbo.json) |
 | Super Puzzle Fighter II Turbo HD Remix | 23072 | [23072-super-puzzle-fighter-ii-turbo-hd-remix.json](./23072-super-puzzle-fighter-ii-turbo-hd-remix.json) |
+| Super Puzzle Galaxy | 163565 | [163565-super-puzzle-galaxy.json](./163565-super-puzzle-galaxy.json) |
+| Super Puzzle Galaxy - Boost Ball DLC Pack | 163566 | [163566-super-puzzle-galaxy-boost-ball-dlc-pack.json](./163566-super-puzzle-galaxy-boost-ball-dlc-pack.json) |
+| Super Puzzle Galaxy: Warp Ball DLC Pack | 163567 | [163567-super-puzzle-galaxy-warp-ball-dlc-pack.json](./163567-super-puzzle-galaxy-warp-ball-dlc-pack.json) |
 | Super Puzzle Pack | 139238 | [139238-super-puzzle-pack.json](./139238-super-puzzle-pack.json) |
 | Super Puzzle Platformer | 223665 | [223665-super-puzzle-platformer.json](./223665-super-puzzle-platformer.json) |
 | Super Puzzles Dream: Xmas | 147436 | [147436-super-puzzles-dream-xmas.json](./147436-super-puzzles-dream-xmas.json) |
