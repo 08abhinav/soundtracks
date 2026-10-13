@@ -3932,6 +3932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Style: Pixel Art Jigsaw Puzzles | 239063 | [239063-retro-style-pixel-art-jigsaw-puzzles.json](./239063-retro-style-pixel-art-jigsaw-puzzles.json) |
 | Retro Synthesis | 109715 | [109715-retro-synthesis.json](./109715-retro-synthesis.json) |
 | Retro Tanks | 130960 | [130960-retro-tanks.json](./130960-retro-tanks.json) |
+| Retro Three Kingdoms | 173202 | [173202-retro-three-kingdoms.json](./173202-retro-three-kingdoms.json) |
 | Retro Three Kingdoms: Special edition | 195251 | [195251-retro-three-kingdoms-special-edition.json](./195251-retro-three-kingdoms-special-edition.json) |
 | Retro TV Game Collection | 196144 | [196144-retro-tv-game-collection.json](./196144-retro-tv-game-collection.json) |
 | Retro Vaders: Reloaded - Classified Projects | 171629 | [171629-retro-vaders-reloaded-classified-projects.json](./171629-retro-vaders-reloaded-classified-projects.json) |
@@ -4102,6 +4103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revector | 46516 | [46516-revector.json](./46516-revector.json) |
 | Reveil | 90409 | [90409-reveil.json](./90409-reveil.json) |
 | Reveil: Funhouse Edition | 290112 | [290112-reveil-funhouse-edition.json](./290112-reveil-funhouse-edition.json) |
+| Revel | 173010 | [173010-revel.json](./173010-revel.json) |
 | Revelation | 263510 | [263510-revelation.json](./263510-revelation.json) |
 | Revelation M | 280873 | [280873-revelation-m.json](./280873-revelation-m.json) |
 | Revelation of Decay | 301606 | [301606-revelation-of-decay.json](./301606-revelation-of-decay.json) |
