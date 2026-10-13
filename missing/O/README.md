@@ -523,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Mice and Sand: Revised | 78059 | [78059-of-mice-and-sand-revised.json](./78059-of-mice-and-sand-revised.json) |
 | Of Mist and Shadows | 133196 | [133196-of-mist-and-shadows.json](./133196-of-mist-and-shadows.json) |
 | Of Moons and Mania | 256320 | [256320-of-moons-and-mania.json](./256320-of-moons-and-mania.json) |
+| Of Pawns & Kings | 164055 | [164055-of-pawns-and-kings.json](./164055-of-pawns-and-kings.json) |
 | Of Piers & Bays | 397903 | [397903-of-piers-and-bays.json](./397903-of-piers-and-bays.json) |
 | Of Pith and Pumpkins | 185415 | [185415-of-pith-and-pumpkins.json](./185415-of-pith-and-pumpkins.json) |
 | Of Potions and Spells | 312820 | [312820-of-potions-and-spells.json](./312820-of-potions-and-spells.json) |
@@ -1329,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Mount Ségou | 296098 | [296098-on-mount-segou.json](./296098-on-mount-segou.json) |
 | On My Own So-Called Cleverness... | 143629 | [143629-on-my-own-so-called-cleverness.json](./143629-on-my-own-so-called-cleverness.json) |
 | On My Own: A Hot Isekai Adventure | 211774 | [211774-on-my-own-a-hot-isekai-adventure.json](./211774-on-my-own-a-hot-isekai-adventure.json) |
+| On My Own: New Frontier | 164049 | [164049-on-my-own-new-frontier.json](./164049-on-my-own-new-frontier.json) |
 | On My Way Home | 324937 | [324937-on-my-way-home.json](./324937-on-my-way-home.json) |
 | On My Way Out | 365896 | [365896-on-my-way-out.json](./365896-on-my-way-out.json) |
 | On N Off | 246356 | [246356-on-n-off.json](./246356-on-n-off.json) |
