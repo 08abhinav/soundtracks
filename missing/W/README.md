@@ -5489,7 +5489,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: Forever | 417650 | [417650-world-of-warcraft-forever.json](./417650-world-of-warcraft-forever.json) |
 | World of Warcraft: Legion - Collector's Edition | 136338 | [136338-world-of-warcraft-legion-collectors-edition.json](./136338-world-of-warcraft-legion-collectors-edition.json) |
 | World of Warcraft: Midnight - Curse of Ula'tek | 411703 | [411703-world-of-warcraft-midnight-curse-of-ulatek.json](./411703-world-of-warcraft-midnight-curse-of-ulatek.json) |
-| World of Warcraft: Mists of Pandaria | 1332 | [1332-world-of-warcraft-mists-of-pandaria.json](./1332-world-of-warcraft-mists-of-pandaria.json) |
 | World of Warcraft: Mists of Pandaria - Collector's Edition | 136348 | [136348-world-of-warcraft-mists-of-pandaria-collectors-edition.json](./136348-world-of-warcraft-mists-of-pandaria-collectors-edition.json) |
 | World of Warcraft: Mists of Pandaria Classic | 322151 | [322151-world-of-warcraft-mists-of-pandaria-classic.json](./322151-world-of-warcraft-mists-of-pandaria-classic.json) |
 | World of Warcraft: Shadowlands - Chains of Domination | 363919 | [363919-world-of-warcraft-shadowlands-chains-of-domination.json](./363919-world-of-warcraft-shadowlands-chains-of-domination.json) |
