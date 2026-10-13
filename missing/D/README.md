@@ -2431,6 +2431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Room | 301998 | [301998-dead-room.json](./301998-dead-room.json) |
 | Dead Rose | 404237 | [404237-dead-rose.json](./404237-dead-rose.json) |
 | Dead Route | 87095 | [87095-dead-route.json](./87095-dead-route.json) |
+| Dead Run | 136728 | [136728-dead-run.json](./136728-dead-run.json) |
 | Dead Rush | 327277 | [327277-dead-rush.json](./327277-dead-rush.json) |
 | Dead Sale | 339369 | [339369-dead-sale.json](./339369-dead-sale.json) |
 | Dead Scrap | 303466 | [303466-dead-scrap.json](./303466-dead-scrap.json) |
@@ -2836,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death End Re;Quest 2 | 120302 | [120302-death-end-re-quest-2.json](./120302-death-end-re-quest-2.json) |
 | Death end re;Quest 2 - Ultimate Weapon Set | 224513 | [224513-death-end-re-quest-2-ultimate-weapon-set.json](./224513-death-end-re-quest-2-ultimate-weapon-set.json) |
 | Death End Re;Quest 2: Complete Deluxe Edition | 186871 | [186871-death-end-re-quest-2-complete-deluxe-edition.json](./186871-death-end-re-quest-2-complete-deluxe-edition.json) |
+| Death End Re;Quest 2: Death End Box | 136721 | [136721-death-end-re-quest-2-death-end-box.json](./136721-death-end-re-quest-2-death-end-box.json) |
 | Death End Re;Quest 2: Limited Edition | 166236 | [166236-death-end-re-quest-2-limited-edition.json](./166236-death-end-re-quest-2-limited-edition.json) |
 | Death End Re;Quest: Dungeon Re;Quest Pack | 223547 | [223547-death-end-re-quest-dungeon-re-quest-pack.json](./223547-death-end-re-quest-dungeon-re-quest-pack.json) |
 | Death Escape | 148495 | [148495-death-escape.json](./148495-death-escape.json) |
@@ -9737,6 +9739,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest X Offline: Deluxe Edition | 174127 | [174127-dragon-quest-x-offline-deluxe-edition.json](./174127-dragon-quest-x-offline-deluxe-edition.json) |
 | Dragon Quest X: 5,000-Nen no Tabiji Harukanaru Kyuuri he Online | 136818 | [136818-dragon-quest-x-5-000-nen-no-tabiji-harukanaru-kyuuri-he-online.json](./136818-dragon-quest-x-5-000-nen-no-tabiji-harukanaru-kyuuri-he-online.json) |
 | Dragon Quest X: All In One Package | 44101 | [44101-dragon-quest-x-all-in-one-package.json](./44101-dragon-quest-x-all-in-one-package.json) |
+| Dragon Quest X: All In One Package - Versions 1-4 | 136719 | [136719-dragon-quest-x-all-in-one-package-versions-1-4.json](./136719-dragon-quest-x-all-in-one-package-versions-1-4.json) |
+| Dragon Quest X: All In One Package - Versions 1-5 | 136742 | [136742-dragon-quest-x-all-in-one-package-versions-1-5.json](./136742-dragon-quest-x-all-in-one-package-versions-1-5.json) |
 | Dragon Quest X: All In One Package - Versions 1-6 | 222408 | [222408-dragon-quest-x-all-in-one-package-versions-1-6.json](./222408-dragon-quest-x-all-in-one-package-versions-1-6.json) |
 | Dragon Quest X: Ibara no Miko to Horobi no Kami Online | 136835 | [136835-dragon-quest-x-ibara-no-miko-to-horobi-no-kami-online.json](./136835-dragon-quest-x-ibara-no-miko-to-horobi-no-kami-online.json) |
 | Dragon Quest X: Jikuu no Mayoigo-tachi Online | 374305 | [374305-dragon-quest-x-jikuu-no-mayoigo-tachi-online.json](./374305-dragon-quest-x-jikuu-no-mayoigo-tachi-online.json) |
@@ -12436,6 +12440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamic Chord feat. Liar-S: V Edition | 223077 | [223077-dynamic-chord-feat-liar-s-v-edition.json](./223077-dynamic-chord-feat-liar-s-v-edition.json) |
 | Dynamic Chord feat. Rêve Parfait | 140304 | [140304-dynamic-chord-feat-reve-parfait.json](./140304-dynamic-chord-feat-reve-parfait.json) |
 | Dynamic Chord feat. Rēve Parfait Append Disc | 223075 | [223075-dynamic-chord-feat-reve-parfait-append-disc.json](./223075-dynamic-chord-feat-reve-parfait-append-disc.json) |
+| Dynamic Chord feat. Rêve Parfait: V Edition | 136763 | [136763-dynamic-chord-feat-reve-parfait-v-edition.json](./136763-dynamic-chord-feat-reve-parfait-v-edition.json) |
 | Dynamic Chord feat.Liar-s Remaster Edition | 363031 | [363031-dynamic-chord-feat-liar-s-remaster-edition.json](./363031-dynamic-chord-feat-liar-s-remaster-edition.json) |
 | Dynamic Country Club: 3D Golf Simulation | 45873 | [45873-dynamic-country-club-3d-golf-simulation.json](./45873-dynamic-country-club-3d-golf-simulation.json) |
 | Dynamic Duo | 13615 | [13615-dynamic-duo.json](./13615-dynamic-duo.json) |
