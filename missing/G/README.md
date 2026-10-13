@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Panic | 367850 | [367850-galactic-panic.json](./367850-galactic-panic.json) |
 | Galactic Pawns | 348382 | [348382-galactic-pawns.json](./348382-galactic-pawns.json) |
 | Galactic Phantasy Prelude | 64473 | [64473-galactic-phantasy-prelude.json](./64473-galactic-phantasy-prelude.json) |
+| Galactic Pick Up Artist | 159543 | [159543-galactic-pick-up-artist.json](./159543-galactic-pick-up-artist.json) |
 | Galactic Pinball | 20381 | [20381-galactic-pinball.json](./20381-galactic-pinball.json) |
 | Galactic Pioneer | 208049 | [208049-galactic-pioneer.json](./208049-galactic-pioneer.json) |
 | Galactic Pit Stop Simulator | 407554 | [407554-galactic-pit-stop-simulator.json](./407554-galactic-pit-stop-simulator.json) |
@@ -974,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GameLib | 305917 | [305917-gamelib.json](./305917-gamelib.json) |
 | GameMaker 25th Anniversary | 324949 | [324949-gamemaker-25th-anniversary.json](./324949-gamemaker-25th-anniversary.json) |
 | GameMaster | 241481 | [241481-gamemaster.json](./241481-gamemaster.json) |
+| Gamemory | 158961 | [158961-gamemory.json](./158961-gamemory.json) |
 | GameOn! | 348239 | [348239-gameon.json](./348239-gameon.json) |
 | GamePack 2 | 122308 | [122308-gamepack-2.json](./122308-gamepack-2.json) |
 | GamePigeon | 229787 | [229787-gamepigeon.json](./229787-gamepigeon.json) |
@@ -2778,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gigantic Maidestruction | 401896 | [401896-gigantic-maidestruction.json](./401896-gigantic-maidestruction.json) |
 | Gigantosaurus Dino Kart | 219436 | [219436-gigantosaurus-dino-kart.json](./219436-gigantosaurus-dino-kart.json) |
 | Gigantosaurus Dino Sports | 300466 | [300466-gigantosaurus-dino-sports.json](./300466-gigantosaurus-dino-sports.json) |
+| Gigapocalypse | 158921 | [158921-gigapocalypse.json](./158921-gigapocalypse.json) |
 | GigaSlave | 348455 | [348455-gigaslave.json](./348455-gigaslave.json) |
 | GigaSword | 177317 | [177317-gigasword.json](./177317-gigasword.json) |
 | Gigawing Generations | 43477 | [43477-gigawing-generations.json](./43477-gigawing-generations.json) |
@@ -3080,6 +3083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiators Battle | 321642 | [321642-gladiators-battle.json](./321642-gladiators-battle.json) |
 | Gladiators Tale | 248001 | [248001-gladiators-tale.json](./248001-gladiators-tale.json) |
 | Gladihoppers | 103356 | [103356-gladihoppers.json](./103356-gladihoppers.json) |
+| Gladii | 158922 | [158922-gladii.json](./158922-gladii.json) |
 | Gladio and Glory | 144881 | [144881-gladio-and-glory.json](./144881-gladio-and-glory.json) |
 | Gladio Mori | 278415 | [278415-gladio-mori.json](./278415-gladio-mori.json) |
 | Gladom: The 2D MOBA in Pixel Art | 121469 | [121469-gladom-the-2d-moba-in-pixel-art.json](./121469-gladom-the-2d-moba-in-pixel-art.json) |
@@ -6948,6 +6952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Soul Girl 2 | 169455 | [169455-gun-soul-girl-2.json](./169455-gun-soul-girl-2.json) |
 | Gun Soul:Zombie Wars | 105776 | [105776-gun-soul-zombie-wars.json](./105776-gun-soul-zombie-wars.json) |
 | Gun Sounds: Shooting Master | 227499 | [227499-gun-sounds-shooting-master.json](./227499-gun-sounds-shooting-master.json) |
+| Gun Spartan | 159568 | [159568-gun-spartan.json](./159568-gun-spartan.json) |
 | Gun Sprint | 332804 | [332804-gun-sprint.json](./332804-gun-sprint.json) |
 | Gun Store Simulator | 326422 | [326422-gun-store-simulator.json](./326422-gun-store-simulator.json) |
 | Gun Strike Ops: WW2 | 196307 | [196307-gun-strike-ops-ww2.json](./196307-gun-strike-ops-ww2.json) |
