@@ -1232,6 +1232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain's Call | 403130 | [403130-captains-call.json](./403130-captains-call.json) |
 | Captain's Room | 181130 | [181130-captains-room.json](./181130-captains-room.json) |
 | Captains & Dungeons | 157425 | [157425-captains-and-dungeons.json](./157425-captains-and-dungeons.json) |
+| Captains of the Wacky Waters | 146045 | [146045-captains-of-the-wacky-waters.json](./146045-captains-of-the-wacky-waters.json) |
 | Captcha Overload | 411493 | [411493-captcha-overload.json](./411493-captcha-overload.json) |
 | CaptchaWare | 389659 | [389659-captchaware.json](./389659-captchaware.json) |
 | Captive | 196698 | [196698-captive.json](./196698-captive.json) |
@@ -2939,6 +2940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats! | 34772 | [34772-cats.json](./34772-cats.json) |
 | Cats' World | 406210 | [406210-cats-world.json](./406210-cats-world.json) |
 | Catsbridge Stories: Detective in Time | 116360 | [116360-catsbridge-stories-detective-in-time.json](./116360-catsbridge-stories-detective-in-time.json) |
+| Catsperience | 146043 | [146043-catsperience.json](./146043-catsperience.json) |
 | CatsPots | 267561 | [267561-catspots.json](./267561-catspots.json) |
 | Catstronauts | 421319 | [421319-catstronauts.json](./421319-catstronauts.json) |
 | Cattails: Wildwood Story | 189143 | [189143-cattails-wildwood-story.json](./189143-cattails-wildwood-story.json) |
@@ -5123,6 +5125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Break | 210085 | [210085-christmas-break.json](./210085-christmas-break.json) |
 | Christmas Break - Breakout Game | 99571 | [99571-christmas-break-breakout-game.json](./99571-christmas-break-breakout-game.json) |
 | Christmas Break 2 Head to Head | 214050 | [214050-christmas-break-2-head-to-head.json](./214050-christmas-break-2-head-to-head.json) |
+| Christmas Break Head to Head | 146020 | [146020-christmas-break-head-to-head.json](./146020-christmas-break-head-to-head.json) |
 | Christmas Bubble Shooter | 86716 | [86716-christmas-bubble-shooter.json](./86716-christmas-bubble-shooter.json) |
 | Christmas Carnage | 94960 | [94960-christmas-carnage.json](./94960-christmas-carnage.json) |
 | Christmas Cats | 230968 | [230968-christmas-cats.json](./230968-christmas-cats.json) |
@@ -5849,6 +5852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citres | 274515 | [274515-citres.json](./274515-citres.json) |
 | Citri Plays Noirwood | 220635 | [220635-citri-plays-noirwood.json](./220635-citri-plays-noirwood.json) |
 | Citron World Forward: Zero | 260330 | [260330-citron-world-forward-zero.json](./260330-citron-world-forward-zero.json) |
+| CitronRapide | 146071 | [146071-citronrapide.json](./146071-citronrapide.json) |
 | Citrus | 104440 | [104440-citrus.json](./104440-citrus.json) |
 | Citrus Rampage | 189073 | [189073-citrus-rampage.json](./189073-citrus-rampage.json) |
 | Citrus Summer | 373888 | [373888-citrus-summer.json](./373888-citrus-summer.json) |
@@ -8475,6 +8479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Compress(Space) | 346199 | [346199-compress-space.json](./346199-compress-space.json) |
 | Compression | 345664 | [345664-compression.json](./345664-compression.json) |
 | Compression HD | 254691 | [254691-compression-hd.json](./254691-compression-hd.json) |
+| ComPressure | 146044 | [146044-compressure.json](./146044-compressure.json) |
 | Compromised | 79596 | [79596-compromised.json](./79596-compromised.json) |
 | Compton's Interactive Encyclopedia | 306581 | [306581-comptons-interactive-encyclopedia.json](./306581-comptons-interactive-encyclopedia.json) |
 | Compu-Tron x3000 | 338291 | [338291-compu-tron-x3000.json](./338291-compu-tron-x3000.json) |
@@ -11493,6 +11498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Edge Dash | 320956 | [320956-cross-edge-dash.json](./320956-cross-edge-dash.json) |
 | Cross Fire 2 | 26982 | [26982-cross-fire-2.json](./26982-cross-fire-2.json) |
 | Cross Force | 18556 | [18556-cross-force.json](./18556-cross-force.json) |
+| Cross Gate | 146072 | [146072-cross-gate.json](./146072-cross-gate.json) |
 | Cross Guardian | 381110 | [381110-cross-guardian.json](./381110-cross-guardian.json) |
 | Cross Hearts Arcadia | 319834 | [319834-cross-hearts-arcadia.json](./319834-cross-hearts-arcadia.json) |
 | Cross Helix | 396733 | [396733-cross-helix.json](./396733-cross-helix.json) |
@@ -11784,6 +11790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crows | 103426 | [103426-crows.json](./103426-crows.json) |
 | Crows Coming | 245018 | [245018-crows-coming.json](./245018-crows-coming.json) |
 | Crowscare | 178911 | [178911-crowscare.json](./178911-crowscare.json) |
+| Crowsworn | 146086 | [146086-crowsworn.json](./146086-crowsworn.json) |
 | Crowtel Renovations | 26723 | [26723-crowtel-renovations.json](./26723-crowtel-renovations.json) |
 | CRSED: Cuisine Royale | 231960 | [231960-crsed-cuisine-royale.json](./231960-crsed-cuisine-royale.json) |
 | CRSED: F.O.A.D. - Age of Nagual | 171062 | [171062-crsed-f-o-a-d-age-of-nagual.json](./171062-crsed-f-o-a-d-age-of-nagual.json) |
