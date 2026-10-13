@@ -4587,7 +4587,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal Bound | 245327 | [245327-medal-bound.json](./245327-medal-bound.json) |
 | Medal Masters | 110299 | [110299-medal-masters.json](./110299-medal-masters.json) |
 | Medal Network Rockman.EXE | 313751 | [313751-medal-network-rockman-exe.json](./313751-medal-network-rockman-exe.json) |
-| Medal of Honor | 1307 | [1307-medal-of-honor.json](./1307-medal-of-honor.json) |
 | Medal of Honor : Warfighter - Limited Edition | 47411 | [47411-medal-of-honor-warfighter-limited-edition.json](./47411-medal-of-honor-warfighter-limited-edition.json) |
 | Medal of Honor: 10th Anniversary Edition | 45980 | [45980-medal-of-honor-10th-anniversary-edition.json](./45980-medal-of-honor-10th-anniversary-edition.json) |
 | Medal of Honor: Above and Beyond | 122592 | [122592-medal-of-honor-above-and-beyond.json](./122592-medal-of-honor-above-and-beyond.json) |
@@ -9559,6 +9558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modulate | 61733 | [61733-modulate.json](./61733-modulate.json) |
 | Module | 372651 | [372651-module.json](./372651-module.json) |
 | Module TD. Sci Fi Tower Defense | 103350 | [103350-module-td-sci-fi-tower-defense.json](./103350-module-td-sci-fi-tower-defense.json) |
+| Modulo | 142774 | [142774-modulo.json](./142774-modulo.json) |
 | Modulor | 265321 | [265321-modulor.json](./265321-modulor.json) |
 | Moduwar | 109753 | [109753-moduwar.json](./109753-moduwar.json) |
 | Modyssey | 323234 | [323234-modyssey.json](./323234-modyssey.json) |
@@ -12920,6 +12920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Mudds Super Challenge | 20100 | [20100-mutant-mudds-super-challenge.json](./20100-mutant-mudds-super-challenge.json) |
 | Mutant Night | 38562 | [38562-mutant-night.json](./38562-mutant-night.json) |
 | Mutant Ocean | 339384 | [339384-mutant-ocean.json](./339384-mutant-ocean.json) |
+| Mutant Ops | 142792 | [142792-mutant-ops.json](./142792-mutant-ops.json) |
 | Mutant Rampage: Bodyslam | 45912 | [45912-mutant-rampage-bodyslam.json](./45912-mutant-rampage-bodyslam.json) |
 | Mutant Roadkill | 233532 | [233532-mutant-roadkill.json](./233532-mutant-roadkill.json) |
 | Mutant Storm: Reloaded | 16266 | [16266-mutant-storm-reloaded.json](./16266-mutant-storm-reloaded.json) |
