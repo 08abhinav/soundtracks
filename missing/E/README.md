@@ -3455,6 +3455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Gaia: Departure | 311797 | [311797-escape-gaia-departure.json](./311797-escape-gaia-departure.json) |
 | Escape Game | 105753 | [105753-escape-game.json](./105753-escape-game.json) |
 | Escape Game - Prison Break S3 | 88417 | [88417-escape-game-prison-break-s3.json](./88417-escape-game-prison-break-s3.json) |
+| Escape Game Fort Boyard | 151474 | [151474-escape-game-fort-boyard.json](./151474-escape-game-fort-boyard.json) |
 | Escape Game R00m 05 | 362201 | [362201-escape-game-r00m-05.json](./362201-escape-game-r00m-05.json) |
 | Escape game R00m 10 | 390491 | [390491-escape-game-r00m-10.json](./390491-escape-game-r00m-10.json) |
 | Escape Game R00m07 | 378800 | [378800-escape-game-r00m07.json](./378800-escape-game-r00m07.json) |
@@ -4518,6 +4519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Advisor Verdict | 359995 | [359995-evil-advisor-verdict.json](./359995-evil-advisor-verdict.json) |
 | Evil Apples: Dirty as ____. | 86996 | [86996-evil-apples-dirty-as.json](./86996-evil-apples-dirty-as.json) |
 | Evil Awaits | 224596 | [224596-evil-awaits.json](./224596-evil-awaits.json) |
+| Evil Below | 151500 | [151500-evil-below.json](./151500-evil-below.json) |
 | Evil Castle & Princess | 258193 | [258193-evil-castle-and-princess.json](./258193-evil-castle-and-princess.json) |
 | Evil Clowns | 125267 | [125267-evil-clowns.json](./125267-evil-clowns.json) |
 | Evil Cogs | 93740 | [93740-evil-cogs.json](./93740-evil-cogs.json) |
