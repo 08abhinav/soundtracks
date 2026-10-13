@@ -2894,6 +2894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent P: Rebel Spy | 143328 | [143328-agent-p-rebel-spy.json](./143328-agent-p-rebel-spy.json) |
 | Agent Reverb | 235149 | [235149-agent-reverb.json](./235149-agent-reverb.json) |
 | Agent Roy: Zombie Hunt | 232449 | [232449-agent-roy-zombie-hunt.json](./232449-agent-roy-zombie-hunt.json) |
+| Agent Simulator | 172140 | [172140-agent-simulator.json](./172140-agent-simulator.json) |
 | Agent Sorry | 208011 | [208011-agent-sorry.json](./208011-agent-sorry.json) |
 | Agent USA | 12247 | [12247-agent-usa.json](./12247-agent-usa.json) |
 | Agent Versus | 379515 | [379515-agent-versus.json](./379515-agent-versus.json) |
@@ -3186,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Combat | 333953 | [333953-air-combat.json](./333953-air-combat.json) |
 | Air Combat 2015 | 227208 | [227208-air-combat-2015.json](./227208-air-combat-2015.json) |
 | Air Combat Fighter | 119024 | [119024-air-combat-fighter.json](./119024-air-combat-fighter.json) |
+| Air Combat III | 171887 | [171887-air-combat-iii.json](./171887-air-combat-iii.json) |
 | Air Combat MF | 121009 | [121009-air-combat-mf.json](./121009-air-combat-mf.json) |
 | Air Combat Pilot: WW2 Pacific | 102581 | [102581-air-combat-pilot-ww2-pacific.json](./102581-air-combat-pilot-ww2-pacific.json) |
 | Air Combat Revolution | 61062 | [61062-air-combat-revolution.json](./61062-air-combat-revolution.json) |
@@ -11591,5 +11593,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azurian Attack | 46771 | [46771-azurian-attack.json](./46771-azurian-attack.json) |
 | Azurik: Rise of Perathia | 5733 | [5733-azurik-rise-of-perathia.json](./5733-azurik-rise-of-perathia.json) |
 | Azusa RP Online | 114790 | [114790-azusa-rp-online.json](./114790-azusa-rp-online.json) |
+| Azy | 172066 | [172066-azy.json](./172066-azy.json) |
 | AZZL | 101964 | [101964-azzl.json](./101964-azzl.json) |
 | Azzle | 239121 | [239121-azzle.json](./239121-azzle.json) |
