@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanted | 325069 | [325069-wanted.json](./325069-wanted.json) |
 | Wanted | 72380 | [72380-wanted.json](./72380-wanted.json) |
 | Wanted | 75090 | [75090-wanted.json](./75090-wanted.json) |
+| Wanted 18 | 153744 | [153744-wanted-18.json](./153744-wanted-18.json) |
 | Wanted 3D: Dead or Alive | 335858 | [335858-wanted-3d-dead-or-alive.json](./335858-wanted-3d-dead-or-alive.json) |
 | Wanted Corp. | 19211 | [19211-wanted-corp.json](./19211-wanted-corp.json) |
 | Wanted Raccoon | 144087 | [144087-wanted-raccoon.json](./144087-wanted-raccoon.json) |
@@ -4935,6 +4936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Krispies | 71497 | [71497-word-krispies.json](./71497-word-krispies.json) |
 | Word Laces | 125820 | [125820-word-laces.json](./125820-word-laces.json) |
 | Word Land - Crosswords | 106955 | [106955-word-land-crosswords.json](./106955-word-land-crosswords.json) |
+| Word Lanes | 153749 | [153749-word-lanes.json](./153749-word-lanes.json) |
 | Word Link | 97131 | [97131-word-link.json](./97131-word-link.json) |
 | Word Logic by Powgi | 85495 | [85495-word-logic-by-powgi.json](./85495-word-logic-by-powgi.json) |
 | Word Maker | 377140 | [377140-word-maker.json](./377140-word-maker.json) |
