@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E's Laf++ | 135903 | [135903-es-laf.json](./135903-es-laf.json) |
 | E'tude Prologue: Yureugoku Kokoro no Katachi | 204482 | [204482-etude-prologue-yureugoku-kokoro-no-katachi.json](./204482-etude-prologue-yureugoku-kokoro-no-katachi.json) |
 | E'tude Prologue: Yureugoku Kokoro no Katachi Portable | 127143 | [127143-etude-prologue-yureugoku-kokoro-no-katachi-portable.json](./127143-etude-prologue-yureugoku-kokoro-no-katachi-portable.json) |
+| E008 | 153129 | [153129-e008.json](./153129-e008.json) |
 | E13ven Minute Train Ride | 340546 | [340546-e13ven-minute-train-ride.json](./340546-e13ven-minute-train-ride.json) |
 | E30 Drift Car Simulator | 234532 | [234532-e30-drift-car-simulator.json](./234532-e30-drift-car-simulator.json) |
 | E4C: Final Salvation | 328459 | [328459-e4c-final-salvation.json](./328459-e4c-final-salvation.json) |
@@ -2627,6 +2628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigmarble | 269024 | [269024-enigmarble.json](./269024-enigmarble.json) |
 | Enigmarella | 190223 | [190223-enigmarella.json](./190223-enigmarella.json) |
 | Enigmas da Escuridão | 254992 | [254992-enigmas-da-escuridao.json](./254992-enigmas-da-escuridao.json) |
+| EnigmaSand | 152035 | [152035-enigmasand.json](./152035-enigmasand.json) |
 | Enigmata: Stellar War | 118317 | [118317-enigmata-stellar-war.json](./118317-enigmata-stellar-war.json) |
 | Enigmatica 2: Expert | 255663 | [255663-enigmatica-2-expert.json](./255663-enigmatica-2-expert.json) |
 | Enigmatis 3: The Shadow of Karkhala | 32291 | [32291-enigmatis-3-the-shadow-of-karkhala.json](./32291-enigmatis-3-the-shadow-of-karkhala.json) |
@@ -3788,6 +3790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Espresso Tycoon & Tank Mechanic Simulator | 331926 | [331926-espresso-tycoon-and-tank-mechanic-simulator.json](./331926-espresso-tycoon-and-tank-mechanic-simulator.json) |
 | Espresso Tycoon & Thief Simulator | 331903 | [331903-espresso-tycoon-and-thief-simulator.json](./331903-espresso-tycoon-and-thief-simulator.json) |
 | Esse mundo é um Colosso | 230758 | [230758-esse-mundo-e-um-colosso.json](./230758-esse-mundo-e-um-colosso.json) |
+| Esse Proxy | 152082 | [152082-esse-proxy.json](./152082-esse-proxy.json) |
 | Esse Rakuraku Kakeibo | 141724 | [141724-esse-rakuraku-kakeibo.json](./141724-esse-rakuraku-kakeibo.json) |
 | Essence | 383502 | [383502-essence.json](./383502-essence.json) |
 | Essence Bloom | 290644 | [290644-essence-bloom.json](./290644-essence-bloom.json) |
@@ -3834,6 +3837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ETC: Earthquake Test Centre 2 | 221662 | [221662-etc-earthquake-test-centre-2.json](./221662-etc-earthquake-test-centre-2.json) |
 | Etcetera | 255000 | [255000-etcetera.json](./255000-etcetera.json) |
 | Etch a Sketch | 51398 | [51398-etch-a-sketch.json](./51398-etch-a-sketch.json) |
+| Etch-a-Sketch Sand | 152037 | [152037-etch-a-sketch-sand.json](./152037-etch-a-sketch-sand.json) |
 | Etched Memories | 382765 | [382765-etched-memories.json](./382765-etched-memories.json) |
 | ETea | 319066 | [319066-etea.json](./319066-etea.json) |
 | Eterium | 17102 | [17102-eterium.json](./17102-eterium.json) |
