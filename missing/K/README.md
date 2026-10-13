@@ -3273,6 +3273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koiyasumi: Yuudachi ni Nureta Osananajimi | 397384 | [397384-koiyasumi-yuudachi-ni-nureta-osananajimi.json](./397384-koiyasumi-yuudachi-ni-nureta-osananajimi.json) |
 | Koji the Frog | 381940 | [381940-koji-the-frog.json](./381940-koji-the-frog.json) |
 | Kojimachi Island | 197199 | [197199-kojimachi-island.json](./197199-kojimachi-island.json) |
+| Kojou | 157928 | [157928-kojou.json](./157928-kojou.json) |
 | Kojouji | 149543 | [149543-kojouji.json](./149543-kojouji.json) |
 | Koko & Kebi: Crank Harrier | 274671 | [274671-koko-and-kebi-crank-harrier.json](./274671-koko-and-kebi-crank-harrier.json) |
 | Koko Adventure | 54899 | [54899-koko-adventure.json](./54899-koko-adventure.json) |
