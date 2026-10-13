@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T08:37:57.950Z",
-  "total_missing": 205418,
+  "generated_at": "2026-10-13T09:03:38.889Z",
+  "total_missing": 205518,
   "games": [
     {
       "igdb_id": 191680,
@@ -134338,6 +134338,11 @@
       "file": "missing/C/162427-captain-toad-treasure-tracker.json"
     },
     {
+      "igdb_id": 162624,
+      "game_name": "Captain Toad Treasure Tracker for SNES II",
+      "file": "missing/C/162624-captain-toad-treasure-tracker-for-snes-ii.json"
+    },
+    {
       "igdb_id": 358338,
       "game_name": "Captain Toad: Prism Star Quest",
       "file": "missing/C/358338-captain-toad-prism-star-quest.json"
@@ -167143,6 +167148,16 @@
       "file": "missing/C/89528-coloring-book-yummies.json"
     },
     {
+      "igdb_id": 162618,
+      "game_name": "Coloring Book for Kids",
+      "file": "missing/C/162618-coloring-book-for-kids.json"
+    },
+    {
+      "igdb_id": 162615,
+      "game_name": "Coloring Book for Kids: Full Version",
+      "file": "missing/C/162615-coloring-book-for-kids-full-version.json"
+    },
+    {
       "igdb_id": 96011,
       "game_name": "Coloring Book for Ladybug & Cat Noir",
       "file": "missing/C/96011-coloring-book-for-ladybug-and-cat-noir.json"
@@ -167216,6 +167231,11 @@
       "igdb_id": 130094,
       "game_name": "Coloring Game 2",
       "file": "missing/C/130094-coloring-game-2.json"
+    },
+    {
+      "igdb_id": 162617,
+      "game_name": "Coloring Game 2: Deluxe Edition",
+      "file": "missing/C/162617-coloring-game-2-deluxe-edition.json"
     },
     {
       "igdb_id": 252759,
@@ -167458,6 +167478,11 @@
       "file": "missing/C/173203-coloring-pixel-fantasy-characters.json"
     },
     {
+      "igdb_id": 162600,
+      "game_name": "Coloring Pixels: Advent 2 Pack",
+      "file": "missing/C/162600-coloring-pixels-advent-2-pack.json"
+    },
+    {
       "igdb_id": 225002,
       "game_name": "Coloring Pixels: Advent 3 Pack",
       "file": "missing/C/225002-coloring-pixels-advent-3-pack.json"
@@ -167471,6 +167496,21 @@
       "igdb_id": 351619,
       "game_name": "Coloring Pixels: Advent 6 Pack",
       "file": "missing/C/351619-coloring-pixels-advent-6-pack.json"
+    },
+    {
+      "igdb_id": 162611,
+      "game_name": "Coloring Pixels: Advent Pack",
+      "file": "missing/C/162611-coloring-pixels-advent-pack.json"
+    },
+    {
+      "igdb_id": 162588,
+      "game_name": "Coloring Pixels: Amusement Park Pack",
+      "file": "missing/C/162588-coloring-pixels-amusement-park-pack.json"
+    },
+    {
+      "igdb_id": 162598,
+      "game_name": "Coloring Pixels: Animals Pack",
+      "file": "missing/C/162598-coloring-pixels-animals-pack.json"
     },
     {
       "igdb_id": 211896,
@@ -167518,9 +167558,39 @@
       "file": "missing/C/393615-coloring-pixels-comic-pack.json"
     },
     {
+      "igdb_id": 162590,
+      "game_name": "Coloring Pixels: Dinosaurs Pack",
+      "file": "missing/C/162590-coloring-pixels-dinosaurs-pack.json"
+    },
+    {
+      "igdb_id": 162606,
+      "game_name": "Coloring Pixels: Fairy Tales Pack",
+      "file": "missing/C/162606-coloring-pixels-fairy-tales-pack.json"
+    },
+    {
       "igdb_id": 351622,
       "game_name": "Coloring Pixels: Fantasy Maps Pack",
       "file": "missing/C/351622-coloring-pixels-fantasy-maps-pack.json"
+    },
+    {
+      "igdb_id": 162613,
+      "game_name": "Coloring Pixels: Farm Pack",
+      "file": "missing/C/162613-coloring-pixels-farm-pack.json"
+    },
+    {
+      "igdb_id": 162607,
+      "game_name": "Coloring Pixels: Flag Pack",
+      "file": "missing/C/162607-coloring-pixels-flag-pack.json"
+    },
+    {
+      "igdb_id": 162591,
+      "game_name": "Coloring Pixels: Flowers Pack",
+      "file": "missing/C/162591-coloring-pixels-flowers-pack.json"
+    },
+    {
+      "igdb_id": 162602,
+      "game_name": "Coloring Pixels: Food Pack",
+      "file": "missing/C/162602-coloring-pixels-food-pack.json"
     },
     {
       "igdb_id": 277968,
@@ -167531,6 +167601,11 @@
       "igdb_id": 354617,
       "game_name": "Coloring Pixels: Gothic Pack",
       "file": "missing/C/354617-coloring-pixels-gothic-pack.json"
+    },
+    {
+      "igdb_id": 162601,
+      "game_name": "Coloring Pixels: Halloween 2 Pack",
+      "file": "missing/C/162601-coloring-pixels-halloween-2-pack.json"
     },
     {
       "igdb_id": 222817,
@@ -167553,6 +167628,11 @@
       "file": "missing/C/351620-coloring-pixels-halloween-6-pack.json"
     },
     {
+      "igdb_id": 162609,
+      "game_name": "Coloring Pixels: Halloween Pack",
+      "file": "missing/C/162609-coloring-pixels-halloween-pack.json"
+    },
+    {
       "igdb_id": 225003,
       "game_name": "Coloring Pixels: Illusions Pack",
       "file": "missing/C/225003-coloring-pixels-illusions-pack.json"
@@ -167568,14 +167648,34 @@
       "file": "missing/C/351618-coloring-pixels-isometric-3-pack.json"
     },
     {
+      "igdb_id": 162604,
+      "game_name": "Coloring Pixels: Isometric Pack",
+      "file": "missing/C/162604-coloring-pixels-isometric-pack.json"
+    },
+    {
       "igdb_id": 241318,
       "game_name": "Coloring Pixels: Japan Pack",
       "file": "missing/C/241318-coloring-pixels-japan-pack.json"
     },
     {
+      "igdb_id": 162608,
+      "game_name": "Coloring Pixels: Landmarks 2 Pack",
+      "file": "missing/C/162608-coloring-pixels-landmarks-2-pack.json"
+    },
+    {
+      "igdb_id": 162612,
+      "game_name": "Coloring Pixels: Landmarks Pack",
+      "file": "missing/C/162612-coloring-pixels-landmarks-pack.json"
+    },
+    {
       "igdb_id": 259861,
       "game_name": "Coloring Pixels: Magic Pack",
       "file": "missing/C/259861-coloring-pixels-magic-pack.json"
+    },
+    {
+      "igdb_id": 162599,
+      "game_name": "Coloring Pixels: Marine Life Pack",
+      "file": "missing/C/162599-coloring-pixels-marine-life-pack.json"
     },
     {
       "igdb_id": 277967,
@@ -167586,6 +167686,11 @@
       "igdb_id": 327369,
       "game_name": "Coloring Pixels: Microscopic Pack",
       "file": "missing/C/327369-coloring-pixels-microscopic-pack.json"
+    },
+    {
+      "igdb_id": 162610,
+      "game_name": "Coloring Pixels: Monsters Pack",
+      "file": "missing/C/162610-coloring-pixels-monsters-pack.json"
     },
     {
       "igdb_id": 201705,
@@ -167608,6 +167713,11 @@
       "file": "missing/C/351624-coloring-pixels-pastels-pack.json"
     },
     {
+      "igdb_id": 162593,
+      "game_name": "Coloring Pixels: Patterns Pack",
+      "file": "missing/C/162593-coloring-pixels-patterns-pack.json"
+    },
+    {
       "igdb_id": 305514,
       "game_name": "Coloring Pixels: Pets Pack",
       "file": "missing/C/305514-coloring-pixels-pets-pack.json"
@@ -167628,9 +167738,34 @@
       "file": "missing/C/351623-coloring-pixels-realistic-2-pack.json"
     },
     {
+      "igdb_id": 162605,
+      "game_name": "Coloring Pixels: Realistic Pack",
+      "file": "missing/C/162605-coloring-pixels-realistic-pack.json"
+    },
+    {
       "igdb_id": 194648,
       "game_name": "Coloring Pixels: Retro Pack",
       "file": "missing/C/194648-coloring-pixels-retro-pack.json"
+    },
+    {
+      "igdb_id": 162592,
+      "game_name": "Coloring Pixels: RPG Book",
+      "file": "missing/C/162592-coloring-pixels-rpg-book.json"
+    },
+    {
+      "igdb_id": 162594,
+      "game_name": "Coloring Pixels: Safari Pack",
+      "file": "missing/C/162594-coloring-pixels-safari-pack.json"
+    },
+    {
+      "igdb_id": 162596,
+      "game_name": "Coloring Pixels: Space Pack",
+      "file": "missing/C/162596-coloring-pixels-space-pack.json"
+    },
+    {
+      "igdb_id": 162597,
+      "game_name": "Coloring Pixels: Spring Pack",
+      "file": "missing/C/162597-coloring-pixels-spring-pack.json"
     },
     {
       "igdb_id": 231329,
@@ -167643,14 +167778,39 @@
       "file": "missing/C/225005-coloring-pixels-tarot-pack.json"
     },
     {
+      "igdb_id": 162614,
+      "game_name": "Coloring Pixels: Technology Pack",
+      "file": "missing/C/162614-coloring-pixels-technology-pack.json"
+    },
+    {
       "igdb_id": 255253,
       "game_name": "Coloring Pixels: Transport Pack",
       "file": "missing/C/255253-coloring-pixels-transport-pack.json"
     },
     {
+      "igdb_id": 162603,
+      "game_name": "Coloring Pixels: Variety Pack",
+      "file": "missing/C/162603-coloring-pixels-variety-pack.json"
+    },
+    {
+      "igdb_id": 162595,
+      "game_name": "Coloring Pixels: Vistas Pack",
+      "file": "missing/C/162595-coloring-pixels-vistas-pack.json"
+    },
+    {
+      "igdb_id": 162587,
+      "game_name": "Coloring Pixels: Vistas Pack 2",
+      "file": "missing/C/162587-coloring-pixels-vistas-pack-2.json"
+    },
+    {
       "igdb_id": 305513,
       "game_name": "Coloring Pixels: Vistas Pack 3",
       "file": "missing/C/305513-coloring-pixels-vistas-pack-3.json"
+    },
+    {
+      "igdb_id": 162589,
+      "game_name": "Coloring Pixels: Winter Holidays Pack",
+      "file": "missing/C/162589-coloring-pixels-winter-holidays-pack.json"
     },
     {
       "igdb_id": 351625,
@@ -405613,6 +405773,11 @@
       "file": "missing/H/189910-hungry-wolf.json"
     },
     {
+      "igdb_id": 162625,
+      "game_name": "Huni Kuin: Yube Baitana",
+      "file": "missing/H/162625-huni-kuin-yube-baitana.json"
+    },
+    {
       "igdb_id": 19847,
       "game_name": "HunieCam Studio",
       "file": "missing/H/19847-huniecam-studio.json"
@@ -421616,6 +421781,11 @@
       "igdb_id": 313422,
       "game_name": "Infinity Cave",
       "file": "missing/I/313422-infinity-cave.json"
+    },
+    {
+      "igdb_id": 162616,
+      "game_name": "Infinity Coloring Pixel",
+      "file": "missing/I/162616-infinity-coloring-pixel.json"
     },
     {
       "igdb_id": 188406,
@@ -607923,6 +608093,11 @@
       "file": "missing/O/288-operation-flashpoint-cold-war-crisis.json"
     },
     {
+      "igdb_id": 162619,
+      "game_name": "Operation Flashpoint: Game of the Year Edition",
+      "file": "missing/O/162619-operation-flashpoint-game-of-the-year-edition.json"
+    },
+    {
       "igdb_id": 449,
       "game_name": "Operation Flashpoint: Red Hammer",
       "file": "missing/O/449-operation-flashpoint-red-hammer.json"
@@ -642953,6 +643128,16 @@
       "file": "missing/P/53461-pixel-puzzles-ultimate-2016-jigsaw-collection.json"
     },
     {
+      "igdb_id": 162107,
+      "game_name": "Pixel Puzzles Ultimate: Aerial Photography",
+      "file": "missing/P/162107-pixel-puzzles-ultimate-aerial-photography.json"
+    },
+    {
+      "igdb_id": 162120,
+      "game_name": "Pixel Puzzles Ultimate: Aki",
+      "file": "missing/P/162120-pixel-puzzles-ultimate-aki.json"
+    },
+    {
       "igdb_id": 162178,
       "game_name": "Pixel Puzzles Ultimate: Angel Wings",
       "file": "missing/P/162178-pixel-puzzles-ultimate-angel-wings.json"
@@ -642961,6 +643146,11 @@
       "igdb_id": 226860,
       "game_name": "Pixel Puzzles Ultimate: Animals",
       "file": "missing/P/226860-pixel-puzzles-ultimate-animals.json"
+    },
+    {
+      "igdb_id": 162091,
+      "game_name": "Pixel Puzzles Ultimate: Australia",
+      "file": "missing/P/162091-pixel-puzzles-ultimate-australia.json"
     },
     {
       "igdb_id": 162186,
@@ -642973,9 +643163,19 @@
       "file": "missing/P/192141-pixel-puzzles-ultimate-autumn-2.json"
     },
     {
+      "igdb_id": 162087,
+      "game_name": "Pixel Puzzles Ultimate: Beach Volleyball",
+      "file": "missing/P/162087-pixel-puzzles-ultimate-beach-volleyball.json"
+    },
+    {
       "igdb_id": 357884,
       "game_name": "Pixel Puzzles Ultimate: Bioframe",
       "file": "missing/P/357884-pixel-puzzles-ultimate-bioframe.json"
+    },
+    {
+      "igdb_id": 162126,
+      "game_name": "Pixel Puzzles Ultimate: Bosch's Garden",
+      "file": "missing/P/162126-pixel-puzzles-ultimate-boschs-garden.json"
     },
     {
       "igdb_id": 192145,
@@ -642986,6 +643186,21 @@
       "igdb_id": 162175,
       "game_name": "Pixel Puzzles Ultimate: Castles",
       "file": "missing/P/162175-pixel-puzzles-ultimate-castles.json"
+    },
+    {
+      "igdb_id": 162099,
+      "game_name": "Pixel Puzzles Ultimate: Castles 2",
+      "file": "missing/P/162099-pixel-puzzles-ultimate-castles-2.json"
+    },
+    {
+      "igdb_id": 162103,
+      "game_name": "Pixel Puzzles Ultimate: Cats",
+      "file": "missing/P/162103-pixel-puzzles-ultimate-cats.json"
+    },
+    {
+      "igdb_id": 162119,
+      "game_name": "Pixel Puzzles Ultimate: Cats 2",
+      "file": "missing/P/162119-pixel-puzzles-ultimate-cats-2.json"
     },
     {
       "igdb_id": 226861,
@@ -643028,6 +643243,11 @@
       "file": "missing/P/162164-pixel-puzzles-ultimate-da-vinci.json"
     },
     {
+      "igdb_id": 162117,
+      "game_name": "Pixel Puzzles Ultimate: Desserts",
+      "file": "missing/P/162117-pixel-puzzles-ultimate-desserts.json"
+    },
+    {
       "igdb_id": 192146,
       "game_name": "Pixel Puzzles Ultimate: Deutschland",
       "file": "missing/P/192146-pixel-puzzles-ultimate-deutschland.json"
@@ -643038,14 +643258,49 @@
       "file": "missing/P/357886-pixel-puzzles-ultimate-dino-park.json"
     },
     {
+      "igdb_id": 162095,
+      "game_name": "Pixel Puzzles Ultimate: Dogs",
+      "file": "missing/P/162095-pixel-puzzles-ultimate-dogs.json"
+    },
+    {
+      "igdb_id": 162125,
+      "game_name": "Pixel Puzzles Ultimate: Dolphins",
+      "file": "missing/P/162125-pixel-puzzles-ultimate-dolphins.json"
+    },
+    {
+      "igdb_id": 162094,
+      "game_name": "Pixel Puzzles Ultimate: Embers",
+      "file": "missing/P/162094-pixel-puzzles-ultimate-embers.json"
+    },
+    {
       "igdb_id": 162171,
       "game_name": "Pixel Puzzles Ultimate: England",
       "file": "missing/P/162171-pixel-puzzles-ultimate-england.json"
     },
     {
+      "igdb_id": 162118,
+      "game_name": "Pixel Puzzles Ultimate: European Art",
+      "file": "missing/P/162118-pixel-puzzles-ultimate-european-art.json"
+    },
+    {
       "igdb_id": 162194,
       "game_name": "Pixel Puzzles Ultimate: Extreme Sports",
       "file": "missing/P/162194-pixel-puzzles-ultimate-extreme-sports.json"
+    },
+    {
+      "igdb_id": 162098,
+      "game_name": "Pixel Puzzles Ultimate: Fantasy 2",
+      "file": "missing/P/162098-pixel-puzzles-ultimate-fantasy-2.json"
+    },
+    {
+      "igdb_id": 162082,
+      "game_name": "Pixel Puzzles Ultimate: Flowers",
+      "file": "missing/P/162082-pixel-puzzles-ultimate-flowers.json"
+    },
+    {
+      "igdb_id": 162110,
+      "game_name": "Pixel Puzzles Ultimate: Germany",
+      "file": "missing/P/162110-pixel-puzzles-ultimate-germany.json"
     },
     {
       "igdb_id": 162169,
@@ -643078,6 +643333,16 @@
       "file": "missing/P/162163-pixel-puzzles-ultimate-holidays.json"
     },
     {
+      "igdb_id": 162084,
+      "game_name": "Pixel Puzzles Ultimate: Horror",
+      "file": "missing/P/162084-pixel-puzzles-ultimate-horror.json"
+    },
+    {
+      "igdb_id": 162109,
+      "game_name": "Pixel Puzzles Ultimate: Horses",
+      "file": "missing/P/162109-pixel-puzzles-ultimate-horses.json"
+    },
+    {
       "igdb_id": 162177,
       "game_name": "Pixel Puzzles Ultimate: India",
       "file": "missing/P/162177-pixel-puzzles-ultimate-india.json"
@@ -643086,6 +643351,11 @@
       "igdb_id": 162179,
       "game_name": "Pixel Puzzles Ultimate: Ireland",
       "file": "missing/P/162179-pixel-puzzles-ultimate-ireland.json"
+    },
+    {
+      "igdb_id": 162112,
+      "game_name": "Pixel Puzzles Ultimate: IWS",
+      "file": "missing/P/162112-pixel-puzzles-ultimate-iws.json"
     },
     {
       "igdb_id": 162156,
@@ -643098,6 +643368,11 @@
       "file": "missing/P/162159-pixel-puzzles-ultimate-japan-2.json"
     },
     {
+      "igdb_id": 162122,
+      "game_name": "Pixel Puzzles Ultimate: Jigsaw",
+      "file": "missing/P/162122-pixel-puzzles-ultimate-jigsaw.json"
+    },
+    {
       "igdb_id": 303699,
       "game_name": "Pixel Puzzles Ultimate: Jigsaw - Variety Pack 21",
       "file": "missing/P/303699-pixel-puzzles-ultimate-jigsaw-variety-pack-21.json"
@@ -643106,6 +643381,11 @@
       "igdb_id": 303698,
       "game_name": "Pixel Puzzles Ultimate: Jigsaw - Variety Pack 4XS",
       "file": "missing/P/303698-pixel-puzzles-ultimate-jigsaw-variety-pack-4xs.json"
+    },
+    {
+      "igdb_id": 162106,
+      "game_name": "Pixel Puzzles Ultimate: Landscapes XL",
+      "file": "missing/P/162106-pixel-puzzles-ultimate-landscapes-xl.json"
     },
     {
       "igdb_id": 357887,
@@ -643118,6 +643398,26 @@
       "file": "missing/P/192140-pixel-puzzles-ultimate-lunar-new-year.json"
     },
     {
+      "igdb_id": 162129,
+      "game_name": "Pixel Puzzles Ultimate: Macro",
+      "file": "missing/P/162129-pixel-puzzles-ultimate-macro.json"
+    },
+    {
+      "igdb_id": 162127,
+      "game_name": "Pixel Puzzles Ultimate: Montana",
+      "file": "missing/P/162127-pixel-puzzles-ultimate-montana.json"
+    },
+    {
+      "igdb_id": 162108,
+      "game_name": "Pixel Puzzles Ultimate: Mountains",
+      "file": "missing/P/162108-pixel-puzzles-ultimate-mountains.json"
+    },
+    {
+      "igdb_id": 162086,
+      "game_name": "Pixel Puzzles Ultimate: New England Fall",
+      "file": "missing/P/162086-pixel-puzzles-ultimate-new-england-fall.json"
+    },
+    {
       "igdb_id": 162181,
       "game_name": "Pixel Puzzles Ultimate: Noel",
       "file": "missing/P/162181-pixel-puzzles-ultimate-noel.json"
@@ -643128,9 +643428,29 @@
       "file": "missing/P/162183-pixel-puzzles-ultimate-pin-ups.json"
     },
     {
+      "igdb_id": 162102,
+      "game_name": "Pixel Puzzles Ultimate: PP1 Japan",
+      "file": "missing/P/162102-pixel-puzzles-ultimate-pp1-japan.json"
+    },
+    {
       "igdb_id": 162154,
       "game_name": "Pixel Puzzles Ultimate: PP1 UndeadZ",
       "file": "missing/P/162154-pixel-puzzles-ultimate-pp1-undeadz.json"
+    },
+    {
+      "igdb_id": 162096,
+      "game_name": "Pixel Puzzles Ultimate: PP2 Anime",
+      "file": "missing/P/162096-pixel-puzzles-ultimate-pp2-anime.json"
+    },
+    {
+      "igdb_id": 162123,
+      "game_name": "Pixel Puzzles Ultimate: PP2 Birds",
+      "file": "missing/P/162123-pixel-puzzles-ultimate-pp2-birds.json"
+    },
+    {
+      "igdb_id": 162128,
+      "game_name": "Pixel Puzzles Ultimate: PP2 Space",
+      "file": "missing/P/162128-pixel-puzzles-ultimate-pp2-space.json"
     },
     {
       "igdb_id": 162182,
@@ -643143,6 +643463,16 @@
       "file": "missing/P/163416-pixel-puzzles-ultimate-puzzle-pack-2000-ad.json"
     },
     {
+      "igdb_id": 162116,
+      "game_name": "Pixel Puzzles Ultimate: Reptile",
+      "file": "missing/P/162116-pixel-puzzles-ultimate-reptile.json"
+    },
+    {
+      "igdb_id": 162097,
+      "game_name": "Pixel Puzzles Ultimate: Rio",
+      "file": "missing/P/162097-pixel-puzzles-ultimate-rio.json"
+    },
+    {
       "igdb_id": 162197,
       "game_name": "Pixel Puzzles Ultimate: Russia",
       "file": "missing/P/162197-pixel-puzzles-ultimate-russia.json"
@@ -643153,9 +643483,19 @@
       "file": "missing/P/162180-pixel-puzzles-ultimate-samurai.json"
     },
     {
+      "igdb_id": 162092,
+      "game_name": "Pixel Puzzles Ultimate: Santa",
+      "file": "missing/P/162092-pixel-puzzles-ultimate-santa.json"
+    },
+    {
       "igdb_id": 162195,
       "game_name": "Pixel Puzzles Ultimate: Savanna",
       "file": "missing/P/162195-pixel-puzzles-ultimate-savanna.json"
+    },
+    {
+      "igdb_id": 162090,
+      "game_name": "Pixel Puzzles Ultimate: Scotland",
+      "file": "missing/P/162090-pixel-puzzles-ultimate-scotland.json"
     },
     {
       "igdb_id": 162193,
@@ -643166,6 +643506,16 @@
       "igdb_id": 162190,
       "game_name": "Pixel Puzzles Ultimate: Space 2",
       "file": "missing/P/162190-pixel-puzzles-ultimate-space-2.json"
+    },
+    {
+      "igdb_id": 162130,
+      "game_name": "Pixel Puzzles Ultimate: Spain",
+      "file": "missing/P/162130-pixel-puzzles-ultimate-spain.json"
+    },
+    {
+      "igdb_id": 162083,
+      "game_name": "Pixel Puzzles Ultimate: Stuck At Home",
+      "file": "missing/P/162083-pixel-puzzles-ultimate-stuck-at-home.json"
     },
     {
       "igdb_id": 162165,
@@ -643183,9 +643533,29 @@
       "file": "missing/P/148510-pixel-puzzles-ultimate-sunflowers.json"
     },
     {
+      "igdb_id": 162124,
+      "game_name": "Pixel Puzzles Ultimate: Surreal",
+      "file": "missing/P/162124-pixel-puzzles-ultimate-surreal.json"
+    },
+    {
       "igdb_id": 162192,
       "game_name": "Pixel Puzzles Ultimate: T.C.O.T.C",
       "file": "missing/P/162192-pixel-puzzles-ultimate-t-c-o-t-c.json"
+    },
+    {
+      "igdb_id": 162131,
+      "game_name": "Pixel Puzzles Ultimate: Thailand",
+      "file": "missing/P/162131-pixel-puzzles-ultimate-thailand.json"
+    },
+    {
+      "igdb_id": 162093,
+      "game_name": "Pixel Puzzles Ultimate: Traditional Cut",
+      "file": "missing/P/162093-pixel-puzzles-ultimate-traditional-cut.json"
+    },
+    {
+      "igdb_id": 162105,
+      "game_name": "Pixel Puzzles Ultimate: Trains",
+      "file": "missing/P/162105-pixel-puzzles-ultimate-trains.json"
     },
     {
       "igdb_id": 162167,
@@ -643228,14 +643598,39 @@
       "file": "missing/P/162191-pixel-puzzles-ultimate-variety-pack-12.json"
     },
     {
+      "igdb_id": 162113,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack 13",
+      "file": "missing/P/162113-pixel-puzzles-ultimate-variety-pack-13.json"
+    },
+    {
+      "igdb_id": 162100,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack 14",
+      "file": "missing/P/162100-pixel-puzzles-ultimate-variety-pack-14.json"
+    },
+    {
       "igdb_id": 162187,
       "game_name": "Pixel Puzzles Ultimate: Variety Pack 15",
       "file": "missing/P/162187-pixel-puzzles-ultimate-variety-pack-15.json"
     },
     {
+      "igdb_id": 162111,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack 17",
+      "file": "missing/P/162111-pixel-puzzles-ultimate-variety-pack-17.json"
+    },
+    {
+      "igdb_id": 162101,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack 18",
+      "file": "missing/P/162101-pixel-puzzles-ultimate-variety-pack-18.json"
+    },
+    {
       "igdb_id": 226865,
       "game_name": "Pixel Puzzles Ultimate: Variety Pack 19",
       "file": "missing/P/226865-pixel-puzzles-ultimate-variety-pack-19.json"
+    },
+    {
+      "igdb_id": 162088,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack 2",
+      "file": "missing/P/162088-pixel-puzzles-ultimate-variety-pack-2.json"
     },
     {
       "igdb_id": 357889,
@@ -643263,6 +643658,11 @@
       "file": "missing/P/192147-pixel-puzzles-ultimate-variety-pack-3xl.json"
     },
     {
+      "igdb_id": 162121,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack 3XS",
+      "file": "missing/P/162121-pixel-puzzles-ultimate-variety-pack-3xs.json"
+    },
+    {
       "igdb_id": 162155,
       "game_name": "Pixel Puzzles Ultimate: Variety Pack 4",
       "file": "missing/P/162155-pixel-puzzles-ultimate-variety-pack-4.json"
@@ -643288,6 +643688,16 @@
       "file": "missing/P/226864-pixel-puzzles-ultimate-variety-pack-6xs.json"
     },
     {
+      "igdb_id": 162089,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack 7",
+      "file": "missing/P/162089-pixel-puzzles-ultimate-variety-pack-7.json"
+    },
+    {
+      "igdb_id": 162115,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack 8",
+      "file": "missing/P/162115-pixel-puzzles-ultimate-variety-pack-8.json"
+    },
+    {
       "igdb_id": 357893,
       "game_name": "Pixel Puzzles Ultimate: Variety Pack 8SX",
       "file": "missing/P/357893-pixel-puzzles-ultimate-variety-pack-8sx.json"
@@ -643298,9 +643708,19 @@
       "file": "missing/P/162166-pixel-puzzles-ultimate-variety-pack-9.json"
     },
     {
+      "igdb_id": 162104,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack XL",
+      "file": "missing/P/162104-pixel-puzzles-ultimate-variety-pack-xl.json"
+    },
+    {
       "igdb_id": 162170,
       "game_name": "Pixel Puzzles Ultimate: Variety Pack XS",
       "file": "missing/P/162170-pixel-puzzles-ultimate-variety-pack-xs.json"
+    },
+    {
+      "igdb_id": 162114,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack XXL",
+      "file": "missing/P/162114-pixel-puzzles-ultimate-variety-pack-xxl.json"
     },
     {
       "igdb_id": 162161,
@@ -643321,6 +643741,11 @@
       "igdb_id": 162157,
       "game_name": "Pixel Puzzles Ultimate: Waterfalls",
       "file": "missing/P/162157-pixel-puzzles-ultimate-waterfalls.json"
+    },
+    {
+      "igdb_id": 162132,
+      "game_name": "Pixel Puzzles Ultimate: Wild West",
+      "file": "missing/P/162132-pixel-puzzles-ultimate-wild-west.json"
     },
     {
       "igdb_id": 389415,
@@ -786048,6 +786473,11 @@
       "file": "missing/S/109495-space-defender-battle-infinity.json"
     },
     {
+      "igdb_id": 162586,
+      "game_name": "Space Defense Grid",
+      "file": "missing/S/162586-space-defense-grid.json"
+    },
+    {
       "igdb_id": 25919,
       "game_name": "Space Demolisher",
       "file": "missing/S/25919-space-demolisher.json"
@@ -787551,6 +787981,11 @@
       "igdb_id": 202645,
       "game_name": "Space Molmae",
       "file": "missing/S/202645-space-molmae.json"
+    },
+    {
+      "igdb_id": 162585,
+      "game_name": "Space Monster",
+      "file": "missing/S/162585-space-monster.json"
     },
     {
       "igdb_id": 72971,
@@ -809166,6 +809601,21 @@
       "igdb_id": 417368,
       "game_name": "Stellar Howl: Galactic Repairs",
       "file": "missing/S/417368-stellar-howl-galactic-repairs.json"
+    },
+    {
+      "igdb_id": 162582,
+      "game_name": "Stellar Impact: Artillery Ship",
+      "file": "missing/S/162582-stellar-impact-artillery-ship.json"
+    },
+    {
+      "igdb_id": 162580,
+      "game_name": "Stellar Impact: Carrier Ship",
+      "file": "missing/S/162580-stellar-impact-carrier-ship.json"
+    },
+    {
+      "igdb_id": 162581,
+      "game_name": "Stellar Impact: Science Vessel",
+      "file": "missing/S/162581-stellar-impact-science-vessel.json"
     },
     {
       "igdb_id": 390182,
@@ -848581,6 +849031,11 @@
       "igdb_id": 215883,
       "game_name": "Tankron",
       "file": "missing/T/215883-tankron.json"
+    },
+    {
+      "igdb_id": 162620,
+      "game_name": "Tankroyale.io",
+      "file": "missing/T/162620-tankroyale-io.json"
     },
     {
       "igdb_id": 102253,
@@ -929688,6 +930143,11 @@
       "file": "missing/T/147250-towelket-one-more-time-5-gaugaus-bride.json"
     },
     {
+      "igdb_id": 162583,
+      "game_name": "Tower",
+      "file": "missing/T/162583-tower.json"
+    },
+    {
       "igdb_id": 287566,
       "game_name": "Tower",
       "file": "missing/T/287566-tower.json"
@@ -937798,14 +938258,29 @@
       "file": "missing/T/162669-trainz-a-new-era-amtrak-p42dc-phase-v.json"
     },
     {
+      "igdb_id": 162630,
+      "game_name": "Trainz: A New Era - Andrushivka: Vinnitsa UZ",
+      "file": "missing/T/162630-trainz-a-new-era-andrushivka-vinnitsa-uz.json"
+    },
+    {
       "igdb_id": 162677,
       "game_name": "Trainz: A New Era - ATSF GP38-2 Santa FE 2 Pack",
       "file": "missing/T/162677-trainz-a-new-era-atsf-gp38-2-santa-fe-2-pack.json"
     },
     {
+      "igdb_id": 162632,
+      "game_name": "Trainz: A New Era - Avmz Intercity 71",
+      "file": "missing/T/162632-trainz-a-new-era-avmz-intercity-71.json"
+    },
+    {
       "igdb_id": 162686,
       "game_name": "Trainz: A New Era - BNSF GE Dash-9 44CW Warbonnet",
       "file": "missing/T/162686-trainz-a-new-era-bnsf-ge-dash-9-44cw-warbonnet.json"
+    },
+    {
+      "igdb_id": 162626,
+      "game_name": "Trainz: A New Era - C&O 2-6-6-6 H8: New River Mining Coal Run",
+      "file": "missing/T/162626-trainz-a-new-era-c-and-o-2-6-6-6-h8-new-river-mining-coal-run.json"
     },
     {
       "igdb_id": 162672,
@@ -937863,6 +938338,11 @@
       "file": "missing/T/162684-trainz-a-new-era-hccrrs-car-transporter.json"
     },
     {
+      "igdb_id": 162629,
+      "game_name": "Trainz: A New Era - Indiana Railroad EMD SD9043MAC",
+      "file": "missing/T/162629-trainz-a-new-era-indiana-railroad-emd-sd9043mac.json"
+    },
+    {
       "igdb_id": 162667,
       "game_name": "Trainz: A New Era - ITC GP7 Phase I & II (2 Pack)",
       "file": "missing/T/162667-trainz-a-new-era-itc-gp7-phase-i-and-ii-2-pack.json"
@@ -937876,6 +938356,11 @@
       "igdb_id": 162668,
       "game_name": "Trainz: A New Era - Laaers Car Transporter",
       "file": "missing/T/162668-trainz-a-new-era-laaers-car-transporter.json"
+    },
+    {
+      "igdb_id": 162631,
+      "game_name": "Trainz: A New Era - Newcastle Shunter",
+      "file": "missing/T/162631-trainz-a-new-era-newcastle-shunter.json"
     },
     {
       "igdb_id": 162673,
@@ -938003,6 +938488,11 @@
       "file": "missing/T/162674-trainz-a-new-era-shmmns-coil-transporter.json"
     },
     {
+      "igdb_id": 162627,
+      "game_name": "Trainz: A New Era - Shortline Railroad",
+      "file": "missing/T/162627-trainz-a-new-era-shortline-railroad.json"
+    },
+    {
       "igdb_id": 162691,
       "game_name": "Trainz: A New Era - SNCF: AGC Languedoc",
       "file": "missing/T/162691-trainz-a-new-era-sncf-agc-languedoc.json"
@@ -938021,6 +938511,11 @@
       "igdb_id": 162687,
       "game_name": "Trainz: A New Era - Victorian Railways Type 2 DD Class Pack",
       "file": "missing/T/162687-trainz-a-new-era-victorian-railways-type-2-dd-class-pack.json"
+    },
+    {
+      "igdb_id": 162628,
+      "game_name": "Trainz: A New Era - Willamette & Pacific SD7 #1501",
+      "file": "missing/T/162628-trainz-a-new-era-willamette-and-pacific-sd7-1501.json"
     },
     {
       "igdb_id": 27895,
@@ -1023521,6 +1024016,11 @@
       "igdb_id": 143685,
       "game_name": "Zombie Army 4: Dead War - Mission 6: Dead Zeppelin",
       "file": "missing/Z/143685-zombie-army-4-dead-war-mission-6-dead-zeppelin.json"
+    },
+    {
+      "igdb_id": 162621,
+      "game_name": "Zombie Army 4: Dead War - Mission 9: Return to Hell",
+      "file": "missing/Z/162621-zombie-army-4-dead-war-mission-9-return-to-hell.json"
     },
     {
       "igdb_id": 163352,
