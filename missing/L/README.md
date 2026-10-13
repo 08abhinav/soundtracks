@@ -2663,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letux Game | 199469 | [199469-letux-game.json](./199469-letux-game.json) |
 | Letzte Worte VR | 111587 | [111587-letzte-worte-vr.json](./111587-letzte-worte-vr.json) |
 | Leucistic Wyvern | 266657 | [266657-leucistic-wyvern.json](./266657-leucistic-wyvern.json) |
+| Levaluhta | 155380 | [155380-levaluhta.json](./155380-levaluhta.json) |
 | Levana Horror Tale | 316356 | [316356-levana-horror-tale.json](./316356-levana-horror-tale.json) |
 | Levania | 367018 | [367018-levania.json](./367018-levania.json) |
 | Levantar La Botella | 364512 | [364512-levantar-la-botella.json](./364512-levantar-la-botella.json) |
