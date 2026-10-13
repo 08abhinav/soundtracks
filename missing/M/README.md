@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machina of the Planet Tree: Flying Dreamer | 59940 | [59940-machina-of-the-planet-tree-flying-dreamer.json](./59940-machina-of-the-planet-tree-flying-dreamer.json) |
 | Machinaero | 240837 | [240837-machinaero.json](./240837-machinaero.json) |
 | Machinarium | 264876 | [264876-machinarium.json](./264876-machinarium.json) |
+| Machinarium & Creaks Bundle | 164571 | [164571-machinarium-and-creaks-bundle.json](./164571-machinarium-and-creaks-bundle.json) |
 | Machindranaath Raath Game | 214702 | [214702-machindranaath-raath-game.json](./214702-machindranaath-raath-game.json) |
 | Machine Armor Zero | 244255 | [244255-machine-armor-zero.json](./244255-machine-armor-zero.json) |
 | Machine Cave | 141105 | [141105-machine-cave.json](./141105-machine-cave.json) |
@@ -10263,6 +10264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter: World - Digital Deluxe Edition | 81354 | [81354-monster-hunter-world-digital-deluxe-edition.json](./81354-monster-hunter-world-digital-deluxe-edition.json) |
 | Monster Hunter: World - Iceborne | 113344 | [113344-monster-hunter-world-iceborne.json](./113344-monster-hunter-world-iceborne.json) |
 | Monster Hunter: World - Iceborne Deluxe Kit | 148509 | [148509-monster-hunter-world-iceborne-deluxe-kit.json](./148509-monster-hunter-world-iceborne-deluxe-kit.json) |
+| Monster Hunter: World - Iceborne: Complete Handler Costume Pack | 164577 | [164577-monster-hunter-world-iceborne-complete-handler-costume-pack.json](./164577-monster-hunter-world-iceborne-complete-handler-costume-pack.json) |
 | Monster Hunter: World - Iceborne: Master Edition Digital Deluxe | 164814 | [164814-monster-hunter-world-iceborne-master-edition-digital-deluxe.json](./164814-monster-hunter-world-iceborne-master-edition-digital-deluxe.json) |
 | Monster Hunter: World - Steelbook Edition | 81355 | [81355-monster-hunter-world-steelbook-edition.json](./81355-monster-hunter-world-steelbook-edition.json) |
 | Monster Hunting: Incremental Grind Forever | 341332 | [341332-monster-hunting-incremental-grind-forever.json](./341332-monster-hunting-incremental-grind-forever.json) |
@@ -12143,6 +12145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr.Chip | 297348 | [297348-mr-chip.json](./297348-mr-chip.json) |
 | Mr.Egg: Adventure | 211647 | [211647-mr-egg-adventure.json](./211647-mr-egg-adventure.json) |
 | Mr.Jezko | 86579 | [86579-mr-jezko.json](./86579-mr-jezko.json) |
+| Mr.Knight | 164595 | [164595-mr-knight.json](./164595-mr-knight.json) |
 | MR.KungFu | 174737 | [174737-mr-kungfu.json](./174737-mr-kungfu.json) |
 | Mr.Mag: The Dark Side Within | 414535 | [414535-mr-mag-the-dark-side-within.json](./414535-mr-mag-the-dark-side-within.json) |
 | Mr.Mine | 157130 | [157130-mr-mine.json](./157130-mr-mine.json) |
