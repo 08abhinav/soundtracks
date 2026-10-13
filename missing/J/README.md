@@ -2354,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpy: A Very Hard Game | 28098 | [28098-jumpy-a-very-hard-game.json](./28098-jumpy-a-very-hard-game.json) |
 | Juna: The Dreamwalker | 260315 | [260315-juna-the-dreamwalker.json](./260315-juna-the-dreamwalker.json) |
 | Junction | 109032 | [109032-junction.json](./109032-junction.json) |
+| June | 147218 | [147218-june.json](./147218-june.json) |
 | June | 203676 | [203676-june.json](./203676-june.json) |
 | june 18 2024 (White people in China) | 318232 | [318232-june-18-2024-white-people-in-china.json](./318232-june-18-2024-white-people-in-china.json) |
 | June 30th | 229591 | [229591-june-30th.json](./229591-june-30th.json) |
@@ -2496,6 +2497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Dinosaur | 252148 | [252148-jurassic-dinosaur.json](./252148-jurassic-dinosaur.json) |
 | Jurassic Excite | 146779 | [146779-jurassic-excite.json](./146779-jurassic-excite.json) |
 | Jurassic Extinction | 150250 | [150250-jurassic-extinction.json](./150250-jurassic-extinction.json) |
+| Jurassic Fantasy | 149859 | [149859-jurassic-fantasy.json](./149859-jurassic-fantasy.json) |
 | Jurassic Fossil & Mine Exploration Bundle | 401122 | [401122-jurassic-fossil-and-mine-exploration-bundle.json](./401122-jurassic-fossil-and-mine-exploration-bundle.json) |
 | Jurassic Free Fall - Match 3 | 87102 | [87102-jurassic-free-fall-match-3.json](./87102-jurassic-free-fall-match-3.json) |
 | Jurassic Genesis: We Are Aliens | 411586 | [411586-jurassic-genesis-we-are-aliens.json](./411586-jurassic-genesis-we-are-aliens.json) |
