@@ -527,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Honor: Shooter of Warfare | 328095 | [328095-call-of-honor-shooter-of-warfare.json](./328095-call-of-honor-shooter-of-warfare.json) |
 | Call of Juarez | 429 | [429-call-of-juarez.json](./429-call-of-juarez.json) |
 | Call of Juarez: Bound In Blood | 430 | [430-call-of-juarez-bound-in-blood.json](./430-call-of-juarez-bound-in-blood.json) |
+| Call of Knights | 159541 | [159541-call-of-knights.json](./159541-call-of-knights.json) |
 | Call of Mini: Zombies 2 | 233407 | [233407-call-of-mini-zombies-2.json](./233407-call-of-mini-zombies-2.json) |
 | Call of Myth | 153969 | [153969-call-of-myth.json](./153969-call-of-myth.json) |
 | Call of Nature: Jigsaw Puzzle | 103531 | [103531-call-of-nature-jigsaw-puzzle.json](./103531-call-of-nature-jigsaw-puzzle.json) |
@@ -2581,6 +2582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Walker Simulator | 176439 | [176439-cat-walker-simulator.json](./176439-cat-walker-simulator.json) |
 | Cat Warfare | 107806 | [107806-cat-warfare.json](./107806-cat-warfare.json) |
 | Cat Warrior | 281983 | [281983-cat-warrior.json](./281983-cat-warrior.json) |
+| Cat Way Domino | 159552 | [159552-cat-way-domino.json](./159552-cat-way-domino.json) |
 | Cat With Gun | 363369 | [363369-cat-with-gun.json](./363369-cat-with-gun.json) |
 | Cat Word Poker | 131313 | [131313-cat-word-poker.json](./131313-cat-word-poker.json) |
 | Cat-aclysm | 251948 | [251948-cat-aclysm.json](./251948-cat-aclysm.json) |
@@ -2816,6 +2818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catloaf Kart Racing | 382564 | [382564-catloaf-kart-racing.json](./382564-catloaf-kart-racing.json) |
 | Catloons | 240204 | [240204-catloons.json](./240204-catloons.json) |
 | Catly | 325592 | [325592-catly.json](./325592-catly.json) |
+| CatMafia | 158931 | [158931-catmafia.json](./158931-catmafia.json) |
 | Catmageddon | 152882 | [152882-catmageddon.json](./152882-catmageddon.json) |
 | Catman: Gimmick Action Game | 161368 | [161368-catman-gimmick-action-game.json](./161368-catman-gimmick-action-game.json) |
 | Catmaze | 74686 | [74686-catmaze.json](./74686-catmaze.json) |
@@ -3425,6 +3428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CH Retro Episode | 313158 | [313158-ch-retro-episode.json](./313158-ch-retro-episode.json) |
 | Ch1mpnotic | 141686 | [141686-ch1mpnotic.json](./141686-ch1mpnotic.json) |
 | Cha-no-Ma | 358483 | [358483-cha-no-ma.json](./358483-cha-no-ma.json) |
+| Chacal | 159563 | [159563-chacal.json](./159563-chacal.json) |
 | Chacha Fighter V | 98258 | [98258-chacha-fighter-v.json](./98258-chacha-fighter-v.json) |
 | Chachacha Slot | 87296 | [87296-chachacha-slot.json](./87296-chachacha-slot.json) |
 | Chack'n Pop | 6103 | [6103-chackn-pop.json](./6103-chackn-pop.json) |
@@ -4284,6 +4288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Twist | 284967 | [284967-chess-twist.json](./284967-chess-twist.json) |
 | Chess Undress | 260338 | [260338-chess-undress.json](./260338-chess-undress.json) |
 | Chess Universe | 357416 | [357416-chess-universe.json](./357416-chess-universe.json) |
+| Chess Valley | 159534 | [159534-chess-valley.json](./159534-chess-valley.json) |
 | Chess vs. Chat | 203930 | [203930-chess-vs-chat.json](./203930-chess-vs-chat.json) |
 | Chess With Friends | 79921 | [79921-chess-with-friends.json](./79921-chess-with-friends.json) |
 | Chess With Idiots | 371978 | [371978-chess-with-idiots.json](./371978-chess-with-idiots.json) |
@@ -9454,6 +9459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corona Blossom Vol.3 Journey to the Stars | 30334 | [30334-corona-blossom-vol-3-journey-to-the-stars.json](./30334-corona-blossom-vol-3-journey-to-the-stars.json) |
 | Corona Borealis | 113186 | [113186-corona-borealis.json](./113186-corona-borealis.json) |
 | Corona Frustration Elimination | 165001 | [165001-corona-frustration-elimination.json](./165001-corona-frustration-elimination.json) |
+| Corona Kombat | 159582 | [159582-corona-kombat.json](./159582-corona-kombat.json) |
 | Corona MotorSport | 35926 | [35926-corona-motorsport.json](./35926-corona-motorsport.json) |
 | Corona Simulator: Savior Edition | 165004 | [165004-corona-simulator-savior-edition.json](./165004-corona-simulator-savior-edition.json) |
 | Coronarun | 156704 | [156704-coronarun.json](./156704-coronarun.json) |
@@ -9921,6 +9927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countless Rooms of Death | 35945 | [35945-countless-rooms-of-death.json](./35945-countless-rooms-of-death.json) |
 | Countries of the World | 137489 | [137489-countries-of-the-world.json](./137489-countries-of-the-world.json) |
 | Countrified | 126423 | [126423-countrified.json](./126423-countrified.json) |
+| Country Adventure | 158927 | [158927-country-adventure.json](./158927-country-adventure.json) |
 | Country Architect | 376445 | [376445-country-architect.json](./376445-country-architect.json) |
 | Country Bumpkin Yutaka | 244159 | [244159-country-bumpkin-yutaka.json](./244159-country-bumpkin-yutaka.json) |
 | Country Champs | 211903 | [211903-country-champs.json](./211903-country-champs.json) |
@@ -10474,6 +10481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Pollito | 268521 | [268521-crash-pollito.json](./268521-crash-pollito.json) |
 | Crash Presents September 1990 | 73356 | [73356-crash-presents-september-1990.json](./73356-crash-presents-september-1990.json) |
 | Crash Puzzle Hammer-San | 319851 | [319851-crash-puzzle-hammer-san.json](./319851-crash-puzzle-hammer-san.json) |
+| Crash Racing | 159556 | [159556-crash-racing.json](./159556-crash-racing.json) |
 | Crash Tag Team Racing | 1194 | [1194-crash-tag-team-racing.json](./1194-crash-tag-team-racing.json) |
 | Crash Tag Team Racing | 248550 | [248550-crash-tag-team-racing.json](./248550-crash-tag-team-racing.json) |
 | Crash Team Racing Nitro-Fueled | 113113 | [113113-crash-team-racing-nitro-fueled.json](./113113-crash-team-racing-nitro-fueled.json) |
@@ -10894,6 +10902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Create Real Games | 89283 | [89283-create-real-games.json](./89283-create-real-games.json) |
 | Create With Garfield! | 67238 | [67238-create-with-garfield.json](./67238-create-with-garfield.json) |
 | Create Your Own Caricature with Spitting Image | 66359 | [66359-create-your-own-caricature-with-spitting-image.json](./66359-create-your-own-caricature-with-spitting-image.json) |
+| Create Your Own Model Railway | 158939 | [158939-create-your-own-model-railway.json](./158939-create-your-own-model-railway.json) |
 | Create: Above and Beyond | 331400 | [331400-create-above-and-beyond.json](./331400-create-above-and-beyond.json) |
 | CreateTech | 127359 | [127359-createtech.json](./127359-createtech.json) |
 | Creatio Ex Nihilo II: Deus Otiosus | 81762 | [81762-creatio-ex-nihilo-ii-deus-otiosus.json](./81762-creatio-ex-nihilo-ii-deus-otiosus.json) |
@@ -12677,6 +12686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of the Lich King | 178005 | [178005-curse-of-the-lich-king.json](./178005-curse-of-the-lich-king.json) |
 | Curse of The Lineage | 375835 | [375835-curse-of-the-lineage.json](./375835-curse-of-the-lineage.json) |
 | Curse of the Pharaoh: Napoleon's Secret | 208843 | [208843-curse-of-the-pharaoh-napoleons-secret.json](./208843-curse-of-the-pharaoh-napoleons-secret.json) |
+| Curse of the Pharaoh: Tears of Sekhmet | 158940 | [158940-curse-of-the-pharaoh-tears-of-sekhmet.json](./158940-curse-of-the-pharaoh-tears-of-sekhmet.json) |
 | Curse of the Pharaoh: The Quest for Nefertiti | 70043 | [70043-curse-of-the-pharaoh-the-quest-for-nefertiti.json](./70043-curse-of-the-pharaoh-the-quest-for-nefertiti.json) |
 | Curse of the Sea Rats | 121712 | [121712-curse-of-the-sea-rats.json](./121712-curse-of-the-sea-rats.json) |
 | Curse of the Shadow | 390519 | [390519-curse-of-the-shadow.json](./390519-curse-of-the-shadow.json) |
