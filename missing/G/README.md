@@ -2672,6 +2672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giant Bundle | 193741 | [193741-giant-bundle.json](./193741-giant-bundle.json) |
 | Giant Chase | 272446 | [272446-giant-chase.json](./272446-giant-chase.json) |
 | Giant Cutter | 124571 | [124571-giant-cutter.json](./124571-giant-cutter.json) |
+| Giant Dancing Plushies | 175140 | [175140-giant-dancing-plushies.json](./175140-giant-dancing-plushies.json) |
 | Giant Defense | 249912 | [249912-giant-defense.json](./249912-giant-defense.json) |
 | Giant Hornet | 276661 | [276661-giant-hornet.json](./276661-giant-hornet.json) |
 | Giant Life | 118342 | [118342-giant-life.json](./118342-giant-life.json) |
@@ -3193,6 +3194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitchspankr | 282076 | [282076-glitchspankr.json](./282076-glitchspankr.json) |
 | Glitter Justice | 251757 | [251757-glitter-justice.json](./251757-glitter-justice.json) |
 | Glitter Slime Maker | 106370 | [106370-glitter-slime-maker.json](./106370-glitter-slime-maker.json) |
+| Glitter Star Nucleus | 174600 | [174600-glitter-star-nucleus.json](./174600-glitter-star-nucleus.json) |
 | Glittering Sword | 143112 | [143112-glittering-sword.json](./143112-glittering-sword.json) |
 | Glix | 264547 | [264547-glix.json](./264547-glix.json) |
 | Glo | 165591 | [165591-glo.json](./165591-glo.json) |
@@ -5717,6 +5719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Field Silver Tree | 117689 | [117689-green-field-silver-tree.json](./117689-green-field-silver-tree.json) |
 | Green Game: TimeSwapper | 33753 | [33753-green-game-timeswapper.json](./33753-green-game-timeswapper.json) |
 | Green Garden | 226359 | [226359-green-garden.json](./226359-green-garden.json) |
+| Green Glass | 174609 | [174609-green-glass.json](./174609-green-glass.json) |
 | Green Guy Goes Grappling 2 | 255065 | [255065-green-guy-goes-grappling-2.json](./255065-green-guy-goes-grappling-2.json) |
 | Green Hawk Down | 211978 | [211978-green-hawk-down.json](./211978-green-hawk-down.json) |
 | Green Hawk Platoon | 215014 | [215014-green-hawk-platoon.json](./215014-green-hawk-platoon.json) |
