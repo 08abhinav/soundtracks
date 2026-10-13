@@ -2270,6 +2270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | March of War: StormSiege | 170494 | [170494-march-of-war-stormsiege.json](./170494-march-of-war-stormsiege.json) |
 | March to a Million | 56730 | [56730-march-to-a-million.json](./56730-march-to-a-million.json) |
 | March to the Heart | 349313 | [349313-march-to-the-heart.json](./349313-march-to-the-heart.json) |
+| March! March! | 173197 | [173197-march-march.json](./173197-march-march.json) |
 | March! Offworld Recon | 92318 | [92318-march-offworld-recon.json](./92318-march-offworld-recon.json) |
 | Märchen Forest | 181313 | [181313-marchen-forest.json](./181313-marchen-forest.json) |
 | Märchen Forest: Mylne and the Forest Gift - Limited Edition | 167095 | [167095-marchen-forest-mylne-and-the-forest-gift-limited-edition.json](./167095-marchen-forest-mylne-and-the-forest-gift-limited-edition.json) |
@@ -11159,6 +11160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat: Warrior Kenshi | 388955 | [388955-mortal-kombat-warrior-kenshi.json](./388955-mortal-kombat-warrior-kenshi.json) |
 | Mortal Online 2 | 127546 | [127546-mortal-online-2.json](./127546-mortal-online-2.json) |
 | Mortal Quest | 333130 | [333130-mortal-quest.json](./333130-mortal-quest.json) |
+| Mortal Rite | 173012 | [173012-mortal-rite.json](./173012-mortal-rite.json) |
 | Mortal Shell | 132050 | [132050-mortal-shell.json](./132050-mortal-shell.json) |
 | Mortal Shell II | 347633 | [347633-mortal-shell-ii.json](./347633-mortal-shell-ii.json) |
 | Mortal Shell: Complete Edition | 229693 | [229693-mortal-shell-complete-edition.json](./229693-mortal-shell-complete-edition.json) |
@@ -13905,6 +13907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious warrior | 165679 | [165679-mysterious-warrior.json](./165679-mysterious-warrior.json) |
 | Mystery | 167267 | [167267-mystery.json](./167267-mystery.json) |
 | Mystery Adventure The Maid Did It | 402378 | [402378-mystery-adventure-the-maid-did-it.json](./402378-mystery-adventure-the-maid-did-it.json) |
+| Mystery at Morgoth | 173008 | [173008-mystery-at-morgoth.json](./173008-mystery-at-morgoth.json) |
 | Mystery at Rainy Night Manor: The Missing Invitation | 409657 | [409657-mystery-at-rainy-night-manor-the-missing-invitation.json](./409657-mystery-at-rainy-night-manor-the-missing-invitation.json) |
 | Mystery At Woodbrook Hall: Hidden Object Game | 197743 | [197743-mystery-at-woodbrook-hall-hidden-object-game.json](./197743-mystery-at-woodbrook-hall-hidden-object-game.json) |
 | Mystery Box 4-in-1 Bundle | 328508 | [328508-mystery-box-4-in-1-bundle.json](./328508-mystery-box-4-in-1-bundle.json) |
