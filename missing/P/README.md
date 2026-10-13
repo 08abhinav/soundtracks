@@ -5019,6 +5019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of the Caribbean: New Horizons | 310699 | [310699-pirates-of-the-caribbean-new-horizons.json](./310699-pirates-of-the-caribbean-new-horizons.json) |
 | Pirates of the Caribbean: The Curse of the Black Pearl | 19218 | [19218-pirates-of-the-caribbean-the-curse-of-the-black-pearl.json](./19218-pirates-of-the-caribbean-the-curse-of-the-black-pearl.json) |
 | Pirates of the Caribbean: Tides of War | 97500 | [97500-pirates-of-the-caribbean-tides-of-war.json](./97500-pirates-of-the-caribbean-tides-of-war.json) |
+| Pirates of the Sea | 165770 | [165770-pirates-of-the-sea.json](./165770-pirates-of-the-sea.json) |
 | Pirates on Target | 187536 | [187536-pirates-on-target.json](./187536-pirates-on-target.json) |
 | Pirates Outlaws 2: Heritage | 320892 | [320892-pirates-outlaws-2-heritage.json](./320892-pirates-outlaws-2-heritage.json) |
 | Pirates Overboard | 185533 | [185533-pirates-overboard.json](./185533-pirates-overboard.json) |
@@ -8716,6 +8717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Off | 406913 | [406913-power-off.json](./406913-power-off.json) |
 | Power On: Energy Flow | 292816 | [292816-power-on-energy-flow.json](./292816-power-on-energy-flow.json) |
 | Power Overwhelming | 30739 | [30739-power-overwhelming.json](./30739-power-overwhelming.json) |
+| Power Pals | 165728 | [165728-power-pals.json](./165728-power-pals.json) |
 | Power Peach Sis. | 48562 | [48562-power-peach-sis.json](./48562-power-peach-sis.json) |
 | Power Pegged | 80799 | [80799-power-pegged.json](./80799-power-pegged.json) |
 | Power Pete | 47272 | [47272-power-pete.json](./47272-power-pete.json) |
@@ -8931,6 +8933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prank Masters | 108030 | [108030-prank-masters.json](./108030-prank-masters.json) |
 | Prank TV | 73502 | [73502-prank-tv.json](./73502-prank-tv.json) |
 | Prank Your Neighbor | 68076 | [68076-prank-your-neighbor.json](./68076-prank-your-neighbor.json) |
+| Prank! | 165775 | [165775-prank.json](./165775-prank.json) |
 | Prank'd: Prank Your Way Around the World | 209928 | [209928-prankd-prank-your-way-around-the-world.json](./209928-prankd-prank-your-way-around-the-world.json) |
 | Pranksters: Treasure of the Indians | 322570 | [322570-pranksters-treasure-of-the-indians.json](./322570-pranksters-treasure-of-the-indians.json) |
 | Pranksterz: From Russia With Love | 23195 | [23195-pranksterz-from-russia-with-love.json](./23195-pranksterz-from-russia-with-love.json) |
@@ -9373,6 +9376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Dating Sim | 225216 | [225216-princess-dating-sim.json](./225216-princess-dating-sim.json) |
 | Princess Debut | 21225 | [21225-princess-debut.json](./21225-princess-debut.json) |
 | Princess Edge: Dragonstone | 26525 | [26525-princess-edge-dragonstone.json](./26525-princess-edge-dragonstone.json) |
+| Princess Erch | 165741 | [165741-princess-erch.json](./165741-princess-erch.json) |
 | Princess escape | 174119 | [174119-princess-escape.json](./174119-princess-escape.json) |
 | Princess Evangile W Happiness | 140525 | [140525-princess-evangile-w-happiness.json](./140525-princess-evangile-w-happiness.json) |
 | Princess Evangile W Happiness | 43360 | [43360-princess-evangile-w-happiness.json](./43360-princess-evangile-w-happiness.json) |
@@ -11237,6 +11241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punk Wars | 150059 | [150059-punk-wars.json](./150059-punk-wars.json) |
 | Punk Wars: Threat From Within | 201015 | [201015-punk-wars-threat-from-within.json](./201015-punk-wars-threat-from-within.json) |
 | Punk-o-Matic | 243144 | [243144-punk-o-matic.json](./243144-punk-o-matic.json) |
+| Punkgrad | 165743 | [165743-punkgrad.json](./165743-punkgrad.json) |
 | Punks Not Dead | 83938 | [83938-punks-not-dead.json](./83938-punks-not-dead.json) |
 | Punky Skunk | 44881 | [44881-punky-skunk.json](./44881-punky-skunk.json) |
 | PunPics | 233217 | [233217-punpics.json](./233217-punpics.json) |
