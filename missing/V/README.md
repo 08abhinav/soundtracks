@@ -1064,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Versus Umbra | 165493 | [165493-versus-umbra.json](./165493-versus-umbra.json) |
 | Versus Vampire | 257923 | [257923-versus-vampire.json](./257923-versus-vampire.json) |
 | Versus: Boys and Girls | 233062 | [233062-versus-boys-and-girls.json](./233062-versus-boys-and-girls.json) |
+| Versus: The Deathscapes | 157414 | [157414-versus-the-deathscapes.json](./157414-versus-the-deathscapes.json) |
 | Versus: The Lost Ones | 34598 | [34598-versus-the-lost-ones.json](./34598-versus-the-lost-ones.json) |
 | Versus. | 201700 | [201700-versus.json](./201700-versus.json) |
 | VertalStrike | 400892 | [400892-vertalstrike.json](./400892-vertalstrike.json) |
@@ -2151,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Lands | 322245 | [322245-void-lands.json](./322245-void-lands.json) |
 | Void Light | 387363 | [387363-void-light.json](./387363-void-light.json) |
 | Void Link | 81252 | [81252-void-link.json](./81252-void-link.json) |
+| Void Marauders | 157386 | [157386-void-marauders.json](./157386-void-marauders.json) |
 | Void Martyrs | 335686 | [335686-void-martyrs.json](./335686-void-martyrs.json) |
 | Void Memory | 74618 | [74618-void-memory.json](./74618-void-memory.json) |
 | Void Miner | 385580 | [385580-void-miner.json](./385580-void-miner.json) |
