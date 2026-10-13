@@ -5444,6 +5444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Detroit After | 199123 | [199123-the-detroit-after.json](./199123-the-detroit-after.json) |
 | The Dev: Enter The Blockchain | 372075 | [372075-the-dev-enter-the-blockchain.json](./372075-the-dev-enter-the-blockchain.json) |
 | The DeviantArt Grind | 369464 | [369464-the-deviantart-grind.json](./369464-the-deviantart-grind.json) |
+| The Devil | 177806 | [177806-the-devil.json](./177806-the-devil.json) |
 | The Devil & the Deep Blue Sea | 194434 | [194434-the-devil-and-the-deep-blue-sea.json](./194434-the-devil-and-the-deep-blue-sea.json) |
 | The Devil Rais’d the Storm | 349883 | [349883-the-devil-rais-d-the-storm.json](./349883-the-devil-rais-d-the-storm.json) |
 | The Devil Within | 314049 | [314049-the-devil-within.json](./314049-the-devil-within.json) |
@@ -10325,6 +10326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Salatroisk Incident | 216168 | [216168-the-salatroisk-incident.json](./216168-the-salatroisk-incident.json) |
 | The Salatroitsk Incident | 180807 | [180807-the-salatroitsk-incident.json](./180807-the-salatroitsk-incident.json) |
 | The Salt Fortress | 28860 | [28860-the-salt-fortress.json](./28860-the-salt-fortress.json) |
+| The Salvation Project | 177977 | [177977-the-salvation-project.json](./177977-the-salvation-project.json) |
 | The Samaritan Paradox | 18642 | [18642-the-samaritan-paradox.json](./18642-the-samaritan-paradox.json) |
 | The Same World 2 | 214022 | [214022-the-same-world-2.json](./214022-the-same-world-2.json) |
 | The Sandbox | 16872 | [16872-the-sandbox.json](./16872-the-sandbox.json) |
@@ -12819,6 +12821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Was Something In That Room | 338273 | [338273-there-was-something-in-that-room.json](./338273-there-was-something-in-that-room.json) |
 | There Was the Moon | 135628 | [135628-there-was-the-moon.json](./135628-there-was-the-moon.json) |
 | There Will Be Light | 347186 | [347186-there-will-be-light.json](./347186-there-will-be-light.json) |
+| There You Are | 177794 | [177794-there-you-are.json](./177794-there-you-are.json) |
 | There's a Bear Outside | 177358 | [177358-theres-a-bear-outside.json](./177358-theres-a-bear-outside.json) |
 | There's a Butcher Around | 118016 | [118016-theres-a-butcher-around.json](./118016-theres-a-butcher-around.json) |
 | There's a Rikishi in my House | 199613 | [199613-theres-a-rikishi-in-my-house.json](./199613-theres-a-rikishi-in-my-house.json) |
@@ -15081,6 +15084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeSplitters 2 | 317414 | [317414-timesplitters-2.json](./317414-timesplitters-2.json) |
 | TimeSplitters: Future Perfect | 317416 | [317416-timesplitters-future-perfect.json](./317416-timesplitters-future-perfect.json) |
 | Timestamps: Lost Love | 310041 | [310041-timestamps-lost-love.json](./310041-timestamps-lost-love.json) |
+| TimeTrade | 177782 | [177782-timetrade.json](./177782-timetrade.json) |
 | TimeTrain | 328629 | [328629-timetrain.json](./328629-timetrain.json) |
 | TimeWalker | 117607 | [117607-timewalker.json](./117607-timewalker.json) |
 | TimeWarp | 240909 | [240909-timewarp.json](./240909-timewarp.json) |
@@ -15268,6 +15272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Isle | 374794 | [374794-tiny-isle.json](./374794-tiny-isle.json) |
 | Tiny Jar Farm | 384864 | [384864-tiny-jar-farm.json](./384864-tiny-jar-farm.json) |
 | Tiny Jukebox | 279857 | [279857-tiny-jukebox.json](./279857-tiny-jukebox.json) |
+| Tiny Jump | 177795 | [177795-tiny-jump.json](./177795-tiny-jump.json) |
 | Tiny Jump | 254559 | [254559-tiny-jump.json](./254559-tiny-jump.json) |
 | Tiny Jumper | 109922 | [109922-tiny-jumper.json](./109922-tiny-jumper.json) |
 | Tiny Kingdom | 183852 | [183852-tiny-kingdom.json](./183852-tiny-kingdom.json) |
@@ -21164,6 +21169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV Empire Tycoon | 169798 | [169798-tv-empire-tycoon.json](./169798-tv-empire-tycoon.json) |
 | TV Farm | 355530 | [355530-tv-farm.json](./355530-tv-farm.json) |
 | TV Guide | 135699 | [135699-tv-guide.json](./135699-tv-guide.json) |
+| TV Night | 177800 | [177800-tv-night.json](./177800-tv-night.json) |
 | TV no Himitsu: Gyoukai Aruaru wo Sagase! | 251627 | [251627-tv-no-himitsu-gyoukai-aruaru-wo-sagase.json](./251627-tv-no-himitsu-gyoukai-aruaru-wo-sagase.json) |
 | TV Show King | 21825 | [21825-tv-show-king.json](./21825-tv-show-king.json) |
 | TV Show King 2 | 50724 | [50724-tv-show-king-2.json](./50724-tv-show-king-2.json) |
@@ -21582,6 +21588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type King | 250477 | [250477-type-king.json](./250477-type-king.json) |
 | Type the Entire of Ulysses. That's It. That's the Game. | 198526 | [198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json](./198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json) |
 | Type the Rhythm | 389582 | [389582-type-the-rhythm.json](./389582-type-the-rhythm.json) |
+| Type to Continue | 177971 | [177971-type-to-continue.json](./177971-type-to-continue.json) |
 | Type to Learn 3 | 186073 | [186073-type-to-learn-3.json](./186073-type-to-learn-3.json) |
 | Type: Jump | 242076 | [242076-type-jump.json](./242076-type-jump.json) |
 | Type: Turbo | 391740 | [391740-type-turbo.json](./391740-type-turbo.json) |
