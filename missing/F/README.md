@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Engineer | 31796 | [31796-factory-engineer.json](./31796-factory-engineer.json) |
 | Factory Farming | 230737 | [230737-factory-farming.json](./230737-factory-farming.json) |
 | Factory Inc. | 251230 | [251230-factory-inc.json](./251230-factory-inc.json) |
+| Factory Manager Simulator | 164053 | [164053-factory-manager-simulator.json](./164053-factory-manager-simulator.json) |
 | Factory missions | 101744 | [101744-factory-missions.json](./101744-factory-missions.json) |
 | Factory Mogul | 76148 | [76148-factory-mogul.json](./76148-factory-mogul.json) |
 | Factory of Monsters | 104152 | [104152-factory-of-monsters.json](./104152-factory-of-monsters.json) |
