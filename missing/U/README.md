@@ -1328,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underworld Football Manager | 233739 | [233739-underworld-football-manager.json](./233739-underworld-football-manager.json) |
 | Underworld Idle | 148982 | [148982-underworld-idle.json](./148982-underworld-idle.json) |
 | Underworld Island | 223455 | [223455-underworld-island.json](./223455-underworld-island.json) |
+| Underworld Memories | 150940 | [150940-underworld-memories.json](./150940-underworld-memories.json) |
 | Underworld Overlord | 58490 | [58490-underworld-overlord.json](./58490-underworld-overlord.json) |
 | Underworld Re: Card | 213050 | [213050-underworld-re-card.json](./213050-underworld-re-card.json) |
 | Underworld Tycoon | 348764 | [348764-underworld-tycoon.json](./348764-underworld-tycoon.json) |
