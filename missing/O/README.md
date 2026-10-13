@@ -1425,6 +1425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onder | 159781 | [159781-onder.json](./159781-onder.json) |
 | One | 247411 | [247411-one.json](./247411-one.json) |
 | One | 78060 | [78060-one.json](./78060-one.json) |
+| One Action Heroes | 177259 | [177259-one-action-heroes.json](./177259-one-action-heroes.json) |
 | One Armed Bandit | 236354 | [236354-one-armed-bandit.json](./236354-one-armed-bandit.json) |
 | One Barbarian Futa Tribe Chapter 1: Violet | 297170 | [297170-one-barbarian-futa-tribe-chapter-1-violet.json](./297170-one-barbarian-futa-tribe-chapter-1-violet.json) |
 | One Barbarian Futa Tribe Chapter 2: Red | 297171 | [297171-one-barbarian-futa-tribe-chapter-2-red.json](./297171-one-barbarian-futa-tribe-chapter-2-red.json) |
@@ -2305,6 +2306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Armored Liberty | 49319 | [49319-operation-armored-liberty.json](./49319-operation-armored-liberty.json) |
 | Operation: Biowar | 140944 | [140944-operation-biowar.json](./140944-operation-biowar.json) |
 | Operation: Cheek Clapper | 123551 | [123551-operation-cheek-clapper.json](./123551-operation-cheek-clapper.json) |
+| Operation: Desert City | 177271 | [177271-operation-desert-city.json](./177271-operation-desert-city.json) |
 | Operation: Eronta | 236210 | [236210-operation-eronta.json](./236210-operation-eronta.json) |
 | Operation: Escape | 367768 | [367768-operation-escape.json](./367768-operation-escape.json) |
 | Operation: Get Bike Back | 270705 | [270705-operation-get-bike-back.json](./270705-operation-get-bike-back.json) |
@@ -2555,6 +2557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orchard Odyssey: Pumpkin Party | 375440 | [375440-orchard-odyssey-pumpkin-party.json](./375440-orchard-odyssey-pumpkin-party.json) |
 | Orchard Outbreak: Slime Time | 383955 | [383955-orchard-outbreak-slime-time.json](./383955-orchard-outbreak-slime-time.json) |
 | Orchestra: The Brass Fate | 223539 | [223539-orchestra-the-brass-fate.json](./223539-orchestra-the-brass-fate.json) |
+| Orchestrate | 177457 | [177457-orchestrate.json](./177457-orchestrate.json) |
 | Orchidia | 208893 | [208893-orchidia.json](./208893-orchidia.json) |
 | Orchids to Dusk | 135906 | [135906-orchids-to-dusk.json](./135906-orchids-to-dusk.json) |
 | Orcish Inn | 9679 | [9679-orcish-inn.json](./9679-orcish-inn.json) |
@@ -3615,6 +3618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overdrive City | 136934 | [136934-overdrive-city.json](./136934-overdrive-city.json) |
 | Overdrive Escape | 249296 | [249296-overdrive-escape.json](./249296-overdrive-escape.json) |
 | Overdrive II: Shadow Battle | 323169 | [323169-overdrive-ii-shadow-battle.json](./323169-overdrive-ii-shadow-battle.json) |
+| OverDrive infinite | 177260 | [177260-overdrive-infinite.json](./177260-overdrive-infinite.json) |
 | Overdriven Evolution | 207574 | [207574-overdriven-evolution.json](./207574-overdriven-evolution.json) |
 | Overdriven Reloaded | 32259 | [32259-overdriven-reloaded.json](./32259-overdriven-reloaded.json) |
 | Overdungeon | 111507 | [111507-overdungeon.json](./111507-overdungeon.json) |
