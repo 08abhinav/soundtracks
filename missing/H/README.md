@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hana to Otome ni Shukufuku wo Royal Bouquet | 60368 | [60368-hana-to-otome-ni-shukufuku-wo-royal-bouquet.json](./60368-hana-to-otome-ni-shukufuku-wo-royal-bouquet.json) |
 | Hana: Hide and Seek | 250529 | [250529-hana-hide-and-seek.json](./250529-hana-hide-and-seek.json) |
 | Hana: Spacetime Fantasy | 260715 | [260715-hana-spacetime-fantasy.json](./260715-hana-spacetime-fantasy.json) |
+| Hana's Campus Life! | 149907 | [149907-hanas-campus-life.json](./149907-hanas-campus-life.json) |
 | Hanabi | 131388 | [131388-hanabi.json](./131388-hanabi.json) |
 | Hanabi and Ghost Girl | 405738 | [405738-hanabi-and-ghost-girl.json](./405738-hanabi-and-ghost-girl.json) |
 | Hanabi Shokunin ni Narou 2 | 279782 | [279782-hanabi-shokunin-ni-narou-2.json](./279782-hanabi-shokunin-ni-narou-2.json) |
@@ -1655,6 +1656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haul My Home | 415256 | [415256-haul-my-home.json](./415256-haul-my-home.json) |
 | Haulin' Oats | 192829 | [192829-haulin-oats.json](./192829-haulin-oats.json) |
 | Hauling Away | 208276 | [208276-hauling-away.json](./208276-hauling-away.json) |
+| Hauma: A Detective Noir Story | 149867 | [149867-hauma-a-detective-noir-story.json](./149867-hauma-a-detective-noir-story.json) |
 | Hauma: A Detective Noir Story - Prologue | 271419 | [271419-hauma-a-detective-noir-story-prologue.json](./271419-hauma-a-detective-noir-story-prologue.json) |
 | Haunt | 196098 | [196098-haunt.json](./196098-haunt.json) |
 | Haunt | 20245 | [20245-haunt.json](./20245-haunt.json) |
@@ -1989,6 +1991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Soccer | 87430 | [87430-head-soccer.json](./87430-head-soccer.json) |
 | Head to Head Football | 217833 | [217833-head-to-head-football.json](./217833-head-to-head-football.json) |
 | Head Trauma | 278083 | [278083-head-trauma.json](./278083-head-trauma.json) |
+| Head Worms | 149896 | [149896-head-worms.json](./149896-head-worms.json) |
 | Head-On Soccer | 19758 | [19758-head-on-soccer.json](./19758-head-on-soccer.json) |
 | Head-to-Head Karate | 234219 | [234219-head-to-head-karate.json](./234219-head-to-head-karate.json) |
 | Head's Adventures: Chibichibi | 393116 | [393116-heads-adventures-chibichibi.json](./393116-heads-adventures-chibichibi.json) |
@@ -3632,6 +3635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hercules: The Legendary Journeys | 186028 | [186028-hercules-the-legendary-journeys.json](./186028-hercules-the-legendary-journeys.json) |
 | Herd is Coming | 118300 | [118300-herd-is-coming.json](./118300-herd-is-coming.json) |
 | Herd!!! | 234004 | [234004-herd.json](./234004-herd.json) |
+| Herder | 149862 | [149862-herder.json](./149862-herder.json) |
 | Herding Cats | 208262 | [208262-herding-cats.json](./208262-herding-cats.json) |
 | Herdyn, Wanna be MaN | 154575 | [154575-herdyn-wanna-be-man.json](./154575-herdyn-wanna-be-man.json) |
 | Here | 396372 | [396372-here.json](./396372-here.json) |
@@ -8264,6 +8268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperspace Invaders II: Pixel Edition | 20923 | [20923-hyperspace-invaders-ii-pixel-edition.json](./20923-hyperspace-invaders-ii-pixel-edition.json) |
 | Hyperspace Services | 184085 | [184085-hyperspace-services.json](./184085-hyperspace-services.json) |
 | Hyperspace Throw Patrol | 184991 | [184991-hyperspace-throw-patrol.json](./184991-hyperspace-throw-patrol.json) |
+| Hyperspace: Andy's Adventure | 149879 | [149879-hyperspace-andys-adventure.json](./149879-hyperspace-andys-adventure.json) |
 | Hyperspace: Andy's Adventure - Metal Universe | 155365 | [155365-hyperspace-andys-adventure-metal-universe.json](./155365-hyperspace-andys-adventure-metal-universe.json) |
 | Hyperspacer | 293529 | [293529-hyperspacer.json](./293529-hyperspacer.json) |
 | Hyperspeed - Race with Friends | 115450 | [115450-hyperspeed-race-with-friends.json](./115450-hyperspeed-race-with-friends.json) |
