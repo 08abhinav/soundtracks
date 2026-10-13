@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R is for Rachel | 197134 | [197134-r-is-for-rachel.json](./197134-r-is-for-rachel.json) |
 | R Line After Dark | 179455 | [179455-r-line-after-dark.json](./179455-r-line-after-dark.json) |
 | R no Shosai | 93531 | [93531-r-no-shosai.json](./93531-r-no-shosai.json) |
+| R no Shosai: Dai-Ni Maku | 134499 | [134499-r-no-shosai-dai-ni-maku.json](./134499-r-no-shosai-dai-ni-maku.json) |
 | R Place Guesser | 198339 | [198339-r-place-guesser.json](./198339-r-place-guesser.json) |
 | R Wheel | 281042 | [281042-r-wheel.json](./281042-r-wheel.json) |
 | R_sin | 117787 | [117787-r-sin.json](./117787-r-sin.json) |
@@ -3242,6 +3243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnant II: The Forgotten Kingdom | 297261 | [297261-remnant-ii-the-forgotten-kingdom.json](./297261-remnant-ii-the-forgotten-kingdom.json) |
 | Remnant Protocol | 236496 | [236496-remnant-protocol.json](./236496-remnant-protocol.json) |
 | Remnant: From the Ashes - Swamps of Corsus | 132138 | [132138-remnant-from-the-ashes-swamps-of-corsus.json](./132138-remnant-from-the-ashes-swamps-of-corsus.json) |
+| Remnants | 134335 | [134335-remnants.json](./134335-remnants.json) |
 | Remnants | 168318 | [168318-remnants.json](./168318-remnants.json) |
 | Remnants of a Scare | 387611 | [387611-remnants-of-a-scare.json](./387611-remnants-of-a-scare.json) |
 | Remnants of Flesh | 322608 | [322608-remnants-of-flesh.json](./322608-remnants-of-flesh.json) |
@@ -5754,6 +5756,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Wrestle 2001 | 40422 | [40422-robo-wrestle-2001.json](./40422-robo-wrestle-2001.json) |
 | Robo-Boy Risky Venture | 165759 | [165759-robo-boy-risky-venture.json](./165759-robo-boy-risky-venture.json) |
 | Robo-Key | 181803 | [181803-robo-key.json](./181803-robo-key.json) |
+| Robo-Ninja | 134353 | [134353-robo-ninja.json](./134353-robo-ninja.json) |
+| Robo-Ninja Climb | 134354 | [134354-robo-ninja-climb.json](./134354-robo-ninja-climb.json) |
 | Robo-Summit | 180683 | [180683-robo-summit.json](./180683-robo-summit.json) |
 | Robo-tea: 1cup! | 178518 | [178518-robo-tea-1cup.json](./178518-robo-tea-1cup.json) |
 | Robo-War | 85824 | [85824-robo-war.json](./85824-robo-war.json) |
