@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Adventures: Park Ranger 18 - Collectors Edition | 416779 | [416779-vacation-adventures-park-ranger-18-collectors-edition.json](./416779-vacation-adventures-park-ranger-18-collectors-edition.json) |
 | Vacation Adventures: Park Ranger 2 | 85465 | [85465-vacation-adventures-park-ranger-2.json](./85465-vacation-adventures-park-ranger-2.json) |
 | Vacation Adventures: Park Ranger 4 | 88460 | [88460-vacation-adventures-park-ranger-4.json](./88460-vacation-adventures-park-ranger-4.json) |
+| Vacation Adventures: Park Ranger 6 | 153138 | [153138-vacation-adventures-park-ranger-6.json](./153138-vacation-adventures-park-ranger-6.json) |
 | Vacation Adventures: Park Ranger 7 | 168682 | [168682-vacation-adventures-park-ranger-7.json](./168682-vacation-adventures-park-ranger-7.json) |
 | Vacation Adventures: Park Ranger 8 | 191072 | [191072-vacation-adventures-park-ranger-8.json](./191072-vacation-adventures-park-ranger-8.json) |
 | Vacation Gone Awry | 74019 | [74019-vacation-gone-awry.json](./74019-vacation-gone-awry.json) |
@@ -1359,6 +1360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Videophobia | 327615 | [327615-videophobia.json](./327615-videophobia.json) |
 | Videopulp: Super Carty's Dread | 133320 | [133320-videopulp-super-cartys-dread.json](./133320-videopulp-super-cartys-dread.json) |
 | Videoverse | 213618 | [213618-videoverse.json](./213618-videoverse.json) |
+| Vidora's Silence | 152674 | [152674-vidoras-silence.json](./152674-vidoras-silence.json) |
 | Viduzzles | 214704 | [214704-viduzzles.json](./214704-viduzzles.json) |
 | Vidya Poker | 367836 | [367836-vidya-poker.json](./367836-vidya-poker.json) |
 | Vie: Itsuka no Natsu no Hi. | 131377 | [131377-vie-itsuka-no-natsu-no-hi.json](./131377-vie-itsuka-no-natsu-no-hi.json) |
