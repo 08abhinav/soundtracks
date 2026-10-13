@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valiant Hearts: The Collection | 290111 | [290111-valiant-hearts-the-collection.json](./290111-valiant-hearts-the-collection.json) |
 | Valiant Rooster | 262413 | [262413-valiant-rooster.json](./262413-valiant-rooster.json) |
 | Valiant: Or, Val's guide to having a broken vag | 249441 | [249441-valiant-or-vals-guide-to-having-a-broken-vag.json](./249441-valiant-or-vals-guide-to-having-a-broken-vag.json) |
+| ValiDate: Struggling Singles in your Area | 139144 | [139144-validate-struggling-singles-in-your-area.json](./139144-validate-struggling-singles-in-your-area.json) |
 | Validus Mortis | 262245 | [262245-validus-mortis.json](./262245-validus-mortis.json) |
 | Valient Worlds: Adventure of Falken | 338578 | [338578-valient-worlds-adventure-of-falken.json](./338578-valient-worlds-adventure-of-falken.json) |
 | Valis | 262085 | [262085-valis.json](./262085-valis.json) |
@@ -560,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vandozer | 137469 | [137469-vandozer.json](./137469-vandozer.json) |
 | Vangaro Tactics | 275094 | [275094-vangaro-tactics.json](./275094-vangaro-tactics.json) |
 | Vangers | 8830 | [8830-vangers.json](./8830-vangers.json) |
+| Vanguard | 139137 | [139137-vanguard.json](./139137-vanguard.json) |
 | Vanguard Ace: Vertical Madness | 70916 | [70916-vanguard-ace-vertical-madness.json](./70916-vanguard-ace-vertical-madness.json) |
 | Vanguard Exiles | 328936 | [328936-vanguard-exiles.json](./328936-vanguard-exiles.json) |
 | Vanguard Of Armor | 394159 | [394159-vanguard-of-armor.json](./394159-vanguard-of-armor.json) |
