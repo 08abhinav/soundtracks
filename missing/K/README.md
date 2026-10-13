@@ -2214,6 +2214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Bees | 158602 | [158602-kingdom-of-bees.json](./158602-kingdom-of-bees.json) |
 | Kingdom of Blades | 82339 | [82339-kingdom-of-blades.json](./82339-kingdom-of-blades.json) |
 | Kingdom of Cards | 278608 | [278608-kingdom-of-cards.json](./278608-kingdom-of-cards.json) |
+| Kingdom of Corrupts | 149380 | [149380-kingdom-of-corrupts.json](./149380-kingdom-of-corrupts.json) |
 | Kingdom of Dinza | 190179 | [190179-kingdom-of-dinza.json](./190179-kingdom-of-dinza.json) |
 | Kingdom of Fallen: The Last Stand | 270161 | [270161-kingdom-of-fallen-the-last-stand.json](./270161-kingdom-of-fallen-the-last-stand.json) |
 | Kingdom of Force | 164430 | [164430-kingdom-of-force.json](./164430-kingdom-of-force.json) |
@@ -2335,6 +2336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings of Leon Revenge | 66041 | [66041-kings-of-leon-revenge.json](./66041-kings-of-leon-revenge.json) |
 | Kings of Paradise | 147307 | [147307-kings-of-paradise.json](./147307-kings-of-paradise.json) |
 | Kings of Soccer - Multiplayer Football Game | 100778 | [100778-kings-of-soccer-multiplayer-football-game.json](./100778-kings-of-soccer-multiplayer-football-game.json) |
+| Kings of Streets | 149402 | [149402-kings-of-streets.json](./149402-kings-of-streets.json) |
 | Kings of the Beach | 198795 | [198795-kings-of-the-beach.json](./198795-kings-of-the-beach.json) |
 | Kings of the Realm | 344914 | [344914-kings-of-the-realm.json](./344914-kings-of-the-realm.json) |
 | Kings Shire | 237073 | [237073-kings-shire.json](./237073-kings-shire.json) |
@@ -4060,6 +4062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyle's Monster Adventure | 180696 | [180696-kyles-monster-adventure.json](./180696-kyles-monster-adventure.json) |
 | Kylie Minogue: Breathe (1998).mp3 | 287876 | [287876-kylie-minogue-breathe-1998-mp3.json](./287876-kylie-minogue-breathe-1998-mp3.json) |
 | KYM-tan Shoots Things | 198387 | [198387-kym-tan-shoots-things.json](./198387-kym-tan-shoots-things.json) |
+| Kyma | 149381 | [149381-kyma.json](./149381-kyma.json) |
 | Kyn | 11451 | [11451-kyn.json](./11451-kyn.json) |
 | Kyo: Gigantify | 187158 | [187158-kyo-gigantify.json](./187158-kyo-gigantify.json) |
 | Kyobi | 314683 | [314683-kyobi.json](./314683-kyobi.json) |
