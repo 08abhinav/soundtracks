@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| N Innocence | 175666 | [175666-n-innocence.json](./175666-n-innocence.json) |
 | N O Nb | 127980 | [127980-n-o-nb.json](./127980-n-o-nb.json) |
 | N Step Steve: Part 2 | 280780 | [280780-n-step-steve-part-2.json](./280780-n-step-steve-part-2.json) |
 | N v2.0 | 77297 | [77297-n-v2-0.json](./77297-n-v2-0.json) |
