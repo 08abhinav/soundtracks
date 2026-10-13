@@ -9149,7 +9149,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Papa: Cookstar | 237641 | [237641-cooking-papa-cookstar.json](./237641-cooking-papa-cookstar.json) |
 | Cooking Simulator Mobile | 174780 | [174780-cooking-simulator-mobile.json](./174780-cooking-simulator-mobile.json) |
 | Cooking Simulator: Cakes and Cookies | 129196 | [129196-cooking-simulator-cakes-and-cookies.json](./129196-cooking-simulator-cakes-and-cookies.json) |
+| Cooking Simulator: Cooking with Food Network | 168934 | [168934-cooking-simulator-cooking-with-food-network.json](./168934-cooking-simulator-cooking-with-food-network.json) |
 | Cooking Simulator: Pizza | 299378 | [299378-cooking-simulator-pizza.json](./299378-cooking-simulator-pizza.json) |
+| Cooking Simulator: Shelter | 168935 | [168935-cooking-simulator-shelter.json](./168935-cooking-simulator-shelter.json) |
 | Cooking Simulator: Sushi | 273371 | [273371-cooking-simulator-sushi.json](./273371-cooking-simulator-sushi.json) |
 | Cooking Time! | 369725 | [369725-cooking-time.json](./369725-cooking-time.json) |
 | Cooking Train | 221375 | [221375-cooking-train.json](./221375-cooking-train.json) |
