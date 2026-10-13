@@ -3569,6 +3569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Home 1986 | 392928 | [392928-go-home-1986.json](./392928-go-home-1986.json) |
 | Go Home Dinosaurs! | 16396 | [16396-go-home-dinosaurs.json](./16396-go-home-dinosaurs.json) |
 | Go Home, Mr. Fisk! | 173215 | [173215-go-home-mr-fisk.json](./173215-go-home-mr-fisk.json) |
+| Go home, you're drunk! | 134345 | [134345-go-home-youre-drunk.json](./134345-go-home-youre-drunk.json) |
 | Go Kart Challenge | 140986 | [140986-go-kart-challenge.json](./140986-go-kart-challenge.json) |
 | Go Kart Go! Ultra! | 176208 | [176208-go-kart-go-ultra.json](./176208-go-kart-go-ultra.json) |
 | Go Kart Mania: Discovery Edition | 332509 | [332509-go-kart-mania-discovery-edition.json](./332509-go-kart-mania-discovery-edition.json) |
@@ -5470,6 +5471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Keeper | 27384 | [27384-graveyard-keeper.json](./27384-graveyard-keeper.json) |
 | Graveyard Keeper II | 397817 | [397817-graveyard-keeper-ii.json](./397817-graveyard-keeper-ii.json) |
 | Graveyard Keeper: Breaking Dead | 111556 | [111556-graveyard-keeper-breaking-dead.json](./111556-graveyard-keeper-breaking-dead.json) |
+| Graveyard Keeper: Collector's Edition | 134367 | [134367-graveyard-keeper-collectors-edition.json](./134367-graveyard-keeper-collectors-edition.json) |
 | Graveyard Keeper: Stranger Sins | 124879 | [124879-graveyard-keeper-stranger-sins.json](./124879-graveyard-keeper-stranger-sins.json) |
 | Graveyard Miner | 255800 | [255800-graveyard-miner.json](./255800-graveyard-miner.json) |
 | Graveyard Orbit | 407329 | [407329-graveyard-orbit.json](./407329-graveyard-orbit.json) |
