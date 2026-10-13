@@ -813,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakuretsu Hunters: Mahjong Special | 123058 | [123058-bakuretsu-hunters-mahjong-special.json](./123058-bakuretsu-hunters-mahjong-special.json) |
 | Bakurokei Haishinsha vs. Kuzukei Utaite vs. Menhera Stalker | 285387 | [285387-bakurokei-haishinsha-vs-kuzukei-utaite-vs-menhera-stalker.json](./285387-bakurokei-haishinsha-vs-kuzukei-utaite-vs-menhera-stalker.json) |
 | Bakuryuu Sentai Abaranger | 130409 | [130409-bakuryuu-sentai-abaranger.json](./130409-bakuryuu-sentai-abaranger.json) |
+| Bakushou Mondai no Totsugeki Star Pirates | 134496 | [134496-bakushou-mondai-no-totsugeki-star-pirates.json](./134496-bakushou-mondai-no-totsugeki-star-pirates.json) |
 | Bakushou Mondai no Totsugeki Star Pirates: Dai-1-kai | 179956 | [179956-bakushou-mondai-no-totsugeki-star-pirates-dai-1-kai.json](./179956-bakushou-mondai-no-totsugeki-star-pirates-dai-1-kai.json) |
 | Bakushou Mondai no Totsugeki Star Pirates: Dai-2-kai | 179957 | [179957-bakushou-mondai-no-totsugeki-star-pirates-dai-2-kai.json](./179957-bakushou-mondai-no-totsugeki-star-pirates-dai-2-kai.json) |
 | Bakushou Mondai no Totsugeki Star Pirates: Dai-3-kai | 179958 | [179958-bakushou-mondai-no-totsugeki-star-pirates-dai-3-kai.json](./179958-bakushou-mondai-no-totsugeki-star-pirates-dai-3-kai.json) |
@@ -2826,6 +2827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield Priest | 211427 | [211427-battlefield-priest.json](./211427-battlefield-priest.json) |
 | Battlefield REDSEC | 371393 | [371393-battlefield-redsec.json](./371393-battlefield-redsec.json) |
 | Battlefield Supremacy | 107770 | [107770-battlefield-supremacy.json](./107770-battlefield-supremacy.json) |
+| Battlefield V: Year 2 Edition | 134372 | [134372-battlefield-v-year-2-edition.json](./134372-battlefield-v-year-2-edition.json) |
 | Battlefield Vietnam | 335 | [335-battlefield-vietnam.json](./335-battlefield-vietnam.json) |
 | Battlefield World War Bundle | 112914 | [112914-battlefield-world-war-bundle.json](./112914-battlefield-world-war-bundle.json) |
 | Battlefield: Bad Company 2 - Digital Deluxe Edition | 202187 | [202187-battlefield-bad-company-2-digital-deluxe-edition.json](./202187-battlefield-bad-company-2-digital-deluxe-edition.json) |
@@ -5271,6 +5273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bio Prototype | 226257 | [226257-bio-prototype.json](./226257-bio-prototype.json) |
 | Bio Senshi Dan: Increaser to no Tatakai | 48647 | [48647-bio-senshi-dan-increaser-to-no-tatakai.json](./48647-bio-senshi-dan-increaser-to-no-tatakai.json) |
 | Bio Soup | 72354 | [72354-bio-soup.json](./72354-bio-soup.json) |
+| Bio Worm | 134359 | [134359-bio-worm.json](./134359-bio-worm.json) |
 | Bio-Hazard Battle | 4517 | [4517-bio-hazard-battle.json](./4517-bio-hazard-battle.json) |
 | Bio-Ship Paladin | 39877 | [39877-bio-ship-paladin.json](./39877-bio-ship-paladin.json) |
 | Bio-Submariner DX | 404980 | [404980-bio-submariner-dx.json](./404980-bio-submariner-dx.json) |
@@ -9159,6 +9162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Fever: Superior Edition | 317915 | [317915-bowling-fever-superior-edition.json](./317915-bowling-fever-superior-edition.json) |
 | Bowling Game 3D | 88584 | [88584-bowling-game-3d.json](./88584-bowling-game-3d.json) |
 | Bowling in a Skate Park | 309002 | [309002-bowling-in-a-skate-park.json](./309002-bowling-in-a-skate-park.json) |
+| Bowling is a Fun Game | 134333 | [134333-bowling-is-a-fun-game.json](./134333-bowling-is-a-fun-game.json) |
 | Bowling Islands | 234616 | [234616-bowling-islands.json](./234616-bowling-islands.json) |
 | Bowling Mania | 206472 | [206472-bowling-mania.json](./206472-bowling-mania.json) |
 | Bowling Party | 58257 | [58257-bowling-party.json](./58257-bowling-party.json) |
@@ -9875,6 +9879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakbeat Alley | 200048 | [200048-breakbeat-alley.json](./200048-breakbeat-alley.json) |
 | BreakBlast | 153330 | [153330-breakblast.json](./153330-breakblast.json) |
 | Breakdown | 5756 | [5756-breakdown.json](./5756-breakdown.json) |
+| Breaker | 134344 | [134344-breaker.json](./134344-breaker.json) |
 | Breaker | 175825 | [175825-breaker.json](./175825-breaker.json) |
 | Breaker of Fatalism | 348739 | [348739-breaker-of-fatalism.json](./348739-breaker-of-fatalism.json) |
 | Breaker's World | 199131 | [199131-breakers-world.json](./199131-breakers-world.json) |
@@ -10593,6 +10598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS Marvelous: Time Athletic - Course 2 | 178388 | [178388-bs-marvelous-time-athletic-course-2.json](./178388-bs-marvelous-time-athletic-course-2.json) |
 | BS Marvelous: Time Athletic - Course 3 | 178389 | [178389-bs-marvelous-time-athletic-course-3.json](./178389-bs-marvelous-time-athletic-course-3.json) |
 | BS Marvelous: Time Athletic - Course 4 | 178390 | [178390-bs-marvelous-time-athletic-course-4.json](./178390-bs-marvelous-time-athletic-course-4.json) |
+| BS Monopoly: Kouza Boardwalk he no Michi | 134495 | [134495-bs-monopoly-kouza-boardwalk-he-no-michi.json](./134495-bs-monopoly-kouza-boardwalk-he-no-michi.json) |
 | BS Parlor! Parlor! | 134433 | [134433-bs-parlor-parlor.json](./134433-bs-parlor-parlor.json) |
 | BS Shin Onigashima | 134434 | [134434-bs-shin-onigashima.json](./134434-bs-shin-onigashima.json) |
 | BS Shin Onigashima: Dai-1-wa | 179967 | [179967-bs-shin-onigashima-dai-1-wa.json](./179967-bs-shin-onigashima-dai-1-wa.json) |
@@ -10619,6 +10625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS The Legend of Zelda: Ancient Stone Tablets | 322560 | [322560-bs-the-legend-of-zelda-ancient-stone-tablets.json](./322560-bs-the-legend-of-zelda-ancient-stone-tablets.json) |
 | BS The Legend of Zelda: Ancient Stone Tablets - Master Quest | 150082 | [150082-bs-the-legend-of-zelda-ancient-stone-tablets-master-quest.json](./150082-bs-the-legend-of-zelda-ancient-stone-tablets-master-quest.json) |
 | BS Zelda no Densetsu | 38319 | [38319-bs-zelda-no-densetsu.json](./38319-bs-zelda-no-densetsu.json) |
+| BS Zelda no Densetsu Map 2 | 134500 | [134500-bs-zelda-no-densetsu-map-2.json](./134500-bs-zelda-no-densetsu-map-2.json) |
 | BS Zelda no Densetsu Map 2: Dai-1-wa | 178054 | [178054-bs-zelda-no-densetsu-map-2-dai-1-wa.json](./178054-bs-zelda-no-densetsu-map-2-dai-1-wa.json) |
 | BS Zelda no Densetsu Map 2: Dai-2-wa | 178056 | [178056-bs-zelda-no-densetsu-map-2-dai-2-wa.json](./178056-bs-zelda-no-densetsu-map-2-dai-2-wa.json) |
 | BS Zelda no Densetsu Map 2: Dai-3-wa | 178058 | [178058-bs-zelda-no-densetsu-map-2-dai-3-wa.json](./178058-bs-zelda-no-densetsu-map-2-dai-3-wa.json) |
