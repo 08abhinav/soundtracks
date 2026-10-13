@@ -1559,6 +1559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unitied | 126373 | [126373-unitied.json](./126373-unitied.json) |
 | uniTower | 121693 | [121693-unitower.json](./121693-unitower.json) |
 | Unity Heroes | 297635 | [297635-unity-heroes.json](./297635-unity-heroes.json) |
+| Unity Invaders | 173206 | [173206-unity-invaders.json](./173206-unity-invaders.json) |
 | Unity of Command | 22645 | [22645-unity-of-command.json](./22645-unity-of-command.json) |
 | Unity of Command II: Barbarossa | 150609 | [150609-unity-of-command-ii-barbarossa.json](./150609-unity-of-command-ii-barbarossa.json) |
 | Unity of Command II: Blitzkrieg | 166052 | [166052-unity-of-command-ii-blitzkrieg.json](./166052-unity-of-command-ii-blitzkrieg.json) |
