@@ -2974,6 +2974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of D. Duck | 68260 | [68260-life-of-d-duck.json](./68260-life-of-d-duck.json) |
 | Life of D. Duck II | 70643 | [70643-life-of-d-duck-ii.json](./70643-life-of-d-duck-ii.json) |
 | Life of Delivery | 392246 | [392246-life-of-delivery.json](./392246-life-of-delivery.json) |
+| Life of Fly 2 | 148321 | [148321-life-of-fly-2.json](./148321-life-of-fly-2.json) |
 | Life of Kanji Island | 303628 | [303628-life-of-kanji-island.json](./303628-life-of-kanji-island.json) |
 | Life of Lon | 36995 | [36995-life-of-lon.json](./36995-life-of-lon.json) |
 | Life of Mellow | 174702 | [174702-life-of-mellow.json](./174702-life-of-mellow.json) |
@@ -5392,6 +5393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Legions | 304719 | [304719-lost-legions.json](./304719-lost-legions.json) |
 | Lost Letters | 110909 | [110909-lost-letters.json](./110909-lost-letters.json) |
 | Lost Life: Origins | 207758 | [207758-lost-life-origins.json](./207758-lost-life-origins.json) |
+| Lost Light | 148295 | [148295-lost-light.json](./148295-lost-light.json) |
 | Lost Light | 210887 | [210887-lost-light.json](./210887-lost-light.json) |
 | Lost Love Island | 278148 | [278148-lost-love-island.json](./278148-lost-love-island.json) |
 | Lost Luggage | 18501 | [18501-lost-luggage.json](./18501-lost-luggage.json) |
