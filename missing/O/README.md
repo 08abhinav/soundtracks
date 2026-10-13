@@ -2689,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oregon Trail II | 47099 | [47099-oregon-trail-ii.json](./47099-oregon-trail-ii.json) |
 | OreMania | 389097 | [389097-oremania.json](./389097-oremania.json) |
 | Orendale | 317995 | [317995-orendale.json](./317995-orendale.json) |
+| Orenji-iro no Kumo | 164597 | [164597-orenji-iro-no-kumo.json](./164597-orenji-iro-no-kumo.json) |
 | Oreo O's Extreme Creme Control | 145671 | [145671-oreo-os-extreme-creme-control.json](./145671-oreo-os-extreme-creme-control.json) |
 | Oreshika: Tainted Bloodlines | 19822 | [19822-oreshika-tainted-bloodlines.json](./19822-oreshika-tainted-bloodlines.json) |
 | Orestorm Factory | 224780 | [224780-orestorm-factory.json](./224780-orestorm-factory.json) |
@@ -3319,6 +3320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Campout Collection | 331432 | [331432-outbreak-campout-collection.json](./331432-outbreak-campout-collection.json) |
 | Outbreak: Co-Op Collection | 275903 | [275903-outbreak-co-op-collection.json](./275903-outbreak-co-op-collection.json) |
 | Outbreak: Cold Comfort Collection | 311050 | [311050-outbreak-cold-comfort-collection.json](./311050-outbreak-cold-comfort-collection.json) |
+| Outbreak: Complete Collection | 164580 | [164580-outbreak-complete-collection.json](./164580-outbreak-complete-collection.json) |
 | Outbreak: Contagious Memories | 194663 | [194663-outbreak-contagious-memories.json](./194663-outbreak-contagious-memories.json) |
 | Outbreak: Dark Dimensions Collection | 308579 | [308579-outbreak-dark-dimensions-collection.json](./308579-outbreak-dark-dimensions-collection.json) |
 | Outbreak: Detective Collection | 313439 | [313439-outbreak-detective-collection.json](./313439-outbreak-detective-collection.json) |
