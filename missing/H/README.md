@@ -7633,6 +7633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hundreds | 21905 | [21905-hundreds.json](./21905-hundreds.json) |
 | Hundreds of Mysteries: Season1 | 174066 | [174066-hundreds-of-mysteries-season1.json](./174066-hundreds-of-mysteries-season1.json) |
 | Hundredth | 208036 | [208036-hundredth.json](./208036-hundredth.json) |
+| Hundun | 157389 | [157389-hundun.json](./157389-hundun.json) |
 | Hùndùn Qíshì | 235275 | [235275-hundun-qishi.json](./235275-hundun-qishi.json) |
 | Hùndùn Zhàn Yù | 367428 | [367428-hundun-zhan-yu.json](./367428-hundun-zhan-yu.json) |
 | Hunger | 323785 | [323785-hunger.json](./323785-hunger.json) |
@@ -7964,6 +7965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hybrid 64 | 375336 | [375336-hybrid-64.json](./375336-hybrid-64.json) |
 | Hybrid Beasts | 53218 | [53218-hybrid-beasts.json](./53218-hybrid-beasts.json) |
 | Hybrid Blood | 347161 | [347161-hybrid-blood.json](./347161-hybrid-blood.json) |
+| Hybrid Instinct | 157401 | [157401-hybrid-instinct.json](./157401-hybrid-instinct.json) |
 | Hybrid Miniature Golf Beta | 303557 | [303557-hybrid-miniature-golf-beta.json](./303557-hybrid-miniature-golf-beta.json) |
 | Hybrid Wars: Yana 'Tesla' Radovich | 168342 | [168342-hybrid-wars-yana-tesla-radovich.json](./168342-hybrid-wars-yana-tesla-radovich.json) |
 | Hybrid Wars: Yoko Takano | 168341 | [168341-hybrid-wars-yoko-takano.json](./168341-hybrid-wars-yoko-takano.json) |
