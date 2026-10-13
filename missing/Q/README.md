@@ -611,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest Town Saga | 276137 | [276137-quest-town-saga.json](./276137-quest-town-saga.json) |
 | Quest: Brian's Journey | 49892 | [49892-quest-brians-journey.json](./49892-quest-brians-journey.json) |
 | Quest: Escape Room | 160180 | [160180-quest-escape-room.json](./160180-quest-escape-room.json) |
+| Quest: Escape Room 2 | 149391 | [149391-quest-escape-room-2.json](./149391-quest-escape-room-2.json) |
 | Quest: Escape Room 3 | 149509 | [149509-quest-escape-room-3.json](./149509-quest-escape-room-3.json) |
 | Quest: Fantasy Challenge | 49950 | [49950-quest-fantasy-challenge.json](./49950-quest-fantasy-challenge.json) |
 | Quest64: Recompiled | 385279 | [385279-quest64-recompiled.json](./385279-quest64-recompiled.json) |
