@@ -2224,7 +2224,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts of Iron III: DLC Collection | 154613 | [154613-hearts-of-iron-iii-dlc-collection.json](./154613-hearts-of-iron-iii-dlc-collection.json) |
 | Hearts of Iron III: For the Motherland | 10400 | [10400-hearts-of-iron-iii-for-the-motherland.json](./10400-hearts-of-iron-iii-for-the-motherland.json) |
 | Hearts of Iron III: Semper Fi - Dies Irae Götterdämmerung | 151256 | [151256-hearts-of-iron-iii-semper-fi-dies-irae-gotterdammerung.json](./151256-hearts-of-iron-iii-semper-fi-dies-irae-gotterdammerung.json) |
-| Hearts of Iron IV | 15894 | [15894-hearts-of-iron-iv.json](./15894-hearts-of-iron-iv.json) |
 | Hearts of Iron IV: Allied Armor Pack | 165012 | [165012-hearts-of-iron-iv-allied-armor-pack.json](./165012-hearts-of-iron-iv-allied-armor-pack.json) |
 | Hearts of Iron IV: Arms Against Tyranny | 253959 | [253959-hearts-of-iron-iv-arms-against-tyranny.json](./253959-hearts-of-iron-iv-arms-against-tyranny.json) |
 | Hearts of Iron IV: Battle for the Bosporus | 151257 | [151257-hearts-of-iron-iv-battle-for-the-bosporus.json](./151257-hearts-of-iron-iv-battle-for-the-bosporus.json) |
@@ -7012,6 +7011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel: Lake DLC | 265871 | [265871-hotel-lake-dlc.json](./265871-hotel-lake-dlc.json) |
 | Hotel: Lake Edition | 265870 | [265870-hotel-lake-edition.json](./265870-hotel-lake-edition.json) |
 | Hotelnomaly | 318062 | [318062-hotelnomaly.json](./318062-hotelnomaly.json) |
+| Hotfix | 142777 | [142777-hotfix.json](./142777-hotfix.json) |
 | HotFloor | 102406 | [102406-hotfloor.json](./102406-hotfloor.json) |
 | HotGirls Sliding Puzzle | 168431 | [168431-hotgirls-sliding-puzzle.json](./168431-hotgirls-sliding-puzzle.json) |
 | HotHead | 110340 | [110340-hothead.json](./110340-hothead.json) |
@@ -7962,6 +7962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Husky's Adventures | 152733 | [152733-huskys-adventures.json](./152733-huskys-adventures.json) |
 | Hustle Battle: Card Gamers | 393003 | [393003-hustle-battle-card-gamers.json](./393003-hustle-battle-card-gamers.json) |
 | Hustle Cat | 33277 | [33277-hustle-cat.json](./33277-hustle-cat.json) |
+| Hustle City | 142224 | [142224-hustle-city.json](./142224-hustle-city.json) |
 | Hustle Quest: Historia of Urth | 299155 | [299155-hustle-quest-historia-of-urth.json](./299155-hustle-quest-historia-of-urth.json) |
 | Hustler | 92282 | [92282-hustler.json](./92282-hustler.json) |
 | Hustomten | 167564 | [167564-hustomten.json](./167564-hustomten.json) |
@@ -8337,6 +8338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyposphere 2 | 187918 | [187918-hyposphere-2.json](./187918-hyposphere-2.json) |
 | Hyposphere 3: Overdrive | 181655 | [181655-hyposphere-3-overdrive.json](./181655-hyposphere-3-overdrive.json) |
 | Hyposphere Z | 158632 | [158632-hyposphere-z.json](./158632-hyposphere-z.json) |
+| Hyposphere: Rebirth | 142830 | [142830-hyposphere-rebirth.json](./142830-hyposphere-rebirth.json) |
 | Hypothermia | 108900 | [108900-hypothermia.json](./108900-hypothermia.json) |
 | Hypotheses on the Symmetry between Vision and Hands | 294157 | [294157-hypotheses-on-the-symmetry-between-vision-and-hands.json](./294157-hypotheses-on-the-symmetry-between-vision-and-hands.json) |
 | Hypotheticards: a nature collection mystery!! | 182848 | [182848-hypotheticards-a-nature-collection-mystery.json](./182848-hypotheticards-a-nature-collection-mystery.json) |
