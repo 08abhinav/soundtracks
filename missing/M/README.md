@@ -1560,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majesty: Northern Kingdom | 224015 | [224015-majesty-northern-kingdom.json](./224015-majesty-northern-kingdom.json) |
 | Majesty: The Fantasy Kingdom Sim | 781 | [781-majesty-the-fantasy-kingdom-sim.json](./781-majesty-the-fantasy-kingdom-sim.json) |
 | Majesty: The Northern Expansion | 19182 | [19182-majesty-the-northern-expansion.json](./19182-majesty-the-northern-expansion.json) |
+| Majewelick Impact | 133730 | [133730-majewelick-impact.json](./133730-majewelick-impact.json) |
 | Maji de Watashi ni Koishinasai! A Plus Disk | 112295 | [112295-maji-de-watashi-ni-koishinasai-a-plus-disk.json](./112295-maji-de-watashi-ni-koishinasai-a-plus-disk.json) |
 | Maji de Watashi ni Koishinasai! A-1 | 112291 | [112291-maji-de-watashi-ni-koishinasai-a-1.json](./112291-maji-de-watashi-ni-koishinasai-a-1.json) |
 | Maji de Watashi ni Koishinasai! A-2 | 112292 | [112292-maji-de-watashi-ni-koishinasai-a-2.json](./112292-maji-de-watashi-ni-koishinasai-a-2.json) |
@@ -10283,6 +10284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hatcher | 406920 | [406920-monster-hatcher.json](./406920-monster-hatcher.json) |
 | Monster Haven | 315708 | [315708-monster-haven.json](./315708-monster-haven.json) |
 | Monster Heart | 229929 | [229929-monster-heart.json](./229929-monster-heart.json) |
+| Monster Hearts | 133731 | [133731-monster-hearts.json](./133731-monster-hearts.json) |
 | Monster Hearts R | 268394 | [268394-monster-hearts-r.json](./268394-monster-hearts-r.json) |
 | Monster Hero | 303057 | [303057-monster-hero.json](./303057-monster-hero.json) |
 | Monster High Skulltimate Secrets | 314521 | [314521-monster-high-skulltimate-secrets.json](./314521-monster-high-skulltimate-secrets.json) |
@@ -11470,6 +11472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moth: A Dating Sim | 419993 | [419993-moth-a-dating-sim.json](./419993-moth-a-dating-sim.json) |
 | Mothballs | 179701 | [179701-mothballs.json](./179701-mothballs.json) |
 | Mothdude | 184126 | [184126-mothdude.json](./184126-mothdude.json) |
+| Mother | 133707 | [133707-mother.json](./133707-mother.json) |
 | Mother | 150274 | [150274-mother.json](./150274-mother.json) |
 | Mother 1+2 | 78585 | [78585-mother-1-2.json](./78585-mother-1-2.json) |
 | Mother 2: Perfect Edition | 305370 | [305370-mother-2-perfect-edition.json](./305370-mother-2-perfect-edition.json) |
@@ -13568,6 +13571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pony: Best Friends Ball | 124742 | [124742-my-little-pony-best-friends-ball.json](./124742-my-little-pony-best-friends-ball.json) |
 | My Little Pony: Color By Magic | 138464 | [138464-my-little-pony-color-by-magic.json](./138464-my-little-pony-color-by-magic.json) |
 | My Little Pony: Dr. Discord's Conquest | 205660 | [205660-my-little-pony-dr-discords-conquest.json](./205660-my-little-pony-dr-discords-conquest.json) |
+| My Little Pony: Equestria Girls | 133716 | [133716-my-little-pony-equestria-girls.json](./133716-my-little-pony-equestria-girls.json) |
 | My Little Pony: Equestria Girls - Friendship Games: Motocross | 264225 | [264225-my-little-pony-equestria-girls-friendship-games-motocross.json](./264225-my-little-pony-equestria-girls-friendship-games-motocross.json) |
 | My Little Pony: Fighting is Magic | 137023 | [137023-my-little-pony-fighting-is-magic.json](./137023-my-little-pony-fighting-is-magic.json) |
 | My Little Pony: Fighting is Magic - Tribute Edition | 146263 | [146263-my-little-pony-fighting-is-magic-tribute-edition.json](./146263-my-little-pony-fighting-is-magic-tribute-edition.json) |
