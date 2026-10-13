@@ -8828,6 +8828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerjackers: Superhero Battle Royale | 204941 | [204941-powerjackers-superhero-battle-royale.json](./204941-powerjackers-superhero-battle-royale.json) |
 | Powerline.io | 191257 | [191257-powerline-io.json](./191257-powerline-io.json) |
 | Powerlust | 187787 | [187787-powerlust.json](./187787-powerlust.json) |
+| Powernaut 2 | 172451 | [172451-powernaut-2.json](./172451-powernaut-2.json) |
 | Powernaut Decay | 280156 | [280156-powernaut-decay.json](./280156-powernaut-decay.json) |
 | Powerplay | 311141 | [311141-powerplay.json](./311141-powerplay.json) |
 | Powerplay Hockey | 78947 | [78947-powerplay-hockey.json](./78947-powerplay-hockey.json) |
