@@ -2847,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Fighter | 96902 | [96902-knight-fighter.json](./96902-knight-fighter.json) |
 | Knight Foretold | 252802 | [252802-knight-foretold.json](./252802-knight-foretold.json) |
 | Knight Fortix 2 | 42770 | [42770-knight-fortix-2.json](./42770-knight-fortix-2.json) |
+| Knight Game | 176731 | [176731-knight-game.json](./176731-knight-game.json) |
 | Knight Games | 26437 | [26437-knight-games.json](./26437-knight-games.json) |
 | Knight George | 316342 | [316342-knight-george.json](./316342-knight-george.json) |
 | Knight Ghost | 46740 | [46740-knight-ghost.json](./46740-knight-ghost.json) |
