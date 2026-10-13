@@ -1349,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas Gas Rocket! | 289554 | [289554-gas-gas-rocket.json](./289554-gas-gas-rocket.json) |
 | Gas Guzzlers Extreme | 8472 | [8472-gas-guzzlers-extreme.json](./8472-gas-guzzlers-extreme.json) |
 | Gas Guzzlers Extreme: Full Metal Frenzy | 171503 | [171503-gas-guzzlers-extreme-full-metal-frenzy.json](./171503-gas-guzzlers-extreme-full-metal-frenzy.json) |
+| Gas Guzzlers Extreme: Full Metal Zombie | 171519 | [171519-gas-guzzlers-extreme-full-metal-zombie.json](./171519-gas-guzzlers-extreme-full-metal-zombie.json) |
 | Gas Hog | 85742 | [85742-gas-hog.json](./85742-gas-hog.json) |
 | Gas N Cars | 410455 | [410455-gas-n-cars.json](./410455-gas-n-cars.json) |
 | Gas Pack | 332479 | [332479-gas-pack.json](./332479-gas-pack.json) |
@@ -2372,6 +2373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghana Bwana | 97474 | [97474-ghana-bwana.json](./97474-ghana-bwana.json) |
 | Gharp | 192438 | [192438-gharp.json](./192438-gharp.json) |
 | Ghastly Mask Shop | 391332 | [391332-ghastly-mask-shop.json](./391332-ghastly-mask-shop.json) |
+| GHD | 171320 | [171320-ghd.json](./171320-ghd.json) |
 | Ghen War | 45526 | [45526-ghen-war.json](./45526-ghen-war.json) |
 | Ghenghis Khan | 14440 | [14440-ghenghis-khan.json](./14440-ghenghis-khan.json) |
 | Gherbert Groundhog in Save the Date | 232406 | [232406-gherbert-groundhog-in-save-the-date.json](./232406-gherbert-groundhog-in-save-the-date.json) |
