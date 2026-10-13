@@ -5940,6 +5940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensions | 141810 | [141810-dimensions.json](./141810-dimensions.json) |
 | Dimensions | 249474 | [249474-dimensions.json](./249474-dimensions.json) |
 | Dimensions 2 | 408955 | [408955-dimensions-2.json](./408955-dimensions-2.json) |
+| Dimensions Puzzle | 163547 | [163547-dimensions-puzzle.json](./163547-dimensions-puzzle.json) |
 | Dimensity | 16152 | [16152-dimensity.json](./16152-dimensity.json) |
 | Dimeo's Jukebox | 143033 | [143033-dimeos-jukebox.json](./143033-dimeos-jukebox.json) |
 | Dimhaven: The Lost Source | 253578 | [253578-dimhaven-the-lost-source.json](./253578-dimhaven-the-lost-source.json) |
@@ -11540,6 +11541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Cross | 221251 | [221251-dungeon-cross.json](./221251-dungeon-cross.json) |
 | Dungeon Crusher: Soul Hunters | 142999 | [142999-dungeon-crusher-soul-hunters.json](./142999-dungeon-crusher-soul-hunters.json) |
 | Dungeon Crystal | 322851 | [322851-dungeon-crystal.json](./322851-dungeon-crystal.json) |
+| Dungeon D14 | 163573 | [163573-dungeon-d14.json](./163573-dungeon-d14.json) |
 | Dungeon Dad | 191832 | [191832-dungeon-dad.json](./191832-dungeon-dad.json) |
 | Dungeon Dan | 156028 | [156028-dungeon-dan.json](./156028-dungeon-dan.json) |
 | Dungeon Danger Traps 2 | 372543 | [372543-dungeon-danger-traps-2.json](./372543-dungeon-danger-traps-2.json) |
