@@ -833,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samsara | 192957 | [192957-samsara.json](./192957-samsara.json) |
 | Samsara | 249503 | [249503-samsara.json](./249503-samsara.json) |
 | Samsara Room | 300426 | [300426-samsara-room.json](./300426-samsara-room.json) |
+| Samsara: Stones of Eternity | 174249 | [174249-samsara-stones-of-eternity.json](./174249-samsara-stones-of-eternity.json) |
 | Samsaric Asymtotes | 295997 | [295997-samsaric-asymtotes.json](./295997-samsaric-asymtotes.json) |
 | Samsung Pro Cricket | 356656 | [356656-samsung-pro-cricket.json](./356656-samsung-pro-cricket.json) |
 | Samu | 378279 | [378279-samu.json](./378279-samu.json) |
@@ -4194,6 +4195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SGarden | 180050 | [180050-sgarden.json](./180050-sgarden.json) |
 | SGC: Short Games Collection #1 | 173141 | [173141-sgc-short-games-collection-1.json](./173141-sgc-short-games-collection-1.json) |
 | Sgrizam | 85748 | [85748-sgrizam.json](./85748-sgrizam.json) |
+| SGS Afrika Korps: Tunisia | 174061 | [174061-sgs-afrika-korps-tunisia.json](./174061-sgs-afrika-korps-tunisia.json) |
 | SGS Battle For: Dien Bien Phu | 298119 | [298119-sgs-battle-for-dien-bien-phu.json](./298119-sgs-battle-for-dien-bien-phu.json) |
 | SGS Battle For: Madrid | 275833 | [275833-sgs-battle-for-madrid.json](./275833-sgs-battle-for-madrid.json) |
 | SGS Battle For: Stalingrad | 244900 | [244900-sgs-battle-for-stalingrad.json](./244900-sgs-battle-for-stalingrad.json) |
@@ -5892,6 +5894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShootersPool | 123540 | [123540-shooterspool.json](./123540-shooterspool.json) |
 | Shooterspool: Billiards Simulation | 127333 | [127333-shooterspool-billiards-simulation.json](./127333-shooterspool-billiards-simulation.json) |
 | Shooterwave | 186344 | [186344-shooterwave.json](./186344-shooterwave.json) |
+| Shootin Star | 174257 | [174257-shootin-star.json](./174257-shootin-star.json) |
 | Shootin' Gallery VR | 217293 | [217293-shootin-gallery-vr.json](./217293-shootin-gallery-vr.json) |
 | Shootinator | 303821 | [303821-shootinator.json](./303821-shootinator.json) |
 | Shooting Aircraft | 323846 | [323846-shooting-aircraft.json](./323846-shooting-aircraft.json) |
@@ -13099,6 +13102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Wreck | 122417 | [122417-space-wreck.json](./122417-space-wreck.json) |
 | Space X Collector | 166168 | [166168-space-x-collector.json](./166168-space-x-collector.json) |
 | Space X: Sky War of Air Force | 98929 | [98929-space-x-sky-war-of-air-force.json](./98929-space-x-sky-war-of-air-force.json) |
+| Space Yandere | 174062 | [174062-space-yandere.json](./174062-space-yandere.json) |
 | Space Zero | 37185 | [37185-space-zero.json](./37185-space-zero.json) |
 | Space Zombies Invasion | 88243 | [88243-space-zombies-invasion.json](./88243-space-zombies-invasion.json) |
 | Space Zone | 310161 | [310161-space-zone.json](./310161-space-zone.json) |
@@ -14577,6 +14581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Light | 180625 | [180625-spooky-light.json](./180625-spooky-light.json) |
 | Spooky Mahjong | 336565 | [336565-spooky-mahjong.json](./336565-spooky-mahjong.json) |
 | Spooky Mall | 54393 | [54393-spooky-mall.json](./54393-spooky-mall.json) |
+| Spooky Man: Island of Ghost to Mystic Diary 3D | 174252 | [174252-spooky-man-island-of-ghost-to-mystic-diary-3d.json](./174252-spooky-man-island-of-ghost-to-mystic-diary-3d.json) |
 | Spooky Manor | 62422 | [62422-spooky-manor.json](./62422-spooky-manor.json) |
 | Spooky Mansion Manager | 213546 | [213546-spooky-mansion-manager.json](./213546-spooky-mansion-manager.json) |
 | Spooky Milk Life | 208631 | [208631-spooky-milk-life.json](./208631-spooky-milk-life.json) |
@@ -16844,6 +16849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam Bandits: Outpost | 30368 | [30368-steam-bandits-outpost.json](./30368-steam-bandits-outpost.json) |
 | Steam Girls | 410406 | [410406-steam-girls.json](./410406-steam-girls.json) |
 | Steam Heroes | 10926 | [10926-steam-heroes.json](./10926-steam-heroes.json) |
+| Steam Highwayman | 174265 | [174265-steam-highwayman.json](./174265-steam-highwayman.json) |
 | Steam Marines 2 | 57889 | [57889-steam-marines-2.json](./57889-steam-marines-2.json) |
 | Steam Punks | 61085 | [61085-steam-punks.json](./61085-steam-punks.json) |
 | Steam Puppet: Tower Defense | 151670 | [151670-steam-puppet-tower-defense.json](./151670-steam-puppet-tower-defense.json) |
@@ -20109,6 +20115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Duelling Minivans | 71794 | [71794-super-duelling-minivans.json](./71794-super-duelling-minivans.json) |
 | Super Dungeon Boy 2 | 86576 | [86576-super-dungeon-boy-2.json](./86576-super-dungeon-boy-2.json) |
 | Super Dungeon Bros Mega Bundle Pack | 82413 | [82413-super-dungeon-bros-mega-bundle-pack.json](./82413-super-dungeon-bros-mega-bundle-pack.json) |
+| Super Dungeon Maker: Fink's Awakening | 174074 | [174074-super-dungeon-maker-finks-awakening.json](./174074-super-dungeon-maker-finks-awakening.json) |
 | Super Dungeon Muncher | 311602 | [311602-super-dungeon-muncher.json](./311602-super-dungeon-muncher.json) |
 | Super Dungeon Run | 34942 | [34942-super-dungeon-run.json](./34942-super-dungeon-run.json) |
 | Super Dunkman | 134700 | [134700-super-dunkman.json](./134700-super-dunkman.json) |
