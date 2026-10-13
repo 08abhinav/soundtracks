@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T19:25:28.812Z",
-  "total_soundtracks": 1583,
+  "generated_at": "2026-10-13T19:25:44.941Z",
+  "total_soundtracks": 1584,
   "games": [
     {
       "igdb_id": 7522,
@@ -3465,6 +3465,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/cthulhu-the-cosmic-abyss-original-soundtrack-feat-tina-guo/1894271902?uo=4",
           "album_link_url": "https://album.link/i/1894271902"
+        }
+      ]
+    },
+    {
+      "igdb_id": 165351,
+      "game_name": "Cult of the Lamb",
+      "game_url": "https://ostdb.net/games/cult-of-the-lamb",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d2/22/4c/d2224c9a-4726-e3dc-bad2-236c2aae131c/5063072653432_cover.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Cult of the Lamb (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6uFdRK2clKYng68ThOFDIE",
+          "apple_music_url": "https://music.apple.com/us/album/cult-of-the-lamb-original-soundtrack/1636653441",
+          "album_link_url": "https://album.link/i/1636653441"
         }
       ]
     },
