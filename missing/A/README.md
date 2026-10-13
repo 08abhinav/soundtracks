@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Kiss Of Salt Water | 301907 | [301907-a-kiss-of-salt-water.json](./301907-a-kiss-of-salt-water.json) |
 | A Kitten Seeks the Moon | 397177 | [397177-a-kitten-seeks-the-moon.json](./397177-a-kitten-seeks-the-moon.json) |
 | A Klance Texting Game | 178471 | [178471-a-klance-texting-game.json](./178471-a-klance-texting-game.json) |
+| A Knife Made of Whispers | 134375 | [134375-a-knife-made-of-whispers.json](./134375-a-knife-made-of-whispers.json) |
 | A Knight Never Yields | 148486 | [148486-a-knight-never-yields.json](./148486-a-knight-never-yields.json) |
 | A Knight's Devotion | 238410 | [238410-a-knights-devotion.json](./238410-a-knights-devotion.json) |
 | A Knight's Life | 197750 | [197750-a-knights-life.json](./197750-a-knights-life.json) |
@@ -1987,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adorimon: Arena of Ancients | 283891 | [283891-adorimon-arena-of-ancients.json](./283891-adorimon-arena-of-ancients.json) |
 | Adoventoro Tcheco | 321779 | [321779-adoventoro-tcheco.json](./321779-adoventoro-tcheco.json) |
 | Adr1ft | 8654 | [8654-adr1ft.json](./8654-adr1ft.json) |
+| Adrena Line | 134342 | [134342-adrena-line.json](./134342-adrena-line.json) |
 | Adrenalin | 65270 | [65270-adrenalin.json](./65270-adrenalin.json) |
 | Adrenalin Connection | 228626 | [228626-adrenalin-connection.json](./228626-adrenalin-connection.json) |
 | Adrenalin Misfits | 20170 | [20170-adrenalin-misfits.json](./20170-adrenalin-misfits.json) |
@@ -6243,6 +6245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angstrom Station VR | 132669 | [132669-angstrom-station-vr.json](./132669-angstrom-station-vr.json) |
 | Angular Momentum | 326754 | [326754-angular-momentum.json](./326754-angular-momentum.json) |
 | Angular Velocity | 260609 | [260609-angular-velocity.json](./260609-angular-velocity.json) |
+| Anguna 2600 | 134346 | [134346-anguna-2600.json](./134346-anguna-2600.json) |
 | Anguna: Warriors of Virtue | 49509 | [49509-anguna-warriors-of-virtue.json](./49509-anguna-warriors-of-virtue.json) |
 | Angus Hates Aliens | 33165 | [33165-angus-hates-aliens.json](./33165-angus-hates-aliens.json) |
 | Anhedonia: Sanctuary of Ash | 408915 | [408915-anhedonia-sanctuary-of-ash.json](./408915-anhedonia-sanctuary-of-ash.json) |
