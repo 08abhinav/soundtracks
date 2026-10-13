@@ -2163,6 +2163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Score Rush | 76168 | [76168-score-rush.json](./76168-score-rush.json) |
 | Score Rush Extended | 19854 | [19854-score-rush-extended.json](./19854-score-rush-extended.json) |
 | Score! Hero | 15851 | [15851-score-hero.json](./15851-score-hero.json) |
+| Score! Hero 2 | 170254 | [170254-score-hero-2.json](./170254-score-hero-2.json) |
 | Score! Match | 91215 | [91215-score-match.json](./91215-score-match.json) |
 | Scorn | 19817 | [19817-scorn.json](./19817-scorn.json) |
 | Scorn | 262084 | [262084-scorn.json](./262084-scorn.json) |
@@ -9266,6 +9267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashmons: Spirit Red | 313342 | [313342-smashmons-spirit-red.json](./313342-smashmons-spirit-red.json) |
 | Smashometry | 378902 | [378902-smashometry.json](./378902-smashometry.json) |
 | Smashpunks | 178088 | [178088-smashpunks.json](./178088-smashpunks.json) |
+| Smashteroid | 170262 | [170262-smashteroid.json](./170262-smashteroid.json) |
 | SmashThem | 28202 | [28202-smashthem.json](./28202-smashthem.json) |
 | Smashy Brick | 237324 | [237324-smashy-brick.json](./237324-smashy-brick.json) |
 | Smashy Cannon | 359532 | [359532-smashy-cannon.json](./359532-smashy-cannon.json) |
@@ -10175,6 +10177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Adventures | 139187 | [139187-soccer-adventures.json](./139187-soccer-adventures.json) |
 | Soccer America International Cup | 43307 | [43307-soccer-america-international-cup.json](./43307-soccer-america-international-cup.json) |
 | Soccer Battle Royale | 108973 | [108973-soccer-battle-royale.json](./108973-soccer-battle-royale.json) |
+| Soccer Battles | 170251 | [170251-soccer-battles.json](./170251-soccer-battles.json) |
 | Soccer Boss | 190209 | [190209-soccer-boss.json](./190209-soccer-boss.json) |
 | Soccer Brawl | 39843 | [39843-soccer-brawl.json](./39843-soccer-brawl.json) |
 | Soccer But Different | 209666 | [209666-soccer-but-different.json](./209666-soccer-but-different.json) |
@@ -12412,6 +12415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Battle | 160158 | [160158-space-battle.json](./160158-space-battle.json) |
 | Space Battle | 18740 | [18740-space-battle.json](./18740-space-battle.json) |
 | Space Battle | 328486 | [328486-space-battle.json](./328486-space-battle.json) |
+| Space Battle Arena | 170429 | [170429-space-battle-arena.json](./170429-space-battle-arena.json) |
 | Space Battle Arena | 60231 | [60231-space-battle-arena.json](./60231-space-battle-arena.json) |
 | Space Battle Royale | 264000 | [264000-space-battle-royale.json](./264000-space-battle-royale.json) |
 | Space Battle VR | 112626 | [112626-space-battle-vr.json](./112626-space-battle-vr.json) |
@@ -19899,6 +19903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bowl XX | 59817 | [59817-super-bowl-xx.json](./59817-super-bowl-xx.json) |
 | Super Bowsette 64 | 240461 | [240461-super-bowsette-64.json](./240461-super-bowsette-64.json) |
 | Super Box Delivery: Beyond the Horizon | 252698 | [252698-super-box-delivery-beyond-the-horizon.json](./252698-super-box-delivery-beyond-the-horizon.json) |
+| Super Boxing Championship! | 170256 | [170256-super-boxing-championship.json](./170256-super-boxing-championship.json) |
 | Super Boy Allan | 41305 | [41305-super-boy-allan.json](./41305-super-boy-allan.json) |
 | Super Boy Commander Bros | 231881 | [231881-super-boy-commander-bros.json](./231881-super-boy-commander-bros.json) |
 | Super Boy III | 47524 | [47524-super-boy-iii.json](./47524-super-boy-iii.json) |
@@ -20109,6 +20114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Double Impact | 98031 | [98031-super-double-impact.json](./98031-super-double-impact.json) |
 | Super Doubles Tennis | 40425 | [40425-super-doubles-tennis.json](./40425-super-doubles-tennis.json) |
 | Super Dr Corona | 277930 | [277930-super-dr-corona.json](./277930-super-dr-corona.json) |
+| Super Drag Race | 170231 | [170231-super-drag-race.json](./170231-super-drag-race.json) |
 | Super Dragon Ball Heroes: World Mission | 111054 | [111054-super-dragon-ball-heroes-world-mission.json](./111054-super-dragon-ball-heroes-world-mission.json) |
 | Super Dragon Ball Heroes: World Mission - Hero Edition | 116237 | [116237-super-dragon-ball-heroes-world-mission-hero-edition.json](./116237-super-dragon-ball-heroes-world-mission-hero-edition.json) |
 | Super Dragon Punch Force 3 | 295358 | [295358-super-dragon-punch-force-3.json](./295358-super-dragon-punch-force-3.json) |
