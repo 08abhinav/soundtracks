@@ -407,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Simulator | 329595 | [329595-galactic-simulator.json](./329595-galactic-simulator.json) |
 | Galactic Simulator2: Stargate | 344539 | [344539-galactic-simulator2-stargate.json](./344539-galactic-simulator2-stargate.json) |
 | Galactic Space Guard | 373171 | [373171-galactic-space-guard.json](./373171-galactic-space-guard.json) |
+| Galactic Speed Legends | 150944 | [150944-galactic-speed-legends.json](./150944-galactic-speed-legends.json) |
 | Galactic Starfire: Squadron | 310033 | [310033-galactic-starfire-squadron.json](./310033-galactic-starfire-squadron.json) |
 | Galactic Starforce | 260332 | [260332-galactic-starforce.json](./260332-galactic-starforce.json) |
 | Galactic Storm | 264082 | [264082-galactic-storm.json](./264082-galactic-storm.json) |
