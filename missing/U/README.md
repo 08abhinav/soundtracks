@@ -1692,6 +1692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unko Technica | 309509 | [309509-unko-technica.json](./309509-unko-technica.json) |
 | Unko Typing | 189128 | [189128-unko-typing.json](./189128-unko-typing.json) |
 | Unkore | 151750 | [151750-unkore.json](./151750-unkore.json) |
+| Unlanded | 133122 | [133122-unlanded.json](./133122-unlanded.json) |
 | Unleash | 398974 | [398974-unleash.json](./398974-unleash.json) |
 | Unleash | 72340 | [72340-unleash.json](./72340-unleash.json) |
 | Unleash Hell | 119643 | [119643-unleash-hell.json](./119643-unleash-hell.json) |
