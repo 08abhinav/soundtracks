@@ -560,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest For Milkshake | 310950 | [310950-quest-for-milkshake.json](./310950-quest-for-milkshake.json) |
 | Quest for Moomoo | 233983 | [233983-quest-for-moomoo.json](./233983-quest-for-moomoo.json) |
 | Quest for Quintana Roo | 12317 | [12317-quest-for-quintana-roo.json](./12317-quest-for-quintana-roo.json) |
+| Quest for Runia | 160106 | [160106-quest-for-runia.json](./160106-quest-for-runia.json) |
 | Quest for Saddam | 209746 | [209746-quest-for-saddam.json](./209746-quest-for-saddam.json) |
 | Quest for the Book of Truth | 181207 | [181207-quest-for-the-book-of-truth.json](./181207-quest-for-the-book-of-truth.json) |
 | Quest for the Code | 185633 | [185633-quest-for-the-code.json](./185633-quest-for-the-code.json) |
@@ -702,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiet Dan | 379335 | [379335-quiet-dan.json](./379335-quiet-dan.json) |
 | Quiet Express: Cabin 909 | 366348 | [366348-quiet-express-cabin-909.json](./366348-quiet-express-cabin-909.json) |
 | Quiet Farm | 190450 | [190450-quiet-farm.json](./190450-quiet-farm.json) |
+| Quiet Godo | 160058 | [160058-quiet-godo.json](./160058-quiet-godo.json) |
 | Quiet House Massacre | 317023 | [317023-quiet-house-massacre.json](./317023-quiet-house-massacre.json) |
 | Quiet in the Library | 390688 | [390688-quiet-in-the-library.json](./390688-quiet-in-the-library.json) |
 | Quiet is the Eyes | 279263 | [279263-quiet-is-the-eyes.json](./279263-quiet-is-the-eyes.json) |
