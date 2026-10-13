@@ -1038,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cape's Escape Game 4th Room | 173142 | [173142-capes-escape-game-4th-room.json](./173142-capes-escape-game-4th-room.json) |
 | Cape's Escape Game 5th Room | 186569 | [186569-capes-escape-game-5th-room.json](./186569-capes-escape-game-5th-room.json) |
 | Cape's Escape Game 7th Room | 287171 | [287171-capes-escape-game-7th-room.json](./287171-capes-escape-game-7th-room.json) |
+| Capeless Heroes | 176223 | [176223-capeless-heroes.json](./176223-capeless-heroes.json) |
 | Capelord: Bounty Hunters | 190718 | [190718-capelord-bounty-hunters.json](./190718-capelord-bounty-hunters.json) |
 | Capers vs Pirates | 336680 | [336680-capers-vs-pirates.json](./336680-capers-vs-pirates.json) |
 | Capes | 217376 | [217376-capes.json](./217376-capes.json) |
@@ -1223,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capture Creatures | 195252 | [195252-capture-creatures.json](./195252-capture-creatures.json) |
 | Capture the Flag | 23901 | [23901-capture-the-flag.json](./23901-capture-the-flag.json) |
 | Capture the Intelligence | 306725 | [306725-capture-the-intelligence.json](./306725-capture-the-intelligence.json) |
+| Capture the Pixel | 176188 | [176188-capture-the-pixel.json](./176188-capture-the-pixel.json) |
 | Captured | 312193 | [312193-captured.json](./312193-captured.json) |
 | Captured | 413918 | [413918-captured.json](./413918-captured.json) |
 | Captured 2 | 340031 | [340031-captured-2.json](./340031-captured-2.json) |
@@ -1364,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Wash Simulator | 343750 | [343750-car-wash-simulator.json](./343750-car-wash-simulator.json) |
 | Car-Toon Chaos | 298170 | [298170-car-toon-chaos.json](./298170-car-toon-chaos.json) |
 | Car! | 314670 | [314670-car.json](./314670-car.json) |
+| Car's Empire | 176218 | [176218-cars-empire.json](./176218-cars-empire.json) |
 | Cara Night | 46618 | [46618-cara-night.json](./46618-cara-night.json) |
 | Carachnophobia | 267861 | [267861-carachnophobia.json](./267861-carachnophobia.json) |
 | Caracoland | 112963 | [112963-caracoland.json](./112963-caracoland.json) |
@@ -1564,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards after Midnight | 420538 | [420538-cards-after-midnight.json](./420538-cards-after-midnight.json) |
 | Cards Against Formality | 287005 | [287005-cards-against-formality.json](./287005-cards-against-formality.json) |
 | Cards Against Humanity Lab | 235260 | [235260-cards-against-humanity-lab.json](./235260-cards-against-humanity-lab.json) |
+| Cards Against Insanity | 176397 | [176397-cards-against-insanity.json](./176397-cards-against-insanity.json) |
 | Cards and Castles | 35497 | [35497-cards-and-castles.json](./35497-cards-and-castles.json) |
 | Cards and Castles 2 | 178080 | [178080-cards-and-castles-2.json](./178080-cards-and-castles-2.json) |
 | Cards and Dungeons | 325114 | [325114-cards-and-dungeons.json](./325114-cards-and-dungeons.json) |
@@ -1659,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cario | 220341 | [220341-cario.json](./220341-cario.json) |
 | Carious Weltling | 354450 | [354450-carious-weltling.json](./354450-carious-weltling.json) |
 | CarJacker: Hotwired and Gone! | 66365 | [66365-carjacker-hotwired-and-gone.json](./66365-carjacker-hotwired-and-gone.json) |
+| Carl | 176233 | [176233-carl.json](./176233-carl.json) |
 | Carl Currency, Expert Exchanger | 229345 | [229345-carl-currency-expert-exchanger.json](./229345-carl-currency-expert-exchanger.json) |
 | Carl jii-san no Sora Tobu Ie | 222455 | [222455-carl-jii-san-no-sora-tobu-ie.json](./222455-carl-jii-san-no-sora-tobu-ie.json) |
 | Carl Lewis Athletics 2000 | 66342 | [66342-carl-lewis-athletics-2000.json](./66342-carl-lewis-athletics-2000.json) |
@@ -5625,6 +5630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circuit's Edge | 50150 | [50150-circuits-edge.json](./50150-circuits-edge.json) |
 | Circuitdream.exe | 202242 | [202242-circuitdream-exe.json](./202242-circuitdream-exe.json) |
 | Circuitous | 90658 | [90658-circuitous.json](./90658-circuitous.json) |
+| Circuits | 176234 | [176234-circuits.json](./176234-circuits.json) |
 | Circular | 169466 | [169466-circular.json](./169466-circular.json) |
 | Circular | 205092 | [205092-circular.json](./205092-circular.json) |
 | Circular Defense | 284964 | [284964-circular-defense.json](./284964-circular-defense.json) |
@@ -8483,6 +8489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confession Box | 417559 | [417559-confession-box.json](./417559-confession-box.json) |
 | Confession of the Golden Witch | 255386 | [255386-confession-of-the-golden-witch.json](./255386-confession-of-the-golden-witch.json) |
 | Confessions at Candlewood Lake | 174113 | [174113-confessions-at-candlewood-lake.json](./174113-confessions-at-candlewood-lake.json) |
+| Confessions of an NPC | 176232 | [176232-confessions-of-an-npc.json](./176232-confessions-of-an-npc.json) |
 | Confettied | 412395 | [412395-confettied.json](./412395-confettied.json) |
 | Confidential Killings | 340987 | [340987-confidential-killings.json](./340987-confidential-killings.json) |
 | Confidential Mission | 305954 | [305954-confidential-mission.json](./305954-confidential-mission.json) |
@@ -8951,6 +8958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Control Room | 333794 | [333794-control-room.json](./333794-control-room.json) |
 | Control Room Alpha | 207816 | [207816-control-room-alpha.json](./207816-control-room-alpha.json) |
 | Control Season Pass | 122314 | [122314-control-season-pass.json](./122314-control-season-pass.json) |
+| Control Shift | 176224 | [176224-control-shift.json](./176224-control-shift.json) |
 | Control the Ball | 312198 | [312198-control-the-ball.json](./312198-control-the-ball.json) |
 | Control the Body | 287303 | [287303-control-the-body.json](./287303-control-the-body.json) |
 | Control: Expeditions | 298854 | [298854-control-expeditions.json](./298854-control-expeditions.json) |
