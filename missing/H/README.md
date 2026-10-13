@@ -2057,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Healthy Living | 144853 | [144853-healthy-living.json](./144853-healthy-living.json) |
 | Healthy Plane | 220794 | [220794-healthy-plane.json](./220794-healthy-plane.json) |
 | Healthy Weapon | 112332 | [112332-healthy-weapon.json](./112332-healthy-weapon.json) |
+| Heaock | 157900 | [157900-heaock.json](./157900-heaock.json) |
 | HeapVR | 29664 | [29664-heapvr.json](./29664-heapvr.json) |
 | Hear My Cult | 260597 | [260597-hear-my-cult.json](./260597-hear-my-cult.json) |
 | Hear My Light | 414143 | [414143-hear-my-light.json](./414143-hear-my-light.json) |
@@ -3332,6 +3333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Miko | 343754 | [343754-hentai-miko.json](./343754-hentai-miko.json) |
 | Hentai Milf | 296908 | [296908-hentai-milf.json](./296908-hentai-milf.json) |
 | Hentai Milf City | 371375 | [371375-hentai-milf-city.json](./371375-hentai-milf-city.json) |
+| Hentai Milf Quiz 3 | 157897 | [157897-hentai-milf-quiz-3.json](./157897-hentai-milf-quiz-3.json) |
 | Hentai Milf Syndicate | 368076 | [368076-hentai-milf-syndicate.json](./368076-hentai-milf-syndicate.json) |
 | Hentai Military | 238434 | [238434-hentai-military.json](./238434-hentai-military.json) |
 | Hentai Minesweeper | 353207 | [353207-hentai-minesweeper.json](./353207-hentai-minesweeper.json) |
@@ -3351,6 +3353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai no Hero | 110358 | [110358-hentai-no-hero.json](./110358-hentai-no-hero.json) |
 | Hentai Nureta Puzzle College | 161411 | [161411-hentai-nureta-puzzle-college.json](./161411-hentai-nureta-puzzle-college.json) |
 | Hentai Nureta Puzzle Cyberpunk | 163557 | [163557-hentai-nureta-puzzle-cyberpunk.json](./163557-hentai-nureta-puzzle-cyberpunk.json) |
+| Hentai Nureta Puzzle Mythica | 157898 | [157898-hentai-nureta-puzzle-mythica.json](./157898-hentai-nureta-puzzle-mythica.json) |
 | Hentai Nureta Puzzle Power Girls | 163559 | [163559-hentai-nureta-puzzle-power-girls.json](./163559-hentai-nureta-puzzle-power-girls.json) |
 | Hentai Nurse | 296945 | [296945-hentai-nurse.json](./296945-hentai-nurse.json) |
 | Hentai Nurse | 322720 | [322720-hentai-nurse.json](./322720-hentai-nurse.json) |
