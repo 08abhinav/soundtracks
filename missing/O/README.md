@@ -1719,6 +1719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Pirate Warriors 4 - Character Pack 7 | 375163 | [375163-one-piece-pirate-warriors-4-character-pack-7.json](./375163-one-piece-pirate-warriors-4-character-pack-7.json) |
 | One Piece: Pirate Warriors 4 - Character Pack 8 Special Selection | 375164 | [375164-one-piece-pirate-warriors-4-character-pack-8-special-selection.json](./375164-one-piece-pirate-warriors-4-character-pack-8-special-selection.json) |
 | One Piece: Pirate Warriors 4 - Character Pass 2 | 259547 | [259547-one-piece-pirate-warriors-4-character-pass-2.json](./259547-one-piece-pirate-warriors-4-character-pass-2.json) |
+| One Piece: Pirate Warriors 4 - Kaido Edition | 136137 | [136137-one-piece-pirate-warriors-4-kaido-edition.json](./136137-one-piece-pirate-warriors-4-kaido-edition.json) |
 | One Piece: Pirate Warriors 4 - Legend Dawn Pack | 294853 | [294853-one-piece-pirate-warriors-4-legend-dawn-pack.json](./294853-one-piece-pirate-warriors-4-legend-dawn-pack.json) |
 | One Piece: Pirate Warriors 4 - One Piece Film: Red Anime Song Pack | 291058 | [291058-one-piece-pirate-warriors-4-one-piece-film-red-anime-song-pack.json](./291058-one-piece-pirate-warriors-4-one-piece-film-red-anime-song-pack.json) |
 | One Piece: Pirate Warriors 4 - One Piece Film: Red Pack | 283182 | [283182-one-piece-pirate-warriors-4-one-piece-film-red-pack.json](./283182-one-piece-pirate-warriors-4-one-piece-film-red-pack.json) |
@@ -2114,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oo-Topos | 25611 | [25611-oo-topos.json](./25611-oo-topos.json) |
 | Ooedo Blacksmith | 143445 | [143445-ooedo-blacksmith.json](./143445-ooedo-blacksmith.json) |
 | Ooedo Senryoubako | 269521 | [269521-ooedo-senryoubako.json](./269521-ooedo-senryoubako.json) |
+| Ooer | 137342 | [137342-ooer.json](./137342-ooer.json) |
 | OOG: The Object Orientation Game | 69545 | [69545-oog-the-object-orientation-game.json](./69545-oog-the-object-orientation-game.json) |
 | Ooga Booga | 10961 | [10961-ooga-booga.json](./10961-ooga-booga.json) |
 | Ooga Booga Battle | 341512 | [341512-ooga-booga-battle.json](./341512-ooga-booga-battle.json) |
@@ -2743,6 +2745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orgel of Orpheus: Orpheus no Ginkoto | 414131 | [414131-orgel-of-orpheus-orpheus-no-ginkoto.json](./414131-orgel-of-orpheus-orpheus-no-ginkoto.json) |
 | Orgel of Orpheus: Other Comb no Senritsu | 414132 | [414132-orgel-of-orpheus-other-comb-no-senritsu.json](./414132-orgel-of-orpheus-other-comb-no-senritsu.json) |
 | Orguss | 6121 | [6121-orguss.json](./6121-orguss.json) |
+| Ori and the Will of the Wisps: Collector's Edition | 136149 | [136149-ori-and-the-will-of-the-wisps-collectors-edition.json](./136149-ori-and-the-will-of-the-wisps-collectors-edition.json) |
 | Ori: The Collection | 143447 | [143447-ori-the-collection.json](./143447-ori-the-collection.json) |
 | Oricmunch | 137472 | [137472-oricmunch.json](./137472-oricmunch.json) |
 | Orient Arcadia | 197331 | [197331-orient-arcadia.json](./197331-orient-arcadia.json) |
