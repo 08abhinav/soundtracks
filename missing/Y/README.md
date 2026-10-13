@@ -598,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yōngbīng Zhàngē | 127232 | [127232-yongbing-zhange.json](./127232-yongbing-zhange.json) |
 | Yongjiang River | 376275 | [376275-yongjiang-river.json](./376275-yongjiang-river.json) |
 | Yongye Xiezouqu | 411106 | [411106-yongye-xiezouqu.json](./411106-yongye-xiezouqu.json) |
+| Yǒngzhě de Shí Rì Rénshēng | 161573 | [161573-yongzhe-de-shi-ri-rensheng.json](./161573-yongzhe-de-shi-ri-rensheng.json) |
 | Yoobot Vs. Yoonot | 320350 | [320350-yoobot-vs-yoonot.json](./320350-yoobot-vs-yoonot.json) |
 | Yooca: Next Horizon | 369058 | [369058-yooca-next-horizon.json](./369058-yooca-next-horizon.json) |
 | Yooca: Your Life | 390516 | [390516-yooca-your-life.json](./390516-yooca-your-life.json) |
@@ -1373,6 +1374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yurivania 2: Josette's Quest | 206158 | [206158-yurivania-2-josettes-quest.json](./206158-yurivania-2-josettes-quest.json) |
 | Yurivania 3: Circle of the Polycule | 364533 | [364533-yurivania-3-circle-of-the-polycule.json](./364533-yurivania-3-circle-of-the-polycule.json) |
 | Yurivania: Uhaul of the Night | 206156 | [206156-yurivania-uhaul-of-the-night.json](./206156-yurivania-uhaul-of-the-night.json) |
+| Yuro's Fantasy Adventure | 161621 | [161621-yuros-fantasy-adventure.json](./161621-yuros-fantasy-adventure.json) |
 | Yuru Yuru Gekijou Classic | 221254 | [221254-yuru-yuru-gekijou-classic.json](./221254-yuru-yuru-gekijou-classic.json) |
 | Yuru-Eto Card Battle | 409502 | [409502-yuru-eto-card-battle.json](./409502-yuru-eto-card-battle.json) |
 | Yuru-fuwa Ball | 206677 | [206677-yuru-fuwa-ball.json](./206677-yuru-fuwa-ball.json) |
