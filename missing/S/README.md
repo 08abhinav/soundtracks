@@ -3374,6 +3374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seishoujo Kantai Virgin Fleet | 290423 | [290423-seishoujo-kantai-virgin-fleet.json](./290423-seishoujo-kantai-virgin-fleet.json) |
 | Seishun Quiz Colorful High School | 247541 | [247541-seishun-quiz-colorful-high-school.json](./247541-seishun-quiz-colorful-high-school.json) |
 | Seishun! Bukatsu Aruaru | 251515 | [251515-seishun-bukatsu-aruaru.json](./251515-seishun-bukatsu-aruaru.json) |
+| Seiso Master KEN | 155388 | [155388-seiso-master-ken.json](./155388-seiso-master-ken.json) |
 | Seito Kaichou de Amaenbou na Onee-chan ha Suki Desu ka? | 399191 | [399191-seito-kaichou-de-amaenbou-na-onee-chan-ha-suki-desu-ka.json](./399191-seito-kaichou-de-amaenbou-na-onee-chan-ha-suki-desu-ka.json) |
 | Seiun Kamen Machineman: Dengeki Convert | 385750 | [385750-seiun-kamen-machineman-dengeki-convert.json](./385750-seiun-kamen-machineman-dengeki-convert.json) |
 | Seiya Online | 144251 | [144251-seiya-online.json](./144251-seiya-online.json) |
@@ -7516,6 +7517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir Noggin | 376556 | [376556-sir-noggin.json](./376556-sir-noggin.json) |
 | Sir Questionnaire | 96201 | [96201-sir-questionnaire.json](./96201-sir-questionnaire.json) |
 | Sir Stretchalot: The Plight of the Elves | 216227 | [216227-sir-stretchalot-the-plight-of-the-elves.json](./216227-sir-stretchalot-the-plight-of-the-elves.json) |
+| Sir Stretchalot: The Wenches in the Well | 155370 | [155370-sir-stretchalot-the-wenches-in-the-well.json](./155370-sir-stretchalot-the-wenches-in-the-well.json) |
 | Sir Tincan: Adventures in the Castle | 147655 | [147655-sir-tincan-adventures-in-the-castle.json](./147655-sir-tincan-adventures-in-the-castle.json) |
 | Sir War-A-Lot | 158093 | [158093-sir-war-a-lot.json](./158093-sir-war-a-lot.json) |
 | Sir Whoopass & Switchball HD Bundle | 244792 | [244792-sir-whoopass-and-switchball-hd-bundle.json](./244792-sir-whoopass-and-switchball-hd-bundle.json) |
@@ -8283,6 +8285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyIsland | 238062 | [238062-skyisland.json](./238062-skyisland.json) |
 | Skyjet | 47245 | [47245-skyjet.json](./47245-skyjet.json) |
 | SkyJumper | 190732 | [190732-skyjumper.json](./190732-skyjumper.json) |
+| Skyjunk | 155386 | [155386-skyjunk.json](./155386-skyjunk.json) |
 | Skykeepers | 28024 | [28024-skykeepers.json](./28024-skykeepers.json) |
 | Skyland Defense | 109672 | [109672-skyland-defense.json](./109672-skyland-defense.json) |
 | Skyland Wars | 294588 | [294588-skyland-wars.json](./294588-skyland-wars.json) |
@@ -8528,6 +8531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slayer Shock | 24646 | [24646-slayer-shock.json](./24646-slayer-shock.json) |
 | Slayer: The Demon Haunted World | 212150 | [212150-slayer-the-demon-haunted-world.json](./212150-slayer-the-demon-haunted-world.json) |
 | Slayers Royal 2 | 72660 | [72660-slayers-royal-2.json](./72660-slayers-royal-2.json) |
+| Slayers, Inc. | 155364 | [155364-slayers-inc.json](./155364-slayers-inc.json) |
 | Slaygon | 55148 | [55148-slaygon.json](./55148-slaygon.json) |
 | Slayin | 59671 | [59671-slayin.json](./59671-slayin.json) |
 | Slayin 2 | 134021 | [134021-slayin-2.json](./134021-slayin-2.json) |
@@ -10943,6 +10947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something's Out There | 235739 | [235739-somethings-out-there.json](./235739-somethings-out-there.json) |
 | Something's Wrong With Sunny Day Jack | 207314 | [207314-somethings-wrong-with-sunny-day-jack.json](./207314-somethings-wrong-with-sunny-day-jack.json) |
 | Sometimes Always Monsters | 20122 | [20122-sometimes-always-monsters.json](./20122-sometimes-always-monsters.json) |
+| Sometimes Always Monsters: Author Outfits | 155375 | [155375-sometimes-always-monsters-author-outfits.json](./155375-sometimes-always-monsters-author-outfits.json) |
 | Sometimes They Come Back | 204858 | [204858-sometimes-they-come-back.json](./204858-sometimes-they-come-back.json) |
 | Sometimes: Success Requires Sacrifice | 35712 | [35712-sometimes-success-requires-sacrifice.json](./35712-sometimes-success-requires-sacrifice.json) |
 | Somewhere | 324306 | [324306-somewhere.json](./324306-somewhere.json) |
@@ -19214,6 +19219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Starry Sky | 154574 | [154574-sudoku-starry-sky.json](./154574-sudoku-starry-sky.json) |
 | Sudoku Student | 84912 | [84912-sudoku-student.json](./84912-sudoku-student.json) |
 | Sudoku Sweeper | 197720 | [197720-sudoku-sweeper.json](./197720-sudoku-sweeper.json) |
+| Sudoku Time | 155355 | [155355-sudoku-time.json](./155355-sudoku-time.json) |
 | Sudoku to 3-Tsu no Puzzle: Nikoli no Puzzle Variety | 222313 | [222313-sudoku-to-3-tsu-no-puzzle-nikoli-no-puzzle-variety.json](./222313-sudoku-to-3-tsu-no-puzzle-nikoli-no-puzzle-variety.json) |
 | Sudoku Touch | 88415 | [88415-sudoku-touch.json](./88415-sudoku-touch.json) |
 | Sudoku Universe | 121747 | [121747-sudoku-universe.json](./121747-sudoku-universe.json) |
