@@ -684,9 +684,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offworld Trading Company: Almanac | 124802 | [124802-offworld-trading-company-almanac.json](./124802-offworld-trading-company-almanac.json) |
 | Offworld Trading Company: Blue Chip Ventures | 124835 | [124835-offworld-trading-company-blue-chip-ventures.json](./124835-offworld-trading-company-blue-chip-ventures.json) |
 | Offworld Trading Company: Ceres Initiative | 154480 | [154480-offworld-trading-company-ceres-initiative.json](./154480-offworld-trading-company-ceres-initiative.json) |
+| Offworld Trading Company: Interdimensional | 167924 | [167924-offworld-trading-company-interdimensional.json](./167924-offworld-trading-company-interdimensional.json) |
 | Offworld Trading Company: Limited Supply | 154477 | [154477-offworld-trading-company-limited-supply.json](./154477-offworld-trading-company-limited-supply.json) |
+| Offworld Trading Company: Market Corrections | 167925 | [167925-offworld-trading-company-market-corrections.json](./167925-offworld-trading-company-market-corrections.json) |
 | Offworld Trading Company: Real Mars Map Pack | 154444 | [154444-offworld-trading-company-real-mars-map-pack.json](./154444-offworld-trading-company-real-mars-map-pack.json) |
 | Offworld Trading Company: Scenario Toolkit | 154479 | [154479-offworld-trading-company-scenario-toolkit.json](./154479-offworld-trading-company-scenario-toolkit.json) |
+| Offworld Trading Company: The Europa Wager Expansion | 167926 | [167926-offworld-trading-company-the-europa-wager-expansion.json](./167926-offworld-trading-company-the-europa-wager-expansion.json) |
 | Offworld Trading Company: The Patron and the Patriot | 124817 | [124817-offworld-trading-company-the-patron-and-the-patriot.json](./124817-offworld-trading-company-the-patron-and-the-patriot.json) |
 | Oftalmogarden | 189176 | [189176-oftalmogarden.json](./189176-oftalmogarden.json) |
 | Ofuxë the Guardian of Nature | 291216 | [291216-ofuxe-the-guardian-of-nature.json](./291216-ofuxe-the-guardian-of-nature.json) |
@@ -1461,6 +1464,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Day for Revenge | 104020 | [104020-one-day-for-revenge.json](./104020-one-day-for-revenge.json) |
 | One Day Hike | 298435 | [298435-one-day-hike.json](./298435-one-day-hike.json) |
 | One Day in London | 32931 | [32931-one-day-in-london.json](./32931-one-day-in-london.json) |
+| One Day in London: Chapter III | 167884 | [167884-one-day-in-london-chapter-iii.json](./167884-one-day-in-london-chapter-iii.json) |
+| One Day in London: Chapter IV | 167883 | [167883-one-day-in-london-chapter-iv.json](./167883-one-day-in-london-chapter-iv.json) |
+| One Day in London: Chapter V | 167885 | [167885-one-day-in-london-chapter-v.json](./167885-one-day-in-london-chapter-v.json) |
 | One Day More | 150535 | [150535-one-day-more.json](./150535-one-day-more.json) |
 | One Day of Mr. Potato | 246383 | [246383-one-day-of-mr-potato.json](./246383-one-day-of-mr-potato.json) |
 | One Deck Dungeon: Abyssal Depths | 163255 | [163255-one-deck-dungeon-abyssal-depths.json](./163255-one-deck-dungeon-abyssal-depths.json) |
@@ -1832,6 +1838,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OneBit Demon Attack | 292055 | [292055-onebit-demon-attack.json](./292055-onebit-demon-attack.json) |
 | OneBit Frogger | 209651 | [209651-onebit-frogger.json](./209651-onebit-frogger.json) |
 | OneBit Jetpack | 292054 | [292054-onebit-jetpack.json](./292054-onebit-jetpack.json) |
+| Onechanbara Origin: Exclusive Aya Bonus Mission - Father Loses His Sanity | 167896 | [167896-onechanbara-origin-exclusive-aya-bonus-mission-father-loses-his-sanity.json](./167896-onechanbara-origin-exclusive-aya-bonus-mission-father-loses-his-sanity.json) |
+| Onechanbara Origin: Exclusive Aya Bonus Mission - Memories with Father | 167897 | [167897-onechanbara-origin-exclusive-aya-bonus-mission-memories-with-father.json](./167897-onechanbara-origin-exclusive-aya-bonus-mission-memories-with-father.json) |
+| Onechanbara Origin: Exclusive Lei Bonus Mission - Battle Experiment with 137 | 167895 | [167895-onechanbara-origin-exclusive-lei-bonus-mission-battle-experiment-with-137.json](./167895-onechanbara-origin-exclusive-lei-bonus-mission-battle-experiment-with-137.json) |
+| Onechanbara Origin: Exclusive Lei Bonus Mission - Dear Saki | 167903 | [167903-onechanbara-origin-exclusive-lei-bonus-mission-dear-saki.json](./167903-onechanbara-origin-exclusive-lei-bonus-mission-dear-saki.json) |
+| Onechanbara Origin: Exclusive Lei Bonus Mission - My Aya | 167902 | [167902-onechanbara-origin-exclusive-lei-bonus-mission-my-aya.json](./167902-onechanbara-origin-exclusive-lei-bonus-mission-my-aya.json) |
+| Onechanbara Origin: Exclusive Lei Bonus Mission - Poisoning Experiment No. 1 | 167900 | [167900-onechanbara-origin-exclusive-lei-bonus-mission-poisoning-experiment-no-1.json](./167900-onechanbara-origin-exclusive-lei-bonus-mission-poisoning-experiment-no-1.json) |
+| Onechanbara Origin: Exclusive Lei Bonus Mission - Poisoning Experiment No. XX | 167894 | [167894-onechanbara-origin-exclusive-lei-bonus-mission-poisoning-experiment-no-xx.json](./167894-onechanbara-origin-exclusive-lei-bonus-mission-poisoning-experiment-no-xx.json) |
+| Onechanbara Origin: Exclusive Lei Bonus Mission - The Destruction of Uroboros | 167898 | [167898-onechanbara-origin-exclusive-lei-bonus-mission-the-destruction-of-uroboros.json](./167898-onechanbara-origin-exclusive-lei-bonus-mission-the-destruction-of-uroboros.json) |
+| Onechanbara Origin: Exclusive Saki Bonus Mission - A Shitty Father | 167901 | [167901-onechanbara-origin-exclusive-saki-bonus-mission-a-shitty-father.json](./167901-onechanbara-origin-exclusive-saki-bonus-mission-a-shitty-father.json) |
+| Onechanbara Origin: Exclusive Saki Bonus Mission - Fight to the Death | 167899 | [167899-onechanbara-origin-exclusive-saki-bonus-mission-fight-to-the-death.json](./167899-onechanbara-origin-exclusive-saki-bonus-mission-fight-to-the-death.json) |
 | Onechanbara Z: Kagura With NoNoNo! | 116359 | [116359-onechanbara-z-kagura-with-nonono.json](./116359-onechanbara-z-kagura-with-nonono.json) |
 | OneDayOne | 341505 | [341505-onedayone.json](./341505-onedayone.json) |
 | Onee Chanbara Origin | 139921 | [139921-onee-chanbara-origin.json](./139921-onee-chanbara-origin.json) |
