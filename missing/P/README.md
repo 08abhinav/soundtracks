@@ -9961,6 +9961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prodigy Racing | 311287 | [311287-prodigy-racing.json](./311287-prodigy-racing.json) |
 | Prodigy Tactics | 77360 | [77360-prodigy-tactics.json](./77360-prodigy-tactics.json) |
 | Prodoomer | 201234 | [201234-prodoomer.json](./201234-prodoomer.json) |
+| Producer (2021) | 154283 | [154283-producer-2021.json](./154283-producer-2021.json) |
 | Producer Tycoon | 244319 | [244319-producer-tycoon.json](./244319-producer-tycoon.json) |
 | Production Line: Doors that go like this | 124782 | [124782-production-line-doors-that-go-like-this.json](./124782-production-line-doors-that-go-like-this.json) |
 | Prof. Miyamoto's Soroban & Flash Anzan | 244825 | [244825-prof-miyamotos-soroban-and-flash-anzan.json](./244825-prof-miyamotos-soroban-and-flash-anzan.json) |
@@ -10182,6 +10183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project D: Human Risen | 126632 | [126632-project-d-human-risen.json](./126632-project-d-human-risen.json) |
 | Project Dagger | 195993 | [195993-project-dagger.json](./195993-project-dagger.json) |
 | Project Dark | 244818 | [244818-project-dark.json](./244818-project-dark.json) |
+| Project Dark Sky | 154282 | [154282-project-dark-sky.json](./154282-project-dark-sky.json) |
 | Project Darkness | 326863 | [326863-project-darkness.json](./326863-project-darkness.json) |
 | Project Death Strikers | 211272 | [211272-project-death-strikers.json](./211272-project-death-strikers.json) |
 | Project DeepWeb | 120422 | [120422-project-deepweb.json](./120422-project-deepweb.json) |
