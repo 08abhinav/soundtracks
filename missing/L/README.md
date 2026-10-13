@@ -878,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Kid on the Bus | 409712 | [409712-last-kid-on-the-bus.json](./409712-last-kid-on-the-bus.json) |
 | Last King of Africa | 47883 | [47883-last-king-of-africa.json](./47883-last-king-of-africa.json) |
 | Last Kingdom | 361305 | [361305-last-kingdom.json](./361305-last-kingdom.json) |
+| Last Kingdom: The Card Game | 156910 | [156910-last-kingdom-the-card-game.json](./156910-last-kingdom-the-card-game.json) |
 | Last Kiss Before Summer | 218631 | [218631-last-kiss-before-summer.json](./218631-last-kiss-before-summer.json) |
 | Last Knight | 177847 | [177847-last-knight.json](./177847-last-knight.json) |
 | Last Knight | 53266 | [53266-last-knight.json](./53266-last-knight.json) |
@@ -5262,6 +5263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Impressions | 125381 | [125381-lost-impressions.json](./125381-lost-impressions.json) |
 | Lost In 80s II | 89673 | [89673-lost-in-80s-ii.json](./89673-lost-in-80s-ii.json) |
 | Lost in a Forest | 35895 | [35895-lost-in-a-forest.json](./35895-lost-in-a-forest.json) |
+| Lost in Abyss | 156895 | [156895-lost-in-abyss.json](./156895-lost-in-abyss.json) |
 | Lost in Anomaly | 325622 | [325622-lost-in-anomaly.json](./325622-lost-in-anomaly.json) |
 | Lost in Art | 407328 | [407328-lost-in-art.json](./407328-lost-in-art.json) |
 | Lost in Blindness | 146709 | [146709-lost-in-blindness.json](./146709-lost-in-blindness.json) |
@@ -5925,6 +5927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Low Oxygen | 239697 | [239697-low-oxygen.json](./239697-low-oxygen.json) |
 | Low Poly Flight Simulator | 411572 | [411572-low-poly-flight-simulator.json](./411572-low-poly-flight-simulator.json) |
 | Low Poly Mouse Game | 381961 | [381961-low-poly-mouse-game.json](./381961-low-poly-mouse-game.json) |
+| Low Story | 156916 | [156916-low-story.json](./156916-low-story.json) |
 | Low Taper Fade 3D | 382534 | [382534-low-taper-fade-3d.json](./382534-low-taper-fade-3d.json) |
 | Low Tide | 377252 | [377252-low-tide.json](./377252-low-tide.json) |
 | Low Value Job | 385354 | [385354-low-value-job.json](./385354-low-value-job.json) |
