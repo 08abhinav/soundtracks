@@ -2475,6 +2475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EndlessHell | 117046 | [117046-endlesshell.json](./117046-endlesshell.json) |
 | Endlessly | 245312 | [245312-endlessly.json](./245312-endlessly.json) |
 | EndlessRunner | 269100 | [269100-endlessrunner.json](./269100-endlessrunner.json) |
+| Endlight | 157905 | [157905-endlight.json](./157905-endlight.json) |
 | Endline | 144984 | [144984-endline.json](./144984-endline.json) |
 | Endling: Extinction is Forever | 105623 | [105623-endling-extinction-is-forever.json](./105623-endling-extinction-is-forever.json) |
 | Endo | 158503 | [158503-endo.json](./158503-endo.json) |
