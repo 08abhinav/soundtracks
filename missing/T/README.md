@@ -17532,6 +17532,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touken Ranbu: Online Pocket | 194031 | [194031-touken-ranbu-online-pocket.json](./194031-touken-ranbu-online-pocket.json) |
 | Touki Kyouka | 82490 | [82490-touki-kyouka.json](./82490-touki-kyouka.json) |
 | Toukiden 2: Limited Edition | 167086 | [167086-toukiden-2-limited-edition.json](./167086-toukiden-2-limited-edition.json) |
+| Toukiden 2: Mission Collection Set 1 | 167916 | [167916-toukiden-2-mission-collection-set-1.json](./167916-toukiden-2-mission-collection-set-1.json) |
+| Toukiden 2: Mission Collection Set 2 | 167919 | [167919-toukiden-2-mission-collection-set-2.json](./167919-toukiden-2-mission-collection-set-2.json) |
+| Toukiden 2: Mission Collection Set 3 | 167918 | [167918-toukiden-2-mission-collection-set-3.json](./167918-toukiden-2-mission-collection-set-3.json) |
+| Toukiden 2: Mission Collection Set 4 | 167917 | [167917-toukiden-2-mission-collection-set-4.json](./167917-toukiden-2-mission-collection-set-4.json) |
 | Toukiden: Kiwami - Mission Collection 1-3 | 171916 | [171916-toukiden-kiwami-mission-collection-1-3.json](./171916-toukiden-kiwami-mission-collection-1-3.json) |
 | Toukiden: Kiwami - Mission Collection 4-7 | 171917 | [171917-toukiden-kiwami-mission-collection-4-7.json](./171917-toukiden-kiwami-mission-collection-4-7.json) |
 | Toukiden: Kiwami - Mission Collection 8-11 | 171918 | [171918-toukiden-kiwami-mission-collection-8-11.json](./171918-toukiden-kiwami-mission-collection-8-11.json) |
