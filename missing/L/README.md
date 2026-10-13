@@ -4074,6 +4074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Sick Girls: Kagami no Naka no Idol | 415135 | [415135-little-sick-girls-kagami-no-naka-no-idol.json](./415135-little-sick-girls-kagami-no-naka-no-idol.json) |
 | Little Sick Girls: Momo Mitsu ha Imouto no Kaori | 415137 | [415137-little-sick-girls-momo-mitsu-ha-imouto-no-kaori.json](./415137-little-sick-girls-momo-mitsu-ha-imouto-no-kaori.json) |
 | Little Sick Girls: Osananajimi no Koibito | 415134 | [415134-little-sick-girls-osananajimi-no-koibito.json](./415134-little-sick-girls-osananajimi-no-koibito.json) |
+| Little Sim World | 140973 | [140973-little-sim-world.json](./140973-little-sim-world.json) |
 | Little Smart Planet | 81728 | [81728-little-smart-planet.json](./81728-little-smart-planet.json) |
 | Little Soldier | 164436 | [164436-little-soldier.json](./164436-little-soldier.json) |
 | Little Sound Boxing Champion | 316347 | [316347-little-sound-boxing-champion.json](./316347-little-sound-boxing-champion.json) |
@@ -4658,6 +4659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lollypop | 9762 | [9762-lollypop.json](./9762-lollypop.json) |
 | LolShot.io | 202776 | [202776-lolshot-io.json](./202776-lolshot-io.json) |
 | Lombard RAC Rally | 12920 | [12920-lombard-rac-rally.json](./12920-lombard-rac-rally.json) |
+| Lombardi's World | 141576 | [141576-lombardis-world.json](./141576-lombardis-world.json) |
 | Lomo Overgrow | 398346 | [398346-lomo-overgrow.json](./398346-lomo-overgrow.json) |
 | Lonath Online | 34323 | [34323-lonath-online.json](./34323-lonath-online.json) |
 | London 2012: Official Mobile Game | 137015 | [137015-london-2012-official-mobile-game.json](./137015-london-2012-official-mobile-game.json) |
@@ -5933,6 +5935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lover Survivors | 303638 | [303638-lover-survivors.json](./303638-lover-survivors.json) |
 | Loverboy | 24906 | [24906-loverboy.json](./24906-loverboy.json) |
 | Loveressive | 194598 | [194598-loveressive.json](./194598-loveressive.json) |
+| LoverPretend | 141586 | [141586-loverpretend.json](./141586-loverpretend.json) |
 | Lovers ' Smiles | 111184 | [111184-lovers-smiles.json](./111184-lovers-smiles.json) |
 | Lovers ' Smiles 2 | 115637 | [115637-lovers-smiles-2.json](./115637-lovers-smiles-2.json) |
 | Lovers Anonymous: Rehab for Romantics | 217482 | [217482-lovers-anonymous-rehab-for-romantics.json](./217482-lovers-anonymous-rehab-for-romantics.json) |
