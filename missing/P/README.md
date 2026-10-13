@@ -6153,6 +6153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies: Original Edition | 310568 | [310568-plants-vs-zombies-original-edition.json](./310568-plants-vs-zombies-original-edition.json) |
 | Plants vs. Zombies: Replanted | 358529 | [358529-plants-vs-zombies-replanted.json](./358529-plants-vs-zombies-replanted.json) |
 | Plantsportation | 249930 | [249930-plantsportation.json](./249930-plantsportation.json) |
+| Plantstead | 176933 | [176933-plantstead.json](./176933-plantstead.json) |
 | Planum | 96890 | [96890-planum.json](./96890-planum.json) |
 | Plaque Attack | 18410 | [18410-plaque-attack.json](./18410-plaque-attack.json) |
 | Plaqueman | 229928 | [229928-plaqueman.json](./229928-plaqueman.json) |
@@ -12040,6 +12041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramis | 397668 | [397668-pyramis.json](./397668-pyramis.json) |
 | Pyrastak | 351757 | [351757-pyrastak.json](./351757-pyrastak.json) |
 | Pyratel | 308239 | [308239-pyratel.json](./308239-pyratel.json) |
+| Pyrates! | 176742 | [176742-pyrates.json](./176742-pyrates.json) |
 | Pyrite Heart | 17860 | [17860-pyrite-heart.json](./17860-pyrite-heart.json) |
 | Pyro | 373724 | [373724-pyro.json](./373724-pyro.json) |
 | Pyro Complete Bundle | 218460 | [218460-pyro-complete-bundle.json](./218460-pyro-complete-bundle.json) |
