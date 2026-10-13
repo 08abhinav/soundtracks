@@ -2650,6 +2650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart: Super Circuit | 2343 | [2343-mario-kart-super-circuit.json](./2343-mario-kart-super-circuit.json) |
 | Mario Kart: Ultra Circuit | 318508 | [318508-mario-kart-ultra-circuit.json](./318508-mario-kart-ultra-circuit.json) |
 | Mario Kart: Virtual Cup | 195211 | [195211-mario-kart-virtual-cup.json](./195211-mario-kart-virtual-cup.json) |
+| Mario Land: Minigame Mayhem | 134958 | [134958-mario-land-minigame-mayhem.json](./134958-mario-land-minigame-mayhem.json) |
 | Mario Learns About Colors | 323187 | [323187-mario-learns-about-colors.json](./323187-mario-learns-about-colors.json) |
 | Mario Learns About Colors 2 | 323824 | [323824-mario-learns-about-colors-2.json](./323824-mario-learns-about-colors-2.json) |
 | Mario Left the Cheese Out | 186098 | [186098-mario-left-the-cheese-out.json](./186098-mario-left-the-cheese-out.json) |
@@ -5922,6 +5923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Menateus | 72168 | [72168-menateus.json](./72168-menateus.json) |
 | Mencabrona | 299724 | [299724-mencabrona.json](./299724-mencabrona.json) |
 | Mend Arcade Battle | 169959 | [169959-mend-arcade-battle.json](./169959-mend-arcade-battle.json) |
+| Mend Game | 134928 | [134928-mend-game.json](./134928-mend-game.json) |
 | Mendacium | 273466 | [273466-mendacium.json](./273466-mendacium.json) |
 | Mendalos | 191835 | [191835-mendalos.json](./191835-mendalos.json) |
 | Mendel Palace | 48052 | [48052-mendel-palace.json](./48052-mendel-palace.json) |
@@ -12505,6 +12507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiplication Dragons | 103545 | [103545-multiplication-dragons.json](./103545-multiplication-dragons.json) |
 | Multiplication Mayhem | 277280 | [277280-multiplication-mayhem.json](./277280-multiplication-mayhem.json) |
 | Multiplications Asteroids: Math in Space Learning Series | 89518 | [89518-multiplications-asteroids-math-in-space-learning-series.json](./89518-multiplications-asteroids-math-in-space-learning-series.json) |
+| Multipuck | 134945 | [134945-multipuck.json](./134945-multipuck.json) |
 | Multirotor Sim 2 | 81234 | [81234-multirotor-sim-2.json](./81234-multirotor-sim-2.json) |
 | Multishop Tycoon Deluxe | 30031 | [30031-multishop-tycoon-deluxe.json](./30031-multishop-tycoon-deluxe.json) |
 | Multishot | 258107 | [258107-multishot.json](./258107-multishot.json) |
@@ -12608,6 +12611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder at the Cat Show | 194317 | [194317-murder-at-the-cat-show.json](./194317-murder-at-the-cat-show.json) |
 | Murder at the Disco | 271792 | [271792-murder-at-the-disco.json](./271792-murder-at-the-disco.json) |
 | Murder at the House | 249902 | [249902-murder-at-the-house.json](./249902-murder-at-the-house.json) |
+| Murder at the Residence Gudul | 134956 | [134956-murder-at-the-residence-gudul.json](./134956-murder-at-the-residence-gudul.json) |
 | Murder Avenue | 292531 | [292531-murder-avenue.json](./292531-murder-avenue.json) |
 | Murder by Candlelight | 305369 | [305369-murder-by-candlelight.json](./305369-murder-by-candlelight.json) |
 | Murder by Choice: Mystery Game | 266265 | [266265-murder-by-choice-mystery-game.json](./266265-murder-by-choice-mystery-game.json) |
