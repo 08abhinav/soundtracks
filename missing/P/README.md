@@ -9522,6 +9522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Architect: Undead | 220790 | [220790-prison-architect-undead.json](./220790-prison-architect-undead.json) |
 | Prison Ball: Full Blown | 167214 | [167214-prison-ball-full-blown.json](./167214-prison-ball-full-blown.json) |
 | Prison Ball: Full Blown - Cheyenne Storm | 167221 | [167221-prison-ball-full-blown-cheyenne-storm.json](./167221-prison-ball-full-blown-cheyenne-storm.json) |
+| Prison Ball: Full Blown - Damon Blood | 168432 | [168432-prison-ball-full-blown-damon-blood.json](./168432-prison-ball-full-blown-damon-blood.json) |
 | Prison Ball: Full Blown - Deborah Fire | 167220 | [167220-prison-ball-full-blown-deborah-fire.json](./167220-prison-ball-full-blown-deborah-fire.json) |
 | Prison Ball: Full Blown - Naughty Ice Formations | 167219 | [167219-prison-ball-full-blown-naughty-ice-formations.json](./167219-prison-ball-full-blown-naughty-ice-formations.json) |
 | Prison Ball: Full Blown - PWN'ong! Duel of Balls! | 167216 | [167216-prison-ball-full-blown-pwnong-duel-of-balls.json](./167216-prison-ball-full-blown-pwnong-duel-of-balls.json) |
