@@ -2510,6 +2510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Femdom Waifu VR | 368641 | [368641-femdom-waifu-vr.json](./368641-femdom-waifu-vr.json) |
 | Femdom Wife Game: Zoe | 367045 | [367045-femdom-wife-game-zoe.json](./367045-femdom-wife-game-zoe.json) |
 | FemDomination 2 | 286504 | [286504-femdomination-2.json](./286504-femdomination-2.json) |
+| Feminist Confessional | 176401 | [176401-feminist-confessional.json](./176401-feminist-confessional.json) |
 | Feminize Me! | 185683 | [185683-feminize-me.json](./185683-feminize-me.json) |
 | Femme | 181745 | [181745-femme.json](./181745-femme.json) |
 | Femme Fatality | 406911 | [406911-femme-fatality.json](./406911-femme-fatality.json) |
@@ -5726,6 +5727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fog | 204841 | [204841-fog.json](./204841-fog.json) |
 | Fog & Silver | 214144 | [214144-fog-and-silver.json](./214144-fog-and-silver.json) |
 | Fog Horror | 235892 | [235892-fog-horror.json](./235892-fog-horror.json) |
+| Fog of Life | 176403 | [176403-fog-of-life.json](./176403-fog-of-life.json) |
 | Fogel and Porki Evil Arcade | 211675 | [211675-fogel-and-porki-evil-arcade.json](./211675-fogel-and-porki-evil-arcade.json) |
 | Fogrest: The Whisper of Harbingers | 332461 | [332461-fogrest-the-whisper-of-harbingers.json](./332461-fogrest-the-whisper-of-harbingers.json) |
 | Foguetão 2000 | 300815 | [300815-foguetao-2000.json](./300815-foguetao-2000.json) |
@@ -7543,6 +7545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freetown Forest | 374839 | [374839-freetown-forest.json](./374839-freetown-forest.json) |
 | Freeway | 131544 | [131544-freeway.json](./131544-freeway.json) |
 | Freeway Fiasco | 203837 | [203837-freeway-fiasco.json](./203837-freeway-fiasco.json) |
+| Freeway Fury | 175859 | [175859-freeway-fury.json](./175859-freeway-fury.json) |
 | Freeway Fury: Annihilation | 318188 | [318188-freeway-fury-annihilation.json](./318188-freeway-fury-annihilation.json) |
 | Freewheelin | 253023 | [253023-freewheelin.json](./253023-freewheelin.json) |
 | FreeWorld | 300503 | [300503-freeworld.json](./300503-freeworld.json) |
@@ -9092,6 +9095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuzzball | 69573 | [69573-fuzzball.json](./69573-fuzzball.json) |
 | FuzzBall | 140938 | [140938-fuzzball.json](./140938-fuzzball.json) |
 | Fuzzee Fever | 72942 | [72942-fuzzee-fever.json](./72942-fuzzee-fever.json) |
+| Fuzzy | 176402 | [176402-fuzzy.json](./176402-fuzzy.json) |
 | Fuzzy | 331489 | [331489-fuzzy.json](./331489-fuzzy.json) |
 | Fuzzy Critters | 104644 | [104644-fuzzy-critters.json](./104644-fuzzy-critters.json) |
 | Fuzzy Flip | 234492 | [234492-fuzzy-flip.json](./234492-fuzzy-flip.json) |
