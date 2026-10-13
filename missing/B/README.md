@@ -9521,6 +9521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrasFoot 2007 | 330851 | [330851-brasfoot-2007.json](./330851-brasfoot-2007.json) |
 | BrasFoot 2008 | 330852 | [330852-brasfoot-2008.json](./330852-brasfoot-2008.json) |
 | BrasFoot 2009 | 330853 | [330853-brasfoot-2009.json](./330853-brasfoot-2009.json) |
+| Brasfoot 2021 | 144713 | [144713-brasfoot-2021.json](./144713-brasfoot-2021.json) |
 | Brash Monster Simulator | 157419 | [157419-brash-monster-simulator.json](./157419-brash-monster-simulator.json) |
 | Brasil Fusion | 273993 | [273993-brasil-fusion.json](./273993-brasil-fusion.json) |
 | Brasil Simuleitor | 244371 | [244371-brasil-simuleitor.json](./244371-brasil-simuleitor.json) |
