@@ -1417,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Simulator | 199591 | [199591-paranormal-simulator.json](./199591-paranormal-simulator.json) |
 | Paranormal Snap Shot | 323928 | [323928-paranormal-snap-shot.json](./323928-paranormal-snap-shot.json) |
 | Paranormal State: Poison Spring - Collector's Edition | 30379 | [30379-paranormal-state-poison-spring-collectors-edition.json](./30379-paranormal-state-poison-spring-collectors-edition.json) |
+| Paranormal Stories | 164590 | [164590-paranormal-stories.json](./164590-paranormal-stories.json) |
 | Paranormal Survey | 338854 | [338854-paranormal-survey.json](./338854-paranormal-survey.json) |
 | Paranormal Syndrome | 60931 | [60931-paranormal-syndrome.json](./60931-paranormal-syndrome.json) |
 | Paranormal Syndrome 3 | 151527 | [151527-paranormal-syndrome-3.json](./151527-paranormal-syndrome-3.json) |
@@ -2211,6 +2212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 2: Buluc's Mansion Heist | 167688 | [167688-payday-2-bulucs-mansion-heist.json](./167688-payday-2-bulucs-mansion-heist.json) |
 | Payday 2: City of Gold Collection | 252886 | [252886-payday-2-city-of-gold-collection.json](./252886-payday-2-city-of-gold-collection.json) |
 | Payday 2: Clover Character Pack | 225114 | [225114-payday-2-clover-character-pack.json](./225114-payday-2-clover-character-pack.json) |
+| Payday 2: Crimewave Edition - GOAT Simulator Heists | 164579 | [164579-payday-2-crimewave-edition-goat-simulator-heists.json](./164579-payday-2-crimewave-edition-goat-simulator-heists.json) |
 | Payday 2: Dragan Character Pack | 225115 | [225115-payday-2-dragan-character-pack.json](./225115-payday-2-dragan-character-pack.json) |
 | Payday 2: Dragon Pack | 225117 | [225117-payday-2-dragon-pack.json](./225117-payday-2-dragon-pack.json) |
 | Payday 2: Espionage Weapon Pack | 400334 | [400334-payday-2-espionage-weapon-pack.json](./400334-payday-2-espionage-weapon-pack.json) |
@@ -5914,6 +5916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Coaster: Back to the Future Time Machine Construction Kit | 168240 | [168240-planet-coaster-back-to-the-future-time-machine-construction-kit.json](./168240-planet-coaster-back-to-the-future-time-machine-construction-kit.json) |
 | Planet Coaster: Classic Rides Collection | 117487 | [117487-planet-coaster-classic-rides-collection.json](./117487-planet-coaster-classic-rides-collection.json) |
 | Planet Coaster: Complete the Collection | 393795 | [393795-planet-coaster-complete-the-collection.json](./393795-planet-coaster-complete-the-collection.json) |
+| Planet Coaster: Deluxe Edition | 164575 | [164575-planet-coaster-deluxe-edition.json](./164575-planet-coaster-deluxe-edition.json) |
 | Planet Coaster: Deluxe Rides Collection | 173162 | [173162-planet-coaster-deluxe-rides-collection.json](./173162-planet-coaster-deluxe-rides-collection.json) |
 | Planet Coaster: Ghostbusters | 118924 | [118924-planet-coaster-ghostbusters.json](./118924-planet-coaster-ghostbusters.json) |
 | Planet Coaster: Knight Rider K.I.T.T. Construction Kit | 168239 | [168239-planet-coaster-knight-rider-k-i-t-t-construction-kit.json](./168239-planet-coaster-knight-rider-k-i-t-t-construction-kit.json) |
