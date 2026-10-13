@@ -9782,6 +9782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mom Crush: Hidden Hotel Love Story | 387673 | [387673-mom-crush-hidden-hotel-love-story.json](./387673-mom-crush-hidden-hotel-love-story.json) |
 | Mom Hid My Game! | 78160 | [78160-mom-hid-my-game.json](./78160-mom-hid-my-game.json) |
 | Mom Simulator 2023 | 277841 | [277841-mom-simulator-2023.json](./277841-mom-simulator-2023.json) |
+| Mombo Combo 2 | 134331 | [134331-mombo-combo-2.json](./134331-mombo-combo-2.json) |
 | Mombo Combo Legacy | 326858 | [326858-mombo-combo-legacy.json](./326858-mombo-combo-legacy.json) |
 | Moment of Moonset | 284599 | [284599-moment-of-moonset.json](./284599-moment-of-moonset.json) |
 | Moment to Midnight | 229248 | [229248-moment-to-midnight.json](./229248-moment-to-midnight.json) |
@@ -13443,6 +13444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Heroes | 188341 | [188341-my-heroes.json](./188341-my-heroes.json) |
 | My Heroes: SEA | 142426 | [142426-my-heroes-sea.json](./142426-my-heroes-sea.json) |
 | My Hidden Dreams | 339928 | [339928-my-hidden-dreams.json](./339928-my-hidden-dreams.json) |
+| My Hidden Things | 134322 | [134322-my-hidden-things.json](./134322-my-hidden-things.json) |
 | My High School Cat Girlfriend | 206155 | [206155-my-high-school-cat-girlfriend.json](./206155-my-high-school-cat-girlfriend.json) |
 | My High School Detective | 231422 | [231422-my-high-school-detective.json](./231422-my-high-school-detective.json) |
 | My Hobby: Needlework Galore - Household | 311732 | [311732-my-hobby-needlework-galore-household.json](./311732-my-hobby-needlework-galore-household.json) |
