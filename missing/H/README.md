@@ -4956,6 +4956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway | 367840 | [367840-highway.json](./367840-highway.json) |
 | Highway 11 | 377230 | [377230-highway-11.json](./377230-highway-11.json) |
 | Highway 2000 | 46097 | [46097-highway-2000.json](./46097-highway-2000.json) |
+| Highway Blossoms: Next Exit | 139123 | [139123-highway-blossoms-next-exit.json](./139123-highway-blossoms-next-exit.json) |
 | Highway Bus Rush | 352316 | [352316-highway-bus-rush.json](./352316-highway-bus-rush.json) |
 | Highway Cleaner | 234607 | [234607-highway-cleaner.json](./234607-highway-cleaner.json) |
 | Highway Crossing Madruga | 252898 | [252898-highway-crossing-madruga.json](./252898-highway-crossing-madruga.json) |
