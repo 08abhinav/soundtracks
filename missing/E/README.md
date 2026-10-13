@@ -1040,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggy | 152921 | [152921-eggy.json](./152921-eggy.json) |
 | Eggy | 91413 | [91413-eggy.json](./91413-eggy.json) |
 | Eggy Car | 335654 | [335654-eggy-car.json](./335654-eggy-car.json) |
+| Eggy Party | 174776 | [174776-eggy-party.json](./174776-eggy-party.json) |
 | Eggy Space | 292162 | [292162-eggy-space.json](./292162-eggy-space.json) |
 | Eggys Games Flash Collection | 114299 | [114299-eggys-games-flash-collection.json](./114299-eggys-games-flash-collection.json) |
 | Eggz: Collectible Eggs Clicker | 314253 | [314253-eggz-collectible-eggs-clicker.json](./314253-eggz-collectible-eggs-clicker.json) |
@@ -3636,6 +3637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escaping Diddler | 321528 | [321528-escaping-diddler.json](./321528-escaping-diddler.json) |
 | Escaping Wonderland | 306956 | [306956-escaping-wonderland.json](./306956-escaping-wonderland.json) |
 | Escapism Ltd. | 308869 | [308869-escapism-ltd.json](./308869-escapism-ltd.json) |
+| Escapology | 174582 | [174582-escapology.json](./174582-escapology.json) |
 | Escatpade | 374083 | [374083-escatpade.json](./374083-escatpade.json) |
 | Eschalism | 385574 | [385574-eschalism.json](./385574-eschalism.json) |
 | Eschatology | 273485 | [273485-eschatology.json](./273485-eschatology.json) |
@@ -4378,6 +4380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eversion | 14402 | [14402-eversion.json](./14402-eversion.json) |
 | Everslash | 122424 | [122424-everslash.json](./122424-everslash.json) |
 | Everslaught Invasion | 252108 | [252108-everslaught-invasion.json](./252108-everslaught-invasion.json) |
+| Eversoul | 174607 | [174607-eversoul.json](./174607-eversoul.json) |
 | Everspace 2: Stellar Edition | 246298 | [246298-everspace-2-stellar-edition.json](./246298-everspace-2-stellar-edition.json) |
 | Everspace 2: Titans | 315185 | [315185-everspace-2-titans.json](./315185-everspace-2-titans.json) |
 | Everspace: Stellar Edition | 102126 | [102126-everspace-stellar-edition.json](./102126-everspace-stellar-edition.json) |
@@ -4671,6 +4674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ewgeebeez | 348941 | [348941-ewgeebeez.json](./348941-ewgeebeez.json) |
 | Ewoks | 373198 | [373198-ewoks.json](./373198-ewoks.json) |
 | EWorlds | 257404 | [257404-eworlds.json](./257404-eworlds.json) |
+| Ex Astris | 174610 | [174610-ex-astris.json](./174610-ex-astris.json) |
 | Ex Change | 406293 | [406293-ex-change.json](./406293-ex-change.json) |
 | Ex Libris | 403221 | [403221-ex-libris.json](./403221-ex-libris.json) |
 | Ex Life | 140527 | [140527-ex-life.json](./140527-ex-life.json) |
