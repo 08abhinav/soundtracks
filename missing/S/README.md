@@ -1447,6 +1447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturn | 313467 | [313467-saturn.json](./313467-saturn.json) |
 | Saturn 94 | 414135 | [414135-saturn-94.json](./414135-saturn-94.json) |
 | Saturn Bomberman | 28393 | [28393-saturn-bomberman.json](./28393-saturn-bomberman.json) |
+| Saturn Quest: Blast Effect | 142188 | [142188-saturn-quest-blast-effect.json](./142188-saturn-quest-blast-effect.json) |
 | Saturn Quest: R.U.N.E. 3000 | 221169 | [221169-saturn-quest-r-u-n-e-3000.json](./221169-saturn-quest-r-u-n-e-3000.json) |
 | Saturn Quest: Shadow of Planetus | 132792 | [132792-saturn-quest-shadow-of-planetus.json](./132792-saturn-quest-shadow-of-planetus.json) |
 | Saturn Valley Online | 323764 | [323764-saturn-valley-online.json](./323764-saturn-valley-online.json) |
@@ -1645,6 +1646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saving Diary | 316655 | [316655-saving-diary.json](./316655-saving-diary.json) |
 | Saving from the Devil | 405463 | [405463-saving-from-the-devil.json](./405463-saving-from-the-devil.json) |
 | Saving Ghost | 159710 | [159710-saving-ghost.json](./159710-saving-ghost.json) |
+| Saving Grace | 142201 | [142201-saving-grace.json](./142201-saving-grace.json) |
 | Saving Healer | 223435 | [223435-saving-healer.json](./223435-saving-healer.json) |
 | Saving Mr. Sparkles | 139363 | [139363-saving-mr-sparkles.json](./139363-saving-mr-sparkles.json) |
 | Saving Mrs. Hinako | 279003 | [279003-saving-mrs-hinako.json](./279003-saving-mrs-hinako.json) |
@@ -12809,6 +12811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hulk: Space Wolves Chapter | 168865 | [168865-space-hulk-space-wolves-chapter.json](./168865-space-hulk-space-wolves-chapter.json) |
 | Space Hulk: Sword of Halcyon Campaign | 53641 | [53641-space-hulk-sword-of-halcyon-campaign.json](./53641-space-hulk-sword-of-halcyon-campaign.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
 | Space Hunter | 271175 | [271175-space-hunter.json](./271175-space-hunter.json) |
 | Space Hurricane | 385796 | [385796-space-hurricane.json](./385796-space-hurricane.json) |
@@ -13104,6 +13107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Slalom | 6138 | [6138-space-slalom.json](./6138-space-slalom.json) |
 | Space Slayer | 26793 | [26793-space-slayer.json](./26793-space-slayer.json) |
 | Space Slingshot VR | 95198 | [95198-space-slingshot-vr.json](./95198-space-slingshot-vr.json) |
+| Space Slurpies | 142211 | [142211-space-slurpies.json](./142211-space-slurpies.json) |
 | Space Smack! | 171074 | [171074-space-smack.json](./171074-space-smack.json) |
 | Space Smash | 115618 | [115618-space-smash.json](./115618-space-smash.json) |
 | Space Snatcher | 414560 | [414560-space-snatcher.json](./414560-space-snatcher.json) |
@@ -14900,6 +14904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spotted Garden Eel Adventure | 196043 | [196043-spotted-garden-eel-adventure.json](./196043-spotted-garden-eel-adventure.json) |
 | Spotter | 110163 | [110163-spotter.json](./110163-spotter.json) |
 | SPQR: The Empire's Darkest Hour | 73328 | [73328-spqr-the-empires-darkest-hour.json](./73328-spqr-the-empires-darkest-hour.json) |
+| Spram's Metroid Doom | 142220 | [142220-sprams-metroid-doom.json](./142220-sprams-metroid-doom.json) |
 | Sprawl | 143627 | [143627-sprawl.json](./143627-sprawl.json) |
 | Sprawl 96 | 314636 | [314636-sprawl-96.json](./314636-sprawl-96.json) |
 | Spray | 5192 | [5192-spray.json](./5192-spray.json) |
