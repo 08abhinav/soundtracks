@@ -2453,6 +2453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pebbles | 419869 | [419869-pebbles.json](./419869-pebbles.json) |
 | Pebbles Quest | 324337 | [324337-pebbles-quest.json](./324337-pebbles-quest.json) |
 | Pebbles? Wenches? | 176286 | [176286-pebbles-wenches.json](./176286-pebbles-wenches.json) |
+| Peblito: Rock and Roll | 163015 | [163015-peblito-rock-and-roll.json](./163015-peblito-rock-and-roll.json) |
 | Pec-Men | 335693 | [335693-pec-men.json](./335693-pec-men.json) |
 | Pecaminosa: Collector's Edition | 146141 | [146141-pecaminosa-collectors-edition.json](./146141-pecaminosa-collectors-edition.json) |
 | Peccator-It's Not Over Yet | 180104 | [180104-peccator-its-not-over-yet.json](./180104-peccator-its-not-over-yet.json) |
@@ -4319,6 +4320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pill Mania | 101074 | [101074-pill-mania.json](./101074-pill-mania.json) |
 | Pill Puzzle | 156080 | [156080-pill-puzzle.json](./156080-pill-puzzle.json) |
 | Pill Puzzle | 241868 | [241868-pill-puzzle.json](./241868-pill-puzzle.json) |
+| Pill Puzzle 2 | 163549 | [163549-pill-puzzle-2.json](./163549-pill-puzzle-2.json) |
 | Pilla's Paradise | 255573 | [255573-pillas-paradise.json](./255573-pillas-paradise.json) |
 | Pillaged Village: Humbled by Savages | 315133 | [315133-pillaged-village-humbled-by-savages.json](./315133-pillaged-village-humbled-by-savages.json) |
 | Pillar Builder Puzzle | 214684 | [214684-pillar-builder-puzzle.json](./214684-pillar-builder-puzzle.json) |
@@ -5378,6 +5380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Traditional Jigsaws: Geodes | 357956 | [357956-pixel-puzzles-traditional-jigsaws-geodes.json](./357956-pixel-puzzles-traditional-jigsaws-geodes.json) |
 | Pixel Puzzles Traditional Jigsaws: Locomotive | 357955 | [357955-pixel-puzzles-traditional-jigsaws-locomotive.json](./357955-pixel-puzzles-traditional-jigsaws-locomotive.json) |
 | Pixel Puzzles Traditional Jigsaws: Motorbikes | 357954 | [357954-pixel-puzzles-traditional-jigsaws-motorbikes.json](./357954-pixel-puzzles-traditional-jigsaws-motorbikes.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 1 | 163003 | [163003-pixel-puzzles-traditional-jigsaws-pack-variety-pack-1.json](./163003-pixel-puzzles-traditional-jigsaws-pack-variety-pack-1.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 11 | 267407 | [267407-pixel-puzzles-traditional-jigsaws-pack-variety-pack-11.json](./267407-pixel-puzzles-traditional-jigsaws-pack-variety-pack-11.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 6 | 241508 | [241508-pixel-puzzles-traditional-jigsaws-pack-variety-pack-6.json](./241508-pixel-puzzles-traditional-jigsaws-pack-variety-pack-6.json) |
 | Pixel Puzzles Traditional Jigsaws: Variety Pack XXS | 357953 | [357953-pixel-puzzles-traditional-jigsaws-variety-pack-xxs.json](./357953-pixel-puzzles-traditional-jigsaws-variety-pack-xxs.json) |
@@ -11338,6 +11341,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Evil: 2-pack | 145048 | [145048-pure-evil-2-pack.json](./145048-pure-evil-2-pack.json) |
 | Pure Farming 17 | 36997 | [36997-pure-farming-17.json](./36997-pure-farming-17.json) |
 | Pure Farming 2018 | 58066 | [58066-pure-farming-2018.json](./58066-pure-farming-2018.json) |
+| Pure Farming 2018: Landini REX-F | 163027 | [163027-pure-farming-2018-landini-rex-f.json](./163027-pure-farming-2018-landini-rex-f.json) |
+| Pure Farming 2018: Lindner Geotrac 134ep | 163028 | [163028-pure-farming-2018-lindner-geotrac-134ep.json](./163028-pure-farming-2018-lindner-geotrac-134ep.json) |
+| Pure Farming 2018: Montana Goats | 163026 | [163026-pure-farming-2018-montana-goats.json](./163026-pure-farming-2018-montana-goats.json) |
+| Pure Farming 2018: Versatile 4WD 610 | 163029 | [163029-pure-farming-2018-versatile-4wd-610.json](./163029-pure-farming-2018-versatile-4wd-610.json) |
+| Pure Farming 2018: Zetor Major CL 80 | 163030 | [163030-pure-farming-2018-zetor-major-cl-80.json](./163030-pure-farming-2018-zetor-major-cl-80.json) |
 | Pure Football 2018 | 81926 | [81926-pure-football-2018.json](./81926-pure-football-2018.json) |
 | Pure Heart | 371443 | [371443-pure-heart.json](./371443-pure-heart.json) |
 | Pure Hearts | 329041 | [329041-pure-hearts.json](./329041-pure-hearts.json) |
@@ -11523,6 +11531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pussy Kingdom: Queen of Passion | 278393 | [278393-pussy-kingdom-queen-of-passion.json](./278393-pussy-kingdom-queen-of-passion.json) |
 | Pussy Password | 335306 | [335306-pussy-password.json](./335306-pussy-password.json) |
 | Pussy Puzzle: Over 9000 | 141661 | [141661-pussy-puzzle-over-9000.json](./141661-pussy-puzzle-over-9000.json) |
+| Pussy Puzzle: Over 9000 | 163562 | [163562-pussy-puzzle-over-9000.json](./163562-pussy-puzzle-over-9000.json) |
 | Pussy: Love Story from Titanic | 227822 | [227822-pussy-love-story-from-titanic.json](./227822-pussy-love-story-from-titanic.json) |
 | Puszka Pandory | 93586 | [93586-puszka-pandory.json](./93586-puszka-pandory.json) |
 | Put Anna | 105173 | [105173-put-anna.json](./105173-put-anna.json) |
@@ -11756,6 +11765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Garage | 291615 | [291615-puzzle-garage.json](./291615-puzzle-garage.json) |
 | Puzzle Girl | 155463 | [155463-puzzle-girl.json](./155463-puzzle-girl.json) |
 | Puzzle Girls: Celia | 163913 | [163913-puzzle-girls-celia.json](./163913-puzzle-girls-celia.json) |
+| Puzzle Girls: Cheryl | 163548 | [163548-puzzle-girls-cheryl.json](./163548-puzzle-girls-cheryl.json) |
 | Puzzle Girls: Dark Temptation | 420662 | [420662-puzzle-girls-dark-temptation.json](./420662-puzzle-girls-dark-temptation.json) |
 | Puzzle Girls: Inner Flame | 410374 | [410374-puzzle-girls-inner-flame.json](./410374-puzzle-girls-inner-flame.json) |
 | Puzzle Girls: Lingerie | 109492 | [109492-puzzle-girls-lingerie.json](./109492-puzzle-girls-lingerie.json) |
@@ -11784,6 +11794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Light | 149455 | [149455-puzzle-light.json](./149455-puzzle-light.json) |
 | Puzzle Light: One Move | 150257 | [150257-puzzle-light-one-move.json](./150257-puzzle-light-one-move.json) |
 | Puzzle Light: Rotate | 152763 | [152763-puzzle-light-rotate.json](./152763-puzzle-light-rotate.json) |
+| Puzzle Light: Slide | 163539 | [163539-puzzle-light-slide.json](./163539-puzzle-light-slide.json) |
 | Puzzle Lights and Mushrooms 1000 | 334103 | [334103-puzzle-lights-and-mushrooms-1000.json](./334103-puzzle-lights-and-mushrooms-1000.json) |
 | Puzzle Maker | 291238 | [291238-puzzle-maker.json](./291238-puzzle-maker.json) |
 | Puzzle Mania | 213913 | [213913-puzzle-mania.json](./213913-puzzle-mania.json) |
@@ -11836,6 +11847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Playground | 308502 | [308502-puzzle-playground.json](./308502-puzzle-playground.json) |
 | Puzzle Pleasant | 384070 | [384070-puzzle-pleasant.json](./384070-puzzle-pleasant.json) |
 | Puzzle Plunder | 110505 | [110505-puzzle-plunder.json](./110505-puzzle-plunder.json) |
+| Puzzle Plunder: Vampire Night | 163538 | [163538-puzzle-plunder-vampire-night.json](./163538-puzzle-plunder-vampire-night.json) |
 | Puzzle Poker | 23550 | [23550-puzzle-poker.json](./23550-puzzle-poker.json) |
 | Puzzle Pop | 246361 | [246361-puzzle-pop.json](./246361-puzzle-pop.json) |
 | Puzzle Prism | 215015 | [215015-puzzle-prism.json](./215015-puzzle-prism.json) |
@@ -11876,6 +11888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Together: Great Paintings Jigsaw Super Pack | 241313 | [241313-puzzle-together-great-paintings-jigsaw-super-pack.json](./241313-puzzle-together-great-paintings-jigsaw-super-pack.json) |
 | Puzzle Together: Jigsaw Super Variety Pack | 256714 | [256714-puzzle-together-jigsaw-super-variety-pack.json](./256714-puzzle-together-jigsaw-super-variety-pack.json) |
 | Puzzle Tower | 129089 | [129089-puzzle-tower.json](./129089-puzzle-tower.json) |
+| Puzzle Tower: Underground | 163542 | [163542-puzzle-tower-underground.json](./163542-puzzle-tower-underground.json) |
 | Puzzle toys | 268979 | [268979-puzzle-toys.json](./268979-puzzle-toys.json) |
 | Puzzle Trains | 89276 | [89276-puzzle-trains.json](./89276-puzzle-trains.json) |
 | Puzzle Vacations: Australia and New Zealand | 278495 | [278495-puzzle-vacations-australia-and-new-zealand.json](./278495-puzzle-vacations-australia-and-new-zealand.json) |
@@ -11909,6 +11922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle: Lines and Knots 2 - Free Levels Pack | 293426 | [293426-puzzle-lines-and-knots-2-free-levels-pack.json](./293426-puzzle-lines-and-knots-2-free-levels-pack.json) |
 | Puzzle: Nature 2 | 213980 | [213980-puzzle-nature-2.json](./213980-puzzle-nature-2.json) |
 | Puzzle: Ocean | 116941 | [116941-puzzle-ocean.json](./116941-puzzle-ocean.json) |
+| Puzzle: Stone Blocks | 163555 | [163555-puzzle-stone-blocks.json](./163555-puzzle-stone-blocks.json) |
 | Puzzle: Ultimate - Puzzle Pack: Castles | 163433 | [163433-puzzle-ultimate-puzzle-pack-castles.json](./163433-puzzle-ultimate-puzzle-pack-castles.json) |
 | Puzzle: Ultimate - Puzzle Pack: Dogs | 163432 | [163432-puzzle-ultimate-puzzle-pack-dogs.json](./163432-puzzle-ultimate-puzzle-pack-dogs.json) |
 | Puzzle: Ultimate - Puzzle Pack: Flowers | 163435 | [163435-puzzle-ultimate-puzzle-pack-flowers.json](./163435-puzzle-ultimate-puzzle-pack-flowers.json) |
@@ -11936,6 +11950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuzzleLand | 261997 | [261997-puzzleland.json](./261997-puzzleland.json) |
 | Puzzlelicious | 88260 | [88260-puzzlelicious.json](./88260-puzzlelicious.json) |
 | Puzzlemazed | 303663 | [303663-puzzlemazed.json](./303663-puzzlemazed.json) |
+| PuzzlePet: Feed Your Cat | 163561 | [163561-puzzlepet-feed-your-cat.json](./163561-puzzlepet-feed-your-cat.json) |
 | Puzzlepops! Plus | 244171 | [244171-puzzlepops-plus.json](./244171-puzzlepops-plus.json) |
 | Puzzler | 104252 | [104252-puzzler.json](./104252-puzzler.json) |
 | Puzzler Clover | 69300 | [69300-puzzler-clover.json](./69300-puzzler-clover.json) |
@@ -11963,6 +11978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuzzleTales: Svalbard | 120202 | [120202-puzzletales-svalbard.json](./120202-puzzletales-svalbard.json) |
 | Puzzletown Mysteries | 338343 | [338343-puzzletown-mysteries.json](./338343-puzzletown-mysteries.json) |
 | Puzzletronics | 165592 | [165592-puzzletronics.json](./165592-puzzletronics.json) |
+| Puzzletronics Analog Eletronics | 163536 | [163536-puzzletronics-analog-eletronics.json](./163536-puzzletronics-analog-eletronics.json) |
 | Puzzletronics Digital Infinite | 157039 | [157039-puzzletronics-digital-infinite.json](./157039-puzzletronics-digital-infinite.json) |
 | Puzzletrunk | 358452 | [358452-puzzletrunk.json](./358452-puzzletrunk.json) |
 | Puzzleverse | 358453 | [358453-puzzleverse.json](./358453-puzzleverse.json) |
