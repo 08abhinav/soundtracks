@@ -470,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint It: Christmas Edition | 278651 | [278651-paint-it-christmas-edition.json](./278651-paint-it-christmas-edition.json) |
 | Paint It: Christmas Pack | 278654 | [278654-paint-it-christmas-pack.json](./278654-paint-it-christmas-pack.json) |
 | Paint My Cat - Color and Play | 96045 | [96045-paint-my-cat-color-and-play.json](./96045-paint-my-cat-color-and-play.json) |
+| Paint My World | 134497 | [134497-paint-my-world.json](./134497-paint-my-world.json) |
 | Paint on Paint TD | 373193 | [373193-paint-on-paint-td.json](./373193-paint-on-paint-td.json) |
 | Paint Over | 244150 | [244150-paint-over.json](./244150-paint-over.json) |
 | Paint Park | 65249 | [65249-paint-park.json](./65249-paint-park.json) |
