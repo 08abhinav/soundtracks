@@ -8610,6 +8610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boot Hill Heroes: The Hangman's Ballad | 18388 | [18388-boot-hill-heroes-the-hangmans-ballad.json](./18388-boot-hill-heroes-the-hangmans-ballad.json) |
 | Bootèe | 195499 | [195499-bootee.json](./195499-bootee.json) |
 | Booth Butcher | 406922 | [406922-booth-butcher.json](./406922-booth-butcher.json) |
+| Booth: A Dystopian Adventure | 138480 | [138480-booth-a-dystopian-adventure.json](./138480-booth-a-dystopian-adventure.json) |
 | Bootleg Alchemist | 390255 | [390255-bootleg-alchemist.json](./390255-bootleg-alchemist.json) |
 | Bootleg Bandits | 13822 | [13822-bootleg-bandits.json](./13822-bootleg-bandits.json) |
 | Bootleg in Wonderland: Pastel Paradise | 342588 | [342588-bootleg-in-wonderland-pastel-paradise.json](./342588-bootleg-in-wonderland-pastel-paradise.json) |
