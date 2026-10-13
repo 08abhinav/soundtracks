@@ -3229,6 +3229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escalation! | 150099 | [150099-escalation.json](./150099-escalation.json) |
 | Escapatoria | 125195 | [125195-escapatoria.json](./125195-escapatoria.json) |
 | Escape | 114755 | [114755-escape.json](./114755-escape.json) |
+| Escape | 147210 | [147210-escape.json](./147210-escape.json) |
 | Escape | 154377 | [154377-escape.json](./154377-escape.json) |
 | Escape | 175910 | [175910-escape.json](./175910-escape.json) |
 | Escape | 230863 | [230863-escape.json](./230863-escape.json) |
@@ -5159,6 +5160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EXS2: EthnologySister2 - Structuralism of Kinship System | 237279 | [237279-exs2-ethnologysister2-structuralism-of-kinship-system.json](./237279-exs2-ethnologysister2-structuralism-of-kinship-system.json) |
 | Exsanguinate | 185961 | [185961-exsanguinate.json](./185961-exsanguinate.json) |
 | Exsanguination | 340045 | [340045-exsanguination.json](./340045-exsanguination.json) |
+| Exsynchronos | 148297 | [148297-exsynchronos.json](./148297-exsynchronos.json) |
 | Extase | 94197 | [94197-extase.json](./94197-extase.json) |
 | Extended Stay | 158401 | [158401-extended-stay.json](./158401-extended-stay.json) |
 | Exteria | 31056 | [31056-exteria.json](./31056-exteria.json) |
