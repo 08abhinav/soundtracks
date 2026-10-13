@@ -5614,6 +5614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday in Europe: Wonders of Germany - Collector's Edition | 340477 | [340477-holiday-in-europe-wonders-of-germany-collectors-edition.json](./340477-holiday-in-europe-wonders-of-germany-collectors-edition.json) |
 | Holiday Jigsaw Christmas | 195445 | [195445-holiday-jigsaw-christmas.json](./195445-holiday-jigsaw-christmas.json) |
 | Holiday Jigsaw Christmas 3 | 216442 | [216442-holiday-jigsaw-christmas-3.json](./216442-holiday-jigsaw-christmas-3.json) |
+| Holiday Jigsaw Easter | 169136 | [169136-holiday-jigsaw-easter.json](./169136-holiday-jigsaw-easter.json) |
 | Holiday Jigsaw Easter 4 | 296208 | [296208-holiday-jigsaw-easter-4.json](./296208-holiday-jigsaw-easter-4.json) |
 | Holiday Jigsaw Valentines Day | 54087 | [54087-holiday-jigsaw-valentines-day.json](./54087-holiday-jigsaw-valentines-day.json) |
 | Holiday Jigsaw: Christmas 2 | 215684 | [215684-holiday-jigsaw-christmas-2.json](./215684-holiday-jigsaw-christmas-2.json) |
@@ -5852,6 +5853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Designer: Home Sweet Home | 170838 | [170838-home-designer-home-sweet-home.json](./170838-home-designer-home-sweet-home.json) |
 | Home Designer: House Makeover | 239035 | [239035-home-designer-house-makeover.json](./239035-home-designer-house-makeover.json) |
 | Home Designer: Living Room | 169947 | [169947-home-designer-living-room.json](./169947-home-designer-living-room.json) |
+| Home Designer: Makeover Blast | 169149 | [169149-home-designer-makeover-blast.json](./169149-home-designer-makeover-blast.json) |
 | Home Domes | 277962 | [277962-home-domes.json](./277962-home-domes.json) |
 | Home Escape | 120139 | [120139-home-escape.json](./120139-home-escape.json) |
 | Home for Friends: Loving Paws - Collector's Edition | 401142 | [401142-home-for-friends-loving-paws-collectors-edition.json](./401142-home-for-friends-loving-paws-collectors-edition.json) |
@@ -6388,6 +6390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Chase Turbo: Senna Forever | 176882 | [176882-horizon-chase-turbo-senna-forever.json](./176882-horizon-chase-turbo-senna-forever.json) |
 | Horizon Chase Turbo: Summer Vibes | 170427 | [170427-horizon-chase-turbo-summer-vibes.json](./170427-horizon-chase-turbo-summer-vibes.json) |
 | Horizon Forbidden West: Burning Shores | 228533 | [228533-horizon-forbidden-west-burning-shores.json](./228533-horizon-forbidden-west-burning-shores.json) |
+| Horizon Forbidden West: Collector's Edition | 170034 | [170034-horizon-forbidden-west-collectors-edition.json](./170034-horizon-forbidden-west-collectors-edition.json) |
 | Horizon Forbidden West: Complete Edition | 268842 | [268842-horizon-forbidden-west-complete-edition.json](./268842-horizon-forbidden-west-complete-edition.json) |
 | Horizon Forbidden West: Major Update 1.14 | 227890 | [227890-horizon-forbidden-west-major-update-1-14.json](./227890-horizon-forbidden-west-major-update-1-14.json) |
 | Horizon Forbidden West: Regalla Edition | 173110 | [173110-horizon-forbidden-west-regalla-edition.json](./173110-horizon-forbidden-west-regalla-edition.json) |
@@ -7075,6 +7078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Pain | 211980 | [211980-house-of-pain.json](./211980-house-of-pain.json) |
 | House of Plague 0 | 107907 | [107907-house-of-plague-0.json](./107907-house-of-plague-0.json) |
 | House of Portals VR | 154384 | [154384-house-of-portals-vr.json](./154384-house-of-portals-vr.json) |
+| House of Rules | 169138 | [169138-house-of-rules.json](./169138-house-of-rules.json) |
 | House of Shadow | 230907 | [230907-house-of-shadow.json](./230907-house-of-shadow.json) |
 | House of Shadows | 285695 | [285695-house-of-shadows.json](./285695-house-of-shadows.json) |
 | House of Sin | 189967 | [189967-house-of-sin.json](./189967-house-of-sin.json) |
