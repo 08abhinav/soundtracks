@@ -5216,6 +5216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandmaster Chess | 14493 | [14493-grandmaster-chess.json](./14493-grandmaster-chess.json) |
 | Grandmaster Chess | 166075 | [166075-grandmaster-chess.json](./166075-grandmaster-chess.json) |
 | Grandmaster's Revenge | 215355 | [215355-grandmasters-revenge.json](./215355-grandmasters-revenge.json) |
+| Grandmother | 169345 | [169345-grandmother.json](./169345-grandmother.json) |
 | Grandmother's Tale | 153872 | [153872-grandmothers-tale.json](./153872-grandmothers-tale.json) |
 | GrandNestling | 130232 | [130232-grandnestling.json](./130232-grandnestling.json) |
 | Grandpa | 329782 | [329782-grandpa.json](./329782-grandpa.json) |
