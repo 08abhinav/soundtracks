@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | h What is the Common | 89806 | [89806-h-what-is-the-common.json](./89806-h-what-is-the-common.json) |
 | H-Craft Championship | 116412 | [116412-h-craft-championship.json](./116412-h-craft-championship.json) |
 | H-Hour: World's Elite | 17229 | [17229-h-hour-worlds-elite.json](./17229-h-hour-worlds-elite.json) |
+| H-Isekai Loves | 164091 | [164091-h-isekai-loves.json](./164091-h-isekai-loves.json) |
 | H.A.V.E. Online | 137476 | [137476-h-a-v-e-online.json](./137476-h-a-v-e-online.json) |
 | H.E. | 108252 | [108252-h-e.json](./108252-h-e.json) |
 | H.E.D.Z. - Head Extreme Destruction Zone | 50140 | [50140-h-e-d-z-head-extreme-destruction-zone.json](./50140-h-e-d-z-head-extreme-destruction-zone.json) |
@@ -520,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Stories: The Neglected Dead | 187944 | [187944-halloween-stories-the-neglected-dead.json](./187944-halloween-stories-the-neglected-dead.json) |
 | Halloween Stories: The Neglected Dead - Collector's Edition | 195645 | [195645-halloween-stories-the-neglected-dead-collectors-edition.json](./195645-halloween-stories-the-neglected-dead-collectors-edition.json) |
 | Halloween Stories: Written in Blood - Collector's Edition | 362850 | [362850-halloween-stories-written-in-blood-collectors-edition.json](./362850-halloween-stories-written-in-blood-collectors-edition.json) |
+| Halloween Sweetplechase | 164050 | [164050-halloween-sweetplechase.json](./164050-halloween-sweetplechase.json) |
 | Halloween Tripeaks | 61047 | [61047-halloween-tripeaks.json](./61047-halloween-tripeaks.json) |
 | Halloween Trouble 2 | 155647 | [155647-halloween-trouble-2.json](./155647-halloween-trouble-2.json) |
 | Halloween Trouble 4 | 220029 | [220029-halloween-trouble-4.json](./220029-halloween-trouble-4.json) |
@@ -949,10 +951,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanzo Quest | 98542 | [98542-hanzo-quest.json](./98542-hanzo-quest.json) |
 | Hao x Sora: The Sky's Abound | 274005 | [274005-hao-x-sora-the-skys-abound.json](./274005-hao-x-sora-the-skys-abound.json) |
 | Hao-kun no Fushigi na Tabi | 215144 | [215144-hao-kun-no-fushigi-na-tabi.json](./215144-hao-kun-no-fushigi-na-tabi.json) |
+| Haos | 164086 | [164086-haos.json](./164086-haos.json) |
 | Hàoyuè Kōnghuá | 112991 | [112991-haoyue-konghua.json](./112991-haoyue-konghua.json) |
 | Hapax | 61687 | [61687-hapax.json](./61687-hapax.json) |
 | Hapland 2 | 335873 | [335873-hapland-2.json](./335873-hapland-2.json) |
 | Hapland 3 | 336009 | [336009-hapland-3.json](./336009-hapland-3.json) |
+| Hapland Trilogy | 164044 | [164044-hapland-trilogy.json](./164044-hapland-trilogy.json) |
 | Happening Journey | 108904 | [108904-happening-journey.json](./108904-happening-journey.json) |
 | Happi Basudei | 197323 | [197323-happi-basudei.json](./197323-happi-basudei.json) |
 | Happily Ever After | 48024 | [48024-happily-ever-after.json](./48024-happily-ever-after.json) |
@@ -1198,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Rock Zombie Truck | 54337 | [54337-hard-rock-zombie-truck.json](./54337-hard-rock-zombie-truck.json) |
 | Hard Rock Zombie Truck Plastiline | 109870 | [109870-hard-rock-zombie-truck-plastiline.json](./109870-hard-rock-zombie-truck-plastiline.json) |
 | Hard Survivor | 232973 | [232973-hard-survivor.json](./232973-hard-survivor.json) |
+| Hard Tapes | 164054 | [164054-hard-tapes.json](./164054-hard-tapes.json) |
 | Hard Time | 152241 | [152241-hard-time.json](./152241-hard-time.json) |
 | Hard Time | 54453 | [54453-hard-time.json](./54453-hard-time.json) |
 | Hard Time III | 310923 | [310923-hard-time-iii.json](./310923-hard-time-iii.json) |
