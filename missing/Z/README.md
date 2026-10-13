@@ -1537,9 +1537,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zunzunkyou No Yabou | 40972 | [40972-zunzunkyou-no-yabou.json](./40972-zunzunkyou-no-yabou.json) |
 | Zup-qop! | 247081 | [247081-zup-qop.json](./247081-zup-qop.json) |
 | Zup-Zup! | 52097 | [52097-zup-zup.json](./52097-zup-zup.json) |
+| Zup! 2: DLC | 169711 | [169711-zup-2-dlc.json](./169711-zup-2-dlc.json) |
 | Zup! 3 | 27416 | [27416-zup-3.json](./27416-zup-3.json) |
+| Zup! 3: DLC | 169709 | [169709-zup-3-dlc.json](./169709-zup-3-dlc.json) |
 | Zup! 4 | 27417 | [27417-zup-4.json](./27417-zup-4.json) |
+| Zup! 4: DLC | 169710 | [169710-zup-4-dlc.json](./169710-zup-4-dlc.json) |
 | Zup! 5 | 38784 | [38784-zup-5.json](./38784-zup-5.json) |
+| Zup! 5: DLC | 169708 | [169708-zup-5-dlc.json](./169708-zup-5-dlc.json) |
 | Zup! 7 | 76121 | [76121-zup-7.json](./76121-zup-7.json) |
 | Zup! 9 | 119469 | [119469-zup-9.json](./119469-zup-9.json) |
 | Zup! F | 129833 | [129833-zup-f.json](./129833-zup-f.json) |
@@ -1547,6 +1551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zup! S | 111200 | [111200-zup-s.json](./111200-zup-s.json) |
 | Zup! Y | 316678 | [316678-zup-y.json](./316678-zup-y.json) |
 | Zup! Zero 2 | 105879 | [105879-zup-zero-2.json](./105879-zup-zero-2.json) |
+| Zup!: DLC | 169712 | [169712-zup-dlc.json](./169712-zup-dlc.json) |
 | Zupapa! | 47577 | [47577-zupapa.json](./47577-zupapa.json) |
 | Zupay: Shadows of Independence | 374072 | [374072-zupay-shadows-of-independence.json](./374072-zupay-shadows-of-independence.json) |
 | Zurarararush!!! | 293386 | [293386-zurarararush.json](./293386-zurarararush.json) |
