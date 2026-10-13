@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safety Driving: The Safety Simulation - Car | 10804 | [10804-safety-driving-the-safety-simulation-car.json](./10804-safety-driving-the-safety-simulation-car.json) |
 | Safety First! | 32189 | [32189-safety-first.json](./32189-safety-first.json) |
 | Safety Instructions | 414290 | [414290-safety-instructions.json](./414290-safety-instructions.json) |
+| SafeZoneVR | 158964 | [158964-safezonevr.json](./158964-safezonevr.json) |
 | Saffron | 384725 | [384725-saffron.json](./384725-saffron.json) |
 | Safire Eshgh | 191669 | [191669-safire-eshgh.json](./191669-safire-eshgh.json) |
 | Safo and The Moon Warriors | 381107 | [381107-safo-and-the-moon-warriors.json](./381107-safo-and-the-moon-warriors.json) |
@@ -2654,6 +2655,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Thieves: Season 1 | 144847 | [144847-sea-of-thieves-season-1.json](./144847-sea-of-thieves-season-1.json) |
 | Sea of Thieves: Season 13 | 305154 | [305154-sea-of-thieves-season-13.json](./305154-sea-of-thieves-season-13.json) |
 | Sea of Thieves: Season 14 | 320297 | [320297-sea-of-thieves-season-14.json](./320297-sea-of-thieves-season-14.json) |
+| Sea of Thieves: Season 2 | 158941 | [158941-sea-of-thieves-season-2.json](./158941-sea-of-thieves-season-2.json) |
+| Sea of Thieves: Season 3 | 158945 | [158945-sea-of-thieves-season-3.json](./158945-sea-of-thieves-season-3.json) |
 | Sea of Thieves: Season 8 | 227961 | [227961-sea-of-thieves-season-8.json](./227961-sea-of-thieves-season-8.json) |
 | Sea of Thieves: Season 9 | 240906 | [240906-sea-of-thieves-season-9.json](./240906-sea-of-thieves-season-9.json) |
 | Sea of Thieves: Smuggler's Tide - Season 17 | 348213 | [348213-sea-of-thieves-smugglers-tide-season-17.json](./348213-sea-of-thieves-smugglers-tide-season-17.json) |
@@ -4966,6 +4969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Light | 73869 | [73869-shattered-light.json](./73869-shattered-light.json) |
 | Shattered Lights | 118800 | [118800-shattered-lights.json](./118800-shattered-lights.json) |
 | Shattered Melodies | 311221 | [311221-shattered-melodies.json](./311221-shattered-melodies.json) |
+| Shattered Minds: Encore | 158948 | [158948-shattered-minds-encore.json](./158948-shattered-minds-encore.json) |
 | Shattered Minds: Masquerade | 369714 | [369714-shattered-minds-masquerade.json](./369714-shattered-minds-masquerade.json) |
 | Shattered Palace | 312902 | [312902-shattered-palace.json](./312902-shattered-palace.json) |
 | Shattered Paradise | 387019 | [387019-shattered-paradise.json](./387019-shattered-paradise.json) |
@@ -5901,6 +5905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot'n'Shell | 339306 | [339306-shootnshell.json](./339306-shootnshell.json) |
 | Shootball Arena | 196641 | [196641-shootball-arena.json](./196641-shootball-arena.json) |
 | Shooter | 359367 | [359367-shooter.json](./359367-shooter.json) |
+| Shooter Buddies | 159530 | [159530-shooter-buddies.json](./159530-shooter-buddies.json) |
 | Shooter Bundle: Ghost Assassin, Hotline, Water Blast, Shadowblade, Yori's Journey | 356823 | [356823-shooter-bundle-ghost-assassin-hotline-water-blast-shadowblade-yoris-journey.json](./356823-shooter-bundle-ghost-assassin-hotline-water-blast-shadowblade-yoris-journey.json) |
 | Shooter Dual Pack I Necromunda: Hired Gun + Space Hulk: Deathwing - Enhanced Edition | 194260 | [194260-shooter-dual-pack-i-necromunda-hired-gun-space-hulk-deathwing-enhanced-edition.json](./194260-shooter-dual-pack-i-necromunda-hired-gun-space-hulk-deathwing-enhanced-edition.json) |
 | Shooter Game | 107871 | [107871-shooter-game.json](./107871-shooter-game.json) |
@@ -10297,6 +10302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Social Space | 398537 | [398537-social-space.json](./398537-social-space.json) |
 | Social Status: Life Simulator | 279103 | [279103-social-status-life-simulator.json](./279103-social-status-life-simulator.json) |
 | Socialiskigrad | 406764 | [406764-socialiskigrad.json](./406764-socialiskigrad.json) |
+| Socialism Simulator | 159583 | [159583-socialism-simulator.json](./159583-socialism-simulator.json) |
 | Socialize | 182217 | [182217-socialize.json](./182217-socialize.json) |
 | Socialize | 189037 | [189037-socialize.json](./189037-socialize.json) |
 | Socialize: Poly | 191522 | [191522-socialize-poly.json](./191522-socialize-poly.json) |
@@ -14312,6 +14318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Night | 225563 | [225563-spirit-night.json](./225563-spirit-night.json) |
 | Spirit Oath | 118383 | [118383-spirit-oath.json](./118383-spirit-oath.json) |
 | Spirit of Adventure | 188433 | [188433-spirit-of-adventure.json](./188433-spirit-of-adventure.json) |
+| Spirit of Arx | 158946 | [158946-spirit-of-arx.json](./158946-spirit-of-arx.json) |
 | Spirit of Death | 294252 | [294252-spirit-of-death.json](./294252-spirit-of-death.json) |
 | Spirit of Excalibur | 70028 | [70028-spirit-of-excalibur.json](./70028-spirit-of-excalibur.json) |
 | Spirit of Maya | 29903 | [29903-spirit-of-maya.json](./29903-spirit-of-maya.json) |
@@ -15648,6 +15655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Honor | 228388 | [228388-star-honor.json](./228388-star-honor.json) |
 | Star Horizon | 35690 | [35690-star-horizon.json](./35690-star-horizon.json) |
 | Star Hound | 87103 | [87103-star-hound.json](./87103-star-hound.json) |
+| Star Hunter DX & Space Moth: Lunar Edition | 158936 | [158936-star-hunter-dx-and-space-moth-lunar-edition.json](./158936-star-hunter-dx-and-space-moth-lunar-edition.json) |
 | Star Iliad | 329676 | [329676-star-iliad.json](./329676-star-iliad.json) |
 | Star Impact | 117035 | [117035-star-impact.json](./117035-star-impact.json) |
 | Star in the Hollow | 217302 | [217302-star-in-the-hollow.json](./217302-star-in-the-hollow.json) |
@@ -18700,6 +18708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuck in the Dark | 184359 | [184359-stuck-in-the-dark.json](./184359-stuck-in-the-dark.json) |
 | Stuck in the Present | 348763 | [348763-stuck-in-the-present.json](./348763-stuck-in-the-present.json) |
 | Stuck Like a Stone | 276731 | [276731-stuck-like-a-stone.json](./276731-stuck-like-a-stone.json) |
+| Stuck Together | 159562 | [159562-stuck-together.json](./159562-stuck-together.json) |
 | Stuck! | 177537 | [177537-stuck.json](./177537-stuck.json) |
 | Stuck? | 176967 | [176967-stuck.json](./176967-stuck.json) |
 | Student Council Leader Auriel | 247524 | [247524-student-council-leader-auriel.json](./247524-student-council-leader-auriel.json) |
@@ -19561,6 +19570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoner Symbols | 316802 | [316802-summoner-symbols.json](./316802-summoner-symbols.json) |
 | Summoner's Automata | 360691 | [360691-summoners-automata.json](./360691-summoners-automata.json) |
 | Summoner's Gambit | 353894 | [353894-summoners-gambit.json](./353894-summoners-gambit.json) |
+| Summoner's Greed | 158957 | [158957-summoners-greed.json](./158957-summoners-greed.json) |
 | Summoner's Handbook | 181696 | [181696-summoners-handbook.json](./181696-summoners-handbook.json) |
 | Summoner's Pieces | 373867 | [373867-summoners-pieces.json](./373867-summoners-pieces.json) |
 | Summoner's Sky | 295562 | [295562-summoners-sky.json](./295562-summoners-sky.json) |
@@ -22975,6 +22985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SweetXheart | 183286 | [183286-sweetxheart.json](./183286-sweetxheart.json) |
 | Sweety Kitty | 219560 | [219560-sweety-kitty.json](./219560-sweety-kitty.json) |
 | Sweety Kitty 2 | 224774 | [224774-sweety-kitty-2.json](./224774-sweety-kitty-2.json) |
+| Sweety Little Witch | 158924 | [158924-sweety-little-witch.json](./158924-sweety-little-witch.json) |
 | Sweety Sweets | 259024 | [259024-sweety-sweets.json](./259024-sweety-sweets.json) |
 | Sweezy Gunner | 17306 | [17306-sweezy-gunner.json](./17306-sweezy-gunner.json) |
 | Swell | 262974 | [262974-swell.json](./262974-swell.json) |
