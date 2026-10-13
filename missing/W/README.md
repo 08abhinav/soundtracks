@@ -3254,6 +3254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wi-Fi Taiou Yakuman DS | 124122 | [124122-wi-fi-taiou-yakuman-ds.json](./124122-wi-fi-taiou-yakuman-ds.json) |
 | Wi-Fi Taiou: Gensen Table Game Wii | 268206 | [268206-wi-fi-taiou-gensen-table-game-wii.json](./268206-wi-fi-taiou-gensen-table-game-wii.json) |
 | Wibarm | 84248 | [84248-wibarm.json](./84248-wibarm.json) |
+| Wibble Wobble | 177251 | [177251-wibble-wobble.json](./177251-wibble-wobble.json) |
 | Wibbly-wobbly Tower | 178421 | [178421-wibbly-wobbly-tower.json](./178421-wibbly-wobbly-tower.json) |
 | Wibby Buddy | 366865 | [366865-wibby-buddy.json](./366865-wibby-buddy.json) |
 | Wiblits | 58269 | [58269-wiblits.json](./58269-wiblits.json) |
