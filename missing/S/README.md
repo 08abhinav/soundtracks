@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Dimensions | 292694 | [292694-sakura-dimensions.json](./292694-sakura-dimensions.json) |
 | Sakura Drift | 401772 | [401772-sakura-drift.json](./401772-sakura-drift.json) |
 | Sakura Dungeon | 34340 | [34340-sakura-dungeon.json](./34340-sakura-dungeon.json) |
+| Sakura Forest Girls | 146061 | [146061-sakura-forest-girls.json](./146061-sakura-forest-girls.json) |
 | Sakura Forest Girls 3 | 193263 | [193263-sakura-forest-girls-3.json](./193263-sakura-forest-girls-3.json) |
 | Sakura Gamer | 57032 | [57032-sakura-gamer.json](./57032-sakura-gamer.json) |
 | Sakura Gamer 2 | 127212 | [127212-sakura-gamer-2.json](./127212-sakura-gamer-2.json) |
@@ -942,6 +943,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Warriors 4 | 7290 | [7290-samurai-warriors-4.json](./7290-samurai-warriors-4.json) |
 | Samurai Warriors 4 DX | 112910 | [112910-samurai-warriors-4-dx.json](./112910-samurai-warriors-4-dx.json) |
 | Samurai Warriors 4-II | 12279 | [12279-samurai-warriors-4-ii.json](./12279-samurai-warriors-4-ii.json) |
+| Samurai Warriors 5: Ikkitousen Box | 146037 | [146037-samurai-warriors-5-ikkitousen-box.json](./146037-samurai-warriors-5-ikkitousen-box.json) |
+| Samurai Warriors 5: Treasure Box | 146035 | [146035-samurai-warriors-5-treasure-box.json](./146035-samurai-warriors-5-treasure-box.json) |
 | Samurai Warriors: Chronicles 2nd | 64991 | [64991-samurai-warriors-chronicles-2nd.json](./64991-samurai-warriors-chronicles-2nd.json) |
 | Samurai Warriors: Katana | 5137 | [5137-samurai-warriors-katana.json](./5137-samurai-warriors-katana.json) |
 | Samurai Warriors: Spirit of Sanada | 27272 | [27272-samurai-warriors-spirit-of-sanada.json](./27272-samurai-warriors-spirit-of-sanada.json) |
@@ -3503,6 +3506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seneca 7: A Cyberpunk Odyssey | 201643 | [201643-seneca-7-a-cyberpunk-odyssey.json](./201643-seneca-7-a-cyberpunk-odyssey.json) |
 | Senet | 71209 | [71209-senet.json](./71209-senet.json) |
 | Senet Deluxe | 99975 | [99975-senet-deluxe.json](./99975-senet-deluxe.json) |
+| Sengo Muramasa DX: Guren no Kettou | 145393 | [145393-sengo-muramasa-dx-guren-no-kettou.json](./145393-sengo-muramasa-dx-guren-no-kettou.json) |
 | Sengoku | 5433 | [5433-sengoku.json](./5433-sengoku.json) |
 | Sengoku 2 | 46785 | [46785-sengoku-2.json](./46785-sengoku-2.json) |
 | Sengoku 3 | 46784 | [46784-sengoku-3.json](./46784-sengoku-3.json) |
@@ -9580,6 +9584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Blast! | 116961 | [116961-snake-blast.json](./116961-snake-blast.json) |
 | Snake Blocks | 145918 | [145918-snake-blocks.json](./145918-snake-blocks.json) |
 | Snake Blocks | 36025 | [36025-snake-blocks.json](./36025-snake-blocks.json) |
+| Snake Boat: Otterrific Arcade | 146019 | [146019-snake-boat-otterrific-arcade.json](./146019-snake-boat-otterrific-arcade.json) |
 | Snake Break | 275610 | [275610-snake-break.json](./275610-snake-break.json) |
 | Snake Bricks-Bounce Balls | 106569 | [106569-snake-bricks-bounce-balls.json](./106569-snake-bricks-bounce-balls.json) |
 | Snake Byte | 18507 | [18507-snake-byte.json](./18507-snake-byte.json) |
@@ -11890,6 +11895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorades - Die Befreiung | 91547 | [91547-sorades-die-befreiung.json](./91547-sorades-die-befreiung.json) |
 | Soraja Towers | 300721 | [300721-soraja-towers.json](./300721-soraja-towers.json) |
 | Soralio: Cooperation mystery solving game | 157087 | [157087-soralio-cooperation-mystery-solving-game.json](./157087-soralio-cooperation-mystery-solving-game.json) |
+| Soran | 145415 | [145415-soran.json](./145415-soran.json) |
 | Sorbetta: Gravely in Debt | 129733 | [129733-sorbetta-gravely-in-debt.json](./129733-sorbetta-gravely-in-debt.json) |
 | Sorcerer | 23856 | [23856-sorcerer.json](./23856-sorcerer.json) |
 | Sorcerer King: Rivals | 24922 | [24922-sorcerer-king-rivals.json](./24922-sorcerer-king-rivals.json) |
@@ -18627,6 +18633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Wing: Raptor Rising | 3148 | [3148-strike-wing-raptor-rising.json](./3148-strike-wing-raptor-rising.json) |
 | Strike Witches 2: Iyasu, Naosu, Puni-Puni suru | 124062 | [124062-strike-witches-2-iyasu-naosu-puni-puni-suru.json](./124062-strike-witches-2-iyasu-naosu-puni-puni-suru.json) |
 | Strike Witches: Doki! Otome Darake no Jouriku Sakusen | 69278 | [69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json](./69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json) |
+| Strike Witches: Hakugin no Tsubasa | 145399 | [145399-strike-witches-hakugin-no-tsubasa.json](./145399-strike-witches-hakugin-no-tsubasa.json) |
 | Strike Witches: Soukuu no Dengekisen - Shin Taichou Funtousuru! | 124061 | [124061-strike-witches-soukuu-no-dengekisen-shin-taichou-funtousuru.json](./124061-strike-witches-soukuu-no-dengekisen-shin-taichou-funtousuru.json) |
 | Strike World | 407294 | [407294-strike-world.json](./407294-strike-world.json) |
 | Strike Zone Baseball | 40432 | [40432-strike-zone-baseball.json](./40432-strike-zone-baseball.json) |
@@ -20952,6 +20959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Land Remix | 294579 | [294579-super-mario-land-remix.json](./294579-super-mario-land-remix.json) |
 | Super Mario Land X | 223030 | [223030-super-mario-land-x.json](./223030-super-mario-land-x.json) |
 | Super Mario Legend | 323751 | [323751-super-mario-legend.json](./323751-super-mario-legend.json) |
+| Super Mario Logic | 145428 | [145428-super-mario-logic.json](./145428-super-mario-logic.json) |
 | Super Mario Lost Worlds: Crusade | 313348 | [313348-super-mario-lost-worlds-crusade.json](./313348-super-mario-lost-worlds-crusade.json) |
 | Super Mario Maker | 7339 | [7339-super-mario-maker.json](./7339-super-mario-maker.json) |
 | Super Mario Maker 2 | 115276 | [115276-super-mario-maker-2.json](./115276-super-mario-maker-2.json) |
@@ -22695,6 +22703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sutte Hakkun | 356234 | [356234-sutte-hakkun.json](./356234-sutte-hakkun.json) |
 | Sutte Hakkun | 42541 | [42541-sutte-hakkun.json](./42541-sutte-hakkun.json) |
 | Suugaku Riki-ou: Shokyuu Chuu-1 Level | 282046 | [282046-suugaku-riki-ou-shokyuu-chuu-1-level.json](./282046-suugaku-riki-ou-shokyuu-chuu-1-level.json) |
+| Suugaku Rikiou: Joukyuu Naka-3-Level | 145391 | [145391-suugaku-rikiou-joukyuu-naka-3-level.json](./145391-suugaku-rikiou-joukyuu-naka-3-level.json) |
 | Suuji Atta! | 266165 | [266165-suuji-atta.json](./266165-suuji-atta.json) |
 | Suul | 312915 | [312915-suul.json](./312915-suul.json) |
 | Suv 4x4 Car Parking Simulator | 276286 | [276286-suv-4x4-car-parking-simulator.json](./276286-suv-4x4-car-parking-simulator.json) |
@@ -23480,6 +23489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sylvantia | 258542 | [258542-sylvantia.json](./258542-sylvantia.json) |
 | Sylvarcon 2049: A Cybersecurity Aventure | 213966 | [213966-sylvarcon-2049-a-cybersecurity-aventure.json](./213966-sylvarcon-2049-a-cybersecurity-aventure.json) |
 | Sylvester & Tweety in Cagey Capers | 46190 | [46190-sylvester-and-tweety-in-cagey-capers.json](./46190-sylvester-and-tweety-in-cagey-capers.json) |
+| Sylvester and Tweety | 146073 | [146073-sylvester-and-tweety.json](./146073-sylvester-and-tweety.json) |
 | Sylviana: Ai Ippai no Boukensha | 299761 | [299761-sylviana-ai-ippai-no-boukensha.json](./299761-sylviana-ai-ippai-no-boukensha.json) |
 | Sylviana: Ai Ippai no Boukensha | 41249 | [41249-sylviana-ai-ippai-no-boukensha.json](./41249-sylviana-ai-ippai-no-boukensha.json) |
 | Sylvie | 184844 | [184844-sylvie.json](./184844-sylvie.json) |
