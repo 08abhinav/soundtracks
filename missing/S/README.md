@@ -2285,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: The Beginning | 390659 | [390659-scp-the-beginning.json](./390659-scp-the-beginning.json) |
 | SCP: The Endurance | 228377 | [228377-scp-the-endurance.json](./228377-scp-the-endurance.json) |
 | SCP: The Paranormal | 212210 | [212210-scp-the-paranormal.json](./212210-scp-the-paranormal.json) |
+| SCP: Undeads Winter's | 169737 | [169737-scp-undeads-winters.json](./169737-scp-undeads-winters.json) |
 | SCP: Unity | 130903 | [130903-scp-unity.json](./130903-scp-unity.json) |
 | SCP: Unknown. | 95998 | [95998-scp-unknown.json](./95998-scp-unknown.json) |
 | SCP: Valravn | 280174 | [280174-scp-valravn.json](./280174-scp-valravn.json) |
@@ -7207,6 +7208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Zombie Survival | 368594 | [368594-simple-zombie-survival.json](./368594-simple-zombie-survival.json) |
 | SimpleMMO | 145898 | [145898-simplemmo.json](./145898-simplemmo.json) |
 | SimplePlanes 2 | 304696 | [304696-simpleplanes-2.json](./304696-simpleplanes-2.json) |
+| SimplePlanes VR | 169717 | [169717-simpleplanes-vr.json](./169717-simpleplanes-vr.json) |
 | Simpler Times | 308240 | [308240-simpler-times.json](./308240-simpler-times.json) |
 | SimpleRoad | 370872 | [370872-simpleroad.json](./370872-simpleroad.json) |
 | SimpleRockets | 197672 | [197672-simplerockets.json](./197672-simplerockets.json) |
@@ -7215,6 +7217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simply Cubic | 253586 | [253586-simply-cubic.json](./253586-simply-cubic.json) |
 | Simply Gomoku Online | 261318 | [261318-simply-gomoku-online.json](./261318-simply-gomoku-online.json) |
 | Simply Mahjong puzzle game | 88261 | [88261-simply-mahjong-puzzle-game.json](./88261-simply-mahjong-puzzle-game.json) |
+| Simply Parkour | 169742 | [169742-simply-parkour.json](./169742-simply-parkour.json) |
 | Simply Phobos | 275265 | [275265-simply-phobos.json](./275265-simply-phobos.json) |
 | Simply Puzzles: Codewords | 163424 | [163424-simply-puzzles-codewords.json](./163424-simply-puzzles-codewords.json) |
 | Simply Rotate | 285482 | [285482-simply-rotate.json](./285482-simply-rotate.json) |
@@ -10972,6 +10975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of the Deep | 16998 | [16998-song-of-the-deep.json](./16998-song-of-the-deep.json) |
 | Song of the Firefly | 14315 | [14315-song-of-the-firefly.json](./14315-song-of-the-firefly.json) |
 | Song of the Myrne: What Lies Beneath | 26824 | [26824-song-of-the-myrne-what-lies-beneath.json](./26824-song-of-the-myrne-what-lies-beneath.json) |
+| Song of the Prairie | 169714 | [169714-song-of-the-prairie.json](./169714-song-of-the-prairie.json) |
 | Song of the Tides | 158172 | [158172-song-of-the-tides.json](./158172-song-of-the-tides.json) |
 | Song of Twilight | 384231 | [384231-song-of-twilight.json](./384231-song-of-twilight.json) |
 | Song of Yellow River | 130952 | [130952-song-of-yellow-river.json](./130952-song-of-yellow-river.json) |
@@ -11966,6 +11970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Bubbles | 21370 | [21370-soul-bubbles.json](./21370-soul-bubbles.json) |
 | Soul Calibur Mobile | 372102 | [372102-soul-calibur-mobile.json](./372102-soul-calibur-mobile.json) |
 | Soul Card Duel | 390154 | [390154-soul-card-duel.json](./390154-soul-card-duel.json) |
+| Soul Catcher | 169721 | [169721-soul-catcher.json](./169721-soul-catcher.json) |
 | Soul Catcher: The Moon Coliseum | 366384 | [366384-soul-catcher-the-moon-coliseum.json](./366384-soul-catcher-the-moon-coliseum.json) |
 | Soul Chained | 348392 | [348392-soul-chained.json](./348392-soul-chained.json) |
 | Soul Chomper | 230867 | [230867-soul-chomper.json](./230867-soul-chomper.json) |
@@ -12323,6 +12328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souzou Cliff | 181400 | [181400-souzou-cliff.json](./181400-souzou-cliff.json) |
 | Souzou no Memoria | 396936 | [396936-souzou-no-memoria.json](./396936-souzou-no-memoria.json) |
 | Soverain: An Eternal Legend | 377176 | [377176-soverain-an-eternal-legend.json](./377176-soverain-an-eternal-legend.json) |
+| Sovereign | 169907 | [169907-sovereign.json](./169907-sovereign.json) |
 | Sovereign | 61128 | [61128-sovereign.json](./61128-sovereign.json) |
 | Sovereign Brain Empire | 333072 | [333072-sovereign-brain-empire.json](./333072-sovereign-brain-empire.json) |
 | Sovereign Elect | 290506 | [290506-sovereign-elect.json](./290506-sovereign-elect.json) |
@@ -14844,6 +14850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprint.Fire | 235655 | [235655-sprint-fire.json](./235655-sprint-fire.json) |
 | SprintLine | 287909 | [287909-sprintline.json](./287909-sprintline.json) |
 | Sprite Fantasia | 174861 | [174861-sprite-fantasia.json](./174861-sprite-fantasia.json) |
+| Sprite Generator | 169898 | [169898-sprite-generator.json](./169898-sprite-generator.json) |
 | Sprite Hunter | 385890 | [385890-sprite-hunter.json](./385890-sprite-hunter.json) |
 | Sprite Land | 339225 | [339225-sprite-land.json](./339225-sprite-land.json) |
 | Sprite Man Adventures | 161717 | [161717-sprite-man-adventures.json](./161717-sprite-man-adventures.json) |
@@ -16732,6 +16739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Static Sky: And Yet It | 341159 | [341159-static-sky-and-yet-it.json](./341159-static-sky-and-yet-it.json) |
 | Static-End | 178028 | [178028-static-end.json](./178028-static-end.json) |
 | Static: The Beginning | 337744 | [337744-static-the-beginning.json](./337744-static-the-beginning.json) |
+| Statik | 169678 | [169678-statik.json](./169678-statik.json) |
 | Station 117 | 224644 | [224644-station-117.json](./224644-station-117.json) |
 | Station 17 | 165629 | [165629-station-17.json](./165629-station-17.json) |
 | Station 21 - Space Station Simulator | 28883 | [28883-station-21-space-station-simulator.json](./28883-station-21-space-station-simulator.json) |
@@ -17710,6 +17718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stories of Liane | 144603 | [144603-stories-of-liane.json](./144603-stories-of-liane.json) |
 | Stories of Somnia | 353378 | [353378-stories-of-somnia.json](./353378-stories-of-somnia.json) |
 | Stories of Submission: Enter the Cuck | 163943 | [163943-stories-of-submission-enter-the-cuck.json](./163943-stories-of-submission-enter-the-cuck.json) |
+| Stories of Submission: Learn Your Place | 169677 | [169677-stories-of-submission-learn-your-place.json](./169677-stories-of-submission-learn-your-place.json) |
 | Stories of the Dreaming World | 303009 | [303009-stories-of-the-dreaming-world.json](./303009-stories-of-the-dreaming-world.json) |
 | Stories One | 264678 | [264678-stories-one.json](./264678-stories-one.json) |
 | Stories to Tell: Downhill Cemetery | 295534 | [295534-stories-to-tell-downhill-cemetery.json](./295534-stories-to-tell-downhill-cemetery.json) |
@@ -19250,6 +19259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suguru Nature | 147617 | [147617-suguru-nature.json](./147617-suguru-nature.json) |
 | Sugy the Christmas elf | 83206 | [83206-sugy-the-christmas-elf.json](./83206-sugy-the-christmas-elf.json) |
 | Suho Defense | 339650 | [339650-suho-defense.json](./339650-suho-defense.json) |
+| Suhoshin | 169679 | [169679-suhoshin.json](./169679-suhoshin.json) |
 | SuiCats | 272583 | [272583-suicats.json](./272583-suicats.json) |
 | Suichara: Sweets Chara Mode - Sweets Gakkou he Youkoso! | 222401 | [222401-suichara-sweets-chara-mode-sweets-gakkou-he-youkoso.json](./222401-suichara-sweets-chara-mode-sweets-gakkou-he-youkoso.json) |
 | Suicide Adventures | 61613 | [61613-suicide-adventures.json](./61613-suicide-adventures.json) |
@@ -22008,6 +22018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superstition BlackCat | 330331 | [330331-superstition-blackcat.json](./330331-superstition-blackcat.json) |
 | Superstition S2 | 177357 | [177357-superstition-s2.json](./177357-superstition-s2.json) |
 | Superstore | 328482 | [328482-superstore.json](./328482-superstore.json) |
+| Superstorm Melon Date | 169734 | [169734-superstorm-melon-date.json](./169734-superstorm-melon-date.json) |
 | SuperSuperMarket! | 302364 | [302364-supersupermarket.json](./302364-supersupermarket.json) |
 | Supertan Marioner 3D Infinity World Adventures | 198180 | [198180-supertan-marioner-3d-infinity-world-adventures.json](./198180-supertan-marioner-3d-infinity-world-adventures.json) |
 | SuperTanks | 149939 | [149939-supertanks.json](./149939-supertanks.json) |
@@ -23511,6 +23522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SynthRunner | 233630 | [233630-synthrunner.json](./233630-synthrunner.json) |
 | SynthVR | 145267 | [145267-synthvr.json](./145267-synthvr.json) |
 | Synthwave Ascension | 265117 | [265117-synthwave-ascension.json](./265117-synthwave-ascension.json) |
+| Synthwave Burnout | 169733 | [169733-synthwave-burnout.json](./169733-synthwave-burnout.json) |
 | Synthwave Driver | 344387 | [344387-synthwave-driver.json](./344387-synthwave-driver.json) |
 | Synthwave Escape | 319296 | [319296-synthwave-escape.json](./319296-synthwave-escape.json) |
 | Synthwave Glider | 224604 | [224604-synthwave-glider.json](./224604-synthwave-glider.json) |
