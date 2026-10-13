@@ -2054,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basket Ball 3D ShootOut | 91150 | [91150-basket-ball-3d-shootout.json](./91150-basket-ball-3d-shootout.json) |
 | Basket Battle | 208910 | [208910-basket-battle.json](./208910-basket-battle.json) |
 | Basket Bowling + | 47309 | [47309-basket-bowling.json](./47309-basket-bowling.json) |
+| Basket Bros | 133727 | [133727-basket-bros.json](./133727-basket-bros.json) |
 | Basket Legends | 188017 | [188017-basket-legends.json](./188017-basket-legends.json) |
 | Basket Random | 204351 | [204351-basket-random.json](./204351-basket-random.json) |
 | Basket Zombie | 282137 | [282137-basket-zombie.json](./282137-basket-zombie.json) |
@@ -2157,6 +2158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bassmaster Fishing: Digital Collector's Edition | 240221 | [240221-bassmaster-fishing-digital-collectors-edition.json](./240221-bassmaster-fishing-digital-collectors-edition.json) |
 | BassMasters 2000 | 3420 | [3420-bassmasters-2000.json](./3420-bassmasters-2000.json) |
 | BassTour | 142320 | [142320-basstour.json](./142320-basstour.json) |
+| Bastard Little Zombie | 133697 | [133697-bastard-little-zombie.json](./133697-bastard-little-zombie.json) |
 | Basted | 67666 | [67666-basted.json](./67666-basted.json) |
 | Basterd Blitz | 276703 | [276703-basterd-blitz.json](./276703-basterd-blitz.json) |
 | Bastion of Beginnings | 297783 | [297783-bastion-of-beginnings.json](./297783-bastion-of-beginnings.json) |
@@ -5926,6 +5928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Magic Gamebox | 192798 | [192798-black-magic-gamebox.json](./192798-black-magic-gamebox.json) |
 | Black Magnetic | 262560 | [262560-black-magnetic.json](./262560-black-magnetic.json) |
 | Black Maou & Rainbow Kingdom | 151285 | [151285-black-maou-and-rainbow-kingdom.json](./151285-black-maou-and-rainbow-kingdom.json) |
+| Black Maria Overdrive | 133740 | [133740-black-maria-overdrive.json](./133740-black-maria-overdrive.json) |
 | Black Market | 338243 | [338243-black-market.json](./338243-black-market.json) |
 | Black Market | 52471 | [52471-black-market.json](./52471-black-market.json) |
 | Black Market Bowling | 57643 | [57643-black-market-bowling.json](./57643-black-market-bowling.json) |
@@ -6531,6 +6534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleach: Heat the Soul 5 | 72958 | [72958-bleach-heat-the-soul-5.json](./72958-bleach-heat-the-soul-5.json) |
 | Bleach: Heat the Soul 6 | 69255 | [69255-bleach-heat-the-soul-6.json](./69255-bleach-heat-the-soul-6.json) |
 | Bleach: Heat the Soul 7 | 66765 | [66765-bleach-heat-the-soul-7.json](./66765-bleach-heat-the-soul-7.json) |
+| Bleach: Immortal Soul | 133746 | [133746-bleach-immortal-soul.json](./133746-bleach-immortal-soul.json) |
 | Bleach: Paradise Lost | 52199 | [52199-bleach-paradise-lost.json](./52199-bleach-paradise-lost.json) |
 | Bleach: Shattered Blade | 3821 | [3821-bleach-shattered-blade.json](./3821-bleach-shattered-blade.json) |
 | Bleach: Soul Carnival | 25930 | [25930-bleach-soul-carnival.json](./25930-bleach-soul-carnival.json) |
@@ -10478,6 +10482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrotherZ | 36963 | [36963-brotherz.json](./36963-brotherz.json) |
 | Broventure: The Wild Co-op | 332270 | [332270-broventure-the-wild-co-op.json](./332270-broventure-the-wild-co-op.json) |
 | Brown Dust & Puzzle | 196553 | [196553-brown-dust-and-puzzle.json](./196553-brown-dust-and-puzzle.json) |
+| Brown Stories | 133719 | [133719-brown-stories.json](./133719-brown-stories.json) |
 | Brown Trouble | 295011 | [295011-brown-trouble.json](./295011-brown-trouble.json) |
 | Brownie's Adventure | 264671 | [264671-brownies-adventure.json](./264671-brownies-adventure.json) |
 | Brownie's Adventure 2 | 294151 | [294151-brownies-adventure-2.json](./294151-brownies-adventure-2.json) |
@@ -11946,6 +11951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz!: Quiz TV Special Edition | 268768 | [268768-buzz-quiz-tv-special-edition.json](./268768-buzz-quiz-tv-special-edition.json) |
 | Buzz!: Quiz World | 7284 | [7284-buzz-quiz-world.json](./7284-buzz-quiz-world.json) |
 | Buzz!: The Pop Quiz | 21360 | [21360-buzz-the-pop-quiz.json](./21360-buzz-the-pop-quiz.json) |
+| Buzzed! Trivia | 133700 | [133700-buzzed-trivia.json](./133700-buzzed-trivia.json) |
 | Buzzing Cars | 221925 | [221925-buzzing-cars.json](./221925-buzzing-cars.json) |
 | Buzzle | 148866 | [148866-buzzle.json](./148866-buzzle.json) |
 | Buzzsaw | 60760 | [60760-buzzsaw.json](./60760-buzzsaw.json) |
