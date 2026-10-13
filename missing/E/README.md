@@ -2077,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Origin: Rise | 258204 | [258204-empire-origin-rise.json](./258204-empire-origin-rise.json) |
 | Empire Run | 248648 | [248648-empire-run.json](./248648-empire-run.json) |
 | Empire Soccer 94 | 12065 | [12065-empire-soccer-94.json](./12065-empire-soccer-94.json) |
+| Empire Takeover | 173015 | [173015-empire-takeover.json](./173015-empire-takeover.json) |
 | Empire Warriors TD | 104587 | [104587-empire-warriors-td.json](./104587-empire-warriors-td.json) |
 | Empire Water Works | 407594 | [407594-empire-water-works.json](./407594-empire-water-works.json) |
 | Empire Z | 106738 | [106738-empire-z.json](./106738-empire-z.json) |
@@ -4646,6 +4647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution: From the Little Light | 280290 | [280290-evolution-from-the-little-light.json](./280290-evolution-from-the-little-light.json) |
 | Evolution: Heroes of Utopia | 56138 | [56138-evolution-heroes-of-utopia.json](./56138-evolution-heroes-of-utopia.json) |
 | Evolution: Indian Hunter - Unlimited Edition | 201261 | [201261-evolution-indian-hunter-unlimited-edition.json](./201261-evolution-indian-hunter-unlimited-edition.json) |
+| Evolution: Moon Warfare | 173021 | [173021-evolution-moon-warfare.json](./173021-evolution-moon-warfare.json) |
 | Evolution: The Game of Intelligent Life | 37049 | [37049-evolution-the-game-of-intelligent-life.json](./37049-evolution-the-game-of-intelligent-life.json) |
 | Evolutis: Duality | 129170 | [129170-evolutis-duality.json](./129170-evolutis-duality.json) |
 | Evolvation | 31834 | [31834-evolvation.json](./31834-evolvation.json) |
