@@ -3786,6 +3786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchademy | 186612 | [186612-alchademy.json](./186612-alchademy.json) |
 | Alchedungeon | 122812 | [122812-alchedungeon.json](./122812-alchedungeon.json) |
 | Alchem It | 211268 | [211268-alchem-it.json](./211268-alchem-it.json) |
+| Alchemania | 157417 | [157417-alchemania.json](./157417-alchemania.json) |
 | Alchemelee | 128333 | [128333-alchemelee.json](./128333-alchemelee.json) |
 | Alchementalist | 157082 | [157082-alchementalist.json](./157082-alchementalist.json) |
 | Alchemia | 117032 | [117032-alchemia.json](./117032-alchemia.json) |
@@ -7286,6 +7287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Gardening | 60210 | [60210-apocalypse-gardening.json](./60210-apocalypse-gardening.json) |
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - Museum of Horror! | 171089 | [171089-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-museum-of-horror.json](./171089-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-museum-of-horror.json) |
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - The Thin Blue Line! | 171088 | [171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json](./171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json) |
+| Apocalypse Island | 157392 | [157392-apocalypse-island.json](./157392-apocalypse-island.json) |
 | Apocalypse Love Shelter | 290495 | [290495-apocalypse-love-shelter.json](./290495-apocalypse-love-shelter.json) |
 | Apocalypse Max | 188353 | [188353-apocalypse-max.json](./188353-apocalypse-max.json) |
 | Apocalypse Mechanism | 103499 | [103499-apocalypse-mechanism.json](./103499-apocalypse-mechanism.json) |
@@ -7678,6 +7680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc the Lad: Monster Game with Casino Game | 44731 | [44731-arc-the-lad-monster-game-with-casino-game.json](./44731-arc-the-lad-monster-game-with-casino-game.json) |
 | Arc Tracker | 338265 | [338265-arc-tracker.json](./338265-arc-tracker.json) |
 | Arc Vector | 126409 | [126409-arc-vector.json](./126409-arc-vector.json) |
+| Arc Wizards 3 | 157426 | [157426-arc-wizards-3.json](./157426-arc-wizards-3.json) |
 | ARC: Antic Runes Combat | 294277 | [294277-arc-antic-runes-combat.json](./294277-arc-antic-runes-combat.json) |
 | Arc’s Glitch Defender | 362391 | [362391-arc-s-glitch-defender.json](./362391-arc-s-glitch-defender.json) |
 | ARCA Sim Racing 08' | 197936 | [197936-arca-sim-racing-08.json](./197936-arca-sim-racing-08.json) |
