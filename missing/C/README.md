@@ -2512,6 +2512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Quest III: Tavern Tales | 347866 | [347866-cat-quest-iii-tavern-tales.json](./347866-cat-quest-iii-tavern-tales.json) |
 | Cat Quest: The Fur-tastic Trilogy | 313223 | [313223-cat-quest-the-fur-tastic-trilogy.json](./313223-cat-quest-the-fur-tastic-trilogy.json) |
 | Cat Raid | 255010 | [255010-cat-raid.json](./255010-cat-raid.json) |
+| Cat Rekt! | 177452 | [177452-cat-rekt.json](./177452-cat-rekt.json) |
 | Cat Rescue | 329530 | [329530-cat-rescue.json](./329530-cat-rescue.json) |
 | Cat Rescue Helicopter | 231958 | [231958-cat-rescue-helicopter.json](./231958-cat-rescue-helicopter.json) |
 | Cat Rescue Inc. | 345650 | [345650-cat-rescue-inc.json](./345650-cat-rescue-inc.json) |
