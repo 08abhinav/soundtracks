@@ -5528,6 +5528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Donut Gallery | 386735 | [386735-the-donut-gallery.json](./386735-the-donut-gallery.json) |
 | The Doodle Palette | 377964 | [377964-the-doodle-palette.json](./377964-the-doodle-palette.json) |
 | The Doom Beneath | 175429 | [175429-the-doom-beneath.json](./175429-the-doom-beneath.json) |
+| The Doomsday Crisis Line | 176763 | [176763-the-doomsday-crisis-line.json](./176763-the-doomsday-crisis-line.json) |
 | The Doomsland: Survivors | 245202 | [245202-the-doomsland-survivors.json](./245202-the-doomsland-survivors.json) |
 | The Door | 150501 | [150501-the-door.json](./150501-the-door.json) |
 | The Door | 246123 | [246123-the-door.json](./246123-the-door.json) |
@@ -10533,6 +10534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seventh Seal | 389595 | [389595-the-seventh-seal.json](./389595-the-seventh-seal.json) |
 | The Seventh Sign: Mr.Sister | 187852 | [187852-the-seventh-sign-mr-sister.json](./187852-the-seventh-sign-mr-sister.json) |
 | The Seventh Star | 13755 | [13755-the-seventh-star.json](./13755-the-seventh-star.json) |
+| The Seventh Warrior | 176751 | [176751-the-seventh-warrior.json](./176751-the-seventh-warrior.json) |
 | The Several Journeys of Reemus Chapter 2: The All-Knowing Parasite | 110311 | [110311-the-several-journeys-of-reemus-chapter-2-the-all-knowing-parasite.json](./110311-the-several-journeys-of-reemus-chapter-2-the-all-knowing-parasite.json) |
 | The Several Journeys of Reemus Chapter 3: Know Thy Enemy | 404873 | [404873-the-several-journeys-of-reemus-chapter-3-know-thy-enemy.json](./404873-the-several-journeys-of-reemus-chapter-3-know-thy-enemy.json) |
 | The Several Journeys of Reemus Chapter 4: The Beastly Blackhole of Bureaucracy | 404876 | [404876-the-several-journeys-of-reemus-chapter-4-the-beastly-blackhole-of-bureaucracy.json](./404876-the-several-journeys-of-reemus-chapter-4-the-beastly-blackhole-of-bureaucracy.json) |
@@ -12915,6 +12917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Know | 283232 | [283232-they-know.json](./283232-they-know.json) |
 | They Left Us Here | 391116 | [391116-they-left-us-here.json](./391116-they-left-us-here.json) |
 | They Linger | 259588 | [259588-they-linger.json](./259588-they-linger.json) |
+| They Live Here Now | 176932 | [176932-they-live-here-now.json](./176932-they-live-here-now.json) |
 | They Look Strange and Have to Die | 181233 | [181233-they-look-strange-and-have-to-die.json](./181233-they-look-strange-and-have-to-die.json) |
 | They Love Them | 235813 | [235813-they-love-them.json](./235813-they-love-them.json) |
 | They Remain | 302061 | [302061-they-remain.json](./302061-they-remain.json) |
@@ -16462,6 +16465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonight It Follows | 120201 | [120201-tonight-it-follows.json](./120201-tonight-it-follows.json) |
 | Tonight We Hunt | 183975 | [183975-tonight-we-hunt.json](./183975-tonight-we-hunt.json) |
 | Tonight We Riot | 36352 | [36352-tonight-we-riot.json](./36352-tonight-we-riot.json) |
+| Tonight You Die | 176736 | [176736-tonight-you-die.json](./176736-tonight-you-die.json) |
 | Tonight, I Die in My Sleep | 268942 | [268942-tonight-i-die-in-my-sleep.json](./268942-tonight-i-die-in-my-sleep.json) |
 | Tonight's Special | 394814 | [394814-tonights-special.json](./394814-tonights-special.json) |
 | Tonikk Tycoon | 195455 | [195455-tonikk-tycoon.json](./195455-tonikk-tycoon.json) |
@@ -17979,6 +17983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tracebound | 381360 | [381360-tracebound.json](./381360-tracebound.json) |
 | Tracer | 186136 | [186136-tracer.json](./186136-tracer.json) |
 | Tracery of Fate VR | 207496 | [207496-tracery-of-fate-vr.json](./207496-tracery-of-fate-vr.json) |
+| TraceS | 176928 | [176928-traces.json](./176928-traces.json) |
 | Traces of Gods | 372097 | [372097-traces-of-gods.json](./372097-traces-of-gods.json) |
 | Tracing | 346209 | [346209-tracing.json](./346209-tracing.json) |
 | Tracing Decay | 211143 | [211143-tracing-decay.json](./211143-tracing-decay.json) |
@@ -19193,6 +19198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tranquil Isle | 240790 | [240790-tranquil-isle.json](./240790-tranquil-isle.json) |
 | Tranquility I | 131336 | [131336-tranquility-i.json](./131336-tranquility-i.json) |
 | Tranquillizer Gun | 6128 | [6128-tranquillizer-gun.json](./6128-tranquillizer-gun.json) |
+| Trans Coming Out Simulator 2018 | 176927 | [176927-trans-coming-out-simulator-2018.json](./176927-trans-coming-out-simulator-2018.json) |
 | Trans Liberation Forever | 277409 | [277409-trans-liberation-forever.json](./277409-trans-liberation-forever.json) |
 | Trans Theft Horso | 258563 | [258563-trans-theft-horso.json](./258563-trans-theft-horso.json) |
 | Trans-Galactic Tournament | 77963 | [77963-trans-galactic-tournament.json](./77963-trans-galactic-tournament.json) |
