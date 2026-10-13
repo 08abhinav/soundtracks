@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Think I'm in Love with a Demon Prince | 268985 | [268985-i-think-im-in-love-with-a-demon-prince.json](./268985-i-think-im-in-love-with-a-demon-prince.json) |
 | I Thought I Knew You | 414836 | [414836-i-thought-i-knew-you.json](./414836-i-thought-i-knew-you.json) |
 | I told you | 220041 | [220041-i-told-you.json](./220041-i-told-you.json) |
+| I Told You So! | 178908 | [178908-i-told-you-so.json](./178908-i-told-you-so.json) |
 | I Too Can Grow | 179058 | [179058-i-too-can-grow.json](./179058-i-too-can-grow.json) |
 | I Touched Tips with a Femboy | 385244 | [385244-i-touched-tips-with-a-femboy.json](./385244-i-touched-tips-with-a-femboy.json) |
 | I Traveled Back to 5 Days Before the Apocalypse | 379554 | [379554-i-traveled-back-to-5-days-before-the-apocalypse.json](./379554-i-traveled-back-to-5-days-before-the-apocalypse.json) |
@@ -404,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Want to Go to Mars | 130363 | [130363-i-want-to-go-to-mars.json](./130363-i-want-to-go-to-mars.json) |
 | I Want To Make Something Beautiful | 391209 | [391209-i-want-to-make-something-beautiful.json](./391209-i-want-to-make-something-beautiful.json) |
 | I Want to Play the Villain! | 412542 | [412542-i-want-to-play-the-villain.json](./412542-i-want-to-play-the-villain.json) |
+| I Want to Pursue the Mean Side Character! | 178897 | [178897-i-want-to-pursue-the-mean-side-character.json](./178897-i-want-to-pursue-the-mean-side-character.json) |
 | I Want to Run Away From My Goth Mommy... or Do I? | 372691 | [372691-i-want-to-run-away-from-my-goth-mommy-or-do-i.json](./372691-i-want-to-run-away-from-my-goth-mommy-or-do-i.json) |
 | I Want Toilet!!!!!! | 52748 | [52748-i-want-toilet.json](./52748-i-want-toilet.json) |
 | I was a Cannibal for the FBI | 71526 | [71526-i-was-a-cannibal-for-the-fbi.json](./71526-i-was-a-cannibal-for-the-fbi.json) |
@@ -1892,6 +1894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Other Waters: Xenobiologist Edition | 227179 | [227179-in-other-waters-xenobiologist-edition.json](./227179-in-other-waters-xenobiologist-edition.json) |
 | In Our Parlor | 416821 | [416821-in-our-parlor.json](./416821-in-our-parlor.json) |
 | In Passing | 125443 | [125443-in-passing.json](./125443-in-passing.json) |
+| In Peaceful Days | 178878 | [178878-in-peaceful-days.json](./178878-in-peaceful-days.json) |
 | In Purr-Suit | 332966 | [332966-in-purr-suit.json](./332966-in-purr-suit.json) |
 | In Pursuit of Greed | 73489 | [73489-in-pursuit-of-greed.json](./73489-in-pursuit-of-greed.json) |
 | In Requiem | 178460 | [178460-in-requiem.json](./178460-in-requiem.json) |
@@ -3615,6 +3618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Investigation Stories: Gunsound | 369552 | [369552-investigation-stories-gunsound.json](./369552-investigation-stories-gunsound.json) |
 | Investigation Stories: Windsound | 216395 | [216395-investigation-stories-windsound.json](./216395-investigation-stories-windsound.json) |
 | Investigator | 32526 | [32526-investigator.json](./32526-investigator.json) |
+| Investigator and the Case of the Chekhov's Gun | 178881 | [178881-investigator-and-the-case-of-the-chekhovs-gun.json](./178881-investigator-and-the-case-of-the-chekhovs-gun.json) |
 | Investigator and the Case of the Unconventional Weapon | 179660 | [179660-investigator-and-the-case-of-the-unconventional-weapon.json](./179660-investigator-and-the-case-of-the-unconventional-weapon.json) |
 | Investigator Trials | 289229 | [289229-investigator-trials.json](./289229-investigator-trials.json) |
 | Investment Run | 319166 | [319166-investment-run.json](./319166-investment-run.json) |
