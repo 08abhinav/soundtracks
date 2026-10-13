@@ -5637,6 +5637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitch Government | 187150 | [187150-bitch-government.json](./187150-bitch-government.json) |
 | Bitch Hell | 197891 | [197891-bitch-hell.json](./197891-bitch-hell.json) |
 | Bitch Shop Simulator | 389114 | [389114-bitch-shop-simulator.json](./389114-bitch-shop-simulator.json) |
+| Bitchy Boss Bimbofication | 150941 | [150941-bitchy-boss-bimbofication.json](./150941-bitchy-boss-bimbofication.json) |
 | Bitcoin | 90174 | [90174-bitcoin.json](./90174-bitcoin.json) |
 | Bitcoin Billionaire: Bitstone To The Past | 370236 | [370236-bitcoin-billionaire-bitstone-to-the-past.json](./370236-bitcoin-billionaire-bitstone-to-the-past.json) |
 | Bitcoin Bounce | 208314 | [208314-bitcoin-bounce.json](./208314-bitcoin-bounce.json) |
@@ -10484,6 +10485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutalismus: Dystopia | 355076 | [355076-brutalismus-dystopia.json](./355076-brutalismus-dystopia.json) |
 | Brutalist | 308250 | [308250-brutalist.json](./308250-brutalist.json) |
 | Brutalistick VR | 277017 | [277017-brutalistick-vr.json](./277017-brutalistick-vr.json) |
+| Brutality club | 150981 | [150981-brutality-club.json](./150981-brutality-club.json) |
 | Brute | 33279 | [33279-brute.json](./33279-brute.json) |
 | Brute Force | 80634 | [80634-brute-force.json](./80634-brute-force.json) |
 | Brute Horse | 314627 | [314627-brute-horse.json](./314627-brute-horse.json) |
