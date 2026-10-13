@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T04:05:28.776Z",
-  "total_missing": 204581,
+  "generated_at": "2026-10-13T04:20:23.107Z",
+  "total_missing": 204631,
   "games": [
     {
       "igdb_id": 191680,
@@ -45648,6 +45648,11 @@
       "file": "missing/A/223491-antrabhara.json"
     },
     {
+      "igdb_id": 170965,
+      "game_name": "Ants",
+      "file": "missing/A/170965-ants.json"
+    },
+    {
       "igdb_id": 358427,
       "game_name": "Ants Empire Colony",
       "file": "missing/A/358427-ants-empire-colony.json"
@@ -59791,6 +59796,11 @@
       "igdb_id": 213433,
       "game_name": "Asterogues",
       "file": "missing/A/213433-asterogues.json"
+    },
+    {
+      "igdb_id": 170781,
+      "game_name": "Asteroid",
+      "file": "missing/A/170781-asteroid.json"
     },
     {
       "igdb_id": 80931,
@@ -83011,6 +83021,51 @@
       "igdb_id": 112474,
       "game_name": "BattleRush: Ardennes Assault",
       "file": "missing/B/112474-battlerush-ardennes-assault.json"
+    },
+    {
+      "igdb_id": 170976,
+      "game_name": "BattleRush: German AT Infantry",
+      "file": "missing/B/170976-battlerush-german-at-infantry.json"
+    },
+    {
+      "igdb_id": 170983,
+      "game_name": "BattleRush: German Snipers",
+      "file": "missing/B/170983-battlerush-german-snipers.json"
+    },
+    {
+      "igdb_id": 170977,
+      "game_name": "BattleRush: German Special Forces",
+      "file": "missing/B/170977-battlerush-german-special-forces.json"
+    },
+    {
+      "igdb_id": 170979,
+      "game_name": "BattleRush: Heavy Tanks",
+      "file": "missing/B/170979-battlerush-heavy-tanks.json"
+    },
+    {
+      "igdb_id": 170975,
+      "game_name": "BattleRush: Imperial Japanese Army",
+      "file": "missing/B/170975-battlerush-imperial-japanese-army.json"
+    },
+    {
+      "igdb_id": 170982,
+      "game_name": "BattleRush: US AT Infantry",
+      "file": "missing/B/170982-battlerush-us-at-infantry.json"
+    },
+    {
+      "igdb_id": 170980,
+      "game_name": "BattleRush: US Marine Corps",
+      "file": "missing/B/170980-battlerush-us-marine-corps.json"
+    },
+    {
+      "igdb_id": 170978,
+      "game_name": "BattleRush: US Special Forces",
+      "file": "missing/B/170978-battlerush-us-special-forces.json"
+    },
+    {
+      "igdb_id": 170981,
+      "game_name": "BattleRush: USSR Army",
+      "file": "missing/B/170981-battlerush-ussr-army.json"
     },
     {
       "igdb_id": 99754,
@@ -127358,6 +127413,11 @@
       "file": "missing/B/232552-buzz.json"
     },
     {
+      "igdb_id": 170776,
+      "game_name": "Buzz Aldrin: Cycling Pathways to Mars",
+      "file": "missing/B/170776-buzz-aldrin-cycling-pathways-to-mars.json"
+    },
+    {
       "igdb_id": 356783,
       "game_name": "Buzz Bombers",
       "file": "missing/B/356783-buzz-bombers.json"
@@ -150511,6 +150571,11 @@
       "igdb_id": 244313,
       "game_name": "Chieftain's Daughter",
       "file": "missing/C/244313-chieftains-daughter.json"
+    },
+    {
+      "igdb_id": 170786,
+      "game_name": "Chigau!!!",
+      "file": "missing/C/170786-chigau.json"
     },
     {
       "igdb_id": 186231,
@@ -176413,6 +176478,11 @@
       "file": "missing/C/51761-cossacks-3-rise-to-glory.json"
     },
     {
+      "igdb_id": 170788,
+      "game_name": "Cossacks 3: Summer Fair",
+      "file": "missing/C/170788-cossacks-3-summer-fair.json"
+    },
+    {
       "igdb_id": 144963,
       "game_name": "Cossacks 3: The Golden Age",
       "file": "missing/C/144963-cossacks-3-the-golden-age.json"
@@ -181441,6 +181511,11 @@
       "igdb_id": 356206,
       "game_name": "Crazy Robot Ball",
       "file": "missing/C/356206-crazy-robot-ball.json"
+    },
+    {
+      "igdb_id": 170963,
+      "game_name": "Crazy Sapper 3D: Classic Mode",
+      "file": "missing/C/170963-crazy-sapper-3d-classic-mode.json"
     },
     {
       "igdb_id": 327219,
@@ -198698,6 +198773,11 @@
       "file": "missing/D/227497-dark-and-light-mobile.json"
     },
     {
+      "igdb_id": 170970,
+      "game_name": "Dark and Light: Shard of Faith",
+      "file": "missing/D/170970-dark-and-light-shard-of-faith.json"
+    },
+    {
       "igdb_id": 51999,
       "game_name": "Dark and Light: Tales of Gaia",
       "file": "missing/D/51999-dark-and-light-tales-of-gaia.json"
@@ -205361,6 +205441,21 @@
       "igdb_id": 38968,
       "game_name": "Dead Effect 2 VR",
       "file": "missing/D/38968-dead-effect-2-vr.json"
+    },
+    {
+      "igdb_id": 170969,
+      "game_name": "Dead Effect 2 VR: Cybermagic",
+      "file": "missing/D/170969-dead-effect-2-vr-cybermagic.json"
+    },
+    {
+      "igdb_id": 170967,
+      "game_name": "Dead Effect 2 VR: Escape From Meridian",
+      "file": "missing/D/170967-dead-effect-2-vr-escape-from-meridian.json"
+    },
+    {
+      "igdb_id": 170968,
+      "game_name": "Dead Effect 2: Escape From Meridian",
+      "file": "missing/D/170968-dead-effect-2-escape-from-meridian.json"
     },
     {
       "igdb_id": 285003,
@@ -226831,6 +226926,11 @@
       "igdb_id": 134605,
       "game_name": "Disgraced Swordswoman Battle",
       "file": "missing/D/134605-disgraced-swordswoman-battle.json"
+    },
+    {
+      "igdb_id": 170796,
+      "game_name": "Disgraced: Hands of Fate",
+      "file": "missing/D/170796-disgraced-hands-of-fate.json"
     },
     {
       "igdb_id": 161730,
@@ -335233,6 +335333,11 @@
       "file": "missing/G/13856-garrison.json"
     },
     {
+      "igdb_id": 170784,
+      "game_name": "Garrison",
+      "file": "missing/G/170784-garrison.json"
+    },
+    {
       "igdb_id": 112231,
       "game_name": "Garrison I-II",
       "file": "missing/G/112231-garrison-i-ii.json"
@@ -337726,6 +337831,11 @@
       "igdb_id": 331540,
       "game_name": "Generation Zero: Action Hero Bundle",
       "file": "missing/G/331540-generation-zero-action-hero-bundle.json"
+    },
+    {
+      "igdb_id": 170971,
+      "game_name": "Generation Zero: Apparel Crafting",
+      "file": "missing/G/170971-generation-zero-apparel-crafting.json"
     },
     {
       "igdb_id": 226796,
@@ -343236,6 +343346,11 @@
       "igdb_id": 412374,
       "game_name": "Girlfailure Art Club",
       "file": "missing/G/412374-girlfailure-art-club.json"
+    },
+    {
+      "igdb_id": 170785,
+      "game_name": "Girlfight 2024",
+      "file": "missing/G/170785-girlfight-2024.json"
     },
     {
       "igdb_id": 106582,
@@ -358906,6 +359021,11 @@
       "igdb_id": 86552,
       "game_name": "Grim Wanderings",
       "file": "missing/G/86552-grim-wanderings.json"
+    },
+    {
+      "igdb_id": 170787,
+      "game_name": "Grim Wanderings II",
+      "file": "missing/G/170787-grim-wanderings-ii.json"
     },
     {
       "igdb_id": 253447,
@@ -403668,6 +403788,11 @@
       "file": "missing/H/12954-hungry-horace.json"
     },
     {
+      "igdb_id": 170795,
+      "game_name": "Hungry Horace",
+      "file": "missing/H/170795-hungry-horace.json"
+    },
+    {
       "igdb_id": 315343,
       "game_name": "Hungry Horrors",
       "file": "missing/H/315343-hungry-horrors.json"
@@ -419208,6 +419333,11 @@
       "file": "missing/I/386473-infinite-dungeon.json"
     },
     {
+      "igdb_id": 170797,
+      "game_name": "Infinite Dungeon Crawler: The Frozen Expanse",
+      "file": "missing/I/170797-infinite-dungeon-crawler-the-frozen-expanse.json"
+    },
+    {
       "igdb_id": 352291,
       "game_name": "Infinite Einstein Tiles",
       "file": "missing/I/352291-infinite-einstein-tiles.json"
@@ -421951,6 +422081,11 @@
       "igdb_id": 302955,
       "game_name": "InSight",
       "file": "missing/I/302955-insight.json"
+    },
+    {
+      "igdb_id": 170974,
+      "game_name": "Insights: Maniac Vortex",
+      "file": "missing/I/170974-insights-maniac-vortex.json"
     },
     {
       "igdb_id": 152232,
@@ -463463,6 +463598,11 @@
       "file": "missing/K/287742-kuudere-funk.json"
     },
     {
+      "igdb_id": 170791,
+      "game_name": "Kuukiyomi 1 2 3+",
+      "file": "missing/K/170791-kuukiyomi-1-2-3.json"
+    },
+    {
       "igdb_id": 135640,
       "game_name": "Kuukiyomi 2: Consider It More! - New Era",
       "file": "missing/K/135640-kuukiyomi-2-consider-it-more-new-era.json"
@@ -463906,6 +464046,11 @@
       "igdb_id": 40219,
       "game_name": "Kyuukyoku Sentai Dadandarn",
       "file": "missing/K/40219-kyuukyoku-sentai-dadandarn.json"
+    },
+    {
+      "igdb_id": 170780,
+      "game_name": "Kyuukyoku Tiger",
+      "file": "missing/K/170780-kyuukyoku-tiger.json"
     },
     {
       "igdb_id": 66146,
@@ -473046,6 +473191,11 @@
       "igdb_id": 361910,
       "game_name": "Legends of Aria Eternal",
       "file": "missing/L/361910-legends-of-aria-eternal.json"
+    },
+    {
+      "igdb_id": 170801,
+      "game_name": "Legends of Aria: Citizen's Pass",
+      "file": "missing/L/170801-legends-of-aria-citizens-pass.json"
     },
     {
       "igdb_id": 298244,
@@ -501963,9 +502113,19 @@
       "file": "missing/M/45319-magical-drop-3.json"
     },
     {
+      "igdb_id": 170778,
+      "game_name": "Magical Drop CPC",
+      "file": "missing/M/170778-magical-drop-cpc.json"
+    },
+    {
       "igdb_id": 171031,
       "game_name": "Magical Drop III: Toretate Zoukangou!",
       "file": "missing/M/171031-magical-drop-iii-toretate-zoukangou.json"
+    },
+    {
+      "igdb_id": 170790,
+      "game_name": "Magical Drop III: Yokubari Tokudaigou!",
+      "file": "missing/M/170790-magical-drop-iii-yokubari-tokudaigou.json"
     },
     {
       "igdb_id": 221060,
@@ -533693,6 +533853,11 @@
       "file": "missing/M/383109-might-and-magic-duel-of-champions-void-rising.json"
     },
     {
+      "igdb_id": 170779,
+      "game_name": "Might & Magic: Dynasty",
+      "file": "missing/M/170779-might-and-magic-dynasty.json"
+    },
+    {
       "igdb_id": 70707,
       "game_name": "Might & Magic: Elemental Guardians",
       "file": "missing/M/70707-might-and-magic-elemental-guardians.json"
@@ -540421,6 +540586,11 @@
       "igdb_id": 296985,
       "game_name": "Mirror World",
       "file": "missing/M/296985-mirror-world.json"
+    },
+    {
+      "igdb_id": 170798,
+      "game_name": "Mirror: The Lost Shards",
+      "file": "missing/M/170798-mirror-the-lost-shards.json"
     },
     {
       "igdb_id": 77347,
@@ -568173,6 +568343,11 @@
       "file": "missing/M/419980-mythclash.json"
     },
     {
+      "igdb_id": 170794,
+      "game_name": "Mytheon: Egypt Pack",
+      "file": "missing/M/170794-mytheon-egypt-pack.json"
+    },
+    {
       "igdb_id": 304752,
       "game_name": "Mythfall",
       "file": "missing/M/304752-mythfall.json"
@@ -592188,6 +592363,11 @@
       "file": "missing/N/202661-nowayback.json"
     },
     {
+      "igdb_id": 170964,
+      "game_name": "Nowhere",
+      "file": "missing/N/170964-nowhere.json"
+    },
+    {
       "igdb_id": 272287,
       "game_name": "Nowhere",
       "file": "missing/N/272287-nowhere.json"
@@ -596641,6 +596821,16 @@
       "igdb_id": 167677,
       "game_name": "Of Guards and Thieves: Firefight",
       "file": "missing/O/167677-of-guards-and-thieves-firefight.json"
+    },
+    {
+      "igdb_id": 170973,
+      "game_name": "Of Guards and Thieves: Hunting Grounds",
+      "file": "missing/O/170973-of-guards-and-thieves-hunting-grounds.json"
+    },
+    {
+      "igdb_id": 170972,
+      "game_name": "Of Guards and Thieves: Racing",
+      "file": "missing/O/170972-of-guards-and-thieves-racing.json"
     },
     {
       "igdb_id": 166013,
@@ -704528,6 +704718,16 @@
       "file": "missing/R/261772-risky-sanctuary.json"
     },
     {
+      "igdb_id": 170783,
+      "game_name": "Risky Wings: 'Colibri' Character",
+      "file": "missing/R/170783-risky-wings-colibri-character.json"
+    },
+    {
+      "igdb_id": 170782,
+      "game_name": "Risky Wings: 'Dizzy Kitten' Character",
+      "file": "missing/R/170782-risky-wings-dizzy-kitten-character.json"
+    },
+    {
       "igdb_id": 300506,
       "game_name": "Risorgimento Represso",
       "file": "missing/R/300506-risorgimento-represso.json"
@@ -760898,6 +761098,11 @@
       "file": "missing/S/147901-sky-mercenaries-redux.json"
     },
     {
+      "igdb_id": 170799,
+      "game_name": "Sky Mirror: Strolling",
+      "file": "missing/S/170799-sky-mirror-strolling.json"
+    },
+    {
       "igdb_id": 17572,
       "game_name": "Sky Nations",
       "file": "missing/S/17572-sky-nations.json"
@@ -812416,6 +812621,11 @@
       "igdb_id": 342647,
       "game_name": "Striatum",
       "file": "missing/S/342647-striatum.json"
+    },
+    {
+      "igdb_id": 170800,
+      "game_name": "Strid: Full Edition",
+      "file": "missing/S/170800-strid-full-edition.json"
     },
     {
       "igdb_id": 132959,
@@ -924563,9 +924773,24 @@
       "file": "missing/T/153523-touhou-blooming-chaos-2.json"
     },
     {
+      "igdb_id": 170962,
+      "game_name": "Touhou Blooming Chaos 2: Chara Pack 1",
+      "file": "missing/T/170962-touhou-blooming-chaos-2-chara-pack-1.json"
+    },
+    {
+      "igdb_id": 170961,
+      "game_name": "Touhou Blooming Chaos 2: Chara Pack 2",
+      "file": "missing/T/170961-touhou-blooming-chaos-2-chara-pack-2.json"
+    },
+    {
       "igdb_id": 170959,
       "game_name": "Touhou Blooming Chaos 2: Chara Pack 3",
       "file": "missing/T/170959-touhou-blooming-chaos-2-chara-pack-3.json"
+    },
+    {
+      "igdb_id": 170960,
+      "game_name": "Touhou Blooming Chaos 2: Chara Pack 4",
+      "file": "missing/T/170960-touhou-blooming-chaos-2-chara-pack-4.json"
     },
     {
       "igdb_id": 169324,
@@ -940048,9 +940273,19 @@
       "file": "missing/T/19978-tron-run-r.json"
     },
     {
+      "igdb_id": 170985,
+      "game_name": "Tron Run/r: Cycle Extender Bundle",
+      "file": "missing/T/170985-tron-run-r-cycle-extender-bundle.json"
+    },
+    {
       "igdb_id": 53853,
       "game_name": "Tron Run/r: Deluxe Edition",
       "file": "missing/T/53853-tron-run-r-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 170984,
+      "game_name": "Tron Run/r: Outlands",
+      "file": "missing/T/170984-tron-run-r-outlands.json"
     },
     {
       "igdb_id": 53852,
@@ -942536,6 +942771,11 @@
       "igdb_id": 81220,
       "game_name": "TT Isle of Man: Ride on the Edge",
       "file": "missing/T/81220-tt-isle-of-man-ride-on-the-edge.json"
+    },
+    {
+      "igdb_id": 170793,
+      "game_name": "TT Isle of Man: Ride on the Edge - Sidecar Thrill",
+      "file": "missing/T/170793-tt-isle-of-man-ride-on-the-edge-sidecar-thrill.json"
     },
     {
       "igdb_id": 228729,
@@ -978838,6 +979078,11 @@
       "file": "missing/W/53910-warlock-ii-great-mage-edition.json"
     },
     {
+      "igdb_id": 170789,
+      "game_name": "Warlock II: The Exiled - Three Mighty Mages",
+      "file": "missing/W/170789-warlock-ii-the-exiled-three-mighty-mages.json"
+    },
+    {
       "igdb_id": 19207,
       "game_name": "Warlock II: The Exiled - Wrath of the Nagas",
       "file": "missing/W/19207-warlock-ii-the-exiled-wrath-of-the-nagas.json"
@@ -1001491,6 +1001736,11 @@
       "igdb_id": 169170,
       "game_name": "Worlds of the Future",
       "file": "missing/W/169170-worlds-of-the-future.json"
+    },
+    {
+      "igdb_id": 170966,
+      "game_name": "Worlds Series Battle Grand Master Endgame",
+      "file": "missing/W/170966-worlds-series-battle-grand-master-endgame.json"
     },
     {
       "igdb_id": 251649,
