@@ -2209,6 +2209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidcutter Fuzor | 347746 | [347746-voidcutter-fuzor.json](./347746-voidcutter-fuzor.json) |
 | VoidExpanse | 17863 | [17863-voidexpanse.json](./17863-voidexpanse.json) |
 | VoidExpanse - Complete Collection | 53870 | [53870-voidexpanse-complete-collection.json](./53870-voidexpanse-complete-collection.json) |
+| VoidExpanse: Pariahs' Bane | 171331 | [171331-voidexpanse-pariahs-bane.json](./171331-voidexpanse-pariahs-bane.json) |
 | Voidface | 332424 | [332424-voidface.json](./332424-voidface.json) |
 | VoidGate | 111447 | [111447-voidgate.json](./111447-voidgate.json) |
 | Voidhunter | 216851 | [216851-voidhunter.json](./216851-voidhunter.json) |
