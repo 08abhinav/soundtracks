@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zak's Son | 94673 | [94673-zaks-son.json](./94673-zaks-son.json) |
 | Zakantosh Cardgame | 263038 | [263038-zakantosh-cardgame.json](./263038-zakantosh-cardgame.json) |
 | Zakato: Maan | 146533 | [146533-zakato-maan.json](./146533-zakato-maan.json) |
+| Zakesta | 171886 | [171886-zakesta.json](./171886-zakesta.json) |
 | Zakesta-Z | 278102 | [278102-zakesta-z.json](./278102-zakesta-z.json) |
 | Zako Slayer | 228073 | [228073-zako-slayer.json](./228073-zako-slayer.json) |
 | Zakon | 212177 | [212177-zakon.json](./212177-zakon.json) |
@@ -872,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Age | 220739 | [220739-zombie-age.json](./220739-zombie-age.json) |
 | Zombie Age 2 | 347872 | [347872-zombie-age-2.json](./347872-zombie-age-2.json) |
 | Zombie Age 3: Dead City | 312905 | [312905-zombie-age-3-dead-city.json](./312905-zombie-age-3-dead-city.json) |
+| Zombie Alert | 172069 | [172069-zombie-alert.json](./172069-zombie-alert.json) |
 | Zombie Anarchy | 57088 | [57088-zombie-anarchy.json](./57088-zombie-anarchy.json) |
 | Zombie Ants VR | 250003 | [250003-zombie-ants-vr.json](./250003-zombie-ants-vr.json) |
 | Zombie Apocalypse | 147819 | [147819-zombie-apocalypse.json](./147819-zombie-apocalypse.json) |
