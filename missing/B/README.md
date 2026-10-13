@@ -1362,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang Bead | 40235 | [40235-bang-bead.json](./40235-bang-bead.json) |
 | Bang Dream! Garupa AR! | 220326 | [220326-bang-dream-garupa-ar.json](./220326-bang-dream-garupa-ar.json) |
 | BanG Dream! Girls Band Party! for Nintendo Switch | 152887 | [152887-bang-dream-girls-band-party-for-nintendo-switch.json](./152887-bang-dream-girls-band-party-for-nintendo-switch.json) |
+| Bang For Your Truck | 133137 | [133137-bang-for-your-truck.json](./133137-bang-for-your-truck.json) |
 | Bang-On Balls: Chronicles - Deluxe Edition | 288284 | [288284-bang-on-balls-chronicles-deluxe-edition.json](./288284-bang-on-balls-chronicles-deluxe-edition.json) |
 | Bang! Bang! Totally Accurate Redneck Simulator | 138808 | [138808-bang-bang-totally-accurate-redneck-simulator.json](./138808-bang-bang-totally-accurate-redneck-simulator.json) |
 | Bangai-O | 3443 | [3443-bangai-o.json](./3443-bangai-o.json) |
@@ -4341,6 +4342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Fiends | 59922 | [59922-best-fiends.json](./59922-best-fiends.json) |
 | Best Fiends Forever | 57363 | [57363-best-fiends-forever.json](./57363-best-fiends-forever.json) |
 | Best Fighter | 283991 | [283991-best-fighter.json](./283991-best-fighter.json) |
+| Best Friend | 133110 | [133110-best-friend.json](./133110-best-friend.json) |
 | Best Friends | 313956 | [313956-best-friends.json](./313956-best-friends.json) |
 | Best Friends Forever | 183442 | [183442-best-friends-forever.json](./183442-best-friends-forever.json) |
 | Best Friends Forever | 227888 | [227888-best-friends-forever.json](./227888-best-friends-forever.json) |
@@ -5573,6 +5575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishi Bashi Special 3: Step Champ | 55867 | [55867-bishi-bashi-special-3-step-champ.json](./55867-bishi-bashi-special-3-step-champ.json) |
 | Bishojo Battlefield | 174646 | [174646-bishojo-battlefield.json](./174646-bishojo-battlefield.json) |
 | Bishojou Mahjong Club | 41339 | [41339-bishojou-mahjong-club.json](./41339-bishojou-mahjong-club.json) |
+| Bishoujo Battle Hanafuda Koi-Koi | 133146 | [133146-bishoujo-battle-hanafuda-koi-koi.json](./133146-bishoujo-battle-hanafuda-koi-koi.json) |
 | Bishoujo Battle: Double Strike! | 195525 | [195525-bishoujo-battle-double-strike.json](./195525-bishoujo-battle-double-strike.json) |
 | Bishoujo Control | 41253 | [41253-bishoujo-control.json](./41253-bishoujo-control.json) |
 | Bishoujo Hanafuda Club Vol.1: Oichokabu-hen | 41280 | [41280-bishoujo-hanafuda-club-vol-1-oichokabu-hen.json](./41280-bishoujo-hanafuda-club-vol-1-oichokabu-hen.json) |
@@ -5948,6 +5951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black My White Again | 334764 | [334764-black-my-white-again.json](./334764-black-my-white-again.json) |
 | Black Myth: Heaven | 339342 | [339342-black-myth-heaven.json](./339342-black-myth-heaven.json) |
 | Black Myth: Zhong Kui | 361900 | [361900-black-myth-zhong-kui.json](./361900-black-myth-zhong-kui.json) |
+| Black Noir | 133147 | [133147-black-noir.json](./133147-black-noir.json) |
 | Black Ocean | 290645 | [290645-black-ocean.json](./290645-black-ocean.json) |
 | Black Omens: House of Crimson Silk | 387539 | [387539-black-omens-house-of-crimson-silk.json](./387539-black-omens-house-of-crimson-silk.json) |
 | Black One Blood Brothers | 150255 | [150255-black-one-blood-brothers.json](./150255-black-one-blood-brothers.json) |
@@ -8437,6 +8441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boo: The World's Cutest Dog Game | 57909 | [57909-boo-the-worlds-cutest-dog-game.json](./57909-boo-the-worlds-cutest-dog-game.json) |
 | Boo! Are you scared? | 329128 | [329128-boo-are-you-scared.json](./329128-boo-are-you-scared.json) |
 | Boo! Are you scared? The Chests Game | 328964 | [328964-boo-are-you-scared-the-chests-game.json](./328964-boo-are-you-scared-the-chests-game.json) |
+| Boo's Balloons | 133106 | [133106-boos-balloons.json](./133106-boos-balloons.json) |
 | Boo's Burgers | 290829 | [290829-boos-burgers.json](./290829-boos-burgers.json) |
 | Boo's There? | 280317 | [280317-boos-there.json](./280317-boos-there.json) |
 | Boo's Treat | 318551 | [318551-boos-treat.json](./318551-boos-treat.json) |
@@ -11783,6 +11788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Business Tour: Great Leaders - Lincoln | 170234 | [170234-business-tour-great-leaders-lincoln.json](./170234-business-tour-great-leaders-lincoln.json) |
 | Business Tour: Great Leaders - Napoleon | 170235 | [170235-business-tour-great-leaders-napoleon.json](./170235-business-tour-great-leaders-napoleon.json) |
 | Business Tycoon | 12409 | [12409-business-tycoon.json](./12409-business-tycoon.json) |
+| Business Wars: The Card Game | 133113 | [133113-business-wars-the-card-game.json](./133113-business-wars-the-card-game.json) |
 | BusinessMan | 52066 | [52066-businessman.json](./52066-businessman.json) |
 | Businessman Simulator | 402891 | [402891-businessman-simulator.json](./402891-businessman-simulator.json) |
 | Businessman Simulator 2 | 402971 | [402971-businessman-simulator-2.json](./402971-businessman-simulator-2.json) |
