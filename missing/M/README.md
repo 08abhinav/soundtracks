@@ -6622,6 +6622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Blossom | 203519 | [203519-metro-blossom.json](./203519-metro-blossom.json) |
 | Metro City: Night Shift | 416890 | [416890-metro-city-night-shift.json](./416890-metro-city-night-shift.json) |
 | Metro Exodus: Aurora Limited Edition | 109587 | [109587-metro-exodus-aurora-limited-edition.json](./109587-metro-exodus-aurora-limited-edition.json) |
+| Metro Exodus: Day One Edition | 136166 | [136166-metro-exodus-day-one-edition.json](./136166-metro-exodus-day-one-edition.json) |
 | Metro Exodus: Enhanced Edition | 143292 | [143292-metro-exodus-enhanced-edition.json](./143292-metro-exodus-enhanced-edition.json) |
 | Metro Exodus: Gold Edition | 95059 | [95059-metro-exodus-gold-edition.json](./95059-metro-exodus-gold-edition.json) |
 | Metro Exodus: Master Artyom Edition | 113629 | [113629-metro-exodus-master-artyom-edition.json](./113629-metro-exodus-master-artyom-edition.json) |
@@ -6694,6 +6695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Ripped Worlds | 288647 | [288647-metroid-ripped-worlds.json](./288647-metroid-ripped-worlds.json) |
 | Metroid: Rogue Dawn | 65036 | [65036-metroid-rogue-dawn.json](./65036-metroid-rogue-dawn.json) |
 | Metroid: Samus Returns | 37140 | [37140-metroid-samus-returns.json](./37140-metroid-samus-returns.json) |
+| Metroid: Samus Returns - Special Edition | 136292 | [136292-metroid-samus-returns-special-edition.json](./136292-metroid-samus-returns-special-edition.json) |
 | Metroid: SR388 | 324000 | [324000-metroid-sr388.json](./324000-metroid-sr388.json) |
 | Metroid: Subzero | 220777 | [220777-metroid-subzero.json](./220777-metroid-subzero.json) |
 | Metroid: Super Zero Mission | 42205 | [42205-metroid-super-zero-mission.json](./42205-metroid-super-zero-mission.json) |
@@ -7414,6 +7416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might & Magic Collection | 53357 | [53357-might-and-magic-collection.json](./53357-might-and-magic-collection.json) |
 | Might & Magic Heroes VI: Complete Edition | 53356 | [53356-might-and-magic-heroes-vi-complete-edition.json](./53356-might-and-magic-heroes-vi-complete-edition.json) |
 | Might & Magic Heroes VII - Trial by Fire | 33474 | [33474-might-and-magic-heroes-vii-trial-by-fire.json](./33474-might-and-magic-heroes-vii-trial-by-fire.json) |
+| Might & Magic Heroes VII: Complete Edition | 136161 | [136161-might-and-magic-heroes-vii-complete-edition.json](./136161-might-and-magic-heroes-vii-complete-edition.json) |
 | Might & Magic Heroes VII: Deluxe Edition | 53355 | [53355-might-and-magic-heroes-vii-deluxe-edition.json](./53355-might-and-magic-heroes-vii-deluxe-edition.json) |
 | Might & Magic Heroes VII: Ultimate Edition | 219753 | [219753-might-and-magic-heroes-vii-ultimate-edition.json](./219753-might-and-magic-heroes-vii-ultimate-edition.json) |
 | Might & Magic: Clash of Heroes | 1889 | [1889-might-and-magic-clash-of-heroes.json](./1889-might-and-magic-clash-of-heroes.json) |
@@ -13411,6 +13414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero Holiday | 184330 | [184330-my-hero-holiday.json](./184330-my-hero-holiday.json) |
 | My Hero Kitty | 299402 | [299402-my-hero-kitty.json](./299402-my-hero-kitty.json) |
 | My Hero One's Justice 2: Cheerleader Costumes Bundle | 259811 | [259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json](./259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json) |
+| My Hero One's Justice 2: Collector's Edition | 136129 | [136129-my-hero-ones-justice-2-collectors-edition.json](./136129-my-hero-ones-justice-2-collectors-edition.json) |
 | My Hero One's Justice 2: Deluxe Edition | 136286 | [136286-my-hero-ones-justice-2-deluxe-edition.json](./136286-my-hero-ones-justice-2-deluxe-edition.json) |
 | My Hero One's Justice 2: DLC Pack 1 - Hawks | 168260 | [168260-my-hero-ones-justice-2-dlc-pack-1-hawks.json](./168260-my-hero-ones-justice-2-dlc-pack-1-hawks.json) |
 | My Hero One's Justice 2: DLC Pack 2 - Mei Hatsume | 168259 | [168259-my-hero-ones-justice-2-dlc-pack-2-mei-hatsume.json](./168259-my-hero-ones-justice-2-dlc-pack-2-mei-hatsume.json) |
@@ -13420,6 +13424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero One's Justice 2: Outlaw Suit Set | 237917 | [237917-my-hero-ones-justice-2-outlaw-suit-set.json](./237917-my-hero-ones-justice-2-outlaw-suit-set.json) |
 | My Hero One's Justice 2: Pack 7 Present Mic | 193195 | [193195-my-hero-ones-justice-2-pack-7-present-mic.json](./193195-my-hero-ones-justice-2-pack-7-present-mic.json) |
 | My Hero One's Justice 2: Pack 8 Kurogiri | 193194 | [193194-my-hero-ones-justice-2-pack-8-kurogiri.json](./193194-my-hero-ones-justice-2-pack-8-kurogiri.json) |
+| My Hero One's Justice 2: Plus Ultra Edition | 136147 | [136147-my-hero-ones-justice-2-plus-ultra-edition.json](./136147-my-hero-ones-justice-2-plus-ultra-edition.json) |
 | My Hero One's Justice 2: Weekend Clothes 1-A Lively Set | 228025 | [228025-my-hero-ones-justice-2-weekend-clothes-1-a-lively-set.json](./228025-my-hero-ones-justice-2-weekend-clothes-1-a-lively-set.json) |
 | My Hero One's Justice: Additional Mission - Gale | 168256 | [168256-my-hero-ones-justice-additional-mission-gale.json](./168256-my-hero-ones-justice-additional-mission-gale.json) |
 | My Hero One's Justice: Mission - Above and Beyond Endeavor | 168253 | [168253-my-hero-ones-justice-mission-above-and-beyond-endeavor.json](./168253-my-hero-ones-justice-mission-above-and-beyond-endeavor.json) |
@@ -13902,6 +13907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Universe: Fashion Boutique | 139215 | [139215-my-universe-fashion-boutique.json](./139215-my-universe-fashion-boutique.json) |
 | My Universe: Green Adventure - Farmer Friends | 198130 | [198130-my-universe-green-adventure-farmer-friends.json](./198130-my-universe-green-adventure-farmer-friends.json) |
 | My Universe: Interior Designer | 169235 | [169235-my-universe-interior-designer.json](./169235-my-universe-interior-designer.json) |
+| My Universe: My Baby | 136145 | [136145-my-universe-my-baby.json](./136145-my-universe-my-baby.json) |
 | My Universe: My Baby - New Edition | 170028 | [170028-my-universe-my-baby-new-edition.json](./170028-my-universe-my-baby-new-edition.json) |
 | My Universe: Pet Clinic - Cats & Dogs | 139835 | [139835-my-universe-pet-clinic-cats-and-dogs.json](./139835-my-universe-pet-clinic-cats-and-dogs.json) |
 | My Universe: Pet Clinic - Cats & Dogs: Panda Edition | 210513 | [210513-my-universe-pet-clinic-cats-and-dogs-panda-edition.json](./210513-my-universe-pet-clinic-cats-and-dogs-panda-edition.json) |
