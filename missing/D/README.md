@@ -3708,6 +3708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Déjà Vu I & II: The Casebooks of Ace Harding | 49895 | [49895-deja-vu-i-and-ii-the-casebooks-of-ace-harding.json](./49895-deja-vu-i-and-ii-the-casebooks-of-ace-harding.json) |
 | Déjà Vu II | 310193 | [310193-deja-vu-ii.json](./310193-deja-vu-ii.json) |
 | Deja Vu II: MacVenture Series | 35914 | [35914-deja-vu-ii-macventure-series.json](./35914-deja-vu-ii-macventure-series.json) |
+| Deja Vu: Collector's Edition | 167905 | [167905-deja-vu-collectors-edition.json](./167905-deja-vu-collectors-edition.json) |
 | Deja Vu: MacVenture Series | 35913 | [35913-deja-vu-macventure-series.json](./35913-deja-vu-macventure-series.json) |
 | Dejar Ir: A Pandemic Soulful Tale | 203803 | [203803-dejar-ir-a-pandemic-soulful-tale.json](./203803-dejar-ir-a-pandemic-soulful-tale.json) |
 | DejaVu | 184406 | [184406-dejavu.json](./184406-dejavu.json) |
@@ -7717,6 +7718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominari | 75099 | [75099-dominari.json](./75099-dominari.json) |
 | Dominate: Board Game | 147971 | [147971-dominate-board-game.json](./147971-dominate-board-game.json) |
 | Dominating the Skies | 162412 | [162412-dominating-the-skies.json](./162412-dominating-the-skies.json) |
+| Domination | 167914 | [167914-domination.json](./167914-domination.json) |
 | Domination Earth | 106010 | [106010-domination-earth.json](./106010-domination-earth.json) |
 | Domination: War of Nations | 232981 | [232981-domination-war-of-nations.json](./232981-domination-war-of-nations.json) |
 | DomiNations | 39257 | [39257-dominations.json](./39257-dominations.json) |
