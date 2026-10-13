@@ -294,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nano Shift VR | 48000 | [48000-nano-shift-vr.json](./48000-nano-shift-vr.json) |
 | Nano Wars | 157018 | [157018-nano-wars.json](./157018-nano-wars.json) |
 | NanoApostle | 279485 | [279485-nanoapostle.json](./279485-nanoapostle.json) |
+| Nanobots | 143456 | [143456-nanobots.json](./143456-nanobots.json) |
 | Nanobots | 281389 | [281389-nanobots.json](./281389-nanobots.json) |
 | Nanobots | 33325 | [33325-nanobots.json](./33325-nanobots.json) |
 | NaNoCollabMo: Autumn Harvest | 281315 | [281315-nanocollabmo-autumn-harvest.json](./281315-nanocollabmo-autumn-harvest.json) |
@@ -2046,6 +2047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverless Academy | 371259 | [371259-neverless-academy.json](./371259-neverless-academy.json) |
 | Nevermind | 290939 | [290939-nevermind.json](./290939-nevermind.json) |
 | Nevermore | 115564 | [115564-nevermore.json](./115564-nevermore.json) |
+| NeverMore | 143460 | [143460-nevermore.json](./143460-nevermore.json) |
 | Nevermore 3 | 328005 | [328005-nevermore-3.json](./328005-nevermore-3.json) |
 | Nevermore VIII-XIII | 119498 | [119498-nevermore-viii-xiii.json](./119498-nevermore-viii-xiii.json) |
 | NeveRossa: Mille e una notte | 316644 | [316644-neverossa-mille-e-una-notte.json](./316644-neverossa-mille-e-una-notte.json) |
@@ -2506,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ngolf: Western Fairways | 288275 | [288275-ngolf-western-fairways.json](./288275-ngolf-western-fairways.json) |
 | NGT: Next Generation Tennis | 49320 | [49320-ngt-next-generation-tennis.json](./49320-ngt-next-generation-tennis.json) |
 | NGU Idle | 124926 | [124926-ngu-idle.json](./124926-ngu-idle.json) |
+| NGU Industries | 143451 | [143451-ngu-industries.json](./143451-ngu-industries.json) |
 | Nhero2 | 225723 | [225723-nhero2.json](./225723-nhero2.json) |
 | NHK Academy: Space School - Math 4th Grade Part 1 | 122110 | [122110-nhk-academy-space-school-math-4th-grade-part-1.json](./122110-nhk-academy-space-school-math-4th-grade-part-1.json) |
 | NHK Academy: Space School - Math 4th Grade Part 2 | 122111 | [122111-nhk-academy-space-school-math-4th-grade-part-2.json](./122111-nhk-academy-space-school-math-4th-grade-part-2.json) |
