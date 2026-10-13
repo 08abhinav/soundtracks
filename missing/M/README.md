@@ -2806,6 +2806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marko | 19774 | [19774-marko.json](./19774-marko.json) |
 | Marko: Beyond Brave | 223167 | [223167-marko-beyond-brave.json](./223167-marko-beyond-brave.json) |
 | Marko's Magic Football | 368608 | [368608-markos-magic-football.json](./368608-markos-magic-football.json) |
+| Marks the Spot | 176762 | [176762-marks-the-spot.json](./176762-marks-the-spot.json) |
 | Marksman Shooting | 245298 | [245298-marksman-shooting.json](./245298-marksman-shooting.json) |
 | Marksman VR | 344503 | [344503-marksman-vr.json](./344503-marksman-vr.json) |
 | MarksmanVR | 28878 | [28878-marksmanvr.json](./28878-marksmanvr.json) |
@@ -6834,6 +6835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Smash | 220184 | [220184-micro-smash.json](./220184-micro-smash.json) |
 | Micro Stream RPG | 291907 | [291907-micro-stream-rpg.json](./291907-micro-stream-rpg.json) |
 | Micro Stunt Machina | 195485 | [195485-micro-stunt-machina.json](./195485-micro-stunt-machina.json) |
+| Micro Trans Actions | 176938 | [176938-micro-trans-actions.json](./176938-micro-trans-actions.json) |
 | Micro Vendor Adventures | 110796 | [110796-micro-vendor-adventures.json](./110796-micro-vendor-adventures.json) |
 | Micro Wars | 314450 | [314450-micro-wars.json](./314450-micro-wars.json) |
 | Micro-Breakout | 320150 | [320150-micro-breakout.json](./320150-micro-breakout.json) |
@@ -8682,6 +8684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misa | 337725 | [337725-misa.json](./337725-misa.json) |
 | Misa! | 88801 | [88801-misa.json](./88801-misa.json) |
 | Misadventure In Little Lon | 125425 | [125425-misadventure-in-little-lon.json](./125425-misadventure-in-little-lon.json) |
+| Misadventures in Piracy | 176755 | [176755-misadventures-in-piracy.json](./176755-misadventures-in-piracy.json) |
 | Misadventures of Laura Silver | 116285 | [116285-misadventures-of-laura-silver.json](./116285-misadventures-of-laura-silver.json) |
 | Misadventures of Laura Silver - Chapter II | 121771 | [121771-misadventures-of-laura-silver-chapter-ii.json](./121771-misadventures-of-laura-silver-chapter-ii.json) |
 | Misaki's Deduction 2: The Sweet Island Murder Case | 404265 | [404265-misakis-deduction-2-the-sweet-island-murder-case.json](./404265-misakis-deduction-2-the-sweet-island-murder-case.json) |
