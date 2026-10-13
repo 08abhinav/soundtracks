@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offroad Jeep Driving | 304329 | [304329-offroad-jeep-driving.json](./304329-offroad-jeep-driving.json) |
 | Offroad Jeep Quest: Mountain Trails | 293363 | [293363-offroad-jeep-quest-mountain-trails.json](./293363-offroad-jeep-quest-mountain-trails.json) |
 | Offroad Mania | 128460 | [128460-offroad-mania.json](./128460-offroad-mania.json) |
+| Offroad Mechanic Simulator | 149870 | [149870-offroad-mechanic-simulator.json](./149870-offroad-mechanic-simulator.json) |
 | Offroad Moto Bike | 232464 | [232464-offroad-moto-bike.json](./232464-offroad-moto-bike.json) |
 | Offroad Night Racing | 193301 | [193301-offroad-night-racing.json](./193301-offroad-night-racing.json) |
 | Offroad Oil Tanker Hill Drivin | 108488 | [108488-offroad-oil-tanker-hill-drivin.json](./108488-offroad-oil-tanker-hill-drivin.json) |
@@ -1073,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega | 336352 | [336352-omega.json](./336352-omega.json) |
 | Omega 13 | 250434 | [250434-omega-13.json](./250434-omega-13.json) |
 | Omega Assault | 94867 | [94867-omega-assault.json](./94867-omega-assault.json) |
+| Omega Blade | 149885 | [149885-omega-blade.json](./149885-omega-blade.json) |
 | Omega Blast | 270632 | [270632-omega-blast.json](./270632-omega-blast.json) |
 | Omega Chase | 41985 | [41985-omega-chase.json](./41985-omega-chase.json) |
 | Omega Chronos | 191667 | [191667-omega-chronos.json](./191667-omega-chronos.json) |
@@ -2367,12 +2369,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operative Assailants | 344329 | [344329-operative-assailants.json](./344329-operative-assailants.json) |
 | Operatives: Revolve | 322678 | [322678-operatives-revolve.json](./322678-operatives-revolve.json) |
 | Operator | 125348 | [125348-operator.json](./125348-operator.json) |
+| Operator | 148332 | [148332-operator.json](./148332-operator.json) |
 | Operator | 220613 | [220613-operator.json](./220613-operator.json) |
 | Operator | 226706 | [226706-operator.json](./226706-operator.json) |
 | Operator | 250827 | [250827-operator.json](./250827-operator.json) |
 | Operator Ace's Simple Infinite Survival | 278734 | [278734-operator-aces-simple-infinite-survival.json](./278734-operator-aces-simple-infinite-survival.json) |
 | Operator Unknown | 374424 | [374424-operator-unknown.json](./374424-operator-unknown.json) |
 | Operator: Drones | 257894 | [257894-operator-drones.json](./257894-operator-drones.json) |
+| Operator: Northridge Park | 148333 | [148333-operator-northridge-park.json](./148333-operator-northridge-park.json) |
 | Operator: Observation | 252020 | [252020-operator-observation.json](./252020-operator-observation.json) |
 | Operencia: The Stolen Sun - Explorer's Edition | 154541 | [154541-operencia-the-stolen-sun-explorers-edition.json](./154541-operencia-the-stolen-sun-explorers-edition.json) |
 | Operius | 182319 | [182319-operius.json](./182319-operius.json) |
@@ -2784,6 +2788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orion Trail | 34971 | [34971-orion-trail.json](./34971-orion-trail.json) |
 | Orion: A Sci-Fi Visual Novel | 34962 | [34962-orion-a-sci-fi-visual-novel.json](./34962-orion-a-sci-fi-visual-novel.json) |
 | Orion: Dino Beatdown - Jurassic Edition | 93631 | [93631-orion-dino-beatdown-jurassic-edition.json](./93631-orion-dino-beatdown-jurassic-edition.json) |
+| Orion: The Eternal Punishment | 149900 | [149900-orion-the-eternal-punishment.json](./149900-orion-the-eternal-punishment.json) |
 | Orion's Belt Expedition | 341516 | [341516-orions-belt-expedition.json](./341516-orions-belt-expedition.json) |
 | Orion's End | 211797 | [211797-orions-end.json](./211797-orions-end.json) |
 | Orions: Legend of Wizards | 23269 | [23269-orions-legend-of-wizards.json](./23269-orions-legend-of-wizards.json) |
