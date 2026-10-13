@@ -10322,6 +10322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brother Wake Up | 149696 | [149696-brother-wake-up.json](./149696-brother-wake-up.json) |
 | Brother Wings | 29912 | [29912-brother-wings.json](./29912-brother-wings.json) |
 | Brother, Get the Oats | 372832 | [372832-brother-get-the-oats.json](./372832-brother-get-the-oats.json) |
+| Brother!!! Save him! | 168927 | [168927-brother-save-him.json](./168927-brother-save-him.json) |
 | Brotherhood | 275114 | [275114-brotherhood.json](./275114-brotherhood.json) |
 | Brotherhood of Pain | 388937 | [388937-brotherhood-of-pain.json](./388937-brotherhood-of-pain.json) |
 | Brotherhood of Ruin 2024: Element Temple Research Complex | 311464 | [311464-brotherhood-of-ruin-2024-element-temple-research-complex.json](./311464-brotherhood-of-ruin-2024-element-temple-research-complex.json) |
