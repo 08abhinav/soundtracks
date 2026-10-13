@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker Evolution Duality: Hardcore Package Part 1 | 169309 | [169309-hacker-evolution-duality-hardcore-package-part-1.json](./169309-hacker-evolution-duality-hardcore-package-part-1.json) |
 | Hacker Evolution Duality: Inception Part 1 | 171375 | [171375-hacker-evolution-duality-inception-part-1.json](./171375-hacker-evolution-duality-inception-part-1.json) |
 | Hacker Evolution Duality: Inception Part 2 | 171633 | [171633-hacker-evolution-duality-inception-part-2.json](./171633-hacker-evolution-duality-inception-part-2.json) |
+| Hacker Evolution Duality: Inception Part 3 | 171506 | [171506-hacker-evolution-duality-inception-part-3.json](./171506-hacker-evolution-duality-inception-part-3.json) |
 | Hacker Evolution: Untold | 1024 | [1024-hacker-evolution-untold.json](./1024-hacker-evolution-untold.json) |
 | Hacker II: The Doomsday Papers | 12133 | [12133-hacker-ii-the-doomsday-papers.json](./12133-hacker-ii-the-doomsday-papers.json) |
 | Hacker Series | 31115 | [31115-hacker-series.json](./31115-hacker-series.json) |
@@ -1567,6 +1568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatchpunk | 143729 | [143729-hatchpunk.json](./143729-hatchpunk.json) |
 | Hatchwell | 182284 | [182284-hatchwell.json](./182284-hatchwell.json) |
 | Hate Free Heroes RPG | 31682 | [31682-hate-free-heroes-rpg.json](./31682-hate-free-heroes-rpg.json) |
+| Hate Free Heroes: Agents of Aggro City | 171510 | [171510-hate-free-heroes-agents-of-aggro-city.json](./171510-hate-free-heroes-agents-of-aggro-city.json) |
 | Hate Plus | 16542 | [16542-hate-plus.json](./16542-hate-plus.json) |
 | Hateful Days | 292424 | [292424-hateful-days.json](./292424-hateful-days.json) |
 | Haters, kill them all! | 86540 | [86540-haters-kill-them-all.json](./86540-haters-kill-them-all.json) |
@@ -8123,6 +8125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdimension Neptunia Re;Birth2: Sisters Generation | 9868 | [9868-hyperdimension-neptunia-re-birth2-sisters-generation.json](./9868-hyperdimension-neptunia-re-birth2-sisters-generation.json) |
 | Hyperdimension Neptunia Re;Birth2: Sisters Generation - DLC Pack | 154607 | [154607-hyperdimension-neptunia-re-birth2-sisters-generation-dlc-pack.json](./154607-hyperdimension-neptunia-re-birth2-sisters-generation-dlc-pack.json) |
 | Hyperdimension Neptunia Re;Birth2: Sisters Generation - DLC Pack 2 | 154606 | [154606-hyperdimension-neptunia-re-birth2-sisters-generation-dlc-pack-2.json](./154606-hyperdimension-neptunia-re-birth2-sisters-generation-dlc-pack-2.json) |
+| Hyperdimension Neptunia Re;Birth2: Sisters Generation - Lily-ad Dungeon | 171514 | [171514-hyperdimension-neptunia-re-birth2-sisters-generation-lily-ad-dungeon.json](./171514-hyperdimension-neptunia-re-birth2-sisters-generation-lily-ad-dungeon.json) |
 | Hyperdimension Neptunia Re;Birth2: Sisters Generation - Limited Edition | 388189 | [388189-hyperdimension-neptunia-re-birth2-sisters-generation-limited-edition.json](./388189-hyperdimension-neptunia-re-birth2-sisters-generation-limited-edition.json) |
 | Hyperdimension Neptunia Re;Birth2: Sisters Generation - Limited Edition | 394770 | [394770-hyperdimension-neptunia-re-birth2-sisters-generation-limited-edition.json](./394770-hyperdimension-neptunia-re-birth2-sisters-generation-limited-edition.json) |
 | Hyperdimension Neptunia Re;Birth3: V Generation | 9869 | [9869-hyperdimension-neptunia-re-birth3-v-generation.json](./9869-hyperdimension-neptunia-re-birth3-v-generation.json) |
