@@ -3465,6 +3465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deepsea Salvor | 128375 | [128375-deepsea-salvor.json](./128375-deepsea-salvor.json) |
 | DeepSea Serenity: VR Underwater Trip | 288786 | [288786-deepsea-serenity-vr-underwater-trip.json](./288786-deepsea-serenity-vr-underwater-trip.json) |
 | Deepspace Emporium | 332569 | [332569-deepspace-emporium.json](./332569-deepspace-emporium.json) |
+| DeepStates VR | 154272 | [154272-deepstates-vr.json](./154272-deepstates-vr.json) |
 | Deepstone Rift | 372644 | [372644-deepstone-rift.json](./372644-deepstone-rift.json) |
 | DeepStorm Online | 197121 | [197121-deepstorm-online.json](./197121-deepstorm-online.json) |
 | DeepTrouble | 57629 | [57629-deeptrouble.json](./57629-deeptrouble.json) |
@@ -7172,6 +7173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DNA: Season 2 - Episode 4 | 311104 | [311104-dna-season-2-episode-4.json](./311104-dna-season-2-episode-4.json) |
 | DnB Starfighter | 356735 | [356735-dnb-starfighter.json](./356735-dnb-starfighter.json) |
 | DND | 2888 | [2888-dnd.json](./2888-dnd.json) |
+| DnD Adventure: Wizard's Choice | 154281 | [154281-dnd-adventure-wizards-choice.json](./154281-dnd-adventure-wizards-choice.json) |
 | DnD Dice | 105951 | [105951-dnd-dice.json](./105951-dnd-dice.json) |
 | DNetHack | 351129 | [351129-dnethack.json](./351129-dnethack.json) |
 | DNF Duel | 142063 | [142063-dnf-duel.json](./142063-dnf-duel.json) |
@@ -7329,6 +7331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor's Orders | 299532 | [299532-doctors-orders.json](./299532-doctors-orders.json) |
 | Doctrine: C.U.L.T. | 391702 | [391702-doctrine-c-u-l-t.json](./391702-doctrine-c-u-l-t.json) |
 | Dodd Goes To The Museum | 327370 | [327370-dodd-goes-to-the-museum.json](./327370-dodd-goes-to-the-museum.json) |
+| Dodge | 154270 | [154270-dodge.json](./154270-dodge.json) |
 | Dodge | 177542 | [177542-dodge.json](./177542-dodge.json) |
 | Dodge | 211375 | [211375-dodge.json](./211375-dodge.json) |
 | Dodge | 291575 | [291575-dodge.json](./291575-dodge.json) |
@@ -11880,6 +11883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DungeonCrawlers | 363008 | [363008-dungeoncrawlers.json](./363008-dungeoncrawlers.json) |
 | Dungeoneer | 76957 | [76957-dungeoneer.json](./76957-dungeoneer.json) |
 | Dungeoneering | 184432 | [184432-dungeoneering.json](./184432-dungeoneering.json) |
+| Dungeoneers | 154263 | [154263-dungeoneers.json](./154263-dungeoneers.json) |
 | Dungeonette for Apple Watch | 197751 | [197751-dungeonette-for-apple-watch.json](./197751-dungeonette-for-apple-watch.json) |
 | Dungeonfall | 380753 | [380753-dungeonfall.json](./380753-dungeonfall.json) |
 | Dungeonfell | 325618 | [325618-dungeonfell.json](./325618-dungeonfell.json) |
@@ -12232,6 +12236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarven Village: Dark Siege Td | 348847 | [348847-dwarven-village-dark-siege-td.json](./348847-dwarven-village-dark-siege-td.json) |
 | Dwarven: Mining Dungeons | 193435 | [193435-dwarven-mining-dungeons.json](./193435-dwarven-mining-dungeons.json) |
 | Dwarves Craft: Father's Home | 147372 | [147372-dwarves-craft-fathers-home.json](./147372-dwarves-craft-fathers-home.json) |
+| Dwarves Craft: Mountain Brothers | 154286 | [154286-dwarves-craft-mountain-brothers.json](./154286-dwarves-craft-mountain-brothers.json) |
 | Dwarves Mining Idle | 245824 | [245824-dwarves-mining-idle.json](./245824-dwarves-mining-idle.json) |
 | Dwarves: Build and survive | 166189 | [166189-dwarves-build-and-survive.json](./166189-dwarves-build-and-survive.json) |
 | Dwarves: Glory, Death and Loot | 226680 | [226680-dwarves-glory-death-and-loot.json](./226680-dwarves-glory-death-and-loot.json) |
