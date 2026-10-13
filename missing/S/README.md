@@ -8206,6 +8206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Rusher | 97263 | [97263-sky-rusher.json](./97263-sky-rusher.json) |
 | Sky Scaffold | 392131 | [392131-sky-scaffold.json](./392131-sky-scaffold.json) |
 | Sky Seeker | 159840 | [159840-sky-seeker.json](./159840-sky-seeker.json) |
+| Sky Septima | 146659 | [146659-sky-septima.json](./146659-sky-septima.json) |
 | Sky Settlers | 258422 | [258422-sky-settlers.json](./258422-sky-settlers.json) |
 | Sky Shark | 331282 | [331282-sky-shark.json](./331282-sky-shark.json) |
 | Sky Shepherd | 117103 | [117103-sky-shepherd.json](./117103-sky-shepherd.json) |
@@ -8550,6 +8551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slayer Legend | 226766 | [226766-slayer-legend.json](./226766-slayer-legend.json) |
 | Slayer Shock | 24646 | [24646-slayer-shock.json](./24646-slayer-shock.json) |
 | Slayer: The Demon Haunted World | 212150 | [212150-slayer-the-demon-haunted-world.json](./212150-slayer-the-demon-haunted-world.json) |
+| Slayers | 146653 | [146653-slayers.json](./146653-slayers.json) |
 | Slayers Royal 2 | 72660 | [72660-slayers-royal-2.json](./72660-slayers-royal-2.json) |
 | Slayers, Inc. | 155364 | [155364-slayers-inc.json](./155364-slayers-inc.json) |
 | Slaygon | 55148 | [55148-slaygon.json](./55148-slaygon.json) |
