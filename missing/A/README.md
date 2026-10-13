@@ -3563,6 +3563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akai Ito & Aoi Shiro HD Remaster | 227974 | [227974-akai-ito-and-aoi-shiro-hd-remaster.json](./227974-akai-ito-and-aoi-shiro-hd-remaster.json) |
 | Akai Ito DS | 206021 | [206021-akai-ito-ds.json](./206021-akai-ito-ds.json) |
 | Akai Ito: HD Remaster | 246870 | [246870-akai-ito-hd-remaster.json](./246870-akai-ito-hd-remaster.json) |
+| Akai Kaidan | 147198 | [147198-akai-kaidan.json](./147198-akai-kaidan.json) |
 | Akai Katana Shin | 78617 | [78617-akai-katana-shin.json](./78617-akai-katana-shin.json) |
 | Akai Majo | 330910 | [330910-akai-majo.json](./330910-akai-majo.json) |
 | Akai Onna | 277961 | [277961-akai-onna.json](./277961-akai-onna.json) |
@@ -4257,6 +4258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Phobia | 18481 | [18481-alien-phobia.json](./18481-alien-phobia.json) |
 | Alien Planet | 308337 | [308337-alien-planet.json](./308337-alien-planet.json) |
 | Alien Planet Bell | 302130 | [302130-alien-planet-bell.json](./302130-alien-planet-bell.json) |
+| Alien Planet Explorer | 147191 | [147191-alien-planet-explorer.json](./147191-alien-planet-explorer.json) |
 | Alien Planet X64-2 | 270703 | [270703-alien-planet-x64-2.json](./270703-alien-planet-x64-2.json) |
 | Alien Poker | 270621 | [270621-alien-poker.json](./270621-alien-poker.json) |
 | Alien Prop Hunt | 190221 | [190221-alien-prop-hunt.json](./190221-alien-prop-hunt.json) |
@@ -10228,6 +10230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrolight | 182144 | [182144-astrolight.json](./182144-astrolight.json) |
 | Astroloco: Worst Contact | 9987 | [9987-astroloco-worst-contact.json](./9987-astroloco-worst-contact.json) |
 | Astrologer | 130963 | [130963-astrologer.json](./130963-astrologer.json) |
+| Astrology | 147196 | [147196-astrology.json](./147196-astrology.json) |
 | Astrology DS: The Stars in Your Hands | 315632 | [315632-astrology-ds-the-stars-in-your-hands.json](./315632-astrology-ds-the-stars-in-your-hands.json) |
 | Astroloot | 333768 | [333768-astroloot.json](./333768-astroloot.json) |
 | Astroman | 91944 | [91944-astroman.json](./91944-astroman.json) |
