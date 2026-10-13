@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacific Gunner | 92470 | [92470-pacific-gunner.json](./92470-pacific-gunner.json) |
 | Pacific Minesweeper | 289242 | [289242-pacific-minesweeper.json](./289242-pacific-minesweeper.json) |
 | Pacific Strike | 14562 | [14562-pacific-strike.json](./14562-pacific-strike.json) |
+| Pacific Strike Speech Pack | 137375 | [137375-pacific-strike-speech-pack.json](./137375-pacific-strike-speech-pack.json) |
 | Pacific Theatre | 208985 | [208985-pacific-theatre.json](./208985-pacific-theatre.json) |
 | Pacific War | 69923 | [69923-pacific-war.json](./69923-pacific-war.json) |
 | Pacific Warriors II: Dogfight! | 43448 | [43448-pacific-warriors-ii-dogfight.json](./43448-pacific-warriors-ii-dogfight.json) |
@@ -1483,6 +1484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasocial Climbing | 371745 | [371745-parasocial-climbing.json](./371745-parasocial-climbing.json) |
 | Parasocial! Paranoia! Paradise! | 326570 | [326570-parasocial-paranoia-paradise.json](./326570-parasocial-paranoia-paradise.json) |
 | Parasol Fall | 231632 | [231632-parasol-fall.json](./231632-parasol-fall.json) |
+| Parasol Henbee: Niji no Daibouken | 137369 | [137369-parasol-henbee-niji-no-daibouken.json](./137369-parasol-henbee-niji-no-daibouken.json) |
 | Parasol Stars: Rainbow Islands 2 | 39027 | [39027-parasol-stars-rainbow-islands-2.json](./39027-parasol-stars-rainbow-islands-2.json) |
 | Parasol Stars: Rainbow Islands II | 316080 | [316080-parasol-stars-rainbow-islands-ii.json](./316080-parasol-stars-rainbow-islands-ii.json) |
 | Parasol Stars: Rainbow Islands II | 48278 | [48278-parasol-stars-rainbow-islands-ii.json](./48278-parasol-stars-rainbow-islands-ii.json) |
