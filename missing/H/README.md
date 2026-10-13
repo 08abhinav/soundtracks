@@ -4806,6 +4806,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hideout: Face your fears | 159278 | [159278-hideout-face-your-fears.json](./159278-hideout-face-your-fears.json) |
 | Hiding Out | 84518 | [84518-hiding-out.json](./84518-hiding-out.json) |
 | Hidiom | 158933 | [158933-hidiom.json](./158933-hidiom.json) |
+| Hierofanía | 147199 | [147199-hierofania.json](./147199-hierofania.json) |
+| Hierofanía 2 | 147212 | [147212-hierofania-2.json](./147212-hierofania-2.json) |
 | Hieroglyph | 218003 | [218003-hieroglyph.json](./218003-hieroglyph.json) |
 | Hieroglyph Quest: The Amarna Enigma | 277770 | [277770-hieroglyph-quest-the-amarna-enigma.json](./277770-hieroglyph-quest-the-amarna-enigma.json) |
 | Hieroglyphika | 21907 | [21907-hieroglyphika.json](./21907-hieroglyphika.json) |
@@ -5690,6 +5692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday with Gwen | 213485 | [213485-holiday-with-gwen.json](./213485-holiday-with-gwen.json) |
 | Holiday World | 93126 | [93126-holiday-world.json](./93126-holiday-world.json) |
 | Holidays | 167567 | [167567-holidays.json](./167567-holidays.json) |
+| Höll Space 5D6 | 147197 | [147197-holl-space-5d6.json](./147197-holl-space-5d6.json) |
 | Hollenburg: Hell Castle | 256259 | [256259-hollenburg-hell-castle.json](./256259-hollenburg-hell-castle.json) |
 | Höllische Nachbarn | 92979 | [92979-hollische-nachbarn.json](./92979-hollische-nachbarn.json) |
 | Hollow | 182886 | [182886-hollow.json](./182886-hollow.json) |
