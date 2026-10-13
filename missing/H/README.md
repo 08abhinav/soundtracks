@@ -7568,6 +7568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Save Plan | 234577 | [234577-human-save-plan.json](./234577-human-save-plan.json) |
 | Human Spiderweb | 374230 | [374230-human-spiderweb.json](./374230-human-spiderweb.json) |
 | Human Upgrade Labs | 298114 | [298114-human-upgrade-labs.json](./298114-human-upgrade-labs.json) |
+| Human Vs Evil | 148316 | [148316-human-vs-evil.json](./148316-human-vs-evil.json) |
 | Human vs Food | 190435 | [190435-human-vs-food.json](./190435-human-vs-food.json) |
 | Human vs Monster | 150693 | [150693-human-vs-monster.json](./150693-human-vs-monster.json) |
 | Human Wall Simulator | 260414 | [260414-human-wall-simulator.json](./260414-human-wall-simulator.json) |
