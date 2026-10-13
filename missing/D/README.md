@@ -1022,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Grid | 373014 | [373014-dark-grid.json](./373014-dark-grid.json) |
 | Dark Guardians | 38881 | [38881-dark-guardians.json](./38881-dark-guardians.json) |
 | Dark Half | 42562 | [42562-dark-half.json](./42562-dark-half.json) |
+| Dark Harvest | 166821 | [166821-dark-harvest.json](./166821-dark-harvest.json) |
 | Dark Harvest: Ascension | 224577 | [224577-dark-harvest-ascension.json](./224577-dark-harvest-ascension.json) |
 | Dark Haunting | 192225 | [192225-dark-haunting.json](./192225-dark-haunting.json) |
 | Dark Heart Mansion | 156994 | [156994-dark-heart-mansion.json](./156994-dark-heart-mansion.json) |
@@ -3947,6 +3948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demeo Battles | 251555 | [251555-demeo-battles.json](./251555-demeo-battles.json) |
 | Demeo x Dungeons & Dragons: Battlemarked | 346959 | [346959-demeo-x-dungeons-and-dragons-battlemarked.json](./346959-demeo-x-dungeons-and-dragons-battlemarked.json) |
 | Demeo: PC Edition | 194737 | [194737-demeo-pc-edition.json](./194737-demeo-pc-edition.json) |
+| Demetria Spirit | 166843 | [166843-demetria-spirit.json](./166843-demetria-spirit.json) |
 | Demetrios: The Big Cynical Adventure | 23425 | [23425-demetrios-the-big-cynical-adventure.json](./23425-demetrios-the-big-cynical-adventure.json) |
 | Demetrios: The Big Cynical Adventure - Replastered | 194005 | [194005-demetrios-the-big-cynical-adventure-replastered.json](./194005-demetrios-the-big-cynical-adventure-replastered.json) |
 | Demetrios: The Big Cynical Adventure & Xenon Valkyrie+ | 145053 | [145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json](./145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json) |
@@ -8428,6 +8430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomed Urbex | 283731 | [283731-doomed-urbex.json](./283731-doomed-urbex.json) |
 | Doomer | 189104 | [189104-doomer.json](./189104-doomer.json) |
 | Doomer Simulator | 164945 | [164945-doomer-simulator.json](./164945-doomer-simulator.json) |
+| Doomer's Adventure | 166844 | [166844-doomers-adventure.json](./166844-doomers-adventure.json) |
 | DoomGals | 202836 | [202836-doomgals.json](./202836-doomgals.json) |
 | Doomies | 253972 | [253972-doomies.json](./253972-doomies.json) |
 | Doomium | 307817 | [307817-doomium.json](./307817-doomium.json) |
@@ -8633,6 +8636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorky Fork | 130209 | [130209-dorky-fork.json](./130209-dorky-fork.json) |
 | Dorman's Attraction: Upgraded & Advanced | 396897 | [396897-dormans-attraction-upgraded-and-advanced.json](./396897-dormans-attraction-upgraded-and-advanced.json) |
 | Dormant | 313496 | [313496-dormant.json](./313496-dormant.json) |
+| Dormant: Episode Galatea #1 | 166807 | [166807-dormant-episode-galatea-1.json](./166807-dormant-episode-galatea-1.json) |
 | Dormitabis | 230514 | [230514-dormitabis.json](./230514-dormitabis.json) |
 | Dormitory Hentai Clicker | 243575 | [243575-dormitory-hentai-clicker.json](./243575-dormitory-hentai-clicker.json) |
 | Doronko Wanko | 290647 | [290647-doronko-wanko.json](./290647-doronko-wanko.json) |
@@ -8647,6 +8651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorothy's Job | 368016 | [368016-dorothys-job.json](./368016-dorothys-job.json) |
 | Dorothy's Magical Journey in Oz | 410213 | [410213-dorothys-magical-journey-in-oz.json](./410213-dorothys-magical-journey-in-oz.json) |
 | Dorpie | 360015 | [360015-dorpie.json](./360015-dorpie.json) |
+| Dört Model Müzesi | 166804 | [166804-dort-model-muzesi.json](./166804-dort-model-muzesi.json) |
 | Dose Response | 217458 | [217458-dose-response.json](./217458-dose-response.json) |
 | Doshin the Giant 1 | 159279 | [159279-doshin-the-giant-1.json](./159279-doshin-the-giant-1.json) |
 | Dosi | 221158 | [221158-dosi.json](./221158-dosi.json) |
