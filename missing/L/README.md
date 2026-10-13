@@ -3380,6 +3380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal Death | 340921 | [340921-liminal-death.json](./340921-liminal-death.json) |
 | Liminal Doom | 252724 | [252724-liminal-doom.json](./252724-liminal-doom.json) |
 | Liminal Doom 2 | 301972 | [301972-liminal-doom-2.json](./301972-liminal-doom-2.json) |
+| Liminal Exploration | 177807 | [177807-liminal-exploration.json](./177807-liminal-exploration.json) |
 | Liminal Gallery | 274214 | [274214-liminal-gallery.json](./274214-liminal-gallery.json) |
 | Liminal Game | 341082 | [341082-liminal-game.json](./341082-liminal-game.json) |
 | Liminal Lands | 249898 | [249898-liminal-lands.json](./249898-liminal-lands.json) |
