@@ -1343,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors of Releyne | 12820 | [12820-warriors-of-releyne.json](./12820-warriors-of-releyne.json) |
 | Warriors of Thalyrion | 310749 | [310749-warriors-of-thalyrion.json](./310749-warriors-of-thalyrion.json) |
 | Warriors of the Lost Empire | 42839 | [42839-warriors-of-the-lost-empire.json](./42839-warriors-of-the-lost-empire.json) |
+| Warriors of the Nile | 139079 | [139079-warriors-of-the-nile.json](./139079-warriors-of-the-nile.json) |
 | Warriors of the Nile Series Bundle | 230802 | [230802-warriors-of-the-nile-series-bundle.json](./230802-warriors-of-the-nile-series-bundle.json) |
 | Warriors of the Sword | 402525 | [402525-warriors-of-the-sword.json](./402525-warriors-of-the-sword.json) |
 | Warriors of Titus | 93749 | [93749-warriors-of-titus.json](./93749-warriors-of-titus.json) |
