@@ -516,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tale Mysteries 2: The Beanstalk | 34440 | [34440-fairy-tale-mysteries-2-the-beanstalk.json](./34440-fairy-tale-mysteries-2-the-beanstalk.json) |
 | Fairy Tale Puzzles: Magic Objects | 111460 | [111460-fairy-tale-puzzles-magic-objects.json](./111460-fairy-tale-puzzles-magic-objects.json) |
 | Fairy Tale Puzzles: Magic Objects - Alice in Wonderland: The Tea Party | 238056 | [238056-fairy-tale-puzzles-magic-objects-alice-in-wonderland-the-tea-party.json](./238056-fairy-tale-puzzles-magic-objects-alice-in-wonderland-the-tea-party.json) |
+| Fairy Tale Quest | 146618 | [146618-fairy-tale-quest.json](./146618-fairy-tale-quest.json) |
 | Fairy Tale TD 2 | 348885 | [348885-fairy-tale-td-2.json](./348885-fairy-tale-td-2.json) |
 | Fairy Tale Tower Defense | 357835 | [357835-fairy-tale-tower-defense.json](./357835-fairy-tale-tower-defense.json) |
 | Fairy Tales 4 Kids Interactive | 293340 | [293340-fairy-tales-4-kids-interactive.json](./293340-fairy-tales-4-kids-interactive.json) |
@@ -2745,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiction Fixers: Curse of OZ | 277236 | [277236-fiction-fixers-curse-of-oz.json](./277236-fiction-fixers-curse-of-oz.json) |
 | Fiction Fixers: The Curse of Oz & Adventures in Wonderland | 209421 | [209421-fiction-fixers-the-curse-of-oz-and-adventures-in-wonderland.json](./209421-fiction-fixers-the-curse-of-oz-and-adventures-in-wonderland.json) |
 | Fiction.Colors | 341152 | [341152-fiction-colors.json](./341152-fiction-colors.json) |
+| Fida Puti Samurai | 146648 | [146648-fida-puti-samurai.json](./146648-fida-puti-samurai.json) |
 | Fidchell | 139338 | [139338-fidchell.json](./139338-fidchell.json) |
 | Fiddle | 80534 | [80534-fiddle.json](./80534-fiddle.json) |
 | Fiddlebert's Folly | 313476 | [313476-fiddleberts-folly.json](./313476-fiddleberts-folly.json) |
@@ -3258,6 +3260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Anthology | 146214 | [146214-final-fantasy-anthology.json](./146214-final-fantasy-anthology.json) |
 | Final Fantasy Anthology | 423 | [423-final-fantasy-anthology.json](./423-final-fantasy-anthology.json) |
 | Final Fantasy Anthology Collector's Package | 89874 | [89874-final-fantasy-anthology-collectors-package.json](./89874-final-fantasy-anthology-collectors-package.json) |
+| Final Fantasy Awakening | 146617 | [146617-final-fantasy-awakening.json](./146617-final-fantasy-awakening.json) |
 | Final Fantasy Blackmoon Prophecy Remake | 398468 | [398468-final-fantasy-blackmoon-prophecy-remake.json](./398468-final-fantasy-blackmoon-prophecy-remake.json) |
 | Final Fantasy Brave Exvius Chocobo Run! | 123476 | [123476-final-fantasy-brave-exvius-chocobo-run.json](./123476-final-fantasy-brave-exvius-chocobo-run.json) |
 | Final Fantasy Collection | 41855 | [41855-final-fantasy-collection.json](./41855-final-fantasy-collection.json) |
@@ -4538,6 +4541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Lethal Demons | 315201 | [315201-five-lethal-demons.json](./315201-five-lethal-demons.json) |
 | Five Letter Words | 104115 | [104115-five-letter-words.json](./104115-five-letter-words.json) |
 | Five Mysterious Murders | 374759 | [374759-five-mysterious-murders.json](./374759-five-mysterious-murders.json) |
+| Five Nations | 146675 | [146675-five-nations.json](./146675-five-nations.json) |
 | Five Nations: Renegades | 259059 | [259059-five-nations-renegades.json](./259059-five-nations-renegades.json) |
 | Five New-Fangled Nights | 382958 | [382958-five-new-fangled-nights.json](./382958-five-new-fangled-nights.json) |
 | Five Nighs at Fairy's | 405066 | [405066-five-nighs-at-fairys.json](./405066-five-nighs-at-fairys.json) |
