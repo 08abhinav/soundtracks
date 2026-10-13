@@ -1523,6 +1523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch | 117604 | [117604-watch.json](./117604-watch.json) |
 | Watch | 271912 | [271912-watch.json](./271912-watch.json) |
 | Watch | 310212 | [310212-watch.json](./310212-watch.json) |
+| Watch Dogs 1 + Watch Dogs 2 Gold Editions Bundle | 164573 | [164573-watch-dogs-1-watch-dogs-2-gold-editions-bundle.json](./164573-watch-dogs-1-watch-dogs-2-gold-editions-bundle.json) |
 | Watch Dogs 2: Mega Pack | 226879 | [226879-watch-dogs-2-mega-pack.json](./226879-watch-dogs-2-mega-pack.json) |
 | Watch Dogs 2: No Compromise | 28377 | [28377-watch-dogs-2-no-compromise.json](./28377-watch-dogs-2-no-compromise.json) |
 | Watch Dogs 2: Private Eye Pack | 399907 | [399907-watch-dogs-2-private-eye-pack.json](./399907-watch-dogs-2-private-eye-pack.json) |
@@ -5114,6 +5115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordsum Blitz | 135067 | [135067-wordsum-blitz.json](./135067-wordsum-blitz.json) |
 | WordsUp! Academy | 84961 | [84961-wordsup-academy.json](./84961-wordsup-academy.json) |
 | Wordsweeper by Powgi | 121643 | [121643-wordsweeper-by-powgi.json](./121643-wordsweeper-by-powgi.json) |
+| WordTactics | 164605 | [164605-wordtactics.json](./164605-wordtactics.json) |
 | WordTrip: Word Swipe Puzzles | 98795 | [98795-wordtrip-word-swipe-puzzles.json](./98795-wordtrip-word-swipe-puzzles.json) |
 | Wordventures: The Vampire Pirate | 411516 | [411516-wordventures-the-vampire-pirate.json](./411516-wordventures-the-vampire-pirate.json) |
 | WordWarrior | 243168 | [243168-wordwarrior.json](./243168-wordwarrior.json) |
