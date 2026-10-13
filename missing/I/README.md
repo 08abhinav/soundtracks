@@ -541,6 +541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Only Sleeping | 71001 | [71001-im-only-sleeping.json](./71001-im-only-sleeping.json) |
 | I'm Pregnant at 16 | 336639 | [336639-im-pregnant-at-16.json](./336639-im-pregnant-at-16.json) |
 | I'm Prop | 205925 | [205925-im-prop.json](./205925-im-prop.json) |
+| I'm Scared of Girls | 139697 | [139697-im-scared-of-girls.json](./139697-im-scared-of-girls.json) |
 | I'm Scared of My Girlfriend | 247580 | [247580-im-scared-of-my-girlfriend.json](./247580-im-scared-of-my-girlfriend.json) |
 | I'm Still Here | 367039 | [367039-im-still-here.json](./367039-im-still-here.json) |
 | I'm Strongest Legend | 154426 | [154426-im-strongest-legend.json](./154426-im-strongest-legend.json) |
@@ -2331,6 +2332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inexplicable Geeks: Dawn of Just Us | 96279 | [96279-inexplicable-geeks-dawn-of-just-us.json](./96279-inexplicable-geeks-dawn-of-just-us.json) |
 | Inexplicable Geeks: RestoreTheMillerCut | 253924 | [253924-inexplicable-geeks-restorethemillercut.json](./253924-inexplicable-geeks-restorethemillercut.json) |
 | Infamous 18 | 378396 | [378396-infamous-18.json](./378396-infamous-18.json) |
+| Infamous 2: Hero Edition | 139698 | [139698-infamous-2-hero-edition.json](./139698-infamous-2-hero-edition.json) |
 | Infamous Keepers | 398591 | [398591-infamous-keepers.json](./398591-infamous-keepers.json) |
 | Infamous Second Son - Special Edition | 89873 | [89873-infamous-second-son-special-edition.json](./89873-infamous-second-son-special-edition.json) |
 | Infamous: Festival of Blood | 7850 | [7850-infamous-festival-of-blood.json](./7850-infamous-festival-of-blood.json) |
