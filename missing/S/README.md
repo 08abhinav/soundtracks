@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Hime 4 | 286539 | [286539-sakura-hime-4.json](./286539-sakura-hime-4.json) |
 | Sakura Isekai Adventure 2 | 301886 | [301886-sakura-isekai-adventure-2.json](./301886-sakura-isekai-adventure-2.json) |
 | Sakura Kanji Ketchi | 396503 | [396503-sakura-kanji-ketchi.json](./396503-sakura-kanji-ketchi.json) |
+| Sakura Knight | 137889 | [137889-sakura-knight.json](./137889-sakura-knight.json) |
 | Sakura Knight 2 | 137622 | [137622-sakura-knight-2.json](./137622-sakura-knight-2.json) |
 | Sakura Knight 3 | 171945 | [171945-sakura-knight-3.json](./171945-sakura-knight-3.json) |
 | Sakura Machizaka Stories Vol. 1 | 77946 | [77946-sakura-machizaka-stories-vol-1.json](./77946-sakura-machizaka-stories-vol-1.json) |
@@ -731,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salus Per Aquam | 412492 | [412492-salus-per-aquam.json](./412492-salus-per-aquam.json) |
 | Salvador | 241645 | [241645-salvador.json](./241645-salvador.json) |
 | Salvador Dali painting match | 103529 | [103529-salvador-dali-painting-match.json](./103529-salvador-dali-painting-match.json) |
+| Salvage | 137927 | [137927-salvage.json](./137927-salvage.json) |
 | Salvage | 181242 | [181242-salvage.json](./181242-salvage.json) |
 | Salvage Crew | 206634 | [206634-salvage-crew.json](./206634-salvage-crew.json) |
 | Salvage Shop Simulator | 355103 | [355103-salvage-shop-simulator.json](./355103-salvage-shop-simulator.json) |
@@ -9947,6 +9949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snood Plus | 88587 | [88587-snood-plus.json](./88587-snood-plus.json) |
 | Snood Poppers | 137656 | [137656-snood-poppers.json](./137656-snood-poppers.json) |
 | Snood Slide | 138016 | [138016-snood-slide.json](./138016-snood-slide.json) |
+| Snood Solitaire | 137892 | [137892-snood-solitaire.json](./137892-snood-solitaire.json) |
 | Snood Swap | 137969 | [137969-snood-swap.json](./137969-snood-swap.json) |
 | Snood Towers | 137952 | [137952-snood-towers.json](./137952-snood-towers.json) |
 | Snood Towers | 246389 | [246389-snood-towers.json](./246389-snood-towers.json) |
@@ -13765,6 +13768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Squared | 262568 | [262568-speed-squared.json](./262568-speed-squared.json) |
 | Speed Surge | 335271 | [335271-speed-surge.json](./335271-speed-surge.json) |
 | Speed Sweeper | 133209 | [133209-speed-sweeper.json](./133209-speed-sweeper.json) |
+| Speed Swing | 137913 | [137913-speed-swing.json](./137913-speed-swing.json) |
 | Speed Tap Analysis | 297648 | [297648-speed-tap-analysis.json](./297648-speed-tap-analysis.json) |
 | Speed Tapping Idle RPG for Touhou | 297644 | [297644-speed-tapping-idle-rpg-for-touhou.json](./297644-speed-tapping-idle-rpg-for-touhou.json) |
 | Speed Thief | 54383 | [54383-speed-thief.json](./54383-speed-thief.json) |
@@ -22233,6 +22237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superstar Chefs | 57666 | [57666-superstar-chefs.json](./57666-superstar-chefs.json) |
 | Superstar DJ | 232353 | [232353-superstar-dj.json](./232353-superstar-dj.json) |
 | SuperStar Ebidan | 373026 | [373026-superstar-ebidan.json](./373026-superstar-ebidan.json) |
+| SuperStar GFriend | 137886 | [137886-superstar-gfriend.json](./137886-superstar-gfriend.json) |
 | Superstar Hero | 118775 | [118775-superstar-hero.json](./118775-superstar-hero.json) |
 | Superstar Hockey: Pass & Score | 227379 | [227379-superstar-hockey-pass-and-score.json](./227379-superstar-hockey-pass-and-score.json) |
 | Superstar Ice Hockey | 40998 | [40998-superstar-ice-hockey.json](./40998-superstar-ice-hockey.json) |
