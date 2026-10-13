@@ -1224,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamerlane | 233633 | [233633-tamerlane.json](./233633-tamerlane.json) |
 | Tametsi | 72423 | [72423-tametsi.json](./72423-tametsi.json) |
 | Tamiigi and the War O' Bunnies | 337106 | [337106-tamiigi-and-the-war-o-bunnies.json](./337106-tamiigi-and-the-war-o-bunnies.json) |
+| Tamiku | 140952 | [140952-tamiku.json](./140952-tamiku.json) |
 | Taming the Heart of a Beast | 228067 | [228067-taming-the-heart-of-a-beast.json](./228067-taming-the-heart-of-a-beast.json) |
 | Tamitos: Tale of Understanding | 399155 | [399155-tamitos-tale-of-understanding.json](./399155-tamitos-tale-of-understanding.json) |
 | Tamori no Picross | 65767 | [65767-tamori-no-picross.json](./65767-tamori-no-picross.json) |
@@ -2181,6 +2182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tech Deck Snowboarding | 206611 | [206611-tech-deck-snowboarding.json](./206611-tech-deck-snowboarding.json) |
 | Tech Disorder | 291258 | [291258-tech-disorder.json](./291258-tech-disorder.json) |
 | Tech Executive Tycoon | 17036 | [17036-tech-executive-tycoon.json](./17036-tech-executive-tycoon.json) |
+| Tech Glitch | 140949 | [140949-tech-glitch.json](./140949-tech-glitch.json) |
 | Tech Invaders TD | 219568 | [219568-tech-invaders-td.json](./219568-tech-invaders-td.json) |
 | Tech Romancer | 227751 | [227751-tech-romancer.json](./227751-tech-romancer.json) |
 | Tech Support 2077 | 123957 | [123957-tech-support-2077.json](./123957-tech-support-2077.json) |
@@ -4459,6 +4461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blue Zula VR Concert Series | 110500 | [110500-the-blue-zula-vr-concert-series.json](./110500-the-blue-zula-vr-concert-series.json) |
 | The Blue-diamond Damsel in Distress | 336386 | [336386-the-blue-diamond-damsel-in-distress.json](./336386-the-blue-diamond-damsel-in-distress.json) |
 | The Blue-G Interactive Vector Archive 77-97 | 406232 | [406232-the-blue-g-interactive-vector-archive-77-97.json](./406232-the-blue-g-interactive-vector-archive-77-97.json) |
+| The Bluecoats: North & South | 140958 | [140958-the-bluecoats-north-and-south.json](./140958-the-bluecoats-north-and-south.json) |
 | The Bluecoats: North vs South - Limited Edition | 139929 | [139929-the-bluecoats-north-vs-south-limited-edition.json](./139929-the-bluecoats-north-vs-south-limited-edition.json) |
 | The Blueness of a Wound | 129062 | [129062-the-blueness-of-a-wound.json](./129062-the-blueness-of-a-wound.json) |
 | The Board is Yours | 384227 | [384227-the-board-is-yours.json](./384227-the-board-is-yours.json) |
@@ -7830,6 +7833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land of the Scurvy Dog | 176447 | [176447-the-land-of-the-scurvy-dog.json](./176447-the-land-of-the-scurvy-dog.json) |
 | The Land of the Seazogs | 107372 | [107372-the-land-of-the-seazogs.json](./107372-the-land-of-the-seazogs.json) |
 | The Land: Elf no Mori | 302963 | [302963-the-land-elf-no-mori.json](./302963-the-land-elf-no-mori.json) |
+| The Lands of Eldyn | 140960 | [140960-the-lands-of-eldyn.json](./140960-the-lands-of-eldyn.json) |
 | The Lands of Hyberian | 289996 | [289996-the-lands-of-hyberian.json](./289996-the-lands-of-hyberian.json) |
 | The Language Game | 35157 | [35157-the-language-game.json](./35157-the-language-game.json) |
 | The Language of Love | 118052 | [118052-the-language-of-love.json](./118052-the-language-of-love.json) |
@@ -9632,6 +9636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ouroboros King | 215098 | [215098-the-ouroboros-king.json](./215098-the-ouroboros-king.json) |
 | The Ouroborous Incident | 330695 | [330695-the-ouroborous-incident.json](./330695-the-ouroborous-incident.json) |
 | The Out Door | 312723 | [312723-the-out-door.json](./312723-the-out-door.json) |
+| The Outbreak | 140970 | [140970-the-outbreak.json](./140970-the-outbreak.json) |
 | The Outbreak Guardian | 168185 | [168185-the-outbreak-guardian.json](./168185-the-outbreak-guardian.json) |
 | The Outcast Lovers | 135899 | [135899-the-outcast-lovers.json](./135899-the-outcast-lovers.json) |
 | The Outer Darkness | 274200 | [274200-the-outer-darkness.json](./274200-the-outer-darkness.json) |
@@ -10583,6 +10588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret Order 7: Shadow Breach | 115584 | [115584-the-secret-order-7-shadow-breach.json](./115584-the-secret-order-7-shadow-breach.json) |
 | The Secret Order 8: Return to the Buried Kingdom | 127205 | [127205-the-secret-order-8-return-to-the-buried-kingdom.json](./127205-the-secret-order-8-return-to-the-buried-kingdom.json) |
 | The Secret Order Collection | 53780 | [53780-the-secret-order-collection.json](./53780-the-secret-order-collection.json) |
+| The Secret Order: Return to the Buried Kingdom | 140947 | [140947-the-secret-order-return-to-the-buried-kingdom.json](./140947-the-secret-order-return-to-the-buried-kingdom.json) |
 | The Secret Pyramid | 225184 | [225184-the-secret-pyramid.json](./225184-the-secret-pyramid.json) |
 | The Secret Society | 88642 | [88642-the-secret-society.json](./88642-the-secret-society.json) |
 | The Secret Society - Hidden Objects Mystery | 124747 | [124747-the-secret-society-hidden-objects-mystery.json](./124747-the-secret-society-hidden-objects-mystery.json) |
@@ -12862,6 +12868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theft Ride Legacy: Gold Edition | 283160 | [283160-theft-ride-legacy-gold-edition.json](./283160-theft-ride-legacy-gold-edition.json) |
 | TheGunRunner | 89952 | [89952-thegunrunner.json](./89952-thegunrunner.json) |
 | TheHunter: Call of the Wild | 26381 | [26381-thehunter-call-of-the-wild.json](./26381-thehunter-call-of-the-wild.json) |
+| TheHunter: Call of the Wild - 2021 Edition | 140946 | [140946-thehunter-call-of-the-wild-2021-edition.json](./140946-thehunter-call-of-the-wild-2021-edition.json) |
 | TheHunter: Call of the Wild - Ambusher Pack | 272290 | [272290-thehunter-call-of-the-wild-ambusher-pack.json](./272290-thehunter-call-of-the-wild-ambusher-pack.json) |
 | TheHunter: Call of the Wild - ATV Saber 4X4 | 53794 | [53794-thehunter-call-of-the-wild-atv-saber-4x4.json](./53794-thehunter-call-of-the-wild-atv-saber-4x4.json) |
 | TheHunter: Call of the Wild - Backpacks | 206820 | [206820-thehunter-call-of-the-wild-backpacks.json](./206820-thehunter-call-of-the-wild-backpacks.json) |
@@ -16269,6 +16276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Hero | 352148 | [352148-toilet-hero.json](./352148-toilet-hero.json) |
 | Toilet in Wonderland | 25015 | [25015-toilet-in-wonderland.json](./25015-toilet-in-wonderland.json) |
 | Toilet Management Simulator | 138586 | [138586-toilet-management-simulator.json](./138586-toilet-management-simulator.json) |
+| Toilet of the Gods | 140874 | [140874-toilet-of-the-gods.json](./140874-toilet-of-the-gods.json) |
 | Toilet Paper Please | 297332 | [297332-toilet-paper-please.json](./297332-toilet-paper-please.json) |
 | Toilet Paper Simulator | 248890 | [248890-toilet-paper-simulator.json](./248890-toilet-paper-simulator.json) |
 | Toilet Paper Unleashed | 169670 | [169670-toilet-paper-unleashed.json](./169670-toilet-paper-unleashed.json) |
