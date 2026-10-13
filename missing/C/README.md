@@ -9225,6 +9225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Dozer | 92068 | [92068-cookie-dozer.json](./92068-cookie-dozer.json) |
 | Cookie Game | 266299 | [266299-cookie-game.json](./266299-cookie-game.json) |
 | Cookie Gluttons TD | 213334 | [213334-cookie-gluttons-td.json](./213334-cookie-gluttons-td.json) |
+| Cookie Invaders | 133124 | [133124-cookie-invaders.json](./133124-cookie-invaders.json) |
 | Cookie Match: Enhanced Edition | 232451 | [232451-cookie-match-enhanced-edition.json](./232451-cookie-match-enhanced-edition.json) |
 | Cookie Run | 74416 | [74416-cookie-run.json](./74416-cookie-run.json) |
 | Cookie Run: Kingdom | 142737 | [142737-cookie-run-kingdom.json](./142737-cookie-run-kingdom.json) |
@@ -11289,6 +11290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Asylum | 322663 | [322663-crimson-asylum.json](./322663-crimson-asylum.json) |
 | Crimson Broadcast | 395765 | [395765-crimson-broadcast.json](./395765-crimson-broadcast.json) |
 | Crimson Capes | 305969 | [305969-crimson-capes.json](./305969-crimson-capes.json) |
+| Crimson Colosseum | 133112 | [133112-crimson-colosseum.json](./133112-crimson-colosseum.json) |
 | Crimson Connect Origin | 238521 | [238521-crimson-connect-origin.json](./238521-crimson-connect-origin.json) |
 | Crimson Crime: Sniper Mission | 220163 | [220163-crimson-crime-sniper-mission.json](./220163-crimson-crime-sniper-mission.json) |
 | Crimson Defense | 95226 | [95226-crimson-defense.json](./95226-crimson-defense.json) |
@@ -11456,6 +11458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croc's World | 87410 | [87410-crocs-world.json](./87410-crocs-world.json) |
 | Croc's World 3 | 88563 | [88563-crocs-world-3.json](./88563-crocs-world-3.json) |
 | Croc's World Run | 115465 | [115465-crocs-world-run.json](./115465-crocs-world-run.json) |
+| CrocApoca!! Crocodile maiden at the End of the World | 133157 | [133157-crocapoca-crocodile-maiden-at-the-end-of-the-world.json](./133157-crocapoca-crocodile-maiden-at-the-end-of-the-world.json) |
 | Crock | 184390 | [184390-crock.json](./184390-crock.json) |
 | Croco.Games | 342201 | [342201-croco-games.json](./342201-croco-games.json) |
 | Crococo | 406883 | [406883-crococo.json](./406883-crococo.json) |
