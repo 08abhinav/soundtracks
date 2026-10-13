@@ -1092,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsize | 122403 | [122403-capsize.json](./122403-capsize.json) |
 | Capsized | 3050 | [3050-capsized.json](./3050-capsized.json) |
 | Capslock | 300425 | [300425-capslock.json](./300425-capslock.json) |
+| Capsule | 167907 | [167907-capsule.json](./167907-capsule.json) |
 | Capsule | 17487 | [17487-capsule.json](./17487-capsule.json) |
 | Capsule | 385389 | [385389-capsule.json](./385389-capsule.json) |
 | Capsule Cat's Big Space Adventure | 280334 | [280334-capsule-cats-big-space-adventure.json](./280334-capsule-cats-big-space-adventure.json) |
@@ -2144,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Empire | 263969 | [263969-castle-empire.json](./263969-castle-empire.json) |
 | Castle Evalon | 323931 | [323931-castle-evalon.json](./323931-castle-evalon.json) |
 | Castle Explorer | 79838 | [79838-castle-explorer.json](./79838-castle-explorer.json) |
+| Castle Explorer: Heroes and rings | 167906 | [167906-castle-explorer-heroes-and-rings.json](./167906-castle-explorer-heroes-and-rings.json) |
 | Castle Explorer: The Dark Below | 174172 | [174172-castle-explorer-the-dark-below.json](./174172-castle-explorer-the-dark-below.json) |
 | Castle Fantasia: Erencia Senki - Plus Stories | 408777 | [408777-castle-fantasia-erencia-senki-plus-stories.json](./408777-castle-fantasia-erencia-senki-plus-stories.json) |
 | Castle Flipper | 111425 | [111425-castle-flipper.json](./111425-castle-flipper.json) |
@@ -8174,13 +8176,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command: Modern Air / Naval Operations WOTY | 36237 | [36237-command-modern-air-naval-operations-woty.json](./36237-command-modern-air-naval-operations-woty.json) |
 | Command: Modern Operations - Chains of War | 167870 | [167870-command-modern-operations-chains-of-war.json](./167870-command-modern-operations-chains-of-war.json) |
 | Command: Modern Operations - Chains of War | 36628 | [36628-command-modern-operations-chains-of-war.json](./36628-command-modern-operations-chains-of-war.json) |
+| Command: Modern Operations - Desert Storm | 167880 | [167880-command-modern-operations-desert-storm.json](./167880-command-modern-operations-desert-storm.json) |
 | Command: Modern Operations - Falklands | 219743 | [219743-command-modern-operations-falklands.json](./219743-command-modern-operations-falklands.json) |
+| Command: Modern Operations - Kashmir Fire | 167879 | [167879-command-modern-operations-kashmir-fire.json](./167879-command-modern-operations-kashmir-fire.json) |
 | Command: Modern Operations - Red Tide | 196083 | [196083-command-modern-operations-red-tide.json](./196083-command-modern-operations-red-tide.json) |
 | Command: Modern Operations - Shifting Sands | 167866 | [167866-command-modern-operations-shifting-sands.json](./167866-command-modern-operations-shifting-sands.json) |
 | Command: Modern Operations - Shifting Sands | 75030 | [75030-command-modern-operations-shifting-sands.json](./75030-command-modern-operations-shifting-sands.json) |
 | Command: Modern Operations - Showcase Queen Elizabeth | 213026 | [213026-command-modern-operations-showcase-queen-elizabeth.json](./213026-command-modern-operations-showcase-queen-elizabeth.json) |
 | Command: Modern Operations - The Silent Service | 87941 | [87941-command-modern-operations-the-silent-service.json](./87941-command-modern-operations-the-silent-service.json) |
 | Command: Modern Operations Live - Aegean in Flames | 167869 | [167869-command-modern-operations-live-aegean-in-flames.json](./167869-command-modern-operations-live-aegean-in-flames.json) |
+| Command: Modern Operations Live - Commonwealth Collision | 167881 | [167881-command-modern-operations-live-commonwealth-collision.json](./167881-command-modern-operations-live-commonwealth-collision.json) |
+| Command: Modern Operations Live - Korean Missile Crisis | 167882 | [167882-command-modern-operations-live-korean-missile-crisis.json](./167882-command-modern-operations-live-korean-missile-crisis.json) |
 | Command: Modern Operations Live - Kuril Sunrise | 167867 | [167867-command-modern-operations-live-kuril-sunrise.json](./167867-command-modern-operations-live-kuril-sunrise.json) |
 | Command: Modern Operations Live - The King of the Border | 167868 | [167868-command-modern-operations-live-the-king-of-the-border.json](./167868-command-modern-operations-live-the-king-of-the-border.json) |
 | Command: Showcase - Operation Desert Falcon | 266793 | [266793-command-showcase-operation-desert-falcon.json](./266793-command-showcase-operation-desert-falcon.json) |
