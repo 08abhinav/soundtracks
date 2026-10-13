@@ -1378,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yurei Hunt | 336741 | [336741-yurei-hunt.json](./336741-yurei-hunt.json) |
 | Yurei Ninja | 242213 | [242213-yurei-ninja.json](./242213-yurei-ninja.json) |
 | Yuri Blossom! | 358314 | [358314-yuri-blossom.json](./358314-yuri-blossom.json) |
+| Yuri Kago no Sora | 133739 | [133739-yuri-kago-no-sora.json](./133739-yuri-kago-no-sora.json) |
 | Yuri Lowell Prints a Gun | 328431 | [328431-yuri-lowell-prints-a-gun.json](./328431-yuri-lowell-prints-a-gun.json) |
 | Yuri Ogibalov's Bizarre Adventure | 156032 | [156032-yuri-ogibalovs-bizarre-adventure.json](./156032-yuri-ogibalovs-bizarre-adventure.json) |
 | Yuri Paddle: An Anime Convention Murder Mystery | 318404 | [318404-yuri-paddle-an-anime-convention-murder-mystery.json](./318404-yuri-paddle-an-anime-convention-murder-mystery.json) |
