@@ -707,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Level | 82348 | [82348-dangerous-level.json](./82348-dangerous-level.json) |
 | Dangerous Line | 327827 | [327827-dangerous-line.json](./327827-dangerous-line.json) |
 | Dangerous Plane | 149682 | [149682-dangerous-plane.json](./149682-dangerous-plane.json) |
+| Dangerous Planet | 152671 | [152671-dangerous-planet.json](./152671-dangerous-planet.json) |
 | Dangerous Pursuit | 371642 | [371642-dangerous-pursuit.json](./371642-dangerous-pursuit.json) |
 | Dangerous Relationship | 32273 | [32273-dangerous-relationship.json](./32273-dangerous-relationship.json) |
 | Dangerous Roads | 395518 | [395518-dangerous-roads.json](./395518-dangerous-roads.json) |
@@ -3839,6 +3840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery Drop | 303321 | [303321-delivery-drop.json](./303321-delivery-drop.json) |
 | Delivery Express | 303468 | [303468-delivery-express.json](./303468-delivery-express.json) |
 | Delivery from the Pain | 108905 | [108905-delivery-from-the-pain.json](./108905-delivery-from-the-pain.json) |
+| Delivery Guy | 153125 | [153125-delivery-guy.json](./153125-delivery-guy.json) |
 | Delivery Hot | 351125 | [351125-delivery-hot.json](./351125-delivery-hot.json) |
 | Delivery Impossible | 244191 | [244191-delivery-impossible.json](./244191-delivery-impossible.json) |
 | Delivery in Space | 200519 | [200519-delivery-in-space.json](./200519-delivery-in-space.json) |
@@ -6259,6 +6261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dire Island | 290482 | [290482-dire-island.json](./290482-dire-island.json) |
 | Dire Vengeance | 170344 | [170344-dire-vengeance.json](./170344-dire-vengeance.json) |
 | Dire Vengeance: Deluxe | 223570 | [223570-dire-vengeance-deluxe.json](./223570-dire-vengeance-deluxe.json) |
+| Dire Wolf Game Room | 153133 | [153133-dire-wolf-game-room.json](./153133-dire-wolf-game-room.json) |
 | Dire: Flesh and Phobia | 278916 | [278916-dire-flesh-and-phobia.json](./278916-dire-flesh-and-phobia.json) |
 | Direct | 70706 | [70706-direct.json](./70706-direct.json) |
 | Direct-X | 292146 | [292146-direct-x.json](./292146-direct-x.json) |
@@ -7078,6 +7081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJ Simulator | 303479 | [303479-dj-simulator.json](./303479-dj-simulator.json) |
 | DJ Star | 21243 | [21243-dj-star.json](./21243-dj-star.json) |
 | DJ Word Master | 105837 | [105837-dj-word-master.json](./105837-dj-word-master.json) |
+| Django | 152658 | [152658-django.json](./152658-django.json) |
 | Djikstra's Enigmatic Puzzle Cube | 278423 | [278423-djikstras-enigmatic-puzzle-cube.json](./278423-djikstras-enigmatic-puzzle-cube.json) |
 | Djinn Caster | 129605 | [129605-djinn-caster.json](./129605-djinn-caster.json) |
 | Djinn: The Forbidden Knowledge | 302578 | [302578-djinn-the-forbidden-knowledge.json](./302578-djinn-the-forbidden-knowledge.json) |
