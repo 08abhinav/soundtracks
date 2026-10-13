@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Ball | 212844 | [212844-table-ball.json](./212844-table-ball.json) |
 | Table Ball: Amazing Extras Skin Pack | 293399 | [293399-table-ball-amazing-extras-skin-pack.json](./293399-table-ball-amazing-extras-skin-pack.json) |
 | Table Ball: Emotions Skin Pack | 293398 | [293398-table-ball-emotions-skin-pack.json](./293398-table-ball-emotions-skin-pack.json) |
+| Table Barrier | 172652 | [172652-table-barrier.json](./172652-table-barrier.json) |
 | Table Flip Simulator | 306415 | [306415-table-flip-simulator.json](./306415-table-flip-simulator.json) |
 | Table Football | 131398 | [131398-table-football.json](./131398-table-football.json) |
 | Table Football | 85421 | [85421-table-football.json](./85421-table-football.json) |
@@ -9818,6 +9819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prince of Tennis: Sweet School Festival 0-40 and more… | 395097 | [395097-the-prince-of-tennis-sweet-school-festival-0-40-and-more.json](./395097-the-prince-of-tennis-sweet-school-festival-0-40-and-more.json) |
 | The Prince's Keeper | 412310 | [412310-the-princes-keeper.json](./412310-the-princes-keeper.json) |
 | The Princess and the Frog | 17753 | [17753-the-princess-and-the-frog.json](./17753-the-princess-and-the-frog.json) |
+| The Princess and The Frog | 172423 | [172423-the-princess-and-the-frog.json](./172423-the-princess-and-the-frog.json) |
 | The Princess and the Pauper: Storybook Adventures | 293199 | [293199-the-princess-and-the-pauper-storybook-adventures.json](./293199-the-princess-and-the-pauper-storybook-adventures.json) |
 | The Princess and the Portals | 413868 | [413868-the-princess-and-the-portals.json](./413868-the-princess-and-the-portals.json) |
 | The Princess Bride: The Official Game | 58854 | [58854-the-princess-bride-the-official-game.json](./58854-the-princess-bride-the-official-game.json) |
@@ -19995,6 +19997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trick the Ninjalinos | 359438 | [359438-trick-the-ninjalinos.json](./359438-trick-the-ninjalinos.json) |
 | Trick Trap | 46874 | [46874-trick-trap.json](./46874-trick-trap.json) |
 | Trick x Trick | 386689 | [386689-trick-x-trick.json](./386689-trick-x-trick.json) |
+| Trickcal: Chibi Go | 172648 | [172648-trickcal-chibi-go.json](./172648-trickcal-chibi-go.json) |
 | Tricked N' Tuned: West Coast Streets | 206665 | [206665-tricked-n-tuned-west-coast-streets.json](./206665-tricked-n-tuned-west-coast-streets.json) |
 | Trickery&Strategy | 148905 | [148905-trickery-and-strategy.json](./148905-trickery-and-strategy.json) |
 | Trickier Wii | 394343 | [394343-trickier-wii.json](./394343-trickier-wii.json) |
