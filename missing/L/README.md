@@ -2932,6 +2932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Is Not the End | 156999 | [156999-life-is-not-the-end.json](./156999-life-is-not-the-end.json) |
 | Life is Pain | 239584 | [239584-life-is-pain.json](./239584-life-is-pain.json) |
 | Life is Paine | 188443 | [188443-life-is-paine.json](./188443-life-is-paine.json) |
+| Life is sad | 157407 | [157407-life-is-sad.json](./157407-life-is-sad.json) |
 | Life is Scary | 176765 | [176765-life-is-scary.json](./176765-life-is-scary.json) |
 | Life is Strange 2: Episode 4 - Faith | 119055 | [119055-life-is-strange-2-episode-4-faith.json](./119055-life-is-strange-2-episode-4-faith.json) |
 | Life is Strange 2: Episode 5 - Wolves | 119054 | [119054-life-is-strange-2-episode-5-wolves.json](./119054-life-is-strange-2-episode-5-wolves.json) |
@@ -4371,6 +4372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Local Zombies | 389712 | [389712-local-zombies.json](./389712-local-zombies.json) |
 | Localhost | 68110 | [68110-localhost.json](./68110-localhost.json) |
 | Locator: The Search for Abigail Lidari | 257990 | [257990-locator-the-search-for-abigail-lidari.json](./257990-locator-the-search-for-abigail-lidari.json) |
+| Loch Mess | 157400 | [157400-loch-mess.json](./157400-loch-mess.json) |
 | Loch Ness | 182506 | [182506-loch-ness.json](./182506-loch-ness.json) |
 | Locis | 138553 | [138553-locis.json](./138553-locis.json) |
 | Lock | 68655 | [68655-lock.json](./68655-lock.json) |
