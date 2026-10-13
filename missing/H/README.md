@@ -2254,6 +2254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeartWeaver | 322090 | [322090-heartweaver.json](./322090-heartweaver.json) |
 | Heartwild Solitaire Book One | 88737 | [88737-heartwild-solitaire-book-one.json](./88737-heartwild-solitaire-book-one.json) |
 | Heartwild Solitaire: Book Two | 96852 | [96852-heartwild-solitaire-book-two.json](./96852-heartwild-solitaire-book-two.json) |
+| Heartwood | 140954 | [140954-heartwood.json](./140954-heartwood.json) |
 | Heartwood | 179158 | [179158-heartwood.json](./179158-heartwood.json) |
 | Heartwood Heroes | 236329 | [236329-heartwood-heroes.json](./236329-heartwood-heroes.json) |
 | Heartwood Online | 258374 | [258374-heartwood-online.json](./258374-heartwood-online.json) |
