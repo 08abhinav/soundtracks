@@ -2345,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infected Mushroom Pinball | 353770 | [353770-infected-mushroom-pinball.json](./353770-infected-mushroom-pinball.json) |
 | Infected Prison | 156561 | [156561-infected-prison.json](./156561-infected-prison.json) |
 | Infected run to Survive: Zombie Apocalypse Survival Story Shooter Dead Cry | 231078 | [231078-infected-run-to-survive-zombie-apocalypse-survival-story-shooter-dead-cry.json](./231078-infected-run-to-survive-zombie-apocalypse-survival-story-shooter-dead-cry.json) |
+| Infected spaceship generator | 164062 | [164062-infected-spaceship-generator.json](./164062-infected-spaceship-generator.json) |
 | Infected Swarm | 384860 | [384860-infected-swarm.json](./384860-infected-swarm.json) |
 | Infected World | 412279 | [412279-infected-world.json](./412279-infected-world.json) |
 | Infected zone | 159786 | [159786-infected-zone.json](./159786-infected-zone.json) |
