@@ -1734,6 +1734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waxwing Radio | 298829 | [298829-waxwing-radio.json](./298829-waxwing-radio.json) |
 | Waxworks: Curse of the Ancestors | 126548 | [126548-waxworks-curse-of-the-ancestors.json](./126548-waxworks-curse-of-the-ancestors.json) |
 | Way Back Home | 127742 | [127742-way-back-home.json](./127742-way-back-home.json) |
+| Way Back Witness | 152688 | [152688-way-back-witness.json](./152688-way-back-witness.json) |
 | Way Down | 187511 | [187511-way-down.json](./187511-way-down.json) |
 | Way Home | 95624 | [95624-way-home.json](./95624-way-home.json) |
 | Way in the stars | 156593 | [156593-way-in-the-stars.json](./156593-way-in-the-stars.json) |
@@ -2181,6 +2182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to IKSPQ | 271310 | [271310-welcome-to-ikspq.json](./271310-welcome-to-ikspq.json) |
 | Welcome to James' Story in the World of Our Church and Halloween: Visual Novel | 222808 | [222808-welcome-to-james-story-in-the-world-of-our-church-and-halloween-visual-novel.json](./222808-welcome-to-james-story-in-the-world-of-our-church-and-halloween-visual-novel.json) |
 | Welcome to Jane's Story in the World of Project: Summer Ice | 208621 | [208621-welcome-to-janes-story-in-the-world-of-project-summer-ice.json](./208621-welcome-to-janes-story-in-the-world-of-project-summer-ice.json) |
+| Welcome to Lakewood | 152648 | [152648-welcome-to-lakewood.json](./152648-welcome-to-lakewood.json) |
 | Welcome to Levy | 238730 | [238730-welcome-to-levy.json](./238730-welcome-to-levy.json) |
 | Welcome to Light Fields | 93700 | [93700-welcome-to-light-fields.json](./93700-welcome-to-light-fields.json) |
 | Welcome to Lightford | 273391 | [273391-welcome-to-lightford.json](./273391-welcome-to-lightford.json) |
@@ -2882,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Which Way | 246372 | [246372-which-way.json](./246372-which-way.json) |
 | Which Way Out | 104088 | [104088-which-way-out.json](./104088-which-way-out.json) |
 | Which Way Up: Galaxy Games | 240762 | [240762-which-way-up-galaxy-games.json](./240762-which-way-up-galaxy-games.json) |
+| Which Wizard? | 152657 | [152657-which-wizard.json](./152657-which-wizard.json) |
 | WhichWayOut? | 287703 | [287703-whichwayout.json](./287703-whichwayout.json) |
 | Whiff of Fear | 101978 | [101978-whiff-of-fear.json](./101978-whiff-of-fear.json) |
 | Whiffle Blasters | 116850 | [116850-whiffle-blasters.json](./116850-whiffle-blasters.json) |
@@ -3109,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White-Water Domo | 68060 | [68060-white-water-domo.json](./68060-white-water-domo.json) |
 | WhiteBird | 119670 | [119670-whitebird.json](./119670-whitebird.json) |
 | WhiteClothes | 247941 | [247941-whiteclothes.json](./247941-whiteclothes.json) |
+| Whitehaven | 152683 | [152683-whitehaven.json](./152683-whitehaven.json) |
 | WhiteJill | 355572 | [355572-whitejill.json](./355572-whitejill.json) |
 | Whitemare | 274137 | [274137-whitemare.json](./274137-whitemare.json) |
 | Whitemare 2 | 274138 | [274138-whitemare-2.json](./274138-whitemare-2.json) |
@@ -3354,6 +3358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiktor TD | 178426 | [178426-wiktor-td.json](./178426-wiktor-td.json) |
 | Wil | 96844 | [96844-wil.json](./96844-wil.json) |
 | Wilbur Scoville’s 151st Birthday | 375817 | [375817-wilbur-scoville-s-151st-birthday.json](./375817-wilbur-scoville-s-151st-birthday.json) |
+| Wilbur's Quest | 152659 | [152659-wilburs-quest.json](./152659-wilburs-quest.json) |
 | Wild | 242115 | [242115-wild.json](./242115-wild.json) |
 | Wild | 257947 | [257947-wild.json](./257947-wild.json) |
 | WiLD | 7608 | [7608-wild.json](./7608-wild.json) |
@@ -4794,6 +4799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wood for Nobody Else | 357212 | [357212-wood-for-nobody-else.json](./357212-wood-for-nobody-else.json) |
 | Wood for the Trees | 176958 | [176958-wood-for-the-trees.json](./176958-wood-for-the-trees.json) |
 | Wood Guy | 275814 | [275814-wood-guy.json](./275814-wood-guy.json) |
+| Wood Killer | 152638 | [152638-wood-killer.json](./152638-wood-killer.json) |
 | Wood Nuts & Bolts Puzzle | 331341 | [331341-wood-nuts-and-bolts-puzzle.json](./331341-wood-nuts-and-bolts-puzzle.json) |
 | Wood Puzzle | 208942 | [208942-wood-puzzle.json](./208942-wood-puzzle.json) |
 | Wood Walker | 395874 | [395874-wood-walker.json](./395874-wood-walker.json) |
@@ -5856,6 +5862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wound of the West | 143582 | [143582-wound-of-the-west.json](./143582-wound-of-the-west.json) |
 | Wounded: The Beginning | 114560 | [114560-wounded-the-beginning.json](./114560-wounded-the-beginning.json) |
 | Wounds 4 Hard Medication | 181291 | [181291-wounds-4-hard-medication.json](./181291-wounds-4-hard-medication.json) |
+| Woute | 152673 | [152673-woute.json](./152673-woute.json) |
 | Wove | 369024 | [369024-wove.json](./369024-wove.json) |
 | Woven | 32150 | [32150-woven.json](./32150-woven.json) |
 | Wow! Wow! Wubbzy | 76890 | [76890-wow-wow-wubbzy.json](./76890-wow-wow-wubbzy.json) |
