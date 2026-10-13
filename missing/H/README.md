@@ -6004,6 +6004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homefront: The Revolution | 1886 | [1886-homefront-the-revolution.json](./1886-homefront-the-revolution.json) |
 | Homefront: The Revolution - Aftermath | 53206 | [53206-homefront-the-revolution-aftermath.json](./53206-homefront-the-revolution-aftermath.json) |
 | Homefront: The Revolution - Beyond the Walls | 53207 | [53207-homefront-the-revolution-beyond-the-walls.json](./53207-homefront-the-revolution-beyond-the-walls.json) |
+| Homefront: The Revolution - Day One Edition | 136163 | [136163-homefront-the-revolution-day-one-edition.json](./136163-homefront-the-revolution-day-one-edition.json) |
 | Homefront: The Revolution - Freedom Fighter Bundle | 185979 | [185979-homefront-the-revolution-freedom-fighter-bundle.json](./185979-homefront-the-revolution-freedom-fighter-bundle.json) |
 | Homefront: The Revolution - The Voice Of Freedom | 53205 | [53205-homefront-the-revolution-the-voice-of-freedom.json](./53205-homefront-the-revolution-the-voice-of-freedom.json) |
 | Homefront: The Rock Map Pack | 224224 | [224224-homefront-the-rock-map-pack.json](./224224-homefront-the-rock-map-pack.json) |
@@ -6491,6 +6492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Walker | 330256 | [330256-horizon-walker.json](./330256-horizon-walker.json) |
 | Horizon X | 57645 | [57645-horizon-x.json](./57645-horizon-x.json) |
 | Horizon Zero Dawn: Complete Edition | 72870 | [72870-horizon-zero-dawn-complete-edition.json](./72870-horizon-zero-dawn-complete-edition.json) |
+| Horizon Zero Dawn: Limited Edition | 136150 | [136150-horizon-zero-dawn-limited-edition.json](./136150-horizon-zero-dawn-limited-edition.json) |
 | Horizon's Edge | 291381 | [291381-horizons-edge.json](./291381-horizons-edge.json) |
 | Horizon's Gate | 131620 | [131620-horizons-gate.json](./131620-horizons-gate.json) |
 | Horizons Light | 376466 | [376466-horizons-light.json](./376466-horizons-light.json) |
