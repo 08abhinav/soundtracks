@@ -1967,10 +1967,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinder: Kingmaker - Royal Ascension | 134569 | [134569-pathfinder-kingmaker-royal-ascension.json](./134569-pathfinder-kingmaker-royal-ascension.json) |
 | Pathfinder: Kingmaker - Varnhold's Lot | 115540 | [115540-pathfinder-kingmaker-varnholds-lot.json](./115540-pathfinder-kingmaker-varnholds-lot.json) |
 | Pathfinder: Wrath of the Righteous - A Visitor from Distant Lands | 193129 | [193129-pathfinder-wrath-of-the-righteous-a-visitor-from-distant-lands.json](./193129-pathfinder-wrath-of-the-righteous-a-visitor-from-distant-lands.json) |
+| Pathfinder: Wrath of the Righteous - Commander Edition | 166283 | [166283-pathfinder-wrath-of-the-righteous-commander-edition.json](./166283-pathfinder-wrath-of-the-righteous-commander-edition.json) |
 | Pathfinder: Wrath of the Righteous - Faces of War | 193128 | [193128-pathfinder-wrath-of-the-righteous-faces-of-war.json](./193128-pathfinder-wrath-of-the-righteous-faces-of-war.json) |
 | Pathfinder: Wrath of the Righteous - Game of the Year Edition | 331855 | [331855-pathfinder-wrath-of-the-righteous-game-of-the-year-edition.json](./331855-pathfinder-wrath-of-the-righteous-game-of-the-year-edition.json) |
 | Pathfinder: Wrath of the Righteous - Limited Edition | 206675 | [206675-pathfinder-wrath-of-the-righteous-limited-edition.json](./206675-pathfinder-wrath-of-the-righteous-limited-edition.json) |
 | Pathfinder: Wrath of the Righteous - Love Beyond Death | 186869 | [186869-pathfinder-wrath-of-the-righteous-love-beyond-death.json](./186869-pathfinder-wrath-of-the-righteous-love-beyond-death.json) |
+| Pathfinder: Wrath of the Righteous - Mythic Edition | 166284 | [166284-pathfinder-wrath-of-the-righteous-mythic-edition.json](./166284-pathfinder-wrath-of-the-righteous-mythic-edition.json) |
 | Pathfinder: Wrath of the Righteous - Paint of War | 193127 | [193127-pathfinder-wrath-of-the-righteous-paint-of-war.json](./193127-pathfinder-wrath-of-the-righteous-paint-of-war.json) |
 | Pathfinder: Wrath of the Righteous - The Lord of Nothing | 269217 | [269217-pathfinder-wrath-of-the-righteous-the-lord-of-nothing.json](./269217-pathfinder-wrath-of-the-righteous-the-lord-of-nothing.json) |
 | Pathfinder: Wrath of the Righteous - The Treasure of the Midnight Isles | 215691 | [215691-pathfinder-wrath-of-the-righteous-the-treasure-of-the-midnight-isles.json](./215691-pathfinder-wrath-of-the-righteous-the-treasure-of-the-midnight-isles.json) |
@@ -11287,11 +11289,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppies World 3D | 84800 | [84800-puppies-world-3d.json](./84800-puppies-world-3d.json) |
 | Puppis & Choler | 97522 | [97522-puppis-and-choler.json](./97522-puppis-and-choler.json) |
 | Pupple Pop | 390192 | [390192-pupple-pop.json](./390192-pupple-pop.json) |
+| Puppo! | 166290 | [166290-puppo.json](./166290-puppo.json) |
 | Puppy Balloon Ride | 213392 | [213392-puppy-balloon-ride.json](./213392-puppy-balloon-ride.json) |
 | Puppy Cars: Games for Kids Edition, Animal adventure | 309039 | [309039-puppy-cars-games-for-kids-edition-animal-adventure.json](./309039-puppy-cars-games-for-kids-edition-animal-adventure.json) |
 | Puppy Chef Academy | 107790 | [107790-puppy-chef-academy.json](./107790-puppy-chef-academy.json) |
 | Puppy Cross: Kitty Cross | 170875 | [170875-puppy-cross-kitty-cross.json](./170875-puppy-cross-kitty-cross.json) |
 | Puppy Dentist | 106357 | [106357-puppy-dentist.json](./106357-puppy-dentist.json) |
+| Puppy Dog Pop: Bubble Shoot Mania | 166294 | [166294-puppy-dog-pop-bubble-shoot-mania.json](./166294-puppy-dog-pop-bubble-shoot-mania.json) |
 | Puppy Dog: Jigsaw Puzzles | 105994 | [105994-puppy-dog-jigsaw-puzzles.json](./105994-puppy-dog-jigsaw-puzzles.json) |
 | Puppy Drome | 260669 | [260669-puppy-drome.json](./260669-puppy-drome.json) |
 | Puppy Link: Tile Connect | 379023 | [379023-puppy-link-tile-connect.json](./379023-puppy-link-tile-connect.json) |
@@ -11477,6 +11481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pushika | 334241 | [334241-pushika.json](./334241-pushika.json) |
 | Pushing | 316944 | [316944-pushing.json](./316944-pushing.json) |
 | Pushing Crates | 215037 | [215037-pushing-crates.json](./215037-pushing-crates.json) |
+| Pushing Hands: Fighting Game | 166296 | [166296-pushing-hands-fighting-game.json](./166296-pushing-hands-fighting-game.json) |
 | Pushing It! With Sisyphus | 298033 | [298033-pushing-it-with-sisyphus.json](./298033-pushing-it-with-sisyphus.json) |
 | Pushing the limit | 157098 | [157098-pushing-the-limit.json](./157098-pushing-the-limit.json) |
 | Pushmo World | 19925 | [19925-pushmo-world.json](./19925-pushmo-world.json) |
