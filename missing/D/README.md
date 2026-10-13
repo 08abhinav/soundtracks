@@ -1609,6 +1609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data mining 2 | 110974 | [110974-data-mining-2.json](./110974-data-mining-2.json) |
 | Data mining 5 | 114313 | [114313-data-mining-5.json](./114313-data-mining-5.json) |
 | Data mining 6 | 115125 | [115125-data-mining-6.json](./115125-data-mining-6.json) |
+| Data Mining 8 | 155344 | [155344-data-mining-8.json](./155344-data-mining-8.json) |
 | Data Mutations | 108981 | [108981-data-mutations.json](./108981-data-mutations.json) |
 | Data Restored | 383944 | [383944-data-restored.json](./383944-data-restored.json) |
 | Data Strafer | 390239 | [390239-data-strafer.json](./390239-data-strafer.json) |
@@ -2804,6 +2805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Dealers | 137403 | [137403-death-dealers.json](./137403-death-dealers.json) |
 | Death Delivery | 371237 | [371237-death-delivery.json](./371237-death-delivery.json) |
 | Death Dojo | 30913 | [30913-death-dojo.json](./30913-death-dojo.json) |
+| Death Dream | 155361 | [155361-death-dream.json](./155361-death-dream.json) |
 | Death Drive | 197775 | [197775-death-drive.json](./197775-death-drive.json) |
 | Death Drive | 376056 | [376056-death-drive.json](./376056-death-drive.json) |
 | Death Drives a Bus | 138531 | [138531-death-drives-a-bus.json](./138531-death-drives-a-bus.json) |
@@ -2911,6 +2913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Race Outer Space | 239676 | [239676-death-race-outer-space.json](./239676-death-race-outer-space.json) |
 | Death Rally | 18121 | [18121-death-rally.json](./18121-death-rally.json) |
 | Death Rally | 665 | [665-death-rally.json](./665-death-rally.json) |
+| Death Rattle: Hell Unleashed | 155391 | [155391-death-rattle-hell-unleashed.json](./155391-death-rattle-hell-unleashed.json) |
 | Death Realm | 154053 | [154053-death-realm.json](./154053-death-realm.json) |
 | Death Relives | 220010 | [220010-death-relives.json](./220010-death-relives.json) |
 | Death Remains | 333380 | [333380-death-remains.json](./333380-death-remains.json) |
@@ -10859,6 +10862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop | 86201 | [86201-drop.json](./86201-drop.json) |
 | Drop 'n' Fill! | 330791 | [330791-drop-n-fill.json](./330791-drop-n-fill.json) |
 | Drop & Smash | 227483 | [227483-drop-and-smash.json](./227483-drop-and-smash.json) |
+| Drop Blox | 155392 | [155392-drop-blox.json](./155392-drop-blox.json) |
 | Drop Boy | 183435 | [183435-drop-boy.json](./183435-drop-boy.json) |
 | Drop Cat | 127769 | [127769-drop-cat.json](./127769-drop-cat.json) |
 | Drop Cooking | 311478 | [311478-drop-cooking.json](./311478-drop-cooking.json) |
