@@ -3641,6 +3641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Director's Cut Dual Shock Ver. | 145007 | [145007-resident-evil-directors-cut-dual-shock-ver.json](./145007-resident-evil-directors-cut-dual-shock-ver.json) |
 | Resident Evil: During the Storm | 216349 | [216349-resident-evil-during-the-storm.json](./216349-resident-evil-during-the-storm.json) |
 | Resident Evil: Franchise Pack | 99798 | [99798-resident-evil-franchise-pack.json](./99798-resident-evil-franchise-pack.json) |
+| Resident Evil: Genesis | 165142 | [165142-resident-evil-genesis.json](./165142-resident-evil-genesis.json) |
 | Resident Evil: Grim Beginnings | 298036 | [298036-resident-evil-grim-beginnings.json](./298036-resident-evil-grim-beginnings.json) |
 | Resident Evil: Mansion | 185361 | [185361-resident-evil-mansion.json](./185361-resident-evil-mansion.json) |
 | Resident Evil: Mortal Night | 185684 | [185684-resident-evil-mortal-night.json](./185684-resident-evil-mortal-night.json) |
