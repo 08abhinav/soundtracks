@@ -3573,6 +3573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sensations | 252733 | [252733-sensations.json](./252733-sensations.json) |
 | Sense of Darkness | 310104 | [310104-sense-of-darkness.json](./310104-sense-of-darkness.json) |
 | Sense Off: A Sacred Story in the Wind | 330277 | [330277-sense-off-a-sacred-story-in-the-wind.json](./330277-sense-off-a-sacred-story-in-the-wind.json) |
+| Sense: A Cyberpunk Ghost Story - Limited Edition | 166263 | [166263-sense-a-cyberpunk-ghost-story-limited-edition.json](./166263-sense-a-cyberpunk-ghost-story-limited-edition.json) |
 | Sense: The Game | 358430 | [358430-sense-the-game.json](./358430-sense-the-game.json) |
 | Senseless | 312725 | [312725-senseless.json](./312725-senseless.json) |
 | Senses: Midnight | 153980 | [153980-senses-midnight.json](./153980-senses-midnight.json) |
@@ -19043,6 +19044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudden Strike 4: Africa-Desert War | 111053 | [111053-sudden-strike-4-africa-desert-war.json](./111053-sudden-strike-4-africa-desert-war.json) |
 | Sudden Strike 4: European Battlefields Edition | 104244 | [104244-sudden-strike-4-european-battlefields-edition.json](./104244-sudden-strike-4-european-battlefields-edition.json) |
 | Sudden Strike 4: Finland - Winter Storm | 124799 | [124799-sudden-strike-4-finland-winter-storm.json](./124799-sudden-strike-4-finland-winter-storm.json) |
+| Sudden Strike 4: Steelbook Edition | 166280 | [166280-sudden-strike-4-steelbook-edition.json](./166280-sudden-strike-4-steelbook-edition.json) |
 | Sudden Strike 5 | 355088 | [355088-sudden-strike-5.json](./355088-sudden-strike-5.json) |
 | Sudden Strike Anthology | 85819 | [85819-sudden-strike-anthology.json](./85819-sudden-strike-anthology.json) |
 | Sudden Strike Normandy | 53681 | [53681-sudden-strike-normandy.json](./53681-sudden-strike-normandy.json) |
@@ -21320,6 +21322,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Wars BX | 79337 | [79337-super-robot-wars-bx.json](./79337-super-robot-wars-bx.json) |
 | Super Robot Wars IV Scramble | 240917 | [240917-super-robot-wars-iv-scramble.json](./240917-super-robot-wars-iv-scramble.json) |
 | Super Robot Wars OG: The Moon Dwellers | 80139 | [80139-super-robot-wars-og-the-moon-dwellers.json](./80139-super-robot-wars-og-the-moon-dwellers.json) |
+| Super Robot Wars OG: The Moon Dwellers - Collector's Edition | 166276 | [166276-super-robot-wars-og-the-moon-dwellers-collectors-edition.json](./166276-super-robot-wars-og-the-moon-dwellers-collectors-edition.json) |
+| Super Robot Wars OG: The Moon Dwellers - Limited Edition | 166306 | [166306-super-robot-wars-og-the-moon-dwellers-limited-edition.json](./166306-super-robot-wars-og-the-moon-dwellers-limited-edition.json) |
 | Super Robot Wars X | 87796 | [87796-super-robot-wars-x.json](./87796-super-robot-wars-x.json) |
 | Super Robot Wars Y | 337040 | [337040-super-robot-wars-y.json](./337040-super-robot-wars-y.json) |
 | Super Robot Wars Y: Deluxe Edition | 356809 | [356809-super-robot-wars-y-deluxe-edition.json](./356809-super-robot-wars-y-deluxe-edition.json) |
@@ -23085,6 +23089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Alicization Lycoris - Blooming of Forget-me-not | 232469 | [232469-sword-art-online-alicization-lycoris-blooming-of-forget-me-not.json](./232469-sword-art-online-alicization-lycoris-blooming-of-forget-me-not.json) |
 | Sword Art Online: Alicization Lycoris - Blooming of Matricaria | 211917 | [211917-sword-art-online-alicization-lycoris-blooming-of-matricaria.json](./211917-sword-art-online-alicization-lycoris-blooming-of-matricaria.json) |
 | Sword Art Online: Alicization Lycoris - Deluxe Edition | 166157 | [166157-sword-art-online-alicization-lycoris-deluxe-edition.json](./166157-sword-art-online-alicization-lycoris-deluxe-edition.json) |
+| Sword Art Online: Alicization Lycoris - Limited Edition | 166309 | [166309-sword-art-online-alicization-lycoris-limited-edition.json](./166309-sword-art-online-alicization-lycoris-limited-edition.json) |
 | Sword Art Online: Alicization Lycoris - Myosotis | 139224 | [139224-sword-art-online-alicization-lycoris-myosotis.json](./139224-sword-art-online-alicization-lycoris-myosotis.json) |
 | Sword Art Online: Alicization Rising Steel | 125818 | [125818-sword-art-online-alicization-rising-steel.json](./125818-sword-art-online-alicization-rising-steel.json) |
 | Sword Art Online: Fatal Bullet - Ambush of the Imposters | 114141 | [114141-sword-art-online-fatal-bullet-ambush-of-the-imposters.json](./114141-sword-art-online-fatal-bullet-ambush-of-the-imposters.json) |
