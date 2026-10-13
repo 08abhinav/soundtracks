@@ -3880,6 +3880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Heroes: Red Zone Edition | 116373 | [116373-no-more-heroes-red-zone-edition.json](./116373-no-more-heroes-red-zone-edition.json) |
 | No More Home | 157921 | [157921-no-more-home.json](./157921-no-more-home.json) |
 | No More Inputs | 164913 | [164913-no-more-inputs.json](./164913-no-more-inputs.json) |
+| No More Kings | 134963 | [134963-no-more-kings.json](./134963-no-more-kings.json) |
 | No More Light | 151479 | [151479-no-more-light.json](./151479-no-more-light.json) |
 | No More Pop Music - Annihilation | 113145 | [113145-no-more-pop-music-annihilation.json](./113145-no-more-pop-music-annihilation.json) |
 | No More Rainbows | 168672 | [168672-no-more-rainbows.json](./168672-no-more-rainbows.json) |
