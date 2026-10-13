@@ -4845,6 +4845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GP Fight | 92311 | [92311-gp-fight.json](./92311-gp-fight.json) |
 | GP World | 6108 | [6108-gp-world.json](./6108-gp-world.json) |
 | GP-1 Part II | 42591 | [42591-gp-1-part-ii.json](./42591-gp-1-part-ii.json) |
+| Gpi | 171871 | [171871-gpi.json](./171871-gpi.json) |
 | Gpop.io | 230192 | [230192-gpop-io.json](./230192-gpop-io.json) |
 | GPS Monster Scouter | 372137 | [372137-gps-monster-scouter.json](./372137-gps-monster-scouter.json) |
 | GPU Inferno | 369910 | [369910-gpu-inferno.json](./369910-gpu-inferno.json) |
@@ -5306,6 +5307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gratuitous Space Battles: The Tribe | 164338 | [164338-gratuitous-space-battles-the-tribe.json](./164338-gratuitous-space-battles-the-tribe.json) |
 | Gratuitous Space Shooty Game | 285916 | [285916-gratuitous-space-shooty-game.json](./285916-gratuitous-space-shooty-game.json) |
 | Gratuitous Tank Battles | 16334 | [16334-gratuitous-tank-battles.json](./16334-gratuitous-tank-battles.json) |
+| Gratuitous Tank Battles: The Western Front | 172082 | [172082-gratuitous-tank-battles-the-western-front.json](./172082-gratuitous-tank-battles-the-western-front.json) |
 | Gratuitous Zombie Cannon | 113184 | [113184-gratuitous-zombie-cannon.json](./113184-gratuitous-zombie-cannon.json) |
 | Gräuel | 276837 | [276837-grauel.json](./276837-grauel.json) |
 | Grauen no Torikago: Kapitel 1 - Keiyaku | 313975 | [313975-grauen-no-torikago-kapitel-1-keiyaku.json](./313975-grauen-no-torikago-kapitel-1-keiyaku.json) |
@@ -5357,6 +5359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravel: Armored Operation | 167805 | [167805-gravel-armored-operation.json](./167805-gravel-armored-operation.json) |
 | Gravel: Colorado River | 342111 | [342111-gravel-colorado-river.json](./342111-gravel-colorado-river.json) |
 | Gravel: Free Car Bowler Bulldog | 403760 | [403760-gravel-free-car-bowler-bulldog.json](./403760-gravel-free-car-bowler-bulldog.json) |
+| Gravel: Ice and Fire | 172062 | [172062-gravel-ice-and-fire.json](./172062-gravel-ice-and-fire.json) |
 | Gravel: King of Buggies | 172061 | [172061-gravel-king-of-buggies.json](./172061-gravel-king-of-buggies.json) |
 | Gravel: Porsche Rallye pack | 342112 | [342112-gravel-porsche-rallye-pack.json](./342112-gravel-porsche-rallye-pack.json) |
 | Gravel: Special Edition | 164769 | [164769-gravel-special-edition.json](./164769-gravel-special-edition.json) |
@@ -5633,6 +5636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Hits | 94734 | [94734-great-hits.json](./94734-great-hits.json) |
 | Great Hopes City I | 244390 | [244390-great-hopes-city-i.json](./244390-great-hopes-city-i.json) |
 | Great Houses of Calderia | 192680 | [192680-great-houses-of-calderia.json](./192680-great-houses-of-calderia.json) |
+| Great Hunt: North America - Summer Safari | 172064 | [172064-great-hunt-north-america-summer-safari.json](./172064-great-hunt-north-america-summer-safari.json) |
 | Great Invasions: The Darkages 350-1066 AD | 66718 | [66718-great-invasions-the-darkages-350-1066-ad.json](./66718-great-invasions-the-darkages-350-1066-ad.json) |
 | Great Little War Game 2 | 61321 | [61321-great-little-war-game-2.json](./61321-great-little-war-game-2.json) |
 | Great Mountain Experience | 102336 | [102336-great-mountain-experience.json](./102336-great-mountain-experience.json) |
