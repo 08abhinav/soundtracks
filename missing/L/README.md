@@ -5474,6 +5474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Records: Bloom & Rage - Tape 1 | 314260 | [314260-lost-records-bloom-and-rage-tape-1.json](./314260-lost-records-bloom-and-rage-tape-1.json) |
 | Lost Records: Bloom & Rage - Tape 2 | 314261 | [314261-lost-records-bloom-and-rage-tape-2.json](./314261-lost-records-bloom-and-rage-tape-2.json) |
 | Lost Region | 27107 | [27107-lost-region.json](./27107-lost-region.json) |
+| Lost Relics | 135578 | [135578-lost-relics.json](./135578-lost-relics.json) |
 | Lost Remnant: Roaches to Riches | 158056 | [158056-lost-remnant-roaches-to-riches.json](./158056-lost-remnant-roaches-to-riches.json) |
 | Lost Remnant: The End Tides | 170902 | [170902-lost-remnant-the-end-tides.json](./170902-lost-remnant-the-end-tides.json) |
 | Lost Remnant: Wherehouse | 163749 | [163749-lost-remnant-wherehouse.json](./163749-lost-remnant-wherehouse.json) |
