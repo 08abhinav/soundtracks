@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T19:37:10.481Z",
-  "total_soundtracks": 1605,
+  "generated_at": "2026-10-13T19:37:26.298Z",
+  "total_soundtracks": 1606,
   "games": [
     {
       "igdb_id": 7522,
@@ -18517,6 +18517,20 @@
           "spotify_url": "https://open.spotify.com/album/5mqkB8aM3mG8izuxeZt4GX",
           "apple_music_url": "",
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 1346,
+      "game_name": "Xenogears",
+      "game_url": "https://ostdb.net/games/xenogears",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/82/9d/0a/mzi.qyqgwwoa.tif/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Xenogears Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/10dZi7nBd49IImREMdZGdC",
+          "apple_music_url": "https://music.apple.com/us/album/xenogears-original-soundtrack/296408171",
+          "album_link_url": "https://album.link/i/296408171"
         }
       ]
     },
