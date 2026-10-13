@@ -1531,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayflector | 243609 | [243609-rayflector.json](./243609-rayflector.json) |
 | RayForce | 22349 | [22349-rayforce.json](./22349-rayforce.json) |
 | Raygraze | 196323 | [196323-raygraze.json](./196323-raygraze.json) |
+| Raygun Chess | 174063 | [174063-raygun-chess.json](./174063-raygun-chess.json) |
 | Rayland | 181093 | [181093-rayland.json](./181093-rayland.json) |
 | RaylaX | 97848 | [97848-raylax.json](./97848-raylax.json) |
 | Rayman | 142129 | [142129-rayman.json](./142129-rayman.json) |
@@ -3261,6 +3262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renai Bakudan | 337489 | [337489-renai-bakudan.json](./337489-renai-bakudan.json) |
 | Renai Bakumatsu Kareshi: Toki no Kanata de Hanasaku Koi | 163345 | [163345-renai-bakumatsu-kareshi-toki-no-kanata-de-hanasaku-koi.json](./163345-renai-bakumatsu-kareshi-toki-no-kanata-de-hanasaku-koi.json) |
 | Renai Banchou! Inochi Mijikashi, Koiseyo Otome! Love is Power | 221887 | [221887-renai-banchou-inochi-mijikashi-koiseyo-otome-love-is-power.json](./221887-renai-banchou-inochi-mijikashi-koiseyo-otome-love-is-power.json) |
+| Renai Karichaimashita: Koikari - Love For Hire | 174072 | [174072-renai-karichaimashita-koikari-love-for-hire.json](./174072-renai-karichaimashita-koikari-love-for-hire.json) |
 | Renai Karichaimashita: Koikari - Love For Hire - After Hours | 376587 | [376587-renai-karichaimashita-koikari-love-for-hire-after-hours.json](./376587-renai-karichaimashita-koikari-love-for-hire-after-hours.json) |
 | Renai Karichaimashita: Koikari - Love For Hire: Limited Edition | 335969 | [335969-renai-karichaimashita-koikari-love-for-hire-limited-edition.json](./335969-renai-karichaimashita-koikari-love-for-hire-limited-edition.json) |
 | Renai Kouhosei Starlight Scramble | 165537 | [165537-renai-kouhosei-starlight-scramble.json](./165537-renai-kouhosei-starlight-scramble.json) |
@@ -6383,6 +6385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rodeo Clown | 319554 | [319554-rodeo-clown.json](./319554-rodeo-clown.json) |
 | Rodeo Judge | 57068 | [57068-rodeo-judge.json](./57068-rodeo-judge.json) |
 | Rodgerbints: Romance and Scandal in High Society | 328488 | [328488-rodgerbints-romance-and-scandal-in-high-society.json](./328488-rodgerbints-romance-and-scandal-in-high-society.json) |
+| Rodina.doc | 174065 | [174065-rodina-doc.json](./174065-rodina-doc.json) |
 | Rododendron | 370721 | [370721-rododendron.json](./370721-rododendron.json) |
 | Rods: Rod Roll | 316152 | [316152-rods-rod-roll.json](./316152-rods-rod-roll.json) |
 | Rody & Mastico | 13077 | [13077-rody-and-mastico.json](./13077-rody-and-mastico.json) |
