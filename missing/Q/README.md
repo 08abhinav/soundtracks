@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Coherence | 215901 | [215901-quantum-coherence.json](./215901-quantum-coherence.json) |
 | Quantum Conquest | 295329 | [295329-quantum-conquest.json](./295329-quantum-conquest.json) |
 | Quantum Conscience | 35087 | [35087-quantum-conscience.json](./35087-quantum-conscience.json) |
+| Quantum Contact | 175150 | [175150-quantum-contact.json](./175150-quantum-contact.json) |
 | Quantum Contours | 278394 | [278394-quantum-contours.json](./278394-quantum-contours.json) |
 | Quantum Conundrum | 2448 | [2448-quantum-conundrum.json](./2448-quantum-conundrum.json) |
 | Quantum Conundrum: IKE-aramba! | 168169 | [168169-quantum-conundrum-ike-aramba.json](./168169-quantum-conundrum-ike-aramba.json) |
@@ -663,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quick Revolver | 180588 | [180588-quick-revolver.json](./180588-quick-revolver.json) |
 | Quick Scrap | 185111 | [185111-quick-scrap.json](./185111-quick-scrap.json) |
 | Quick Shooter | 62796 | [62796-quick-shooter.json](./62796-quick-shooter.json) |
+| Quick Square | 169346 | [169346-quick-square.json](./169346-quick-square.json) |
 | Quick Step | 24015 | [24015-quick-step.json](./24015-quick-step.json) |
 | Quick Thief | 250351 | [250351-quick-thief.json](./250351-quick-thief.json) |
 | Quick Tower Defence Ultimate | 212745 | [212745-quick-tower-defence-ultimate.json](./212745-quick-tower-defence-ultimate.json) |
