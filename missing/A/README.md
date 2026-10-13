@@ -3261,6 +3261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Hockey | 88618 | [88618-air-hockey.json](./88618-air-hockey.json) |
 | Air Hockey Arcade: Casual Board Game | 242589 | [242589-air-hockey-arcade-casual-board-game.json](./242589-air-hockey-arcade-casual-board-game.json) |
 | Air Hockey Blue | 197773 | [197773-air-hockey-blue.json](./197773-air-hockey-blue.json) |
+| Air Hockey Gamepack | 153699 | [153699-air-hockey-gamepack.json](./153699-air-hockey-gamepack.json) |
 | Air Hockey Halloween | 243737 | [243737-air-hockey-halloween.json](./243737-air-hockey-halloween.json) |
 | Air hockey hero | 95677 | [95677-air-hockey-hero.json](./95677-air-hockey-hero.json) |
 | Air Hockey Pink | 175177 | [175177-air-hockey-pink.json](./175177-air-hockey-pink.json) |
