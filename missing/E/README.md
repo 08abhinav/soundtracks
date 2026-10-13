@@ -605,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of the Hive | 373523 | [373523-echoes-of-the-hive.json](./373523-echoes-of-the-hive.json) |
 | Echoes of the Hollow | 393635 | [393635-echoes-of-the-hollow.json](./393635-echoes-of-the-hollow.json) |
 | Echoes of the Past | 168391 | [168391-echoes-of-the-past.json](./168391-echoes-of-the-past.json) |
+| Echoes of the Past: Kingdom of Despair | 140249 | [140249-echoes-of-the-past-kingdom-of-despair.json](./140249-echoes-of-the-past-kingdom-of-despair.json) |
 | Echoes of the Past: Royal House of Stone | 64639 | [64639-echoes-of-the-past-royal-house-of-stone.json](./64639-echoes-of-the-past-royal-house-of-stone.json) |
 | Echoes of the Past: The Citadels of Time | 64637 | [64637-echoes-of-the-past-the-citadels-of-time.json](./64637-echoes-of-the-past-the-citadels-of-time.json) |
 | Echoes of the Past: The Citadels of Time - Collector's Edition | 114346 | [114346-echoes-of-the-past-the-citadels-of-time-collectors-edition.json](./114346-echoes-of-the-past-the-citadels-of-time-collectors-edition.json) |
