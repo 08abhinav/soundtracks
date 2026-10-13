@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Coloring Break: Expansion pack 8 | 357774 | [357774-a-coloring-break-expansion-pack-8.json](./357774-a-coloring-break-expansion-pack-8.json) |
 | A Coloring Break: Expansion pack 9 | 357775 | [357775-a-coloring-break-expansion-pack-9.json](./357775-a-coloring-break-expansion-pack-9.json) |
 | A Colour Like No Other | 177351 | [177351-a-colour-like-no-other.json](./177351-a-colour-like-no-other.json) |
+| A Comfortable Burden | 155887 | [155887-a-comfortable-burden.json](./155887-a-comfortable-burden.json) |
 | A Comfy Place | 342271 | [342271-a-comfy-place.json](./342271-a-comfy-place.json) |
 | A Compendium of Ghosts | 102155 | [102155-a-compendium-of-ghosts.json](./102155-a-compendium-of-ghosts.json) |
 | A Completely Fictional Story About a City Inside a Whale | 253992 | [253992-a-completely-fictional-story-about-a-city-inside-a-whale.json](./253992-a-completely-fictional-story-about-a-city-inside-a-whale.json) |
@@ -678,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Shlong Adventure | 372122 | [372122-a-shlong-adventure.json](./372122-a-shlong-adventure.json) |
 | A Shock of Dimension | 422154 | [422154-a-shock-of-dimension.json](./422154-a-shock-of-dimension.json) |
 | A Shooty Bit | 32977 | [32977-a-shooty-bit.json](./32977-a-shooty-bit.json) |
+| A Shopping Trip to Eklan Tor | 155848 | [155848-a-shopping-trip-to-eklan-tor.json](./155848-a-shopping-trip-to-eklan-tor.json) |
 | A Short Death | 332977 | [332977-a-short-death.json](./332977-a-short-death.json) |
 | A Short Game About Nothing | 395167 | [395167-a-short-game-about-nothing.json](./395167-a-short-game-about-nothing.json) |
 | A Short Tale of Solitude | 169351 | [169351-a-short-tale-of-solitude.json](./169351-a-short-tale-of-solitude.json) |
@@ -6904,6 +6906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant Empire | 109705 | [109705-ant-empire.json](./109705-ant-empire.json) |
 | Ant Farm Simulator | 277847 | [277847-ant-farm-simulator.json](./277847-ant-farm-simulator.json) |
 | Ant Fight | 245287 | [245287-ant-fight.json](./245287-ant-fight.json) |
+| Ant Force | 155854 | [155854-ant-force.json](./155854-ant-force.json) |
 | Ant game | 183404 | [183404-ant-game.json](./183404-ant-game.json) |
 | Ant General | 257273 | [257273-ant-general.json](./257273-ant-general.json) |
 | Ant Guardians | 349395 | [349395-ant-guardians.json](./349395-ant-guardians.json) |
@@ -8318,6 +8321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archon Classic | 16208 | [16208-archon-classic.json](./16208-archon-classic.json) |
 | Archon-9: Alien Defense | 150249 | [150249-archon-9-alien-defense.json](./150249-archon-9-alien-defense.json) |
 | Archon: Initiator | 339920 | [339920-archon-initiator.json](./339920-archon-initiator.json) |
+| Archons of Doom | 155865 | [155865-archons-of-doom.json](./155865-archons-of-doom.json) |
 | Archons: Arena | 264897 | [264897-archons-arena.json](./264897-archons-arena.json) |
 | Archquest | 154056 | [154056-archquest.json](./154056-archquest.json) |
 | ArchRobo: Robotic Annihilation | 55283 | [55283-archrobo-robotic-annihilation.json](./55283-archrobo-robotic-annihilation.json) |
