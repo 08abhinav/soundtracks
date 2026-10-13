@@ -1928,6 +1928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency HD | 254388 | [254388-emergency-hd.json](./254388-emergency-hd.json) |
 | Emergency in Space | 310744 | [310744-emergency-in-space.json](./310744-emergency-in-space.json) |
 | Emergency Lüdenscheid | 346128 | [346128-emergency-ludenscheid.json](./346128-emergency-ludenscheid.json) |
+| Emergency Monster Team | 172441 | [172441-emergency-monster-team.json](./172441-emergency-monster-team.json) |
 | Emergency Riot Response | 402562 | [402562-emergency-riot-response.json](./402562-emergency-riot-response.json) |
 | Emergency Robot Simulator | 102183 | [102183-emergency-robot-simulator.json](./102183-emergency-robot-simulator.json) |
 | Emergency Room | 73861 | [73861-emergency-room.json](./73861-emergency-room.json) |
