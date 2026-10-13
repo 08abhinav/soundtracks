@@ -6471,6 +6471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click On Staplers Together | 306024 | [306024-click-on-staplers-together.json](./306024-click-on-staplers-together.json) |
 | Click on their Heads | 158189 | [158189-click-on-their-heads.json](./158189-click-on-their-heads.json) |
 | Click Painter | 309852 | [309852-click-painter.json](./309852-click-painter.json) |
+| Click Quest | 157936 | [157936-click-quest.json](./157936-click-quest.json) |
 | Click Quest 3D | 169824 | [169824-click-quest-3d.json](./169824-click-quest-3d.json) |
 | Click Quest 3D 2: Plus | 379551 | [379551-click-quest-3d-2-plus.json](./379551-click-quest-3d-2-plus.json) |
 | Click Space Miner | 31714 | [31714-click-space-miner.json](./31714-click-space-miner.json) |
@@ -7660,6 +7661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color of My Sound: Volume 1 | 309534 | [309534-color-of-my-sound-volume-1.json](./309534-color-of-my-sound-volume-1.json) |
 | Color Oil | 74710 | [74710-color-oil.json](./74710-color-oil.json) |
 | Color Patterns | 369688 | [369688-color-patterns.json](./369688-color-patterns.json) |
+| Color Phase | 157922 | [157922-color-phase.json](./157922-color-phase.json) |
 | Color Picker | 60903 | [60903-color-picker.json](./60903-color-picker.json) |
 | Color Pixel Heroes: Expansion Pack 1 | 225006 | [225006-color-pixel-heroes-expansion-pack-1.json](./225006-color-pixel-heroes-expansion-pack-1.json) |
 | Color Pixel Heroes: Expansion Pack 2 | 225007 | [225007-color-pixel-heroes-expansion-pack-2.json](./225007-color-pixel-heroes-expansion-pack-2.json) |
@@ -9873,6 +9875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countdown 1: The Body | 229147 | [229147-countdown-1-the-body.json](./229147-countdown-1-the-body.json) |
 | Countdown 2: The Soul | 229148 | [229148-countdown-2-the-soul.json](./229148-countdown-2-the-soul.json) |
 | Countdown 3: The Mind | 229149 | [229149-countdown-3-the-mind.json](./229149-countdown-3-the-mind.json) |
+| Countdown Final Zone | 157934 | [157934-countdown-final-zone.json](./157934-countdown-final-zone.json) |
 | Countdown To Death | 315707 | [315707-countdown-to-death.json](./315707-countdown-to-death.json) |
 | Countdown to Doom | 13706 | [13706-countdown-to-doom.json](./13706-countdown-to-doom.json) |
 | Countdown to Eclipse | 411413 | [411413-countdown-to-eclipse.json](./411413-countdown-to-eclipse.json) |
@@ -12657,6 +12660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse Chapter: Dawnthief | 382365 | [382365-curse-chapter-dawnthief.json](./382365-curse-chapter-dawnthief.json) |
 | Curse Errant | 278928 | [278928-curse-errant.json](./278928-curse-errant.json) |
 | Curse in our heads | 103452 | [103452-curse-in-our-heads.json](./103452-curse-in-our-heads.json) |
+| Curse Lsland | 157925 | [157925-curse-lsland.json](./157925-curse-lsland.json) |
 | Curse of Anabelle | 122826 | [122826-curse-of-anabelle.json](./122826-curse-of-anabelle.json) |
 | Curse of Blood | 258377 | [258377-curse-of-blood.json](./258377-curse-of-blood.json) |
 | Curse of Blood | 312893 | [312893-curse-of-blood.json](./312893-curse-of-blood.json) |
