@@ -12173,6 +12173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulstice | 152262 | [152262-soulstice.json](./152262-soulstice.json) |
 | Soulstice: Deluxe Edition | 201781 | [201781-soulstice-deluxe-edition.json](./201781-soulstice-deluxe-edition.json) |
 | Soulstone Survivors | 210585 | [210585-soulstone-survivors.json](./210585-soulstone-survivors.json) |
+| Soulstopia: Phi | 173212 | [173212-soulstopia-phi.json](./173212-soulstopia-phi.json) |
 | Soulstrive | 193260 | [193260-soulstrive.json](./193260-soulstrive.json) |
 | Soulsworn | 395107 | [395107-soulsworn.json](./395107-soulsworn.json) |
 | Soultia | 130939 | [130939-soultia.json](./130939-soultia.json) |
@@ -17763,6 +17764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StormRend | 184563 | [184563-stormrend.json](./184563-stormrend.json) |
 | Stormrise | 7197 | [7197-stormrise.json](./7197-stormrise.json) |
 | Storms | 130259 | [130259-storms.json](./130259-storms.json) |
+| Storms 2 | 173007 | [173007-storms-2.json](./173007-storms-2.json) |
 | Storms of Shambhala | 72363 | [72363-storms-of-shambhala.json](./72363-storms-of-shambhala.json) |
 | Stormtrooper | 15379 | [15379-stormtrooper.json](./15379-stormtrooper.json) |
 | StormWar | 188330 | [188330-stormwar.json](./188330-stormwar.json) |
@@ -22307,6 +22309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive the Orcs | 236795 | [236795-survive-the-orcs.json](./236795-survive-the-orcs.json) |
 | Survive the Silence | 368889 | [368889-survive-the-silence.json](./368889-survive-the-silence.json) |
 | Survive the Spin | 396490 | [396490-survive-the-spin.json](./396490-survive-the-spin.json) |
+| Survive the Story | 173014 | [173014-survive-the-story.json](./173014-survive-the-story.json) |
 | Survive the Swarm | 348784 | [348784-survive-the-swarm.json](./348784-survive-the-swarm.json) |
 | Survive the Troll | 219571 | [219571-survive-the-troll.json](./219571-survive-the-troll.json) |
 | Survive The Unknown | 246623 | [246623-survive-the-unknown.json](./246623-survive-the-unknown.json) |
