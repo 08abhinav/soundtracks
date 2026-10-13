@@ -6131,6 +6131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Video Game Nerd Adventures | 7960 | [7960-angry-video-game-nerd-adventures.json](./7960-angry-video-game-nerd-adventures.json) |
 | Angry World War 2 | 234070 | [234070-angry-world-war-2.json](./234070-angry-world-war-2.json) |
 | Angry Zombies | 88844 | [88844-angry-zombies.json](./88844-angry-zombies.json) |
+| Angrymals | 178364 | [178364-angrymals.json](./178364-angrymals.json) |
 | Angst | 216203 | [216203-angst.json](./216203-angst.json) |
 | Angst: A Tale of Survival | 320716 | [320716-angst-a-tale-of-survival.json](./320716-angst-a-tale-of-survival.json) |
 | Angstrom Station VR | 132669 | [132669-angstrom-station-vr.json](./132669-angstrom-station-vr.json) |
@@ -7045,6 +7046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ao no Kanata no Four Rhythm 4th Anniversary Box | 124030 | [124030-ao-no-kanata-no-four-rhythm-4th-anniversary-box.json](./124030-ao-no-kanata-no-four-rhythm-4th-anniversary-box.json) |
 | Ao no Kanata no Four Rhythm Extra1+2P | 280892 | [280892-ao-no-kanata-no-four-rhythm-extra1-2p.json](./280892-ao-no-kanata-no-four-rhythm-extra1-2p.json) |
 | Ao no Kanata no Four Rhythm Extra1S | 211381 | [211381-ao-no-kanata-no-four-rhythm-extra1s.json](./211381-ao-no-kanata-no-four-rhythm-extra1s.json) |
+| Ao no Kanata no Four Rhythm IF 01: Minamo Shirase | 178329 | [178329-ao-no-kanata-no-four-rhythm-if-01-minamo-shirase.json](./178329-ao-no-kanata-no-four-rhythm-if-01-minamo-shirase.json) |
 | Ao no Kanata no Four Rhythm: HD Edition | 136793 | [136793-ao-no-kanata-no-four-rhythm-hd-edition.json](./136793-ao-no-kanata-no-four-rhythm-hd-edition.json) |
 | Ao Oni 2 | 54708 | [54708-ao-oni-2.json](./54708-ao-oni-2.json) |
 | Ao Oni X | 313275 | [313275-ao-oni-x.json](./313275-ao-oni-x.json) |
