@@ -1955,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Time Attack | 290698 | [290698-real-time-attack.json](./290698-real-time-attack.json) |
 | Real Time Battle Shogi | 119586 | [119586-real-time-battle-shogi.json](./119586-real-time-battle-shogi.json) |
 | Real Time Conflict: Shogun Empires | 20494 | [20494-real-time-conflict-shogun-empires.json](./20494-real-time-conflict-shogun-empires.json) |
+| Real Time Shields | 175668 | [175668-real-time-shields.json](./175668-real-time-shields.json) |
 | Real Truck Simulator 2022 | 219283 | [219283-real-truck-simulator-2022.json](./219283-real-truck-simulator-2022.json) |
 | Real Truck Simulator USA Car Games: Premium Millionaire Bundle | 328989 | [328989-real-truck-simulator-usa-car-games-premium-millionaire-bundle.json](./328989-real-truck-simulator-usa-car-games-premium-millionaire-bundle.json) |
 | Real War | 27595 | [27595-real-war.json](./27595-real-war.json) |
@@ -3421,6 +3422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RePulse-X | 373312 | [373312-repulse-x.json](./373312-repulse-x.json) |
 | Repulse: Galactic Rivals | 75166 | [75166-repulse-galactic-rivals.json](./75166-repulse-galactic-rivals.json) |
 | Repulsor | 199593 | [199593-repulsor.json](./199593-repulsor.json) |
+| Repulsor: Pod-Racing Game | 176390 | [176390-repulsor-pod-racing-game.json](./176390-repulsor-pod-racing-game.json) |
 | Repulze | 193703 | [193703-repulze.json](./193703-repulze.json) |
 | Repunk | 255675 | [255675-repunk.json](./255675-repunk.json) |
 | Requeue | 183972 | [183972-requeue.json](./183972-requeue.json) |
@@ -3825,6 +3827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrace | 116873 | [116873-retrace.json](./116873-retrace.json) |
 | ReTrace | 401045 | [401045-retrace.json](./401045-retrace.json) |
 | Retrace the Light | 224693 | [224693-retrace-the-light.json](./224693-retrace-the-light.json) |
+| Retract: Battle Royale | 175675 | [175675-retract-battle-royale.json](./175675-retract-battle-royale.json) |
 | Retribution | 324966 | [324966-retribution.json](./324966-retribution.json) |
 | Retribution | 94404 | [94404-retribution.json](./94404-retribution.json) |
 | Retribution: Universal Requiem | 164875 | [164875-retribution-universal-requiem.json](./164875-retribution-universal-requiem.json) |
@@ -4854,6 +4857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Right and Down and Dice | 238600 | [238600-right-and-down-and-dice.json](./238600-right-and-down-and-dice.json) |
 | Right and Down Double Bundle | 294855 | [294855-right-and-down-double-bundle.json](./294855-right-and-down-double-bundle.json) |
 | Right Click To Activate Translator | 352362 | [352362-right-click-to-activate-translator.json](./352362-right-click-to-activate-translator.json) |
+| Right Click to Necromance | 175844 | [175844-right-click-to-necromance.json](./175844-right-click-to-necromance.json) |
 | Right or Die! | 289240 | [289240-right-or-die.json](./289240-right-or-die.json) |
 | Right Swipes: Blast Date | 200735 | [200735-right-swipes-blast-date.json](./200735-right-swipes-blast-date.json) |
 | Right Way | 157047 | [157047-right-way.json](./157047-right-way.json) |
@@ -7992,6 +7996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Ranker | 197722 | [197722-rune-ranker.json](./197722-rune-ranker.json) |
 | Rune Rhetoric | 280902 | [280902-rune-rhetoric.json](./280902-rune-rhetoric.json) |
 | Rune Stones | 304656 | [304656-rune-stones.json](./304656-rune-stones.json) |
+| Rune Sword | 175676 | [175676-rune-sword.json](./175676-rune-sword.json) |
 | Rune Tavern | 407341 | [407341-rune-tavern.json](./407341-rune-tavern.json) |
 | Rune Teller | 209731 | [209731-rune-teller.json](./209731-rune-teller.json) |
 | Rune Worth 2: Jikuu no Shinsen | 297593 | [297593-rune-worth-2-jikuu-no-shinsen.json](./297593-rune-worth-2-jikuu-no-shinsen.json) |
