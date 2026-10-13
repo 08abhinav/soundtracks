@@ -1211,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Randomice | 294044 | [294044-randomice.json](./294044-randomice.json) |
 | RandoMine | 221098 | [221098-randomine.json](./221098-randomine.json) |
 | Randomish | 217400 | [217400-randomish.json](./217400-randomish.json) |
+| Randomish Races | 144027 | [144027-randomish-races.json](./144027-randomish-races.json) |
 | Randomlands | 156602 | [156602-randomlands.json](./156602-randomlands.json) |
 | Randompunk 2077 | 182773 | [182773-randompunk-2077.json](./182773-randompunk-2077.json) |
 | Randotura | 325694 | [325694-randotura.json](./325694-randotura.json) |
@@ -6088,6 +6089,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Angels Inc | 239770 | [239770-rocket-angels-inc.json](./239770-rocket-angels-inc.json) |
 | Rocket Arena | 118565 | [118565-rocket-arena.json](./118565-rocket-arena.json) |
 | Rocket Arena: Mythic Edition | 136456 | [136456-rocket-arena-mythic-edition.json](./136456-rocket-arena-mythic-edition.json) |
+| Rocket Arena: Season 2 | 144043 | [144043-rocket-arena-season-2.json](./144043-rocket-arena-season-2.json) |
+| Rocket Arena: Season 3 | 144044 | [144044-rocket-arena-season-3.json](./144044-rocket-arena-season-3.json) |
 | Rocket Bits | 196311 | [196311-rocket-bits.json](./196311-rocket-bits.json) |
 | Rocket Boots Mania | 112218 | [112218-rocket-boots-mania.json](./112218-rocket-boots-mania.json) |
 | Rocket Brown 2 | 317342 | [317342-rocket-brown-2.json](./317342-rocket-brown-2.json) |
@@ -6987,6 +6990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romeo | 71527 | [71527-romeo.json](./71527-romeo.json) |
 | Romeo & Juliet | 145667 | [145667-romeo-and-juliet.json](./145667-romeo-and-juliet.json) |
 | Romeo & Juliet | 52726 | [52726-romeo-and-juliet.json](./52726-romeo-and-juliet.json) |
+| Romeo Must Live | 144020 | [144020-romeo-must-live.json](./144020-romeo-must-live.json) |
 | Romeo vs. Juliet: All Series Pack | 59447 | [59447-romeo-vs-juliet-all-series-pack.json](./59447-romeo-vs-juliet-all-series-pack.json) |
 | Romeow & Julicat | 141109 | [141109-romeow-and-julicat.json](./141109-romeow-and-julicat.json) |
 | Romero's Aftermath | 26714 | [26714-romeros-aftermath.json](./26714-romeros-aftermath.json) |
