@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T08:35:31.174Z",
-  "total_soundtracks": 1572,
+  "generated_at": "2026-10-13T08:35:48.730Z",
+  "total_soundtracks": 1573,
   "games": [
     {
       "igdb_id": 7522,
@@ -15583,6 +15583,20 @@
           "spotify_url": "https://open.spotify.com/album/591Ne4vDjXZbr9O5NZOVyB",
           "apple_music_url": "https://music.apple.com/us/album/the-forgotten-city-original-score/1581064512",
           "album_link_url": "https://album.link/i/1581064512"
+        }
+      ]
+    },
+    {
+      "igdb_id": 136000,
+      "game_name": "The Gunk",
+      "game_url": "https://ostdb.net/games/the-gunk",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e5547467d3ef0387d24fc56c",
+      "albums": [
+        {
+          "album_name": "The Gunk (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0u54Iiqqzh1J63VXqMpoj7",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
