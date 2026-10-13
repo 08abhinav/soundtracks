@@ -4967,6 +4967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Code | 62727 | [62727-pirate-code.json](./62727-pirate-code.json) |
 | Pirate Coin Dozer | 60624 | [60624-pirate-coin-dozer.json](./60624-pirate-coin-dozer.json) |
 | Pirate Combat Trainer | 310162 | [310162-pirate-combat-trainer.json](./310162-pirate-combat-trainer.json) |
+| Pirate Commander | 139689 | [139689-pirate-commander.json](./139689-pirate-commander.json) |
 | Pirate Cove Simulator | 326381 | [326381-pirate-cove-simulator.json](./326381-pirate-cove-simulator.json) |
 | Pirate Cubes | 85720 | [85720-pirate-cubes.json](./85720-pirate-cubes.json) |
 | Pirate Dawn | 62414 | [62414-pirate-dawn.json](./62414-pirate-dawn.json) |
