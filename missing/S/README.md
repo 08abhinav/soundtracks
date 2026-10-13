@@ -6029,6 +6029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Maps for Short People 3 | 281358 | [281358-short-maps-for-short-people-3.json](./281358-short-maps-for-short-people-3.json) |
 | Short Memories | 340372 | [340372-short-memories.json](./340372-short-memories.json) |
 | Short Night | 266773 | [266773-short-night.json](./266773-short-night.json) |
+| Short Rest | 177255 | [177255-short-rest.json](./177255-short-rest.json) |
 | Short Sad Stories | 278364 | [278364-short-sad-stories.json](./278364-short-sad-stories.json) |
 | Short Short Fictions | 369103 | [369103-short-short-fictions.json](./369103-short-short-fictions.json) |
 | Short Snow | 309867 | [309867-short-snow.json](./309867-short-snow.json) |
@@ -8584,6 +8585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slenderman Saw Game | 385596 | [385596-slenderman-saw-game.json](./385596-slenderman-saw-game.json) |
 | Slenderman: Shadow of the Forest | 340551 | [340551-slenderman-shadow-of-the-forest.json](./340551-slenderman-shadow-of-the-forest.json) |
 | Slenderman: The Game | 79818 | [79818-slenderman-the-game.json](./79818-slenderman-the-game.json) |
+| Slenderman's Shadow | 177282 | [177282-slendermans-shadow.json](./177282-slendermans-shadow.json) |
 | Slenderman's Shadow 7th Street | 50163 | [50163-slendermans-shadow-7th-street.json](./50163-slendermans-shadow-7th-street.json) |
 | Slendr | 64361 | [64361-slendr.json](./64361-slendr.json) |
 | Slendrina | 233774 | [233774-slendrina.json](./233774-slendrina.json) |
