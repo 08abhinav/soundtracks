@@ -3994,6 +3994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Walk | 63882 | [63882-winter-walk.json](./63882-winter-walk.json) |
 | Winter Walk 2006 | 326780 | [326780-winter-walk-2006.json](./326780-winter-walk-2006.json) |
 | Winter Wally | 60036 | [60036-winter-wally.json](./60036-winter-wally.json) |
+| Winter Wastelands | 166849 | [166849-winter-wastelands.json](./166849-winter-wastelands.json) |
 | Winter Winds | 307886 | [307886-winter-winds.json](./307886-winter-winds.json) |
 | Winter Witch | 359022 | [359022-winter-witch.json](./359022-winter-witch.json) |
 | Winter With You | 188108 | [188108-winter-with-you.json](./188108-winter-with-you.json) |
