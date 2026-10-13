@@ -6052,6 +6052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honeycomb Hotel | 366228 | [366228-honeycomb-hotel.json](./366228-honeycomb-hotel.json) |
 | Honeycomb Hotel ZEN | 96056 | [96056-honeycomb-hotel-zen.json](./96056-honeycomb-hotel-zen.json) |
 | HoneyCombat | 177775 | [177775-honeycombat.json](./177775-honeycombat.json) |
+| HoneyHoneyHoney! | 164604 | [164604-honeyhoneyhoney.json](./164604-honeyhoneyhoney.json) |
 | HoneyLand | 167597 | [167597-honeyland.json](./167597-honeyland.json) |
 | Honeypot | 215785 | [215785-honeypot.json](./215785-honeypot.json) |
 | HoneySun | 260407 | [260407-honeysun.json](./260407-honeysun.json) |
