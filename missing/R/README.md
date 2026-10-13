@@ -5157,6 +5157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Village Hero | 296484 | [296484-rise-of-the-village-hero.json](./296484-rise-of-the-village-hero.json) |
 | Rise of the White Flower | 387043 | [387043-rise-of-the-white-flower.json](./387043-rise-of-the-white-flower.json) |
 | Rise of the White Sun: The Yellow Way | 312030 | [312030-rise-of-the-white-sun-the-yellow-way.json](./312030-rise-of-the-white-sun-the-yellow-way.json) |
+| Rise of Three Kingdoms | 172068 | [172068-rise-of-three-kingdoms.json](./172068-rise-of-three-kingdoms.json) |
 | Rise of Transport | 365882 | [365882-rise-of-transport.json](./365882-rise-of-transport.json) |
 | Rise of Venice: Beyond the Sea | 10775 | [10775-rise-of-venice-beyond-the-sea.json](./10775-rise-of-venice-beyond-the-sea.json) |
 | Rise of Venice: Gold Edition | 53510 | [53510-rise-of-venice-gold-edition.json](./53510-rise-of-venice-gold-edition.json) |
@@ -6208,6 +6209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman 8 FC | 137116 | [137116-rockman-8-fc.json](./137116-rockman-8-fc.json) |
 | Rockman 8 Metal Heroes Famicom | 142354 | [142354-rockman-8-metal-heroes-famicom.json](./142354-rockman-8-metal-heroes-famicom.json) |
 | Rockman Battle & Fighters | 75515 | [75515-rockman-battle-and-fighters.json](./75515-rockman-battle-and-fighters.json) |
+| Rockman Dash / Rockman Dash 2 Value Pack | 171885 | [171885-rockman-dash-rockman-dash-2-value-pack.json](./171885-rockman-dash-rockman-dash-2-value-pack.json) |
 | Rockman Dash Zhěngjiù Dìqiú Dàmàoxiǎn | 290875 | [290875-rockman-dash-zhengjiu-diqiu-damaoxian.json](./290875-rockman-dash-zhengjiu-diqiu-damaoxian.json) |
 | Rockman Dash: 5tsu no Shima no Daibouken! | 229209 | [229209-rockman-dash-5tsu-no-shima-no-daibouken.json](./229209-rockman-dash-5tsu-no-shima-no-daibouken.json) |
 | Rockman Dash: Hagane no Boukenshin | 44060 | [44060-rockman-dash-hagane-no-boukenshin.json](./44060-rockman-dash-hagane-no-boukenshin.json) |
@@ -7605,6 +7607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubelike | 176377 | [176377-rubelike.json](./176377-rubelike.json) |
 | Rubi: The Wayward Mira | 55180 | [55180-rubi-the-wayward-mira.json](./55180-rubi-the-wayward-mira.json) |
 | Rubi's Room | 26882 | [26882-rubis-room.json](./26882-rubis-room.json) |
+| Rubicon | 172079 | [172079-rubicon.json](./172079-rubicon.json) |
 | Rubicon | 197678 | [197678-rubicon.json](./197678-rubicon.json) |
 | Rubicon | 79242 | [79242-rubicon.json](./79242-rubicon.json) |
 | Rubicon Approach | 83944 | [83944-rubicon-approach.json](./83944-rubicon-approach.json) |
