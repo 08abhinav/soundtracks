@@ -4632,6 +4632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Byte | 150438 | [150438-the-byte.json](./150438-the-byte.json) |
 | The C64 Collection 1 | 214533 | [214533-the-c64-collection-1.json](./214533-the-c64-collection-1.json) |
 | The C64 Collection 2 | 239138 | [239138-the-c64-collection-2.json](./239138-the-c64-collection-2.json) |
+| The Cabbage Effect | 134953 | [134953-the-cabbage-effect.json](./134953-the-cabbage-effect.json) |
 | The Cabin Factory | 325273 | [325273-the-cabin-factory.json](./325273-the-cabin-factory.json) |
 | The Cabin Game | 398960 | [398960-the-cabin-game.json](./398960-the-cabin-game.json) |
 | The Cabin: VR Escape the Room | 30389 | [30389-the-cabin-vr-escape-the-room.json](./30389-the-cabin-vr-escape-the-room.json) |
@@ -7023,6 +7024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hero Is Too Powerful so Let's Pleeeease Settle This Peacefully! | 372806 | [372806-the-hero-is-too-powerful-so-lets-pleeeease-settle-this-peacefully.json](./372806-the-hero-is-too-powerful-so-lets-pleeeease-settle-this-peacefully.json) |
 | The Hero Journey in Yggdrasil | 241274 | [241274-the-hero-journey-in-yggdrasil.json](./241274-the-hero-journey-in-yggdrasil.json) |
 | The Hero of Bangaona | 173067 | [173067-the-hero-of-bangaona.json](./173067-the-hero-of-bangaona.json) |
+| The Hero of Budgie Island | 134966 | [134966-the-hero-of-budgie-island.json](./134966-the-hero-of-budgie-island.json) |
 | The Hero of Destiny Was Killed by the Final Boss | 386940 | [386940-the-hero-of-destiny-was-killed-by-the-final-boss.json](./386940-the-hero-of-destiny-was-killed-by-the-final-boss.json) |
 | The Hero Of Pixel Spire | 370912 | [370912-the-hero-of-pixel-spire.json](./370912-the-hero-of-pixel-spire.json) |
 | The Hero Project: Open Season | 96193 | [96193-the-hero-project-open-season.json](./96193-the-hero-project-open-season.json) |
@@ -13411,6 +13413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Those Infernal Girls! | 225744 | [225744-those-infernal-girls.json](./225744-those-infernal-girls.json) |
 | Those Left Behind | 212854 | [212854-those-left-behind.json](./212854-those-left-behind.json) |
 | Those Nights at Ring's 2 | 336360 | [336360-those-nights-at-rings-2.json](./336360-those-nights-at-rings-2.json) |
+| Those Spacecrafts | 134970 | [134970-those-spacecrafts.json](./134970-those-spacecrafts.json) |
 | Those Who Came: Healing Solarus | 175647 | [175647-those-who-came-healing-solarus.json](./175647-those-who-came-healing-solarus.json) |
 | Those Who Crawl | 230803 | [230803-those-who-crawl.json](./230803-those-who-crawl.json) |
 | Those Who Remain | 83848 | [83848-those-who-remain.json](./83848-those-who-remain.json) |
