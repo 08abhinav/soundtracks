@@ -7611,6 +7611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blut Club | 229103 | [229103-blut-club.json](./229103-blut-club.json) |
 | Blutkapelle | 420555 | [420555-blutkapelle.json](./420555-blutkapelle.json) |
 | Blym | 108914 | [108914-blym.json](./108914-blym.json) |
+| Blyss | 174578 | [174578-blyss.json](./174578-blyss.json) |
 | Blyte | 358867 | [358867-blyte.json](./358867-blyte.json) |
 | Blythe | 287904 | [287904-blythe.json](./287904-blythe.json) |
 | Blyx | 272859 | [272859-blyx.json](./272859-blyx.json) |
