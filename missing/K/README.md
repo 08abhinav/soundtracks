@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kabaneri of the Iron Fortress: Ran - Hajimaru Michiato | 89983 | [89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json](./89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json) |
 | Kabedon Kareshi: Manatsu no Charao | 240227 | [240227-kabedon-kareshi-manatsu-no-charao.json](./240227-kabedon-kareshi-manatsu-no-charao.json) |
 | Kabobber | 40684 | [40684-kabobber.json](./40684-kabobber.json) |
+| KabochaFarm | 150970 | [150970-kabochafarm.json](./150970-kabochafarm.json) |
 | Kabod Online | 65209 | [65209-kabod-online.json](./65209-kabod-online.json) |
 | Kaboom Swing | 179151 | [179151-kaboom-swing.json](./179151-kaboom-swing.json) |
 | Kaboom: The Suicide Bombing Game | 174111 | [174111-kaboom-the-suicide-bombing-game.json](./174111-kaboom-the-suicide-bombing-game.json) |
@@ -994,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep Trying! Zombie Apocalypse | 155015 | [155015-keep-trying-zombie-apocalypse.json](./155015-keep-trying-zombie-apocalypse.json) |
 | Keep Up | 277580 | [277580-keep-up.json](./277580-keep-up.json) |
 | Keep Walking | 114751 | [114751-keep-walking.json](./114751-keep-walking.json) |
+| Keep Wall | 150962 | [150962-keep-wall.json](./150962-keep-wall.json) |
 | Keep Watering | 406930 | [406930-keep-watering.json](./406930-keep-watering.json) |
 | Keep Yourself Alive | 124720 | [124720-keep-yourself-alive.json](./124720-keep-yourself-alive.json) |
 | Keeper | 152141 | [152141-keeper.json](./152141-keeper.json) |
@@ -1587,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Commando II | 270210 | [270210-kill-commando-ii.json](./270210-kill-commando-ii.json) |
 | Kill Crab | 255124 | [255124-kill-crab.json](./255124-kill-crab.json) |
 | Kill Dad | 126034 | [126034-kill-dad.json](./126034-kill-dad.json) |
+| Kill Demons | 150951 | [150951-kill-demons.json](./150951-kill-demons.json) |
 | Kill H1N1 | 394208 | [394208-kill-h1n1.json](./394208-kill-h1n1.json) |
 | Kill Him! Online Wars | 102880 | [102880-kill-him-online-wars.json](./102880-kill-him-online-wars.json) |
 | Kill Invaders | 278714 | [278714-kill-invaders.json](./278714-kill-invaders.json) |
