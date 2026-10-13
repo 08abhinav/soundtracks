@@ -5119,6 +5119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExTime: Primal Menace | 245922 | [245922-extime-primal-menace.json](./245922-extime-primal-menace.json) |
 | Extinct Forest | 379047 | [379047-extinct-forest.json](./379047-extinct-forest.json) |
 | eXtinction | 221978 | [221978-extinction.json](./221978-extinction.json) |
+| Extinction | 175648 | [175648-extinction.json](./175648-extinction.json) |
 | Extinction / Zombie İnvasion 1 | 368280 | [368280-extinction-zombie-invasion-1.json](./368280-extinction-zombie-invasion-1.json) |
 | Extinction 1306 | 337164 | [337164-extinction-1306.json](./337164-extinction-1306.json) |
 | Extinction Day | 325552 | [325552-extinction-day.json](./325552-extinction-day.json) |
