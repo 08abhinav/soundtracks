@@ -9360,6 +9360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smerch Battle Arena | 158638 | [158638-smerch-battle-arena.json](./158638-smerch-battle-arena.json) |
 | Smetanka | 156213 | [156213-smetanka.json](./156213-smetanka.json) |
 | SmFly: Gravity Adventure | 150967 | [150967-smfly-gravity-adventure.json](./150967-smfly-gravity-adventure.json) |
+| SMFly: Ice Age | 148869 | [148869-smfly-ice-age.json](./148869-smfly-ice-age.json) |
 | SMH | 277393 | [277393-smh.json](./277393-smh.json) |
 | SMIB: Mission Cure | 157415 | [157415-smib-mission-cure.json](./157415-smib-mission-cure.json) |
 | Smile | 129706 | [129706-smile.json](./129706-smile.json) |
@@ -9852,6 +9853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Hunter Shooter | 264581 | [264581-sniper-hunter-shooter.json](./264581-sniper-hunter-shooter.json) |
 | Sniper Killer | 249933 | [249933-sniper-killer.json](./249933-sniper-killer.json) |
 | Sniper Master: City Hunter | 227482 | [227482-sniper-master-city-hunter.json](./227482-sniper-master-city-hunter.json) |
+| Sniper Operation Z | 148871 | [148871-sniper-operation-z.json](./148871-sniper-operation-z.json) |
 | Sniper Ops 3D | 88297 | [88297-sniper-ops-3d.json](./88297-sniper-ops-3d.json) |
 | Sniper Rescue | 291172 | [291172-sniper-rescue.json](./291172-sniper-rescue.json) |
 | Sniper Road | 190956 | [190956-sniper-road.json](./190956-sniper-road.json) |
@@ -13361,6 +13363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacey Vade | 158153 | [158153-spacey-vade.json](./158153-spacey-vade.json) |
 | Spacey-Clopedia | 272484 | [272484-spacey-clopedia.json](./272484-spacey-clopedia.json) |
 | Spacy Shuffle Puck | 91520 | [91520-spacy-shuffle-puck.json](./91520-spacy-shuffle-puck.json) |
+| Spade no Kuni no Alice: Wonderful White World | 148840 | [148840-spade-no-kuni-no-alice-wonderful-white-world.json](./148840-spade-no-kuni-no-alice-wonderful-white-world.json) |
 | Spades | 88610 | [88610-spades.json](./88610-spades.json) |
 | Spades HD | 355000 | [355000-spades-hd.json](./355000-spades-hd.json) |
 | Spades Pro | 86691 | [86691-spades-pro.json](./86691-spades-pro.json) |
@@ -13752,6 +13755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpeedRage | 72041 | [72041-speedrage.json](./72041-speedrage.json) |
 | SpeedRooms | 268957 | [268957-speedrooms.json](./268957-speedrooms.json) |
 | Speedrun | 140924 | [140924-speedrun.json](./140924-speedrun.json) |
+| Speedrun | 148854 | [148854-speedrun.json](./148854-speedrun.json) |
 | Speedrun Squid | 185133 | [185133-speedrun-squid.json](./185133-speedrun-squid.json) |
 | Speedrun the Game | 159309 | [159309-speedrun-the-game.json](./159309-speedrun-the-game.json) |
 | Speedrun World | 405669 | [405669-speedrun-world.json](./405669-speedrun-world.json) |
@@ -15490,6 +15494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stampholder Value | 392389 | [392389-stampholder-value.json](./392389-stampholder-value.json) |
 | Stamps ‘n Papers | 346694 | [346694-stamps-n-papers.json](./346694-stamps-n-papers.json) |
 | Stan | 326277 | [326277-stan.json](./326277-stan.json) |
+| Stan Lee's Verticus | 148860 | [148860-stan-lees-verticus.json](./148860-stan-lees-verticus.json) |
 | StanÇact: Sexy Tenacious Girls | 264621 | [264621-stancact-sexy-tenacious-girls.json](./264621-stancact-sexy-tenacious-girls.json) |
 | Stand 'em Up | 152153 | [152153-stand-em-up.json](./152153-stand-em-up.json) |
 | Stand and Fight | 259448 | [259448-stand-and-fight.json](./259448-stand-and-fight.json) |
@@ -19159,6 +19164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudden Strike Trilogy | 53682 | [53682-sudden-strike-trilogy.json](./53682-sudden-strike-trilogy.json) |
 | Sudden Strike: Forever | 81471 | [81471-sudden-strike-forever.json](./81471-sudden-strike-forever.json) |
 | Sudden Strike: Resource War | 27609 | [27609-sudden-strike-resource-war.json](./27609-sudden-strike-resource-war.json) |
+| Sudden Way | 148834 | [148834-sudden-way.json](./148834-sudden-way.json) |
 | Suddenly an Ogre | 308493 | [308493-suddenly-an-ogre.json](./308493-suddenly-an-ogre.json) |
 | Suddenly Bird | 274672 | [274672-suddenly-bird.json](./274672-suddenly-bird.json) |
 | Suddenly Meow | 166810 | [166810-suddenly-meow.json](./166810-suddenly-meow.json) |
@@ -19289,6 +19295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku3D | 113193 | [113193-sudoku3d.json](./113193-sudoku3d.json) |
 | Sudokuball Detective | 10930 | [10930-sudokuball-detective.json](./10930-sudokuball-detective.json) |
 | SudoKube | 193451 | [193451-sudokube.json](./193451-sudokube.json) |
+| Sudokumaniacs | 148880 | [148880-sudokumaniacs.json](./148880-sudokumaniacs.json) |
 | Sudokuro | 123454 | [123454-sudokuro.json](./123454-sudokuro.json) |
 | Sudokuro: Sudoku & Kakuro Games | 337677 | [337677-sudokuro-sudoku-and-kakuro-games.json](./337677-sudokuro-sudoku-and-kakuro-games.json) |
 | Sudoqube | 204853 | [204853-sudoqube.json](./204853-sudoqube.json) |
