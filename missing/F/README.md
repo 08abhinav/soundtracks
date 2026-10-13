@@ -456,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Fire: Defender of the Fairies | 132775 | [132775-fairy-fire-defender-of-the-fairies.json](./132775-fairy-fire-defender-of-the-fairies.json) |
 | Fairy Forge | 418282 | [418282-fairy-forge.json](./418282-fairy-forge.json) |
 | Fairy Glade | 175980 | [175980-fairy-glade.json](./175980-fairy-glade.json) |
+| Fairy Godmother Stories: Miraculous Dream - Collector's Edition | 166805 | [166805-fairy-godmother-stories-miraculous-dream-collectors-edition.json](./166805-fairy-godmother-stories-miraculous-dream-collectors-edition.json) |
 | Fairy Godmother Stories: Puss in Boots Collector's Edition | 151202 | [151202-fairy-godmother-stories-puss-in-boots-collectors-edition.json](./151202-fairy-godmother-stories-puss-in-boots-collectors-edition.json) |
 | Fairy Godmother Tycoon | 68634 | [68634-fairy-godmother-tycoon.json](./68634-fairy-godmother-tycoon.json) |
 | Fairy Godmother's Pumpkin Surprise | 246527 | [246527-fairy-godmothers-pumpkin-surprise.json](./246527-fairy-godmothers-pumpkin-surprise.json) |
@@ -566,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fake World | 55270 | [55270-fake-world.json](./55270-fake-world.json) |
 | Fake/SuperSonia | 59233 | [59233-fake-supersonia.json](./59233-fake-supersonia.json) |
 | Fakespearean: Overdramatic | 118254 | [118254-fakespearean-overdramatic.json](./118254-fakespearean-overdramatic.json) |
+| Falafel Restaurant Simulator | 166840 | [166840-falafel-restaurant-simulator.json](./166840-falafel-restaurant-simulator.json) |
 | Falafel Tycoon | 152837 | [152837-falafel-tycoon.json](./152837-falafel-tycoon.json) |
 | Falaz | 374811 | [374811-falaz.json](./374811-falaz.json) |
 | Falcão & a cornopopéia brasileira | 245041 | [245041-falcao-and-a-cornopopeia-brasileira.json](./245041-falcao-and-a-cornopopeia-brasileira.json) |
@@ -1200,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasic Tambourine | 129537 | [129537-fantasic-tambourine.json](./129537-fantasic-tambourine.json) |
 | Fantasization | 68593 | [68593-fantasization.json](./68593-fantasization.json) |
 | Fantasma | 153915 | [153915-fantasma.json](./153915-fantasma.json) |
+| Fantasma Ville | 166826 | [166826-fantasma-ville.json](./166826-fantasma-ville.json) |
 | FantaStep | 97526 | [97526-fantastep.json](./97526-fantastep.json) |
 | Fantasteroids | 218588 | [218588-fantasteroids.json](./218588-fantasteroids.json) |
 | Fantastic 4 | 3914 | [3914-fantastic-4.json](./3914-fantastic-4.json) |
@@ -1921,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Burger Simulator | 230411 | [230411-fast-burger-simulator.json](./230411-fast-burger-simulator.json) |
 | Fast cars racing | 108381 | [108381-fast-cars-racing.json](./108381-fast-cars-racing.json) |
 | Fast Cars Small Islands | 284912 | [284912-fast-cars-small-islands.json](./284912-fast-cars-small-islands.json) |
+| Fast Cubes | 166818 | [166818-fast-cubes.json](./166818-fast-cubes.json) |
 | Fast Delivery | 192672 | [192672-fast-delivery.json](./192672-fast-delivery.json) |
 | Fast Diamonds | 260770 | [260770-fast-diamonds.json](./260770-fast-diamonds.json) |
 | Fast Drive: Extreme Race & Drift | 88002 | [88002-fast-drive-extreme-race-and-drift.json](./88002-fast-drive-extreme-race-and-drift.json) |
