@@ -1278,6 +1278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warpie | 188034 | [188034-warpie.json](./188034-warpie.json) |
 | Warpin: Creation (VR) | 30724 | [30724-warpin-creation-vr.json](./30724-warpin-creation-vr.json) |
 | WarPlan | 125460 | [125460-warplan.json](./125460-warplan.json) |
+| WarPlan Pacific | 143426 | [143426-warplan-pacific.json](./143426-warplan-pacific.json) |
 | Warplane Inc. | 152801 | [152801-warplane-inc.json](./152801-warplane-inc.json) |
 | Warplane Quest | 211105 | [211105-warplane-quest.json](./211105-warplane-quest.json) |
 | Warplanes Bundle | 238436 | [238436-warplanes-bundle.json](./238436-warplanes-bundle.json) |
