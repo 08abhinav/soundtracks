@@ -6012,6 +6012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Strike | 68338 | [68338-football-strike.json](./68338-football-strike.json) |
 | Football Striker 2024 | 304264 | [304264-football-striker-2024.json](./304264-football-striker-2024.json) |
 | Football Striker 2025 | 335834 | [335834-football-striker-2025.json](./335834-football-striker-2025.json) |
+| Football Sumos | 175149 | [175149-football-sumos.json](./175149-football-sumos.json) |
 | Football Superstar 2 | 317008 | [317008-football-superstar-2.json](./317008-football-superstar-2.json) |
 | Football Survivors | 390197 | [390197-football-survivors.json](./390197-football-survivors.json) |
 | Football Thug Life Soccer | 255741 | [255741-football-thug-life-soccer.json](./255741-football-thug-life-soccer.json) |
@@ -7963,6 +7964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FrogJump | 224242 | [224242-frogjump.json](./224242-frogjump.json) |
 | FrogLake | 267464 | [267464-froglake.json](./267464-froglake.json) |
 | Froglet | 262402 | [262402-froglet.json](./262402-froglet.json) |
+| Froglike: The Frog Roguelike | 174586 | [174586-froglike-the-frog-roguelike.json](./174586-froglike-the-frog-roguelike.json) |
 | Froglin Friend and the White Tower: Pt1 | 210692 | [210692-froglin-friend-and-the-white-tower-pt1.json](./210692-froglin-friend-and-the-white-tower-pt1.json) |
 | Frogmageddon | 322799 | [322799-frogmageddon.json](./322799-frogmageddon.json) |
 | Frogman Magmaborn | 190144 | [190144-frogman-magmaborn.json](./190144-frogman-magmaborn.json) |
@@ -8307,6 +8309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Slice | 249270 | [249270-fruit-slice.json](./249270-fruit-slice.json) |
 | Fruit Slice by Motion Capture | 289261 | [289261-fruit-slice-by-motion-capture.json](./289261-fruit-slice-by-motion-capture.json) |
 | Fruit Slide | 359993 | [359993-fruit-slide.json](./359993-fruit-slide.json) |
+| Fruit Smash | 174775 | [174775-fruit-smash.json](./174775-fruit-smash.json) |
 | Fruit Stand Fortune | 330980 | [330980-fruit-stand-fortune.json](./330980-fruit-stand-fortune.json) |
 | Fruit Sudoku | 334750 | [334750-fruit-sudoku.json](./334750-fruit-sudoku.json) |
 | Fruit Switch | 265599 | [265599-fruit-switch.json](./265599-fruit-switch.json) |
@@ -8322,6 +8325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruitimo! | 352216 | [352216-fruitimo.json](./352216-fruitimo.json) |
 | Fruitio | 294288 | [294288-fruitio.json](./294288-fruitio.json) |
 | Fruitito | 256192 | [256192-fruitito.json](./256192-fruitito.json) |
+| FruitLand | 175135 | [175135-fruitland.json](./175135-fruitland.json) |
 | Fruits | 314413 | [314413-fruits.json](./314413-fruits.json) |
 | Fruits | 94535 | [94535-fruits.json](./94535-fruits.json) |
 | Fruits - Connect the Dots and Add Colors | 87908 | [87908-fruits-connect-the-dots-and-add-colors.json](./87908-fruits-connect-the-dots-and-add-colors.json) |
