@@ -10095,12 +10095,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covert Operations | 311709 | [311709-covert-operations.json](./311709-covert-operations.json) |
 | Covert Ops: Nuclear Dawn | 4137 | [4137-covert-ops-nuclear-dawn.json](./4137-covert-ops-nuclear-dawn.json) |
 | Covetous | 138188 | [138188-covetous.json](./138188-covetous.json) |
+| Covid | 147173 | [147173-covid.json](./147173-covid.json) |
 | Covid '99 | 140514 | [140514-covid-99.json](./140514-covid-99.json) |
 | Covid 2069 | 167758 | [167758-covid-2069.json](./167758-covid-2069.json) |
 | Covid 23: Test Labs | 255975 | [255975-covid-23-test-labs.json](./255975-covid-23-test-labs.json) |
+| Covid Cafe | 147171 | [147171-covid-cafe.json](./147171-covid-cafe.json) |
 | Covid Chaos | 163821 | [163821-covid-chaos.json](./163821-covid-chaos.json) |
+| Covid City | 147174 | [147174-covid-city.json](./147174-covid-city.json) |
 | Covid Kawaii! | 137406 | [137406-covid-kawaii.json](./137406-covid-kawaii.json) |
 | Covid Quest 2077 | 367600 | [367600-covid-quest-2077.json](./367600-covid-quest-2077.json) |
+| Covid Tale: ignorance | 147166 | [147166-covid-tale-ignorance.json](./147166-covid-tale-ignorance.json) |
+| Covid-19 | 147170 | [147170-covid-19.json](./147170-covid-19.json) |
 | Covid-19 Epidemic Prevention | 157108 | [157108-covid-19-epidemic-prevention.json](./157108-covid-19-epidemic-prevention.json) |
 | Covid-19: Corona Clicker | 165003 | [165003-covid-19-corona-clicker.json](./165003-covid-19-corona-clicker.json) |
 | Covid19: Toilet Paper Run | 285531 | [285531-covid19-toilet-paper-run.json](./285531-covid19-toilet-paper-run.json) |
@@ -11184,6 +11189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Pays | 258530 | [258530-crime-pays.json](./258530-crime-pays.json) |
 | Crime Podcast: 1976 | 420520 | [420520-crime-podcast-1976.json](./420520-crime-podcast-1976.json) |
 | Crime Podcast: Welcome to the Neighborhood | 420528 | [420528-crime-podcast-welcome-to-the-neighborhood.json](./420528-crime-podcast-welcome-to-the-neighborhood.json) |
+| Crime Reaper | 147236 | [147236-crime-reaper.json](./147236-crime-reaper.json) |
 | Crime Scene | 21653 | [21653-crime-scene.json](./21653-crime-scene.json) |
 | Crime Scene | 232948 | [232948-crime-scene.json](./232948-crime-scene.json) |
 | Crime Scene Cleaner | 115830 | [115830-crime-scene-cleaner.json](./115830-crime-scene-cleaner.json) |
