@@ -1165,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard as Nails | 371636 | [371636-hard-as-nails.json](./371636-hard-as-nails.json) |
 | Hard Ball Wikie | 196890 | [196890-hard-ball-wikie.json](./196890-hard-ball-wikie.json) |
 | Hard Brain | 266882 | [266882-hard-brain.json](./266882-hard-brain.json) |
+| Hard Bullet | 139702 | [139702-hard-bullet.json](./139702-hard-bullet.json) |
 | Hard Core Puzzle | 335449 | [335449-hard-core-puzzle.json](./335449-hard-core-puzzle.json) |
 | Hard Corps | 76979 | [76979-hard-corps.json](./76979-hard-corps.json) |
 | Hard Corps: Uprising | 21174 | [21174-hard-corps-uprising.json](./21174-hard-corps-uprising.json) |
@@ -1266,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harder | 334707 | [334707-harder.json](./334707-harder.json) |
 | Harder Parkour | 380117 | [380117-harder-parkour.json](./380117-harder-parkour.json) |
 | Hardest Game Ever 2 | 199921 | [199921-hardest-game-ever-2.json](./199921-hardest-game-ever-2.json) |
+| Hardest Harvest | 139681 | [139681-hardest-harvest.json](./139681-hardest-harvest.json) |
 | Hardfest 2 | 280906 | [280906-hardfest-2.json](./280906-hardfest-2.json) |
 | Hardhat Wombat | 244511 | [244511-hardhat-wombat.json](./244511-hardhat-wombat.json) |
 | Hardlight | 138829 | [138829-hardlight.json](./138829-hardlight.json) |
