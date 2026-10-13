@@ -640,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jellipop Match | 214104 | [214104-jellipop-match.json](./214104-jellipop-match.json) |
 | Jellitito | 340770 | [340770-jellitito.json](./340770-jellitito.json) |
 | Jelly | 163886 | [163886-jelly.json](./163886-jelly.json) |
+| Jelly 2 | 167366 | [167366-jelly-2.json](./167366-jelly-2.json) |
 | Jelly Allstars | 64134 | [64134-jelly-allstars.json](./64134-jelly-allstars.json) |
 | Jelly Battle | 237305 | [237305-jelly-battle.json](./237305-jelly-battle.json) |
 | Jelly Blocks | 117165 | [117165-jelly-blocks.json](./117165-jelly-blocks.json) |
@@ -1568,6 +1569,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe Wander and the Enigmatic Adventures | 222929 | [222929-joe-wander-and-the-enigmatic-adventures.json](./222929-joe-wander-and-the-enigmatic-adventures.json) |
 | Joe's Diner | 35859 | [35859-joes-diner.json](./35859-joes-diner.json) |
 | Joe's Fists | 129086 | [129086-joes-fists.json](./129086-joes-fists.json) |
+| Joe's Horrible Hell | 170041 | [170041-joes-horrible-hell.json](./170041-joes-horrible-hell.json) |
+| Joe's Miserable Life | 170040 | [170040-joes-miserable-life.json](./170040-joes-miserable-life.json) |
 | Joedle | 351572 | [351572-joedle.json](./351572-joedle.json) |
 | Joel's Bizarre Pokéventure | 374586 | [374586-joels-bizarre-pokeventure.json](./374586-joels-bizarre-pokeventure.json) |
 | Joestar Struck | 177819 | [177819-joestar-struck.json](./177819-joestar-struck.json) |
@@ -2582,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Another Jump and Run | 195554 | [195554-just-another-jump-and-run.json](./195554-just-another-jump-and-run.json) |
 | Just Another Memory | 120914 | [120914-just-another-memory.json](./120914-just-another-memory.json) |
 | Just Another Platformer | 316052 | [316052-just-another-platformer.json](./316052-just-another-platformer.json) |
+| Just Another Point n Click Adventure | 170042 | [170042-just-another-point-n-click-adventure.json](./170042-just-another-point-n-click-adventure.json) |
 | Just Another Pong Clone | 361736 | [361736-just-another-pong-clone.json](./361736-just-another-pong-clone.json) |
 | Just Another Runner | 204109 | [204109-just-another-runner.json](./204109-just-another-runner.json) |
 | Just Arms | 129656 | [129656-just-arms.json](./129656-just-arms.json) |
