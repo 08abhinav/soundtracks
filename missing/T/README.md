@@ -2362,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tehodoki Koukan: Gibo & Tomohaha Harem-Hen | 91374 | [91374-tehodoki-koukan-gibo-and-tomohaha-harem-hen.json](./91374-tehodoki-koukan-gibo-and-tomohaha-harem-hen.json) |
 | Teigeki Graph in Sakura Wars | 62124 | [62124-teigeki-graph-in-sakura-wars.json](./62124-teigeki-graph-in-sakura-wars.json) |
 | Teiji ni Kakero Alhaitham: Ore ha Ie ni Kaeritai | 350373 | [350373-teiji-ni-kakero-alhaitham-ore-ha-ie-ni-kaeritai.json](./350373-teiji-ni-kakero-alhaitham-ore-ha-ie-ni-kaeritai.json) |
+| Teiji Taisha Online | 171889 | [171889-teiji-taisha-online.json](./171889-teiji-taisha-online.json) |
 | Teikoku Kaigun Koibojou: Meiji Yokosuka Koushinkyoku | 136433 | [136433-teikoku-kaigun-koibojou-meiji-yokosuka-koushinkyoku.json](./136433-teikoku-kaigun-koibojou-meiji-yokosuka-koushinkyoku.json) |
 | Teikoku Kareido -Kakumei no Rondo- | 136434 | [136434-teikoku-kareido-kakumei-no-rondo.json](./136434-teikoku-kareido-kakumei-no-rondo.json) |
 | Teikoku Sensenki | 204483 | [204483-teikoku-sensenki.json](./204483-teikoku-sensenki.json) |
@@ -4441,6 +4442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Warriors | 250259 | [250259-the-book-of-warriors.json](./250259-the-book-of-warriors.json) |
 | The Book of Weapons | 197360 | [197360-the-book-of-weapons.json](./197360-the-book-of-weapons.json) |
 | The Book of Yorle: Save the Countryside | 174154 | [174154-the-book-of-yorle-save-the-countryside.json](./174154-the-book-of-yorle-save-the-countryside.json) |
+| The Book of Yorle: Save the Kingdom | 172065 | [172065-the-book-of-yorle-save-the-kingdom.json](./172065-the-book-of-yorle-save-the-kingdom.json) |
 | The Book of Yorle: Save the Village | 169964 | [169964-the-book-of-yorle-save-the-village.json](./169964-the-book-of-yorle-save-the-village.json) |
 | The Books Tale: A Hop Adventure | 249844 | [249844-the-books-tale-a-hop-adventure.json](./249844-the-books-tale-a-hop-adventure.json) |
 | The Bookwalker: Thief of Tales | 172454 | [172454-the-bookwalker-thief-of-tales.json](./172454-the-bookwalker-thief-of-tales.json) |
@@ -5768,6 +5770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elevator Game with Catgirls | 188990 | [188990-the-elevator-game-with-catgirls.json](./188990-the-elevator-game-with-catgirls.json) |
 | The Elf Maiden | 201489 | [201489-the-elf-maiden.json](./201489-the-elf-maiden.json) |
 | The Elision Effect | 273415 | [273415-the-elision-effect.json](./273415-the-elision-effect.json) |
+| The Elm Game | 171868 | [171868-the-elm-game.json](./171868-the-elm-game.json) |
 | The Elven Forest VR | 384633 | [384633-the-elven-forest-vr.json](./384633-the-elven-forest-vr.json) |
 | The Elysian Field | 153976 | [153976-the-elysian-field.json](./153976-the-elysian-field.json) |
 | The Elysian Fields and Other Greek Myths | 122985 | [122985-the-elysian-fields-and-other-greek-myths.json](./122985-the-elysian-fields-and-other-greek-myths.json) |
@@ -8078,6 +8081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Dark Witch Episode 2: The Price of Desire | 313257 | [313257-the-legend-of-dark-witch-episode-2-the-price-of-desire.json](./313257-the-legend-of-dark-witch-episode-2-the-price-of-desire.json) |
 | The Legend of Dark Witch Episode 3: Wisdom and Lunacy | 79800 | [79800-the-legend-of-dark-witch-episode-3-wisdom-and-lunacy.json](./79800-the-legend-of-dark-witch-episode-3-wisdom-and-lunacy.json) |
 | The Legend of Dark Witch Episode 4 | 313259 | [313259-the-legend-of-dark-witch-episode-4.json](./313259-the-legend-of-dark-witch-episode-4.json) |
+| The Legend of Dark Witch Renovation: Day Stage | 172090 | [172090-the-legend-of-dark-witch-renovation-day-stage.json](./172090-the-legend-of-dark-witch-renovation-day-stage.json) |
 | The Legend of Demon-Slaying Heroes | 355213 | [355213-the-legend-of-demon-slaying-heroes.json](./355213-the-legend-of-demon-slaying-heroes.json) |
 | The Legend of Doom | 231448 | [231448-the-legend-of-doom.json](./231448-the-legend-of-doom.json) |
 | The Legend of Dragoon | 239182 | [239182-the-legend-of-dragoon.json](./239182-the-legend-of-dragoon.json) |
@@ -8527,6 +8531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Long Drift | 392303 | [392303-the-long-drift.json](./392303-the-long-drift.json) |
 | The Long Drive | 122589 | [122589-the-long-drive.json](./122589-the-long-drive.json) |
 | The Long Gate | 127215 | [127215-the-long-gate.json](./127215-the-long-gate.json) |
+| The Long Journey to Farewell | 171870 | [171870-the-long-journey-to-farewell.json](./171870-the-long-journey-to-farewell.json) |
 | The Long Journey: Adventure | 90791 | [90791-the-long-journey-adventure.json](./90791-the-long-journey-adventure.json) |
 | The Long Reach | 41812 | [41812-the-long-reach.json](./41812-the-long-reach.json) |
 | The Long Return | 117351 | [117351-the-long-return.json](./117351-the-long-return.json) |
@@ -16934,6 +16939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torus | 214725 | [214725-torus.json](./214725-torus.json) |
 | Torus Trooper | 28718 | [28718-torus-trooper.json](./28718-torus-trooper.json) |
 | Torus Zero: Dare ga Neko wo Koroshita ka | 340384 | [340384-torus-zero-dare-ga-neko-wo-koroshita-ka.json](./340384-torus-zero-dare-ga-neko-wo-koroshita-ka.json) |
+| ToruTaru | 171873 | [171873-torutaru.json](./171873-torutaru.json) |
 | Torvak the Warrior | 12799 | [12799-torvak-the-warrior.json](./12799-torvak-the-warrior.json) |
 | Toryumon | 266284 | [266284-toryumon.json](./266284-toryumon.json) |
 | ToSaVa | 409721 | [409721-tosava.json](./409721-tosava.json) |
