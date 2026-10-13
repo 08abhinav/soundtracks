@@ -8717,6 +8717,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirages | 223433 | [223433-mirages.json](./223433-mirages.json) |
 | Miragine War | 176890 | [176890-miragine-war.json](./176890-miragine-war.json) |
 | Mirai | 200755 | [200755-mirai.json](./200755-mirai.json) |
+| Mirai Dagakki FutureTomTom | 140962 | [140962-mirai-dagakki-futuretomtom.json](./140962-mirai-dagakki-futuretomtom.json) |
+| Mirai Dagakki FutureTomTom Ver. 2 | 140964 | [140964-mirai-dagakki-futuretomtom-ver-2.json](./140964-mirai-dagakki-futuretomtom-ver-2.json) |
 | Mirai Nikki: The 13th Diary Holder | 66417 | [66417-mirai-nikki-the-13th-diary-holder.json](./66417-mirai-nikki-the-13th-diary-holder.json) |
 | Mirai Ninja | 38548 | [38548-mirai-ninja.json](./38548-mirai-ninja.json) |
 | Mirai Ninja: Keigumo Kinin Gaiden | 70997 | [70997-mirai-ninja-keigumo-kinin-gaiden.json](./70997-mirai-ninja-keigumo-kinin-gaiden.json) |
@@ -11432,6 +11434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motel Snooze: Suite Dreams | 352389 | [352389-motel-snooze-suite-dreams.json](./352389-motel-snooze-suite-dreams.json) |
 | Motel Styx | 215603 | [215603-motel-styx.json](./215603-motel-styx.json) |
 | MoteMancer | 338704 | [338704-motemancer.json](./338704-motemancer.json) |
+| Motesolo: No Girlfriend Since Birth | 140870 | [140870-motesolo-no-girlfriend-since-birth.json](./140870-motesolo-no-girlfriend-since-birth.json) |
 | Moth Kubit | 236869 | [236869-moth-kubit.json](./236869-moth-kubit.json) |
 | Moth Lake | 212971 | [212971-moth-lake.json](./212971-moth-lake.json) |
 | Moth Ma'am | 355015 | [355015-moth-maam.json](./355015-moth-maam.json) |
