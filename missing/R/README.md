@@ -1359,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raster Fahndung | 92992 | [92992-raster-fahndung.json](./92992-raster-fahndung.json) |
 | Raster Prime: Remix | 162415 | [162415-raster-prime-remix.json](./162415-raster-prime-remix.json) |
 | RasterFire | 412570 | [412570-rasterfire.json](./412570-rasterfire.json) |
+| Rasternauts | 134965 | [134965-rasternauts.json](./134965-rasternauts.json) |
 | Rat Arena | 106585 | [106585-rat-arena.json](./106585-rat-arena.json) |
 | Rat Catcher | 257862 | [257862-rat-catcher.json](./257862-rat-catcher.json) |
 | Rat Chef | 207597 | [207597-rat-chef.json](./207597-rat-chef.json) |
