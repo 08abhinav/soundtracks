@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hidden Cats: The Mill DLC | 359560 | [359560-100-hidden-cats-the-mill-dlc.json](./359560-100-hidden-cats-the-mill-dlc.json) |
 | 100 Hidden Cthulhu Fish | 301975 | [301975-100-hidden-cthulhu-fish.json](./301975-100-hidden-cthulhu-fish.json) |
 | 100 Hidden Cthulhu Fish 2 | 308932 | [308932-100-hidden-cthulhu-fish-2.json](./308932-100-hidden-cthulhu-fish-2.json) |
+| 100 Hidden Cupcakes | 169672 | [169672-100-hidden-cupcakes.json](./169672-100-hidden-cupcakes.json) |
 | 100 Hidden Fish | 187205 | [187205-100-hidden-fish.json](./187205-100-hidden-fish.json) |
 | 100 Hidden Frogs | 186155 | [186155-100-hidden-frogs.json](./186155-100-hidden-frogs.json) |
 | 100 Hidden Rams | 163750 | [163750-100-hidden-rams.json](./163750-100-hidden-rams.json) |
@@ -421,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Romantic Cats | 287352 | [287352-100-romantic-cats.json](./287352-100-romantic-cats.json) |
 | 100 Romantic Cats: Extra Content | 359566 | [359566-100-romantic-cats-extra-content.json](./359566-100-romantic-cats-extra-content.json) |
 | 100 Rounds | 270067 | [270067-100-rounds.json](./270067-100-rounds.json) |
+| 100 Rub: Operation Global Denomination | 169676 | [169676-100-rub-operation-global-denomination.json](./169676-100-rub-operation-global-denomination.json) |
 | 100 Ruin Cats | 347756 | [347756-100-ruin-cats.json](./347756-100-ruin-cats.json) |
 | 100 Screamers | 325498 | [325498-100-screamers.json](./325498-100-screamers.json) |
 | 100 Sea Cats | 315291 | [315291-100-sea-cats.json](./315291-100-sea-cats.json) |
@@ -437,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Witch Cats | 347751 | [347751-100-witch-cats.json](./347751-100-witch-cats.json) |
 | 100 Women: Guess the Name of 100 Famous Women | 369054 | [369054-100-women-guess-the-name-of-100-famous-women.json](./369054-100-women-guess-the-name-of-100-famous-women.json) |
 | 100 Words | 365859 | [365859-100-words.json](./365859-100-words.json) |
+| 100 Worlds: Escape Room Game | 169674 | [169674-100-worlds-escape-room-game.json](./169674-100-worlds-escape-room-game.json) |
 | 100 Years: Life Simulator | 212457 | [212457-100-years-life-simulator.json](./212457-100-years-life-simulator.json) |
 | 100 Years' War | 96687 | [96687-100-years-war.json](./96687-100-years-war.json) |
 | 100 Yen Exorcist | 408725 | [408725-100-yen-exorcist.json](./408725-100-yen-exorcist.json) |
@@ -485,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Questions Quiz! National Flag | 317903 | [317903-1000-questions-quiz-national-flag.json](./317903-1000-questions-quiz-national-flag.json) |
 | 1000 Questions to Be Chosen by the Cat Lord | 404260 | [404260-1000-questions-to-be-chosen-by-the-cat-lord.json](./404260-1000-questions-to-be-chosen-by-the-cat-lord.json) |
 | 1000 Score: 2D Platformer | 389990 | [389990-1000-score-2d-platformer.json](./389990-1000-score-2d-platformer.json) |
+| 1000 Shards | 169675 | [169675-1000-shards.json](./169675-1000-shards.json) |
 | 1000 Stages | 105308 | [105308-1000-stages.json](./105308-1000-stages.json) |
 | 1000 Tiny Claws | 21837 | [21837-1000-tiny-claws.json](./21837-1000-tiny-claws.json) |
 | 1000 Waves | 325500 | [325500-1000-waves.json](./325500-1000-waves.json) |
