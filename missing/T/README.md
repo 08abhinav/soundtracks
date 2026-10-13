@@ -5226,6 +5226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Daring Entrepreneur | 185516 | [185516-the-daring-entrepreneur.json](./185516-the-daring-entrepreneur.json) |
 | The Daring Mermaid Expedition | 33519 | [33519-the-daring-mermaid-expedition.json](./33519-the-daring-mermaid-expedition.json) |
 | The Dark | 140576 | [140576-the-dark.json](./140576-the-dark.json) |
+| The Dark | 167371 | [167371-the-dark.json](./167371-the-dark.json) |
 | The Dark Arrival: Shadows of the Past | 343269 | [343269-the-dark-arrival-shadows-of-the-past.json](./343269-the-dark-arrival-shadows-of-the-past.json) |
 | The Dark Book | 248713 | [248713-the-dark-book.json](./248713-the-dark-book.json) |
 | The Dark Book 2 | 274489 | [274489-the-dark-book-2.json](./274489-the-dark-book-2.json) |
@@ -12897,6 +12898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Therian Saga | 30951 | [30951-therian-saga.json](./30951-therian-saga.json) |
 | Thermal Power Plant K-13 | 182989 | [182989-thermal-power-plant-k-13.json](./182989-thermal-power-plant-k-13.json) |
 | Thermo Puzzle | 194381 | [194381-thermo-puzzle.json](./194381-thermo-puzzle.json) |
+| Thermonuclear | 167363 | [167363-thermonuclear.json](./167363-thermonuclear.json) |
 | Thermopylae: The Last Stand | 417556 | [417556-thermopylae-the-last-stand.json](./417556-thermopylae-the-last-stand.json) |
 | Thesaurus | 326659 | [326659-thesaurus.json](./326659-thesaurus.json) |
 | These are not Heroes | 187239 | [187239-these-are-not-heroes.json](./187239-these-are-not-heroes.json) |
@@ -15815,6 +15817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Rescue! 3 | 96038 | [96038-to-the-rescue-3.json](./96038-to-the-rescue-3.json) |
 | To the Rescue! 4 | 95684 | [95684-to-the-rescue-4.json](./95684-to-the-rescue-4.json) |
 | To the Rescue! 5 | 87221 | [87221-to-the-rescue-5.json](./87221-to-the-rescue-5.json) |
+| To the Snowland | 167372 | [167372-to-the-snowland.json](./167372-to-the-snowland.json) |
 | To the Stars | 211235 | [211235-to-the-stars.json](./211235-to-the-stars.json) |
 | To the Stars | 336917 | [336917-to-the-stars.json](./336917-to-the-stars.json) |
 | To the Stars and Beyond! | 117572 | [117572-to-the-stars-and-beyond.json](./117572-to-the-stars-and-beyond.json) |
@@ -18258,6 +18261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailer Park Boys: Grea$y Money | 76608 | [76608-trailer-park-boys-grea-y-money.json](./76608-trailer-park-boys-grea-y-money.json) |
 | Trailer Park Life | 232883 | [232883-trailer-park-life.json](./232883-trailer-park-life.json) |
 | Trailer Park Zombies | 389462 | [389462-trailer-park-zombies.json](./389462-trailer-park-zombies.json) |
+| Trailer Shop Simulator | 167354 | [167354-trailer-shop-simulator.json](./167354-trailer-shop-simulator.json) |
 | Trailer Trashers | 130157 | [130157-trailer-trashers.json](./130157-trailer-trashers.json) |
 | Trailmakers: Decals - Expression Pack | 308437 | [308437-trailmakers-decals-expression-pack.json](./308437-trailmakers-decals-expression-pack.json) |
 | Trailmakers: Deluxe Edition | 187896 | [187896-trailmakers-deluxe-edition.json](./187896-trailmakers-deluxe-edition.json) |
@@ -18768,6 +18772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Valley: Deluxe Edition | 53857 | [53857-train-valley-deluxe-edition.json](./53857-train-valley-deluxe-edition.json) |
 | Train Valley: Germany | 154507 | [154507-train-valley-germany.json](./154507-train-valley-germany.json) |
 | Train World | 225179 | [225179-train-world.json](./225179-train-world.json) |
+| Train Yard Builder | 167370 | [167370-train-yard-builder.json](./167370-train-yard-builder.json) |
 | Train Your Brain | 234050 | [234050-train-your-brain.json](./234050-train-your-brain.json) |
 | Train Your Brain: Nintendo Switch Training for Adults | 124043 | [124043-train-your-brain-nintendo-switch-training-for-adults.json](./124043-train-your-brain-nintendo-switch-training-for-adults.json) |
 | Train Your Brain! Spot the Difference with Dog Photos | 300842 | [300842-train-your-brain-spot-the-difference-with-dog-photos.json](./300842-train-your-brain-spot-the-difference-with-dog-photos.json) |
@@ -21747,6 +21752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typing Bullets | 251727 | [251727-typing-bullets.json](./251727-typing-bullets.json) |
 | Typing Farmer | 392323 | [392323-typing-farmer.json](./392323-typing-farmer.json) |
 | Typing Faster | 125928 | [125928-typing-faster.json](./125928-typing-faster.json) |
+| Typing Fingers | 167352 | [167352-typing-fingers.json](./167352-typing-fingers.json) |
 | Typing Haou: Hokuto no Ken Gekiuchi 2 | 64190 | [64190-typing-haou-hokuto-no-ken-gekiuchi-2.json](./64190-typing-haou-hokuto-no-ken-gekiuchi-2.json) |
 | Typing Hearts | 149091 | [149091-typing-hearts.json](./149091-typing-hearts.json) |
 | Typing Hero | 126428 | [126428-typing-hero.json](./126428-typing-hero.json) |
