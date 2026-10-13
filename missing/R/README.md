@@ -2041,6 +2041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of Ink | 274368 | [274368-realm-of-ink.json](./274368-realm-of-ink.json) |
 | Realm of Mecha | 197324 | [197324-realm-of-mecha.json](./197324-realm-of-mecha.json) |
 | Realm of Mystery | 365288 | [365288-realm-of-mystery.json](./365288-realm-of-mystery.json) |
+| Realm of Night: The Forbidden Knowledge | 148307 | [148307-realm-of-night-the-forbidden-knowledge.json](./148307-realm-of-night-the-forbidden-knowledge.json) |
 | Realm of Rulers | 98222 | [98222-realm-of-rulers.json](./98222-realm-of-rulers.json) |
 | Realm of Taiwu | 359343 | [359343-realm-of-taiwu.json](./359343-realm-of-taiwu.json) |
 | Realm of the Dead | 257898 | [257898-realm-of-the-dead.json](./257898-realm-of-the-dead.json) |
