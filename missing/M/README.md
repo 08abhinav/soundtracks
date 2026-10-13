@@ -9048,6 +9048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misty's Shining Blacksmithing | 212199 | [212199-mistys-shining-blacksmithing.json](./212199-mistys-shining-blacksmithing.json) |
 | Misty's Super Golf Solitaire | 339911 | [339911-mistys-super-golf-solitaire.json](./339911-mistys-super-golf-solitaire.json) |
 | Mistyvale | 376109 | [376109-mistyvale.json](./376109-mistyvale.json) |
+| Misuto | 161598 | [161598-misuto.json](./161598-misuto.json) |
 | Misuzu no Kuni | 341591 | [341591-misuzu-no-kuni.json](./341591-misuzu-no-kuni.json) |
 | Miszou | 224752 | [224752-miszou.json](./224752-miszou.json) |
 | Mitako Tatari’s Cursed Village Stream ZP | 376271 | [376271-mitako-tatari-s-cursed-village-stream-zp.json](./376271-mitako-tatari-s-cursed-village-stream-zp.json) |
