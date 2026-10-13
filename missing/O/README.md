@@ -1171,7 +1171,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ominous Gift | 384252 | [384252-ominous-gift.json](./384252-ominous-gift.json) |
 | Ominous Horizons: A Paladin's Calling | 69877 | [69877-ominous-horizons-a-paladins-calling.json](./69877-ominous-horizons-a-paladins-calling.json) |
 | Ominous Neighbor | 95869 | [95869-ominous-neighbor.json](./95869-ominous-neighbor.json) |
+| Ominous Objects: Family Portrait | 139095 | [139095-ominous-objects-family-portrait.json](./139095-ominous-objects-family-portrait.json) |
 | Ominous Objects: Lumina Camera HD | 106645 | [106645-ominous-objects-lumina-camera-hd.json](./106645-ominous-objects-lumina-camera-hd.json) |
+| Ominous Objects: Phantom Reflection | 139096 | [139096-ominous-objects-phantom-reflection.json](./139096-ominous-objects-phantom-reflection.json) |
 | Ominous Objects: Phantom Reflection HD | 102793 | [102793-ominous-objects-phantom-reflection-hd.json](./102793-ominous-objects-phantom-reflection-hd.json) |
 | Ominous Obscurity | 285544 | [285544-ominous-obscurity.json](./285544-ominous-obscurity.json) |
 | Ominous Paths | 206649 | [206649-ominous-paths.json](./206649-ominous-paths.json) |
@@ -2696,6 +2698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore o Hoshigaru Futari no Haha | 97464 | [97464-ore-o-hoshigaru-futari-no-haha.json](./97464-ore-o-hoshigaru-futari-no-haha.json) |
 | Ore to Omae ga Ai ni Tsuite Kataru dake | 337727 | [337727-ore-to-omae-ga-ai-ni-tsuite-kataru-dake.json](./337727-ore-to-omae-ga-ai-ni-tsuite-kataru-dake.json) |
 | ORE x TRACTOR | 401823 | [401823-ore-x-tractor.json](./401823-ore-x-tractor.json) |
+| Ore-sama Kingdom: Ikemen Kareshi wo Get Shiyo! Moe Kyun School Days | 141587 | [141587-ore-sama-kingdom-ikemen-kareshi-wo-get-shiyo-moe-kyun-school-days.json](./141587-ore-sama-kingdom-ikemen-kareshi-wo-get-shiyo-moe-kyun-school-days.json) |
 | Ore-sama Kingdom: Koi mo Manga mo Debut wo Mezase! Doki-doki Love Lesson | 202704 | [202704-ore-sama-kingdom-koi-mo-manga-mo-debut-wo-mezase-doki-doki-love-lesson.json](./202704-ore-sama-kingdom-koi-mo-manga-mo-debut-wo-mezase-doki-doki-love-lesson.json) |
 | Ore'n: Battle Meme Chronicle | 303221 | [303221-oren-battle-meme-chronicle.json](./303221-oren-battle-meme-chronicle.json) |
 | Oreblaze | 338732 | [338732-oreblaze.json](./338732-oreblaze.json) |
