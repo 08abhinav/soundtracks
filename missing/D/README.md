@@ -7558,6 +7558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doggo Quest | 151047 | [151047-doggo-quest.json](./151047-doggo-quest.json) |
 | Doggo Walko | 178565 | [178565-doggo-walko.json](./178565-doggo-walko.json) |
 | DoggoGuessr | 350626 | [350626-doggoguessr.json](./350626-doggoguessr.json) |
+| Doggoland | 134924 | [134924-doggoland.json](./134924-doggoland.json) |
 | Doggone | 120896 | [120896-doggone.json](./120896-doggone.json) |
 | DoggoPromenade | 398349 | [398349-doggopromenade.json](./398349-doggopromenade.json) |
 | Doggos in Dungeon | 331364 | [331364-doggos-in-dungeon.json](./331364-doggos-in-dungeon.json) |
@@ -10895,6 +10896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droid Wars | 302100 | [302100-droid-wars.json](./302100-droid-wars.json) |
 | Droid Wars: Duel | 232950 | [232950-droid-wars-duel.json](./232950-droid-wars-duel.json) |
 | Droid404 | 159741 | [159741-droid404.json](./159741-droid404.json) |
+| Droid7 | 134927 | [134927-droid7.json](./134927-droid7.json) |
 | Droids | 84276 | [84276-droids.json](./84276-droids.json) |
 | Droids & Wizards | 124769 | [124769-droids-and-wizards.json](./124769-droids-and-wizards.json) |
 | Droids: The White Witch | 255557 | [255557-droids-the-white-witch.json](./255557-droids-the-white-witch.json) |
@@ -11228,6 +11230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dual Pack I Spirits of Mystery: Song of the Phoenix & Spirits of Mystery: The Dark Minotaur | 201853 | [201853-dual-pack-i-spirits-of-mystery-song-of-the-phoenix-and-spirits-of-mystery-the-dark-minotaur.json](./201853-dual-pack-i-spirits-of-mystery-song-of-the-phoenix-and-spirits-of-mystery-the-dark-minotaur.json) |
 | Dual Pack: Pac-Man World 3 / Namco Museum DS | 220258 | [220258-dual-pack-pac-man-world-3-namco-museum-ds.json](./220258-dual-pack-pac-man-world-3-namco-museum-ds.json) |
 | Dual Paths | 349823 | [349823-dual-paths.json](./349823-dual-paths.json) |
+| Dual Pong | 134944 | [134944-dual-pong.json](./134944-dual-pong.json) |
 | Dual Protocol: The Case of Eva & Miles | 407324 | [407324-dual-protocol-the-case-of-eva-and-miles.json](./407324-dual-protocol-the-case-of-eva-and-miles.json) |
 | Dual Souls: The Last Bearer - Complete Edition | 196049 | [196049-dual-souls-the-last-bearer-complete-edition.json](./196049-dual-souls-the-last-bearer-complete-edition.json) |
 | Dual Spin | 241346 | [241346-dual-spin.json](./241346-dual-spin.json) |
