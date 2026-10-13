@@ -7028,7 +7028,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimbaQuest | 243699 | [243699-simbaquest.json](./243699-simbaquest.json) |
 | SimBus | 166815 | [166815-simbus.json](./166815-simbus.json) |
 | SimCasino | 141132 | [141132-simcasino.json](./141132-simcasino.json) |
-| SimCity | 1274 | [1274-simcity.json](./1274-simcity.json) |
 | SimCity | 180002 | [180002-simcity.json](./180002-simcity.json) |
 | SimCity | 208990 | [208990-simcity.json](./208990-simcity.json) |
 | SimCity 2000 | 330 | [330-simcity-2000.json](./330-simcity-2000.json) |
@@ -19878,7 +19877,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Mall: Classic | 201244 | [201244-sunset-mall-classic.json](./201244-sunset-mall-classic.json) |
 | Sunset of Ate | 264611 | [264611-sunset-of-ate.json](./264611-sunset-of-ate.json) |
 | Sunset Over Imdahl | 124652 | [124652-sunset-over-imdahl.json](./124652-sunset-over-imdahl.json) |
-| Sunset Overdrive | 3247 | [3247-sunset-overdrive.json](./3247-sunset-overdrive.json) |
 | Sunset Overdrive: Deluxe Edition | 164800 | [164800-sunset-overdrive-deluxe-edition.json](./164800-sunset-overdrive-deluxe-edition.json) |
 | Sunset Overdrive: Mystery of the Mooil Rig | 20050 | [20050-sunset-overdrive-mystery-of-the-mooil-rig.json](./20050-sunset-overdrive-mystery-of-the-mooil-rig.json) |
 | Sunset Racer | 284485 | [284485-sunset-racer.json](./284485-sunset-racer.json) |
