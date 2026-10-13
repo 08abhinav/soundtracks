@@ -3709,6 +3709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resourcer | 245945 | [245945-resourcer.json](./245945-resourcer.json) |
 | Respawn | 203851 | [203851-respawn.json](./203851-respawn.json) |
 | Respawnables: Special Forces | 94784 | [94784-respawnables-special-forces.json](./94784-respawnables-special-forces.json) |
+| Respite | 179083 | [179083-respite.json](./179083-respite.json) |
 | Responding | 128585 | [128585-responding.json](./128585-responding.json) |
 | Respublica | 126426 | [126426-respublica.json](./126426-respublica.json) |
 | Resquid | 182916 | [182916-resquid.json](./182916-resquid.json) |
@@ -4404,6 +4405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Control 2 | 232513 | [232513-rhythm-control-2.json](./232513-rhythm-control-2.json) |
 | Rhythm Core Alpha | 84842 | [84842-rhythm-core-alpha.json](./84842-rhythm-core-alpha.json) |
 | Rhythm Core Alpha 2 | 84841 | [84841-rhythm-core-alpha-2.json](./84841-rhythm-core-alpha-2.json) |
+| Rhythm Dash | 178888 | [178888-rhythm-dash.json](./178888-rhythm-dash.json) |
 | Rhythm de Run Run Run | 123406 | [123406-rhythm-de-run-run-run.json](./123406-rhythm-de-run-run-run.json) |
 | Rhythm Defender | 118263 | [118263-rhythm-defender.json](./118263-rhythm-defender.json) |
 | Rhythm Dodge | 257999 | [257999-rhythm-dodge.json](./257999-rhythm-dodge.json) |
@@ -8114,6 +8116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RuPaul's Drag Race Match Queen | 339640 | [339640-rupauls-drag-race-match-queen.json](./339640-rupauls-drag-race-match-queen.json) |
 | RuPaul's Drag Race Superstar | 247091 | [247091-rupauls-drag-race-superstar.json](./247091-rupauls-drag-race-superstar.json) |
 | Rupert and Riley: Shipwrecked | 58482 | [58482-rupert-and-riley-shipwrecked.json](./58482-rupert-and-riley-shipwrecked.json) |
+| Rupert Reset | 178890 | [178890-rupert-reset.json](./178890-rupert-reset.json) |
 | Rupture | 261821 | [261821-rupture.json](./261821-rupture.json) |
 | Ruptured | 226438 | [226438-ruptured.json](./226438-ruptured.json) |
 | Ruptured Floor | 416635 | [416635-ruptured-floor.json](./416635-ruptured-floor.json) |
