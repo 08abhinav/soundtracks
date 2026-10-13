@@ -2105,6 +2105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advent Calendar | 212875 | [212875-advent-calendar.json](./212875-advent-calendar.json) |
 | Advent Calendar | 379475 | [379475-advent-calendar.json](./379475-advent-calendar.json) |
 | Advent Crossroad | 154404 | [154404-advent-crossroad.json](./154404-advent-crossroad.json) |
+| Advent Neon | 139128 | [139128-advent-neon.json](./139128-advent-neon.json) |
 | Advent of God: Legends | 304168 | [304168-advent-of-god-legends.json](./304168-advent-of-god-legends.json) |
 | Advent Shadow | 92698 | [92698-advent-shadow.json](./92698-advent-shadow.json) |
 | Advent/Archive | 352363 | [352363-advent-archive.json](./352363-advent-archive.json) |
@@ -2971,6 +2972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aggressor | 169956 | [169956-aggressor.json](./169956-aggressor.json) |
 | Aggressors of Dark Kombat | 39336 | [39336-aggressors-of-dark-kombat.json](./39336-aggressors-of-dark-kombat.json) |
 | Aggretsuko Office Rush | 311666 | [311666-aggretsuko-office-rush.json](./311666-aggretsuko-office-rush.json) |
+| Aggretsuko: The Short Timer Strikes Back | 139121 | [139121-aggretsuko-the-short-timer-strikes-back.json](./139121-aggretsuko-the-short-timer-strikes-back.json) |
 | Agharta: The Hollow Earth | 73280 | [73280-agharta-the-hollow-earth.json](./73280-agharta-the-hollow-earth.json) |
 | Aghaz | 391743 | [391743-aghaz.json](./391743-aghaz.json) |
 | Aghia | 406804 | [406804-aghia.json](./406804-aghia.json) |
@@ -4239,6 +4241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Horizon | 200363 | [200363-alien-horizon.json](./200363-alien-horizon.json) |
 | Alien Hunt | 166706 | [166706-alien-hunt.json](./166706-alien-hunt.json) |
 | Alien Infection | 120915 | [120915-alien-infection.json](./120915-alien-infection.json) |
+| Alien Infestation | 139132 | [139132-alien-infestation.json](./139132-alien-infestation.json) |
 | Alien Invaders Plus | 41533 | [41533-alien-invaders-plus.json](./41533-alien-invaders-plus.json) |
 | Alien Invasion | 273129 | [273129-alien-invasion.json](./273129-alien-invasion.json) |
 | Alien Invasion | 295468 | [295468-alien-invasion.json](./295468-alien-invasion.json) |
@@ -9790,6 +9793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Bandit | 240347 | [240347-assault-bandit.json](./240347-assault-bandit.json) |
 | Assault Battery | 184825 | [184825-assault-battery.json](./184825-assault-battery.json) |
 | Assault Bots | 144737 | [144737-assault-bots.json](./144737-assault-bots.json) |
+| Assault ChaingunS KM | 139097 | [139097-assault-chainguns-km.json](./139097-assault-chainguns-km.json) |
 | Assault City | 46117 | [46117-assault-city.json](./46117-assault-city.json) |
 | Assault Commander Rearmed | 371888 | [371888-assault-commander-rearmed.json](./371888-assault-commander-rearmed.json) |
 | Assault CorpsII | 35101 | [35101-assault-corpsii.json](./35101-assault-corpsii.json) |
@@ -9799,6 +9803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Gunners HD Edition: Extra Pack | 87855 | [87855-assault-gunners-hd-edition-extra-pack.json](./87855-assault-gunners-hd-edition-extra-pack.json) |
 | Assault Gunners: HD Edition - Complete Set | 87856 | [87856-assault-gunners-hd-edition-complete-set.json](./87856-assault-gunners-hd-edition-complete-set.json) |
 | Assault Heroes | 20634 | [20634-assault-heroes.json](./20634-assault-heroes.json) |
+| Assault Lily Last Bullet | 139086 | [139086-assault-lily-last-bullet.json](./139086-assault-lily-last-bullet.json) |
 | Assault Mayhem | 351607 | [351607-assault-mayhem.json](./351607-assault-mayhem.json) |
 | Assault on Arnhem | 33307 | [33307-assault-on-arnhem.json](./33307-assault-on-arnhem.json) |
 | Assault on Everest | 356700 | [356700-assault-on-everest.json](./356700-assault-on-everest.json) |
