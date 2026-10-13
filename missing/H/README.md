@@ -1810,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haustor's Abbey | 278467 | [278467-haustors-abbey.json](./278467-haustors-abbey.json) |
 | Haustoria | 130922 | [130922-haustoria.json](./130922-haustoria.json) |
 | Haut | 349382 | [349382-haut.json](./349382-haut.json) |
+| Have a Blast | 151490 | [151490-have-a-blast.json](./151490-have-a-blast.json) |
 | Have a Good Day | 302778 | [302778-have-a-good-day.json](./302778-have-a-good-day.json) |
 | Have a N.I.C.E. day! | 71710 | [71710-have-a-n-i-c-e-day.json](./71710-have-a-n-i-c-e-day.json) |
 | Have an Ice Day | 364962 | [364962-have-an-ice-day.json](./364962-have-an-ice-day.json) |
@@ -5521,6 +5522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockeysplit | 128976 | [128976-hockeysplit.json](./128976-hockeysplit.json) |
 | Hoco Poco | 129577 | [129577-hoco-poco.json](./129577-hoco-poco.json) |
 | Hocus 2 | 149537 | [149537-hocus-2.json](./149537-hocus-2.json) |
+| Hocus Defenders | 151503 | [151503-hocus-defenders.json](./151503-hocus-defenders.json) |
 | Hocus Focus | 385398 | [385398-hocus-focus.json](./385398-hocus-focus.json) |
 | Hocus Opus | 318720 | [318720-hocus-opus.json](./318720-hocus-opus.json) |
 | Hocus Pocus | 8476 | [8476-hocus-pocus.json](./8476-hocus-pocus.json) |
