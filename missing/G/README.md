@@ -3449,6 +3449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glyphwing: World Geography | 417444 | [417444-glyphwing-world-geography.json](./417444-glyphwing-world-geography.json) |
 | GM Forge - Virtual Tabletop | 100570 | [100570-gm-forge-virtual-tabletop.json](./100570-gm-forge-virtual-tabletop.json) |
 | GMH: Good Morning Human! | 289246 | [289246-gmh-good-morning-human.json](./289246-gmh-good-morning-human.json) |
+| GMOTA | 142178 | [142178-gmota.json](./142178-gmota.json) |
 | Gnarbike Trials 2 | 284489 | [284489-gnarbike-trials-2.json](./284489-gnarbike-trials-2.json) |
 | Gnaughty Gnomes | 346030 | [346030-gnaughty-gnomes.json](./346030-gnaughty-gnomes.json) |
 | Gnaw | 372037 | [372037-gnaw.json](./372037-gnaw.json) |
@@ -6718,7 +6719,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Wars 2: Secrets of the Obscure | 255088 | [255088-guild-wars-2-secrets-of-the-obscure.json](./255088-guild-wars-2-secrets-of-the-obscure.json) |
 | Guild Wars: Bonus Mission Pack | 97103 | [97103-guild-wars-bonus-mission-pack.json](./97103-guild-wars-bonus-mission-pack.json) |
 | Guild Wars: Factions | 739 | [739-guild-wars-factions.json](./739-guild-wars-factions.json) |
+| Guild Wars: Factions - Collector's Edition | 142206 | [142206-guild-wars-factions-collectors-edition.json](./142206-guild-wars-factions-collectors-edition.json) |
 | Guild Wars: Game of the Year Edition | 27842 | [27842-guild-wars-game-of-the-year-edition.json](./27842-guild-wars-game-of-the-year-edition.json) |
+| Guild Wars: Nightfall - Collector's Edition | 142209 | [142209-guild-wars-nightfall-collectors-edition.json](./142209-guild-wars-nightfall-collectors-edition.json) |
 | Guild Wars: Reforged | 380421 | [380421-guild-wars-reforged.json](./380421-guild-wars-reforged.json) |
 | Guildamation | 387567 | [387567-guildamation.json](./387567-guildamation.json) |
 | GuildBound | 119791 | [119791-guildbound.json](./119791-guildbound.json) |
@@ -7007,6 +7010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Ugly | 190920 | [190920-gun-ugly.json](./190920-gun-ugly.json) |
 | Gun vs. Bottles | 233442 | [233442-gun-vs-bottles.json](./233442-gun-vs-bottles.json) |
 | Gun Warrior: The Rider From Nowhere | 27537 | [27537-gun-warrior-the-rider-from-nowhere.json](./27537-gun-warrior-the-rider-from-nowhere.json) |
+| Gun Witch | 142183 | [142183-gun-witch.json](./142183-gun-witch.json) |
 | Gun X Gunner | 384153 | [384153-gun-x-gunner.json](./384153-gun-x-gunner.json) |
 | Gun-A-Gang 360° | 350591 | [350591-gun-a-gang-360.json](./350591-gun-a-gang-360.json) |
 | Gun-Reviper | 164067 | [164067-gun-reviper.json](./164067-gun-reviper.json) |
