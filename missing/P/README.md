@@ -10694,6 +10694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prophecy of Ashen | 334330 | [334330-prophecy-of-ashen.json](./334330-prophecy-of-ashen.json) |
 | Prophecy of the Nun | 165657 | [165657-prophecy-of-the-nun.json](./165657-prophecy-of-the-nun.json) |
 | Prophecy: The Viking Child | 49029 | [49029-prophecy-the-viking-child.json](./49029-prophecy-the-viking-child.json) |
+| Prophet | 156898 | [156898-prophet.json](./156898-prophet.json) |
 | Prophet Margin | 376537 | [376537-prophet-margin.json](./376537-prophet-margin.json) |
 | PropHunter | 165107 | [165107-prophunter.json](./165107-prophunter.json) |
 | Propis | 194290 | [194290-propis.json](./194290-propis.json) |
