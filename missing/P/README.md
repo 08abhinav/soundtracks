@@ -895,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panty Raider: From Here to Immaturity | 81476 | [81476-panty-raider-from-here-to-immaturity.json](./81476-panty-raider-from-here-to-immaturity.json) |
 | Panty Slide | 113153 | [113153-panty-slide.json](./113153-panty-slide.json) |
 | Panty&Demons | 184479 | [184479-panty-and-demons.json](./184479-panty-and-demons.json) |
+| Pantyhoes | 148334 | [148334-pantyhoes.json](./148334-pantyhoes.json) |
 | Panzar | 15740 | [15740-panzar.json](./15740-panzar.json) |
 | Panzar: Forged By Chaos | 102572 | [102572-panzar-forged-by-chaos.json](./102572-panzar-forged-by-chaos.json) |
 | PanzenTD | 358262 | [358262-panzentd.json](./358262-panzentd.json) |
@@ -7849,6 +7850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pollywog | 386398 | [386398-pollywog.json](./386398-pollywog.json) |
 | Polnyj ulyot | 129105 | [129105-polnyj-ulyot.json](./129105-polnyj-ulyot.json) |
 | Polo | 40661 | [40661-polo.json](./40661-polo.json) |
+| Polter Guest | 148313 | [148313-polter-guest.json](./148313-polter-guest.json) |
 | PolterCue | 231647 | [231647-poltercue.json](./231647-poltercue.json) |
 | PolterDates | 411511 | [411511-polterdates.json](./411511-polterdates.json) |
 | Poltergeist Watcher | 298661 | [298661-poltergeist-watcher.json](./298661-poltergeist-watcher.json) |
