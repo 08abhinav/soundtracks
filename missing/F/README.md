@@ -2122,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate of the World | 15079 | [15079-fate-of-the-world.json](./15079-fate-of-the-world.json) |
 | Fate of the World: Denial | 159640 | [159640-fate-of-the-world-denial.json](./159640-fate-of-the-world-denial.json) |
 | Fate of the World: Migration | 159639 | [159639-fate-of-the-world-migration.json](./159639-fate-of-the-world-migration.json) |
+| Fate of Windshift | 154794 | [154794-fate-of-windshift.json](./154794-fate-of-windshift.json) |
 | Fate Seeker II | 182359 | [182359-fate-seeker-ii.json](./182359-fate-seeker-ii.json) |
 | Fate Seeker: Mission | 304162 | [304162-fate-seeker-mission.json](./304162-fate-seeker-mission.json) |
 | Fate Tectonics | 35079 | [35079-fate-tectonics.json](./35079-fate-tectonics.json) |
@@ -7899,6 +7900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Fall Down | 192430 | [192430-frog-fall-down.json](./192430-frog-fall-down.json) |
 | Frog Familiar | 195734 | [195734-frog-familiar.json](./195734-frog-familiar.json) |
 | Frog Feast | 270407 | [270407-frog-feast.json](./270407-frog-feast.json) |
+| Frog Fighters | 154826 | [154826-frog-fighters.json](./154826-frog-fighters.json) |
 | Frog Finder | 181798 | [181798-frog-finder.json](./181798-frog-finder.json) |
 | Frog Folding Simulator | 350436 | [350436-frog-folding-simulator.json](./350436-frog-folding-simulator.json) |
 | Frog Fractions | 18723 | [18723-frog-fractions.json](./18723-frog-fractions.json) |
