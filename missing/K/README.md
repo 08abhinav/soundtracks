@@ -1046,6 +1046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keiji J.B. Harold no Jikenbo: Murder Club | 320848 | [320848-keiji-j-b-harold-no-jikenbo-murder-club.json](./320848-keiji-j-b-harold-no-jikenbo-murder-club.json) |
 | Keiko Everlasting | 102901 | [102901-keiko-everlasting.json](./102901-keiko-everlasting.json) |
 | Keiko-chan no Himitsu | 67373 | [67373-keiko-chan-no-himitsu.json](./67373-keiko-chan-no-himitsu.json) |
+| Keimagus | 177281 | [177281-keimagus.json](./177281-keimagus.json) |
 | Keine's Expanding Class! | 386435 | [386435-keines-expanding-class.json](./386435-keines-expanding-class.json) |
 | Keineged an nor | 181217 | [181217-keineged-an-nor.json](./181217-keineged-an-nor.json) |
 | Keio Flying Squadron | 12912 | [12912-keio-flying-squadron.json](./12912-keio-flying-squadron.json) |
@@ -1393,6 +1394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid 4 $29.99 | 141871 | [141871-kid-4-29-99.json](./141871-kid-4-29-99.json) |
 | Kid Ball Adventure | 212274 | [212274-kid-ball-adventure.json](./212274-kid-ball-adventure.json) |
 | Kid Blocks | 340971 | [340971-kid-blocks.json](./340971-kid-blocks.json) |
+| Kid Bludd's Treacherous Tower | 177256 | [177256-kid-bludds-treacherous-tower.json](./177256-kid-bludds-treacherous-tower.json) |
 | Kid Bubblegum | 251747 | [251747-kid-bubblegum.json](./251747-kid-bubblegum.json) |
 | Kid Chameleon | 16035 | [16035-kid-chameleon.json](./16035-kid-chameleon.json) |
 | Kid Dracula | 1125 | [1125-kid-dracula.json](./1125-kid-dracula.json) |
@@ -3692,6 +3694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kriegsspiel: 7 Years' War | 388760 | [388760-kriegsspiel-7-years-war.json](./388760-kriegsspiel-7-years-war.json) |
 | Krila | 260943 | [260943-krila.json](./260943-krila.json) |
 | Krim: The Music Bot | 102383 | [102383-krim-the-music-bot.json](./102383-krim-the-music-bot.json) |
+| Krimson | 177262 | [177262-krimson.json](./177262-krimson.json) |
 | Krimson Patrol | 409032 | [409032-krimson-patrol.json](./409032-krimson-patrol.json) |
 | Krimzon hoard | 212977 | [212977-krimzon-hoard.json](./212977-krimzon-hoard.json) |
 | Kring | 216755 | [216755-kring.json](./216755-kring.json) |
