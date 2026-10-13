@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sainthum | 149557 | [149557-sainthum.json](./149557-sainthum.json) |
 | Saints & Sinners Bingo | 206744 | [206744-saints-and-sinners-bingo.json](./206744-saints-and-sinners-bingo.json) |
 | Saints & Sinners Bowling | 172540 | [172540-saints-and-sinners-bowling.json](./172540-saints-and-sinners-bowling.json) |
+| Saints and Sinners | 142799 | [142799-saints-and-sinners.json](./142799-saints-and-sinners.json) |
 | Saints of Virtue | 67312 | [67312-saints-of-virtue.json](./67312-saints-of-virtue.json) |
 | Saints Row | 198113 | [198113-saints-row.json](./198113-saints-row.json) |
 | Saints Row | 825 | [825-saints-row.json](./825-saints-row.json) |
@@ -906,6 +907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shodown 64 | 19990 | [19990-samurai-shodown-64.json](./19990-samurai-shodown-64.json) |
 | Samurai Shodown 64: Warriors Rage | 19991 | [19991-samurai-shodown-64-warriors-rage.json](./19991-samurai-shodown-64-warriors-rage.json) |
 | Samurai Shodown Anthology | 50648 | [50648-samurai-shodown-anthology.json](./50648-samurai-shodown-anthology.json) |
+| Samurai Shodown Enhanced | 142821 | [142821-samurai-shodown-enhanced.json](./142821-samurai-shodown-enhanced.json) |
 | Samurai Shodown NeoGeo Collection | 116809 | [116809-samurai-shodown-neogeo-collection.json](./116809-samurai-shodown-neogeo-collection.json) |
 | Samurai Shodown NeoGeo Collection: Limited Edition Pack | 167069 | [167069-samurai-shodown-neogeo-collection-limited-edition-pack.json](./167069-samurai-shodown-neogeo-collection-limited-edition-pack.json) |
 | Samurai Shodown Sen | 23272 | [23272-samurai-shodown-sen.json](./23272-samurai-shodown-sen.json) |
@@ -5521,6 +5523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining in the Darkness | 9406 | [9406-shining-in-the-darkness.json](./9406-shining-in-the-darkness.json) |
 | Shining Jump Jump | 204935 | [204935-shining-jump-jump.json](./204935-shining-jump-jump.json) |
 | Shining Lore | 316800 | [316800-shining-lore.json](./316800-shining-lore.json) |
+| Shining Maiden | 142691 | [142691-shining-maiden.json](./142691-shining-maiden.json) |
 | Shining Nikki | 145944 | [145944-shining-nikki.json](./145944-shining-nikki.json) |
 | Shining Orb Prequel | 109704 | [109704-shining-orb-prequel.json](./109704-shining-orb-prequel.json) |
 | Shining Resonance | 44561 | [44561-shining-resonance.json](./44561-shining-resonance.json) |
@@ -7509,6 +7512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sins OV Cigar | 294944 | [294944-sins-ov-cigar.json](./294944-sins-ov-cigar.json) |
 | Sinsations | 182269 | [182269-sinsations.json](./182269-sinsations.json) |
 | Sinsations 2: Modern Gods | 332432 | [332432-sinsations-2-modern-gods.json](./332432-sinsations-2-modern-gods.json) |
+| SinSeed | 142680 | [142680-sinseed.json](./142680-sinseed.json) |
 | SinsFromGod | 139422 | [139422-sinsfromgod.json](./139422-sinsfromgod.json) |
 | Sint Nicolaas | 122964 | [122964-sint-nicolaas.json](./122964-sint-nicolaas.json) |
 | Sintel: The Game | 61722 | [61722-sintel-the-game.json](./61722-sintel-the-game.json) |
@@ -8817,6 +8821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Evolutionary Path | 256516 | [256516-slime-evolutionary-path.json](./256516-slime-evolutionary-path.json) |
 | Slime Experiments | 265148 | [265148-slime-experiments.json](./265148-slime-experiments.json) |
 | Slime Factory | 367980 | [367980-slime-factory.json](./367980-slime-factory.json) |
+| Slime Fantasy: the search for the lost sword | 142686 | [142686-slime-fantasy-the-search-for-the-lost-sword.json](./142686-slime-fantasy-the-search-for-the-lost-sword.json) |
 | Slime Farm | 298271 | [298271-slime-farm.json](./298271-slime-farm.json) |
 | Slime Flight: VIP | 95826 | [95826-slime-flight-vip.json](./95826-slime-flight-vip.json) |
 | Slime Garden | 104661 | [104661-slime-garden.json](./104661-slime-garden.json) |
@@ -8845,7 +8850,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Puzzle Story | 235656 | [235656-slime-puzzle-story.json](./235656-slime-puzzle-story.json) |
 | Slime Quest | 110173 | [110173-slime-quest.json](./110173-slime-quest.json) |
 | Slime Quest | 248145 | [248145-slime-quest.json](./248145-slime-quest.json) |
-| Slime Rancher | 16287 | [16287-slime-rancher.json](./16287-slime-rancher.json) |
 | Slime Rancher Rainbow Bundle | 293761 | [293761-slime-rancher-rainbow-bundle.json](./293761-slime-rancher-rainbow-bundle.json) |
 | Slime Ranger | 221159 | [221159-slime-ranger.json](./221159-slime-ranger.json) |
 | Slime Road | 108509 | [108509-slime-road.json](./108509-slime-road.json) |
@@ -11364,6 +11368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Golf 3D | 261280 | [261280-sonic-golf-3d.json](./261280-sonic-golf-3d.json) |
 | Sonic Golf DX | 261294 | [261294-sonic-golf-dx.json](./261294-sonic-golf-dx.json) |
 | Sonic Groove | 331532 | [331532-sonic-groove.json](./331532-sonic-groove.json) |
+| Sonic GT | 142834 | [142834-sonic-gt.json](./142834-sonic-gt.json) |
 | Sonic Head On | 237487 | [237487-sonic-head-on.json](./237487-sonic-head-on.json) |
 | Sonic Headway | 331713 | [331713-sonic-headway.json](./331713-sonic-headway.json) |
 | Sonic Heardle | 198251 | [198251-sonic-heardle.json](./198251-sonic-heardle.json) |
@@ -16158,7 +16163,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Revenge of the Sith | 220263 | [220263-star-wars-revenge-of-the-sith.json](./220263-star-wars-revenge-of-the-sith.json) |
 | Star Wars: Rogue Leaders - Rogue Squadron Wii | 261815 | [261815-star-wars-rogue-leaders-rogue-squadron-wii.json](./261815-star-wars-rogue-leaders-rogue-squadron-wii.json) |
 | Star Wars: Saga Edition: Lightsaber Battle Game | 255561 | [255561-star-wars-saga-edition-lightsaber-battle-game.json](./255561-star-wars-saga-edition-lightsaber-battle-game.json) |
-| Star Wars: Squadrons | 134706 | [134706-star-wars-squadrons.json](./134706-star-wars-squadrons.json) |
 | Star Wars: Starfighter - Special Edition | 242773 | [242773-star-wars-starfighter-special-edition.json](./242773-star-wars-starfighter-special-edition.json) |
 | Star Wars: Tales from the Galaxy's Edge | 134957 | [134957-star-wars-tales-from-the-galaxys-edge.json](./134957-star-wars-tales-from-the-galaxys-edge.json) |
 | Star Wars: Tales from the Galaxy's Edge - Last Call | 166008 | [166008-star-wars-tales-from-the-galaxys-edge-last-call.json](./166008-star-wars-tales-from-the-galaxys-edge-last-call.json) |
@@ -18222,6 +18226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Kitten | 150691 | [150691-stray-kitten.json](./150691-stray-kitten.json) |
 | Stray of Lostcat | 385078 | [385078-stray-of-lostcat.json](./385078-stray-of-lostcat.json) |
 | Stray Path | 268948 | [268948-stray-path.json](./268948-stray-path.json) |
+| Stray Sheep: The Adventures of Poe and Merry | 142790 | [142790-stray-sheep-the-adventures-of-poe-and-merry.json](./142790-stray-sheep-the-adventures-of-poe-and-merry.json) |
 | Stray Shot | 290715 | [290715-stray-shot.json](./290715-stray-shot.json) |
 | Stray Sketch | 339657 | [339657-stray-sketch.json](./339657-stray-sketch.json) |
 | Stray Souls | 183474 | [183474-stray-souls.json](./183474-stray-souls.json) |
@@ -18276,6 +18281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Siege | 410790 | [410790-stream-siege.json](./410790-stream-siege.json) |
 | Stream Stratos | 348323 | [348323-stream-stratos.json](./348323-stream-stratos.json) |
 | Stream Town | 143703 | [143703-stream-town.json](./143703-stream-town.json) |
+| Stream Toys by Zokya | 142785 | [142785-stream-toys-by-zokya.json](./142785-stream-toys-by-zokya.json) |
 | Stream Train | 410341 | [410341-stream-train.json](./410341-stream-train.json) |
 | Stream Typers | 206738 | [206738-stream-typers.json](./206738-stream-typers.json) |
 | Stream War | 203763 | [203763-stream-war.json](./203763-stream-war.json) |
@@ -18531,9 +18537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Handbags | 317835 | [317835-streets-of-handbags.json](./317835-streets-of-handbags.json) |
 | Streets of Kamurocho | 140046 | [140046-streets-of-kamurocho.json](./140046-streets-of-kamurocho.json) |
 | Streets of London | 61168 | [61168-streets-of-london.json](./61168-streets-of-london.json) |
-| Streets of Rage | 1652 | [1652-streets-of-rage.json](./1652-streets-of-rage.json) |
 | Streets of Rage | 198650 | [198650-streets-of-rage.json](./198650-streets-of-rage.json) |
-| Streets of Rage 2 | 1653 | [1653-streets-of-rage-2.json](./1653-streets-of-rage-2.json) |
 | Streets of Rage 2 | 203318 | [203318-streets-of-rage-2.json](./203318-streets-of-rage-2.json) |
 | Streets of Rage 2: Puyo Wars | 315122 | [315122-streets-of-rage-2-puyo-wars.json](./315122-streets-of-rage-2-puyo-wars.json) |
 | Streets of Rage 2: Syndicate Wars | 256300 | [256300-streets-of-rage-2-syndicate-wars.json](./256300-streets-of-rage-2-syndicate-wars.json) |
@@ -19415,6 +19419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugoro Quest++ Dicenics | 37807 | [37807-sugoro-quest-dicenics.json](./37807-sugoro-quest-dicenics.json) |
 | Sugoroku Casino Party | 323443 | [323443-sugoroku-casino-party.json](./323443-sugoroku-casino-party.json) |
 | Sugoroku New Year's Party | 379373 | [379373-sugoroku-new-years-party.json](./379373-sugoroku-new-years-party.json) |
+| Sugu Suro Duo: New Pulsar R&V | 142693 | [142693-sugu-suro-duo-new-pulsar-r-and-v.json](./142693-sugu-suro-duo-new-pulsar-r-and-v.json) |
 | Suguri | 80489 | [80489-suguri.json](./80489-suguri.json) |
 | Suguru Nature | 147617 | [147617-suguru-nature.json](./147617-suguru-nature.json) |
 | Sugy the Christmas elf | 83206 | [83206-sugy-the-christmas-elf.json](./83206-sugy-the-christmas-elf.json) |
