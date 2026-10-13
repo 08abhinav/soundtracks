@@ -5016,6 +5016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate of Madagascar Island | 158600 | [158600-pirate-of-madagascar-island.json](./158600-pirate-of-madagascar-island.json) |
 | Pirate Parakeet | 346777 | [346777-pirate-parakeet.json](./346777-pirate-parakeet.json) |
 | Pirate Pete | 154810 | [154810-pirate-pete.json](./154810-pirate-pete.json) |
+| Pirate Planet | 135556 | [135556-pirate-planet.json](./135556-pirate-planet.json) |
 | Pirate Plight | 245911 | [245911-pirate-plight.json](./245911-pirate-plight.json) |
 | Pirate Pop Mega Quiz | 232499 | [232499-pirate-pop-mega-quiz.json](./232499-pirate-pop-mega-quiz.json) |
 | Pirate Popper VR | 153486 | [153486-pirate-popper-vr.json](./153486-pirate-popper-vr.json) |
@@ -6563,6 +6564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plead with the Mountain God | 177293 | [177293-plead-with-the-mountain-god.json](./177293-plead-with-the-mountain-god.json) |
 | Please | 134675 | [134675-please.json](./134675-please.json) |
 | Please (Don't) Touch the Art | 276478 | [276478-please-dont-touch-the-art.json](./276478-please-dont-touch-the-art.json) |
+| Please adopt me. # AI needs repair. | 135719 | [135719-please-adopt-me-ai-needs-repair.json](./135719-please-adopt-me-ai-needs-repair.json) |
 | Please Answer Carefully | 176488 | [176488-please-answer-carefully.json](./176488-please-answer-carefully.json) |
 | Please Be Kind to the Chickens | 258080 | [258080-please-be-kind-to-the-chickens.json](./258080-please-be-kind-to-the-chickens.json) |
 | Please close the doors | 81639 | [81639-please-close-the-doors.json](./81639-please-close-the-doors.json) |
@@ -10437,6 +10439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Michael: The Halloween Nightmare | 272804 | [272804-project-michael-the-halloween-nightmare.json](./272804-project-michael-the-halloween-nightmare.json) |
 | Project Microchip | 392269 | [392269-project-microchip.json](./392269-project-microchip.json) |
 | Project Midgard | 149529 | [149529-project-midgard.json](./149529-project-midgard.json) |
+| Project Mikhail | 135569 | [135569-project-mikhail.json](./135569-project-mikhail.json) |
 | Project Mind | 197108 | [197108-project-mind.json](./197108-project-mind.json) |
 | Project Mirror | 156058 | [156058-project-mirror.json](./156058-project-mirror.json) |
 | Project Missionary: The Reckoning of Hizzokahpolis | 319074 | [319074-project-missionary-the-reckoning-of-hizzokahpolis.json](./319074-project-missionary-the-reckoning-of-hizzokahpolis.json) |
