@@ -2398,6 +2398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Stop | 87314 | [87314-next-stop.json](./87314-next-stop.json) |
 | Next Stop 3 | 115593 | [115593-next-stop-3.json](./115593-next-stop-3.json) |
 | Next Stop Mobile | 197855 | [197855-next-stop-mobile.json](./197855-next-stop-mobile.json) |
+| Next Stop Nowhere | 136743 | [136743-next-stop-nowhere.json](./136743-next-stop-nowhere.json) |
 | Next Stop Zombie | 72364 | [72364-next-stop-zombie.json](./72364-next-stop-zombie.json) |
 | Next Sweetstop | 253884 | [253884-next-sweetstop.json](./253884-next-sweetstop.json) |
 | Next Up Hero | 45026 | [45026-next-up-hero.json](./45026-next-up-hero.json) |
