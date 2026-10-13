@@ -1646,6 +1646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Grid Defenders | 297887 | [297887-neon-grid-defenders.json](./297887-neon-grid-defenders.json) |
 | Neon Hardcore | 51586 | [51586-neon-hardcore.json](./51586-neon-hardcore.json) |
 | Neon Hardcorps | 33429 | [33429-neon-hardcorps.json](./33429-neon-hardcorps.json) |
+| Neon Haze | 152042 | [152042-neon-haze.json](./152042-neon-haze.json) |
 | Neon Hearts City | 331383 | [331383-neon-hearts-city.json](./331383-neon-hearts-city.json) |
 | Neon Heights | 278144 | [278144-neon-heights.json](./278144-neon-heights.json) |
 | Neon Idle | 367299 | [367299-neon-idle.json](./367299-neon-idle.json) |
@@ -3761,6 +3762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Escape Saga | 146540 | [146540-no-escape-saga.json](./146540-no-escape-saga.json) |
 | No Fair Play | 172755 | [172755-no-fair-play.json](./172755-no-fair-play.json) |
 | No Fate! Only the Power of Will | 7123 | [7123-no-fate-only-the-power-of-will.json](./7123-no-fate-only-the-power-of-will.json) |
+| No Fear | 153161 | [153161-no-fear.json](./153161-no-fear.json) |
 | No Fear Downhill Mountain Biking | 372835 | [372835-no-fear-downhill-mountain-biking.json](./372835-no-fear-downhill-mountain-biking.json) |
 | No Fear Downhill Mountain Biking | 4654 | [4654-no-fear-downhill-mountain-biking.json](./4654-no-fear-downhill-mountain-biking.json) |
 | No Final Night: Protect the Sponk Can | 410918 | [410918-no-final-night-protect-the-sponk-can.json](./410918-no-final-night-protect-the-sponk-can.json) |
@@ -3785,6 +3787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Honor | 166827 | [166827-no-honor.json](./166827-no-honor.json) |
 | No Hope | 149685 | [149685-no-hope.json](./149685-no-hope.json) |
 | No Horizon | 109572 | [109572-no-horizon.json](./109572-no-horizon.json) |
+| No Humanity | 152015 | [152015-no-humanity.json](./152015-no-humanity.json) |
 | No Internet | 292053 | [292053-no-internet.json](./292053-no-internet.json) |
 | No JetPacks For Chattini | 346015 | [346015-no-jetpacks-for-chattini.json](./346015-no-jetpacks-for-chattini.json) |
 | No Jokes With Mages | 392373 | [392373-no-jokes-with-mages.json](./392373-no-jokes-with-mages.json) |
@@ -3850,6 +3853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Heroes: Red Zone Edition | 116373 | [116373-no-more-heroes-red-zone-edition.json](./116373-no-more-heroes-red-zone-edition.json) |
 | No More Home | 157921 | [157921-no-more-home.json](./157921-no-more-home.json) |
 | No More Inputs | 164913 | [164913-no-more-inputs.json](./164913-no-more-inputs.json) |
+| No More Light | 151479 | [151479-no-more-light.json](./151479-no-more-light.json) |
 | No More Pop Music - Annihilation | 113145 | [113145-no-more-pop-music-annihilation.json](./113145-no-more-pop-music-annihilation.json) |
 | No More Rainbows | 168672 | [168672-no-more-rainbows.json](./168672-no-more-rainbows.json) |
 | No More Shopping | 334867 | [334867-no-more-shopping.json](./334867-no-more-shopping.json) |
