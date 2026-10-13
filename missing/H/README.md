@@ -714,6 +714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Drop | 63545 | [63545-hamster-drop.json](./63545-hamster-drop.json) |
 | Hamster Escapes: Minnie Pets! | 245372 | [245372-hamster-escapes-minnie-pets.json](./245372-hamster-escapes-minnie-pets.json) |
 | Hamster Fighter | 246459 | [246459-hamster-fighter.json](./246459-hamster-fighter.json) |
+| Hamster Game | 133734 | [133734-hamster-game.json](./133734-hamster-game.json) |
 | Hamster Hunter: Rodent Rampage | 330556 | [330556-hamster-hunter-rodent-rampage.json](./330556-hamster-hunter-rodent-rampage.json) |
 | Hamster Inn | 297166 | [297166-hamster-inn.json](./297166-hamster-inn.json) |
 | Hamster Mapster | 400521 | [400521-hamster-mapster.json](./400521-hamster-mapster.json) |
@@ -5176,6 +5177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himno 2 | 118169 | [118169-himno-2.json](./118169-himno-2.json) |
 | Himno: The Silent Melody | 120166 | [120166-himno-the-silent-melody.json](./120166-himno-the-silent-melody.json) |
 | Himouto! Umaru-chan: Umaru Training Plan | 12379 | [12379-himouto-umaru-chan-umaru-training-plan.json](./12379-himouto-umaru-chan-umaru-training-plan.json) |
+| Hina no Fuwa-fuwa Dream | 133732 | [133732-hina-no-fuwa-fuwa-dream.json](./133732-hina-no-fuwa-fuwa-dream.json) |
 | Hina-chan Breaker: 2nd Break | 212293 | [212293-hina-chan-breaker-2nd-break.json](./212293-hina-chan-breaker-2nd-break.json) |
 | Hina-chan no Yakiniku Party | 208404 | [208404-hina-chan-no-yakiniku-party.json](./208404-hina-chan-no-yakiniku-party.json) |
 | Hina-chan Snowtime | 208260 | [208260-hina-chan-snowtime.json](./208260-hina-chan-snowtime.json) |
@@ -5282,6 +5284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hissatsu Pachinko Station | 58321 | [58321-hissatsu-pachinko-station.json](./58321-hissatsu-pachinko-station.json) |
 | Hissatsu Pachinko Station 2 | 58320 | [58320-hissatsu-pachinko-station-2.json](./58320-hissatsu-pachinko-station-2.json) |
 | Hissatsu Pachinko Station 3 | 58316 | [58316-hissatsu-pachinko-station-3.json](./58316-hissatsu-pachinko-station-3.json) |
+| Hissatsu Pachinko Station Now 8: Jarinko Chie | 133745 | [133745-hissatsu-pachinko-station-now-8-jarinko-chie.json](./133745-hissatsu-pachinko-station-now-8-jarinko-chie.json) |
 | Hissatsu Pachinko Station V2 | 137100 | [137100-hissatsu-pachinko-station-v2.json](./137100-hissatsu-pachinko-station-v2.json) |
 | Hissatsu Pachinko Station: Monster House Special | 58317 | [58317-hissatsu-pachinko-station-monster-house-special.json](./58317-hissatsu-pachinko-station-monster-house-special.json) |
 | Hissatsu Shaolin-ji | 385747 | [385747-hissatsu-shaolin-ji.json](./385747-hissatsu-shaolin-ji.json) |
@@ -8097,6 +8100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Chess | 353916 | [353916-hyper-chess.json](./353916-hyper-chess.json) |
 | Hyper Contender | 318714 | [318714-hyper-contender.json](./318714-hyper-contender.json) |
 | Hyper Danganronpa Melancholy | 304342 | [304342-hyper-danganronpa-melancholy.json](./304342-hyper-danganronpa-melancholy.json) |
+| Hyper Dash | 133736 | [133736-hyper-dash.json](./133736-hyper-dash.json) |
 | Hyper Demon | 218183 | [218183-hyper-demon.json](./218183-hyper-demon.json) |
 | Hyper Detonator | 380198 | [380198-hyper-detonator.json](./380198-hyper-detonator.json) |
 | Hyper Dimensional Basement Crawler | 177944 | [177944-hyper-dimensional-basement-crawler.json](./177944-hyper-dimensional-basement-crawler.json) |
