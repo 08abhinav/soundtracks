@@ -2117,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team:Cars | 138238 | [138238-team-cars.json](./138238-team-cars.json) |
 | Team17 Collection 1 | 241979 | [241979-team17-collection-1.json](./241979-team17-collection-1.json) |
 | Team17 Indie Collection | 82411 | [82411-team17-indie-collection.json](./82411-team17-indie-collection.json) |
+| Teamball.io | 154815 | [154815-teamball-io.json](./154815-teamball-io.json) |
 | Teamchef | 93006 | [93006-teamchef.json](./93006-teamchef.json) |
 | Teamfight Manager 2 | 369638 | [369638-teamfight-manager-2.json](./369638-teamfight-manager-2.json) |
 | Teamkill | 191560 | [191560-teamkill.json](./191560-teamkill.json) |
@@ -10381,6 +10382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The S Factor: Sonia and Silver | 45579 | [45579-the-s-factor-sonia-and-silver.json](./45579-the-s-factor-sonia-and-silver.json) |
 | The S.H.O.W. | 412964 | [412964-the-s-h-o-w.json](./412964-the-s-h-o-w.json) |
 | The S.Sterling Co. | 204207 | [204207-the-s-sterling-co.json](./204207-the-s-sterling-co.json) |
+| The Saboten Man | 154782 | [154782-the-saboten-man.json](./154782-the-saboten-man.json) |
 | The Saboteur | 3171 | [3171-the-saboteur.json](./3171-the-saboteur.json) |
 | The Sacred Acorn | 141175 | [141175-the-sacred-acorn.json](./141175-the-sacred-acorn.json) |
 | The Sacred Geography of Kazakhstan | 214701 | [214701-the-sacred-geography-of-kazakhstan.json](./214701-the-sacred-geography-of-kazakhstan.json) |
@@ -17122,6 +17124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toro's Story App: Heart Pounding Nya | 246074 | [246074-toros-story-app-heart-pounding-nya.json](./246074-toros-story-app-heart-pounding-nya.json) |
 | Toroa: Skycall | 204521 | [204521-toroa-skycall.json](./204521-toroa-skycall.json) |
 | Toroidal: Awaiting the Spring | 244699 | [244699-toroidal-awaiting-the-spring.json](./244699-toroidal-awaiting-the-spring.json) |
+| Toroom | 154834 | [154834-toroom.json](./154834-toroom.json) |
 | Torpedo Alley | 314417 | [314417-torpedo-alley.json](./314417-torpedo-alley.json) |
 | Torpedo Boat | 239648 | [239648-torpedo-boat.json](./239648-torpedo-boat.json) |
 | Torpedo Fire | 23998 | [23998-torpedo-fire.json](./23998-torpedo-fire.json) |
