@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T19:35:29.126Z",
-  "total_soundtracks": 1599,
+  "generated_at": "2026-10-13T19:35:44.668Z",
+  "total_soundtracks": 1600,
   "games": [
     {
       "igdb_id": 7522,
@@ -13206,6 +13206,20 @@
           "album_name": "Saints Row IV - The Soundtrack",
           "spotify_url": "https://open.spotify.com/album/3s2svfAFATDhQXves2TQYG",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 7709,
+      "game_name": "Salt and Sanctuary",
+      "game_url": "https://ostdb.net/games/salt-and-sanctuary",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c0b05f330867759e60e35c09",
+      "albums": [
+        {
+          "album_name": "Salt and Sanctuary (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/01DC1NLgvTcsotx8JqXMfs",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
