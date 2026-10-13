@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Snails 2 | 337083 | [337083-i-commissioned-some-snails-2.json](./337083-i-commissioned-some-snails-2.json) |
 | I Commissioned Some Snails 4 | 360653 | [360653-i-commissioned-some-snails-4.json](./360653-i-commissioned-some-snails-4.json) |
 | I Commissioned Some Unicorns | 257692 | [257692-i-commissioned-some-unicorns.json](./257692-i-commissioned-some-unicorns.json) |
+| I Deserve a Happy Ending | 167355 | [167355-i-deserve-a-happy-ending.json](./167355-i-deserve-a-happy-ending.json) |
 | I Did a Bad Thing | 229370 | [229370-i-did-a-bad-thing.json](./229370-i-did-a-bad-thing.json) |
 | I Did It All For The Cookie! | 311209 | [311209-i-did-it-all-for-the-cookie.json](./311209-i-did-it-all-for-the-cookie.json) |
 | I Did it Mum! Picture Book | 48040 | [48040-i-did-it-mum-picture-book.json](./48040-i-did-it-mum-picture-book.json) |
@@ -999,6 +1000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Garden | 390715 | [390715-idle-garden.json](./390715-idle-garden.json) |
 | Idle Gem Quest | 224562 | [224562-idle-gem-quest.json](./224562-idle-gem-quest.json) |
 | Idle Geometry Defense | 373735 | [373735-idle-geometry-defense.json](./373735-idle-geometry-defense.json) |
+| Idle Gog: Endless War | 167360 | [167360-idle-gog-endless-war.json](./167360-idle-gog-endless-war.json) |
 | Idle Grid | 340516 | [340516-idle-grid.json](./340516-idle-grid.json) |
 | Idle Guardians | 117816 | [117816-idle-guardians.json](./117816-idle-guardians.json) |
 | Idle Guardians: Never Die | 101670 | [101670-idle-guardians-never-die.json](./101670-idle-guardians-never-die.json) |
