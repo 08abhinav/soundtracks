@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops 6 - Season 4 | 362955 | [362955-call-of-duty-black-ops-6-season-4.json](./362955-call-of-duty-black-ops-6-season-4.json) |
 | Call of Duty: Black Ops 6 - Season 5 | 362956 | [362956-call-of-duty-black-ops-6-season-5.json](./362956-call-of-duty-black-ops-6-season-5.json) |
 | Call of Duty: Black Ops Cold War - Season Four | 152117 | [152117-call-of-duty-black-ops-cold-war-season-four.json](./152117-call-of-duty-black-ops-cold-war-season-four.json) |
+| Call of Duty: Black Ops Cold War - Season One | 141574 | [141574-call-of-duty-black-ops-cold-war-season-one.json](./141574-call-of-duty-black-ops-cold-war-season-one.json) |
 | Call of Duty: Black Ops Cold War - Season Six | 172674 | [172674-call-of-duty-black-ops-cold-war-season-six.json](./172674-call-of-duty-black-ops-cold-war-season-six.json) |
 | Call of Duty: Black Ops Cold War - Season Two | 144050 | [144050-call-of-duty-black-ops-cold-war-season-two.json](./144050-call-of-duty-black-ops-cold-war-season-two.json) |
 | Call of Duty: Black Ops Cold War - Ultimate Edition | 139887 | [139887-call-of-duty-black-ops-cold-war-ultimate-edition.json](./139887-call-of-duty-black-ops-cold-war-ultimate-edition.json) |
@@ -4963,6 +4964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chomper's | 282626 | [282626-chompers.json](./282626-chompers.json) |
 | Chomper's Adventure | 59451 | [59451-chompers-adventure.json](./59451-chompers-adventure.json) |
 | Chompies! | 207407 | [207407-chompies.json](./207407-chompies.json) |
+| Chompsters | 141602 | [141602-chompsters.json](./141602-chompsters.json) |
 | Chompy Chomp Chomp Party | 223508 | [223508-chompy-chomp-chomp-party.json](./223508-chompy-chomp-chomp-party.json) |
 | Chóngshēng Zhànshì | 158537 | [158537-chongsheng-zhanshi.json](./158537-chongsheng-zhanshi.json) |
 | Chonka | 142212 | [142212-chonka.json](./142212-chonka.json) |
@@ -9496,6 +9498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corgi Simulator | 128588 | [128588-corgi-simulator.json](./128588-corgi-simulator.json) |
 | Corgi Snow Day | 178579 | [178579-corgi-snow-day.json](./178579-corgi-snow-day.json) |
 | Corgix | 138698 | [138698-corgix.json](./138698-corgix.json) |
+| Coria and the Sunken City | 141621 | [141621-coria-and-the-sunken-city.json](./141621-coria-and-the-sunken-city.json) |
 | Corinne | 377986 | [377986-corinne.json](./377986-corinne.json) |
 | Cork the Volcano | 132776 | [132776-cork-the-volcano.json](./132776-cork-the-volcano.json) |
 | Cork the Volcano for Puzzlets | 96718 | [96718-cork-the-volcano-for-puzzlets.json](./96718-cork-the-volcano-for-puzzlets.json) |
@@ -10136,6 +10139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cow V: The Great Egg Quest | 71060 | [71060-cow-v-the-great-egg-quest.json](./71060-cow-v-the-great-egg-quest.json) |
 | CowaCowa: Jinmenken | 339328 | [339328-cowacowa-jinmenken.json](./339328-cowacowa-jinmenken.json) |
 | Coward | 132664 | [132664-coward.json](./132664-coward.json) |
+| Coward Town | 141619 | [141619-coward-town.json](./141619-coward-town.json) |
 | Cowardice | 199512 | [199512-cowardice.json](./199512-cowardice.json) |
 | Cowardly Heroes | 182298 | [182298-cowardly-heroes.json](./182298-cowardly-heroes.json) |
 | Cowbots and Aliens | 31595 | [31595-cowbots-and-aliens.json](./31595-cowbots-and-aliens.json) |
