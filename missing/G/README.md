@@ -1725,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemini City: Science and Magic | 255892 | [255892-gemini-city-science-and-magic.json](./255892-gemini-city-science-and-magic.json) |
 | Gemini Lost | 16080 | [16080-gemini-lost.json](./16080-gemini-lost.json) |
 | Gemini Rue | 6325 | [6325-gemini-rue.json](./6325-gemini-rue.json) |
+| Gemini Strategy Origin | 156893 | [156893-gemini-strategy-origin.json](./156893-gemini-strategy-origin.json) |
 | Gemini Wing | 12117 | [12117-gemini-wing.json](./12117-gemini-wing.json) |
 | Gemini X | 404926 | [404926-gemini-x.json](./404926-gemini-x.json) |
 | Gemini: A Journey of Two Stars | 57734 | [57734-gemini-a-journey-of-two-stars.json](./57734-gemini-a-journey-of-two-stars.json) |
@@ -3525,6 +3526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Go Wolf | 386406 | [386406-go-go-wolf.json](./386406-go-go-wolf.json) |
 | Go Go, Groove Ghoul! | 402413 | [402413-go-go-groove-ghoul.json](./402413-go-go-groove-ghoul.json) |
 | Go Go! Flambeau! | 219799 | [219799-go-go-flambeau.json](./219799-go-go-flambeau.json) |
+| Go Gold Castle | 156879 | [156879-go-gold-castle.json](./156879-go-gold-castle.json) |
 | Go Green! | 224050 | [224050-go-green.json](./224050-go-green.json) |
 | Go Guess | 89981 | [89981-go-guess.json](./89981-go-guess.json) |
 | Go Hell Go Gou: Tsukiotoshitego | 378910 | [378910-go-hell-go-gou-tsukiotoshitego.json](./378910-go-hell-go-gou-tsukiotoshitego.json) |
