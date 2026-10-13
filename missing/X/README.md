@@ -458,7 +458,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenobreakers: Classic Tower Defense | 337065 | [337065-xenobreakers-classic-tower-defense.json](./337065-xenobreakers-classic-tower-defense.json) |
 | Xenochamber | 110976 | [110976-xenochamber.json](./110976-xenochamber.json) |
 | XenoFeud | 235488 | [235488-xenofeud.json](./235488-xenofeud.json) |
-| Xenogears | 1346 | [1346-xenogears.json](./1346-xenogears.json) |
 | Xenogen | 381675 | [381675-xenogen.json](./381675-xenogen.json) |
 | Xenogunner | 98587 | [98587-xenogunner.json](./98587-xenogunner.json) |
 | Xenogunner Returns: Rule of Chaos | 316693 | [316693-xenogunner-returns-rule-of-chaos.json](./316693-xenogunner-returns-rule-of-chaos.json) |
