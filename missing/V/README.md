@@ -1344,6 +1344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Poker | 246382 | [246382-video-poker.json](./246382-video-poker.json) |
 | Video Poker | 272552 | [272552-video-poker.json](./272552-video-poker.json) |
 | Video Poker | 275222 | [275222-video-poker.json](./275222-video-poker.json) |
+| Video Poker & Blackjack | 140955 | [140955-video-poker-and-blackjack.json](./140955-video-poker-and-blackjack.json) |
 | Video Poker at Aces Casino | 147765 | [147765-video-poker-at-aces-casino.json](./147765-video-poker-at-aces-casino.json) |
 | Video Poker Collection | 147886 | [147886-video-poker-collection.json](./147886-video-poker-collection.json) |
 | Video Poker Rogue | 312867 | [312867-video-poker-rogue.json](./312867-video-poker-rogue.json) |
