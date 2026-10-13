@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R: Racing Evolution | 4076 | [4076-r-racing-evolution.json](./4076-r-racing-evolution.json) |
 | R?MJ: The Mystery Hospital | 54928 | [54928-r-mj-the-mystery-hospital.json](./54928-r-mj-the-mystery-hospital.json) |
 | R.A.I.L. Together | 409644 | [409644-r-a-i-l-together.json](./409644-r-a-i-l-together.json) |
+| R.A.M. | 141625 | [141625-r-a-m.json](./141625-r-a-m.json) |
 | R.A.S.P. Mobility-Unit | 359023 | [359023-r-a-s-p-mobility-unit.json](./359023-r-a-s-p-mobility-unit.json) |
 | R.A.T.: Human Error – Episode One | 350507 | [350507-r-a-t-human-error-episode-one.json](./350507-r-a-t-human-error-episode-one.json) |
 | R.A.T.T.Z. Maze | 238563 | [238563-r-a-t-t-z-maze.json](./238563-r-a-t-t-z-maze.json) |
@@ -77,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.I.P. | 381005 | [381005-r-i-p.json](./381005-r-i-p.json) |
 | R.I.P. | 77984 | [77984-r-i-p.json](./77984-r-i-p.json) |
 | R.I.P. Curl | 291613 | [291613-r-i-p-curl.json](./291613-r-i-p-curl.json) |
+| R.I.Pea-Guy | 141598 | [141598-r-i-pea-guy.json](./141598-r-i-pea-guy.json) |
 | R.I.S.K. | 55184 | [55184-r-i-s-k.json](./55184-r-i-s-k.json) |
 | R.O.O.T.S | 35543 | [35543-r-o-o-t-s.json](./35543-r-o-o-t-s.json) |
 | R.O.V.E.R. | 401624 | [401624-r-o-v-e-r.json](./401624-r-o-v-e-r.json) |
@@ -6172,6 +6174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Season 19 | 350417 | [350417-rocket-league-season-19.json](./350417-rocket-league-season-19.json) |
 | Rocket League: Season 19 Elite Pack | 366843 | [366843-rocket-league-season-19-elite-pack.json](./366843-rocket-league-season-19-elite-pack.json) |
 | Rocket League: Season 19 Rookie Pack | 366844 | [366844-rocket-league-season-19-rookie-pack.json](./366844-rocket-league-season-19-rookie-pack.json) |
+| Rocket League: Season 2 | 141575 | [141575-rocket-league-season-2.json](./141575-rocket-league-season-2.json) |
 | Rocket League: Season 23 | 407432 | [407432-rocket-league-season-23.json](./407432-rocket-league-season-23.json) |
 | Rocket League: Season 3 | 159225 | [159225-rocket-league-season-3.json](./159225-rocket-league-season-3.json) |
 | Rocket League: Season 5 | 198278 | [198278-rocket-league-season-5.json](./198278-rocket-league-season-5.json) |
@@ -6791,6 +6794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerBall | 245736 | [245736-rollerball.json](./245736-rollerball.json) |
 | RollerBaller | 158511 | [158511-rollerballer.json](./158511-rollerballer.json) |
 | Rollerblade Racer | 48204 | [48204-rollerblade-racer.json](./48204-rollerblade-racer.json) |
+| Rollerbot | 141599 | [141599-rollerbot.json](./141599-rollerbot.json) |
 | Rollerboy 2 | 293644 | [293644-rollerboy-2.json](./293644-rollerboy-2.json) |
 | RollerCoaster Arcade VR Bundle | 118862 | [118862-rollercoaster-arcade-vr-bundle.json](./118862-rollercoaster-arcade-vr-bundle.json) |
 | Rollercoaster Creator | 337202 | [337202-rollercoaster-creator.json](./337202-rollercoaster-creator.json) |
