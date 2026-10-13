@@ -587,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xin Juedai Shuangjiao 2 | 78051 | [78051-xin-juedai-shuangjiao-2.json](./78051-xin-juedai-shuangjiao-2.json) |
 | Xin Juedai Shuangjiao 3 | 68688 | [68688-xin-juedai-shuangjiao-3.json](./68688-xin-juedai-shuangjiao-3.json) |
 | Xin Juedai Shuangjiao: Qianzhuan | 85754 | [85754-xin-juedai-shuangjiao-qianzhuan.json](./85754-xin-juedai-shuangjiao-qianzhuan.json) |
+| Xīn Qīngguó zhī Nù | 165777 | [165777-xin-qingguo-zhi-nu.json](./165777-xin-qingguo-zhi-nu.json) |
 | Xīn Shéndiāo Xiálǚ zhī Wánjiépiān | 295240 | [295240-xin-shendiao-xialu-zhi-wanjiepian.json](./295240-xin-shendiao-xialu-zhi-wanjiepian.json) |
 | Xīn Suǒ Xiàngwǎng de Běijíxīng | 375426 | [375426-xin-suo-xiangwang-de-beijixing.json](./375426-xin-suo-xiangwang-de-beijixing.json) |
 | Xin Yuejian Hen | 78919 | [78919-xin-yuejian-hen.json](./78919-xin-yuejian-hen.json) |
