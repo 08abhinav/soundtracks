@@ -2870,6 +2870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Helix | 108494 | [108494-hello-helix.json](./108494-hello-helix.json) |
 | Hello Hello | 184492 | [184492-hello-hello.json](./184492-hello-hello.json) |
 | Hello Hero | 23590 | [23590-hello-hero.json](./23590-hello-hero.json) |
+| Hello Human | 135716 | [135716-hello-human.json](./135716-hello-human.json) |
 | Hello inc VR | 28941 | [28941-hello-inc-vr.json](./28941-hello-inc-vr.json) |
 | Hello Kitty & Friends: Rock n' World Tour | 83210 | [83210-hello-kitty-and-friends-rock-n-world-tour.json](./83210-hello-kitty-and-friends-rock-n-world-tour.json) |
 | Hello Kitty and Friends: Happiness Parade | 204458 | [204458-hello-kitty-and-friends-happiness-parade.json](./204458-hello-kitty-and-friends-happiness-parade.json) |
@@ -4402,6 +4403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hibow Supporter | 182873 | [182873-hibow-supporter.json](./182873-hibow-supporter.json) |
 | Hibridya | 371274 | [371274-hibridya.json](./371274-hibridya.json) |
 | Hidalgo | 314641 | [314641-hidalgo.json](./314641-hidalgo.json) |
+| Hidden | 135586 | [135586-hidden.json](./135586-hidden.json) |
 | Hidden | 249789 | [249789-hidden.json](./249789-hidden.json) |
 | Hidden & Dangerous | 294 | [294-hidden-and-dangerous.json](./294-hidden-and-dangerous.json) |
 | Hidden & Dangerous 2 | 107 | [107-hidden-and-dangerous-2.json](./107-hidden-and-dangerous-2.json) |
@@ -7548,6 +7550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo: The Bewitched Rollercoaster | 286609 | [286609-hugo-the-bewitched-rollercoaster.json](./286609-hugo-the-bewitched-rollercoaster.json) |
 | Hugo: The Evil Mirror | 6438 | [6438-hugo-the-evil-mirror.json](./6438-hugo-the-evil-mirror.json) |
 | Hugo: The Forces of Nature | 15538 | [15538-hugo-the-forces-of-nature.json](./15538-hugo-the-forces-of-nature.json) |
+| Hugo: The Magic Journey | 135561 | [135561-hugo-the-magic-journey.json](./135561-hugo-the-magic-journey.json) |
 | Hugo: The Quest for the Sunstones | 44743 | [44743-hugo-the-quest-for-the-sunstones.json](./44743-hugo-the-quest-for-the-sunstones.json) |
 | Hugo: Wild River | 210623 | [210623-hugo-wild-river.json](./210623-hugo-wild-river.json) |
 | Hugo: Winter Games | 337756 | [337756-hugo-winter-games.json](./337756-hugo-winter-games.json) |
