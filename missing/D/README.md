@@ -1678,6 +1678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date Z: Special Report Pack | 316202 | [316202-date-z-special-report-pack.json](./316202-date-z-special-report-pack.json) |
 | Date Z: TTRPG Enthusiast Pack | 316203 | [316203-date-z-ttrpg-enthusiast-pack.json](./316203-date-z-ttrpg-enthusiast-pack.json) |
 | DateBoy | 376656 | [376656-dateboy.json](./376656-dateboy.json) |
+| DateJournal | 133117 | [133117-datejournal.json](./133117-datejournal.json) |
 | Datenshi Kyouko Part 1 | 230207 | [230207-datenshi-kyouko-part-1.json](./230207-datenshi-kyouko-part-1.json) |
 | Datenshi no Amai Yuuwaku x Kaikan Phrase | 67350 | [67350-datenshi-no-amai-yuuwaku-x-kaikan-phrase.json](./67350-datenshi-no-amai-yuuwaku-x-kaikan-phrase.json) |
 | Dates & Wires | 153522 | [153522-dates-and-wires.json](./153522-dates-and-wires.json) |
@@ -4937,6 +4938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Barbie: The Mystery Cruise | 43915 | [43915-detective-barbie-the-mystery-cruise.json](./43915-detective-barbie-the-mystery-cruise.json) |
 | Detective Bass: Fish Out Of Water | 299369 | [299369-detective-bass-fish-out-of-water.json](./299369-detective-bass-fish-out-of-water.json) |
 | Detective Boiled-Hard / Case File - Death of the Space Dino Hunter | 393455 | [393455-detective-boiled-hard-case-file-death-of-the-space-dino-hunter.json](./393455-detective-boiled-hard-case-file-death-of-the-space-dino-hunter.json) |
+| Detective Bot | 133121 | [133121-detective-bot.json](./133121-detective-bot.json) |
 | Detective Boto: Belle Memoir | 410934 | [410934-detective-boto-belle-memoir.json](./410934-detective-boto-belle-memoir.json) |
 | Detective Bureau Simulator | 150015 | [150015-detective-bureau-simulator.json](./150015-detective-bureau-simulator.json) |
 | Detective Butler and the King of Hearts | 244238 | [244238-detective-butler-and-the-king-of-hearts.json](./244238-detective-butler-and-the-king-of-hearts.json) |
