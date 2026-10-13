@@ -2520,6 +2520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PeeTee Babybuu | 103197 | [103197-peetee-babybuu.json](./103197-peetee-babybuu.json) |
 | PeeWee Purpdrank's Foenem Clicker | 403014 | [403014-peewee-purpdranks-foenem-clicker.json](./403014-peewee-purpdranks-foenem-clicker.json) |
 | Peg | 68823 | [68823-peg.json](./68823-peg.json) |
+| Peg Adventure - Solo Noble | 148841 | [148841-peg-adventure-solo-noble.json](./148841-peg-adventure-solo-noble.json) |
 | Peg Champ | 411111 | [411111-peg-champ.json](./411111-peg-champ.json) |
 | Peg Solitaire | 171493 | [171493-peg-solitaire.json](./171493-peg-solitaire.json) |
 | Peg Solitaire | 314621 | [314621-peg-solitaire.json](./314621-peg-solitaire.json) |
@@ -6397,6 +6398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Something Different Vol. 1 | 173788 | [173788-play-something-different-vol-1.json](./173788-play-something-different-vol-1.json) |
 | Play Tag | 116810 | [116810-play-tag.json](./116810-play-tag.json) |
 | Play Tennis | 323171 | [323171-play-tennis.json](./323171-play-tennis.json) |
+| Play the Fox | 148850 | [148850-play-the-fox.json](./148850-play-the-fox.json) |
 | Play the Games Vol. 5 | 78309 | [78309-play-the-games-vol-5.json](./78309-play-the-games-vol-5.json) |
 | Play the Industry | 78982 | [78982-play-the-industry.json](./78982-play-the-industry.json) |
 | Play the Notes | 328685 | [328685-play-the-notes.json](./328685-play-the-notes.json) |
