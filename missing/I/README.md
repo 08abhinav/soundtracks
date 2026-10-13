@@ -3489,6 +3489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intruder -Sakura Yashiki no Tansaku- | 138224 | [138224-intruder-sakura-yashiki-no-tansaku.json](./138224-intruder-sakura-yashiki-no-tansaku.json) |
 | Intruder Alert: Ixian Operations | 33126 | [33126-intruder-alert-ixian-operations.json](./33126-intruder-alert-ixian-operations.json) |
 | Intruder Combat Training | 337121 | [337121-intruder-combat-training.json](./337121-intruder-combat-training.json) |
+| Intruder in Antiquonia | 178382 | [178382-intruder-in-antiquonia.json](./178382-intruder-in-antiquonia.json) |
 | Intruder on the Bridge | 173839 | [173839-intruder-on-the-bridge.json](./173839-intruder-on-the-bridge.json) |
 | Intruders | 110244 | [110244-intruders.json](./110244-intruders.json) |
 | Intrusion 2 | 6277 | [6277-intrusion-2.json](./6277-intrusion-2.json) |
@@ -3946,6 +3947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iscoot | 392153 | [392153-iscoot.json](./392153-iscoot.json) |
 | iScopaX | 100737 | [100737-iscopax.json](./100737-iscopax.json) |
 | ISDDS: Drone VR Simulator | 163919 | [163919-isdds-drone-vr-simulator.json](./163919-isdds-drone-vr-simulator.json) |
+| Ise & Kai: Chosen Throne | 178332 | [178332-ise-and-kai-chosen-throne.json](./178332-ise-and-kai-chosen-throne.json) |
 | Ise Shima Mystery Annai: Itsuwari no Kuro Shinju | 69363 | [69363-ise-shima-mystery-annai-itsuwari-no-kuro-shinju.json](./69363-ise-shima-mystery-annai-itsuwari-no-kuro-shinju.json) |
 | Isee | 51514 | [51514-isee.json](./51514-isee.json) |
 | Iseijin Kara no Okurimono | 401835 | [401835-iseijin-kara-no-okurimono.json](./401835-iseijin-kara-no-okurimono.json) |
