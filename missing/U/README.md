@@ -1186,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnderDungeon: Deluxe Edition | 250367 | [250367-underdungeon-deluxe-edition.json](./250367-underdungeon-deluxe-edition.json) |
 | Underfang | 399713 | [399713-underfang.json](./399713-underfang.json) |
 | Underfell Neutral Run | 335065 | [335065-underfell-neutral-run.json](./335065-underfell-neutral-run.json) |
+| Underfire | 157935 | [157935-underfire.json](./157935-underfire.json) |
 | UnderForged | 414474 | [414474-underforged.json](./414474-underforged.json) |
 | Undergod | 276153 | [276153-undergod.json](./276153-undergod.json) |
 | Undergone: Before | 390658 | [390658-undergone-before.json](./390658-undergone-before.json) |
@@ -2114,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upin & Ipin Universe | 347867 | [347867-upin-and-ipin-universe.json](./347867-upin-and-ipin-universe.json) |
 | Upin Dash | 174232 | [174232-upin-dash.json](./174232-upin-dash.json) |
 | Uplife | 236775 | [236775-uplife.json](./236775-uplife.json) |
+| Uplifting | 159549 | [159549-uplifting.json](./159549-uplifting.json) |
 | Uplink | 8587 | [8587-uplink.json](./8587-uplink.json) |
 | Upload | 382312 | [382312-upload.json](./382312-upload.json) |
 | Upload Aliens | 390102 | [390102-upload-aliens.json](./390102-upload-aliens.json) |
