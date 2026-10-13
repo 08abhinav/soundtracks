@@ -5390,6 +5390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronoshot | 138736 | [138736-chronoshot.json](./138736-chronoshot.json) |
 | Chronostation | 130239 | [130239-chronostation.json](./130239-chronostation.json) |
 | Chronostrike | 332409 | [332409-chronostrike.json](./332409-chronostrike.json) |
+| ChronoTecture: The Eprologue | 167350 | [167350-chronotecture-the-eprologue.json](./167350-chronotecture-the-eprologue.json) |
 | Chronotron | 212779 | [212779-chronotron.json](./212779-chronotron.json) |
 | Chronus Arc | 38512 | [38512-chronus-arc.json](./38512-chronus-arc.json) |
 | Chrs 143 | 162430 | [162430-chrs-143.json](./162430-chrs-143.json) |
@@ -8042,6 +8043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combo Quest 2 | 102768 | [102768-combo-quest-2.json](./102768-combo-quest-2.json) |
 | Combo! | 184405 | [184405-combo.json](./184405-combo.json) |
 | ComboChain Pulse | 408712 | [408712-combochain-pulse.json](./408712-combochain-pulse.json) |
+| Combohead | 167368 | [167368-combohead.json](./167368-combohead.json) |
 | Combolite | 338675 | [338675-combolite.json](./338675-combolite.json) |
 | Combos | 37290 | [37290-combos.json](./37290-combos.json) |
 | Combotronica | 373093 | [373093-combotronica.json](./373093-combotronica.json) |
@@ -9429,6 +9431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Killer | 298551 | [298551-corpse-killer.json](./298551-corpse-killer.json) |
 | Corpse Killer | 5372 | [5372-corpse-killer.json](./5372-corpse-killer.json) |
 | Corpse Killer: 25th Anniversary Edition | 119715 | [119715-corpse-killer-25th-anniversary-edition.json](./119715-corpse-killer-25th-anniversary-edition.json) |
+| Corpse Mansion | 167353 | [167353-corpse-mansion.json](./167353-corpse-mansion.json) |
 | Corpse Master Carnage | 277020 | [277020-corpse-master-carnage.json](./277020-corpse-master-carnage.json) |
 | Corpse Party | 11600 | [11600-corpse-party.json](./11600-corpse-party.json) |
 | Corpse Party | 178111 | [178111-corpse-party.json](./178111-corpse-party.json) |
@@ -10254,6 +10257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craftopia | 124448 | [124448-craftopia.json](./124448-craftopia.json) |
 | CraftOut | 149016 | [149016-craftout.json](./149016-craftout.json) |
 | CraftPunk | 339335 | [339335-craftpunk.json](./339335-craftpunk.json) |
+| Craftsman | 167357 | [167357-craftsman.json](./167357-craftsman.json) |
 | Craftsman Story | 384524 | [384524-craftsman-story.json](./384524-craftsman-story.json) |
 | Crafty | 157157 | [157157-crafty.json](./157157-crafty.json) |
 | Crafty Crasher | 349337 | [349337-crafty-crasher.json](./349337-crafty-crasher.json) |
@@ -12354,6 +12358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubixx | 377995 | [377995-cubixx.json](./377995-cubixx.json) |
 | Cubixx HD | 20632 | [20632-cubixx-hd.json](./20632-cubixx-hd.json) |
 | Cubiya | 164881 | [164881-cubiya.json](./164881-cubiya.json) |
+| Cubo ao Topo | 167348 | [167348-cubo-ao-topo.json](./167348-cubo-ao-topo.json) |
 | Cubob | 229006 | [229006-cubob.json](./229006-cubob.json) |
 | Cuboid | 23024 | [23024-cuboid.json](./23024-cuboid.json) |
 | Cuboid Bouncer | 151618 | [151618-cuboid-bouncer.json](./151618-cuboid-bouncer.json) |
