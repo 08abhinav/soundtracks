@@ -2608,6 +2608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Fury | 401760 | [401760-infinity-fury.json](./401760-infinity-fury.json) |
 | Infinity Girl | 191217 | [191217-infinity-girl.json](./191217-infinity-girl.json) |
 | Infinity Golf | 285949 | [285949-infinity-golf.json](./285949-infinity-golf.json) |
+| Infinity Imperium | 151505 | [151505-infinity-imperium.json](./151505-infinity-imperium.json) |
 | Infinity Inc. | 201614 | [201614-infinity-inc.json](./201614-infinity-inc.json) |
 | Infinity Is What We Will Be | 286102 | [286102-infinity-is-what-we-will-be.json](./286102-infinity-is-what-we-will-be.json) |
 | Infinity Island | 174611 | [174611-infinity-island.json](./174611-infinity-island.json) |
