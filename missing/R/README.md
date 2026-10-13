@@ -2204,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebirth RC | 147808 | [147808-rebirth-rc.json](./147808-rebirth-rc.json) |
 | Rebirth-Land of Zombies | 189122 | [189122-rebirth-land-of-zombies.json](./189122-rebirth-land-of-zombies.json) |
 | Rebirth: Beware of Mr.Wang | 174114 | [174114-rebirth-beware-of-mr-wang.json](./174114-rebirth-beware-of-mr-wang.json) |
+| Rebirthday | 176939 | [176939-rebirthday.json](./176939-rebirthday.json) |
 | Rebirthing | 239771 | [239771-rebirthing.json](./239771-rebirthing.json) |
 | RebirthM | 174879 | [174879-rebirthm.json](./174879-rebirthm.json) |
 | Rebloom | 351101 | [351101-rebloom.json](./351101-rebloom.json) |
@@ -2591,6 +2592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Series | 270665 | [270665-red-series.json](./270665-red-series.json) |
 | Red Silhouette | 285939 | [285939-red-silhouette.json](./285939-red-silhouette.json) |
 | Red Siren: Space Defense | 111541 | [111541-red-siren-space-defense.json](./111541-red-siren-space-defense.json) |
+| Red Skull Reef | 176758 | [176758-red-skull-reef.json](./176758-red-skull-reef.json) |
 | Red Sky | 26804 | [26804-red-sky.json](./26804-red-sky.json) |
 | Red Slammer | 271369 | [271369-red-slammer.json](./271369-red-slammer.json) |
 | Red Slash | 176266 | [176266-red-slash.json](./176266-red-slash.json) |
