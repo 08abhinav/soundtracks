@@ -1694,6 +1694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waveat | 362808 | [362808-waveat.json](./362808-waveat.json) |
 | Waveat ReLight V2 | 362811 | [362811-waveat-relight-v2.json](./362811-waveat-relight-v2.json) |
 | Wavecrashers | 391751 | [391751-wavecrashers.json](./391751-wavecrashers.json) |
+| Waveform: Eris | 168945 | [168945-waveform-eris.json](./168945-waveform-eris.json) |
 | Wavelength | 140902 | [140902-wavelength.json](./140902-wavelength.json) |
 | Waven: Drhell's Bells Pack | 289458 | [289458-waven-drhells-bells-pack.json](./289458-waven-drhells-bells-pack.json) |
 | WaveOfTimeLite | 102893 | [102893-waveoftimelite.json](./102893-waveoftimelite.json) |
@@ -2624,6 +2625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheelie Rider 3D | 106658 | [106658-wheelie-rider-3d.json](./106658-wheelie-rider-3d.json) |
 | Wheelies | 365104 | [365104-wheelies.json](./365104-wheelies.json) |
 | WheelMates | 387496 | [387496-wheelmates.json](./387496-wheelmates.json) |
+| Wheels | 170425 | [170425-wheels.json](./170425-wheels.json) |
 | Wheels Escape - Police Chase! | 99134 | [99134-wheels-escape-police-chase.json](./99134-wheels-escape-police-chase.json) |
 | Wheels of Destruction | 20735 | [20735-wheels-of-destruction.json](./20735-wheels-of-destruction.json) |
 | Wheels on Fire | 233067 | [233067-wheels-on-fire.json](./233067-wheels-on-fire.json) |
@@ -5757,7 +5759,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Revolution | 9334 | [9334-worms-revolution.json](./9334-worms-revolution.json) |
 | Worms Revolution: Customization Pack | 225085 | [225085-worms-revolution-customization-pack.json](./225085-worms-revolution-customization-pack.json) |
 | Worms Revolution: Deluxe Edition | 94889 | [94889-worms-revolution-deluxe-edition.json](./94889-worms-revolution-deluxe-edition.json) |
+| Worms Revolution: Funfair Pack | 168924 | [168924-worms-revolution-funfair-pack.json](./168924-worms-revolution-funfair-pack.json) |
 | Worms Revolution: Gold Edition | 52111 | [52111-worms-revolution-gold-edition.json](./52111-worms-revolution-gold-edition.json) |
+| Worms Revolution: Mars Pack | 168925 | [168925-worms-revolution-mars-pack.json](./168925-worms-revolution-mars-pack.json) |
+| Worms Revolution: Medieval Tales | 168926 | [168926-worms-revolution-medieval-tales.json](./168926-worms-revolution-medieval-tales.json) |
 | Worms Rumble: Action All-Stars Pack | 261333 | [261333-worms-rumble-action-all-stars-pack.json](./261333-worms-rumble-action-all-stars-pack.json) |
 | Worms Rumble: Bank Heist Double Pack | 225086 | [225086-worms-rumble-bank-heist-double-pack.json](./225086-worms-rumble-bank-heist-double-pack.json) |
 | Worms Rumble: Captain & Shark Double Pack | 225087 | [225087-worms-rumble-captain-and-shark-double-pack.json](./225087-worms-rumble-captain-and-shark-double-pack.json) |
