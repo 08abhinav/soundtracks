@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EasyPianoGame | 130802 | [130802-easypianogame.json](./130802-easypianogame.json) |
 | Eat and Evolve | 227957 | [227957-eat-and-evolve.json](./227957-eat-and-evolve.json) |
 | Eat Bananas | 213399 | [213399-eat-bananas.json](./213399-eat-bananas.json) |
+| Eat Fish 3D | 169716 | [169716-eat-fish-3d.json](./169716-eat-fish-3d.json) |
 | Eat It | 414313 | [414313-eat-it.json](./414313-eat-it.json) |
 | Eat Lead: The Return of Matt Hazard | 574 | [574-eat-lead-the-return-of-matt-hazard.json](./574-eat-lead-the-return-of-matt-hazard.json) |
 | Eat Me | 125878 | [125878-eat-me.json](./125878-eat-me.json) |
@@ -1729,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elon Simulator VR | 250994 | [250994-elon-simulator-vr.json](./250994-elon-simulator-vr.json) |
 | Elon vs AI | 258709 | [258709-elon-vs-ai.json](./258709-elon-vs-ai.json) |
 | Elon's Dream | 157210 | [157210-elons-dream.json](./157210-elons-dream.json) |
+| Elon's Dream 2 | 169669 | [169669-elons-dream-2.json](./169669-elons-dream-2.json) |
 | Elon's Last Chance | 274545 | [274545-elons-last-chance.json](./274545-elons-last-chance.json) |
 | Elona | 50403 | [50403-elona.json](./50403-elona.json) |
 | Elona Mobile | 194018 | [194018-elona-mobile.json](./194018-elona-mobile.json) |
