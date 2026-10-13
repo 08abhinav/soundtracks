@@ -5586,6 +5586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dream Machine: Chapter 6 | 168833 | [168833-the-dream-machine-chapter-6.json](./168833-the-dream-machine-chapter-6.json) |
 | The Dream Machine: The Definitive Edition | 400858 | [400858-the-dream-machine-the-definitive-edition.json](./400858-the-dream-machine-the-definitive-edition.json) |
 | The Dream Observatory | 318148 | [318148-the-dream-observatory.json](./318148-the-dream-observatory.json) |
+| The Dream of Shadowlands: Episode 2 | 174071 | [174071-the-dream-of-shadowlands-episode-2.json](./174071-the-dream-of-shadowlands-episode-2.json) |
 | The Dream of the Limbo | 298601 | [298601-the-dream-of-the-limbo.json](./298601-the-dream-of-the-limbo.json) |
 | The Dream Team | 196872 | [196872-the-dream-team.json](./196872-the-dream-team.json) |
 | The Dream Where Even Though You’ve Been Done With School for Years You Have to Go Back to School Because of a Class You Forgot About | 239211 | [239211-the-dream-where-even-though-you-ve-been-done-with-school-for-years-you-have-to-go-back-to-school-because-of-a-class-you-forgot-about.json](./239211-the-dream-where-even-though-you-ve-been-done-with-school-for-years-you-have-to-go-back-to-school-because-of-a-class-you-forgot-about.json) |
@@ -14748,6 +14749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Jong | 336379 | [336379-tile-jong.json](./336379-tile-jong.json) |
 | Tile Master | 220185 | [220185-tile-master.json](./220185-tile-master.json) |
 | Tile Rider | 35625 | [35625-tile-rider.json](./35625-tile-rider.json) |
+| Tile Runner | 174059 | [174059-tile-runner.json](./174059-tile-runner.json) |
 | Tile Slider | 297922 | [297922-tile-slider.json](./297922-tile-slider.json) |
 | Tile Snap | 230227 | [230227-tile-snap.json](./230227-tile-snap.json) |
 | Tile Springs | 331376 | [331376-tile-springs.json](./331376-tile-springs.json) |
@@ -14935,6 +14937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time of Heroes | 341087 | [341087-time-of-heroes.json](./341087-time-of-heroes.json) |
 | Time of Shadows | 90468 | [90468-time-of-shadows.json](./90468-time-of-shadows.json) |
 | Time of Sorrow | 316606 | [316606-time-of-sorrow.json](./316606-time-of-sorrow.json) |
+| Time of the Clones | 174053 | [174053-time-of-the-clones.json](./174053-time-of-the-clones.json) |
 | Time of the Dead | 178380 | [178380-time-of-the-dead.json](./178380-time-of-the-dead.json) |
 | Time of the Moon | 123964 | [123964-time-of-the-moon.json](./123964-time-of-the-moon.json) |
 | Time of the Wizard | 260308 | [260308-time-of-the-wizard.json](./260308-time-of-the-wizard.json) |
@@ -17521,6 +17524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower | 315714 | [315714-tower.json](./315714-tower.json) |
 | Tower 22 | 79383 | [79383-tower-22.json](./79383-tower-22.json) |
 | Tower and Guardian | 54466 | [54466-tower-and-guardian.json](./54466-tower-and-guardian.json) |
+| Tower Attack | 174056 | [174056-tower-attack.json](./174056-tower-attack.json) |
 | Tower Attack | 352301 | [352301-tower-attack.json](./352301-tower-attack.json) |
 | Tower Bloxx | 9452 | [9452-tower-bloxx.json](./9452-tower-bloxx.json) |
 | Tower Bloxx Deluxe | 9453 | [9453-tower-bloxx-deluxe.json](./9453-tower-bloxx-deluxe.json) |
@@ -21667,6 +21671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typomagical | 358232 | [358232-typomagical.json](./358232-typomagical.json) |
 | Typoman | 11225 | [11225-typoman.json](./11225-typoman.json) |
 | Typoman: Revised | 52993 | [52993-typoman-revised.json](./52993-typoman-revised.json) |
+| Typomancer in the Feather's Way | 174261 | [174261-typomancer-in-the-feathers-way.json](./174261-typomancer-in-the-feathers-way.json) |
 | Tyr | 371867 | [371867-tyr.json](./371867-tyr.json) |
 | Tyr: Chains of Valhalla | 96750 | [96750-tyr-chains-of-valhalla.json](./96750-tyr-chains-of-valhalla.json) |
 | Tyrannical Chickens | 278726 | [278726-tyrannical-chickens.json](./278726-tyrannical-chickens.json) |
