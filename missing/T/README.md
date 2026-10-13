@@ -4837,6 +4837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Christopher Redemption: I | 276811 | [276811-the-christopher-redemption-i.json](./276811-the-christopher-redemption-i.json) |
 | The Chroma: From the Wasteland | 367542 | [367542-the-chroma-from-the-wasteland.json](./367542-the-chroma-from-the-wasteland.json) |
 | The Chronicler | 150631 | [150631-the-chronicler.json](./150631-the-chronicler.json) |
+| The Chronicles of Confucius's Journey | 133129 | [133129-the-chronicles-of-confuciuss-journey.json](./133129-the-chronicles-of-confuciuss-journey.json) |
 | The Chronicles of Dragon Wing - Reborn | 44160 | [44160-the-chronicles-of-dragon-wing-reborn.json](./44160-the-chronicles-of-dragon-wing-reborn.json) |
 | The Chronicles of Ezra Blackwell: Episode 1 - Pappi's Peril | 277281 | [277281-the-chronicles-of-ezra-blackwell-episode-1-pappis-peril.json](./277281-the-chronicles-of-ezra-blackwell-episode-1-pappis-peril.json) |
 | The Chronicles of Hercules: The 12 Labours | 169366 | [169366-the-chronicles-of-hercules-the-12-labours.json](./169366-the-chronicles-of-hercules-the-12-labours.json) |
@@ -6067,6 +6068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fable of Fairy Glen | 355030 | [355030-the-fable-of-fairy-glen.json](./355030-the-fable-of-fairy-glen.json) |
 | The Fable of Ruby | 38498 | [38498-the-fable-of-ruby.json](./38498-the-fable-of-ruby.json) |
 | The Fable: Manga Build Roguelike | 331894 | [331894-the-fable-manga-build-roguelike.json](./331894-the-fable-manga-build-roguelike.json) |
+| The Fabled Woods | 133140 | [133140-the-fabled-woods.json](./133140-the-fabled-woods.json) |
 | The Fabric of the Mind | 238748 | [238748-the-fabric-of-the-mind.json](./238748-the-fabric-of-the-mind.json) |
 | The fabulous Animal Playground | 101003 | [101003-the-fabulous-animal-playground.json](./101003-the-fabulous-animal-playground.json) |
 | The Fabulous Screech | 60521 | [60521-the-fabulous-screech.json](./60521-the-fabulous-screech.json) |
@@ -16275,6 +16277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Together Again | 261995 | [261995-together-again.json](./261995-together-again.json) |
 | Together Again: A "Lake's Funland" Story | 400432 | [400432-together-again-a-lakes-funland-story.json](./400432-together-again-a-lakes-funland-story.json) |
 | Together Bnb | 146310 | [146310-together-bnb.json](./146310-together-bnb.json) |
+| Together in Battle | 133161 | [133161-together-in-battle.json](./133161-together-in-battle.json) |
 | Together in the Sky | 254952 | [254952-together-in-the-sky.json](./254952-together-in-the-sky.json) |
 | Together My Headers | 190977 | [190977-together-my-headers.json](./190977-together-my-headers.json) |
 | Together Tree: Romance 911 | 244494 | [244494-together-tree-romance-911.json](./244494-together-tree-romance-911.json) |
@@ -20480,6 +20483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribal Wars 2 | 23634 | [23634-tribal-wars-2.json](./23634-tribal-wars-2.json) |
 | TriBalls | 400452 | [400452-triballs.json](./400452-triballs.json) |
 | Tribals.io | 228783 | [228783-tribals-io.json](./228783-tribals-io.json) |
+| Tribble Troubles | 133160 | [133160-tribble-troubles.json](./133160-tribble-troubles.json) |
 | Tribe Explorer | 213413 | [213413-tribe-explorer.json](./213413-tribe-explorer.json) |
 | Tribe Nine | 130317 | [130317-tribe-nine.json](./130317-tribe-nine.json) |
 | Tribe of Pok | 31979 | [31979-tribe-of-pok.json](./31979-tribe-of-pok.json) |
@@ -22072,6 +22076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisty's Asylum Escapades | 31940 | [31940-twistys-asylum-escapades.json](./31940-twistys-asylum-escapades.json) |
 | Twitch Place | 230971 | [230971-twitch-place.json](./230971-twitch-place.json) |
 | Twitchbox | 96052 | [96052-twitchbox.json](./96052-twitchbox.json) |
+| Twitchoos RUN: Socks & Stream | 133111 | [133111-twitchoos-run-socks-and-stream.json](./133111-twitchoos-run-socks-and-stream.json) |
 | Twitter Island | 185641 | [185641-twitter-island.json](./185641-twitter-island.json) |
 | Twitter Plays Snake | 339133 | [339133-twitter-plays-snake.json](./339133-twitter-plays-snake.json) |
 | Twixel | 9524 | [9524-twixel.json](./9524-twixel.json) |
