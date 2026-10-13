@@ -7746,6 +7746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruins | 94178 | [94178-ruins.json](./94178-ruins.json) |
 | Ruins & Switch | 192357 | [192357-ruins-and-switch.json](./192357-ruins-and-switch.json) |
 | Ruins Magus | 198229 | [198229-ruins-magus.json](./198229-ruins-magus.json) |
+| Ruins of Albion | 169148 | [169148-ruins-of-albion.json](./169148-ruins-of-albion.json) |
 | Ruins of Endoth | 310000 | [310000-ruins-of-endoth.json](./310000-ruins-of-endoth.json) |
 | Ruins of Majika | 211747 | [211747-ruins-of-majika.json](./211747-ruins-of-majika.json) |
 | Ruins of Mitriom | 186320 | [186320-ruins-of-mitriom.json](./186320-ruins-of-mitriom.json) |
