@@ -10176,6 +10176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Crescent | 356248 | [356248-broken-crescent.json](./356248-broken-crescent.json) |
 | Broken Crown | 402545 | [402545-broken-crown.json](./402545-broken-crown.json) |
 | Broken Darwin | 124659 | [124659-broken-darwin.json](./124659-broken-darwin.json) |
+| Broken Dawn II | 175669 | [175669-broken-dawn-ii.json](./175669-broken-dawn-ii.json) |
 | Broken Depths RPG | 412898 | [412898-broken-depths-rpg.json](./412898-broken-depths-rpg.json) |
 | Broken Dimensions | 350640 | [350640-broken-dimensions.json](./350640-broken-dimensions.json) |
 | Broken Dreams | 33495 | [33495-broken-dreams.json](./33495-broken-dreams.json) |
