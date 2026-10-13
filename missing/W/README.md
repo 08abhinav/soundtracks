@@ -2442,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Goes Pumpkin the Night | 186181 | [186181-what-goes-pumpkin-the-night.json](./186181-what-goes-pumpkin-the-night.json) |
 | What Goes Up | 144786 | [144786-what-goes-up.json](./144786-what-goes-up.json) |
 | What Goes Up | 415305 | [415305-what-goes-up.json](./415305-what-goes-up.json) |
+| What Grows in the Night | 178905 | [178905-what-grows-in-the-night.json](./178905-what-grows-in-the-night.json) |
 | What Happened | 133080 | [133080-what-happened.json](./133080-what-happened.json) |
 | What Happened At Sugar Hill? | 394117 | [394117-what-happened-at-sugar-hill.json](./394117-what-happened-at-sugar-hill.json) |
 | What Happened to Kate | 298136 | [298136-what-happened-to-kate.json](./298136-what-happened-to-kate.json) |
@@ -2515,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Would You Choose? Rather | 91145 | [91145-what-would-you-choose-rather.json](./91145-what-would-you-choose-rather.json) |
 | What Would You Do? | 31396 | [31396-what-would-you-do.json](./31396-what-would-you-do.json) |
 | What would you like to have today? | 177855 | [177855-what-would-you-like-to-have-today.json](./177855-what-would-you-like-to-have-today.json) |
+| What-ever Happened to Ruth MacArthur? | 178901 | [178901-what-ever-happened-to-ruth-macarthur.json](./178901-what-ever-happened-to-ruth-macarthur.json) |
 | What, the fox | 382456 | [382456-what-the-fox.json](./382456-what-the-fox.json) |
 | What's A Star? | 178563 | [178563-whats-a-star.json](./178563-whats-a-star.json) |
 | What’s Behind the Door? | 419105 | [419105-what-s-behind-the-door.json](./419105-what-s-behind-the-door.json) |
