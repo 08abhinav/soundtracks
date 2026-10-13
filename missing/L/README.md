@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamp of Aladdin | 23922 | [23922-lamp-of-aladdin.json](./23922-lamp-of-aladdin.json) |
 | Lamp Post | 290872 | [290872-lamp-post.json](./290872-lamp-post.json) |
 | Lamplight City | 79999 | [79999-lamplight-city.json](./79999-lamplight-city.json) |
+| Lamplight City mobile | 175316 | [175316-lamplight-city-mobile.json](./175316-lamplight-city-mobile.json) |
 | Lamplight Station | 76682 | [76682-lamplight-station.json](./76682-lamplight-station.json) |
 | LampMan | 317421 | [317421-lampman.json](./317421-lampman.json) |
 | Lamprey | 277380 | [277380-lamprey.json](./277380-lamprey.json) |
@@ -870,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last in Orbit | 129063 | [129063-last-in-orbit.json](./129063-last-in-orbit.json) |
 | Last Inua | 10494 | [10494-last-inua.json](./10494-last-inua.json) |
 | Last Island | 134628 | [134628-last-island.json](./134628-last-island.json) |
+| Last Island of Survival | 175118 | [175118-last-island-of-survival.json](./175118-last-island-of-survival.json) |
 | Last Joy | 126591 | [126591-last-joy.json](./126591-last-joy.json) |
 | Last Kid on the Bus | 409712 | [409712-last-kid-on-the-bus.json](./409712-last-kid-on-the-bus.json) |
 | Last King of Africa | 47883 | [47883-last-king-of-africa.json](./47883-last-king-of-africa.json) |
@@ -1834,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Callasia: The Stoneborne | 25628 | [25628-legends-of-callasia-the-stoneborne.json](./25628-legends-of-callasia-the-stoneborne.json) |
 | Legends of Destiny | 208390 | [208390-legends-of-destiny.json](./208390-legends-of-destiny.json) |
 | Legends of Dragaea: Idle Dungeons | 295264 | [295264-legends-of-dragaea-idle-dungeons.json](./295264-legends-of-dragaea-idle-dungeons.json) |
+| Legends of Draxia | 174612 | [174612-legends-of-draxia.json](./174612-legends-of-draxia.json) |
 | Legends of Eisenwald | 10388 | [10388-legends-of-eisenwald.json](./10388-legends-of-eisenwald.json) |
 | Legends of Elementia | 262957 | [262957-legends-of-elementia.json](./262957-legends-of-elementia.json) |
 | Legends of Elumia | 330891 | [330891-legends-of-elumia.json](./330891-legends-of-elumia.json) |
@@ -2553,6 +2556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Women: World of Femdom and Espionage | 340913 | [340913-lethal-women-world-of-femdom-and-espionage.json](./340913-lethal-women-world-of-femdom-and-espionage.json) |
 | Lethalmon | 358277 | [358277-lethalmon.json](./358277-lethalmon.json) |
 | LethalRpgDestiny | 309093 | [309093-lethalrpgdestiny.json](./309093-lethalrpgdestiny.json) |
+| Lethargy | 175147 | [175147-lethargy.json](./175147-lethargy.json) |
 | Lethe | 175283 | [175283-lethe.json](./175283-lethe.json) |
 | Letherfall | 373540 | [373540-letherfall.json](./373540-letherfall.json) |
 | Lethis: Path of Progress II | 116438 | [116438-lethis-path-of-progress-ii.json](./116438-lethis-path-of-progress-ii.json) |
@@ -4942,6 +4946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loppi Puzzle Magazine: Kangaeru Dai-3-gou | 226400 | [226400-loppi-puzzle-magazine-kangaeru-dai-3-gou.json](./226400-loppi-puzzle-magazine-kangaeru-dai-3-gou.json) |
 | Loppi Puzzle Magazine: Kangaeru Puzzle Soukangou | 226401 | [226401-loppi-puzzle-magazine-kangaeru-puzzle-soukangou.json](./226401-loppi-puzzle-magazine-kangaeru-puzzle-soukangou.json) |
 | Loptice | 41939 | [41939-loptice.json](./41939-loptice.json) |
+| Lorax Garden | 175136 | [175136-lorax-garden.json](./175136-lorax-garden.json) |
 | Lorcan the Leprechaun | 149550 | [149550-lorcan-the-leprechaun.json](./149550-lorcan-the-leprechaun.json) |
 | Lorch 2 | 270681 | [270681-lorch-2.json](./270681-lorch-2.json) |
 | Lorch 3 | 270655 | [270655-lorch-3.json](./270655-lorch-3.json) |
@@ -6068,6 +6073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LuckyWheel | 326276 | [326276-luckywheel.json](./326276-luckywheel.json) |
 | Lucrezia | 401168 | [401168-lucrezia.json](./401168-lucrezia.json) |
 | Luctus | 263781 | [263781-luctus.json](./263781-luctus.json) |
+| Lucy | 175119 | [175119-lucy.json](./175119-lucy.json) |
 | Lucy Dreaming | 144920 | [144920-lucy-dreaming.json](./144920-lucy-dreaming.json) |
 | Lucy Gorbalm Is Missing | 393163 | [393163-lucy-gorbalm-is-missing.json](./393163-lucy-gorbalm-is-missing.json) |
 | Lucy Half Lucid | 408169 | [408169-lucy-half-lucid.json](./408169-lucy-half-lucid.json) |
@@ -6328,6 +6334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunadra: Luna Awakens the Legendary Dragon | 406938 | [406938-lunadra-luna-awakens-the-legendary-dragon.json](./406938-lunadra-luna-awakens-the-legendary-dragon.json) |
 | Lunaela | 200430 | [200430-lunaela.json](./200430-lunaela.json) |
 | Lunaform | 44131 | [44131-lunaform.json](./44131-lunaform.json) |
+| LunaM: SG | 174602 | [174602-lunam-sg.json](./174602-lunam-sg.json) |
 | Lunapark VR | 90823 | [90823-lunapark-vr.json](./90823-lunapark-vr.json) |
 | LunaQuest | 190473 | [190473-lunaquest.json](./190473-lunaquest.json) |
 | Lunar Ascendant | 263101 | [263101-lunar-ascendant.json](./263101-lunar-ascendant.json) |
