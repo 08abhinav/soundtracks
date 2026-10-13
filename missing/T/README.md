@@ -10667,6 +10667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seven Bad Apples | 382748 | [382748-the-seven-bad-apples.json](./382748-the-seven-bad-apples.json) |
 | The Seven Cities of Gold | 8994 | [8994-the-seven-cities-of-gold.json](./8994-the-seven-cities-of-gold.json) |
 | The Seven Cities of Gold: Commemorative Edition | 8996 | [8996-the-seven-cities-of-gold-commemorative-edition.json](./8996-the-seven-cities-of-gold-commemorative-edition.json) |
+| The Seven Colors: Legend of Psys City | 137903 | [137903-the-seven-colors-legend-of-psys-city.json](./137903-the-seven-colors-legend-of-psys-city.json) |
 | The Seven Crystal Petals: The Blossom Realm | 411155 | [411155-the-seven-crystal-petals-the-blossom-realm.json](./411155-the-seven-crystal-petals-the-blossom-realm.json) |
 | The Seven Days I Spent With You | 390146 | [390146-the-seven-days-i-spent-with-you.json](./390146-the-seven-days-i-spent-with-you.json) |
 | The seven deadly seas | 122396 | [122396-the-seven-deadly-seas.json](./122396-the-seven-deadly-seas.json) |
@@ -17484,6 +17485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totems: Game of Conquest | 200188 | [200188-totems-game-of-conquest.json](./200188-totems-game-of-conquest.json) |
 | Toten | 233486 | [233486-toten.json](./233486-toten.json) |
 | Totenkampf: Anime Waifus vs WW2 Zombies | 398414 | [398414-totenkampf-anime-waifus-vs-ww2-zombies.json](./398414-totenkampf-anime-waifus-vs-ww2-zombies.json) |
+| Toto a la Campagne | 137904 | [137904-toto-a-la-campagne.json](./137904-toto-a-la-campagne.json) |
 | Toto Quest | 204852 | [204852-toto-quest.json](./204852-toto-quest.json) |
 | Totò Sapore e La Magica Storia Della Pizza | 144813 | [144813-toto-sapore-e-la-magica-storia-della-pizza.json](./144813-toto-sapore-e-la-magica-storia-della-pizza.json) |
 | Toto Temple Deluxe | 20963 | [20963-toto-temple-deluxe.json](./20963-toto-temple-deluxe.json) |
