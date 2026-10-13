@@ -738,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bake it Till' You Make it! | 210544 | [210544-bake-it-till-you-make-it.json](./210544-bake-it-till-you-make-it.json) |
 | Bake it! Pizza Master | 378781 | [378781-bake-it-pizza-master.json](./378781-bake-it-pizza-master.json) |
 | Bake Jack | 382216 | [382216-bake-jack.json](./382216-bake-jack.json) |
+| Bake Star VR | 159535 | [159535-bake-star-vr.json](./159535-bake-star-vr.json) |
 | Bake Until Done | 347744 | [347744-bake-until-done.json](./347744-bake-until-done.json) |
 | Bakeborough | 211085 | [211085-bakeborough.json](./211085-bakeborough.json) |
 | Bakechu Relay | 366917 | [366917-bakechu-relay.json](./366917-bakechu-relay.json) |
@@ -987,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Pain | 193465 | [193465-ball-pain.json](./193465-ball-pain.json) |
 | Ball Panic! | 116393 | [116393-ball-panic.json](./116393-ball-panic.json) |
 | Ball Park | 91375 | [91375-ball-park.json](./91375-ball-park.json) |
+| Ball Partner | 159540 | [159540-ball-partner.json](./159540-ball-partner.json) |
 | Ball Physics Draw Puzzles | 166677 | [166677-ball-physics-draw-puzzles.json](./166677-ball-physics-draw-puzzles.json) |
 | Ball Physics Draw Puzzles 2 | 187356 | [187356-ball-physics-draw-puzzles-2.json](./187356-ball-physics-draw-puzzles-2.json) |
 | Ball Pit King 3D | 276257 | [276257-ball-pit-king-3d.json](./276257-ball-pit-king-3d.json) |
@@ -4351,6 +4353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beta Bloc | 44504 | [44504-beta-bloc.json](./44504-beta-bloc.json) |
 | Beta Collexion | 80128 | [80128-beta-collexion.json](./80128-beta-collexion.json) |
 | Beta Decay | 250957 | [250957-beta-decay.json](./250957-beta-decay.json) |
+| Beta Escape | 159581 | [159581-beta-escape.json](./159581-beta-escape.json) |
 | Beta Hospital | 330919 | [330919-beta-hospital.json](./330919-beta-hospital.json) |
 | Beta Massage Parlor Simulator | 390691 | [390691-beta-massage-parlor-simulator.json](./390691-beta-massage-parlor-simulator.json) |
 | Beta Max | 270027 | [270027-beta-max.json](./270027-beta-max.json) |
@@ -5827,6 +5830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Hole Fishing | 346166 | [346166-black-hole-fishing.json](./346166-black-hole-fishing.json) |
 | Black Hole Gun | 413182 | [413182-black-hole-gun.json](./413182-black-hole-gun.json) |
 | Black Hole Interior Explorer | 277534 | [277534-black-hole-interior-explorer.json](./277534-black-hole-interior-explorer.json) |
+| Black Hole Simulator | 159544 | [159544-black-hole-simulator.json](./159544-black-hole-simulator.json) |
 | Black Hole Void: Survive The Hole | 332601 | [332601-black-hole-void-survive-the-hole.json](./332601-black-hole-void-survive-the-hole.json) |
 | Black Hole: Farmageddon | 382410 | [382410-black-hole-farmageddon.json](./382410-black-hole-farmageddon.json) |
 | Black Hollow | 410993 | [410993-black-hollow.json](./410993-black-hollow.json) |
@@ -6746,6 +6750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Breaker 2 | 200568 | [200568-block-breaker-2.json](./200568-block-breaker-2.json) |
 | Block Breaker Deluxe | 243748 | [243748-block-breaker-deluxe.json](./243748-block-breaker-deluxe.json) |
 | Block Breaker Deluxe 2 | 85718 | [85718-block-breaker-deluxe-2.json](./85718-block-breaker-deluxe-2.json) |
+| Block Breaker Ninja | 158917 | [158917-block-breaker-ninja.json](./158917-block-breaker-ninja.json) |
 | Block Breakerz | 250413 | [250413-block-breakerz.json](./250413-block-breakerz.json) |
 | Block Bros. | 240938 | [240938-block-bros.json](./240938-block-bros.json) |
 | Block Builder SP | 222448 | [222448-block-builder-sp.json](./222448-block-builder-sp.json) |
@@ -9111,6 +9116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box box | 174078 | [174078-box-box.json](./174078-box-box.json) |
 | Box Box Box! | 379055 | [379055-box-box-box.json](./379055-box-box-box.json) |
 | Box Boy! + Box Girl! | 115281 | [115281-box-boy-box-girl.json](./115281-box-boy-box-girl.json) |
+| Box Cats Puzzle | 158928 | [158928-box-cats-puzzle.json](./158928-box-cats-puzzle.json) |
 | Box Chaos | 328553 | [328553-box-chaos.json](./328553-box-chaos.json) |
 | Box Clicker | 303058 | [303058-box-clicker.json](./303058-box-clicker.json) |
 | Box Critters | 146293 | [146293-box-critters.json](./146293-box-critters.json) |
@@ -9682,6 +9688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brazilian Drug Dealer 3: I Opened a Portal to Hell in the Favela Trying To Revive Mit Aia I Need to Close It | 317175 | [317175-brazilian-drug-dealer-3-i-opened-a-portal-to-hell-in-the-favela-trying-to-revive-mit-aia-i-need-to-close-it.json](./317175-brazilian-drug-dealer-3-i-opened-a-portal-to-hell-in-the-favela-trying-to-revive-mit-aia-i-need-to-close-it.json) |
 | Brazilian Root | 93709 | [93709-brazilian-root.json](./93709-brazilian-root.json) |
 | Brazzers: The Game | 200634 | [200634-brazzers-the-game.json](./200634-brazzers-the-game.json) |
+| BRDG | 159579 | [159579-brdg.json](./159579-brdg.json) |
 | Breach | 135167 | [135167-breach.json](./135167-breach.json) |
 | Breach | 141779 | [141779-breach.json](./141779-breach.json) |
 | Breach | 251831 | [251831-breach.json](./251831-breach.json) |
