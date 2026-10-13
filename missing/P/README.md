@@ -1336,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallel | 280166 | [280166-parallel.json](./280166-parallel.json) |
 | Parallel | 342083 | [342083-parallel.json](./342083-parallel.json) |
 | Parallel Arena | 105134 | [105134-parallel-arena.json](./105134-parallel-arena.json) |
+| Parallel Harmony ~Getsuyou no Tobira wa Suiyou no Mukou ni~ | 153737 | [153737-parallel-harmony-getsuyou-no-tobira-wa-suiyou-no-mukou-ni.json](./153737-parallel-harmony-getsuyou-no-tobira-wa-suiyou-no-mukou-ni.json) |
 | Parallel Kingdom | 70600 | [70600-parallel-kingdom.json](./70600-parallel-kingdom.json) |
 | Parallel Olympus | 156132 | [156132-parallel-olympus.json](./156132-parallel-olympus.json) |
 | Parallel Pixel | 103422 | [103422-parallel-pixel.json](./103422-parallel-pixel.json) |
