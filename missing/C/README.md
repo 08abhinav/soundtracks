@@ -8715,6 +8715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connected Hearts: The Full Moon Curse - Collector's Edition | 187847 | [187847-connected-hearts-the-full-moon-curse-collectors-edition.json](./187847-connected-hearts-the-full-moon-curse-collectors-edition.json) |
 | Connected Hearts: The Musketeers Saga - DLC | 239149 | [239149-connected-hearts-the-musketeers-saga-dlc.json](./239149-connected-hearts-the-musketeers-saga-dlc.json) |
 | Connected through fate | 219227 | [219227-connected-through-fate.json](./219227-connected-through-fate.json) |
+| Connected Towers | 149864 | [149864-connected-towers.json](./149864-connected-towers.json) |
 | Connected! 2 | 259728 | [259728-connected-2.json](./259728-connected-2.json) |
 | Connectify | 190196 | [190196-connectify.json](./190196-connectify.json) |
 | Connecting 4's Game | 96933 | [96933-connecting-4s-game.json](./96933-connecting-4s-game.json) |
@@ -11839,6 +11840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings II: Holy Fury | 110889 | [110889-crusader-kings-ii-holy-fury.json](./110889-crusader-kings-ii-holy-fury.json) |
 | Crusader Kings II: Horse Lords | 22668 | [22668-crusader-kings-ii-horse-lords.json](./22668-crusader-kings-ii-horse-lords.json) |
 | Crusader Kings II: Imperial Collection | 253290 | [253290-crusader-kings-ii-imperial-collection.json](./253290-crusader-kings-ii-imperial-collection.json) |
+| Crusader Kings II: Jade Dragon | 149906 | [149906-crusader-kings-ii-jade-dragon.json](./149906-crusader-kings-ii-jade-dragon.json) |
 | Crusader Kings II: Legacy of Rome | 22661 | [22661-crusader-kings-ii-legacy-of-rome.json](./22661-crusader-kings-ii-legacy-of-rome.json) |
 | Crusader Kings II: Monks and Mystics | 26426 | [26426-crusader-kings-ii-monks-and-mystics.json](./26426-crusader-kings-ii-monks-and-mystics.json) |
 | Crusader Kings II: Rajas of India | 22665 | [22665-crusader-kings-ii-rajas-of-india.json](./22665-crusader-kings-ii-rajas-of-india.json) |
