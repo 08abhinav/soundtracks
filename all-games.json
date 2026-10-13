@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T17:36:03.062Z",
-  "total_soundtracks": 1579,
+  "generated_at": "2026-10-13T17:36:19.748Z",
+  "total_soundtracks": 1580,
   "games": [
     {
       "igdb_id": 7522,
@@ -16745,6 +16745,20 @@
           "spotify_url": "https://open.spotify.com/album/1BMj0m4SIwLyvVic7DvPhg",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 18158,
+      "game_name": "Ultimate Chicken Horse",
+      "game_url": "https://ostdb.net/games/ultimate-chicken-horse",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/b3/50/43/b350434b-80b7-833d-6de0-8b71ca4a470d/191061044055.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Ultimate Chicken Horse (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6aZJusKpK3tdiUJYaTqbv0",
+          "apple_music_url": "https://music.apple.com/us/album/ultimate-chicken-horse-original-soundtrack/1175097476",
+          "album_link_url": "https://album.link/i/1175097476"
         }
       ]
     },
