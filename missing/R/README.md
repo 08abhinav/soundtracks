@@ -731,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Racers | 9252 | [9252-rail-racers.json](./9252-rail-racers.json) |
 | Rail Racing | 174215 | [174215-rail-racing.json](./174215-rail-racing.json) |
 | Rail Rider | 23601 | [23601-rail-rider.json](./23601-rail-rider.json) |
+| Rail Route | 145422 | [145422-rail-route.json](./145422-rail-route.json) |
 | Rail Route: Happy Passengers | 302036 | [302036-rail-route-happy-passengers.json](./302036-rail-route-happy-passengers.json) |
 | Rail Route: Supporter Bundle | 336134 | [336134-rail-route-supporter-bundle.json](./336134-rail-route-supporter-bundle.json) |
 | Rail Route: The Story of Jozic | 199127 | [199127-rail-route-the-story-of-jozic.json](./199127-rail-route-the-story-of-jozic.json) |
@@ -6531,6 +6532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Lords | 131573 | [131573-rogue-lords.json](./131573-rogue-lords.json) |
 | Rogue Lords: Blood Moon Edition | 173100 | [173100-rogue-lords-blood-moon-edition.json](./173100-rogue-lords-blood-moon-edition.json) |
 | Rogue Lords: Day One Edition | 199631 | [199631-rogue-lords-day-one-edition.json](./199631-rogue-lords-day-one-edition.json) |
+| Rogue Mansion | 145424 | [145424-rogue-mansion.json](./145424-rogue-mansion.json) |
 | Rogue Mate | 406201 | [406201-rogue-mate.json](./406201-rogue-mate.json) |
 | Rogue Monster Rush | 325523 | [325523-rogue-monster-rush.json](./325523-rogue-monster-rush.json) |
 | Rogue Monster Theolodorus | 335283 | [335283-rogue-monster-theolodorus.json](./335283-rogue-monster-theolodorus.json) |
@@ -8000,6 +8002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run, Run, Monsters! | 108024 | [108024-run-run-monsters.json](./108024-run-run-monsters.json) |
 | Run, Veggies! | 358878 | [358878-run-veggies.json](./358878-run-veggies.json) |
 | Run, Vivian Run | 311238 | [311238-run-vivian-run.json](./311238-run-vivian-run.json) |
+| Run: The World In-Between | 145400 | [145400-run-the-world-in-between.json](./145400-run-the-world-in-between.json) |
 | Run! | 100256 | [100256-run.json](./100256-run.json) |
 | Run! | 219064 | [219064-run.json](./219064-run.json) |
 | Run! Bunny | 120922 | [120922-run-bunny.json](./120922-run-bunny.json) |
