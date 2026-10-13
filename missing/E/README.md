@@ -3362,6 +3362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Island | 317331 | [317331-escape-from-island.json](./317331-escape-from-island.json) |
 | Escape From Ithara | 224559 | [224559-escape-from-ithara.json](./224559-escape-from-ithara.json) |
 | Escape from Jay Is Games | 103169 | [103169-escape-from-jay-is-games.json](./103169-escape-from-jay-is-games.json) |
+| Escape from Kabagahara | 134949 | [134949-escape-from-kabagahara.json](./134949-escape-from-kabagahara.json) |
 | Escape from Khoshima | 12994 | [12994-escape-from-khoshima.json](./12994-escape-from-khoshima.json) |
 | Escape From Kiss | 348896 | [348896-escape-from-kiss.json](./348896-escape-from-kiss.json) |
 | Escape from Labyrinth | 121457 | [121457-escape-from-labyrinth.json](./121457-escape-from-labyrinth.json) |
@@ -3710,6 +3711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escort Alia: Escort Rena | 241320 | [241320-escort-alia-escort-rena.json](./241320-escort-alia-escort-rena.json) |
 | Escort Commander | 80998 | [80998-escort-commander.json](./80998-escort-commander.json) |
 | Escort Simulator 2 | 189984 | [189984-escort-simulator-2.json](./189984-escort-simulator-2.json) |
+| Escort Yourself Out | 134962 | [134962-escort-yourself-out.json](./134962-escort-yourself-out.json) |
 | Escort's Secrets 18+ | 275135 | [275135-escorts-secrets-18.json](./275135-escorts-secrets-18.json) |
 | Escortina Life! 2.0 | 286075 | [286075-escortina-life-2-0.json](./286075-escortina-life-2-0.json) |
 | Escria | 402469 | [402469-escria.json](./402469-escria.json) |
@@ -4530,6 +4532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everything You Didn't Get to Do | 282092 | [282092-everything-you-didnt-get-to-do.json](./282092-everything-you-didnt-get-to-do.json) |
 | Everything: All in 1 | 291761 | [291761-everything-all-in-1.json](./291761-everything-all-in-1.json) |
 | Everywhere | 130365 | [130365-everywhere.json](./130365-everywhere.json) |
+| Eves Drop | 134960 | [134960-eves-drop.json](./134960-eves-drop.json) |
 | Eveslan | 65797 | [65797-eveslan.json](./65797-eveslan.json) |
 | Evets: The Ultimate Adventure | 73793 | [73793-evets-the-ultimate-adventure.json](./73793-evets-the-ultimate-adventure.json) |
 | Evhacon | 267961 | [267961-evhacon.json](./267961-evhacon.json) |
