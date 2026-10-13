@@ -1776,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of the Samurai | 10156 | [10156-way-of-the-samurai.json](./10156-way-of-the-samurai.json) |
 | Way of the Samurai 2 | 10157 | [10157-way-of-the-samurai-2.json](./10157-way-of-the-samurai-2.json) |
 | Way of the Samurai 3 | 7247 | [7247-way-of-the-samurai-3.json](./7247-way-of-the-samurai-3.json) |
+| Way of the Samurai 3 Plus | 140871 | [140871-way-of-the-samurai-3-plus.json](./140871-way-of-the-samurai-3-plus.json) |
 | Way of the Samurai 4 | 10158 | [10158-way-of-the-samurai-4.json](./10158-way-of-the-samurai-4.json) |
 | Way of the Samurai Portable | 38486 | [38486-way-of-the-samurai-portable.json](./38486-way-of-the-samurai-portable.json) |
 | Way of the Samurai Portable 2 | 59371 | [59371-way-of-the-samurai-portable-2.json](./59371-way-of-the-samurai-portable-2.json) |
@@ -2286,6 +2287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wenjia | 110509 | [110509-wenjia.json](./110509-wenjia.json) |
 | Wenl Mine | 271798 | [271798-wenl-mine.json](./271798-wenl-mine.json) |
 | Went: One Alive | 114915 | [114915-went-one-alive.json](./114915-went-one-alive.json) |
+| Went.ai | 140963 | [140963-went-ai.json](./140963-went-ai.json) |
 | Wénzìyù | 115626 | [115626-wenziyu.json](./115626-wenziyu.json) |
 | Wer Weiß Denn Sowas? | 110499 | [110499-wer-wei-denn-sowas.json](./110499-wer-wei-denn-sowas.json) |
 | Wer weiß denn sowas?: Das 3. Spiel | 315657 | [315657-wer-wei-denn-sowas-das-3-spiel.json](./315657-wer-wei-denn-sowas-das-3-spiel.json) |
@@ -4824,6 +4826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wood Puzzle | 208942 | [208942-wood-puzzle.json](./208942-wood-puzzle.json) |
 | Wood Walker | 395874 | [395874-wood-walker.json](./395874-wood-walker.json) |
 | Wood'N'Destroy | 396367 | [396367-woodndestroy.json](./396367-woodndestroy.json) |
+| Woodbound | 140971 | [140971-woodbound.json](./140971-woodbound.json) |
 | Woodboy | 118241 | [118241-woodboy.json](./118241-woodboy.json) |
 | Woodclicker | 101929 | [101929-woodclicker.json](./101929-woodclicker.json) |
 | Woodcutter Simulator 2011 | 52132 | [52132-woodcutter-simulator-2011.json](./52132-woodcutter-simulator-2011.json) |
