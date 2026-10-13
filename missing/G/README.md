@@ -1316,6 +1316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garou: Mark of the Wolves | 10605 | [10605-garou-mark-of-the-wolves.json](./10605-garou-mark-of-the-wolves.json) |
 | Garrett the Slug | 70613 | [70613-garrett-the-slug.json](./70613-garrett-the-slug.json) |
 | Garrison | 13856 | [13856-garrison.json](./13856-garrison.json) |
+| Garrison | 170784 | [170784-garrison.json](./170784-garrison.json) |
 | Garrison I-II | 112231 | [112231-garrison-i-ii.json](./112231-garrison-i-ii.json) |
 | Garrison II: The Legend Continues | 47155 | [47155-garrison-ii-the-legend-continues.json](./47155-garrison-ii-the-legend-continues.json) |
 | Garry Kitchen's Super Battletank: War in the Gulf | 46681 | [46681-garry-kitchens-super-battletank-war-in-the-gulf.json](./46681-garry-kitchens-super-battletank-war-in-the-gulf.json) |
@@ -1815,6 +1816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation Streets | 110088 | [110088-generation-streets.json](./110088-generation-streets.json) |
 | Generation Zero | 65445 | [65445-generation-zero.json](./65445-generation-zero.json) |
 | Generation Zero: Action Hero Bundle | 331540 | [331540-generation-zero-action-hero-bundle.json](./331540-generation-zero-action-hero-bundle.json) |
+| Generation Zero: Apparel Crafting | 170971 | [170971-generation-zero-apparel-crafting.json](./170971-generation-zero-apparel-crafting.json) |
 | Generation Zero: Base Defense Pack | 226796 | [226796-generation-zero-base-defense-pack.json](./226796-generation-zero-base-defense-pack.json) |
 | Generation Zero: Base Support Pack | 234923 | [234923-generation-zero-base-support-pack.json](./234923-generation-zero-base-support-pack.json) |
 | Generation Zero: Base Warfare Starter Bundle | 234937 | [234937-generation-zero-base-warfare-starter-bundle.json](./234937-generation-zero-base-warfare-starter-bundle.json) |
@@ -2917,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl's Memories | 295569 | [295569-girls-memories.json](./295569-girls-memories.json) |
 | GirlDivers | 323303 | [323303-girldivers.json](./323303-girldivers.json) |
 | Girlfailure Art Club | 412374 | [412374-girlfailure-art-club.json](./412374-girlfailure-art-club.json) |
+| Girlfight 2024 | 170785 | [170785-girlfight-2024.json](./170785-girlfight-2024.json) |
 | Girlfriend Cards | 106582 | [106582-girlfriend-cards.json](./106582-girlfriend-cards.json) |
 | Girlfriend FNF Battle Friday Night Funkin | 223945 | [223945-girlfriend-fnf-battle-friday-night-funkin.json](./223945-girlfriend-fnf-battle-friday-night-funkin.json) |
 | Girlfriend from Hell | 278416 | [278416-girlfriend-from-hell.json](./278416-girlfriend-from-hell.json) |
@@ -6050,6 +6053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: Trace in Time | 187964 | [187964-grim-tales-trace-in-time.json](./187964-grim-tales-trace-in-time.json) |
 | Grim Tales: Trace in Time - Collector's Edition | 168166 | [168166-grim-tales-trace-in-time-collectors-edition.json](./168166-grim-tales-trace-in-time-collectors-edition.json) |
 | Grim Wanderings | 86552 | [86552-grim-wanderings.json](./86552-grim-wanderings.json) |
+| Grim Wanderings II | 170787 | [170787-grim-wanderings-ii.json](./170787-grim-wanderings-ii.json) |
 | Grim-World: Survival | 253447 | [253447-grim-world-survival.json](./253447-grim-world-survival.json) |
 | Grim's Gambit | 280936 | [280936-grims-gambit.json](./280936-grims-gambit.json) |
 | Grimace Run | 192796 | [192796-grimace-run.json](./192796-grimace-run.json) |
