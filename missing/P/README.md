@@ -6038,6 +6038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Jump 2 | 118441 | [118441-planet-jump-2.json](./118441-planet-jump-2.json) |
 | Planet Keeper Program | 349263 | [349263-planet-keeper-program.json](./349263-planet-keeper-program.json) |
 | Planet Lander | 41577 | [41577-planet-lander.json](./41577-planet-lander.json) |
+| Planet Lev | 150452 | [150452-planet-lev.json](./150452-planet-lev.json) |
 | Planet Lust | 333573 | [333573-planet-lust.json](./333573-planet-lust.json) |
 | Planet Miners | 24808 | [24808-planet-miners.json](./24808-planet-miners.json) |
 | Planet Modular Tower Defense. Sci-Fi TD Strategy | 126597 | [126597-planet-modular-tower-defense-sci-fi-td-strategy.json](./126597-planet-modular-tower-defense-sci-fi-td-strategy.json) |
@@ -6427,6 +6428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playdle | 272477 | [272477-playdle.json](./272477-playdle.json) |
 | PlayEnglish | 269501 | [269501-playenglish.json](./269501-playenglish.json) |
 | Player 9 | 132095 | [132095-player-9.json](./132095-player-9.json) |
+| Player City | 150459 | [150459-player-city.json](./150459-player-city.json) |
 | Player Goes Jump | 286785 | [286785-player-goes-jump.json](./286785-player-goes-jump.json) |
 | Player Killers' Exchange | 108935 | [108935-player-killers-exchange.json](./108935-player-killers-exchange.json) |
 | Player Manager 2001 | 50025 | [50025-player-manager-2001.json](./50025-player-manager-2001.json) |
@@ -7612,6 +7614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Legends: Omaha Champions | 232560 | [232560-poker-legends-omaha-champions.json](./232560-poker-legends-omaha-champions.json) |
 | Poker Master | 167586 | [167586-poker-master.json](./167586-poker-master.json) |
 | Poker Mega Pack | 118884 | [118884-poker-mega-pack.json](./118884-poker-mega-pack.json) |
+| Poker Memory | 150441 | [150441-poker-memory.json](./150441-poker-memory.json) |
 | Poker Night 2 | 2047 | [2047-poker-night-2.json](./2047-poker-night-2.json) |
 | Poker Now | 225708 | [225708-poker-now.json](./225708-poker-now.json) |
 | Poker Patience | 83481 | [83481-poker-patience.json](./83481-poker-patience.json) |
