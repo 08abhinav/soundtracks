@@ -1001,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rakuga Fantasy | 183436 | [183436-rakuga-fantasy.json](./183436-rakuga-fantasy.json) |
 | Rakugaki Kingdom | 221245 | [221245-rakugaki-kingdom.json](./221245-rakugaki-kingdom.json) |
 | Rakugaki Showtime | 46082 | [46082-rakugaki-showtime.json](./46082-rakugaki-showtime.json) |
+| Rakugaki Special | 137919 | [137919-rakugaki-special.json](./137919-rakugaki-special.json) |
 | Ralf | 111598 | [111598-ralf.json](./111598-ralf.json) |
 | Ralf's Adventure: Aztec Mystery | 140910 | [140910-ralfs-adventure-aztec-mystery.json](./140910-ralfs-adventure-aztec-mystery.json) |
 | Rally | 197381 | [197381-rally.json](./197381-rally.json) |
@@ -6921,6 +6922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roman Sands RE:Build | 229067 | [229067-roman-sands-re-build.json](./229067-roman-sands-re-build.json) |
 | Roman the Worm | 105336 | [105336-roman-the-worm.json](./105336-roman-the-worm.json) |
 | Roman Trahtenberg: V poiskah ideal'nogo anekdota | 403581 | [403581-roman-trahtenberg-v-poiskah-idealnogo-anekdota.json](./403581-roman-trahtenberg-v-poiskah-idealnogo-anekdota.json) |
+| Roman Way | 137888 | [137888-roman-way.json](./137888-roman-way.json) |
 | Romance | 153739 | [153739-romance.json](./153739-romance.json) |
 | Romance - Hidden Object Games | 86918 | [86918-romance-hidden-object-games.json](./86918-romance-hidden-object-games.json) |
 | Romance after dark | 385873 | [385873-romance-after-dark.json](./385873-romance-after-dark.json) |
@@ -7371,6 +7373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rottweiler | 321057 | [321057-rottweiler.json](./321057-rottweiler.json) |
 | Rotund Rebound | 117060 | [117060-rotund-rebound.json](./117060-rotund-rebound.json) |
 | Rotund Takeoff | 139303 | [139303-rotund-takeoff.json](./139303-rotund-takeoff.json) |
+| Rotund Zero | 137922 | [137922-rotund-zero.json](./137922-rotund-zero.json) |
 | Rou Niu Yang Zhi Ji Hua | 161599 | [161599-rou-niu-yang-zhi-ji-hua.json](./161599-rou-niu-yang-zhi-ji-hua.json) |
 | Rouen | 97935 | [97935-rouen.json](./97935-rouen.json) |
 | Rouge noir | 175904 | [175904-rouge-noir.json](./175904-rouge-noir.json) |
@@ -8108,6 +8111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Sword | 175676 | [175676-rune-sword.json](./175676-rune-sword.json) |
 | Rune Tavern | 407341 | [407341-rune-tavern.json](./407341-rune-tavern.json) |
 | Rune Teller | 209731 | [209731-rune-teller.json](./209731-rune-teller.json) |
+| Rune the First Wanderer | 137909 | [137909-rune-the-first-wanderer.json](./137909-rune-the-first-wanderer.json) |
 | Rune Worth 2: Jikuu no Shinsen | 297593 | [297593-rune-worth-2-jikuu-no-shinsen.json](./297593-rune-worth-2-jikuu-no-shinsen.json) |
 | Rune Worth 3: Shinseiki Kourin | 297594 | [297594-rune-worth-3-shinseiki-kourin.json](./297594-rune-worth-3-shinseiki-kourin.json) |
 | Rune Worth: Kokui no Kikoushi | 243950 | [243950-rune-worth-kokui-no-kikoushi.json](./243950-rune-worth-kokui-no-kikoushi.json) |
@@ -8257,6 +8261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush | 326737 | [326737-rush.json](./326737-rush.json) |
 | Rush | 7634 | [7634-rush.json](./7634-rush.json) |
 | Rush | 88768 | [88768-rush.json](./88768-rush.json) |
+| Rush & Command | 137902 | [137902-rush-and-command.json](./137902-rush-and-command.json) |
 | Rush and Blush | 333782 | [333782-rush-and-blush.json](./333782-rush-and-blush.json) |
 | Rush Back | 270680 | [270680-rush-back.json](./270680-rush-back.json) |
 | Rush City | 270573 | [270573-rush-city.json](./270573-rush-city.json) |
