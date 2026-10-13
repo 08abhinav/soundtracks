@@ -2246,6 +2246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get in Timelessness | 358241 | [358241-get-in-timelessness.json](./358241-get-in-timelessness.json) |
 | Get it Hard | 215935 | [215935-get-it-hard.json](./215935-get-it-hard.json) |
 | Get It Up! | 357211 | [357211-get-it-up.json](./357211-get-it-up.json) |
+| Get Lost in Nature With Luke | 165162 | [165162-get-lost-in-nature-with-luke.json](./165162-get-lost-in-nature-with-luke.json) |
 | Get Low, Grandpa! | 392902 | [392902-get-low-grandpa.json](./392902-get-low-grandpa.json) |
 | Get Mazed | 378566 | [378566-get-mazed.json](./378566-get-mazed.json) |
 | Get Me Outta Here: Deluxe/Remastered Edition | 126574 | [126574-get-me-outta-here-deluxe-remastered-edition.json](./126574-get-me-outta-here-deluxe-remastered-edition.json) |
@@ -2395,6 +2396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Beat | 170887 | [170887-ghost-beat.json](./170887-ghost-beat.json) |
 | Ghost Blade | 23442 | [23442-ghost-blade.json](./23442-ghost-blade.json) |
 | Ghost Blade HD: Limited Edition | 166279 | [166279-ghost-blade-hd-limited-edition.json](./166279-ghost-blade-hd-limited-edition.json) |
+| Ghost Blood | 165152 | [165152-ghost-blood.json](./165152-ghost-blood.json) |
 | Ghost Blood | 391320 | [391320-ghost-blood.json](./391320-ghost-blood.json) |
 | Ghost Bros | 224236 | [224236-ghost-bros.json](./224236-ghost-bros.json) |
 | Ghost Buster 3D | 114937 | [114937-ghost-buster-3d.json](./114937-ghost-buster-3d.json) |
@@ -3913,6 +3915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godkiller | 161172 | [161172-godkiller.json](./161172-godkiller.json) |
 | Godland: The Fire Quest | 202666 | [202666-godland-the-fire-quest.json](./202666-godland-the-fire-quest.json) |
 | Godland: The Fire Quest 2 | 219662 | [219662-godland-the-fire-quest-2.json](./219662-godland-the-fire-quest-2.json) |
+| Godless | 165161 | [165161-godless.json](./165161-godless.json) |
 | Godless grove | 201609 | [201609-godless-grove.json](./201609-godless-grove.json) |
 | Godless Tactics | 132673 | [132673-godless-tactics.json](./132673-godless-tactics.json) |
 | Godless Tower | 200381 | [200381-godless-tower.json](./200381-godless-tower.json) |
@@ -6592,6 +6595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess Logo Game | 104697 | [104697-guess-logo-game.json](./104697-guess-logo-game.json) |
 | Guess Me If You Can | 339829 | [339829-guess-me-if-you-can.json](./339829-guess-me-if-you-can.json) |
 | Guess My Word | 314418 | [314418-guess-my-word.json](./314418-guess-my-word.json) |
+| Guess Picture | 165151 | [165151-guess-picture.json](./165151-guess-picture.json) |
 | Guess Pony Cartoon | 202387 | [202387-guess-pony-cartoon.json](./202387-guess-pony-cartoon.json) |
 | Guess the Celebrity | 232069 | [232069-guess-the-celebrity.json](./232069-guess-the-celebrity.json) |
 | Guess the Character! | 99977 | [99977-guess-the-character.json](./99977-guess-the-character.json) |
