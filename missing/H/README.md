@@ -5808,6 +5808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoloSona5 | 340479 | [340479-holosona5.json](./340479-holosona5.json) |
 | HoloSprint | 127706 | [127706-holosprint.json](./127706-holosprint.json) |
 | Holosseum | 40347 | [40347-holosseum.json](./40347-holosseum.json) |
+| Holostar Command: Quantum Alliance | 150969 | [150969-holostar-command-quantum-alliance.json](./150969-holostar-command-quantum-alliance.json) |
 | HoloTrials: Case Covered | 409620 | [409620-holotrials-case-covered.json](./409620-holotrials-case-covered.json) |
 | Holotyping | 210245 | [210245-holotyping.json](./210245-holotyping.json) |
 | Holotz's Castle | 62145 | [62145-holotzs-castle.json](./62145-holotzs-castle.json) |
@@ -7414,6 +7415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HSV Adventure Racing | 185994 | [185994-hsv-adventure-racing.json](./185994-hsv-adventure-racing.json) |
 | HSX: Hypersonic Xtreme | 43656 | [43656-hsx-hypersonic-xtreme.json](./43656-hsx-hypersonic-xtreme.json) |
 | HTC | 221914 | [221914-htc.json](./221914-htc.json) |
+| HTD | 150960 | [150960-htd.json](./150960-htd.json) |
 | htoL#NiQ: The Firefly Diary - Limited Edition | 89918 | [89918-htol-niq-the-firefly-diary-limited-edition.json](./89918-htol-niq-the-firefly-diary-limited-edition.json) |
 | HTown Fight | 97530 | [97530-htown-fight.json](./97530-htown-fight.json) |
 | HTR High Tech Racing | 85174 | [85174-htr-high-tech-racing.json](./85174-htr-high-tech-racing.json) |
