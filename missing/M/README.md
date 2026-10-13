@@ -9016,6 +9016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misty Blue | 64387 | [64387-misty-blue.json](./64387-misty-blue.json) |
 | Misty Continent: Cursed Island | 212437 | [212437-misty-continent-cursed-island.json](./212437-misty-continent-cursed-island.json) |
 | Misty Garden | 345670 | [345670-misty-garden.json](./345670-misty-garden.json) |
+| Misty Hollow | 172421 | [172421-misty-hollow.json](./172421-misty-hollow.json) |
 | Misty no Kira-kira Hanjouki | 265217 | [265217-misty-no-kira-kira-hanjouki.json](./265217-misty-no-kira-kira-hanjouki.json) |
 | Misty's Idle Fishing | 372531 | [372531-mistys-idle-fishing.json](./372531-mistys-idle-fishing.json) |
 | Misty's Shining Blacksmithing | 212199 | [212199-mistys-shining-blacksmithing.json](./212199-mistys-shining-blacksmithing.json) |
