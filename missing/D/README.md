@@ -2591,6 +2591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Fighter 2 | 122906 | [122906-deadly-fighter-2.json](./122906-deadly-fighter-2.json) |
 | Deadly Flare | 192879 | [192879-deadly-flare.json](./192879-deadly-flare.json) |
 | Deadly Footprints | 295791 | [295791-deadly-footprints.json](./295791-deadly-footprints.json) |
+| Deadly Forest | 150971 | [150971-deadly-forest.json](./150971-deadly-forest.json) |
 | Deadly Harvest | 221107 | [221107-deadly-harvest.json](./221107-deadly-harvest.json) |
 | Deadly Heart Gambit | 316784 | [316784-deadly-heart-gambit.json](./316784-deadly-heart-gambit.json) |
 | Deadly Honor | 356287 | [356287-deadly-honor.json](./356287-deadly-honor.json) |
@@ -11129,6 +11130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dual Force | 413669 | [413669-dual-force.json](./413669-dual-force.json) |
 | Dual Fury | 187842 | [187842-dual-fury.json](./187842-dual-fury.json) |
 | Dual Gear | 33551 | [33551-dual-gear.json](./33551-dual-gear.json) |
+| Dual Guns Fantasy | 150980 | [150980-dual-guns-fantasy.json](./150980-dual-guns-fantasy.json) |
 | Dual Gunstrike | 217220 | [217220-dual-gunstrike.json](./217220-dual-gunstrike.json) |
 | Dual Hearts | 44717 | [44717-dual-hearts.json](./44717-dual-hearts.json) |
 | Dual Heroes | 3477 | [3477-dual-heroes.json](./3477-dual-heroes.json) |
