@@ -543,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halls of the Things | 45349 | [45349-halls-of-the-things.json](./45349-halls-of-the-things.json) |
 | Halls of Things | 23047 | [23047-halls-of-things.json](./23047-halls-of-things.json) |
 | Halls of Torment | 235846 | [235846-halls-of-torment.json](./235846-halls-of-torment.json) |
+| Halluci-Sabbat of Koishi | 167358 | [167358-halluci-sabbat-of-koishi.json](./167358-halluci-sabbat-of-koishi.json) |
 | Hallucinations | 358287 | [358287-hallucinations.json](./358287-hallucinations.json) |
 | Hallunazi | 74685 | [74685-hallunazi.json](./74685-hallunazi.json) |
 | Hallway Defender | 220030 | [220030-hallway-defender.json](./220030-hallway-defender.json) |
@@ -7625,6 +7626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Dino | 171494 | [171494-hungry-dino.json](./171494-hungry-dino.json) |
 | Hungry Dinosaurs | 42587 | [42587-hungry-dinosaurs.json](./42587-hungry-dinosaurs.json) |
 | Hungry Ducks | 177291 | [177291-hungry-ducks.json](./177291-hungry-ducks.json) |
+| Hungry Fish | 167389 | [167389-hungry-fish.json](./167389-hungry-fish.json) |
 | Hungry Flame | 29579 | [29579-hungry-flame.json](./29579-hungry-flame.json) |
 | Hungry Fox | 181393 | [181393-hungry-fox.json](./181393-hungry-fox.json) |
 | Hungry Frog | 183335 | [183335-hungry-frog.json](./183335-hungry-frog.json) |
