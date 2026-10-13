@@ -1191,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VGA Sharks | 92965 | [92965-vga-sharks.json](./92965-vga-sharks.json) |
 | VGL: Imperative | 163872 | [163872-vgl-imperative.json](./163872-vgl-imperative.json) |
 | VGM Quiz | 219270 | [219270-vgm-quiz.json](./219270-vgm-quiz.json) |
+| VHAIP | 150955 | [150955-vhaip.json](./150955-vhaip.json) |
 | Vheda | 345054 | [345054-vheda.json](./345054-vheda.json) |
 | VHHS: Backrooms | 282017 | [282017-vhhs-backrooms.json](./282017-vhhs-backrooms.json) |
 | VHS | 309466 | [309466-vhs.json](./309466-vhs.json) |
