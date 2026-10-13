@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad News | 265973 | [265973-mad-news.json](./265973-mad-news.json) |
 | Mad Nords: Probably an Epic Quest | 34327 | [34327-mad-nords-probably-an-epic-quest.json](./34327-mad-nords-probably-an-epic-quest.json) |
 | Mad Octahedron | 104483 | [104483-mad-octahedron.json](./104483-mad-octahedron.json) |
+| Mad Pack | 146046 | [146046-mad-pack.json](./146046-mad-pack.json) |
 | Mad Panic Coaster | 43835 | [43835-mad-panic-coaster.json](./43835-mad-panic-coaster.json) |
 | Mad Quad | 80906 | [80906-mad-quad.json](./80906-mad-quad.json) |
 | Mad Rat | 279741 | [279741-mad-rat.json](./279741-mad-rat.json) |
@@ -1529,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maitetsu: Pure Station | 126483 | [126483-maitetsu-pure-station.json](./126483-maitetsu-pure-station.json) |
 | Maitetsu: Pure Station - Special Luxury Version with Triple Suede Tapestry Limited Edition | 167158 | [167158-maitetsu-pure-station-special-luxury-version-with-triple-suede-tapestry-limited-edition.json](./167158-maitetsu-pure-station-special-luxury-version-with-triple-suede-tapestry-limited-edition.json) |
 | Maitetsu: Pure Station: Hachiroku Figure - Limited Edition | 212325 | [212325-maitetsu-pure-station-hachiroku-figure-limited-edition.json](./212325-maitetsu-pure-station-hachiroku-figure-limited-edition.json) |
+| Maitre des Fleurs | 146063 | [146063-maitre-des-fleurs.json](./146063-maitre-des-fleurs.json) |
 | Maize | 19518 | [19518-maize.json](./19518-maize.json) |
 | Maize | 326289 | [326289-maize.json](./326289-maize.json) |
 | Maize Mace Maze | 293075 | [293075-maize-mace-maze.json](./293075-maize-mace-maze.json) |
@@ -2810,6 +2812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maritime Mecha Mystery | 291558 | [291558-maritime-mecha-mystery.json](./291558-maritime-mecha-mystery.json) |
 | Marito Arcade | 228317 | [228317-marito-arcade.json](./228317-marito-arcade.json) |
 | Mariuccha Alchemy Queen | 149449 | [149449-mariuccha-alchemy-queen.json](./149449-mariuccha-alchemy-queen.json) |
+| Mark & Lara: Partners in Justice | 146028 | [146028-mark-and-lara-partners-in-justice.json](./146028-mark-and-lara-partners-in-justice.json) |
 | Mark Davis Pro Bass Challenge | 3991 | [3991-mark-davis-pro-bass-challenge.json](./3991-mark-davis-pro-bass-challenge.json) |
 | Mark Davis': The Fishing Master | 42499 | [42499-mark-davis-the-fishing-master.json](./42499-mark-davis-the-fishing-master.json) |
 | Mark H. Walker's Lock 'n Load: Heroes of Stalingrad | 129539 | [129539-mark-h-walkers-lock-n-load-heroes-of-stalingrad.json](./129539-mark-h-walkers-lock-n-load-heroes-of-stalingrad.json) |
@@ -9278,6 +9281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB The Show 20 | 125013 | [125013-mlb-the-show-20.json](./125013-mlb-the-show-20.json) |
 | MLB The Show 20: MVP Edition | 136218 | [136218-mlb-the-show-20-mvp-edition.json](./136218-mlb-the-show-20-mvp-edition.json) |
 | MLB The Show 21 | 143260 | [143260-mlb-the-show-21.json](./143260-mlb-the-show-21.json) |
+| MLB The Show 21: Jackie Robinson Edition | 146034 | [146034-mlb-the-show-21-jackie-robinson-edition.json](./146034-mlb-the-show-21-jackie-robinson-edition.json) |
 | MLB The Show 22: Digital Deluxe Edition | 196514 | [196514-mlb-the-show-22-digital-deluxe-edition.json](./196514-mlb-the-show-22-digital-deluxe-edition.json) |
 | MLB The Show 22: MVP Edition | 196516 | [196516-mlb-the-show-22-mvp-edition.json](./196516-mlb-the-show-22-mvp-edition.json) |
 | MLB The Show 24: Digital Deluxe Edition | 286200 | [286200-mlb-the-show-24-digital-deluxe-edition.json](./286200-mlb-the-show-24-digital-deluxe-edition.json) |
@@ -9965,6 +9969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Land 3D: Reaper Rush | 30055 | [30055-monkey-land-3d-reaper-rush.json](./30055-monkey-land-3d-reaper-rush.json) |
 | Monkey Lander | 241474 | [241474-monkey-lander.json](./241474-monkey-lander.json) |
 | Monkey Lost | 367452 | [367452-monkey-lost.json](./367452-monkey-lost.json) |
+| Monkey Magic | 145394 | [145394-monkey-magic.json](./145394-monkey-magic.json) |
 | Monkey Magic | 45220 | [45220-monkey-magic.json](./45220-monkey-magic.json) |
 | Monkey Math | 253303 | [253303-monkey-math.json](./253303-monkey-math.json) |
 | Monkey Milk | 211124 | [211124-monkey-milk.json](./211124-monkey-milk.json) |
@@ -11281,6 +11286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortality Decomp. Killers | 337999 | [337999-mortality-decomp-killers.json](./337999-mortality-decomp-killers.json) |
 | Mortality... Please | 417597 | [417597-mortality-please.json](./417597-mortality-please.json) |
 | Mortals and Monsters: Blood Orc | 191049 | [191049-mortals-and-monsters-blood-orc.json](./191049-mortals-and-monsters-blood-orc.json) |
+| Mortalus: The Quest for Immortality | 145423 | [145423-mortalus-the-quest-for-immortality.json](./145423-mortalus-the-quest-for-immortality.json) |
 | Mortanis Prisoners | 244846 | [244846-mortanis-prisoners.json](./244846-mortanis-prisoners.json) |
 | Mortanum | 403658 | [403658-mortanum.json](./403658-mortanum.json) |
 | Mortar | 184402 | [184402-mortar.json](./184402-mortar.json) |
