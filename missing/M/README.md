@@ -479,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mado Paf! | 229263 | [229263-mado-paf.json](./229263-mado-paf.json) |
 | Madojeongi: Secret of Elysium | 252163 | [252163-madojeongi-secret-of-elysium.json](./252163-madojeongi-secret-of-elysium.json) |
 | Madonna Simulator | 176379 | [176379-madonna-simulator.json](./176379-madonna-simulator.json) |
+| Madoris R | 147748 | [147748-madoris-r.json](./147748-madoris-r.json) |
 | Madoromi Travel | 289225 | [289225-madoromi-travel.json](./289225-madoromi-travel.json) |
 | Madotsuki's Closet | 145675 | [145675-madotsukis-closet.json](./145675-madotsukis-closet.json) |
 | Madotsuki's Story | 229260 | [229260-madotsukis-story.json](./229260-madotsukis-story.json) |
@@ -1024,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Magic World | 250261 | [250261-magical-magic-world.json](./250261-magical-magic-world.json) |
 | Magical Makeover | 139311 | [139311-magical-makeover.json](./139311-magical-makeover.json) |
 | Magical Manifest | 382546 | [382546-magical-manifest.json](./382546-magical-manifest.json) |
+| Magical Maze | 147749 | [147749-magical-maze.json](./147749-magical-maze.json) |
 | Magical Merge: Fairy Adventure | 309501 | [309501-magical-merge-fairy-adventure.json](./309501-magical-merge-fairy-adventure.json) |
 | Magical MILFs | 136257 | [136257-magical-milfs.json](./136257-magical-milfs.json) |
 | Magical Monstergirls Academy | 276251 | [276251-magical-monstergirls-academy.json](./276251-magical-monstergirls-academy.json) |
@@ -6154,6 +6156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merlin's Apprentice | 45913 | [45913-merlins-apprentice.json](./45913-merlins-apprentice.json) |
 | Merlin's Lab | 59033 | [59033-merlins-lab.json](./59033-merlins-lab.json) |
 | Mermaid Adventures: The Magic Pearl | 88623 | [88623-mermaid-adventures-the-magic-pearl.json](./88623-mermaid-adventures-the-magic-pearl.json) |
+| Mermaid Castle | 147740 | [147740-mermaid-castle.json](./147740-mermaid-castle.json) |
 | Mermaid Castle 2 | 264560 | [264560-mermaid-castle-2.json](./264560-mermaid-castle-2.json) |
 | Mermaid Catch: Transform Sirens into Anime Boys | 407273 | [407273-mermaid-catch-transform-sirens-into-anime-boys.json](./407273-mermaid-catch-transform-sirens-into-anime-boys.json) |
 | Mermaid Catch: Transform Sirens into Anime Girls | 409684 | [409684-mermaid-catch-transform-sirens-into-anime-girls.json](./409684-mermaid-catch-transform-sirens-into-anime-girls.json) |
@@ -6699,6 +6702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mexican High School Simulator | 257355 | [257355-mexican-high-school-simulator.json](./257355-mexican-high-school-simulator.json) |
 | Mexican Ninja | 347240 | [347240-mexican-ninja.json](./347240-mexican-ninja.json) |
 | Mexican Smashoff | 212221 | [212221-mexican-smashoff.json](./212221-mexican-smashoff.json) |
+| Mexican Train Dominoes Gold | 147732 | [147732-mexican-train-dominoes-gold.json](./147732-mexican-train-dominoes-gold.json) |
 | Mexico 1921: A Deep Slumber | 211921 | [211921-mexico-1921-a-deep-slumber.json](./211921-mexico-1921-a-deep-slumber.json) |
 | Meyni | 299128 | [299128-meyni.json](./299128-meyni.json) |
 | Meyouw | 334944 | [334944-meyouw.json](./334944-meyouw.json) |
@@ -9933,6 +9937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey GO Happy | 97313 | [97313-monkey-go-happy.json](./97313-monkey-go-happy.json) |
 | Monkey GO Happy 5 | 401787 | [401787-monkey-go-happy-5.json](./401787-monkey-go-happy-5.json) |
 | Monkey GO Happy 6 | 401800 | [401800-monkey-go-happy-6.json](./401800-monkey-go-happy-6.json) |
+| Monkey Hit | 147757 | [147757-monkey-hit.json](./147757-monkey-hit.json) |
 | Monkey in the Zoo | 391855 | [391855-monkey-in-the-zoo.json](./391855-monkey-in-the-zoo.json) |
 | Monkey Island 2 Special Edition: LeChuck's Revenge | 66 | [66-monkey-island-2-special-edition-lechucks-revenge.json](./66-monkey-island-2-special-edition-lechucks-revenge.json) |
 | Monkey Island Special Edition Collection | 43036 | [43036-monkey-island-special-edition-collection.json](./43036-monkey-island-special-edition-collection.json) |
