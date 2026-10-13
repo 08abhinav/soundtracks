@@ -2859,6 +2859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleHeights | 327220 | [327220-battleheights.json](./327220-battleheights.json) |
 | Battlejack | 55074 | [55074-battlejack.json](./55074-battlejack.json) |
 | Battlejack: Blackjack RPG | 91992 | [91992-battlejack-blackjack-rpg.json](./91992-battlejack-blackjack-rpg.json) |
+| BattleJuice Alchemist | 157433 | [157433-battlejuice-alchemist.json](./157433-battlejuice-alchemist.json) |
 | BattleLand: Warrior vs. Monster | 263574 | [263574-battleland-warrior-vs-monster.json](./263574-battleland-warrior-vs-monster.json) |
 | Battlelands Royale | 104311 | [104311-battlelands-royale.json](./104311-battlelands-royale.json) |
 | Battleline: Steel Warfare | 23630 | [23630-battleline-steel-warfare.json](./23630-battleline-steel-warfare.json) |
@@ -8516,6 +8517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boong-Ga Boong-Ga | 58738 | [58738-boong-ga-boong-ga.json](./58738-boong-ga-boong-ga.json) |
 | Boonka | 317386 | [317386-boonka.json](./317386-boonka.json) |
 | Boons Farm | 108043 | [108043-boons-farm.json](./108043-boons-farm.json) |
+| Booobjz | 157388 | [157388-booobjz.json](./157388-booobjz.json) |
 | Booom-Slang! | 309628 | [309628-booom-slang.json](./309628-booom-slang.json) |
 | Boooooooooobs | 211444 | [211444-boooooooooobs.json](./211444-boooooooooobs.json) |
 | Booooooooooooooounce | 163817 | [163817-booooooooooooooounce.json](./163817-booooooooooooooounce.json) |
@@ -9464,6 +9466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrasFoot 2007 | 330851 | [330851-brasfoot-2007.json](./330851-brasfoot-2007.json) |
 | BrasFoot 2008 | 330852 | [330852-brasfoot-2008.json](./330852-brasfoot-2008.json) |
 | BrasFoot 2009 | 330853 | [330853-brasfoot-2009.json](./330853-brasfoot-2009.json) |
+| Brash Monster Simulator | 157419 | [157419-brash-monster-simulator.json](./157419-brash-monster-simulator.json) |
 | Brasil Fusion | 273993 | [273993-brasil-fusion.json](./273993-brasil-fusion.json) |
 | Brasil Simuleitor | 244371 | [244371-brasil-simuleitor.json](./244371-brasil-simuleitor.json) |
 | Brasília Defense | 404817 | [404817-brasilia-defense.json](./404817-brasilia-defense.json) |
