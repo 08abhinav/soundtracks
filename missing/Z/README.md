@@ -1270,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies In Valkeala | 369750 | [369750-zombies-in-valkeala.json](./369750-zombies-in-valkeala.json) |
 | Zombies Inc | 104617 | [104617-zombies-inc.json](./104617-zombies-inc.json) |
 | Zombies Midnight | 207771 | [207771-zombies-midnight.json](./207771-zombies-midnight.json) |
+| Zombies Must Die | 151476 | [151476-zombies-must-die.json](./151476-zombies-must-die.json) |
 | Zombies Noir | 220272 | [220272-zombies-noir.json](./220272-zombies-noir.json) |
 | Zombies on a Plane | 36295 | [36295-zombies-on-a-plane.json](./36295-zombies-on-a-plane.json) |
 | Zombies Overloaded | 124618 | [124618-zombies-overloaded.json](./124618-zombies-overloaded.json) |
