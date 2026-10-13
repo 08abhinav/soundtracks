@@ -1321,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Shikaku Retsuden: Mahjong Wars | 37676 | [37676-mahjong-shikaku-retsuden-mahjong-wars.json](./37676-mahjong-shikaku-retsuden-mahjong-wars.json) |
 | Mahjong Solitaire | 232382 | [232382-mahjong-solitaire.json](./232382-mahjong-solitaire.json) |
 | Mahjong Solitaire | 80453 | [80453-mahjong-solitaire.json](./80453-mahjong-solitaire.json) |
+| Mahjong Solitaire 100 | 156886 | [156886-mahjong-solitaire-100.json](./156886-mahjong-solitaire-100.json) |
 | Mahjong Solitaire Epic | 88426 | [88426-mahjong-solitaire-epic.json](./88426-mahjong-solitaire-epic.json) |
 | Mahjong Solitaire Refresh | 114173 | [114173-mahjong-solitaire-refresh.json](./114173-mahjong-solitaire-refresh.json) |
 | Mahjong Solitaire Refresh: Ex Panels | 170928 | [170928-mahjong-solitaire-refresh-ex-panels.json](./170928-mahjong-solitaire-refresh-ex-panels.json) |
@@ -2242,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Odyssey | 113699 | [113699-marble-odyssey.json](./113699-marble-odyssey.json) |
 | Marble on Rails | 370916 | [370916-marble-on-rails.json](./370916-marble-on-rails.json) |
 | Marble Park | 235135 | [235135-marble-park.json](./235135-marble-park.json) |
+| Marble Parkour | 156900 | [156900-marble-parkour.json](./156900-marble-parkour.json) |
 | Marble Parkour 2: Roll and Roll | 163186 | [163186-marble-parkour-2-roll-and-roll.json](./163186-marble-parkour-2-roll-and-roll.json) |
 | Marble Partner | 119756 | [119756-marble-partner.json](./119756-marble-partner.json) |
 | Marble Race Creator | 244848 | [244848-marble-race-creator.json](./244848-marble-race-creator.json) |
