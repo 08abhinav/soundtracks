@@ -6184,6 +6184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plant Tycoon | 15942 | [15942-plant-tycoon.json](./15942-plant-tycoon.json) |
 | Plant vs Undead | 166596 | [166596-plant-vs-undead.json](./166596-plant-vs-undead.json) |
 | Plant With Care | 187785 | [187785-plant-with-care.json](./187785-plant-with-care.json) |
+| Planta | 159546 | [159546-planta.json](./159546-planta.json) |
 | Plantabi: Little Garden | 288871 | [288871-plantabi-little-garden.json](./288871-plantabi-little-garden.json) |
 | Plantan | 110330 | [110330-plantan.json](./110330-plantan.json) |
 | Plantasia | 333098 | [333098-plantasia.json](./333098-plantasia.json) |
@@ -6416,6 +6417,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayerONeGame | 90357 | [90357-playeronegame.json](./90357-playeronegame.json) |
 | Playerunkn1wn: Friendly Fire | 80912 | [80912-playerunkn1wn-friendly-fire.json](./80912-playerunkn1wn-friendly-fire.json) |
 | Playerunkn4wn: Zombie | 80913 | [80913-playerunkn4wn-zombie.json](./80913-playerunkn4wn-zombie.json) |
+| PlayerUnknown's Battlegrounds: Season 11 | 158956 | [158956-playerunknowns-battlegrounds-season-11.json](./158956-playerunknowns-battlegrounds-season-11.json) |
+| PlayerUnknown's Battlegrounds: Season 12 | 158958 | [158958-playerunknowns-battlegrounds-season-12.json](./158958-playerunknowns-battlegrounds-season-12.json) |
 | PlayerUnknown's Battlegrounds: Season 7 | 135139 | [135139-playerunknowns-battlegrounds-season-7.json](./135139-playerunknowns-battlegrounds-season-7.json) |
 | PlayerUnknown's Battlegrounds: Season 8 | 135824 | [135824-playerunknowns-battlegrounds-season-8.json](./135824-playerunknowns-battlegrounds-season-8.json) |
 | PlayFortress | 33102 | [33102-playfortress.json](./33102-playfortress.json) |
@@ -7689,6 +7692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polders | 388320 | [388320-polders.json](./388320-polders.json) |
 | Pole Position | 310533 | [310533-pole-position.json](./310533-pole-position.json) |
 | Pole Position | 5691 | [5691-pole-position.json](./5691-pole-position.json) |
+| Pole Position 2010 | 158942 | [158942-pole-position-2010.json](./158942-pole-position-2010.json) |
 | Pole Position II | 293758 | [293758-pole-position-ii.json](./293758-pole-position-ii.json) |
 | Pole Position: Remix | 21875 | [21875-pole-position-remix.json](./21875-pole-position-remix.json) |
 | Pole Riders | 342166 | [342166-pole-riders.json](./342166-pole-riders.json) |
@@ -8497,6 +8501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portrait Painter | 406709 | [406709-portrait-painter.json](./406709-portrait-painter.json) |
 | Portraits of Doom | 318067 | [318067-portraits-of-doom.json](./318067-portraits-of-doom.json) |
 | Ports of Call Classic | 118769 | [118769-ports-of-call-classic.json](./118769-ports-of-call-classic.json) |
+| Ports Simulator | 158938 | [158938-ports-simulator.json](./158938-ports-simulator.json) |
 | Portugal 1111: A Conquista de Soure | 94365 | [94365-portugal-1111-a-conquista-de-soure.json](./94365-portugal-1111-a-conquista-de-soure.json) |
 | Porzellanhaus | 367407 | [367407-porzellanhaus.json](./367407-porzellanhaus.json) |
 | Posable Heroes | 74362 | [74362-posable-heroes.json](./74362-posable-heroes.json) |
@@ -11024,6 +11029,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PUBG Mobile: Season 13 | 135154 | [135154-pubg-mobile-season-13.json](./135154-pubg-mobile-season-13.json) |
 | PUBG Mobile: Season 14 | 136975 | [136975-pubg-mobile-season-14.json](./136975-pubg-mobile-season-14.json) |
 | PUBG Mobile: Season 16 | 141193 | [141193-pubg-mobile-season-16.json](./141193-pubg-mobile-season-16.json) |
+| PUBG Mobile: Season 18 | 158951 | [158951-pubg-mobile-season-18.json](./158951-pubg-mobile-season-18.json) |
+| PUBG Mobile: Season 19 | 158952 | [158952-pubg-mobile-season-19.json](./158952-pubg-mobile-season-19.json) |
+| PUBG Mobile: Season 20 | 158953 | [158953-pubg-mobile-season-20.json](./158953-pubg-mobile-season-20.json) |
 | PUBG: Battlegrounds - Season 16 | 198264 | [198264-pubg-battlegrounds-season-16.json](./198264-pubg-battlegrounds-season-16.json) |
 | PUBG: Battlegrounds - Season 18 | 217520 | [217520-pubg-battlegrounds-season-18.json](./217520-pubg-battlegrounds-season-18.json) |
 | PUBG: Battlegrounds - Season 21 | 279571 | [279571-pubg-battlegrounds-season-21.json](./279571-pubg-battlegrounds-season-21.json) |
@@ -12023,6 +12031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles for smart: Dogs | 107848 | [107848-puzzles-for-smart-dogs.json](./107848-puzzles-for-smart-dogs.json) |
 | Puzzles for smart: Horses | 111492 | [111492-puzzles-for-smart-horses.json](./111492-puzzles-for-smart-horses.json) |
 | Puzzles Forest | 414496 | [414496-puzzles-forest.json](./414496-puzzles-forest.json) |
+| Puzzles with Cats | 159551 | [159551-puzzles-with-cats.json](./159551-puzzles-with-cats.json) |
 | Puzzles with Nature | 203795 | [203795-puzzles-with-nature.json](./203795-puzzles-with-nature.json) |
 | Puzzles: Dog | 414499 | [414499-puzzles-dog.json](./414499-puzzles-dog.json) |
 | Puzzles: Fish | 414498 | [414498-puzzles-fish.json](./414498-puzzles-fish.json) |
