@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Legends: Tree of Life | 85206 | [85206-jewel-legends-tree-of-life.json](./85206-jewel-legends-tree-of-life.json) |
 | Jewel Link Chronicles: Mountains of Madness | 65458 | [65458-jewel-link-chronicles-mountains-of-madness.json](./65458-jewel-link-chronicles-mountains-of-madness.json) |
 | Jewel Link: Atlantic Quest | 401014 | [401014-jewel-link-atlantic-quest.json](./401014-jewel-link-atlantic-quest.json) |
+| Jewel Magic Castle | 166288 | [166288-jewel-magic-castle.json](./166288-jewel-magic-castle.json) |
 | Jewel Mania | 360069 | [360069-jewel-mania.json](./360069-jewel-mania.json) |
 | Jewel Master | 222473 | [222473-jewel-master.json](./222473-jewel-master.json) |
 | Jewel Master | 246342 | [246342-jewel-master.json](./246342-jewel-master.json) |
