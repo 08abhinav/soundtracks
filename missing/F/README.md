@@ -2031,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Blade | 213015 | [213015-fatal-blade.json](./213015-fatal-blade.json) |
 | Fatal Bullet | 193946 | [193946-fatal-bullet.json](./193946-fatal-bullet.json) |
 | Fatal Craft | 83253 | [83253-fatal-craft.json](./83253-fatal-craft.json) |
+| Fatal Curse | 156901 | [156901-fatal-curse.json](./156901-fatal-curse.json) |
 | Fatal Delivery | 323530 | [323530-fatal-delivery.json](./323530-fatal-delivery.json) |
 | Fatal Escape | 60485 | [60485-fatal-escape.json](./60485-fatal-escape.json) |
 | Fatal Evidence: Art of Murder | 323847 | [323847-fatal-evidence-art-of-murder.json](./323847-fatal-evidence-art-of-murder.json) |
@@ -5850,6 +5851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Courier: Bike Adventure | 320370 | [320370-food-courier-bike-adventure.json](./320370-food-courier-bike-adventure.json) |
 | Food Decisions | 292682 | [292682-food-decisions.json](./292682-food-decisions.json) |
 | Food Delivery Battle | 166634 | [166634-food-delivery-battle.json](./166634-food-delivery-battle.json) |
+| Food Delivery Service | 156896 | [156896-food-delivery-service.json](./156896-food-delivery-service.json) |
 | Food Delivery Simulator | 316420 | [316420-food-delivery-simulator.json](./316420-food-delivery-simulator.json) |
 | Food Devils | 301330 | [301330-food-devils.json](./301330-food-devils.json) |
 | Food Diary | 201625 | [201625-food-diary.json](./201625-food-diary.json) |
