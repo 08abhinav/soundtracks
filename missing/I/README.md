@@ -2329,6 +2329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inevitable | 179067 | [179067-inevitable.json](./179067-inevitable.json) |
 | Inevitable Light | 287219 | [287219-inevitable-light.json](./287219-inevitable-light.json) |
 | Inexistence | 18957 | [18957-inexistence.json](./18957-inexistence.json) |
+| Inexistence Rebirth | 133128 | [133128-inexistence-rebirth.json](./133128-inexistence-rebirth.json) |
 | Inexorable | 293002 | [293002-inexorable.json](./293002-inexorable.json) |
 | Inexorable | 351771 | [351771-inexorable.json](./351771-inexorable.json) |
 | Inexperienced Driver | 207193 | [207193-inexperienced-driver.json](./207193-inexperienced-driver.json) |
