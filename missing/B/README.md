@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to Base(Q2)ics Jam 1 | 316741 | [316741-back-to-base-q2-ics-jam-1.json](./316741-back-to-base-q2-ics-jam-1.json) |
 | Back to Basics | 256852 | [256852-back-to-basics.json](./256852-back-to-basics.json) |
 | Back to Bed | 9418 | [9418-back-to-bed.json](./9418-back-to-bed.json) |
+| Back to Belt | 164581 | [164581-back-to-belt.json](./164581-back-to-belt.json) |
 | Back to Brother | 231047 | [231047-back-to-brother.json](./231047-back-to-brother.json) |
 | Back to Dinosaur Island | 34169 | [34169-back-to-dinosaur-island.json](./34169-back-to-dinosaur-island.json) |
 | Back to Dinosaur Island 2 | 33274 | [33274-back-to-dinosaur-island-2.json](./33274-back-to-dinosaur-island-2.json) |
@@ -3907,6 +3908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind the Frame: The Finest Scenery | 148499 | [148499-behind-the-frame-the-finest-scenery.json](./148499-behind-the-frame-the-finest-scenery.json) |
 | Behind the Frame: The Finest Scenery - Deluxe Edition | 203690 | [203690-behind-the-frame-the-finest-scenery-deluxe-edition.json](./203690-behind-the-frame-the-finest-scenery-deluxe-edition.json) |
 | Behind the Frame: The Finest Scenery VR | 244666 | [244666-behind-the-frame-the-finest-scenery-vr.json](./244666-behind-the-frame-the-finest-scenery-vr.json) |
+| Behind the Horizon | 164588 | [164588-behind-the-horizon.json](./164588-behind-the-horizon.json) |
 | Behind the Horizon: The Desert | 195239 | [195239-behind-the-horizon-the-desert.json](./195239-behind-the-horizon-the-desert.json) |
 | Behind the Hydra's Eyes | 374585 | [374585-behind-the-hydras-eyes.json](./374585-behind-the-hydras-eyes.json) |
 | Behind the Iron Gate | 14294 | [14294-behind-the-iron-gate.json](./14294-behind-the-iron-gate.json) |
@@ -5787,6 +5789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Desert | 6292 | [6292-black-desert.json](./6292-black-desert.json) |
 | Black Desert Mobile | 54701 | [54701-black-desert-mobile.json](./54701-black-desert-mobile.json) |
 | Black Desert Online: Prestige Edition | 139914 | [139914-black-desert-online-prestige-edition.json](./139914-black-desert-online-prestige-edition.json) |
+| Black Desert: Conqueror Edition | 164570 | [164570-black-desert-conqueror-edition.json](./164570-black-desert-conqueror-edition.json) |
 | Black Desert: Traveler Edition | 150142 | [150142-black-desert-traveler-edition.json](./150142-black-desert-traveler-edition.json) |
 | Black Diamond | 213352 | [213352-black-diamond.json](./213352-black-diamond.json) |
 | Black Diamond | 275309 | [275309-black-diamond.json](./275309-black-diamond.json) |
