@@ -3866,6 +3866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street Crayon: Numbers Count | 71798 | [71798-sesame-street-crayon-numbers-count.json](./71798-sesame-street-crayon-numbers-count.json) |
 | Sesame Street Create & Draw in Elmo's World | 206015 | [206015-sesame-street-create-and-draw-in-elmos-world.json](./206015-sesame-street-create-and-draw-in-elmos-world.json) |
 | Sesame Street Elmo's World: Pets, Foods and Telephones! | 138579 | [138579-sesame-street-elmos-world-pets-foods-and-telephones.json](./138579-sesame-street-elmos-world-pets-foods-and-telephones.json) |
+| Sesame Street Elmo's World: Shoes, Bugs & Farms! | 138487 | [138487-sesame-street-elmos-world-shoes-bugs-and-farms.json](./138487-sesame-street-elmos-world-shoes-bugs-and-farms.json) |
 | Sesame Street Fighter | 339673 | [339673-sesame-street-fighter.json](./339673-sesame-street-fighter.json) |
 | Sesame Street Letters | 206014 | [206014-sesame-street-letters.json](./206014-sesame-street-letters.json) |
 | Sesame Street Mecha Builders | 342765 | [342765-sesame-street-mecha-builders.json](./342765-sesame-street-mecha-builders.json) |
@@ -3883,11 +3884,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street: Letter-Go-Round | 25175 | [25175-sesame-street-letter-go-round.json](./25175-sesame-street-letter-go-round.json) |
 | Sesame Street: Music Maker | 138578 | [138578-sesame-street-music-maker.json](./138578-sesame-street-music-maker.json) |
 | Sesame Street: Numbers | 4276 | [4276-sesame-street-numbers.json](./4276-sesame-street-numbers.json) |
+| Sesame Street: Preschool | 138486 | [138486-sesame-street-preschool.json](./138486-sesame-street-preschool.json) |
 | Sesame Street: Ready, Set, Grover! | 138577 | [138577-sesame-street-ready-set-grover.json](./138577-sesame-street-ready-set-grover.json) |
 | Sesame Street: Ready, Set, Grover! With Elmo - The Videogame | 47954 | [47954-sesame-street-ready-set-grover-with-elmo-the-videogame.json](./47954-sesame-street-ready-set-grover-with-elmo-the-videogame.json) |
 | Sesame Street: Search & Learn Adventures | 245537 | [245537-sesame-street-search-and-learn-adventures.json](./245537-sesame-street-search-and-learn-adventures.json) |
 | Sesame Street: Solve It with Elmo, Abby and Super Grover 2.0! | 230400 | [230400-sesame-street-solve-it-with-elmo-abby-and-super-grover-2-0.json](./230400-sesame-street-solve-it-with-elmo-abby-and-super-grover-2-0.json) |
 | Sesame Street: The Happy Scientists | 230551 | [230551-sesame-street-the-happy-scientists.json](./230551-sesame-street-the-happy-scientists.json) |
+| Sesame Street: The Three Grouchketeers | 138484 | [138484-sesame-street-the-three-grouchketeers.json](./138484-sesame-street-the-three-grouchketeers.json) |
+| Sesame Street: Toddler | 138485 | [138485-sesame-street-toddler.json](./138485-sesame-street-toddler.json) |
 | Sesame's Haunting | 273900 | [273900-sesames-haunting.json](./273900-sesames-haunting.json) |
 | Sesari 1 | 321131 | [321131-sesari-1.json](./321131-sesari-1.json) |
 | Sesquipedalian | 405039 | [405039-sesquipedalian.json](./405039-sesquipedalian.json) |
@@ -5424,6 +5428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei III: Nocturne - HD Remaster: Maniax Pack | 237996 | [237996-shin-megami-tensei-iii-nocturne-hd-remaster-maniax-pack.json](./237996-shin-megami-tensei-iii-nocturne-hd-remaster-maniax-pack.json) |
 | Shin Megami Tensei III: Nocturne Maniax Chronicle Edition | 231375 | [231375-shin-megami-tensei-iii-nocturne-maniax-chronicle-edition.json](./231375-shin-megami-tensei-iii-nocturne-maniax-chronicle-edition.json) |
 | Shin Megami Tensei IV | 6886 | [6886-shin-megami-tensei-iv.json](./6886-shin-megami-tensei-iv.json) |
+| Shin Megami Tensei J | 138483 | [138483-shin-megami-tensei-j.json](./138483-shin-megami-tensei-j.json) |
 | Shin Megami Tensei V: A Goddess in Training | 238054 | [238054-shin-megami-tensei-v-a-goddess-in-training.json](./238054-shin-megami-tensei-v-a-goddess-in-training.json) |
 | Shin Megami Tensei V: The Rage of a Queen | 238058 | [238058-shin-megami-tensei-v-the-rage-of-a-queen.json](./238058-shin-megami-tensei-v-the-rage-of-a-queen.json) |
 | Shin Megami Tensei V: Vengeance - Demon Subquest: Sakura Cinders of the East | 297318 | [297318-shin-megami-tensei-v-vengeance-demon-subquest-sakura-cinders-of-the-east.json](./297318-shin-megami-tensei-v-vengeance-demon-subquest-sakura-cinders-of-the-east.json) |
@@ -7650,6 +7655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Braves | 201588 | [201588-six-braves.json](./201588-six-braves.json) |
 | Six Cabins in Serpent Ridge National Forest | 287221 | [287221-six-cabins-in-serpent-ridge-national-forest.json](./287221-six-cabins-in-serpent-ridge-national-forest.json) |
 | Six Card Golf | 202046 | [202046-six-card-golf.json](./202046-six-card-golf.json) |
+| Six Cats Under | 138471 | [138471-six-cats-under.json](./138471-six-cats-under.json) |
 | Six Days in Fallujah | 143482 | [143482-six-days-in-fallujah.json](./143482-six-days-in-fallujah.json) |
 | Six Days in Fallujah | 36538 | [36538-six-days-in-fallujah.json](./36538-six-days-in-fallujah.json) |
 | Six Degrees of Damnation | 118981 | [118981-six-degrees-of-damnation.json](./118981-six-degrees-of-damnation.json) |
@@ -19946,6 +19952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunsoft Collection 2 | 291544 | [291544-sunsoft-collection-2.json](./291544-sunsoft-collection-2.json) |
 | Sunsoft is Back! Retro Game Selection | 297001 | [297001-sunsoft-is-back-retro-game-selection.json](./297001-sunsoft-is-back-retro-game-selection.json) |
 | Sunsoft Mahjong Solitaire: Shanghai Legend | 276952 | [276952-sunsoft-mahjong-solitaire-shanghai-legend.json](./276952-sunsoft-mahjong-solitaire-shanghai-legend.json) |
+| Sunwards | 138467 | [138467-sunwards.json](./138467-sunwards.json) |
 | Sunya | 253006 | [253006-sunya.json](./253006-sunya.json) |
 | Sunyata CCG | 403554 | [403554-sunyata-ccg.json](./403554-sunyata-ccg.json) |
 | Supa Birdie Boi | 149200 | [149200-supa-birdie-boi.json](./149200-supa-birdie-boi.json) |
@@ -20666,6 +20673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kart Mini Car Race | 283227 | [283227-super-kart-mini-car-race.json](./283227-super-kart-mini-car-race.json) |
 | Super Kart Racer | 267954 | [267954-super-kart-racer.json](./267954-super-kart-racer.json) |
 | Super Karts | 50614 | [50614-super-karts.json](./50614-super-karts.json) |
+| Super Kayak Maker | 138495 | [138495-super-kayak-maker.json](./138495-super-kayak-maker.json) |
 | Super Keepy Ups | 111852 | [111852-super-keepy-ups.json](./111852-super-keepy-ups.json) |
 | Super Kenney | 209683 | [209683-super-kenney.json](./209683-super-kenney.json) |
 | Super Kick-Off | 45797 | [45797-super-kick-off.json](./45797-super-kick-off.json) |
@@ -20676,6 +20684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kill-Boi 9000 | 215705 | [215705-super-kill-boi-9000.json](./215705-super-kill-boi-9000.json) |
 | Super Killer Hornets: Resurrection | 54413 | [54413-super-killer-hornets-resurrection.json](./54413-super-killer-hornets-resurrection.json) |
 | Super Kirby Clash | 122229 | [122229-super-kirby-clash.json](./122229-super-kirby-clash.json) |
+| Super Kittens | 138489 | [138489-super-kittens.json](./138489-super-kittens.json) |
 | Super Kitty Tales | 180774 | [180774-super-kitty-tales.json](./180774-super-kitty-tales.json) |
 | Super Kiwi 64 | 197198 | [197198-super-kiwi-64.json](./197198-super-kiwi-64.json) |
 | Super Kiwi 64: Doomsday | 284145 | [284145-super-kiwi-64-doomsday.json](./284145-super-kiwi-64-doomsday.json) |
@@ -22276,6 +22285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supraland: Complete Edition | 169180 | [169180-supraland-complete-edition.json](./169180-supraland-complete-edition.json) |
 | Supraland: Six Inches Under | 172903 | [172903-supraland-six-inches-under.json](./172903-supraland-six-inches-under.json) |
 | Supraworld | 250601 | [250601-supraworld.json](./250601-supraworld.json) |
+| Suprem.io | 138488 | [138488-suprem-io.json](./138488-suprem-io.json) |
 | Supremacy 1914 | 113460 | [113460-supremacy-1914.json](./113460-supremacy-1914.json) |
 | Supreme | 80546 | [80546-supreme.json](./80546-supreme.json) |
 | Supreme Candy: Oudou ni wa Oudoutaru Riyuu ga Arun Desu! | 137107 | [137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json](./137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json) |
