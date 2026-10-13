@@ -3197,6 +3197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Gallery: Secret Beauties | 378806 | [378806-hentai-gallery-secret-beauties.json](./378806-hentai-gallery-secret-beauties.json) |
 | Hentai Games Collection | 305906 | [305906-hentai-games-collection.json](./305906-hentai-games-collection.json) |
 | Hentai Games Collection Vol. 3 | 362202 | [362202-hentai-games-collection-vol-3.json](./362202-hentai-games-collection-vol-3.json) |
+| Hentai GIF Puzzle | 163541 | [163541-hentai-gif-puzzle.json](./163541-hentai-gif-puzzle.json) |
 | Hentai Girl Betty | 111252 | [111252-hentai-girl-betty.json](./111252-hentai-girl-betty.json) |
 | Hentai Girl Division | 194201 | [194201-hentai-girl-division.json](./194201-hentai-girl-division.json) |
 | Hentai Girl Fantasy | 136425 | [136425-hentai-girl-fantasy.json](./136425-hentai-girl-fantasy.json) |
@@ -3205,6 +3206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girl Linda | 136428 | [136428-hentai-girl-linda.json](./136428-hentai-girl-linda.json) |
 | Hentai Girls | 251548 | [251548-hentai-girls.json](./251548-hentai-girls.json) |
 | Hentai Girls | 294164 | [294164-hentai-girls.json](./294164-hentai-girls.json) |
+| Hentai Girls 18+ | 163535 | [163535-hentai-girls-18.json](./163535-hentai-girls-18.json) |
 | Hentai Girls Gallery | 340435 | [340435-hentai-girls-gallery.json](./340435-hentai-girls-gallery.json) |
 | Hentai Girls Maid | 340436 | [340436-hentai-girls-maid.json](./340436-hentai-girls-maid.json) |
 | Hentai Girls Nature | 311810 | [311810-hentai-girls-nature.json](./311810-hentai-girls-nature.json) |
@@ -3279,6 +3281,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai House: Next Door | 403713 | [403713-hentai-house-next-door.json](./403713-hentai-house-next-door.json) |
 | Hentai Hunter | 272223 | [272223-hentai-hunter.json](./272223-hentai-hunter.json) |
 | Hentai in the Forest | 155689 | [155689-hentai-in-the-forest.json](./155689-hentai-in-the-forest.json) |
+| Hentai IQ Puzzle | 163570 | [163570-hentai-iq-puzzle.json](./163570-hentai-iq-puzzle.json) |
+| Hentai IQ Puzzle: Puzzle Pack - 5 IQ | 163571 | [163571-hentai-iq-puzzle-puzzle-pack-5-iq.json](./163571-hentai-iq-puzzle-puzzle-pack-5-iq.json) |
 | Hentai Island | 226187 | [226187-hentai-island.json](./226187-hentai-island.json) |
 | Hentai Jigsaw Girls 2 | 162840 | [162840-hentai-jigsaw-girls-2.json](./162840-hentai-jigsaw-girls-2.json) |
 | Hentai Jigsaw Photo Studio: Neko Girls | 286747 | [286747-hentai-jigsaw-photo-studio-neko-girls.json](./286747-hentai-jigsaw-photo-studio-neko-girls.json) |
@@ -3337,6 +3341,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Night Milf | 371377 | [371377-hentai-night-milf.json](./371377-hentai-night-milf.json) |
 | Hentai no Hero | 110358 | [110358-hentai-no-hero.json](./110358-hentai-no-hero.json) |
 | Hentai Nureta Puzzle College | 161411 | [161411-hentai-nureta-puzzle-college.json](./161411-hentai-nureta-puzzle-college.json) |
+| Hentai Nureta Puzzle Cyberpunk | 163557 | [163557-hentai-nureta-puzzle-cyberpunk.json](./163557-hentai-nureta-puzzle-cyberpunk.json) |
+| Hentai Nureta Puzzle Power Girls | 163559 | [163559-hentai-nureta-puzzle-power-girls.json](./163559-hentai-nureta-puzzle-power-girls.json) |
 | Hentai Nurse | 296945 | [296945-hentai-nurse.json](./296945-hentai-nurse.json) |
 | Hentai Nurse | 322720 | [322720-hentai-nurse.json](./322720-hentai-nurse.json) |
 | Hentai Octoq Puzzle | 368570 | [368570-hentai-octoq-puzzle.json](./368570-hentai-octoq-puzzle.json) |
@@ -3359,6 +3365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Photo: Sakura | 356820 | [356820-hentai-photo-sakura.json](./356820-hentai-photo-sakura.json) |
 | Hentai Photo: Yuri | 365539 | [365539-hentai-photo-yuri.json](./365539-hentai-photo-yuri.json) |
 | Hentai Plus Girl | 111487 | [111487-hentai-plus-girl.json](./111487-hentai-plus-girl.json) |
+| Hentai Plus Girl: Puzzle Pack - 5 Girls | 163543 | [163543-hentai-plus-girl-puzzle-pack-5-girls.json](./163543-hentai-plus-girl-puzzle-pack-5-girls.json) |
 | Hentai Police Girl | 411068 | [411068-hentai-police-girl.json](./411068-hentai-police-girl.json) |
 | Hentai Polka | 294139 | [294139-hentai-polka.json](./294139-hentai-polka.json) |
 | Hentai Pool | 241386 | [241386-hentai-pool.json](./241386-hentai-pool.json) |
@@ -6729,6 +6736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Hands! | 87171 | [87171-hot-hands.json](./87171-hot-hands.json) |
 | Hot Hatch Adventure | 278640 | [278640-hot-hatch-adventure.json](./278640-hot-hatch-adventure.json) |
 | Hot Heat Reset | 224512 | [224512-hot-heat-reset.json](./224512-hot-heat-reset.json) |
+| Hot Hentai Puzzle Vol.1 | 163529 | [163529-hot-hentai-puzzle-vol-1.json](./163529-hot-hentai-puzzle-vol-1.json) |
 | Hot Homework Help | 269011 | [269011-hot-homework-help.json](./269011-hot-homework-help.json) |
 | Hot Honey | 163894 | [163894-hot-honey.json](./163894-hot-honey.json) |
 | Hot Job 94' | 265228 | [265228-hot-job-94.json](./265228-hot-job-94.json) |
