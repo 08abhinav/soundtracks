@@ -1207,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamashi Party | 196673 | [196673-tamashi-party.json](./196673-tamashi-party.json) |
 | Tamashi: Rise of Yokai | 196586 | [196586-tamashi-rise-of-yokai.json](./196586-tamashi-rise-of-yokai.json) |
 | Tamashii | 115152 | [115152-tamashii.json](./115152-tamashii.json) |
+| Tamashii no Mon: Dante no Shinkyoku yori | 139107 | [139107-tamashii-no-mon-dante-no-shinkyoku-yori.json](./139107-tamashii-no-mon-dante-no-shinkyoku-yori.json) |
 | Tamashika | 329975 | [329975-tamashika.json](./329975-tamashika.json) |
 | Tamatot | 206040 | [206040-tamatot.json](./206040-tamatot.json) |
 | Tamatown | 250535 | [250535-tamatown.json](./250535-tamatown.json) |
@@ -8334,6 +8335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: A Link to the Past - Hylian Legacy | 268404 | [268404-the-legend-of-zelda-a-link-to-the-past-hylian-legacy.json](./268404-the-legend-of-zelda-a-link-to-the-past-hylian-legacy.json) |
 | The Legend of Zelda: A Link to the Past - Master Quest | 218070 | [218070-the-legend-of-zelda-a-link-to-the-past-master-quest.json](./218070-the-legend-of-zelda-a-link-to-the-past-master-quest.json) |
 | The Legend of Zelda: A Link to the Past & Four Swords | 77336 | [77336-the-legend-of-zelda-a-link-to-the-past-and-four-swords.json](./77336-the-legend-of-zelda-a-link-to-the-past-and-four-swords.json) |
+| The Legend of Zelda: A Link to the Past Randomizer | 139139 | [139139-the-legend-of-zelda-a-link-to-the-past-randomizer.json](./139139-the-legend-of-zelda-a-link-to-the-past-randomizer.json) |
 | The Legend of Zelda: A Link to the Past Redux | 219073 | [219073-the-legend-of-zelda-a-link-to-the-past-redux.json](./219073-the-legend-of-zelda-a-link-to-the-past-redux.json) |
 | The Legend of Zelda: A Link to the Proto | 249317 | [249317-the-legend-of-zelda-a-link-to-the-proto.json](./249317-the-legend-of-zelda-a-link-to-the-proto.json) |
 | The Legend of Zelda: A New Light | 233602 | [233602-the-legend-of-zelda-a-new-light.json](./233602-the-legend-of-zelda-a-new-light.json) |
@@ -8508,6 +8510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Life of Frederick Sommer | 148987 | [148987-the-life-of-frederick-sommer.json](./148987-the-life-of-frederick-sommer.json) |
 | The Life of Greather | 31998 | [31998-the-life-of-greather.json](./31998-the-life-of-greather.json) |
 | The Life of Me | 314662 | [314662-the-life-of-me.json](./314662-the-life-of-me.json) |
+| The Life of Mr Pips | 139094 | [139094-the-life-of-mr-pips.json](./139094-the-life-of-mr-pips.json) |
 | The Life of Saint Fiona Bianco Xena | 191748 | [191748-the-life-of-saint-fiona-bianco-xena.json](./191748-the-life-of-saint-fiona-bianco-xena.json) |
 | The Life Stage: Virtual House | 66410 | [66410-the-life-stage-virtual-house.json](./66410-the-life-stage-virtual-house.json) |
 | The Life Threads | 225261 | [225261-the-life-threads.json](./225261-the-life-threads.json) |
@@ -10531,6 +10534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sea-Demon | 371628 | [371628-the-sea-demon.json](./371628-the-sea-demon.json) |
 | The Seal Hunter | 345555 | [345555-the-seal-hunter.json](./345555-the-seal-hunter.json) |
 | The Seal of Hades | 47536 | [47536-the-seal-of-hades.json](./47536-the-seal-of-hades.json) |
+| The Sealed Ampoule | 139138 | [139138-the-sealed-ampoule.json](./139138-the-sealed-ampoule.json) |
 | The Séance of Blake Manor | 335833 | [335833-the-seance-of-blake-manor.json](./335833-the-seance-of-blake-manor.json) |
 | The Search | 30193 | [30193-the-search.json](./30193-the-search.json) |
 | The Search For Above Average Life | 361752 | [361752-the-search-for-above-average-life.json](./361752-the-search-for-above-average-life.json) |
