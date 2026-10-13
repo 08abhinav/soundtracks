@@ -704,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kartia: The Word of Fate | 45222 | [45222-kartia-the-word-of-fate.json](./45222-kartia-the-word-of-fate.json) |
 | Karting Grand Prix Minigame | 389121 | [389121-karting-grand-prix-minigame.json](./389121-karting-grand-prix-minigame.json) |
 | Karting with Animals | 303604 | [303604-karting-with-animals.json](./303604-karting-with-animals.json) |
+| Karting4Fun | 159531 | [159531-karting4fun.json](./159531-karting4fun.json) |
 | KartKraft | 34354 | [34354-kartkraft.json](./34354-kartkraft.json) |
 | KartMania | 247365 | [247365-kartmania.json](./247365-kartmania.json) |
 | Kartofank VR | 72358 | [72358-kartofank-vr.json](./72358-kartofank-vr.json) |
@@ -4103,6 +4104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyuukyoku Mahjong II | 37680 | [37680-kyuukyoku-mahjong-ii.json](./37680-kyuukyoku-mahjong-ii.json) |
 | Kyuukyoku Sentai Dadandarn | 40219 | [40219-kyuukyoku-sentai-dadandarn.json](./40219-kyuukyoku-sentai-dadandarn.json) |
 | Kyuukyoku Tiger | 170780 | [170780-kyuukyoku-tiger.json](./170780-kyuukyoku-tiger.json) |
+| Kyuukyoku Tiger Heli: Toaplan Arcade Garage | 158967 | [158967-kyuukyoku-tiger-heli-toaplan-arcade-garage.json](./158967-kyuukyoku-tiger-heli-toaplan-arcade-garage.json) |
 | Kyuukyoku Tiger II Plus | 66146 | [66146-kyuukyoku-tiger-ii-plus.json](./66146-kyuukyoku-tiger-ii-plus.json) |
 | Kyuusei Senjutsu Niyoru Heisei Kaiun Koyomi | 268510 | [268510-kyuusei-senjutsu-niyoru-heisei-kaiun-koyomi.json](./268510-kyuusei-senjutsu-niyoru-heisei-kaiun-koyomi.json) |
 | Kyvir: Rebirth | 144996 | [144996-kyvir-rebirth.json](./144996-kyvir-rebirth.json) |
