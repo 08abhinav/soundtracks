@@ -3617,6 +3617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildsong | 287694 | [287694-wildsong.json](./287694-wildsong.json) |
 | WildStandZ | 357405 | [357405-wildstandz.json](./357405-wildstandz.json) |
 | WildTrax & Hypercar Bundle | 410842 | [410842-wildtrax-and-hypercar-bundle.json](./410842-wildtrax-and-hypercar-bundle.json) |
+| WildTrax Racing | 147761 | [147761-wildtrax-racing.json](./147761-wildtrax-racing.json) |
 | Wildwood | 279754 | [279754-wildwood.json](./279754-wildwood.json) |
 | Wildwood Down | 264519 | [264519-wildwood-down.json](./264519-wildwood-down.json) |
 | Wildwood: Graveyard Defense | 217539 | [217539-wildwood-graveyard-defense.json](./217539-wildwood-graveyard-defense.json) |
@@ -4912,6 +4913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Brawl | 329680 | [329680-word-brawl.json](./329680-word-brawl.json) |
 | Word Bridges | 397915 | [397915-word-bridges.json](./397915-word-bridges.json) |
 | Word Builder for Oliver | 92091 | [92091-word-builder-for-oliver.json](./92091-word-builder-for-oliver.json) |
+| Word Bump | 148291 | [148291-word-bump.json](./148291-word-bump.json) |
 | Word Cafe 21 | 232065 | [232065-word-cafe-21.json](./232065-word-cafe-21.json) |
 | Word Challenge | 342250 | [342250-word-challenge.json](./342250-word-challenge.json) |
 | Word Chaos | 217984 | [217984-word-chaos.json](./217984-word-chaos.json) |
