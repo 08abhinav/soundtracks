@@ -4944,6 +4944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni Hou: Hinamizawa Teiryuujo | 263934 | [263934-higurashi-no-naku-koro-ni-hou-hinamizawa-teiryuujo.json](./263934-higurashi-no-naku-koro-ni-hou-hinamizawa-teiryuujo.json) |
 | Higurashi no Naku Koro ni Hou: Kamikashimashi-hen | 263493 | [263493-higurashi-no-naku-koro-ni-hou-kamikashimashi-hen.json](./263493-higurashi-no-naku-koro-ni-hou-kamikashimashi-hen.json) |
 | Higurashi no Naku Koro ni Hou: Kamikashimashi-hen | 263932 | [263932-higurashi-no-naku-koro-ni-hou-kamikashimashi-hen.json](./263932-higurashi-no-naku-koro-ni-hou-kamikashimashi-hen.json) |
+| Higurashi no Naku Koro ni Hou: Limited Edition | 166271 | [166271-higurashi-no-naku-koro-ni-hou-limited-edition.json](./166271-higurashi-no-naku-koro-ni-hou-limited-edition.json) |
 | Higurashi no Naku Koro ni Hou: Outbreak | 263490 | [263490-higurashi-no-naku-koro-ni-hou-outbreak.json](./263490-higurashi-no-naku-koro-ni-hou-outbreak.json) |
 | Higurashi no Naku Koro ni Hou+: Mehagashi-hen | 263660 | [263660-higurashi-no-naku-koro-ni-hou-mehagashi-hen.json](./263660-higurashi-no-naku-koro-ni-hou-mehagashi-hen.json) |
 | Higurashi no Naku Koro ni Iki | 136769 | [136769-higurashi-no-naku-koro-ni-iki.json](./136769-higurashi-no-naku-koro-ni-iki.json) |
