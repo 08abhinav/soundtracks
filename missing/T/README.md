@@ -457,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tail of the Sun | 20814 | [20814-tail-of-the-sun.json](./20814-tail-of-the-sun.json) |
 | Tail Tale | 73338 | [73338-tail-tale.json](./73338-tail-tale.json) |
 | Tail to Nose | 39505 | [39505-tail-to-nose.json](./39505-tail-to-nose.json) |
+| Tail Trail | 157403 | [157403-tail-trail.json](./157403-tail-trail.json) |
 | Tail-Tale | 194300 | [194300-tail-tale.json](./194300-tail-tale.json) |
 | Tailed Demon Slayer | 174824 | [174824-tailed-demon-slayer.json](./174824-tailed-demon-slayer.json) |
 | Tailed Monsters Puzzle | 224160 | [224160-tailed-monsters-puzzle.json](./224160-tailed-monsters-puzzle.json) |
@@ -634,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take It Easy | 105531 | [105531-take-it-easy.json](./105531-take-it-easy.json) |
 | Take It Racing 2 | 287105 | [287105-take-it-racing-2.json](./287105-take-it-racing-2.json) |
 | Take It Seriously! Extreme Common Sense Challenge | 401095 | [401095-take-it-seriously-extreme-common-sense-challenge.json](./401095-take-it-seriously-extreme-common-sense-challenge.json) |
+| Take Me Home | 157410 | [157410-take-me-home.json](./157410-take-me-home.json) |
 | Take Me Home | 181890 | [181890-take-me-home.json](./181890-take-me-home.json) |
 | Take Me Home | 362292 | [362292-take-me-home.json](./362292-take-me-home.json) |
 | Take Me To The Dungeon!! | 403711 | [403711-take-me-to-the-dungeon.json](./403711-take-me-to-the-dungeon.json) |
@@ -21765,6 +21767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Against the Legion | 158509 | [158509-two-against-the-legion.json](./158509-two-against-the-legion.json) |
 | Two Atmospheric Atrocities | 331685 | [331685-two-atmospheric-atrocities.json](./331685-two-atmospheric-atrocities.json) |
 | Two Bit Hero | 157498 | [157498-two-bit-hero.json](./157498-two-bit-hero.json) |
+| Two Brain Sides | 157421 | [157421-two-brain-sides.json](./157421-two-brain-sides.json) |
 | Two Brothers | 9440 | [9440-two-brothers.json](./9440-two-brothers.json) |
 | Two Cars Stunts Edition | 219529 | [219529-two-cars-stunts-edition.json](./219529-two-cars-stunts-edition.json) |
 | Two Climbers | 266982 | [266982-two-climbers.json](./266982-two-climbers.json) |
