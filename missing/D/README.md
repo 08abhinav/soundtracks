@@ -6889,6 +6889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disturbed 2 | 28904 | [28904-disturbed-2.json](./28904-disturbed-2.json) |
 | Disturbed R.I.P. | 151080 | [151080-disturbed-r-i-p.json](./151080-disturbed-r-i-p.json) |
 | Disturbing Fears: Workplace | 412192 | [412192-disturbing-fears-workplace.json](./412192-disturbing-fears-workplace.json) |
+| Disturbing Forest: Demon's Path | 164048 | [164048-disturbing-forest-demons-path.json](./164048-disturbing-forest-demons-path.json) |
 | Ditch Whit #1: Shield Night | 202922 | [202922-ditch-whit-1-shield-night.json](./202922-ditch-whit-1-shield-night.json) |
 | DitherDream | 285020 | [285020-ditherdream.json](./285020-ditherdream.json) |
 | Dithered | 122411 | [122411-dithered.json](./122411-dithered.json) |
@@ -7866,6 +7867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Dig Down | 269768 | [269768-dont-dig-down.json](./269768-dont-dig-down.json) |
 | Don't Dig Up the Dead | 298781 | [298781-dont-dig-up-the-dead.json](./298781-dont-dig-up-the-dead.json) |
 | Don't Disturb | 32065 | [32065-dont-disturb.json](./32065-dont-disturb.json) |
+| Don't Dive Deep | 164043 | [164043-dont-dive-deep.json](./164043-dont-dive-deep.json) |
 | Don't Drink & Drive Simulator 2018 | 182794 | [182794-dont-drink-and-drive-simulator-2018.json](./182794-dont-drink-and-drive-simulator-2018.json) |
 | Don't Drink That! | 364667 | [364667-dont-drink-that.json](./364667-dont-drink-that.json) |
 | Don't Drink the Pink | 307786 | [307786-dont-drink-the-pink.json](./307786-dont-drink-the-pink.json) |
@@ -10816,6 +10818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Wars VR | 163801 | [163801-drone-wars-vr.json](./163801-drone-wars-vr.json) |
 | Drone World Tour: Flight Simulator | 322665 | [322665-drone-world-tour-flight-simulator.json](./322665-drone-world-tour-flight-simulator.json) |
 | Drone Zero Gravity | 35495 | [35495-drone-zero-gravity.json](./35495-drone-zero-gravity.json) |
+| Drone Zone | 164068 | [164068-drone-zone.json](./164068-drone-zone.json) |
 | Droned | 207738 | [207738-droned.json](./207738-droned.json) |
 | Dronelord Hyperviber | 384615 | [384615-dronelord-hyperviber.json](./384615-dronelord-hyperviber.json) |
 | Drones | 119566 | [119566-drones.json](./119566-drones.json) |
@@ -12028,6 +12031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | dUpLicity ~Beyond the Lies~ | 36104 | [36104-duplicity-beyond-the-lies.json](./36104-duplicity-beyond-the-lies.json) |
 | Duplicity Loop | 278525 | [278525-duplicity-loop.json](./278525-duplicity-loop.json) |
 | Duppy Detective Tashia | 215885 | [215885-duppy-detective-tashia.json](./215885-duppy-detective-tashia.json) |
+| Dura Vita Online | 164082 | [164082-dura-vita-online.json](./164082-dura-vita-online.json) |
 | Durak Online | 369668 | [369668-durak-online.json](./369668-durak-online.json) |
 | Duralumin Wind | 80914 | [80914-duralumin-wind.json](./80914-duralumin-wind.json) |
 | Durango: Wild Lands | 26918 | [26918-durango-wild-lands.json](./26918-durango-wild-lands.json) |
