@@ -416,11 +416,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fair Food Maker Game | 97153 | [97153-fair-food-maker-game.json](./97153-fair-food-maker-game.json) |
 | Fair Strike | 35675 | [35675-fair-strike.json](./35675-fair-strike.json) |
 | Faircroft's Antiques: Home for Christmas | 150943 | [150943-faircrofts-antiques-home-for-christmas.json](./150943-faircrofts-antiques-home-for-christmas.json) |
+| Faircroft's Antiques: Home for Christmas - Collector's Edition | 147755 | [147755-faircrofts-antiques-home-for-christmas-collectors-edition.json](./147755-faircrofts-antiques-home-for-christmas-collectors-edition.json) |
 | Faircroft's Antiques: The Forbidden Crypt | 182361 | [182361-faircrofts-antiques-the-forbidden-crypt.json](./182361-faircrofts-antiques-the-forbidden-crypt.json) |
 | Faircroft's Antiques: The Heir of Glen Kinnoch | 148993 | [148993-faircrofts-antiques-the-heir-of-glen-kinnoch.json](./148993-faircrofts-antiques-the-heir-of-glen-kinnoch.json) |
+| Faircroft's Antiques: The Heir of Glen Kinnoch - Collector's Edition | 147754 | [147754-faircrofts-antiques-the-heir-of-glen-kinnoch-collectors-edition.json](./147754-faircrofts-antiques-the-heir-of-glen-kinnoch-collectors-edition.json) |
 | Faircroft's Antiques: The Mountaineer's Legacy | 197413 | [197413-faircrofts-antiques-the-mountaineers-legacy.json](./197413-faircrofts-antiques-the-mountaineers-legacy.json) |
 | Faircroft's Antiques: The Mountaineer's Legacy - Collector's Edition | 212359 | [212359-faircrofts-antiques-the-mountaineers-legacy-collectors-edition.json](./212359-faircrofts-antiques-the-mountaineers-legacy-collectors-edition.json) |
 | Faircroft's Antiques: Treasures of Treffenburg | 170874 | [170874-faircrofts-antiques-treasures-of-treffenburg.json](./170874-faircrofts-antiques-treasures-of-treffenburg.json) |
+| Faircroft's Antiques: Treasures of Treffenburg Collector's Edition | 147753 | [147753-faircrofts-antiques-treasures-of-treffenburg-collectors-edition.json](./147753-faircrofts-antiques-treasures-of-treffenburg-collectors-edition.json) |
 | Faire Trade | 336519 | [336519-faire-trade.json](./336519-faire-trade.json) |
 | Fairealm | 340050 | [340050-fairealm.json](./340050-fairealm.json) |
 | Fairealm: Treasure Raids | 340051 | [340051-fairealm-treasure-raids.json](./340051-fairealm-treasure-raids.json) |
@@ -1697,6 +1700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Manager World | 257967 | [257967-farm-manager-world.json](./257967-farm-manager-world.json) |
 | Farm Mania 3 | 180113 | [180113-farm-mania-3.json](./180113-farm-mania-3.json) |
 | Farm Mania: Hot Vacation | 34168 | [34168-farm-mania-hot-vacation.json](./34168-farm-mania-hot-vacation.json) |
+| Farm Mechanic Simulator | 147774 | [147774-farm-mechanic-simulator.json](./147774-farm-mechanic-simulator.json) |
 | Farm Mechanic Simulator 2015 | 53056 | [53056-farm-mechanic-simulator-2015.json](./53056-farm-mechanic-simulator-2015.json) |
 | Farm Merge Valley | 307772 | [307772-farm-merge-valley.json](./307772-farm-merge-valley.json) |
 | Farm of the Unseen | 353382 | [353382-farm-of-the-unseen.json](./353382-farm-of-the-unseen.json) |
