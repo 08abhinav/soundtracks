@@ -549,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off Shore | 223164 | [223164-off-shore.json](./223164-off-shore.json) |
 | Off Shore Warrior | 69492 | [69492-off-shore-warrior.json](./69492-off-shore-warrior.json) |
 | Off Target | 379893 | [379893-off-target.json](./379893-off-target.json) |
+| Off the Chains Disc Golf | 170247 | [170247-off-the-chains-disc-golf.json](./170247-off-the-chains-disc-golf.json) |
 | Off the Clock | 184363 | [184363-off-the-clock.json](./184363-off-the-clock.json) |
 | Off the Grid | 89216 | [89216-off-the-grid.json](./89216-off-the-grid.json) |
 | Off the Rails | 223638 | [223638-off-the-rails.json](./223638-off-the-rails.json) |
@@ -2301,6 +2302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Swat | 29656 | [29656-operation-swat.json](./29656-operation-swat.json) |
 | Operation Temple | 293874 | [293874-operation-temple.json](./293874-operation-temple.json) |
 | Operation Thunderbolt | 12191 | [12191-operation-thunderbolt.json](./12191-operation-thunderbolt.json) |
+| Operation TP | 169482 | [169482-operation-tp.json](./169482-operation-tp.json) |
 | Operation Trick-Or-Treat | 333657 | [333657-operation-trick-or-treat.json](./333657-operation-trick-or-treat.json) |
 | Operation Trondheim | 370017 | [370017-operation-trondheim.json](./370017-operation-trondheim.json) |
 | Operation Trust | 257402 | [257402-operation-trust.json](./257402-operation-trust.json) |
