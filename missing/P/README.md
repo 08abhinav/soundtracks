@@ -5644,6 +5644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixels N Pistols | 246950 | [246950-pixels-n-pistols.json](./246950-pixels-n-pistols.json) |
 | Pixels Out of Space | 186253 | [186253-pixels-out-of-space.json](./186253-pixels-out-of-space.json) |
 | Pixels With Comics | 260247 | [260247-pixels-with-comics.json](./260247-pixels-with-comics.json) |
+| Pixels: Digital Creatures | 166831 | [166831-pixels-digital-creatures.json](./166831-pixels-digital-creatures.json) |
 | Pixelscape: Oceans | 32200 | [32200-pixelscape-oceans.json](./32200-pixelscape-oceans.json) |
 | PixelShips Retro | 71145 | [71145-pixelships-retro.json](./71145-pixelships-retro.json) |
 | PixelSlime | 223613 | [223613-pixelslime.json](./223613-pixelslime.json) |
@@ -10719,6 +10720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protostar Drift | 103679 | [103679-protostar-drift.json](./103679-protostar-drift.json) |
 | Protostar Twilight | 294716 | [294716-protostar-twilight.json](./294716-protostar-twilight.json) |
 | Protostar: War on the Frontier | 73495 | [73495-protostar-war-on-the-frontier.json](./73495-protostar-war-on-the-frontier.json) |
+| ProtoStone | 166819 | [166819-protostone.json](./166819-protostone.json) |
 | Protöthea | 21821 | [21821-protothea.json](./21821-protothea.json) |
 | Prototype | 119662 | [119662-prototype.json](./119662-prototype.json) |
 | Prototype | 220684 | [220684-prototype.json](./220684-prototype.json) |
