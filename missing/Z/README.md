@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z-Warp | 192278 | [192278-z-warp.json](./192278-z-warp.json) |
 | Z-Xtricator | 153505 | [153505-z-xtricator.json](./153505-z-xtricator.json) |
 | Z: Escape | 99647 | [99647-z-escape.json](./99647-z-escape.json) |
+| Z: Escape - Aftermath | 171322 | [171322-z-escape-aftermath.json](./171322-z-escape-aftermath.json) |
 | Z: Steel Soldiers | 3276 | [3276-z-steel-soldiers.json](./3276-z-steel-soldiers.json) |
 | Z: The End | 36400 | [36400-z-the-end.json](./36400-z-the-end.json) |
 | Z.A.T.O.: I Love the World and Everything In It | 376847 | [376847-z-a-t-o-i-love-the-world-and-everything-in-it.json](./376847-z-a-t-o-i-love-the-world-and-everything-in-it.json) |
@@ -975,6 +976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Estate | 66378 | [66378-zombie-estate.json](./66378-zombie-estate.json) |
 | Zombie Exodus: Safe Haven - Part Four | 388743 | [388743-zombie-exodus-safe-haven-part-four.json](./388743-zombie-exodus-safe-haven-part-four.json) |
 | Zombie Exodus: Safe Haven - Part Three | 192242 | [192242-zombie-exodus-safe-haven-part-three.json](./192242-zombie-exodus-safe-haven-part-three.json) |
+| Zombie Exodus: Safe Haven - Part Two | 171336 | [171336-zombie-exodus-safe-haven-part-two.json](./171336-zombie-exodus-safe-haven-part-two.json) |
 | Zombie Exodus: Safe Haven - Side Stories 2 | 291208 | [291208-zombie-exodus-safe-haven-side-stories-2.json](./291208-zombie-exodus-safe-haven-side-stories-2.json) |
 | Zombie Farm | 267549 | [267549-zombie-farm.json](./267549-zombie-farm.json) |
 | Zombie Fish Tank | 343999 | [343999-zombie-fish-tank.json](./343999-zombie-fish-tank.json) |
