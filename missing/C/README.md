@@ -6591,6 +6591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb Challenge: Castle | 213019 | [213019-climb-challenge-castle.json](./213019-climb-challenge-castle.json) |
 | Climb Challenge: Find Items Cyberpunk | 284823 | [284823-climb-challenge-find-items-cyberpunk.json](./284823-climb-challenge-find-items-cyberpunk.json) |
 | Climb Driver | 393058 | [393058-climb-driver.json](./393058-climb-driver.json) |
+| Climb Fall Human Guys | 149363 | [149363-climb-fall-human-guys.json](./149363-climb-fall-human-guys.json) |
 | Climb Fling | 239636 | [239636-climb-fling.json](./239636-climb-fling.json) |
 | Climb It | 273910 | [273910-climb-it.json](./273910-climb-it.json) |
 | Climb Jump | 175746 | [175746-climb-jump.json](./175746-climb-jump.json) |
@@ -13002,6 +13003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Hentai Waifu: Numbers | 255279 | [255279-cute-hentai-waifu-numbers.json](./255279-cute-hentai-waifu-numbers.json) |
 | Cute Heroes | 343802 | [343802-cute-heroes.json](./343802-cute-heroes.json) |
 | Cute Honey 2 | 156985 | [156985-cute-honey-2.json](./156985-cute-honey-2.json) |
+| Cute Honey 3 | 149389 | [149389-cute-honey-3.json](./149389-cute-honey-3.json) |
 | Cute Honey: Bunny Girl | 189975 | [189975-cute-honey-bunny-girl.json](./189975-cute-honey-bunny-girl.json) |
 | Cute Honey: Special Edition | 236017 | [236017-cute-honey-special-edition.json](./236017-cute-honey-special-edition.json) |
 | Cute Hoop Master | 212446 | [212446-cute-hoop-master.json](./212446-cute-hoop-master.json) |
