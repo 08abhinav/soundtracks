@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint by Words | 374600 | [374600-paint-by-words.json](./374600-paint-by-words.json) |
 | Paint Car Derby | 180028 | [180028-paint-car-derby.json](./180028-paint-car-derby.json) |
 | Paint Chase | 317578 | [317578-paint-chase.json](./317578-paint-chase.json) |
+| Paint Chips | 154781 | [154781-paint-chips.json](./154781-paint-chips.json) |
 | Paint Desk Simulator | 265135 | [265135-paint-desk-simulator.json](./265135-paint-desk-simulator.json) |
 | Paint Fruit Crush | 240854 | [240854-paint-fruit-crush.json](./240854-paint-fruit-crush.json) |
 | Paint Gal Adventures | 388227 | [388227-paint-gal-adventures.json](./388227-paint-gal-adventures.json) |
@@ -2536,6 +2537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peggle Extreme | 15646 | [15646-peggle-extreme.json](./15646-peggle-extreme.json) |
 | Peggle Nights | 14813 | [14813-peggle-nights.json](./14813-peggle-nights.json) |
 | Pegglo | 302689 | [302689-pegglo.json](./302689-pegglo.json) |
+| Peggo! | 154819 | [154819-peggo.json](./154819-peggo.json) |
 | Peggy's Farm | 274048 | [274048-peggys-farm.json](./274048-peggys-farm.json) |
 | Peggy's Post | 365093 | [365093-peggys-post.json](./365093-peggys-post.json) |
 | Peglin | 133512 | [133512-peglin.json](./133512-peglin.json) |
@@ -3261,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pets at Work | 190153 | [190153-pets-at-work.json](./190153-pets-at-work.json) |
 | Pets Crossing | 247028 | [247028-pets-crossing.json](./247028-pets-crossing.json) |
 | Pets in Action Bundle | 212787 | [212787-pets-in-action-bundle.json](./212787-pets-in-action-bundle.json) |
+| Pets No More | 154818 | [154818-pets-no-more.json](./154818-pets-no-more.json) |
 | Pets Survivors | 411145 | [411145-pets-survivors.json](./411145-pets-survivors.json) |
 | PETSCII Bros | 290652 | [290652-petscii-bros.json](./290652-petscii-bros.json) |
 | PETSCII Raiders | 290655 | [290655-petscii-raiders.json](./290655-petscii-raiders.json) |
@@ -3325,6 +3328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PewDiePie's Tuber Simulator | 23867 | [23867-pewdiepies-tuber-simulator.json](./23867-pewdiepies-tuber-simulator.json) |
 | Pewduckpie 2 - An Unexpected Journey | 101988 | [101988-pewduckpie-2-an-unexpected-journey.json](./101988-pewduckpie-2-an-unexpected-journey.json) |
 | PewDuckPie: On the Run | 159178 | [159178-pewduckpie-on-the-run.json](./159178-pewduckpie-on-the-run.json) |
+| PewPew | 154837 | [154837-pewpew.json](./154837-pewpew.json) |
 | PewPew 2 | 140606 | [140606-pewpew-2.json](./140606-pewpew-2.json) |
 | PewPew! | 171373 | [171373-pewpew.json](./171373-pewpew.json) |
 | PewPewSide | 101758 | [101758-pewpewside.json](./101758-pewpewside.json) |
@@ -3359,6 +3363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA Tour Pro: Classic Courses Volume 1 | 209980 | [209980-pga-tour-pro-classic-courses-volume-1.json](./209980-pga-tour-pro-classic-courses-volume-1.json) |
 | Ph0b0s | 207521 | [207521-ph0b0s.json](./207521-ph0b0s.json) |
 | Phá Kén: Khúc Điêu Linh | 318783 | [318783-pha-ken-khuc-ieu-linh.json](./318783-pha-ken-khuc-ieu-linh.json) |
+| Phage Wars | 154817 | [154817-phage-wars.json](./154817-phage-wars.json) |
 | Phageplay Basic | 409707 | [409707-phageplay-basic.json](./409707-phageplay-basic.json) |
 | PhaigeX: Hyperspace Survivors | 242602 | [242602-phaigex-hyperspace-survivors.json](./242602-phaigex-hyperspace-survivors.json) |
 | Phalanstery | 74286 | [74286-phalanstery.json](./74286-phalanstery.json) |
@@ -3657,6 +3662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Point: Year One Edition - Festering Skies | 159694 | [159694-phoenix-point-year-one-edition-festering-skies.json](./159694-phoenix-point-year-one-edition-festering-skies.json) |
 | Phoenix R/C Pro Simulator v5.5 | 125934 | [125934-phoenix-r-c-pro-simulator-v5-5.json](./125934-phoenix-r-c-pro-simulator-v5-5.json) |
 | Phoenix Reborn Games Big Christmas bundle | 331484 | [331484-phoenix-reborn-games-big-christmas-bundle.json](./331484-phoenix-reborn-games-big-christmas-bundle.json) |
+| Phoenix Rising | 154796 | [154796-phoenix-rising.json](./154796-phoenix-rising.json) |
 | Phoenix Springs | 223363 | [223363-phoenix-springs.json](./223363-phoenix-springs.json) |
 | Phoenix Strike | 129743 | [129743-phoenix-strike.json](./129743-phoenix-strike.json) |
 | Phoenix Sword: The Hidden Scroll | 355195 | [355195-phoenix-sword-the-hidden-scroll.json](./355195-phoenix-sword-the-hidden-scroll.json) |
@@ -4963,6 +4969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Mosaic Puzzle: Caribbean Treasures | 97144 | [97144-pirate-mosaic-puzzle-caribbean-treasures.json](./97144-pirate-mosaic-puzzle-caribbean-treasures.json) |
 | Pirate of Madagascar Island | 158600 | [158600-pirate-of-madagascar-island.json](./158600-pirate-of-madagascar-island.json) |
 | Pirate Parakeet | 346777 | [346777-pirate-parakeet.json](./346777-pirate-parakeet.json) |
+| Pirate Pete | 154810 | [154810-pirate-pete.json](./154810-pirate-pete.json) |
 | Pirate Plight | 245911 | [245911-pirate-plight.json](./245911-pirate-plight.json) |
 | Pirate Pop Mega Quiz | 232499 | [232499-pirate-pop-mega-quiz.json](./232499-pirate-pop-mega-quiz.json) |
 | Pirate Popper VR | 153486 | [153486-pirate-popper-vr.json](./153486-pirate-popper-vr.json) |
