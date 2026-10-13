@@ -8594,6 +8594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniTracks | 108646 | [108646-minitracks.json](./108646-minitracks.json) |
 | MiniTrans | 202664 | [202664-minitrans.json](./202664-minitrans.json) |
 | Minitroid | 228960 | [228960-minitroid.json](./228960-minitroid.json) |
+| MiniTurn | 133127 | [133127-miniturn.json](./133127-miniturn.json) |
 | Miniverse | 179059 | [179059-miniverse.json](./179059-miniverse.json) |
 | Miniverse Minigolf | 93383 | [93383-miniverse-minigolf.json](./93383-miniverse-minigolf.json) |
 | MiniWood VR | 118159 | [118159-miniwood-vr.json](./118159-miniwood-vr.json) |
@@ -12721,6 +12722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murkon's Vengeance | 65491 | [65491-murkons-vengeance.json](./65491-murkons-vengeance.json) |
 | Murky Divers | 303304 | [303304-murky-divers.json](./303304-murky-divers.json) |
 | Murky Horizon | 66622 | [66622-murky-horizon.json](./66622-murky-horizon.json) |
+| Murky Waters | 133156 | [133156-murky-waters.json](./133156-murky-waters.json) |
 | Murmeln und mehr ... | 86061 | [86061-murmeln-und-mehr.json](./86061-murmeln-und-mehr.json) |
 | MurMur | 239333 | [239333-murmur.json](./239333-murmur.json) |
 | Murmuring of Moth Mouth | 417596 | [417596-murmuring-of-moth-mouth.json](./417596-murmuring-of-moth-mouth.json) |
@@ -14255,6 +14257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Tales: The Twilight World | 140239 | [140239-mystery-tales-the-twilight-world.json](./140239-mystery-tales-the-twilight-world.json) |
 | Mystery Tales: The Twilight World - Collector's Edition | 74994 | [74994-mystery-tales-the-twilight-world-collectors-edition.json](./74994-mystery-tales-the-twilight-world-collectors-edition.json) |
 | Mystery Tales: Til Death | 140240 | [140240-mystery-tales-til-death.json](./140240-mystery-tales-til-death.json) |
+| Mystery Tales: Til Death - Collector's Edition | 133142 | [133142-mystery-tales-til-death-collectors-edition.json](./133142-mystery-tales-til-death-collectors-edition.json) |
 | Mystery Tapes | 79536 | [79536-mystery-tapes.json](./79536-mystery-tapes.json) |
 | Mystery Tiles Premium | 100958 | [100958-mystery-tiles-premium.json](./100958-mystery-tiles-premium.json) |
 | Mystery Tower | 48589 | [48589-mystery-tower.json](./48589-mystery-tower.json) |
