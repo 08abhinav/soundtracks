@@ -547,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Burger | 295134 | [295134-galaxy-burger.json](./295134-galaxy-burger.json) |
 | Galaxy Cannon Rider | 33051 | [33051-galaxy-cannon-rider.json](./33051-galaxy-cannon-rider.json) |
 | Galaxy Cocoa | 363573 | [363573-galaxy-cocoa.json](./363573-galaxy-cocoa.json) |
+| Galaxy Crisis | 150450 | [150450-galaxy-crisis.json](./150450-galaxy-crisis.json) |
 | Galaxy Defenders: Classic TD | 359068 | [359068-galaxy-defenders-classic-td.json](./359068-galaxy-defenders-classic-td.json) |
 | Galaxy Defense | 188347 | [188347-galaxy-defense.json](./188347-galaxy-defense.json) |
 | Galaxy Defense War | 372018 | [372018-galaxy-defense-war.json](./372018-galaxy-defense-war.json) |
@@ -3822,6 +3823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoD Factory: Wingmen | 12514 | [12514-god-factory-wingmen.json](./12514-god-factory-wingmen.json) |
 | God Fishing | 358872 | [358872-god-fishing.json](./358872-god-fishing.json) |
 | God For A Day | 277267 | [277267-god-for-a-day.json](./277267-god-for-a-day.json) |
+| God Game | 150432 | [150432-god-game.json](./150432-god-game.json) |
 | God Girl | 250927 | [250927-god-girl.json](./250927-god-girl.json) |
 | God Give Me One More Chance | 400282 | [400282-god-give-me-one-more-chance.json](./400282-god-give-me-one-more-chance.json) |
 | God Hates Charades | 60899 | [60899-god-hates-charades.json](./60899-god-hates-charades.json) |
@@ -6719,6 +6721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guillermo Tell | 146307 | [146307-guillermo-tell.json](./146307-guillermo-tell.json) |
 | Guilt | 341099 | [341099-guilt.json](./341099-guilt.json) |
 | Guilt | 345521 | [345521-guilt.json](./345521-guilt.json) |
+| Guilt Free | 150445 | [150445-guilt-free.json](./150445-guilt-free.json) |
 | Guilty | 215389 | [215389-guilty.json](./215389-guilty.json) |
 | Guilty | 7839 | [7839-guilty.json](./7839-guilty.json) |
 | Guilty as Charged! | 394468 | [394468-guilty-as-charged.json](./394468-guilty-as-charged.json) |
