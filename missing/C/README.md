@@ -1721,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carmen Sandiego Adventures in Math: The Big Ben Burglary | 51078 | [51078-carmen-sandiego-adventures-in-math-the-big-ben-burglary.json](./51078-carmen-sandiego-adventures-in-math-the-big-ben-burglary.json) |
 | Carmen Sandiego Adventures in Math: The Great Gateway Grab | 51080 | [51080-carmen-sandiego-adventures-in-math-the-great-gateway-grab.json](./51080-carmen-sandiego-adventures-in-math-the-great-gateway-grab.json) |
 | Carmen Sandiego Adventures in Math: The Island of Diamonds | 85554 | [85554-carmen-sandiego-adventures-in-math-the-island-of-diamonds.json](./85554-carmen-sandiego-adventures-in-math-the-island-of-diamonds.json) |
+| Carmen Sandiego Math Detective | 139721 | [139721-carmen-sandiego-math-detective.json](./139721-carmen-sandiego-math-detective.json) |
 | Carmen Sandiego Word Detective | 73312 | [73312-carmen-sandiego-word-detective.json](./73312-carmen-sandiego-word-detective.json) |
 | Carmen Sandiego: 40th Anniversary Edition | 400999 | [400999-carmen-sandiego-40th-anniversary-edition.json](./400999-carmen-sandiego-40th-anniversary-edition.json) |
 | Carmen Sandiego: Deluxe Edition | 330197 | [330197-carmen-sandiego-deluxe-edition.json](./330197-carmen-sandiego-deluxe-edition.json) |
@@ -4822,6 +4823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chipichapas Evolution: Clicker | 288147 | [288147-chipichapas-evolution-clicker.json](./288147-chipichapas-evolution-clicker.json) |
 | Chipmatic | 355037 | [355037-chipmatic.json](./355037-chipmatic.json) |
 | Chipmonk! | 114947 | [114947-chipmonk.json](./114947-chipmonk.json) |
+| Chipmunk's Adventures | 139712 | [139712-chipmunks-adventures.json](./139712-chipmunks-adventures.json) |
 | Chipper & Sons Lumber Co. | 59984 | [59984-chipper-and-sons-lumber-co.json](./59984-chipper-and-sons-lumber-co.json) |
 | Chippy | 117217 | [117217-chippy.json](./117217-chippy.json) |
 | Chippy & Noppo | 240228 | [240228-chippy-and-noppo.json](./240228-chippy-and-noppo.json) |
@@ -9895,6 +9897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Costly Adventure | 247735 | [247735-costly-adventure.json](./247735-costly-adventure.json) |
 | Costrutto | 191266 | [191266-costrutto.json](./191266-costrutto.json) |
 | Costume Curse | 326218 | [326218-costume-curse.json](./326218-costume-curse.json) |
+| Costume Kingdom | 139696 | [139696-costume-kingdom.json](./139696-costume-kingdom.json) |
 | Costume Party | 189968 | [189968-costume-party.json](./189968-costume-party.json) |
 | Costume Quest | 5637 | [5637-costume-quest.json](./5637-costume-quest.json) |
 | Cosy Cafe | 383648 | [383648-cosy-cafe.json](./383648-cosy-cafe.json) |
@@ -12459,6 +12462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubey Quarry | 339352 | [339352-cubey-quarry.json](./339352-cubey-quarry.json) |
 | Cubey vs. the Universe | 244370 | [244370-cubey-vs-the-universe.json](./244370-cubey-vs-the-universe.json) |
 | CUBG: Car unknown battlegrounds | 120994 | [120994-cubg-car-unknown-battlegrounds.json](./120994-cubg-car-unknown-battlegrounds.json) |
+| Cubia | 139711 | [139711-cubia.json](./139711-cubia.json) |
 | Cubians VR | 29919 | [29919-cubians-vr.json](./29919-cubians-vr.json) |
 | Cubic | 68581 | [68581-cubic.json](./68581-cubic.json) |
 | Cubic 2 3 4 Player Games | 331902 | [331902-cubic-2-3-4-player-games.json](./331902-cubic-2-3-4-player-games.json) |
