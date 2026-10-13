@@ -773,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad Tycoon II: The Second Century | 71480 | [71480-railroad-tycoon-ii-the-second-century.json](./71480-railroad-tycoon-ii-the-second-century.json) |
 | Railroad X | 16663 | [16663-railroad-x.json](./16663-railroad-x.json) |
 | Railroad X: Berlin S-Bahn BR 481 | 161724 | [161724-railroad-x-berlin-s-bahn-br-481.json](./161724-railroad-x-berlin-s-bahn-br-481.json) |
+| Railroad X: Car-set Porsche and Mercedes | 170430 | [170430-railroad-x-car-set-porsche-and-mercedes.json](./170430-railroad-x-car-set-porsche-and-mercedes.json) |
 | Railroad X: Trans Europ Express VT 11.5 | 171026 | [171026-railroad-x-trans-europ-express-vt-11-5.json](./171026-railroad-x-trans-europ-express-vt-11-5.json) |
 | Railroader | 197113 | [197113-railroader.json](./197113-railroader.json) |
 | Railroads of America | 197733 | [197733-railroads-of-america.json](./197733-railroads-of-america.json) |
