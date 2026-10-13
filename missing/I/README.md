@@ -1079,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Pizza Empire | 235299 | [235299-idle-pizza-empire.json](./235299-idle-pizza-empire.json) |
 | Idle Planet Miner | 361818 | [361818-idle-planet-miner.json](./361818-idle-planet-miner.json) |
 | Idle Plant Game | 277782 | [277782-idle-plant-game.json](./277782-idle-plant-game.json) |
+| Idle Poker | 166816 | [166816-idle-poker.json](./166816-idle-poker.json) |
 | Idle Police Tycoon | 169900 | [169900-idle-police-tycoon.json](./169900-idle-police-tycoon.json) |
 | Idle Portal Guardian | 118372 | [118372-idle-portal-guardian.json](./118372-idle-portal-guardian.json) |
 | Idle Quest Giver | 247210 | [247210-idle-quest-giver.json](./247210-idle-quest-giver.json) |
