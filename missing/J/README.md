@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jamie's Mod | 221669 | [221669-jamies-mod.json](./221669-jamies-mod.json) |
 | JamLegend | 93992 | [93992-jamlegend.json](./93992-jamlegend.json) |
 | Jammer | 67972 | [67972-jammer.json](./67972-jammer.json) |
+| Jammery | 177450 | [177450-jammery.json](./177450-jammery.json) |
 | Jammin' | 126016 | [126016-jammin.json](./126016-jammin.json) |
 | Jammin' With Mario | 283911 | [283911-jammin-with-mario.json](./283911-jammin-with-mario.json) |
 | Jammo | 192743 | [192743-jammo.json](./192743-jammo.json) |
@@ -520,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JASBIAC | 302619 | [302619-jasbiac.json](./302619-jasbiac.json) |
 | JASEM: Just Another Shooter with Electronic Music | 29109 | [29109-jasem-just-another-shooter-with-electronic-music.json](./29109-jasem-just-another-shooter-with-electronic-music.json) |
 | Jash | 187443 | [187443-jash.json](./187443-jash.json) |
+| Jashinchan: 7th Devil | 178330 | [178330-jashinchan-7th-devil.json](./178330-jashinchan-7th-devil.json) |
 | Jasmine | 321735 | [321735-jasmine.json](./321735-jasmine.json) |
 | Jasmine Summer | 113761 | [113761-jasmine-summer.json](./113761-jasmine-summer.json) |
 | Jason and Medea | 364632 | [364632-jason-and-medea.json](./364632-jason-and-medea.json) |
