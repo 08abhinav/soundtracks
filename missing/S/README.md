@@ -2669,6 +2669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Tranquility | 347655 | [347655-sea-of-tranquility.json](./347655-sea-of-tranquility.json) |
 | Sea of Treasures | 261152 | [261152-sea-of-treasures.json](./261152-sea-of-treasures.json) |
 | Sea of World | 292537 | [292537-sea-of-world.json](./292537-sea-of-world.json) |
+| Sea Park Tycoon | 152029 | [152029-sea-park-tycoon.json](./152029-sea-park-tycoon.json) |
 | Sea Plumber 2 | 205029 | [205029-sea-plumber-2.json](./205029-sea-plumber-2.json) |
 | Sea Power: Naval Combat in the Missile Age | 217518 | [217518-sea-power-naval-combat-in-the-missile-age.json](./217518-sea-power-naval-combat-in-the-missile-age.json) |
 | Sea Ranger | 245411 | [245411-sea-ranger.json](./245411-sea-ranger.json) |
@@ -8870,6 +8871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimegeon | 254145 | [254145-slimegeon.json](./254145-slimegeon.json) |
 | SlimeJumper: Ultimate Jump | 156639 | [156639-slimejumper-ultimate-jump.json](./156639-slimejumper-ultimate-jump.json) |
 | Slimekeep | 157387 | [157387-slimekeep.json](./157387-slimekeep.json) |
+| SlimeLabs | 152083 | [152083-slimelabs.json](./152083-slimelabs.json) |
 | Slimelon | 300786 | [300786-slimelon.json](./300786-slimelon.json) |
 | Slimepatch | 392904 | [392904-slimepatch.json](./392904-slimepatch.json) |
 | Slimepocalypse | 340362 | [340362-slimepocalypse.json](./340362-slimepocalypse.json) |
@@ -13848,6 +13850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbound! | 318021 | [318021-spellbound.json](./318021-spellbound.json) |
 | Spellbreak: Chapter 3 - The Wardens | 182495 | [182495-spellbreak-chapter-3-the-wardens.json](./182495-spellbreak-chapter-3-the-wardens.json) |
 | Spellbrew Express | 296361 | [296361-spellbrew-express.json](./296361-spellbrew-express.json) |
+| Spellbroken | 152012 | [152012-spellbroken.json](./152012-spellbroken.json) |
 | SpellCarved | 397268 | [397268-spellcarved.json](./397268-spellcarved.json) |
 | Spellcast | 361626 | [361626-spellcast.json](./361626-spellcast.json) |
 | SpellCast | 254447 | [254447-spellcast.json](./254447-spellcast.json) |
@@ -20319,6 +20322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Froppings | 418700 | [418700-super-froppings.json](./418700-super-froppings.json) |
 | Super Fruit Ninja | 287353 | [287353-super-fruit-ninja.json](./287353-super-fruit-ninja.json) |
 | Super Fun Soccer | 182167 | [182167-super-fun-soccer.json](./182167-super-fun-soccer.json) |
+| Super Funky Ball! | 152044 | [152044-super-funky-ball.json](./152044-super-funky-ball.json) |
 | Super Furi Puzzles | 334833 | [334833-super-furi-puzzles.json](./334833-super-furi-puzzles.json) |
 | Super Gahaku | 417571 | [417571-super-gahaku.json](./417571-super-gahaku.json) |
 | Super Galaxy Ball | 219579 | [219579-super-galaxy-ball.json](./219579-super-galaxy-ball.json) |
