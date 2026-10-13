@@ -2086,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Bounty: The Legend | 5039 | [5039-kings-bounty-the-legend.json](./5039-kings-bounty-the-legend.json) |
 | King's Bounty: Ultimate Edition | 53258 | [53258-kings-bounty-ultimate-edition.json](./53258-kings-bounty-ultimate-edition.json) |
 | King's Choice | 186308 | [186308-kings-choice.json](./186308-kings-choice.json) |
+| King's Cup | 143441 | [143441-kings-cup.json](./143441-kings-cup.json) |
 | King's Devotion | 381146 | [381146-kings-devotion.json](./381146-kings-devotion.json) |
 | King's Dungeon | 228691 | [228691-kings-dungeon.json](./228691-kings-dungeon.json) |
 | King's Empire | 344002 | [344002-kings-empire.json](./344002-kings-empire.json) |
@@ -3014,6 +3015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights in the Nightmare | 20690 | [20690-knights-in-the-nightmare.json](./20690-knights-in-the-nightmare.json) |
 | Knights in the Nightmare Remaster | 222421 | [222421-knights-in-the-nightmare-remaster.json](./222421-knights-in-the-nightmare-remaster.json) |
 | Knights in Tight Spaces | 292879 | [292879-knights-in-tight-spaces.json](./292879-knights-in-tight-spaces.json) |
+| Knights of Ages | 143430 | [143430-knights-of-ages.json](./143430-knights-of-ages.json) |
 | Knights of Braveland: Around the World Pack | 255963 | [255963-knights-of-braveland-around-the-world-pack.json](./255963-knights-of-braveland-around-the-world-pack.json) |
 | Knights of Braveland: Fun And Memes | 284505 | [284505-knights-of-braveland-fun-and-memes.json](./284505-knights-of-braveland-fun-and-memes.json) |
 | Knights of Braveland: Hero Pack | 284506 | [284506-knights-of-braveland-hero-pack.json](./284506-knights-of-braveland-hero-pack.json) |
