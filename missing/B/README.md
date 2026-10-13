@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back 4 Blood: Annual Pass | 293917 | [293917-back-4-blood-annual-pass.json](./293917-back-4-blood-annual-pass.json) |
 | Back 4 Blood: Children of the Worm | 215136 | [215136-back-4-blood-children-of-the-worm.json](./215136-back-4-blood-children-of-the-worm.json) |
 | Back 4 Blood: Day One Steelbook Edition | 252174 | [252174-back-4-blood-day-one-steelbook-edition.json](./252174-back-4-blood-day-one-steelbook-edition.json) |
+| Back 4 Blood: Deluxe Edition | 142816 | [142816-back-4-blood-deluxe-edition.json](./142816-back-4-blood-deluxe-edition.json) |
 | Back 4 Blood: Fort Hope Elite Weapon Skins | 323952 | [323952-back-4-blood-fort-hope-elite-weapon-skins.json](./323952-back-4-blood-fort-hope-elite-weapon-skins.json) |
 | Back 4 Blood: Special Edition | 323953 | [323953-back-4-blood-special-edition.json](./323953-back-4-blood-special-edition.json) |
 | Back 4 Blood: Tunnels of Terror | 197488 | [197488-back-4-blood-tunnels-of-terror.json](./197488-back-4-blood-tunnels-of-terror.json) |
@@ -1470,6 +1471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bao Bao's Cozy Laundromat | 316705 | [316705-bao-baos-cozy-laundromat.json](./316705-bao-baos-cozy-laundromat.json) |
 | Bāo Qīngtiān | 84440 | [84440-bao-qingtian.json](./84440-bao-qingtian.json) |
 | Baobabs Mausoleum Ep. 2 1313 Barnabas Dead End Drive | 81164 | [81164-baobabs-mausoleum-ep-2-1313-barnabas-dead-end-drive.json](./81164-baobabs-mausoleum-ep-2-1313-barnabas-dead-end-drive.json) |
+| Baobabs Mausoleum: Grindhouse Edition | 142820 | [142820-baobabs-mausoleum-grindhouse-edition.json](./142820-baobabs-mausoleum-grindhouse-edition.json) |
 | Baoxiao Chuji | 306642 | [306642-baoxiao-chuji.json](./306642-baoxiao-chuji.json) |
 | Baoxiao Duobiqiu | 97353 | [97353-baoxiao-duobiqiu.json](./97353-baoxiao-duobiqiu.json) |
 | Bàoxiào Sānguó | 92605 | [92605-baoxiao-sanguo.json](./92605-baoxiao-sanguo.json) |
@@ -2541,6 +2543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Brains | 129646 | [129646-battle-of-brains.json](./129646-battle-of-brains.json) |
 | Battle of Britain | 82058 | [82058-battle-of-britain.json](./82058-battle-of-britain.json) |
 | Battle of Britain, Norway and Atlantic | 226244 | [226244-battle-of-britain-norway-and-atlantic.json](./226244-battle-of-britain-norway-and-atlantic.json) |
+| Battle of Castles | 142760 | [142760-battle-of-castles.json](./142760-battle-of-castles.json) |
 | Battle of Cubes | 90173 | [90173-battle-of-cubes.json](./90173-battle-of-cubes.json) |
 | Battle of Decay: Survival | 217015 | [217015-battle-of-decay-survival.json](./217015-battle-of-decay-survival.json) |
 | Battle of Destiny | 78601 | [78601-battle-of-destiny.json](./78601-battle-of-destiny.json) |
@@ -6826,6 +6829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Dodge Challenge | 121584 | [121584-block-dodge-challenge.json](./121584-block-dodge-challenge.json) |
 | Block Drop | 396758 | [396758-block-drop.json](./396758-block-drop.json) |
 | Block Droppin Blitz | 362335 | [362335-block-droppin-blitz.json](./362335-block-droppin-blitz.json) |
+| Block Dude | 142772 | [142772-block-dude.json](./142772-block-dude.json) |
 | Block Dude Deluxe | 338247 | [338247-block-dude-deluxe.json](./338247-block-dude-deluxe.json) |
 | Block Dungeon | 151305 | [151305-block-dungeon.json](./151305-block-dungeon.json) |
 | Block Factory | 79670 | [79670-block-factory.json](./79670-block-factory.json) |
@@ -7276,7 +7280,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodborne: Game of the Year Edition | 42931 | [42931-bloodborne-game-of-the-year-edition.json](./42931-bloodborne-game-of-the-year-edition.json) |
 | Bloodborne: Limited Hunter Edition | 166180 | [166180-bloodborne-limited-hunter-edition.json](./166180-bloodborne-limited-hunter-edition.json) |
 | Bloodborne: Nightmare Edition | 44651 | [44651-bloodborne-nightmare-edition.json](./44651-bloodborne-nightmare-edition.json) |
-| Bloodborne: The Old Hunters | 14647 | [14647-bloodborne-the-old-hunters.json](./14647-bloodborne-the-old-hunters.json) |
 | BloodBound Knights | 344873 | [344873-bloodbound-knights.json](./344873-bloodbound-knights.json) |
 | Bloodbreaker: Labyrinth of the Witch | 361834 | [361834-bloodbreaker-labyrinth-of-the-witch.json](./361834-bloodbreaker-labyrinth-of-the-witch.json) |
 | BloodDome Classic | 254140 | [254140-blooddome-classic.json](./254140-blooddome-classic.json) |
@@ -7396,6 +7399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Mary's Mansion | 90225 | [90225-bloody-marys-mansion.json](./90225-bloody-marys-mansion.json) |
 | Bloody Merc | 152814 | [152814-bloody-merc.json](./152814-bloody-merc.json) |
 | Bloody Nightshift | 176743 | [176743-bloody-nightshift.json](./176743-bloody-nightshift.json) |
+| Bloody Pulp Fiction | 142685 | [142685-bloody-pulp-fiction.json](./142685-bloody-pulp-fiction.json) |
 | Bloody Ragdoll : Fort Escape | 87857 | [87857-bloody-ragdoll-fort-escape.json](./87857-bloody-ragdoll-fort-escape.json) |
 | Bloody Raid | 148878 | [148878-bloody-raid.json](./148878-bloody-raid.json) |
 | Bloody Rally Show | 139211 | [139211-bloody-rally-show.json](./139211-bloody-rally-show.json) |
@@ -8909,6 +8913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulderdash | 47237 | [47237-boulderdash.json](./47237-boulderdash.json) |
 | Bouldering Robot 3D | 192272 | [192272-bouldering-robot-3d.json](./192272-bouldering-robot-3d.json) |
 | Boulders and Bombs | 23965 | [23965-boulders-and-bombs.json](./23965-boulders-and-bombs.json) |
+| Boulders: Puzzle | 142216 | [142216-boulders-puzzle.json](./142216-boulders-puzzle.json) |
 | Boule & Bill: Holiday time! | 67961 | [67961-boule-and-bill-holiday-time.json](./67961-boule-and-bill-holiday-time.json) |
 | Boule Petanque | 249113 | [249113-boule-petanque.json](./249113-boule-petanque.json) |
 | BouleMan | 349508 | [349508-bouleman.json](./349508-bouleman.json) |
