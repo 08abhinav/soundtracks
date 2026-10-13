@@ -2910,6 +2910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl in Darkness | 394126 | [394126-girl-in-darkness.json](./394126-girl-in-darkness.json) |
 | Girl in the B.L | 303787 | [303787-girl-in-the-b-l.json](./303787-girl-in-the-b-l.json) |
 | Girl Jack | 67380 | [67380-girl-jack.json](./67380-girl-jack.json) |
+| Girl Jigsaw | 149385 | [149385-girl-jigsaw.json](./149385-girl-jigsaw.json) |
 | Girl Jigsaw 2 | 154365 | [154365-girl-jigsaw-2.json](./154365-girl-jigsaw-2.json) |
 | Girl Jigsaw 2: Patch | 162993 | [162993-girl-jigsaw-2-patch.json](./162993-girl-jigsaw-2-patch.json) |
 | Girl Like A Dreaming Two in a Restless Night | 391854 | [391854-girl-like-a-dreaming-two-in-a-restless-night.json](./391854-girl-like-a-dreaming-two-in-a-restless-night.json) |
@@ -7192,6 +7193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns Boy | 158170 | [158170-guns-boy.json](./158170-guns-boy.json) |
 | Guns Craft Mod | 90708 | [90708-guns-craft-mod.json](./90708-guns-craft-mod.json) |
 | Guns GirlZ | 79282 | [79282-guns-girlz.json](./79282-guns-girlz.json) |
+| Guns N Stuff | 149890 | [149890-guns-n-stuff.json](./149890-guns-n-stuff.json) |
 | Guns n Zombies | 16854 | [16854-guns-n-zombies.json](./16854-guns-n-zombies.json) |
 | Guns N' Boxes | 24064 | [24064-guns-n-boxes.json](./24064-guns-n-boxes.json) |
 | Guns N' Runs | 144927 | [144927-guns-n-runs.json](./144927-guns-n-runs.json) |
