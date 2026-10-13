@@ -2130,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maou Shoujo Eri | 262262 | [262262-maou-shoujo-eri.json](./262262-maou-shoujo-eri.json) |
 | Maou's Crucible | 381740 | [381740-maous-crucible.json](./381740-maous-crucible.json) |
 | Màoxiǎn Xiǎofēnduì | 370228 | [370228-maoxian-xiaofendui.json](./370228-maoxian-xiaofendui.json) |
+| Map Game: Or Something | 149905 | [149905-map-game-or-something.json](./149905-map-game-or-something.json) |
 | Map Hopper | 180682 | [180682-map-hopper.json](./180682-map-hopper.json) |
 | Map Map: A Game About Maps | 279120 | [279120-map-map-a-game-about-maps.json](./279120-map-map-a-game-about-maps.json) |
 | Map My Mind | 60910 | [60910-map-my-mind.json](./60910-map-my-mind.json) |
@@ -8203,6 +8204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper: The Clean One | 180245 | [180245-minesweeper-the-clean-one.json](./180245-minesweeper-the-clean-one.json) |
 | Mineswifter | 138189 | [138189-mineswifter.json](./138189-mineswifter.json) |
 | Minetic | 349893 | [349893-minetic.json](./349893-minetic.json) |
+| Minforiga | 149866 | [149866-minforiga.json](./149866-minforiga.json) |
 | Ming Dynasty: Cards & Court | 390606 | [390606-ming-dynasty-cards-and-court.json](./390606-ming-dynasty-cards-and-court.json) |
 | Míngjiào Fēngyún zhī Jiǔ Yīn Jiǔ Yáng | 155014 | [155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json](./155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json) |
 | Mingle | 214416 | [214416-mingle.json](./214416-mingle.json) |
@@ -9637,6 +9639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MOK: Super Space Taxi | 119706 | [119706-mok-super-space-taxi.json](./119706-mok-super-space-taxi.json) |
 | Mokens League | 222788 | [222788-mokens-league.json](./222788-mokens-league.json) |
 | Mokete | 266472 | [266472-mokete.json](./266472-mokete.json) |
+| Moki | 149880 | [149880-moki.json](./149880-moki.json) |
 | Moki: The Escape | 238725 | [238725-moki-the-escape.json](./238725-moki-the-escape.json) |
 | MokMok | 54492 | [54492-mokmok.json](./54492-mokmok.json) |
 | Moko's Advice | 127079 | [127079-mokos-advice.json](./127079-mokos-advice.json) |
