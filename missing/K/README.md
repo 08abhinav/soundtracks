@@ -1626,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill to Live | 187405 | [187405-kill-to-live.json](./187405-kill-to-live.json) |
 | Kill to Survive | 235167 | [235167-kill-to-survive.json](./235167-kill-to-survive.json) |
 | Kill your Darlings | 352718 | [352718-kill-your-darlings.json](./352718-kill-your-darlings.json) |
+| Kill Your Darlings | 177968 | [177968-kill-your-darlings.json](./177968-kill-your-darlings.json) |
 | Kill Your Friends | 133190 | [133190-kill-your-friends.json](./133190-kill-your-friends.json) |
 | Kill Your Friends | 407298 | [407298-kill-your-friends.json](./407298-kill-your-friends.json) |
 | Kill Your Heart | 337624 | [337624-kill-your-heart.json](./337624-kill-your-heart.json) |
@@ -3002,6 +3003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Riddle | 148479 | [148479-knights-of-riddle.json](./148479-knights-of-riddle.json) |
 | Knights of Romance and Valor | 298982 | [298982-knights-of-romance-and-valor.json](./298982-knights-of-romance-and-valor.json) |
 | Knights of San Francisco | 174204 | [174204-knights-of-san-francisco.json](./174204-knights-of-san-francisco.json) |
+| Knights of Saturn | 177776 | [177776-knights-of-saturn.json](./177776-knights-of-saturn.json) |
 | Knights of Takhisis Bundle Pack | 239006 | [239006-knights-of-takhisis-bundle-pack.json](./239006-knights-of-takhisis-bundle-pack.json) |
 | Knights of the Card Table | 113790 | [113790-knights-of-the-card-table.json](./113790-knights-of-the-card-table.json) |
 | Knights of the Chalice | 67785 | [67785-knights-of-the-chalice.json](./67785-knights-of-the-chalice.json) |
