@@ -3254,6 +3254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dark Wrath: Frost Flower | 385573 | [385573-deep-dark-wrath-frost-flower.json](./385573-deep-dark-wrath-frost-flower.json) |
 | Deep Dead | 323811 | [323811-deep-dead.json](./323811-deep-dead.json) |
 | Deep Death Dungeon Darkness | 239702 | [239702-deep-death-dungeon-darkness.json](./239702-deep-death-dungeon-darkness.json) |
+| Deep Deep Dungeon | 175132 | [175132-deep-deep-dungeon.json](./175132-deep-deep-dungeon.json) |
 | Deep Despair | 129641 | [129641-deep-despair.json](./129641-deep-despair.json) |
 | Deep Despair 3 | 320554 | [320554-deep-despair-3.json](./320554-deep-despair-3.json) |
 | Deep Dish Dungeon | 298680 | [298680-deep-dish-dungeon.json](./298680-deep-dish-dungeon.json) |
@@ -3300,6 +3301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep In The Snowy Night 2 | 278740 | [278740-deep-in-the-snowy-night-2.json](./278740-deep-in-the-snowy-night-2.json) |
 | Deep in the Void | 228012 | [228012-deep-in-the-void.json](./228012-deep-in-the-void.json) |
 | Deep in the Woods | 285014 | [285014-deep-in-the-woods.json](./285014-deep-in-the-woods.json) |
+| Deep Insanity Asylum | 174784 | [174784-deep-insanity-asylum.json](./174784-deep-insanity-asylum.json) |
 | Deep Inside | 179662 | [179662-deep-inside.json](./179662-deep-inside.json) |
 | Deep Inside | 309535 | [309535-deep-inside.json](./309535-deep-inside.json) |
 | Deep Labyrinth | 20552 | [20552-deep-labyrinth.json](./20552-deep-labyrinth.json) |
@@ -9419,6 +9421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Eternity | 59981 | [59981-dragon-eternity.json](./59981-dragon-eternity.json) |
 | Dragon Expedition | 332993 | [332993-dragon-expedition.json](./332993-dragon-expedition.json) |
 | Dragon Extinction VR | 149002 | [149002-dragon-extinction-vr.json](./149002-dragon-extinction-vr.json) |
+| Dragon Fang Z | 175312 | [175312-dragon-fang-z.json](./175312-dragon-fang-z.json) |
 | Dragon Fang Z: The Rose & Dungeon of Time - Extra Dungeon: Friendship's Labyrinth | 171446 | [171446-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-friendships-labyrinth.json](./171446-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-friendships-labyrinth.json) |
 | Dragon Fang Z: The Rose & Dungeon of Time - Extra Dungeon: The Cave of Fangs | 171939 | [171939-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-the-cave-of-fangs.json](./171939-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-the-cave-of-fangs.json) |
 | Dragon Fang Z: The Rose & Dungeon of Time - Extra Dungeon: The Inferno Hollow | 171938 | [171938-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-the-inferno-hollow.json](./171938-dragon-fang-z-the-rose-and-dungeon-of-time-extra-dungeon-the-inferno-hollow.json) |
@@ -10139,6 +10142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Land: Final Solution | 120886 | [120886-dream-land-final-solution.json](./120886-dream-land-final-solution.json) |
 | Dream League Soccer | 249369 | [249369-dream-league-soccer.json](./249369-dream-league-soccer.json) |
 | Dream League Soccer 2016 | 403613 | [403613-dream-league-soccer-2016.json](./403613-dream-league-soccer-2016.json) |
+| Dream League Soccer 2019 | 174601 | [174601-dream-league-soccer-2019.json](./174601-dream-league-soccer-2019.json) |
 | Dream League Soccer 2024 | 326648 | [326648-dream-league-soccer-2024.json](./326648-dream-league-soccer-2024.json) |
 | Dream League Soccer 2025 | 330832 | [330832-dream-league-soccer-2025.json](./330832-dream-league-soccer-2025.json) |
 | Dream League Soccer 2026 | 411784 | [411784-dream-league-soccer-2026.json](./411784-dream-league-soccer-2026.json) |
