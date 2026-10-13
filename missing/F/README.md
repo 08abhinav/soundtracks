@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Guys: Season 4 - Creative Construction | 243406 | [243406-fall-guys-season-4-creative-construction.json](./243406-fall-guys-season-4-creative-construction.json) |
 | Fall Guys: Starter Pack | 243660 | [243660-fall-guys-starter-pack.json](./243660-fall-guys-starter-pack.json) |
 | Fall Guys: Stunning Sealife Pack | 243664 | [243664-fall-guys-stunning-sealife-pack.json](./243664-fall-guys-stunning-sealife-pack.json) |
+| Fall Guys: Ultimate Knockout - Season 4 | 144048 | [144048-fall-guys-ultimate-knockout-season-4.json](./144048-fall-guys-ultimate-knockout-season-4.json) |
 | Fall Guys: Ultimate Knockout - Season 5 | 159046 | [159046-fall-guys-ultimate-knockout-season-5.json](./159046-fall-guys-ultimate-knockout-season-5.json) |
 | Fall Guys: Ultimate Knockout - Season 6 | 182201 | [182201-fall-guys-ultimate-knockout-season-6.json](./182201-fall-guys-ultimate-knockout-season-6.json) |
 | Fall Guys: Wildfire Pack | 243683 | [243683-fall-guys-wildfire-pack.json](./243683-fall-guys-wildfire-pack.json) |
@@ -1371,7 +1372,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Life: Origin Island | 225737 | [225737-fantasy-life-origin-island.json](./225737-fantasy-life-origin-island.json) |
 | Fantasy Little Jobs | 135141 | [135141-fantasy-little-jobs.json](./135141-fantasy-little-jobs.json) |
 | Fantasy Mahjong Connect | 154357 | [154357-fantasy-mahjong-connect.json](./154357-fantasy-mahjong-connect.json) |
+| Fantasy Maiden Wars: Dream | 144063 | [144063-fantasy-maiden-wars-dream.json](./144063-fantasy-maiden-wars-dream.json) |
 | Fantasy Maiden Wars: Dream of the Stray Dreamer | 222370 | [222370-fantasy-maiden-wars-dream-of-the-stray-dreamer.json](./222370-fantasy-maiden-wars-dream-of-the-stray-dreamer.json) |
+| Fantasy Maiden Wars: Eternity | 144061 | [144061-fantasy-maiden-wars-eternity.json](./144061-fantasy-maiden-wars-eternity.json) |
+| Fantasy Maiden Wars: Mystic | 144060 | [144060-fantasy-maiden-wars-mystic.json](./144060-fantasy-maiden-wars-mystic.json) |
 | Fantasy Maiden Wars: Scarlet | 138718 | [138718-fantasy-maiden-wars-scarlet.json](./138718-fantasy-maiden-wars-scarlet.json) |
 | Fantasy Maiden's Odd Hideout | 124640 | [124640-fantasy-maidens-odd-hideout.json](./124640-fantasy-maidens-odd-hideout.json) |
 | Fantasy Mall | 74738 | [74738-fantasy-mall.json](./74738-fantasy-mall.json) |
@@ -1444,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Strike: Core Pack | 169312 | [169312-fantasy-strike-core-pack.json](./169312-fantasy-strike-core-pack.json) |
 | Fantasy Tactics | 334923 | [334923-fantasy-tactics.json](./334923-fantasy-tactics.json) |
 | Fantasy Tavern Sextet -Vol.3 Postlude Days- | 147402 | [147402-fantasy-tavern-sextet-vol-3-postlude-days.json](./147402-fantasy-tavern-sextet-vol-3-postlude-days.json) |
+| Fantasy Tavern Sextet Vol. 2: Adventurer's Days | 144071 | [144071-fantasy-tavern-sextet-vol-2-adventurers-days.json](./144071-fantasy-tavern-sextet-vol-2-adventurers-days.json) |
 | Fantasy Tavern Simulator | 237088 | [237088-fantasy-tavern-simulator.json](./237088-fantasy-tavern-simulator.json) |
 | Fantasy TD Battles | 311224 | [311224-fantasy-td-battles.json](./311224-fantasy-td-battles.json) |
 | Fantasy Tea Generator | 177359 | [177359-fantasy-tea-generator.json](./177359-fantasy-tea-generator.json) |
@@ -4766,6 +4771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flame of Recca | 49412 | [49412-flame-of-recca.json](./49412-flame-of-recca.json) |
 | Flame of Valhalla | 329022 | [329022-flame-of-valhalla.json](./329022-flame-of-valhalla.json) |
 | Flame VS Blaze | 27720 | [27720-flame-vs-blaze.json](./27720-flame-vs-blaze.json) |
+| Flame Zapper Kotsujin | 144086 | [144086-flame-zapper-kotsujin.json](./144086-flame-zapper-kotsujin.json) |
 | Flame, Forest & Flood | 404179 | [404179-flame-forest-and-flood.json](./404179-flame-forest-and-flood.json) |
 | Flamefall | 342143 | [342143-flamefall.json](./342143-flamefall.json) |
 | Flameruby | 106542 | [106542-flameruby.json](./106542-flameruby.json) |
@@ -5365,6 +5371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flop to the Top | 181712 | [181712-flop-to-the-top.json](./181712-flop-to-the-top.json) |
 | Flopfish | 380645 | [380645-flopfish.json](./380645-flopfish.json) |
 | Floppy and the Sleepy Planet | 116385 | [116385-floppy-and-the-sleepy-planet.json](./116385-floppy-and-the-sleepy-planet.json) |
+| Floppy Bird | 144085 | [144085-floppy-bird.json](./144085-floppy-bird.json) |
 | Floppy Cat Bow Golf! | 252981 | [252981-floppy-cat-bow-golf.json](./252981-floppy-cat-bow-golf.json) |
 | Floppy Dick | 408952 | [408952-floppy-dick.json](./408952-floppy-dick.json) |
 | Floppy Disks from Hell | 236946 | [236946-floppy-disks-from-hell.json](./236946-floppy-disks-from-hell.json) |
@@ -8503,6 +8510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fu Sha 3: Night Clinic | 405552 | [405552-fu-sha-3-night-clinic.json](./405552-fu-sha-3-night-clinic.json) |
 | Fu-Fu-Chan: Way Up! | 408933 | [408933-fu-fu-chan-way-up.json](./408933-fu-fu-chan-way-up.json) |
 | Fu'un Super Combo | 84318 | [84318-fuun-super-combo.json](./84318-fuun-super-combo.json) |
+| Fubar | 144062 | [144062-fubar.json](./144062-fubar.json) |
 | Fubuki: Zero in on Holoearth | 331530 | [331530-fubuki-zero-in-on-holoearth.json](./331530-fubuki-zero-in-on-holoearth.json) |
 | Fǔchéng Shàonǚ: Yǐ Nǐ Wéi Míng de Fǔchéng Qíngshū | 163891 | [163891-fucheng-shaonu-yi-ni-wei-ming-de-fucheng-qingshu.json](./163891-fucheng-shaonu-yi-ni-wei-ming-de-fucheng-qingshu.json) |
 | Fùchóuzhě Liánméng: Zhōngjí Yīngxióng | 82052 | [82052-fuchouzhe-lianmeng-zhongji-yingxiong.json](./82052-fuchouzhe-lianmeng-zhongji-yingxiong.json) |
