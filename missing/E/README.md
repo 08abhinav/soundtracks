@@ -3470,6 +3470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Game: Aloha | 102623 | [102623-escape-game-aloha.json](./102623-escape-game-aloha.json) |
 | Escape Game: Cinderella | 228007 | [228007-escape-game-cinderella.json](./228007-escape-game-cinderella.json) |
 | Escape Game: Enchanting Tales | 174263 | [174263-escape-game-enchanting-tales.json](./174263-escape-game-enchanting-tales.json) |
+| Escape Game: Fort Boyard Edition 2021 | 154787 | [154787-escape-game-fort-boyard-edition-2021.json](./154787-escape-game-fort-boyard-edition-2021.json) |
 | Escape Game: R00m 02 | 334094 | [334094-escape-game-r00m-02.json](./334094-escape-game-r00m-02.json) |
 | Escape Game: The Old Folk House | 288312 | [288312-escape-game-the-old-folk-house.json](./288312-escape-game-the-old-folk-house.json) |
 | Escape Game:The Kitty The Vacant Lot | 351229 | [351229-escape-game-the-kitty-the-vacant-lot.json](./351229-escape-game-the-kitty-the-vacant-lot.json) |
