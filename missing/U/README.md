@@ -301,7 +301,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Casino | 203349 | [203349-ultimate-casino.json](./203349-ultimate-casino.json) |
 | Ultimate Casino 3 Pack | 69246 | [69246-ultimate-casino-3-pack.json](./69246-ultimate-casino-3-pack.json) |
 | Ultimate Chess 3D | 91895 | [91895-ultimate-chess-3d.json](./91895-ultimate-chess-3d.json) |
-| Ultimate Chicken Horse | 18158 | [18158-ultimate-chicken-horse.json](./18158-ultimate-chicken-horse.json) |
 | Ultimate Chicken Horse: A-Neigh-Versary Edition | 159206 | [159206-ultimate-chicken-horse-a-neigh-versary-edition.json](./159206-ultimate-chicken-horse-a-neigh-versary-edition.json) |
 | Ultimate Christmas Puzzler 2 | 195429 | [195429-ultimate-christmas-puzzler-2.json](./195429-ultimate-christmas-puzzler-2.json) |
 | Ultimate Chump | 259851 | [259851-ultimate-chump.json](./259851-ultimate-chump.json) |
@@ -1420,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfinished Battle | 89389 | [89389-unfinished-battle.json](./89389-unfinished-battle.json) |
 | Unfolded Cube | 295321 | [295321-unfolded-cube.json](./295321-unfolded-cube.json) |
 | Unforgettable | 349986 | [349986-unforgettable.json](./349986-unforgettable.json) |
+| Unforgettable You | 147231 | [147231-unforgettable-you.json](./147231-unforgettable-you.json) |
 | Unforgivable | 341116 | [341116-unforgivable.json](./341116-unforgivable.json) |
 | Unforgiven: Carry The Pain | 242498 | [242498-unforgiven-carry-the-pain.json](./242498-unforgiven-carry-the-pain.json) |
 | Unforgiven: Shattered Souls | 139357 | [139357-unforgiven-shattered-souls.json](./139357-unforgiven-shattered-souls.json) |
