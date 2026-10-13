@@ -5453,6 +5453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Team | 373757 | [373757-dice-team.json](./373757-dice-team.json) |
 | Dice Throne Digital | 388981 | [388981-dice-throne-digital.json](./388981-dice-throne-digital.json) |
 | Dice to Meet You | 270140 | [270140-dice-to-meet-you.json](./270140-dice-to-meet-you.json) |
+| Dice Tourney | 165750 | [165750-dice-tourney.json](./165750-dice-tourney.json) |
 | Dice Town Mobile | 175217 | [175217-dice-town-mobile.json](./175217-dice-town-mobile.json) |
 | Dice Up | 274754 | [274754-dice-up.json](./274754-dice-up.json) |
 | Dice Versa | 218406 | [218406-dice-versa.json](./218406-dice-versa.json) |
@@ -7312,6 +7313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge Dancer | 149577 | [149577-dodge-dancer.json](./149577-dodge-dancer.json) |
 | Dodge Dummy | 114351 | [114351-dodge-dummy.json](./114351-dodge-dummy.json) |
 | Dodge Everything | 381367 | [381367-dodge-everything.json](./381367-dodge-everything.json) |
+| Dodge It! | 165736 | [165736-dodge-it.json](./165736-dodge-it.json) |
 | Dodge Mania | 211151 | [211151-dodge-mania.json](./211151-dodge-mania.json) |
 | Dodge Master | 30120 | [30120-dodge-master.json](./30120-dodge-master.json) |
 | Dodge Racing: Charger vs Challenger | 197942 | [197942-dodge-racing-charger-vs-challenger.json](./197942-dodge-racing-charger-vs-challenger.json) |
@@ -11806,6 +11808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Walk: Ryuumeikyuu no Kanrisha | 236525 | [236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json](./236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json) |
 | Dungeon Ward | 193851 | [193851-dungeon-ward.json](./193851-dungeon-ward.json) |
 | Dungeon Warfare 2 | 102273 | [102273-dungeon-warfare-2.json](./102273-dungeon-warfare-2.json) |
+| Dungeon Warriors | 165727 | [165727-dungeon-warriors.json](./165727-dungeon-warriors.json) |
 | Dungeon Watchers | 319213 | [319213-dungeon-watchers.json](./319213-dungeon-watchers.json) |
 | Dungeon Weiqi | 348843 | [348843-dungeon-weiqi.json](./348843-dungeon-weiqi.json) |
 | Dungeon With Girl | 346171 | [346171-dungeon-with-girl.json](./346171-dungeon-with-girl.json) |
@@ -12311,6 +12314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamo Kid | 399924 | [399924-dynamo-kid.json](./399924-dynamo-kid.json) |
 | Dynamo Kid 2 | 399923 | [399923-dynamo-kid-2.json](./399923-dynamo-kid-2.json) |
 | Dynamo Kid 3 | 399921 | [399921-dynamo-kid-3.json](./399921-dynamo-kid-3.json) |
+| Dynarog 2 | 165732 | [165732-dynarog-2.json](./165732-dynarog-2.json) |
 | Dynast.io | 115762 | [115762-dynast-io.json](./115762-dynast-io.json) |
 | Dynasty | 278441 | [278441-dynasty.json](./278441-dynasty.json) |
 | Dynasty | 41537 | [41537-dynasty.json](./41537-dynasty.json) |
