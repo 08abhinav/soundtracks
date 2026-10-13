@@ -557,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of a Thread | 393053 | [393053-echoes-of-a-thread.json](./393053-echoes-of-a-thread.json) |
 | Echoes of a Turnabout: Franziska von Karma | 318768 | [318768-echoes-of-a-turnabout-franziska-von-karma.json](./318768-echoes-of-a-turnabout-franziska-von-karma.json) |
 | Echoes of Adventure | 346261 | [346261-echoes-of-adventure.json](./346261-echoes-of-adventure.json) |
+| Echoes of Aeons | 139142 | [139142-echoes-of-aeons.json](./139142-echoes-of-aeons.json) |
 | Echoes of Aetheria | 27759 | [27759-echoes-of-aetheria.json](./27759-echoes-of-aetheria.json) |
 | Echoes of Agony | 387354 | [387354-echoes-of-agony.json](./387354-echoes-of-agony.json) |
 | Echoes of Aincrad | 393932 | [393932-echoes-of-aincrad.json](./393932-echoes-of-aincrad.json) |
@@ -2145,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empronix Game | 369027 | [369027-empronix-game.json](./369027-empronix-game.json) |
 | Emptiness Sire | 332426 | [332426-emptiness-sire.json](./332426-emptiness-sire.json) |
 | Empty | 229384 | [229384-empty.json](./229384-empty.json) |
+| Empty Bottle | 139083 | [139083-empty-bottle.json](./139083-empty-bottle.json) |
 | Empty Box | 361755 | [361755-empty-box.json](./361755-empty-box.json) |
 | Empty Epsilon | 125379 | [125379-empty-epsilon.json](./125379-empty-epsilon.json) |
 | Empty Gauge | 391131 | [391131-empty-gauge.json](./391131-empty-gauge.json) |
@@ -2170,6 +2172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emre and Jevon's Tale of Knowledge, Emulating a Dream Where You Gain Wisdom and Knowledge and Probably Meet Hermes | 323301 | [323301-emre-and-jevons-tale-of-knowledge-emulating-a-dream-where-you-gain-wisdom-and-knowledge-and-probably-meet-hermes.json](./323301-emre-and-jevons-tale-of-knowledge-emulating-a-dream-where-you-gain-wisdom-and-knowledge-and-probably-meet-hermes.json) |
 | Emross War | 343482 | [343482-emross-war.json](./343482-emross-war.json) |
 | EmuDevz | 386285 | [386285-emudevz.json](./386285-emudevz.json) |
+| Emurinoo | 139149 | [139149-emurinoo.json](./139149-emurinoo.json) |
 | Emuurom | 135002 | [135002-emuurom.json](./135002-emuurom.json) |
 | EmyLiveShow: BossRush | 379543 | [379543-emyliveshow-bossrush.json](./379543-emyliveshow-bossrush.json) |
 | EmyLiveShow: Case of Four Hot Witnesses | 379538 | [379538-emyliveshow-case-of-four-hot-witnesses.json](./379538-emyliveshow-case-of-four-hot-witnesses.json) |
@@ -4943,6 +4946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exo Exit | 18542 | [18542-exo-exit.json](./18542-exo-exit.json) |
 | Exo Helljumper: Descent X | 345074 | [345074-exo-helljumper-descent-x.json](./345074-exo-helljumper-descent-x.json) |
 | Exo Mayhem | 312143 | [312143-exo-mayhem.json](./312143-exo-mayhem.json) |
+| Exo One: Prologue | 139131 | [139131-exo-one-prologue.json](./139131-exo-one-prologue.json) |
 | Exo Pexo Dots & Diamond | 226740 | [226740-exo-pexo-dots-and-diamond.json](./226740-exo-pexo-dots-and-diamond.json) |
 | Exo Rally Championship | 252862 | [252862-exo-rally-championship.json](./252862-exo-rally-championship.json) |
 | Exo Wanderers | 340044 | [340044-exo-wanderers.json](./340044-exo-wanderers.json) |
