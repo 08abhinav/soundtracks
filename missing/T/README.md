@@ -1852,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tattoos and Theirs Meanings | 266159 | [266159-tattoos-and-theirs-meanings.json](./266159-tattoos-and-theirs-meanings.json) |
 | Tattoos and Tulips | 257976 | [257976-tattoos-and-tulips.json](./257976-tattoos-and-tulips.json) |
 | TattooVR | 326179 | [326179-tattoovr.json](./326179-tattoovr.json) |
+| TatuBall | 175643 | [175643-tatuball.json](./175643-tatuball.json) |
 | Tatvalok | 380542 | [380542-tatvalok.json](./380542-tatvalok.json) |
 | Tau | 256210 | [256210-tau.json](./256210-tau.json) |
 | Tau Defense | 120859 | [120859-tau-defense.json](./120859-tau-defense.json) |
@@ -6203,6 +6204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Descendant: Season 4 | 408829 | [408829-the-first-descendant-season-4.json](./408829-the-first-descendant-season-4.json) |
 | The First Explorers | 263100 | [263100-the-first-explorers.json](./263100-the-first-explorers.json) |
 | The First Funky Fighter | 63295 | [63295-the-first-funky-fighter.json](./63295-the-first-funky-fighter.json) |
+| The First Greek Odyssey | 175843 | [175843-the-first-greek-odyssey.json](./175843-the-first-greek-odyssey.json) |
 | The First Island | 176200 | [176200-the-first-island.json](./176200-the-first-island.json) |
 | The First Mile | 73535 | [73535-the-first-mile.json](./73535-the-first-mile.json) |
 | The First Mountain | 219634 | [219634-the-first-mountain.json](./219634-the-first-mountain.json) |
@@ -13210,6 +13212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Those Infernal Girls! | 225744 | [225744-those-infernal-girls.json](./225744-those-infernal-girls.json) |
 | Those Left Behind | 212854 | [212854-those-left-behind.json](./212854-those-left-behind.json) |
 | Those Nights at Ring's 2 | 336360 | [336360-those-nights-at-rings-2.json](./336360-those-nights-at-rings-2.json) |
+| Those Who Came: Healing Solarus | 175647 | [175647-those-who-came-healing-solarus.json](./175647-those-who-came-healing-solarus.json) |
 | Those Who Crawl | 230803 | [230803-those-who-crawl.json](./230803-those-who-crawl.json) |
 | Those Who Remain | 83848 | [83848-those-who-remain.json](./83848-those-who-remain.json) |
 | Those Who Rule | 211226 | [211226-those-who-rule.json](./211226-those-who-rule.json) |
@@ -19981,6 +19984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricolor | 97514 | [97514-tricolor.json](./97514-tricolor.json) |
 | Tricolore Crise | 58170 | [58170-tricolore-crise.json](./58170-tricolore-crise.json) |
 | Tricolour Lovestory | 55803 | [55803-tricolour-lovestory.json](./55803-tricolour-lovestory.json) |
+| Tricolour Lovestory S: Heartful Memories | 175672 | [175672-tricolour-lovestory-s-heartful-memories.json](./175672-tricolour-lovestory-s-heartful-memories.json) |
 | Tridasha | 274047 | [274047-tridasha.json](./274047-tridasha.json) |
 | TriDefense | 63229 | [63229-tridefense.json](./63229-tridefense.json) |
 | Tridek: Creatures of Galena | 63142 | [63142-tridek-creatures-of-galena.json](./63142-tridek-creatures-of-galena.json) |
