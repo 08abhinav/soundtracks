@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yahtzee, Parcheesi & Aggravation Collection | 92836 | [92836-yahtzee-parcheesi-and-aggravation-collection.json](./92836-yahtzee-parcheesi-and-aggravation-collection.json) |
 | Yahtzee! Wild | 355013 | [355013-yahtzee-wild.json](./355013-yahtzee-wild.json) |
 | Yaiba: Ninja Gaiden Z | 5617 | [5617-yaiba-ninja-gaiden-z.json](./5617-yaiba-ninja-gaiden-z.json) |
+| Yak EzParrot's Adventure | 176761 | [176761-yak-ezparrots-adventure.json](./176761-yak-ezparrots-adventure.json) |
 | Yakan Kouen | 396482 | [396482-yakan-kouen.json](./396482-yakan-kouen.json) |
 | Yakari: The Mystery of Four - Seasons | 84934 | [84934-yakari-the-mystery-of-four-seasons.json](./84934-yakari-the-mystery-of-four-seasons.json) |
 | Yakata Nightmare Project | 58780 | [58780-yakata-nightmare-project.json](./58780-yakata-nightmare-project.json) |
@@ -288,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Year Walk | 21893 | [21893-year-walk.json](./21893-year-walk.json) |
 | Year3055 | 284831 | [284831-year3055.json](./284831-year3055.json) |
 | Yeardle | 200664 | [200664-yeardle.json](./200664-yeardle.json) |
+| Yearly | 176735 | [176735-yearly.json](./176735-yearly.json) |
 | Yearn 2 Learn | 93385 | [93385-yearn-2-learn.json](./93385-yearn-2-learn.json) |
 | Yearn Tyrant's Conquest | 96211 | [96211-yearn-tyrants-conquest.json](./96211-yearn-tyrants-conquest.json) |
 | Yearning | 111497 | [111497-yearning.json](./111497-yearning.json) |
@@ -686,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You are Awake Now | 234716 | [234716-you-are-awake-now.json](./234716-you-are-awake-now.json) |
 | You Are Being Followed | 152293 | [152293-you-are-being-followed.json](./152293-you-are-being-followed.json) |
 | You Are Being Watched | 230764 | [230764-you-are-being-watched.json](./230764-you-are-being-watched.json) |
+| You Are Bisexual | 176942 | [176942-you-are-bisexual.json](./176942-you-are-bisexual.json) |
 | You Are Bugs | 274382 | [274382-you-are-bugs.json](./274382-you-are-bugs.json) |
 | You are cursed, Mr.Mayor! | 183801 | [183801-you-are-cursed-mr-mayor.json](./183801-you-are-cursed-mr-mayor.json) |
 | You Are Dead! | 323798 | [323798-you-are-dead.json](./323798-you-are-dead.json) |
@@ -1361,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuri Sword Saga | 291062 | [291062-yuri-sword-saga.json](./291062-yuri-sword-saga.json) |
 | Yurikago yori Tenshi made | 402470 | [402470-yurikago-yori-tenshi-made.json](./402470-yurikago-yori-tenshi-made.json) |
 | Yurivania 0: Soul Night Prelude | 206157 | [206157-yurivania-0-soul-night-prelude.json](./206157-yurivania-0-soul-night-prelude.json) |
+| Yurivania 1: Uhaul of the Night | 176931 | [176931-yurivania-1-uhaul-of-the-night.json](./176931-yurivania-1-uhaul-of-the-night.json) |
 | Yurivania 2: Josette's Quest | 206158 | [206158-yurivania-2-josettes-quest.json](./206158-yurivania-2-josettes-quest.json) |
 | Yurivania 3: Circle of the Polycule | 364533 | [364533-yurivania-3-circle-of-the-polycule.json](./364533-yurivania-3-circle-of-the-polycule.json) |
 | Yurivania: Uhaul of the Night | 206156 | [206156-yurivania-uhaul-of-the-night.json](./206156-yurivania-uhaul-of-the-night.json) |
