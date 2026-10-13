@@ -4231,6 +4231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess for Mac | 131488 | [131488-chess-for-mac.json](./131488-chess-for-mac.json) |
 | Chess For Playdate | 275684 | [275684-chess-for-playdate.json](./275684-chess-for-playdate.json) |
 | Chess Force | 338917 | [338917-chess-force.json](./338917-chess-force.json) |
+| Chess Gambit | 165124 | [165124-chess-gambit.json](./165124-chess-gambit.json) |
 | Chess Grandmaster Royal Bundle | 283189 | [283189-chess-grandmaster-royal-bundle.json](./283189-chess-grandmaster-royal-bundle.json) |
 | Chess in the Park | 254438 | [254438-chess-in-the-park.json](./254438-chess-in-the-park.json) |
 | Chess Infinity | 324987 | [324987-chess-infinity.json](./324987-chess-infinity.json) |
@@ -4441,6 +4442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Blaster | 175778 | [175778-chicken-blaster.json](./175778-chicken-blaster.json) |
 | Chicken Bomb | 137595 | [137595-chicken-bomb.json](./137595-chicken-bomb.json) |
 | Chicken Boy's Counterattack | 291488 | [291488-chicken-boys-counterattack.json](./291488-chicken-boys-counterattack.json) |
+| Chicken Cannon! | 165120 | [165120-chicken-cannon.json](./165120-chicken-cannon.json) |
 | Chicken Cha Cha Cha | 174236 | [174236-chicken-cha-cha-cha.json](./174236-chicken-cha-cha-cha.json) |
 | Chicken Chasers | 380067 | [380067-chicken-chasers.json](./380067-chicken-chasers.json) |
 | Chicken Chicken | 390635 | [390635-chicken-chicken.json](./390635-chicken-chicken.json) |
@@ -5693,6 +5695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cirnozardry | 292858 | [292858-cirnozardry.json](./292858-cirnozardry.json) |
 | Cirque des Animaux | 383080 | [383080-cirque-des-animaux.json](./383080-cirque-des-animaux.json) |
 | Cirque du Flea | 366412 | [366412-cirque-du-flea.json](./366412-cirque-du-flea.json) |
+| Cirrus | 165115 | [165115-cirrus.json](./165115-cirrus.json) |
 | Cirrus Business | 253987 | [253987-cirrus-business.json](./253987-cirrus-business.json) |
 | Citadale Resurrection | 234583 | [234583-citadale-resurrection.json](./234583-citadale-resurrection.json) |
 | Citadale Resurrection: Darkness my Curse | 261867 | [261867-citadale-resurrection-darkness-my-curse.json](./261867-citadale-resurrection-darkness-my-curse.json) |
@@ -6835,6 +6838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Manager 2016 | 34337 | [34337-club-manager-2016.json](./34337-club-manager-2016.json) |
 | Club Manager 2017 | 31957 | [31957-club-manager-2017.json](./31957-club-manager-2017.json) |
 | Club Naughty | 30427 | [30427-club-naughty.json](./30427-club-naughty.json) |
+| Club Nintendo Picross Plus | 165121 | [165121-club-nintendo-picross-plus.json](./165121-club-nintendo-picross-plus.json) |
 | Club of fighters | 86537 | [86537-club-of-fighters.json](./86537-club-of-fighters.json) |
 | Club Penguin | 239001 | [239001-club-penguin.json](./239001-club-penguin.json) |
 | Club Penguin Avalanche | 301351 | [301351-club-penguin-avalanche.json](./301351-club-penguin-avalanche.json) |
@@ -9268,6 +9272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copa Petrobras de Marcas | 90609 | [90609-copa-petrobras-de-marcas.json](./90609-copa-petrobras-de-marcas.json) |
 | Copa Toon: Superestrellas | 334930 | [334930-copa-toon-superestrellas.json](./334930-copa-toon-superestrellas.json) |
 | Cope Island: Adrift | 113755 | [113755-cope-island-adrift.json](./113755-cope-island-adrift.json) |
+| Cope: Shodown | 165108 | [165108-cope-shodown.json](./165108-cope-shodown.json) |
 | Copernicus | 72907 | [72907-copernicus.json](./72907-copernicus.json) |
 | Copero | 412505 | [412505-copero.json](./412505-copero.json) |
 | Coping Mechanisms | 395898 | [395898-coping-mechanisms.json](./395898-coping-mechanisms.json) |
@@ -11449,6 +11454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossing Chaos: Crazy Highway Traffic | 335966 | [335966-crossing-chaos-crazy-highway-traffic.json](./335966-crossing-chaos-crazy-highway-traffic.json) |
 | Crossing Damaged Bridge | 250944 | [250944-crossing-damaged-bridge.json](./250944-crossing-damaged-bridge.json) |
 | Crossing Dungeon | 149930 | [149930-crossing-dungeon.json](./149930-crossing-dungeon.json) |
+| Crossing Frontier | 165125 | [165125-crossing-frontier.json](./165125-crossing-frontier.json) |
 | Crossing Frontier: Fate Foretold | 275096 | [275096-crossing-frontier-fate-foretold.json](./275096-crossing-frontier-fate-foretold.json) |
 | Crossing Man | 102960 | [102960-crossing-man.json](./102960-crossing-man.json) |
 | Crossing Miracles | 316647 | [316647-crossing-miracles.json](./316647-crossing-miracles.json) |
@@ -11912,6 +11918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypto-Fascist | 364561 | [364561-crypto-fascist.json](./364561-crypto-fascist.json) |
 | Crypto-Shots | 221844 | [221844-crypto-shots.json](./221844-crypto-shots.json) |
 | Cryptobots | 224144 | [224144-cryptobots.json](./224144-cryptobots.json) |
+| CryptoCannoneer | 165128 | [165128-cryptocannoneer.json](./165128-cryptocannoneer.json) |
 | CryptoClash | 265730 | [265730-cryptoclash.json](./265730-cryptoclash.json) |
 | CryptoClickers | 218162 | [218162-cryptoclickers.json](./218162-cryptoclickers.json) |
 | Cryptocracy | 29027 | [29027-cryptocracy.json](./29027-cryptocracy.json) |
