@@ -4732,6 +4732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Charm of Love | 157158 | [157158-the-charm-of-love.json](./157158-the-charm-of-love.json) |
 | The Charming Empire | 31976 | [31976-the-charming-empire.json](./31976-the-charming-empire.json) |
 | The Chase | 133821 | [133821-the-chase.json](./133821-the-chase.json) |
+| The Chase | 168949 | [168949-the-chase.json](./168949-the-chase.json) |
 | The Chase: Ultimate Edition | 138568 | [138568-the-chase-ultimate-edition.json](./138568-the-chase-ultimate-edition.json) |
 | The Chaste Full-Metal Maiden - Leiria | 124262 | [124262-the-chaste-full-metal-maiden-leiria.json](./124262-the-chaste-full-metal-maiden-leiria.json) |
 | The Cheese Chase: Pizza Madness | 319772 | [319772-the-cheese-chase-pizza-madness.json](./319772-the-cheese-chase-pizza-madness.json) |
@@ -8388,6 +8389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The LEGO Movie 2 Videogame: Prophecy Pack | 375277 | [375277-the-lego-movie-2-videogame-prophecy-pack.json](./375277-the-lego-movie-2-videogame-prophecy-pack.json) |
 | The LEGO Movie Video Game | 329774 | [329774-the-lego-movie-video-game.json](./329774-the-lego-movie-video-game.json) |
 | The LEGO Movie Videogame | 4845 | [4845-the-lego-movie-videogame.json](./4845-the-lego-movie-videogame.json) |
+| The LEGO Movie Videogame: Wild West Pack | 168792 | [168792-the-lego-movie-videogame-wild-west-pack.json](./168792-the-lego-movie-videogame-wild-west-pack.json) |
 | The LEGO Ninjago Movie App | 88393 | [88393-the-lego-ninjago-movie-app.json](./88393-the-lego-ninjago-movie-app.json) |
 | The Lemonade | 258517 | [258517-the-lemonade.json](./258517-the-lemonade.json) |
 | The Lesser Evil | 176507 | [176507-the-lesser-evil.json](./176507-the-lesser-evil.json) |
@@ -14963,6 +14965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time for Teletubbies | 326581 | [326581-time-for-teletubbies.json](./326581-time-for-teletubbies.json) |
 | Time For You: Chapter 01 | 168860 | [168860-time-for-you-chapter-01.json](./168860-time-for-you-chapter-01.json) |
 | Time for You: Chapter 02 - Dirty Thoughts and Corporate Bots | 170373 | [170373-time-for-you-chapter-02-dirty-thoughts-and-corporate-bots.json](./170373-time-for-you-chapter-02-dirty-thoughts-and-corporate-bots.json) |
+| Time Freeze | 168936 | [168936-time-freeze.json](./168936-time-freeze.json) |
 | Time From Earth | 212299 | [212299-time-from-earth.json](./212299-time-from-earth.json) |
 | Time Gal & Ninja Hayate | 55871 | [55871-time-gal-and-ninja-hayate.json](./55871-time-gal-and-ninja-hayate.json) |
 | Time Gal HD Remaster | 255872 | [255872-time-gal-hd-remaster.json](./255872-time-gal-hd-remaster.json) |
