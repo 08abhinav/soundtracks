@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T08:35:48.730Z",
-  "total_soundtracks": 1573,
+  "generated_at": "2026-10-13T08:36:04.022Z",
+  "total_soundtracks": 1574,
   "games": [
     {
       "igdb_id": 7522,
@@ -17374,6 +17374,20 @@
           "album_name": "Warhammer 40,000: Space Marine 2 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5XjvjWWxv6YEFpvunulQzE",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 9181,
+      "game_name": "Warhammer: End Times - Vermintide",
+      "game_url": "https://ostdb.net/games/warhammer-end-times-vermintide",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738411879dd90cd8d71aa7d0cc",
+      "albums": [
+        {
+          "album_name": "Warhammer: End Times - Vermintide (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0X7rOJgyk2MXbAnCGqo1hU",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
