@@ -3972,6 +3972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurragömma med Mumintrollen | 316156 | [316156-kurragomma-med-mumintrollen.json](./316156-kurragomma-med-mumintrollen.json) |
 | Kursk | 22793 | [22793-kursk.json](./22793-kursk.json) |
 | Kursk - Battle at Prochorovka | 29223 | [29223-kursk-battle-at-prochorovka.json](./29223-kursk-battle-at-prochorovka.json) |
+| Kursor | 165771 | [165771-kursor.json](./165771-kursor.json) |
 | Kurt '99: The Football Manager | 259518 | [259518-kurt-99-the-football-manager.json](./259518-kurt-99-the-football-manager.json) |
 | Kurt: Der Fussballmanager | 171616 | [171616-kurt-der-fussballmanager.json](./171616-kurt-der-fussballmanager.json) |
 | Kuru-kuru Action Kuru Pachi 6 | 220845 | [220845-kuru-kuru-action-kuru-pachi-6.json](./220845-kuru-kuru-action-kuru-pachi-6.json) |
