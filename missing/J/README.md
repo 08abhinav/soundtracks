@@ -1088,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Chronicles: Most Wanted | 325002 | [325002-jigsaw-chronicles-most-wanted.json](./325002-jigsaw-chronicles-most-wanted.json) |
 | Jigsaw Classics | 188116 | [188116-jigsaw-classics.json](./188116-jigsaw-classics.json) |
 | Jigsaw Detective | 366437 | [366437-jigsaw-detective.json](./366437-jigsaw-detective.json) |
+| Jigsaw Frame: Relax | 162996 | [162996-jigsaw-frame-relax.json](./162996-jigsaw-frame-relax.json) |
 | Jigsaw Fun 3-in-1 Collection | 197341 | [197341-jigsaw-fun-3-in-1-collection.json](./197341-jigsaw-fun-3-in-1-collection.json) |
 | Jigsaw Fun: 3-in-1 Collection | 196259 | [196259-jigsaw-fun-3-in-1-collection.json](./196259-jigsaw-fun-3-in-1-collection.json) |
 | Jigsaw Fun: Amazing Animals | 175814 | [175814-jigsaw-fun-amazing-animals.json](./175814-jigsaw-fun-amazing-animals.json) |
@@ -1147,6 +1148,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Novel: Public Toilet Sex | 286473 | [286473-jigsaw-novel-public-toilet-sex.json](./286473-jigsaw-novel-public-toilet-sex.json) |
 | Jigsaw Novel: Sexy Job Interview | 286470 | [286470-jigsaw-novel-sexy-job-interview.json](./286470-jigsaw-novel-sexy-job-interview.json) |
 | Jigsaw Pets | 283274 | [283274-jigsaw-pets.json](./283274-jigsaw-pets.json) |
+| Jigsaw Pieces 3: Fantasy | 163009 | [163009-jigsaw-pieces-3-fantasy.json](./163009-jigsaw-pieces-3-fantasy.json) |
+| Jigsaw Pieces: Romance | 162999 | [162999-jigsaw-pieces-romance.json](./162999-jigsaw-pieces-romance.json) |
 | JigSaw Preschool Puzzles | 97145 | [97145-jigsaw-preschool-puzzles.json](./97145-jigsaw-preschool-puzzles.json) |
 | Jigsaw Puzzle | 294556 | [294556-jigsaw-puzzle.json](./294556-jigsaw-puzzle.json) |
 | Jigsaw Puzzle | 357883 | [357883-jigsaw-puzzle.json](./357883-jigsaw-puzzle.json) |
