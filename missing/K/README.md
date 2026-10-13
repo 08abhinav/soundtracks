@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider: Battride War | 63358 | [63358-kamen-rider-battride-war.json](./63358-kamen-rider-battride-war.json) |
 | Kamen Rider: Battride War Genesis | 13559 | [13559-kamen-rider-battride-war-genesis.json](./13559-kamen-rider-battride-war-genesis.json) |
 | Kamen Rider: Battride War II | 62184 | [62184-kamen-rider-battride-war-ii.json](./62184-kamen-rider-battride-war-ii.json) |
+| Kamen Rider: Climax Fighters - Premium R Sound Edition | 136724 | [136724-kamen-rider-climax-fighters-premium-r-sound-edition.json](./136724-kamen-rider-climax-fighters-premium-r-sound-edition.json) |
 | Kamen Rider: Climax Heroes W | 50731 | [50731-kamen-rider-climax-heroes-w.json](./50731-kamen-rider-climax-heroes-w.json) |
 | Kamen Rider: Dragon Knight | 50730 | [50730-kamen-rider-dragon-knight.json](./50730-kamen-rider-dragon-knight.json) |
 | Kamen Rider: Memory of Heroez | 137453 | [137453-kamen-rider-memory-of-heroez.json](./137453-kamen-rider-memory-of-heroez.json) |
@@ -1841,6 +1842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kin and Conquest | 400228 | [400228-kin-and-conquest.json](./400228-kin-and-conquest.json) |
 | Kin:D | 202143 | [202143-kin-d.json](./202143-kin-d.json) |
 | Kin:d Barabin's Expedition | 372698 | [372698-kin-d-barabins-expedition.json](./372698-kin-d-barabins-expedition.json) |
+| Kin'iro Loveriche | 136754 | [136754-kiniro-loveriche.json](./136754-kiniro-loveriche.json) |
 | Kin'iro Loveriche: Golden Time | 141187 | [141187-kiniro-loveriche-golden-time.json](./141187-kiniro-loveriche-golden-time.json) |
 | Kin'iro Loveriche: Golden Time - Limited Edition | 141188 | [141188-kiniro-loveriche-golden-time-limited-edition.json](./141188-kiniro-loveriche-golden-time-limited-edition.json) |
 | Kin's Chronicle | 149981 | [149981-kins-chronicle.json](./149981-kins-chronicle.json) |
@@ -2571,6 +2573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss the Dragon | 303320 | [303320-kiss-the-dragon.json](./303320-kiss-the-dragon.json) |
 | Kiss the Ghoul | 178478 | [178478-kiss-the-ghoul.json](./178478-kiss-the-ghoul.json) |
 | Kiss the Girl | 216174 | [216174-kiss-the-girl.json](./216174-kiss-the-girl.json) |
+| Kiss Trilogy | 136718 | [136718-kiss-trilogy.json](./136718-kiss-trilogy.json) |
 | Kiss Trilogy: Premium Edition | 136826 | [136826-kiss-trilogy-premium-edition.json](./136826-kiss-trilogy-premium-edition.json) |
 | KISS U | 194891 | [194891-kiss-u.json](./194891-kiss-u.json) |
 | Kiss Yori... | 73766 | [73766-kiss-yori.json](./73766-kiss-yori.json) |
