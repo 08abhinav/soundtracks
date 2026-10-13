@@ -1203,7 +1203,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawnmower Game: 2024 | 340904 | [340904-lawnmower-game-2024.json](./340904-lawnmower-game-2024.json) |
 | Lawnmower Game: Mission X | 368655 | [368655-lawnmower-game-mission-x.json](./368655-lawnmower-game-mission-x.json) |
 | Lawnmower Game: Mortal Race | 202657 | [202657-lawnmower-game-mortal-race.json](./202657-lawnmower-game-mortal-race.json) |
+| Lawnmower Game: Next Generation | 147735 | [147735-lawnmower-game-next-generation.json](./147735-lawnmower-game-next-generation.json) |
 | Lawnmower Game: Pinball | 384069 | [384069-lawnmower-game-pinball.json](./384069-lawnmower-game-pinball.json) |
+| Lawnmower Game: Racing | 147742 | [147742-lawnmower-game-racing.json](./147742-lawnmower-game-racing.json) |
 | Lawnmower Game: Space Fight | 188954 | [188954-lawnmower-game-space-fight.json](./188954-lawnmower-game-space-fight.json) |
 | Lawnmower Game: Space Race | 225605 | [225605-lawnmower-game-space-race.json](./225605-lawnmower-game-space-race.json) |
 | Lawnmower Game: Survival | 334244 | [334244-lawnmower-game-survival.json](./334244-lawnmower-game-survival.json) |
@@ -4457,6 +4459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locks | 199452 | [199452-locks.json](./199452-locks.json) |
 | Locksmith | 413897 | [413897-locksmith.json](./413897-locksmith.json) |
 | Locksmith | 48906 | [48906-locksmith.json](./48906-locksmith.json) |
+| Lockstone | 147745 | [147745-lockstone.json](./147745-lockstone.json) |
 | Loco | 138123 | [138123-loco.json](./138123-loco.json) |
 | Loco Bonobo | 192871 | [192871-loco-bonobo.json](./192871-loco-bonobo.json) |
 | Loco Dojo Unleashed | 193680 | [193680-loco-dojo-unleashed.json](./193680-loco-dojo-unleashed.json) |
@@ -4470,6 +4473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loco-Motion | 42161 | [42161-loco-motion.json](./42161-loco-motion.json) |
 | Loco-Motion | 5681 | [5681-loco-motion.json](./5681-loco-motion.json) |
 | Loco-Sort | 272265 | [272265-loco-sort.json](./272265-loco-sort.json) |
+| LocO-SportS | 147744 | [147744-loco-sports.json](./147744-loco-sports.json) |
 | Loco: Rails & Tails | 381632 | [381632-loco-rails-and-tails.json](./381632-loco-rails-and-tails.json) |
 | Loco! | 412525 | [412525-loco.json](./412525-loco.json) |
 | LoCoMo | 396125 | [396125-locomo.json](./396125-locomo.json) |
