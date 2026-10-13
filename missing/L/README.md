@@ -1972,6 +1972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Bionicle: Mask of Control | 343362 | [343362-lego-bionicle-mask-of-control.json](./343362-lego-bionicle-mask-of-control.json) |
 | LEGO Bionicle: Mask of Creation | 343361 | [343361-lego-bionicle-mask-of-creation.json](./343361-lego-bionicle-mask-of-creation.json) |
 | LEGO Brawls | 117006 | [117006-lego-brawls.json](./117006-lego-brawls.json) |
+| LEGO Builder Bots | 145369 | [145369-lego-builder-bots.json](./145369-lego-builder-bots.json) |
 | LEGO Builder's Journey | 127985 | [127985-lego-builders-journey.json](./127985-lego-builders-journey.json) |
 | LEGO City Fire Hose Frenzy | 61624 | [61624-lego-city-fire-hose-frenzy.json](./61624-lego-city-fire-hose-frenzy.json) |
 | LEGO City Spotlight Robbery | 61623 | [61623-lego-city-spotlight-robbery.json](./61623-lego-city-spotlight-robbery.json) |
@@ -6177,6 +6178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludo XXL | 173136 | [173136-ludo-xxl.json](./173136-ludo-xxl.json) |
 | Ludo XXL 2 | 362369 | [362369-ludo-xxl-2.json](./362369-ludo-xxl-2.json) |
 | Ludomalica | 392278 | [392278-ludomalica.json](./392278-ludomalica.json) |
+| LudoNarraCon Supporter Pack featuring Cyrano | 146052 | [146052-ludonarracon-supporter-pack-featuring-cyrano.json](./146052-ludonarracon-supporter-pack-featuring-cyrano.json) |
 | Ludu | 26491 | [26491-ludu.json](./26491-ludu.json) |
 | Ludum Creare | 176981 | [176981-ludum-creare.json](./176981-ludum-creare.json) |
 | Ludus | 128123 | [128123-ludus.json](./128123-ludus.json) |
