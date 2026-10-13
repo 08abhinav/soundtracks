@@ -9356,6 +9356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smelter: Collector's Edition | 205263 | [205263-smelter-collectors-edition.json](./205263-smelter-collectors-edition.json) |
 | Smerch Battle Arena | 158638 | [158638-smerch-battle-arena.json](./158638-smerch-battle-arena.json) |
 | Smetanka | 156213 | [156213-smetanka.json](./156213-smetanka.json) |
+| SmFly: Gravity Adventure | 150967 | [150967-smfly-gravity-adventure.json](./150967-smfly-gravity-adventure.json) |
 | SMH | 277393 | [277393-smh.json](./277393-smh.json) |
 | SMIB: Mission Cure | 157415 | [157415-smib-mission-cure.json](./157415-smib-mission-cure.json) |
 | Smile | 129706 | [129706-smile.json](./129706-smile.json) |
@@ -18415,6 +18416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Girls | 296991 | [296991-street-girls.json](./296991-street-girls.json) |
 | Street Gods | 360774 | [360774-street-gods.json](./360774-street-gods.json) |
 | Street Heat | 40434 | [40434-street-heat.json](./40434-street-heat.json) |
+| Street Hero | 150950 | [150950-street-hero.json](./150950-street-hero.json) |
 | Street Hero | 288129 | [288129-street-hero.json](./288129-street-hero.json) |
 | Street Heroes | 107814 | [107814-street-heroes.json](./107814-street-heroes.json) |
 | Street Heroes | 48567 | [48567-street-heroes.json](./48567-street-heroes.json) |
@@ -21865,6 +21867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Wing Commander | 4323 | [4323-super-wing-commander.json](./4323-super-wing-commander.json) |
 | Super Wizard | 212431 | [212431-super-wizard.json](./212431-super-wizard.json) |
 | Super Wizard Fever | 197347 | [197347-super-wizard-fever.json](./197347-super-wizard-fever.json) |
+| Super Woden GP | 150979 | [150979-super-woden-gp.json](./150979-super-woden-gp.json) |
 | Super Woden GP 2 | 225189 | [225189-super-woden-gp-2.json](./225189-super-woden-gp-2.json) |
 | Super Woden: Rally Edge | 350456 | [350456-super-woden-rally-edge.json](./350456-super-woden-rally-edge.json) |
 | Super Wonder Boy in Monster Land | 327845 | [327845-super-wonder-boy-in-monster-land.json](./327845-super-wonder-boy-in-monster-land.json) |
