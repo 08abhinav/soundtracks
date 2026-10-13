@@ -697,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bag Game | 411696 | [411696-bag-game.json](./411696-bag-game.json) |
 | Bag Hero | 345985 | [345985-bag-hero.json](./345985-bag-hero.json) |
 | Bagarre | 386970 | [386970-bagarre.json](./386970-bagarre.json) |
+| Bagasaurus | 147213 | [147213-bagasaurus.json](./147213-bagasaurus.json) |
 | Bagel Love Story | 298691 | [298691-bagel-love-story.json](./298691-bagel-love-story.json) |
 | Baggage Inspector | 293854 | [293854-baggage-inspector.json](./293854-baggage-inspector.json) |
 | Baggio's Magical Kicks | 64973 | [64973-baggios-magical-kicks.json](./64973-baggios-magical-kicks.json) |
@@ -1395,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Kazooie: Legend of the Crystal Jiggy | 172671 | [172671-banjo-kazooie-legend-of-the-crystal-jiggy.json](./172671-banjo-kazooie-legend-of-the-crystal-jiggy.json) |
 | Banjo-Kazooie: Nostalgia 64 | 154990 | [154990-banjo-kazooie-nostalgia-64.json](./154990-banjo-kazooie-nostalgia-64.json) |
 | Banjo-Kazooie: Nuts & Bolts - L.O.G.'s Lost Challenges | 229855 | [229855-banjo-kazooie-nuts-and-bolts-l-o-g-s-lost-challenges.json](./229855-banjo-kazooie-nuts-and-bolts-l-o-g-s-lost-challenges.json) |
+| Banjo-Kazooie: Stay at Home | 147221 | [147221-banjo-kazooie-stay-at-home.json](./147221-banjo-kazooie-stay-at-home.json) |
 | Banjo-Kazooie: The Hidden Lair | 234122 | [234122-banjo-kazooie-the-hidden-lair.json](./234122-banjo-kazooie-the-hidden-lair.json) |
 | Banjo-Pilot | 6316 | [6316-banjo-pilot.json](./6316-banjo-pilot.json) |
 | Banjo-Threeie | 200644 | [200644-banjo-threeie.json](./200644-banjo-threeie.json) |
@@ -2678,6 +2680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Stadium D.O.N | 50575 | [50575-battle-stadium-d-o-n.json](./50575-battle-stadium-d-o-n.json) |
 | Battle Stadium: Senbatsu Pro Yakyuu | 48585 | [48585-battle-stadium-senbatsu-pro-yakyuu.json](./48585-battle-stadium-senbatsu-pro-yakyuu.json) |
 | Battle Star | 157129 | [157129-battle-star.json](./157129-battle-star.json) |
+| Battle Star Asteroids | 147239 | [147239-battle-star-asteroids.json](./147239-battle-star-asteroids.json) |
 | Battle Stations | 136864 | [136864-battle-stations.json](./136864-battle-stations.json) |
 | Battle Stations | 20136 | [20136-battle-stations.json](./20136-battle-stations.json) |
 | Battle Stations | 95473 | [95473-battle-stations.json](./95473-battle-stations.json) |
@@ -8659,6 +8662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 3: Super Deluxe Edition | 116996 | [116996-borderlands-3-super-deluxe-edition.json](./116996-borderlands-3-super-deluxe-edition.json) |
 | Borderlands 4: Bounty Pack 1 - How Rush Saved Mercenary Day | 398014 | [398014-borderlands-4-bounty-pack-1-how-rush-saved-mercenary-day.json](./398014-borderlands-4-bounty-pack-1-how-rush-saved-mercenary-day.json) |
 | Borderlands 4: Story Pack 2 - FL4K and the Last Resort | 417666 | [417666-borderlands-4-story-pack-2-fl4k-and-the-last-resort.json](./417666-borderlands-4-story-pack-2-fl4k-and-the-last-resort.json) |
+| Borderlands Double Game Add-On Pack | 147224 | [147224-borderlands-double-game-add-on-pack.json](./147224-borderlands-double-game-add-on-pack.json) |
 | Borderlands Legends | 64415 | [64415-borderlands-legends.json](./64415-borderlands-legends.json) |
 | Borderlands Mobile | 397810 | [397810-borderlands-mobile.json](./397810-borderlands-mobile.json) |
 | Borderlands Triple Pack | 268734 | [268734-borderlands-triple-pack.json](./268734-borderlands-triple-pack.json) |
@@ -9356,6 +9360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Baffler | 245546 | [245546-brain-baffler.json](./245546-brain-baffler.json) |
 | Brain Bait | 186814 | [186814-brain-bait.json](./186814-brain-bait.json) |
 | Brain Battle | 233766 | [233766-brain-battle.json](./233766-brain-battle.json) |
+| Brain Beats | 147202 | [147202-brain-beats.json](./147202-brain-beats.json) |
 | Brain Boost Beta / Gamma Wave | 21381 | [21381-brain-boost-beta-gamma-wave.json](./21381-brain-boost-beta-gamma-wave.json) |
 | Brain Boost: Gamma Wave | 44064 | [44064-brain-boost-gamma-wave.json](./44064-brain-boost-gamma-wave.json) |
 | Brain Booster | 206480 | [206480-brain-booster.json](./206480-brain-booster.json) |
@@ -10279,6 +10284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken | 188446 | [188446-broken.json](./188446-broken.json) |
 | Broken Age: The Complete Adventure | 20865 | [20865-broken-age-the-complete-adventure.json](./20865-broken-age-the-complete-adventure.json) |
 | Broken Armor | 31900 | [31900-broken-armor.json](./31900-broken-armor.json) |
+| Broken Arrow | 147187 | [147187-broken-arrow.json](./147187-broken-arrow.json) |
 | Broken Banners | 192839 | [192839-broken-banners.json](./192839-broken-banners.json) |
 | Broken Betrayal | 190921 | [190921-broken-betrayal.json](./190921-broken-betrayal.json) |
 | Broken Bird: Spread Your Wings | 210320 | [210320-broken-bird-spread-your-wings.json](./210320-broken-bird-spread-your-wings.json) |
@@ -10339,6 +10345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Shell | 304374 | [304374-broken-shell.json](./304374-broken-shell.json) |
 | Broken Signal | 380040 | [380040-broken-signal.json](./380040-broken-signal.json) |
 | Broken Skies | 181136 | [181136-broken-skies.json](./181136-broken-skies.json) |
+| Broken Sky | 147237 | [147237-broken-sky.json](./147237-broken-sky.json) |
 | Broken Soul | 245789 | [245789-broken-soul.json](./245789-broken-soul.json) |
 | Broken Spell | 122422 | [122422-broken-spell.json](./122422-broken-spell.json) |
 | Broken Spell 2 | 129009 | [129009-broken-spell-2.json](./129009-broken-spell-2.json) |
