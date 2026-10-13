@@ -4304,6 +4304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolution Idle | 297876 | [297876-revolution-idle.json](./297876-revolution-idle.json) |
 | Revolution Kart DS | 338848 | [338848-revolution-kart-ds.json](./338848-revolution-kart-ds.json) |
 | Revolution Under Siege | 59501 | [59501-revolution-under-siege.json](./59501-revolution-under-siege.json) |
+| Revolution: Path of a Weaponsmith | 157416 | [157416-revolution-path-of-a-weaponsmith.json](./157416-revolution-path-of-a-weaponsmith.json) |
 | Revolution: The Spark | 143659 | [143659-revolution-the-spark.json](./143659-revolution-the-spark.json) |
 | Revolution: Virtual Playspace | 34829 | [34829-revolution-virtual-playspace.json](./34829-revolution-virtual-playspace.json) |
 | Revolution: War of Independence | 212304 | [212304-revolution-war-of-independence.json](./212304-revolution-war-of-independence.json) |
@@ -4766,6 +4767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riding Fight | 39577 | [39577-riding-fight.json](./39577-riding-fight.json) |
 | Riding Horse School | 239753 | [239753-riding-horse-school.json](./239753-riding-horse-school.json) |
 | Riding Rhodri | 51164 | [51164-riding-rhodri.json](./51164-riding-rhodri.json) |
+| Riding Shotgun | 157430 | [157430-riding-shotgun.json](./157430-riding-shotgun.json) |
 | Riding Shotgun | 402431 | [402431-riding-shotgun.json](./402431-riding-shotgun.json) |
 | Riding Spirits | 23761 | [23761-riding-spirits.json](./23761-riding-spirits.json) |
 | Riding Stables 3D | 84840 | [84840-riding-stables-3d.json](./84840-riding-stables-3d.json) |
