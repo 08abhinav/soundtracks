@@ -678,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Shooty Bit | 32977 | [32977-a-shooty-bit.json](./32977-a-shooty-bit.json) |
 | A Short Death | 332977 | [332977-a-short-death.json](./332977-a-short-death.json) |
 | A Short Game About Nothing | 395167 | [395167-a-short-game-about-nothing.json](./395167-a-short-game-about-nothing.json) |
+| A Short Tale of Solitude | 169351 | [169351-a-short-tale-of-solitude.json](./169351-a-short-tale-of-solitude.json) |
 | A Show of Hands | 52563 | [52563-a-show-of-hands.json](./52563-a-show-of-hands.json) |
 | A Show of Kindness | 112465 | [112465-a-show-of-kindness.json](./112465-a-show-of-kindness.json) |
 | A Silent Statue | 274939 | [274939-a-silent-statue.json](./274939-a-silent-statue.json) |
@@ -2325,6 +2326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeolus Fighter | 236797 | [236797-aeolus-fighter.json](./236797-aeolus-fighter.json) |
 | Aeolus Fighter 2 | 231827 | [231827-aeolus-fighter-2.json](./231827-aeolus-fighter-2.json) |
 | Aeolus Fighter 3 | 265585 | [265585-aeolus-fighter-3.json](./265585-aeolus-fighter-3.json) |
+| Aeon Blood | 169383 | [169383-aeon-blood.json](./169383-aeon-blood.json) |
 | Aeon Flux | 15847 | [15847-aeon-flux.json](./15847-aeon-flux.json) |
 | Aeon Guard | 381196 | [381196-aeon-guard.json](./381196-aeon-guard.json) |
 | Aeon Nightmares | 282133 | [282133-aeon-nightmares.json](./282133-aeon-nightmares.json) |
@@ -2725,6 +2727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of 2048: World | 106373 | [106373-age-of-2048-world.json](./106373-age-of-2048-world.json) |
 | Age of Advent | 276208 | [276208-age-of-advent.json](./276208-age-of-advent.json) |
 | Age of AI: North America | 96931 | [96931-age-of-ai-north-america.json](./96931-age-of-ai-north-america.json) |
+| Age of Albuvia | 169486 | [169486-age-of-albuvia.json](./169486-age-of-albuvia.json) |
 | Age of Anthemius | 356226 | [356226-age-of-anthemius.json](./356226-age-of-anthemius.json) |
 | Age of Ants | 275672 | [275672-age-of-ants.json](./275672-age-of-ants.json) |
 | Age of Ashes: Dark Nuns | 349849 | [349849-age-of-ashes-dark-nuns.json](./349849-age-of-ashes-dark-nuns.json) |
@@ -2907,6 +2910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agents of Groove | 325644 | [325644-agents-of-groove.json](./325644-agents-of-groove.json) |
 | Agents of Mayhem: Johnny Gat | 118271 | [118271-agents-of-mayhem-johnny-gat.json](./118271-agents-of-mayhem-johnny-gat.json) |
 | Agents of Mayhem: Lazarus | 118270 | [118270-agents-of-mayhem-lazarus.json](./118270-agents-of-mayhem-lazarus.json) |
+| Agents of Mayhem: Lazarus Agent Pack | 169936 | [169936-agents-of-mayhem-lazarus-agent-pack.json](./169936-agents-of-mayhem-lazarus-agent-pack.json) |
 | Agents of SomeCompany | 253374 | [253374-agents-of-somecompany.json](./253374-agents-of-somecompany.json) |
 | Agents of Storm | 62566 | [62566-agents-of-storm.json](./62566-agents-of-storm.json) |
 | Agents: Biohunters | 120225 | [120225-agents-biohunters.json](./120225-agents-biohunters.json) |
@@ -2922,6 +2926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aggressive Inline | 3783 | [3783-aggressive-inline.json](./3783-aggressive-inline.json) |
 | Aggressive Robot Vacuum | 155687 | [155687-aggressive-robot-vacuum.json](./155687-aggressive-robot-vacuum.json) |
 | Aggressor | 13241 | [13241-aggressor.json](./13241-aggressor.json) |
+| Aggressor | 169956 | [169956-aggressor.json](./169956-aggressor.json) |
 | Aggressors of Dark Kombat | 39336 | [39336-aggressors-of-dark-kombat.json](./39336-aggressors-of-dark-kombat.json) |
 | Aggretsuko Office Rush | 311666 | [311666-aggretsuko-office-rush.json](./311666-aggretsuko-office-rush.json) |
 | Agharta: The Hollow Earth | 73280 | [73280-agharta-the-hollow-earth.json](./73280-agharta-the-hollow-earth.json) |
@@ -2949,6 +2954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agony: Lords of Hell | 211421 | [211421-agony-lords-of-hell.json](./211421-agony-lords-of-hell.json) |
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
 | Agora | 357804 | [357804-agora.json](./357804-agora.json) |
+| Agora: Soul of the Oracle | 169895 | [169895-agora-soul-of-the-oracle.json](./169895-agora-soul-of-the-oracle.json) |
 | Agoraphobia | 179011 | [179011-agoraphobia.json](./179011-agoraphobia.json) |
 | Agoraphobia: Knock Knock | 159759 | [159759-agoraphobia-knock-knock.json](./159759-agoraphobia-knock-knock.json) |
 | Agos | 206602 | [206602-agos.json](./206602-agos.json) |
@@ -3968,6 +3974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alian | 288751 | [288751-alian.json](./288751-alian.json) |
 | Alian Planet | 316188 | [316188-alian-planet.json](./316188-alian-planet.json) |
 | Alianator | 76197 | [76197-alianator.json](./76197-alianator.json) |
+| Alias | 169485 | [169485-alias.json](./169485-alias.json) |
 | Alias | 5719 | [5719-alias.json](./5719-alias.json) |
 | Alias 'The Magpie' | 138144 | [138144-alias-the-magpie.json](./138144-alias-the-magpie.json) |
 | Alias Episode 1 | 247084 | [247084-alias-episode-1.json](./247084-alias-episode-1.json) |
@@ -4113,6 +4120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Cabal | 62149 | [62149-alien-cabal.json](./62149-alien-cabal.json) |
 | Alien Cartographer | 374594 | [374594-alien-cartographer.json](./374594-alien-cartographer.json) |
 | Alien Caseno | 26571 | [26571-alien-caseno.json](./26571-alien-caseno.json) |
+| Alien Cat 3 | 169493 | [169493-alien-cat-3.json](./169493-alien-cat-3.json) |
 | Alien Cat 5 | 158658 | [158658-alien-cat-5.json](./158658-alien-cat-5.json) |
 | Alien Cat 6 | 157475 | [157475-alien-cat-6.json](./157475-alien-cat-6.json) |
 | Alien Challenge | 39524 | [39524-alien-challenge.json](./39524-alien-challenge.json) |
@@ -5882,6 +5890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Android Runner | 100820 | [100820-android-runner.json](./100820-android-runner.json) |
 | Andromalius | 110880 | [110880-andromalius.json](./110880-andromalius.json) |
 | AndroMan on the Moon | 268573 | [268573-androman-on-the-moon.json](./268573-androman-on-the-moon.json) |
+| Andromeda 2 Zombies | 169492 | [169492-andromeda-2-zombies.json](./169492-andromeda-2-zombies.json) |
 | Andromeda Acolytes | 211400 | [211400-andromeda-acolytes.json](./211400-andromeda-acolytes.json) |
 | Andromeda Mission | 15571 | [15571-andromeda-mission.json](./15571-andromeda-mission.json) |
 | Andromeda One | 292695 | [292695-andromeda-one.json](./292695-andromeda-one.json) |
@@ -10351,6 +10360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Recharged: Volume One | 324499 | [324499-atari-recharged-volume-one.json](./324499-atari-recharged-volume-one.json) |
 | Atari Recharged: Volume Two | 324500 | [324500-atari-recharged-volume-two.json](./324500-atari-recharged-volume-two.json) |
 | Atari Retro Handheld Console | 277413 | [277413-atari-retro-handheld-console.json](./277413-atari-retro-handheld-console.json) |
+| Atari Vault: 50 Game Add-On Pack | 169904 | [169904-atari-vault-50-game-add-on-pack.json](./169904-atari-vault-50-game-add-on-pack.json) |
 | Atari Video Cube | 12243 | [12243-atari-video-cube.json](./12243-atari-video-cube.json) |
 | Atari's Freeway for MSX-BASIC 2 | 267560 | [267560-ataris-freeway-for-msx-basic-2.json](./267560-ataris-freeway-for-msx-basic-2.json) |
 | Atax | 14274 | [14274-atax.json](./14274-atax.json) |
@@ -10432,6 +10442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream - Extra Area: Atelier Plachta | 199509 | [199509-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-extra-area-atelier-plachta.json](./199509-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-extra-area-atelier-plachta.json) |
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream - Ultimate Edition | 199870 | [199870-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-ultimate-edition.json](./199870-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-ultimate-edition.json) |
 | Atelier Sophie: The Alchemist of the Mysterious Book | 12633 | [12633-atelier-sophie-the-alchemist-of-the-mysterious-book.json](./12633-atelier-sophie-the-alchemist-of-the-mysterious-book.json) |
+| Atelier Tia | 169739 | [169739-atelier-tia.json](./169739-atelier-tia.json) |
 | Atelier Totori: The Adventurer of Arland | 7276 | [7276-atelier-totori-the-adventurer-of-arland.json](./7276-atelier-totori-the-adventurer-of-arland.json) |
 | Atelier Totori: The Adventurer of Arland DX | 105030 | [105030-atelier-totori-the-adventurer-of-arland-dx.json](./105030-atelier-totori-the-adventurer-of-arland-dx.json) |
 | Atelier Violet: The Alchemist of Gramnad 2 - The Memories of Ultramarine | 42755 | [42755-atelier-violet-the-alchemist-of-gramnad-2-the-memories-of-ultramarine.json](./42755-atelier-violet-the-alchemist-of-gramnad-2-the-memories-of-ultramarine.json) |
@@ -10529,6 +10540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlas Reactor: Ultimate Reactor Pack | 52429 | [52429-atlas-reactor-ultimate-reactor-pack.json](./52429-atlas-reactor-ultimate-reactor-pack.json) |
 | Atlas Wept | 169854 | [169854-atlas-wept.json](./169854-atlas-wept.json) |
 | Atlas: Groundbreaking Adventures | 109478 | [109478-atlas-groundbreaking-adventures.json](./109478-atlas-groundbreaking-adventures.json) |
+| Atlas: The Gift of Aramai | 169902 | [169902-atlas-the-gift-of-aramai.json](./169902-atlas-the-gift-of-aramai.json) |
 | Atlas' Fate: Between Light & Darkness | 182767 | [182767-atlas-fate-between-light-and-darkness.json](./182767-atlas-fate-between-light-and-darkness.json) |
 | Atled: Everlasting Song | 194540 | [194540-atled-everlasting-song.json](./194540-atled-everlasting-song.json) |
 | Atlus Collaboration Costume Set | 333387 | [333387-atlus-collaboration-costume-set.json](./333387-atlus-collaboration-costume-set.json) |
@@ -10573,6 +10585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Bot: Survivor of Planets | 297361 | [297361-atomic-bot-survivor-of-planets.json](./297361-atomic-bot-survivor-of-planets.json) |
 | Atomic Butcher: Homo Metabolicus | 25223 | [25223-atomic-butcher-homo-metabolicus.json](./25223-atomic-butcher-homo-metabolicus.json) |
 | Atomic Cannon | 227826 | [227826-atomic-cannon.json](./227826-atomic-cannon.json) |
+| Atomic Cards | 169481 | [169481-atomic-cards.json](./169481-atomic-cards.json) |
 | Atomic Cyclecar Racing | 192363 | [192363-atomic-cyclecar-racing.json](./192363-atomic-cyclecar-racing.json) |
 | Atomic Escape | 203879 | [203879-atomic-escape.json](./203879-atomic-escape.json) |
 | Atomic Girls | 286447 | [286447-atomic-girls.json](./286447-atomic-girls.json) |
