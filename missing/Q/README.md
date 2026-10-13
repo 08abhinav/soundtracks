@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarantine Zombies | 373349 | [373349-quarantine-zombies.json](./373349-quarantine-zombies.json) |
 | Quarantine Zone: The Last Check | 342760 | [342760-quarantine-zone-the-last-check.json](./342760-quarantine-zone-the-last-check.json) |
 | Quarantine-Z | 258541 | [258541-quarantine-z.json](./258541-quarantine-z.json) |
+| Quarantine: Global Pandemic | 164047 | [164047-quarantine-global-pandemic.json](./164047-quarantine-global-pandemic.json) |
 | Quarked up Omnibus: Clean - Fix - Escape | 372600 | [372600-quarked-up-omnibus-clean-fix-escape.json](./372600-quarked-up-omnibus-clean-fix-escape.json) |
 | Quarrel | 20659 | [20659-quarrel.json](./20659-quarrel.json) |
 | Quarrel Hill | 295330 | [295330-quarrel-hill.json](./295330-quarrel-hill.json) |
