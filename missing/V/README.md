@@ -1338,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Poker | 246382 | [246382-video-poker.json](./246382-video-poker.json) |
 | Video Poker | 272552 | [272552-video-poker.json](./272552-video-poker.json) |
 | Video Poker | 275222 | [275222-video-poker.json](./275222-video-poker.json) |
+| Video Poker at Aces Casino | 147765 | [147765-video-poker-at-aces-casino.json](./147765-video-poker-at-aces-casino.json) |
 | Video Poker Collection | 147886 | [147886-video-poker-collection.json](./147886-video-poker-collection.json) |
 | Video Poker Rogue | 312867 | [312867-video-poker-rogue.json](./312867-video-poker-rogue.json) |
 | Video Poker Simulator | 296012 | [296012-video-poker-simulator.json](./296012-video-poker-simulator.json) |
@@ -2024,6 +2025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivid | 415091 | [415091-vivid.json](./415091-vivid.json) |
 | ViViD | 61070 | [61070-vivid.json](./61070-vivid.json) |
 | Vivid Conceptions | 93152 | [93152-vivid-conceptions.json](./93152-vivid-conceptions.json) |
+| Vivid Knight | 148301 | [148301-vivid-knight.json](./148301-vivid-knight.json) |
 | Vivid Tale | 235817 | [235817-vivid-tale.json](./235817-vivid-tale.json) |
 | Vivid Twinkler: Frozen Flame | 377753 | [377753-vivid-twinkler-frozen-flame.json](./377753-vivid-twinkler-frozen-flame.json) |
 | Vivid Twinkler! | 377750 | [377750-vivid-twinkler.json](./377750-vivid-twinkler.json) |
