@@ -520,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's River | 344559 | [344559-queens-river.json](./344559-queens-river.json) |
 | Queen's Tales: Sins of the Past | 98522 | [98522-queens-tales-sins-of-the-past.json](./98522-queens-tales-sins-of-the-past.json) |
 | Queen's Tales: Sins of the Past HD | 108963 | [108963-queens-tales-sins-of-the-past-hd.json](./108963-queens-tales-sins-of-the-past-hd.json) |
+| Queen's Tales: The Beast and the Nightingale | 140280 | [140280-queens-tales-the-beast-and-the-nightingale.json](./140280-queens-tales-the-beast-and-the-nightingale.json) |
 | Queen's Tales: The Beast and the Nightingale - Collector's Edition | 29189 | [29189-queens-tales-the-beast-and-the-nightingale-collectors-edition.json](./29189-queens-tales-the-beast-and-the-nightingale-collectors-edition.json) |
 | Queen's Wish: The Conqueror | 109539 | [109539-queens-wish-the-conqueror.json](./109539-queens-wish-the-conqueror.json) |
 | Queen’s Wish: The Judgment | 387078 | [387078-queen-s-wish-the-judgment.json](./387078-queen-s-wish-the-judgment.json) |
