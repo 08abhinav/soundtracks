@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubercold | 119612 | [119612-ubercold.json](./119612-ubercold.json) |
 | UberFlight | 180056 | [180056-uberflight.json](./180056-uberflight.json) |
 | Ubergridder | 92521 | [92521-ubergridder.json](./92521-ubergridder.json) |
+| Uberlaufer | 149884 | [149884-uberlaufer.json](./149884-uberlaufer.json) |
 | Ubermensch | 293649 | [293649-ubermensch.json](./293649-ubermensch.json) |
 | Ubermosh Vol.3 | 31669 | [31669-ubermosh-vol-3.json](./31669-ubermosh-vol-3.json) |
 | Ubermosh Vol.5 | 38808 | [38808-ubermosh-vol-5.json](./38808-ubermosh-vol-5.json) |
@@ -1017,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Arena VR | 241493 | [241493-undead-arena-vr.json](./241493-undead-arena-vr.json) |
 | Undead At Dawn | 312825 | [312825-undead-at-dawn.json](./312825-undead-at-dawn.json) |
 | Undead Awakens | 342897 | [342897-undead-awakens.json](./342897-undead-awakens.json) |
+| Undead Battle Royale | 148320 | [148320-undead-battle-royale.json](./148320-undead-battle-royale.json) |
 | Undead Blackout | 34425 | [34425-undead-blackout.json](./34425-undead-blackout.json) |
 | Undead Bowling | 62273 | [62273-undead-bowling.json](./62273-undead-bowling.json) |
 | Undead Breakout | 196625 | [196625-undead-breakout.json](./196625-undead-breakout.json) |
