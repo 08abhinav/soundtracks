@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cable Swiper | 22363 | [22363-cable-swiper.json](./22363-cable-swiper.json) |
 | Cabling | 89472 | [89472-cabling.json](./89472-cabling.json) |
 | Cabral's Quest | 291176 | [291176-cabrals-quest.json](./291176-cabrals-quest.json) |
+| Cacau: Mistério da Ilha Perdida | 137896 | [137896-cacau-misterio-da-ilha-perdida.json](./137896-cacau-misterio-da-ilha-perdida.json) |
 | Caccia al Ladro | 305461 | [305461-caccia-al-ladro.json](./305461-caccia-al-ladro.json) |
 | Caccia al Ladro/Heathcliff | 305279 | [305279-caccia-al-ladro-heathcliff.json](./305279-caccia-al-ladro-heathcliff.json) |
 | Cache Overload | 212908 | [212908-cache-overload.json](./212908-cache-overload.json) |
@@ -5145,6 +5146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Chaos | 326293 | [326293-christmas-chaos.json](./326293-christmas-chaos.json) |
 | Christmas Clash | 277601 | [277601-christmas-clash.json](./277601-christmas-clash.json) |
 | Christmas Clicker: Idle Gift Builder | 113001 | [113001-christmas-clicker-idle-gift-builder.json](./113001-christmas-clicker-idle-gift-builder.json) |
+| Christmas Collection | 137910 | [137910-christmas-collection.json](./137910-christmas-collection.json) |
 | Christmas Corp | 284970 | [284970-christmas-corp.json](./284970-christmas-corp.json) |
 | Christmas Countdown | 303733 | [303733-christmas-countdown.json](./303733-christmas-countdown.json) |
 | Christmas Country | 45938 | [45938-christmas-country.json](./45938-christmas-country.json) |
@@ -11178,6 +11180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket Captain | 95430 | [95430-cricket-captain.json](./95430-cricket-captain.json) |
 | Cricket Captain 2018 | 103401 | [103401-cricket-captain-2018.json](./103401-cricket-captain-2018.json) |
 | Cricket Captain 2019 | 118777 | [118777-cricket-captain-2019.json](./118777-cricket-captain-2019.json) |
+| Cricket Captain 2020 | 137914 | [137914-cricket-captain-2020.json](./137914-cricket-captain-2020.json) |
 | Cricket Captain 2021 | 156212 | [156212-cricket-captain-2021.json](./156212-cricket-captain-2021.json) |
 | Cricket Captain 2023 | 252242 | [252242-cricket-captain-2023.json](./252242-cricket-captain-2023.json) |
 | Cricket Captain 2024 | 302184 | [302184-cricket-captain-2024.json](./302184-cricket-captain-2024.json) |
