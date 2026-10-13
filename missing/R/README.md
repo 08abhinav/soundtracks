@@ -3118,6 +3118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relic Raiders | 70986 | [70986-relic-raiders.json](./70986-relic-raiders.json) |
 | Relic Runway | 181312 | [181312-relic-runway.json](./181312-relic-runway.json) |
 | Relic Rush | 304253 | [304253-relic-rush.json](./304253-relic-rush.json) |
+| Relic Splatter | 154239 | [154239-relic-splatter.json](./154239-relic-splatter.json) |
 | Relicborn | 197212 | [197212-relicborn.json](./197212-relicborn.json) |
 | Relicfall | 415078 | [415078-relicfall.json](./415078-relicfall.json) |
 | Relics 2: The Crusader's Tomb | 195236 | [195236-relics-2-the-crusaders-tomb.json](./195236-relics-2-the-crusaders-tomb.json) |
@@ -3542,6 +3543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue: Heroes in Action | 76718 | [76718-rescue-heroes-in-action.json](./76718-rescue-heroes-in-action.json) |
 | Rescue! Dropkick on my Devil | 283239 | [283239-rescue-dropkick-on-my-devil.json](./283239-rescue-dropkick-on-my-devil.json) |
 | Rescues | 202027 | [202027-rescues.json](./202027-rescues.json) |
+| Research and Destroy | 154274 | [154274-research-and-destroy.json](./154274-research-and-destroy.json) |
 | Research Station | 273140 | [273140-research-station.json](./273140-research-station.json) |
 | Research Story | 168637 | [168637-research-story.json](./168637-research-story.json) |
 | Researcher | 143476 | [143476-researcher.json](./143476-researcher.json) |
@@ -4087,6 +4089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retwined | 178945 | [178945-retwined.json](./178945-retwined.json) |
 | Reunion | 12471 | [12471-reunion.json](./12471-reunion.json) |
 | Reunion | 135873 | [135873-reunion.json](./135873-reunion.json) |
+| Reunion | 154277 | [154277-reunion.json](./154277-reunion.json) |
 | Reunion | 281565 | [281565-reunion.json](./281565-reunion.json) |
 | Reunion | 323776 | [323776-reunion.json](./323776-reunion.json) |
 | Reunion | 388703 | [388703-reunion.json](./388703-reunion.json) |
@@ -5583,6 +5586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roads of Time | 129525 | [129525-roads-of-time.json](./129525-roads-of-time.json) |
 | Roads Yet Traveled | 359048 | [359048-roads-yet-traveled.json](./359048-roads-yet-traveled.json) |
 | Roadside | 286079 | [286079-roadside.json](./286079-roadside.json) |
+| Roadside Assistance Simulator | 154268 | [154268-roadside-assistance-simulator.json](./154268-roadside-assistance-simulator.json) |
 | Roadside Assistance Simulator | 36317 | [36317-roadside-assistance-simulator.json](./36317-roadside-assistance-simulator.json) |
 | Roadsters '98 | 208859 | [208859-roadsters-98.json](./208859-roadsters-98.json) |
 | Roadtrip | 266233 | [266233-roadtrip.json](./266233-roadtrip.json) |
@@ -8275,6 +8279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian bank - card game | 106568 | [106568-russian-bank-card-game.json](./106568-russian-bank-card-game.json) |
 | Russian Car Driver | 30142 | [30142-russian-car-driver.json](./30142-russian-car-driver.json) |
 | Russian Car Driver: UAZ Hunter | 255752 | [255752-russian-car-driver-uaz-hunter.json](./255752-russian-car-driver-uaz-hunter.json) |
+| Russian City Sim | 154244 | [154244-russian-city-sim.json](./154244-russian-city-sim.json) |
 | Russian Dancing Men | 65597 | [65597-russian-dancing-men.json](./65597-russian-dancing-men.json) |
 | Russian Driver | 197376 | [197376-russian-driver.json](./197376-russian-driver.json) |
 | Russian Drunken Boxers | 158697 | [158697-russian-drunken-boxers.json](./158697-russian-drunken-boxers.json) |
@@ -8334,6 +8339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rust: Console Edition - Day One | 146116 | [146116-rust-console-edition-day-one.json](./146116-rust-console-edition-day-one.json) |
 | Rust: Console Edition - New Cobalt Employee Welcome Pack | 259752 | [259752-rust-console-edition-new-cobalt-employee-welcome-pack.json](./259752-rust-console-edition-new-cobalt-employee-welcome-pack.json) |
 | Rust: Console Edition - Warhammer 40,000 Pack | 402506 | [402506-rust-console-edition-warhammer-40-000-pack.json](./402506-rust-console-edition-warhammer-40-000-pack.json) |
+| Rust: Voice Props Pack | 154246 | [154246-rust-voice-props-pack.json](./154246-rust-voice-props-pack.json) |
 | Rustbucket Rumble | 35699 | [35699-rustbucket-rumble.json](./35699-rustbucket-rumble.json) |
 | Rustbuckets | 415297 | [415297-rustbuckets.json](./415297-rustbuckets.json) |
 | Rusted | 340945 | [340945-rusted.json](./340945-rusted.json) |
