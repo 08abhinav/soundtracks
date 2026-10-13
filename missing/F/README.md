@@ -1291,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Brothel Manager | 359037 | [359037-fantasy-brothel-manager.json](./359037-fantasy-brothel-manager.json) |
 | Fantasy Burger | 354537 | [354537-fantasy-burger.json](./354537-fantasy-burger.json) |
 | Fantasy Cascade: Episode 1 - Overspill | 218166 | [218166-fantasy-cascade-episode-1-overspill.json](./218166-fantasy-cascade-episode-1-overspill.json) |
+| Fantasy Checkers | 147207 | [147207-fantasy-checkers.json](./147207-fantasy-checkers.json) |
 | Fantasy Clash | 283847 | [283847-fantasy-clash.json](./283847-fantasy-clash.json) |
 | Fantasy Clash | 54738 | [54738-fantasy-clash.json](./54738-fantasy-clash.json) |
 | Fantasy Clicker | 336642 | [336642-fantasy-clicker.json](./336642-fantasy-clicker.json) |
@@ -1502,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Away Train | 150527 | [150527-far-away-train.json](./150527-far-away-train.json) |
 | Far Cnight | 99729 | [99729-far-cnight.json](./99729-far-cnight.json) |
 | Far Cry 2 | 317303 | [317303-far-cry-2.json](./317303-far-cry-2.json) |
+| Far Cry 2 + Ghost Recon Advanced Warfighter | 147227 | [147227-far-cry-2-ghost-recon-advanced-warfighter.json](./147227-far-cry-2-ghost-recon-advanced-warfighter.json) |
 | Far Cry 2: Fortune's Edition | 46633 | [46633-far-cry-2-fortunes-edition.json](./46633-far-cry-2-fortunes-edition.json) |
 | Far Cry 3 + 4 Double Pack | 136783 | [136783-far-cry-3-4-double-pack.json](./136783-far-cry-3-4-double-pack.json) |
 | Far Cry 3: High Tides | 284318 | [284318-far-cry-3-high-tides.json](./284318-far-cry-3-high-tides.json) |
@@ -6474,6 +6476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Hill: Surgery | 101764 | [101764-forgotten-hill-surgery.json](./101764-forgotten-hill-surgery.json) |
 | Forgotten Hill: The Wardrobe | 340235 | [340235-forgotten-hill-the-wardrobe.json](./340235-forgotten-hill-the-wardrobe.json) |
 | Forgotten Hill: The Wardrobe - Other Friends | 393167 | [393167-forgotten-hill-the-wardrobe-other-friends.json](./393167-forgotten-hill-the-wardrobe-other-friends.json) |
+| Forgotten Hope | 147234 | [147234-forgotten-hope.json](./147234-forgotten-hope.json) |
 | Forgotten Hope | 319675 | [319675-forgotten-hope.json](./319675-forgotten-hope.json) |
 | Forgotten Land | 53096 | [53096-forgotten-land.json](./53096-forgotten-land.json) |
 | Forgotten Lands: First Colony | 64724 | [64724-forgotten-lands-first-colony.json](./64724-forgotten-lands-first-colony.json) |
@@ -7416,6 +7419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frantic | 292087 | [292087-frantic.json](./292087-frantic.json) |
 | Frantic Birdies | 357849 | [357849-frantic-birdies.json](./357849-frantic-birdies.json) |
 | Frantic Dimension | 113514 | [113514-frantic-dimension.json](./113514-frantic-dimension.json) |
+| Frantic Fanfic | 147175 | [147175-frantic-fanfic.json](./147175-frantic-fanfic.json) |
 | Frantic Flea | 42620 | [42620-frantic-flea.json](./42620-frantic-flea.json) |
 | Frantic Fred | 281669 | [281669-frantic-fred.json](./281669-frantic-fred.json) |
 | Frantic Freddie | 178989 | [178989-frantic-freddie.json](./178989-frantic-freddie.json) |
@@ -7963,6 +7967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Game for You | 227908 | [227908-frog-game-for-you.json](./227908-frog-game-for-you.json) |
 | Frog Gift | 229261 | [229261-frog-gift.json](./229261-frog-gift.json) |
 | Frog Golf | 202694 | [202694-frog-golf.json](./202694-frog-golf.json) |
+| Frog Hands Steve | 147204 | [147204-frog-hands-steve.json](./147204-frog-hands-steve.json) |
 | Frog Heist | 342202 | [342202-frog-heist.json](./342202-frog-heist.json) |
 | Frog in a Blender | 282803 | [282803-frog-in-a-blender.json](./282803-frog-in-a-blender.json) |
 | Frog in the Fog | 393630 | [393630-frog-in-the-fog.json](./393630-frog-in-the-fog.json) |
@@ -8479,6 +8484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FTB Evolution | 355091 | [355091-ftb-evolution.json](./355091-ftb-evolution.json) |
 | FTB Oceanblock | 234178 | [234178-ftb-oceanblock.json](./234178-ftb-oceanblock.json) |
 | FTD: Fixin' to Die | 177560 | [177560-ftd-fixin-to-die.json](./177560-ftd-fixin-to-die.json) |
+| FTD2 | 147180 | [147180-ftd2.json](./147180-ftd2.json) |
 | FTL: Advanced Edition | 20098 | [20098-ftl-advanced-edition.json](./20098-ftl-advanced-edition.json) |
 | FTL: Multiverse | 203369 | [203369-ftl-multiverse.json](./203369-ftl-multiverse.json) |
 | Fu Sha 3: Night Clinic | 405552 | [405552-fu-sha-3-night-clinic.json](./405552-fu-sha-3-night-clinic.json) |
