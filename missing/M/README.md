@@ -2909,6 +2909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Odyssey | 32929 | [32929-mars-odyssey.json](./32929-mars-odyssey.json) |
 | Mars or Die! | 104047 | [104047-mars-or-die.json](./104047-mars-or-die.json) |
 | Mars Power Industries Deluxe | 122168 | [122168-mars-power-industries-deluxe.json](./122168-mars-power-industries-deluxe.json) |
+| Mars Quest | 147220 | [147220-mars-quest.json](./147220-mars-quest.json) |
 | Mars Raid | 245455 | [245455-mars-raid.json](./245455-mars-raid.json) |
 | Mars Red: Edge of the Nightmare | 153384 | [153384-mars-red-edge-of-the-nightmare.json](./153384-mars-red-edge-of-the-nightmare.json) |
 | Mars Saga | 70980 | [70980-mars-saga.json](./70980-mars-saga.json) |
@@ -3431,6 +3432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Illusion Express: Shuffle Games | 72941 | [72941-master-of-illusion-express-shuffle-games.json](./72941-master-of-illusion-express-shuffle-games.json) |
 | Master of Ives | 284879 | [284879-master-of-ives.json](./284879-master-of-ives.json) |
 | Master of Luna | 249867 | [249867-master-of-luna.json](./249867-master-of-luna.json) |
+| Master of Magic | 147189 | [147189-master-of-magic.json](./147189-master-of-magic.json) |
 | Master of Magic | 7548 | [7548-master-of-magic.json](./7548-master-of-magic.json) |
 | Master of Magic: Rise of the Soultrapped | 256261 | [256261-master-of-magic-rise-of-the-soultrapped.json](./256261-master-of-magic-rise-of-the-soultrapped.json) |
 | Master of Magic: Scourge of the Seas | 280347 | [280347-master-of-magic-scourge-of-the-seas.json](./280347-master-of-magic-scourge-of-the-seas.json) |
@@ -6260,6 +6262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaball: Red Astro Pack | 293418 | [293418-metaball-red-astro-pack.json](./293418-metaball-red-astro-pack.json) |
 | Metaball: Space Guide Pack | 409071 | [409071-metaball-space-guide-pack.json](./409071-metaball-space-guide-pack.json) |
 | Metabolis | 237277 | [237277-metabolis.json](./237277-metabolis.json) |
+| Metacell: Genesis Arcade | 147233 | [147233-metacell-genesis-arcade.json](./147233-metacell-genesis-arcade.json) |
 | MetaChampions | 131988 | [131988-metachampions.json](./131988-metachampions.json) |
 | Metachromium | 164239 | [164239-metachromium.json](./164239-metachromium.json) |
 | MetaCity M | 220334 | [220334-metacity-m.json](./220334-metacity-m.json) |
@@ -6362,6 +6365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Heads | 121494 | [121494-metal-heads.json](./121494-metal-heads.json) |
 | Metal Hunter | 189202 | [189202-metal-hunter.json](./189202-metal-hunter.json) |
 | Metal Hunter | 392783 | [392783-metal-hunter.json](./392783-metal-hunter.json) |
+| Metal Jacket | 147172 | [147172-metal-jacket.json](./147172-metal-jacket.json) |
 | Metal Knight | 132753 | [132753-metal-knight.json](./132753-metal-knight.json) |
 | Metal Knight: Mission - Terminate Resistance | 167188 | [167188-metal-knight-mission-terminate-resistance.json](./167188-metal-knight-mission-terminate-resistance.json) |
 | Metal Knights | 237344 | [237344-metal-knights.json](./237344-metal-knights.json) |
@@ -8413,6 +8417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minibus Simulator Vietnam | 384616 | [384616-minibus-simulator-vietnam.json](./384616-minibus-simulator-vietnam.json) |
 | MiniCar Extreme: Car Driving Racing (Truck, Suv, Sedan, Cars) | 242665 | [242665-minicar-extreme-car-driving-racing-truck-suv-sedan-cars.json](./242665-minicar-extreme-car-driving-racing-truck-suv-sedan-cars.json) |
 | MiniCar Race | 104840 | [104840-minicar-race.json](./104840-minicar-race.json) |
+| MiniChef | 147203 | [147203-minichef.json](./147203-minichef.json) |
 | MiniChess by Kasparov | 174239 | [174239-minichess-by-kasparov.json](./174239-minichess-by-kasparov.json) |
 | Minicology | 150771 | [150771-minicology.json](./150771-minicology.json) |
 | Miniconomy | 108966 | [108966-miniconomy.json](./108966-miniconomy.json) |
@@ -9824,6 +9829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mompreneur: Pizza Cooking Life Sim | 127829 | [127829-mompreneur-pizza-cooking-life-sim.json](./127829-mompreneur-pizza-cooking-life-sim.json) |
 | Mon | 185461 | [185461-mon.json](./185461-mon.json) |
 | Mon Coach Personnel: J'ameliore Mon Anglais | 210124 | [210124-mon-coach-personnel-jameliore-mon-anglais.json](./210124-mon-coach-personnel-jameliore-mon-anglais.json) |
+| Mon Poulain 3D | 147219 | [147219-mon-poulain-3d.json](./147219-mon-poulain-3d.json) |
 | Mon-cuties for All | 134679 | [134679-mon-cuties-for-all.json](./134679-mon-cuties-for-all.json) |
 | Mona | 201783 | [201783-mona.json](./201783-mona.json) |
 | Mona | 212161 | [212161-mona.json](./212161-mona.json) |
@@ -13001,6 +13007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV: Untamed | 248556 | [248556-mx-vs-atv-untamed.json](./248556-mx-vs-atv-untamed.json) |
 | MX vs. ATV: Untamed | 249272 | [249272-mx-vs-atv-untamed.json](./249272-mx-vs-atv-untamed.json) |
 | MX vs. ATV: Untamed | 5028 | [5028-mx-vs-atv-untamed.json](./5028-mx-vs-atv-untamed.json) |
+| MX vs. ATV: Untamed + Juiced 2 Double pack | 147200 | [147200-mx-vs-atv-untamed-juiced-2-double-pack.json](./147200-mx-vs-atv-untamed-juiced-2-double-pack.json) |
 | MX vs.. ATV All Out: 2018 Yamaha YXZ1000R SS SE | 315211 | [315211-mx-vs-atv-all-out-2018-yamaha-yxz1000r-ss-se.json](./315211-mx-vs-atv-all-out-2018-yamaha-yxz1000r-ss-se.json) |
 | MXGP 2019: The Official Motocross Videogame | 120126 | [120126-mxgp-2019-the-official-motocross-videogame.json](./120126-mxgp-2019-the-official-motocross-videogame.json) |
 | MXGP 2020: The Official Motocross Videogame | 139939 | [139939-mxgp-2020-the-official-motocross-videogame.json](./139939-mxgp-2020-the-official-motocross-videogame.json) |
