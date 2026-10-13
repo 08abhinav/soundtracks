@@ -294,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safari Zone | 158564 | [158564-safari-zone.json](./158564-safari-zone.json) |
 | Safari: I-Evolution | 239635 | [239635-safari-i-evolution.json](./239635-safari-i-evolution.json) |
 | Safe Climbing | 127831 | [127831-safe-climbing.json](./127831-safe-climbing.json) |
+| Safe Cracker | 179084 | [179084-safe-cracker.json](./179084-safe-cracker.json) |
 | Safe Cracker | 340547 | [340547-safe-cracker.json](./340547-safe-cracker.json) |
 | Safe Harbor | 181131 | [181131-safe-harbor.json](./181131-safe-harbor.json) |
 | Safe Haven | 261168 | [261168-safe-haven.json](./261168-safe-haven.json) |
@@ -657,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salamander Capital | 257549 | [257549-salamander-capital.json](./257549-salamander-capital.json) |
 | Salamander Deluxe Pack Plus | 58294 | [58294-salamander-deluxe-pack-plus.json](./58294-salamander-deluxe-pack-plus.json) |
 | Salamander Portable | 42869 | [42869-salamander-portable.json](./42869-salamander-portable.json) |
+| Salamander: The Lost Kitty | 178893 | [178893-salamander-the-lost-kitty.json](./178893-salamander-the-lost-kitty.json) |
 | Salann | 379033 | [379033-salann.json](./379033-salann.json) |
 | Salary Man Champ Tatakau Salary man | 383718 | [383718-salary-man-champ-tatakau-salary-man.json](./383718-salary-man-champ-tatakau-salary-man.json) |
 | Salary Man Escape | 104678 | [104678-salary-man-escape.json](./104678-salary-man-escape.json) |
@@ -2314,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scramble Up! | 324316 | [324316-scramble-up.json](./324316-scramble-up.json) |
 | Scrambled | 58163 | [58163-scrambled.json](./58163-scrambled.json) |
 | Scrambled Egg | 40198 | [40198-scrambled-egg.json](./40198-scrambled-egg.json) |
+| Scrambled: Syd City | 178896 | [178896-scrambled-syd-city.json](./178896-scrambled-syd-city.json) |
 | Scramblies | 58181 | [58181-scramblies.json](./58181-scramblies.json) |
 | Scrandle | 342592 | [342592-scrandle.json](./342592-scrandle.json) |
 | Scrap Age | 280468 | [280468-scrap-age.json](./280468-scrap-age.json) |
@@ -6393,6 +6396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sick Bricks | 23925 | [23925-sick-bricks.json](./23925-sick-bricks.json) |
 | Sick Coaster | 82321 | [82321-sick-coaster.json](./82321-sick-coaster.json) |
 | Sick Generation: The Ghost of the Crane Catcher | 383974 | [383974-sick-generation-the-ghost-of-the-crane-catcher.json](./383974-sick-generation-the-ghost-of-the-crane-catcher.json) |
+| Sick Love | 179080 | [179080-sick-love.json](./179080-sick-love.json) |
 | Sick Love - An RPG Maker Novel | 114166 | [114166-sick-love-an-rpg-maker-novel.json](./114166-sick-love-an-rpg-maker-novel.json) |
 | Sick Samurai | 317516 | [317516-sick-samurai.json](./317516-sick-samurai.json) |
 | Sick Way | 127087 | [127087-sick-way.json](./127087-sick-way.json) |
@@ -8927,6 +8931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot! Pro 2 Advance: Go Go Juggler & New Tairyou | 49814 | [49814-slot-pro-2-advance-go-go-juggler-and-new-tairyou.json](./49814-slot-pro-2-advance-go-go-juggler-and-new-tairyou.json) |
 | Slot! Pro Advance: Takarabune & Ooedo Sakura Fubuki 2 | 49813 | [49813-slot-pro-advance-takarabune-and-ooedo-sakura-fubuki-2.json](./49813-slot-pro-advance-takarabune-and-ooedo-sakura-fubuki-2.json) |
 | Slotbound | 411536 | [411536-slotbound.json](./411536-slotbound.json) |
+| Sloth Story | 178891 | [178891-sloth-story.json](./178891-sloth-story.json) |
 | Slotpark | 360765 | [360765-slotpark.json](./360765-slotpark.json) |
 | Slots | 287558 | [287558-slots.json](./287558-slots.json) |
 | Slots & Slaughter | 411731 | [411731-slots-and-slaughter.json](./411731-slots-and-slaughter.json) |
