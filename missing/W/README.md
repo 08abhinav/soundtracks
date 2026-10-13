@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky World of Sports | 5260 | [5260-wacky-world-of-sports.json](./5260-wacky-world-of-sports.json) |
 | Wacky Zoo GP | 66926 | [66926-wacky-zoo-gp.json](./66926-wacky-zoo-gp.json) |
 | Waco Resurrection | 308429 | [308429-waco-resurrection.json](./308429-waco-resurrection.json) |
+| Wadanohara and the Great Blue Sea -Reboot- | 142190 | [142190-wadanohara-and-the-great-blue-sea-reboot.json](./142190-wadanohara-and-the-great-blue-sea-reboot.json) |
 | Waddle Dev Vs Kirby Dark Dawn | 395700 | [395700-waddle-dev-vs-kirby-dark-dawn.json](./395700-waddle-dev-vs-kirby-dark-dawn.json) |
 | Waddle Home | 25568 | [25568-waddle-home.json](./25568-waddle-home.json) |
 | Waddle Knight | 321437 | [321437-waddle-knight.json](./321437-waddle-knight.json) |
@@ -1737,6 +1738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wavy trip | 89364 | [89364-wavy-trip.json](./89364-wavy-trip.json) |
 | Wawa Neko no Shima | 206175 | [206175-wawa-neko-no-shima.json](./206175-wawa-neko-no-shima.json) |
 | Wawa United | 150598 | [150598-wawa-united.json](./150598-wawa-united.json) |
+| Wawary | 141620 | [141620-wawary.json](./141620-wawary.json) |
 | Wax Museum | 187454 | [187454-wax-museum.json](./187454-wax-museum.json) |
 | Wax Museum: Seek and Find - Mystery Hidden Object Adventure | 170809 | [170809-wax-museum-seek-and-find-mystery-hidden-object-adventure.json](./170809-wax-museum-seek-and-find-mystery-hidden-object-adventure.json) |
 | Waxwing Radio | 298829 | [298829-waxwing-radio.json](./298829-waxwing-radio.json) |
@@ -2543,6 +2545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Was Home | 374148 | [374148-what-was-home.json](./374148-what-was-home.json) |
 | What We Carry | 386478 | [386478-what-we-carry.json](./386478-what-we-carry.json) |
 | What We Carry | 405565 | [405565-what-we-carry.json](./405565-what-we-carry.json) |
+| What We Pretend to Be | 142173 | [142173-what-we-pretend-to-be.json](./142173-what-we-pretend-to-be.json) |
 | What would Google say? | 108370 | [108370-what-would-google-say.json](./108370-what-would-google-say.json) |
 | What Would You Choose? Rather | 91145 | [91145-what-would-you-choose-rather.json](./91145-what-would-you-choose-rather.json) |
 | What Would You Do? | 31396 | [31396-what-would-you-do.json](./31396-what-would-you-do.json) |
