@@ -991,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctity | 282551 | [282551-sanctity.json](./282551-sanctity.json) |
 | Sanctuaries | 404390 | [404390-sanctuaries.json](./404390-sanctuaries.json) |
 | Sanctuarium Online | 191858 | [191858-sanctuarium-online.json](./191858-sanctuarium-online.json) |
+| Sanctuary | 178333 | [178333-sanctuary.json](./178333-sanctuary.json) |
 | Sanctuary Island | 150772 | [150772-sanctuary-island.json](./150772-sanctuary-island.json) |
 | Sanctuary Saga | 233575 | [233575-sanctuary-saga.json](./233575-sanctuary-saga.json) |
 | Sanctuary VR | 30182 | [30182-sanctuary-vr.json](./30182-sanctuary-vr.json) |
@@ -12168,6 +12169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound Horizons | 304882 | [304882-sound-horizons.json](./304882-sound-horizons.json) |
 | Sound Lock | 261785 | [261785-sound-lock.json](./261785-sound-lock.json) |
 | Sound Mind | 275662 | [275662-sound-mind.json](./275662-sound-mind.json) |
+| Sound Novel Evolution 2: Kamaitachi no Yoru Tokubetsu-hen | 178334 | [178334-sound-novel-evolution-2-kamaitachi-no-yoru-tokubetsu-hen.json](./178334-sound-novel-evolution-2-kamaitachi-no-yoru-tokubetsu-hen.json) |
 | Sound of Drop: Fall into Poison | 19279 | [19279-sound-of-drop-fall-into-poison.json](./19279-sound-of-drop-fall-into-poison.json) |
 | Sound of Horses | 357859 | [357859-sound-of-horses.json](./357859-sound-of-horses.json) |
 | Sound of Summer Thunder | 360669 | [360669-sound-of-summer-thunder.json](./360669-sound-of-summer-thunder.json) |
@@ -14357,6 +14359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splat Death Salad | 238077 | [238077-splat-death-salad.json](./238077-splat-death-salad.json) |
 | Splat Renegade Paintball | 47312 | [47312-splat-renegade-paintball.json](./47312-splat-renegade-paintball.json) |
 | Splat Splat | 348990 | [348990-splat-splat.json](./348990-splat-splat.json) |
+| Splat! | 178344 | [178344-splat.json](./178344-splat.json) |
 | Splat! | 280167 | [280167-splat.json](./280167-splat.json) |
 | Splat! | 46870 | [46870-splat.json](./46870-splat.json) |
 | Splatformer | 191166 | [191166-splatformer.json](./191166-splatformer.json) |
@@ -21346,15 +21349,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Deluxe | 230369 | [230369-super-smash-bros-deluxe.json](./230369-super-smash-bros-deluxe.json) |
 | Super Smash Bros. for Nintendo 3DS | 9621 | [9621-super-smash-bros-for-nintendo-3ds.json](./9621-super-smash-bros-for-nintendo-3ds.json) |
 | Super Smash Bros. for Nintendo 3DS: Ashley Hat + Ashley Outfit | 325073 | [325073-super-smash-bros-for-nintendo-3ds-ashley-hat-ashley-outfit.json](./325073-super-smash-bros-for-nintendo-3ds-ashley-hat-ashley-outfit.json) |
+| Super Smash Bros. for Nintendo 3DS: Bayonetta | 178321 | [178321-super-smash-bros-for-nintendo-3ds-bayonetta.json](./178321-super-smash-bros-for-nintendo-3ds-bayonetta.json) |
+| Super Smash Bros. for Nintendo 3DS: Cloud | 178323 | [178323-super-smash-bros-for-nintendo-3ds-cloud.json](./178323-super-smash-bros-for-nintendo-3ds-cloud.json) |
+| Super Smash Bros. for Nintendo 3DS: Corrin | 178319 | [178319-super-smash-bros-for-nintendo-3ds-corrin.json](./178319-super-smash-bros-for-nintendo-3ds-corrin.json) |
 | Super Smash Bros. for Nintendo 3DS: Frozen WarioWare Inc. | 342697 | [342697-super-smash-bros-for-nintendo-3ds-frozen-warioware-inc.json](./342697-super-smash-bros-for-nintendo-3ds-frozen-warioware-inc.json) |
 | Super Smash Bros. for Nintendo 3DS: Geno Hat + Geno Outfit | 325077 | [325077-super-smash-bros-for-nintendo-3ds-geno-hat-geno-outfit.json](./325077-super-smash-bros-for-nintendo-3ds-geno-hat-geno-outfit.json) |
 | Super Smash Bros. for Nintendo 3DS: Meta Crystal | 342695 | [342695-super-smash-bros-for-nintendo-3ds-meta-crystal.json](./342695-super-smash-bros-for-nintendo-3ds-meta-crystal.json) |
+| Super Smash Bros. for Nintendo 3DS: Roy | 178314 | [178314-super-smash-bros-for-nintendo-3ds-roy.json](./178314-super-smash-bros-for-nintendo-3ds-roy.json) |
+| Super Smash Bros. for Nintendo 3DS: Ryu | 178316 | [178316-super-smash-bros-for-nintendo-3ds-ryu.json](./178316-super-smash-bros-for-nintendo-3ds-ryu.json) |
 | Super Smash Bros. for Nintendo 3DS: Stage Bundle | 325074 | [325074-super-smash-bros-for-nintendo-3ds-stage-bundle.json](./325074-super-smash-bros-for-nintendo-3ds-stage-bundle.json) |
 | Super Smash Bros. for Nintendo 3DS: Temple | 342696 | [342696-super-smash-bros-for-nintendo-3ds-temple.json](./342696-super-smash-bros-for-nintendo-3ds-temple.json) |
 | Super Smash Bros. for Wii U: Ashley Hat + Ashley Outfit | 325072 | [325072-super-smash-bros-for-wii-u-ashley-hat-ashley-outfit.json](./325072-super-smash-bros-for-wii-u-ashley-hat-ashley-outfit.json) |
+| Super Smash Bros. for Wii U: Bayonetta | 178320 | [178320-super-smash-bros-for-wii-u-bayonetta.json](./178320-super-smash-bros-for-wii-u-bayonetta.json) |
 | Super Smash Bros. for Wii U: Better Woolly World | 342694 | [342694-super-smash-bros-for-wii-u-better-woolly-world.json](./342694-super-smash-bros-for-wii-u-better-woolly-world.json) |
+| Super Smash Bros. for Wii U: Cloud | 178322 | [178322-super-smash-bros-for-wii-u-cloud.json](./178322-super-smash-bros-for-wii-u-cloud.json) |
+| Super Smash Bros. for Wii U: Corrin | 178318 | [178318-super-smash-bros-for-wii-u-corrin.json](./178318-super-smash-bros-for-wii-u-corrin.json) |
 | Super Smash Bros. for Wii U: Geno Hat + Geno Outfit | 325076 | [325076-super-smash-bros-for-wii-u-geno-hat-geno-outfit.json](./325076-super-smash-bros-for-wii-u-geno-hat-geno-outfit.json) |
 | Super Smash Bros. for Wii U: Igglybuff moveset | 343431 | [343431-super-smash-bros-for-wii-u-igglybuff-moveset.json](./343431-super-smash-bros-for-wii-u-igglybuff-moveset.json) |
+| Super Smash Bros. for Wii U: Ryu | 178315 | [178315-super-smash-bros-for-wii-u-ryu.json](./178315-super-smash-bros-for-wii-u-ryu.json) |
 | Super Smash Bros. for Wii U: Stage Bundle | 325075 | [325075-super-smash-bros-for-wii-u-stage-bundle.json](./325075-super-smash-bros-for-wii-u-stage-bundle.json) |
 | Super Smash Bros. for Wii U: Wario's Shoulder Bash from Brawl | 343430 | [343430-super-smash-bros-for-wii-u-warios-shoulder-bash-from-brawl.json](./343430-super-smash-bros-for-wii-u-warios-shoulder-bash-from-brawl.json) |
 | Super Smash Bros. Infinite | 234117 | [234117-super-smash-bros-infinite.json](./234117-super-smash-bros-infinite.json) |
@@ -21934,6 +21946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperStar Pledis | 124619 | [124619-superstar-pledis.json](./124619-superstar-pledis.json) |
 | Superstar Shootout | 231631 | [231631-superstar-shootout.json](./231631-superstar-shootout.json) |
 | Superstar Streetz | 186318 | [186318-superstar-streetz.json](./186318-superstar-streetz.json) |
+| Superstar YG | 178345 | [178345-superstar-yg.json](./178345-superstar-yg.json) |
 | Superstars V8: Next Challenge | 20499 | [20499-superstars-v8-next-challenge.json](./20499-superstars-v8-next-challenge.json) |
 | Superstein | 235865 | [235865-superstein.json](./235865-superstein.json) |
 | Superstition BlackCat | 330331 | [330331-superstition-blackcat.json](./330331-superstition-blackcat.json) |
