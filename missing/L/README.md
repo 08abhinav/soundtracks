@@ -2801,6 +2801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberation Circuit | 185085 | [185085-liberation-circuit.json](./185085-liberation-circuit.json) |
 | Liberation Day | 70461 | [70461-liberation-day.json](./70461-liberation-day.json) |
 | Liberation Maiden: SIN | 52548 | [52548-liberation-maiden-sin.json](./52548-liberation-maiden-sin.json) |
+| Liberation Mutagenix | 166829 | [166829-liberation-mutagenix.json](./166829-liberation-mutagenix.json) |
 | Liberator | 159066 | [159066-liberator.json](./159066-liberator.json) |
 | Liberators' Chronicles | 266779 | [266779-liberators-chronicles.json](./266779-liberators-chronicles.json) |
 | LiberoGrande | 40372 | [40372-liberogrande.json](./40372-liberogrande.json) |
@@ -3863,6 +3864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Green Man | 55099 | [55099-little-green-man.json](./55099-little-green-man.json) |
 | Little Grimm | 390706 | [390706-little-grimm.json](./390706-little-grimm.json) |
 | Little Harvest | 254783 | [254783-little-harvest.json](./254783-little-harvest.json) |
+| Little Hearts | 166833 | [166833-little-hearts.json](./166833-little-hearts.json) |
 | Little Helper Cafe | 358353 | [358353-little-helper-cafe.json](./358353-little-helper-cafe.json) |
 | Little Helper of the House Kitchen | 255050 | [255050-little-helper-of-the-house-kitchen.json](./255050-little-helper-of-the-house-kitchen.json) |
 | Little Herbal Baker | 305963 | [305963-little-herbal-baker.json](./305963-little-herbal-baker.json) |
