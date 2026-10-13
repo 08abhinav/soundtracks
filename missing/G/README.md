@@ -3036,6 +3036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gizmos: Spooky Adventures | 151296 | [151296-gizmos-spooky-adventures.json](./151296-gizmos-spooky-adventures.json) |
 | Gizmos: Steampunk Nonograms | 127716 | [127716-gizmos-steampunk-nonograms.json](./127716-gizmos-steampunk-nonograms.json) |
 | Gizoku Tantei Nosuri | 227891 | [227891-gizoku-tantei-nosuri.json](./227891-gizoku-tantei-nosuri.json) |
+| Gjallarhorn | 169720 | [169720-gjallarhorn.json](./169720-gjallarhorn.json) |
 | GL Golf | 88347 | [88347-gl-golf.json](./88347-gl-golf.json) |
 | GL-117 Action Flight Simulator | 51245 | [51245-gl-117-action-flight-simulator.json](./51245-gl-117-action-flight-simulator.json) |
 | Glace | 79621 | [79621-glace.json](./79621-glace.json) |
@@ -6106,6 +6107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimoire: Manastorm - Fire Class | 170329 | [170329-grimoire-manastorm-fire-class.json](./170329-grimoire-manastorm-fire-class.json) |
 | Grimoire: Manastorm - Lightning Class | 170330 | [170330-grimoire-manastorm-lightning-class.json](./170330-grimoire-manastorm-lightning-class.json) |
 | Grimoire: Manastorm - Nature Class | 170328 | [170328-grimoire-manastorm-nature-class.json](./170328-grimoire-manastorm-nature-class.json) |
+| Grimoire: Manastorm - Nether Class | 169916 | [169916-grimoire-manastorm-nether-class.json](./169916-grimoire-manastorm-nether-class.json) |
 | Grimoria | 391573 | [391573-grimoria.json](./391573-grimoria.json) |
 | Grimorium | 392292 | [392292-grimorium.json](./392292-grimorium.json) |
 | Grimps | 388338 | [388338-grimps.json](./388338-grimps.json) |
