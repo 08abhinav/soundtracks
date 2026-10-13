@@ -3555,6 +3555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania IIDX 20 Tricoro | 61664 | [61664-beatmania-iidx-20-tricoro.json](./61664-beatmania-iidx-20-tricoro.json) |
 | Beatmania IIDX 26 Rootage | 112148 | [112148-beatmania-iidx-26-rootage.json](./112148-beatmania-iidx-26-rootage.json) |
 | Beatmania IIDX 27 Heroic Verse | 127142 | [127142-beatmania-iidx-27-heroic-verse.json](./127142-beatmania-iidx-27-heroic-verse.json) |
+| Beatmania IIDX 29 CastHour | 163564 | [163564-beatmania-iidx-29-casthour.json](./163564-beatmania-iidx-29-casthour.json) |
 | Beatmania IIDX 2nd style | 94021 | [94021-beatmania-iidx-2nd-style.json](./94021-beatmania-iidx-2nd-style.json) |
 | Beatmania IIDX 31 Epolis | 258714 | [258714-beatmania-iidx-31-epolis.json](./258714-beatmania-iidx-31-epolis.json) |
 | Beatmania IIDX 32 Pinky Crush | 310590 | [310590-beatmania-iidx-32-pinky-crush.json](./310590-beatmania-iidx-32-pinky-crush.json) |
@@ -5635,6 +5636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bite Me | 378369 | [378369-bite-me.json](./378369-bite-me.json) |
 | Bite Nite | 215023 | [215023-bite-nite.json](./215023-bite-nite.json) |
 | Bite Size Terrors: Eye Candy | 272836 | [272836-bite-size-terrors-eye-candy.json](./272836-bite-size-terrors-eye-candy.json) |
+| Bite Sized Puzzle | 163527 | [163527-bite-sized-puzzle.json](./163527-bite-sized-puzzle.json) |
 | Bite the Bullet | 108770 | [108770-bite-the-bullet.json](./108770-bite-the-bullet.json) |
 | Bite the Crown | 345666 | [345666-bite-the-crown.json](./345666-bite-the-crown.json) |
 | Bite-Sized Scares | 337583 | [337583-bite-sized-scares.json](./337583-bite-sized-scares.json) |
