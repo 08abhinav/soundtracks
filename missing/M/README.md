@@ -1898,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ManaCollect | 11572 | [11572-manacollect.json](./11572-manacollect.json) |
 | Manacrest Online | 133310 | [133310-manacrest-online.json](./133310-manacrest-online.json) |
 | Manafall | 244186 | [244186-manafall.json](./244186-manafall.json) |
+| Manafinder | 152033 | [152033-manafinder.json](./152033-manafinder.json) |
 | Manaforge | 129730 | [129730-manaforge.json](./129730-manaforge.json) |
 | Manaftory | 369157 | [369157-manaftory.json](./369157-manaftory.json) |
 | Managate | 392150 | [392150-managate.json](./392150-managate.json) |
@@ -5422,6 +5423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megazone 23: Aoi Garland | 7366 | [7366-megazone-23-aoi-garland.json](./7366-megazone-23-aoi-garland.json) |
 | Megdan | 298549 | [298549-megdan.json](./298549-megdan.json) |
 | Megis Adventure | 312670 | [312670-megis-adventure.json](./312670-megis-adventure.json) |
+| Megopoly | 152018 | [152018-megopoly.json](./152018-megopoly.json) |
 | Megpoid the Music Sharp | 38484 | [38484-megpoid-the-music-sharp.json](./38484-megpoid-the-music-sharp.json) |
 | Megumi Rescue | 46139 | [46139-megumi-rescue.json](./46139-megumi-rescue.json) |
 | Megumichan Ijiwaru? Soretomo Kawaigaru? | 98041 | [98041-megumichan-ijiwaru-soretomo-kawaigaru.json](./98041-megumichan-ijiwaru-soretomo-kawaigaru.json) |
@@ -5457,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meimon! Daisan Yakyuu-bu | 48780 | [48780-meimon-daisan-yakyuu-bu.json](./48780-meimon-daisan-yakyuu-bu.json) |
 | Meimon! Tako Nishi Ouendan | 48779 | [48779-meimon-tako-nishi-ouendan.json](./48779-meimon-tako-nishi-ouendan.json) |
 | Meimu | 239557 | [239557-meimu.json](./239557-meimu.json) |
+| Mein neues Leben Abenteuer auf Tropicana | 152028 | [152028-mein-neues-leben-abenteuer-auf-tropicana.json](./152028-mein-neues-leben-abenteuer-auf-tropicana.json) |
 | Meine Eigene Traumstadt | 337719 | [337719-meine-eigene-traumstadt.json](./337719-meine-eigene-traumstadt.json) |
 | Meine Liebe II: Hokori to Seigi to Ai | 203178 | [203178-meine-liebe-ii-hokori-to-seigi-to-ai.json](./203178-meine-liebe-ii-hokori-to-seigi-to-ai.json) |
 | Meine Tierarztpraxis in Australien | 77635 | [77635-meine-tierarztpraxis-in-australien.json](./77635-meine-tierarztpraxis-in-australien.json) |
@@ -6346,6 +6349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Man Reloaded | 125273 | [125273-metal-man-reloaded.json](./125273-metal-man-reloaded.json) |
 | Metal March | 228088 | [228088-metal-march.json](./228088-metal-march.json) |
 | Metal Marines | 42497 | [42497-metal-marines.json](./42497-metal-marines.json) |
+| Metal Mars | 151506 | [151506-metal-mars.json](./151506-metal-mars.json) |
 | Metal Max 2 | 37929 | [37929-metal-max-2.json](./37929-metal-max-2.json) |
 | Metal Max 2: Reloaded | 65858 | [65858-metal-max-2-reloaded.json](./65858-metal-max-2-reloaded.json) |
 | Metal Max 3 | 66922 | [66922-metal-max-3.json](./66922-metal-max-3.json) |
@@ -8534,6 +8538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna de Asobou: Koinu de Kururin | 408865 | [408865-minna-de-asobou-koinu-de-kururin.json](./408865-minna-de-asobou-koinu-de-kururin.json) |
 | Minna De Daifugo | 222446 | [222446-minna-de-daifugo.json](./222446-minna-de-daifugo.json) |
 | Minna de Hayaoshi Quiz | 238971 | [238971-minna-de-hayaoshi-quiz.json](./238971-minna-de-hayaoshi-quiz.json) |
+| Minna de Karuta Online | 152041 | [152041-minna-de-karuta-online.json](./152041-minna-de-karuta-online.json) |
 | Minna de Nanpure | 55939 | [55939-minna-de-nanpure.json](./55939-minna-de-nanpure.json) |
 | Minna de Noujiru! Warumono Nage-houdai! Ningen Medal Game | 358495 | [358495-minna-de-noujiru-warumono-nage-houdai-ningen-medal-game.json](./358495-minna-de-noujiru-warumono-nage-houdai-ningen-medal-game.json) |
 | Minna de Shitendo DS: Hanshichi Yuumon & Ango & Ago Juurou & Hatamoto Taikutsu Otoko | 269589 | [269589-minna-de-shitendo-ds-hanshichi-yuumon-and-ango-and-ago-juurou-and-hatamoto-taikutsu-otoko.json](./269589-minna-de-shitendo-ds-hanshichi-yuumon-and-ango-and-ago-juurou-and-hatamoto-taikutsu-otoko.json) |
@@ -11841,6 +11846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Movies Tycoon: Dawn of Cinema | 365820 | [365820-movies-tycoon-dawn-of-cinema.json](./365820-movies-tycoon-dawn-of-cinema.json) |
 | Movies Tycoon: Thrills & Spectacles | 377853 | [377853-movies-tycoon-thrills-and-spectacles.json](./377853-movies-tycoon-thrills-and-spectacles.json) |
 | MovieStarPlanet | 94981 | [94981-moviestarplanet.json](./94981-moviestarplanet.json) |
+| MovieStarPlanet 2 | 151468 | [151468-moviestarplanet-2.json](./151468-moviestarplanet-2.json) |
 | Moving | 262271 | [262271-moving.json](./262271-moving.json) |
 | Moving Blocks Puzzle | 251550 | [251550-moving-blocks-puzzle.json](./251550-moving-blocks-puzzle.json) |
 | Moving Blocks the Identicons Challenge | 251489 | [251489-moving-blocks-the-identicons-challenge.json](./251489-moving-blocks-the-identicons-challenge.json) |
@@ -14068,6 +14074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Mine | 30134 | [30134-mystery-mine.json](./30134-mystery-mine.json) |
 | Mystery Mosaics 2 | 91090 | [91090-mystery-mosaics-2.json](./91090-mystery-mosaics-2.json) |
 | Mystery Museum | 146858 | [146858-mystery-museum.json](./146858-mystery-museum.json) |
+| Mystery Objects | 152025 | [152025-mystery-objects.json](./152025-mystery-objects.json) |
 | Mystery of Ancients: Dagger | 106989 | [106989-mystery-of-ancients-dagger.json](./106989-mystery-of-ancients-dagger.json) |
 | Mystery of Camp Enigma | 147447 | [147447-mystery-of-camp-enigma.json](./147447-mystery-of-camp-enigma.json) |
 | Mystery of Camp Enigma 2 | 152503 | [152503-mystery-of-camp-enigma-2.json](./152503-mystery-of-camp-enigma-2.json) |
