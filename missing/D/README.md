@@ -1575,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashy Ducks | 58623 | [58623-dashy-ducks.json](./58623-dashy-ducks.json) |
 | Dashy Square VR | 32253 | [32253-dashy-square-vr.json](./32253-dashy-square-vr.json) |
 | DaSi | 80637 | [80637-dasi.json](./80637-dasi.json) |
+| Dasra's Cabinet | 139693 | [139693-dasras-cabinet.json](./139693-dasras-cabinet.json) |
 | Dasshutsu Adventure: Akumu no Shinigami Ressha | 222386 | [222386-dasshutsu-adventure-akumu-no-shinigami-ressha.json](./222386-dasshutsu-adventure-akumu-no-shinigami-ressha.json) |
 | Dasshutsu Adventure: Dai Nana no Yogen | 222376 | [222376-dasshutsu-adventure-dai-nana-no-yogen.json](./222376-dasshutsu-adventure-dai-nana-no-yogen.json) |
 | Dasshutsu Adventure: Kamioroshi no Uranai-ban | 222378 | [222378-dasshutsu-adventure-kamioroshi-no-uranai-ban.json](./222378-dasshutsu-adventure-kamioroshi-no-uranai-ban.json) |
