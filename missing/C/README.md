@@ -2839,6 +2839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catniptic | 263059 | [263059-catniptic.json](./263059-catniptic.json) |
 | Cato: Buttered Cat | 203934 | [203934-cato-buttered-cat.json](./203934-cato-buttered-cat.json) |
 | Catography | 251067 | [251067-catography.json](./251067-catography.json) |
+| Catopia: Rush | 152070 | [152070-catopia-rush.json](./152070-catopia-rush.json) |
 | Catopy | 336652 | [336652-catopy.json](./336652-catopy.json) |
 | Catovania | 132629 | [132629-catovania.json](./132629-catovania.json) |
 | Catrap | 7820 | [7820-catrap.json](./7820-catrap.json) |
@@ -5037,6 +5038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chosen Dice | 212302 | [212302-chosen-dice.json](./212302-chosen-dice.json) |
 | Chosen of God | 321383 | [321383-chosen-of-god.json](./321383-chosen-of-god.json) |
 | Chosen War | 333353 | [333353-chosen-war.json](./333353-chosen-war.json) |
+| Chosoju Mecha MG | 152057 | [152057-chosoju-mecha-mg.json](./152057-chosoju-mecha-mg.json) |
 | Choson Janggi | 312335 | [312335-choson-janggi.json](./312335-choson-janggi.json) |
 | Chosun Zombie Defense | 236856 | [236856-chosun-zombie-defense.json](./236856-chosun-zombie-defense.json) |
 | Chosung Quiz | 191853 | [191853-chosung-quiz.json](./191853-chosung-quiz.json) |
@@ -8751,6 +8753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquered Complex | 274012 | [274012-conquered-complex.json](./274012-conquered-complex.json) |
 | Conquered Kingdoms | 69804 | [69804-conquered-kingdoms.json](./69804-conquered-kingdoms.json) |
 | Conquering Everest | 262399 | [262399-conquering-everest.json](./262399-conquering-everest.json) |
+| Conquering Percents | 152026 | [152026-conquering-percents.json](./152026-conquering-percents.json) |
 | Conquering the Queen | 127965 | [127965-conquering-the-queen.json](./127965-conquering-the-queen.json) |
 | Conquering Worlds | 59903 | [59903-conquering-worlds.json](./59903-conquering-worlds.json) |
 | Conqueror 940 AD | 144985 | [144985-conqueror-940-ad.json](./144985-conqueror-940-ad.json) |
