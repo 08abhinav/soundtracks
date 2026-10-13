@@ -5174,6 +5174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shennong: Taste of Illusion | 113015 | [113015-shennong-taste-of-illusion.json](./113015-shennong-taste-of-illusion.json) |
 | Shénqǐ Shénluò | 152760 | [152760-shenqi-shenluo.json](./152760-shenqi-shenluo.json) |
 | ShenShan | 126387 | [126387-shenshan.json](./126387-shenshan.json) |
+| Shēnxiàn Mígōng | 157908 | [157908-shenxian-migong.json](./157908-shenxian-migong.json) |
 | Shényóu Kèběn | 373714 | [373714-shenyou-keben.json](./373714-shenyou-keben.json) |
 | Shēnyuān | 165700 | [165700-shenyuan.json](./165700-shenyuan.json) |
 | Shenzhen I/O | 25084 | [25084-shenzhen-i-o.json](./25084-shenzhen-i-o.json) |
@@ -12126,6 +12127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul's Remnant | 278614 | [278614-souls-remnant.json](./278614-souls-remnant.json) |
 | Soul's Spectrum | 232974 | [232974-souls-spectrum.json](./232974-souls-spectrum.json) |
 | Soul's Spectrum: Awakening | 267110 | [267110-souls-spectrum-awakening.json](./267110-souls-spectrum-awakening.json) |
+| Soulace | 157926 | [157926-soulace.json](./157926-soulace.json) |
 | Souland | 76690 | [76690-souland.json](./76690-souland.json) |
 | Soulash | 118457 | [118457-soulash.json](./118457-soulash.json) |
 | Soulash 2 | 249194 | [249194-soulash-2.json](./249194-soulash-2.json) |
@@ -20029,6 +20031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cat Tales: Paws | 250999 | [250999-super-cat-tales-paws.json](./250999-super-cat-tales-paws.json) |
 | Super Cat the Builder | 386332 | [386332-super-cat-the-builder.json](./386332-super-cat-the-builder.json) |
 | Super Cat Wars | 165551 | [165551-super-cat-wars.json](./165551-super-cat-wars.json) |
+| Super Catboy | 157933 | [157933-super-catboy.json](./157933-super-catboy.json) |
 | Super Cats | 111058 | [111058-super-cats.json](./111058-super-cats.json) |
 | Super Catscape | 116308 | [116308-super-catscape.json](./116308-super-catscape.json) |
 | Super Cauldron | 39028 | [39028-super-cauldron.json](./39028-super-cauldron.json) |
