@@ -7847,6 +7847,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumia Throws! | 264255 | [264255-rumia-throws.json](./264255-rumia-throws.json) |
 | Ruminant 4444 | 399911 | [399911-ruminant-4444.json](./399911-ruminant-4444.json) |
 | Rumination | 364638 | [364638-rumination.json](./364638-rumination.json) |
+| Rummel & Rabalder: Dr. Franks Mask | 154830 | [154830-rummel-and-rabalder-dr-franks-mask.json](./154830-rummel-and-rabalder-dr-franks-mask.json) |
+| Rummel & Rabalder: I Snarkofagens Skugga | 154832 | [154832-rummel-and-rabalder-i-snarkofagens-skugga.json](./154832-rummel-and-rabalder-i-snarkofagens-skugga.json) |
+| Rummel & Rabalder: Jakten på Kapten Hanssons Guld | 154827 | [154827-rummel-and-rabalder-jakten-pa-kapten-hanssons-guld.json](./154827-rummel-and-rabalder-jakten-pa-kapten-hanssons-guld.json) |
 | Rummikub | 243274 | [243274-rummikub.json](./243274-rummikub.json) |
 | Rummix | 387075 | [387075-rummix.json](./387075-rummix.json) |
 | Rummy - classic card game | 88416 | [88416-rummy-classic-card-game.json](./88416-rummy-classic-card-game.json) |
