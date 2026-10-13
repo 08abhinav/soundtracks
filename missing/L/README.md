@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lacuna: Save the World Edition | 159699 | [159699-lacuna-save-the-world-edition.json](./159699-lacuna-save-the-world-edition.json) |
 | Lacura | 182809 | [182809-lacura.json](./182809-lacura.json) |
 | Lacus Opportunitas | 347149 | [347149-lacus-opportunitas.json](./347149-lacus-opportunitas.json) |
+| Ladder Box | 155888 | [155888-ladder-box.json](./155888-ladder-box.json) |
 | Ladder Climbing | 301818 | [301818-ladder-climbing.json](./301818-ladder-climbing.json) |
 | Ladder it Up! | 304640 | [304640-ladder-it-up.json](./304640-ladder-it-up.json) |
 | Ladder Man | 70089 | [70089-ladder-man.json](./70089-ladder-man.json) |
@@ -3872,6 +3873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Green Man | 55099 | [55099-little-green-man.json](./55099-little-green-man.json) |
 | Little Grimm | 390706 | [390706-little-grimm.json](./390706-little-grimm.json) |
 | Little Harvest | 254783 | [254783-little-harvest.json](./254783-little-harvest.json) |
+| Little Hats | 155880 | [155880-little-hats.json](./155880-little-hats.json) |
 | Little Hearts | 166833 | [166833-little-hearts.json](./166833-little-hearts.json) |
 | Little Helper Cafe | 358353 | [358353-little-helper-cafe.json](./358353-little-helper-cafe.json) |
 | Little Helper of the House Kitchen | 255050 | [255050-little-helper-of-the-house-kitchen.json](./255050-little-helper-of-the-house-kitchen.json) |
@@ -5724,6 +5726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Nikki: Dress Up Queen | 56001 | [56001-love-nikki-dress-up-queen.json](./56001-love-nikki-dress-up-queen.json) |
 | Love Note | 97992 | [97992-love-note.json](./97992-love-note.json) |
 | Love Note 2 | 108924 | [108924-love-note-2.json](./108924-love-note-2.json) |
+| Love of Dragons | 155846 | [155846-love-of-dragons.json](./155846-love-of-dragons.json) |
 | Love of Magic | 237485 | [237485-love-of-magic.json](./237485-love-of-magic.json) |
 | Love of Magic Book 2: The War | 202759 | [202759-love-of-magic-book-2-the-war.json](./202759-love-of-magic-book-2-the-war.json) |
 | Love of Renai Koutei of Love! | 172713 | [172713-love-of-renai-koutei-of-love.json](./172713-love-of-renai-koutei-of-love.json) |
