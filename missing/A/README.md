@@ -4182,6 +4182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Field | 113179 | [113179-alien-field.json](./113179-alien-field.json) |
 | Alien Fish Finger | 38858 | [38858-alien-fish-finger.json](./38858-alien-fish-finger.json) |
 | Alien Fish World VR | 379446 | [379446-alien-fish-world-vr.json](./379446-alien-fish-world-vr.json) |
+| Alien Flex | 153148 | [153148-alien-flex.json](./153148-alien-flex.json) |
 | Alien Flowers | 229642 | [229642-alien-flowers.json](./229642-alien-flowers.json) |
 | Alien Force | 93201 | [93201-alien-force.json](./93201-alien-force.json) |
 | Alien Front | 206107 | [206107-alien-front.json](./206107-alien-front.json) |
@@ -5447,6 +5448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AMF Bowling Deluxe 3D | 206117 | [206117-amf-bowling-deluxe-3d.json](./206117-amf-bowling-deluxe-3d.json) |
 | AMF Pro Bowl 3D | 93999 | [93999-amf-pro-bowl-3d.json](./93999-amf-pro-bowl-3d.json) |
 | AMFM | 315622 | [315622-amfm.json](./315622-amfm.json) |
+| AMG | 153143 | [153143-amg.json](./153143-amg.json) |
 | Ami | 276791 | [276791-ami.json](./276791-ami.json) |
 | Ami's Room | 216211 | [216211-amis-room.json](./216211-amis-room.json) |
 | Amicade | 254027 | [254027-amicade.json](./254027-amicade.json) |
@@ -5807,6 +5809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Keys DX | 321448 | [321448-ancient-keys-dx.json](./321448-ancient-keys-dx.json) |
 | Ancient Kingdoms | 244176 | [244176-ancient-kingdoms.json](./244176-ancient-kingdoms.json) |
 | Ancient Legacy 2: The Curse | 107069 | [107069-ancient-legacy-2-the-curse.json](./107069-ancient-legacy-2-the-curse.json) |
+| Ancient Life | 153154 | [153154-ancient-life.json](./153154-ancient-life.json) |
 | Ancient Magic: Bazuu! Mahou Sekai | 15892 | [15892-ancient-magic-bazuu-mahou-sekai.json](./15892-ancient-magic-bazuu-mahou-sekai.json) |
 | Ancient Mahjong | 267370 | [267370-ancient-mahjong.json](./267370-ancient-mahjong.json) |
 | Ancient Medieval Empire | 192246 | [192246-ancient-medieval-empire.json](./192246-ancient-medieval-empire.json) |
@@ -5860,6 +5863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Witch Arena | 215659 | [215659-ancient-witch-arena.json](./215659-ancient-witch-arena.json) |
 | Ancient Wonders: Gardens of Babylon | 273656 | [273656-ancient-wonders-gardens-of-babylon.json](./273656-ancient-wonders-gardens-of-babylon.json) |
 | Ancient Wonders: Pharaoh's Tomb | 253313 | [253313-ancient-wonders-pharaohs-tomb.json](./253313-ancient-wonders-pharaohs-tomb.json) |
+| Ancient: Legacy of Azul | 153150 | [153150-ancient-legacy-of-azul.json](./153150-ancient-legacy-of-azul.json) |
 | Ancients II: Approaching Evil | 12392 | [12392-ancients-ii-approaching-evil.json](./12392-ancients-ii-approaching-evil.json) |
 | Ancients of Ooga | 16228 | [16228-ancients-of-ooga.json](./16228-ancients-of-ooga.json) |
 | Ancients: Death Watch | 12391 | [12391-ancients-death-watch.json](./12391-ancients-death-watch.json) |
@@ -11049,6 +11053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autobots | 14457 | [14457-autobots.json](./14457-autobots.json) |
 | Autocard: Your RPG Adventure | 381264 | [381264-autocard-your-rpg-adventure.json](./381264-autocard-your-rpg-adventure.json) |
 | AutoChess Moba | 219104 | [219104-autochess-moba.json](./219104-autochess-moba.json) |
+| AutoChess of Gensokyo | 153142 | [153142-autochess-of-gensokyo.json](./153142-autochess-of-gensokyo.json) |
 | AutoCompete | 233099 | [233099-autocompete.json](./233099-autocompete.json) |
 | Autocracy | 84243 | [84243-autocracy.json](./84243-autocracy.json) |
 | Autocraft | 17178 | [17178-autocraft.json](./17178-autocraft.json) |
@@ -11086,6 +11091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automatonics | 244263 | [244263-automatonics.json](./244263-automatonics.json) |
 | Automatoys | 214025 | [214025-automatoys.json](./214025-automatoys.json) |
 | Automatrain | 217329 | [217329-automatrain.json](./217329-automatrain.json) |
+| Automatrons | 153151 | [153151-automatrons.json](./153151-automatrons.json) |
 | Automatum | 105302 | [105302-automatum.json](./105302-automatum.json) |
 | Automobiles and the Eisenhower Hiway System the Game | 111070 | [111070-automobiles-and-the-eisenhower-hiway-system-the-game.json](./111070-automobiles-and-the-eisenhower-hiway-system-the-game.json) |
 | Automobilista | 19442 | [19442-automobilista.json](./19442-automobilista.json) |
