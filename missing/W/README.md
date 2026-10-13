@@ -1143,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarioWare: Twisted! - Marble Maze Game | 231530 | [231530-warioware-twisted-marble-maze-game.json](./231530-warioware-twisted-marble-maze-game.json) |
 | Warium | 87768 | [87768-warium.json](./87768-warium.json) |
 | Warja | 277295 | [277295-warja.json](./277295-warja.json) |
+| Wark & Wimble | 151493 | [151493-wark-and-wimble.json](./151493-wark-and-wimble.json) |
 | Warka Flarka Flim Flam | 29942 | [29942-warka-flarka-flim-flam.json](./29942-warka-flarka-flim-flam.json) |
 | Warkanoid | 61429 | [61429-warkanoid.json](./61429-warkanoid.json) |
 | Warkanoid II: Wildlife | 122851 | [122851-warkanoid-ii-wildlife.json](./122851-warkanoid-ii-wildlife.json) |
@@ -6042,6 +6043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WTC: Recruitment Day | 192462 | [192462-wtc-recruitment-day.json](./192462-wtc-recruitment-day.json) |
 | WTC: Relentless Protagonist [SxS] | 187446 | [187446-wtc-relentless-protagonist-sxs.json](./187446-wtc-relentless-protagonist-sxs.json) |
 | WTC: The Manchester Report | 387490 | [387490-wtc-the-manchester-report.json](./387490-wtc-the-manchester-report.json) |
+| Wteruna | 151461 | [151461-wteruna.json](./151461-wteruna.json) |
 | WTF | 99778 | [99778-wtf.json](./99778-wtf.json) |
 | WTF Do You Know? | 197137 | [197137-wtf-do-you-know.json](./197137-wtf-do-you-know.json) |
 | WTF: Waifu Tactical Force | 244256 | [244256-wtf-waifu-tactical-force.json](./244256-wtf-waifu-tactical-force.json) |
