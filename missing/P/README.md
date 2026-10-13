@@ -1204,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paqman | 308984 | [308984-paqman.json](./308984-paqman.json) |
 | Par 1 Golf | 200103 | [200103-par-1-golf.json](./200103-par-1-golf.json) |
 | Par 1 Golf 10 | 200181 | [200181-par-1-golf-10.json](./200181-par-1-golf-10.json) |
+| Par 1 Golf 4 | 175308 | [175308-par-1-golf-4.json](./175308-par-1-golf-4.json) |
 | Par 1 Golf 5 | 197667 | [197667-par-1-golf-5.json](./197667-par-1-golf-5.json) |
 | Par 1 Golf 7 | 174296 | [174296-par-1-golf-7.json](./174296-par-1-golf-7.json) |
 | Par 1 Golf 8 | 197790 | [197790-par-1-golf-8.json](./197790-par-1-golf-8.json) |
@@ -4910,6 +4911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Doom II | 298313 | [298313-pirate-doom-ii.json](./298313-pirate-doom-ii.json) |
 | Pirate Dragons | 217351 | [217351-pirate-dragons.json](./217351-pirate-dragons.json) |
 | Pirate Escape | 323506 | [323506-pirate-escape.json](./323506-pirate-escape.json) |
+| Pirate Evolution! | 174606 | [174606-pirate-evolution.json](./174606-pirate-evolution.json) |
 | Pirate Fighting Simulator | 234023 | [234023-pirate-fighting-simulator.json](./234023-pirate-fighting-simulator.json) |
 | Pirate Fishing | 200173 | [200173-pirate-fishing.json](./200173-pirate-fishing.json) |
 | Pirate Flight | 100601 | [100601-pirate-flight.json](./100601-pirate-flight.json) |
@@ -10176,6 +10178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Hyrax: Beyond Time | 197728 | [197728-project-hyrax-beyond-time.json](./197728-project-hyrax-beyond-time.json) |
 | Project I | 274579 | [274579-project-i.json](./274579-project-i.json) |
 | Project I.G.I. Origins (working title) | 131435 | [131435-project-i-g-i-origins-working-title.json](./131435-project-i-g-i-origins-working-title.json) |
+| Project Ichr | 174585 | [174585-project-ichr.json](./174585-project-ichr.json) |
 | Project Ictos | 286057 | [286057-project-ictos.json](./286057-project-ictos.json) |
 | Project II: Final Fantasy IV | 379344 | [379344-project-ii-final-fantasy-iv.json](./379344-project-ii-final-fantasy-iv.json) |
 | Project Impulse | 203304 | [203304-project-impulse.json](./203304-project-impulse.json) |
@@ -10308,6 +10311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Regolith | 236793 | [236793-project-regolith.json](./236793-project-regolith.json) |
 | Project Reset | 108042 | [108042-project-reset.json](./108042-project-reset.json) |
 | Project Restoration | 184397 | [184397-project-restoration.json](./184397-project-restoration.json) |
+| Project RIP Mobile | 174785 | [174785-project-rip-mobile.json](./174785-project-rip-mobile.json) |
 | Project Rocket: Invasion Resurgence | 297188 | [297188-project-rocket-invasion-resurgence.json](./297188-project-rocket-invasion-resurgence.json) |
 | Project Rod3nt | 401073 | [401073-project-rod3nt.json](./401073-project-rod3nt.json) |
 | Project Rogueteers | 316772 | [316772-project-rogueteers.json](./316772-project-rogueteers.json) |
@@ -10448,6 +10452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Colt | 396528 | [396528-project-colt.json](./396528-project-colt.json) |
 | Project: Cube | 395473 | [395473-project-cube.json](./395473-project-cube.json) |
 | Project: Dream | 220658 | [220658-project-dream.json](./220658-project-dream.json) |
+| Project: Drift | 174783 | [174783-project-drift.json](./174783-project-drift.json) |
 | Project: Eden's Garden | 222895 | [222895-project-edens-garden.json](./222895-project-edens-garden.json) |
 | Project: EGG | 330872 | [330872-project-egg.json](./330872-project-egg.json) |
 | Project: Eliot | 337158 | [337158-project-eliot.json](./337158-project-eliot.json) |
