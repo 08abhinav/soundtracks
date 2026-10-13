@@ -982,6 +982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep Running | 104071 | [104071-keep-running.json](./104071-keep-running.json) |
 | Keep Sheep | 226136 | [226136-keep-sheep.json](./226136-keep-sheep.json) |
 | Keep Spinning | 179441 | [179441-keep-spinning.json](./179441-keep-spinning.json) |
+| Keep Talk Until You Dead | 151488 | [151488-keep-talk-until-you-dead.json](./151488-keep-talk-until-you-dead.json) |
 | Keep Talking and Nobody Explodes | 13226 | [13226-keep-talking-and-nobody-explodes.json](./13226-keep-talking-and-nobody-explodes.json) |
 | Keep the Balance | 50038 | [50038-keep-the-balance.json](./50038-keep-the-balance.json) |
 | Keep The Beat | 381598 | [381598-keep-the-beat.json](./381598-keep-the-beat.json) |
@@ -3535,6 +3536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korunu Kopia: Fushigi no Sumu Machi | 135895 | [135895-korunu-kopia-fushigi-no-sumu-machi.json](./135895-korunu-kopia-fushigi-no-sumu-machi.json) |
 | Korwin the Game | 35114 | [35114-korwin-the-game.json](./35114-korwin-the-game.json) |
 | Korza Motor | 335982 | [335982-korza-motor.json](./335982-korza-motor.json) |
+| Kosaka-san. | 152014 | [152014-kosaka-san.json](./152014-kosaka-san.json) |
 | Koshachʼya Lyubovʼ | 301404 | [301404-koshach-ya-lyubov.json](./301404-koshach-ya-lyubov.json) |
 | Koshari Defense | 361824 | [361824-koshari-defense.json](./361824-koshari-defense.json) |
 | Koshchei the Immortal | 372460 | [372460-koshchei-the-immortal.json](./372460-koshchei-the-immortal.json) |
