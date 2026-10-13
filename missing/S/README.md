@@ -671,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sales Birdman | 345604 | [345604-sales-birdman.json](./345604-sales-birdman.json) |
 | Sales Pitch | 191507 | [191507-sales-pitch.json](./191507-sales-pitch.json) |
 | Saliens | 104692 | [104692-saliens.json](./104692-saliens.json) |
+| Saligia | 163014 | [163014-saligia.json](./163014-saligia.json) |
 | Sally Acorn in Sonic the Hedgehog | 141883 | [141883-sally-acorn-in-sonic-the-hedgehog.json](./141883-sally-acorn-in-sonic-the-hedgehog.json) |
 | Sally Acorn in Sonic the Hedgehog 2 | 141884 | [141884-sally-acorn-in-sonic-the-hedgehog-2.json](./141884-sally-acorn-in-sonic-the-hedgehog-2.json) |
 | Sally Face 2 | 413934 | [413934-sally-face-2.json](./413934-sally-face-2.json) |
@@ -1424,6 +1425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satsuki-iro no Sora ni | 412795 | [412795-satsuki-iro-no-sora-ni.json](./412795-satsuki-iro-no-sora-ni.json) |
 | Saturated Outer Space | 116836 | [116836-saturated-outer-space.json](./116836-saturated-outer-space.json) |
 | Saturday AM: Battle Manga | 382452 | [382452-saturday-am-battle-manga.json](./382452-saturday-am-battle-manga.json) |
+| Saturday Morning Sandbox | 163032 | [163032-saturday-morning-sandbox.json](./163032-saturday-morning-sandbox.json) |
 | Saturday Night at Freddy's | 406253 | [406253-saturday-night-at-freddys.json](./406253-saturday-night-at-freddys.json) |
 | Saturday Night is the Loneliest Night of the Week | 230855 | [230855-saturday-night-is-the-loneliest-night-of-the-week.json](./230855-saturday-night-is-the-loneliest-night-of-the-week.json) |
 | Saturday Night is the Loneliest Night of the Week II | 230856 | [230856-saturday-night-is-the-loneliest-night-of-the-week-ii.json](./230856-saturday-night-is-the-loneliest-night-of-the-week-ii.json) |
@@ -9140,6 +9142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small World | 272927 | [272927-small-world.json](./272927-small-world.json) |
 | Small Worlds | 201612 | [201612-small-worlds.json](./201612-small-worlds.json) |
 | Smalland: Survive the Wilds VR | 299752 | [299752-smalland-survive-the-wilds-vr.json](./299752-smalland-survive-the-wilds-vr.json) |
+| Smalles | 163021 | [163021-smalles.json](./163021-smalles.json) |
 | Smalls Island Woes | 177341 | [177341-smalls-island-woes.json](./177341-smalls-island-woes.json) |
 | Smart As... | 92456 | [92456-smart-as.json](./92456-smart-as.json) |
 | Smart Baby ABC Games: Toddler Kids Learning Apps | 87032 | [87032-smart-baby-abc-games-toddler-kids-learning-apps.json](./87032-smart-baby-abc-games-toddler-kids-learning-apps.json) |
@@ -20413,6 +20416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Flowers Puzzles | 155609 | [155609-super-jigsaw-puzzle-generations-flowers-puzzles.json](./155609-super-jigsaw-puzzle-generations-flowers-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Food | 219578 | [219578-super-jigsaw-puzzle-generations-food.json](./219578-super-jigsaw-puzzle-generations-food.json) |
 | Super Jigsaw Puzzle: Generations - France Puzzles | 155632 | [155632-super-jigsaw-puzzle-generations-france-puzzles.json](./155632-super-jigsaw-puzzle-generations-france-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Fruits Puzzles | 163004 | [163004-super-jigsaw-puzzle-generations-fruits-puzzles.json](./163004-super-jigsaw-puzzle-generations-fruits-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Germany Puzzles | 155589 | [155589-super-jigsaw-puzzle-generations-germany-puzzles.json](./155589-super-jigsaw-puzzle-generations-germany-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Greece | 195257 | [195257-super-jigsaw-puzzle-generations-greece.json](./195257-super-jigsaw-puzzle-generations-greece.json) |
 | Super Jigsaw Puzzle: Generations - Halloween Puzzles | 155635 | [155635-super-jigsaw-puzzle-generations-halloween-puzzles.json](./155635-super-jigsaw-puzzle-generations-halloween-puzzles.json) |
@@ -20441,6 +20445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Random Animals 3 | 244656 | [244656-super-jigsaw-puzzle-generations-random-animals-3.json](./244656-super-jigsaw-puzzle-generations-random-animals-3.json) |
 | Super Jigsaw Puzzle: Generations - Random Animals 4 | 304664 | [304664-super-jigsaw-puzzle-generations-random-animals-4.json](./304664-super-jigsaw-puzzle-generations-random-animals-4.json) |
 | Super Jigsaw Puzzle: Generations - Random Animals Puzzles | 155604 | [155604-super-jigsaw-puzzle-generations-random-animals-puzzles.json](./155604-super-jigsaw-puzzle-generations-random-animals-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Random Puzzles | 163008 | [163008-super-jigsaw-puzzle-generations-random-puzzles.json](./163008-super-jigsaw-puzzle-generations-random-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Random Puzzles 2 | 155636 | [155636-super-jigsaw-puzzle-generations-random-puzzles-2.json](./155636-super-jigsaw-puzzle-generations-random-puzzles-2.json) |
 | Super Jigsaw Puzzle: Generations - Random Puzzles 3 | 155645 | [155645-super-jigsaw-puzzle-generations-random-puzzles-3.json](./155645-super-jigsaw-puzzle-generations-random-puzzles-3.json) |
 | Super Jigsaw Puzzle: Generations - Random Puzzles 4 | 195276 | [195276-super-jigsaw-puzzle-generations-random-puzzles-4.json](./195276-super-jigsaw-puzzle-generations-random-puzzles-4.json) |
