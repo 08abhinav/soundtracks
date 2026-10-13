@@ -1910,6 +1910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsolved Case: Whispers of Elderwick - Collector’s Edition | 383069 | [383069-unsolved-case-whispers-of-elderwick-collector-s-edition.json](./383069-unsolved-case-whispers-of-elderwick-collector-s-edition.json) |
 | Unsolved Crimes | 21376 | [21376-unsolved-crimes.json](./21376-unsolved-crimes.json) |
 | Unsolved Mystery Club: Amelia Earhart | 120819 | [120819-unsolved-mystery-club-amelia-earhart.json](./120819-unsolved-mystery-club-amelia-earhart.json) |
+| Unsolved Mystery Club: Ancient Astronauts | 140256 | [140256-unsolved-mystery-club-ancient-astronauts.json](./140256-unsolved-mystery-club-ancient-astronauts.json) |
 | Unsolved Stories | 86535 | [86535-unsolved-stories.json](./86535-unsolved-stories.json) |
 | Unsorted Horror | 258669 | [258669-unsorted-horror.json](./258669-unsorted-horror.json) |
 | Unsorted VHS | 214425 | [214425-unsorted-vhs.json](./214425-unsorted-vhs.json) |
@@ -2282,6 +2283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urd Monster | 179535 | [179535-urd-monster.json](./179535-urd-monster.json) |
 | Urgent Message | 343232 | [343232-urgent-message.json](./343232-urgent-message.json) |
 | Uridium 2 | 12808 | [12808-uridium-2.json](./12808-uridium-2.json) |
+| Uridium Plus | 140259 | [140259-uridium-plus.json](./140259-uridium-plus.json) |
 | Urinary Samus | 343367 | [343367-urinary-samus.json](./343367-urinary-samus.json) |
 | Urizen Frosty Plus the New Warriors | 169828 | [169828-urizen-frosty-plus-the-new-warriors.json](./169828-urizen-frosty-plus-the-new-warriors.json) |
 | Urja | 36064 | [36064-urja.json](./36064-urja.json) |
