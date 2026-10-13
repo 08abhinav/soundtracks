@@ -1217,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RanDungeon | 338856 | [338856-randungeon.json](./338856-randungeon.json) |
 | Randy in Sokobanland | 364357 | [364357-randy-in-sokobanland.json](./364357-randy-in-sokobanland.json) |
 | Randy the Racoon | 345061 | [345061-randy-the-racoon.json](./345061-randy-the-racoon.json) |
+| Randy's Adventure | 146621 | [146621-randys-adventure.json](./146621-randys-adventure.json) |
 | Randy's Soccer Quest | 180511 | [180511-randys-soccer-quest.json](./180511-randys-soccer-quest.json) |
 | Rangarok End Girls | 309357 | [309357-rangarok-end-girls.json](./309357-rangarok-end-girls.json) |
 | RangBi | 297720 | [297720-rangbi.json](./297720-rangbi.json) |
@@ -2536,6 +2537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Lake | 35589 | [35589-red-lake.json](./35589-red-lake.json) |
 | Red Land | 372671 | [372671-red-land.json](./372671-red-land.json) |
 | Red Lands | 244679 | [244679-red-lands.json](./244679-red-lands.json) |
+| Red Laser Z | 146647 | [146647-red-laser-z.json](./146647-red-laser-z.json) |
 | Red Leaves | 343285 | [343285-red-leaves.json](./343285-red-leaves.json) |
 | Red Letter Day 2 | 253043 | [253043-red-letter-day-2.json](./253043-red-letter-day-2.json) |
 | Red Light | 345432 | [345432-red-light.json](./345432-red-light.json) |
@@ -5978,6 +5980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roche Fusion | 36122 | [36122-roche-fusion.json](./36122-roche-fusion.json) |
 | Roche Limit: The Death of CMK | 240370 | [240370-roche-limit-the-death-of-cmk.json](./240370-roche-limit-the-death-of-cmk.json) |
 | Rocher no Nagai Yoru | 265215 | [265215-rocher-no-nagai-yoru.json](./265215-rocher-no-nagai-yoru.json) |
+| Rock 'Em Sock 'Em Robots | 146679 | [146679-rock-em-sock-em-robots.json](./146679-rock-em-sock-em-robots.json) |
 | Rock 'N Racing Bundle Grand Prix & Rally | 147793 | [147793-rock-n-racing-bundle-grand-prix-and-rally.json](./147793-rock-n-racing-bundle-grand-prix-and-rally.json) |
 | Rock 'N Racing Bundle Off Road & Grand Prix | 147797 | [147797-rock-n-racing-bundle-off-road-and-grand-prix.json](./147797-rock-n-racing-bundle-off-road-and-grand-prix.json) |
 | Rock 'N Racing Bundle Off Road & Rally | 147798 | [147798-rock-n-racing-bundle-off-road-and-rally.json](./147798-rock-n-racing-bundle-off-road-and-rally.json) |
@@ -7813,6 +7816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rukimin's Disappointing Adventure!: Shobomi and the Phantom Ruins | 211892 | [211892-rukimins-disappointing-adventure-shobomi-and-the-phantom-ruins.json](./211892-rukimins-disappointing-adventure-shobomi-and-the-phantom-ruins.json) |
 | Ruku's Heart Balloon | 222400 | [222400-rukus-heart-balloon.json](./222400-rukus-heart-balloon.json) |
 | Rule & Expand | 316370 | [316370-rule-and-expand.json](./316370-rule-and-expand.json) |
+| Rule No. 1 | 146645 | [146645-rule-no-1.json](./146645-rule-no-1.json) |
 | Rule No. 2 | 199562 | [199562-rule-no-2.json](./199562-rule-no-2.json) |
 | Rule of Rose | 7415 | [7415-rule-of-rose.json](./7415-rule-of-rose.json) |
 | Rule The Beach Volleyball | 324832 | [324832-rule-the-beach-volleyball.json](./324832-rule-the-beach-volleyball.json) |
