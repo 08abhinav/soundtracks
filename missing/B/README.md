@@ -5332,6 +5332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Brigade | 385221 | [385221-bird-brigade.json](./385221-bird-brigade.json) |
 | Bird Builder | 177474 | [177474-bird-builder.json](./177474-bird-builder.json) |
 | Bird Bump | 338240 | [338240-bird-bump.json](./338240-bird-bump.json) |
+| Bird Butt Battle Royale | 177777 | [177777-bird-butt-battle-royale.json](./177777-bird-butt-battle-royale.json) |
 | Bird Climb | 251509 | [251509-bird-climb.json](./251509-bird-climb.json) |
 | Bird Coloring | 348303 | [348303-bird-coloring.json](./348303-bird-coloring.json) |
 | Bird Fall | 37150 | [37150-bird-fall.json](./37150-bird-fall.json) |
@@ -7274,6 +7275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Hills | 258378 | [258378-bloody-hills.json](./258378-bloody-hills.json) |
 | Bloody Horror Plant | 239684 | [239684-bloody-horror-plant.json](./239684-bloody-horror-plant.json) |
 | Bloody Layne | 174794 | [174794-bloody-layne.json](./174794-bloody-layne.json) |
+| Bloody Legless | 177778 | [177778-bloody-legless.json](./177778-bloody-legless.json) |
 | Bloody Mary's Mansion | 90225 | [90225-bloody-marys-mansion.json](./90225-bloody-marys-mansion.json) |
 | Bloody Merc | 152814 | [152814-bloody-merc.json](./152814-bloody-merc.json) |
 | Bloody Ragdoll : Fort Escape | 87857 | [87857-bloody-ragdoll-fort-escape.json](./87857-bloody-ragdoll-fort-escape.json) |
@@ -10309,6 +10311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bruce Lee | 13447 | [13447-bruce-lee.json](./13447-bruce-lee.json) |
 | Bruce Lee: Dragon Warrior HD | 66740 | [66740-bruce-lee-dragon-warrior-hd.json](./66740-bruce-lee-dragon-warrior-hd.json) |
 | Bruce Lee: Quest of the Dragon | 5758 | [5758-bruce-lee-quest-of-the-dragon.json](./5758-bruce-lee-quest-of-the-dragon.json) |
+| Bruce Lee: Return of Fury | 177798 | [177798-bruce-lee-return-of-fury.json](./177798-bruce-lee-return-of-fury.json) |
 | Bruce Quest: The Secrets of the Outback | 379888 | [379888-bruce-quest-the-secrets-of-the-outback.json](./379888-bruce-quest-the-secrets-of-the-outback.json) |
 | Brückenbauen | 85746 | [85746-bruckenbauen.json](./85746-bruckenbauen.json) |
 | Brudal Baddle | 57677 | [57677-brudal-baddle.json](./57677-brudal-baddle.json) |
