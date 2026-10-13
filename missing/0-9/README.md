@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | \\\//\\/\\\/// | 139880 | [139880-.json](./139880-.json) |
 | & in the War I Find You | 178584 | [178584-and-in-the-war-i-find-you.json](./178584-and-in-the-war-i-find-you.json) |
 | &0 | 255619 | [255619-and-0.json](./255619-and-0.json) |
+| #1 Crosswords Bundle | 153139 | [153139-1-crosswords-bundle.json](./153139-1-crosswords-bundle.json) |
 | #1 Pastime Bundle | 192408 | [192408-1-pastime-bundle.json](./192408-1-pastime-bundle.json) |
 | #1 Sudokus | 187309 | [187309-1-sudokus.json](./187309-1-sudokus.json) |
 | #7-J5Z: The Driftwood Experiment | 343447 | [343447-7-j5z-the-driftwood-experiment.json](./343447-7-j5z-the-driftwood-experiment.json) |
@@ -384,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hidden Cupcakes | 169672 | [169672-100-hidden-cupcakes.json](./169672-100-hidden-cupcakes.json) |
 | 100 Hidden Fish | 187205 | [187205-100-hidden-fish.json](./187205-100-hidden-fish.json) |
 | 100 Hidden Frogs | 186155 | [186155-100-hidden-frogs.json](./186155-100-hidden-frogs.json) |
+| 100 Hidden Mushrooms | 150421 | [150421-100-hidden-mushrooms.json](./150421-100-hidden-mushrooms.json) |
 | 100 Hidden Rams | 163750 | [163750-100-hidden-rams.json](./163750-100-hidden-rams.json) |
 | 100 Hiddensaurs: Egypt | 325503 | [325503-100-hiddensaurs-egypt.json](./325503-100-hiddensaurs-egypt.json) |
 | 100 Hiddensaurs: Eighties | 376893 | [376893-100-hiddensaurs-eighties.json](./376893-100-hiddensaurs-eighties.json) |
