@@ -20438,6 +20438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trillenium | 295153 | [295153-trillenium.json](./295153-trillenium.json) |
 | Trillionia | 106632 | [106632-trillionia.json](./106632-trillionia.json) |
 | Trilogic | 91978 | [91978-trilogic.json](./91978-trilogic.json) |
+| Trilogy Kuki Youka Shinden | 153741 | [153741-trilogy-kuki-youka-shinden.json](./153741-trilogy-kuki-youka-shinden.json) |
 | Trilogy of the Moon | 339795 | [339795-trilogy-of-the-moon.json](./339795-trilogy-of-the-moon.json) |
 | Trim For Your Dream | 266270 | [266270-trim-for-your-dream.json](./266270-trim-for-your-dream.json) |
 | Trimjob | 373308 | [373308-trimjob.json](./373308-trimjob.json) |
@@ -21741,6 +21742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Stick Heroes | 141875 | [141875-twin-stick-heroes.json](./141875-twin-stick-heroes.json) |
 | Twin Stick Tanks | 157075 | [157075-twin-stick-tanks.json](./157075-twin-stick-tanks.json) |
 | Twin Stick Tennis | 244689 | [244689-twin-stick-tennis.json](./244689-twin-stick-tennis.json) |
+| Twin Stones: The Journey of Bukka | 153729 | [153729-twin-stones-the-journey-of-bukka.json](./153729-twin-stones-the-journey-of-bukka.json) |
 | Twin Tornado | 363889 | [363889-twin-tornado.json](./363889-twin-tornado.json) |
 | Twin Trials | 357165 | [357165-twin-trials.json](./357165-twin-trials.json) |
 | Twin Turbo V8 | 13042 | [13042-twin-turbo-v8.json](./13042-twin-turbo-v8.json) |
