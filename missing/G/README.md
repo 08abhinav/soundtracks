@@ -2896,6 +2896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl in the B.L | 303787 | [303787-girl-in-the-b-l.json](./303787-girl-in-the-b-l.json) |
 | Girl Jack | 67380 | [67380-girl-jack.json](./67380-girl-jack.json) |
 | Girl Jigsaw 2 | 154365 | [154365-girl-jigsaw-2.json](./154365-girl-jigsaw-2.json) |
+| Girl Jigsaw 2: Patch | 162993 | [162993-girl-jigsaw-2-patch.json](./162993-girl-jigsaw-2-patch.json) |
 | Girl Like A Dreaming Two in a Restless Night | 391854 | [391854-girl-like-a-dreaming-two-in-a-restless-night.json](./391854-girl-like-a-dreaming-two-in-a-restless-night.json) |
 | Girl Like A Dreaming: Flowering Sacrifice | 284490 | [284490-girl-like-a-dreaming-flowering-sacrifice.json](./284490-girl-like-a-dreaming-flowering-sacrifice.json) |
 | Girl Meets Princess | 82841 | [82841-girl-meets-princess.json](./82841-girl-meets-princess.json) |
@@ -7235,6 +7236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunSoul Girl 2 | 213000 | [213000-gunsoul-girl-2.json](./213000-gunsoul-girl-2.json) |
 | GunSpectre | 236882 | [236882-gunspectre.json](./236882-gunspectre.json) |
 | Gunspell | 54071 | [54071-gunspell.json](./54071-gunspell.json) |
+| Gunspell 2: Match 3 Puzzle RPG | 163550 | [163550-gunspell-2-match-3-puzzle-rpg.json](./163550-gunspell-2-match-3-puzzle-rpg.json) |
 | Gunspell: Steam Edition | 36221 | [36221-gunspell-steam-edition.json](./36221-gunspell-steam-edition.json) |
 | Gunsport | 52239 | [52239-gunsport.json](./52239-gunsport.json) |
 | Gunstable | 180800 | [180800-gunstable.json](./180800-gunstable.json) |
