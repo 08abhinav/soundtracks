@@ -2118,6 +2118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void & Nothingness | 30762 | [30762-void-and-nothingness.json](./30762-void-and-nothingness.json) |
 | Void and Meddler | 25941 | [25941-void-and-meddler.json](./25941-void-and-meddler.json) |
 | Void And Rainbow | 256875 | [256875-void-and-rainbow.json](./256875-void-and-rainbow.json) |
+| Void Arena | 155844 | [155844-void-arena.json](./155844-void-arena.json) |
 | Void Authority | 355041 | [355041-void-authority.json](./355041-void-authority.json) |
 | Void Bastards | 111846 | [111846-void-bastards.json](./111846-void-bastards.json) |
 | Void Blitzing | 236505 | [236505-void-blitzing.json](./236505-void-blitzing.json) |
@@ -2600,6 +2601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Snowballs | 29957 | [29957-vr-snowballs.json](./29957-vr-snowballs.json) |
 | VR Soccer Training | 86585 | [86585-vr-soccer-training.json](./86585-vr-soccer-training.json) |
 | VR Solar System Traveler | 190897 | [190897-vr-solar-system-traveler.json](./190897-vr-solar-system-traveler.json) |
+| VR Spaceship Battle | 155882 | [155882-vr-spaceship-battle.json](./155882-vr-spaceship-battle.json) |
 | VR Sport and Cycling | 116304 | [116304-vr-sport-and-cycling.json](./116304-vr-sport-and-cycling.json) |
 | VR Squash 2017 | 74398 | [74398-vr-squash-2017.json](./74398-vr-squash-2017.json) |
 | VR Stalker | 4272 | [4272-vr-stalker.json](./4272-vr-stalker.json) |
