@@ -152,10 +152,27 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 10 Global: Aerosoft - Airport Manchester | 162829 | [162829-x-plane-10-global-aerosoft-airport-manchester.json](./162829-x-plane-10-global-aerosoft-airport-manchester.json) |
 | X-Plane 10 Global: Aerosoft - Airport Mykonos | 162825 | [162825-x-plane-10-global-aerosoft-airport-mykonos.json](./162825-x-plane-10-global-aerosoft-airport-mykonos.json) |
 | X-Plane 10 Global: Aerosoft - Airport Pullman-Moscow | 162826 | [162826-x-plane-10-global-aerosoft-airport-pullman-moscow.json](./162826-x-plane-10-global-aerosoft-airport-pullman-moscow.json) |
+| X-Plane 10 Global: Aerosoft - CZST Stewart | 168802 | [168802-x-plane-10-global-aerosoft-czst-stewart.json](./168802-x-plane-10-global-aerosoft-czst-stewart.json) |
+| X-Plane 10 Global: Africa Scenery | 168801 | [168801-x-plane-10-global-africa-scenery.json](./168801-x-plane-10-global-africa-scenery.json) |
+| X-Plane 10 Global: Asia Scenery | 168800 | [168800-x-plane-10-global-asia-scenery.json](./168800-x-plane-10-global-asia-scenery.json) |
+| X-Plane 10 Global: Carenado - A36 Bonanza | 168810 | [168810-x-plane-10-global-carenado-a36-bonanza.json](./168810-x-plane-10-global-carenado-a36-bonanza.json) |
+| X-Plane 10 Global: Carenado - B200 King Air | 168806 | [168806-x-plane-10-global-carenado-b200-king-air.json](./168806-x-plane-10-global-carenado-b200-king-air.json) |
+| X-Plane 10 Global: Carenado - B58 Baron | 168797 | [168797-x-plane-10-global-carenado-b58-baron.json](./168797-x-plane-10-global-carenado-b58-baron.json) |
+| X-Plane 10 Global: Carenado - C152 II | 168799 | [168799-x-plane-10-global-carenado-c152-ii.json](./168799-x-plane-10-global-carenado-c152-ii.json) |
+| X-Plane 10 Global: Carenado - C172N Skyhawk II | 168804 | [168804-x-plane-10-global-carenado-c172n-skyhawk-ii.json](./168804-x-plane-10-global-carenado-c172n-skyhawk-ii.json) |
+| X-Plane 10 Global: Carenado - C185F Skywagon | 168798 | [168798-x-plane-10-global-carenado-c185f-skywagon.json](./168798-x-plane-10-global-carenado-c185f-skywagon.json) |
 | X-Plane 10 Global: Carenado - C208B Grand Caravan | 168813 | [168813-x-plane-10-global-carenado-c208b-grand-caravan.json](./168813-x-plane-10-global-carenado-c208b-grand-caravan.json) |
+| X-Plane 10 Global: Carenado - C340 II | 168807 | [168807-x-plane-10-global-carenado-c340-ii.json](./168807-x-plane-10-global-carenado-c340-ii.json) |
+| X-Plane 10 Global: Carenado - CT206H Stationair | 168803 | [168803-x-plane-10-global-carenado-ct206h-stationair.json](./168803-x-plane-10-global-carenado-ct206h-stationair.json) |
+| X-Plane 10 Global: Carenado - CT210M Centurion II | 168811 | [168811-x-plane-10-global-carenado-ct210m-centurion-ii.json](./168811-x-plane-10-global-carenado-ct210m-centurion-ii.json) |
 | X-Plane 10 Global: Carenado - F33A Bonanza | 168812 | [168812-x-plane-10-global-carenado-f33a-bonanza.json](./168812-x-plane-10-global-carenado-f33a-bonanza.json) |
+| X-Plane 10 Global: Carenado - M20J 201 | 168808 | [168808-x-plane-10-global-carenado-m20j-201.json](./168808-x-plane-10-global-carenado-m20j-201.json) |
 | X-Plane 10 Global: Carenado - PA28 181 Archer II | 168815 | [168815-x-plane-10-global-carenado-pa28-181-archer-ii.json](./168815-x-plane-10-global-carenado-pa28-181-archer-ii.json) |
+| X-Plane 10 Global: Carenado - PA32R 301 Saratoga SP | 168805 | [168805-x-plane-10-global-carenado-pa32r-301-saratoga-sp.json](./168805-x-plane-10-global-carenado-pa32r-301-saratoga-sp.json) |
+| X-Plane 10 Global: Carenado - PA34 200T Seneca II | 168795 | [168795-x-plane-10-global-carenado-pa34-200t-seneca-ii.json](./168795-x-plane-10-global-carenado-pa34-200t-seneca-ii.json) |
 | X-Plane 10 Global: Carenado - V35 Bonanza | 168816 | [168816-x-plane-10-global-carenado-v35-bonanza.json](./168816-x-plane-10-global-carenado-v35-bonanza.json) |
+| X-Plane 10 Global: Europe Scenery | 168796 | [168796-x-plane-10-global-europe-scenery.json](./168796-x-plane-10-global-europe-scenery.json) |
+| X-Plane 10 Global: North America Scenery | 168809 | [168809-x-plane-10-global-north-america-scenery.json](./168809-x-plane-10-global-north-america-scenery.json) |
 | X-Plane 10 Global: South America Scenery | 168814 | [168814-x-plane-10-global-south-america-scenery.json](./168814-x-plane-10-global-south-america-scenery.json) |
 | X-Plane 10: Regional Edition - North America | 205810 | [205810-x-plane-10-regional-edition-north-america.json](./205810-x-plane-10-regional-edition-north-america.json) |
 | X-Plane 11: Aerosoft - Airport Alta | 162780 | [162780-x-plane-11-aerosoft-airport-alta.json](./162780-x-plane-11-aerosoft-airport-alta.json) |
