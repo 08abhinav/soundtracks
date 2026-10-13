@@ -7980,6 +7980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Sink | 75173 | [75173-dont-sink.json](./75173-dont-sink.json) |
 | Don't Sleep | 343400 | [343400-dont-sleep.json](./343400-dont-sleep.json) |
 | Don’t Sleep with the Fishes | 403674 | [403674-don-t-sleep-with-the-fishes.json](./403674-don-t-sleep-with-the-fishes.json) |
+| Don't Spill | 167385 | [167385-dont-spill.json](./167385-dont-spill.json) |
 | Don't Stand Out | 90134 | [90134-dont-stand-out.json](./90134-dont-stand-out.json) |
 | Don't Stare | 153936 | [153936-dont-stare.json](./153936-dont-stare.json) |
 | Don't Starve Alone Pack Plus | 227173 | [227173-dont-starve-alone-pack-plus.json](./227173-dont-starve-alone-pack-plus.json) |
@@ -9535,6 +9536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Nest M | 104643 | [104643-dragon-nest-m.json](./104643-dragon-nest-m.json) |
 | Dragon Nest: Rebirth of Legend | 345998 | [345998-dragon-nest-rebirth-of-legend.json](./345998-dragon-nest-rebirth-of-legend.json) |
 | Dragon Ninja Byoka | 192628 | [192628-dragon-ninja-byoka.json](./192628-dragon-ninja-byoka.json) |
+| Dragon Ninja Clan: Sword of Destiny Game | 167367 | [167367-dragon-ninja-clan-sword-of-destiny-game.json](./167367-dragon-ninja-clan-sword-of-destiny-game.json) |
 | Dragon Oath | 59945 | [59945-dragon-oath.json](./59945-dragon-oath.json) |
 | Dragon of Calon Valley | 323737 | [323737-dragon-of-calon-valley.json](./323737-dragon-of-calon-valley.json) |
 | Dragon of Illusion | 407283 | [407283-dragon-of-illusion.json](./407283-dragon-of-illusion.json) |
