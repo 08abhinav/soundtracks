@@ -2505,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether Effect | 357787 | [357787-aether-effect.json](./357787-aether-effect.json) |
 | Aether Hexxen: Death-Space Requiem Act1 | 379571 | [379571-aether-hexxen-death-space-requiem-act1.json](./379571-aether-hexxen-death-space-requiem-act1.json) |
 | Aether Rush | 379568 | [379568-aether-rush.json](./379568-aether-rush.json) |
+| Aether Story | 138474 | [138474-aether-story.json](./138474-aether-story.json) |
 | Aether Way | 113506 | [113506-aether-way.json](./113506-aether-way.json) |
 | Aether: Wizard Life | 235487 | [235487-aether-wizard-life.json](./235487-aether-wizard-life.json) |
 | Aether’s Echo: Yazid’s Paradox | 379569 | [379569-aether-s-echo-yazid-s-paradox.json](./379569-aether-s-echo-yazid-s-paradox.json) |
@@ -5806,6 +5807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Aliens: The Game | 211402 | [211402-ancient-aliens-the-game.json](./211402-ancient-aliens-the-game.json) |
 | Ancient Allies Tower Defense | 233452 | [233452-ancient-allies-tower-defense.json](./233452-ancient-allies-tower-defense.json) |
 | Ancient and Arcane: Escape Room Bundle | 410840 | [410840-ancient-and-arcane-escape-room-bundle.json](./410840-ancient-and-arcane-escape-room-bundle.json) |
+| Ancient Anguish MUD | 138502 | [138502-ancient-anguish-mud.json](./138502-ancient-anguish-mud.json) |
 | Ancient Arrow | 239666 | [239666-ancient-arrow.json](./239666-ancient-arrow.json) |
 | Ancient Battle: Alexander | 120759 | [120759-ancient-battle-alexander.json](./120759-ancient-battle-alexander.json) |
 | Ancient Battle: Hannibal - Gold | 201258 | [201258-ancient-battle-hannibal-gold.json](./201258-ancient-battle-hannibal-gold.json) |
