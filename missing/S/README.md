@@ -4729,6 +4729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai.EXE: Genso Network | 142121 | [142121-shanghai-exe-genso-network.json](./142121-shanghai-exe-genso-network.json) |
 | Shanghai1920 | 169452 | [169452-shanghai1920.json](./169452-shanghai1920.json) |
 | Shanhai: Spirits of Myth | 419970 | [419970-shanhai-spirits-of-myth.json](./419970-shanhai-spirits-of-myth.json) |
+| Shanhe | 166811 | [166811-shanhe.json](./166811-shanhe.json) |
 | Shanhe Remain | 375988 | [375988-shanhe-remain.json](./375988-shanhe-remain.json) |
 | Shank | 7518 | [7518-shank.json](./7518-shank.json) |
 | Shank the Cop | 155988 | [155988-shank-the-cop.json](./155988-shank-the-cop.json) |
@@ -6966,6 +6967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simantik | 224685 | [224685-simantik.json](./224685-simantik.json) |
 | Simba the Cat | 204820 | [204820-simba-the-cat.json](./204820-simba-the-cat.json) |
 | SimbaQuest | 243699 | [243699-simbaquest.json](./243699-simbaquest.json) |
+| SimBus | 166815 | [166815-simbus.json](./166815-simbus.json) |
 | SimCasino | 141132 | [141132-simcasino.json](./141132-simcasino.json) |
 | SimCity | 1274 | [1274-simcity.json](./1274-simcity.json) |
 | SimCity | 180002 | [180002-simcity.json](./180002-simcity.json) |
@@ -10393,6 +10395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokocat - Islands | 147449 | [147449-sokocat-islands.json](./147449-sokocat-islands.json) |
 | Sokocat: Castaway | 399689 | [399689-sokocat-castaway.json](./399689-sokocat-castaway.json) |
 | Sokocat: Combo | 203267 | [203267-sokocat-combo.json](./203267-sokocat-combo.json) |
+| Sokocat: Dungeon | 166808 | [166808-sokocat-dungeon.json](./166808-sokocat-dungeon.json) |
 | SokoChess | 201496 | [201496-sokochess.json](./201496-sokochess.json) |
 | SokoChess White | 232960 | [232960-sokochess-white.json](./232960-sokochess-white.json) |
 | SokoCode | 322593 | [322593-sokocode.json](./322593-sokocode.json) |
@@ -15740,6 +15743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ring | 295927 | [295927-star-ring.json](./295927-star-ring.json) |
 | Star Rising | 353391 | [353391-star-rising.json](./353391-star-rising.json) |
 | Star Ronin | 320744 | [320744-star-ronin.json](./320744-star-ronin.json) |
+| Star Rover | 166820 | [166820-star-rover.json](./166820-star-rover.json) |
 | Star Ruler | 9556 | [9556-star-ruler.json](./9556-star-ruler.json) |
 | Star Ruler 2 | 19170 | [19170-star-ruler-2.json](./19170-star-ruler-2.json) |
 | Star Ruler 2: Wake of the Heralds | 19204 | [19204-star-ruler-2-wake-of-the-heralds.json](./19204-star-ruler-2-wake-of-the-heralds.json) |
@@ -16084,6 +16088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: X-Wing vs. TIE Fighter | 170 | [170-star-wars-x-wing-vs-tie-fighter.json](./170-star-wars-x-wing-vs-tie-fighter.json) |
 | Star Waspir | 318724 | [318724-star-waspir.json](./318724-star-waspir.json) |
 | Star Wing | 385716 | [385716-star-wing.json](./385716-star-wing.json) |
+| Star Wish Traveler | 166837 | [166837-star-wish-traveler.json](./166837-star-wish-traveler.json) |
 | Star Witch | 190224 | [190224-star-witch.json](./190224-star-witch.json) |
 | Star Wolves 3: Ashes of Victory | 65847 | [65847-star-wolves-3-ashes-of-victory.json](./65847-star-wolves-3-ashes-of-victory.json) |
 | Star Wolves 3: Civil War | 9851 | [9851-star-wolves-3-civil-war.json](./9851-star-wolves-3-civil-war.json) |
@@ -19046,6 +19051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudden Strike: Resource War | 27609 | [27609-sudden-strike-resource-war.json](./27609-sudden-strike-resource-war.json) |
 | Suddenly an Ogre | 308493 | [308493-suddenly-an-ogre.json](./308493-suddenly-an-ogre.json) |
 | Suddenly Bird | 274672 | [274672-suddenly-bird.json](./274672-suddenly-bird.json) |
+| Suddenly Meow | 166810 | [166810-suddenly-meow.json](./166810-suddenly-meow.json) |
 | Suddenly Meow 2 | 197932 | [197932-suddenly-meow-2.json](./197932-suddenly-meow-2.json) |
 | Sudeki | 6179 | [6179-sudeki.json](./6179-sudeki.json) |
 | Sudo Cats | 221263 | [221263-sudo-cats.json](./221263-sudo-cats.json) |
