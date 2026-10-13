@@ -2011,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gensei Suikoden Plus | 263685 | [263685-gensei-suikoden-plus.json](./263685-gensei-suikoden-plus.json) |
 | Gensei Torimonocho | 263680 | [263680-gensei-torimonocho.json](./263680-gensei-torimonocho.json) |
 | Genseijin Justirisers | 49607 | [49607-genseijin-justirisers.json](./49607-genseijin-justirisers.json) |
+| Genshi no Kotoba | 144730 | [144730-genshi-no-kotoba.json](./144730-genshi-no-kotoba.json) |
 | Genshin Impact: A Nocturne of the Far North | 378320 | [378320-genshin-impact-a-nocturne-of-the-far-north.json](./378320-genshin-impact-a-nocturne-of-the-far-north.json) |
 | Genshin Impact: A Rekviem for the Underworld | 417641 | [417641-genshin-impact-a-rekviem-for-the-underworld.json](./417641-genshin-impact-a-rekviem-for-the-underworld.json) |
 | Genshin Impact: Akasha Pulses, the Kalpa Flame Rises | 257453 | [257453-genshin-impact-akasha-pulses-the-kalpa-flame-rises.json](./257453-genshin-impact-akasha-pulses-the-kalpa-flame-rises.json) |
@@ -6516,6 +6517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gua-Le-Ni | 186662 | [186662-gua-le-ni.json](./186662-gua-le-ni.json) |
 | Guac' a Mole | 85170 | [85170-guac-a-mole.json](./85170-guac-a-mole.json) |
 | Guacamelee! 2 Complete | 119074 | [119074-guacamelee-2-complete.json](./119074-guacamelee-2-complete.json) |
+| Guacamelee! 2: The Proving Grounds | 144703 | [144703-guacamelee-2-the-proving-grounds.json](./144703-guacamelee-2-the-proving-grounds.json) |
 | Guacamelee! 2: Three Enemigos Character Pack | 155046 | [155046-guacamelee-2-three-enemigos-character-pack.json](./155046-guacamelee-2-three-enemigos-character-pack.json) |
 | Guacamelee! One-Two Punch Collection | 115023 | [115023-guacamelee-one-two-punch-collection.json](./115023-guacamelee-one-two-punch-collection.json) |
 | Guacamojo | 201693 | [201693-guacamojo.json](./201693-guacamojo.json) |
