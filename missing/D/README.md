@@ -657,6 +657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Ducklings | 219749 | [219749-danger-ducklings.json](./219749-danger-ducklings.json) |
 | Danger Forever | 169866 | [169866-danger-forever.json](./169866-danger-forever.json) |
 | Danger Freak | 66777 | [66777-danger-freak.json](./66777-danger-freak.json) |
+| Danger Gazers: Next Stop | 170224 | [170224-danger-gazers-next-stop.json](./170224-danger-gazers-next-stop.json) |
 | Danger Girl | 45226 | [45226-danger-girl.json](./45226-danger-girl.json) |
 | Danger Horizon | 329178 | [329178-danger-horizon.json](./329178-danger-horizon.json) |
 | Danger in Body | 247982 | [247982-danger-in-body.json](./247982-danger-in-body.json) |
@@ -714,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Superheroes After Dark: Heroines Behind the Mask | 396131 | [396131-dangerous-superheroes-after-dark-heroines-behind-the-mask.json](./396131-dangerous-superheroes-after-dark-heroines-behind-the-mask.json) |
 | Dangerous Village Tradition | 273660 | [273660-dangerous-village-tradition.json](./273660-dangerous-village-tradition.json) |
 | Dangerous World | 300504 | [300504-dangerous-world.json](./300504-dangerous-world.json) |
+| Dangerous Zone | 169741 | [169741-dangerous-zone.json](./169741-dangerous-zone.json) |
 | Dangerous! Too Sweet!! | 148460 | [148460-dangerous-too-sweet.json](./148460-dangerous-too-sweet.json) |
 | DangerousPath | 369640 | [369640-dangerouspath.json](./369640-dangerouspath.json) |
 | Dangers Afloat | 176459 | [176459-dangers-afloat.json](./176459-dangers-afloat.json) |
@@ -914,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Cube | 125906 | [125906-dark-cube.json](./125906-dark-cube.json) |
 | Dark Data | 120754 | [120754-dark-data.json](./120754-dark-data.json) |
 | Dark Day Afternoon | 140598 | [140598-dark-day-afternoon.json](./140598-dark-day-afternoon.json) |
+| Dark Days | 170255 | [170255-dark-days.json](./170255-dark-days.json) |
 | Dark Days of Horror | 102181 | [102181-dark-days-of-horror.json](./102181-dark-days-of-horror.json) |
 | Dark Days: Devil Hunt | 224605 | [224605-dark-days-devil-hunt.json](./224605-dark-days-devil-hunt.json) |
 | Dark Days: Zombie Survival | 197372 | [197372-dark-days-zombie-survival.json](./197372-dark-days-zombie-survival.json) |
@@ -1760,6 +1763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of the Devs | 23847 | [23847-dawn-of-the-devs.json](./23847-dawn-of-the-devs.json) |
 | Dawn of the Dragons | 23629 | [23629-dawn-of-the-dragons.json](./23629-dawn-of-the-dragons.json) |
 | Dawn of the Dragons: Ascension | 117144 | [117144-dawn-of-the-dragons-ascension.json](./117144-dawn-of-the-dragons-ascension.json) |
+| Dawn of the Falkonir | 169730 | [169730-dawn-of-the-falkonir.json](./169730-dawn-of-the-falkonir.json) |
 | Dawn of the Fred | 82316 | [82316-dawn-of-the-fred.json](./82316-dawn-of-the-fred.json) |
 | Dawn of the Immortals | 38917 | [38917-dawn-of-the-immortals.json](./38917-dawn-of-the-immortals.json) |
 | Dawn of the killer zombies | 90626 | [90626-dawn-of-the-killer-zombies.json](./90626-dawn-of-the-killer-zombies.json) |
@@ -2777,6 +2781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Crimson 2: Meranito no Saidan | 60497 | [60497-death-crimson-2-meranito-no-saidan.json](./60497-death-crimson-2-meranito-no-saidan.json) |
 | Death Crimson OX | 40106 | [40106-death-crimson-ox.json](./40106-death-crimson-ox.json) |
 | Death Crown | 90270 | [90270-death-crown.json](./90270-death-crown.json) |
+| Death Crown: Demonic Menace | 169909 | [169909-death-crown-demonic-menace.json](./169909-death-crown-demonic-menace.json) |
 | Death Crown: Era of Human | 171920 | [171920-death-crown-era-of-human.json](./171920-death-crown-era-of-human.json) |
 | Death Crown: Immortal Edition | 262890 | [262890-death-crown-immortal-edition.json](./262890-death-crown-immortal-edition.json) |
 | Death Cube | 199096 | [199096-death-cube.json](./199096-death-cube.json) |
@@ -2953,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death's Door: Ultimate Edition | 206673 | [206673-deaths-door-ultimate-edition.json](./206673-deaths-door-ultimate-edition.json) |
 | Death's Dungeon | 235671 | [235671-deaths-dungeon.json](./235671-deaths-dungeon.json) |
 | Death's Gambit: Afterlife - Ashes of Vados | 193750 | [193750-deaths-gambit-afterlife-ashes-of-vados.json](./193750-deaths-gambit-afterlife-ashes-of-vados.json) |
+| Death's Gambit: Afterlife - Definitive Edition | 170045 | [170045-deaths-gambit-afterlife-definitive-edition.json](./170045-deaths-gambit-afterlife-definitive-edition.json) |
 | Death's Life | 32030 | [32030-deaths-life.json](./32030-deaths-life.json) |
 | Death's Life 2 | 406868 | [406868-deaths-life-2.json](./406868-deaths-life-2.json) |
 | Death's Playground | 208603 | [208603-deaths-playground.json](./208603-deaths-playground.json) |
@@ -4373,6 +4379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Der Zorn Gottes | 308241 | [308241-der-zorn-gottes.json](./308241-der-zorn-gottes.json) |
 | Derace | 393602 | [393602-derace.json](./393602-derace.json) |
 | Derail: Sacrifice | 351057 | [351057-derail-sacrifice.json](./351057-derail-sacrifice.json) |
+| DeRailed | 169664 | [169664-derailed.json](./169664-derailed.json) |
 | DeRailed | 179438 | [179438-derailed.json](./179438-derailed.json) |
 | Derange | 129099 | [129099-derange.json](./129099-derange.json) |
 | Deranged Rabbits | 33389 | [33389-deranged-rabbits.json](./33389-deranged-rabbits.json) |
@@ -8343,6 +8350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Eternal KaiserCampaign | 344310 | [344310-doom-eternal-kaisercampaign.json](./344310-doom-eternal-kaisercampaign.json) |
 | Doom Eternal: The Ancient Gods - Expansion Pass | 281566 | [281566-doom-eternal-the-ancient-gods-expansion-pass.json](./281566-doom-eternal-the-ancient-gods-expansion-pass.json) |
 | Doom Eternal: The Ancient Gods - Part Two | 144731 | [144731-doom-eternal-the-ancient-gods-part-two.json](./144731-doom-eternal-the-ancient-gods-part-two.json) |
+| Doom Eternal: The Rip and Tear Pack | 169908 | [169908-doom-eternal-the-rip-and-tear-pack.json](./169908-doom-eternal-the-rip-and-tear-pack.json) |
 | Doom Eternal: Year One Pass | 293919 | [293919-doom-eternal-year-one-pass.json](./293919-doom-eternal-year-one-pass.json) |
 | Doom Fighters | 202839 | [202839-doom-fighters.json](./202839-doom-fighters.json) |
 | Doom GTS | 76246 | [76246-doom-gts.json](./76246-doom-gts.json) |
@@ -8792,6 +8800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Line | 141854 | [141854-double-line.json](./141854-double-line.json) |
 | Double Match | 83458 | [83458-double-match.json](./83458-double-match.json) |
 | Double Panda | 408994 | [408994-double-panda.json](./408994-double-panda.json) |
+| Double Play | 170258 | [170258-double-play.json](./170258-double-play.json) |
 | Double Puzzled | 243794 | [243794-double-puzzled.json](./243794-double-puzzled.json) |
 | Double Reaction! Plus | 175973 | [175973-double-reaction-plus.json](./175973-double-reaction-plus.json) |
 | Double Romance | 172424 | [172424-double-romance.json](./172424-double-romance.json) |
@@ -8957,6 +8966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downward: Enhanced Edition | 301912 | [301912-downward-enhanced-edition.json](./301912-downward-enhanced-edition.json) |
 | Dowon | 292299 | [292299-dowon.json](./292299-dowon.json) |
 | Doxxed | 214111 | [214111-doxxed.json](./214111-doxxed.json) |
+| DoxyLanD | 169662 | [169662-doxyland.json](./169662-doxyland.json) |
 | Dozie Penguins | 216411 | [216411-dozie-penguins.json](./216411-dozie-penguins.json) |
 | DP.T: Dr Pepper Terror | 140916 | [140916-dp-t-dr-pepper-terror.json](./140916-dp-t-dr-pepper-terror.json) |
 | Dps Idle | 161333 | [161333-dps-idle.json](./161333-dps-idle.json) |
