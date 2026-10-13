@@ -1055,6 +1055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capital Command | 153495 | [153495-capital-command.json](./153495-capital-command.json) |
 | Capital Dilemma | 283800 | [283800-capital-dilemma.json](./283800-capital-dilemma.json) |
 | Capital Fire | 284885 | [284885-capital-fire.json](./284885-capital-fire.json) |
+| Capital Island | 175124 | [175124-capital-island.json](./175124-capital-island.json) |
 | Capital Kings | 342635 | [342635-capital-kings.json](./342635-capital-kings.json) |
 | Capital Profit | 219220 | [219220-capital-profit.json](./219220-capital-profit.json) |
 | Capital Punishment | 14373 | [14373-capital-punishment.json](./14373-capital-punishment.json) |
@@ -1173,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain StarOne | 114939 | [114939-captain-starone.json](./114939-captain-starone.json) |
 | Captain Stu | 285938 | [285938-captain-stu.json](./285938-captain-stu.json) |
 | Captain Superhero Flying Robot Rescue | 101981 | [101981-captain-superhero-flying-robot-rescue.json](./101981-captain-superhero-flying-robot-rescue.json) |
+| Captain Temporium | 174579 | [174579-captain-temporium.json](./174579-captain-temporium.json) |
 | Captain Toad Treasure Tracker | 162427 | [162427-captain-toad-treasure-tracker.json](./162427-captain-toad-treasure-tracker.json) |
 | Captain Toad: Prism Star Quest | 358338 | [358338-captain-toad-prism-star-quest.json](./358338-captain-toad-prism-star-quest.json) |
 | Captain Toad: Treasure Tracker - Special Edition | 51139 | [51139-captain-toad-treasure-tracker-special-edition.json](./51139-captain-toad-treasure-tracker-special-edition.json) |
@@ -2618,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catal Carta | 416639 | [416639-catal-carta.json](./416639-catal-carta.json) |
 | Catale | 337289 | [337289-catale.json](./337289-catale.json) |
 | Cataline | 209710 | [209710-cataline.json](./209710-cataline.json) |
+| Cataline HD | 175315 | [175315-cataline-hd.json](./175315-cataline-hd.json) |
 | Catalypse | 186640 | [186640-catalypse.json](./186640-catalypse.json) |
 | Catalyst | 114333 | [114333-catalyst.json](./114333-catalyst.json) |
 | Catalyst | 352260 | [352260-catalyst.json](./352260-catalyst.json) |
@@ -3262,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cellofania | 279580 | [279580-cellofania.json](./279580-cellofania.json) |
 | Cellosseum | 264228 | [264228-cellosseum.json](./264228-cellosseum.json) |
 | Cells | 331385 | [331385-cells.json](./331385-cells.json) |
+| Cells at Work: Battle | 174786 | [174786-cells-at-work-battle.json](./174786-cells-at-work-battle.json) |
 | Cells of Division | 406329 | [406329-cells-of-division.json](./406329-cells-of-division.json) |
 | CellTD | 183879 | [183879-celltd.json](./183879-celltd.json) |
 | Cellular Harvest: Purple | 152276 | [152276-cellular-harvest-purple.json](./152276-cellular-harvest-purple.json) |
@@ -4193,6 +4197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Boss | 175197 | [175197-chess-boss.json](./175197-chess-boss.json) |
 | Chess Brain: Dark Troops | 157156 | [157156-chess-brain-dark-troops.json](./157156-chess-brain-dark-troops.json) |
 | Chess But All At Once | 300493 | [300493-chess-but-all-at-once.json](./300493-chess-but-all-at-once.json) |
+| Chess Cards: Mate! Unlimited | 175309 | [175309-chess-cards-mate-unlimited.json](./175309-chess-cards-mate-unlimited.json) |
 | Chess Cartoons | 196826 | [196826-chess-cartoons.json](./196826-chess-cartoons.json) |
 | Chess Cats | 248068 | [248068-chess-cats.json](./248068-chess-cats.json) |
 | Chess Challenger | 227821 | [227821-chess-challenger.json](./227821-chess-challenger.json) |
@@ -4655,6 +4660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimera of Tactics 3: Gun and Soccer | 110353 | [110353-chimera-of-tactics-3-gun-and-soccer.json](./110353-chimera-of-tactics-3-gun-and-soccer.json) |
 | Chimera Pro | 417355 | [417355-chimera-pro.json](./417355-chimera-pro.json) |
 | Chimeral Fantasy | 223506 | [223506-chimeral-fantasy.json](./223506-chimeral-fantasy.json) |
+| Chimeraland | 174589 | [174589-chimeraland.json](./174589-chimeraland.json) |
 | Chimeras: Cherished Serpent | 417543 | [417543-chimeras-cherished-serpent.json](./417543-chimeras-cherished-serpent.json) |
 | Chimeras: Cursed and Forgotten | 103977 | [103977-chimeras-cursed-and-forgotten.json](./103977-chimeras-cursed-and-forgotten.json) |
 | Chimeras: Heavenfall Secrets | 187890 | [187890-chimeras-heavenfall-secrets.json](./187890-chimeras-heavenfall-secrets.json) |
@@ -6025,6 +6031,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civil War: Battle of Petersburg | 29657 | [29657-civil-war-battle-of-petersburg.json](./29657-civil-war-battle-of-petersburg.json) |
 | Civil War: Bull Run 1861 | 51549 | [51549-civil-war-bull-run-1861.json](./51549-civil-war-bull-run-1861.json) |
 | Civil War: Gettysburg | 55501 | [55501-civil-war-gettysburg.json](./55501-civil-war-gettysburg.json) |
+| Civil War: Pea Ridge | 175155 | [175155-civil-war-pea-ridge.json](./175155-civil-war-pea-ridge.json) |
+| Civil War: Stonewall | 175148 | [175148-civil-war-stonewall.json](./175148-civil-war-stonewall.json) |
 | Civil Warfare | 329048 | [329048-civil-warfare.json](./329048-civil-warfare.json) |
 | Civil Warfare: Another Bullet in the War | 79136 | [79136-civil-warfare-another-bullet-in-the-war.json](./79136-civil-warfare-another-bullet-in-the-war.json) |
 | CivilContractRPG | 125847 | [125847-civilcontractrpg.json](./125847-civilcontractrpg.json) |
@@ -6115,6 +6123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash Heroes | 145547 | [145547-clash-heroes.json](./145547-clash-heroes.json) |
 | Clash Memory Game | 158557 | [158557-clash-memory-game.json](./158557-clash-memory-game.json) |
 | Clash Mini | 172495 | [172495-clash-mini.json](./172495-clash-mini.json) |
+| Clash of Aliens | 175144 | [175144-clash-of-aliens.json](./175144-clash-of-aliens.json) |
 | Clash of Beasts | 197185 | [197185-clash-of-beasts.json](./197185-clash-of-beasts.json) |
 | Clash of Blades | 265109 | [265109-clash-of-blades.json](./265109-clash-of-blades.json) |
 | Clash of Champs | 56529 | [56529-clash-of-champs.json](./56529-clash-of-champs.json) |
@@ -9117,8 +9126,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Mama World: Hobbies & Fun | 47957 | [47957-cooking-mama-world-hobbies-and-fun.json](./47957-cooking-mama-world-hobbies-and-fun.json) |
 | Cooking Mama: Let's Cook! | 88776 | [88776-cooking-mama-lets-cook.json](./88776-cooking-mama-lets-cook.json) |
 | Cooking Mama: Mama Kills Animals | 18449 | [18449-cooking-mama-mama-kills-animals.json](./18449-cooking-mama-mama-kills-animals.json) |
+| Cooking Mania | 174773 | [174773-cooking-mania.json](./174773-cooking-mania.json) |
 | Cooking Misha | 399752 | [399752-cooking-misha.json](./399752-cooking-misha.json) |
 | Cooking Papa: Cookstar | 237641 | [237641-cooking-papa-cookstar.json](./237641-cooking-papa-cookstar.json) |
+| Cooking Simulator Mobile | 174780 | [174780-cooking-simulator-mobile.json](./174780-cooking-simulator-mobile.json) |
 | Cooking Simulator: Cakes and Cookies | 129196 | [129196-cooking-simulator-cakes-and-cookies.json](./129196-cooking-simulator-cakes-and-cookies.json) |
 | Cooking Simulator: Pizza | 299378 | [299378-cooking-simulator-pizza.json](./299378-cooking-simulator-pizza.json) |
 | Cooking Simulator: Sushi | 273371 | [273371-cooking-simulator-sushi.json](./273371-cooking-simulator-sushi.json) |
@@ -12322,6 +12333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubrick | 28792 | [28792-cubrick.json](./28792-cubrick.json) |
 | Cubs Story: | 368630 | [368630-cubs-story.json](./368630-cubs-story.json) |
 | CubScouting: OnTarget | 65759 | [65759-cubscouting-ontarget.json](./65759-cubscouting-ontarget.json) |
+| CuBuGo | 175130 | [175130-cubugo.json](./175130-cubugo.json) |
 | Cubuleto | 374124 | [374124-cubuleto.json](./374124-cubuleto.json) |
 | Cubway | 31800 | [31800-cubway.json](./31800-cubway.json) |
 | Cuby Bop | 39675 | [39675-cuby-bop.json](./39675-cuby-bop.json) |
