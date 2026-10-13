@@ -3201,6 +3201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who's That Pokémon? | 191640 | [191640-whos-that-pokemon.json](./191640-whos-that-pokemon.json) |
 | Who's the Boss | 297803 | [297803-whos-the-boss.json](./297803-whos-the-boss.json) |
 | Who's the Celeb? | 233071 | [233071-whos-the-celeb.json](./233071-whos-the-celeb.json) |
+| Who’s the Fairest of Them All | 177779 | [177779-who-s-the-fairest-of-them-all.json](./177779-who-s-the-fairest-of-them-all.json) |
 | Who's the Traitor | 273655 | [273655-whos-the-traitor.json](./273655-whos-the-traitor.json) |
 | Who's Who 2.0 | 336393 | [336393-whos-who-2-0.json](./336393-whos-who-2-0.json) |
 | Who's Your Daddy | 15746 | [15746-whos-your-daddy.json](./15746-whos-your-daddy.json) |
