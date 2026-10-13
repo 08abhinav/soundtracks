@@ -3907,6 +3907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Perk | 142133 | [142133-eternal-perk.json](./142133-eternal-perk.json) |
 | Eternal Poison | 21334 | [21334-eternal-poison.json](./21334-eternal-poison.json) |
 | Eternal Puppet | 291394 | [291394-eternal-puppet.json](./291394-eternal-puppet.json) |
+| Eternal Quest | 154266 | [154266-eternal-quest.json](./154266-eternal-quest.json) |
 | Eternal Quest | 43353 | [43353-eternal-quest.json](./43353-eternal-quest.json) |
 | Eternal Realm | 280723 | [280723-eternal-realm.json](./280723-eternal-realm.json) |
 | Eternal Reckoning | 287733 | [287733-eternal-reckoning.json](./287733-eternal-reckoning.json) |
