@@ -3504,6 +3504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Color World | 287168 | [287168-line-color-world.json](./287168-line-color-world.json) |
 | Line Crossing | 128580 | [128580-line-crossing.json](./128580-line-crossing.json) |
 | Line Crossing | 181386 | [181386-line-crossing.json](./181386-line-crossing.json) |
+| Line Dance Virtual | 139703 | [139703-line-dance-virtual.json](./139703-line-dance-virtual.json) |
 | Line Dots | 149205 | [149205-line-dots.json](./149205-line-dots.json) |
 | Line Drop: Spirit Catcher | 63134 | [63134-line-drop-spirit-catcher.json](./63134-line-drop-spirit-catcher.json) |
 | Line Forge BlackSmith | 402544 | [402544-line-forge-blacksmith.json](./402544-line-forge-blacksmith.json) |
@@ -5160,6 +5161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loskop | 200112 | [200112-loskop.json](./200112-loskop.json) |
 | Loss | 319061 | [319061-loss.json](./319061-loss.json) |
 | Loss at Sea | 384114 | [384114-loss-at-sea.json](./384114-loss-at-sea.json) |
+| Lost | 139715 | [139715-lost.json](./139715-lost.json) |
 | Lost | 186258 | [186258-lost.json](./186258-lost.json) |
 | Lost | 327379 | [327379-lost.json](./327379-lost.json) |
 | Lost | 99158 | [99158-lost.json](./99158-lost.json) |
@@ -5908,6 +5910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Moments: Dad and Daughter | 203802 | [203802-lovely-moments-dad-and-daughter.json](./203802-lovely-moments-dad-and-daughter.json) |
 | Lovely Neko Girl | 244302 | [244302-lovely-neko-girl.json](./244302-lovely-neko-girl.json) |
 | Lovely Nurse | 245823 | [245823-lovely-nurse.json](./245823-lovely-nurse.json) |
+| Lovely Overseer | 139704 | [139704-lovely-overseer.json](./139704-lovely-overseer.json) |
 | Lovely Plains | 217402 | [217402-lovely-plains.json](./217402-lovely-plains.json) |
 | Lovely Planet | 14326 | [14326-lovely-planet.json](./14326-lovely-planet.json) |
 | Lovely Planet 2: April Skies | 119351 | [119351-lovely-planet-2-april-skies.json](./119351-lovely-planet-2-april-skies.json) |
@@ -6555,6 +6558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lurk and Rouse | 217316 | [217316-lurk-and-rouse.json](./217316-lurk-and-rouse.json) |
 | Lurk in Abyss | 390141 | [390141-lurk-in-abyss.json](./390141-lurk-in-abyss.json) |
 | Lurker Legends | 162425 | [162425-lurker-legends.json](./162425-lurker-legends.json) |
+| Lurkers | 139706 | [139706-lurkers.json](./139706-lurkers.json) |
 | Lurking | 176866 | [176866-lurking.json](./176866-lurking.json) |
 | Lurking | 397408 | [397408-lurking.json](./397408-lurking.json) |
 | Lurking Danger | 337745 | [337745-lurking-danger.json](./337745-lurking-danger.json) |
