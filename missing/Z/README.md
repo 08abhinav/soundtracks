@@ -1311,6 +1311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombify Me Run | 221267 | [221267-zombify-me-run.json](./221267-zombify-me-run.json) |
 | Zombii Attack | 84966 | [84966-zombii-attack.json](./84966-zombii-attack.json) |
 | Zombillie | 33167 | [33167-zombillie.json](./33167-zombillie.json) |
+| Zombinoia | 137884 | [137884-zombinoia.json](./137884-zombinoia.json) |
 | Zombiolence | 256723 | [256723-zombiolence.json](./256723-zombiolence.json) |
 | Zombiology | 301638 | [301638-zombiology.json](./301638-zombiology.json) |
 | Zombitatos the end of the Pc master race | 31916 | [31916-zombitatos-the-end-of-the-pc-master-race.json](./31916-zombitatos-the-end-of-the-pc-master-race.json) |
