@@ -1486,6 +1486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Havoc | 276664 | [276664-harvest-havoc.json](./276664-harvest-havoc.json) |
 | Harvest Health | 236868 | [236868-harvest-health.json](./236868-harvest-health.json) |
 | Harvest Hustlers | 302363 | [302363-harvest-hustlers.json](./302363-harvest-hustlers.json) |
+| Harvest Island | 133155 | [133155-harvest-island.json](./133155-harvest-island.json) |
 | Harvest Island: Beginnings | 159878 | [159878-harvest-island-beginnings.json](./159878-harvest-island-beginnings.json) |
 | Harvest Island: Ending Expansion | 358240 | [358240-harvest-island-ending-expansion.json](./358240-harvest-island-ending-expansion.json) |
 | Harvest Knight | 276840 | [276840-harvest-knight.json](./276840-harvest-knight.json) |
@@ -2345,6 +2346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavenstrafer | 267461 | [267461-heavenstrafer.json](./267461-heavenstrafer.json) |
 | Heavenstrike Rivals | 26904 | [26904-heavenstrike-rivals.json](./26904-heavenstrike-rivals.json) |
 | Heaventaker | 176917 | [176917-heaventaker.json](./176917-heaventaker.json) |
+| Heavenworld | 133107 | [133107-heavenworld.json](./133107-heavenworld.json) |
 | HeavenX | 339841 | [339841-heavenx.json](./339841-heavenx.json) |
 | Heavy Armored Assassin | 241287 | [241287-heavy-armored-assassin.json](./241287-heavy-armored-assassin.json) |
 | Heavy As Stone | 322601 | [322601-heavy-as-stone.json](./322601-heavy-as-stone.json) |
@@ -4133,6 +4135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Bots | 338313 | [338313-hex-bots.json](./338313-hex-bots.json) |
 | Hex For Hire | 182925 | [182925-hex-for-hire.json](./182925-hex-for-hire.json) |
 | Hex Gambit | 70704 | [70704-hex-gambit.json](./70704-hex-gambit.json) |
+| Hex Gambit: Respawned | 133136 | [133136-hex-gambit-respawned.json](./133136-hex-gambit-respawned.json) |
 | HEX Hacking Simulator | 156205 | [156205-hex-hacking-simulator.json](./156205-hex-hacking-simulator.json) |
 | Hex Jump | 264208 | [264208-hex-jump.json](./264208-hex-jump.json) |
 | Hex Mahjong 3D | 200133 | [200133-hex-mahjong-3d.json](./200133-hex-mahjong-3d.json) |
