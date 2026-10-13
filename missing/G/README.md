@@ -1867,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generic Kart Racing | 216424 | [216424-generic-kart-racing.json](./216424-generic-kart-racing.json) |
 | Generic nonbinary game | 176926 | [176926-generic-nonbinary-game.json](./176926-generic-nonbinary-game.json) |
 | Genesis | 127265 | [127265-genesis.json](./127265-genesis.json) |
+| Genesis | 141479 | [141479-genesis.json](./141479-genesis.json) |
 | Genesis | 144583 | [144583-genesis.json](./144583-genesis.json) |
 | Genesis | 318161 | [318161-genesis.json](./318161-genesis.json) |
 | Genesis | 381046 | [381046-genesis.json](./381046-genesis.json) |
@@ -2240,6 +2241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gestures Towards Divinity | 393510 | [393510-gestures-towards-divinity.json](./393510-gestures-towards-divinity.json) |
 | Gestüt: Ein Leben für die Pferde | 136369 | [136369-gestut-ein-leben-fur-die-pferde.json](./136369-gestut-ein-leben-fur-die-pferde.json) |
 | Gesuido | 166516 | [166516-gesuido.json](./166516-gesuido.json) |
+| Get 'Em Hard | 141577 | [141577-get-em-hard.json](./141577-get-em-hard.json) |
 | Get a Life | 151466 | [151466-get-a-life.json](./151466-get-a-life.json) |
 | Get Acc_E55 | 186586 | [186586-get-acc-e55.json](./186586-get-acc-e55.json) |
 | Get Achievements for Achievements | 188527 | [188527-get-achievements-for-achievements.json](./188527-get-achievements-for-achievements.json) |
@@ -6496,6 +6498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gst Wars | 360711 | [360711-gst-wars.json](./360711-gst-wars.json) |
 | GT 24 | 210726 | [210726-gt-24.json](./210726-gt-24.json) |
 | GT 64: Championship Edition | 3375 | [3375-gt-64-championship-edition.json](./3375-gt-64-championship-edition.json) |
+| GT and the Evil Factory | 141611 | [141611-gt-and-the-evil-factory.json](./141611-gt-and-the-evil-factory.json) |
 | GT and the Evil Factory | 295856 | [295856-gt-and-the-evil-factory.json](./295856-gt-and-the-evil-factory.json) |
 | GT Manager | 197317 | [197317-gt-manager.json](./197317-gt-manager.json) |
 | GT New Horizons | 204699 | [204699-gt-new-horizons.json](./204699-gt-new-horizons.json) |
