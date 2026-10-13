@@ -1155,6 +1155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MagixHome VR | 31125 | [31125-magixhome-vr.json](./31125-magixhome-vr.json) |
 | MagJongg | 91522 | [91522-magjongg.json](./91522-magjongg.json) |
 | Magla | 344017 | [344017-magla.json](./344017-magla.json) |
+| Maglam Lord | 139115 | [139115-maglam-lord.json](./139115-maglam-lord.json) |
 | Maglam Lord: Deluxe Edition | 199823 | [199823-maglam-lord-deluxe-edition.json](./199823-maglam-lord-deluxe-edition.json) |
 | Magma | 229163 | [229163-magma.json](./229163-magma.json) |
 | Magma Chamber | 32968 | [32968-magma-chamber.json](./32968-magma-chamber.json) |
@@ -4316,6 +4317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me, the Drifter; Her, the Optimist | 392465 | [392465-me-the-drifter-her-the-optimist.json](./392465-me-the-drifter-her-the-optimist.json) |
 | Me2 | 329211 | [329211-me2.json](./329211-me2.json) |
 | Mea’s Saifu Collection Party | 411618 | [411618-mea-s-saifu-collection-party.json](./411618-mea-s-saifu-collection-party.json) |
+| Mead Crafter | 139122 | [139122-mead-crafter.json](./139122-mead-crafter.json) |
 | Meadgard | 280279 | [280279-meadgard.json](./280279-meadgard.json) |
 | Meadow Assault | 304582 | [304582-meadow-assault.json](./304582-meadow-assault.json) |
 | Meadow Fun!! | 113607 | [113607-meadow-fun.json](./113607-meadow-fun.json) |
@@ -13206,6 +13208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Devil's Voice | 378558 | [378558-my-devils-voice.json](./378558-my-devils-voice.json) |
 | My Devilish Contract | 279670 | [279670-my-devilish-contract.json](./279670-my-devilish-contract.json) |
 | My Diamond Baby | 301416 | [301416-my-diamond-baby.json](./301416-my-diamond-baby.json) |
+| My Diggy Dog 2 | 139076 | [139076-my-diggy-dog-2.json](./139076-my-diggy-dog-2.json) |
 | My Dinner with André | 227785 | [227785-my-dinner-with-andre.json](./227785-my-dinner-with-andre.json) |
 | My Dino | 111888 | [111888-my-dino.json](./111888-my-dino.json) |
 | My Direct Damag 7 Trillion | 318422 | [318422-my-direct-damag-7-trillion.json](./318422-my-direct-damag-7-trillion.json) |
@@ -13336,6 +13339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Gaming Club | 197063 | [197063-my-gaming-club.json](./197063-my-gaming-club.json) |
 | My Garage | 162411 | [162411-my-garage.json](./162411-my-garage.json) |
 | My Garbage Cat Wakes Me Up At 3AM Every Day | 128556 | [128556-my-garbage-cat-wakes-me-up-at-3am-every-day.json](./128556-my-garbage-cat-wakes-me-up-at-3am-every-day.json) |
+| My Garden | 139119 | [139119-my-garden.json](./139119-my-garden.json) |
 | My GF Doesn't Know What I'm Into | 225805 | [225805-my-gf-doesnt-know-what-im-into.json](./225805-my-gf-doesnt-know-what-im-into.json) |
 | My Ghost Pet Is Zhong Kui | 309362 | [309362-my-ghost-pet-is-zhong-kui.json](./309362-my-ghost-pet-is-zhong-kui.json) |
 | My Giant Friend | 220677 | [220677-my-giant-friend.json](./220677-my-giant-friend.json) |
