@@ -409,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wand of Fortune: Mirai he no Prologue Portable | 218960 | [218960-wand-of-fortune-mirai-he-no-prologue-portable.json](./218960-wand-of-fortune-mirai-he-no-prologue-portable.json) |
 | Wand Wars VR | 81727 | [81727-wand-wars-vr.json](./81727-wand-wars-vr.json) |
 | Wander | 10920 | [10920-wander.json](./10920-wander.json) |
+| Wander Hero | 173009 | [173009-wander-hero.json](./173009-wander-hero.json) |
 | Wander in Wonder | 272494 | [272494-wander-in-wonder.json](./272494-wander-in-wonder.json) |
 | Wander Vehicles: Doggybone Daisakusen | 208853 | [208853-wander-vehicles-doggybone-daisakusen.json](./208853-wander-vehicles-doggybone-daisakusen.json) |
 | Wander Wonder | 237514 | [237514-wander-wonder.json](./237514-wander-wonder.json) |
@@ -4229,6 +4230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches' Legacy: The City That Isn't There | 415976 | [415976-witches-legacy-the-city-that-isnt-there.json](./415976-witches-legacy-the-city-that-isnt-there.json) |
 | Witches' Legacy: The Ties That Bind - Collector's Edition | 32735 | [32735-witches-legacy-the-ties-that-bind-collectors-edition.json](./32735-witches-legacy-the-ties-that-bind-collectors-edition.json) |
 | Witcheye | 121440 | [121440-witcheye.json](./121440-witcheye.json) |
+| Witchfall: Secrets of Emotica | 173016 | [173016-witchfall-secrets-of-emotica.json](./173016-witchfall-secrets-of-emotica.json) |
 | Witchfiend / Odd Job Eddie | 92845 | [92845-witchfiend-odd-job-eddie.json](./92845-witchfiend-odd-job-eddie.json) |
 | WitchGhost | 284837 | [284837-witchghost.json](./284837-witchghost.json) |
 | Witchhazel Woods | 207582 | [207582-witchhazel-woods.json](./207582-witchhazel-woods.json) |
