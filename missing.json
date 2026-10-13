@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T05:20:39.136Z",
-  "total_missing": 204824,
+  "generated_at": "2026-10-13T05:34:31.069Z",
+  "total_missing": 204874,
   "games": [
     {
       "igdb_id": 191680,
@@ -3076,6 +3076,21 @@
       "igdb_id": 213565,
       "game_name": "1112: Episode 03",
       "file": "missing/0-9/213565-1112-episode-03.json"
+    },
+    {
+      "igdb_id": 168948,
+      "game_name": "112 Operator: Pandemic Outbreak",
+      "file": "missing/0-9/168948-112-operator-pandemic-outbreak.json"
+    },
+    {
+      "igdb_id": 168946,
+      "game_name": "112 Operator: The Last Duty",
+      "file": "missing/0-9/168946-112-operator-the-last-duty.json"
+    },
+    {
+      "igdb_id": 168947,
+      "game_name": "112 Operator: Water Operations",
+      "file": "missing/0-9/168947-112-operator-water-operations.json"
     },
     {
       "igdb_id": 250501,
@@ -22031,6 +22046,11 @@
       "igdb_id": 211702,
       "game_name": "Adventures of Ruby Rabbit",
       "file": "missing/A/211702-adventures-of-ruby-rabbit.json"
+    },
+    {
+      "igdb_id": 168858,
+      "game_name": "Adventures of Sadukar: Chapter I",
+      "file": "missing/A/168858-adventures-of-sadukar-chapter-i.json"
     },
     {
       "igdb_id": 196160,
@@ -62783,9 +62803,19 @@
       "file": "missing/A/136414-atelier-ryza-2-lost-legends-and-the-secret-fairy.json"
     },
     {
+      "igdb_id": 168937,
+      "game_name": "Atelier Ryza 2: Lost Legends & the Secret Fairy - Additional Area \"Keldorah Castle\"",
+      "file": "missing/A/168937-atelier-ryza-2-lost-legends-and-the-secret-fairy-additional-area-keldorah-castle.json"
+    },
+    {
       "igdb_id": 222263,
       "game_name": "Atelier Ryza 2: Lost Legends & the Secret Fairy - Digital Deluxe Edition",
       "file": "missing/A/222263-atelier-ryza-2-lost-legends-and-the-secret-fairy-digital-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 168938,
+      "game_name": "Atelier Ryza 2: Lost Legends & the Secret Fairy - High-difficulty Area \"Flame Sun Island\"",
+      "file": "missing/A/168938-atelier-ryza-2-lost-legends-and-the-secret-fairy-high-difficulty-area-flame-sun-island.json"
     },
     {
       "igdb_id": 139998,
@@ -62848,6 +62878,21 @@
       "file": "missing/A/119061-atelier-ryza-ever-darkness-and-the-secret-hideout.json"
     },
     {
+      "igdb_id": 168939,
+      "game_name": "Atelier Ryza: Ever Darkness & the Secret Hideout - \"Ever Summer Queen & the Secret Island\"",
+      "file": "missing/A/168939-atelier-ryza-ever-darkness-and-the-secret-hideout-ever-summer-queen-and-the-secret-island.json"
+    },
+    {
+      "igdb_id": 168942,
+      "game_name": "Atelier Ryza: Ever Darkness & the Secret Hideout - \"Secret Solitary Island\"",
+      "file": "missing/A/168942-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json"
+    },
+    {
+      "igdb_id": 168943,
+      "game_name": "Atelier Ryza: Ever Darkness & the Secret Hideout - \"The End of an Adventure and Beyond\"",
+      "file": "missing/A/168943-atelier-ryza-ever-darkness-and-the-secret-hideout-the-end-of-an-adventure-and-beyond.json"
+    },
+    {
       "igdb_id": 167072,
       "game_name": "Atelier Ryza: Ever Darkness & the Secret Hideout - Collector's Edition",
       "file": "missing/A/167072-atelier-ryza-ever-darkness-and-the-secret-hideout-collectors-edition.json"
@@ -62858,6 +62903,16 @@
       "file": "missing/A/221777-atelier-ryza-ever-darkness-and-the-secret-hideout-digital-deluxe-edition.json"
     },
     {
+      "igdb_id": 168940,
+      "game_name": "Atelier Ryza: Ever Darkness & the Secret Hideout - Klaudia's Story \"Atelier Klaudia\"",
+      "file": "missing/A/168940-atelier-ryza-ever-darkness-and-the-secret-hideout-klaudias-story-atelier-klaudia.json"
+    },
+    {
+      "igdb_id": 168944,
+      "game_name": "Atelier Ryza: Ever Darkness & the Secret Hideout - Lent's Story \"True Strength\"",
+      "file": "missing/A/168944-atelier-ryza-ever-darkness-and-the-secret-hideout-lents-story-true-strength.json"
+    },
+    {
       "igdb_id": 136823,
       "game_name": "Atelier Ryza: Ever Darkness & the Secret Hideout - Premium Box",
       "file": "missing/A/136823-atelier-ryza-ever-darkness-and-the-secret-hideout-premium-box.json"
@@ -62866,6 +62921,11 @@
       "igdb_id": 238227,
       "game_name": "Atelier Ryza: Ever Darkness & the Secret Hideout - Secret Solitary Island",
       "file": "missing/A/238227-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json"
+    },
+    {
+      "igdb_id": 168941,
+      "game_name": "Atelier Ryza: Ever Darkness & the Secret Hideout - Tao's Story \"Interwoven Fate\"",
+      "file": "missing/A/168941-atelier-ryza-ever-darkness-and-the-secret-hideout-taos-story-interwoven-fate.json"
     },
     {
       "igdb_id": 359424,
@@ -120368,6 +120428,11 @@
       "file": "missing/B/372832-brother-get-the-oats.json"
     },
     {
+      "igdb_id": 168927,
+      "game_name": "Brother!!! Save him!",
+      "file": "missing/B/168927-brother-save-him.json"
+    },
+    {
       "igdb_id": 275114,
       "game_name": "Brotherhood",
       "file": "missing/B/275114-brotherhood.json"
@@ -173788,9 +173853,19 @@
       "file": "missing/C/129196-cooking-simulator-cakes-and-cookies.json"
     },
     {
+      "igdb_id": 168934,
+      "game_name": "Cooking Simulator: Cooking with Food Network",
+      "file": "missing/C/168934-cooking-simulator-cooking-with-food-network.json"
+    },
+    {
       "igdb_id": 299378,
       "game_name": "Cooking Simulator: Pizza",
       "file": "missing/C/299378-cooking-simulator-pizza.json"
+    },
+    {
+      "igdb_id": 168935,
+      "game_name": "Cooking Simulator: Shelter",
+      "file": "missing/C/168935-cooking-simulator-shelter.json"
     },
     {
       "igdb_id": 273371,
@@ -199416,6 +199491,16 @@
       "igdb_id": 292864,
       "game_name": "Dark Deception: Monsters & Mortals - House of Ashes",
       "file": "missing/D/292864-dark-deception-monsters-and-mortals-house-of-ashes.json"
+    },
+    {
+      "igdb_id": 168923,
+      "game_name": "Dark Deception: Monsters & Mortals - Monstrum",
+      "file": "missing/D/168923-dark-deception-monsters-and-mortals-monstrum.json"
+    },
+    {
+      "igdb_id": 168793,
+      "game_name": "Dark Deception: Monsters & Mortals - Silent Hill",
+      "file": "missing/D/168793-dark-deception-monsters-and-mortals-silent-hill.json"
     },
     {
       "igdb_id": 292869,
@@ -336163,6 +336248,11 @@
       "file": "missing/G/285115-gatcha-gear.json"
     },
     {
+      "igdb_id": 168932,
+      "game_name": "Gate",
+      "file": "missing/G/168932-gate.json"
+    },
+    {
       "igdb_id": 170353,
       "game_name": "Gate",
       "file": "missing/G/170353-gate.json"
@@ -367883,6 +367973,11 @@
       "file": "missing/H/221789-half-life-abeyance.json"
     },
     {
+      "igdb_id": 168931,
+      "game_name": "Half-Life: Absolute Zero",
+      "file": "missing/H/168931-half-life-absolute-zero.json"
+    },
+    {
       "igdb_id": 329025,
       "game_name": "Half-Life: Beyond",
       "file": "missing/H/329025-half-life-beyond.json"
@@ -379206,6 +379301,11 @@
       "igdb_id": 252863,
       "game_name": "Hell Let Loose: Devotion to Duty",
       "file": "missing/H/252863-hell-let-loose-devotion-to-duty.json"
+    },
+    {
+      "igdb_id": 168794,
+      "game_name": "Hell Let Loose: Lethal Tide",
+      "file": "missing/H/168794-hell-let-loose-lethal-tide.json"
     },
     {
       "igdb_id": 372250,
@@ -404691,6 +404791,11 @@
       "igdb_id": 387607,
       "game_name": "Huntdown: Overtime",
       "file": "missing/H/387607-huntdown-overtime.json"
+    },
+    {
+      "igdb_id": 168933,
+      "game_name": "Hunted",
+      "file": "missing/H/168933-hunted.json"
     },
     {
       "igdb_id": 188370,
@@ -474263,9 +474368,24 @@
       "file": "missing/L/7685-lego-batman-3-beyond-gotham.json"
     },
     {
+      "igdb_id": 168791,
+      "game_name": "LEGO Batman 3: Beyond Gotham - Batman 75th Anniversary",
+      "file": "missing/L/168791-lego-batman-3-beyond-gotham-batman-75th-anniversary.json"
+    },
+    {
       "igdb_id": 266232,
       "game_name": "LEGO Batman 3: Beyond Gotham - Dark Knight",
       "file": "missing/L/266232-lego-batman-3-beyond-gotham-dark-knight.json"
+    },
+    {
+      "igdb_id": 168790,
+      "game_name": "LEGO Batman 3: Beyond Gotham - Heroines and Villainesses Character Pack",
+      "file": "missing/L/168790-lego-batman-3-beyond-gotham-heroines-and-villainesses-character-pack.json"
+    },
+    {
+      "igdb_id": 168789,
+      "game_name": "LEGO Batman 3: Beyond Gotham - Man of Steel",
+      "file": "missing/L/168789-lego-batman-3-beyond-gotham-man-of-steel.json"
     },
     {
       "igdb_id": 118897,
@@ -508161,6 +508281,16 @@
       "igdb_id": 404246,
       "game_name": "MansionDungeon",
       "file": "missing/M/404246-mansiondungeon.json"
+    },
+    {
+      "igdb_id": 168929,
+      "game_name": "Mansions of Madness: Dark Reflections",
+      "file": "missing/M/168929-mansions-of-madness-dark-reflections.json"
+    },
+    {
+      "igdb_id": 168928,
+      "game_name": "Mansions of Madness: What Lies Within",
+      "file": "missing/M/168928-mansions-of-madness-what-lies-within.json"
     },
     {
       "igdb_id": 170307,
@@ -862878,6 +863008,11 @@
       "file": "missing/T/133821-the-chase.json"
     },
     {
+      "igdb_id": 168949,
+      "game_name": "The Chase",
+      "file": "missing/T/168949-the-chase.json"
+    },
+    {
       "igdb_id": 138568,
       "game_name": "The Chase: Ultimate Edition",
       "file": "missing/T/138568-the-chase-ultimate-edition.json"
@@ -881156,6 +881291,11 @@
       "igdb_id": 4845,
       "game_name": "The LEGO Movie Videogame",
       "file": "missing/T/4845-the-lego-movie-videogame.json"
+    },
+    {
+      "igdb_id": 168792,
+      "game_name": "The LEGO Movie Videogame: Wild West Pack",
+      "file": "missing/T/168792-the-lego-movie-videogame-wild-west-pack.json"
     },
     {
       "igdb_id": 88393,
@@ -914031,6 +914171,11 @@
       "igdb_id": 170373,
       "game_name": "Time for You: Chapter 02 - Dirty Thoughts and Corporate Bots",
       "file": "missing/T/170373-time-for-you-chapter-02-dirty-thoughts-and-corporate-bots.json"
+    },
+    {
+      "igdb_id": 168936,
+      "game_name": "Time Freeze",
+      "file": "missing/T/168936-time-freeze.json"
     },
     {
       "igdb_id": 212299,
@@ -982743,6 +982888,11 @@
       "file": "missing/W/391751-wavecrashers.json"
     },
     {
+      "igdb_id": 168945,
+      "game_name": "Waveform: Eris",
+      "file": "missing/W/168945-waveform-eris.json"
+    },
+    {
       "igdb_id": 140902,
       "game_name": "Wavelength",
       "file": "missing/W/140902-wavelength.json"
@@ -1003063,9 +1003213,24 @@
       "file": "missing/W/94889-worms-revolution-deluxe-edition.json"
     },
     {
+      "igdb_id": 168924,
+      "game_name": "Worms Revolution: Funfair Pack",
+      "file": "missing/W/168924-worms-revolution-funfair-pack.json"
+    },
+    {
       "igdb_id": 52111,
       "game_name": "Worms Revolution: Gold Edition",
       "file": "missing/W/52111-worms-revolution-gold-edition.json"
+    },
+    {
+      "igdb_id": 168925,
+      "game_name": "Worms Revolution: Mars Pack",
+      "file": "missing/W/168925-worms-revolution-mars-pack.json"
+    },
+    {
+      "igdb_id": 168926,
+      "game_name": "Worms Revolution: Medieval Tales",
+      "file": "missing/W/168926-worms-revolution-medieval-tales.json"
     },
     {
       "igdb_id": 261333,
@@ -1006138,9 +1006303,69 @@
       "file": "missing/X/162826-x-plane-10-global-aerosoft-airport-pullman-moscow.json"
     },
     {
+      "igdb_id": 168802,
+      "game_name": "X-Plane 10 Global: Aerosoft - CZST Stewart",
+      "file": "missing/X/168802-x-plane-10-global-aerosoft-czst-stewart.json"
+    },
+    {
+      "igdb_id": 168801,
+      "game_name": "X-Plane 10 Global: Africa Scenery",
+      "file": "missing/X/168801-x-plane-10-global-africa-scenery.json"
+    },
+    {
+      "igdb_id": 168800,
+      "game_name": "X-Plane 10 Global: Asia Scenery",
+      "file": "missing/X/168800-x-plane-10-global-asia-scenery.json"
+    },
+    {
+      "igdb_id": 168810,
+      "game_name": "X-Plane 10 Global: Carenado - A36 Bonanza",
+      "file": "missing/X/168810-x-plane-10-global-carenado-a36-bonanza.json"
+    },
+    {
+      "igdb_id": 168806,
+      "game_name": "X-Plane 10 Global: Carenado - B200 King Air",
+      "file": "missing/X/168806-x-plane-10-global-carenado-b200-king-air.json"
+    },
+    {
+      "igdb_id": 168797,
+      "game_name": "X-Plane 10 Global: Carenado - B58 Baron",
+      "file": "missing/X/168797-x-plane-10-global-carenado-b58-baron.json"
+    },
+    {
+      "igdb_id": 168799,
+      "game_name": "X-Plane 10 Global: Carenado - C152 II",
+      "file": "missing/X/168799-x-plane-10-global-carenado-c152-ii.json"
+    },
+    {
+      "igdb_id": 168804,
+      "game_name": "X-Plane 10 Global: Carenado - C172N Skyhawk II",
+      "file": "missing/X/168804-x-plane-10-global-carenado-c172n-skyhawk-ii.json"
+    },
+    {
+      "igdb_id": 168798,
+      "game_name": "X-Plane 10 Global: Carenado - C185F Skywagon",
+      "file": "missing/X/168798-x-plane-10-global-carenado-c185f-skywagon.json"
+    },
+    {
       "igdb_id": 168813,
       "game_name": "X-Plane 10 Global: Carenado - C208B Grand Caravan",
       "file": "missing/X/168813-x-plane-10-global-carenado-c208b-grand-caravan.json"
+    },
+    {
+      "igdb_id": 168807,
+      "game_name": "X-Plane 10 Global: Carenado - C340 II",
+      "file": "missing/X/168807-x-plane-10-global-carenado-c340-ii.json"
+    },
+    {
+      "igdb_id": 168803,
+      "game_name": "X-Plane 10 Global: Carenado - CT206H Stationair",
+      "file": "missing/X/168803-x-plane-10-global-carenado-ct206h-stationair.json"
+    },
+    {
+      "igdb_id": 168811,
+      "game_name": "X-Plane 10 Global: Carenado - CT210M Centurion II",
+      "file": "missing/X/168811-x-plane-10-global-carenado-ct210m-centurion-ii.json"
     },
     {
       "igdb_id": 168812,
@@ -1006148,14 +1006373,39 @@
       "file": "missing/X/168812-x-plane-10-global-carenado-f33a-bonanza.json"
     },
     {
+      "igdb_id": 168808,
+      "game_name": "X-Plane 10 Global: Carenado - M20J 201",
+      "file": "missing/X/168808-x-plane-10-global-carenado-m20j-201.json"
+    },
+    {
       "igdb_id": 168815,
       "game_name": "X-Plane 10 Global: Carenado - PA28 181 Archer II",
       "file": "missing/X/168815-x-plane-10-global-carenado-pa28-181-archer-ii.json"
     },
     {
+      "igdb_id": 168805,
+      "game_name": "X-Plane 10 Global: Carenado - PA32R 301 Saratoga SP",
+      "file": "missing/X/168805-x-plane-10-global-carenado-pa32r-301-saratoga-sp.json"
+    },
+    {
+      "igdb_id": 168795,
+      "game_name": "X-Plane 10 Global: Carenado - PA34 200T Seneca II",
+      "file": "missing/X/168795-x-plane-10-global-carenado-pa34-200t-seneca-ii.json"
+    },
+    {
       "igdb_id": 168816,
       "game_name": "X-Plane 10 Global: Carenado - V35 Bonanza",
       "file": "missing/X/168816-x-plane-10-global-carenado-v35-bonanza.json"
+    },
+    {
+      "igdb_id": 168796,
+      "game_name": "X-Plane 10 Global: Europe Scenery",
+      "file": "missing/X/168796-x-plane-10-global-europe-scenery.json"
+    },
+    {
+      "igdb_id": 168809,
+      "game_name": "X-Plane 10 Global: North America Scenery",
+      "file": "missing/X/168809-x-plane-10-global-north-america-scenery.json"
     },
     {
       "igdb_id": 168814,
