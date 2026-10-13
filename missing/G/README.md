@@ -3144,6 +3144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glider 4.0 | 72313 | [72313-glider-4-0.json](./72313-glider-4-0.json) |
 | Glider Island | 32109 | [32109-glider-island.json](./32109-glider-island.json) |
 | Glider Rider | 13002 | [13002-glider-rider.json](./13002-glider-rider.json) |
+| Glider Sim | 160085 | [160085-glider-sim.json](./160085-glider-sim.json) |
 | Glider Simulator | 326413 | [326413-glider-simulator.json](./326413-glider-simulator.json) |
 | Glider: Collect'n Kill | 94537 | [94537-glider-collectn-kill.json](./94537-glider-collectn-kill.json) |
 | Gliderman | 202752 | [202752-gliderman.json](./202752-gliderman.json) |
@@ -6851,6 +6852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumball | 25612 | [25612-gumball.json](./25612-gumball.json) |
 | Gumball 3000 | 300795 | [300795-gumball-3000.json](./300795-gumball-3000.json) |
 | Gumball Hero | 407353 | [407353-gumball-hero.json](./407353-gumball-hero.json) |
+| GumBall Warrior | 160100 | [160100-gumball-warrior.json](./160100-gumball-warrior.json) |
 | Gumball: School House Rush | 203209 | [203209-gumball-school-house-rush.json](./203209-gumball-school-house-rush.json) |
 | Gumbo | 40153 | [40153-gumbo.json](./40153-gumbo.json) |
 | Gumbowl's Adventure | 292551 | [292551-gumbowls-adventure.json](./292551-gumbowls-adventure.json) |
@@ -6963,6 +6965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun-Toting Cats | 176358 | [176358-gun-toting-cats.json](./176358-gun-toting-cats.json) |
 | Gun.Smoke | 1288 | [1288-gun-smoke.json](./1288-gun-smoke.json) |
 | Gun.Smoke | 40965 | [40965-gun-smoke.json](./40965-gun-smoke.json) |
+| Gun&Dun | 160089 | [160089-gun-and-dun.json](./160089-gun-and-dun.json) |
 | Gunball: Emperor's Revenge | 353314 | [353314-gunball-emperors-revenge.json](./353314-gunball-emperors-revenge.json) |
 | GunBang | 336677 | [336677-gunbang.json](./336677-gunbang.json) |
 | Gunbarich | 39861 | [39861-gunbarich.json](./39861-gunbarich.json) |
