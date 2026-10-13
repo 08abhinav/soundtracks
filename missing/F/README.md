@@ -374,8 +374,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faehnor Online | 386499 | [386499-faehnor-online.json](./386499-faehnor-online.json) |
 | Faeria: Chronicles of Gagana | 117519 | [117519-faeria-chronicles-of-gagana.json](./117519-faeria-chronicles-of-gagana.json) |
 | Faeria: Elements | 227419 | [227419-faeria-elements.json](./227419-faeria-elements.json) |
+| Faeria: Fall of Everlife | 163526 | [163526-faeria-fall-of-everlife.json](./163526-faeria-fall-of-everlife.json) |
 | Faeria: Game + All DLC Bundle | 238217 | [238217-faeria-game-all-dlc-bundle.json](./238217-faeria-game-all-dlc-bundle.json) |
 | Faeria: Premium Edition | 238045 | [238045-faeria-premium-edition.json](./238045-faeria-premium-edition.json) |
+| Faeria: Resurgence | 163524 | [163524-faeria-resurgence.json](./163524-faeria-resurgence.json) |
 | Faerie Afterlight | 133272 | [133272-faerie-afterlight.json](./133272-faerie-afterlight.json) |
 | Faerie Alchemy: Puzzle Game | 174246 | [174246-faerie-alchemy-puzzle-game.json](./174246-faerie-alchemy-puzzle-game.json) |
 | Faerie Solitaire Classic | 182884 | [182884-faerie-solitaire-classic.json](./182884-faerie-solitaire-classic.json) |
@@ -5601,6 +5603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlyBird Leap | 260207 | [260207-flybird-leap.json](./260207-flybird-leap.json) |
 | FlyBye | 249931 | [249931-flybye.json](./249931-flybye.json) |
 | Flycatcher | 93528 | [93528-flycatcher.json](./93528-flycatcher.json) |
+| FlyChivements | 163023 | [163023-flychivements.json](./163023-flychivements.json) |
 | Flyeeex | 117619 | [117619-flyeeex.json](./117619-flyeeex.json) |
 | Flyer Fox | 46661 | [46661-flyer-fox.json](./46661-flyer-fox.json) |
 | Flyff Legacy | 68901 | [68901-flyff-legacy.json](./68901-flyff-legacy.json) |
@@ -5810,6 +5813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Follow the White Rabbit VR | 122178 | [122178-follow-the-white-rabbit-vr.json](./122178-follow-the-white-rabbit-vr.json) |
 | Follow Us | 383027 | [383027-follow-us.json](./383027-follow-us.json) |
 | Follow You | 218129 | [218129-follow-you.json](./218129-follow-you.json) |
+| Follow Your Heart | 163039 | [163039-follow-your-heart.json](./163039-follow-your-heart.json) |
 | Followed by Death | 288125 | [288125-followed-by-death.json](./288125-followed-by-death.json) |
 | Follower | 383354 | [383354-follower.json](./383354-follower.json) |
 | Follower A | 178510 | [178510-follower-a.json](./178510-follower-a.json) |
@@ -7813,6 +7817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frigus Inferos | 114525 | [114525-frigus-inferos.json](./114525-frigus-inferos.json) |
 | Friki | 153406 | [153406-friki.json](./153406-friki.json) |
 | Frikin the Laser Shark | 158029 | [158029-frikin-the-laser-shark.json](./158029-frikin-the-laser-shark.json) |
+| Frincess&Cnight | 163531 | [163531-frincess-and-cnight.json](./163531-frincess-and-cnight.json) |
 | Fringe Planet | 121393 | [121393-fringe-planet.json](./121393-fringe-planet.json) |
 | Fringe Wars | 74724 | [74724-fringe-wars.json](./74724-fringe-wars.json) |
 | Fringes of the Empire | 34426 | [34426-fringes-of-the-empire.json](./34426-fringes-of-the-empire.json) |
@@ -8874,6 +8879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry OwO | 236936 | [236936-furry-owo.json](./236936-furry-owo.json) |
 | Furry Pet Dog Yiff Hentai | 209022 | [209022-furry-pet-dog-yiff-hentai.json](./209022-furry-pet-dog-yiff-hentai.json) |
 | Furry Pride | 148570 | [148570-furry-pride.json](./148570-furry-pride.json) |
+| Furry Puzzle | 163552 | [163552-furry-puzzle.json](./163552-furry-puzzle.json) |
 | Furry Reich | 237055 | [237055-furry-reich.json](./237055-furry-reich.json) |
 | Furry Sex | 322706 | [322706-furry-sex.json](./322706-furry-sex.json) |
 | Furry Sex 2 | 322710 | [322710-furry-sex-2.json](./322710-furry-sex-2.json) |
