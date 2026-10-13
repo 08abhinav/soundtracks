@@ -550,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest 64 | 3580 | [3580-quest-64.json](./3580-quest-64.json) |
 | Quest 64 "French Vanilla" | 248305 | [248305-quest-64-french-vanilla.json](./248305-quest-64-french-vanilla.json) |
 | Quest Adventure | 133444 | [133444-quest-adventure.json](./133444-quest-adventure.json) |
+| Quest Arrest | 141615 | [141615-quest-arrest.json](./141615-quest-arrest.json) |
 | Quest Eternal | 290954 | [290954-quest-eternal.json](./290954-quest-eternal.json) |
 | Quest for Camelot | 307793 | [307793-quest-for-camelot.json](./307793-quest-for-camelot.json) |
 | Quest for Camelot: Dragon Games | 320992 | [320992-quest-for-camelot-dragon-games.json](./320992-quest-for-camelot-dragon-games.json) |
