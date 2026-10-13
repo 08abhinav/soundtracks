@@ -2880,6 +2880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Knight | 343460 | [343460-death-knight.json](./343460-death-knight.json) |
 | Death Life: Beyond Purgatory | 264019 | [264019-death-life-beyond-purgatory.json](./264019-death-life-beyond-purgatory.json) |
 | Death Live | 123472 | [123472-death-live.json](./123472-death-live.json) |
+| Death Live | 135580 | [135580-death-live.json](./135580-death-live.json) |
 | Death Machine | 285004 | [285004-death-machine.json](./285004-death-machine.json) |
 | Death March | 365791 | [365791-death-march.json](./365791-death-march.json) |
 | Death Mark Vol.1 | 99079 | [99079-death-mark-vol-1.json](./99079-death-mark-vol-1.json) |
