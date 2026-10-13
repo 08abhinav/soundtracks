@@ -1750,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gems of War | 9531 | [9531-gems-of-war.json](./9531-gems-of-war.json) |
 | Gems Rush | 319964 | [319964-gems-rush.json](./319964-gems-rush.json) |
 | Gemsa | 243966 | [243966-gemsa.json](./243966-gemsa.json) |
+| Gemstone Defense | 165760 | [165760-gemstone-defense.json](./165760-gemstone-defense.json) |
 | Gemstone Guardians | 239640 | [239640-gemstone-guardians.json](./239640-gemstone-guardians.json) |
 | Gemstone IV | 79899 | [79899-gemstone-iv.json](./79899-gemstone-iv.json) |
 | Gemstone Legends | 164377 | [164377-gemstone-legends.json](./164377-gemstone-legends.json) |
