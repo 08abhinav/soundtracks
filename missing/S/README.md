@@ -1342,6 +1342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sasquatch Loves Soup | 179564 | [179564-sasquatch-loves-soup.json](./179564-sasquatch-loves-soup.json) |
 | Sassy Cybergirl | 255269 | [255269-sassy-cybergirl.json](./255269-sassy-cybergirl.json) |
 | Sassy Girl | 259146 | [259146-sassy-girl.json](./259146-sassy-girl.json) |
+| Sasuke Challenger | 175129 | [175129-sasuke-challenger.json](./175129-sasuke-challenger.json) |
 | Sasuke Library 23rd | 78957 | [78957-sasuke-library-23rd.json](./78957-sasuke-library-23rd.json) |
 | SAT Prep Math 2008 | 76976 | [76976-sat-prep-math-2008.json](./76976-sat-prep-math-2008.json) |
 | SatAM Online | 331950 | [331950-satam-online.json](./331950-satam-online.json) |
@@ -1586,6 +1587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Ninja Clan | 27299 | [27299-save-the-ninja-clan.json](./27299-save-the-ninja-clan.json) |
 | Save the Ninja! | 410969 | [410969-save-the-ninja.json](./410969-save-the-ninja.json) |
 | Save the Octo | 156225 | [156225-save-the-octo.json](./156225-save-the-octo.json) |
+| Save the Pencil 2 | 175141 | [175141-save-the-pencil-2.json](./175141-save-the-pencil-2.json) |
 | Save the Pet: Draw to Save | 223921 | [223921-save-the-pet-draw-to-save.json](./223921-save-the-pet-draw-to-save.json) |
 | Save the Pirate: Sea Story | 166764 | [166764-save-the-pirate-sea-story.json](./166764-save-the-pirate-sea-story.json) |
 | Save the Pirate: Sea Story - Tribal Legacy | 168157 | [168157-save-the-pirate-sea-story-tribal-legacy.json](./168157-save-the-pirate-sea-story-tribal-legacy.json) |
@@ -4205,6 +4207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SGS We The People | 388972 | [388972-sgs-we-the-people.json](./388972-sgs-we-the-people.json) |
 | Sh*thead | 292748 | [292748-sh-thead.json](./292748-sh-thead.json) |
 | Sha Beast Dressage | 371269 | [371269-sha-beast-dressage.json](./371269-sha-beast-dressage.json) |
+| Shaark! | 175152 | [175152-shaark.json](./175152-shaark.json) |
 | Shaberu! DS Cooking Navi | 345570 | [345570-shaberu-ds-cooking-navi.json](./345570-shaberu-ds-cooking-navi.json) |
 | Shachibato! President, It's Time for Battle! Maju Wars | 145520 | [145520-shachibato-president-its-time-for-battle-maju-wars.json](./145520-shachibato-president-its-time-for-battle-maju-wars.json) |
 | Shachou Eiyuuden: The Eagle Shooting Heroes | 78343 | [78343-shachou-eiyuuden-the-eagle-shooting-heroes.json](./78343-shachou-eiyuuden-the-eagle-shooting-heroes.json) |
@@ -4267,6 +4270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Chronicles: Collector's Edition | 201858 | [201858-shadow-chronicles-collectors-edition.json](./201858-shadow-chronicles-collectors-edition.json) |
 | Shadow City Mysteries: A Clockwork Noir | 290546 | [290546-shadow-city-mysteries-a-clockwork-noir.json](./290546-shadow-city-mysteries-a-clockwork-noir.json) |
 | Shadow Code: Lucy | 297217 | [297217-shadow-code-lucy.json](./297217-shadow-code-lucy.json) |
+| Shadow Codex | 175153 | [175153-shadow-codex.json](./175153-shadow-codex.json) |
 | Shadow Complex Remastered | 19009 | [19009-shadow-complex-remastered.json](./19009-shadow-complex-remastered.json) |
 | Shadow Corridor 2: Ama no Yohira | 258410 | [258410-shadow-corridor-2-ama-no-yohira.json](./258410-shadow-corridor-2-ama-no-yohira.json) |
 | Shadow Council: The Puppeteers | 102949 | [102949-shadow-council-the-puppeteers.json](./102949-shadow-council-the-puppeteers.json) |
@@ -8673,6 +8677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slidercrash | 251656 | [251656-slidercrash.json](./251656-slidercrash.json) |
 | SlideRow | 120355 | [120355-sliderow.json](./120355-sliderow.json) |
 | Sliders | 80517 | [80517-sliders.json](./80517-sliders.json) |
+| Slideshot 2 | 175145 | [175145-slideshot-2.json](./175145-slideshot-2.json) |
 | Slidetracked | 188952 | [188952-slidetracked.json](./188952-slidetracked.json) |
 | SlideWords | 88207 | [88207-slidewords.json](./88207-slidewords.json) |
 | Slidey Feet | 243635 | [243635-slidey-feet.json](./243635-slidey-feet.json) |
@@ -8686,6 +8691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sliding Puzzle Deluxe: The Classic | 226356 | [226356-sliding-puzzle-deluxe-the-classic.json](./226356-sliding-puzzle-deluxe-the-classic.json) |
 | Sliding Puzzle Space | 106551 | [106551-sliding-puzzle-space.json](./106551-sliding-puzzle-space.json) |
 | Sliding Puzzles | 270388 | [270388-sliding-puzzles.json](./270388-sliding-puzzles.json) |
+| Sliding Seas | 174584 | [174584-sliding-seas.json](./174584-sliding-seas.json) |
 | Slidy | 26509 | [26509-slidy.json](./26509-slidy.json) |
 | Sligga Trigger | 272580 | [272580-sligga-trigger.json](./272580-sligga-trigger.json) |
 | Slightly Heroes | 112852 | [112852-slightly-heroes.json](./112852-slightly-heroes.json) |
@@ -10255,6 +10261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Society's Paradigms | 152833 | [152833-societys-paradigms.json](./152833-societys-paradigms.json) |
 | Socioball | 128558 | [128558-socioball.json](./128558-socioball.json) |
 | Sociopath | 410211 | [410211-sociopath.json](./410211-sociopath.json) |
+| Sock and Awe | 174581 | [174581-sock-and-awe.json](./174581-sock-and-awe.json) |
 | Sock Dating Simulator | 341321 | [341321-sock-dating-simulator.json](./341321-sock-dating-simulator.json) |
 | Sock It | 196236 | [196236-sock-it.json](./196236-sock-it.json) |
 | Sock Monster | 143012 | [143012-sock-monster.json](./143012-sock-monster.json) |
@@ -10611,6 +10618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire !! | 91156 | [91156-solitaire.json](./91156-solitaire.json) |
 | Solitaire (Klondike) | 89221 | [89221-solitaire-klondike.json](./89221-solitaire-klondike.json) |
 | Solitaire & Mahjong | 117660 | [117660-solitaire-and-mahjong.json](./117660-solitaire-and-mahjong.json) |
+| Solitaire & Share | 175322 | [175322-solitaire-and-share.json](./175322-solitaire-and-share.json) |
 | Solitaire + | 93826 | [93826-solitaire.json](./93826-solitaire.json) |
 | Solitaire 220 Plus | 31102 | [31102-solitaire-220-plus.json](./31102-solitaire-220-plus.json) |
 | Solitaire 3D | 89738 | [89738-solitaire-3d.json](./89738-solitaire-3d.json) |
@@ -10665,6 +10673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Home Story | 354999 | [354999-solitaire-home-story.json](./354999-solitaire-home-story.json) |
 | Solitaire Jester | 123427 | [123427-solitaire-jester.json](./123427-solitaire-jester.json) |
 | Solitaire Journey | 220162 | [220162-solitaire-journey.json](./220162-solitaire-journey.json) |
+| Solitaire Kingdom Supreme | 175323 | [175323-solitaire-kingdom-supreme.json](./175323-solitaire-kingdom-supreme.json) |
 | Solitaire Klondike Deluxe - classic card game | 86910 | [86910-solitaire-klondike-deluxe-classic-card-game.json](./86910-solitaire-klondike-deluxe-classic-card-game.json) |
 | Solitaire Klondike Minimal | 147646 | [147646-solitaire-klondike-minimal.json](./147646-solitaire-klondike-minimal.json) |
 | Solitaire Klondike Pro. | 101601 | [101601-solitaire-klondike-pro.json](./101601-solitaire-klondike-pro.json) |
@@ -15310,6 +15319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stains and the Yeti | 315781 | [315781-stains-and-the-yeti.json](./315781-stains-and-the-yeti.json) |
 | Stair Dismount | 19285 | [19285-stair-dismount.json](./19285-stair-dismount.json) |
 | Stair Quest | 148409 | [148409-stair-quest.json](./148409-stair-quest.json) |
+| Stair Surfers | 175126 | [175126-stair-surfers.json](./175126-stair-surfers.json) |
 | Stair Tap | 365064 | [365064-stair-tap.json](./365064-stair-tap.json) |
 | Staircase55 | 253603 | [253603-staircase55.json](./253603-staircase55.json) |
 | Staircore | 383131 | [383131-staircore.json](./383131-staircore.json) |
@@ -22682,6 +22692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Bell Day: The Game | 123414 | [123414-sweet-bell-day-the-game.json](./123414-sweet-bell-day-the-game.json) |
 | Sweet Berry Crush | 55444 | [55444-sweet-berry-crush.json](./55444-sweet-berry-crush.json) |
 | Sweet Bitter | 296598 | [296598-sweet-bitter.json](./296598-sweet-bitter.json) |
+| Sweet Blast | 174788 | [174788-sweet-blast.json](./174788-sweet-blast.json) |
 | Sweet Cafe | 239881 | [239881-sweet-cafe.json](./239881-sweet-cafe.json) |
 | Sweet Cafe | 385252 | [385252-sweet-cafe.json](./385252-sweet-cafe.json) |
 | Sweet Calamity | 350587 | [350587-sweet-calamity.json](./350587-sweet-calamity.json) |
@@ -23051,6 +23062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Game | 143473 | [143473-sword-game.json](./143473-sword-game.json) |
 | Sword Girls | 64902 | [64902-sword-girls.json](./64902-sword-girls.json) |
 | Sword Hero | 346122 | [346122-sword-hero.json](./346122-sword-hero.json) |
+| Sword Hunter | 174588 | [174588-sword-hunter.json](./174588-sword-hunter.json) |
 | Sword Lake | 301631 | [301631-sword-lake.json](./301631-sword-lake.json) |
 | Sword Maker | 191095 | [191095-sword-maker.json](./191095-sword-maker.json) |
 | Sword Mans | 90211 | [90211-sword-mans.json](./90211-sword-mans.json) |
