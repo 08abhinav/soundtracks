@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T08:25:14.222Z",
-  "total_soundtracks": 1567,
+  "generated_at": "2026-10-13T08:30:13.729Z",
+  "total_soundtracks": 1568,
   "games": [
     {
       "igdb_id": 7522,
@@ -5772,6 +5772,20 @@
           "album_name": "FINAL FANTASY Type-0 HD Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/3V2dLYYcNOPycBOCML2LMa",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 7399,
+      "game_name": "Final Fantasy Type-0 HD",
+      "game_url": "https://ostdb.net/games/final-fantasy-type-0-hd",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d74ab7d4e2d7d1657c16a1bd",
+      "albums": [
+        {
+          "album_name": "FINAL FANTASY Type-0 HD Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/3V2dLYYcNOPycBOCML2LMa",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
