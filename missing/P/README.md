@@ -7267,6 +7267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon CrystalDust | 346232 | [346232-pokemon-crystaldust.json](./346232-pokemon-crystaldust.json) |
 | Pokémon Cursed Version | 384834 | [384834-pokemon-cursed-version.json](./384834-pokemon-cursed-version.json) |
 | Pokémon Cyan | 129814 | [129814-pokemon-cyan.json](./129814-pokemon-cyan.json) |
+| Pokémon D.W. | 147178 | [147178-pokemon-d-w.json](./147178-pokemon-d-w.json) |
 | Pokémon Dark Energy | 386952 | [386952-pokemon-dark-energy.json](./386952-pokemon-dark-energy.json) |
 | Pokémon Daybreak | 241389 | [241389-pokemon-daybreak.json](./241389-pokemon-daybreak.json) |
 | Pokemon Daycare | 264130 | [264130-pokemon-daycare.json](./264130-pokemon-daycare.json) |
@@ -7445,6 +7446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Psychic Seeds | 157527 | [157527-pokemon-psychic-seeds.json](./157527-pokemon-psychic-seeds.json) |
 | Pokémon Puffy Pink | 327204 | [327204-pokemon-puffy-pink.json](./327204-pokemon-puffy-pink.json) |
 | Pokémon PureBlue | 233600 | [233600-pokemon-pureblue.json](./233600-pokemon-pureblue.json) |
+| Pokémon Quantum | 147177 | [147177-pokemon-quantum.json](./147177-pokemon-quantum.json) |
 | Pokémon Quarantine Crystal | 201001 | [201001-pokemon-quarantine-crystal.json](./201001-pokemon-quarantine-crystal.json) |
 | Pokémon Quartz | 139894 | [139894-pokemon-quartz.json](./139894-pokemon-quartz.json) |
 | Pokémon Quest | 102874 | [102874-pokemon-quest.json](./102874-pokemon-quest.json) |
@@ -7766,6 +7768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Girls | 393765 | [393765-police-girls.json](./393765-police-girls.json) |
 | Police Girls on the Case! | 231433 | [231433-police-girls-on-the-case.json](./231433-police-girls-on-the-case.json) |
 | Police Helicopter Simulator | 111959 | [111959-police-helicopter-simulator.json](./111959-police-helicopter-simulator.json) |
+| Police Monster Drift | 147238 | [147238-police-monster-drift.json](./147238-police-monster-drift.json) |
 | Police Officer | 415218 | [415218-police-officer.json](./415218-police-officer.json) |
 | Police on Duty | 209656 | [209656-police-on-duty.json](./209656-police-on-duty.json) |
 | Police on Duty 2 | 295773 | [295773-police-on-duty-2.json](./295773-police-on-duty-2.json) |
@@ -8260,6 +8263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop-Up Pilgrims | 90094 | [90094-pop-up-pilgrims.json](./90094-pop-up-pilgrims.json) |
 | POP: Methodology Experiment One | 17515 | [17515-pop-methodology-experiment-one.json](./17515-pop-methodology-experiment-one.json) |
 | Pop! | 122281 | [122281-pop.json](./122281-pop.json) |
+| Pop! | 147195 | [147195-pop.json](./147195-pop.json) |
 | Pop! Slots | 370752 | [370752-pop-slots.json](./370752-pop-slots.json) |
 | Pop'n music | 186652 | [186652-popn-music.json](./186652-popn-music.json) |
 | Pop'n Music | 281400 | [281400-popn-music.json](./281400-popn-music.json) |
@@ -9542,6 +9546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Principal: Game of Mission | 70907 | [70907-princess-principal-game-of-mission.json](./70907-princess-principal-game-of-mission.json) |
 | Princess Project | 120596 | [120596-princess-project.json](./120596-princess-project.json) |
 | Princess Puzzle Adventure | 279868 | [279868-princess-puzzle-adventure.json](./279868-princess-puzzle-adventure.json) |
+| Princess Quest | 147183 | [147183-princess-quest.json](./147183-princess-quest.json) |
 | Princess Quest | 286070 | [286070-princess-quest.json](./286070-princess-quest.json) |
 | Princess Quest | 77600 | [77600-princess-quest.json](./77600-princess-quest.json) |
 | Princess Quest Part 1 | 250055 | [250055-princess-quest-part-1.json](./250055-princess-quest-part-1.json) |
@@ -11448,6 +11453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purah's Lab | 279688 | [279688-purahs-lab.json](./279688-purahs-lab.json) |
 | Purarger Collector!! | 384805 | [384805-purarger-collector.json](./384805-purarger-collector.json) |
 | Purdy's Night Flight | 335109 | [335109-purdys-night-flight.json](./335109-purdys-night-flight.json) |
+| Pure + LEGO Batman | 147216 | [147216-pure-lego-batman.json](./147216-pure-lego-batman.json) |
 | Pure Badminton | 267825 | [267825-pure-badminton.json](./267825-pure-badminton.json) |
 | Pure Blood | 310933 | [310933-pure-blood.json](./310933-pure-blood.json) |
 | Pure Chaotix | 326817 | [326817-pure-chaotix.json](./326817-pure-chaotix.json) |
