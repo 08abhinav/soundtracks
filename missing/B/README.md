@@ -2952,6 +2952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlesight | 132128 | [132128-battlesight.json](./132128-battlesight.json) |
 | Battlesloths 2025: The Great Pizza Wars | 33090 | [33090-battlesloths-2025-the-great-pizza-wars.json](./33090-battlesloths-2025-the-great-pizza-wars.json) |
 | Battlesmiths: Blade and Forge | 269762 | [269762-battlesmiths-blade-and-forge.json](./269762-battlesmiths-blade-and-forge.json) |
+| Battlesnake | 151464 | [151464-battlesnake.json](./151464-battlesnake.json) |
 | BattleSound | 151739 | [151739-battlesound.json](./151739-battlesound.json) |
 | Battlespace Command | 408067 | [408067-battlespace-command.json](./408067-battlespace-command.json) |
 | BattleSphere Gold | 40813 | [40813-battlesphere-gold.json](./40813-battlesphere-gold.json) |
@@ -3225,6 +3226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beam | 233423 | [233423-beam.json](./233423-beam.json) |
 | Beam Ball | 101731 | [101731-beam-ball.json](./101731-beam-ball.json) |
 | Beam Breakers | 24082 | [24082-beam-breakers.json](./24082-beam-breakers.json) |
+| Beam Car Crash Derby | 151484 | [151484-beam-car-crash-derby.json](./151484-beam-car-crash-derby.json) |
 | Beam Cat | 224666 | [224666-beam-cat.json](./224666-beam-cat.json) |
 | Beam Driver | 360048 | [360048-beam-driver.json](./360048-beam-driver.json) |
 | Beam Invader | 255363 | [255363-beam-invader.json](./255363-beam-invader.json) |
@@ -3401,6 +3403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Blaster | 114817 | [114817-beat-blaster.json](./114817-beat-blaster.json) |
 | Beat Blitz | 217028 | [217028-beat-blitz.json](./217028-beat-blitz.json) |
 | Beat Blocks VR | 111609 | [111609-beat-blocks-vr.json](./111609-beat-blocks-vr.json) |
+| Beat Bolt City | 151502 | [151502-beat-bolt-city.json](./151502-beat-bolt-city.json) |
 | Beat Bop: Pop Star Clicker | 243742 | [243742-beat-bop-pop-star-clicker.json](./243742-beat-bop-pop-star-clicker.json) |
 | Beat Boxers | 110997 | [110997-beat-boxers.json](./110997-beat-boxers.json) |
 | Beat Boxing | 120129 | [120129-beat-boxing.json](./120129-beat-boxing.json) |
@@ -3942,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind You | 34572 | [34572-behind-you.json](./34572-behind-you.json) |
 | Behind You | 359079 | [359079-behind-you.json](./359079-behind-you.json) |
 | Behoarder | 184617 | [184617-behoarder.json](./184617-behoarder.json) |
+| Behold the Dark | 151470 | [151470-behold-the-dark.json](./151470-behold-the-dark.json) |
 | Behold the Kickmen | 26188 | [26188-behold-the-kickmen.json](./26188-behold-the-kickmen.json) |
 | Beholder 2: Big Brother Edition | 146131 | [146131-beholder-2-big-brother-edition.json](./146131-beholder-2-big-brother-edition.json) |
 | Beholder 3 | 186882 | [186882-beholder-3.json](./186882-beholder-3.json) |
@@ -4322,6 +4326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best in the West | 127023 | [127023-best-in-the-west.json](./127023-best-in-the-west.json) |
 | Best Life Simulator | 110562 | [110562-best-life-simulator.json](./110562-best-life-simulator.json) |
 | Best Mayor | 329070 | [329070-best-mayor.json](./329070-best-mayor.json) |
+| Best Miner | 151507 | [151507-best-miner.json](./151507-best-miner.json) |
 | Best of Arcade Games DS | 197897 | [197897-best-of-arcade-games-ds.json](./197897-best-of-arcade-games-ds.json) |
 | Best of Arcade Games: Air Hockey | 84984 | [84984-best-of-arcade-games-air-hockey.json](./84984-best-of-arcade-games-air-hockey.json) |
 | Best of Arcade Games: Brick Breaker | 84986 | [84986-best-of-arcade-games-brick-breaker.json](./84986-best-of-arcade-games-brick-breaker.json) |
@@ -5210,6 +5215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Roulette | 404213 | [404213-bingo-roulette.json](./404213-bingo-roulette.json) |
 | Bingo TV | 276406 | [276406-bingo-tv.json](./276406-bingo-tv.json) |
 | Bingo Tycoon! | 344901 | [344901-bingo-tycoon.json](./344901-bingo-tycoon.json) |
+| Bingo VR | 151492 | [151492-bingo-vr.json](./151492-bingo-vr.json) |
 | Bingo Wackadoo Watch | 231828 | [231828-bingo-wackadoo-watch.json](./231828-bingo-wackadoo-watch.json) |
 | Bingo: Pet Rescue | 258965 | [258965-bingo-pet-rescue.json](./258965-bingo-pet-rescue.json) |
 | Bingo!!! | 106757 | [106757-bingo.json](./106757-bingo.json) |
