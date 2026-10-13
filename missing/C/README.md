@@ -4448,6 +4448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chick City Construction | 174872 | [174872-chick-city-construction.json](./174872-chick-city-construction.json) |
 | Chick Clicker | 344995 | [344995-chick-clicker.json](./344995-chick-clicker.json) |
 | Chick Game | 373681 | [373681-chick-game.json](./373681-chick-game.json) |
+| Chick Invasion | 150939 | [150939-chick-invasion.json](./150939-chick-invasion.json) |
 | Chick Road Rage | 281993 | [281993-chick-road-rage.json](./281993-chick-road-rage.json) |
 | Chick Room Escape | 314011 | [314011-chick-room-escape.json](./314011-chick-room-escape.json) |
 | Chick Room Escape: Xmas ver. | 317000 | [317000-chick-room-escape-xmas-ver.json](./317000-chick-room-escape-xmas-ver.json) |
@@ -8234,6 +8235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer: Red Alert 3 - Uprising | 759 | [759-command-and-conquer-red-alert-3-uprising.json](./759-command-and-conquer-red-alert-3-uprising.json) |
 | Command & Conquer: Rivals | 103274 | [103274-command-and-conquer-rivals.json](./103274-command-and-conquer-rivals.json) |
 | Command & Conquer: The Covert Operations | 663 | [663-command-and-conquer-the-covert-operations.json](./663-command-and-conquer-the-covert-operations.json) |
+| Command & Control 3 | 150976 | [150976-command-and-control-3.json](./150976-command-and-control-3.json) |
 | Command and Destroy | 47887 | [47887-command-and-destroy.json](./47887-command-and-destroy.json) |
 | Command Ant Conquer | 176357 | [176357-command-ant-conquer.json](./176357-command-ant-conquer.json) |
 | Command Bots | 179435 | [179435-command-bots.json](./179435-command-bots.json) |
@@ -9071,6 +9073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contraptions Collection | 282051 | [282051-contraptions-collection.json](./282051-contraptions-collection.json) |
 | Contrast | 383509 | [383509-contrast.json](./383509-contrast.json) |
 | Contrast | 3839 | [3839-contrast.json](./3839-contrast.json) |
+| Contrast Tunnel | 150942 | [150942-contrast-tunnel.json](./150942-contrast-tunnel.json) |
 | Contrasted | 99782 | [99782-contrasted.json](./99782-contrasted.json) |
 | Contre Jour | 93578 | [93578-contre-jour.json](./93578-contre-jour.json) |
 | Contre Jour HD | 101959 | [101959-contre-jour-hd.json](./101959-contre-jour-hd.json) |
@@ -10486,6 +10489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Course | 380094 | [380094-crash-course.json](./380094-crash-course.json) |
 | Crash Course Go! | 106099 | [106099-crash-course-go.json](./106099-crash-course-go.json) |
 | Crash Dive | 24003 | [24003-crash-dive.json](./24003-crash-dive.json) |
+| Crash Dive 2 | 150949 | [150949-crash-dive-2.json](./150949-crash-dive-2.json) |
 | Crash Dive 2: East Indies Expansion Pack | 316390 | [316390-crash-dive-2-east-indies-expansion-pack.json](./316390-crash-dive-2-east-indies-expansion-pack.json) |
 | Crash Drive 2 | 35904 | [35904-crash-drive-2.json](./35904-crash-drive-2.json) |
 | Crash Drive 3 | 153824 | [153824-crash-drive-3.json](./153824-crash-drive-3.json) |
@@ -13282,6 +13286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberPigeon | 264679 | [264679-cyberpigeon.json](./264679-cyberpigeon.json) |
 | Cyberplug | 153343 | [153343-cyberplug.json](./153343-cyberplug.json) |
 | Cyberpong VR | 58629 | [58629-cyberpong-vr.json](./58629-cyberpong-vr.json) |
+| Cyberpulse | 150973 | [150973-cyberpulse.json](./150973-cyberpulse.json) |
 | Cyberpunch | 158691 | [158691-cyberpunch.json](./158691-cyberpunch.json) |
 | Cyberpunk 2 | 262905 | [262905-cyberpunk-2.json](./262905-cyberpunk-2.json) |
 | Cyberpunk 2077: 2.0 Update | 263463 | [263463-cyberpunk-2077-2-0-update.json](./263463-cyberpunk-2077-2-0-update.json) |
