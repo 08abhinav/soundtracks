@@ -1318,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Inn Simulator | 157127 | [157127-fantasy-inn-simulator.json](./157127-fantasy-inn-simulator.json) |
 | Fantasy Island | 114925 | [114925-fantasy-island.json](./114925-fantasy-island.json) |
 | Fantasy Item Company | 216158 | [216158-fantasy-item-company.json](./216158-fantasy-item-company.json) |
+| Fantasy Jigsaw Puzzle 4 | 169146 | [169146-fantasy-jigsaw-puzzle-4.json](./169146-fantasy-jigsaw-puzzle-4.json) |
 | Fantasy Jigsaw Puzzle 5 | 174118 | [174118-fantasy-jigsaw-puzzle-5.json](./174118-fantasy-jigsaw-puzzle-5.json) |
 | Fantasy Jigsaw Puzzles | 231992 | [231992-fantasy-jigsaw-puzzles.json](./231992-fantasy-jigsaw-puzzles.json) |
 | Fantasy Jigsaw Puzzles: Dragons | 236825 | [236825-fantasy-jigsaw-puzzles-dragons.json](./236825-fantasy-jigsaw-puzzles-dragons.json) |
@@ -2159,6 +2160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatebreak | 181244 | [181244-fatebreak.json](./181244-fatebreak.json) |
 | Fatec's Out | 132274 | [132274-fatecs-out.json](./132274-fatecs-out.json) |
 | Fated | 184069 | [184069-fated.json](./184069-fated.json) |
+| Fated Blade | 169151 | [169151-fated-blade.json](./169151-fated-blade.json) |
 | Fated Era | 114514 | [114514-fated-era.json](./114514-fated-era.json) |
 | Fated Haven | 61724 | [61724-fated-haven.json](./61724-fated-haven.json) |
 | Fated Kingdom | 97111 | [97111-fated-kingdom.json](./97111-fated-kingdom.json) |
@@ -2168,6 +2170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fateful Destiny | 323504 | [323504-fateful-destiny.json](./323504-fateful-destiny.json) |
 | Fateline | 121003 | [121003-fateline.json](./121003-fateline.json) |
 | Fatermyth | 291159 | [291159-fatermyth.json](./291159-fatermyth.json) |
+| Fates Call: A New Beginning | 169480 | [169480-fates-call-a-new-beginning.json](./169480-fates-call-a-new-beginning.json) |
 | Fates Forever | 19247 | [19247-fates-forever.json](./19247-fates-forever.json) |
 | Fates of Ort | 112857 | [112857-fates-of-ort.json](./112857-fates-of-ort.json) |
 | Fateweaver: Smash or Pass | 238598 | [238598-fateweaver-smash-or-pass.json](./238598-fateweaver-smash-or-pass.json) |
@@ -5640,6 +5643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Saucers | 230866 | [230866-flying-saucers.json](./230866-flying-saucers.json) |
 | Flying Shot | 127766 | [127766-flying-shot.json](./127766-flying-shot.json) |
 | Flying Slime! | 120137 | [120137-flying-slime.json](./120137-flying-slime.json) |
+| Flying Sofa Simulator | 169350 | [169350-flying-sofa-simulator.json](./169350-flying-sofa-simulator.json) |
 | Flying Soldiers | 146863 | [146863-flying-soldiers.json](./146863-flying-soldiers.json) |
 | Flying Squadron | 43889 | [43889-flying-squadron.json](./43889-flying-squadron.json) |
 | Flying Stunt Simulator | 278156 | [278156-flying-stunt-simulator.json](./278156-flying-stunt-simulator.json) |
@@ -7508,6 +7512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Force | 720 | [720-freedom-force.json](./720-freedom-force.json) |
 | Freedom Isn't Free | 130119 | [130119-freedom-isnt-free.json](./130119-freedom-isnt-free.json) |
 | Freedom Maker | 327825 | [327825-freedom-maker.json](./327825-freedom-maker.json) |
+| Freedom Physics | 169354 | [169354-freedom-physics.json](./169354-freedom-physics.json) |
 | Freedom Planet | 7116 | [7116-freedom-planet.json](./7116-freedom-planet.json) |
 | Freedom Tower | 260334 | [260334-freedom-tower.json](./260334-freedom-tower.json) |
 | Freedom Wars | 6060 | [6060-freedom-wars.json](./6060-freedom-wars.json) |
