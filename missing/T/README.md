@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tail Gun Charlie | 70624 | [70624-tail-gun-charlie.json](./70624-tail-gun-charlie.json) |
 | Tail Gunner | 307611 | [307611-tail-gunner.json](./307611-tail-gunner.json) |
 | Tail io | 284498 | [284498-tail-io.json](./284498-tail-io.json) |
+| Tail Me | 179081 | [179081-tail-me.json](./179081-tail-me.json) |
 | Tail of Glory | 390513 | [390513-tail-of-glory.json](./390513-tail-of-glory.json) |
 | Tail of the Sun | 20814 | [20814-tail-of-the-sun.json](./20814-tail-of-the-sun.json) |
 | Tail Tale | 73338 | [73338-tail-tale.json](./73338-tail-tale.json) |
@@ -603,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takatron: 2098 | 384785 | [384785-takatron-2098.json](./384785-takatron-2098.json) |
 | Take | 57490 | [57490-take.json](./57490-take.json) |
 | Take 'Em Out | 71802 | [71802-take-em-out.json](./71802-take-em-out.json) |
+| Take a Break | 178887 | [178887-take-a-break.json](./178887-take-a-break.json) |
 | Take a Break! Crosswords | 76557 | [76557-take-a-break-crosswords.json](./76557-take-a-break-crosswords.json) |
 | Take a Break's Puzzle Bonanza | 371457 | [371457-take-a-breaks-puzzle-bonanza.json](./371457-take-a-breaks-puzzle-bonanza.json) |
 | Take A Leak | 267424 | [267424-take-a-leak.json](./267424-take-a-leak.json) |
@@ -8596,6 +8598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lords of the Earth Flame | 23723 | [23723-the-lords-of-the-earth-flame.json](./23723-the-lords-of-the-earth-flame.json) |
 | The Loss Levels | 179652 | [179652-the-loss-levels.json](./179652-the-loss-levels.json) |
 | The Lost | 120432 | [120432-the-lost.json](./120432-the-lost.json) |
+| The Lost | 179085 | [179085-the-lost.json](./179085-the-lost.json) |
 | The Lost | 320130 | [320130-the-lost.json](./320130-the-lost.json) |
 | The Lost | 33178 | [33178-the-lost.json](./33178-the-lost.json) |
 | The Lost Abyss | 213592 | [213592-the-lost-abyss.json](./213592-the-lost-abyss.json) |
@@ -8837,6 +8840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Map Is the Thing | 348204 | [348204-the-map-is-the-thing.json](./348204-the-map-is-the-thing.json) |
 | The Marauder Chronicles: Curse over Valdria | 161901 | [161901-the-marauder-chronicles-curse-over-valdria.json](./161901-the-marauder-chronicles-curse-over-valdria.json) |
 | The Marbians | 336387 | [336387-the-marbians.json](./336387-the-marbians.json) |
+| The Mariachi Loco | 178909 | [178909-the-mariachi-loco.json](./178909-the-mariachi-loco.json) |
 | The Marionette | 124595 | [124595-the-marionette.json](./124595-the-marionette.json) |
 | The Mark | 10956 | [10956-the-mark.json](./10956-the-mark.json) |
 | The Mark of Kri | 9120 | [9120-the-mark-of-kri.json](./9120-the-mark-of-kri.json) |
@@ -13502,6 +13506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thundra - Alien Wackiness from the future | 132811 | [132811-thundra-alien-wackiness-from-the-future.json](./132811-thundra-alien-wackiness-from-the-future.json) |
 | Thurgood P. Marshall and the Quest for Ontological Theory Advancement | 128639 | [128639-thurgood-p-marshall-and-the-quest-for-ontological-theory-advancement.json](./128639-thurgood-p-marshall-and-the-quest-for-ontological-theory-advancement.json) |
 | Thursday | 330718 | [330718-thursday.json](./330718-thursday.json) |
+| Thursday Laundry | 178895 | [178895-thursday-laundry.json](./178895-thursday-laundry.json) |
 | Thursday Nite Thunkin' | 260176 | [260176-thursday-nite-thunkin.json](./260176-thursday-nite-thunkin.json) |
 | Thwack | 221080 | [221080-thwack.json](./221080-thwack.json) |
 | Thwackity Puttz | 197227 | [197227-thwackity-puttz.json](./197227-thwackity-puttz.json) |
@@ -21494,6 +21499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Sides of the Same Turnabout | 310420 | [310420-two-sides-of-the-same-turnabout.json](./310420-two-sides-of-the-same-turnabout.json) |
 | Two Skateboards Driving Simulator | 224566 | [224566-two-skateboards-driving-simulator.json](./224566-two-skateboards-driving-simulator.json) |
 | Two Slices of Love | 254986 | [254986-two-slices-of-love.json](./254986-two-slices-of-love.json) |
+| Two Smudges In Infrared | 178921 | [178921-two-smudges-in-infrared.json](./178921-two-smudges-in-infrared.json) |
 | Two Strikes | 149693 | [149693-two-strikes.json](./149693-two-strikes.json) |
 | Two Strikes: Baki Hanma | 372085 | [372085-two-strikes-baki-hanma.json](./372085-two-strikes-baki-hanma.json) |
 | Two Tamarind Seeds | 179106 | [179106-two-tamarind-seeds.json](./179106-two-tamarind-seeds.json) |
