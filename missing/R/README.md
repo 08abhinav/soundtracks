@@ -5266,6 +5266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riskant! | 263454 | [263454-riskant.json](./263454-riskant.json) |
 | Risko: Shepherd's Leap | 390150 | [390150-risko-shepherds-leap.json](./390150-risko-shepherds-leap.json) |
 | Risky Chronicles and the Curse of Destiny | 296595 | [296595-risky-chronicles-and-the-curse-of-destiny.json](./296595-risky-chronicles-and-the-curse-of-destiny.json) |
+| Risky Floors | 167374 | [167374-risky-floors.json](./167374-risky-floors.json) |
 | Risky Roads | 300993 | [300993-risky-roads.json](./300993-risky-roads.json) |
 | Risky Sanctuary | 261772 | [261772-risky-sanctuary.json](./261772-risky-sanctuary.json) |
 | Risky Wings: 'Colibri' Character | 170783 | [170783-risky-wings-colibri-character.json](./170783-risky-wings-colibri-character.json) |
@@ -7194,6 +7195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose of Meat | 392161 | [392161-rose-of-meat.json](./392161-rose-of-meat.json) |
 | Rose Puzzle | 91097 | [91097-rose-puzzle.json](./91097-rose-puzzle.json) |
 | Rose Riddle: Fairy Tale Detective - Collector's Edition | 343359 | [343359-rose-riddle-fairy-tale-detective-collectors-edition.json](./343359-rose-riddle-fairy-tale-detective-collectors-edition.json) |
+| Rose Seed Replica | 167381 | [167381-rose-seed-replica.json](./167381-rose-seed-replica.json) |
 | Roseblight | 138554 | [138554-roseblight.json](./138554-roseblight.json) |
 | Roseline | 276831 | [276831-roseline.json](./276831-roseline.json) |
 | Rosemary | 310151 | [310151-rosemary.json](./310151-rosemary.json) |
@@ -7218,6 +7220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roswell Pinball | 314913 | [314913-roswell-pinball.json](./314913-roswell-pinball.json) |
 | Roswell's 66th Anniversary | 225900 | [225900-roswells-66th-anniversary.json](./225900-roswells-66th-anniversary.json) |
 | Roswyn | 411030 | [411030-roswyn.json](./411030-roswyn.json) |
+| Rosy Manga | 167386 | [167386-rosy-manga.json](./167386-rosy-manga.json) |
 | Rosy Rubicunda | 299433 | [299433-rosy-rubicunda.json](./299433-rosy-rubicunda.json) |
 | rOt | 88231 | [88231-rot.json](./88231-rot.json) |
 | Rot | 399759 | [399759-rot.json](./399759-rot.json) |
