@@ -1400,6 +1400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rats for Breakfast | 126999 | [126999-rats-for-breakfast.json](./126999-rats-for-breakfast.json) |
 | Rats Invasion | 96673 | [96673-rats-invasion.json](./96673-rats-invasion.json) |
 | Rats Invasion 2 | 86889 | [86889-rats-invasion-2.json](./86889-rats-invasion-2.json) |
+| Rats Under My Skin | 177786 | [177786-rats-under-my-skin.json](./177786-rats-under-my-skin.json) |
 | Rats, Bats, and Bones | 113164 | [113164-rats-bats-and-bones.json](./113164-rats-bats-and-bones.json) |
 | Rats! | 49087 | [49087-rats.json](./49087-rats.json) |
 | Rätsel & Denkspiele | 91604 | [91604-ratsel-and-denkspiele.json](./91604-ratsel-and-denkspiele.json) |
@@ -3162,6 +3163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remedy | 150516 | [150516-remedy.json](./150516-remedy.json) |
 | Remedy | 202325 | [202325-remedy.json](./202325-remedy.json) |
 | Remember | 128320 | [128320-remember.json](./128320-remember.json) |
+| Remember Mary | 177961 | [177961-remember-mary.json](./177961-remember-mary.json) |
 | Remember Me Before Andromeda | 364366 | [364366-remember-me-before-andromeda.json](./364366-remember-me-before-andromeda.json) |
 | Remember Places? | 177346 | [177346-remember-places.json](./177346-remember-places.json) |
 | Remember Saint Patrick | 335079 | [335079-remember-saint-patrick.json](./335079-remember-saint-patrick.json) |
@@ -8310,6 +8312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty Seas | 207319 | [207319-rusty-seas.json](./207319-rusty-seas.json) |
 | Rusty Stings | 2962 | [2962-rusty-stings.json](./2962-rusty-stings.json) |
 | Rusty Vein | 411714 | [411714-rusty-vein.json](./411714-rusty-vein.json) |
+| Rusty Wind Blows | 177969 | [177969-rusty-wind-blows.json](./177969-rusty-wind-blows.json) |
 | Rusty Winter | 370688 | [370688-rusty-winter.json](./370688-rusty-winter.json) |
 | Rusty's Adventure | 365257 | [365257-rustys-adventure.json](./365257-rustys-adventure.json) |
 | Rusty's Day Off: Episode One - Janitor on Duty | 249225 | [249225-rustys-day-off-episode-one-janitor-on-duty.json](./249225-rustys-day-off-episode-one-janitor-on-duty.json) |
