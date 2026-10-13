@@ -5121,6 +5121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Rush | 284971 | [284971-christmas-rush.json](./284971-christmas-rush.json) |
 | Christmas Seaman: Omoi o Tsutaeru Mou Hitotsu no Houhou | 283108 | [283108-christmas-seaman-omoi-o-tsutaeru-mou-hitotsu-no-houhou.json](./283108-christmas-seaman-omoi-o-tsutaeru-mou-hitotsu-no-houhou.json) |
 | Christmas Shooter | 213309 | [213309-christmas-shooter.json](./213309-christmas-shooter.json) |
+| Christmas Shooting | 178355 | [178355-christmas-shooting.json](./178355-christmas-shooting.json) |
 | Christmas Shopper Simulator | 137466 | [137466-christmas-shopper-simulator.json](./137466-christmas-shopper-simulator.json) |
 | Christmas Smash | 400469 | [400469-christmas-smash.json](./400469-christmas-smash.json) |
 | Christmas Soul | 372805 | [372805-christmas-soul.json](./372805-christmas-soul.json) |
@@ -11379,6 +11380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossing Souls | 11176 | [11176-crossing-souls.json](./11176-crossing-souls.json) |
 | Crossing the Line | 61690 | [61690-crossing-the-line.json](./61690-crossing-the-line.json) |
 | Crossing the Sands | 261842 | [261842-crossing-the-sands.json](./261842-crossing-the-sands.json) |
+| Crossing to the Cold Valley | 178327 | [178327-crossing-to-the-cold-valley.json](./178327-crossing-to-the-cold-valley.json) |
 | Crossing Void - Global | 130700 | [130700-crossing-void-global.json](./130700-crossing-void-global.json) |
 | Crosslogic Ultimate | 66716 | [66716-crosslogic-ultimate.json](./66716-crosslogic-ultimate.json) |
 | CrossLust | 235491 | [235491-crosslust.json](./235491-crosslust.json) |
@@ -11847,6 +11849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CryptoGrid | 411789 | [411789-cryptogrid.json](./411789-cryptogrid.json) |
 | CryptoMania: Movie Quotes | 271693 | [271693-cryptomania-movie-quotes.json](./271693-cryptomania-movie-quotes.json) |
 | Cryptonaut | 190132 | [190132-cryptonaut.json](./190132-cryptonaut.json) |
+| CryptoPlanes | 178324 | [178324-cryptoplanes.json](./178324-cryptoplanes.json) |
 | CryptoQuiz | 108443 | [108443-cryptoquiz.json](./108443-cryptoquiz.json) |
 | CryptoQuote | 96031 | [96031-cryptoquote.json](./96031-cryptoquote.json) |
 | Cryptoria | 406128 | [406128-cryptoria.json](./406128-cryptoria.json) |
