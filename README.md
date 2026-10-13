@@ -993,6 +993,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2731134e6b97732064715dd8029" width="60" /> | [Super Mario Sunshine](https://ostdb.net/games/super-mario-sunshine) | **Super Mario Sunshine, Iconic Themes** · [Spotify](https://open.spotify.com/album/7gEz7Nz4vWrA1iCXKKjdMI)<br>**Super Mario Sunshine: Iconic Themes, Vol. 2** · [Spotify](https://open.spotify.com/album/5LvyFBNsFGml16qpa1hyHI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734655a98284f1ab6841c6a474" width="60" /> | [Super Meat Boy](https://ostdb.net/games/super-meat-boy) | **Super Meat Boy! - Official Special Edition Soundtrack** · [Spotify](https://open.spotify.com/album/1a4TATTxo7fdfqYxn2uMFN) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/25/ae/a6/25aea601-b8c8-8781-53db-190cf7e70de0/195999235929.jpg/600x600bb.jpg" width="60" /> | [Super Meat Boy Forever](https://ostdb.net/games/super-meat-boy-forever) | **Super Meat Boy Forever (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/super-meat-boy-forever-original-soundtrack/1546648358?uo=4) · [Album](https://album.link/i/1546648358) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d8863e62f81ae4e9a5318e2" width="60" /> | [Super Street Fighter II Turbo](https://ostdb.net/games/super-street-fighter-ii-turbo) | **Super Street Fighter II Turbo Original Soundtrack** · [Spotify](https://open.spotify.com/album/7ySaYFELMfqG77Oz9bb360) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273341422445e9b9b1aaf9a18c8" width="60" /> | [SuperHot: Mind Control Delete](https://ostdb.net/games/superhot-mind-control-delete) | **Superhot: Mind Control Delete Soundtrack** · [Spotify](https://open.spotify.com/album/4psakOvPgLmgGpVmUKZh5j) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738d00bd1a575bebede546037b" width="60" /> | [Superliminal](https://ostdb.net/games/superliminal) | **Superliminal (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4PK7GiRv8Vpq0xtuyB0g0r) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731dd8bb66949fccf8f527a3e2" width="60" /> | [Sword of the Sea](https://ostdb.net/games/sword-of-the-sea) | **Sword of the Sea (Original Soundtrack Album)** · [Spotify](https://open.spotify.com/album/4taiq7ZXGV00KOMROWIIMO) |
@@ -1244,4 +1245,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1569 soundtracks · last updated 2026-10-13T08:30:30.445Z_
+_1570 soundtracks · last updated 2026-10-13T08:30:46.218Z_
