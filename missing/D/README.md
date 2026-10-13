@@ -6207,6 +6207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Adventure | 114507 | [114507-dinosaur-adventure.json](./114507-dinosaur-adventure.json) |
 | Dinosaur Adventure | 43472 | [43472-dinosaur-adventure.json](./43472-dinosaur-adventure.json) |
 | Dinosaur Adventure 3-D | 69808 | [69808-dinosaur-adventure-3-d.json](./69808-dinosaur-adventure-3-d.json) |
+| DInosaur Adventure Island | 137938 | [137938-dinosaur-adventure-island.json](./137938-dinosaur-adventure-island.json) |
 | Dinosaur Air Hockey | 397897 | [397897-dinosaur-air-hockey.json](./397897-dinosaur-air-hockey.json) |
 | Dinosaur Assassin: I-Evolution | 264013 | [264013-dinosaur-assassin-i-evolution.json](./264013-dinosaur-assassin-i-evolution.json) |
 | Dinosaur Battlegrounds | 57127 | [57127-dinosaur-battlegrounds.json](./57127-dinosaur-battlegrounds.json) |
@@ -10955,6 +10956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Duchy: The Tribe | 370473 | [370473-drop-duchy-the-tribe.json](./370473-drop-duchy-the-tribe.json) |
 | Drop Flip | 96538 | [96538-drop-flip.json](./96538-drop-flip.json) |
 | Drop Flip Seasons | 96284 | [96284-drop-flip-seasons.json](./96284-drop-flip-seasons.json) |
+| Drop In VR | 137912 | [137912-drop-in-vr.json](./137912-drop-in-vr.json) |
 | Drop It | 285127 | [285127-drop-it.json](./285127-drop-it.json) |
 | Drop It: Block Paradise! | 85104 | [85104-drop-it-block-paradise.json](./85104-drop-it-block-paradise.json) |
 | Drop Kick Zombie! | 118763 | [118763-drop-kick-zombie.json](./118763-drop-kick-zombie.json) |
