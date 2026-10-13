@@ -8524,6 +8524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleeping With the Phish | 391178 | [391178-sleeping-with-the-phish.json](./391178-sleeping-with-the-phish.json) |
 | Sleeping: Counting Sheep | 321503 | [321503-sleeping-counting-sheep.json](./321503-sleeping-counting-sheep.json) |
 | SleepingPills | 383515 | [383515-sleepingpills.json](./383515-sleepingpills.json) |
+| Sleepless | 177804 | [177804-sleepless.json](./177804-sleepless.json) |
 | Sleepless | 201637 | [201637-sleepless.json](./201637-sleepless.json) |
 | Sleepless Cinderella: Party | 298884 | [298884-sleepless-cinderella-party.json](./298884-sleepless-cinderella-party.json) |
 | Sleepless in the Sapphire City | 299864 | [299864-sleepless-in-the-sapphire-city.json](./299864-sleepless-in-the-sapphire-city.json) |
@@ -13006,6 +13007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Threat | 272906 | [272906-space-threat.json](./272906-space-threat.json) |
 | Space Thugs | 326184 | [326184-space-thugs.json](./326184-space-thugs.json) |
 | Space Time Ocean | 270777 | [270777-space-time-ocean.json](./270777-space-time-ocean.json) |
+| Space to Interrogate | 177801 | [177801-space-to-interrogate.json](./177801-space-to-interrogate.json) |
 | Space to Investigate | 179702 | [179702-space-to-investigate.json](./179702-space-to-investigate.json) |
 | Space Toads Mayhem | 25799 | [25799-space-toads-mayhem.json](./25799-space-toads-mayhem.json) |
 | Space Tournament | 260292 | [260292-space-tournament.json](./260292-space-tournament.json) |
@@ -21058,6 +21060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Nova | 414296 | [414296-super-nova.json](./414296-super-nova.json) |
 | Super Nova Party | 219576 | [219576-super-nova-party.json](./219576-super-nova-party.json) |
 | Super Nova Stadium | 165687 | [165687-super-nova-stadium.json](./165687-super-nova-stadium.json) |
+| Super Nova's Symphony | 177774 | [177774-super-novas-symphony.json](./177774-super-novas-symphony.json) |
 | Super Nudge 2000 | 72698 | [72698-super-nudge-2000.json](./72698-super-nudge-2000.json) |
 | Super Off Road | 245295 | [245295-super-off-road.json](./245295-super-off-road.json) |
 | Super Off Road | 365683 | [365683-super-off-road.json](./365683-super-off-road.json) |
@@ -22868,6 +22871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swimsanity! | 63572 | [63572-swimsanity.json](./63572-swimsanity.json) |
 | Swinario Super Bros. Play | 169252 | [169252-swinario-super-bros-play.json](./169252-swinario-super-bros-play.json) |
 | Swindler | 51170 | [51170-swindler.json](./51170-swindler.json) |
+| Swindler 1.11 | 177790 | [177790-swindler-1-11.json](./177790-swindler-1-11.json) |
 | Swine's Revenge | 360011 | [360011-swines-revenge.json](./360011-swines-revenge.json) |
 | Swing & Miss | 159193 | [159193-swing-and-miss.json](./159193-swing-and-miss.json) |
 | Swing 2 Heli | 262356 | [262356-swing-2-heli.json](./262356-swing-2-heli.json) |
