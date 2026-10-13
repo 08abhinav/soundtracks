@@ -1809,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Mission 2025 | 37107 | [37107-impossible-mission-2025.json](./37107-impossible-mission-2025.json) |
 | Impossible Mission 3 | 403546 | [403546-impossible-mission-3.json](./403546-impossible-mission-3.json) |
 | Impossible Mission Remastered | 171358 | [171358-impossible-mission-remastered.json](./171358-impossible-mission-remastered.json) |
+| Impossible Pixels | 140867 | [140867-impossible-pixels.json](./140867-impossible-pixels.json) |
 | Impossible Road 2 | 278688 | [278688-impossible-road-2.json](./278688-impossible-road-2.json) |
 | Impossible Runner! | 87582 | [87582-impossible-runner.json](./87582-impossible-runner.json) |
 | Impossible Slasher | 194634 | [194634-impossible-slasher.json](./194634-impossible-slasher.json) |
