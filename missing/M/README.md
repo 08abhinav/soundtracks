@@ -2308,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marco Polo Bridge Incident | 213398 | [213398-marco-polo-bridge-incident.json](./213398-marco-polo-bridge-incident.json) |
 | Marcus Comes Out Online | 330150 | [330150-marcus-comes-out-online.json](./330150-marcus-comes-out-online.json) |
 | Marcus Level | 34063 | [34063-marcus-level.json](./34063-marcus-level.json) |
+| Mardek | 150427 | [150427-mardek.json](./150427-mardek.json) |
 | Mardek RPG: Chapter 1 | 62756 | [62756-mardek-rpg-chapter-1.json](./62756-mardek-rpg-chapter-1.json) |
 | Mardek RPG: Chapter 2 | 62729 | [62729-mardek-rpg-chapter-2.json](./62729-mardek-rpg-chapter-2.json) |
 | Mare | 177407 | [177407-mare.json](./177407-mare.json) |
@@ -4018,6 +4019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maya the Bee: Sweet Gold | 49328 | [49328-maya-the-bee-sweet-gold.json](./49328-maya-the-bee-sweet-gold.json) |
 | Maya the Bee: The Great Adventure | 49327 | [49327-maya-the-bee-the-great-adventure.json](./49327-maya-the-bee-the-great-adventure.json) |
 | Maya the Bee: What a Thunderstorm | 71035 | [71035-maya-the-bee-what-a-thunderstorm.json](./71035-maya-the-bee-what-a-thunderstorm.json) |
+| Maya Treasures | 150464 | [150464-maya-treasures.json](./150464-maya-treasures.json) |
 | Maya: Cats of Istanbul | 332975 | [332975-maya-cats-of-istanbul.json](./332975-maya-cats-of-istanbul.json) |
 | Maya's Dice | 179207 | [179207-mayas-dice.json](./179207-mayas-dice.json) |
 | Maya's Dream | 236508 | [236508-mayas-dream.json](./236508-mayas-dream.json) |
