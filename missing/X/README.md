@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| X | 172448 | [172448-x.json](./172448-x.json) |
 | X | 37764 | [37764-x.json](./37764-x.json) |
 | X Air Combat | 158625 | [158625-x-air-combat.json](./158625-x-air-combat.json) |
 | X Defense: Timing TD | 288436 | [288436-x-defense-timing-td.json](./288436-x-defense-timing-td.json) |
