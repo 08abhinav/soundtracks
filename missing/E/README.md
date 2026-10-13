@@ -470,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi Spirit | 147393 | [147393-ecchi-spirit.json](./147393-ecchi-spirit.json) |
 | Ecchi Uncover | 333519 | [333519-ecchi-uncover.json](./333519-ecchi-uncover.json) |
 | Ecchi: Time to Oppai | 349303 | [349303-ecchi-time-to-oppai.json](./349303-ecchi-time-to-oppai.json) |
+| Ecclesia Online | 143452 | [143452-ecclesia-online.json](./143452-ecclesia-online.json) |
 | Ecco 2: Sentinels of the Universe | 19682 | [19682-ecco-2-sentinels-of-the-universe.json](./19682-ecco-2-sentinels-of-the-universe.json) |
 | Ecco the Dolphin | 237309 | [237309-ecco-the-dolphin.json](./237309-ecco-the-dolphin.json) |
 | Ecco the Dolphin | 5378 | [5378-ecco-the-dolphin.json](./5378-ecco-the-dolphin.json) |
@@ -1517,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elements | 383108 | [383108-elements.json](./383108-elements.json) |
 | Elements and Build | 321564 | [321564-elements-and-build.json](./321564-elements-and-build.json) |
 | Elements Cubed | 231411 | [231411-elements-cubed.json](./231411-elements-cubed.json) |
+| Elements Destiny | 143432 | [143432-elements-destiny.json](./143432-elements-destiny.json) |
 | Elements For Money | 287243 | [287243-elements-for-money.json](./287243-elements-for-money.json) |
 | Elements II: Hearts of Light | 33352 | [33352-elements-ii-hearts-of-light.json](./33352-elements-ii-hearts-of-light.json) |
 | Elements of Destruction | 210292 | [210292-elements-of-destruction.json](./210292-elements-of-destruction.json) |
