@@ -2360,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GG Portrait: Akira Yuki | 46528 | [46528-gg-portrait-akira-yuki.json](./46528-gg-portrait-akira-yuki.json) |
 | GG Portrait: Pai-chan | 46602 | [46602-gg-portrait-pai-chan.json](./46602-gg-portrait-pai-chan.json) |
 | GG Puzzler | 368379 | [368379-gg-puzzler.json](./368379-gg-puzzler.json) |
+| Gga | 173195 | [173195-gga.json](./173195-gga.json) |
 | Ggang! | 114914 | [114914-ggang.json](./114914-ggang.json) |
 | Ggg Collection | 170854 | [170854-ggg-collection.json](./170854-ggg-collection.json) |
 | Ggg Collection: Gubbie | 170853 | [170853-ggg-collection-gubbie.json](./170853-ggg-collection-gubbie.json) |
@@ -3507,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Home | 210886 | [210886-go-home.json](./210886-go-home.json) |
 | Go Home 1986 | 392928 | [392928-go-home-1986.json](./392928-go-home-1986.json) |
 | Go Home Dinosaurs! | 16396 | [16396-go-home-dinosaurs.json](./16396-go-home-dinosaurs.json) |
+| Go Home, Mr. Fisk! | 173215 | [173215-go-home-mr-fisk.json](./173215-go-home-mr-fisk.json) |
 | Go Kart Challenge | 140986 | [140986-go-kart-challenge.json](./140986-go-kart-challenge.json) |
 | Go Kart Go! Ultra! | 176208 | [176208-go-kart-go-ultra.json](./176208-go-kart-go-ultra.json) |
 | Go Kart Mania: Discovery Edition | 332509 | [332509-go-kart-mania-discovery-edition.json](./332509-go-kart-mania-discovery-edition.json) |
@@ -3643,6 +3645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator: Waste of Space Bundle | 234308 | [234308-goat-simulator-waste-of-space-bundle.json](./234308-goat-simulator-waste-of-space-bundle.json) |
 | Goat Survivor | 367025 | [367025-goat-survivor.json](./367025-goat-survivor.json) |
 | Goat!Goat! | 242481 | [242481-goat-goat.json](./242481-goat-goat.json) |
+| Goat's Tale | 173011 | [173011-goats-tale.json](./173011-goats-tale.json) |
 | Goat's Tale 2 | 213540 | [213540-goats-tale-2.json](./213540-goats-tale-2.json) |
 | Goat's Tale 2: Plus | 236770 | [236770-goats-tale-2-plus.json](./236770-goats-tale-2-plus.json) |
 | Goat's Tale Adventure | 283378 | [283378-goats-tale-adventure.json](./283378-goats-tale-adventure.json) |
@@ -4845,6 +4848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gpop.io | 230192 | [230192-gpop-io.json](./230192-gpop-io.json) |
 | GPS Monster Scouter | 372137 | [372137-gps-monster-scouter.json](./372137-gps-monster-scouter.json) |
 | GPU Inferno | 369910 | [369910-gpu-inferno.json](./369910-gpu-inferno.json) |
+| Gra & Vity | 173002 | [173002-gra-and-vity.json](./173002-gra-and-vity.json) |
 | Graahl: Of Feather and Grit | 109549 | [109549-graahl-of-feather-and-grit.json](./109549-graahl-of-feather-and-grit.json) |
 | GraalOnline Classic+ | 38871 | [38871-graalonline-classic.json](./38871-graalonline-classic.json) |
 | GraalOnline Era | 55842 | [55842-graalonline-era.json](./55842-graalonline-era.json) |
@@ -5526,6 +5530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Magician | 226671 | [226671-gravity-magician.json](./226671-gravity-magician.json) |
 | Gravity Mastery | 144191 | [144191-gravity-mastery.json](./144191-gravity-mastery.json) |
 | Gravity Mike | 239624 | [239624-gravity-mike.json](./239624-gravity-mike.json) |
+| Gravity Mummy | 173022 | [173022-gravity-mummy.json](./173022-gravity-mummy.json) |
 | Gravity Panda | 114263 | [114263-gravity-panda.json](./114263-gravity-panda.json) |
 | Gravity Pilot! | 194366 | [194366-gravity-pilot.json](./194366-gravity-pilot.json) |
 | Gravity Pull | 202172 | [202172-gravity-pull.json](./202172-gravity-pull.json) |
