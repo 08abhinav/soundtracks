@@ -2176,6 +2176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Mosaics: Land of the Rising Sun | 378338 | [378338-adventure-mosaics-land-of-the-rising-sun.json](./378338-adventure-mosaics-land-of-the-rising-sun.json) |
 | Adventure Mosaics: Moto-Trip | 196155 | [196155-adventure-mosaics-moto-trip.json](./196155-adventure-mosaics-moto-trip.json) |
 | Adventure Mosaics: Moto-Trip Africa | 294202 | [294202-adventure-mosaics-moto-trip-africa.json](./294202-adventure-mosaics-moto-trip-africa.json) |
+| Adventure Mosaics: Small Islanders | 157932 | [157932-adventure-mosaics-small-islanders.json](./157932-adventure-mosaics-small-islanders.json) |
 | Adventure Mosaics: St. Patrick's Day | 417517 | [417517-adventure-mosaics-st-patricks-day.json](./417517-adventure-mosaics-st-patricks-day.json) |
 | Adventure Mosaics: Winter Holidays | 294203 | [294203-adventure-mosaics-winter-holidays.json](./294203-adventure-mosaics-winter-holidays.json) |
 | Adventure of a Digger | 103425 | [103425-adventure-of-a-digger.json](./103425-adventure-of-a-digger.json) |
@@ -3824,6 +3825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemy | 179418 | [179418-alchemy.json](./179418-alchemy.json) |
 | Alchemy | 337805 | [337805-alchemy.json](./337805-alchemy.json) |
 | Alchemy 1000 | 134383 | [134383-alchemy-1000.json](./134383-alchemy-1000.json) |
+| Alchemy Absorption: Melody | 157940 | [157940-alchemy-absorption-melody.json](./157940-alchemy-absorption-melody.json) |
 | Alchemy Academy | 337810 | [337810-alchemy-academy.json](./337810-alchemy-academy.json) |
 | Alchemy Classic | 111035 | [111035-alchemy-classic.json](./111035-alchemy-classic.json) |
 | Alchemy Deluxe | 93157 | [93157-alchemy-deluxe.json](./93157-alchemy-deluxe.json) |
