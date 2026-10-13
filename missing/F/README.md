@@ -2328,10 +2328,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear Effect 2: Retro Helix | 8601 | [8601-fear-effect-2-retro-helix.json](./8601-fear-effect-2-retro-helix.json) |
 | Fear Effect: Reinvented | 55026 | [55026-fear-effect-reinvented.json](./55026-fear-effect-reinvented.json) |
 | Fear Effect: Sedna - Collector's Edition | 124813 | [124813-fear-effect-sedna-collectors-edition.json](./124813-fear-effect-sedna-collectors-edition.json) |
+| Fear for Sale: City of the Past | 140250 | [140250-fear-for-sale-city-of-the-past.json](./140250-fear-for-sale-city-of-the-past.json) |
 | Fear for Sale: City of the Past - Collector's Edition | 107836 | [107836-fear-for-sale-city-of-the-past-collectors-edition.json](./107836-fear-for-sale-city-of-the-past-collectors-edition.json) |
 | Fear for Sale: City of the Past HD - A Hidden Object Mystery | 88307 | [88307-fear-for-sale-city-of-the-past-hd-a-hidden-object-mystery.json](./88307-fear-for-sale-city-of-the-past-hd-a-hidden-object-mystery.json) |
+| Fear for Sale: Endless Voyage | 140251 | [140251-fear-for-sale-endless-voyage.json](./140251-fear-for-sale-endless-voyage.json) |
 | Fear for Sale: Endless Voyage HD | 102204 | [102204-fear-for-sale-endless-voyage-hd.json](./102204-fear-for-sale-endless-voyage-hd.json) |
 | Fear For Sale: Hidden in the Darkness | 187899 | [187899-fear-for-sale-hidden-in-the-darkness.json](./187899-fear-for-sale-hidden-in-the-darkness.json) |
+| Fear for Sale: Mystery of McInroy Manor | 140252 | [140252-fear-for-sale-mystery-of-mcinroy-manor.json](./140252-fear-for-sale-mystery-of-mcinroy-manor.json) |
 | Fear For Sale: Nightmare Cinema - Collector’s Edition | 104216 | [104216-fear-for-sale-nightmare-cinema-collector-s-edition.json](./104216-fear-for-sale-nightmare-cinema-collector-s-edition.json) |
 | Fear for Sale: The 13 Keys - Collector's Edition | 93830 | [93830-fear-for-sale-the-13-keys-collectors-edition.json](./93830-fear-for-sale-the-13-keys-collectors-edition.json) |
 | Fear for Sale: The House on Black River | 101654 | [101654-fear-for-sale-the-house-on-black-river.json](./101654-fear-for-sale-the-house-on-black-river.json) |
@@ -6984,6 +6987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 4: Best of Bond Car Pack | 140292 | [140292-forza-horizon-4-best-of-bond-car-pack.json](./140292-forza-horizon-4-best-of-bond-car-pack.json) |
 | Forza Horizon 4: Car Pass | 365709 | [365709-forza-horizon-4-car-pass.json](./365709-forza-horizon-4-car-pass.json) |
 | Forza Horizon 4: Expansions Bundle | 136391 | [136391-forza-horizon-4-expansions-bundle.json](./136391-forza-horizon-4-expansions-bundle.json) |
+| Forza Horizon 4: Formula Drift Car Pack | 140285 | [140285-forza-horizon-4-formula-drift-car-pack.json](./140285-forza-horizon-4-formula-drift-car-pack.json) |
 | Forza Horizon 4: Icons Car Pack | 153717 | [153717-forza-horizon-4-icons-car-pack.json](./153717-forza-horizon-4-icons-car-pack.json) |
 | Forza Horizon 4: LEGO Speed Champions | 121517 | [121517-forza-horizon-4-lego-speed-champions.json](./121517-forza-horizon-4-lego-speed-champions.json) |
 | Forza Horizon 4: Mitsubishi Motors Car Pack | 140365 | [140365-forza-horizon-4-mitsubishi-motors-car-pack.json](./140365-forza-horizon-4-mitsubishi-motors-car-pack.json) |
