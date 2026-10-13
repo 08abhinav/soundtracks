@@ -2442,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat doesn't like banana | 108033 | [108033-cat-doesnt-like-banana.json](./108033-cat-doesnt-like-banana.json) |
 | Cat Drift | 320824 | [320824-cat-drift.json](./320824-cat-drift.json) |
 | Cat Dungeon | 210880 | [210880-cat-dungeon.json](./210880-cat-dungeon.json) |
+| Cat Dungeon Escape | 153132 | [153132-cat-dungeon-escape.json](./153132-cat-dungeon-escape.json) |
 | Cat Escape | 208102 | [208102-cat-escape.json](./208102-cat-escape.json) |
 | Cat Escape! Infinity！ | 247205 | [247205-cat-escape-infinity.json](./247205-cat-escape-infinity.json) |
 | Cat Evolution | 341636 | [341636-cat-evolution.json](./341636-cat-evolution.json) |
@@ -2725,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch The Rabbit | 348244 | [348244-catch-the-rabbit.json](./348244-catch-the-rabbit.json) |
 | Catch the Rhythm | 339790 | [339790-catch-the-rhythm.json](./339790-catch-the-rhythm.json) |
 | Catch the Sperm | 319974 | [319974-catch-the-sperm.json](./319974-catch-the-sperm.json) |
+| Catch the Stars: Jigsaw Puzzle | 153152 | [153152-catch-the-stars-jigsaw-puzzle.json](./153152-catch-the-stars-jigsaw-puzzle.json) |
 | Catch the thief | 202011 | [202011-catch-the-thief.json](./202011-catch-the-thief.json) |
 | Catch the Turtle | 410230 | [410230-catch-the-turtle.json](./410230-catch-the-turtle.json) |
 | Catch the Vandal | 298278 | [298278-catch-the-vandal.json](./298278-catch-the-vandal.json) |
@@ -2813,6 +2815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cathulhu Detective | 193978 | [193978-cathulhu-detective.json](./193978-cathulhu-detective.json) |
 | Catie in MeowmeowLand | 158105 | [158105-catie-in-meowmeowland.json](./158105-catie-in-meowmeowland.json) |
 | Catify VR | 104799 | [104799-catify-vr.json](./104799-catify-vr.json) |
+| Catizens | 153167 | [153167-catizens.json](./153167-catizens.json) |
 | Catjam | 419928 | [419928-catjam.json](./419928-catjam.json) |
 | Catjong 3: Purrl of the East | 393825 | [393825-catjong-3-purrl-of-the-east.json](./393825-catjong-3-purrl-of-the-east.json) |
 | Catlateral Damage | 17966 | [17966-catlateral-damage.json](./17966-catlateral-damage.json) |
@@ -5193,6 +5196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Stories: Nutcracker | 139771 | [139771-christmas-stories-nutcracker.json](./139771-christmas-stories-nutcracker.json) |
 | Christmas Stories: Nutcracker - Collector's Edition | 30202 | [30202-christmas-stories-nutcracker-collectors-edition.json](./30202-christmas-stories-nutcracker-collectors-edition.json) |
 | Christmas Stories: Puss in Boots | 187916 | [187916-christmas-stories-puss-in-boots.json](./187916-christmas-stories-puss-in-boots.json) |
+| Christmas Stories: Puss in Boots - Collector's Edition | 153140 | [153140-christmas-stories-puss-in-boots-collectors-edition.json](./153140-christmas-stories-puss-in-boots-collectors-edition.json) |
 | Christmas Stories: The Adventures of Santa Claus | 328539 | [328539-christmas-stories-the-adventures-of-santa-claus.json](./328539-christmas-stories-the-adventures-of-santa-claus.json) |
 | Christmas Stories: The Christmas Tree Forest | 187961 | [187961-christmas-stories-the-christmas-tree-forest.json](./187961-christmas-stories-the-christmas-tree-forest.json) |
 | Christmas Stories: The Gift of the Magi | 57126 | [57126-christmas-stories-the-gift-of-the-magi.json](./57126-christmas-stories-the-gift-of-the-magi.json) |
@@ -7324,6 +7328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Flipper | 219741 | [219741-coin-flipper.json](./219741-coin-flipper.json) |
 | Coin Grid | 221374 | [221374-coin-grid.json](./221374-coin-grid.json) |
 | Coin Hound Lounge | 202015 | [202015-coin-hound-lounge.json](./202015-coin-hound-lounge.json) |
+| Coin Hunt World! | 153128 | [153128-coin-hunt-world.json](./153128-coin-hunt-world.json) |
 | Coin Hunter | 331678 | [331678-coin-hunter.json](./331678-coin-hunter.json) |
 | Coin Jar | 291742 | [291742-coin-jar.json](./291742-coin-jar.json) |
 | Coin Master | 87020 | [87020-coin-master.json](./87020-coin-master.json) |
