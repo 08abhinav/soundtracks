@@ -1764,6 +1764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joongboongi's Adventure | 340775 | [340775-joongboongis-adventure.json](./340775-joongboongis-adventure.json) |
 | JoonGo Playground | 112259 | [112259-joongo-playground.json](./112259-joongo-playground.json) |
 | JoonGo Playground | 112268 | [112268-joongo-playground.json](./112268-joongo-playground.json) |
+| Jord | 176733 | [176733-jord.json](./176733-jord.json) |
 | Jordan vs. Bird | 361785 | [361785-jordan-vs-bird.json](./361785-jordan-vs-bird.json) |
 | Jordan vs. Bird: One on One | 18837 | [18837-jordan-vs-bird-one-on-one.json](./18837-jordan-vs-bird-one-on-one.json) |
 | Jordan vs. Bird: One on One | 198783 | [198783-jordan-vs-bird-one-on-one.json](./198783-jordan-vs-bird-one-on-one.json) |
