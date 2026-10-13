@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Chess: Mate in Two | 116700 | [116700-zen-chess-mate-in-two.json](./116700-zen-chess-mate-in-two.json) |
 | Zen Cube | 163988 | [163988-zen-cube.json](./163988-zen-cube.json) |
 | Zen Drift | 315806 | [315806-zen-drift.json](./315806-zen-drift.json) |
+| Zen Dynamics | 145412 | [145412-zen-dynamics.json](./145412-zen-dynamics.json) |
 | Zen Fashion | 92510 | [92510-zen-fashion.json](./92510-zen-fashion.json) |
 | Zen Fish Simulator | 60551 | [60551-zen-fish-simulator.json](./60551-zen-fish-simulator.json) |
 | Zen Forest Brick Breaker VR | 365756 | [365756-zen-forest-brick-breaker-vr.json](./365756-zen-forest-brick-breaker-vr.json) |
@@ -442,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Wars | 200187 | [200187-zen-wars.json](./200187-zen-wars.json) |
 | Zen Wash | 381713 | [381713-zen-wash.json](./381713-zen-wash.json) |
 | Zen with a Pen | 260252 | [260252-zen-with-a-pen.json](./260252-zen-with-a-pen.json) |
+| Zen World | 145403 | [145403-zen-world.json](./145403-zen-world.json) |
 | Zen-Ichi | 82119 | [82119-zen-ichi.json](./82119-zen-ichi.json) |
 | Zen-Nippon GT Senshuken MAX Rev. | 381784 | [381784-zen-nippon-gt-senshuken-max-rev.json](./381784-zen-nippon-gt-senshuken-max-rev.json) |
 | Zen-Nippon Joshi Pro Wrestling: Queen of Queens | 45954 | [45954-zen-nippon-joshi-pro-wrestling-queen-of-queens.json](./45954-zen-nippon-joshi-pro-wrestling-queen-of-queens.json) |
