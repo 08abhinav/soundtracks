@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T19:28:56.316Z",
-  "total_soundtracks": 1596,
+  "generated_at": "2026-10-13T19:30:14.666Z",
+  "total_soundtracks": 1597,
   "games": [
     {
       "igdb_id": 7522,
@@ -4301,6 +4301,20 @@
           "spotify_url": "https://open.spotify.com/album/7BfMeuxfDi6Q4AtPLa6gRZ",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 134606,
+      "game_name": "Demon's Souls",
+      "game_url": "https://ostdb.net/games/demons-souls",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a2/dc/d9/a2dcd968-312d-ebcb-4e4a-5f4808f041b9/092211_J.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Demon's Souls Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7BfMeuxfDi6Q4AtPLa6gRZ",
+          "apple_music_url": "https://music.apple.com/us/album/demons-souls-original-soundtrack/1539556482",
+          "album_link_url": "https://album.link/i/1539556482"
         }
       ]
     },
