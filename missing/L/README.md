@@ -5728,6 +5728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love n Dream: Virtual Happiness | 160252 | [160252-love-n-dream-virtual-happiness.json](./160252-love-n-dream-virtual-happiness.json) |
 | Love N Life: Happy Student | 360633 | [360633-love-n-life-happy-student.json](./360633-love-n-life-happy-student.json) |
 | Love n Life: Lucky Teacher | 253901 | [253901-love-n-life-lucky-teacher.json](./253901-love-n-life-lucky-teacher.json) |
+| Love n War: Hero by Chance II | 152666 | [152666-love-n-war-hero-by-chance-ii.json](./152666-love-n-war-hero-by-chance-ii.json) |
 | Love Never Dies: Ikemen of the Marsh | 268666 | [268666-love-never-dies-ikemen-of-the-marsh.json](./268666-love-never-dies-ikemen-of-the-marsh.json) |
 | Love Nikki: Dress Up Queen | 56001 | [56001-love-nikki-dress-up-queen.json](./56001-love-nikki-dress-up-queen.json) |
 | Love Note | 97992 | [97992-love-note.json](./97992-love-note.json) |
@@ -5868,6 +5869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Goddess | 155019 | [155019-lovely-goddess.json](./155019-lovely-goddess.json) |
 | Lovely Hentai | 126391 | [126391-lovely-hentai.json](./126391-lovely-hentai.json) |
 | Lovely Island | 109620 | [109620-lovely-island.json](./109620-lovely-island.json) |
+| Lovely Kitchen | 153134 | [153134-lovely-kitchen.json](./153134-lovely-kitchen.json) |
 | Lovely Koala | 325612 | [325612-lovely-koala.json](./325612-lovely-koala.json) |
 | Lovely Lady RPG | 316163 | [316163-lovely-lady-rpg.json](./316163-lovely-lady-rpg.json) |
 | Lovely Lisa 3D | 80608 | [80608-lovely-lisa-3d.json](./80608-lovely-lisa-3d.json) |
