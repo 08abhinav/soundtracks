@@ -914,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vending Mayhem | 276737 | [276737-vending-mayhem.json](./276737-vending-mayhem.json) |
 | Vendir: Plague of Lies | 190212 | [190212-vendir-plague-of-lies.json](./190212-vendir-plague-of-lies.json) |
 | Vendrán las aves | 329630 | [329630-vendran-las-aves.json](./329630-vendran-las-aves.json) |
+| Veneficium: A witch's tale | 169903 | [169903-veneficium-a-witchs-tale.json](./169903-veneficium-a-witchs-tale.json) |
 | Venera 31 | 399257 | [399257-venera-31.json](./399257-venera-31.json) |
 | Venetian Blinds | 40748 | [40748-venetian-blinds.json](./40748-venetian-blinds.json) |
 | Venetica: Gold Edition | 53932 | [53932-venetica-gold-edition.json](./53932-venetica-gold-edition.json) |
@@ -2556,6 +2557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Ping Pong | 21602 | [21602-vr-ping-pong.json](./21602-vr-ping-pong.json) |
 | VR Ping Pong Pro | 120470 | [120470-vr-ping-pong-pro.json](./120470-vr-ping-pong-pro.json) |
 | VR PingPong Sweetie | 384518 | [384518-vr-pingpong-sweetie.json](./384518-vr-pingpong-sweetie.json) |
+| VR Pirates of the Caribbean Life Experience | 169727 | [169727-vr-pirates-of-the-caribbean-life-experience.json](./169727-vr-pirates-of-the-caribbean-life-experience.json) |
 | VR Plane Crash | 156676 | [156676-vr-plane-crash.json](./156676-vr-plane-crash.json) |
 | VR Pong | 196035 | [196035-vr-pong.json](./196035-vr-pong.json) |
 | VR Porn Hentai Teachers | 368059 | [368059-vr-porn-hentai-teachers.json](./368059-vr-porn-hentai-teachers.json) |
