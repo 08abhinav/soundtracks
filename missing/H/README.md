@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hahakigami Sweep | 386105 | [386105-hahakigami-sweep.json](./386105-hahakigami-sweep.json) |
 | Hahakigami Sweep | 386106 | [386106-hahakigami-sweep.json](./386106-hahakigami-sweep.json) |
 | Hai Byouin Tansaku | 261547 | [261547-hai-byouin-tansaku.json](./261547-hai-byouin-tansaku.json) |
+| Hai no Majutsushi | 137900 | [137900-hai-no-majutsushi.json](./137900-hai-no-majutsushi.json) |
 | Hai Shuuraku Tansaku | 261546 | [261546-hai-shuuraku-tansaku.json](./261546-hai-shuuraku-tansaku.json) |
 | Hai-Shin 2 | 290992 | [290992-hai-shin-2.json](./290992-hai-shin-2.json) |
 | Hǎidǐ Xúnbǎo | 110136 | [110136-haidi-xunbao.json](./110136-haidi-xunbao.json) |
@@ -5817,6 +5818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hololive Treasure Mountain | 311821 | [311821-hololive-treasure-mountain.json](./311821-hololive-treasure-mountain.json) |
 | Hololive Treasure Mountain MegaPack | 346007 | [346007-hololive-treasure-mountain-megapack.json](./346007-hololive-treasure-mountain-megapack.json) |
 | Hololore: Amethyst | 266868 | [266868-hololore-amethyst.json](./266868-hololore-amethyst.json) |
+| Holomento | 137885 | [137885-holomento.json](./137885-holomento.json) |
 | Holonglide | 106611 | [106611-holonglide.json](./106611-holonglide.json) |
 | Holonomy | 310570 | [310570-holonomy.json](./310570-holonomy.json) |
 | HoloParade | 276842 | [276842-holoparade.json](./276842-holoparade.json) |
@@ -6344,6 +6346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop'n & Bop'n | 290831 | [290831-hopn-and-bopn.json](./290831-hopn-and-bopn.json) |
 | Hop'N'Hoard | 394846 | [394846-hopnhoard.json](./394846-hopnhoard.json) |
 | Hopa: Mini test Quest | 183999 | [183999-hopa-mini-test-quest.json](./183999-hopa-mini-test-quest.json) |
+| HopBound | 137891 | [137891-hopbound.json](./137891-hopbound.json) |
 | HopDodge | 200149 | [200149-hopdodge.json](./200149-hopdodge.json) |
 | Hope | 171980 | [171980-hope.json](./171980-hope.json) |
 | Hope | 312738 | [312738-hope.json](./312738-hope.json) |
