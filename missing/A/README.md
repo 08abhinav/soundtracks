@@ -3574,6 +3574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AKB1/153: Renai Sousenkyo - Ultra Luxury Limited Box | 89867 | [89867-akb1-153-renai-sousenkyo-ultra-luxury-limited-box.json](./89867-akb1-153-renai-sousenkyo-ultra-luxury-limited-box.json) |
 | AKB1/48: Idol to Guam to Koishitara... | 64710 | [64710-akb1-48-idol-to-guam-to-koishitara.json](./64710-akb1-48-idol-to-guam-to-koishitara.json) |
 | AKB1/48: Idol to Koishitara | 66373 | [66373-akb1-48-idol-to-koishitara.json](./66373-akb1-48-idol-to-koishitara.json) |
+| AKB48 World | 170249 | [170249-akb48-world.json](./170249-akb48-world.json) |
 | AKB48's Dobon! | 326139 | [326139-akb48s-dobon.json](./326139-akb48s-dobon.json) |
 | Akcionář II | 391053 | [391053-akcionar-ii.json](./391053-akcionar-ii.json) |
 | Akda | 81676 | [81676-akda.json](./81676-akda.json) |
@@ -5059,6 +5060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaranthine Voyage: Winter Neverending | 58026 | [58026-amaranthine-voyage-winter-neverending.json](./58026-amaranthine-voyage-winter-neverending.json) |
 | Amaranthine Voyage: Winter Neverending - Collector's Edition | 416876 | [416876-amaranthine-voyage-winter-neverending-collectors-edition.json](./416876-amaranthine-voyage-winter-neverending-collectors-edition.json) |
 | AmaranTime | 30172 | [30172-amarantime.json](./30172-amarantime.json) |
+| Amaranto | 170245 | [170245-amaranto.json](./170245-amaranto.json) |
 | Amarantus | 201324 | [201324-amarantus.json](./201324-amarantus.json) |
 | Amare Magia | 401186 | [401186-amare-magia.json](./401186-amare-magia.json) |
 | Amarela | 323423 | [323423-amarela.json](./323423-amarela.json) |
@@ -6942,6 +6944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antigrams | 98521 | [98521-antigrams.json](./98521-antigrams.json) |
 | Antigrav | 43521 | [43521-antigrav.json](./43521-antigrav.json) |
 | Antigrav Racing Championship | 248329 | [248329-antigrav-racing-championship.json](./248329-antigrav-racing-championship.json) |
+| Antigraviator: Viper Trails | 170426 | [170426-antigraviator-viper-trails.json](./170426-antigraviator-viper-trails.json) |
 | Antigravity Racing | 239292 | [239292-antigravity-racing.json](./239292-antigravity-racing.json) |
 | Antihero | 26856 | [26856-antihero.json](./26856-antihero.json) |
 | Antihorror | 32249 | [32249-antihorror.json](./32249-antihorror.json) |
@@ -11413,6 +11416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | aXiebal 2004 | 93174 | [93174-axiebal-2004.json](./93174-axiebal-2004.json) |
 | Axiel | 127827 | [127827-axiel.json](./127827-axiel.json) |
 | Axilon: Legend of artifacts | 118842 | [118842-axilon-legend-of-artifacts.json](./118842-axilon-legend-of-artifacts.json) |
+| Axilon: Legend of Artifacts - Prologue | 170230 | [170230-axilon-legend-of-artifacts-prologue.json](./170230-axilon-legend-of-artifacts-prologue.json) |
 | Axima | 348910 | [348910-axima.json](./348910-axima.json) |
 | Axiom | 234347 | [234347-axiom.json](./234347-axiom.json) |
 | Axiom | 257286 | [257286-axiom.json](./257286-axiom.json) |
