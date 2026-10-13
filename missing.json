@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T09:19:47.334Z",
-  "total_missing": 205568,
+  "generated_at": "2026-10-13T09:33:45.743Z",
+  "total_missing": 205618,
   "games": [
     {
       "igdb_id": 191680,
@@ -914003,6 +914003,11 @@
       "file": "missing/T/160358-tiger-tank-59-i-black-hill-fortress-mp045.json"
     },
     {
+      "igdb_id": 161069,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP056",
+      "file": "missing/T/161069-tiger-tank-59-i-black-hill-fortress-mp056.json"
+    },
+    {
       "igdb_id": 160394,
       "game_name": "Tiger Tank 59 I: Black Hill Fortress MP057",
       "file": "missing/T/160394-tiger-tank-59-i-black-hill-fortress-mp057.json"
@@ -914558,9 +914563,19 @@
       "file": "missing/T/155533-tiger-tank-59-i-mission-pack-025.json"
     },
     {
+      "igdb_id": 161106,
+      "game_name": "Tiger Tank 59 I: Mission Pack 026",
+      "file": "missing/T/161106-tiger-tank-59-i-mission-pack-026.json"
+    },
+    {
       "igdb_id": 160333,
       "game_name": "Tiger Tank 59 I: Mission Pack 027",
       "file": "missing/T/160333-tiger-tank-59-i-mission-pack-027.json"
+    },
+    {
+      "igdb_id": 161114,
+      "game_name": "Tiger Tank 59 I: Mission Pack 028",
+      "file": "missing/T/161114-tiger-tank-59-i-mission-pack-028.json"
     },
     {
       "igdb_id": 160351,
@@ -914573,9 +914588,29 @@
       "file": "missing/T/161143-tiger-tank-59-i-mission-pack-030.json"
     },
     {
+      "igdb_id": 161103,
+      "game_name": "Tiger Tank 59 I: Mission Pack 032",
+      "file": "missing/T/161103-tiger-tank-59-i-mission-pack-032.json"
+    },
+    {
       "igdb_id": 160309,
       "game_name": "Tiger Tank 59 I: Mission Pack 033",
       "file": "missing/T/160309-tiger-tank-59-i-mission-pack-033.json"
+    },
+    {
+      "igdb_id": 161115,
+      "game_name": "Tiger Tank 59 I: Mission Pack 037",
+      "file": "missing/T/161115-tiger-tank-59-i-mission-pack-037.json"
+    },
+    {
+      "igdb_id": 161117,
+      "game_name": "Tiger Tank 59 I: Mission Pack 038",
+      "file": "missing/T/161117-tiger-tank-59-i-mission-pack-038.json"
+    },
+    {
+      "igdb_id": 161111,
+      "game_name": "Tiger Tank 59 I: Mission Pack 042",
+      "file": "missing/T/161111-tiger-tank-59-i-mission-pack-042.json"
     },
     {
       "igdb_id": 161146,
@@ -914583,9 +914618,29 @@
       "file": "missing/T/161146-tiger-tank-59-i-mission-pack-043.json"
     },
     {
+      "igdb_id": 161113,
+      "game_name": "Tiger Tank 59 I: Mission Pack 045",
+      "file": "missing/T/161113-tiger-tank-59-i-mission-pack-045.json"
+    },
+    {
+      "igdb_id": 161110,
+      "game_name": "Tiger Tank 59 I: Mission Pack 047",
+      "file": "missing/T/161110-tiger-tank-59-i-mission-pack-047.json"
+    },
+    {
       "igdb_id": 160311,
       "game_name": "Tiger Tank 59 I: Mission Pack 048",
       "file": "missing/T/160311-tiger-tank-59-i-mission-pack-048.json"
+    },
+    {
+      "igdb_id": 161101,
+      "game_name": "Tiger Tank 59 I: Mission Pack 049",
+      "file": "missing/T/161101-tiger-tank-59-i-mission-pack-049.json"
+    },
+    {
+      "igdb_id": 161105,
+      "game_name": "Tiger Tank 59 I: Mission Pack 050",
+      "file": "missing/T/161105-tiger-tank-59-i-mission-pack-050.json"
     },
     {
       "igdb_id": 161142,
@@ -914596,6 +914651,11 @@
       "igdb_id": 161139,
       "game_name": "Tiger Tank 59 I: Mission Pack 056",
       "file": "missing/T/161139-tiger-tank-59-i-mission-pack-056.json"
+    },
+    {
+      "igdb_id": 161109,
+      "game_name": "Tiger Tank 59 I: Mission Pack 057",
+      "file": "missing/T/161109-tiger-tank-59-i-mission-pack-057.json"
     },
     {
       "igdb_id": 161145,
@@ -914613,14 +914673,29 @@
       "file": "missing/T/160308-tiger-tank-59-i-mission-pack-063.json"
     },
     {
+      "igdb_id": 161108,
+      "game_name": "Tiger Tank 59 I: Mission Pack 065",
+      "file": "missing/T/161108-tiger-tank-59-i-mission-pack-065.json"
+    },
+    {
       "igdb_id": 161144,
       "game_name": "Tiger Tank 59 I: Mission Pack 066",
       "file": "missing/T/161144-tiger-tank-59-i-mission-pack-066.json"
     },
     {
+      "igdb_id": 161116,
+      "game_name": "Tiger Tank 59 I: Mission Pack 068",
+      "file": "missing/T/161116-tiger-tank-59-i-mission-pack-068.json"
+    },
+    {
       "igdb_id": 161140,
       "game_name": "Tiger Tank 59 I: Mission Pack 069",
       "file": "missing/T/161140-tiger-tank-59-i-mission-pack-069.json"
+    },
+    {
+      "igdb_id": 161102,
+      "game_name": "Tiger Tank 59 I: Mission Pack 071",
+      "file": "missing/T/161102-tiger-tank-59-i-mission-pack-071.json"
     },
     {
       "igdb_id": 161138,
@@ -914631,6 +914706,16 @@
       "igdb_id": 161137,
       "game_name": "Tiger Tank 59 I: Mission Pack 074",
       "file": "missing/T/161137-tiger-tank-59-i-mission-pack-074.json"
+    },
+    {
+      "igdb_id": 161097,
+      "game_name": "Tiger Tank 59 I: Mission Pack 076",
+      "file": "missing/T/161097-tiger-tank-59-i-mission-pack-076.json"
+    },
+    {
+      "igdb_id": 161107,
+      "game_name": "Tiger Tank 59 I: Mission Pack 077",
+      "file": "missing/T/161107-tiger-tank-59-i-mission-pack-077.json"
     },
     {
       "igdb_id": 160373,
@@ -914653,6 +914738,11 @@
       "file": "missing/T/160383-tiger-tank-59-i-mission-pack-082.json"
     },
     {
+      "igdb_id": 161118,
+      "game_name": "Tiger Tank 59 I: Mission Pack 084",
+      "file": "missing/T/161118-tiger-tank-59-i-mission-pack-084.json"
+    },
+    {
       "igdb_id": 160327,
       "game_name": "Tiger Tank 59 I: Mission Pack 086",
       "file": "missing/T/160327-tiger-tank-59-i-mission-pack-086.json"
@@ -914663,9 +914753,24 @@
       "file": "missing/T/161141-tiger-tank-59-i-mission-pack-087.json"
     },
     {
+      "igdb_id": 161099,
+      "game_name": "Tiger Tank 59 I: Mission Pack 091",
+      "file": "missing/T/161099-tiger-tank-59-i-mission-pack-091.json"
+    },
+    {
       "igdb_id": 160399,
       "game_name": "Tiger Tank 59 I: Mission Pack 092",
       "file": "missing/T/160399-tiger-tank-59-i-mission-pack-092.json"
+    },
+    {
+      "igdb_id": 161104,
+      "game_name": "Tiger Tank 59 I: Mission Pack 093",
+      "file": "missing/T/161104-tiger-tank-59-i-mission-pack-093.json"
+    },
+    {
+      "igdb_id": 161100,
+      "game_name": "Tiger Tank 59 I: Mission Pack 094",
+      "file": "missing/T/161100-tiger-tank-59-i-mission-pack-094.json"
     },
     {
       "igdb_id": 160400,
@@ -914676,6 +914781,16 @@
       "igdb_id": 160376,
       "game_name": "Tiger Tank 59 I: Mission Pack 098",
       "file": "missing/T/160376-tiger-tank-59-i-mission-pack-098.json"
+    },
+    {
+      "igdb_id": 161098,
+      "game_name": "Tiger Tank 59 I: Mission Pack 099",
+      "file": "missing/T/161098-tiger-tank-59-i-mission-pack-099.json"
+    },
+    {
+      "igdb_id": 161112,
+      "game_name": "Tiger Tank 59 I: Mission Pack 100",
+      "file": "missing/T/161112-tiger-tank-59-i-mission-pack-100.json"
     },
     {
       "igdb_id": 160670,
@@ -915723,9 +915838,79 @@
       "file": "missing/T/189457-tiger-tank-59-i-volcano-mp100.json"
     },
     {
+      "igdb_id": 161086,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP001",
+      "file": "missing/T/161086-tiger-tank-59-i-winter-assault-mp001.json"
+    },
+    {
+      "igdb_id": 161075,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP002",
+      "file": "missing/T/161075-tiger-tank-59-i-winter-assault-mp002.json"
+    },
+    {
+      "igdb_id": 161083,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP003",
+      "file": "missing/T/161083-tiger-tank-59-i-winter-assault-mp003.json"
+    },
+    {
+      "igdb_id": 161091,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP004",
+      "file": "missing/T/161091-tiger-tank-59-i-winter-assault-mp004.json"
+    },
+    {
+      "igdb_id": 161077,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP005",
+      "file": "missing/T/161077-tiger-tank-59-i-winter-assault-mp005.json"
+    },
+    {
       "igdb_id": 160369,
       "game_name": "Tiger Tank 59 I: Winter Assault MP006",
       "file": "missing/T/160369-tiger-tank-59-i-winter-assault-mp006.json"
+    },
+    {
+      "igdb_id": 161081,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP008",
+      "file": "missing/T/161081-tiger-tank-59-i-winter-assault-mp008.json"
+    },
+    {
+      "igdb_id": 161089,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP009",
+      "file": "missing/T/161089-tiger-tank-59-i-winter-assault-mp009.json"
+    },
+    {
+      "igdb_id": 161094,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP010",
+      "file": "missing/T/161094-tiger-tank-59-i-winter-assault-mp010.json"
+    },
+    {
+      "igdb_id": 161084,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP011",
+      "file": "missing/T/161084-tiger-tank-59-i-winter-assault-mp011.json"
+    },
+    {
+      "igdb_id": 161080,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP013",
+      "file": "missing/T/161080-tiger-tank-59-i-winter-assault-mp013.json"
+    },
+    {
+      "igdb_id": 161071,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP014",
+      "file": "missing/T/161071-tiger-tank-59-i-winter-assault-mp014.json"
+    },
+    {
+      "igdb_id": 161087,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP015",
+      "file": "missing/T/161087-tiger-tank-59-i-winter-assault-mp015.json"
+    },
+    {
+      "igdb_id": 161073,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP016",
+      "file": "missing/T/161073-tiger-tank-59-i-winter-assault-mp016.json"
+    },
+    {
+      "igdb_id": 161074,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP018",
+      "file": "missing/T/161074-tiger-tank-59-i-winter-assault-mp018.json"
     },
     {
       "igdb_id": 160355,
@@ -915733,9 +915918,74 @@
       "file": "missing/T/160355-tiger-tank-59-i-winter-assault-mp019.json"
     },
     {
+      "igdb_id": 161085,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP020",
+      "file": "missing/T/161085-tiger-tank-59-i-winter-assault-mp020.json"
+    },
+    {
+      "igdb_id": 161072,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP021",
+      "file": "missing/T/161072-tiger-tank-59-i-winter-assault-mp021.json"
+    },
+    {
+      "igdb_id": 161090,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP022",
+      "file": "missing/T/161090-tiger-tank-59-i-winter-assault-mp022.json"
+    },
+    {
+      "igdb_id": 161079,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP023",
+      "file": "missing/T/161079-tiger-tank-59-i-winter-assault-mp023.json"
+    },
+    {
       "igdb_id": 160359,
       "game_name": "Tiger Tank 59 I: Winter Assault MP024",
       "file": "missing/T/160359-tiger-tank-59-i-winter-assault-mp024.json"
+    },
+    {
+      "igdb_id": 161070,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP025",
+      "file": "missing/T/161070-tiger-tank-59-i-winter-assault-mp025.json"
+    },
+    {
+      "igdb_id": 161078,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP026",
+      "file": "missing/T/161078-tiger-tank-59-i-winter-assault-mp026.json"
+    },
+    {
+      "igdb_id": 161095,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP028",
+      "file": "missing/T/161095-tiger-tank-59-i-winter-assault-mp028.json"
+    },
+    {
+      "igdb_id": 161076,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP029",
+      "file": "missing/T/161076-tiger-tank-59-i-winter-assault-mp029.json"
+    },
+    {
+      "igdb_id": 161082,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP030",
+      "file": "missing/T/161082-tiger-tank-59-i-winter-assault-mp030.json"
+    },
+    {
+      "igdb_id": 161092,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP031",
+      "file": "missing/T/161092-tiger-tank-59-i-winter-assault-mp031.json"
+    },
+    {
+      "igdb_id": 161088,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP032",
+      "file": "missing/T/161088-tiger-tank-59-i-winter-assault-mp032.json"
+    },
+    {
+      "igdb_id": 161093,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP034",
+      "file": "missing/T/161093-tiger-tank-59-i-winter-assault-mp034.json"
+    },
+    {
+      "igdb_id": 161096,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP035",
+      "file": "missing/T/161096-tiger-tank-59-i-winter-assault-mp035.json"
     },
     {
       "igdb_id": 163308,
