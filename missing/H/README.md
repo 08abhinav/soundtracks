@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life ZDoom | 255673 | [255673-half-life-zdoom.json](./255673-half-life-zdoom.json) |
 | Half-Life: 25th Anniversary Update | 277523 | [277523-half-life-25th-anniversary-update.json](./277523-half-life-25th-anniversary-update.json) |
 | Half-Life: Abeyance | 221789 | [221789-half-life-abeyance.json](./221789-half-life-abeyance.json) |
+| Half-Life: Absolute Zero | 168931 | [168931-half-life-absolute-zero.json](./168931-half-life-absolute-zero.json) |
 | Half-Life: Beyond | 329025 | [329025-half-life-beyond.json](./329025-half-life-beyond.json) |
 | Half-Life: Black Guard | 221880 | [221880-half-life-black-guard.json](./221880-half-life-black-guard.json) |
 | Half-Life: Brave Brain | 221882 | [221882-half-life-brave-brain.json](./221882-half-life-brave-brain.json) |
@@ -2620,6 +2621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Let Loose: Battle Scarred | 371226 | [371226-hell-let-loose-battle-scarred.json](./371226-hell-let-loose-battle-scarred.json) |
 | Hell Let Loose: Deluxe Edition | 273004 | [273004-hell-let-loose-deluxe-edition.json](./273004-hell-let-loose-deluxe-edition.json) |
 | Hell Let Loose: Devotion to Duty | 252863 | [252863-hell-let-loose-devotion-to-duty.json](./252863-hell-let-loose-devotion-to-duty.json) |
+| Hell Let Loose: Lethal Tide | 168794 | [168794-hell-let-loose-lethal-tide.json](./168794-hell-let-loose-lethal-tide.json) |
 | Hell Let Loose: Long Range Desert Group | 372250 | [372250-hell-let-loose-long-range-desert-group.json](./372250-hell-let-loose-long-range-desert-group.json) |
 | Hell Let Loose: Luftwaffe Eagles | 272194 | [272194-hell-let-loose-luftwaffe-eagles.json](./272194-hell-let-loose-luftwaffe-eagles.json) |
 | Hell Let Loose: Oak Leaf | 305547 | [305547-hell-let-loose-oak-leaf.json](./305547-hell-let-loose-oak-leaf.json) |
@@ -7717,6 +7719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huntdown | 19728 | [19728-huntdown.json](./19728-huntdown.json) |
 | Huntdown: Collector's Edition | 152327 | [152327-huntdown-collectors-edition.json](./152327-huntdown-collectors-edition.json) |
 | Huntdown: Overtime | 387607 | [387607-huntdown-overtime.json](./387607-huntdown-overtime.json) |
+| Hunted | 168933 | [168933-hunted.json](./168933-hunted.json) |
 | Hunted | 188370 | [188370-hunted.json](./188370-hunted.json) |
 | Hunted | 411137 | [411137-hunted.json](./411137-hunted.json) |
 | Hunted By Monsters: Haunting In The Castle Dungeon | 240875 | [240875-hunted-by-monsters-haunting-in-the-castle-dungeon.json](./240875-hunted-by-monsters-haunting-in-the-castle-dungeon.json) |
