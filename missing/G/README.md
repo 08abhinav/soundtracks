@@ -4116,6 +4116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Fever | 22731 | [22731-gold-fever.json](./22731-gold-fever.json) |
 | Gold For All | 248338 | [248338-gold-for-all.json](./248338-gold-for-all.json) |
 | Gold Girls | 284272 | [284272-gold-girls.json](./284272-gold-girls.json) |
+| Gold Is Mine | 148842 | [148842-gold-is-mine.json](./148842-gold-is-mine.json) |
 | Gold Knight | 277269 | [277269-gold-knight.json](./277269-gold-knight.json) |
 | Gold Magic 800 | 109897 | [109897-gold-magic-800.json](./109897-gold-magic-800.json) |
 | Gold Miner | 173064 | [173064-gold-miner.json](./173064-gold-miner.json) |
