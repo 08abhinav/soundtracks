@@ -5513,6 +5513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melody | 275841 | [275841-melody.json](./275841-melody.json) |
 | Melody | 414285 | [414285-melody.json](./414285-melody.json) |
 | Melody before the Dawn | 367404 | [367404-melody-before-the-dawn.json](./367404-melody-before-the-dawn.json) |
+| Melody Duel | 176185 | [176185-melody-duel.json](./176185-melody-duel.json) |
 | Melody Friends | 389980 | [389980-melody-friends.json](./389980-melody-friends.json) |
 | Melody in the moonlight | 191206 | [191206-melody-in-the-moonlight.json](./191206-melody-in-the-moonlight.json) |
 | Melody Jams | 86847 | [86847-melody-jams.json](./86847-melody-jams.json) |
@@ -12926,6 +12927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Beautiful Faraway, Please Don't Be Cruel to Me | 399059 | [399059-my-beautiful-faraway-please-dont-be-cruel-to-me.json](./399059-my-beautiful-faraway-please-dont-be-cruel-to-me.json) |
 | My Beautiful Misinterpretation of Words | 384229 | [384229-my-beautiful-misinterpretation-of-words.json](./384229-my-beautiful-misinterpretation-of-words.json) |
 | My Beautiful Vacation | 361599 | [361599-my-beautiful-vacation.json](./361599-my-beautiful-vacation.json) |
+| My Beloved Faction | 176205 | [176205-my-beloved-faction.json](./176205-my-beloved-faction.json) |
 | My Best Friend Kouta | 245887 | [245887-my-best-friend-kouta.json](./245887-my-best-friend-kouta.json) |
 | My Best Friends: Cats & Dogs | 17043 | [17043-my-best-friends-cats-and-dogs.json](./17043-my-best-friends-cats-and-dogs.json) |
 | My Best Life My Pest Life | 393118 | [393118-my-best-life-my-pest-life.json](./393118-my-best-life-my-pest-life.json) |
