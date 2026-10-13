@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T19:36:33.550Z",
-  "total_soundtracks": 1603,
+  "generated_at": "2026-10-13T19:36:52.690Z",
+  "total_soundtracks": 1604,
   "games": [
     {
       "igdb_id": 7522,
@@ -16588,6 +16588,20 @@
           "album_name": "Thief (Original Soundtrack - Director's Cut)",
           "spotify_url": "https://open.spotify.com/album/17oWmJUNsl9GLGAGo4eUdx",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 11423,
+      "game_name": "This Is the Police",
+      "game_url": "https://ostdb.net/games/this-is-the-police",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27398c4ac2212f2cd4ee49e7e87",
+      "albums": [
+        {
+          "album_name": "This Is The Police (Original Game Soundtrack) [Deluxe Edition]",
+          "spotify_url": "https://open.spotify.com/album/5l6oS6KkNYnEpyai0huc5L",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
