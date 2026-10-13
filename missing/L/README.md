@@ -4233,6 +4233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Legends: The Blue Chamber Collector's Edition | 216441 | [216441-living-legends-the-blue-chamber-collectors-edition.json](./216441-living-legends-the-blue-chamber-collectors-edition.json) |
 | Living Legends: The Red Trace - Collector's Edition | 340557 | [340557-living-legends-the-red-trace-collectors-edition.json](./340557-living-legends-the-red-trace-collectors-edition.json) |
 | Living Legends: Voice of the Sea | 187963 | [187963-living-legends-voice-of-the-sea.json](./187963-living-legends-voice-of-the-sea.json) |
+| Living Legends: Voice of the Sea - Collector's Edition | 154276 | [154276-living-legends-voice-of-the-sea-collectors-edition.json](./154276-living-legends-voice-of-the-sea-collectors-edition.json) |
 | Living Legends: Wrath of the Beast Collector's Edition | 107860 | [107860-living-legends-wrath-of-the-beast-collectors-edition.json](./107860-living-legends-wrath-of-the-beast-collectors-edition.json) |
 | Living Metal | 295406 | [295406-living-metal.json](./295406-living-metal.json) |
 | Living Nightmares: False Familiar | 344531 | [344531-living-nightmares-false-familiar.json](./344531-living-nightmares-false-familiar.json) |
@@ -4534,6 +4535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logiart Grimoire: Emil's Magic Training, Part 5 | 357390 | [357390-logiart-grimoire-emils-magic-training-part-5.json](./357390-logiart-grimoire-emils-magic-training-part-5.json) |
 | Logic | 264784 | [264784-logic.json](./264784-logic.json) |
 | Logic Bombs | 353412 | [353412-logic-bombs.json](./353412-logic-bombs.json) |
+| Logic Car | 154257 | [154257-logic-car.json](./154257-logic-car.json) |
 | Logic Circuit: Marble Puzzle | 210854 | [210854-logic-circuit-marble-puzzle.json](./210854-logic-circuit-marble-puzzle.json) |
 | Logic Cubes | 381792 | [381792-logic-cubes.json](./381792-logic-cubes.json) |
 | Logic Escape | 258407 | [258407-logic-escape.json](./258407-logic-escape.json) |
@@ -5050,6 +5052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords and Tactics | 247759 | [247759-lords-and-tactics.json](./247759-lords-and-tactics.json) |
 | Lords Mobile | 298167 | [298167-lords-mobile.json](./298167-lords-mobile.json) |
 | Lords of Blood: Vampire RPG | 323156 | [323156-lords-of-blood-vampire-rpg.json](./323156-lords-of-blood-vampire-rpg.json) |
+| Lords of Cards | 154265 | [154265-lords-of-cards.json](./154265-lords-of-cards.json) |
 | Lords of Doom | 69811 | [69811-lords-of-doom.json](./69811-lords-of-doom.json) |
 | Lords of Doom: Part One - The Black God | 170290 | [170290-lords-of-doom-part-one-the-black-god.json](./170290-lords-of-doom-part-one-the-black-god.json) |
 | Lords of EverQuest | 19633 | [19633-lords-of-everquest.json](./19633-lords-of-everquest.json) |
