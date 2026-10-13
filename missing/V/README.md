@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valora Survival | 219521 | [219521-valora-survival.json](./219521-valora-survival.json) |
 | Valora Valley Golf | 45467 | [45467-valora-valley-golf.json](./45467-valora-valley-golf.json) |
 | Valorant : Antivax Addition | 262272 | [262272-valorant-antivax-addition.json](./262272-valorant-antivax-addition.json) |
+| Valorant Mobile | 174596 | [174596-valorant-mobile.json](./174596-valorant-mobile.json) |
 | Valorborn | 369923 | [369923-valorborn.json](./369923-valorborn.json) |
 | Valorbound | 222900 | [222900-valorbound.json](./222900-valorbound.json) |
 | Valorous | 258408 | [258408-valorous.json](./258408-valorous.json) |
@@ -647,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vassoul | 384251 | [384251-vassoul.json](./384251-vassoul.json) |
 | Vast | 116103 | [116103-vast.json](./116103-vast.json) |
 | Vast Haven-1 VR | 350495 | [350495-vast-haven-1-vr.json](./350495-vast-haven-1-vr.json) |
+| Vast Survival | 174774 | [174774-vast-survival.json](./174774-vast-survival.json) |
 | Vasteel | 92701 | [92701-vasteel.json](./92701-vasteel.json) |
 | Vasteel 2 | 54921 | [54921-vasteel-2.json](./54921-vasteel-2.json) |
 | Vaster Claws 3: Dragon Slayer of the God World | 132243 | [132243-vaster-claws-3-dragon-slayer-of-the-god-world.json](./132243-vaster-claws-3-dragon-slayer-of-the-god-world.json) |
@@ -2396,6 +2398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Horizon | 188631 | [188631-voxel-horizon.json](./188631-voxel-horizon.json) |
 | Voxel Hunters | 294055 | [294055-voxel-hunters.json](./294055-voxel-hunters.json) |
 | Voxel Panic | 386379 | [386379-voxel-panic.json](./386379-voxel-panic.json) |
+| Voxel Pirate | 176396 | [176396-voxel-pirate.json](./176396-voxel-pirate.json) |
 | Voxel Pirates | 147474 | [147474-voxel-pirates.json](./147474-voxel-pirates.json) |
 | Voxel Playground | 380575 | [380575-voxel-playground.json](./380575-voxel-playground.json) |
 | Voxel Printer | 164890 | [164890-voxel-printer.json](./164890-voxel-printer.json) |
