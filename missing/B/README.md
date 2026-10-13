@@ -4121,6 +4121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath the Mountain | 173299 | [173299-beneath-the-mountain.json](./173299-beneath-the-mountain.json) |
 | Beneath the Pyramids | 280883 | [280883-beneath-the-pyramids.json](./280883-beneath-the-pyramids.json) |
 | Beneath The Rooftop Sky | 337696 | [337696-beneath-the-rooftop-sky.json](./337696-beneath-the-rooftop-sky.json) |
+| Beneath the shadows | 178377 | [178377-beneath-the-shadows.json](./178377-beneath-the-shadows.json) |
 | Beneath the Surface | 111630 | [111630-beneath-the-surface.json](./111630-beneath-the-surface.json) |
 | Beneath the Surface | 385401 | [385401-beneath-the-surface.json](./385401-beneath-the-surface.json) |
 | Beneath The Surface | 380012 | [380012-beneath-the-surface.json](./380012-beneath-the-surface.json) |
@@ -5157,6 +5158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bio Challenge | 12917 | [12917-bio-challenge.json](./12917-bio-challenge.json) |
 | Bio Crisis: Evil Hazard | 152996 | [152996-bio-crisis-evil-hazard.json](./152996-bio-crisis-evil-hazard.json) |
 | Bio Evil | 217941 | [217941-bio-evil.json](./217941-bio-evil.json) |
+| Bio Evil 4 | 178358 | [178358-bio-evil-4.json](./178358-bio-evil-4.json) |
 | Bio Fail | 410910 | [410910-bio-fail.json](./410910-bio-fail.json) |
 | Bio Fault | 397052 | [397052-bio-fault.json](./397052-bio-fault.json) |
 | Bio Force Ape | 19378 | [19378-bio-force-ape.json](./19378-bio-force-ape.json) |
@@ -10399,6 +10401,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS Ihatovo Monogatari: Dai-3-ya | 179950 | [179950-bs-ihatovo-monogatari-dai-3-ya.json](./179950-bs-ihatovo-monogatari-dai-3-ya.json) |
 | BS Ihatovo Monogatari: Dai-4-ya | 179951 | [179951-bs-ihatovo-monogatari-dai-4-ya.json](./179951-bs-ihatovo-monogatari-dai-4-ya.json) |
 | BS Marvelous: Camp Arnold | 134431 | [134431-bs-marvelous-camp-arnold.json](./134431-bs-marvelous-camp-arnold.json) |
+| BS Marvelous: Camp Arnold - Course 1 | 178383 | [178383-bs-marvelous-camp-arnold-course-1.json](./178383-bs-marvelous-camp-arnold-course-1.json) |
+| BS Marvelous: Camp Arnold - Course 2 | 178384 | [178384-bs-marvelous-camp-arnold-course-2.json](./178384-bs-marvelous-camp-arnold-course-2.json) |
 | BS Marvelous: Camp Arnold - Course 3 | 178385 | [178385-bs-marvelous-camp-arnold-course-3.json](./178385-bs-marvelous-camp-arnold-course-3.json) |
 | BS Marvelous: Camp Arnold - Course 4 | 178386 | [178386-bs-marvelous-camp-arnold-course-4.json](./178386-bs-marvelous-camp-arnold-course-4.json) |
 | BS Marvelous: Time Athletic | 134432 | [134432-bs-marvelous-time-athletic.json](./134432-bs-marvelous-time-athletic.json) |
@@ -10706,6 +10710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buenos Aires Mirror Line | 391162 | [391162-buenos-aires-mirror-line.json](./391162-buenos-aires-mirror-line.json) |
 | Buff Doge | 219066 | [219066-buff-doge.json](./219066-buff-doge.json) |
 | Buff Huckem Fully Wrecked | 270187 | [270187-buff-huckem-fully-wrecked.json](./270187-buff-huckem-fully-wrecked.json) |
+| Buff Imposter | 178367 | [178367-buff-imposter.json](./178367-buff-imposter.json) |
 | Buff Knight Advanced | 34864 | [34864-buff-knight-advanced.json](./34864-buff-knight-advanced.json) |
 | Buffalo Bill's Wild West Show | 12284 | [12284-buffalo-bills-wild-west-show.json](./12284-buffalo-bills-wild-west-show.json) |
 | Buffet Boss | 231975 | [231975-buffet-boss.json](./231975-buffet-boss.json) |
