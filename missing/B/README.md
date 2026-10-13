@@ -5995,6 +5995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlackBox | 130951 | [130951-blackbox.json](./130951-blackbox.json) |
 | Blackbox by TRT World | 90832 | [90832-blackbox-by-trt-world.json](./90832-blackbox-by-trt-world.json) |
 | Blackbox: Infamous Puzzles | 101543 | [101543-blackbox-infamous-puzzles.json](./101543-blackbox-infamous-puzzles.json) |
+| BlackChain | 155874 | [155874-blackchain.json](./155874-blackchain.json) |
 | Blackened | 270699 | [270699-blackened.json](./270699-blackened.json) |
 | BlackFaith | 100572 | [100572-blackfaith.json](./100572-blackfaith.json) |
 | Blackfall | 258551 | [258551-blackfall.json](./258551-blackfall.json) |
@@ -7119,6 +7120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Kiss | 146247 | [146247-blood-kiss.json](./146247-blood-kiss.json) |
 | Blood Knights | 8421 | [8421-blood-knights.json](./8421-blood-knights.json) |
 | Blood Knot | 150578 | [150578-blood-knot.json](./150578-blood-knot.json) |
+| Blood Labs | 155862 | [155862-blood-labs.json](./155862-blood-labs.json) |
 | Blood Lily: Killers Can't Sink a Yuri Ship | 360199 | [360199-blood-lily-killers-cant-sink-a-yuri-ship.json](./360199-blood-lily-killers-cant-sink-a-yuri-ship.json) |
 | Blood Lines: Magicians' Chase 2 | 300775 | [300775-blood-lines-magicians-chase-2.json](./300775-blood-lines-magicians-chase-2.json) |
 | Blood Magic | 121569 | [121569-blood-magic.json](./121569-blood-magic.json) |
@@ -8812,6 +8814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottop | 329196 | [329196-bottop.json](./329196-bottop.json) |
 | Bou Ningen Challenge! | 222520 | [222520-bou-ningen-challenge.json](./222520-bou-ningen-challenge.json) |
 | Bou's Revenge | 308351 | [308351-bous-revenge.json](./308351-bous-revenge.json) |
+| Bouboum | 155866 | [155866-bouboum.json](./155866-bouboum.json) |
 | Bouhou Koumakyou 2 | 204075 | [204075-bouhou-koumakyou-2.json](./204075-bouhou-koumakyou-2.json) |
 | Bouhou Koumakyou: Scarlet Family | 204382 | [204382-bouhou-koumakyou-scarlet-family.json](./204382-bouhou-koumakyou-scarlet-family.json) |
 | Bouhou Youyoumu | 204076 | [204076-bouhou-youyoumu.json](./204076-bouhou-youyoumu.json) |
