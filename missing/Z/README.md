@@ -866,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie | 26894 | [26894-zombie.json](./26894-zombie.json) |
 | Zombie 2018 | 87634 | [87634-zombie-2018.json](./87634-zombie-2018.json) |
 | Zombie Accountant | 66159 | [66159-zombie-accountant.json](./66159-zombie-accountant.json) |
+| Zombie Admin | 175656 | [175656-zombie-admin.json](./175656-zombie-admin.json) |
 | Zombie Age | 220739 | [220739-zombie-age.json](./220739-zombie-age.json) |
 | Zombie Age 2 | 347872 | [347872-zombie-age-2.json](./347872-zombie-age-2.json) |
 | Zombie Age 3: Dead City | 312905 | [312905-zombie-age-3-dead-city.json](./312905-zombie-age-3-dead-city.json) |
