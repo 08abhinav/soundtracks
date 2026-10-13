@@ -575,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Sword | 267367 | [267367-dancing-sword.json](./267367-dancing-sword.json) |
 | Dancing Sword: Senkou | 49252 | [49252-dancing-sword-senkou.json](./49252-dancing-sword-senkou.json) |
 | Dancing Wings: The Aerobatic Simulator | 347249 | [347249-dancing-wings-the-aerobatic-simulator.json](./347249-dancing-wings-the-aerobatic-simulator.json) |
+| Dancing with a Beautiful Robot | 177965 | [177965-dancing-with-a-beautiful-robot.json](./177965-dancing-with-a-beautiful-robot.json) |
 | Dancing with Ghosts | 360059 | [360059-dancing-with-ghosts.json](./360059-dancing-with-ghosts.json) |
 | Dancingcats | 22371 | [22371-dancingcats.json](./22371-dancingcats.json) |
 | DancingReaper | 140580 | [140580-dancingreaper.json](./140580-dancingreaper.json) |
@@ -1675,6 +1676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dave Gnukem | 357381 | [357381-dave-gnukem.json](./357381-dave-gnukem.json) |
 | Dave Goes Nutz! | 11389 | [11389-dave-goes-nutz.json](./11389-dave-goes-nutz.json) |
 | Dave in Danger | 94884 | [94884-dave-in-danger.json](./94884-dave-in-danger.json) |
+| Dave Microwaves Games Trilogy I | 177974 | [177974-dave-microwaves-games-trilogy-i.json](./177974-dave-microwaves-games-trilogy-i.json) |
 | Dave Mirra Freestyle BMX 2 | 3871 | [3871-dave-mirra-freestyle-bmx-2.json](./3871-dave-mirra-freestyle-bmx-2.json) |
 | Dave Mirra Freestyle BMX: Maximum Remix | 84166 | [84166-dave-mirra-freestyle-bmx-maximum-remix.json](./84166-dave-mirra-freestyle-bmx-maximum-remix.json) |
 | Dave the Bird | 244367 | [244367-dave-the-bird.json](./244367-dave-the-bird.json) |
@@ -3810,6 +3812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery Simulator | 391247 | [391247-delivery-simulator.json](./391247-delivery-simulator.json) |
 | Delivery Survivors | 412913 | [412913-delivery-survivors.json](./412913-delivery-survivors.json) |
 | Delivery Up | 361168 | [361168-delivery-up.json](./361168-delivery-up.json) |
+| DeliveryGuy | 177793 | [177793-deliveryguy.json](./177793-deliveryguy.json) |
 | Delivoo Delivery Sim | 236330 | [236330-delivoo-delivery-sim.json](./236330-delivoo-delivery-sim.json) |
 | Delores: A Thimbleweed Park Mini-Adventure | 134408 | [134408-delores-a-thimbleweed-park-mini-adventure.json](./134408-delores-a-thimbleweed-park-mini-adventure.json) |
 | Delos: Space Traffic Control | 339299 | [339299-delos-space-traffic-control.json](./339299-delos-space-traffic-control.json) |
@@ -4248,6 +4251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Denshattack: Seasonal Skins Pack | 410847 | [410847-denshattack-seasonal-skins-pack.json](./410847-denshattack-seasonal-skins-pack.json) |
 | Denshi Life 2 | 331876 | [331876-denshi-life-2.json](./331876-denshi-life-2.json) |
 | Denshi Maid Techou: Koi no Iroha | 59403 | [59403-denshi-maid-techou-koi-no-iroha.json](./59403-denshi-maid-techou-koi-no-iroha.json) |
+| Density Experiment | 177791 | [177791-density-experiment.json](./177791-density-experiment.json) |
 | Density Limit | 243284 | [243284-density-limit.json](./243284-density-limit.json) |
 | Densou Tenshi Valforce | 383622 | [383622-densou-tenshi-valforce.json](./383622-densou-tenshi-valforce.json) |
 | Dental Madness: Cavity Mania | 166758 | [166758-dental-madness-cavity-mania.json](./166758-dental-madness-cavity-mania.json) |
@@ -5044,6 +5048,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Edge | 169450 | [169450-devil-edge.json](./169450-devil-edge.json) |
 | Devil Engine: Complete Edition | 268093 | [268093-devil-engine-complete-edition.json](./268093-devil-engine-complete-edition.json) |
 | Devil Engine: Ignition | 150601 | [150601-devil-engine-ignition.json](./150601-devil-engine-ignition.json) |
+| Devil Express | 177964 | [177964-devil-express.json](./177964-devil-express.json) |
+| Devil Express: Soulstice | 177967 | [177967-devil-express-soulstice.json](./177967-devil-express-soulstice.json) |
 | Devil Fish | 39633 | [39633-devil-fish.json](./39633-devil-fish.json) |
 | Devil Force | 237432 | [237432-devil-force.json](./237432-devil-force.json) |
 | Devil Gate | 403692 | [403692-devil-gate.json](./403692-devil-gate.json) |
@@ -6498,6 +6504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dismantlement: Radio | 25030 | [25030-dismantlement-radio.json](./25030-dismantlement-radio.json) |
 | Dismaya | 180694 | [180694-dismaya.json](./180694-dismaya.json) |
 | Dismayed | 378134 | [378134-dismayed.json](./378134-dismayed.json) |
+| Dismember Mind 1 | 177805 | [177805-dismember-mind-1.json](./177805-dismember-mind-1.json) |
 | Dismember Mind 2 | 177300 | [177300-dismember-mind-2.json](./177300-dismember-mind-2.json) |
 | DisMonster - Catch the shadow! | 103673 | [103673-dismonster-catch-the-shadow.json](./103673-dismonster-catch-the-shadow.json) |
 | Disney | 220082 | [220082-disney.json](./220082-disney.json) |
@@ -10228,6 +10235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamcore95 Idle | 322138 | [322138-dreamcore95-idle.json](./322138-dreamcore95-idle.json) |
 | Dreamcutter: Steelbook Limited Edition | 300476 | [300476-dreamcutter-steelbook-limited-edition.json](./300476-dreamcutter-steelbook-limited-edition.json) |
 | DreamDayKi | 202355 | [202355-dreamdayki.json](./202355-dreamdayki.json) |
+| Dreamdisc | 177796 | [177796-dreamdisc.json](./177796-dreamdisc.json) |
 | Dreamed | 217342 | [217342-dreamed.json](./217342-dreamed.json) |
 | Dreamed Away | 220745 | [220745-dreamed-away.json](./220745-dreamed-away.json) |
 | Dreamer | 101641 | [101641-dreamer.json](./101641-dreamer.json) |
