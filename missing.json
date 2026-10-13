@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T13:20:16.435Z",
-  "total_missing": 206295,
+  "generated_at": "2026-10-13T13:35:14.479Z",
+  "total_missing": 206345,
   "games": [
     {
       "igdb_id": 191680,
@@ -396,6 +396,11 @@
       "igdb_id": 365226,
       "game_name": "[K]night City",
       "file": "missing/0-9/365226-k-night-city.json"
+    },
+    {
+      "igdb_id": 153742,
+      "game_name": "[OPT-OUT]: Uncanny",
+      "file": "missing/0-9/153742-opt-out-uncanny.json"
     },
     {
       "igdb_id": 333760,
@@ -27001,6 +27006,11 @@
       "igdb_id": 197773,
       "game_name": "Air Hockey Blue",
       "file": "missing/A/197773-air-hockey-blue.json"
+    },
+    {
+      "igdb_id": 153699,
+      "game_name": "Air Hockey Gamepack",
+      "file": "missing/A/153699-air-hockey-gamepack.json"
     },
     {
       "igdb_id": 243737,
@@ -122048,6 +122058,11 @@
       "file": "missing/B/24081-bubblbrst.json"
     },
     {
+      "igdb_id": 153746,
+      "game_name": "Bubble",
+      "file": "missing/B/153746-bubble.json"
+    },
+    {
       "igdb_id": 287650,
       "game_name": "Bubble",
       "file": "missing/B/287650-bubble.json"
@@ -162961,6 +162976,11 @@
       "igdb_id": 114927,
       "game_name": "Clown Thug Cop Zombies",
       "file": "missing/C/114927-clown-thug-cop-zombies.json"
+    },
+    {
+      "igdb_id": 153733,
+      "game_name": "Clown Works Kyojitsu Gairon 0 Shou Soshite 1 Shou",
+      "file": "missing/C/153733-clown-works-kyojitsu-gairon-0-shou-soshite-1-shou.json"
     },
     {
       "igdb_id": 90219,
@@ -221583,6 +221603,11 @@
       "file": "missing/D/403692-devil-gate.json"
     },
     {
+      "igdb_id": 153728,
+      "game_name": "Devil Girl",
+      "file": "missing/D/153728-devil-girl.json"
+    },
+    {
       "igdb_id": 111183,
       "game_name": "Devil Girl Needs Massages",
       "file": "missing/D/111183-devil-girl-needs-massages.json"
@@ -269903,6 +269928,11 @@
       "file": "missing/E/109367-enderal-forgotten-stories.json"
     },
     {
+      "igdb_id": 153743,
+      "game_name": "Enderal: Forgotten Stories - Special Edition",
+      "file": "missing/E/153743-enderal-forgotten-stories-special-edition.json"
+    },
+    {
       "igdb_id": 249452,
       "game_name": "Enderal: The Shards of Order",
       "file": "missing/E/249452-enderal-the-shards-of-order.json"
@@ -281431,6 +281461,11 @@
       "igdb_id": 240133,
       "game_name": "EvilUp",
       "file": "missing/E/240133-evilup.json"
+    },
+    {
+      "igdb_id": 153752,
+      "game_name": "EvilvEvil",
+      "file": "missing/E/153752-evilvevil.json"
     },
     {
       "igdb_id": 161378,
@@ -319743,6 +319778,121 @@
       "file": "missing/F/140367-forza-horizon-3-porsche-car-pack.json"
     },
     {
+      "igdb_id": 153726,
+      "game_name": "Forza Horizon 4: 1959 Cadillac Eldorado Biarritz Convertible",
+      "file": "missing/F/153726-forza-horizon-4-1959-cadillac-eldorado-biarritz-convertible.json"
+    },
+    {
+      "igdb_id": 153715,
+      "game_name": "Forza Horizon 4: 1959 Porsche 356A Coupe",
+      "file": "missing/F/153715-forza-horizon-4-1959-porsche-356a-coupe.json"
+    },
+    {
+      "igdb_id": 153722,
+      "game_name": "Forza Horizon 4: 1962 Triumph TR3B",
+      "file": "missing/F/153722-forza-horizon-4-1962-triumph-tr3b.json"
+    },
+    {
+      "igdb_id": 153718,
+      "game_name": "Forza Horizon 4: 1963 Opel Kadett A",
+      "file": "missing/F/153718-forza-horizon-4-1963-opel-kadett-a.json"
+    },
+    {
+      "igdb_id": 153703,
+      "game_name": "Forza Horizon 4: 1966 Volkswagen Double Cab Pick-Up",
+      "file": "missing/F/153703-forza-horizon-4-1966-volkswagen-double-cab-pick-up.json"
+    },
+    {
+      "igdb_id": 153706,
+      "game_name": "Forza Horizon 4: 1967 Sunbeam Tiger",
+      "file": "missing/F/153706-forza-horizon-4-1967-sunbeam-tiger.json"
+    },
+    {
+      "igdb_id": 153705,
+      "game_name": "Forza Horizon 4: 1968 Ford Mustang GT 2+2 Fastback",
+      "file": "missing/F/153705-forza-horizon-4-1968-ford-mustang-gt-2-2-fastback.json"
+    },
+    {
+      "igdb_id": 153723,
+      "game_name": "Forza Horizon 4: 1970 Triumph TR6 PI",
+      "file": "missing/F/153723-forza-horizon-4-1970-triumph-tr6-pi.json"
+    },
+    {
+      "igdb_id": 153727,
+      "game_name": "Forza Horizon 4: 1974 Honda CivicRS",
+      "file": "missing/F/153727-forza-horizon-4-1974-honda-civicrs.json"
+    },
+    {
+      "igdb_id": 153708,
+      "game_name": "Forza Horizon 4: 1977 Hoonigan Ford Gymkhana 10 F-150",
+      "file": "missing/F/153708-forza-horizon-4-1977-hoonigan-ford-gymkhana-10-f-150.json"
+    },
+    {
+      "igdb_id": 153707,
+      "game_name": "Forza Horizon 4: 1979 Talbot Sunbeam Lotus",
+      "file": "missing/F/153707-forza-horizon-4-1979-talbot-sunbeam-lotus.json"
+    },
+    {
+      "igdb_id": 153710,
+      "game_name": "Forza Horizon 4: 1993 Hoonigan Ford Escort Cosworth Group A",
+      "file": "missing/F/153710-forza-horizon-4-1993-hoonigan-ford-escort-cosworth-group-a.json"
+    },
+    {
+      "igdb_id": 153711,
+      "game_name": "Forza Horizon 4: 1993 Porsche 968 Turbo S",
+      "file": "missing/F/153711-forza-horizon-4-1993-porsche-968-turbo-s.json"
+    },
+    {
+      "igdb_id": 153721,
+      "game_name": "Forza Horizon 4: 2002 Mazda RX-7 Spirit R Type-A",
+      "file": "missing/F/153721-forza-horizon-4-2002-mazda-rx-7-spirit-r-type-a.json"
+    },
+    {
+      "igdb_id": 153704,
+      "game_name": "Forza Horizon 4: 2004 Vauxhall VX220",
+      "file": "missing/F/153704-forza-horizon-4-2004-vauxhall-vx220.json"
+    },
+    {
+      "igdb_id": 153701,
+      "game_name": "Forza Horizon 4: 2005 Honda NSX-R GT",
+      "file": "missing/F/153701-forza-horizon-4-2005-honda-nsx-r-gt.json"
+    },
+    {
+      "igdb_id": 153712,
+      "game_name": "Forza Horizon 4: 2018 Aston Martin Vantage",
+      "file": "missing/F/153712-forza-horizon-4-2018-aston-martin-vantage.json"
+    },
+    {
+      "igdb_id": 153702,
+      "game_name": "Forza Horizon 4: 2018 Chevrolet Camaro ZL1 1LE",
+      "file": "missing/F/153702-forza-horizon-4-2018-chevrolet-camaro-zl1-1le.json"
+    },
+    {
+      "igdb_id": 153709,
+      "game_name": "Forza Horizon 4: 2018 Morgan Aero GT",
+      "file": "missing/F/153709-forza-horizon-4-2018-morgan-aero-gt.json"
+    },
+    {
+      "igdb_id": 153724,
+      "game_name": "Forza Horizon 4: 2018 Nissan SentraNismo",
+      "file": "missing/F/153724-forza-horizon-4-2018-nissan-sentranismo.json"
+    },
+    {
+      "igdb_id": 153725,
+      "game_name": "Forza Horizon 4: 2019 BMW i8 Roadster",
+      "file": "missing/F/153725-forza-horizon-4-2019-bmw-i8-roadster.json"
+    },
+    {
+      "igdb_id": 153714,
+      "game_name": "Forza Horizon 4: 2019 Chevrolet Corvette ZR1",
+      "file": "missing/F/153714-forza-horizon-4-2019-chevrolet-corvette-zr1.json"
+    },
+    {
+      "igdb_id": 153719,
+      "game_name": "Forza Horizon 4: 2019 Porsche 911 Carrera S",
+      "file": "missing/F/153719-forza-horizon-4-2019-porsche-911-carrera-s.json"
+    },
+    {
       "igdb_id": 140292,
       "game_name": "Forza Horizon 4: Best of Bond Car Pack",
       "file": "missing/F/140292-forza-horizon-4-best-of-bond-car-pack.json"
@@ -319758,6 +319908,11 @@
       "file": "missing/F/136391-forza-horizon-4-expansions-bundle.json"
     },
     {
+      "igdb_id": 153717,
+      "game_name": "Forza Horizon 4: Icons Car Pack",
+      "file": "missing/F/153717-forza-horizon-4-icons-car-pack.json"
+    },
+    {
       "igdb_id": 121517,
       "game_name": "Forza Horizon 4: LEGO Speed Champions",
       "file": "missing/F/121517-forza-horizon-4-lego-speed-champions.json"
@@ -319766,6 +319921,11 @@
       "igdb_id": 140365,
       "game_name": "Forza Horizon 4: Mitsubishi Motors Car Pack",
       "file": "missing/F/140365-forza-horizon-4-mitsubishi-motors-car-pack.json"
+    },
+    {
+      "igdb_id": 153720,
+      "game_name": "Forza Horizon 4: VIP",
+      "file": "missing/F/153720-forza-horizon-4-vip.json"
     },
     {
       "igdb_id": 365712,
@@ -426713,6 +426873,11 @@
       "file": "missing/I/405690-interred.json"
     },
     {
+      "igdb_id": 153753,
+      "game_name": "Interregnum Chronicles: Signal",
+      "file": "missing/I/153753-interregnum-chronicles-signal.json"
+    },
+    {
       "igdb_id": 184592,
       "game_name": "Interrogation 091",
       "file": "missing/I/184592-interrogation-091.json"
@@ -448166,6 +448331,11 @@
       "igdb_id": 118806,
       "game_name": "Kakwitene VR",
       "file": "missing/K/118806-kakwitene-vr.json"
+    },
+    {
+      "igdb_id": 153696,
+      "game_name": "Kakyuusei",
+      "file": "missing/K/153696-kakyuusei.json"
     },
     {
       "igdb_id": 330548,
@@ -484431,6 +484601,16 @@
       "igdb_id": 138142,
       "game_name": "Lime Ergot",
       "file": "missing/L/138142-lime-ergot.json"
+    },
+    {
+      "igdb_id": 153731,
+      "game_name": "Lime Iro Ryuukitan X ~Koi, Oshiete Kudasai.~",
+      "file": "missing/L/153731-lime-iro-ryuukitan-x-koi-oshiete-kudasai.json"
+    },
+    {
+      "igdb_id": 153735,
+      "game_name": "Lime Iro Senkitan ~Meiji Nippon, Otome Sakimorisu.~",
+      "file": "missing/L/153735-lime-iro-senkitan-meiji-nippon-otome-sakimorisu.json"
     },
     {
       "igdb_id": 323719,
@@ -527928,6 +528108,11 @@
       "file": "missing/M/136827-meiji-katsugeki-haikara-ryuuseigumi-seibai-shimaseu-yonaoshi-kagyou.json"
     },
     {
+      "igdb_id": 153736,
+      "game_name": "Meiji Seifu no Yuuga na Hitotoki",
+      "file": "missing/M/153736-meiji-seifu-no-yuuga-na-hitotoki.json"
+    },
+    {
       "igdb_id": 136445,
       "game_name": "Meiji Tokyo Renka",
       "file": "missing/M/136445-meiji-tokyo-renka.json"
@@ -527941,6 +528126,11 @@
       "igdb_id": 136446,
       "game_name": "Meiji Tokyo Renka Twilight Kiss",
       "file": "missing/M/136446-meiji-tokyo-renka-twilight-kiss.json"
+    },
+    {
+      "igdb_id": 153732,
+      "game_name": "Meiji Tokyo Renka: Haikara Date",
+      "file": "missing/M/153732-meiji-tokyo-renka-haikara-date.json"
     },
     {
       "igdb_id": 385794,
@@ -562251,6 +562441,11 @@
       "igdb_id": 261203,
       "game_name": "Mueitou: Shinsou-hen",
       "file": "missing/M/261203-mueitou-shinsou-hen.json"
+    },
+    {
+      "igdb_id": 153747,
+      "game_name": "Muffin Fight",
+      "file": "missing/M/153747-muffin-fight.json"
     },
     {
       "igdb_id": 9268,
@@ -624508,6 +624703,11 @@
       "file": "missing/P/105134-parallel-arena.json"
     },
     {
+      "igdb_id": 153737,
+      "game_name": "Parallel Harmony ~Getsuyou no Tobira wa Suiyou no Mukou ni~",
+      "file": "missing/P/153737-parallel-harmony-getsuyou-no-tobira-wa-suiyou-no-mukou-ni.json"
+    },
+    {
       "igdb_id": 70600,
       "game_name": "Parallel Kingdom",
       "file": "missing/P/70600-parallel-kingdom.json"
@@ -679038,6 +679238,11 @@
       "file": "missing/Q/137962-q-a-neon-platformer.json"
     },
     {
+      "igdb_id": 153738,
+      "game_name": "Q: Cue",
+      "file": "missing/Q/153738-q-cue.json"
+    },
+    {
       "igdb_id": 19961,
       "game_name": "Q.U.B.E: Director's Cut",
       "file": "missing/Q/19961-q-u-b-e-directors-cut.json"
@@ -717676,6 +717881,11 @@
       "igdb_id": 403581,
       "game_name": "Roman Trahtenberg: V poiskah ideal'nogo anekdota",
       "file": "missing/R/403581-roman-trahtenberg-v-poiskah-idealnogo-anekdota.json"
+    },
+    {
+      "igdb_id": 153739,
+      "game_name": "Romance",
+      "file": "missing/R/153739-romance.json"
     },
     {
       "igdb_id": 86918,
@@ -787493,6 +787703,11 @@
       "file": "missing/S/11003-south-park-the-fractured-but-whole-collectors-edition.json"
     },
     {
+      "igdb_id": 153697,
+      "game_name": "South Park: The Fractured But Whole - Danger Deck",
+      "file": "missing/S/153697-south-park-the-fractured-but-whole-danger-deck.json"
+    },
+    {
       "igdb_id": 96134,
       "game_name": "South Park: The Fractured But Whole - From Dusk Till Casa Bonita",
       "file": "missing/S/96134-south-park-the-fractured-but-whole-from-dusk-till-casa-bonita.json"
@@ -787506,6 +787721,11 @@
       "igdb_id": 7394,
       "game_name": "South Park: The Fractured but Whole - Remote Control Coon Mobile Bundle",
       "file": "missing/S/7394-south-park-the-fractured-but-whole-remote-control-coon-mobile-bundle.json"
+    },
+    {
+      "igdb_id": 153698,
+      "game_name": "South Park: The Fractured But Whole - Towelie: Your Gaming Bud",
+      "file": "missing/S/153698-south-park-the-fractured-but-whole-towelie-your-gaming-bud.json"
     },
     {
       "igdb_id": 74744,
@@ -946403,6 +946623,11 @@
       "file": "missing/T/91978-trilogic.json"
     },
     {
+      "igdb_id": 153741,
+      "game_name": "Trilogy Kuki Youka Shinden",
+      "file": "missing/T/153741-trilogy-kuki-youka-shinden.json"
+    },
+    {
       "igdb_id": 339795,
       "game_name": "Trilogy of the Moon",
       "file": "missing/T/339795-trilogy-of-the-moon.json"
@@ -952916,6 +953141,11 @@
       "igdb_id": 244689,
       "game_name": "Twin Stick Tennis",
       "file": "missing/T/244689-twin-stick-tennis.json"
+    },
+    {
+      "igdb_id": 153729,
+      "game_name": "Twin Stones: The Journey of Bukka",
+      "file": "missing/T/153729-twin-stones-the-journey-of-bukka.json"
     },
     {
       "igdb_id": 363889,
@@ -965246,6 +965476,11 @@
       "igdb_id": 303705,
       "game_name": "Up! The Floor Is Lava",
       "file": "missing/U/303705-up-the-floor-is-lava.json"
+    },
+    {
+      "igdb_id": 153754,
+      "game_name": "Upaon: A Snake's Journey",
+      "file": "missing/U/153754-upaon-a-snakes-journey.json"
     },
     {
       "igdb_id": 379706,
@@ -983526,6 +983761,11 @@
       "igdb_id": 75090,
       "game_name": "Wanted",
       "file": "missing/W/75090-wanted.json"
+    },
+    {
+      "igdb_id": 153744,
+      "game_name": "Wanted 18",
+      "file": "missing/W/153744-wanted-18.json"
     },
     {
       "igdb_id": 335858,
@@ -1005633,6 +1005873,11 @@
       "file": "missing/W/106955-word-land-crosswords.json"
     },
     {
+      "igdb_id": 153749,
+      "game_name": "Word Lanes",
+      "file": "missing/W/153749-word-lanes.json"
+    },
+    {
       "igdb_id": 97131,
       "game_name": "Word Link",
       "file": "missing/W/97131-word-link.json"
@@ -1017771,6 +1018016,11 @@
       "igdb_id": 304141,
       "game_name": "Yep It's More Skiing",
       "file": "missing/Y/304141-yep-its-more-skiing.json"
+    },
+    {
+      "igdb_id": 153755,
+      "game_name": "Yerba Mate Tycoon",
+      "file": "missing/Y/153755-yerba-mate-tycoon.json"
     },
     {
       "igdb_id": 214551,
