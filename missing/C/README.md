@@ -4689,6 +4689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimeras: Tune of Revenge - Collector's Edition | 30263 | [30263-chimeras-tune-of-revenge-collectors-edition.json](./30263-chimeras-tune-of-revenge-collectors-edition.json) |
 | Chimeras: Wailing Waters | 187915 | [187915-chimeras-wailing-waters.json](./187915-chimeras-wailing-waters.json) |
 | Chimeras: What Wishes May Come | 187906 | [187906-chimeras-what-wishes-may-come.json](./187906-chimeras-what-wishes-may-come.json) |
+| Chimeras: What Wishes May Come - Collector's Edition | 166813 | [166813-chimeras-what-wishes-may-come-collectors-edition.json](./166813-chimeras-what-wishes-may-come-collectors-edition.json) |
 | Chimes: A Kinetic Novel | 184102 | [184102-chimes-a-kinetic-novel.json](./184102-chimes-a-kinetic-novel.json) |
 | Chimney Presents | 134406 | [134406-chimney-presents.json](./134406-chimney-presents.json) |
 | Chimp Memory | 319391 | [319391-chimp-memory.json](./319391-chimp-memory.json) |
@@ -8907,6 +8908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contender | 44853 | [44853-contender.json](./44853-contender.json) |
 | Contenders: Arena | 255684 | [255684-contenders-arena.json](./255684-contenders-arena.json) |
 | Contenir | 419101 | [419101-contenir.json](./419101-contenir.json) |
+| Content | 166817 | [166817-content.json](./166817-content.json) |
 | Content Caution: The Horror Filmmaker | 335090 | [335090-content-caution-the-horror-filmmaker.json](./335090-content-caution-the-horror-filmmaker.json) |
 | Content Creator Simulator | 89367 | [89367-content-creator-simulator.json](./89367-content-creator-simulator.json) |
 | Content Creator's Internet Adventure | 141499 | [141499-content-creators-internet-adventure.json](./141499-content-creators-internet-adventure.json) |
@@ -9788,6 +9790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Couch Racers | 363960 | [363960-couch-racers.json](./363960-couch-racers.json) |
 | Couch Storm: Battle Royale | 119735 | [119735-couch-storm-battle-royale.json](./119735-couch-storm-battle-royale.json) |
 | Couch Versus | 113669 | [113669-couch-versus.json](./113669-couch-versus.json) |
+| Cougar's Quest for Freedom | 166853 | [166853-cougars-quest-for-freedom.json](./166853-cougars-quest-for-freedom.json) |
 | Couic d'or ! | 328595 | [328595-couic-dor.json](./328595-couic-dor.json) |
 | Councell for the Best Death | 342191 | [342191-councell-for-the-best-death.json](./342191-councell-for-the-best-death.json) |
 | Counseling | 401050 | [401050-counseling.json](./401050-counseling.json) |
@@ -10750,6 +10753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Quader | 91587 | [91587-crazy-quader.json](./91587-crazy-quader.json) |
 | Crazy Quiz! Are You Crazy Enough? | 268117 | [268117-crazy-quiz-are-you-crazy-enough.json](./268117-crazy-quiz-are-you-crazy-enough.json) |
 | Crazy Rabbits | 250973 | [250973-crazy-rabbits.json](./250973-crazy-rabbits.json) |
+| Crazy Race | 166846 | [166846-crazy-race.json](./166846-crazy-race.json) |
 | Crazy Rails | 179481 | [179481-crazy-rails.json](./179481-crazy-rails.json) |
 | Crazy Road | 90189 | [90189-crazy-road.json](./90189-crazy-road.json) |
 | Crazy Roads | 399693 | [399693-crazy-roads.json](./399693-crazy-roads.json) |
