@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babies vs. Monsters | 304174 | [304174-babies-vs-monsters.json](./304174-babies-vs-monsters.json) |
 | Babka | 343254 | [343254-babka.json](./343254-babka.json) |
 | Babo Violent 2 | 72760 | [72760-babo-violent-2.json](./72760-babo-violent-2.json) |
+| Babol the Walking Box | 154820 | [154820-babol-the-walking-box.json](./154820-babol-the-walking-box.json) |
 | Baboon! | 42894 | [42894-baboon.json](./42894-baboon.json) |
 | Babs' Potion Shop | 238449 | [238449-babs-potion-shop.json](./238449-babs-potion-shop.json) |
 | Babsi Bullet | 297335 | [297335-babsi-bullet.json](./297335-babsi-bullet.json) |
@@ -2094,6 +2095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketbrawl | 11867 | [11867-basketbrawl.json](./11867-basketbrawl.json) |
 | Basketing | 148903 | [148903-basketing.json](./148903-basketing.json) |
 | Basketmania | 88435 | [88435-basketmania.json](./88435-basketmania.json) |
+| Basketrio | 154829 | [154829-basketrio.json](./154829-basketrio.json) |
 | Baskhead | 32254 | [32254-baskhead.json](./32254-baskhead.json) |
 | Baskhead Training | 29706 | [29706-baskhead-training.json](./29706-baskhead-training.json) |
 | Baskin-Robbins: Enter the Flavour-Verse | 257334 | [257334-baskin-robbins-enter-the-flavour-verse.json](./257334-baskin-robbins-enter-the-flavour-verse.json) |
@@ -3405,6 +3407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Cop | 18860 | [18860-beat-cop.json](./18860-beat-cop.json) |
 | Beat Craft | 320151 | [320151-beat-craft.json](./320151-beat-craft.json) |
 | Beat Da Beat | 24207 | [24207-beat-da-beat.json](./24207-beat-da-beat.json) |
+| Beat Defender | 154806 | [154806-beat-defender.json](./154806-beat-defender.json) |
 | Beat Demon | 364644 | [364644-beat-demon.json](./364644-beat-demon.json) |
 | Beat Down: Fists of Vengeance | 5745 | [5745-beat-down-fists-of-vengeance.json](./5745-beat-down-fists-of-vengeance.json) |
 | Beat Dungeon | 180596 | [180596-beat-dungeon.json](./180596-beat-dungeon.json) |
@@ -7571,6 +7574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Reflection | 396236 | [396236-blue-reflection.json](./396236-blue-reflection.json) |
 | Blue Reflection Quartet | 396199 | [396199-blue-reflection-quartet.json](./396199-blue-reflection-quartet.json) |
 | Blue Reflection Ray | 396234 | [396234-blue-reflection-ray.json](./396234-blue-reflection-ray.json) |
+| Blue Reflection Sun | 154785 | [154785-blue-reflection-sun.json](./154785-blue-reflection-sun.json) |
 | Blue Reflection Sun | 396235 | [396235-blue-reflection-sun.json](./396235-blue-reflection-sun.json) |
 | Blue Reflection: Final Fantasy XV Costumes | 396396 | [396396-blue-reflection-final-fantasy-xv-costumes.json](./396396-blue-reflection-final-fantasy-xv-costumes.json) |
 | Blue Reflection: Premium Box | 167079 | [167079-blue-reflection-premium-box.json](./167079-blue-reflection-premium-box.json) |
