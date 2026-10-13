@@ -2497,6 +2497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scuba Diver | 40744 | [40744-scuba-diver.json](./40744-scuba-diver.json) |
 | Scuba Diver | 40766 | [40766-scuba-diver.json](./40766-scuba-diver.json) |
 | Scuba Kidz | 92069 | [92069-scuba-kidz.json](./92069-scuba-kidz.json) |
+| Scubaman's Quest | 143459 | [143459-scubamans-quest.json](./143459-scubamans-quest.json) |
 | Scud Atak | 85766 | [85766-scud-atak.json](./85766-scud-atak.json) |
 | Scud Frenzy | 102395 | [102395-scud-frenzy.json](./102395-scud-frenzy.json) |
 | SCUD Race | 39476 | [39476-scud-race.json](./39476-scud-race.json) |
@@ -6431,6 +6432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shy Dogs Hidden Orchestra | 258215 | [258215-shy-dogs-hidden-orchestra.json](./258215-shy-dogs-hidden-orchestra.json) |
 | Shy Dogs: Hidden Orchestra 2 | 407461 | [407461-shy-dogs-hidden-orchestra-2.json](./407461-shy-dogs-hidden-orchestra-2.json) |
 | Shy Dwarf | 263450 | [263450-shy-dwarf.json](./263450-shy-dwarf.json) |
+| Shy Eye Labyrinth: The Incredible Mystery | 143418 | [143418-shy-eye-labyrinth-the-incredible-mystery.json](./143418-shy-eye-labyrinth-the-incredible-mystery.json) |
 | Shy Girl | 226198 | [226198-shy-girl.json](./226198-shy-girl.json) |
 | Shy Girl's Makeover | 295148 | [295148-shy-girls-makeover.json](./295148-shy-girls-makeover.json) |
 | Shy Guy Surfing | 310662 | [310662-shy-guy-surfing.json](./310662-shy-guy-surfing.json) |
@@ -10410,6 +10412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sofiya and the Ancient Clan | 209648 | [209648-sofiya-and-the-ancient-clan.json](./209648-sofiya-and-the-ancient-clan.json) |
 | Soft cookie | 114438 | [114438-soft-cookie.json](./114438-soft-cookie.json) |
 | Soft Drizzle | 177527 | [177527-soft-drizzle.json](./177527-soft-drizzle.json) |
+| Soft Earth | 143457 | [143457-soft-earth.json](./143457-soft-earth.json) |
 | Soft Ruin | 415324 | [415324-soft-ruin.json](./415324-soft-ruin.json) |
 | Soft Serve | 252811 | [252811-soft-serve.json](./252811-soft-serve.json) |
 | Soft(A)ware | 370123 | [370123-soft-a-ware.json](./370123-soft-a-ware.json) |
@@ -17515,6 +17518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Tennis Tour | 261513 | [261513-stick-tennis-tour.json](./261513-stick-tennis-tour.json) |
 | Stick to the Plan | 234299 | [234299-stick-to-the-plan.json](./234299-stick-to-the-plan.json) |
 | Stick Tongue | 324346 | [324346-stick-tongue.json](./324346-stick-tongue.json) |
+| Stick Tower | 143433 | [143433-stick-tower.json](./143433-stick-tower.json) |
 | Stick Up | 319949 | [319949-stick-up.json](./319949-stick-up.json) |
 | Stick Veterans | 176360 | [176360-stick-veterans.json](./176360-stick-veterans.json) |
 | Stick War | 234161 | [234161-stick-war.json](./234161-stick-war.json) |
@@ -21464,6 +21468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen T: Expansion Pack | 275062 | [275062-super-robot-taisen-t-expansion-pack.json](./275062-super-robot-taisen-t-expansion-pack.json) |
 | Super Robot Taisen T: Premium Anime Song & Sound Edition | 167089 | [167089-super-robot-taisen-t-premium-anime-song-and-sound-edition.json](./167089-super-robot-taisen-t-premium-anime-song-and-sound-edition.json) |
 | Super Robot Taisen W | 21405 | [21405-super-robot-taisen-w.json](./21405-super-robot-taisen-w.json) |
+| Super Robot Taisen XO | 143417 | [143417-super-robot-taisen-xo.json](./143417-super-robot-taisen-xo.json) |
 | Super Robot Taisen Z | 79342 | [79342-super-robot-taisen-z.json](./79342-super-robot-taisen-z.json) |
 | Super Robot Taisen Z: Special Disc | 182490 | [182490-super-robot-taisen-z-special-disc.json](./182490-super-robot-taisen-z-special-disc.json) |
 | Super Robot Taisen: Original Generation 2 | 6627 | [6627-super-robot-taisen-original-generation-2.json](./6627-super-robot-taisen-original-generation-2.json) |
