@@ -1930,7 +1930,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Want Your Head | 383154 | [383154-we-want-your-head.json](./383154-we-want-your-head.json) |
 | We Were Here Together | 109535 | [109535-we-were-here-together.json](./109535-we-were-here-together.json) |
 | We Were Here Tomorrow | 393015 | [393015-we-were-here-tomorrow.json](./393015-we-were-here-tomorrow.json) |
-| We Were Here Too | 54486 | [54486-we-were-here-too.json](./54486-we-were-here-too.json) |
 | We Were Monkeys | 292437 | [292437-we-were-monkeys.json](./292437-we-were-monkeys.json) |
 | We Who Rise | 358814 | [358814-we-who-rise.json](./358814-we-who-rise.json) |
 | We Will Be Gods | 342716 | [342716-we-will-be-gods.json](./342716-we-will-be-gods.json) |
