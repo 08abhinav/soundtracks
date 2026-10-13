@@ -813,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Pack | 84273 | [84273-jet-pack.json](./84273-jet-pack.json) |
 | Jet Paco & Jet Puri | 312226 | [312226-jet-paco-and-jet-puri.json](./312226-jet-paco-and-jet-puri.json) |
 | Jet Pilot | 330740 | [330740-jet-pilot.json](./330740-jet-pilot.json) |
+| Jet Pilot Rising | 134358 | [134358-jet-pilot-rising.json](./134358-jet-pilot-rising.json) |
 | Jet Race | 359462 | [359462-jet-race.json](./359462-jet-race.json) |
 | Jet Racing Extreme | 34903 | [34903-jet-racing-extreme.json](./34903-jet-racing-extreme.json) |
 | Jet Riders | 209997 | [209997-jet-riders.json](./209997-jet-riders.json) |
@@ -1761,6 +1762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jonah Lomu Rugby Challenge: Quick Match | 175156 | [175156-jonah-lomu-rugby-challenge-quick-match.json](./175156-jonah-lomu-rugby-challenge-quick-match.json) |
 | Jonah: A VeggieTales Game | 80600 | [80600-jonah-a-veggietales-game.json](./80600-jonah-a-veggietales-game.json) |
 | Jonald '06 or How a Tiny Horse Living in New York City Raised 250 US Dollars So They Could Buy a Nintedo Woo On Launch Day | 357856 | [357856-jonald-06-or-how-a-tiny-horse-living-in-new-york-city-raised-250-us-dollars-so-they-could-buy-a-nintedo-woo-on-launch-day.json](./357856-jonald-06-or-how-a-tiny-horse-living-in-new-york-city-raised-250-us-dollars-so-they-could-buy-a-nintedo-woo-on-launch-day.json) |
+| Jonas Sky Scraper | 134926 | [134926-jonas-sky-scraper.json](./134926-jonas-sky-scraper.json) |
 | Jonas Willy Online | 149013 | [149013-jonas-willy-online.json](./149013-jonas-willy-online.json) |
 | Jonathan Kane: The Protector | 67261 | [67261-jonathan-kane-the-protector.json](./67261-jonathan-kane-the-protector.json) |
 | Jonathan's Adventure 3 | 397996 | [397996-jonathans-adventure-3.json](./397996-jonathans-adventure-3.json) |
