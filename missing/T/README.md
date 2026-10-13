@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Top Racing | 8350 | [8350-table-top-racing.json](./8350-table-top-racing.json) |
 | Table Top Racing: Nitro Edition | 136192 | [136192-table-top-racing-nitro-edition.json](./136192-table-top-racing-nitro-edition.json) |
 | Table Top Racing: World Tour | 18978 | [18978-table-top-racing-world-tour.json](./18978-table-top-racing-world-tour.json) |
+| Table Top Racing: World Tour - Tropical Ice Pack | 155339 | [155339-table-top-racing-world-tour-tropical-ice-pack.json](./155339-table-top-racing-world-tour-tropical-ice-pack.json) |
 | Table Trenches | 175142 | [175142-table-trenches.json](./175142-table-trenches.json) |
 | Table Troopers | 366370 | [366370-table-troopers.json](./366370-table-troopers.json) |
 | TableSoccer | 339092 | [339092-tablesoccer.json](./339092-tablesoccer.json) |
@@ -876,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Kizna | 294593 | [294593-tales-of-kizna.json](./294593-tales-of-kizna.json) |
 | Tales of Klodan | 349328 | [349328-tales-of-klodan.json](./349328-tales-of-klodan.json) |
 | Tales of Kongfu | 161602 | [161602-tales-of-kongfu.json](./161602-tales-of-kongfu.json) |
+| Tales of Lagoona 3: Frauds, Forgeries, and Fishsticks | 155368 | [155368-tales-of-lagoona-3-frauds-forgeries-and-fishsticks.json](./155368-tales-of-lagoona-3-frauds-forgeries-and-fishsticks.json) |
 | Tales of Lagoona: Orphans of the Ocean | 54424 | [54424-tales-of-lagoona-orphans-of-the-ocean.json](./54424-tales-of-lagoona-orphans-of-the-ocean.json) |
 | Tales of Legendary Lust: Aphrodisia | 392890 | [392890-tales-of-legendary-lust-aphrodisia.json](./392890-tales-of-legendary-lust-aphrodisia.json) |
 | Tales of Legends IV: If | 55500 | [55500-tales-of-legends-iv-if.json](./55500-tales-of-legends-iv-if.json) |
@@ -3942,6 +3944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Aquatic Adventure of the Last Human | 12598 | [12598-the-aquatic-adventure-of-the-last-human.json](./12598-the-aquatic-adventure-of-the-last-human.json) |
 | The Arab League of Misfits | 412531 | [412531-the-arab-league-of-misfits.json](./412531-the-arab-league-of-misfits.json) |
 | The Arcade Tower | 194373 | [194373-the-arcade-tower.json](./194373-the-arcade-tower.json) |
+| The Arcadia of Wulin | 155346 | [155346-the-arcadia-of-wulin.json](./155346-the-arcadia-of-wulin.json) |
 | The Arcana: Dark Tarot & Kings of Madness | 389075 | [389075-the-arcana-dark-tarot-and-kings-of-madness.json](./389075-the-arcana-dark-tarot-and-kings-of-madness.json) |
 | The Arcana: Dark Tarot & Queens of Madness | 389077 | [389077-the-arcana-dark-tarot-and-queens-of-madness.json](./389077-the-arcana-dark-tarot-and-queens-of-madness.json) |
 | The Arcane Tower | 166744 | [166744-the-arcane-tower.json](./166744-the-arcane-tower.json) |
@@ -4283,6 +4286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Biba Collection | 96932 | [96932-the-biba-collection.json](./96932-the-biba-collection.json) |
 | The Bible Game | 225574 | [225574-the-bible-game.json](./225574-the-bible-game.json) |
 | The Bible Text Adventure | 377981 | [377981-the-bible-text-adventure.json](./377981-the-bible-text-adventure.json) |
+| The Bible: Exodus | 155381 | [155381-the-bible-exodus.json](./155381-the-bible-exodus.json) |
 | The Bibleman | 72773 | [72773-the-bibleman.json](./72773-the-bibleman.json) |
 | The Bibleman Videogame Adventure: A Fight for Faith | 206659 | [206659-the-bibleman-videogame-adventure-a-fight-for-faith.json](./206659-the-bibleman-videogame-adventure-a-fight-for-faith.json) |
 | The Big 6 | 65241 | [65241-the-big-6.json](./65241-the-big-6.json) |
@@ -11344,6 +11348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Surfeit: Episode 1 | 170497 | [170497-the-surfeit-episode-1.json](./170497-the-surfeit-episode-1.json) |
 | The Surge | 11590 | [11590-the-surge.json](./11590-the-surge.json) |
 | The Surge 1 & 2: Dual Pack | 139824 | [139824-the-surge-1-and-2-dual-pack.json](./139824-the-surge-1-and-2-dual-pack.json) |
+| The Surge 2: Future Shock Weapon Pack | 155352 | [155352-the-surge-2-future-shock-weapon-pack.json](./155352-the-surge-2-future-shock-weapon-pack.json) |
 | The Surge 2: Jericho's Legacy Gear Pack | 223533 | [223533-the-surge-2-jerichos-legacy-gear-pack.json](./223533-the-surge-2-jerichos-legacy-gear-pack.json) |
 | The Surge 2: Limited Edition | 202217 | [202217-the-surge-2-limited-edition.json](./202217-the-surge-2-limited-edition.json) |
 | The Surge 2: Premium Edition | 154535 | [154535-the-surge-2-premium-edition.json](./154535-the-surge-2-premium-edition.json) |
@@ -11900,6 +11905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tram | 413738 | [413738-the-tram.json](./413738-the-tram.json) |
 | The tram of wishes | 152836 | [152836-the-tram-of-wishes.json](./152836-the-tram-of-wishes.json) |
 | The Transformers | 8015 | [8015-the-transformers.json](./8015-the-transformers.json) |
+| The Trap | 155343 | [155343-the-trap.json](./155343-the-trap.json) |
 | The Trap | 196838 | [196838-the-trap.json](./196838-the-trap.json) |
 | The Trap 2: Mindlock | 194222 | [194222-the-trap-2-mindlock.json](./194222-the-trap-2-mindlock.json) |
 | The Trap: Remake - Winter | 351098 | [351098-the-trap-remake-winter.json](./351098-the-trap-remake-winter.json) |
@@ -18309,6 +18315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrackMania United | 9908 | [9908-trackmania-united.json](./9908-trackmania-united.json) |
 | TrackMania United Forever | 2451 | [2451-trackmania-united-forever.json](./2451-trackmania-united-forever.json) |
 | TrackMania: Power Up! | 69906 | [69906-trackmania-power-up.json](./69906-trackmania-power-up.json) |
+| TrackMaster: Free For All Motorsport | 155376 | [155376-trackmaster-free-for-all-motorsport.json](./155376-trackmaster-free-for-all-motorsport.json) |
 | TrackRace | 208230 | [208230-trackrace.json](./208230-trackrace.json) |
 | TrackRacing Online | 98396 | [98396-trackracing-online.json](./98396-trackracing-online.json) |
 | Tracks and Turrets | 110247 | [110247-tracks-and-turrets.json](./110247-tracks-and-turrets.json) |
@@ -18805,6 +18812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator 2021: London Overground BR Class 313 EMU | 162394 | [162394-train-simulator-2021-london-overground-br-class-313-emu.json](./162394-train-simulator-2021-london-overground-br-class-313-emu.json) |
 | Train Simulator 2021: London Overground Class 378 'Capitalstar' EMU | 162350 | [162350-train-simulator-2021-london-overground-class-378-capitalstar-emu.json](./162350-train-simulator-2021-london-overground-class-378-capitalstar-emu.json) |
 | Train Simulator 2021: Metro-North Kawasaki M8 EMU | 162359 | [162359-train-simulator-2021-metro-north-kawasaki-m8-emu.json](./162359-train-simulator-2021-metro-north-kawasaki-m8-emu.json) |
+| Train Simulator 2021: Montana Hi-Line - Shelby: Havre Route | 155356 | [155356-train-simulator-2021-montana-hi-line-shelby-havre-route.json](./155356-train-simulator-2021-montana-hi-line-shelby-havre-route.json) |
 | Train Simulator 2021: MRCE BR 185.5 Loco | 162357 | [162357-train-simulator-2021-mrce-br-185-5-loco.json](./162357-train-simulator-2021-mrce-br-185-5-loco.json) |
 | Train Simulator 2021: MRCE Dispolok Pack Loco | 162367 | [162367-train-simulator-2021-mrce-dispolok-pack-loco.json](./162367-train-simulator-2021-mrce-dispolok-pack-loco.json) |
 | Train Simulator 2021: MRCE ES 64 U2 'Taurus' Loco | 162344 | [162344-train-simulator-2021-mrce-es-64-u2-taurus-loco.json](./162344-train-simulator-2021-mrce-es-64-u2-taurus-loco.json) |
@@ -18850,6 +18858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator 2021: Virgin Trains BR Class 390 'Pendolino' EMU | 162326 | [162326-train-simulator-2021-virgin-trains-br-class-390-pendolino-emu.json](./162326-train-simulator-2021-virgin-trains-br-class-390-pendolino-emu.json) |
 | Train Simulator 2021: Western Hydraulics Pack | 162352 | [162352-train-simulator-2021-western-hydraulics-pack.json](./162352-train-simulator-2021-western-hydraulics-pack.json) |
 | Train Simulator 2021: Western Maryland Railway Retro Pack | 162395 | [162395-train-simulator-2021-western-maryland-railway-retro-pack.json](./162395-train-simulator-2021-western-maryland-railway-retro-pack.json) |
+| Train Simulator 2021: Western Sichuan Pass: Dujiangyan - Maoxian & Mashancun Route Add-On | 155342 | [155342-train-simulator-2021-western-sichuan-pass-dujiangyan-maoxian-and-mashancun-route-add-on.json](./155342-train-simulator-2021-western-sichuan-pass-dujiangyan-maoxian-and-mashancun-route-add-on.json) |
 | Train Simulator 2022: Salzburg - Wels Route Add-On | 174142 | [174142-train-simulator-2022-salzburg-wels-route-add-on.json](./174142-train-simulator-2022-salzburg-wels-route-add-on.json) |
 | Train Simulator 3: Thameslink BR Class 700/0 EMU | 257017 | [257017-train-simulator-3-thameslink-br-class-700-0-emu.json](./257017-train-simulator-3-thameslink-br-class-700-0-emu.json) |
 | Train Simulator Classic | 198295 | [198295-train-simulator-classic.json](./198295-train-simulator-classic.json) |
@@ -20727,6 +20736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico 4: Vigilante | 53843 | [53843-tropico-4-vigilante.json](./53843-tropico-4-vigilante.json) |
 | Tropico 5: DLC Bundle | 227319 | [227319-tropico-5-dlc-bundle.json](./227319-tropico-5-dlc-bundle.json) |
 | Tropico 5: Espionage | 53842 | [53842-tropico-5-espionage.json](./53842-tropico-5-espionage.json) |
+| Tropico 5: Gone Green | 155379 | [155379-tropico-5-gone-green.json](./155379-tropico-5-gone-green.json) |
 | Tropico 5: The Big Cheese | 53841 | [53841-tropico-5-the-big-cheese.json](./53841-tropico-5-the-big-cheese.json) |
 | Tropico 5: Waterborne | 53840 | [53840-tropico-5-waterborne.json](./53840-tropico-5-waterborne.json) |
 | Tropico 6: Caribbean Skies | 155068 | [155068-tropico-6-caribbean-skies.json](./155068-tropico-6-caribbean-skies.json) |
