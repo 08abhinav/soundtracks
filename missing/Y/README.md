@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yacht Simulator VR | 90853 | [90853-yacht-simulator-vr.json](./90853-yacht-simulator-vr.json) |
 | Yachu Dice | 151017 | [151017-yachu-dice.json](./151017-yachu-dice.json) |
 | Yadamon: Wonderland Dream | 37762 | [37762-yadamon-wonderland-dream.json](./37762-yadamon-wonderland-dream.json) |
+| Yadokari Survive | 142775 | [142775-yadokari-survive.json](./142775-yadokari-survive.json) |
 | Yaengard | 155676 | [155676-yaengard.json](./155676-yaengard.json) |
 | Yafti | 93760 | [93760-yafti.json](./93760-yafti.json) |
 | Yag | 114196 | [114196-yag.json](./114196-yag.json) |
@@ -651,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshi Tanks | 320227 | [320227-yoshi-tanks.json](./320227-yoshi-tanks.json) |
 | Yoshi Touch & Go | 18329 | [18329-yoshi-touch-and-go.json](./18329-yoshi-touch-and-go.json) |
 | Yoshi Touch & Go | 231475 | [231475-yoshi-touch-and-go.json](./231475-yoshi-touch-and-go.json) |
+| Yoshi vs. Windows | 141624 | [141624-yoshi-vs-windows.json](./141624-yoshi-vs-windows.json) |
 | Yoshi vs. Windows Platinum | 142404 | [142404-yoshi-vs-windows-platinum.json](./142404-yoshi-vs-windows-platinum.json) |
 | Yoshi's Adventure 128: Attack of the Factory | 397262 | [397262-yoshis-adventure-128-attack-of-the-factory.json](./397262-yoshis-adventure-128-attack-of-the-factory.json) |
 | Yoshi's Adventure 96: Puzzles for Yoshis | 294776 | [294776-yoshis-adventure-96-puzzles-for-yoshis.json](./294776-yoshis-adventure-96-puzzles-for-yoshis.json) |
