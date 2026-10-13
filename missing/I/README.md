@@ -2046,6 +2046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incarna: Broken | 118143 | [118143-incarna-broken.json](./118143-incarna-broken.json) |
 | Incarnage | 210120 | [210120-incarnage.json](./210120-incarnage.json) |
 | Incarnata: Dormant Stories | 173189 | [173189-incarnata-dormant-stories.json](./173189-incarnata-dormant-stories.json) |
+| Incarnatia | 172080 | [172080-incarnatia.json](./172080-incarnatia.json) |
 | Incarnation | 276263 | [276263-incarnation.json](./276263-incarnation.json) |
 | Incarnation: Flame | 174823 | [174823-incarnation-flame.json](./174823-incarnation-flame.json) |
 | Incaved | 217356 | [217356-incaved.json](./217356-incaved.json) |
