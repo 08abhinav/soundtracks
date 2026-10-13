@@ -783,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nayla's Castle | 260025 | [260025-naylas-castle.json](./260025-naylas-castle.json) |
 | Nayra's Popstactic Adventures in Cadiz | 114752 | [114752-nayras-popstactic-adventures-in-cadiz.json](./114752-nayras-popstactic-adventures-in-cadiz.json) |
 | Nayuta no Kiseki | 284431 | [284431-nayuta-no-kiseki.json](./284431-nayuta-no-kiseki.json) |
+| Nayuta no Kiseki: Kai | 146036 | [146036-nayuta-no-kiseki-kai.json](./146036-nayuta-no-kiseki-kai.json) |
 | Nayuta no Kiseki: Limited Edition | 284434 | [284434-nayuta-no-kiseki-limited-edition.json](./284434-nayuta-no-kiseki-limited-edition.json) |
 | Nazar | 319003 | [319003-nazar.json](./319003-nazar.json) |
 | Nazi 2 | 105248 | [105248-nazi-2.json](./105248-nazi-2.json) |
@@ -1549,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeoFables | 330552 | [330552-neofables.json](./330552-neofables.json) |
 | Neofeud | 55688 | [55688-neofeud.json](./55688-neofeud.json) |
 | Neofeud 2 | 397714 | [397714-neofeud-2.json](./397714-neofeud-2.json) |
+| NeoFlux Drift | 146026 | [146026-neoflux-drift.json](./146026-neoflux-drift.json) |
 | Neogen BeatZ | 256539 | [256539-neogen-beatz.json](./256539-neogen-beatz.json) |
 | Neogen Space Monkeys | 221979 | [221979-neogen-space-monkeys.json](./221979-neogen-space-monkeys.json) |
 | NeoGeo Heroes Ultimate Shooting | 44507 | [44507-neogeo-heroes-ultimate-shooting.json](./44507-neogeo-heroes-ultimate-shooting.json) |
@@ -2403,6 +2405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NextRev: FP Ginoukentei Shiken 2-Kyuu | 64941 | [64941-nextrev-fp-ginoukentei-shiken-2-kyuu.json](./64941-nextrev-fp-ginoukentei-shiken-2-kyuu.json) |
 | NextRev: FP Ginoukentei Shiken 3-Kyuu | 64940 | [64940-nextrev-fp-ginoukentei-shiken-3-kyuu.json](./64940-nextrev-fp-ginoukentei-shiken-3-kyuu.json) |
 | NextRev: Gyouseishoshi Shiken | 65198 | [65198-nextrev-gyouseishoshi-shiken.json](./65198-nextrev-gyouseishoshi-shiken.json) |
+| NextRev: Hisho Kentei Shiken | 145390 | [145390-nextrev-hisho-kentei-shiken.json](./145390-nextrev-hisho-kentei-shiken.json) |
 | NextRev: IT Passport Shiken | 64945 | [64945-nextrev-it-passport-shiken.json](./64945-nextrev-it-passport-shiken.json) |
 | NextRev: Jouhou Security Specialist Shiken / Network Specialist Shiken | 179476 | [179476-nextrev-jouhou-security-specialist-shiken-network-specialist-shiken.json](./179476-nextrev-jouhou-security-specialist-shiken-network-specialist-shiken.json) |
 | NextRev: Kaigo Fukushishi Shiken | 179499 | [179499-nextrev-kaigo-fukushishi-shiken.json](./179499-nextrev-kaigo-fukushishi-shiken.json) |
@@ -3847,6 +3850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No mans land | 37327 | [37327-no-mans-land.json](./37327-no-mans-land.json) |
 | No Me: The Future is Ours | 276753 | [276753-no-me-the-future-is-ours.json](./276753-no-me-the-future-is-ours.json) |
 | No Means Nothing | 380677 | [380677-no-means-nothing.json](./380677-no-means-nothing.json) |
+| No Meteors | 146070 | [146070-no-meteors.json](./146070-no-meteors.json) |
 | No Momentum | 190979 | [190979-no-momentum.json](./190979-no-momentum.json) |
 | No More Cows | 399063 | [399063-no-more-cows.json](./399063-no-more-cows.json) |
 | No More Future | 177912 | [177912-no-more-future.json](./177912-no-more-future.json) |
@@ -4227,6 +4231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nokbak | 55222 | [55222-nokbak.json](./55222-nokbak.json) |
 | NokNok | 341484 | [341484-noknok.json](./341484-noknok.json) |
 | NokNok Invasion! | 183505 | [183505-noknok-invasion.json](./183505-noknok-invasion.json) |
+| Nokosu | 148293 | [148293-nokosu.json](./148293-nokosu.json) |
 | Nol | 404808 | [404808-nol.json](./404808-nol.json) |
 | Nola1 | 299853 | [299853-nola1.json](./299853-nola1.json) |
 | Nolan Ryan's Baseball | 42477 | [42477-nolan-ryans-baseball.json](./42477-nolan-ryans-baseball.json) |
