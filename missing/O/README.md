@@ -2511,6 +2511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbit Express | 258401 | [258401-orbit-express.json](./258401-orbit-express.json) |
 | Orbit Maze | 347189 | [347189-orbit-maze.json](./347189-orbit-maze.json) |
 | Orbit One | 405604 | [405604-orbit-one.json](./405604-orbit-one.json) |
+| Orbit Outlaws | 155845 | [155845-orbit-outlaws.json](./155845-orbit-outlaws.json) |
 | Orbit Putt | 323779 | [323779-orbit-putt.json](./323779-orbit-putt.json) |
 | Orbit Puzzle | 312691 | [312691-orbit-puzzle.json](./312691-orbit-puzzle.json) |
 | Orbit Quest | 107201 | [107201-orbit-quest.json](./107201-orbit-quest.json) |
