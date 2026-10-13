@@ -1019,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Tour | 297718 | [297718-ball-tour.json](./297718-ball-tour.json) |
 | Ball Travel | 351755 | [351755-ball-travel.json](./351755-ball-travel.json) |
 | Ball Turn | 105402 | [105402-ball-turn.json](./105402-ball-turn.json) |
+| Ball Twist | 147756 | [147756-ball-twist.json](./147756-ball-twist.json) |
 | Ball und Panzer Golf | 272478 | [272478-ball-und-panzer-golf.json](./272478-ball-und-panzer-golf.json) |
 | Ball Vader MAX | 115432 | [115432-ball-vader-max.json](./115432-ball-vader-max.json) |
 | Ball vs Block | 186185 | [186185-ball-vs-block.json](./186185-ball-vs-block.json) |
@@ -3011,6 +3012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlezone: The Red Odyssey | 238590 | [238590-battlezone-the-red-odyssey.json](./238590-battlezone-the-red-odyssey.json) |
 | Battlic | 341091 | [341091-battlic.json](./341091-battlic.json) |
 | Battlot | 404418 | [404418-battlot.json](./404418-battlot.json) |
+| Battojutsu | 147766 | [147766-battojutsu.json](./147766-battojutsu.json) |
 | Batty Builders | 293716 | [293716-batty-builders.json](./293716-batty-builders.json) |
 | Batty Shadowless Adventures | 374065 | [374065-batty-shadowless-adventures.json](./374065-batty-shadowless-adventures.json) |
 | Batty Zabella | 229244 | [229244-batty-zabella.json](./229244-batty-zabella.json) |
@@ -4668,6 +4670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bibi Blocksberg: Das gestohlene Hexbuch | 215850 | [215850-bibi-blocksberg-das-gestohlene-hexbuch.json](./215850-bibi-blocksberg-das-gestohlene-hexbuch.json) |
 | Bibi Blocksberg: Das große Hexenbesen-Rennen! | 145936 | [145936-bibi-blocksberg-das-gro-e-hexenbesen-rennen.json](./145936-bibi-blocksberg-das-gro-e-hexenbesen-rennen.json) |
 | Bibi Blocksberg: Der Magische Hexenkreis | 199069 | [199069-bibi-blocksberg-der-magische-hexenkreis.json](./199069-bibi-blocksberg-der-magische-hexenkreis.json) |
+| Bibi Blocksberg: Der verhexte Liebesbrief | 148304 | [148304-bibi-blocksberg-der-verhexte-liebesbrief.json](./148304-bibi-blocksberg-der-verhexte-liebesbrief.json) |
 | Bibi Blocksberg: Der verhexte Schloss-Schatz | 148498 | [148498-bibi-blocksberg-der-verhexte-schloss-schatz.json](./148498-bibi-blocksberg-der-verhexte-schloss-schatz.json) |
 | Bibi Blocksberg: Im Bann der Hexenkugel | 81452 | [81452-bibi-blocksberg-im-bann-der-hexenkugel.json](./81452-bibi-blocksberg-im-bann-der-hexenkugel.json) |
 | Bibi Blocksberg: Neustadt im Hex-Chaos | 215849 | [215849-bibi-blocksberg-neustadt-im-hex-chaos.json](./215849-bibi-blocksberg-neustadt-im-hex-chaos.json) |
@@ -5388,6 +5391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BipBop III | 218645 | [218645-bipbop-iii.json](./218645-bipbop-iii.json) |
 | Biped 2 | 298613 | [298613-biped-2.json](./298613-biped-2.json) |
 | Bipedal Party | 376756 | [376756-bipedal-party.json](./376756-bipedal-party.json) |
+| Bipgolf | 148288 | [148288-bipgolf.json](./148288-bipgolf.json) |
 | Biphase | 148549 | [148549-biphase.json](./148549-biphase.json) |
 | BiPlane 4 | 112890 | [112890-biplane-4.json](./112890-biplane-4.json) |
 | Bipo's Adventure | 183018 | [183018-bipos-adventure.json](./183018-bipos-adventure.json) |
@@ -5731,6 +5735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitzee Magicals | 340221 | [340221-bitzee-magicals.json](./340221-bitzee-magicals.json) |
 | BiuBiu Jungle | 118209 | [118209-biubiu-jungle.json](./118209-biubiu-jungle.json) |
 | Biwar: Legend of Dragon Slayer | 204713 | [204713-biwar-legend-of-dragon-slayer.json](./204713-biwar-legend-of-dragon-slayer.json) |
+| Biz Builder Delux | 147773 | [147773-biz-builder-delux.json](./147773-biz-builder-delux.json) |
 | Biz Taiken Series: Kigyoudou | 59393 | [59393-biz-taiken-series-kigyoudou.json](./59393-biz-taiken-series-kigyoudou.json) |
 | Bizarr Adventure | 224677 | [224677-bizarr-adventure.json](./224677-bizarr-adventure.json) |
 | Bizarre | 313139 | [313139-bizarre.json](./313139-bizarre.json) |
@@ -7069,6 +7074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Ancestors: Open Alpha | 100573 | [100573-blood-ancestors-open-alpha.json](./100573-blood-ancestors-open-alpha.json) |
 | Blood and Bones: A Skeleton Scorned | 262312 | [262312-blood-and-bones-a-skeleton-scorned.json](./262312-blood-and-bones-a-skeleton-scorned.json) |
 | Blood And Fear: Part 1 | 293104 | [293104-blood-and-fear-part-1.json](./293104-blood-and-fear-part-1.json) |
+| Blood and Guts Bundle | 147758 | [147758-blood-and-guts-bundle.json](./147758-blood-and-guts-bundle.json) |
 | Blood and Jade | 62706 | [62706-blood-and-jade.json](./62706-blood-and-jade.json) |
 | Blood and Ruby | 135251 | [135251-blood-and-ruby.json](./135251-blood-and-ruby.json) |
 | Blood and Soul | 135803 | [135803-blood-and-soul.json](./135803-blood-and-soul.json) |
