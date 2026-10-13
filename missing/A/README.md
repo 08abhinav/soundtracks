@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Brief History of the World | 103565 | [103565-a-brief-history-of-the-world.json](./103565-a-brief-history-of-the-world.json) |
 | A Brief Tale | 411683 | [411683-a-brief-tale.json](./411683-a-brief-tale.json) |
 | A Broken Halo | 216776 | [216776-a-broken-halo.json](./216776-a-broken-halo.json) |
+| A Broken Tale | 135579 | [135579-a-broken-tale.json](./135579-a-broken-tale.json) |
 | A Bug's Life | 205931 | [205931-a-bugs-life.json](./205931-a-bugs-life.json) |
 | A Bug's Life | 49841 | [49841-a-bugs-life.json](./49841-a-bugs-life.json) |
 | A Bug's Life: Active Play | 311677 | [311677-a-bugs-life-active-play.json](./311677-a-bugs-life-active-play.json) |
@@ -2880,6 +2881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Time | 254542 | [254542-age-of-time.json](./254542-age-of-time.json) |
 | Age of Undead | 211145 | [211145-age-of-undead.json](./211145-age-of-undead.json) |
 | Age of Valakas: Vietnam | 190456 | [190456-age-of-valakas-vietnam.json](./190456-age-of-valakas-vietnam.json) |
+| Age of Wanderer | 135588 | [135588-age-of-wanderer.json](./135588-age-of-wanderer.json) |
 | Age of War | 18348 | [18348-age-of-war.json](./18348-age-of-war.json) |
 | Age of Warbots | 345089 | [345089-age-of-warbots.json](./345089-age-of-warbots.json) |
 | Age of Warscape | 28209 | [28209-age-of-warscape.json](./28209-age-of-warscape.json) |
@@ -4836,6 +4838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Decay | 31707 | [31707-alpha-decay.json](./31707-alpha-decay.json) |
 | Alpha Dog | 120429 | [120429-alpha-dog.json](./120429-alpha-dog.json) |
 | Alpha Guns | 137675 | [137675-alpha-guns.json](./137675-alpha-guns.json) |
+| Alpha Invasion | 135584 | [135584-alpha-invasion.json](./135584-alpha-invasion.json) |
 | Alpha Kimori: Great Doubt - Episode One | 16874 | [16874-alpha-kimori-great-doubt-episode-one.json](./16874-alpha-kimori-great-doubt-episode-one.json) |
 | Alpha Kimori: Great Doubt - Episode Two | 82080 | [82080-alpha-kimori-great-doubt-episode-two.json](./82080-alpha-kimori-great-doubt-episode-two.json) |
 | Alpha King | 118820 | [118820-alpha-king.json](./118820-alpha-king.json) |
@@ -7905,6 +7908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Ninja Spirit | 120330 | [120330-arcade-archives-ninja-spirit.json](./120330-arcade-archives-ninja-spirit.json) |
 | Arcade Archives: Ninja-Kid II | 111458 | [111458-arcade-archives-ninja-kid-ii.json](./111458-arcade-archives-ninja-kid-ii.json) |
 | Arcade Archives: Ordyne | 223153 | [223153-arcade-archives-ordyne.json](./223153-arcade-archives-ordyne.json) |
+| Arcade Archives: P-47 | 135583 | [135583-arcade-archives-p-47.json](./135583-arcade-archives-p-47.json) |
 | Arcade Archives: Pac & Pal | 215109 | [215109-arcade-archives-pac-and-pal.json](./215109-arcade-archives-pac-and-pal.json) |
 | Arcade Archives: Pac-Man | 172431 | [172431-arcade-archives-pac-man.json](./172431-arcade-archives-pac-man.json) |
 | Arcade Archives: Pettan Pyuu | 147115 | [147115-arcade-archives-pettan-pyuu.json](./147115-arcade-archives-pettan-pyuu.json) |
@@ -7959,6 +7963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Solomon's Key | 99564 | [99564-arcade-archives-solomons-key.json](./99564-arcade-archives-solomons-key.json) |
 | Arcade Archives: Space Cruiser | 165601 | [165601-arcade-archives-space-cruiser.json](./165601-arcade-archives-space-cruiser.json) |
 | Arcade Archives: Street Smart | 399296 | [399296-arcade-archives-street-smart.json](./399296-arcade-archives-street-smart.json) |
+| Arcade Archives: Sunset Riders | 135574 | [135574-arcade-archives-sunset-riders.json](./135574-arcade-archives-sunset-riders.json) |
 | Arcade Archives: Super Cobra | 147119 | [147119-arcade-archives-super-cobra.json](./147119-arcade-archives-super-cobra.json) |
 | Arcade Archives: Super Pac-Man | 187461 | [187461-arcade-archives-super-pac-man.json](./187461-arcade-archives-super-pac-man.json) |
 | Arcade Archives: Super Punch-Out!! | 147118 | [147118-arcade-archives-super-punch-out.json](./147118-arcade-archives-super-punch-out.json) |
@@ -7992,6 +7997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Touchdown Fever | 384202 | [384202-arcade-archives-touchdown-fever.json](./384202-arcade-archives-touchdown-fever.json) |
 | Arcade Archives: Touki Denshou Angel Eyes | 222390 | [222390-arcade-archives-touki-denshou-angel-eyes.json](./222390-arcade-archives-touki-denshou-angel-eyes.json) |
 | Arcade Archives: Trio the Punch | 202769 | [202769-arcade-archives-trio-the-punch.json](./202769-arcade-archives-trio-the-punch.json) |
+| Arcade Archives: Tube Panic | 135575 | [135575-arcade-archives-tube-panic.json](./135575-arcade-archives-tube-panic.json) |
 | Arcade Archives: Tutankham | 300732 | [300732-arcade-archives-tutankham.json](./300732-arcade-archives-tutankham.json) |
 | Arcade Archives: TX-1 | 411810 | [411810-arcade-archives-tx-1.json](./411810-arcade-archives-tx-1.json) |
 | Arcade Archives: Typhoon Gal | 173130 | [173130-arcade-archives-typhoon-gal.json](./173130-arcade-archives-typhoon-gal.json) |
@@ -8012,6 +8018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Vs. The Quest of Ki | 322039 | [322039-arcade-archives-vs-the-quest-of-ki.json](./322039-arcade-archives-vs-the-quest-of-ki.json) |
 | Arcade Archives: Vs. Wrecking Crew | 68313 | [68313-arcade-archives-vs-wrecking-crew.json](./68313-arcade-archives-vs-wrecking-crew.json) |
 | Arcade Archives: Warp & Warp | 277578 | [277578-arcade-archives-warp-and-warp.json](./277578-arcade-archives-warp-and-warp.json) |
+| Arcade Archives: Wiz | 135582 | [135582-arcade-archives-wiz.json](./135582-arcade-archives-wiz.json) |
 | Arcade Archives: Wonder Boy | 141885 | [141885-arcade-archives-wonder-boy.json](./141885-arcade-archives-wonder-boy.json) |
 | Arcade Archives: Xevious | 172432 | [172432-arcade-archives-xevious.json](./172432-arcade-archives-xevious.json) |
 | Arcade Archives: XX Mission | 129194 | [129194-arcade-archives-xx-mission.json](./129194-arcade-archives-xx-mission.json) |
