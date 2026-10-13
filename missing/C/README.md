@@ -4035,6 +4035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers Gold | 100162 | [100162-checkers-gold.json](./100162-checkers-gold.json) |
 | Checkers in the Park | 254436 | [254436-checkers-in-the-park.json](./254436-checkers-in-the-park.json) |
 | Checkers Lounge 3D | 223633 | [223633-checkers-lounge-3d.json](./223633-checkers-lounge-3d.json) |
+| Checkers Master | 147775 | [147775-checkers-master.json](./147775-checkers-master.json) |
 | Checkers Master | 346113 | [346113-checkers-master.json](./346113-checkers-master.json) |
 | Checkers Online | 225746 | [225746-checkers-online.json](./225746-checkers-online.json) |
 | Checkers Quest Bundle | 231068 | [231068-checkers-quest-bundle.json](./231068-checkers-quest-bundle.json) |
@@ -8708,6 +8709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect Four | 45935 | [45935-connect-four.json](./45935-connect-four.json) |
 | Connect Four / Perfection / Trouble | 77638 | [77638-connect-four-perfection-trouble.json](./77638-connect-four-perfection-trouble.json) |
 | Connect Four Cities | 73840 | [73840-connect-four-cities.json](./73840-connect-four-cities.json) |
+| Connect It! | 147778 | [147778-connect-it.json](./147778-connect-it.json) |
 | Connect Lines | 399781 | [399781-connect-lines.json](./399781-connect-lines.json) |
 | Connect Lyrical Spectacle Forest | 258711 | [258711-connect-lyrical-spectacle-forest.json](./258711-connect-lyrical-spectacle-forest.json) |
 | Connect Master | 228115 | [228115-connect-master.json](./228115-connect-master.json) |
@@ -9279,6 +9281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Trip: New Challenge - Collector's Edition | 276299 | [276299-cooking-trip-new-challenge-collectors-edition.json](./276299-cooking-trip-new-challenge-collectors-edition.json) |
 | Cooking Truck | 227475 | [227475-cooking-truck.json](./227475-cooking-truck.json) |
 | Cooking Tycoons - 3 in 1 Bundle Upgrade Edition | 399815 | [399815-cooking-tycoons-3-in-1-bundle-upgrade-edition.json](./399815-cooking-tycoons-3-in-1-bundle-upgrade-edition.json) |
+| Cooking Tycoons 2: 3 in 1 Bundle | 147777 | [147777-cooking-tycoons-2-3-in-1-bundle.json](./147777-cooking-tycoons-2-3-in-1-bundle.json) |
 | Cooking Tycoons 3: 3 in 1 Bundle | 231045 | [231045-cooking-tycoons-3-3-in-1-bundle.json](./231045-cooking-tycoons-3-3-in-1-bundle.json) |
 | Cooking Tycoons: 3 in 1 Bundle - Extended Edition | 332511 | [332511-cooking-tycoons-3-in-1-bundle-extended-edition.json](./332511-cooking-tycoons-3-in-1-bundle-extended-edition.json) |
 | Cooking Tycoons: 3 in 1 Bundle - Premium Edition | 396916 | [396916-cooking-tycoons-3-in-1-bundle-premium-edition.json](./396916-cooking-tycoons-3-in-1-bundle-premium-edition.json) |
@@ -10695,6 +10698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Bike | 412995 | [412995-crazy-bike.json](./412995-crazy-bike.json) |
 | Crazy Bikers 2 | 94883 | [94883-crazy-bikers-2.json](./94883-crazy-bikers-2.json) |
 | Crazy Bill: Smashing Zelebrities at the Zombie Stars Hotel | 175875 | [175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json](./175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json) |
+| Crazy BMX World | 147780 | [147780-crazy-bmx-world.json](./147780-crazy-bmx-world.json) |
 | Crazy Boom | 147386 | [147386-crazy-boom.json](./147386-crazy-boom.json) |
 | Crazy Boss | 238401 | [238401-crazy-boss.json](./238401-crazy-boss.json) |
 | Crazy Bowling | 96840 | [96840-crazy-bowling.json](./96840-crazy-bowling.json) |
