@@ -12364,9 +12364,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Park: Snow Day! - To Danse with the Veiled Horde | 316258 | [316258-south-park-snow-day-to-danse-with-the-veiled-horde.json](./316258-south-park-snow-day-to-danse-with-the-veiled-horde.json) |
 | South Park: Tenorman's Revenge | 1261 | [1261-south-park-tenormans-revenge.json](./1261-south-park-tenormans-revenge.json) |
 | South Park: The Fractured but Whole - Collector's Edition | 11003 | [11003-south-park-the-fractured-but-whole-collectors-edition.json](./11003-south-park-the-fractured-but-whole-collectors-edition.json) |
+| South Park: The Fractured But Whole - Danger Deck | 153697 | [153697-south-park-the-fractured-but-whole-danger-deck.json](./153697-south-park-the-fractured-but-whole-danger-deck.json) |
 | South Park: The Fractured But Whole - From Dusk Till Casa Bonita | 96134 | [96134-south-park-the-fractured-but-whole-from-dusk-till-casa-bonita.json](./96134-south-park-the-fractured-but-whole-from-dusk-till-casa-bonita.json) |
 | South Park: The Fractured But Whole - Relics of Zaron | 74745 | [74745-south-park-the-fractured-but-whole-relics-of-zaron.json](./74745-south-park-the-fractured-but-whole-relics-of-zaron.json) |
 | South Park: The Fractured but Whole - Remote Control Coon Mobile Bundle | 7394 | [7394-south-park-the-fractured-but-whole-remote-control-coon-mobile-bundle.json](./7394-south-park-the-fractured-but-whole-remote-control-coon-mobile-bundle.json) |
+| South Park: The Fractured But Whole - Towelie: Your Gaming Bud | 153698 | [153698-south-park-the-fractured-but-whole-towelie-your-gaming-bud.json](./153698-south-park-the-fractured-but-whole-towelie-your-gaming-bud.json) |
 | South Park: The Stick of Truth - Super Samurai Spaceman Pack | 74744 | [74744-south-park-the-stick-of-truth-super-samurai-spaceman-pack.json](./74744-south-park-the-stick-of-truth-super-samurai-spaceman-pack.json) |
 | South Park: The Stick of Truth - Ultimate Fellowship Pack | 74743 | [74743-south-park-the-stick-of-truth-ultimate-fellowship-pack.json](./74743-south-park-the-stick-of-truth-ultimate-fellowship-pack.json) |
 | South Pole Bebop | 298875 | [298875-south-pole-bebop.json](./298875-south-pole-bebop.json) |
