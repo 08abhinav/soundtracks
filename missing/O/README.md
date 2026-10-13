@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obsidian Conflict | 142407 | [142407-obsidian-conflict.json](./142407-obsidian-conflict.json) |
 | Obsidian Crown | 124164 | [124164-obsidian-crown.json](./124164-obsidian-crown.json) |
 | Obsidienne | 185120 | [185120-obsidienne.json](./185120-obsidienne.json) |
+| Obsolete | 142804 | [142804-obsolete.json](./142804-obsolete.json) |
 | Obsolete | 184488 | [184488-obsolete.json](./184488-obsolete.json) |
 | Obsolete Friends | 403151 | [403151-obsolete-friends.json](./403151-obsolete-friends.json) |
 | Obsolete: After the Accident | 319891 | [319891-obsolete-after-the-accident.json](./319891-obsolete-after-the-accident.json) |
