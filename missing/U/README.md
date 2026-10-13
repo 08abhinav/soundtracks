@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbral Omen | 212837 | [212837-umbral-omen.json](./212837-umbral-omen.json) |
 | UmbraNet | 388359 | [388359-umbranet.json](./388359-umbranet.json) |
 | Umbraseal | 120928 | [120928-umbraseal.json](./120928-umbraseal.json) |
+| Umbrella Basketball | 174595 | [174595-umbrella-basketball.json](./174595-umbrella-basketball.json) |
 | Umbrella Corps | 12530 | [12530-umbrella-corps.json](./12530-umbrella-corps.json) |
 | Umbrella Escape | 230915 | [230915-umbrella-escape.json](./230915-umbrella-escape.json) |
 | Umbrella Girl | 279545 | [279545-umbrella-girl.json](./279545-umbrella-girl.json) |
