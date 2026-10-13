@@ -6133,6 +6133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Campaign | 92111 | [92111-planetary-campaign.json](./92111-planetary-campaign.json) |
 | Planetary Control! | 149888 | [149888-planetary-control.json](./149888-planetary-control.json) |
 | Planetary Defense | 164862 | [164862-planetary-defense.json](./164862-planetary-defense.json) |
+| Planetary Defense Duel | 143416 | [143416-planetary-defense-duel.json](./143416-planetary-defense-duel.json) |
 | Planetary Defense Force | 129787 | [129787-planetary-defense-force.json](./129787-planetary-defense-force.json) |
 | Planetary Defense: An Orbital Turret Defense System | 210846 | [210846-planetary-defense-an-orbital-turret-defense-system.json](./210846-planetary-defense-an-orbital-turret-defense-system.json) |
 | Planetary Deliver | 188929 | [188929-planetary-deliver.json](./188929-planetary-deliver.json) |
@@ -9453,6 +9454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia Retro | 284854 | [284854-prince-of-persia-retro.json](./284854-prince-of-persia-retro.json) |
 | Prince of Persia Trilogy | 44706 | [44706-prince-of-persia-trilogy.json](./44706-prince-of-persia-trilogy.json) |
 | Prince of Persia Trilogy: Limited Edition | 43430 | [43430-prince-of-persia-trilogy-limited-edition.json](./43430-prince-of-persia-trilogy-limited-edition.json) |
+| Prince of Persia: Arabian Nights | 143442 | [143442-prince-of-persia-arabian-nights.json](./143442-prince-of-persia-arabian-nights.json) |
 | Prince of Persia: Epilogue | 142472 | [142472-prince-of-persia-epilogue.json](./142472-prince-of-persia-epilogue.json) |
 | Prince of Persia: Escape | 320136 | [320136-prince-of-persia-escape.json](./320136-prince-of-persia-escape.json) |
 | Prince of Persia: Evolution | 214715 | [214715-prince-of-persia-evolution.json](./214715-prince-of-persia-evolution.json) |
@@ -9730,6 +9732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prisoners | 285470 | [285470-prisoners.json](./285470-prisoners.json) |
 | Prisoners Chess | 416713 | [416713-prisoners-chess.json](./416713-prisoners-chess.json) |
 | Prisoners of Ulag'Bol | 333358 | [333358-prisoners-of-ulagbol.json](./333358-prisoners-of-ulagbol.json) |
+| Prisonnier II | 143437 | [143437-prisonnier-ii.json](./143437-prisonnier-ii.json) |
 | Prisonscape | 61560 | [61560-prisonscape.json](./61560-prisonscape.json) |
 | PrisonSoul: Reunion | 296456 | [296456-prisonsoul-reunion.json](./296456-prisonsoul-reunion.json) |
 | Prisseceal, the Dazzling-and-Flaring Peach Princess | 236277 | [236277-prisseceal-the-dazzling-and-flaring-peach-princess.json](./236277-prisseceal-the-dazzling-and-flaring-peach-princess.json) |
@@ -10435,6 +10438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project One | 118347 | [118347-project-one.json](./118347-project-one.json) |
 | Project One-Room | 68363 | [68363-project-one-room.json](./68363-project-one-room.json) |
 | Project Onne | 400283 | [400283-project-onne.json](./400283-project-onne.json) |
+| Project Onyx | 143438 | [143438-project-onyx.json](./143438-project-onyx.json) |
 | Project Otherside | 265307 | [265307-project-otherside.json](./265307-project-otherside.json) |
 | Project Overdrive | 186140 | [186140-project-overdrive.json](./186140-project-overdrive.json) |
 | Project Overkill | 20804 | [20804-project-overkill.json](./20804-project-overkill.json) |
