@@ -3492,6 +3492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West: The Last Cowboy | 372534 | [372534-wild-west-the-last-cowboy.json](./372534-wild-west-the-last-cowboy.json) |
 | Wild Western | 18060 | [18060-wild-western.json](./18060-wild-western.json) |
 | Wild Wheels | 59968 | [59968-wild-wheels.json](./59968-wild-wheels.json) |
+| Wild Wild Chess | 157918 | [157918-wild-wild-chess.json](./157918-wild-wild-chess.json) |
 | Wild Wild Eden | 265308 | [265308-wild-wild-eden.json](./265308-wild-wild-eden.json) |
 | Wild Wild Space | 264520 | [264520-wild-wild-space.json](./264520-wild-wild-space.json) |
 | Wild Wild West: The Steel Assassin | 201075 | [201075-wild-wild-west-the-steel-assassin.json](./201075-wild-wild-west-the-steel-assassin.json) |
