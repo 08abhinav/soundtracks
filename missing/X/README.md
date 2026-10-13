@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xxxy | 184861 | [184861-xxxy.json](./184861-xxxy.json) |
 | XXZ | 55272 | [55272-xxz.json](./55272-xxz.json) |
 | XXZ: XXL | 149917 | [149917-xxz-xxl.json](./149917-xxz-xxl.json) |
+| XXZ: XXL - Dead Souls | 155389 | [155389-xxz-xxl-dead-souls.json](./155389-xxz-xxl-dead-souls.json) |
 | XXZ: XXL - Dead Souls Trial | 170505 | [170505-xxz-xxl-dead-souls-trial.json](./170505-xxz-xxl-dead-souls-trial.json) |
 | XXZ: XXL - Rush | 170506 | [170506-xxz-xxl-rush.json](./170506-xxz-xxl-rush.json) |
 | XXZ: XXL - Squad | 170508 | [170508-xxz-xxl-squad.json](./170508-xxz-xxl-squad.json) |
