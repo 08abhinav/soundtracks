@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GAI Stops Auto: Right Version Simulator | 157125 | [157125-gai-stops-auto-right-version-simulator.json](./157125-gai-stops-auto-right-version-simulator.json) |
 | Gaia | 298270 | [298270-gaia.json](./298270-gaia.json) |
 | Gaia | 385392 | [385392-gaia.json](./385392-gaia.json) |
+| Gaia 2: Ancient Mysteries | 151486 | [151486-gaia-2-ancient-mysteries.json](./151486-gaia-2-ancient-mysteries.json) |
 | Gaia 2200 | 50530 | [50530-gaia-2200.json](./50530-gaia-2200.json) |
 | Gaia Attack 4 | 64962 | [64962-gaia-attack-4.json](./64962-gaia-attack-4.json) |
 | Gaia Aura | 327266 | [327266-gaia-aura.json](./327266-gaia-aura.json) |
@@ -1139,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garage Ninja | 163764 | [163764-garage-ninja.json](./163764-garage-ninja.json) |
 | Garage Sale | 245999 | [245999-garage-sale.json](./245999-garage-sale.json) |
 | Garage Works | 278417 | [278417-garage-works.json](./278417-garage-works.json) |
+| Garage: Bad Dream Adventure | 152048 | [152048-garage-bad-dream-adventure.json](./152048-garage-bad-dream-adventure.json) |
 | Garage: Bad Dream Adventure | 24947 | [24947-garage-bad-dream-adventure.json](./24947-garage-bad-dream-adventure.json) |
 | Garagem SA | 345628 | [345628-garagem-sa.json](./345628-garagem-sa.json) |
 | Garaku Tale | 122882 | [122882-garaku-tale.json](./122882-garaku-tale.json) |
@@ -2229,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gestures Towards Divinity | 393510 | [393510-gestures-towards-divinity.json](./393510-gestures-towards-divinity.json) |
 | Gestüt: Ein Leben für die Pferde | 136369 | [136369-gestut-ein-leben-fur-die-pferde.json](./136369-gestut-ein-leben-fur-die-pferde.json) |
 | Gesuido | 166516 | [166516-gesuido.json](./166516-gesuido.json) |
+| Get a Life | 151466 | [151466-get-a-life.json](./151466-get-a-life.json) |
 | Get Acc_E55 | 186586 | [186586-get-acc-e55.json](./186586-get-acc-e55.json) |
 | Get Achievements for Achievements | 188527 | [188527-get-achievements-for-achievements.json](./188527-get-achievements-for-achievements.json) |
 | Get Away From The Cube | 335678 | [335678-get-away-from-the-cube.json](./335678-get-away-from-the-cube.json) |
@@ -3896,6 +3899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God's Trigger: O.M.G. Edition | 154548 | [154548-gods-trigger-o-m-g-edition.json](./154548-gods-trigger-o-m-g-edition.json) |
 | God(s) | 128433 | [128433-god-s.json](./128433-god-s.json) |
 | God5 | 174763 | [174763-god5.json](./174763-god5.json) |
+| Godball | 152043 | [152043-godball.json](./152043-godball.json) |
 | Godbeast Mk.II | 191219 | [191219-godbeast-mk-ii.json](./191219-godbeast-mk-ii.json) |
 | Godblade | 419986 | [419986-godblade.json](./419986-godblade.json) |
 | Godbreakers | 358248 | [358248-godbreakers.json](./358248-godbreakers.json) |
