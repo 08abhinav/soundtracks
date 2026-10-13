@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiketsu Yanchamaru | 40216 | [40216-kaiketsu-yanchamaru.json](./40216-kaiketsu-yanchamaru.json) |
 | Kaiketsu Yanchamaru 3: Taiketsu! Zouringen | 66050 | [66050-kaiketsu-yanchamaru-3-taiketsu-zouringen.json](./66050-kaiketsu-yanchamaru-3-taiketsu-zouringen.json) |
 | Kaiketsu Zorori: Mezase! Itazura King | 307269 | [307269-kaiketsu-zorori-mezase-itazura-king.json](./307269-kaiketsu-zorori-mezase-itazura-king.json) |
+| Kaiketsu! Nekoashi Otome-chan | 147223 | [147223-kaiketsu-nekoashi-otome-chan.json](./147223-kaiketsu-nekoashi-otome-chan.json) |
 | Kaiki Gensou Yumemonogatari: Kaijuu Kitan Ouja-den | 110137 | [110137-kaiki-gensou-yumemonogatari-kaijuu-kitan-ouja-den.json](./110137-kaiki-gensou-yumemonogatari-kaijuu-kitan-ouja-den.json) |
 | Kaiki Sando | 282243 | [282243-kaiki-sando.json](./282243-kaiki-sando.json) |
 | Kaiki: Okujou no Yuurei to Akuma no Gishiki | 283853 | [283853-kaiki-okujou-no-yuurei-to-akuma-no-gishiki.json](./283853-kaiki-okujou-no-yuurei-to-akuma-no-gishiki.json) |
@@ -2806,6 +2807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klondike Solitaire - Classic Deck Card Games | 91153 | [91153-klondike-solitaire-classic-deck-card-games.json](./91153-klondike-solitaire-classic-deck-card-games.json) |
 | Klondike Solitaire 2018 | 89235 | [89235-klondike-solitaire-2018.json](./89235-klondike-solitaire-2018.json) |
 | Klondike Solitaire 2019 | 138109 | [138109-klondike-solitaire-2019.json](./138109-klondike-solitaire-2019.json) |
+| Klondike Solitaire Collection | 147206 | [147206-klondike-solitaire-collection.json](./147206-klondike-solitaire-collection.json) |
 | Klondike Solitaire Gold | 146914 | [146914-klondike-solitaire-gold.json](./146914-klondike-solitaire-gold.json) |
 | Klondike Solitaire Pro | 391349 | [391349-klondike-solitaire-pro.json](./391349-klondike-solitaire-pro.json) |
 | Klondike's Hike | 321479 | [321479-klondikes-hike.json](./321479-klondikes-hike.json) |
