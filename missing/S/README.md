@@ -3694,6 +3694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Separium: 12th Elevator | 336541 | [336541-separium-12th-elevator.json](./336541-separium-12th-elevator.json) |
 | Sepas Channel | 100270 | [100270-sepas-channel.json](./100270-sepas-channel.json) |
 | Sephiria | 278379 | [278379-sephiria.json](./278379-sephiria.json) |
+| Sephonie | 144724 | [144724-sephonie.json](./144724-sephonie.json) |
 | Sepia | 257287 | [257287-sepia.json](./257287-sepia.json) |
 | Sepium | 390240 | [390240-sepium.json](./390240-sepium.json) |
 | Sept Jours, Sept Lieux, Sept Vies | 151284 | [151284-sept-jours-sept-lieux-sept-vies.json](./151284-sept-jours-sept-lieux-sept-vies.json) |
@@ -8574,6 +8575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleep Aid | 414413 | [414413-sleep-aid.json](./414413-sleep-aid.json) |
 | Sleep and Girls | 365272 | [365272-sleep-and-girls.json](./365272-sleep-and-girls.json) |
 | Sleep Clock: Record and Analyse Your Sleep Patterns | 84883 | [84883-sleep-clock-record-and-analyse-your-sleep-patterns.json](./84883-sleep-clock-record-and-analyse-your-sleep-patterns.json) |
+| Sleep Cycles | 144742 | [144742-sleep-cycles.json](./144742-sleep-cycles.json) |
 | Sleep Is Death | 20664 | [20664-sleep-is-death.json](./20664-sleep-is-death.json) |
 | Sleep Paralysis | 121564 | [121564-sleep-paralysis.json](./121564-sleep-paralysis.json) |
 | Sleep Paralysis: The Uncanny Valley | 196876 | [196876-sleep-paralysis-the-uncanny-valley.json](./196876-sleep-paralysis-the-uncanny-valley.json) |
