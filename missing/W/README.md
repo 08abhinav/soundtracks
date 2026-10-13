@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walking on Ice | 343242 | [343242-walking-on-ice.json](./343242-walking-on-ice.json) |
 | Walking Simulator | 128376 | [128376-walking-simulator.json](./128376-walking-simulator.json) |
 | Walking Simulator | 188052 | [188052-walking-simulator.json](./188052-walking-simulator.json) |
+| Walking Tourist | 134935 | [134935-walking-tourist.json](./134935-walking-tourist.json) |
 | Walking With Beasts: Operation Salvage | 147898 | [147898-walking-with-beasts-operation-salvage.json](./147898-walking-with-beasts-operation-salvage.json) |
 | Walking-Race | 247053 | [247053-walking-race.json](./247053-walking-race.json) |
 | Walkover | 35787 | [35787-walkover.json](./35787-walkover.json) |
@@ -850,6 +851,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warehuman | 201685 | [201685-warehuman.json](./201685-warehuman.json) |
 | Warera Mitsurin Tankentai!! | 179034 | [179034-warera-mitsurin-tankentai.json](./179034-warera-mitsurin-tankentai.json) |
 | Warf | 262881 | [262881-warf.json](./262881-warf.json) |
+| Warface: Breakout | 134365 | [134365-warface-breakout.json](./134365-warface-breakout.json) |
+| Warface: Breakout - Deluxe Edition | 134366 | [134366-warface-breakout-deluxe-edition.json](./134366-warface-breakout-deluxe-edition.json) |
 | Warface: Chernobyl | 114759 | [114759-warface-chernobyl.json](./114759-warface-chernobyl.json) |
 | Warface: Clutch | 284415 | [284415-warface-clutch.json](./284415-warface-clutch.json) |
 | Warface: Complete Tournament Pack | 226890 | [226890-warface-complete-tournament-pack.json](./226890-warface-complete-tournament-pack.json) |
@@ -1711,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Runner | 39794 | [39794-wave-runner.json](./39794-wave-runner.json) |
 | Wave Scanner | 352836 | [352836-wave-scanner.json](./352836-wave-scanner.json) |
 | Wave Shark | 142397 | [142397-wave-shark.json](./142397-wave-shark.json) |
+| Wave to the People | 134943 | [134943-wave-to-the-people.json](./134943-wave-to-the-people.json) |
 | Wave Wave | 62018 | [62018-wave-wave.json](./62018-wave-wave.json) |
 | Wave Weaver | 289899 | [289899-wave-weaver.json](./289899-wave-weaver.json) |
 | Wave_Machine | 186055 | [186055-wave-machine.json](./186055-wave-machine.json) |
@@ -2834,6 +2838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where the Stars Brought Us | 201549 | [201549-where-the-stars-brought-us.json](./201549-where-the-stars-brought-us.json) |
 | Where the Sun Always Shines | 401730 | [401730-where-the-sun-always-shines.json](./401730-where-the-sun-always-shines.json) |
 | Where the Two Flowers Meet | 267586 | [267586-where-the-two-flowers-meet.json](./267586-where-the-two-flowers-meet.json) |
+| Where the Water Tastes Like Wine: Xbox Edition | 134369 | [134369-where-the-water-tastes-like-wine-xbox-edition.json](./134369-where-the-water-tastes-like-wine-xbox-edition.json) |
 | Where the Wild Things Are | 5278 | [5278-where-the-wild-things-are.json](./5278-where-the-wild-things-are.json) |
 | Where there once was sand | 315802 | [315802-where-there-once-was-sand.json](./315802-where-there-once-was-sand.json) |
 | Where They Cremate the Roadkill | 68184 | [68184-where-they-cremate-the-roadkill.json](./68184-where-they-cremate-the-roadkill.json) |
@@ -4130,6 +4135,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WireWalking | 284836 | [284836-wirewalking.json](./284836-wirewalking.json) |
 | Wirtschaftsgiganten | 98968 | [98968-wirtschaftsgiganten.json](./98968-wirtschaftsgiganten.json) |
 | Wisdom | 149196 | [149196-wisdom.json](./149196-wisdom.json) |
+| Wisdom Tree Collection | 134347 | [134347-wisdom-tree-collection.json](./134347-wisdom-tree-collection.json) |
+| Wisdom Tree GBA Collection | 134349 | [134349-wisdom-tree-gba-collection.json](./134349-wisdom-tree-gba-collection.json) |
+| Wisdom Tree Sega Genesis Collection | 134348 | [134348-wisdom-tree-sega-genesis-collection.json](./134348-wisdom-tree-sega-genesis-collection.json) |
 | Wisdom Watcher | 262854 | [262854-wisdom-watcher.json](./262854-wisdom-watcher.json) |
 | WisdomGems | 310091 | [310091-wisdomgems.json](./310091-wisdomgems.json) |
 | Wise Escape From Prison | 368022 | [368022-wise-escape-from-prison.json](./368022-wise-escape-from-prison.json) |
@@ -5006,6 +5014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Scores | 344355 | [344355-word-scores.json](./344355-word-scores.json) |
 | Word Scramble | 87551 | [87551-word-scramble.json](./87551-word-scramble.json) |
 | Word Search | 133777 | [133777-word-search.json](./133777-word-search.json) |
+| Word Search | 134932 | [134932-word-search.json](./134932-word-search.json) |
 | Word Search - Puzzle Game For Kids | 108507 | [108507-word-search-puzzle-game-for-kids.json](./108507-word-search-puzzle-game-for-kids.json) |
 | Word Search & Learn | 233741 | [233741-word-search-and-learn.json](./233741-word-search-and-learn.json) |
 | Word Search 10K | 84964 | [84964-word-search-10k.json](./84964-word-search-10k.json) |
