@@ -933,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted 4: A Thief's End - Remastered | 168668 | [168668-uncharted-4-a-thiefs-end-remastered.json](./168668-uncharted-4-a-thiefs-end-remastered.json) |
 | Uncharted 4: A Thief's End Libertalia Collector's Edition | 41879 | [41879-uncharted-4-a-thiefs-end-libertalia-collectors-edition.json](./41879-uncharted-4-a-thiefs-end-libertalia-collectors-edition.json) |
 | Uncharted 4: A Thief's End Special Edition | 41874 | [41874-uncharted-4-a-thiefs-end-special-edition.json](./41874-uncharted-4-a-thiefs-end-special-edition.json) |
+| Uncharted Dual Pack | 145385 | [145385-uncharted-dual-pack.json](./145385-uncharted-dual-pack.json) |
 | Uncharted Island | 208954 | [208954-uncharted-island.json](./208954-uncharted-island.json) |
 | Uncharted Ocean 2 | 231293 | [231293-uncharted-ocean-2.json](./231293-uncharted-ocean-2.json) |
 | Uncharted Ocean: Adventures at the Poles | 262097 | [262097-uncharted-ocean-adventures-at-the-poles.json](./262097-uncharted-ocean-adventures-at-the-poles.json) |
@@ -1418,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfinished 2 | 338589 | [338589-unfinished-2.json](./338589-unfinished-2.json) |
 | Unfinished Battle | 89389 | [89389-unfinished-battle.json](./89389-unfinished-battle.json) |
 | Unfolded Cube | 295321 | [295321-unfolded-cube.json](./295321-unfolded-cube.json) |
+| Unfolded: Camellia Tales | 146049 | [146049-unfolded-camellia-tales.json](./146049-unfolded-camellia-tales.json) |
 | Unforgettable | 349986 | [349986-unforgettable.json](./349986-unforgettable.json) |
 | Unforgettable You | 147231 | [147231-unforgettable-you.json](./147231-unforgettable-you.json) |
 | Unforgivable | 341116 | [341116-unforgivable.json](./341116-unforgivable.json) |
