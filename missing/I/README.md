@@ -3015,6 +3015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insiders | 155024 | [155024-insiders.json](./155024-insiders.json) |
 | Insiders | 377952 | [377952-insiders.json](./377952-insiders.json) |
 | Insiders 2: Eve ga Inai | 377953 | [377953-insiders-2-eve-ga-inai.json](./377953-insiders-2-eve-ga-inai.json) |
+| Insight | 175657 | [175657-insight.json](./175657-insight.json) |
 | Insight | 302670 | [302670-insight.json](./302670-insight.json) |
 | InSight | 302955 | [302955-insight.json](./302955-insight.json) |
 | Insignia | 152232 | [152232-insignia.json](./152232-insignia.json) |
@@ -3263,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Rally Championship | 50210 | [50210-international-rally-championship.json](./50210-international-rally-championship.json) |
 | International Rugby Challenge | 73281 | [73281-international-rugby-challenge.json](./73281-international-rugby-challenge.json) |
 | International Sensible Soccer | 40808 | [40808-international-sensible-soccer.json](./40808-international-sensible-soccer.json) |
+| International Snooker: Challenges | 175857 | [175857-international-snooker-challenges.json](./175857-international-snooker-challenges.json) |
 | International Soccer | 201305 | [201305-international-soccer.json](./201305-international-soccer.json) |
 | International Soccer | 320986 | [320986-international-soccer.json](./320986-international-soccer.json) |
 | International Speedway | 369129 | [369129-international-speedway.json](./369129-international-speedway.json) |
@@ -3332,6 +3334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstate Cowboys | 292322 | [292322-interstate-cowboys.json](./292322-interstate-cowboys.json) |
 | Interstate Drifter 1999 | 141776 | [141776-interstate-drifter-1999.json](./141776-interstate-drifter-1999.json) |
 | Interstate Drifter 1999: Hyperdrive | 296936 | [296936-interstate-drifter-1999-hyperdrive.json](./296936-interstate-drifter-1999-hyperdrive.json) |
+| Interstellar Airgap | 175641 | [175641-interstellar-airgap.json](./175641-interstellar-airgap.json) |
 | Interstellar Connection | 183013 | [183013-interstellar-connection.json](./183013-interstellar-connection.json) |
 | Interstellar Conquest | 238582 | [238582-interstellar-conquest.json](./238582-interstellar-conquest.json) |
 | Interstellar Dragon: Into the depths... of space! | 374670 | [374670-interstellar-dragon-into-the-depths-of-space.json](./374670-interstellar-dragon-into-the-depths-of-space.json) |
