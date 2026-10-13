@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kabuki Rocks | 37971 | [37971-kabuki-rocks.json](./37971-kabuki-rocks.json) |
 | Kabuki Warriors | 5873 | [5873-kabuki-warriors.json](./5873-kabuki-warriors.json) |
 | Kabuki-chou Reach Mahjong: Toupuusen | 42630 | [42630-kabuki-chou-reach-mahjong-toupuusen.json](./42630-kabuki-chou-reach-mahjong-toupuusen.json) |
+| Kabuki-Z | 146076 | [146076-kabuki-z.json](./146076-kabuki-z.json) |
 | Kabuki: Quantum Fighter | 27623 | [27623-kabuki-quantum-fighter.json](./27623-kabuki-quantum-fighter.json) |
 | Kabushiki Baibai Trainer Kabutore | 72977 | [72977-kabushiki-baibai-trainer-kabutore.json](./72977-kabushiki-baibai-trainer-kabutore.json) |
 | Kabuto | 239776 | [239776-kabuto.json](./239776-kabuto.json) |
@@ -2207,6 +2208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Ka | 134601 | [134601-kingdom-ka.json](./134601-kingdom-ka.json) |
 | Kingdom Loop | 335285 | [335285-kingdom-loop.json](./335285-kingdom-loop.json) |
 | Kingdom Majestic | 136344 | [136344-kingdom-majestic.json](./136344-kingdom-majestic.json) |
+| Kingdom Majestic: Limited Edition | 146040 | [146040-kingdom-majestic-limited-edition.json](./146040-kingdom-majestic-limited-edition.json) |
 | Kingdom of Arcana | 292320 | [292320-kingdom-of-arcana.json](./292320-kingdom-of-arcana.json) |
 | Kingdom of Assetia: The Clicker Game | 166621 | [166621-kingdom-of-assetia-the-clicker-game.json](./166621-kingdom-of-assetia-the-clicker-game.json) |
 | Kingdom of Asteborg | 330227 | [330227-kingdom-of-asteborg.json](./330227-kingdom-of-asteborg.json) |
