@@ -3504,6 +3504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Foe | 153955 | [153955-final-foe.json](./153955-final-foe.json) |
 | Final Football Tactics | 182152 | [182152-final-football-tactics.json](./182152-final-football-tactics.json) |
 | Final Forge | 244296 | [244296-final-forge.json](./244296-final-forge.json) |
+| Final Frame | 133159 | [133159-final-frame.json](./133159-final-frame.json) |
 | Final Freeway | 257369 | [257369-final-freeway.json](./257369-final-freeway.json) |
 | Final Frog | 301399 | [301399-final-frog.json](./301399-final-frog.json) |
 | Final Front: Enobetta | 174690 | [174690-final-front-enobetta.json](./174690-final-front-enobetta.json) |
