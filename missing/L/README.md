@@ -5267,6 +5267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Blue 3 | 21361 | [21361-lost-in-blue-3.json](./21361-lost-in-blue-3.json) |
 | Lost in Cairo | 284909 | [284909-lost-in-cairo.json](./284909-lost-in-cairo.json) |
 | Lost in Darklight | 250481 | [250481-lost-in-darklight.json](./250481-lost-in-darklight.json) |
+| Lost in Dungeon | 158406 | [158406-lost-in-dungeon.json](./158406-lost-in-dungeon.json) |
 | Lost In Failures | 291093 | [291093-lost-in-failures.json](./291093-lost-in-failures.json) |
 | Lost In Fantaland | 157064 | [157064-lost-in-fantaland.json](./157064-lost-in-fantaland.json) |
 | Lost in Harmony | 58892 | [58892-lost-in-harmony.json](./58892-lost-in-harmony.json) |
@@ -6332,6 +6333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumo Idle Park | 400291 | [400291-lumo-idle-park.json](./400291-lumo-idle-park.json) |
 | Lumo's Cat | 14303 | [14303-lumos-cat.json](./14303-lumos-cat.json) |
 | Lump Jump | 204994 | [204994-lump-jump.json](./204994-lump-jump.json) |
+| Lumpy | 158407 | [158407-lumpy.json](./158407-lumpy.json) |
 | Luna | 120154 | [120154-luna.json](./120154-luna.json) |
 | Luna | 172058 | [172058-luna.json](./172058-luna.json) |
 | Luna | 197624 | [197624-luna.json](./197624-luna.json) |
