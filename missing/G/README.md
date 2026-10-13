@@ -2543,6 +2543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Stories | 119035 | [119035-ghost-stories.json](./119035-ghost-stories.json) |
 | Ghost Stories | 200443 | [200443-ghost-stories.json](./200443-ghost-stories.json) |
 | Ghost Stories 2 | 150607 | [150607-ghost-stories-2.json](./150607-ghost-stories-2.json) |
+| Ghost Story | 135572 | [135572-ghost-story.json](./135572-ghost-story.json) |
 | Ghost Story | 184585 | [184585-ghost-story.json](./184585-ghost-story.json) |
 | Ghost Story | 311269 | [311269-ghost-story.json](./311269-ghost-story.json) |
 | Ghost Strike | 410384 | [410384-ghost-strike.json](./410384-ghost-strike.json) |
@@ -3885,6 +3886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of War: Ascension - Special Edition | 44664 | [44664-god-of-war-ascension-special-edition.json](./44664-god-of-war-ascension-special-edition.json) |
 | God of War: Ascension - Ultimate Edition | 118907 | [118907-god-of-war-ascension-ultimate-edition.json](./118907-god-of-war-ascension-ultimate-edition.json) |
 | God of War: Betrayal | 21233 | [21233-god-of-war-betrayal.json](./21233-god-of-war-betrayal.json) |
+| God of War: Bonus Edition | 136128 | [136128-god-of-war-bonus-edition.json](./136128-god-of-war-bonus-edition.json) |
 | God of War: Collector's Edition | 83824 | [83824-god-of-war-collectors-edition.json](./83824-god-of-war-collectors-edition.json) |
 | God of War: Digital Deluxe Edition | 83825 | [83825-god-of-war-digital-deluxe-edition.json](./83825-god-of-war-digital-deluxe-edition.json) |
 | God of War: Ghost of Sparta | 224438 | [224438-god-of-war-ghost-of-sparta.json](./224438-god-of-war-ghost-of-sparta.json) |
@@ -4024,10 +4026,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godway: Only Up Simulator | 391134 | [391134-godway-only-up-simulator.json](./391134-godway-only-up-simulator.json) |
 | Godwreath: Chapter 1 | 384280 | [384280-godwreath-chapter-1.json](./384280-godwreath-chapter-1.json) |
 | GodWright | 414172 | [414172-godwright.json](./414172-godwright.json) |
+| Godzilla | 135594 | [135594-godzilla.json](./135594-godzilla.json) |
 | Godzilla | 75888 | [75888-godzilla.json](./75888-godzilla.json) |
 | Godzilla | 75892 | [75892-godzilla.json](./75892-godzilla.json) |
 | Godzilla | 77247 | [77247-godzilla.json](./77247-godzilla.json) |
 | Godzilla | 7744 | [7744-godzilla.json](./7744-godzilla.json) |
+| Godzilla and the Martians | 135573 | [135573-godzilla-and-the-martians.json](./135573-godzilla-and-the-martians.json) |
 | Godzilla Balls | 360118 | [360118-godzilla-balls.json](./360118-godzilla-balls.json) |
 | Godzilla Creepypasta | 143491 | [143491-godzilla-creepypasta.json](./143491-godzilla-creepypasta.json) |
 | Godzilla Defense Force | 119058 | [119058-godzilla-defense-force.json](./119058-godzilla-defense-force.json) |
@@ -4040,9 +4044,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla: Destroy All Monsters Melee Remastered | 404939 | [404939-godzilla-destroy-all-monsters-melee-remastered.json](./404939-godzilla-destroy-all-monsters-melee-remastered.json) |
 | Godzilla: Doki-doki Kaijuu-tou!! | 75890 | [75890-godzilla-doki-doki-kaijuu-tou.json](./75890-godzilla-doki-doki-kaijuu-tou.json) |
 | Godzilla: Domination! | 49298 | [49298-godzilla-domination.json](./49298-godzilla-domination.json) |
+| Godzilla: Kaiju Collection | 135560 | [135560-godzilla-kaiju-collection.json](./135560-godzilla-kaiju-collection.json) |
 | Godzilla: Save the Earth | 5847 | [5847-godzilla-save-the-earth.json](./5847-godzilla-save-the-earth.json) |
 | Godzilla: Save the Earth - Melee | 301492 | [301492-godzilla-save-the-earth-melee.json](./301492-godzilla-save-the-earth-melee.json) |
 | Godzilla: Smash 3 | 61983 | [61983-godzilla-smash-3.json](./61983-godzilla-smash-3.json) |
+| Godzilla: The Atomar Nightmare | 135595 | [135595-godzilla-the-atomar-nightmare.json](./135595-godzilla-the-atomar-nightmare.json) |
 | Godzilla: The Game | 8731 | [8731-godzilla-the-game.json](./8731-godzilla-the-game.json) |
 | Godzilla: The Series | 75893 | [75893-godzilla-the-series.json](./75893-godzilla-the-series.json) |
 | Goeland: Seagull Adventure | 292994 | [292994-goeland-seagull-adventure.json](./292994-goeland-seagull-adventure.json) |
@@ -4363,6 +4369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Odyssey 2 DX | 269003 | [269003-golf-odyssey-2-dx.json](./269003-golf-odyssey-2-dx.json) |
 | Golf Of America | 351647 | [351647-golf-of-america.json](./351647-golf-of-america.json) |
 | Golf of the Dead | 181705 | [181705-golf-of-the-dead.json](./181705-golf-of-the-dead.json) |
+| Golf on Mars | 135557 | [135557-golf-on-mars.json](./135557-golf-on-mars.json) |
 | Golf on the Moon | 126397 | [126397-golf-on-the-moon.json](./126397-golf-on-the-moon.json) |
 | Golf Party | 141741 | [141741-golf-party.json](./141741-golf-party.json) |
 | Golf Peaks | 107329 | [107329-golf-peaks.json](./107329-golf-peaks.json) |
@@ -6362,6 +6369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster: Wai Wai Party!!!! - Vocaloid Pack 9 | 283180 | [283180-groove-coaster-wai-wai-party-vocaloid-pack-9.json](./283180-groove-coaster-wai-wai-party-vocaloid-pack-9.json) |
 | Groove Coaster: Wai Wai Party!!!! - Wacca + Hardcore Tano*c Pack | 237881 | [237881-groove-coaster-wai-wai-party-wacca-hardcore-tano-c-pack.json](./237881-groove-coaster-wai-wai-party-wacca-hardcore-tano-c-pack.json) |
 | Groove Coaster: Wai Wai Party!!!!!: Hit Song + VTuber Pack 6 | 300944 | [300944-groove-coaster-wai-wai-party-hit-song-vtuber-pack-6.json](./300944-groove-coaster-wai-wai-party-hit-song-vtuber-pack-6.json) |
+| Groove Fit Kingdom! | 135720 | [135720-groove-fit-kingdom.json](./135720-groove-fit-kingdom.json) |
 | Groove Galaxy | 58280 | [58280-groove-galaxy.json](./58280-groove-galaxy.json) |
 | Groove Gunner | 112778 | [112778-groove-gunner.json](./112778-groove-gunner.json) |
 | Groove In The Grove | 376712 | [376712-groove-in-the-grove.json](./376712-groove-in-the-grove.json) |
