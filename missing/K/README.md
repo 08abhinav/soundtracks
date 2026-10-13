@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanji de Go Go! | 408220 | [408220-kanji-de-go-go.json](./408220-kanji-de-go-go.json) |
 | Kanji de Go! | 323962 | [323962-kanji-de-go.json](./323962-kanji-de-go.json) |
 | Kanji de Go! Shueisha Manga-sai | 329228 | [329228-kanji-de-go-shueisha-manga-sai.json](./329228-kanji-de-go-shueisha-manga-sai.json) |
+| Kanji Gakusei | 170043 | [170043-kanji-gakusei.json](./170043-kanji-gakusei.json) |
 | Kanji in Motion | 368288 | [368288-kanji-in-motion.json](./368288-kanji-in-motion.json) |
 | Kanji Kitchen: Learn Japanese | 266760 | [266760-kanji-kitchen-learn-japanese.json](./266760-kanji-kitchen-learn-japanese.json) |
 | Kanji no Owari! | 56450 | [56450-kanji-no-owari.json](./56450-kanji-no-owari.json) |
@@ -1010,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keepers of the Forest | 228085 | [228085-keepers-of-the-forest.json](./228085-keepers-of-the-forest.json) |
 | Keepers of the Keep | 346693 | [346693-keepers-of-the-keep.json](./346693-keepers-of-the-keep.json) |
 | Keepers Of The Lost Arts | 285465 | [285465-keepers-of-the-lost-arts.json](./285465-keepers-of-the-lost-arts.json) |
+| Keepers of the Trees | 169736 | [169736-keepers-of-the-trees.json](./169736-keepers-of-the-trees.json) |
 | Keeping It Shrimple | 236544 | [236544-keeping-it-shrimple.json](./236544-keeping-it-shrimple.json) |
 | Keepsake | 17243 | [17243-keepsake.json](./17243-keepsake.json) |
 | KeepShopkeeping | 108053 | [108053-keepshopkeeping.json](./108053-keepshopkeeping.json) |
@@ -3764,6 +3766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kselebox | 169978 | [169978-kselebox.json](./169978-kselebox.json) |
 | KSI Unleashed | 350371 | [350371-ksi-unleashed.json](./350371-ksi-unleashed.json) |
 | Ksiega Dzungli | 318486 | [318486-ksiega-dzungli.json](./318486-ksiega-dzungli.json) |
+| KTX-1 | 170044 | [170044-ktx-1.json](./170044-ktx-1.json) |
 | Ku Gyoku Den | 216761 | [216761-ku-gyoku-den.json](./216761-ku-gyoku-den.json) |
 | Ku: Shroud of the Morrigan | 16936 | [16936-ku-shroud-of-the-morrigan.json](./16936-ku-shroud-of-the-morrigan.json) |
 | Kuafu Chases the Sun | 367611 | [367611-kuafu-chases-the-sun.json](./367611-kuafu-chases-the-sun.json) |
@@ -3820,6 +3823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KuloNiku: Bowl Up! | 346735 | [346735-kuloniku-bowl-up.json](./346735-kuloniku-bowl-up.json) |
 | Kuma no Pooh-San: 100 Acre no Mori no Cooking Book | 130752 | [130752-kuma-no-pooh-san-100-acre-no-mori-no-cooking-book.json](./130752-kuma-no-pooh-san-100-acre-no-mori-no-cooking-book.json) |
 | Kuma no Puutarou: Takara Sagashi da Ohiri Game Battle! | 228600 | [228600-kuma-no-puutarou-takara-sagashi-da-ohiri-game-battle.json](./228600-kuma-no-puutarou-takara-sagashi-da-ohiri-game-battle.json) |
+| Kuma Story | 170046 | [170046-kuma-story.json](./170046-kuma-story.json) |
 | Kuma Sushi Bar | 200745 | [200745-kuma-sushi-bar.json](./200745-kuma-sushi-bar.json) |
 | Kuma\War | 23563 | [23563-kuma-war.json](./23563-kuma-war.json) |
 | Kumamaru Adventure | 297638 | [297638-kumamaru-adventure.json](./297638-kumamaru-adventure.json) |
