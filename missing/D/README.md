@@ -2902,6 +2902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Star | 12949 | [12949-death-star.json](./12949-death-star.json) |
 | Death Star Interceptor | 45334 | [45334-death-star-interceptor.json](./45334-death-star-interceptor.json) |
 | Death Star Prison Break | 178618 | [178618-death-star-prison-break.json](./178618-death-star-prison-break.json) |
+| Death Stare | 176220 | [176220-death-stare.json](./176220-death-stare.json) |
 | Death Stranding: Director's Cut - Digital Deluxe Edition | 407589 | [407589-death-stranding-directors-cut-digital-deluxe-edition.json](./407589-death-stranding-directors-cut-digital-deluxe-edition.json) |
 | Death Stranding: Higgs Variant | 386264 | [386264-death-stranding-higgs-variant.json](./386264-death-stranding-higgs-variant.json) |
 | Death Strike | 182918 | [182918-death-strike.json](./182918-death-strike.json) |
@@ -3315,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Realms | 92442 | [92442-deep-realms.json](./92442-deep-realms.json) |
 | Deep Research | 271493 | [271493-deep-research.json](./271493-deep-research.json) |
 | Deep Rest | 106395 | [106395-deep-rest.json](./106395-deep-rest.json) |
+| Deep Rift 9 | 176193 | [176193-deep-rift-9.json](./176193-deep-rift-9.json) |
 | Deep Rock Galactic: Biohazard Pack | 224174 | [224174-deep-rock-galactic-biohazard-pack.json](./224174-deep-rock-galactic-biohazard-pack.json) |
 | Deep Rock Galactic: Dark Future Pack | 224178 | [224178-deep-rock-galactic-dark-future-pack.json](./224178-deep-rock-galactic-dark-future-pack.json) |
 | Deep Rock Galactic: Decontaminator Pack | 289559 | [289559-deep-rock-galactic-decontaminator-pack.json](./289559-deep-rock-galactic-decontaminator-pack.json) |
@@ -11039,6 +11041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duality Paradox | 385566 | [385566-duality-paradox.json](./385566-duality-paradox.json) |
 | Duality Shift | 373109 | [373109-duality-shift.json](./373109-duality-shift.json) |
 | Duality ZF | 92062 | [92062-duality-zf.json](./92062-duality-zf.json) |
+| DualMania!: Universes Connect | 176389 | [176389-dualmania-universes-connect.json](./176389-dualmania-universes-connect.json) |
 | DualPenSports | 25179 | [25179-dualpensports.json](./25179-dualpensports.json) |
 | DualVerse86 | 373175 | [373175-dualverse86.json](./373175-dualverse86.json) |
 | Duàndāo Kè | 166674 | [166674-duandao-ke.json](./166674-duandao-ke.json) |
@@ -11475,6 +11478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Dad | 191832 | [191832-dungeon-dad.json](./191832-dungeon-dad.json) |
 | Dungeon Dan | 156028 | [156028-dungeon-dan.json](./156028-dungeon-dan.json) |
 | Dungeon Danger Traps 2 | 372543 | [372543-dungeon-danger-traps-2.json](./372543-dungeon-danger-traps-2.json) |
+| Dungeon Darkness | 176215 | [176215-dungeon-darkness.json](./176215-dungeon-darkness.json) |
 | Dungeon Dealer | 179064 | [179064-dungeon-dealer.json](./179064-dungeon-dealer.json) |
 | Dungeon Death | 190480 | [190480-dungeon-death.json](./190480-dungeon-death.json) |
 | Dungeon Deathball | 102922 | [102922-dungeon-deathball.json](./102922-dungeon-deathball.json) |
