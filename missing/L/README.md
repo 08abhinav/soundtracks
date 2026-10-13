@@ -829,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Escort: Kokuchou Special Night | 220567 | [220567-last-escort-kokuchou-special-night.json](./220567-last-escort-kokuchou-special-night.json) |
 | Last Escort: Shin'ya no Kokuchou Monogatari | 220566 | [220566-last-escort-shinya-no-kokuchou-monogatari.json](./220566-last-escort-shinya-no-kokuchou-monogatari.json) |
 | Last Evil | 135638 | [135638-last-evil.json](./135638-last-evil.json) |
+| Last Fantasy Hentai | 149388 | [149388-last-fantasy-hentai.json](./149388-last-fantasy-hentai.json) |
 | Last Fishing: Monster Clash | 220208 | [220208-last-fishing-monster-clash.json](./220208-last-fishing-monster-clash.json) |
 | Last Flag | 347665 | [347665-last-flag.json](./347665-last-flag.json) |
 | Last Flame | 181733 | [181733-last-flame.json](./181733-last-flame.json) |
@@ -1077,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Shift | 27717 | [27717-late-shift.json](./27717-late-shift.json) |
 | Late Stage | 269227 | [269227-late-stage.json](./269227-late-stage.json) |
 | Late Stage Capitalism | 355125 | [355125-late-stage-capitalism.json](./355125-late-stage-capitalism.json) |
+| Late Stage Inferno | 149871 | [149871-late-stage-inferno.json](./149871-late-stage-inferno.json) |
 | Late Work | 177487 | [177487-late-work.json](./177487-late-work.json) |
 | Latebus | 177832 | [177832-latebus.json](./177832-latebus.json) |
 | Latent Experience | 340899 | [340899-latent-experience.json](./340899-latent-experience.json) |
