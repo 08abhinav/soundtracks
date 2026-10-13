@@ -1720,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ellsydia | 378416 | [378416-ellsydia.json](./378416-ellsydia.json) |
 | Elly's Adventure | 315203 | [315203-ellys-adventure.json](./315203-ellys-adventure.json) |
 | Elm Knight: A Living Body Armor | 91762 | [91762-elm-knight-a-living-body-armor.json](./91762-elm-knight-a-living-body-armor.json) |
+| Elmarion: The Lost Temple | 149894 | [149894-elmarion-the-lost-temple.json](./149894-elmarion-the-lost-temple.json) |
 | Elmin | 345588 | [345588-elmin.json](./345588-elmin.json) |
 | Elminage Gothic 3D Remix: Ulm Zakir to Yami no Gishiki | 136933 | [136933-elminage-gothic-3d-remix-ulm-zakir-to-yami-no-gishiki.json](./136933-elminage-gothic-3d-remix-ulm-zakir-to-yami-no-gishiki.json) |
 | Elminage III: Ankoku no Shito to Taiyou no Kyuuden | 38468 | [38468-elminage-iii-ankoku-no-shito-to-taiyou-no-kyuuden.json](./38468-elminage-iii-ankoku-no-shito-to-taiyou-no-kyuuden.json) |
@@ -5250,6 +5251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Overtake | 323528 | [323528-extreme-overtake.json](./323528-extreme-overtake.json) |
 | Extreme Painting Puzzle | 110504 | [110504-extreme-painting-puzzle.json](./110504-extreme-painting-puzzle.json) |
 | Extreme Pamplona | 139232 | [139232-extreme-pamplona.json](./139232-extreme-pamplona.json) |
+| Extreme Peg Solitaire | 149375 | [149375-extreme-peg-solitaire.json](./149375-extreme-peg-solitaire.json) |
 | Extreme Power | 44727 | [44727-extreme-power.json](./44727-extreme-power.json) |
 | Extreme Power Soccer | 247043 | [247043-extreme-power-soccer.json](./247043-extreme-power-soccer.json) |
 | Extreme QTE | 151747 | [151747-extreme-qte.json](./151747-extreme-qte.json) |
