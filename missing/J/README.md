@@ -2534,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World Evolution 3: Deluxe Edition | 406704 | [406704-jurassic-world-evolution-3-deluxe-edition.json](./406704-jurassic-world-evolution-3-deluxe-edition.json) |
 | Jurassic World Evolution: Deluxe Dinosaur Pack | 226794 | [226794-jurassic-world-evolution-deluxe-dinosaur-pack.json](./226794-jurassic-world-evolution-deluxe-dinosaur-pack.json) |
 | Jurassic World Evolution: Dinosaur Collection | 227420 | [227420-jurassic-world-evolution-dinosaur-collection.json](./227420-jurassic-world-evolution-dinosaur-collection.json) |
+| Jurassic World Evolution: Expansion Collection | 164587 | [164587-jurassic-world-evolution-expansion-collection.json](./164587-jurassic-world-evolution-expansion-collection.json) |
 | Jurassic World Evolution: Return to Jurassic Park | 140515 | [140515-jurassic-world-evolution-return-to-jurassic-park.json](./140515-jurassic-world-evolution-return-to-jurassic-park.json) |
 | Jurassic World Revealed | 104259 | [104259-jurassic-world-revealed.json](./104259-jurassic-world-revealed.json) |
 | Jurassic World VRSE | 315071 | [315071-jurassic-world-vrse.json](./315071-jurassic-world-vrse.json) |
@@ -2620,6 +2621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Cause 4: Dare Devils of Destruction | 117492 | [117492-just-cause-4-dare-devils-of-destruction.json](./117492-just-cause-4-dare-devils-of-destruction.json) |
 | Just Cause 4: Day One Edition | 201031 | [201031-just-cause-4-day-one-edition.json](./201031-just-cause-4-day-one-edition.json) |
 | Just Cause 4: Los Demonios | 118919 | [118919-just-cause-4-los-demonios.json](./118919-just-cause-4-los-demonios.json) |
+| Just Cause 4: Reloaded Content Pack | 164576 | [164576-just-cause-4-reloaded-content-pack.json](./164576-just-cause-4-reloaded-content-pack.json) |
 | Just Cause Collection | 53245 | [53245-just-cause-collection.json](./53245-just-cause-collection.json) |
 | Just Cause Collection Bundle | 384104 | [384104-just-cause-collection-bundle.json](./384104-just-cause-collection-bundle.json) |
 | Just Cause Mobile | 141548 | [141548-just-cause-mobile.json](./141548-just-cause-mobile.json) |
