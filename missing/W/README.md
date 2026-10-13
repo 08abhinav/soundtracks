@@ -702,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Solution | 119851 | [119851-war-solution.json](./119851-war-solution.json) |
 | War Stained | 152470 | [152470-war-stained.json](./152470-war-stained.json) |
 | War Survival | 371250 | [371250-war-survival.json](./371250-war-survival.json) |
+| War Tank Combat | 149382 | [149382-war-tank-combat.json](./149382-war-tank-combat.json) |
 | War Tanks | 203923 | [203923-war-tanks.json](./203923-war-tanks.json) |
 | War Theatre | 76870 | [76870-war-theatre.json](./76870-war-theatre.json) |
 | War Theatre: Blood of Winter - Beak and Talon | 172187 | [172187-war-theatre-blood-of-winter-beak-and-talon.json](./172187-war-theatre-blood-of-winter-beak-and-talon.json) |
@@ -2849,6 +2850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's My Lunch?! | 170360 | [170360-wheres-my-lunch.json](./170360-wheres-my-lunch.json) |
 | Where's My Mickey? | 63275 | [63275-wheres-my-mickey.json](./63275-wheres-my-mickey.json) |
 | Where's My Perry? | 65064 | [65064-wheres-my-perry.json](./65064-wheres-my-perry.json) |
+| Where's My Phone?! | 149863 | [149863-wheres-my-phone.json](./149863-wheres-my-phone.json) |
 | Where's My Tripod? | 180801 | [180801-wheres-my-tripod.json](./180801-wheres-my-tripod.json) |
 | Where's My Water? | 13460 | [13460-wheres-my-water.json](./13460-wheres-my-water.json) |
 | Where's My What? | 31201 | [31201-wheres-my-what.json](./31201-wheres-my-what.json) |
@@ -3732,6 +3734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Fantasy II: Alive | 350516 | [350516-wind-fantasy-ii-alive.json](./350516-wind-fantasy-ii-alive.json) |
 | Wind Field | 292254 | [292254-wind-field.json](./292254-wind-field.json) |
 | Wind Force | 116984 | [116984-wind-force.json](./116984-wind-force.json) |
+| Wind from City | 149874 | [149874-wind-from-city.json](./149874-wind-from-city.json) |
 | Wind Giants | 334353 | [334353-wind-giants.json](./334353-wind-giants.json) |
 | Wind Horizon | 57027 | [57027-wind-horizon.json](./57027-wind-horizon.json) |
 | Wind Love | 259589 | [259589-wind-love.json](./259589-wind-love.json) |
@@ -4173,6 +4176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch College | 120949 | [120949-witch-college.json](./120949-witch-college.json) |
 | Witch Cram Sorceries | 262901 | [262901-witch-cram-sorceries.json](./262901-witch-cram-sorceries.json) |
 | Witch Cry: Horror House | 233460 | [233460-witch-cry-horror-house.json](./233460-witch-cry-horror-house.json) |
+| Witch Elixir | 149370 | [149370-witch-elixir.json](./149370-witch-elixir.json) |
 | Witch Epoch | 203528 | [203528-witch-epoch.json](./203528-witch-epoch.json) |
 | Witch fly | 216435 | [216435-witch-fly.json](./216435-witch-fly.json) |
 | Witch Girl Got Killed | 212185 | [212185-witch-girl-got-killed.json](./212185-witch-girl-got-killed.json) |
@@ -4545,6 +4549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wobbly Life | 133344 | [133344-wobbly-life.json](./133344-wobbly-life.json) |
 | Wobbuffet's Puzzle Pack | 233984 | [233984-wobbuffets-puzzle-pack.json](./233984-wobbuffets-puzzle-pack.json) |
 | Wodopom | 315677 | [315677-wodopom.json](./315677-wodopom.json) |
+| Woebegone Woods | 149897 | [149897-woebegone-woods.json](./149897-woebegone-woods.json) |
 | Woeful Woebots | 37019 | [37019-woeful-woebots.json](./37019-woeful-woebots.json) |
 | Woim | 404431 | [404431-woim.json](./404431-woim.json) |
 | Wojak Rush | 232936 | [232936-wojak-rush.json](./232936-wojak-rush.json) |
@@ -5089,6 +5094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordland: Let's Travel | 204928 | [204928-wordland-lets-travel.json](./204928-wordland-lets-travel.json) |
 | Wordlase | 28429 | [28429-wordlase.json](./28429-wordlase.json) |
 | Wordle | 265847 | [265847-wordle.json](./265847-wordle.json) |
+| Wordle 3 | 149865 | [149865-wordle-3.json](./149865-wordle-3.json) |
 | Wordle DS | 265142 | [265142-wordle-ds.json](./265142-wordle-ds.json) |
 | WordLeap | 292300 | [292300-wordleap.json](./292300-wordleap.json) |
 | Wordler | 268024 | [268024-wordler.json](./268024-wordler.json) |
