@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen Of The Sands | 415079 | [415079-queen-of-the-sands.json](./415079-queen-of-the-sands.json) |
 | Queen of Zarkov | 173288 | [173288-queen-of-zarkov.json](./173288-queen-of-zarkov.json) |
 | Queen Pirate: Love Adrift | 298992 | [298992-queen-pirate-love-adrift.json](./298992-queen-pirate-love-adrift.json) |
+| Queen Rules | 144057 | [144057-queen-rules.json](./144057-queen-rules.json) |
 | Queen Slayer | 311590 | [311590-queen-slayer.json](./311590-queen-slayer.json) |
 | Queen Wanda | 293352 | [293352-queen-wanda.json](./293352-queen-wanda.json) |
 | Queen,Don't be afraid | 294365 | [294365-queen-dont-be-afraid.json](./294365-queen-dont-be-afraid.json) |
@@ -701,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuickSolve | 174316 | [174316-quicksolve.json](./174316-quicksolve.json) |
 | Quicksort | 383735 | [383735-quicksort.json](./383735-quicksort.json) |
 | QuickSpot | 20677 | [20677-quickspot.json](./20677-quickspot.json) |
+| QuickSpot: Master of the Right Brain | 144080 | [144080-quickspot-master-of-the-right-brain.json](./144080-quickspot-master-of-the-right-brain.json) |
 | QuickSwitch | 341315 | [341315-quickswitch.json](./341315-quickswitch.json) |
 | Quidget the Wonderwiener | 314948 | [314948-quidget-the-wonderwiener.json](./314948-quidget-the-wonderwiener.json) |
 | Quiet | 412220 | [412220-quiet.json](./412220-quiet.json) |
