@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T19:27:31.165Z",
-  "total_soundtracks": 1591,
+  "generated_at": "2026-10-13T19:27:48.698Z",
+  "total_soundtracks": 1592,
   "games": [
     {
       "igdb_id": 7522,
@@ -14379,6 +14379,20 @@
           "spotify_url": "https://open.spotify.com/album/0ag5Ezx8zOp5CaHX7LZHqf",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 134706,
+      "game_name": "Star Wars: Squadrons",
+      "game_url": "https://ostdb.net/games/star-wars-squadrons",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6a/88/f4/6a88f485-0ab9-690c-b1cf-a2f1bc570848/20UMGIM80975.rgb.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Star Wars: Squadrons (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5sDUesNpIHcpjMn7wgYPih",
+          "apple_music_url": "https://music.apple.com/us/album/star-wars-squadrons-original-video-game-soundtrack/1532829448",
+          "album_link_url": "https://album.link/i/1532829448"
         }
       ]
     },
