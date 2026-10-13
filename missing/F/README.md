@@ -6067,6 +6067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 2020 Mobile | 197656 | [197656-football-manager-2020-mobile.json](./197656-football-manager-2020-mobile.json) |
 | Football Manager 2021 Touch | 139257 | [139257-football-manager-2021-touch.json](./139257-football-manager-2021-touch.json) |
 | Football Manager 2021: Limited Edition | 139962 | [139962-football-manager-2021-limited-edition.json](./139962-football-manager-2021-limited-edition.json) |
+| Football Manager 2021: Xbox Edition | 142214 | [142214-football-manager-2021-xbox-edition.json](./142214-football-manager-2021-xbox-edition.json) |
 | Football Manager 2022 Mobile | 187830 | [187830-football-manager-2022-mobile.json](./187830-football-manager-2022-mobile.json) |
 | Football Manager 2023 Touch | 226336 | [226336-football-manager-2023-touch.json](./226336-football-manager-2023-touch.json) |
 | Football Manager 2024 | 266382 | [266382-football-manager-2024.json](./266382-football-manager-2024.json) |
@@ -7490,6 +7491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freakshow: Episode 2 | 167909 | [167909-freakshow-episode-2.json](./167909-freakshow-episode-2.json) |
 | Freakshow: Episode 3 | 167910 | [167910-freakshow-episode-3.json](./167910-freakshow-episode-3.json) |
 | Freaky Awesome | 27711 | [27711-freaky-awesome.json](./27711-freaky-awesome.json) |
+| Freaky Clown: Town Mystery | 142171 | [142171-freaky-clown-town-mystery.json](./142171-freaky-clown-town-mystery.json) |
 | Freaky Creatures | 209565 | [209565-freaky-creatures.json](./209565-freaky-creatures.json) |
 | Freaky Fish DX | 185624 | [185624-freaky-fish-dx.json](./185624-freaky-fish-dx.json) |
 | Freaky Fun | 386914 | [386914-freaky-fun.json](./386914-freaky-fun.json) |
@@ -8306,6 +8308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline: Afrika Korps | 391276 | [391276-frontline-afrika-korps.json](./391276-frontline-afrika-korps.json) |
 | Frontline: Road to Moscow | 17526 | [17526-frontline-road-to-moscow.json](./17526-frontline-road-to-moscow.json) |
 | Frontline: The Longest Day | 175270 | [175270-frontline-the-longest-day.json](./175270-frontline-the-longest-day.json) |
+| Frontline: World War II | 142192 | [142192-frontline-world-war-ii.json](./142192-frontline-world-war-ii.json) |
 | FrontlineGrunt | 252614 | [252614-frontlinegrunt.json](./252614-frontlinegrunt.json) |
 | Frontrunners | 171518 | [171518-frontrunners.json](./171518-frontrunners.json) |
 | Froojarspootz! The Cleaning Monster | 387513 | [387513-froojarspootz-the-cleaning-monster.json](./387513-froojarspootz-the-cleaning-monster.json) |
