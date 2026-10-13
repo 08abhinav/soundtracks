@@ -7233,6 +7233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Scenes Ep.2: The Goodbye Note - Special Edition | 176481 | [176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json](./176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json) |
 | Midnight Scenes: A Safe Place | 257261 | [257261-midnight-scenes-a-safe-place.json](./257261-midnight-scenes-a-safe-place.json) |
 | Midnight Scenes: The Highway | 75153 | [75153-midnight-scenes-the-highway.json](./75153-midnight-scenes-the-highway.json) |
+| Midnight Scenes: The Nanny | 178317 | [178317-midnight-scenes-the-nanny.json](./178317-midnight-scenes-the-nanny.json) |
 | Midnight School Walk | 211649 | [211649-midnight-school-walk.json](./211649-midnight-school-walk.json) |
 | Midnight Scour | 409752 | [409752-midnight-scour.json](./409752-midnight-scour.json) |
 | Midnight Serenade | 397426 | [397426-midnight-serenade.json](./397426-midnight-serenade.json) |
@@ -13484,6 +13485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Pets: Maze | 195183 | [195183-my-pets-maze.json](./195183-my-pets-maze.json) |
 | My Pirate Husbandos | 320766 | [320766-my-pirate-husbandos.json](./320766-my-pirate-husbandos.json) |
 | My Pizza Story | 248101 | [248101-my-pizza-story.json](./248101-my-pizza-story.json) |
+| My Place | 178379 | [178379-my-place.json](./178379-my-place.json) |
 | My Place Diary | 405652 | [405652-my-place-diary.json](./405652-my-place-diary.json) |
 | My Planet [RTS] | 120717 | [120717-my-planet-rts.json](./120717-my-planet-rts.json) |
 | My Planet: Moon Child | 396004 | [396004-my-planet-moon-child.json](./396004-my-planet-moon-child.json) |
