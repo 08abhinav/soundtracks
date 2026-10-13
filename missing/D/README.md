@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Da Paper Boy | 259017 | [259017-da-paper-boy.json](./259017-da-paper-boy.json) |
 | Da Rock | 332579 | [332579-da-rock.json](./332579-da-rock.json) |
 | Dà Sānguó Shídài | 347226 | [347226-da-sanguo-shidai.json](./347226-da-sanguo-shidai.json) |
+| Dà Táng Xīyù Jì | 149892 | [149892-da-tang-xiyu-ji.json](./149892-da-tang-xiyu-ji.json) |
 | Da Vinci Pinball | 89149 | [89149-da-vinci-pinball.json](./89149-da-vinci-pinball.json) |
 | Da Will | 274125 | [274125-da-will.json](./274125-da-will.json) |
 | DA-VI-NC1 | 360596 | [360596-da-vi-nc1.json](./360596-da-vi-nc1.json) |
@@ -2924,6 +2925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death ring | 282006 | [282006-death-ring.json](./282006-death-ring.json) |
 | Death Road | 237264 | [237264-death-road.json](./237264-death-road.json) |
 | Death Road to Canada | 21634 | [21634-death-road-to-canada.json](./21634-death-road-to-canada.json) |
+| Death Roads: Tournament | 149904 | [149904-death-roads-tournament.json](./149904-death-roads-tournament.json) |
 | Death Room | 75156 | [75156-death-room.json](./75156-death-room.json) |
 | Death Rpg | 116313 | [116313-death-rpg.json](./116313-death-rpg.json) |
 | Death School | 210523 | [210523-death-school.json](./210523-death-school.json) |
@@ -3961,6 +3963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demand Dial Exorcist | 366888 | [366888-demand-dial-exorcist.json](./366888-demand-dial-exorcist.json) |
 | Deme Game | 300338 | [300338-deme-game.json](./300338-deme-game.json) |
 | Demegraunt | 265865 | [265865-demegraunt.json](./265865-demegraunt.json) |
+| Demelia's Isle | 149872 | [149872-demelias-isle.json](./149872-demelias-isle.json) |
 | Demencia | 202352 | [202352-demencia.json](./202352-demencia.json) |
 | Dement | 120712 | [120712-dement.json](./120712-dement.json) |
 | Demented | 34070 | [34070-demented.json](./34070-demented.json) |
@@ -4134,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon With a Candy Crisis | 391329 | [391329-demon-with-a-candy-crisis.json](./391329-demon-with-a-candy-crisis.json) |
 | Demon Wolf Simulator | 102779 | [102779-demon-wolf-simulator.json](./102779-demon-wolf-simulator.json) |
 | Demon World Survival | 195201 | [195201-demon-world-survival.json](./195201-demon-world-survival.json) |
+| Demon Zombie Outpost | 149861 | [149861-demon-zombie-outpost.json](./149861-demon-zombie-outpost.json) |
 | Demon: Recollect | 286222 | [286222-demon-recollect.json](./286222-demon-recollect.json) |
 | Demon's Bane | 253299 | [253299-demons-bane.json](./253299-demons-bane.json) |
 | Demon's Blood | 258103 | [258103-demons-blood.json](./258103-demons-blood.json) |
@@ -5175,6 +5179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Dare | 8798 | [8798-devils-dare.json](./8798-devils-dare.json) |
 | Devil's Deck: Astray Destiny | 207370 | [207370-devils-deck-astray-destiny.json](./207370-devils-deck-astray-destiny.json) |
 | Devil's Dice | 412803 | [412803-devils-dice.json](./412803-devils-dice.json) |
+| Devil's Dream | 149889 | [149889-devils-dream.json](./149889-devils-dream.json) |
 | Devil's Drizzle | 318133 | [318133-devils-drizzle.json](./318133-devils-drizzle.json) |
 | Devil's Dungeon | 190051 | [190051-devils-dungeon.json](./190051-devils-dungeon.json) |
 | Devil's Food | 301952 | [301952-devils-food.json](./301952-devils-food.json) |
