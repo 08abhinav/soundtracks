@@ -1260,6 +1260,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Throne | 29597 | [29597-dark-throne.json](./29597-dark-throne.json) |
 | Dark Throne | 303074 | [303074-dark-throne.json](./303074-dark-throne.json) |
 | Dark Throne: The Queen Rises | 220587 | [220587-dark-throne-the-queen-rises.json](./220587-dark-throne-the-queen-rises.json) |
+| Dark Thrones | 165173 | [165173-dark-thrones.json](./165173-dark-thrones.json) |
+| Dark Thrones / Witch Hunter Double Pack | 165175 | [165175-dark-thrones-witch-hunter-double-pack.json](./165175-dark-thrones-witch-hunter-double-pack.json) |
 | Dark Tides | 158696 | [158696-dark-tides.json](./158696-dark-tides.json) |
 | Dark Tower | 26475 | [26475-dark-tower.json](./26475-dark-tower.json) |
 | Dark Tower | 29182 | [29182-dark-tower.json](./29182-dark-tower.json) |
@@ -4994,6 +4996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dethroned | 240813 | [240813-dethroned.json](./240813-dethroned.json) |
 | Dethroned! | 62012 | [62012-dethroned.json](./62012-dethroned.json) |
 | Detonation | 119563 | [119563-detonation.json](./119563-detonation.json) |
+| Detonation Racing | 165105 | [165105-detonation-racing.json](./165105-detonation-racing.json) |
 | Detonator | 263477 | [263477-detonator.json](./263477-detonator.json) |
 | Detour | 372079 | [372079-detour.json](./372079-detour.json) |
 | Detourist | 278744 | [278744-detourist.json](./278744-detourist.json) |
@@ -7553,6 +7556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Dollmaker | 246651 | [246651-doki-doki-dollmaker.json](./246651-doki-doki-dollmaker.json) |
 | Doki Doki Don't | 333784 | [333784-doki-doki-dont.json](./333784-doki-doki-dont.json) |
 | Doki Doki Emerald Affection | 334816 | [334816-doki-doki-emerald-affection.json](./334816-doki-doki-emerald-affection.json) |
+| Doki Doki Exit Music | 165138 | [165138-doki-doki-exit-music.json](./165138-doki-doki-exit-music.json) |
 | Doki Doki Exit Music Epilogue | 353423 | [353423-doki-doki-exit-music-epilogue.json](./353423-doki-doki-exit-music-epilogue.json) |
 | Doki Doki Exit Music: Redux | 201845 | [201845-doki-doki-exit-music-redux.json](./201845-doki-doki-exit-music-redux.json) |
 | Doki Doki Fiendish | 332852 | [332852-doki-doki-fiendish.json](./332852-doki-doki-fiendish.json) |
@@ -7578,11 +7582,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Pink Eyes | 257283 | [257283-doki-doki-pink-eyes.json](./257283-doki-doki-pink-eyes.json) |
 | Doki Doki Pokémon Club! | 360183 | [360183-doki-doki-pokemon-club.json](./360183-doki-doki-pokemon-club.json) |
 | Doki Doki Ragnarok | 143512 | [143512-doki-doki-ragnarok.json](./143512-doki-doki-ragnarok.json) |
+| Doki Doki Salvation | 165147 | [165147-doki-doki-salvation.json](./165147-doki-doki-salvation.json) |
 | Doki Doki Salvation Remake! | 342072 | [342072-doki-doki-salvation-remake.json](./342072-doki-doki-salvation-remake.json) |
 | Doki Doki Sayori Date! | 332855 | [332855-doki-doki-sayori-date.json](./332855-doki-doki-sayori-date.json) |
 | Doki Doki Silver & Emerald | 334693 | [334693-doki-doki-silver-and-emerald.json](./334693-doki-doki-silver-and-emerald.json) |
 | Doki Doki Space | 334268 | [334268-doki-doki-space.json](./334268-doki-doki-space.json) |
 | Doki Doki Storm | 288984 | [288984-doki-doki-storm.json](./288984-doki-doki-storm.json) |
+| Doki Doki SummerTime | 165141 | [165141-doki-doki-summertime.json](./165141-doki-doki-summertime.json) |
 | Doki Doki Sweets Girlfriend | 207206 | [207206-doki-doki-sweets-girlfriend.json](./207206-doki-doki-sweets-girlfriend.json) |
 | Doki Doki Switcheroo | 334832 | [334832-doki-doki-switcheroo.json](./334832-doki-doki-switcheroo.json) |
 | Doki Doki Takeover!: Bad Ending | 208412 | [208412-doki-doki-takeover-bad-ending.json](./208412-doki-doki-takeover-bad-ending.json) |
@@ -9206,6 +9212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag Race | 18104 | [18104-drag-race.json](./18104-drag-race.json) |
 | Drag Race: Reaction Trainer | 87257 | [87257-drag-race-reaction-trainer.json](./87257-drag-race-reaction-trainer.json) |
 | Drag Racer USA | 43229 | [43229-drag-racer-usa.json](./43229-drag-racer-usa.json) |
+| Drag Racer V3 | 165118 | [165118-drag-racer-v3.json](./165118-drag-racer-v3.json) |
 | Drag Racer: Pro Tuner | 63250 | [63250-drag-racer-pro-tuner.json](./63250-drag-racer-pro-tuner.json) |
 | Drag Racing Car Simulator | 275679 | [275679-drag-racing-car-simulator.json](./275679-drag-racing-car-simulator.json) |
 | Drag Racing Rivals | 147847 | [147847-drag-racing-rivals.json](./147847-drag-racing-rivals.json) |
