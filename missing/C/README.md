@@ -5615,6 +5615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cipher Zero | 252691 | [252691-cipher-zero.json](./252691-cipher-zero.json) |
 | Ciphercell | 144753 | [144753-ciphercell.json](./144753-ciphercell.json) |
 | CipherCraft: Cyber Guardian Introduction | 278690 | [278690-ciphercraft-cyber-guardian-introduction.json](./278690-ciphercraft-cyber-guardian-introduction.json) |
+| CipherPilot | 155863 | [155863-cipherpilot.json](./155863-cipherpilot.json) |
 | Cipheur | 330901 | [330901-cipheur.json](./330901-cipheur.json) |
 | Circa | 94170 | [94170-circa.json](./94170-circa.json) |
 | Circa Infinity | 16312 | [16312-circa-infinity.json](./16312-circa-infinity.json) |
@@ -8028,6 +8029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Instinct II | 387087 | [387087-combat-instinct-ii.json](./387087-combat-instinct-ii.json) |
 | Combat Jam 1 | 300418 | [300418-combat-jam-1.json](./300418-combat-jam-1.json) |
 | Combat Kart | 265522 | [265522-combat-kart.json](./265522-combat-kart.json) |
+| Combat Labs | 155843 | [155843-combat-labs.json](./155843-combat-labs.json) |
 | Combat Leader | 24914 | [24914-combat-leader.json](./24914-combat-leader.json) |
 | Combat Lynx | 12946 | [12946-combat-lynx.json](./12946-combat-lynx.json) |
 | Combat Martial Boss Edition | 104573 | [104573-combat-martial-boss-edition.json](./104573-combat-martial-boss-edition.json) |
@@ -12379,6 +12381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Color Confusion | 416087 | [416087-cubic-color-confusion.json](./416087-cubic-color-confusion.json) |
 | Cubic complex | 32108 | [32108-cubic-complex.json](./32108-cubic-complex.json) |
 | Cubic Cosmos | 348835 | [348835-cubic-cosmos.json](./348835-cubic-cosmos.json) |
+| Cubic Currency | 155892 | [155892-cubic-currency.json](./155892-cubic-currency.json) |
 | Cubic Defender | 283846 | [283846-cubic-defender.json](./283846-cubic-defender.json) |
 | Cubic Figures | 215112 | [215112-cubic-figures.json](./215112-cubic-figures.json) |
 | Cubic Figures 2 | 249488 | [249488-cubic-figures-2.json](./249488-cubic-figures-2.json) |
