@@ -10382,6 +10382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Survivor | 259712 | [259712-monster-survivor.json](./259712-monster-survivor.json) |
 | Monster Survivors | 246626 | [246626-monster-survivors.json](./246626-monster-survivors.json) |
 | Monster Survivors: Echo Edition | 347329 | [347329-monster-survivors-echo-edition.json](./347329-monster-survivors-echo-edition.json) |
+| Monster Sweethearts | 177959 | [177959-monster-sweethearts.json](./177959-monster-sweethearts.json) |
 | Monster Sweetie | 232173 | [232173-monster-sweetie.json](./232173-monster-sweetie.json) |
 | Monster Tamer | 190233 | [190233-monster-tamer.json](./190233-monster-tamer.json) |
 | Monster Tamer | 366100 | [366100-monster-tamer.json](./366100-monster-tamer.json) |
