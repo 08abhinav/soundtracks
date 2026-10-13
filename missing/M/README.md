@@ -3744,6 +3744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Genius: Multiplication | 321483 | [321483-math-genius-multiplication.json](./321483-math-genius-multiplication.json) |
 | Math Genius: Subtraction | 333204 | [333204-math-genius-subtraction.json](./333204-math-genius-subtraction.json) |
 | Math Gym | 186703 | [186703-math-gym.json](./186703-math-gym.json) |
+| Math Hero: Minimalist Puzzle | 163556 | [163556-math-hero-minimalist-puzzle.json](./163556-math-hero-minimalist-puzzle.json) |
 | Math Heroes | 238935 | [238935-math-heroes.json](./238935-math-heroes.json) |
 | Math Invaders | 209546 | [209546-math-invaders.json](./209546-math-invaders.json) |
 | Math is Horror | 278542 | [278542-math-is-horror.json](./278542-math-is-horror.json) |
@@ -13352,6 +13353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Isekai After Life is an RPG!? | 153392 | [153392-my-isekai-after-life-is-an-rpg.json](./153392-my-isekai-after-life-is-an-rpg.json) |
 | My Island | 114113 | [114113-my-island.json](./114113-my-island.json) |
 | My Japanese Coach | 68938 | [68938-my-japanese-coach.json](./68938-my-japanese-coach.json) |
+| My Jigsaw Adventures: The Source of Power | 163002 | [163002-my-jigsaw-adventures-the-source-of-power.json](./163002-my-jigsaw-adventures-the-source-of-power.json) |
 | My Journey | 339105 | [339105-my-journey.json](./339105-my-journey.json) |
 | My Journey to Your World | 170932 | [170932-my-journey-to-your-world.json](./170932-my-journey-to-your-world.json) |
 | My Joyful Aquarium | 330902 | [330902-my-joyful-aquarium.json](./330902-my-joyful-aquarium.json) |
@@ -13506,6 +13508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Neighbor's Lonely Wife | 389632 | [389632-my-neighbors-lonely-wife.json](./389632-my-neighbors-lonely-wife.json) |
 | My Neighbor's Lonely Wife 2 | 379889 | [379889-my-neighbors-lonely-wife-2.json](./379889-my-neighbors-lonely-wife-2.json) |
 | My Neighborhood Arcade | 153503 | [153503-my-neighborhood-arcade.json](./153503-my-neighborhood-arcade.json) |
+| My Neighborhood Arcade: Block Puzzle Unit | 163530 | [163530-my-neighborhood-arcade-block-puzzle-unit.json](./163530-my-neighborhood-arcade-block-puzzle-unit.json) |
 | My Neighbour Mr.Ghost | 265591 | [265591-my-neighbour-mr-ghost.json](./265591-my-neighbour-mr-ghost.json) |
 | My Nemesis and Hero | 186849 | [186849-my-nemesis-and-hero.json](./186849-my-nemesis-and-hero.json) |
 | My New Memories: The Beginning | 311191 | [311191-my-new-memories-the-beginning.json](./311191-my-new-memories-the-beginning.json) |
@@ -14211,6 +14214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystical Riddles: Snowy Peak Hotel - Collector's Edition | 187807 | [187807-mystical-riddles-snowy-peak-hotel-collectors-edition.json](./187807-mystical-riddles-snowy-peak-hotel-collectors-edition.json) |
 | Mystical Samurai | 136453 | [136453-mystical-samurai.json](./136453-mystical-samurai.json) |
 | Mystical Stones | 247172 | [247172-mystical-stones.json](./247172-mystical-stones.json) |
+| Mysticism | 163040 | [163040-mysticism.json](./163040-mysticism.json) |
 | Mystics Ablaze | 383345 | [383345-mystics-ablaze.json](./383345-mystics-ablaze.json) |
 | Mystified Cat | 291551 | [291551-mystified-cat.json](./291551-mystified-cat.json) |
 | Mystik Adventure | 184520 | [184520-mystik-adventure.json](./184520-mystik-adventure.json) |
