@@ -4518,6 +4518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Smoothie | 225707 | [225707-chicken-smoothie.json](./225707-chicken-smoothie.json) |
 | Chicken Tale | 288792 | [288792-chicken-tale.json](./288792-chicken-tale.json) |
 | Chicken Tricks | 249849 | [249849-chicken-tricks.json](./249849-chicken-tricks.json) |
+| Chicken Utopia | 163022 | [163022-chicken-utopia.json](./163022-chicken-utopia.json) |
 | Chicken vs. Eggs | 276297 | [276297-chicken-vs-eggs.json](./276297-chicken-vs-eggs.json) |
 | Chicken vs. Road | 319873 | [319873-chicken-vs-road.json](./319873-chicken-vs-road.json) |
 | Chicken Wars | 48001 | [48001-chicken-wars.json](./48001-chicken-wars.json) |
@@ -6703,6 +6704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close to: Inori no Oka | 196027 | [196027-close-to-inori-no-oka.json](./196027-close-to-inori-no-oka.json) |
 | Close Up Pics - Fun Word Games | 87035 | [87035-close-up-pics-fun-word-games.json](./87035-close-up-pics-fun-word-games.json) |
 | Close Your Eyes | 133323 | [133323-close-your-eyes.json](./133323-close-your-eyes.json) |
+| Close Your Eyes: The Twisted Puzzle | 163551 | [163551-close-your-eyes-the-twisted-puzzle.json](./163551-close-your-eyes-the-twisted-puzzle.json) |
 | CloseCall | 155991 | [155991-closecall.json](./155991-closecall.json) |
 | Closed Circuit | 254175 | [254175-closed-circuit.json](./254175-closed-circuit.json) |
 | Closed Circuit Television | 378371 | [378371-closed-circuit-television.json](./378371-closed-circuit-television.json) |
@@ -8991,6 +8993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contraption Maker: Battling Cards - Parts & Puzzles Expansion Pack | 163427 | [163427-contraption-maker-battling-cards-parts-and-puzzles-expansion-pack.json](./163427-contraption-maker-battling-cards-parts-and-puzzles-expansion-pack.json) |
 | Contraption Maker: Incredible Puzzles Pack | 280297 | [280297-contraption-maker-incredible-puzzles-pack.json](./280297-contraption-maker-incredible-puzzles-pack.json) |
 | Contraption Maker: Mighty Knights Parts & Puzzles Pack | 263215 | [263215-contraption-maker-mighty-knights-parts-and-puzzles-pack.json](./263215-contraption-maker-mighty-knights-parts-and-puzzles-pack.json) |
+| Contraption Maker: Wonderstructs - Part & Puzzle Expansion Pack | 163533 | [163533-contraption-maker-wonderstructs-part-and-puzzle-expansion-pack.json](./163533-contraption-maker-wonderstructs-part-and-puzzle-expansion-pack.json) |
 | Contraption Zack | 24864 | [24864-contraption-zack.json](./24864-contraption-zack.json) |
 | Contraptions | 120824 | [120824-contraptions.json](./120824-contraptions.json) |
 | Contraptions 2 | 242598 | [242598-contraptions-2.json](./242598-contraptions-2.json) |
@@ -12281,6 +12284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubenen Gardens: Befriend | 316148 | [316148-cubenen-gardens-befriend.json](./316148-cubenen-gardens-befriend.json) |
 | Cubenen Gardens: Kingdom | 417664 | [417664-cubenen-gardens-kingdom.json](./417664-cubenen-gardens-kingdom.json) |
 | Cubeology | 107789 | [107789-cubeology.json](./107789-cubeology.json) |
+| CubePuzzle | 163546 | [163546-cubepuzzle.json](./163546-cubepuzzle.json) |
 | Cuber | 254584 | [254584-cuber.json](./254584-cuber.json) |
 | Cuber 2: Ice Age Remake | 256310 | [256310-cuber-2-ice-age-remake.json](./256310-cuber-2-ice-age-remake.json) |
 | Cuber 3: Schmidt | 284357 | [284357-cuber-3-schmidt.json](./284357-cuber-3-schmidt.json) |
@@ -12702,6 +12706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed House 14 | 337213 | [337213-cursed-house-14.json](./337213-cursed-house-14.json) |
 | Cursed House 2 | 362928 | [362928-cursed-house-2.json](./362928-cursed-house-2.json) |
 | Cursed House 7 | 337215 | [337215-cursed-house-7.json](./337215-cursed-house-7.json) |
+| Cursed House 9: Match 3 Puzzle | 163532 | [163532-cursed-house-9-match-3-puzzle.json](./163532-cursed-house-9-match-3-puzzle.json) |
 | Cursed House Escape | 315581 | [315581-cursed-house-escape.json](./315581-cursed-house-escape.json) |
 | Cursed House Match 3 Puzzle | 246855 | [246855-cursed-house-match-3-puzzle.json](./246855-cursed-house-match-3-puzzle.json) |
 | Cursed Island | 176289 | [176289-cursed-island.json](./176289-cursed-island.json) |
