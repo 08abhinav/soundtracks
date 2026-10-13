@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabin Corpse | 303718 | [303718-cabin-corpse.json](./303718-cabin-corpse.json) |
 | Cabin Crew Life Simulator | 302423 | [302423-cabin-crew-life-simulator.json](./302423-cabin-crew-life-simulator.json) |
 | Cabin Escape | 362984 | [362984-cabin-escape.json](./362984-cabin-escape.json) |
+| Cabin Fever | 154797 | [154797-cabin-fever.json](./154797-cabin-fever.json) |
 | Cabin of Shadows: Dueling Impostors | 258391 | [258391-cabin-of-shadows-dueling-impostors.json](./258391-cabin-of-shadows-dueling-impostors.json) |
 | Cabin of Souls | 254002 | [254002-cabin-of-souls.json](./254002-cabin-of-souls.json) |
 | Cabin Rush | 248004 | [248004-cabin-rush.json](./248004-cabin-rush.json) |
@@ -3261,6 +3262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cell Command | 323507 | [323507-cell-command.json](./323507-cell-command.json) |
 | Cell Corp | 256163 | [256163-cell-corp.json](./256163-cell-corp.json) |
 | Cell HD: emergence | 36137 | [36137-cell-hd-emergence.json](./36137-cell-hd-emergence.json) |
+| Cell Machine | 154821 | [154821-cell-machine.json](./154821-cell-machine.json) |
 | Cell of Empireo | 175966 | [175966-cell-of-empireo.json](./175966-cell-of-empireo.json) |
 | Cell of Empireo: Isoi Sanemitsu no Records | 243655 | [243655-cell-of-empireo-isoi-sanemitsu-no-records.json](./243655-cell-of-empireo-isoi-sanemitsu-no-records.json) |
 | Cell of Empireo: RTC - Interlude | 301419 | [301419-cell-of-empireo-rtc-interlude.json](./301419-cell-of-empireo-rtc-interlude.json) |
@@ -3811,6 +3813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chapeau | 117169 | [117169-chapeau.json](./117169-chapeau.json) |
 | Chaperone | 276220 | [276220-chaperone.json](./276220-chaperone.json) |
 | Chapolim & Super Sam: a lenda dos super heróis | 252902 | [252902-chapolim-and-super-sam-a-lenda-dos-super-herois.json](./252902-chapolim-and-super-sam-a-lenda-dos-super-herois.json) |
+| Chapter Master | 154813 | [154813-chapter-master.json](./154813-chapter-master.json) |
 | Chapter Wars: Expansion Pack | 286541 | [286541-chapter-wars-expansion-pack.json](./286541-chapter-wars-expansion-pack.json) |
 | Chaqs | 223504 | [223504-chaqs.json](./223504-chaqs.json) |
 | Char's Ennui | 384774 | [384774-chars-ennui.json](./384774-chars-ennui.json) |
