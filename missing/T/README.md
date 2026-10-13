@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tacticalunderground Arcade | 154366 | [154366-tacticalunderground-arcade.json](./154366-tacticalunderground-arcade.json) |
 | Tactichord: Glam Strategy | 375435 | [375435-tactichord-glam-strategy.json](./375435-tactichord-glam-strategy.json) |
 | Tacticool | 112918 | [112918-tacticool.json](./112918-tacticool.json) |
+| Tacticool Champs | 134373 | [134373-tacticool-champs.json](./134373-tacticool-champs.json) |
 | Tactics & Strategy Master 2: Princess of Holy Light | 110992 | [110992-tactics-and-strategy-master-2-princess-of-holy-light.json](./110992-tactics-and-strategy-master-2-princess-of-holy-light.json) |
 | Tactics & Strategy Master 3: Gemini Strategy | 284350 | [284350-tactics-and-strategy-master-3-gemini-strategy.json](./284350-tactics-and-strategy-master-3-gemini-strategy.json) |
 | Tactics & Strategy Master: Joan of Arc | 96670 | [96670-tactics-and-strategy-master-joan-of-arc.json](./96670-tactics-and-strategy-master-joan-of-arc.json) |
@@ -2702,6 +2703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenchi wo Kurau: Sangokushi Gunyuuden | 37790 | [37790-tenchi-wo-kurau-sangokushi-gunyuuden.json](./37790-tenchi-wo-kurau-sangokushi-gunyuuden.json) |
 | Tencho no Igo | 65565 | [65565-tencho-no-igo.json](./65565-tencho-no-igo.json) |
 | Tenchu 2: Birth of the Stealth Assassins | 4114 | [4114-tenchu-2-birth-of-the-stealth-assassins.json](./4114-tenchu-2-birth-of-the-stealth-assassins.json) |
+| Tenchu 3 Portable | 134329 | [134329-tenchu-3-portable.json](./134329-tenchu-3-portable.json) |
 | Tenchu: Fatal Shadows | 19266 | [19266-tenchu-fatal-shadows.json](./19266-tenchu-fatal-shadows.json) |
 | Tenchu: Shadow Assassins | 5216 | [5216-tenchu-shadow-assassins.json](./5216-tenchu-shadow-assassins.json) |
 | Tenchu: Time Of The Assassins | 44512 | [44512-tenchu-time-of-the-assassins.json](./44512-tenchu-time-of-the-assassins.json) |
@@ -4992,6 +4994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Comyths | 397078 | [397078-the-comyths.json](./397078-the-comyths.json) |
 | The Con Simulator | 100559 | [100559-the-con-simulator.json](./100559-the-con-simulator.json) |
 | The Concept | 334265 | [334265-the-concept.json](./334265-the-concept.json) |
+| The Concierge | 134325 | [134325-the-concierge.json](./134325-the-concierge.json) |
 | The Concrete Sutra #1 | 398419 | [398419-the-concrete-sutra-1.json](./398419-the-concrete-sutra-1.json) |
 | The Condition | 373548 | [373548-the-condition.json](./373548-the-condition.json) |
 | The Conductor | 261909 | [261909-the-conductor.json](./261909-the-conductor.json) |
@@ -10258,6 +10261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Report: The Eastwind Creature | 319767 | [319767-the-report-the-eastwind-creature.json](./319767-the-report-the-eastwind-creature.json) |
 | The Reposessor | 71161 | [71161-the-reposessor.json](./71161-the-reposessor.json) |
 | The Repossessor | 81338 | [81338-the-repossessor.json](./81338-the-repossessor.json) |
+| The Republia Times | 134491 | [134491-the-republia-times.json](./134491-the-republia-times.json) |
 | The Requiem of Shadows | 347855 | [347855-the-requiem-of-shadows.json](./347855-the-requiem-of-shadows.json) |
 | The Rescue of Lorri in Lorrinitron | 74052 | [74052-the-rescue-of-lorri-in-lorrinitron.json](./74052-the-rescue-of-lorri-in-lorrinitron.json) |
 | The Rescue Squad | 164916 | [164916-the-rescue-squad.json](./164916-the-rescue-squad.json) |
