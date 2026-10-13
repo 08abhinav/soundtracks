@@ -1581,6 +1581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Jam: Snow Rush | 313231 | [313231-parking-jam-snow-rush.json](./313231-parking-jam-snow-rush.json) |
 | Parking Jam: Tasty Edition | 324374 | [324374-parking-jam-tasty-edition.json](./324374-parking-jam-tasty-edition.json) |
 | Parking Lot Maze | 146815 | [146815-parking-lot-maze.json](./146815-parking-lot-maze.json) |
+| Parking Madness | 147736 | [147736-parking-madness.json](./147736-parking-madness.json) |
 | Parking Mania | 62763 | [62763-parking-mania.json](./62763-parking-mania.json) |
 | Parking Mania 2 | 261844 | [261844-parking-mania-2.json](./261844-parking-mania-2.json) |
 | Parking Master | 333087 | [333087-parking-master.json](./333087-parking-master.json) |
@@ -9479,6 +9480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Battles | 35686 | [35686-princess-battles.json](./35686-princess-battles.json) |
 | Princess Burst | 382279 | [382279-princess-burst.json](./382279-princess-burst.json) |
 | Princess Castle Quest | 122802 | [122802-princess-castle-quest.json](./122802-princess-castle-quest.json) |
+| Princess Closet | 147734 | [147734-princess-closet.json](./147734-princess-closet.json) |
 | Princess Coloring Book + | 87326 | [87326-princess-coloring-book.json](./87326-princess-coloring-book.json) |
 | Princess Connect! | 22792 | [22792-princess-connect.json](./22792-princess-connect.json) |
 | Princess Covenant | 367632 | [367632-princess-covenant.json](./367632-princess-covenant.json) |
@@ -10620,6 +10622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Island | 220168 | [220168-project-island.json](./220168-project-island.json) |
 | Project: Jurit | 385581 | [385581-project-jurit.json](./385581-project-jurit.json) |
 | Project: Kate | 262436 | [262436-project-kate.json](./262436-project-kate.json) |
+| Project: Knight | 147763 | [147763-project-knight.json](./147763-project-knight.json) |
 | Project: Mania | 333562 | [333562-project-mania.json](./333562-project-mania.json) |
 | Project: Mirror | 233562 | [233562-project-mirror.json](./233562-project-mirror.json) |
 | Project: Mist | 272348 | [272348-project-mist.json](./272348-project-mist.json) |
