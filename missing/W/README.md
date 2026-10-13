@@ -6101,6 +6101,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K18: Deluxe Edition | 99116 | [99116-wwe-2k18-deluxe-edition.json](./99116-wwe-2k18-deluxe-edition.json) |
 | WWE 2K19 | 102805 | [102805-wwe-2k19.json](./102805-wwe-2k19.json) |
 | WWE 2K19: Deluxe Edition | 136359 | [136359-wwe-2k19-deluxe-edition.json](./136359-wwe-2k19-deluxe-edition.json) |
+| WWE 2K19: New Moves | 167892 | [167892-wwe-2k19-new-moves.json](./167892-wwe-2k19-new-moves.json) |
+| WWE 2K19: Rey Mysterio & Ronda Rousey | 167891 | [167891-wwe-2k19-rey-mysterio-and-ronda-rousey.json](./167891-wwe-2k19-rey-mysterio-and-ronda-rousey.json) |
+| WWE 2K19: Titans Pack | 167893 | [167893-wwe-2k19-titans-pack.json](./167893-wwe-2k19-titans-pack.json) |
 | WWE 2K20: Deluxe Edition | 121437 | [121437-wwe-2k20-deluxe-edition.json](./121437-wwe-2k20-deluxe-edition.json) |
 | WWE 2K20: SmackDown! 20th Anniversary Edition | 136276 | [136276-wwe-2k20-smackdown-20th-anniversary-edition.json](./136276-wwe-2k20-smackdown-20th-anniversary-edition.json) |
 | WWE 2K21 | 132815 | [132815-wwe-2k21.json](./132815-wwe-2k21.json) |
