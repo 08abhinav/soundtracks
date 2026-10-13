@@ -1134,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Tower Tycoon | 101522 | [101522-idle-tower-tycoon.json](./101522-idle-tower-tycoon.json) |
 | Idle Towers | 357844 | [357844-idle-towers.json](./357844-idle-towers.json) |
 | Idle Town Billionaire | 340513 | [340513-idle-town-billionaire.json](./340513-idle-town-billionaire.json) |
+| Idle Trader Simulator | 165764 | [165764-idle-trader-simulator.json](./165764-idle-trader-simulator.json) |
 | Idle Traffic Tycoon Game | 227263 | [227263-idle-traffic-tycoon-game.json](./227263-idle-traffic-tycoon-game.json) |
 | Idle Transport Tycoon | 263027 | [263027-idle-transport-tycoon.json](./263027-idle-transport-tycoon.json) |
 | Idle Tree | 365747 | [365747-idle-tree.json](./365747-idle-tree.json) |
@@ -3741,6 +3742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iragon | 115664 | [115664-iragon.json](./115664-iragon.json) |
 | Irang | 304637 | [304637-irang.json](./304637-irang.json) |
 | Irang: The Last Hope | 257395 | [257395-irang-the-last-hope.json](./257395-irang-the-last-hope.json) |
+| Iraq War | 165731 | [165731-iraq-war.json](./165731-iraq-war.json) |
 | Iraroji VOW | 191867 | [191867-iraroji-vow.json](./191867-iraroji-vow.json) |
 | Iratus: Lord of the Dead | 93694 | [93694-iratus-lord-of-the-dead.json](./93694-iratus-lord-of-the-dead.json) |
 | Iratus: Necromancer Edition | 154555 | [154555-iratus-necromancer-edition.json](./154555-iratus-necromancer-edition.json) |
