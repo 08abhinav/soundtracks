@@ -14092,8 +14092,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: Rewind - Collector's Edition | 105339 | [105339-mystery-case-files-rewind-collectors-edition.json](./105339-mystery-case-files-rewind-collectors-edition.json) |
 | Mystery Case Files: Shadow Lake - Collector's Edition | 88269 | [88269-mystery-case-files-shadow-lake-collectors-edition.json](./88269-mystery-case-files-shadow-lake-collectors-edition.json) |
 | Mystery Case Files: The Black Veil | 56172 | [56172-mystery-case-files-the-black-veil.json](./56172-mystery-case-files-the-black-veil.json) |
+| Mystery Case Files: The Countess | 140233 | [140233-mystery-case-files-the-countess.json](./140233-mystery-case-files-the-countess.json) |
 | Mystery Case Files: The Dalimar Legacy - Collector's Edition | 243787 | [243787-mystery-case-files-the-dalimar-legacy-collectors-edition.json](./243787-mystery-case-files-the-dalimar-legacy-collectors-edition.json) |
 | Mystery Case Files: The Last Resort - Collector's Edition | 236009 | [236009-mystery-case-files-the-last-resort-collectors-edition.json](./236009-mystery-case-files-the-last-resort-collectors-edition.json) |
+| Mystery Case Files: The Revenant's Hunt | 140234 | [140234-mystery-case-files-the-revenants-hunt.json](./140234-mystery-case-files-the-revenants-hunt.json) |
 | Mystery Case Files: The Riddle of Mrs. Bishop | 360051 | [360051-mystery-case-files-the-riddle-of-mrs-bishop.json](./360051-mystery-case-files-the-riddle-of-mrs-bishop.json) |
 | Mystery Case Files: The Riddle of Mrs. Bishop - Collector's Edition | 360039 | [360039-mystery-case-files-the-riddle-of-mrs-bishop-collectors-edition.json](./360039-mystery-case-files-the-riddle-of-mrs-bishop-collectors-edition.json) |
 | Mystery Castle | 19889 | [19889-mystery-castle.json](./19889-mystery-castle.json) |
@@ -14157,8 +14159,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of Munroe Manor | 298865 | [298865-mystery-of-munroe-manor.json](./298865-mystery-of-munroe-manor.json) |
 | Mystery of Myths: Heart of Athens - Collector's Edition | 337258 | [337258-mystery-of-myths-heart-of-athens-collectors-edition.json](./337258-mystery-of-myths-heart-of-athens-collectors-edition.json) |
 | Mystery of Myths: Mystery of the Fjords - Collector's Edition | 356775 | [356775-mystery-of-myths-mystery-of-the-fjords-collectors-edition.json](./356775-mystery-of-myths-mystery-of-the-fjords-collectors-edition.json) |
+| Mystery of the Ancients: Curse of the Black Water | 140235 | [140235-mystery-of-the-ancients-curse-of-the-black-water.json](./140235-mystery-of-the-ancients-curse-of-the-black-water.json) |
 | Mystery of the Ancients: Curse of the Black Water - Collector's Edition | 107837 | [107837-mystery-of-the-ancients-curse-of-the-black-water-collectors-edition.json](./107837-mystery-of-the-ancients-curse-of-the-black-water-collectors-edition.json) |
+| Mystery of the Ancients: Deadly Cold | 140236 | [140236-mystery-of-the-ancients-deadly-cold.json](./140236-mystery-of-the-ancients-deadly-cold.json) |
 | Mystery of the Ancients: Mudwater Creek | 74415 | [74415-mystery-of-the-ancients-mudwater-creek.json](./74415-mystery-of-the-ancients-mudwater-creek.json) |
+| Mystery of the Ancients: Three Guardians | 140237 | [140237-mystery-of-the-ancients-three-guardians.json](./140237-mystery-of-the-ancients-three-guardians.json) |
 | Mystery of the Ancients: Three Guardians - Collector's Edition | 117133 | [117133-mystery-of-the-ancients-three-guardians-collectors-edition.json](./117133-mystery-of-the-ancients-three-guardians-collectors-edition.json) |
 | Mystery of the Crystal Portal | 25453 | [25453-mystery-of-the-crystal-portal.json](./25453-mystery-of-the-crystal-portal.json) |
 | Mystery of the Dark Jewels | 54243 | [54243-mystery-of-the-dark-jewels.json](./54243-mystery-of-the-dark-jewels.json) |
@@ -14198,11 +14203,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Solitaire: The Black Raven 6 | 341352 | [341352-mystery-solitaire-the-black-raven-6.json](./341352-mystery-solitaire-the-black-raven-6.json) |
 | Mystery Solving! BrainQuiz | 283278 | [283278-mystery-solving-brainquiz.json](./283278-mystery-solving-brainquiz.json) |
 | Mystery Stories: Mountains of Madness | 63120 | [63120-mystery-stories-mountains-of-madness.json](./63120-mystery-stories-mountains-of-madness.json) |
+| Mystery Tales: Alaskan Wild | 140238 | [140238-mystery-tales-alaskan-wild.json](./140238-mystery-tales-alaskan-wild.json) |
 | Mystery Tales: Art and Souls | 187922 | [187922-mystery-tales-art-and-souls.json](./187922-mystery-tales-art-and-souls.json) |
 | Mystery Tales: Her Own Eyes HD - A Hidden Object Mystery (Full) | 90065 | [90065-mystery-tales-her-own-eyes-hd-a-hidden-object-mystery-full.json](./90065-mystery-tales-her-own-eyes-hd-a-hidden-object-mystery-full.json) |
 | Mystery Tales: Master of Puppets | 187948 | [187948-mystery-tales-master-of-puppets.json](./187948-mystery-tales-master-of-puppets.json) |
 | Mystery Tales: The House of Others | 181645 | [181645-mystery-tales-the-house-of-others.json](./181645-mystery-tales-the-house-of-others.json) |
+| Mystery Tales: The Twilight World | 140239 | [140239-mystery-tales-the-twilight-world.json](./140239-mystery-tales-the-twilight-world.json) |
 | Mystery Tales: The Twilight World - Collector's Edition | 74994 | [74994-mystery-tales-the-twilight-world-collectors-edition.json](./74994-mystery-tales-the-twilight-world-collectors-edition.json) |
+| Mystery Tales: Til Death | 140240 | [140240-mystery-tales-til-death.json](./140240-mystery-tales-til-death.json) |
 | Mystery Tapes | 79536 | [79536-mystery-tapes.json](./79536-mystery-tapes.json) |
 | Mystery Tiles Premium | 100958 | [100958-mystery-tiles-premium.json](./100958-mystery-tiles-premium.json) |
 | Mystery Tower | 48589 | [48589-mystery-tower.json](./48589-mystery-tower.json) |
@@ -14438,13 +14446,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myths are 100% True | 307806 | [307806-myths-are-100-true.json](./307806-myths-are-100-true.json) |
 | Myths of Moonrise | 214170 | [214170-myths-of-moonrise.json](./214170-myths-of-moonrise.json) |
 | Myths of Rules | 262452 | [262452-myths-of-rules.json](./262452-myths-of-rules.json) |
+| Myths of the World: Behind the Veil | 140241 | [140241-myths-of-the-world-behind-the-veil.json](./140241-myths-of-the-world-behind-the-veil.json) |
 | Myths of the World: Behind the Veil - Collector's Edition | 83915 | [83915-myths-of-the-world-behind-the-veil-collectors-edition.json](./83915-myths-of-the-world-behind-the-veil-collectors-edition.json) |
+| Myths of the World: Black Rose | 140242 | [140242-myths-of-the-world-black-rose.json](./140242-myths-of-the-world-black-rose.json) |
 | Myths of the World: Black Rose HD | 104490 | [104490-myths-of-the-world-black-rose-hd.json](./104490-myths-of-the-world-black-rose-hd.json) |
+| Myths of the World: Chinese Healer | 140243 | [140243-myths-of-the-world-chinese-healer.json](./140243-myths-of-the-world-chinese-healer.json) |
 | Myths of the World: Chinese Healer - Collector's Edition | 30679 | [30679-myths-of-the-world-chinese-healer-collectors-edition.json](./30679-myths-of-the-world-chinese-healer-collectors-edition.json) |
+| Myths of the World: Of Fiends and Fairies | 140244 | [140244-myths-of-the-world-of-fiends-and-fairies.json](./140244-myths-of-the-world-of-fiends-and-fairies.json) |
 | Myths of the World: Of Fiends and Fairies - Collector's Edition | 102943 | [102943-myths-of-the-world-of-fiends-and-fairies-collectors-edition.json](./102943-myths-of-the-world-of-fiends-and-fairies-collectors-edition.json) |
 | Myths of the World: Of Fiends and Fairies HD | 106644 | [106644-myths-of-the-world-of-fiends-and-fairies-hd.json](./106644-myths-of-the-world-of-fiends-and-fairies-hd.json) |
 | Myths of the World: Olympus | 89486 | [89486-myths-of-the-world-olympus.json](./89486-myths-of-the-world-olympus.json) |
+| Myths of the World: Spirit Wolf | 140245 | [140245-myths-of-the-world-spirit-wolf.json](./140245-myths-of-the-world-spirit-wolf.json) |
 | Myths of the World: Spirit Wolf - Collector's Edition | 83555 | [83555-myths-of-the-world-spirit-wolf-collectors-edition.json](./83555-myths-of-the-world-spirit-wolf-collectors-edition.json) |
+| Myths of the World: Stolen Spring | 140246 | [140246-myths-of-the-world-stolen-spring.json](./140246-myths-of-the-world-stolen-spring.json) |
 | Myths of the World: Stolen Spring - Collector's Edition | 28742 | [28742-myths-of-the-world-stolen-spring-collectors-edition.json](./28742-myths-of-the-world-stolen-spring-collectors-edition.json) |
 | Myths of the World: The Black Sun | 74308 | [74308-myths-of-the-world-the-black-sun.json](./74308-myths-of-the-world-the-black-sun.json) |
 | Myths of the World: Under the Surface - Collector's Edition | 345418 | [345418-myths-of-the-world-under-the-surface-collectors-edition.json](./345418-myths-of-the-world-under-the-surface-collectors-edition.json) |
