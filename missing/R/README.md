@@ -627,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok Online / Grand Chase | 80588 | [80588-ragnarok-online-grand-chase.json](./80588-ragnarok-online-grand-chase.json) |
 | Ragnarok Online 2 | 16484 | [16484-ragnarok-online-2.json](./16484-ragnarok-online-2.json) |
 | Ragnarok Online: Valkyrie Uprising | 63655 | [63655-ragnarok-online-valkyrie-uprising.json](./63655-ragnarok-online-valkyrie-uprising.json) |
+| Ragnarok Origin | 172438 | [172438-ragnarok-origin.json](./172438-ragnarok-origin.json) |
 | Ragnarok Origin: Classic | 402201 | [402201-ragnarok-origin-classic.json](./402201-ragnarok-origin-classic.json) |
 | Ragnarök Protocol | 396124 | [396124-ragnarok-protocol.json](./396124-ragnarok-protocol.json) |
 | Ragnarok Re:Start | 51429 | [51429-ragnarok-re-start.json](./51429-ragnarok-re-start.json) |
