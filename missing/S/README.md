@@ -2056,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schwebebahn Simulator 2013 | 241490 | [241490-schwebebahn-simulator-2013.json](./241490-schwebebahn-simulator-2013.json) |
 | Schwerkraftprojektionsgerät | 139155 | [139155-schwerkraftprojektionsgerat.json](./139155-schwerkraftprojektionsgerat.json) |
 | Schwerpunkt | 155868 | [155868-schwerpunkt.json](./155868-schwerpunkt.json) |
+| Sci-Fantasy Defence | 152641 | [152641-sci-fantasy-defence.json](./152641-sci-fantasy-defence.json) |
 | Sci-Fi | 60353 | [60353-sci-fi.json](./60353-sci-fi.json) |
 | Sci-Fi Channel Trivia Game | 98802 | [98802-sci-fi-channel-trivia-game.json](./98802-sci-fi-channel-trivia-game.json) |
 | Sci-Fi Racer Simulator | 283245 | [283245-sci-fi-racer-simulator.json](./283245-sci-fi-racer-simulator.json) |
@@ -2353,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap Mechanic | 16611 | [16611-scrap-mechanic.json](./16611-scrap-mechanic.json) |
 | Scrap Metal Factory | 208945 | [208945-scrap-metal-factory.json](./208945-scrap-metal-factory.json) |
 | Scrap Race | 181331 | [181331-scrap-race.json](./181331-scrap-race.json) |
+| Scrap Riders | 152647 | [152647-scrap-riders.json](./152647-scrap-riders.json) |
 | Scrap Rush!! | 113588 | [113588-scrap-rush.json](./113588-scrap-rush.json) |
 | Scrap Squadrons | 393459 | [393459-scrap-squadrons.json](./393459-scrap-squadrons.json) |
 | Scrap Story | 113595 | [113595-scrap-story.json](./113595-scrap-story.json) |
@@ -8860,6 +8862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime:Evo | 143021 | [143021-slime-evo.json](./143021-slime-evo.json) |
 | Slime.io: Devour the Сity | 223911 | [223911-slime-io-devour-the-ity.json](./223911-slime-io-devour-the-ity.json) |
 | Slime's Journey | 378316 | [378316-slimes-journey.json](./378316-slimes-journey.json) |
+| Slime's Revenge | 152651 | [152651-slimes-revenge.json](./152651-slimes-revenge.json) |
 | Slimebrawl | 75061 | [75061-slimebrawl.json](./75061-slimebrawl.json) |
 | Slimed | 186273 | [186273-slimed.json](./186273-slimed.json) |
 | Slimefrog | 167821 | [167821-slimefrog.json](./167821-slimefrog.json) |
@@ -10207,6 +10210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soar | 236803 | [236803-soar.json](./236803-soar.json) |
 | Soar | 306951 | [306951-soar.json](./306951-soar.json) |
 | Soar Up The Charts | 310068 | [310068-soar-up-the-charts.json](./310068-soar-up-the-charts.json) |
+| Soaring Machinariae | 152643 | [152643-soaring-machinariae.json](./152643-soaring-machinariae.json) |
 | Soaring Perl Tom | 120752 | [120752-soaring-perl-tom.json](./120752-soaring-perl-tom.json) |
 | Soarocity | 169838 | [169838-soarocity.json](./169838-soarocity.json) |
 | Soba's Gunpaw | 358227 | [358227-sobas-gunpaw.json](./358227-sobas-gunpaw.json) |
@@ -17657,6 +17661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stitch's Escape Game | 326769 | [326769-stitchs-escape-game.json](./326769-stitchs-escape-game.json) |
 | Stitchcraft | 123985 | [123985-stitchcraft.json](./123985-stitchcraft.json) |
 | Stitched | 28121 | [28121-stitched.json](./28121-stitched.json) |
+| Stitched: Mother's Nightmare | 152636 | [152636-stitched-mothers-nightmare.json](./152636-stitched-mothers-nightmare.json) |
 | Stitchlings | 399879 | [399879-stitchlings.json](./399879-stitchlings.json) |
 | Stitchy in Tooki Trouble | 145804 | [145804-stitchy-in-tooki-trouble.json](./145804-stitchy-in-tooki-trouble.json) |
 | Stix: Combat Devolved | 190699 | [190699-stix-combat-devolved.json](./190699-stix-combat-devolved.json) |
@@ -18448,6 +18453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Sports Basketball | 37163 | [37163-street-sports-basketball.json](./37163-street-sports-basketball.json) |
 | Street Sports Football | 55153 | [55153-street-sports-football.json](./55153-street-sports-football.json) |
 | Street Sports Soccer | 55152 | [55152-street-sports-soccer.json](./55152-street-sports-soccer.json) |
+| Street Striker | 152681 | [152681-street-striker.json](./152681-street-striker.json) |
 | Street Sweeper | 129643 | [129643-street-sweeper.json](./129643-street-sweeper.json) |
 | Street Tennis, the Next Generation Champions | 57668 | [57668-street-tennis-the-next-generation-champions.json](./57668-street-tennis-the-next-generation-champions.json) |
 | Street Thugz | 254661 | [254661-street-thugz.json](./254661-street-thugz.json) |
@@ -23041,6 +23047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swift Blocks | 26892 | [26892-swift-blocks.json](./26892-swift-blocks.json) |
 | Swift by Knight | 258918 | [258918-swift-by-knight.json](./258918-swift-by-knight.json) |
 | Swift Death | 138229 | [138229-swift-death.json](./138229-swift-death.json) |
+| Swift Elf | 152667 | [152667-swift-elf.json](./152667-swift-elf.json) |
 | Swift*Stitch | 65439 | [65439-swift-stitch.json](./65439-swift-stitch.json) |
 | Swifter | 346770 | [346770-swifter.json](./346770-swifter.json) |
 | Swiftle | 327426 | [327426-swiftle.json](./327426-swiftle.json) |
