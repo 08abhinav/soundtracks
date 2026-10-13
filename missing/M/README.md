@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macross - Eternal Love Song | 41994 | [41994-macross-eternal-love-song.json](./41994-macross-eternal-love-song.json) |
 | Macross 30: Voices across the Galaxy | 79292 | [79292-macross-30-voices-across-the-galaxy.json](./79292-macross-30-voices-across-the-galaxy.json) |
 | Macross Ace Frontier | 44486 | [44486-macross-ace-frontier.json](./44486-macross-ace-frontier.json) |
+| Macross Delta Scramble | 136752 | [136752-macross-delta-scramble.json](./136752-macross-delta-scramble.json) |
 | Macross Digital Mission VF-X | 44776 | [44776-macross-digital-mission-vf-x.json](./44776-macross-digital-mission-vf-x.json) |
 | Macross Plus | 46867 | [46867-macross-plus.json](./46867-macross-plus.json) |
 | Macross Plus Game Edition | 80835 | [80835-macross-plus-game-edition.json](./80835-macross-plus-game-edition.json) |
@@ -1301,6 +1302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Haoh: Dankyuu Battle II | 204352 | [204352-mahjong-haoh-dankyuu-battle-ii.json](./204352-mahjong-haoh-dankyuu-battle-ii.json) |
 | Mahjong Hishou-den: Shin Naki no Ryuu | 37937 | [37937-mahjong-hishou-den-shin-naki-no-ryuu.json](./37937-mahjong-hishou-den-shin-naki-no-ryuu.json) |
 | Mahjong Hot Gimmick Integral | 137932 | [137932-mahjong-hot-gimmick-integral.json](./137932-mahjong-hot-gimmick-integral.json) |
+| Mahjong Hourouki Classic | 136735 | [136735-mahjong-hourouki-classic.json](./136735-mahjong-hourouki-classic.json) |
 | Mahjong Infinity | 117043 | [117043-mahjong-infinity.json](./117043-mahjong-infinity.json) |
 | Mahjong Jo-ou | 228609 | [228609-mahjong-jo-ou.json](./228609-mahjong-jo-ou.json) |
 | Mahjong Journey: Quest for Tikal | 175921 | [175921-mahjong-journey-quest-for-tikal.json](./175921-mahjong-journey-quest-for-tikal.json) |
@@ -1453,6 +1455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid-Sama Cafe: Anime Boys Services in Cute Outfits | 396434 | [396434-maid-sama-cafe-anime-boys-services-in-cute-outfits.json](./396434-maid-sama-cafe-anime-boys-services-in-cute-outfits.json) |
 | Maid-Sama Cafe: Anime Girls Services in Cute Outfits | 396913 | [396913-maid-sama-cafe-anime-girls-services-in-cute-outfits.json](./396913-maid-sama-cafe-anime-girls-services-in-cute-outfits.json) |
 | Maid-san Crisis: The Elegant Region Power | 210562 | [210562-maid-san-crisis-the-elegant-region-power.json](./210562-maid-san-crisis-the-elegant-region-power.json) |
+| Maid-san no Iru Kurashi | 136738 | [136738-maid-san-no-iru-kurashi.json](./136738-maid-san-no-iru-kurashi.json) |
 | Maid-san Slayer: The Soul Of Elegant Skill | 210584 | [210584-maid-san-slayer-the-soul-of-elegant-skill.json](./210584-maid-san-slayer-the-soul-of-elegant-skill.json) |
 | Maid-san wo Migi ni Mi | 111051 | [111051-maid-san-wo-migi-ni-mi.json](./111051-maid-san-wo-migi-ni-mi.json) |
 | Maiden | 142743 | [142743-maiden.json](./142743-maiden.json) |
@@ -4631,6 +4634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot Classics Kabuto Version | 136957 | [136957-medarot-classics-kabuto-version.json](./136957-medarot-classics-kabuto-version.json) |
 | Medarot Classics Kuwagata Version | 136953 | [136953-medarot-classics-kuwagata-version.json](./136953-medarot-classics-kuwagata-version.json) |
 | Medarot Classics Plus Kabuto Version | 136832 | [136832-medarot-classics-plus-kabuto-version.json](./136832-medarot-classics-plus-kabuto-version.json) |
+| Medarot Classics: 20th Anniversary Edition | 136891 | [136891-medarot-classics-20th-anniversary-edition.json](./136891-medarot-classics-20th-anniversary-edition.json) |
 | Medarot DS Kuwagata | 229104 | [229104-medarot-ds-kuwagata.json](./229104-medarot-ds-kuwagata.json) |
 | Medarot DS: Kabuto Version | 67687 | [67687-medarot-ds-kabuto-version.json](./67687-medarot-ds-kabuto-version.json) |
 | Medarot DS: Kuwagata Version | 204249 | [204249-medarot-ds-kuwagata-version.json](./204249-medarot-ds-kuwagata-version.json) |
