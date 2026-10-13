@@ -23381,6 +23381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SwordQuest: AirWorld | 67334 | [67334-swordquest-airworld.json](./67334-swordquest-airworld.json) |
 | Swords | 91396 | [91396-swords.json](./91396-swords.json) |
 | Swords & Adventures | 215703 | [215703-swords-and-adventures.json](./215703-swords-and-adventures.json) |
+| Swords & Bones | 144026 | [144026-swords-and-bones.json](./144026-swords-and-bones.json) |
 | Swords & Bones 3 | 235454 | [235454-swords-and-bones-3.json](./235454-swords-and-bones-3.json) |
 | Swords & Bones 4 | 296359 | [296359-swords-and-bones-4.json](./296359-swords-and-bones-4.json) |
 | Swords & Bones 5 | 360592 | [360592-swords-and-bones-5.json](./360592-swords-and-bones-5.json) |
