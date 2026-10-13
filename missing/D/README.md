@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daahrien's A.P.H.R.O.D.I.T.E. | 247673 | [247673-daahriens-a-p-h-r-o-d-i-t-e.json](./247673-daahriens-a-p-h-r-o-d-i-t-e.json) |
 | Daardoa | 151190 | [151190-daardoa.json](./151190-daardoa.json) |
 | Dab on 'em Haterz | 81781 | [81781-dab-on-em-haterz.json](./81781-dab-on-em-haterz.json) |
+| Dab on Darkness! | 157402 | [157402-dab-on-darkness.json](./157402-dab-on-darkness.json) |
 | Dab, Dance & Twerk | 83161 | [83161-dab-dance-and-twerk.json](./83161-dab-dance-and-twerk.json) |
 | Dabado | 109431 | [109431-dabado.json](./109431-dabado.json) |
 | Dabado Puzzles | 154093 | [154093-dabado-puzzles.json](./154093-dabado-puzzles.json) |
@@ -3965,6 +3966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demetrios: The Big Cynical Adventure & Xenon Valkyrie+ | 145053 | [145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json](./145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json) |
 | Demian | 338825 | [338825-demian.json](./338825-demian.json) |
 | Demian Saga | 243621 | [243621-demian-saga.json](./243621-demian-saga.json) |
+| Demian: The Ritual | 157412 | [157412-demian-the-ritual.json](./157412-demian-the-ritual.json) |
 | Demigod | 9279 | [9279-demigod.json](./9279-demigod.json) |
 | Demigod Idle: Rise of a legend | 265426 | [265426-demigod-idle-rise-of-a-legend.json](./265426-demigod-idle-rise-of-a-legend.json) |
 | Demigod Islands: A Puzzle to Die For | 390620 | [390620-demigod-islands-a-puzzle-to-die-for.json](./390620-demigod-islands-a-puzzle-to-die-for.json) |
@@ -5846,6 +5848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Hazard | 93162 | [93162-digital-hazard.json](./93162-digital-hazard.json) |
 | Digital Hitz Factory | 43217 | [43217-digital-hitz-factory.json](./43217-digital-hitz-factory.json) |
 | Digital Hyperspace Retrograde | 398655 | [398655-digital-hyperspace-retrograde.json](./398655-digital-hyperspace-retrograde.json) |
+| Digital Janitors | 157406 | [157406-digital-janitors.json](./157406-digital-janitors.json) |
 | Digital Jigsaw Puzzle | 104015 | [104015-digital-jigsaw-puzzle.json](./104015-digital-jigsaw-puzzle.json) |
 | Digital Keiba Shinbun: My Trackman | 283300 | [283300-digital-keiba-shinbun-my-trackman.json](./283300-digital-keiba-shinbun-my-trackman.json) |
 | Digital Legacy of Zero | 337775 | [337775-digital-legacy-of-zero.json](./337775-digital-legacy-of-zero.json) |
@@ -10165,6 +10168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Engines: Nomad Cities | 118281 | [118281-dream-engines-nomad-cities.json](./118281-dream-engines-nomad-cities.json) |
 | Dream Enkoure | 316157 | [316157-dream-enkoure.json](./316157-dream-enkoure.json) |
 | Dream Escape | 290121 | [290121-dream-escape.json](./290121-dream-escape.json) |
+| Dream Escape VR | 157405 | [157405-dream-escape-vr.json](./157405-dream-escape-vr.json) |
 | Dream Factory | 34319 | [34319-dream-factory.json](./34319-dream-factory.json) |
 | Dream Fallen: Vila do Chaves | 188082 | [188082-dream-fallen-vila-do-chaves.json](./188082-dream-fallen-vila-do-chaves.json) |
 | Dream Fight Will | 216735 | [216735-dream-fight-will.json](./216735-dream-fight-will.json) |
@@ -10514,6 +10518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drehmal: Apotheosis | 336548 | [336548-drehmal-apotheosis.json](./336548-drehmal-apotheosis.json) |
 | Dreii | 36296 | [36296-dreii.json](./36296-dreii.json) |
 | Drelbs | 13841 | [13841-drelbs.json](./13841-drelbs.json) |
+| Drema | 157383 | [157383-drema.json](./157383-drema.json) |
 | Dremica | 393655 | [393655-dremica.json](./393655-dremica.json) |
 | Dresden Files Cooperative Card Game | 68570 | [68570-dresden-files-cooperative-card-game.json](./68570-dresden-files-cooperative-card-game.json) |
 | Dresden Files Cooperative Card Game: Dead Ends | 170488 | [170488-dresden-files-cooperative-card-game-dead-ends.json](./170488-dresden-files-cooperative-card-game-dead-ends.json) |
@@ -10580,6 +10585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Out | 39674 | [39674-drift-out.json](./39674-drift-out.json) |
 | Drift Out '94 - The Hard Order | 39826 | [39826-drift-out-94-the-hard-order.json](./39826-drift-out-94-the-hard-order.json) |
 | Drift Phonk 666 | 153325 | [153325-drift-phonk-666.json](./153325-drift-phonk-666.json) |
+| Drift Racer | 157399 | [157399-drift-racer.json](./157399-drift-racer.json) |
 | Drift racing car | 219759 | [219759-drift-racing-car.json](./219759-drift-racing-car.json) |
 | Drift Racing Rally | 149471 | [149471-drift-racing-rally.json](./149471-drift-racing-rally.json) |
 | Drift Reign | 245834 | [245834-drift-reign.json](./245834-drift-reign.json) |
