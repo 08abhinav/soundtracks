@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Starfighter | 201245 | [201245-ultimate-starfighter.json](./201245-ultimate-starfighter.json) |
 | Ultimate Sudoku Collection | 100576 | [100576-ultimate-sudoku-collection.json](./100576-ultimate-sudoku-collection.json) |
 | Ultimate Sudoku Collection: Basic Diagonal Pack | 163324 | [163324-ultimate-sudoku-collection-basic-diagonal-pack.json](./163324-ultimate-sudoku-collection-basic-diagonal-pack.json) |
+| Ultimate Sudoku Collection: Basic Jigsaw Pack | 163006 | [163006-ultimate-sudoku-collection-basic-jigsaw-pack.json](./163006-ultimate-sudoku-collection-basic-jigsaw-pack.json) |
 | Ultimate Sudoku Collection: Basic Pack | 163316 | [163316-ultimate-sudoku-collection-basic-pack.json](./163316-ultimate-sudoku-collection-basic-pack.json) |
 | Ultimate Sudoku Collection: Butterfly Pack | 163329 | [163329-ultimate-sudoku-collection-butterfly-pack.json](./163329-ultimate-sudoku-collection-butterfly-pack.json) |
 | Ultimate Sudoku Collection: Cross Pack | 163320 | [163320-ultimate-sudoku-collection-cross-pack.json](./163320-ultimate-sudoku-collection-cross-pack.json) |
@@ -491,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Sudoku Collection: Samurai Beginner Pack | 163322 | [163322-ultimate-sudoku-collection-samurai-beginner-pack.json](./163322-ultimate-sudoku-collection-samurai-beginner-pack.json) |
 | Ultimate Sudoku Collection: Samurai Diagonal Pack | 163325 | [163325-ultimate-sudoku-collection-samurai-diagonal-pack.json](./163325-ultimate-sudoku-collection-samurai-diagonal-pack.json) |
 | Ultimate Sudoku Collection: Samurai Expert Pack | 163323 | [163323-ultimate-sudoku-collection-samurai-expert-pack.json](./163323-ultimate-sudoku-collection-samurai-expert-pack.json) |
+| Ultimate Sudoku Collection: Samurai Jigsaw Pack | 163010 | [163010-ultimate-sudoku-collection-samurai-jigsaw-pack.json](./163010-ultimate-sudoku-collection-samurai-jigsaw-pack.json) |
 | Ultimate Sudoku Collection: Samurai Median Pack | 163331 | [163331-ultimate-sudoku-collection-samurai-median-pack.json](./163331-ultimate-sudoku-collection-samurai-median-pack.json) |
 | Ultimate Sudoku Collection: Samurai Mixed Pack | 163337 | [163337-ultimate-sudoku-collection-samurai-mixed-pack.json](./163337-ultimate-sudoku-collection-samurai-mixed-pack.json) |
 | Ultimate Sudoku Collection: Sohei Pack | 163321 | [163321-ultimate-sudoku-collection-sohei-pack.json](./163321-ultimate-sudoku-collection-sohei-pack.json) |
@@ -2335,6 +2337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Usotsuki Game | 83528 | [83528-usotsuki-game.json](./83528-usotsuki-game.json) |
 | Usotsuki Shangurira | 132090 | [132090-usotsuki-shangurira.json](./132090-usotsuki-shangurira.json) |
 | USS Tempest: Spaceship Simulator | 190894 | [190894-uss-tempest-spaceship-simulator.json](./190894-uss-tempest-spaceship-simulator.json) |
+| USSR Chan: Hentai Puzzle Game | 163545 | [163545-ussr-chan-hentai-puzzle-game.json](./163545-ussr-chan-hentai-puzzle-game.json) |
 | Ustje | 379983 | [379983-ustje.json](./379983-ustje.json) |
 | Usual | 296624 | [296624-usual.json](./296624-usual.json) |
 | Usual John | 105141 | [105141-usual-john.json](./105141-usual-john.json) |
