@@ -2098,6 +2098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incredible Dracula 4: Games of Gods | 119746 | [119746-incredible-dracula-4-games-of-gods.json](./119746-incredible-dracula-4-games-of-gods.json) |
 | Incredible Dracula II: The Last Call | 53224 | [53224-incredible-dracula-ii-the-last-call.json](./53224-incredible-dracula-ii-the-last-call.json) |
 | Incredible Dracula II: The Last Call - Collector's Edition | 29924 | [29924-incredible-dracula-ii-the-last-call-collectors-edition.json](./29924-incredible-dracula-ii-the-last-call-collectors-edition.json) |
+| Incredible Dracula III: Family Secret | 140255 | [140255-incredible-dracula-iii-family-secret.json](./140255-incredible-dracula-iii-family-secret.json) |
 | Incredible Dracula III: Family Secret - Collector's Edition | 53225 | [53225-incredible-dracula-iii-family-secret-collectors-edition.json](./53225-incredible-dracula-iii-family-secret-collectors-edition.json) |
 | Incredible Dracula: Academy of Shadows | 340749 | [340749-incredible-dracula-academy-of-shadows.json](./340749-incredible-dracula-academy-of-shadows.json) |
 | Incredible Dracula: Academy of Shadows - Collector's Edition | 337242 | [337242-incredible-dracula-academy-of-shadows-collectors-edition.json](./337242-incredible-dracula-academy-of-shadows-collectors-edition.json) |
