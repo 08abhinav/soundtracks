@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sable Maze: Sinister Knowledge | 187921 | [187921-sable-maze-sinister-knowledge.json](./187921-sable-maze-sinister-knowledge.json) |
 | Sable Maze: Soul Catcher - Collector’s Edition | 97138 | [97138-sable-maze-soul-catcher-collector-s-edition.json](./97138-sable-maze-soul-catcher-collector-s-edition.json) |
 | Sable Maze: Sullivan River - Collector's Edition | 30045 | [30045-sable-maze-sullivan-river-collectors-edition.json](./30045-sable-maze-sullivan-river-collectors-edition.json) |
+| Sable Maze: Twelve Fears | 140281 | [140281-sable-maze-twelve-fears.json](./140281-sable-maze-twelve-fears.json) |
 | Sable Maze: Twelve Fears - Collector's Edition | 110347 | [110347-sable-maze-twelve-fears-collectors-edition.json](./110347-sable-maze-twelve-fears-collectors-edition.json) |
 | Sable Maze: Twelve Fears HD - A Mystery Hidden Object Game | 88598 | [88598-sable-maze-twelve-fears-hd-a-mystery-hidden-object-game.json](./88598-sable-maze-twelve-fears-hd-a-mystery-hidden-object-game.json) |
 | Sable's Grimoire | 87770 | [87770-sables-grimoire.json](./87770-sables-grimoire.json) |
@@ -20172,6 +20173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super City | 222990 | [222990-super-city.json](./222990-super-city.json) |
 | Super City | 399730 | [399730-super-city.json](./399730-super-city.json) |
 | Super City: Special Edition | 90808 | [90808-super-city-special-edition.json](./90808-super-city-special-edition.json) |
+| Super City: Superhero Sim | 140273 | [140273-super-city-superhero-sim.json](./140273-super-city-superhero-sim.json) |
 | Super Citycon: City Builder | 232541 | [232541-super-citycon-city-builder.json](./232541-super-citycon-city-builder.json) |
 | Super Clash Crossover | 120413 | [120413-super-clash-crossover.json](./120413-super-clash-crossover.json) |
 | Super Climb Up | 123400 | [123400-super-climb-up.json](./123400-super-climb-up.json) |
