@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakutou Ryouri Densetsu Bistro Recipe: Gekitou Foodon Battle-hen | 228569 | [228569-kakutou-ryouri-densetsu-bistro-recipe-gekitou-foodon-battle-hen.json](./228569-kakutou-ryouri-densetsu-bistro-recipe-gekitou-foodon-battle-hen.json) |
 | Kakutou Ryouri Densetsu Bistro Recipe: Kettou Bistgarm-hen | 228570 | [228570-kakutou-ryouri-densetsu-bistro-recipe-kettou-bistgarm-hen.json](./228570-kakutou-ryouri-densetsu-bistro-recipe-kettou-bistgarm-hen.json) |
 | Kakwitene VR | 118806 | [118806-kakwitene-vr.json](./118806-kakwitene-vr.json) |
+| Kakyuusei | 153696 | [153696-kakyuusei.json](./153696-kakyuusei.json) |
 | Kakyuusei 2 | 330548 | [330548-kakyuusei-2.json](./330548-kakyuusei-2.json) |
 | Kakyuusei Remake | 385824 | [385824-kakyuusei-remake.json](./385824-kakyuusei-remake.json) |
 | Kal | 391591 | [391591-kal.json](./391591-kal.json) |
