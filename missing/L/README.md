@@ -3000,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifeflame Compendium | 150040 | [150040-lifeflame-compendium.json](./150040-lifeflame-compendium.json) |
 | LifeGameSimulator | 102328 | [102328-lifegamesimulator.json](./102328-lifegamesimulator.json) |
 | Lifeguard | 61576 | [61576-lifeguard.json](./61576-lifeguard.json) |
+| Lifeguard Simulator | 169732 | [169732-lifeguard-simulator.json](./169732-lifeguard-simulator.json) |
 | Lifeless Horizon | 266900 | [266900-lifeless-horizon.json](./266900-lifeless-horizon.json) |
 | Lifeless Moon | 27933 | [27933-lifeless-moon.json](./27933-lifeless-moon.json) |
 | Lifeless Planet | 8433 | [8433-lifeless-planet.json](./8433-lifeless-planet.json) |
@@ -4382,6 +4383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock 'n Load Tactical Digital: Red Gauntlet - Battlepack | 158740 | [158740-lock-n-load-tactical-digital-red-gauntlet-battlepack.json](./158740-lock-n-load-tactical-digital-red-gauntlet-battlepack.json) |
 | Lock 'n Load Tactical Digital: The Untold Stories - Battlepack | 158736 | [158736-lock-n-load-tactical-digital-the-untold-stories-battlepack.json](./158736-lock-n-load-tactical-digital-the-untold-stories-battlepack.json) |
 | Lock 'n Load Tactical Digital: We Stand Alone - Battlepack | 158737 | [158737-lock-n-load-tactical-digital-we-stand-alone-battlepack.json](./158737-lock-n-load-tactical-digital-we-stand-alone-battlepack.json) |
+| Lock 'n' Chase | 169910 | [169910-lock-n-chase.json](./169910-lock-n-chase.json) |
 | Lock & Key: A Hunter's Legacy | 253920 | [253920-lock-and-key-a-hunters-legacy.json](./253920-lock-and-key-a-hunters-legacy.json) |
 | Lock 5 | 70429 | [70429-lock-5.json](./70429-lock-5.json) |
 | Lock Her Up: The Trump Supremacy | 81815 | [81815-lock-her-up-the-trump-supremacy.json](./81815-lock-her-up-the-trump-supremacy.json) |
