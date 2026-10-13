@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uboat Attack: Gold Edition | 385212 | [385212-uboat-attack-gold-edition.json](./385212-uboat-attack-gold-edition.json) |
 | Uboat Attack: Vortice DLC | 316234 | [316234-uboat-attack-vortice-dlc.json](./316234-uboat-attack-vortice-dlc.json) |
 | Uboat Attack: Zeppelin DLC | 316233 | [316233-uboat-attack-zeppelin-dlc.json](./316233-uboat-attack-zeppelin-dlc.json) |
+| Uboat Commander | 155878 | [155878-uboat-commander.json](./155878-uboat-commander.json) |
 | UBoat: The Silent Wolf | 217469 | [217469-uboat-the-silent-wolf.json](./217469-uboat-the-silent-wolf.json) |
 | Ubok. | 150160 | [150160-ubok.json](./150160-ubok.json) |
 | Ubongo Puzzle Adventure | 53946 | [53946-ubongo-puzzle-adventure.json](./53946-ubongo-puzzle-adventure.json) |
