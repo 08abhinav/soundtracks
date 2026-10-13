@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hat in Time: Seal the Deal | 109466 | [109466-a-hat-in-time-seal-the-deal.json](./109466-a-hat-in-time-seal-the-deal.json) |
 | A Hat in Time: Ultimate Edition | 237863 | [237863-a-hat-in-time-ultimate-edition.json](./237863-a-hat-in-time-ultimate-edition.json) |
 | A Hat in Time: Vanessa's Curse | 193202 | [193202-a-hat-in-time-vanessas-curse.json](./193202-a-hat-in-time-vanessas-curse.json) |
+| A Hat on Time | 144070 | [144070-a-hat-on-time.json](./144070-a-hat-on-time.json) |
 | A Haunted History | 201663 | [201663-a-haunted-history.json](./201663-a-haunted-history.json) |
 | A Haunting Novel: Burton Hotel | 416854 | [416854-a-haunting-novel-burton-hotel.json](./416854-a-haunting-novel-burton-hotel.json) |
 | A Haunting: Witching Hour | 23883 | [23883-a-haunting-witching-hour.json](./23883-a-haunting-witching-hour.json) |
@@ -705,6 +706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Skier's Journey | 180504 | [180504-a-skiers-journey.json](./180504-a-skiers-journey.json) |
 | A Sky Full of Stars Interstellar Focus | 150590 | [150590-a-sky-full-of-stars-interstellar-focus.json](./150590-a-sky-full-of-stars-interstellar-focus.json) |
 | A Skyrocket Story | 58800 | [58800-a-skyrocket-story.json](./58800-a-skyrocket-story.json) |
+| A Sleeper's Quest: A Labyrinth to Thee | 144041 | [144041-a-sleepers-quest-a-labyrinth-to-thee.json](./144041-a-sleepers-quest-a-labyrinth-to-thee.json) |
 | A Slice of Lunch | 372799 | [372799-a-slice-of-lunch.json](./372799-a-slice-of-lunch.json) |
 | A Slight Chance of Sawblades+ | 296794 | [296794-a-slight-chance-of-sawblades.json](./296794-a-slight-chance-of-sawblades.json) |
 | A Slime and a Civil War | 236502 | [236502-a-slime-and-a-civil-war.json](./236502-a-slime-and-a-civil-war.json) |
@@ -5592,6 +5594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amped: Freestyle Snowboarding | 5484 | [5484-amped-freestyle-snowboarding.json](./5484-amped-freestyle-snowboarding.json) |
 | Ampere | 202265 | [202265-ampere.json](./202265-ampere.json) |
 | Ampersand | 34273 | [34273-ampersand.json](./34273-ampersand.json) |
+| Ampersat | 144065 | [144065-ampersat.json](./144065-ampersat.json) |
 | Ampguard | 188678 | [188678-ampguard.json](./188678-ampguard.json) |
 | Amphibarium | 384858 | [384858-amphibarium.json](./384858-amphibarium.json) |
 | Amphibian Assault | 290331 | [290331-amphibian-assault.json](./290331-amphibian-assault.json) |
@@ -11260,9 +11263,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Ninja! | 94738 | [94738-avatar-ninja.json](./94738-avatar-ninja.json) |
 | Avatar Onslaught 2 | 77594 | [77594-avatar-onslaught-2.json](./77594-avatar-onslaught-2.json) |
 | Avatar Paintball | 77598 | [77598-avatar-paintball.json](./77598-avatar-paintball.json) |
+| Avatar Pinball | 144035 | [144035-avatar-pinball.json](./144035-avatar-pinball.json) |
 | Avatar Project (Working Title) | 131442 | [131442-avatar-project-working-title.json](./131442-avatar-project-working-title.json) |
 | Avatar Racedrome | 54704 | [54704-avatar-racedrome.json](./54704-avatar-racedrome.json) |
 | Avatar Rockets | 77586 | [77586-avatar-rockets.json](./77586-avatar-rockets.json) |
+| Avatar Showdown | 144034 | [144034-avatar-showdown.json](./144034-avatar-showdown.json) |
 | Avatar Snowball Fight | 77608 | [77608-avatar-snowball-fight.json](./77608-avatar-snowball-fight.json) |
 | Avatar Superstar | 20120 | [20120-avatar-superstar.json](./20120-avatar-superstar.json) |
 | Avatar Warfare! | 59778 | [59778-avatar-warfare.json](./59778-avatar-warfare.json) |
