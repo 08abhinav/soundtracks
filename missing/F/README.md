@@ -1968,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fastest 1 | 122854 | [122854-fastest-1.json](./122854-fastest-1.json) |
 | Fastest Cashier | 337057 | [337057-fastest-cashier.json](./337057-fastest-cashier.json) |
 | Fastest Finger First! 3 Hint Quiz | 283287 | [283287-fastest-finger-first-3-hint-quiz.json](./283287-fastest-finger-first-3-hint-quiz.json) |
+| Fastest Hands in the Wasd | 167922 | [167922-fastest-hands-in-the-wasd.json](./167922-fastest-hands-in-the-wasd.json) |
 | FastFly | 349895 | [349895-fastfly.json](./349895-fastfly.json) |
 | FastFWD | 183388 | [183388-fastfwd.json](./183388-fastfwd.json) |
 | FastGo Running | 104021 | [104021-fastgo-running.json](./104021-fastgo-running.json) |
@@ -3110,6 +3111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill All | 380615 | [380615-fill-all.json](./380615-fill-all.json) |
 | Fill and Cross: Magic Journey | 159654 | [159654-fill-and-cross-magic-journey.json](./159654-fill-and-cross-magic-journey.json) |
 | Fill and Cross: Trick or Treat | 163987 | [163987-fill-and-cross-trick-or-treat.json](./163987-fill-and-cross-trick-or-treat.json) |
+| Fill and Cross: Trick or Treat 2 | 167927 | [167927-fill-and-cross-trick-or-treat-2.json](./167927-fill-and-cross-trick-or-treat-2.json) |
 | Fill and Cross: Trick or Treat 3! | 94877 | [94877-fill-and-cross-trick-or-treat-3.json](./94877-fill-and-cross-trick-or-treat-3.json) |
 | Fill and Cross. Pirate Riddles | 100348 | [100348-fill-and-cross-pirate-riddles.json](./100348-fill-and-cross-pirate-riddles.json) |
 | Fill Fill | 362399 | [362399-fill-fill.json](./362399-fill-fill.json) |
@@ -7372,6 +7374,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreakOut: Extreme Freeride | 17493 | [17493-freakout-extreme-freeride.json](./17493-freakout-extreme-freeride.json) |
 | Freakshow | 348840 | [348840-freakshow.json](./348840-freakshow.json) |
 | Freakshow: Anniversary | 99575 | [99575-freakshow-anniversary.json](./99575-freakshow-anniversary.json) |
+| Freakshow: Episode 1 | 167912 | [167912-freakshow-episode-1.json](./167912-freakshow-episode-1.json) |
+| Freakshow: Episode 2 | 167909 | [167909-freakshow-episode-2.json](./167909-freakshow-episode-2.json) |
+| Freakshow: Episode 3 | 167910 | [167910-freakshow-episode-3.json](./167910-freakshow-episode-3.json) |
 | Freaky Awesome | 27711 | [27711-freaky-awesome.json](./27711-freaky-awesome.json) |
 | Freaky Creatures | 209565 | [209565-freaky-creatures.json](./209565-freaky-creatures.json) |
 | Freaky Fish DX | 185624 | [185624-freaky-fish-dx.json](./185624-freaky-fish-dx.json) |
