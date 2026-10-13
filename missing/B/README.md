@@ -2148,6 +2148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bat Galaxy | 326779 | [326779-bat-galaxy.json](./326779-bat-galaxy.json) |
 | Bat Hero | 236388 | [236388-bat-hero.json](./236388-bat-hero.json) |
 | Bat Hotel | 116926 | [116926-bat-hotel.json](./116926-bat-hotel.json) |
+| Bat Into Hell | 176750 | [176750-bat-into-hell.json](./176750-bat-into-hell.json) |
 | Bat Lizard Bonanza | 186176 | [186176-bat-lizard-bonanza.json](./186176-bat-lizard-bonanza.json) |
 | Bat N' Ball | 237274 | [237274-bat-n-ball.json](./237274-bat-n-ball.json) |
 | Bat of Dead | 233252 | [233252-bat-of-dead.json](./233252-bat-of-dead.json) |
@@ -3875,6 +3876,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind the Horizon: The Desert | 195239 | [195239-behind-the-horizon-the-desert.json](./195239-behind-the-horizon-the-desert.json) |
 | Behind the Hydra's Eyes | 374585 | [374585-behind-the-hydras-eyes.json](./374585-behind-the-hydras-eyes.json) |
 | Behind the Iron Gate | 14294 | [14294-behind-the-iron-gate.json](./14294-behind-the-iron-gate.json) |
+| Behind the Kurten | 176746 | [176746-behind-the-kurten.json](./176746-behind-the-kurten.json) |
+| Behind the Masc | 176930 | [176930-behind-the-masc.json](./176930-behind-the-masc.json) |
 | Behind The Mask Bundle | 308578 | [308578-behind-the-mask-bundle.json](./308578-behind-the-mask-bundle.json) |
 | Behind the Red Dais | 252036 | [252036-behind-the-red-dais.json](./252036-behind-the-red-dais.json) |
 | Behind the Reflection | 52446 | [52446-behind-the-reflection.json](./52446-behind-the-reflection.json) |
@@ -4642,6 +4645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bicyclism EP | 31950 | [31950-bicyclism-ep.json](./31950-bicyclism-ep.json) |
 | Bid King | 390605 | [390605-bid-king.json](./390605-bid-king.json) |
 | Bid Whist: Card Game | 220817 | [220817-bid-whist-card-game.json](./220817-bid-whist-card-game.json) |
+| Biden My Time: A Joe Biden Garfield-Reading Simulator | 176737 | [176737-biden-my-time-a-joe-biden-garfield-reading-simulator.json](./176737-biden-my-time-a-joe-biden-garfield-reading-simulator.json) |
 | Bienvenue à la cosy académie | 129135 | [129135-bienvenue-a-la-cosy-academie.json](./129135-bienvenue-a-la-cosy-academie.json) |
 | Bierwagen Rush | 130121 | [130121-bierwagen-rush.json](./130121-bierwagen-rush.json) |
 | Bifrost | 262983 | [262983-bifrost.json](./262983-bifrost.json) |
@@ -4987,6 +4991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bill the Demon | 229813 | [229813-bill-the-demon.json](./229813-bill-the-demon.json) |
 | Bill Walsh College Football | 5363 | [5363-bill-walsh-college-football.json](./5363-bill-walsh-college-football.json) |
 | Bill Walsh College Football '95 | 5364 | [5364-bill-walsh-college-football-95.json](./5364-bill-walsh-college-football-95.json) |
+| Bill's Hotel | 176754 | [176754-bills-hotel.json](./176754-bills-hotel.json) |
 | Bill's Tomato Game | 14306 | [14306-bills-tomato-game.json](./14306-bills-tomato-game.json) |
 | Billard | 40763 | [40763-billard.json](./40763-billard.json) |
 | Bille & Trille: Klæder sig ud | 91448 | [91448-bille-and-trille-kl-der-sig-ud.json](./91448-bille-and-trille-kl-der-sig-ud.json) |
@@ -5755,6 +5760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Fighter: Super Shadow Fight | 103887 | [103887-black-fighter-super-shadow-fight.json](./103887-black-fighter-super-shadow-fight.json) |
 | Black Fire | 46087 | [46087-black-fire.json](./46087-black-fire.json) |
 | Black Flower | 400966 | [400966-black-flower.json](./400966-black-flower.json) |
+| Black Friday | 176745 | [176745-black-friday.json](./176745-black-friday.json) |
 | Black Friday | 249699 | [249699-black-friday.json](./249699-black-friday.json) |
 | Black Friday: The Game | 68600 | [68600-black-friday-the-game.json](./68600-black-friday-the-game.json) |
 | Black Geyser: Couriers of Darkness - Tales of the Moon Cult | 379444 | [379444-black-geyser-couriers-of-darkness-tales-of-the-moon-cult.json](./379444-black-geyser-couriers-of-darkness-tales-of-the-moon-cult.json) |
@@ -6463,6 +6469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blessed Surface | 76357 | [76357-blessed-surface.json](./76357-blessed-surface.json) |
 | Blessed Work | 219210 | [219210-blessed-work.json](./219210-blessed-work.json) |
 | Blessing in the Darkness | 333059 | [333059-blessing-in-the-darkness.json](./333059-blessing-in-the-darkness.json) |
+| Blessing of Mokosh | 176749 | [176749-blessing-of-mokosh.json](./176749-blessing-of-mokosh.json) |
 | Blest | 367534 | [367534-blest.json](./367534-blest.json) |
 | Bleu | 187169 | [187169-bleu.json](./187169-bleu.json) |
 | Bleu Bayou | 349836 | [349836-bleu-bayou.json](./349836-bleu-bayou.json) |
@@ -6672,6 +6679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block and Save | 254166 | [254166-block-and-save.json](./254166-block-and-save.json) |
 | Block Arena | 148928 | [148928-block-arena.json](./148928-block-arena.json) |
 | Block Arena | 384098 | [384098-block-arena.json](./384098-block-arena.json) |
+| Block Attack: Rise of the Blocks | 176732 | [176732-block-attack-rise-of-the-blocks.json](./176732-block-attack-rise-of-the-blocks.json) |
 | Block Beast | 353794 | [353794-block-beast.json](./353794-block-beast.json) |
 | Block Blast | 130896 | [130896-block-blast.json](./130896-block-blast.json) |
 | Block Blaster | 245184 | [245184-block-blaster.json](./245184-block-blaster.json) |
@@ -7279,6 +7287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Legless | 177778 | [177778-bloody-legless.json](./177778-bloody-legless.json) |
 | Bloody Mary's Mansion | 90225 | [90225-bloody-marys-mansion.json](./90225-bloody-marys-mansion.json) |
 | Bloody Merc | 152814 | [152814-bloody-merc.json](./152814-bloody-merc.json) |
+| Bloody Nightshift | 176743 | [176743-bloody-nightshift.json](./176743-bloody-nightshift.json) |
 | Bloody Ragdoll : Fort Escape | 87857 | [87857-bloody-ragdoll-fort-escape.json](./87857-bloody-ragdoll-fort-escape.json) |
 | Bloody Rally Show | 139211 | [139211-bloody-rally-show.json](./139211-bloody-rally-show.json) |
 | Bloody Roar | 2749 | [2749-bloody-roar.json](./2749-bloody-roar.json) |
@@ -8629,6 +8638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss 101 | 34959 | [34959-boss-101.json](./34959-boss-101.json) |
 | Boss 101 with S.T.E.V.E. and Max | 59844 | [59844-boss-101-with-s-t-e-v-e-and-max.json](./59844-boss-101-with-s-t-e-v-e-and-max.json) |
 | Boss Barrage | 110986 | [110986-boss-barrage.json](./110986-boss-barrage.json) |
+| Boss Bashing Button Brawlers | 176764 | [176764-boss-bashing-button-brawlers.json](./176764-boss-bashing-button-brawlers.json) |
 | Boss Battle Arena | 371065 | [371065-boss-battle-arena.json](./371065-boss-battle-arena.json) |
 | Boss Fighters | 235372 | [235372-boss-fighters.json](./235372-boss-fighters.json) |
 | Boss Hunter | 233485 | [233485-boss-hunter.json](./233485-boss-hunter.json) |
@@ -8731,6 +8741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottom Squad | 378594 | [378594-bottom-squad.json](./378594-bottom-squad.json) |
 | Bottomless | 183596 | [183596-bottomless.json](./183596-bottomless.json) |
 | Bottomless Pitfall | 348879 | [348879-bottomless-pitfall.json](./348879-bottomless-pitfall.json) |
+| Bottoms Up | 176941 | [176941-bottoms-up.json](./176941-bottoms-up.json) |
 | Bottop | 329196 | [329196-bottop.json](./329196-bottop.json) |
 | Bou Ningen Challenge! | 222520 | [222520-bou-ningen-challenge.json](./222520-bou-ningen-challenge.json) |
 | Bou's Revenge | 308351 | [308351-bous-revenge.json](./308351-bous-revenge.json) |
