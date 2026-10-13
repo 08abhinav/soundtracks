@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X | 37764 | [37764-x.json](./37764-x.json) |
 | X Air Combat | 158625 | [158625-x-air-combat.json](./158625-x-air-combat.json) |
 | X Defense: Timing TD | 288436 | [288436-x-defense-timing-td.json](./288436-x-defense-timing-td.json) |
+| X Falling Sand | 152039 | [152039-x-falling-sand.json](./152039-x-falling-sand.json) |
 | X Games Snow Boarder | 125783 | [125783-x-games-snow-boarder.json](./125783-x-games-snow-boarder.json) |
 | X Japan - Virtual Shock 001 | 94710 | [94710-x-japan-virtual-shock-001.json](./94710-x-japan-virtual-shock-001.json) |
 | X Multiply | 12271 | [12271-x-multiply.json](./12271-x-multiply.json) |
@@ -385,7 +386,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XCOM 2: Resistance Warrior Pack | 225096 | [225096-xcom-2-resistance-warrior-pack.json](./225096-xcom-2-resistance-warrior-pack.json) |
 | XCOM 2: Shen's Last Gift | 19859 | [19859-xcom-2-shens-last-gift.json](./19859-xcom-2-shens-last-gift.json) |
 | XCOM Legends | 159035 | [159035-xcom-legends.json](./159035-xcom-legends.json) |
-| XCOM: Chimera Squad | 132139 | [132139-xcom-chimera-squad.json](./132139-xcom-chimera-squad.json) |
 | XCOM: Enemy Unknown - Elite Edition | 88607 | [88607-xcom-enemy-unknown-elite-edition.json](./88607-xcom-enemy-unknown-elite-edition.json) |
 | XCOM: Enemy Unknown - Elite Soldier Pack | 286623 | [286623-xcom-enemy-unknown-elite-soldier-pack.json](./286623-xcom-enemy-unknown-elite-soldier-pack.json) |
 | XCOM: Enemy Unknown - Slingshot Pack | 225095 | [225095-xcom-enemy-unknown-slingshot-pack.json](./225095-xcom-enemy-unknown-slingshot-pack.json) |
