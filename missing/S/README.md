@@ -5750,6 +5750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shock Wave: Operation JumpGate | 4310 | [4310-shock-wave-operation-jumpgate.json](./4310-shock-wave-operation-jumpgate.json) |
 | Shocked | 213458 | [213458-shocked.json](./213458-shocked.json) |
 | Shocking Twist | 308261 | [308261-shocking-twist.json](./308261-shocking-twist.json) |
+| Shocklane | 176226 | [176226-shocklane.json](./176226-shocklane.json) |
 | Shockman Collection Vol. 1 | 289766 | [289766-shockman-collection-vol-1.json](./289766-shockman-collection-vol-1.json) |
 | Shockwave | 48084 | [48084-shockwave.json](./48084-shockwave.json) |
 | ShockWave | 323284 | [323284-shockwave.json](./323284-shockwave.json) |
@@ -6666,6 +6667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sikanda | 108380 | [108380-sikanda.json](./108380-sikanda.json) |
 | Sikhl | 308266 | [308266-sikhl.json](./308266-sikhl.json) |
 | Sil and the Fading World | 331103 | [331103-sil-and-the-fading-world.json](./331103-sil-and-the-fading-world.json) |
+| Silah | 176195 | [176195-silah.json](./176195-silah.json) |
 | Silberheim Evolving Card Game | 393787 | [393787-silberheim-evolving-card-game.json](./393787-silberheim-evolving-card-game.json) |
 | Silence | 115840 | [115840-silence.json](./115840-silence.json) |
 | Silence Channel | 143593 | [143593-silence-channel.json](./143593-silence-channel.json) |
@@ -8447,6 +8449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay All Bosses: Idle | 390114 | [390114-slay-all-bosses-idle.json](./390114-slay-all-bosses-idle.json) |
 | Slay All Goblins | 113481 | [113481-slay-all-goblins.json](./113481-slay-all-goblins.json) |
 | Slay and Spray Exterminators | 384512 | [384512-slay-and-spray-exterminators.json](./384512-slay-and-spray-exterminators.json) |
+| Slay Bells | 176229 | [176229-slay-bells.json](./176229-slay-bells.json) |
 | Slay or Fall | 316788 | [316788-slay-or-fall.json](./316788-slay-or-fall.json) |
 | Slay the Berserker | 384494 | [384494-slay-the-berserker.json](./384494-slay-the-berserker.json) |
 | Slay the Demon Queen | 340364 | [340364-slay-the-demon-queen.json](./340364-slay-the-demon-queen.json) |
@@ -9974,6 +9977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowCross | 50067 | [50067-snowcross.json](./50067-snowcross.json) |
 | Snowday! | 310945 | [310945-snowday.json](./310945-snowday.json) |
 | Snowdome | 260961 | [260961-snowdome.json](./260961-snowdome.json) |
+| Snowdown | 176228 | [176228-snowdown.json](./176228-snowdown.json) |
 | Snowdreams -lost in winter- | 146324 | [146324-snowdreams-lost-in-winter.json](./146324-snowdreams-lost-in-winter.json) |
 | Snowdrift | 401698 | [401698-snowdrift.json](./401698-snowdrift.json) |
 | Snowdrop Escape | 170562 | [170562-snowdrop-escape.json](./170562-snowdrop-escape.json) |
@@ -11865,6 +11869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sortik Systems | 338218 | [338218-sortik-systems.json](./338218-sortik-systems.json) |
 | Sorting Baby Blocks: children's educational puzzle | 86837 | [86837-sorting-baby-blocks-childrens-educational-puzzle.json](./86837-sorting-baby-blocks-childrens-educational-puzzle.json) |
 | Sorting Puzzles for Kids | 104128 | [104128-sorting-puzzles-for-kids.json](./104128-sorting-puzzles-for-kids.json) |
+| Sorting Sortilege | 176213 | [176213-sorting-sortilege.json](./176213-sorting-sortilege.json) |
 | SortPuz | 196340 | [196340-sortpuz.json](./196340-sortpuz.json) |
 | SOS | 24008 | [24008-sos.json](./24008-sos.json) |
 | SOS | 72334 | [72334-sos.json](./72334-sos.json) |
@@ -17192,6 +17197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellona | 152861 | [152861-stellona.json](./152861-stellona.json) |
 | Stem | 24944 | [24944-stem.json](./24944-stem.json) |
 | Stencil Art | 147621 | [147621-stencil-art.json](./147621-stencil-art.json) |
+| Stendhal | 176198 | [176198-stendhal.json](./176198-stendhal.json) |
 | Steno Arcade | 33369 | [33369-steno-arcade.json](./33369-steno-arcade.json) |
 | Step | 179436 | [179436-step.json](./179436-step.json) |
 | Step | 360115 | [360115-step.json](./360115-step.json) |
