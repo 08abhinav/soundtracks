@@ -2326,6 +2326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infantry Attack: Strike from Above | 303579 | [303579-infantry-attack-strike-from-above.json](./303579-infantry-attack-strike-from-above.json) |
 | Infasia | 260190 | [260190-infasia.json](./260190-infasia.json) |
 | Infect and Destroy | 17511 | [17511-infect-and-destroy.json](./17511-infect-and-destroy.json) |
+| Infect Them All: Vampires | 175131 | [175131-infect-them-all-vampires.json](./175131-infect-them-all-vampires.json) |
 | Infect Them All: Zombies | 174302 | [174302-infect-them-all-zombies.json](./174302-infect-them-all-zombies.json) |
 | Infected | 242548 | [242548-infected.json](./242548-infected.json) |
 | Infected | 44524 | [44524-infected.json](./44524-infected.json) |
@@ -2539,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Versus | 143697 | [143697-infinite-versus.json](./143697-infinite-versus.json) |
 | Infinite Void | 294868 | [294868-infinite-void.json](./294868-infinite-void.json) |
 | Infinite Void | 311202 | [311202-infinite-void.json](./311202-infinite-void.json) |
+| Infinite Warrior | 175317 | [175317-infinite-warrior.json](./175317-infinite-warrior.json) |
 | Infinite Waves TD | 224707 | [224707-infinite-waves-td.json](./224707-infinite-waves-td.json) |
 | Infinite White: Hyperbolic Time Chamber Simulator | 273460 | [273460-infinite-white-hyperbolic-time-chamber-simulator.json](./273460-infinite-white-hyperbolic-time-chamber-simulator.json) |
 | Infinite Wii | 313418 | [313418-infinite-wii.json](./313418-infinite-wii.json) |
@@ -3019,6 +3021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insight | 302670 | [302670-insight.json](./302670-insight.json) |
 | InSight | 302955 | [302955-insight.json](./302955-insight.json) |
 | Insignia | 152232 | [152232-insignia.json](./152232-insignia.json) |
+| Insignia: Tactics | 175139 | [175139-insignia-tactics.json](./175139-insignia-tactics.json) |
 | Insomnia | 224710 | [224710-insomnia.json](./224710-insomnia.json) |
 | Insomnia | 238747 | [238747-insomnia.json](./238747-insomnia.json) |
 | Insomnia | 278403 | [278403-insomnia.json](./278403-insomnia.json) |
