@@ -755,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora: First Contact - Eclipse of Nashira | 170827 | [170827-pandora-first-contact-eclipse-of-nashira.json](./170827-pandora-first-contact-eclipse-of-nashira.json) |
 | Pandora: Kimi no Namae wo, Boku ha Shiru | 221825 | [221825-pandora-kimi-no-namae-wo-boku-ha-shiru.json](./221825-pandora-kimi-no-namae-wo-boku-ha-shiru.json) |
 | Pandora: Purge of Pride | 62995 | [62995-pandora-purge-of-pride.json](./62995-pandora-purge-of-pride.json) |
+| Pandora: Wild Origins | 169139 | [169139-pandora-wild-origins.json](./169139-pandora-wild-origins.json) |
 | Pandora's Box | 252016 | [252016-pandoras-box.json](./252016-pandoras-box.json) |
 | Pandora's Box | 330803 | [330803-pandoras-box.json](./330803-pandoras-box.json) |
 | Pandora's Box | 76200 | [76200-pandoras-box.json](./76200-pandoras-box.json) |
@@ -5686,6 +5687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: Vesprax | 377706 | [377706-pixicharm-vesprax.json](./377706-pixicharm-vesprax.json) |
 | Pixicharm: Zippyron | 392351 | [392351-pixicharm-zippyron.json](./392351-pixicharm-zippyron.json) |
 | Pixie | 76171 | [76171-pixie.json](./76171-pixie.json) |
+| Pixie Farm VR | 169483 | [169483-pixie-farm-vr.json](./169483-pixie-farm-vr.json) |
 | Pixie Panic Garden | 110526 | [110526-pixie-panic-garden.json](./110526-pixie-panic-garden.json) |
 | Pixie Pete | 25688 | [25688-pixie-pete.json](./25688-pixie-pete.json) |
 | Pixie Plates: Ember Peaks DLC | 399803 | [399803-pixie-plates-ember-peaks-dlc.json](./399803-pixie-plates-ember-peaks-dlc.json) |
