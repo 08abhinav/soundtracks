@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives 03: Kururin Cafe | 137538 | [137538-g-mode-archives-03-kururin-cafe.json](./137538-g-mode-archives-03-kururin-cafe.json) |
 | G-Mode Archives 04: Beach Volleyball Girl Shizuku | 221780 | [221780-g-mode-archives-04-beach-volleyball-girl-shizuku.json](./221780-g-mode-archives-04-beach-volleyball-girl-shizuku.json) |
 | G-Mode Archives 06: Shijou Saikyou Miyamoto Julia | 137617 | [137617-g-mode-archives-06-shijou-saikyou-miyamoto-julia.json](./137617-g-mode-archives-06-shijou-saikyou-miyamoto-julia.json) |
+| G-Mode Archives 07: Love Love Knuckle | 137356 | [137356-g-mode-archives-07-love-love-knuckle.json](./137356-g-mode-archives-07-love-love-knuckle.json) |
 | G-Mode Archives 08: Pucchin Puzzle | 137678 | [137678-g-mode-archives-08-pucchin-puzzle.json](./137678-g-mode-archives-08-pucchin-puzzle.json) |
 | G-Mode Archives 09: Flyhight Cloudia II | 137593 | [137593-g-mode-archives-09-flyhight-cloudia-ii.json](./137593-g-mode-archives-09-flyhight-cloudia-ii.json) |
 | G-Mode Archives 15: Chura-jima Kurashi | 163238 | [163238-g-mode-archives-15-chura-jima-kurashi.json](./163238-g-mode-archives-15-chura-jima-kurashi.json) |
@@ -1403,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gasnator | 229796 | [229796-gasnator.json](./229796-gasnator.json) |
 | Gassy GaoGao | 405545 | [405545-gassy-gaogao.json](./405545-gassy-gaogao.json) |
 | Gassy Getaway | 310076 | [310076-gassy-getaway.json](./310076-gassy-getaway.json) |
+| Gassy Man | 137364 | [137364-gassy-man.json](./137364-gassy-man.json) |
 | Gassy Mob | 59816 | [59816-gassy-mob.json](./59816-gassy-mob.json) |
 | Gastova: The Witches of Arkana | 130955 | [130955-gastova-the-witches-of-arkana.json](./130955-gastova-the-witches-of-arkana.json) |
 | Gastro Force | 197221 | [197221-gastro-force.json](./197221-gastro-force.json) |
@@ -1517,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gay World | 81954 | [81954-gay-world.json](./81954-gay-world.json) |
 | Gay Zodiac | 183034 | [183034-gay-zodiac.json](./183034-gay-zodiac.json) |
 | Gayandere | 215782 | [215782-gayandere.json](./215782-gayandere.json) |
+| GayBlade | 137326 | [137326-gayblade.json](./137326-gayblade.json) |
 | Gaydorado | 87004 | [87004-gaydorado.json](./87004-gaydorado.json) |
 | Gaza SP | 279081 | [279081-gaza-sp.json](./279081-gaza-sp.json) |
 | Gazar | 373167 | [373167-gazar.json](./373167-gazar.json) |
@@ -1653,6 +1656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekibo: Gekisha Boy | 43199 | [43199-gekibo-gekisha-boy.json](./43199-gekibo-gekisha-boy.json) |
 | Gekiden Youitan: Ep.1 | 83244 | [83244-gekiden-youitan-ep-1.json](./83244-gekiden-youitan-ep-1.json) |
 | Gekifu Bakegyamon: Ayakashi Fighting | 61346 | [61346-gekifu-bakegyamon-ayakashi-fighting.json](./61346-gekifu-bakegyamon-ayakashi-fighting.json) |
+| Gekirin | 137349 | [137349-gekirin.json](./137349-gekirin.json) |
 | Gekisou Sentai Carranger: Tatakae! Hiragana Racer | 76905 | [76905-gekisou-sentai-carranger-tatakae-hiragana-racer.json](./76905-gekisou-sentai-carranger-tatakae-hiragana-racer.json) |
 | Gekisou Sentai Carranger: Zenkai! Racer Senshi | 3285 | [3285-gekisou-sentai-carranger-zenkai-racer-senshi.json](./3285-gekisou-sentai-carranger-zenkai-racer-senshi.json) |
 | Gekisou TomaRunner | 70665 | [70665-gekisou-tomarunner.json](./70665-gekisou-tomarunner.json) |
@@ -1786,6 +1790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gen.loss | 307213 | [307213-gen-loss.json](./307213-gen-loss.json) |
 | Genba no Kizuna | 235738 | [235738-genba-no-kizuna.json](./235738-genba-no-kizuna.json) |
 | Genbu's Favour | 322556 | [322556-genbus-favour.json](./322556-genbus-favour.json) |
+| Gendai Daisenryaku 2020: Yureru Sekai Chitsujo! Taikoku no Yabou to Sekai Taisen | 136748 | [136748-gendai-daisenryaku-2020-yureru-sekai-chitsujo-taikoku-no-yabou-to-sekai-taisen.json](./136748-gendai-daisenryaku-2020-yureru-sekai-chitsujo-taikoku-no-yabou-to-sekai-taisen.json) |
 | Gendai Daisenryaku: Isshoku Sokuhatsu Gunji Balance Houkai | 269495 | [269495-gendai-daisenryaku-isshoku-sokuhatsu-gunji-balance-houkai.json](./269495-gendai-daisenryaku-isshoku-sokuhatsu-gunji-balance-houkai.json) |
 | Gendai Daisenryaku: Ultimate War | 231510 | [231510-gendai-daisenryaku-ultimate-war.json](./231510-gendai-daisenryaku-ultimate-war.json) |
 | Gender Dysphoria | 177502 | [177502-gender-dysphoria.json](./177502-gender-dysphoria.json) |
