@@ -2578,6 +2578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Relaxation Space Room | 182782 | [182782-vr-relaxation-space-room.json](./182782-vr-relaxation-space-room.json) |
 | VR Rescue of Girls | 160253 | [160253-vr-rescue-of-girls.json](./160253-vr-rescue-of-girls.json) |
 | VR Retreat | 31085 | [31085-vr-retreat.json](./31085-vr-retreat.json) |
+| VR Retro Combat Deluxe | 154259 | [154259-vr-retro-combat-deluxe.json](./154259-vr-retro-combat-deluxe.json) |
 | VR Retro Snake on Girls | 163292 | [163292-vr-retro-snake-on-girls.json](./163292-vr-retro-snake-on-girls.json) |
 | VR Rhythm Action Seiya | 76522 | [76522-vr-rhythm-action-seiya.json](./76522-vr-rhythm-action-seiya.json) |
 | VR Robinhood Archery | 209390 | [209390-vr-robinhood-archery.json](./209390-vr-robinhood-archery.json) |
