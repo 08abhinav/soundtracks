@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T19:25:44.941Z",
-  "total_soundtracks": 1584,
+  "generated_at": "2026-10-13T19:26:00.217Z",
+  "total_soundtracks": 1585,
   "games": [
     {
       "igdb_id": 7522,
@@ -4759,6 +4759,20 @@
           "spotify_url": "https://music.apple.com/us/album/dokev-rockstar-original-game-soundtrack-ep/1780284348?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1780284348"
+        }
+      ]
+    },
+    {
+      "igdb_id": 152122,
+      "game_name": "Doki Doki Literature Club Plus!",
+      "game_url": "https://ostdb.net/games/doki-doki-literature-club-plus",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/da/42/19da42d6-5c0a-c5b0-a5b9-f67dcb6b9feb/artwork.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Doki Doki Literature Club Plus! (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/71dlM9bv9Ze3JexA9INOUF",
+          "apple_music_url": "https://music.apple.com/us/album/doki-doki-literature-club-plus-original-soundtrack/1575236381",
+          "album_link_url": "https://album.link/i/1575236381"
         }
       ]
     },
