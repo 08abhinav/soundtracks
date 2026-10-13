@@ -2243,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Secrets | 222963 | [222963-kingdom-of-secrets.json](./222963-kingdom-of-secrets.json) |
 | Kingdom of the Dragon | 54866 | [54866-kingdom-of-the-dragon.json](./54866-kingdom-of-the-dragon.json) |
 | Kingdom of the Untitled Magic | 154033 | [154033-kingdom-of-the-untitled-magic.json](./154033-kingdom-of-the-untitled-magic.json) |
+| Kingdom of the Winds: Yeon | 140257 | [140257-kingdom-of-the-winds-yeon.json](./140257-kingdom-of-the-winds-yeon.json) |
 | Kingdom of Velvet Сhains | 385315 | [385315-kingdom-of-velvet-hains.json](./385315-kingdom-of-velvet-hains.json) |
 | Kingdom Quest | 236208 | [236208-kingdom-quest.json](./236208-kingdom-quest.json) |
 | Kingdom Rules | 412390 | [412390-kingdom-rules.json](./412390-kingdom-rules.json) |
