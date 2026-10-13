@@ -1690,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ImmortalSurvivors | 273663 | [273663-immortalsurvivors.json](./273663-immortalsurvivors.json) |
 | Immortelle | 212825 | [212825-immortelle.json](./212825-immortelle.json) |
 | Immortum | 332246 | [332246-immortum.json](./332246-immortum.json) |
+| Immortus Temporus | 152678 | [152678-immortus-temporus.json](./152678-immortus-temporus.json) |
 | Immotro | 405432 | [405432-immotro.json](./405432-immotro.json) |
 | Immune Attack | 366828 | [366828-immune-attack.json](./366828-immune-attack.json) |
 | Immune Simulator | 264057 | [264057-immune-simulator.json](./264057-immune-simulator.json) |
@@ -2099,6 +2100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incredible Dracula: Chasing Love | 53226 | [53226-incredible-dracula-chasing-love.json](./53226-incredible-dracula-chasing-love.json) |
 | Incredible Dracula: Chasing Love - Collector's Edition | 33703 | [33703-incredible-dracula-chasing-love-collectors-edition.json](./33703-incredible-dracula-chasing-love-collectors-edition.json) |
 | Incredible Dracula: Dark Carnival | 274476 | [274476-incredible-dracula-dark-carnival.json](./274476-incredible-dracula-dark-carnival.json) |
+| Incredible Dracula: Legacy of the Valkyries | 152687 | [152687-incredible-dracula-legacy-of-the-valkyries.json](./152687-incredible-dracula-legacy-of-the-valkyries.json) |
 | Incredible Dracula: License to Relax - Collector's Edition | 341025 | [341025-incredible-dracula-license-to-relax-collectors-edition.json](./341025-incredible-dracula-license-to-relax-collectors-edition.json) |
 | Incredible Dracula: The Last Call Collector's Edition | 53227 | [53227-incredible-dracula-the-last-call-collectors-edition.json](./53227-incredible-dracula-the-last-call-collectors-edition.json) |
 | Incredible Ink | 343924 | [343924-incredible-ink.json](./343924-incredible-ink.json) |
@@ -2344,6 +2346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infected | 242548 | [242548-infected.json](./242548-infected.json) |
 | Infected | 44524 | [44524-infected.json](./44524-infected.json) |
 | Infected Bunker | 280306 | [280306-infected-bunker.json](./280306-infected-bunker.json) |
+| Infected City | 152649 | [152649-infected-city.json](./152649-infected-city.json) |
 | Infected Friend | 224548 | [224548-infected-friend.json](./224548-infected-friend.json) |
 | Infected Love: The Fatal Experiment | 374135 | [374135-infected-love-the-fatal-experiment.json](./374135-infected-love-the-fatal-experiment.json) |
 | Infected Mushroom Pinball | 353770 | [353770-infected-mushroom-pinball.json](./353770-infected-mushroom-pinball.json) |
@@ -2643,6 +2646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Toss | 239629 | [239629-infinity-toss.json](./239629-infinity-toss.json) |
 | Infinity Tower | 357845 | [357845-infinity-tower.json](./357845-infinity-tower.json) |
 | Infinity Trials | 245817 | [245817-infinity-trials.json](./245817-infinity-trials.json) |
+| Infinity Valley | 152669 | [152669-infinity-valley.json](./152669-infinity-valley.json) |
 | Infinity war | 167816 | [167816-infinity-war.json](./167816-infinity-war.json) |
 | Infinity War | 284292 | [284292-infinity-war.json](./284292-infinity-war.json) |
 | Infinity Wars 2 | 128386 | [128386-infinity-wars-2.json](./128386-infinity-wars-2.json) |
@@ -4370,6 +4374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Raining Cats' & Dogs' Poop 2 | 62216 | [62216-its-raining-cats-and-dogs-poop-2.json](./62216-its-raining-cats-and-dogs-poop-2.json) |
 | It's Raining Fists and Metal | 124202 | [124202-its-raining-fists-and-metal.json](./124202-its-raining-fists-and-metal.json) |
 | It's Still a Space Thing | 200053 | [200053-its-still-a-space-thing.json](./200053-its-still-a-space-thing.json) |
+| It's Summer | 153159 | [153159-its-summer.json](./153159-its-summer.json) |
 | It's T-Time | 230843 | [230843-its-t-time.json](./230843-its-t-time.json) |
 | It's Time | 201246 | [201246-its-time.json](./201246-its-time.json) |
 | It's Time | 23888 | [23888-its-time.json](./23888-its-time.json) |
