@@ -1516,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parina's Demon Lair Adventure | 310130 | [310130-parinas-demon-lair-adventure.json](./310130-parinas-demon-lair-adventure.json) |
 | Paris Attack | 40764 | [40764-paris-attack.json](./40764-paris-attack.json) |
 | Paris Belle Epoque | 303270 | [303270-paris-belle-epoque.json](./303270-paris-belle-epoque.json) |
+| Paris Chase | 144046 | [144046-paris-chase.json](./144046-paris-chase.json) |
 | Paris Craft: Exploration of City of Love & Art | 96012 | [96012-paris-craft-exploration-of-city-of-love-and-art.json](./96012-paris-craft-exploration-of-city-of-love-and-art.json) |
 | Paris Games Fail! | 319277 | [319277-paris-games-fail.json](./319277-paris-games-fail.json) |
 | Paris in Danger | 23966 | [23966-paris-in-danger.json](./23966-paris-in-danger.json) |
@@ -6300,6 +6301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plastic Playground | 33116 | [33116-plastic-playground.json](./33116-plastic-playground.json) |
 | Plastic Soldiers | 111701 | [111701-plastic-soldiers.json](./111701-plastic-soldiers.json) |
 | Plastic Trick | 321592 | [321592-plastic-trick.json](./321592-plastic-trick.json) |
+| Plasticalypse: TrashSub Adventures | 144025 | [144025-plasticalypse-trashsub-adventures.json](./144025-plasticalypse-trashsub-adventures.json) |
 | PlasticFighter | 310738 | [310738-plasticfighter.json](./310738-plasticfighter.json) |
 | Plastris | 130263 | [130263-plastris.json](./130263-plastris.json) |
 | Plat Wacky Adventure Remastered | 266184 | [266184-plat-wacky-adventure-remastered.json](./266184-plat-wacky-adventure-remastered.json) |
@@ -6452,6 +6454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayerONeGame | 90357 | [90357-playeronegame.json](./90357-playeronegame.json) |
 | Playerunkn1wn: Friendly Fire | 80912 | [80912-playerunkn1wn-friendly-fire.json](./80912-playerunkn1wn-friendly-fire.json) |
 | Playerunkn4wn: Zombie | 80913 | [80913-playerunkn4wn-zombie.json](./80913-playerunkn4wn-zombie.json) |
+| PlayerUnknown's Battlegrounds: Season 10 | 144042 | [144042-playerunknowns-battlegrounds-season-10.json](./144042-playerunknowns-battlegrounds-season-10.json) |
 | PlayerUnknown's Battlegrounds: Season 11 | 158956 | [158956-playerunknowns-battlegrounds-season-11.json](./158956-playerunknowns-battlegrounds-season-11.json) |
 | PlayerUnknown's Battlegrounds: Season 12 | 158958 | [158958-playerunknowns-battlegrounds-season-12.json](./158958-playerunknowns-battlegrounds-season-12.json) |
 | PlayerUnknown's Battlegrounds: Season 7 | 135139 | [135139-playerunknowns-battlegrounds-season-7.json](./135139-playerunknowns-battlegrounds-season-7.json) |
@@ -9976,6 +9979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ProBee | 208376 | [208376-probee.json](./208376-probee.json) |
 | Problem Animals | 193488 | [193488-problem-animals.json](./193488-problem-animals.json) |
 | Problem Attic | 76159 | [76159-problem-attic.json](./76159-problem-attic.json) |
+| Problem Here | 144078 | [144078-problem-here.json](./144078-problem-here.json) |
 | Problem Sleuth | 336732 | [336732-problem-sleuth.json](./336732-problem-sleuth.json) |
 | Problem Trolley | 202044 | [202044-problem-trolley.json](./202044-problem-trolley.json) |
 | Problematic | 409388 | [409388-problematic.json](./409388-problematic.json) |
@@ -11098,6 +11102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PUBG Mobile: Season 13 | 135154 | [135154-pubg-mobile-season-13.json](./135154-pubg-mobile-season-13.json) |
 | PUBG Mobile: Season 14 | 136975 | [136975-pubg-mobile-season-14.json](./136975-pubg-mobile-season-14.json) |
 | PUBG Mobile: Season 16 | 141193 | [141193-pubg-mobile-season-16.json](./141193-pubg-mobile-season-16.json) |
+| PUBG Mobile: Season 17 | 144058 | [144058-pubg-mobile-season-17.json](./144058-pubg-mobile-season-17.json) |
 | PUBG Mobile: Season 18 | 158951 | [158951-pubg-mobile-season-18.json](./158951-pubg-mobile-season-18.json) |
 | PUBG Mobile: Season 19 | 158952 | [158952-pubg-mobile-season-19.json](./158952-pubg-mobile-season-19.json) |
 | PUBG Mobile: Season 20 | 158953 | [158953-pubg-mobile-season-20.json](./158953-pubg-mobile-season-20.json) |
