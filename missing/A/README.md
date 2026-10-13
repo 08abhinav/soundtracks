@@ -7299,6 +7299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends: PlayStation Plus Play Pack | 325861 | [325861-apex-legends-playstation-plus-play-pack.json](./325861-apex-legends-playstation-plus-play-pack.json) |
 | Apex Legends: Prodigy | 342775 | [342775-apex-legends-prodigy.json](./342775-apex-legends-prodigy.json) |
 | Apex Legends: Season 5 | 133259 | [133259-apex-legends-season-5.json](./133259-apex-legends-season-5.json) |
+| Apex Legends: Season 6 | 136736 | [136736-apex-legends-season-6.json](./136736-apex-legends-season-6.json) |
 | Apex Legends: Season 7 | 140448 | [140448-apex-legends-season-7.json](./140448-apex-legends-season-7.json) |
 | Apex Legends: Season 8 | 142781 | [142781-apex-legends-season-8.json](./142781-apex-legends-season-8.json) |
 | Apex Legends: Shockwave | 314909 | [314909-apex-legends-shockwave.json](./314909-apex-legends-shockwave.json) |
@@ -8964,6 +8965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Warriors | 13688 | [13688-armored-warriors.json](./13688-armored-warriors.json) |
 | Armorines: Project S.W.A.R.M. | 186027 | [186027-armorines-project-s-w-a-r-m.json](./186027-armorines-project-s-w-a-r-m.json) |
 | Armorines: Project S.W.A.R.M. | 3439 | [3439-armorines-project-s-w-a-r-m.json](./3439-armorines-project-s-w-a-r-m.json) |
+| Armory & Machine | 137363 | [137363-armory-and-machine.json](./137363-armory-and-machine.json) |
 | Armory League | 105278 | [105278-armory-league.json](./105278-armory-league.json) |
 | Armour-Geddon II: Codename Hellfire | 14267 | [14267-armour-geddon-ii-codename-hellfire.json](./14267-armour-geddon-ii-codename-hellfire.json) |
 | Armourdillo | 13805 | [13805-armourdillo.json](./13805-armourdillo.json) |
@@ -10513,6 +10515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Lulua: The Scion of Arland - Additional Character: Meruru | 238049 | [238049-atelier-lulua-the-scion-of-arland-additional-character-meruru.json](./238049-atelier-lulua-the-scion-of-arland-additional-character-meruru.json) |
 | Atelier Lulua: The Scion of Arland - Additional Character: Totori | 238050 | [238050-atelier-lulua-the-scion-of-arland-additional-character-totori.json](./238050-atelier-lulua-the-scion-of-arland-additional-character-totori.json) |
 | Atelier Lulua: The Scion of Arland - Digital Deluxe Edition | 118934 | [118934-atelier-lulua-the-scion-of-arland-digital-deluxe-edition.json](./118934-atelier-lulua-the-scion-of-arland-digital-deluxe-edition.json) |
+| Atelier Lulua: The Scion of Arland - Premium Box | 136723 | [136723-atelier-lulua-the-scion-of-arland-premium-box.json](./136723-atelier-lulua-the-scion-of-arland-premium-box.json) |
 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - Great Adventures in New Worlds Vol. 1 | 171395 | [171395-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-great-adventures-in-new-worlds-vol-1.json](./171395-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-great-adventures-in-new-worlds-vol-1.json) |
 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - Great Adventures in New Worlds Vol. 2 | 171342 | [171342-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-great-adventures-in-new-worlds-vol-2.json](./171342-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-great-adventures-in-new-worlds-vol-2.json) |
 | Atelier Marie | 329384 | [329384-atelier-marie.json](./329384-atelier-marie.json) |
@@ -10591,6 +10594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Yumia: The Alchemist of Memories & the Envisioned Land - Ultimate Edition | 333716 | [333716-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-ultimate-edition.json](./333716-atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land-ultimate-edition.json) |
 | Atelier Yumia: The Art of Aladiss Expansion Pack | 356745 | [356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json](./356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json) |
 | Atelier Yumia: Yumia and Flammi Swimsuit Set | 351166 | [351166-atelier-yumia-yumia-and-flammi-swimsuit-set.json](./351166-atelier-yumia-yumia-and-flammi-swimsuit-set.json) |
+| Atelier: Alchemists of Arland 1-2-3 DX - Premium Box | 136717 | [136717-atelier-alchemists-of-arland-1-2-3-dx-premium-box.json](./136717-atelier-alchemists-of-arland-1-2-3-dx-premium-box.json) |
 | Atelier: Alchemists of the Dusk Trilogy DX - Premium Box | 136924 | [136924-atelier-alchemists-of-the-dusk-trilogy-dx-premium-box.json](./136924-atelier-alchemists-of-the-dusk-trilogy-dx-premium-box.json) |
 | Atelier: The Alchemist of Arland 1-2-3 DX - Premium Box | 167138 | [167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json](./167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json) |
 | AteloPhobia:The Story Begins | 201501 | [201501-atelophobia-the-story-begins.json](./201501-atelophobia-the-story-begins.json) |
