@@ -1651,6 +1651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 420 Button Clicker | 124689 | [124689-420-button-clicker.json](./124689-420-button-clicker.json) |
 | 42nd Street | 84338 | [84338-42nd-street.json](./84338-42nd-street.json) |
 | 44 Hidden Naomis | 353323 | [353323-44-hidden-naomis.json](./353323-44-hidden-naomis.json) |
+| 44 Minutes in Nightmare | 144720 | [144720-44-minutes-in-nightmare.json](./144720-44-minutes-in-nightmare.json) |
 | 44 The Jail | 283306 | [283306-44-the-jail.json](./283306-44-the-jail.json) |
 | 450 XP Games | 98817 | [98817-450-xp-games.json](./98817-450-xp-games.json) |
 | 46 Memory Lane | 165501 | [165501-46-memory-lane.json](./165501-46-memory-lane.json) |
@@ -1948,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7D Game | 30816 | [30816-7d-game.json](./30816-7d-game.json) |
 | 7D Maze | 164255 | [164255-7d-maze.json](./164255-7d-maze.json) |
 | 7Days | 76898 | [76898-7days.json](./76898-7days.json) |
+| 7Days! | 144716 | [144716-7days.json](./144716-7days.json) |
 | 7Groves | 295780 | [295780-7groves.json](./295780-7groves.json) |
 | 7n7 | 169446 | [169446-7n7.json](./169446-7n7.json) |
 | 7Swordsman | 197394 | [197394-7swordsman.json](./197394-7swordsman.json) |
