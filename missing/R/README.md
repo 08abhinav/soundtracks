@@ -2184,6 +2184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebellion Princess | 391330 | [391330-rebellion-princess.json](./391330-rebellion-princess.json) |
 | Rebellion Saga | 334282 | [334282-rebellion-saga.json](./334282-rebellion-saga.json) |
 | Rebellion: A Rogue Souls Like | 153393 | [153393-rebellion-a-rogue-souls-like.json](./153393-rebellion-a-rogue-souls-like.json) |
+| Rebellions: Secret Game 2nd Stage | 153169 | [153169-rebellions-secret-game-2nd-stage.json](./153169-rebellions-secret-game-2nd-stage.json) |
 | Rebellious Takeover | 396013 | [396013-rebellious-takeover.json](./396013-rebellious-takeover.json) |
 | Rebeloid | 368668 | [368668-rebeloid.json](./368668-rebeloid.json) |
 | Rebeloid VR | 364978 | [364978-rebeloid-vr.json](./364978-rebeloid-vr.json) |
@@ -4206,6 +4207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversal | 78717 | [78717-reversal.json](./78717-reversal.json) |
 | Reversal Challenge | 209197 | [209197-reversal-challenge.json](./209197-reversal-challenge.json) |
 | Reversal of Deck | 283717 | [283717-reversal-of-deck.json](./283717-reversal-of-deck.json) |
+| Reverse | 153147 | [153147-reverse.json](./153147-reverse.json) |
 | Reverse 1999: A Long Long Way | 374300 | [374300-reverse-1999-a-long-long-way.json](./374300-reverse-1999-a-long-long-way.json) |
 | Reverse 1999: A Nightmare at Green Lake | 279786 | [279786-reverse-1999-a-nightmare-at-green-lake.json](./279786-reverse-1999-a-nightmare-at-green-lake.json) |
 | Reverse 1999: Chronicles of Uluru: London Dawning | 343348 | [343348-reverse-1999-chronicles-of-uluru-london-dawning.json](./343348-reverse-1999-chronicles-of-uluru-london-dawning.json) |
