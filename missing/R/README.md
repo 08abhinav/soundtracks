@@ -1647,6 +1647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RB Axolotl | 108962 | [108962-rb-axolotl.json](./108962-rb-axolotl.json) |
 | RBI Baseball | 100281 | [100281-rbi-baseball.json](./100281-rbi-baseball.json) |
 | RBI Baseball '95 | 45876 | [45876-rbi-baseball-95.json](./45876-rbi-baseball-95.json) |
+| RBI Baseball 21 | 142825 | [142825-rbi-baseball-21.json](./142825-rbi-baseball-21.json) |
 | RBL | 197641 | [197641-rbl.json](./197641-rbl.json) |
 | RC Airplane Challenge | 158711 | [158711-rc-airplane-challenge.json](./158711-rc-airplane-challenge.json) |
 | RC Airplane: Flight Simulator | 261352 | [261352-rc-airplane-flight-simulator.json](./261352-rc-airplane-flight-simulator.json) |
@@ -3652,6 +3653,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Revelations 2: Season Pass | 254130 | [254130-resident-evil-revelations-2-season-pass.json](./254130-resident-evil-revelations-2-season-pass.json) |
 | Resident Evil RPG | 276132 | [276132-resident-evil-rpg.json](./276132-resident-evil-rpg.json) |
 | Resident Evil Survivor | 967 | [967-resident-evil-survivor.json](./967-resident-evil-survivor.json) |
+| Resident Evil Village & Resident Evil 7 Complete Bundle | 142813 | [142813-resident-evil-village-and-resident-evil-7-complete-bundle.json](./142813-resident-evil-village-and-resident-evil-7-complete-bundle.json) |
+| Resident Evil Village: Collector's Edition | 142812 | [142812-resident-evil-village-collectors-edition.json](./142812-resident-evil-village-collectors-edition.json) |
+| Resident Evil Village: Deluxe Edition | 142810 | [142810-resident-evil-village-deluxe-edition.json](./142810-resident-evil-village-deluxe-edition.json) |
 | Resident Evil Village: Gold Edition | 204722 | [204722-resident-evil-village-gold-edition.json](./204722-resident-evil-village-gold-edition.json) |
 | Resident Evil Village: Shadows of Rose | 230951 | [230951-resident-evil-village-shadows-of-rose.json](./230951-resident-evil-village-shadows-of-rose.json) |
 | Resident Evil: Chronicles HD Collection | 21068 | [21068-resident-evil-chronicles-hd-collection.json](./21068-resident-evil-chronicles-hd-collection.json) |
@@ -4088,6 +4092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Ravenholm | 237522 | [237522-return-to-ravenholm.json](./237522-return-to-ravenholm.json) |
 | Return to Riddle School | 261427 | [261427-return-to-riddle-school.json](./261427-return-to-riddle-school.json) |
 | Return to Ringworld | 46733 | [46733-return-to-ringworld.json](./46733-return-to-ringworld.json) |
+| Return to Ruins | 142828 | [142828-return-to-ruins.json](./142828-return-to-ruins.json) |
 | Return to Sector 9 | 311280 | [311280-return-to-sector-9.json](./311280-return-to-sector-9.json) |
 | Return to Sector 9 | 73778 | [73778-return-to-sector-9.json](./73778-return-to-sector-9.json) |
 | Return to Sender | 336560 | [336560-return-to-sender.json](./336560-return-to-sender.json) |
@@ -5915,7 +5920,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Vacuum Simulator X | 130370 | [130370-robot-vacuum-simulator-x.json](./130370-robot-vacuum-simulator-x.json) |
 | Robot vs Birds Zombies | 34782 | [34782-robot-vs-birds-zombies.json](./34782-robot-vs-birds-zombies.json) |
 | Robot vs Monsters | 312842 | [312842-robot-vs-monsters.json](./312842-robot-vs-monsters.json) |
+| Robot Wants Fishy | 142207 | [142207-robot-wants-fishy.json](./142207-robot-wants-fishy.json) |
+| Robot Wants Ice Cream | 142208 | [142208-robot-wants-ice-cream.json](./142208-robot-wants-ice-cream.json) |
 | Robot Wants It All | 108325 | [108325-robot-wants-it-all.json](./108325-robot-wants-it-all.json) |
+| Robot Wants Kitty | 142202 | [142202-robot-wants-kitty.json](./142202-robot-wants-kitty.json) |
+| Robot Wants Kitty | 142204 | [142204-robot-wants-kitty.json](./142204-robot-wants-kitty.json) |
+| Robot Wants Puppy | 142205 | [142205-robot-wants-puppy.json](./142205-robot-wants-puppy.json) |
 | Robot Warfare | 109205 | [109205-robot-warfare.json](./109205-robot-warfare.json) |
 | Robot Warlords | 72937 | [72937-robot-warlords.json](./72937-robot-warlords.json) |
 | Robot Wars | 86212 | [86212-robot-wars.json](./86212-robot-wars.json) |
@@ -6219,6 +6229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocketeer | 211953 | [211953-rocketeer.json](./211953-rocketeer.json) |
 | Rocketeer | 318154 | [318154-rocketeer.json](./318154-rocketeer.json) |
 | RocketGirl | 76709 | [76709-rocketgirl.json](./76709-rocketgirl.json) |
+| Rocketing | 142223 | [142223-rocketing.json](./142223-rocketing.json) |
 | Rocketman | 287548 | [287548-rocketman.json](./287548-rocketman.json) |
 | Rocketmen: Axis of Evil | 20273 | [20273-rocketmen-axis-of-evil.json](./20273-rocketmen-axis-of-evil.json) |
 | Rocketmen: It Came from Uranus | 41588 | [41588-rocketmen-it-came-from-uranus.json](./41588-rocketmen-it-came-from-uranus.json) |
@@ -7545,6 +7556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Settlement 1450 | 54353 | [54353-royal-settlement-1450.json](./54353-royal-settlement-1450.json) |
 | Royal Sort | 369373 | [369373-royal-sort.json](./369373-royal-sort.json) |
 | Royal Thumble | 196727 | [196727-royal-thumble.json](./196727-royal-thumble.json) |
+| Royal Tower Defense | 142833 | [142833-royal-tower-defense.json](./142833-royal-tower-defense.json) |
 | Royal Trouble: Hidden Adventures | 87899 | [87899-royal-trouble-hidden-adventures.json](./87899-royal-trouble-hidden-adventures.json) |
 | Royal Trouble: Hidden Honeymoon Havoc | 87093 | [87093-royal-trouble-hidden-honeymoon-havoc.json](./87093-royal-trouble-hidden-honeymoon-havoc.json) |
 | Royal Tumble | 80886 | [80886-royal-tumble.json](./80886-royal-tumble.json) |
@@ -8436,6 +8448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rutrum | 406896 | [406896-rutrum.json](./406896-rutrum.json) |
 | Rutterkin | 416685 | [416685-rutterkin.json](./416685-rutterkin.json) |
 | Ruukoto the Robot | 392353 | [392353-ruukoto-the-robot.json](./392353-ruukoto-the-robot.json) |
+| Ruvato: Original Complex | 142187 | [142187-ruvato-original-complex.json](./142187-ruvato-original-complex.json) |
 | RUVN Contest Reboot | 292759 | [292759-ruvn-contest-reboot.json](./292759-ruvn-contest-reboot.json) |
 | Ruyn HD | 345565 | [345565-ruyn-hd.json](./345565-ruyn-hd.json) |
 | Ruzar: The Dark Stones | 310217 | [310217-ruzar-the-dark-stones.json](./310217-ruzar-the-dark-stones.json) |
