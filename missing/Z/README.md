@@ -1225,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies Chasing My Cat | 56277 | [56277-zombies-chasing-my-cat.json](./56277-zombies-chasing-my-cat.json) |
 | Zombies Crusher | 319960 | [319960-zombies-crusher.json](./319960-zombies-crusher.json) |
 | Zombies Don't Drive | 150014 | [150014-zombies-dont-drive.json](./150014-zombies-dont-drive.json) |
+| Zombies Everywhere 2 | 174068 | [174068-zombies-everywhere-2.json](./174068-zombies-everywhere-2.json) |
 | Zombies Everywhere 3 | 405736 | [405736-zombies-everywhere-3.json](./405736-zombies-everywhere-3.json) |
 | Zombies in City: Apocalypse Survival | 215115 | [215115-zombies-in-city-apocalypse-survival.json](./215115-zombies-in-city-apocalypse-survival.json) |
 | Zombies in Metropolis | 230898 | [230898-zombies-in-metropolis.json](./230898-zombies-in-metropolis.json) |
