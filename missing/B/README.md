@@ -1071,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballistic | 80488 | [80488-ballistic.json](./80488-ballistic.json) |
 | Ballistic Brews | 415866 | [415866-ballistic-brews.json](./415866-ballistic-brews.json) |
 | Ballistic M.A.D.ness | 156887 | [156887-ballistic-m-a-d-ness.json](./156887-ballistic-m-a-d-ness.json) |
+| Ballistic Machines | 152680 | [152680-ballistic-machines.json](./152680-ballistic-machines.json) |
 | Ballistic Mini Golf | 74117 | [74117-ballistic-mini-golf.json](./74117-ballistic-mini-golf.json) |
 | Ballistic Overkill | 17320 | [17320-ballistic-overkill.json](./17320-ballistic-overkill.json) |
 | Ballistic Tanks | 32327 | [32327-ballistic-tanks.json](./32327-ballistic-tanks.json) |
@@ -3266,6 +3267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear in the Snow | 362882 | [362882-bear-in-the-snow.json](./362882-bear-in-the-snow.json) |
 | Bear It | 277762 | [277762-bear-it.json](./277762-bear-it.json) |
 | Bear Miner | 315236 | [315236-bear-miner.json](./315236-bear-miner.json) |
+| Bear Soul | 152686 | [152686-bear-soul.json](./152686-bear-soul.json) |
 | Bear Stormin' | 339647 | [339647-bear-stormin.json](./339647-bear-stormin.json) |
 | Bear Surfin Mega Wave | 200638 | [200638-bear-surfin-mega-wave.json](./200638-bear-surfin-mega-wave.json) |
 | Bear the Terrain | 211095 | [211095-bear-the-terrain.json](./211095-bear-the-terrain.json) |
@@ -3328,6 +3330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Busters Featuring KoF | 60771 | [60771-beast-busters-featuring-kof.json](./60771-beast-busters-featuring-kof.json) |
 | Beast Busters: Second Nightmare | 28137 | [28137-beast-busters-second-nightmare.json](./28137-beast-busters-second-nightmare.json) |
 | Beast Collector | 276685 | [276685-beast-collector.json](./276685-beast-collector.json) |
+| Beast Crimes | 152684 | [152684-beast-crimes.json](./152684-beast-crimes.json) |
 | Beast Farmer | 233205 | [233205-beast-farmer.json](./233205-beast-farmer.json) |
 | Beast Fists | 211096 | [211096-beast-fists.json](./211096-beast-fists.json) |
 | Beast Gang | 368824 | [368824-beast-gang.json](./368824-beast-gang.json) |
@@ -3507,6 +3510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat the Machine: Rebooted | 135767 | [135767-beat-the-machine-rebooted.json](./135767-beat-the-machine-rebooted.json) |
 | Beat the Markets | 348262 | [348262-beat-the-markets.json](./348262-beat-the-markets.json) |
 | Beat the Moles | 157023 | [157023-beat-the-moles.json](./157023-beat-the-moles.json) |
+| Beat the Mons! | 153135 | [153135-beat-the-mons.json](./153135-beat-the-mons.json) |
 | Beat the Wall | 323848 | [323848-beat-the-wall.json](./323848-beat-the-wall.json) |
 | Beat Them All | 166676 | [166676-beat-them-all.json](./166676-beat-them-all.json) |
 | Beat Them Up: Box Simulator | 234626 | [234626-beat-them-up-box-simulator.json](./234626-beat-them-up-box-simulator.json) |
@@ -10282,6 +10286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Keyboard Hero | 342842 | [342842-broken-keyboard-hero.json](./342842-broken-keyboard-hero.json) |
 | Broken Lands: Tower Defense | 281971 | [281971-broken-lands-tower-defense.json](./281971-broken-lands-tower-defense.json) |
 | Broken Leash: Night Shift | 376478 | [376478-broken-leash-night-shift.json](./376478-broken-leash-night-shift.json) |
+| Broken Legends | 152644 | [152644-broken-legends.json](./152644-broken-legends.json) |
 | Broken Life | 265391 | [265391-broken-life.json](./265391-broken-life.json) |
 | Broken Lines | 107175 | [107175-broken-lines.json](./107175-broken-lines.json) |
 | Broken Memories | 154434 | [154434-broken-memories.json](./154434-broken-memories.json) |
@@ -11048,6 +11053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulk Dominoes VR: Kinetic Rush | 160141 | [160141-bulk-dominoes-vr-kinetic-rush.json](./160141-bulk-dominoes-vr-kinetic-rush.json) |
 | Bulk Slash | 45462 | [45462-bulk-slash.json](./45462-bulk-slash.json) |
 | Bulken | 273826 | [273826-bulken.json](./273826-bulken.json) |
+| Bulkhead | 152676 | [152676-bulkhead.json](./152676-bulkhead.json) |
 | Bull Chase! | 267323 | [267323-bull-chase.json](./267323-bull-chase.json) |
 | Bull et Hell | 166852 | [166852-bull-et-hell.json](./166852-bull-et-hell.json) |
 | Bull Fight | 46499 | [46499-bull-fight.json](./46499-bull-fight.json) |
