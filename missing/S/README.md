@@ -1787,6 +1787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Meister | 375572 | [375572-scarlet-meister.json](./375572-scarlet-meister.json) |
 | Scarlet Nexus: Bond Enhancement Pack 2 | 224474 | [224474-scarlet-nexus-bond-enhancement-pack-2.json](./224474-scarlet-nexus-bond-enhancement-pack-2.json) |
 | Scarlet Nexus: Brain Eater Pack 3 | 224473 | [224473-scarlet-nexus-brain-eater-pack-3.json](./224473-scarlet-nexus-brain-eater-pack-3.json) |
+| Scarlet Nexus: Deluxe Edition | 164589 | [164589-scarlet-nexus-deluxe-edition.json](./164589-scarlet-nexus-deluxe-edition.json) |
 | Scarlet Nexus: Ultimate Edition | 188044 | [188044-scarlet-nexus-ultimate-edition.json](./188044-scarlet-nexus-ultimate-edition.json) |
 | Scarlet Prism | 413819 | [413819-scarlet-prism.json](./413819-scarlet-prism.json) |
 | Scarlet Rain | 274945 | [274945-scarlet-rain.json](./274945-scarlet-rain.json) |
@@ -5138,6 +5139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheltered From the Storm | 373865 | [373865-sheltered-from-the-storm.json](./373865-sheltered-from-the-storm.json) |
 | Sheltering With You | 148944 | [148944-sheltering-with-you.json](./148944-sheltering-with-you.json) |
 | Shelves and Sorcery: Tidy Up the Enchanted Shop | 411566 | [411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json](./411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json) |
+| Shén Mó Qìyuē | 164591 | [164591-shen-mo-qiyue.json](./164591-shen-mo-qiyue.json) |
 | Shenanigans | 216736 | [216736-shenanigans.json](./216736-shenanigans.json) |
 | Shenaniganza | 304561 | [304561-shenaniganza.json](./304561-shenaniganza.json) |
 | Shengnü Zhi Ge: Heroine Anthem - The Elect of Wassernixe | 80192 | [80192-shengnu-zhi-ge-heroine-anthem-the-elect-of-wassernixe.json](./80192-shengnu-zhi-ge-heroine-anthem-the-elect-of-wassernixe.json) |
@@ -6678,6 +6680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signum Perfectum | 190213 | [190213-signum-perfectum.json](./190213-signum-perfectum.json) |
 | Signus: The Artifact Wars | 70464 | [70464-signus-the-artifact-wars.json](./70464-signus-the-artifact-wars.json) |
 | Signy & Mino: Against All Gods | 301340 | [301340-signy-and-mino-against-all-gods.json](./301340-signy-and-mino-against-all-gods.json) |
+| Sigurður | 164608 | [164608-sigur-ur.json](./164608-sigur-ur.json) |
 | Siheyuan | 244325 | [244325-siheyuan.json](./244325-siheyuan.json) |
 | Siienaa | 195575 | [195575-siienaa.json](./195575-siienaa.json) |
 | SiIvaGunner: King for a Day Tournament - Playable Credits Minigame!! | 326974 | [326974-siivagunner-king-for-a-day-tournament-playable-credits-minigame.json](./326974-siivagunner-king-for-a-day-tournament-playable-credits-minigame.json) |
@@ -21459,6 +21462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. for Wii U: Wario's Shoulder Bash from Brawl | 343430 | [343430-super-smash-bros-for-wii-u-warios-shoulder-bash-from-brawl.json](./343430-super-smash-bros-for-wii-u-warios-shoulder-bash-from-brawl.json) |
 | Super Smash Bros. Infinite | 234117 | [234117-super-smash-bros-infinite.json](./234117-super-smash-bros-infinite.json) |
 | Super Smash Bros. Melee; Marth with a Massive Sword | 342702 | [342702-super-smash-bros-melee-marth-with-a-massive-sword.json](./342702-super-smash-bros-melee-marth-with-a-massive-sword.json) |
+| Super Smash Bros. Melee: 20XX Edition | 165116 | [165116-super-smash-bros-melee-20xx-edition.json](./165116-super-smash-bros-melee-20xx-edition.json) |
 | Super Smash Bros. Melee: How to Play - N64 | 342700 | [342700-super-smash-bros-melee-how-to-play-n64.json](./342700-super-smash-bros-melee-how-to-play-n64.json) |
 | Super Smash Bros. Melee: Hyrule Temple, but It’s a Half Decent Stage | 342698 | [342698-super-smash-bros-melee-hyrule-temple-but-it-s-a-half-decent-stage.json](./342698-super-smash-bros-melee-hyrule-temple-but-it-s-a-half-decent-stage.json) |
 | Super Smash Bros. Melee: Melee-Style Castle Siege | 342699 | [342699-super-smash-bros-melee-melee-style-castle-siege.json](./342699-super-smash-bros-melee-melee-style-castle-siege.json) |
@@ -23571,6 +23575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syphon Filter: The Omega Strain | 20185 | [20185-syphon-filter-the-omega-strain.json](./20185-syphon-filter-the-omega-strain.json) |
 | Syr and the Stars' Revival | 399187 | [399187-syr-and-the-stars-revival.json](./399187-syr-and-the-stars-revival.json) |
 | Syrenka Racer | 255659 | [255659-syrenka-racer.json](./255659-syrenka-racer.json) |
+| Syrian Warfare: Battlefields | 164603 | [164603-syrian-warfare-battlefields.json](./164603-syrian-warfare-battlefields.json) |
 | Syrian Warfare: Return to Palmyra | 167798 | [167798-syrian-warfare-return-to-palmyra.json](./167798-syrian-warfare-return-to-palmyra.json) |
 | Syrnia | 130718 | [130718-syrnia.json](./130718-syrnia.json) |
 | Syrup 2: Candy Alchemy RPG | 362733 | [362733-syrup-2-candy-alchemy-rpg.json](./362733-syrup-2-candy-alchemy-rpg.json) |
