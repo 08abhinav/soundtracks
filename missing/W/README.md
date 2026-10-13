@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warau Ars Notoria | 196531 | [196531-warau-ars-notoria.json](./196531-warau-ars-notoria.json) |
 | Warau Salesman 2 | 239575 | [239575-warau-salesman-2.json](./239575-warau-salesman-2.json) |
 | Warau Salesman 3 | 239576 | [239576-warau-salesman-3.json](./239576-warau-salesman-3.json) |
+| Warau Warawau | 147225 | [147225-warau-warawau.json](./147225-warau-warawau.json) |
 | Warauinu no Bouken GB: Silly Go Lucky! | 59400 | [59400-warauinu-no-bouken-gb-silly-go-lucky.json](./59400-warauinu-no-bouken-gb-silly-go-lucky.json) |
 | Warband | 402459 | [402459-warband.json](./402459-warband.json) |
 | Warband Survivors | 311177 | [311177-warband-survivors.json](./311177-warband-survivors.json) |
@@ -932,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Armageddon - Untold Battles | 148716 | [148716-warhammer-40-000-armageddon-untold-battles.json](./148716-warhammer-40-000-armageddon-untold-battles.json) |
 | Warhammer 40,000: Armageddon - Vulkan's Wrath | 53893 | [53893-warhammer-40-000-armageddon-vulkans-wrath.json](./53893-warhammer-40-000-armageddon-vulkans-wrath.json) |
 | Warhammer 40,000: Assault Dice | 175183 | [175183-warhammer-40-000-assault-dice.json](./175183-warhammer-40-000-assault-dice.json) |
+| Warhammer 40,000: Battle Sister | 146646 | [146646-warhammer-40-000-battle-sister.json](./146646-warhammer-40-000-battle-sister.json) |
 | Warhammer 40,000: Battlesector - Astra Militarum | 302171 | [302171-warhammer-40-000-battlesector-astra-militarum.json](./302171-warhammer-40-000-battlesector-astra-militarum.json) |
 | Warhammer 40,000: Battlesector - Blood Angels Elites | 196104 | [196104-warhammer-40-000-battlesector-blood-angels-elites.json](./196104-warhammer-40-000-battlesector-blood-angels-elites.json) |
 | Warhammer 40,000: Battlesector - Daemons of Khorne | 263148 | [263148-warhammer-40-000-battlesector-daemons-of-khorne.json](./263148-warhammer-40-000-battlesector-daemons-of-khorne.json) |
@@ -3410,6 +3412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Earth: African Safari | 50711 | [50711-wild-earth-african-safari.json](./50711-wild-earth-african-safari.json) |
 | Wild Fishing Simulator | 96083 | [96083-wild-fishing-simulator.json](./96083-wild-fishing-simulator.json) |
 | Wild Frontera | 17972 | [17972-wild-frontera.json](./17972-wild-frontera.json) |
+| Wild Frontier | 146673 | [146673-wild-frontier.json](./146673-wild-frontier.json) |
 | Wild Goo Chase | 44223 | [44223-wild-goo-chase.json](./44223-wild-goo-chase.json) |
 | Wild Growth | 331389 | [331389-wild-growth.json](./331389-wild-growth.json) |
 | Wild Guardians | 120218 | [120218-wild-guardians.json](./120218-wild-guardians.json) |
@@ -5401,6 +5404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Riders | 124121 | [124121-world-of-riders.json](./124121-world-of-riders.json) |
 | World of Robots | 193757 | [193757-world-of-robots.json](./193757-world-of-robots.json) |
 | World of Rune | 263057 | [263057-world-of-rune.json](./263057-world-of-rune.json) |
+| World of Sand | 146669 | [146669-world-of-sand.json](./146669-world-of-sand.json) |
 | World of Sea Battle | 59962 | [59962-world-of-sea-battle.json](./59962-world-of-sea-battle.json) |
 | World of Shells | 329653 | [329653-world-of-shells.json](./329653-world-of-shells.json) |
 | World of Shooting | 288459 | [288459-world-of-shooting.json](./288459-world-of-shooting.json) |
@@ -5905,6 +5909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath and Retribution | 374838 | [374838-wrath-and-retribution.json](./374838-wrath-and-retribution.json) |
 | Wrath of Ahnkii | 271794 | [271794-wrath-of-ahnkii.json](./271794-wrath-of-ahnkii.json) |
 | Wrath of Anias | 191826 | [191826-wrath-of-anias.json](./191826-wrath-of-anias.json) |
+| Wrath of Darkness | 146635 | [146635-wrath-of-darkness.json](./146635-wrath-of-darkness.json) |
 | Wrath of Denethenor | 37155 | [37155-wrath-of-denethenor.json](./37155-wrath-of-denethenor.json) |
 | Wrath of Earth | 72289 | [72289-wrath-of-earth.json](./72289-wrath-of-earth.json) |
 | Wrath of Olympus | 60232 | [60232-wrath-of-olympus.json](./60232-wrath-of-olympus.json) |
@@ -6259,6 +6264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWII: Tank Battle Arena | 225896 | [225896-wwii-tank-battle-arena.json](./225896-wwii-tank-battle-arena.json) |
 | WWII: Tank Battles | 43209 | [43209-wwii-tank-battles.json](./43209-wwii-tank-battles.json) |
 | WWTF | 110369 | [110369-wwtf.json](./110369-wwtf.json) |
+| wxSand | 146671 | [146671-wxsand.json](./146671-wxsand.json) |
 | Wyatt Derp | 57762 | [57762-wyatt-derp.json](./57762-wyatt-derp.json) |
 | Wyatt Derp 2: Peacekeeper | 57722 | [57722-wyatt-derp-2-peacekeeper.json](./57722-wyatt-derp-2-peacekeeper.json) |
 | Wyatt Earp's Old West | 58072 | [58072-wyatt-earps-old-west.json](./58072-wyatt-earps-old-west.json) |
