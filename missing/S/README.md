@@ -6826,6 +6826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Scream 2 | 368512 | [368512-silent-scream-2.json](./368512-silent-scream-2.json) |
 | Silent Scream II: The Bride | 312211 | [312211-silent-scream-ii-the-bride.json](./312211-silent-scream-ii-the-bride.json) |
 | Silent Seeker | 209159 | [209159-silent-seeker.json](./209159-silent-seeker.json) |
+| Silent Service 1 + 2 | 154240 | [154240-silent-service-1-2.json](./154240-silent-service-1-2.json) |
 | Silent Service II | 8826 | [8826-silent-service-ii.json](./8826-silent-service-ii.json) |
 | Silent Shadow | 123007 | [123007-silent-shadow.json](./123007-silent-shadow.json) |
 | Silent Shark | 404429 | [404429-silent-shark.json](./404429-silent-shark.json) |
@@ -7300,6 +7301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulator Z | 277838 | [277838-simulator-z.json](./277838-simulator-z.json) |
 | Simulator: Parking Lot | 323510 | [323510-simulator-parking-lot.json](./323510-simulator-parking-lot.json) |
 | Simulcra | 15367 | [15367-simulcra.json](./15367-simulcra.json) |
+| Simuliator Pryghaniia Po Garazham | 154280 | [154280-simuliator-pryghaniia-po-garazham.json](./154280-simuliator-pryghaniia-po-garazham.json) |
 | Simuliator Sidieniia Na Kryshie | 163858 | [163858-simuliator-sidieniia-na-kryshie.json](./163858-simuliator-sidieniia-na-kryshie.json) |
 | Simulo | 374766 | [374766-simulo.json](./374766-simulo.json) |
 | SimuLove! vol. 1 | 309438 | [309438-simulove-vol-1.json](./309438-simulove-vol-1.json) |
@@ -15582,6 +15584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Connect | 233737 | [233737-star-connect.json](./233737-star-connect.json) |
 | Star Conqueror | 337631 | [337631-star-conqueror.json](./337631-star-conqueror.json) |
 | Star Control | 4497 | [4497-star-control.json](./4497-star-control.json) |
+| Star Control I & II | 154237 | [154237-star-control-i-and-ii.json](./154237-star-control-i-and-ii.json) |
 | Star Control: Origins | 25311 | [25311-star-control-origins.json](./25311-star-control-origins.json) |
 | Star Control: Origins - Earth Rising | 116143 | [116143-star-control-origins-earth-rising.json](./116143-star-control-origins-earth-rising.json) |
 | Star Control: Origins - Multiverse | 124805 | [124805-star-control-origins-multiverse.json](./124805-star-control-origins-multiverse.json) |
@@ -20076,6 +20079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Chinese 1-2 Advance | 63963 | [63963-super-chinese-1-2-advance.json](./63963-super-chinese-1-2-advance.json) |
 | Super Chinese Fighter EX | 50557 | [50557-super-chinese-fighter-ex.json](./50557-super-chinese-fighter-ex.json) |
 | Super Chipflake Ü: Quest for the Uncooked Schnitzel | 338787 | [338787-super-chipflake-u-quest-for-the-uncooked-schnitzel.json](./338787-super-chipflake-u-quest-for-the-uncooked-schnitzel.json) |
+| Super Chopper | 154235 | [154235-super-chopper.json](./154235-super-chopper.json) |
 | Super Choppy Orc | 219581 | [219581-super-choppy-orc.json](./219581-super-choppy-orc.json) |
 | Super Chroma Bots: Season One | 283682 | [283682-super-chroma-bots-season-one.json](./283682-super-chroma-bots-season-one.json) |
 | Super Chuck Norris Bros | 294428 | [294428-super-chuck-norris-bros.json](./294428-super-chuck-norris-bros.json) |
