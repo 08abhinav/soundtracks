@@ -2936,6 +2936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Thog | 408732 | [408732-perfect-thog.json](./408732-perfect-thog.json) |
 | Perfect Tides: Station to Station | 215695 | [215695-perfect-tides-station-to-station.json](./215695-perfect-tides-station-to-station.json) |
 | Perfect Tower | 87670 | [87670-perfect-tower.json](./87670-perfect-tower.json) |
+| Perfect Traffic Simulator | 140951 | [140951-perfect-traffic-simulator.json](./140951-perfect-traffic-simulator.json) |
 | Perfect Universe | 15842 | [15842-perfect-universe.json](./15842-perfect-universe.json) |
 | Perfect Universe Play with Gravity | 99545 | [99545-perfect-universe-play-with-gravity.json](./99545-perfect-universe-play-with-gravity.json) |
 | Perfect Victim | 355619 | [355619-perfect-victim.json](./355619-perfect-victim.json) |
@@ -4968,6 +4969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Cubes | 85720 | [85720-pirate-cubes.json](./85720-pirate-cubes.json) |
 | Pirate Dawn | 62414 | [62414-pirate-dawn.json](./62414-pirate-dawn.json) |
 | Pirate Defender | 176805 | [176805-pirate-defender.json](./176805-pirate-defender.json) |
+| Pirate Doom | 140875 | [140875-pirate-doom.json](./140875-pirate-doom.json) |
 | Pirate Doom II | 298313 | [298313-pirate-doom-ii.json](./298313-pirate-doom-ii.json) |
 | Pirate Dragons | 217351 | [217351-pirate-dragons.json](./217351-pirate-dragons.json) |
 | Pirate Escape | 323506 | [323506-pirate-escape.json](./323506-pirate-escape.json) |
@@ -6468,6 +6470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayerUnknown's Battlegrounds: Season 12 | 158958 | [158958-playerunknowns-battlegrounds-season-12.json](./158958-playerunknowns-battlegrounds-season-12.json) |
 | PlayerUnknown's Battlegrounds: Season 7 | 135139 | [135139-playerunknowns-battlegrounds-season-7.json](./135139-playerunknowns-battlegrounds-season-7.json) |
 | PlayerUnknown's Battlegrounds: Season 8 | 135824 | [135824-playerunknowns-battlegrounds-season-8.json](./135824-playerunknowns-battlegrounds-season-8.json) |
+| PlayerUnknown's Battlegrounds: Season 9 | 140975 | [140975-playerunknowns-battlegrounds-season-9.json](./140975-playerunknowns-battlegrounds-season-9.json) |
 | PlayFortress | 33102 | [33102-playfortress.json](./33102-playfortress.json) |
 | Playful Math | 104439 | [104439-playful-math.json](./104439-playful-math.json) |
 | Playground | 186175 | [186175-playground.json](./186175-playground.json) |
@@ -11120,6 +11123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PUBG Mobile: Season 12 | 135152 | [135152-pubg-mobile-season-12.json](./135152-pubg-mobile-season-12.json) |
 | PUBG Mobile: Season 13 | 135154 | [135154-pubg-mobile-season-13.json](./135154-pubg-mobile-season-13.json) |
 | PUBG Mobile: Season 14 | 136975 | [136975-pubg-mobile-season-14.json](./136975-pubg-mobile-season-14.json) |
+| PUBG Mobile: Season 15 | 140976 | [140976-pubg-mobile-season-15.json](./140976-pubg-mobile-season-15.json) |
 | PUBG Mobile: Season 16 | 141193 | [141193-pubg-mobile-season-16.json](./141193-pubg-mobile-season-16.json) |
 | PUBG Mobile: Season 17 | 144058 | [144058-pubg-mobile-season-17.json](./144058-pubg-mobile-season-17.json) |
 | PUBG Mobile: Season 18 | 158951 | [158951-pubg-mobile-season-18.json](./158951-pubg-mobile-season-18.json) |
