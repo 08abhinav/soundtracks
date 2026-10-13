@@ -829,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Micro Mission | 73532 | [73532-magic-micro-mission.json](./73532-magic-micro-mission.json) |
 | Magic Mirror Hall | 182985 | [182985-magic-mirror-hall.json](./182985-magic-mirror-hall.json) |
 | Magic MixUp | 58200 | [58200-magic-mixup.json](./58200-magic-mixup.json) |
+| Magic Mountain | 143461 | [143461-magic-mountain.json](./143461-magic-mountain.json) |
 | Magic Mountain Escape | 315552 | [315552-magic-mountain-escape.json](./315552-magic-mountain-escape.json) |
 | Magic Mouse | 115439 | [115439-magic-mouse.json](./115439-magic-mouse.json) |
 | Magic Mushrooms | 13735 | [13735-magic-mushrooms.json](./13735-magic-mushrooms.json) |
@@ -8232,6 +8233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MineSweeper Tetris | 228952 | [228952-minesweeper-tetris.json](./228952-minesweeper-tetris.json) |
 | Minesweeper Twist | 296973 | [296973-minesweeper-twist.json](./296973-minesweeper-twist.json) |
 | Minesweeper Ultimate | 167815 | [167815-minesweeper-ultimate.json](./167815-minesweeper-ultimate.json) |
+| Minesweeper Versus | 143410 | [143410-minesweeper-versus.json](./143410-minesweeper-versus.json) |
 | MineSweeper VR | 31617 | [31617-minesweeper-vr.json](./31617-minesweeper-vr.json) |
 | Minesweeper X | 87547 | [87547-minesweeper-x.json](./87547-minesweeper-x.json) |
 | Minesweeper: Collector | 171440 | [171440-minesweeper-collector.json](./171440-minesweeper-collector.json) |
@@ -14307,6 +14309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystical Mixing | 224011 | [224011-mystical-mixing.json](./224011-mystical-mixing.json) |
 | Mystical Mixing: Wand and Frog Edition | 273305 | [273305-mystical-mixing-wand-and-frog-edition.json](./273305-mystical-mixing-wand-and-frog-edition.json) |
 | Mystical Mushrooms | 341353 | [341353-mystical-mushrooms.json](./341353-mystical-mushrooms.json) |
+| Mystical Ninja Starring Goemon | 143439 | [143439-mystical-ninja-starring-goemon.json](./143439-mystical-ninja-starring-goemon.json) |
 | Mystical Realms Collection | 201854 | [201854-mystical-realms-collection.json](./201854-mystical-realms-collection.json) |
 | Mystical Riddles: Behind Doll's Eyes - Collector's Edition | 215638 | [215638-mystical-riddles-behind-dolls-eyes-collectors-edition.json](./215638-mystical-riddles-behind-dolls-eyes-collectors-edition.json) |
 | Mystical Riddles: Ghostly Park DLC | 361775 | [361775-mystical-riddles-ghostly-park-dlc.json](./361775-mystical-riddles-ghostly-park-dlc.json) |
@@ -14392,6 +14395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Wonders: The Child of Prophecy | 59790 | [59790-mythic-wonders-the-child-of-prophecy.json](./59790-mythic-wonders-the-child-of-prophecy.json) |
 | Mythic Writer | 165654 | [165654-mythic-writer.json](./165654-mythic-writer.json) |
 | Mythic Yi | 388240 | [388240-mythic-yi.json](./388240-mythic-yi.json) |
+| Mythic Zombies | 143464 | [143464-mythic-zombies.json](./143464-mythic-zombies.json) |
 | Mythic: Frost Trials | 215636 | [215636-mythic-frost-trials.json](./215636-mythic-frost-trials.json) |
 | Mythical Concept Starnaut | 272387 | [272387-mythical-concept-starnaut.json](./272387-mythical-concept-starnaut.json) |
 | Mythical Haven | 419979 | [419979-mythical-haven.json](./419979-mythical-haven.json) |
