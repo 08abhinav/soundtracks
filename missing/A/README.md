@@ -806,6 +806,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tome in the Attic | 363975 | [363975-a-tome-in-the-attic.json](./363975-a-tome-in-the-attic.json) |
 | A Top-Down Job: Blood Gain | 109866 | [109866-a-top-down-job-blood-gain.json](./109866-a-top-down-job-blood-gain.json) |
 | A Total War Saga: Troy | 122649 | [122649-a-total-war-saga-troy.json](./122649-a-total-war-saga-troy.json) |
+| A Total War Saga: Troy - Ajax & Diomedes | 166274 | [166274-a-total-war-saga-troy-ajax-and-diomedes.json](./166274-a-total-war-saga-troy-ajax-and-diomedes.json) |
+| A Total War Saga: Troy - Amazons | 166273 | [166273-a-total-war-saga-troy-amazons.json](./166273-a-total-war-saga-troy-amazons.json) |
 | A Total War Saga: Troy - Heroic Edition | 169185 | [169185-a-total-war-saga-troy-heroic-edition.json](./169185-a-total-war-saga-troy-heroic-edition.json) |
 | A Total War Saga: Troy - Limited Edition | 139940 | [139940-a-total-war-saga-troy-limited-edition.json](./139940-a-total-war-saga-troy-limited-edition.json) |
 | A Total War Saga: Troy - Mythic Edition | 169186 | [169186-a-total-war-saga-troy-mythic-edition.json](./169186-a-total-war-saga-troy-mythic-edition.json) |
@@ -3076,6 +3078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aiball | 32852 | [32852-aiball.json](./32852-aiball.json) |
 | Aibeya | 121520 | [121520-aibeya.json](./121520-aibeya.json) |
 | Aibeya 2 | 150039 | [150039-aibeya-2.json](./150039-aibeya-2.json) |
+| Aibeya: Premium Limited Edition | 166265 | [166265-aibeya-premium-limited-edition.json](./166265-aibeya-premium-limited-edition.json) |
 | Aibou DS | 269543 | [269543-aibou-ds.json](./269543-aibou-ds.json) |
 | AiCaterine | 259248 | [259248-aicaterine.json](./259248-aicaterine.json) |
 | Aida's Bizarre Halloween | 216348 | [216348-aidas-bizarre-halloween.json](./216348-aidas-bizarre-halloween.json) |
