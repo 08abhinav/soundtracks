@@ -875,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Out | 125402 | [125402-falling-out.json](./125402-falling-out.json) |
 | Falling Plus | 112514 | [112514-falling-plus.json](./112514-falling-plus.json) |
 | Falling Sand! | 146811 | [146811-falling-sand.json](./146811-falling-sand.json) |
+| Falling Sands Fast | 152038 | [152038-falling-sands-fast.json](./152038-falling-sands-fast.json) |
 | Falling Skies: The Game | 19644 | [19644-falling-skies-the-game.json](./19644-falling-skies-the-game.json) |
 | Falling Sky | 82888 | [82888-falling-sky.json](./82888-falling-sky.json) |
 | Falling Slime | 102315 | [102315-falling-slime.json](./102315-falling-slime.json) |
@@ -2619,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fernbus Simulator: Interlink HD | 311109 | [311109-fernbus-simulator-interlink-hd.json](./311109-fernbus-simulator-interlink-hd.json) |
 | Fernhoof Grove: Riding Academy | 410336 | [410336-fernhoof-grove-riding-academy.json](./410336-fernhoof-grove-riding-academy.json) |
 | Fernocity | 272014 | [272014-fernocity.json](./272014-fernocity.json) |
+| Ferocious | 152017 | [152017-ferocious.json](./152017-ferocious.json) |
 | Ferrari Challenge: Trofeo Pirelli | 259269 | [259269-ferrari-challenge-trofeo-pirelli.json](./259269-ferrari-challenge-trofeo-pirelli.json) |
 | Ferrari Challenge: Trofeo Pirelli | 259270 | [259270-ferrari-challenge-trofeo-pirelli.json](./259270-ferrari-challenge-trofeo-pirelli.json) |
 | Ferrari Formula One | 12093 | [12093-ferrari-formula-one.json](./12093-ferrari-formula-one.json) |
@@ -4287,6 +4289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisherman's House | 172749 | [172749-fishermans-house.json](./172749-fishermans-house.json) |
 | Fisherman's Paradise II | 209430 | [209430-fishermans-paradise-ii.json](./209430-fishermans-paradise-ii.json) |
 | Fisherman's Peril | 143492 | [143492-fishermans-peril.json](./143492-fishermans-peril.json) |
+| Fishermen's Haven | 152013 | [152013-fishermens-haven.json](./152013-fishermens-haven.json) |
 | Fishery Tycoon | 212475 | [212475-fishery-tycoon.json](./212475-fishery-tycoon.json) |
 | Fishes and Barrels | 244797 | [244797-fishes-and-barrels.json](./244797-fishes-and-barrels.json) |
 | Fishgun | 255238 | [255238-fishgun.json](./255238-fishgun.json) |
@@ -7002,6 +7005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fossil Fighters | 20978 | [20978-fossil-fighters.json](./20978-fossil-fighters.json) |
 | Fossil Fighters: Frontier | 8609 | [8609-fossil-fighters-frontier.json](./8609-fossil-fighters-frontier.json) |
 | Fossil Finder | 211127 | [211127-fossil-finder.json](./211127-fossil-finder.json) |
+| Fossil Hunter | 152024 | [152024-fossil-hunter.json](./152024-fossil-hunter.json) |
 | Fossil Hunters | 55242 | [55242-fossil-hunters.json](./55242-fossil-hunters.json) |
 | Fossil Island | 341126 | [341126-fossil-island.json](./341126-fossil-island.json) |
 | Fossil League | 21393 | [21393-fossil-league.json](./21393-fossil-league.json) |
@@ -7808,6 +7812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fried Panic | 218663 | [218663-fried-panic.json](./218663-fried-panic.json) |
 | Fried Rice Apocalypse | 338727 | [338727-fried-rice-apocalypse.json](./338727-fried-rice-apocalypse.json) |
 | Frieda is Changing | 357272 | [357272-frieda-is-changing.json](./357272-frieda-is-changing.json) |
+| Friend Fighters | 151491 | [151491-friend-fighters.json](./151491-friend-fighters.json) |
 | Friend Hunt | 276777 | [276777-friend-hunt.json](./276777-friend-hunt.json) |
 | Friend Network | 52229 | [52229-friend-network.json](./52229-friend-network.json) |
 | Friend on the Go | 217243 | [217243-friend-on-the-go.json](./217243-friend-on-the-go.json) |
