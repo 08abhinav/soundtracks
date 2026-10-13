@@ -2475,6 +2475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Dash | 173800 | [173800-infinite-dash.json](./173800-infinite-dash.json) |
 | Infinite Dunamis | 39013 | [39013-infinite-dunamis.json](./39013-infinite-dunamis.json) |
 | Infinite Dungeon | 386473 | [386473-infinite-dungeon.json](./386473-infinite-dungeon.json) |
+| Infinite Dungeon Crawler: The Frozen Expanse | 170797 | [170797-infinite-dungeon-crawler-the-frozen-expanse.json](./170797-infinite-dungeon-crawler-the-frozen-expanse.json) |
 | Infinite Einstein Tiles | 352291 | [352291-infinite-einstein-tiles.json](./352291-infinite-einstein-tiles.json) |
 | Infinite Einstein Tiles2 | 374253 | [374253-infinite-einstein-tiles2.json](./374253-infinite-einstein-tiles2.json) |
 | Infinite Energy | 362908 | [362908-infinite-energy.json](./362908-infinite-energy.json) |
@@ -3024,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insight | 175657 | [175657-insight.json](./175657-insight.json) |
 | Insight | 302670 | [302670-insight.json](./302670-insight.json) |
 | InSight | 302955 | [302955-insight.json](./302955-insight.json) |
+| Insights: Maniac Vortex | 170974 | [170974-insights-maniac-vortex.json](./170974-insights-maniac-vortex.json) |
 | Insignia | 152232 | [152232-insignia.json](./152232-insignia.json) |
 | Insignia: Tactics | 175139 | [175139-insignia-tactics.json](./175139-insignia-tactics.json) |
 | Insomnia | 224710 | [224710-insomnia.json](./224710-insomnia.json) |
