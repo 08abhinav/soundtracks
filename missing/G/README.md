@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Game | 11396 | [11396-galaxy-game.json](./11396-galaxy-game.json) |
 | Galaxy Genome | 174279 | [174279-galaxy-genome.json](./174279-galaxy-genome.json) |
 | Galaxy Girls | 30394 | [30394-galaxy-girls.json](./30394-galaxy-girls.json) |
+| Galaxy Glory | 176184 | [176184-galaxy-glory.json](./176184-galaxy-glory.json) |
 | Galaxy Groove | 200047 | [200047-galaxy-groove.json](./200047-galaxy-groove.json) |
 | Galaxy Grudge | 403551 | [403551-galaxy-grudge.json](./403551-galaxy-grudge.json) |
 | Galaxy Guardian Royale | 159807 | [159807-galaxy-guardian-royale.json](./159807-galaxy-guardian-royale.json) |
@@ -1318,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garrison I-II | 112231 | [112231-garrison-i-ii.json](./112231-garrison-i-ii.json) |
 | Garrison II: The Legend Continues | 47155 | [47155-garrison-ii-the-legend-continues.json](./47155-garrison-ii-the-legend-continues.json) |
 | Garry Kitchen's Super Battletank: War in the Gulf | 46681 | [46681-garry-kitchens-super-battletank-war-in-the-gulf.json](./46681-garry-kitchens-super-battletank-war-in-the-gulf.json) |
+| Garry Royale! | 176196 | [176196-garry-royale.json](./176196-garry-royale.json) |
 | Garry's worst fear | 220788 | [220788-garrys-worst-fear.json](./220788-garrys-worst-fear.json) |
 | Garshasp: Temple of the Dragon | 16247 | [16247-garshasp-temple-of-the-dragon.json](./16247-garshasp-temple-of-the-dragon.json) |
 | Garshasp: The Monster Slayer | 3279 | [3279-garshasp-the-monster-slayer.json](./3279-garshasp-the-monster-slayer.json) |
@@ -2364,6 +2366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GGX: Great Grandma Escape | 200124 | [200124-ggx-great-grandma-escape.json](./200124-ggx-great-grandma-escape.json) |
 | Ghaib | 117767 | [117767-ghaib.json](./117767-ghaib.json) |
 | Ghajini: The Game | 215001 | [215001-ghajini-the-game.json](./215001-ghajini-the-game.json) |
+| Ghalad Online | 176192 | [176192-ghalad-online.json](./176192-ghalad-online.json) |
 | Ghana Bwana | 97474 | [97474-ghana-bwana.json](./97474-ghana-bwana.json) |
 | Gharp | 192438 | [192438-gharp.json](./192438-gharp.json) |
 | Ghastly Mask Shop | 391332 | [391332-ghastly-mask-shop.json](./391332-ghastly-mask-shop.json) |
@@ -3501,6 +3504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Home 1986 | 392928 | [392928-go-home-1986.json](./392928-go-home-1986.json) |
 | Go Home Dinosaurs! | 16396 | [16396-go-home-dinosaurs.json](./16396-go-home-dinosaurs.json) |
 | Go Kart Challenge | 140986 | [140986-go-kart-challenge.json](./140986-go-kart-challenge.json) |
+| Go Kart Go! Ultra! | 176208 | [176208-go-kart-go-ultra.json](./176208-go-kart-go-ultra.json) |
 | Go Kart Mania: Discovery Edition | 332509 | [332509-go-kart-mania-discovery-edition.json](./332509-go-kart-mania-discovery-edition.json) |
 | Go Kart Mania: Premium Edition | 317255 | [317255-go-kart-mania-premium-edition.json](./317255-go-kart-mania-premium-edition.json) |
 | Go Kart Rally | 66944 | [66944-go-kart-rally.json](./66944-go-kart-rally.json) |
@@ -3830,6 +3834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Starfighter | 76956 | [76956-god-starfighter.json](./76956-god-starfighter.json) |
 | God Sword | 157497 | [157497-god-sword.json](./157497-god-sword.json) |
 | God Trials | 348421 | [348421-god-trials.json](./348421-god-trials.json) |
+| God Vibrations | 176227 | [176227-god-vibrations.json](./176227-god-vibrations.json) |
 | God vs. Sin | 273595 | [273595-god-vs-sin.json](./273595-god-vs-sin.json) |
 | God Wars | 347325 | [347325-god-wars.json](./347325-god-wars.json) |
 | God Wars: Future Past | 25312 | [25312-god-wars-future-past.json](./25312-god-wars-future-past.json) |
@@ -6173,6 +6178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gronk Want Rock | 249502 | [249502-gronk-want-rock.json](./249502-gronk-want-rock.json) |
 | Grood | 90116 | [90116-grood.json](./90116-grood.json) |
 | Groomer | 115695 | [115695-groomer.json](./115695-groomer.json) |
+| Groon groon, babey! | 176216 | [176216-groon-groon-babey.json](./176216-groon-groon-babey.json) |
 | Grooove | 272346 | [272346-grooove.json](./272346-grooove.json) |
 | Groove Adventure Rave | 69328 | [69328-groove-adventure-rave.json](./69328-groove-adventure-rave.json) |
 | Groove Adventure Rave: Hikari to Yami no Daikessen | 49597 | [49597-groove-adventure-rave-hikari-to-yami-no-daikessen.json](./49597-groove-adventure-rave-hikari-to-yami-no-daikessen.json) |
