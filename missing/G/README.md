@@ -814,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Dev Story | 19815 | [19815-game-dev-story.json](./19815-game-dev-story.json) |
 | Game Dev Story 2 | 91915 | [91915-game-dev-story-2.json](./91915-game-dev-story-2.json) |
 | Game Dev Studio | 89377 | [89377-game-dev-studio.json](./89377-game-dev-studio.json) |
+| Game Director Story | 146053 | [146053-game-director-story.json](./146053-game-director-story.json) |
 | Game Doraemon: Nobita no Shin Kyouryuu | 141725 | [141725-game-doraemon-nobita-no-shin-kyouryuu.json](./141725-game-doraemon-nobita-no-shin-kyouryuu.json) |
 | Game Doraemon: Nobita no Takara-jima | 97373 | [97373-game-doraemon-nobita-no-takara-jima.json](./97373-game-doraemon-nobita-no-takara-jima.json) |
 | Game Doraemon: Nobita to Kiseki no Shima | 62554 | [62554-game-doraemon-nobita-to-kiseki-no-shima.json](./62554-game-doraemon-nobita-to-kiseki-no-shima.json) |
@@ -3694,6 +3695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat's Tale Plus | 187173 | [187173-goats-tale-plus.json](./187173-goats-tale-plus.json) |
 | GoatBrains | 405036 | [405036-goatbrains.json](./405036-goatbrains.json) |
 | Goats on a Bridge | 10367 | [10367-goats-on-a-bridge.json](./10367-goats-on-a-bridge.json) |
+| Gob | 146080 | [146080-gob.json](./146080-gob.json) |
 | Gob | 415231 | [415231-gob.json](./415231-gob.json) |
 | Gob Johnson's Downhill Marmalade | 333169 | [333169-gob-johnsons-downhill-marmalade.json](./333169-gob-johnsons-downhill-marmalade.json) |
 | Gob! | 257447 | [257447-gob.json](./257447-gob.json) |
