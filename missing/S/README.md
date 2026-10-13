@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Bloodshow | 92500 | [92500-samurai-bloodshow.json](./92500-samurai-bloodshow.json) |
 | Samurai Bringer | 192434 | [192434-samurai-bringer.json](./192434-samurai-bringer.json) |
 | Samurai Bringer: Rampage | 401044 | [401044-samurai-bringer-rampage.json](./401044-samurai-bringer-rampage.json) |
+| Samurai Cat | 150440 | [150440-samurai-cat.json](./150440-samurai-cat.json) |
 | Samurai Cats | 131363 | [131363-samurai-cats.json](./131363-samurai-cats.json) |
 | Samurai Champloo: Sidetracked | 19625 | [19625-samurai-champloo-sidetracked.json](./19625-samurai-champloo-sidetracked.json) |
 | Samurai Chess | 149571 | [149571-samurai-chess.json](./149571-samurai-chess.json) |
@@ -4306,6 +4307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Dancer: The Secret of Shinobi | 10217 | [10217-shadow-dancer-the-secret-of-shinobi.json](./10217-shadow-dancer-the-secret-of-shinobi.json) |
 | Shadow Detective | 292577 | [292577-shadow-detective.json](./292577-shadow-detective.json) |
 | Shadow Dream | 330306 | [330306-shadow-dream.json](./330306-shadow-dream.json) |
+| Shadow Dreams: The Last Thought of Hope | 150453 | [150453-shadow-dreams-the-last-thought-of-hope.json](./150453-shadow-dreams-the-last-thought-of-hope.json) |
 | Shadow Dungeon | 391813 | [391813-shadow-dungeon.json](./391813-shadow-dungeon.json) |
 | Shadow Dwellers: Deliverance | 391729 | [391729-shadow-dwellers-deliverance.json](./391729-shadow-dwellers-deliverance.json) |
 | Shadow Eclipse | 166766 | [166766-shadow-eclipse.json](./166766-shadow-eclipse.json) |
@@ -11084,6 +11086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Travel | 298961 | [298961-songs-of-travel.json](./298961-songs-of-travel.json) |
 | Songs2See Game | 90553 | [90553-songs2see-game.json](./90553-songs2see-game.json) |
 | Songtail: Whiskers of Destiny | 389740 | [389740-songtail-whiskers-of-destiny.json](./389740-songtail-whiskers-of-destiny.json) |
+| Sonia and the Hypnotic City | 150420 | [150420-sonia-and-the-hypnotic-city.json](./150420-sonia-and-the-hypnotic-city.json) |
 | Sonia no Daibouken: Mittsu no Hihou no Kakusareta Nazo! | 279509 | [279509-sonia-no-daibouken-mittsu-no-hihou-no-kakusareta-nazo.json](./279509-sonia-no-daibouken-mittsu-no-hihou-no-kakusareta-nazo.json) |
 | Sonic & Bean in Eggland | 322592 | [322592-sonic-and-bean-in-eggland.json](./322592-sonic-and-bean-in-eggland.json) |
 | Sonic & Blaze | 266506 | [266506-sonic-and-blaze.json](./266506-sonic-and-blaze.json) |
@@ -23116,6 +23119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swingmania | 304039 | [304039-swingmania.json](./304039-swingmania.json) |
 | SwingShot | 185384 | [185384-swingshot.json](./185384-swingshot.json) |
 | Swingularity | 333566 | [333566-swingularity.json](./333566-swingularity.json) |
+| Swingy boy | 150444 | [150444-swingy-boy.json](./150444-swingy-boy.json) |
 | Swingy Sword | 90210 | [90210-swingy-sword.json](./90210-swingy-sword.json) |
 | swipe | 346219 | [346219-swipe.json](./346219-swipe.json) |
 | Swipe | 147928 | [147928-swipe.json](./147928-swipe.json) |
@@ -23303,6 +23307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Princess Sistina | 292523 | [292523-sword-princess-sistina.json](./292523-sword-princess-sistina.json) |
 | Sword Quest | 57380 | [57380-sword-quest.json](./57380-sword-quest.json) |
 | Sword Road | 338751 | [338751-sword-road.json](./338751-sword-road.json) |
+| Sword Rogue | 150435 | [150435-sword-rogue.json](./150435-sword-rogue.json) |
 | Sword Sanctuary | 333394 | [333394-sword-sanctuary.json](./333394-sword-sanctuary.json) |
 | Sword Smash | 244385 | [244385-sword-smash.json](./244385-sword-smash.json) |
 | Sword Story | 153500 | [153500-sword-story.json](./153500-sword-story.json) |
@@ -23738,6 +23743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syvnta: Sovereignty | 343952 | [343952-syvnta-sovereignty.json](./343952-syvnta-sovereignty.json) |
 | Syzgy | 178018 | [178018-syzgy.json](./178018-syzgy.json) |
 | Syzygy | 123068 | [123068-syzygy.json](./123068-syzygy.json) |
+| Syzygy | 150422 | [150422-syzygy.json](./150422-syzygy.json) |
 | Syzygy: The Power of the Eclipse | 257535 | [257535-syzygy-the-power-of-the-eclipse.json](./257535-syzygy-the-power-of-the-eclipse.json) |
 | Szen | 114364 | [114364-szen.json](./114364-szen.json) |
 | sZone Online | 36250 | [36250-szone-online.json](./36250-szone-online.json) |
