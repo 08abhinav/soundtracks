@@ -1983,6 +1983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genkai Tokki Moero Crystal | 60222 | [60222-genkai-tokki-moero-crystal.json](./60222-genkai-tokki-moero-crystal.json) |
 | Genkai Tokki: Castle Panzers | 27761 | [27761-genkai-tokki-castle-panzers.json](./27761-genkai-tokki-castle-panzers.json) |
 | Genkai Tokki: Castle Panzers - Limited Edition | 167090 | [167090-genkai-tokki-castle-panzers-limited-edition.json](./167090-genkai-tokki-castle-panzers-limited-edition.json) |
+| Genkai Totsuki Monster Monpiece | 145407 | [145407-genkai-totsuki-monster-monpiece.json](./145407-genkai-totsuki-monster-monpiece.json) |
 | Genkai! Yamazumi Battle | 222374 | [222374-genkai-yamazumi-battle.json](./222374-genkai-yamazumi-battle.json) |
 | Genki Village | 143036 | [143036-genki-village.json](./143036-genki-village.json) |
 | GenMobile | 202810 | [202810-genmobile.json](./202810-genmobile.json) |
@@ -5873,6 +5874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grégoire Lefèbvre Investigations: The Vow of Hate | 390670 | [390670-gregoire-lefebvre-investigations-the-vow-of-hate.json](./390670-gregoire-lefebvre-investigations-the-vow-of-hate.json) |
 | Gregor | 244330 | [244330-gregor.json](./244330-gregor.json) |
 | Gregor's Notebook | 253938 | [253938-gregors-notebook.json](./253938-gregors-notebook.json) |
+| Gregore | 145413 | [145413-gregore.json](./145413-gregore.json) |
 | Gregory & the Hot Air Balloon | 72932 | [72932-gregory-and-the-hot-air-balloon.json](./72932-gregory-and-the-hot-air-balloon.json) |
 | Gregory Horror Show | 22252 | [22252-gregory-horror-show.json](./22252-gregory-horror-show.json) |
 | Gregory Horror Show | 292825 | [292825-gregory-horror-show.json](./292825-gregory-horror-show.json) |
@@ -6213,6 +6215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gripshot | 340401 | [340401-gripshot.json](./340401-gripshot.json) |
 | Griptape Backbone | 29755 | [29755-griptape-backbone.json](./29755-griptape-backbone.json) |
 | Gris: Collector's Edition | 159211 | [159211-gris-collectors-edition.json](./159211-gris-collectors-edition.json) |
+| Grisaia no Kajitsu: Side Episode | 145401 | [145401-grisaia-no-kajitsu-side-episode.json](./145401-grisaia-no-kajitsu-side-episode.json) |
 | Grisaia Phantom Trigger 01&02 | 147935 | [147935-grisaia-phantom-trigger-01-and-02.json](./147935-grisaia-phantom-trigger-01-and-02.json) |
 | Grisaia Phantom Trigger 5.5 | 142700 | [142700-grisaia-phantom-trigger-5-5.json](./142700-grisaia-phantom-trigger-5-5.json) |
 | Grisaia Phantom Trigger 5.5 to 08 | 251593 | [251593-grisaia-phantom-trigger-5-5-to-08.json](./251593-grisaia-phantom-trigger-5-5-to-08.json) |
@@ -6225,6 +6228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grisaia: Phantom Trigger Vol. 8 | 191896 | [191896-grisaia-phantom-trigger-vol-8.json](./191896-grisaia-phantom-trigger-vol-8.json) |
 | Grisaia: Shuuketsu no Hyakka - Les Rassemblement Cent Fruits de la Grisaia | 403209 | [403209-grisaia-shuuketsu-no-hyakka-les-rassemblement-cent-fruits-de-la-grisaia.json](./403209-grisaia-shuuketsu-no-hyakka-les-rassemblement-cent-fruits-de-la-grisaia.json) |
 | Grisly Grottos | 271845 | [271845-grisly-grottos.json](./271845-grisly-grottos.json) |
+| Grit | 145372 | [145372-grit.json](./145372-grit.json) |
 | Grit & Gold | 310506 | [310506-grit-and-gold.json](./310506-grit-and-gold.json) |
 | Grit & Grind | 372620 | [372620-grit-and-grind.json](./372620-grit-and-grind.json) |
 | Grit & Valor: 1949 | 304134 | [304134-grit-and-valor-1949.json](./304134-grit-and-valor-1949.json) |
@@ -7448,6 +7452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyrodisc Super League | 18465 | [18465-gyrodisc-super-league.json](./18465-gyrodisc-super-league.json) |
 | Gyromite | 8578 | [8578-gyromite.json](./8578-gyromite.json) |
 | Gyron | 79623 | [79623-gyron.json](./79623-gyron.json) |
+| Gyropod | 145367 | [145367-gyropod.json](./145367-gyropod.json) |
 | Gyroscope | 13866 | [13866-gyroscope.json](./13866-gyroscope.json) |
 | Gyrostarr | 21791 | [21791-gyrostarr.json](./21791-gyrostarr.json) |
 | Gyruss | 12308 | [12308-gyruss.json](./12308-gyruss.json) |
