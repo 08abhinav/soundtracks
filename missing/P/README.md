@@ -2757,6 +2757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | People of Mine | 347730 | [347730-people-of-mine.json](./347730-people-of-mine.json) |
 | People of Note | 369842 | [369842-people-of-note.json](./369842-people-of-note.json) |
 | People Playground | 122646 | [122646-people-playground.json](./122646-people-playground.json) |
+| People Power: The Game of Civil Resistance | 171526 | [171526-people-power-the-game-of-civil-resistance.json](./171526-people-power-the-game-of-civil-resistance.json) |
 | People Versus Everything | 225219 | [225219-people-versus-everything.json](./225219-people-versus-everything.json) |
 | People's Chess | 175248 | [175248-peoples-chess.json](./175248-peoples-chess.json) |
 | People's Press Kiosk | 410957 | [410957-peoples-press-kiosk.json](./410957-peoples-press-kiosk.json) |
@@ -5750,6 +5751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Man Simulator | 407375 | [407375-pizza-man-simulator.json](./407375-pizza-man-simulator.json) |
 | Pizza Master VR | 131642 | [131642-pizza-master-vr.json](./131642-pizza-master-vr.json) |
 | Pizza Morgana | 70427 | [70427-pizza-morgana.json](./70427-pizza-morgana.json) |
+| Pizza Nostra | 171527 | [171527-pizza-nostra.json](./171527-pizza-nostra.json) |
 | Pizza Panic! | 393469 | [393469-pizza-panic.json](./393469-pizza-panic.json) |
 | Pizza Parking | 115057 | [115057-pizza-parking.json](./115057-pizza-parking.json) |
 | Pizza Party | 167197 | [167197-pizza-party.json](./167197-pizza-party.json) |
@@ -9295,6 +9297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince Maker-Braveness | 254544 | [254544-prince-maker-braveness.json](./254544-prince-maker-braveness.json) |
 | Prince Naseem Boxing | 50024 | [50024-prince-naseem-boxing.json](./50024-prince-naseem-boxing.json) |
 | Prince of Darkness Jr. | 371973 | [371973-prince-of-darkness-jr.json](./371973-prince-of-darkness-jr.json) |
+| Prince of Destruction | 171528 | [171528-prince-of-destruction.json](./171528-prince-of-destruction.json) |
 | Prince of Egypt | 404332 | [404332-prince-of-egypt.json](./404332-prince-of-egypt.json) |
 | Prince of Evil | 78911 | [78911-prince-of-evil.json](./78911-prince-of-evil.json) |
 | Prince of Persia | 248579 | [248579-prince-of-persia.json](./248579-prince-of-persia.json) |
@@ -9455,6 +9458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PriPara: Awaken! The Goddess' Dress Design! | 177574 | [177574-pripara-awaken-the-goddess-dress-design.json](./177574-pripara-awaken-the-goddess-dress-design.json) |
 | Pripyat 0 | 380771 | [380771-pripyat-0.json](./380771-pripyat-0.json) |
 | Pripyat Block 1986 | 285415 | [285415-pripyat-block-1986.json](./285415-pripyat-block-1986.json) |
+| Pripyat-3 | 171509 | [171509-pripyat-3.json](./171509-pripyat-3.json) |
 | Priscillas Dream | 264681 | [264681-priscillas-dream.json](./264681-priscillas-dream.json) |
 | Prism | 290392 | [290392-prism.json](./290392-prism.json) |
 | Prism | 33514 | [33514-prism.json](./33514-prism.json) |
@@ -9905,6 +9909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Layton Royale | 300386 | [300386-professor-layton-royale.json](./300386-professor-layton-royale.json) |
 | Professor Layton vs. Phoenix Wright: Ace Attorney | 1402 | [1402-professor-layton-vs-phoenix-wright-ace-attorney.json](./1402-professor-layton-vs-phoenix-wright-ace-attorney.json) |
 | Professor Li's Answer-Question | 105084 | [105084-professor-lis-answer-question.json](./105084-professor-lis-answer-question.json) |
+| Professor Neely and the Death Ray of Doom | 171532 | [171532-professor-neely-and-the-death-ray-of-doom.json](./171532-professor-neely-and-the-death-ray-of-doom.json) |
 | Professor Neumann's Adult Certification Test | 409548 | [409548-professor-neumanns-adult-certification-test.json](./409548-professor-neumanns-adult-certification-test.json) |
 | Professor Simulator | 373873 | [373873-professor-simulator.json](./373873-professor-simulator.json) |
 | Professor Watts Memory Match: Cute Animals | 106603 | [106603-professor-watts-memory-match-cute-animals.json](./106603-professor-watts-memory-match-cute-animals.json) |
