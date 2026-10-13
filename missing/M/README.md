@@ -5328,6 +5328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megan The Fox | 287331 | [287331-megan-the-fox.json](./287331-megan-the-fox.json) |
 | Megan's Adventure | 310067 | [310067-megans-adventure.json](./310067-megans-adventure.json) |
 | Meganaut | 340021 | [340021-meganaut.json](./340021-meganaut.json) |
+| Megania Online | 169487 | [169487-megania-online.json](./169487-megania-online.json) |
 | Megankreuzstilette | 252297 | [252297-megankreuzstilette.json](./252297-megankreuzstilette.json) |
 | Meganoid | 29184 | [29184-meganoid.json](./29184-meganoid.json) |
 | Meganoid: Chronicles | 370812 | [370812-meganoid-chronicles.json](./370812-meganoid-chronicles.json) |
@@ -8311,6 +8312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Wheels | 83591 | [83591-mini-wheels.json](./83591-mini-wheels.json) |
 | Mini Wizards | 350581 | [350581-mini-wizards.json](./350581-mini-wizards.json) |
 | Mini Words | 125710 | [125710-mini-words.json](./125710-mini-words.json) |
+| Mini Words: Polyglot | 169479 | [169479-mini-words-polyglot.json](./169479-mini-words-polyglot.json) |
 | Mini Z Racers Turbo | 31902 | [31902-mini-z-racers-turbo.json](./31902-mini-z-racers-turbo.json) |
 | Mini Zag | 84341 | [84341-mini-zag.json](./84341-mini-zag.json) |
 | Mini Zen Garden | 293837 | [293837-mini-zen-garden.json](./293837-mini-zen-garden.json) |
@@ -11556,6 +11558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorbikes Pro 2025: Superior Edition | 410857 | [410857-motorbikes-pro-2025-superior-edition.json](./410857-motorbikes-pro-2025-superior-edition.json) |
 | Motorbikes Pro 2025: Value Edition | 396921 | [396921-motorbikes-pro-2025-value-edition.json](./396921-motorbikes-pro-2025-value-edition.json) |
 | Motorcross Mania 2 | 200477 | [200477-motorcross-mania-2.json](./200477-motorcross-mania-2.json) |
+| Motorcycle Biker Simulator | 169141 | [169141-motorcycle-biker-simulator.json](./169141-motorcycle-biker-simulator.json) |
 | Motorcycle Boy | 366743 | [366743-motorcycle-boy.json](./366743-motorcycle-boy.json) |
 | Motorcycle Combat | 326197 | [326197-motorcycle-combat.json](./326197-motorcycle-combat.json) |
 | Motorcycle Extreme Driver: Moto Racing Simulator | 294836 | [294836-motorcycle-extreme-driver-moto-racing-simulator.json](./294836-motorcycle-extreme-driver-moto-racing-simulator.json) |
@@ -11744,6 +11747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move Blocks | 285454 | [285454-move-blocks.json](./285454-move-blocks.json) |
 | Move Code Lines | 284561 | [284561-move-code-lines.json](./284561-move-code-lines.json) |
 | Move Dash Rush | 386920 | [386920-move-dash-rush.json](./386920-move-dash-rush.json) |
+| Move Dodge and Kill | 169353 | [169353-move-dodge-and-kill.json](./169353-move-dodge-and-kill.json) |
 | Move Egg in Time | 116448 | [116448-move-egg-in-time.json](./116448-move-egg-in-time.json) |
 | Move Fitness | 22937 | [22937-move-fitness.json](./22937-move-fitness.json) |
 | Move Forward | 172067 | [172067-move-forward.json](./172067-move-forward.json) |
@@ -13152,6 +13156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My First Encyclopedia | 143571 | [143571-my-first-encyclopedia.json](./143571-my-first-encyclopedia.json) |
 | My First Engine | 101052 | [101052-my-first-engine.json](./101052-my-first-engine.json) |
 | My First Femboy Date | 213450 | [213450-my-first-femboy-date.json](./213450-my-first-femboy-date.json) |
+| My First Furry | 169349 | [169349-my-first-furry.json](./169349-my-first-furry.json) |
 | My First Grade Fantasy Adventure | 266304 | [266304-my-first-grade-fantasy-adventure.json](./266304-my-first-grade-fantasy-adventure.json) |
 | My First Gran Turismo | 324502 | [324502-my-first-gran-turismo.json](./324502-my-first-gran-turismo.json) |
 | My First Horse: Adventures on Seahorse Island | 238478 | [238478-my-first-horse-adventures-on-seahorse-island.json](./238478-my-first-horse-adventures-on-seahorse-island.json) |
