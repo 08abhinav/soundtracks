@@ -1530,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZOZ: Final Hour | 204210 | [204210-zoz-final-hour.json](./204210-zoz-final-hour.json) |
 | Zozo and the Lost Dreams | 369087 | [369087-zozo-and-the-lost-dreams.json](./369087-zozo-and-the-lost-dreams.json) |
 | Zozo's Show | 337749 | [337749-zozos-show.json](./337749-zozos-show.json) |
+| Zozzled | 139735 | [139735-zozzled.json](./139735-zozzled.json) |
 | ZP2K9 | 78354 | [78354-zp2k9.json](./78354-zp2k9.json) |
 | ZP2KX: Zombies and Pterodactyls 20XX | 79927 | [79927-zp2kx-zombies-and-pterodactyls-20xx.json](./79927-zp2kx-zombies-and-pterodactyls-20xx.json) |
 | ZPack: Random Maps for ZDoom | 260981 | [260981-zpack-random-maps-for-zdoom.json](./260981-zpack-random-maps-for-zdoom.json) |
