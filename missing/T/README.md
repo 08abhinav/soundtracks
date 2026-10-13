@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tahl: Uncover the Evil Within | 145617 | [145617-tahl-uncover-the-evil-within.json](./145617-tahl-uncover-the-evil-within.json) |
 | Tahn | 126046 | [126046-tahn.json](./126046-tahn.json) |
 | Tahoe Dragon: The Beginning | 220861 | [220861-tahoe-dragon-the-beginning.json](./220861-tahoe-dragon-the-beginning.json) |
+| Tahul | 160067 | [160067-tahul.json](./160067-tahul.json) |
 | Tai | 187878 | [187878-tai.json](./187878-tai.json) |
 | Tai-Pan | 37297 | [37297-tai-pan.json](./37297-tai-pan.json) |
 | Taichi Panda | 69338 | [69338-taichi-panda.json](./69338-taichi-panda.json) |
@@ -1796,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Task Force Harrier EX | 46599 | [46599-task-force-harrier-ex.json](./46599-task-force-harrier-ex.json) |
 | Task Force Kampas | 117141 | [117141-task-force-kampas.json](./117141-task-force-kampas.json) |
 | Task III | 55150 | [55150-task-iii.json](./55150-task-iii.json) |
+| Task Men | 160095 | [160095-task-men.json](./160095-task-men.json) |
 | Task: 312 | 144861 | [144861-task-312.json](./144861-task-312.json) |
 | Taskforce: The Mutants of October Morgane | 153493 | [153493-taskforce-the-mutants-of-october-morgane.json](./153493-taskforce-the-mutants-of-october-morgane.json) |
 | Tasking | 261973 | [261973-tasking.json](./261973-tasking.json) |
@@ -10396,6 +10398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Savior of Darkload | 231874 | [231874-the-savior-of-darkload.json](./231874-the-savior-of-darkload.json) |
 | The Savior of Salem | 109919 | [109919-the-savior-of-salem.json](./109919-the-savior-of-salem.json) |
 | The Savior's Gang | 115049 | [115049-the-saviors-gang.json](./115049-the-saviors-gang.json) |
+| The Savoury Inspector | 160097 | [160097-the-savoury-inspector.json](./160097-the-savoury-inspector.json) |
 | The Scaling | 386286 | [386286-the-scaling.json](./386286-the-scaling.json) |
 | The Scam | 369912 | [369912-the-scam.json](./369912-the-scam.json) |
 | The Scarecrow Knight | 358976 | [358976-the-scarecrow-knight.json](./358976-the-scarecrow-knight.json) |
@@ -12557,6 +12560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wolf: Online RPG Simulator | 86796 | [86796-the-wolf-online-rpg-simulator.json](./86796-the-wolf-online-rpg-simulator.json) |
 | The Wolf's Bite | 28215 | [28215-the-wolfs-bite.json](./28215-the-wolfs-bite.json) |
 | The Wolf's Den | 154082 | [154082-the-wolfs-den.json](./154082-the-wolfs-den.json) |
+| The Wolf's Girl | 160070 | [160070-the-wolfs-girl.json](./160070-the-wolfs-girl.json) |
 | The Woman Above | 398476 | [398476-the-woman-above.json](./398476-the-woman-above.json) |
 | The Wonder Pets!: Save the Animals! | 124088 | [124088-the-wonder-pets-save-the-animals.json](./124088-the-wonder-pets-save-the-animals.json) |
 | The Wonder Sword | 327585 | [327585-the-wonder-sword.json](./327585-the-wonder-sword.json) |
@@ -20176,6 +20180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribloos 3 | 104685 | [104685-tribloos-3.json](./104685-tribloos-3.json) |
 | Tribond | 206075 | [206075-tribond.json](./206075-tribond.json) |
 | Triboo | 85455 | [85455-triboo.json](./85455-triboo.json) |
+| Tribulation | 160105 | [160105-tribulation.json](./160105-tribulation.json) |
 | Tribulum | 410983 | [410983-tribulum.json](./410983-tribulum.json) |
 | Tribunal 45 | 381978 | [381978-tribunal-45.json](./381978-tribunal-45.json) |
 | Tribute | 293387 | [293387-tribute.json](./293387-tribute.json) |
@@ -21395,6 +21400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turret | 130200 | [130200-turret.json](./130200-turret.json) |
 | Turret Defense | 243821 | [243821-turret-defense.json](./243821-turret-defense.json) |
 | Turret Defense King | 317362 | [317362-turret-defense-king.json](./317362-turret-defense-king.json) |
+| Turret Defense: Bug Invasion | 160079 | [160079-turret-defense-bug-invasion.json](./160079-turret-defense-bug-invasion.json) |
 | Turret Girl | 235670 | [235670-turret-girl.json](./235670-turret-girl.json) |
 | Turret Jumper 2 | 183350 | [183350-turret-jumper-2.json](./183350-turret-jumper-2.json) |
 | Turret Lab | 223519 | [223519-turret-lab.json](./223519-turret-lab.json) |
