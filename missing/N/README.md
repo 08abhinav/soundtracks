@@ -3770,6 +3770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Heroes Allowed! | 234732 | [234732-no-heroes-allowed.json](./234732-no-heroes-allowed.json) |
 | No Heroes Allowed! | 67381 | [67381-no-heroes-allowed.json](./67381-no-heroes-allowed.json) |
 | No Heroes Here 2 | 292448 | [292448-no-heroes-here-2.json](./292448-no-heroes-here-2.json) |
+| No Honor | 166827 | [166827-no-honor.json](./166827-no-honor.json) |
 | No Hope | 149685 | [149685-no-hope.json](./149685-no-hope.json) |
 | No Horizon | 109572 | [109572-no-horizon.json](./109572-no-horizon.json) |
 | No Internet | 292053 | [292053-no-internet.json](./292053-no-internet.json) |
