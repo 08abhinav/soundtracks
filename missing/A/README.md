@@ -9095,6 +9095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrival of Beasts | 152228 | [152228-arrival-of-beasts.json](./152228-arrival-of-beasts.json) |
 | Arrival of the Punnu | 194992 | [194992-arrival-of-the-punnu.json](./194992-arrival-of-the-punnu.json) |
 | Arrival, or Attack of the B-Movie Clichés | 314038 | [314038-arrival-or-attack-of-the-b-movie-cliches.json](./314038-arrival-or-attack-of-the-b-movie-cliches.json) |
+| Arriving Home | 134925 | [134925-arriving-home.json](./134925-arriving-home.json) |
 | Arrog | 127144 | [127144-arrog.json](./127144-arrog.json) |
 | Arrogation: Unlight of Day | 220743 | [220743-arrogation-unlight-of-day.json](./220743-arrogation-unlight-of-day.json) |
 | Arrow | 131325 | [131325-arrow.json](./131325-arrow.json) |
@@ -9985,6 +9986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Deflector XL | 90195 | [90195-asteroid-deflector-xl.json](./90195-asteroid-deflector-xl.json) |
 | Asteroid Dodger | 140465 | [140465-asteroid-dodger.json](./140465-asteroid-dodger.json) |
 | Asteroid Evader | 178624 | [178624-asteroid-evader.json](./178624-asteroid-evader.json) |
+| Asteroid Farmer | 134972 | [134972-asteroid-farmer.json](./134972-asteroid-farmer.json) |
 | Asteroid Fight | 32257 | [32257-asteroid-fight.json](./32257-asteroid-fight.json) |
 | Asteroid Fire | 40722 | [40722-asteroid-fire.json](./40722-asteroid-fire.json) |
 | Asteroid Hunter | 67932 | [67932-asteroid-hunter.json](./67932-asteroid-hunter.json) |
