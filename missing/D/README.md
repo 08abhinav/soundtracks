@@ -3013,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathkeep | 4270 | [4270-deathkeep.json](./4270-deathkeep.json) |
 | Deathlands | 74513 | [74513-deathlands.json](./74513-deathlands.json) |
 | Deathless | 140360 | [140360-deathless.json](./140360-deathless.json) |
+| Deathless Hyperion | 145411 | [145411-deathless-hyperion.json](./145411-deathless-hyperion.json) |
 | Deathless: The City's Thirst | 34270 | [34270-deathless-the-citys-thirst.json](./34270-deathless-the-citys-thirst.json) |
 | Deathlike: Awakening | 30089 | [30089-deathlike-awakening.json](./30089-deathlike-awakening.json) |
 | Deathloop + Ghostwire: Tokyo Bundle | 281406 | [281406-deathloop-ghostwire-tokyo-bundle.json](./281406-deathloop-ghostwire-tokyo-bundle.json) |
@@ -8475,6 +8476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom: Hell Followed | 25571 | [25571-doom-hell-followed.json](./25571-doom-hell-followed.json) |
 | DooM: Infernal Attack | 198352 | [198352-doom-infernal-attack.json](./198352-doom-infernal-attack.json) |
 | Doom: Slayer's Testament | 146666 | [146666-doom-slayers-testament.json](./146666-doom-slayers-testament.json) |
+| Doom: The Classics Collection | 145387 | [145387-doom-the-classics-collection.json](./145387-doom-the-classics-collection.json) |
 | Doom: The Dark Ages - Revelations | 405075 | [405075-doom-the-dark-ages-revelations.json](./405075-doom-the-dark-ages-revelations.json) |
 | Doom: The Gallery Experience | 327632 | [327632-doom-the-gallery-experience.json](./327632-doom-the-gallery-experience.json) |
 | DOOM: The Golden Souls | 140496 | [140496-doom-the-golden-souls.json](./140496-doom-the-golden-souls.json) |
@@ -9120,6 +9122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Mario: Vitamin Toss | 231636 | [231636-dr-mario-vitamin-toss.json](./231636-dr-mario-vitamin-toss.json) |
 | Dr. Mary | 268447 | [268447-dr-mary.json](./268447-dr-mary.json) |
 | Dr. Maybee and the Adventures of Scarygirl | 44514 | [44514-dr-maybee-and-the-adventures-of-scarygirl.json](./44514-dr-maybee-and-the-adventures-of-scarygirl.json) |
+| Dr. Mikio Hiraiwa-Supervised Yomu Tore GO! | 145389 | [145389-dr-mikio-hiraiwa-supervised-yomu-tore-go.json](./145389-dr-mikio-hiraiwa-supervised-yomu-tore-go.json) |
 | Dr. Mini Games | 202163 | [202163-dr-mini-games.json](./202163-dr-mini-games.json) |
 | Dr. Moonlight's Happyworld | 387515 | [387515-dr-moonlights-happyworld.json](./387515-dr-moonlights-happyworld.json) |
 | Dr. Murph | 304703 | [304703-dr-murph.json](./304703-dr-murph.json) |
