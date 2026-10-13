@@ -2877,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oscar the Balloonist: Drops Into the Country Side | 208888 | [208888-oscar-the-balloonist-drops-into-the-country-side.json](./208888-oscar-the-balloonist-drops-into-the-country-side.json) |
 | Oscar the Balloonist: My Creative Workshop | 208887 | [208887-oscar-the-balloonist-my-creative-workshop.json](./208887-oscar-the-balloonist-my-creative-workshop.json) |
 | Oscar Wilde Card | 220615 | [220615-oscar-wilde-card.json](./220615-oscar-wilde-card.json) |
+| Oscar Wilde's The Selfish Giant | 145382 | [145382-oscar-wildes-the-selfish-giant.json](./145382-oscar-wildes-the-selfish-giant.json) |
 | Oscar's Trash Race | 40714 | [40714-oscars-trash-race.json](./40714-oscars-trash-race.json) |
 | Oscar's World Tour | 65749 | [65749-oscars-world-tour.json](./65749-oscars-world-tour.json) |
 | Oscarzinho e o Bug do Esporte | 218411 | [218411-oscarzinho-e-o-bug-do-esporte.json](./218411-oscarzinho-e-o-bug-do-esporte.json) |
@@ -3102,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ouch! So Many Beauties! | 298602 | [298602-ouch-so-many-beauties.json](./298602-ouch-so-many-beauties.json) |
 | Ouchi de Amaeru Shakaijin Kanojo no Renai Moyou | 382957 | [382957-ouchi-de-amaeru-shakaijin-kanojo-no-renai-moyou.json](./382957-ouchi-de-amaeru-shakaijin-kanojo-no-renai-moyou.json) |
 | Ouchi de Mugen Puchi Puchi Wii | 408870 | [408870-ouchi-de-mugen-puchi-puchi-wii.json](./408870-ouchi-de-mugen-puchi-puchi-wii.json) |
+| Ouchi de Rilakkuma: Rilakkuma ga Ouchi ni Yatte Kita | 145396 | [145396-ouchi-de-rilakkuma-rilakkuma-ga-ouchi-ni-yatte-kita.json](./145396-ouchi-de-rilakkuma-rilakkuma-ga-ouchi-ni-yatte-kita.json) |
 | Ouchi Mainichi Tamagotchi | 77629 | [77629-ouchi-mainichi-tamagotchi.json](./77629-ouchi-mainichi-tamagotchi.json) |
 | Ouchi Otofuda | 206371 | [206371-ouchi-otofuda.json](./206371-ouchi-otofuda.json) |
 | Oudbiao's World | 258477 | [258477-oudbiaos-world.json](./258477-oudbiaos-world.json) |
