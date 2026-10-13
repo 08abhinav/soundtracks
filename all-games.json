@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T17:35:14.547Z",
-  "total_soundtracks": 1576,
+  "generated_at": "2026-10-13T17:35:32.509Z",
+  "total_soundtracks": 1577,
   "games": [
     {
       "igdb_id": 7522,
@@ -6329,6 +6329,20 @@
           "spotify_url": "https://open.spotify.com/album/7us4WRnwvqCE3cppHVNjIu",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 17026,
+      "game_name": "Furi",
+      "game_url": "https://ostdb.net/games/furi",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/08/f0/f6/08f0f653-ae58-f340-b519-0e96d9299ede/3663729011893_cover.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Furi (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1NCt4W6d8fNGkBQAjXDVrA",
+          "apple_music_url": "https://music.apple.com/us/album/furi-original-game-soundtrack/1131342238",
+          "album_link_url": "https://album.link/i/1131342238"
         }
       ]
     },
