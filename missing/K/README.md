@@ -2155,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Come: Deliverance - Limited Edition | 166176 | [166176-kingdom-come-deliverance-limited-edition.json](./166176-kingdom-come-deliverance-limited-edition.json) |
 | Kingdom Come: Deliverance - Royal Collector’s Edition | 167066 | [167066-kingdom-come-deliverance-royal-collector-s-edition.json](./167066-kingdom-come-deliverance-royal-collector-s-edition.json) |
 | Kingdom Come: Deliverance - Royal DLC Package | 155078 | [155078-kingdom-come-deliverance-royal-dlc-package.json](./155078-kingdom-come-deliverance-royal-dlc-package.json) |
+| Kingdom Come: Deliverance - Special Edition | 136164 | [136164-kingdom-come-deliverance-special-edition.json](./136164-kingdom-come-deliverance-special-edition.json) |
 | Kingdom Come: Deliverance II - Brushes with Death | 343669 | [343669-kingdom-come-deliverance-ii-brushes-with-death.json](./343669-kingdom-come-deliverance-ii-brushes-with-death.json) |
 | Kingdom Come: Deliverance II - Collectors' Edition | 326774 | [326774-kingdom-come-deliverance-ii-collectors-edition.json](./326774-kingdom-come-deliverance-ii-collectors-edition.json) |
 | Kingdom Come: Deliverance II - Day One Edition | 326773 | [326773-kingdom-come-deliverance-ii-day-one-edition.json](./326773-kingdom-come-deliverance-ii-day-one-edition.json) |
@@ -2194,6 +2195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts III + Re Mind | 306474 | [306474-kingdom-hearts-iii-re-mind.json](./306474-kingdom-hearts-iii-re-mind.json) |
 | Kingdom Hearts III + Re Mind: Cloud Version | 187459 | [187459-kingdom-hearts-iii-re-mind-cloud-version.json](./187459-kingdom-hearts-iii-re-mind-cloud-version.json) |
 | Kingdom Hearts III Light vs. Darkness Edition | 403641 | [403641-kingdom-hearts-iii-light-vs-darkness-edition.json](./403641-kingdom-hearts-iii-light-vs-darkness-edition.json) |
+| Kingdom Hearts III: Deluxe Edition | 136130 | [136130-kingdom-hearts-iii-deluxe-edition.json](./136130-kingdom-hearts-iii-deluxe-edition.json) |
 | Kingdom Hearts Integrum Masterpiece | 305216 | [305216-kingdom-hearts-integrum-masterpiece.json](./305216-kingdom-hearts-integrum-masterpiece.json) |
 | Kingdom Hearts Integrum Masterpiece for Cloud | 187460 | [187460-kingdom-hearts-integrum-masterpiece-for-cloud.json](./187460-kingdom-hearts-integrum-masterpiece-for-cloud.json) |
 | Kingdom Hearts Magical Canvas | 405372 | [405372-kingdom-hearts-magical-canvas.json](./405372-kingdom-hearts-magical-canvas.json) |
