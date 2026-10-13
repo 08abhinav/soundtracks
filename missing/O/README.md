@@ -1481,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Eleven | 211694 | [211694-one-eleven.json](./211694-one-eleven.json) |
 | One Epic Game | 52641 | [52641-one-epic-game.json](./52641-one-epic-game.json) |
 | One Epic Knight | 63137 | [63137-one-epic-knight.json](./63137-one-epic-knight.json) |
+| One Fateful Night | 171875 | [171875-one-fateful-night.json](./171875-one-fateful-night.json) |
 | One Fear | 335084 | [335084-one-fear.json](./335084-one-fear.json) |
 | One Fenix Down | 297172 | [297172-one-fenix-down.json](./297172-one-fenix-down.json) |
 | One Final Chaos | 34286 | [34286-one-final-chaos.json](./34286-one-final-chaos.json) |
