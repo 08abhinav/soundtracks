@@ -8359,6 +8359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes 2: Ardennes Assault | 8445 | [8445-company-of-heroes-2-ardennes-assault.json](./8445-company-of-heroes-2-ardennes-assault.json) |
 | Company of Heroes 2: Complete Collection | 145682 | [145682-company-of-heroes-2-complete-collection.json](./145682-company-of-heroes-2-complete-collection.json) |
 | Company of Heroes 2: German Commander - Spearhead Doctrine | 168294 | [168294-company-of-heroes-2-german-commander-spearhead-doctrine.json](./168294-company-of-heroes-2-german-commander-spearhead-doctrine.json) |
+| Company of Heroes 2: Soviet Commander - Counterattack Tactics | 158409 | [158409-company-of-heroes-2-soviet-commander-counterattack-tactics.json](./158409-company-of-heroes-2-soviet-commander-counterattack-tactics.json) |
 | Company of Heroes 2: Soviet Commander - Partisan Tactics | 168291 | [168291-company-of-heroes-2-soviet-commander-partisan-tactics.json](./168291-company-of-heroes-2-soviet-commander-partisan-tactics.json) |
 | Company of Heroes 2: Soviet Commander - Tank Hunter Tactics | 168292 | [168292-company-of-heroes-2-soviet-commander-tank-hunter-tactics.json](./168292-company-of-heroes-2-soviet-commander-tank-hunter-tactics.json) |
 | Company of Heroes 2: Soviet Commander - Terror Tactics | 168293 | [168293-company-of-heroes-2-soviet-commander-terror-tactics.json](./168293-company-of-heroes-2-soviet-commander-terror-tactics.json) |
@@ -10892,6 +10893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creaks: Collector's Edition | 154553 | [154553-creaks-collectors-edition.json](./154553-creaks-collectors-edition.json) |
 | Cream and Cheese in Sonic the Hedgehog | 201287 | [201287-cream-and-cheese-in-sonic-the-hedgehog.json](./201287-cream-and-cheese-in-sonic-the-hedgehog.json) |
 | Cream Lemon: Star Trap | 270728 | [270728-cream-lemon-star-trap.json](./270728-cream-lemon-star-trap.json) |
+| Cream Me | 158397 | [158397-cream-me.json](./158397-cream-me.json) |
 | Cream War | 239746 | [239746-cream-war.json](./239746-cream-war.json) |
 | Creamare: The Game | 339338 | [339338-creamare-the-game.json](./339338-creamare-the-game.json) |
 | Creamy Mami: Futari no Rondo | 184477 | [184477-creamy-mami-futari-no-rondo.json](./184477-creamy-mami-futari-no-rondo.json) |
