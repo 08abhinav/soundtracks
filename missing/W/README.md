@@ -1186,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlords Battlecry II | 9833 | [9833-warlords-battlecry-ii.json](./9833-warlords-battlecry-ii.json) |
 | Warlords Classic Strategy | 197718 | [197718-warlords-classic-strategy.json](./197718-warlords-classic-strategy.json) |
 | Warlords DS | 79562 | [79562-warlords-ds.json](./79562-warlords-ds.json) |
+| Warlords I + II | 154234 | [154234-warlords-i-ii.json](./154234-warlords-i-ii.json) |
 | Warlords II | 50357 | [50357-warlords-ii.json](./50357-warlords-ii.json) |
 | Warlords III: Frontier | 401822 | [401822-warlords-iii-frontier.json](./401822-warlords-iii-frontier.json) |
 | Warlords of Aternum | 107181 | [107181-warlords-of-aternum.json](./107181-warlords-of-aternum.json) |
@@ -2498,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What makes you tick: A stitch in time | 22501 | [22501-what-makes-you-tick-a-stitch-in-time.json](./22501-what-makes-you-tick-a-stitch-in-time.json) |
 | What Misaki holds in her hand is her deduction | 401725 | [401725-what-misaki-holds-in-her-hand-is-her-deduction.json](./401725-what-misaki-holds-in-her-hand-is-her-deduction.json) |
 | What Must Be Done | 309132 | [309132-what-must-be-done.json](./309132-what-must-be-done.json) |
+| What Never Was: Chapter II | 154275 | [154275-what-never-was-chapter-ii.json](./154275-what-never-was-chapter-ii.json) |
 | What Now? | 183534 | [183534-what-now.json](./183534-what-now.json) |
 | What on Earth? | 406778 | [406778-what-on-earth.json](./406778-what-on-earth.json) |
 | What Remains | 260665 | [260665-what-remains.json](./260665-what-remains.json) |
@@ -6216,6 +6218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWII Airplane Fight: Battle War Squad - Master | 317288 | [317288-wwii-airplane-fight-battle-war-squad-master.json](./317288-wwii-airplane-fight-battle-war-squad-master.json) |
 | WWII Battle Tanks: T-34 vs. Tiger | 21292 | [21292-wwii-battle-tanks-t-34-vs-tiger.json](./21292-wwii-battle-tanks-t-34-vs-tiger.json) |
 | WWII Eiyuu Retsuden: Saikyou no Tora - Kurt Knispel | 91407 | [91407-wwii-eiyuu-retsuden-saikyou-no-tora-kurt-knispel.json](./91407-wwii-eiyuu-retsuden-saikyou-no-tora-kurt-knispel.json) |
+| WWII Online: Chokepoint | 154269 | [154269-wwii-online-chokepoint.json](./154269-wwii-online-chokepoint.json) |
 | WWII Simulator 3D | 303093 | [303093-wwii-simulator-3d.json](./303093-wwii-simulator-3d.json) |
 | WWII Squad Level Land Battles ssp | 295540 | [295540-wwii-squad-level-land-battles-ssp.json](./295540-wwii-squad-level-land-battles-ssp.json) |
 | WWII Tanks Battle: World War 2 Heroes Troopers Machines Sim | 274520 | [274520-wwii-tanks-battle-world-war-2-heroes-troopers-machines-sim.json](./274520-wwii-tanks-battle-world-war-2-heroes-troopers-machines-sim.json) |
