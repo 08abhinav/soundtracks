@@ -1114,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necronator 2 | 304049 | [304049-necronator-2.json](./304049-necronator-2.json) |
 | NecroNegate | 337162 | [337162-necronegate.json](./337162-necronegate.json) |
 | NecroNightmare | 191581 | [191581-necronightmare.json](./191581-necronightmare.json) |
+| Necronomistore: Black Friday - Season One | 170226 | [170226-necronomistore-black-friday-season-one.json](./170226-necronomistore-black-friday-season-one.json) |
 | NecroNomNomNom: Eldritch Horror Dating | 220638 | [220638-necronomnomnom-eldritch-horror-dating.json](./220638-necronomnomnom-eldritch-horror-dating.json) |
 | Necrophobia | 211715 | [211715-necrophobia.json](./211715-necrophobia.json) |
 | Necrophobia | 296345 | [296345-necrophobia.json](./296345-necrophobia.json) |
@@ -1718,6 +1719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Wars | 312925 | [312925-neon-wars.json](./312925-neon-wars.json) |
 | Neon White | 143612 | [143612-neon-white.json](./143612-neon-white.json) |
 | Neon Wings: Air Race | 147090 | [147090-neon-wings-air-race.json](./147090-neon-wings-air-race.json) |
+| Neon: Eternal | 169735 | [169735-neon-eternal.json](./169735-neon-eternal.json) |
 | NeonCode | 111979 | [111979-neoncode.json](./111979-neoncode.json) |
 | Neoncube | 34983 | [34983-neoncube.json](./34983-neoncube.json) |
 | Neondrops | 166610 | [166610-neondrops.json](./166610-neondrops.json) |
@@ -2179,6 +2181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Science | 419837 | [419837-new-science.json](./419837-new-science.json) |
 | New Scuffed Bhop Simulation 2026: Goty Edition | 192170 | [192170-new-scuffed-bhop-simulation-2026-goty-edition.json](./192170-new-scuffed-bhop-simulation-2026-goty-edition.json) |
 | New Sinbad 7 | 40380 | [40380-new-sinbad-7.json](./40380-new-sinbad-7.json) |
+| New Slippery Samurai | 169715 | [169715-new-slippery-samurai.json](./169715-new-slippery-samurai.json) |
 | New Solitaire Card Game | 96973 | [96973-new-solitaire-card-game.json](./96973-new-solitaire-card-game.json) |
 | New Star Cricket | 234614 | [234614-new-star-cricket.json](./234614-new-star-cricket.json) |
 | New Star Soccer | 7682 | [7682-new-star-soccer.json](./7682-new-star-soccer.json) |
