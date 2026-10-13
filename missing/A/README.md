@@ -7792,6 +7792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Ninja-Kid II | 111458 | [111458-arcade-archives-ninja-kid-ii.json](./111458-arcade-archives-ninja-kid-ii.json) |
 | Arcade Archives: Ordyne | 223153 | [223153-arcade-archives-ordyne.json](./223153-arcade-archives-ordyne.json) |
 | Arcade Archives: Pac & Pal | 215109 | [215109-arcade-archives-pac-and-pal.json](./215109-arcade-archives-pac-and-pal.json) |
+| Arcade Archives: Pac-Man | 172431 | [172431-arcade-archives-pac-man.json](./172431-arcade-archives-pac-man.json) |
 | Arcade Archives: Pettan Pyuu | 147115 | [147115-arcade-archives-pettan-pyuu.json](./147115-arcade-archives-pettan-pyuu.json) |
 | Arcade Archives: Phelios | 234631 | [234631-arcade-archives-phelios.json](./234631-arcade-archives-phelios.json) |
 | Arcade Archives: Phozon | 186564 | [186564-arcade-archives-phozon.json](./186564-arcade-archives-phozon.json) |
@@ -7896,6 +7897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Vs. Wrecking Crew | 68313 | [68313-arcade-archives-vs-wrecking-crew.json](./68313-arcade-archives-vs-wrecking-crew.json) |
 | Arcade Archives: Warp & Warp | 277578 | [277578-arcade-archives-warp-and-warp.json](./277578-arcade-archives-warp-and-warp.json) |
 | Arcade Archives: Wonder Boy | 141885 | [141885-arcade-archives-wonder-boy.json](./141885-arcade-archives-wonder-boy.json) |
+| Arcade Archives: Xevious | 172432 | [172432-arcade-archives-xevious.json](./172432-arcade-archives-xevious.json) |
 | Arcade Archives: XX Mission | 129194 | [129194-arcade-archives-xx-mission.json](./129194-arcade-archives-xx-mission.json) |
 | Arcade Archives: Zero Team | 147098 | [147098-arcade-archives-zero-team.json](./147098-arcade-archives-zero-team.json) |
 | Arcade Archives: Zing Zing Zip | 265707 | [265707-arcade-archives-zing-zing-zip.json](./265707-arcade-archives-zing-zing-zip.json) |
