@@ -796,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pangea Arcade | 96286 | [96286-pangea-arcade.json](./96286-pangea-arcade.json) |
 | Pangemic | 30818 | [30818-pangemic.json](./30818-pangemic.json) |
 | Pangeon | 113023 | [113023-pangeon.json](./113023-pangeon.json) |
+| Pangman | 150961 | [150961-pangman.json](./150961-pangman.json) |
 | Pango | 293329 | [293329-pango.json](./293329-pango.json) |
 | Pango and friends | 89705 | [89705-pango-and-friends.json](./89705-pango-and-friends.json) |
 | Pango Blocks | 87889 | [87889-pango-blocks.json](./87889-pango-blocks.json) |
@@ -1250,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise | 288319 | [288319-paradise.json](./288319-paradise.json) |
 | Paradise Angel | 278141 | [278141-paradise-angel.json](./278141-paradise-angel.json) |
 | Paradise Architect | 274464 | [274464-paradise-architect.json](./274464-paradise-architect.json) |
+| Paradise Away | 150953 | [150953-paradise-away.json](./150953-paradise-away.json) |
 | Paradise Beach 2: Around the World | 378589 | [378589-paradise-beach-2-around-the-world.json](./378589-paradise-beach-2-around-the-world.json) |
 | Paradise Beach Girls | 202208 | [202208-paradise-beach-girls.json](./202208-paradise-beach-girls.json) |
 | Paradise checkers | 112946 | [112946-paradise-checkers.json](./112946-paradise-checkers.json) |
@@ -2012,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PathPix Bubble | 96533 | [96533-pathpix-bubble.json](./96533-pathpix-bubble.json) |
 | PathPix Color | 106552 | [106552-pathpix-color.json](./106552-pathpix-color.json) |
 | PathPix Edge | 108498 | [108498-pathpix-edge.json](./108498-pathpix-edge.json) |
+| Paths & Danger | 150957 | [150957-paths-and-danger.json](./150957-paths-and-danger.json) |
 | Paths of Fight: Samurai | 249845 | [249845-paths-of-fight-samurai.json](./249845-paths-of-fight-samurai.json) |
 | Paths of Valour | 302054 | [302054-paths-of-valour.json](./302054-paths-of-valour.json) |
 | Paths Taken | 119039 | [119039-paths-taken.json](./119039-paths-taken.json) |
@@ -7666,6 +7669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokkén Tournament: Update Ver.C07 | 300366 | [300366-pokken-tournament-update-ver-c07.json](./300366-pokken-tournament-update-ver-c07.json) |
 | Pokkén Tournament: Update Ver.N01 | 300364 | [300364-pokken-tournament-update-ver-n01.json](./300364-pokken-tournament-update-ver-n01.json) |
 | Poko Memorial: 18th Hole Miniature Golf | 73537 | [73537-poko-memorial-18th-hole-miniature-golf.json](./73537-poko-memorial-18th-hole-miniature-golf.json) |
+| Pokon Factory Survival | 150936 | [150936-pokon-factory-survival.json](./150936-pokon-factory-survival.json) |
 | Pokor | 397770 | [397770-pokor.json](./397770-pokor.json) |
 | Pokosuka Racing | 408945 | [408945-pokosuka-racing.json](./408945-pokosuka-racing.json) |
 | Pokris | 116099 | [116099-pokris.json](./116099-pokris.json) |
@@ -8234,6 +8238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Town | 26561 | [26561-pop-town.json](./26561-pop-town.json) |
 | Pop Up Computer | 285034 | [285034-pop-up-computer.json](./285034-pop-up-computer.json) |
 | Pop-a-Chick | 232043 | [232043-pop-a-chick.json](./232043-pop-a-chick.json) |
+| Pop-It! Or Don't.. | 150952 | [150952-pop-it-or-dont.json](./150952-pop-it-or-dont.json) |
 | Pop-Pop | 146186 | [146186-pop-pop.json](./146186-pop-pop.json) |
 | Pop-up Fox | 101471 | [101471-pop-up-fox.json](./101471-pop-up-fox.json) |
 | Pop-Up Pilgrims | 90094 | [90094-pop-up-pilgrims.json](./90094-pop-up-pilgrims.json) |
@@ -9596,6 +9601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prismaticallization | 108832 | [108832-prismaticallization.json](./108832-prismaticallization.json) |
 | Prisme 7 | 133179 | [133179-prisme-7.json](./133179-prisme-7.json) |
 | Prisnhax | 319777 | [319777-prisnhax.json](./319777-prisnhax.json) |
+| Prison 69 | 150937 | [150937-prison-69.json](./150937-prison-69.json) |
 | Prison Adventure 3 | 224058 | [224058-prison-adventure-3.json](./224058-prison-adventure-3.json) |
 | Prison Amok | 330841 | [330841-prison-amok.json](./330841-prison-amok.json) |
 | Prison Architect | 1338 | [1338-prison-architect.json](./1338-prison-architect.json) |
@@ -10125,6 +10131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Battlefield | 342655 | [342655-project-battlefield.json](./342655-project-battlefield.json) |
 | Project Beauty | 72777 | [72777-project-beauty.json](./72777-project-beauty.json) |
 | Project Bengal | 341555 | [341555-project-bengal.json](./341555-project-bengal.json) |
+| Project Blari | 150948 | [150948-project-blari.json](./150948-project-blari.json) |
 | Project Blind | 297193 | [297193-project-blind.json](./297193-project-blind.json) |
 | Project BlockchainZ | 180313 | [180313-project-blockchainz.json](./180313-project-blockchainz.json) |
 | Project Bloom | 249706 | [249706-project-bloom.json](./249706-project-bloom.json) |
@@ -10779,6 +10786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proteus Zone | 355111 | [355111-proteus-zone.json](./355111-proteus-zone.json) |
 | Protium | 68351 | [68351-protium.json](./68351-protium.json) |
 | Proto Akane | 197088 | [197088-proto-akane.json](./197088-proto-akane.json) |
+| Proto Cuckoo 64 | 150982 | [150982-proto-cuckoo-64.json](./150982-proto-cuckoo-64.json) |
 | Proto Mecha Game | 363906 | [363906-proto-mecha-game.json](./363906-proto-mecha-game.json) |
 | Proto Raider | 34889 | [34889-proto-raider.json](./34889-proto-raider.json) |
 | Proto Zero | 406152 | [406152-proto-zero.json](./406152-proto-zero.json) |
