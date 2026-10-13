@@ -3151,6 +3151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glint Glitters | 304119 | [304119-glint-glitters.json](./304119-glint-glitters.json) |
 | Glint's Trial | 356156 | [356156-glints-trial.json](./356156-glints-trial.json) |
 | Gliont Lights | 388260 | [388260-gliont-lights.json](./388260-gliont-lights.json) |
+| Glisten to Your Heart: The Courage Within You | 170564 | [170564-glisten-to-your-heart-the-courage-within-you.json](./170564-glisten-to-your-heart-the-courage-within-you.json) |
 | Glisynth | 373145 | [373145-glisynth.json](./373145-glisynth.json) |
 | Glitch | 186709 | [186709-glitch.json](./186709-glitch.json) |
 | Glitch | 232137 | [232137-glitch.json](./232137-glitch.json) |
@@ -7308,6 +7309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guy Spy and the Crystals of Armageddon | 12130 | [12130-guy-spy-and-the-crystals-of-armageddon.json](./12130-guy-spy-and-the-crystals-of-armageddon.json) |
 | Guy vs. The Wicked and Nefarious Land | 62413 | [62413-guy-vs-the-wicked-and-nefarious-land.json](./62413-guy-vs-the-wicked-and-nefarious-land.json) |
 | Guy Who Sells Jars | 353778 | [353778-guy-who-sells-jars.json](./353778-guy-who-sells-jars.json) |
+| Guy: By Hook or by Crook | 170266 | [170266-guy-by-hook-or-by-crook.json](./170266-guy-by-hook-or-by-crook.json) |
 | Guys with Magnets | 405741 | [405741-guys-with-magnets.json](./405741-guys-with-magnets.json) |
 | Guzzler | 13865 | [13865-guzzler.json](./13865-guzzler.json) |
 | Gverse | 236913 | [236913-gverse.json](./236913-gverse.json) |
