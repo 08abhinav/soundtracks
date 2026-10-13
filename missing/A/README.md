@@ -4419,6 +4419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliosso | 288767 | [288767-aliosso.json](./288767-aliosso.json) |
 | Alipache in Wonderworld | 204708 | [204708-alipache-in-wonderworld.json](./204708-alipache-in-wonderworld.json) |
 | Aliro1 | 381680 | [381680-aliro1.json](./381680-aliro1.json) |
+| Alisa Quest | 146060 | [146060-alisa-quest.json](./146060-alisa-quest.json) |
 | Alisa's Grimoire | 375561 | [375561-alisas-grimoire.json](./375561-alisas-grimoire.json) |
 | Alisa’s Incident Report | 390627 | [390627-alisa-s-incident-report.json](./390627-alisa-s-incident-report.json) |
 | Alisha's Sexual Fear | 373529 | [373529-alishas-sexual-fear.json](./373529-alishas-sexual-fear.json) |
@@ -10091,6 +10092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Zone | 380451 | [380451-astral-zone.json](./380451-astral-zone.json) |
 | Astral-Battlecraft | 392318 | [392318-astral-battlecraft.json](./392318-astral-battlecraft.json) |
 | AstralAir no Shiroki Towa Finale: Shiroki Hoshi no Yume | 137105 | [137105-astralair-no-shiroki-towa-finale-shiroki-hoshi-no-yume.json](./137105-astralair-no-shiroki-towa-finale-shiroki-hoshi-no-yume.json) |
+| AstralAir no Shiroki Towa: White Eternity | 146087 | [146087-astralair-no-shiroki-towa-white-eternity.json](./146087-astralair-no-shiroki-towa-white-eternity.json) |
 | Astralbringer: Shaded Arkarium | 206459 | [206459-astralbringer-shaded-arkarium.json](./206459-astralbringer-shaded-arkarium.json) |
 | Astralis | 156019 | [156019-astralis.json](./156019-astralis.json) |
 | Astralis | 376870 | [376870-astralis.json](./376870-astralis.json) |
@@ -11461,6 +11463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Devil | 220207 | [220207-awesome-devil.json](./220207-awesome-devil.json) |
 | Awesome Earl in SkateRock | 52196 | [52196-awesome-earl-in-skaterock.json](./52196-awesome-earl-in-skaterock.json) |
 | Awesome Golf | 12363 | [12363-awesome-golf.json](./12363-awesome-golf.json) |
+| Awesome Land | 146029 | [146029-awesome-land.json](./146029-awesome-land.json) |
 | Awesome Memory | 87689 | [87689-awesome-memory.json](./87689-awesome-memory.json) |
 | Awesome Metal Detecting | 77371 | [77371-awesome-metal-detecting.json](./77371-awesome-metal-detecting.json) |
 | Awesome Pea 2 | 126998 | [126998-awesome-pea-2.json](./126998-awesome-pea-2.json) |
