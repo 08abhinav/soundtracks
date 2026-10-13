@@ -7177,6 +7177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodkill: Goreblast Overkill | 332642 | [332642-bloodkill-goreblast-overkill.json](./332642-bloodkill-goreblast-overkill.json) |
 | Bloodland Battle Royale | 124564 | [124564-bloodland-battle-royale.json](./124564-bloodland-battle-royale.json) |
 | Bloodless Heart | 366879 | [366879-bloodless-heart.json](./366879-bloodless-heart.json) |
+| Bloodletter | 177270 | [177270-bloodletter.json](./177270-bloodletter.json) |
 | Bloodletter | 337717 | [337717-bloodletter.json](./337717-bloodletter.json) |
 | BloodLight | 319696 | [319696-bloodlight.json](./319696-bloodlight.json) |
 | Bloodline | 255865 | [255865-bloodline.json](./255865-bloodline.json) |
@@ -8717,6 +8718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottle It!: Beverage Simulator | 389971 | [389971-bottle-it-beverage-simulator.json](./389971-bottle-it-beverage-simulator.json) |
 | Bottle of Ghouls | 281969 | [281969-bottle-of-ghouls.json](./281969-bottle-of-ghouls.json) |
 | Bottle of Sickness | 386216 | [386216-bottle-of-sickness.json](./386216-bottle-of-sickness.json) |
+| Bottle Rockets | 177447 | [177447-bottle-rockets.json](./177447-bottle-rockets.json) |
 | Bottle Tap | 289767 | [289767-bottle-tap.json](./289767-bottle-tap.json) |
 | Bottle Target Shoot | 102249 | [102249-bottle-target-shoot.json](./102249-bottle-target-shoot.json) |
 | Bottle_Shooter | 55240 | [55240-bottle-shooter.json](./55240-bottle-shooter.json) |
