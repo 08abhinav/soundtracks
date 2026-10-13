@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yard Resistance | 322162 | [322162-yard-resistance.json](./322162-yard-resistance.json) |
 | Yard Sale Hidden Treasures: Sunnyville | 66733 | [66733-yard-sale-hidden-treasures-sunnyville.json](./66733-yard-sale-hidden-treasures-sunnyville.json) |
 | Yardlings | 133342 | [133342-yardlings.json](./133342-yardlings.json) |
+| Yare.io | 158422 | [158422-yare-io.json](./158422-yare-io.json) |
 | Yareba de Kiru! The Micro Step: Gijutsu de Oboeru Eitango | 124151 | [124151-yareba-de-kiru-the-micro-step-gijutsu-de-oboeru-eitango.json](./124151-yareba-de-kiru-the-micro-step-gijutsu-de-oboeru-eitango.json) |
 | Yareta | 368607 | [368607-yareta.json](./368607-yareta.json) |
 | YARG | 144814 | [144814-yarg.json](./144814-yarg.json) |
