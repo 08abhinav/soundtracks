@@ -4330,6 +4330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bird's Realm 3 | 201805 | [201805-the-birds-realm-3.json](./201805-the-birds-realm-3.json) |
 | The Birdcage 2 | 117499 | [117499-the-birdcage-2.json](./117499-the-birdcage-2.json) |
 | The Birdsong Tree | 404435 | [404435-the-birdsong-tree.json](./404435-the-birdsong-tree.json) |
+| The Birth of an Artificial Intelligence | 165778 | [165778-the-birth-of-an-artificial-intelligence.json](./165778-the-birth-of-an-artificial-intelligence.json) |
 | The Bit.Trip | 20152 | [20152-the-bit-trip.json](./20152-the-bit-trip.json) |
 | The Bit's Escape | 287756 | [287756-the-bits-escape.json](./287756-the-bits-escape.json) |
 | The Bitmap Brothers Collection 2 | 325242 | [325242-the-bitmap-brothers-collection-2.json](./325242-the-bitmap-brothers-collection-2.json) |
@@ -9727,6 +9728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pigeon P | 198254 | [198254-the-pigeon-p.json](./198254-the-pigeon-p.json) |
 | The Pigeon Quiz | 219048 | [219048-the-pigeon-quiz.json](./219048-the-pigeon-quiz.json) |
 | The Pilgrim | 121634 | [121634-the-pilgrim.json](./121634-the-pilgrim.json) |
+| The Pilgrim Survival | 165768 | [165768-the-pilgrim-survival.json](./165768-the-pilgrim-survival.json) |
 | The Pilgrim's Progress | 336675 | [336675-the-pilgrims-progress.json](./336675-the-pilgrims-progress.json) |
 | The Pilgrim's Progress: The Video Game | 61109 | [61109-the-pilgrims-progress-the-video-game.json](./61109-the-pilgrims-progress-the-video-game.json) |
 | The Pilgrimage | 56436 | [56436-the-pilgrimage.json](./56436-the-pilgrimage.json) |
@@ -10619,6 +10621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shape of Heart | 31840 | [31840-the-shape-of-heart.json](./31840-the-shape-of-heart.json) |
 | The Shape of Things | 211729 | [211729-the-shape-of-things.json](./211729-the-shape-of-things.json) |
 | The Shape of Things: Gacha Box 1 | 278109 | [278109-the-shape-of-things-gacha-box-1.json](./278109-the-shape-of-things-gacha-box-1.json) |
+| The Shape of Time | 165730 | [165730-the-shape-of-time.json](./165730-the-shape-of-time.json) |
 | The Shape of Us | 279601 | [279601-the-shape-of-us.json](./279601-the-shape-of-us.json) |
 | The Shape on the Ground | 152383 | [152383-the-shape-on-the-ground.json](./152383-the-shape-on-the-ground.json) |
 | The Shape You Make When You Want Your Bones to Be Closest to the Surface | 123625 | [123625-the-shape-you-make-when-you-want-your-bones-to-be-closest-to-the-surface.json](./123625-the-shape-you-make-when-you-want-your-bones-to-be-closest-to-the-surface.json) |
@@ -13297,6 +13300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Days to Chicago | 259716 | [259716-three-days-to-chicago.json](./259716-three-days-to-chicago.json) |
 | Three Dead Zed | 36364 | [36364-three-dead-zed.json](./36364-three-dead-zed.json) |
 | Three Dimension | 189183 | [189183-three-dimension.json](./189183-three-dimension.json) |
+| Three Fairies' Hoppin' Flappin' Great Journey! | 165726 | [165726-three-fairies-hoppin-flappin-great-journey.json](./165726-three-fairies-hoppin-flappin-great-journey.json) |
 | Three Finger Battle Arena | 192965 | [192965-three-finger-battle-arena.json](./192965-three-finger-battle-arena.json) |
 | Three Foreign Sisters!! | 379352 | [379352-three-foreign-sisters.json](./379352-three-foreign-sisters.json) |
 | Three Fourths Home: Extended Edition | 20957 | [20957-three-fourths-home-extended-edition.json](./20957-three-fourths-home-extended-edition.json) |
