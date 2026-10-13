@@ -2062,6 +2062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cast VR | 132206 | [132206-cast-vr.json](./132206-cast-vr.json) |
 | Castan | 197116 | [197116-castan.json](./197116-castan.json) |
 | Castaside | 348270 | [348270-castaside.json](./348270-castaside.json) |
+| Castaway | 176756 | [176756-castaway.json](./176756-castaway.json) |
 | Castaway | 295314 | [295314-castaway.json](./295314-castaway.json) |
 | Castaway | 410092 | [410092-castaway.json](./410092-castaway.json) |
 | Castaway Coconuts | 307916 | [307916-castaway-coconuts.json](./307916-castaway-coconuts.json) |
@@ -8966,6 +8967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conundrum | 348975 | [348975-conundrum.json](./348975-conundrum.json) |
 | Conundrum | 380087 | [380087-conundrum.json](./380087-conundrum.json) |
 | Conundrum Catacombs | 245958 | [245958-conundrum-catacombs.json](./245958-conundrum-catacombs.json) |
+| Conurbation | 176738 | [176738-conurbation.json](./176738-conurbation.json) |
 | Conveni Dream | 58464 | [58464-conveni-dream.json](./58464-conveni-dream.json) |
 | Convenience Store | 123956 | [123956-convenience-store.json](./123956-convenience-store.json) |
 | Convenience Store Simulator | 382972 | [382972-convenience-store-simulator.json](./382972-convenience-store-simulator.json) |
@@ -11880,6 +11882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Breaker Inc. | 419156 | [419156-crystal-breaker-inc.json](./419156-crystal-breaker-inc.json) |
 | Crystal Calamity | 350496 | [350496-crystal-calamity.json](./350496-crystal-calamity.json) |
 | Crystal Call | 142237 | [142237-crystal-call.json](./142237-crystal-call.json) |
+| Crystal Captor: Memory Chronicle Finale | 176760 | [176760-crystal-captor-memory-chronicle-finale.json](./176760-crystal-captor-memory-chronicle-finale.json) |
 | Crystal Castles | 11207 | [11207-crystal-castles.json](./11207-crystal-castles.json) |
 | Crystal Cave | 339343 | [339343-crystal-cave.json](./339343-crystal-cave.json) |
 | Crystal Cave Classic | 142326 | [142326-crystal-cave-classic.json](./142326-crystal-cave-classic.json) |
@@ -13231,6 +13234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cydonia | 256838 | [256838-cydonia.json](./256838-cydonia.json) |
 | Cygnus IV | 263597 | [263597-cygnus-iv.json](./263597-cygnus-iv.json) |
 | Cygnus Racing League | 188462 | [188462-cygnus-racing-league.json](./188462-cygnus-racing-league.json) |
+| Cylinder Battle | 176730 | [176730-cylinder-battle.json](./176730-cylinder-battle.json) |
 | Cylinder: Puzzles Returned | 63898 | [63898-cylinder-puzzles-returned.json](./63898-cylinder-puzzles-returned.json) |
 | Cylindrix | 73318 | [73318-cylindrix.json](./73318-cylindrix.json) |
 | Cylon Attack | 261992 | [261992-cylon-attack.json](./261992-cylon-attack.json) |
