@@ -5521,6 +5521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hodl: The God of Crypto | 97922 | [97922-hodl-the-god-of-crypto.json](./97922-hodl-the-god-of-crypto.json) |
 | HodlGod | 175895 | [175895-hodlgod.json](./175895-hodlgod.json) |
 | Hog Heist | 360645 | [360645-hog-heist.json](./360645-hog-heist.json) |
+| Hog Hunter 2021 | 160090 | [160090-hog-hunter-2021.json](./160090-hog-hunter-2021.json) |
 | Hogan's Alley | 4601 | [4601-hogans-alley.json](./4601-hogans-alley.json) |
 | Hoggy 2 | 28916 | [28916-hoggy-2.json](./28916-hoggy-2.json) |
 | Hoglands | 231651 | [231651-hoglands.json](./231651-hoglands.json) |
@@ -7757,6 +7758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunted Hunter | 369709 | [369709-hunted-hunter.json](./369709-hunted-hunter.json) |
 | Hunted Within: The Metro | 390207 | [390207-hunted-within-the-metro.json](./390207-hunted-within-the-metro.json) |
 | Hunted: Kalevala | 235889 | [235889-hunted-kalevala.json](./235889-hunted-kalevala.json) |
+| Hunted: Kobayashi Tower | 160082 | [160082-hunted-kobayashi-tower.json](./160082-hunted-kobayashi-tower.json) |
 | Hunted: One Step Too Far | 25874 | [25874-hunted-one-step-too-far.json](./25874-hunted-one-step-too-far.json) |
 | Hunted: Survive the Night | 211787 | [211787-hunted-survive-the-night.json](./211787-hunted-survive-the-night.json) |
 | Hunted: The Demon's Forge | 505 | [505-hunted-the-demons-forge.json](./505-hunted-the-demons-forge.json) |
