@@ -533,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pair Matching Puzzle Connect: Expansion Pack 7 | 163449 | [163449-pair-matching-puzzle-connect-expansion-pack-7.json](./163449-pair-matching-puzzle-connect-expansion-pack-7.json) |
 | Pair Matching Puzzle Connect: Expansion Pack 8 | 163441 | [163441-pair-matching-puzzle-connect-expansion-pack-8.json](./163441-pair-matching-puzzle-connect-expansion-pack-8.json) |
 | Pair Memo | 246385 | [246385-pair-memo.json](./246385-pair-memo.json) |
+| Pair of Aces | 149397 | [149397-pair-of-aces.json](./149397-pair-of-aces.json) |
 | Pair of Stamps | 227870 | [227870-pair-of-stamps.json](./227870-pair-of-stamps.json) |
 | Pair Room | 393806 | [393806-pair-room.json](./393806-pair-room.json) |
 | Pair Up | 303111 | [303111-pair-up.json](./303111-pair-up.json) |
@@ -659,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pamali: Indonesian Folklore Horror - The Tied Corpse | 117737 | [117737-pamali-indonesian-folklore-horror-the-tied-corpse.json](./117737-pamali-indonesian-folklore-horror-the-tied-corpse.json) |
 | Pamali: The Vengeful Mother | 274761 | [274761-pamali-the-vengeful-mother.json](./274761-pamali-the-vengeful-mother.json) |
 | Pamina vs. Slimes | 341598 | [341598-pamina-vs-slimes.json](./341598-pamina-vs-slimes.json) |
+| Pamir Saga | 149369 | [149369-pamir-saga.json](./149369-pamir-saga.json) |
 | Pamoja Mtaani | 70565 | [70565-pamoja-mtaani.json](./70565-pamoja-mtaani.json) |
 | Pamp Quest | 124181 | [124181-pamp-quest.json](./124181-pamp-quest.json) |
 | PamPam Kana Students | 390547 | [390547-pampam-kana-students.json](./390547-pampam-kana-students.json) |
@@ -730,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandecrown | 215908 | [215908-pandecrown.json](./215908-pandecrown.json) |
 | Pandemia | 149517 | [149517-pandemia.json](./149517-pandemia.json) |
 | Pandemic | 147934 | [147934-pandemic.json](./147934-pandemic.json) |
+| Pandemic Bunny | 149371 | [149371-pandemic-bunny.json](./149371-pandemic-bunny.json) |
 | Pandemic Express: Zombie Escape | 110294 | [110294-pandemic-express-zombie-escape.json](./110294-pandemic-express-zombie-escape.json) |
 | Pandemic Heart | 165010 | [165010-pandemic-heart.json](./165010-pandemic-heart.json) |
 | Pandemic Isolation | 151076 | [151076-pandemic-isolation.json](./151076-pandemic-isolation.json) |
@@ -1394,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Bundle | 164791 | [164791-paranormal-bundle.json](./164791-paranormal-bundle.json) |
 | Paranormal Capture Investigation | 276187 | [276187-paranormal-capture-investigation.json](./276187-paranormal-capture-investigation.json) |
 | Paranormal Detective: Escape from the 90's | 152081 | [152081-paranormal-detective-escape-from-the-90s.json](./152081-paranormal-detective-escape-from-the-90s.json) |
+| Paranormal Enteties | 149367 | [149367-paranormal-enteties.json](./149367-paranormal-enteties.json) |
 | Paranormal Entities | 177402 | [177402-paranormal-entities.json](./177402-paranormal-entities.json) |
 | Paranormal Escape | 69380 | [69380-paranormal-escape.json](./69380-paranormal-escape.json) |
 | Paranormal Files: Chaos Weekend | 416704 | [416704-paranormal-files-chaos-weekend.json](./416704-paranormal-files-chaos-weekend.json) |
@@ -3445,6 +3449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Astronaut Lucid VR | 122340 | [122340-phantom-astronaut-lucid-vr.json](./122340-phantom-astronaut-lucid-vr.json) |
 | Phantom Asylum VR | 333651 | [333651-phantom-asylum-vr.json](./333651-phantom-asylum-vr.json) |
 | Phantom Beast Solitaire | 301627 | [301627-phantom-beast-solitaire.json](./301627-phantom-beast-solitaire.json) |
+| Phantom Beasts: Redemption | 149392 | [149392-phantom-beasts-redemption.json](./149392-phantom-beasts-redemption.json) |
 | Phantom Blade 0 | 250618 | [250618-phantom-blade-0.json](./250618-phantom-blade-0.json) |
 | Phantom Blade: Executioners | 173080 | [173080-phantom-blade-executioners.json](./173080-phantom-blade-executioners.json) |
 | Phantom Bound | 293626 | [293626-phantom-bound.json](./293626-phantom-bound.json) |
@@ -3989,6 +3994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PiCross | 228399 | [228399-picross.json](./228399-picross.json) |
 | Picross 2 | 49080 | [49080-picross-2.json](./49080-picross-2.json) |
 | Picross Advance | 195490 | [195490-picross-advance.json](./195490-picross-advance.json) |
+| Picross Beach Paradise | 149361 | [149361-picross-beach-paradise.json](./149361-picross-beach-paradise.json) |
 | Picross Beach Season | 89191 | [89191-picross-beach-season.json](./89191-picross-beach-season.json) |
 | Picross Date! | 378431 | [378431-picross-date.json](./378431-picross-date.json) |
 | Picross DS | 10617 | [10617-picross-ds.json](./10617-picross-ds.json) |
@@ -5109,6 +5115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit-Fighter | 374990 | [374990-pit-fighter.json](./374990-pit-fighter.json) |
 | Pitball | 20723 | [20723-pitball.json](./20723-pitball.json) |
 | Pitball: Winter Waifus | 239218 | [239218-pitball-winter-waifus.json](./239218-pitball-winter-waifus.json) |
+| PitBots | 149895 | [149895-pitbots.json](./149895-pitbots.json) |
 | Pitch & Pixel | 405605 | [405605-pitch-and-pixel.json](./405605-pitch-and-pixel.json) |
 | Pitch Black | 223685 | [223685-pitch-black.json](./223685-pitch-black.json) |
 | Pitch Black | 240704 | [240704-pitch-black.json](./240704-pitch-black.json) |
@@ -6117,6 +6124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Annihilation: Titans | 18962 | [18962-planetary-annihilation-titans.json](./18962-planetary-annihilation-titans.json) |
 | Planetary Assembly | 184272 | [184272-planetary-assembly.json](./184272-planetary-assembly.json) |
 | Planetary Campaign | 92111 | [92111-planetary-campaign.json](./92111-planetary-campaign.json) |
+| Planetary Control! | 149888 | [149888-planetary-control.json](./149888-planetary-control.json) |
 | Planetary Defense | 164862 | [164862-planetary-defense.json](./164862-planetary-defense.json) |
 | Planetary Defense Force | 129787 | [129787-planetary-defense-force.json](./129787-planetary-defense-force.json) |
 | Planetary Defense: An Orbital Turret Defense System | 210846 | [210846-planetary-defense-an-orbital-turret-defense-system.json](./210846-planetary-defense-an-orbital-turret-defense-system.json) |
