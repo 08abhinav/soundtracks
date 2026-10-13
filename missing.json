@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T10:34:52.700Z",
-  "total_missing": 205818,
+  "generated_at": "2026-10-13T10:49:57.700Z",
+  "total_missing": 205868,
   "games": [
     {
       "igdb_id": 191680,
@@ -12851,6 +12851,11 @@
       "igdb_id": 83521,
       "game_name": "A Little Rabbit Story",
       "file": "missing/A/83521-a-little-rabbit-story.json"
+    },
+    {
+      "igdb_id": 158419,
+      "game_name": "A Little Time",
+      "file": "missing/A/158419-a-little-time.json"
     },
     {
       "igdb_id": 152180,
@@ -49036,6 +49041,11 @@
       "igdb_id": 182772,
       "game_name": "Arc",
       "file": "missing/A/182772-arc.json"
+    },
+    {
+      "igdb_id": 158411,
+      "game_name": "Arc Apellago",
+      "file": "missing/A/158411-arc-apellago.json"
     },
     {
       "igdb_id": 387076,
@@ -106431,6 +106441,11 @@
       "igdb_id": 274497,
       "game_name": "Blub",
       "file": "missing/B/274497-blub.json"
+    },
+    {
+      "igdb_id": 158418,
+      "game_name": "Blub Emporium",
+      "file": "missing/B/158418-blub-emporium.json"
     },
     {
       "igdb_id": 312582,
@@ -170323,6 +170338,11 @@
       "file": "missing/C/168294-company-of-heroes-2-german-commander-spearhead-doctrine.json"
     },
     {
+      "igdb_id": 158409,
+      "game_name": "Company of Heroes 2: Soviet Commander - Counterattack Tactics",
+      "file": "missing/C/158409-company-of-heroes-2-soviet-commander-counterattack-tactics.json"
+    },
+    {
       "igdb_id": 168291,
       "game_name": "Company of Heroes 2: Soviet Commander - Partisan Tactics",
       "file": "missing/C/168291-company-of-heroes-2-soviet-commander-partisan-tactics.json"
@@ -182986,6 +183006,11 @@
       "igdb_id": 270728,
       "game_name": "Cream Lemon: Star Trap",
       "file": "missing/C/270728-cream-lemon-star-trap.json"
+    },
+    {
+      "igdb_id": 158397,
+      "game_name": "Cream Me",
+      "file": "missing/C/158397-cream-me.json"
     },
     {
       "igdb_id": 239746,
@@ -275733,6 +275758,11 @@
       "file": "missing/E/108632-escape-the-omnochronom.json"
     },
     {
+      "igdb_id": 158410,
+      "game_name": "Escape the Ordinary: Tales of Romina Manor",
+      "file": "missing/E/158410-escape-the-ordinary-tales-of-romina-manor.json"
+    },
+    {
       "igdb_id": 54510,
       "game_name": "Escape the Pacific",
       "file": "missing/E/54510-escape-the-pacific.json"
@@ -277391,6 +277421,11 @@
       "igdb_id": 236509,
       "game_name": "Eternal Seas",
       "file": "missing/E/236509-eternal-seas.json"
+    },
+    {
+      "igdb_id": 158421,
+      "game_name": "Eternal Secret",
+      "file": "missing/E/158421-eternal-secret.json"
     },
     {
       "igdb_id": 139189,
@@ -283508,6 +283543,11 @@
       "file": "missing/E/94197-extase.json"
     },
     {
+      "igdb_id": 158401,
+      "game_name": "Extended Stay",
+      "file": "missing/E/158401-extended-stay.json"
+    },
+    {
       "igdb_id": 31056,
       "game_name": "Exteria",
       "file": "missing/E/31056-exteria.json"
@@ -283991,6 +284031,11 @@
       "igdb_id": 186679,
       "game_name": "Extreme Race",
       "file": "missing/E/186679-extreme-race.json"
+    },
+    {
+      "igdb_id": 158420,
+      "game_name": "Extreme Racing",
+      "file": "missing/E/158420-extreme-racing.json"
     },
     {
       "igdb_id": 115582,
@@ -311916,6 +311961,11 @@
       "igdb_id": 153419,
       "game_name": "Flowering Across",
       "file": "missing/F/153419-flowering-across.json"
+    },
+    {
+      "igdb_id": 158400,
+      "game_name": "Flowering Nightshade",
+      "file": "missing/F/158400-flowering-nightshade.json"
     },
     {
       "igdb_id": 380217,
@@ -383703,6 +383753,11 @@
       "file": "missing/H/111252-hentai-girl-betty.json"
     },
     {
+      "igdb_id": 158403,
+      "game_name": "Hentai Girl Clicker",
+      "file": "missing/H/158403-hentai-girl-clicker.json"
+    },
+    {
       "igdb_id": 194201,
       "game_name": "Hentai Girl Division",
       "file": "missing/H/194201-hentai-girl-division.json"
@@ -400033,6 +400088,11 @@
       "file": "missing/H/105090-horny-fighter.json"
     },
     {
+      "igdb_id": 158399,
+      "game_name": "Horny Girl Hentai Puzzle",
+      "file": "missing/H/158399-horny-girl-hentai-puzzle.json"
+    },
+    {
       "igdb_id": 161327,
       "game_name": "Horny Girls Hentai",
       "file": "missing/H/161327-horny-girls-hentai.json"
@@ -400551,6 +400611,11 @@
       "igdb_id": 120814,
       "game_name": "HorrorVale",
       "file": "missing/H/120814-horrorvale.json"
+    },
+    {
+      "igdb_id": 158414,
+      "game_name": "Horroyale",
+      "file": "missing/H/158414-horroyale.json"
     },
     {
       "igdb_id": 114273,
@@ -402806,6 +402871,11 @@
       "igdb_id": 343234,
       "game_name": "House Builder 2",
       "file": "missing/H/343234-house-builder-2.json"
+    },
+    {
+      "igdb_id": 158404,
+      "game_name": "House Builder: First Job",
+      "file": "missing/H/158404-house-builder-first-job.json"
     },
     {
       "igdb_id": 386983,
@@ -439371,6 +439441,11 @@
       "igdb_id": 337282,
       "game_name": "Jixo: The Season of Joy - Collector's Edition",
       "file": "missing/J/337282-jixo-the-season-of-joy-collectors-edition.json"
+    },
+    {
+      "igdb_id": 158398,
+      "game_name": "Jixxaw: Party Time",
+      "file": "missing/J/158398-jixxaw-party-time.json"
     },
     {
       "igdb_id": 373718,
@@ -492828,6 +492903,11 @@
       "file": "missing/L/250481-lost-in-darklight.json"
     },
     {
+      "igdb_id": 158406,
+      "game_name": "Lost in Dungeon",
+      "file": "missing/L/158406-lost-in-dungeon.json"
+    },
+    {
       "igdb_id": 291093,
       "game_name": "Lost In Failures",
       "file": "missing/L/291093-lost-in-failures.json"
@@ -498161,6 +498241,11 @@
       "igdb_id": 204994,
       "game_name": "Lump Jump",
       "file": "missing/L/204994-lump-jump.json"
+    },
+    {
+      "igdb_id": 158407,
+      "game_name": "Lumpy",
+      "file": "missing/L/158407-lumpy.json"
     },
     {
       "igdb_id": 120154,
@@ -596108,6 +596193,11 @@
       "file": "missing/N/391314-nullis.json"
     },
     {
+      "igdb_id": 158415,
+      "game_name": "Nullmaze",
+      "file": "missing/N/158415-nullmaze.json"
+    },
+    {
       "igdb_id": 362744,
       "game_name": "Nullpoint Crisis",
       "file": "missing/N/362744-nullpoint-crisis.json"
@@ -607501,6 +607591,11 @@
       "igdb_id": 173831,
       "game_name": "OnlyFuck 2: Scarlett",
       "file": "missing/O/173831-onlyfuck-2-scarlett.json"
+    },
+    {
+      "igdb_id": 158402,
+      "game_name": "OnlyGame: Gamer Girls",
+      "file": "missing/O/158402-onlygame-gamer-girls.json"
     },
     {
       "igdb_id": 167829,
@@ -733958,6 +734053,11 @@
       "file": "missing/S/35941-schar-blue-shield-alliance.json"
     },
     {
+      "igdb_id": 158408,
+      "game_name": "Schastye",
+      "file": "missing/S/158408-schastye.json"
+    },
+    {
       "igdb_id": 98954,
       "game_name": "SchattenJagd",
       "file": "missing/S/98954-schattenjagd.json"
@@ -743766,6 +743866,11 @@
       "igdb_id": 33480,
       "game_name": "Settled",
       "file": "missing/S/33480-settled.json"
+    },
+    {
+      "igdb_id": 158413,
+      "game_name": "Settlement Survival",
+      "file": "missing/S/158413-settlement-survival.json"
     },
     {
       "igdb_id": 53589,
@@ -873188,6 +873293,11 @@
       "file": "missing/T/143469-the-fancy-pants-adventures-prequel.json"
     },
     {
+      "igdb_id": 158417,
+      "game_name": "The Fancy Pants Adventures: Classic Pack",
+      "file": "missing/T/158417-the-fancy-pants-adventures-classic-pack.json"
+    },
+    {
       "igdb_id": 66010,
       "game_name": "The Fancy Pants Adventures: World 1",
       "file": "missing/T/66010-the-fancy-pants-adventures-world-1.json"
@@ -890096,6 +890206,11 @@
       "igdb_id": 71524,
       "game_name": "The Omega Stone: Riddle of the Sphinx II",
       "file": "missing/T/71524-the-omega-stone-riddle-of-the-sphinx-ii.json"
+    },
+    {
+      "igdb_id": 158412,
+      "game_name": "The OmniGallery",
+      "file": "missing/T/158412-the-omnigallery.json"
     },
     {
       "igdb_id": 289973,
@@ -978123,6 +978238,11 @@
       "file": "missing/V/162250-vrc-pro-gt3-chassis-and-components.json"
     },
     {
+      "igdb_id": 158416,
+      "game_name": "VRC Pro: International Oval On-Road Tracks Deluxe",
+      "file": "missing/V/158416-vrc-pro-international-oval-on-road-tracks-deluxe.json"
+    },
+    {
       "igdb_id": 161769,
       "game_name": "VRC Pro: Off-Road Track - Barco, Italy",
       "file": "missing/V/161769-vrc-pro-off-road-track-barco-italy.json"
@@ -1014888,6 +1015008,11 @@
       "file": "missing/Y/133342-yardlings.json"
     },
     {
+      "igdb_id": 158422,
+      "game_name": "Yare.io",
+      "file": "missing/Y/158422-yare-io.json"
+    },
+    {
       "igdb_id": 124151,
       "game_name": "Yareba de Kiru! The Micro Step: Gijutsu de Oboeru Eitango",
       "file": "missing/Y/124151-yareba-de-kiru-the-micro-step-gijutsu-de-oboeru-eitango.json"
@@ -1021438,6 +1021563,21 @@
       "file": "missing/Z/395457-zaccaria-pinball-chernobylite-table-pack.json"
     },
     {
+      "igdb_id": 158436,
+      "game_name": "Zaccaria Pinball: Circus 2017 Table",
+      "file": "missing/Z/158436-zaccaria-pinball-circus-2017-table.json"
+    },
+    {
+      "igdb_id": 158429,
+      "game_name": "Zaccaria Pinball: Circus Table",
+      "file": "missing/Z/158429-zaccaria-pinball-circus-table.json"
+    },
+    {
+      "igdb_id": 158430,
+      "game_name": "Zaccaria Pinball: Clown 2019 Table",
+      "file": "missing/Z/158430-zaccaria-pinball-clown-2019-table.json"
+    },
+    {
       "igdb_id": 349914,
       "game_name": "Zaccaria Pinball: Clown Deluxe Pinball Table",
       "file": "missing/Z/349914-zaccaria-pinball-clown-deluxe-pinball-table.json"
@@ -1021446,6 +1021586,11 @@
       "igdb_id": 158492,
       "game_name": "Zaccaria Pinball: Clown Table",
       "file": "missing/Z/158492-zaccaria-pinball-clown-table.json"
+    },
+    {
+      "igdb_id": 158447,
+      "game_name": "Zaccaria Pinball: Combat Table",
+      "file": "missing/Z/158447-zaccaria-pinball-combat-table.json"
     },
     {
       "igdb_id": 411006,
@@ -1021463,9 +1021608,19 @@
       "file": "missing/Z/208453-zaccaria-pinball-deluxe-tables-pack-1.json"
     },
     {
+      "igdb_id": 158431,
+      "game_name": "Zaccaria Pinball: Devil Riders Table",
+      "file": "missing/Z/158431-zaccaria-pinball-devil-riders-table.json"
+    },
+    {
       "igdb_id": 349922,
       "game_name": "Zaccaria Pinball: Earth Wind Fire Deluxe Pinball Table",
       "file": "missing/Z/349922-zaccaria-pinball-earth-wind-fire-deluxe-pinball-table.json"
+    },
+    {
+      "igdb_id": 158441,
+      "game_name": "Zaccaria Pinball: Earth Wind Fire Table",
+      "file": "missing/Z/158441-zaccaria-pinball-earth-wind-fire-table.json"
     },
     {
       "igdb_id": 411008,
@@ -1021483,6 +1021638,16 @@
       "file": "missing/Z/395459-zaccaria-pinball-fallen-aces-table-pack.json"
     },
     {
+      "igdb_id": 158426,
+      "game_name": "Zaccaria Pinball: Farfalla Deluxe Pinball Table",
+      "file": "missing/Z/158426-zaccaria-pinball-farfalla-deluxe-pinball-table.json"
+    },
+    {
+      "igdb_id": 158425,
+      "game_name": "Zaccaria Pinball: Future World 2018 Table",
+      "file": "missing/Z/158425-zaccaria-pinball-future-world-2018-table.json"
+    },
+    {
       "igdb_id": 349923,
       "game_name": "Zaccaria Pinball: Future World Deluxe Pinball Table",
       "file": "missing/Z/349923-zaccaria-pinball-future-world-deluxe-pinball-table.json"
@@ -1021493,14 +1021658,29 @@
       "file": "missing/Z/158489-zaccaria-pinball-locomotion-2018-table.json"
     },
     {
+      "igdb_id": 158434,
+      "game_name": "Zaccaria Pinball: Magic Castle 2017 Table",
+      "file": "missing/Z/158434-zaccaria-pinball-magic-castle-2017-table.json"
+    },
+    {
       "igdb_id": 349915,
       "game_name": "Zaccaria Pinball: Magic Castle Deluxe Pinball Table",
       "file": "missing/Z/349915-zaccaria-pinball-magic-castle-deluxe-pinball-table.json"
     },
     {
+      "igdb_id": 158423,
+      "game_name": "Zaccaria Pinball: Magic Castle Table",
+      "file": "missing/Z/158423-zaccaria-pinball-magic-castle-table.json"
+    },
+    {
       "igdb_id": 107669,
       "game_name": "Zaccaria Pinball: Master Edition",
       "file": "missing/Z/107669-zaccaria-pinball-master-edition.json"
+    },
+    {
+      "igdb_id": 158428,
+      "game_name": "Zaccaria Pinball: Mexico '86 Table",
+      "file": "missing/Z/158428-zaccaria-pinball-mexico-86-table.json"
     },
     {
       "igdb_id": 349918,
@@ -1021528,9 +1021708,19 @@
       "file": "missing/Z/156105-zaccaria-pinball-pool-champion-2018-table.json"
     },
     {
+      "igdb_id": 158445,
+      "game_name": "Zaccaria Pinball: Pool Champion Table",
+      "file": "missing/Z/158445-zaccaria-pinball-pool-champion-table.json"
+    },
+    {
       "igdb_id": 215390,
       "game_name": "Zaccaria Pinball: Postal 2 Table Pack",
       "file": "missing/Z/215390-zaccaria-pinball-postal-2-table-pack.json"
+    },
+    {
+      "igdb_id": 158446,
+      "game_name": "Zaccaria Pinball: Red Show Table",
+      "file": "missing/Z/158446-zaccaria-pinball-red-show-table.json"
     },
     {
       "igdb_id": 238011,
@@ -1021546,6 +1021736,11 @@
       "igdb_id": 237905,
       "game_name": "Zaccaria Pinball: Remake Table Pack 3",
       "file": "missing/Z/237905-zaccaria-pinball-remake-table-pack-3.json"
+    },
+    {
+      "igdb_id": 158435,
+      "game_name": "Zaccaria Pinball: Robot 2018 Table",
+      "file": "missing/Z/158435-zaccaria-pinball-robot-2018-table.json"
     },
     {
       "igdb_id": 156099,
@@ -1021578,14 +1021773,69 @@
       "file": "missing/Z/411009-zaccaria-pinball-solid-state-table-pack-3.json"
     },
     {
+      "igdb_id": 158432,
+      "game_name": "Zaccaria Pinball: Space Shuttle 2016 Table",
+      "file": "missing/Z/158432-zaccaria-pinball-space-shuttle-2016-table.json"
+    },
+    {
+      "igdb_id": 158433,
+      "game_name": "Zaccaria Pinball: Space Shuttle Table",
+      "file": "missing/Z/158433-zaccaria-pinball-space-shuttle-table.json"
+    },
+    {
+      "igdb_id": 158444,
+      "game_name": "Zaccaria Pinball: Spooky 2017 Table",
+      "file": "missing/Z/158444-zaccaria-pinball-spooky-2017-table.json"
+    },
+    {
+      "igdb_id": 158427,
+      "game_name": "Zaccaria Pinball: Spooky Table",
+      "file": "missing/Z/158427-zaccaria-pinball-spooky-table.json"
+    },
+    {
+      "igdb_id": 158443,
+      "game_name": "Zaccaria Pinball: Star God 2019 Table",
+      "file": "missing/Z/158443-zaccaria-pinball-star-god-2019-table.json"
+    },
+    {
+      "igdb_id": 158438,
+      "game_name": "Zaccaria Pinball: Star's Phoenix 2018 Table",
+      "file": "missing/Z/158438-zaccaria-pinball-stars-phoenix-2018-table.json"
+    },
+    {
+      "igdb_id": 158437,
+      "game_name": "Zaccaria Pinball: Star's Phoenix Table",
+      "file": "missing/Z/158437-zaccaria-pinball-stars-phoenix-table.json"
+    },
+    {
+      "igdb_id": 158442,
+      "game_name": "Zaccaria Pinball: Strike Deluxe Pinball Table",
+      "file": "missing/Z/158442-zaccaria-pinball-strike-deluxe-pinball-table.json"
+    },
+    {
       "igdb_id": 349916,
       "game_name": "Zaccaria Pinball: Supersonic Deluxe Pinball Table",
       "file": "missing/Z/349916-zaccaria-pinball-supersonic-deluxe-pinball-table.json"
     },
     {
+      "igdb_id": 158448,
+      "game_name": "Zaccaria Pinball: Supersonic Table",
+      "file": "missing/Z/158448-zaccaria-pinball-supersonic-table.json"
+    },
+    {
+      "igdb_id": 158440,
+      "game_name": "Zaccaria Pinball: Time Machine 2019 Table",
+      "file": "missing/Z/158440-zaccaria-pinball-time-machine-2019-table.json"
+    },
+    {
       "igdb_id": 349921,
       "game_name": "Zaccaria Pinball: Tropical Deluxe Pinball Table",
       "file": "missing/Z/349921-zaccaria-pinball-tropical-deluxe-pinball-table.json"
+    },
+    {
+      "igdb_id": 158439,
+      "game_name": "Zaccaria Pinball: Winter Sports Table",
+      "file": "missing/Z/158439-zaccaria-pinball-winter-sports-table.json"
     },
     {
       "igdb_id": 158495,
