@@ -10917,7 +10917,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mordeny | 356804 | [356804-mordeny.json](./356804-mordeny.json) |
 | Mordeth | 316605 | [316605-mordeth.json](./316605-mordeth.json) |
 | Mordfield Command | 304874 | [304874-mordfield-command.json](./304874-mordfield-command.json) |
-| Mordhau | 27729 | [27729-mordhau.json](./27729-mordhau.json) |
 | Mordhau: Archduke Set | 272449 | [272449-mordhau-archduke-set.json](./272449-mordhau-archduke-set.json) |
 | Mordhau: Gold Edition | 256429 | [256429-mordhau-gold-edition.json](./256429-mordhau-gold-edition.json) |
 | Mordhau: Platinum Edition | 305495 | [305495-mordhau-platinum-edition.json](./305495-mordhau-platinum-edition.json) |
