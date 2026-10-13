@@ -2293,6 +2293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeatStroke | 194629 | [194629-heatstroke.json](./194629-heatstroke.json) |
 | Heatwarped | 414518 | [414518-heatwarped.json](./414518-heatwarped.json) |
 | Heatwave | 169894 | [169894-heatwave.json](./169894-heatwave.json) |
+| HeatWave | 137366 | [137366-heatwave.json](./137366-heatwave.json) |
 | Heave Ho | 116685 | [116685-heave-ho.json](./116685-heave-ho.json) |
 | Heave Ho + Heave Ho 2 Bundle | 412952 | [412952-heave-ho-heave-ho-2-bundle.json](./412952-heave-ho-heave-ho-2-bundle.json) |
 | Heave Ho 2 | 393563 | [393563-heave-ho-2.json](./393563-heave-ho-2.json) |
@@ -7978,6 +7979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hutaoriji: Emoji Girl Menhera | 188360 | [188360-hutaoriji-emoji-girl-menhera.json](./188360-hutaoriji-emoji-girl-menhera.json) |
 | Huts | 129575 | [129575-huts.json](./129575-huts.json) |
 | Huuma Mina: The Game | 82501 | [82501-huuma-mina-the-game.json](./82501-huuma-mina-the-game.json) |
+| Huuma Mina: The Secret of Immortality | 137373 | [137373-huuma-mina-the-secret-of-immortality.json](./137373-huuma-mina-the-secret-of-immortality.json) |
 | Huusuienbu: Chapter Spring and Summer | 55706 | [55706-huusuienbu-chapter-spring-and-summer.json](./55706-huusuienbu-chapter-spring-and-summer.json) |
 | Huxley Pig | 67653 | [67653-huxley-pig.json](./67653-huxley-pig.json) |
 | Huxley: The Dystopia | 73011 | [73011-huxley-the-dystopia.json](./73011-huxley-the-dystopia.json) |
