@@ -2841,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orrin's Chessboard | 377758 | [377758-orrins-chessboard.json](./377758-orrins-chessboard.json) |
 | Orrstead | 191513 | [191513-orrstead.json](./191513-orrstead.json) |
 | Orso | 390200 | [390200-orso.json](./390200-orso.json) |
+| Orthanc | 146634 | [146634-orthanc.json](./146634-orthanc.json) |
 | Ortharion: The Last Battle | 193444 | [193444-ortharion-the-last-battle.json](./193444-ortharion-the-last-battle.json) |
 | Ortheo | 163197 | [163197-ortheo.json](./163197-ortheo.json) |
 | Ortheo | 250510 | [250510-ortheo.json](./250510-ortheo.json) |
@@ -3133,6 +3134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Church and Halloween: Story One | 146311 | [146311-our-church-and-halloween-story-one.json](./146311-our-church-and-halloween-story-one.json) |
 | Our Church and Halloween: Story Three | 147942 | [147942-our-church-and-halloween-story-three.json](./147942-our-church-and-halloween-story-three.json) |
 | Our Cinderella | 292061 | [292061-our-cinderella.json](./292061-our-cinderella.json) |
+| Our Damned Machine | 146636 | [146636-our-damned-machine.json](./146636-our-damned-machine.json) |
 | Our Dark Heart | 258376 | [258376-our-dark-heart.json](./258376-our-dark-heart.json) |
 | Our Darkest Night | 30793 | [30793-our-darkest-night.json](./30793-our-darkest-night.json) |
 | Our Dollhouse | 294219 | [294219-our-dollhouse.json](./294219-our-dollhouse.json) |
