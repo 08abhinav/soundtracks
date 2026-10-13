@@ -2943,6 +2943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Room | 75156 | [75156-death-room.json](./75156-death-room.json) |
 | Death Rpg | 116313 | [116313-death-rpg.json](./116313-death-rpg.json) |
 | Death School | 210523 | [210523-death-school.json](./210523-death-school.json) |
+| Death Scream Land | 139081 | [139081-death-scream-land.json](./139081-death-scream-land.json) |
 | Death Shooter 4 : Mission Impossible | 104614 | [104614-death-shooter-4-mission-impossible.json](./104614-death-shooter-4-mission-impossible.json) |
 | Death Sketchbook | 393134 | [393134-death-sketchbook.json](./393134-death-sketchbook.json) |
 | Death Ski | 156707 | [156707-death-ski.json](./156707-death-ski.json) |
@@ -5188,6 +5189,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Station | 130676 | [130676-devil-station.json](./130676-devil-station.json) |
 | Devil Stone | 110329 | [110329-devil-stone.json](./110329-devil-stone.json) |
 | Devil Summoner: Soul Hackers | 6883 | [6883-devil-summoner-soul-hackers.json](./6883-devil-summoner-soul-hackers.json) |
+| Devil Summoner: Soul Hackers New Generation | 139091 | [139091-devil-summoner-soul-hackers-new-generation.json](./139091-devil-summoner-soul-hackers-new-generation.json) |
+| Devil Survivor 2: The Extra World | 139136 | [139136-devil-survivor-2-the-extra-world.json](./139136-devil-survivor-2-the-extra-world.json) |
 | Devil Tears | 175789 | [175789-devil-tears.json](./175789-devil-tears.json) |
 | Devil Under Sun | 113653 | [113653-devil-under-sun.json](./113653-devil-under-sun.json) |
 | Devil World | 4612 | [4612-devil-world.json](./4612-devil-world.json) |
@@ -8504,6 +8507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom: The Way We Remember It | 252031 | [252031-doom-the-way-we-remember-it.json](./252031-doom-the-way-we-remember-it.json) |
 | Doom: Unto the Evil | 22431 | [22431-doom-unto-the-evil.json](./22431-doom-unto-the-evil.json) |
 | Doom3D | 196011 | [196011-doom3d.json](./196011-doom3d.json) |
+| DOOM4: Death Foretold | 139120 | [139120-doom4-death-foretold.json](./139120-doom4-death-foretold.json) |
 | Doomblade | 114004 | [114004-doomblade.json](./114004-doomblade.json) |
 | Doombox | 308476 | [308476-doombox.json](./308476-doombox.json) |
 | Doombox | 372826 | [372826-doombox.json](./372826-doombox.json) |
