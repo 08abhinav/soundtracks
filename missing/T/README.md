@@ -5188,6 +5188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Illmoore Bay | 169874 | [169874-the-curse-of-illmoore-bay.json](./169874-the-curse-of-illmoore-bay.json) |
 | The Curse of Karlanrik | 338275 | [338275-the-curse-of-karlanrik.json](./338275-the-curse-of-karlanrik.json) |
 | The Curse of Kubel + Expansion DLC | 238450 | [238450-the-curse-of-kubel-expansion-dlc.json](./238450-the-curse-of-kubel-expansion-dlc.json) |
+| The Curse of Mantras | 150965 | [150965-the-curse-of-mantras.json](./150965-the-curse-of-mantras.json) |
 | The Curse of Mount Madre | 328280 | [328280-the-curse-of-mount-madre.json](./328280-the-curse-of-mount-madre.json) |
 | The Curse of Ra | 127340 | [127340-the-curse-of-ra.json](./127340-the-curse-of-ra.json) |
 | The Curse of Rabenstein | 231520 | [231520-the-curse-of-rabenstein.json](./231520-the-curse-of-rabenstein.json) |
@@ -6725,6 +6726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Ace Attorney Chronicles | 146075 | [146075-the-great-ace-attorney-chronicles.json](./146075-the-great-ace-attorney-chronicles.json) |
 | The Great Ace Attorney: Adventures | 76244 | [76244-the-great-ace-attorney-adventures.json](./76244-the-great-ace-attorney-adventures.json) |
 | The Great Adventures of Nedmapagmahal | 305984 | [305984-the-great-adventures-of-nedmapagmahal.json](./305984-the-great-adventures-of-nedmapagmahal.json) |
+| The Great Art Heist | 150938 | [150938-the-great-art-heist.json](./150938-the-great-art-heist.json) |
 | The Great Art Race | 10690 | [10690-the-great-art-race.json](./10690-the-great-art-race.json) |
 | The Great Axe | 365824 | [365824-the-great-axe.json](./365824-the-great-axe.json) |
 | The Great Basement Escape | 385192 | [385192-the-great-basement-escape.json](./385192-the-great-basement-escape.json) |
@@ -8502,6 +8504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Liminal Space | 289988 | [289988-the-liminal-space.json](./289988-the-liminal-space.json) |
 | The Liminal Theory | 312130 | [312130-the-liminal-theory.json](./312130-the-liminal-theory.json) |
 | The Line | 149233 | [149233-the-line.json](./149233-the-line.json) |
+| The Line | 150935 | [150935-the-line.json](./150935-the-line.json) |
 | The Line | 315715 | [315715-the-line.json](./315715-the-line.json) |
 | The Line of Defense | 370184 | [370184-the-line-of-defense.json](./370184-the-line-of-defense.json) |
 | The Line TD | 275335 | [275335-the-line-td.json](./275335-the-line-td.json) |
@@ -8682,6 +8685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Abyss | 213592 | [213592-the-lost-abyss.json](./213592-the-lost-abyss.json) |
 | The Lost Adventures of Legend | 73543 | [73543-the-lost-adventures-of-legend.json](./73543-the-lost-adventures-of-legend.json) |
 | The Lost and Forgotten | 104816 | [104816-the-lost-and-forgotten.json](./104816-the-lost-and-forgotten.json) |
+| The Lost and The Wicked | 150972 | [150972-the-lost-and-the-wicked.json](./150972-the-lost-and-the-wicked.json) |
 | The Lost Angelic Chronicles of Frane: Dragon's Odyssey | 65855 | [65855-the-lost-angelic-chronicles-of-frane-dragons-odyssey.json](./65855-the-lost-angelic-chronicles-of-frane-dragons-odyssey.json) |
 | The Lost Art of Innkeeping | 135234 | [135234-the-lost-art-of-innkeeping.json](./135234-the-lost-art-of-innkeeping.json) |
 | The Lost Artifacts | 171588 | [171588-the-lost-artifacts.json](./171588-the-lost-artifacts.json) |
@@ -16065,6 +16069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toaru Majutsu no Virtual-On | 55040 | [55040-toaru-majutsu-no-virtual-on.json](./55040-toaru-majutsu-no-virtual-on.json) |
 | Toaru Pantsu no Railgun | 204322 | [204322-toaru-pantsu-no-railgun.json](./204322-toaru-pantsu-no-railgun.json) |
 | Toast | 237271 | [237271-toast.json](./237271-toast.json) |
+| Toast Defense | 150977 | [150977-toast-defense.json](./150977-toast-defense.json) |
 | Toast Ghost | 307739 | [307739-toast-ghost.json](./307739-toast-ghost.json) |
 | Toast Hell | 350556 | [350556-toast-hell.json](./350556-toast-hell.json) |
 | Toast Jammer | 180642 | [180642-toast-jammer.json](./180642-toast-jammer.json) |
@@ -16833,6 +16838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonzurakko | 66630 | [66630-tonzurakko.json](./66630-tonzurakko.json) |
 | Too Accurate to Be Scary...Your True Feelings Revealed by This Image | 409505 | [409505-too-accurate-to-be-scary-your-true-feelings-revealed-by-this-image.json](./409505-too-accurate-to-be-scary-your-true-feelings-revealed-by-this-image.json) |
 | Too Deep To Quit | 397820 | [397820-too-deep-to-quit.json](./397820-too-deep-to-quit.json) |
+| Too Different | 150974 | [150974-too-different.json](./150974-too-different.json) |
 | Too Far Too Late | 295550 | [295550-too-far-too-late.json](./295550-too-far-too-late.json) |
 | Too Fast | 183913 | [183913-too-fast.json](./183913-too-fast.json) |
 | Too Fast RPG | 240277 | [240277-too-fast-rpg.json](./240277-too-fast-rpg.json) |
