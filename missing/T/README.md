@@ -5676,6 +5676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Drone Zone | 244905 | [244905-the-drone-zone.json](./244905-the-drone-zone.json) |
 | The Dropper 2 | 200144 | [200144-the-dropper-2.json](./200144-the-dropper-2.json) |
 | The Drowning | 20917 | [20917-the-drowning.json](./20917-the-drowning.json) |
+| The Drowning Machine | 144738 | [144738-the-drowning-machine.json](./144738-the-drowning-machine.json) |
 | The Drugstore: Matsumoto Kiyoshi de Okaimono! | 280792 | [280792-the-drugstore-matsumoto-kiyoshi-de-okaimono.json](./280792-the-drugstore-matsumoto-kiyoshi-de-okaimono.json) |
 | The Druid | 240759 | [240759-the-druid.json](./240759-the-druid.json) |
 | The Drunken Beard | 343203 | [343203-the-drunken-beard.json](./343203-the-drunken-beard.json) |
@@ -7595,6 +7596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Karate Kid | 68386 | [68386-the-karate-kid.json](./68386-the-karate-kid.json) |
 | The Karate Kid: Street Rumble | 309026 | [309026-the-karate-kid-street-rumble.json](./309026-the-karate-kid-street-rumble.json) |
 | The Karate Tournament | 40342 | [40342-the-karate-tournament.json](./40342-the-karate-tournament.json) |
+| The Kars | 144732 | [144732-the-kars.json](./144732-the-kars.json) |
 | The Karters 2: Turbo Charged | 230763 | [230763-the-karters-2-turbo-charged.json](./230763-the-karters-2-turbo-charged.json) |
 | The Katagean Redoubt | 271816 | [271816-the-katagean-redoubt.json](./271816-the-katagean-redoubt.json) |
 | The Katydids Incident | 203675 | [203675-the-katydids-incident.json](./203675-the-katydids-incident.json) |
@@ -16502,6 +16504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Extraction: Limited Edition | 152336 | [152336-tom-clancys-rainbow-six-extraction-limited-edition.json](./152336-tom-clancys-rainbow-six-extraction-limited-edition.json) |
 | Tom Clancy’s Rainbow Six Extraction: React Strike Pack | 255858 | [255858-tom-clancy-s-rainbow-six-extraction-react-strike-pack.json](./255858-tom-clancy-s-rainbow-six-extraction-react-strike-pack.json) |
 | Tom Clancy's Rainbow Six Mission Pack: Eagle Watch | 1841 | [1841-tom-clancys-rainbow-six-mission-pack-eagle-watch.json](./1841-tom-clancys-rainbow-six-mission-pack-eagle-watch.json) |
+| Tom Clancy's Rainbow Six Siege + The Division Double Pack | 144734 | [144734-tom-clancys-rainbow-six-siege-the-division-double-pack.json](./144734-tom-clancys-rainbow-six-siege-the-division-double-pack.json) |
 | Tom Clancy's Rainbow Six Siege X | 349484 | [349484-tom-clancys-rainbow-six-siege-x.json](./349484-tom-clancys-rainbow-six-siege-x.json) |
 | Tom Clancy's Rainbow Six Siege: Complete Edition | 53820 | [53820-tom-clancys-rainbow-six-siege-complete-edition.json](./53820-tom-clancys-rainbow-six-siege-complete-edition.json) |
 | Tom Clancy's Rainbow Six Siege: Deluxe Edition | 118882 | [118882-tom-clancys-rainbow-six-siege-deluxe-edition.json](./118882-tom-clancys-rainbow-six-siege-deluxe-edition.json) |
@@ -20154,6 +20157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Island Arcade | 131519 | [131519-treasure-island-arcade.json](./131519-treasure-island-arcade.json) |
 | Treasure Island: The Gold Bag | 210210 | [210210-treasure-island-the-gold-bag.json](./210210-treasure-island-the-gold-bag.json) |
 | Treasure Island: The Golden Bug - Extended Edition | 257475 | [257475-treasure-island-the-golden-bug-extended-edition.json](./257475-treasure-island-the-golden-bug-extended-edition.json) |
+| Treasure Islands | 144727 | [144727-treasure-islands.json](./144727-treasure-islands.json) |
 | Treasure Journey | 337044 | [337044-treasure-journey.json](./337044-treasure-journey.json) |
 | Treasure Master | 80822 | [80822-treasure-master.json](./80822-treasure-master.json) |
 | Treasure MathStorm! | 73996 | [73996-treasure-mathstorm.json](./73996-treasure-mathstorm.json) |
