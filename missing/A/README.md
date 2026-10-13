@@ -7704,6 +7704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc the Lad: Monster Game with Casino Game | 44731 | [44731-arc-the-lad-monster-game-with-casino-game.json](./44731-arc-the-lad-monster-game-with-casino-game.json) |
 | Arc Tracker | 338265 | [338265-arc-tracker.json](./338265-arc-tracker.json) |
 | Arc Vector | 126409 | [126409-arc-vector.json](./126409-arc-vector.json) |
+| Arc Wizards 2 | 149893 | [149893-arc-wizards-2.json](./149893-arc-wizards-2.json) |
 | Arc Wizards 3 | 157426 | [157426-arc-wizards-3.json](./157426-arc-wizards-3.json) |
 | ARC: Antic Runes Combat | 294277 | [294277-arc-antic-runes-combat.json](./294277-arc-antic-runes-combat.json) |
 | Arc’s Glitch Defender | 362391 | [362391-arc-s-glitch-defender.json](./362391-arc-s-glitch-defender.json) |
@@ -11084,6 +11085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autogun Heroes | 300784 | [300784-autogun-heroes.json](./300784-autogun-heroes.json) |
 | Autogun Heroes: Supercharged | 325518 | [325518-autogun-heroes-supercharged.json](./325518-autogun-heroes-supercharged.json) |
 | AutoHeroes | 248883 | [248883-autoheroes.json](./248883-autoheroes.json) |
+| AutoLand | 149876 | [149876-autoland.json](./149876-autoland.json) |
 | Automachef | 107217 | [107217-automachef.json](./107217-automachef.json) |
 | Automakhan | 56303 | [56303-automakhan.json](./56303-automakhan.json) |
 | Automania | 30216 | [30216-automania.json](./30216-automania.json) |
@@ -11139,6 +11141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autopsy Simulator | 132385 | [132385-autopsy-simulator.json](./132385-autopsy-simulator.json) |
 | Autos | 197392 | [197392-autos.json](./197392-autos.json) |
 | AutoSim 2 | 235860 | [235860-autosim-2.json](./235860-autosim-2.json) |
+| Autumn and Girls | 149393 | [149393-autumn-and-girls.json](./149393-autumn-and-girls.json) |
 | Autumn Dynasty Warlords | 23424 | [23424-autumn-dynasty-warlords.json](./23424-autumn-dynasty-warlords.json) |
 | Autumn Garden | 82181 | [82181-autumn-garden.json](./82181-autumn-garden.json) |
 | Autumn Hike | 257431 | [257431-autumn-hike.json](./257431-autumn-hike.json) |
