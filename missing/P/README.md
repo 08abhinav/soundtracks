@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Games | 220257 | [220257-pac-man-games.json](./220257-pac-man-games.json) |
 | Pac-Man Geo | 172697 | [172697-pac-man-geo.json](./172697-pac-man-geo.json) |
 | Pac-Man Maker | 28186 | [28186-pac-man-maker.json](./28186-pac-man-maker.json) |
+| Pac-Man Mega Tunnel Battle | 140269 | [140269-pac-man-mega-tunnel-battle.json](./140269-pac-man-mega-tunnel-battle.json) |
 | Pac-Man Mega Tunnel Battle: Chomp Champs - Lunar Animals Pac | 300927 | [300927-pac-man-mega-tunnel-battle-chomp-champs-lunar-animals-pac.json](./300927-pac-man-mega-tunnel-battle-chomp-champs-lunar-animals-pac.json) |
 | Pac-Man Mega Tunnel Battle: Chomp Champs - Namco Pals Pac | 300926 | [300926-pac-man-mega-tunnel-battle-chomp-champs-namco-pals-pac.json](./300926-pac-man-mega-tunnel-battle-chomp-champs-namco-pals-pac.json) |
 | Pac-Man Megamix | 322106 | [322106-pac-man-megamix.json](./322106-pac-man-megamix.json) |
@@ -1325,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradream | 237455 | [237455-paradream.json](./237455-paradream.json) |
 | Paradroid | 22518 | [22518-paradroid.json](./22518-paradroid.json) |
 | Paradroid 90 | 13253 | [13253-paradroid-90.json](./13253-paradroid-90.json) |
+| Paradroid: Competition Edition | 140260 | [140260-paradroid-competition-edition.json](./140260-paradroid-competition-edition.json) |
 | Paraedolon | 320011 | [320011-paraedolon.json](./320011-paraedolon.json) |
 | Parafron | 260607 | [260607-parafron.json](./260607-parafron.json) |
 | Paragnosia | 320184 | [320184-paragnosia.json](./320184-paragnosia.json) |
@@ -11399,6 +11401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puniru ha Kawaii Slime no Game wo "Ano Game" de Tsukuttemita Keredo, Hatashite Anata ha Clear Dekirunoka? | 326577 | [326577-puniru-ha-kawaii-slime-no-game-wo-ano-game-de-tsukuttemita-keredo-hatashite-anata-ha-clear-dekirunoka.json](./326577-puniru-ha-kawaii-slime-no-game-wo-ano-game-de-tsukuttemita-keredo-hatashite-anata-ha-clear-dekirunoka.json) |
 | Punirunes | 370299 | [370299-punirunes.json](./370299-punirunes.json) |
 | Punish Me | 385255 | [385255-punish-me.json](./385255-punish-me.json) |
+| Punished Talents: Seven Muses | 140275 | [140275-punished-talents-seven-muses.json](./140275-punished-talents-seven-muses.json) |
 | Punished Talents: Seven Muses - Collector's Edition | 29063 | [29063-punished-talents-seven-muses-collectors-edition.json](./29063-punished-talents-seven-muses-collectors-edition.json) |
 | Punished Talents: Stolen Awards | 58647 | [58647-punished-talents-stolen-awards.json](./58647-punished-talents-stolen-awards.json) |
 | Punisher | 261955 | [261955-punisher.json](./261955-punisher.json) |
@@ -11455,9 +11458,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuppetShow: Destiny Undone | 63571 | [63571-puppetshow-destiny-undone.json](./63571-puppetshow-destiny-undone.json) |
 | PuppetShow: Destiny Undone - Collector's Edition | 105749 | [105749-puppetshow-destiny-undone-collectors-edition.json](./105749-puppetshow-destiny-undone-collectors-edition.json) |
 | PuppetShow: Fatal Mistake | 187931 | [187931-puppetshow-fatal-mistake.json](./187931-puppetshow-fatal-mistake.json) |
+| PuppetShow: Lightning Strikes | 140276 | [140276-puppetshow-lightning-strikes.json](./140276-puppetshow-lightning-strikes.json) |
 | PuppetShow: Mystery of Joyville | 25926 | [25926-puppetshow-mystery-of-joyville.json](./25926-puppetshow-mystery-of-joyville.json) |
 | PuppetShow: Poetic Justice | 187912 | [187912-puppetshow-poetic-justice.json](./187912-puppetshow-poetic-justice.json) |
+| PuppetShow: Porcelain Smile | 140277 | [140277-puppetshow-porcelain-smile.json](./140277-puppetshow-porcelain-smile.json) |
 | PuppetShow: Porcelain Smile - Collector's Edition | 115526 | [115526-puppetshow-porcelain-smile-collectors-edition.json](./115526-puppetshow-porcelain-smile-collectors-edition.json) |
+| PuppetShow: Return to Joyville | 140278 | [140278-puppetshow-return-to-joyville.json](./140278-puppetshow-return-to-joyville.json) |
+| PuppetShow: Souls of the Innocent | 140279 | [140279-puppetshow-souls-of-the-innocent.json](./140279-puppetshow-souls-of-the-innocent.json) |
 | PuppetShow: The Face of Humanity | 107077 | [107077-puppetshow-the-face-of-humanity.json](./107077-puppetshow-the-face-of-humanity.json) |
 | PuppetShow: The Price of Immortality | 99704 | [99704-puppetshow-the-price-of-immortality.json](./99704-puppetshow-the-price-of-immortality.json) |
 | PuppetShow: The Price of Immortality - Collector's Edition | 368892 | [368892-puppetshow-the-price-of-immortality-collectors-edition.json](./368892-puppetshow-the-price-of-immortality-collectors-edition.json) |
