@@ -4670,6 +4670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shalnor Legends: Sacred Lands | 69498 | [69498-shalnor-legends-sacred-lands.json](./69498-shalnor-legends-sacred-lands.json) |
 | Shalter 03 | 412442 | [412442-shalter-03.json](./412442-shalter-03.json) |
 | ShamaL | 201316 | [201316-shamal.json](./201316-shamal.json) |
+| Shaman | 171533 | [171533-shaman.json](./171533-shaman.json) |
 | Shaman King Chou Senjiryokketsu: Meramera Version | 68237 | [68237-shaman-king-chou-senjiryokketsu-meramera-version.json](./68237-shaman-king-chou-senjiryokketsu-meramera-version.json) |
 | Shaman King: Asu he no Ishi | 37319 | [37319-shaman-king-asu-he-no-ishi.json](./37319-shaman-king-asu-he-no-ishi.json) |
 | Shaman King: Asu he no Ishi | 68231 | [68231-shaman-king-asu-he-no-ishi.json](./68231-shaman-king-asu-he-no-ishi.json) |
@@ -9397,6 +9398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smugglers V | 51903 | [51903-smugglers-v.json](./51903-smugglers-v.json) |
 | Smugglers V - Secession | 50422 | [50422-smugglers-v-secession.json](./50422-smugglers-v-secession.json) |
 | Smugglers V: Invasion - Warrior Within | 51902 | [51902-smugglers-v-invasion-warrior-within.json](./51902-smugglers-v-invasion-warrior-within.json) |
+| Smugglers V: The Smugglers Guild | 171333 | [171333-smugglers-v-the-smugglers-guild.json](./171333-smugglers-v-the-smugglers-guild.json) |
 | Smurf | 198891 | [198891-smurf.json](./198891-smurf.json) |
 | Smurf | 198892 | [198892-smurf.json](./198892-smurf.json) |
 | Smurf | 198893 | [198893-smurf.json](./198893-smurf.json) |
@@ -18136,6 +18138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StreamGods: Streamer Tycoon | 169449 | [169449-streamgods-streamer-tycoon.json](./169449-streamgods-streamer-tycoon.json) |
 | Streaming Girls 18+:- OnlyFap Live | 286468 | [286468-streaming-girls-18-onlyfap-live.json](./286468-streaming-girls-18-onlyfap-live.json) |
 | StreamInk | 166594 | [166594-streamink.json](./166594-streamink.json) |
+| Streamline | 171512 | [171512-streamline.json](./171512-streamline.json) |
 | Streamline | 177552 | [177552-streamline.json](./177552-streamline.json) |
 | Streamline | 20178 | [20178-streamline.json](./20178-streamline.json) |
 | Streamline | 81180 | [81180-streamline.json](./81180-streamline.json) |
@@ -23219,6 +23222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordsman | 397420 | [397420-swordsman.json](./397420-swordsman.json) |
 | Swordsman | 7417 | [7417-swordsman.json](./7417-swordsman.json) |
 | Swordsman | 86195 | [86195-swordsman.json](./86195-swordsman.json) |
+| Swordsman 3: Xiè Yúnliú Zhuán | 171531 | [171531-swordsman-3-xie-yunliu-zhuan.json](./171531-swordsman-3-xie-yunliu-zhuan.json) |
 | Swordsman Night King | 401619 | [401619-swordsman-night-king.json](./401619-swordsman-night-king.json) |
 | Swordsman on the Eternal Journey | 298811 | [298811-swordsman-on-the-eternal-journey.json](./298811-swordsman-on-the-eternal-journey.json) |
 | Swordsman Online | 9738 | [9738-swordsman-online.json](./9738-swordsman-online.json) |
