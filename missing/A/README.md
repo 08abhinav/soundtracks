@@ -7222,6 +7222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AploVVare Collection:18+ DLC | 266990 | [266990-aplovvare-collection-18-dlc.json](./266990-aplovvare-collection-18-dlc.json) |
 | Aplowcalypse | 32769 | [32769-aplowcalypse.json](./32769-aplowcalypse.json) |
 | Apoc Runner | 161409 | [161409-apoc-runner.json](./161409-apoc-runner.json) |
+| Apocalich | 175853 | [175853-apocalich.json](./175853-apocalich.json) |
 | Apocalipsis | 28319 | [28319-apocalipsis.json](./28319-apocalipsis.json) |
 | Apocalipsis: The Tree of the Knowledge of Good and Evil | 90073 | [90073-apocalipsis-the-tree-of-the-knowledge-of-good-and-evil.json](./90073-apocalipsis-the-tree-of-the-knowledge-of-good-and-evil.json) |
 | Apocalypse | 14260 | [14260-apocalypse.json](./14260-apocalypse.json) |
@@ -8273,6 +8274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcsaber VR | 133188 | [133188-arcsaber-vr.json](./133188-arcsaber-vr.json) |
 | Arcshu: Kagerou no Jidai wo Koete | 314659 | [314659-arcshu-kagerou-no-jidai-wo-koete.json](./314659-arcshu-kagerou-no-jidai-wo-koete.json) |
 | ArcSine | 234681 | [234681-arcsine.json](./234681-arcsine.json) |
+| Arcsmith | 175661 | [175661-arcsmith.json](./175661-arcsmith.json) |
 | Arctic | 56479 | [56479-arctic.json](./56479-arctic.json) |
 | Arctic 51 | 251725 | [251725-arctic-51.json](./251725-arctic-51.json) |
 | Arctic Adventure | 8488 | [8488-arctic-adventure.json](./8488-arctic-adventure.json) |
