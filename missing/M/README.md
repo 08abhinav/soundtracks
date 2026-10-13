@@ -979,7 +979,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical DoReMi: Puzzle Carnival | 325725 | [325725-magical-doremi-puzzle-carnival.json](./325725-magical-doremi-puzzle-carnival.json) |
 | Magical Drop | 71552 | [71552-magical-drop.json](./71552-magical-drop.json) |
 | Magical Drop 3 | 45319 | [45319-magical-drop-3.json](./45319-magical-drop-3.json) |
+| Magical Drop CPC | 170778 | [170778-magical-drop-cpc.json](./170778-magical-drop-cpc.json) |
 | Magical Drop III: Toretate Zoukangou! | 171031 | [171031-magical-drop-iii-toretate-zoukangou.json](./171031-magical-drop-iii-toretate-zoukangou.json) |
+| Magical Drop III: Yokubari Tokudaigou! | 170790 | [170790-magical-drop-iii-yokubari-tokudaigou.json](./170790-magical-drop-iii-yokubari-tokudaigou.json) |
 | Magical Drop VI | 221060 | [221060-magical-drop-vi.json](./221060-magical-drop-vi.json) |
 | Magical Escape | 194660 | [194660-magical-escape.json](./194660-magical-escape.json) |
 | Magical Fantasista | 289588 | [289588-magical-fantasista.json](./289588-magical-fantasista.json) |
@@ -7325,6 +7327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might & Magic: Duel of Champions - Sins of Betrayal | 383116 | [383116-might-and-magic-duel-of-champions-sins-of-betrayal.json](./383116-might-and-magic-duel-of-champions-sins-of-betrayal.json) |
 | Might & Magic: Duel of Champions - Time of Renewal | 383117 | [383117-might-and-magic-duel-of-champions-time-of-renewal.json](./383117-might-and-magic-duel-of-champions-time-of-renewal.json) |
 | Might & Magic: Duel of Champions - Void Rising | 383109 | [383109-might-and-magic-duel-of-champions-void-rising.json](./383109-might-and-magic-duel-of-champions-void-rising.json) |
+| Might & Magic: Dynasty | 170779 | [170779-might-and-magic-dynasty.json](./170779-might-and-magic-dynasty.json) |
 | Might & Magic: Elemental Guardians | 70707 | [70707-might-and-magic-elemental-guardians.json](./70707-might-and-magic-elemental-guardians.json) |
 | Might & Magic: Heroes Kingdoms | 66416 | [66416-might-and-magic-heroes-kingdoms.json](./66416-might-and-magic-heroes-kingdoms.json) |
 | Might & Magic: Heroes Online | 20177 | [20177-might-and-magic-heroes-online.json](./20177-might-and-magic-heroes-online.json) |
@@ -8671,6 +8674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror War: Reincarnation of Holiness | 215605 | [215605-mirror-war-reincarnation-of-holiness.json](./215605-mirror-war-reincarnation-of-holiness.json) |
 | Mirror Wizard | 412210 | [412210-mirror-wizard.json](./412210-mirror-wizard.json) |
 | Mirror World | 296985 | [296985-mirror-world.json](./296985-mirror-world.json) |
+| Mirror: The Lost Shards | 170798 | [170798-mirror-the-lost-shards.json](./170798-mirror-the-lost-shards.json) |
 | Mirror's Edge 2D | 77347 | [77347-mirrors-edge-2d.json](./77347-mirrors-edge-2d.json) |
 | Mirror's Edge Catalyst: Collector's Edition | 41618 | [41618-mirrors-edge-catalyst-collectors-edition.json](./41618-mirrors-edge-catalyst-collectors-edition.json) |
 | Mirrorama | 186824 | [186824-mirrorama.json](./186824-mirrorama.json) |
@@ -14221,6 +14225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MythBusters: The First Experiment | 199095 | [199095-mythbusters-the-first-experiment.json](./199095-mythbusters-the-first-experiment.json) |
 | MythBusters: The Game | 118232 | [118232-mythbusters-the-game.json](./118232-mythbusters-the-game.json) |
 | MythClash | 419980 | [419980-mythclash.json](./419980-mythclash.json) |
+| Mytheon: Egypt Pack | 170794 | [170794-mytheon-egypt-pack.json](./170794-mytheon-egypt-pack.json) |
 | Mythfall | 304752 | [304752-mythfall.json](./304752-mythfall.json) |
 | MythForce | 197712 | [197712-mythforce.json](./197712-mythforce.json) |
 | MythGotchi | 419974 | [419974-mythgotchi.json](./419974-mythgotchi.json) |
