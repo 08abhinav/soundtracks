@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Wars Splash | 183560 | [183560-waifu-wars-splash.json](./183560-waifu-wars-splash.json) |
 | Waifu Wave Defenders | 352238 | [352238-waifu-wave-defenders.json](./352238-waifu-wave-defenders.json) |
 | Waifu's Spooky Space Station | 143651 | [143651-waifus-spooky-space-station.json](./143651-waifus-spooky-space-station.json) |
+| Waifus Smash | 163018 | [163018-waifus-smash.json](./163018-waifus-smash.json) |
 | Waifusitter | 338554 | [338554-waifusitter.json](./338554-waifusitter.json) |
 | Wail | 348791 | [348791-wail.json](./348791-wail.json) |
 | Wailing Heights | 18969 | [18969-wailing-heights.json](./18969-wailing-heights.json) |
@@ -4636,6 +4637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Women's Murder Club: Death in Scarlet | 51404 | [51404-womens-murder-club-death-in-scarlet.json](./51404-womens-murder-club-death-in-scarlet.json) |
 | Women's Murder Club: Little Black Lies | 135250 | [135250-womens-murder-club-little-black-lies.json](./135250-womens-murder-club-little-black-lies.json) |
 | Women's Murder Club: Twice in a Blue Moon | 64713 | [64713-womens-murder-club-twice-in-a-blue-moon.json](./64713-womens-murder-club-twice-in-a-blue-moon.json) |
+| Women's Prison | 163033 | [163033-womens-prison.json](./163033-womens-prison.json) |
 | Women's Quiz | 152880 | [152880-womens-quiz.json](./152880-womens-quiz.json) |
 | Women's School Simulator 2020 | 299898 | [299898-womens-school-simulator-2020.json](./299898-womens-school-simulator-2020.json) |
 | Women's School Simulator 2022 | 299900 | [299900-womens-school-simulator-2022.json](./299900-womens-school-simulator-2022.json) |
