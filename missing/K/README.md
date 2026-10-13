@@ -1468,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidou Shinsengumi: Moeyo Ken | 370867 | [370867-kidou-shinsengumi-moeyo-ken.json](./370867-kidou-shinsengumi-moeyo-ken.json) |
 | Kids | 95167 | [95167-kids.json](./95167-kids.json) |
 | Kids ABC and Counting Jigsaw Puzzles Pre school | 87151 | [87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json](./87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json) |
+| Kids ABC Order | 175314 | [175314-kids-abc-order.json](./175314-kids-abc-order.json) |
 | Kids Alphabet Games | 93819 | [93819-kids-alphabet-games.json](./93819-kids-alphabet-games.json) |
 | Kids Animal Slide Puzzle 15 Mystic squares game | 100315 | [100315-kids-animal-slide-puzzle-15-mystic-squares-game.json](./100315-kids-animal-slide-puzzle-15-mystic-squares-game.json) |
 | Kids Box | 226783 | [226783-kids-box.json](./226783-kids-box.json) |
@@ -2087,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Knight Special | 307937 | [307937-kings-knight-special.json](./307937-kings-knight-special.json) |
 | King's Knight: Wrath of the Dark Dragon | 24010 | [24010-kings-knight-wrath-of-the-dark-dragon.json](./24010-kings-knight-wrath-of-the-dark-dragon.json) |
 | King's League II | 113688 | [113688-kings-league-ii.json](./113688-kings-league-ii.json) |
+| King's League: Odyssey | 174594 | [174594-kings-league-odyssey.json](./174594-kings-league-odyssey.json) |
 | King's Mug | 393138 | [393138-kings-mug.json](./393138-kings-mug.json) |
 | King's Odyssey | 287589 | [287589-kings-odyssey.json](./287589-kings-odyssey.json) |
 | King's Path Solitaire | 201053 | [201053-kings-path-solitaire.json](./201053-kings-path-solitaire.json) |
@@ -2473,6 +2475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby's Dream Land | 1063 | [1063-kirbys-dream-land.json](./1063-kirbys-dream-land.json) |
 | Kirby's Dream Land 2 DX | 248574 | [248574-kirbys-dream-land-2-dx.json](./248574-kirbys-dream-land-2-dx.json) |
 | Kirby's Dream Land 3 | 3720 | [3720-kirbys-dream-land-3.json](./3720-kirbys-dream-land-3.json) |
+| Kirby's Dream Land Advance | 174592 | [174592-kirbys-dream-land-advance.json](./174592-kirbys-dream-land-advance.json) |
 | Kirby's Dream Land DX | 173146 | [173146-kirbys-dream-land-dx.json](./173146-kirbys-dream-land-dx.json) |
 | Kirby's Dream Land PIC18F45K22 Edition | 369926 | [369926-kirbys-dream-land-pic18f45k22-edition.json](./369926-kirbys-dream-land-pic18f45k22-edition.json) |
 | Kirby's Dream Land Plus | 321062 | [321062-kirbys-dream-land-plus.json](./321062-kirbys-dream-land-plus.json) |
@@ -2581,6 +2584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitchen | 218719 | [218719-kitchen.json](./218719-kitchen.json) |
 | Kitchen Chaos | 232921 | [232921-kitchen-chaos.json](./232921-kitchen-chaos.json) |
 | Kitchen Confidence | 236855 | [236855-kitchen-confidence.json](./236855-kitchen-confidence.json) |
+| Kitchen Frenzy | 174787 | [174787-kitchen-frenzy.json](./174787-kitchen-frenzy.json) |
 | Kitchen Gore | 355042 | [355042-kitchen-gore.json](./355042-kitchen-gore.json) |
 | Kitchen Island VR | 158593 | [158593-kitchen-island-vr.json](./158593-kitchen-island-vr.json) |
 | Kitchen Madness | 258905 | [258905-kitchen-madness.json](./258905-kitchen-madness.json) |
