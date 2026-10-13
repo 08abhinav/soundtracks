@@ -3907,6 +3907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironseed 2: Consensus | 353800 | [353800-ironseed-2-consensus.json](./353800-ironseed-2-consensus.json) |
 | Ironsmith Medieval Simulator | 122862 | [122862-ironsmith-medieval-simulator.json](./122862-ironsmith-medieval-simulator.json) |
 | IronStorm - World War Zero | 44641 | [44641-ironstorm-world-war-zero.json](./44641-ironstorm-world-war-zero.json) |
+| IronSurvival | 155890 | [155890-ironsurvival.json](./155890-ironsurvival.json) |
 | Ironsword: Wizards & Warriors II | 48053 | [48053-ironsword-wizards-and-warriors-ii.json](./48053-ironsword-wizards-and-warriors-ii.json) |
 | IronTusk's Diablo3D | 202847 | [202847-irontusks-diablo3d.json](./202847-irontusks-diablo3d.json) |
 | Ironwake | 418751 | [418751-ironwake.json](./418751-ironwake.json) |
