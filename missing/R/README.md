@@ -1962,6 +1962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Time Assist Replay Time | 251243 | [251243-real-time-assist-replay-time.json](./251243-real-time-assist-replay-time.json) |
 | Real Time Attack | 290698 | [290698-real-time-attack.json](./290698-real-time-attack.json) |
 | Real Time Battle Shogi | 119586 | [119586-real-time-battle-shogi.json](./119586-real-time-battle-shogi.json) |
+| Real Time Battle Shogi Online | 147185 | [147185-real-time-battle-shogi-online.json](./147185-real-time-battle-shogi-online.json) |
 | Real Time Conflict: Shogun Empires | 20494 | [20494-real-time-conflict-shogun-empires.json](./20494-real-time-conflict-shogun-empires.json) |
 | Real Time Shields | 175668 | [175668-real-time-shields.json](./175668-real-time-shields.json) |
 | Real Truck Simulator 2022 | 219283 | [219283-real-truck-simulator-2022.json](./219283-real-truck-simulator-2022.json) |
@@ -2942,6 +2943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RegicideX | 265579 | [265579-regicidex.json](./265579-regicidex.json) |
 | Regimental Chess | 35461 | [35461-regimental-chess.json](./35461-regimental-chess.json) |
 | Regiments: Winds of Change | 270935 | [270935-regiments-winds-of-change.json](./270935-regiments-winds-of-change.json) |
+| Regina & Mac World | 147186 | [147186-regina-and-mac-world.json](./147186-regina-and-mac-world.json) |
 | Reginald Does His Thang | 74375 | [74375-reginald-does-his-thang.json](./74375-reginald-does-his-thang.json) |
 | Reginald's Death Arena | 156025 | [156025-reginalds-death-arena.json](./156025-reginalds-death-arena.json) |
 | Regional Power | 238360 | [238360-regional-power.json](./238360-regional-power.json) |
@@ -4033,6 +4035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return of Saiyan | 95840 | [95840-return-of-saiyan.json](./95840-return-of-saiyan.json) |
 | Return of Serenity | 208004 | [208004-return-of-serenity.json](./208004-return-of-serenity.json) |
 | Return of the Demons | 386337 | [386337-return-of-the-demons.json](./386337-return-of-the-demons.json) |
+| Return of the Dinosaurs | 147214 | [147214-return-of-the-dinosaurs.json](./147214-return-of-the-dinosaurs.json) |
 | Return of the Mutant Camels | 40961 | [40961-return-of-the-mutant-camels.json](./40961-return-of-the-mutant-camels.json) |
 | Return of the Phantom | 69869 | [69869-return-of-the-phantom.json](./69869-return-of-the-phantom.json) |
 | Return of the Saiyans | 237407 | [237407-return-of-the-saiyans.json](./237407-return-of-the-saiyans.json) |
