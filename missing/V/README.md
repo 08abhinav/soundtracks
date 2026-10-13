@@ -832,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vektor Z | 186672 | [186672-vektor-z.json](./186672-vektor-z.json) |
 | Vektron Revenge | 33100 | [33100-vektron-revenge.json](./33100-vektron-revenge.json) |
 | VekWars | 135009 | [135009-vekwars.json](./135009-vekwars.json) |
+| Vela | 176740 | [176740-vela.json](./176740-vela.json) |
 | Velada StreamHub | 418280 | [418280-velada-streamhub.json](./418280-velada-streamhub.json) |
 | Velana Adventures: Chapter I | 335348 | [335348-velana-adventures-chapter-i.json](./335348-velana-adventures-chapter-i.json) |
 | Velanit: The Forgotten Cottage | 403019 | [403019-velanit-the-forgotten-cottage.json](./403019-velanit-the-forgotten-cottage.json) |
@@ -1595,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violet Memoir | 177887 | [177887-violet-memoir.json](./177887-violet-memoir.json) |
 | Violet rE:-The Final reExistence- | 120781 | [120781-violet-re-the-final-reexistence.json](./120781-violet-re-the-final-reexistence.json) |
 | Violet's Party Mania | 219518 | [219518-violets-party-mania.json](./219518-violets-party-mania.json) |
+| Violeta | 176940 | [176940-violeta.json](./176940-violeta.json) |
 | Violett | 18734 | [18734-violett.json](./18734-violett.json) |
 | Violin Paradise | 85474 | [85474-violin-paradise.json](./85474-violin-paradise.json) |
 | Viorate no Atelier: Gramnad no Renkinjutsushi 2 | 26515 | [26515-viorate-no-atelier-gramnad-no-renkinjutsushi-2.json](./26515-viorate-no-atelier-gramnad-no-renkinjutsushi-2.json) |
