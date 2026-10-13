@@ -1901,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tawako The Forest Hedgehog | 207188 | [207188-tawako-the-forest-hedgehog.json](./207188-tawako-the-forest-hedgehog.json) |
 | Tax Dodge | 60638 | [60638-tax-dodge.json](./60638-tax-dodge.json) |
 | Tax Evasion | 265147 | [265147-tax-evasion.json](./265147-tax-evasion.json) |
+| Tax Fugitive | 169135 | [169135-tax-fugitive.json](./169135-tax-fugitive.json) |
 | Tax Return | 390679 | [390679-tax-return.json](./390679-tax-return.json) |
 | Tax-Force | 265631 | [265631-tax-force.json](./265631-tax-force.json) |
 | Taxer Inc. | 144211 | [144211-taxer-inc.json](./144211-taxer-inc.json) |
@@ -3718,6 +3719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Little Miss Scatterbrain | 73559 | [73559-the-adventures-of-little-miss-scatterbrain.json](./73559-the-adventures-of-little-miss-scatterbrain.json) |
 | The Adventures of Little Red Riding Cap | 54433 | [54433-the-adventures-of-little-red-riding-cap.json](./54433-the-adventures-of-little-red-riding-cap.json) |
 | The Adventures of Little Wurfel | 370225 | [370225-the-adventures-of-little-wurfel.json](./370225-the-adventures-of-little-wurfel.json) |
+| The Adventures of Lwanda Magere | 169147 | [169147-the-adventures-of-lwanda-magere.json](./169147-the-adventures-of-lwanda-magere.json) |
 | The Adventures of Maddog Williams in the Dungeons of Duridian | 9664 | [9664-the-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json](./9664-the-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json) |
 | The Adventures of Major Havoc | 18468 | [18468-the-adventures-of-major-havoc.json](./18468-the-adventures-of-major-havoc.json) |
 | The Adventures of Melvin Freebush | 73522 | [73522-the-adventures-of-melvin-freebush.json](./73522-the-adventures-of-melvin-freebush.json) |
@@ -3746,6 +3748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Shuggy | 11084 | [11084-the-adventures-of-shuggy.json](./11084-the-adventures-of-shuggy.json) |
 | The Adventures of Sinbad | 14226 | [14226-the-adventures-of-sinbad.json](./14226-the-adventures-of-sinbad.json) |
 | The Adventures of Sir Kicksalot | 270172 | [270172-the-adventures-of-sir-kicksalot.json](./270172-the-adventures-of-sir-kicksalot.json) |
+| The Adventures of Sisharpic | 169140 | [169140-the-adventures-of-sisharpic.json](./169140-the-adventures-of-sisharpic.json) |
 | The Adventures of Snacky | 225104 | [225104-the-adventures-of-snacky.json](./225104-the-adventures-of-snacky.json) |
 | The Adventures of Spunk Dodgers and Splat | 132569 | [132569-the-adventures-of-spunk-dodgers-and-splat.json](./132569-the-adventures-of-spunk-dodgers-and-splat.json) |
 | The Adventures of Square | 18284 | [18284-the-adventures-of-square.json](./18284-the-adventures-of-square.json) |
@@ -7633,6 +7636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of the Wood | 22368 | [22368-the-king-of-the-wood.json](./22368-the-king-of-the-wood.json) |
 | The King of Tower Defense | 360206 | [360206-the-king-of-tower-defense.json](./360206-the-king-of-tower-defense.json) |
 | The King of Triads | 175211 | [175211-the-king-of-triads.json](./175211-the-king-of-triads.json) |
+| The King of Warriors: Battle in the Three Kingdoms | 169490 | [169490-the-king-of-warriors-battle-in-the-three-kingdoms.json](./169490-the-king-of-warriors-battle-in-the-three-kingdoms.json) |
 | The King's Bargain | 369928 | [369928-the-kings-bargain.json](./369928-the-kings-bargain.json) |
 | The King's Bird | 11840 | [11840-the-kings-bird.json](./11840-the-kings-bird.json) |
 | The King's Campaign | 243770 | [243770-the-kings-campaign.json](./243770-the-kings-campaign.json) |
@@ -10627,6 +10631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shepherd | 154070 | [154070-the-shepherd.json](./154070-the-shepherd.json) |
 | The Sheriff's Town | 264206 | [264206-the-sheriffs-town.json](./264206-the-sheriffs-town.json) |
 | The Shifting Cavern | 258424 | [258424-the-shifting-cavern.json](./258424-the-shifting-cavern.json) |
+| The Shimmering Horizon and Cursed Blacksmith | 169150 | [169150-the-shimmering-horizon-and-cursed-blacksmith.json](./169150-the-shimmering-horizon-and-cursed-blacksmith.json) |
 | The Shinri Game | 38255 | [38255-the-shinri-game.json](./38255-the-shinri-game.json) |
 | The Shinri Game 2: Magical Trip | 58790 | [58790-the-shinri-game-2-magical-trip.json](./58790-the-shinri-game-2-magical-trip.json) |
 | The Shinri Game 3 | 38256 | [38256-the-shinri-game-3.json](./38256-the-shinri-game-3.json) |
@@ -15618,6 +15623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titans Tower | 84949 | [84949-titans-tower.json](./84949-titans-tower.json) |
 | Titans: Dawn of Tribes | 109056 | [109056-titans-dawn-of-tribes.json](./109056-titans-dawn-of-tribes.json) |
 | Titenic | 10841 | [10841-titenic.json](./10841-titenic.json) |
+| Titeuf | 169133 | [169133-titeuf.json](./169133-titeuf.json) |
 | Titeuf: Le Film | 268430 | [268430-titeuf-le-film.json](./268430-titeuf-le-film.json) |
 | Titeuf: Méga-Compet' | 46494 | [46494-titeuf-mega-compet.json](./46494-titeuf-mega-compet.json) |
 | Title Fight Pro Boxing for Windows | 94548 | [94548-title-fight-pro-boxing-for-windows.json](./94548-title-fight-pro-boxing-for-windows.json) |
@@ -18182,6 +18188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic | 319601 | [319601-traffic.json](./319601-traffic.json) |
 | Traffic Chase | 173303 | [173303-traffic-chase.json](./173303-traffic-chase.json) |
 | Traffic City | 169476 | [169476-traffic-city.json](./169476-traffic-city.json) |
+| Traffic Command: Reborn | 169137 | [169137-traffic-command-reborn.json](./169137-traffic-command-reborn.json) |
 | Traffic Confusion | 178353 | [178353-traffic-confusion.json](./178353-traffic-confusion.json) |
 | Traffic Confusion II | 178354 | [178354-traffic-confusion-ii.json](./178354-traffic-confusion-ii.json) |
 | Traffic Cop | 40749 | [40749-traffic-cop.json](./40749-traffic-cop.json) |
@@ -18767,6 +18774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainfort | 345442 | [345442-trainfort.json](./345442-trainfort.json) |
 | Training aim | 88239 | [88239-training-aim.json](./88239-training-aim.json) |
 | Training Elves | 288901 | [288901-training-elves.json](./288901-training-elves.json) |
+| Training Grounds | 169489 | [169489-training-grounds.json](./169489-training-grounds.json) |
 | Training Hero | 239917 | [239917-training-hero.json](./239917-training-hero.json) |
 | Training Lab | 156004 | [156004-training-lab.json](./156004-training-lab.json) |
 | Training Mode | 180276 | [180276-training-mode.json](./180276-training-mode.json) |
