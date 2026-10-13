@@ -4378,6 +4378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessmate | 413719 | [413719-chessmate.json](./413719-chessmate.json) |
 | ChessRogue | 319280 | [319280-chessrogue.json](./319280-chessrogue.json) |
 | Chesst | 400891 | [400891-chesst.json](./400891-chesst.json) |
+| Chesstle | 143411 | [143411-chesstle.json](./143411-chesstle.json) |
 | Chesstris | 361633 | [361633-chesstris.json](./361633-chesstris.json) |
 | Chesstris 2000 | 181603 | [181603-chesstris-2000.json](./181603-chesstris-2000.json) |
 | Chesstris Mini | 214681 | [214681-chesstris-mini.json](./214681-chesstris-mini.json) |
@@ -9470,6 +9471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Panic! | 416669 | [416669-core-panic.json](./416669-core-panic.json) |
 | Core Rescue | 113613 | [113613-core-rescue.json](./113613-core-rescue.json) |
 | Core Runners | 417486 | [417486-core-runners.json](./417486-core-runners.json) |
+| Core War | 143413 | [143413-core-war.json](./143413-core-war.json) |
 | Core-Blast | 242605 | [242605-core-blast.json](./242605-core-blast.json) |
 | Core: Licht | 204969 | [204969-core-licht.json](./204969-core-licht.json) |
 | Core.Sys | 351094 | [351094-core-sys.json](./351094-core-sys.json) |
@@ -10780,6 +10782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Demolition Derby Car 2022 | 220827 | [220827-crazy-demolition-derby-car-2022.json](./220827-crazy-demolition-derby-car-2022.json) |
 | Crazy Designer | 239789 | [239789-crazy-designer.json](./239789-crazy-designer.json) |
 | Crazy Dessert Maker | 98928 | [98928-crazy-dessert-maker.json](./98928-crazy-dessert-maker.json) |
+| Crazy Dino Park | 143448 | [143448-crazy-dino-park.json](./143448-crazy-dino-park.json) |
 | Crazy Dreamz: Best Of | 90076 | [90076-crazy-dreamz-best-of.json](./90076-crazy-dreamz-best-of.json) |
 | Crazy Dreamz: MagiCats Edition | 55255 | [55255-crazy-dreamz-magicats-edition.json](./55255-crazy-dreamz-magicats-edition.json) |
 | Crazy Driller | 175259 | [175259-crazy-driller.json](./175259-crazy-driller.json) |
