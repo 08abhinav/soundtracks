@@ -15937,6 +15937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Outlaws: Ultimate Edition | 299475 | [299475-star-wars-outlaws-ultimate-edition.json](./299475-star-wars-outlaws-ultimate-edition.json) |
 | Star Wars Outlaws: Wild Card | 315804 | [315804-star-wars-outlaws-wild-card.json](./315804-star-wars-outlaws-wild-card.json) |
 | Star Wars Pinball Season 1 Bundle | 99757 | [99757-star-wars-pinball-season-1-bundle.json](./99757-star-wars-pinball-season-1-bundle.json) |
+| Star Wars Racer and Commando Combo | 168392 | [168392-star-wars-racer-and-commando-combo.json](./168392-star-wars-racer-and-commando-combo.json) |
 | Star Wars Rebels: Chopper Chase | 97498 | [97498-star-wars-rebels-chopper-chase.json](./97498-star-wars-rebels-chopper-chase.json) |
 | Star Wars Zero Company | 340113 | [340113-star-wars-zero-company.json](./340113-star-wars-zero-company.json) |
 | Star Wars: 1313 | 1386 | [1386-star-wars-1313.json](./1386-star-wars-1313.json) |
@@ -16324,6 +16325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight: Eye of the Storm | 155670 | [155670-starlight-eye-of-the-storm.json](./155670-starlight-eye-of-the-storm.json) |
 | Starlines | 305956 | [305956-starlines.json](./305956-starlines.json) |
 | Starlink: Battle for Atlas | 37066 | [37066-starlink-battle-for-atlas.json](./37066-starlink-battle-for-atlas.json) |
+| Starlink: Battle for Atlas - Collection Pack 2 | 168441 | [168441-starlink-battle-for-atlas-collection-pack-2.json](./168441-starlink-battle-for-atlas-collection-pack-2.json) |
 | Starlink: Battle for Atlas - Deluxe Edition | 121507 | [121507-starlink-battle-for-atlas-deluxe-edition.json](./121507-starlink-battle-for-atlas-deluxe-edition.json) |
 | Starlink: Battle for Atlas - Digital Edition | 246893 | [246893-starlink-battle-for-atlas-digital-edition.json](./246893-starlink-battle-for-atlas-digital-edition.json) |
 | Starlit Adventures Golden Stars | 147627 | [147627-starlit-adventures-golden-stars.json](./147627-starlit-adventures-golden-stars.json) |
@@ -17991,6 +17993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strat-O-Gems Deluxe | 40751 | [40751-strat-o-gems-deluxe.json](./40751-strat-o-gems-deluxe.json) |
 | Strata Scavenger | 65219 | [65219-strata-scavenger.json](./65219-strata-scavenger.json) |
 | Stratagem | 289311 | [289311-stratagem.json](./289311-stratagem.json) |
+| Stratagem in troubled times | 168434 | [168434-stratagem-in-troubled-times.json](./168434-stratagem-in-troubled-times.json) |
 | Stratajong | 57653 | [57653-stratajong.json](./57653-stratajong.json) |
 | Stratapath TD | 390662 | [390662-stratapath-td.json](./390662-stratapath-td.json) |
 | StratDots RTS | 381138 | [381138-stratdots-rts.json](./381138-stratdots-rts.json) |
