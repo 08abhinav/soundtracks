@@ -2495,6 +2495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pedro Kicks Back | 108932 | [108932-pedro-kicks-back.json](./108932-pedro-kicks-back.json) |
 | Pedro's Adventures in Spanish | 159161 | [159161-pedros-adventures-in-spanish.json](./159161-pedros-adventures-in-spanish.json) |
 | Pee War! | 163861 | [163861-pee-war.json](./163861-pee-war.json) |
+| Peeb Adventures | 144744 | [144744-peeb-adventures.json](./144744-peeb-adventures.json) |
 | Peech World | 311599 | [311599-peech-world.json](./311599-peech-world.json) |
 | Peek | 338147 | [338147-peek.json](./338147-peek.json) |
 | Peek a Boo | 225606 | [225606-peek-a-boo.json](./225606-peek-a-boo.json) |
@@ -6964,6 +6965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogoman GO! | 80514 | [80514-pogoman-go.json](./80514-pogoman-go.json) |
 | Pogopa | 406855 | [406855-pogopa.json](./406855-pogopa.json) |
 | Pogoppl | 236749 | [236749-pogoppl.json](./236749-pogoppl.json) |
+| Pogostick | 144741 | [144741-pogostick.json](./144741-pogostick.json) |
 | Pogs: Power of Golden Slammer | 348430 | [348430-pogs-power-of-golden-slammer.json](./348430-pogs-power-of-golden-slammer.json) |
 | Pogui | 379056 | [379056-pogui.json](./379056-pogui.json) |
 | Pohinki Simulator | 333623 | [333623-pohinki-simulator.json](./333623-pohinki-simulator.json) |
@@ -7391,6 +7393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon MarioRed | 372602 | [372602-pokemon-mariored.json](./372602-pokemon-mariored.json) |
 | Pokemon Masters Stadium | 367553 | [367553-pokemon-masters-stadium.json](./367553-pokemon-masters-stadium.json) |
 | Pokémon Mega Evolution Aquamarine | 300428 | [300428-pokemon-mega-evolution-aquamarine.json](./300428-pokemon-mega-evolution-aquamarine.json) |
+| Pokémon Mini: Snorlax's Lunch Time | 144721 | [144721-pokemon-mini-snorlaxs-lunch-time.json](./144721-pokemon-mini-snorlaxs-lunch-time.json) |
 | Pokémon Mino | 265214 | [265214-pokemon-mino.json](./265214-pokemon-mino.json) |
 | Pokémon Moemon Emerald Version | 229058 | [229058-pokemon-moemon-emerald-version.json](./229058-pokemon-moemon-emerald-version.json) |
 | Pokémon Monomyth | 413611 | [413611-pokemon-monomyth.json](./413611-pokemon-monomyth.json) |
