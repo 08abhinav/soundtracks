@@ -7466,6 +7466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jackbox Party Quintpack | 112915 | [112915-the-jackbox-party-quintpack.json](./112915-the-jackbox-party-quintpack.json) |
 | The Jackbox Party Starter | 207095 | [207095-the-jackbox-party-starter.json](./207095-the-jackbox-party-starter.json) |
 | The Jackbox Party Trilogy | 82410 | [82410-the-jackbox-party-trilogy.json](./82410-the-jackbox-party-trilogy.json) |
+| The Jackbox Party Trilogy 2.0 | 135601 | [135601-the-jackbox-party-trilogy-2-0.json](./135601-the-jackbox-party-trilogy-2-0.json) |
 | The Jackbox Party Trilogy 3.0 | 251098 | [251098-the-jackbox-party-trilogy-3-0.json](./251098-the-jackbox-party-trilogy-3-0.json) |
 | The Jackbox Survey Scramble | 318207 | [318207-the-jackbox-survey-scramble.json](./318207-the-jackbox-survey-scramble.json) |
 | The Jade Stone | 67698 | [67698-the-jade-stone.json](./67698-the-jade-stone.json) |
@@ -8029,6 +8030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Poem: The Trials of Poe | 152776 | [152776-the-last-poem-the-trials-of-poe.json](./152776-the-last-poem-the-trials-of-poe.json) |
 | The Last Practice Sectis | 196044 | [196044-the-last-practice-sectis.json](./196044-the-last-practice-sectis.json) |
 | The Last Premiere | 213422 | [213422-the-last-premiere.json](./213422-the-last-premiere.json) |
+| The Last Promise | 135599 | [135599-the-last-promise.json](./135599-the-last-promise.json) |
 | The Last Prompt | 342179 | [342179-the-last-prompt.json](./342179-the-last-prompt.json) |
 | The Last Purge | 359360 | [359360-the-last-purge.json](./359360-the-last-purge.json) |
 | The Last Pussy: Survival Lesson | 349275 | [349275-the-last-pussy-survival-lesson.json](./349275-the-last-pussy-survival-lesson.json) |
@@ -11521,6 +11523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tales of Wonderlend | 379441 | [379441-the-tales-of-wonderlend.json](./379441-the-tales-of-wonderlend.json) |
 | The Tall Man Tapes | 393557 | [393557-the-tall-man-tapes.json](./393557-the-tall-man-tapes.json) |
 | The Tall Wall Falls: The Inner Gate's Last Stand | 186171 | [186171-the-tall-wall-falls-the-inner-gates-last-stand.json](./186171-the-tall-wall-falls-the-inner-gates-last-stand.json) |
+| The Taller I Grow | 135598 | [135598-the-taller-i-grow.json](./135598-the-taller-i-grow.json) |
 | The Talos Principle II | 79864 | [79864-the-talos-principle-ii.json](./79864-the-talos-principle-ii.json) |
 | The Talos Principle II: Devolver Deluxe Edition | 284476 | [284476-the-talos-principle-ii-devolver-deluxe-edition.json](./284476-the-talos-principle-ii-devolver-deluxe-edition.json) |
 | The Talos Principle II: Road to Elysium | 305040 | [305040-the-talos-principle-ii-road-to-elysium.json](./305040-the-talos-principle-ii-road-to-elysium.json) |
@@ -16573,6 +16576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six: Lockdown | 312285 | [312285-tom-clancys-rainbow-six-lockdown.json](./312285-tom-clancys-rainbow-six-lockdown.json) |
 | Tom Clancy's Rainbow Six: Rogue Spear - Black Thorn | 1846 | [1846-tom-clancys-rainbow-six-rogue-spear-black-thorn.json](./1846-tom-clancys-rainbow-six-rogue-spear-black-thorn.json) |
 | Tom Clancy's Rainbow Six: Siege - Year 5 Deluxe Edition | 136815 | [136815-tom-clancys-rainbow-six-siege-year-5-deluxe-edition.json](./136815-tom-clancys-rainbow-six-siege-year-5-deluxe-edition.json) |
+| Tom Clancy's Rainbow Six: Take-Down – Missions in Korea | 135591 | [135591-tom-clancys-rainbow-six-take-down-missions-in-korea.json](./135591-tom-clancys-rainbow-six-take-down-missions-in-korea.json) |
 | Tom Clancy's Rainbow Six: Vegas | 196507 | [196507-tom-clancys-rainbow-six-vegas.json](./196507-tom-clancys-rainbow-six-vegas.json) |
 | Tom Clancy's Rainbow Six: Vegas | 314292 | [314292-tom-clancys-rainbow-six-vegas.json](./314292-tom-clancys-rainbow-six-vegas.json) |
 | Tom Clancy's Rainbow Six: Vegas | 909 | [909-tom-clancys-rainbow-six-vegas.json](./909-tom-clancys-rainbow-six-vegas.json) |
