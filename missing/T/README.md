@@ -787,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales from the Recycle Bin | 184035 | [184035-tales-from-the-recycle-bin.json](./184035-tales-from-the-recycle-bin.json) |
 | Tales from the Road | 135054 | [135054-tales-from-the-road.json](./135054-tales-from-the-road.json) |
 | Tales From The Under-Realm: After Midnight | 301004 | [301004-tales-from-the-under-realm-after-midnight.json](./301004-tales-from-the-under-realm-after-midnight.json) |
+| Tales from the Under-Realm: Hazel | 149401 | [149401-tales-from-the-under-realm-hazel.json](./149401-tales-from-the-under-realm-hazel.json) |
 | Tales From The Under-Realm: Hazel | 298566 | [298566-tales-from-the-under-realm-hazel.json](./298566-tales-from-the-under-realm-hazel.json) |
 | Tales from the Watchtower: The Conjurer | 418553 | [418553-tales-from-the-watchtower-the-conjurer.json](./418553-tales-from-the-watchtower-the-conjurer.json) |
 | Tales From Windy Meadow | 55114 | [55114-tales-from-windy-meadow.json](./55114-tales-from-windy-meadow.json) |
@@ -4236,6 +4237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beast Inside | 88116 | [88116-the-beast-inside.json](./88116-the-beast-inside.json) |
 | The Beast Is yet to Come | 373685 | [373685-the-beast-is-yet-to-come.json](./373685-the-beast-is-yet-to-come.json) |
 | The Beast of Lycan Isle: Collector's Edition | 340991 | [340991-the-beast-of-lycan-isle-collectors-edition.json](./340991-the-beast-of-lycan-isle-collectors-edition.json) |
+| The Beast of Stormy Forest | 149898 | [149898-the-beast-of-stormy-forest.json](./149898-the-beast-of-stormy-forest.json) |
 | The Beast of the Rosewood | 302134 | [302134-the-beast-of-the-rosewood.json](./302134-the-beast-of-the-rosewood.json) |
 | The Beast of Torrack Moor | 58855 | [58855-the-beast-of-torrack-moor.json](./58855-the-beast-of-torrack-moor.json) |
 | The Beast Within: A Gabriel Knight Mystery | 1251 | [1251-the-beast-within-a-gabriel-knight-mystery.json](./1251-the-beast-within-a-gabriel-knight-mystery.json) |
@@ -7021,6 +7023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hike | 188920 | [188920-the-hike.json](./188920-the-hike.json) |
 | The Hiker | 279102 | [279102-the-hiker.json](./279102-the-hiker.json) |
 | The Hikyou Tankentai: Choutoko Special | 124270 | [124270-the-hikyou-tankentai-choutoko-special.json](./124270-the-hikyou-tankentai-choutoko-special.json) |
+| The Hilltop Mansion | 149878 | [149878-the-hilltop-mansion.json](./149878-the-hilltop-mansion.json) |
 | The HinterLands | 33427 | [33427-the-hinterlands.json](./33427-the-hinterlands.json) |
 | The History Channel: Civil War - Secret Missions | 47404 | [47404-the-history-channel-civil-war-secret-missions.json](./47404-the-history-channel-civil-war-secret-missions.json) |
 | The History Channel: Crusades - Quest for Power | 69799 | [69799-the-history-channel-crusades-quest-for-power.json](./69799-the-history-channel-crusades-quest-for-power.json) |
@@ -9344,6 +9347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Netrunner Awaken1ng | 182393 | [182393-the-netrunner-awaken1ng.json](./182393-the-netrunner-awaken1ng.json) |
 | The Network | 21777 | [21777-the-network.json](./21777-the-network.json) |
 | The Neurochemical Conjob | 291396 | [291396-the-neurochemical-conjob.json](./291396-the-neurochemical-conjob.json) |
+| The Never Ending Game | 149359 | [149359-the-never-ending-game.json](./149359-the-never-ending-game.json) |
 | The Never-Ending Sleepover | 370785 | [370785-the-never-ending-sleepover.json](./370785-the-never-ending-sleepover.json) |
 | The Neverending Labyrinth | 165149 | [165149-the-neverending-labyrinth.json](./165149-the-neverending-labyrinth.json) |
 | The NeverEnding Story | 13020 | [13020-the-neverending-story.json](./13020-the-neverending-story.json) |
@@ -9693,6 +9697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Path of Blades | 367484 | [367484-the-path-of-blades.json](./367484-the-path-of-blades.json) |
 | The Path of Calydra | 138527 | [138527-the-path-of-calydra.json](./138527-the-path-of-calydra.json) |
 | The Path of Hercules | 356230 | [356230-the-path-of-hercules.json](./356230-the-path-of-hercules.json) |
+| The Path of Ren | 149379 | [149379-the-path-of-ren.json](./149379-the-path-of-ren.json) |
 | The Path of Veins | 319270 | [319270-the-path-of-veins.json](./319270-the-path-of-veins.json) |
 | The Path to Die | 115638 | [115638-the-path-to-die.json](./115638-the-path-to-die.json) |
 | The Pathless | 113118 | [113118-the-pathless.json](./113118-the-pathless.json) |
@@ -11233,6 +11238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Station: Escape Room | 151011 | [151011-the-station-escape-room.json](./151011-the-station-escape-room.json) |
 | The Statue Got Me High | 358371 | [358371-the-statue-got-me-high.json](./358371-the-statue-got-me-high.json) |
 | The Stealth House: Secret Key | 101018 | [101018-the-stealth-house-secret-key.json](./101018-the-stealth-house-secret-key.json) |
+| The Steps as We Know Them | 149875 | [149875-the-steps-as-we-know-them.json](./149875-the-steps-as-we-know-them.json) |
 | The Stick and the Basket | 215786 | [215786-the-stick-and-the-basket.json](./215786-the-stick-and-the-basket.json) |
 | The Stickman | 341027 | [341027-the-stickman.json](./341027-the-stickman.json) |
 | The Sticky Plan | 183577 | [183577-the-sticky-plan.json](./183577-the-sticky-plan.json) |
@@ -11252,6 +11258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stonks Market | 146698 | [146698-the-stonks-market.json](./146698-the-stonks-market.json) |
 | The Storied Sword | 327462 | [327462-the-storied-sword.json](./327462-the-storied-sword.json) |
 | The Stories of Scheherazade | 112327 | [112327-the-stories-of-scheherazade.json](./112327-the-stories-of-scheherazade.json) |
+| The Storm | 149400 | [149400-the-storm.json](./149400-the-storm.json) |
 | The Storm Guard: Darkness is Coming | 23174 | [23174-the-storm-guard-darkness-is-coming.json](./23174-the-storm-guard-darkness-is-coming.json) |
 | The Story For Snow Moon | 97830 | [97830-the-story-for-snow-moon.json](./97830-the-story-for-snow-moon.json) |
 | The Story Goes On Chapter 1 | 337688 | [337688-the-story-goes-on-chapter-1.json](./337688-the-story-goes-on-chapter-1.json) |
@@ -11446,6 +11453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tales of Bayun | 200111 | [200111-the-tales-of-bayun.json](./200111-the-tales-of-bayun.json) |
 | The Tales of Bearsworth Manor: Puzzling Pages | 85446 | [85446-the-tales-of-bearsworth-manor-puzzling-pages.json](./85446-the-tales-of-bearsworth-manor-puzzling-pages.json) |
 | The Tales of Bingwood: Chapter I - To Save a Princess | 113472 | [113472-the-tales-of-bingwood-chapter-i-to-save-a-princess.json](./113472-the-tales-of-bingwood-chapter-i-to-save-a-princess.json) |
+| The Tales of Redbox: An Escape From Desire | 149377 | [149377-the-tales-of-redbox-an-escape-from-desire.json](./149377-the-tales-of-redbox-an-escape-from-desire.json) |
 | The Tales of the Magical Space Dough: Rebaked | 379439 | [379439-the-tales-of-the-magical-space-dough-rebaked.json](./379439-the-tales-of-the-magical-space-dough-rebaked.json) |
 | The Tales of Wonderlend | 379441 | [379441-the-tales-of-wonderlend.json](./379441-the-tales-of-wonderlend.json) |
 | The Tall Man Tapes | 393557 | [393557-the-tall-man-tapes.json](./393557-the-tall-man-tapes.json) |
@@ -11515,6 +11523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Terror At Freddy's | 338912 | [338912-the-terror-at-freddys.json](./338912-the-terror-at-freddys.json) |
 | The Terrors of Trantoss | 232557 | [232557-the-terrors-of-trantoss.json](./232557-the-terrors-of-trantoss.json) |
 | The test of beauty | 161645 | [161645-the-test-of-beauty.json](./161645-the-test-of-beauty.json) |
+| The Test: Final Revelation | 149355 | [149355-the-test-final-revelation.json](./149355-the-test-final-revelation.json) |
 | The Test: Hypothesis Rising | 132660 | [132660-the-test-hypothesis-rising.json](./132660-the-test-hypothesis-rising.json) |
 | The Test: Reimagined | 389115 | [389115-the-test-reimagined.json](./389115-the-test-reimagined.json) |
 | The Testament of Sherlock Holmes | 6164 | [6164-the-testament-of-sherlock-holmes.json](./6164-the-testament-of-sherlock-holmes.json) |
@@ -11564,6 +11573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Theodore Adventures | 44175 | [44175-the-theodore-adventures.json](./44175-the-theodore-adventures.json) |
 | The Therapist Impostor | 409414 | [409414-the-therapist-impostor.json](./409414-the-therapist-impostor.json) |
 | The Thief | 195438 | [195438-the-thief.json](./195438-the-thief.json) |
+| The Thief Girl | 149362 | [149362-the-thief-girl.json](./149362-the-thief-girl.json) |
 | The Thief in the Dark | 194650 | [194650-the-thief-in-the-dark.json](./194650-the-thief-in-the-dark.json) |
 | The Thief, the Witch, the Toad, and the Mushroom. | 235726 | [235726-the-thief-the-witch-the-toad-and-the-mushroom.json](./235726-the-thief-the-witch-the-toad-and-the-mushroom.json) |
 | The Thin Silence | 96812 | [96812-the-thin-silence.json](./96812-the-thin-silence.json) |
@@ -15394,6 +15404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timmy Types | 214540 | [214540-timmy-types.json](./214540-timmy-types.json) |
 | Timmy's Adventures | 224648 | [224648-timmys-adventures.json](./224648-timmys-adventures.json) |
 | Timmy's adventures : VerbMon | 123550 | [123550-timmys-adventures-verbmon.json](./123550-timmys-adventures-verbmon.json) |
+| Timmy's Nightmare | 149873 | [149873-timmys-nightmare.json](./149873-timmys-nightmare.json) |
 | Timo the Game | 370911 | [370911-timo-the-game.json](./370911-timo-the-game.json) |
 | Timo's Adventures | 143708 | [143708-timos-adventures.json](./143708-timos-adventures.json) |
 | Timore | 159172 | [159172-timore.json](./159172-timore.json) |
@@ -16920,6 +16931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tooth Fairy Horse | 250454 | [250454-tooth-fairy-horse.json](./250454-tooth-fairy-horse.json) |
 | Tooth Protectors | 11236 | [11236-tooth-protectors.json](./11236-tooth-protectors.json) |
 | Toothy History | 160221 | [160221-toothy-history.json](./160221-toothy-history.json) |
+| Tootinis | 149868 | [149868-tootinis.json](./149868-tootinis.json) |
 | Tootsie Pop | 273896 | [273896-tootsie-pop.json](./273896-tootsie-pop.json) |
 | Tootuff | 125952 | [125952-tootuff.json](./125952-tootuff.json) |
 | Tootuff: Mission Nadia | 48037 | [48037-tootuff-mission-nadia.json](./48037-tootuff-mission-nadia.json) |
@@ -17129,6 +17141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tornado | 266173 | [266173-tornado.json](./266173-tornado.json) |
 | Tornado | 266469 | [266469-tornado.json](./266469-tornado.json) |
 | Tornado Baseball / Tennis / Handball / Hockey | 93564 | [93564-tornado-baseball-tennis-handball-hockey.json](./93564-tornado-baseball-tennis-handball-hockey.json) |
+| Tornado Driver | 149886 | [149886-tornado-driver.json](./149886-tornado-driver.json) |
 | Tornado ECR | 109170 | [109170-tornado-ecr.json](./109170-tornado-ecr.json) |
 | Tornado Emergency | 301244 | [301244-tornado-emergency.json](./301244-tornado-emergency.json) |
 | Tornado Jockey | 80133 | [80133-tornado-jockey.json](./80133-tornado-jockey.json) |
@@ -19076,6 +19089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Your Fingers: Lab | 348730 | [348730-train-your-fingers-lab.json](./348730-train-your-fingers-lab.json) |
 | Train'em | 163971 | [163971-trainem.json](./163971-trainem.json) |
 | Trainbow | 182229 | [182229-trainbow.json](./182229-trainbow.json) |
+| TrainClicker Idle Evolution | 149364 | [149364-trainclicker-idle-evolution.json](./149364-trainclicker-idle-evolution.json) |
 | TrainCraft | 265614 | [265614-traincraft.json](./265614-traincraft.json) |
 | Trainee Death Simulator | 319810 | [319810-trainee-death-simulator.json](./319810-trainee-death-simulator.json) |
 | Trainer Canyon | 196526 | [196526-trainer-canyon.json](./196526-trainer-canyon.json) |
