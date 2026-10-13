@@ -847,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Valley Without Wind | 1625 | [1625-a-valley-without-wind.json](./1625-a-valley-without-wind.json) |
 | A Vampyre Story: Year One | 3137 | [3137-a-vampyre-story-year-one.json](./3137-a-vampyre-story-year-one.json) |
 | A Verdant Hue | 32234 | [32234-a-verdant-hue.json](./32234-a-verdant-hue.json) |
+| A Very Bad Christmas Eve | 148846 | [148846-a-very-bad-christmas-eve.json](./148846-a-very-bad-christmas-eve.json) |
 | A Very British Summer | 375941 | [375941-a-very-british-summer.json](./375941-a-very-british-summer.json) |
 | A Very Corporate Escape Room | 207571 | [207571-a-very-corporate-escape-room.json](./207571-a-very-corporate-escape-room.json) |
 | A Very Long Rope to the Top of the Sky | 124616 | [124616-a-very-long-rope-to-the-top-of-the-sky.json](./124616-a-very-long-rope-to-the-top-of-the-sky.json) |
@@ -6950,6 +6951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antartica | 400962 | [400962-antartica.json](./400962-antartica.json) |
 | AntCity | 318137 | [318137-antcity.json](./318137-antcity.json) |
 | Antcopter | 306036 | [306036-antcopter.json](./306036-antcopter.json) |
+| Ante | 148868 | [148868-ante.json](./148868-ante.json) |
 | Anteater | 38523 | [38523-anteater.json](./38523-anteater.json) |
 | Antecrypt | 176341 | [176341-antecrypt.json](./176341-antecrypt.json) |
 | Antediluvian | 271251 | [271251-antediluvian.json](./271251-antediluvian.json) |
@@ -11097,6 +11099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automation | 165512 | [165512-automation.json](./165512-automation.json) |
 | Automation Station | 201069 | [201069-automation-station.json](./201069-automation-station.json) |
 | Automation: The Car Company Tycoon Game | 17239 | [17239-automation-the-car-company-tycoon-game.json](./17239-automation-the-car-company-tycoon-game.json) |
+| Automaton | 148852 | [148852-automaton.json](./148852-automaton.json) |
 | Automaton | 266852 | [266852-automaton.json](./266852-automaton.json) |
 | Automaton Heart | 317850 | [317850-automaton-heart.json](./317850-automaton-heart.json) |
 | Automaton Kingdom | 201665 | [201665-automaton-kingdom.json](./201665-automaton-kingdom.json) |
