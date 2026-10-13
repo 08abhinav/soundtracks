@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T.R.A.G.: Tactical Rescue Assault Group - Mission of Mercy | 76599 | [76599-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json](./76599-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json) |
 | T.W. Burgess Presents: Pylons | 169877 | [169877-t-w-burgess-presents-pylons.json](./169877-t-w-burgess-presents-pylons.json) |
 | T.W.I.R.L. | 399150 | [399150-t-w-i-r-l.json](./399150-t-w-i-r-l.json) |
+| T^2.5 | 169731 | [169731-t-2-5.json](./169731-t-2-5.json) |
 | T10X Car Simulator | 256718 | [256718-t10x-car-simulator.json](./256718-t10x-car-simulator.json) |
 | T1wre3: Noname | 329161 | [329161-t1wre3-noname.json](./329161-t1wre3-noname.json) |
 | T2048 | 304335 | [304335-t2048.json](./304335-t2048.json) |
@@ -1237,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Táng Chuánqí: Shàng Yuáncháng Gān Xíng | 373703 | [373703-tang-chuanqi-shang-yuanchang-gan-xing.json](./373703-tang-chuanqi-shang-yuanchang-gan-xing.json) |
 | Tang Dynasty Architecture | 275341 | [275341-tang-dynasty-architecture.json](./275341-tang-dynasty-architecture.json) |
 | Tángdì zhī Huá | 394820 | [394820-tangdi-zhi-hua.json](./394820-tangdi-zhi-hua.json) |
+| Tangent Rush | 169899 | [169899-tangent-rush.json](./169899-tangent-rush.json) |
 | Tangerine Clicker | 247212 | [247212-tangerine-clicker.json](./247212-tangerine-clicker.json) |
 | Tangerine Panic | 280213 | [280213-tangerine-panic.json](./280213-tangerine-panic.json) |
 | Tanggal | 293318 | [293318-tanggal.json](./293318-tanggal.json) |
@@ -1294,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Battle | 194901 | [194901-tank-battle.json](./194901-tank-battle.json) |
 | Tank Battle Arena Combat | 395212 | [395212-tank-battle-arena-combat.json](./395212-tank-battle-arena-combat.json) |
 | Tank Battle Heroes: Iron Warfare | 120430 | [120430-tank-battle-heroes-iron-warfare.json](./120430-tank-battle-heroes-iron-warfare.json) |
+| Tank Battle Royale | 169718 | [169718-tank-battle-royale.json](./169718-tank-battle-royale.json) |
 | Tank Battle: 1944 | 34600 | [34600-tank-battle-1944.json](./34600-tank-battle-1944.json) |
 | Tank Battle: 1945 | 31044 | [31044-tank-battle-1945.json](./31044-tank-battle-1945.json) |
 | Tank Battle: Blitzkrieg | 31041 | [31041-tank-battle-blitzkrieg.json](./31041-tank-battle-blitzkrieg.json) |
@@ -2275,6 +2278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teeko | 347844 | [347844-teeko.json](./347844-teeko.json) |
 | Teel Me You! | 181361 | [181361-teel-me-you.json](./181361-teel-me-you.json) |
 | Teemo Jump! | 150052 | [150052-teemo-jump.json](./150052-teemo-jump.json) |
+| Teen Patti Gold | 169896 | [169896-teen-patti-gold.json](./169896-teen-patti-gold.json) |
 | Teen Patti Octro | 169878 | [169878-teen-patti-octro.json](./169878-teen-patti-octro.json) |
 | Teen Titans Battle Blitz | 144130 | [144130-teen-titans-battle-blitz.json](./144130-teen-titans-battle-blitz.json) |
 | Teen Titans Go! Arcade | 59358 | [59358-teen-titans-go-arcade.json](./59358-teen-titans-go-arcade.json) |
@@ -3420,6 +3424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Text and Drive: Friendship Never Dies | 131384 | [131384-text-and-drive-friendship-never-dies.json](./131384-text-and-drive-friendship-never-dies.json) |
 | Text Dungeon: The Ring of Life | 407450 | [407450-text-dungeon-the-ring-of-life.json](./407450-text-dungeon-the-ring-of-life.json) |
 | Text Express | 207031 | [207031-text-express.json](./207031-text-express.json) |
+| Text RPG | 169740 | [169740-text-rpg.json](./169740-text-rpg.json) |
 | Text Tiles | 46564 | [46564-text-tiles.json](./46564-text-tiles.json) |
 | Text Wall | 339272 | [339272-text-wall.json](./339272-text-wall.json) |
 | Text Your Life | 339270 | [339270-text-your-life.json](./339270-text-your-life.json) |
@@ -5966,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Explorers | 177416 | [177416-the-explorers.json](./177416-the-explorers.json) |
 | The Explors: Pyramid Explorers | 122917 | [122917-the-explors-pyramid-explorers.json](./122917-the-explors-pyramid-explorers.json) |
 | The Expression Amrilato | 119580 | [119580-the-expression-amrilato.json](./119580-the-expression-amrilato.json) |
+| The Extinguishers | 169667 | [169667-the-extinguishers.json](./169667-the-extinguishers.json) |
 | The Extraterrestrials Museum of Earth Exploration | 225188 | [225188-the-extraterrestrials-museum-of-earth-exploration.json](./225188-the-extraterrestrials-museum-of-earth-exploration.json) |
 | The Eye | 141836 | [141836-the-eye.json](./141836-the-eye.json) |
 | The Eye of Borrack | 122823 | [122823-the-eye-of-borrack.json](./122823-the-eye-of-borrack.json) |
@@ -11323,6 +11329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Swordsmen X: Survival | 152375 | [152375-the-swordsmen-x-survival.json](./152375-the-swordsmen-x-survival.json) |
 | The Syber Virus | 201714 | [201714-the-syber-virus.json](./201714-the-syber-virus.json) |
 | The Sych Story | 158643 | [158643-the-sych-story.json](./158643-the-sych-story.json) |
+| The Sych Story: Ded's Story | 170227 | [170227-the-sych-story-deds-story.json](./170227-the-sych-story-deds-story.json) |
 | The Sych Story: Human Being | 369574 | [369574-the-sych-story-human-being.json](./369574-the-sych-story-human-being.json) |
 | The Sydney Mystery | 73268 | [73268-the-sydney-mystery.json](./73268-the-sydney-mystery.json) |
 | The Symbiant | 228984 | [228984-the-symbiant.json](./228984-the-symbiant.json) |
@@ -12349,6 +12356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Weapon King | 260761 | [260761-the-weapon-king.json](./260761-the-weapon-king.json) |
 | The Weave of Heroes - RPG | 27755 | [27755-the-weave-of-heroes-rpg.json](./27755-the-weave-of-heroes-rpg.json) |
 | The Wedding | 286531 | [286531-the-wedding.json](./286531-the-wedding.json) |
+| The Wednesday | 169661 | [169661-the-wednesday.json](./169661-the-wednesday.json) |
 | The Weeping Swan: Ten Days of the City's Fall | 329217 | [329217-the-weeping-swan-ten-days-of-the-citys-fall.json](./329217-the-weeping-swan-ten-days-of-the-citys-fall.json) |
 | The Weight of a Soul | 230546 | [230546-the-weight-of-a-soul.json](./230546-the-weight-of-a-soul.json) |
 | The Well | 169799 | [169799-the-well.json](./169799-the-well.json) |
@@ -16000,6 +16008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Management Simulator | 138586 | [138586-toilet-management-simulator.json](./138586-toilet-management-simulator.json) |
 | Toilet Paper Please | 297332 | [297332-toilet-paper-please.json](./297332-toilet-paper-please.json) |
 | Toilet Paper Simulator | 248890 | [248890-toilet-paper-simulator.json](./248890-toilet-paper-simulator.json) |
+| Toilet Paper Unleashed | 169670 | [169670-toilet-paper-unleashed.json](./169670-toilet-paper-unleashed.json) |
 | Toilet paper wants to be a basketball | 152735 | [152735-toilet-paper-wants-to-be-a-basketball.json](./152735-toilet-paper-wants-to-be-a-basketball.json) |
 | Toilet Paper War | 158601 | [158601-toilet-paper-war.json](./158601-toilet-paper-war.json) |
 | Toilet Party | 310156 | [310156-toilet-party.json](./310156-toilet-party.json) |
@@ -16605,7 +16614,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Stewart Racing | 362901 | [362901-tony-stewart-racing.json](./362901-tony-stewart-racing.json) |
 | Tony Stewart's All American Racing Bundle | 141785 | [141785-tony-stewarts-all-american-racing-bundle.json](./141785-tony-stewarts-all-american-racing-bundle.json) |
 | Tony Stewart's All-American Racing | 139980 | [139980-tony-stewarts-all-american-racing.json](./139980-tony-stewarts-all-american-racing.json) |
+| Tony Stewart's All-American Racing: Knoxville Raceway | 169919 | [169919-tony-stewarts-all-american-racing-knoxville-raceway.json](./169919-tony-stewarts-all-american-racing-knoxville-raceway.json) |
+| Tony Stewart's All-American Racing: Late Model Series Pack | 169920 | [169920-tony-stewarts-all-american-racing-late-model-series-pack.json](./169920-tony-stewarts-all-american-racing-late-model-series-pack.json) |
 | Tony Stewart's All-American Racing: Texas Motor Speedway Dirt Track | 167851 | [167851-tony-stewarts-all-american-racing-texas-motor-speedway-dirt-track.json](./167851-tony-stewarts-all-american-racing-texas-motor-speedway-dirt-track.json) |
+| Tony Stewart's All-American Racing: The Dirt Track at Charlotte | 169917 | [169917-tony-stewarts-all-american-racing-the-dirt-track-at-charlotte.json](./169917-tony-stewarts-all-american-racing-the-dirt-track-at-charlotte.json) |
+| Tony Stewart's All-American Racing: The Dirt Track at Las Vegas Motor Speedway | 169918 | [169918-tony-stewarts-all-american-racing-the-dirt-track-at-las-vegas-motor-speedway.json](./169918-tony-stewarts-all-american-racing-the-dirt-track-at-las-vegas-motor-speedway.json) |
 | Tony Stewart's Sprint Car Racing | 129734 | [129734-tony-stewarts-sprint-car-racing.json](./129734-tony-stewarts-sprint-car-racing.json) |
 | Tony the Mole | 363012 | [363012-tony-the-mole.json](./363012-tony-the-mole.json) |
 | Tony Tough 2: A Rake's Progress | 69904 | [69904-tony-tough-2-a-rakes-progress.json](./69904-tony-tough-2-a-rakes-progress.json) |
@@ -16931,6 +16944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torres | 94251 | [94251-torres.json](./94251-torres.json) |
 | Torshtra Minkan Setsuwashuu yori: Kokuou no Musume | 386111 | [386111-torshtra-minkan-setsuwashuu-yori-kokuou-no-musume.json](./386111-torshtra-minkan-setsuwashuu-yori-kokuou-no-musume.json) |
 | Torso Tennis | 292429 | [292429-torso-tennis.json](./292429-torso-tennis.json) |
+| Tortuga | 170232 | [170232-tortuga.json](./170232-tortuga.json) |
 | Tortuga Bay | 92987 | [92987-tortuga-bay.json](./92987-tortuga-bay.json) |
 | Tortuga Escape | 383371 | [383371-tortuga-escape.json](./383371-tortuga-escape.json) |
 | Tortuga: A Pirate's Tale | 214399 | [214399-tortuga-a-pirates-tale.json](./214399-tortuga-a-pirates-tale.json) |
@@ -18507,6 +18521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator 2019 | 111023 | [111023-train-simulator-2019.json](./111023-train-simulator-2019.json) |
 | Train Simulator 2020 | 122285 | [122285-train-simulator-2020.json](./122285-train-simulator-2020.json) |
 | Train Simulator 2021: 0-4-0 Saddletank Pack 1 Add-on Loco | 169924 | [169924-train-simulator-2021-0-4-0-saddletank-pack-1-add-on-loco.json](./169924-train-simulator-2021-0-4-0-saddletank-pack-1-add-on-loco.json) |
+| Train Simulator 2021: 0-4-0 Saddletank Pack 2 Add-on Loco | 169921 | [169921-train-simulator-2021-0-4-0-saddletank-pack-2-add-on-loco.json](./169921-train-simulator-2021-0-4-0-saddletank-pack-2-add-on-loco.json) |
 | Train Simulator 2021: Aerotrain Streamlined Train | 161732 | [161732-train-simulator-2021-aerotrain-streamlined-train.json](./161732-train-simulator-2021-aerotrain-streamlined-train.json) |
 | Train Simulator 2021: Amtrak Acela Express EMU | 162260 | [162260-train-simulator-2021-amtrak-acela-express-emu.json](./162260-train-simulator-2021-amtrak-acela-express-emu.json) |
 | Train Simulator 2021: Amtrak Dash 8-32BWH Loco | 162261 | [162261-train-simulator-2021-amtrak-dash-8-32bwh-loco.json](./162261-train-simulator-2021-amtrak-dash-8-32bwh-loco.json) |
@@ -19768,6 +19783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasures of the Haunted Forest | 273645 | [273645-treasures-of-the-haunted-forest.json](./273645-treasures-of-the-haunted-forest.json) |
 | Treasures of the Inca | 416186 | [416186-treasures-of-the-inca.json](./416186-treasures-of-the-inca.json) |
 | Treasures of the Planet Ziberium | 416185 | [416185-treasures-of-the-planet-ziberium.json](./416185-treasures-of-the-planet-ziberium.json) |
+| Treasures of the Roman Empire | 169673 | [169673-treasures-of-the-roman-empire.json](./169673-treasures-of-the-roman-empire.json) |
 | Treasures of the Serengeti | 206073 | [206073-treasures-of-the-serengeti.json](./206073-treasures-of-the-serengeti.json) |
 | Treasures of the Smithsonian | 46547 | [46547-treasures-of-the-smithsonian.json](./46547-treasures-of-the-smithsonian.json) |
 | TreasureTails | 386422 | [386422-treasuretails.json](./386422-treasuretails.json) |
