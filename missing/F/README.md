@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fair Deal: Las Vegas | 110129 | [110129-fair-deal-las-vegas.json](./110129-fair-deal-las-vegas.json) |
 | Fair Food Maker Game | 97153 | [97153-fair-food-maker-game.json](./97153-fair-food-maker-game.json) |
 | Fair Strike | 35675 | [35675-fair-strike.json](./35675-fair-strike.json) |
+| Faircroft's Antiques: Home for Christmas | 150943 | [150943-faircrofts-antiques-home-for-christmas.json](./150943-faircrofts-antiques-home-for-christmas.json) |
 | Faircroft's Antiques: The Forbidden Crypt | 182361 | [182361-faircrofts-antiques-the-forbidden-crypt.json](./182361-faircrofts-antiques-the-forbidden-crypt.json) |
 | Faircroft's Antiques: The Heir of Glen Kinnoch | 148993 | [148993-faircrofts-antiques-the-heir-of-glen-kinnoch.json](./148993-faircrofts-antiques-the-heir-of-glen-kinnoch.json) |
 | Faircroft's Antiques: The Mountaineer's Legacy | 197413 | [197413-faircrofts-antiques-the-mountaineers-legacy.json](./197413-faircrofts-antiques-the-mountaineers-legacy.json) |
@@ -3695,6 +3696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding fairies | 254582 | [254582-finding-fairies.json](./254582-finding-fairies.json) |
 | Finding Felicia | 208335 | [208335-finding-felicia.json](./208335-finding-felicia.json) |
 | Finding Fern | 239659 | [239659-finding-fern.json](./239659-finding-fern.json) |
+| Finding Fido: The Journey | 150978 | [150978-finding-fido-the-journey.json](./150978-finding-fido-the-journey.json) |
 | Finding Frankie | 266421 | [266421-finding-frankie.json](./266421-finding-frankie.json) |
 | Finding Frankie 2 | 404932 | [404932-finding-frankie-2.json](./404932-finding-frankie-2.json) |
 | Finding Hannah | 237954 | [237954-finding-hannah.json](./237954-finding-hannah.json) |
@@ -6582,6 +6584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula 2D: Steer To Persevere | 212833 | [212833-formula-2d-steer-to-persevere.json](./212833-formula-2d-steer-to-persevere.json) |
 | Formula 500 | 230861 | [230861-formula-500.json](./230861-formula-500.json) |
 | Formula Auto Sport Racing | 372042 | [372042-formula-auto-sport-racing.json](./372042-formula-auto-sport-racing.json) |
+| Formula Bit Racing | 150956 | [150956-formula-bit-racing.json](./150956-formula-bit-racing.json) |
 | Formula Bit Racing DX | 207275 | [207275-formula-bit-racing-dx.json](./207275-formula-bit-racing-dx.json) |
 | Formula Car Racing Simulator | 99409 | [99409-formula-car-racing-simulator.json](./99409-formula-car-racing-simulator.json) |
 | Formula Cartoon All Stars | 59924 | [59924-formula-cartoon-all-stars.json](./59924-formula-cartoon-all-stars.json) |
@@ -7819,6 +7822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friend Ship | 270043 | [270043-friend-ship.json](./270043-friend-ship.json) |
 | Friend Sighting | 129662 | [129662-friend-sighting.json](./129662-friend-sighting.json) |
 | Friendly | 202253 | [202253-friendly.json](./202253-friendly.json) |
+| Friendly Arena | 150946 | [150946-friendly-arena.json](./150946-friendly-arena.json) |
 | Friendly Blonding | 213527 | [213527-friendly-blonding.json](./213527-friendly-blonding.json) |
 | Friendly Facade | 232528 | [232528-friendly-facade.json](./232528-friendly-facade.json) |
 | Friendly Fire | 157099 | [157099-friendly-fire.json](./157099-friendly-fire.json) |
