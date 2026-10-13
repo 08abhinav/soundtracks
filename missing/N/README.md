@@ -2189,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Chick Sisters | 165580 | [165580-new-super-chick-sisters.json](./165580-new-super-chick-sisters.json) |
 | New Super Kaizo Bros. | 214777 | [214777-new-super-kaizo-bros.json](./214777-new-super-kaizo-bros.json) |
 | New Super Luigi U Remastered Edition | 322777 | [322777-new-super-luigi-u-remastered-edition.json](./322777-new-super-luigi-u-remastered-edition.json) |
+| New Super Mario All-Stars HD | 178381 | [178381-new-super-mario-all-stars-hd.json](./178381-new-super-mario-all-stars-hd.json) |
 | New Super Mario Bros. 2 | 1080 | [1080-new-super-mario-bros-2.json](./1080-new-super-mario-bros-2.json) |
 | New Super Mario Bros. 2: Gold Coin Edition | 233973 | [233973-new-super-mario-bros-2-gold-coin-edition.json](./233973-new-super-mario-bros-2-gold-coin-edition.json) |
 | New Super Mario Bros. 2: Gold Edition | 233975 | [233975-new-super-mario-bros-2-gold-edition.json](./233975-new-super-mario-bros-2-gold-edition.json) |
@@ -3962,6 +3963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noahmund | 96249 | [96249-noahmund.json](./96249-noahmund.json) |
 | Noalone | 250317 | [250317-noalone.json](./250317-noalone.json) |
 | NoAmmo | 210882 | [210882-noammo.json](./210882-noammo.json) |
+| Noara: The Conspiracy | 178357 | [178357-noara-the-conspiracy.json](./178357-noara-the-conspiracy.json) |
 | Nob War: The Elves | 235243 | [235243-nob-war-the-elves.json](./235243-nob-war-the-elves.json) |
 | Nobby the Aardvark | 125181 | [125181-nobby-the-aardvark.json](./125181-nobby-the-aardvark.json) |
 | Noble | 176975 | [176975-noble.json](./176975-noble.json) |
