@@ -634,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok Online 2 | 16484 | [16484-ragnarok-online-2.json](./16484-ragnarok-online-2.json) |
 | Ragnarok Online: Valkyrie Uprising | 63655 | [63655-ragnarok-online-valkyrie-uprising.json](./63655-ragnarok-online-valkyrie-uprising.json) |
 | Ragnarok Origin | 172438 | [172438-ragnarok-origin.json](./172438-ragnarok-origin.json) |
+| Ragnarok Origin: Beyond Ragnarok | 137371 | [137371-ragnarok-origin-beyond-ragnarok.json](./137371-ragnarok-origin-beyond-ragnarok.json) |
 | Ragnarok Origin: Classic | 402201 | [402201-ragnarok-origin-classic.json](./402201-ragnarok-origin-classic.json) |
 | Ragnarök Protocol | 396124 | [396124-ragnarok-protocol.json](./396124-ragnarok-protocol.json) |
 | Ragnarok Re:Start | 51429 | [51429-ragnarok-re-start.json](./51429-ragnarok-re-start.json) |
@@ -1097,6 +1098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramblings | 204678 | [204678-ramblings.json](./204678-ramblings.json) |
 | Rambo | 48210 | [48210-rambo.json](./48210-rambo.json) |
 | Rambo | 94890 | [94890-rambo.json](./94890-rambo.json) |
+| Rambo III | 136726 | [136726-rambo-iii.json](./136726-rambo-iii.json) |
 | Rambo: First Blood Part II | 12963 | [12963-rambo-first-blood-part-ii.json](./12963-rambo-first-blood-part-ii.json) |
 | Rambo: First Blood Part II | 39127 | [39127-rambo-first-blood-part-ii.json](./39127-rambo-first-blood-part-ii.json) |
 | Rambo: The Video Game | 3771 | [3771-rambo-the-video-game.json](./3771-rambo-the-video-game.json) |
@@ -2187,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Pirates | 371238 | [371238-rebel-pirates.json](./371238-rebel-pirates.json) |
 | Rebel Planet | 26479 | [26479-rebel-planet.json](./26479-rebel-planet.json) |
 | Rebel Planet Orion | 120891 | [120891-rebel-planet-orion.json](./120891-rebel-planet-orion.json) |
+| Rebel Racing | 137368 | [137368-rebel-racing.json](./137368-rebel-racing.json) |
 | Rebel Reenactment: Battle of the Wilderness | 164429 | [164429-rebel-reenactment-battle-of-the-wilderness.json](./164429-rebel-reenactment-battle-of-the-wilderness.json) |
 | Rebel Roar | 408736 | [408736-rebel-roar.json](./408736-rebel-roar.json) |
 | Rebel Tank Solo-Raid | 333131 | [333131-rebel-tank-solo-raid.json](./333131-rebel-tank-solo-raid.json) |
@@ -2314,7 +2317,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reclamation of Xanthros | 298177 | [298177-reclamation-of-xanthros.json](./298177-reclamation-of-xanthros.json) |
 | Reclaym the Kingdom | 301899 | [301899-reclaym-the-kingdom.json](./301899-reclaym-the-kingdom.json) |
 | Reclusive | 240755 | [240755-reclusive.json](./240755-reclusive.json) |
+| Reco Love: Blue Ocean | 136761 | [136761-reco-love-blue-ocean.json](./136761-reco-love-blue-ocean.json) |
 | Reco Love: Blue Ocean/Gold Beach | 77423 | [77423-reco-love-blue-ocean-gold-beach.json](./77423-reco-love-blue-ocean-gold-beach.json) |
+| Reco Love: Gold Beach | 136759 | [136759-reco-love-gold-beach.json](./136759-reco-love-gold-beach.json) |
 | Recog: The First Wave | 100725 | [100725-recog-the-first-wave.json](./100725-recog-the-first-wave.json) |
 | Recognition Test 23 | 246676 | [246676-recognition-test-23.json](./246676-recognition-test-23.json) |
 | Recoil | 117276 | [117276-recoil.json](./117276-recoil.json) |
@@ -3296,6 +3301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renai Karichaimashita: Koikari - Love For Hire - After Hours | 376587 | [376587-renai-karichaimashita-koikari-love-for-hire-after-hours.json](./376587-renai-karichaimashita-koikari-love-for-hire-after-hours.json) |
 | Renai Karichaimashita: Koikari - Love For Hire: Limited Edition | 335969 | [335969-renai-karichaimashita-koikari-love-for-hire-limited-edition.json](./335969-renai-karichaimashita-koikari-love-for-hire-limited-edition.json) |
 | Renai Kouhosei Starlight Scramble | 165537 | [165537-renai-kouhosei-starlight-scramble.json](./165537-renai-kouhosei-starlight-scramble.json) |
+| Renai Revenge | 136762 | [136762-renai-revenge.json](./136762-renai-revenge.json) |
 | Renai X Royale: Love's a Battle | 216956 | [216956-renai-x-royale-loves-a-battle.json](./216956-renai-x-royale-loves-a-battle.json) |
 | Renai, Karichaimashita | 144892 | [144892-renai-karichaimashita.json](./144892-renai-karichaimashita.json) |
 | Renaine | 74723 | [74723-renaine.json](./74723-renaine.json) |
@@ -5592,6 +5598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Works | 35687 | [35687-road-works.json](./35687-road-works.json) |
 | Road Works Simulator | 10778 | [10778-road-works-simulator.json](./10778-road-works-simulator.json) |
 | Road Z Survival: The Last Winter | 105089 | [105089-road-z-survival-the-last-winter.json](./105089-road-z-survival-the-last-winter.json) |
+| Road-Frog | 137340 | [137340-road-frog.json](./137340-road-frog.json) |
 | Road's Edge | 28135 | [28135-roads-edge.json](./28135-roads-edge.json) |
 | Roadclub: League Racing | 33644 | [33644-roadclub-league-racing.json](./33644-roadclub-league-racing.json) |
 | RoadCraft | 314239 | [314239-roadcraft.json](./314239-roadcraft.json) |
@@ -6071,6 +6078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Paper Scissors: The Roguelike Puzzle Game | 410207 | [410207-rock-paper-scissors-the-roguelike-puzzle-game.json](./410207-rock-paper-scissors-the-roguelike-puzzle-game.json) |
 | Rock Paper Shift | 137433 | [137433-rock-paper-shift.json](./137433-rock-paper-shift.json) |
 | Rock Paper Smash | 213464 | [213464-rock-paper-smash.json](./213464-rock-paper-smash.json) |
+| Rock Paper Sock | 136739 | [136739-rock-paper-sock.json](./136739-rock-paper-sock.json) |
 | Rock Pit | 288108 | [288108-rock-pit.json](./288108-rock-pit.json) |
 | Rock Quest: A Rhythm Adventure | 346173 | [346173-rock-quest-a-rhythm-adventure.json](./346173-rock-quest-a-rhythm-adventure.json) |
 | Rock Rock Rock | 326105 | [326105-rock-rock-rock.json](./326105-rock-rock-rock.json) |
@@ -6756,6 +6764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll the Dark Heart | 251850 | [251850-roll-the-dark-heart.json](./251850-roll-the-dark-heart.json) |
 | Roll The Die: Prologue | 309467 | [309467-roll-the-die-prologue.json](./309467-roll-the-die-prologue.json) |
 | Roll the TP | 328677 | [328677-roll-the-tp.json](./328677-roll-the-tp.json) |
+| Roll the World | 137347 | [137347-roll-the-world.json](./137347-roll-the-world.json) |
 | Roll to Ruin | 418256 | [418256-roll-to-ruin.json](./418256-roll-to-ruin.json) |
 | Roll Turtle | 208577 | [208577-roll-turtle.json](./208577-roll-turtle.json) |
 | Roll: A Puzzle Contraption | 303664 | [303664-roll-a-puzzle-contraption.json](./303664-roll-a-puzzle-contraption.json) |
@@ -7603,6 +7612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Maker 3 | 24144 | [24144-rpg-maker-3.json](./24144-rpg-maker-3.json) |
 | RPG Maker Coloring Book | 338946 | [338946-rpg-maker-coloring-book.json](./338946-rpg-maker-coloring-book.json) |
 | RPG Maker II | 43556 | [43556-rpg-maker-ii.json](./43556-rpg-maker-ii.json) |
+| RPG Maker MV Trinity | 136722 | [136722-rpg-maker-mv-trinity.json](./136722-rpg-maker-mv-trinity.json) |
 | RPG Maker U2U | 402546 | [402546-rpg-maker-u2u.json](./402546-rpg-maker-u2u.json) |
 | RPG Maker With | 291538 | [291538-rpg-maker-with.json](./291538-rpg-maker-with.json) |
 | RPG Merchant | 86335 | [86335-rpg-merchant.json](./86335-rpg-merchant.json) |
