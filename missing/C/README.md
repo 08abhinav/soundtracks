@@ -4547,6 +4547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chief Miner | 373357 | [373357-chief-miner.json](./373357-chief-miner.json) |
 | Chief's Quest | 111703 | [111703-chiefs-quest.json](./111703-chiefs-quest.json) |
 | Chieftain's Daughter | 244313 | [244313-chieftains-daughter.json](./244313-chieftains-daughter.json) |
+| Chigau!!! | 170786 | [170786-chigau.json](./170786-chigau.json) |
 | Chigau!!!+ | 186231 | [186231-chigau.json](./186231-chigau.json) |
 | Chigau!!!+: Premium Edition | 186232 | [186232-chigau-premium-edition.json](./186232-chigau-premium-edition.json) |
 | Chigusa's Diary | 412422 | [412422-chigusas-diary.json](./412422-chigusas-diary.json) |
@@ -9727,6 +9728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cossacks 3: Guardians of the Highlands | 51763 | [51763-cossacks-3-guardians-of-the-highlands.json](./51763-cossacks-3-guardians-of-the-highlands.json) |
 | Cossacks 3: Path to Grandeur | 51762 | [51762-cossacks-3-path-to-grandeur.json](./51762-cossacks-3-path-to-grandeur.json) |
 | Cossacks 3: Rise to Glory | 51761 | [51761-cossacks-3-rise-to-glory.json](./51761-cossacks-3-rise-to-glory.json) |
+| Cossacks 3: Summer Fair | 170788 | [170788-cossacks-3-summer-fair.json](./170788-cossacks-3-summer-fair.json) |
 | Cossacks 3: The Golden Age | 144963 | [144963-cossacks-3-the-golden-age.json](./144963-cossacks-3-the-golden-age.json) |
 | Cossacks Anthology | 51760 | [51760-cossacks-anthology.json](./51760-cossacks-anthology.json) |
 | Cossacks II Anthology | 51759 | [51759-cossacks-ii-anthology.json](./51759-cossacks-ii-anthology.json) |
@@ -10733,6 +10735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Road | 90189 | [90189-crazy-road.json](./90189-crazy-road.json) |
 | Crazy Roads | 399693 | [399693-crazy-roads.json](./399693-crazy-roads.json) |
 | Crazy Robot Ball | 356206 | [356206-crazy-robot-ball.json](./356206-crazy-robot-ball.json) |
+| Crazy Sapper 3D: Classic Mode | 170963 | [170963-crazy-sapper-3d-classic-mode.json](./170963-crazy-sapper-3d-classic-mode.json) |
 | Crazy School: Schulverweis! | 327219 | [327219-crazy-school-schulverweis.json](./327219-crazy-school-schulverweis.json) |
 | Crazy Science: Long Run | 95628 | [95628-crazy-science-long-run.json](./95628-crazy-science-long-run.json) |
 | Crazy Seahorses | 241348 | [241348-crazy-seahorses.json](./241348-crazy-seahorses.json) |
