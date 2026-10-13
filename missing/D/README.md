@@ -930,6 +930,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Deception: Chapter 5 | 258364 | [258364-dark-deception-chapter-5.json](./258364-dark-deception-chapter-5.json) |
 | Dark Deception: Complete Edition | 169206 | [169206-dark-deception-complete-edition.json](./169206-dark-deception-complete-edition.json) |
 | Dark Deception: Monsters & Mortals - House of Ashes | 292864 | [292864-dark-deception-monsters-and-mortals-house-of-ashes.json](./292864-dark-deception-monsters-and-mortals-house-of-ashes.json) |
+| Dark Deception: Monsters & Mortals - Monstrum | 168923 | [168923-dark-deception-monsters-and-mortals-monstrum.json](./168923-dark-deception-monsters-and-mortals-monstrum.json) |
+| Dark Deception: Monsters & Mortals - Silent Hill | 168793 | [168793-dark-deception-monsters-and-mortals-silent-hill.json](./168793-dark-deception-monsters-and-mortals-silent-hill.json) |
 | Dark Deception: Monsters & Mortals - The Coma 2: Vicious Sisters | 292869 | [292869-dark-deception-monsters-and-mortals-the-coma-2-vicious-sisters.json](./292869-dark-deception-monsters-and-mortals-the-coma-2-vicious-sisters.json) |
 | Dark Deception: Monsters & Mortals - US Creator | 291694 | [291694-dark-deception-monsters-and-mortals-us-creator.json](./291694-dark-deception-monsters-and-mortals-us-creator.json) |
 | Dark Decline | 269271 | [269271-dark-decline.json](./269271-dark-decline.json) |
