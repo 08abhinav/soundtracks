@@ -7451,6 +7451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apt. 407 | 345437 | [345437-apt-407.json](./345437-apt-407.json) |
 | Aptly Rolling | 165661 | [165661-aptly-rolling.json](./165661-aptly-rolling.json) |
 | Apu's Journey | 276854 | [276854-apus-journey.json](./276854-apus-journey.json) |
+| AQ First Contact | 158934 | [158934-aq-first-contact.json](./158934-aq-first-contact.json) |
 | Aqi 155 | 222369 | [222369-aqi-155.json](./222369-aqi-155.json) |
 | AQRA Tenses: Learn English | 237280 | [237280-aqra-tenses-learn-english.json](./237280-aqra-tenses-learn-english.json) |
 | AQtion | 202662 | [202662-aqtion.json](./202662-aqtion.json) |
@@ -10946,6 +10947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurule Dynasty | 406856 | [406856-aurule-dynasty.json](./406856-aurule-dynasty.json) |
 | Aurum | 373636 | [373636-aurum.json](./373636-aurum.json) |
 | Aurum Kings | 100148 | [100148-aurum-kings.json](./100148-aurum-kings.json) |
+| Aurum Online | 158968 | [158968-aurum-online.json](./158968-aurum-online.json) |
 | Ausbruch | 271943 | [271943-ausbruch.json](./271943-ausbruch.json) |
 | Aussie Clowns At War | 190194 | [190194-aussie-clowns-at-war.json](./190194-aussie-clowns-at-war.json) |
 | Aussie Joker Poker | 14276 | [14276-aussie-joker-poker.json](./14276-aussie-joker-poker.json) |
