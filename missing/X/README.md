@@ -175,6 +175,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 10 Global: North America Scenery | 168809 | [168809-x-plane-10-global-north-america-scenery.json](./168809-x-plane-10-global-north-america-scenery.json) |
 | X-Plane 10 Global: South America Scenery | 168814 | [168814-x-plane-10-global-south-america-scenery.json](./168814-x-plane-10-global-south-america-scenery.json) |
 | X-Plane 10: Regional Edition - North America | 205810 | [205810-x-plane-10-regional-edition-north-america.json](./205810-x-plane-10-regional-edition-north-america.json) |
+| X-Plane 11: 29 Palms/Captain7 - EDDN: Nuernberg XP | 168419 | [168419-x-plane-11-29-palms-captain7-eddn-nuernberg-xp.json](./168419-x-plane-11-29-palms-captain7-eddn-nuernberg-xp.json) |
+| X-Plane 11: Add-on - Aerosoft Aspen XP | 168410 | [168410-x-plane-11-add-on-aerosoft-aspen-xp.json](./168410-x-plane-11-add-on-aerosoft-aspen-xp.json) |
+| X-Plane 11: Add-on - Aerosoft Dortmund XP | 168412 | [168412-x-plane-11-add-on-aerosoft-dortmund-xp.json](./168412-x-plane-11-add-on-aerosoft-dortmund-xp.json) |
+| X-Plane 11: Add-on - Aerosoft Helgoland XP | 168407 | [168407-x-plane-11-add-on-aerosoft-helgoland-xp.json](./168407-x-plane-11-add-on-aerosoft-helgoland-xp.json) |
+| X-Plane 11: Add-on - Aerosoft Reggio Calabria XP | 168395 | [168395-x-plane-11-add-on-aerosoft-reggio-calabria-xp.json](./168395-x-plane-11-add-on-aerosoft-reggio-calabria-xp.json) |
+| X-Plane 11: Add-on - JustAsia: Real World Malaysia | 168400 | [168400-x-plane-11-add-on-justasia-real-world-malaysia.json](./168400-x-plane-11-add-on-justasia-real-world-malaysia.json) |
+| X-Plane 11: Add-on - SAM FollowMe | 168396 | [168396-x-plane-11-add-on-sam-followme.json](./168396-x-plane-11-add-on-sam-followme.json) |
+| X-Plane 11: Add-on - SAM WorldJetways | 168418 | [168418-x-plane-11-add-on-sam-worldjetways.json](./168418-x-plane-11-add-on-sam-worldjetways.json) |
 | X-Plane 11: Aerosoft - Airport Alta | 162780 | [162780-x-plane-11-aerosoft-airport-alta.json](./162780-x-plane-11-aerosoft-airport-alta.json) |
 | X-Plane 11: Aerosoft - Airport Amsterdam | 162796 | [162796-x-plane-11-aerosoft-airport-amsterdam.json](./162796-x-plane-11-aerosoft-airport-amsterdam.json) |
 | X-Plane 11: Aerosoft - Airport Anchorage | 162784 | [162784-x-plane-11-aerosoft-airport-anchorage.json](./162784-x-plane-11-aerosoft-airport-anchorage.json) |
@@ -202,11 +210,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 11: Aerosoft - Airport Split | 162775 | [162775-x-plane-11-aerosoft-airport-split.json](./162775-x-plane-11-aerosoft-airport-split.json) |
 | X-Plane 11: Aerosoft - Airport Wilmington | 162800 | [162800-x-plane-11-aerosoft-airport-wilmington.json](./162800-x-plane-11-aerosoft-airport-wilmington.json) |
 | X-Plane 11: Aerosoft - Airport Zurich V2 | 162781 | [162781-x-plane-11-aerosoft-airport-zurich-v2.json](./162781-x-plane-11-aerosoft-airport-zurich-v2.json) |
+| X-Plane 11: Aerosoft - CRJ 200 | 168401 | [168401-x-plane-11-aerosoft-crj-200.json](./168401-x-plane-11-aerosoft-crj-200.json) |
+| X-Plane 11: Aerosoft - Faroe Islands XP | 168398 | [168398-x-plane-11-aerosoft-faroe-islands-xp.json](./168398-x-plane-11-aerosoft-faroe-islands-xp.json) |
+| X-Plane 11: Aerosoft - German Islands 1: East Frisia | 168409 | [168409-x-plane-11-aerosoft-german-islands-1-east-frisia.json](./168409-x-plane-11-aerosoft-german-islands-1-east-frisia.json) |
+| X-Plane 11: Aerosoft - Ibiza XP | 168408 | [168408-x-plane-11-aerosoft-ibiza-xp.json](./168408-x-plane-11-aerosoft-ibiza-xp.json) |
 | X-Plane 11: Aerosoft - KTNP: Airport Twentynine Palms | 162785 | [162785-x-plane-11-aerosoft-ktnp-airport-twentynine-palms.json](./162785-x-plane-11-aerosoft-ktnp-airport-twentynine-palms.json) |
+| X-Plane 11: Aerosoft - Paderborn XP | 168411 | [168411-x-plane-11-aerosoft-paderborn-xp.json](./168411-x-plane-11-aerosoft-paderborn-xp.json) |
 | X-Plane 11: Aerosoft - SCEL Intl. Airport & Santiago City 2020 | 162816 | [162816-x-plane-11-aerosoft-scel-intl-airport-and-santiago-city-2020.json](./162816-x-plane-11-aerosoft-scel-intl-airport-and-santiago-city-2020.json) |
 | X-Plane 11: Aerosoft - Society Islands XP: Bora Bora & Leeward Islands | 174137 | [174137-x-plane-11-aerosoft-society-islands-xp-bora-bora-and-leeward-islands.json](./174137-x-plane-11-aerosoft-society-islands-xp-bora-bora-and-leeward-islands.json) |
 | X-Plane 11: Aerosoft - Society Islands XP: Tahiti & Windward Islands | 289892 | [289892-x-plane-11-aerosoft-society-islands-xp-tahiti-and-windward-islands.json](./289892-x-plane-11-aerosoft-society-islands-xp-tahiti-and-windward-islands.json) |
+| X-Plane 11: Aerosoft - St. Tropez | 168417 | [168417-x-plane-11-aerosoft-st-tropez.json](./168417-x-plane-11-aerosoft-st-tropez.json) |
 | X-Plane 11: Aerosoft - Tromsø XP | 238471 | [238471-x-plane-11-aerosoft-troms-xp.json](./238471-x-plane-11-aerosoft-troms-xp.json) |
+| X-Plane 11: Aerosoft - XPRealistic v.2 | 168422 | [168422-x-plane-11-aerosoft-xprealistic-v-2.json](./168422-x-plane-11-aerosoft-xprealistic-v-2.json) |
 | X-Plane 11: Aerosoft Airport Barcelona | 162824 | [162824-x-plane-11-aerosoft-airport-barcelona.json](./162824-x-plane-11-aerosoft-airport-barcelona.json) |
 | X-Plane 11: Aerosoft Airport Bergamo | 162793 | [162793-x-plane-11-aerosoft-airport-bergamo.json](./162793-x-plane-11-aerosoft-airport-bergamo.json) |
 | X-Plane 11: Aerosoft Airport Frankfurt V2 | 162767 | [162767-x-plane-11-aerosoft-airport-frankfurt-v2.json](./162767-x-plane-11-aerosoft-airport-frankfurt-v2.json) |
@@ -229,9 +244,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 11: Aerosoft Airport Vitoria-Foronda XP | 162811 | [162811-x-plane-11-aerosoft-airport-vitoria-foronda-xp.json](./162811-x-plane-11-aerosoft-airport-vitoria-foronda-xp.json) |
 | X-Plane 11: Aerosoft Airport Zagreb | 162776 | [162776-x-plane-11-aerosoft-airport-zagreb.json](./162776-x-plane-11-aerosoft-airport-zagreb.json) |
 | X-Plane 11: Aerosoft Seychelles XP | 168367 | [168367-x-plane-11-aerosoft-seychelles-xp.json](./168367-x-plane-11-aerosoft-seychelles-xp.json) |
+| X-Plane 11: Aerosoft Svalbard4XPlane | 168413 | [168413-x-plane-11-aerosoft-svalbard4xplane.json](./168413-x-plane-11-aerosoft-svalbard4xplane.json) |
 | X-Plane 11: Airfield Canada - CYHZ: Halifax Stanfield International Airport | 162790 | [162790-x-plane-11-airfield-canada-cyhz-halifax-stanfield-international-airport.json](./162790-x-plane-11-airfield-canada-cyhz-halifax-stanfield-international-airport.json) |
 | X-Plane 11: Airfield Canada - CYQY: J.A. Douglas McCurdy Sydney Airport | 162809 | [162809-x-plane-11-airfield-canada-cyqy-j-a-douglas-mccurdy-sydney-airport.json](./162809-x-plane-11-airfield-canada-cyqy-j-a-douglas-mccurdy-sydney-airport.json) |
+| X-Plane 11: FACO Simulations - F-15C Eagle | 168416 | [168416-x-plane-11-faco-simulations-f-15c-eagle.json](./168416-x-plane-11-faco-simulations-f-15c-eagle.json) |
 | X-Plane 11: FlyLogic Airport Bern-Belp | 162768 | [162768-x-plane-11-flylogic-airport-bern-belp.json](./162768-x-plane-11-flylogic-airport-bern-belp.json) |
+| X-Plane 11: FSDG - Agadir | 168406 | [168406-x-plane-11-fsdg-agadir.json](./168406-x-plane-11-fsdg-agadir.json) |
+| X-Plane 11: FSDG - Bremen XP | 168427 | [168427-x-plane-11-fsdg-bremen-xp.json](./168427-x-plane-11-fsdg-bremen-xp.json) |
+| X-Plane 11: FSDG - Dakar | 168426 | [168426-x-plane-11-fsdg-dakar.json](./168426-x-plane-11-fsdg-dakar.json) |
+| X-Plane 11: FSDG - Graz | 168423 | [168423-x-plane-11-fsdg-graz.json](./168423-x-plane-11-fsdg-graz.json) |
+| X-Plane 11: FSDG - Kapstadt XP | 168424 | [168424-x-plane-11-fsdg-kapstadt-xp.json](./168424-x-plane-11-fsdg-kapstadt-xp.json) |
+| X-Plane 11: FSDG - Mauritius | 168402 | [168402-x-plane-11-fsdg-mauritius.json](./168402-x-plane-11-fsdg-mauritius.json) |
+| X-Plane 11: FSDG - Sharm El-Sheikh XP | 168399 | [168399-x-plane-11-fsdg-sharm-el-sheikh-xp.json](./168399-x-plane-11-fsdg-sharm-el-sheikh-xp.json) |
+| X-Plane 11: Global Scenery - Africa | 168403 | [168403-x-plane-11-global-scenery-africa.json](./168403-x-plane-11-global-scenery-africa.json) |
+| X-Plane 11: Global Scenery - Asia | 168421 | [168421-x-plane-11-global-scenery-asia.json](./168421-x-plane-11-global-scenery-asia.json) |
+| X-Plane 11: Global Scenery - Europe | 168414 | [168414-x-plane-11-global-scenery-europe.json](./168414-x-plane-11-global-scenery-europe.json) |
+| X-Plane 11: Global Scenery - North America | 168425 | [168425-x-plane-11-global-scenery-north-america.json](./168425-x-plane-11-global-scenery-north-america.json) |
+| X-Plane 11: Global Scenery - South America | 168420 | [168420-x-plane-11-global-scenery-south-america.json](./168420-x-plane-11-global-scenery-south-america.json) |
+| X-Plane 11: Globall Art - CYYZ: Toronto Pearson International | 168415 | [168415-x-plane-11-globall-art-cyyz-toronto-pearson-international.json](./168415-x-plane-11-globall-art-cyyz-toronto-pearson-international.json) |
 | X-Plane 11: Globall Art - SBGR: São Paulo - Guarulhos International Airport | 204929 | [204929-x-plane-11-globall-art-sbgr-sao-paulo-guarulhos-international-airport.json](./204929-x-plane-11-globall-art-sbgr-sao-paulo-guarulhos-international-airport.json) |
 | X-Plane 11: Globall Art CYUL - Montreal International Airport | 162794 | [162794-x-plane-11-globall-art-cyul-montreal-international-airport.json](./162794-x-plane-11-globall-art-cyul-montreal-international-airport.json) |
 | X-Plane 11: JustAsia - CYYT: St. John's International Airport | 162821 | [162821-x-plane-11-justasia-cyyt-st-johns-international-airport.json](./162821-x-plane-11-justasia-cyyt-st-johns-international-airport.json) |
@@ -245,10 +275,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 11: Pilot's - LEAM: Almeria Airport | 162802 | [162802-x-plane-11-pilots-leam-almeria-airport.json](./162802-x-plane-11-pilots-leam-almeria-airport.json) |
 | X-Plane 11: SAM Airport Vehicles | 162779 | [162779-x-plane-11-sam-airport-vehicles.json](./162779-x-plane-11-sam-airport-vehicles.json) |
 | X-Plane 11: Skyline Simulations - KAST: Astoria Regional Airport | 204219 | [204219-x-plane-11-skyline-simulations-kast-astoria-regional-airport.json](./204219-x-plane-11-skyline-simulations-kast-astoria-regional-airport.json) |
+| X-Plane 11: Skyline Simulations - KCVG: Cincinnati/Northern Kentucky International XP | 168405 | [168405-x-plane-11-skyline-simulations-kcvg-cincinnati-northern-kentucky-international-xp.json](./168405-x-plane-11-skyline-simulations-kcvg-cincinnati-northern-kentucky-international-xp.json) |
 | X-Plane 11: Skyline Simulations - KLGB: Long Beach Airport XP | 162813 | [162813-x-plane-11-skyline-simulations-klgb-long-beach-airport-xp.json](./162813-x-plane-11-skyline-simulations-klgb-long-beach-airport-xp.json) |
+| X-Plane 11: Skyline Simulations - KSNA: John Wayne International | 168404 | [168404-x-plane-11-skyline-simulations-ksna-john-wayne-international.json](./168404-x-plane-11-skyline-simulations-ksna-john-wayne-international.json) |
 | X-Plane 11: Skyline Simulations - LGSM: Samos Airport | 162757 | [162757-x-plane-11-skyline-simulations-lgsm-samos-airport.json](./162757-x-plane-11-skyline-simulations-lgsm-samos-airport.json) |
 | X-Plane 11: Skyline Simulations - LIAA: Terni Alvaro Leonardi Airport | 162791 | [162791-x-plane-11-skyline-simulations-liaa-terni-alvaro-leonardi-airport.json](./162791-x-plane-11-skyline-simulations-liaa-terni-alvaro-leonardi-airport.json) |
 | X-Plane 11: Skyline Simulations - LXGB: Gibraltar Airport | 162761 | [162761-x-plane-11-skyline-simulations-lxgb-gibraltar-airport.json](./162761-x-plane-11-skyline-simulations-lxgb-gibraltar-airport.json) |
+| X-Plane 11: Skyline Simulations - MKJS: Montego Bay Jamaica | 168397 | [168397-x-plane-11-skyline-simulations-mkjs-montego-bay-jamaica.json](./168397-x-plane-11-skyline-simulations-mkjs-montego-bay-jamaica.json) |
 | X-Plane 11: Skyline Simulations CYTZ - Billy Bishop Toronto City Airport | 162807 | [162807-x-plane-11-skyline-simulations-cytz-billy-bishop-toronto-city-airport.json](./162807-x-plane-11-skyline-simulations-cytz-billy-bishop-toronto-city-airport.json) |
 | X-Plane 12 Global Scenery: Asia | 220637 | [220637-x-plane-12-global-scenery-asia.json](./220637-x-plane-12-global-scenery-asia.json) |
 | X-Plane 12 Global Scenery: Australia, Oceania, Pacific | 220725 | [220725-x-plane-12-global-scenery-australia-oceania-pacific.json](./220725-x-plane-12-global-scenery-australia-oceania-pacific.json) |
