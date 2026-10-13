@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T20:41:48.599Z",
-  "total_missing": 207524,
+  "generated_at": "2026-10-13T20:50:13.072Z",
+  "total_missing": 207574,
   "games": [
     {
       "igdb_id": 191680,
@@ -7001,6 +7001,11 @@
       "igdb_id": 300012,
       "game_name": "3D Cyber Puck",
       "file": "missing/0-9/300012-3d-cyber-puck.json"
+    },
+    {
+      "igdb_id": 140266,
+      "game_name": "3D Defenders",
+      "file": "missing/0-9/140266-3d-defenders.json"
     },
     {
       "igdb_id": 263459,
@@ -92711,6 +92716,11 @@
       "igdb_id": 386301,
       "game_name": "Beyond: Fire & Ice",
       "file": "missing/B/386301-beyond-fire-and-ice.json"
+    },
+    {
+      "igdb_id": 140286,
+      "game_name": "Beyond: Light Advent",
+      "file": "missing/B/140286-beyond-light-advent.json"
     },
     {
       "igdb_id": 36464,
@@ -198703,6 +198713,11 @@
       "file": "missing/D/123011-daisenryaku-daitoua-kouboushi-dx-dai-ni-ji-sekai-taisen.json"
     },
     {
+      "igdb_id": 140284,
+      "game_name": "Daisenryaku Daitoua Kouboushi: Tora Tora Tora Ware Kishuu ni Seikou Seri",
+      "file": "missing/D/140284-daisenryaku-daitoua-kouboushi-tora-tora-tora-ware-kishuu-ni-seikou-seri.json"
+    },
+    {
       "igdb_id": 242519,
       "game_name": "Daisenryaku III '90",
       "file": "missing/D/242519-daisenryaku-iii-90.json"
@@ -199431,6 +199446,11 @@
       "igdb_id": 353211,
       "game_name": "Dance Central Spotlight: The Pussycat Dolls ft. Busta Rhymes - \"Don't Cha\"",
       "file": "missing/D/353211-dance-central-spotlight-the-pussycat-dolls-ft-busta-rhymes-dont-cha.json"
+    },
+    {
+      "igdb_id": 140274,
+      "game_name": "Dance Dance Revolution",
+      "file": "missing/D/140274-dance-dance-revolution.json"
     },
     {
       "igdb_id": 250255,
@@ -216683,6 +216703,11 @@
       "file": "missing/D/412989-deltas-discs.json"
     },
     {
+      "igdb_id": 140267,
+      "game_name": "Delta0",
+      "file": "missing/D/140267-delta0.json"
+    },
+    {
       "igdb_id": 264661,
       "game_name": "DeltaBlade 2700 Re:Create",
       "file": "missing/D/264661-deltablade-2700-re-create.json"
@@ -219336,6 +219361,11 @@
       "igdb_id": 415104,
       "game_name": "Derby Life: Ranch & Race",
       "file": "missing/D/415104-derby-life-ranch-and-race.json"
+    },
+    {
+      "igdb_id": 140282,
+      "game_name": "Derby Owners Club",
+      "file": "missing/D/140282-derby-owners-club.json"
     },
     {
       "igdb_id": 68102,
@@ -262803,6 +262833,11 @@
       "file": "missing/E/168391-echoes-of-the-past.json"
     },
     {
+      "igdb_id": 140249,
+      "game_name": "Echoes of the Past: Kingdom of Despair",
+      "file": "missing/E/140249-echoes-of-the-past-kingdom-of-despair.json"
+    },
+    {
       "igdb_id": 64639,
       "game_name": "Echoes of the Past: Royal House of Stone",
       "file": "missing/E/64639-echoes-of-the-past-royal-house-of-stone.json"
@@ -298483,6 +298518,11 @@
       "file": "missing/F/124813-fear-effect-sedna-collectors-edition.json"
     },
     {
+      "igdb_id": 140250,
+      "game_name": "Fear for Sale: City of the Past",
+      "file": "missing/F/140250-fear-for-sale-city-of-the-past.json"
+    },
+    {
       "igdb_id": 107836,
       "game_name": "Fear for Sale: City of the Past - Collector's Edition",
       "file": "missing/F/107836-fear-for-sale-city-of-the-past-collectors-edition.json"
@@ -298493,6 +298533,11 @@
       "file": "missing/F/88307-fear-for-sale-city-of-the-past-hd-a-hidden-object-mystery.json"
     },
     {
+      "igdb_id": 140251,
+      "game_name": "Fear for Sale: Endless Voyage",
+      "file": "missing/F/140251-fear-for-sale-endless-voyage.json"
+    },
+    {
       "igdb_id": 102204,
       "game_name": "Fear for Sale: Endless Voyage HD",
       "file": "missing/F/102204-fear-for-sale-endless-voyage-hd.json"
@@ -298501,6 +298546,11 @@
       "igdb_id": 187899,
       "game_name": "Fear For Sale: Hidden in the Darkness",
       "file": "missing/F/187899-fear-for-sale-hidden-in-the-darkness.json"
+    },
+    {
+      "igdb_id": 140252,
+      "game_name": "Fear for Sale: Mystery of McInroy Manor",
+      "file": "missing/F/140252-fear-for-sale-mystery-of-mcinroy-manor.json"
     },
     {
       "igdb_id": 104216,
@@ -321763,6 +321813,11 @@
       "file": "missing/F/136391-forza-horizon-4-expansions-bundle.json"
     },
     {
+      "igdb_id": 140285,
+      "game_name": "Forza Horizon 4: Formula Drift Car Pack",
+      "file": "missing/F/140285-forza-horizon-4-formula-drift-car-pack.json"
+    },
+    {
       "igdb_id": 153717,
       "game_name": "Forza Horizon 4: Icons Car Pack",
       "file": "missing/F/153717-forza-horizon-4-icons-car-pack.json"
@@ -343713,6 +343768,11 @@
       "file": "missing/G/342252-geo-challenge.json"
     },
     {
+      "igdb_id": 140270,
+      "game_name": "Geo Fighter",
+      "file": "missing/G/140270-geo-fighter.json"
+    },
+    {
       "igdb_id": 257471,
       "game_name": "Geo Gods",
       "file": "missing/G/257471-geo-gods.json"
@@ -345506,6 +345566,11 @@
       "igdb_id": 59453,
       "game_name": "Ghost Encounters",
       "file": "missing/G/59453-ghost-encounters.json"
+    },
+    {
+      "igdb_id": 140254,
+      "game_name": "Ghost Encounters: Deadwood",
+      "file": "missing/G/140254-ghost-encounters-deadwood.json"
     },
     {
       "igdb_id": 246830,
@@ -353251,6 +353316,11 @@
       "igdb_id": 387040,
       "game_name": "Gods of Nowhere",
       "file": "missing/G/387040-gods-of-nowhere.json"
+    },
+    {
+      "igdb_id": 140268,
+      "game_name": "Gods of Sand",
+      "file": "missing/G/140268-gods-of-sand.json"
     },
     {
       "igdb_id": 224727,
@@ -407513,6 +407583,11 @@
       "file": "missing/H/100584-howdy-the-western-game.json"
     },
     {
+      "igdb_id": 140258,
+      "game_name": "Howie Go Viral",
+      "file": "missing/H/140258-howie-go-viral.json"
+    },
+    {
       "igdb_id": 31710,
       "game_name": "Howl",
       "file": "missing/H/31710-howl.json"
@@ -422996,6 +423071,11 @@
       "igdb_id": 29924,
       "game_name": "Incredible Dracula II: The Last Call - Collector's Edition",
       "file": "missing/I/29924-incredible-dracula-ii-the-last-call-collectors-edition.json"
+    },
+    {
+      "igdb_id": 140255,
+      "game_name": "Incredible Dracula III: Family Secret",
+      "file": "missing/I/140255-incredible-dracula-iii-family-secret.json"
     },
     {
       "igdb_id": 53225,
@@ -460676,6 +460756,11 @@
       "igdb_id": 154033,
       "game_name": "Kingdom of the Untitled Magic",
       "file": "missing/K/154033-kingdom-of-the-untitled-magic.json"
+    },
+    {
+      "igdb_id": 140257,
+      "game_name": "Kingdom of the Winds: Yeon",
+      "file": "missing/K/140257-kingdom-of-the-winds-yeon.json"
     },
     {
       "igdb_id": 385315,
@@ -574148,6 +574233,11 @@
       "file": "missing/M/56172-mystery-case-files-the-black-veil.json"
     },
     {
+      "igdb_id": 140233,
+      "game_name": "Mystery Case Files: The Countess",
+      "file": "missing/M/140233-mystery-case-files-the-countess.json"
+    },
+    {
       "igdb_id": 243787,
       "game_name": "Mystery Case Files: The Dalimar Legacy - Collector's Edition",
       "file": "missing/M/243787-mystery-case-files-the-dalimar-legacy-collectors-edition.json"
@@ -574156,6 +574246,11 @@
       "igdb_id": 236009,
       "game_name": "Mystery Case Files: The Last Resort - Collector's Edition",
       "file": "missing/M/236009-mystery-case-files-the-last-resort-collectors-edition.json"
+    },
+    {
+      "igdb_id": 140234,
+      "game_name": "Mystery Case Files: The Revenant's Hunt",
+      "file": "missing/M/140234-mystery-case-files-the-revenants-hunt.json"
     },
     {
       "igdb_id": 360051,
@@ -574473,14 +574568,29 @@
       "file": "missing/M/356775-mystery-of-myths-mystery-of-the-fjords-collectors-edition.json"
     },
     {
+      "igdb_id": 140235,
+      "game_name": "Mystery of the Ancients: Curse of the Black Water",
+      "file": "missing/M/140235-mystery-of-the-ancients-curse-of-the-black-water.json"
+    },
+    {
       "igdb_id": 107837,
       "game_name": "Mystery of the Ancients: Curse of the Black Water - Collector's Edition",
       "file": "missing/M/107837-mystery-of-the-ancients-curse-of-the-black-water-collectors-edition.json"
     },
     {
+      "igdb_id": 140236,
+      "game_name": "Mystery of the Ancients: Deadly Cold",
+      "file": "missing/M/140236-mystery-of-the-ancients-deadly-cold.json"
+    },
+    {
       "igdb_id": 74415,
       "game_name": "Mystery of the Ancients: Mudwater Creek",
       "file": "missing/M/74415-mystery-of-the-ancients-mudwater-creek.json"
+    },
+    {
+      "igdb_id": 140237,
+      "game_name": "Mystery of the Ancients: Three Guardians",
+      "file": "missing/M/140237-mystery-of-the-ancients-three-guardians.json"
     },
     {
       "igdb_id": 117133,
@@ -574678,6 +574788,11 @@
       "file": "missing/M/63120-mystery-stories-mountains-of-madness.json"
     },
     {
+      "igdb_id": 140238,
+      "game_name": "Mystery Tales: Alaskan Wild",
+      "file": "missing/M/140238-mystery-tales-alaskan-wild.json"
+    },
+    {
       "igdb_id": 187922,
       "game_name": "Mystery Tales: Art and Souls",
       "file": "missing/M/187922-mystery-tales-art-and-souls.json"
@@ -574698,9 +574813,19 @@
       "file": "missing/M/181645-mystery-tales-the-house-of-others.json"
     },
     {
+      "igdb_id": 140239,
+      "game_name": "Mystery Tales: The Twilight World",
+      "file": "missing/M/140239-mystery-tales-the-twilight-world.json"
+    },
+    {
       "igdb_id": 74994,
       "game_name": "Mystery Tales: The Twilight World - Collector's Edition",
       "file": "missing/M/74994-mystery-tales-the-twilight-world-collectors-edition.json"
+    },
+    {
+      "igdb_id": 140240,
+      "game_name": "Mystery Tales: Til Death",
+      "file": "missing/M/140240-mystery-tales-til-death.json"
     },
     {
       "igdb_id": 79536,
@@ -575878,9 +576003,19 @@
       "file": "missing/M/262452-myths-of-rules.json"
     },
     {
+      "igdb_id": 140241,
+      "game_name": "Myths of the World: Behind the Veil",
+      "file": "missing/M/140241-myths-of-the-world-behind-the-veil.json"
+    },
+    {
       "igdb_id": 83915,
       "game_name": "Myths of the World: Behind the Veil - Collector's Edition",
       "file": "missing/M/83915-myths-of-the-world-behind-the-veil-collectors-edition.json"
+    },
+    {
+      "igdb_id": 140242,
+      "game_name": "Myths of the World: Black Rose",
+      "file": "missing/M/140242-myths-of-the-world-black-rose.json"
     },
     {
       "igdb_id": 104490,
@@ -575888,9 +576023,19 @@
       "file": "missing/M/104490-myths-of-the-world-black-rose-hd.json"
     },
     {
+      "igdb_id": 140243,
+      "game_name": "Myths of the World: Chinese Healer",
+      "file": "missing/M/140243-myths-of-the-world-chinese-healer.json"
+    },
+    {
       "igdb_id": 30679,
       "game_name": "Myths of the World: Chinese Healer - Collector's Edition",
       "file": "missing/M/30679-myths-of-the-world-chinese-healer-collectors-edition.json"
+    },
+    {
+      "igdb_id": 140244,
+      "game_name": "Myths of the World: Of Fiends and Fairies",
+      "file": "missing/M/140244-myths-of-the-world-of-fiends-and-fairies.json"
     },
     {
       "igdb_id": 102943,
@@ -575908,9 +576053,19 @@
       "file": "missing/M/89486-myths-of-the-world-olympus.json"
     },
     {
+      "igdb_id": 140245,
+      "game_name": "Myths of the World: Spirit Wolf",
+      "file": "missing/M/140245-myths-of-the-world-spirit-wolf.json"
+    },
+    {
       "igdb_id": 83555,
       "game_name": "Myths of the World: Spirit Wolf - Collector's Edition",
       "file": "missing/M/83555-myths-of-the-world-spirit-wolf-collectors-edition.json"
+    },
+    {
+      "igdb_id": 140246,
+      "game_name": "Myths of the World: Stolen Spring",
+      "file": "missing/M/140246-myths-of-the-world-stolen-spring.json"
     },
     {
       "igdb_id": 28742,
@@ -591488,9 +591643,19 @@
       "file": "missing/N/53419-nightmares-from-the-deep-collection.json"
     },
     {
+      "igdb_id": 140247,
+      "game_name": "Nightmares from the Deep: Cursed Heart",
+      "file": "missing/N/140247-nightmares-from-the-deep-cursed-heart.json"
+    },
+    {
       "igdb_id": 54250,
       "game_name": "Nightmares from the Deep: Cursed Heart - Collector's Edition",
       "file": "missing/N/54250-nightmares-from-the-deep-cursed-heart-collectors-edition.json"
+    },
+    {
+      "igdb_id": 140248,
+      "game_name": "Nightmares from the Deep: Davy Jones",
+      "file": "missing/N/140248-nightmares-from-the-deep-davy-jones.json"
     },
     {
       "igdb_id": 88643,
@@ -622143,6 +622308,11 @@
       "file": "missing/P/28186-pac-man-maker.json"
     },
     {
+      "igdb_id": 140269,
+      "game_name": "Pac-Man Mega Tunnel Battle",
+      "file": "missing/P/140269-pac-man-mega-tunnel-battle.json"
+    },
+    {
       "igdb_id": 300927,
       "game_name": "Pac-Man Mega Tunnel Battle: Chomp Champs - Lunar Animals Pac",
       "file": "missing/P/300927-pac-man-mega-tunnel-battle-chomp-champs-lunar-animals-pac.json"
@@ -628026,6 +628196,11 @@
       "igdb_id": 13253,
       "game_name": "Paradroid 90",
       "file": "missing/P/13253-paradroid-90.json"
+    },
+    {
+      "igdb_id": 140260,
+      "game_name": "Paradroid: Competition Edition",
+      "file": "missing/P/140260-paradroid-competition-edition.json"
     },
     {
       "igdb_id": 320011,
@@ -678398,6 +678573,11 @@
       "file": "missing/P/385255-punish-me.json"
     },
     {
+      "igdb_id": 140275,
+      "game_name": "Punished Talents: Seven Muses",
+      "file": "missing/P/140275-punished-talents-seven-muses.json"
+    },
+    {
       "igdb_id": 29063,
       "game_name": "Punished Talents: Seven Muses - Collector's Edition",
       "file": "missing/P/29063-punished-talents-seven-muses-collectors-edition.json"
@@ -678678,6 +678858,11 @@
       "file": "missing/P/187931-puppetshow-fatal-mistake.json"
     },
     {
+      "igdb_id": 140276,
+      "game_name": "PuppetShow: Lightning Strikes",
+      "file": "missing/P/140276-puppetshow-lightning-strikes.json"
+    },
+    {
       "igdb_id": 25926,
       "game_name": "PuppetShow: Mystery of Joyville",
       "file": "missing/P/25926-puppetshow-mystery-of-joyville.json"
@@ -678688,9 +678873,24 @@
       "file": "missing/P/187912-puppetshow-poetic-justice.json"
     },
     {
+      "igdb_id": 140277,
+      "game_name": "PuppetShow: Porcelain Smile",
+      "file": "missing/P/140277-puppetshow-porcelain-smile.json"
+    },
+    {
       "igdb_id": 115526,
       "game_name": "PuppetShow: Porcelain Smile - Collector's Edition",
       "file": "missing/P/115526-puppetshow-porcelain-smile-collectors-edition.json"
+    },
+    {
+      "igdb_id": 140278,
+      "game_name": "PuppetShow: Return to Joyville",
+      "file": "missing/P/140278-puppetshow-return-to-joyville.json"
+    },
+    {
+      "igdb_id": 140279,
+      "game_name": "PuppetShow: Souls of the Innocent",
+      "file": "missing/P/140279-puppetshow-souls-of-the-innocent.json"
     },
     {
       "igdb_id": 107077,
@@ -685556,6 +685756,11 @@
       "igdb_id": 108963,
       "game_name": "Queen's Tales: Sins of the Past HD",
       "file": "missing/Q/108963-queens-tales-sins-of-the-past-hd.json"
+    },
+    {
+      "igdb_id": 140280,
+      "game_name": "Queen's Tales: The Beast and the Nightingale",
+      "file": "missing/Q/140280-queens-tales-the-beast-and-the-nightingale.json"
     },
     {
       "igdb_id": 29189,
@@ -730721,6 +730926,11 @@
       "igdb_id": 30045,
       "game_name": "Sable Maze: Sullivan River - Collector's Edition",
       "file": "missing/S/30045-sable-maze-sullivan-river-collectors-edition.json"
+    },
+    {
+      "igdb_id": 140281,
+      "game_name": "Sable Maze: Twelve Fears",
+      "file": "missing/S/140281-sable-maze-twelve-fears.json"
     },
     {
       "igdb_id": 110347,
@@ -830828,6 +831038,11 @@
       "file": "missing/S/90808-super-city-special-edition.json"
     },
     {
+      "igdb_id": 140273,
+      "game_name": "Super City: Superhero Sim",
+      "file": "missing/S/140273-super-city-superhero-sim.json"
+    },
+    {
       "igdb_id": 232541,
       "game_name": "Super Citycon: City Builder",
       "file": "missing/S/232541-super-citycon-city-builder.json"
@@ -911918,6 +912133,11 @@
       "file": "missing/T/226439-the-winter-tower.json"
     },
     {
+      "igdb_id": 140264,
+      "game_name": "The Winter's Deal",
+      "file": "missing/T/140264-the-winters-deal.json"
+    },
+    {
       "igdb_id": 31955,
       "game_name": "The Wire",
       "file": "missing/T/31955-the-wire.json"
@@ -959513,6 +959733,11 @@
       "file": "missing/T/144912-two-point-hospital-close-encounters.json"
     },
     {
+      "igdb_id": 140283,
+      "game_name": "Two Point Hospital: Culture Shock",
+      "file": "missing/T/140283-two-point-hospital-culture-shock.json"
+    },
+    {
       "igdb_id": 223541,
       "game_name": "Two Point Hospital: Exhibition Items Pack",
       "file": "missing/T/223541-two-point-hospital-exhibition-items-pack.json"
@@ -969968,6 +970193,11 @@
       "file": "missing/U/120819-unsolved-mystery-club-amelia-earhart.json"
     },
     {
+      "igdb_id": 140256,
+      "game_name": "Unsolved Mystery Club: Ancient Astronauts",
+      "file": "missing/U/140256-unsolved-mystery-club-ancient-astronauts.json"
+    },
+    {
       "igdb_id": 86535,
       "game_name": "Unsolved Stories",
       "file": "missing/U/86535-unsolved-stories.json"
@@ -971826,6 +972056,11 @@
       "igdb_id": 12808,
       "game_name": "Uridium 2",
       "file": "missing/U/12808-uridium-2.json"
+    },
+    {
+      "igdb_id": 140259,
+      "game_name": "Uridium Plus",
+      "file": "missing/U/140259-uridium-plus.json"
     },
     {
       "igdb_id": 343367,
@@ -977933,9 +978168,19 @@
       "file": "missing/V/416147-vermillion-watch-fleshbound-collectors-edition.json"
     },
     {
+      "igdb_id": 140262,
+      "game_name": "Vermillion Watch: Moorgate Accord",
+      "file": "missing/V/140262-vermillion-watch-moorgate-accord.json"
+    },
+    {
       "igdb_id": 74312,
       "game_name": "Vermillion Watch: Order Zero",
       "file": "missing/V/74312-vermillion-watch-order-zero.json"
+    },
+    {
+      "igdb_id": 140263,
+      "game_name": "Vermillion Watch: Parisian Pursuit",
+      "file": "missing/V/140263-vermillion-watch-parisian-pursuit.json"
     },
     {
       "igdb_id": 232696,
@@ -1033656,6 +1033901,11 @@
       "igdb_id": 167170,
       "game_name": "Zoey: My Hentai Sex Doll",
       "file": "missing/Z/167170-zoey-my-hentai-sex-doll.json"
+    },
+    {
+      "igdb_id": 140261,
+      "game_name": "Zof",
+      "file": "missing/Z/140261-zof.json"
     },
     {
       "igdb_id": 247957,
