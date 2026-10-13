@@ -4100,6 +4100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Assault | 66623 | [66623-alien-assault.json](./66623-alien-assault.json) |
 | Alien Attack | 313465 | [313465-alien-attack.json](./313465-alien-attack.json) |
 | Alien Attack | 344944 | [344944-alien-attack.json](./344944-alien-attack.json) |
+| Alien Attack: Zero | 167928 | [167928-alien-attack-zero.json](./167928-alien-attack-zero.json) |
 | Alien Bash | 76198 | [76198-alien-bash.json](./76198-alien-bash.json) |
 | Alien Bash II | 38859 | [38859-alien-bash-ii.json](./38859-alien-bash-ii.json) |
 | Alien Battlefield | 232940 | [232940-alien-battlefield.json](./232940-alien-battlefield.json) |
@@ -6513,6 +6514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime vs. Evil: Apocalypse | 238081 | [238081-anime-vs-evil-apocalypse.json](./238081-anime-vs-evil-apocalypse.json) |
 | Anime War: Modern Campaign | 135664 | [135664-anime-war-modern-campaign.json](./135664-anime-war-modern-campaign.json) |
 | Anime Wave Simulator | 156668 | [156668-anime-wave-simulator.json](./156668-anime-wave-simulator.json) |
+| Anime World | 167886 | [167886-anime-world.json](./167886-anime-world.json) |
 | Anime-dle | 337089 | [337089-anime-dle.json](./337089-anime-dle.json) |
 | Anime: Fantasy Uni | 393625 | [393625-anime-fantasy-uni.json](./393625-anime-fantasy-uni.json) |
 | Anime: Fantasy Uni 3 | 392866 | [392866-anime-fantasy-uni-3.json](./392866-anime-fantasy-uni-3.json) |
@@ -9238,6 +9240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aruaru xx-san wo Sagase! | 251605 | [251605-aruaru-xx-san-wo-sagase.json](./251605-aruaru-xx-san-wo-sagase.json) |
 | Arui ha Koi to Iu Na no Mahou | 416690 | [416690-arui-ha-koi-to-iu-na-no-mahou.json](./416690-arui-ha-koi-to-iu-na-no-mahou.json) |
 | Aruma Ketera | 382787 | [382787-aruma-ketera.json](./382787-aruma-ketera.json) |
+| Aruna | 167889 | [167889-aruna.json](./167889-aruna.json) |
 | Arvale | 14787 | [14787-arvale.json](./14787-arvale.json) |
 | Arvis Punch | 329015 | [329015-arvis-punch.json](./329015-arvis-punch.json) |
 | Arvita | 115802 | [115802-arvita.json](./115802-arvita.json) |
@@ -10625,6 +10628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomical | 364367 | [364367-atomical.json](./364367-atomical.json) |
 | Atomicrops | 76954 | [76954-atomicrops.json](./76954-atomicrops.json) |
 | Atomicrops: Deluxe Edition | 154542 | [154542-atomicrops-deluxe-edition.json](./154542-atomicrops-deluxe-edition.json) |
+| Atomicrops: Invasive Species | 167929 | [167929-atomicrops-invasive-species.json](./167929-atomicrops-invasive-species.json) |
 | Atomicrops: Reap What You Crow | 196051 | [196051-atomicrops-reap-what-you-crow.json](./196051-atomicrops-reap-what-you-crow.json) |
 | Atomind | 93547 | [93547-atomind.json](./93547-atomind.json) |
 | Atomine | 28554 | [28554-atomine.json](./28554-atomine.json) |
