@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth: Roll of Fate | 309494 | [309494-labyrinth-roll-of-fate.json](./309494-labyrinth-roll-of-fate.json) |
 | Labyrinth: The War on Terror | 129983 | [129983-labyrinth-the-war-on-terror.json](./129983-labyrinth-the-war-on-terror.json) |
 | Labyrinth: The Wizard's Cat | 296486 | [296486-labyrinth-the-wizards-cat.json](./296486-labyrinth-the-wizards-cat.json) |
+| Labyrinth.os | 144691 | [144691-labyrinth-os.json](./144691-labyrinth-os.json) |
 | Labyrinthatory | 258639 | [258639-labyrinthatory.json](./258639-labyrinthatory.json) |
 | Labyrinthe | 242259 | [242259-labyrinthe.json](./242259-labyrinthe.json) |
 | LabyrinTheam | 399687 | [399687-labyrintheam.json](./399687-labyrintheam.json) |
@@ -5827,6 +5828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love: A Puzzle Box Filled with Stories | 139280 | [139280-love-a-puzzle-box-filled-with-stories.json](./139280-love-a-puzzle-box-filled-with-stories.json) |
 | Love: Fall in Death | 379670 | [379670-love-fall-in-death.json](./379670-love-fall-in-death.json) |
 | Love: Spice! | 270848 | [270848-love-spice.json](./270848-love-spice.json) |
+| Love:Quiz Koi Suru Otome no Final Answer | 144736 | [144736-love-quiz-koi-suru-otome-no-final-answer.json](./144736-love-quiz-koi-suru-otome-no-final-answer.json) |
 | Love! Truth! Puzzle! | 169262 | [169262-love-truth-puzzle.json](./169262-love-truth-puzzle.json) |
 | Love's Eternal Wishes | 298898 | [298898-loves-eternal-wishes.json](./298898-loves-eternal-wishes.json) |
 | Love's Fiery Imbroglio | 73372 | [73372-loves-fiery-imbroglio.json](./73372-loves-fiery-imbroglio.json) |
