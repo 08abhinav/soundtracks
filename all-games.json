@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T20:40:14.099Z",
-  "total_soundtracks": 1607,
+  "generated_at": "2026-10-13T20:40:30.389Z",
+  "total_soundtracks": 1608,
   "games": [
     {
       "igdb_id": 7522,
@@ -17495,6 +17495,20 @@
           "spotify_url": "https://music.apple.com/us/album/vestige-of-the-past-original-soundtrack/1535312575?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1535312575"
+        }
+      ]
+    },
+    {
+      "igdb_id": 9180,
+      "game_name": "Victor Vran",
+      "game_url": "https://ostdb.net/games/victor-vran",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27330a338054246eaefa9ef1046",
+      "albums": [
+        {
+          "album_name": "Victor Vran (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/14psQ8YGy9TiVCwH4kplaz",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
