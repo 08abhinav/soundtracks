@@ -1702,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Klowns From Outer Space: The Game - Digital Deluxe Edition | 303285 | [303285-killer-klowns-from-outer-space-the-game-digital-deluxe-edition.json](./303285-killer-klowns-from-outer-space-the-game-digital-deluxe-edition.json) |
 | Killer Koobs | 224078 | [224078-killer-koobs.json](./224078-killer-koobs.json) |
 | Killer Loop | 45210 | [45210-killer-loop.json](./45210-killer-loop.json) |
+| Killer Motive | 148330 | [148330-killer-motive.json](./148330-killer-motive.json) |
 | Killer of Kings | 397941 | [397941-killer-of-kings.json](./397941-killer-of-kings.json) |
 | Killer Pool | 175279 | [175279-killer-pool.json](./175279-killer-pool.json) |
 | Killer Satellites | 18570 | [18570-killer-satellites.json](./18570-killer-satellites.json) |
