@@ -2277,6 +2277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Ride! AMDriver: Shutsugeki! Battle Party | 49604 | [49604-get-ride-amdriver-shutsugeki-battle-party.json](./49604-get-ride-amdriver-shutsugeki-battle-party.json) |
 | Get Slapped! | 258405 | [258405-get-slapped.json](./258405-get-slapped.json) |
 | Get Some | 53083 | [53083-get-some.json](./53083-get-some.json) |
+| Get Stuffed! | 175655 | [175655-get-stuffed.json](./175655-get-stuffed.json) |
 | Get Tanked! | 169863 | [169863-get-tanked.json](./169863-get-tanked.json) |
 | Get the Ball Rolling | 211929 | [211929-get-the-ball-rolling.json](./211929-get-the-ball-rolling.json) |
 | Get The Beer | 273914 | [273914-get-the-beer.json](./273914-get-the-beer.json) |
@@ -3310,6 +3311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory & Honor | 105263 | [105263-glory-and-honor.json](./105263-glory-and-honor.json) |
 | Glory Days 2 | 21230 | [21230-glory-days-2.json](./21230-glory-days-2.json) |
 | Glory Days: Tactical Defense | 84509 | [84509-glory-days-tactical-defense.json](./84509-glory-days-tactical-defense.json) |
+| Glory Heyday | 175670 | [175670-glory-heyday.json](./175670-glory-heyday.json) |
 | Glory Hold | 151117 | [151117-glory-hold.json](./151117-glory-hold.json) |
 | Glory Hounds | 210700 | [210700-glory-hounds.json](./210700-glory-hounds.json) |
 | Glory of Generals | 84508 | [84508-glory-of-generals.json](./84508-glory-of-generals.json) |
