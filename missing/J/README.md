@@ -1353,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikoronpa: Laments of Isolation | 341073 | [341073-jikoronpa-laments-of-isolation.json](./341073-jikoronpa-laments-of-isolation.json) |
 | Jikuu Boukenki Zentrix | 210683 | [210683-jikuu-boukenki-zentrix.json](./210683-jikuu-boukenki-zentrix.json) |
 | Jikuu Senki Mu | 298801 | [298801-jikuu-senki-mu.json](./298801-jikuu-senki-mu.json) |
+| Jikuu Tantei DD 2: Hangyaku No Apsalar | 154835 | [154835-jikuu-tantei-dd-2-hangyaku-no-apsalar.json](./154835-jikuu-tantei-dd-2-hangyaku-no-apsalar.json) |
 | Jikuu Tantei DD: Maboroshi no Lorelei | 57052 | [57052-jikuu-tantei-dd-maboroshi-no-lorelei.json](./57052-jikuu-tantei-dd-maboroshi-no-lorelei.json) |
 | Jikuu Yuuden: Debias | 48610 | [48610-jikuu-yuuden-debias.json](./48610-jikuu-yuuden-debias.json) |
 | Jill O' Lantern | 320971 | [320971-jill-o-lantern.json](./320971-jill-o-lantern.json) |
@@ -1980,10 +1981,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ju-on: The Grudge | 4945 | [4945-ju-on-the-grudge.json](./4945-ju-on-the-grudge.json) |
 | Juanito Arcade Mayhem | 36629 | [36629-juanito-arcade-mayhem.json](./36629-juanito-arcade-mayhem.json) |
 | Jubaku | 422123 | [422123-jubaku.json](./422123-jubaku.json) |
+| Jubeat | 154841 | [154841-jubeat.json](./154841-jubeat.json) |
 | Jubeat | 79960 | [79960-jubeat.json](./79960-jubeat.json) |
 | Jubeat Clan | 125280 | [125280-jubeat-clan.json](./125280-jubeat-clan.json) |
 | Jubeat Copious | 84438 | [84438-jubeat-copious.json](./84438-jubeat-copious.json) |
 | Jubeat Knit | 92070 | [92070-jubeat-knit.json](./92070-jubeat-knit.json) |
+| Jubeat Mobile | 154838 | [154838-jubeat-mobile.json](./154838-jubeat-mobile.json) |
+| Jubeat Mobile 2 | 154840 | [154840-jubeat-mobile-2.json](./154840-jubeat-mobile-2.json) |
 | Jubeat Plus | 76996 | [76996-jubeat-plus.json](./76996-jubeat-plus.json) |
 | Jubeat Prop | 268568 | [268568-jubeat-prop.json](./268568-jubeat-prop.json) |
 | Jubeat Ripples | 91903 | [91903-jubeat-ripples.json](./91903-jubeat-ripples.json) |
