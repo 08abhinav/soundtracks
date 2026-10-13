@@ -3381,6 +3381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA European Tour Golf | 209983 | [209983-pga-european-tour-golf.json](./209983-pga-european-tour-golf.json) |
 | PGA Tour 2K21 | 133939 | [133939-pga-tour-2k21.json](./133939-pga-tour-2k21.json) |
 | PGA Tour 2K21: Baller Edition | 176792 | [176792-pga-tour-2k21-baller-edition.json](./176792-pga-tour-2k21-baller-edition.json) |
+| PGA Tour 2K21: Deluxe Edition | 136291 | [136291-pga-tour-2k21-deluxe-edition.json](./136291-pga-tour-2k21-deluxe-edition.json) |
 | PGA Tour 2K23: Deluxe Edition | 214136 | [214136-pga-tour-2k23-deluxe-edition.json](./214136-pga-tour-2k23-deluxe-edition.json) |
 | PGA Tour 2K23: Style & Swing Pack | 307973 | [307973-pga-tour-2k23-style-and-swing-pack.json](./307973-pga-tour-2k23-style-and-swing-pack.json) |
 | PGA Tour 2K23: Tiger Woods Edition | 221421 | [221421-pga-tour-2k23-tiger-woods-edition.json](./221421-pga-tour-2k23-tiger-woods-edition.json) |
@@ -4382,6 +4383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillars of Eternity II: Deadfire - Obsidian Edition | 83895 | [83895-pillars-of-eternity-ii-deadfire-obsidian-edition.json](./83895-pillars-of-eternity-ii-deadfire-obsidian-edition.json) |
 | Pillars of Eternity II: Deadfire - Rum Runner’s Pack | 154457 | [154457-pillars-of-eternity-ii-deadfire-rum-runner-s-pack.json](./154457-pillars-of-eternity-ii-deadfire-rum-runner-s-pack.json) |
 | Pillars of Eternity II: Deadfire - Scalawags Pack | 154456 | [154456-pillars-of-eternity-ii-deadfire-scalawags-pack.json](./154456-pillars-of-eternity-ii-deadfire-scalawags-pack.json) |
+| Pillars of Eternity II: Deadfire - Ultimate Collector's Edition | 136131 | [136131-pillars-of-eternity-ii-deadfire-ultimate-collectors-edition.json](./136131-pillars-of-eternity-ii-deadfire-ultimate-collectors-edition.json) |
 | Pillars of Eternity: Champion Edition | 51890 | [51890-pillars-of-eternity-champion-edition.json](./51890-pillars-of-eternity-champion-edition.json) |
 | Pillars of Eternity: Definitive Edition | 75357 | [75357-pillars-of-eternity-definitive-edition.json](./75357-pillars-of-eternity-definitive-edition.json) |
 | Pillars of Eternity: Hero Edition | 51889 | [51889-pillars-of-eternity-hero-edition.json](./51889-pillars-of-eternity-hero-edition.json) |
@@ -5115,6 +5117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piske & Usagi's Short Trip | 263570 | [263570-piske-and-usagis-short-trip.json](./263570-piske-and-usagis-short-trip.json) |
 | Piso 6 | 366364 | [366364-piso-6.json](./366364-piso-6.json) |
 | Piso Zero | 272302 | [272302-piso-zero.json](./272302-piso-zero.json) |
+| Piss | 136133 | [136133-piss.json](./136133-piss.json) |
 | Piss Off | 331295 | [331295-piss-off.json](./331295-piss-off.json) |
 | Pissed Off: Peeing Simulator | 326262 | [326262-pissed-off-peeing-simulator.json](./326262-pissed-off-peeing-simulator.json) |
 | PISTA Motorsport | 251855 | [251855-pista-motorsport.json](./251855-pista-motorsport.json) |
@@ -9332,6 +9335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prey the Stars | 21337 | [21337-prey-the-stars.json](./21337-prey-the-stars.json) |
 | Prey with Gun | 91426 | [91426-prey-with-gun.json](./91426-prey-with-gun.json) |
 | Prey: An Alien Encounter | 38843 | [38843-prey-an-alien-encounter.json](./38843-prey-an-alien-encounter.json) |
+| Prey: Deluxe Edition | 136146 | [136146-prey-deluxe-edition.json](./136146-prey-deluxe-edition.json) |
 | Prey: Limited Collector's Edition | 47397 | [47397-prey-limited-collectors-edition.json](./47397-prey-limited-collectors-edition.json) |
 | Preytiger | 181734 | [181734-preytiger.json](./181734-preytiger.json) |
 | Prezzemolo in un Viaggio da Sogno | 305292 | [305292-prezzemolo-in-un-viaggio-da-sogno.json](./305292-prezzemolo-in-un-viaggio-da-sogno.json) |
