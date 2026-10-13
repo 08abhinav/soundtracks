@@ -3447,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into The Haunted Land | 403833 | [403833-into-the-haunted-land.json](./403833-into-the-haunted-land.json) |
 | Into the Hive | 276749 | [276749-into-the-hive.json](./276749-into-the-hive.json) |
 | Into the Inferno | 258629 | [258629-into-the-inferno.json](./258629-into-the-inferno.json) |
+| Into the Light | 157424 | [157424-into-the-light.json](./157424-into-the-light.json) |
 | Into the Loop | 153843 | [153843-into-the-loop.json](./153843-into-the-loop.json) |
 | Into the M.A.W. | 309857 | [309857-into-the-m-a-w.json](./309857-into-the-m-a-w.json) |
 | Into The Matrix | 319288 | [319288-into-the-matrix.json](./319288-into-the-matrix.json) |
