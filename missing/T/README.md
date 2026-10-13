@@ -6095,6 +6095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fan Game: Back to the Future - Part III: Timeline of Monkey Island | 279213 | [279213-the-fan-game-back-to-the-future-part-iii-timeline-of-monkey-island.json](./279213-the-fan-game-back-to-the-future-part-iii-timeline-of-monkey-island.json) |
 | The Fancy Pants Adventure: World 3 | 65260 | [65260-the-fancy-pants-adventure-world-3.json](./65260-the-fancy-pants-adventure-world-3.json) |
 | The Fancy Pants Adventures Prequel | 143469 | [143469-the-fancy-pants-adventures-prequel.json](./143469-the-fancy-pants-adventures-prequel.json) |
+| The Fancy Pants Adventures: Classic Pack | 158417 | [158417-the-fancy-pants-adventures-classic-pack.json](./158417-the-fancy-pants-adventures-classic-pack.json) |
 | The Fancy Pants Adventures: World 1 | 66010 | [66010-the-fancy-pants-adventures-world-1.json](./66010-the-fancy-pants-adventures-world-1.json) |
 | The Fancy Pants Adventures: World 1 Remaster | 144384 | [144384-the-fancy-pants-adventures-world-1-remaster.json](./144384-the-fancy-pants-adventures-world-1-remaster.json) |
 | The Fancy Pants Adventures: World 2 | 66009 | [66009-the-fancy-pants-adventures-world-2.json](./66009-the-fancy-pants-adventures-world-2.json) |
@@ -9477,6 +9478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Olympics | 13260 | [13260-the-olympics.json](./13260-the-olympics.json) |
 | The Omega Reach | 404351 | [404351-the-omega-reach.json](./404351-the-omega-reach.json) |
 | The Omega Stone: Riddle of the Sphinx II | 71524 | [71524-the-omega-stone-riddle-of-the-sphinx-ii.json](./71524-the-omega-stone-riddle-of-the-sphinx-ii.json) |
+| The OmniGallery | 158412 | [158412-the-omnigallery.json](./158412-the-omnigallery.json) |
 | The One | 289973 | [289973-the-one.json](./289973-the-one.json) |
 | The One Behind You | 408284 | [408284-the-one-behind-you.json](./408284-the-one-behind-you.json) |
 | The One Fish | 410892 | [410892-the-one-fish.json](./410892-the-one-fish.json) |
