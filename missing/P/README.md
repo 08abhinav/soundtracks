@@ -10971,6 +10971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proxima B | 391708 | [391708-proxima-b.json](./391708-proxima-b.json) |
 | Proximate | 282108 | [282108-proximate.json](./282108-proximate.json) |
 | Proxy Adventure: Simulation Room | 346748 | [346748-proxy-adventure-simulation-room.json](./346748-proxy-adventure-simulation-room.json) |
+| Proxy Air Force | 133108 | [133108-proxy-air-force.json](./133108-proxy-air-force.json) |
 | Proxy Blade | 62825 | [62825-proxy-blade.json](./62825-proxy-blade.json) |
 | Proxy Comics HD | 62252 | [62252-proxy-comics-hd.json](./62252-proxy-comics-hd.json) |
 | Proze: Enlightenment | 116132 | [116132-proze-enlightenment.json](./116132-proze-enlightenment.json) |
