@@ -5640,6 +5640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robin Hood | 23575 | [23575-robin-hood.json](./23575-robin-hood.json) |
 | Robin Hood Legends | 104581 | [104581-robin-hood-legends.json](./104581-robin-hood-legends.json) |
 | Robin Hood: Forest Adventures | 394460 | [394460-robin-hood-forest-adventures.json](./394460-robin-hood-forest-adventures.json) |
+| Robin Hood: Sherwood Builders | 163038 | [163038-robin-hood-sherwood-builders.json](./163038-robin-hood-sherwood-builders.json) |
 | Robin Hood: Sherwood Defenders | 330262 | [330262-robin-hood-sherwood-defenders.json](./330262-robin-hood-sherwood-defenders.json) |
 | Robin Hood: Spring of Life | 192616 | [192616-robin-hood-spring-of-life.json](./192616-robin-hood-spring-of-life.json) |
 | Robin Hood: The Siege | 141092 | [141092-robin-hood-the-siege.json](./141092-robin-hood-the-siege.json) |
