@@ -590,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LanthernStudio Paint | 131333 | [131333-lanthernstudio-paint.json](./131333-lanthernstudio-paint.json) |
 | Lap of the Gods | 30210 | [30210-lap-of-the-gods.json](./30210-lap-of-the-gods.json) |
 | Lapin | 161220 | [161220-lapin.json](./161220-lapin.json) |
+| Lapin Malin : J'apprends à lire et à ecrire | 147201 | [147201-lapin-malin-japprends-a-lire-et-a-ecrire.json](./147201-lapin-malin-japprends-a-lire-et-a-ecrire.json) |
 | Lapis Lazuli | 307049 | [307049-lapis-lazuli.json](./307049-lapis-lazuli.json) |
 | Lapis x Labyrinth: Limited Edition | 107260 | [107260-lapis-x-labyrinth-limited-edition.json](./107260-lapis-x-labyrinth-limited-edition.json) |
 | Lapistasia | 377675 | [377675-lapistasia.json](./377675-lapistasia.json) |
@@ -4136,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LittleBigPlanet HUB | 77349 | [77349-littlebigplanet-hub.json](./77349-littlebigplanet-hub.json) |
 | LittleBigPlanet PS Vita: DC Comics Premium Level Pack | 344442 | [344442-littlebigplanet-ps-vita-dc-comics-premium-level-pack.json](./344442-littlebigplanet-ps-vita-dc-comics-premium-level-pack.json) |
 | LittleBigPlanet PS Vita: Marvel Arcade Pack | 147278 | [147278-littlebigplanet-ps-vita-marvel-arcade-pack.json](./147278-littlebigplanet-ps-vita-marvel-arcade-pack.json) |
+| LittleBigPlanet: Marvel Super Hero Edition | 147222 | [147222-littlebigplanet-marvel-super-hero-edition.json](./147222-littlebigplanet-marvel-super-hero-edition.json) |
 | LittleBigPlanet: Pirates of the Caribbean Level Kit | 194642 | [194642-littlebigplanet-pirates-of-the-caribbean-level-kit.json](./194642-littlebigplanet-pirates-of-the-caribbean-level-kit.json) |
 | LittleBigPlanet: Sackboy's Prehistoric Moves | 6364 | [6364-littlebigplanet-sackboys-prehistoric-moves.json](./6364-littlebigplanet-sackboys-prehistoric-moves.json) |
 | LittleBigSoko | 101621 | [101621-littlebigsoko.json](./101621-littlebigsoko.json) |
