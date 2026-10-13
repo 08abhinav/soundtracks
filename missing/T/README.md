@@ -2480,6 +2480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekkyuuman | 73245 | [73245-tekkyuuman.json](./73245-tekkyuuman.json) |
 | Tekla | 218586 | [218586-tekla.json](./218586-tekla.json) |
 | Tekling 2: Overdrive | 170314 | [170314-tekling-2-overdrive.json](./170314-tekling-2-overdrive.json) |
+| Teknedia | 139710 | [139710-teknedia.json](./139710-teknedia.json) |
 | TeknoKinetica | 316625 | [316625-teknokinetica.json](./316625-teknokinetica.json) |
 | Teknokrat | 357379 | [357379-teknokrat.json](./357379-teknokrat.json) |
 | Teko | 378262 | [378262-teko.json](./378262-teko.json) |
@@ -11017,6 +11018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sin Collector: Repentless | 169773 | [169773-the-sin-collector-repentless.json](./169773-the-sin-collector-repentless.json) |
 | The Sin of Fabien | 405705 | [405705-the-sin-of-fabien.json](./405705-the-sin-of-fabien.json) |
 | The Singing Saw Simulator | 289963 | [289963-the-singing-saw-simulator.json](./289963-the-singing-saw-simulator.json) |
+| The Singularity Trials | 139701 | [139701-the-singularity-trials.json](./139701-the-singularity-trials.json) |
 | The Sinister Fairground: Horror Adventure Gamebook | 175303 | [175303-the-sinister-fairground-horror-adventure-gamebook.json](./175303-the-sinister-fairground-horror-adventure-gamebook.json) |
 | The Sink Gods | 175884 | [175884-the-sink-gods.json](./175884-the-sink-gods.json) |
 | The Sinkhole | 408117 | [408117-the-sinkhole.json](./408117-the-sinkhole.json) |
