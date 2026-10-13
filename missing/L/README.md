@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lair of the Titans | 88187 | [88187-lair-of-the-titans.json](./88187-lair-of-the-titans.json) |
 | Lair of Torment | 266799 | [266799-lair-of-torment.json](./266799-lair-of-torment.json) |
 | Laira Cut Me Open | 408179 | [408179-laira-cut-me-open.json](./408179-laira-cut-me-open.json) |
+| Lairchitect | 136729 | [136729-lairchitect.json](./136729-lairchitect.json) |
 | LAIzy Picture Phone | 307217 | [307217-laizy-picture-phone.json](./307217-laizy-picture-phone.json) |
 | Lake Adventure | 279780 | [279780-lake-adventure.json](./279780-lake-adventure.json) |
 | Lake Hero | 412959 | [412959-lake-hero.json](./412959-lake-hero.json) |
@@ -2298,6 +2299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leonardo's Cat | 175398 | [175398-leonardos-cat.json](./175398-leonardos-cat.json) |
 | Leonardo's Island | 160075 | [160075-leonardos-island.json](./160075-leonardos-island.json) |
 | Leonidov | 374277 | [374277-leonidov.json](./374277-leonidov.json) |
+| Leopard Lord | 137348 | [137348-leopard-lord.json](./137348-leopard-lord.json) |
 | Leopoldo Manquiseil | 110789 | [110789-leopoldo-manquiseil.json](./110789-leopoldo-manquiseil.json) |
 | Leowald | 116106 | [116106-leowald.json](./116106-leowald.json) |
 | Lep's World | 59915 | [59915-leps-world.json](./59915-leps-world.json) |
@@ -5642,6 +5644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Breakout | 280176 | [280176-love-breakout.json](./280176-love-breakout.json) |
 | Love Change | 217949 | [217949-love-change.json](./217949-love-change.json) |
 | Love Chronicles: Salvation - Collector's Edition | 89407 | [89407-love-chronicles-salvation-collectors-edition.json](./89407-love-chronicles-salvation-collectors-edition.json) |
+| Love Clear | 136757 | [136757-love-clear.json](./136757-love-clear.json) |
 | Love Collection 4-in-1 | 404259 | [404259-love-collection-4-in-1.json](./404259-love-collection-4-in-1.json) |
 | Love Colors: Everyday Pixels | 195230 | [195230-love-colors-everyday-pixels.json](./195230-love-colors-everyday-pixels.json) |
 | Love Colors: Pixel Seasons | 195229 | [195229-love-colors-pixel-seasons.json](./195229-love-colors-pixel-seasons.json) |
