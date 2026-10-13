@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HachikanShogi Matta Ari | 329057 | [329057-hachikanshogi-matta-ari.json](./329057-hachikanshogi-matta-ari.json) |
 | Hachinoid | 298948 | [298948-hachinoid.json](./298948-hachinoid.json) |
 | Hachishakusama | 412501 | [412501-hachishakusama.json](./412501-hachishakusama.json) |
+| Hack | 171890 | [171890-hack.json](./171890-hack.json) |
 | Hack | 2875 | [2875-hack.json](./2875-hack.json) |
 | Hack '95 | 405079 | [405079-hack-95.json](./405079-hack-95.json) |
 | Hack 'n' Stack | 258624 | [258624-hack-n-stack.json](./258624-hack-n-stack.json) |
@@ -155,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Had | 239085 | [239085-had.json](./239085-had.json) |
 | Hadalyth Zero | 414616 | [414616-hadalyth-zero.json](./414616-hadalyth-zero.json) |
 | Hadarot | 291248 | [291248-hadarot.json](./291248-hadarot.json) |
+| Hade: Forbidden Levels | 172092 | [172092-hade-forbidden-levels.json](./172092-hade-forbidden-levels.json) |
 | Hadean Lands | 18654 | [18654-hadean-lands.json](./18654-hadean-lands.json) |
 | Hadean Tactics | 133361 | [133361-hadean-tactics.json](./133361-hadean-tactics.json) |
 | Hadephobia | 260957 | [260957-hadephobia.json](./260957-hadephobia.json) |
@@ -7247,6 +7249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Survive 2: Kovac's Ultimate Edition | 53194 | [53194-how-to-survive-2-kovacs-ultimate-edition.json](./53194-how-to-survive-2-kovacs-ultimate-edition.json) |
 | How to Survive the Night shift | 295870 | [295870-how-to-survive-the-night-shift.json](./295870-how-to-survive-the-night-shift.json) |
 | How to Survive: Barricade! | 170434 | [170434-how-to-survive-barricade.json](./170434-how-to-survive-barricade.json) |
+| How to Survive: El Diablo Islands - Host | 172087 | [172087-how-to-survive-el-diablo-islands-host.json](./172087-how-to-survive-el-diablo-islands-host.json) |
 | How to Survive: Kovac's Way | 164516 | [164516-how-to-survive-kovacs-way.json](./164516-how-to-survive-kovacs-way.json) |
 | How to Survive: Storm Warning Edition | 20311 | [20311-how-to-survive-storm-warning-edition.json](./20311-how-to-survive-storm-warning-edition.json) |
 | How to Take Off Your Mask: Remastered | 143151 | [143151-how-to-take-off-your-mask-remastered.json](./143151-how-to-take-off-your-mask-remastered.json) |
