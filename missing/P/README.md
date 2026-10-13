@@ -6682,6 +6682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pneuma: Breath of Life | 9178 | [9178-pneuma-breath-of-life.json](./9178-pneuma-breath-of-life.json) |
 | Pneumatic Ball | 288360 | [288360-pneumatic-ball.json](./288360-pneumatic-ball.json) |
 | Pnevmo-Capsula | 220345 | [220345-pnevmo-capsula.json](./220345-pnevmo-capsula.json) |
+| Pnevmo-Capsula: Domiki | 155872 | [155872-pnevmo-capsula-domiki.json](./155872-pnevmo-capsula-domiki.json) |
 | PNG Mall | 272345 | [272345-png-mall.json](./272345-png-mall.json) |
 | Pnickies | 40262 | [40262-pnickies.json](./40262-pnickies.json) |
 | PNR: Point of No return | 406904 | [406904-pnr-point-of-no-return.json](./406904-pnr-point-of-no-return.json) |
@@ -10223,6 +10224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Freedom | 315023 | [315023-project-freedom.json](./315023-project-freedom.json) |
 | Project Frontier | 286067 | [286067-project-frontier.json](./286067-project-frontier.json) |
 | Project G | 32773 | [32773-project-g.json](./32773-project-g.json) |
+| Project G.A.E.A. | 155864 | [155864-project-g-a-e-a.json](./155864-project-g-a-e-a.json) |
 | Project Gaiaray | 71022 | [71022-project-gaiaray.json](./71022-project-gaiaray.json) |
 | Project Galaxy | 286997 | [286997-project-galaxy.json](./286997-project-galaxy.json) |
 | Project Genesis | 114409 | [114409-project-genesis.json](./114409-project-genesis.json) |
