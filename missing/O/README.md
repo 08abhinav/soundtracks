@@ -2587,6 +2587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orc Incursion | 292754 | [292754-orc-incursion.json](./292754-orc-incursion.json) |
 | Orc Invasion Tower | 219266 | [219266-orc-invasion-tower.json](./219266-orc-invasion-tower.json) |
 | Orc Massage | 127920 | [127920-orc-massage.json](./127920-orc-massage.json) |
+| Orc Scrolls | 152665 | [152665-orc-scrolls.json](./152665-orc-scrolls.json) |
 | Orc Survivor | 272736 | [272736-orc-survivor.json](./272736-orc-survivor.json) |
 | Orc vs. Undead | 191062 | [191062-orc-vs-undead.json](./191062-orc-vs-undead.json) |
 | Orc Warchief: Strategy City Builder | 216966 | [216966-orc-warchief-strategy-city-builder.json](./216966-orc-warchief-strategy-city-builder.json) |
