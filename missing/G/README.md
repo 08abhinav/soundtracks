@@ -1587,6 +1587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gearhead Karting | 252019 | [252019-gearhead-karting.json](./252019-gearhead-karting.json) |
 | GearHead: Arena | 181230 | [181230-gearhead-arena.json](./181230-gearhead-arena.json) |
 | Gearlock: Episode 1 | 381719 | [381719-gearlock-episode-1.json](./381719-gearlock-episode-1.json) |
+| Gears 5: Game of the Year Edition | 142818 | [142818-gears-5-game-of-the-year-edition.json](./142818-gears-5-game-of-the-year-edition.json) |
 | Gears Forever | 297511 | [297511-gears-forever.json](./297511-gears-forever.json) |
 | Gears N Gators | 136227 | [136227-gears-n-gators.json](./136227-gears-n-gators.json) |
 | Gears of Babies: Browser | 261258 | [261258-gears-of-babies-browser.json](./261258-gears-of-babies-browser.json) |
@@ -1669,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekkou no Carnevale | 137102 | [137102-gekkou-no-carnevale.json](./137102-gekkou-no-carnevale.json) |
 | Geko: Entering The Pipe | 239757 | [239757-geko-entering-the-pipe.json](./239757-geko-entering-the-pipe.json) |
 | Gekraxel | 120114 | [120114-gekraxel.json](./120114-gekraxel.json) |
+| Gel-Tank | 142801 | [142801-gel-tank.json](./142801-gel-tank.json) |
 | Gelatinous: Humanity Lost | 260312 | [260312-gelatinous-humanity-lost.json](./260312-gelatinous-humanity-lost.json) |
 | Gelecard: Guerreiros Gelatinosos | 346216 | [346216-gelecard-guerreiros-gelatinosos.json](./346216-gelecard-guerreiros-gelatinosos.json) |
 | Gelldonia | 156648 | [156648-gelldonia.json](./156648-gelldonia.json) |
