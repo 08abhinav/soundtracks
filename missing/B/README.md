@@ -2298,8 +2298,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle 3D: Robots Sky | 138169 | [138169-battle-3d-robots-sky.json](./138169-battle-3d-robots-sky.json) |
 | Battle Academy | 200206 | [200206-battle-academy.json](./200206-battle-academy.json) |
 | Battle Academy | 328037 | [328037-battle-academy.json](./328037-battle-academy.json) |
+| Battle Academy 2: Battle of Kursk | 168438 | [168438-battle-academy-2-battle-of-kursk.json](./168438-battle-academy-2-battle-of-kursk.json) |
 | Battle Academy 2: Eastern Front | 17528 | [17528-battle-academy-2-eastern-front.json](./17528-battle-academy-2-eastern-front.json) |
+| Battle Academy: Blitzkrieg France | 168439 | [168439-battle-academy-blitzkrieg-france.json](./168439-battle-academy-blitzkrieg-france.json) |
+| Battle Academy: Fortress Metz | 168440 | [168440-battle-academy-fortress-metz.json](./168440-battle-academy-fortress-metz.json) |
+| Battle Academy: Operation Husky | 168436 | [168436-battle-academy-operation-husky.json](./168436-battle-academy-operation-husky.json) |
 | Battle Academy: Operation Market Garden | 167801 | [167801-battle-academy-operation-market-garden.json](./167801-battle-academy-operation-market-garden.json) |
+| Battle Academy: Operation Sealion | 168437 | [168437-battle-academy-operation-sealion.json](./168437-battle-academy-operation-sealion.json) |
+| Battle Academy: Rommel in Normandy | 168435 | [168435-battle-academy-rommel-in-normandy.json](./168435-battle-academy-rommel-in-normandy.json) |
 | Battle Ages | 58634 | [58634-battle-ages.json](./58634-battle-ages.json) |
 | Battle Air Hockey Break Beats! | 338203 | [338203-battle-air-hockey-break-beats.json](./338203-battle-air-hockey-break-beats.json) |
 | Battle Alchemy | 157068 | [157068-battle-alchemy.json](./157068-battle-alchemy.json) |
