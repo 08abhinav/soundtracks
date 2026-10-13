@@ -462,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100% Orange Juice: Halena & Cook Character Pack | 160290 | [160290-100-orange-juice-halena-and-cook-character-pack.json](./160290-100-orange-juice-halena-and-cook-character-pack.json) |
 | 100% Orange Juice: Haruka & Kanata Character Pack | 359564 | [359564-100-orange-juice-haruka-and-kanata-character-pack.json](./359564-100-orange-juice-haruka-and-kanata-character-pack.json) |
 | 100% Orange Juice: Iru & Mira Character Pack | 160296 | [160296-100-orange-juice-iru-and-mira-character-pack.json](./160296-100-orange-juice-iru-and-mira-character-pack.json) |
+| 100% Orange Juice: Kiriko & NoName Pack | 155362 | [155362-100-orange-juice-kiriko-and-noname-pack.json](./155362-100-orange-juice-kiriko-and-noname-pack.json) |
 | 100% Orange Juice: Krila & Kae | 164482 | [164482-100-orange-juice-krila-and-kae.json](./164482-100-orange-juice-krila-and-kae.json) |
 | 100% Orange Juice: Malt & Mescal Character Pack | 193209 | [193209-100-orange-juice-malt-and-mescal-character-pack.json](./193209-100-orange-juice-malt-and-mescal-character-pack.json) |
 | 100% Orange Juice: Nath & Tomato+Mimyuu | 164472 | [164472-100-orange-juice-nath-and-tomato-mimyuu.json](./164472-100-orange-juice-nath-and-tomato-mimyuu.json) |
