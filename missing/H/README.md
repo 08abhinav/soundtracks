@@ -1240,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardboiled | 193701 | [193701-hardboiled.json](./193701-hardboiled.json) |
 | HardBoiledFarm | 255967 | [255967-hardboiledfarm.json](./255967-hardboiledfarm.json) |
 | Hardcheologist | 405060 | [405060-hardcheologist.json](./405060-hardcheologist.json) |
+| Hardcoded | 146619 | [146619-hardcoded.json](./146619-hardcoded.json) |
 | HardCop 2 | 156681 | [156681-hardcop-2.json](./156681-hardcop-2.json) |
 | Hardcore and Death | 414503 | [414503-hardcore-and-death.json](./414503-hardcore-and-death.json) |
 | Hardcore Circus | 325495 | [325495-hardcore-circus.json](./325495-hardcore-circus.json) |
@@ -1453,11 +1454,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harukanaru Toki no Naka De 3: Unmei no Labyrinth Aizouban | 219155 | [219155-harukanaru-toki-no-naka-de-3-unmei-no-labyrinth-aizouban.json](./219155-harukanaru-toki-no-naka-de-3-unmei-no-labyrinth-aizouban.json) |
 | Harukanaru Toki no Naka de 4 | 70656 | [70656-harukanaru-toki-no-naka-de-4.json](./70656-harukanaru-toki-no-naka-de-4.json) |
 | Harukanaru Toki no Naka de 5 | 60503 | [60503-harukanaru-toki-no-naka-de-5.json](./60503-harukanaru-toki-no-naka-de-5.json) |
+| Harukanaru Toki no Naka de 5: Kazahanaki | 146664 | [146664-harukanaru-toki-no-naka-de-5-kazahanaki.json](./146664-harukanaru-toki-no-naka-de-5-kazahanaki.json) |
 | Harukanaru Toki no Naka de 7 | 121519 | [121519-harukanaru-toki-no-naka-de-7.json](./121519-harukanaru-toki-no-naka-de-7.json) |
 | Harukanaru Toki no Naka De 7: Ransei no Sadame wo Koeru Box | 136842 | [136842-harukanaru-toki-no-naka-de-7-ransei-no-sadame-wo-koeru-box.json](./136842-harukanaru-toki-no-naka-de-7-ransei-no-sadame-wo-koeru-box.json) |
 | Harukanaru Toki no Naka de 7: Treasure Box Edition | 136775 | [136775-harukanaru-toki-no-naka-de-7-treasure-box-edition.json](./136775-harukanaru-toki-no-naka-de-7-treasure-box-edition.json) |
 | Harukanaru Toki no Naka de: Banjyou Yuugi | 137002 | [137002-harukanaru-toki-no-naka-de-banjyou-yuugi.json](./137002-harukanaru-toki-no-naka-de-banjyou-yuugi.json) |
 | Harukanaru Toki no Naka de: Hachiyoushou | 137003 | [137003-harukanaru-toki-no-naka-de-hachiyoushou.json](./137003-harukanaru-toki-no-naka-de-hachiyoushou.json) |
+| Harukanaru Toki no Naka de: Maihitoyo | 146658 | [146658-harukanaru-toki-no-naka-de-maihitoyo.json](./146658-harukanaru-toki-no-naka-de-maihitoyo.json) |
 | Harukanaru Toki no Naka de: Yume no Ukihashi | 70661 | [70661-harukanaru-toki-no-naka-de-yume-no-ukihashi.json](./70661-harukanaru-toki-no-naka-de-yume-no-ukihashi.json) |
 | Harukaze Sentai V-Force | 108837 | [108837-harukaze-sentai-v-force.json](./108837-harukaze-sentai-v-force.json) |
 | Haruko Maniax | 345424 | [345424-haruko-maniax.json](./345424-haruko-maniax.json) |
@@ -2670,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell of an Office | 150002 | [150002-hell-of-an-office.json](./150002-hell-of-an-office.json) |
 | Hell of Fear: Mind Breach | 361595 | [361595-hell-of-fear-mind-breach.json](./361595-hell-of-fear-mind-breach.json) |
 | Hell of Nightmares: Chapter 1 | 254420 | [254420-hell-of-nightmares-chapter-1.json](./254420-hell-of-nightmares-chapter-1.json) |
+| Hell of Sand | 146665 | [146665-hell-of-sand.json](./146665-hell-of-sand.json) |
 | Hell of Sins: Soul | 209144 | [209144-hell-of-sins-soul.json](./209144-hell-of-sins-soul.json) |
 | Hell Of War: Combined Arms | 411596 | [411596-hell-of-war-combined-arms.json](./411596-hell-of-war-combined-arms.json) |
 | Hell on Earth | 28145 | [28145-hell-on-earth.json](./28145-hell-on-earth.json) |
@@ -6527,6 +6531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horrid Henry's Horrid Adventure | 269630 | [269630-horrid-henrys-horrid-adventure.json](./269630-horrid-henrys-horrid-adventure.json) |
 | Horrid Henry's Krazy Karts | 187451 | [187451-horrid-henrys-krazy-karts.json](./187451-horrid-henrys-krazy-karts.json) |
 | Horror & Sports Pinball | 186698 | [186698-horror-and-sports-pinball.json](./186698-horror-and-sports-pinball.json) |
+| Horror Adventure VR | 146651 | [146651-horror-adventure-vr.json](./146651-horror-adventure-vr.json) |
 | Horror Adventure: Zombie Edition VR | 243061 | [243061-horror-adventure-zombie-edition-vr.json](./243061-horror-adventure-zombie-edition-vr.json) |
 | Horror Amusement Park | 249213 | [249213-horror-amusement-park.json](./249213-horror-amusement-park.json) |
 | Horror Break: Head to Head | 214528 | [214528-horror-break-head-to-head.json](./214528-horror-break-head-to-head.json) |
