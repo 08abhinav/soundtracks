@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fae Farm: Skies of Azoria | 331464 | [331464-fae-farm-skies-of-azoria.json](./331464-fae-farm-skies-of-azoria.json) |
 | Fae Line | 297072 | [297072-fae-line.json](./297072-fae-line.json) |
 | Fae Populi | 188939 | [188939-fae-populi.json](./188939-fae-populi.json) |
+| Faefever | 137341 | [137341-faefever.json](./137341-faefever.json) |
 | Faehnor Online | 386499 | [386499-faehnor-online.json](./386499-faehnor-online.json) |
 | Faeria: Chronicles of Gagana | 117519 | [117519-faeria-chronicles-of-gagana.json](./117519-faeria-chronicles-of-gagana.json) |
 | Faeria: Elements | 227419 | [227419-faeria-elements.json](./227419-faeria-elements.json) |
@@ -4537,6 +4538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitness Fables | 327589 | [327589-fitness-fables.json](./327589-fitness-fables.json) |
 | Fitness Game: Romance Story | 256250 | [256250-fitness-game-romance-story.json](./256250-fitness-game-romance-story.json) |
 | Fitness Girl - Studio Coach | 86814 | [86814-fitness-girl-studio-coach.json](./86814-fitness-girl-studio-coach.json) |
+| Fitness Party | 136887 | [136887-fitness-party.json](./136887-fitness-party.json) |
 | Fitriz | 212147 | [212147-fitriz.json](./212147-fitriz.json) |
 | Fittest | 100167 | [100167-fittest.json](./100167-fittest.json) |
 | Fitting-In | 253942 | [253942-fitting-in.json](./253942-fitting-in.json) |
@@ -5534,6 +5536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floworks | 408289 | [408289-floworks.json](./408289-floworks.json) |
 | Flowpaper | 68922 | [68922-flowpaper.json](./68922-flowpaper.json) |
 | FlowScape | 121007 | [121007-flowscape.json](./121007-flowscape.json) |
+| FlowState | 137343 | [137343-flowstate.json](./137343-flowstate.json) |
 | Flowstone Saga | 152329 | [152329-flowstone-saga.json](./152329-flowstone-saga.json) |
 | Flowtris | 364726 | [364726-flowtris.json](./364726-flowtris.json) |
 | Flowxie's Mission | 307778 | [307778-flowxies-mission.json](./307778-flowxies-mission.json) |
