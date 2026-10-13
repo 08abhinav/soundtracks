@@ -558,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Girls | 247057 | [247057-dancing-girls.json](./247057-dancing-girls.json) |
 | Dancing Hair: Music Race 3D | 212455 | [212455-dancing-hair-music-race-3d.json](./212455-dancing-hair-music-race-3d.json) |
 | Dancing Hut | 26632 | [26632-dancing-hut.json](./26632-dancing-hut.json) |
+| Dancing In the Moonlight | 155871 | [155871-dancing-in-the-moonlight.json](./155871-dancing-in-the-moonlight.json) |
 | Dancing Lights | 256241 | [256241-dancing-lights.json](./256241-dancing-lights.json) |
 | Dancing Line | 87048 | [87048-dancing-line.json](./87048-dancing-line.json) |
 | Dancing Monster | 13836 | [13836-dancing-monster.json](./13836-dancing-monster.json) |
@@ -4246,6 +4247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Denjarasu Jii-san Jya | 85082 | [85082-denjarasu-jii-san-jya.json](./85082-denjarasu-jii-san-jya.json) |
 | Denjin Makai | 46782 | [46782-denjin-makai.json](./46782-denjin-makai.json) |
 | Denki Blocks! | 49155 | [49155-denki-blocks.json](./49155-denki-blocks.json) |
+| Denki Bounce | 155876 | [155876-denki-bounce.json](./155876-denki-bounce.json) |
 | Dennis Miller: That's Geek to Me | 245252 | [245252-dennis-miller-thats-geek-to-me.json](./245252-dennis-miller-thats-geek-to-me.json) |
 | Dennis Miller: That's News to Me | 39019 | [39019-dennis-miller-thats-news-to-me.json](./39019-dennis-miller-thats-news-to-me.json) |
 | Dennis og Bellini: De forsvundne kaniner | 91450 | [91450-dennis-og-bellini-de-forsvundne-kaniner.json](./91450-dennis-og-bellini-de-forsvundne-kaniner.json) |
@@ -5510,6 +5512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicey Dungeons+ | 296793 | [296793-dicey-dungeons.json](./296793-dicey-dungeons.json) |
 | Dicey Hacker 1999 | 350387 | [350387-dicey-hacker-1999.json](./350387-dicey-hacker-1999.json) |
 | Dicey Heroes | 346176 | [346176-dicey-heroes.json](./346176-dicey-heroes.json) |
+| Dicey Krime: Traveler of Time | 155850 | [155850-dicey-krime-traveler-of-time.json](./155850-dicey-krime-traveler-of-time.json) |
 | Dicey Towers | 188489 | [188489-dicey-towers.json](./188489-dicey-towers.json) |
 | Dichotomy | 161159 | [161159-dichotomy.json](./161159-dichotomy.json) |
 | Dichotomy | 344580 | [344580-dichotomy.json](./344580-dichotomy.json) |
@@ -5925,6 +5928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension Escape | 330111 | [330111-dimension-escape.json](./330111-dimension-escape.json) |
 | Dimension Fight | 286789 | [286789-dimension-fight.json](./286789-dimension-fight.json) |
 | Dimension M | 213969 | [213969-dimension-m.json](./213969-dimension-m.json) |
+| Dimension of Dreams | 155881 | [155881-dimension-of-dreams.json](./155881-dimension-of-dreams.json) |
 | Dimension of Monster Girls | 89608 | [89608-dimension-of-monster-girls.json](./89608-dimension-of-monster-girls.json) |
 | Dimension of the Boomed | 251546 | [251546-dimension-of-the-boomed.json](./251546-dimension-of-the-boomed.json) |
 | Dimension of the Diminished | 271723 | [271723-dimension-of-the-diminished.json](./271723-dimension-of-the-diminished.json) |
@@ -10109,6 +10113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Angling | 100319 | [100319-dream-angling.json](./100319-dream-angling.json) |
 | Dream Animal | 376759 | [376759-dream-animal.json](./376759-dream-animal.json) |
 | Dream Antique | 284315 | [284315-dream-antique.json](./284315-dream-antique.json) |
+| Dream Back | 155891 | [155891-dream-back.json](./155891-dream-back.json) |
 | Dream Big 2 | 156992 | [156992-dream-big-2.json](./156992-dream-big-2.json) |
 | Dream Blast: Jewel Pops | 224073 | [224073-dream-blast-jewel-pops.json](./224073-dream-blast-jewel-pops.json) |
 | Dream Book | 167124 | [167124-dream-book.json](./167124-dream-book.json) |
@@ -11846,6 +11851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Walk: Ryuumeikyuu no Kanrisha | 236525 | [236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json](./236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json) |
 | Dungeon Ward | 193851 | [193851-dungeon-ward.json](./193851-dungeon-ward.json) |
 | Dungeon Warfare 2 | 102273 | [102273-dungeon-warfare-2.json](./102273-dungeon-warfare-2.json) |
+| Dungeon Warriors | 155849 | [155849-dungeon-warriors.json](./155849-dungeon-warriors.json) |
 | Dungeon Warriors | 165727 | [165727-dungeon-warriors.json](./165727-dungeon-warriors.json) |
 | Dungeon Watchers | 319213 | [319213-dungeon-watchers.json](./319213-dungeon-watchers.json) |
 | Dungeon Weiqi | 348843 | [348843-dungeon-weiqi.json](./348843-dungeon-weiqi.json) |
