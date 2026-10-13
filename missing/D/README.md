@@ -942,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Deception: Monsters & Mortals - The Coma 2: Vicious Sisters | 292869 | [292869-dark-deception-monsters-and-mortals-the-coma-2-vicious-sisters.json](./292869-dark-deception-monsters-and-mortals-the-coma-2-vicious-sisters.json) |
 | Dark Deception: Monsters & Mortals - US Creator | 291694 | [291694-dark-deception-monsters-and-mortals-us-creator.json](./291694-dark-deception-monsters-and-mortals-us-creator.json) |
 | Dark Decline | 269271 | [269271-dark-decline.json](./269271-dark-decline.json) |
+| Dark Deity | 147215 | [147215-dark-deity.json](./147215-dark-deity.json) |
 | Dark Deity: Complete Edition | 227862 | [227862-dark-deity-complete-edition.json](./227862-dark-deity-complete-edition.json) |
 | Dark Deity: Suns Out, Swords Out | 209658 | [209658-dark-deity-suns-out-swords-out.json](./209658-dark-deity-suns-out-swords-out.json) |
 | Dark Deity's Bastion | 268761 | [268761-dark-deitys-bastion.json](./268761-dark-deitys-bastion.json) |
@@ -1555,6 +1556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashes & Squares | 272377 | [272377-dashes-and-squares.json](./272377-dashes-and-squares.json) |
 | DashFire | 339367 | [339367-dashfire.json](./339367-dashfire.json) |
 | Dashgunner 0 | 258906 | [258906-dashgunner-0.json](./258906-dashgunner-0.json) |
+| Dashie's Puh-ranormal Activity | 147240 | [147240-dashies-puh-ranormal-activity.json](./147240-dashies-puh-ranormal-activity.json) |
 | Dashin' Desperadoes | 46247 | [46247-dashin-desperadoes.json](./46247-dashin-desperadoes.json) |
 | Dashing Dinosaurs & Sexy Centaurs: Winter's Tale | 126404 | [126404-dashing-dinosaurs-and-sexy-centaurs-winters-tale.json](./126404-dashing-dinosaurs-and-sexy-centaurs-winters-tale.json) |
 | Dashing Dinosaurs & Sexy Centaurs: Winter's Tale 2 | 227868 | [227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json](./227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json) |
@@ -2679,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadstone | 17916 | [17916-deadstone.json](./17916-deadstone.json) |
 | Deadstorm Pirates | 39788 | [39788-deadstorm-pirates.json](./39788-deadstorm-pirates.json) |
 | DeadStuck | 401720 | [401720-deadstuck.json](./401720-deadstuck.json) |
+| Deadswitch 3 | 147182 | [147182-deadswitch-3.json](./147182-deadswitch-3.json) |
 | Deadtective Academy | 397403 | [397403-deadtective-academy.json](./397403-deadtective-academy.json) |
 | DeadTruth: The Dark Path Ahead | 30110 | [30110-deadtruth-the-dark-path-ahead.json](./30110-deadtruth-the-dark-path-ahead.json) |
 | Deaduction | 276683 | [276683-deaduction.json](./276683-deaduction.json) |
@@ -4597,6 +4600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Design it, Drive it: Speedboats | 32081 | [32081-design-it-drive-it-speedboats.json](./32081-design-it-drive-it-speedboats.json) |
 | Design My Room: Fashion | 107667 | [107667-design-my-room-fashion.json](./107667-design-my-room-fashion.json) |
 | Design Your Own Railroad | 79963 | [79963-design-your-own-railroad.json](./79963-design-your-own-railroad.json) |
+| Designasaurus | 147228 | [147228-designasaurus.json](./147228-designasaurus.json) |
 | Designed for Danger | 321771 | [321771-designed-for-danger.json](./321771-designed-for-danger.json) |
 | Desinformator | 365803 | [365803-desinformator.json](./365803-desinformator.json) |
 | Desirable Deals | 279671 | [279671-desirable-deals.json](./279671-desirable-deals.json) |
@@ -6878,6 +6882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distance and Mirage | 299118 | [299118-distance-and-mirage.json](./299118-distance-and-mirage.json) |
 | Distance: Console Edition | 309585 | [309585-distance-console-edition.json](./309585-distance-console-edition.json) |
 | DistanceGuessr | 386116 | [386116-distanceguessr.json](./386116-distanceguessr.json) |
+| Distancing | 147167 | [147167-distancing.json](./147167-distancing.json) |
 | Distancy | 316153 | [316153-distancy.json](./316153-distancy.json) |
 | Distant | 28704 | [28704-distant.json](./28704-distant.json) |
 | Distant | 329390 | [329390-distant.json](./329390-distant.json) |
