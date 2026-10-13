@@ -3582,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Office | 100729 | [100729-escape-the-office.json](./100729-escape-the-office.json) |
 | Escape the Office VR | 339771 | [339771-escape-the-office-vr.json](./339771-escape-the-office-vr.json) |
 | Escape the Omnochronom! | 108632 | [108632-escape-the-omnochronom.json](./108632-escape-the-omnochronom.json) |
+| Escape the Ordinary: Tales of Romina Manor | 158410 | [158410-escape-the-ordinary-tales-of-romina-manor.json](./158410-escape-the-ordinary-tales-of-romina-manor.json) |
 | Escape the Pacific | 54510 | [54510-escape-the-pacific.json](./54510-escape-the-pacific.json) |
 | Escape the past Collection | 177053 | [177053-escape-the-past-collection.json](./177053-escape-the-past-collection.json) |
 | Escape the Prison: 3 Days to Freedom | 248657 | [248657-escape-the-prison-3-days-to-freedom.json](./248657-escape-the-prison-3-days-to-freedom.json) |
@@ -3913,6 +3914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Saga | 62762 | [62762-eternal-saga.json](./62762-eternal-saga.json) |
 | Eternal Samurai | 201490 | [201490-eternal-samurai.json](./201490-eternal-samurai.json) |
 | Eternal Seas | 236509 | [236509-eternal-seas.json](./236509-eternal-seas.json) |
+| Eternal Secret | 158421 | [158421-eternal-secret.json](./158421-eternal-secret.json) |
 | Eternal Senia: Hydrangea After the Rain | 139189 | [139189-eternal-senia-hydrangea-after-the-rain.json](./139189-eternal-senia-hydrangea-after-the-rain.json) |
 | Eternal Silence | 29121 | [29121-eternal-silence.json](./29121-eternal-silence.json) |
 | Eternal Slumber Party | 224582 | [224582-eternal-slumber-party.json](./224582-eternal-slumber-party.json) |
@@ -5136,6 +5138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exsanguinate | 185961 | [185961-exsanguinate.json](./185961-exsanguinate.json) |
 | Exsanguination | 340045 | [340045-exsanguination.json](./340045-exsanguination.json) |
 | Extase | 94197 | [94197-extase.json](./94197-extase.json) |
+| Extended Stay | 158401 | [158401-extended-stay.json](./158401-extended-stay.json) |
 | Exteria | 31056 | [31056-exteria.json](./31056-exteria.json) |
 | Exterminate the world | 93751 | [93751-exterminate-the-world.json](./93751-exterminate-the-world.json) |
 | Exterminate Zombies: Get Paid | 215930 | [215930-exterminate-zombies-get-paid.json](./215930-exterminate-zombies-get-paid.json) |
@@ -5233,6 +5236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Power Soccer | 247043 | [247043-extreme-power-soccer.json](./247043-extreme-power-soccer.json) |
 | Extreme QTE | 151747 | [151747-extreme-qte.json](./151747-extreme-qte.json) |
 | Extreme Race | 186679 | [186679-extreme-race.json](./186679-extreme-race.json) |
+| Extreme Racing | 158420 | [158420-extreme-racing.json](./158420-extreme-racing.json) |
 | Extreme Racing on Highway | 115582 | [115582-extreme-racing-on-highway.json](./115582-extreme-racing-on-highway.json) |
 | Extreme Rally Raid | 278523 | [278523-extreme-rally-raid.json](./278523-extreme-rally-raid.json) |
 | Extreme Reaction | 368148 | [368148-extreme-reaction.json](./368148-extreme-reaction.json) |
