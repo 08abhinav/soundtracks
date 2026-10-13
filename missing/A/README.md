@@ -885,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wave of Enemies | 154084 | [154084-a-wave-of-enemies.json](./154084-a-wave-of-enemies.json) |
 | A Wave of Lights | 175838 | [175838-a-wave-of-lights.json](./175838-a-wave-of-lights.json) |
 | A Way Home Uzy's Journey | 339258 | [339258-a-way-home-uzys-journey.json](./339258-a-way-home-uzys-journey.json) |
+| A Way to be Dead | 150426 | [150426-a-way-to-be-dead.json](./150426-a-way-to-be-dead.json) |
 | A Way to Die | 159854 | [159854-a-way-to-die.json](./159854-a-way-to-die.json) |
 | A Way to Smash | 221337 | [221337-a-way-to-smash.json](./221337-a-way-to-smash.json) |
 | A Way Up | 303234 | [303234-a-way-up.json](./303234-a-way-up.json) |
@@ -1488,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accident | 97907 | [97907-accident.json](./97907-accident.json) |
 | Accident Investigator Simulator: Black Box | 412789 | [412789-accident-investigator-simulator-black-box.json](./412789-accident-investigator-simulator-black-box.json) |
 | Accident Liquidator | 312668 | [312668-accident-liquidator.json](./312668-accident-liquidator.json) |
+| Accident on the Simple Rd | 150460 | [150460-accident-on-the-simple-rd.json](./150460-accident-on-the-simple-rd.json) |
 | Accidental Character Generator | 135785 | [135785-accidental-character-generator.json](./135785-accidental-character-generator.json) |
 | Accidentally | 379460 | [379460-accidentally.json](./379460-accidentally.json) |
 | Acción Rescate | 259663 | [259663-accion-rescate.json](./259663-accion-rescate.json) |
