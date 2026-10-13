@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Arms | 246432 | [246432-baby-arms.json](./246432-baby-arms.json) |
 | Baby Bear's Big Day Out | 155707 | [155707-baby-bears-big-day-out.json](./155707-baby-bears-big-day-out.json) |
 | Baby Berks | 60533 | [60533-baby-berks.json](./60533-baby-berks.json) |
+| Baby Bird Care | 146625 | [146625-baby-bird-care.json](./146625-baby-bird-care.json) |
 | Baby Blimp | 177054 | [177054-baby-blimp.json](./177054-baby-blimp.json) |
 | Baby Blocks: Swipe & Tap Letters, Spell Words Fast | 232472 | [232472-baby-blocks-swipe-and-tap-letters-spell-words-fast.json](./232472-baby-blocks-swipe-and-tap-letters-spell-words-fast.json) |
 | Baby Blues Nightmares: Toddler Horror Game | 291377 | [291377-baby-blues-nightmares-toddler-horror-game.json](./291377-baby-blues-nightmares-toddler-horror-game.json) |
@@ -5263,6 +5264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioBeasts | 112226 | [112226-biobeasts.json](./112226-biobeasts.json) |
 | BiochRL | 61110 | [61110-biochrl.json](./61110-biochrl.json) |
 | Biocide: Karver Island | 166823 | [166823-biocide-karver-island.json](./166823-biocide-karver-island.json) |
+| BioCrisis | 146626 | [146626-biocrisis.json](./146626-biocrisis.json) |
 | BioCrisis: Return 2 the Lab | 203905 | [203905-biocrisis-return-2-the-lab.json](./203905-biocrisis-return-2-the-lab.json) |
 | Biodigital | 107807 | [107807-biodigital.json](./107807-biodigital.json) |
 | Biodrone Battle | 35072 | [35072-biodrone-battle.json](./35072-biodrone-battle.json) |
@@ -5978,6 +5980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Smith 3 | 150641 | [150641-black-smith-3.json](./150641-black-smith-3.json) |
 | Black Smith 4 | 265774 | [265774-black-smith-4.json](./265774-black-smith-4.json) |
 | Black Snow | 221849 | [221849-black-snow.json](./221849-black-snow.json) |
+| Black Somnia | 146643 | [146643-black-somnia.json](./146643-black-somnia.json) |
 | Black Spire | 380005 | [380005-black-spire.json](./380005-black-spire.json) |
 | Black Spot | 193880 | [193880-black-spot.json](./193880-black-spot.json) |
 | Black Stallion Cabaret | 208575 | [208575-black-stallion-cabaret.json](./208575-black-stallion-cabaret.json) |
