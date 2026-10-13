@@ -1375,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Rush | 237256 | [237256-tank-rush.json](./237256-tank-rush.json) |
 | Tank Side Story | 156075 | [156075-tank-side-story.json](./156075-tank-side-story.json) |
 | Tank Souls | 107387 | [107387-tank-souls.json](./107387-tank-souls.json) |
+| Tank Squad | 150429 | [150429-tank-squad.json](./150429-tank-squad.json) |
 | Tank Squad: Battle Hero | 233087 | [233087-tank-squad-battle-hero.json](./233087-tank-squad-battle-hero.json) |
 | Tank Stars | 104105 | [104105-tank-stars.json](./104105-tank-stars.json) |
 | Tank Stars 2 | 188344 | [188344-tank-stars-2.json](./188344-tank-stars-2.json) |
@@ -4604,6 +4605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bygone Days of Her and the Flowers | 368885 | [368885-the-bygone-days-of-her-and-the-flowers.json](./368885-the-bygone-days-of-her-and-the-flowers.json) |
 | The Byoin | 92151 | [92151-the-byoin.json](./92151-the-byoin.json) |
 | The Byouin | 230206 | [230206-the-byouin.json](./230206-the-byouin.json) |
+| The Byte | 150438 | [150438-the-byte.json](./150438-the-byte.json) |
 | The C64 Collection 1 | 214533 | [214533-the-c64-collection-1.json](./214533-the-c64-collection-1.json) |
 | The C64 Collection 2 | 239138 | [239138-the-c64-collection-2.json](./239138-the-c64-collection-2.json) |
 | The Cabin Factory | 325273 | [325273-the-cabin-factory.json](./325273-the-cabin-factory.json) |
@@ -13546,6 +13548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrust Master Deluxe | 258220 | [258220-thrust-master-deluxe.json](./258220-thrust-master-deluxe.json) |
 | Thrust Me Bro | 383654 | [383654-thrust-me-bro.json](./383654-thrust-me-bro.json) |
 | Thrust Platinum | 66784 | [66784-thrust-platinum.json](./66784-thrust-platinum.json) |
+| ThrustLander | 150443 | [150443-thrustlander.json](./150443-thrustlander.json) |
 | ThrustMe Too | 333373 | [333373-thrustme-too.json](./333373-thrustme-too.json) |
 | ThrustWorks | 156010 | [156010-thrustworks.json](./156010-thrustworks.json) |
 | Thrusty Ship | 113660 | [113660-thrusty-ship.json](./113660-thrusty-ship.json) |
