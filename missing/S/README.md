@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saccharine Pale | 239646 | [239646-saccharine-pale.json](./239646-saccharine-pale.json) |
 | Saccharine Playground | 133436 | [133436-saccharine-playground.json](./133436-saccharine-playground.json) |
 | Saccharine: A Misleading Sim Date | 387038 | [387038-saccharine-a-misleading-sim-date.json](./387038-saccharine-a-misleading-sim-date.json) |
+| Sachie: Death Road | 161594 | [161594-sachie-death-road.json](./161594-sachie-death-road.json) |
 | Sachiko's Loner Escape Operation | 303278 | [303278-sachikos-loner-escape-operation.json](./303278-sachikos-loner-escape-operation.json) |
 | Sachin Saga Cricket Champions | 202685 | [202685-sachin-saga-cricket-champions.json](./202685-sachin-saga-cricket-champions.json) |
 | Sachkunde Pfiffikus 2009 | 91618 | [91618-sachkunde-pfiffikus-2009.json](./91618-sachkunde-pfiffikus-2009.json) |
@@ -4248,6 +4249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shades of Black | 36009 | [36009-shades-of-black.json](./36009-shades-of-black.json) |
 | Shades of Doom | 71518 | [71518-shades-of-doom.json](./71518-shades-of-doom.json) |
 | Shades of Manhattan 2 | 182453 | [182453-shades-of-manhattan-2.json](./182453-shades-of-manhattan-2.json) |
+| Shades of Sakura | 161616 | [161616-shades-of-sakura.json](./161616-shades-of-sakura.json) |
 | Shades: Combat Militia | 223918 | [223918-shades-combat-militia.json](./223918-shades-combat-militia.json) |
 | Shades: Shadow Fight Roguelike | 300698 | [300698-shades-shadow-fight-roguelike.json](./300698-shades-shadow-fight-roguelike.json) |
 | Shadey's Quest | 337154 | [337154-shadeys-quest.json](./337154-shadeys-quest.json) |
@@ -4591,6 +4593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows on the Vatican Act I: Greed | 36370 | [36370-shadows-on-the-vatican-act-i-greed.json](./36370-shadows-on-the-vatican-act-i-greed.json) |
 | Shadows on the Vatican Act II: Wrath | 27753 | [27753-shadows-on-the-vatican-act-ii-wrath.json](./27753-shadows-on-the-vatican-act-ii-wrath.json) |
 | Shadows on the Vatican: Act III - Sloth | 212222 | [212222-shadows-on-the-vatican-act-iii-sloth.json](./212222-shadows-on-the-vatican-act-iii-sloth.json) |
+| Shadows on the Vatican: Nightingale | 161591 | [161591-shadows-on-the-vatican-nightingale.json](./161591-shadows-on-the-vatican-nightingale.json) |
 | Shadows on the Walls | 262967 | [262967-shadows-on-the-walls.json](./262967-shadows-on-the-walls.json) |
 | Shadows Over Loathing | 225615 | [225615-shadows-over-loathing.json](./225615-shadows-over-loathing.json) |
 | Shadows Over Loathing: Collector’s Edition | 247193 | [247193-shadows-over-loathing-collector-s-edition.json](./247193-shadows-over-loathing-collector-s-edition.json) |
@@ -4623,6 +4626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shafted | 211692 | [211692-shafted.json](./211692-shafted.json) |
 | Shafted | 358931 | [358931-shafted.json](./358931-shafted.json) |
 | Shagster Online 2 | 176812 | [176812-shagster-online-2.json](./176812-shagster-online-2.json) |
+| Shǎguāshì SGB Cūlòu Xīndé | 161597 | [161597-shaguashi-sgb-culou-xinde.json](./161597-shaguashi-sgb-culou-xinde.json) |
 | Shahmaran | 337047 | [337047-shahmaran.json](./337047-shahmaran.json) |
 | Shahrzad: The Storyteller | 108378 | [108378-shahrzad-the-storyteller.json](./108378-shahrzad-the-storyteller.json) |
 | Shaiya | 85841 | [85841-shaiya.json](./85841-shaiya.json) |
@@ -4768,6 +4772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaolin vs. Wutang Legends | 365774 | [365774-shaolin-vs-wutang-legends.json](./365774-shaolin-vs-wutang-legends.json) |
 | Shaolin's Road | 45909 | [45909-shaolins-road.json](./45909-shaolins-road.json) |
 | Shaoye | 113612 | [113612-shaoye.json](./113612-shaoye.json) |
+| Shape | 161603 | [161603-shape.json](./161603-shape.json) |
 | Shape | 323834 | [323834-shape.json](./323834-shape.json) |
 | Shape Boxing 2: Wii de Enjoy Diet! | 136886 | [136886-shape-boxing-2-wii-de-enjoy-diet.json](./136886-shape-boxing-2-wii-de-enjoy-diet.json) |
 | Shape Brawl | 339933 | [339933-shape-brawl.json](./339933-shape-brawl.json) |
@@ -6679,6 +6684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Significant | 384208 | [384208-significant.json](./384208-significant.json) |
 | Signs of Darkness | 76531 | [76531-signs-of-darkness.json](./76531-signs-of-darkness.json) |
 | Signs of the Sojourner | 118603 | [118603-signs-of-the-sojourner.json](./118603-signs-of-the-sojourner.json) |
+| Signs of Zodiac | 161605 | [161605-signs-of-zodiac.json](./161605-signs-of-zodiac.json) |
 | Signum Malum | 342095 | [342095-signum-malum.json](./342095-signum-malum.json) |
 | Signum Perfectum | 190213 | [190213-signum-perfectum.json](./190213-signum-perfectum.json) |
 | Signus: The Artifact Wars | 70464 | [70464-signus-the-artifact-wars.json](./70464-signus-the-artifact-wars.json) |
@@ -8536,6 +8542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepfall | 175280 | [175280-sleepfall.json](./175280-sleepfall.json) |
 | Sleepi Boi Can't Sleep | 206723 | [206723-sleepi-boi-cant-sleep.json](./206723-sleepi-boi-cant-sleep.json) |
 | Sleepin' Guy: Deluxe Edition | 188043 | [188043-sleepin-guy-deluxe-edition.json](./188043-sleepin-guy-deluxe-edition.json) |
+| Sleeping Beauty | 161593 | [161593-sleeping-beauty.json](./161593-sleeping-beauty.json) |
 | Sleeping Beauty X : The Legend of Tales | 175984 | [175984-sleeping-beauty-x-the-legend-of-tales.json](./175984-sleeping-beauty-x-the-legend-of-tales.json) |
 | Sleeping Dawn VR | 100585 | [100585-sleeping-dawn-vr.json](./100585-sleeping-dawn-vr.json) |
 | Sleeping Dogs: Drunken Fist Pack | 166007 | [166007-sleeping-dogs-drunken-fist-pack.json](./166007-sleeping-dogs-drunken-fist-pack.json) |
@@ -12274,6 +12281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soup | 33676 | [33676-soup.json](./33676-soup.json) |
 | Soup: The Game | 58899 | [58899-soup-the-game.json](./58899-soup-the-game.json) |
 | Soup: The Vibe Explorer | 406710 | [406710-soup-the-vibe-explorer.json](./406710-soup-the-vibe-explorer.json) |
+| Soup! | 161612 | [161612-soup.json](./161612-soup.json) |
 | Souper Bloody | 397651 | [397651-souper-bloody.json](./397651-souper-bloody.json) |
 | Souper Man | 137965 | [137965-souper-man.json](./137965-souper-man.json) |
 | Soups Christmas | 310606 | [310606-soups-christmas.json](./310606-soups-christmas.json) |
@@ -12414,6 +12422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Agent: 8 Artifacts | 158521 | [158521-space-agent-8-artifacts.json](./158521-space-agent-8-artifacts.json) |
 | Space Alien Hangar | 360731 | [360731-space-alien-hangar.json](./360731-space-alien-hangar.json) |
 | Space Aliens Invaders | 147641 | [147641-space-aliens-invaders.json](./147641-space-aliens-invaders.json) |
+| Space Alpha | 161617 | [161617-space-alpha.json](./161617-space-alpha.json) |
 | Space and Lazers | 324320 | [324320-space-and-lazers.json](./324320-space-and-lazers.json) |
 | Space Angel Boin Boin! | 97832 | [97832-space-angel-boin-boin.json](./97832-space-angel-boin-boin.json) |
 | Space Arcade | 237374 | [237374-space-arcade.json](./237374-space-arcade.json) |
@@ -12556,6 +12565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Defender | 174087 | [174087-space-defender.json](./174087-space-defender.json) |
 | Space Defender | 76924 | [76924-space-defender.json](./76924-space-defender.json) |
 | Space Defender Battle Infinity | 109495 | [109495-space-defender-battle-infinity.json](./109495-space-defender-battle-infinity.json) |
+| Space Defense Grid | 162586 | [162586-space-defense-grid.json](./162586-space-defense-grid.json) |
 | Space Demolisher | 25919 | [25919-space-demolisher.json](./25919-space-demolisher.json) |
 | Space Demon | 145469 | [145469-space-demon.json](./145469-space-demon.json) |
 | Space Demon Combat Tactics III | 186334 | [186334-space-demon-combat-tactics-iii.json](./186334-space-demon-combat-tactics-iii.json) |
@@ -12857,6 +12867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mission SM-11 | 235219 | [235219-space-mission-sm-11.json](./235219-space-mission-sm-11.json) |
 | Space Moguls | 124600 | [124600-space-moguls.json](./124600-space-moguls.json) |
 | Space Molmae | 202645 | [202645-space-molmae.json](./202645-space-molmae.json) |
+| Space Monster | 162585 | [162585-space-monster.json](./162585-space-monster.json) |
 | Space Monster | 72971 | [72971-space-monster.json](./72971-space-monster.json) |
 | Space Moonshiner | 230969 | [230969-space-moonshiner.json](./230969-space-moonshiner.json) |
 | Space Mosaics | 383727 | [383727-space-mosaics.json](./383727-space-mosaics.json) |
@@ -17179,6 +17190,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Freight: Endless Horizon | 395520 | [395520-stellar-freight-endless-horizon.json](./395520-stellar-freight-endless-horizon.json) |
 | Stellar Gun | 167146 | [167146-stellar-gun.json](./167146-stellar-gun.json) |
 | Stellar Howl: Galactic Repairs | 417368 | [417368-stellar-howl-galactic-repairs.json](./417368-stellar-howl-galactic-repairs.json) |
+| Stellar Impact: Artillery Ship | 162582 | [162582-stellar-impact-artillery-ship.json](./162582-stellar-impact-artillery-ship.json) |
+| Stellar Impact: Carrier Ship | 162580 | [162580-stellar-impact-carrier-ship.json](./162580-stellar-impact-carrier-ship.json) |
+| Stellar Impact: Science Vessel | 162581 | [162581-stellar-impact-science-vessel.json](./162581-stellar-impact-science-vessel.json) |
 | Stellar Industrialist | 390182 | [390182-stellar-industrialist.json](./390182-stellar-industrialist.json) |
 | Stellar Initiative | 261784 | [261784-stellar-initiative.json](./261784-stellar-initiative.json) |
 | Stellar Insurgency | 239760 | [239760-stellar-insurgency.json](./239760-stellar-insurgency.json) |
@@ -23462,6 +23476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synesthesia | 337105 | [337105-synesthesia.json](./337105-synesthesia.json) |
 | Synesthetic | 175334 | [175334-synesthetic.json](./175334-synesthetic.json) |
 | Synnergy Games Bundle | 331474 | [331474-synnergy-games-bundle.json](./331474-synnergy-games-bundle.json) |
+| Synonym | 161587 | [161587-synonym.json](./161587-synonym.json) |
 | Synonym Match | 105759 | [105759-synonym-match.json](./105759-synonym-match.json) |
 | Synonymy | 35925 | [35925-synonymy.json](./35925-synonymy.json) |
 | Synopsis Quest | 66166 | [66166-synopsis-quest.json](./66166-synopsis-quest.json) |
