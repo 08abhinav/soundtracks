@@ -1416,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfathomable Villa | 112971 | [112971-unfathomable-villa.json](./112971-unfathomable-villa.json) |
 | Unfazed | 31948 | [31948-unfazed.json](./31948-unfazed.json) |
 | Unfeigned Depths | 302049 | [302049-unfeigned-depths.json](./302049-unfeigned-depths.json) |
+| Unferat | 135566 | [135566-unferat.json](./135566-unferat.json) |
 | Unfinished | 297902 | [297902-unfinished.json](./297902-unfinished.json) |
 | Unfinished - An Artist's Lament | 34810 | [34810-unfinished-an-artists-lament.json](./34810-unfinished-an-artists-lament.json) |
 | Unfinished 2 | 338589 | [338589-unfinished-2.json](./338589-unfinished-2.json) |
@@ -2452,6 +2453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uzi's Drugged Adventures: Undead Memories | 133819 | [133819-uzis-drugged-adventures-undead-memories.json](./133819-uzis-drugged-adventures-undead-memories.json) |
 | Uznali? SoglasnbI? | 390164 | [390164-uznali-soglasnbi.json](./390164-uznali-soglasnbi.json) |
 | Uzo | 195761 | [195761-uzo.json](./195761-uzo.json) |
+| Uzu Keobukseon | 135590 | [135590-uzu-keobukseon.json](./135590-uzu-keobukseon.json) |
 | Uzzuzzu My Pet | 242056 | [242056-uzzuzzu-my-pet.json](./242056-uzzuzzu-my-pet.json) |
 | Uzzuzzu My Pet: Golf Dash | 277247 | [277247-uzzuzzu-my-pet-golf-dash.json](./277247-uzzuzzu-my-pet-golf-dash.json) |
 | Uzzuzzu My Pet: Golf Dash - Amazing Edition | 328811 | [328811-uzzuzzu-my-pet-golf-dash-amazing-edition.json](./328811-uzzuzzu-my-pet-golf-dash-amazing-edition.json) |
