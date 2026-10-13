@@ -5142,6 +5142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Merchants | 415289 | [415289-rise-of-the-merchants.json](./415289-rise-of-the-merchants.json) |
 | Rise of the Nindroids | 408880 | [408880-rise-of-the-nindroids.json](./408880-rise-of-the-nindroids.json) |
 | Rise of the Outcast Hero | 297202 | [297202-rise-of-the-outcast-hero.json](./297202-rise-of-the-outcast-hero.json) |
+| Rise of the Overlords | 161574 | [161574-rise-of-the-overlords.json](./161574-rise-of-the-overlords.json) |
 | Rise of the Pawn | 321132 | [321132-rise-of-the-pawn.json](./321132-rise-of-the-pawn.json) |
 | Rise of the Phoenix | 42650 | [42650-rise-of-the-phoenix.json](./42650-rise-of-the-phoenix.json) |
 | Rise of the Pirates | 114802 | [114802-rise-of-the-pirates.json](./114802-rise-of-the-pirates.json) |
@@ -7305,6 +7306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rottweiler | 321057 | [321057-rottweiler.json](./321057-rottweiler.json) |
 | Rotund Rebound | 117060 | [117060-rotund-rebound.json](./117060-rotund-rebound.json) |
 | Rotund Takeoff | 139303 | [139303-rotund-takeoff.json](./139303-rotund-takeoff.json) |
+| Rou Niu Yang Zhi Ji Hua | 161599 | [161599-rou-niu-yang-zhi-ji-hua.json](./161599-rou-niu-yang-zhi-ji-hua.json) |
 | Rouen | 97935 | [97935-rouen.json](./97935-rouen.json) |
 | Rouge noir | 175904 | [175904-rouge-noir.json](./175904-rouge-noir.json) |
 | Rouge Tank | 295548 | [295548-rouge-tank.json](./295548-rouge-tank.json) |
