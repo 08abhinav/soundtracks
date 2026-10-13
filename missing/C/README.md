@@ -2601,6 +2601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat's Cosmic Atlas: Definitive Edition | 288286 | [288286-cats-cosmic-atlas-definitive-edition.json](./288286-cats-cosmic-atlas-definitive-edition.json) |
 | Cat's Cosmic Atlas: Premium Edition | 286212 | [286212-cats-cosmic-atlas-premium-edition.json](./286212-cats-cosmic-atlas-premium-edition.json) |
 | Cat's Cosmic Atlas: Ultimate Edition | 278649 | [278649-cats-cosmic-atlas-ultimate-edition.json](./278649-cats-cosmic-atlas-ultimate-edition.json) |
+| Cat's Cradle | 151471 | [151471-cats-cradle.json](./151471-cats-cradle.json) |
 | Cat's Kiss | 152296 | [152296-cats-kiss.json](./152296-cats-kiss.json) |
 | Cat's Princess | 150770 | [150770-cats-princess.json](./150770-cats-princess.json) |
 | Cat's Request | 237043 | [237043-cats-request.json](./237043-cats-request.json) |
@@ -6190,6 +6191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Clans: The North Season | 317335 | [317335-clash-of-clans-the-north-season.json](./317335-clash-of-clans-the-north-season.json) |
 | Clash of Clones: kill birds like a ninja | 197744 | [197744-clash-of-clones-kill-birds-like-a-ninja.json](./197744-clash-of-clones-kill-birds-like-a-ninja.json) |
 | Clash of Coins | 135029 | [135029-clash-of-coins.json](./135029-clash-of-coins.json) |
+| Clash of Command: Campaign of 1863 | 151485 | [151485-clash-of-command-campaign-of-1863.json](./151485-clash-of-command-campaign-of-1863.json) |
 | Clash of Critters | 383642 | [383642-clash-of-critters.json](./383642-clash-of-critters.json) |
 | Clash of Digital: Rumble Smash | 241666 | [241666-clash-of-digital-rumble-smash.json](./241666-clash-of-digital-rumble-smash.json) |
 | Clash of Elements | 233216 | [233216-clash-of-elements.json](./233216-clash-of-elements.json) |
@@ -9747,6 +9749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic: A Journey Among Shadows | 190470 | [190470-cosmic-a-journey-among-shadows.json](./190470-cosmic-a-journey-among-shadows.json) |
 | Cosmica | 149948 | [149948-cosmica.json](./149948-cosmica.json) |
 | CosmicBreak Gun & Slash | 189988 | [189988-cosmicbreak-gun-and-slash.json](./189988-cosmicbreak-gun-and-slash.json) |
+| CosmicBreak Universal | 151457 | [151457-cosmicbreak-universal.json](./151457-cosmicbreak-universal.json) |
 | CosmicBreak Universal: Sylvia | 196090 | [196090-cosmicbreak-universal-sylvia.json](./196090-cosmicbreak-universal-sylvia.json) |
 | Cosmik Battle | 260883 | [260883-cosmik-battle.json](./260883-cosmik-battle.json) |
 | Cosmik Block | 109529 | [109529-cosmik-block.json](./109529-cosmik-block.json) |
@@ -12337,6 +12340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Way 2 | 83155 | [83155-cube-way-2.json](./83155-cube-way-2.json) |
 | Cube World | 195215 | [195215-cube-world.json](./195215-cube-world.json) |
 | Cube World Omega | 376012 | [376012-cube-world-omega.json](./376012-cube-world-omega.json) |
+| Cube Worlds Survival | 151478 | [151478-cube-worlds-survival.json](./151478-cube-worlds-survival.json) |
 | Cube Zoid | 176466 | [176466-cube-zoid.json](./176466-cube-zoid.json) |
 | Cube-e 2 | 165415 | [165415-cube-e-2.json](./165415-cube-e-2.json) |
 | Cube-Field+ | 392369 | [392369-cube-field.json](./392369-cube-field.json) |
@@ -13201,6 +13205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber-Ante | 158044 | [158044-cyber-ante.json](./158044-cyber-ante.json) |
 | Cyber-ART | 377689 | [377689-cyber-art.json](./377689-cyber-art.json) |
 | Cyber-Assassin | 269272 | [269272-cyber-assassin.json](./269272-cyber-assassin.json) |
+| Cyber-Cat | 151477 | [151477-cyber-cat.json](./151477-cyber-cat.json) |
 | Cyber-Cop | 80869 | [80869-cyber-cop.json](./80869-cyber-cop.json) |
 | Cyber.one: Trans Car Racing | 126985 | [126985-cyber-one-trans-car-racing.json](./126985-cyber-one-trans-car-racing.json) |
 | Cyber92 Datawar | 398491 | [398491-cyber92-datawar.json](./398491-cyber92-datawar.json) |
