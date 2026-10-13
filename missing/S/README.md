@@ -13429,6 +13429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacewing War 2 | 266235 | [266235-spacewing-war-2.json](./266235-spacewing-war-2.json) |
 | SpaceWorms | 114200 | [114200-spaceworms.json](./114200-spaceworms.json) |
 | SpaceWrestler XL | 128610 | [128610-spacewrestler-xl.json](./128610-spacewrestler-xl.json) |
+| Spacey McRacey | 134355 | [134355-spacey-mcracey.json](./134355-spacey-mcracey.json) |
 | Spacey Vade | 158153 | [158153-spacey-vade.json](./158153-spacey-vade.json) |
 | Spacey-Clopedia | 272484 | [272484-spacey-clopedia.json](./272484-spacey-clopedia.json) |
 | Spacy Shuffle Puck | 91520 | [91520-spacy-shuffle-puck.json](./91520-spacy-shuffle-puck.json) |
@@ -14315,6 +14316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Dasher | 410469 | [410469-spin-dasher.json](./410469-spin-dasher.json) |
 | Spin Doctor | 175389 | [175389-spin-doctor.json](./175389-spin-doctor.json) |
 | Spin Evolution | 116288 | [116288-spin-evolution.json](./116288-spin-evolution.json) |
+| Spin for Love | 134326 | [134326-spin-for-love.json](./134326-spin-for-love.json) |
 | Spin Forward | 360716 | [360716-spin-forward.json](./360716-spin-forward.json) |
 | Spin Hero | 298130 | [298130-spin-hero.json](./298130-spin-hero.json) |
 | Spin Jam | 24129 | [24129-spin-jam.json](./24129-spin-jam.json) |
@@ -14703,6 +14705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Lights, Camera, Pants! | 248553 | [248553-spongebob-squarepants-lights-camera-pants.json](./248553-spongebob-squarepants-lights-camera-pants.json) |
 | SpongeBob SquarePants: Model Sponge | 228488 | [228488-spongebob-squarepants-model-sponge.json](./228488-spongebob-squarepants-model-sponge.json) |
 | SpongeBob SquarePants: Nighty Nightmare | 18301 | [18301-spongebob-squarepants-nighty-nightmare.json](./18301-spongebob-squarepants-nighty-nightmare.json) |
+| SpongeBob SquarePants: Patty Pursuit | 134492 | [134492-spongebob-squarepants-patty-pursuit.json](./134492-spongebob-squarepants-patty-pursuit.json) |
 | SpongeBob SquarePants: Plankton's Robotic Revenge | 194951 | [194951-spongebob-squarepants-planktons-robotic-revenge.json](./194951-spongebob-squarepants-planktons-robotic-revenge.json) |
 | SpongeBob SquarePants: Reef Rumble | 230891 | [230891-spongebob-squarepants-reef-rumble.json](./230891-spongebob-squarepants-reef-rumble.json) |
 | SpongeBob SquarePants: Revenge of the Flying Dutchman | 2762 | [2762-spongebob-squarepants-revenge-of-the-flying-dutchman.json](./2762-spongebob-squarepants-revenge-of-the-flying-dutchman.json) |
@@ -18509,6 +18512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter Zero 3 | 242649 | [242649-street-fighter-zero-3.json](./242649-street-fighter-zero-3.json) |
 | Street Fighter: Duel | 142490 | [142490-street-fighter-duel.json](./142490-street-fighter-duel.json) |
 | Street Fighter: Puzzle Spirits | 60889 | [60889-street-fighter-puzzle-spirits.json](./60889-street-fighter-puzzle-spirits.json) |
+| Street Fighter: The Movie | 134337 | [134337-street-fighter-the-movie.json](./134337-street-fighter-the-movie.json) |
 | Street Fighting Grandma | 252264 | [252264-street-fighting-grandma.json](./252264-street-fighting-grandma.json) |
 | Street Flicker | 311235 | [311235-street-flicker.json](./311235-street-flicker.json) |
 | Street Food Restaurant Owner | 327979 | [327979-street-food-restaurant-owner.json](./327979-street-food-restaurant-owner.json) |
@@ -20534,6 +20538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hockey Ball | 109642 | [109642-super-hockey-ball.json](./109642-super-hockey-ball.json) |
 | Super Holo Wars | 394807 | [394807-super-holo-wars.json](./394807-super-holo-wars.json) |
 | Super Holobunnies: Pause Café | 135649 | [135649-super-holobunnies-pause-cafe.json](./135649-super-holobunnies-pause-cafe.json) |
+| Super Homebrew War | 134356 | [134356-super-homebrew-war.json](./134356-super-homebrew-war.json) |
 | Super Hoodie Bros | 378771 | [378771-super-hoodie-bros.json](./378771-super-hoodie-bros.json) |
 | Super Hook Girl | 307969 | [307969-super-hook-girl.json](./307969-super-hook-girl.json) |
 | Super Hook Girl Gaiden: For Smile Giving Birthday | 307972 | [307972-super-hook-girl-gaiden-for-smile-giving-birthday.json](./307972-super-hook-girl-gaiden-for-smile-giving-birthday.json) |
@@ -21912,6 +21917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tetris | 100287 | [100287-super-tetris.json](./100287-super-tetris.json) |
 | Super Tetris | 46116 | [46116-super-tetris.json](./46116-super-tetris.json) |
 | Super Tetris 3 | 42531 | [42531-super-tetris-3.json](./42531-super-tetris-3.json) |
+| Super Thor Quest | 134332 | [134332-super-thor-quest.json](./134332-super-thor-quest.json) |
 | Super Thunder Blade | 4471 | [4471-super-thunder-blade.json](./4471-super-thunder-blade.json) |
 | Super Tilt Bro. | 118213 | [118213-super-tilt-bro.json](./118213-super-tilt-bro.json) |
 | Super Time Force | 5336 | [5336-super-time-force.json](./5336-super-time-force.json) |
