@@ -1419,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekopter | 156018 | [156018-nekopter.json](./156018-nekopter.json) |
 | Nekoroid | 152144 | [152144-nekoroid.json](./152144-nekoroid.json) |
 | Nekoto | 296594 | [296594-nekoto.json](./296594-nekoto.json) |
+| Nekour | 138501 | [138501-nekour.json](./138501-nekour.json) |
 | Nekowater | 274034 | [274034-nekowater.json](./274034-nekowater.json) |
 | Nekra Psaria | 182209 | [182209-nekra-psaria.json](./182209-nekra-psaria.json) |
 | Nekra Psaria 4 | 385188 | [385188-nekra-psaria-4.json](./385188-nekra-psaria-4.json) |
