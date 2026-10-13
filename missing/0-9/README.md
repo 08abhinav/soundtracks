@@ -1521,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Ultra Minigolf Adventures | 9899 | [9899-3d-ultra-minigolf-adventures.json](./9899-3d-ultra-minigolf-adventures.json) |
 | 3D Ultra Minigolf Adventures: Carnival | 73260 | [73260-3d-ultra-minigolf-adventures-carnival.json](./73260-3d-ultra-minigolf-adventures-carnival.json) |
 | 3D Ultra Minigolf Adventures: Space | 137378 | [137378-3d-ultra-minigolf-adventures-space.json](./137378-3d-ultra-minigolf-adventures-space.json) |
+| 3D Waifu - a physical experience | 139110 | [139110-3d-waifu-a-physical-experience.json](./139110-3d-waifu-a-physical-experience.json) |
 | 3D Water Bike | 255033 | [255033-3d-water-bike.json](./255033-3d-water-bike.json) |
 | 3D Water Driver | 47561 | [47561-3d-water-driver.json](./47561-3d-water-driver.json) |
 | 3D Watermelon Game | 277950 | [277950-3d-watermelon-game.json](./277950-3d-watermelon-game.json) |
