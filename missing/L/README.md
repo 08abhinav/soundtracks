@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L'Avancée du Désert | 203841 | [203841-lavancee-du-desert.json](./203841-lavancee-du-desert.json) |
 | L'Cestrue Seyuntres | 128451 | [128451-lcestrue-seyuntres.json](./128451-lcestrue-seyuntres.json) |
 | L'Empereur | 85737 | [85737-lempereur.json](./85737-lempereur.json) |
+| L'esprit du loup | 144074 | [144074-lesprit-du-loup.json](./144074-lesprit-du-loup.json) |
 | L'Histoire de France Pour Les Nuls | 269633 | [269633-lhistoire-de-france-pour-les-nuls.json](./269633-lhistoire-de-france-pour-les-nuls.json) |
 | L'Île Archéo | 285119 | [285119-lile-archeo.json](./285119-lile-archeo.json) |
 | L'Impiccato in Italiano | 96042 | [96042-limpiccato-in-italiano.json](./96042-limpiccato-in-italiano.json) |
@@ -4219,6 +4220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liveza: Death of the Earth | 32960 | [32960-liveza-death-of-the-earth.json](./32960-liveza-death-of-the-earth.json) |
 | Livid Meadow | 271209 | [271209-livid-meadow.json](./271209-livid-meadow.json) |
 | Living Art | 195555 | [195555-living-art.json](./195555-living-art.json) |
+| Living Books: Arthur's Reading Race | 144031 | [144031-living-books-arthurs-reading-race.json](./144031-living-books-arthurs-reading-race.json) |
 | Living Books: D.W. the Picky Eater | 122276 | [122276-living-books-d-w-the-picky-eater.json](./122276-living-books-d-w-the-picky-eater.json) |
 | Living Books: Dr. Seuss's ABC | 134447 | [134447-living-books-dr-seusss-abc.json](./134447-living-books-dr-seusss-abc.json) |
 | Living Books: Harry and the Haunted House | 70079 | [70079-living-books-harry-and-the-haunted-house.json](./70079-living-books-harry-and-the-haunted-house.json) |
@@ -5107,6 +5109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lore Restore | 368477 | [368477-lore-restore.json](./368477-lore-restore.json) |
 | Lore: Aftermath | 69274 | [69274-lore-aftermath.json](./69274-lore-aftermath.json) |
 | Lore: Curse of the Elemental | 244770 | [244770-lore-curse-of-the-elemental.json](./244770-lore-curse-of-the-elemental.json) |
+| Lore: The Hunt | 144066 | [144066-lore-the-hunt.json](./144066-lore-the-hunt.json) |
 | Loree 3D | 412950 | [412950-loree-3d.json](./412950-loree-3d.json) |
 | Lorelei and the Laser Eyes | 206806 | [206806-lorelei-and-the-laser-eyes.json](./206806-lorelei-and-the-laser-eyes.json) |
 | Lorem Gioco | 381681 | [381681-lorem-gioco.json](./381681-lorem-gioco.json) |
