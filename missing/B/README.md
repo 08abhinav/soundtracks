@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Carbonara | 404968 | [404968-baby-carbonara.json](./404968-baby-carbonara.json) |
 | Baby Coyote | 157912 | [157912-baby-coyote.json](./157912-baby-coyote.json) |
 | Baby Dino | 283970 | [283970-baby-dino.json](./283970-baby-dino.json) |
+| Baby Dino Adventures | 137893 | [137893-baby-dino-adventures.json](./137893-baby-dino-adventures.json) |
 | Baby Eater | 26127 | [26127-baby-eater.json](./26127-baby-eater.json) |
 | Baby Escape | 400220 | [400220-baby-escape.json](./400220-baby-escape.json) |
 | Baby Felix Creativity Center | 200456 | [200456-baby-felix-creativity-center.json](./200456-baby-felix-creativity-center.json) |
@@ -3121,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be Funny Now! | 194440 | [194440-be-funny-now.json](./194440-be-funny-now.json) |
 | Be hate Free Interactive | 112130 | [112130-be-hate-free-interactive.json](./112130-be-hate-free-interactive.json) |
 | Be Her Hero | 210518 | [210518-be-her-hero.json](./210518-be-her-hero.json) |
+| Be Hero | 137917 | [137917-be-hero.json](./137917-be-hero.json) |
 | Be Honest | 305536 | [305536-be-honest.json](./305536-be-honest.json) |
 | Be Kind Rewind | 411148 | [411148-be-kind-rewind.json](./411148-be-kind-rewind.json) |
 | Be Kind To Yourself | 328241 | [328241-be-kind-to-yourself.json](./328241-be-kind-to-yourself.json) |
@@ -7723,6 +7725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blunder The Sea | 303169 | [303169-blunder-the-sea.json](./303169-blunder-the-sea.json) |
 | Blunt Force | 26566 | [26566-blunt-force.json](./26566-blunt-force.json) |
 | Blunted in The Malen | 302956 | [302956-blunted-in-the-malen.json](./302956-blunted-in-the-malen.json) |
+| Blupimania | 137920 | [137920-blupimania.json](./137920-blupimania.json) |
 | Blur | 3235 | [3235-blur.json](./3235-blur.json) |
 | Blur time | 60790 | [60790-blur-time.json](./60790-blur-time.json) |
 | Blurple Food Wars | 143412 | [143412-blurple-food-wars.json](./143412-blurple-food-wars.json) |
