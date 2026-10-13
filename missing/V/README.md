@@ -1896,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus Kombat | 284565 | [284565-virus-kombat.json](./284565-virus-kombat.json) |
 | Virus Madness: Dungeons of your Body | 161373 | [161373-virus-madness-dungeons-of-your-body.json](./161373-virus-madness-dungeons-of-your-body.json) |
 | Virus ON | 160251 | [160251-virus-on.json](./160251-virus-on.json) |
+| Virus Popper | 142210 | [142210-virus-popper.json](./142210-virus-popper.json) |
 | Virus Protocol | 211779 | [211779-virus-protocol.json](./211779-virus-protocol.json) |
 | Virus Remedium | 216858 | [216858-virus-remedium.json](./216858-virus-remedium.json) |
 | Virus Rush | 149403 | [149403-virus-rush.json](./149403-virus-rush.json) |
