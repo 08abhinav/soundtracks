@@ -3329,6 +3329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kombat Kars | 70446 | [70446-kombat-kars.json](./70446-kombat-kars.json) |
 | Kombate Mexicano Elexiones | 261555 | [261555-kombate-mexicano-elexiones.json](./261555-kombate-mexicano-elexiones.json) |
 | Kombi | 340888 | [340888-kombi.json](./340888-kombi.json) |
+| Kombi Travels: Jigsaw Landscapes | 163007 | [163007-kombi-travels-jigsaw-landscapes.json](./163007-kombi-travels-jigsaw-landscapes.json) |
 | Kombinera | 194249 | [194249-kombinera.json](./194249-kombinera.json) |
 | Kombo | 232889 | [232889-kombo.json](./232889-kombo.json) |
 | Kombo King | 188993 | [188993-kombo-king.json](./188993-kombo-king.json) |
