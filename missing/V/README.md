@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V-Rally 3 | 243024 | [243024-v-rally-3.json](./243024-v-rally-3.json) |
 | V-Rally 3 | 4227 | [4227-v-rally-3.json](./4227-v-rally-3.json) |
 | V-Rally 4: Ultimate Edition | 110832 | [110832-v-rally-4-ultimate-edition.json](./110832-v-rally-4-ultimate-edition.json) |
+| V-Rally: Championship Edition | 152047 | [152047-v-rally-championship-edition.json](./152047-v-rally-championship-edition.json) |
 | V-Ray | 138709 | [138709-v-ray.json](./138709-v-ray.json) |
 | V-Shift | 338559 | [338559-v-shift.json](./338559-v-shift.json) |
 | V-Speedway | 194220 | [194220-v-speedway.json](./194220-v-speedway.json) |
@@ -742,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ved: Journey Beyond the Cube | 346240 | [346240-ved-journey-beyond-the-cube.json](./346240-ved-journey-beyond-the-cube.json) |
 | VED: Purification | 367955 | [367955-ved-purification.json](./367955-ved-purification.json) |
 | Vedal's Secret | 386121 | [386121-vedals-secret.json](./386121-vedals-secret.json) |
+| Vedelem: The Golden Horde | 151462 | [151462-vedelem-the-golden-horde.json](./151462-vedelem-the-golden-horde.json) |
 | Vedmaak | 311128 | [311128-vedmaak.json](./311128-vedmaak.json) |
 | Vee is Calling | 76549 | [76549-vee-is-calling.json](./76549-vee-is-calling.json) |
 | Veer | 34384 | [34384-veer.json](./34384-veer.json) |
@@ -1519,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village Tycoon: Farm City Simulator | 275035 | [275035-village-tycoon-farm-city-simulator.json](./275035-village-tycoon-farm-city-simulator.json) |
 | Village Valley | 177792 | [177792-village-valley.json](./177792-village-valley.json) |
 | VillageBlade | 192875 | [192875-villageblade.json](./192875-villageblade.json) |
+| Villagedom | 152023 | [152023-villagedom.json](./152023-villagedom.json) |
 | Villager | 178521 | [178521-villager.json](./178521-villager.json) |
 | Villager comes alive | 192451 | [192451-villager-comes-alive.json](./192451-villager-comes-alive.json) |
 | Villager's Biography | 102929 | [102929-villagers-biography.json](./102929-villagers-biography.json) |
