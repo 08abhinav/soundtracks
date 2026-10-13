@@ -2222,6 +2222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Father and Son | 97361 | [97361-father-and-son.json](./97361-father-and-son.json) |
 | Father and Son 2 | 314382 | [314382-father-and-son-2.json](./314382-father-and-son-2.json) |
 | Father Figure | 376029 | [376029-father-figure.json](./376029-father-figure.json) |
+| Father of Darkness | 143462 | [143462-father-of-darkness.json](./143462-father-of-darkness.json) |
 | Father World | 159187 | [159187-father-world.json](./159187-father-world.json) |
 | Father, Son & Holy Guns | 388891 | [388891-father-son-and-holy-guns.json](./388891-father-son-and-holy-guns.json) |
 | Father: The Truth | 202565 | [202565-father-the-truth.json](./202565-father-the-truth.json) |
@@ -4910,6 +4911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flashout 3D | 39206 | [39206-flashout-3d.json](./39206-flashout-3d.json) |
 | Flashout 3D: Enhanced Edition | 214676 | [214676-flashout-3d-enhanced-edition.json](./214676-flashout-3d-enhanced-edition.json) |
 | Flashout III | 199568 | [199568-flashout-iii.json](./199568-flashout-iii.json) |
+| Flashpoint Campaigns: Southern Storm | 143429 | [143429-flashpoint-campaigns-southern-storm.json](./143429-flashpoint-campaigns-southern-storm.json) |
 | Flashy Maze | 130742 | [130742-flashy-maze.json](./130742-flashy-maze.json) |
 | Flask | 366367 | [366367-flask.json](./366367-flask.json) |
 | Flask & Barrel | 380763 | [380763-flask-and-barrel.json](./380763-flask-and-barrel.json) |
