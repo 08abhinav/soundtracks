@@ -3151,6 +3151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch Busters: Stuck on You | 204444 | [204444-glitch-busters-stuck-on-you.json](./204444-glitch-busters-stuck-on-you.json) |
 | Glitch Daddy | 277009 | [277009-glitch-daddy.json](./277009-glitch-daddy.json) |
 | Glitch Dream | 182755 | [182755-glitch-dream.json](./182755-glitch-dream.json) |
+| Glitch Dungeon | 177250 | [177250-glitch-dungeon.json](./177250-glitch-dungeon.json) |
 | Glitch Fixers: Powerpuff Girls | 56734 | [56734-glitch-fixers-powerpuff-girls.json](./56734-glitch-fixers-powerpuff-girls.json) |
 | Glitch Gears | 293549 | [293549-glitch-gears.json](./293549-glitch-gears.json) |
 | Glitch Hearts | 385790 | [385790-glitch-hearts.json](./385790-glitch-hearts.json) |
@@ -6998,6 +6999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunfighter | 347675 | [347675-gunfighter.json](./347675-gunfighter.json) |
 | Gunfighter | 95448 | [95448-gunfighter.json](./95448-gunfighter.json) |
 | Gunfighter II: Revenge of Jesse James | 43531 | [43531-gunfighter-ii-revenge-of-jesse-james.json](./43531-gunfighter-ii-revenge-of-jesse-james.json) |
+| Gunfighters | 177263 | [177263-gunfighters.json](./177263-gunfighters.json) |
 | Gunfire Reborn | 134483 | [134483-gunfire-reborn.json](./134483-gunfire-reborn.json) |
 | Gunfire Reborn: Artisan and Magician | 270764 | [270764-gunfire-reborn-artisan-and-magician.json](./270764-gunfire-reborn-artisan-and-magician.json) |
 | Gunfire Reborn: Realm of Frost and Inkwash | 316833 | [316833-gunfire-reborn-realm-of-frost-and-inkwash.json](./316833-gunfire-reborn-realm-of-frost-and-inkwash.json) |
