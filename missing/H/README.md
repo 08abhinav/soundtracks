@@ -2477,6 +2477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helena's Flowers | 184904 | [184904-helenas-flowers.json](./184904-helenas-flowers.json) |
 | Hélène est dans mon Ventre. | 310037 | [310037-helene-est-dans-mon-ventre.json](./310037-helene-est-dans-mon-ventre.json) |
 | Helenenkapelle VR | 296900 | [296900-helenenkapelle-vr.json](./296900-helenenkapelle-vr.json) |
+| Helevenium | 177788 | [177788-helevenium.json](./177788-helevenium.json) |
 | Helga Deep In Trouble | 315205 | [315205-helga-deep-in-trouble.json](./315205-helga-deep-in-trouble.json) |
 | Helga the Viking Warrior | 192817 | [192817-helga-the-viking-warrior.json](./192817-helga-the-viking-warrior.json) |
 | Helga the Viking Warrior 2: Ivar's Revenge | 236165 | [236165-helga-the-viking-warrior-2-ivars-revenge.json](./236165-helga-the-viking-warrior-2-ivars-revenge.json) |
@@ -3021,6 +3022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HemiRoids | 229020 | [229020-hemiroids.json](./229020-hemiroids.json) |
 | Hemlock | 295862 | [295862-hemlock.json](./295862-hemlock.json) |
 | Hemlon the Grey | 408721 | [408721-hemlon-the-grey.json](./408721-hemlon-the-grey.json) |
+| Hemoglobin Project | 177978 | [177978-hemoglobin-project.json](./177978-hemoglobin-project.json) |
 | Hemomancer | 357413 | [357413-hemomancer.json](./357413-hemomancer.json) |
 | Hemophobia | 299160 | [299160-hemophobia.json](./299160-hemophobia.json) |
 | Hen in the Foxhouse | 188938 | [188938-hen-in-the-foxhouse.json](./188938-hen-in-the-foxhouse.json) |
@@ -5403,6 +5405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hizca | 348929 | [348929-hizca.json](./348929-hizca.json) |
 | Hjarta | 169985 | [169985-hjarta.json](./169985-hjarta.json) |
 | HK Project | 57890 | [57890-hk-project.json](./57890-hk-project.json) |
+| HL: Minimal Edition | 177973 | [177973-hl-minimal-edition.json](./177973-hl-minimal-edition.json) |
 | HLFX: Lost in Black Mesa | 323780 | [323780-hlfx-lost-in-black-mesa.json](./323780-hlfx-lost-in-black-mesa.json) |
 | Hlina | 244996 | [244996-hlina.json](./244996-hlina.json) |
 | Hlína | 335501 | [335501-hlina.json](./335501-hlina.json) |
@@ -5491,6 +5494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoi An Heritage | 214705 | [214705-hoi-an-heritage.json](./214705-hoi-an-heritage.json) |
 | Hoisan's Random Game | 122857 | [122857-hoisans-random-game.json](./122857-hoisans-random-game.json) |
 | Hoist Sail for the Heliopause and Home | 7847 | [7847-hoist-sail-for-the-heliopause-and-home.json](./7847-hoist-sail-for-the-heliopause-and-home.json) |
+| Hojiya | 177962 | [177962-hojiya.json](./177962-hojiya.json) |
 | Hoka-hoka Gudetama Gohan: Densetsu no Shouyu wo Sagasunda wa | 212512 | [212512-hoka-hoka-gudetama-gohan-densetsu-no-shouyu-wo-sagasunda-wa.json](./212512-hoka-hoka-gudetama-gohan-densetsu-no-shouyu-wo-sagasunda-wa.json) |
 | Hokkaido Game | 272254 | [272254-hokkaido-game.json](./272254-hokkaido-game.json) |
 | Hokkaido Hatsu!! Dosanko Wide ga DS ni Narimashita! Hoshizawa Sachiko no Temanashi Raku Raku Gohan | 269584 | [269584-hokkaido-hatsu-dosanko-wide-ga-ds-ni-narimashita-hoshizawa-sachiko-no-temanashi-raku-raku-gohan.json](./269584-hokkaido-hatsu-dosanko-wide-ga-ds-ni-narimashita-hoshizawa-sachiko-no-temanashi-raku-raku-gohan.json) |
@@ -6024,6 +6028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honeycomb Beat | 20685 | [20685-honeycomb-beat.json](./20685-honeycomb-beat.json) |
 | Honeycomb Hotel | 366228 | [366228-honeycomb-hotel.json](./366228-honeycomb-hotel.json) |
 | Honeycomb Hotel ZEN | 96056 | [96056-honeycomb-hotel-zen.json](./96056-honeycomb-hotel-zen.json) |
+| HoneyCombat | 177775 | [177775-honeycombat.json](./177775-honeycombat.json) |
 | HoneyLand | 167597 | [167597-honeyland.json](./167597-honeyland.json) |
 | Honeypot | 215785 | [215785-honeypot.json](./215785-honeypot.json) |
 | HoneySun | 260407 | [260407-honeysun.json](./260407-honeysun.json) |
@@ -6827,6 +6832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Worlds | 259036 | [259036-hot-worlds.json](./259036-hot-worlds.json) |
 | Hot-blooded Cheerleading | 324099 | [324099-hot-blooded-cheerleading.json](./324099-hot-blooded-cheerleading.json) |
 | Hot-Pink | 217490 | [217490-hot-pink.json](./217490-hot-pink.json) |
+| Hot, tasty & Armed | 177784 | [177784-hot-tasty-and-armed.json](./177784-hot-tasty-and-armed.json) |
 | Hotch Kiss | 148358 | [148358-hotch-kiss.json](./148358-hotch-kiss.json) |
 | Hotch Kiss | 63302 | [63302-hotch-kiss.json](./63302-hotch-kiss.json) |
 | Hotdog Butcher | 406283 | [406283-hotdog-butcher.json](./406283-hotdog-butcher.json) |
