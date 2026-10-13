@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C out | 37302 | [37302-c-out.json](./37302-c-out.json) |
 | C So! | 6095 | [6095-c-so.json](./6095-c-so.json) |
 | C ya laterrrr | 177817 | [177817-c-ya-laterrrr.json](./177817-c-ya-laterrrr.json) |
+| C-4 | 165733 | [165733-c-4.json](./165733-c-4.json) |
 | C-Dogs | 23572 | [23572-c-dogs.json](./23572-c-dogs.json) |
 | C-Dogs SDL | 182203 | [182203-c-dogs-sdl.json](./182203-c-dogs-sdl.json) |
 | C-evo | 10033 | [10033-c-evo.json](./10033-c-evo.json) |
@@ -1123,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Bumper | 71779 | [71779-captain-bumper.json](./71779-captain-bumper.json) |
 | Captain Buttface | 258093 | [258093-captain-buttface.json](./258093-captain-buttface.json) |
 | Captain Coffer 2D | 157474 | [157474-captain-coffer-2d.json](./157474-captain-coffer-2d.json) |
+| Captain Collision | 165748 | [165748-captain-collision.json](./165748-captain-collision.json) |
 | Captain Comet | 400453 | [400453-captain-comet.json](./400453-captain-comet.json) |
 | Captain Comic: The Adventure | 48110 | [48110-captain-comic-the-adventure.json](./48110-captain-comic-the-adventure.json) |
 | Captain Commando | 19821 | [19821-captain-commando.json](./19821-captain-commando.json) |
@@ -1467,6 +1469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Streamer Simulator | 343218 | [343218-card-streamer-simulator.json](./343218-card-streamer-simulator.json) |
 | Card Summoner | 309445 | [309445-card-summoner.json](./309445-card-summoner.json) |
 | Card Survival: Fantasy Forest | 290925 | [290925-card-survival-fantasy-forest.json](./290925-card-survival-fantasy-forest.json) |
+| Card Survival: Tropical Island | 165744 | [165744-card-survival-tropical-island.json](./165744-card-survival-tropical-island.json) |
 | Card TD | 301072 | [301072-card-td.json](./301072-card-td.json) |
 | Card Thief | 28018 | [28018-card-thief.json](./28018-card-thief.json) |
 | Card Throw VR | 119716 | [119716-card-throw-vr.json](./119716-card-throw-vr.json) |
@@ -2363,6 +2366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casual Fishing | 230842 | [230842-casual-fishing.json](./230842-casual-fishing.json) |
 | Casual Fishing | 380057 | [380057-casual-fishing.json](./380057-casual-fishing.json) |
 | Casual Games Collection | 98819 | [98819-casual-games-collection.json](./98819-casual-games-collection.json) |
+| Casual Golf | 165738 | [165738-casual-golf.json](./165738-casual-golf.json) |
 | Casual Pixel Warrior | 188910 | [188910-casual-pixel-warrior.json](./188910-casual-pixel-warrior.json) |
 | Casual Romance Club | 73471 | [73471-casual-romance-club.json](./73471-casual-romance-club.json) |
 | Casual Sport Series: Badminton | 342783 | [342783-casual-sport-series-badminton.json](./342783-casual-sport-series-badminton.json) |
@@ -2481,6 +2485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Jigsaw Puzzle Games: Expansion Pack 7 | 263214 | [263214-cat-jigsaw-puzzle-games-expansion-pack-7.json](./263214-cat-jigsaw-puzzle-games-expansion-pack-7.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 8 | 262945 | [262945-cat-jigsaw-puzzle-games-expansion-pack-8.json](./262945-cat-jigsaw-puzzle-games-expansion-pack-8.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 9 | 241322 | [241322-cat-jigsaw-puzzle-games-expansion-pack-9.json](./241322-cat-jigsaw-puzzle-games-expansion-pack-9.json) |
+| Cat Jump | 165752 | [165752-cat-jump.json](./165752-cat-jump.json) |
 | Cat Jump | 210317 | [210317-cat-jump.json](./210317-cat-jump.json) |
 | Cat Jumper | 175792 | [175792-cat-jumper.json](./175792-cat-jumper.json) |
 | Cat Karting | 366951 | [366951-cat-karting.json](./366951-cat-karting.json) |
