@@ -1334,6 +1334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Game | 343332 | [343332-tank-game.json](./343332-tank-game.json) |
 | Tank Game | 69315 | [69315-tank-game.json](./69315-tank-game.json) |
 | Tank Game | 82005 | [82005-tank-game.json](./82005-tank-game.json) |
+| Tank Golfing | 166275 | [166275-tank-golfing.json](./166275-tank-golfing.json) |
 | Tank Hero: Awesome Tank War g | 231885 | [231885-tank-hero-awesome-tank-war-g.json](./231885-tank-hero-awesome-tank-war-g.json) |
 | Tank Hero: Laser Wars | 101491 | [101491-tank-hero-laser-wars.json](./101491-tank-hero-laser-wars.json) |
 | Tank Hunter | 311167 | [311167-tank-hunter.json](./311167-tank-hunter.json) |
@@ -1629,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Trillionaire: Invest! | 261353 | [261353-tap-tap-trillionaire-invest.json](./261353-tap-tap-trillionaire-invest.json) |
 | Tap That Date! | 323993 | [323993-tap-that-date.json](./323993-tap-that-date.json) |
 | Tap the Blocks | 214195 | [214195-tap-the-blocks.json](./214195-tap-the-blocks.json) |
+| Tap the Frog: Doodle | 166287 | [166287-tap-the-frog-doodle.json](./166287-tap-the-frog-doodle.json) |
 | Tap Those Targets | 158568 | [158568-tap-those-targets.json](./158568-tap-those-targets.json) |
 | Tap Titans | 91424 | [91424-tap-titans.json](./91424-tap-titans.json) |
 | Tap Titans 2 | 57168 | [57168-tap-titans-2.json](./57168-tap-titans-2.json) |
@@ -2089,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Slay-Bells | 279727 | [279727-team-slay-bells.json](./279727-team-slay-bells.json) |
 | Team Sonic Fighters | 333675 | [333675-team-sonic-fighters.json](./333675-team-sonic-fighters.json) |
 | Team Sonic Racing | 103018 | [103018-team-sonic-racing.json](./103018-team-sonic-racing.json) |
+| Team Sonic Racing: 30th Anniversary Edition | 166305 | [166305-team-sonic-racing-30th-anniversary-edition.json](./166305-team-sonic-racing-30th-anniversary-edition.json) |
 | Team Suzuki | 12792 | [12792-team-suzuki.json](./12792-team-suzuki.json) |
 | Team Troopers | 147625 | [147625-team-troopers.json](./147625-team-troopers.json) |
 | Team Umizoomi | 47958 | [47958-team-umizoomi.json](./47958-team-umizoomi.json) |
@@ -2393,6 +2396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 6 | 195868 | [195868-tekken-6.json](./195868-tekken-6.json) |
 | Tekken 6 | 272551 | [272551-tekken-6.json](./272551-tekken-6.json) |
 | Tekken 7: Cave of Enlightenment | 163266 | [163266-tekken-7-cave-of-enlightenment.json](./163266-tekken-7-cave-of-enlightenment.json) |
+| Tekken 7: Collector's Edition | 166277 | [166277-tekken-7-collectors-edition.json](./166277-tekken-7-collectors-edition.json) |
 | Tekken 7: Craig Marduk | 173152 | [173152-tekken-7-craig-marduk.json](./173152-tekken-7-craig-marduk.json) |
 | Tekken 7: Definitive Edition | 188048 | [188048-tekken-7-definitive-edition.json](./188048-tekken-7-definitive-edition.json) |
 | Tekken 7: Eliza | 173151 | [173151-tekken-7-eliza.json](./173151-tekken-7-eliza.json) |
@@ -10855,6 +10859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Parenthood | 28859 | [28859-the-sims-4-parenthood.json](./28859-the-sims-4-parenthood.json) |
 | The Sims 4: Party Essentials Kit | 296899 | [296899-the-sims-4-party-essentials-kit.json](./296899-the-sims-4-party-essentials-kit.json) |
 | The Sims 4: Pastel Pop Kit | 226791 | [226791-the-sims-4-pastel-pop-kit.json](./226791-the-sims-4-pastel-pop-kit.json) |
+| The Sims 4: Plus Eco Lifestyle Bundle | 166308 | [166308-the-sims-4-plus-eco-lifestyle-bundle.json](./166308-the-sims-4-plus-eco-lifestyle-bundle.json) |
 | The Sims 4: Plus Island Living Bundle | 136201 | [136201-the-sims-4-plus-island-living-bundle.json](./136201-the-sims-4-plus-island-living-bundle.json) |
 | The Sims 4: Plus Journey to Batuu Bundle | 139823 | [139823-the-sims-4-plus-journey-to-batuu-bundle.json](./139823-the-sims-4-plus-journey-to-batuu-bundle.json) |
 | The Sims 4: Poolside Splash Kit | 265704 | [265704-the-sims-4-poolside-splash-kit.json](./265704-the-sims-4-poolside-splash-kit.json) |
@@ -14862,6 +14867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiles & Tales | 30592 | [30592-tiles-and-tales.json](./30592-tiles-and-tales.json) |
 | Tiles and Towers TD | 216503 | [216503-tiles-and-towers-td.json](./216503-tiles-and-towers-td.json) |
 | Tiles Fall | 239221 | [239221-tiles-fall.json](./239221-tiles-fall.json) |
+| Tiles Hop: EDM Rush! | 166293 | [166293-tiles-hop-edm-rush.json](./166293-tiles-hop-edm-rush.json) |
 | Tiles Hop: Forever Dancing Ball | 108439 | [108439-tiles-hop-forever-dancing-ball.json](./108439-tiles-hop-forever-dancing-ball.json) |
 | Tiles in Time | 336547 | [336547-tiles-in-time.json](./336547-tiles-in-time.json) |
 | Tiles Match | 314876 | [314876-tiles-match.json](./314876-tiles-match.json) |
