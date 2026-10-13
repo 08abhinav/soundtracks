@@ -2876,6 +2876,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlers of Ekrasys | 339948 | [339948-battlers-of-ekrasys.json](./339948-battlers-of-ekrasys.json) |
 | BattleRush | 75941 | [75941-battlerush.json](./75941-battlerush.json) |
 | BattleRush: Ardennes Assault | 112474 | [112474-battlerush-ardennes-assault.json](./112474-battlerush-ardennes-assault.json) |
+| BattleRush: German AT Infantry | 170976 | [170976-battlerush-german-at-infantry.json](./170976-battlerush-german-at-infantry.json) |
+| BattleRush: German Snipers | 170983 | [170983-battlerush-german-snipers.json](./170983-battlerush-german-snipers.json) |
+| BattleRush: German Special Forces | 170977 | [170977-battlerush-german-special-forces.json](./170977-battlerush-german-special-forces.json) |
+| BattleRush: Heavy Tanks | 170979 | [170979-battlerush-heavy-tanks.json](./170979-battlerush-heavy-tanks.json) |
+| BattleRush: Imperial Japanese Army | 170975 | [170975-battlerush-imperial-japanese-army.json](./170975-battlerush-imperial-japanese-army.json) |
+| BattleRush: US AT Infantry | 170982 | [170982-battlerush-us-at-infantry.json](./170982-battlerush-us-at-infantry.json) |
+| BattleRush: US Marine Corps | 170980 | [170980-battlerush-us-marine-corps.json](./170980-battlerush-us-marine-corps.json) |
+| BattleRush: US Special Forces | 170978 | [170978-battlerush-us-special-forces.json](./170978-battlerush-us-special-forces.json) |
+| BattleRush: USSR Army | 170981 | [170981-battlerush-ussr-army.json](./170981-battlerush-ussr-army.json) |
 | Battles Ages | 99754 | [99754-battles-ages.json](./99754-battles-ages.json) |
 | Battles For Spain | 120869 | [120869-battles-for-spain.json](./120869-battles-for-spain.json) |
 | Battles Game | 370135 | [370135-battles-game.json](./370135-battles-game.json) |
@@ -11745,6 +11754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzludzha Evil | 328094 | [328094-buzludzha-evil.json](./328094-buzludzha-evil.json) |
 | Buzludzha VR | 126496 | [126496-buzludzha-vr.json](./126496-buzludzha-vr.json) |
 | Buzz | 232552 | [232552-buzz.json](./232552-buzz.json) |
+| Buzz Aldrin: Cycling Pathways to Mars | 170776 | [170776-buzz-aldrin-cycling-pathways-to-mars.json](./170776-buzz-aldrin-cycling-pathways-to-mars.json) |
 | Buzz Bombers | 356783 | [356783-buzz-bombers.json](./356783-buzz-bombers.json) |
 | Buzz Bombers | 5665 | [5665-buzz-bombers.json](./5665-buzz-bombers.json) |
 | Buzz Cut Simulation | 277313 | [277313-buzz-cut-simulation.json](./277313-buzz-cut-simulation.json) |
