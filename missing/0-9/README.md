@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1-2-Splendid Word Search! | 414432 | [414432-1-2-splendid-word-search.json](./414432-1-2-splendid-word-search.json) |
 | 1-2-Swift | 29690 | [29690-1-2-swift.json](./29690-1-2-swift.json) |
 | 1-2-Whopping Word Search! | 316806 | [316806-1-2-whopping-word-search.json](./316806-1-2-whopping-word-search.json) |
+| 1-800 Super | 175151 | [175151-1-800-super.json](./175151-1-800-super.json) |
 | 1-800-Monsters | 179563 | [179563-1-800-monsters.json](./179563-1-800-monsters.json) |
 | 1-900-Cult | 242118 | [242118-1-900-cult.json](./242118-1-900-cult.json) |
 | 1-900-Gary | 325869 | [325869-1-900-gary.json](./325869-1-900-gary.json) |
@@ -850,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1Dreamboy | 266154 | [266154-1dreamboy.json](./266154-1dreamboy.json) |
 | 1Heart | 16316 | [16316-1heart.json](./16316-1heart.json) |
 | 1Key Rocket Launcher | 70099 | [70099-1key-rocket-launcher.json](./70099-1key-rocket-launcher.json) |
+| 1M84 | 173018 | [173018-1m84.json](./173018-1m84.json) |
 | 1MagLeft | 251235 | [251235-1magleft.json](./251235-1magleft.json) |
 | 1nsane | 9894 | [9894-1nsane.json](./9894-1nsane.json) |
 | 1nvader | 227992 | [227992-1nvader.json](./227992-1nvader.json) |
@@ -1584,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Wheel Drive | 245297 | [245297-4-wheel-drive.json](./245297-4-wheel-drive.json) |
 | 4 Wheel Madness | 326748 | [326748-4-wheel-madness.json](./326748-4-wheel-madness.json) |
 | 4 Wheel Thunder | 3701 | [3701-4-wheel-thunder.json](./3701-4-wheel-thunder.json) |
+| 4 Witch Seasons & Convenant | 173235 | [173235-4-witch-seasons-and-convenant.json](./173235-4-witch-seasons-and-convenant.json) |
 | 4 x 3 | 408012 | [408012-4-x-3.json](./408012-4-x-3.json) |
 | 4 x 4 Dream Racing | 9935 | [9935-4-x-4-dream-racing.json](./9935-4-x-4-dream-racing.json) |
 | 4-4-2 Soccer | 45317 | [45317-4-4-2-soccer.json](./45317-4-4-2-soccer.json) |
