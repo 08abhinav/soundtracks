@@ -3485,6 +3485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaws + A Handful of Missions | 112809 | [112809-outlaws-a-handful-of-missions.json](./112809-outlaws-a-handful-of-missions.json) |
 | Outlaws of the Old West | 115549 | [115549-outlaws-of-the-old-west.json](./115549-outlaws-of-the-old-west.json) |
 | Outlets Rush | 297247 | [297247-outlets-rush.json](./297247-outlets-rush.json) |
+| Outline | 134343 | [134343-outline.json](./134343-outline.json) |
 | Outline Dust | 216962 | [216962-outline-dust.json](./216962-outline-dust.json) |
 | Outlive | 243234 | [243234-outlive.json](./243234-outlive.json) |
 | Outliver: Redemption | 113665 | [113665-outliver-redemption.json](./113665-outliver-redemption.json) |
@@ -3586,6 +3587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outwall | 364965 | [364965-outwall.json](./364965-outwall.json) |
 | Outward 2 | 291446 | [291446-outward-2.json](./291446-outward-2.json) |
 | Outward Adventurer Bundle | 169212 | [169212-outward-adventurer-bundle.json](./169212-outward-adventurer-bundle.json) |
+| Outward: The Soroboreans | 134336 | [134336-outward-the-soroboreans.json](./134336-outward-the-soroboreans.json) |
 | Outward: The Three Brothers | 143419 | [143419-outward-the-three-brothers.json](./143419-outward-the-three-brothers.json) |
 | Outwars | 57676 | [57676-outwars.json](./57676-outwars.json) |
 | OutWave | 207341 | [207341-outwave.json](./207341-outwave.json) |
