@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gage | 264809 | [264809-gage.json](./264809-gage.json) |
 | Gaggi Clicker | 307947 | [307947-gaggi-clicker.json](./307947-gaggi-clicker.json) |
 | Gaggl | 306442 | [306442-gaggl.json](./306442-gaggl.json) |
+| Gaggle Brains! | 155873 | [155873-gaggle-brains.json](./155873-gaggle-brains.json) |
 | GagImpact | 390267 | [390267-gagimpact.json](./390267-gagimpact.json) |
 | Gah! | 258508 | [258508-gah.json](./258508-gah.json) |
 | Gahkthun of the Golden Lightning: Steam Edition | 33106 | [33106-gahkthun-of-the-golden-lightning-steam-edition.json](./33106-gahkthun-of-the-golden-lightning-steam-edition.json) |
@@ -3085,6 +3086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiatori | 188893 | [188893-gladiatori.json](./188893-gladiatori.json) |
 | Gladiatorial Conquest: Battle Arena of Legends | 283266 | [283266-gladiatorial-conquest-battle-arena-of-legends.json](./283266-gladiatorial-conquest-battle-arena-of-legends.json) |
 | Gladiators Battle | 321642 | [321642-gladiators-battle.json](./321642-gladiators-battle.json) |
+| Gladiators Manager | 155861 | [155861-gladiators-manager.json](./155861-gladiators-manager.json) |
 | Gladiators Tale | 248001 | [248001-gladiators-tale.json](./248001-gladiators-tale.json) |
 | Gladihoppers | 103356 | [103356-gladihoppers.json](./103356-gladihoppers.json) |
 | Gladii | 158922 | [158922-gladii.json](./158922-gladii.json) |
