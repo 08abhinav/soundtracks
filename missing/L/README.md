@@ -6605,6 +6605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lux Intacta | 217286 | [217286-lux-intacta.json](./217286-lux-intacta.json) |
 | Lux mina | 163036 | [163036-lux-mina.json](./163036-lux-mina.json) |
 | Lux Sine | 149030 | [149030-lux-sine.json](./149030-lux-sine.json) |
+| Lux Ski Jump | 151472 | [151472-lux-ski-jump.json](./151472-lux-ski-jump.json) |
 | Lux umbra | 56595 | [56595-lux-umbra.json](./56595-lux-umbra.json) |
 | Lux: Dream.Girl | 280928 | [280928-lux-dream-girl.json](./280928-lux-dream-girl.json) |
 | Luxaren Allure | 124653 | [124653-luxaren-allure.json](./124653-luxaren-allure.json) |
