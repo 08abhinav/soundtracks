@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Ghost Porno Page By Page | 300821 | [300821-a-ghost-porno-page-by-page.json](./300821-a-ghost-porno-page-by-page.json) |
 | A Ghost Story | 307700 | [307700-a-ghost-story.json](./307700-a-ghost-story.json) |
 | A Ghost Story for Christmas | 135779 | [135779-a-ghost-story-for-christmas.json](./135779-a-ghost-story-for-christmas.json) |
+| A Girl in the City | 139722 | [139722-a-girl-in-the-city.json](./139722-a-girl-in-the-city.json) |
 | A Gladiator's Hell | 200564 | [200564-a-gladiators-hell.json](./200564-a-gladiators-hell.json) |
 | A Glider's Journey | 120462 | [120462-a-gliders-journey.json](./120462-a-gliders-journey.json) |
 | A Glimpse of Luna | 146760 | [146760-a-glimpse-of-luna.json](./146760-a-glimpse-of-luna.json) |
@@ -436,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Little Lily Princess | 33333 | [33333-a-little-lily-princess.json](./33333-a-little-lily-princess.json) |
 | A Little Piece of Healing | 308423 | [308423-a-little-piece-of-healing.json](./308423-a-little-piece-of-healing.json) |
 | A Little Rabbit Story | 83521 | [83521-a-little-rabbit-story.json](./83521-a-little-rabbit-story.json) |
+| A Little Shop in Squirrel Town | 139714 | [139714-a-little-shop-in-squirrel-town.json](./139714-a-little-shop-in-squirrel-town.json) |
 | A Little Time | 158419 | [158419-a-little-time.json](./158419-a-little-time.json) |
 | A Little to the Left | 152180 | [152180-a-little-to-the-left.json](./152180-a-little-to-the-left.json) |
 | A Little to the Left Seeing Stars DLC Bundle | 312110 | [312110-a-little-to-the-left-seeing-stars-dlc-bundle.json](./312110-a-little-to-the-left-seeing-stars-dlc-bundle.json) |
@@ -2170,6 +2172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure in the Park | 230846 | [230846-adventure-in-the-park.json](./230846-adventure-in-the-park.json) |
 | Adventure In Vegas: Slot Machine | 84974 | [84974-adventure-in-vegas-slot-machine.json](./84974-adventure-in-vegas-slot-machine.json) |
 | Adventure in XX City 2: Finding BB | 314411 | [314411-adventure-in-xx-city-2-finding-bb.json](./314411-adventure-in-xx-city-2-finding-bb.json) |
+| Adventure Inlay | 139720 | [139720-adventure-inlay.json](./139720-adventure-inlay.json) |
 | Adventure Inlay: Safari Edition | 52550 | [52550-adventure-inlay-safari-edition.json](./52550-adventure-inlay-safari-edition.json) |
 | Adventure Interpreter | 73272 | [73272-adventure-interpreter.json](./73272-adventure-interpreter.json) |
 | Adventure Island II | 6471 | [6471-adventure-island-ii.json](./6471-adventure-island-ii.json) |
@@ -5350,6 +5353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America's Retribution | 98763 | [98763-americas-retribution.json](./98763-americas-retribution.json) |
 | America's Retribution Term 2 | 117796 | [117796-americas-retribution-term-2.json](./117796-americas-retribution-term-2.json) |
 | America's Test Kitchen: Let's Get Cooking | 24343 | [24343-americas-test-kitchen-lets-get-cooking.json](./24343-americas-test-kitchen-lets-get-cooking.json) |
+| American Angst | 139723 | [139723-american-angst.json](./139723-american-angst.json) |
 | American Arcadia | 198439 | [198439-american-arcadia.json](./198439-american-arcadia.json) |
 | American Assault | 273130 | [273130-american-assault.json](./273130-american-assault.json) |
 | American Basketball: Guns & Balls | 234316 | [234316-american-basketball-guns-and-balls.json](./234316-american-basketball-guns-and-balls.json) |
@@ -8434,6 +8438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcy 2 | 18377 | [18377-arcy-2.json](./18377-arcy-2.json) |
 | ARD: Anomalous Research Department | 182264 | [182264-ard-anomalous-research-department.json](./182264-ard-anomalous-research-department.json) |
 | Ardarium | 168331 | [168331-ardarium.json](./168331-ardarium.json) |
+| Ardein.Fall | 139682 | [139682-ardein-fall.json](./139682-ardein-fall.json) |
 | Ardem | 260389 | [260389-ardem.json](./260389-ardem.json) |
 | Arden: The World of William Shakespeare | 210828 | [210828-arden-the-world-of-william-shakespeare.json](./210828-arden-the-world-of-william-shakespeare.json) |
 | Arden's Wake | 158637 | [158637-ardens-wake.json](./158637-ardens-wake.json) |
