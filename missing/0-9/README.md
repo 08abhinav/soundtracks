@@ -827,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1942: Joint Strike Elefunk | 99980 | [99980-1942-joint-strike-elefunk.json](./99980-1942-joint-strike-elefunk.json) |
 | 1942: The Henan Famine | 124213 | [124213-1942-the-henan-famine.json](./124213-1942-the-henan-famine.json) |
 | 1943 Megami Strike | 33580 | [33580-1943-megami-strike.json](./33580-1943-megami-strike.json) |
+| 1943: One Year After | 145414 | [145414-1943-one-year-after.json](./145414-1943-one-year-after.json) |
 | 1943: The Battle of Midway | 272545 | [272545-1943-the-battle-of-midway.json](./272545-1943-the-battle-of-midway.json) |
 | 1943: The Battle of Midway | 6076 | [6076-1943-the-battle-of-midway.json](./6076-1943-the-battle-of-midway.json) |
 | 1944 Burning Bridges | 56464 | [56464-1944-burning-bridges.json](./56464-1944-burning-bridges.json) |
@@ -1171,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2901 Freelancer | 198139 | [198139-2901-freelancer.json](./198139-2901-freelancer.json) |
 | 2999 Game Kids | 209723 | [209723-2999-game-kids.json](./209723-2999-game-kids.json) |
 | 2BBee | 261789 | [261789-2bbee.json](./261789-2bbee.json) |
+| 2D Baseball Duel | 146064 | [146064-2d-baseball-duel.json](./146064-2d-baseball-duel.json) |
 | 2D Brick Breaker Game Remastered | 368060 | [368060-2d-brick-breaker-game-remastered.json](./368060-2d-brick-breaker-game-remastered.json) |
 | 2D Dogfight | 256275 | [256275-2d-dogfight.json](./256275-2d-dogfight.json) |
 | 2D Dogfight: Secret Project | 297055 | [297055-2d-dogfight-secret-project.json](./297055-2d-dogfight-secret-project.json) |
@@ -1882,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Days to Save the World | 189016 | [189016-7-days-to-save-the-world.json](./189016-7-days-to-save-the-world.json) |
 | 7 Dice Destroyers | 366119 | [366119-7-dice-destroyers.json](./366119-7-dice-destroyers.json) |
 | 7 Girls War | 160238 | [160238-7-girls-war.json](./160238-7-girls-war.json) |
+| 7 Grand Dad | 146068 | [146068-7-grand-dad.json](./146068-7-grand-dad.json) |
 | 7 Grand Steps: What Ancients Begat | 16537 | [16537-7-grand-steps-what-ancients-begat.json](./16537-7-grand-steps-what-ancients-begat.json) |
 | 7 Gunfighters | 345137 | [345137-7-gunfighters.json](./345137-7-gunfighters.json) |
 | 7 Horizons | 210898 | [210898-7-horizons.json](./210898-7-horizons.json) |
