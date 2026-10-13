@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Desk Simulator | 265135 | [265135-paint-desk-simulator.json](./265135-paint-desk-simulator.json) |
 | Paint Fruit Crush | 240854 | [240854-paint-fruit-crush.json](./240854-paint-fruit-crush.json) |
 | Paint Gal Adventures | 388227 | [388227-paint-gal-adventures.json](./388227-paint-gal-adventures.json) |
+| Paint Girl | 169663 | [169663-paint-girl.json](./169663-paint-girl.json) |
 | Paint Hit | 102784 | [102784-paint-hit.json](./102784-paint-hit.json) |
 | Paint Hit: Color Blast | 103631 | [103631-paint-hit-color-blast.json](./103631-paint-hit-color-blast.json) |
 | Paint It: Christmas Edition | 278651 | [278651-paint-it-christmas-edition.json](./278651-paint-it-christmas-edition.json) |
@@ -763,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora's Toybox | 368614 | [368614-pandoras-toybox.json](./368614-pandoras-toybox.json) |
 | Pandoria | 148465 | [148465-pandoria.json](./148465-pandoria.json) |
 | Pandrax | 118194 | [118194-pandrax.json](./118194-pandrax.json) |
+| Pandu | 169681 | [169681-pandu.json](./169681-pandu.json) |
 | Panekit: Infinitive Crafting Toy Case | 60596 | [60596-panekit-infinitive-crafting-toy-case.json](./60596-panekit-infinitive-crafting-toy-case.json) |
 | Panel Attack | 167702 | [167702-panel-attack.json](./167702-panel-attack.json) |
 | Panel de Pon | 150107 | [150107-panel-de-pon.json](./150107-panel-de-pon.json) |
@@ -844,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panilla Saga | 159068 | [159068-panilla-saga.json](./159068-panilla-saga.json) |
 | Panin | 358331 | [358331-panin.json](./358331-panin.json) |
 | Panini Adventure | 208104 | [208104-panini-adventure.json](./208104-panini-adventure.json) |
+| Pankapu: Episode 2 | 170225 | [170225-pankapu-episode-2.json](./170225-pankapu-episode-2.json) |
 | Panmorphia | 96536 | [96536-panmorphia.json](./96536-panmorphia.json) |
 | Panmorphia: Awakened | 197256 | [197256-panmorphia-awakened.json](./197256-panmorphia-awakened.json) |
 | Panmorphia: Enchanted | 171621 | [171621-panmorphia-enchanted.json](./171621-panmorphia-enchanted.json) |
@@ -3094,6 +3097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pesadelo: O Início | 187383 | [187383-pesadelo-o-inicio.json](./187383-pesadelo-o-inicio.json) |
 | Pesadelo: Regressão | 90611 | [90611-pesadelo-regressao.json](./90611-pesadelo-regressao.json) |
 | Peskit | 346189 | [346189-peskit.json](./346189-peskit.json) |
+| Pesky Humans | 169912 | [169912-pesky-humans.json](./169912-pesky-humans.json) |
 | Pest Apocalypse | 297182 | [297182-pest-apocalypse.json](./297182-pest-apocalypse.json) |
 | Pest Control | 120123 | [120123-pest-control.json](./120123-pest-control.json) |
 | Pest Control | 343758 | [343758-pest-control.json](./343758-pest-control.json) |
@@ -3561,6 +3565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phelios | 199420 | [199420-phelios.json](./199420-phelios.json) |
 | Phenocore | 194308 | [194308-phenocore.json](./194308-phenocore.json) |
 | Phenomenal Car Park Simulator | 124220 | [124220-phenomenal-car-park-simulator.json](./124220-phenomenal-car-park-simulator.json) |
+| Phenomenon32 | 170228 | [170228-phenomenon32.json](./170228-phenomenon32.json) |
 | Pheonix II | 411746 | [411746-pheonix-ii.json](./411746-pheonix-ii.json) |
 | Phero | 348817 | [348817-phero.json](./348817-phero.json) |
 | Phi: The Broken Strings | 332599 | [332599-phi-the-broken-strings.json](./332599-phi-the-broken-strings.json) |
@@ -7779,6 +7784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Plaza | 307204 | [307204-poly-plaza.json](./307204-poly-plaza.json) |
 | Poly Plaza 2 | 377755 | [377755-poly-plaza-2.json](./377755-poly-plaza-2.json) |
 | Poly Puzzle: Dinosaurs | 221133 | [221133-poly-puzzle-dinosaurs.json](./221133-poly-puzzle-dinosaurs.json) |
+| Poly Puzzle: Furries | 170229 | [170229-poly-puzzle-furries.json](./170229-poly-puzzle-furries.json) |
 | Poly Puzzle: Furries 2 | 173069 | [173069-poly-puzzle-furries-2.json](./173069-poly-puzzle-furries-2.json) |
 | Poly Racing | 173290 | [173290-poly-racing.json](./173290-poly-racing.json) |
 | Poly S.A.E. | 185541 | [185541-poly-s-a-e.json](./185541-poly-s-a-e.json) |
@@ -9132,6 +9138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Girls Mahjong Solitaire | 34716 | [34716-pretty-girls-mahjong-solitaire.json](./34716-pretty-girls-mahjong-solitaire.json) |
 | Pretty Girls Mahjong Solitaire: Blue | 170376 | [170376-pretty-girls-mahjong-solitaire-blue.json](./170376-pretty-girls-mahjong-solitaire-blue.json) |
 | Pretty Girls Panic! | 30181 | [30181-pretty-girls-panic.json](./30181-pretty-girls-panic.json) |
+| Pretty Girls Panic! Plus | 169680 | [169680-pretty-girls-panic-plus.json](./169680-pretty-girls-panic-plus.json) |
 | Pretty Girls Rivers | 192279 | [192279-pretty-girls-rivers.json](./192279-pretty-girls-rivers.json) |
 | Pretty girls teach beefy guys | 161329 | [161329-pretty-girls-teach-beefy-guys.json](./161329-pretty-girls-teach-beefy-guys.json) |
 | Pretty Girls Tile Match | 219695 | [219695-pretty-girls-tile-match.json](./219695-pretty-girls-tile-match.json) |
@@ -9447,6 +9454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prinny Presents: NIS Classics Vol 1 - Deluxe Edition | 148545 | [148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json](./148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json) |
 | Prinny Presents: NIS Classics Vol 3 | 194961 | [194961-prinny-presents-nis-classics-vol-3.json](./194961-prinny-presents-nis-classics-vol-3.json) |
 | Prinny Presents: NIS Classics Vol 3 - Deluxe Edition | 197610 | [197610-prinny-presents-nis-classics-vol-3-deluxe-edition.json](./197610-prinny-presents-nis-classics-vol-3-deluxe-edition.json) |
+| Prinny Presents: NIS Classics Volume 2 - Deluxe Edition | 170038 | [170038-prinny-presents-nis-classics-volume-2-deluxe-edition.json](./170038-prinny-presents-nis-classics-volume-2-deluxe-edition.json) |
 | Prinsess of Da Hell | 122305 | [122305-prinsess-of-da-hell.json](./122305-prinsess-of-da-hell.json) |
 | Print Gallery of an Artist | 399606 | [399606-print-gallery-of-an-artist.json](./399606-print-gallery-of-an-artist.json) |
 | Prinzessin Lillifee Puzzle: Echter Puzzlespass für Unterwegs | 252669 | [252669-prinzessin-lillifee-puzzle-echter-puzzlespass-fur-unterwegs.json](./252669-prinzessin-lillifee-puzzle-echter-puzzlespass-fur-unterwegs.json) |
