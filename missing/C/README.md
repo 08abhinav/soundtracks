@@ -1881,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartel Tycoon: Lieutenants Pack - La Familia | 243673 | [243673-cartel-tycoon-lieutenants-pack-la-familia.json](./243673-cartel-tycoon-lieutenants-pack-la-familia.json) |
 | Cartel Tycoon: San Rafaela | 252371 | [252371-cartel-tycoon-san-rafaela.json](./252371-cartel-tycoon-san-rafaela.json) |
 | Cartels & Cutthroats | 22497 | [22497-cartels-and-cutthroats.json](./22497-cartels-and-cutthroats.json) |
+| Carth | 164061 | [164061-carth.json](./164061-carth.json) |
 | Carto | 101448 | [101448-carto.json](./101448-carto.json) |
 | Cartographer | 199611 | [199611-cartographer.json](./199611-cartographer.json) |
 | Cartographers | 175748 | [175748-cartographers.json](./175748-cartographers.json) |
@@ -4362,6 +4363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chestnut Grove | 231368 | [231368-chestnut-grove.json](./231368-chestnut-grove.json) |
 | Chesto: At the Checkout | 134686 | [134686-chesto-at-the-checkout.json](./134686-chesto-at-the-checkout.json) |
 | Chests O' Booty | 84576 | [84576-chests-o-booty.json](./84576-chests-o-booty.json) |
+| Chetz! | 164088 | [164088-chetz.json](./164088-chetz.json) |
 | Chevrolet Camaro Wild Ride 3D | 84575 | [84575-chevrolet-camaro-wild-ride-3d.json](./84575-chevrolet-camaro-wild-ride-3d.json) |
 | Chew Chew Mimic | 281006 | [281006-chew-chew-mimic.json](./281006-chew-chew-mimic.json) |
 | Chew Your Food | 395886 | [395886-chew-your-food.json](./395886-chew-your-food.json) |
@@ -12076,6 +12078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryzon Part1 | 371419 | [371419-cryzon-part1.json](./371419-cryzon-part1.json) |
 | Cryzon Part4 | 394384 | [394384-cryzon-part4.json](./394384-cryzon-part4.json) |
 | CS Diamantes Pipas: Kite Game | 339348 | [339348-cs-diamantes-pipas-kite-game.json](./339348-cs-diamantes-pipas-kite-game.json) |
+| CS Horizon | 164081 | [164081-cs-horizon.json](./164081-cs-horizon.json) |
 | CS Manager | 404337 | [404337-cs-manager.json](./404337-cs-manager.json) |
 | CS Pipas: Legend | 391713 | [391713-cs-pipas-legend.json](./391713-cs-pipas-legend.json) |
 | CS-VR | 371401 | [371401-cs-vr.json](./371401-cs-vr.json) |
@@ -12968,6 +12971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Assault | 257899 | [257899-cyber-assault.json](./257899-cyber-assault.json) |
 | Cyber Attack | 157205 | [157205-cyber-attack.json](./157205-cyber-attack.json) |
 | Cyber Avenger | 267467 | [267467-cyber-avenger.json](./267467-cyber-avenger.json) |
+| Cyber Badminton 2020 | 164051 | [164051-cyber-badminton-2020.json](./164051-cyber-badminton-2020.json) |
 | Cyber Battle 69 | 131608 | [131608-cyber-battle-69.json](./131608-cyber-battle-69.json) |
 | Cyber Bay | 200496 | [200496-cyber-bay.json](./200496-cyber-bay.json) |
 | Cyber Blade: Action Platformer | 272193 | [272193-cyber-blade-action-platformer.json](./272193-cyber-blade-action-platformer.json) |
