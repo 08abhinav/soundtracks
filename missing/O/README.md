@@ -471,6 +471,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odyssee Die | 356843 | [356843-odyssee-die.json](./356843-odyssee-die.json) |
 | Odysseus Kosmos and his Robot Quest | 65838 | [65838-odysseus-kosmos-and-his-robot-quest.json](./65838-odysseus-kosmos-and-his-robot-quest.json) |
 | Odysseus Kosmos and his Robot Quest: Episode 1 | 81812 | [81812-odysseus-kosmos-and-his-robot-quest-episode-1.json](./81812-odysseus-kosmos-and-his-robot-quest-episode-1.json) |
+| Odysseus Kosmos and his Robot Quest: Episode 2 | 171339 | [171339-odysseus-kosmos-and-his-robot-quest-episode-2.json](./171339-odysseus-kosmos-and-his-robot-quest-episode-2.json) |
+| Odysseus Kosmos and his Robot Quest: Episode 3 | 171325 | [171325-odysseus-kosmos-and-his-robot-quest-episode-3.json](./171325-odysseus-kosmos-and-his-robot-quest-episode-3.json) |
+| Odysseus Kosmos and his Robot Quest: Episode 4 | 171524 | [171524-odysseus-kosmos-and-his-robot-quest-episode-4.json](./171524-odysseus-kosmos-and-his-robot-quest-episode-4.json) |
+| Odysseus Kosmos and his Robot Quest: Episode 5 | 171515 | [171515-odysseus-kosmos-and-his-robot-quest-episode-5.json](./171515-odysseus-kosmos-and-his-robot-quest-episode-5.json) |
 | Odyssey Island | 272739 | [272739-odyssey-island.json](./272739-odyssey-island.json) |
 | Odyssey Kingdoms Expansion | 344012 | [344012-odyssey-kingdoms-expansion.json](./344012-odyssey-kingdoms-expansion.json) |
 | Odyssey of Dremid'ir | 216747 | [216747-odyssey-of-dremidir.json](./216747-odyssey-of-dremidir.json) |
