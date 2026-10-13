@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paganitzu Part 1: Romancing the Rose | 50428 | [50428-paganitzu-part-1-romancing-the-rose.json](./50428-paganitzu-part-1-romancing-the-rose.json) |
 | Pagans Must Die | 116853 | [116853-pagans-must-die.json](./116853-pagans-must-die.json) |
 | Page Chronica | 64462 | [64462-page-chronica.json](./64462-page-chronica.json) |
+| Page One | 161595 | [161595-page-one.json](./161595-page-one.json) |
 | Pageant | 184045 | [184045-pageant.json](./184045-pageant.json) |
 | Pages of Time | 340879 | [340879-pages-of-time.json](./340879-pages-of-time.json) |
 | Paging Dr. Floppy! | 230793 | [230793-paging-dr-floppy.json](./230793-paging-dr-floppy.json) |
@@ -2709,6 +2710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penny Potluck | 413501 | [413501-penny-potluck.json](./413501-penny-potluck.json) |
 | Penny Racers | 133238 | [133238-penny-racers.json](./133238-penny-racers.json) |
 | Penny RPG: Shadows of the Lost - A Blood City Tale | 149611 | [149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json](./149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json) |
+| Penny's Path | 161608 | [161608-pennys-path.json](./161608-pennys-path.json) |
 | Penrose | 262681 | [262681-penrose.json](./262681-penrose.json) |
 | Penroses | 181880 | [181880-penroses.json](./181880-penroses.json) |
 | Pensate | 117025 | [117025-pensate.json](./117025-pensate.json) |
