@@ -4757,6 +4757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide and Secret Treasure of the Ages | 32874 | [32874-hide-and-secret-treasure-of-the-ages.json](./32874-hide-and-secret-treasure-of-the-ages.json) |
 | Hide and Secret: Pharaoh's Quest | 88264 | [88264-hide-and-secret-pharaohs-quest.json](./88264-hide-and-secret-pharaohs-quest.json) |
 | Hide and Seek | 131331 | [131331-hide-and-seek.json](./131331-hide-and-seek.json) |
+| Hide and Seek | 153153 | [153153-hide-and-seek.json](./153153-hide-and-seek.json) |
 | Hide and Seek | 234520 | [234520-hide-and-seek.json](./234520-hide-and-seek.json) |
 | Hide and Seek | 275354 | [275354-hide-and-seek.json](./275354-hide-and-seek.json) |
 | Hide and Seek | 340003 | [340003-hide-and-seek.json](./340003-hide-and-seek.json) |
