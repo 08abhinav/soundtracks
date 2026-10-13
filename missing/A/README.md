@@ -716,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Sound of Thunder | 49271 | [49271-a-sound-of-thunder.json](./49271-a-sound-of-thunder.json) |
 | A Soup of Mind | 382278 | [382278-a-soup-of-mind.json](./382278-a-soup-of-mind.json) |
 | A Space for the Unbound | 110039 | [110039-a-space-for-the-unbound.json](./110039-a-space-for-the-unbound.json) |
+| A Spaceman Came Travelling | 177444 | [177444-a-spaceman-came-travelling.json](./177444-a-spaceman-came-travelling.json) |
 | A Spider to A Fly | 280336 | [280336-a-spider-to-a-fly.json](./280336-a-spider-to-a-fly.json) |
 | A Spiritual Adventure | 386911 | [386911-a-spiritual-adventure.json](./386911-a-spiritual-adventure.json) |
 | A Spooky Ghost | 342808 | [342808-a-spooky-ghost.json](./342808-a-spooky-ghost.json) |
@@ -3069,6 +3070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AIdventure | 215027 | [215027-aidventure.json](./215027-aidventure.json) |
 | Aidyn Chronicles: The First Mage | 2850 | [2850-aidyn-chronicles-the-first-mage.json](./2850-aidyn-chronicles-the-first-mage.json) |
 | Aierlon | 203866 | [203866-aierlon.json](./203866-aierlon.json) |
+| AIeyes | 177275 | [177275-aieyes.json](./177275-aieyes.json) |
 | Aigiina no Yogen: From the Legend of Balubalouk | 73806 | [73806-aigiina-no-yogen-from-the-legend-of-balubalouk.json](./73806-aigiina-no-yogen-from-the-legend-of-balubalouk.json) |
 | Aigor Escape from Bishop | 127825 | [127825-aigor-escape-from-bishop.json](./127825-aigor-escape-from-bishop.json) |
 | Aikagi | 127116 | [127116-aikagi.json](./127116-aikagi.json) |
@@ -5056,6 +5058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amateur Surgeon 3: Tag Team Trauma | 159224 | [159224-amateur-surgeon-3-tag-team-trauma.json](./159224-amateur-surgeon-3-tag-team-trauma.json) |
 | Amateur Surgeon 4: Re-Generations | 57116 | [57116-amateur-surgeon-4-re-generations.json](./57116-amateur-surgeon-4-re-generations.json) |
 | Amateur Surgeon Hospital | 304207 | [304207-amateur-surgeon-hospital.json](./304207-amateur-surgeon-hospital.json) |
+| Amateurs | 177459 | [177459-amateurs.json](./177459-amateurs.json) |
 | Amato | 391273 | [391273-amato.json](./391273-amato.json) |
 | Amatsu Misora ni! Kumo no Hatate ni | 62263 | [62263-amatsu-misora-ni-kumo-no-hatate-ni.json](./62263-amatsu-misora-ni-kumo-no-hatate-ni.json) |
 | Amatsu Sora ni Saku | 309672 | [309672-amatsu-sora-ni-saku.json](./309672-amatsu-sora-ni-saku.json) |
