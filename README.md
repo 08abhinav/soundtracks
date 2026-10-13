@@ -704,6 +704,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1b/58/43/1b5843c3-0df3-e3f9-58a3-51158d264fbb/5054227028885_1.jpg/600x600bb.jpg" width="60" /> | [Monument Valley](https://ostdb.net/games/monument-valley) | **Monument Valley (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1DVCNAcMAd2eCgOmC84m2P) · [Apple Music](https://music.apple.com/us/album/monument-valley-original-soundtrack/887804425) · [Album](https://album.link/i/887804425) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739f8af001b0e4a0e3d367ad8e" width="60" /> | [Moonlighter](https://ostdb.net/games/moonlighter) | **Moonlighter (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4tTuU0u3qLeB6DjJPv2jY1) · [Album](https://album.link/s/4tTuU0u3qLeB6DjJPv2jY1) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/8d/14/148d14a3-1fbc-ec63-b293-4dfe8c091f1a/3663729404442_cover.jpg/600x600bb.jpg" width="60" /> | [Morbid Metal](https://ostdb.net/games/morbid-metal) | **Saru (From Morbid Metal) - Single** · [Spotify](https://music.apple.com/us/album/saru-from-morbid-metal-single/1840670106?uo=4) · [Album](https://album.link/i/1840670106) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dacb023115cac021e3b6c4f4" width="60" /> | [Mordhau](https://ostdb.net/games/mordhau) | **Mordhau (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3ZND2W4JhgMCy14xpED0LC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4a20cf4ce9c9730c72850c" width="60" /> | [Mortal Kombat 1](https://ostdb.net/games/mortal-kombat-1) | **Mortal Kombat 1 (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2Gh3ZhIPiCGZc0d9pFol18) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732684410b60ac67b8d069fb08" width="60" /> | [Mortal Kombat 11](https://ostdb.net/games/mortal-kombat-11) | **Mortal Kombat 11 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/11fV9jbJ5hva1YW7xsx31e) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c71c30e2c43f93fb8a83b5c" width="60" /> | [Mortal Kombat 4](https://ostdb.net/games/mortal-kombat-4) | **Mortal Kombat 4 (Soundtrack from the Arcade Game) [2021 Remaster]** · [Spotify](https://open.spotify.com/album/00XgQ6LdIjos0omSgqfE3Q) |
@@ -1241,4 +1242,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1566 soundtracks · last updated 2026-10-13T05:40:13.821Z_
+_1567 soundtracks · last updated 2026-10-13T08:25:14.222Z_
