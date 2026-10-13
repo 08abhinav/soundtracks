@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A story of vaccines & zombie | 154388 | [154388-a-story-of-vaccines-and-zombie.json](./154388-a-story-of-vaccines-and-zombie.json) |
 | A Story Told By The Stars | 294867 | [294867-a-story-told-by-the-stars.json](./294867-a-story-told-by-the-stars.json) |
 | A Stranded Spark | 304676 | [304676-a-stranded-spark.json](./304676-a-stranded-spark.json) |
+| A Strange City | 148280 | [148280-a-strange-city.json](./148280-a-strange-city.json) |
 | A Study in Blue | 386249 | [386249-a-study-in-blue.json](./386249-a-study-in-blue.json) |
 | A Study in Steampunk: Choice by Gaslight | 34030 | [34030-a-study-in-steampunk-choice-by-gaslight.json](./34030-a-study-in-steampunk-choice-by-gaslight.json) |
 | A Stupid Game About Pouring Drinks for the P.T.A. | 387502 | [387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json](./387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json) |
@@ -3064,6 +3065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai Painter: Painting Simulator | 350489 | [350489-ai-painter-painting-simulator.json](./350489-ai-painter-painting-simulator.json) |
 | AI People | 317314 | [317314-ai-people.json](./317314-ai-people.json) |
 | AI Rebellion | 90465 | [90465-ai-rebellion.json](./90465-ai-rebellion.json) |
+| Ai Ren Lover | 148328 | [148328-ai-ren-lover.json](./148328-ai-ren-lover.json) |
 | AI Roguelite 2D | 287191 | [287191-ai-roguelite-2d.json](./287191-ai-roguelite-2d.json) |
 | AI Schoolgirls Murder Mystery | 312674 | [312674-ai-schoolgirls-murder-mystery.json](./312674-ai-schoolgirls-murder-mystery.json) |
 | Ai Sensei no Oshiete: Watashi no Hoshi | 48668 | [48668-ai-sensei-no-oshiete-watashi-no-hoshi.json](./48668-ai-sensei-no-oshiete-watashi-no-hoshi.json) |
@@ -3523,6 +3525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aiso | 81774 | [81774-aiso.json](./81774-aiso.json) |
 | Aisu Kuriimu Simulator | 186730 | [186730-aisu-kuriimu-simulator.json](./186730-aisu-kuriimu-simulator.json) |
 | Aisu Paradise | 119048 | [119048-aisu-paradise.json](./119048-aisu-paradise.json) |
+| Aitakute... Your smiles in my heart | 148298 | [148298-aitakute-your-smiles-in-my-heart.json](./148298-aitakute-your-smiles-in-my-heart.json) |
 | Aiten Eishi: Blue Guardians | 252408 | [252408-aiten-eishi-blue-guardians.json](./252408-aiten-eishi-blue-guardians.json) |
 | Aitta: Finnish folktales | 203868 | [203868-aitta-finnish-folktales.json](./203868-aitta-finnish-folktales.json) |
 | Aivern | 341148 | [341148-aivern.json](./341148-aivern.json) |
@@ -4170,6 +4173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Crusader | 89385 | [89385-alien-crusader.json](./89385-alien-crusader.json) |
 | Alien Cube | 254779 | [254779-alien-cube.json](./254779-alien-cube.json) |
 | Alien Dead | 229715 | [229715-alien-dead.json](./229715-alien-dead.json) |
+| Alien Death Mob | 148317 | [148317-alien-death-mob.json](./148317-alien-death-mob.json) |
 | Alien Deathstorm | 396023 | [396023-alien-deathstorm.json](./396023-alien-deathstorm.json) |
 | Alien Decimation | 211164 | [211164-alien-decimation.json](./211164-alien-decimation.json) |
 | Alien Defense Unit | 216464 | [216464-alien-defense-unit.json](./216464-alien-defense-unit.json) |
@@ -7931,6 +7935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Tag Team Wrestling | 402568 | [402568-arcade-archives-tag-team-wrestling.json](./402568-arcade-archives-tag-team-wrestling.json) |
 | Arcade Archives: Tank Battalion | 290419 | [290419-arcade-archives-tank-battalion.json](./290419-arcade-archives-tank-battalion.json) |
 | Arcade Archives: Tank Force | 232461 | [232461-arcade-archives-tank-force.json](./232461-arcade-archives-tank-force.json) |
+| Arcade Archives: Task Force Harrier | 148323 | [148323-arcade-archives-task-force-harrier.json](./148323-arcade-archives-task-force-harrier.json) |
 | Arcade Archives: Tecmo Bowl | 147117 | [147117-arcade-archives-tecmo-bowl.json](./147117-arcade-archives-tecmo-bowl.json) |
 | Arcade Archives: Tecmo Stackers | 313224 | [313224-arcade-archives-tecmo-stackers.json](./313224-arcade-archives-tecmo-stackers.json) |
 | Arcade Archives: Terra Cresta | 99786 | [99786-arcade-archives-terra-cresta.json](./99786-arcade-archives-terra-cresta.json) |
@@ -8792,6 +8797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArmA Mobile Ops | 125918 | [125918-arma-mobile-ops.json](./125918-arma-mobile-ops.json) |
 | Arma Reforger | 201789 | [201789-arma-reforger.json](./201789-arma-reforger.json) |
 | ARMA: Armed Assault | 15626 | [15626-arma-armed-assault.json](./15626-arma-armed-assault.json) |
+| ArmaCulture | 148310 | [148310-armaculture.json](./148310-armaculture.json) |
 | Armada | 163191 | [163191-armada.json](./163191-armada.json) |
 | Armada | 85501 | [85501-armada.json](./85501-armada.json) |
 | Armada 2: Exodus | 364362 | [364362-armada-2-exodus.json](./364362-armada-2-exodus.json) |
@@ -11387,6 +11393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AWA 2024 | 278169 | [278169-awa-2024.json](./278169-awa-2024.json) |
 | Awaiting Salvation | 119737 | [119737-awaiting-salvation.json](./119737-awaiting-salvation.json) |
 | Awaits: 10H | 201620 | [201620-awaits-10h.json](./201620-awaits-10h.json) |
+| Awake | 148290 | [148290-awake.json](./148290-awake.json) |
 | Awake | 343247 | [343247-awake.json](./343247-awake.json) |
 | Awake: Definitive Edition | 113787 | [113787-awake-definitive-edition.json](./113787-awake-definitive-edition.json) |
 | AwakeMUD | 228698 | [228698-awakemud.json](./228698-awakemud.json) |
