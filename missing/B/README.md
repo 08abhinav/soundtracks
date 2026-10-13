@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Blaster | 359386 | [359386-ball-blaster.json](./359386-ball-blaster.json) |
 | Ball Blitz! | 296615 | [296615-ball-blitz.json](./296615-ball-blitz.json) |
 | Ball Bounce Maze | 166611 | [166611-ball-bounce-maze.json](./166611-ball-bounce-maze.json) |
+| Ball Bounce Progress | 166289 | [166289-ball-bounce-progress.json](./166289-ball-bounce-progress.json) |
 | Ball Boy Simulator | 412511 | [412511-ball-boy-simulator.json](./412511-ball-boy-simulator.json) |
 | Ball Brawl 3D | 154620 | [154620-ball-brawl-3d.json](./154620-ball-brawl-3d.json) |
 | Ball Breaker | 271113 | [271113-ball-breaker.json](./271113-ball-breaker.json) |
@@ -2697,6 +2698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Trendaria | 75191 | [75191-battle-trendaria.json](./75191-battle-trendaria.json) |
 | Battle Tryst | 58905 | [58905-battle-tryst.json](./58905-battle-tryst.json) |
 | Battle Tycoon: Flash Hiders SFX | 38216 | [38216-battle-tycoon-flash-hiders-sfx.json](./38216-battle-tycoon-flash-hiders-sfx.json) |
+| Battle Wave 2323 | 166281 | [166281-battle-wave-2323.json](./166281-battle-wave-2323.json) |
 | Battle Wizard Attack | 314633 | [314633-battle-wizard-attack.json](./314633-battle-wizard-attack.json) |
 | Battle Wizards | 136284 | [136284-battle-wizards.json](./136284-battle-wizards.json) |
 | Battle World: Kronos - Special Edition | 52455 | [52455-battle-world-kronos-special-edition.json](./52455-battle-world-kronos-special-edition.json) |
@@ -6049,6 +6051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackout: Uma Aventura Energética | 293896 | [293896-blackout-uma-aventura-energetica.json](./293896-blackout-uma-aventura-energetica.json) |
 | Blackout!! | 197087 | [197087-blackout.json](./197087-blackout.json) |
 | Blackpink: The Game | 250430 | [250430-blackpink-the-game.json](./250430-blackpink-the-game.json) |
+| Blacksad: Under the Skin - Collector's Edition | 166272 | [166272-blacksad-under-the-skin-collectors-edition.json](./166272-blacksad-under-the-skin-collectors-edition.json) |
 | BlackSands | 391334 | [391334-blacksands.json](./391334-blacksands.json) |
 | Blackscar Mountain | 72093 | [72093-blackscar-mountain.json](./72093-blackscar-mountain.json) |
 | Blacksea Odyssey | 12979 | [12979-blacksea-odyssey.json](./12979-blacksea-odyssey.json) |
@@ -10697,6 +10700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubsy in Fractured Furry Tales | 7805 | [7805-bubsy-in-fractured-furry-tales.json](./7805-bubsy-in-fractured-furry-tales.json) |
 | Bubsy in Sonic 2 | 360099 | [360099-bubsy-in-sonic-2.json](./360099-bubsy-in-sonic-2.json) |
 | Bubsy In: The Purrfect Collection | 306587 | [306587-bubsy-in-the-purrfect-collection.json](./306587-bubsy-in-the-purrfect-collection.json) |
+| Bubsy: Paws on Fire - Limited Edition | 166269 | [166269-bubsy-paws-on-fire-limited-edition.json](./166269-bubsy-paws-on-fire-limited-edition.json) |
 | Bubu Battle Royale | 402300 | [402300-bubu-battle-royale.json](./402300-bubu-battle-royale.json) |
 | Bubu Chuǎng Tōngguān | 390695 | [390695-bubu-chuang-tongguan.json](./390695-bubu-chuang-tongguan.json) |
 | Bubu Kong | 25007 | [25007-bubu-kong.json](./25007-bubu-kong.json) |
