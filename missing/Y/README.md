@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| Y School Heroes: Bustlin' School Life | 144735 | [144735-y-school-heroes-bustlin-school-life.json](./144735-y-school-heroes-bustlin-school-life.json) |
 | Y-Tiles | 58248 | [58248-y-tiles.json](./58248-y-tiles.json) |
 | Y. Village: The Visitors | 272873 | [272873-y-village-the-visitors.json](./272873-y-village-the-visitors.json) |
 | Y.A.S.G | 84935 | [84935-y-a-s-g.json](./84935-y-a-s-g.json) |
