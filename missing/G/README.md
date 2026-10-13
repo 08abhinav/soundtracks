@@ -4723,6 +4723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gord: Deluxe Edition | 259522 | [259522-gord-deluxe-edition.json](./259522-gord-deluxe-edition.json) |
 | Gordian | 351586 | [351586-gordian.json](./351586-gordian.json) |
 | Gordian Quest | 125048 | [125048-gordian-quest.json](./125048-gordian-quest.json) |
+| Gordian Rooms: A Curious Heritage | 138477 | [138477-gordian-rooms-a-curious-heritage.json](./138477-gordian-rooms-a-curious-heritage.json) |
 | Gordian Snake | 139319 | [139319-gordian-snake.json](./139319-gordian-snake.json) |
 | Gordian Tomb | 73850 | [73850-gordian-tomb.json](./73850-gordian-tomb.json) |
 | Gordinho Adventure | 322675 | [322675-gordinho-adventure.json](./322675-gordinho-adventure.json) |
