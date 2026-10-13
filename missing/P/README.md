@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Museum: Ms. Pac-Man DLC | 343386 | [343386-pac-man-museum-ms-pac-man-dlc.json](./343386-pac-man-museum-ms-pac-man-dlc.json) |
 | Pac-Man Museum+ | 182246 | [182246-pac-man-museum.json](./182246-pac-man-museum.json) |
 | Pac-Man Party | 5089 | [5089-pac-man-party.json](./5089-pac-man-party.json) |
+| Pac-Man Power Pack | 145384 | [145384-pac-man-power-pack.json](./145384-pac-man-power-pack.json) |
 | Pac-Man Remix | 21853 | [21853-pac-man-remix.json](./21853-pac-man-remix.json) |
 | Pac-Man S | 64683 | [64683-pac-man-s.json](./64683-pac-man-s.json) |
 | Pac-Man SDL | 334737 | [334737-pac-man-sdl.json](./334737-pac-man-sdl.json) |
@@ -268,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PachiPara 14: Kaze to Kumo to Super Umi in Okinawa | 61905 | [61905-pachipara-14-kaze-to-kumo-to-super-umi-in-okinawa.json](./61905-pachipara-14-kaze-to-kumo-to-super-umi-in-okinawa.json) |
 | PachiPara 3D: Deluxe Umi Monogatari | 222465 | [222465-pachipara-3d-deluxe-umi-monogatari.json](./222465-pachipara-3d-deluxe-umi-monogatari.json) |
 | PachiPara 3D: Ooumi Monogatari 2 with Agnes Lum - Pachi-Pro Fuuunroku Hana Kesareta License | 141149 | [141149-pachipara-3d-ooumi-monogatari-2-with-agnes-lum-pachi-pro-fuuunroku-hana-kesareta-license.json](./141149-pachipara-3d-ooumi-monogatari-2-with-agnes-lum-pachi-pro-fuuunroku-hana-kesareta-license.json) |
+| PachiPara 3D: Premium Umi Monogatari - Yumemiru Otome to Pachinko Ou Ketteisen | 145405 | [145405-pachipara-3d-premium-umi-monogatari-yumemiru-otome-to-pachinko-ou-ketteisen.json](./145405-pachipara-3d-premium-umi-monogatari-yumemiru-otome-to-pachinko-ou-ketteisen.json) |
 | PachiPara 3D: Taikai Monogatari 2 - Pachi Pro Fuuunroku Hana: Kibou to Uragiri no Gakuen Seikatsu | 222330 | [222330-pachipara-3d-taikai-monogatari-2-pachi-pro-fuuunroku-hana-kibou-to-uragiri-no-gakuen-seikatsu.json](./222330-pachipara-3d-taikai-monogatari-2-pachi-pro-fuuunroku-hana-kibou-to-uragiri-no-gakuen-seikatsu.json) |
 | PachiPara Slot+ Pachi-Slot Daiku no Gen-san: Ikuze! Honō no Gen Matsuri-hen | 138686 | [138686-pachipara-slot-pachi-slot-daiku-no-gen-san-ikuze-hono-no-gen-matsuri-hen.json](./138686-pachipara-slot-pachi-slot-daiku-no-gen-san-ikuze-hono-no-gen-matsuri-hen.json) |
 | Pachirisu's Click-Clack Attack! | 234097 | [234097-pachirisus-click-clack-attack.json](./234097-pachirisus-click-clack-attack.json) |
@@ -7362,6 +7364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Hoenn's Last Wish | 396514 | [396514-pokemon-hoenns-last-wish.json](./396514-pokemon-hoenns-last-wish.json) |
 | Pokémon Home | 141960 | [141960-pokemon-home.json](./141960-pokemon-home.json) |
 | Pokémon I Choose You Challenge | 198863 | [198863-pokemon-i-choose-you-challenge.json](./198863-pokemon-i-choose-you-challenge.json) |
+| Pokémon Iberia | 145370 | [145370-pokemon-iberia.json](./145370-pokemon-iberia.json) |
 | Pokémon Infinite Fusion 2: Hoenn | 406249 | [406249-pokemon-infinite-fusion-2-hoenn.json](./406249-pokemon-infinite-fusion-2-hoenn.json) |
 | Pokémon Infinite Heardle | 283399 | [283399-pokemon-infinite-heardle.json](./283399-pokemon-infinite-heardle.json) |
 | Pokémon Infinity | 186130 | [186130-pokemon-infinity.json](./186130-pokemon-infinity.json) |
