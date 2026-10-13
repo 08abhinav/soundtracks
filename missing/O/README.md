@@ -1036,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympia: Festival of the Gods | 341504 | [341504-olympia-festival-of-the-gods.json](./341504-olympia-festival-of-the-gods.json) |
 | Olympians: Darius | 411128 | [411128-olympians-darius.json](./411128-olympians-darius.json) |
 | Olympic Basketball | 147463 | [147463-olympic-basketball.json](./147463-olympic-basketball.json) |
+| Olympic Boxing | 147751 | [147751-olympic-boxing.json](./147751-olympic-boxing.json) |
 | Olympic Decathlon | 178060 | [178060-olympic-decathlon.json](./178060-olympic-decathlon.json) |
 | Olympic Decathlon | 78618 | [78618-olympic-decathlon.json](./78618-olympic-decathlon.json) |
 | Olympic Games Tokyo 2020: The Official Video Game | 116797 | [116797-olympic-games-tokyo-2020-the-official-video-game.json](./116797-olympic-games-tokyo-2020-the-official-video-game.json) |
@@ -1217,6 +1218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omori: The Dreamer | 341101 | [341101-omori-the-dreamer.json](./341101-omori-the-dreamer.json) |
 | Omoshiro Action: Ii Otona-tachi no Daibouken | 222251 | [222251-omoshiro-action-ii-otona-tachi-no-daibouken.json](./222251-omoshiro-action-ii-otona-tachi-no-daibouken.json) |
 | Omoshiroi Moro | 259826 | [259826-omoshiroi-moro.json](./259826-omoshiroi-moro.json) |
+| OmoTomO | 147752 | [147752-omotomo.json](./147752-omotomo.json) |
 | OMSI 2: Aachen | 155135 | [155135-omsi-2-aachen.json](./155135-omsi-2-aachen.json) |
 | OMSI 2: Add-On - Man SL200 | 255076 | [255076-omsi-2-add-on-man-sl200.json](./255076-omsi-2-add-on-man-sl200.json) |
 | OMSI 2: Add-On Coachbus 303-Series | 253435 | [253435-omsi-2-add-on-coachbus-303-series.json](./253435-omsi-2-add-on-coachbus-303-series.json) |
