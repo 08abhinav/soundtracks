@@ -2065,6 +2065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manor of Mysteries | 265149 | [265149-manor-of-mysteries.json](./265149-manor-of-mysteries.json) |
 | Manor of Mystic Courtesans | 291072 | [291072-manor-of-mystic-courtesans.json](./291072-manor-of-mystic-courtesans.json) |
 | Manor of Shadows | 380678 | [380678-manor-of-shadows.json](./380678-manor-of-shadows.json) |
+| Manorvania | 178894 | [178894-manorvania.json](./178894-manorvania.json) |
 | Manos: The Hands of Choice | 343399 | [343399-manos-the-hands-of-choice.json](./343399-manos-the-hands-of-choice.json) |
 | Manpuku | 266407 | [266407-manpuku.json](./266407-manpuku.json) |
 | ManServant: Gay Visual Novel | 229115 | [229115-manservant-gay-visual-novel.json](./229115-manservant-gay-visual-novel.json) |
@@ -8365,6 +8366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miniland Adventure | 283256 | [283256-miniland-adventure.json](./283256-miniland-adventure.json) |
 | MiniLaw: Ministry of Law | 32024 | [32024-minilaw-ministry-of-law.json](./32024-minilaw-ministry-of-law.json) |
 | MiniLife: Tournament | 257960 | [257960-minilife-tournament.json](./257960-minilife-tournament.json) |
+| Minim | 178877 | [178877-minim.json](./178877-minim.json) |
 | Minima | 183358 | [183358-minima.json](./183358-minima.json) |
 | Minima | 293652 | [293652-minima.json](./293652-minima.json) |
 | Minimal | 33392 | [33392-minimal.json](./33392-minimal.json) |
@@ -13489,6 +13491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Plushy Shift | 324875 | [324875-my-plushy-shift.json](./324875-my-plushy-shift.json) |
 | My Pokémon Ranch | 4563 | [4563-my-pokemon-ranch.json](./4563-my-pokemon-ranch.json) |
 | My Poodle's Diary | 310152 | [310152-my-poodles-diary.json](./310152-my-poodles-diary.json) |
+| My Potion Shop | 178910 | [178910-my-potion-shop.json](./178910-my-potion-shop.json) |
 | My Pretend Fairytale Land | 299224 | [299224-my-pretend-fairytale-land.json](./299224-my-pretend-fairytale-land.json) |
 | My Pretend Family | 299223 | [299223-my-pretend-family.json](./299223-my-pretend-family.json) |
 | My Pretend Halloween Town | 299222 | [299222-my-pretend-halloween-town.json](./299222-my-pretend-halloween-town.json) |
@@ -13761,6 +13764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mycopsychosys: Remastered | 360493 | [360493-mycopsychosys-remastered.json](./360493-mycopsychosys-remastered.json) |
 | Mycopunk | 342011 | [342011-mycopunk.json](./342011-mycopunk.json) |
 | MycoRelic | 274470 | [274470-mycorelic.json](./274470-mycorelic.json) |
+| Mycorrhiza | 178904 | [178904-mycorrhiza.json](./178904-mycorrhiza.json) |
 | Mycro | 152858 | [152858-mycro.json](./152858-mycro.json) |
 | Mycubium | 356294 | [356294-mycubium.json](./356294-mycubium.json) |
 | MyDear.exe | 399763 | [399763-mydear-exe.json](./399763-mydear-exe.json) |
