@@ -2083,6 +2083,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mansion of the Dead | 337486 | [337486-mansion-of-the-dead.json](./337486-mansion-of-the-dead.json) |
 | Mansion Tour | 225561 | [225561-mansion-tour.json](./225561-mansion-tour.json) |
 | MansionDungeon | 404246 | [404246-mansiondungeon.json](./404246-mansiondungeon.json) |
+| Mansions of Madness: Dark Reflections | 168929 | [168929-mansions-of-madness-dark-reflections.json](./168929-mansions-of-madness-dark-reflections.json) |
+| Mansions of Madness: What Lies Within | 168928 | [168928-mansions-of-madness-what-lies-within.json](./168928-mansions-of-madness-what-lies-within.json) |
 | Mantis Burn Racing: Battle Cars | 170307 | [170307-mantis-burn-racing-battle-cars.json](./170307-mantis-burn-racing-battle-cars.json) |
 | Mantis Burn Racing: Elite Class | 170305 | [170305-mantis-burn-racing-elite-class.json](./170305-mantis-burn-racing-elite-class.json) |
 | Mantis Burn Racing: Snowbound Pack | 170306 | [170306-mantis-burn-racing-snowbound-pack.json](./170306-mantis-burn-racing-snowbound-pack.json) |
