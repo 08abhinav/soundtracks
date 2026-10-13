@@ -3951,6 +3951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Nature 4 in 1 | 332023 | [332023-heroes-of-nature-4-in-1.json](./332023-heroes-of-nature-4-in-1.json) |
 | Heroes of Newerth | 763 | [763-heroes-of-newerth.json](./763-heroes-of-newerth.json) |
 | Heroes of Newerth Reborn | 376014 | [376014-heroes-of-newerth-reborn.json](./376014-heroes-of-newerth-reborn.json) |
+| Heroes of Normandie: 21st Panzer Division | 155340 | [155340-heroes-of-normandie-21st-panzer-division.json](./155340-heroes-of-normandie-21st-panzer-division.json) |
 | Heroes of Normandie: Bulletproof Edition | 53190 | [53190-heroes-of-normandie-bulletproof-edition.json](./53190-heroes-of-normandie-bulletproof-edition.json) |
 | Heroes of Normandie: US Rangers | 172010 | [172010-heroes-of-normandie-us-rangers.json](./172010-heroes-of-normandie-us-rangers.json) |
 | Heroes of Order & Chaos | 39181 | [39181-heroes-of-order-and-chaos.json](./39181-heroes-of-order-and-chaos.json) |
@@ -8251,6 +8252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperspace Invaders II: Pixel Edition | 20923 | [20923-hyperspace-invaders-ii-pixel-edition.json](./20923-hyperspace-invaders-ii-pixel-edition.json) |
 | Hyperspace Services | 184085 | [184085-hyperspace-services.json](./184085-hyperspace-services.json) |
 | Hyperspace Throw Patrol | 184991 | [184991-hyperspace-throw-patrol.json](./184991-hyperspace-throw-patrol.json) |
+| Hyperspace: Andy's Adventure - Metal Universe | 155365 | [155365-hyperspace-andys-adventure-metal-universe.json](./155365-hyperspace-andys-adventure-metal-universe.json) |
 | Hyperspacer | 293529 | [293529-hyperspacer.json](./293529-hyperspacer.json) |
 | Hyperspeed - Race with Friends | 115450 | [115450-hyperspeed-race-with-friends.json](./115450-hyperspeed-race-with-friends.json) |
 | Hyperstacks | 137604 | [137604-hyperstacks.json](./137604-hyperstacks.json) |
