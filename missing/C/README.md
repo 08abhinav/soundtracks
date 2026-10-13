@@ -2951,6 +2951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catz II: Your Virtual Petz | 73463 | [73463-catz-ii-your-virtual-petz.json](./73463-catz-ii-your-virtual-petz.json) |
 | Catz: Your Computer Petz | 79286 | [79286-catz-your-computer-petz.json](./79286-catz-your-computer-petz.json) |
 | Caught by a Spider | 330917 | [330917-caught-by-a-spider.json](./330917-caught-by-a-spider.json) |
+| Caught in Nowhere | 160076 | [160076-caught-in-nowhere.json](./160076-caught-in-nowhere.json) |
 | Caught Lacking: Femboy Edition | 385247 | [385247-caught-lacking-femboy-edition.json](./385247-caught-lacking-femboy-edition.json) |
 | Cauldron Caution | 309653 | [309653-cauldron-caution.json](./309653-cauldron-caution.json) |
 | Cauldron Chaos | 368495 | [368495-cauldron-chaos.json](./368495-cauldron-chaos.json) |
@@ -8700,6 +8701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conor Origins: T Trilogy | 292751 | [292751-conor-origins-t-trilogy.json](./292751-conor-origins-t-trilogy.json) |
 | Conquela | 286605 | [286605-conquela.json](./286605-conquela.json) |
 | Conquer | 83821 | [83821-conquer.json](./83821-conquer.json) |
+| Conquer and Breed the Demon Queen | 160057 | [160057-conquer-and-breed-the-demon-queen.json](./160057-conquer-and-breed-the-demon-queen.json) |
 | Conquer City Wars | 100333 | [100333-conquer-city-wars.json](./100333-conquer-city-wars.json) |
 | Conquer Humanity | 225687 | [225687-conquer-humanity.json](./225687-conquer-humanity.json) |
 | Conquer II | 193841 | [193841-conquer-ii.json](./193841-conquer-ii.json) |
