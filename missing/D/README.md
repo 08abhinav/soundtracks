@@ -439,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Aerobics | 48176 | [48176-dance-aerobics.json](./48176-dance-aerobics.json) |
 | Dance Around | 210279 | [210279-dance-around.json](./210279-dance-around.json) |
 | Dance Assembly | 228504 | [228504-dance-assembly.json](./228504-dance-assembly.json) |
+| Dance Central | 175660 | [175660-dance-central.json](./175660-dance-central.json) |
 | Dance Central 2: Flo Rida & T-Pain - "Low" | 353201 | [353201-dance-central-2-flo-rida-and-t-pain-low.json](./353201-dance-central-2-flo-rida-and-t-pain-low.json) |
 | Dance Central 2: LMFAO - "Party Rock Anthem" | 353200 | [353200-dance-central-2-lmfao-party-rock-anthem.json](./353200-dance-central-2-lmfao-party-rock-anthem.json) |
 | Dance Central 2: Nelly - "Hot In Herre" | 353202 | [353202-dance-central-2-nelly-hot-in-herre.json](./353202-dance-central-2-nelly-hot-in-herre.json) |
@@ -763,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dante's Inferno: Dark Forest Pack | 172772 | [172772-dantes-inferno-dark-forest-pack.json](./172772-dantes-inferno-dark-forest-pack.json) |
 | Dante's Inferno: Divine Edition | 44610 | [44610-dantes-inferno-divine-edition.json](./44610-dantes-inferno-divine-edition.json) |
 | Dante's Inferno: Trials of St. Lucia | 21747 | [21747-dantes-inferno-trials-of-st-lucia.json](./21747-dantes-inferno-trials-of-st-lucia.json) |
+| Dante's Infernya | 175841 | [175841-dantes-infernya.json](./175841-dantes-infernya.json) |
 | Dante's Rumba | 412188 | [412188-dantes-rumba.json](./412188-dantes-rumba.json) |
 | Dantes Bullet Inferno | 129749 | [129749-dantes-bullet-inferno.json](./129749-dantes-bullet-inferno.json) |
 | Danzai no Maria: The Exorcism of Maria | 72647 | [72647-danzai-no-maria-the-exorcism-of-maria.json](./72647-danzai-no-maria-the-exorcism-of-maria.json) |
@@ -4044,6 +4046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeMon Researcher | 361797 | [361797-demon-researcher.json](./361797-demon-researcher.json) |
 | Demon robot runner | 89369 | [89369-demon-robot-runner.json](./89369-demon-robot-runner.json) |
 | Demon RPG | 299451 | [299451-demon-rpg.json](./299451-demon-rpg.json) |
+| Demon Runner: The Forsaken | 175646 | [175646-demon-runner-the-forsaken.json](./175646-demon-runner-the-forsaken.json) |
 | Demon Save the World | 298262 | [298262-demon-save-the-world.json](./298262-demon-save-the-world.json) |
 | Demon Scrolls | 249716 | [249716-demon-scrolls.json](./249716-demon-scrolls.json) |
 | Demon Seed | 218135 | [218135-demon-seed.json](./218135-demon-seed.json) |
@@ -4784,6 +4787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy All Zombies | 247974 | [247974-destroy-all-zombies.json](./247974-destroy-all-zombies.json) |
 | Destroy Blocks | 296642 | [296642-destroy-blocks.json](./296642-destroy-blocks.json) |
 | Destroy Geometric Shapes | 172139 | [172139-destroy-geometric-shapes.json](./172139-destroy-geometric-shapes.json) |
+| Destroy Gunners | 175673 | [175673-destroy-gunners.json](./175673-destroy-gunners.json) |
 | Destroy Korcity | 264230 | [264230-destroy-korcity.json](./264230-destroy-korcity.json) |
 | Destroy Simulator | 188517 | [188517-destroy-simulator.json](./188517-destroy-simulator.json) |
 | Destroy the Castle | 349843 | [349843-destroy-the-castle.json](./349843-destroy-the-castle.json) |
@@ -5824,6 +5828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Spacecade | 28181 | [28181-digital-spacecade.json](./28181-digital-spacecade.json) |
 | Digital Survivor | 411728 | [411728-digital-survivor.json](./411728-digital-survivor.json) |
 | Digital Tamers: ReBorn | 177283 | [177283-digital-tamers-reborn.json](./177283-digital-tamers-reborn.json) |
+| Digital Terrarium: Pogona Virtual Pet | 175846 | [175846-digital-terrarium-pogona-virtual-pet.json](./175846-digital-terrarium-pogona-virtual-pet.json) |
 | Digital Virus | 236008 | [236008-digital-virus.json](./236008-digital-virus.json) |
 | Digital Zoo Gallery | 154465 | [154465-digital-zoo-gallery.json](./154465-digital-zoo-gallery.json) |
 | DigitalDNA Zombies | 83197 | [83197-digitaldna-zombies.json](./83197-digitaldna-zombies.json) |
