@@ -2279,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear Academy | 345079 | [345079-fear-academy.json](./345079-fear-academy.json) |
 | Fear Assessment+ | 254396 | [254396-fear-assessment.json](./254396-fear-assessment.json) |
 | Fear Calibration | 303072 | [303072-fear-calibration.json](./303072-fear-calibration.json) |
+| Fear Corporation | 165767 | [165767-fear-corporation.json](./165767-fear-corporation.json) |
 | Fear Dog The Bolota Escape | 379159 | [379159-fear-dog-the-bolota-escape.json](./379159-fear-dog-the-bolota-escape.json) |
 | Fear Effect | 320361 | [320361-fear-effect.json](./320361-fear-effect.json) |
 | Fear Effect 2: Retro Helix | 375601 | [375601-fear-effect-2-retro-helix.json](./375601-fear-effect-2-retro-helix.json) |
