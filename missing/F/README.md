@@ -6488,6 +6488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formaggio 2 | 327365 | [327365-formaggio-2.json](./327365-formaggio-2.json) |
 | Format | 312580 | [312580-format.json](./312580-format.json) |
 | Formata | 29754 | [29754-formata.json](./29754-formata.json) |
+| Formation | 177976 | [177976-formation.json](./177976-formation.json) |
 | Formation | 258690 | [258690-formation.json](./258690-formation.json) |
 | Formation Soccer '97: The Road to France | 286577 | [286577-formation-soccer-97-the-road-to-france.json](./286577-formation-soccer-97-the-road-to-france.json) |
 | Formation Soccer '98 - Ganbare Nippon in France | 286578 | [286578-formation-soccer-98-ganbare-nippon-in-france.json](./286578-formation-soccer-98-ganbare-nippon-in-france.json) |
