@@ -2129,6 +2129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scoop it! Goldfish | 308500 | [308500-scoop-it-goldfish.json](./308500-scoop-it-goldfish.json) |
 | Scoop Kick! | 190175 | [190175-scoop-kick.json](./190175-scoop-kick.json) |
 | Scoop: Excavator | 200024 | [200024-scoop-excavator.json](./200024-scoop-excavator.json) |
+| Scoop! Around the World in 80 Spaces | 147782 | [147782-scoop-around-the-world-in-80-spaces.json](./147782-scoop-around-the-world-in-80-spaces.json) |
 | Scoop'n Birds | 28141 | [28141-scoopn-birds.json](./28141-scoopn-birds.json) |
 | Scoop'n Birds | 86076 | [86076-scoopn-birds.json](./86076-scoopn-birds.json) |
 | Scoops | 232584 | [232584-scoops.json](./232584-scoops.json) |
@@ -9636,6 +9637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake's Revenge | 198894 | [198894-snakes-revenge.json](./198894-snakes-revenge.json) |
 | Snake's Revenge | 7848 | [7848-snakes-revenge.json](./7848-snakes-revenge.json) |
 | Snake360 | 71607 | [71607-snake360.json](./71607-snake360.json) |
+| Snake3d | 147776 | [147776-snake3d.json](./147776-snake3d.json) |
 | Snakeball | 21881 | [21881-snakeball.json](./21881-snakeball.json) |
 | Snakebird | 13104 | [13104-snakebird.json](./13104-snakebird.json) |
 | Snakebird Complete | 239519 | [239519-snakebird-complete.json](./239519-snakebird-complete.json) |
@@ -21102,6 +21104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Meat Boy: Ultra Edition | 20620 | [20620-super-meat-boy-ultra-edition.json](./20620-super-meat-boy-ultra-edition.json) |
 | Super Meat Shooter | 75635 | [75635-super-meat-shooter.json](./75635-super-meat-shooter.json) |
 | Super Meat Shooter: Happy Meat Winter | 172116 | [172116-super-meat-shooter-happy-meat-winter.json](./172116-super-meat-shooter-happy-meat-winter.json) |
+| Super Meatball | 147779 | [147779-super-meatball.json](./147779-super-meatball.json) |
 | Super Mecha Lifter 4000 | 363916 | [363916-super-mecha-lifter-4000.json](./363916-super-mecha-lifter-4000.json) |
 | Super Mega Baseball 2 | 26612 | [26612-super-mega-baseball-2.json](./26612-super-mega-baseball-2.json) |
 | Super Mega Baseball 2: El Viejo Stadium | 171906 | [171906-super-mega-baseball-2-el-viejo-stadium.json](./171906-super-mega-baseball-2-el-viejo-stadium.json) |
