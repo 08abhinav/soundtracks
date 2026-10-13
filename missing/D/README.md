@@ -4632,6 +4632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Dungeons: Rewind | 213510 | [213510-desktop-dungeons-rewind.json](./213510-desktop-dungeons-rewind.json) |
 | Desktop Dynasties | 111519 | [111519-desktop-dynasties.json](./111519-desktop-dynasties.json) |
 | Desktop Explorer | 275251 | [275251-desktop-explorer.json](./275251-desktop-explorer.json) |
+| Desktop Farm | 150447 | [150447-desktop-farm.json](./150447-desktop-farm.json) |
 | Desktop Fisher | 348752 | [348752-desktop-fisher.json](./348752-desktop-fisher.json) |
 | Desktop Fishes | 364006 | [364006-desktop-fishes.json](./364006-desktop-fishes.json) |
 | Desktop Fishing | 344545 | [344545-desktop-fishing.json](./344545-desktop-fishing.json) |
@@ -7766,6 +7767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominant Mind | 148166 | [148166-dominant-mind.json](./148166-dominant-mind.json) |
 | Dominant Species for iPad | 108516 | [108516-dominant-species-for-ipad.json](./108516-dominant-species-for-ipad.json) |
 | Dominari | 75099 | [75099-dominari.json](./75099-dominari.json) |
+| Dominate Square | 150446 | [150446-dominate-square.json](./150446-dominate-square.json) |
 | Dominate: Board Game | 147971 | [147971-dominate-board-game.json](./147971-dominate-board-game.json) |
 | Dominating the Skies | 162412 | [162412-dominating-the-skies.json](./162412-dominating-the-skies.json) |
 | Domination | 167914 | [167914-domination.json](./167914-domination.json) |
@@ -7991,6 +7993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Melt the Snowman | 280134 | [280134-dont-melt-the-snowman.json](./280134-dont-melt-the-snowman.json) |
 | Don't Mess With Bober | 350603 | [350603-dont-mess-with-bober.json](./350603-dont-mess-with-bober.json) |
 | Don't Mess with Gamers | 322128 | [322128-dont-mess-with-gamers.json](./322128-dont-mess-with-gamers.json) |
+| Don't Mess With Nanny | 150449 | [150449-dont-mess-with-nanny.json](./150449-dont-mess-with-nanny.json) |
 | Don't Mess With Your Ex | 414309 | [414309-dont-mess-with-your-ex.json](./414309-dont-mess-with-your-ex.json) |
 | Don't Mind the Robots | 356596 | [356596-dont-mind-the-robots.json](./356596-dont-mind-the-robots.json) |
 | Don't Move | 346726 | [346726-dont-move.json](./346726-dont-move.json) |
@@ -9100,6 +9103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Moonlight's Happyworld | 387515 | [387515-dr-moonlights-happyworld.json](./387515-dr-moonlights-happyworld.json) |
 | Dr. Murph | 304703 | [304703-dr-murph.json](./304703-dr-murph.json) |
 | Dr. Neo Cortex: Inventor's Madness | 314661 | [314661-dr-neo-cortex-inventors-madness.json](./314661-dr-neo-cortex-inventors-madness.json) |
+| Dr. Oil | 150458 | [150458-dr-oil.json](./150458-dr-oil.json) |
 | Dr. Oops! | 402421 | [402421-dr-oops.json](./402421-dr-oops.json) |
 | Dr. P | 278398 | [278398-dr-p.json](./278398-dr-p.json) |
 | Dr. Panda & Toto's Treehouse | 61050 | [61050-dr-panda-and-totos-treehouse.json](./61050-dr-panda-and-totos-treehouse.json) |
@@ -9978,6 +9982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dravo's Twisted Show | 410076 | [410076-dravos-twisted-show.json](./410076-dravos-twisted-show.json) |
 | Draw | 258014 | [258014-draw.json](./258014-draw.json) |
 | Draw & Color Maze: Paint Labyrinth Puzzle | 276959 | [276959-draw-and-color-maze-paint-labyrinth-puzzle.json](./276959-draw-and-color-maze-paint-labyrinth-puzzle.json) |
+| Draw & Guess | 150463 | [150463-draw-and-guess.json](./150463-draw-and-guess.json) |
 | Draw & Guess Multiplayer | 348948 | [348948-draw-and-guess-multiplayer.json](./348948-draw-and-guess-multiplayer.json) |
 | Draw 2 Save: Stickman Puzzle | 208980 | [208980-draw-2-save-stickman-puzzle.json](./208980-draw-2-save-stickman-puzzle.json) |
 | Draw a Stickman: Epic | 5032 | [5032-draw-a-stickman-epic.json](./5032-draw-a-stickman-epic.json) |
