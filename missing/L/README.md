@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L the Prologue to Death Note -Spiraling Trap- | 22390 | [22390-l-the-prologue-to-death-note-spiraling-trap.json](./22390-l-the-prologue-to-death-note-spiraling-trap.json) |
 | L-Room | 262936 | [262936-l-room.json](./262936-l-room.json) |
 | L-RPG | 98036 | [98036-l-rpg.json](./98036-l-rpg.json) |
+| L: An Interactive Mystery | 178883 | [178883-l-an-interactive-mystery.json](./178883-l-an-interactive-mystery.json) |
 | L.A. 2 | 92125 | [92125-l-a-2.json](./92125-l-a-2.json) |
 | L.A. Crackdown | 55091 | [55091-l-a-crackdown.json](./55091-l-a-crackdown.json) |
 | L.A. Machineguns: Rage of the Machines | 39478 | [39478-l-a-machineguns-rage-of-the-machines.json](./39478-l-a-machineguns-rage-of-the-machines.json) |
@@ -3280,6 +3281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil' Pirates | 92160 | [92160-lil-pirates.json](./92160-lil-pirates.json) |
 | Lil' Robo | 331305 | [331305-lil-robo.json](./331305-lil-robo.json) |
 | Lila's Sky Ark | 144552 | [144552-lilas-sky-ark.json](./144552-lilas-sky-ark.json) |
+| Lilac & Her Light | 178919 | [178919-lilac-and-her-light.json](./178919-lilac-and-her-light.json) |
 | Lilac: Side Witch | 397190 | [397190-lilac-side-witch.json](./397190-lilac-side-witch.json) |
 | Lilac: Side Wizard | 397191 | [397191-lilac-side-wizard.json](./397191-lilac-side-wizard.json) |
 | Lilacs in the Breeze | 364387 | [364387-lilacs-in-the-breeze.json](./364387-lilacs-in-the-breeze.json) |
@@ -4238,6 +4240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizzie McGuire 2: Lizzie Diaries | 49393 | [49393-lizzie-mcguire-2-lizzie-diaries.json](./49393-lizzie-mcguire-2-lizzie-diaries.json) |
 | Lizzie McGuire 3: Homecoming Havoc | 49392 | [49392-lizzie-mcguire-3-homecoming-havoc.json](./49392-lizzie-mcguire-3-homecoming-havoc.json) |
 | Lizzie McGuire: On the Go! | 49394 | [49394-lizzie-mcguire-on-the-go.json](./49394-lizzie-mcguire-on-the-go.json) |
+| Lizzie's Lucky Potion Shop | 178916 | [178916-lizzies-lucky-potion-shop.json](./178916-lizzies-lucky-potion-shop.json) |
 | LJ65 | 305313 | [305313-lj65.json](./305313-lj65.json) |
 | Lkyt. | 207259 | [207259-lkyt.json](./207259-lkyt.json) |
 | Llama God | 179991 | [179991-llama-god.json](./179991-llama-god.json) |
