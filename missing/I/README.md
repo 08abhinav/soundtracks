@@ -1449,6 +1449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ill Ness | 217251 | [217251-ill-ness.json](./217251-ill-ness.json) |
 | Ill Will | 125834 | [125834-ill-will.json](./125834-ill-will.json) |
 | Illagus | 133390 | [133390-illagus.json](./133390-illagus.json) |
+| Illarion | 144722 | [144722-illarion.json](./144722-illarion.json) |
 | Illegal Communication | 199084 | [199084-illegal-communication.json](./199084-illegal-communication.json) |
 | Illegal Crime Game | 251246 | [251246-illegal-crime-game.json](./251246-illegal-crime-game.json) |
 | Illegal Dealership Simulator | 326410 | [326410-illegal-dealership-simulator.json](./326410-illegal-dealership-simulator.json) |
@@ -3796,6 +3797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irium | 91889 | [91889-irium.json](./91889-irium.json) |
 | IRL: Italian Ritual Live | 371752 | [371752-irl-italian-ritual-live.json](./371752-irl-italian-ritual-live.json) |
 | IRL: The Game | 202571 | [202571-irl-the-game.json](./202571-irl-the-game.json) |
+| Irmão Grande & Brasileiro | 144719 | [144719-irmao-grande-and-brasileiro.json](./144719-irmao-grande-and-brasileiro.json) |
 | Irmão Grande & Brasileiro 2 | 163461 | [163461-irmao-grande-and-brasileiro-2.json](./163461-irmao-grande-and-brasileiro-2.json) |
 | Iroase no Hate ni | 284601 | [284601-iroase-no-hate-ni.json](./284601-iroase-no-hate-ni.json) |
 | Irochi Mikke! | 276464 | [276464-irochi-mikke.json](./276464-irochi-mikke.json) |
@@ -4259,6 +4261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ISS Pro Evolution | 28403 | [28403-iss-pro-evolution.json](./28403-iss-pro-evolution.json) |
 | ISS Simulator | 326411 | [326411-iss-simulator.json](./326411-iss-simulator.json) |
 | ISS: International Superstar Soccer | 220859 | [220859-iss-international-superstar-soccer.json](./220859-iss-international-superstar-soccer.json) |
+| Issho ni Asobo Koupen-chan | 144685 | [144685-issho-ni-asobo-koupen-chan.json](./144685-issho-ni-asobo-koupen-chan.json) |
 | Issho ni Henshin Fresh Pretty Cure | 327591 | [327591-issho-ni-henshin-fresh-pretty-cure.json](./327591-issho-ni-henshin-fresh-pretty-cure.json) |
 | Issunboushi no Donnamondai | 146261 | [146261-issunboushi-no-donnamondai.json](./146261-issunboushi-no-donnamondai.json) |
 | Istanbul | 274194 | [274194-istanbul.json](./274194-istanbul.json) |
