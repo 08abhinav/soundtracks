@@ -10581,6 +10581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubberknuckles | 129044 | [129044-bubberknuckles.json](./129044-bubberknuckles.json) |
 | Bubbits | 319971 | [319971-bubbits.json](./319971-bubbits.json) |
 | Bubblbrst | 24081 | [24081-bubblbrst.json](./24081-bubblbrst.json) |
+| Bubble | 153746 | [153746-bubble.json](./153746-bubble.json) |
 | Bubble | 287650 | [287650-bubble.json](./287650-bubble.json) |
 | Bubble | 88295 | [88295-bubble.json](./88295-bubble.json) |
 | Bubble Attack | 193993 | [193993-bubble-attack.json](./193993-bubble-attack.json) |
