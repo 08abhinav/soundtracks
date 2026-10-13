@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Picturebook of Hero and Sorceress | 113698 | [113698-fairy-picturebook-of-hero-and-sorceress.json](./113698-fairy-picturebook-of-hero-and-sorceress.json) |
 | Fairy Pinball: Yousei-tachi no Pinball | 41359 | [41359-fairy-pinball-yousei-tachi-no-pinball.json](./41359-fairy-pinball-yousei-tachi-no-pinball.json) |
 | Fairy Rush: Fly to Candyland | 200056 | [200056-fairy-rush-fly-to-candyland.json](./200056-fairy-rush-fly-to-candyland.json) |
+| Fairy Sister | 167384 | [167384-fairy-sister.json](./167384-fairy-sister.json) |
 | Fairy Song | 177952 | [177952-fairy-song.json](./177952-fairy-song.json) |
 | Fairy Sphere | 233501 | [233501-fairy-sphere.json](./233501-fairy-sphere.json) |
 | Fairy Springs | 406829 | [406829-fairy-springs.json](./406829-fairy-springs.json) |
@@ -631,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Guys: Ultimate Knockout - Season 5 | 159046 | [159046-fall-guys-ultimate-knockout-season-5.json](./159046-fall-guys-ultimate-knockout-season-5.json) |
 | Fall Guys: Ultimate Knockout - Season 6 | 182201 | [182201-fall-guys-ultimate-knockout-season-6.json](./182201-fall-guys-ultimate-knockout-season-6.json) |
 | Fall Guys: Wildfire Pack | 243683 | [243683-fall-guys-wildfire-pack.json](./243683-fall-guys-wildfire-pack.json) |
+| Fall In Labyrinth | 167382 | [167382-fall-in-labyrinth.json](./167382-fall-in-labyrinth.json) |
 | Fall In Love - My Billionaire Boss | 120870 | [120870-fall-in-love-my-billionaire-boss.json](./120870-fall-in-love-my-billionaire-boss.json) |
 | Fall in the Rift | 199342 | [199342-fall-in-the-rift.json](./199342-fall-in-the-rift.json) |
 | Fall into Decay | 253507 | [253507-fall-into-decay.json](./253507-fall-into-decay.json) |
@@ -1426,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Telemarketer | 397410 | [397410-fantasy-telemarketer.json](./397410-fantasy-telemarketer.json) |
 | Fantasy Temptations | 273487 | [273487-fantasy-temptations.json](./273487-fantasy-temptations.json) |
 | Fantasy Three Kingdoms: War | 304165 | [304165-fantasy-three-kingdoms-war.json](./304165-fantasy-three-kingdoms-war.json) |
+| Fantasy Toonz: Embers of Creation | 167356 | [167356-fantasy-toonz-embers-of-creation.json](./167356-fantasy-toonz-embers-of-creation.json) |
 | Fantasy Tower | 304617 | [304617-fantasy-tower.json](./304617-fantasy-tower.json) |
 | Fantasy Tower Defense | 251631 | [251631-fantasy-tower-defense.json](./251631-fantasy-tower-defense.json) |
 | Fantasy Town | 206450 | [206450-fantasy-town.json](./206450-fantasy-town.json) |
