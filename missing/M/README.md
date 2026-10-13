@@ -3786,6 +3786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Invaders | 209546 | [209546-math-invaders.json](./209546-math-invaders.json) |
 | Math is Horror | 278542 | [278542-math-is-horror.json](./278542-math-is-horror.json) |
 | Math it Right 3D Adventure | 190960 | [190960-math-it-right-3d-adventure.json](./190960-math-it-right-3d-adventure.json) |
+| Math Jam | 138493 | [138493-math-jam.json](./138493-math-jam.json) |
 | Math Man | 225625 | [225625-math-man.json](./225625-math-man.json) |
 | Math Marvel | 245449 | [245449-math-marvel.json](./245449-math-marvel.json) |
 | Math Match Three | 348433 | [348433-math-match-three.json](./348433-math-match-three.json) |
@@ -13534,6 +13535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little MILF | 341351 | [341351-my-little-milf.json](./341351-my-little-milf.json) |
 | My Little Miniatures | 226175 | [226175-my-little-miniatures.json](./226175-my-little-miniatures.json) |
 | My Little Pony | 206776 | [206776-my-little-pony.json](./206776-my-little-pony.json) |
+| My Little Pony Celebration | 138466 | [138466-my-little-pony-celebration.json](./138466-my-little-pony-celebration.json) |
 | My Little Pony Crystal Princess: The Runaway Rainbow | 49389 | [49389-my-little-pony-crystal-princess-the-runaway-rainbow.json](./49389-my-little-pony-crystal-princess-the-runaway-rainbow.json) |
 | My Little Pony Hair Salon | 287085 | [287085-my-little-pony-hair-salon.json](./287085-my-little-pony-hair-salon.json) |
 | My Little Pony World | 221943 | [221943-my-little-pony-world.json](./221943-my-little-pony-world.json) |
@@ -13541,13 +13543,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pony: A Zephyr Heights Mystery | 290839 | [290839-my-little-pony-a-zephyr-heights-mystery.json](./290839-my-little-pony-a-zephyr-heights-mystery.json) |
 | My Little Pony: Adventures in Ponyville | 341163 | [341163-my-little-pony-adventures-in-ponyville.json](./341163-my-little-pony-adventures-in-ponyville.json) |
 | My Little Pony: Best Friends Ball | 124742 | [124742-my-little-pony-best-friends-ball.json](./124742-my-little-pony-best-friends-ball.json) |
+| My Little Pony: Color By Magic | 138464 | [138464-my-little-pony-color-by-magic.json](./138464-my-little-pony-color-by-magic.json) |
 | My Little Pony: Dr. Discord's Conquest | 205660 | [205660-my-little-pony-dr-discords-conquest.json](./205660-my-little-pony-dr-discords-conquest.json) |
 | My Little Pony: Equestria Girls - Friendship Games: Motocross | 264225 | [264225-my-little-pony-equestria-girls-friendship-games-motocross.json](./264225-my-little-pony-equestria-girls-friendship-games-motocross.json) |
 | My Little Pony: Fighting is Magic | 137023 | [137023-my-little-pony-fighting-is-magic.json](./137023-my-little-pony-fighting-is-magic.json) |
 | My Little Pony: Fighting is Magic - Tribute Edition | 146263 | [146263-my-little-pony-fighting-is-magic-tribute-edition.json](./146263-my-little-pony-fighting-is-magic-tribute-edition.json) |
 | My Little Pony: Friendship is Magic | 207046 | [207046-my-little-pony-friendship-is-magic.json](./207046-my-little-pony-friendship-is-magic.json) |
 | My Little Pony: Grand Puzzleventure | 220097 | [220097-my-little-pony-grand-puzzleventure.json](./220097-my-little-pony-grand-puzzleventure.json) |
+| My Little Pony: Harmony Quest | 138462 | [138462-my-little-pony-harmony-quest.json](./138462-my-little-pony-harmony-quest.json) |
 | My Little Pony: Magic Garden | 282122 | [282122-my-little-pony-magic-garden.json](./282122-my-little-pony-magic-garden.json) |
+| My Little Pony: Pocket Ponies | 138461 | [138461-my-little-pony-pocket-ponies.json](./138461-my-little-pony-pocket-ponies.json) |
+| My Little Pony: Rainbow Runners | 138460 | [138460-my-little-pony-rainbow-runners.json](./138460-my-little-pony-rainbow-runners.json) |
+| My Little Pony: Story Creator | 138463 | [138463-my-little-pony-story-creator.json](./138463-my-little-pony-story-creator.json) |
+| My Little Pony: The Movie | 138465 | [138465-my-little-pony-the-movie.json](./138465-my-little-pony-the-movie.json) |
 | My Little Pony: Twilight Sparkle, Teacher for a Day | 79615 | [79615-my-little-pony-twilight-sparkle-teacher-for-a-day.json](./79615-my-little-pony-twilight-sparkle-teacher-for-a-day.json) |
 | My Little Prince: A Jigsaw Puzzle Tale | 159852 | [159852-my-little-prince-a-jigsaw-puzzle-tale.json](./159852-my-little-prince-a-jigsaw-puzzle-tale.json) |
 | My Little Princess | 90367 | [90367-my-little-princess.json](./90367-my-little-princess.json) |
