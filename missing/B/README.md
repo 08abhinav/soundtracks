@@ -4119,6 +4119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bend-jo | 362934 | [362934-bend-jo.json](./362934-bend-jo.json) |
 | Bender 2: Bend Harder | 319163 | [319163-bender-2-bend-harder.json](./319163-bender-2-bend-harder.json) |
 | Benders of Moona | 236728 | [236728-benders-of-moona.json](./236728-benders-of-moona.json) |
+| Bending the Light | 167911 | [167911-bending-the-light.json](./167911-bending-the-light.json) |
 | Bendo | 245981 | [245981-bendo.json](./245981-bendo.json) |
 | Bendy and the Dark Revival | 120163 | [120163-bendy-and-the-dark-revival.json](./120163-bendy-and-the-dark-revival.json) |
 | Bendy and the Ink Machine | 28311 | [28311-bendy-and-the-ink-machine.json](./28311-bendy-and-the-ink-machine.json) |
