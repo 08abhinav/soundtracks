@@ -923,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Rein Ravine | 319551 | [319551-tales-of-rein-ravine.json](./319551-tales-of-rein-ravine.json) |
 | Tales of Seikyu | 245733 | [245733-tales-of-seikyu.json](./245733-tales-of-seikyu.json) |
 | Tales of Shadowland | 185644 | [185644-tales-of-shadowland.json](./185644-tales-of-shadowland.json) |
+| Tales of Skiora | 154249 | [154249-tales-of-skiora.json](./154249-tales-of-skiora.json) |
 | Tales of Sorrow: Strawsbrough Town | 114358 | [114358-tales-of-sorrow-strawsbrough-town.json](./114358-tales-of-sorrow-strawsbrough-town.json) |
 | Tales of Spark | 225103 | [225103-tales-of-spark.json](./225103-tales-of-spark.json) |
 | Tales of Spark: Probation | 258496 | [258496-tales-of-spark-probation.json](./258496-tales-of-spark-probation.json) |
@@ -7842,6 +7843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last DeadEnd | 100575 | [100575-the-last-deadend.json](./100575-the-last-deadend.json) |
 | The Last Deathbound | 127014 | [127014-the-last-deathbound.json](./127014-the-last-deathbound.json) |
 | The Last Defense TD | 194971 | [194971-the-last-defense-td.json](./194971-the-last-defense-td.json) |
+| The Last Defense! | 154264 | [154264-the-last-defense.json](./154264-the-last-defense.json) |
 | The Last Delivery Man on Earth | 374593 | [374593-the-last-delivery-man-on-earth.json](./374593-the-last-delivery-man-on-earth.json) |
 | The Last Delivery: Nightmare Courier | 380066 | [380066-the-last-delivery-nightmare-courier.json](./380066-the-last-delivery-nightmare-courier.json) |
 | The Last Dimension | 301371 | [301371-the-last-dimension.json](./301371-the-last-dimension.json) |
@@ -18981,12 +18983,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Rudolfsbahn: Bruck an der Mur - Selzthal & Knittelfeld | 293693 | [293693-train-simulator-rudolfsbahn-bruck-an-der-mur-selzthal-and-knittelfeld.json](./293693-train-simulator-rudolfsbahn-bruck-an-der-mur-selzthal-and-knittelfeld.json) |
 | Train Simulator: Sherman Hill Route Add-On | 156480 | [156480-train-simulator-sherman-hill-route-add-on.json](./156480-train-simulator-sherman-hill-route-add-on.json) |
 | Train Simulator: Somerset & Dorset Railway Route Add-On | 156487 | [156487-train-simulator-somerset-and-dorset-railway-route-add-on.json](./156487-train-simulator-somerset-and-dorset-railway-route-add-on.json) |
+| Train Simulator: South Devon Main Line: Highbridge and Burnham - Plymouth Route Add-On | 154256 | [154256-train-simulator-south-devon-main-line-highbridge-and-burnham-plymouth-route-add-on.json](./154256-train-simulator-south-devon-main-line-highbridge-and-burnham-plymouth-route-add-on.json) |
 | Train Simulator: South West China High Speed Route Add-On | 156364 | [156364-train-simulator-south-west-china-high-speed-route-add-on.json](./156364-train-simulator-south-west-china-high-speed-route-add-on.json) |
+| Train Simulator: Southern Pacific U33C Loco Add-On | 154254 | [154254-train-simulator-southern-pacific-u33c-loco-add-on.json](./154254-train-simulator-southern-pacific-u33c-loco-add-on.json) |
 | Train Simulator: Stevens Pass Route Add-On | 156379 | [156379-train-simulator-stevens-pass-route-add-on.json](./156379-train-simulator-stevens-pass-route-add-on.json) |
 | Train Simulator: Stevens Pass Scenario Pack 02 | 306072 | [306072-train-simulator-stevens-pass-scenario-pack-02.json](./306072-train-simulator-stevens-pass-scenario-pack-02.json) |
 | Train Simulator: Suburban Glasgow Northwest: Springburn - Helensburgh Route Add-On | 156402 | [156402-train-simulator-suburban-glasgow-northwest-springburn-helensburgh-route-add-on.json](./156402-train-simulator-suburban-glasgow-northwest-springburn-helensburgh-route-add-on.json) |
 | Train Simulator: Südbahn: Bruck an der Mur - Maribor Route Add-On | 156346 | [156346-train-simulator-sudbahn-bruck-an-der-mur-maribor-route-add-on.json](./156346-train-simulator-sudbahn-bruck-an-der-mur-maribor-route-add-on.json) |
 | Train Simulator: Surselva Line: Reichenau-Tamins - Disentis/Mustér Route Add-On | 156349 | [156349-train-simulator-surselva-line-reichenau-tamins-disentis-muster-route-add-on.json](./156349-train-simulator-surselva-line-reichenau-tamins-disentis-muster-route-add-on.json) |
+| Train Simulator: Tauernbahn: Schwarzach-Sankt Veit - Spittal an der Drau Route Add-On | 154255 | [154255-train-simulator-tauernbahn-schwarzach-sankt-veit-spittal-an-der-drau-route-add-on.json](./154255-train-simulator-tauernbahn-schwarzach-sankt-veit-spittal-an-der-drau-route-add-on.json) |
 | Train Simulator: The Kyle Line: Inverness - Kyle of Lochalsh Route Add-On | 156396 | [156396-train-simulator-the-kyle-line-inverness-kyle-of-lochalsh-route-add-on.json](./156396-train-simulator-the-kyle-line-inverness-kyle-of-lochalsh-route-add-on.json) |
 | Train Simulator: The Racetrack: Aurora - Chicago Route Add-On | 156347 | [156347-train-simulator-the-racetrack-aurora-chicago-route-add-on.json](./156347-train-simulator-the-racetrack-aurora-chicago-route-add-on.json) |
 | Train Simulator: The Rhine Railway: Mannheim - Karlsruhe Route Add-On | 156374 | [156374-train-simulator-the-rhine-railway-mannheim-karlsruhe-route-add-on.json](./156374-train-simulator-the-rhine-railway-mannheim-karlsruhe-route-add-on.json) |
@@ -22000,6 +22005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyd wag vir Niemand | 52012 | [52012-tyd-wag-vir-niemand.json](./52012-tyd-wag-vir-niemand.json) |
 | Tyfortress: Tactical Typing | 161154 | [161154-tyfortress-tactical-typing.json](./161154-tyfortress-tactical-typing.json) |
 | Tyga | 303079 | [303079-tyga.json](./303079-tyga.json) |
+| Tyke and Sons Lumber Co. | 154241 | [154241-tyke-and-sons-lumber-co.json](./154241-tyke-and-sons-lumber-co.json) |
 | Tyko's Dying Together | 279245 | [279245-tykos-dying-together.json](./279245-tykos-dying-together.json) |
 | Tyler | 34770 | [34770-tyler.json](./34770-tyler.json) |
 | Tyler Tactics | 236953 | [236953-tyler-tactics.json](./236953-tyler-tactics.json) |
