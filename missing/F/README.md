@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fail to Win: Chapter 1 | 114988 | [114988-fail-to-win-chapter-1.json](./114988-fail-to-win-chapter-1.json) |
 | Fail World | 356064 | [356064-fail-world.json](./356064-fail-world.json) |
 | Fail.safe | 367557 | [367557-fail-safe.json](./367557-fail-safe.json) |
+| Failed Adventurer | 154260 | [154260-failed-adventurer.json](./154260-failed-adventurer.json) |
 | Failed State | 98375 | [98375-failed-state.json](./98375-failed-state.json) |
 | Failed Trust | 290558 | [290558-failed-trust.json](./290558-failed-trust.json) |
 | Failspace | 111795 | [111795-failspace.json](./111795-failspace.json) |
