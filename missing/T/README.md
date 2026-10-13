@@ -1292,6 +1292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanigawa Kouji no Shogi Shinan III | 48884 | [48884-tanigawa-kouji-no-shogi-shinan-iii.json](./48884-tanigawa-kouji-no-shogi-shinan-iii.json) |
 | Tanimura Hitoshi no Don Quixote ga Iku | 282672 | [282672-tanimura-hitoshi-no-don-quixote-ga-iku.json](./282672-tanimura-hitoshi-no-don-quixote-ga-iku.json) |
 | TaniNani | 127185 | [127185-taninani.json](./127185-taninani.json) |
+| Tanium | 142767 | [142767-tanium.json](./142767-tanium.json) |
 | Tanjas Sudoku | 101508 | [101508-tanjas-sudoku.json](./101508-tanjas-sudoku.json) |
 | Tanjou Debut | 41997 | [41997-tanjou-debut.json](./41997-tanjou-debut.json) |
 | Tanjoubi: Kayoizuma (Jishou) Nikki | 77939 | [77939-tanjoubi-kayoizuma-jishou-nikki.json](./77939-tanjoubi-kayoizuma-jishou-nikki.json) |
@@ -1549,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanteidan X | 356073 | [356073-tanteidan-x.json](./356073-tanteidan-x.json) |
 | Tanthious | 211785 | [211785-tanthious.json](./211785-tanthious.json) |
 | Tantibus | 124589 | [124589-tantibus.json](./124589-tantibus.json) |
+| Tanto Cuore | 142676 | [142676-tanto-cuore.json](./142676-tanto-cuore.json) |
 | Tantra Rumble | 120357 | [120357-tantra-rumble.json](./120357-tantra-rumble.json) |
 | Tantrix Quiz | 207838 | [207838-tantrix-quiz.json](./207838-tantrix-quiz.json) |
 | Tantrum | 274220 | [274220-tantrum.json](./274220-tantrum.json) |
@@ -2348,7 +2350,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Portal Power | 59086 | [59086-teenage-mutant-ninja-turtles-portal-power.json](./59086-teenage-mutant-ninja-turtles-portal-power.json) |
 | Teenage Mutant Ninja Turtles: Rescue Palooza! | 126491 | [126491-teenage-mutant-ninja-turtles-rescue-palooza.json](./126491-teenage-mutant-ninja-turtles-rescue-palooza.json) |
 | Teenage Mutant Ninja Turtles: Sewer Run | 64715 | [64715-teenage-mutant-ninja-turtles-sewer-run.json](./64715-teenage-mutant-ninja-turtles-sewer-run.json) |
-| Teenage Mutant Ninja Turtles: Shredder's Revenge | 144465 | [144465-teenage-mutant-ninja-turtles-shredders-revenge.json](./144465-teenage-mutant-ninja-turtles-shredders-revenge.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Limited Edition | 207919 | [207919-teenage-mutant-ninja-turtles-shredders-revenge-limited-edition.json](./207919-teenage-mutant-ninja-turtles-shredders-revenge-limited-edition.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Radical Reptiles | 317624 | [317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json](./317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Ultimate Edition | 317919 | [317919-teenage-mutant-ninja-turtles-shredders-revenge-ultimate-edition.json](./317919-teenage-mutant-ninja-turtles-shredders-revenge-ultimate-edition.json) |
@@ -2830,6 +2831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis World Tour 2 | 135576 | [135576-tennis-world-tour-2.json](./135576-tennis-world-tour-2.json) |
 | Tennis World Tour 2: Ace Edition | 218379 | [218379-tennis-world-tour-2-ace-edition.json](./218379-tennis-world-tour-2-ace-edition.json) |
 | Tennis World Tour 2: Champions Pack | 167297 | [167297-tennis-world-tour-2-champions-pack.json](./167297-tennis-world-tour-2-champions-pack.json) |
+| Tennis World Tour 2: Complete Edition | 142817 | [142817-tennis-world-tour-2-complete-edition.json](./142817-tennis-world-tour-2-complete-edition.json) |
 | Tennis World Tour 2: Juan Martin Del Potro & Victoria Azarenka | 161755 | [161755-tennis-world-tour-2-juan-martin-del-potro-and-victoria-azarenka.json](./161755-tennis-world-tour-2-juan-martin-del-potro-and-victoria-azarenka.json) |
 | Tennis World Tour 2: Legends Pack | 167299 | [167299-tennis-world-tour-2-legends-pack.json](./167299-tennis-world-tour-2-legends-pack.json) |
 | Tennis World Tour 2: Official Tournaments and Stadia Pack | 167300 | [167300-tennis-world-tour-2-official-tournaments-and-stadia-pack.json](./167300-tennis-world-tour-2-official-tournaments-and-stadia-pack.json) |
@@ -2981,6 +2983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator 2: Judgment Day | 45346 | [45346-terminator-2-judgment-day.json](./45346-terminator-2-judgment-day.json) |
 | Terminator 2: Judgment Day - Chess Wars | 14557 | [14557-terminator-2-judgment-day-chess-wars.json](./14557-terminator-2-judgment-day-chess-wars.json) |
 | Terminator 3: Rise of the Machines | 6196 | [6196-terminator-3-rise-of-the-machines.json](./6196-terminator-3-rise-of-the-machines.json) |
+| Terminator Salvation | 142768 | [142768-terminator-salvation.json](./142768-terminator-salvation.json) |
 | Terminator Salvation | 4204 | [4204-terminator-salvation.json](./4204-terminator-salvation.json) |
 | Terminator: Dark Fate | 287867 | [287867-terminator-dark-fate.json](./287867-terminator-dark-fate.json) |
 | Terminator: Dark Fate - Defiance: Evolution | 380994 | [380994-terminator-dark-fate-defiance-evolution.json](./380994-terminator-dark-fate-defiance-evolution.json) |
@@ -5314,7 +5317,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Matter | 23920 | [23920-the-dark-matter.json](./23920-the-dark-matter.json) |
 | The Dark Meadow | 38957 | [38957-the-dark-meadow.json](./38957-the-dark-meadow.json) |
 | The Dark Mind | 320529 | [320529-the-dark-mind.json](./320529-the-dark-mind.json) |
-| The Dark Pictures Anthology: House of Ashes | 140617 | [140617-the-dark-pictures-anthology-house-of-ashes.json](./140617-the-dark-pictures-anthology-house-of-ashes.json) |
 | The Dark Pictures Anthology: Intercession | 257076 | [257076-the-dark-pictures-anthology-intercession.json](./257076-the-dark-pictures-anthology-intercession.json) |
 | The Dark Pictures Anthology: Little Hope & Man of Medan Bundle | 169246 | [169246-the-dark-pictures-anthology-little-hope-and-man-of-medan-bundle.json](./169246-the-dark-pictures-anthology-little-hope-and-man-of-medan-bundle.json) |
 | The Dark Pictures Anthology: Season One | 225775 | [225775-the-dark-pictures-anthology-season-one.json](./225775-the-dark-pictures-anthology-season-one.json) |
@@ -6509,6 +6511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game for Free | 374420 | [374420-the-game-for-free.json](./374420-the-game-for-free.json) |
 | The Game For Skippers | 368077 | [368077-the-game-for-skippers.json](./368077-the-game-for-skippers.json) |
 | The Game Has Started | 387007 | [387007-the-game-has-started.json](./387007-the-game-has-started.json) |
+| The Game is ON | 142694 | [142694-the-game-is-on.json](./142694-the-game-is-on.json) |
 | The Game is ON | 153026 | [153026-the-game-is-on.json](./153026-the-game-is-on.json) |
 | The Game Maker | 64485 | [64485-the-game-maker.json](./64485-the-game-maker.json) |
 | The Game of Annie | 246003 | [246003-the-game-of-annie.json](./246003-the-game-of-annie.json) |
@@ -7243,6 +7246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Million Live! Theater Days | 44154 | [44154-the-idolmaster-million-live-theater-days.json](./44154-the-idolmaster-million-live-theater-days.json) |
 | The Idolmaster: One For All | 7465 | [7465-the-idolmaster-one-for-all.json](./7465-the-idolmaster-one-for-all.json) |
 | The Idolmaster: Platinum Stars | 22507 | [22507-the-idolmaster-platinum-stars.json](./22507-the-idolmaster-platinum-stars.json) |
+| The Idolmaster: Poplinks | 142765 | [142765-the-idolmaster-poplinks.json](./142765-the-idolmaster-poplinks.json) |
 | The Idolmaster: Shiny Colors | 97876 | [97876-the-idolmaster-shiny-colors.json](./97876-the-idolmaster-shiny-colors.json) |
 | The Idolmaster: Shiny Colors - A.X.E.8: Illumination Stars | 416719 | [416719-the-idolmaster-shiny-colors-a-x-e-8-illumination-stars.json](./416719-the-idolmaster-shiny-colors-a-x-e-8-illumination-stars.json) |
 | The Idolmaster: Shiny Colors - Itsuka Kaze ga Yamu Sono Hi made | 415460 | [415460-the-idolmaster-shiny-colors-itsuka-kaze-ga-yamu-sono-hi-made.json](./415460-the-idolmaster-shiny-colors-itsuka-kaze-ga-yamu-sono-hi-made.json) |
@@ -9808,6 +9812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Physiology of the Eye | 29705 | [29705-the-physiology-of-the-eye.json](./29705-the-physiology-of-the-eye.json) |
 | The Piano | 20180 | [20180-the-piano.json](./20180-the-piano.json) |
 | The Piano That Staying Time | 344421 | [344421-the-piano-that-staying-time.json](./344421-the-piano-that-staying-time.json) |
+| The Picture in the House | 142789 | [142789-the-picture-in-the-house.json](./142789-the-picture-in-the-house.json) |
 | The Piece | 276812 | [276812-the-piece.json](./276812-the-piece.json) |
 | The Pig Cow: Horizons of the New Valley | 362189 | [362189-the-pig-cow-horizons-of-the-new-valley.json](./362189-the-pig-cow-horizons-of-the-new-valley.json) |
 | The Pig: Money Is Time | 186183 | [186183-the-pig-money-is-time.json](./186183-the-pig-money-is-time.json) |
@@ -16658,6 +16663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider Reloaded | 143139 | [143139-tomb-raider-reloaded.json](./143139-tomb-raider-reloaded.json) |
 | Tomb Raider Starring Lara Croft | 36878 | [36878-tomb-raider-starring-lara-croft.json](./36878-tomb-raider-starring-lara-croft.json) |
 | Tomb Raider VR: Lara's Escape | 322639 | [322639-tomb-raider-vr-laras-escape.json](./322639-tomb-raider-vr-laras-escape.json) |
+| Tomb Raider: 10th Anniversary Edition | 142826 | [142826-tomb-raider-10th-anniversary-edition.json](./142826-tomb-raider-10th-anniversary-edition.json) |
 | Tomb Raider: Anniversary | 312286 | [312286-tomb-raider-anniversary.json](./312286-tomb-raider-anniversary.json) |
 | Tomb Raider: Anniversary | 370001 | [370001-tomb-raider-anniversary.json](./370001-tomb-raider-anniversary.json) |
 | Tomb Raider: Anniversary | 381690 | [381690-tomb-raider-anniversary.json](./381690-tomb-raider-anniversary.json) |
@@ -20711,6 +20717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tritorn | 150027 | [150027-tritorn.json](./150027-tritorn.json) |
 | Tritorn Final | 67395 | [67395-tritorn-final.json](./67395-tritorn-final.json) |
 | Tritorn II: Road of Darkness | 67399 | [67399-tritorn-ii-road-of-darkness.json](./67399-tritorn-ii-road-of-darkness.json) |
+| Tritris | 142784 | [142784-tritris.json](./142784-tritris.json) |
 | TriTryst | 79189 | [79189-tritryst.json](./79189-tritryst.json) |
 | Triumph | 184041 | [184041-triumph.json](./184041-triumph.json) |
 | TriumphInTheSkies | 126401 | [126401-triumphintheskies.json](./126401-triumphintheskies.json) |
@@ -21031,6 +21038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trucker | 25425 | [25425-trucker.json](./25425-trucker.json) |
 | Trucker Horror | 336499 | [336499-trucker-horror.json](./336499-trucker-horror.json) |
 | Trucker Transporter 2 - Parking Simulator | 89516 | [89516-trucker-transporter-2-parking-simulator.json](./89516-trucker-transporter-2-parking-simulator.json) |
+| Truckers Double Pack | 142764 | [142764-truckers-double-pack.json](./142764-truckers-double-pack.json) |
 | Truckin' It! | 382338 | [382338-truckin-it.json](./382338-truckin-it.json) |
 | Trucking | 114961 | [114961-trucking.json](./114961-trucking.json) |
 | Trucking School: Truck Simulator Driving 2025 | 376239 | [376239-trucking-school-truck-simulator-driving-2025.json](./376239-trucking-school-truck-simulator-driving-2025.json) |
@@ -21771,6 +21779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twelve Sky M | 221390 | [221390-twelve-sky-m.json](./221390-twelve-sky-m.json) |
 | Twelve Sky2 World | 325269 | [325269-twelve-sky2-world.json](./325269-twelve-sky2-world.json) |
 | Twelve Sticks | 320840 | [320840-twelve-sticks.json](./320840-twelve-sticks.json) |
+| Twelve Tales: Conker 64 | 142678 | [142678-twelve-tales-conker-64.json](./142678-twelve-tales-conker-64.json) |
 | Twelves: Shadow | 360688 | [360688-twelves-shadow.json](./360688-twelves-shadow.json) |
 | Twenties Flappers vs. The Mummy | 269836 | [269836-twenties-flappers-vs-the-mummy.json](./269836-twenties-flappers-vs-the-mummy.json) |
 | Twenty | 59389 | [59389-twenty.json](./59389-twenty.json) |
@@ -22076,6 +22085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Point Hospital: Close Encounters | 144912 | [144912-two-point-hospital-close-encounters.json](./144912-two-point-hospital-close-encounters.json) |
 | Two Point Hospital: Exhibition Items Pack | 223541 | [223541-two-point-hospital-exhibition-items-pack.json](./223541-two-point-hospital-exhibition-items-pack.json) |
 | Two Point Hospital: Fancy Dress Pack | 223545 | [223545-two-point-hospital-fancy-dress-pack.json](./223545-two-point-hospital-fancy-dress-pack.json) |
+| Two Point Hospital: Jumbo Edition | 142815 | [142815-two-point-hospital-jumbo-edition.json](./142815-two-point-hospital-jumbo-edition.json) |
 | Two Point Hospital: Retro Items Pack | 223543 | [223543-two-point-hospital-retro-items-pack.json](./223543-two-point-hospital-retro-items-pack.json) |
 | Two Point Hospital: Speedy Recovery | 193142 | [193142-two-point-hospital-speedy-recovery.json](./193142-two-point-hospital-speedy-recovery.json) |
 | Two Point Museum | 313595 | [313595-two-point-museum.json](./313595-two-point-museum.json) |
