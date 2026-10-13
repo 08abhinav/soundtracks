@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V.G.: Variable Geo | 98254 | [98254-v-g-variable-geo.json](./98254-v-g-variable-geo.json) |
 | V.I.P Client | 374975 | [374975-v-i-p-client.json](./374975-v-i-p-client.json) |
 | V.L.A.D.i.K | 114804 | [114804-v-l-a-d-i-k.json](./114804-v-l-a-d-i-k.json) |
+| V.O.D.K.A. Open World Survival Shooter | 144021 | [144021-v-o-d-k-a-open-world-survival-shooter.json](./144021-v-o-d-k-a-open-world-survival-shooter.json) |
 | V.O.I.D.: Vexation of Infinite Dungeons | 245886 | [245886-v-o-i-d-vexation-of-infinite-dungeons.json](./245886-v-o-i-d-vexation-of-infinite-dungeons.json) |
 | V.O.S.S. Turbo | 215918 | [215918-v-o-s-s-turbo.json](./215918-v-o-s-s-turbo.json) |
 | V.R.G. | 181127 | [181127-v-r-g.json](./181127-v-r-g.json) |
@@ -616,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaporwave Drift | 119453 | [119453-vaporwave-drift.json](./119453-vaporwave-drift.json) |
 | Vaporwave Pinball | 253826 | [253826-vaporwave-pinball.json](./253826-vaporwave-pinball.json) |
 | Vaporwave Simulator | 81747 | [81747-vaporwave-simulator.json](./81747-vaporwave-simulator.json) |
+| Vaporwave Vision Quest: Kmart Sepulcher | 144064 | [144064-vaporwave-vision-quest-kmart-sepulcher.json](./144064-vaporwave-vision-quest-kmart-sepulcher.json) |
 | Vaporwave World | 130202 | [130202-vaporwave-world.json](./130202-vaporwave-world.json) |
 | Vapour | 35849 | [35849-vapour.json](./35849-vapour.json) |
 | Vardia | 275694 | [275694-vardia.json](./275694-vardia.json) |
