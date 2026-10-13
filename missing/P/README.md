@@ -1445,6 +1445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasite in Love | 219107 | [219107-parasite-in-love.json](./219107-parasite-in-love.json) |
 | Parasite Mutant | 370711 | [370711-parasite-mutant.json](./370711-parasite-mutant.json) |
 | Parasite Pack | 207292 | [207292-parasite-pack.json](./207292-parasite-pack.json) |
+| Parasite Star | 177972 | [177972-parasite-star.json](./177972-parasite-star.json) |
 | Parasited Will | 333060 | [333060-parasited-will.json](./333060-parasited-will.json) |
 | Parasites | 282840 | [282840-parasites.json](./282840-parasites.json) |
 | Parasitic Descent | 319117 | [319117-parasitic-descent.json](./319117-parasitic-descent.json) |
