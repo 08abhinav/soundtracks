@@ -8956,6 +8956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Midnight Barber | 368293 | [368293-the-midnight-barber.json](./368293-the-midnight-barber.json) |
 | The Midnight Crimes | 258646 | [258646-the-midnight-crimes.json](./258646-the-midnight-crimes.json) |
 | The Midnight Lapse: Reborn | 26984 | [26984-the-midnight-lapse-reborn.json](./26984-the-midnight-lapse-reborn.json) |
+| The Midnight Monkey | 177274 | [177274-the-midnight-monkey.json](./177274-the-midnight-monkey.json) |
 | The Midnight Park | 183066 | [183066-the-midnight-park.json](./183066-the-midnight-park.json) |
 | The Midnight Town Stories: Matt's Nightmare | 336580 | [336580-the-midnight-town-stories-matts-nightmare.json](./336580-the-midnight-town-stories-matts-nightmare.json) |
 | The Midnight Walkers | 289983 | [289983-the-midnight-walkers.json](./289983-the-midnight-walkers.json) |
@@ -9851,6 +9852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Protocol Directive | 323948 | [323948-the-protocol-directive.json](./323948-the-protocol-directive.json) |
 | The Protocons | 93758 | [93758-the-protocons.json](./93758-the-protocons.json) |
 | The Prototype | 94771 | [94771-the-prototype.json](./94771-the-prototype.json) |
+| The Psychedelic Quest | 177451 | [177451-the-psychedelic-quest.json](./177451-the-psychedelic-quest.json) |
 | The Psychiatrist: Major Depression | 115530 | [115530-the-psychiatrist-major-depression.json](./115530-the-psychiatrist-major-depression.json) |
 | The Psychic | 106491 | [106491-the-psychic.json](./106491-the-psychic.json) |
 | The Psychologist | 319934 | [319934-the-psychologist.json](./319934-the-psychologist.json) |
@@ -10215,6 +10217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rock | 308461 | [308461-the-rock.json](./308461-the-rock.json) |
 | The Rock | 308462 | [308462-the-rock.json](./308462-the-rock.json) |
 | The Rock and the Rose | 353996 | [353996-the-rock-and-the-rose.json](./353996-the-rock-and-the-rose.json) |
+| The Rock the Paper and the Scissors | 177445 | [177445-the-rock-the-paper-and-the-scissors.json](./177445-the-rock-the-paper-and-the-scissors.json) |
 | The Rocket Jumper | 232965 | [232965-the-rocket-jumper.json](./232965-the-rocket-jumper.json) |
 | The Rocketeer | 136871 | [136871-the-rocketeer.json](./136871-the-rocketeer.json) |
 | The Rocketeer | 48205 | [48205-the-rocketeer.json](./48205-the-rocketeer.json) |
@@ -11826,6 +11829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Traveller: Vanilla Version | 280201 | [280201-the-traveller-vanilla-version.json](./280201-the-traveller-vanilla-version.json) |
 | The Traveller's Sight | 403201 | [403201-the-travellers-sight.json](./403201-the-travellers-sight.json) |
 | The Travelling Salesfrog Problem | 229073 | [229073-the-travelling-salesfrog-problem.json](./229073-the-travelling-salesfrog-problem.json) |
+| The Travels of the Dung Beetle | 177448 | [177448-the-travels-of-the-dung-beetle.json](./177448-the-travels-of-the-dung-beetle.json) |
 | The Travelyan Home | 133225 | [133225-the-travelyan-home.json](./133225-the-travelyan-home.json) |
 | The Treasure of Civilization | 153422 | [153422-the-treasure-of-civilization.json](./153422-the-treasure-of-civilization.json) |
 | The Treasure of Neverland | 319304 | [319304-the-treasure-of-neverland.json](./319304-the-treasure-of-neverland.json) |
@@ -21654,6 +21658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyrant Tactics: Birth of Revolution | 398970 | [398970-tyrant-tactics-birth-of-revolution.json](./398970-tyrant-tactics-birth-of-revolution.json) |
 | Tyrant's Blessing | 164888 | [164888-tyrants-blessing.json](./164888-tyrants-blessing.json) |
 | Tyrant's Blessing: Deluxe Edition | 230818 | [230818-tyrants-blessing-deluxe-edition.json](./230818-tyrants-blessing-deluxe-edition.json) |
+| Tyrant's Realm | 177253 | [177253-tyrants-realm.json](./177253-tyrants-realm.json) |
 | Tyrants Must Fall | 406753 | [406753-tyrants-must-fall.json](./406753-tyrants-must-fall.json) |
 | Tyre Trax | 269057 | [269057-tyre-trax.json](./269057-tyre-trax.json) |
 | Tyrfing Cycle \|Vanilla\| | 90587 | [90587-tyrfing-cycle-vanilla.json](./90587-tyrfing-cycle-vanilla.json) |
