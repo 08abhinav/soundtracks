@@ -9819,7 +9819,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper: Ghost Warrior | 1367 | [1367-sniper-ghost-warrior.json](./1367-sniper-ghost-warrior.json) |
 | Sniper: Ghost Warrior 2 - Siberian Strike | 10882 | [10882-sniper-ghost-warrior-2-siberian-strike.json](./10882-sniper-ghost-warrior-2-siberian-strike.json) |
 | Sniper: Ghost Warrior 2 - World Hunter Pack | 156186 | [156186-sniper-ghost-warrior-2-world-hunter-pack.json](./156186-sniper-ghost-warrior-2-world-hunter-pack.json) |
-| Sniper: Ghost Warrior 3 | 10964 | [10964-sniper-ghost-warrior-3.json](./10964-sniper-ghost-warrior-3.json) |
 | Sniper: Path of Vengeance | 26889 | [26889-sniper-path-of-vengeance.json](./26889-sniper-path-of-vengeance.json) |
 | Sniperpunk | 189144 | [189144-sniperpunk.json](./189144-sniperpunk.json) |
 | Snipers vs Thieves: FPS Clash | 87513 | [87513-snipers-vs-thieves-fps-clash.json](./87513-snipers-vs-thieves-fps-clash.json) |
