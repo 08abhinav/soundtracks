@@ -5478,6 +5478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chug the Tiny Tugboat | 213548 | [213548-chug-the-tiny-tugboat.json](./213548-chug-the-tiny-tugboat.json) |
 | Chuggington: Babysitter Brewster | 230548 | [230548-chuggington-babysitter-brewster.json](./230548-chuggington-babysitter-brewster.json) |
 | Chuhou Joutai | 133460 | [133460-chuhou-joutai.json](./133460-chuhou-joutai.json) |
+| Chuhou Joutai 2: Paraided! | 154253 | [154253-chuhou-joutai-2-paraided.json](./154253-chuhou-joutai-2-paraided.json) |
 | Chuka Taisen | 386350 | [386350-chuka-taisen.json](./386350-chuka-taisen.json) |
 | Chuka Taisen | 48535 | [48535-chuka-taisen.json](./48535-chuka-taisen.json) |
 | Chukcha v Bolshom Gorode | 403576 | [403576-chukcha-v-bolshom-gorode.json](./403576-chukcha-v-bolshom-gorode.json) |
@@ -5491,6 +5492,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chunithm Luminous | 281381 | [281381-chunithm-luminous.json](./281381-chunithm-luminous.json) |
 | Chunithm Luminous Plus | 309593 | [309593-chunithm-luminous-plus.json](./309593-chunithm-luminous-plus.json) |
 | Chunithm New Plus | 231771 | [231771-chunithm-new-plus.json](./231771-chunithm-new-plus.json) |
+| Chunithm Star | 154231 | [154231-chunithm-star.json](./154231-chunithm-star.json) |
+| Chunithm Star Plus | 154232 | [154232-chunithm-star-plus.json](./154232-chunithm-star-plus.json) |
 | Chunithm Sun | 231772 | [231772-chunithm-sun.json](./231772-chunithm-sun.json) |
 | Chunithm Sun Plus | 269300 | [269300-chunithm-sun-plus.json](./269300-chunithm-sun-plus.json) |
 | Chunithm Verse | 335960 | [335960-chunithm-verse.json](./335960-chunithm-verse.json) |
@@ -6758,6 +6761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clotilde Soffritti in: Never Buy a Used Spaceship | 217875 | [217875-clotilde-soffritti-in-never-buy-a-used-spaceship.json](./217875-clotilde-soffritti-in-never-buy-a-used-spaceship.json) |
 | Clou: Roll & Heist | 195644 | [195644-clou-roll-and-heist.json](./195644-clou-roll-and-heist.json) |
 | Cloud 9 | 273594 | [273594-cloud-9.json](./273594-cloud-9.json) |
+| Cloud Bashers DX | 154251 | [154251-cloud-bashers-dx.json](./154251-cloud-bashers-dx.json) |
 | Cloud Castle | 275874 | [275874-cloud-castle.json](./275874-cloud-castle.json) |
 | Cloud Chamber | 10096 | [10096-cloud-chamber.json](./10096-cloud-chamber.json) |
 | Cloud Chasers | 23657 | [23657-cloud-chasers.json](./23657-cloud-chasers.json) |
@@ -8360,6 +8364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comp IV | 245533 | [245533-comp-iv.json](./245533-comp-iv.json) |
 | Compact Cyber Arcade: Disney Frozen Elsa | 246551 | [246551-compact-cyber-arcade-disney-frozen-elsa.json](./246551-compact-cyber-arcade-disney-frozen-elsa.json) |
 | Compact Cyber Arcade: Ultimate Spider-Man | 277799 | [277799-compact-cyber-arcade-ultimate-spider-man.json](./277799-compact-cyber-arcade-ultimate-spider-man.json) |
+| Compacto: Idle Game | 154252 | [154252-compacto-idle-game.json](./154252-compacto-idle-game.json) |
 | Compadrone: Land Wars | 360761 | [360761-compadrone-land-wars.json](./360761-compadrone-land-wars.json) |
 | Companion | 30884 | [30884-companion.json](./30884-companion.json) |
 | Companion Monster | 202004 | [202004-companion-monster.json](./202004-companion-monster.json) |
@@ -11426,6 +11431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosps | 125844 | [125844-crosps.json](./125844-crosps.json) |
 | Cross and Crush | 89270 | [89270-cross-and-crush.json](./89270-cross-and-crush.json) |
 | Cross Blitz | 158620 | [158620-cross-blitz.json](./158620-cross-blitz.json) |
+| Cross Board Soccer | 154278 | [154278-cross-board-soccer.json](./154278-cross-board-soccer.json) |
 | Cross Brawl | 311158 | [311158-cross-brawl.json](./311158-cross-brawl.json) |
 | Cross Changer | 66896 | [66896-cross-changer.json](./66896-cross-changer.json) |
 | Cross Channel | 78650 | [78650-cross-channel.json](./78650-cross-channel.json) |
@@ -12215,6 +12221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubanoids | 110923 | [110923-cubanoids.json](./110923-cubanoids.json) |
 | CuBB | 122142 | [122142-cubb.json](./122142-cubb.json) |
 | CubbetyCuby | 388735 | [388735-cubbetycuby.json](./388735-cubbetycuby.json) |
+| Cube | 154271 | [154271-cube.json](./154271-cube.json) |
 | Cube | 208470 | [208470-cube.json](./208470-cube.json) |
 | Cube | 229157 | [229157-cube.json](./229157-cube.json) |
 | Cube | 249776 | [249776-cube.json](./249776-cube.json) |
@@ -12564,6 +12571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culture Warz: Chess | 291757 | [291757-culture-warz-chess.json](./291757-culture-warz-chess.json) |
 | Culture Warz: Time's Up Karen! | 272864 | [272864-culture-warz-times-up-karen.json](./272864-culture-warz-times-up-karen.json) |
 | Culture Warz: Time's Up Karen! - Suburbs Map Pack | 273350 | [273350-culture-warz-times-up-karen-suburbs-map-pack.json](./273350-culture-warz-times-up-karen-suburbs-map-pack.json) |
+| Cultures 1+2 | 154236 | [154236-cultures-1-2.json](./154236-cultures-1-2.json) |
 | Cultures 2: The Gates of Asgard | 11380 | [11380-cultures-2-the-gates-of-asgard.json](./11380-cultures-2-the-gates-of-asgard.json) |
 | Cultures Online Heroes | 11382 | [11382-cultures-online-heroes.json](./11382-cultures-online-heroes.json) |
 | Cultures: 8th Wonder of the World | 200207 | [200207-cultures-8th-wonder-of-the-world.json](./200207-cultures-8th-wonder-of-the-world.json) |
