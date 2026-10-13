@@ -2852,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osananajimi Ojou-sama to H de Himitsu na Dousei Seikatsu | 396903 | [396903-osananajimi-ojou-sama-to-h-de-himitsu-na-dousei-seikatsu.json](./396903-osananajimi-ojou-sama-to-h-de-himitsu-na-dousei-seikatsu.json) |
 | Osawari Hockey Enko-chan | 235769 | [235769-osawari-hockey-enko-chan.json](./235769-osawari-hockey-enko-chan.json) |
 | Oscar | 12456 | [12456-oscar.json](./12456-oscar.json) |
+| Oscar & Gems: Puzzle Quest | 163553 | [163553-oscar-and-gems-puzzle-quest.json](./163553-oscar-and-gems-puzzle-quest.json) |
 | Oscar der Ballonfahrer taucht unter | 86031 | [86031-oscar-der-ballonfahrer-taucht-unter.json](./86031-oscar-der-ballonfahrer-taucht-unter.json) |
 | Oscar Mike VR | 30810 | [30810-oscar-mike-vr.json](./30810-oscar-mike-vr.json) |
 | Oscar the Ballonist & The Secrets of the Forest | 208889 | [208889-oscar-the-ballonist-and-the-secrets-of-the-forest.json](./208889-oscar-the-ballonist-and-the-secrets-of-the-forest.json) |
@@ -3747,6 +3748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overseer: Field Trials | 315127 | [315127-overseer-field-trials.json](./315127-overseer-field-trials.json) |
 | Overserved: Food Fighters! | 398995 | [398995-overserved-food-fighters.json](./398995-overserved-food-fighters.json) |
 | Overshift | 196856 | [196856-overshift.json](./196856-overshift.json) |
+| OverShoot Battle Race | 163025 | [163025-overshoot-battle-race.json](./163025-overshoot-battle-race.json) |
 | Oversight | 148135 | [148135-oversight.json](./148135-oversight.json) |
 | Overslept | 141727 | [141727-overslept.json](./141727-overslept.json) |
 | Oversomnia | 202573 | [202573-oversomnia.json](./202573-oversomnia.json) |
