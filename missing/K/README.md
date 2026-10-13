@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kerbal Space Program | 3102 | [3102-kerbal-space-program.json](./3102-kerbal-space-program.json) |
 | Kerbal Space Program 2 | 121759 | [121759-kerbal-space-program-2.json](./121759-kerbal-space-program-2.json) |
 | Kerbal Space Program: Breaking Ground | 118176 | [118176-kerbal-space-program-breaking-ground.json](./118176-kerbal-space-program-breaking-ground.json) |
+| Kerbal Space Program: Enhanced Edition - History and Parts Pack | 164578 | [164578-kerbal-space-program-enhanced-edition-history-and-parts-pack.json](./164578-kerbal-space-program-enhanced-edition-history-and-parts-pack.json) |
 | Kerbal Space Program: Enhanced Edition Complete | 139970 | [139970-kerbal-space-program-enhanced-edition-complete.json](./139970-kerbal-space-program-enhanced-edition-complete.json) |
 | Kerf: Sawmill Tycoon | 413677 | [413677-kerf-sawmill-tycoon.json](./413677-kerf-sawmill-tycoon.json) |
 | Kerfuffight | 121553 | [121553-kerfuffight.json](./121553-kerfuffight.json) |
