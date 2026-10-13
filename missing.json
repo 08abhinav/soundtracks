@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T20:20:11.579Z",
-  "total_missing": 207516,
+  "generated_at": "2026-10-13T20:41:48.599Z",
+  "total_missing": 207524,
   "games": [
     {
       "igdb_id": 191680,
@@ -113618,6 +113618,11 @@
       "file": "missing/B/59824-botanica-earthbound.json"
     },
     {
+      "igdb_id": 140287,
+      "game_name": "Botanica: Into the Unknown",
+      "file": "missing/B/140287-botanica-into-the-unknown.json"
+    },
+    {
       "igdb_id": 266287,
       "game_name": "Botanical Chronicle",
       "file": "missing/B/266287-botanical-chronicle.json"
@@ -120306,6 +120311,11 @@
       "igdb_id": 362834,
       "game_name": "Bridge to Another World Remastered: Burnt Dreams Collector's Edition",
       "file": "missing/B/362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json"
+    },
+    {
+      "igdb_id": 140288,
+      "game_name": "Bridge to Another World: Burnt Dreams",
+      "file": "missing/B/140288-bridge-to-another-world-burnt-dreams.json"
     },
     {
       "igdb_id": 95659,
@@ -660843,11 +660853,6 @@
       "file": "missing/P/288150-poly-beats.json"
     },
     {
-      "igdb_id": 11597,
-      "game_name": "Poly Bridge",
-      "file": "missing/P/11597-poly-bridge.json"
-    },
-    {
       "igdb_id": 132002,
       "game_name": "Poly Bridge 2",
       "file": "missing/P/132002-poly-bridge-2.json"
@@ -898193,6 +898198,11 @@
       "file": "missing/T/137096-the-pillagers-of-raillore.json"
     },
     {
+      "igdb_id": 140352,
+      "game_name": "The Pinecone",
+      "file": "missing/T/140352-the-pinecone.json"
+    },
+    {
       "igdb_id": 218447,
       "game_name": "The Pink Panther",
       "file": "missing/T/218447-the-pink-panther.json"
@@ -974123,6 +974133,11 @@
       "file": "missing/V/14674-valkyria-chronicles-2.json"
     },
     {
+      "igdb_id": 140351,
+      "game_name": "Valkyria Chronicles 2: Additional Stickers DLC",
+      "file": "missing/V/140351-valkyria-chronicles-2-additional-stickers-dlc.json"
+    },
+    {
       "igdb_id": 140338,
       "game_name": "Valkyria Chronicles 2: Banquet of Ghosts",
       "file": "missing/V/140338-valkyria-chronicles-2-banquet-of-ghosts.json"
@@ -974158,6 +974173,31 @@
       "file": "missing/V/138838-valkyria-chronicles-2-dlc-pack-2.json"
     },
     {
+      "igdb_id": 140347,
+      "game_name": "Valkyria Chronicles 2: Exercise vs. Class C",
+      "file": "missing/V/140347-valkyria-chronicles-2-exercise-vs-class-c.json"
+    },
+    {
+      "igdb_id": 140348,
+      "game_name": "Valkyria Chronicles 2: Exercise vs. Class D",
+      "file": "missing/V/140348-valkyria-chronicles-2-exercise-vs-class-d.json"
+    },
+    {
+      "igdb_id": 140349,
+      "game_name": "Valkyria Chronicles 2: Exercise vs. Class E",
+      "file": "missing/V/140349-valkyria-chronicles-2-exercise-vs-class-e.json"
+    },
+    {
+      "igdb_id": 140350,
+      "game_name": "Valkyria Chronicles 2: Exercise vs. Class F",
+      "file": "missing/V/140350-valkyria-chronicles-2-exercise-vs-class-f.json"
+    },
+    {
+      "igdb_id": 140345,
+      "game_name": "Valkyria Chronicles 2: Final Engineer Exam",
+      "file": "missing/V/140345-valkyria-chronicles-2-final-engineer-exam.json"
+    },
+    {
       "igdb_id": 140343,
       "game_name": "Valkyria Chronicles 2: Final Lancer Exam",
       "file": "missing/V/140343-valkyria-chronicles-2-final-lancer-exam.json"
@@ -974171,6 +974211,11 @@
       "igdb_id": 140344,
       "game_name": "Valkyria Chronicles 2: Final Tech Exam",
       "file": "missing/V/140344-valkyria-chronicles-2-final-tech-exam.json"
+    },
+    {
+      "igdb_id": 140346,
+      "game_name": "Valkyria Chronicles 2: Final Trooper Exam",
+      "file": "missing/V/140346-valkyria-chronicles-2-final-trooper-exam.json"
     },
     {
       "igdb_id": 140340,
@@ -979031,11 +979076,6 @@
       "igdb_id": 171478,
       "game_name": "Victor Banana",
       "file": "missing/V/171478-victor-banana.json"
-    },
-    {
-      "igdb_id": 9180,
-      "game_name": "Victor Vran",
-      "file": "missing/V/9180-victor-vran.json"
     },
     {
       "igdb_id": 171348,
