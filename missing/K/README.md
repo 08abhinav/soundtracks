@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Koneko DS 2 | 68005 | [68005-kawaii-koneko-ds-2.json](./68005-kawaii-koneko-ds-2.json) |
 | Kawaii Koneko DS 3 | 130728 | [130728-kawaii-koneko-ds-3.json](./130728-kawaii-koneko-ds-3.json) |
 | Kawaii Memory | 158138 | [158138-kawaii-memory.json](./158138-kawaii-memory.json) |
+| Kawaii Neko Girls | 160104 | [160104-kawaii-neko-girls.json](./160104-kawaii-neko-girls.json) |
 | Kawaii Neko Girls 2 | 319847 | [319847-kawaii-neko-girls-2.json](./319847-kawaii-neko-girls-2.json) |
 | Kawaii Panda | 95673 | [95673-kawaii-panda.json](./95673-kawaii-panda.json) |
 | Kawaii Pet Megu | 315629 | [315629-kawaii-pet-megu.json](./315629-kawaii-pet-megu.json) |
@@ -1404,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Bludd's Treacherous Tower | 177256 | [177256-kid-bludds-treacherous-tower.json](./177256-kid-bludds-treacherous-tower.json) |
 | Kid Bubblegum | 251747 | [251747-kid-bubblegum.json](./251747-kid-bubblegum.json) |
 | Kid Chameleon | 16035 | [16035-kid-chameleon.json](./16035-kid-chameleon.json) |
+| Kid Detective | 160107 | [160107-kid-detective.json](./160107-kid-detective.json) |
 | Kid Dracula | 1125 | [1125-kid-dracula.json](./1125-kid-dracula.json) |
 | Kid Fit: Island Resort | 51070 | [51070-kid-fit-island-resort.json](./51070-kid-fit-island-resort.json) |
 | Kid Funky | 134506 | [134506-kid-funky.json](./134506-kid-funky.json) |
