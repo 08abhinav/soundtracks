@@ -645,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hametsu no Mars | 70124 | [70124-hametsu-no-mars.json](./70124-hametsu-no-mars.json) |
 | Hamidashi Creative | 144180 | [144180-hamidashi-creative.json](./144180-hamidashi-creative.json) |
 | Hamidashi Creative Totsu | 398684 | [398684-hamidashi-creative-totsu.json](./398684-hamidashi-creative-totsu.json) |
+| Hamidashi Creative: Limited Edition | 146033 | [146033-hamidashi-creative-limited-edition.json](./146033-hamidashi-creative-limited-edition.json) |
 | Hamilton's Great Adventure: Retro Fever DLC | 29212 | [29212-hamiltons-great-adventure-retro-fever-dlc.json](./29212-hamiltons-great-adventure-retro-fever-dlc.json) |
 | HamJam!! | 108972 | [108972-hamjam.json](./108972-hamjam.json) |
 | Hamlet in a Pond | 306081 | [306081-hamlet-in-a-pond.json](./306081-hamlet-in-a-pond.json) |
@@ -4049,6 +4050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroic Battle | 89178 | [89178-heroic-battle.json](./89178-heroic-battle.json) |
 | Heroic City | 235776 | [235776-heroic-city.json](./235776-heroic-city.json) |
 | Heroic Defender GoFalcon | 363913 | [363913-heroic-defender-gofalcon.json](./363913-heroic-defender-gofalcon.json) |
+| Heroic Expedition | 146030 | [146030-heroic-expedition.json](./146030-heroic-expedition.json) |
 | Heroic Hop: A New Adventure Begins | 371985 | [371985-heroic-hop-a-new-adventure-begins.json](./371985-heroic-hop-a-new-adventure-begins.json) |
 | Heroic Kingdom: Origins | 293642 | [293642-heroic-kingdom-origins.json](./293642-heroic-kingdom-origins.json) |
 | Heroic Musical Chairs | 397371 | [397371-heroic-musical-chairs.json](./397371-heroic-musical-chairs.json) |
@@ -5175,6 +5177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hinge VR | 141170 | [141170-hinge-vr.json](./141170-hinge-vr.json) |
 | Hinge VR | 161722 | [161722-hinge-vr.json](./161722-hinge-vr.json) |
 | Hinokakera the Fragments of Innocent Sinner | 64642 | [64642-hinokakera-the-fragments-of-innocent-sinner.json](./64642-hinokakera-the-fragments-of-innocent-sinner.json) |
+| Hinokakera the Fragments of Innocent Sinner Reinforced Edition | 146047 | [146047-hinokakera-the-fragments-of-innocent-sinner-reinforced-edition.json](./146047-hinokakera-the-fragments-of-innocent-sinner-reinforced-edition.json) |
 | Hinoken | 222794 | [222794-hinoken.json](./222794-hinoken.json) |
 | Hinomaruko | 122404 | [122404-hinomaruko.json](./122404-hinomaruko.json) |
 | Hinter Gittern Vol. II | 100143 | [100143-hinter-gittern-vol-ii.json](./100143-hinter-gittern-vol-ii.json) |
@@ -5997,6 +6000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homefront: The Rock Map Pack | 224224 | [224224-homefront-the-rock-map-pack.json](./224224-homefront-the-rock-map-pack.json) |
 | Homehead | 346023 | [346023-homehead.json](./346023-homehead.json) |
 | Homekeeping | 341675 | [341675-homekeeping.json](./341675-homekeeping.json) |
+| Homeland | 146056 | [146056-homeland.json](./146056-homeland.json) |
 | Homeland | 274960 | [274960-homeland.json](./274960-homeland.json) |
 | Homeland | 3948 | [3948-homeland.json](./3948-homeland.json) |
 | Homeland Defense: National Security Patrol | 209915 | [209915-homeland-defense-national-security-patrol.json](./209915-homeland-defense-national-security-patrol.json) |
@@ -8154,6 +8158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Void | 20966 | [20966-hyper-void.json](./20966-hyper-void.json) |
 | Hyper Wars | 243238 | [243238-hyper-wars.json](./243238-hyper-wars.json) |
 | Hyper Wars: The Mega Firestorm | 109046 | [109046-hyper-wars-the-mega-firestorm.json](./109046-hyper-wars-the-mega-firestorm.json) |
+| Hyper-5 | 145378 | [145378-hyper-5.json](./145378-hyper-5.json) |
 | Hyper-Galactic Spiders from Mars | 109180 | [109180-hyper-galactic-spiders-from-mars.json](./109180-hyper-galactic-spiders-from-mars.json) |
 | Hyper! Danganronpa H20: Abandon All Hope | 267987 | [267987-hyper-danganronpa-h20-abandon-all-hope.json](./267987-hyper-danganronpa-h20-abandon-all-hope.json) |
 | Hyper's Quest Reborn | 316969 | [316969-hypers-quest-reborn.json](./316969-hypers-quest-reborn.json) |
