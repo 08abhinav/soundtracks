@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-kai Watch 1 Smartphone | 308252 | [308252-yo-kai-watch-1-smartphone.json](./308252-yo-kai-watch-1-smartphone.json) |
 | Yo-Kai Watch 2: Bony Spirits | 11658 | [11658-yo-kai-watch-2-bony-spirits.json](./11658-yo-kai-watch-2-bony-spirits.json) |
 | Yo-kai Watch 3 | 113249 | [113249-yo-kai-watch-3.json](./113249-yo-kai-watch-3.json) |
+| Yo-Kai Watch 3: Sushi | 136889 | [136889-yo-kai-watch-3-sushi.json](./136889-yo-kai-watch-3-sushi.json) |
 | Yo-Kai Watch 3: Tempura | 222295 | [222295-yo-kai-watch-3-tempura.json](./222295-yo-kai-watch-3-tempura.json) |
 | Yo-kai Watch 4 | 96246 | [96246-yo-kai-watch-4.json](./96246-yo-kai-watch-4.json) |
 | Yo-kai Watch 4++ | 127255 | [127255-yo-kai-watch-4.json](./127255-yo-kai-watch-4.json) |
@@ -635,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoru no Majin to Ikusa no Kuni: Samayoeru Vampire | 222335 | [222335-yoru-no-majin-to-ikusa-no-kuni-samayoeru-vampire.json](./222335-yoru-no-majin-to-ikusa-no-kuni-samayoeru-vampire.json) |
 | Yoru no Rojiura Annai | 327921 | [327921-yoru-no-rojiura-annai.json](./327921-yoru-no-rojiura-annai.json) |
 | Yoru no Umi de Otsukisama wo Tsuru | 147229 | [147229-yoru-no-umi-de-otsukisama-wo-tsuru.json](./147229-yoru-no-umi-de-otsukisama-wo-tsuru.json) |
+| Yoru, Tomosu | 136740 | [136740-yoru-tomosu.json](./136740-yoru-tomosu.json) |
 | Yorumorukimiri | 147336 | [147336-yorumorukimiri.json](./147336-yorumorukimiri.json) |
 | Yorumorukimiri: Shippo-tachi no Kizuna | 147337 | [147337-yorumorukimiri-shippo-tachi-no-kizuna.json](./147337-yorumorukimiri-shippo-tachi-no-kizuna.json) |
 | Yorvik's Game | 374610 | [374610-yorviks-game.json](./374610-yorviks-game.json) |
@@ -1000,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Way Out | 395998 | [395998-your-way-out.json](./395998-your-way-out.json) |
 | Your wife | 166731 | [166731-your-wife.json](./166731-your-wife.json) |
 | Your Wife Oh | 337757 | [337757-your-wife-oh.json](./337757-your-wife-oh.json) |
+| Your World | 137332 | [137332-your-world.json](./137332-your-world.json) |
 | Your World According to a Single Word | 312298 | [312298-your-world-according-to-a-single-word.json](./312298-your-world-according-to-a-single-word.json) |
 | Your_New_Life_Letter.rtf.exe | 234563 | [234563-your-new-life-letter-rtf-exe.json](./234563-your-new-life-letter-rtf-exe.json) |
 | Yourcraft | 361322 | [361322-yourcraft.json](./361322-yourcraft.json) |
