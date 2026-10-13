@@ -7002,6 +7002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antpocalypse | 386917 | [386917-antpocalypse.json](./386917-antpocalypse.json) |
 | AntQueen 3D | 117642 | [117642-antqueen-3d.json](./117642-antqueen-3d.json) |
 | Antrabhara | 223491 | [223491-antrabhara.json](./223491-antrabhara.json) |
+| Ants | 170965 | [170965-ants.json](./170965-ants.json) |
 | Ants Empire Colony | 358427 | [358427-ants-empire-colony.json](./358427-ants-empire-colony.json) |
 | Ants in Space! | 248031 | [248031-ants-in-space.json](./248031-ants-in-space.json) |
 | Ants March TD | 374200 | [374200-ants-march-td.json](./374200-ants-march-td.json) |
@@ -9825,6 +9826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroad | 149089 | [149089-asteroad.json](./149089-asteroad.json) |
 | Asterogue | 184854 | [184854-asterogue.json](./184854-asterogue.json) |
 | Asterogues | 213433 | [213433-asterogues.json](./213433-asterogues.json) |
+| Asteroid | 170781 | [170781-asteroid.json](./170781-asteroid.json) |
 | Asteroid | 80931 | [80931-asteroid.json](./80931-asteroid.json) |
 | Asteroid 69 | 387096 | [387096-asteroid-69.json](./387096-asteroid-69.json) |
 | Asteroid Arena | 190060 | [190060-asteroid-arena.json](./190060-asteroid-arena.json) |
