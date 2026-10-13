@@ -1601,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Dash Tales | 268970 | [268970-neon-dash-tales.json](./268970-neon-dash-tales.json) |
 | Neon Defenders Premium Defense | 200156 | [200156-neon-defenders-premium-defense.json](./200156-neon-defenders-premium-defense.json) |
 | Neon Depth | 168333 | [168333-neon-depth.json](./168333-neon-depth.json) |
+| Neon Dimension | 157385 | [157385-neon-dimension.json](./157385-neon-dimension.json) |
 | Neon District | 124201 | [124201-neon-district.json](./124201-neon-district.json) |
 | Neon Divide | 359521 | [359521-neon-divide.json](./359521-neon-divide.json) |
 | Neon Doctrine's Greatest Hits Vol. 1 | 304811 | [304811-neon-doctrines-greatest-hits-vol-1.json](./304811-neon-doctrines-greatest-hits-vol-1.json) |
