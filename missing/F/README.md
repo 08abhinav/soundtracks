@@ -5282,6 +5282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flood Escape | 369683 | [369683-flood-escape.json](./369683-flood-escape.json) |
 | Flood Escape 64 | 243112 | [243112-flood-escape-64.json](./243112-flood-escape-64.json) |
 | Flood Fighting Hero | 165019 | [165019-flood-fighting-hero.json](./165019-flood-fighting-hero.json) |
+| Flood Fill | 157927 | [157927-flood-fill.json](./157927-flood-fill.json) |
 | Flood of Tears | 299552 | [299552-flood-of-tears.json](./299552-flood-of-tears.json) |
 | Flood of Zombies | 333241 | [333241-flood-of-zombies.json](./333241-flood-of-zombies.json) |
 | Flood Runner 5 | 202561 | [202561-flood-runner-5.json](./202561-flood-runner-5.json) |
@@ -6601,6 +6602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Racing Pro 2026: GOTY Edition | 399819 | [399819-formula-racing-pro-2026-goty-edition.json](./399819-formula-racing-pro-2026-goty-edition.json) |
 | Formula Racing Pro 2026: Upgrade Edition | 396918 | [396918-formula-racing-pro-2026-upgrade-edition.json](./396918-formula-racing-pro-2026-upgrade-edition.json) |
 | Formula Racing: Grand Prix League | 319317 | [319317-formula-racing-grand-prix-league.json](./319317-formula-racing-grand-prix-league.json) |
+| Formula Team | 157899 | [157899-formula-team.json](./157899-formula-team.json) |
 | Formula Top | 199646 | [199646-formula-top.json](./199646-formula-top.json) |
 | Formula Truck 2013 | 36392 | [36392-formula-truck-2013.json](./36392-formula-truck-2013.json) |
 | Formula V20: 1985 | 304140 | [304140-formula-v20-1985.json](./304140-formula-v20-1985.json) |
@@ -7153,6 +7155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPV Logic | 255248 | [255248-fpv-logic.json](./255248-fpv-logic.json) |
 | FPV Simulator | 192407 | [192407-fpv-simulator.json](./192407-fpv-simulator.json) |
 | FPV SkyDive: FPV Drone Simulator - Flight School | 276418 | [276418-fpv-skydive-fpv-drone-simulator-flight-school.json](./276418-fpv-skydive-fpv-drone-simulator-flight-school.json) |
+| FPV Speed Drone | 157913 | [157913-fpv-speed-drone.json](./157913-fpv-speed-drone.json) |
 | FPV Worldwide | 357361 | [357361-fpv-worldwide.json](./357361-fpv-worldwide.json) |
 | FR Legends | 126025 | [126025-fr-legends.json](./126025-fr-legends.json) |
 | FR Master: Formula Racing Simulator | 261356 | [261356-fr-master-formula-racing-simulator.json](./261356-fr-master-formula-racing-simulator.json) |
@@ -7363,6 +7366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frantic Mouse | 247394 | [247394-frantic-mouse.json](./247394-frantic-mouse.json) |
 | Frantic Oceans | 343780 | [343780-frantic-oceans.json](./343780-frantic-oceans.json) |
 | Franz | 250301 | [250301-franz.json](./250301-franz.json) |
+| Franz Fury | 157923 | [157923-franz-fury.json](./157923-franz-fury.json) |
 | Franzen | 263443 | [263443-franzen.json](./263443-franzen.json) |
 | Fraud Camp: Survival Escape | 372455 | [372455-fraud-camp-survival-escape.json](./372455-fraud-camp-survival-escape.json) |
 | Fraudster | 340245 | [340245-fraudster.json](./340245-fraudster.json) |
