@@ -4538,6 +4538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bow | 60602 | [60602-the-bow.json](./60602-the-bow.json) |
 | The Bowling Tournament | 277418 | [277418-the-bowling-tournament.json](./277418-the-bowling-tournament.json) |
 | The Bowyage | 265208 | [265208-the-bowyage.json](./265208-the-bowyage.json) |
+| The Box | 133718 | [133718-the-box.json](./133718-the-box.json) |
 | The Box | 289568 | [289568-the-box.json](./289568-the-box.json) |
 | The Box Code | 139188 | [139188-the-box-code.json](./139188-the-box-code.json) |
 | The Box Game | 203550 | [203550-the-box-game.json](./203550-the-box-game.json) |
@@ -22275,6 +22276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typing with Jester | 32239 | [32239-typing-with-jester.json](./32239-typing-with-jester.json) |
 | Typingcommand | 317412 | [317412-typingcommand.json](./317412-typingcommand.json) |
 | Typingmania 5 Odyssey | 64194 | [64194-typingmania-5-odyssey.json](./64194-typingmania-5-odyssey.json) |
+| TypingTube | 133701 | [133701-typingtube.json](./133701-typingtube.json) |
 | Typingvania | 364987 | [364987-typingvania.json](./364987-typingvania.json) |
 | Typo | 145677 | [145677-typo.json](./145677-typo.json) |
 | Typo | 219528 | [219528-typo.json](./219528-typo.json) |
