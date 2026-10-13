@@ -514,8 +514,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw: Cute Cats | 195444 | [195444-1001-jigsaw-cute-cats.json](./195444-1001-jigsaw-cute-cats.json) |
 | 1001 Jigsaw: Cute Cats 2 | 211385 | [211385-1001-jigsaw-cute-cats-2.json](./211385-1001-jigsaw-cute-cats-2.json) |
 | 1001 Jigsaw: Cute Cats 5 | 244869 | [244869-1001-jigsaw-cute-cats-5.json](./244869-1001-jigsaw-cute-cats-5.json) |
+| 1001 Jigsaw: Earth Chronicles 2 | 163000 | [163000-1001-jigsaw-earth-chronicles-2.json](./163000-1001-jigsaw-earth-chronicles-2.json) |
 | 1001 Jigsaw: Earth Chronicles 3 | 90040 | [90040-1001-jigsaw-earth-chronicles-3.json](./90040-1001-jigsaw-earth-chronicles-3.json) |
 | 1001 Jigsaw: Earth Chronicles 4 | 87252 | [87252-1001-jigsaw-earth-chronicles-4.json](./87252-1001-jigsaw-earth-chronicles-4.json) |
+| 1001 Jigsaw: Earth Chronicles 5 | 162995 | [162995-1001-jigsaw-earth-chronicles-5.json](./162995-1001-jigsaw-earth-chronicles-5.json) |
 | 1001 Jigsaw: Earth Chronicles 7 | 195443 | [195443-1001-jigsaw-earth-chronicles-7.json](./195443-1001-jigsaw-earth-chronicles-7.json) |
 | 1001 Jigsaw: Earth Chronicles 8 | 199582 | [199582-1001-jigsaw-earth-chronicles-8.json](./199582-1001-jigsaw-earth-chronicles-8.json) |
 | 1001 Jigsaw: Home Sweet Home - Back from Vacation | 188933 | [188933-1001-jigsaw-home-sweet-home-back-from-vacation.json](./188933-1001-jigsaw-home-sweet-home-back-from-vacation.json) |
@@ -1416,6 +1418,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Gunner | 128551 | [128551-3d-gunner.json](./128551-3d-gunner.json) |
 | 3D Havoc | 11110 | [11110-3d-havoc.json](./11110-3d-havoc.json) |
 | 3D Hentai Chess | 149424 | [149424-3d-hentai-chess.json](./149424-3d-hentai-chess.json) |
+| 3D Hentai Puzzle | 163558 | [163558-3d-hentai-puzzle.json](./163558-3d-hentai-puzzle.json) |
+| 3D Hentai Puzzle 2 | 163534 | [163534-3d-hentai-puzzle-2.json](./163534-3d-hentai-puzzle-2.json) |
 | 3D Hopper | 327387 | [327387-3d-hopper.json](./327387-3d-hopper.json) |
 | 3D Icon Quiz | 232060 | [232060-3d-icon-quiz.json](./232060-3d-icon-quiz.json) |
 | 3D Joys | 205073 | [205073-3d-joys.json](./205073-3d-joys.json) |
