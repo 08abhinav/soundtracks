@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paca Paca Passion Special | 329386 | [329386-paca-paca-passion-special.json](./329386-paca-paca-passion-special.json) |
 | Paca Plus Minus | 63136 | [63136-paca-plus-minus.json](./63136-paca-plus-minus.json) |
 | Paca Plus Plus! | 63135 | [63135-paca-plus-plus.json](./63135-paca-plus-plus.json) |
+| Pacapaca Passion | 139118 | [139118-pacapaca-passion.json](./139118-pacapaca-passion.json) |
 | PacaPomo | 310189 | [310189-pacapomo.json](./310189-pacapomo.json) |
 | Pacapong | 176335 | [176335-pacapong.json](./176335-pacapong.json) |
 | Pacar | 6122 | [6122-pacar.json](./6122-pacar.json) |
@@ -1794,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pasajeros | 192426 | [192426-pasajeros.json](./192426-pasajeros.json) |
 | Pasapalabra | 302728 | [302728-pasapalabra.json](./302728-pasapalabra.json) |
 | Pascal's Wager | 125912 | [125912-pascals-wager.json](./125912-pascals-wager.json) |
+| Pascal's Wager: The Tides of Oblivion | 139084 | [139084-pascals-wager-the-tides-of-oblivion.json](./139084-pascals-wager-the-tides-of-oblivion.json) |
 | Pasha Planet: Reborn | 234186 | [234186-pasha-planet-reborn.json](./234186-pasha-planet-reborn.json) |
 | Pashah to Henshin: Beauty Academy | 327622 | [327622-pashah-to-henshin-beauty-academy.json](./327622-pashah-to-henshin-beauty-academy.json) |
 | Pashtet | 113705 | [113705-pashtet.json](./113705-pashtet.json) |
@@ -6095,6 +6097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Quiz: Learn & Discover - Mystery & Myth | 227773 | [227773-planet-quiz-learn-and-discover-mystery-and-myth.json](./227773-planet-quiz-learn-and-discover-mystery-and-myth.json) |
 | Planet Quiz: Learn & Discover - Trivia | 227782 | [227782-planet-quiz-learn-and-discover-trivia.json](./227782-planet-quiz-learn-and-discover-trivia.json) |
 | Planet R-12 | 26522 | [26522-planet-r-12.json](./26522-planet-r-12.json) |
+| Planet Rescue: Animal Emergency | 139116 | [139116-planet-rescue-animal-emergency.json](./139116-planet-rescue-animal-emergency.json) |
 | Planet Reserve | 104140 | [104140-planet-reserve.json](./104140-planet-reserve.json) |
 | Planet Romance Boys: Conquer the Zodiac Horoscope | 376761 | [376761-planet-romance-boys-conquer-the-zodiac-horoscope.json](./376761-planet-romance-boys-conquer-the-zodiac-horoscope.json) |
 | Planet Romance Girls: Conquer the Zodiac Horoscope | 378862 | [378862-planet-romance-girls-conquer-the-zodiac-horoscope.json](./378862-planet-romance-girls-conquer-the-zodiac-horoscope.json) |
@@ -10338,6 +10341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Gunship | 202549 | [202549-project-gunship.json](./202549-project-gunship.json) |
 | Project H.A.Z.A.R.D | 216218 | [216218-project-h-a-z-a-r-d.json](./216218-project-h-a-z-a-r-d.json) |
 | Project Hacker | 72954 | [72954-project-hacker.json](./72954-project-hacker.json) |
+| Project Hacker: Kakusei | 139127 | [139127-project-hacker-kakusei.json](./139127-project-hacker-kakusei.json) |
 | Project Hailstorm | 331144 | [331144-project-hailstorm.json](./331144-project-hailstorm.json) |
 | Project Hardline | 253366 | [253366-project-hardline.json](./253366-project-hardline.json) |
 | Project Hastur | 114891 | [114891-project-hastur.json](./114891-project-hastur.json) |
@@ -10583,6 +10587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Trek | 193941 | [193941-project-trek.json](./193941-project-trek.json) |
 | Project TurboBlast | 327357 | [327357-project-turboblast.json](./327357-project-turboblast.json) |
 | Project Uber | 201235 | [201235-project-uber.json](./201235-project-uber.json) |
+| Project Ultra | 139143 | [139143-project-ultra.json](./139143-project-ultra.json) |
 | Project Unirah | 184528 | [184528-project-unirah.json](./184528-project-unirah.json) |
 | Project Unknown | 244240 | [244240-project-unknown.json](./244240-project-unknown.json) |
 | Project Unknown Designation | 309881 | [309881-project-unknown-designation.json](./309881-project-unknown-designation.json) |
