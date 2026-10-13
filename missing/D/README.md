@@ -2869,6 +2869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death or Glory | 13577 | [13577-death-or-glory.json](./13577-death-or-glory.json) |
 | Death or Treat | 215539 | [215539-death-or-treat.json](./215539-death-or-treat.json) |
 | Death Orb | 72629 | [72629-death-orb.json](./72629-death-orb.json) |
+| Death Palette | 171525 | [171525-death-palette.json](./171525-death-palette.json) |
 | Death Park 2 | 149730 | [149730-death-park-2.json](./149730-death-park-2.json) |
 | Death Park 2: Horror Clown | 251232 | [251232-death-park-2-horror-clown.json](./251232-death-park-2-horror-clown.json) |
 | Death Penalty | 401555 | [401555-death-penalty.json](./401555-death-penalty.json) |
@@ -5242,6 +5243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dfuse | 314423 | [314423-dfuse.json](./314423-dfuse.json) |
 | DGU: Death God University | 35689 | [35689-dgu-death-god-university.json](./35689-dgu-death-god-university.json) |
 | DGU: Death God University - Midterm Mania | 171457 | [171457-dgu-death-god-university-midterm-mania.json](./171457-dgu-death-god-university-midterm-mania.json) |
+| DGU: Death God University - Sinister Semester | 171337 | [171337-dgu-death-god-university-sinister-semester.json](./171337-dgu-death-god-university-sinister-semester.json) |
 | Dhaka Racing | 385278 | [385278-dhaka-racing.json](./385278-dhaka-racing.json) |
 | Dhalman | 408006 | [408006-dhalman.json](./408006-dhalman.json) |
 | Dharma Dojo | 42529 | [42529-dharma-dojo.json](./42529-dharma-dojo.json) |
@@ -5299,6 +5301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dial-In | 195718 | [195718-dial-in.json](./195718-dial-in.json) |
 | Dialed In | 82854 | [82854-dialed-in.json](./82854-dialed-in.json) |
 | Dialing | 88011 | [88011-dialing.json](./88011-dialing.json) |
+| Dialogue Box: The Road Less Traveled | 171330 | [171330-dialogue-box-the-road-less-traveled.json](./171330-dialogue-box-the-road-less-traveled.json) |
 | Dialogue: A Writer's Story | 26706 | [26706-dialogue-a-writers-story.json](./26706-dialogue-a-writers-story.json) |
 | Dialoop | 361796 | [361796-dialoop.json](./361796-dialoop.json) |
 | Dialshift | 417466 | [417466-dialshift.json](./417466-dialshift.json) |
