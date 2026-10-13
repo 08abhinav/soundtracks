@@ -632,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Simulator | 159828 | [159828-office-simulator.json](./159828-office-simulator.json) |
 | Office Simulator | 326392 | [326392-office-simulator.json](./326392-office-simulator.json) |
 | Office Space: Idle Profits | 55977 | [55977-office-space-idle-profits.json](./55977-office-space-idle-profits.json) |
+| Office Strike War: Multiplayer Battle Royale | 166285 | [166285-office-strike-war-multiplayer-battle-royale.json](./166285-office-strike-war-multiplayer-battle-royale.json) |
 | Office Waifu | 248664 | [248664-office-waifu.json](./248664-office-waifu.json) |
 | Office Zombie | 316740 | [316740-office-zombie.json](./316740-office-zombie.json) |
 | Officers | 21119 | [21119-officers.json](./21119-officers.json) |
@@ -1722,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Unlimited World Red - Prestige Edition | 99804 | [99804-one-piece-unlimited-world-red-prestige-edition.json](./99804-one-piece-unlimited-world-red-prestige-edition.json) |
 | One Piece: Unlimited World Red - Straw Hat Edition | 83793 | [83793-one-piece-unlimited-world-red-straw-hat-edition.json](./83793-one-piece-unlimited-world-red-straw-hat-edition.json) |
 | One Piece: World Seeker - Deluxe Edition | 121417 | [121417-one-piece-world-seeker-deluxe-edition.json](./121417-one-piece-world-seeker-deluxe-edition.json) |
+| One Piece: World Seeker - The Pirate King Edition | 166282 | [166282-one-piece-world-seeker-the-pirate-king-edition.json](./166282-one-piece-world-seeker-the-pirate-king-edition.json) |
 | One Piece: World Seeker Episode Pass | 152911 | [152911-one-piece-world-seeker-episode-pass.json](./152911-one-piece-world-seeker-episode-pass.json) |
 | One Piece: Yume no Luffy Kaizoku-dan Tanjou! | 75739 | [75739-one-piece-yume-no-luffy-kaizoku-dan-tanjou.json](./75739-one-piece-yume-no-luffy-kaizoku-dan-tanjou.json) |
 | One Ping Only | 95610 | [95610-one-ping-only.json](./95610-one-ping-only.json) |
