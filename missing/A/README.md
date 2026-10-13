@@ -1083,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aban Hawkins & the 1000 Spikes | 91756 | [91756-aban-hawkins-and-the-1000-spikes.json](./91756-aban-hawkins-and-the-1000-spikes.json) |
 | Abandon: The Town | 268033 | [268033-abandon-the-town.json](./268033-abandon-the-town.json) |
 | Abandon02 | 129084 | [129084-abandon02.json](./129084-abandon02.json) |
+| Abandoned | 165148 | [165148-abandoned.json](./165148-abandoned.json) |
 | Abandoned | 184599 | [184599-abandoned.json](./184599-abandoned.json) |
 | Abandoned | 295781 | [295781-abandoned.json](./295781-abandoned.json) |
 | Abandoned | 343778 | [343778-abandoned.json](./343778-abandoned.json) |
@@ -3105,6 +3106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aikatsu Stars! First Appeal | 222422 | [222422-aikatsu-stars-first-appeal.json](./222422-aikatsu-stars-first-appeal.json) |
 | Aikatsu! 365 Idol Days | 177559 | [177559-aikatsu-365-idol-days.json](./177559-aikatsu-365-idol-days.json) |
 | Aikatsu! Futari no My Princess | 222496 | [222496-aikatsu-futari-no-my-princess.json](./222496-aikatsu-futari-no-my-princess.json) |
+| Aikatsu! My No. 1 Stage | 165144 | [165144-aikatsu-my-no-1-stage.json](./165144-aikatsu-my-no-1-stage.json) |
 | Aikiss 1, 2, 3 Pack | 182469 | [182469-aikiss-1-2-3-pack.json](./182469-aikiss-1-2-3-pack.json) |
 | Aikiss 2 | 141794 | [141794-aikiss-2.json](./141794-aikiss-2.json) |
 | Aikiss 2: Complete Edition | 141893 | [141893-aikiss-2-complete-edition.json](./141893-aikiss-2-complete-edition.json) |
