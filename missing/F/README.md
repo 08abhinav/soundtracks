@@ -4775,6 +4775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Navalny | 137665 | [137665-flappy-navalny.json](./137665-flappy-navalny.json) |
 | Flappy Octane | 174159 | [174159-flappy-octane.json](./174159-flappy-octane.json) |
 | Flappy Outside | 262222 | [262222-flappy-outside.json](./262222-flappy-outside.json) |
+| Flappy Person | 173213 | [173213-flappy-person.json](./173213-flappy-person.json) |
 | Flappy Pink Bird | 87075 | [87075-flappy-pink-bird.json](./87075-flappy-pink-bird.json) |
 | Flappy Pixel! | 249308 | [249308-flappy-pixel.json](./249308-flappy-pixel.json) |
 | Flappy Putin: Hardbass Gopnik | 202094 | [202094-flappy-putin-hardbass-gopnik.json](./202094-flappy-putin-hardbass-gopnik.json) |
@@ -7185,6 +7186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragile Ascent | 292010 | [292010-fragile-ascent.json](./292010-fragile-ascent.json) |
 | Fragile Box | 129681 | [129681-fragile-box.json](./129681-fragile-box.json) |
 | Fragile Equilibrium | 113757 | [113757-fragile-equilibrium.json](./113757-fragile-equilibrium.json) |
+| Fragile Existence | 173020 | [173020-fragile-existence.json](./173020-fragile-existence.json) |
 | Fragile Feelings | 240688 | [240688-fragile-feelings.json](./240688-fragile-feelings.json) |
 | Fragile Hero and the Immortal Frog | 353830 | [353830-fragile-hero-and-the-immortal-frog.json](./353830-fragile-hero-and-the-immortal-frog.json) |
 | Fragile Peace | 370264 | [370264-fragile-peace.json](./370264-fragile-peace.json) |
@@ -8697,6 +8699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Park Reawakening | 418253 | [418253-funny-park-reawakening.json](./418253-funny-park-reawakening.json) |
 | Funny Pizza Land | 123615 | [123615-funny-pizza-land.json](./123615-funny-pizza-land.json) |
 | Funny Pizza Land 2 | 217485 | [217485-funny-pizza-land-2.json](./217485-funny-pizza-land-2.json) |
+| Funny puzzle | 173214 | [173214-funny-puzzle.json](./173214-funny-puzzle.json) |
 | Funny Racer | 291008 | [291008-funny-racer.json](./291008-funny-racer.json) |
 | Funny Racer | 305350 | [305350-funny-racer.json](./305350-funny-racer.json) |
 | Funny Rain | 314924 | [314924-funny-rain.json](./314924-funny-rain.json) |
@@ -9027,6 +9030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Fighter | 304139 | [304139-future-fighter.json](./304139-future-fighter.json) |
 | Future Flappy | 89290 | [89290-future-flappy.json](./89290-future-flappy.json) |
 | Future Football Manager | 214110 | [214110-future-football-manager.json](./214110-future-football-manager.json) |
+| Future Fortune | 173194 | [173194-future-fortune.json](./173194-future-fortune.json) |
 | Future Front | 241283 | [241283-future-front.json](./241283-future-front.json) |
 | Future Futures - Command Z | 116320 | [116320-future-futures-command-z.json](./116320-future-futures-command-z.json) |
 | Future Ghost | 86230 | [86230-future-ghost.json](./86230-future-ghost.json) |
