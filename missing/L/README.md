@@ -2361,6 +2361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let It Die: Uncle Prime Edition | 166240 | [166240-let-it-die-uncle-prime-edition.json](./166240-let-it-die-uncle-prime-edition.json) |
 | Let It Drop: Puzzle Game | 89546 | [89546-let-it-drop-puzzle-game.json](./89546-let-it-drop-puzzle-game.json) |
 | Let It Flow | 144279 | [144279-let-it-flow.json](./144279-let-it-flow.json) |
+| Let It Go - How to realize your dreams | 142225 | [142225-let-it-go-how-to-realize-your-dreams.json](./142225-let-it-go-how-to-realize-your-dreams.json) |
 | Let it Goat | 61160 | [61160-let-it-goat.json](./61160-let-it-goat.json) |
 | Let It Happen | 129663 | [129663-let-it-happen.json](./129663-let-it-happen.json) |
 | Let It Ride! | 392938 | [392938-let-it-ride.json](./392938-let-it-ride.json) |
@@ -5401,6 +5402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Lands X | 334170 | [334170-lost-lands-x.json](./334170-lost-lands-x.json) |
 | Lost Lands: Mahjong | 33702 | [33702-lost-lands-mahjong.json](./33702-lost-lands-mahjong.json) |
 | Lost Lands: Mistakes of the Past | 112935 | [112935-lost-lands-mistakes-of-the-past.json](./112935-lost-lands-mistakes-of-the-past.json) |
+| Lost Lands: Redemption | 142185 | [142185-lost-lands-redemption.json](./142185-lost-lands-redemption.json) |
 | Lost Lands: Stories About the Sorceress, the Prince and the Minotaur - Collector's Edition | 416618 | [416618-lost-lands-stories-about-the-sorceress-the-prince-and-the-minotaur-collectors-edition.json](./416618-lost-lands-stories-about-the-sorceress-the-prince-and-the-minotaur-collectors-edition.json) |
 | Lost Lands: Stories of the First Brotherhood | 290430 | [290430-lost-lands-stories-of-the-first-brotherhood.json](./290430-lost-lands-stories-of-the-first-brotherhood.json) |
 | Lost Lands: The Four Horsemen | 35164 | [35164-lost-lands-the-four-horsemen.json](./35164-lost-lands-the-four-horsemen.json) |
