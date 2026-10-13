@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall Shooter | 244864 | [244864-wall-shooter.json](./244864-wall-shooter.json) |
 | Wall Simulator 2017 | 53882 | [53882-wall-simulator-2017.json](./53882-wall-simulator-2017.json) |
 | Wall Street | 261989 | [261989-wall-street.json](./261989-wall-street.json) |
+| Wall Street Bets | 164070 | [164070-wall-street-bets.json](./164070-wall-street-bets.json) |
 | Wall Street Junior | 74381 | [74381-wall-street-junior.json](./74381-wall-street-junior.json) |
 | Wall Street Massacre | 394138 | [394138-wall-street-massacre.json](./394138-wall-street-massacre.json) |
 | Wall Street Raider | 186757 | [186757-wall-street-raider.json](./186757-wall-street-raider.json) |
@@ -4123,6 +4124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wishful Thinking | 313822 | [313822-wishful-thinking.json](./313822-wishful-thinking.json) |
 | Wishing Well | 130861 | [130861-wishing-well.json](./130861-wishing-well.json) |
 | Wishing Well Hotel | 386107 | [386107-wishing-well-hotel.json](./386107-wishing-well-hotel.json) |
+| Wishlair | 164076 | [164076-wishlair.json](./164076-wishlair.json) |
 | Wishlist | 244300 | [244300-wishlist.json](./244300-wishlist.json) |
 | Wishmaker | 305478 | [305478-wishmaker.json](./305478-wishmaker.json) |
 | Wishseeker | 415089 | [415089-wishseeker.json](./415089-wishseeker.json) |
@@ -5320,6 +5322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Final Fantasy: Maxima | 109461 | [109461-world-of-final-fantasy-maxima.json](./109461-world-of-final-fantasy-maxima.json) |
 | World of Final Fantasy: Meli-Melo | 76160 | [76160-world-of-final-fantasy-meli-melo.json](./76160-world-of-final-fantasy-meli-melo.json) |
 | World of Football | 230297 | [230297-world-of-football.json](./230297-world-of-football.json) |
+| World of Fundo | 164083 | [164083-world-of-fundo.json](./164083-world-of-fundo.json) |
 | World of Glue | 63397 | [63397-world-of-glue.json](./63397-world-of-glue.json) |
 | World of Golf | 31814 | [31814-world-of-golf.json](./31814-world-of-golf.json) |
 | World of Goo Remastered | 250935 | [250935-world-of-goo-remastered.json](./250935-world-of-goo-remastered.json) |
