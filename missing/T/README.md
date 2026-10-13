@@ -6038,6 +6038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Family Skeleton | 72343 | [72343-the-family-skeleton.json](./72343-the-family-skeleton.json) |
 | The Family Trip | 394449 | [394449-the-family-trip.json](./394449-the-family-trip.json) |
 | The FamiRes | 66172 | [66172-the-famires.json](./66172-the-famires.json) |
+| The Famires: Shijou Saikyou no Menu | 178348 | [178348-the-famires-shijou-saikyou-no-menu.json](./178348-the-famires-shijou-saikyou-no-menu.json) |
 | The Famous Diver | 90179 | [90179-the-famous-diver.json](./90179-the-famous-diver.json) |
 | The Famous Five Adventure Game | 90845 | [90845-the-famous-five-adventure-game.json](./90845-the-famous-five-adventure-game.json) |
 | The Famous Five: Dangerous Discovery | 13773 | [13773-the-famous-five-dangerous-discovery.json](./13773-the-famous-five-dangerous-discovery.json) |
@@ -14915,6 +14916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time of Heroes | 341087 | [341087-time-of-heroes.json](./341087-time-of-heroes.json) |
 | Time of Shadows | 90468 | [90468-time-of-shadows.json](./90468-time-of-shadows.json) |
 | Time of Sorrow | 316606 | [316606-time-of-sorrow.json](./316606-time-of-sorrow.json) |
+| Time of the Dead | 178380 | [178380-time-of-the-dead.json](./178380-time-of-the-dead.json) |
 | Time of the Moon | 123964 | [123964-time-of-the-moon.json](./123964-time-of-the-moon.json) |
 | Time of the Wizard | 260308 | [260308-time-of-the-wizard.json](./260308-time-of-the-wizard.json) |
 | Time of the Zombies | 113657 | [113657-time-of-the-zombies.json](./113657-time-of-the-zombies.json) |
@@ -15090,6 +15092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeZero | 58813 | [58813-timezero.json](./58813-timezero.json) |
 | Timing Hero | 112232 | [112232-timing-hero.json](./112232-timing-hero.json) |
 | Timing X | 402370 | [402370-timing-x.json](./402370-timing-x.json) |
+| TiminGooo! | 178339 | [178339-timingooo.json](./178339-timingooo.json) |
 | Timmy & Mousey: Endless Runner | 183331 | [183331-timmy-and-mousey-endless-runner.json](./183331-timmy-and-mousey-endless-runner.json) |
 | Timmy and the Magic Pictures | 290313 | [290313-timmy-and-the-magic-pictures.json](./290313-timmy-and-the-magic-pictures.json) |
 | Timmy the Dream Hunter | 307299 | [307299-timmy-the-dream-hunter.json](./307299-timmy-the-dream-hunter.json) |
@@ -16821,6 +16824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tornblade | 386880 | [386880-tornblade.json](./386880-tornblade.json) |
 | Tornuktu | 191554 | [191554-tornuktu.json](./191554-tornuktu.json) |
 | Toro | 34099 | [34099-toro.json](./34099-toro.json) |
+| Toro to Kyuujitsu | 178328 | [178328-toro-to-kyuujitsu.json](./178328-toro-to-kyuujitsu.json) |
 | Toro to Typing | 246071 | [246071-toro-to-typing.json](./246071-toro-to-typing.json) |
 | Toro! Let's Party! | 65566 | [65566-toro-lets-party.json](./65566-toro-lets-party.json) |
 | Toro's Story App: Heart Pounding Nya | 246074 | [246074-toros-story-app-heart-pounding-nya.json](./246074-toros-story-app-heart-pounding-nya.json) |
@@ -18066,6 +18070,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic | 319601 | [319601-traffic.json](./319601-traffic.json) |
 | Traffic Chase | 173303 | [173303-traffic-chase.json](./173303-traffic-chase.json) |
 | Traffic City | 169476 | [169476-traffic-city.json](./169476-traffic-city.json) |
+| Traffic Confusion | 178353 | [178353-traffic-confusion.json](./178353-traffic-confusion.json) |
+| Traffic Confusion II | 178354 | [178354-traffic-confusion-ii.json](./178354-traffic-confusion-ii.json) |
 | Traffic Cop | 40749 | [40749-traffic-cop.json](./40749-traffic-cop.json) |
 | Traffic Cop | 88177 | [88177-traffic-cop.json](./88177-traffic-cop.json) |
 | Traffic Department 2192 | 23728 | [23728-traffic-department-2192.json](./23728-traffic-department-2192.json) |
@@ -20738,6 +20744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsurikko Penta | 228358 | [228358-tsurikko-penta.json](./228358-tsurikko-penta.json) |
 | Tsurikkuma | 306727 | [306727-tsurikkuma.json](./306727-tsurikkuma.json) |
 | Tsurimasu | 355224 | [355224-tsurimasu.json](./355224-tsurimasu.json) |
+| Tsuro: The Game of The Path | 178349 | [178349-tsuro-the-game-of-the-path.json](./178349-tsuro-the-game-of-the-path.json) |
 | Tsuru Teruhito No Jissen | 37646 | [37646-tsuru-teruhito-no-jissen.json](./37646-tsuru-teruhito-no-jissen.json) |
 | Tsuru Teruhito no Jissen Kabushiki Bi-Game | 59431 | [59431-tsuru-teruhito-no-jissen-kabushiki-bi-game.json](./59431-tsuru-teruhito-no-jissen-kabushiki-bi-game.json) |
 | Tsurugihime | 228340 | [228340-tsurugihime.json](./228340-tsurugihime.json) |
