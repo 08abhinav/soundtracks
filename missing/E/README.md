@@ -5408,6 +5408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EZ2AC: Final EX | 138708 | [138708-ez2ac-final-ex.json](./138708-ez2ac-final-ex.json) |
 | EZ2AC: Time Traveler | 122956 | [122956-ez2ac-time-traveler.json](./122956-ez2ac-time-traveler.json) |
 | EZ2Dancer | 92487 | [92487-ez2dancer.json](./92487-ez2dancer.json) |
+| EZ2DJ | 137915 | [137915-ez2dj.json](./137915-ez2dj.json) |
 | EZ2ON | 63933 | [63933-ez2on.json](./63933-ez2on.json) |
 | EZ2on Reboot: R | 144282 | [144282-ez2on-reboot-r.json](./144282-ez2on-reboot-r.json) |
 | EZ2on Reboot: R - DJMAX Collaboration DLC | 269015 | [269015-ez2on-reboot-r-djmax-collaboration-dlc.json](./269015-ez2on-reboot-r-djmax-collaboration-dlc.json) |
