@@ -3801,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charem of Metropolitan | 236909 | [236909-charem-of-metropolitan.json](./236909-charem-of-metropolitan.json) |
 | Charge | 120992 | [120992-charge.json](./120992-charge.json) |
 | Charge Blade Hero | 158642 | [158642-charge-blade-hero.json](./158642-charge-blade-hero.json) |
+| Charge Champs | 172086 | [172086-charge-champs.json](./172086-charge-champs.json) |
 | Charge Cycles | 183976 | [183976-charge-cycles.json](./183976-charge-cycles.json) |
 | Charge Kid | 144576 | [144576-charge-kid.json](./144576-charge-kid.json) |
 | Charge Up | 413091 | [413091-charge-up.json](./413091-charge-up.json) |
@@ -12350,6 +12351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuby Bop | 39675 | [39675-cuby-bop.json](./39675-cuby-bop.json) |
 | Cuby Panic | 313988 | [313988-cuby-panic.json](./313988-cuby-panic.json) |
 | CubyJump | 110308 | [110308-cubyjump.json](./110308-cubyjump.json) |
+| Cubyrinth | 171867 | [171867-cubyrinth.json](./171867-cubyrinth.json) |
 | Cubyte | 279133 | [279133-cubyte.json](./279133-cubyte.json) |
 | Cubytet | 191188 | [191188-cubytet.json](./191188-cubytet.json) |
 | Cubzh | 250020 | [250020-cubzh.json](./250020-cubzh.json) |
