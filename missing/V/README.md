@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vagrant Shifter | 286129 | [286129-vagrant-shifter.json](./286129-vagrant-shifter.json) |
 | Vagrant Story | 2216 | [2216-vagrant-story.json](./2216-vagrant-story.json) |
 | Vagrant Strider | 272384 | [272384-vagrant-strider.json](./272384-vagrant-strider.json) |
+| Vagrant Sword | 149376 | [149376-vagrant-sword.json](./149376-vagrant-sword.json) |
 | Vagrient | 276152 | [276152-vagrient.json](./276152-vagrient.json) |
 | Vagrus: The Riven Realms - At the Heart of Ruin | 375174 | [375174-vagrus-the-riven-realms-at-the-heart-of-ruin.json](./375174-vagrus-the-riven-realms-at-the-heart-of-ruin.json) |
 | Vagrus: The Riven Realms - Centurion Edition | 186892 | [186892-vagrus-the-riven-realms-centurion-edition.json](./186892-vagrus-the-riven-realms-centurion-edition.json) |
@@ -501,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire's Empire | 53924 | [53924-vampires-empire.json](./53924-vampires-empire.json) |
 | Vampire's Fall: Origins | 123580 | [123580-vampires-fall-origins.json](./123580-vampires-fall-origins.json) |
 | Vampire's Kiss: Time Paradox | 390260 | [390260-vampires-kiss-time-paradox.json](./390260-vampires-kiss-time-paradox.json) |
+| Vampire's Slave | 149387 | [149387-vampires-slave.json](./149387-vampires-slave.json) |
 | Vampire+Hunter | 300019 | [300019-vampire-hunter.json](./300019-vampire-hunter.json) |
 | VampireBlaze | 402935 | [402935-vampireblaze.json](./402935-vampireblaze.json) |
 | Vampirem | 136411 | [136411-vampirem.json](./136411-vampirem.json) |
@@ -608,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VaporPunk | 334309 | [334309-vaporpunk.json](./334309-vaporpunk.json) |
 | Vaporum | 56969 | [56969-vaporum.json](./56969-vaporum.json) |
 | Vaporum: Lockdown | 126812 | [126812-vaporum-lockdown.json](./126812-vaporum-lockdown.json) |
+| Vaporwave | 149882 | [149882-vaporwave.json](./149882-vaporwave.json) |
 | Vaporwave Battler | 350522 | [350522-vaporwave-battler.json](./350522-vaporwave-battler.json) |
 | Vaporwave Drift | 119453 | [119453-vaporwave-drift.json](./119453-vaporwave-drift.json) |
 | Vaporwave Pinball | 253826 | [253826-vaporwave-pinball.json](./253826-vaporwave-pinball.json) |
@@ -1888,6 +1891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus ON | 160251 | [160251-virus-on.json](./160251-virus-on.json) |
 | Virus Protocol | 211779 | [211779-virus-protocol.json](./211779-virus-protocol.json) |
 | Virus Remedium | 216858 | [216858-virus-remedium.json](./216858-virus-remedium.json) |
+| Virus Rush | 149403 | [149403-virus-rush.json](./149403-virus-rush.json) |
 | Virus Rush | 288269 | [288269-virus-rush.json](./288269-virus-rush.json) |
 | Virus: The Battle Field | 177034 | [177034-virus-the-battle-field.json](./177034-virus-the-battle-field.json) |
 | Virus: The Outbreak | 147478 | [147478-virus-the-outbreak.json](./147478-virus-the-outbreak.json) |
