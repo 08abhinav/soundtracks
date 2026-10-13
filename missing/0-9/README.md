@@ -1644,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 404Sight | 19389 | [19389-404sight.json](./19389-404sight.json) |
 | 4096 | 157721 | [157721-4096.json](./157721-4096.json) |
 | 41 Days: Minimalist Pandemic Simulator | 183451 | [183451-41-days-minimalist-pandemic-simulator.json](./183451-41-days-minimalist-pandemic-simulator.json) |
+| 41 Hours | 139679 | [139679-41-hours.json](./139679-41-hours.json) |
 | 41148 | 125888 | [125888-41148.json](./125888-41148.json) |
 | 4185113 | 212755 | [212755-4185113.json](./212755-4185113.json) |
 | 419 | 389733 | [389733-419.json](./389733-419.json) |
@@ -1983,6 +1984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Yous+ | 334089 | [334089-8-yous.json](./334089-8-yous.json) |
 | 8-Ball Pool | 293238 | [293238-8-ball-pool.json](./293238-8-ball-pool.json) |
 | 8-Bit Adventures 2 | 74653 | [74653-8-bit-adventures-2.json](./74653-8-bit-adventures-2.json) |
+| 8-Bit Adventures: The Forgotten Journey | 139719 | [139719-8-bit-adventures-the-forgotten-journey.json](./139719-8-bit-adventures-the-forgotten-journey.json) |
 | 8-Bit Armies | 18907 | [18907-8-bit-armies.json](./18907-8-bit-armies.json) |
 | 8-Bit Armies: Arena | 27333 | [27333-8-bit-armies-arena.json](./27333-8-bit-armies-arena.json) |
 | 8-Bit Attack | 135766 | [135766-8-bit-attack.json](./135766-8-bit-attack.json) |
