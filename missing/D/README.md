@@ -6323,6 +6323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Track Racing 2 | 73758 | [73758-dirt-track-racing-2.json](./73758-dirt-track-racing-2.json) |
 | Dirt Track Racing Pinball | 257310 | [257310-dirt-track-racing-pinball.json](./257310-dirt-track-racing-pinball.json) |
 | Dirt Track Racing: Australia | 73507 | [73507-dirt-track-racing-australia.json](./73507-dirt-track-racing-australia.json) |
+| Dirt Trackin 2 | 147781 | [147781-dirt-trackin-2.json](./147781-dirt-trackin-2.json) |
 | Dirt Trackin Sprint Cars | 88095 | [88095-dirt-trackin-sprint-cars.json](./88095-dirt-trackin-sprint-cars.json) |
 | Dirt Trackin' 3 | 347314 | [347314-dirt-trackin-3.json](./347314-dirt-trackin-3.json) |
 | Dirt Trax FX | 42622 | [42622-dirt-trax-fx.json](./42622-dirt-trax-fx.json) |
@@ -8304,6 +8305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Dash | 85096 | [85096-doodle-dash.json](./85096-doodle-dash.json) |
 | Doodle Date | 96632 | [96632-doodle-date.json](./96632-doodle-date.json) |
 | Doodle Defense | 366295 | [366295-doodle-defense.json](./366295-doodle-defense.json) |
+| Doodle Devil: 3volution | 147737 | [147737-doodle-devil-3volution.json](./147737-doodle-devil-3volution.json) |
 | Doodle Devil: Dark Side | 386861 | [386861-doodle-devil-dark-side.json](./386861-doodle-devil-dark-side.json) |
 | Doodle Devil: Pack | 212360 | [212360-doodle-devil-pack.json](./212360-doodle-devil-pack.json) |
 | Doodle Drive | 208649 | [208649-doodle-drive.json](./208649-doodle-drive.json) |
@@ -9271,6 +9273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag Racing Car Simulator | 275679 | [275679-drag-racing-car-simulator.json](./275679-drag-racing-car-simulator.json) |
 | Drag Racing Rivals | 147847 | [147847-drag-racing-rivals.json](./147847-drag-racing-rivals.json) |
 | Drag Racing: Bike Edition | 235127 | [235127-drag-racing-bike-edition.json](./235127-drag-racing-bike-edition.json) |
+| Drag Sim 2020 | 147741 | [147741-drag-sim-2020.json](./147741-drag-sim-2020.json) |
 | Drag Star! | 116322 | [116322-drag-star.json](./116322-drag-star.json) |
 | Drag the Dungeon | 184345 | [184345-drag-the-dungeon.json](./184345-drag-the-dungeon.json) |
 | Drag the Rope | 254434 | [254434-drag-the-rope.json](./254434-drag-the-rope.json) |
@@ -10625,6 +10628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Phonk 666 | 153325 | [153325-drift-phonk-666.json](./153325-drift-phonk-666.json) |
 | Drift Racer | 157399 | [157399-drift-racer.json](./157399-drift-racer.json) |
 | Drift racing car | 219759 | [219759-drift-racing-car.json](./219759-drift-racing-car.json) |
+| Drift Racing Madness | 147747 | [147747-drift-racing-madness.json](./147747-drift-racing-madness.json) |
 | Drift Racing Rally | 149471 | [149471-drift-racing-rally.json](./149471-drift-racing-rally.json) |
 | Drift Reign | 245834 | [245834-drift-reign.json](./245834-drift-reign.json) |
 | Drift Ride | 196557 | [196557-drift-ride.json](./196557-drift-ride.json) |
@@ -10640,6 +10644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift With Your Pals | 236782 | [236782-drift-with-your-pals.json](./236782-drift-with-your-pals.json) |
 | Drift Zone | 76535 | [76535-drift-zone.json](./76535-drift-zone.json) |
 | Drift Zone 2 | 174845 | [174845-drift-zone-2.json](./174845-drift-zone-2.json) |
+| Drift Zone Arcade | 147746 | [147746-drift-zone-arcade.json](./147746-drift-zone-arcade.json) |
 | Drift: When Worlds Collide | 71505 | [71505-drift-when-worlds-collide.json](./71505-drift-when-worlds-collide.json) |
 | Drift'n'Drive | 134446 | [134446-driftndrive.json](./134446-driftndrive.json) |
 | Drift'n'Drive | 200025 | [200025-driftndrive.json](./200025-driftndrive.json) |
@@ -10800,6 +10805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving Speed HD | 232332 | [232332-driving-speed-hd.json](./232332-driving-speed-hd.json) |
 | Driving Theory Training | 72620 | [72620-driving-theory-training.json](./72620-driving-theory-training.json) |
 | Driving World Collection | 283206 | [283206-driving-world-collection.json](./283206-driving-world-collection.json) |
+| Driving World: Nordic Challenge | 147750 | [147750-driving-world-nordic-challenge.json](./147750-driving-world-nordic-challenge.json) |
 | Driving Zone 2 | 100860 | [100860-driving-zone-2.json](./100860-driving-zone-2.json) |
 | Driving Zone: Germany | 89287 | [89287-driving-zone-germany.json](./89287-driving-zone-germany.json) |
 | Driving Zone: Japan | 174857 | [174857-driving-zone-japan.json](./174857-driving-zone-japan.json) |
