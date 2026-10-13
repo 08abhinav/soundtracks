@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daisenryaku 1941: Gyakuten no Taiheiyou | 342253 | [342253-daisenryaku-1941-gyakuten-no-taiheiyou.json](./342253-daisenryaku-1941-gyakuten-no-taiheiyou.json) |
 | Daisenryaku Daitoua Kouboushi 3: Dai-ni-ji Sekai Taisen Boppatsu! - Soujikugun Tai Rengougun Zen Sekaisen | 140293 | [140293-daisenryaku-daitoua-kouboushi-3-dai-ni-ji-sekai-taisen-boppatsu-soujikugun-tai-rengougun-zen-sekaisen.json](./140293-daisenryaku-daitoua-kouboushi-3-dai-ni-ji-sekai-taisen-boppatsu-soujikugun-tai-rengougun-zen-sekaisen.json) |
 | Daisenryaku Daitoua Kouboushi DX: Dai-ni-ji Sekai Taisen | 123011 | [123011-daisenryaku-daitoua-kouboushi-dx-dai-ni-ji-sekai-taisen.json](./123011-daisenryaku-daitoua-kouboushi-dx-dai-ni-ji-sekai-taisen.json) |
+| Daisenryaku Daitoua Kouboushi: Tora Tora Tora Ware Kishuu ni Seikou Seri | 140284 | [140284-daisenryaku-daitoua-kouboushi-tora-tora-tora-ware-kishuu-ni-seikou-seri.json](./140284-daisenryaku-daitoua-kouboushi-tora-tora-tora-ware-kishuu-ni-seikou-seri.json) |
 | Daisenryaku III '90 | 242519 | [242519-daisenryaku-iii-90.json](./242519-daisenryaku-iii-90.json) |
 | Daisenryaku III '90: Map Collection Vol. 1 | 299825 | [299825-daisenryaku-iii-90-map-collection-vol-1.json](./299825-daisenryaku-iii-90-map-collection-vol-1.json) |
 | Daisenryaku III '90: Map Collection Vol. 2 | 299826 | [299826-daisenryaku-iii-90-map-collection-vol-2.json](./299826-daisenryaku-iii-90-map-collection-vol-2.json) |
@@ -457,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Central Spotlight: Gotye ft. Kimbra - "Somebody That I Used to Know" | 353208 | [353208-dance-central-spotlight-gotye-ft-kimbra-somebody-that-i-used-to-know.json](./353208-dance-central-spotlight-gotye-ft-kimbra-somebody-that-i-used-to-know.json) |
 | Dance Central Spotlight: Mark Ronson ft. Bruno Mars - "Uptown Funk" | 353210 | [353210-dance-central-spotlight-mark-ronson-ft-bruno-mars-uptown-funk.json](./353210-dance-central-spotlight-mark-ronson-ft-bruno-mars-uptown-funk.json) |
 | Dance Central Spotlight: The Pussycat Dolls ft. Busta Rhymes - "Don't Cha" | 353211 | [353211-dance-central-spotlight-the-pussycat-dolls-ft-busta-rhymes-dont-cha.json](./353211-dance-central-spotlight-the-pussycat-dolls-ft-busta-rhymes-dont-cha.json) |
+| Dance Dance Revolution | 140274 | [140274-dance-dance-revolution.json](./140274-dance-dance-revolution.json) |
 | Dance Dance Revolution | 250255 | [250255-dance-dance-revolution.json](./250255-dance-dance-revolution.json) |
 | Dance Dance Revolution 2nd Mix: Dreamcast Edition | 268647 | [268647-dance-dance-revolution-2nd-mix-dreamcast-edition.json](./268647-dance-dance-revolution-2nd-mix-dreamcast-edition.json) |
 | Dance Dance Revolution 2ndMix | 77640 | [77640-dance-dance-revolution-2ndmix.json](./77640-dance-dance-revolution-2ndmix.json) |
@@ -3907,6 +3909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Warp | 43978 | [43978-delta-warp.json](./43978-delta-warp.json) |
 | Delta-V Racing | 247434 | [247434-delta-v-racing.json](./247434-delta-v-racing.json) |
 | Delta's Discs | 412989 | [412989-deltas-discs.json](./412989-deltas-discs.json) |
+| Delta0 | 140267 | [140267-delta0.json](./140267-delta0.json) |
 | DeltaBlade 2700 Re:Create | 264661 | [264661-deltablade-2700-re-create.json](./264661-deltablade-2700-re-create.json) |
 | Deltafall | 329604 | [329604-deltafall.json](./329604-deltafall.json) |
 | Deltagun | 336347 | [336347-deltagun.json](./336347-deltagun.json) |
@@ -4438,6 +4441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby Dynasty: Horse Racing RPG | 415194 | [415194-derby-dynasty-horse-racing-rpg.json](./415194-derby-dynasty-horse-racing-rpg.json) |
 | Derby Heroines: Run, Bet, Win! | 412502 | [412502-derby-heroines-run-bet-win.json](./412502-derby-heroines-run-bet-win.json) |
 | Derby Life: Ranch & Race | 415104 | [415104-derby-life-ranch-and-race.json](./415104-derby-life-ranch-and-race.json) |
+| Derby Owners Club | 140282 | [140282-derby-owners-club.json](./140282-derby-owners-club.json) |
 | Derby Owners Club 2 | 68102 | [68102-derby-owners-club-2.json](./68102-derby-owners-club-2.json) |
 | Derby Owners Club 2000 | 68117 | [68117-derby-owners-club-2000.json](./68117-derby-owners-club-2000.json) |
 | Derby Owners Club: World Edition-EX | 68103 | [68103-derby-owners-club-world-edition-ex.json](./68103-derby-owners-club-world-edition-ex.json) |
