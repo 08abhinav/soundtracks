@@ -3791,6 +3791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Sword | 299399 | [299399-hero-sword.json](./299399-hero-sword.json) |
 | Hero Syndrome | 129522 | [129522-hero-syndrome.json](./129522-hero-syndrome.json) |
 | Hero Tactics | 181921 | [181921-hero-tactics.json](./181921-hero-tactics.json) |
+| Hero Team | 158918 | [158918-hero-team.json](./158918-hero-team.json) |
 | Hero Tower | 132746 | [132746-hero-tower.json](./132746-hero-tower.json) |
 | Hero Tower Wars | 340537 | [340537-hero-tower-wars.json](./340537-hero-tower-wars.json) |
 | Hero vs. 1000 | 302044 | [302044-hero-vs-1000.json](./302044-hero-vs-1000.json) |
@@ -4782,6 +4783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hideous Destructor | 139191 | [139191-hideous-destructor.json](./139191-hideous-destructor.json) |
 | Hideout: Face your fears | 159278 | [159278-hideout-face-your-fears.json](./159278-hideout-face-your-fears.json) |
 | Hiding Out | 84518 | [84518-hiding-out.json](./84518-hiding-out.json) |
+| Hidiom | 158933 | [158933-hidiom.json](./158933-hidiom.json) |
 | Hieroglyph | 218003 | [218003-hieroglyph.json](./218003-hieroglyph.json) |
 | Hieroglyph Quest: The Amarna Enigma | 277770 | [277770-hieroglyph-quest-the-amarna-enigma.json](./277770-hieroglyph-quest-the-amarna-enigma.json) |
 | Hieroglyphika | 21907 | [21907-hieroglyphika.json](./21907-hieroglyphika.json) |
@@ -5518,6 +5520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hodge Dodge | 280345 | [280345-hodge-dodge.json](./280345-hodge-dodge.json) |
 | Hodgepodge Hunch | 249082 | [249082-hodgepodge-hunch.json](./249082-hodgepodge-hunch.json) |
 | Hodgepodge Hunch: Premium Pack - Sakura | 298260 | [298260-hodgepodge-hunch-premium-pack-sakura.json](./298260-hodgepodge-hunch-premium-pack-sakura.json) |
+| Hodl Simulator | 159570 | [159570-hodl-simulator.json](./159570-hodl-simulator.json) |
 | Hodl: The God of Crypto | 97922 | [97922-hodl-the-god-of-crypto.json](./97922-hodl-the-god-of-crypto.json) |
 | HodlGod | 175895 | [175895-hodlgod.json](./175895-hodlgod.json) |
 | Hog Heist | 360645 | [360645-hog-heist.json](./360645-hog-heist.json) |
@@ -6177,6 +6180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honor of Knight King | 174109 | [174109-honor-of-knight-king.json](./174109-honor-of-knight-king.json) |
 | Honour & Freedom II | 283085 | [283085-honour-and-freedom-ii.json](./283085-honour-and-freedom-ii.json) |
 | Honour & Freedom II Power Enhanced Edition | 283088 | [283088-honour-and-freedom-ii-power-enhanced-edition.json](./283088-honour-and-freedom-ii-power-enhanced-edition.json) |
+| Honour Runs | 159554 | [159554-honour-runs.json](./159554-honour-runs.json) |
 | Honourbound | 61999 | [61999-honourbound.json](./61999-honourbound.json) |
 | Honshougi: Naitou 9 Dan Shougi Hiden | 267667 | [267667-honshougi-naitou-9-dan-shougi-hiden.json](./267667-honshougi-naitou-9-dan-shougi-hiden.json) |
 | Honton Tange | 97998 | [97998-honton-tange.json](./97998-honton-tange.json) |
