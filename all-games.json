@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T19:27:14.681Z",
-  "total_soundtracks": 1590,
+  "generated_at": "2026-10-13T19:27:31.165Z",
+  "total_soundtracks": 1591,
   "games": [
     {
       "igdb_id": 7522,
@@ -13757,6 +13757,20 @@
           "spotify_url": "https://open.spotify.com/album/5EtvSNRBjcMAAaalUMYprz",
           "apple_music_url": null,
           "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 16287,
+      "game_name": "Slime Rancher",
+      "game_url": "https://ostdb.net/games/slime-rancher",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/57/46/da/5746dae2-9242-f00e-c99b-1e573cd1d3a0/859723295527_cover.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Slime Rancher (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5PDF3HjzryejKoNNCxOSs8",
+          "apple_music_url": "https://music.apple.com/us/album/slime-rancher-original-game-soundtrack/1292182475",
+          "album_link_url": "https://album.link/i/1292182475"
         }
       ]
     },
