@@ -2109,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onyx | 131338 | [131338-onyx.json](./131338-onyx.json) |
 | oO | 35316 | [35316-oo.json](./35316-oo.json) |
 | Oo-Topos | 25611 | [25611-oo-topos.json](./25611-oo-topos.json) |
+| Ooedo Blacksmith | 143445 | [143445-ooedo-blacksmith.json](./143445-ooedo-blacksmith.json) |
 | Ooedo Senryoubako | 269521 | [269521-ooedo-senryoubako.json](./269521-ooedo-senryoubako.json) |
 | OOG: The Object Orientation Game | 69545 | [69545-oog-the-object-orientation-game.json](./69545-oog-the-object-orientation-game.json) |
 | Ooga Booga | 10961 | [10961-ooga-booga.json](./10961-ooga-booga.json) |
@@ -2737,6 +2738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orgel of Orpheus: Orpheus no Ginkoto | 414131 | [414131-orgel-of-orpheus-orpheus-no-ginkoto.json](./414131-orgel-of-orpheus-orpheus-no-ginkoto.json) |
 | Orgel of Orpheus: Other Comb no Senritsu | 414132 | [414132-orgel-of-orpheus-other-comb-no-senritsu.json](./414132-orgel-of-orpheus-other-comb-no-senritsu.json) |
 | Orguss | 6121 | [6121-orguss.json](./6121-orguss.json) |
+| Ori: The Collection | 143447 | [143447-ori-the-collection.json](./143447-ori-the-collection.json) |
 | Oricmunch | 137472 | [137472-oricmunch.json](./137472-oricmunch.json) |
 | Orient Arcadia | 197331 | [197331-orient-arcadia.json](./197331-orient-arcadia.json) |
 | Orient on the Murder Express | 310491 | [310491-orient-on-the-murder-express.json](./310491-orient-on-the-murder-express.json) |
@@ -3576,6 +3578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outwall | 364965 | [364965-outwall.json](./364965-outwall.json) |
 | Outward 2 | 291446 | [291446-outward-2.json](./291446-outward-2.json) |
 | Outward Adventurer Bundle | 169212 | [169212-outward-adventurer-bundle.json](./169212-outward-adventurer-bundle.json) |
+| Outward: The Three Brothers | 143419 | [143419-outward-the-three-brothers.json](./143419-outward-the-three-brothers.json) |
 | Outwars | 57676 | [57676-outwars.json](./57676-outwars.json) |
 | OutWave | 207341 | [207341-outwave.json](./207341-outwave.json) |
 | Outway | 245942 | [245942-outway.json](./245942-outway.json) |
