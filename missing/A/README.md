@@ -2270,6 +2270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Julia | 176317 | [176317-adventures-of-julia.json](./176317-adventures-of-julia.json) |
 | Adventures of Lolo 2 | 6472 | [6472-adventures-of-lolo-2.json](./6472-adventures-of-lolo-2.json) |
 | Adventures of Lolo 3 | 7547 | [7547-adventures-of-lolo-3.json](./7547-adventures-of-lolo-3.json) |
+| Adventures of Megara: Antigone and the Living Toys | 173190 | [173190-adventures-of-megara-antigone-and-the-living-toys.json](./173190-adventures-of-megara-antigone-and-the-living-toys.json) |
 | Adventures of Megara: Demeter's Cat-astrophe | 149549 | [149549-adventures-of-megara-demeters-cat-astrophe.json](./149549-adventures-of-megara-demeters-cat-astrophe.json) |
 | Adventures of Mike | 101344 | [101344-adventures-of-mike.json](./101344-adventures-of-mike.json) |
 | Adventures of Pipi 2: Save Hype | 101639 | [101639-adventures-of-pipi-2-save-hype.json](./101639-adventures-of-pipi-2-save-hype.json) |
@@ -7310,6 +7311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aporkalypse: Pigs of Doom | 333544 | [333544-aporkalypse-pigs-of-doom.json](./333544-aporkalypse-pigs-of-doom.json) |
 | Apostasy | 104063 | [104063-apostasy.json](./104063-apostasy.json) |
 | Apostate | 240760 | [240760-apostate.json](./240760-apostate.json) |
+| Apostle: Rebellion | 173199 | [173199-apostle-rebellion.json](./173199-apostle-rebellion.json) |
 | Apoth | 238509 | [238509-apoth.json](./238509-apoth.json) |
 | Apothecarium: The Renaissance of Evil | 59907 | [59907-apothecarium-the-renaissance-of-evil.json](./59907-apothecarium-the-renaissance-of-evil.json) |
 | Apothecary | 264227 | [264227-apothecary.json](./264227-apothecary.json) |
@@ -9475,6 +9477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asleep: Act 1 | 209702 | [209702-asleep-act-1.json](./209702-asleep-act-1.json) |
 | Asleep: Act 2 | 307255 | [307255-asleep-act-2.json](./307255-asleep-act-2.json) |
 | Aslimelate | 344973 | [344973-aslimelate.json](./344973-aslimelate.json) |
+| AsMagnet | 173208 | [173208-asmagnet.json](./173208-asmagnet.json) |
 | Asmik-kun Land | 48616 | [48616-asmik-kun-land.json](./48616-asmik-kun-land.json) |
 | Asmik-kun World 2 | 7798 | [7798-asmik-kun-world-2.json](./7798-asmik-kun-world-2.json) |
 | Asmodeus | 261748 | [261748-asmodeus.json](./261748-asmodeus.json) |
@@ -10656,6 +10659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Killer Swarm | 78922 | [78922-attack-of-the-killer-swarm.json](./78922-attack-of-the-killer-swarm.json) |
 | Attack of the Killer Tomatoes | 273079 | [273079-attack-of-the-killer-tomatoes.json](./273079-attack-of-the-killer-tomatoes.json) |
 | Attack of the Killer Tomatoes | 7761 | [7761-attack-of-the-killer-tomatoes.json](./7761-attack-of-the-killer-tomatoes.json) |
+| Attack of the Mechadonk: The Ultimate Donkey | 173200 | [173200-attack-of-the-mechadonk-the-ultimate-donkey.json](./173200-attack-of-the-mechadonk-the-ultimate-donkey.json) |
 | Attack of the Movies 3D | 4683 | [4683-attack-of-the-movies-3d.json](./4683-attack-of-the-movies-3d.json) |
 | Attack of the Murder Hornets | 180495 | [180495-attack-of-the-murder-hornets.json](./180495-attack-of-the-murder-hornets.json) |
 | Attack of the Mutant Artificial Trees | 229250 | [229250-attack-of-the-mutant-artificial-trees.json](./229250-attack-of-the-mutant-artificial-trees.json) |
