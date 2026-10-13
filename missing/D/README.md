@@ -2284,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Maze | 55494 | [55494-dead-maze.json](./55494-dead-maze.json) |
 | Dead Meat | 271654 | [271654-dead-meat.json](./271654-dead-meat.json) |
 | Dead Meets Lead | 65444 | [65444-dead-meets-lead.json](./65444-dead-meets-lead.json) |
+| Dead Men Tell No Tales | 176757 | [176757-dead-men-tell-no-tales.json](./176757-dead-men-tell-no-tales.json) |
 | Dead Mire | 249199 | [249199-dead-mire.json](./249199-dead-mire.json) |
 | Dead Moon: Revenge on Phobos | 51509 | [51509-dead-moon-revenge-on-phobos.json](./51509-dead-moon-revenge-on-phobos.json) |
 | Dead Motherland: Zombie Co-op | 127731 | [127731-dead-motherland-zombie-co-op.json](./127731-dead-motherland-zombie-co-op.json) |
@@ -3269,6 +3270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dungeon | 219235 | [219235-deep-dungeon.json](./219235-deep-dungeon.json) |
 | Deep Dungeon Adventure | 311984 | [311984-deep-dungeon-adventure.json](./311984-deep-dungeon-adventure.json) |
 | Deep Dungeons of Doom | 17876 | [17876-deep-dungeons-of-doom.json](./17876-deep-dungeons-of-doom.json) |
+| Deep Dweller | 176739 | [176739-deep-dweller.json](./176739-deep-dweller.json) |
 | Deep Echo | 25762 | [25762-deep-echo.json](./25762-deep-echo.json) |
 | Deep Eclipse | 36213 | [36213-deep-eclipse.json](./36213-deep-eclipse.json) |
 | Deep Enigma | 149722 | [149722-deep-enigma.json](./149722-deep-enigma.json) |
@@ -7473,6 +7475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogz: Fashion | 49403 | [49403-dogz-fashion.json](./49403-dogz-fashion.json) |
 | DoHots | 417407 | [417407-dohots.json](./417407-dohots.json) |
 | Dohyo Dreams: Rise to Yokozuna | 381604 | [381604-dohyo-dreams-rise-to-yokozuna.json](./381604-dohyo-dreams-rise-to-yokozuna.json) |
+| Doinglessness | 176741 | [176741-doinglessness.json](./176741-doinglessness.json) |
 | Dojagi: The Korean Pottery | 112371 | [112371-dojagi-the-korean-pottery.json](./112371-dojagi-the-korean-pottery.json) |
 | Dojini | 108041 | [108041-dojini.json](./108041-dojini.json) |
 | Dojo Assault | 249847 | [249847-dojo-assault.json](./249847-dojo-assault.json) |
@@ -10452,6 +10455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dressing Room | 361320 | [361320-dressing-room.json](./361320-dressing-room.json) |
 | DressMaker | 168654 | [168654-dressmaker.json](./168654-dressmaker.json) |
 | Drevepsina | 256005 | [256005-drevepsina.json](./256005-drevepsina.json) |
+| Drew | 176747 | [176747-drew.json](./176747-drew.json) |
 | Drew and the Floating Labyrinth | 35867 | [35867-drew-and-the-floating-labyrinth.json](./35867-drew-and-the-floating-labyrinth.json) |
 | Drewdler | 301079 | [301079-drewdler.json](./301079-drewdler.json) |
 | drHackDream | 120248 | [120248-drhackdream.json](./120248-drhackdream.json) |
