@@ -5423,6 +5423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice & Sword | 286063 | [286063-dice-and-sword.json](./286063-dice-and-sword.json) |
 | Dice 1000 online | 184463 | [184463-dice-1000-online.json](./184463-dice-1000-online.json) |
 | Dice A Million | 335662 | [335662-dice-a-million.json](./335662-dice-a-million.json) |
+| Dice and the Tower of the Reanimator: Glorious Princess | 152050 | [152050-dice-and-the-tower-of-the-reanimator-glorious-princess.json](./152050-dice-and-the-tower-of-the-reanimator-glorious-princess.json) |
 | Dice Battle | 279007 | [279007-dice-battle.json](./279007-dice-battle.json) |
 | Dice Battle: 3d Board Game | 348395 | [348395-dice-battle-3d-board-game.json](./348395-dice-battle-3d-board-game.json) |
 | Dice Birth Road | 290475 | [290475-dice-birth-road.json](./290475-dice-birth-road.json) |
@@ -8961,6 +8962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down the Hill! | 259239 | [259239-down-the-hill.json](./259239-down-the-hill.json) |
 | Down the Hole | 133813 | [133813-down-the-hole.json](./133813-down-the-hole.json) |
 | Down The Mountain | 307338 | [307338-down-the-mountain.json](./307338-down-the-mountain.json) |
+| Down the Oubliette | 152031 | [152031-down-the-oubliette.json](./152031-down-the-oubliette.json) |
 | Down the Ratbit Hole | 271371 | [271371-down-the-ratbit-hole.json](./271371-down-the-ratbit-hole.json) |
 | Down the Shaft | 305176 | [305176-down-the-shaft.json](./305176-down-the-shaft.json) |
 | Down the Trench | 169269 | [169269-down-the-trench.json](./169269-down-the-trench.json) |
