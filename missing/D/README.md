@@ -11718,6 +11718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Zolthan | 32967 | [32967-dungeon-of-zolthan.json](./32967-dungeon-of-zolthan.json) |
 | Dungeon Overdose | 342026 | [342026-dungeon-overdose.json](./342026-dungeon-overdose.json) |
 | Dungeon Overlord | 65261 | [65261-dungeon-overlord.json](./65261-dungeon-overlord.json) |
+| Dungeon Overseer | 163017 | [163017-dungeon-overseer.json](./163017-dungeon-overseer.json) |
 | Dungeon Pain Maniac | 117561 | [117561-dungeon-pain-maniac.json](./117561-dungeon-pain-maniac.json) |
 | Dungeon Party | 134613 | [134613-dungeon-party.json](./134613-dungeon-party.json) |
 | Dungeon Party | 296233 | [296233-dungeon-party.json](./296233-dungeon-party.json) |
