@@ -1034,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Space Wolf - Saga of the Great Awakening | 163384 | [163384-warhammer-40-000-space-wolf-saga-of-the-great-awakening.json](./163384-warhammer-40-000-space-wolf-saga-of-the-great-awakening.json) |
 | Warhammer 40,000: Space Wolf - Sentry Gun Pack | 156170 | [156170-warhammer-40-000-space-wolf-sentry-gun-pack.json](./156170-warhammer-40-000-space-wolf-sentry-gun-pack.json) |
 | Warhammer 40,000: Space Wolf - Sigurd Ironside | 163387 | [163387-warhammer-40-000-space-wolf-sigurd-ironside.json](./163387-warhammer-40-000-space-wolf-sigurd-ironside.json) |
+| Warhammer 40,000: Space Wolf - Wrath of the Damned | 155353 | [155353-warhammer-40-000-space-wolf-wrath-of-the-damned.json](./155353-warhammer-40-000-space-wolf-wrath-of-the-damned.json) |
 | Warhammer 40,000: Speed Freeks | 250904 | [250904-warhammer-40-000-speed-freeks.json](./250904-warhammer-40-000-speed-freeks.json) |
 | Warhammer 40,000: Squad Command | 18310 | [18310-warhammer-40-000-squad-command.json](./18310-warhammer-40-000-squad-command.json) |
 | Warhammer 40,000: Storm of Vengeance | 9389 | [9389-warhammer-40-000-storm-of-vengeance.json](./9389-warhammer-40-000-storm-of-vengeance.json) |
@@ -5324,6 +5325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Elemental | 358505 | [358505-world-of-elemental.json](./358505-world-of-elemental.json) |
 | World of Ender | 102749 | [102749-world-of-ender.json](./102749-world-of-ender.json) |
 | World of Epicia | 195627 | [195627-world-of-epicia.json](./195627-world-of-epicia.json) |
+| World of Fantasy: Zero | 155366 | [155366-world-of-fantasy-zero.json](./155366-world-of-fantasy-zero.json) |
 | World of Feudal | 102160 | [102160-world-of-feudal.json](./102160-world-of-feudal.json) |
 | World of Final Fantasy | 11214 | [11214-world-of-final-fantasy.json](./11214-world-of-final-fantasy.json) |
 | World of Final Fantasy: Maxima | 109461 | [109461-world-of-final-fantasy-maxima.json](./109461-world-of-final-fantasy-maxima.json) |
@@ -5333,6 +5335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Glue | 63397 | [63397-world-of-glue.json](./63397-world-of-glue.json) |
 | World of Golf | 31814 | [31814-world-of-golf.json](./31814-world-of-golf.json) |
 | World of Goo Remastered | 250935 | [250935-world-of-goo-remastered.json](./250935-world-of-goo-remastered.json) |
+| World of Guns VR: Guns Full Access | 155377 | [155377-world-of-guns-vr-guns-full-access.json](./155377-world-of-guns-vr-guns-full-access.json) |
 | World of Guns: Gun Disassembly | 7555 | [7555-world-of-guns-gun-disassembly.json](./7555-world-of-guns-gun-disassembly.json) |
 | World of Guns: VR | 121625 | [121625-world-of-guns-vr.json](./121625-world-of-guns-vr.json) |
 | World of Illusion Starring Mickey Mouse and Donald Duck | 8124 | [8124-world-of-illusion-starring-mickey-mouse-and-donald-duck.json](./8124-world-of-illusion-starring-mickey-mouse-and-donald-duck.json) |
@@ -5466,6 +5469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warplanes: Potez 540 Pack | 289894 | [289894-world-of-warplanes-potez-540-pack.json](./289894-world-of-warplanes-potez-540-pack.json) |
 | World of Warriors | 95064 | [95064-world-of-warriors.json](./95064-world-of-warriors.json) |
 | World of Warships: Admiral Graf Spee Pack | 225866 | [225866-world-of-warships-admiral-graf-spee-pack.json](./225866-world-of-warships-admiral-graf-spee-pack.json) |
+| World of Warships: Anshan Pack | 155372 | [155372-world-of-warships-anshan-pack.json](./155372-world-of-warships-anshan-pack.json) |
 | World of Warships: Aurora Steam Edition | 196120 | [196120-world-of-warships-aurora-steam-edition.json](./196120-world-of-warships-aurora-steam-edition.json) |
 | World of Warships: DLC to Celebrate the Year of the Dragon | 289326 | [289326-world-of-warships-dlc-to-celebrate-the-year-of-the-dragon.json](./289326-world-of-warships-dlc-to-celebrate-the-year-of-the-dragon.json) |
 | World of Warships: Huanghe Pack | 156113 | [156113-world-of-warships-huanghe-pack.json](./156113-world-of-warships-huanghe-pack.json) |
