@@ -5096,6 +5096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Vult II | 139765 | [139765-deus-vult-ii.json](./139765-deus-vult-ii.json) |
 | Deus Vult VR | 107634 | [107634-deus-vult-vr.json](./107634-deus-vult-vr.json) |
 | Deuteros: The Next Millennium | 9575 | [9575-deuteros-the-next-millennium.json](./9575-deuteros-the-next-millennium.json) |
+| Deutonium | 137367 | [137367-deutonium.json](./137367-deutonium.json) |
 | Deutsch 1.-4: Klasse - Fit fuers Gymnasium | 269746 | [269746-deutsch-1-4-klasse-fit-fuers-gymnasium.json](./269746-deutsch-1-4-klasse-fit-fuers-gymnasium.json) |
 | Deutsch 1.-4. Klasse 2012 | 269747 | [269747-deutsch-1-4-klasse-2012.json](./269747-deutsch-1-4-klasse-2012.json) |
 | Deutsch für Zwerge 2 | 91623 | [91623-deutsch-fur-zwerge-2.json](./91623-deutsch-fur-zwerge-2.json) |
@@ -5612,6 +5613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Bloody Nazi Die! | 117543 | [117543-die-bloody-nazi-die.json](./117543-die-bloody-nazi-die.json) |
 | Die by Anything | 328099 | [328099-die-by-anything.json](./328099-die-by-anything.json) |
 | Die by the Sword: Limb from Limb | 10913 | [10913-die-by-the-sword-limb-from-limb.json](./10913-die-by-the-sword-limb-from-limb.json) |
+| Die by the Sword: White Label Edition | 137376 | [137376-die-by-the-sword-white-label-edition.json](./137376-die-by-the-sword-white-label-edition.json) |
 | Die CD-ROM mit der Maus 1 | 250609 | [250609-die-cd-rom-mit-der-maus-1.json](./250609-die-cd-rom-mit-der-maus-1.json) |
 | Die CD-ROM mit der Maus 2 | 250610 | [250610-die-cd-rom-mit-der-maus-2.json](./250610-die-cd-rom-mit-der-maus-2.json) |
 | Die CD-ROM mit der Maus 3 | 250611 | [250611-die-cd-rom-mit-der-maus-3.json](./250611-die-cd-rom-mit-der-maus-3.json) |
@@ -7296,6 +7298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dobutsu Shogi World | 120260 | [120260-dobutsu-shogi-world.json](./120260-dobutsu-shogi-world.json) |
 | Doc Cosmos | 133986 | [133986-doc-cosmos.json](./133986-doc-cosmos.json) |
 | Doc Louis's Punch-Out!! | 9153 | [9153-doc-louiss-punch-out.json](./9153-doc-louiss-punch-out.json) |
+| Doc McStuffins | 137370 | [137370-doc-mcstuffins.json](./137370-doc-mcstuffins.json) |
 | Doc McStuffins | 243280 | [243280-doc-mcstuffins.json](./243280-doc-mcstuffins.json) |
 | Doc McStuffins: School of Madicine | 243281 | [243281-doc-mcstuffins-school-of-madicine.json](./243281-doc-mcstuffins-school-of-madicine.json) |
 | DoC: God Mode Edition | 107162 | [107162-doc-god-mode-edition.json](./107162-doc-god-mode-edition.json) |
@@ -8400,6 +8403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoodleBob and the Magic Pencil DX | 341325 | [341325-doodlebob-and-the-magic-pencil-dx.json](./341325-doodlebob-and-the-magic-pencil-dx.json) |
 | Doodlebug | 261511 | [261511-doodlebug.json](./261511-doodlebug.json) |
 | Doodlebug: Bug Bash II | 80636 | [80636-doodlebug-bug-bash-ii.json](./80636-doodlebug-bug-bash-ii.json) |
+| DoodleParty.io | 137353 | [137353-doodleparty-io.json](./137353-doodleparty-io.json) |
 | DoodleVR | 110513 | [110513-doodlevr.json](./110513-doodlevr.json) |
 | Doodly.io | 112221 | [112221-doodly-io.json](./112221-doodly-io.json) |
 | Doofas | 133438 | [133438-doofas.json](./133438-doofas.json) |
