@@ -8237,6 +8237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archers Shadow Strike | 332536 | [332536-archers-shadow-strike.json](./332536-archers-shadow-strike.json) |
 | Archers: Bowman's Battle | 63249 | [63249-archers-bowmans-battle.json](./63249-archers-bowmans-battle.json) |
 | Archery | 247023 | [247023-archery.json](./247023-archery.json) |
+| Archery Arena | 160102 | [160102-archery-arena.json](./160102-archery-arena.json) |
 | Archery Art | 105774 | [105774-archery-art.json](./105774-archery-art.json) |
 | Archery Battle VR | 243601 | [243601-archery-battle-vr.json](./243601-archery-battle-vr.json) |
 | Archery Black | 356646 | [356646-archery-black.json](./356646-archery-black.json) |
