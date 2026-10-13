@@ -10404,6 +10404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sandbox | 182468 | [182468-the-sandbox.json](./182468-the-sandbox.json) |
 | The Sandbox - Building & Craft | 90705 | [90705-the-sandbox-building-and-craft.json](./90705-the-sandbox-building-and-craft.json) |
 | The Sands of Egypt | 23688 | [23688-the-sands-of-egypt.json](./23688-the-sands-of-egypt.json) |
+| The Santa Paradox | 156903 | [156903-the-santa-paradox.json](./156903-the-santa-paradox.json) |
 | The Sapling | 126479 | [126479-the-sapling.json](./126479-the-sapling.json) |
 | The Sapper | 74677 | [74677-the-sapper.json](./74677-the-sapper.json) |
 | The Sarah Jane Adventures: Alien Alliance | 249264 | [249264-the-sarah-jane-adventures-alien-alliance.json](./249264-the-sarah-jane-adventures-alien-alliance.json) |
@@ -13147,6 +13148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thirst | 31836 | [31836-thirst.json](./31836-thirst.json) |
 | Thirsty | 310941 | [310941-thirsty.json](./310941-thirsty.json) |
 | Thirsty Bird | 403784 | [403784-thirsty-bird.json](./403784-thirsty-bird.json) |
+| Thirsty Heroes | 156885 | [156885-thirsty-heroes.json](./156885-thirsty-heroes.json) |
 | Thirsty Nellan | 70111 | [70111-thirsty-nellan.json](./70111-thirsty-nellan.json) |
 | Thirsty Suitors | 185240 | [185240-thirsty-suitors.json](./185240-thirsty-suitors.json) |
 | Thirteen & Half Cats | 120888 | [120888-thirteen-and-half-cats.json](./120888-thirteen-and-half-cats.json) |
@@ -16638,6 +16640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tome of Talis: A Dice Conquest Game | 388299 | [388299-tome-of-talis-a-dice-conquest-game.json](./388299-tome-of-talis-a-dice-conquest-game.json) |
 | Tome of the Damned | 380081 | [380081-tome-of-the-damned.json](./380081-tome-of-the-damned.json) |
 | Tome of the Sun | 112118 | [112118-tome-of-the-sun.json](./112118-tome-of-the-sun.json) |
+| Tome Rush | 156902 | [156902-tome-rush.json](./156902-tome-rush.json) |
 | Tome Tumble Tournament | 356560 | [356560-tome-tumble-tournament.json](./356560-tome-tumble-tournament.json) |
 | Tome: Immortal Arena | 62570 | [62570-tome-immortal-arena.json](./62570-tome-immortal-arena.json) |
 | Tomeling | 85448 | [85448-tomeling.json](./85448-tomeling.json) |
@@ -18134,6 +18137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Box | 325235 | [325235-toy-box.json](./325235-toy-box.json) |
 | Toy Car Extreme Racing: RC Driver Simulator | 309082 | [309082-toy-car-extreme-racing-rc-driver-simulator.json](./309082-toy-car-extreme-racing-rc-driver-simulator.json) |
 | Toy Car Race | 391353 | [391353-toy-car-race.json](./391353-toy-car-race.json) |
+| Toy Chase | 156912 | [156912-toy-chase.json](./156912-toy-chase.json) |
 | Toy Chute: Sort Chute Organizer! | 416853 | [416853-toy-chute-sort-chute-organizer.json](./416853-toy-chute-sort-chute-organizer.json) |
 | Toy Collector | 212429 | [212429-toy-collector.json](./212429-toy-collector.json) |
 | Toy Cowboy Royale: RPG Dragon's Challenge | 378955 | [378955-toy-cowboy-royale-rpg-dragons-challenge.json](./378955-toy-cowboy-royale-rpg-dragons-challenge.json) |
@@ -18562,6 +18566,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 2020: Amtrak SW1000R Loco | 162255 | [162255-train-sim-world-2020-amtrak-sw1000r-loco.json](./162255-train-sim-world-2020-amtrak-sw1000r-loco.json) |
 | Train Sim World 2020: Caltrain MP15DC Diesel Switcher Loco | 161736 | [161736-train-sim-world-2020-caltrain-mp15dc-diesel-switcher-loco.json](./161736-train-sim-world-2020-caltrain-mp15dc-diesel-switcher-loco.json) |
 | Train Sim World 2020: Caltrain MP36PH-3C ‘Baby Bullet’ Loco | 161733 | [161733-train-sim-world-2020-caltrain-mp36ph-3c-baby-bullet-loco.json](./161733-train-sim-world-2020-caltrain-mp36ph-3c-baby-bullet-loco.json) |
+| Train Sim World 2020: Canadian National Oakville Subdivision - Hamilton: Oakville Route | 156871 | [156871-train-sim-world-2020-canadian-national-oakville-subdivision-hamilton-oakville-route.json](./156871-train-sim-world-2020-canadian-national-oakville-subdivision-hamilton-oakville-route.json) |
+| Train Sim World 2020: East Coastway - Brighton: Eastbourne & Seaford Route | 156873 | [156873-train-sim-world-2020-east-coastway-brighton-eastbourne-and-seaford-route.json](./156873-train-sim-world-2020-east-coastway-brighton-eastbourne-and-seaford-route.json) |
+| Train Sim World 2020: Hauptstrecke Rhein-Ruhr - Duisburg: Bochum Route | 156868 | [156868-train-sim-world-2020-hauptstrecke-rhein-ruhr-duisburg-bochum-route.json](./156868-train-sim-world-2020-hauptstrecke-rhein-ruhr-duisburg-bochum-route.json) |
+| Train Sim World 2020: Peninsula Corridor - San Francisco: San Jose Route | 156870 | [156870-train-sim-world-2020-peninsula-corridor-san-francisco-san-jose-route.json](./156870-train-sim-world-2020-peninsula-corridor-san-francisco-san-jose-route.json) |
+| Train Sim World 2020: Tees Valley Line - Darlington: Saltburn-by-the-Sea Route | 156869 | [156869-train-sim-world-2020-tees-valley-line-darlington-saltburn-by-the-sea-route.json](./156869-train-sim-world-2020-tees-valley-line-darlington-saltburn-by-the-sea-route.json) |
+| Train Sim World 2020: West Somerset Railway Route | 156872 | [156872-train-sim-world-2020-west-somerset-railway-route.json](./156872-train-sim-world-2020-west-somerset-railway-route.json) |
 | Train Sim World 3 | 213113 | [213113-train-sim-world-3.json](./213113-train-sim-world-3.json) |
 | Train Sim World 3: Amtrak's Acela | 237944 | [237944-train-sim-world-3-amtraks-acela.json](./237944-train-sim-world-3-amtraks-acela.json) |
 | Train Sim World 3: Birmingham Cross-City Line - Lichfield: Bromsgrove & Redditch Route Add-On | 226688 | [226688-train-sim-world-3-birmingham-cross-city-line-lichfield-bromsgrove-and-redditch-route-add-on.json](./226688-train-sim-world-3-birmingham-cross-city-line-lichfield-bromsgrove-and-redditch-route-add-on.json) |
@@ -21789,6 +21799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Girls Make a Game | 178536 | [178536-two-girls-make-a-game.json](./178536-two-girls-make-a-game.json) |
 | Two girls punch me repeatedly | 162746 | [162746-two-girls-punch-me-repeatedly.json](./162746-two-girls-punch-me-repeatedly.json) |
 | Two Guns | 117680 | [117680-two-guns.json](./117680-two-guns.json) |
+| Two Guys One Cabin | 156875 | [156875-two-guys-one-cabin.json](./156875-two-guys-one-cabin.json) |
 | Two Handed Mage | 187223 | [187223-two-handed-mage.json](./187223-two-handed-mage.json) |
 | Two Hands Eggs | 276149 | [276149-two-hands-eggs.json](./276149-two-hands-eggs.json) |
 | Two Hands Hospital Assistant Simulator | 370007 | [370007-two-hands-hospital-assistant-simulator.json](./370007-two-hands-hospital-assistant-simulator.json) |
