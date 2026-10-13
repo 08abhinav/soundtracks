@@ -6296,6 +6296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shtriga: Summer Camp | 30381 | [30381-shtriga-summer-camp.json](./30381-shtriga-summer-camp.json) |
 | Shu | 395471 | [395471-shu.json](./395471-shu.json) |
 | Shū Liàn yǔ Jūn: Xiānzǐ Xiàn | 373694 | [373694-shu-lian-yu-jun-xianzi-xian.json](./373694-shu-lian-yu-jun-xianzi-xian.json) |
+| Shu's Misfortune | 157396 | [157396-shus-misfortune.json](./157396-shus-misfortune.json) |
 | Shubada! | 120228 | [120228-shubada.json](./120228-shubada.json) |
 | Shudu | 247017 | [247017-shudu.json](./247017-shudu.json) |
 | Shuffle Board | 74726 | [74726-shuffle-board.json](./74726-shuffle-board.json) |
@@ -6713,6 +6714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silence Channel 2 | 218471 | [218471-silence-channel-2.json](./218471-silence-channel-2.json) |
 | Silence Coffee Shop | 222285 | [222285-silence-coffee-shop.json](./222285-silence-coffee-shop.json) |
 | Silence in the Cabin | 236255 | [236255-silence-in-the-cabin.json](./236255-silence-in-the-cabin.json) |
+| Silence in the Dark | 157420 | [157420-silence-in-the-dark.json](./157420-silence-in-the-dark.json) |
 | Silence Notes | 110169 | [110169-silence-notes.json](./110169-silence-notes.json) |
 | Silence of Elven Mage Rin | 372626 | [372626-silence-of-elven-mage-rin.json](./372626-silence-of-elven-mage-rin.json) |
 | Silence of the Sleep | 17819 | [17819-silence-of-the-sleep.json](./17819-silence-of-the-sleep.json) |
@@ -7527,6 +7529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siren Head SCP 6789 | 243223 | [243223-siren-head-scp-6789.json](./243223-siren-head-scp-6789.json) |
 | Siren Head: Stranded | 309120 | [309120-siren-head-stranded.json](./309120-siren-head-stranded.json) |
 | Siren Head: The Arrival | 312360 | [312360-siren-head-the-arrival.json](./312360-siren-head-the-arrival.json) |
+| Siren Head: The Siren's Forest | 157431 | [157431-siren-head-the-sirens-forest.json](./157431-siren-head-the-sirens-forest.json) |
 | Siren Sands | 350418 | [350418-siren-sands.json](./350418-siren-sands.json) |
 | Siren: Blood Curse | 7457 | [7457-siren-blood-curse.json](./7457-siren-blood-curse.json) |
 | Siren's Call: Escape Velocity | 258728 | [258728-sirens-call-escape-velocity.json](./258728-sirens-call-escape-velocity.json) |
@@ -8010,6 +8013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull and Bones: Season 2 - Chorus of Havoc | 303241 | [303241-skull-and-bones-season-2-chorus-of-havoc.json](./303241-skull-and-bones-season-2-chorus-of-havoc.json) |
 | Skull Dash | 272553 | [272553-skull-dash.json](./272553-skull-dash.json) |
 | Skull Golf: Creation in Decay | 181714 | [181714-skull-golf-creation-in-decay.json](./181714-skull-golf-creation-in-decay.json) |
+| Skull Head World | 157408 | [157408-skull-head-world.json](./157408-skull-head-world.json) |
 | Skull Hotel | 347285 | [347285-skull-hotel.json](./347285-skull-hotel.json) |
 | Skull Island: Rise of Kong | 257674 | [257674-skull-island-rise-of-kong.json](./257674-skull-island-rise-of-kong.json) |
 | Skull Island: Rise of Kong - Colossal Pack | 272584 | [272584-skull-island-rise-of-kong-colossal-pack.json](./272584-skull-island-rise-of-kong-colossal-pack.json) |
@@ -8849,6 +8853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SlimeGear | 106389 | [106389-slimegear.json](./106389-slimegear.json) |
 | Slimegeon | 254145 | [254145-slimegeon.json](./254145-slimegeon.json) |
 | SlimeJumper: Ultimate Jump | 156639 | [156639-slimejumper-ultimate-jump.json](./156639-slimejumper-ultimate-jump.json) |
+| Slimekeep | 157387 | [157387-slimekeep.json](./157387-slimekeep.json) |
 | Slimelon | 300786 | [300786-slimelon.json](./300786-slimelon.json) |
 | Slimepatch | 392904 | [392904-slimepatch.json](./392904-slimepatch.json) |
 | Slimepocalypse | 340362 | [340362-slimepocalypse.json](./340362-slimepocalypse.json) |
@@ -9330,6 +9335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smerch Battle Arena | 158638 | [158638-smerch-battle-arena.json](./158638-smerch-battle-arena.json) |
 | Smetanka | 156213 | [156213-smetanka.json](./156213-smetanka.json) |
 | SMH | 277393 | [277393-smh.json](./277393-smh.json) |
+| SMIB: Mission Cure | 157415 | [157415-smib-mission-cure.json](./157415-smib-mission-cure.json) |
 | Smile | 129706 | [129706-smile.json](./129706-smile.json) |
 | Smile Dog | 361620 | [361620-smile-dog.json](./361620-smile-dog.json) |
 | Smile For Me: Collector's Edition | 229691 | [229691-smile-for-me-collectors-edition.json](./229691-smile-for-me-collectors-edition.json) |
@@ -12890,6 +12896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Nation Online | 258920 | [258920-space-nation-online.json](./258920-space-nation-online.json) |
 | Space Nature Attack Tower Defense | 287222 | [287222-space-nature-attack-tower-defense.json](./287222-space-nature-attack-tower-defense.json) |
 | Space Needle VR | 34139 | [34139-space-needle-vr.json](./34139-space-needle-vr.json) |
+| Space Ninja Simulator | 157404 | [157404-space-ninja-simulator.json](./157404-space-ninja-simulator.json) |
 | Space Odyssey | 24829 | [24829-space-odyssey.json](./24829-space-odyssey.json) |
 | Space on the Case | 310961 | [310961-space-on-the-case.json](./310961-space-on-the-case.json) |
 | Space One: Ascendant | 167226 | [167226-space-one-ascendant.json](./167226-space-one-ascendant.json) |
@@ -14724,6 +14731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport Freaks | 45906 | [45906-sport-freaks.json](./45906-sport-freaks.json) |
 | Sport Games | 45603 | [45603-sport-games.json](./45603-sport-games.json) |
 | Sport Girls | 157187 | [157187-sport-girls.json](./157187-sport-girls.json) |
+| Sport Shooter | 157411 | [157411-sport-shooter.json](./157411-sport-shooter.json) |
 | Sport Vii | 358825 | [358825-sport-vii.json](./358825-sport-vii.json) |
 | Sport Vii | 358826 | [358826-sport-vii.json](./358826-sport-vii.json) |
 | Sport Vii | 358827 | [358827-sport-vii.json](./358827-sport-vii.json) |
@@ -15229,6 +15237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirrel and Nuts | 239645 | [239645-squirrel-and-nuts.json](./239645-squirrel-and-nuts.json) |
 | Squirrel Bobble | 246392 | [246392-squirrel-bobble.json](./246392-squirrel-bobble.json) |
 | Squirrel Day | 278693 | [278693-squirrel-day.json](./278693-squirrel-day.json) |
+| Squirrel Divorce | 157409 | [157409-squirrel-divorce.json](./157409-squirrel-divorce.json) |
 | Squirrel Jump | 122165 | [122165-squirrel-jump.json](./122165-squirrel-jump.json) |
 | Squirrel Knight | 298145 | [298145-squirrel-knight.json](./298145-squirrel-knight.json) |
 | Squirrel Launcher | 230307 | [230307-squirrel-launcher.json](./230307-squirrel-launcher.json) |
@@ -17686,6 +17695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Gate | 296005 | [296005-stone-gate.json](./296005-stone-gate.json) |
 | Stone Giant | 95852 | [95852-stone-giant.json](./95852-stone-giant.json) |
 | Stone Harbor | 57494 | [57494-stone-harbor.json](./57494-stone-harbor.json) |
+| Stone it! | 157422 | [157422-stone-it.json](./157422-stone-it.json) |
 | Stone of Destiny | 242796 | [242796-stone-of-destiny.json](./242796-stone-of-destiny.json) |
 | Stone River | 167602 | [167602-stone-river.json](./167602-stone-river.json) |
 | Stone Story | 301604 | [301604-stone-story.json](./301604-stone-story.json) |
@@ -19788,6 +19798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Riders | 4370 | [4370-sunset-riders.json](./4370-sunset-riders.json) |
 | Sunset Routes | 224514 | [224514-sunset-routes.json](./224514-sunset-routes.json) |
 | Sunset Runner | 71147 | [71147-sunset-runner.json](./71147-sunset-runner.json) |
+| Sunset Shapes | 157384 | [157384-sunset-shapes.json](./157384-sunset-shapes.json) |
 | Sunset Shores | 294794 | [294794-sunset-shores.json](./294794-sunset-shores.json) |
 | Sunset Solitaire | 302071 | [302071-sunset-solitaire.json](./302071-sunset-solitaire.json) |
 | Sunset Sprout | 348460 | [348460-sunset-sprout.json](./348460-sunset-sprout.json) |
