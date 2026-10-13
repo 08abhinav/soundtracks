@@ -387,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarked up Omnibus: Clean - Fix - Escape | 372600 | [372600-quarked-up-omnibus-clean-fix-escape.json](./372600-quarked-up-omnibus-clean-fix-escape.json) |
 | Quarrel | 20659 | [20659-quarrel.json](./20659-quarrel.json) |
 | Quarrel Hill | 295330 | [295330-quarrel-hill.json](./295330-quarrel-hill.json) |
+| Quarres | 148864 | [148864-quarres.json](./148864-quarres.json) |
 | Quartal | 370145 | [370145-quartal.json](./370145-quartal.json) |
 | Quarter Back Scramble: American Football Game | 48823 | [48823-quarter-back-scramble-american-football-game.json](./48823-quarter-back-scramble-american-football-game.json) |
 | Quarter Dollar | 132678 | [132678-quarter-dollar.json](./132678-quarter-dollar.json) |
