@@ -4000,6 +4000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kutsushita Nyanko: Kutsushita o Haita Neko to Kurashi Hajime Mashita | 130723 | [130723-kutsushita-nyanko-kutsushita-o-haita-neko-to-kurashi-hajime-mashita.json](./130723-kutsushita-nyanko-kutsushita-o-haita-neko-to-kurashi-hajime-mashita.json) |
 | Kuubo Senki | 166657 | [166657-kuubo-senki.json](./166657-kuubo-senki.json) |
 | Kuudere Funk | 287742 | [287742-kuudere-funk.json](./287742-kuudere-funk.json) |
+| Kuukiyomi 1 2 3+ | 170791 | [170791-kuukiyomi-1-2-3.json](./170791-kuukiyomi-1-2-3.json) |
 | Kuukiyomi 2: Consider It More! - New Era | 135640 | [135640-kuukiyomi-2-consider-it-more-new-era.json](./135640-kuukiyomi-2-consider-it-more-new-era.json) |
 | Kuukiyomi 4: Consider It - Nintendo Switch 2 Edition | 378813 | [378813-kuukiyomi-4-consider-it-nintendo-switch-2-edition.json](./378813-kuukiyomi-4-consider-it-nintendo-switch-2-edition.json) |
 | Kuukiyomi: Consider It! Online | 187529 | [187529-kuukiyomi-consider-it-online.json](./187529-kuukiyomi-consider-it-online.json) |
@@ -4089,6 +4090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyuukyoku Mahjong | 37681 | [37681-kyuukyoku-mahjong.json](./37681-kyuukyoku-mahjong.json) |
 | Kyuukyoku Mahjong II | 37680 | [37680-kyuukyoku-mahjong-ii.json](./37680-kyuukyoku-mahjong-ii.json) |
 | Kyuukyoku Sentai Dadandarn | 40219 | [40219-kyuukyoku-sentai-dadandarn.json](./40219-kyuukyoku-sentai-dadandarn.json) |
+| Kyuukyoku Tiger | 170780 | [170780-kyuukyoku-tiger.json](./170780-kyuukyoku-tiger.json) |
 | Kyuukyoku Tiger II Plus | 66146 | [66146-kyuukyoku-tiger-ii-plus.json](./66146-kyuukyoku-tiger-ii-plus.json) |
 | Kyuusei Senjutsu Niyoru Heisei Kaiun Koyomi | 268510 | [268510-kyuusei-senjutsu-niyoru-heisei-kaiun-koyomi.json](./268510-kyuusei-senjutsu-niyoru-heisei-kaiun-koyomi.json) |
 | Kyvir: Rebirth | 144996 | [144996-kyvir-rebirth.json](./144996-kyvir-rebirth.json) |
