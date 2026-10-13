@@ -5728,6 +5728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiryou Sensen: War of the Dead | 42041 | [42041-shiryou-sensen-war-of-the-dead.json](./42041-shiryou-sensen-war-of-the-dead.json) |
 | Shiseido Beauty Solution Kaihatsu Center Kanshuu: Project Beauty | 220601 | [220601-shiseido-beauty-solution-kaihatsu-center-kanshuu-project-beauty.json](./220601-shiseido-beauty-solution-kaihatsu-center-kanshuu-project-beauty.json) |
 | Shisen-Sho Nikakudori | 147657 | [147657-shisen-sho-nikakudori.json](./147657-shisen-sho-nikakudori.json) |
+| Shisen-shou: Match-Mania | 154802 | [154802-shisen-shou-match-mania.json](./154802-shisen-shou-match-mania.json) |
 | Shisha: The Lost Souls | 205903 | [205903-shisha-the-lost-souls.json](./205903-shisha-the-lost-souls.json) |
 | Shishi: Timeless Prelude | 203715 | [203715-shishi-timeless-prelude.json](./203715-shishi-timeless-prelude.json) |
 | Shissou, Yankee Damashii | 295936 | [295936-shissou-yankee-damashii.json](./295936-shissou-yankee-damashii.json) |
