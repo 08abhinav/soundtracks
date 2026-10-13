@@ -10383,6 +10383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Spirit | 371256 | [371256-broken-spirit.json](./371256-broken-spirit.json) |
 | Broken Sword 2.5: The Return of the Templars | 125018 | [125018-broken-sword-2-5-the-return-of-the-templars.json](./125018-broken-sword-2-5-the-return-of-the-templars.json) |
 | Broken Sword 5: The Serpent's Curse | 2924 | [2924-broken-sword-5-the-serpents-curse.json](./2924-broken-sword-5-the-serpents-curse.json) |
+| Broken Sword 5: The Serpent's Curse - Premium Edition | 136170 | [136170-broken-sword-5-the-serpents-curse-premium-edition.json](./136170-broken-sword-5-the-serpents-curse-premium-edition.json) |
 | Broken Sword: Parzival’s Stone | 262650 | [262650-broken-sword-parzival-s-stone.json](./262650-broken-sword-parzival-s-stone.json) |
 | Broken Sword: Shadow of the Templars Reforged | 262651 | [262651-broken-sword-shadow-of-the-templars-reforged.json](./262651-broken-sword-shadow-of-the-templars-reforged.json) |
 | Broken Sword: The Shadow of the Templars | 206502 | [206502-broken-sword-the-shadow-of-the-templars.json](./206502-broken-sword-the-shadow-of-the-templars.json) |
