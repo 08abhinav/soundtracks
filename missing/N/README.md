@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nage Libre: Seijaku no Suishin | 37915 | [37915-nage-libre-seijaku-no-suishin.json](./37915-nage-libre-seijaku-no-suishin.json) |
 | Nagi no Koi | 304834 | [304834-nagi-no-koi.json](./304834-nagi-no-koi.json) |
 | NagiQ 2: Treasure Hunt | 239555 | [239555-nagiq-2-treasure-hunt.json](./239555-nagiq-2-treasure-hunt.json) |
+| NaGongGan Infinite | 165773 | [165773-nagonggan-infinite.json](./165773-nagonggan-infinite.json) |
 | Naheulbeuk's Dungeon Master | 252851 | [252851-naheulbeuks-dungeon-master.json](./252851-naheulbeuks-dungeon-master.json) |
 | Naheulbeuk's Dungeon Master: Steward Edition | 277029 | [277029-naheulbeuks-dungeon-master-steward-edition.json](./277029-naheulbeuks-dungeon-master-steward-edition.json) |
 | Nahi's Winter Holidate | 386736 | [386736-nahis-winter-holidate.json](./386736-nahis-winter-holidate.json) |
@@ -1661,6 +1662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Nexus | 301973 | [301973-neon-nexus.json](./301973-neon-nexus.json) |
 | Neon Nights | 159821 | [159821-neon-nights.json](./159821-neon-nights.json) |
 | Neon Nights 2 | 211676 | [211676-neon-nights-2.json](./211676-neon-nights-2.json) |
+| Neon Nights Pinball | 165765 | [165765-neon-nights-pinball.json](./165765-neon-nights-pinball.json) |
 | Neon Nirvana | 270118 | [270118-neon-nirvana.json](./270118-neon-nirvana.json) |
 | Neon On! | 290433 | [290433-neon-on.json](./290433-neon-on.json) |
 | Neon On!: Bright Edition | 304775 | [304775-neon-on-bright-edition.json](./304775-neon-on-bright-edition.json) |
@@ -2168,6 +2170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Magic Sword | 163906 | [163906-new-magic-sword.json](./163906-new-magic-sword.json) |
 | New Mario Kart Deluxe | 314574 | [314574-new-mario-kart-deluxe.json](./314574-new-mario-kart-deluxe.json) |
 | New Master Quest | 252059 | [252059-new-master-quest.json](./252059-new-master-quest.json) |
+| New Meaning | 165761 | [165761-new-meaning.json](./165761-new-meaning.json) |
 | New Meat | 329030 | [329030-new-meat.json](./329030-new-meat.json) |
 | New Nightmare Cafe 4 | 339222 | [339222-new-nightmare-cafe-4.json](./339222-new-nightmare-cafe-4.json) |
 | New Nightmare Cafe 5 | 339223 | [339223-new-nightmare-cafe-5.json](./339223-new-nightmare-cafe-5.json) |
@@ -3178,6 +3181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nika | 185456 | [185456-nika.json](./185456-nika.json) |
 | Nikakudori | 218983 | [218983-nikakudori.json](./218983-nikakudori.json) |
 | Nike+ Kinect Training | 21010 | [21010-nike-kinect-training.json](./21010-nike-kinect-training.json) |
+| Nikhil Murthy's Syphilisation | 165742 | [165742-nikhil-murthys-syphilisation.json](./165742-nikhil-murthys-syphilisation.json) |
 | Nikka: Rise | 235486 | [235486-nikka-rise.json](./235486-nikka-rise.json) |
 | Nikkan Berutomo Club | 64904 | [64904-nikkan-berutomo-club.json](./64904-nikkan-berutomo-club.json) |
 | Nikki no Tabisuru Quiz | 232905 | [232905-nikki-no-tabisuru-quiz.json](./232905-nikki-no-tabisuru-quiz.json) |
