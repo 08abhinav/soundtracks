@@ -7237,6 +7237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight School Walk | 211649 | [211649-midnight-school-walk.json](./211649-midnight-school-walk.json) |
 | Midnight Scour | 409752 | [409752-midnight-scour.json](./409752-midnight-scour.json) |
 | Midnight Serenade | 397426 | [397426-midnight-serenade.json](./397426-midnight-serenade.json) |
+| Midnight Shift | 177272 | [177272-midnight-shift.json](./177272-midnight-shift.json) |
 | Midnight Shift | 337663 | [337663-midnight-shift.json](./337663-midnight-shift.json) |
 | Midnight Shift Remake | 229767 | [229767-midnight-shift-remake.json](./229767-midnight-shift-remake.json) |
 | Midnight Shifts with Femboy | 400315 | [400315-midnight-shifts-with-femboy.json](./400315-midnight-shifts-with-femboy.json) |
@@ -7738,6 +7739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Over Matter | 209508 | [209508-mind-over-matter.json](./209508-mind-over-matter.json) |
 | Mind Over Melee Radio | 169768 | [169768-mind-over-melee-radio.json](./169768-mind-over-melee-radio.json) |
 | Mind Over Monarchy | 347339 | [347339-mind-over-monarchy.json](./347339-mind-over-monarchy.json) |
+| Mind Palace | 177267 | [177267-mind-palace.json](./177267-mind-palace.json) |
 | Mind Palace | 277775 | [277775-mind-palace.json](./277775-mind-palace.json) |
 | Mind Palace | 307594 | [307594-mind-palace.json](./307594-mind-palace.json) |
 | Mind Parasitic | 412901 | [412901-mind-parasitic.json](./412901-mind-parasitic.json) |
