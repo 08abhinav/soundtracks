@@ -6845,6 +6845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clown Camp | 346081 | [346081-clown-camp.json](./346081-clown-camp.json) |
 | Clown House | 90599 | [90599-clown-house.json](./90599-clown-house.json) |
 | Clown House: Lunacy | 381610 | [381610-clown-house-lunacy.json](./381610-clown-house-lunacy.json) |
+| Clown In a House | 152685 | [152685-clown-in-a-house.json](./152685-clown-in-a-house.json) |
 | Clown Is Hungry | 346783 | [346783-clown-is-hungry.json](./346783-clown-is-hungry.json) |
 | Clown Nightmare, Satan's Joke | 130175 | [130175-clown-nightmare-satans-joke.json](./130175-clown-nightmare-satans-joke.json) |
 | Clown Theft Auto: Woke City | 222958 | [222958-clown-theft-auto-woke-city.json](./222958-clown-theft-auto-woke-city.json) |
@@ -9968,6 +9969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Country House | 169983 | [169983-country-house.json](./169983-country-house.json) |
 | Country Life | 403094 | [403094-country-life.json](./403094-country-life.json) |
 | Country Life: Harvest Day | 403088 | [403088-country-life-harvest-day.json](./403088-country-life-harvest-day.json) |
+| Country of Cities | 152664 | [152664-country-of-cities.json](./152664-country-of-cities.json) |
 | Country of Snow | 408285 | [408285-country-of-snow.json](./408285-country-of-snow.json) |
 | Country Park | 105136 | [105136-country-park.json](./105136-country-park.json) |
 | Country Star | 292826 | [292826-country-star.json](./292826-country-star.json) |
@@ -10752,6 +10754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Flies | 31058 | [31058-crazy-flies.json](./31058-crazy-flies.json) |
 | Crazy Fluffy Slime Maker | 106369 | [106369-crazy-fluffy-slime-maker.json](./106369-crazy-fluffy-slime-maker.json) |
 | Crazy Flying Squirrel | 59248 | [59248-crazy-flying-squirrel.json](./59248-crazy-flying-squirrel.json) |
+| Crazy Foods | 152640 | [152640-crazy-foods.json](./152640-crazy-foods.json) |
 | Crazy for Speed 2 | 105872 | [105872-crazy-for-speed-2.json](./105872-crazy-for-speed-2.json) |
 | Crazy Forest 2 | 111684 | [111684-crazy-forest-2.json](./111684-crazy-forest-2.json) |
 | Crazy Freekick | 233555 | [233555-crazy-freekick.json](./233555-crazy-freekick.json) |
