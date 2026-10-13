@@ -2835,6 +2835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catjam | 419928 | [419928-catjam.json](./419928-catjam.json) |
 | Catjong 3: Purrl of the East | 393825 | [393825-catjong-3-purrl-of-the-east.json](./393825-catjong-3-purrl-of-the-east.json) |
 | Catlateral Damage | 17966 | [17966-catlateral-damage.json](./17966-catlateral-damage.json) |
+| Catlateral Damage: Remeowstered | 135589 | [135589-catlateral-damage-remeowstered.json](./135589-catlateral-damage-remeowstered.json) |
 | Catlateral Damage: VR | 170315 | [170315-catlateral-damage-vr.json](./170315-catlateral-damage-vr.json) |
 | Catlike Magic | 214116 | [214116-catlike-magic.json](./214116-catlike-magic.json) |
 | Catloaf 2600 | 93154 | [93154-catloaf-2600.json](./93154-catloaf-2600.json) |
@@ -6243,6 +6244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Ten Sides | 348804 | [348804-clash-of-ten-sides.json](./348804-clash-of-ten-sides.json) |
 | Clash of the Metal | 173298 | [173298-clash-of-the-metal.json](./173298-clash-of-the-metal.json) |
 | Clash of the Olympians | 384233 | [384233-clash-of-the-olympians.json](./384233-clash-of-the-olympians.json) |
+| Clash of the Talons | 135570 | [135570-clash-of-the-talons.json](./135570-clash-of-the-talons.json) |
 | Clash of the Undead | 231863 | [231863-clash-of-the-undead.json](./231863-clash-of-the-undead.json) |
 | Clash of Vikings | 382912 | [382912-clash-of-vikings.json](./382912-clash-of-vikings.json) |
 | Clash of Warlords | 153333 | [153333-clash-of-warlords.json](./153333-clash-of-warlords.json) |
@@ -12029,6 +12031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt of the Necrodancer: Amplified | 26613 | [26613-crypt-of-the-necrodancer-amplified.json](./26613-crypt-of-the-necrodancer-amplified.json) |
 | Crypt of the Necrodancer: Collector's Edition | 139866 | [139866-crypt-of-the-necrodancer-collectors-edition.json](./139866-crypt-of-the-necrodancer-collectors-edition.json) |
 | Crypt of the NecroDancer: Hatsune Miku | 295649 | [295649-crypt-of-the-necrodancer-hatsune-miku.json](./295649-crypt-of-the-necrodancer-hatsune-miku.json) |
+| Crypt of the Necrodancer: Nintendo Switch Edition | 135593 | [135593-crypt-of-the-necrodancer-nintendo-switch-edition.json](./135593-crypt-of-the-necrodancer-nintendo-switch-edition.json) |
 | Crypt of the Necrodancer: Shovel Knight | 376071 | [376071-crypt-of-the-necrodancer-shovel-knight.json](./376071-crypt-of-the-necrodancer-shovel-knight.json) |
 | Crypt of the Serpent King: Remastered - 4K Edition | 208456 | [208456-crypt-of-the-serpent-king-remastered-4k-edition.json](./208456-crypt-of-the-serpent-king-remastered-4k-edition.json) |
 | Crypt of the Undead | 24862 | [24862-crypt-of-the-undead.json](./24862-crypt-of-the-undead.json) |
