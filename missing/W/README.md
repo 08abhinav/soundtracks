@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walker | 377284 | [377284-walker.json](./377284-walker.json) |
 | Walkerman | 34830 | [34830-walkerman.json](./34830-walkerman.json) |
 | Walkerman: Act 2 - Herdchaser-girl | 171389 | [171389-walkerman-act-2-herdchaser-girl.json](./171389-walkerman-act-2-herdchaser-girl.json) |
+| Walkie Talkie | 176203 | [176203-walkie-talkie.json](./176203-walkie-talkie.json) |
 | Walkies | 238474 | [238474-walkies.json](./238474-walkies.json) |
 | Walking | 186108 | [186108-walking.json](./186108-walking.json) |
 | Walking Heavy | 61597 | [61597-walking-heavy.json](./61597-walking-heavy.json) |
@@ -4374,6 +4375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard of Wor | 282083 | [282083-wizard-of-wor.json](./282083-wizard-of-wor.json) |
 | Wizard of Wor | 282084 | [282084-wizard-of-wor.json](./282084-wizard-of-wor.json) |
 | Wizard of Wyndmoor | 241261 | [241261-wizard-of-wyndmoor.json](./241261-wizard-of-wyndmoor.json) |
+| Wizard Olympics | 176214 | [176214-wizard-olympics.json](./176214-wizard-olympics.json) |
 | Wizard Pinball | 19753 | [19753-wizard-pinball.json](./19753-wizard-pinball.json) |
 | Wizard Pool | 386287 | [386287-wizard-pool.json](./386287-wizard-pool.json) |
 | Wizard Pulse | 304573 | [304573-wizard-pulse.json](./304573-wizard-pulse.json) |
@@ -5975,6 +5977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wroom Wroom Puzzles | 261343 | [261343-wroom-wroom-puzzles.json](./261343-wroom-wroom-puzzles.json) |
 | Wroth | 271744 | [271744-wroth.json](./271744-wroth.json) |
 | WSC Real 08: World Snooker Championship | 5292 | [5292-wsc-real-08-world-snooker-championship.json](./5292-wsc-real-08-world-snooker-championship.json) |
+| Wsg | 176388 | [176388-wsg.json](./176388-wsg.json) |
 | WSOP | 93572 | [93572-wsop.json](./93572-wsop.json) |
 | WSYC Remix | 271992 | [271992-wsyc-remix.json](./271992-wsyc-remix.json) |
 | WTA Tour Tennis | 66701 | [66701-wta-tour-tennis.json](./66701-wta-tour-tennis.json) |
