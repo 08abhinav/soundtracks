@@ -5846,6 +5846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Fox | 102918 | [102918-lovely-fox.json](./102918-lovely-fox.json) |
 | Lovely Fracture | 183363 | [183363-lovely-fracture.json](./183363-lovely-fracture.json) |
 | Lovely Girl Puzzle | 118239 | [118239-lovely-girl-puzzle.json](./118239-lovely-girl-puzzle.json) |
+| Lovely Girls Puzzle | 163540 | [163540-lovely-girls-puzzle.json](./163540-lovely-girls-puzzle.json) |
 | Lovely Goddess | 155019 | [155019-lovely-goddess.json](./155019-lovely-goddess.json) |
 | Lovely Hentai | 126391 | [126391-lovely-hentai.json](./126391-lovely-hentai.json) |
 | Lovely Island | 109620 | [109620-lovely-island.json](./109620-lovely-island.json) |
@@ -5937,6 +5938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lowlife | 208016 | [208016-lowlife.json](./208016-lowlife.json) |
 | LowLife Forms | 304310 | [304310-lowlife-forms.json](./304310-lowlife-forms.json) |
 | LowPoly Towerdefense | 295009 | [295009-lowpoly-towerdefense.json](./295009-lowpoly-towerdefense.json) |
+| LowPolyExplorer | 163019 | [163019-lowpolyexplorer.json](./163019-lowpolyexplorer.json) |
 | LowRes Collection | 223632 | [223632-lowres-collection.json](./223632-lowres-collection.json) |
 | Lowrider | 43550 | [43550-lowrider.json](./43550-lowrider.json) |
 | Lowrider Hopping | 287087 | [287087-lowrider-hopping.json](./287087-lowrider-hopping.json) |
@@ -6572,9 +6574,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lutter | 41299 | [41299-lutter.json](./41299-lutter.json) |
 | Luvinia World | 23626 | [23626-luvinia-world.json](./23626-luvinia-world.json) |
 | Lux | 329071 | [329071-lux.json](./329071-lux.json) |
+| Lux Delux: American History Lux | 163034 | [163034-lux-delux-american-history-lux.json](./163034-lux-delux-american-history-lux.json) |
+| Lux Delux: Ancient Empires Lux | 163035 | [163035-lux-delux-ancient-empires-lux.json](./163035-lux-delux-ancient-empires-lux.json) |
 | Lux DLX 3 - Map Conquest Game | 96895 | [96895-lux-dlx-3-map-conquest-game.json](./96895-lux-dlx-3-map-conquest-game.json) |
 | Lux Ex: Cyber Initiation | 214190 | [214190-lux-ex-cyber-initiation.json](./214190-lux-ex-cyber-initiation.json) |
 | Lux Intacta | 217286 | [217286-lux-intacta.json](./217286-lux-intacta.json) |
+| Lux mina | 163036 | [163036-lux-mina.json](./163036-lux-mina.json) |
 | Lux Sine | 149030 | [149030-lux-sine.json](./149030-lux-sine.json) |
 | Lux umbra | 56595 | [56595-lux-umbra.json](./56595-lux-umbra.json) |
 | Lux: Dream.Girl | 280928 | [280928-lux-dream-girl.json](./280928-lux-dream-girl.json) |
