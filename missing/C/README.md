@@ -2865,6 +2865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats of the Qing Dynasty | 292435 | [292435-cats-of-the-qing-dynasty.json](./292435-cats-of-the-qing-dynasty.json) |
 | Cats of the Song Dynasty | 315299 | [315299-cats-of-the-song-dynasty.json](./315299-cats-of-the-song-dynasty.json) |
 | Cats on Duty | 257903 | [257903-cats-on-duty.json](./257903-cats-on-duty.json) |
+| Cats on Mars | 178884 | [178884-cats-on-mars.json](./178884-cats-on-mars.json) |
 | Cats on Streets | 275033 | [275033-cats-on-streets.json](./275033-cats-on-streets.json) |
 | Cats Ritual | 359998 | [359998-cats-ritual.json](./359998-cats-ritual.json) |
 | Cats Spotter | 264673 | [264673-cats-spotter.json](./264673-cats-spotter.json) |
@@ -6670,6 +6671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closing Doors | 368632 | [368632-closing-doors.json](./368632-closing-doors.json) |
 | Closing Shift | 279895 | [279895-closing-shift.json](./279895-closing-shift.json) |
 | Closing Shift | 412551 | [412551-closing-shift.json](./412551-closing-shift.json) |
+| Closing Spaces | 178898 | [178898-closing-spaces.json](./178898-closing-spaces.json) |
 | Closing Time | 260576 | [260576-closing-time.json](./260576-closing-time.json) |
 | Clostrophobia: Vol 1 | 293650 | [293650-clostrophobia-vol-1.json](./293650-clostrophobia-vol-1.json) |
 | Closure | 201622 | [201622-closure.json](./201622-closure.json) |
@@ -7160,6 +7162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Inc 2 | 193686 | [193686-coffee-inc-2.json](./193686-coffee-inc-2.json) |
 | Coffee Kiss | 179079 | [179079-coffee-kiss.json](./179079-coffee-kiss.json) |
 | Coffee Mafia | 112322 | [112322-coffee-mafia.json](./112322-coffee-mafia.json) |
+| Coffee Maker | 178886 | [178886-coffee-maker.json](./178886-coffee-maker.json) |
 | Coffee Noir | 27795 | [27795-coffee-noir.json](./27795-coffee-noir.json) |
 | Coffee Pack | 324419 | [324419-coffee-pack.json](./324419-coffee-pack.json) |
 | Coffee Pixes | 75060 | [75060-coffee-pixes.json](./75060-coffee-pixes.json) |
@@ -11570,6 +11573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowntakers | 10070 | [10070-crowntakers.json](./10070-crowntakers.json) |
 | Crows | 103426 | [103426-crows.json](./103426-crows.json) |
 | Crows Coming | 245018 | [245018-crows-coming.json](./245018-crows-coming.json) |
+| Crowscare | 178911 | [178911-crowscare.json](./178911-crowscare.json) |
 | Crowtel Renovations | 26723 | [26723-crowtel-renovations.json](./26723-crowtel-renovations.json) |
 | CRSED: Cuisine Royale | 231960 | [231960-crsed-cuisine-royale.json](./231960-crsed-cuisine-royale.json) |
 | CRSED: F.O.A.D. - Age of Nagual | 171062 | [171062-crsed-f-o-a-d-age-of-nagual.json](./171062-crsed-f-o-a-d-age-of-nagual.json) |
