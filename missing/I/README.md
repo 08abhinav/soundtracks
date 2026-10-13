@@ -1846,6 +1846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impromptu Trip | 285910 | [285910-impromptu-trip.json](./285910-impromptu-trip.json) |
 | Improvised Tactics | 373866 | [373866-improvised-tactics.json](./373866-improvised-tactics.json) |
 | Impulse | 137027 | [137027-impulse.json](./137027-impulse.json) |
+| Impulse Control | 133737 | [133737-impulse-control.json](./133737-impulse-control.json) |
 | Impulse Rogue | 199572 | [199572-impulse-rogue.json](./199572-impulse-rogue.json) |
 | Impulse, From Here! | 157513 | [157513-impulse-from-here.json](./157513-impulse-from-here.json) |
 | Impulse: Space Combat | 37035 | [37035-impulse-space-combat.json](./37035-impulse-space-combat.json) |
@@ -3966,6 +3967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Is it different or not? | 289249 | [289249-is-it-different-or-not.json](./289249-is-it-different-or-not.json) |
 | Is it Love ? Nicolae Vampire | 109023 | [109023-is-it-love-nicolae-vampire.json](./109023-is-it-love-nicolae-vampire.json) |
 | Is it Love? Blue Swan Hospital | 116392 | [116392-is-it-love-blue-swan-hospital.json](./116392-is-it-love-blue-swan-hospital.json) |
+| Is It Love? Stories | 133702 | [133702-is-it-love-stories.json](./133702-is-it-love-stories.json) |
 | Is it OK to pick up Anomalies at a University? | 301946 | [301946-is-it-ok-to-pick-up-anomalies-at-a-university.json](./301946-is-it-ok-to-pick-up-anomalies-at-a-university.json) |
 | Is It Wrong to Repay the Debt in a Dungeon? | 220040 | [220040-is-it-wrong-to-repay-the-debt-in-a-dungeon.json](./220040-is-it-wrong-to-repay-the-debt-in-a-dungeon.json) |
 | Is It Wrong to Try to Pick Up Girls in a Dungeon? Infinite Combate | 47160 | [47160-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-infinite-combate.json](./47160-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-infinite-combate.json) |
@@ -4269,6 +4271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ISS Pro Evolution | 28403 | [28403-iss-pro-evolution.json](./28403-iss-pro-evolution.json) |
 | ISS Simulator | 326411 | [326411-iss-simulator.json](./326411-iss-simulator.json) |
 | ISS: International Superstar Soccer | 220859 | [220859-iss-international-superstar-soccer.json](./220859-iss-international-superstar-soccer.json) |
+| Issho ni Asobo Koupen-chan | 133715 | [133715-issho-ni-asobo-koupen-chan.json](./133715-issho-ni-asobo-koupen-chan.json) |
 | Issho ni Asobo Koupen-chan | 144685 | [144685-issho-ni-asobo-koupen-chan.json](./144685-issho-ni-asobo-koupen-chan.json) |
 | Issho ni Henshin Fresh Pretty Cure | 327591 | [327591-issho-ni-henshin-fresh-pretty-cure.json](./327591-issho-ni-henshin-fresh-pretty-cure.json) |
 | Issunboushi no Donnamondai | 146261 | [146261-issunboushi-no-donnamondai.json](./146261-issunboushi-no-donnamondai.json) |
