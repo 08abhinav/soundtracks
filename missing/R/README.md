@@ -5057,6 +5057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise & Reign | 277277 | [277277-rise-and-reign.json](./277277-rise-and-reign.json) |
 | Rise & Shine | 6732 | [6732-rise-and-shine.json](./6732-rise-and-shine.json) |
 | Rise 2: Resurrection | 20256 | [20256-rise-2-resurrection.json](./20256-rise-2-resurrection.json) |
+| Rise 2.0 | 166841 | [166841-rise-2-0.json](./166841-rise-2-0.json) |
 | Rise Achlys | 337835 | [337835-rise-achlys.json](./337835-rise-achlys.json) |
 | Rise Again | 248885 | [248885-rise-again.json](./248885-rise-again.json) |
 | Rise and Fall | 138692 | [138692-rise-and-fall.json](./138692-rise-and-fall.json) |
@@ -8298,6 +8299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rust Onslaught | 341511 | [341511-rust-onslaught.json](./341511-rust-onslaught.json) |
 | Rust Racers | 133815 | [133815-rust-racers.json](./133815-rust-racers.json) |
 | Rust Racers 2D | 126026 | [126026-rust-racers-2d.json](./126026-rust-racers-2d.json) |
+| Rust Raiders | 166851 | [166851-rust-raiders.json](./166851-rust-raiders.json) |
 | Rust Rails | 267063 | [267063-rust-rails.json](./267063-rust-rails.json) |
 | Rust Rides | 373620 | [373620-rust-rides.json](./373620-rust-rides.json) |
 | Rust Rivalry | 305941 | [305941-rust-rivalry.json](./305941-rust-rivalry.json) |
