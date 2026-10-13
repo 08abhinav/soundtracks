@@ -533,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DanceMasters | 20121 | [20121-dancemasters.json](./20121-dancemasters.json) |
 | DanceMela | 346162 | [346162-dancemela.json](./346162-dancemela.json) |
 | Dancerush Stardom | 108988 | [108988-dancerush-stardom.json](./108988-dancerush-stardom.json) |
+| Dances and Girls | 160084 | [160084-dances-and-girls.json](./160084-dances-and-girls.json) |
 | Dances with Butterflies VR | 117088 | [117088-dances-with-butterflies-vr.json](./117088-dances-with-butterflies-vr.json) |
 | DanceStar: Party Hits | 44595 | [44595-dancestar-party-hits.json](./44595-dancestar-party-hits.json) |
 | Danchi Days | 321579 | [321579-danchi-days.json](./321579-danchi-days.json) |
@@ -963,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Dive: The Last Tropic | 277021 | [277021-dark-dive-the-last-tropic.json](./277021-dark-dive-the-last-tropic.json) |
 | Dark Divinity: The Calling | 196545 | [196545-dark-divinity-the-calling.json](./196545-dark-divinity-the-calling.json) |
 | Dark Doll | 415503 | [415503-dark-doll.json](./415503-dark-doll.json) |
+| Dark Dragonkin | 160066 | [160066-dark-dragonkin.json](./160066-dark-dragonkin.json) |
 | Dark Drive | 95620 | [95620-dark-drive.json](./95620-dark-drive.json) |
 | Dark Dungeon Feminized | 334340 | [334340-dark-dungeon-feminized.json](./334340-dark-dungeon-feminized.json) |
 | Dark Dynasty: The Siege of Londor | 317522 | [317522-dark-dynasty-the-siege-of-londor.json](./317522-dark-dynasty-the-siege-of-londor.json) |
@@ -1296,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Zodiac | 343338 | [343338-dark-zodiac.json](./343338-dark-zodiac.json) |
 | Dark Zone | 128983 | [128983-dark-zone.json](./128983-dark-zone.json) |
 | Dark Zone Defense | 125439 | [125439-dark-zone-defense.json](./125439-dark-zone-defense.json) |
+| DarkAir | 160094 | [160094-darkair.json](./160094-darkair.json) |
 | DarkAndLight | 280362 | [280362-darkandlight.json](./280362-darkandlight.json) |
 | Darkanoid | 143961 | [143961-darkanoid.json](./143961-darkanoid.json) |
 | DarkBase 01 | 255667 | [255667-darkbase-01.json](./255667-darkbase-01.json) |
