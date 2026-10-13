@@ -4787,6 +4787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in the Outback | 226215 | [226215-alone-in-the-outback.json](./226215-alone-in-the-outback.json) |
 | Alone in the School | 302385 | [302385-alone-in-the-school.json](./302385-alone-in-the-school.json) |
 | Alone in the Stars: Survivor | 334886 | [334886-alone-in-the-stars-survivor.json](./334886-alone-in-the-stars-survivor.json) |
+| Alone Journey | 133150 | [133150-alone-journey.json](./133150-alone-journey.json) |
 | Alone K.W. | 33539 | [33539-alone-k-w.json](./33539-alone-k-w.json) |
 | Alone Musc | 186700 | [186700-alone-musc.json](./186700-alone-musc.json) |
 | Alone on Mars | 165544 | [165544-alone-on-mars.json](./165544-alone-on-mars.json) |
@@ -6987,6 +6988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antarah | 326691 | [326691-antarah.json](./326691-antarah.json) |
 | Antarctic Adventure | 239172 | [239172-antarctic-adventure.json](./239172-antarctic-adventure.json) |
 | Antarctic Girl | 127922 | [127922-antarctic-girl.json](./127922-antarctic-girl.json) |
+| Antarctic Heritage Trust | 133114 | [133114-antarctic-heritage-trust.json](./133114-antarctic-heritage-trust.json) |
 | Antarctic Tales Enhanced Edition | 268511 | [268511-antarctic-tales-enhanced-edition.json](./268511-antarctic-tales-enhanced-edition.json) |
 | Antares | 125343 | [125343-antares.json](./125343-antares.json) |
 | Antares | 132727 | [132727-antares.json](./132727-antares.json) |
@@ -7392,6 +7394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apogea | 311753 | [311753-apogea.json](./311753-apogea.json) |
 | Apogee | 387719 | [387719-apogee.json](./387719-apogee.json) |
 | Apogee Games: Companion CD-ROM | 119059 | [119059-apogee-games-companion-cd-rom.json](./119059-apogee-games-companion-cd-rom.json) |
+| Apokalipso | 133105 | [133105-apokalipso.json](./133105-apokalipso.json) |
 | Apokalypsis | 30817 | [30817-apokalypsis.json](./30817-apokalypsis.json) |
 | Apollo 11 VR | 33145 | [33145-apollo-11-vr.json](./33145-apollo-11-vr.json) |
 | Apollo 11 VR HD | 111144 | [111144-apollo-11-vr-hd.json](./111144-apollo-11-vr-hd.json) |
