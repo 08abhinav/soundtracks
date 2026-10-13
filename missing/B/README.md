@@ -4783,6 +4783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Boo's Haunt | 308230 | [308230-big-boos-haunt.json](./308230-big-boos-haunt.json) |
 | Big Boo's Revenge | 261431 | [261431-big-boos-revenge.json](./261431-big-boos-revenge.json) |
 | Big Booty Adventures | 186312 | [186312-big-booty-adventures.json](./186312-big-booty-adventures.json) |
+| Big Boy Boxing | 145410 | [145410-big-boy-boxing.json](./145410-big-boy-boxing.json) |
 | Big Brave | 91440 | [91440-big-brave.json](./91440-big-brave.json) |
 | Big Breakfast 2 | 416846 | [416846-big-breakfast-2.json](./416846-big-breakfast-2.json) |
 | Big Brother | 201165 | [201165-big-brother.json](./201165-big-brother.json) |
@@ -5515,6 +5516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdwatching | 390738 | [390738-birdwatching.json](./390738-birdwatching.json) |
 | Birdwatching Notebook | 377414 | [377414-birdwatching-notebook.json](./377414-birdwatching-notebook.json) |
 | BiriBiriBeat | 227995 | [227995-biribiribeat.json](./227995-biribiribeat.json) |
+| Birk's Adventure | 145408 | [145408-birks-adventure.json](./145408-birks-adventure.json) |
 | Birkanoid | 178547 | [178547-birkanoid.json](./178547-birkanoid.json) |
 | Birmingham City Club Football 2005 | 267894 | [267894-birmingham-city-club-football-2005.json](./267894-birmingham-city-club-football-2005.json) |
 | Birmingham's Ghosts: Fear and Loathing | 248675 | [248675-birminghams-ghosts-fear-and-loathing.json](./248675-birminghams-ghosts-fear-and-loathing.json) |
@@ -6317,6 +6319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasphemous II: Digital Deluxe Edition | 259135 | [259135-blasphemous-ii-digital-deluxe-edition.json](./259135-blasphemous-ii-digital-deluxe-edition.json) |
 | Blasphemous II: Mea Culpa | 317595 | [317595-blasphemous-ii-mea-culpa.json](./317595-blasphemous-ii-mea-culpa.json) |
 | Blasphemous II: The Third Sin | 404910 | [404910-blasphemous-ii-the-third-sin.json](./404910-blasphemous-ii-the-third-sin.json) |
+| Blasphemous: Deluxe Edition | 146038 | [146038-blasphemous-deluxe-edition.json](./146038-blasphemous-deluxe-edition.json) |
 | Blasphemous: Digital Deluxe Edition | 227410 | [227410-blasphemous-digital-deluxe-edition.json](./227410-blasphemous-digital-deluxe-edition.json) |
 | Blasphemous: Strife & Ruin | 229861 | [229861-blasphemous-strife-and-ruin.json](./229861-blasphemous-strife-and-ruin.json) |
 | Blasphemous: Wounds of Eventide | 165391 | [165391-blasphemous-wounds-of-eventide.json](./165391-blasphemous-wounds-of-eventide.json) |
@@ -8079,6 +8082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb | 36309 | [36309-bomb.json](./36309-bomb.json) |
 | Bomb Ace | 362431 | [362431-bomb-ace.json](./362431-bomb-ace.json) |
 | Bomb Around | 332397 | [332397-bomb-around.json](./332397-bomb-around.json) |
+| Bomb Bee N | 145395 | [145395-bomb-bee-n.json](./145395-bomb-bee-n.json) |
 | Bomb Bomb Bomb | 248900 | [248900-bomb-bomb-bomb.json](./248900-bomb-bomb-bomb.json) |
 | Bomb Bots Arena | 115134 | [115134-bomb-bots-arena.json](./115134-bomb-bots-arena.json) |
 | Bomb Bowling | 307307 | [307307-bomb-bowling.json](./307307-bomb-bowling.json) |
