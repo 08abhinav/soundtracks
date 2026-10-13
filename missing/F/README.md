@@ -5600,6 +5600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Doggy | 270571 | [270571-flying-doggy.json](./270571-flying-doggy.json) |
 | Flying Feathers | 13847 | [13847-flying-feathers.json](./13847-flying-feathers.json) |
 | Flying Fish Quest | 192313 | [192313-flying-fish-quest.json](./192313-flying-fish-quest.json) |
+| Flying Fortress II | 172651 | [172651-flying-fortress-ii.json](./172651-flying-fortress-ii.json) |
 | Flying Frags World Tour | 156070 | [156070-flying-frags-world-tour.json](./156070-flying-frags-world-tour.json) |
 | Flying Frogs | 209462 | [209462-flying-frogs.json](./209462-flying-frogs.json) |
 | Flying Frogs | 301991 | [301991-flying-frogs.json](./301991-flying-frogs.json) |
@@ -7500,6 +7501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Wars | 6060 | [6060-freedom-wars.json](./6060-freedom-wars.json) |
 | Freedom Wars Remastered | 317086 | [317086-freedom-wars-remastered.json](./317086-freedom-wars-remastered.json) |
 | Freedom: A Time to Reckon | 72350 | [72350-freedom-a-time-to-reckon.json](./72350-freedom-a-time-to-reckon.json) |
+| Freedom! | 172422 | [172422-freedom.json](./172422-freedom.json) |
 | Freedom! Do or Die | 168122 | [168122-freedom-do-or-die.json](./168122-freedom-do-or-die.json) |
 | Freedom's Eye | 188984 | [188984-freedoms-eye.json](./188984-freedoms-eye.json) |
 | FreedomBot | 391577 | [391577-freedombot.json](./391577-freedombot.json) |
