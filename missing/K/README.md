@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamek's Midnight Flight | 250035 | [250035-kameks-midnight-flight.json](./250035-kameks-midnight-flight.json) |
 | Kameleon | 185452 | [185452-kameleon.json](./185452-kameleon.json) |
 | Kamen no Maid Guy: Boyoyon Battle Royale | 44497 | [44497-kamen-no-maid-guy-boyoyon-battle-royale.json](./44497-kamen-no-maid-guy-boyoyon-battle-royale.json) |
+| Kamen no Ninja Hanamaru | 154805 | [154805-kamen-no-ninja-hanamaru.json](./154805-kamen-no-ninja-hanamaru.json) |
 | Kamen Rider 555 | 43424 | [43424-kamen-rider-555.json](./43424-kamen-rider-555.json) |
 | Kamen Rider Agito | 43864 | [43864-kamen-rider-agito.json](./43864-kamen-rider-agito.json) |
 | Kamen Rider Agito & Kuuga: Wild Battle | 62742 | [62742-kamen-rider-agito-and-kuuga-wild-battle.json](./62742-kamen-rider-agito-and-kuuga-wild-battle.json) |
@@ -3372,6 +3373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konami's Open Golf Championship | 137407 | [137407-konamis-open-golf-championship.json](./137407-konamis-open-golf-championship.json) |
 | Konami's Ping Pong | 46832 | [46832-konamis-ping-pong.json](./46832-konamis-ping-pong.json) |
 | Konamic Tennis | 41322 | [41322-konamic-tennis.json](./41322-konamic-tennis.json) |
+| Konaste Gitadora | 154842 | [154842-konaste-gitadora.json](./154842-konaste-gitadora.json) |
 | Konbini Baito to Stalker | 322117 | [322117-konbini-baito-to-stalker.json](./322117-konbini-baito-to-stalker.json) |
 | Konbini Life | 178879 | [178879-konbini-life.json](./178879-konbini-life.json) |
 | Konchi | 340889 | [340889-konchi.json](./340889-konchi.json) |
