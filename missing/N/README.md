@@ -639,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natural Craft | 277570 | [277570-natural-craft.json](./277570-natural-craft.json) |
 | Natural Disasters | 211716 | [211716-natural-disasters.json](./211716-natural-disasters.json) |
 | Natural Fawn killers | 77401 | [77401-natural-fawn-killers.json](./77401-natural-fawn-killers.json) |
+| Natural Habitat | 154261 | [154261-natural-habitat.json](./154261-natural-habitat.json) |
 | Natural Landscape: Guilin Landscape | 86416 | [86416-natural-landscape-guilin-landscape.json](./86416-natural-landscape-guilin-landscape.json) |
 | Natural Landscape: Three Gorges | 90214 | [90214-natural-landscape-three-gorges.json](./90214-natural-landscape-three-gorges.json) |
 | Natural Pressures | 265670 | [265670-natural-pressures.json](./265670-natural-pressures.json) |
