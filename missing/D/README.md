@@ -1256,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tales: Mirror and Mad Princess | 252034 | [252034-dark-tales-mirror-and-mad-princess.json](./252034-dark-tales-mirror-and-mad-princess.json) |
 | Dark Tank | 320836 | [320836-dark-tank.json](./320836-dark-tank.json) |
 | Dark Tartarus | 260950 | [260950-dark-tartarus.json](./260950-dark-tartarus.json) |
+| Dark Temple | 164569 | [164569-dark-temple.json](./164569-dark-temple.json) |
 | Dark Theme Bundle | 265191 | [265191-dark-theme-bundle.json](./265191-dark-theme-bundle.json) |
 | Dark Throne | 29597 | [29597-dark-throne.json](./29597-dark-throne.json) |
 | Dark Throne | 303074 | [303074-dark-throne.json](./303074-dark-throne.json) |
