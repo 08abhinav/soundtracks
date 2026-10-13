@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daedalian Opus | 48951 | [48951-daedalian-opus.json](./48951-daedalian-opus.json) |
 | Daedalic Complex | 111465 | [111465-daedalic-complex.json](./111465-daedalic-complex.json) |
 | Daedalus | 282003 | [282003-daedalus.json](./282003-daedalus.json) |
+| Daedalus Demise | 144081 | [144081-daedalus-demise.json](./144081-daedalus-demise.json) |
 | Daedalus Versus Minotaur | 250345 | [250345-daedalus-versus-minotaur.json](./250345-daedalus-versus-minotaur.json) |
 | Daedalus: Alien Defense | 140561 | [140561-daedalus-alien-defense.json](./140561-daedalus-alien-defense.json) |
 | Daegeonmulju: Geonmulju Kiugi | 239012 | [239012-daegeonmulju-geonmulju-kiugi.json](./239012-daegeonmulju-geonmulju-kiugi.json) |
@@ -3936,6 +3937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltatraveler: Section 2 | 307811 | [307811-deltatraveler-section-2.json](./307811-deltatraveler-section-2.json) |
 | Deltatraveler: Section 3 | 307815 | [307815-deltatraveler-section-3.json](./307815-deltatraveler-section-3.json) |
 | Deltatraveler: Section 4 | 315072 | [315072-deltatraveler-section-4.json](./315072-deltatraveler-section-4.json) |
+| Deltazone Reloaded | 144082 | [144082-deltazone-reloaded.json](./144082-deltazone-reloaded.json) |
 | Deltora Quest | 47936 | [47936-deltora-quest.json](./47936-deltora-quest.json) |
 | Delucid | 390254 | [390254-delucid.json](./390254-delucid.json) |
 | Deluge | 351644 | [351644-deluge.json](./351644-deluge.json) |
@@ -4769,6 +4771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Armory Collection | 243051 | [243051-destiny-2-armory-collection.json](./243051-destiny-2-armory-collection.json) |
 | Destiny 2: Beyond Light | 134830 | [134830-destiny-2-beyond-light.json](./134830-destiny-2-beyond-light.json) |
 | Destiny 2: Beyond Light - Deluxe Edition | 139825 | [139825-destiny-2-beyond-light-deluxe-edition.json](./139825-destiny-2-beyond-light-deluxe-edition.json) |
+| Destiny 2: Beyond Light - Season of the Chosen | 144047 | [144047-destiny-2-beyond-light-season-of-the-chosen.json](./144047-destiny-2-beyond-light-season-of-the-chosen.json) |
 | Destiny 2: Beyond Light - Season of the Hunt | 140978 | [140978-destiny-2-beyond-light-season-of-the-hunt.json](./140978-destiny-2-beyond-light-season-of-the-hunt.json) |
 | Destiny 2: Black Armory | 112408 | [112408-destiny-2-black-armory.json](./112408-destiny-2-black-armory.json) |
 | Destiny 2: Digital Deluxe Edition | 52887 | [52887-destiny-2-digital-deluxe-edition.json](./52887-destiny-2-digital-deluxe-edition.json) |
@@ -6820,6 +6823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Toy Story | 198945 | [198945-disneys-toy-story.json](./198945-disneys-toy-story.json) |
 | Disney's Toy Story | 228497 | [228497-disneys-toy-story.json](./228497-disneys-toy-story.json) |
 | Disney's Toy Story | 8020 | [8020-disneys-toy-story.json](./8020-disneys-toy-story.json) |
+| Disney's Treasure Planet | 144084 | [144084-disneys-treasure-planet.json](./144084-disneys-treasure-planet.json) |
 | Disney's Treasure Planet: Broadside Blast | 213035 | [213035-disneys-treasure-planet-broadside-blast.json](./213035-disneys-treasure-planet-broadside-blast.json) |
 | Disney's Treasure Planet: Etherium Rescue | 213037 | [213037-disneys-treasure-planet-etherium-rescue.json](./213037-disneys-treasure-planet-etherium-rescue.json) |
 | Disney's Treasure Planet: Treasure Racer | 213025 | [213025-disneys-treasure-planet-treasure-racer.json](./213025-disneys-treasure-planet-treasure-racer.json) |
@@ -11777,6 +11781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Mutt | 386236 | [386236-dungeon-mutt.json](./386236-dungeon-mutt.json) |
 | Dungeon ni Seisoku Da! | 381695 | [381695-dungeon-ni-seisoku-da.json](./381695-dungeon-ni-seisoku-da.json) |
 | Dungeon Nightmares | 57070 | [57070-dungeon-nightmares.json](./57070-dungeon-nightmares.json) |
+| Dungeon No Dungeon | 144019 | [144019-dungeon-no-dungeon.json](./144019-dungeon-no-dungeon.json) |
 | Dungeon No Dungeon: Blood Knight | 171023 | [171023-dungeon-no-dungeon-blood-knight.json](./171023-dungeon-no-dungeon-blood-knight.json) |
 | Dungeon No Dungeon: Reaper | 171022 | [171022-dungeon-no-dungeon-reaper.json](./171022-dungeon-no-dungeon-reaper.json) |
 | Dungeon No Dungeon: Tyrant's Endgame | 253968 | [253968-dungeon-no-dungeon-tyrants-endgame.json](./253968-dungeon-no-dungeon-tyrants-endgame.json) |
