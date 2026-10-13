@@ -5496,6 +5496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hobo 3: Wanted | 294723 | [294723-hobo-3-wanted.json](./294723-hobo-3-wanted.json) |
 | Hobo 4: Total War | 294724 | [294724-hobo-4-total-war.json](./294724-hobo-4-total-war.json) |
 | Hobo Brawl | 237478 | [237478-hobo-brawl.json](./237478-hobo-brawl.json) |
+| Hobo Cat Adventures | 149396 | [149396-hobo-cat-adventures.json](./149396-hobo-cat-adventures.json) |
 | Hobo Soccer | 92594 | [92594-hobo-soccer.json](./92594-hobo-soccer.json) |
 | Hobo with a Shotgun | 63872 | [63872-hobo-with-a-shotgun.json](./63872-hobo-with-a-shotgun.json) |
 | Hobo: Life Business Simulator | 234009 | [234009-hobo-life-business-simulator.json](./234009-hobo-life-business-simulator.json) |
