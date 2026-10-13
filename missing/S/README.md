@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacrifices | 279897 | [279897-sacrifices.json](./279897-sacrifices.json) |
 | Sacrifices | 330126 | [330126-sacrifices.json](./330126-sacrifices.json) |
 | Sacrifices Must Be Made | 182849 | [182849-sacrifices-must-be-made.json](./182849-sacrifices-must-be-made.json) |
+| Sacrifices must be made, but... | 135715 | [135715-sacrifices-must-be-made-but.json](./135715-sacrifices-must-be-made-but.json) |
 | Sacrificial Run | 183294 | [183294-sacrificial-run.json](./183294-sacrificial-run.json) |
 | Sacrifights | 120907 | [120907-sacrifights.json](./120907-sacrifights.json) |
 | SacriFire | 152268 | [152268-sacrifire.json](./152268-sacrifire.json) |
@@ -598,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura no Mori Dreamers | 75788 | [75788-sakura-no-mori-dreamers.json](./75788-sakura-no-mori-dreamers.json) |
 | Sakura no Mori Dreamers 2 | 114824 | [114824-sakura-no-mori-dreamers-2.json](./114824-sakura-no-mori-dreamers-2.json) |
 | Sakura no Sora to, Kimi no Koto: Sweet Petals For My Dear | 213832 | [213832-sakura-no-sora-to-kimi-no-koto-sweet-petals-for-my-dear.json](./213832-sakura-no-sora-to-kimi-no-koto-sweet-petals-for-my-dear.json) |
+| Sakura no Uta: Sakura no Mori no Ue wo Mau | 135568 | [135568-sakura-no-uta-sakura-no-mori-no-ue-wo-mau.json](./135568-sakura-no-uta-sakura-no-mori-no-ue-wo-mau.json) |
 | Sakura no Uta: To Dance Over the Cherry Blossoms | 409704 | [409704-sakura-no-uta-to-dance-over-the-cherry-blossoms.json](./409704-sakura-no-uta-to-dance-over-the-cherry-blossoms.json) |
 | Sakura Note: Ima ni Tsunagaru Mirai | 123409 | [123409-sakura-note-ima-ni-tsunagaru-mirai.json](./123409-sakura-note-ima-ni-tsunagaru-mirai.json) |
 | Sakura Peak | 389068 | [389068-sakura-peak.json](./389068-sakura-peak.json) |
@@ -14744,6 +14746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spookitchen | 350595 | [350595-spookitchen.json](./350595-spookitchen.json) |
 | Spookity Hollow | 170549 | [170549-spookity-hollow.json](./170549-spookity-hollow.json) |
 | Spooklands | 61064 | [61064-spooklands.json](./61064-spooklands.json) |
+| Spooks | 135717 | [135717-spooks.json](./135717-spooks.json) |
 | Spookshow | 371956 | [371956-spookshow.json](./371956-spookshow.json) |
 | Spookulele | 204715 | [204715-spookulele.json](./204715-spookulele.json) |
 | Spookware: Watch Party | 189180 | [189180-spookware-watch-party.json](./189180-spookware-watch-party.json) |
@@ -17058,6 +17061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam and Metal | 36139 | [36139-steam-and-metal.json](./36139-steam-and-metal.json) |
 | Steam and Sacrilege | 57493 | [57493-steam-and-sacrilege.json](./57493-steam-and-sacrilege.json) |
 | Steam Bandits: Outpost | 30368 | [30368-steam-bandits-outpost.json](./30368-steam-bandits-outpost.json) |
+| Steam Chain | 135567 | [135567-steam-chain.json](./135567-steam-chain.json) |
 | Steam Girls | 410406 | [410406-steam-girls.json](./410406-steam-girls.json) |
 | Steam Heroes | 10926 | [10926-steam-heroes.json](./10926-steam-heroes.json) |
 | Steam Highwayman | 174265 | [174265-steam-highwayman.json](./174265-steam-highwayman.json) |
@@ -21758,6 +21762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Soccer | 235103 | [235103-super-soccer.json](./235103-super-soccer.json) |
 | Super Soccer | 292605 | [292605-super-soccer.json](./292605-super-soccer.json) |
 | Super Soccer | 346772 | [346772-super-soccer.json](./346772-super-soccer.json) |
+| Super Soccer Blast | 135585 | [135585-super-soccer-blast.json](./135585-super-soccer-blast.json) |
 | Super Soccer Champ | 38394 | [38394-super-soccer-champ.json](./38394-super-soccer-champ.json) |
 | Super Soccer Jump | 103410 | [103410-super-soccer-jump.json](./103410-super-soccer-jump.json) |
 | Super Sokoban | 38291 | [38291-super-sokoban.json](./38291-super-sokoban.json) |
@@ -22711,6 +22716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Battle Rambunctiously | 267685 | [267685-sushi-battle-rambunctiously.json](./267685-sushi-battle-rambunctiously.json) |
 | Sushi Belt | 181226 | [181226-sushi-belt.json](./181226-sushi-belt.json) |
 | Sushi Ben VR | 152219 | [152219-sushi-ben-vr.json](./152219-sushi-ben-vr.json) |
+| Sushi Break | 135577 | [135577-sushi-break.json](./135577-sushi-break.json) |
 | Sushi Break: Head to Head | 214697 | [214697-sushi-break-head-to-head.json](./214697-sushi-break-head-to-head.json) |
 | Sushi Cat | 87214 | [87214-sushi-cat.json](./87214-sushi-cat.json) |
 | Sushi Cat 2 | 323934 | [323934-sushi-cat-2.json](./323934-sushi-cat-2.json) |
