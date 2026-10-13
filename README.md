@@ -1011,6 +1011,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f156d74f3617e3c795ab2dd" width="60" /> | [Subnautica](https://ostdb.net/games/subnautica) | **Subnautica (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6ErjoGBl4xj1AfgPjcAYsk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb078bc6992ab6ad7ca6179a" width="60" /> | [Subway Surfers](https://ostdb.net/games/subway-surfers) | **12 YEARS 12 TRACKS** · [Spotify](https://open.spotify.com/album/3bW6NzfeUmX81nZBMUecOi) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c0/95/3d/c0953db0-a621-8d90-5dd6-3bb3a10ce30d/794043215148.jpg/600x600bb.jpg" width="60" /> | [Suicide Squad: Kill the Justice League](https://ostdb.net/games/suicide-squad-kill-the-justice-league) | **Suicide Squad: Kill the Justice League (Original Video Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/suicide-squad-kill-the-justice-league-original-video/1725044347?uo=4) · [Album](https://album.link/i/1725044347) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738c00fe7d4feb024327a452cc" width="60" /> | [Sunset Overdrive](https://ostdb.net/games/sunset-overdrive) | **Sunset Overdrive Original Soundtrack: Best of Sunset Overdrive Music** · [Spotify](https://open.spotify.com/album/70kaIuCoHOZ11adVwGQroA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f88548922a8a837046148789" width="60" /> | [Super Mario 3D Land](https://ostdb.net/games/super-mario-3d-land) | **Super Mario 3D Land, The Themes** · [Spotify](https://open.spotify.com/album/6yEX4lbfm1gSYXeSt6rYxF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d768f68ef75bb33647a7597a" width="60" /> | [Super Mario 3D World](https://ostdb.net/games/super-mario-3d-world) | **Super Mario 3D World - Covers** · [Spotify](https://open.spotify.com/album/3m1wKJh2NEOzm6L4M4iLJu)<br>**Super Mario 3D World - Covers, Pt. 2** · [Spotify](https://open.spotify.com/album/2HlGQzkTK599eW2HXBGcRy)<br>**Super Mario 3D World - Piano Covers** · [Spotify](https://open.spotify.com/album/08YIoqdWkIs1HWVSeiPh5c) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731134e6b97732064715dd8029" width="60" /> | [Super Mario Sunshine](https://ostdb.net/games/super-mario-sunshine) | **Super Mario Sunshine, Iconic Themes** · [Spotify](https://open.spotify.com/album/7gEz7Nz4vWrA1iCXKKjdMI)<br>**Super Mario Sunshine: Iconic Themes, Vol. 2** · [Spotify](https://open.spotify.com/album/5LvyFBNsFGml16qpa1hyHI) |
@@ -1277,4 +1278,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1602 soundtracks · last updated 2026-10-13T19:36:16.167Z_
+_1603 soundtracks · last updated 2026-10-13T19:36:33.550Z_
