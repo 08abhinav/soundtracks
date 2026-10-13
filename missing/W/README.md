@@ -2289,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werner: Let's Go! | 269305 | [269305-werner-lets-go.json](./269305-werner-lets-go.json) |
 | Werthit | 342888 | [342888-werthit.json](./342888-werthit.json) |
 | Wes Craven's Principles of Fear | 291017 | [291017-wes-cravens-principles-of-fear.json](./291017-wes-cravens-principles-of-fear.json) |
+| Wesprau Senki | 167351 | [167351-wesprau-senki.json](./167351-wesprau-senki.json) |
 | West | 389685 | [389685-west.json](./389685-west.json) |
 | West Adventure | 94387 | [94387-west-adventure.json](./94387-west-adventure.json) |
 | West Alien Train | 308361 | [308361-west-alien-train.json](./308361-west-alien-train.json) |
