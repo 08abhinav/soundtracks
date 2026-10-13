@@ -1599,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Squadron: WWII Conflicts | 223931 | [223931-ace-squadron-wwii-conflicts.json](./223931-ace-squadron-wwii-conflicts.json) |
 | Ace Squared | 337793 | [337793-ace-squared.json](./337793-ace-squared.json) |
 | Ace Strategy Mecha Nova | 335857 | [335857-ace-strategy-mecha-nova.json](./335857-ace-strategy-mecha-nova.json) |
+| Ace Strike | 147759 | [147759-ace-strike.json](./147759-ace-strike.json) |
 | Ace Tennis 64 | 180516 | [180516-ace-tennis-64.json](./180516-ace-tennis-64.json) |
 | Ace the Space-Case | 76194 | [76194-ace-the-space-case.json](./76194-ace-the-space-case.json) |
 | Ace Triad | 283890 | [283890-ace-triad.json](./283890-ace-triad.json) |
@@ -5320,6 +5321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America Oudan Ultra Quiz: Part 4 | 282822 | [282822-america-oudan-ultra-quiz-part-4.json](./282822-america-oudan-ultra-quiz-part-4.json) |
 | America Oudan Ultra Quiz: Shijou Saidai no Tatakai | 48603 | [48603-america-oudan-ultra-quiz-shijou-saidai-no-tatakai.json](./48603-america-oudan-ultra-quiz-shijou-saidai-no-tatakai.json) |
 | America Rising 2: Legacy of the Enclave | 299131 | [299131-america-rising-2-legacy-of-the-enclave.json](./299131-america-rising-2-legacy-of-the-enclave.json) |
+| America Wild Hunting | 147764 | [147764-america-wild-hunting.json](./147764-america-wild-hunting.json) |
 | America: Expansion Pack | 166693 | [166693-america-expansion-pack.json](./166693-america-expansion-pack.json) |
 | America's Army | 597 | [597-americas-army.json](./597-americas-army.json) |
 | America's Army 2 | 15820 | [15820-americas-army-2.json](./15820-americas-army-2.json) |
@@ -10109,6 +10111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astride | 216726 | [216726-astride.json](./216726-astride.json) |
 | Astro & Suzy Go to the Circus | 397071 | [397071-astro-and-suzy-go-to-the-circus.json](./397071-astro-and-suzy-go-to-the-circus.json) |
 | Astro Ace | 165737 | [165737-astro-ace.json](./165737-astro-ace.json) |
+| Astro Aqua Kitty: Limited Edition | 147771 | [147771-astro-aqua-kitty-limited-edition.json](./147771-astro-aqua-kitty-limited-edition.json) |
 | Astro Arena | 338169 | [338169-astro-arena.json](./338169-astro-arena.json) |
 | Astro Assembler | 71506 | [71506-astro-assembler.json](./71506-astro-assembler.json) |
 | Astro Avenger II | 51211 | [51211-astro-avenger-ii.json](./51211-astro-avenger-ii.json) |
@@ -11413,6 +11416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awakening | 264059 | [264059-awakening.json](./264059-awakening.json) |
 | Awakening Automata | 174766 | [174766-awakening-automata.json](./174766-awakening-automata.json) |
 | Awakening of Celestial | 101385 | [101385-awakening-of-celestial.json](./101385-awakening-of-celestial.json) |
+| Awakening of Cthulhu | 147769 | [147769-awakening-of-cthulhu.json](./147769-awakening-of-cthulhu.json) |
 | Awakening of Dragon | 110177 | [110177-awakening-of-dragon.json](./110177-awakening-of-dragon.json) |
 | Awakening of Dragon | 208908 | [208908-awakening-of-dragon.json](./208908-awakening-of-dragon.json) |
 | Awakening of Heroes | 61561 | [61561-awakening-of-heroes.json](./61561-awakening-of-heroes.json) |
