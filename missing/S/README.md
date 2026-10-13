@@ -1618,6 +1618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Pixels | 112306 | [112306-save-the-pixels.json](./112306-save-the-pixels.json) |
 | Save the Planet | 153425 | [153425-save-the-planet.json](./153425-save-the-planet.json) |
 | Save The Planets: Meteor Storm | 263565 | [263565-save-the-planets-meteor-storm.json](./263565-save-the-planets-meteor-storm.json) |
+| Save the Princess | 134922 | [134922-save-the-princess.json](./134922-save-the-princess.json) |
 | Save the Princess | 216927 | [216927-save-the-princess.json](./216927-save-the-princess.json) |
 | Save the Princess? Save a Fart! | 405464 | [405464-save-the-princess-save-a-fart.json](./405464-save-the-princess-save-a-fart.json) |
 | Save the Puppy: Pet Dog Rescue | 221384 | [221384-save-the-puppy-pet-dog-rescue.json](./221384-save-the-puppy-pet-dog-rescue.json) |
@@ -16213,6 +16214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Revenge of the Sith | 220263 | [220263-star-wars-revenge-of-the-sith.json](./220263-star-wars-revenge-of-the-sith.json) |
 | Star Wars: Rogue Leaders - Rogue Squadron Wii | 261815 | [261815-star-wars-rogue-leaders-rogue-squadron-wii.json](./261815-star-wars-rogue-leaders-rogue-squadron-wii.json) |
 | Star Wars: Saga Edition: Lightsaber Battle Game | 255561 | [255561-star-wars-saga-edition-lightsaber-battle-game.json](./255561-star-wars-saga-edition-lightsaber-battle-game.json) |
+| Star Wars: Secrets of the Empire | 134955 | [134955-star-wars-secrets-of-the-empire.json](./134955-star-wars-secrets-of-the-empire.json) |
 | Star Wars: Starfighter - Special Edition | 242773 | [242773-star-wars-starfighter-special-edition.json](./242773-star-wars-starfighter-special-edition.json) |
 | Star Wars: Tales from the Galaxy's Edge | 134957 | [134957-star-wars-tales-from-the-galaxys-edge.json](./134957-star-wars-tales-from-the-galaxys-edge.json) |
 | Star Wars: Tales from the Galaxy's Edge - Last Call | 166008 | [166008-star-wars-tales-from-the-galaxys-edge-last-call.json](./166008-star-wars-tales-from-the-galaxys-edge-last-call.json) |
@@ -19622,6 +19624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Fantasy | 275120 | [275120-summer-fantasy.json](./275120-summer-fantasy.json) |
 | Summer Flower of Summer Snow | 339482 | [339482-summer-flower-of-summer-snow.json](./339482-summer-flower-of-summer-snow.json) |
 | Summer for You | 339481 | [339481-summer-for-you.json](./339481-summer-for-you.json) |
+| Summer Fruit | 134921 | [134921-summer-fruit.json](./134921-summer-fruit.json) |
 | Summer Funland | 87556 | [87556-summer-funland.json](./87556-summer-funland.json) |
 | Summer Games | 12340 | [12340-summer-games.json](./12340-summer-games.json) |
 | Summer Games | 281670 | [281670-summer-games.json](./281670-summer-games.json) |
@@ -20927,6 +20930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Crowd Control | 242112 | [242112-super-mario-bros-crowd-control.json](./242112-super-mario-bros-crowd-control.json) |
 | Super Mario Bros. Deluxe | 49877 | [49877-super-mario-bros-deluxe.json](./49877-super-mario-bros-deluxe.json) |
 | Super Mario Bros. Dimensions | 134074 | [134074-super-mario-bros-dimensions.json](./134074-super-mario-bros-dimensions.json) |
+| Super Mario Bros. Dimensions 2 | 134959 | [134959-super-mario-bros-dimensions-2.json](./134959-super-mario-bros-dimensions-2.json) |
 | Super Mario Bros. Funk Mix Deluxe | 203389 | [203389-super-mario-bros-funk-mix-deluxe.json](./203389-super-mario-bros-funk-mix-deluxe.json) |
 | Super Mario Bros. Game Watch | 172502 | [172502-super-mario-bros-game-watch.json](./172502-super-mario-bros-game-watch.json) |
 | Super Mario Bros. in Crazy Castle | 323826 | [323826-super-mario-bros-in-crazy-castle.json](./323826-super-mario-bros-in-crazy-castle.json) |
@@ -21754,6 +21758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash T.V. | 19117 | [19117-super-smash-t-v.json](./19117-super-smash-t-v.json) |
 | Super Smash the Office | 174839 | [174839-super-smash-the-office.json](./174839-super-smash-the-office.json) |
 | Super Snail | 260198 | [260198-super-snail.json](./260198-super-snail.json) |
+| Super Snake 3D | 134940 | [134940-super-snake-3d.json](./134940-super-snake-3d.json) |
 | Super Snake Block DX | 267971 | [267971-super-snake-block-dx.json](./267971-super-snake-block-dx.json) |
 | Super Snot Put | 326727 | [326727-super-snot-put.json](./326727-super-snot-put.json) |
 | Super Snowball Sunday | 74334 | [74334-super-snowball-sunday.json](./74334-super-snowball-sunday.json) |
@@ -22734,6 +22739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi girlfriend | 129718 | [129718-sushi-girlfriend.json](./129718-sushi-girlfriend.json) |
 | Sushi Gun | 181867 | [181867-sushi-gun.json](./181867-sushi-gun.json) |
 | Sushi Loop | 409770 | [409770-sushi-loop.json](./409770-sushi-loop.json) |
+| Sushi Master VR | 134938 | [134938-sushi-master-vr.json](./134938-sushi-master-vr.json) |
 | Sushi Monster | 327994 | [327994-sushi-monster.json](./327994-sushi-monster.json) |
 | Sushi Neko | 185429 | [185429-sushi-neko.json](./185429-sushi-neko.json) |
 | Sushi on Wheels | 386292 | [386292-sushi-on-wheels.json](./386292-sushi-on-wheels.json) |
@@ -23688,6 +23694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synergy Strike | 373204 | [373204-synergy-strike.json](./373204-synergy-strike.json) |
 | Synesthesia | 337105 | [337105-synesthesia.json](./337105-synesthesia.json) |
 | Synesthetic | 175334 | [175334-synesthetic.json](./175334-synesthetic.json) |
+| Synestia | 134936 | [134936-synestia.json](./134936-synestia.json) |
 | Synnergy Games Bundle | 331474 | [331474-synnergy-games-bundle.json](./331474-synnergy-games-bundle.json) |
 | Synonym | 161587 | [161587-synonym.json](./161587-synonym.json) |
 | Synonym Match | 105759 | [105759-synonym-match.json](./105759-synonym-match.json) |
