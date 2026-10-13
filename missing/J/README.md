@@ -1897,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joust | 278128 | [278128-joust.json](./278128-joust.json) |
 | Joust | 278132 | [278132-joust.json](./278132-joust.json) |
 | Joust | 287078 | [287078-joust.json](./287078-joust.json) |
+| Joust In Love | 176221 | [176221-joust-in-love.json](./176221-joust-in-love.json) |
 | Joust Legend | 60567 | [60567-joust-legend.json](./60567-joust-legend.json) |
 | Joust Pong | 40762 | [40762-joust-pong.json](./40762-joust-pong.json) |
 | Joust X | 297469 | [297469-joust-x.json](./297469-joust-x.json) |
@@ -1905,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jousting in January | 290491 | [290491-jousting-in-january.json](./290491-jousting-in-january.json) |
 | Joustish | 251193 | [251193-joustish.json](./251193-joustish.json) |
 | JoustMania | 119743 | [119743-joustmania.json](./119743-joustmania.json) |
+| Jousty Dragons | 176190 | [176190-jousty-dragons.json](./176190-jousty-dragons.json) |
 | Jovian Drive | 343463 | [343463-jovian-drive.json](./343463-jovian-drive.json) |
 | Joy e Toy | 248795 | [248795-joy-e-toy.json](./248795-joy-e-toy.json) |
 | Joy Exhibition | 56177 | [56177-joy-exhibition.json](./56177-joy-exhibition.json) |
