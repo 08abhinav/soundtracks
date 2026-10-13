@@ -1047,6 +1047,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Run | 163741 | [163741-undead-run.json](./163741-undead-run.json) |
 | Undead Slayer | 46755 | [46755-undead-slayer.json](./46755-undead-slayer.json) |
 | Undead Souls | 55496 | [55496-undead-souls.json](./55496-undead-souls.json) |
+| Undead Syndrome Episode 1 | 152019 | [152019-undead-syndrome-episode-1.json](./152019-undead-syndrome-episode-1.json) |
+| Undead Syndrome Episode 2 | 152020 | [152020-undead-syndrome-episode-2.json](./152020-undead-syndrome-episode-2.json) |
 | Undead Trail: Haunting Shadows | 304851 | [304851-undead-trail-haunting-shadows.json](./304851-undead-trail-haunting-shadows.json) |
 | Undead Uprising | 270871 | [270871-undead-uprising.json](./270871-undead-uprising.json) |
 | Undead Village | 244375 | [244375-undead-village.json](./244375-undead-village.json) |
@@ -2150,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uprush | 266239 | [266239-uprush.json](./266239-uprush.json) |
 | Upscale Studio: Logic Bundle: 5 in 1 | 379360 | [379360-upscale-studio-logic-bundle-5-in-1.json](./379360-upscale-studio-logic-bundle-5-in-1.json) |
 | Upshift StrikeRacer | 375395 | [375395-upshift-strikeracer.json](./375395-upshift-strikeracer.json) |
+| Upside | 151489 | [151489-upside.json](./151489-upside.json) |
 | Upside Down | 90487 | [90487-upside-down.json](./90487-upside-down.json) |
 | Upside the Backrooms | 258740 | [258740-upside-the-backrooms.json](./258740-upside-the-backrooms.json) |
 | Upside-Down Dimensions | 52009 | [52009-upside-down-dimensions.json](./52009-upside-down-dimensions.json) |
