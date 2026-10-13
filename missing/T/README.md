@@ -3696,6 +3696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Darwin | 20371 | [20371-the-adventures-of-darwin.json](./20371-the-adventures-of-darwin.json) |
 | The Adventures of Detective Bron | 200721 | [200721-the-adventures-of-detective-bron.json](./200721-the-adventures-of-detective-bron.json) |
 | The Adventures of Detective Donut at Shao-Lu Temple | 340571 | [340571-the-adventures-of-detective-donut-at-shao-lu-temple.json](./340571-the-adventures-of-detective-donut-at-shao-lu-temple.json) |
+| The Adventures of Dinobot and Tiara! | 163016 | [163016-the-adventures-of-dinobot-and-tiara.json](./163016-the-adventures-of-dinobot-and-tiara.json) |
 | The Adventures of Dr. Franken | 369600 | [369600-the-adventures-of-dr-franken.json](./369600-the-adventures-of-dr-franken.json) |
 | The Adventures of Dr. Franken | 48617 | [48617-the-adventures-of-dr-franken.json](./48617-the-adventures-of-dr-franken.json) |
 | The Adventures of Eggbert | 146814 | [146814-the-adventures-of-eggbert.json](./146814-the-adventures-of-eggbert.json) |
@@ -18341,6 +18342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Goes Right | 386979 | [386979-train-goes-right.json](./386979-train-goes-right.json) |
 | Train Graveyard Simulator | 409406 | [409406-train-graveyard-simulator.json](./409406-train-graveyard-simulator.json) |
 | Train Journey | 382209 | [382209-train-journey.json](./382209-train-journey.json) |
+| Train Life: A Railway Simulator | 163012 | [163012-train-life-a-railway-simulator.json](./163012-train-life-a-railway-simulator.json) |
 | Train Life: A Railway Simulator - 1920's Orient-Express Train | 219541 | [219541-train-life-a-railway-simulator-1920s-orient-express-train.json](./219541-train-life-a-railway-simulator-1920s-orient-express-train.json) |
 | Train Life: A Railway Simulator - The Orient-Express Edition | 214141 | [214141-train-life-a-railway-simulator-the-orient-express-edition.json](./214141-train-life-a-railway-simulator-the-orient-express-edition.json) |
 | Train Mechanic Simulator 2017 | 27940 | [27940-train-mechanic-simulator-2017.json](./27940-train-mechanic-simulator-2017.json) |
@@ -20822,6 +20824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TS Marketplace: Maunsell 59ft Low Window Corridor Coach Pack Crimson Cream | 227295 | [227295-ts-marketplace-maunsell-59ft-low-window-corridor-coach-pack-crimson-cream.json](./227295-ts-marketplace-maunsell-59ft-low-window-corridor-coach-pack-crimson-cream.json) |
 | TS Marketplace: Maunsell 59ft Low Window Corridor Coach Pack Southern Malachite Green | 227237 | [227237-ts-marketplace-maunsell-59ft-low-window-corridor-coach-pack-southern-malachite-green.json](./227237-ts-marketplace-maunsell-59ft-low-window-corridor-coach-pack-southern-malachite-green.json) |
 | TS Marketplace: Maunsell 59ft Low Window Corridor Coach Pack Southern Olive Green | 227234 | [227234-ts-marketplace-maunsell-59ft-low-window-corridor-coach-pack-southern-olive-green.json](./227234-ts-marketplace-maunsell-59ft-low-window-corridor-coach-pack-southern-olive-green.json) |
+| TS Marketplace: Mittenwaldbahn Scenario Pack 01 Add-On | 163042 | [163042-ts-marketplace-mittenwaldbahn-scenario-pack-01-add-on.json](./163042-ts-marketplace-mittenwaldbahn-scenario-pack-01-add-on.json) |
 | TS Marketplace: Mount Shasta Scenario Pack 01 | 227232 | [227232-ts-marketplace-mount-shasta-scenario-pack-01.json](./227232-ts-marketplace-mount-shasta-scenario-pack-01.json) |
 | TS Marketplace: NER/GNR Non-Corridor BR Pack | 227309 | [227309-ts-marketplace-ner-gnr-non-corridor-br-pack.json](./227309-ts-marketplace-ner-gnr-non-corridor-br-pack.json) |
 | TS Marketplace: NER/GNR Non-Corridor LNER Pack | 227311 | [227311-ts-marketplace-ner-gnr-non-corridor-lner-pack.json](./227311-ts-marketplace-ner-gnr-non-corridor-lner-pack.json) |
@@ -20834,6 +20837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TS Marketplace: Seaboard SD50 Livery Pack | 227227 | [227227-ts-marketplace-seaboard-sd50-livery-pack.json](./227227-ts-marketplace-seaboard-sd50-livery-pack.json) |
 | TS Marketplace: Sps 466 Wagon | 254417 | [254417-ts-marketplace-sps-466-wagon.json](./254417-ts-marketplace-sps-466-wagon.json) |
 | TS Marketplace: Tehachapi Pass Scenario Pack 01 | 227230 | [227230-ts-marketplace-tehachapi-pass-scenario-pack-01.json](./227230-ts-marketplace-tehachapi-pass-scenario-pack-01.json) |
+| TS Marketplace: Union Pacific Scenario Pack 02 Add-On | 163041 | [163041-ts-marketplace-union-pacific-scenario-pack-02-add-on.json](./163041-ts-marketplace-union-pacific-scenario-pack-02-add-on.json) |
 | TS Online Mobile | 130745 | [130745-ts-online-mobile.json](./130745-ts-online-mobile.json) |
 | TS!Underswap | 212220 | [212220-ts-underswap.json](./212220-ts-underswap.json) |
 | TSA Frisky VR | 89964 | [89964-tsa-frisky-vr.json](./89964-tsa-frisky-vr.json) |
