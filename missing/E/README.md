@@ -1061,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ego Holic | 225297 | [225297-ego-holic.json](./225297-ego-holic.json) |
 | Ego Joe the Idiot Mall Cop | 181199 | [181199-ego-joe-the-idiot-mall-cop.json](./181199-ego-joe-the-idiot-mall-cop.json) |
 | Ego League | 373768 | [373768-ego-league.json](./373768-ego-league.json) |
+| Ego Protocol: Remastered | 144688 | [144688-ego-protocol-remastered.json](./144688-ego-protocol-remastered.json) |
 | Ego's Spark | 280158 | [280158-egos-spark.json](./280158-egos-spark.json) |
 | Egoboo | 47298 | [47298-egoboo.json](./47298-egoboo.json) |
 | Egogia | 394794 | [394794-egogia.json](./394794-egogia.json) |
@@ -2541,6 +2542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enemy Mind | 17157 | [17157-enemy-mind.json](./17157-enemy-mind.json) |
 | Enemy of the State | 204545 | [204545-enemy-of-the-state.json](./204545-enemy-of-the-state.json) |
 | Enemy On the Tail! | 320518 | [320518-enemy-on-the-tail.json](./320518-enemy-on-the-tail.json) |
+| Enemy Remains | 144718 | [144718-enemy-remains.json](./144718-enemy-remains.json) |
 | Enemy Star | 267587 | [267587-enemy-star.json](./267587-enemy-star.json) |
 | Enemy Territory Fortress | 273010 | [273010-enemy-territory-fortress.json](./273010-enemy-territory-fortress.json) |
 | Enen Angel | 107641 | [107641-enen-angel.json](./107641-enen-angel.json) |
