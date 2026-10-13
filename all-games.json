@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T08:36:18.262Z",
-  "total_soundtracks": 1575,
+  "generated_at": "2026-10-13T17:35:14.547Z",
+  "total_soundtracks": 1576,
   "games": [
     {
       "igdb_id": 7522,
@@ -4190,6 +4190,20 @@
           "album_name": "Delta Force: Black Hawk Down (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7omRW4DZ1gRVLHoBIs1Dat",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 666,
+      "game_name": "Delta Force",
+      "game_url": "https://ostdb.net/games/delta-force",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a79376c0546c760682d2caa2",
+      "albums": [
+        {
+          "album_name": "Delta Force (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2tEqsiqKb86sMMWRHfhYPw",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
