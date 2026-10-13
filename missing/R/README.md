@@ -1737,6 +1737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Award - More Corridor 1 | 191074 | [191074-re-award-more-corridor-1.json](./191074-re-award-more-corridor-1.json) |
 | Re:Bf | 193405 | [193405-re-bf.json](./193405-re-bf.json) |
 | Re:birth Colony -Lost Azurite- | 60049 | [60049-re-birth-colony-lost-azurite.json](./60049-re-birth-colony-lost-azurite.json) |
+| Re:Birth Online | 133728 | [133728-re-birth-online.json](./133728-re-birth-online.json) |
 | Re:Birthday Song - Koi wo Utau Shinigami | 54920 | [54920-re-birthday-song-koi-wo-utau-shinigami.json](./54920-re-birthday-song-koi-wo-utau-shinigami.json) |
 | Re:Blue | 415482 | [415482-re-blue.json](./415482-re-blue.json) |
 | Re:bound | 229012 | [229012-re-bound.json](./229012-re-bound.json) |
@@ -3986,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Three Kingdoms | 173202 | [173202-retro-three-kingdoms.json](./173202-retro-three-kingdoms.json) |
 | Retro Three Kingdoms: Special edition | 195251 | [195251-retro-three-kingdoms-special-edition.json](./195251-retro-three-kingdoms-special-edition.json) |
 | Retro TV Game Collection | 196144 | [196144-retro-tv-game-collection.json](./196144-retro-tv-game-collection.json) |
+| Retro Vaders: Reloaded | 133725 | [133725-retro-vaders-reloaded.json](./133725-retro-vaders-reloaded.json) |
 | Retro Vaders: Reloaded - Classified Projects | 171629 | [171629-retro-vaders-reloaded-classified-projects.json](./171629-retro-vaders-reloaded-classified-projects.json) |
 | Retro Wars | 156092 | [156092-retro-wars.json](./156092-retro-wars.json) |
 | Retro Wars: Episodio IV 1/4 | 341538 | [341538-retro-wars-episodio-iv-1-4.json](./341538-retro-wars-episodio-iv-1-4.json) |
@@ -5921,6 +5923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Rescue Revolution | 9012 | [9012-robot-rescue-revolution.json](./9012-robot-rescue-revolution.json) |
 | Robot Revolt | 230903 | [230903-robot-revolt.json](./230903-robot-revolt.json) |
 | Robot Rhapsody | 346706 | [346706-robot-rhapsody.json](./346706-robot-rhapsody.json) |
+| Robot Rice Cooker Revolt | 133717 | [133717-robot-rice-cooker-revolt.json](./133717-robot-rice-cooker-revolt.json) |
 | Robot Robert | 149048 | [149048-robot-robert.json](./149048-robot-robert.json) |
 | Robot Rumble 2 | 113767 | [113767-robot-rumble-2.json](./113767-robot-rumble-2.json) |
 | Robot Rumpus Royale | 230174 | [230174-robot-rumpus-royale.json](./230174-robot-rumpus-royale.json) |
