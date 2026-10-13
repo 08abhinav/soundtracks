@@ -1888,6 +1888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NetHack | 2895 | [2895-nethack.json](./2895-nethack.json) |
 | Nether Dungeons | 323221 | [323221-nether-dungeons.json](./323221-nether-dungeons.json) |
 | Nether Gallery | 116111 | [116111-nether-gallery.json](./116111-nether-gallery.json) |
+| Nether Nightmare | 148843 | [148843-nether-nightmare.json](./148843-nether-nightmare.json) |
 | Nether Spirits: Beyond the Gate | 263769 | [263769-nether-spirits-beyond-the-gate.json](./263769-nether-spirits-beyond-the-gate.json) |
 | Nether: The Untold Chapter | 118029 | [118029-nether-the-untold-chapter.json](./118029-nether-the-untold-chapter.json) |
 | Nethercard Kingdom | 182870 | [182870-nethercard-kingdom.json](./182870-nethercard-kingdom.json) |
@@ -2692,6 +2693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nicolás the Sea Urchin | 265930 | [265930-nicolas-the-sea-urchin.json](./265930-nicolas-the-sea-urchin.json) |
 | Nicolay's Adventure | 29734 | [29734-nicolays-adventure.json](./29734-nicolays-adventure.json) |
 | Nicole | 62592 | [62592-nicole.json](./62592-nicole.json) |
+| Niconotes the Whoo! | 149887 | [149887-niconotes-the-whoo.json](./149887-niconotes-the-whoo.json) |
 | Nicotine Merchant Simulator | 415193 | [415193-nicotine-merchant-simulator.json](./415193-nicotine-merchant-simulator.json) |
 | Nictheroy | 154031 | [154031-nictheroy.json](./154031-nictheroy.json) |
 | Nidavelir2 | 362726 | [362726-nidavelir2.json](./362726-nidavelir2.json) |
@@ -5008,6 +5010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numinous | 61044 | [61044-numinous.json](./61044-numinous.json) |
 | Numito | 329119 | [329119-numito.json](./329119-numito.json) |
 | Numjump | 384787 | [384787-numjump.json](./384787-numjump.json) |
+| Nummels | 149899 | [149899-nummels.json](./149899-nummels.json) |
 | Numolition | 239345 | [239345-numolition.json](./239345-numolition.json) |
 | Nump Jump | 213587 | [213587-nump-jump.json](./213587-nump-jump.json) |
 | NumTasu | 256242 | [256242-numtasu.json](./256242-numtasu.json) |
