@@ -6742,6 +6742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll Boss Rush | 43845 | [43845-roll-boss-rush.json](./43845-roll-boss-rush.json) |
 | Roll Five | 305970 | [305970-roll-five.json](./305970-roll-five.json) |
 | Roll For Confidence | 171091 | [171091-roll-for-confidence.json](./171091-roll-for-confidence.json) |
+| Roll for the Galaxy | 138508 | [138508-roll-for-the-galaxy.json](./138508-roll-for-the-galaxy.json) |
 | Roll in the Hole | 64670 | [64670-roll-in-the-hole.json](./64670-roll-in-the-hole.json) |
 | Roll It to the End | 244718 | [244718-roll-it-to-the-end.json](./244718-roll-it-to-the-end.json) |
 | Roll Me Home | 271381 | [271381-roll-me-home.json](./271381-roll-me-home.json) |
@@ -7960,6 +7961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run for Money Tousouchuu | 141123 | [141123-run-for-money-tousouchuu.json](./141123-run-for-money-tousouchuu.json) |
 | Run for the Bus | 292264 | [292264-run-for-the-bus.json](./292264-run-for-the-bus.json) |
 | Run for the Money | 401793 | [401793-run-for-the-money.json](./401793-run-for-the-money.json) |
+| Run for Your Life | 138476 | [138476-run-for-your-life.json](./138476-run-for-your-life.json) |
 | Run Forrest Run | 305912 | [305912-run-forrest-run.json](./305912-run-forrest-run.json) |
 | Run Foxy, Run! | 224543 | [224543-run-foxy-run.json](./224543-run-foxy-run.json) |
 | Run from Bubol Horror | 359990 | [359990-run-from-bubol-horror.json](./359990-run-from-bubol-horror.json) |
