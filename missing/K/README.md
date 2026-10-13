@@ -1268,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyhole Spy: Naughty Witches | 110380 | [110380-keyhole-spy-naughty-witches.json](./110380-keyhole-spy-naughty-witches.json) |
 | Keykeeper | 287197 | [287197-keykeeper.json](./287197-keykeeper.json) |
 | Keykode | 349867 | [349867-keykode.json](./349867-keykode.json) |
+| Keylogger | 172070 | [172070-keylogger.json](./172070-keylogger.json) |
 | Keymash | 141630 | [141630-keymash.json](./141630-keymash.json) |
 | Keymasher Ultimate | 201113 | [201113-keymasher-ultimate.json](./201113-keymasher-ultimate.json) |
 | Keypad Simulator | 412483 | [412483-keypad-simulator.json](./412483-keypad-simulator.json) |
@@ -2201,6 +2202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Fallen: The Last Stand | 270161 | [270161-kingdom-of-fallen-the-last-stand.json](./270161-kingdom-of-fallen-the-last-stand.json) |
 | Kingdom of Force | 164430 | [164430-kingdom-of-force.json](./164430-kingdom-of-force.json) |
 | Kingdom of Hamil | 13734 | [13734-kingdom-of-hamil.json](./13734-kingdom-of-hamil.json) |
+| Kingdom of Heroes | 171876 | [171876-kingdom-of-heroes.json](./171876-kingdom-of-heroes.json) |
 | Kingdom of Heroes: Tactics War | 138552 | [138552-kingdom-of-heroes-tactics-war.json](./138552-kingdom-of-heroes-tactics-war.json) |
 | Kingdom of Kroz | 73796 | [73796-kingdom-of-kroz.json](./73796-kingdom-of-kroz.json) |
 | Kingdom of Lies | 183804 | [183804-kingdom-of-lies.json](./183804-kingdom-of-lies.json) |
