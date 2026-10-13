@@ -1060,6 +1060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ego :: Exit Protocol | 368285 | [368285-ego-exit-protocol.json](./368285-ego-exit-protocol.json) |
 | Ego Effect | 174842 | [174842-ego-effect.json](./174842-ego-effect.json) |
 | Ego Holic | 225297 | [225297-ego-holic.json](./225297-ego-holic.json) |
+| Ego in a Coma | 141616 | [141616-ego-in-a-coma.json](./141616-ego-in-a-coma.json) |
 | Ego Joe the Idiot Mall Cop | 181199 | [181199-ego-joe-the-idiot-mall-cop.json](./181199-ego-joe-the-idiot-mall-cop.json) |
 | Ego League | 373768 | [373768-ego-league.json](./373768-ego-league.json) |
 | Ego Protocol: Remastered | 144688 | [144688-ego-protocol-remastered.json](./144688-ego-protocol-remastered.json) |
@@ -2867,6 +2868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Card Game | 56420 | [56420-epic-card-game.json](./56420-epic-card-game.json) |
 | Epic Cards Battle 3 | 258960 | [258960-epic-cards-battle-3.json](./258960-epic-cards-battle-3.json) |
 | Epic Chef | 145063 | [145063-epic-chef.json](./145063-epic-chef.json) |
+| Epic City Builder 4 | 142194 | [142194-epic-city-builder-4.json](./142194-epic-city-builder-4.json) |
 | Epic Clicker Journey | 34134 | [34134-epic-clicker-journey.json](./34134-epic-clicker-journey.json) |
 | Epic Conquest | 129606 | [129606-epic-conquest.json](./129606-epic-conquest.json) |
 | Epic Drag Puzools | 101632 | [101632-epic-drag-puzools.json](./101632-epic-drag-puzools.json) |
@@ -3187,6 +3189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Errante | 185559 | [185559-errante.json](./185559-errante.json) |
 | Errasaga | 381599 | [381599-errasaga.json](./381599-errasaga.json) |
 | Error | 112907 | [112907-error.json](./112907-error.json) |
+| Error | 142776 | [142776-error.json](./142776-error.json) |
 | Error #53 | 63010 | [63010-error-53.json](./63010-error-53.json) |
 | Error 0: New World Found | 178685 | [178685-error-0-new-world-found.json](./178685-error-0-new-world-found.json) |
 | Error 2351 | 399833 | [399833-error-2351.json](./399833-error-2351.json) |
@@ -5248,6 +5251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Landings Pro | 86898 | [86898-extreme-landings-pro.json](./86898-extreme-landings-pro.json) |
 | Extreme Makeover: Home Edition | 262061 | [262061-extreme-makeover-home-edition.json](./262061-extreme-makeover-home-edition.json) |
 | Extreme Match | 105861 | [105861-extreme-match.json](./105861-extreme-match.json) |
+| Extreme Meatpunks Forever: Bound by Ash | 142174 | [142174-extreme-meatpunks-forever-bound-by-ash.json](./142174-extreme-meatpunks-forever-bound-by-ash.json) |
 | Extreme Mining | 135035 | [135035-extreme-mining.json](./135035-extreme-mining.json) |
 | Extreme Motorcross | 209180 | [209180-extreme-motorcross.json](./209180-extreme-motorcross.json) |
 | Extreme Off-Road Drive | 109206 | [109206-extreme-off-road-drive.json](./109206-extreme-off-road-drive.json) |
