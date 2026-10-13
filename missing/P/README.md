@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P.A.W.S.: Personal Automated Wagging System | 46573 | [46573-p-a-w-s-personal-automated-wagging-system.json](./46573-p-a-w-s-personal-automated-wagging-system.json) |
 | P.C. Fuzz | 92821 | [92821-p-c-fuzz.json](./92821-p-c-fuzz.json) |
 | P.Craft | 132121 | [132121-p-craft.json](./132121-p-craft.json) |
+| P.E. Noire | 142766 | [142766-p-e-noire.json](./142766-p-e-noire.json) |
 | P.H.A.G.E: Rhapsody | 343763 | [343763-p-h-a-g-e-rhapsody.json](./343763-p-h-a-g-e-rhapsody.json) |
 | P.I. | 331463 | [331463-p-i.json](./331463-p-i.json) |
 | P.I. Al Luminum: Haunted House | 325635 | [325635-p-i-al-luminum-haunted-house.json](./325635-p-i-al-luminum-haunted-house.json) |
@@ -602,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pale Luna | 393080 | [393080-pale-luna.json](./393080-pale-luna.json) |
 | Pale Man! | 113894 | [113894-pale-man.json](./113894-pale-man.json) |
 | Pale Moon Crisis | 29977 | [29977-pale-moon-crisis.json](./29977-pale-moon-crisis.json) |
+| Pale Night | 142811 | [142811-pale-night.json](./142811-pale-night.json) |
 | Pale Sand, Dark Skies | 179508 | [179508-pale-sand-dark-skies.json](./179508-pale-sand-dark-skies.json) |
 | Pale Tide | 403823 | [403823-pale-tide.json](./403823-pale-tide.json) |
 | Paleo Dive | 416816 | [416816-paleo-dive.json](./416816-paleo-dive.json) |
@@ -913,6 +915,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Campaigns: Japan '46 | 131998 | [131998-panzer-campaigns-japan-46.json](./131998-panzer-campaigns-japan-46.json) |
 | Panzer Campaigns: Kharkov '42 Gold | 124714 | [124714-panzer-campaigns-kharkov-42-gold.json](./124714-panzer-campaigns-kharkov-42-gold.json) |
 | Panzer Campaigns: Market-Garden '44 Gold | 124729 | [124729-panzer-campaigns-market-garden-44-gold.json](./124729-panzer-campaigns-market-garden-44-gold.json) |
+| Panzer Campaigns: Moscow'41 | 142822 | [142822-panzer-campaigns-moscow41.json](./142822-panzer-campaigns-moscow41.json) |
+| Panzer Campaigns: Moscow'42 | 142823 | [142823-panzer-campaigns-moscow42.json](./142823-panzer-campaigns-moscow42.json) |
 | Panzer Campaigns: Normandy '44 Gold | 124727 | [124727-panzer-campaigns-normandy-44-gold.json](./124727-panzer-campaigns-normandy-44-gold.json) |
 | Panzer Campaigns: Rumyantsev '43 | 226408 | [226408-panzer-campaigns-rumyantsev-43.json](./226408-panzer-campaigns-rumyantsev-43.json) |
 | Panzer Campaigns: Salerno '43 Gold | 124735 | [124735-panzer-campaigns-salerno-43-gold.json](./124735-panzer-campaigns-salerno-43-gold.json) |
@@ -6509,6 +6513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayStation Move Heroes | 19664 | [19664-playstation-move-heroes.json](./19664-playstation-move-heroes.json) |
 | PlayStation Network Collection: Puzzle Pack | 80160 | [80160-playstation-network-collection-puzzle-pack.json](./80160-playstation-network-collection-puzzle-pack.json) |
 | PlayStation Vita Pets | 63011 | [63011-playstation-vita-pets.json](./63011-playstation-vita-pets.json) |
+| Plaything | 142827 | [142827-plaything.json](./142827-plaything.json) |
 | Plaything | 342120 | [342120-plaything.json](./342120-plaything.json) |
 | Playthings: VR Music Vacation | 32881 | [32881-playthings-vr-music-vacation.json](./32881-playthings-vr-music-vacation.json) |
 | Playtime | 170847 | [170847-playtime.json](./170847-playtime.json) |
@@ -6965,6 +6970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogo-Rocket | 154030 | [154030-pogo-rocket.json](./154030-pogo-rocket.json) |
 | Pogo: Addiction Solitaire | 209352 | [209352-pogo-addiction-solitaire.json](./209352-pogo-addiction-solitaire.json) |
 | Pogo3D | 259015 | [259015-pogo3d.json](./259015-pogo3d.json) |
+| PogoChamp | 142797 | [142797-pogochamp.json](./142797-pogochamp.json) |
 | Pogoduck | 243965 | [243965-pogoduck.json](./243965-pogoduck.json) |
 | Pogoman GO! | 80514 | [80514-pogoman-go.json](./80514-pogoman-go.json) |
 | Pogopa | 406855 | [406855-pogopa.json](./406855-pogopa.json) |
@@ -8084,6 +8090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pongs | 178609 | [178609-pongs.json](./178609-pongs.json) |
 | Pongspin | 253390 | [253390-pongspin.json](./253390-pongspin.json) |
 | Pongu | 24565 | [24565-pongu.json](./24565-pongu.json) |
+| Ponjan Wii | 142692 | [142692-ponjan-wii.json](./142692-ponjan-wii.json) |
 | Ponk's Jam: The Tulip Thief | 258902 | [258902-ponks-jam-the-tulip-thief.json](./258902-ponks-jam-the-tulip-thief.json) |
 | Ponkle | 111218 | [111218-ponkle.json](./111218-ponkle.json) |
 | Ponon! Deluxe | 263576 | [263576-ponon-deluxe.json](./263576-ponon-deluxe.json) |
