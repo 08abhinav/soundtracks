@@ -357,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pact With a Demon | 345105 | [345105-pact-with-a-demon.json](./345105-pact-with-a-demon.json) |
 | Pact with a Demon EP01 | 378993 | [378993-pact-with-a-demon-ep01.json](./378993-pact-with-a-demon-ep01.json) |
 | Pact With a Witch | 118350 | [118350-pact-with-a-witch.json](./118350-pact-with-a-witch.json) |
+| Pacula's Curse | 141478 | [141478-paculas-curse.json](./141478-paculas-curse.json) |
 | PacWorm | 25140 | [25140-pacworm.json](./25140-pacworm.json) |
 | Pacybits | 124662 | [124662-pacybits.json](./124662-pacybits.json) |
 | Pacz!: Pacmanworlds 2 | 141732 | [141732-pacz-pacmanworlds-2.json](./141732-pacz-pacmanworlds-2.json) |
@@ -3270,6 +3271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petrick | 370306 | [370306-petrick.json](./370306-petrick.json) |
 | Petricor | 413905 | [413905-petricor.json](./413905-petricor.json) |
 | Petrifaction | 97825 | [97825-petrifaction.json](./97825-petrifaction.json) |
+| Petris | 141595 | [141595-petris.json](./141595-petris.json) |
 | Petrol Blood | 156134 | [156134-petrol-blood.json](./156134-petrol-blood.json) |
 | Petrol Station Sim | 263780 | [263780-petrol-station-sim.json](./263780-petrol-station-sim.json) |
 | Petroleum Explore: Drill & Sell | 227504 | [227504-petroleum-explore-drill-and-sell.json](./227504-petroleum-explore-drill-and-sell.json) |
@@ -7219,6 +7221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Black 2 Kaizo | 230510 | [230510-pokemon-black-2-kaizo.json](./230510-pokemon-black-2-kaizo.json) |
 | Pokémon Black Version 2 | 8284 | [8284-pokemon-black-version-2.json](./8284-pokemon-black-version-2.json) |
 | Pokémon Black/White Redux | 335435 | [335435-pokemon-black-white-redux.json](./335435-pokemon-black-white-redux.json) |
+| Pokémon Blaze Black | 141482 | [141482-pokemon-blaze-black.json](./141482-pokemon-blaze-black.json) |
 | Pokémon Blaze Black 2 | 137113 | [137113-pokemon-blaze-black-2.json](./137113-pokemon-blaze-black-2.json) |
 | Pokémon Blazed Glazed | 129808 | [129808-pokemon-blazed-glazed.json](./129808-pokemon-blazed-glazed.json) |
 | Pokémon Blooming Beast | 359976 | [359976-pokemon-blooming-beast.json](./359976-pokemon-blooming-beast.json) |
@@ -7243,6 +7246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Chess | 249112 | [249112-pokemon-chess.json](./249112-pokemon-chess.json) |
 | Pokemon Classic | 409748 | [409748-pokemon-classic.json](./409748-pokemon-classic.json) |
 | Pokémon Clover | 129810 | [129810-pokemon-clover.json](./129810-pokemon-clover.json) |
+| Pokémon Cock Version | 141480 | [141480-pokemon-cock-version.json](./141480-pokemon-cock-version.json) |
 | Pokémon Coda | 360178 | [360178-pokemon-coda.json](./360178-pokemon-coda.json) |
 | Pokémon Colosseum Double Battle Card e+: 13-A002 - Hogaraka Ojii-san no Yamon | 355472 | [355472-pokemon-colosseum-double-battle-card-e-13-a002-hogaraka-ojii-san-no-yamon.json](./355472-pokemon-colosseum-double-battle-card-e-13-a002-hogaraka-ojii-san-no-yamon.json) |
 | Pokémon Colosseum Double Battle Card e+: 13-A003 - Rider no Hipp | 355473 | [355473-pokemon-colosseum-double-battle-card-e-13-a003-rider-no-hipp.json](./355473-pokemon-colosseum-double-battle-card-e-13-a003-rider-no-hipp.json) |
@@ -8772,6 +8776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pow Vista | 250335 | [250335-pow-vista.json](./250335-pow-vista.json) |
 | Pow: Horyo | 131376 | [131376-pow-horyo.json](./131376-pow-horyo.json) |
 | Pow! 2 | 192252 | [192252-pow-2.json](./192252-pow-2.json) |
+| Powa! | 141622 | [141622-powa.json](./141622-powa.json) |
 | Powargrid | 33257 | [33257-powargrid.json](./33257-powargrid.json) |
 | PowBall Deluxe | 412564 | [412564-powball-deluxe.json](./412564-powball-deluxe.json) |
 | PowBall Renaissance | 54508 | [54508-powball-renaissance.json](./54508-powball-renaissance.json) |
