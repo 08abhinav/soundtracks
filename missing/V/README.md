@@ -2650,6 +2650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRC Pro: Deluxe Off-Road Tracks 3 | 161766 | [161766-vrc-pro-deluxe-off-road-tracks-3.json](./161766-vrc-pro-deluxe-off-road-tracks-3.json) |
 | VRC Pro: Deluxe Off-Road Tracks 4 | 161765 | [161765-vrc-pro-deluxe-off-road-tracks-4.json](./161765-vrc-pro-deluxe-off-road-tracks-4.json) |
 | VRC Pro: GT3 Chassis and Components | 162250 | [162250-vrc-pro-gt3-chassis-and-components.json](./162250-vrc-pro-gt3-chassis-and-components.json) |
+| VRC Pro: International Oval On-Road Tracks Deluxe | 158416 | [158416-vrc-pro-international-oval-on-road-tracks-deluxe.json](./158416-vrc-pro-international-oval-on-road-tracks-deluxe.json) |
 | VRC Pro: Off-Road Track - Barco, Italy | 161769 | [161769-vrc-pro-off-road-track-barco-italy.json](./161769-vrc-pro-off-road-track-barco-italy.json) |
 | VRC Pro: Off-Road Track - Buggyland Fuencarral, Spain | 161770 | [161770-vrc-pro-off-road-track-buggyland-fuencarral-spain.json](./161770-vrc-pro-off-road-track-buggyland-fuencarral-spain.json) |
 | VRC Pro: Rally-X | 162251 | [162251-vrc-pro-rally-x.json](./162251-vrc-pro-rally-x.json) |
