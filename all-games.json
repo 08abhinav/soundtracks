@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T19:26:58.833Z",
-  "total_soundtracks": 1589,
+  "generated_at": "2026-10-13T19:27:14.681Z",
+  "total_soundtracks": 1590,
   "games": [
     {
       "igdb_id": 7522,
@@ -9918,6 +9918,20 @@
           "album_name": "Medal of Honor (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6m03Ph97WTSmQIERO6NrA8",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 1307,
+      "game_name": "Medal of Honor",
+      "game_url": "https://ostdb.net/games/medal-of-honor",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ab04859b8554b79fcbc3b39d",
+      "albums": [
+        {
+          "album_name": "Medal of Honor (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6m03Ph97WTSmQIERO6NrA8",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
