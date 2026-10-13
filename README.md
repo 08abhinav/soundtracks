@@ -1247,6 +1247,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fc6764dc9a866578bd683a3" width="60" /> | [XCOM 2](https://ostdb.net/games/xcom-2) | **XCOM 2 (Original Soundtrack from the Video Game)** · [Spotify](https://open.spotify.com/album/0Ghjope2CU9IqdmCZTCNgn) · [Apple Music](https://music.apple.com/us/album/xcom-2-original-soundtrack-from-the-video-game/1077916402) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733dede27e18e54a36d450d998" width="60" /> | [XCOM 2: War of the Chosen](https://ostdb.net/games/xcom-2-war-of-the-chosen) | **XCOM 2: War of the Chosen (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0LmDZLcFB4RgidtJ54xBgF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ee152babc2fb03f06633a06d" width="60" /> | [XCOM: Chimera Squad](https://ostdb.net/games/xcom-chimera-squad) | **Xcom: Chimera Squad (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5mqkB8aM3mG8izuxeZt4GX) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/82/9d/0a/mzi.qyqgwwoa.tif/600x600bb.jpg" width="60" /> | [Xenogears](https://ostdb.net/games/xenogears) | **Xenogears Original Soundtrack** · [Spotify](https://open.spotify.com/album/10dZi7nBd49IImREMdZGdC) · [Apple Music](https://music.apple.com/us/album/xenogears-original-soundtrack/296408171) · [Album](https://album.link/i/296408171) |
 
 ### Y
 
@@ -1280,4 +1281,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1605 soundtracks · last updated 2026-10-13T19:37:10.481Z_
+_1606 soundtracks · last updated 2026-10-13T19:37:26.298Z_
