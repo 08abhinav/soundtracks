@@ -2546,6 +2546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Laser Puzzle | 96685 | [96685-vr-laser-puzzle.json](./96685-vr-laser-puzzle.json) |
 | VR Lunar Base Skirmish: Control the Moon | 165749 | [165749-vr-lunar-base-skirmish-control-the-moon.json](./165749-vr-lunar-base-skirmish-control-the-moon.json) |
 | VR Masturbate | 384634 | [384634-vr-masturbate.json](./384634-vr-masturbate.json) |
+| VR Maze | 164056 | [164056-vr-maze.json](./164056-vr-maze.json) |
 | VR Military Reporter in Middle East (with tanks & helicopters) | 163737 | [163737-vr-military-reporter-in-middle-east-with-tanks-and-helicopters.json](./163737-vr-military-reporter-in-middle-east-with-tanks-and-helicopters.json) |
 | VR Mini Bowling | 81115 | [81115-vr-mini-bowling.json](./81115-vr-mini-bowling.json) |
 | VR Mini Bowling 2 | 202207 | [202207-vr-mini-bowling-2.json](./202207-vr-mini-bowling-2.json) |
