@@ -1542,6 +1542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Home | 31175 | [31175-save-home.json](./31175-save-home.json) |
 | Save HomeWorld | 110370 | [110370-save-homeworld.json](./110370-save-homeworld.json) |
 | Save Humanity.exe | 405534 | [405534-save-humanity-exe.json](./405534-save-humanity-exe.json) |
+| Save Iron Globe | 160086 | [160086-save-iron-globe.json](./160086-save-iron-globe.json) |
 | Save Koch | 114808 | [114808-save-koch.json](./114808-save-koch.json) |
 | Save Mary | 40698 | [40698-save-mary.json](./40698-save-mary.json) |
 | Save Me Cows | 392160 | [392160-save-me-cows.json](./392160-save-me-cows.json) |
@@ -6937,6 +6938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Palace | 343335 | [343335-silver-palace.json](./343335-silver-palace.json) |
 | Silver Sonic: Rise of the Death Egg | 231467 | [231467-silver-sonic-rise-of-the-death-egg.json](./231467-silver-sonic-rise-of-the-death-egg.json) |
 | Silver Sonic: The Crystal Islands | 302142 | [302142-silver-sonic-the-crystal-islands.json](./302142-silver-sonic-the-crystal-islands.json) |
+| Silver Squad: Age of the Vortex | 160060 | [160060-silver-squad-age-of-the-vortex.json](./160060-silver-squad-age-of-the-vortex.json) |
 | Silver Star Japan Table Games | 144997 | [144997-silver-star-japan-table-games.json](./144997-silver-star-japan-table-games.json) |
 | Silver Star Reversi | 67963 | [67963-silver-star-reversi.json](./67963-silver-star-reversi.json) |
 | Silver State | 396245 | [396245-silver-state.json](./396245-silver-state.json) |
@@ -13030,6 +13032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Spartans | 5700 | [5700-space-spartans.json](./5700-space-spartans.json) |
 | Space Spider | 201568 | [201568-space-spider.json](./201568-space-spider.json) |
 | Space Sprint | 38903 | [38903-space-sprint.json](./38903-space-sprint.json) |
+| Space Sprinter VR | 160098 | [160098-space-sprinter-vr.json](./160098-space-sprinter-vr.json) |
 | Space Squad Survival | 346725 | [346725-space-squad-survival.json](./346725-space-squad-survival.json) |
 | Space Squadron | 160208 | [160208-space-squadron.json](./160208-space-squadron.json) |
 | Space Star: Heart of a Soldier | 292628 | [292628-space-star-heart-of-a-soldier.json](./292628-space-star-heart-of-a-soldier.json) |
@@ -14825,6 +14828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprill: Aqua Adventures | 297460 | [297460-sprill-aqua-adventures.json](./297460-sprill-aqua-adventures.json) |
 | Sprill: The Mystery of the Bermuda Triangle | 54419 | [54419-sprill-the-mystery-of-the-bermuda-triangle.json](./54419-sprill-the-mystery-of-the-bermuda-triangle.json) |
 | Spring a Line | 359401 | [359401-spring-a-line.json](./359401-spring-a-line.json) |
+| Spring and Girls | 160080 | [160080-spring-and-girls.json](./160080-spring-and-girls.json) |
 | Spring Babies | 82165 | [82165-spring-babies.json](./82165-spring-babies.json) |
 | Spring Breeze | 271258 | [271258-spring-breeze.json](./271258-spring-breeze.json) |
 | Spring Breeze | 271401 | [271401-spring-breeze.json](./271401-spring-breeze.json) |
@@ -15156,6 +15160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squat Ops | 348362 | [348362-squat-ops.json](./348362-squat-ops.json) |
 | Squatch | 133234 | [133234-squatch.json](./133234-squatch.json) |
 | Squatzee | 184467 | [184467-squatzee.json](./184467-squatzee.json) |
+| Squaxel | 160103 | [160103-squaxel.json](./160103-squaxel.json) |
 | Sqube Escape | 313269 | [313269-sqube-escape.json](./313269-sqube-escape.json) |
 | Squeak | 296003 | [296003-squeak.json](./296003-squeak.json) |
 | Squeakers | 87781 | [87781-squeakers.json](./87781-squeakers.json) |
@@ -21785,6 +21790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Wash Simulator | 391040 | [391040-super-wash-simulator.json](./391040-super-wash-simulator.json) |
 | Super Weapon Master | 213044 | [213044-super-weapon-master.json](./213044-super-weapon-master.json) |
 | Super Weekend Mode | 96642 | [96642-super-weekend-mode.json](./96642-super-weekend-mode.json) |
+| Super Whiplash | 160077 | [160077-super-whiplash.json](./160077-super-whiplash.json) |
 | Super Widget | 42495 | [42495-super-widget.json](./42495-super-widget.json) |
 | Super Wing Commander | 4323 | [4323-super-wing-commander.json](./4323-super-wing-commander.json) |
 | Super Wizard | 212431 | [212431-super-wizard.json](./212431-super-wizard.json) |
@@ -22362,6 +22368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive - Wilderness Survival | 58795 | [58795-survive-wilderness-survival.json](./58795-survive-wilderness-survival.json) |
 | Survive & Craft | 223520 | [223520-survive-and-craft.json](./223520-survive-and-craft.json) |
 | Survive 10 Minutes Please | 201323 | [201323-survive-10-minutes-please.json](./201323-survive-10-minutes-please.json) |
+| Survive after hell | 160068 | [160068-survive-after-hell.json](./160068-survive-after-hell.json) |
 | Survive and Revenge | 236285 | [236285-survive-and-revenge.json](./236285-survive-and-revenge.json) |
 | Survive Another Day | 214106 | [214106-survive-another-day.json](./214106-survive-another-day.json) |
 | Survive Avalon | 158709 | [158709-survive-avalon.json](./158709-survive-avalon.json) |
@@ -22767,6 +22774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet | 276107 | [276107-sweet.json](./276107-sweet.json) |
 | Sweet Adventure | 392916 | [392916-sweet-adventure.json](./392916-sweet-adventure.json) |
 | Sweet and Cute | 169381 | [169381-sweet-and-cute.json](./169381-sweet-and-cute.json) |
+| Sweet and Hot | 160093 | [160093-sweet-and-hot.json](./160093-sweet-and-hot.json) |
 | Sweet Ange | 282666 | [282666-sweet-ange.json](./282666-sweet-ange.json) |
 | Sweet Animal Girls | 339471 | [339471-sweet-animal-girls.json](./339471-sweet-animal-girls.json) |
 | Sweet as Magic | 177907 | [177907-sweet-as-magic.json](./177907-sweet-as-magic.json) |
