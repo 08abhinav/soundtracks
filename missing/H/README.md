@@ -2684,6 +2684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Shooter | 368654 | [368654-hell-shooter.json](./368654-hell-shooter.json) |
 | Hell Slayer | 232446 | [232446-hell-slayer.json](./232446-hell-slayer.json) |
 | Hell Spheres | 285455 | [285455-hell-spheres.json](./285455-hell-spheres.json) |
+| Hell Sports | 147743 | [147743-hell-sports.json](./147743-hell-sports.json) |
 | Hell Survive | 75787 | [75787-hell-survive.json](./75787-hell-survive.json) |
 | Hell Survivors | 302694 | [302694-hell-survivors.json](./302694-hell-survivors.json) |
 | Hell Takes All | 278137 | [278137-hell-takes-all.json](./278137-hell-takes-all.json) |
