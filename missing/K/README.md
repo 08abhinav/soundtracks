@@ -914,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kazak | 239685 | [239685-kazak.json](./239685-kazak.json) |
 | Kazakh ' Jack | 144941 | [144941-kazakh-jack.json](./144941-kazakh-jack.json) |
 | Kaze no Keishousha | 408763 | [408763-kaze-no-keishousha.json](./408763-kaze-no-keishousha.json) |
+| Kaze no Oka Kouen nite | 139117 | [139117-kaze-no-oka-kouen-nite.json](./139117-kaze-no-oka-kouen-nite.json) |
 | Kaze no Tansakusha 2: Shadow Kingdom | 270633 | [270633-kaze-no-tansakusha-2-shadow-kingdom.json](./270633-kaze-no-tansakusha-2-shadow-kingdom.json) |
 | Kaze no Tansakusha: Grand Slam | 270630 | [270630-kaze-no-tansakusha-grand-slam.json](./270630-kaze-no-tansakusha-grand-slam.json) |
 | Kaze no Tayori 2 | 403039 | [403039-kaze-no-tayori-2.json](./403039-kaze-no-tayori-2.json) |
