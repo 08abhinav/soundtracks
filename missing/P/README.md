@@ -3602,6 +3602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phase Zero | 270275 | [270275-phase-zero.json](./270275-phase-zero.json) |
 | Phase Zero | 335684 | [335684-phase-zero.json](./335684-phase-zero.json) |
 | Phasebreak | 404374 | [404374-phasebreak.json](./404374-phasebreak.json) |
+| Phaser | 138492 | [138492-phaser.json](./138492-phaser.json) |
 | Phaser Fire | 172725 | [172725-phaser-fire.json](./172725-phaser-fire.json) |
 | Phaser Patrol | 18564 | [18564-phaser-patrol.json](./18564-phaser-patrol.json) |
 | Phasmonauts | 310730 | [310730-phasmonauts.json](./310730-phasmonauts.json) |
@@ -4799,6 +4800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink Gear 2 | 119583 | [119583-pink-gear-2.json](./119583-pink-gear-2.json) |
 | Pink Girls | 243156 | [243156-pink-girls.json](./243156-pink-girls.json) |
 | Pink Goes to Hollywood | 42474 | [42474-pink-goes-to-hollywood.json](./42474-pink-goes-to-hollywood.json) |
+| Pink Gum | 138499 | [138499-pink-gum.json](./138499-pink-gum.json) |
 | Pink Haze | 97995 | [97995-pink-haze.json](./97995-pink-haze.json) |
 | Pink Haze 2 | 98006 | [98006-pink-haze-2.json](./98006-pink-haze-2.json) |
 | Pink Heaven | 34289 | [34289-pink-heaven.json](./34289-pink-heaven.json) |
@@ -10723,6 +10725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project:Pong | 149440 | [149440-project-pong.json](./149440-project-pong.json) |
 | Project+ | 131887 | [131887-project.json](./131887-project.json) |
 | Project0 | 297190 | [297190-project0.json](./297190-project0.json) |
+| Projectile Dysfunction | 138511 | [138511-projectile-dysfunction.json](./138511-projectile-dysfunction.json) |
 | Projectile Fighter | 109490 | [109490-projectile-fighter.json](./109490-projectile-fighter.json) |
 | Projectile Guardian | 54923 | [54923-projectile-guardian.json](./54923-projectile-guardian.json) |
 | Projection Remains | 182514 | [182514-projection-remains.json](./182514-projection-remains.json) |
@@ -11064,6 +11067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychocat: The Answer | 33811 | [33811-psychocat-the-answer.json](./33811-psychocat-the-answer.json) |
 | PsychoCudgel | 316641 | [316641-psychocudgel.json](./316641-psychocudgel.json) |
 | PsychoDive | 267288 | [267288-psychodive.json](./267288-psychodive.json) |
+| Psychoduck | 138506 | [138506-psychoduck.json](./138506-psychoduck.json) |
 | Psychofinger | 273436 | [273436-psychofinger.json](./273436-psychofinger.json) |
 | Psychoflesh | 144575 | [144575-psychoflesh.json](./144575-psychoflesh.json) |
 | Psychofunk | 161776 | [161776-psychofunk.json](./161776-psychofunk.json) |
