@@ -704,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kart Life | 260589 | [260589-kart-life.json](./260589-kart-life.json) |
 | Kart Racing | 381228 | [381228-kart-racing.json](./381228-kart-racing.json) |
 | Kart Racing 3D - Top Car Racer Chaser Action Rally | 101568 | [101568-kart-racing-3d-top-car-racer-chaser-action-rally.json](./101568-kart-racing-3d-top-car-racer-chaser-action-rally.json) |
+| Kart Racing Supercharged! | 137924 | [137924-kart-racing-supercharged.json](./137924-kart-racing-supercharged.json) |
 | Kart Soccer Party | 398428 | [398428-kart-soccer-party.json](./398428-kart-soccer-party.json) |
 | Kart Stars | 234497 | [234497-kart-stars.json](./234497-kart-stars.json) |
 | Kart Them All | 292958 | [292958-kart-them-all.json](./292958-kart-them-all.json) |
