@@ -2824,6 +2824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epejsodion Dodgeball Defense | 166748 | [166748-epejsodion-dodgeball-defense.json](./166748-epejsodion-dodgeball-defense.json) |
 | Epejsodion Dodgeball Speed | 367310 | [367310-epejsodion-dodgeball-speed.json](./367310-epejsodion-dodgeball-speed.json) |
 | Epejsodion Dodgeball Training | 369724 | [369724-epejsodion-dodgeball-training.json](./369724-epejsodion-dodgeball-training.json) |
+| Epejsodion Lodge | 150455 | [150455-epejsodion-lodge.json](./150455-epejsodion-lodge.json) |
 | Ephemeral | 184354 | [184354-ephemeral.json](./184354-ephemeral.json) |
 | Ephemeral Dreams, Eternal Love | 260116 | [260116-ephemeral-dreams-eternal-love.json](./260116-ephemeral-dreams-eternal-love.json) |
 | Ephemeral Fantasia | 44722 | [44722-ephemeral-fantasia.json](./44722-ephemeral-fantasia.json) |
@@ -3982,6 +3983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ethan: Meteor Hunter | 10279 | [10279-ethan-meteor-hunter.json](./10279-ethan-meteor-hunter.json) |
 | Ethan's Watch | 390613 | [390613-ethans-watch.json](./390613-ethans-watch.json) |
 | Ethanol in dungeon | 118253 | [118253-ethanol-in-dungeon.json](./118253-ethanol-in-dungeon.json) |
+| Etheldia Pepper | 150424 | [150424-etheldia-pepper.json](./150424-etheldia-pepper.json) |
 | Ether | 311502 | [311502-ether.json](./311502-ether.json) |
 | Ether Awakening | 44229 | [44229-ether-awakening.json](./44229-ether-awakening.json) |
 | Ether Loop | 126735 | [126735-ether-loop.json](./126735-ether-loop.json) |
