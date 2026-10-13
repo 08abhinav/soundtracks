@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10Minutes | 258997 | [258997-10minutes.json](./258997-10minutes.json) |
 | 10n: Ten Power N | 392455 | [392455-10n-ten-power-n.json](./392455-10n-ten-power-n.json) |
 | 10s | 397234 | [397234-10s.json](./397234-10s.json) |
+| 10S | 134323 | [134323-10s.json](./134323-10s.json) |
 | 10S Forever | 343951 | [343951-10s-forever.json](./343951-10s-forever.json) |
 | 10SII | 143489 | [143489-10sii.json](./143489-10sii.json) |
 | 11 Eyes: CrossOver | 47396 | [47396-11-eyes-crossover.json](./47396-11-eyes-crossover.json) |
@@ -706,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13 Letters | 98416 | [98416-13-letters.json](./98416-13-letters.json) |
 | 13 Masca | 405725 | [405725-13-masca.json](./405725-13-masca.json) |
 | 13 Page | 201304 | [201304-13-page.json](./201304-13-page.json) |
+| 13 Puzzle Rooms | 134374 | [134374-13-puzzle-rooms.json](./134374-13-puzzle-rooms.json) |
 | 13 Rosas | 270620 | [270620-13-rosas.json](./270620-13-rosas.json) |
 | 13 Seconds | 283868 | [283868-13-seconds.json](./283868-13-seconds.json) |
 | 13 Steps | 211388 | [211388-13-steps.json](./211388-13-steps.json) |
