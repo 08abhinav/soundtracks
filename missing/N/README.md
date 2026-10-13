@@ -1231,6 +1231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Needy Streamer Overload | 146564 | [146564-needy-streamer-overload.json](./146564-needy-streamer-overload.json) |
 | Neeko: Your 3D Interactive Monster | 262354 | [262354-neeko-your-3d-interactive-monster.json](./262354-neeko-your-3d-interactive-monster.json) |
 | Neera: Dark Secrets | 79806 | [79806-neera-dark-secrets.json](./79806-neera-dark-secrets.json) |
+| Neeron: The Blade of Nature | 173005 | [173005-neeron-the-blade-of-nature.json](./173005-neeron-the-blade-of-nature.json) |
 | NEET Simulator | 113768 | [113768-neet-simulator.json](./113768-neet-simulator.json) |
 | Nefarious Dreams | 330855 | [330855-nefarious-dreams.json](./330855-nefarious-dreams.json) |
 | Nefarium | 192452 | [192452-nefarium.json](./192452-nefarium.json) |
@@ -2373,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Up Hero | 45026 | [45026-next-up-hero.json](./45026-next-up-hero.json) |
 | Nextbots In Backrooms: Obunga | 221228 | [221228-nextbots-in-backrooms-obunga.json](./221228-nextbots-in-backrooms-obunga.json) |
 | Nextbots In The Backrooms | 265729 | [265729-nextbots-in-the-backrooms.json](./265729-nextbots-in-the-backrooms.json) |
+| Nextera | 173017 | [173017-nextera.json](./173017-nextera.json) |
 | Nextgen Sandbox | 124710 | [124710-nextgen-sandbox.json](./124710-nextgen-sandbox.json) |
 | NextNight | 252280 | [252280-nextnight.json](./252280-nextnight.json) |
 | NextRev: Care Manager Shiken | 179482 | [179482-nextrev-care-manager-shiken.json](./179482-nextrev-care-manager-shiken.json) |
@@ -3268,6 +3270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninety Thousand Acres | 321499 | [321499-ninety-thousand-acres.json](./321499-ninety-thousand-acres.json) |
 | Ninety-Nine Nights Online | 66135 | [66135-ninety-nine-nights-online.json](./66135-ninety-nine-nights-online.json) |
 | Ninety8 | 246977 | [246977-ninety8.json](./246977-ninety8.json) |
+| Ningakki XXVI FPS | 173205 | [173205-ningakki-xxvi-fps.json](./173205-ningakki-xxvi-fps.json) |
 | Ningen Maru | 178677 | [178677-ningen-maru.json](./178677-ningen-maru.json) |
 | Ningen Tower Battle | 346018 | [346018-ningen-tower-battle.json](./346018-ningen-tower-battle.json) |
 | NingPo MahJong | 209392 | [209392-ningpo-mahjong.json](./209392-ningpo-mahjong.json) |
