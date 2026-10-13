@@ -1896,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Memory of the Eternity | 183370 | [183370-in-memory-of-the-eternity.json](./183370-in-memory-of-the-eternity.json) |
 | In Memory of Titan | 69314 | [69314-in-memory-of-titan.json](./69314-in-memory-of-titan.json) |
 | In Misery: Episode 1 - The Farm | 290507 | [290507-in-misery-episode-1-the-farm.json](./290507-in-misery-episode-1-the-farm.json) |
+| In My Defense | 148284 | [148284-in-my-defense.json](./148284-in-my-defense.json) |
 | In my Father's House are Many Rooms | 388405 | [388405-in-my-fathers-house-are-many-rooms.json](./388405-in-my-fathers-house-are-many-rooms.json) |
 | In My Friend Carrie's Car | 135020 | [135020-in-my-friend-carries-car.json](./135020-in-my-friend-carries-car.json) |
 | In My Head | 317370 | [317370-in-my-head.json](./317370-in-my-head.json) |
@@ -3175,6 +3176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intelligent Design: An Evolutionary Sandbox | 36478 | [36478-intelligent-design-an-evolutionary-sandbox.json](./36478-intelligent-design-an-evolutionary-sandbox.json) |
 | Intelligent Destruction | 384165 | [384165-intelligent-destruction.json](./384165-intelligent-destruction.json) |
 | Intellivania | 270284 | [270284-intellivania.json](./270284-intellivania.json) |
+| Intellivision Collection 2 | 147179 | [147179-intellivision-collection-2.json](./147179-intellivision-collection-2.json) |
 | Intellivision Greatest Hits: 20th Anniversary Edition | 210044 | [210044-intellivision-greatest-hits-20th-anniversary-edition.json](./210044-intellivision-greatest-hits-20th-anniversary-edition.json) |
 | Intellivision Lives! | 3956 | [3956-intellivision-lives.json](./3956-intellivision-lives.json) |
 | Intellivision Rocks | 73321 | [73321-intellivision-rocks.json](./73321-intellivision-rocks.json) |
@@ -3194,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interactive Sex: BDSM | 371354 | [371354-interactive-sex-bdsm.json](./371354-interactive-sex-bdsm.json) |
 | Interactive Storybook DS: Series 3 | 269833 | [269833-interactive-storybook-ds-series-3.json](./269833-interactive-storybook-ds-series-3.json) |
 | Interalia | 354567 | [354567-interalia.json](./354567-interalia.json) |
+| Interastra | 147226 | [147226-interastra.json](./147226-interastra.json) |
 | Interballistic Symphony | 264804 | [264804-interballistic-symphony.json](./264804-interballistic-symphony.json) |
 | Interblocked | 257529 | [257529-interblocked.json](./257529-interblocked.json) |
 | Intercept | 234087 | [234087-intercept.json](./234087-intercept.json) |
@@ -3223,6 +3226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intergalactic Gus | 109482 | [109482-intergalactic-gus.json](./109482-intergalactic-gus.json) |
 | Intergalactic Mystery | 258913 | [258913-intergalactic-mystery.json](./258913-intergalactic-mystery.json) |
 | Intergalactic Panic!! | 236967 | [236967-intergalactic-panic.json](./236967-intergalactic-panic.json) |
+| Intergalactic Rescue | 147235 | [147235-intergalactic-rescue.json](./147235-intergalactic-rescue.json) |
 | Intergalactic Space Rescue | 85517 | [85517-intergalactic-space-rescue.json](./85517-intergalactic-space-rescue.json) |
 | Intergalactic Taxi Co. | 201124 | [201124-intergalactic-taxi-co.json](./201124-intergalactic-taxi-co.json) |
 | Intergalactic Zoo | 102278 | [102278-intergalactic-zoo.json](./102278-intergalactic-zoo.json) |
