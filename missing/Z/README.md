@@ -1404,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Simulator | 216802 | [216802-zoo-simulator.json](./216802-zoo-simulator.json) |
 | Zoo Sounds: Fun Educational Games for Kids | 95654 | [95654-zoo-sounds-fun-educational-games-for-kids.json](./95654-zoo-sounds-fun-educational-games-for-kids.json) |
 | Zoo Squad | 192394 | [192394-zoo-squad.json](./192394-zoo-squad.json) |
+| Zoo Strikers | 142193 | [142193-zoo-strikers.json](./142193-zoo-strikers.json) |
 | Zoo Time | 369685 | [369685-zoo-time.json](./369685-zoo-time.json) |
 | Zoo Transport | 270597 | [270597-zoo-transport.json](./270597-zoo-transport.json) |
 | Zoo Tycoon | 18538 | [18538-zoo-tycoon.json](./18538-zoo-tycoon.json) |
@@ -1419,6 +1420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Tycoon: Dinosaur Digs | 27807 | [27807-zoo-tycoon-dinosaur-digs.json](./27807-zoo-tycoon-dinosaur-digs.json) |
 | Zoo Tycoon: Marine Mania | 23769 | [23769-zoo-tycoon-marine-mania.json](./23769-zoo-tycoon-marine-mania.json) |
 | Zoo Vet | 79929 | [79929-zoo-vet.json](./79929-zoo-vet.json) |
+| Zoo World VR | 142197 | [142197-zoo-world-vr.json](./142197-zoo-world-vr.json) |
 | Zoo-ika | 314581 | [314581-zoo-ika.json](./314581-zoo-ika.json) |
 | Zoo-phonics 10: The Zoo Kitchen | 101477 | [101477-zoo-phonics-10-the-zoo-kitchen.json](./101477-zoo-phonics-10-the-zoo-kitchen.json) |
 | Zoo-phonics 11: The A-B-C Pool | 101476 | [101476-zoo-phonics-11-the-a-b-c-pool.json](./101476-zoo-phonics-11-the-a-b-c-pool.json) |
