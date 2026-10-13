@@ -3441,6 +3441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Game The Painting Mansion | 332492 | [332492-escape-game-the-painting-mansion.json](./332492-escape-game-the-painting-mansion.json) |
 | Escape Game: Aloha | 102623 | [102623-escape-game-aloha.json](./102623-escape-game-aloha.json) |
 | Escape Game: Cinderella | 228007 | [228007-escape-game-cinderella.json](./228007-escape-game-cinderella.json) |
+| Escape Game: Enchanting Tales | 174263 | [174263-escape-game-enchanting-tales.json](./174263-escape-game-enchanting-tales.json) |
 | Escape Game: R00m 02 | 334094 | [334094-escape-game-r00m-02.json](./334094-escape-game-r00m-02.json) |
 | Escape Game: The Old Folk House | 288312 | [288312-escape-game-the-old-folk-house.json](./288312-escape-game-the-old-folk-house.json) |
 | Escape Game:The Kitty The Vacant Lot | 351229 | [351229-escape-game-the-kitty-the-vacant-lot.json](./351229-escape-game-the-kitty-the-vacant-lot.json) |
@@ -5065,6 +5066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explorers of Space | 305452 | [305452-explorers-of-space.json](./305452-explorers-of-space.json) |
 | Explorers of Space | 47265 | [47265-explorers-of-space.json](./47265-explorers-of-space.json) |
 | Explorers: Deluxe Edition | 152280 | [152280-explorers-deluxe-edition.json](./152280-explorers-deluxe-edition.json) |
+| Explorers: The Game | 174242 | [174242-explorers-the-game.json](./174242-explorers-the-game.json) |
 | Exploria | 188419 | [188419-exploria.json](./188419-exploria.json) |
 | Exploring Friscott | 345409 | [345409-exploring-friscott.json](./345409-exploring-friscott.json) |
 | Exploring Phonics 1 for Beginners | 334109 | [334109-exploring-phonics-1-for-beginners.json](./334109-exploring-phonics-1-for-beginners.json) |
