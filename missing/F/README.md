@@ -1132,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Tennis | 239162 | [239162-family-tennis.json](./239162-family-tennis.json) |
 | Family Tennis Advance | 49581 | [49581-family-tennis-advance.json](./49581-family-tennis-advance.json) |
 | Family Town | 219265 | [219265-family-town.json](./219265-family-town.json) |
+| Family Trainer | 142814 | [142814-family-trainer.json](./142814-family-trainer.json) |
 | Family Trainer: Fuuun! Takeshi-jou 2 | 64499 | [64499-family-trainer-fuuun-takeshi-jou-2.json](./64499-family-trainer-fuuun-takeshi-jou-2.json) |
 | Family Tree | 124625 | [124625-family-tree.json](./124625-family-tree.json) |
 | Family Tree! | 274744 | [274744-family-tree.json](./274744-family-tree.json) |
@@ -4321,6 +4322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishes and Barrels | 244797 | [244797-fishes-and-barrels.json](./244797-fishes-and-barrels.json) |
 | Fishgun | 255238 | [255238-fishgun.json](./255238-fishgun.json) |
 | Fishhead 3: The Search For a Heart of Gold | 191256 | [191256-fishhead-3-the-search-for-a-heart-of-gold.json](./191256-fishhead-3-the-search-for-a-heart-of-gold.json) |
+| Fishhead: Blueprint | 142805 | [142805-fishhead-blueprint.json](./142805-fishhead-blueprint.json) |
 | Fishie Fishie | 79878 | [79878-fishie-fishie.json](./79878-fishie-fishie.json) |
 | Fishing | 209435 | [209435-fishing.json](./209435-fishing.json) |
 | Fishing | 246456 | [246456-fishing.json](./246456-fishing.json) |
@@ -4437,6 +4439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishos | 180763 | [180763-fishos.json](./180763-fishos.json) |
 | Fisht Fight | 367937 | [367937-fisht-fight.json](./367937-fisht-fight.json) |
 | Fishtank: Reality TV Simulator | 351159 | [351159-fishtank-reality-tv-simulator.json](./351159-fishtank-reality-tv-simulator.json) |
+| Fishticuffs | 142681 | [142681-fishticuffs.json](./142681-fishticuffs.json) |
 | Fishton: A Town to Remember | 219785 | [219785-fishton-a-town-to-remember.json](./219785-fishton-a-town-to-remember.json) |
 | FishVerse: Ultimate Fishing | 279140 | [279140-fishverse-ultimate-fishing.json](./279140-fishverse-ultimate-fishing.json) |
 | Fishy | 104572 | [104572-fishy.json](./104572-fishy.json) |
@@ -4891,6 +4894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Point | 114159 | [114159-flash-point.json](./114159-flash-point.json) |
 | Flash Point | 46793 | [46793-flash-point.json](./46793-flash-point.json) |
 | Flash Point Korea: AH-64D Longbow | 710 | [710-flash-point-korea-ah-64d-longbow.json](./710-flash-point-korea-ah-64d-longbow.json) |
+| Flash Poker - Texas Holdem | 142695 | [142695-flash-poker-texas-holdem.json](./142695-flash-poker-texas-holdem.json) |
 | Flash Racer | 359375 | [359375-flash-racer.json](./359375-flash-racer.json) |
 | Flash Traffic: City of Angels | 70063 | [70063-flash-traffic-city-of-angels.json](./70063-flash-traffic-city-of-angels.json) |
 | Flashback 2: Limited Edition | 210910 | [210910-flashback-2-limited-edition.json](./210910-flashback-2-limited-edition.json) |
@@ -5453,7 +5457,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowball | 248797 | [248797-flowball.json](./248797-flowball.json) |
 | Flowcubes | 164972 | [164972-flowcubes.json](./164972-flowcubes.json) |
 | Flowence | 309558 | [309558-flowence.json](./309558-flowence.json) |
-| Flower | 1354 | [1354-flower.json](./1354-flower.json) |
 | Flower and Animal 3D Encyclopedia | 77006 | [77006-flower-and-animal-3d-encyclopedia.json](./77006-flower-and-animal-3d-encyclopedia.json) |
 | Flower Bears | 307732 | [307732-flower-bears.json](./307732-flower-bears.json) |
 | Flower Board | 174253 | [174253-flower-board.json](./174253-flower-board.json) |
@@ -6587,6 +6590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forlorn Screams of Agony Echoing Forevermore | 374233 | [374233-forlorn-screams-of-agony-echoing-forevermore.json](./374233-forlorn-screams-of-agony-echoing-forevermore.json) |
 | Form | 187761 | [187761-form.json](./187761-form.json) |
 | Form | 28446 | [28446-form.json](./28446-form.json) |
+| Form / Twilight Path | 142779 | [142779-form-twilight-path.json](./142779-form-twilight-path.json) |
 | Form Fitting | 243567 | [243567-form-fitting.json](./243567-form-fitting.json) |
 | Form of a Legend | 132800 | [132800-form-of-a-legend.json](./132800-form-of-a-legend.json) |
 | Formaggio 2 | 327365 | [327365-formaggio-2.json](./327365-formaggio-2.json) |
@@ -7954,6 +7958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frobbutt 3D | 379139 | [379139-frobbutt-3d.json](./379139-frobbutt-3d.json) |
 | Frobozz Magic Support | 217781 | [217781-frobozz-magic-support.json](./217781-frobozz-magic-support.json) |
 | Frocket | 63807 | [63807-frocket.json](./63807-frocket.json) |
+| Frodoric the Driver | 142689 | [142689-frodoric-the-driver.json](./142689-frodoric-the-driver.json) |
 | Frog | 100997 | [100997-frog.json](./100997-frog.json) |
 | Frog | 309433 | [309433-frog.json](./309433-frog.json) |
 | Frog | 55874 | [55874-frog.json](./55874-frog.json) |
