@@ -8240,6 +8240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails of Cold Steel II - All Ride-Alongs | 124812 | [124812-the-legend-of-heroes-trails-of-cold-steel-ii-all-ride-alongs.json](./124812-the-legend-of-heroes-trails-of-cold-steel-ii-all-ride-alongs.json) |
 | The Legend of Heroes: Trails of Cold Steel II - Relentless Edition | 167087 | [167087-the-legend-of-heroes-trails-of-cold-steel-ii-relentless-edition.json](./167087-the-legend-of-heroes-trails-of-cold-steel-ii-relentless-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel III - Digital Limited Edition | 169217 | [169217-the-legend-of-heroes-trails-of-cold-steel-iii-digital-limited-edition.json](./169217-the-legend-of-heroes-trails-of-cold-steel-iii-digital-limited-edition.json) |
+| The Legend of Heroes: Trails of Cold Steel III - Kiseki Box | 136744 | [136744-the-legend-of-heroes-trails-of-cold-steel-iii-kiseki-box.json](./136744-the-legend-of-heroes-trails-of-cold-steel-iii-kiseki-box.json) |
 | The Legend of Heroes: Trails of Cold Steel III - Limited Kiseki Box | 167067 | [167067-the-legend-of-heroes-trails-of-cold-steel-iii-limited-kiseki-box.json](./167067-the-legend-of-heroes-trails-of-cold-steel-iii-limited-kiseki-box.json) |
 | The Legend of Heroes: Trails of Cold Steel IV - Digital Deluxe Edition | 169218 | [169218-the-legend-of-heroes-trails-of-cold-steel-iv-digital-deluxe-edition.json](./169218-the-legend-of-heroes-trails-of-cold-steel-iv-digital-deluxe-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel IV - Eternal Preservation Edition | 167068 | [167068-the-legend-of-heroes-trails-of-cold-steel-iv-eternal-preservation-edition.json](./167068-the-legend-of-heroes-trails-of-cold-steel-iv-eternal-preservation-edition.json) |
@@ -8251,6 +8252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails to Azure | 23323 | [23323-the-legend-of-heroes-trails-to-azure.json](./23323-the-legend-of-heroes-trails-to-azure.json) |
 | The Legend of Heroes: Trails to Azure - Deluxe Edition | 249169 | [249169-the-legend-of-heroes-trails-to-azure-deluxe-edition.json](./249169-the-legend-of-heroes-trails-to-azure-deluxe-edition.json) |
 | The Legend of Heroes: Zero no Kiseki | 192133 | [192133-the-legend-of-heroes-zero-no-kiseki.json](./192133-the-legend-of-heroes-zero-no-kiseki.json) |
+| The Legend of Heroes: Zero no Kiseki Evolution | 136756 | [136756-the-legend-of-heroes-zero-no-kiseki-evolution.json](./136756-the-legend-of-heroes-zero-no-kiseki-evolution.json) |
 | The Legend of HyperStar | 148847 | [148847-the-legend-of-hyperstar.json](./148847-the-legend-of-hyperstar.json) |
 | The Legend of Iowa | 269847 | [269847-the-legend-of-iowa.json](./269847-the-legend-of-iowa.json) |
 | The Legend of Kairo | 373360 | [373360-the-legend-of-kairo.json](./373360-the-legend-of-kairo.json) |
@@ -8916,6 +8918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magician's Curse | 12285 | [12285-the-magicians-curse.json](./12285-the-magicians-curse.json) |
 | The Magician's Handbook: Cursed Valley | 118180 | [118180-the-magicians-handbook-cursed-valley.json](./118180-the-magicians-handbook-cursed-valley.json) |
 | The Magician's Research | 123571 | [123571-the-magicians-research.json](./123571-the-magicians-research.json) |
+| The Magister | 137351 | [137351-the-magister.json](./137351-the-magister.json) |
 | The Magistrate | 247750 | [247750-the-magistrate.json](./247750-the-magistrate.json) |
 | The Magnet: First Night | 181299 | [181299-the-magnet-first-night.json](./181299-the-magnet-first-night.json) |
 | The Magnets | 148534 | [148534-the-magnets.json](./148534-the-magnets.json) |
@@ -16523,6 +16526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon: Wildlands - Gold Edition | 82078 | [82078-tom-clancys-ghost-recon-wildlands-gold-edition.json](./82078-tom-clancys-ghost-recon-wildlands-gold-edition.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Last Rites | 412553 | [412553-tom-clancys-ghost-recon-wildlands-last-rites.json](./412553-tom-clancys-ghost-recon-wildlands-last-rites.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Narco Road | 28173 | [28173-tom-clancys-ghost-recon-wildlands-narco-road.json](./28173-tom-clancys-ghost-recon-wildlands-narco-road.json) |
+| Tom Clancy's Ghost Recon: Wildlands - Special Edition | 136745 | [136745-tom-clancys-ghost-recon-wildlands-special-edition.json](./136745-tom-clancys-ghost-recon-wildlands-special-edition.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Ultimate Edition | 119071 | [119071-tom-clancys-ghost-recon-wildlands-ultimate-edition.json](./119071-tom-clancys-ghost-recon-wildlands-ultimate-edition.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Year 2 Gold Edition | 118900 | [118900-tom-clancys-ghost-recon-wildlands-year-2-gold-edition.json](./118900-tom-clancys-ghost-recon-wildlands-year-2-gold-edition.json) |
 | Tom Clancy's H.A.W.X | 264874 | [264874-tom-clancys-h-a-w-x.json](./264874-tom-clancys-h-a-w-x.json) |
@@ -20036,6 +20040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traumatarium | 268457 | [268457-traumatarium.json](./268457-traumatarium.json) |
 | Traumatarium: Penitent | 307745 | [307745-traumatarium-penitent.json](./307745-traumatarium-penitent.json) |
 | Träumerei: Chapter 0 | 280929 | [280929-traumerei-chapter-0.json](./280929-traumerei-chapter-0.json) |
+| Träumerei: Chapter 1 | 137355 | [137355-traumerei-chapter-1.json](./137355-traumerei-chapter-1.json) |
 | Träumerei: Chapter 2 | 137465 | [137465-traumerei-chapter-2.json](./137465-traumerei-chapter-2.json) |
 | Träumerei: Chapter 3 | 137447 | [137447-traumerei-chapter-3.json](./137447-traumerei-chapter-3.json) |
 | Träumerei: Chapter 4 | 137448 | [137448-traumerei-chapter-4.json](./137448-traumerei-chapter-4.json) |
@@ -21720,7 +21725,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TurretGirls | 347243 | [347243-turretgirls.json](./347243-turretgirls.json) |
 | TurretMaster | 75954 | [75954-turretmaster.json](./75954-turretmaster.json) |
 | Turrican 3 | 12803 | [12803-turrican-3.json](./12803-turrican-3.json) |
+| Turrican Anthology Vol. 1 | 137324 | [137324-turrican-anthology-vol-1.json](./137324-turrican-anthology-vol-1.json) |
+| Turrican Anthology Vol. 2 | 137325 | [137325-turrican-anthology-vol-2.json](./137325-turrican-anthology-vol-2.json) |
+| Turrican Collector's Edition | 137329 | [137329-turrican-collectors-edition.json](./137329-turrican-collectors-edition.json) |
 | Turrican III | 37098 | [37098-turrican-iii.json](./37098-turrican-iii.json) |
+| Turrican: Ultra Collector's Edition | 137330 | [137330-turrican-ultra-collectors-edition.json](./137330-turrican-ultra-collectors-edition.json) |
 | Turrim 3D | 176250 | [176250-turrim-3d.json](./176250-turrim-3d.json) |
 | TuRT ToSS | 180681 | [180681-turt-toss.json](./180681-turt-toss.json) |
 | Turte | 309885 | [309885-turte.json](./309885-turte.json) |
