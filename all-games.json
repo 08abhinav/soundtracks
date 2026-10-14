@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T21:28:24.976Z",
-  "total_soundtracks": 1666,
+  "generated_at": "2026-10-14T21:28:38.794Z",
+  "total_soundtracks": 1667,
   "games": [
     {
       "igdb_id": 7522,
@@ -18198,6 +18198,20 @@
           "album_name": "Vampire Survivors: Volume 1 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0zKaxTtMKbf7SH4zEqcthe",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 152087,
+      "game_name": "Vampire: The Masquerade - Bloodhunt",
+      "game_url": "https://ostdb.net/games/vampire-the-masquerade-bloodhunt",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27329220be98b5c445fe7d1ec0b",
+      "albums": [
+        {
+          "album_name": "Vampire: The Masquerade - Bloodhunt (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0iZPgfkRX5uYhp0eQ765gA",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
