@@ -1554,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parfait Fan Box | 332428 | [332428-parfait-fan-box.json](./332428-parfait-fan-box.json) |
 | Parfait Remake | 167107 | [167107-parfait-remake.json](./167107-parfait-remake.json) |
 | Parfait Remake: Complete Limited Edition | 159813 | [159813-parfait-remake-complete-limited-edition.json](./159813-parfait-remake-complete-limited-edition.json) |
+| Parfait: Chocolat Second Brew | 79168 | [79168-parfait-chocolat-second-brew.json](./79168-parfait-chocolat-second-brew.json) |
 | Parfum Nostalgique | 259057 | [259057-parfum-nostalgique.json](./259057-parfum-nostalgique.json) |
 | Pari Delicto | 384531 | [384531-pari-delicto.json](./384531-pari-delicto.json) |
 | Parigami | 256182 | [256182-parigami.json](./256182-parigami.json) |
@@ -6526,6 +6527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platonic Paranoia | 117863 | [117863-platonic-paranoia.json](./117863-platonic-paranoia.json) |
 | Platonically Mauled by a Magic Cougar | 225195 | [225195-platonically-mauled-by-a-magic-cougar.json](./225195-platonically-mauled-by-a-magic-cougar.json) |
 | Platoon | 372245 | [372245-platoon.json](./372245-platoon.json) |
+| Platoon | 79175 | [79175-platoon.json](./79175-platoon.json) |
 | Platoon Commander | 328034 | [328034-platoon-commander.json](./328034-platoon-commander.json) |
 | Platoon Leader | 152132 | [152132-platoon-leader.json](./152132-platoon-leader.json) |
 | Platro | 31346 | [31346-platro.json](./31346-platro.json) |
@@ -9624,6 +9626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prime World: Defenders 2 | 112944 | [112944-prime-world-defenders-2.json](./112944-prime-world-defenders-2.json) |
 | Prime's Quest | 63555 | [63555-primes-quest.json](./63555-primes-quest.json) |
 | Primedice | 76563 | [76563-primedice.json](./76563-primedice.json) |
+| PriMemory | 79135 | [79135-primemory.json](./79135-primemory.json) |
 | PrimeOrbial | 120073 | [120073-primeorbial.json](./120073-primeorbial.json) |
 | Primer | 247086 | [247086-primer.json](./247086-primer.json) |
 | Primeval | 158688 | [158688-primeval.json](./158688-primeval.json) |
