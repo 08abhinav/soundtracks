@@ -10912,6 +10912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack from Mars | 217825 | [217825-attack-from-mars.json](./217825-attack-from-mars.json) |
 | Attack From Mars | 91434 | [91434-attack-from-mars.json](./91434-attack-from-mars.json) |
 | Attack Heroes | 28305 | [28305-attack-heroes.json](./28305-attack-heroes.json) |
+| Attack of the Alien Robot Monsters | 114745 | [114745-attack-of-the-alien-robot-monsters.json](./114745-attack-of-the-alien-robot-monsters.json) |
 | Attack of the alien thingies from lava! | 129617 | [129617-attack-of-the-alien-thingies-from-lava.json](./129617-attack-of-the-alien-thingies-from-lava.json) |
 | Attack of the Creeps | 72054 | [72054-attack-of-the-creeps.json](./72054-attack-of-the-creeps.json) |
 | Attack of The Dead | 379986 | [379986-attack-of-the-dead.json](./379986-attack-of-the-dead.json) |
