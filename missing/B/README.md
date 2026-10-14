@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon | 15656 | [15656-backgammon.json](./15656-backgammon.json) |
 | Backgammon | 214045 | [214045-backgammon.json](./214045-backgammon.json) |
 | Backgammon | 339276 | [339276-backgammon.json](./339276-backgammon.json) |
+| Backgammon | 78530 | [78530-backgammon.json](./78530-backgammon.json) |
 | Backgammon 2000 | 97485 | [97485-backgammon-2000.json](./97485-backgammon-2000.json) |
 | Backgammon 3D | 146896 | [146896-backgammon-3d.json](./146896-backgammon-3d.json) |
 | Backgammon Blitz | 8660 | [8660-backgammon-blitz.json](./8660-backgammon-blitz.json) |
@@ -1613,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie Girl | 260128 | [260128-barbie-girl.json](./260128-barbie-girl.json) |
 | Barbie Horse Adventures: Blue Ribbon Race | 3310 | [3310-barbie-horse-adventures-blue-ribbon-race.json](./3310-barbie-horse-adventures-blue-ribbon-race.json) |
 | Barbie Horse Adventures: Mystery Ride | 125306 | [125306-barbie-horse-adventures-mystery-ride.json](./125306-barbie-horse-adventures-mystery-ride.json) |
+| Barbie Horse Adventures: Riding Camp | 78527 | [78527-barbie-horse-adventures-riding-camp.json](./78527-barbie-horse-adventures-riding-camp.json) |
 | Barbie Horse Adventures: Wild Horse Rescue | 3311 | [3311-barbie-horse-adventures-wild-horse-rescue.json](./3311-barbie-horse-adventures-wild-horse-rescue.json) |
 | Barbie in the 12 Dancing Princesses | 200591 | [200591-barbie-in-the-12-dancing-princesses.json](./200591-barbie-in-the-12-dancing-princesses.json) |
 | Barbie in the 12 Dancing Princesses | 293194 | [293194-barbie-in-the-12-dancing-princesses.json](./293194-barbie-in-the-12-dancing-princesses.json) |
@@ -4768,6 +4770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bher | 359361 | [359361-bher.json](./359361-bher.json) |
 | Bhop Craze | 201503 | [201503-bhop-craze.json](./201503-bhop-craze.json) |
 | Bhop PRO | 144294 | [144294-bhop-pro.json](./144294-bhop-pro.json) |
+| BHunter | 78521 | [78521-bhunter.json](./78521-bhunter.json) |
 | Bi-Color | 176381 | [176381-bi-color.json](./176381-bi-color.json) |
 | Bi! Bi! | 40742 | [40742-bi-bi.json](./40742-bi-bi.json) |
 | Bia | 183921 | [183921-bia.json](./183921-bia.json) |
