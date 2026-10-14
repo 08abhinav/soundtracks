@@ -2883,6 +2883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where the Demon Lurks | 209631 | [209631-where-the-demon-lurks.json](./209631-where-the-demon-lurks.json) |
 | Where the Forest Lies | 364532 | [364532-where-the-forest-lies.json](./364532-where-the-forest-lies.json) |
 | Where the Fuck is Richard? | 62777 | [62777-where-the-fuck-is-richard.json](./62777-where-the-fuck-is-richard.json) |
+| Where the Goats Are | 74252 | [74252-where-the-goats-are.json](./74252-where-the-goats-are.json) |
 | Where the Hell Am I? | 390211 | [390211-where-the-hell-am-i.json](./390211-where-the-hell-am-i.json) |
 | Where the Music Dies | 277344 | [277344-where-the-music-dies.json](./277344-where-the-music-dies.json) |
 | Where the Redwood Ends | 416808 | [416808-where-the-redwood-ends.json](./416808-where-the-redwood-ends.json) |
@@ -4191,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiper | 312020 | [312020-wiper.json](./312020-wiper.json) |
 | Wiping | 38558 | [38558-wiping.json](./38558-wiping.json) |
 | Wira | 412232 | [412232-wira.json](./412232-wira.json) |
+| Wira & Taksa: Against the Master of Gravity | 74221 | [74221-wira-and-taksa-against-the-master-of-gravity.json](./74221-wira-and-taksa-against-the-master-of-gravity.json) |
 | Wiraburut rai Phalang: Khai Tom | 207044 | [207044-wiraburut-rai-phalang-khai-tom.json](./207044-wiraburut-rai-phalang-khai-tom.json) |
 | Wire | 195755 | [195755-wire.json](./195755-wire.json) |
 | Wire | 196541 | [196541-wire.json](./196541-wire.json) |
