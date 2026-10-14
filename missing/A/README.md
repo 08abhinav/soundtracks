@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Divine Wager | 176912 | [176912-a-divine-wager.json](./176912-a-divine-wager.json) |
 | A Doctor's Term | 297762 | [297762-a-doctors-term.json](./297762-a-doctors-term.json) |
 | A Dog Called Buddy | 341469 | [341469-a-dog-called-buddy.json](./341469-a-dog-called-buddy.json) |
+| A Dog Named Dave Stuck on a Rave | 103280 | [103280-a-dog-named-dave-stuck-on-a-rave.json](./103280-a-dog-named-dave-stuck-on-a-rave.json) |
 | A Dog Named Mato | 159533 | [159533-a-dog-named-mato.json](./159533-a-dog-named-mato.json) |
 | A Dog of Flanders | 258387 | [258387-a-dog-of-flanders.json](./258387-a-dog-of-flanders.json) |
 | A Dog Tale | 295872 | [295872-a-dog-tale.json](./295872-a-dog-tale.json) |
@@ -10141,6 +10142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Storm | 15604 | [15604-asteroid-storm.json](./15604-asteroid-storm.json) |
 | Asteroid Turret Defender VR | 112821 | [112821-asteroid-turret-defender-vr.json](./112821-asteroid-turret-defender-vr.json) |
 | Asteroid Wars | 116328 | [116328-asteroid-wars.json](./116328-asteroid-wars.json) |
+| Asteroid-Hunter | 103220 | [103220-asteroid-hunter.json](./103220-asteroid-hunter.json) |
 | Asteroides | 186690 | [186690-asteroides.json](./186690-asteroides.json) |
 | Asteroidia | 369915 | [369915-asteroidia.json](./369915-asteroidia.json) |
 | Asteroidiga | 126541 | [126541-asteroidiga.json](./126541-asteroidiga.json) |
@@ -10361,6 +10363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Navigator | 15606 | [15606-astro-navigator.json](./15606-astro-navigator.json) |
 | Astro Ninja Man DX | 206600 | [206600-astro-ninja-man-dx.json](./206600-astro-ninja-man-dx.json) |
 | Astro Odyssey | 336510 | [336510-astro-odyssey.json](./336510-astro-odyssey.json) |
+| Astro Party | 103234 | [103234-astro-party.json](./103234-astro-party.json) |
 | Astro Pig | 240751 | [240751-astro-pig.json](./240751-astro-pig.json) |
 | Astro Planes | 273355 | [273355-astro-planes.json](./273355-astro-planes.json) |
 | Astro Rabby | 7759 | [7759-astro-rabby.json](./7759-astro-rabby.json) |
