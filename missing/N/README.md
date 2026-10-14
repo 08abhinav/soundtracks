@@ -4532,6 +4532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northward | 408026 | [408026-northward.json](./408026-northward.json) |
 | Northwest Fur Trader | 387691 | [387691-northwest-fur-trader.json](./387691-northwest-fur-trader.json) |
 | Northwind | 190958 | [190958-northwind.json](./190958-northwind.json) |
+| Nortinium | 122791 | [122791-nortinium.json](./122791-nortinium.json) |
 | Norukasoruka | 398984 | [398984-norukasoruka.json](./398984-norukasoruka.json) |
 | Norukasoruka: Tanpenshuu | 398985 | [398985-norukasoruka-tanpenshuu.json](./398985-norukasoruka-tanpenshuu.json) |
 | NoRush! | 410293 | [410293-norush.json](./410293-norush.json) |
