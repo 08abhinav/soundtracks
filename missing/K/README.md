@@ -2418,6 +2418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiniro no Corda: La Corda d'Oro | 57705 | [57705-kiniro-no-corda-la-corda-doro.json](./57705-kiniro-no-corda-la-corda-doro.json) |
 | Kiniro no Korda Starlight Orchestra | 220314 | [220314-kiniro-no-korda-starlight-orchestra.json](./220314-kiniro-no-korda-starlight-orchestra.json) |
 | Kinkey Dong | 275225 | [275225-kinkey-dong.json](./275225-kinkey-dong.json) |
+| Kinkshamed | 105181 | [105181-kinkshamed.json](./105181-kinkshamed.json) |
 | Kinky Cosplay Heroes | 275727 | [275727-kinky-cosplay-heroes.json](./275727-kinky-cosplay-heroes.json) |
 | Kinky Fight Club 2 | 267000 | [267000-kinky-fight-club-2.json](./267000-kinky-fight-club-2.json) |
 | Kinniku Banzuke GB 3: Shinseiki Survival Retsuden! | 281657 | [281657-kinniku-banzuke-gb-3-shinseiki-survival-retsuden.json](./281657-kinniku-banzuke-gb-3-shinseiki-survival-retsuden.json) |
