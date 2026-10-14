@@ -2292,6 +2292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Rush Vengeance: Pirate Kings Campaign | 346006 | [346006-kingdom-rush-vengeance-pirate-kings-campaign.json](./346006-kingdom-rush-vengeance-pirate-kings-campaign.json) |
 | Kingdom Rush: Battles | 365682 | [365682-kingdom-rush-battles.json](./365682-kingdom-rush-battles.json) |
 | Kingdom Simulator | 260601 | [260601-kingdom-simulator.json](./260601-kingdom-simulator.json) |
+| Kingdom Story: Brave Legion | 108897 | [108897-kingdom-story-brave-legion.json](./108897-kingdom-story-brave-legion.json) |
 | Kingdom Traveler | 189080 | [189080-kingdom-traveler.json](./189080-kingdom-traveler.json) |
 | Kingdom Treasury Collection | 121422 | [121422-kingdom-treasury-collection.json](./121422-kingdom-treasury-collection.json) |
 | Kingdom Two Crowns | 27436 | [27436-kingdom-two-crowns.json](./27436-kingdom-two-crowns.json) |
@@ -2583,6 +2584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kishki | 376480 | [376480-kishki.json](./376480-kishki.json) |
 | Kismet | 19042 | [19042-kismet.json](./19042-kismet.json) |
 | Kismet Tapestry | 188931 | [188931-kismet-tapestry.json](./188931-kismet-tapestry.json) |
+| Kisou Louga II: The Ends of Shangrila | 108818 | [108818-kisou-louga-ii-the-ends-of-shangrila.json](./108818-kisou-louga-ii-the-ends-of-shangrila.json) |
 | Kisou Ryouhei Gunhound EX | 42872 | [42872-kisou-ryouhei-gunhound-ex.json](./42872-kisou-ryouhei-gunhound-ex.json) |
 | Kisoubanashi Kureha | 108865 | [108865-kisoubanashi-kureha.json](./108865-kisoubanashi-kureha.json) |
 | Kiss & Crisis | 194570 | [194570-kiss-and-crisis.json](./194570-kiss-and-crisis.json) |
