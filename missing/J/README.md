@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack The Mime | 402454 | [402454-jack-the-mime.json](./402454-jack-the-mime.json) |
 | Jack the Nipper II: In Coconut Capers | 40944 | [40944-jack-the-nipper-ii-in-coconut-capers.json](./40944-jack-the-nipper-ii-in-coconut-capers.json) |
 | Jack the Ripper | 169989 | [169989-jack-the-ripper.json](./169989-jack-the-ripper.json) |
+| Jack the Ripper - Letters from Hell | 122098 | [122098-jack-the-ripper-letters-from-hell.json](./122098-jack-the-ripper-letters-from-hell.json) |
 | Jack the Ripper: Hunter Clan | 346568 | [346568-jack-the-ripper-hunter-clan.json](./346568-jack-the-ripper-hunter-clan.json) |
 | Jack troubles | 128310 | [128310-jack-troubles.json](./128310-jack-troubles.json) |
 | Jack Vs Ninjas | 96769 | [96769-jack-vs-ninjas.json](./96769-jack-vs-ninjas.json) |
@@ -279,6 +280,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jake Hunter Unleashed 4: Behind Closed Doors | 349486 | [349486-jake-hunter-unleashed-4-behind-closed-doors.json](./349486-jake-hunter-unleashed-4-behind-closed-doors.json) |
 | Jake Hunter Unleashed 5: Last Christmas | 349487 | [349487-jake-hunter-unleashed-5-last-christmas.json](./349487-jake-hunter-unleashed-5-last-christmas.json) |
 | Jake Hunter: Detective Chronicles | 21049 | [21049-jake-hunter-detective-chronicles.json](./21049-jake-hunter-detective-chronicles.json) |
+| Jake Power: Handyman | 123330 | [123330-jake-power-handyman.json](./123330-jake-power-handyman.json) |
+| Jake Power: Policeman | 123329 | [123329-jake-power-policeman.json](./123329-jake-power-policeman.json) |
 | Jake's Apple Harvest | 258548 | [258548-jakes-apple-harvest.json](./258548-jakes-apple-harvest.json) |
 | Jake's Halloween Night | 216770 | [216770-jakes-halloween-night.json](./216770-jakes-halloween-night.json) |
 | Jake's Love Story | 68331 | [68331-jakes-love-story.json](./68331-jakes-love-story.json) |
@@ -2053,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juggle! | 91904 | [91904-juggle.json](./91904-juggle.json) |
 | Jugglenoid | 319132 | [319132-jugglenoid.json](./319132-jugglenoid.json) |
 | Juggler | 195044 | [195044-juggler.json](./195044-juggler.json) |
+| Juggler DS | 123334 | [123334-juggler-ds.json](./123334-juggler-ds.json) |
 | Juggles' Butterfly | 72105 | [72105-juggles-butterfly.json](./72105-juggles-butterfly.json) |
 | Juggling | 340778 | [340778-juggling.json](./340778-juggling.json) |
 | Juggling BBQ HD | 253260 | [253260-juggling-bbq-hd.json](./253260-juggling-bbq-hd.json) |
@@ -2158,6 +2162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Force: Character Pack 7 - Madara Uchiha | 167779 | [167779-jump-force-character-pack-7-madara-uchiha.json](./167779-jump-force-character-pack-7-madara-uchiha.json) |
 | Jump Force: Character Pack 8 - Grimmjow Jaegerjaquez | 167778 | [167778-jump-force-character-pack-8-grimmjow-jaegerjaquez.json](./167778-jump-force-character-pack-8-grimmjow-jaegerjaquez.json) |
 | Jump Force: Character Pack 9 - Trafalgar Law | 167776 | [167776-jump-force-character-pack-9-trafalgar-law.json](./167776-jump-force-character-pack-9-trafalgar-law.json) |
+| Jump Force: Ultimate Edition | 118721 | [118721-jump-force-ultimate-edition.json](./118721-jump-force-ultimate-edition.json) |
 | Jump Frog | 246343 | [246343-jump-frog.json](./246343-jump-frog.json) |
 | Jump Generation | 74995 | [74995-jump-generation.json](./74995-jump-generation.json) |
 | Jump Greed | 363563 | [363563-jump-greed.json](./363563-jump-greed.json) |
@@ -2653,6 +2658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Cause 3: Multiplayer Mod | 153016 | [153016-just-cause-3-multiplayer-mod.json](./153016-just-cause-3-multiplayer-mod.json) |
 | Just Cause 3: Sky Fortress | 18043 | [18043-just-cause-3-sky-fortress.json](./18043-just-cause-3-sky-fortress.json) |
 | Just Cause 3: XL Edition | 36448 | [36448-just-cause-3-xl-edition.json](./36448-just-cause-3-xl-edition.json) |
+| Just Cause 3: XXL Edition | 118703 | [118703-just-cause-3-xxl-edition.json](./118703-just-cause-3-xxl-edition.json) |
 | Just Cause 4 | 103261 | [103261-just-cause-4.json](./103261-just-cause-4.json) |
 | Just Cause 4: Danger Rising | 121529 | [121529-just-cause-4-danger-rising.json](./121529-just-cause-4-danger-rising.json) |
 | Just Cause 4: Dare Devils of Destruction | 117492 | [117492-just-cause-4-dare-devils-of-destruction.json](./117492-just-cause-4-dare-devils-of-destruction.json) |
