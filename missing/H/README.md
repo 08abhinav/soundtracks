@@ -7530,6 +7530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Solitaire | 73883 | [73883-hoyle-solitaire.json](./73883-hoyle-solitaire.json) |
 | Hoyle South Beach Solitaire | 210051 | [210051-hoyle-south-beach-solitaire.json](./210051-hoyle-south-beach-solitaire.json) |
 | Hoyle Table Games 2004 | 70940 | [70940-hoyle-table-games-2004.json](./70940-hoyle-table-games-2004.json) |
+| Hoyle Word Games | 98884 | [98884-hoyle-word-games.json](./98884-hoyle-word-games.json) |
 | Hoyo | 301074 | [301074-hoyo.json](./301074-hoyo.json) |
 | Hozy | 345443 | [345443-hozy.json](./345443-hozy.json) |
 | HPL: Nyarlathotep Rising | 258223 | [258223-hpl-nyarlathotep-rising.json](./258223-hpl-nyarlathotep-rising.json) |
@@ -8211,6 +8212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Dyne: Side Arms | 42033 | [42033-hyper-dyne-side-arms.json](./42033-hyper-dyne-side-arms.json) |
 | Hyper Echelon | 148923 | [148923-hyper-echelon.json](./148923-hyper-echelon.json) |
 | Hyper Empire | 333790 | [333790-hyper-empire.json](./333790-hyper-empire.json) |
+| Hyper Fighter Boost Mode ON | 98895 | [98895-hyper-fighter-boost-mode-on.json](./98895-hyper-fighter-boost-mode-on.json) |
 | Hyper Fighters | 10423 | [10423-hyper-fighters.json](./10423-hyper-fighters.json) |
 | Hyper Fighting | 195212 | [195212-hyper-fighting.json](./195212-hyper-fighting.json) |
 | Hyper Flight | 117486 | [117486-hyper-flight.json](./117486-hyper-flight.json) |
