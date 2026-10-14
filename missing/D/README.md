@@ -2337,6 +2337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Link: Pages Torn | 75808 | [75808-dead-link-pages-torn.json](./75808-dead-link-pages-torn.json) |
 | Dead Mall | 342614 | [342614-dead-mall.json](./342614-dead-mall.json) |
 | Dead Man Shooting | 183597 | [183597-dead-man-shooting.json](./183597-dead-man-shooting.json) |
+| Dead Man's Country | 112096 | [112096-dead-mans-country.json](./112096-dead-mans-country.json) |
 | Dead Man's Day | 411684 | [411684-dead-mans-day.json](./411684-dead-mans-day.json) |
 | Dead Man's Diary | 194871 | [194871-dead-mans-diary.json](./194871-dead-mans-diary.json) |
 | Dead Man's Fault | 228082 | [228082-dead-mans-fault.json](./228082-dead-mans-fault.json) |
@@ -4273,6 +4274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons of Problematique | 260126 | [260126-demons-of-problematique.json](./260126-demons-of-problematique.json) |
 | Demons of Problematique 2 | 260127 | [260127-demons-of-problematique-2.json](./260127-demons-of-problematique-2.json) |
 | Demons of the Dread Sea | 417646 | [417646-demons-of-the-dread-sea.json](./417646-demons-of-the-dread-sea.json) |
+| Demons Ring | 112199 | [112199-demons-ring.json](./112199-demons-ring.json) |
 | Demons Rise Up! | 192877 | [192877-demons-rise-up.json](./192877-demons-rise-up.json) |
 | Demons Roots | 189139 | [189139-demons-roots.json](./189139-demons-roots.json) |
 | Demons vs. Fairyland | 245328 | [245328-demons-vs-fairyland.json](./245328-demons-vs-fairyland.json) |
