@@ -2934,6 +2934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Farce | 322067 | [322067-mars-farce.json](./322067-mars-farce.json) |
 | Mars Farming 2034 | 300845 | [300845-mars-farming-2034.json](./300845-mars-farming-2034.json) |
 | Mars First Logistics | 159753 | [159753-mars-first-logistics.json](./159753-mars-first-logistics.json) |
+| Mars Flight VR | 113554 | [113554-mars-flight-vr.json](./113554-mars-flight-vr.json) |
 | Mars for the Rich | 202382 | [202382-mars-for-the-rich.json](./202382-mars-for-the-rich.json) |
 | Mars Future | 347656 | [347656-mars-future.json](./347656-mars-future.json) |
 | Mars Hopper | 341652 | [341652-mars-hopper.json](./341652-mars-hopper.json) |
@@ -5406,6 +5407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaMan: Citrus Cult | 323767 | [323767-megaman-citrus-cult.json](./323767-megaman-citrus-cult.json) |
 | Megaman: The Great Catastrophe | 323882 | [323882-megaman-the-great-catastrophe.json](./323882-megaman-the-great-catastrophe.json) |
 | Megamaze | 208393 | [208393-megamaze.json](./208393-megamaze.json) |
+| Megamedia's Megapak 3 | 113531 | [113531-megamedias-megapak-3.json](./113531-megamedias-megapak-3.json) |
 | MegaMegaEggs | 309484 | [309484-megamegaeggs.json](./309484-megamegaeggs.json) |
 | MegaMek | 108982 | [108982-megamek.json](./108982-megamek.json) |
 | Megami Ibunroku Persona | 240506 | [240506-megami-ibunroku-persona.json](./240506-megami-ibunroku-persona.json) |
