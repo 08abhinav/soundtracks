@@ -1573,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Has Your Dream of Dating a Cute Bunny Girl Finally Come True?! | 237442 | [237442-has-your-dream-of-dating-a-cute-bunny-girl-finally-come-true.json](./237442-has-your-dream-of-dating-a-cute-bunny-girl-finally-come-true.json) |
 | Hasamu | 40176 | [40176-hasamu.json](./40176-hasamu.json) |
 | Hasbro Family Fun Pack - Conquest Edition | 118454 | [118454-hasbro-family-fun-pack-conquest-edition.json](./118454-hasbro-family-fun-pack-conquest-edition.json) |
+| Hasbro Family Fun Pack Super Edition | 99528 | [99528-hasbro-family-fun-pack-super-edition.json](./99528-hasbro-family-fun-pack-super-edition.json) |
 | Hasbro Family Game Night 2 | 50606 | [50606-hasbro-family-game-night-2.json](./50606-hasbro-family-game-night-2.json) |
 | Hasbro Family Game Night 3 | 47434 | [47434-hasbro-family-game-night-3.json](./47434-hasbro-family-game-night-3.json) |
 | Hasbro Family Game Night: Volume 2 | 23253 | [23253-hasbro-family-game-night-volume-2.json](./23253-hasbro-family-game-night-volume-2.json) |
@@ -1808,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Service | 387601 | [387601-haunted-service.json](./387601-haunted-service.json) |
 | Haunted Space Hotel: Vacancy | 330508 | [330508-haunted-space-hotel-vacancy.json](./330508-haunted-space-hotel-vacancy.json) |
 | Haunted Starbase | 317360 | [317360-haunted-starbase.json](./317360-haunted-starbase.json) |
+| Haunted Theme Park Hidden Object | 99503 | [99503-haunted-theme-park-hidden-object.json](./99503-haunted-theme-park-hidden-object.json) |
 | Haunted Train: Frozen in Time | 140032 | [140032-haunted-train-frozen-in-time.json](./140032-haunted-train-frozen-in-time.json) |
 | Haunted Train: Spirits of Charon | 140033 | [140033-haunted-train-spirits-of-charon.json](./140033-haunted-train-spirits-of-charon.json) |
 | Haunted Train: Spirits of Charon - Collector's Edition | 36486 | [36486-haunted-train-spirits-of-charon-collectors-edition.json](./36486-haunted-train-spirits-of-charon-collectors-edition.json) |
@@ -3912,6 +3914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeroBattle | 369647 | [369647-herobattle.json](./369647-herobattle.json) |
 | Herobotix | 55204 | [55204-herobotix.json](./55204-herobotix.json) |
 | HeroBound: Spirit Champion | 60196 | [60196-herobound-spirit-champion.json](./60196-herobound-spirit-champion.json) |
+| HeroCade | 99516 | [99516-herocade.json](./99516-herocade.json) |
 | HeroClix TabApp | 64098 | [64098-heroclix-tabapp.json](./64098-heroclix-tabapp.json) |
 | HeroClix TabApp ASM | 64099 | [64099-heroclix-tabapp-asm.json](./64099-heroclix-tabapp-asm.json) |
 | Herodes | 203244 | [203244-herodes.json](./203244-herodes.json) |
@@ -6300,6 +6303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honoo no Toukyuuji: Dodge Danpei | 267660 | [267660-honoo-no-toukyuuji-dodge-danpei.json](./267660-honoo-no-toukyuuji-dodge-danpei.json) |
 | Honoo no Toukyuuji: Dodge Danpei | 272812 | [272812-honoo-no-toukyuuji-dodge-danpei.json](./272812-honoo-no-toukyuuji-dodge-danpei.json) |
 | Honoo no Toukyuuji: Dodge Danpei | 42053 | [42053-honoo-no-toukyuuji-dodge-danpei.json](./42053-honoo-no-toukyuuji-dodge-danpei.json) |
+| Honor and Duty: Arcade Edition | 99530 | [99530-honor-and-duty-arcade-edition.json](./99530-honor-and-duty-arcade-edition.json) |
 | Honor Battle | 303565 | [303565-honor-battle.json](./303565-honor-battle.json) |
 | Honor Cry: Aftermath | 102946 | [102946-honor-cry-aftermath.json](./102946-honor-cry-aftermath.json) |
 | Honor Hill | 130110 | [130110-honor-hill.json](./130110-honor-hill.json) |
