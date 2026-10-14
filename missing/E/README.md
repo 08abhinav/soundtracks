@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force: Insect Armageddon - Tactician Advanced Tech Package | 226814 | [226814-earth-defense-force-insect-armageddon-tactician-advanced-tech-package.json](./226814-earth-defense-force-insect-armageddon-tactician-advanced-tech-package.json) |
 | Earth Defense Force: Insect Armageddon - Trooper Special Issue Enforcer Package | 226813 | [226813-earth-defense-force-insect-armageddon-trooper-special-issue-enforcer-package.json](./226813-earth-defense-force-insect-armageddon-trooper-special-issue-enforcer-package.json) |
 | Earth Defense Force: Iron Rain - Mission: Golden Storm | 168233 | [168233-earth-defense-force-iron-rain-mission-golden-storm.json](./168233-earth-defense-force-iron-rain-mission-golden-storm.json) |
+| Earth Defense Force: Iron Rain - Ultimate Edition | 118694 | [118694-earth-defense-force-iron-rain-ultimate-edition.json](./118694-earth-defense-force-iron-rain-ultimate-edition.json) |
 | Earth Defense Force: World Brothers | 139067 | [139067-earth-defense-force-world-brothers.json](./139067-earth-defense-force-world-brothers.json) |
 | Earth Defense Force: World Brothers - Additional Character: Riho Futaba, Classic Hostess Costume | 168232 | [168232-earth-defense-force-world-brothers-additional-character-riho-futaba-classic-hostess-costume.json](./168232-earth-defense-force-world-brothers-additional-character-riho-futaba-classic-hostess-costume.json) |
 | Earth Defense Force: World Brothers - Additional Mission Pack: Another Rescube | 168237 | [168237-earth-defense-force-world-brothers-additional-mission-pack-another-rescube.json](./168237-earth-defense-force-world-brothers-additional-mission-pack-another-rescube.json) |
@@ -5360,6 +5361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extremely Realistic Siege Warfare Simulator | 130957 | [130957-extremely-realistic-siege-warfare-simulator.json](./130957-extremely-realistic-siege-warfare-simulator.json) |
 | ExtremeRetroArena | 235887 | [235887-extremeretroarena.json](./235887-extremeretroarena.json) |
 | ExtremeTK | 136861 | [136861-extremetk.json](./136861-extremetk.json) |
+| Exurgo | 118674 | [118674-exurgo.json](./118674-exurgo.json) |
 | Exuvia | 401845 | [401845-exuvia.json](./401845-exuvia.json) |
 | Exvelten | 153857 | [153857-exvelten.json](./153857-exvelten.json) |
 | Exverse | 296810 | [296810-exverse.json](./296810-exverse.json) |
