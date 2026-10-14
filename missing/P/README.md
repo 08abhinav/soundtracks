@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Package Runner | 260615 | [260615-package-runner.json](./260615-package-runner.json) |
 | Package Rush | 215594 | [215594-package-rush.json](./215594-package-rush.json) |
 | Package Stower VR | 350492 | [350492-package-stower-vr.json](./350492-package-stower-vr.json) |
+| PackageRun | 105183 | [105183-packagerun.json](./105183-packagerun.json) |
 | Packed Bus 3D | 220196 | [220196-packed-bus-3d.json](./220196-packed-bus-3d.json) |
 | Packed Lair | 350440 | [350440-packed-lair.json](./350440-packed-lair.json) |
 | Packed to the Gills | 270788 | [270788-packed-to-the-gills.json](./270788-packed-to-the-gills.json) |
@@ -4068,6 +4069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross Advance | 195490 | [195490-picross-advance.json](./195490-picross-advance.json) |
 | Picross Beach Paradise | 149361 | [149361-picross-beach-paradise.json](./149361-picross-beach-paradise.json) |
 | Picross Beach Season | 89191 | [89191-picross-beach-season.json](./89191-picross-beach-season.json) |
+| Picross Bonbon Nonograms | 105156 | [105156-picross-bonbon-nonograms.json](./105156-picross-bonbon-nonograms.json) |
 | Picross Date! | 378431 | [378431-picross-date.json](./378431-picross-date.json) |
 | Picross DS | 10617 | [10617-picross-ds.json](./10617-picross-ds.json) |
 | Picross e2 | 65211 | [65211-picross-e2.json](./65211-picross-e2.json) |
@@ -10246,6 +10248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project 37 | 110224 | [110224-project-37.json](./110224-project-37.json) |
 | Project 44: Enlightenment | 220657 | [220657-project-44-enlightenment.json](./220657-project-44-enlightenment.json) |
 | Project 5: Sightseer | 76122 | [76122-project-5-sightseer.json](./76122-project-5-sightseer.json) |
+| Project 59 | 105222 | [105222-project-59.json](./105222-project-59.json) |
 | Project 83113 | 22267 | [22267-project-83113.json](./22267-project-83113.json) |
 | Project A 2: Shijou Saidai no Hyouteki | 97296 | [97296-project-a-2-shijou-saidai-no-hyouteki.json](./97296-project-a-2-shijou-saidai-no-hyouteki.json) |
 | Project A-ko | 260109 | [260109-project-a-ko.json](./260109-project-a-ko.json) |
@@ -12276,6 +12279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzler World | 308990 | [308990-puzzler-world.json](./308990-puzzler-world.json) |
 | Puzzlerama | 289567 | [289567-puzzlerama.json](./289567-puzzlerama.json) |
 | Puzzlerio | 270945 | [270945-puzzlerio.json](./270945-puzzlerio.json) |
+| Puzzles & Board Games Mega Collection | 105182 | [105182-puzzles-and-board-games-mega-collection.json](./105182-puzzles-and-board-games-mega-collection.json) |
 | Puzzles & Chaos | 301582 | [301582-puzzles-and-chaos.json](./301582-puzzles-and-chaos.json) |
 | Puzzles & Survival | 215091 | [215091-puzzles-and-survival.json](./215091-puzzles-and-survival.json) |
 | Puzzles At Mystery Manor | 32883 | [32883-puzzles-at-mystery-manor.json](./32883-puzzles-at-mystery-manor.json) |
