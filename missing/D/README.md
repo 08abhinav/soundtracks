@@ -1454,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkRanger | 344877 | [344877-darkranger.json](./344877-darkranger.json) |
 | Darkrite: The Blight of Love | 386449 | [386449-darkrite-the-blight-of-love.json](./386449-darkrite-the-blight-of-love.json) |
 | Darkroom | 356607 | [356607-darkroom.json](./356607-darkroom.json) |
+| Darkroom | 75666 | [75666-darkroom.json](./75666-darkroom.json) |
 | Darkroom 2 | 75769 | [75769-darkroom-2.json](./75769-darkroom-2.json) |
 | Darkscrolls | 137648 | [137648-darkscrolls.json](./137648-darkscrolls.json) |
 | DarkSelf: Other Mind | 203568 | [203568-darkself-other-mind.json](./203568-darkself-other-mind.json) |
@@ -2712,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadman Diaries | 197848 | [197848-deadman-diaries.json](./197848-deadman-diaries.json) |
 | Deadnaut | 51755 | [51755-deadnaut.json](./51755-deadnaut.json) |
 | DeadNeverStop | 289450 | [289450-deadneverstop.json](./289450-deadneverstop.json) |
+| Deadolls | 75673 | [75673-deadolls.json](./75673-deadolls.json) |
 | DeadOS | 158207 | [158207-deados.json](./158207-deados.json) |
 | Deadpoint | 265115 | [265115-deadpoint.json](./265115-deadpoint.json) |
 | Deadpool | 1919 | [1919-deadpool.json](./1919-deadpool.json) |
@@ -7454,6 +7456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dobro Goranku | 372136 | [372136-dobro-goranku.json](./372136-dobro-goranku.json) |
 | Dobro Love Fantasy Quest | 274531 | [274531-dobro-love-fantasy-quest.json](./274531-dobro-love-fantasy-quest.json) |
 | Dobutsu Shogi World | 120260 | [120260-dobutsu-shogi-world.json](./120260-dobutsu-shogi-world.json) |
+| Doc Apocalypse | 75677 | [75677-doc-apocalypse.json](./75677-doc-apocalypse.json) |
 | Doc Cosmos | 133986 | [133986-doc-cosmos.json](./133986-doc-cosmos.json) |
 | Doc Louis's Punch-Out!! | 9153 | [9153-doc-louiss-punch-out.json](./9153-doc-louiss-punch-out.json) |
 | Doc McStuffins | 137370 | [137370-doc-mcstuffins.json](./137370-doc-mcstuffins.json) |
