@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Graces F Remastered: Deluxe Edition | 324370 | [324370-tales-of-graces-f-remastered-deluxe-edition.json](./324370-tales-of-graces-f-remastered-deluxe-edition.json) |
 | Tales of Graces F Remastered: Deluxe Upgrade Pack | 331916 | [331916-tales-of-graces-f-remastered-deluxe-upgrade-pack.json](./331916-tales-of-graces-f-remastered-deluxe-upgrade-pack.json) |
 | Tales of Graces F/ Tales of Symphonia Chronicles | 44617 | [44617-tales-of-graces-f-tales-of-symphonia-chronicles.json](./44617-tales-of-graces-f-tales-of-symphonia-chronicles.json) |
+| Tales of Greta | 124548 | [124548-tales-of-greta.json](./124548-tales-of-greta.json) |
 | Tales of Grimace | 317984 | [317984-tales-of-grimace.json](./317984-tales-of-grimace.json) |
 | Tales of Grimm | 193895 | [193895-tales-of-grimm.json](./193895-tales-of-grimm.json) |
 | Tales of Grumville: A Legendary Pie and A Nameless Statue | 202121 | [202121-tales-of-grumville-a-legendary-pie-and-a-nameless-statue.json](./202121-tales-of-grumville-a-legendary-pie-and-a-nameless-statue.json) |
@@ -4471,6 +4472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blue Bedroom | 180847 | [180847-the-blue-bedroom.json](./180847-the-blue-bedroom.json) |
 | The Blue Box | 99686 | [99686-the-blue-box.json](./99686-the-blue-box.json) |
 | The Blue Chamber | 247540 | [247540-the-blue-chamber.json](./247540-the-blue-chamber.json) |
+| The Blue Contestant | 124530 | [124530-the-blue-contestant.json](./124530-the-blue-contestant.json) |
 | The Blue Katana | 185122 | [185122-the-blue-katana.json](./185122-the-blue-katana.json) |
 | The Blue Marlin | 48104 | [48104-the-blue-marlin.json](./48104-the-blue-marlin.json) |
 | The Blue Stars | 260578 | [260578-the-blue-stars.json](./260578-the-blue-stars.json) |
@@ -4948,6 +4950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cold War Era | 32133 | [32133-the-cold-war-era.json](./32133-the-cold-war-era.json) |
 | The Cold War Era 2 | 132791 | [132791-the-cold-war-era-2.json](./132791-the-cold-war-era-2.json) |
 | The Coldest Winter | 293617 | [293617-the-coldest-winter.json](./293617-the-coldest-winter.json) |
+| The Collaborative: Automaton #0059 | 124542 | [124542-the-collaborative-automaton-0059.json](./124542-the-collaborative-automaton-0059.json) |
 | The Collar | 268230 | [268230-the-collar.json](./268230-the-collar.json) |
 | The Collectables | 62548 | [62548-the-collectables.json](./62548-the-collectables.json) |
 | The Collection | 296390 | [296390-the-collection.json](./296390-the-collection.json) |
@@ -6699,6 +6702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The God | 100568 | [100568-the-god.json](./100568-the-god.json) |
 | The God Device | 57484 | [57484-the-god-device.json](./57484-the-god-device.json) |
 | The God Heroes | 282656 | [282656-the-god-heroes.json](./282656-the-god-heroes.json) |
+| The God of Crawling Eyes | 124553 | [124553-the-god-of-crawling-eyes.json](./124553-the-god-of-crawling-eyes.json) |
 | The God Paradox | 59793 | [59793-the-god-paradox.json](./59793-the-god-paradox.json) |
 | The GoD Unit | 127756 | [127756-the-god-unit.json](./127756-the-god-unit.json) |
 | The God's Chain | 22787 | [22787-the-gods-chain.json](./22787-the-gods-chain.json) |
@@ -10707,6 +10711,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers: Explorer Edition | 136377 | [136377-the-settlers-explorer-edition.json](./136377-the-settlers-explorer-edition.json) |
 | The Settlers: Fourth Edition | 3697 | [3697-the-settlers-fourth-edition.json](./3697-the-settlers-fourth-edition.json) |
 | The Settlers: Heritage of Kings | 3698 | [3698-the-settlers-heritage-of-kings.json](./3698-the-settlers-heritage-of-kings.json) |
+| The Settlers: Heritage of Kings - Expansion Disc | 124562 | [124562-the-settlers-heritage-of-kings-expansion-disc.json](./124562-the-settlers-heritage-of-kings-expansion-disc.json) |
+| The Settlers: Heritage of Kings - Legends Expansion Disc | 124561 | [124561-the-settlers-heritage-of-kings-legends-expansion-disc.json](./124561-the-settlers-heritage-of-kings-legends-expansion-disc.json) |
 | The Settlers: History Edition | 107232 | [107232-the-settlers-history-edition.json](./107232-the-settlers-history-edition.json) |
 | The Settlers: Kingdoms of Anteria | 7440 | [7440-the-settlers-kingdoms-of-anteria.json](./7440-the-settlers-kingdoms-of-anteria.json) |
 | The Settlers: New Allies - Deluxe Edition | 216233 | [216233-the-settlers-new-allies-deluxe-edition.json](./216233-the-settlers-new-allies-deluxe-edition.json) |
