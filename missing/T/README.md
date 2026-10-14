@@ -2732,6 +2732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenders Fight | 245818 | [245818-tenders-fight.json](./245818-tenders-fight.json) |
 | Tendo Blade | 202973 | [202973-tendo-blade.json](./202973-tendo-blade.json) |
 | Tendryll | 211232 | [211232-tendryll.json](./211232-tendryll.json) |
+| TendyTrainer | 112803 | [112803-tendytrainer.json](./112803-tendytrainer.json) |
 | Tenebra | 333921 | [333921-tenebra.json](./333921-tenebra.json) |
 | Tenebra | 360014 | [360014-tenebra.json](./360014-tenebra.json) |
 | Tenebrae | 188876 | [188876-tenebrae.json](./188876-tenebrae.json) |
@@ -9898,6 +9899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Phantom | 344314 | [344314-the-phantom.json](./344314-the-phantom.json) |
 | The Phantom Agent | 313873 | [313873-the-phantom-agent.json](./313873-the-phantom-agent.json) |
 | The Phantom Inheritance | 71171 | [71171-the-phantom-inheritance.json](./71171-the-phantom-inheritance.json) |
+| The Phantom of the City | 112837 | [112837-the-phantom-of-the-city.json](./112837-the-phantom-of-the-city.json) |
 | The Phantom P.I. Mission Apparition | 61894 | [61894-the-phantom-p-i-mission-apparition.json](./61894-the-phantom-p-i-mission-apparition.json) |
 | The Phantom Slayer | 71212 | [71212-the-phantom-slayer.json](./71212-the-phantom-slayer.json) |
 | The Phantom Thief Stina and 30 Jewels | 85438 | [85438-the-phantom-thief-stina-and-30-jewels.json](./85438-the-phantom-thief-stina-and-30-jewels.json) |
@@ -12142,6 +12144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trials 2 | 310760 | [310760-the-trials-2.json](./310760-the-trials-2.json) |
 | The Trials of Beadie | 204106 | [204106-the-trials-of-beadie.json](./204106-the-trials-of-beadie.json) |
 | The Trials of Goodbye | 312876 | [312876-the-trials-of-goodbye.json](./312876-the-trials-of-goodbye.json) |
+| The Trials of Olympus | 112701 | [112701-the-trials-of-olympus.json](./112701-the-trials-of-olympus.json) |
 | The Trials of Olympus 2: Wrath of the Gods | 114357 | [114357-the-trials-of-olympus-2-wrath-of-the-gods.json](./114357-the-trials-of-olympus-2-wrath-of-the-gods.json) |
 | The Trials of Olympus III: King of the World | 115794 | [115794-the-trials-of-olympus-iii-king-of-the-world.json](./115794-the-trials-of-olympus-iii-king-of-the-world.json) |
 | The Trials of Ozymandias | 321659 | [321659-the-trials-of-ozymandias.json](./321659-the-trials-of-ozymandias.json) |
@@ -18532,6 +18535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trace of the past | 121559 | [121559-trace-of-the-past.json](./121559-trace-of-the-past.json) |
 | Trace of Time | 284337 | [284337-trace-of-time.json](./284337-trace-of-time.json) |
 | Trace Vector | 17341 | [17341-trace-vector.json](./17341-trace-vector.json) |
+| Trace: A Story | 112698 | [112698-trace-a-story.json](./112698-trace-a-story.json) |
 | Trace: Definitive Edition | 361638 | [361638-trace-definitive-edition.json](./361638-trace-definitive-edition.json) |
 | Tracebound | 381360 | [381360-tracebound.json](./381360-tracebound.json) |
 | Tracer | 186136 | [186136-tracer.json](./186136-tracer.json) |
@@ -21688,6 +21692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TunsTan | 276148 | [276148-tunstan.json](./276148-tunstan.json) |
 | TunTun | 310008 | [310008-tuntun.json](./310008-tuntun.json) |
 | Tuōlājī | 104116 | [104116-tuolaji.json](./104116-tuolaji.json) |
+| Tuōlājī | 112838 | [112838-tuolaji.json](./112838-tuolaji.json) |
 | Tuōtuōlālā Xiǎofēi Zhèn | 415512 | [415512-tuotuolala-xiaofei-zhen.json](./415512-tuotuolala-xiaofei-zhen.json) |
 | Tuper Tario Tros. | 212693 | [212693-tuper-tario-tros.json](./212693-tuper-tario-tros.json) |
 | Tupsu | 117761 | [117761-tupsu.json](./117761-tupsu.json) |
