@@ -729,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Jump Seasons | 353362 | [353362-panda-jump-seasons.json](./353362-panda-jump-seasons.json) |
 | Panda Legend | 214723 | [214723-panda-legend.json](./214723-panda-legend.json) |
 | Panda Lu Baby Bear Care 2 | 227472 | [227472-panda-lu-baby-bear-care-2.json](./227472-panda-lu-baby-bear-care-2.json) |
+| Panda Lu Baby Bear City | 102672 | [102672-panda-lu-baby-bear-city.json](./102672-panda-lu-baby-bear-city.json) |
 | Panda Man | 115600 | [115600-panda-man.json](./115600-panda-man.json) |
 | Panda Pai Gow Poker | 209403 | [209403-panda-pai-gow-poker.json](./209403-panda-pai-gow-poker.json) |
 | Panda PandaMonium | 60902 | [60902-panda-pandamonium.json](./60902-panda-pandamonium.json) |
@@ -1022,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Beast: Enhanced Edition | 268370 | [268370-paper-beast-enhanced-edition.json](./268370-paper-beast-enhanced-edition.json) |
 | Paper Beast: Folded Edition | 140295 | [140295-paper-beast-folded-edition.json](./140295-paper-beast-folded-edition.json) |
 | Paper Beast: VR Upgrade for Folded Edition | 381754 | [381754-paper-beast-vr-upgrade-for-folded-edition.json](./381754-paper-beast-vr-upgrade-for-folded-edition.json) |
+| Paper Blast | 102674 | [102674-paper-blast.json](./102674-paper-blast.json) |
 | Paper Bleed | 350019 | [350019-paper-bleed.json](./350019-paper-bleed.json) |
 | Paper Boats | 161155 | [161155-paper-boats.json](./161155-paper-boats.json) |
 | Paper Bowser World | 135130 | [135130-paper-bowser-world.json](./135130-paper-bowser-world.json) |
@@ -4129,6 +4131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PictoPull | 212811 | [212811-pictopull.json](./212811-pictopull.json) |
 | Pictorbit | 414358 | [414358-pictorbit.json](./414358-pictorbit.json) |
 | Pictos | 175277 | [175277-pictos.json](./175277-pictos.json) |
+| Pictosaurus | 102710 | [102710-pictosaurus.json](./102710-pictosaurus.json) |
 | Pictoword: Fun Word Pics Games | 87361 | [87361-pictoword-fun-word-pics-games.json](./87361-pictoword-fun-word-pics-games.json) |
 | Pictura | 164072 | [164072-pictura.json](./164072-pictura.json) |
 | Picture Builder | 288850 | [288850-picture-builder.json](./288850-picture-builder.json) |
