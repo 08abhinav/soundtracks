@@ -2078,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basket Bros | 133727 | [133727-basket-bros.json](./133727-basket-bros.json) |
 | Basket Legends | 188017 | [188017-basket-legends.json](./188017-basket-legends.json) |
 | Basket Random | 204351 | [204351-basket-random.json](./204351-basket-random.json) |
+| Basket Wall | 102714 | [102714-basket-wall.json](./102714-basket-wall.json) |
 | Basket Zombie | 282137 | [282137-basket-zombie.json](./282137-basket-zombie.json) |
 | Basketball | 109471 | [109471-basketball.json](./109471-basketball.json) |
 | Basketball | 131516 | [131516-basketball.json](./131516-basketball.json) |
@@ -2903,6 +2904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleGrounds: War, Tanks and Nukes | 169665 | [169665-battlegrounds-war-tanks-and-nukes.json](./169665-battlegrounds-war-tanks-and-nukes.json) |
 | BattleGuild | 251816 | [251816-battleguild.json](./251816-battleguild.json) |
 | Battlegun | 52276 | [52276-battlegun.json](./52276-battlegun.json) |
+| BattleHand Heroes | 102671 | [102671-battlehand-heroes.json](./102671-battlehand-heroes.json) |
 | Battlehawks 1942 | 178 | [178-battlehawks-1942.json](./178-battlehawks-1942.json) |
 | Battleheart | 89488 | [89488-battleheart.json](./89488-battleheart.json) |
 | Battleheart 2 | 104236 | [104236-battleheart-2.json](./104236-battleheart-2.json) |
@@ -2968,6 +2970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battles of Prince of Persia | 20485 | [20485-battles-of-prince-of-persia.json](./20485-battles-of-prince-of-persia.json) |
 | Battles of the Ancient World | 67597 | [67597-battles-of-the-ancient-world.json](./67597-battles-of-the-ancient-world.json) |
 | Battles of the Ancient World III | 197344 | [197344-battles-of-the-ancient-world-iii.json](./197344-battles-of-the-ancient-world-iii.json) |
+| Battles Pirates: HQ | 102666 | [102666-battles-pirates-hq.json](./102666-battles-pirates-hq.json) |
 | Battlescar: Punk Was Invented By Girls | 171452 | [171452-battlescar-punk-was-invented-by-girls.json](./171452-battlescar-punk-was-invented-by-girls.json) |
 | Battleship | 154988 | [154988-battleship.json](./154988-battleship.json) |
 | Battleship | 220787 | [220787-battleship.json](./220787-battleship.json) |
@@ -7028,6 +7031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlockAid | 32882 | [32882-blockaid.json](./32882-blockaid.json) |
 | Blockappend | 236764 | [236764-blockappend.json](./236764-blockappend.json) |
 | Blockara | 43493 | [43493-blockara.json](./43493-blockara.json) |
+| BlockArt 2p | 102681 | [102681-blockart-2p.json](./102681-blockart-2p.json) |
 | BlockBawks | 293102 | [293102-blockbawks.json](./293102-blockbawks.json) |
 | BlockBlast Friend Edition | 412895 | [412895-blockblast-friend-edition.json](./412895-blockblast-friend-edition.json) |
 | Blockbuster | 15677 | [15677-blockbuster.json](./15677-blockbuster.json) |
@@ -7115,6 +7119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Ball | 151040 | [151040-blocky-ball.json](./151040-blocky-ball.json) |
 | Blocky Bee | 26685 | [26685-blocky-bee.json](./26685-blocky-bee.json) |
 | Blocky Cars In Real World | 175332 | [175332-blocky-cars-in-real-world.json](./175332-blocky-cars-in-real-world.json) |
+| Blocky Cops | 102697 | [102697-blocky-cops.json](./102697-blocky-cops.json) |
 | Blocky Dungeon | 203913 | [203913-blocky-dungeon.json](./203913-blocky-dungeon.json) |
 | Blocky Fills | 255168 | [255168-blocky-fills.json](./255168-blocky-fills.json) |
 | Blocky Football | 58203 | [58203-blocky-football.json](./58203-blocky-football.json) |
@@ -7143,6 +7148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blokers | 159192 | [159192-blokers.json](./159192-blokers.json) |
 | Blokes on Blocks! | 368811 | [368811-blokes-on-blocks.json](./368811-blokes-on-blocks.json) |
 | Bloki | 276965 | [276965-bloki.json](./276965-bloki.json) |
+| Blokin | 102695 | [102695-blokin.json](./102695-blokin.json) |
 | Blokin | 111633 | [111633-blokin.json](./111633-blokin.json) |
 | Blokker | 156585 | [156585-blokker.json](./156585-blokker.json) |
 | Blokker: Orange | 163909 | [163909-blokker-orange.json](./163909-blokker-orange.json) |
