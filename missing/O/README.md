@@ -3400,6 +3400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak Island | 165386 | [165386-outbreak-island.json](./165386-outbreak-island.json) |
 | Outbreak Survivors | 317976 | [317976-outbreak-survivors.json](./317976-outbreak-survivors.json) |
 | Outbreak Zero | 365085 | [365085-outbreak-zero.json](./365085-outbreak-zero.json) |
+| OutBreak Zombie | 84095 | [84095-outbreak-zombie.json](./84095-outbreak-zombie.json) |
 | Outbreak Zombie Plague | 291528 | [291528-outbreak-zombie-plague.json](./291528-outbreak-zombie-plague.json) |
 | Outbreak Zombie Survival Collection | 399800 | [399800-outbreak-zombie-survival-collection.json](./399800-outbreak-zombie-survival-collection.json) |
 | Outbreak: Anthology of Death Collection | 312837 | [312837-outbreak-anthology-of-death-collection.json](./312837-outbreak-anthology-of-death-collection.json) |
