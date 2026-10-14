@@ -1097,6 +1097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keizudo | 169395 | [169395-keizudo.json](./169395-keizudo.json) |
 | Kekcroc's Pizza Delivery | 233128 | [233128-kekcrocs-pizza-delivery.json](./233128-kekcrocs-pizza-delivery.json) |
 | Keke in the Caves of Peril | 230262 | [230262-keke-in-the-caves-of-peril.json](./230262-keke-in-the-caves-of-peril.json) |
+| Keke Love Challenge | 105722 | [105722-keke-love-challenge.json](./105722-keke-love-challenge.json) |
 | Kekkon Marriage | 204397 | [204397-kekkon-marriage.json](./204397-kekkon-marriage.json) |
 | Kekkon Shugi Kokka | 334728 | [334728-kekkon-shugi-kokka.json](./334728-kekkon-shugi-kokka.json) |
 | Kekkon Zenya | 216419 | [216419-kekkon-zenya.json](./216419-kekkon-zenya.json) |
@@ -2101,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Valley | 121729 | [121729-king-valley.json](./121729-king-valley.json) |
 | King War | 240734 | [240734-king-war.json](./240734-king-war.json) |
 | King Wizard, of the Forest Kingdom | 274573 | [274573-king-wizard-of-the-forest-kingdom.json](./274573-king-wizard-of-the-forest-kingdom.json) |
+| King-Dom | 105739 | [105739-king-dom.json](./105739-king-dom.json) |
 | King's Blade | 226868 | [226868-kings-blade.json](./226868-kings-blade.json) |
 | King's Bounty | 9613 | [9613-kings-bounty.json](./9613-kings-bounty.json) |
 | King's Bounty 2 | 74329 | [74329-kings-bounty-2.json](./74329-kings-bounty-2.json) |
