@@ -889,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last King of Africa | 47883 | [47883-last-king-of-africa.json](./47883-last-king-of-africa.json) |
 | Last Kingdom | 361305 | [361305-last-kingdom.json](./361305-last-kingdom.json) |
 | Last Kingdom: The Card Game | 156910 | [156910-last-kingdom-the-card-game.json](./156910-last-kingdom-the-card-game.json) |
+| Last Kings | 123894 | [123894-last-kings.json](./123894-last-kings.json) |
 | Last Kiss Before Summer | 218631 | [218631-last-kiss-before-summer.json](./218631-last-kiss-before-summer.json) |
 | Last Knight | 177847 | [177847-last-knight.json](./177847-last-knight.json) |
 | Last Knight | 53266 | [53266-last-knight.json](./53266-last-knight.json) |
@@ -965,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Second Save | 382898 | [382898-last-second-save.json](./382898-last-second-save.json) |
 | Last Seen Online | 281011 | [281011-last-seen-online.json](./281011-last-seen-online.json) |
 | Last Shape Standing | 164910 | [164910-last-shape-standing.json](./164910-last-shape-standing.json) |
+| Last Shark Standing | 123903 | [123903-last-shark-standing.json](./123903-last-shark-standing.json) |
 | Last Shelter: Survival | 89754 | [89754-last-shelter-survival.json](./89754-last-shelter-survival.json) |
 | Last Shelter: War Z | 414472 | [414472-last-shelter-war-z.json](./414472-last-shelter-war-z.json) |
 | Last Shift: Gas Station | 389640 | [389640-last-shift-gas-station.json](./389640-last-shift-gas-station.json) |
@@ -2460,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Go! Baby! Friends World | 191536 | [191536-lets-go-baby-friends-world.json](./191536-lets-go-baby-friends-world.json) |
 | Let's go! Brave | 269184 | [269184-lets-go-brave.json](./269184-lets-go-brave.json) |
 | Let's Go! My Harem Farm | 278149 | [278149-lets-go-my-harem-farm.json](./278149-lets-go-my-harem-farm.json) |
+| Let's Go! Skiing | 123935 | [123935-lets-go-skiing.json](./123935-lets-go-skiing.json) |
 | Let's Golf! | 67693 | [67693-lets-golf.json](./67693-lets-golf.json) |
 | Let's Hitchhike! | 84451 | [84451-lets-hitchhike.json](./84451-lets-hitchhike.json) |
 | Let's Journey | 158102 | [158102-lets-journey.json](./158102-lets-journey.json) |
@@ -3012,6 +3015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of Tabayama | 344557 | [344557-life-of-tabayama.json](./344557-life-of-tabayama.json) |
 | Life on a Pizza | 164880 | [164880-life-on-a-pizza.json](./164880-life-on-a-pizza.json) |
 | Life on the Earth | 175677 | [175677-life-on-the-earth.json](./175677-life-on-the-earth.json) |
+| Life Redemption | 123904 | [123904-life-redemption.json](./123904-life-redemption.json) |
 | Life Save Service | 376677 | [376677-life-save-service.json](./376677-life-save-service.json) |
 | Life Saver | 247989 | [247989-life-saver.json](./247989-life-saver.json) |
 | Life Sim | 404409 | [404409-life-sim.json](./404409-life-sim.json) |
@@ -5337,6 +5341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Cairo | 284909 | [284909-lost-in-cairo.json](./284909-lost-in-cairo.json) |
 | Lost in Darklight | 250481 | [250481-lost-in-darklight.json](./250481-lost-in-darklight.json) |
 | Lost in Dungeon | 158406 | [158406-lost-in-dungeon.json](./158406-lost-in-dungeon.json) |
+| Lost In Dungeon | 123924 | [123924-lost-in-dungeon.json](./123924-lost-in-dungeon.json) |
 | Lost In Failures | 291093 | [291093-lost-in-failures.json](./291093-lost-in-failures.json) |
 | Lost In Fantaland | 157064 | [157064-lost-in-fantaland.json](./157064-lost-in-fantaland.json) |
 | Lost in Firefly Forest | 142778 | [142778-lost-in-firefly-forest.json](./142778-lost-in-firefly-forest.json) |
@@ -5549,6 +5554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Twins 2 | 173308 | [173308-lost-twins-2.json](./173308-lost-twins-2.json) |
 | Lost Valley | 170337 | [170337-lost-valley.json](./170337-lost-valley.json) |
 | Lost Verses | 323523 | [323523-lost-verses.json](./323523-lost-verses.json) |
+| Lost Viking: Kingdom of Women | 123890 | [123890-lost-viking-kingdom-of-women.json](./123890-lost-viking-kingdom-of-women.json) |
 | Lost Voice | 148948 | [148948-lost-voice.json](./148948-lost-voice.json) |
 | Lost Vulcan | 347851 | [347851-lost-vulcan.json](./347851-lost-vulcan.json) |
 | Lost Wage Rampage | 108989 | [108989-lost-wage-rampage.json](./108989-lost-wage-rampage.json) |
