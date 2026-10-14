@@ -8805,6 +8805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Chess: Ultimate Edition | 260047 | [260047-fun-chess-ultimate-edition.json](./260047-fun-chess-ultimate-edition.json) |
 | Fun Christmas Santa VR | 160152 | [160152-fun-christmas-santa-vr.json](./160152-fun-christmas-santa-vr.json) |
 | Fun Claw | 246449 | [246449-fun-claw.json](./246449-fun-claw.json) |
+| Fun Colors 3D | 110200 | [110200-fun-colors-3d.json](./110200-fun-colors-3d.json) |
 | Fun Cube | 255894 | [255894-fun-cube.json](./255894-fun-cube.json) |
 | Fun Feud Trivia | 208974 | [208974-fun-feud-trivia.json](./208974-fun-feud-trivia.json) |
 | Fun Fox’s Biscuit Bash | 397089 | [397089-fun-fox-s-biscuit-bash.json](./397089-fun-fox-s-biscuit-bash.json) |
