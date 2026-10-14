@@ -3159,6 +3159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Figure Shop Simulator | 343263 | [343263-figure-shop-simulator.json](./343263-figure-shop-simulator.json) |
 | Figure Simulator War | 122828 | [122828-figure-simulator-war.json](./122828-figure-simulator-war.json) |
 | Figure Skater | 99187 | [99187-figure-skater.json](./99187-figure-skater.json) |
+| Figure World | 127657 | [127657-figure-world.json](./127657-figure-world.json) |
 | Figureheads | 24931 | [24931-figureheads.json](./24931-figureheads.json) |
 | Figures of Happiness | 73886 | [73886-figures-of-happiness.json](./73886-figures-of-happiness.json) |
 | Figures of Heroes | 230925 | [230925-figures-of-heroes.json](./230925-figures-of-heroes.json) |
@@ -5955,6 +5956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food From the Sky | 96966 | [96966-food-from-the-sky.json](./96966-food-from-the-sky.json) |
 | Food Gang | 144361 | [144361-food-gang.json](./144361-food-gang.json) |
 | Food Girls | 112956 | [112956-food-girls.json](./112956-food-girls.json) |
+| Food Girls: Civil War | 127701 | [127701-food-girls-civil-war.json](./127701-food-girls-civil-war.json) |
 | Food Guess: Pixel Art Trivia | 405477 | [405477-food-guess-pixel-art-trivia.json](./405477-food-guess-pixel-art-trivia.json) |
 | Food Inc: Home of the Supply | 370470 | [370470-food-inc-home-of-the-supply.json](./370470-food-inc-home-of-the-supply.json) |
 | Food Maze | 234678 | [234678-food-maze.json](./234678-food-maze.json) |
@@ -7619,6 +7621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free for All | 262920 | [262920-free-for-all.json](./262920-free-for-all.json) |
 | Free for Fall | 192970 | [192970-free-for-fall.json](./192970-free-for-fall.json) |
 | Free for Fall | 366627 | [366627-free-for-fall.json](./366627-free-for-fall.json) |
+| Free Friends | 127665 | [127665-free-friends.json](./127665-free-friends.json) |
 | Free Heroes of Might and Magic II: Resurrection | 186606 | [186606-free-heroes-of-might-and-magic-ii-resurrection.json](./186606-free-heroes-of-might-and-magic-ii-resurrection.json) |
 | Free Hugs Inc. | 178566 | [178566-free-hugs-inc.json](./178566-free-hugs-inc.json) |
 | Free Icecream | 328404 | [328404-free-icecream.json](./328404-free-icecream.json) |
@@ -9319,6 +9322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuzzy McFluffenstein | 337205 | [337205-fuzzy-mcfluffenstein.json](./337205-fuzzy-mcfluffenstein.json) |
 | Fuzzy Road Home | 177878 | [177878-fuzzy-road-home.json](./177878-fuzzy-road-home.json) |
 | Fuzzy World Cup Qatar 2022 | 312349 | [312349-fuzzy-world-cup-qatar-2022.json](./312349-fuzzy-world-cup-qatar-2022.json) |
+| Fuzzy's Quest | 127658 | [127658-fuzzys-quest.json](./127658-fuzzys-quest.json) |
 | Fuzzy's World of Miniature Space Golf | 50437 | [50437-fuzzys-world-of-miniature-space-golf.json](./50437-fuzzys-world-of-miniature-space-golf.json) |
 | Fwog | 270189 | [270189-fwog.json](./270189-fwog.json) |
 | Fwosty Poetwy | 179010 | [179010-fwosty-poetwy.json](./179010-fwosty-poetwy.json) |
