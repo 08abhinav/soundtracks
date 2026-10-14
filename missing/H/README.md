@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack.bak | 386363 | [386363-hack-bak.json](./386363-hack-bak.json) |
 | Hack.ing | 290927 | [290927-hack-ing.json](./290927-hack-ing.json) |
 | Hack'n Dice | 184438 | [184438-hackn-dice.json](./184438-hackn-dice.json) |
+| Hack'n Stalk 2.0 | 129490 | [129490-hackn-stalk-2-0.json](./129490-hackn-stalk-2-0.json) |
 | Hacker | 12131 | [12131-hacker.json](./12131-hacker.json) |
 | Hacker | 292252 | [292252-hacker.json](./292252-hacker.json) |
 | Hacker Ball | 185128 | [185128-hacker-ball.json](./185128-hacker-ball.json) |
