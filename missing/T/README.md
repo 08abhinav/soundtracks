@@ -1876,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tatari: Curse Road | 293382 | [293382-tatari-curse-road.json](./293382-tatari-curse-road.json) |
 | Tatari: The Arrival | 267101 | [267101-tatari-the-arrival.json](./267101-tatari-the-arrival.json) |
 | Tatlone | 415066 | [415066-tatlone.json](./415066-tatlone.json) |
+| TatouPho Redact | 104546 | [104546-tatoupho-redact.json](./104546-tatoupho-redact.json) |
 | Tatsu | 33468 | [33468-tatsu.json](./33468-tatsu.json) |
 | Tatsu no Ko Fighter | 60762 | [60762-tatsu-no-ko-fighter.json](./60762-tatsu-no-ko-fighter.json) |
 | Tatsunami, let's clean up! | 353917 | [353917-tatsunami-lets-clean-up.json](./353917-tatsunami-lets-clean-up.json) |
@@ -5257,6 +5258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cure | 241273 | [241273-the-cure.json](./241273-the-cure.json) |
 | The Cure | 71449 | [71449-the-cure.json](./71449-the-cure.json) |
 | The Curio Society: Eclipse Over Mesina | 19344 | [19344-the-curio-society-eclipse-over-mesina.json](./19344-the-curio-society-eclipse-over-mesina.json) |
+| The Curio Society: Eclipse over Mesina HD | 104543 | [104543-the-curio-society-eclipse-over-mesina-hd.json](./104543-the-curio-society-eclipse-over-mesina-hd.json) |
 | The Curio Society: New Order HD | 91336 | [91336-the-curio-society-new-order-hd.json](./91336-the-curio-society-new-order-hd.json) |
 | The Curiosity | 311801 | [311801-the-curiosity.json](./311801-the-curiosity.json) |
 | The Curious Study of Dr. Blackwood | 273846 | [273846-the-curious-study-of-dr-blackwood.json](./273846-the-curious-study-of-dr-blackwood.json) |
@@ -5484,6 +5486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dead Roam Free | 388224 | [388224-the-dead-roam-free.json](./388224-the-dead-roam-free.json) |
 | The Dead Rooms | 204229 | [204229-the-dead-rooms.json](./204229-the-dead-rooms.json) |
 | The Dead Sea Scrolls Adventure | 203798 | [203798-the-dead-sea-scrolls-adventure.json](./203798-the-dead-sea-scrolls-adventure.json) |
+| The Dead Town: Walking Zombies | 104556 | [104556-the-dead-town-walking-zombies.json](./104556-the-dead-town-walking-zombies.json) |
 | The Dead We Knew: Open World Survival | 412960 | [412960-the-dead-we-knew-open-world-survival.json](./412960-the-dead-we-knew-open-world-survival.json) |
 | The Dead Zone | 268137 | [268137-the-dead-zone.json](./268137-the-dead-zone.json) |
 | The Dead Zone 2 | 308890 | [308890-the-dead-zone-2.json](./308890-the-dead-zone-2.json) |
@@ -6816,6 +6819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Goto Family's: The Island Murder Case | 150112 | [150112-the-goto-familys-the-island-murder-case.json](./150112-the-goto-familys-the-island-murder-case.json) |
 | The Gourmet Factor | 308897 | [308897-the-gourmet-factor.json](./308897-the-gourmet-factor.json) |
 | The Grade 5B Case Files | 389007 | [389007-the-grade-5b-case-files.json](./389007-the-grade-5b-case-files.json) |
+| The Grading Game | 104541 | [104541-the-grading-game.json](./104541-the-grading-game.json) |
 | The Grand Ball | 36496 | [36496-the-grand-ball.json](./36496-the-grand-ball.json) |
 | The Grand Book Archive: Tidy Up | 415246 | [415246-the-grand-book-archive-tidy-up.json](./415246-the-grand-book-archive-tidy-up.json) |
 | The Grand Guignol | 271733 | [271733-the-grand-guignol.json](./271733-the-grand-guignol.json) |
@@ -11296,6 +11300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Social Grip: Llama Drama | 406766 | [406766-the-social-grip-llama-drama.json](./406766-the-social-grip-llama-drama.json) |
 | The Sokoban | 175811 | [175811-the-sokoban.json](./175811-the-sokoban.json) |
 | The Sokpop Collection | 131559 | [131559-the-sokpop-collection.json](./131559-the-sokpop-collection.json) |
+| The SOL Device | 104524 | [104524-the-sol-device.json](./104524-the-sol-device.json) |
 | The Solace of Flowers | 376691 | [376691-the-solace-of-flowers.json](./376691-the-solace-of-flowers.json) |
 | The Solar Ring | 207911 | [207911-the-solar-ring.json](./207911-the-solar-ring.json) |
 | The Soldat with Twin Arms | 151753 | [151753-the-soldat-with-twin-arms.json](./151753-the-soldat-with-twin-arms.json) |
