@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing with Ghosts | 360059 | [360059-dancing-with-ghosts.json](./360059-dancing-with-ghosts.json) |
 | Dancingcats | 22371 | [22371-dancingcats.json](./22371-dancingcats.json) |
 | DancingReaper | 140580 | [140580-dancingreaper.json](./140580-dancingreaper.json) |
+| DanCop - Daniela on Duty | 118112 | [118112-dancop-daniela-on-duty.json](./118112-dancop-daniela-on-duty.json) |
 | DanDan | 258038 | [258038-dandan.json](./258038-dandan.json) |
 | Dandara | 296666 | [296666-dandara.json](./296666-dandara.json) |
 | Dandara: Trials of Fear - Enhanced Edition | 155057 | [155057-dandara-trials-of-fear-enhanced-edition.json](./155057-dandara-trials-of-fear-enhanced-edition.json) |
@@ -889,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Boy Action Platformer | 179994 | [179994-dark-boy-action-platformer.json](./179994-dark-boy-action-platformer.json) |
 | Dark Break | 64887 | [64887-dark-break.json](./64887-dark-break.json) |
 | Dark Bunny | 258609 | [258609-dark-bunny.json](./258609-dark-bunny.json) |
+| Dark Burial | 118090 | [118090-dark-burial.json](./118090-dark-burial.json) |
 | Dark Burial: Enhanced Edition | 238617 | [238617-dark-burial-enhanced-edition.json](./238617-dark-burial-enhanced-edition.json) |
 | Dark Canvas Collection | 146305 | [146305-dark-canvas-collection.json](./146305-dark-canvas-collection.json) |
 | Dark Canvas: A Brush With Death | 139756 | [139756-dark-canvas-a-brush-with-death.json](./139756-dark-canvas-a-brush-with-death.json) |
@@ -1570,6 +1572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashes & Squares | 272377 | [272377-dashes-and-squares.json](./272377-dashes-and-squares.json) |
 | DashFire | 339367 | [339367-dashfire.json](./339367-dashfire.json) |
 | Dashgunner 0 | 258906 | [258906-dashgunner-0.json](./258906-dashgunner-0.json) |
+| Dàshídài: Sānguó Lìzhì | 118071 | [118071-dashidai-sanguo-lizhi.json](./118071-dashidai-sanguo-lizhi.json) |
 | Dashie's Puh-ranormal Activity | 147240 | [147240-dashies-puh-ranormal-activity.json](./147240-dashies-puh-ranormal-activity.json) |
 | Dashin' Desperadoes | 46247 | [46247-dashin-desperadoes.json](./46247-dashin-desperadoes.json) |
 | Dashing Dinosaurs & Sexy Centaurs: Winter's Tale | 126404 | [126404-dashing-dinosaurs-and-sexy-centaurs-winters-tale.json](./126404-dashing-dinosaurs-and-sexy-centaurs-winters-tale.json) |
@@ -2756,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Daniel no Sweet Adventure: Kitty-chan wo Sagashite | 65598 | [65598-dear-daniel-no-sweet-adventure-kitty-chan-wo-sagashite.json](./65598-dear-daniel-no-sweet-adventure-kitty-chan-wo-sagashite.json) |
 | Dear Delusion | 201574 | [201574-dear-delusion.json](./201574-dear-delusion.json) |
 | Dear Devere | 139324 | [139324-dear-devere.json](./139324-dear-devere.json) |
+| Dear Diary | 118084 | [118084-dear-diary.json](./118084-dear-diary.json) |
 | Dear Diary | 297233 | [297233-dear-diary.json](./297233-dear-diary.json) |
 | Dear Diary | 370715 | [370715-dear-diary.json](./370715-dear-diary.json) |
 | Dear Drops Distortion | 59421 | [59421-dear-drops-distortion.json](./59421-dear-drops-distortion.json) |
@@ -10330,6 +10334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Drifters | 151625 | [151625-dream-drifters.json](./151625-dream-drifters.json) |
 | Dream Eater | 374056 | [374056-dream-eater.json](./374056-dream-eater.json) |
 | Dream Eater | 410960 | [410960-dream-eater.json](./410960-dream-eater.json) |
+| Dream Eater Ep.1 | 118096 | [118096-dream-eater-ep-1.json](./118096-dream-eater-ep-1.json) |
 | Dream Eaters.exe | 344353 | [344353-dream-eaters-exe.json](./344353-dream-eaters-exe.json) |
 | Dream Enders | 114878 | [114878-dream-enders.json](./114878-dream-enders.json) |
 | Dream Ending: Drama | 121033 | [121033-dream-ending-drama.json](./121033-dream-ending-drama.json) |
