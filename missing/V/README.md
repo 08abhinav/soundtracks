@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VCTR-SCTR | 225596 | [225596-vctr-sctr.json](./225596-vctr-sctr.json) |
 | Vec Sports Boxing | 273284 | [273284-vec-sports-boxing.json](./273284-vec-sports-boxing.json) |
 | Vec-Man | 273908 | [273908-vec-man.json](./273908-vec-man.json) |
+| Veccol | 111535 | [111535-veccol.json](./111535-veccol.json) |
 | Veck | 71208 | [71208-veck.json](./71208-veck.json) |
 | Vecmania | 46513 | [46513-vecmania.json](./46513-vecmania.json) |
 | Vecter | 124183 | [124183-vecter.json](./124183-vecter.json) |
