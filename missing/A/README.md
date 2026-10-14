@@ -2915,6 +2915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Talisman | 26954 | [26954-age-of-talisman.json](./26954-age-of-talisman.json) |
 | Age of the Sirens | 236893 | [236893-age-of-the-sirens.json](./236893-age-of-the-sirens.json) |
 | Age of Time | 254542 | [254542-age-of-time.json](./254542-age-of-time.json) |
+| Age of Tribes | 104520 | [104520-age-of-tribes.json](./104520-age-of-tribes.json) |
 | Age of Undead | 211145 | [211145-age-of-undead.json](./211145-age-of-undead.json) |
 | Age of Valakas: Vietnam | 190456 | [190456-age-of-valakas-vietnam.json](./190456-age-of-valakas-vietnam.json) |
 | Age of Wanderer | 135588 | [135588-age-of-wanderer.json](./135588-age-of-wanderer.json) |
@@ -5458,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Dream | 48634 | [48634-american-dream.json](./48634-american-dream.json) |
 | American Election | 135610 | [135610-american-election.json](./135610-american-election.json) |
 | American Eristics | 255697 | [255697-american-eristics.json](./255697-american-eristics.json) |
+| American Farm Tractor Race Pro | 104537 | [104537-american-farm-tractor-race-pro.json](./104537-american-farm-tractor-race-pro.json) |
 | American FKN Election | 329103 | [329103-american-fkn-election.json](./329103-american-fkn-election.json) |
 | American Football | 58278 | [58278-american-football.json](./58278-american-football.json) |
 | American Football Game: Quarter Back Scramble | 130646 | [130646-american-football-game-quarter-back-scramble.json](./130646-american-football-game-quarter-back-scramble.json) |
@@ -6207,6 +6209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angkor: Beginnings | 209699 | [209699-angkor-beginnings.json](./209699-angkor-beginnings.json) |
 | Angkor: Runefall | 149229 | [149229-angkor-runefall.json](./149229-angkor-runefall.json) |
 | Angkot d Game | 214753 | [214753-angkot-d-game.json](./214753-angkot-d-game.json) |
+| AngL | 104526 | [104526-angl.json](./104526-angl.json) |
 | Angle | 396218 | [396218-angle.json](./396218-angle.json) |
 | Angle Me | 232390 | [232390-angle-me.json](./232390-angle-me.json) |
 | Angle of Attack | 16064 | [16064-angle-of-attack.json](./16064-angle-of-attack.json) |
