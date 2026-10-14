@@ -1293,6 +1293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardest Harvest | 139681 | [139681-hardest-harvest.json](./139681-hardest-harvest.json) |
 | Hardfest 2 | 280906 | [280906-hardfest-2.json](./280906-hardfest-2.json) |
 | Hardhat Wombat | 244511 | [244511-hardhat-wombat.json](./244511-hardhat-wombat.json) |
+| HardLander | 95327 | [95327-hardlander.json](./95327-hardlander.json) |
 | Hardlight | 138829 | [138829-hardlight.json](./138829-hardlight.json) |
 | Hardline | 94221 | [94221-hardline.json](./94221-hardline.json) |
 | Hardly Workin' | 352289 | [352289-hardly-workin.json](./352289-hardly-workin.json) |
@@ -4845,6 +4846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Temple Adventure | 248650 | [248650-hidden-temple-adventure.json](./248650-hidden-temple-adventure.json) |
 | Hidden Things Beach Elves | 397210 | [397210-hidden-things-beach-elves.json](./397210-hidden-things-beach-elves.json) |
 | Hidden Things Forest Elves | 348816 | [348816-hidden-things-forest-elves.json](./348816-hidden-things-forest-elves.json) |
+| Hidden Threats | 95323 | [95323-hidden-threats.json](./95323-hidden-threats.json) |
 | Hidden Through Time | 128909 | [128909-hidden-through-time.json](./128909-hidden-through-time.json) |
 | Hidden Through Time 2: Discovery | 291422 | [291422-hidden-through-time-2-discovery.json](./291422-hidden-through-time-2-discovery.json) |
 | Hidden Through Time: Aztec Rituals | 212224 | [212224-hidden-through-time-aztec-rituals.json](./212224-hidden-through-time-aztec-rituals.json) |
