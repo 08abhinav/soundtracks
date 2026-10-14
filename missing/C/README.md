@@ -2659,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat-Ptured | 336159 | [336159-cat-ptured.json](./336159-cat-ptured.json) |
 | Cat-up! | 395769 | [395769-cat-up.json](./395769-cat-up.json) |
 | Cat'n'Robot: Idle Defense | 174912 | [174912-catnrobot-idle-defense.json](./174912-catnrobot-idle-defense.json) |
+| Cat's Bar | 88146 | [88146-cats-bar.json](./88146-cats-bar.json) |
 | Cat’s Catch | 327248 | [327248-cat-s-catch.json](./327248-cat-s-catch.json) |
 | Cat's Cosmic Atlas | 258012 | [258012-cats-cosmic-atlas.json](./258012-cats-cosmic-atlas.json) |
 | Cat's Cosmic Atlas: Definitive Edition | 288286 | [288286-cats-cosmic-atlas-definitive-edition.json](./288286-cats-cosmic-atlas-definitive-edition.json) |
@@ -10895,6 +10896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Addition | 246498 | [246498-crazy-addition.json](./246498-crazy-addition.json) |
 | Crazy Adventure Bundle | 231064 | [231064-crazy-adventure-bundle.json](./231064-crazy-adventure-bundle.json) |
 | Crazy Alchemist | 108352 | [108352-crazy-alchemist.json](./108352-crazy-alchemist.json) |
+| Crazy Alien | 88135 | [88135-crazy-alien.json](./88135-crazy-alien.json) |
 | Crazy Animal Choir | 284988 | [284988-crazy-animal-choir.json](./284988-crazy-animal-choir.json) |
 | Crazy Appliances | 86392 | [86392-crazy-appliances.json](./86392-crazy-appliances.json) |
 | Crazy Archery | 113696 | [113696-crazy-archery.json](./113696-crazy-archery.json) |
