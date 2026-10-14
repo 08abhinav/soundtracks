@@ -3682,6 +3682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akira | 26411 | [26411-akira.json](./26411-akira.json) |
 | Akira*Hero | 400567 | [400567-akira-hero.json](./400567-akira-hero.json) |
 | Akirao: A Researcher Awakens | 307134 | [307134-akirao-a-researcher-awakens.json](./307134-akirao-a-researcher-awakens.json) |
+| Akita Oga Mystery Annai: Kogoeru Ginreika | 130626 | [130626-akita-oga-mystery-annai-kogoeru-ginreika.json](./130626-akita-oga-mystery-annai-kogoeru-ginreika.json) |
 | Akita: King Pig Thinks Pink | 178098 | [178098-akita-king-pig-thinks-pink.json](./178098-akita-king-pig-thinks-pink.json) |
 | Akita: Legends Squad | 399611 | [399611-akita-legends-squad.json](./399611-akita-legends-squad.json) |
 | Akiya | 284926 | [284926-akiya.json](./284926-akiya.json) |
@@ -5400,6 +5401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Eristics | 255697 | [255697-american-eristics.json](./255697-american-eristics.json) |
 | American FKN Election | 329103 | [329103-american-fkn-election.json](./329103-american-fkn-election.json) |
 | American Football | 58278 | [58278-american-football.json](./58278-american-football.json) |
+| American Football Game: Quarter Back Scramble | 130646 | [130646-american-football-game-quarter-back-scramble.json](./130646-american-football-game-quarter-back-scramble.json) |
 | American Football: Guns & Balls | 242461 | [242461-american-football-guns-and-balls.json](./242461-american-football-guns-and-balls.json) |
 | American Girl: Dress Designer | 18244 | [18244-american-girl-dress-designer.json](./18244-american-girl-dress-designer.json) |
 | American Girl: Julie Finds a Way | 18241 | [18241-american-girl-julie-finds-a-way.json](./18241-american-girl-julie-finds-a-way.json) |
@@ -5869,6 +5871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Metal | 184826 | [184826-ancient-metal.json](./184826-ancient-metal.json) |
 | Ancient Military | 392800 | [392800-ancient-military.json](./392800-ancient-military.json) |
 | Ancient Mind | 244879 | [244879-ancient-mind.json](./244879-ancient-mind.json) |
+| Ancient Mysteries: King Tut's Tomb | 130657 | [130657-ancient-mysteries-king-tuts-tomb.json](./130657-ancient-mysteries-king-tuts-tomb.json) |
 | Ancient Mystery: A Quest for Hidden Wisdom | 235121 | [235121-ancient-mystery-a-quest-for-hidden-wisdom.json](./235121-ancient-mystery-a-quest-for-hidden-wisdom.json) |
 | Ancient Observer | 297570 | [297570-ancient-observer.json](./297570-ancient-observer.json) |
 | Ancient Ocean: The Fall of Atlantis | 337816 | [337816-ancient-ocean-the-fall-of-atlantis.json](./337816-ancient-ocean-the-fall-of-atlantis.json) |
@@ -8933,6 +8936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armeria In Bloom | 409801 | [409801-armeria-in-bloom.json](./409801-armeria-in-bloom.json) |
 | Armies of Exigo | 18855 | [18855-armies-of-exigo.json](./18855-armies-of-exigo.json) |
 | Armies of Ganivar | 130322 | [130322-armies-of-ganivar.json](./130322-armies-of-ganivar.json) |
+| Armies of Gielinor | 130621 | [130621-armies-of-gielinor.json](./130621-armies-of-gielinor.json) |
 | Armies of Riddle E.X. (Extreme) | 126440 | [126440-armies-of-riddle-e-x-extreme.json](./126440-armies-of-riddle-e-x-extreme.json) |
 | Armikrog | 11093 | [11093-armikrog.json](./11093-armikrog.json) |
 | Armis | 186039 | [186039-armis.json](./186039-armis.json) |
@@ -9342,6 +9346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artist Colony | 23284 | [23284-artist-colony.json](./23284-artist-colony.json) |
 | Artist Idle | 146809 | [146809-artist-idle.json](./146809-artist-idle.json) |
 | Artist Life Simulator | 154076 | [154076-artist-life-simulator.json](./154076-artist-life-simulator.json) |
+| Artist Survival Simulator | 130660 | [130660-artist-survival-simulator.json](./130660-artist-survival-simulator.json) |
 | Artistic Girl 1 | 286792 | [286792-artistic-girl-1.json](./286792-artistic-girl-1.json) |
 | Artists of a Dead World | 177307 | [177307-artists-of-a-dead-world.json](./177307-artists-of-a-dead-world.json) |
 | Artists of Fortune: Distant Worlds - Crystallus Planet | 148349 | [148349-artists-of-fortune-distant-worlds-crystallus-planet.json](./148349-artists-of-fortune-distant-worlds-crystallus-planet.json) |
