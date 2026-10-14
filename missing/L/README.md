@@ -2383,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Les Visiteurs: Le Jeu | 213566 | [213566-les-visiteurs-le-jeu.json](./213566-les-visiteurs-le-jeu.json) |
 | Les: The Horror Game | 158963 | [158963-les-the-horror-game.json](./158963-les-the-horror-game.json) |
 | Lesbian Mothman Hunters | 151751 | [151751-lesbian-mothman-hunters.json](./151751-lesbian-mothman-hunters.json) |
+| Lesbian Spider-Queens of Mars | 84114 | [84114-lesbian-spider-queens-of-mars.json](./84114-lesbian-spider-queens-of-mars.json) |
 | Lesbian Vampire Simulator | 177531 | [177531-lesbian-vampire-simulator.json](./177531-lesbian-vampire-simulator.json) |
 | Lesbian Voyeur Simulator | 367204 | [367204-lesbian-voyeur-simulator.json](./367204-lesbian-voyeur-simulator.json) |
 | Lesbian Voyeur Simulator 2 | 196128 | [196128-lesbian-voyeur-simulator-2.json](./196128-lesbian-voyeur-simulator-2.json) |
@@ -5139,6 +5140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of Darkness | 42586 | [42586-lord-of-darkness.json](./42586-lord-of-darkness.json) |
 | Lord of Darkness: Aftermath | 279014 | [279014-lord-of-darkness-aftermath.json](./279014-lord-of-darkness-aftermath.json) |
 | Lord of Darkness: Prologue | 203845 | [203845-lord-of-darkness-prologue.json](./203845-lord-of-darkness-prologue.json) |
+| Lord of Dice | 84109 | [84109-lord-of-dice.json](./84109-lord-of-dice.json) |
 | Lord of Djinn | 37384 | [37384-lord-of-djinn.json](./37384-lord-of-djinn.json) |
 | Lord of doors | 320955 | [320955-lord-of-doors.json](./320955-lord-of-doors.json) |
 | Lord of Gun | 40370 | [40370-lord-of-gun.json](./40370-lord-of-gun.json) |
@@ -5322,6 +5324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Circus | 175363 | [175363-lost-circus.json](./175363-lost-circus.json) |
 | Lost Circus VR | 133168 | [133168-lost-circus-vr.json](./133168-lost-circus-vr.json) |
 | Lost Cities | 37376 | [37376-lost-cities.json](./37376-lost-cities.json) |
+| Lost Cities Mobile | 84112 | [84112-lost-cities-mobile.json](./84112-lost-cities-mobile.json) |
 | Lost City | 403010 | [403010-lost-city.json](./403010-lost-city.json) |
 | Lost City of Vampires | 113169 | [113169-lost-city-of-vampires.json](./113169-lost-city-of-vampires.json) |
 | Lost Civilization 2 | 262991 | [262991-lost-civilization-2.json](./262991-lost-civilization-2.json) |
