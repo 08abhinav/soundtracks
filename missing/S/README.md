@@ -1945,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scene it? The Simpsons: Deluxe Edition | 23789 | [23789-scene-it-the-simpsons-deluxe-edition.json](./23789-scene-it-the-simpsons-deluxe-edition.json) |
 | Scene It? Twilight | 5142 | [5142-scene-it-twilight.json](./5142-scene-it-twilight.json) |
 | Scene of the Crime | 328661 | [328661-scene-of-the-crime.json](./328661-scene-of-the-crime.json) |
+| Scenery Disk 1 | 100076 | [100076-scenery-disk-1.json](./100076-scenery-disk-1.json) |
 | Scenery Disk 2 | 100127 | [100127-scenery-disk-2.json](./100127-scenery-disk-2.json) |
 | Scenery Disk 4 | 78012 | [78012-scenery-disk-4.json](./78012-scenery-disk-4.json) |
 | Scenery Disk 5 | 98959 | [98959-scenery-disk-5.json](./98959-scenery-disk-5.json) |
@@ -2002,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schnappi: 3 Fun-Games | 96526 | [96526-schnappi-3-fun-games.json](./96526-schnappi-3-fun-games.json) |
 | Schnee | 236901 | [236901-schnee.json](./236901-schnee.json) |
 | Schnell Online | 255568 | [255568-schnell-online.json](./255568-schnell-online.json) |
+| Schnock n' Blopf | 100096 | [100096-schnock-n-blopf.json](./100096-schnock-n-blopf.json) |
 | Schola Spiritus | 383358 | [383358-schola-spiritus.json](./383358-schola-spiritus.json) |
 | Scholar | 200431 | [200431-scholar.json](./200431-scholar.json) |
 | Scholar Adventure: Lost Night | 418529 | [418529-scholar-adventure-lost-night.json](./418529-scholar-adventure-lost-night.json) |
@@ -3310,6 +3312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages 2500 Series Vol. 33: Fantasy Zone Complete Collection | 64899 | [64899-sega-ages-2500-series-vol-33-fantasy-zone-complete-collection.json](./64899-sega-ages-2500-series-vol-33-fantasy-zone-complete-collection.json) |
 | Sega Ages 2500 Vol. 1: Phantasy Star Generation - 1 | 43454 | [43454-sega-ages-2500-vol-1-phantasy-star-generation-1.json](./43454-sega-ages-2500-vol-1-phantasy-star-generation-1.json) |
 | Sega Ages 2500 Vol. 10: After Burner II | 64900 | [64900-sega-ages-2500-vol-10-after-burner-ii.json](./64900-sega-ages-2500-vol-10-after-burner-ii.json) |
+| Sega Ages 2500 Vol. 11: Hokuto no Ken | 100099 | [100099-sega-ages-2500-vol-11-hokuto-no-ken.json](./100099-sega-ages-2500-vol-11-hokuto-no-ken.json) |
 | Sega Ages 2500 Vol. 13: OutRun | 100024 | [100024-sega-ages-2500-vol-13-outrun.json](./100024-sega-ages-2500-vol-13-outrun.json) |
 | Sega Ages 2500 Vol. 14: Alien Syndrome | 100017 | [100017-sega-ages-2500-vol-14-alien-syndrome.json](./100017-sega-ages-2500-vol-14-alien-syndrome.json) |
 | Sega Ages 2500 Vol. 15: Decathlete Collection | 98926 | [98926-sega-ages-2500-vol-15-decathlete-collection.json](./98926-sega-ages-2500-vol-15-decathlete-collection.json) |
@@ -3317,6 +3320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages 2500 Vol. 20: Space Harrier Complete Collection | 140407 | [140407-sega-ages-2500-vol-20-space-harrier-complete-collection.json](./140407-sega-ages-2500-vol-20-space-harrier-complete-collection.json) |
 | Sega Ages 2500 Vol. 21: SDI & Quartet - Sega System 16 Collection | 131265 | [131265-sega-ages-2500-vol-21-sdi-and-quartet-sega-system-16-collection.json](./131265-sega-ages-2500-vol-21-sdi-and-quartet-sega-system-16-collection.json) |
 | Sega Ages 2500 Vol. 23: Sega Memorial Selection | 69883 | [69883-sega-ages-2500-vol-23-sega-memorial-selection.json](./69883-sega-ages-2500-vol-23-sega-memorial-selection.json) |
+| Sega Ages 2500 Vol. 24: Last Bronx - Tokyo Bangaichi | 100110 | [100110-sega-ages-2500-vol-24-last-bronx-tokyo-bangaichi.json](./100110-sega-ages-2500-vol-24-last-bronx-tokyo-bangaichi.json) |
 | Sega Ages 2500 Vol. 25: Gunstar Heroes Treasure Box | 43223 | [43223-sega-ages-2500-vol-25-gunstar-heroes-treasure-box.json](./43223-sega-ages-2500-vol-25-gunstar-heroes-treasure-box.json) |
 | Sega Ages 2500 Vol. 28: Tetris Collection | 64898 | [64898-sega-ages-2500-vol-28-tetris-collection.json](./64898-sega-ages-2500-vol-28-tetris-collection.json) |
 | Sega Ages 2500 Vol. 29: Monster World Complete Collection | 78047 | [78047-sega-ages-2500-vol-29-monster-world-complete-collection.json](./78047-sega-ages-2500-vol-29-monster-world-complete-collection.json) |
@@ -8783,6 +8787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepwalker | 13079 | [13079-sleepwalker.json](./13079-sleepwalker.json) |
 | Sleepwalker | 96686 | [96686-sleepwalker.json](./96686-sleepwalker.json) |
 | SleepWalker | 117718 | [117718-sleepwalker.json](./117718-sleepwalker.json) |
+| Sleepwalker & Pinball Fantasies | 100088 | [100088-sleepwalker-and-pinball-fantasies.json](./100088-sleepwalker-and-pinball-fantasies.json) |
 | Sleepwalker Time to Wake Up | 61356 | [61356-sleepwalker-time-to-wake-up.json](./61356-sleepwalker-time-to-wake-up.json) |
 | Sleepwalking | 318388 | [318388-sleepwalking.json](./318388-sleepwalking.json) |
 | Sleepwalking Forest | 179498 | [179498-sleepwalking-forest.json](./179498-sleepwalking-forest.json) |
@@ -9389,6 +9394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Fish | 250877 | [250877-smart-fish.json](./250877-smart-fish.json) |
 | Smart Frog | 246480 | [246480-smart-frog.json](./246480-smart-frog.json) |
 | Smart Frog | 358941 | [358941-smart-frog.json](./358941-smart-frog.json) |
+| Smart Games Challenge #1 | 100082 | [100082-smart-games-challenge-1.json](./100082-smart-games-challenge-1.json) |
 | Smart Games Puzzle Challenge 2 | 73256 | [73256-smart-games-puzzle-challenge-2.json](./73256-smart-games-puzzle-challenge-2.json) |
 | Smart Games Stratajams | 85765 | [85765-smart-games-stratajams.json](./85765-smart-games-stratajams.json) |
 | Smart Games Word Puzzles #1 | 51376 | [51376-smart-games-word-puzzles-1.json](./51376-smart-games-word-puzzles-1.json) |
@@ -22488,6 +22494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supernatural: The Game | 316718 | [316718-supernatural-the-game.json](./316718-supernatural-the-game.json) |
 | Supernaturals | 66358 | [66358-supernaturals.json](./66358-supernaturals.json) |
 | Supernormal | 278716 | [278716-supernormal.json](./278716-supernormal.json) |
+| Supernova | 100090 | [100090-supernova.json](./100090-supernova.json) |
 | Supernova | 11463 | [11463-supernova.json](./11463-supernova.json) |
 | Supernova Tactics | 211287 | [211287-supernova-tactics.json](./211287-supernova-tactics.json) |
 | Superola and the Lost Burgers | 87475 | [87475-superola-and-the-lost-burgers.json](./87475-superola-and-the-lost-burgers.json) |
@@ -23112,6 +23119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SVETIK | 394507 | [394507-svetik.json](./394507-svetik.json) |
 | Svetlograd | 207022 | [207022-svetlograd.json](./207022-svetlograd.json) |
 | SVG-001 Puzzle | 312687 | [312687-svg-001-puzzle.json](./312687-svg-001-puzzle.json) |
+| Svoboda | 100101 | [100101-svoboda.json](./100101-svoboda.json) |
 | Svrvive: The Deus Helix | 26121 | [26121-svrvive-the-deus-helix.json](./26121-svrvive-the-deus-helix.json) |
 | Swabby | 312224 | [312224-swabby.json](./312224-swabby.json) |
 | Swag & Sorcery | 107482 | [107482-swag-and-sorcery.json](./107482-swag-and-sorcery.json) |
