@@ -1373,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SAS: Zombie Assault 3 | 188396 | [188396-sas-zombie-assault-3.json](./188396-sas-zombie-assault-3.json) |
 | SAS: Zombie Assault 4 | 39197 | [39197-sas-zombie-assault-4.json](./39197-sas-zombie-assault-4.json) |
 | Sasa | 48602 | [48602-sasa.json](./48602-sasa.json) |
+| Sasami Kisscomi | 92424 | [92424-sasami-kisscomi.json](./92424-sasami-kisscomi.json) |
 | Sasayu Meshiki | 357807 | [357807-sasayu-meshiki.json](./357807-sasayu-meshiki.json) |
 | Sasha's Stupid Coffee Shop | 268963 | [268963-sashas-stupid-coffee-shop.json](./268963-sashas-stupid-coffee-shop.json) |
 | Sashimi Slayer | 395795 | [395795-sashimi-slayer.json](./395795-sashimi-slayer.json) |
@@ -4086,6 +4087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Severed Ties | 229751 | [229751-severed-ties.json](./229751-severed-ties.json) |
 | Severen | 198223 | [198223-severen.json](./198223-severen.json) |
 | Severity | 93615 | [93615-severity.json](./93615-severity.json) |
+| Sevgilim Olur musun ? | 92423 | [92423-sevgilim-olur-musun.json](./92423-sevgilim-olur-musun.json) |
 | Sevn | 232486 | [232486-sevn.json](./232486-sevn.json) |
 | Sew in Love | 184903 | [184903-sew-in-love.json](./184903-sew-in-love.json) |
 | Sewage | 202329 | [202329-sewage.json](./202329-sewage.json) |
@@ -8961,6 +8963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sliding Puzzle Space | 106551 | [106551-sliding-puzzle-space.json](./106551-sliding-puzzle-space.json) |
 | Sliding Puzzles | 270388 | [270388-sliding-puzzles.json](./270388-sliding-puzzles.json) |
 | Sliding Seas | 174584 | [174584-sliding-seas.json](./174584-sliding-seas.json) |
+| Sliding-Block Puzzles | 92426 | [92426-sliding-block-puzzles.json](./92426-sliding-block-puzzles.json) |
 | Slidy | 26509 | [26509-slidy.json](./26509-slidy.json) |
 | Sligga Trigger | 272580 | [272580-sligga-trigger.json](./272580-sligga-trigger.json) |
 | Slightly Heroes | 112852 | [112852-slightly-heroes.json](./112852-slightly-heroes.json) |
