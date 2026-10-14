@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man World Re-Pac | 206811 | [206811-pac-man-world-re-pac.json](./206811-pac-man-world-re-pac.json) |
 | Pac-Man x Bomberman | 198193 | [198193-pac-man-x-bomberman.json](./198193-pac-man-x-bomberman.json) |
 | Pac-Man: Adventures in Time | 78239 | [78239-pac-man-adventures-in-time.json](./78239-pac-man-adventures-in-time.json) |
+| Pac-Man: Championship Edition 2 + Arcade Game Series | 74273 | [74273-pac-man-championship-edition-2-arcade-game-series.json](./74273-pac-man-championship-edition-2-arcade-game-series.json) |
 | Pac-Man: Championship Edition DX | 21737 | [21737-pac-man-championship-edition-dx.json](./21737-pac-man-championship-edition-dx.json) |
 | Pac-Man: Ghost Zone | 311759 | [311759-pac-man-ghost-zone.json](./311759-pac-man-ghost-zone.json) |
 | Pac-Man: Party Royale | 122320 | [122320-pac-man-party-royale.json](./122320-pac-man-party-royale.json) |
@@ -8050,6 +8051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Politicide | 395516 | [395516-politicide.json](./395516-politicide.json) |
 | Politicking | 129689 | [129689-politicking.json](./129689-politicking.json) |
 | Políticos Memes Kombat | 273558 | [273558-politicos-memes-kombat.json](./273558-politicos-memes-kombat.json) |
+| Politics and War | 74269 | [74269-politics-and-war.json](./74269-politics-and-war.json) |
 | Politics The Game | 304903 | [304903-politics-the-game.json](./304903-politics-the-game.json) |
 | Politiks | 391176 | [391176-politiks.json](./391176-politiks.json) |
 | PolitiTruth | 102065 | [102065-polititruth.json](./102065-polititruth.json) |
@@ -8423,6 +8425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poop Plague in Fairyland | 189948 | [189948-poop-plague-in-fairyland.json](./189948-poop-plague-in-fairyland.json) |
 | Poop Rocket | 341562 | [341562-poop-rocket.json](./341562-poop-rocket.json) |
 | Poop Spotter: The Game To Improve the Quality of Poop~ | 294286 | [294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json](./294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json) |
+| Pooper Scooper | 74261 | [74261-pooper-scooper.json](./74261-pooper-scooper.json) |
 | Poopnauts | 418275 | [418275-poopnauts.json](./418275-poopnauts.json) |
 | Poopy Time | 305407 | [305407-poopy-time.json](./305407-poopy-time.json) |
 | Poor Artifact Maker | 290538 | [290538-poor-artifact-maker.json](./290538-poor-artifact-maker.json) |
