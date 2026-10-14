@@ -1656,6 +1656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data Trader | 399058 | [399058-data-trader.json](./399058-data-trader.json) |
 | Data Wing | 82502 | [82502-data-wing.json](./82502-data-wing.json) |
 | Data Worm | 281024 | [281024-data-worm.json](./281024-data-worm.json) |
+| Data-Fly | 91848 | [91848-data-fly.json](./91848-data-fly.json) |
 | Data: Corruption | 375445 | [375445-data-corruption.json](./375445-data-corruption.json) |
 | Data.Expand | 260146 | [260146-data-expand.json](./260146-data-expand.json) |
 | Database Detective: Minor Crimes Division | 399848 | [399848-database-detective-minor-crimes-division.json](./399848-database-detective-minor-crimes-division.json) |
@@ -4490,11 +4491,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Der blaue Kristall | 125956 | [125956-der-blaue-kristall.json](./125956-der-blaue-kristall.json) |
 | Der Dativ ist dem Genitiv sein Tod | 269665 | [269665-der-dativ-ist-dem-genitiv-sein-tod.json](./269665-der-dativ-ist-dem-genitiv-sein-tod.json) |
 | Der einzig wahre Auserwählte | 83205 | [83205-der-einzig-wahre-auserwahlte.json](./83205-der-einzig-wahre-auserwahlte.json) |
+| Der flinke Architekt | 91870 | [91870-der-flinke-architekt.json](./91870-der-flinke-architekt.json) |
 | Der Geistermeister | 369648 | [369648-der-geistermeister.json](./369648-der-geistermeister.json) |
 | Der Gesundheits Coach: Wohlfuhlen jeden Tag | 269579 | [269579-der-gesundheits-coach-wohlfuhlen-jeden-tag.json](./269579-der-gesundheits-coach-wohlfuhlen-jeden-tag.json) |
 | Der Gesundheitscoach | 268139 | [268139-der-gesundheitscoach.json](./268139-der-gesundheitscoach.json) |
 | Der Große Preis von Raddorf | 98955 | [98955-der-gro-e-preis-von-raddorf.json](./98955-der-gro-e-preis-von-raddorf.json) |
 | Der Königsruf | 369627 | [369627-der-konigsruf.json](./369627-der-konigsruf.json) |
+| Der Landsitz von le Cros | 91876 | [91876-der-landsitz-von-le-cros.json](./91876-der-landsitz-von-le-cros.json) |
 | Der Langrisser | 77634 | [77634-der-langrisser.json](./77634-der-langrisser.json) |
 | Der Milchbauer | 108322 | [108322-der-milchbauer.json](./108322-der-milchbauer.json) |
 | Der Pfad des Pinguins | 262242 | [262242-der-pfad-des-pinguins.json](./262242-der-pfad-des-pinguins.json) |
@@ -11301,6 +11304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drums Rock: Undertale - 'Hopes And Dreams' | 322215 | [322215-drums-rock-undertale-hopes-and-dreams.json](./322215-drums-rock-undertale-hopes-and-dreams.json) |
 | Drums Rock: Undertale - 'Megalovania' | 322214 | [322214-drums-rock-undertale-megalovania.json](./322214-drums-rock-undertale-megalovania.json) |
 | DrumSim | 65814 | [65814-drumsim.json](./65814-drumsim.json) |
+| Drumskulls | 91865 | [91865-drumskulls.json](./91865-drumskulls.json) |
 | Drunk | 183068 | [183068-drunk.json](./183068-drunk.json) |
 | Drunk | 184963 | [184963-drunk.json](./184963-drunk.json) |
 | Drunk As I Like: Gensokyo Chugging Contest | 202334 | [202334-drunk-as-i-like-gensokyo-chugging-contest.json](./202334-drunk-as-i-like-gensokyo-chugging-contest.json) |
