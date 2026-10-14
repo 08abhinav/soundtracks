@@ -4789,6 +4789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MediEvil | 299389 | [299389-medievil.json](./299389-medievil.json) |
 | MediEvil II | 329195 | [329195-medievil-ii.json](./329195-medievil-ii.json) |
 | MediEvil II | 4002 | [4002-medievil-ii.json](./4002-medievil-ii.json) |
+| MediEvil: Digital Deluxe Edition | 118681 | [118681-medievil-digital-deluxe-edition.json](./118681-medievil-digital-deluxe-edition.json) |
 | MediEvil: Resurrection | 288665 | [288665-medievil-resurrection.json](./288665-medievil-resurrection.json) |
 | Meditation 5 | 135047 | [135047-meditation-5.json](./135047-meditation-5.json) |
 | Meditation Forest | 183409 | [183409-meditation-forest.json](./183409-meditation-forest.json) |
@@ -9374,6 +9375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Tap Sports Baseball 2020 | 220210 | [220210-mlb-tap-sports-baseball-2020.json](./220210-mlb-tap-sports-baseball-2020.json) |
 | MLB Tap Sports Baseball 2022 | 196590 | [196590-mlb-tap-sports-baseball-2022.json](./196590-mlb-tap-sports-baseball-2022.json) |
 | MLB The Show 18: Digital Deluxe Edition | 118909 | [118909-mlb-the-show-18-digital-deluxe-edition.json](./118909-mlb-the-show-18-digital-deluxe-edition.json) |
+| MLB The Show 19: Digital Deluxe Edition | 118691 | [118691-mlb-the-show-19-digital-deluxe-edition.json](./118691-mlb-the-show-19-digital-deluxe-edition.json) |
 | MLB The Show 19: MVP Edition | 119070 | [119070-mlb-the-show-19-mvp-edition.json](./119070-mlb-the-show-19-mvp-edition.json) |
 | MLB The Show 20 | 125013 | [125013-mlb-the-show-20.json](./125013-mlb-the-show-20.json) |
 | MLB The Show 20: MVP Edition | 136218 | [136218-mlb-the-show-20-mvp-edition.json](./136218-mlb-the-show-20-mvp-edition.json) |
