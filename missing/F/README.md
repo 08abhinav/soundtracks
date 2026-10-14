@@ -481,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Knights | 105943 | [105943-fairy-knights.json](./105943-fairy-knights.json) |
 | Fairy Land | 265555 | [265555-fairy-land.json](./265555-fairy-land.json) |
 | Fairy Lands: Rinka and the Fairy Gems | 52096 | [52096-fairy-lands-rinka-and-the-fairy-gems.json](./52096-fairy-lands-rinka-and-the-fairy-gems.json) |
+| Fairy Light | 115416 | [115416-fairy-light.json](./115416-fairy-light.json) |
 | Fairy Magic Skillz Tournaments | 232487 | [232487-fairy-magic-skillz-tournaments.json](./232487-fairy-magic-skillz-tournaments.json) |
 | Fairy Massage | 347664 | [347664-fairy-massage.json](./347664-fairy-massage.json) |
 | Fairy Nook | 364627 | [364627-fairy-nook.json](./364627-fairy-nook.json) |
@@ -5888,6 +5889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FolcDark: Part I | 265119 | [265119-folcdark-part-i.json](./265119-folcdark-part-i.json) |
 | FolcDark: Part II | 274025 | [274025-folcdark-part-ii.json](./274025-folcdark-part-ii.json) |
 | Folclore | 293547 | [293547-folclore.json](./293547-folclore.json) |
+| Fold | 115403 | [115403-fold.json](./115403-fold.json) |
 | Fold & Cut | 255744 | [255744-fold-and-cut.json](./255744-fold-and-cut.json) |
 | Fold the World | 348800 | [348800-fold-the-world.json](./348800-fold-the-world.json) |
 | Folded Fables: Tidy Up The Dragon Hoard | 420591 | [420591-folded-fables-tidy-up-the-dragon-hoard.json](./420591-folded-fables-tidy-up-the-dragon-hoard.json) |
@@ -8534,6 +8536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Panic | 56754 | [56754-fruit-panic.json](./56754-fruit-panic.json) |
 | Fruit Party: Suika Casual Puzzle | 319318 | [319318-fruit-party-suika-casual-puzzle.json](./319318-fruit-party-suika-casual-puzzle.json) |
 | Fruit Postal Service | 119777 | [119777-fruit-postal-service.json](./119777-fruit-postal-service.json) |
+| Fruit Punch | 115415 | [115415-fruit-punch.json](./115415-fruit-punch.json) |
 | Fruit Row | 149717 | [149717-fruit-row.json](./149717-fruit-row.json) |
 | Fruit Salad | 273892 | [273892-fruit-salad.json](./273892-fruit-salad.json) |
 | Fruit Salad Theory | 186807 | [186807-fruit-salad-theory.json](./186807-fruit-salad-theory.json) |
@@ -9093,6 +9096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Shakespeare: Emperor Penguin Lear | 133180 | [133180-furry-shakespeare-emperor-penguin-lear.json](./133180-furry-shakespeare-emperor-penguin-lear.json) |
 | Furry Shakespeare: Love's Lizards Lost | 128973 | [128973-furry-shakespeare-loves-lizards-lost.json](./128973-furry-shakespeare-loves-lizards-lost.json) |
 | Furry Shakespeare: Oops! All Dragons! | 152805 | [152805-furry-shakespeare-oops-all-dragons.json](./152805-furry-shakespeare-oops-all-dragons.json) |
+| Furry Shakespeare: To Date or Not to Date Cat Girls? | 115492 | [115492-furry-shakespeare-to-date-or-not-to-date-cat-girls.json](./115492-furry-shakespeare-to-date-or-not-to-date-cat-girls.json) |
 | Furry Shakespeare: To Date Or Not To Date Cat Girls? - 2 Prophecy of Convenience | 253951 | [253951-furry-shakespeare-to-date-or-not-to-date-cat-girls-2-prophecy-of-convenience.json](./253951-furry-shakespeare-to-date-or-not-to-date-cat-girls-2-prophecy-of-convenience.json) |
 | Furry Stories: Alpha-Male | 130297 | [130297-furry-stories-alpha-male.json](./130297-furry-stories-alpha-male.json) |
 | Furry Striptease | 215899 | [215899-furry-striptease.json](./215899-furry-striptease.json) |
