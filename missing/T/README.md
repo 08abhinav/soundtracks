@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: Doka! to Oomori Nanadaime | 123418 | [123418-taiko-no-tatsujin-doka-to-oomori-nanadaime.json](./123418-taiko-no-tatsujin-doka-to-oomori-nanadaime.json) |
 | Taiko no Tatsujin: Doki! Shinkyoku Darake no Haru Matsuri | 123431 | [123431-taiko-no-tatsujin-doki-shinkyoku-darake-no-haru-matsuri.json](./123431-taiko-no-tatsujin-doki-shinkyoku-darake-no-haru-matsuri.json) |
 | Taiko no Tatsujin: Drum 'n' Fun! | 104992 | [104992-taiko-no-tatsujin-drum-n-fun.json](./104992-taiko-no-tatsujin-drum-n-fun.json) |
+| Taiko No Tatsujin: Drum Session! - Deluxe Edition | 118719 | [118719-taiko-no-tatsujin-drum-session-deluxe-edition.json](./118719-taiko-no-tatsujin-drum-session-deluxe-edition.json) |
 | Taiko no Tatsujin: Go! Go! Godaime | 123416 | [123416-taiko-no-tatsujin-go-go-godaime.json](./123416-taiko-no-tatsujin-go-go-godaime.json) |
 | Taiko no Tatsujin: Ongaku Lesson | 123620 | [123620-taiko-no-tatsujin-ongaku-lesson.json](./123620-taiko-no-tatsujin-ongaku-lesson.json) |
 | Taiko no Tatsujin: Pop Tap Beat | 145443 | [145443-taiko-no-tatsujin-pop-tap-beat.json](./145443-taiko-no-tatsujin-pop-tap-beat.json) |
@@ -2451,6 +2452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 7: Lidia Sobieska | 163267 | [163267-tekken-7-lidia-sobieska.json](./163267-tekken-7-lidia-sobieska.json) |
 | Tekken 7: Originals Edition | 218481 | [218481-tekken-7-originals-edition.json](./218481-tekken-7-originals-edition.json) |
 | Tekken 7: Season Pass | 385588 | [385588-tekken-7-season-pass.json](./385588-tekken-7-season-pass.json) |
+| Tekken 7: Ultimate Edition | 118704 | [118704-tekken-7-ultimate-edition.json](./118704-tekken-7-ultimate-edition.json) |
 | Tekken 7: Ultimate Tekken Bowl & Additional Costumes | 118958 | [118958-tekken-7-ultimate-tekken-bowl-and-additional-costumes.json](./118958-tekken-7-ultimate-tekken-bowl-and-additional-costumes.json) |
 | Tekken 7: Vermilion Gates | 173154 | [173154-tekken-7-vermilion-gates.json](./173154-tekken-7-vermilion-gates.json) |
 | Tekken 7: Zafina | 163260 | [163260-tekken-7-zafina.json](./163260-tekken-7-zafina.json) |
@@ -4812,6 +4814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Change Architect | 141095 | [141095-the-change-architect.json](./141095-the-change-architect.json) |
 | The Chant | 152076 | [152076-the-chant.json](./152076-the-chant.json) |
 | The Chant: The Gloom Below | 266387 | [266387-the-chant-the-gloom-below.json](./266387-the-chant-the-gloom-below.json) |
+| The Chantry | 118698 | [118698-the-chantry.json](./118698-the-chantry.json) |
 | The Chaput's Baby | 217992 | [217992-the-chaputs-baby.json](./217992-the-chaputs-baby.json) |
 | The Charity Shop | 333942 | [333942-the-charity-shop.json](./333942-the-charity-shop.json) |
 | The Charm of Love | 157158 | [157158-the-charm-of-love.json](./157158-the-charm-of-love.json) |
@@ -4996,6 +4999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coma: Back to School Bundle | 154967 | [154967-the-coma-back-to-school-bundle.json](./154967-the-coma-back-to-school-bundle.json) |
 | The Coma: Double Cut | 136930 | [136930-the-coma-double-cut.json](./136930-the-coma-double-cut.json) |
 | The Coma: Recut | 51385 | [51385-the-coma-recut.json](./51385-the-coma-recut.json) |
+| The Coma: Recut - Deluxe Edition | 118699 | [118699-the-coma-recut-deluxe-edition.json](./118699-the-coma-recut-deluxe-edition.json) |
 | The Coma: Recut - Limited Edition | 166241 | [166241-the-coma-recut-limited-edition.json](./166241-the-coma-recut-limited-edition.json) |
 | The Coma: Sehwa Complete Edition | 401735 | [401735-the-coma-sehwa-complete-edition.json](./401735-the-coma-sehwa-complete-edition.json) |
 | The Coma: Triple Threat Bundle | 338010 | [338010-the-coma-triple-threat-bundle.json](./338010-the-coma-triple-threat-bundle.json) |
@@ -5122,6 +5126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Creature: Escape Room | 207538 | [207538-the-creature-escape-room.json](./207538-the-creature-escape-room.json) |
 | The Creeps! | 232581 | [232581-the-creeps.json](./232581-the-creeps.json) |
 | The Crevice | 275826 | [275826-the-crevice.json](./275826-the-crevice.json) |
+| The Crew 2: Digital Deluxe Edition | 118708 | [118708-the-crew-2-digital-deluxe-edition.json](./118708-the-crew-2-digital-deluxe-edition.json) |
 | The Crew 2: Special Edition | 161179 | [161179-the-crew-2-special-edition.json](./161179-the-crew-2-special-edition.json) |
 | The Crew 2: Steelbook Gold Edition | 122358 | [122358-the-crew-2-steelbook-gold-edition.json](./122358-the-crew-2-steelbook-gold-edition.json) |
 | The Crew Motorfest: JDM Custom Car Pack | 393736 | [393736-the-crew-motorfest-jdm-custom-car-pack.json](./393736-the-crew-motorfest-jdm-custom-car-pack.json) |
@@ -7956,6 +7961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Dogma | 35149 | [35149-the-last-dogma.json](./35149-the-last-dogma.json) |
 | The Last Door | 235984 | [235984-the-last-door.json](./235984-the-last-door.json) |
 | The Last Door on the Left | 177314 | [177314-the-last-door-on-the-left.json](./177314-the-last-door-on-the-left.json) |
+| The Last Door: Complete Edition | 118676 | [118676-the-last-door-complete-edition.json](./118676-the-last-door-complete-edition.json) |
 | The Last Dream: Developer's Edition | 34624 | [34624-the-last-dream-developers-edition.json](./34624-the-last-dream-developers-edition.json) |
 | The Last Drive: 2335 | 359607 | [359607-the-last-drive-2335.json](./359607-the-last-drive-2335.json) |
 | The Last Driver | 343791 | [343791-the-last-driver.json](./343791-the-last-driver.json) |
@@ -11622,6 +11628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Technomancer | 9919 | [9919-the-technomancer.json](./9919-the-technomancer.json) |
 | The Teeth | 210650 | [210650-the-teeth.json](./210650-the-teeth.json) |
 | The Teletransport Smurf | 135833 | [135833-the-teletransport-smurf.json](./135833-the-teletransport-smurf.json) |
+| The Telltale Batman Bundle | 118722 | [118722-the-telltale-batman-bundle.json](./118722-the-telltale-batman-bundle.json) |
 | The Telltale Games Collection | 99799 | [99799-the-telltale-games-collection.json](./99799-the-telltale-games-collection.json) |
 | The Telltale Undead Survival Bundle | 82408 | [82408-the-telltale-undead-survival-bundle.json](./82408-the-telltale-undead-survival-bundle.json) |
 | The Telos Monument | 158930 | [158930-the-telos-monument.json](./158930-the-telos-monument.json) |
@@ -16595,12 +16602,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon 2: 2011 - Final Assault | 77979 | [77979-tom-clancys-ghost-recon-2-2011-final-assault.json](./77979-tom-clancys-ghost-recon-2-2011-final-assault.json) |
 | Tom Clancy's Ghost Recon 2: Summit Strike | 1299 | [1299-tom-clancys-ghost-recon-2-summit-strike.json](./1299-tom-clancys-ghost-recon-2-summit-strike.json) |
 | Tom Clancy's Ghost Recon Advanced Warfighter 2 | 1301 | [1301-tom-clancys-ghost-recon-advanced-warfighter-2.json](./1301-tom-clancys-ghost-recon-advanced-warfighter-2.json) |
+| Tom Clancy's Ghost Recon Breakpoint: Digital Gold Edition | 118679 | [118679-tom-clancys-ghost-recon-breakpoint-digital-gold-edition.json](./118679-tom-clancys-ghost-recon-breakpoint-digital-gold-edition.json) |
 | Tom Clancy's Ghost Recon Breakpoint: Sentinel Corp. Pack | 399903 | [399903-tom-clancys-ghost-recon-breakpoint-sentinel-corp-pack.json](./399903-tom-clancys-ghost-recon-breakpoint-sentinel-corp-pack.json) |
 | Tom Clancy's Ghost Recon Commander | 77976 | [77976-tom-clancys-ghost-recon-commander.json](./77976-tom-clancys-ghost-recon-commander.json) |
 | Tom Clancy's Ghost Recon Predator | 1302 | [1302-tom-clancys-ghost-recon-predator.json](./1302-tom-clancys-ghost-recon-predator.json) |
 | Tom Clancy's Ghost Recon: Breakpoint - Deep State | 138783 | [138783-tom-clancys-ghost-recon-breakpoint-deep-state.json](./138783-tom-clancys-ghost-recon-breakpoint-deep-state.json) |
 | Tom Clancy's Ghost Recon: Breakpoint - Deluxe Edition | 173793 | [173793-tom-clancys-ghost-recon-breakpoint-deluxe-edition.json](./173793-tom-clancys-ghost-recon-breakpoint-deluxe-edition.json) |
 | Tom Clancy's Ghost Recon: Breakpoint - Red Patriot | 138784 | [138784-tom-clancys-ghost-recon-breakpoint-red-patriot.json](./138784-tom-clancys-ghost-recon-breakpoint-red-patriot.json) |
+| Tom Clancy's Ghost Recon: Breakpoint - Year 1 Pass | 118678 | [118678-tom-clancys-ghost-recon-breakpoint-year-1-pass.json](./118678-tom-clancys-ghost-recon-breakpoint-year-1-pass.json) |
 | Tom Clancy's Ghost Recon: Breakpoint Gold Edition | 118275 | [118275-tom-clancys-ghost-recon-breakpoint-gold-edition.json](./118275-tom-clancys-ghost-recon-breakpoint-gold-edition.json) |
 | Tom Clancy's Ghost Recon: Breakpoint Ultimate Edition | 118276 | [118276-tom-clancys-ghost-recon-breakpoint-ultimate-edition.json](./118276-tom-clancys-ghost-recon-breakpoint-ultimate-edition.json) |
 | Tom Clancy's Ghost Recon: Breakpoint Wolves Collector Edition | 118277 | [118277-tom-clancys-ghost-recon-breakpoint-wolves-collector-edition.json](./118277-tom-clancys-ghost-recon-breakpoint-wolves-collector-edition.json) |
@@ -21390,6 +21399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TS Marketplace: Union Pacific Scenario Pack 02 Add-On | 163041 | [163041-ts-marketplace-union-pacific-scenario-pack-02-add-on.json](./163041-ts-marketplace-union-pacific-scenario-pack-02-add-on.json) |
 | TS Online Mobile | 130745 | [130745-ts-online-mobile.json](./130745-ts-online-mobile.json) |
 | TS!Underswap | 212220 | [212220-ts-underswap.json](./212220-ts-underswap.json) |
+| TS2: Train Signalling Simulator | 118713 | [118713-ts2-train-signalling-simulator.json](./118713-ts2-train-signalling-simulator.json) |
 | TSA Frisky VR | 89964 | [89964-tsa-frisky-vr.json](./89964-tsa-frisky-vr.json) |
 | Tsan-shadow Ninja | 351724 | [351724-tsan-shadow-ninja.json](./351724-tsan-shadow-ninja.json) |
 | Tsardoms: Total War | 356249 | [356249-tsardoms-total-war.json](./356249-tsardoms-total-war.json) |
