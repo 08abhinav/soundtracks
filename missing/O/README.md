@@ -1551,6 +1551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One in a Thousand: Clover Book | 417358 | [417358-one-in-a-thousand-clover-book.json](./417358-one-in-a-thousand-clover-book.json) |
 | One in a Trillion | 146873 | [146873-one-in-a-trillion.json](./146873-one-in-a-trillion.json) |
 | One in the Back | 370247 | [370247-one-in-the-back.json](./370247-one-in-the-back.json) |
+| One Jump Bomb | 108234 | [108234-one-jump-bomb.json](./108234-one-jump-bomb.json) |
 | One Just Night | 278487 | [278487-one-just-night.json](./278487-one-just-night.json) |
 | One Last Adventure | 294808 | [294808-one-last-adventure.json](./294808-one-last-adventure.json) |
 | One Last Box | 408015 | [408015-one-last-box.json](./408015-one-last-box.json) |
