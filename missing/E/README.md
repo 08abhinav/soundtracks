@@ -1969,6 +1969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerald Shores | 111470 | [111470-emerald-shores.json](./111470-emerald-shores.json) |
 | Emerald Ties | 324698 | [324698-emerald-ties.json](./324698-emerald-ties.json) |
 | Emerald Woods | 275656 | [275656-emerald-woods.json](./275656-emerald-woods.json) |
+| Emeraldia | 83423 | [83423-emeraldia.json](./83423-emeraldia.json) |
 | Emeraldium | 294207 | [294207-emeraldium.json](./294207-emeraldium.json) |
 | Emerge | 342631 | [342631-emerge.json](./342631-emerge.json) |
 | Emerge: Cities of the Apocalypse | 33136 | [33136-emerge-cities-of-the-apocalypse.json](./33136-emerge-cities-of-the-apocalypse.json) |
@@ -5385,6 +5386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Go-Kart Racing | 45306 | [45306-extreme-go-kart-racing.json](./45306-extreme-go-kart-racing.json) |
 | Extreme Hangman 2 | 62255 | [62255-extreme-hangman-2.json](./62255-extreme-hangman-2.json) |
 | Extreme Hill Driver | 414387 | [414387-extreme-hill-driver.json](./414387-extreme-hill-driver.json) |
+| Extreme Hunting 2 | 83432 | [83432-extreme-hunting-2.json](./83432-extreme-hunting-2.json) |
 | Extreme Jump | 312188 | [312188-extreme-jump.json](./312188-extreme-jump.json) |
 | Extreme Karts | 232545 | [232545-extreme-karts.json](./232545-extreme-karts.json) |
 | Extreme Landings | 88296 | [88296-extreme-landings.json](./88296-extreme-landings.json) |
