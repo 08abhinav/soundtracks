@@ -2216,6 +2216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | En Svensk Tiger | 179469 | [179469-en-svensk-tiger.json](./179469-en-svensk-tiger.json) |
 | En-Fem-E No. 9: Reborn | 195780 | [195780-en-fem-e-no-9-reborn.json](./195780-en-fem-e-no-9-reborn.json) |
 | En-Fem-E No. 9: The Factory | 288226 | [288226-en-fem-e-no-9-the-factory.json](./288226-en-fem-e-no-9-the-factory.json) |
+| Enadakina | 114251 | [114251-enadakina.json](./114251-enadakina.json) |
 | Enamel | 64137 | [64137-enamel.json](./64137-enamel.json) |
 | EnantiO | 206233 | [206233-enantio.json](./206233-enantio.json) |
 | Enarian: Orbital Command | 415158 | [415158-enarian-orbital-command.json](./415158-enarian-orbital-command.json) |
@@ -3887,6 +3888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esteem | 333142 | [333142-esteem.json](./333142-esteem.json) |
 | Estelaroid: Escape Room | 258417 | [258417-estelaroid-escape-room.json](./258417-estelaroid-escape-room.json) |
 | Estellina | 286080 | [286080-estellina.json](./286080-estellina.json) |
+| Estellium Legends | 114224 | [114224-estellium-legends.json](./114224-estellium-legends.json) |
 | Esten | 186291 | [186291-esten.json](./186291-esten.json) |
 | Estencel | 207327 | [207327-estencel.json](./207327-estencel.json) |
 | Esther - Interactive Bible Stories | 87534 | [87534-esther-interactive-bible-stories.json](./87534-esther-interactive-bible-stories.json) |
