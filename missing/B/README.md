@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball of Poo | 276855 | [276855-ball-of-poo.json](./276855-ball-of-poo.json) |
 | Ball of Woe | 253267 | [253267-ball-of-woe.json](./253267-ball-of-woe.json) |
 | Ball of Wonder | 31897 | [31897-ball-of-wonder.json](./31897-ball-of-wonder.json) |
+| Ball Out | 112699 | [112699-ball-out.json](./112699-ball-out.json) |
 | Ball Out | 262962 | [262962-ball-out.json](./262962-ball-out.json) |
 | Ball Pain | 193465 | [193465-ball-pain.json](./193465-ball-pain.json) |
 | Ball Panic! | 116393 | [116393-ball-panic.json](./116393-ball-panic.json) |
@@ -7473,6 +7474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Horror Plant | 239684 | [239684-bloody-horror-plant.json](./239684-bloody-horror-plant.json) |
 | Bloody Layne | 174794 | [174794-bloody-layne.json](./174794-bloody-layne.json) |
 | Bloody Legless | 177778 | [177778-bloody-legless.json](./177778-bloody-legless.json) |
+| Bloody Mary | 112820 | [112820-bloody-mary.json](./112820-bloody-mary.json) |
 | Bloody Mary's Mansion | 90225 | [90225-bloody-marys-mansion.json](./90225-bloody-marys-mansion.json) |
 | Bloody Merc | 152814 | [152814-bloody-merc.json](./152814-bloody-merc.json) |
 | Bloody Nightshift | 176743 | [176743-bloody-nightshift.json](./176743-bloody-nightshift.json) |
@@ -10310,6 +10312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bright Oak | 277016 | [277016-bright-oak.json](./277016-bright-oak.json) |
 | Bright Paw: Definitive Edition | 212285 | [212285-bright-paw-definitive-edition.json](./212285-bright-paw-definitive-edition.json) |
 | Bright Reappear | 254171 | [254171-bright-reappear.json](./254171-bright-reappear.json) |
+| Bright Red Skies | 112840 | [112840-bright-red-skies.json](./112840-bright-red-skies.json) |
 | Bright Shadow | 84432 | [84432-bright-shadow.json](./84432-bright-shadow.json) |
 | Bright Side: Riddles & Puzzles | 265393 | [265393-bright-side-riddles-and-puzzles.json](./265393-bright-side-riddles-and-puzzles.json) |
 | Bright Sky: The Watch of the Future | 413006 | [413006-bright-sky-the-watch-of-the-future.json](./413006-bright-sky-the-watch-of-the-future.json) |
