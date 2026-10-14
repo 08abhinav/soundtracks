@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Burned Man Walks Down The Desolate Corridor | 303251 | [303251-a-burned-man-walks-down-the-desolate-corridor.json](./303251-a-burned-man-walks-down-the-desolate-corridor.json) |
 | A Business Tycoon | 68025 | [68025-a-business-tycoon.json](./68025-a-business-tycoon.json) |
 | A Busty JK Teaches How to Do Petit Compensated Dating | 83168 | [83168-a-busty-jk-teaches-how-to-do-petit-compensated-dating.json](./83168-a-busty-jk-teaches-how-to-do-petit-compensated-dating.json) |
+| A Busty Student Council President and H Monsters | 82731 | [82731-a-busty-student-council-president-and-h-monsters.json](./82731-a-busty-student-council-president-and-h-monsters.json) |
 | A Butterfly | 266400 | [266400-a-butterfly.json](./266400-a-butterfly.json) |
 | A Butterfly | 327294 | [327294-a-butterfly.json](./327294-a-butterfly.json) |
 | A Butterfly in the District of Dreams | 28914 | [28914-a-butterfly-in-the-district-of-dreams.json](./28914-a-butterfly-in-the-district-of-dreams.json) |
@@ -541,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mystic Journey With: Aria | 392957 | [392957-a-mystic-journey-with-aria.json](./392957-a-mystic-journey-with-aria.json) |
 | A Mystic Journey With: Nova | 392947 | [392947-a-mystic-journey-with-nova.json](./392947-a-mystic-journey-with-nova.json) |
 | A Mystic Journey With: Terra | 392951 | [392951-a-mystic-journey-with-terra.json](./392951-a-mystic-journey-with-terra.json) |
+| A Naive Villager Girl Nako's Exploration Story | 82691 | [82691-a-naive-villager-girl-nakos-exploration-story.json](./82691-a-naive-villager-girl-nakos-exploration-story.json) |
 | A Nanobot | 233124 | [233124-a-nanobot.json](./233124-a-nanobot.json) |
 | A Nest for Us | 259499 | [259499-a-nest-for-us.json](./259499-a-nest-for-us.json) |
 | A New Adventure: FaYoh 2 | 131374 | [131374-a-new-adventure-fayoh-2.json](./131374-a-new-adventure-fayoh-2.json) |
@@ -4596,6 +4598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alkali | 154412 | [154412-alkali.json](./154412-alkali.json) |
 | Alkaline | 195492 | [195492-alkaline.json](./195492-alkaline.json) |
 | Alkatria | 326709 | [326709-alkatria.json](./326709-alkatria.json) |
+| Alkemo: Kemomimi Alchemist | 82679 | [82679-alkemo-kemomimi-alchemist.json](./82679-alkemo-kemomimi-alchemist.json) |
 | Alkey the Brave | 226214 | [226214-alkey-the-brave.json](./226214-alkey-the-brave.json) |
 | Alkimya: House of Wisdom | 415155 | [415155-alkimya-house-of-wisdom.json](./415155-alkimya-house-of-wisdom.json) |
 | All @ Once | 201651 | [201651-all-once.json](./201651-all-once.json) |
@@ -7391,6 +7394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aoi Tori: L'Oiseau Bleu | 394867 | [394867-aoi-tori-loiseau-bleu.json](./394867-aoi-tori-loiseau-bleu.json) |
 | Aoi Umi no Tristia: Hatsumei Koubou Funtou ki | 407995 | [407995-aoi-umi-no-tristia-hatsumei-koubou-funtou-ki.json](./407995-aoi-umi-no-tristia-hatsumei-koubou-funtou-ki.json) |
 | Aoi Umi no Tristia: Nanoca Flanka Hatsumei Koubou ki | 68255 | [68255-aoi-umi-no-tristia-nanoca-flanka-hatsumei-koubou-ki.json](./68255-aoi-umi-no-tristia-nanoca-flanka-hatsumei-koubou-ki.json) |
+| Aoi's Alternate World Escape | 82699 | [82699-aois-alternate-world-escape.json](./82699-aois-alternate-world-escape.json) |
 | Aoitenryuu: The Arcade | 68258 | [68258-aoitenryuu-the-arcade.json](./68258-aoitenryuu-the-arcade.json) |
 | Aojuji Hospital: Tokyo Eidolic Anatomy Division | 255596 | [255596-aojuji-hospital-tokyo-eidolic-anatomy-division.json](./255596-aojuji-hospital-tokyo-eidolic-anatomy-division.json) |
 | Aokana: Four Rhythms Across the Blue | 54630 | [54630-aokana-four-rhythms-across-the-blue.json](./54630-aokana-four-rhythms-across-the-blue.json) |
