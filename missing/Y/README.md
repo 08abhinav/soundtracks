@@ -518,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yogi's Great Escape | 12833 | [12833-yogis-great-escape.json](./12833-yogis-great-escape.json) |
 | YogKart | 176209 | [176209-yogkart.json](./176209-yogkart.json) |
 | Yogoe Hunter | 320178 | [320178-yogoe-hunter.json](./320178-yogoe-hunter.json) |
+| Yogosareta Seifuku: Ryojyoku no Kusari | 97779 | [97779-yogosareta-seifuku-ryojyoku-no-kusari.json](./97779-yogosareta-seifuku-ryojyoku-no-kusari.json) |
 | Yogurt Commercial 3 | 146850 | [146850-yogurt-commercial-3.json](./146850-yogurt-commercial-3.json) |
 | Yogurt Royale | 177010 | [177010-yogurt-royale.json](./177010-yogurt-royale.json) |
 | Yogurt! | 158540 | [158540-yogurt.json](./158540-yogurt.json) |
