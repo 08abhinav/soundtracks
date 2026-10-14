@@ -858,6 +858,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K19: The Prelude | 110326 | [110326-nba-2k19-the-prelude.json](./110326-nba-2k19-the-prelude.json) |
 | NBA 2K2 | 4029 | [4029-nba-2k2.json](./4029-nba-2k2.json) |
 | NBA 2K20 | 114285 | [114285-nba-2k20.json](./114285-nba-2k20.json) |
+| NBA 2K20: Digital Deluxe Edition | 122078 | [122078-nba-2k20-digital-deluxe-edition.json](./122078-nba-2k20-digital-deluxe-edition.json) |
+| NBA 2K20: Legend Edition | 122077 | [122077-nba-2k20-legend-edition.json](./122077-nba-2k20-legend-edition.json) |
 | NBA 2K21: Arcade Edition | 356035 | [356035-nba-2k21-arcade-edition.json](./356035-nba-2k21-arcade-edition.json) |
 | NBA 2K21: Mamba Forever - Legendary Edition | 146184 | [146184-nba-2k21-mamba-forever-legendary-edition.json](./146184-nba-2k21-mamba-forever-legendary-edition.json) |
 | NBA 2K21: Mamba Forever Edition | 136398 | [136398-nba-2k21-mamba-forever-edition.json](./136398-nba-2k21-mamba-forever-edition.json) |
@@ -1630,6 +1632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Drive | 31180 | [31180-neon-drive.json](./31180-neon-drive.json) |
 | Neon Echo | 246299 | [246299-neon-echo.json](./246299-neon-echo.json) |
 | Neon Eclipse: Dominium | 346155 | [346155-neon-eclipse-dominium.json](./346155-neon-eclipse-dominium.json) |
+| Neon Exile | 120652 | [120652-neon-exile.json](./120652-neon-exile.json) |
 | Neon Express | 310723 | [310723-neon-express.json](./310723-neon-express.json) |
 | Neon Fantasy: Birds | 254144 | [254144-neon-fantasy-birds.json](./254144-neon-fantasy-birds.json) |
 | Neon Fantasy: Cats | 267842 | [267842-neon-fantasy-cats.json](./267842-neon-fantasy-cats.json) |
@@ -1721,6 +1724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Shadow | 36331 | [36331-neon-shadow.json](./36331-neon-shadow.json) |
 | Neon Ships: The Type'em Up Shooter | 143707 | [143707-neon-ships-the-typeem-up-shooter.json](./143707-neon-ships-the-typeem-up-shooter.json) |
 | Neon Shooter | 158651 | [158651-neon-shooter.json](./158651-neon-shooter.json) |
+| Neon Slashers | 119487 | [119487-neon-slashers.json](./119487-neon-slashers.json) |
 | Neon Sling | 242457 | [242457-neon-sling.json](./242457-neon-sling.json) |
 | Neon Snap | 140597 | [140597-neon-snap.json](./140597-neon-snap.json) |
 | Neon Space | 19325 | [19325-neon-space.json](./19325-neon-space.json) |
@@ -3493,6 +3497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Ruins | 344890 | [344890-ninja-ruins.json](./344890-ninja-ruins.json) |
 | Ninja Run | 129083 | [129083-ninja-run.json](./129083-ninja-run.json) |
 | Ninja Run | 210750 | [210750-ninja-run.json](./210750-ninja-run.json) |
+| Ninja Run! | 119463 | [119463-ninja-run.json](./119463-ninja-run.json) |
 | Ninja Runner | 233234 | [233234-ninja-runner.json](./233234-ninja-runner.json) |
 | Ninja Saga | 198177 | [198177-ninja-saga.json](./198177-ninja-saga.json) |
 | Ninja Savior | 268496 | [268496-ninja-savior.json](./268496-ninja-savior.json) |
@@ -4378,6 +4383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonstop Chuck Norris | 75402 | [75402-nonstop-chuck-norris.json](./75402-nonstop-chuck-norris.json) |
 | Nonstop Game | 208966 | [208966-nonstop-game.json](./208966-nonstop-game.json) |
 | Nonstop Knight | 57367 | [57367-nonstop-knight.json](./57367-nonstop-knight.json) |
+| Nonstop Knight 2 | 119432 | [119432-nonstop-knight-2.json](./119432-nonstop-knight-2.json) |
 | Nontan to Issho: Hoshi no Okurimono | 268518 | [268518-nontan-to-issho-hoshi-no-okurimono.json](./268518-nontan-to-issho-hoshi-no-okurimono.json) |
 | Nontan to Issho: Nohara de Asobo | 268519 | [268519-nontan-to-issho-nohara-de-asobo.json](./268519-nontan-to-issho-nohara-de-asobo.json) |
 | Noob Squad | 32242 | [32242-noob-squad.json](./32242-noob-squad.json) |
@@ -5197,5 +5203,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyx | 98804 | [98804-nyx.json](./98804-nyx.json) |
 | Nyx Legacy | 387508 | [387508-nyx-legacy.json](./387508-nyx-legacy.json) |
 | NYX x Barbie: The Movie | 256453 | [256453-nyx-x-barbie-the-movie.json](./256453-nyx-x-barbie-the-movie.json) |
+| NYX: The Awakening | 122055 | [122055-nyx-the-awakening.json](./122055-nyx-the-awakening.json) |
 | Nyyo | 210569 | [210569-nyyo.json](./210569-nyyo.json) |
 | NYZD | 291442 | [291442-nyzd.json](./291442-nyzd.json) |
