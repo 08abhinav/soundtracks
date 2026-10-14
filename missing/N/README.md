@@ -1422,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekomew's Nightmares | 212701 | [212701-nekomews-nightmares.json](./212701-nekomews-nightmares.json) |
 | Nekomew's Potty Trouble | 81921 | [81921-nekomews-potty-trouble.json](./81921-nekomews-potty-trouble.json) |
 | NekoMiko | 114367 | [114367-nekomiko.json](./114367-nekomiko.json) |
+| Nekomimi Vampire | 97777 | [97777-nekomimi-vampire.json](./97777-nekomimi-vampire.json) |
 | Nekomin Kittens Invasion | 351725 | [351725-nekomin-kittens-invasion.json](./351725-nekomin-kittens-invasion.json) |
 | NekoNecro | 212970 | [212970-nekonecro.json](./212970-nekonecro.json) |
 | Nekopara After | 307678 | [307678-nekopara-after.json](./307678-nekopara-after.json) |
@@ -2680,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nick Jr. Go Diego Go! | 245428 | [245428-nick-jr-go-diego-go.json](./245428-nick-jr-go-diego-go.json) |
 | Nick Jr. Play Math! | 210029 | [210029-nick-jr-play-math.json](./210029-nick-jr-play-math.json) |
 | Nick Logic for Kids | 387331 | [387331-nick-logic-for-kids.json](./387331-nick-logic-for-kids.json) |
+| Nick Neaker | 97811 | [97811-nick-neaker.json](./97811-nick-neaker.json) |
 | Nick News with Linda Ellerbee Word Search | 325083 | [325083-nick-news-with-linda-ellerbee-word-search.json](./325083-nick-news-with-linda-ellerbee-word-search.json) |
 | Nick of Time | 176225 | [176225-nick-of-time.json](./176225-nick-of-time.json) |
 | Nick SpongeBob SquarePants: Snowball Showdown | 243825 | [243825-nick-spongebob-squarepants-snowball-showdown.json](./243825-nick-spongebob-squarepants-snowball-showdown.json) |
