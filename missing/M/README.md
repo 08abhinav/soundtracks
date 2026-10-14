@@ -4137,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem Above | 55502 | [55502-mayhem-above.json](./55502-mayhem-above.json) |
 | Mayhem Brawler | 143858 | [143858-mayhem-brawler.json](./143858-mayhem-brawler.json) |
 | Mayhem Brawler II: Best of Both Worlds | 264802 | [264802-mayhem-brawler-ii-best-of-both-worlds.json](./264802-mayhem-brawler-ii-best-of-both-worlds.json) |
+| Mayhem Combat - Fighting Game | 104550 | [104550-mayhem-combat-fighting-game.json](./104550-mayhem-combat-fighting-game.json) |
 | Mayhem Fortress | 224575 | [224575-mayhem-fortress.json](./224575-mayhem-fortress.json) |
 | Mayhem Heroes | 234528 | [234528-mayhem-heroes.json](./234528-mayhem-heroes.json) |
 | Mayhem in Monsterland | 18550 | [18550-mayhem-in-monsterland.json](./18550-mayhem-in-monsterland.json) |
@@ -4692,6 +4693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarots S: Unlimited Nova | 126475 | [126475-medarots-s-unlimited-nova.json](./126475-medarots-s-unlimited-nova.json) |
 | Medchess | 240781 | [240781-medchess.json](./240781-medchess.json) |
 | MedCorps | 58758 | [58758-medcorps.json](./58758-medcorps.json) |
+| Medevac Hero | 104519 | [104519-medevac-hero.json](./104519-medevac-hero.json) |
 | MedEvil | 262289 | [262289-medevil.json](./262289-medevil.json) |
 | Medford Asylum: Paranormal Case | 122101 | [122101-medford-asylum-paranormal-case.json](./122101-medford-asylum-paranormal-case.json) |
 | Medi-Cooker | 360489 | [360489-medi-cooker.json](./360489-medi-cooker.json) |
@@ -10684,6 +10686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Truck Maniac 2 | 403699 | [403699-monster-truck-maniac-2.json](./403699-monster-truck-maniac-2.json) |
 | Monster Truck Maniac 3 | 403700 | [403700-monster-truck-maniac-3.json](./403700-monster-truck-maniac-3.json) |
 | Monster Truck Montain Offroad | 228105 | [228105-monster-truck-montain-offroad.json](./228105-monster-truck-montain-offroad.json) |
+| Monster Truck Rally | 104536 | [104536-monster-truck-rally.json](./104536-monster-truck-rally.json) |
 | Monster Truck Rally | 48199 | [48199-monster-truck-rally.json](./48199-monster-truck-rally.json) |
 | Monster Truck Rally Racing | 95554 | [95554-monster-truck-rally-racing.json](./95554-monster-truck-rally-racing.json) |
 | Monster Truck Ramp Stunt | 246431 | [246431-monster-truck-ramp-stunt.json](./246431-monster-truck-ramp-stunt.json) |
@@ -13447,6 +13450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Favorite Monster | 261305 | [261305-my-favorite-monster.json](./261305-my-favorite-monster.json) |
 | My Favorite Notification | 296210 | [296210-my-favorite-notification.json](./296210-my-favorite-notification.json) |
 | My Favourite T-Shirt | 398540 | [398540-my-favourite-t-shirt.json](./398540-my-favourite-t-shirt.json) |
+| My Felt World: farm, ocean, safari, arctic | 104505 | [104505-my-felt-world-farm-ocean-safari-arctic.json](./104505-my-felt-world-farm-ocean-safari-arctic.json) |
 | My Femboy Maid | 370471 | [370471-my-femboy-maid.json](./370471-my-femboy-maid.json) |
 | My Final Cursed Days | 336483 | [336483-my-final-cursed-days.json](./336483-my-final-cursed-days.json) |
 | My Final Cursed Days - Cursed Transformation Version | 336621 | [336621-my-final-cursed-days-cursed-transformation-version.json](./336621-my-final-cursed-days-cursed-transformation-version.json) |
@@ -14117,6 +14121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Zombie Girlfriend | 231423 | [231423-my-zombie-girlfriend.json](./231423-my-zombie-girlfriend.json) |
 | My Zombies Are Hungry | 418792 | [418792-my-zombies-are-hungry.json](./418792-my-zombies-are-hungry.json) |
 | My Zoo | 50707 | [50707-my-zoo.json](./50707-my-zoo.json) |
+| My Zoo - Craft Dino Tycoon | 104528 | [104528-my-zoo-craft-dino-tycoon.json](./104528-my-zoo-craft-dino-tycoon.json) |
 | Myara Story 1: Hurricane of the Ancient One | 227895 | [227895-myara-story-1-hurricane-of-the-ancient-one.json](./227895-myara-story-1-hurricane-of-the-ancient-one.json) |
 | MyBiz: Pomodoro Desk Tycoon | 405557 | [405557-mybiz-pomodoro-desk-tycoon.json](./405557-mybiz-pomodoro-desk-tycoon.json) |
 | Mycelium | 295350 | [295350-mycelium.json](./295350-mycelium.json) |
@@ -14658,6 +14663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myths of the World: Stolen Spring | 140246 | [140246-myths-of-the-world-stolen-spring.json](./140246-myths-of-the-world-stolen-spring.json) |
 | Myths of the World: Stolen Spring - Collector's Edition | 28742 | [28742-myths-of-the-world-stolen-spring-collectors-edition.json](./28742-myths-of-the-world-stolen-spring-collectors-edition.json) |
 | Myths of the World: The Black Sun | 74308 | [74308-myths-of-the-world-the-black-sun.json](./74308-myths-of-the-world-the-black-sun.json) |
+| Myths of the World: The Heart of Desolation | 104506 | [104506-myths-of-the-world-the-heart-of-desolation.json](./104506-myths-of-the-world-the-heart-of-desolation.json) |
 | Myths of the World: Under the Surface - Collector's Edition | 345418 | [345418-myths-of-the-world-under-the-surface-collectors-edition.json](./345418-myths-of-the-world-under-the-surface-collectors-edition.json) |
 | Mythscroll | 342041 | [342041-mythscroll.json](./342041-mythscroll.json) |
 | Mythsfall | 419973 | [419973-mythsfall.json](./419973-mythsfall.json) |
