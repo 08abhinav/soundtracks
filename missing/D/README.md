@@ -9121,6 +9121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Trouble | 267470 | [267470-double-trouble.json](./267470-double-trouble.json) |
 | Double Turn | 83429 | [83429-double-turn.json](./83429-double-turn.json) |
 | Double View | 250432 | [250432-double-view.json](./250432-double-view.json) |
+| Double Vision | 80388 | [80388-double-vision.json](./80388-double-vision.json) |
 | Double Wires | 230435 | [230435-double-wires.json](./230435-double-wires.json) |
 | Double World. Cave Song Castle | 163836 | [163836-double-world-cave-song-castle.json](./163836-double-world-cave-song-castle.json) |
 | Double Zags | 175266 | [175266-double-zags.json](./175266-double-zags.json) |
@@ -11290,6 +11291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drumbeat Quest | 174229 | [174229-drumbeat-quest.json](./174229-drumbeat-quest.json) |
 | Drumblox | 267313 | [267313-drumblox.json](./267313-drumblox.json) |
 | Drumguy | 329050 | [329050-drumguy.json](./329050-drumguy.json) |
+| DrumMania | 80397 | [80397-drummania.json](./80397-drummania.json) |
 | DrumMania 3rdMix | 188662 | [188662-drummania-3rdmix.json](./188662-drummania-3rdmix.json) |
 | Drump Simulator | 407362 | [407362-drump-simulator.json](./407362-drump-simulator.json) |
 | Drumpf 2: Lost, But Not Forgotten! | 120366 | [120366-drumpf-2-lost-but-not-forgotten.json](./120366-drumpf-2-lost-but-not-forgotten.json) |
