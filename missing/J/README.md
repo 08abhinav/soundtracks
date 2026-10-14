@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jay and Silent Bob's: Joint Venture | 411541 | [411541-jay-and-silent-bobs-joint-venture.json](./411541-jay-and-silent-bobs-joint-venture.json) |
 | Jay Arnold's Immortal Quest | 179427 | [179427-jay-arnolds-immortal-quest.json](./179427-jay-arnolds-immortal-quest.json) |
 | Jay Schilling's Edge of Chaos | 189025 | [189025-jay-schillings-edge-of-chaos.json](./189025-jay-schillings-edge-of-chaos.json) |
+| Jay Walker | 109410 | [109410-jay-walker.json](./109410-jay-walker.json) |
 | Jay's Walkin' | 156554 | [156554-jays-walkin.json](./156554-jays-walkin.json) |
 | Jayce | 177500 | [177500-jayce.json](./177500-jayce.json) |
 | Jaywalk: An Endless Arcade Hopper Game | 406233 | [406233-jaywalk-an-endless-arcade-hopper-game.json](./406233-jaywalk-an-endless-arcade-hopper-game.json) |
