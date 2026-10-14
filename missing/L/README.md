@@ -3861,6 +3861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Bartmares | 328955 | [328955-little-bartmares.json](./328955-little-bartmares.json) |
 | Little Bear | 308582 | [308582-little-bear.json](./308582-little-bear.json) |
 | Little Bear Chef | 204509 | [204509-little-bear-chef.json](./204509-little-bear-chef.json) |
+| Little Bear Has Fun | 89053 | [89053-little-bear-has-fun.json](./89053-little-bear-has-fun.json) |
 | Little Bear Rainy Day Activities | 280772 | [280772-little-bear-rainy-day-activities.json](./280772-little-bear-rainy-day-activities.json) |
 | Little Beetle Bottle Battle | 183016 | [183016-little-beetle-bottle-battle.json](./183016-little-beetle-bottle-battle.json) |
 | Little Betty: Gold Rush | 372997 | [372997-little-betty-gold-rush.json](./372997-little-betty-gold-rush.json) |
@@ -4731,6 +4732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lola's ABC Party - Learn to Read | 88344 | [88344-lolas-abc-party-learn-to-read.json](./88344-lolas-abc-party-learn-to-read.json) |
 | Lola's Alphabet Train - Learn to Read | 88577 | [88577-lolas-alphabet-train-learn-to-read.json](./88577-lolas-alphabet-train-learn-to-read.json) |
 | Lola's Fruity Sudoku | 106747 | [106747-lolas-fruity-sudoku.json](./106747-lolas-fruity-sudoku.json) |
+| Lola's Learning World: Math edition | 89054 | [89054-lolas-learning-world-math-edition.json](./89054-lolas-learning-world-math-edition.json) |
 | Lola's Lutong Bahay | 327154 | [327154-lolas-lutong-bahay.json](./327154-lolas-lutong-bahay.json) |
 | Lola's World of Wonders | 137525 | [137525-lolas-world-of-wonders.json](./137525-lolas-world-of-wonders.json) |
 | Lolagame | 320294 | [320294-lolagame.json](./320294-lolagame.json) |
