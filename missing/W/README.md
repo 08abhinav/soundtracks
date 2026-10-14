@@ -3385,6 +3385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wide Ocean Big Jacket | 127591 | [127591-wide-ocean-big-jacket.json](./127591-wide-ocean-big-jacket.json) |
 | Wide Open | 173284 | [173284-wide-open.json](./173284-wide-open.json) |
 | Widen | 305965 | [305965-widen.json](./305965-widen.json) |
+| Widget | 95355 | [95355-widget.json](./95355-widget.json) |
 | Widget Inc. | 319207 | [319207-widget-inc.json](./319207-widget-inc.json) |
 | Widget Satchel | 105353 | [105353-widget-satchel.json](./105353-widget-satchel.json) |
 | Widget's Odyssey II | 53048 | [53048-widgets-odyssey-ii.json](./53048-widgets-odyssey-ii.json) |
@@ -4118,6 +4119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter's Trumpet | 168700 | [168700-winters-trumpet.json](./168700-winters-trumpet.json) |
 | Winter's Wish: Spirits of Edo | 195090 | [195090-winters-wish-spirits-of-edo.json](./195090-winters-wish-spirits-of-edo.json) |
 | Winter's Wrath | 369460 | [369460-winters-wrath.json](./369460-winters-wrath.json) |
+| Winterbells | 95367 | [95367-winterbells.json](./95367-winterbells.json) |
 | Winterclaw | 291095 | [291095-winterclaw.json](./291095-winterclaw.json) |
 | Winterfall | 118453 | [118453-winterfall.json](./118453-winterfall.json) |
 | Winterfall | 308238 | [308238-winterfall.json](./308238-winterfall.json) |
@@ -6162,6 +6164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wroom Wroom Puzzles | 261343 | [261343-wroom-wroom-puzzles.json](./261343-wroom-wroom-puzzles.json) |
 | Wroth | 271744 | [271744-wroth.json](./271744-wroth.json) |
 | WSC Real 08: World Snooker Championship | 5292 | [5292-wsc-real-08-world-snooker-championship.json](./5292-wsc-real-08-world-snooker-championship.json) |
+| WSC Real 11 | 95364 | [95364-wsc-real-11.json](./95364-wsc-real-11.json) |
 | Wsg | 176388 | [176388-wsg.json](./176388-wsg.json) |
 | WSOP | 93572 | [93572-wsop.json](./93572-wsop.json) |
 | WST Snooker | 175858 | [175858-wst-snooker.json](./175858-wst-snooker.json) |
