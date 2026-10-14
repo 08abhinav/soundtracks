@@ -1413,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gassy Mob | 59816 | [59816-gassy-mob.json](./59816-gassy-mob.json) |
 | Gastova: The Witches of Arkana | 130955 | [130955-gastova-the-witches-of-arkana.json](./130955-gastova-the-witches-of-arkana.json) |
 | Gastro Force | 197221 | [197221-gastro-force.json](./197221-gastro-force.json) |
+| Gastro Rush | 122088 | [122088-gastro-rush.json](./122088-gastro-rush.json) |
 | GastroEx | 215245 | [215245-gastroex.json](./215245-gastroex.json) |
 | Gastronomie | 220319 | [220319-gastronomie.json](./220319-gastronomie.json) |
 | Gasu: The Hugging Dragon | 177486 | [177486-gasu-the-hugging-dragon.json](./177486-gasu-the-hugging-dragon.json) |
@@ -1465,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gates to Terra II | 126646 | [126646-gates-to-terra-ii.json](./126646-gates-to-terra-ii.json) |
 | Gates vs. Jobs: The Game! | 325561 | [325561-gates-vs-jobs-the-game.json](./325561-gates-vs-jobs-the-game.json) |
 | Gatestriders | 365750 | [365750-gatestriders.json](./365750-gatestriders.json) |
+| Gatewalkers | 121384 | [121384-gatewalkers.json](./121384-gatewalkers.json) |
 | Gateway | 248204 | [248204-gateway.json](./248204-gateway.json) |
 | Gateway II: Homeworld | 51391 | [51391-gateway-ii-homeworld.json](./51391-gateway-ii-homeworld.json) |
 | Gateway to English: Eigo de Go! | 245313 | [245313-gateway-to-english-eigo-de-go.json](./245313-gateway-to-english-eigo-de-go.json) |
@@ -5627,6 +5629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Circuit Jukebox | 309032 | [309032-gravity-circuit-jukebox.json](./309032-gravity-circuit-jukebox.json) |
 | Gravity Circuit: Deluxe Edition | 309034 | [309034-gravity-circuit-deluxe-edition.json](./309034-gravity-circuit-deluxe-edition.json) |
 | Gravity Compass | 33585 | [33585-gravity-compass.json](./33585-gravity-compass.json) |
+| Gravity Control | 121351 | [121351-gravity-control.json](./121351-gravity-control.json) |
 | Gravity Control | 292778 | [292778-gravity-control.json](./292778-gravity-control.json) |
 | Gravity Core | 128900 | [128900-gravity-core.json](./128900-gravity-core.json) |
 | Gravity Crash Portable | 257323 | [257323-gravity-crash-portable.json](./257323-gravity-crash-portable.json) |
