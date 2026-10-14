@@ -1364,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Polo | 19371 | [19371-car-polo.json](./19371-car-polo.json) |
 | Car Puzzle for Toddlers and Kids | 227775 | [227775-car-puzzle-for-toddlers-and-kids.json](./227775-car-puzzle-for-toddlers-and-kids.json) |
 | Car Puzzler | 81919 | [81919-car-puzzler.json](./81919-car-puzzler.json) |
+| Car Quest | 110881 | [110881-car-quest.json](./110881-car-quest.json) |
 | Car Race | 346087 | [346087-car-race.json](./346087-car-race.json) |
 | Car Racing | 59803 | [59803-car-racing.json](./59803-car-racing.json) |
 | Car Racing & Driving Bundle: Drag Racing, Highway Racer, Drift Japan, Toon Cars | 362378 | [362378-car-racing-and-driving-bundle-drag-racing-highway-racer-drift-japan-toon-cars.json](./362378-car-racing-and-driving-bundle-drag-racing-highway-racer-drift-japan-toon-cars.json) |
@@ -11271,6 +11272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket League | 242218 | [242218-cricket-league.json](./242218-cricket-league.json) |
 | Cricket Manager 27 | 414308 | [414308-cricket-manager-27.json](./414308-cricket-manager-27.json) |
 | Cricket: Jae's Really Peculiar Game | 138882 | [138882-cricket-jaes-really-peculiar-game.json](./138882-cricket-jaes-really-peculiar-game.json) |
+| CricktoGame | 110862 | [110862-cricktogame.json](./110862-cricktogame.json) |
 | CricVRX: VR Cricket | 120772 | [120772-cricvrx-vr-cricket.json](./120772-cricvrx-vr-cricket.json) |
 | Crimanimals | 372082 | [372082-crimanimals.json](./372082-crimanimals.json) |
 | Crimax | 130912 | [130912-crimax.json](./130912-crimax.json) |
@@ -12187,6 +12189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptoria | 406128 | [406128-cryptoria.json](./406128-cryptoria.json) |
 | Cryptorig | 203965 | [203965-cryptorig.json](./203965-cryptorig.json) |
 | Cryptr | 201673 | [201673-cryptr.json](./201673-cryptr.json) |
+| Cryptract | 110859 | [110859-cryptract.json](./110859-cryptract.json) |
 | Crypts & Curves | 344880 | [344880-crypts-and-curves.json](./344880-crypts-and-curves.json) |
 | Crypts of Carith | 387528 | [387528-crypts-of-carith.json](./387528-crypts-of-carith.json) |
 | Crypts of Death | 115658 | [115658-crypts-of-death.json](./115658-crypts-of-death.json) |
