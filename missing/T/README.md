@@ -552,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taisen IQ | 198203 | [198203-taisen-iq.json](./198203-taisen-iq.json) |
 | Taisen IQ + | 198204 | [198204-taisen-iq.json](./198204-taisen-iq.json) |
 | Taisen Mahjong | 198202 | [198202-taisen-mahjong.json](./198202-taisen-mahjong.json) |
+| Taisen Net Gimmick: Capcom & Psikyo All Stars | 79738 | [79738-taisen-net-gimmick-capcom-and-psikyo-all-stars.json](./79738-taisen-net-gimmick-capcom-and-psikyo-all-stars.json) |
 | Taisen Panic Bomber + | 198205 | [198205-taisen-panic-bomber.json](./198205-taisen-panic-bomber.json) |
 | Taisen Reversi | 198209 | [198209-taisen-reversi.json](./198209-taisen-reversi.json) |
 | Taisen Reversi Cross | 198210 | [198210-taisen-reversi-cross.json](./198210-taisen-reversi-cross.json) |
@@ -2378,6 +2379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Dimension X Assault | 198938 | [198938-teenage-mutant-ninja-turtles-dimension-x-assault.json](./198938-teenage-mutant-ninja-turtles-dimension-x-assault.json) |
 | Teenage Mutant Ninja Turtles: Empire City | 345542 | [345542-teenage-mutant-ninja-turtles-empire-city.json](./345542-teenage-mutant-ninja-turtles-empire-city.json) |
 | Teenage Mutant Ninja Turtles: Fall of the Foot Clan | 48928 | [48928-teenage-mutant-ninja-turtles-fall-of-the-foot-clan.json](./48928-teenage-mutant-ninja-turtles-fall-of-the-foot-clan.json) |
+| Teenage Mutant Ninja Turtles: Master Splinter's Training Pack | 79779 | [79779-teenage-mutant-ninja-turtles-master-splinters-training-pack.json](./79779-teenage-mutant-ninja-turtles-master-splinters-training-pack.json) |
 | Teenage Mutant Ninja Turtles: Mutant Madness | 138015 | [138015-teenage-mutant-ninja-turtles-mutant-madness.json](./138015-teenage-mutant-ninja-turtles-mutant-madness.json) |
 | Teenage Mutant Ninja Turtles: Mutant Rumble | 78281 | [78281-teenage-mutant-ninja-turtles-mutant-rumble.json](./78281-teenage-mutant-ninja-turtles-mutant-rumble.json) |
 | Teenage Mutant Ninja Turtles: Mutants & Monsters Mayhem | 146239 | [146239-teenage-mutant-ninja-turtles-mutants-and-monsters-mayhem.json](./146239-teenage-mutant-ninja-turtles-mutants-and-monsters-mayhem.json) |
@@ -5555,6 +5557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deed: Dynasty | 33073 | [33073-the-deed-dynasty.json](./33073-the-deed-dynasty.json) |
 | The Deep | 169464 | [169464-the-deep.json](./169464-the-deep.json) |
 | The Deep | 274009 | [274009-the-deep.json](./274009-the-deep.json) |
+| The Deep | 79737 | [79737-the-deep.json](./79737-the-deep.json) |
 | The Deep Creep | 335380 | [335380-the-deep-creep.json](./335380-the-deep-creep.json) |
 | The Deep Deep | 123073 | [123073-the-deep-deep.json](./123073-the-deep-deep.json) |
 | The Deep Diving of FloodDragon | 197132 | [197132-the-deep-diving-of-flooddragon.json](./197132-the-deep-diving-of-flooddragon.json) |
@@ -8712,6 +8715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Line | 149233 | [149233-the-line.json](./149233-the-line.json) |
 | The Line | 150935 | [150935-the-line.json](./150935-the-line.json) |
 | The Line | 315715 | [315715-the-line.json](./315715-the-line.json) |
+| The Line | 79742 | [79742-the-line.json](./79742-the-line.json) |
 | The Line of Defense | 370184 | [370184-the-line-of-defense.json](./370184-the-line-of-defense.json) |
 | The Line TD | 275335 | [275335-the-line-td.json](./275335-the-line-td.json) |
 | The Line: The Other Path | 171345 | [171345-the-line-the-other-path.json](./171345-the-line-the-other-path.json) |
@@ -13219,6 +13223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Therapy Simulator | 344444 | [344444-therapy-simulator.json](./344444-therapy-simulator.json) |
 | Therapy Simulator 2023 | 248078 | [248078-therapy-simulator-2023.json](./248078-therapy-simulator-2023.json) |
 | Therapy with Dr. Albert Krueger | 148411 | [148411-therapy-with-dr-albert-krueger.json](./148411-therapy-with-dr-albert-krueger.json) |
+| There | 79774 | [79774-there.json](./79774-there.json) |
 | There a no Armadillos in this game | 129212 | [129212-there-a-no-armadillos-in-this-game.json](./129212-there-a-no-armadillos-in-this-game.json) |
 | There Are Ghosts In These Stalls | 177292 | [177292-there-are-ghosts-in-these-stalls.json](./177292-there-are-ghosts-in-these-stalls.json) |
 | There Are No Ghosts at the Grand | 347841 | [347841-there-are-no-ghosts-at-the-grand.json](./347841-there-are-no-ghosts-at-the-grand.json) |
