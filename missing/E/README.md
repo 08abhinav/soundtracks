@@ -1727,6 +1727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ellada Games RPG Bundle | 187500 | [187500-ellada-games-rpg-bundle.json](./187500-ellada-games-rpg-bundle.json) |
 | Ellan: The Lost Soul | 261768 | [261768-ellan-the-lost-soul.json](./261768-ellan-the-lost-soul.json) |
 | Elland: The Crystal Wars | 219248 | [219248-elland-the-crystal-wars.json](./219248-elland-the-crystal-wars.json) |
+| Elle | 109416 | [109416-elle.json](./109416-elle.json) |
 | Elle | 171973 | [171973-elle.json](./171973-elle.json) |
 | Ellen and the Degenerates RPG | 114542 | [114542-ellen-and-the-degenerates-rpg.json](./114542-ellen-and-the-degenerates-rpg.json) |
 | Ellentis | 370178 | [370178-ellentis.json](./370178-ellentis.json) |
@@ -2617,6 +2618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energy Island Corp. | 161581 | [161581-energy-island-corp.json](./161581-energy-island-corp.json) |
 | Energy Lab | 313206 | [313206-energy-lab.json](./313206-energy-lab.json) |
 | Energy Manager | 350530 | [350530-energy-manager.json](./350530-energy-manager.json) |
+| Energy Nodes | 109385 | [109385-energy-nodes.json](./109385-energy-nodes.json) |
 | Energy Shock | 111624 | [111624-energy-shock.json](./111624-energy-shock.json) |
 | Energy Survivors | 224785 | [224785-energy-survivors.json](./224785-energy-survivors.json) |
 | Energy Tail | 215924 | [215924-energy-tail.json](./215924-energy-tail.json) |
@@ -3580,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape of Pinball | 339769 | [339769-escape-of-pinball.json](./339769-escape-of-pinball.json) |
 | Escape of The Hammer Princess | 312767 | [312767-escape-of-the-hammer-princess.json](./312767-escape-of-the-hammer-princess.json) |
 | Escape or Imprison | 227253 | [227253-escape-or-imprison.json](./227253-escape-or-imprison.json) |
+| Escape parking lot | 109406 | [109406-escape-parking-lot.json](./109406-escape-parking-lot.json) |
 | Escape Party | 278419 | [278419-escape-party.json](./278419-escape-party.json) |
 | Escape Point | 132683 | [132683-escape-point.json](./132683-escape-point.json) |
 | Escape Prison | 163898 | [163898-escape-prison.json](./163898-escape-prison.json) |
