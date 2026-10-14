@@ -1563,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Dogs: Legion - Ultimate Edition | 119574 | [119574-watch-dogs-legion-ultimate-edition.json](./119574-watch-dogs-legion-ultimate-edition.json) |
 | Watch Grass Grow Simulator | 384224 | [384224-watch-grass-grow-simulator.json](./384224-watch-grass-grow-simulator.json) |
 | Watch Mario | 278623 | [278623-watch-mario.json](./278623-watch-mario.json) |
+| Watch Me Stream My Mental Breakdown | 132514 | [132514-watch-me-stream-my-mental-breakdown.json](./132514-watch-me-stream-my-mental-breakdown.json) |
 | Watch My Step! | 415204 | [415204-watch-my-step.json](./415204-watch-my-step.json) |
 | Watch Out | 55290 | [55290-watch-out.json](./55290-watch-out.json) |
 | Watch Out! | 100220 | [100220-watch-out.json](./100220-watch-out.json) |
