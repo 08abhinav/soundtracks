@@ -716,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Land | 303096 | [303096-dangerous-land.json](./303096-dangerous-land.json) |
 | Dangerous Level | 82348 | [82348-dangerous-level.json](./82348-dangerous-level.json) |
 | Dangerous Line | 327827 | [327827-dangerous-line.json](./327827-dangerous-line.json) |
+| Dangerous Orbit | 114844 | [114844-dangerous-orbit.json](./114844-dangerous-orbit.json) |
 | Dangerous Plane | 149682 | [149682-dangerous-plane.json](./149682-dangerous-plane.json) |
 | Dangerous Planet | 152671 | [152671-dangerous-planet.json](./152671-dangerous-planet.json) |
 | Dangerous Pursuit | 371642 | [371642-dangerous-pursuit.json](./371642-dangerous-pursuit.json) |
@@ -11025,6 +11026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Simulator: Smash Zombies | 343249 | [343249-drone-simulator-smash-zombies.json](./343249-drone-simulator-smash-zombies.json) |
 | Drone Simulator: Smash Zombies | 401116 | [401116-drone-simulator-smash-zombies.json](./401116-drone-simulator-smash-zombies.json) |
 | Drone Smuggler | 363575 | [363575-drone-smuggler.json](./363575-drone-smuggler.json) |
+| Drone Spektra | 114876 | [114876-drone-spektra.json](./114876-drone-spektra.json) |
 | Drone Striker | 116900 | [116900-drone-striker.json](./116900-drone-striker.json) |
 | Drone Swarm | 56357 | [56357-drone-swarm.json](./56357-drone-swarm.json) |
 | Drone Tactics | 21487 | [21487-drone-tactics.json](./21487-drone-tactics.json) |
@@ -12033,6 +12035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Sweeper KiKi | 299396 | [299396-dungeon-sweeper-kiki.json](./299396-dungeon-sweeper-kiki.json) |
 | Dungeon Sweeper Plus | 401058 | [401058-dungeon-sweeper-plus.json](./401058-dungeon-sweeper-plus.json) |
 | Dungeon Synths | 261464 | [261464-dungeon-synths.json](./261464-dungeon-synths.json) |
+| Dungeon Tails | 114735 | [114735-dungeon-tails.json](./114735-dungeon-tails.json) |
 | Dungeon Tales: RPG Card Game | 121732 | [121732-dungeon-tales-rpg-card-game.json](./121732-dungeon-tales-rpg-card-game.json) |
 | Dungeon Thrones: Rise of Slimes | 336576 | [336576-dungeon-thrones-rise-of-slimes.json](./336576-dungeon-thrones-rise-of-slimes.json) |
 | Dungeon Tiles | 58235 | [58235-dungeon-tiles.json](./58235-dungeon-tiles.json) |
