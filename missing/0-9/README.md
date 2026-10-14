@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | "Out2" out of file | 237476 | [237476-out2-out-of-file.json](./237476-out2-out-of-file.json) |
 | "Two Draw" | 74340 | [74340-two-draw.json](./74340-two-draw.json) |
 | (A)woken | 307298 | [307298-a-woken.json](./307298-a-woken.json) |
+| (heart) Sudoku | 86731 | [86731-heart-sudoku.json](./86731-heart-sudoku.json) |
 | (Neg)Entropic Wandering | 309451 | [309451-neg-entropic-wandering.json](./309451-neg-entropic-wandering.json) |
 | (O_O) | 209770 | [209770-o-o.json](./209770-o-o.json) |
 | (T)Raumschiff Surprise - Periode 1 | 131283 | [131283-t-raumschiff-surprise-periode-1.json](./131283-t-raumschiff-surprise-periode-1.json) |
@@ -1281,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Last Chances | 244883 | [244883-3-last-chances.json](./244883-3-last-chances.json) |
 | 3 Little Pigs & Bad Wolf | 124267 | [124267-3-little-pigs-and-bad-wolf.json](./124267-3-little-pigs-and-bad-wolf.json) |
 | 3 minutes Mystery 2 | 300960 | [300960-3-minutes-mystery-2.json](./300960-3-minutes-mystery-2.json) |
+| 3 Minutes to Midnight | 86657 | [86657-3-minutes-to-midnight.json](./86657-3-minutes-to-midnight.json) |
 | 3 Missing, 4am | 128589 | [128589-3-missing-4am.json](./128589-3-missing-4am.json) |
 | 3 Ninjas Kick Back | 5337 | [5337-3-ninjas-kick-back.json](./5337-3-ninjas-kick-back.json) |
 | 3 Ninjas Kick Back / Hook | 409773 | [409773-3-ninjas-kick-back-hook.json](./409773-3-ninjas-kick-back-hook.json) |
