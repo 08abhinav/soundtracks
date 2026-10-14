@@ -6257,6 +6257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Frog | 277949 | [277949-rocket-frog.json](./277949-rocket-frog.json) |
 | Rocket Fruit | 144778 | [144778-rocket-fruit.json](./144778-rocket-fruit.json) |
 | Rocket Ghost Aidan 2 | 156909 | [156909-rocket-ghost-aidan-2.json](./156909-rocket-ghost-aidan-2.json) |
+| Rocket Golf | 89832 | [89832-rocket-golf.json](./89832-rocket-golf.json) |
 | Rocket Hat | 329397 | [329397-rocket-hat.json](./329397-rocket-hat.json) |
 | Rocket Hippo! | 107392 | [107392-rocket-hippo.json](./107392-rocket-hippo.json) |
 | Rocket Horizon | 256928 | [256928-rocket-horizon.json](./256928-rocket-horizon.json) |
