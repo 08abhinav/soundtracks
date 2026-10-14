@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T21:27:59.189Z",
-  "total_soundtracks": 1664,
+  "generated_at": "2026-10-14T21:28:10.940Z",
+  "total_soundtracks": 1665,
   "games": [
     {
       "igdb_id": 7522,
@@ -14043,6 +14043,20 @@
           "spotify_url": "https://open.spotify.com/album/2BZraD5EQ72YtyGGQJwVBY",
           "apple_music_url": "https://music.apple.com/us/album/serious-sam-the-second-encounter-video-game-soundtrack/1496855093",
           "album_link_url": "https://album.link/i/1496855093"
+        }
+      ]
+    },
+    {
+      "igdb_id": 6066,
+      "game_name": "Severed",
+      "game_url": "https://ostdb.net/games/severed",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27372d76061a1e146a048aa2d14",
+      "albums": [
+        {
+          "album_name": "Severed (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7eb9yC1hWqt3xtUmJ1gaWW",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
