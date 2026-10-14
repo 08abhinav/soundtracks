@@ -1267,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elation for the Wonder Box 6000 | 225567 | [225567-elation-for-the-wonder-box-6000.json](./225567-elation-for-the-wonder-box-6000.json) |
 | ELbab | 380791 | [380791-elbab.json](./380791-elbab.json) |
 | ElbmarKs | 197153 | [197153-elbmarks.json](./197153-elbmarks.json) |
+| ElChronicle | 130635 | [130635-elchronicle.json](./130635-elchronicle.json) |
 | Eldabyss | 290707 | [290707-eldabyss.json](./290707-eldabyss.json) |
 | Eldegarde | 304346 | [304346-eldegarde.json](./304346-eldegarde.json) |
 | Elden Bling | 238532 | [238532-elden-bling.json](./238532-elden-bling.json) |
@@ -1354,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Election Manager 2016 | 94887 | [94887-election-manager-2016.json](./94887-election-manager-2016.json) |
 | Election Town | 218055 | [218055-election-town.json](./218055-election-town.json) |
 | Election Train | 406206 | [406206-election-train.json](./406206-election-train.json) |
+| Election Year Knockout | 130663 | [130663-election-year-knockout.json](./130663-election-year-knockout.json) |
 | Election Year Knockout: Boxing | 264012 | [264012-election-year-knockout-boxing.json](./264012-election-year-knockout-boxing.json) |
 | Electioneering | 174080 | [174080-electioneering.json](./174080-electioneering.json) |
 | Electoral Carnage | 350040 | [350040-electoral-carnage.json](./350040-electoral-carnage.json) |
@@ -2120,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empires | 36445 | [36445-empires.json](./36445-empires.json) |
 | Empires & Allies | 257272 | [257272-empires-and-allies.json](./257272-empires-and-allies.json) |
 | Empires & Allies | 60553 | [60553-empires-and-allies.json](./60553-empires-and-allies.json) |
+| Empires and Tribes | 130634 | [130634-empires-and-tribes.json](./130634-empires-and-tribes.json) |
 | Empires Apart: Aztec Civilization Pack | 226809 | [226809-empires-apart-aztec-civilization-pack.json](./226809-empires-apart-aztec-civilization-pack.json) |
 | Empires Apart: Chinese Civilization Pack | 169311 | [169311-empires-apart-chinese-civilization-pack.json](./169311-empires-apart-chinese-civilization-pack.json) |
 | Empires II | 223619 | [223619-empires-ii.json](./223619-empires-ii.json) |
@@ -3231,6 +3234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erwartung | 295014 | [295014-erwartung.json](./295014-erwartung.json) |
 | Erwin's Timewarp | 34689 | [34689-erwins-timewarp.json](./34689-erwins-timewarp.json) |
 | Erz Online | 346225 | [346225-erz-online.json](./346225-erz-online.json) |
+| Es | 131273 | [131273-es.json](./131273-es.json) |
 | ES Games | 334784 | [334784-es-games.json](./334784-es-games.json) |
 | Es Un Día Normal y Eso Es Casi Milagroso | 346642 | [346642-es-un-dia-normal-y-eso-es-casi-milagroso.json](./346642-es-un-dia-normal-y-eso-es-casi-milagroso.json) |
 | eSail | 89648 | [89648-esail.json](./89648-esail.json) |
@@ -5142,6 +5146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explore Mars | 323832 | [323832-explore-mars.json](./323832-explore-mars.json) |
 | Explore the Grotto | 307580 | [307580-explore-the-grotto.json](./307580-explore-the-grotto.json) |
 | Explore Titanic | 86853 | [86853-explore-titanic.json](./86853-explore-titanic.json) |
+| Explorer | 131269 | [131269-explorer.json](./131269-explorer.json) |
 | Explorer | 13653 | [13653-explorer.json](./13653-explorer.json) |
 | Explorer: Golden Empire | 247985 | [247985-explorer-golden-empire.json](./247985-explorer-golden-empire.json) |
 | Explorers of Esmar | 323178 | [323178-explorers-of-esmar.json](./323178-explorers-of-esmar.json) |
