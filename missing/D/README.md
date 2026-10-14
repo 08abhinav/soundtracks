@@ -4953,6 +4953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destruction Derby: Arenas | 1171 | [1171-destruction-derby-arenas.json](./1171-destruction-derby-arenas.json) |
 | Destruction Joukan | 386343 | [386343-destruction-joukan.json](./386343-destruction-joukan.json) |
 | Destruction of Planets | 193498 | [193498-destruction-of-planets.json](./193498-destruction-of-planets.json) |
+| Destruction Paper | 110090 | [110090-destruction-paper.json](./110090-destruction-paper.json) |
 | Destruction Rocks | 186192 | [186192-destruction-rocks.json](./186192-destruction-rocks.json) |
 | Destruction Simulator | 311455 | [311455-destruction-simulator.json](./311455-destruction-simulator.json) |
 | Destruction Time! | 153882 | [153882-destruction-time.json](./153882-destruction-time.json) |
@@ -8663,6 +8664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Tower Defense | 357838 | [357838-doomsday-tower-defense.json](./357838-doomsday-tower-defense.json) |
 | Doomsday Vault | 117012 | [117012-doomsday-vault.json](./117012-doomsday-vault.json) |
 | Doomsday Warrior | 42599 | [42599-doomsday-warrior.json](./42599-doomsday-warrior.json) |
+| Doomstar | 110217 | [110217-doomstar.json](./110217-doomstar.json) |
 | Doomtank | 118762 | [118762-doomtank.json](./118762-doomtank.json) |
 | Doomtrain | 386910 | [386910-doomtrain.json](./386910-doomtrain.json) |
 | Doomtrooper CCG | 71196 | [71196-doomtrooper-ccg.json](./71196-doomtrooper-ccg.json) |
