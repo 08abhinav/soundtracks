@@ -1159,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under The Yoke | 268939 | [268939-under-the-yoke.json](./268939-under-the-yoke.json) |
 | Under Tower Idle | 405585 | [405585-under-tower-idle.json](./405585-under-tower-idle.json) |
 | Under Walls | 289926 | [289926-under-walls.json](./289926-under-walls.json) |
+| Under Water : Abyss Survival VR | 118081 | [118081-under-water-abyss-survival-vr.json](./118081-under-water-abyss-survival-vr.json) |
 | Under Waves | 211645 | [211645-under-waves.json](./211645-under-waves.json) |
 | Under What? | 120911 | [120911-under-what.json](./120911-under-what.json) |
 | Under Your Spell | 327779 | [327779-under-your-spell.json](./327779-under-your-spell.json) |
