@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Manager Italia | 182376 | [182376-tactical-manager-italia.json](./182376-tactical-manager-italia.json) |
 | Tactical Mind | 82788 | [82788-tactical-mind.json](./82788-tactical-mind.json) |
 | Tactical Mind 2 | 125278 | [125278-tactical-mind-2.json](./125278-tactical-mind-2.json) |
+| Tactical Nexus | 126929 | [126929-tactical-nexus.json](./126929-tactical-nexus.json) |
 | Tactical Nexus: Chapter 3 - Tactical Cloud- | 174134 | [174134-tactical-nexus-chapter-3-tactical-cloud.json](./174134-tactical-nexus-chapter-3-tactical-cloud.json) |
 | Tactical Operations Force | 189941 | [189941-tactical-operations-force.json](./189941-tactical-operations-force.json) |
 | Tactical Ops: Assault on Terror | 8778 | [8778-tactical-ops-assault-on-terror.json](./8778-tactical-ops-assault-on-terror.json) |
@@ -2974,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Interface for Models RCM301-303 | 364625 | [364625-terminal-interface-for-models-rcm301-303.json](./364625-terminal-interface-for-models-rcm301-303.json) |
 | Terminal Land | 138515 | [138515-terminal-land.json](./138515-terminal-land.json) |
 | Terminal Machine | 54427 | [54427-terminal-machine.json](./54427-terminal-machine.json) |
+| Terminal Protocol | 126949 | [126949-terminal-protocol.json](./126949-terminal-protocol.json) |
 | Terminal Reign | 416003 | [416003-terminal-reign.json](./416003-terminal-reign.json) |
 | Terminal Shift | 355074 | [355074-terminal-shift.json](./355074-terminal-shift.json) |
 | Terminal Sickness | 110396 | [110396-terminal-sickness.json](./110396-terminal-sickness.json) |
@@ -3518,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thank You Bus Driver | 416605 | [416605-thank-you-bus-driver.json](./416605-thank-you-bus-driver.json) |
 | Thank You For Your Application | 312791 | [312791-thank-you-for-your-application.json](./312791-thank-you-for-your-application.json) |
 | Thank You for Your Time | 367486 | [367486-thank-you-for-your-time.json](./367486-thank-you-for-your-time.json) |
+| Thanks For Listening | 126946 | [126946-thanks-for-listening.json](./126946-thanks-for-listening.json) |
 | Thanks Merlin | 297344 | [297344-thanks-merlin.json](./297344-thanks-merlin.json) |
 | Thanks, Come Again | 245389 | [245389-thanks-come-again.json](./245389-thanks-come-again.json) |
 | Thanks, Light. | 262934 | [262934-thanks-light.json](./262934-thanks-light.json) |
@@ -5486,6 +5489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deepwater Witch | 282518 | [282518-the-deepwater-witch.json](./282518-the-deepwater-witch.json) |
 | The Deer | 117688 | [117688-the-deer.json](./117688-the-deer.json) |
 | The Defender: Farm and Castle | 117626 | [117626-the-defender-farm-and-castle.json](./117626-the-defender-farm-and-castle.json) |
+| The Defender: Farm and Castle 2 | 126931 | [126931-the-defender-farm-and-castle-2.json](./126931-the-defender-farm-and-castle-2.json) |
 | The Defenders: The Second Wave | 35708 | [35708-the-defenders-the-second-wave.json](./35708-the-defenders-the-second-wave.json) |
 | The Defiant | 375948 | [375948-the-defiant.json](./375948-the-defiant.json) |
 | The Definitive Subsistence Update | 374288 | [374288-the-definitive-subsistence-update.json](./374288-the-definitive-subsistence-update.json) |
@@ -9744,6 +9748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Paper Trials | 264585 | [264585-the-paper-trials.json](./264585-the-paper-trials.json) |
 | The Paper Trials: Chapter 2 | 267427 | [267427-the-paper-trials-chapter-2.json](./267427-the-paper-trials-chapter-2.json) |
 | The Paper Trials: Chapter 3 | 285420 | [285420-the-paper-trials-chapter-3.json](./285420-the-paper-trials-chapter-3.json) |
+| The Paperman | 126922 | [126922-the-paperman.json](./126922-the-paperman.json) |
 | The Paracelsian Project | 244726 | [244726-the-paracelsian-project.json](./244726-the-paracelsian-project.json) |
 | The Paradell | 249078 | [249078-the-paradell.json](./249078-the-paradell.json) |
 | The Paradixion: Laboratory | 262474 | [262474-the-paradixion-laboratory.json](./262474-the-paradixion-laboratory.json) |
@@ -10611,6 +10616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret of Donkey Island | 254469 | [254469-the-secret-of-donkey-island.json](./254469-the-secret-of-donkey-island.json) |
 | The Secret of Dyes | 152867 | [152867-the-secret-of-dyes.json](./152867-the-secret-of-dyes.json) |
 | The Secret of Grisly Manor | 61104 | [61104-the-secret-of-grisly-manor.json](./61104-the-secret-of-grisly-manor.json) |
+| The Secret of Hutton Grammar School | 126899 | [126899-the-secret-of-hutton-grammar-school.json](./126899-the-secret-of-hutton-grammar-school.json) |
 | The Secret of Little Hodcome | 232554 | [232554-the-secret-of-little-hodcome.json](./232554-the-secret-of-little-hodcome.json) |
 | The Secret of Maike Island | 318396 | [318396-the-secret-of-maike-island.json](./318396-the-secret-of-maike-island.json) |
 | The Secret of Manes | 364049 | [364049-the-secret-of-manes.json](./364049-the-secret-of-manes.json) |
@@ -20424,6 +20430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triadino | 277342 | [277342-triadino.json](./277342-triadino.json) |
 | Triage | 228341 | [228341-triage.json](./228341-triage.json) |
 | Triage | 353861 | [353861-triage.json](./353861-triage.json) |
+| Trial and Terror | 126915 | [126915-trial-and-terror.json](./126915-trial-and-terror.json) |
 | Trial by Chat | 414332 | [414332-trial-by-chat.json](./414332-trial-by-chat.json) |
 | Trial by Teng: A Twilight Path Adventure | 118258 | [118258-trial-by-teng-a-twilight-path-adventure.json](./118258-trial-by-teng-a-twilight-path-adventure.json) |
 | Trial of Ariah | 372469 | [372469-trial-of-ariah.json](./372469-trial-of-ariah.json) |
@@ -21248,6 +21255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try Again | 219526 | [219526-try-again.json](./219526-try-again.json) |
 | Try Again | 249388 | [249388-try-again.json](./249388-try-again.json) |
 | Try Dying | 319713 | [319713-try-dying.json](./319713-try-dying.json) |
+| Try not to die | 126919 | [126919-try-not-to-die.json](./126919-try-not-to-die.json) |
 | Try Not to Fart | 79371 | [79371-try-not-to-fart.json](./79371-try-not-to-fart.json) |
 | Try Not to Laugh | 102754 | [102754-try-not-to-laugh.json](./102754-try-not-to-laugh.json) |
 | Try to Drive | 366108 | [366108-try-to-drive.json](./366108-try-to-drive.json) |
@@ -22198,6 +22206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Types Pollos | 400527 | [400527-two-types-pollos.json](./400527-two-types-pollos.json) |
 | Two Way | 25904 | [25904-two-way.json](./25904-two-way.json) |
 | Two Weeks Game | 132571 | [132571-two-weeks-game.json](./132571-two-weeks-game.json) |
+| Two Weeks in Painland | 126933 | [126933-two-weeks-in-painland.json](./126933-two-weeks-in-painland.json) |
 | Two World Portal | 187154 | [187154-two-world-portal.json](./187154-two-world-portal.json) |
 | Two Worlds | 177549 | [177549-two-worlds.json](./177549-two-worlds.json) |
 | Two Worlds Connected | 181359 | [181359-two-worlds-connected.json](./181359-two-worlds-connected.json) |
