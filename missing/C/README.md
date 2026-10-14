@@ -938,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon | 166034 | [166034-cannon.json](./166034-cannon.json) |
 | Cannon | 178038 | [178038-cannon.json](./178038-cannon.json) |
 | Cannon | 210539 | [210539-cannon.json](./210539-cannon.json) |
+| Cannon Arena | 118093 | [118093-cannon-arena.json](./118093-cannon-arena.json) |
 | Cannon Army | 152349 | [152349-cannon-army.json](./152349-cannon-army.json) |
 | Cannon Ball | 366921 | [366921-cannon-ball.json](./366921-cannon-ball.json) |
 | Cannon Ball | 95431 | [95431-cannon-ball.json](./95431-cannon-ball.json) |
@@ -5576,6 +5577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Church of Shadows | 323527 | [323527-church-of-shadows.json](./323527-church-of-shadows.json) |
 | Church of Stratum | 163224 | [163224-church-of-stratum.json](./163224-church-of-stratum.json) |
 | Church Simulator | 312878 | [312878-church-simulator.json](./312878-church-simulator.json) |
+| Churchgoers | 118070 | [118070-churchgoers.json](./118070-churchgoers.json) |
 | Churchill Solitaire | 234547 | [234547-churchill-solitaire.json](./234547-churchill-solitaire.json) |
 | Churip | 316993 | [316993-churip.json](./316993-churip.json) |
 | Churrasco | 416099 | [416099-churrasco.json](./416099-churrasco.json) |
@@ -9458,6 +9460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cops | 307344 | [307344-cops.json](./307344-cops.json) |
 | Cops and Robbers Fight | 105917 | [105917-cops-and-robbers-fight.json](./105917-cops-and-robbers-fight.json) |
 | Cops and Robbers! | 251506 | [251506-cops-and-robbers.json](./251506-cops-and-robbers.json) |
+| Cops Kissing Each Other | 118078 | [118078-cops-kissing-each-other.json](./118078-cops-kissing-each-other.json) |
 | Cops L.A. Police | 259492 | [259492-cops-l-a-police.json](./259492-cops-l-a-police.json) |
 | Cops N Robbers: Pixel Craft Gun | 400445 | [400445-cops-n-robbers-pixel-craft-gun.json](./400445-cops-n-robbers-pixel-craft-gun.json) |
 | Cops N Robbers: Prison Games 1 | 400441 | [400441-cops-n-robbers-prison-games-1.json](./400441-cops-n-robbers-prison-games-1.json) |
@@ -12203,6 +12206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Clear | 129587 | [129587-crystal-clear.json](./129587-crystal-clear.json) |
 | Crystal Clear, Mail's Here | 390156 | [390156-crystal-clear-mails-here.json](./390156-crystal-clear-mails-here.json) |
 | Crystal Comet | 272774 | [272774-crystal-comet.json](./272774-crystal-comet.json) |
+| Crystal Command | 118120 | [118120-crystal-command.json](./118120-crystal-command.json) |
 | Crystal Compulsion | 208834 | [208834-crystal-compulsion.json](./208834-crystal-compulsion.json) |
 | Crystal Confines | 69319 | [69319-crystal-confines.json](./69319-crystal-confines.json) |
 | Crystal Conflict | 350463 | [350463-crystal-conflict.json](./350463-crystal-conflict.json) |
