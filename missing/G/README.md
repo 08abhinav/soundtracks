@@ -885,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Skulls | 232062 | [232062-game-of-skulls.json](./232062-game-of-skulls.json) |
 | Game of Small Squares | 105757 | [105757-game-of-small-squares.json](./105757-game-of-small-squares.json) |
 | Game of Squares | 309946 | [309946-game-of-squares.json](./309946-game-of-squares.json) |
+| Game of Stones | 99518 | [99518-game-of-stones.json](./99518-game-of-stones.json) |
 | Game of Sultans | 106526 | [106526-game-of-sultans.json](./106526-game-of-sultans.json) |
 | Game of The Forgotten Gods. Wake Up | 96864 | [96864-game-of-the-forgotten-gods-wake-up.json](./96864-game-of-the-forgotten-gods-wake-up.json) |
 | Game of the Year | 127720 | [127720-game-of-the-year.json](./127720-game-of-the-year.json) |
@@ -4953,6 +4954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GothicDM 2 | 229939 | [229939-gothicdm-2.json](./229939-gothicdm-2.json) |
 | Gothmog's Lair | 25815 | [25815-gothmogs-lair.json](./25815-gothmogs-lair.json) |
 | Gothwane Towers | 323376 | [323376-gothwane-towers.json](./323376-gothwane-towers.json) |
+| GOTO Bridge 18 | 99502 | [99502-goto-bridge-18.json](./99502-goto-bridge-18.json) |
 | Gotogra | 387357 | [387357-gotogra.json](./387357-gotogra.json) |
 | Gotouchi Kentei DS | 124018 | [124018-gotouchi-kentei-ds.json](./124018-gotouchi-kentei-ds.json) |
 | Gotouchi Tetsudou for Nintendo Switch | 136963 | [136963-gotouchi-tetsudou-for-nintendo-switch.json](./136963-gotouchi-tetsudou-for-nintendo-switch.json) |
