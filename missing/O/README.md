@@ -2974,7 +2974,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osomatsu-kun: Back to the Me no Deppa no Maki | 48797 | [48797-osomatsu-kun-back-to-the-me-no-deppa-no-maki.json](./48797-osomatsu-kun-back-to-the-me-no-deppa-no-maki.json) |
 | Osomatsu-san Hesokuri Wars: Battle of the NEETs | 109561 | [109561-osomatsu-san-hesokuri-wars-battle-of-the-neets.json](./109561-osomatsu-san-hesokuri-wars-battle-of-the-neets.json) |
 | Osomatsu-san Protagonist Contest Pokoball | 266478 | [266478-osomatsu-san-protagonist-contest-pokoball.json](./266478-osomatsu-san-protagonist-contest-pokoball.json) |
+| Osomatsu-san The Game: Hachamecha Shuushoku Advice - Dead or Work | 83420 | [83420-osomatsu-san-the-game-hachamecha-shuushoku-advice-dead-or-work.json](./83420-osomatsu-san-the-game-hachamecha-shuushoku-advice-dead-or-work.json) |
 | Osomatsu-san: Hesokuri Wars | 56477 | [56477-osomatsu-san-hesokuri-wars.json](./56477-osomatsu-san-hesokuri-wars.json) |
+| Osomatsu-san: Matsumatsuri! | 83421 | [83421-osomatsu-san-matsumatsuri.json](./83421-osomatsu-san-matsumatsuri.json) |
 | OSR Unhinged | 91946 | [91946-osr-unhinged.json](./91946-osr-unhinged.json) |
 | Ossan Kyoushi no Joshikousei Tsuma ga Yarichin Danshi ni Netorareru Hanashi | 82996 | [82996-ossan-kyoushi-no-joshikousei-tsuma-ga-yarichin-danshi-ni-netorareru-hanashi.json](./82996-ossan-kyoushi-no-joshikousei-tsuma-ga-yarichin-danshi-ni-netorareru-hanashi.json) |
 | Osseous and Swordy | 263220 | [263220-osseous-and-swordy.json](./263220-osseous-and-swordy.json) |
