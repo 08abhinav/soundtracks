@@ -1695,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elixirs | 274561 | [274561-elixirs.json](./274561-elixirs.json) |
 | Eliza | 345129 | [345129-eliza.json](./345129-eliza.json) |
 | Eliza | 92919 | [92919-eliza.json](./92919-eliza.json) |
+| Elizabeth | 130081 | [130081-elizabeth.json](./130081-elizabeth.json) |
 | Elizord's Tale | 250478 | [250478-elizords-tale.json](./250478-elizords-tale.json) |
 | Elk Attack | 282714 | [282714-elk-attack.json](./282714-elk-attack.json) |
 | Elk Simulator | 158565 | [158565-elk-simulator.json](./158565-elk-simulator.json) |
@@ -2730,6 +2731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entanglement | 212913 | [212913-entanglement.json](./212913-entanglement.json) |
 | Entanglement | 350383 | [350383-entanglement.json](./350383-entanglement.json) |
 | Entasy Online | 230242 | [230242-entasy-online.json](./230242-entasy-online.json) |
+| Entelechy | 130080 | [130080-entelechy.json](./130080-entelechy.json) |
 | Enter Falconry | 295515 | [295515-enter-falconry.json](./295515-enter-falconry.json) |
 | Enter HorrorLand | 344561 | [344561-enter-horrorland.json](./344561-enter-horrorland.json) |
 | Enter the Backrooms | 157710 | [157710-enter-the-backrooms.json](./157710-enter-the-backrooms.json) |
@@ -5438,6 +5440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ezaron Defense | 120076 | [120076-ezaron-defense.json](./120076-ezaron-defense.json) |
 | Ezerath 3D | 298683 | [298683-ezerath-3d.json](./298683-ezerath-3d.json) |
 | Ezmeralda | 384265 | [384265-ezmeralda.json](./384265-ezmeralda.json) |
+| Ezmuze 3 | 130073 | [130073-ezmuze-3.json](./130073-ezmuze-3.json) |
 | EZMuze Break and House edition | 79908 | [79908-ezmuze-break-and-house-edition.json](./79908-ezmuze-break-and-house-edition.json) |
 | Ezmuze+ 2.0 | 93570 | [93570-ezmuze-2-0.json](./93570-ezmuze-2-0.json) |
 | Ezpz Saga | 174862 | [174862-ezpz-saga.json](./174862-ezpz-saga.json) |
