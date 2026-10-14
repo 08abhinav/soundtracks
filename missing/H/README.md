@@ -835,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handdogg | 185154 | [185154-handdogg.json](./185154-handdogg.json) |
 | Handgun Football | 391243 | [391243-handgun-football.json](./391243-handgun-football.json) |
 | Handheld Pinball - Robot, Pirate, & Holiday Themes | 108452 | [108452-handheld-pinball-robot-pirate-and-holiday-themes.json](./108452-handheld-pinball-robot-pirate-and-holiday-themes.json) |
+| Handicap Golf | 94661 | [94661-handicap-golf.json](./94661-handicap-golf.json) |
 | Handle With Care | 133864 | [133864-handle-with-care.json](./133864-handle-with-care.json) |
 | Handle With Care.. | 330816 | [330816-handle-with-care.json](./330816-handle-with-care.json) |
 | Handlime | 402439 | [402439-handlime.json](./402439-handlime.json) |
@@ -2534,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heisen-Bro Hustler | 419898 | [419898-heisen-bro-hustler.json](./419898-heisen-bro-hustler.json) |
 | Heist | 111050 | [111050-heist.json](./111050-heist.json) |
 | Heist | 84304 | [84304-heist.json](./84304-heist.json) |
+| Heist | 94640 | [94640-heist.json](./94640-heist.json) |
 | Heist Day | 153983 | [153983-heist-day.json](./153983-heist-day.json) |
 | Heist Game: It's Only Illegal if You Get Caught This Is Not Legal Advice Only a Title | 177564 | [177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json](./177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json) |
 | Heist Haven | 374843 | [374843-heist-haven.json](./374843-heist-haven.json) |
@@ -7181,6 +7183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotpot Defense | 348245 | [348245-hotpot-defense.json](./348245-hotpot-defense.json) |
 | HotPuzzle: Video | 368518 | [368518-hotpuzzle-video.json](./368518-hotpuzzle-video.json) |
 | Hotshot | 313805 | [313805-hotshot.json](./313805-hotshot.json) |
+| Hotshot | 94623 | [94623-hotshot.json](./94623-hotshot.json) |
 | Hotshot Racing | 131888 | [131888-hotshot-racing.json](./131888-hotshot-racing.json) |
 | Hotshots | 390116 | [390116-hotshots.json](./390116-hotshots.json) |
 | Hotshots Fire Rescue | 239903 | [239903-hotshots-fire-rescue.json](./239903-hotshots-fire-rescue.json) |
