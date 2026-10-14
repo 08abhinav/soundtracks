@@ -1622,6 +1622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major Havoc | 39384 | [39384-major-havoc.json](./39384-major-havoc.json) |
 | Major League | 199645 | [199645-major-league.json](./199645-major-league.json) |
 | Major League | 58739 | [58739-major-league.json](./58739-major-league.json) |
+| Major League Baseball | 80424 | [80424-major-league-baseball.json](./80424-major-league-baseball.json) |
 | Major League Baseball 2K10 | 4991 | [4991-major-league-baseball-2k10.json](./4991-major-league-baseball-2k10.json) |
 | Major League Baseball 2K12 | 4993 | [4993-major-league-baseball-2k12.json](./4993-major-league-baseball-2k12.json) |
 | Major League Baseball 2K5 | 8907 | [8907-major-league-baseball-2k5.json](./8907-major-league-baseball-2k5.json) |
@@ -4475,6 +4476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meatgrinder | 285507 | [285507-meatgrinder.json](./285507-meatgrinder.json) |
 | Meatlock | 399012 | [399012-meatlock.json](./399012-meatlock.json) |
 | Meatly's Storage World | 233751 | [233751-meatlys-storage-world.json](./233751-meatlys-storage-world.json) |
+| Meatlymakes | 80389 | [80389-meatlymakes.json](./80389-meatlymakes.json) |
 | Meatmare | 334306 | [334306-meatmare.json](./334306-meatmare.json) |
 | Meatsauce Madness: The Game | 174271 | [174271-meatsauce-madness-the-game.json](./174271-meatsauce-madness-the-game.json) |
 | Meatshot | 326686 | [326686-meatshot.json](./326686-meatshot.json) |
@@ -6176,6 +6178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merciless Podium | 86897 | [86897-merciless-podium.json](./86897-merciless-podium.json) |
 | Mercs | 105329 | [105329-mercs.json](./105329-mercs.json) |
 | Mercs Inc | 289805 | [289805-mercs-inc.json](./289805-mercs-inc.json) |
+| Mercs Inc. | 80407 | [80407-mercs-inc.json](./80407-mercs-inc.json) |
 | Mercurial Dreams | 323300 | [323300-mercurial-dreams.json](./323300-mercurial-dreams.json) |
 | Mercurius Blue: ReCollection | 388000 | [388000-mercurius-blue-recollection.json](./388000-mercurius-blue-recollection.json) |
 | Mercury | 248333 | [248333-mercury.json](./248333-mercury.json) |
@@ -11865,6 +11868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 19 | 116136 | [116136-motogp-19.json](./116136-motogp-19.json) |
 | MotoGP 19: Historical Pack | 168362 | [168362-motogp-19-historical-pack.json](./168362-motogp-19-historical-pack.json) |
 | MotoGP 2 | 195571 | [195571-motogp-2.json](./195571-motogp-2.json) |
+| MotoGP 2 | 80441 | [80441-motogp-2.json](./80441-motogp-2.json) |
 | MotoGP 20 | 131635 | [131635-motogp-20.json](./131635-motogp-20.json) |
 | MotoGP 20: Historic Pack | 168361 | [168361-motogp-20-historic-pack.json](./168361-motogp-20-historic-pack.json) |
 | MotoGP 21: Limited Edition Liveries | 168363 | [168363-motogp-21-limited-edition-liveries.json](./168363-motogp-21-limited-edition-liveries.json) |
