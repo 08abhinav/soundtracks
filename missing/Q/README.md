@@ -424,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarth | 41771 | [41771-quarth.json](./41771-quarth.json) |
 | Quarto | 104795 | [104795-quarto.json](./104795-quarto.json) |
 | Quartz's Quest | 245036 | [245036-quartzs-quest.json](./245036-quartzs-quest.json) |
+| Quasara | 110191 | [110191-quasara.json](./110191-quasara.json) |
 | Quase Rosa | 373857 | [373857-quase-rosa.json](./373857-quase-rosa.json) |
 | Quash | 137473 | [137473-quash.json](./137473-quash.json) |
 | Quasimodo | 25091 | [25091-quasimodo.json](./25091-quasimodo.json) |
