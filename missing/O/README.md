@@ -840,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oikizo | 366734 | [366734-oikizo.json](./366734-oikizo.json) |
 | Oil | 96192 | [96192-oil.json](./96192-oil.json) |
 | Oil and Sand | 311172 | [311172-oil-and-sand.json](./311172-oil-and-sand.json) |
+| Oil Baron | 109405 | [109405-oil-baron.json](./109405-oil-baron.json) |
 | Oil Baron | 366254 | [366254-oil-baron.json](./366254-oil-baron.json) |
 | Oil Drill | 22364 | [22364-oil-drill.json](./22364-oil-drill.json) |
 | Oil Filling | 264103 | [264103-oil-filling.json](./264103-oil-filling.json) |
