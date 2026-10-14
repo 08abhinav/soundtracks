@@ -4028,6 +4028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of the Ashenwatch | 267850 | [267850-heroes-of-the-ashenwatch.json](./267850-heroes-of-the-ashenwatch.json) |
 | Heroes of the Citadel | 285583 | [285583-heroes-of-the-citadel.json](./285583-heroes-of-the-citadel.json) |
 | Heroes of the Dark | 194999 | [194999-heroes-of-the-dark.json](./194999-heroes-of-the-dark.json) |
+| Heroes of the Earth: inVasion | 117559 | [117559-heroes-of-the-earth-invasion.json](./117559-heroes-of-the-earth-invasion.json) |
 | Heroes of the Galaxy | 195162 | [195162-heroes-of-the-galaxy.json](./195162-heroes-of-the-galaxy.json) |
 | Heroes of the Multiverse | 175687 | [175687-heroes-of-the-multiverse.json](./175687-heroes-of-the-multiverse.json) |
 | Heroes of the Obelisk | 62761 | [62761-heroes-of-the-obelisk.json](./62761-heroes-of-the-obelisk.json) |
