@@ -1374,6 +1374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gary Grigsby's War in the Pacific | 69846 | [69846-gary-grigsbys-war-in-the-pacific.json](./69846-gary-grigsbys-war-in-the-pacific.json) |
 | Gary Grigsby's War in the West | 59528 | [59528-gary-grigsbys-war-in-the-west.json](./59528-gary-grigsbys-war-in-the-west.json) |
 | Gary Grigsby's War in the West: Operation Torch | 154492 | [154492-gary-grigsbys-war-in-the-west-operation-torch.json](./154492-gary-grigsbys-war-in-the-west-operation-torch.json) |
+| Gary Lineker's Hot-Shot! | 107607 | [107607-gary-linekers-hot-shot.json](./107607-gary-linekers-hot-shot.json) |
 | Gary the Gull | 33169 | [33169-gary-the-gull.json](./33169-gary-the-gull.json) |
 | Gary's Fortune Telling Tent | 318643 | [318643-garys-fortune-telling-tent.json](./318643-garys-fortune-telling-tent.json) |
 | Gas Gas Rocket! | 289554 | [289554-gas-gas-rocket.json](./289554-gas-gas-rocket.json) |
@@ -1892,6 +1893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generic Brazilian Favela Game with Generic Enemies 2003 | 264894 | [264894-generic-brazilian-favela-game-with-generic-enemies-2003.json](./264894-generic-brazilian-favela-game-with-generic-enemies-2003.json) |
 | Generic Fighter Maybe | 358350 | [358350-generic-fighter-maybe.json](./358350-generic-fighter-maybe.json) |
 | Generic Fishing Game | 316950 | [316950-generic-fishing-game.json](./316950-generic-fishing-game.json) |
+| Generic Jumper | 107719 | [107719-generic-jumper.json](./107719-generic-jumper.json) |
 | Generic Kart Racing | 216424 | [216424-generic-kart-racing.json](./216424-generic-kart-racing.json) |
 | Generic nonbinary game | 176926 | [176926-generic-nonbinary-game.json](./176926-generic-nonbinary-game.json) |
 | Genesis | 127265 | [127265-genesis.json](./127265-genesis.json) |
@@ -5970,6 +5972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greenwood the Last Ritual | 31109 | [31109-greenwood-the-last-ritual.json](./31109-greenwood-the-last-ritual.json) |
 | Greenwood: Amaranthus | 179511 | [179511-greenwood-amaranthus.json](./179511-greenwood-amaranthus.json) |
 | Greeny the Blox | 369173 | [369173-greeny-the-blox.json](./369173-greeny-the-blox.json) |
+| Greetings | 107691 | [107691-greetings.json](./107691-greetings.json) |
 | Greetings | 178562 | [178562-greetings.json](./178562-greetings.json) |
 | Greetings From El Rey | 399265 | [399265-greetings-from-el-rey.json](./399265-greetings-from-el-rey.json) |
 | Greetings From Krampus! | 127229 | [127229-greetings-from-krampus.json](./127229-greetings-from-krampus.json) |
