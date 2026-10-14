@@ -5284,6 +5284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Ninja Fight: Kungfu combat | 255058 | [255058-devil-ninja-fight-kungfu-combat.json](./255058-devil-ninja-fight-kungfu-combat.json) |
 | Devil of the Mirror | 182987 | [182987-devil-of-the-mirror.json](./182987-devil-of-the-mirror.json) |
 | Devil Piece | 174645 | [174645-devil-piece.json](./174645-devil-piece.json) |
+| Devil Rhythm -Silver Phantom- | 83401 | [83401-devil-rhythm-silver-phantom.json](./83401-devil-rhythm-silver-phantom.json) |
 | Devil Seed | 82748 | [82748-devil-seed.json](./82748-devil-seed.json) |
 | Devil Should Die | 190950 | [190950-devil-should-die.json](./190950-devil-should-die.json) |
 | Devil Slayer | 171461 | [171461-devil-slayer.json](./171461-devil-slayer.json) |
@@ -8012,6 +8013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino Rally | 77114 | [77114-domino-rally.json](./77114-domino-rally.json) |
 | Domino Sandbox | 164257 | [164257-domino-sandbox.json](./164257-domino-sandbox.json) |
 | Domino Sky | 33131 | [33131-domino-sky.json](./33131-domino-sky.json) |
+| Domino Solitaire | 83430 | [83430-domino-solitaire.json](./83430-domino-solitaire.json) |
 | Domino VR | 31894 | [31894-domino-vr.json](./31894-domino-vr.json) |
 | Domino! | 281483 | [281483-domino.json](./281483-domino.json) |
 | Dominoes Café | 204967 | [204967-dominoes-cafe.json](./204967-dominoes-cafe.json) |
@@ -9109,6 +9111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Time Dash | 183323 | [183323-double-time-dash.json](./183323-double-time-dash.json) |
 | Double Trouble | 215928 | [215928-double-trouble.json](./215928-double-trouble.json) |
 | Double Trouble | 267470 | [267470-double-trouble.json](./267470-double-trouble.json) |
+| Double Turn | 83429 | [83429-double-turn.json](./83429-double-turn.json) |
 | Double View | 250432 | [250432-double-view.json](./250432-double-view.json) |
 | Double Wires | 230435 | [230435-double-wires.json](./230435-double-wires.json) |
 | Double World. Cave Song Castle | 163836 | [163836-double-world-cave-song-castle.json](./163836-double-world-cave-song-castle.json) |
