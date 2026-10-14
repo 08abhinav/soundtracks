@@ -2370,6 +2370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Les Mills XR Bodycombat: Never Surrender | 352208 | [352208-les-mills-xr-bodycombat-never-surrender.json](./352208-les-mills-xr-bodycombat-never-surrender.json) |
 | Les Mills XR Bodycombat: Power Strike | 352211 | [352211-les-mills-xr-bodycombat-power-strike.json](./352211-les-mills-xr-bodycombat-power-strike.json) |
 | Les Mills XR Bodycombat: Ultimate Fitness Pack | 380565 | [380565-les-mills-xr-bodycombat-ultimate-fitness-pack.json](./380565-les-mills-xr-bodycombat-ultimate-fitness-pack.json) |
+| Les Misérables: Cosette's Fate | 96637 | [96637-les-miserables-cosettes-fate.json](./96637-les-miserables-cosettes-fate.json) |
 | Les Portes du Temps | 86023 | [86023-les-portes-du-temps.json](./86023-les-portes-du-temps.json) |
 | Les Quatre Alices | 55490 | [55490-les-quatre-alices.json](./55490-les-quatre-alices.json) |
 | Les Ripoux | 133439 | [133439-les-ripoux.json](./133439-les-ripoux.json) |
