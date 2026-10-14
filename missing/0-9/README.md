@@ -1601,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Leaf Clovers | 302692 | [302692-4-leaf-clovers.json](./302692-4-leaf-clovers.json) |
 | 4 Letters 1 Word | 239120 | [239120-4-letters-1-word.json](./239120-4-letters-1-word.json) |
 | 4 Minutes and 33 Seconds of Uniqueness | 208886 | [208886-4-minutes-and-33-seconds-of-uniqueness.json](./208886-4-minutes-and-33-seconds-of-uniqueness.json) |
+| 4 Minutes to the Apocalypse | 132531 | [132531-4-minutes-to-the-apocalypse.json](./132531-4-minutes-to-the-apocalypse.json) |
 | 4 Months of You | 165650 | [165650-4-months-of-you.json](./165650-4-months-of-you.json) |
 | 4 Penny Coffins | 396126 | [396126-4-penny-coffins.json](./396126-4-penny-coffins.json) |
 | 4 Pics 1 Word | 63105 | [63105-4-pics-1-word.json](./63105-4-pics-1-word.json) |
