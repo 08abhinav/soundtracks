@@ -1194,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Connect -AsteriskLive- | 56164 | [56164-idol-connect-asterisklive.json](./56164-idol-connect-asterisklive.json) |
 | Idol Days | 151599 | [151599-idol-days.json](./151599-idol-days.json) |
 | Idol Days Sim Date | 198242 | [198242-idol-days-sim-date.json](./198242-idol-days-sim-date.json) |
+| Idol Death Game TV | 79169 | [79169-idol-death-game-tv.json](./79169-idol-death-game-tv.json) |
 | Idol Hakken-den | 7905 | [7905-idol-hakken-den.json](./7905-idol-hakken-den.json) |
 | Idol Hanafuda Fan Club | 37664 | [37664-idol-hanafuda-fan-club.json](./37664-idol-hanafuda-fan-club.json) |
 | Idol Hands | 195711 | [195711-idol-hands.json](./195711-idol-hands.json) |
@@ -1814,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impish Rat Electronic Pet | 314645 | [314645-impish-rat-electronic-pet.json](./314645-impish-rat-electronic-pet.json) |
 | ImpliCations | 257401 | [257401-implications.json](./257401-implications.json) |
 | Implode XL | 66418 | [66418-implode-xl.json](./66418-implode-xl.json) |
+| Implode! | 79162 | [79162-implode.json](./79162-implode.json) |
 | Implosion: Never Lose Hope | 26907 | [26907-implosion-never-lose-hope.json](./26907-implosion-never-lose-hope.json) |
 | Import Tuner Challenge | 7017 | [7017-import-tuner-challenge.json](./7017-import-tuner-challenge.json) |
 | Important things | 412569 | [412569-important-things.json](./412569-important-things.json) |
