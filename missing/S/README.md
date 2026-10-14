@@ -2410,6 +2410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrapbook Memories | 302605 | [302605-scrapbook-memories.json](./302605-scrapbook-memories.json) |
 | Scrapbox | 371878 | [371878-scrapbox.json](./371878-scrapbox.json) |
 | ScrapDown | 336659 | [336659-scrapdown.json](./336659-scrapdown.json) |
+| Scraper | 105731 | [105731-scraper.json](./105731-scraper.json) |
 | Scraper: First Strike | 111091 | [111091-scraper-first-strike.json](./111091-scraper-first-strike.json) |
 | Scrapmetalship | 183007 | [183007-scrapmetalship.json](./183007-scrapmetalship.json) |
 | Scrappage | 236248 | [236248-scrappage.json](./236248-scrappage.json) |
@@ -7391,6 +7392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simply Cubic | 253586 | [253586-simply-cubic.json](./253586-simply-cubic.json) |
 | Simply Gomoku Online | 261318 | [261318-simply-gomoku-online.json](./261318-simply-gomoku-online.json) |
 | Simply Mahjong puzzle game | 88261 | [88261-simply-mahjong-puzzle-game.json](./88261-simply-mahjong-puzzle-game.json) |
+| Simply Mazes | 105806 | [105806-simply-mazes.json](./105806-simply-mazes.json) |
 | Simply Parkour | 169742 | [169742-simply-parkour.json](./169742-simply-parkour.json) |
 | Simply Phobos | 275265 | [275265-simply-phobos.json](./275265-simply-phobos.json) |
 | Simply Puzzles: Codewords | 163424 | [163424-simply-puzzles-codewords.json](./163424-simply-puzzles-codewords.json) |
@@ -14963,6 +14965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spore Collection | 51900 | [51900-spore-collection.json](./51900-spore-collection.json) |
 | Spore Creature Keeper | 80181 | [80181-spore-creature-keeper.json](./80181-spore-creature-keeper.json) |
 | Spore Hero Arena | 21214 | [21214-spore-hero-arena.json](./21214-spore-hero-arena.json) |
+| Spore Monsters.io 3D | 105810 | [105810-spore-monsters-io-3d.json](./105810-spore-monsters-io-3d.json) |
 | Spore Origins | 78885 | [78885-spore-origins.json](./78885-spore-origins.json) |
 | Spore: Creepy and Cute | 70680 | [70680-spore-creepy-and-cute.json](./70680-spore-creepy-and-cute.json) |
 | Spore: Galactic Edition | 46617 | [46617-spore-galactic-edition.json](./46617-spore-galactic-edition.json) |
