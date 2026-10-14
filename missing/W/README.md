@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | W Goblins L Humans | 395230 | [395230-w-goblins-l-humans.json](./395230-w-goblins-l-humans.json) |
 | W Ring: The Double Rings | 64746 | [64746-w-ring-the-double-rings.json](./64746-w-ring-the-double-rings.json) |
 | W. L. O. Sekai Renai Kikou | 7239 | [7239-w-l-o-sekai-renai-kikou.json](./7239-w-l-o-sekai-renai-kikou.json) |
+| W. T. B. | 106436 | [106436-w-t-b.json](./106436-w-t-b.json) |
 | W.A.N.D. Project | 266782 | [266782-w-a-n-d-project.json](./266782-w-a-n-d-project.json) |
 | W.A.R. Hangry | 302104 | [302104-w-a-r-hangry.json](./302104-w-a-r-hangry.json) |
 | W.A.R.D. | 379375 | [379375-w-a-r-d.json](./379375-w-a-r-d.json) |
@@ -5068,6 +5069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Search - Puzzle Game For Kids | 108507 | [108507-word-search-puzzle-game-for-kids.json](./108507-word-search-puzzle-game-for-kids.json) |
 | Word Search & Learn | 233741 | [233741-word-search-and-learn.json](./233741-word-search-and-learn.json) |
 | Word Search 10K | 84964 | [84964-word-search-10k.json](./84964-word-search-10k.json) |
+| Word Search Addict: Word Games | 106478 | [106478-word-search-addict-word-games.json](./106478-word-search-addict-word-games.json) |
 | Word Search by Powgi | 138113 | [138113-word-search-by-powgi.json](./138113-word-search-by-powgi.json) |
 | Word Search Coffee Break | 415952 | [415952-word-search-coffee-break.json](./415952-word-search-coffee-break.json) |
 | Word Search Daily HD | 355011 | [355011-word-search-daily-hd.json](./355011-word-search-daily-hd.json) |
