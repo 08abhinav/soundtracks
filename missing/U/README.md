@@ -2150,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upheaveal | 216994 | [216994-upheaveal.json](./216994-upheaveal.json) |
 | Uphill | 306090 | [306090-uphill.json](./306090-uphill.json) |
 | Uphill Rush | 92114 | [92114-uphill-rush.json](./92114-uphill-rush.json) |
+| Uphill Rush New York | 108240 | [108240-uphill-rush-new-york.json](./108240-uphill-rush-new-york.json) |
 | Uphill Stunt Driver: Extreme Racing Simulator | 306535 | [306535-uphill-stunt-driver-extreme-racing-simulator.json](./306535-uphill-stunt-driver-extreme-racing-simulator.json) |
 | Upin & Ipin Universe | 347867 | [347867-upin-and-ipin-universe.json](./347867-upin-and-ipin-universe.json) |
 | Upin Dash | 174232 | [174232-upin-dash.json](./174232-upin-dash.json) |
