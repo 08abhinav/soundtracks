@@ -3902,6 +3902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chapeau | 117169 | [117169-chapeau.json](./117169-chapeau.json) |
 | Chaperone | 276220 | [276220-chaperone.json](./276220-chaperone.json) |
 | Chapolim & Super Sam: a lenda dos super heróis | 252902 | [252902-chapolim-and-super-sam-a-lenda-dos-super-herois.json](./252902-chapolim-and-super-sam-a-lenda-dos-super-herois.json) |
+| Chapolim x Drácula: Um Duelo Assustador | 85983 | [85983-chapolim-x-dracula-um-duelo-assustador.json](./85983-chapolim-x-dracula-um-duelo-assustador.json) |
 | Chapter Master | 154813 | [154813-chapter-master.json](./154813-chapter-master.json) |
 | Chapter Wars: Expansion Pack | 286541 | [286541-chapter-wars-expansion-pack.json](./286541-chapter-wars-expansion-pack.json) |
 | Chaqs | 223504 | [223504-chaqs.json](./223504-chaqs.json) |
@@ -4015,6 +4016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chase | 253998 | [253998-chase.json](./253998-chase.json) |
 | Chase | 286775 | [286775-chase.json](./286775-chase.json) |
 | Chase | 317902 | [317902-chase.json](./317902-chase.json) |
+| Chase | 85997 | [85997-chase.json](./85997-chase.json) |
 | Chase & Escape | 355215 | [355215-chase-and-escape.json](./355215-chase-and-escape.json) |
 | Chase Ace Sole Survivor | 281992 | [281992-chase-ace-sole-survivor.json](./281992-chase-ace-sole-survivor.json) |
 | Chase Bombers | 39490 | [39490-chase-bombers.json](./39490-chase-bombers.json) |
@@ -5009,6 +5011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocolate Roll For Two | 178602 | [178602-chocolate-roll-for-two.json](./178602-chocolate-roll-for-two.json) |
 | Chocolate Shop Frenzy | 356687 | [356687-chocolate-shop-frenzy.json](./356687-chocolate-shop-frenzy.json) |
 | Chocolatic Wars | 376685 | [376685-chocolatic-wars.json](./376685-chocolatic-wars.json) |
+| Chocolatier | 85999 | [85999-chocolatier.json](./85999-chocolatier.json) |
 | Chocolatio | 281996 | [281996-chocolatio.json](./281996-chocolatio.json) |
 | ChocoLot! | 278480 | [278480-chocolot.json](./278480-chocolot.json) |
 | Choconoa | 113639 | [113639-choconoa.json](./113639-choconoa.json) |
@@ -6279,6 +6282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clandestine | 14465 | [14465-clandestine.json](./14465-clandestine.json) |
 | Clandestine Castle Crashing | 262566 | [262566-clandestine-castle-crashing.json](./262566-clandestine-castle-crashing.json) |
 | Clandestine: Anomaly | 232502 | [232502-clandestine-anomaly.json](./232502-clandestine-anomaly.json) |
+| Clang | 85956 | [85956-clang.json](./85956-clang.json) |
 | Clankers! | 376050 | [376050-clankers.json](./376050-clankers.json) |
 | Clannad | 262473 | [262473-clannad.json](./262473-clannad.json) |
 | Clannad | 262492 | [262492-clannad.json](./262492-clannad.json) |
