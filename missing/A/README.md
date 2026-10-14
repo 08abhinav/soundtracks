@@ -2910,6 +2910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Sail II: Privateer's Bounty | 9429 | [9429-age-of-sail-ii-privateers-bounty.json](./9429-age-of-sail-ii-privateers-bounty.json) |
 | Age of Siege | 212524 | [212524-age-of-siege.json](./212524-age-of-siege.json) |
 | Age of Sokoban | 152157 | [152157-age-of-sokoban.json](./152157-age-of-sokoban.json) |
+| Age of Solitaire : Build City | 102713 | [102713-age-of-solitaire-build-city.json](./102713-age-of-solitaire-build-city.json) |
 | Age of Solitaire: Build Civilization | 211422 | [211422-age-of-solitaire-build-civilization.json](./211422-age-of-solitaire-build-civilization.json) |
 | Age of Speed | 326750 | [326750-age-of-speed.json](./326750-age-of-speed.json) |
 | Age of Speed 2 | 326751 | [326751-age-of-speed-2.json](./326751-age-of-speed-2.json) |
@@ -3263,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Ace | 180650 | [180650-air-ace.json](./180650-air-ace.json) |
 | Air Ace II | 108814 | [108814-air-ace-ii.json](./108814-air-ace-ii.json) |
 | Air Aces | 276117 | [276117-air-aces.json](./276117-air-aces.json) |
+| Air Assault 2 | 102719 | [102719-air-assault-2.json](./102719-air-assault-2.json) |
 | Air Attack | 171370 | [171370-air-attack.json](./171370-air-attack.json) |
 | Air Attack | 38522 | [38522-air-attack.json](./38522-air-attack.json) |
 | Air Attack 2 | 266740 | [266740-air-attack-2.json](./266740-air-attack-2.json) |
@@ -11718,6 +11720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axan Ships: Low Poly | 118348 | [118348-axan-ships-low-poly.json](./118348-axan-ships-low-poly.json) |
 | Axe Ace | 309000 | [309000-axe-ace.json](./309000-axe-ace.json) |
 | Axe And Claw | 400457 | [400457-axe-and-claw.json](./400457-axe-and-claw.json) |
+| Axe Champ | 102707 | [102707-axe-champ.json](./102707-axe-champ.json) |
 | Axe Champ Shoot Out | 322659 | [322659-axe-champ-shoot-out.json](./322659-axe-champ-shoot-out.json) |
 | Axe Champ! | 107663 | [107663-axe-champ.json](./107663-axe-champ.json) |
 | Axe Cop | 128955 | [128955-axe-cop.json](./128955-axe-cop.json) |
