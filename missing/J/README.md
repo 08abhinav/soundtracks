@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janky Golf with Stream | 378012 | [378012-janky-golf-with-stream.json](./378012-janky-golf-with-stream.json) |
 | Janky Tanks | 35877 | [35877-janky-tanks.json](./35877-janky-tanks.json) |
 | Janline R | 65559 | [65559-janline-r.json](./65559-janline-r.json) |
+| Janosch | 92923 | [92923-janosch.json](./92923-janosch.json) |
 | Janosik | 64913 | [64913-janosik.json](./64913-janosik.json) |
 | Janosik 2 | 152783 | [152783-janosik-2.json](./152783-janosik-2.json) |
 | Janosik 2: Prologue | 316419 | [316419-janosik-2-prologue.json](./316419-janosik-2-prologue.json) |
@@ -862,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet-Paco: Hyper Special Space Agent! | 312227 | [312227-jet-paco-hyper-special-space-agent.json](./312227-jet-paco-hyper-special-space-agent.json) |
 | JetBall Arena | 113697 | [113697-jetball-arena.json](./113697-jetball-arena.json) |
 | Jetbike Gang | 207233 | [207233-jetbike-gang.json](./207233-jetbike-gang.json) |
+| Jetboat Superchamps 2 | 92952 | [92952-jetboat-superchamps-2.json](./92952-jetboat-superchamps-2.json) |
 | Jetborne Racing | 150003 | [150003-jetborne-racing.json](./150003-jetborne-racing.json) |
 | Jetbot | 90896 | [90896-jetbot.json](./90896-jetbot.json) |
 | Jetbounce | 189927 | [189927-jetbounce.json](./189927-jetbounce.json) |
