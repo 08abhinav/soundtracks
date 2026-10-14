@@ -3158,6 +3158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debt Deadline | 272383 | [272383-debt-deadline.json](./272383-debt-deadline.json) |
 | Debtor | 86756 | [86756-debtor.json](./86756-debtor.json) |
 | Debtor: Enhanced Edition | 234685 | [234685-debtor-enhanced-edition.json](./234685-debtor-enhanced-edition.json) |
+| Debuff | 76502 | [76502-debuff.json](./76502-debuff.json) |
 | Debug | 190097 | [190097-debug.json](./190097-debug.json) |
 | Debug Life | 339322 | [339322-debug-life.json](./339322-debug-life.json) |
 | Debug Nephemee | 397997 | [397997-debug-nephemee.json](./397997-debug-nephemee.json) |
@@ -3648,6 +3649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend the Tower: Castle Defence Element | 109486 | [109486-defend-the-tower-castle-defence-element.json](./109486-defend-the-tower-castle-defence-element.json) |
 | Defend the Village From Goblins | 153534 | [153534-defend-the-village-from-goblins.json](./153534-defend-the-village-from-goblins.json) |
 | Defend Tower: TD strategy | 130908 | [130908-defend-tower-td-strategy.json](./130908-defend-tower-td-strategy.json) |
+| Defend Your Buttress | 76500 | [76500-defend-your-buttress.json](./76500-defend-your-buttress.json) |
 | Defend Your Castle | 383124 | [383124-defend-your-castle.json](./383124-defend-your-castle.json) |
 | Defend Your Crypt | 33130 | [33130-defend-your-crypt.json](./33130-defend-your-crypt.json) |
 | Defend Your Honor | 402989 | [402989-defend-your-honor.json](./402989-defend-your-honor.json) |
@@ -6005,6 +6007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital City | 260209 | [260209-digital-city.json](./260209-digital-city.json) |
 | Digital Combat Simulator: Black Shark 2 | 65434 | [65434-digital-combat-simulator-black-shark-2.json](./65434-digital-combat-simulator-black-shark-2.json) |
 | Digital Combat Simulator: Combined Arms | 79380 | [79380-digital-combat-simulator-combined-arms.json](./79380-digital-combat-simulator-combined-arms.json) |
+| Digital Combat Simulator: MiG-21Bis Fishbed | 76457 | [76457-digital-combat-simulator-mig-21bis-fishbed.json](./76457-digital-combat-simulator-mig-21bis-fishbed.json) |
 | Digital Combat Simulator: P-51D Mustang | 79381 | [79381-digital-combat-simulator-p-51d-mustang.json](./79381-digital-combat-simulator-p-51d-mustang.json) |
 | Digital Dance Mix Vol. 1: Namie Amuro | 96091 | [96091-digital-dance-mix-vol-1-namie-amuro.json](./96091-digital-dance-mix-vol-1-namie-amuro.json) |
 | Digital Dance Mix Vol.1 Namie Amuro | 108828 | [108828-digital-dance-mix-vol-1-namie-amuro.json](./108828-digital-dance-mix-vol-1-namie-amuro.json) |
@@ -8330,6 +8333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dongri Shuxia de Huiyi | 411513 | [411513-dongri-shuxia-de-huiyi.json](./411513-dongri-shuxia-de-huiyi.json) |
 | Dongri Shuxia de Huiyi After | 411514 | [411514-dongri-shuxia-de-huiyi-after.json](./411514-dongri-shuxia-de-huiyi-after.json) |
 | Donguri Koen: Jinkou Eisei Head Scissors Whip | 320814 | [320814-donguri-koen-jinkou-eisei-head-scissors-whip.json](./320814-donguri-koen-jinkou-eisei-head-scissors-whip.json) |
+| Donjon Defense | 76498 | [76498-donjon-defense.json](./76498-donjon-defense.json) |
 | Donkee's Adventure | 401638 | [401638-donkees-adventure.json](./401638-donkees-adventure.json) |
 | Donkey Angler | 305439 | [305439-donkey-angler.json](./305439-donkey-angler.json) |
 | Donkey Angler | 305440 | [305440-donkey-angler.json](./305440-donkey-angler.json) |
@@ -11304,6 +11308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drumbeat Quest | 174229 | [174229-drumbeat-quest.json](./174229-drumbeat-quest.json) |
 | Drumblox | 267313 | [267313-drumblox.json](./267313-drumblox.json) |
 | Drumguy | 329050 | [329050-drumguy.json](./329050-drumguy.json) |
+| DrumKit | 76469 | [76469-drumkit.json](./76469-drumkit.json) |
 | DrumMania | 80397 | [80397-drummania.json](./80397-drummania.json) |
 | DrumMania 3rdMix | 188662 | [188662-drummania-3rdmix.json](./188662-drummania-3rdmix.json) |
 | Drump Simulator | 407362 | [407362-drump-simulator.json](./407362-drump-simulator.json) |
