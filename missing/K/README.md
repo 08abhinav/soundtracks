@@ -1585,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiki | 237267 | [237267-kiki.json](./237267-kiki.json) |
 | Kiki | 309528 | [309528-kiki.json](./309528-kiki.json) |
 | Kiki & Ana - The Child | 144812 | [144812-kiki-and-ana-the-child.json](./144812-kiki-and-ana-the-child.json) |
+| Kiki & Fifi Pet Beauty Salon | 102682 | [102682-kiki-and-fifi-pet-beauty-salon.json](./102682-kiki-and-fifi-pet-beauty-salon.json) |
 | Kiki Ippatsu | 305563 | [305563-kiki-ippatsu.json](./305563-kiki-ippatsu.json) |
 | KiKi KaiKai: Dotou-hen | 41269 | [41269-kiki-kaikai-dotou-hen.json](./41269-kiki-kaikai-dotou-hen.json) |
 | Kiki's Adventure | 125462 | [125462-kikis-adventure.json](./125462-kikis-adventure.json) |
