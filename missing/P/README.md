@@ -9387,6 +9387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prey with Gun | 91426 | [91426-prey-with-gun.json](./91426-prey-with-gun.json) |
 | Prey: An Alien Encounter | 38843 | [38843-prey-an-alien-encounter.json](./38843-prey-an-alien-encounter.json) |
 | Prey: Deluxe Edition | 136146 | [136146-prey-deluxe-edition.json](./136146-prey-deluxe-edition.json) |
+| Prey: Digital Deluxe Edition | 118686 | [118686-prey-digital-deluxe-edition.json](./118686-prey-digital-deluxe-edition.json) |
 | Prey: Limited Collector's Edition | 47397 | [47397-prey-limited-collectors-edition.json](./47397-prey-limited-collectors-edition.json) |
 | Preytiger | 181734 | [181734-preytiger.json](./181734-preytiger.json) |
 | Prezzemolo in un Viaggio da Sogno | 305292 | [305292-prezzemolo-in-un-viaggio-da-sogno.json](./305292-prezzemolo-in-un-viaggio-da-sogno.json) |
@@ -11296,6 +11297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puffins: Let's Fish! | 84802 | [84802-puffins-lets-fish.json](./84802-puffins-lets-fish.json) |
 | Puffins: Let's Race! | 80215 | [80215-puffins-lets-race.json](./80215-puffins-lets-race.json) |
 | Puffins: Let's Roll | 66695 | [66695-puffins-lets-roll.json](./66695-puffins-lets-roll.json) |
+| Puffle Launch App | 118716 | [118716-puffle-launch-app.json](./118716-puffle-launch-app.json) |
 | Puffle Paddle 3DS | 253797 | [253797-puffle-paddle-3ds.json](./253797-puffle-paddle-3ds.json) |
 | Pufflings: Journey Through a Fantasy World | 397921 | [397921-pufflings-journey-through-a-fantasy-world.json](./397921-pufflings-journey-through-a-fantasy-world.json) |
 | Puffmin Quest | 313354 | [313354-puffmin-quest.json](./313354-puffmin-quest.json) |
