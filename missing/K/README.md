@@ -3285,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koe | 50532 | [50532-koe.json](./50532-koe.json) |
 | Koe de Asobou! HeartCatch PreCure! | 123342 | [123342-koe-de-asobou-heartcatch-precure.json](./123342-koe-de-asobou-heartcatch-precure.json) |
 | Koe wo Tayori ni SP | 83818 | [83818-koe-wo-tayori-ni-sp.json](./83818-koe-wo-tayori-ni-sp.json) |
+| Koen Hunter | 97769 | [97769-koen-hunter.json](./97769-koen-hunter.json) |
 | KOF Chronicle | 117502 | [117502-kof-chronicle.json](./117502-kof-chronicle.json) |
 | KOF X Garou Densetsu | 63832 | [63832-kof-x-garou-densetsu.json](./63832-kof-x-garou-densetsu.json) |
 | Koffi Yellow Copter | 40797 | [40797-koffi-yellow-copter.json](./40797-koffi-yellow-copter.json) |
@@ -3462,7 +3463,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konchuu Fighters | 65191 | [65191-konchuu-fighters.json](./65191-konchuu-fighters.json) |
 | Konchuu Hakase | 228602 | [228602-konchuu-hakase.json](./228602-konchuu-hakase.json) |
 | Konchuu Hakase 2 | 228603 | [228603-konchuu-hakase-2.json](./228603-konchuu-hakase-2.json) |
+| Konchuu Monster: Battle Master | 97816 | [97816-konchuu-monster-battle-master.json](./97816-konchuu-monster-battle-master.json) |
 | Konchuu Monster: Super Battle | 222482 | [222482-konchuu-monster-super-battle.json](./222482-konchuu-monster-super-battle.json) |
+| Konchuu Monster: Super Battle | 97814 | [97814-konchuu-monster-super-battle.json](./97814-konchuu-monster-super-battle.json) |
 | Koncolos | 192264 | [192264-koncolos.json](./192264-koncolos.json) |
 | Konductra | 20619 | [20619-konductra.json](./20619-konductra.json) |
 | Koneko Club | 385748 | [385748-koneko-club.json](./385748-koneko-club.json) |
