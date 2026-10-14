@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandaclip: The Black Thief | 296763 | [296763-pandaclip-the-black-thief.json](./296763-pandaclip-the-black-thief.json) |
 | Pandamonium | 345520 | [345520-pandamonium.json](./345520-pandamonium.json) |
 | PandaMonium: Corporate Carnage | 186131 | [186131-pandamonium-corporate-carnage.json](./186131-pandamonium-corporate-carnage.json) |
+| Pandara | 123929 | [123929-pandara.json](./123929-pandara.json) |
 | PandaSG | 157122 | [157122-pandasg.json](./157122-pandasg.json) |
 | Pandash | 248913 | [248913-pandash.json](./248913-pandash.json) |
 | Pandecrown | 215908 | [215908-pandecrown.json](./215908-pandecrown.json) |
@@ -9436,6 +9437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Hunt | 233017 | [233017-primal-hunt.json](./233017-primal-hunt.json) |
 | Primal Image Vol.1 | 67313 | [67313-primal-image-vol-1.json](./67313-primal-image-vol-1.json) |
 | Primal Lands | 50517 | [50517-primal-lands.json](./50517-primal-lands.json) |
+| Primal Light | 122794 | [122794-primal-light.json](./122794-primal-light.json) |
 | Primal Man Simulator | 149560 | [149560-primal-man-simulator.json](./149560-primal-man-simulator.json) |
 | Primal Omen | 216950 | [216950-primal-omen.json](./216950-primal-omen.json) |
 | Primal Planet | 243924 | [243924-primal-planet.json](./243924-primal-planet.json) |
@@ -10533,6 +10535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Phantom | 77411 | [77411-project-phantom.json](./77411-project-phantom.json) |
 | Project Phoenix | 311219 | [311219-project-phoenix.json](./311219-project-phoenix.json) |
 | Project Phoenix | 7204 | [7204-project-phoenix.json](./7204-project-phoenix.json) |
+| Project Plainsight | 122787 | [122787-project-plainsight.json](./122787-project-plainsight.json) |
 | Project Planet: Earth Vs. Humanity | 236394 | [236394-project-planet-earth-vs-humanity.json](./236394-project-planet-earth-vs-humanity.json) |
 | Project Playtime: Phase 3 - Forsaken | 271727 | [271727-project-playtime-phase-3-forsaken.json](./271727-project-playtime-phase-3-forsaken.json) |
 | Project Plink | 197711 | [197711-project-plink.json](./197711-project-plink.json) |
@@ -11400,6 +11403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Ripper | 224723 | [224723-pumpkin-ripper.json](./224723-pumpkin-ripper.json) |
 | Pumpkin SculptrVR | 30753 | [30753-pumpkin-sculptrvr.json](./30753-pumpkin-sculptrvr.json) |
 | Pumpkin Slasher | 176231 | [176231-pumpkin-slasher.json](./176231-pumpkin-slasher.json) |
+| Pumpkin Smasher VR | 123911 | [123911-pumpkin-smasher-vr.json](./123911-pumpkin-smasher-vr.json) |
 | Pumpkin Story | 201571 | [201571-pumpkin-story.json](./201571-pumpkin-story.json) |
 | Pumpkin Surprise | 246528 | [246528-pumpkin-surprise.json](./246528-pumpkin-surprise.json) |
 | Pumpkin's Revenge | 341435 | [341435-pumpkins-revenge.json](./341435-pumpkins-revenge.json) |
@@ -11516,6 +11520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppet Master: The Game - Movie Edition Blade + Execution | 278400 | [278400-puppet-master-the-game-movie-edition-blade-execution.json](./278400-puppet-master-the-game-movie-edition-blade-execution.json) |
 | Puppet Saurus | 330793 | [330793-puppet-saurus.json](./330793-puppet-saurus.json) |
 | Puppet Seed | 349954 | [349954-puppet-seed.json](./349954-puppet-seed.json) |
+| Puppet Story | 123886 | [123886-puppet-story.json](./123886-puppet-story.json) |
 | Puppet Tale | 242814 | [242814-puppet-tale.json](./242814-puppet-tale.json) |
 | Puppet Team | 332982 | [332982-puppet-team.json](./332982-puppet-team.json) |
 | Puppet Theater | 359337 | [359337-puppet-theater.json](./359337-puppet-theater.json) |
