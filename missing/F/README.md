@@ -1516,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fapic | 53091 | [53091-fapic.json](./53091-fapic.json) |
 | Faptastic Journey | 194316 | [194316-faptastic-journey.json](./194316-faptastic-journey.json) |
 | Far a Night | 389617 | [389617-far-a-night.json](./389617-far-a-night.json) |
+| Far Away | 130105 | [130105-far-away.json](./130105-far-away.json) |
 | Far Away From Home | 190432 | [190432-far-away-from-home.json](./190432-far-away-from-home.json) |
 | Far Away Train | 150527 | [150527-far-away-train.json](./150527-far-away-train.json) |
 | Far Cnight | 99729 | [99729-far-cnight.json](./99729-far-cnight.json) |
