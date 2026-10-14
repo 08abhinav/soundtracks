@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .Headspace | 374425 | [374425-headspace.json](./374425-headspace.json) |
 | .kkrieger: Chapter 1 | 94683 | [94683-kkrieger-chapter-1.json](./94683-kkrieger-chapter-1.json) |
 | .Script | 180795 | [180795-script.json](./180795-script.json) |
+| '83 | 116194 | [116194-83.json](./116194-83.json) |
 | '90s Football Stars | 103883 | [103883-90s-football-stars.json](./103883-90s-football-stars.json) |
 | '90s Super GP | 51541 | [51541-90s-super-gp.json](./51541-90s-super-gp.json) |
 | '94 Super World Cup Chuggu | 130825 | [130825-94-super-world-cup-chuggu.json](./130825-94-super-world-cup-chuggu.json) |
