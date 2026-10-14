@@ -3583,6 +3583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend The Cubes | 383734 | [383734-defend-the-cubes.json](./383734-defend-the-cubes.json) |
 | Defend the Fort | 173267 | [173267-defend-the-fort.json](./173267-defend-the-fort.json) |
 | Defend the Keep | 118091 | [118091-defend-the-keep.json](./118091-defend-the-keep.json) |
+| Defend the Night | 127646 | [127646-defend-the-night.json](./127646-defend-the-night.json) |
 | Defend the Rook | 152300 | [152300-defend-the-rook.json](./152300-defend-the-rook.json) |
 | Defend the Terra Attack on the Red UFO | 39525 | [39525-defend-the-terra-attack-on-the-red-ufo.json](./39525-defend-the-terra-attack-on-the-red-ufo.json) |
 | Defend the Tower: Castle Defence Element | 109486 | [109486-defend-the-tower-castle-defence-element.json](./109486-defend-the-tower-castle-defence-element.json) |
@@ -3970,6 +3971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deluge: Onset | 142829 | [142829-deluge-onset.json](./142829-deluge-onset.json) |
 | Deluge: Threnody of Crashing Waves | 173264 | [173264-deluge-threnody-of-crashing-waves.json](./173264-deluge-threnody-of-crashing-waves.json) |
 | Delunky: Endless Descent | 177861 | [177861-delunky-endless-descent.json](./177861-delunky-endless-descent.json) |
+| Delusion | 127698 | [127698-delusion.json](./127698-delusion.json) |
 | Delusion | 302735 | [302735-delusion.json](./302735-delusion.json) |
 | Delusion Gallery | 178607 | [178607-delusion-gallery.json](./178607-delusion-gallery.json) |
 | Delusional | 377584 | [377584-delusional.json](./377584-delusional.json) |
@@ -4190,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Souls | 134606 | [134606-demons-souls.json](./134606-demons-souls.json) |
 | Demon's Souls: Black Phantom Edition | 23363 | [23363-demons-souls-black-phantom-edition.json](./23363-demons-souls-black-phantom-edition.json) |
 | Demon's Souls: Boletarian Royalty Armor | 344308 | [344308-demons-souls-boletarian-royalty-armor.json](./344308-demons-souls-boletarian-royalty-armor.json) |
+| Demon's Sword | 127653 | [127653-demons-sword.json](./127653-demons-sword.json) |
 | Demon's Tier+ | 134015 | [134015-demons-tier.json](./134015-demons-tier.json) |
 | Demon's Tilt | 106363 | [106363-demons-tilt.json](./106363-demons-tilt.json) |
 | Demon's Tomb: The Awakening | 12045 | [12045-demons-tomb-the-awakening.json](./12045-demons-tomb-the-awakening.json) |
@@ -4995,6 +4998,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Lin: Time Murder Frenzy | 301915 | [301915-detective-lin-time-murder-frenzy.json](./301915-detective-lin-time-murder-frenzy.json) |
 | Detective Mane | 357365 | [357365-detective-mane.json](./357365-detective-mane.json) |
 | Detective March Forward: The Missing Will | 132268 | [132268-detective-march-forward-the-missing-will.json](./132268-detective-march-forward-the-missing-will.json) |
+| Detective Masochist -The Case of the Femdom Torture- | 127660 | [127660-detective-masochist-the-case-of-the-femdom-torture.json](./127660-detective-masochist-the-case-of-the-femdom-torture.json) |
+| Detective Masochist 2 -The Case of the Tortured Servant- | 127661 | [127661-detective-masochist-2-the-case-of-the-tortured-servant.json](./127661-detective-masochist-2-the-case-of-the-tortured-servant.json) |
 | Detective Masochist 3: The Case of the Naked Truth | 279062 | [279062-detective-masochist-3-the-case-of-the-naked-truth.json](./279062-detective-masochist-3-the-case-of-the-naked-truth.json) |
 | Detective Max: Double Clues | 205234 | [205234-detective-max-double-clues.json](./205234-detective-max-double-clues.json) |
 | Detective Max! | 123053 | [123053-detective-max.json](./123053-detective-max.json) |
