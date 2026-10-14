@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KartKraft | 34354 | [34354-kartkraft.json](./34354-kartkraft.json) |
 | KartMania | 247365 | [247365-kartmania.json](./247365-kartmania.json) |
 | Kartofank VR | 72358 | [72358-kartofank-vr.json](./72358-kartofank-vr.json) |
+| Kartoffelpüree: Der Gemüse-Shooter | 100078 | [100078-kartoffelpuree-der-gemuse-shooter.json](./100078-kartoffelpuree-der-gemuse-shooter.json) |
 | Kartong - Death by Cardboard! | 77571 | [77571-kartong-death-by-cardboard.json](./77571-kartong-death-by-cardboard.json) |
 | Kartrider Rush | 186711 | [186711-kartrider-rush.json](./186711-kartrider-rush.json) |
 | KartRider: Drift | 125626 | [125626-kartrider-drift.json](./125626-kartrider-drift.json) |
