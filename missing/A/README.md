@@ -1177,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC Search with Me: Sea Animal Pack | 199850 | [199850-abc-search-with-me-sea-animal-pack.json](./199850-abc-search-with-me-sea-animal-pack.json) |
 | ABC Search with Me: Zodiac Pack | 199848 | [199848-abc-search-with-me-zodiac-pack.json](./199848-abc-search-with-me-zodiac-pack.json) |
 | ABC Solitaire | 89856 | [89856-abc-solitaire.json](./89856-abc-solitaire.json) |
+| ABC Sports Indy Racing | 78574 | [78574-abc-sports-indy-racing.json](./78574-abc-sports-indy-racing.json) |
 | ABC Sports Presents: The Palm Spring Open | 46559 | [46559-abc-sports-presents-the-palm-spring-open.json](./46559-abc-sports-presents-the-palm-spring-open.json) |
 | ABC Super Solitaire | 89857 | [89857-abc-super-solitaire.json](./89857-abc-super-solitaire.json) |
 | ABC: Audioreactive Beat Circle | 138623 | [138623-abc-audioreactive-beat-circle.json](./138623-abc-audioreactive-beat-circle.json) |
@@ -5524,6 +5525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America's Most Eligible: Book 2 | 313692 | [313692-americas-most-eligible-book-2.json](./313692-americas-most-eligible-book-2.json) |
 | America's Most Eligible: Book 3 | 313693 | [313693-americas-most-eligible-book-3.json](./313693-americas-most-eligible-book-3.json) |
 | America's Next Top Model | 50613 | [50613-americas-next-top-model.json](./50613-americas-next-top-model.json) |
+| America's Next Top Model | 78528 | [78528-americas-next-top-model.json](./78528-americas-next-top-model.json) |
 | America's Next Top Pornstar | 304675 | [304675-americas-next-top-pornstar.json](./304675-americas-next-top-pornstar.json) |
 | America's Retribution | 98763 | [98763-americas-retribution.json](./98763-americas-retribution.json) |
 | America's Retribution Term 2 | 117796 | [117796-americas-retribution-term-2.json](./117796-americas-retribution-term-2.json) |
@@ -11593,6 +11595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalone's Adventurers: My Parents were Assassinated so I've Started an Adventuring Party to Avoid a Political Marriage | 346202 | [346202-avalones-adventurers-my-parents-were-assassinated-so-ive-started-an-adventuring-party-to-avoid-a-political-marriage.json](./346202-avalones-adventurers-my-parents-were-assassinated-so-ive-started-an-adventuring-party-to-avoid-a-political-marriage.json) |
 | Avani | 223495 | [223495-avani.json](./223495-avani.json) |
 | Avant-Garde Discerning Paralleler | 120074 | [120074-avant-garde-discerning-paralleler.json](./120074-avant-garde-discerning-paralleler.json) |
+| Avara | 78569 | [78569-avara.json](./78569-avara.json) |
 | Avaria: Iron Rule | 399009 | [399009-avaria-iron-rule.json](./399009-avaria-iron-rule.json) |
 | Avariavs | 98405 | [98405-avariavs.json](./98405-avariavs.json) |
 | Avarice | 125408 | [125408-avarice.json](./125408-avarice.json) |
