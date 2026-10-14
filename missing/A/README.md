@@ -2238,6 +2238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Roll | 186101 | [186101-adventure-roll.json](./186101-adventure-roll.json) |
 | Adventure Rush | 192674 | [192674-adventure-rush.json](./192674-adventure-rush.json) |
 | Adventure Sketchers: Draw, Play, Create | 230338 | [230338-adventure-sketchers-draw-play-create.json](./230338-adventure-sketchers-draw-play-create.json) |
+| Adventure Slime | 122073 | [122073-adventure-slime.json](./122073-adventure-slime.json) |
 | Adventure Smasher | 181168 | [181168-adventure-smasher.json](./181168-adventure-smasher.json) |
 | Adventure Springs Bakery | 414173 | [414173-adventure-springs-bakery.json](./414173-adventure-springs-bakery.json) |
 | Adventure Story | 265404 | [265404-adventure-story.json](./265404-adventure-story.json) |
@@ -2553,6 +2554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affari Tuoi: Il Gioco Interattivo in DVD | 319739 | [319739-affari-tuoi-il-gioco-interattivo-in-dvd.json](./319739-affari-tuoi-il-gioco-interattivo-in-dvd.json) |
 | Affectionate Annie | 271669 | [271669-affectionate-annie.json](./271669-affectionate-annie.json) |
 | Affiliated Homies | 357796 | [357796-affiliated-homies.json](./357796-affiliated-homies.json) |
+| Affinity | 122063 | [122063-affinity.json](./122063-affinity.json) |
 | Affinity | 144199 | [144199-affinity.json](./144199-affinity.json) |
 | Affinity: Fallen from Paradise | 211262 | [211262-affinity-fallen-from-paradise.json](./211262-affinity-fallen-from-paradise.json) |
 | Afflicted | 261188 | [261188-afflicted.json](./261188-afflicted.json) |
@@ -4274,6 +4276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Invasion 3d | 90192 | [90192-alien-invasion-3d.json](./90192-alien-invasion-3d.json) |
 | Alien Invasion 3D Part 2 | 126561 | [126561-alien-invasion-3d-part-2.json](./126561-alien-invasion-3d-part-2.json) |
 | Alien Invasion Tower Defense | 30829 | [30829-alien-invasion-tower-defense.json](./30829-alien-invasion-tower-defense.json) |
+| Alien Jelly: Food For Thought! | 122074 | [122074-alien-jelly-food-for-thought.json](./122074-alien-jelly-food-for-thought.json) |
 | Alien Jihad | 92308 | [92308-alien-jihad.json](./92308-alien-jihad.json) |
 | Alien Kingdom | 120760 | [120760-alien-kingdom.json](./120760-alien-kingdom.json) |
 | Alien Land | 260604 | [260604-alien-land.json](./260604-alien-land.json) |
@@ -4806,6 +4809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in the Outback | 226215 | [226215-alone-in-the-outback.json](./226215-alone-in-the-outback.json) |
 | Alone in the School | 302385 | [302385-alone-in-the-school.json](./302385-alone-in-the-school.json) |
 | Alone in the Stars: Survivor | 334886 | [334886-alone-in-the-stars-survivor.json](./334886-alone-in-the-stars-survivor.json) |
+| Alone in the War | 121325 | [121325-alone-in-the-war.json](./121325-alone-in-the-war.json) |
 | Alone Journey | 133150 | [133150-alone-journey.json](./133150-alone-journey.json) |
 | Alone K.W. | 33539 | [33539-alone-k-w.json](./33539-alone-k-w.json) |
 | Alone Musc | 186700 | [186700-alone-musc.json](./186700-alone-musc.json) |
@@ -8051,6 +8055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Urban Champion | 68314 | [68314-arcade-archives-urban-champion.json](./68314-arcade-archives-urban-champion.json) |
 | Arcade Archives: USAAF Mustang | 194887 | [194887-arcade-archives-usaaf-mustang.json](./194887-arcade-archives-usaaf-mustang.json) |
 | Arcade Archives: Vandyke | 165600 | [165600-arcade-archives-vandyke.json](./165600-arcade-archives-vandyke.json) |
+| Arcade Archives: Victory Road | 121357 | [121357-arcade-archives-victory-road.json](./121357-arcade-archives-victory-road.json) |
 | Arcade Archives: Vigilante | 121716 | [121716-arcade-archives-vigilante.json](./121716-arcade-archives-vigilante.json) |
 | Arcade Archives: Violence Fight | 320312 | [320312-arcade-archives-violence-fight.json](./320312-arcade-archives-violence-fight.json) |
 | Arcade Archives: Volfied | 294820 | [294820-arcade-archives-volfied.json](./294820-arcade-archives-volfied.json) |
@@ -10235,6 +10240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Bot: Vicious Void Galaxy | 347137 | [347137-astro-bot-vicious-void-galaxy.json](./347137-astro-bot-vicious-void-galaxy.json) |
 | Astro Bot: Winter Wonder | 325698 | [325698-astro-bot-winter-wonder.json](./325698-astro-bot-winter-wonder.json) |
 | Astro Bouncer | 103472 | [103472-astro-bouncer.json](./103472-astro-bouncer.json) |
+| Astro Boy | 121365 | [121365-astro-boy.json](./121365-astro-boy.json) |
 | Astro Boy Dash | 58274 | [58274-astro-boy-dash.json](./58274-astro-boy-dash.json) |
 | Astro Boy Flight! | 58276 | [58276-astro-boy-flight.json](./58276-astro-boy-flight.json) |
 | Astro Boy: Brick Breaker | 109916 | [109916-astro-boy-brick-breaker.json](./109916-astro-boy-brick-breaker.json) |
@@ -10826,6 +10832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomite | 298688 | [298688-atomite.json](./298688-atomite.json) |
 | Atomix | 308566 | [308566-atomix.json](./308566-atomix.json) |
 | Atomograd | 249222 | [249222-atomograd.json](./249222-atomograd.json) |
+| Atomorf | 121376 | [121376-atomorf.json](./121376-atomorf.json) |
 | Atoms and Time | 269043 | [269043-atoms-and-time.json](./269043-atoms-and-time.json) |
 | Aton | 155054 | [155054-aton.json](./155054-aton.json) |
 | Aton | 332239 | [332239-aton.json](./332239-aton.json) |
@@ -11064,6 +11071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aura Kingdom 2: Evolution | 265752 | [265752-aura-kingdom-2-evolution.json](./265752-aura-kingdom-2-evolution.json) |
 | Aura Kingdom: Impact | 353913 | [353913-aura-kingdom-impact.json](./353913-aura-kingdom-impact.json) |
 | Aura of Worlds | 55866 | [55866-aura-of-worlds.json](./55866-aura-of-worlds.json) |
+| Aura Shift | 121379 | [121379-aura-shift.json](./121379-aura-shift.json) |
 | Aura: Fate of the Ages | 9776 | [9776-aura-fate-of-the-ages.json](./9776-aura-fate-of-the-ages.json) |
 | Aura: Hentai Cards - Horny Madness | 301641 | [301641-aura-hentai-cards-horny-madness.json](./301641-aura-hentai-cards-horny-madness.json) |
 | Aura's Room | 270600 | [270600-auras-room.json](./270600-auras-room.json) |
