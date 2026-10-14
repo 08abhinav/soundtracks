@@ -9360,6 +9360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Convolution of Fear | 250857 | [250857-convolution-of-fear.json](./250857-convolution-of-fear.json) |
 | Convrgence | 269281 | [269281-convrgence.json](./269281-convrgence.json) |
 | Conway | 282112 | [282112-conway.json](./282112-conway.json) |
+| Conway's Game of Life | 77879 | [77879-conways-game-of-life.json](./77879-conways-game-of-life.json) |
 | CoogyLoop | 242567 | [242567-coogyloop.json](./242567-coogyloop.json) |
 | Cook and Play: Animal Friends | 366735 | [366735-cook-and-play-animal-friends.json](./366735-cook-and-play-animal-friends.json) |
 | Cook Baker Match | 175425 | [175425-cook-baker-match.json](./175425-cook-baker-match.json) |
