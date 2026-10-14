@@ -14224,6 +14224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mylo uronil | 110143 | [110143-mylo-uronil.json](./110143-mylo-uronil.json) |
 | MyMan | 93150 | [93150-myman.json](./93150-myman.json) |
 | MyNBA2K16 | 79975 | [79975-mynba2k16.json](./79975-mynba2k16.json) |
+| myNotebook: Tan | 91868 | [91868-mynotebook-tan.json](./91868-mynotebook-tan.json) |
 | Myoka: First Person View | 291376 | [291376-myoka-first-person-view.json](./291376-myoka-first-person-view.json) |
 | Myopia | 362445 | [362445-myopia.json](./362445-myopia.json) |
 | Myosotis | 362891 | [362891-myosotis.json](./362891-myosotis.json) |
@@ -14683,6 +14684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Yi | 388240 | [388240-mythic-yi.json](./388240-mythic-yi.json) |
 | Mythic Zombies | 143464 | [143464-mythic-zombies.json](./143464-mythic-zombies.json) |
 | Mythic: Frost Trials | 215636 | [215636-mythic-frost-trials.json](./215636-mythic-frost-trials.json) |
+| Mythica | 91859 | [91859-mythica.json](./91859-mythica.json) |
 | Mythical | 114213 | [114213-mythical.json](./114213-mythical.json) |
 | Mythical Concept Starnaut | 272387 | [272387-mythical-concept-starnaut.json](./272387-mythical-concept-starnaut.json) |
 | Mythical Haven | 419979 | [419979-mythical-haven.json](./419979-mythical-haven.json) |
