@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Christmas Cats: Extra Content | 276705 | [276705-100-christmas-cats-extra-content.json](./276705-100-christmas-cats-extra-content.json) |
 | 100 Christmas Hidden Cats | 378185 | [378185-100-christmas-hidden-cats.json](./378185-100-christmas-hidden-cats.json) |
 | 100 Classic Book Collection | 47939 | [47939-100-classic-book-collection.json](./47939-100-classic-book-collection.json) |
+| 100 Classic Games | 97232 | [97232-100-classic-games.json](./97232-100-classic-games.json) |
 | 100 Cyprus Cats | 334121 | [334121-100-cyprus-cats.json](./334121-100-cyprus-cats.json) |
 | 100 Day Term | 359555 | [359555-100-day-term.json](./359555-100-day-term.json) |
 | 100 Days | 164599 | [164599-100-days.json](./164599-100-days.json) |
