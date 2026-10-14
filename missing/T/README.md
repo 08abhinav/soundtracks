@@ -1478,6 +1478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TankVR | 68505 | [68505-tankvr.json](./68505-tankvr.json) |
 | Tanky Panky | 158508 | [158508-tanky-panky.json](./158508-tanky-panky.json) |
 | Tanky Tanks | 120399 | [120399-tanky-tanks.json](./120399-tanky-tanks.json) |
+| Tanky Tanks VR | 128928 | [128928-tanky-tanks-vr.json](./128928-tanky-tanks-vr.json) |
 | TankYou! | 31685 | [31685-tankyou.json](./31685-tankyou.json) |
 | Tanokai Chapter 1 | 178571 | [178571-tanokai-chapter-1.json](./178571-tanokai-chapter-1.json) |
 | Tanoth | 52019 | [52019-tanoth.json](./52019-tanoth.json) |
@@ -3808,6 +3809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Square | 18284 | [18284-the-adventures-of-square.json](./18284-the-adventures-of-square.json) |
 | The Adventures of Star Saver | 7745 | [7745-the-adventures-of-star-saver.json](./7745-the-adventures-of-star-saver.json) |
 | The Adventures of Team Australia | 111171 | [111171-the-adventures-of-team-australia.json](./111171-the-adventures-of-team-australia.json) |
+| The Adventures of Ten and Till | 128894 | [128894-the-adventures-of-ten-and-till.json](./128894-the-adventures-of-ten-and-till.json) |
 | The Adventures of The Black Hawk | 274575 | [274575-the-adventures-of-the-black-hawk.json](./274575-the-adventures-of-the-black-hawk.json) |
 | The Adventures of Tintin: Prisoners of the Sun | 249145 | [249145-the-adventures-of-tintin-prisoners-of-the-sun.json](./249145-the-adventures-of-tintin-prisoners-of-the-sun.json) |
 | The Adventures of Tintin: Prisoners of the Sun | 42588 | [42588-the-adventures-of-tintin-prisoners-of-the-sun.json](./42588-the-adventures-of-tintin-prisoners-of-the-sun.json) |
@@ -6274,6 +6276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Round | 139245 | [139245-the-final-round.json](./139245-the-final-round.json) |
 | The Final Round | 19709 | [19709-the-final-round.json](./19709-the-final-round.json) |
 | The Final Specimen: Arrival | 30037 | [30037-the-final-specimen-arrival.json](./30037-the-final-specimen-arrival.json) |
+| The Final Stand: Breakout | 128302 | [128302-the-final-stand-breakout.json](./128302-the-final-stand-breakout.json) |
 | The Final Station | 16136 | [16136-the-final-station.json](./16136-the-final-station.json) |
 | The Final Station: The Only Traitor | 124810 | [124810-the-final-station-the-only-traitor.json](./124810-the-final-station-the-only-traitor.json) |
 | The Final Take | 34480 | [34480-the-final-take.json](./34480-the-final-take.json) |
@@ -6410,6 +6413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forbidden Arts | 77814 | [77814-the-forbidden-arts.json](./77814-the-forbidden-arts.json) |
 | The Forbidden Flask | 323429 | [323429-the-forbidden-flask.json](./323429-the-forbidden-flask.json) |
 | The Forbidden Tomes of Olipos | 411648 | [411648-the-forbidden-tomes-of-olipos.json](./411648-the-forbidden-tomes-of-olipos.json) |
+| The Foreigner | 128915 | [128915-the-foreigner.json](./128915-the-foreigner.json) |
 | The Foreigner | 343759 | [343759-the-foreigner.json](./343759-the-foreigner.json) |
 | The Forest Adventurer | 221704 | [221704-the-forest-adventurer.json](./221704-the-forest-adventurer.json) |
 | The Forest Below | 100588 | [100588-the-forest-below.json](./100588-the-forest-below.json) |
@@ -6664,6 +6668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Girlfriend From My Novel | 211727 | [211727-the-girlfriend-from-my-novel.json](./211727-the-girlfriend-from-my-novel.json) |
 | The Given | 257265 | [257265-the-given.json](./257265-the-given.json) |
 | The Glacial Strain | 293696 | [293696-the-glacial-strain.json](./293696-the-glacial-strain.json) |
+| The Gladhollow Nasties | 128272 | [128272-the-gladhollow-nasties.json](./128272-the-gladhollow-nasties.json) |
 | The Gladiator: Road of the Sword | 39853 | [39853-the-gladiator-road-of-the-sword.json](./39853-the-gladiator-road-of-the-sword.json) |
 | The Gladiators of Rome | 27619 | [27619-the-gladiators-of-rome.json](./27619-the-gladiators-of-rome.json) |
 | The Gladiators: Galactic Circus Games | 71740 | [71740-the-gladiators-galactic-circus-games.json](./71740-the-gladiators-galactic-circus-games.json) |
@@ -8977,6 +8982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Manhole: New and Enhanced | 73310 | [73310-the-manhole-new-and-enhanced.json](./73310-the-manhole-new-and-enhanced.json) |
 | The Mannequin | 179740 | [179740-the-mannequin.json](./179740-the-mannequin.json) |
 | The Manor | 356029 | [356029-the-manor.json](./356029-the-manor.json) |
+| The Manse on Soracca | 128283 | [128283-the-manse-on-soracca.json](./128283-the-manse-on-soracca.json) |
 | The Mansion | 106145 | [106145-the-mansion.json](./106145-the-mansion.json) |
 | The Mansion | 159683 | [159683-the-mansion.json](./159683-the-mansion.json) |
 | The Mansion of Hidden Souls | 45522 | [45522-the-mansion-of-hidden-souls.json](./45522-the-mansion-of-hidden-souls.json) |
@@ -9377,6 +9383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
 | The Nameless City | 303312 | [303312-the-nameless-city.json](./303312-the-nameless-city.json) |
+| The Nameless Mod | 128308 | [128308-the-nameless-mod.json](./128308-the-nameless-mod.json) |
 | The Nanny Affair | 313727 | [313727-the-nanny-affair.json](./313727-the-nanny-affair.json) |
 | The Nanny Affair 2 | 313728 | [313728-the-nanny-affair-2.json](./313728-the-nanny-affair-2.json) |
 | The Nanny Affair 3 | 313729 | [313729-the-nanny-affair-3.json](./313729-the-nanny-affair-3.json) |
@@ -10517,6 +10524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sarah Jane Adventures: Alien Alliance | 249264 | [249264-the-sarah-jane-adventures-alien-alliance.json](./249264-the-sarah-jane-adventures-alien-alliance.json) |
 | The Sarah Jane Adventures: Plant and Animal Habitats | 343939 | [343939-the-sarah-jane-adventures-plant-and-animal-habitats.json](./343939-the-sarah-jane-adventures-plant-and-animal-habitats.json) |
 | The Savage Hypnotist's Puppets | 213400 | [213400-the-savage-hypnotists-puppets.json](./213400-the-savage-hypnotists-puppets.json) |
+| The Savana | 128920 | [128920-the-savana.json](./128920-the-savana.json) |
 | The Savior From Above | 192643 | [192643-the-savior-from-above.json](./192643-the-savior-from-above.json) |
 | The Savior of Darkload | 231874 | [231874-the-savior-of-darkload.json](./231874-the-savior-of-darkload.json) |
 | The Savior of Salem | 109919 | [109919-the-savior-of-salem.json](./109919-the-savior-of-salem.json) |
@@ -17665,6 +17673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Fan of Destiny | 109893 | [109893-touhou-fan-of-destiny.json](./109893-touhou-fan-of-destiny.json) |
 | Touhou Fan-made Virtual Autography | 151683 | [151683-touhou-fan-made-virtual-autography.json](./151683-touhou-fan-made-virtual-autography.json) |
 | Touhou Fantasy | 387333 | [387333-touhou-fantasy.json](./387333-touhou-fantasy.json) |
+| Touhou Fantasy Day | 128261 | [128261-touhou-fantasy-day.json](./128261-touhou-fantasy-day.json) |
 | Touhou Fantasy Destination | 256332 | [256332-touhou-fantasy-destination.json](./256332-touhou-fantasy-destination.json) |
 | Touhou Female Fist Mutation | 296242 | [296242-touhou-female-fist-mutation.json](./296242-touhou-female-fist-mutation.json) |
 | Touhou Flower Fight | 301104 | [301104-touhou-flower-fight.json](./301104-touhou-flower-fight.json) |
@@ -20793,6 +20802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triumph | 184041 | [184041-triumph.json](./184041-triumph.json) |
 | TriumphInTheSkies | 126401 | [126401-triumphintheskies.json](./126401-triumphintheskies.json) |
 | Triumvora | 346200 | [346200-triumvora.json](./346200-triumvora.json) |
+| Triuna: The Seven | 128280 | [128280-triuna-the-seven.json](./128280-triuna-the-seven.json) |
 | Triuno Ascend | 398334 | [398334-triuno-ascend.json](./398334-triuno-ascend.json) |
 | Triversal | 143605 | [143605-triversal.json](./143605-triversal.json) |
 | Trivia | 110820 | [110820-trivia.json](./110820-trivia.json) |
