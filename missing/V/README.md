@@ -938,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venatio | 188073 | [188073-venatio.json](./188073-venatio.json) |
 | Venatrix | 267369 | [267369-venatrix.json](./267369-venatrix.json) |
 | Vendetta | 39526 | [39526-vendetta.json](./39526-vendetta.json) |
+| Vendetta | 91874 | [91874-vendetta.json](./91874-vendetta.json) |
 | Vendetta Forever | 313771 | [313771-vendetta-forever.json](./313771-vendetta-forever.json) |
 | Vendetta Online | 2450 | [2450-vendetta-online.json](./2450-vendetta-online.json) |
 | Vendetta: Curse of Raven's Cry - Deluxe Edition | 53875 | [53875-vendetta-curse-of-ravens-cry-deluxe-edition.json](./53875-vendetta-curse-of-ravens-cry-deluxe-edition.json) |
@@ -2853,6 +2854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vulcan 3055 | 110331 | [110331-vulcan-3055.json](./110331-vulcan-3055.json) |
 | Vulcan Sacrifice | 53880 | [53880-vulcan-sacrifice.json](./53880-vulcan-sacrifice.json) |
 | Vulcan Tower Defence | 234759 | [234759-vulcan-tower-defence.json](./234759-vulcan-tower-defence.json) |
+| Vulcanus | 91843 | [91843-vulcanus.json](./91843-vulcanus.json) |
 | Vulcard | 351715 | [351715-vulcard.json](./351715-vulcard.json) |
 | Vulgord's Tower | 151292 | [151292-vulgords-tower.json](./151292-vulgords-tower.json) |
 | Vulgus | 25886 | [25886-vulgus.json](./25886-vulgus.json) |
