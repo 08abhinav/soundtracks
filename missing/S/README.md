@@ -6023,6 +6023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot the Buuuuuuugs | 214194 | [214194-shoot-the-buuuuuuugs.json](./214194-shoot-the-buuuuuuugs.json) |
 | Shoot the Robots VR | 278998 | [278998-shoot-the-robots-vr.json](./278998-shoot-the-robots-vr.json) |
 | Shoot the Rocks | 28768 | [28768-shoot-the-rocks.json](./28768-shoot-the-rocks.json) |
+| Shoot The Zombirds | 101411 | [101411-shoot-the-zombirds.json](./101411-shoot-the-zombirds.json) |
 | Shoot the Zombirds VR | 115698 | [115698-shoot-the-zombirds-vr.json](./115698-shoot-the-zombirds-vr.json) |
 | Shoot Them | 126559 | [126559-shoot-them.json](./126559-shoot-them.json) |
 | Shoot Them 2 | 143946 | [143946-shoot-them-2.json](./143946-shoot-them-2.json) |
@@ -8797,6 +8798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slemmings | 184383 | [184383-slemmings.json](./184383-slemmings.json) |
 | Slender Hentai Edition | 173814 | [173814-slender-hentai-edition.json](./173814-slender-hentai-edition.json) |
 | Slender Man Origins 2: House of Slender | 223626 | [223626-slender-man-origins-2-house-of-slender.json](./223626-slender-man-origins-2-house-of-slender.json) |
+| Slender Man Origins 3: Abandoned School | 101428 | [101428-slender-man-origins-3-abandoned-school.json](./101428-slender-man-origins-3-abandoned-school.json) |
 | Slender Man Retro | 356683 | [356683-slender-man-retro.json](./356683-slender-man-retro.json) |
 | Slender Man: Chapter 1 - Alone | 63821 | [63821-slender-man-chapter-1-alone.json](./63821-slender-man-chapter-1-alone.json) |
 | Slender Man: Chapter 3 - Dreams | 59787 | [59787-slender-man-chapter-3-dreams.json](./59787-slender-man-chapter-3-dreams.json) |
@@ -13580,6 +13582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceVenture | 63497 | [63497-spaceventure.json](./63497-spaceventure.json) |
 | SpaceVibes | 129120 | [129120-spacevibes.json](./129120-spacevibes.json) |
 | Spacewar | 181938 | [181938-spacewar.json](./181938-spacewar.json) |
+| SpacewAR Uprising | 101415 | [101415-spacewar-uprising.json](./101415-spacewar-uprising.json) |
 | Spaceward Ho! | 47296 | [47296-spaceward-ho.json](./47296-spaceward-ho.json) |
 | Spacewars: Interstellar Empire | 57758 | [57758-spacewars-interstellar-empire.json](./57758-spacewars-interstellar-empire.json) |
 | Spacewind The Zeppelin | 292587 | [292587-spacewind-the-zeppelin.json](./292587-spacewind-the-zeppelin.json) |
@@ -17125,6 +17128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Static Dread: The Submarine | 376689 | [376689-static-dread-the-submarine.json](./376689-static-dread-the-submarine.json) |
 | Static Hour | 415918 | [415918-static-hour.json](./415918-static-hour.json) |
 | Static Shift Racing | 231894 | [231894-static-shift-racing.json](./231894-static-shift-racing.json) |
+| Static Shock | 101455 | [101455-static-shock.json](./101455-static-shock.json) |
 | Static Signal | 375824 | [375824-static-signal.json](./375824-static-signal.json) |
 | Static Sky: And Yet It | 341159 | [341159-static-sky-and-yet-it.json](./341159-static-sky-and-yet-it.json) |
 | Static-End | 178028 | [178028-static-end.json](./178028-static-end.json) |
@@ -19928,6 +19932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Stars 2012 | 20233 | [20233-summer-stars-2012.json](./20233-summer-stars-2012.json) |
 | Summer Tri-Peaks Solitaire | 319300 | [319300-summer-tri-peaks-solitaire.json](./319300-summer-tri-peaks-solitaire.json) |
 | Summer Trip Cruise | 212823 | [212823-summer-trip-cruise.json](./212823-summer-trip-cruise.json) |
+| Summer Vacation | 101438 | [101438-summer-vacation.json](./101438-summer-vacation.json) |
 | Summer Vacation | 221405 | [221405-summer-vacation.json](./221405-summer-vacation.json) |
 | Summer Valley Hike | 255267 | [255267-summer-valley-hike.json](./255267-summer-valley-hike.json) |
 | Summer Village | 236513 | [236513-summer-village.json](./236513-summer-village.json) |
