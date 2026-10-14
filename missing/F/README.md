@@ -2179,7 +2179,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Empire of Dirt: Made in Heaven | 382874 | [382874-fate-empire-of-dirt-made-in-heaven.json](./382874-fate-empire-of-dirt-made-in-heaven.json) |
 | Fate/Extella Link | 55137 | [55137-fate-extella-link.json](./55137-fate-extella-link.json) |
 | Fate/Extella Link: Digital Deluxe Edition | 119067 | [119067-fate-extella-link-digital-deluxe-edition.json](./119067-fate-extella-link-digital-deluxe-edition.json) |
+| Fate/Extella Link: Emperor of Paladins Edition | 112109 | [112109-fate-extella-link-emperor-of-paladins-edition.json](./112109-fate-extella-link-emperor-of-paladins-edition.json) |
 | Fate/Extella Link: Fleeting Glory - Limited Edition | 136294 | [136294-fate-extella-link-fleeting-glory-limited-edition.json](./136294-fate-extella-link-fleeting-glory-limited-edition.json) |
+| Fate/Extella Link: Joyeuse Edition | 112108 | [112108-fate-extella-link-joyeuse-edition.json](./112108-fate-extella-link-joyeuse-edition.json) |
 | Fate/Extella Link: Premium Edition | 136766 | [136766-fate-extella-link-premium-edition.json](./136766-fate-extella-link-premium-edition.json) |
 | Fate/Extella: Celebration Box | 140007 | [140007-fate-extella-celebration-box.json](./140007-fate-extella-celebration-box.json) |
 | Fate/Extella: Regalia Box | 212318 | [212318-fate-extella-regalia-box.json](./212318-fate-extella-regalia-box.json) |
@@ -3449,6 +3451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XII: Collector's Edition | 41851 | [41851-final-fantasy-xii-collectors-edition.json](./41851-final-fantasy-xii-collectors-edition.json) |
 | Final Fantasy XII: The Zodiac Age - Collector's Edition | 136364 | [136364-final-fantasy-xii-the-zodiac-age-collectors-edition.json](./136364-final-fantasy-xii-the-zodiac-age-collectors-edition.json) |
 | Final Fantasy XII: The Zodiac Age - Limited Steelbook Edition | 136173 | [136173-final-fantasy-xii-the-zodiac-age-limited-steelbook-edition.json](./136173-final-fantasy-xii-the-zodiac-age-limited-steelbook-edition.json) |
+| Final Fantasy XIII Trilogy | 112093 | [112093-final-fantasy-xiii-trilogy.json](./112093-final-fantasy-xiii-trilogy.json) |
 | Final Fantasy XIII-2: Limited Collector's Edition | 41845 | [41845-final-fantasy-xiii-2-limited-collectors-edition.json](./41845-final-fantasy-xiii-2-limited-collectors-edition.json) |
 | Final Fantasy XIII-2: Requiem of the Goddess | 294213 | [294213-final-fantasy-xiii-2-requiem-of-the-goddess.json](./294213-final-fantasy-xiii-2-requiem-of-the-goddess.json) |
 | Final Fantasy XIII-2: Steelbook Edition | 41843 | [41843-final-fantasy-xiii-2-steelbook-edition.json](./41843-final-fantasy-xiii-2-steelbook-edition.json) |
@@ -8869,6 +8872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fungal Colony Sim 2 | 365139 | [365139-fungal-colony-sim-2.json](./365139-fungal-colony-sim-2.json) |
 | Fungal Colony Simulator | 257690 | [257690-fungal-colony-simulator.json](./257690-fungal-colony-simulator.json) |
 | FungEye | 291235 | [291235-fungeye.json](./291235-fungeye.json) |
+| Funghi Explosion | 112100 | [112100-funghi-explosion.json](./112100-funghi-explosion.json) |
 | Fungi Crossing | 333157 | [333157-fungi-crossing.json](./333157-fungi-crossing.json) |
 | Fungi Fantastico | 333013 | [333013-fungi-fantastico.json](./333013-fungi-fantastico.json) |
 | Fungiman | 207562 | [207562-fungiman.json](./207562-fungiman.json) |
