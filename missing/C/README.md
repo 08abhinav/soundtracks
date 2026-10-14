@@ -1468,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Master | 284294 | [284294-card-master.json](./284294-card-master.json) |
 | Card Miner | 295650 | [295650-card-miner.json](./295650-card-miner.json) |
 | Card Nova Hyper | 236193 | [236193-card-nova-hyper.json](./236193-card-nova-hyper.json) |
+| Card of Darkness | 122759 | [122759-card-of-darkness.json](./122759-card-of-darkness.json) |
 | Card Party | 49520 | [49520-card-party.json](./49520-card-party.json) |
 | Card Princess | 335330 | [335330-card-princess.json](./335330-card-princess.json) |
 | Card Quest | 301976 | [301976-card-quest.json](./301976-card-quest.json) |
@@ -2201,6 +2202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Karthenfrost | 308385 | [308385-castle-karthenfrost.json](./308385-castle-karthenfrost.json) |
 | Castle Kellmore | 342814 | [342814-castle-kellmore.json](./342814-castle-kellmore.json) |
 | Castle Kingdom Wars | 238490 | [238490-castle-kingdom-wars.json](./238490-castle-kingdom-wars.json) |
+| Castle Kong | 122786 | [122786-castle-kong.json](./122786-castle-kong.json) |
 | Castle Master TD | 270165 | [270165-castle-master-td.json](./270165-castle-master-td.json) |
 | Castle Nevermore | 274154 | [274154-castle-nevermore.json](./274154-castle-nevermore.json) |
 | Castle of Alchemists | 191808 | [191808-castle-of-alchemists.json](./191808-castle-of-alchemists.json) |
@@ -3122,6 +3124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavern | 272856 | [272856-cavern.json](./272856-cavern.json) |
 | Cavern Adventurers | 291983 | [291983-cavern-adventurers.json](./291983-cavern-adventurers.json) |
 | Cavern Commandos | 171458 | [171458-cavern-commandos.json](./171458-cavern-commandos.json) |
+| Cavern Craze VR | 123318 | [123318-cavern-craze-vr.json](./123318-cavern-craze-vr.json) |
 | Cavern Creatures | 25602 | [25602-cavern-creatures.json](./25602-cavern-creatures.json) |
 | Cavern Crusader | 73303 | [73303-cavern-crusader.json](./73303-cavern-crusader.json) |
 | Cavern of Dreams | 219095 | [219095-cavern-of-dreams.json](./219095-cavern-of-dreams.json) |
@@ -4690,6 +4693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children of Orc | 30920 | [30920-children-of-orc.json](./30920-children-of-orc.json) |
 | Children of Saturn | 312134 | [312134-children-of-saturn.json](./312134-children-of-saturn.json) |
 | Children of Silentown | 121016 | [121016-children-of-silentown.json](./121016-children-of-silentown.json) |
+| Children of the Eclipse | 123912 | [123912-children-of-the-eclipse.json](./123912-children-of-the-eclipse.json) |
 | Children of the Flower | 316684 | [316684-children-of-the-flower.json](./316684-children-of-the-flower.json) |
 | Children of the Forest | 271645 | [271645-children-of-the-forest.json](./271645-children-of-the-forest.json) |
 | Children of the Galaxy | 30304 | [30304-children-of-the-galaxy.json](./30304-children-of-the-galaxy.json) |
@@ -12047,6 +12051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crymachina: Trinity Set | 312115 | [312115-crymachina-trinity-set.json](./312115-crymachina-trinity-set.json) |
 | Cryo | 374688 | [374688-cryo.json](./374688-cryo.json) |
 | Cryodeath VR | 235666 | [235666-cryodeath-vr.json](./235666-cryodeath-vr.json) |
+| Cryogear | 123302 | [123302-cryogear.json](./123302-cryogear.json) |
 | Cryogenesis | 217413 | [217413-cryogenesis.json](./217413-cryogenesis.json) |
 | Cryogenics | 221846 | [221846-cryogenics.json](./221846-cryogenics.json) |
 | Cryohazard | 219151 | [219151-cryohazard.json](./219151-cryohazard.json) |
