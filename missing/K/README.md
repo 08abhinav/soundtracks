@@ -964,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kebab Simulator: Taste Revolution | 336372 | [336372-kebab-simulator-taste-revolution.json](./336372-kebab-simulator-taste-revolution.json) |
 | Kebabstar | 295307 | [295307-kebabstar.json](./295307-kebabstar.json) |
 | Keda | 178509 | [178509-keda.json](./178509-keda.json) |
+| Kedama no Gonjiro | 112092 | [112092-kedama-no-gonjiro.json](./112092-kedama-no-gonjiro.json) |
 | Keek | 211679 | [211679-keek.json](./211679-keek.json) |
 | KeelOver | 399140 | [399140-keelover.json](./399140-keelover.json) |
 | Keep Combo | 255052 | [255052-keep-combo.json](./255052-keep-combo.json) |
