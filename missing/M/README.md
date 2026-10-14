@@ -4878,6 +4878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meeple Fantasy 6 | 393098 | [393098-meeple-fantasy-6.json](./393098-meeple-fantasy-6.json) |
 | Meeple Incremental | 404252 | [404252-meeple-incremental.json](./404252-meeple-incremental.json) |
 | Meeple Jump | 244292 | [244292-meeple-jump.json](./244292-meeple-jump.json) |
+| Meer's Occupation | 82690 | [82690-meers-occupation.json](./82690-meers-occupation.json) |
 | Meer's: Escape | 263030 | [263030-meers-escape.json](./263030-meers-escape.json) |
 | Meeri Bliss | 369213 | [369213-meeri-bliss.json](./369213-meeri-bliss.json) |
 | Meerkats | 91535 | [91535-meerkats.json](./91535-meerkats.json) |
