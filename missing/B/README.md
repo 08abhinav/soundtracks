@@ -1799,6 +1799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bargain Toader | 230935 | [230935-bargain-toader.json](./230935-bargain-toader.json) |
 | Bargain Wargame | 273668 | [273668-bargain-wargame.json](./273668-bargain-wargame.json) |
 | Barge | 380000 | [380000-barge.json](./380000-barge.json) |
+| Barge | 79747 | [79747-barge.json](./79747-barge.json) |
 | Bargin to Win | 213438 | [213438-bargin-to-win.json](./213438-bargin-to-win.json) |
 | BarGirls | 400463 | [400463-bargirls.json](./400463-bargirls.json) |
 | Bargue | 203903 | [203903-bargue.json](./203903-bargue.json) |
