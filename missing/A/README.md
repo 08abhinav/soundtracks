@@ -2030,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adorimon: Adventure of Monster | 245341 | [245341-adorimon-adventure-of-monster.json](./245341-adorimon-adventure-of-monster.json) |
 | Adorimon: Arena of Ancients | 283891 | [283891-adorimon-arena-of-ancients.json](./283891-adorimon-arena-of-ancients.json) |
 | Adoventoro Tcheco | 321779 | [321779-adoventoro-tcheco.json](./321779-adoventoro-tcheco.json) |
+| ADR-Labelling Game | 96655 | [96655-adr-labelling-game.json](./96655-adr-labelling-game.json) |
 | Adr1ft | 8654 | [8654-adr1ft.json](./8654-adr1ft.json) |
 | Adrena Line | 134342 | [134342-adrena-line.json](./134342-adrena-line.json) |
 | Adrenalin | 65270 | [65270-adrenalin.json](./65270-adrenalin.json) |
@@ -3833,6 +3834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aladdin Pinball | 127641 | [127641-aladdin-pinball.json](./127641-aladdin-pinball.json) |
 | Aladdin: Hidden Objects Game | 132580 | [132580-aladdin-hidden-objects-game.json](./132580-aladdin-hidden-objects-game.json) |
 | Aladdin's Magic Lamp | 14235 | [14235-aladdins-magic-lamp.json](./14235-aladdins-magic-lamp.json) |
+| Aladin & the Enchanted Lamp | 96636 | [96636-aladin-and-the-enchanted-lamp.json](./96636-aladin-and-the-enchanted-lamp.json) |
 | Aladin & the Enchanted Lamp: Extended Edition | 416859 | [416859-aladin-and-the-enchanted-lamp-extended-edition.json](./416859-aladin-and-the-enchanted-lamp-extended-edition.json) |
 | Alakenisland | 195161 | [195161-alakenisland.json](./195161-alakenisland.json) |
 | ALaLa: Wake Mi Up! | 36424 | [36424-alala-wake-mi-up.json](./36424-alala-wake-mi-up.json) |
@@ -8484,6 +8486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archer: Danger Phone | 138558 | [138558-archer-danger-phone.json](./138558-archer-danger-phone.json) |
 | Archer: Sheshou | 246990 | [246990-archer-sheshou.json](./246990-archer-sheshou.json) |
 | Archer's Adventure | 165706 | [165706-archers-adventure.json](./165706-archers-adventure.json) |
+| Archer's story | 96644 | [96644-archers-story.json](./96644-archers-story.json) |
 | ArcherCat | 200020 | [200020-archercat.json](./200020-archercat.json) |
 | Archerio | 391860 | [391860-archerio.json](./391860-archerio.json) |
 | Archero 2 | 319370 | [319370-archero-2.json](./319370-archero-2.json) |
@@ -10828,6 +10831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athenian Acropolis | 74445 | [74445-athenian-acropolis.json](./74445-athenian-acropolis.json) |
 | Athenian Rhapsody: Thunder Goober's Personality Dungeon | 239772 | [239772-athenian-rhapsody-thunder-goobers-personality-dungeon.json](./239772-athenian-rhapsody-thunder-goobers-personality-dungeon.json) |
 | Athenor | 15849 | [15849-athenor.json](./15849-athenor.json) |
+| Ather: Chapter 1 | 96649 | [96649-ather-chapter-1.json](./96649-ather-chapter-1.json) |
 | Athletic Director Simulator 4000 | 381779 | [381779-athletic-director-simulator-4000.json](./381779-athletic-director-simulator-4000.json) |
 | Athletic Land | 55859 | [55859-athletic-land.json](./55859-athletic-land.json) |
 | Athletic World | 9104 | [9104-athletic-world.json](./9104-athletic-world.json) |
