@@ -1777,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5-Star Taxi | 415875 | [415875-5-star-taxi.json](./415875-5-star-taxi.json) |
 | 5-Step Steve | 251585 | [251585-5-step-steve.json](./251585-5-step-steve.json) |
 | 5:48AM | 277038 | [277038-5-48am.json](./277038-5-48am.json) |
+| 5.84 Wing | 115517 | [115517-5-84-wing.json](./115517-5-84-wing.json) |
 | 50 | 186671 | [186671-50.json](./186671-50.json) |
 | 50 Cents Please | 367504 | [367504-50-cents-please.json](./367504-50-cents-please.json) |
 | 50 Days to Survive | 239100 | [239100-50-days-to-survive.json](./239100-50-days-to-survive.json) |
