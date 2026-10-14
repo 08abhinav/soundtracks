@@ -1973,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HB Arcade Cards | 80583 | [80583-hb-arcade-cards.json](./80583-hb-arcade-cards.json) |
 | HB Arcade Disc Golf | 84527 | [84527-hb-arcade-disc-golf.json](./84527-hb-arcade-disc-golf.json) |
 | HB2 Plus | 91349 | [91349-hb2-plus.json](./91349-hb2-plus.json) |
+| HC-Hexagon | 115505 | [115505-hc-hexagon.json](./115505-hc-hexagon.json) |
 | HDoom | 136850 | [136850-hdoom.json](./136850-hdoom.json) |
 | HDOS | 373557 | [373557-hdos.json](./373557-hdos.json) |
 | He | 286066 | [286066-he.json](./286066-he.json) |
@@ -8325,6 +8326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperFatal | 303553 | [303553-hyperfatal.json](./303553-hyperfatal.json) |
 | HyperFeat | 152761 | [152761-hyperfeat.json](./152761-hyperfeat.json) |
 | Hyperfield | 295877 | [295877-hyperfield.json](./295877-hyperfield.json) |
+| Hyperfight | 115513 | [115513-hyperfight.json](./115513-hyperfight.json) |
 | Hyperfight 2 | 340496 | [340496-hyperfight-2.json](./340496-hyperfight-2.json) |
 | HyperFleet | 168683 | [168683-hyperfleet.json](./168683-hyperfleet.json) |
 | Hyperflex Ultra | 355562 | [355562-hyperflex-ultra.json](./355562-hyperflex-ultra.json) |
