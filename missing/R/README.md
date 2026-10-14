@@ -1081,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Shift | 399086 | [399086-rally-shift.json](./399086-rally-shift.json) |
 | Rally Shift | 93356 | [93356-rally-shift.json](./93356-rally-shift.json) |
 | Rally Speedway | 47213 | [47213-rally-speedway.json](./47213-rally-speedway.json) |
+| Rally Sport | 113446 | [113446-rally-sport.json](./113446-rally-sport.json) |
 | Rally TS | 406194 | [406194-rally-ts.json](./406194-rally-ts.json) |
 | Rally-X | 18620 | [18620-rally-x.json](./18620-rally-x.json) |
 | Rally-X Rumble | 62035 | [62035-rally-x-rumble.json](./62035-rally-x-rumble.json) |
@@ -1695,6 +1696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC: Car Maniacs | 311130 | [311130-rc-car-maniacs.json](./311130-rc-car-maniacs.json) |
 | RCPG | 220799 | [220799-rcpg.json](./220799-rcpg.json) |
 | RCRacer VR | 112463 | [112463-rcracer-vr.json](./112463-rcracer-vr.json) |
+| RD's Adventure Mini Golf | 113569 | [113569-rds-adventure-mini-golf.json](./113569-rds-adventure-mini-golf.json) |
 | RDF 1985 | 23838 | [23838-rdf-1985.json](./23838-rdf-1985.json) |
 | RDP-Files_ | 265673 | [265673-rdp-files.json](./265673-rdp-files.json) |
 | RDS: The Official Drift Videogame - Premium Cars Pack #1 | 226977 | [226977-rds-the-official-drift-videogame-premium-cars-pack-1.json](./226977-rds-the-official-drift-videogame-premium-cars-pack-1.json) |
@@ -2900,6 +2902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Referee Life Simulator 2026 | 373192 | [373192-referee-life-simulator-2026.json](./373192-referee-life-simulator-2026.json) |
 | Reficul | 74504 | [74504-reficul.json](./74504-reficul.json) |
 | Refidenptio | 258988 | [258988-refidenptio.json](./258988-refidenptio.json) |
+| Refill your Roguelike | 113523 | [113523-refill-your-roguelike.json](./113523-refill-your-roguelike.json) |
 | Refind Self: The Personality Test Game | 265960 | [265960-refind-self-the-personality-test-game.json](./265960-refind-self-the-personality-test-game.json) |
 | Refinery | 225633 | [225633-refinery.json](./225633-refinery.json) |
 | Reflec Beat Volzza | 369138 | [369138-reflec-beat-volzza.json](./369138-reflec-beat-volzza.json) |
@@ -4391,6 +4394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolutionary Quest | 292594 | [292594-revolutionary-quest.json](./292594-revolutionary-quest.json) |
 | Revolve | 26722 | [26722-revolve.json](./26722-revolve.json) |
 | Revolve | 377200 | [377200-revolve.json](./377200-revolve.json) |
+| Revolve8 | 113553 | [113553-revolve8.json](./113553-revolve8.json) |
 | Revolver | 336748 | [336748-revolver.json](./336748-revolver.json) |
 | Revolver and Co | 152759 | [152759-revolver-and-co.json](./152759-revolver-and-co.json) |
 | Revolver Gambit | 364986 | [364986-revolver-gambit.json](./364986-revolver-gambit.json) |
@@ -4635,6 +4639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rick and Morty: Virtual Rick-ality | 20459 | [20459-rick-and-morty-virtual-rick-ality.json](./20459-rick-and-morty-virtual-rick-ality.json) |
 | Rick Dangerous | 12202 | [12202-rick-dangerous.json](./12202-rick-dangerous.json) |
 | Rick Dangerous 2 | 12203 | [12203-rick-dangerous-2.json](./12203-rick-dangerous-2.json) |
+| Rick Henderson | 113529 | [113529-rick-henderson.json](./113529-rick-henderson.json) |
 | Rick Ribbit in Ark Noodle's Math Challenge | 62688 | [62688-rick-ribbit-in-ark-noodles-math-challenge.json](./62688-rick-ribbit-in-ark-noodles-math-challenge.json) |
 | Rick Ribbit: Adventures in Early Learning | 62689 | [62689-rick-ribbit-adventures-in-early-learning.json](./62689-rick-ribbit-adventures-in-early-learning.json) |
 | Rick Shaw's Radical Rickshaw | 180685 | [180685-rick-shaws-radical-rickshaw.json](./180685-rick-shaws-radical-rickshaw.json) |
