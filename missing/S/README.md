@@ -5988,6 +5988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot 'n' Smash | 340374 | [340374-shoot-n-smash.json](./340374-shoot-n-smash.json) |
 | Shoot & Destroy | 318527 | [318527-shoot-and-destroy.json](./318527-shoot-and-destroy.json) |
 | Shoot & Destroy X | 326169 | [326169-shoot-and-destroy-x.json](./326169-shoot-and-destroy-x.json) |
+| Shoot 2048 - reinvention of the classic puzzle | 102670 | [102670-shoot-2048-reinvention-of-the-classic-puzzle.json](./102670-shoot-2048-reinvention-of-the-classic-puzzle.json) |
 | Shoot 8 Ball: Billiards Pool8 | 231902 | [231902-shoot-8-ball-billiards-pool8.json](./231902-shoot-8-ball-billiards-pool8.json) |
 | Shoot Away Pro | 326742 | [326742-shoot-away-pro.json](./326742-shoot-away-pro.json) |
 | Shoot Ball Fruit Splash | 105895 | [105895-shoot-ball-fruit-splash.json](./105895-shoot-ball-fruit-splash.json) |
@@ -7409,6 +7410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simply Rotate | 285482 | [285482-simply-rotate.json](./285482-simply-rotate.json) |
 | Simply Snakes | 300833 | [300833-simply-snakes.json](./300833-simply-snakes.json) |
 | Simply Sudoku | 266241 | [266241-simply-sudoku.json](./266241-simply-sudoku.json) |
+| Simpsons Treehouse of horror | 102715 | [102715-simpsons-treehouse-of-horror.json](./102715-simpsons-treehouse-of-horror.json) |
 | SimRail: The Railway Simulator | 164278 | [164278-simrail-the-railway-simulator.json](./164278-simrail-the-railway-simulator.json) |
 | SimRail: The Railway Simulator - Cargo Pack | 295114 | [295114-simrail-the-railway-simulator-cargo-pack.json](./295114-simrail-the-railway-simulator-cargo-pack.json) |
 | SimRefinery | 72604 | [72604-simrefinery.json](./72604-simrefinery.json) |
@@ -9850,6 +9852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakes Subsonic | 133871 | [133871-snakes-subsonic.json](./133871-snakes-subsonic.json) |
 | Snakes with Fists! | 343271 | [343271-snakes-with-fists.json](./343271-snakes-with-fists.json) |
 | SnakEscape | 34278 | [34278-snakescape.json](./34278-snakescape.json) |
+| SnakeScout | 102675 | [102675-snakescout.json](./102675-snakescout.json) |
 | Snakest | 109773 | [109773-snakest.json](./109773-snakest.json) |
 | SnakeTris | 291164 | [291164-snaketris.json](./291164-snaketris.json) |
 | Snaky Cat | 337093 | [337093-snaky-cat.json](./337093-snaky-cat.json) |
@@ -22810,6 +22813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Zone: Craft, Build & Grow | 336395 | [336395-survival-zone-craft-build-and-grow.json](./336395-survival-zone-craft-build-and-grow.json) |
 | Survival: Fountain of Youth - Captain's Edition | 317209 | [317209-survival-fountain-of-youth-captains-edition.json](./317209-survival-fountain-of-youth-captains-edition.json) |
 | Survival: Fountain of Youth - Sea Wolf Pack | 298249 | [298249-survival-fountain-of-youth-sea-wolf-pack.json](./298249-survival-fountain-of-youth-sea-wolf-pack.json) |
+| Survival: Man vs. Wild - Island Escape | 102685 | [102685-survival-man-vs-wild-island-escape.json](./102685-survival-man-vs-wild-island-escape.json) |
 | Survival: Revelation | 124225 | [124225-survival-revelation.json](./124225-survival-revelation.json) |
 | Survival: The Ultimate Challenge | 51243 | [51243-survival-the-ultimate-challenge.json](./51243-survival-the-ultimate-challenge.json) |
 | Survival: Wicked Forest | 102626 | [102626-survival-wicked-forest.json](./102626-survival-wicked-forest.json) |
