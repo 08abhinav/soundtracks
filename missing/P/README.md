@@ -3363,6 +3363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peur Sur Amityville | 174635 | [174635-peur-sur-amityville.json](./174635-peur-sur-amityville.json) |
 | Pew Pew Crew! | 265309 | [265309-pew-pew-crew.json](./265309-pew-pew-crew.json) |
 | Pew Pew Gaem 3 | 326260 | [326260-pew-pew-gaem-3.json](./326260-pew-pew-gaem-3.json) |
+| Pew Pew Planet | 129479 | [129479-pew-pew-planet.json](./129479-pew-pew-planet.json) |
 | Pew Pew Pod | 65252 | [65252-pew-pew-pod.json](./65252-pew-pew-pod.json) |
 | Pew Pew Squad | 273440 | [273440-pew-pew-squad.json](./273440-pew-pew-squad.json) |
 | Pew Pew Zombies | 88300 | [88300-pew-pew-zombies.json](./88300-pew-pew-zombies.json) |
@@ -9007,6 +9008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerBeatsVR | 113557 | [113557-powerbeatsvr.json](./113557-powerbeatsvr.json) |
 | Powerboat Challenge | 97985 | [97985-powerboat-challenge.json](./97985-powerboat-challenge.json) |
 | PowerBoat Mega Ramp Racing | 105829 | [105829-powerboat-mega-ramp-racing.json](./105829-powerboat-mega-ramp-racing.json) |
+| Powerboat Racing | 129509 | [129509-powerboat-racing.json](./129509-powerboat-racing.json) |
 | PowerBots Builders | 222812 | [222812-powerbots-builders.json](./222812-powerbots-builders.json) |
 | PowerBots Retro | 143566 | [143566-powerbots-retro.json](./143566-powerbots-retro.json) |
 | PowerCharge | 349398 | [349398-powercharge.json](./349398-powercharge.json) |
