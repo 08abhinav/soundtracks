@@ -1026,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talesshop Puzzle: Jugeobeorin Byeorui Neokduri Deussi | 167859 | [167859-talesshop-puzzle-jugeobeorin-byeorui-neokduri-deussi.json](./167859-talesshop-puzzle-jugeobeorin-byeorui-neokduri-deussi.json) |
 | Talesshop Puzzle: Jugeobeorin Byeorui Neokduri Dummy | 167858 | [167858-talesshop-puzzle-jugeobeorin-byeorui-neokduri-dummy.json](./167858-talesshop-puzzle-jugeobeorin-byeorui-neokduri-dummy.json) |
 | TalesWeaver | 57117 | [57117-talesweaver.json](./57117-talesweaver.json) |
+| Talesworth Adventure: The Lost Artifacts | 111550 | [111550-talesworth-adventure-the-lost-artifacts.json](./111550-talesworth-adventure-the-lost-artifacts.json) |
 | Talewarden: Riders of the New Day | 361248 | [361248-talewarden-riders-of-the-new-day.json](./361248-talewarden-riders-of-the-new-day.json) |
 | Talewind | 25307 | [25307-talewind.json](./25307-talewind.json) |
 | Tali: A Roman Empire Game of Chance | 344489 | [344489-tali-a-roman-empire-game-of-chance.json](./344489-tali-a-roman-empire-game-of-chance.json) |
@@ -2504,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TekSkeleton | 287242 | [287242-tekskeleton.json](./287242-tekskeleton.json) |
 | Tektonik | 63234 | [63234-tektonik.json](./63234-tektonik.json) |
 | Teku | 274499 | [274499-teku.json](./274499-teku.json) |
+| Teku-Teku Teku-Teku | 111440 | [111440-teku-teku-teku-teku.json](./111440-teku-teku-teku-teku.json) |
 | Tekuteku Pikmin | 232901 | [232901-tekuteku-pikmin.json](./232901-tekuteku-pikmin.json) |
 | TelAIphone | 310508 | [310508-telaiphone.json](./310508-telaiphone.json) |
 | Télé 7 Jeux: Mots Fléchés | 268415 | [268415-tele-7-jeux-mots-fleches.json](./268415-tele-7-jeux-mots-fleches.json) |
@@ -2642,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple Run VR | 358824 | [358824-temple-run-vr.json](./358824-temple-run-vr.json) |
 | Temple Run: Oz | 63613 | [63613-temple-run-oz.json](./63613-temple-run-oz.json) |
 | Temple Run: Treasure Hunters | 233503 | [233503-temple-run-treasure-hunters.json](./233503-temple-run-treasure-hunters.json) |
+| Temple Scramble | 111525 | [111525-temple-scramble.json](./111525-temple-scramble.json) |
 | Temple with Traps | 167166 | [167166-temple-with-traps.json](./167166-temple-with-traps.json) |
 | Temple2 | 268921 | [268921-temple2.json](./268921-temple2.json) |
 | TempleFight | 148113 | [148113-templefight.json](./148113-templefight.json) |
@@ -2815,6 +2818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Esports | 280871 | [280871-tennis-esports.json](./280871-tennis-esports.json) |
 | Tennis Exciting | 247005 | [247005-tennis-exciting.json](./247005-tennis-exciting.json) |
 | Tennis for Two | 6763 | [6763-tennis-for-two.json](./6763-tennis-for-two.json) |
+| Tennis Game | 111551 | [111551-tennis-game.json](./111551-tennis-game.json) |
 | Tennis Game in Roaring ’20s | 248064 | [248064-tennis-game-in-roaring-20s.json](./248064-tennis-game-in-roaring-20s.json) |
 | Tennis Girl | 292241 | [292241-tennis-girl.json](./292241-tennis-girl.json) |
 | Tennis Go | 125750 | [125750-tennis-go.json](./125750-tennis-go.json) |
@@ -9082,6 +9086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Massive Iceberg Schoolhouse | 340004 | [340004-the-massive-iceberg-schoolhouse.json](./340004-the-massive-iceberg-schoolhouse.json) |
 | The Master | 70106 | [70106-the-master.json](./70106-the-master.json) |
 | The Master | 81625 | [81625-the-master.json](./81625-the-master.json) |
+| The Master Club | 111524 | [111524-the-master-club.json](./111524-the-master-club.json) |
 | The Master of the Land | 362278 | [362278-the-master-of-the-land.json](./362278-the-master-of-the-land.json) |
 | The Master's Pupil | 211813 | [211813-the-masters-pupil.json](./211813-the-masters-pupil.json) |
 | The Masters of Kin | 40360 | [40360-the-masters-of-kin.json](./40360-the-masters-of-kin.json) |
@@ -11166,6 +11171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Skirmish | 282032 | [282032-the-skirmish.json](./282032-the-skirmish.json) |
 | The Skull Embroidery | 57479 | [57479-the-skull-embroidery.json](./57479-the-skull-embroidery.json) |
 | The Skullkid | 230259 | [230259-the-skullkid.json](./230259-the-skullkid.json) |
+| The Sky Climber | 111527 | [111527-the-sky-climber.json](./111527-the-sky-climber.json) |
 | The Sky Climber | 312631 | [312631-the-sky-climber.json](./312631-the-sky-climber.json) |
 | The Sky Crawlers: Innocent Aces | 5160 | [5160-the-sky-crawlers-innocent-aces.json](./5160-the-sky-crawlers-innocent-aces.json) |
 | The Sky House | 305341 | [305341-the-sky-house.json](./305341-the-sky-house.json) |
@@ -20966,6 +20972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivial PurTwitch | 396241 | [396241-trivial-purtwitch.json](./396241-trivial-purtwitch.json) |
 | Trivial Trivia | 246905 | [246905-trivial-trivia.json](./246905-trivial-trivia.json) |
 | Triviaverse | 256884 | [256884-triviaverse.json](./256884-triviaverse.json) |
+| Triwave | 111435 | [111435-triwave.json](./111435-triwave.json) |
 | Trix and the Horny Tower | 367016 | [367016-trix-and-the-horny-tower.json](./367016-trix-and-the-horny-tower.json) |
 | Trix: Witching World | 272233 | [272233-trix-witching-world.json](./272233-trix-witching-world.json) |
 | Trixology | 381231 | [381231-trixology.json](./381231-trixology.json) |
