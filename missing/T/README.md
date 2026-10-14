@@ -1284,6 +1284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangledeep: Legend of Shara | 117143 | [117143-tangledeep-legend-of-shara.json](./117143-tangledeep-legend-of-shara.json) |
 | Tanglewood | 104602 | [104602-tanglewood.json](./104602-tanglewood.json) |
 | Tango | 321121 | [321121-tango.json](./321121-tango.json) |
+| Tango 5 Reloaded: Grid Action Heroes | 105223 | [105223-tango-5-reloaded-grid-action-heroes.json](./105223-tango-5-reloaded-grid-action-heroes.json) |
 | Tango Fiesta | 9459 | [9459-tango-fiesta.json](./9459-tango-fiesta.json) |
 | Tango Race: Nou Training Kotoba Game | 208851 | [208851-tango-race-nou-training-kotoba-game.json](./208851-tango-race-nou-training-kotoba-game.json) |
 | Tango Survival: Omoshiroi Kotoba Game | 208852 | [208852-tango-survival-omoshiroi-kotoba-game.json](./208852-tango-survival-omoshiroi-kotoba-game.json) |
@@ -4838,6 +4839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chant | 152076 | [152076-the-chant.json](./152076-the-chant.json) |
 | The Chant: The Gloom Below | 266387 | [266387-the-chant-the-gloom-below.json](./266387-the-chant-the-gloom-below.json) |
 | The Chantry | 118698 | [118698-the-chantry.json](./118698-the-chantry.json) |
+| The Chaotic Workshop | 105154 | [105154-the-chaotic-workshop.json](./105154-the-chaotic-workshop.json) |
 | The Chaput's Baby | 217992 | [217992-the-chaputs-baby.json](./217992-the-chaputs-baby.json) |
 | The Charity Shop | 333942 | [333942-the-charity-shop.json](./333942-the-charity-shop.json) |
 | The Charm of Love | 157158 | [157158-the-charm-of-love.json](./157158-the-charm-of-love.json) |
@@ -6145,6 +6147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Facility | 34646 | [34646-the-facility.json](./34646-the-facility.json) |
 | The Facility | 422081 | [422081-the-facility.json](./422081-the-facility.json) |
 | The Factory Must Grow | 317295 | [317295-the-factory-must-grow.json](./317295-the-factory-must-grow.json) |
+| The Factory Must Survive | 105207 | [105207-the-factory-must-survive.json](./105207-the-factory-must-survive.json) |
 | The Fading of Nicole Wilson | 319711 | [319711-the-fading-of-nicole-wilson.json](./319711-the-fading-of-nicole-wilson.json) |
 | The Fae King Is My Roommate | 342076 | [342076-the-fae-king-is-my-roommate.json](./342076-the-fae-king-is-my-roommate.json) |
 | The Faery Tale Adventure | 12087 | [12087-the-faery-tale-adventure.json](./12087-the-faery-tale-adventure.json) |
@@ -14556,6 +14559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Striker: MP100 | 189723 | [189723-tiger-striker-mp100.json](./189723-tiger-striker-mp100.json) |
 | Tiger Tank | 160284 | [160284-tiger-tank.json](./160284-tiger-tank.json) |
 | Tiger Tank | 365706 | [365706-tiger-tank.json](./365706-tiger-tank.json) |
+| Tiger Tank 59 I | 105202 | [105202-tiger-tank-59-i.json](./105202-tiger-tank-59-i.json) |
 | Tiger Tank 59 I A-Gun MP013 | 160307 | [160307-tiger-tank-59-i-a-gun-mp013.json](./160307-tiger-tank-59-i-a-gun-mp013.json) |
 | Tiger Tank 59 I Air Strike | 119047 | [119047-tiger-tank-59-i-air-strike.json](./119047-tiger-tank-59-i-air-strike.json) |
 | Tiger Tank 59 I Battleship | 119672 | [119672-tiger-tank-59-i-battleship.json](./119672-tiger-tank-59-i-battleship.json) |
@@ -16217,6 +16221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Bridge | 348787 | [348787-to-the-bridge.json](./348787-to-the-bridge.json) |
 | To the Capital | 24476 | [24476-to-the-capital.json](./24476-to-the-capital.json) |
 | To the City of the Clouds | 83597 | [83597-to-the-city-of-the-clouds.json](./83597-to-the-city-of-the-clouds.json) |
+| To the Core | 105201 | [105201-to-the-core.json](./105201-to-the-core.json) |
 | To the Core | 261974 | [261974-to-the-core.json](./261974-to-the-core.json) |
 | To the Core | 307614 | [307614-to-the-core.json](./307614-to-the-core.json) |
 | To the Cosmos | 144227 | [144227-to-the-cosmos.json](./144227-to-the-cosmos.json) |
@@ -16382,6 +16387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tochi T.U.N.R | 251100 | [251100-tochi-t-u-n-r.json](./251100-tochi-t-u-n-r.json) |
 | Tocovix | 168707 | [168707-tocovix.json](./168707-tocovix.json) |
 | ToD Fragments: Special Fun | 237239 | [237239-tod-fragments-special-fun.json](./237239-tod-fragments-special-fun.json) |
+| Tod Stein | 105197 | [105197-tod-stein.json](./105197-tod-stein.json) |
 | Today I Die | 55978 | [55978-today-i-die.json](./55978-today-i-die.json) |
 | Today is my Birthday | 112266 | [112266-today-is-my-birthday.json](./112266-today-is-my-birthday.json) |
 | Today, I'll Be The Hero | 409044 | [409044-today-ill-be-the-hero.json](./409044-today-ill-be-the-hero.json) |
@@ -16499,6 +16505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toki Island | 125890 | [125890-toki-island.json](./125890-toki-island.json) |
 | Toki no Ihoujin | 408767 | [408767-toki-no-ihoujin.json](./408767-toki-no-ihoujin.json) |
 | Toki no Tabibito: Time Stranger | 48879 | [48879-toki-no-tabibito-time-stranger.json](./48879-toki-no-tabibito-time-stranger.json) |
+| Toki Time Trial | 105194 | [105194-toki-time-trial.json](./105194-toki-time-trial.json) |
 | Toki Tori | 194909 | [194909-toki-tori.json](./194909-toki-tori.json) |
 | Toki Tori 2 | 2351 | [2351-toki-tori-2.json](./2351-toki-tori-2.json) |
 | Toki Tori 2+ | 16282 | [16282-toki-tori-2.json](./16282-toki-tori-2.json) |
@@ -17446,6 +17453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toss the Turtle | 131613 | [131613-toss-the-turtle.json](./131613-toss-the-turtle.json) |
 | Toss! | 138028 | [138028-toss.json](./138028-toss.json) |
 | Tota Life: Parent-kid Suite | 299206 | [299206-tota-life-parent-kid-suite.json](./299206-tota-life-parent-kid-suite.json) |
+| Total 15 | 105155 | [105155-total-15.json](./105155-total-15.json) |
 | Total Annihilation | 918 | [918-total-annihilation.json](./918-total-annihilation.json) |
 | Total Annihilation: Kingdoms | 11614 | [11614-total-annihilation-kingdoms.json](./11614-total-annihilation-kingdoms.json) |
 | Total Annihilation: The Core Contingency | 71462 | [71462-total-annihilation-the-core-contingency.json](./71462-total-annihilation-the-core-contingency.json) |
