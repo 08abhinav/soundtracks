@@ -2315,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Deliveryman | 267481 | [267481-adventures-of-deliveryman.json](./267481-adventures-of-deliveryman.json) |
 | Adventures of Dino Riki | 8741 | [8741-adventures-of-dino-riki.json](./8741-adventures-of-dino-riki.json) |
 | Adventures of Heroes | 65783 | [65783-adventures-of-heroes.json](./65783-adventures-of-heroes.json) |
+| Adventures of Isabelle Fine: Murder on Rails | 120057 | [120057-adventures-of-isabelle-fine-murder-on-rails.json](./120057-adventures-of-isabelle-fine-murder-on-rails.json) |
 | Adventures of Jack: Platformer | 58245 | [58245-adventures-of-jack-platformer.json](./58245-adventures-of-jack-platformer.json) |
 | Adventures of JoJo & ToTo | 253261 | [253261-adventures-of-jojo-and-toto.json](./253261-adventures-of-jojo-and-toto.json) |
 | Adventures of JQ Jones: "Isle of the Serpent Empress" | 132676 | [132676-adventures-of-jq-jones-isle-of-the-serpent-empress.json](./132676-adventures-of-jq-jones-isle-of-the-serpent-empress.json) |
@@ -2931,6 +2932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agency: The Deckbuilding Card Game | 182775 | [182775-agency-the-deckbuilding-card-game.json](./182775-agency-the-deckbuilding-card-game.json) |
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
 | Agent | 283400 | [283400-agent.json](./283400-agent.json) |
+| Agent 00111 | 120100 | [120100-agent-00111.json](./120100-agent-00111.json) |
 | Agent 01 | 199400 | [199400-agent-01.json](./199400-agent-01.json) |
 | Agent 079 | 64202 | [64202-agent-079.json](./64202-agent-079.json) |
 | Agent A & Down in Bermuda Bundle | 380693 | [380693-agent-a-and-down-in-bermuda-bundle.json](./380693-agent-a-and-down-in-bermuda-bundle.json) |
@@ -3402,6 +3404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aircraft Evolution | 82077 | [82077-aircraft-evolution.json](./82077-aircraft-evolution.json) |
 | Aircraft Pushback Simulator | 234744 | [234744-aircraft-pushback-simulator.json](./234744-aircraft-pushback-simulator.json) |
 | Aircraft Sketch Shooter | 142997 | [142997-aircraft-sketch-shooter.json](./142997-aircraft-sketch-shooter.json) |
+| Aircraft War | 120079 | [120079-aircraft-war.json](./120079-aircraft-war.json) |
 | Aircraft War: Car Wars | 170954 | [170954-aircraft-war-car-wars.json](./170954-aircraft-war-car-wars.json) |
 | Aircraft War: Dragon Wars | 170953 | [170953-aircraft-war-dragon-wars.json](./170953-aircraft-war-dragon-wars.json) |
 | Aircraft War: Extra Level Pack 1 | 170950 | [170950-aircraft-war-extra-level-pack-1.json](./170950-aircraft-war-extra-level-pack-1.json) |
@@ -3867,6 +3870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemist of War | 187202 | [187202-alchemist-of-war.json](./187202-alchemist-of-war.json) |
 | Alchemist Penguin | 32823 | [32823-alchemist-penguin.json](./32823-alchemist-penguin.json) |
 | Alchemist Shop Simulator | 312149 | [312149-alchemist-shop-simulator.json](./312149-alchemist-shop-simulator.json) |
+| Alchemist Simulator | 120110 | [120110-alchemist-simulator.json](./120110-alchemist-simulator.json) |
 | Alchemist Tris's Desire | 211417 | [211417-alchemist-triss-desire.json](./211417-alchemist-triss-desire.json) |
 | Alchemist's Alcove | 372798 | [372798-alchemists-alcove.json](./372798-alchemists-alcove.json) |
 | Alchemist's Apprentice | 341889 | [341889-alchemists-apprentice.json](./341889-alchemists-apprentice.json) |
@@ -6171,6 +6175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angler Quest | 290711 | [290711-angler-quest.json](./290711-angler-quest.json) |
 | Angler's Journey | 350442 | [350442-anglers-journey.json](./350442-anglers-journey.json) |
 | Angler's Lake | 418708 | [418708-anglers-lake.json](./418708-anglers-lake.json) |
+| Angler's Life | 120085 | [120085-anglers-life.json](./120085-anglers-life.json) |
 | Angler's World | 217019 | [217019-anglers-world.json](./217019-anglers-world.json) |
 | Anglerfish | 190954 | [190954-anglerfish.json](./190954-anglerfish.json) |
 | Angles | 89390 | [89390-angles.json](./89390-angles.json) |
@@ -11347,6 +11352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalon: The Legend Lives | 60350 | [60350-avalon-the-legend-lives.json](./60350-avalon-the-legend-lives.json) |
 | Avalone's Adventurers: My Parents were Assassinated so I've Started an Adventuring Party to Avoid a Political Marriage | 346202 | [346202-avalones-adventurers-my-parents-were-assassinated-so-ive-started-an-adventuring-party-to-avoid-a-political-marriage.json](./346202-avalones-adventurers-my-parents-were-assassinated-so-ive-started-an-adventuring-party-to-avoid-a-political-marriage.json) |
 | Avani | 223495 | [223495-avani.json](./223495-avani.json) |
+| Avant-Garde Discerning Paralleler | 120074 | [120074-avant-garde-discerning-paralleler.json](./120074-avant-garde-discerning-paralleler.json) |
 | Avaria: Iron Rule | 399009 | [399009-avaria-iron-rule.json](./399009-avaria-iron-rule.json) |
 | Avariavs | 98405 | [98405-avariavs.json](./98405-avariavs.json) |
 | Avarice | 125408 | [125408-avarice.json](./125408-avarice.json) |
