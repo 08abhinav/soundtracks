@@ -5505,6 +5505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravico | 280776 | [280776-gravico.json](./280776-gravico.json) |
 | GraviFire | 144277 | [144277-gravifire.json](./144277-gravifire.json) |
 | Gravillipse | 252159 | [252159-gravillipse.json](./252159-gravillipse.json) |
+| Gravinoid | 128933 | [128933-gravinoid.json](./128933-gravinoid.json) |
 | GraviSound | 109701 | [109701-gravisound.json](./109701-gravisound.json) |
 | Gravit | 365754 | [365754-gravit.json](./365754-gravit.json) |
 | GraviT | 200696 | [200696-gravit.json](./200696-gravit.json) |
@@ -5601,6 +5602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Circuit: Deluxe Edition | 309034 | [309034-gravity-circuit-deluxe-edition.json](./309034-gravity-circuit-deluxe-edition.json) |
 | Gravity Compass | 33585 | [33585-gravity-compass.json](./33585-gravity-compass.json) |
 | Gravity Control | 292778 | [292778-gravity-control.json](./292778-gravity-control.json) |
+| Gravity Core | 128900 | [128900-gravity-core.json](./128900-gravity-core.json) |
 | Gravity Crash Portable | 257323 | [257323-gravity-crash-portable.json](./257323-gravity-crash-portable.json) |
 | Gravity Crash Portable | 42845 | [42845-gravity-crash-portable.json](./42845-gravity-crash-portable.json) |
 | Gravity Crash Ultra | 52223 | [52223-gravity-crash-ultra.json](./52223-gravity-crash-ultra.json) |
@@ -5608,6 +5610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Dash 2 | 91092 | [91092-gravity-dash-2.json](./91092-gravity-dash-2.json) |
 | Gravity Den | 33177 | [33177-gravity-den.json](./33177-gravity-den.json) |
 | Gravity Duck | 121815 | [121815-gravity-duck.json](./121815-gravity-duck.json) |
+| Gravity Escape | 128255 | [128255-gravity-escape.json](./128255-gravity-escape.json) |
 | Gravity Falls: Legend of the Gnome Gemulets | 44014 | [44014-gravity-falls-legend-of-the-gnome-gemulets.json](./44014-gravity-falls-legend-of-the-gnome-gemulets.json) |
 | Gravity Fight | 73476 | [73476-gravity-fight.json](./73476-gravity-fight.json) |
 | Gravity Flip | 190204 | [190204-gravity-flip.json](./190204-gravity-flip.json) |
@@ -5763,6 +5766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Wall March | 265212 | [265212-great-wall-march.json](./265212-great-wall-march.json) |
 | Great Wall Street Fortune Hunt | 41545 | [41545-great-wall-street-fortune-hunt.json](./41545-great-wall-street-fortune-hunt.json) |
 | Great White Shark Attack Sim | 106127 | [106127-great-white-shark-attack-sim.json](./106127-great-white-shark-attack-sim.json) |
+| Great Witcher | 128295 | [128295-great-witcher.json](./128295-great-witcher.json) |
 | Greatest Angels | 365856 | [365856-greatest-angels.json](./365856-greatest-angels.json) |
 | Greatest Artists Jigsaw Puzzle | 96828 | [96828-greatest-artists-jigsaw-puzzle.json](./96828-greatest-artists-jigsaw-puzzle.json) |
 | Greatest Dungeon | 295546 | [295546-greatest-dungeon.json](./295546-greatest-dungeon.json) |
@@ -6602,6 +6606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian of Dynamite: A Bomb Protector | 242022 | [242022-guardian-of-dynamite-a-bomb-protector.json](./242022-guardian-of-dynamite-a-bomb-protector.json) |
 | Guardian of Hidden Land | 352171 | [352171-guardian-of-hidden-land.json](./352171-guardian-of-hidden-land.json) |
 | Guardian of Immortal Mountain | 97904 | [97904-guardian-of-immortal-mountain.json](./97904-guardian-of-immortal-mountain.json) |
+| Guardian of Lore | 128253 | [128253-guardian-of-lore.json](./128253-guardian-of-lore.json) |
 | Guardian of Paradise | 123581 | [123581-guardian-of-paradise.json](./123581-guardian-of-paradise.json) |
 | Guardian of the Code | 202369 | [202369-guardian-of-the-code.json](./202369-guardian-of-the-code.json) |
 | Guardian of the Demon Valley | 172685 | [172685-guardian-of-the-demon-valley.json](./172685-guardian-of-the-demon-valley.json) |
