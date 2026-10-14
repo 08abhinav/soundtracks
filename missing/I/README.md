@@ -3034,6 +3034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside the Backrooms | 201506 | [201506-inside-the-backrooms.json](./201506-inside-the-backrooms.json) |
 | Inside The Backrooms | 397869 | [397869-inside-the-backrooms.json](./397869-inside-the-backrooms.json) |
 | Inside the Clockwork Pussy | 280202 | [280202-inside-the-clockwork-pussy.json](./280202-inside-the-clockwork-pussy.json) |
+| Inside the Computer | 130095 | [130095-inside-the-computer.json](./130095-inside-the-computer.json) |
 | Inside the Crow's Nest | 353383 | [353383-inside-the-crows-nest.json](./353383-inside-the-crows-nest.json) |
 | Inside the Cubes | 123504 | [123504-inside-the-cubes.json](./123504-inside-the-cubes.json) |
 | Inside the Facility | 57511 | [57511-inside-the-facility.json](./57511-inside-the-facility.json) |
@@ -4230,6 +4231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isoge Hero | 379573 | [379573-isoge-hero.json](./379573-isoge-hero.json) |
 | Isoge! Doraemon | 385850 | [385850-isoge-doraemon.json](./385850-isoge-doraemon.json) |
 | Isoland | 57337 | [57337-isoland.json](./57337-isoland.json) |
+| Isoland 3: Dust of the Universe | 130096 | [130096-isoland-3-dust-of-the-universe.json](./130096-isoland-3-dust-of-the-universe.json) |
 | Isoland: Pumpkin Town | 319215 | [319215-isoland-pumpkin-town.json](./319215-isoland-pumpkin-town.json) |
 | Isoland: The Amusement Park | 141258 | [141258-isoland-the-amusement-park.json](./141258-isoland-the-amusement-park.json) |
 | Isolani | 22394 | [22394-isolani.json](./22394-isolani.json) |
