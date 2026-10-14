@@ -10157,6 +10157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoopy Tennis | 49878 | [49878-snoopy-tennis.json](./49878-snoopy-tennis.json) |
 | Snoopy vs. The Red Baron | 2756 | [2756-snoopy-vs-the-red-baron.json](./2756-snoopy-vs-the-red-baron.json) |
 | Snoopy: The Cool Computer Game | 66345 | [66345-snoopy-the-cool-computer-game.json](./66345-snoopy-the-cool-computer-game.json) |
+| Snoopy's Game Club | 94642 | [94642-snoopys-game-club.json](./94642-snoopys-game-club.json) |
 | Snoopy's Magic Show | 49019 | [49019-snoopys-magic-show.json](./49019-snoopys-magic-show.json) |
 | Snoopy's Magic Show DX | 279583 | [279583-snoopys-magic-show-dx.json](./279583-snoopys-magic-show-dx.json) |
 | Snoopy's Silly Sports Spectacular! | 48077 | [48077-snoopys-silly-sports-spectacular.json](./48077-snoopys-silly-sports-spectacular.json) |
