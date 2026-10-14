@@ -3144,6 +3144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Pinball 3D | 23672 | [23672-marvel-pinball-3d.json](./23672-marvel-pinball-3d.json) |
 | Marvel Pinball: Avengers Chronicles | 20821 | [20821-marvel-pinball-avengers-chronicles.json](./20821-marvel-pinball-avengers-chronicles.json) |
 | Marvel Puzzle Quest: Dark Reign | 82445 | [82445-marvel-puzzle-quest-dark-reign.json](./82445-marvel-puzzle-quest-dark-reign.json) |
+| Marvel Realm of Champions | 122756 | [122756-marvel-realm-of-champions.json](./122756-marvel-realm-of-champions.json) |
 | Marvel Rivals: Pick-Up Bundle | 355093 | [355093-marvel-rivals-pick-up-bundle.json](./355093-marvel-rivals-pick-up-bundle.json) |
 | Marvel Rivals: PlayStation Exclusive | 355092 | [355092-marvel-rivals-playstation-exclusive.json](./355092-marvel-rivals-playstation-exclusive.json) |
 | Marvel Rivals: Season 0 - Dooms' Rise | 325047 | [325047-marvel-rivals-season-0-dooms-rise.json](./325047-marvel-rivals-season-0-dooms-rise.json) |
