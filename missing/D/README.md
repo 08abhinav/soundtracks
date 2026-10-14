@@ -6540,6 +6540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disappearance Time | 71012 | [71012-disappearance-time.json](./71012-disappearance-time.json) |
 | Disappearance: Takeshi. You were right. That Abandoned Village is Too Bad | 283096 | [283096-disappearance-takeshi-you-were-right-that-abandoned-village-is-too-bad.json](./283096-disappearance-takeshi-you-were-right-that-abandoned-village-is-too-bad.json) |
 | Disassembly 3D | 75660 | [75660-disassembly-3d.json](./75660-disassembly-3d.json) |
+| Disassembly Line | 77161 | [77161-disassembly-line.json](./77161-disassembly-line.json) |
 | Disaster | 186809 | [186809-disaster.json](./186809-disaster.json) |
 | Disaster Area | 236283 | [236283-disaster-area.json](./236283-disaster-area.json) |
 | Disaster Band | 229138 | [229138-disaster-band.json](./229138-disaster-band.json) |
