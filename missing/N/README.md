@@ -2950,6 +2950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Striker | 37324 | [37324-night-striker.json](./37324-night-striker.json) |
 | Night Striker Gear | 330380 | [330380-night-striker-gear.json](./330380-night-striker-gear.json) |
 | Night Swarm | 343477 | [343477-night-swarm.json](./343477-night-swarm.json) |
+| Night Terrors: Bloody Mary | 111439 | [111439-night-terrors-bloody-mary.json](./111439-night-terrors-bloody-mary.json) |
 | Night Thoughts | 374171 | [374171-night-thoughts.json](./374171-night-thoughts.json) |
 | Night Tide | 184323 | [184323-night-tide.json](./184323-night-tide.json) |
 | Night Time | 369222 | [369222-night-time.json](./369222-night-time.json) |
