@@ -3812,6 +3812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overlord: Minions | 48 | [48-overlord-minions.json](./48-overlord-minions.json) |
 | Overlord: Nobody Know Victory Better Than Me | 193199 | [193199-overlord-nobody-know-victory-better-than-me.json](./193199-overlord-nobody-know-victory-better-than-me.json) |
 | Overlord's Odyssey | 223979 | [223979-overlords-odyssey.json](./223979-overlords-odyssey.json) |
+| Overlords | 77196 | [77196-overlords.json](./77196-overlords.json) |
 | Overlords of Oblivion | 112153 | [112153-overlords-of-oblivion.json](./112153-overlords-of-oblivion.json) |
 | Overly Qualified Ms. Mary | 219061 | [219061-overly-qualified-ms-mary.json](./219061-overly-qualified-ms-mary.json) |
 | Overmind | 327180 | [327180-overmind.json](./327180-overmind.json) |
