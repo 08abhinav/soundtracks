@@ -2314,6 +2314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marcella Moon: Killer at the Cove | 264024 | [264024-marcella-moon-killer-at-the-cove.json](./264024-marcella-moon-killer-at-the-cove.json) |
 | Marcella Moon: Secret on the Hill | 172088 | [172088-marcella-moon-secret-on-the-hill.json](./172088-marcella-moon-secret-on-the-hill.json) |
 | Marcella Moon: The Phantom of Harvest Grove | 373762 | [373762-marcella-moon-the-phantom-of-harvest-grove.json](./373762-marcella-moon-the-phantom-of-harvest-grove.json) |
+| March Forward | 123936 | [123936-march-forward.json](./123936-march-forward.json) |
 | March of Giants | 363900 | [363900-march-of-giants.json](./363900-march-of-giants.json) |
 | March of History | 116432 | [116432-march-of-history.json](./116432-march-of-history.json) |
 | March of Shrooms | 215020 | [215020-march-of-shrooms.json](./215020-march-of-shrooms.json) |
@@ -3044,6 +3045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marty's Funducational Tour! | 348845 | [348845-martys-funducational-tour.json](./348845-martys-funducational-tour.json) |
 | Martyr | 384148 | [384148-martyr.json](./384148-martyr.json) |
 | Martyrdom | 290520 | [290520-martyrdom.json](./290520-martyrdom.json) |
+| Maru | 123934 | [123934-maru.json](./123934-maru.json) |
 | Maru and her make-believe world | 166747 | [166747-maru-and-her-make-believe-world.json](./166747-maru-and-her-make-believe-world.json) |
 | Maru Expedition: We Can Fly | 357427 | [357427-maru-expedition-we-can-fly.json](./357427-maru-expedition-we-can-fly.json) |
 | Maru Goukaku: Shikaku Dasshu! IT Passport Shiken, Kihon Jouhou Gijutsusha Shiken, Ouyou Jouhou Gijutsusha Shiken | 269612 | [269612-maru-goukaku-shikaku-dasshu-it-passport-shiken-kihon-jouhou-gijutsusha-shiken-ouyou-jouhou-gijutsusha-shiken.json](./269612-maru-goukaku-shikaku-dasshu-it-passport-shiken-kihon-jouhou-gijutsusha-shiken-ouyou-jouhou-gijutsusha-shiken.json) |
@@ -5536,6 +5538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MeiQi 2022 | 190735 | [190735-meiqi-2022.json](./190735-meiqi-2022.json) |
 | MeiQi 2023 | 224646 | [224646-meiqi-2023.json](./224646-meiqi-2023.json) |
 | MeiQi 2024 | 322036 | [322036-meiqi-2024.json](./322036-meiqi-2024.json) |
+| MeiQi: Season1 | 123938 | [123938-meiqi-season1.json](./123938-meiqi-season1.json) |
 | Meirin in Fists of Fire | 164063 | [164063-meirin-in-fists-of-fire.json](./164063-meirin-in-fists-of-fire.json) |
 | Meiro | 126508 | [126508-meiro.json](./126508-meiro.json) |
 | Meiro Master | 197253 | [197253-meiro-master.json](./197253-meiro-master.json) |
@@ -6435,6 +6438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Max Xeno Reborn | 117015 | [117015-metal-max-xeno-reborn.json](./117015-metal-max-xeno-reborn.json) |
 | Metal Max Xeno: Limited Edition | 201054 | [201054-metal-max-xeno-limited-edition.json](./201054-metal-max-xeno-limited-edition.json) |
 | Metal Max: Fireworks | 75850 | [75850-metal-max-fireworks.json](./75850-metal-max-fireworks.json) |
+| Metal Max: Wild West | 123900 | [123900-metal-max-wild-west.json](./123900-metal-max-wild-west.json) |
 | Metal Mech: Man & Machine | 48082 | [48082-metal-mech-man-and-machine.json](./48082-metal-mech-man-and-machine.json) |
 | Metal Miners | 212680 | [212680-metal-miners.json](./212680-metal-miners.json) |
 | Metal Mission 2015: Dino Island | 259567 | [259567-metal-mission-2015-dino-island.json](./259567-metal-mission-2015-dino-island.json) |
@@ -6918,6 +6922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Arcade Tetris | 234082 | [234082-micro-arcade-tetris.json](./234082-micro-arcade-tetris.json) |
 | Micro Battles 2 | 235137 | [235137-micro-battles-2.json](./235137-micro-battles-2.json) |
 | Micro Battles 3 | 240845 | [240845-micro-battles-3.json](./240845-micro-battles-3.json) |
+| Micro Car Crash Online Le Go! | 123943 | [123943-micro-car-crash-online-le-go.json](./123943-micro-car-crash-online-le-go.json) |
 | Micro Commandos | 71460 | [71460-micro-commandos.json](./71460-micro-commandos.json) |
 | Micro Games for Playdade! | 266242 | [266242-micro-games-for-playdade.json](./266242-micro-games-for-playdade.json) |
 | Micro Games: Volume 1 | 258368 | [258368-micro-games-volume-1.json](./258368-micro-games-volume-1.json) |
@@ -8435,6 +8440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Sudoku Keychain | 264240 | [264240-mini-sudoku-keychain.json](./264240-mini-sudoku-keychain.json) |
 | Mini Swim | 412157 | [412157-mini-swim.json](./412157-mini-swim.json) |
 | Mini Switcher | 412213 | [412213-mini-switcher.json](./412213-mini-switcher.json) |
+| Mini Tank | 123897 | [123897-mini-tank.json](./123897-mini-tank.json) |
 | Mini Tank Mayhem | 327166 | [327166-mini-tank-mayhem.json](./327166-mini-tank-mayhem.json) |
 | Mini TD | 358424 | [358424-mini-td.json](./358424-mini-td.json) |
 | Mini TD 2: Relax Tower Defense | 305272 | [305272-mini-td-2-relax-tower-defense.json](./305272-mini-td-2-relax-tower-defense.json) |
