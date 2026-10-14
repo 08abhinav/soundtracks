@@ -7928,6 +7928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominant Mind | 148166 | [148166-dominant-mind.json](./148166-dominant-mind.json) |
 | Dominant Species for iPad | 108516 | [108516-dominant-species-for-ipad.json](./108516-dominant-species-for-ipad.json) |
 | Dominari | 75099 | [75099-dominari.json](./75099-dominari.json) |
+| Dominari Tournament | 97807 | [97807-dominari-tournament.json](./97807-dominari-tournament.json) |
 | Dominate Square | 150446 | [150446-dominate-square.json](./150446-dominate-square.json) |
 | Dominate: Board Game | 147971 | [147971-dominate-board-game.json](./147971-dominate-board-game.json) |
 | Dominating the Skies | 162412 | [162412-dominating-the-skies.json](./162412-dominating-the-skies.json) |
