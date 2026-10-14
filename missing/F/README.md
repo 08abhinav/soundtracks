@@ -1678,6 +1678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farland Story | 44447 | [44447-farland-story.json](./44447-farland-story.json) |
 | Farland Story FX | 45953 | [45953-farland-story-fx.json](./45953-farland-story-fx.json) |
 | Farland Story: Daichi no Kizuna | 70455 | [70455-farland-story-daichi-no-kizuna.json](./70455-farland-story-daichi-no-kizuna.json) |
+| Farland Story: Shirogane no Tsubasa | 79121 | [79121-farland-story-shirogane-no-tsubasa.json](./79121-farland-story-shirogane-no-tsubasa.json) |
 | Farlands | 236859 | [236859-farlands.json](./236859-farlands.json) |
 | Farlands Journey | 301337 | [301337-farlands-journey.json](./301337-farlands-journey.json) |
 | Farlands: First Landing | 244124 | [244124-farlands-first-landing.json](./244124-farlands-first-landing.json) |
@@ -7581,6 +7582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frank Bruno's Boxing | 46752 | [46752-frank-brunos-boxing.json](./46752-frank-brunos-boxing.json) |
 | Frank Fux | 294422 | [294422-frank-fux.json](./294422-frank-fux.json) |
 | Frank Hawk | 180678 | [180678-frank-hawk.json](./180678-frank-hawk.json) |
+| Frank N Stein | 79118 | [79118-frank-n-stein.json](./79118-frank-n-stein.json) |
 | Frank the Fruit Fly | 218078 | [218078-frank-the-fruit-fly.json](./218078-frank-the-fruit-fly.json) |
 | Frank the Miner | 88088 | [88088-frank-the-miner.json](./88088-frank-the-miner.json) |
 | Frank Thomas Big Hurt Baseball | 20405 | [20405-frank-thomas-big-hurt-baseball.json](./20405-frank-thomas-big-hurt-baseball.json) |
