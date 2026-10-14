@@ -3631,6 +3631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion Soccer | 6092 | [6092-champion-soccer.json](./6092-champion-soccer.json) |
 | Champion Strike: Hero Clash | 221645 | [221645-champion-strike-hero-clash.json](./221645-champion-strike-hero-clash.json) |
 | Champion Tennis | 6093 | [6093-champion-tennis.json](./6093-champion-tennis.json) |
+| Champions | 120685 | [120685-champions.json](./120685-champions.json) |
 | Champions | 278368 | [278368-champions.json](./278368-champions.json) |
 | Champions and Challengers | 174739 | [174739-champions-and-challengers.json](./174739-champions-and-challengers.json) |
 | Champions Arena | 296218 | [296218-champions-arena.json](./296218-champions-arena.json) |
@@ -12206,6 +12207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Defenders | 21207 | [21207-crystal-defenders.json](./21207-crystal-defenders.json) |
 | Crystal Defenders R1 | 21126 | [21126-crystal-defenders-r1.json](./21126-crystal-defenders-r1.json) |
 | Crystal Defenders R2 | 21133 | [21133-crystal-defenders-r2.json](./21133-crystal-defenders-r2.json) |
+| Crystal Defense | 120683 | [120683-crystal-defense.json](./120683-crystal-defense.json) |
 | Crystal Edge: Retribution | 394898 | [394898-crystal-edge-retribution.json](./394898-crystal-edge-retribution.json) |
 | Crystal Eyes | 291887 | [291887-crystal-eyes.json](./291887-crystal-eyes.json) |
 | Crystal Fantasy | 68033 | [68033-crystal-fantasy.json](./68033-crystal-fantasy.json) |
@@ -13568,6 +13570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyndefense Remastered | 382289 | [382289-cyndefense-remastered.json](./382289-cyndefense-remastered.json) |
 | Cynderfall Cycle | 298268 | [298268-cynderfall-cycle.json](./298268-cynderfall-cycle.json) |
 | Cynoroid Gaiden | 150167 | [150167-cynoroid-gaiden.json](./150167-cynoroid-gaiden.json) |
+| Cynoroid: Gentagelse | 120678 | [120678-cynoroid-gentagelse.json](./120678-cynoroid-gentagelse.json) |
 | Cynostone | 252248 | [252248-cynostone.json](./252248-cynostone.json) |
 | Cynosure | 105553 | [105553-cynosure.json](./105553-cynosure.json) |
 | Cynthia: Hidden in the Moonshadow | 190984 | [190984-cynthia-hidden-in-the-moonshadow.json](./190984-cynthia-hidden-in-the-moonshadow.json) |
