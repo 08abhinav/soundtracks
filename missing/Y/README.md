@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You, Me and Empty Words | 150153 | [150153-you-me-and-empty-words.json](./150153-you-me-and-empty-words.json) |
 | You, Me, and the Cubes | 21114 | [21114-you-me-and-the-cubes.json](./21114-you-me-and-the-cubes.json) |
 | You, With Me: A Kinetic Novel | 90490 | [90490-you-with-me-a-kinetic-novel.json](./90490-you-with-me-a-kinetic-novel.json) |
+| You, you've got me wrong! | 82683 | [82683-you-youve-got-me-wrong.json](./82683-you-youve-got-me-wrong.json) |
 | You: The Untold Stories | 106543 | [106543-you-the-untold-stories.json](./106543-you-the-untold-stories.json) |
 | You... and who else? | 33098 | [33098-you-and-who-else.json](./33098-you-and-who-else.json) |
 | You'll Stay Here Forever | 250346 | [250346-youll-stay-here-forever.json](./250346-youll-stay-here-forever.json) |
@@ -937,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Young Street | 251240 | [251240-young-street.json](./251240-young-street.json) |
 | Young Warriors | 174834 | [174834-young-warriors.json](./174834-young-warriors.json) |
 | Young Wife Elf's Netorase RPG: Irena | 134643 | [134643-young-wife-elfs-netorase-rpg-irena.json](./134643-young-wife-elfs-netorase-rpg-irena.json) |
+| Young Wife Souffle | 82667 | [82667-young-wife-souffle.json](./82667-young-wife-souffle.json) |
 | Young Wife Yuka's Good Day to Cheat | 98404 | [98404-young-wife-yukas-good-day-to-cheat.json](./98404-young-wife-yukas-good-day-to-cheat.json) |
 | Youngblood: Search and Destroy | 202395 | [202395-youngblood-search-and-destroy.json](./202395-youngblood-search-and-destroy.json) |
 | Youniverse | 337761 | [337761-youniverse.json](./337761-youniverse.json) |
