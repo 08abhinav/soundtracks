@@ -3629,7 +3629,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wilderless | 301964 | [301964-wilderless.json](./301964-wilderless.json) |
 | Wilderless: Meadowfell | 359920 | [359920-wilderless-meadowfell.json](./359920-wilderless-meadowfell.json) |
 | Wilderlocke | 356754 | [356754-wilderlocke.json](./356754-wilderlocke.json) |
-| Wildermyth | 83504 | [83504-wildermyth.json](./83504-wildermyth.json) |
 | Wildermyth: Off-hand Item Skin Pack | 324402 | [324402-wildermyth-off-hand-item-skin-pack.json](./324402-wildermyth-off-hand-item-skin-pack.json) |
 | Wilderness | 377146 | [377146-wilderness.json](./377146-wilderness.json) |
 | Wilderness Campaign | 24802 | [24802-wilderness-campaign.json](./24802-wilderness-campaign.json) |
