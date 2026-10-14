@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T07:34:13.396Z",
-  "total_missing": 209804,
+  "generated_at": "2026-10-14T07:36:55.083Z",
+  "total_missing": 209803,
   "games": [
     {
       "igdb_id": 191680,
@@ -641385,11 +641385,6 @@
       "igdb_id": 95409,
       "game_name": "Peggle",
       "file": "missing/P/95409-peggle.json"
-    },
-    {
-      "igdb_id": 3752,
-      "game_name": "Peggle 2",
-      "file": "missing/P/3752-peggle-2.json"
     },
     {
       "igdb_id": 339484,
