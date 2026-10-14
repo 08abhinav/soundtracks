@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Lazy Magic Teacher | 286779 | [286779-a-lazy-magic-teacher.json](./286779-a-lazy-magic-teacher.json) |
 | A Legend of Wisdom | 232962 | [232962-a-legend-of-wisdom.json](./232962-a-legend-of-wisdom.json) |
 | A Legionary's Life | 117101 | [117101-a-legionarys-life.json](./117101-a-legionarys-life.json) |
+| A lenda da Gávea | 81154 | [81154-a-lenda-da-gavea.json](./81154-a-lenda-da-gavea.json) |
 | A Letter For You! | 184082 | [184082-a-letter-for-you.json](./184082-a-letter-for-you.json) |
 | A Life in Music | 314381 | [314381-a-life-in-music.json](./314381-a-life-in-music.json) |
 | A Life of Logic | 256243 | [256243-a-life-of-logic.json](./256243-a-life-of-logic.json) |
@@ -1821,6 +1822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acrylic Palette: Irodori Cafe - Cheers | 222463 | [222463-acrylic-palette-irodori-cafe-cheers.json](./222463-acrylic-palette-irodori-cafe-cheers.json) |
 | Acryptia | 226397 | [226397-acryptia.json](./226397-acryptia.json) |
 | ACT | 169818 | [169818-act.json](./169818-act.json) |
+| Act it Out XL!: A Game of Charades | 81156 | [81156-act-it-out-xl-a-game-of-charades.json](./81156-act-it-out-xl-a-game-of-charades.json) |
 | Act of Aggression | 8920 | [8920-act-of-aggression.json](./8920-act-of-aggression.json) |
 | Act of Aggression: Reboot Edition | 52552 | [52552-act-of-aggression-reboot-edition.json](./52552-act-of-aggression-reboot-edition.json) |
 | Act-Fancer: Cybernetick Hyper Weapon | 12270 | [12270-act-fancer-cybernetick-hyper-weapon.json](./12270-act-fancer-cybernetick-hyper-weapon.json) |
@@ -2334,6 +2336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Trip: New York - Collector's Edition | 212280 | [212280-adventure-trip-new-york-collectors-edition.json](./212280-adventure-trip-new-york-collectors-edition.json) |
 | Adventure Value Pack #2 | 77327 | [77327-adventure-value-pack-2.json](./77327-adventure-value-pack-2.json) |
 | Adventure Value Pack #3 | 78679 | [78679-adventure-value-pack-3.json](./78679-adventure-value-pack-3.json) |
+| Adventure Value Pack #4 | 81153 | [81153-adventure-value-pack-4.json](./81153-adventure-value-pack-4.json) |
 | Adventure War: Battlefield | 156878 | [156878-adventure-war-battlefield.json](./156878-adventure-war-battlefield.json) |
 | Adventure with Firefly | 220545 | [220545-adventure-with-firefly.json](./220545-adventure-with-firefly.json) |
 | Adventure Word: Around the World | 275890 | [275890-adventure-word-around-the-world.json](./275890-adventure-word-around-the-world.json) |
@@ -3698,6 +3701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akairo Mansion: Horror Edition | 301979 | [301979-akairo-mansion-horror-edition.json](./301979-akairo-mansion-horror-edition.json) |
 | Akairo no Kaii | 244376 | [244376-akairo-no-kaii.json](./244376-akairo-no-kaii.json) |
 | Akairu: A Day Adventure! | 386709 | [386709-akairu-a-day-adventure.json](./386709-akairu-a-day-adventure.json) |
+| Akakliké 1 | 81161 | [81161-akaklike-1.json](./81161-akaklike-1.json) |
 | Akaku Forest | 318123 | [318123-akaku-forest.json](./318123-akaku-forest.json) |
 | Akakuro | 223961 | [223961-akakuro.json](./223961-akakuro.json) |
 | Akalabeth: World of Doom | 2417 | [2417-akalabeth-world-of-doom.json](./2417-akalabeth-world-of-doom.json) |
@@ -5894,6 +5898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anagramme Duel | 96037 | [96037-anagramme-duel.json](./96037-anagramme-duel.json) |
 | Anagrams | 169360 | [169360-anagrams.json](./169360-anagrams.json) |
 | Anagrams | 354962 | [354962-anagrams.json](./354962-anagrams.json) |
+| Anahita | 81133 | [81133-anahita.json](./81133-anahita.json) |
 | Anahita: The Good Girl | 83151 | [83151-anahita-the-good-girl.json](./83151-anahita-the-good-girl.json) |
 | Analemma | 68767 | [68767-analemma.json](./68767-analemma.json) |
 | Analistica Academy | 89937 | [89937-analistica-academy.json](./89937-analistica-academy.json) |
@@ -11414,6 +11419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto World Tycoon | 164240 | [164240-auto-world-tycoon.json](./164240-auto-world-tycoon.json) |
 | Auto WWII Equips | 374825 | [374825-auto-wwii-equips.json](./374825-auto-wwii-equips.json) |
 | Auto X | 246311 | [246311-auto-x.json](./246311-auto-x.json) |
+| Auto-Staccato | 81087 | [81087-auto-staccato.json](./81087-auto-staccato.json) |
 | Auto-Upturn | 48692 | [48692-auto-upturn.json](./48692-auto-upturn.json) |
 | Autobahn Chaos | 179138 | [179138-autobahn-chaos.json](./179138-autobahn-chaos.json) |
 | Autobahn Police Simulator 2 | 76616 | [76616-autobahn-police-simulator-2.json](./76616-autobahn-police-simulator-2.json) |
