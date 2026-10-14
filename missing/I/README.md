@@ -2906,6 +2906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inner City Kids | 52245 | [52245-inner-city-kids.json](./52245-inner-city-kids.json) |
 | Inner Fire | 97341 | [97341-inner-fire.json](./97341-inner-fire.json) |
 | Inner Growth | 403134 | [403134-inner-growth.json](./403134-inner-growth.json) |
+| Inner Kung Fu Game | 99539 | [99539-inner-kung-fu-game.json](./99539-inner-kung-fu-game.json) |
 | Inner Life | 185081 | [185081-inner-life.json](./185081-inner-life.json) |
 | Inner Riddle | 96669 | [96669-inner-riddle.json](./96669-inner-riddle.json) |
 | Inner Seasons | 258964 | [258964-inner-seasons.json](./258964-inner-seasons.json) |
