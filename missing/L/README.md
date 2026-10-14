@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamo | 121465 | [121465-lamo.json](./121465-lamo.json) |
 | Lamp and Vamp | 240111 | [240111-lamp-and-vamp.json](./240111-lamp-and-vamp.json) |
 | Lamp Head | 29284 | [29284-lamp-head.json](./29284-lamp-head.json) |
+| Lamp Man Down | 109379 | [109379-lamp-man-down.json](./109379-lamp-man-down.json) |
 | Lamp of Aladdin | 23922 | [23922-lamp-of-aladdin.json](./23922-lamp-of-aladdin.json) |
 | Lamp Post | 290872 | [290872-lamp-post.json](./290872-lamp-post.json) |
 | Lamplight City | 79999 | [79999-lamplight-city.json](./79999-lamplight-city.json) |
@@ -4169,6 +4170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Wizard Sally | 240867 | [240867-little-wizard-sally.json](./240867-little-wizard-sally.json) |
 | Little Wolf | 149570 | [149570-little-wolf.json](./149570-little-wolf.json) |
 | Little World | 310031 | [310031-little-world.json](./310031-little-world.json) |
+| Little World of Creatures | 109384 | [109384-little-world-of-creatures.json](./109384-little-world-of-creatures.json) |
 | Little Wu Chang | 216797 | [216797-little-wu-chang.json](./216797-little-wu-chang.json) |
 | Little Yellow Submarine | 104689 | [104689-little-yellow-submarine.json](./104689-little-yellow-submarine.json) |
 | Little-Known Galaxy | 273654 | [273654-little-known-galaxy.json](./273654-little-known-galaxy.json) |
@@ -4643,6 +4645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LogiKing | 231051 | [231051-logiking.json](./231051-logiking.json) |
 | LogiKing: Level2 | 294048 | [294048-logiking-level2.json](./294048-logiking-level2.json) |
 | LogIQ Boost | 373650 | [373650-logiq-boost.json](./373650-logiq-boost.json) |
+| Logistical 2: Belgium | 109415 | [109415-logistical-2-belgium.json](./109415-logistical-2-belgium.json) |
 | Logistical 2: Indonesia - Bundle | 168349 | [168349-logistical-2-indonesia-bundle.json](./168349-logistical-2-indonesia-bundle.json) |
 | Logistical 2: Mall Rats | 168348 | [168348-logistical-2-mall-rats.json](./168348-logistical-2-mall-rats.json) |
 | Logistical 2: Suriname - Xmas 2018 | 168346 | [168346-logistical-2-suriname-xmas-2018.json](./168346-logistical-2-suriname-xmas-2018.json) |
@@ -5284,6 +5287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Connections | 254371 | [254371-lost-connections.json](./254371-lost-connections.json) |
 | Lost Continent | 191553 | [191553-lost-continent.json](./191553-lost-continent.json) |
 | Lost Cosmonaut | 33402 | [33402-lost-cosmonaut.json](./33402-lost-cosmonaut.json) |
+| Lost Cosmonauts ARG | 109366 | [109366-lost-cosmonauts-arg.json](./109366-lost-cosmonauts-arg.json) |
 | Lost Crab​ | 417663 | [417663-lost-crab.json](./417663-lost-crab.json) |
 | Lost Crypts | 94759 | [94759-lost-crypts.json](./94759-lost-crypts.json) |
 | Lost Crystals | 257427 | [257427-lost-crystals.json](./257427-lost-crystals.json) |
