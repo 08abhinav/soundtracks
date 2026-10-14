@@ -4605,6 +4605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Wolf Mysteries: Bane of the Family | 139734 | [139734-shadow-wolf-mysteries-bane-of-the-family.json](./139734-shadow-wolf-mysteries-bane-of-the-family.json) |
 | Shadow Wolf Mysteries: Curse of the Full Moon | 139737 | [139737-shadow-wolf-mysteries-curse-of-the-full-moon.json](./139737-shadow-wolf-mysteries-curse-of-the-full-moon.json) |
 | Shadow Wolf Mysteries: Curse of the Full Moon - Collector's Edition | 36461 | [36461-shadow-wolf-mysteries-curse-of-the-full-moon-collectors-edition.json](./36461-shadow-wolf-mysteries-curse-of-the-full-moon-collectors-edition.json) |
+| Shadow Wolf Mysteries: Curse of Wolfhill | 89816 | [89816-shadow-wolf-mysteries-curse-of-wolfhill.json](./89816-shadow-wolf-mysteries-curse-of-wolfhill.json) |
 | Shadow Wolf Mysteries: Cursed Wedding | 139736 | [139736-shadow-wolf-mysteries-cursed-wedding.json](./139736-shadow-wolf-mysteries-cursed-wedding.json) |
 | Shadow Wolf Mysteries: Cursed Wedding - Collector's Edition | 99620 | [99620-shadow-wolf-mysteries-cursed-wedding-collectors-edition.json](./99620-shadow-wolf-mysteries-cursed-wedding-collectors-edition.json) |
 | Shadow Wolf Mysteries: Cursed Wedding & Shadow Wolf Mysteries: Under the Crimson Moon | 201811 | [201811-shadow-wolf-mysteries-cursed-wedding-and-shadow-wolf-mysteries-under-the-crimson-moon.json](./201811-shadow-wolf-mysteries-cursed-wedding-and-shadow-wolf-mysteries-under-the-crimson-moon.json) |
@@ -4957,6 +4958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaper Runners | 231903 | [231903-shaper-runners.json](./231903-shaper-runners.json) |
 | ShapeRockets | 31196 | [31196-shaperockets.json](./31196-shaperockets.json) |
 | Shaperoid | 105503 | [105503-shaperoid.json](./105503-shaperoid.json) |
+| Shapes & Colors Learning: Free Toddler Kids Games | 89822 | [89822-shapes-and-colors-learning-free-toddler-kids-games.json](./89822-shapes-and-colors-learning-free-toddler-kids-games.json) |
 | Shapes of Gray | 34559 | [34559-shapes-of-gray.json](./34559-shapes-of-gray.json) |
 | Shapes of Memory: Jigsaw Puzzle | 392260 | [392260-shapes-of-memory-jigsaw-puzzle.json](./392260-shapes-of-memory-jigsaw-puzzle.json) |
 | Shapes on the Run | 108479 | [108479-shapes-on-the-run.json](./108479-shapes-on-the-run.json) |
