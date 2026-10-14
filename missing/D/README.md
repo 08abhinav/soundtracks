@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daily Espada | 34690 | [34690-daily-espada.json](./34690-daily-espada.json) |
 | Daily Mah Jong | 95663 | [95663-daily-mah-jong.json](./95663-daily-mah-jong.json) |
 | Daily Quizz | 78701 | [78701-daily-quizz.json](./78701-daily-quizz.json) |
+| Daily Routine | 88136 | [88136-daily-routine.json](./88136-daily-routine.json) |
 | Daily Run | 72384 | [72384-daily-run.json](./72384-daily-run.json) |
 | Daily Sudoku Together | 344490 | [344490-daily-sudoku-together.json](./344490-daily-sudoku-together.json) |
 | Daily Themed Crossword Puzzle | 88310 | [88310-daily-themed-crossword-puzzle.json](./88310-daily-themed-crossword-puzzle.json) |
@@ -4416,6 +4417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dentist For Kids | 100224 | [100224-dentist-for-kids.json](./100224-dentist-for-kids.json) |
 | Dentist Hour: Escape Room | 357797 | [357797-dentist-hour-escape-room.json](./357797-dentist-hour-escape-room.json) |
 | Dentist kids Hospital Simulation Teeth Surgery | 101950 | [101950-dentist-kids-hospital-simulation-teeth-surgery.json](./101950-dentist-kids-hospital-simulation-teeth-surgery.json) |
+| Dentist Office Creepers | 88101 | [88101-dentist-office-creepers.json](./88101-dentist-office-creepers.json) |
 | Dentures and Demons 2 | 145008 | [145008-dentures-and-demons-2.json](./145008-dentures-and-demons-2.json) |
 | Deodar | 360742 | [360742-deodar.json](./360742-deodar.json) |
 | Deorum Online | 121412 | [121412-deorum-online.json](./121412-deorum-online.json) |
@@ -4916,6 +4918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny of an Emperor | 48064 | [48064-destiny-of-an-emperor.json](./48064-destiny-of-an-emperor.json) |
 | Destiny of Ancient Kingdoms | 32154 | [32154-destiny-of-ancient-kingdoms.json](./32154-destiny-of-ancient-kingdoms.json) |
 | Destiny of Heroes | 303008 | [303008-destiny-of-heroes.json](./303008-destiny-of-heroes.json) |
+| Destiny of Light | 88091 | [88091-destiny-of-light.json](./88091-destiny-of-light.json) |
 | Destiny of Spirits | 42682 | [42682-destiny-of-spirits.json](./42682-destiny-of-spirits.json) |
 | Destiny of Thrones | 97322 | [97322-destiny-of-thrones.json](./97322-destiny-of-thrones.json) |
 | Destiny Online | 290876 | [290876-destiny-online.json](./290876-destiny-online.json) |
@@ -7396,6 +7399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Not Open | 183869 | [183869-do-not-open.json](./183869-do-not-open.json) |
 | Do Not Pass Go | 184967 | [184967-do-not-pass-go.json](./184967-do-not-pass-go.json) |
 | Do Not Play | 339989 | [339989-do-not-play.json](./339989-do-not-play.json) |
+| Do Not Press the Red Button | 88105 | [88105-do-not-press-the-red-button.json](./88105-do-not-press-the-red-button.json) |
 | Do Not Touch | 266518 | [266518-do-not-touch.json](./266518-do-not-touch.json) |
 | Do or Die | 377199 | [377199-do-or-die.json](./377199-do-or-die.json) |
 | Do or Die: Frontal Warfare | 329166 | [329166-do-or-die-frontal-warfare.json](./329166-do-or-die-frontal-warfare.json) |
@@ -12075,6 +12079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Pizza | 365096 | [365096-dungeon-pizza.json](./365096-dungeon-pizza.json) |
 | Dungeon Prospector | 50865 | [50865-dungeon-prospector.json](./50865-dungeon-prospector.json) |
 | Dungeon Puzzle Sweeper | 389661 | [389661-dungeon-puzzle-sweeper.json](./389661-dungeon-puzzle-sweeper.json) |
+| Dungeon Puzzle VR: Solve It or Die | 88134 | [88134-dungeon-puzzle-vr-solve-it-or-die.json](./88134-dungeon-puzzle-vr-solve-it-or-die.json) |
 | Dungeon Quest | 101600 | [101600-dungeon-quest.json](./101600-dungeon-quest.json) |
 | Dungeon Quest | 199924 | [199924-dungeon-quest.json](./199924-dungeon-quest.json) |
 | Dungeon Quest | 225579 | [225579-dungeon-quest.json](./225579-dungeon-quest.json) |
