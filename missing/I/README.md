@@ -556,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm UFO | 340502 | [340502-im-ufo.json](./340502-im-ufo.json) |
 | I'mitation: The Eight Suicide Note | 132258 | [132258-imitation-the-eight-suicide-note.json](./132258-imitation-the-eight-suicide-note.json) |
 | I've Fallen For You! | 319944 | [319944-ive-fallen-for-you.json](./319944-ive-fallen-for-you.json) |
+| I've Got a Brand New Pair of Legs | 129498 | [129498-ive-got-a-brand-new-pair-of-legs.json](./129498-ive-got-a-brand-new-pair-of-legs.json) |
 | I've Got to Run! | 85189 | [85189-ive-got-to-run.json](./85189-ive-got-to-run.json) |
 | I've Got Your Number | 41535 | [41535-ive-got-your-number.json](./41535-ive-got-your-number.json) |
 | I've Seen Everything | 188475 | [188475-ive-seen-everything.json](./188475-ive-seen-everything.json) |
