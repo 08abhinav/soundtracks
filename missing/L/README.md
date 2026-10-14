@@ -2196,6 +2196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Star Wars: The Force Awakens - The Clone Wars Character Pack | 170869 | [170869-lego-star-wars-the-force-awakens-the-clone-wars-character-pack.json](./170869-lego-star-wars-the-force-awakens-the-clone-wars-character-pack.json) |
 | LEGO Star Wars: The Force Awakens - The Empire Strikes Back Character Pack | 169925 | [169925-lego-star-wars-the-force-awakens-the-empire-strikes-back-character-pack.json](./169925-lego-star-wars-the-force-awakens-the-empire-strikes-back-character-pack.json) |
 | LEGO Star Wars: The Force Awakens - The Phantom Limb | 138163 | [138163-lego-star-wars-the-force-awakens-the-phantom-limb.json](./138163-lego-star-wars-the-force-awakens-the-phantom-limb.json) |
+| LEGO Star Wars: The Quest for R2-D2 | 74979 | [74979-lego-star-wars-the-quest-for-r2-d2.json](./74979-lego-star-wars-the-quest-for-r2-d2.json) |
 | LEGO Star Wars: The Skywalker Saga - Character Collection 1 | 196046 | [196046-lego-star-wars-the-skywalker-saga-character-collection-1.json](./196046-lego-star-wars-the-skywalker-saga-character-collection-1.json) |
 | LEGO Star Wars: The Skywalker Saga - Classic Character Edition | 139937 | [139937-lego-star-wars-the-skywalker-saga-classic-character-edition.json](./139937-lego-star-wars-the-skywalker-saga-classic-character-edition.json) |
 | LEGO Star Wars: The Skywalker Saga - Classic Character Pack | 199517 | [199517-lego-star-wars-the-skywalker-saga-classic-character-pack.json](./199517-lego-star-wars-the-skywalker-saga-classic-character-pack.json) |
@@ -5430,6 +5431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Abyss | 156895 | [156895-lost-in-abyss.json](./156895-lost-in-abyss.json) |
 | Lost in Anomaly | 325622 | [325622-lost-in-anomaly.json](./325622-lost-in-anomaly.json) |
 | Lost in Art | 407328 | [407328-lost-in-art.json](./407328-lost-in-art.json) |
+| Lost in Bardo | 74954 | [74954-lost-in-bardo.json](./74954-lost-in-bardo.json) |
 | Lost in Blindness | 146709 | [146709-lost-in-blindness.json](./146709-lost-in-blindness.json) |
 | Lost in Blue | 175759 | [175759-lost-in-blue.json](./175759-lost-in-blue.json) |
 | Lost In Blue 2: Fate's Island | 318018 | [318018-lost-in-blue-2-fates-island.json](./318018-lost-in-blue-2-fates-island.json) |
@@ -6278,6 +6280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Night: Texas Hold'em VR | 51503 | [51503-lucky-night-texas-holdem-vr.json](./51503-lucky-night-texas-holdem-vr.json) |
 | Lucky of Love | 114090 | [114090-lucky-of-love.json](./114090-lucky-of-love.json) |
 | Lucky One | 273973 | [273973-lucky-one.json](./273973-lucky-one.json) |
+| Lucky Panda | 74942 | [74942-lucky-panda.json](./74942-lucky-panda.json) |
 | Lucky Paradox | 239300 | [239300-lucky-paradox.json](./239300-lucky-paradox.json) |
 | Lucky Penguin | 141104 | [141104-lucky-penguin.json](./141104-lucky-penguin.json) |
 | Lucky Penguin | 312232 | [312232-lucky-penguin.json](./312232-lucky-penguin.json) |
