@@ -4771,6 +4771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride Kamens | 304186 | [304186-ride-kamens.json](./304186-ride-kamens.json) |
 | Ride or Die: A Bad Boy Romance - Book 1 | 313719 | [313719-ride-or-die-a-bad-boy-romance-book-1.json](./313719-ride-or-die-a-bad-boy-romance-book-1.json) |
 | Ride or Die! | 250997 | [250997-ride-or-die.json](./250997-ride-or-die.json) |
+| Ride Out Heroes | 124515 | [124515-ride-out-heroes.json](./124515-ride-out-heroes.json) |
 | Ride the Bullet | 35570 | [35570-ride-the-bullet.json](./35570-ride-the-bullet.json) |
 | Ride the Comix | 137007 | [137007-ride-the-comix.json](./137007-ride-the-comix.json) |
 | Ride the Tuft | 70036 | [70036-ride-the-tuft.json](./70036-ride-the-tuft.json) |
