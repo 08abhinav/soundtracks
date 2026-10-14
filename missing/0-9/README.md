@@ -879,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1989 QianShanMen | 259288 | [259288-1989-qianshanmen.json](./259288-1989-qianshanmen.json) |
 | 198X | 100562 | [100562-198x.json](./100562-198x.json) |
 | 1990 | 219506 | [219506-1990.json](./219506-1990.json) |
+| 1990 | 77214 | [77214-1990.json](./77214-1990.json) |
 | 1990: Die 1993'er Edition | 38854 | [38854-1990-die-1993er-edition.json](./38854-1990-die-1993er-edition.json) |
 | 1991 | 283080 | [283080-1991.json](./283080-1991.json) |
 | 1991 Du Ma Racing | 22428 | [22428-1991-du-ma-racing.json](./22428-1991-du-ma-racing.json) |
@@ -1466,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Gear | 234587 | [234587-3d-gear.json](./234587-3d-gear.json) |
 | 3D Genesis | 268558 | [268558-3d-genesis.json](./268558-3d-genesis.json) |
 | 3D Ghost Attack! | 40666 | [40666-3d-ghost-attack.json](./40666-3d-ghost-attack.json) |
+| 3D Golden Warrior | 77216 | [77216-3d-golden-warrior.json](./77216-3d-golden-warrior.json) |
 | 3D Gravity Rocket | 102974 | [102974-3d-gravity-rocket.json](./102974-3d-gravity-rocket.json) |
 | 3D Gunner | 128551 | [128551-3d-gunner.json](./128551-3d-gunner.json) |
 | 3D Havoc | 11110 | [11110-3d-havoc.json](./11110-3d-havoc.json) |
