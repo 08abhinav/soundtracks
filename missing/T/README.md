@@ -5249,6 +5249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crust: Supporter Pack | 400874 | [400874-the-crust-supporter-pack.json](./400874-the-crust-supporter-pack.json) |
 | The Crypt of Treasure | 219551 | [219551-the-crypt-of-treasure.json](./219551-the-crypt-of-treasure.json) |
 | The Crypt Terror | 231516 | [231516-the-crypt-terror.json](./231516-the-crypt-terror.json) |
+| The Cryptkeepers of Hallowford | 81931 | [81931-the-cryptkeepers-of-hallowford.json](./81931-the-cryptkeepers-of-hallowford.json) |
 | The Crypto Prophecies | 186005 | [186005-the-crypto-prophecies.json](./186005-the-crypto-prophecies.json) |
 | The Cryptokiller | 376542 | [376542-the-cryptokiller.json](./376542-the-cryptokiller.json) |
 | The Cryptologist Room | 154430 | [154430-the-cryptologist-room.json](./154430-the-cryptologist-room.json) |
@@ -5596,6 +5597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Demons Told Me to Make This Game | 342666 | [342666-the-demons-told-me-to-make-this-game.json](./342666-the-demons-told-me-to-make-this-game.json) |
 | The Den of Worms | 159851 | [159851-the-den-of-worms.json](./159851-the-den-of-worms.json) |
 | The Denpa Men: They Came By Wave | 9662 | [9662-the-denpa-men-they-came-by-wave.json](./9662-the-denpa-men-they-came-by-wave.json) |
+| The Departure | 81981 | [81981-the-departure.json](./81981-the-departure.json) |
 | The Depraved Vampire Slut | 152207 | [152207-the-depraved-vampire-slut.json](./152207-the-depraved-vampire-slut.json) |
 | The Depths of Depravity | 345133 | [345133-the-depths-of-depravity.json](./345133-the-depths-of-depravity.json) |
 | The Depths of Despair | 317305 | [317305-the-depths-of-despair.json](./317305-the-depths-of-despair.json) |
@@ -5747,6 +5749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dragon's Turnabout | 303025 | [303025-the-dragons-turnabout.json](./303025-the-dragons-turnabout.json) |
 | The Dragoness: Command of the Flame | 211984 | [211984-the-dragoness-command-of-the-flame.json](./211984-the-dragoness-command-of-the-flame.json) |
 | The Dragonspire | 306087 | [306087-the-dragonspire.json](./306087-the-dragonspire.json) |
+| The Drain Collector | 81993 | [81993-the-drain-collector.json](./81993-the-drain-collector.json) |
 | The Drained Goddess | 157931 | [157931-the-drained-goddess.json](./157931-the-drained-goddess.json) |
 | The Draugr | 107004 | [107004-the-draugr.json](./107004-the-draugr.json) |
 | The Drawn Hour | 408727 | [408727-the-drawn-hour.json](./408727-the-drawn-hour.json) |
@@ -10260,6 +10263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quest for Moe's | 112977 | [112977-the-quest-for-moes.json](./112977-the-quest-for-moes.json) |
 | The Quest for One | 202970 | [202970-the-quest-for-one.json](./202970-the-quest-for-one.json) |
 | The Quest For Royal Love | 184909 | [184909-the-quest-for-royal-love.json](./184909-the-quest-for-royal-love.json) |
+| The Quest for the Big Key | 81979 | [81979-the-quest-for-the-big-key.json](./81979-the-quest-for-the-big-key.json) |
 | The Quest for the Candies | 222973 | [222973-the-quest-for-the-candies.json](./222973-the-quest-for-the-candies.json) |
 | The Quest for the Golden Egg Cup | 13025 | [13025-the-quest-for-the-golden-egg-cup.json](./13025-the-quest-for-the-golden-egg-cup.json) |
 | The Quest for the Holy Grail | 25967 | [25967-the-quest-for-the-holy-grail.json](./25967-the-quest-for-the-holy-grail.json) |
@@ -10701,6 +10705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scene Of the Crime | 383374 | [383374-the-scene-of-the-crime.json](./383374-the-scene-of-the-crime.json) |
 | The Scenic Treasures - Japanese Learning Visual Novel | 112927 | [112927-the-scenic-treasures-japanese-learning-visual-novel.json](./112927-the-scenic-treasures-japanese-learning-visual-novel.json) |
 | The Scent of Home | 181729 | [181729-the-scent-of-home.json](./181729-the-scent-of-home.json) |
+| The Scent of Summer | 81983 | [81983-the-scent-of-summer.json](./81983-the-scent-of-summer.json) |
 | The Scheme | 62582 | [62582-the-scheme.json](./62582-the-scheme.json) |
 | The Schism | 291358 | [291358-the-schism.json](./291358-the-schism.json) |
 | The Schizophrenic Dynasty of Müller | 155847 | [155847-the-schizophrenic-dynasty-of-muller.json](./155847-the-schizophrenic-dynasty-of-muller.json) |
@@ -20166,6 +20171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transit King Tycoon | 140399 | [140399-transit-king-tycoon.json](./140399-transit-king-tycoon.json) |
 | Transit Trauma | 179454 | [179454-transit-trauma.json](./179454-transit-trauma.json) |
 | Transition | 229838 | [229838-transition.json](./229838-transition.json) |
+| Transition to adulthood | 81945 | [81945-transition-to-adulthood.json](./81945-transition-to-adulthood.json) |
 | Transitions | 181732 | [181732-transitions.json](./181732-transitions.json) |
 | TransMemory | 318802 | [318802-transmemory.json](./318802-transmemory.json) |
 | Transmigration | 334910 | [334910-transmigration.json](./334910-transmigration.json) |
@@ -20632,6 +20638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tremor: Part I - Genesis | 313162 | [313162-tremor-part-i-genesis.json](./313162-tremor-part-i-genesis.json) |
 | Tremors: The Game | 127959 | [127959-tremors-the-game.json](./127959-tremors-the-game.json) |
 | Tren | 344455 | [344455-tren.json](./344455-tren.json) |
+| Tren0 | 81974 | [81974-tren0.json](./81974-tren0.json) |
 | Trench Face | 365220 | [365220-trench-face.json](./365220-trench-face.json) |
 | Trench Foot | 148157 | [148157-trench-foot.json](./148157-trench-foot.json) |
 | Trench Lord: Eastern Front | 369049 | [369049-trench-lord-eastern-front.json](./369049-trench-lord-eastern-front.json) |
@@ -21827,6 +21834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuned Heart | 45971 | [45971-tuned-heart.json](./45971-tuned-heart.json) |
 | Tuned to Your Heart | 225562 | [225562-tuned-to-your-heart.json](./225562-tuned-to-your-heart.json) |
 | Tuneria | 140025 | [140025-tuneria.json](./140025-tuneria.json) |
+| Tunescape | 81991 | [81991-tunescape.json](./81991-tunescape.json) |
 | Tunestrike | 374935 | [374935-tunestrike.json](./374935-tunestrike.json) |
 | Tung Sahur Zombie | 351749 | [351749-tung-sahur-zombie.json](./351749-tung-sahur-zombie.json) |
 | Tung Tung Sahur: Obby Challenge | 384784 | [384784-tung-tung-sahur-obby-challenge.json](./384784-tung-tung-sahur-obby-challenge.json) |
