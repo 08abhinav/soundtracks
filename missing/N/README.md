@@ -4480,6 +4480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norman | 60590 | [60590-norman.json](./60590-norman.json) |
 | Norman Cooks in "Search for the Don" | 71056 | [71056-norman-cooks-in-search-for-the-don.json](./71056-norman-cooks-in-search-for-the-don.json) |
 | Norman's Escape | 141495 | [141495-normans-escape.json](./141495-normans-escape.json) |
+| Norman's Night In | 115518 | [115518-normans-night-in.json](./115518-normans-night-in.json) |
 | Norman's Sky | 179001 | [179001-normans-sky.json](./179001-normans-sky.json) |
 | Norn9: Last Era - Limited Edition | 249735 | [249735-norn9-last-era-limited-edition.json](./249735-norn9-last-era-limited-edition.json) |
 | Nornium | 293384 | [293384-nornium.json](./293384-nornium.json) |
