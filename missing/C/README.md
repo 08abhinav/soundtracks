@@ -8592,7 +8592,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conan Exiles Enhanced | 402464 | [402464-conan-exiles-enhanced.json](./402464-conan-exiles-enhanced.json) |
 | Conan Exiles: Blood and Sand Pack | 164781 | [164781-conan-exiles-blood-and-sand-pack.json](./164781-conan-exiles-blood-and-sand-pack.json) |
 | Conan Exiles: Blood and Sand Pack | 227160 | [227160-conan-exiles-blood-and-sand-pack.json](./227160-conan-exiles-blood-and-sand-pack.json) |
+| Conan Exiles: Complete Edition | 118696 | [118696-conan-exiles-complete-edition.json](./118696-conan-exiles-complete-edition.json) |
 | Conan Exiles: Debaucheries of Derketo Pack | 164823 | [164823-conan-exiles-debaucheries-of-derketo-pack.json](./164823-conan-exiles-debaucheries-of-derketo-pack.json) |
+| Conan Exiles: Deluxe Edition | 118697 | [118697-conan-exiles-deluxe-edition.json](./118697-conan-exiles-deluxe-edition.json) |
 | Conan Exiles: Isle of Siptah | 167762 | [167762-conan-exiles-isle-of-siptah.json](./167762-conan-exiles-isle-of-siptah.json) |
 | Conan Exiles: Isle of Siptah Edition | 164809 | [164809-conan-exiles-isle-of-siptah-edition.json](./164809-conan-exiles-isle-of-siptah-edition.json) |
 | Conan Exiles: People of the Dragon Pack | 227159 | [227159-conan-exiles-people-of-the-dragon-pack.json](./227159-conan-exiles-people-of-the-dragon-pack.json) |
@@ -11798,6 +11800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowbar Climber | 348928 | [348928-crowbar-climber.json](./348928-crowbar-climber.json) |
 | Crowborne | 295786 | [295786-crowborne.json](./295786-crowborne.json) |
 | Crowd | 263109 | [263109-crowd.json](./263109-crowd.json) |
+| Crowd City | 118715 | [118715-crowd-city.json](./118715-crowd-city.json) |
 | Crowd City | 268535 | [268535-crowd-city.json](./268535-crowd-city.json) |
 | Crowd City: Complete Edition | 270299 | [270299-crowd-city-complete-edition.json](./270299-crowd-city-complete-edition.json) |
 | Crowd City: Treasure Edition | 371437 | [371437-crowd-city-treasure-edition.json](./371437-crowd-city-treasure-edition.json) |
