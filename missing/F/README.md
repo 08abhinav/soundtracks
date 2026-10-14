@@ -7599,6 +7599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fraxy | 124574 | [124574-fraxy.json](./124574-fraxy.json) |
 | Fray | 305518 | [305518-fray.json](./305518-fray.json) |
 | Fray | 381038 | [381038-fray.json](./381038-fray.json) |
+| Fray | 94118 | [94118-fray.json](./94118-fray.json) |
 | Fray in Magical Adventure CD: Xak Gaiden | 65273 | [65273-fray-in-magical-adventure-cd-xak-gaiden.json](./65273-fray-in-magical-adventure-cd-xak-gaiden.json) |
 | Fray: Reloaded Edition | 16364 | [16364-fray-reloaded-edition.json](./16364-fray-reloaded-edition.json) |
 | Fray: Shugyou-hen | 130763 | [130763-fray-shugyou-hen.json](./130763-fray-shugyou-hen.json) |
