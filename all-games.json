@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T21:27:04.891Z",
-  "total_soundtracks": 1660,
+  "generated_at": "2026-10-14T21:27:17.188Z",
+  "total_soundtracks": 1661,
   "games": [
     {
       "igdb_id": 7522,
@@ -9826,6 +9826,20 @@
           "album_name": "Manor Lords (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0NRScKQ0E4Sa0ExtY6W8ug",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 2710,
+      "game_name": "Mappy",
+      "game_url": "https://ostdb.net/games/mappy",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27302576cdbc3c09b1610b247e0",
+      "albums": [
+        {
+          "album_name": "MAPPY (Game Sound Effect) Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5gQgOBTtyyDtRNARAjNGVn",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
