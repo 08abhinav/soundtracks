@@ -637,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Charge | 309676 | [309676-war-of-charge.json](./309676-war-of-charge.json) |
 | War of Chess | 390586 | [390586-war-of-chess.json](./390586-war-of-chess.json) |
 | War of Colony | 86946 | [86946-war-of-colony.json](./86946-war-of-colony.json) |
+| War of Conquest | 109426 | [109426-war-of-conquest.json](./109426-war-of-conquest.json) |
 | War of Criminals | 89969 | [89969-war-of-criminals.json](./89969-war-of-criminals.json) |
 | War of Crown | 76567 | [76567-war-of-crown.json](./76567-war-of-crown.json) |
 | War of Deities | 208103 | [208103-war-of-deities.json](./208103-war-of-deities.json) |
