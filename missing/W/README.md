@@ -4189,6 +4189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wish a Wish | 253810 | [253810-wish-a-wish.json](./253810-wish-a-wish.json) |
 | Wish Eater | 288464 | [288464-wish-eater.json](./288464-wish-eater.json) |
 | Wish Giver | 110921 | [110921-wish-giver.json](./110921-wish-giver.json) |
+| Wish Giver | 112189 | [112189-wish-giver.json](./112189-wish-giver.json) |
 | Wish of Abyss Dungeon | 195143 | [195143-wish-of-abyss-dungeon.json](./195143-wish-of-abyss-dungeon.json) |
 | Wish Of Hers | 385744 | [385744-wish-of-hers.json](./385744-wish-of-hers.json) |
 | Wish on this Flower | 360611 | [360611-wish-on-this-flower.json](./360611-wish-on-this-flower.json) |
@@ -4982,6 +4983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Builder for Oliver | 92091 | [92091-word-builder-for-oliver.json](./92091-word-builder-for-oliver.json) |
 | Word Bump | 148291 | [148291-word-bump.json](./148291-word-bump.json) |
 | Word Cafe 21 | 232065 | [232065-word-cafe-21.json](./232065-word-cafe-21.json) |
+| Word Carnivale | 112210 | [112210-word-carnivale.json](./112210-word-carnivale.json) |
 | Word Challenge | 342250 | [342250-word-challenge.json](./342250-word-challenge.json) |
 | Word Chaos | 217984 | [217984-word-chaos.json](./217984-word-chaos.json) |
 | Word Charades | 396009 | [396009-word-charades.json](./396009-word-charades.json) |
