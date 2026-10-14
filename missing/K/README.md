@@ -3790,6 +3790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krazy Kakoom | 208089 | [208089-krazy-kakoom.json](./208089-krazy-kakoom.json) |
 | Krazy Kart Racing | 67688 | [67688-krazy-kart-racing.json](./67688-krazy-kart-racing.json) |
 | Krazy Kart! | 310968 | [310968-krazy-kart.json](./310968-krazy-kart.json) |
+| Krazy Kobra | 94620 | [94620-krazy-kobra.json](./94620-krazy-kobra.json) |
 | Kreatur Bout | 391825 | [391825-kreatur-bout.json](./391825-kreatur-bout.json) |
 | KreatureKind | 152194 | [152194-kreaturekind.json](./152194-kreaturekind.json) |
 | Kredolis | 151143 | [151143-kredolis.json](./151143-kredolis.json) |
