@@ -1841,6 +1841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legende im Eis | 138525 | [138525-legende-im-eis.json](./138525-legende-im-eis.json) |
 | Legendino | 224021 | [224021-legendino.json](./224021-legendino.json) |
 | Legendo's the Three Musketeers | 71533 | [71533-legendos-the-three-musketeers.json](./71533-legendos-the-three-musketeers.json) |
+| Legends & Myths Bundle | 125137 | [125137-legends-and-myths-bundle.json](./125137-legends-and-myths-bundle.json) |
 | Legends Aligned | 335085 | [335085-legends-aligned.json](./335085-legends-aligned.json) |
 | Legends BMX | 325081 | [325081-legends-bmx.json](./325081-legends-bmx.json) |
 | Legends Core Plus | 231401 | [231401-legends-core-plus.json](./231401-legends-core-plus.json) |
@@ -1947,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion: Dead Metal | 249214 | [249214-legion-dead-metal.json](./249214-legion-dead-metal.json) |
 | Legion: Legend of Excalibur | 44714 | [44714-legion-legend-of-excalibur.json](./44714-legion-legend-of-excalibur.json) |
 | Legionbound | 387609 | [387609-legionbound.json](./387609-legionbound.json) |
+| Legioncraft | 125114 | [125114-legioncraft.json](./125114-legioncraft.json) |
 | Legionnaire | 23968 | [23968-legionnaire.json](./23968-legionnaire.json) |
 | Legionnaire | 81453 | [81453-legionnaire.json](./81453-legionnaire.json) |
 | Legions Masters | 130671 | [130671-legions-masters.json](./130671-legions-masters.json) |
@@ -5305,6 +5307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Gold | 156065 | [156065-lost-gold.json](./156065-lost-gold.json) |
 | Lost Grimoires 1-3 | 185983 | [185983-lost-grimoires-1-3.json](./185983-lost-grimoires-1-3.json) |
 | Lost Grimoires 2: Shard of Mystery | 29961 | [29961-lost-grimoires-2-shard-of-mystery.json](./29961-lost-grimoires-2-shard-of-mystery.json) |
+| Lost Grimoires Collection | 125138 | [125138-lost-grimoires-collection.json](./125138-lost-grimoires-collection.json) |
 | Lost Group | 291188 | [291188-lost-group.json](./291188-lost-group.json) |
 | Lost Hammer | 221754 | [221754-lost-hammer.json](./221754-lost-hammer.json) |
 | Lost Harem | 173823 | [173823-lost-harem.json](./173823-lost-harem.json) |
@@ -6701,6 +6704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luxworks | 211976 | [211976-luxworks.json](./211976-luxworks.json) |
 | Luyen Nguc | 255237 | [255237-luyen-nguc.json](./255237-luyen-nguc.json) |
 | Lǜyěxiānzōng | 320152 | [320152-luyexianzong.json](./320152-luyexianzong.json) |
+| LV-426 | 125139 | [125139-lv-426.json](./125139-lv-426.json) |
 | LV99: Final Fortress | 140592 | [140592-lv99-final-fortress.json](./140592-lv99-final-fortress.json) |
 | LVL99: AxeRage | 125917 | [125917-lvl99-axerage.json](./125917-lvl99-axerage.json) |
 | LXD: Red Honey | 305877 | [305877-lxd-red-honey.json](./305877-lxd-red-honey.json) |
