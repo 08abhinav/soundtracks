@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Brought the Noble Girl Home | 293850 | [293850-i-brought-the-noble-girl-home.json](./293850-i-brought-the-noble-girl-home.json) |
 | I Bug | 340501 | [340501-i-bug.json](./340501-i-bug.json) |
 | I C Redd | 84543 | [84543-i-c-redd.json](./84543-i-c-redd.json) |
+| I Can Be a Dinosaur Finder | 85976 | [85976-i-can-be-a-dinosaur-finder.json](./85976-i-can-be-a-dinosaur-finder.json) |
 | I Can Destroy Everything!!! | 274739 | [274739-i-can-destroy-everything.json](./274739-i-can-destroy-everything.json) |
 | I Can Gun | 111502 | [111502-i-can-gun.json](./111502-i-can-gun.json) |
 | I Can Hold My Breath Forever | 139813 | [139813-i-can-hold-my-breath-forever.json](./139813-i-can-hold-my-breath-forever.json) |
