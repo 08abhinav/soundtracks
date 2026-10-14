@@ -6184,6 +6184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Factory | 326051 | [326051-planet-factory.json](./326051-planet-factory.json) |
 | Planet Fights | 239323 | [239323-planet-fights.json](./239323-planet-fights.json) |
 | Planet Finder | 362299 | [362299-planet-finder.json](./362299-planet-finder.json) |
+| Planet Fish | 84725 | [84725-planet-fish.json](./84725-planet-fish.json) |
 | Planet Flipper | 394893 | [394893-planet-flipper.json](./394893-planet-flipper.json) |
 | Planet G | 209972 | [209972-planet-g.json](./209972-planet-g.json) |
 | Planet Gallery | 379124 | [379124-planet-gallery.json](./379124-planet-gallery.json) |
@@ -6530,8 +6531,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platypus II | 36229 | [36229-platypus-ii.json](./36229-platypus-ii.json) |
 | Platzkart Simulator | 158201 | [158201-platzkart-simulator.json](./158201-platzkart-simulator.json) |
 | Plausible Deniability: Cover Your Tracks | 410258 | [410258-plausible-deniability-cover-your-tracks.json](./410258-plausible-deniability-cover-your-tracks.json) |
+| Play & Learn Chinese | 84723 | [84723-play-and-learn-chinese.json](./84723-play-and-learn-chinese.json) |
 | Play & Learn Kids' Mini-Game Collection | 345995 | [345995-play-and-learn-kids-mini-game-collection.json](./345995-play-and-learn-kids-mini-game-collection.json) |
 | Play & Learn My First Katakana | 420696 | [420696-play-and-learn-my-first-katakana.json](./420696-play-and-learn-my-first-katakana.json) |
+| Play & Learn Spanish | 84722 | [84722-play-and-learn-spanish.json](./84722-play-and-learn-spanish.json) |
 | Play Abalone | 374615 | [374615-play-abalone.json](./374615-play-abalone.json) |
 | Play Action Football | 49052 | [49052-play-action-football.json](./49052-play-action-football.json) |
 | Play and Learn with Josephine | 205021 | [205021-play-and-learn-with-josephine.json](./205021-play-and-learn-with-josephine.json) |
@@ -6572,6 +6575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play to Befriend a Pokémon! | 234098 | [234098-play-to-befriend-a-pokemon.json](./234098-play-to-befriend-a-pokemon.json) |
 | Play to Cure: Genes in Space | 133711 | [133711-play-to-cure-genes-in-space.json](./133711-play-to-cure-genes-in-space.json) |
 | Play To Win | 276788 | [276788-play-to-win.json](./276788-play-to-win.json) |
+| Play with Birds | 84721 | [84721-play-with-birds.json](./84721-play-with-birds.json) |
 | Play With Gilbert: A Small Tail | 157722 | [157722-play-with-gilbert-a-small-tail.json](./157722-play-with-gilbert-a-small-tail.json) |
 | Play With Kizami | 105579 | [105579-play-with-kizami.json](./105579-play-with-kizami.json) |
 | Play With Me | 182885 | [182885-play-with-me.json](./182885-play-with-me.json) |
@@ -6758,6 +6762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plekos | 255032 | [255032-plekos.json](./255032-plekos.json) |
 | Plentiful | 341567 | [341567-plentiful.json](./341567-plentiful.json) |
 | Plenty of Fish in the Sea | 337492 | [337492-plenty-of-fish-in-the-sea.json](./337492-plenty-of-fish-in-the-sea.json) |
+| Plenty of Fishies | 84720 | [84720-plenty-of-fishies.json](./84720-plenty-of-fishies.json) |
 | Plentypede | 192828 | [192828-plentypede.json](./192828-plentypede.json) |
 | Pleonexia | 246119 | [246119-pleonexia.json](./246119-pleonexia.json) |
 | Plerbtonia | 320174 | [320174-plerbtonia.json](./320174-plerbtonia.json) |
@@ -6997,6 +7002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Necromancer | 319383 | [319383-pocket-necromancer.json](./319383-pocket-necromancer.json) |
 | Pocket no Naka no Doraemon | 37357 | [37357-pocket-no-naka-no-doraemon.json](./37357-pocket-no-naka-no-doraemon.json) |
 | Pocket of Horror | 344566 | [344566-pocket-of-horror.json](./344566-pocket-of-horror.json) |
+| Pocket Pack: Strategy Games | 84719 | [84719-pocket-pack-strategy-games.json](./84719-pocket-pack-strategy-games.json) |
 | Pocket Pack: Words & Numbers | 85346 | [85346-pocket-pack-words-and-numbers.json](./85346-pocket-pack-words-and-numbers.json) |
 | Pocket Pet | 230730 | [230730-pocket-pet.json](./230730-pocket-pet.json) |
 | Pocket Pioneers | 152388 | [152388-pocket-pioneers.json](./152388-pocket-pioneers.json) |
@@ -12379,9 +12385,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuzzlePet: Feed Your Cat | 163561 | [163561-puzzlepet-feed-your-cat.json](./163561-puzzlepet-feed-your-cat.json) |
 | Puzzlepops! Plus | 244171 | [244171-puzzlepops-plus.json](./244171-puzzlepops-plus.json) |
 | Puzzler | 104252 | [104252-puzzler.json](./104252-puzzler.json) |
+| Puzzler Brain Games | 84788 | [84788-puzzler-brain-games.json](./84788-puzzler-brain-games.json) |
 | Puzzler Clover | 69300 | [69300-puzzler-clover.json](./69300-puzzler-clover.json) |
 | Puzzler King | 97261 | [97261-puzzler-king.json](./97261-puzzler-king.json) |
 | Puzzler World | 308990 | [308990-puzzler-world.json](./308990-puzzler-world.json) |
+| Puzzler World XL | 84786 | [84786-puzzler-world-xl.json](./84786-puzzler-world-xl.json) |
 | Puzzlerama | 289567 | [289567-puzzlerama.json](./289567-puzzlerama.json) |
 | Puzzlerio | 270945 | [270945-puzzlerio.json](./270945-puzzlerio.json) |
 | Puzzles & Board Games Mega Collection | 105182 | [105182-puzzles-and-board-games-mega-collection.json](./105182-puzzles-and-board-games-mega-collection.json) |
