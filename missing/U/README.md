@@ -1365,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undoing Evil | 195271 | [195271-undoing-evil.json](./195271-undoing-evil.json) |
 | Undomestic | 256417 | [256417-undomestic.json](./256417-undomestic.json) |
 | Undone Mind | 216732 | [216732-undone-mind.json](./216732-undone-mind.json) |
+| Undress Tournament | 113454 | [113454-undress-tournament.json](./113454-undress-tournament.json) |
 | Undress! | 369653 | [369653-undress.json](./369653-undress.json) |
 | Unduhagge | 229658 | [229658-unduhagge.json](./229658-unduhagge.json) |
 | Undulations | 285686 | [285686-undulations.json](./285686-undulations.json) |
