@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.A.D. | 362277 | [362277-b-a-d.json](./362277-b-a-d.json) |
 | B.A.L.L.O | 338753 | [338753-b-a-l-l-o.json](./338753-b-a-l-l-o.json) |
 | B.A.N.K. | 346766 | [346766-b-a-n-k.json](./346766-b-a-n-k.json) |
+| B.A.S.E | 80395 | [80395-b-a-s-e.json](./80395-b-a-s-e.json) |
 | B.A.S.E. Jumping | 137095 | [137095-b-a-s-e-jumping.json](./137095-b-a-s-e-jumping.json) |
 | B.A.S.E. Jumping Game | 60786 | [60786-b-a-s-e-jumping-game.json](./60786-b-a-s-e-jumping-game.json) |
 | B.A.T. | 185657 | [185657-b-a-t.json](./185657-b-a-t.json) |
@@ -1858,6 +1859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baron Baldric: A Grave Adventure | 14287 | [14287-baron-baldric-a-grave-adventure.json](./14287-baron-baldric-a-grave-adventure.json) |
 | Baron of Blood | 159153 | [159153-baron-of-blood.json](./159153-baron-of-blood.json) |
 | Baron of Shell | 256772 | [256772-baron-of-shell.json](./256772-baron-of-shell.json) |
+| Baron von Puttyngton versus the Cancerous M.C. Escher Maze of Cheese | 80428 | [80428-baron-von-puttyngton-versus-the-cancerous-m-c-escher-maze-of-cheese.json](./80428-baron-von-puttyngton-versus-the-cancerous-m-c-escher-maze-of-cheese.json) |
 | Baron Wittard: Nemesis of Ragnarok | 10022 | [10022-baron-wittard-nemesis-of-ragnarok.json](./10022-baron-wittard-nemesis-of-ragnarok.json) |
 | Barony | 35189 | [35189-barony.json](./35189-barony.json) |
 | Barony: Legends & Pariahs | 154520 | [154520-barony-legends-and-pariahs.json](./154520-barony-legends-and-pariahs.json) |
@@ -3032,6 +3034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleSphere Gold | 40813 | [40813-battlesphere-gold.json](./40813-battlesphere-gold.json) |
 | BattleSport | 19993 | [19993-battlesport.json](./19993-battlesport.json) |
 | Battlestage | 171396 | [171396-battlestage.json](./171396-battlestage.json) |
+| Battlestar Galactica | 80427 | [80427-battlestar-galactica.json](./80427-battlestar-galactica.json) |
 | Battlestar Galactica Deadlock: Anabasis | 110891 | [110891-battlestar-galactica-deadlock-anabasis.json](./110891-battlestar-galactica-deadlock-anabasis.json) |
 | Battlestar Galactica Deadlock: Armistice | 171015 | [171015-battlestar-galactica-deadlock-armistice.json](./171015-battlestar-galactica-deadlock-armistice.json) |
 | Battlestar Galactica Deadlock: Ghost Fleet Offensive | 129481 | [129481-battlestar-galactica-deadlock-ghost-fleet-offensive.json](./129481-battlestar-galactica-deadlock-ghost-fleet-offensive.json) |
