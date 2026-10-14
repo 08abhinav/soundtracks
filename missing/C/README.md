@@ -2796,6 +2796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch Thieves | 303726 | [303726-catch-thieves.json](./303726-catch-thieves.json) |
 | Catch You: 1 to 10 Player Stickman Hunting Game | 103660 | [103660-catch-you-1-to-10-player-stickman-hunting-game.json](./103660-catch-you-1-to-10-player-stickman-hunting-game.json) |
 | Catch Your Kitty | 129122 | [129122-catch-your-kitty.json](./129122-catch-your-kitty.json) |
+| Catch-22 | 94163 | [94163-catch-22.json](./94163-catch-22.json) |
 | Catch'em | 302138 | [302138-catchem.json](./302138-catchem.json) |
 | Catcha | 327398 | [327398-catcha.json](./327398-catcha.json) |
 | Catcha Catcha Aliens! | 61630 | [61630-catcha-catcha-aliens.json](./61630-catcha-catcha-aliens.json) |
@@ -4129,6 +4130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CheckMaze | 244678 | [244678-checkmaze.json](./244678-checkmaze.json) |
 | CheckOut | 325579 | [325579-checkout.json](./325579-checkout.json) |
 | Checkout! | 284816 | [284816-checkout.json](./284816-checkout.json) |
+| Checkpoint | 94120 | [94120-checkpoint.json](./94120-checkpoint.json) |
 | Checkpoint Gary | 281371 | [281371-checkpoint-gary.json](./281371-checkpoint-gary.json) |
 | Checkpoint Madness HD | 338829 | [338829-checkpoint-madness-hd.json](./338829-checkpoint-madness-hd.json) |
 | Cheddly and Cloud's Crazy Adventure | 332222 | [332222-cheddly-and-clouds-crazy-adventure.json](./332222-cheddly-and-clouds-crazy-adventure.json) |
@@ -7414,6 +7416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffeetime Crosswords | 74409 | [74409-coffeetime-crosswords.json](./74409-coffeetime-crosswords.json) |
 | Coffence | 29688 | [29688-coffence.json](./29688-coffence.json) |
 | Coffie Simulator | 345613 | [345613-coffie-simulator.json](./345613-coffie-simulator.json) |
+| Coffin | 94136 | [94136-coffin.json](./94136-coffin.json) |
 | Coffin Counseling | 179704 | [179704-coffin-counseling.json](./179704-coffin-counseling.json) |
 | Coffinman | 337463 | [337463-coffinman.json](./337463-coffinman.json) |
 | Cog Fire | 291483 | [291483-cog-fire.json](./291483-cog-fire.json) |
@@ -8635,6 +8638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Circus Maximus | 72039 | [72039-computer-circus-maximus.json](./72039-computer-circus-maximus.json) |
 | Computer Club | 211646 | [211646-computer-club.json](./211646-computer-club.json) |
 | Computer Diplomacy | 72163 | [72163-computer-diplomacy.json](./72163-computer-diplomacy.json) |
+| Computer Facts in Five | 94156 | [94156-computer-facts-in-five.json](./94156-computer-facts-in-five.json) |
 | Computer Foreign Exchange | 282121 | [282121-computer-foreign-exchange.json](./282121-computer-foreign-exchange.json) |
 | Computer Genealogy Mantra | 294468 | [294468-computer-genealogy-mantra.json](./294468-computer-genealogy-mantra.json) |
 | Computer Gin Rummy | 59779 | [59779-computer-gin-rummy.json](./59779-computer-gin-rummy.json) |
