@@ -1692,6 +1692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viral Quarantine | 116404 | [116404-viral-quarantine.json](./116404-viral-quarantine.json) |
 | Viral Reload | 194344 | [194344-viral-reload.json](./194344-viral-reload.json) |
 | Viral Survival | 85475 | [85475-viral-survival.json](./85475-viral-survival.json) |
+| Virality | 84136 | [84136-virality.json](./84136-virality.json) |
 | Virar | 276814 | [276814-virar.json](./276814-virar.json) |
 | Virche Evermore: EpiC:Lycoris | 241528 | [241528-virche-evermore-epic-lycoris.json](./241528-virche-evermore-epic-lycoris.json) |
 | Virche Evermore: ErroR:salvation | 147480 | [147480-virche-evermore-error-salvation.json](./147480-virche-evermore-error-salvation.json) |
