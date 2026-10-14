@@ -2561,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scurry | 97711 | [97711-scurry.json](./97711-scurry.json) |
 | Scurvy Dogs | 224761 | [224761-scurvy-dogs.json](./224761-scurvy-dogs.json) |
 | Scurvy Scallywags | 63663 | [63663-scurvy-scallywags.json](./63663-scurvy-scallywags.json) |
+| Scutter | 103957 | [103957-scutter.json](./103957-scutter.json) |
 | Scuttle | 285697 | [285697-scuttle.json](./285697-scuttle.json) |
 | Scuttle's Thingamubobs | 246533 | [246533-scuttles-thingamubobs.json](./246533-scuttles-thingamubobs.json) |
 | Scutum Phanti | 120059 | [120059-scutum-phanti.json](./120059-scutum-phanti.json) |
@@ -2790,6 +2791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sealed Bite: Extended | 291228 | [291228-sealed-bite-extended.json](./291228-sealed-bite-extended.json) |
 | Sealed Fortress | 403228 | [403228-sealed-fortress.json](./403228-sealed-fortress.json) |
 | Sealed With a Dragon’s Kiss | 298988 | [298988-sealed-with-a-dragon-s-kiss.json](./298988-sealed-with-a-dragon-s-kiss.json) |
+| Sealer Assist | 103954 | [103954-sealer-assist.json](./103954-sealer-assist.json) |
 | Sealer of Dungeons | 211707 | [211707-sealer-of-dungeons.json](./211707-sealer-of-dungeons.json) |
 | Seals From the Frosty Bay | 402302 | [402302-seals-from-the-frosty-bay.json](./402302-seals-from-the-frosty-bay.json) |
 | Seals of the Bygone | 120572 | [120572-seals-of-the-bygone.json](./120572-seals-of-the-bygone.json) |
@@ -5715,6 +5717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinsouban Mahoutsukai to Goshujin-sama: Wizard and The Master | 60251 | [60251-shinsouban-mahoutsukai-to-goshujin-sama-wizard-and-the-master.json](./60251-shinsouban-mahoutsukai-to-goshujin-sama-wizard-and-the-master.json) |
 | Shiny Ninjas | 36479 | [36479-shiny-ninjas.json](./36479-shiny-ninjas.json) |
 | Shiny Sisters | 336596 | [336596-shiny-sisters.json](./336596-shiny-sisters.json) |
+| Shiny Ski Resort | 103936 | [103936-shiny-ski-resort.json](./103936-shiny-ski-resort.json) |
 | Shiny Stones | 360696 | [360696-shiny-stones.json](./360696-shiny-stones.json) |
 | Shiny Summer | 164897 | [164897-shiny-summer.json](./164897-shiny-summer.json) |
 | Shiny the Firefly | 10823 | [10823-shiny-the-firefly.json](./10823-shiny-the-firefly.json) |
@@ -5876,6 +5879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shivering Stone | 274484 | [274484-shivering-stone.json](./274484-shivering-stone.json) |
 | Shivers | 12477 | [12477-shivers.json](./12477-shivers.json) |
 | Shiya | 178600 | [178600-shiya.json](./178600-shiya.json) |
+| Shìyuán zhī Zhǔ | 103962 | [103962-shiyuan-zhi-zhu.json](./103962-shiyuan-zhi-zhu.json) |
 | Shizoku: Shuriken Brawl | 179422 | [179422-shizoku-shuriken-brawl.json](./179422-shizoku-shuriken-brawl.json) |
 | Shizue: Innocent Curse | 117086 | [117086-shizue-innocent-curse.json](./117086-shizue-innocent-curse.json) |
 | Shizuku: Japanese myth | 219610 | [219610-shizuku-japanese-myth.json](./219610-shizuku-japanese-myth.json) |
@@ -13368,6 +13372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Troubles | 202031 | [202031-space-troubles.json](./202031-space-troubles.json) |
 | Space Trucker | 212234 | [212234-space-trucker.json](./212234-space-trucker.json) |
 | Space Turbo | 201008 | [201008-space-turbo.json](./201008-space-turbo.json) |
+| Space Turret Gunner | 103961 | [103961-space-turret-gunner.json](./103961-space-turret-gunner.json) |
 | Space Tyrant | 30348 | [30348-space-tyrant.json](./30348-space-tyrant.json) |
 | Space Valet | 177005 | [177005-space-valet.json](./177005-space-valet.json) |
 | Space Variance Authority | 337641 | [337641-space-variance-authority.json](./337641-space-variance-authority.json) |
@@ -18129,6 +18134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Angel | 400297 | [400297-storm-angel.json](./400297-storm-angel.json) |
 | Storm Area 51: The Game | 120982 | [120982-storm-area-51-the-game.json](./120982-storm-area-51-the-game.json) |
 | Storm Arena | 114425 | [114425-storm-arena.json](./114425-storm-arena.json) |
+| Storm Chaser - Tornado Alley | 103958 | [103958-storm-chaser-tornado-alley.json](./103958-storm-chaser-tornado-alley.json) |
 | Storm Chasers | 117083 | [117083-storm-chasers.json](./117083-storm-chasers.json) |
 | Storm Chasers: Tornado Islands | 128984 | [128984-storm-chasers-tornado-islands.json](./128984-storm-chasers-tornado-islands.json) |
 | Storm Chasing Sim 2025: Tornado Hunter | 374676 | [374676-storm-chasing-sim-2025-tornado-hunter.json](./374676-storm-chasing-sim-2025-tornado-hunter.json) |
@@ -19358,6 +19364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suburban Footy League | 272911 | [272911-suburban-footy-league.json](./272911-suburban-footy-league.json) |
 | Suburban Hive | 308482 | [308482-suburban-hive.json](./308482-suburban-hive.json) |
 | Suburban Hive II: Crimson Moon | 308483 | [308483-suburban-hive-ii-crimson-moon.json](./308483-suburban-hive-ii-crimson-moon.json) |
+| Suburban Scavengers | 103950 | [103950-suburban-scavengers.json](./103950-suburban-scavengers.json) |
 | Subverse | 116848 | [116848-subverse.json](./116848-subverse.json) |
 | Subverse - Celestina Unbound | 414547 | [414547-subverse-celestina-unbound.json](./414547-subverse-celestina-unbound.json) |
 | Subversion: The Official Incoming Expansion Pack | 84326 | [84326-subversion-the-official-incoming-expansion-pack.json](./84326-subversion-the-official-incoming-expansion-pack.json) |
@@ -19392,6 +19399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Success in Progress | 346679 | [346679-success-in-progress.json](./346679-success-in-progress.json) |
 | Successfully Learning German: Year 3 | 85407 | [85407-successfully-learning-german-year-3.json](./85407-successfully-learning-german-year-3.json) |
 | Successfully Learning German: Year 4 | 85406 | [85406-successfully-learning-german-year-4.json](./85406-successfully-learning-german-year-4.json) |
+| Succession - Rack-O style game | 103935 | [103935-succession-rack-o-style-game.json](./103935-succession-rack-o-style-game.json) |
 | Successor of the Moon | 115578 | [115578-successor-of-the-moon.json](./115578-successor-of-the-moon.json) |
 | Successor to Your Throne | 271935 | [271935-successor-to-your-throne.json](./271935-successor-to-your-throne.json) |
 | Succubers! Dark Covenant | 320229 | [320229-succubers-dark-covenant.json](./320229-succubers-dark-covenant.json) |
@@ -22296,6 +22304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperDriver | 122066 | [122066-superdriver.json](./122066-superdriver.json) |
 | SuperDuck! | 203680 | [203680-superduck.json](./203680-superduck.json) |
 | SuperDucks | 357363 | [357363-superducks.json](./357363-superducks.json) |
+| SuperDude | 103923 | [103923-superdude.json](./103923-superdude.json) |
 | SuperDungeon MegaCorp | 190995 | [190995-superdungeon-megacorp.json](./190995-superdungeon-megacorp.json) |
 | Superfetch Dog | 263656 | [263656-superfetch-dog.json](./263656-superfetch-dog.json) |
 | Superfidos | 242448 | [242448-superfidos.json](./242448-superfidos.json) |
@@ -22800,6 +22809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivalcraft | 87025 | [87025-survivalcraft.json](./87025-survivalcraft.json) |
 | Survivalist: Invisible Strain | 117233 | [117233-survivalist-invisible-strain.json](./117233-survivalist-invisible-strain.json) |
 | Survivalo | 337059 | [337059-survivalo.json](./337059-survivalo.json) |
+| Survivals: Battle Royale | 103974 | [103974-survivals-battle-royale.json](./103974-survivals-battle-royale.json) |
 | Survivaluck | 287758 | [287758-survivaluck.json](./287758-survivaluck.json) |
 | SurvivalZ Battlegrounds | 103009 | [103009-survivalz-battlegrounds.json](./103009-survivalz-battlegrounds.json) |
 | Survivania | 307233 | [307233-survivania.json](./307233-survivania.json) |
@@ -23290,6 +23300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Fruits from the Magical Tree | 185104 | [185104-sweet-fruits-from-the-magical-tree.json](./185104-sweet-fruits-from-the-magical-tree.json) |
 | Sweet Fuse: At Your Side | 20103 | [20103-sweet-fuse-at-your-side.json](./20103-sweet-fuse-at-your-side.json) |
 | Sweet Galaxy Adventure! | 118227 | [118227-sweet-galaxy-adventure.json](./118227-sweet-galaxy-adventure.json) |
+| Sweet Girl Adventure | 103975 | [103975-sweet-girl-adventure.json](./103975-sweet-girl-adventure.json) |
 | Sweet Girl Adventure 2 | 106151 | [106151-sweet-girl-adventure-2.json](./106151-sweet-girl-adventure-2.json) |
 | Sweet Girl Gurumelo | 258992 | [258992-sweet-girl-gurumelo.json](./258992-sweet-girl-gurumelo.json) |
 | Sweet Girls Collection | 352294 | [352294-sweet-girls-collection.json](./352294-sweet-girls-collection.json) |
