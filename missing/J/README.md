@@ -1958,6 +1958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jousting in January | 290491 | [290491-jousting-in-january.json](./290491-jousting-in-january.json) |
 | Joustish | 251193 | [251193-joustish.json](./251193-joustish.json) |
 | JoustMania | 119743 | [119743-joustmania.json](./119743-joustmania.json) |
+| JoustPong | 95353 | [95353-joustpong.json](./95353-joustpong.json) |
 | Jousty Dragons | 176190 | [176190-jousty-dragons.json](./176190-jousty-dragons.json) |
 | Jovian Drive | 343463 | [343463-jovian-drive.json](./343463-jovian-drive.json) |
 | Joy e Toy | 248795 | [248795-joy-e-toy.json](./248795-joy-e-toy.json) |
