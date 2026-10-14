@@ -1682,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Trigger: Johnnybee Edition | 263537 | [263537-johnny-trigger-johnnybee-edition.json](./263537-johnny-trigger-johnnybee-edition.json) |
 | Johnny Trigger: Lunatic Edition | 304779 | [304779-johnny-trigger-lunatic-edition.json](./304779-johnny-trigger-lunatic-edition.json) |
 | Johnny Turbo | 331374 | [331374-johnny-turbo.json](./331374-johnny-turbo.json) |
+| Johnny Turbo's Arcade: Fighter's History | 114203 | [114203-johnny-turbos-arcade-fighters-history.json](./114203-johnny-turbos-arcade-fighters-history.json) |
 | Johnny Turbo's Arcade: Heavy Barrel | 112117 | [112117-johnny-turbos-arcade-heavy-barrel.json](./112117-johnny-turbos-arcade-heavy-barrel.json) |
 | Johnny Turbo's Arcade: Heavy Burger | 110755 | [110755-johnny-turbos-arcade-heavy-burger.json](./110755-johnny-turbos-arcade-heavy-burger.json) |
 | Johnny Turbo's Arcade: Joe and Mac Returns | 146860 | [146860-johnny-turbos-arcade-joe-and-mac-returns.json](./146860-johnny-turbos-arcade-joe-and-mac-returns.json) |
