@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T07:49:20.542Z",
-  "total_missing": 209853,
+  "generated_at": "2026-10-14T08:12:45.656Z",
+  "total_missing": 209852,
   "games": [
     {
       "igdb_id": 191680,
@@ -97715,6 +97715,11 @@
       "igdb_id": 148549,
       "game_name": "Biphase",
       "file": "missing/B/148549-biphase.json"
+    },
+    {
+      "igdb_id": 110885,
+      "game_name": "BiPlane",
+      "file": "missing/B/110885-biplane.json"
     },
     {
       "igdb_id": 112890,
@@ -460822,6 +460827,11 @@
       "file": "missing/K/318625-kernel-hearts.json"
     },
     {
+      "igdb_id": 110886,
+      "game_name": "Kernel Panic",
+      "file": "missing/K/110886-kernel-panic.json"
+    },
+    {
       "igdb_id": 139408,
       "game_name": "Kernmantle",
       "file": "missing/K/139408-kernmantle.json"
@@ -653112,11 +653122,6 @@
       "file": "missing/P/406935-pinrogue.json"
     },
     {
-      "igdb_id": 20454,
-      "game_name": "Pinstripe",
-      "file": "missing/P/20454-pinstripe.json"
-    },
-    {
       "igdb_id": 227748,
       "game_name": "Pinta's Quest",
       "file": "missing/P/227748-pintas-quest.json"
@@ -712395,11 +712400,6 @@
       "igdb_id": 143444,
       "game_name": "Repkiss",
       "file": "missing/R/143444-repkiss.json"
-    },
-    {
-      "igdb_id": 152244,
-      "game_name": "Replaced",
-      "file": "missing/R/152244-replaced.json"
     },
     {
       "igdb_id": 182763,
@@ -857075,11 +857075,6 @@
       "igdb_id": 344050,
       "game_name": "Syberia: Remastered",
       "file": "missing/S/344050-syberia-remastered.json"
-    },
-    {
-      "igdb_id": 121763,
-      "game_name": "Syberia: The World Before",
-      "file": "missing/S/121763-syberia-the-world-before.json"
     },
     {
       "igdb_id": 169167,
