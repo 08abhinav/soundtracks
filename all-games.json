@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T21:20:46.015Z",
-  "total_soundtracks": 1652,
+  "generated_at": "2026-10-14T21:20:59.924Z",
+  "total_soundtracks": 1653,
   "games": [
     {
       "igdb_id": 7522,
@@ -1988,6 +1988,20 @@
           "album_name": "BAYONETTA 3 ORIGINAL SOUNDTRACK",
           "spotify_url": "https://open.spotify.com/album/1211sU3w0IhoCHuyAXMQqn",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 18860,
+      "game_name": "Beat Cop",
+      "game_url": "https://ostdb.net/games/beat-cop",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b9fa84dd2ce0046bb4f26d00",
+      "albums": [
+        {
+          "album_name": "Beat Cop (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7MgvqnDlv01LmKSmx5Qgi6",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
