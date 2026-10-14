@@ -9267,6 +9267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula | 174104 | [174104-dracula.json](./174104-dracula.json) |
 | Dracula | 18588 | [18588-dracula.json](./18588-dracula.json) |
 | Dracula | 31184 | [31184-dracula.json](./31184-dracula.json) |
+| Dracula 2 Pack | 131296 | [131296-dracula-2-pack.json](./131296-dracula-2-pack.json) |
 | Dracula 2: The Last Sanctuary | 9092 | [9092-dracula-2-the-last-sanctuary.json](./9092-dracula-2-the-last-sanctuary.json) |
 | Dracula 4 & 5: Special Steam Edition | 90585 | [90585-dracula-4-and-5-special-steam-edition.json](./90585-dracula-4-and-5-special-steam-edition.json) |
 | Dracula 4: The Shadow of the Dragon | 9090 | [9090-dracula-4-the-shadow-of-the-dragon.json](./9090-dracula-4-the-shadow-of-the-dragon.json) |
