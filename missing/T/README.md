@@ -2150,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team:Cars | 138238 | [138238-team-cars.json](./138238-team-cars.json) |
 | Team17 Collection 1 | 241979 | [241979-team17-collection-1.json](./241979-team17-collection-1.json) |
 | Team17 Indie Collection | 82411 | [82411-team17-indie-collection.json](./82411-team17-indie-collection.json) |
+| Team17 Indie Heroes | 99526 | [99526-team17-indie-heroes.json](./99526-team17-indie-heroes.json) |
 | Teamball.io | 154815 | [154815-teamball-io.json](./154815-teamball-io.json) |
 | Teamchef | 93006 | [93006-teamchef.json](./93006-teamchef.json) |
 | Teamfight Manager 2 | 369638 | [369638-teamfight-manager-2.json](./369638-teamfight-manager-2.json) |
@@ -4555,6 +4556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Plagues | 346180 | [346180-the-book-of-plagues.json](./346180-the-book-of-plagues.json) |
 | The Book of Pooh | 50423 | [50423-the-book-of-pooh.json](./50423-the-book-of-pooh.json) |
 | The Book of Prosperity | 404356 | [404356-the-book-of-prosperity.json](./404356-the-book-of-prosperity.json) |
+| The Book of Regrets | 99488 | [99488-the-book-of-regrets.json](./99488-the-book-of-regrets.json) |
 | The Book of the Dead | 273287 | [273287-the-book-of-the-dead.json](./273287-the-book-of-the-dead.json) |
 | The Book of Three | 79561 | [79561-the-book-of-three.json](./79561-the-book-of-three.json) |
 | The Book of Warriors | 250259 | [250259-the-book-of-warriors.json](./250259-the-book-of-warriors.json) |
@@ -13633,6 +13635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Foreign Sisters!! | 379352 | [379352-three-foreign-sisters.json](./379352-three-foreign-sisters.json) |
 | Three Fourths Home: Extended Edition | 20957 | [20957-three-fourths-home-extended-edition.json](./20957-three-fourths-home-extended-edition.json) |
 | Three Fourths Home: Extended Edition - Deluxe | 213581 | [213581-three-fourths-home-extended-edition-deluxe.json](./213581-three-fourths-home-extended-edition-deluxe.json) |
+| Three Fourths Home/Paranautical Activity Bundle | 99524 | [99524-three-fourths-home-paranautical-activity-bundle.json](./99524-three-fourths-home-paranautical-activity-bundle.json) |
 | Three Games | 178427 | [178427-three-games.json](./178427-three-games.json) |
 | Three Ghostly Roses | 124588 | [124588-three-ghostly-roses.json](./124588-three-ghostly-roses.json) |
 | Three Glyph Tiles | 256307 | [256307-three-glyph-tiles.json](./256307-three-glyph-tiles.json) |
