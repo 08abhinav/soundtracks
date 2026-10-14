@@ -2810,6 +2810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlechat | 276245 | [276245-battlechat.json](./276245-battlechat.json) |
 | BattleClaws | 297784 | [297784-battleclaws.json](./297784-battleclaws.json) |
 | BattleCommand! | 21903 | [21903-battlecommand.json](./21903-battlecommand.json) |
+| Battlecon: Online | 82721 | [82721-battlecon-online.json](./82721-battlecon-online.json) |
 | Battlecon: Online - Season 1 | 174140 | [174140-battlecon-online-season-1.json](./174140-battlecon-online-season-1.json) |
 | Battlecon: Online - Season 2 | 174141 | [174141-battlecon-online-season-2.json](./174141-battlecon-online-season-2.json) |
 | BattleCore Arena | 65825 | [65825-battlecore-arena.json](./65825-battlecore-arena.json) |
