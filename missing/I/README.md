@@ -4509,6 +4509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itsuka, Kasanariau Ashita he: Sayuri-hen | 203819 | [203819-itsuka-kasanariau-ashita-he-sayuri-hen.json](./203819-itsuka-kasanariau-ashita-he-sayuri-hen.json) |
 | Itsuka, Kasanariau Ashita he: Shirou-hen | 203822 | [203822-itsuka-kasanariau-ashita-he-shirou-hen.json](./203822-itsuka-kasanariau-ashita-he-shirou-hen.json) |
 | Itsuka, Todoku, Ano Sora ni.: You no Michi to Hi no Tasogare to | 372571 | [372571-itsuka-todoku-ano-sora-ni-you-no-michi-to-hi-no-tasogare-to.json](./372571-itsuka-todoku-ano-sora-ni-you-no-michi-to-hi-no-tasogare-to.json) |
+| Itsumo no Jikan, itsumo no Basho de | 97799 | [97799-itsumo-no-jikan-itsumo-no-basho-de.json](./97799-itsumo-no-jikan-itsumo-no-basho-de.json) |
 | Itsy Blitzy | 107391 | [107391-itsy-blitzy.json](./107391-itsy-blitzy.json) |
 | Ittle Dew | 7964 | [7964-ittle-dew.json](./7964-ittle-dew.json) |
 | Ittle Dew 2 | 11598 | [11598-ittle-dew-2.json](./11598-ittle-dew-2.json) |
