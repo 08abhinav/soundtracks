@@ -1903,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Terror: The First Days | 107762 | [107762-we-are-terror-the-first-days.json](./107762-we-are-terror-the-first-days.json) |
 | We Are the Dwarves | 15485 | [15485-we-are-the-dwarves.json](./15485-we-are-the-dwarves.json) |
 | We are the Literature Club | 353411 | [353411-we-are-the-literature-club.json](./353411-we-are-the-literature-club.json) |
+| We are the Plague | 113565 | [113565-we-are-the-plague.json](./113565-we-are-the-plague.json) |
 | We are Warriors! | 322689 | [322689-we-are-warriors.json](./322689-we-are-warriors.json) |
 | We Are* | 56541 | [56541-we-are.json](./56541-we-are.json) |
 | We Bare Bears - StirFry Stunts | 112906 | [112906-we-bare-bears-stirfry-stunts.json](./112906-we-bare-bears-stirfry-stunts.json) |
@@ -3620,6 +3621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildheart Gourmet | 356753 | [356753-wildheart-gourmet.json](./356753-wildheart-gourmet.json) |
 | WildIsland | 129038 | [129038-wildisland.json](./129038-wildisland.json) |
 | Wildkeepers Rising | 324076 | [324076-wildkeepers-rising.json](./324076-wildkeepers-rising.json) |
+| WildKids | 113560 | [113560-wildkids.json](./113560-wildkids.json) |
 | Wildland | 120831 | [120831-wildland.json](./120831-wildland.json) |
 | Wildland: Initial Attack | 185627 | [185627-wildland-initial-attack.json](./185627-wildland-initial-attack.json) |
 | Wildlands | 265559 | [265559-wildlands.json](./265559-wildlands.json) |
