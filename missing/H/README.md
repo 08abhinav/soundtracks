@@ -2568,6 +2568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helen's Mysterious Castle | 27991 | [27991-helens-mysterious-castle.json](./27991-helens-mysterious-castle.json) |
 | Helena: Cloud District | 416638 | [416638-helena-cloud-district.json](./416638-helena-cloud-district.json) |
 | Helena's Flowers | 184904 | [184904-helenas-flowers.json](./184904-helenas-flowers.json) |
+| Helena's Mercenary Army: Fellows Are Cucked One by One | 82663 | [82663-helenas-mercenary-army-fellows-are-cucked-one-by-one.json](./82663-helenas-mercenary-army-fellows-are-cucked-one-by-one.json) |
 | Hélène est dans mon Ventre. | 310037 | [310037-helene-est-dans-mon-ventre.json](./310037-helene-est-dans-mon-ventre.json) |
 | Helenenkapelle VR | 296900 | [296900-helenenkapelle-vr.json](./296900-helenenkapelle-vr.json) |
 | Helevenium | 177788 | [177788-helevenium.json](./177788-helevenium.json) |
@@ -2875,6 +2876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HellFire: The Summoning | 27690 | [27690-hellfire-the-summoning.json](./27690-hellfire-the-summoning.json) |
 | Hellfo | 123969 | [123969-hellfo.json](./123969-hellfo.json) |
 | Hellforces | 84469 | [84469-hellforces.json](./84469-hellforces.json) |
+| Hellfrost Dark Knight Styria: The Ultimate Knight Falleth Flesh Toilet | 82657 | [82657-hellfrost-dark-knight-styria-the-ultimate-knight-falleth-flesh-toilet.json](./82657-hellfrost-dark-knight-styria-the-ultimate-knight-falleth-flesh-toilet.json) |
 | HellFull: The Last Hope | 192273 | [192273-hellfull-the-last-hope.json](./192273-hellfull-the-last-hope.json) |
 | HellFurnace | 237951 | [237951-hellfurnace.json](./237951-hellfurnace.json) |
 | Hellgate | 125403 | [125403-hellgate.json](./125403-hellgate.json) |
@@ -3814,6 +3816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Defence | 25095 | [25095-hero-defence.json](./25095-hero-defence.json) |
 | Hero Defense: Haunted Island | 80217 | [80217-hero-defense-haunted-island.json](./80217-hero-defense-haunted-island.json) |
 | Hero Dream of School | 114289 | [114289-hero-dream-of-school.json](./114289-hero-dream-of-school.json) |
+| Hero Emblem 2 | 82712 | [82712-hero-emblem-2.json](./82712-hero-emblem-2.json) |
 | Hero Emblems II | 114777 | [114777-hero-emblems-ii.json](./114777-hero-emblems-ii.json) |
 | Hero Fighter | 66720 | [66720-hero-fighter.json](./66720-hero-fighter.json) |
 | Hero Fighters Club | 62693 | [62693-hero-fighters-club.json](./62693-hero-fighters-club.json) |
