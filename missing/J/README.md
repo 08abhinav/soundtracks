@@ -2131,6 +2131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jukebeat | 79860 | [79860-jukebeat.json](./79860-jukebeat.json) |
 | Jukemeister | 181790 | [181790-jukemeister.json](./181790-jukemeister.json) |
 | Jules | 187368 | [187368-jules.json](./187368-jules.json) |
+| Jules Verne's Return to Mysterious Island - Director's Cut | 89046 | [89046-jules-vernes-return-to-mysterious-island-directors-cut.json](./89046-jules-vernes-return-to-mysterious-island-directors-cut.json) |
 | Jules Verne's Return to Mysterious Island 2 - Director's Cut Lite | 103989 | [103989-jules-vernes-return-to-mysterious-island-2-directors-cut-lite.json](./103989-jules-vernes-return-to-mysterious-island-2-directors-cut-lite.json) |
 | Julia: A Science Journey | 235794 | [235794-julia-a-science-journey.json](./235794-julia-a-science-journey.json) |
 | Julia: Back to the Sweet 60's | 378411 | [378411-julia-back-to-the-sweet-60s.json](./378411-julia-back-to-the-sweet-60s.json) |
@@ -2552,6 +2553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juranka Classic | 101375 | [101375-juranka-classic.json](./101375-juranka-classic.json) |
 | Jurard Run | 337441 | [337441-jurard-run.json](./337441-jurard-run.json) |
 | Juraroid | 370551 | [370551-juraroid.json](./370551-juraroid.json) |
+| Jurassic Arena | 89060 | [89060-jurassic-arena.json](./89060-jurassic-arena.json) |
 | Jurassic Boy 2 | 48578 | [48578-jurassic-boy-2.json](./48578-jurassic-boy-2.json) |
 | Jurassic City Walk | 99030 | [99030-jurassic-city-walk.json](./99030-jurassic-city-walk.json) |
 | Jurassic Craft: Dino Hunter | 175350 | [175350-jurassic-craft-dino-hunter.json](./175350-jurassic-craft-dino-hunter.json) |
