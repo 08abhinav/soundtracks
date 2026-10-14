@@ -2558,6 +2558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aexia | 258924 | [258924-aexia.json](./258924-aexia.json) |
 | Afallon | 283879 | [283879-afallon.json](./283879-afallon.json) |
 | Afarid | 110746 | [110746-afarid.json](./110746-afarid.json) |
+| Afelhem | 107720 | [107720-afelhem.json](./107720-afelhem.json) |
 | Affair | 279084 | [279084-affair.json](./279084-affair.json) |
 | Affairs of the Court: Choice of Romance | 32355 | [32355-affairs-of-the-court-choice-of-romance.json](./32355-affairs-of-the-court-choice-of-romance.json) |
 | Affairs of the Court: Choice of Romance - A Life Mage Child | 171383 | [171383-affairs-of-the-court-choice-of-romance-a-life-mage-child.json](./171383-affairs-of-the-court-choice-of-romance-a-life-mage-child.json) |
@@ -9518,6 +9519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascendance | 117530 | [117530-ascendance.json](./117530-ascendance.json) |
 | Ascendance | 178456 | [178456-ascendance.json](./178456-ascendance.json) |
 | Ascendance Fighters | 318000 | [318000-ascendance-fighters.json](./318000-ascendance-fighters.json) |
+| Ascendant One | 107613 | [107613-ascendant-one.json](./107613-ascendant-one.json) |
 | Ascendant Realms | 343253 | [343253-ascendant-realms.json](./343253-ascendant-realms.json) |
 | Ascendants: Power Rising | 52610 | [52610-ascendants-power-rising.json](./52610-ascendants-power-rising.json) |
 | Ascendaria | 336120 | [336120-ascendaria.json](./336120-ascendaria.json) |
