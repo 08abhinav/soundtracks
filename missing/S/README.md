@@ -7873,6 +7873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skaramazuzu | 217029 | [217029-skaramazuzu.json](./217029-skaramazuzu.json) |
 | Skarbnik | 92968 | [92968-skarbnik.json](./92968-skarbnik.json) |
 | Skat Stammtisch | 99613 | [99613-skat-stammtisch.json](./99613-skat-stammtisch.json) |
+| Skat und mehr | 93451 | [93451-skat-und-mehr.json](./93451-skat-und-mehr.json) |
 | Skate | 283373 | [283373-skate.json](./283373-skate.json) |
 | Skate & Date | 116276 | [116276-skate-and-date.json](./116276-skate-and-date.json) |
 | Skate 3: Maloof Money Cup 2010 NYC Pack | 367276 | [367276-skate-3-maloof-money-cup-2010-nyc-pack.json](./367276-skate-3-maloof-money-cup-2010-nyc-pack.json) |
@@ -9676,6 +9677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smosh Fighter | 325567 | [325567-smosh-fighter.json](./325567-smosh-fighter.json) |
 | Smothered Hope | 273549 | [273549-smothered-hope.json](./273549-smothered-hope.json) |
 | Smove | 58502 | [58502-smove.json](./58502-smove.json) |
+| Smuc's | 93477 | [93477-smucs.json](./93477-smucs.json) |
 | Smudge Adventure | 282128 | [282128-smudge-adventure.json](./282128-smudge-adventure.json) |
 | Smudged | 184597 | [184597-smudged.json](./184597-smudged.json) |
 | Smug.le | 183875 | [183875-smug-le.json](./183875-smug-le.json) |
@@ -18650,6 +18652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street 42 | 371133 | [371133-street-42.json](./371133-street-42.json) |
 | Street Air Hockey | 175185 | [175185-street-air-hockey.json](./175185-street-air-hockey.json) |
 | Street Artist Simulator | 211270 | [211270-street-artist-simulator.json](./211270-street-artist-simulator.json) |
+| Street Ball | 93465 | [93465-street-ball.json](./93465-street-ball.json) |
 | Street Basket Challenge | 236833 | [236833-street-basket-challenge.json](./236833-street-basket-challenge.json) |
 | Street Basketball Club: Sport Throw Simulator | 273314 | [273314-street-basketball-club-sport-throw-simulator.json](./273314-street-basketball-club-sport-throw-simulator.json) |
 | Street Basketball Superstars | 227371 | [227371-street-basketball-superstars.json](./227371-street-basketball-superstars.json) |
@@ -18932,6 +18935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strife | 5570 | [5570-strife.json](./5570-strife.json) |
 | Strife of Cosmos | 194345 | [194345-strife-of-cosmos.json](./194345-strife-of-cosmos.json) |
 | Strife: Veteran Edition | 147967 | [147967-strife-veteran-edition.json](./147967-strife-veteran-edition.json) |
+| Strifeshadow | 93456 | [93456-strifeshadow.json](./93456-strifeshadow.json) |
 | Strike & Resist | 346635 | [346635-strike-and-resist.json](./346635-strike-and-resist.json) |
 | Strike at Night | 349835 | [349835-strike-at-night.json](./349835-strike-at-night.json) |
 | Strike Back | 279097 | [279097-strike-back.json](./279097-strike-back.json) |
@@ -19268,6 +19272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stylist Girl: Urban Style | 309066 | [309066-stylist-girl-urban-style.json](./309066-stylist-girl-urban-style.json) |
 | Styrateg | 125182 | [125182-styrateg.json](./125182-styrateg.json) |
 | Styria | 304631 | [304631-styria.json](./304631-styria.json) |
+| Styrlitz | 93473 | [93473-styrlitz.json](./93473-styrlitz.json) |
 | Styrlitz 3: Agent USSR | 281656 | [281656-styrlitz-3-agent-ussr.json](./281656-styrlitz-3-agent-ussr.json) |
 | Styrlitz 4: The Matrix - A Step to Death | 281658 | [281658-styrlitz-4-the-matrix-a-step-to-death.json](./281658-styrlitz-4-the-matrix-a-step-to-death.json) |
 | Styscraper | 334230 | [334230-styscraper.json](./334230-styscraper.json) |
@@ -22410,6 +22415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superhero Workout | 58489 | [58489-superhero-workout.json](./58489-superhero-workout.json) |
 | Superhero Wrestling Battle Arena Ring Fighting | 100857 | [100857-superhero-wrestling-battle-arena-ring-fighting.json](./100857-superhero-wrestling-battle-arena-ring-fighting.json) |
 | Superhero-X | 138032 | [138032-superhero-x.json](./138032-superhero-x.json) |
+| Superheroes | 93446 | [93446-superheroes.json](./93446-superheroes.json) |
 | Superheroes Academy | 191167 | [191167-superheroes-academy.json](./191167-superheroes-academy.json) |
 | Superheroes Fast Highway Racing Challenges | 100869 | [100869-superheroes-fast-highway-racing-challenges.json](./100869-superheroes-fast-highway-racing-challenges.json) |
 | Superheroes Fighting 3D | 108215 | [108215-superheroes-fighting-3d.json](./108215-superheroes-fighting-3d.json) |
