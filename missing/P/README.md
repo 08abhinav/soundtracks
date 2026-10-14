@@ -4249,6 +4249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pig Out: Dine Like A Swine | 66386 | [66386-pig-out-dine-like-a-swine.json](./66386-pig-out-dine-like-a-swine.json) |
 | Pig Pen | 59881 | [59881-pig-pen.json](./59881-pig-pen.json) |
 | Pig Rush | 311193 | [311193-pig-rush.json](./311193-pig-rush.json) |
+| Pig Rush | 88107 | [88107-pig-rush.json](./88107-pig-rush.json) |
 | Pig Skater Simulator | 164990 | [164990-pig-skater-simulator.json](./164990-pig-skater-simulator.json) |
 | Pig vs Box | 368287 | [368287-pig-vs-box.json](./368287-pig-vs-box.json) |
 | Pig vs. Box | 366219 | [366219-pig-vs-box.json](./366219-pig-vs-box.json) |
@@ -8263,6 +8264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pony Luv | 72968 | [72968-pony-luv.json](./72968-pony-luv.json) |
 | Pony Metal U-Gaim | 261298 | [261298-pony-metal-u-gaim.json](./261298-pony-metal-u-gaim.json) |
 | Pony Ride with Obstacles | 378409 | [378409-pony-ride-with-obstacles.json](./378409-pony-ride-with-obstacles.json) |
+| Pony Rotation Puzzles | 88112 | [88112-pony-rotation-puzzles.json](./88112-pony-rotation-puzzles.json) |
 | Pony Run: Magic Trails | 378408 | [378408-pony-run-magic-trails.json](./378408-pony-run-magic-trails.json) |
 | Pony Sisters Baby Horse Care | 108261 | [108261-pony-sisters-baby-horse-care.json](./108261-pony-sisters-baby-horse-care.json) |
 | Pony Sisters Hair Salon 2 | 100335 | [100335-pony-sisters-hair-salon-2.json](./100335-pony-sisters-hair-salon-2.json) |
@@ -12177,6 +12179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Kids | 306597 | [306597-puzzle-kids.json](./306597-puzzle-kids.json) |
 | Puzzle King | 46791 | [46791-puzzle-king.json](./46791-puzzle-king.json) |
 | Puzzle Kombat | 265855 | [265855-puzzle-kombat.json](./265855-puzzle-kombat.json) |
+| Puzzle Lab | 88118 | [88118-puzzle-lab.json](./88118-puzzle-lab.json) |
 | Puzzle Light | 149455 | [149455-puzzle-light.json](./149455-puzzle-light.json) |
 | Puzzle Light: One Move | 150257 | [150257-puzzle-light-one-move.json](./150257-puzzle-light-one-move.json) |
 | Puzzle Light: Rotate | 152763 | [152763-puzzle-light-rotate.json](./152763-puzzle-light-rotate.json) |
