@@ -571,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Express Chaldea | 339113 | [339113-galaxy-express-chaldea.json](./339113-galaxy-express-chaldea.json) |
 | Galaxy Fight Club | 198340 | [198340-galaxy-fight-club.json](./198340-galaxy-fight-club.json) |
 | Galaxy Fight: Universal Warriors | 39531 | [39531-galaxy-fight-universal-warriors.json](./39531-galaxy-fight-universal-warriors.json) |
+| Galaxy Fighter | 90526 | [90526-galaxy-fighter.json](./90526-galaxy-fighter.json) |
 | Galaxy Fighters | 200023 | [200023-galaxy-fighters.json](./200023-galaxy-fighters.json) |
 | Galaxy Flavored Heroes | 306563 | [306563-galaxy-flavored-heroes.json](./306563-galaxy-flavored-heroes.json) |
 | Galaxy Force | 273849 | [273849-galaxy-force.json](./273849-galaxy-force.json) |
@@ -4567,6 +4568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gone In November: Collector's Edition | 53074 | [53074-gone-in-november-collectors-edition.json](./53074-gone-in-november-collectors-edition.json) |
 | Gone Rogue | 182245 | [182245-gone-rogue.json](./182245-gone-rogue.json) |
 | Gone Upstate | 152826 | [152826-gone-upstate.json](./152826-gone-upstate.json) |
+| Gone Viral | 90535 | [90535-gone-viral.json](./90535-gone-viral.json) |
 | Gone Wandering | 215061 | [215061-gone-wandering.json](./215061-gone-wandering.json) |
 | Gone with Hideyoshi | 64636 | [64636-gone-with-hideyoshi.json](./64636-gone-with-hideyoshi.json) |
 | GONE: Game of Necromancy Education | 364989 | [364989-gone-game-of-necromancy-education.json](./364989-gone-game-of-necromancy-education.json) |
