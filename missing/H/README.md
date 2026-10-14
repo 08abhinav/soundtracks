@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haggle Simulator | 407370 | [407370-haggle-simulator.json](./407370-haggle-simulator.json) |
 | Hagia Sophia VR Experience | 150491 | [150491-hagia-sophia-vr-experience.json](./150491-hagia-sophia-vr-experience.json) |
 | Hags Castle | 105824 | [105824-hags-castle.json](./105824-hags-castle.json) |
+| Hagun Sangokushi | 95923 | [95923-hagun-sangokushi.json](./95923-hagun-sangokushi.json) |
 | Hagwalla Legend | 283760 | [283760-hagwalla-legend.json](./283760-hagwalla-legend.json) |
 | Hagyo-gil: The Way Home | 376864 | [376864-hagyo-gil-the-way-home.json](./376864-hagyo-gil-the-way-home.json) |
 | Haha Doodle | 194271 | [194271-haha-doodle.json](./194271-haha-doodle.json) |
@@ -1599,6 +1600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hat Trick | 12326 | [12326-hat-trick.json](./12326-hat-trick.json) |
 | Hat Trick Hero 2 | 38332 | [38332-hat-trick-hero-2.json](./38332-hat-trick-hero-2.json) |
 | Hat Tricks: Hare in Box | 229054 | [229054-hat-tricks-hare-in-box.json](./229054-hat-tricks-hare-in-box.json) |
+| Hat Wizard | 95949 | [95949-hat-wizard.json](./95949-hat-wizard.json) |
 | Hat Wizard 2 | 101691 | [101691-hat-wizard-2.json](./101691-hat-wizard-2.json) |
 | Hat World: New Testament | 229186 | [229186-hat-world-new-testament.json](./229186-hat-world-new-testament.json) |
 | Hataraku Otona no Renai Jijou | 329642 | [329642-hataraku-otona-no-renai-jijou.json](./329642-hataraku-otona-no-renai-jijou.json) |
@@ -2600,6 +2602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helicopter Sim - Hellfire Squadron | 88439 | [88439-helicopter-sim-hellfire-squadron.json](./88439-helicopter-sim-hellfire-squadron.json) |
 | Helicopter Sim Pro Hellfire | 101537 | [101537-helicopter-sim-pro-hellfire.json](./101537-helicopter-sim-pro-hellfire.json) |
 | Helicopter Simulator | 158621 | [158621-helicopter-simulator.json](./158621-helicopter-simulator.json) |
+| Helicopter Simulator 2015 | 95914 | [95914-helicopter-simulator-2015.json](./95914-helicopter-simulator-2015.json) |
 | Helicopter Simulator 2017 Premium | 87538 | [87538-helicopter-simulator-2017-premium.json](./87538-helicopter-simulator-2017-premium.json) |
 | Helicopter Simulator Game 2016 - Pilot Career Missions | 99093 | [99093-helicopter-simulator-game-2016-pilot-career-missions.json](./99093-helicopter-simulator-game-2016-pilot-career-missions.json) |
 | Helicopter Simulator VR 2021: Rescue Missions | 150767 | [150767-helicopter-simulator-vr-2021-rescue-missions.json](./150767-helicopter-simulator-vr-2021-rescue-missions.json) |
