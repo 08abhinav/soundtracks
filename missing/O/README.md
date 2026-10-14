@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Gap | 285446 | [285446-ocean-gap.json](./285446-ocean-gap.json) |
 | Ocean Is Home | 224782 | [224782-ocean-is-home.json](./224782-ocean-is-home.json) |
 | Ocean Is Home: Survival Island | 86793 | [86793-ocean-is-home-survival-island.json](./86793-ocean-is-home-survival-island.json) |
+| Ocean Legend | 100699 | [100699-ocean-legend.json](./100699-ocean-legend.json) |
 | Ocean Life: Aquarium Simulator | 309648 | [309648-ocean-life-aquarium-simulator.json](./309648-ocean-life-aquarium-simulator.json) |
 | Ocean Oddities | 402931 | [402931-ocean-oddities.json](./402931-ocean-oddities.json) |
 | Ocean of Battles | 124246 | [124246-ocean-of-battles.json](./124246-ocean-of-battles.json) |
