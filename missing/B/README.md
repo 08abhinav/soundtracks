@@ -7436,6 +7436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodbath | 183067 | [183067-bloodbath.json](./183067-bloodbath.json) |
 | Bloodbath | 9416 | [9416-bloodbath.json](./9416-bloodbath.json) |
 | Bloodbath Kavkaz | 26897 | [26897-bloodbath-kavkaz.json](./26897-bloodbath-kavkaz.json) |
+| Bloodbath Requiem | 81978 | [81978-bloodbath-requiem.json](./81978-bloodbath-requiem.json) |
 | Bloodbaths Terrible Vacation | 274748 | [274748-bloodbaths-terrible-vacation.json](./274748-bloodbaths-terrible-vacation.json) |
 | Bloodbeard's Revenge | 176301 | [176301-bloodbeards-revenge.json](./176301-bloodbeards-revenge.json) |
 | BloodBlast VR | 134648 | [134648-bloodblast-vr.json](./134648-bloodblast-vr.json) |
