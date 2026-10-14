@@ -2589,6 +2589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Sparkles | 125415 | [125415-infinite-sparkles.json](./125415-infinite-sparkles.json) |
 | Infinite Stairs | 231940 | [231940-infinite-stairs.json](./231940-infinite-stairs.json) |
 | Infinite Sunshine Dust | 96731 | [96731-infinite-sunshine-dust.json](./96731-infinite-sunshine-dust.json) |
+| Infinite Survival | 96624 | [96624-infinite-survival.json](./96624-infinite-survival.json) |
 | Infinite Survivor | 303582 | [303582-infinite-survivor.json](./303582-infinite-survivor.json) |
 | Infinite Tanks WWII | 150266 | [150266-infinite-tanks-wwii.json](./150266-infinite-tanks-wwii.json) |
 | Infinite Turtles | 198362 | [198362-infinite-turtles.json](./198362-infinite-turtles.json) |
@@ -2637,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Blocks | 301612 | [301612-infinity-blocks.json](./301612-infinity-blocks.json) |
 | Infinity Bounce | 412398 | [412398-infinity-bounce.json](./412398-infinity-bounce.json) |
 | Infinity Cave | 313422 | [313422-infinity-cave.json](./313422-infinity-cave.json) |
+| Infinity Challenge | 96647 | [96647-infinity-challenge.json](./96647-infinity-challenge.json) |
 | Infinity Coloring Pixel | 162616 | [162616-infinity-coloring-pixel.json](./162616-infinity-coloring-pixel.json) |
 | Infinity Conflict | 188406 | [188406-infinity-conflict.json](./188406-infinity-conflict.json) |
 | Infinity Conquer | 196521 | [196521-infinity-conquer.json](./196521-infinity-conquer.json) |
