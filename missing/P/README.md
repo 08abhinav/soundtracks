@@ -2374,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PBA Pro Bowling 2021 | 142172 | [142172-pba-pro-bowling-2021.json](./142172-pba-pro-bowling-2021.json) |
 | PBA Pro Bowling 2026 | 369592 | [369592-pba-pro-bowling-2026.json](./369592-pba-pro-bowling-2026.json) |
 | PBA Pro Bowling 2027 | 416842 | [416842-pba-pro-bowling-2027.json](./416842-pba-pro-bowling-2027.json) |
+| PBA Tour Bowling 2001 | 92946 | [92946-pba-tour-bowling-2001.json](./92946-pba-tour-bowling-2001.json) |
 | PBA Tour Bowling II | 210011 | [210011-pba-tour-bowling-ii.json](./210011-pba-tour-bowling-ii.json) |
 | PBA: Basketball Slam - Arcade Edition | 171353 | [171353-pba-basketball-slam-arcade-edition.json](./171353-pba-basketball-slam-arcade-edition.json) |
 | PBJ: The Musical | 325280 | [325280-pbj-the-musical.json](./325280-pbj-the-musical.json) |
@@ -2628,6 +2629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peki Manor | 212464 | [212464-peki-manor.json](./212464-peki-manor.json) |
 | Pekin Express - La Route de l'Himalaya | 145698 | [145698-pekin-express-la-route-de-lhimalaya.json](./145698-pekin-express-la-route-de-lhimalaya.json) |
 | Pékin Express: La Route des Dragons | 268402 | [268402-pekin-express-la-route-des-dragons.json](./268402-pekin-express-la-route-des-dragons.json) |
+| Peking 2.0 | 92934 | [92934-peking-2-0.json](./92934-peking-2-0.json) |
 | Pekka Kana 2 | 94449 | [94449-pekka-kana-2.json](./94449-pekka-kana-2.json) |
 | Pekko Robot | 240280 | [240280-pekko-robot.json](./240280-pekko-robot.json) |
 | Pekku | 360061 | [360061-pekku.json](./360061-pekku.json) |
@@ -6428,6 +6430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plasticalypse: TrashSub Adventures | 144025 | [144025-plasticalypse-trashsub-adventures.json](./144025-plasticalypse-trashsub-adventures.json) |
 | PlasticFighter | 310738 | [310738-plasticfighter.json](./310738-plasticfighter.json) |
 | Plastris | 130263 | [130263-plastris.json](./130263-plastris.json) |
+| Plastron | 92939 | [92939-plastron.json](./92939-plastron.json) |
 | Plat Wacky Adventure Remastered | 266184 | [266184-plat-wacky-adventure-remastered.json](./266184-plat-wacky-adventure-remastered.json) |
 | Plat4mer | 112972 | [112972-plat4mer.json](./112972-plat4mer.json) |
 | Plataforma branca | 153501 | [153501-plataforma-branca.json](./153501-plataforma-branca.json) |
@@ -12033,6 +12036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Battler! Mirai | 188906 | [188906-puzzle-battler-mirai.json](./188906-puzzle-battler-mirai.json) |
 | Puzzle Bear | 121019 | [121019-puzzle-bear.json](./121019-puzzle-bear.json) |
 | Puzzle Bebop | 104230 | [104230-puzzle-bebop.json](./104230-puzzle-bebop.json) |
+| Puzzle Blast | 92943 | [92943-puzzle-blast.json](./92943-puzzle-blast.json) |
 | Puzzle Block Blast | 221382 | [221382-puzzle-block-blast.json](./221382-puzzle-block-blast.json) |
 | Puzzle Block Wood - Wooden Block & Puzzle Game | 100936 | [100936-puzzle-block-wood-wooden-block-and-puzzle-game.json](./100936-puzzle-block-wood-wooden-block-and-puzzle-game.json) |
 | Puzzle Blocks | 83937 | [83937-puzzle-blocks.json](./83937-puzzle-blocks.json) |
