@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakan Kouen | 396482 | [396482-yakan-kouen.json](./396482-yakan-kouen.json) |
 | Yakari: The Mystery of Four - Seasons | 84934 | [84934-yakari-the-mystery-of-four-seasons.json](./84934-yakari-the-mystery-of-four-seasons.json) |
 | Yakata Nightmare Project | 58780 | [58780-yakata-nightmare-project.json](./58780-yakata-nightmare-project.json) |
+| Yakata: Kannou Kitan | 77893 | [77893-yakata-kannou-kitan.json](./77893-yakata-kannou-kitan.json) |
 | Yaken Rodem | 333543 | [333543-yaken-rodem.json](./333543-yaken-rodem.json) |
 | Yakimochi Stream | 373023 | [373023-yakimochi-stream.json](./373023-yakimochi-stream.json) |
 | Yakiniku Bugyou | 65769 | [65769-yakiniku-bugyou.json](./65769-yakiniku-bugyou.json) |
@@ -1236,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuka: Scattered Shards of the Yokai | 247461 | [247461-yuka-scattered-shards-of-the-yokai.json](./247461-yuka-scattered-shards-of-the-yokai.json) |
 | Yukai de Kudaranai Game | 331875 | [331875-yukai-de-kudaranai-game.json](./331875-yukai-de-kudaranai-game.json) |
 | Yukar From the Abyss | 216808 | [216808-yukar-from-the-abyss.json](./216808-yukar-from-the-abyss.json) |
+| Yuke Yuke Aku no Monmusu Gundan! Kaijin Musume ni Shibori Torareru Ecchi de Kakoku na Sekai Seifuku Daisakusen | 77867 | [77867-yuke-yuke-aku-no-monmusu-gundan-kaijin-musume-ni-shibori-torareru-ecchi-de-kakoku-na-sekai-seifuku-daisakusen.json](./77867-yuke-yuke-aku-no-monmusu-gundan-kaijin-musume-ni-shibori-torareru-ecchi-de-kakoku-na-sekai-seifuku-daisakusen.json) |
 | Yuki Koi Melt | 335976 | [335976-yuki-koi-melt.json](./335976-yuki-koi-melt.json) |
 | Yuki Nime | 229730 | [229730-yuki-nime.json](./229730-yuki-nime.json) |
 | Yuki Onna | 126993 | [126993-yuki-onna.json](./126993-yuki-onna.json) |
@@ -1438,6 +1440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuu Yuu Jinsei | 37649 | [37649-yuu-yuu-jinsei.json](./37649-yuu-yuu-jinsei.json) |
 | Yuugao | 308415 | [308415-yuugao.json](./308415-yuugao.json) |
 | Yuugen Gaisha Chikyuu Boueitai | 166152 | [166152-yuugen-gaisha-chikyuu-boueitai.json](./166152-yuugen-gaisha-chikyuu-boueitai.json) |
+| Yuugen Gaisha London Star: Koi no Double Click | 77874 | [77874-yuugen-gaisha-london-star-koi-no-double-click.json](./77874-yuugen-gaisha-london-star-koi-no-double-click.json) |
 | Yuugen Mikaidou Tanteisha 1-Shou | 221260 | [221260-yuugen-mikaidou-tanteisha-1-shou.json](./221260-yuugen-mikaidou-tanteisha-1-shou.json) |
 | Yuujou no Victory Goal: 4v4 Arashi - Get the Goal‼ | 353873 | [353873-yuujou-no-victory-goal-4v4-arashi-get-the-goal.json](./353873-yuujou-no-victory-goal-4v4-arashi-get-the-goal.json) |
 | Yuuka's Mansion | 247574 | [247574-yuukas-mansion.json](./247574-yuukas-mansion.json) |
