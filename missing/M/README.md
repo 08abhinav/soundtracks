@@ -12685,7 +12685,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MULE Returns | 91151 | [91151-mule-returns.json](./91151-mule-returns.json) |
 | Mulite Spellsword | 188395 | [188395-mulite-spellsword.json](./188395-mulite-spellsword.json) |
 | Mullet Hell | 233596 | [233596-mullet-hell.json](./233596-mullet-hell.json) |
-| Mullet Madjack | 252445 | [252445-mullet-madjack.json](./252445-mullet-madjack.json) |
 | Mullet Madjack: Deluxe Edition | 318218 | [318218-mullet-madjack-deluxe-edition.json](./318218-mullet-madjack-deluxe-edition.json) |
 | Multi Deck Hero | 346617 | [346617-multi-deck-hero.json](./346617-multi-deck-hero.json) |
 | Multi Do Sort | 331368 | [331368-multi-do-sort.json](./331368-multi-do-sort.json) |
