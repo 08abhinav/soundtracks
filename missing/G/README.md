@@ -5382,6 +5382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandman's Unbearable Existence | 334730 | [334730-grandmans-unbearable-existence.json](./334730-grandmans-unbearable-existence.json) |
 | Grandmaster Chess | 14493 | [14493-grandmaster-chess.json](./14493-grandmaster-chess.json) |
 | Grandmaster Chess | 166075 | [166075-grandmaster-chess.json](./166075-grandmaster-chess.json) |
+| Grandmaster Chess (CD-ROM Edition) | 98911 | [98911-grandmaster-chess-cd-rom-edition.json](./98911-grandmaster-chess-cd-rom-edition.json) |
 | Grandmaster's Revenge | 215355 | [215355-grandmasters-revenge.json](./215355-grandmasters-revenge.json) |
 | Grandmother | 169345 | [169345-grandmother.json](./169345-grandmother.json) |
 | Grandmother's Tale | 153872 | [153872-grandmothers-tale.json](./153872-grandmothers-tale.json) |
@@ -6298,6 +6299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimms Notes | 193846 | [193846-grimms-notes.json](./193846-grimms-notes.json) |
 | GrimmStar | 125331 | [125331-grimmstar.json](./125331-grimmstar.json) |
 | GrimmVeil | 387628 | [387628-grimmveil.json](./387628-grimmveil.json) |
+| Grimmwald Dungeon RPG | 98904 | [98904-grimmwald-dungeon-rpg.json](./98904-grimmwald-dungeon-rpg.json) |
 | Grimmwood | 100580 | [100580-grimmwood.json](./100580-grimmwood.json) |
 | Grimoire | 296799 | [296799-grimoire.json](./296799-grimoire.json) |
 | Grimoire | 296800 | [296800-grimoire.json](./296800-grimoire.json) |
