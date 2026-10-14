@@ -10606,6 +10606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asym Altered Axis | 205794 | [205794-asym-altered-axis.json](./205794-asym-altered-axis.json) |
 | Asymm | 351559 | [351559-asymm.json](./351559-asymm.json) |
 | Asymmetric Ops | 118791 | [118791-asymmetric-ops.json](./118791-asymmetric-ops.json) |
+| ASYNC Corp. | 93493 | [93493-async-corp.json](./93493-async-corp.json) |
 | Asyula | 57030 | [57030-asyula.json](./57030-asyula.json) |
 | ASZG Project | 236296 | [236296-aszg-project.json](./236296-aszg-project.json) |
 | ASZG Project: Director's Cut | 338175 | [338175-aszg-project-directors-cut.json](./338175-aszg-project-directors-cut.json) |
