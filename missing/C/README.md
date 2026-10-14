@@ -2345,7 +2345,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castles: The Northern Campaign | 11269 | [11269-castles-the-northern-campaign.json](./11269-castles-the-northern-campaign.json) |
 | CastleStorm II | 119361 | [119361-castlestorm-ii.json](./119361-castlestorm-ii.json) |
 | CastleStorm VR | 54532 | [54532-castlestorm-vr.json](./54532-castlestorm-vr.json) |
-| Castlevania | 1130 | [1130-castlevania.json](./1130-castlevania.json) |
 | Castlevania | 322123 | [322123-castlevania.json](./322123-castlevania.json) |
 | Castlevania | 322127 | [322127-castlevania.json](./322127-castlevania.json) |
 | Castlevania | 322129 | [322129-castlevania.json](./322129-castlevania.json) |
