@@ -4380,6 +4380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve Online: Incursion | 329795 | [329795-eve-online-incursion.json](./329795-eve-online-incursion.json) |
 | Eve Online: Inferno | 329797 | [329797-eve-online-inferno.json](./329797-eve-online-inferno.json) |
 | Eve Online: Invasion | 118157 | [118157-eve-online-invasion.json](./118157-eve-online-invasion.json) |
+| Eve Online: Lifeblood | 74970 | [74970-eve-online-lifeblood.json](./74970-eve-online-lifeblood.json) |
 | Eve Online: New Dawn | 329927 | [329927-eve-online-new-dawn.json](./329927-eve-online-new-dawn.json) |
 | Eve Online: Onslaught | 329913 | [329913-eve-online-onslaught.json](./329913-eve-online-onslaught.json) |
 | Eve Online: Reign | 329925 | [329925-eve-online-reign.json](./329925-eve-online-reign.json) |
