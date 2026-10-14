@@ -1932,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haydee 3 | 333073 | [333073-haydee-3.json](./333073-haydee-3.json) |
 | Hayden's Odyssey | 384286 | [384286-haydens-odyssey.json](./384286-haydens-odyssey.json) |
 | Hayfever | 120868 | [120868-hayfever.json](./120868-hayfever.json) |
+| Hayles Quest | 113546 | [113546-hayles-quest.json](./113546-hayles-quest.json) |
 | Haymaker | 171900 | [171900-haymaker.json](./171900-haymaker.json) |
 | Haymaker | 60898 | [60898-haymaker.json](./60898-haymaker.json) |
 | Haypi Monster 3 | 129610 | [129610-haypi-monster-3.json](./129610-haypi-monster-3.json) |
@@ -2288,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartwood Heroes | 236329 | [236329-heartwood-heroes.json](./236329-heartwood-heroes.json) |
 | Heartwood Online | 258374 | [258374-heartwood-online.json](./258374-heartwood-online.json) |
 | Heartworm | 132711 | [132711-heartworm.json](./132711-heartworm.json) |
+| Heat | 113542 | [113542-heat.json](./113542-heat.json) |
 | Heat | 183400 | [183400-heat.json](./183400-heat.json) |
 | Heat 'n Hit: The Blacksmith Simulator | 371962 | [371962-heat-n-hit-the-blacksmith-simulator.json](./371962-heat-n-hit-the-blacksmith-simulator.json) |
 | Heat and Run | 130120 | [130120-heat-and-run.json](./130120-heat-and-run.json) |
