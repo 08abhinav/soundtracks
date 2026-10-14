@@ -596,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | National Zombie Park | 36148 | [36148-national-zombie-park.json](./36148-national-zombie-park.json) |
 | Nationality Guesser | 340229 | [340229-nationality-guesser.json](./340229-nationality-guesser.json) |
 | Nations | 366326 | [366326-nations.json](./366326-nations.json) |
+| Nations At War Digital | 132511 | [132511-nations-at-war-digital.json](./132511-nations-at-war-digital.json) |
 | Nations At War Digital: Desert Heat Battlepack 1 | 166200 | [166200-nations-at-war-digital-desert-heat-battlepack-1.json](./166200-nations-at-war-digital-desert-heat-battlepack-1.json) |
 | Nations At War Digital: Desert Heat Battlepack 2 | 166199 | [166199-nations-at-war-digital-desert-heat-battlepack-2.json](./166199-nations-at-war-digital-desert-heat-battlepack-2.json) |
 | Nations At War Digital: Stalin's Triumph Battlepack 1 | 166197 | [166197-nations-at-war-digital-stalins-triumph-battlepack-1.json](./166197-nations-at-war-digital-stalins-triumph-battlepack-1.json) |
@@ -2068,6 +2069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeverSynth | 225878 | [225878-neversynth.json](./225878-neversynth.json) |
 | Nevertales: Faryon | 187926 | [187926-nevertales-faryon.json](./187926-nevertales-faryon.json) |
 | Nevertales: Forgotten Pages | 187919 | [187919-nevertales-forgotten-pages.json](./187919-nevertales-forgotten-pages.json) |
+| Nevertales: Hearthbridge Cabinet - Collector's Edition | 132557 | [132557-nevertales-hearthbridge-cabinet-collectors-edition.json](./132557-nevertales-hearthbridge-cabinet-collectors-edition.json) |
 | Nevertales: Hidden Doorway - Collector's Edition | 416617 | [416617-nevertales-hidden-doorway-collectors-edition.json](./416617-nevertales-hidden-doorway-collectors-edition.json) |
 | Nevertales: Legends - Collector's Edition | 76513 | [76513-nevertales-legends-collectors-edition.json](./76513-nevertales-legends-collectors-edition.json) |
 | Nevertales: Smoke and Mirrors HD | 108459 | [108459-nevertales-smoke-and-mirrors-hd.json](./108459-nevertales-smoke-and-mirrors-hd.json) |
@@ -2157,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Ganymede | 266783 | [266783-new-ganymede.json](./266783-new-ganymede.json) |
 | New Ghostbusters II | 3658 | [3658-new-ghostbusters-ii.json](./3658-new-ghostbusters-ii.json) |
 | New Giant Business | 119609 | [119609-new-giant-business.json](./119609-new-giant-business.json) |
+| New Gunbound | 132534 | [132534-new-gunbound.json](./132534-new-gunbound.json) |
 | New Gundam Breaker: Build G Sound Edition | 136768 | [136768-new-gundam-breaker-build-g-sound-edition.json](./136768-new-gundam-breaker-build-g-sound-edition.json) |
 | New Gundam Breaker: Gunpla Figure Premium Edition | 167159 | [167159-new-gundam-breaker-gunpla-figure-premium-edition.json](./167159-new-gundam-breaker-gunpla-figure-premium-edition.json) |
 | New Hire | 226132 | [226132-new-hire.json](./226132-new-hire.json) |
@@ -2278,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New World: Rise of the Angry Earth | 266781 | [266781-new-world-rise-of-the-angry-earth.json](./266781-new-world-rise-of-the-angry-earth.json) |
 | New XCommander | 337758 | [337758-new-xcommander.json](./337758-new-xcommander.json) |
 | New Yankee 6: In Pharaoh's Court | 117096 | [117096-new-yankee-6-in-pharaohs-court.json](./117096-new-yankee-6-in-pharaohs-court.json) |
+| New Yankee 8: Journey of Odysseus | 132546 | [132546-new-yankee-8-journey-of-odysseus.json](./132546-new-yankee-8-journey-of-odysseus.json) |
 | New Yankee in King Arthur's Court | 32989 | [32989-new-yankee-in-king-arthurs-court.json](./32989-new-yankee-in-king-arthurs-court.json) |
 | New Yankee in King Arthur's Court 2 | 31855 | [31855-new-yankee-in-king-arthurs-court-2.json](./31855-new-yankee-in-king-arthurs-court-2.json) |
 | New Yankee in King Arthur's Court 4 | 117825 | [117825-new-yankee-in-king-arthurs-court-4.json](./117825-new-yankee-in-king-arthurs-court-4.json) |
@@ -3253,6 +3257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nim | 100217 | [100217-nim.json](./100217-nim.json) |
 | Nim | 407560 | [407560-nim.json](./407560-nim.json) |
 | Nim's Sin Removal Service | 216299 | [216299-nims-sin-removal-service.json](./216299-nims-sin-removal-service.json) |
+| Nimbatus: Drone Creator | 132564 | [132564-nimbatus-drone-creator.json](./132564-nimbatus-drone-creator.json) |
 | Nimbit Frontier | 258173 | [258173-nimbit-frontier.json](./258173-nimbit-frontier.json) |
 | Nimble Bunn | 68805 | [68805-nimble-bunn.json](./68805-nimble-bunn.json) |
 | Nimble Fish | 55234 | [55234-nimble-fish.json](./55234-nimble-fish.json) |
