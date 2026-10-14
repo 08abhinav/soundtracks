@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFL: Club | 332087 | [332087-ufl-club.json](./332087-ufl-club.json) |
 | UFL: Foundation | 332085 | [332085-ufl-foundation.json](./332085-ufl-foundation.json) |
 | UFL: Ultimate UFL club | 332086 | [332086-ufl-ultimate-ufl-club.json](./332086-ufl-ultimate-ufl-club.json) |
+| UFM: Unidentified Fantastic Maiden | 74933 | [74933-ufm-unidentified-fantastic-maiden.json](./74933-ufm-unidentified-fantastic-maiden.json) |
 | UFO | 100199 | [100199-ufo.json](./100199-ufo.json) |
 | UFO 50 | 54555 | [54555-ufo-50.json](./54555-ufo-50.json) |
 | UFO Chase | 110855 | [110855-ufo-chase.json](./110855-ufo-chase.json) |
