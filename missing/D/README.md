@@ -2685,6 +2685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Runner | 367562 | [367562-deadly-runner.json](./367562-deadly-runner.json) |
 | Deadly Secret Beneath the Dark Wood | 269657 | [269657-deadly-secret-beneath-the-dark-wood.json](./269657-deadly-secret-beneath-the-dark-wood.json) |
 | Deadly Skies | 22730 | [22730-deadly-skies.json](./22730-deadly-skies.json) |
+| Deadly Skies | 85992 | [85992-deadly-skies.json](./85992-deadly-skies.json) |
 | Deadly Sky | 51981 | [51981-deadly-sky.json](./51981-deadly-sky.json) |
 | Deadly Soccer | 242569 | [242569-deadly-soccer.json](./242569-deadly-soccer.json) |
 | Deadly Standards | 313159 | [313159-deadly-standards.json](./313159-deadly-standards.json) |
@@ -3514,6 +3515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Voyage | 96040 | [96040-deep-voyage.json](./96040-deep-voyage.json) |
 | Deep Voyage | 97244 | [97244-deep-voyage.json](./97244-deep-voyage.json) |
 | Deep VR | 18217 | [18217-deep-vr.json](./18217-deep-vr.json) |
+| Deep Water | 85965 | [85965-deep-water.json](./85965-deep-water.json) |
 | Deep West | 369016 | [369016-deep-west.json](./369016-deep-west.json) |
 | Deep Within the Mist | 359344 | [359344-deep-within-the-mist.json](./359344-deep-within-the-mist.json) |
 | Deepak Chopra's Leela | 20244 | [20244-deepak-chopras-leela.json](./20244-deepak-chopras-leela.json) |
@@ -5475,6 +5477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diabolik Lovers Chaos Lineage | 113463 | [113463-diabolik-lovers-chaos-lineage.json](./113463-diabolik-lovers-chaos-lineage.json) |
 | Diabolik Lovers More, Blood Limited V Edition | 221877 | [221877-diabolik-lovers-more-blood-limited-v-edition.json](./221877-diabolik-lovers-more-blood-limited-v-edition.json) |
 | Diabolik Lovers: Grand Edition - Limited Edition | 166268 | [166268-diabolik-lovers-grand-edition-limited-edition.json](./166268-diabolik-lovers-grand-edition-limited-edition.json) |
+| Diabolik Lovers: Haunted Dark Bridal | 85952 | [85952-diabolik-lovers-haunted-dark-bridal.json](./85952-diabolik-lovers-haunted-dark-bridal.json) |
 | Diabolik Lovers: Haunted Dark Bridal - Limited Edition | 44509 | [44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json](./44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json) |
 | Diabolik: The Original Sin | 43212 | [43212-diabolik-the-original-sin.json](./43212-diabolik-the-original-sin.json) |
 | Diabolika | 93159 | [93159-diabolika.json](./93159-diabolika.json) |
@@ -6341,6 +6344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Hunter 2018 | 105858 | [105858-dinosaur-hunter-2018.json](./105858-dinosaur-hunter-2018.json) |
 | Dinosaur Hunter VR | 106448 | [106448-dinosaur-hunter-vr.json](./106448-dinosaur-hunter-vr.json) |
 | Dinosaur Hunting Patrol 3D Jurassic VR | 160142 | [160142-dinosaur-hunting-patrol-3d-jurassic-vr.json](./160142-dinosaur-hunting-patrol-3d-jurassic-vr.json) |
+| Dinosaur Hunting: Ushinawareta Daichi | 85950 | [85950-dinosaur-hunting-ushinawareta-daichi.json](./85950-dinosaur-hunting-ushinawareta-daichi.json) |
 | Dinosaur Island | 266484 | [266484-dinosaur-island.json](./266484-dinosaur-island.json) |
 | Dinosaur Jigsaw Puzzles - Kids Games for Toddlers | 86831 | [86831-dinosaur-jigsaw-puzzles-kids-games-for-toddlers.json](./86831-dinosaur-jigsaw-puzzles-kids-games-for-toddlers.json) |
 | Dinosaur King | 140907 | [140907-dinosaur-king.json](./140907-dinosaur-king.json) |
@@ -6942,6 +6946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Pocahantas: Riverbend Adventures | 76602 | [76602-disneys-pocahantas-riverbend-adventures.json](./76602-disneys-pocahantas-riverbend-adventures.json) |
 | Disney's Pocahontas | 45780 | [45780-disneys-pocahontas.json](./45780-disneys-pocahontas.json) |
 | Disney's Reading Quest with Aladdin | 208897 | [208897-disneys-reading-quest-with-aladdin.json](./208897-disneys-reading-quest-with-aladdin.json) |
+| Disney's Ready For Math With Pooh | 85959 | [85959-disneys-ready-for-math-with-pooh.json](./85959-disneys-ready-for-math-with-pooh.json) |
 | Disney's Stitch: Experiment 626 | 25911 | [25911-disneys-stitch-experiment-626.json](./25911-disneys-stitch-experiment-626.json) |
 | Disney's Story Studio: Disney's Mulan | 44839 | [44839-disneys-story-studio-disneys-mulan.json](./44839-disneys-story-studio-disneys-mulan.json) |
 | Disney's TaleSpin | 198936 | [198936-disneys-talespin.json](./198936-disneys-talespin.json) |
@@ -9087,6 +9092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Match | 83458 | [83458-double-match.json](./83458-double-match.json) |
 | Double Panda | 408994 | [408994-double-panda.json](./408994-double-panda.json) |
 | Double Play | 170258 | [170258-double-play.json](./170258-double-play.json) |
+| Double Play Adventure: Time Quest / Crystal Quest | 85973 | [85973-double-play-adventure-time-quest-crystal-quest.json](./85973-double-play-adventure-time-quest-crystal-quest.json) |
 | Double Puzzled | 243794 | [243794-double-puzzled.json](./243794-double-puzzled.json) |
 | Double Reaction! Plus | 175973 | [175973-double-reaction-plus.json](./175973-double-reaction-plus.json) |
 | Double Romance | 172424 | [172424-double-romance.json](./172424-double-romance.json) |
