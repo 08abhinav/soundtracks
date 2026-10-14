@@ -1385,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Race Game for Toddlers and Kids | 103938 | [103938-car-race-game-for-toddlers-and-kids.json](./103938-car-race-game-for-toddlers-and-kids.json) |
 | Car Racing | 59803 | [59803-car-racing.json](./59803-car-racing.json) |
 | Car Racing & Driving Bundle: Drag Racing, Highway Racer, Drift Japan, Toon Cars | 362378 | [362378-car-racing-and-driving-bundle-drag-racing-highway-racer-drift-japan-toon-cars.json](./362378-car-racing-and-driving-bundle-drag-racing-highway-racer-drift-japan-toon-cars.json) |
+| Car Racing 3D: High on Fuel | 91250 | [91250-car-racing-3d-high-on-fuel.json](./91250-car-racing-3d-high-on-fuel.json) |
 | Car Racing Challenge | 43243 | [43243-car-racing-challenge.json](./43243-car-racing-challenge.json) |
 | Car Racing Extreme | 99398 | [99398-car-racing-extreme.json](./99398-car-racing-extreme.json) |
 | Car Racing Game | 288265 | [288265-car-racing-game.json](./288265-car-racing-game.json) |
@@ -3721,6 +3722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Soccer | 46882 | [46882-championship-soccer.json](./46882-championship-soccer.json) |
 | Championship Soccer '94 | 165410 | [165410-championship-soccer-94.json](./165410-championship-soccer-94.json) |
 | Championship Soccer 2004 | 91562 | [91562-championship-soccer-2004.json](./91562-championship-soccer-2004.json) |
+| Championship Sprint | 91322 | [91322-championship-sprint.json](./91322-championship-sprint.json) |
 | Championship Wrestling | 13827 | [13827-championship-wrestling.json](./13827-championship-wrestling.json) |
 | Championship Wrestling Promoter | 199124 | [199124-championship-wrestling-promoter.json](./199124-championship-wrestling-promoter.json) |
 | ChampionsTCG | 273920 | [273920-championstcg.json](./273920-championstcg.json) |
@@ -4850,6 +4852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Characters | 223507 | [223507-chinese-characters.json](./223507-chinese-characters.json) |
 | Chinese Checkers | 100228 | [100228-chinese-checkers.json](./100228-chinese-checkers.json) |
 | Chinese Checkers | 71190 | [71190-chinese-checkers.json](./71190-chinese-checkers.json) |
+| Chinese Checkers | 91326 | [91326-chinese-checkers.json](./91326-chinese-checkers.json) |
 | Chinese Checkers Deluxe | 67983 | [67983-chinese-checkers-deluxe.json](./67983-chinese-checkers-deluxe.json) |
 | Chinese Chess Deluxe | 146922 | [146922-chinese-chess-deluxe.json](./146922-chinese-chess-deluxe.json) |
 | Chinese Chess Wargame | 259502 | [259502-chinese-chess-wargame.json](./259502-chinese-chess-wargame.json) |
@@ -6885,6 +6888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CloserLook VR: Oldways | 325838 | [325838-closerlook-vr-oldways.json](./325838-closerlook-vr-oldways.json) |
 | Closers | 55076 | [55076-closers.json](./55076-closers.json) |
 | CloserTo | 396374 | [396374-closerto.json](./396374-closerto.json) |
+| Closet Monsters | 91284 | [91284-closet-monsters.json](./91284-closet-monsters.json) |
 | Closet Organizer | 208913 | [208913-closet-organizer.json](./208913-closet-organizer.json) |
 | Closets | 135621 | [135621-closets.json](./135621-closets.json) |
 | Closing at 2 | 280283 | [280283-closing-at-2.json](./280283-closing-at-2.json) |
@@ -8867,6 +8871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect Dots Puzzle: Classic Casual Arcade | 244823 | [244823-connect-dots-puzzle-classic-casual-arcade.json](./244823-connect-dots-puzzle-classic-casual-arcade.json) |
 | Connect Far Away Tale | 387599 | [387599-connect-far-away-tale.json](./387599-connect-far-away-tale.json) |
 | Connect Four | 45935 | [45935-connect-four.json](./45935-connect-four.json) |
+| Connect Four | 91265 | [91265-connect-four.json](./91265-connect-four.json) |
 | Connect Four / Perfection / Trouble | 77638 | [77638-connect-four-perfection-trouble.json](./77638-connect-four-perfection-trouble.json) |
 | Connect Four Cities | 73840 | [73840-connect-four-cities.json](./73840-connect-four-cities.json) |
 | Connect It! | 147778 | [147778-connect-it.json](./147778-connect-it.json) |
