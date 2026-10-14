@@ -1908,6 +1908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man's Last Friends | 397200 | [397200-mans-last-friends.json](./397200-mans-last-friends.json) |
 | Man/Woman | 181747 | [181747-man-woman.json](./181747-man-woman.json) |
 | Mana | 280309 | [280309-mana.json](./280309-mana.json) |
+| Mana Balls | 116190 | [116190-mana-balls.json](./116190-mana-balls.json) |
 | Mana Chess | 195148 | [195148-mana-chess.json](./195148-mana-chess.json) |
 | Mana Cycle | 296970 | [296970-mana-cycle.json](./296970-mana-cycle.json) |
 | Mana Fortress | 244157 | [244157-mana-fortress.json](./244157-mana-fortress.json) |
@@ -11018,6 +11019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonsigil Atlas | 322204 | [322204-moonsigil-atlas.json](./322204-moonsigil-atlas.json) |
 | Moonsouls: Echoes of the Past | 234301 | [234301-moonsouls-echoes-of-the-past.json](./234301-moonsouls-echoes-of-the-past.json) |
 | MoonSpire | 336056 | [336056-moonspire.json](./336056-moonspire.json) |
+| Moonstone Crossroads | 116081 | [116081-moonstone-crossroads.json](./116081-moonstone-crossroads.json) |
 | Moonstone Island: Arcane Artifacts | 301852 | [301852-moonstone-island-arcane-artifacts.json](./301852-moonstone-island-arcane-artifacts.json) |
 | Moonstone Island: Autumnal Accessories DLC Pack | 317958 | [317958-moonstone-island-autumnal-accessories-dlc-pack.json](./317958-moonstone-island-autumnal-accessories-dlc-pack.json) |
 | Moonstone Island: Cozy Comforts DLC | 306555 | [306555-moonstone-island-cozy-comforts-dlc.json](./306555-moonstone-island-cozy-comforts-dlc.json) |
