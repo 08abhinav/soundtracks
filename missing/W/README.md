@@ -2340,6 +2340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werewolf Hunter X | 114244 | [114244-werewolf-hunter-x.json](./114244-werewolf-hunter-x.json) |
 | Werewolf Hunter: Survive the Howl | 330808 | [330808-werewolf-hunter-survive-the-howl.json](./330808-werewolf-hunter-survive-the-howl.json) |
 | Werewolf Island | 61150 | [61150-werewolf-island.json](./61150-werewolf-island.json) |
+| Werewolf Life | 81973 | [81973-werewolf-life.json](./81973-werewolf-life.json) |
 | Werewolf Online | 420656 | [420656-werewolf-online.json](./420656-werewolf-online.json) |
 | Werewolf Party | 301378 | [301378-werewolf-party.json](./301378-werewolf-party.json) |
 | Werewolf Pinball | 105930 | [105930-werewolf-pinball.json](./105930-werewolf-pinball.json) |
@@ -4308,6 +4309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Stone | 165665 | [165665-witch-stone.json](./165665-witch-stone.json) |
 | Witch Stories | 329681 | [329681-witch-stories.json](./329681-witch-stories.json) |
 | Witch Story | 215653 | [215653-witch-story.json](./215653-witch-story.json) |
+| Witch Sword | 81963 | [81963-witch-sword.json](./81963-witch-sword.json) |
 | Witch Thief | 55464 | [55464-witch-thief.json](./55464-witch-thief.json) |
 | Witch Trials | 76874 | [76874-witch-trials.json](./76874-witch-trials.json) |
 | Witch War 1 | 352384 | [352384-witch-war-1.json](./352384-witch-war-1.json) |
