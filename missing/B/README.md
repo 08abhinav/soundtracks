@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.A.S.E. Jumping Game | 60786 | [60786-b-a-s-e-jumping-game.json](./60786-b-a-s-e-jumping-game.json) |
 | B.A.T. | 185657 | [185657-b-a-t.json](./185657-b-a-t.json) |
 | B.ARK | 131870 | [131870-b-ark.json](./131870-b-ark.json) |
+| B.B. Oh, yes! Jonny! | 83390 | [83390-b-b-oh-yes-jonny.json](./83390-b-b-oh-yes-jonny.json) |
 | B.B. Rider | 331147 | [331147-b-b-rider.json](./331147-b-b-rider.json) |
 | B.C. Bill | 15655 | [15655-b-c-bill.json](./15655-b-c-bill.json) |
 | B.C. Bow Contest | 318168 | [318168-b-c-bow-contest.json](./318168-b-c-bow-contest.json) |
@@ -3036,6 +3037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlestar Galactica Deadlock: Sin and Sacrifice | 115672 | [115672-battlestar-galactica-deadlock-sin-and-sacrifice.json](./115672-battlestar-galactica-deadlock-sin-and-sacrifice.json) |
 | Battlestar Galactica Deadlock: The Broken Alliance | 129482 | [129482-battlestar-galactica-deadlock-the-broken-alliance.json](./129482-battlestar-galactica-deadlock-the-broken-alliance.json) |
 | Battlestar Galactica: Scattered Hopes | 361822 | [361822-battlestar-galactica-scattered-hopes.json](./361822-battlestar-galactica-scattered-hopes.json) |
+| Battlestar Galactica: Squadrons | 83398 | [83398-battlestar-galactica-squadrons.json](./83398-battlestar-galactica-squadrons.json) |
 | BattleStar Mazay | 104068 | [104068-battlestar-mazay.json](./104068-battlestar-mazay.json) |
 | Battlestations | 13872 | [13872-battlestations.json](./13872-battlestations.json) |
 | Battlestations: Midway | 4223 | [4223-battlestations-midway.json](./4223-battlestations-midway.json) |
