@@ -10333,6 +10333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread Pilots | 252854 | [252854-dread-pilots.json](./252854-dread-pilots.json) |
 | Dread Protocol | 277315 | [277315-dread-protocol.json](./277315-dread-protocol.json) |
 | Dread Rune | 199982 | [199982-dread-rune.json](./199982-dread-rune.json) |
+| Dread Station | 86760 | [86760-dread-station.json](./86760-dread-station.json) |
 | Dread the Rabbit | 183595 | [183595-dread-the-rabbit.json](./183595-dread-the-rabbit.json) |
 | Dread Weight | 249334 | [249334-dread-weight.json](./249334-dread-weight.json) |
 | Dread X Collection 3 | 140041 | [140041-dread-x-collection-3.json](./140041-dread-x-collection-3.json) |
