@@ -3298,6 +3298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Nights: Martial Ci Lang Story | 300857 | [300857-nine-nights-martial-ci-lang-story.json](./300857-nine-nights-martial-ci-lang-story.json) |
 | Nine Paradise: The Origin | 253349 | [253349-nine-paradise-the-origin.json](./253349-nine-paradise-the-origin.json) |
 | Nine Parchments | 23330 | [23330-nine-parchments.json](./23330-nine-parchments.json) |
+| Nine Provinces: Caravan | 130064 | [130064-nine-provinces-caravan.json](./130064-nine-provinces-caravan.json) |
 | Nine Realms: Dawn Touch | 296259 | [296259-nine-realms-dawn-touch.json](./296259-nine-realms-dawn-touch.json) |
 | Nine Realms: Revolt | 254770 | [254770-nine-realms-revolt.json](./254770-nine-realms-revolt.json) |
 | Nine Rounds Rapid | 238718 | [238718-nine-rounds-rapid.json](./238718-nine-rounds-rapid.json) |
@@ -4936,6 +4937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuke Land | 188961 | [188961-nuke-land.json](./188961-nuke-land.json) |
 | Nuke Mine | 311467 | [311467-nuke-mine.json](./311467-nuke-mine.json) |
 | Nuke Them All | 250513 | [250513-nuke-them-all.json](./250513-nuke-them-all.json) |
+| Nuke Zone | 130085 | [130085-nuke-zone.json](./130085-nuke-zone.json) |
 | Nukeout | 100763 | [100763-nukeout.json](./100763-nukeout.json) |
 | Nukepath | 219625 | [219625-nukepath.json](./219625-nukepath.json) |
 | Nuketris | 145666 | [145666-nuketris.json](./145666-nuketris.json) |
@@ -5145,6 +5147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyanaconda | 229237 | [229237-nyanaconda.json](./229237-nyanaconda.json) |
 | Nyancle Racing | 94668 | [94668-nyancle-racing.json](./94668-nyancle-racing.json) |
 | Nyanco | 120044 | [120044-nyanco.json](./120044-nyanco.json) |
+| Nyanco Channel | 130106 | [130106-nyanco-channel.json](./130106-nyanco-channel.json) |
 | Nyanco Dream | 126557 | [126557-nyanco-dream.json](./126557-nyanco-dream.json) |
 | Nyanco Mine | 164284 | [164284-nyanco-mine.json](./164284-nyanco-mine.json) |
 | Nyanco Project | 120984 | [120984-nyanco-project.json](./120984-nyanco-project.json) |
