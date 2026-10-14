@@ -994,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Stop: Station 66 | 229610 | [229610-last-stop-station-66.json](./229610-last-stop-station-66.json) |
 | Last Stretch | 389095 | [389095-last-stretch.json](./389095-last-stretch.json) |
 | Last Striker | 40270 | [40270-last-striker.json](./40270-last-striker.json) |
+| Last Summer | 122067 | [122067-last-summer.json](./122067-last-summer.json) |
 | Last Summer | 298672 | [298672-last-summer.json](./298672-last-summer.json) |
 | Last Summer at Camp Apocalypse Blood: 101 Ways to Not Capture Bigfoot | 349939 | [349939-last-summer-at-camp-apocalypse-blood-101-ways-to-not-capture-bigfoot.json](./349939-last-summer-at-camp-apocalypse-blood-101-ways-to-not-capture-bigfoot.json) |
 | Last Survivor | 74411 | [74411-last-survivor.json](./74411-last-survivor.json) |
@@ -1108,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lattice 200EC7 | 143664 | [143664-lattice-200ec7.json](./143664-lattice-200ec7.json) |
 | Lattice Dancer | 240129 | [240129-lattice-dancer.json](./240129-lattice-dancer.json) |
 | Latto-Latto Simulator | 233453 | [233453-latto-latto-simulator.json](./233453-latto-latto-simulator.json) |
+| Laufen Und Raufen | 122036 | [122036-laufen-und-raufen.json](./122036-laufen-und-raufen.json) |
 | Laugh & Learn: Animal Sounds | 101577 | [101577-laugh-and-learn-animal-sounds.json](./101577-laugh-and-learn-animal-sounds.json) |
 | Laughing in the Wind Mobile | 174880 | [174880-laughing-in-the-wind-mobile.json](./174880-laughing-in-the-wind-mobile.json) |
 | Laughing to Die | 267571 | [267571-laughing-to-die.json](./267571-laughing-to-die.json) |
@@ -3244,6 +3246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lighting End VR | 29677 | [29677-lighting-end-vr.json](./29677-lighting-end-vr.json) |
 | Lighting Lanterns | 346593 | [346593-lighting-lanterns.json](./346593-lighting-lanterns.json) |
 | Lightlike | 176464 | [176464-lightlike.json](./176464-lightlike.json) |
+| Lightman | 121385 | [121385-lightman.json](./121385-lightman.json) |
 | Lightmatter | 113150 | [113150-lightmatter.json](./113150-lightmatter.json) |
 | Lightmatter Anniversary | 340919 | [340919-lightmatter-anniversary.json](./340919-lightmatter-anniversary.json) |
 | Lightner | 136242 | [136242-lightner.json](./136242-lightner.json) |
@@ -6520,6 +6523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Resilience | 302918 | [302918-lunar-resilience.json](./302918-lunar-resilience.json) |
 | Lunar Soil | 93776 | [93776-lunar-soil.json](./93776-lunar-soil.json) |
 | Lunar Stone: Origin of Blood | 30578 | [30578-lunar-stone-origin-of-blood.json](./30578-lunar-stone-origin-of-blood.json) |
+| Lunar Timepiece: Shadow of Twelve | 121343 | [121343-lunar-timepiece-shadow-of-twelve.json](./121343-lunar-timepiece-shadow-of-twelve.json) |
 | Lunar: Dragon Song | 13908 | [13908-lunar-dragon-song.json](./13908-lunar-dragon-song.json) |
 | Lunar: Eternal Blue | 5401 | [5401-lunar-eternal-blue.json](./5401-lunar-eternal-blue.json) |
 | Lunar: The Silver Star | 5334 | [5334-lunar-the-silver-star.json](./5334-lunar-the-silver-star.json) |
