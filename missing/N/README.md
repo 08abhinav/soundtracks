@@ -2001,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeuroHex: Hacking, Spying, Sabotage | 129029 | [129029-neurohex-hacking-spying-sabotage.json](./129029-neurohex-hacking-spying-sabotage.json) |
 | Neurokino Retrograde | 321120 | [321120-neurokino-retrograde.json](./321120-neurokino-retrograde.json) |
 | Neuromancer | 14485 | [14485-neuromancer.json](./14485-neuromancer.json) |
+| NeuroMatrix | 81114 | [81114-neuromatrix.json](./81114-neuromatrix.json) |
 | Neuromira: First Death | 374216 | [374216-neuromira-first-death.json](./374216-neuromira-first-death.json) |
 | Neuron | 236201 | [236201-neuron.json](./236201-neuron.json) |
 | Neuron Activation | 385337 | [385337-neuron-activation.json](./385337-neuron-activation.json) |
