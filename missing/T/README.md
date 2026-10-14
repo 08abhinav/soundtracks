@@ -10133,6 +10133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Puzzle Trouble | 53769 | [53769-the-puzzle-trouble.json](./53769-the-puzzle-trouble.json) |
 | The Puzzler | 365866 | [365866-the-puzzler.json](./365866-the-puzzler.json) |
 | The Pyramid | 45362 | [45362-the-pyramid.json](./45362-the-pyramid.json) |
+| The Pyramid Of Peril | 112211 | [112211-the-pyramid-of-peril.json](./112211-the-pyramid-of-peril.json) |
 | The Pyramid Prison | 127236 | [127236-the-pyramid-prison.json](./127236-the-pyramid-prison.json) |
 | The Pyramids of Egypt | 62671 | [62671-the-pyramids-of-egypt.json](./62671-the-pyramids-of-egypt.json) |
 | The Pyraplex | 124082 | [124082-the-pyraplex.json](./124082-the-pyraplex.json) |
