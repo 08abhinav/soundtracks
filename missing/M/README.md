@@ -2226,7 +2226,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mapping at Warpspeed | 257421 | [257421-mapping-at-warpspeed.json](./257421-mapping-at-warpspeed.json) |
 | Mappy | 218428 | [218428-mappy.json](./218428-mappy.json) |
 | Mappy | 239157 | [239157-mappy.json](./239157-mappy.json) |
-| Mappy | 2710 | [2710-mappy.json](./2710-mappy.json) |
 | Mappy | 293754 | [293754-mappy.json](./293754-mappy.json) |
 | Mappy | 313132 | [313132-mappy.json](./313132-mappy.json) |
 | Mappy Kids | 48625 | [48625-mappy-kids.json](./48625-mappy-kids.json) |
