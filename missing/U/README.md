@@ -1594,6 +1594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unity of Command: Black Turn | 171631 | [171631-unity-of-command-black-turn.json](./171631-unity-of-command-black-turn.json) |
 | Unity of Command: Red Turn | 171341 | [171341-unity-of-command-red-turn.json](./171341-unity-of-command-red-turn.json) |
 | Unity to Survive | 368507 | [368507-unity-to-survive.json](./368507-unity-to-survive.json) |
+| Unity-Chan Live Stage! -Candy Rock Star- | 127655 | [127655-unity-chan-live-stage-candy-rock-star.json](./127655-unity-chan-live-stage-candy-rock-star.json) |
 | Unity-chan no Knife Nage Master | 206047 | [206047-unity-chan-no-knife-nage-master.json](./206047-unity-chan-no-knife-nage-master.json) |
 | Unity-chan the SharpShooter! | 304899 | [304899-unity-chan-the-sharpshooter.json](./304899-unity-chan-the-sharpshooter.json) |
 | Unity-Chan: Desktop Companion | 395040 | [395040-unity-chan-desktop-companion.json](./395040-unity-chan-desktop-companion.json) |
@@ -2193,6 +2194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uragiri wa Boku no Namae wo Shitteiru: Tasogare ni Ochita Inori | 287900 | [287900-uragiri-wa-boku-no-namae-wo-shitteiru-tasogare-ni-ochita-inori.json](./287900-uragiri-wa-boku-no-namae-wo-shitteiru-tasogare-ni-ochita-inori.json) |
 | URagnarok | 98042 | [98042-uragnarok.json](./98042-uragnarok.json) |
 | URagnarok 2 | 98022 | [98022-uragnarok-2.json](./98022-uragnarok-2.json) |
+| Uranai Angel Cutie | 128893 | [128893-uranai-angel-cutie.json](./128893-uranai-angel-cutie.json) |
 | Urania | 313835 | [313835-urania.json](./313835-urania.json) |
 | Urania's Cloak | 144200 | [144200-uranias-cloak.json](./144200-uranias-cloak.json) |
 | Urânio 235 | 256281 | [256281-uranio-235.json](./256281-uranio-235.json) |
@@ -2296,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | URLIRL | 394837 | [394837-urlirl.json](./394837-urlirl.json) |
 | UrlX | 350541 | [350541-urlx.json](./350541-urlx.json) |
 | Urmels großer Flug | 410090 | [410090-urmels-gro-er-flug.json](./410090-urmels-gro-er-flug.json) |
+| Uro2 | 125121 | [125121-uro2.json](./125121-uro2.json) |
 | Urok | 319766 | [319766-urok.json](./319766-urok.json) |
 | Uros: A Trip Through Shadows | 154800 | [154800-uros-a-trip-through-shadows.json](./154800-uros-a-trip-through-shadows.json) |
 | Urotsukidouji | 123014 | [123014-urotsukidouji.json](./123014-urotsukidouji.json) |
@@ -2408,6 +2411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utawarerumono: Prelude to the Fallen - Origins Edition | 173117 | [173117-utawarerumono-prelude-to-the-fallen-origins-edition.json](./173117-utawarerumono-prelude-to-the-fallen-origins-edition.json) |
 | Utawarerumono: Prelude to the Fallen - Premium Edition | 167071 | [167071-utawarerumono-prelude-to-the-fallen-premium-edition.json](./167071-utawarerumono-prelude-to-the-fallen-premium-edition.json) |
 | Ute | 334044 | [334044-ute.json](./334044-ute.json) |
+| Uterine Supremacy | 126910 | [126910-uterine-supremacy.json](./126910-uterine-supremacy.json) |
 | Utherous | 60488 | [60488-utherous.json](./60488-utherous.json) |
 | Utility for the Soul | 312571 | [312571-utility-for-the-soul.json](./312571-utility-for-the-soul.json) |
 | Utopia | 142988 | [142988-utopia.json](./142988-utopia.json) |
