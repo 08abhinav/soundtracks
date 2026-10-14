@@ -1795,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of the Hunter: Outfits Pack | 311101 | [311101-way-of-the-hunter-outfits-pack.json](./311101-way-of-the-hunter-outfits-pack.json) |
 | Way of the Hunter: Steyr Arms Pack | 272878 | [272878-way-of-the-hunter-steyr-arms-pack.json](./272878-way-of-the-hunter-steyr-arms-pack.json) |
 | Way of the Hunter: Wild Expeditions | 325658 | [325658-way-of-the-hunter-wild-expeditions.json](./325658-way-of-the-hunter-wild-expeditions.json) |
+| Way of the Knight | 114746 | [114746-way-of-the-knight.json](./114746-way-of-the-knight.json) |
 | Way of the Red | 25963 | [25963-way-of-the-red.json](./25963-way-of-the-red.json) |
 | Way of the Samurai | 10156 | [10156-way-of-the-samurai.json](./10156-way-of-the-samurai.json) |
 | Way of the Samurai 2 | 10157 | [10157-way-of-the-samurai-2.json](./10157-way-of-the-samurai-2.json) |
