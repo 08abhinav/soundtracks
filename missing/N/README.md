@@ -2692,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nick Bounty: The Dame with the Blue Chewed Shoe. | 111203 | [111203-nick-bounty-the-dame-with-the-blue-chewed-shoe.json](./111203-nick-bounty-the-dame-with-the-blue-chewed-shoe.json) |
 | Nick Bounty: The Goat in the Grey Fedora - Remastered | 212968 | [212968-nick-bounty-the-goat-in-the-grey-fedora-remastered.json](./212968-nick-bounty-the-goat-in-the-grey-fedora-remastered.json) |
 | Nick Brawl Community Edition | 325669 | [325669-nick-brawl-community-edition.json](./325669-nick-brawl-community-edition.json) |
+| Nick Carter: Il Mistero del Tesoro Degli Incaz! | 77186 | [77186-nick-carter-il-mistero-del-tesoro-degli-incaz.json](./77186-nick-carter-il-mistero-del-tesoro-degli-incaz.json) |
 | Nick Faldo Championship Golf | 295038 | [295038-nick-faldo-championship-golf.json](./295038-nick-faldo-championship-golf.json) |
 | Nick Faldo's Championship Golf | 15872 | [15872-nick-faldos-championship-golf.json](./15872-nick-faldos-championship-golf.json) |
 | Nick Football Champions | 112133 | [112133-nick-football-champions.json](./112133-nick-football-champions.json) |
