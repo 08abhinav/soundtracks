@@ -1340,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Khaba | 28581 | [28581-khaba.json](./28581-khaba.json) |
 | Khalco Farm | 414505 | [414505-khalco-farm.json](./414505-khalco-farm.json) |
 | Khaldun | 184866 | [184866-khaldun.json](./184866-khaldun.json) |
+| Khamrai | 91879 | [91879-khamrai.json](./91879-khamrai.json) |
 | Khan: Absolute Power | 33293 | [33293-khan-absolute-power.json](./33293-khan-absolute-power.json) |
 | Khan: Myth of the Wind | 145603 | [145603-khan-myth-of-the-wind.json](./145603-khan-myth-of-the-wind.json) |
 | Khaos Wind | 111894 | [111894-khaos-wind.json](./111894-khaos-wind.json) |
