@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D2 | 36736 | [36736-d2.json](./36736-d2.json) |
 | D20 Dungeons | 126975 | [126975-d20-dungeons.json](./126975-d20-dungeons.json) |
 | D2048 | 125915 | [125915-d2048.json](./125915-d2048.json) |
+| d2b VS Deardrops -Cross the Future- | 125760 | [125760-d2b-vs-deardrops-cross-the-future.json](./125760-d2b-vs-deardrops-cross-the-future.json) |
 | D3ad Hand | 277528 | [277528-d3ad-hand.json](./277528-d3ad-hand.json) |
 | D3ad Hand | 315098 | [315098-d3ad-hand.json](./315098-d3ad-hand.json) |
 | D3d Inside | 126659 | [126659-d3d-inside.json](./126659-d3d-inside.json) |
@@ -2778,6 +2779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Toki | 122972 | [122972-dear-toki.json](./122972-dear-toki.json) |
 | Dear world Re. | 386252 | [386252-dear-world-re.json](./386252-dear-world-re.json) |
 | Deardrops | 50444 | [50444-deardrops.json](./50444-deardrops.json) |
+| Deardrops Distortion | 125741 | [125741-deardrops-distortion.json](./125741-deardrops-distortion.json) |
 | Dearg | 236410 | [236410-dearg.json](./236410-dearg.json) |
 | DearMyFriend | 285005 | [285005-dearmyfriend.json](./285005-dearmyfriend.json) |
 | DearS | 60880 | [60880-dears.json](./60880-dears.json) |
@@ -3181,6 +3183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck Defenders | 237317 | [237317-deck-defenders.json](./237317-deck-defenders.json) |
 | Deck Defense | 301427 | [301427-deck-defense.json](./301427-deck-defense.json) |
 | Deck Hunter | 106418 | [106418-deck-hunter.json](./106418-deck-hunter.json) |
+| Deck Make Million Arthur | 125772 | [125772-deck-make-million-arthur.json](./125772-deck-make-million-arthur.json) |
 | Deck of Ashes | 114852 | [114852-deck-of-ashes.json](./114852-deck-of-ashes.json) |
 | Deck of Ashes: Complete Edition | 196816 | [196816-deck-of-ashes-complete-edition.json](./196816-deck-of-ashes-complete-edition.json) |
 | Deck of Ashes: Tome of Dimensions | 197665 | [197665-deck-of-ashes-tome-of-dimensions.json](./197665-deck-of-ashes-tome-of-dimensions.json) |
@@ -6211,6 +6214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinobreak: Crisis Collection | 331409 | [331409-dinobreak-crisis-collection.json](./331409-dinobreak-crisis-collection.json) |
 | Dinobreak: Gaiden Collection | 334111 | [334111-dinobreak-gaiden-collection.json](./334111-dinobreak-gaiden-collection.json) |
 | Dinodon | 238624 | [238624-dinodon.json](./238624-dinodon.json) |
+| Dinodrifters | 126317 | [126317-dinodrifters.json](./126317-dinodrifters.json) |
 | DinoFense | 30169 | [30169-dinofense.json](./30169-dinofense.json) |
 | Dinofurie | 332417 | [332417-dinofurie.json](./332417-dinofurie.json) |
 | Dinogen | 101706 | [101706-dinogen.json](./101706-dinogen.json) |
@@ -7577,6 +7581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogforce | 128421 | [128421-dogforce.json](./128421-dogforce.json) |
 | Dogforce: Seasons | 179161 | [179161-dogforce-seasons.json](./179161-dogforce-seasons.json) |
 | Doggerfall | 236883 | [236883-doggerfall.json](./236883-doggerfall.json) |
+| Doggest Dungeon | 125767 | [125767-doggest-dungeon.json](./125767-doggest-dungeon.json) |
 | Doggie Ninja: The Burning Strikers | 147785 | [147785-doggie-ninja-the-burning-strikers.json](./147785-doggie-ninja-the-burning-strikers.json) |
 | Doggins | 61872 | [61872-doggins.json](./61872-doggins.json) |
 | Doggo | 287098 | [287098-doggo.json](./287098-doggo.json) |
@@ -10988,6 +10993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Tanks | 415111 | [415111-drone-tanks.json](./415111-drone-tanks.json) |
 | Drone tracks | 121699 | [121699-drone-tracks.json](./121699-drone-tracks.json) |
 | Drone Warfare | 81179 | [81179-drone-warfare.json](./81179-drone-warfare.json) |
+| Drone Wars | 126355 | [126355-drone-wars.json](./126355-drone-wars.json) |
 | Drone Wars | 373546 | [373546-drone-wars.json](./373546-drone-wars.json) |
 | Drone Wars VR | 163801 | [163801-drone-wars-vr.json](./163801-drone-wars-vr.json) |
 | Drone World Tour: Flight Simulator | 322665 | [322665-drone-world-tour-flight-simulator.json](./322665-drone-world-tour-flight-simulator.json) |
