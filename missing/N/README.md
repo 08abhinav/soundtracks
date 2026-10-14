@@ -1599,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Battle | 85607 | [85607-neon-battle.json](./85607-neon-battle.json) |
 | Neon Beat Rider | 163739 | [163739-neon-beat-rider.json](./163739-neon-beat-rider.json) |
 | Neon Beats | 197652 | [197652-neon-beats.json](./197652-neon-beats.json) |
+| Neon Blast | 113548 | [113548-neon-blast.json](./113548-neon-blast.json) |
 | Neon Blast | 240936 | [240936-neon-blast.json](./240936-neon-blast.json) |
 | Neon Blocks 87 | 90814 | [90814-neon-blocks-87.json](./90814-neon-blocks-87.json) |
 | Neon Blood | 223443 | [223443-neon-blood.json](./223443-neon-blood.json) |
