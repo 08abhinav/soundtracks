@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenonia 4 | 38722 | [38722-zenonia-4.json](./38722-zenonia-4.json) |
 | Zenonia 5 | 75155 | [75155-zenonia-5.json](./75155-zenonia-5.json) |
 | Zenpu-kun | 324968 | [324968-zenpu-kun.json](./324968-zenpu-kun.json) |
+| Zenquarium | 78552 | [78552-zenquarium.json](./78552-zenquarium.json) |
 | Zenses: Ocean | 21138 | [21138-zenses-ocean.json](./21138-zenses-ocean.json) |
 | Zenses: Rainforest | 21295 | [21295-zenses-rainforest.json](./21295-zenses-rainforest.json) |
 | Zenses: Zen Garden | 75122 | [75122-zenses-zen-garden.json](./75122-zenses-zen-garden.json) |
