@@ -6449,6 +6449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Bicycle Rider Simulator | 259816 | [259816-dirt-bicycle-rider-simulator.json](./259816-dirt-bicycle-rider-simulator.json) |
 | Dirt Bike Apocalypse | 98903 | [98903-dirt-bike-apocalypse.json](./98903-dirt-bike-apocalypse.json) |
 | Dirt Bike Evo | 103932 | [103932-dirt-bike-evo.json](./103932-dirt-bike-evo.json) |
+| Dirt Bike Evo | 90525 | [90525-dirt-bike-evo.json](./90525-dirt-bike-evo.json) |
 | Dirt Bike Extreme | 87160 | [87160-dirt-bike-extreme.json](./87160-dirt-bike-extreme.json) |
 | Dirt Bike Extreme 3D | 330237 | [330237-dirt-bike-extreme-3d.json](./330237-dirt-bike-extreme-3d.json) |
 | Dirt Bike Motocross Stunts | 387009 | [387009-dirt-bike-motocross-stunts.json](./387009-dirt-bike-motocross-stunts.json) |
