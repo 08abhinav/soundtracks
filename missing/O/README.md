@@ -2102,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onnanoko Keeper 2 | 150494 | [150494-onnanoko-keeper-2.json](./150494-onnanoko-keeper-2.json) |
 | Ono: Fast Card Game Fun | 86715 | [86715-ono-fast-card-game-fun.json](./86715-ono-fast-card-game-fun.json) |
 | Onohi | 201634 | [201634-onohi.json](./201634-onohi.json) |
+| Onomastica 2 | 102046 | [102046-onomastica-2.json](./102046-onomastica-2.json) |
 | Onoow | 298039 | [298039-onoow.json](./298039-onoow.json) |
 | OnOrbit: Virtual Space Lab | 216929 | [216929-onorbit-virtual-space-lab.json](./216929-onorbit-virtual-space-lab.json) |
 | Onraid | 31752 | [31752-onraid.json](./31752-onraid.json) |
