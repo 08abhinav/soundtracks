@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PacaPomo | 310189 | [310189-pacapomo.json](./310189-pacapomo.json) |
 | Pacapong | 176335 | [176335-pacapong.json](./176335-pacapong.json) |
 | Pacar | 6122 | [6122-pacar.json](./6122-pacar.json) |
+| Pacar Animal | 106479 | [106479-pacar-animal.json](./106479-pacar-animal.json) |
 | Paccie | 241879 | [241879-paccie.json](./241879-paccie.json) |
 | Pace Car Pro | 110853 | [110853-pace-car-pro.json](./110853-pace-car-pro.json) |
 | Pacebreaker: An Experiment in AI-Perfected Exercise | 208343 | [208343-pacebreaker-an-experiment-in-ai-perfected-exercise.json](./208343-pacebreaker-an-experiment-in-ai-perfected-exercise.json) |
@@ -4146,6 +4147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piczle Cross: Story of Seasons | 280465 | [280465-piczle-cross-story-of-seasons.json](./280465-piczle-cross-story-of-seasons.json) |
 | Piczle Lines | 69524 | [69524-piczle-lines.json](./69524-piczle-lines.json) |
 | Piczle Lines 2: Into the Puzzleverse | 237363 | [237363-piczle-lines-2-into-the-puzzleverse.json](./237363-piczle-lines-2-into-the-puzzleverse.json) |
+| Piczle Lines DX 500 More Puzzles! | 106351 | [106351-piczle-lines-dx-500-more-puzzles.json](./106351-piczle-lines-dx-500-more-puzzles.json) |
 | Piczle Lines DX Bundle | 147788 | [147788-piczle-lines-dx-bundle.json](./147788-piczle-lines-dx-bundle.json) |
 | Piczle Lines DX+α | 116247 | [116247-piczle-lines-dx.json](./116247-piczle-lines-dx.json) |
 | Piczle Puzzle Adventures + Picto Quest Puzzle Bundle | 145690 | [145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json](./145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json) |
@@ -9236,6 +9238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pregnant Mom Virtual Family Neighbor Helper | 96001 | [96001-pregnant-mom-virtual-family-neighbor-helper.json](./96001-pregnant-mom-virtual-family-neighbor-helper.json) |
 | Pregnant Mother Life Mom Games | 296784 | [296784-pregnant-mother-life-mom-games.json](./296784-pregnant-mother-life-mom-games.json) |
 | Pregnant Talking Cat Emma | 250018 | [250018-pregnant-talking-cat-emma.json](./250018-pregnant-talking-cat-emma.json) |
+| Prehistoria | 106447 | [106447-prehistoria.json](./106447-prehistoria.json) |
 | Prehistoric Adventure | 413205 | [413205-prehistoric-adventure.json](./413205-prehistoric-adventure.json) |
 | Prehistoric Animals | 69223 | [69223-prehistoric-animals.json](./69223-prehistoric-animals.json) |
 | Prehistoric Dude | 138774 | [138774-prehistoric-dude.json](./138774-prehistoric-dude.json) |
@@ -12123,11 +12126,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Mate DS: Oekaki Mate | 306448 | [306448-puzzle-mate-ds-oekaki-mate.json](./306448-puzzle-mate-ds-oekaki-mate.json) |
 | Puzzle Mino | 199328 | [199328-puzzle-mino.json](./199328-puzzle-mino.json) |
 | Puzzle Mix | 195430 | [195430-puzzle-mix.json](./195430-puzzle-mix.json) |
+| Puzzle Monarch: Vampires | 106446 | [106446-puzzle-monarch-vampires.json](./106446-puzzle-monarch-vampires.json) |
 | Puzzle Monkeys | 85583 | [85583-puzzle-monkeys.json](./85583-puzzle-monkeys.json) |
 | Puzzle Myth | 93374 | [93374-puzzle-myth.json](./93374-puzzle-myth.json) |
 | Puzzle Nebula | 32165 | [32165-puzzle-nebula.json](./32165-puzzle-nebula.json) |
 | Puzzle Nintama Rantarou | 37871 | [37871-puzzle-nintama-rantarou.json](./37871-puzzle-nintama-rantarou.json) |
 | Puzzle Nintama Rantarou GB | 97863 | [97863-puzzle-nintama-rantarou-gb.json](./97863-puzzle-nintama-rantarou-gb.json) |
+| Puzzle Noid | 106465 | [106465-puzzle-noid.json](./106465-puzzle-noid.json) |
 | Puzzle of Insects | 295993 | [295993-puzzle-of-insects.json](./295993-puzzle-of-insects.json) |
 | Puzzle of Jellies | 9731 | [9731-puzzle-of-jellies.json](./9731-puzzle-of-jellies.json) |
 | Puzzle of Words | 37301 | [37301-puzzle-of-words.json](./37301-puzzle-of-words.json) |
