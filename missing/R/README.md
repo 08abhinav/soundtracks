@@ -5742,6 +5742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadside | 286079 | [286079-roadside.json](./286079-roadside.json) |
 | Roadside Assistance Simulator | 154268 | [154268-roadside-assistance-simulator.json](./154268-roadside-assistance-simulator.json) |
 | Roadside Assistance Simulator | 36317 | [36317-roadside-assistance-simulator.json](./36317-roadside-assistance-simulator.json) |
+| Roadster | 78529 | [78529-roadster.json](./78529-roadster.json) |
 | Roadsters '98 | 208859 | [208859-roadsters-98.json](./208859-roadsters-98.json) |
 | Roadtrip | 266233 | [266233-roadtrip.json](./266233-roadtrip.json) |
 | Roadwars | 12843 | [12843-roadwars.json](./12843-roadwars.json) |
@@ -7048,6 +7049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolly Cubes | 312370 | [312370-rolly-cubes.json](./312370-rolly-cubes.json) |
 | Rolly Dango | 306042 | [306042-rolly-dango.json](./306042-rolly-dango.json) |
 | Rolly Rails | 345701 | [345701-rolly-rails.json](./345701-rolly-rails.json) |
+| Rolly Rolly | 78535 | [78535-rolly-rolly.json](./78535-rolly-rolly.json) |
 | Rolly's Adventure | 119560 | [119560-rollys-adventure.json](./119560-rollys-adventure.json) |
 | Rolo to the Rescue | 46200 | [46200-rolo-to-the-rescue.json](./46200-rolo-to-the-rescue.json) |
 | Roly Poly | 196669 | [196669-roly-poly.json](./196669-roly-poly.json) |
@@ -7969,6 +7971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugrats in Paris: The Movie | 249130 | [249130-rugrats-in-paris-the-movie.json](./249130-rugrats-in-paris-the-movie.json) |
 | Rugrats in Paris: The Movie | 2792 | [2792-rugrats-in-paris-the-movie.json](./2792-rugrats-in-paris-the-movie.json) |
 | Rugrats Munchin Land | 70346 | [70346-rugrats-munchin-land.json](./70346-rugrats-munchin-land.json) |
+| Rugrats Totally Angelica Boredom Buster | 78555 | [78555-rugrats-totally-angelica-boredom-buster.json](./78555-rugrats-totally-angelica-boredom-buster.json) |
 | Rugrats: Adventures in Gameland | 264302 | [264302-rugrats-adventures-in-gameland.json](./264302-rugrats-adventures-in-gameland.json) |
 | Rugrats: Adventures in Gameland | 299152 | [299152-rugrats-adventures-in-gameland.json](./299152-rugrats-adventures-in-gameland.json) |
 | Rugrats: All Growed-Up | 7990 | [7990-rugrats-all-growed-up.json](./7990-rugrats-all-growed-up.json) |
