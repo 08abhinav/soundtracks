@@ -2390,6 +2390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap Attack | 81924 | [81924-scrap-attack.json](./81924-scrap-attack.json) |
 | Scrap Bolts | 246294 | [246294-scrap-bolts.json](./246294-scrap-bolts.json) |
 | Scrap Bringer | 172130 | [172130-scrap-bringer.json](./172130-scrap-bringer.json) |
+| Scrap City | 100686 | [100686-scrap-city.json](./100686-scrap-city.json) |
 | Scrap Clicker | 397173 | [397173-scrap-clicker.json](./397173-scrap-clicker.json) |
 | Scrap Clicker 2 | 212705 | [212705-scrap-clicker-2.json](./212705-scrap-clicker-2.json) |
 | Scrap Dealer Simulator | 334136 | [334136-scrap-dealer-simulator.json](./334136-scrap-dealer-simulator.json) |
@@ -9688,6 +9689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMYS: Show Me Your Stairs | 199437 | [199437-smys-show-me-your-stairs.json](./199437-smys-show-me-your-stairs.json) |
 | Snaaker & Friends | 169393 | [169393-snaaker-and-friends.json](./169393-snaaker-and-friends.json) |
 | Snaccoon | 214496 | [214496-snaccoon.json](./214496-snaccoon.json) |
+| Snack & Slash | 100665 | [100665-snack-and-slash.json](./100665-snack-and-slash.json) |
 | Snack and Quack | 366221 | [366221-snack-and-quack.json](./366221-snack-and-quack.json) |
 | Snack Attack | 374133 | [374133-snack-attack.json](./374133-snack-attack.json) |
 | Snack Attack and Friends | 74750 | [74750-snack-attack-and-friends.json](./74750-snack-attack-and-friends.json) |
@@ -10936,6 +10938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Collection | 208949 | [208949-solitaire-collection.json](./208949-solitaire-collection.json) |
 | Solitaire Collection HD | 90371 | [90371-solitaire-collection-hd.json](./90371-solitaire-collection-hd.json) |
 | Solitaire Companions: Cats | 418324 | [418324-solitaire-companions-cats.json](./418324-solitaire-companions-cats.json) |
+| Solitaire Cooking Tower | 100680 | [100680-solitaire-cooking-tower.json](./100680-solitaire-cooking-tower.json) |
 | Solitaire Crime Stories | 386141 | [386141-solitaire-crime-stories.json](./386141-solitaire-crime-stories.json) |
 | Solitaire Crime Stories Chapter 2 | 389072 | [389072-solitaire-crime-stories-chapter-2.json](./389072-solitaire-crime-stories-chapter-2.json) |
 | Solitaire Crime Stories Chapter 3 | 390506 | [390506-solitaire-crime-stories-chapter-3.json](./390506-solitaire-crime-stories-chapter-3.json) |
@@ -18049,6 +18052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone it! | 157422 | [157422-stone-it.json](./157422-stone-it.json) |
 | Stone of Destiny | 242796 | [242796-stone-of-destiny.json](./242796-stone-of-destiny.json) |
 | Stone River | 167602 | [167602-stone-river.json](./167602-stone-river.json) |
+| Stone Skimming | 100718 | [100718-stone-skimming.json](./100718-stone-skimming.json) |
 | Stone Story | 301604 | [301604-stone-story.json](./301604-stone-story.json) |
 | Stone Story RPG | 56485 | [56485-stone-story-rpg.json](./56485-stone-story-rpg.json) |
 | Stone Tales | 34386 | [34386-stone-tales.json](./34386-stone-tales.json) |
@@ -21870,6 +21874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Shogi 3: Kitaihei | 42223 | [42223-super-shogi-3-kitaihei.json](./42223-super-shogi-3-kitaihei.json) |
 | Super Shootout | 360582 | [360582-super-shootout.json](./360582-super-shootout.json) |
 | Super Shopper | 107809 | [107809-super-shopper.json](./107809-super-shopper.json) |
+| Super Sidekicks 2: The World Championship | 100707 | [100707-super-sidekicks-2-the-world-championship.json](./100707-super-sidekicks-2-the-world-championship.json) |
 | Super Silly Makeover | 220124 | [220124-super-silly-makeover.json](./220124-super-silly-makeover.json) |
 | Super Silverbrothers | 71235 | [71235-super-silverbrothers.json](./71235-super-silverbrothers.json) |
 | Super Size Me: Burger Man | 237292 | [237292-super-size-me-burger-man.json](./237292-super-size-me-burger-man.json) |
@@ -23186,6 +23191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swaps and Traps | 72360 | [72360-swaps-and-traps.json](./72360-swaps-and-traps.json) |
 | SwapStar | 252394 | [252394-swapstar.json](./252394-swapstar.json) |
 | SwapTales: Leon! | 116439 | [116439-swaptales-leon.json](./116439-swaptales-leon.json) |
+| SwapTiles | 100664 | [100664-swaptiles.json](./100664-swaptiles.json) |
 | Swapwood Quest R | 384253 | [384253-swapwood-quest-r.json](./384253-swapwood-quest-r.json) |
 | Swarm 2 | 280060 | [280060-swarm-2.json](./280060-swarm-2.json) |
 | Swarm Fortress | 294372 | [294372-swarm-fortress.json](./294372-swarm-fortress.json) |
