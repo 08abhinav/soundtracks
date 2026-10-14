@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Maker Extreme | 66779 | [66779-baby-maker-extreme.json](./66779-baby-maker-extreme.json) |
 | Baby Mammoth's Journey to Mars | 311711 | [311711-baby-mammoths-journey-to-mars.json](./311711-baby-mammoths-journey-to-mars.json) |
 | Baby Mario's A-Maze-ing Game | 341043 | [341043-baby-marios-a-maze-ing-game.json](./341043-baby-marios-a-maze-ing-game.json) |
+| Baby Monkey | 93453 | [93453-baby-monkey.json](./93453-baby-monkey.json) |
 | Baby Ninja | 88554 | [88554-baby-ninja.json](./88554-baby-ninja.json) |
 | Baby Nom Nom | 20916 | [20916-baby-nom-nom.json](./20916-baby-nom-nom.json) |
 | Baby Pals | 91753 | [91753-baby-pals.json](./91753-baby-pals.json) |
@@ -6237,6 +6238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksmith Weapon Merchant | 213987 | [213987-blacksmith-weapon-merchant.json](./213987-blacksmith-weapon-merchant.json) |
 | Blacksmith: Dark Times | 105012 | [105012-blacksmith-dark-times.json](./105012-blacksmith-dark-times.json) |
 | Blacksmith's Master | 184895 | [184895-blacksmiths-master.json](./184895-blacksmiths-master.json) |
+| BlackSpace | 93497 | [93497-blackspace.json](./93497-blackspace.json) |
 | Blackspot: The Card Game | 397872 | [397872-blackspot-the-card-game.json](./397872-blackspot-the-card-game.json) |
 | BlackStar: Theater Starless | 215169 | [215169-blackstar-theater-starless.json](./215169-blackstar-theater-starless.json) |
 | Blackstead | 217828 | [217828-blackstead.json](./217828-blackstead.json) |
@@ -10263,6 +10265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brickoid | 357167 | [357167-brickoid.json](./357167-brickoid.json) |
 | Brickout Kings | 108402 | [108402-brickout-kings.json](./108402-brickout-kings.json) |
 | Bricks | 292111 | [292111-bricks.json](./292111-bricks.json) |
+| Bricks | 93476 | [93476-bricks.json](./93476-bricks.json) |
 | Bricks '2000 | 375585 | [375585-bricks-2000.json](./375585-bricks-2000.json) |
 | Bricks Ahead | 184792 | [184792-bricks-ahead.json](./184792-bricks-ahead.json) |
 | Bricks Breaker Challenge | 234561 | [234561-bricks-breaker-challenge.json](./234561-bricks-breaker-challenge.json) |
