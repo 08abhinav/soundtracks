@@ -1485,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Gearbolt | 9137 | [9137-elemental-gearbolt.json](./9137-elemental-gearbolt.json) |
 | Elemental Gelade: Tozasareshi Uta | 49413 | [49413-elemental-gelade-tozasareshi-uta.json](./49413-elemental-gelade-tozasareshi-uta.json) |
 | Elemental Gimmick Gear | 45862 | [45862-elemental-gimmick-gear.json](./45862-elemental-gimmick-gear.json) |
+| Elemental Girls | 118113 | [118113-elemental-girls.json](./118113-elemental-girls.json) |
 | Elemental Heroes: Blue Fighter 20th Level Set | 170439 | [170439-elemental-heroes-blue-fighter-20th-level-set.json](./170439-elemental-heroes-blue-fighter-20th-level-set.json) |
 | Elemental Knights R: Dark Arthur Premium Pack | 402925 | [402925-elemental-knights-r-dark-arthur-premium-pack.json](./402925-elemental-knights-r-dark-arthur-premium-pack.json) |
 | Elemental Labyrinth | 346622 | [346622-elemental-labyrinth.json](./346622-elemental-labyrinth.json) |
@@ -4903,6 +4904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exed Exes | 6671 | [6671-exed-exes.json](./6671-exed-exes.json) |
 | Exelio | 264350 | [264350-exelio.json](./264350-exelio.json) |
 | Exelon | 79236 | [79236-exelon.json](./79236-exelon.json) |
+| Exemption | 118134 | [118134-exemption.json](./118134-exemption.json) |
 | Exer Gale | 297068 | [297068-exer-gale.json](./297068-exer-gale.json) |
 | Exercise Book Epic | 90659 | [90659-exercise-book-epic.json](./90659-exercise-book-epic.json) |
 | ExerciseSimulator Vol.1 | 309666 | [309666-exercisesimulator-vol-1.json](./309666-exercisesimulator-vol-1.json) |
