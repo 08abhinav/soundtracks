@@ -1467,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks Meet Zombies | 81672 | [81672-tanks-meet-zombies.json](./81672-tanks-meet-zombies.json) |
 | Tanks of Battle: World War 2 | 233420 | [233420-tanks-of-battle-world-war-2.json](./233420-tanks-of-battle-world-war-2.json) |
 | Tanks of Freedom II | 309548 | [309548-tanks-of-freedom-ii.json](./309548-tanks-of-freedom-ii.json) |
+| Tanks on the Eastern Front | 114235 | [114235-tanks-on-the-eastern-front.json](./114235-tanks-on-the-eastern-front.json) |
 | Tanks Online | 384275 | [384275-tanks-online.json](./384275-tanks-online.json) |
 | Tanks Racing Sim | 339417 | [339417-tanks-racing-sim.json](./339417-tanks-racing-sim.json) |
 | Tanks Rebirth | 357342 | [357342-tanks-rebirth.json](./357342-tanks-rebirth.json) |
@@ -2492,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken: Dark Resurrection | 389439 | [389439-tekken-dark-resurrection.json](./389439-tekken-dark-resurrection.json) |
 | Tekkyuuman | 73245 | [73245-tekkyuuman.json](./73245-tekkyuuman.json) |
 | Tekla | 218586 | [218586-tekla.json](./218586-tekla.json) |
+| Tekling 2 | 114221 | [114221-tekling-2.json](./114221-tekling-2.json) |
 | Tekling 2: Overdrive | 170314 | [170314-tekling-2-overdrive.json](./170314-tekling-2-overdrive.json) |
 | Teknedia | 139710 | [139710-teknedia.json](./139710-teknedia.json) |
 | TeknoKinetica | 316625 | [316625-teknokinetica.json](./316625-teknokinetica.json) |
@@ -10429,6 +10431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ritual | 133852 | [133852-the-ritual.json](./133852-the-ritual.json) |
 | The Ritual | 184031 | [184031-the-ritual.json](./184031-the-ritual.json) |
 | The Ritual on Weylyn Island | 26531 | [26531-the-ritual-on-weylyn-island.json](./26531-the-ritual-on-weylyn-island.json) |
+| The River | 114227 | [114227-the-river.json](./114227-the-river.json) |
 | The River | 348932 | [348932-the-river.json](./348932-the-river.json) |
 | The River Of Fire | 268730 | [268730-the-river-of-fire.json](./268730-the-river-of-fire.json) |
 | The Rivers of Alice: Extended Version | 34183 | [34183-the-rivers-of-alice-extended-version.json](./34183-the-rivers-of-alice-extended-version.json) |
@@ -10618,6 +10621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scrap | 247669 | [247669-the-scrap.json](./247669-the-scrap.json) |
 | The Scrapper | 306645 | [306645-the-scrapper.json](./306645-the-scrapper.json) |
 | The Scream | 119552 | [119552-the-scream.json](./119552-the-scream.json) |
+| The ScreaMaze | 114230 | [114230-the-screamaze.json](./114230-the-screamaze.json) |
 | The Screen | 369116 | [369116-the-screen.json](./369116-the-screen.json) |
 | The Scroll of Akbar Khan | 232553 | [232553-the-scroll-of-akbar-khan.json](./232553-the-scroll-of-akbar-khan.json) |
 | The Scroll of Black Loong | 298422 | [298422-the-scroll-of-black-loong.json](./298422-the-scroll-of-black-loong.json) |
@@ -12156,6 +12160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trolley Problem Game | 172138 | [172138-the-trolley-problem-game.json](./172138-the-trolley-problem-game.json) |
 | The Trolls in Crazyland | 48706 | [48706-the-trolls-in-crazyland.json](./48706-the-trolls-in-crazyland.json) |
 | The Trotties Adventure | 273315 | [273315-the-trotties-adventure.json](./273315-the-trotties-adventure.json) |
+| The Truck Game | 114250 | [114250-the-truck-game.json](./114250-the-truck-game.json) |
 | The True Arena | 271412 | [271412-the-true-arena.json](./271412-the-true-arena.json) |
 | The True Slime King | 97974 | [97974-the-true-slime-king.json](./97974-the-true-slime-king.json) |
 | The True Tales of Bloodstreet 13 | 112848 | [112848-the-true-tales-of-bloodstreet-13.json](./112848-the-true-tales-of-bloodstreet-13.json) |
