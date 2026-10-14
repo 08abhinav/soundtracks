@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy hentai puzzle | 120978 | [120978-easy-hentai-puzzle.json](./120978-easy-hentai-puzzle.json) |
 | Easy Jigsaw Puzzle | 377174 | [377174-easy-jigsaw-puzzle.json](./377174-easy-jigsaw-puzzle.json) |
 | Easy Joe | 92462 | [92462-easy-joe.json](./92462-easy-joe.json) |
+| Easy Joe World | 78537 | [78537-easy-joe-world.json](./78537-easy-joe-world.json) |
 | Easy Learning: Classical Music | 273325 | [273325-easy-learning-classical-music.json](./273325-easy-learning-classical-music.json) |
 | Easy Piano | 25168 | [25168-easy-piano.json](./25168-easy-piano.json) |
 | Easy Puzzle | 331390 | [331390-easy-puzzle.json](./331390-easy-puzzle.json) |
@@ -5384,6 +5385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Cycling | 330189 | [330189-extreme-cycling.json](./330189-extreme-cycling.json) |
 | Extreme Cycling Championship | 406796 | [406796-extreme-cycling-championship.json](./406796-extreme-cycling-championship.json) |
 | Extreme Dash | 262468 | [262468-extreme-dash.json](./262468-extreme-dash.json) |
+| Extreme Demolition | 78541 | [78541-extreme-demolition.json](./78541-extreme-demolition.json) |
 | Extreme Drift Car Driving | 108226 | [108226-extreme-drift-car-driving.json](./108226-extreme-drift-car-driving.json) |
 | Extreme Drifters | 105161 | [105161-extreme-drifters.json](./105161-extreme-drifters.json) |
 | Extreme Escape | 135660 | [135660-extreme-escape.json](./135660-extreme-escape.json) |
