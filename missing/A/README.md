@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Date with Death: Expansion DLC | 276859 | [276859-a-date-with-death-expansion-dlc.json](./276859-a-date-with-death-expansion-dlc.json) |
 | A Day as a T-Rex | 209185 | [209185-a-day-as-a-t-rex.json](./209185-a-day-as-a-t-rex.json) |
 | A Day at the Carnival | 55853 | [55853-a-day-at-the-carnival.json](./55853-a-day-at-the-carnival.json) |
+| A Day at the Library | 102050 | [102050-a-day-at-the-library.json](./102050-a-day-at-the-library.json) |
 | A day for a kitten | 75803 | [75803-a-day-for-a-kitten.json](./75803-a-day-for-a-kitten.json) |
 | A Day for Fresh Sushi | 141554 | [141554-a-day-for-fresh-sushi.json](./141554-a-day-for-fresh-sushi.json) |
 | A Day for Soft Food | 304221 | [304221-a-day-for-soft-food.json](./304221-a-day-for-soft-food.json) |
@@ -4217,6 +4218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Assault | 66623 | [66623-alien-assault.json](./66623-alien-assault.json) |
 | Alien Attack | 313465 | [313465-alien-attack.json](./313465-alien-attack.json) |
 | Alien Attack | 344944 | [344944-alien-attack.json](./344944-alien-attack.json) |
+| Alien Attack Team 2 | 102036 | [102036-alien-attack-team-2.json](./102036-alien-attack-team-2.json) |
 | Alien Attack: Zero | 167928 | [167928-alien-attack-zero.json](./167928-alien-attack-zero.json) |
 | Alien Bash | 76198 | [76198-alien-bash.json](./76198-alien-bash.json) |
 | Alien Bash II | 38859 | [38859-alien-bash-ii.json](./38859-alien-bash-ii.json) |
@@ -5335,6 +5337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amber Alert Director's Cut | 345679 | [345679-amber-alert-directors-cut.json](./345679-amber-alert-directors-cut.json) |
 | Amber Battle Royale | 226219 | [226219-amber-battle-royale.json](./226219-amber-battle-royale.json) |
 | Amber City | 210904 | [210904-amber-city.json](./210904-amber-city.json) |
+| Amber County | 102067 | [102067-amber-county.json](./102067-amber-county.json) |
 | Amber Effect | 174693 | [174693-amber-effect.json](./174693-amber-effect.json) |
 | Amber Island | 210903 | [210903-amber-island.json](./210903-amber-island.json) |
 | Amber Isle: Deluxe Edition | 330195 | [330195-amber-isle-deluxe-edition.json](./330195-amber-isle-deluxe-edition.json) |
