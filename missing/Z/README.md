@@ -1149,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Raid | 40987 | [40987-zombie-raid.json](./40987-zombie-raid.json) |
 | Zombie Raid: No One Survives | 195274 | [195274-zombie-raid-no-one-survives.json](./195274-zombie-raid-no-one-survives.json) |
 | Zombie Raider of Ra | 54918 | [54918-zombie-raider-of-ra.json](./54918-zombie-raider-of-ra.json) |
+| Zombie Raiders Beta | 100064 | [100064-zombie-raiders-beta.json](./100064-zombie-raiders-beta.json) |
 | Zombie Recall VR | 372645 | [372645-zombie-recall-vr.json](./372645-zombie-recall-vr.json) |
 | Zombie Redbox | 112187 | [112187-zombie-redbox.json](./112187-zombie-redbox.json) |
 | Zombie Retro Simulation | 177273 | [177273-zombie-retro-simulation.json](./177273-zombie-retro-simulation.json) |
