@@ -141,7 +141,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 2019: Legends Edition | 125192 | [125192-f1-2019-legends-edition.json](./125192-f1-2019-legends-edition.json) |
 | F1 2020 | 132205 | [132205-f1-2020.json](./132205-f1-2020.json) |
 | F1 2021 | 145838 | [145838-f1-2021.json](./145838-f1-2021.json) |
-| F1 22 | 198200 | [198200-f1-22.json](./198200-f1-22.json) |
 | F1 22: Champions Content Bundle | 226843 | [226843-f1-22-champions-content-bundle.json](./226843-f1-22-champions-content-bundle.json) |
 | F1 22: Champions Edition | 198261 | [198261-f1-22-champions-edition.json](./198261-f1-22-champions-edition.json) |
 | F1 23: Champions Edition | 248192 | [248192-f1-23-champions-edition.json](./248192-f1-23-champions-edition.json) |
