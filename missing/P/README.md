@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man: Special Color Edition | 49833 | [49833-pac-man-special-color-edition.json](./49833-pac-man-special-color-edition.json) |
 | Pac-Man: Ticket Mania | 146284 | [146284-pac-man-ticket-mania.json](./146284-pac-man-ticket-mania.json) |
 | Pac-Man's Arcade Party | 220255 | [220255-pac-mans-arcade-party.json](./220255-pac-mans-arcade-party.json) |
+| PAC-MANGAMES | 131311 | [131311-pac-mangames.json](./131311-pac-mangames.json) |
 | Pac-Mania | 174623 | [174623-pac-mania.json](./174623-pac-mania.json) |
 | Pac-Mania | 284365 | [284365-pac-mania.json](./284365-pac-mania.json) |
 | Pac-Mania | 284465 | [284465-pac-mania.json](./284465-pac-mania.json) |
@@ -2085,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patriots Remix | 37704 | [37704-patriots-remix.json](./37704-patriots-remix.json) |
 | Patriots: A Nation Under Fire | 27588 | [27588-patriots-a-nation-under-fire.json](./27588-patriots-a-nation-under-fire.json) |
 | Patriots: Back to Civilization | 182369 | [182369-patriots-back-to-civilization.json](./182369-patriots-back-to-civilization.json) |
+| Patrizier II: Aufschwung der Hanse | 131259 | [131259-patrizier-ii-aufschwung-der-hanse.json](./131259-patrizier-ii-aufschwung-der-hanse.json) |
 | Patrol no Gunji Hakubutsukan 3: Chouzetsu Muteki Kyuukyoku Heiki | 284347 | [284347-patrol-no-gunji-hakubutsukan-3-chouzetsu-muteki-kyuukyoku-heiki.json](./284347-patrol-no-gunji-hakubutsukan-3-chouzetsu-muteki-kyuukyoku-heiki.json) |
 | Patrol Police: Job Simulator | 223984 | [223984-patrol-police-job-simulator.json](./223984-patrol-police-job-simulator.json) |
 | Patrolling Mars | 276289 | [276289-patrolling-mars.json](./276289-patrolling-mars.json) |
@@ -2436,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peak | 360757 | [360757-peak.json](./360757-peak.json) |
 | Peak Angle: Drift Online - Japan Cars Pack | 225903 | [225903-peak-angle-drift-online-japan-cars-pack.json](./225903-peak-angle-drift-online-japan-cars-pack.json) |
 | Peak Climb | 372041 | [372041-peak-climb.json](./372041-peak-climb.json) |
+| Peak Entertainment Casinos | 131280 | [131280-peak-entertainment-casinos.json](./131280-peak-entertainment-casinos.json) |
 | Peak Item Randomizer | 363315 | [363315-peak-item-randomizer.json](./363315-peak-item-randomizer.json) |
 | Peak or Die | 382886 | [382886-peak-or-die.json](./382886-peak-or-die.json) |
 | Peak Performance | 20139 | [20139-peak-performance.json](./20139-peak-performance.json) |
@@ -6391,6 +6394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platinum | 94937 | [94937-platinum.json](./94937-platinum.json) |
 | Platinum Demo: Final Fantasy XV | 299106 | [299106-platinum-demo-final-fantasy-xv.json](./299106-platinum-demo-final-fantasy-xv.json) |
 | Platinum Kill | 112272 | [112272-platinum-kill.json](./112272-platinum-kill.json) |
+| Platinum Pinball | 131266 | [131266-platinum-pinball.json](./131266-platinum-pinball.json) |
 | Platinum White | 307137 | [307137-platinum-white.json](./307137-platinum-white.json) |
 | Plato | 86967 | [86967-plato.json](./86967-plato.json) |
 | Plato Interpreter | 42182 | [42182-plato-interpreter.json](./42182-plato-interpreter.json) |
@@ -9205,6 +9209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premier Manager 2005-2006 | 49354 | [49354-premier-manager-2005-2006.json](./49354-premier-manager-2005-2006.json) |
 | Premier Manager 3 | 14426 | [14426-premier-manager-3.json](./14426-premier-manager-3.json) |
 | Premier Manager 3 De-Luxe | 73484 | [73484-premier-manager-3-de-luxe.json](./73484-premier-manager-3-de-luxe.json) |
+| Premier Multi-Edit System | 131284 | [131284-premier-multi-edit-system.json](./131284-premier-multi-edit-system.json) |
 | Premier Picks | 94407 | [94407-premier-picks.json](./94407-premier-picks.json) |
 | Premier Servi | 293635 | [293635-premier-servi.json](./293635-premier-servi.json) |
 | Premier Soccer | 40397 | [40397-premier-soccer.json](./40397-premier-soccer.json) |
@@ -11838,6 +11843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzelate | 78745 | [78745-puzzelate.json](./78745-puzzelate.json) |
 | Puzzgun | 98684 | [98684-puzzgun.json](./98684-puzzgun.json) |
 | Puzzl9 | 178650 | [178650-puzzl9.json](./178650-puzzl9.json) |
+| Puzzle | 131268 | [131268-puzzle.json](./131268-puzzle.json) |
 | Puzzle | 287546 | [287546-puzzle.json](./287546-puzzle.json) |
 | Puzzle & Action: Treasure Hunt | 123590 | [123590-puzzle-and-action-treasure-hunt.json](./123590-puzzle-and-action-treasure-hunt.json) |
 | Puzzle & Chess | 156558 | [156558-puzzle-and-chess.json](./156558-puzzle-and-chess.json) |
