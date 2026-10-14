@@ -1548,6 +1548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Jinguji Saburo: Kiken na Futari - Kouhen | 41414 | [41414-tantei-jinguji-saburo-kiken-na-futari-kouhen.json](./41414-tantei-jinguji-saburo-kiken-na-futari-kouhen.json) |
 | Tantei Jinguji Saburo: Kiken na Futari - Zengohen | 171534 | [171534-tantei-jinguji-saburo-kiken-na-futari-zengohen.json](./171534-tantei-jinguji-saburo-kiken-na-futari-zengohen.json) |
 | Tantei Jinguji Saburo: Kiken na Futari - Zenpen | 41413 | [41413-tantei-jinguji-saburo-kiken-na-futari-zenpen.json](./41413-tantei-jinguji-saburo-kiken-na-futari-zenpen.json) |
+| Tantei Jinguji Saburo: Mikan no Report | 78561 | [78561-tantei-jinguji-saburo-mikan-no-report.json](./78561-tantei-jinguji-saburo-mikan-no-report.json) |
 | Tantei Jinguji Saburo: Naki Ko no Shouzou | 347642 | [347642-tantei-jinguji-saburo-naki-ko-no-shouzou.json](./347642-tantei-jinguji-saburo-naki-ko-no-shouzou.json) |
 | Tantei Jinguji Saburo: Naki Ko no Shouzou & Nazono-Jikenbo | 347295 | [347295-tantei-jinguji-saburo-naki-ko-no-shouzou-and-nazono-jikenbo.json](./347295-tantei-jinguji-saburo-naki-ko-no-shouzou-and-nazono-jikenbo.json) |
 | Tantei Jinguji Saburo: Quito no Yoru | 347634 | [347634-tantei-jinguji-saburo-quito-no-yoru.json](./347634-tantei-jinguji-saburo-quito-no-yoru.json) |
@@ -10876,6 +10877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers: New Allies - Deluxe Edition | 216233 | [216233-the-settlers-new-allies-deluxe-edition.json](./216233-the-settlers-new-allies-deluxe-edition.json) |
 | The Settlers: New Allies - Deluxe Pack | 239011 | [239011-the-settlers-new-allies-deluxe-pack.json](./239011-the-settlers-new-allies-deluxe-pack.json) |
 | The Settlers: Rise of an Empire - History Edition | 114448 | [114448-the-settlers-rise-of-an-empire-history-edition.json](./114448-the-settlers-rise-of-an-empire-history-edition.json) |
+| The Settlers: Rise of an Empire - The Eastern Realm | 78531 | [78531-the-settlers-rise-of-an-empire-the-eastern-realm.json](./78531-the-settlers-rise-of-an-empire-the-eastern-realm.json) |
 | The Settlers: Rise of Cultures | 132810 | [132810-the-settlers-rise-of-cultures.json](./132810-the-settlers-rise-of-cultures.json) |
 | The Seven | 356616 | [356616-the-seven.json](./356616-the-seven.json) |
 | The Seven Bad Apples | 382748 | [382748-the-seven-bad-apples.json](./382748-the-seven-bad-apples.json) |
@@ -11056,6 +11058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simpsons | 198887 | [198887-the-simpsons.json](./198887-the-simpsons.json) |
 | The Simpsons | 198888 | [198888-the-simpsons.json](./198888-the-simpsons.json) |
 | The Simpsons | 330108 | [330108-the-simpsons.json](./330108-the-simpsons.json) |
+| The Simpsons Arcade | 78556 | [78556-the-simpsons-arcade.json](./78556-the-simpsons-arcade.json) |
 | The Simpsons Arcade Game | 2826 | [2826-the-simpsons-arcade-game.json](./2826-the-simpsons-arcade-game.json) |
 | The Simpsons Bart-Shooter | 365246 | [365246-the-simpsons-bart-shooter.json](./365246-the-simpsons-bart-shooter.json) |
 | The Simpsons Game | 259329 | [259329-the-simpsons-game.json](./259329-the-simpsons-game.json) |
@@ -21149,6 +21152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: TV Trivia | 100150 | [100150-trivia-vault-tv-trivia.json](./100150-trivia-vault-tv-trivia.json) |
 | Trivia Vault: Video Game Trivia Deluxe | 74339 | [74339-trivia-vault-video-game-trivia-deluxe.json](./74339-trivia-vault-video-game-trivia-deluxe.json) |
 | Trivial Pursuit | 12970 | [12970-trivial-pursuit.json](./12970-trivial-pursuit.json) |
+| Trivial Pursuit | 78560 | [78560-trivial-pursuit.json](./78560-trivial-pursuit.json) |
 | Trivial Pursuit 2: A New Beginning | 69824 | [69824-trivial-pursuit-2-a-new-beginning.json](./69824-trivial-pursuit-2-a-new-beginning.json) |
 | Trivial Pursuit Arcade | 131504 | [131504-trivial-pursuit-arcade.json](./131504-trivial-pursuit-arcade.json) |
 | Trivial Pursuit Online | 355006 | [355006-trivial-pursuit-online.json](./355006-trivial-pursuit-online.json) |
