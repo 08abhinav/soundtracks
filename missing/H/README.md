@@ -2023,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head-to-Head Karate | 234219 | [234219-head-to-head-karate.json](./234219-head-to-head-karate.json) |
 | Head's Adventures: Chibichibi | 393116 | [393116-heads-adventures-chibichibi.json](./393116-heads-adventures-chibichibi.json) |
 | Headache | 182372 | [182372-headache.json](./182372-headache.json) |
+| Headball Soccer Deluxe | 119443 | [119443-headball-soccer-deluxe.json](./119443-headball-soccer-deluxe.json) |
 | Headbanger's Heaven: A Rock & Roll Adventure | 169893 | [169893-headbangers-heaven-a-rock-and-roll-adventure.json](./169893-headbangers-heaven-a-rock-and-roll-adventure.json) |
 | Headbangers Heaven | 250637 | [250637-headbangers-heaven.json](./250637-headbangers-heaven.json) |
 | Headbängers in Holiday Hell | 141232 | [141232-headbangers-in-holiday-hell.json](./141232-headbangers-in-holiday-hell.json) |
@@ -2547,6 +2548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helheim | 112866 | [112866-helheim.json](./112866-helheim.json) |
 | Helheim Hassle | 129208 | [129208-helheim-hassle.json](./129208-helheim-hassle.json) |
 | Helhigan | 360714 | [360714-helhigan.json](./360714-helhigan.json) |
+| Heli 100 | 119417 | [119417-heli-100.json](./119417-heli-100.json) |
 | Heli Commando in Hell | 124752 | [124752-heli-commando-in-hell.json](./124752-heli-commando-in-hell.json) |
 | Heli Fire | 38565 | [38565-heli-fire.json](./38565-heli-fire.json) |
 | Heli Golf | 150602 | [150602-heli-golf.json](./150602-heli-golf.json) |
@@ -5122,6 +5124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hijack! | 342598 | [342598-hijack.json](./342598-hijack.json) |
 | Hijinks High | 415088 | [415088-hijinks-high.json](./415088-hijinks-high.json) |
 | Hijong Park's Defender Patrol | 374952 | [374952-hijong-parks-defender-patrol.json](./374952-hijong-parks-defender-patrol.json) |
+| Hijos del Invierno | 120063 | [120063-hijos-del-invierno.json](./120063-hijos-del-invierno.json) |
 | Hikari no Shima: Seven Lithographs in Shining Island | 259488 | [259488-hikari-no-shima-seven-lithographs-in-shining-island.json](./259488-hikari-no-shima-seven-lithographs-in-shining-island.json) |
 | Hikari no Valusia | 378203 | [378203-hikari-no-valusia.json](./378203-hikari-no-valusia.json) |
 | Hikari! Clover Rescue | 113063 | [113063-hikari-clover-rescue.json](./113063-hikari-clover-rescue.json) |
