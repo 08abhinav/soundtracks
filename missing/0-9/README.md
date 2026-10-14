@@ -1020,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20 em 1: Game 8 | 245225 | [245225-20-em-1-game-8.json](./245225-20-em-1-game-8.json) |
 | 20 em 1: Game 9 | 245226 | [245226-20-em-1-game-9.json](./245226-20-em-1-game-9.json) |
 | 20 Floors | 405472 | [405472-20-floors.json](./405472-20-floors.json) |
+| 20 Games to Play With Your Mates | 98877 | [98877-20-games-to-play-with-your-mates.json](./98877-20-games-to-play-with-your-mates.json) |
 | 20 in 1 Family Games Mega Collection | 386365 | [386365-20-in-1-family-games-mega-collection.json](./386365-20-in-1-family-games-mega-collection.json) |
 | 20 Minute Metropolis | 124263 | [124263-20-minute-metropolis.json](./124263-20-minute-metropolis.json) |
 | 20 Squares | 92974 | [92974-20-squares.json](./92974-20-squares.json) |
@@ -1336,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30-in-1 Game Collection | 119442 | [119442-30-in-1-game-collection.json](./119442-30-in-1-game-collection.json) |
 | 30-in-1 Game Collection: Volume 2 | 119514 | [119514-30-in-1-game-collection-volume-2.json](./119514-30-in-1-game-collection-volume-2.json) |
 | 30,000 Games | 97119 | [97119-30-000-games.json](./97119-30-000-games.json) |
+| 300 Arcade Games | 98887 | [98887-300-arcade-games.json](./98887-300-arcade-games.json) |
 | 300 Dwarves | 52354 | [52354-300-dwarves.json](./52354-300-dwarves.json) |
 | 300 Heroes | 75139 | [75139-300-heroes.json](./75139-300-heroes.json) |
 | 300 Miles to Pigsland | 286646 | [286646-300-miles-to-pigsland.json](./286646-300-miles-to-pigsland.json) |
@@ -1769,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Nights at Pizzeria: Animatronics Block Shooter | 102609 | [102609-5-nights-at-pizzeria-animatronics-block-shooter.json](./102609-5-nights-at-pizzeria-animatronics-block-shooter.json) |
 | 5 Nights at Timokha's 4 School | 326230 | [326230-5-nights-at-timokhas-4-school.json](./326230-5-nights-at-timokhas-4-school.json) |
 | 5 O'clock Lock | 308333 | [308333-5-oclock-lock.json](./308333-5-oclock-lock.json) |
+| 5 Pack Limited Edition | 98919 | [98919-5-pack-limited-edition.json](./98919-5-pack-limited-edition.json) |
 | 5 Plus One: Pack 4 | 131287 | [131287-5-plus-one-pack-4.json](./131287-5-plus-one-pack-4.json) |
 | 5 Points Mall | 276764 | [276764-5-points-mall.json](./276764-5-points-mall.json) |
 | 5 Red Mickeys | 362723 | [362723-5-red-mickeys.json](./362723-5-red-mickeys.json) |
