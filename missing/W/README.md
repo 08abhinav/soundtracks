@@ -4077,6 +4077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Resort Simulator Season 2: TechnoAlpin - Snow Expert Pack | 226883 | [226883-winter-resort-simulator-season-2-technoalpin-snow-expert-pack.json](./226883-winter-resort-simulator-season-2-technoalpin-snow-expert-pack.json) |
 | Winter Sadness Simulator | 366953 | [366953-winter-sadness-simulator.json](./366953-winter-sadness-simulator.json) |
 | Winter Shard | 125413 | [125413-winter-shard.json](./125413-winter-shard.json) |
+| Winter Ski Park: Snow Driver | 96611 | [96611-winter-ski-park-snow-driver.json](./96611-winter-ski-park-snow-driver.json) |
 | Winter Solitaire | 115525 | [115525-winter-solitaire.json](./115525-winter-solitaire.json) |
 | Winter Sports 2011: Go for Gold | 27645 | [27645-winter-sports-2011-go-for-gold.json](./27645-winter-sports-2011-go-for-gold.json) |
 | Winter Sports 2012: Feel the Spirit | 52136 | [52136-winter-sports-2012-feel-the-spirit.json](./52136-winter-sports-2012-feel-the-spirit.json) |
@@ -5348,6 +5349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Clock | 90901 | [90901-world-clock.json](./90901-world-clock.json) |
 | World Club Champion Football: Intercontinental Clubs 2011-2012 | 314987 | [314987-world-club-champion-football-intercontinental-clubs-2011-2012.json](./314987-world-club-champion-football-intercontinental-clubs-2011-2012.json) |
 | World Combat | 380513 | [380513-world-combat.json](./380513-world-combat.json) |
+| World Conqueror 1945 | 96617 | [96617-world-conqueror-1945.json](./96617-world-conqueror-1945.json) |
 | World Conqueror 2 | 88751 | [88751-world-conqueror-2.json](./88751-world-conqueror-2.json) |
 | World Conqueror 3D | 85497 | [85497-world-conqueror-3d.json](./85497-world-conqueror-3d.json) |
 | World Conqueror X | 89152 | [89152-world-conqueror-x.json](./89152-world-conqueror-x.json) |
