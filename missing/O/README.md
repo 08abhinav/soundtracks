@@ -1091,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Blast | 270632 | [270632-omega-blast.json](./270632-omega-blast.json) |
 | Omega Chase | 41985 | [41985-omega-chase.json](./41985-omega-chase.json) |
 | Omega Chronos | 191667 | [191667-omega-chronos.json](./191667-omega-chronos.json) |
+| Omega Commando | 98337 | [98337-omega-commando.json](./98337-omega-commando.json) |
 | Omega Crafter | 236174 | [236174-omega-crafter.json](./236174-omega-crafter.json) |
 | Omega Enforcer X | 181905 | [181905-omega-enforcer-x.json](./181905-omega-enforcer-x.json) |
 | Omega Extinction | 68588 | [68588-omega-extinction.json](./68588-omega-extinction.json) |
@@ -3606,6 +3607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outside the Blocks | 245868 | [245868-outside-the-blocks.json](./245868-outside-the-blocks.json) |
 | Outside the home | 176249 | [176249-outside-the-home.json](./176249-outside-the-home.json) |
 | Outside World | 54906 | [54906-outside-world.json](./54906-outside-world.json) |
+| Outside World: Remembered | 98325 | [98325-outside-world-remembered.json](./98325-outside-world-remembered.json) |
 | Outside: Stray Cat | 185453 | [185453-outside-stray-cat.json](./185453-outside-stray-cat.json) |
 | Outsider | 201773 | [201773-outsider.json](./201773-outsider.json) |
 | Outsider | 341523 | [341523-outsider.json](./341523-outsider.json) |
