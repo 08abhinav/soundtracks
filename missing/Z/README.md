@@ -483,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenith: The Last City | 145452 | [145452-zenith-the-last-city.json](./145452-zenith-the-last-city.json) |
 | Zenith's Call | 176206 | [176206-zeniths-call.json](./176206-zeniths-call.json) |
 | Zenkai | 239596 | [239596-zenkai.json](./239596-zenkai.json) |
+| Zenkat | 119470 | [119470-zenkat.json](./119470-zenkat.json) |
 | Zenko: A Fox's Tale | 152848 | [152848-zenko-a-foxs-tale.json](./152848-zenko-a-foxs-tale.json) |
 | Zenkoku Baken Ouja Ketteisen 2: Omoshiro Bamei S | 341157 | [341157-zenkoku-baken-ouja-ketteisen-2-omoshiro-bamei-s.json](./341157-zenkoku-baken-ouja-ketteisen-2-omoshiro-bamei-s.json) |
 | Zenkoku Baken Ouja Ketteisen 2: Satella Mile Yosen 1 | 341158 | [341158-zenkoku-baken-ouja-ketteisen-2-satella-mile-yosen-1.json](./341158-zenkoku-baken-ouja-ketteisen-2-satella-mile-yosen-1.json) |
@@ -889,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zom Nom | 127768 | [127768-zom-nom.json](./127768-zom-nom.json) |
 | Zom Tom | 199372 | [199372-zom-tom.json](./199372-zom-tom.json) |
 | Zom: Rise of the Apocalypse | 239796 | [239796-zom-rise-of-the-apocalypse.json](./239796-zom-rise-of-the-apocalypse.json) |
+| Zomb | 120071 | [120071-zomb.json](./120071-zomb.json) |
 | Zombactory | 267021 | [267021-zombactory.json](./267021-zombactory.json) |
 | Zombaliens | 185370 | [185370-zombaliens.json](./185370-zombaliens.json) |
 | Zombapocalypse | 25753 | [25753-zombapocalypse.json](./25753-zombapocalypse.json) |
