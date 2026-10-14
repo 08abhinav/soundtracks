@@ -5051,6 +5051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleet Battle | 272460 | [272460-fleet-battle.json](./272460-fleet-battle.json) |
 | Fleet Defender Gold | 12320 | [12320-fleet-defender-gold.json](./12320-fleet-defender-gold.json) |
 | Fleet Force | 102098 | [102098-fleet-force.json](./102098-fleet-force.json) |
+| Fleet Star V | 110747 | [110747-fleet-star-v.json](./110747-fleet-star-v.json) |
 | Fleet Sweep | 139892 | [139892-fleet-sweep.json](./139892-fleet-sweep.json) |
 | Fleet Wars | 28812 | [28812-fleet-wars.json](./28812-fleet-wars.json) |
 | Fleetbreakers | 342190 | [342190-fleetbreakers.json](./342190-fleetbreakers.json) |
@@ -6899,6 +6900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Cross Comms Pack | 243231 | [243231-fortnite-cross-comms-pack.json](./243231-fortnite-cross-comms-pack.json) |
 | Fortnite: Cuddle Buns Pack | 333587 | [333587-fortnite-cuddle-buns-pack.json](./333587-fortnite-cuddle-buns-pack.json) |
 | Fortnite: Darkest Grumblings Pack | 331962 | [331962-fortnite-darkest-grumblings-pack.json](./331962-fortnite-darkest-grumblings-pack.json) |
+| Fortnite: Deep Freeze Bundle | 110839 | [110839-fortnite-deep-freeze-bundle.json](./110839-fortnite-deep-freeze-bundle.json) |
 | Fortnite: Deluxe Founder's Pack | 90660 | [90660-fortnite-deluxe-founders-pack.json](./90660-fortnite-deluxe-founders-pack.json) |
 | Fortnite: Diamond Diva Pack | 254667 | [254667-fortnite-diamond-diva-pack.json](./254667-fortnite-diamond-diva-pack.json) |
 | Fortnite: Drakon Steel Hybrid Crew Pack | 275307 | [275307-fortnite-drakon-steel-hybrid-crew-pack.json](./275307-fortnite-drakon-steel-hybrid-crew-pack.json) |
