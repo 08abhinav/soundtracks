@@ -2074,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wednesdays | 333946 | [333946-wednesdays.json](./333946-wednesdays.json) |
 | Wee Tanks! | 142708 | [142708-wee-tanks.json](./142708-wee-tanks.json) |
 | Wee Trains | 120293 | [120293-wee-trains.json](./120293-wee-trains.json) |
+| Wee-Woo | 130640 | [130640-wee-woo.json](./130640-wee-woo.json) |
 | Weed | 82143 | [82143-weed.json](./82143-weed.json) |
 | Weed & Greed | 348940 | [348940-weed-and-greed.json](./348940-weed-and-greed.json) |
 | Weed Bakery | 374631 | [374631-weed-bakery.json](./374631-weed-bakery.json) |
@@ -3472,6 +3473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Marble Beats | 181351 | [181351-wild-marble-beats.json](./181351-wild-marble-beats.json) |
 | Wild Mutation | 257927 | [257927-wild-mutation.json](./257927-wild-mutation.json) |
 | Wild Ones Battle Stadium | 338365 | [338365-wild-ones-battle-stadium.json](./338365-wild-ones-battle-stadium.json) |
+| Wild Origin: Scout | 130616 | [130616-wild-origin-scout.json](./130616-wild-origin-scout.json) |
 | Wild Pinball Bundle | 166684 | [166684-wild-pinball-bundle.json](./166684-wild-pinball-bundle.json) |
 | Wild Planet | 137049 | [137049-wild-planet.json](./137049-wild-planet.json) |
 | Wild Radio Flux | 236943 | [236943-wild-radio-flux.json](./236943-wild-radio-flux.json) |
@@ -5323,6 +5325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Fantasista | 302701 | [302701-world-fantasista.json](./302701-world-fantasista.json) |
 | World Fantasy: DigiWar | 336125 | [336125-world-fantasy-digiwar.json](./336125-world-fantasy-digiwar.json) |
 | World Fighting | 203263 | [203263-world-fighting.json](./203263-world-fighting.json) |
+| World Flipper | 130653 | [130653-world-flipper.json](./130653-world-flipper.json) |
 | World Football 98 | 260062 | [260062-world-football-98.json](./260062-world-football-98.json) |
 | World Football Challenge '98 | 217772 | [217772-world-football-challenge-98.json](./217772-world-football-challenge-98.json) |
 | World for Two | 147270 | [147270-world-for-two.json](./147270-world-for-two.json) |
