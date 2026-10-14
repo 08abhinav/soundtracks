@@ -1881,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to Kreisia | 68977 | [68977-journey-to-kreisia.json](./68977-journey-to-kreisia.json) |
 | Journey to Luonto | 75943 | [75943-journey-to-luonto.json](./75943-journey-to-luonto.json) |
 | Journey to Moonray | 158049 | [158049-journey-to-moonray.json](./158049-journey-to-moonray.json) |
+| Journey to New Atlantis | 127678 | [127678-journey-to-new-atlantis.json](./127678-journey-to-new-atlantis.json) |
 | Journey to Planet Earth | 128950 | [128950-journey-to-planet-earth.json](./128950-journey-to-planet-earth.json) |
 | Journey to Silius | 9159 | [9159-journey-to-silius.json](./9159-journey-to-silius.json) |
 | Journey to Stonehenge | 69812 | [69812-journey-to-stonehenge.json](./69812-journey-to-stonehenge.json) |
@@ -2452,6 +2453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junjou Gal to Shiawase no Katachi: Shape of Happiness | 221201 | [221201-junjou-gal-to-shiawase-no-katachi-shape-of-happiness.json](./221201-junjou-gal-to-shiawase-no-katachi-shape-of-happiness.json) |
 | Junk | 122251 | [122251-junk.json](./122251-junk.json) |
 | Junk Architect | 149189 | [149189-junk-architect.json](./149189-junk-architect.json) |
+| Junk on Wheels | 126316 | [126316-junk-on-wheels.json](./126316-junk-on-wheels.json) |
 | Junk Race | 246988 | [246988-junk-race.json](./246988-junk-race.json) |
 | Junk Runner 64 | 396416 | [396416-junk-runner-64.json](./396416-junk-runner-64.json) |
 | Junk Sec | 394901 | [394901-junk-sec.json](./394901-junk-sec.json) |
@@ -2783,6 +2785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Slide | 180616 | [180616-just-slide.json](./180616-just-slide.json) |
 | Just Slide 2 | 180617 | [180617-just-slide-2.json](./180617-just-slide-2.json) |
 | Just Snowboarding | 86798 | [86798-just-snowboarding.json](./86798-just-snowboarding.json) |
+| Just Spin | 125727 | [125727-just-spin.json](./125727-just-spin.json) |
 | Just Stack | 291695 | [291695-just-stack.json](./291695-just-stack.json) |
 | Just Survival: The Zombie Awakening | 212217 | [212217-just-survival-the-zombie-awakening.json](./212217-just-survival-the-zombie-awakening.json) |
 | Just Survive | 18093 | [18093-just-survive.json](./18093-just-survive.json) |
