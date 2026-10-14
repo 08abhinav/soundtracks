@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You, Error. | 390716 | [390716-you-error.json](./390716-you-error.json) |
 | You, Me and Empty Words | 150153 | [150153-you-me-and-empty-words.json](./150153-you-me-and-empty-words.json) |
 | You, Me, and the Cubes | 21114 | [21114-you-me-and-the-cubes.json](./21114-you-me-and-the-cubes.json) |
+| You, With Me: A Kinetic Novel | 90490 | [90490-you-with-me-a-kinetic-novel.json](./90490-you-with-me-a-kinetic-novel.json) |
 | You: The Untold Stories | 106543 | [106543-you-the-untold-stories.json](./106543-you-the-untold-stories.json) |
 | You... and who else? | 33098 | [33098-you-and-who-else.json](./33098-you-and-who-else.json) |
 | You'll Stay Here Forever | 250346 | [250346-youll-stay-here-forever.json](./250346-youll-stay-here-forever.json) |
