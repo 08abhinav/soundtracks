@@ -3088,6 +3088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terraformers: Megastructures Bundle | 331492 | [331492-terraformers-megastructures-bundle.json](./331492-terraformers-megastructures-bundle.json) |
 | Terraformers: New Frontiers Bundle | 293763 | [293763-terraformers-new-frontiers-bundle.json](./293763-terraformers-new-frontiers-bundle.json) |
 | Terraformers: Supporter Edition | 271471 | [271471-terraformers-supporter-edition.json](./271471-terraformers-supporter-edition.json) |
+| Terraforming Earth | 115499 | [115499-terraforming-earth.json](./115499-terraforming-earth.json) |
 | Terraforming Mars | 86558 | [86558-terraforming-mars.json](./86558-terraforming-mars.json) |
 | Terraforming Mars: Colonies | 402404 | [402404-terraforming-mars-colonies.json](./402404-terraforming-mars-colonies.json) |
 | Terraforming Mars: Venus Next | 273965 | [273965-terraforming-mars-venus-next.json](./273965-terraforming-mars-venus-next.json) |
@@ -3804,6 +3805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Panzer 2 | 258379 | [258379-the-adventures-of-panzer-2.json](./258379-the-adventures-of-panzer-2.json) |
 | The Adventures of Panzer: Legacy Collection | 283211 | [283211-the-adventures-of-panzer-legacy-collection.json](./283211-the-adventures-of-panzer-legacy-collection.json) |
 | The Adventures of Penny & Lou | 336707 | [336707-the-adventures-of-penny-and-lou.json](./336707-the-adventures-of-penny-and-lou.json) |
+| The Adventures of Perseus | 115397 | [115397-the-adventures-of-perseus.json](./115397-the-adventures-of-perseus.json) |
 | The Adventures of Peter Rabbit & Benjamin Bunny | 206209 | [206209-the-adventures-of-peter-rabbit-and-benjamin-bunny.json](./206209-the-adventures-of-peter-rabbit-and-benjamin-bunny.json) |
 | The Adventures of Pinocchio | 206210 | [206210-the-adventures-of-pinocchio.json](./206210-the-adventures-of-pinocchio.json) |
 | The Adventures of Pinocchio: Activity Center | 206211 | [206211-the-adventures-of-pinocchio-activity-center.json](./206211-the-adventures-of-pinocchio-activity-center.json) |
@@ -4796,6 +4798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cell | 165488 | [165488-the-cell.json](./165488-the-cell.json) |
 | The Cell | 307965 | [307965-the-cell.json](./307965-the-cell.json) |
 | The Cell | 326947 | [326947-the-cell.json](./326947-the-cell.json) |
+| The Cellar | 115400 | [115400-the-cellar.json](./115400-the-cellar.json) |
 | The Cellar Door | 62708 | [62708-the-cellar-door.json](./62708-the-cellar-door.json) |
 | The Cells | 110998 | [110998-the-cells.json](./110998-the-cells.json) |
 | The Cenozoic Era | 231303 | [231303-the-cenozoic-era.json](./231303-the-cenozoic-era.json) |
@@ -20746,6 +20749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigonometry Dash | 283128 | [283128-trigonometry-dash.json](./283128-trigonometry-dash.json) |
 | Trihard | 183008 | [183008-trihard.json](./183008-trihard.json) |
 | Triku | 316628 | [316628-triku.json](./316628-triku.json) |
+| Trikumax | 115519 | [115519-trikumax.json](./115519-trikumax.json) |
 | Trilby: The Art of Theft | 72890 | [72890-trilby-the-art-of-theft.json](./72890-trilby-the-art-of-theft.json) |
 | Trilby's Notes | 72443 | [72443-trilbys-notes.json](./72443-trilbys-notes.json) |
 | Trillenium | 295153 | [295153-trillenium.json](./295153-trillenium.json) |
