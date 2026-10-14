@@ -520,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR 21: Ignition - Victory Edition | 220801 | [220801-nascar-21-ignition-victory-edition.json](./220801-nascar-21-ignition-victory-edition.json) |
 | NASCAR 26 | 412990 | [412990-nascar-26.json](./412990-nascar-26.json) |
 | NASCAR 98 | 45515 | [45515-nascar-98.json](./45515-nascar-98.json) |
+| NASCAR Acceleration Pack | 85989 | [85989-nascar-acceleration-pack.json](./85989-nascar-acceleration-pack.json) |
 | NASCAR Arcade Rush: Project-X Edition | 263547 | [263547-nascar-arcade-rush-project-x-edition.json](./263547-nascar-arcade-rush-project-x-edition.json) |
 | Nascar Arcade Rush: Project-X Pack | 267081 | [267081-nascar-arcade-rush-project-x-pack.json](./267081-nascar-arcade-rush-project-x-pack.json) |
 | NASCAR Challenge | 49957 | [49957-nascar-challenge.json](./49957-nascar-challenge.json) |
@@ -4417,6 +4418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonograms: Weapons | 285702 | [285702-nonograms-weapons.json](./285702-nonograms-weapons.json) |
 | Nonolith | 321176 | [321176-nonolith.json](./321176-nonolith.json) |
 | Nonomatic | 371453 | [371453-nonomatic.json](./371453-nonomatic.json) |
+| Nonomura Byouin no Hitobito | 85977 | [85977-nonomura-byouin-no-hitobito.json](./85977-nonomura-byouin-no-hitobito.json) |
 | Nonononogram | 343313 | [343313-nonononogram.json](./343313-nonononogram.json) |
 | Nonotown | 238467 | [238467-nonotown.json](./238467-nonotown.json) |
 | Nonozle: Food and Drink + Miscellaneous Puzzle Packs | 332610 | [332610-nonozle-food-and-drink-miscellaneous-puzzle-packs.json](./332610-nonozle-food-and-drink-miscellaneous-puzzle-packs.json) |
