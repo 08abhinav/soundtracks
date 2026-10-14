@@ -1048,6 +1048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OLO game | 88816 | [88816-olo-game.json](./88816-olo-game.json) |
 | Olo Loco | 175224 | [175224-olo-loco.json](./175224-olo-loco.json) |
 | Olobollo | 156138 | [156138-olobollo.json](./156138-olobollo.json) |
+| Olson's Boxing Challenge | 75667 | [75667-olsons-boxing-challenge.json](./75667-olsons-boxing-challenge.json) |
 | Olteus II | 266890 | [266890-olteus-ii.json](./266890-olteus-ii.json) |
 | Olympia Rising | 17311 | [17311-olympia-rising.json](./17311-olympia-rising.json) |
 | Olympia: Festival of the Gods | 341504 | [341504-olympia-festival-of-the-gods.json](./341504-olympia-festival-of-the-gods.json) |
@@ -2354,6 +2355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Osam Bin Laden | 107370 | [107370-operation-osam-bin-laden.json](./107370-operation-osam-bin-laden.json) |
 | Operation Pig | 111911 | [111911-operation-pig.json](./111911-operation-pig.json) |
 | Operation Pill | 199098 | [199098-operation-pill.json](./199098-operation-pill.json) |
+| Operation Red Dragon | 75665 | [75665-operation-red-dragon.json](./75665-operation-red-dragon.json) |
 | Operation Remode | 333354 | [333354-operation-remode.json](./333354-operation-remode.json) |
 | Operation S | 186805 | [186805-operation-s.json](./186805-operation-s.json) |
 | Operation Save Anna | 369551 | [369551-operation-save-anna.json](./369551-operation-save-anna.json) |
