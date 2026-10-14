@@ -4598,6 +4598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The BridgeMaster | 169445 | [169445-the-bridgemaster.json](./169445-the-bridgemaster.json) |
 | The Brimstone Project: Odyssey Live | 279715 | [279715-the-brimstone-project-odyssey-live.json](./279715-the-brimstone-project-odyssey-live.json) |
 | The Brink | 104810 | [104810-the-brink.json](./104810-the-brink.json) |
+| The Brink | 117461 | [117461-the-brink.json](./117461-the-brink.json) |
 | The British Library Simulator | 182806 | [182806-the-british-library-simulator.json](./182806-the-british-library-simulator.json) |
 | The Brittle Epoch | 261751 | [261751-the-brittle-epoch.json](./261751-the-brittle-epoch.json) |
 | The Broken Balance | 216753 | [216753-the-broken-balance.json](./216753-the-broken-balance.json) |
@@ -6061,6 +6062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Exit 8 VR | 310522 | [310522-the-exit-8-vr.json](./310522-the-exit-8-vr.json) |
 | The Exit Project: Backstreets | 319939 | [319939-the-exit-project-backstreets.json](./319939-the-exit-project-backstreets.json) |
 | The Exomachinist | 153930 | [153930-the-exomachinist.json](./153930-the-exomachinist.json) |
+| The Exorcist | 117425 | [117425-the-exorcist.json](./117425-the-exorcist.json) |
 | The Exorcist | 54469 | [54469-the-exorcist.json](./54469-the-exorcist.json) |
 | The Exorcist: Legion VR | 72420 | [72420-the-exorcist-legion-vr.json](./72420-the-exorcist-legion-vr.json) |
 | The Exorcist: Legion VR - Chapter 2: Idle Hands | 168817 | [168817-the-exorcist-legion-vr-chapter-2-idle-hands.json](./168817-the-exorcist-legion-vr-chapter-2-idle-hands.json) |
@@ -6621,6 +6623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Garden of Hades | 231464 | [231464-the-garden-of-hades.json](./231464-the-garden-of-hades.json) |
 | The Garden of Hermeneus | 347349 | [347349-the-garden-of-hermeneus.json](./347349-the-garden-of-hermeneus.json) |
 | The Garden Path | 145482 | [145482-the-garden-path.json](./145482-the-garden-path.json) |
+| The Garden Pub | 117449 | [117449-the-garden-pub.json](./117449-the-garden-pub.json) |
 | The Gardener | 389404 | [389404-the-gardener.json](./389404-the-gardener.json) |
 | The Gardener and the Wild Vines | 141524 | [141524-the-gardener-and-the-wild-vines.json](./141524-the-gardener-and-the-wild-vines.json) |
 | The Gardener Simulator: Plant, Grow, Decorate, Build Sim | 283234 | [283234-the-gardener-simulator-plant-grow-decorate-build-sim.json](./283234-the-gardener-simulator-plant-grow-decorate-build-sim.json) |
@@ -11826,6 +11829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tournament of Zulula | 63383 | [63383-the-tournament-of-zulula.json](./63383-the-tournament-of-zulula.json) |
 | The Touryst | 121748 | [121748-the-touryst.json](./121748-the-touryst.json) |
 | The Tovanian Stones | 361249 | [361249-the-tovanian-stones.json](./361249-the-tovanian-stones.json) |
+| The Tower | 117455 | [117455-the-tower.json](./117455-the-tower.json) |
 | The Tower | 138180 | [138180-the-tower.json](./138180-the-tower.json) |
 | The Tower | 238604 | [238604-the-tower.json](./238604-the-tower.json) |
 | The Tower | 282089 | [282089-the-tower.json](./282089-the-tower.json) |
@@ -13172,6 +13176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheWalkerKiller VR | 44230 | [44230-thewalkerkiller-vr.json](./44230-thewalkerkiller-vr.json) |
 | TheWandererVR | 130098 | [130098-thewanderervr.json](./130098-thewanderervr.json) |
 | TheWaveVR | 25014 | [25014-thewavevr.json](./25014-thewavevr.json) |
+| TheWorld | 117427 | [117427-theworld.json](./117427-theworld.json) |
 | TheWraithTrials | 93711 | [93711-thewraithtrials.json](./93711-thewraithtrials.json) |
 | Thexder | 9681 | [9681-thexder.json](./9681-thexder.json) |
 | They | 80613 | [80613-they.json](./80613-they.json) |
@@ -13769,6 +13774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder League | 59407 | [59407-thunder-league.json](./59407-thunder-league.json) |
 | Thunder League Online | 195169 | [195169-thunder-league-online.json](./195169-thunder-league-online.json) |
 | Thunder of the DemonKing | 352110 | [352110-thunder-of-the-demonking.json](./352110-thunder-of-the-demonking.json) |
+| Thunder Paw | 117445 | [117445-thunder-paw.json](./117445-thunder-paw.json) |
 | Thunder Rally | 99083 | [99083-thunder-rally.json](./99083-thunder-rally.json) |
 | Thunder Ray | 201592 | [201592-thunder-ray.json](./201592-thunder-ray.json) |
 | Thunder Ray: Forgotten Duels | 288274 | [288274-thunder-ray-forgotten-duels.json](./288274-thunder-ray-forgotten-duels.json) |
@@ -19304,6 +19310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trains: Through Electric Storms. | 221156 | [221156-trains-through-electric-storms.json](./221156-trains-through-electric-storms.json) |
 | Trains.io | 192296 | [192296-trains-io.json](./192296-trains-io.json) |
 | Trainsanity | 361333 | [361333-trainsanity.json](./361333-trainsanity.json) |
+| Trainspotting Simulator | 117555 | [117555-trainspotting-simulator.json](./117555-trainspotting-simulator.json) |
 | TrainTastic | 272900 | [272900-traintastic.json](./272900-traintastic.json) |
 | Traintracks Combat | 298815 | [298815-traintracks-combat.json](./298815-traintracks-combat.json) |
 | Trainwatch | 355613 | [355613-trainwatch.json](./355613-trainwatch.json) |
@@ -21543,6 +21550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tubeway | 23945 | [23945-tubeway.json](./23945-tubeway.json) |
 | Tuboflex | 128564 | [128564-tuboflex.json](./128564-tuboflex.json) |
 | Tubular Rift | 75175 | [75175-tubular-rift.json](./75175-tubular-rift.json) |
+| TUBWT | 117554 | [117554-tubwt.json](./117554-tubwt.json) |
 | Tuby Bird | 40736 | [40736-tuby-bird.json](./40736-tuby-bird.json) |
 | Tuckerton Pool | 96288 | [96288-tuckerton-pool.json](./96288-tuckerton-pool.json) |
 | Tuda:Kuda | 244225 | [244225-tuda-kuda.json](./244225-tuda-kuda.json) |
