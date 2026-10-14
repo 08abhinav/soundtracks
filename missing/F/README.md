@@ -1160,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Trainer: Fuuun! Takeshi-jou 2 | 64499 | [64499-family-trainer-fuuun-takeshi-jou-2.json](./64499-family-trainer-fuuun-takeshi-jou-2.json) |
 | Family Tree | 124625 | [124625-family-tree.json](./124625-family-tree.json) |
 | Family Tree! | 274744 | [274744-family-tree.json](./274744-family-tree.json) |
+| Family Zoo: The Story | 95329 | [95329-family-zoo-the-story.json](./95329-family-zoo-the-story.json) |
 | Family's Game Travel Pack | 104530 | [104530-familys-game-travel-pack.json](./104530-familys-game-travel-pack.json) |
 | Famine in Wonderland | 410272 | [410272-famine-in-wonderland.json](./410272-famine-in-wonderland.json) |
 | Famine Way | 277437 | [277437-famine-way.json](./277437-famine-way.json) |
@@ -2711,6 +2712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ferret Monogatari: Watashi no Okini Iri | 65512 | [65512-ferret-monogatari-watashi-no-okini-iri.json](./65512-ferret-monogatari-watashi-no-okini-iri.json) |
 | Ferret Scoundrels | 117434 | [117434-ferret-scoundrels.json](./117434-ferret-scoundrels.json) |
 | Ferric Oxide | 299845 | [299845-ferric-oxide.json](./299845-ferric-oxide.json) |
+| Ferris Mueller's Day Off | 95319 | [95319-ferris-muellers-day-off.json](./95319-ferris-muellers-day-off.json) |
 | Ferris Wheel and the World's End | 398634 | [398634-ferris-wheel-and-the-worlds-end.json](./398634-ferris-wheel-and-the-worlds-end.json) |
 | Ferroplasma | 130265 | [130265-ferroplasma.json](./130265-ferroplasma.json) |
 | FerroSlug | 218727 | [218727-ferroslug.json](./218727-ferroslug.json) |
@@ -3676,6 +3678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Cats in the Casino | 400481 | [400481-find-cats-in-the-casino.json](./400481-find-cats-in-the-casino.json) |
 | Find Cats2 | 307687 | [307687-find-cats2.json](./307687-find-cats2.json) |
 | Find Differences | 380628 | [380628-find-differences.json](./380628-find-differences.json) |
+| Find Differences Stewardess | 95324 | [95324-find-differences-stewardess.json](./95324-find-differences-stewardess.json) |
 | Find El Chupacabra | 359393 | [359393-find-el-chupacabra.json](./359393-find-el-chupacabra.json) |
 | Find Exit | 190024 | [190024-find-exit.json](./190024-find-exit.json) |
 | Find Food | 246329 | [246329-find-food.json](./246329-find-food.json) |
@@ -6073,6 +6076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foolish Mortals | 217011 | [217011-foolish-mortals.json](./217011-foolish-mortals.json) |
 | Fools Fortune | 134961 | [134961-fools-fortune.json](./134961-fools-fortune.json) |
 | Foonda | 196172 | [196172-foonda.json](./196172-foonda.json) |
+| Foosball | 95332 | [95332-foosball.json](./95332-foosball.json) |
 | Foosball - Street Edition | 17113 | [17113-foosball-street-edition.json](./17113-foosball-street-edition.json) |
 | Foosball 2012 | 52219 | [52219-foosball-2012.json](./52219-foosball-2012.json) |
 | Foosball Cup World | 237957 | [237957-foosball-cup-world.json](./237957-foosball-cup-world.json) |
