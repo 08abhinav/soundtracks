@@ -3098,6 +3098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Pulse | 142433 | [142433-terra-pulse.json](./142433-terra-pulse.json) |
 | Terra Randoma | 121411 | [121411-terra-randoma.json](./121411-terra-randoma.json) |
 | Terra Request | 383710 | [383710-terra-request.json](./383710-terra-request.json) |
+| Terra Tanks: Defenders of the Earth | 75662 | [75662-terra-tanks-defenders-of-the-earth.json](./75662-terra-tanks-defenders-of-the-earth.json) |
 | Terra Trilogy | 143771 | [143771-terra-trilogy.json](./143771-terra-trilogy.json) |
 | Terra Ventura | 154074 | [154074-terra-ventura.json](./154074-terra-ventura.json) |
 | Terra: Battle for the Outland | 145949 | [145949-terra-battle-for-the-outland.json](./145949-terra-battle-for-the-outland.json) |
@@ -3501,6 +3502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetsuwan Atom | 186707 | [186707-tetsuwan-atom.json](./186707-tetsuwan-atom.json) |
 | Teuflisch gute Spiele | 92304 | [92304-teuflisch-gute-spiele.json](./92304-teuflisch-gute-spiele.json) |
 | Tevi: Fauna Arcana | 403199 | [403199-tevi-fauna-arcana.json](./403199-tevi-fauna-arcana.json) |
+| Tevris | 75656 | [75656-tevris.json](./75656-tevris.json) |
 | Tex Murphy: Killing Moon Rising | 404988 | [404988-tex-murphy-killing-moon-rising.json](./404988-tex-murphy-killing-moon-rising.json) |
 | Tex Murphy: Mean Streets + Martian Memorandum | 83575 | [83575-tex-murphy-mean-streets-martian-memorandum.json](./83575-tex-murphy-mean-streets-martian-memorandum.json) |
 | Tex Murphy: Overseer | 5544 | [5544-tex-murphy-overseer.json](./5544-tex-murphy-overseer.json) |
@@ -12386,6 +12388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unclogging: An Unsanitary Saga | 51979 | [51979-the-unclogging-an-unsanitary-saga.json](./51979-the-unclogging-an-unsanitary-saga.json) |
 | The UNDA Legacy | 408073 | [408073-the-unda-legacy.json](./408073-the-unda-legacy.json) |
 | The Undead | 378155 | [378155-the-undead.json](./378155-the-undead.json) |
+| The Under | 75708 | [75708-the-under.json](./75708-the-under.json) |
 | The Under Presents | 132208 | [132208-the-under-presents.json](./132208-the-under-presents.json) |
 | The Underdog | 373013 | [373013-the-underdog.json](./373013-the-underdog.json) |
 | The Underdog Tycoon | 366121 | [366121-the-underdog-tycoon.json](./366121-the-underdog-tycoon.json) |
@@ -21296,13 +21299,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico 4: Apocalypse | 53848 | [53848-tropico-4-apocalypse.json](./53848-tropico-4-apocalypse.json) |
 | Tropico 4: Junta Military | 53851 | [53851-tropico-4-junta-military.json](./53851-tropico-4-junta-military.json) |
 | Tropico 4: Megalopolis | 53847 | [53847-tropico-4-megalopolis.json](./53847-tropico-4-megalopolis.json) |
+| Tropico 4: Pirate Heaven | 75685 | [75685-tropico-4-pirate-heaven.json](./75685-tropico-4-pirate-heaven.json) |
 | Tropico 4: Plantador | 53849 | [53849-tropico-4-plantador.json](./53849-tropico-4-plantador.json) |
 | Tropico 4: Propaganda | 53845 | [53845-tropico-4-propaganda.json](./53845-tropico-4-propaganda.json) |
 | Tropico 4: Quick-Dry-Cement | 53844 | [53844-tropico-4-quick-dry-cement.json](./53844-tropico-4-quick-dry-cement.json) |
 | Tropico 4: Vigilante | 53843 | [53843-tropico-4-vigilante.json](./53843-tropico-4-vigilante.json) |
 | Tropico 5: DLC Bundle | 227319 | [227319-tropico-5-dlc-bundle.json](./227319-tropico-5-dlc-bundle.json) |
+| Tropico 5: Epic Meltdown | 75687 | [75687-tropico-5-epic-meltdown.json](./75687-tropico-5-epic-meltdown.json) |
 | Tropico 5: Espionage | 53842 | [53842-tropico-5-espionage.json](./53842-tropico-5-espionage.json) |
 | Tropico 5: Gone Green | 155379 | [155379-tropico-5-gone-green.json](./155379-tropico-5-gone-green.json) |
+| Tropico 5: Paradise Lost | 75686 | [75686-tropico-5-paradise-lost.json](./75686-tropico-5-paradise-lost.json) |
 | Tropico 5: The Big Cheese | 53841 | [53841-tropico-5-the-big-cheese.json](./53841-tropico-5-the-big-cheese.json) |
 | Tropico 5: Waterborne | 53840 | [53840-tropico-5-waterborne.json](./53840-tropico-5-waterborne.json) |
 | Tropico 6: Caribbean Skies | 155068 | [155068-tropico-6-caribbean-skies.json](./155068-tropico-6-caribbean-skies.json) |
