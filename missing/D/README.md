@@ -5697,6 +5697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diddy Kong Racing DS: Timber's Balloon Pop | 231630 | [231630-diddy-kong-racing-ds-timbers-balloon-pop.json](./231630-diddy-kong-racing-ds-timbers-balloon-pop.json) |
 | Diddy Kong Racing: Recompiled | 413189 | [413189-diddy-kong-racing-recompiled.json](./413189-diddy-kong-racing-recompiled.json) |
 | Didi & Ditto: Kindergarten | 73832 | [73832-didi-and-ditto-kindergarten.json](./73832-didi-and-ditto-kindergarten.json) |
+| Didj Racing: Tiki Tropics | 94158 | [94158-didj-racing-tiki-tropics.json](./94158-didj-racing-tiki-tropics.json) |
 | Didnapper | 295249 | [295249-didnapper.json](./295249-didnapper.json) |
 | Die 3 | 269641 | [269641-die-3.json](./269641-die-3.json) |
 | Die After Sunset | 158966 | [158966-die-after-sunset.json](./158966-die-after-sunset.json) |
