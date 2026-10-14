@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Tank Combat | 149382 | [149382-war-tank-combat.json](./149382-war-tank-combat.json) |
 | War Tanks | 203923 | [203923-war-tanks.json](./203923-war-tanks.json) |
 | War Theatre | 76870 | [76870-war-theatre.json](./76870-war-theatre.json) |
+| War Theatre: Blood of Winter | 123944 | [123944-war-theatre-blood-of-winter.json](./123944-war-theatre-blood-of-winter.json) |
 | War Theatre: Blood of Winter - Beak and Talon | 172187 | [172187-war-theatre-blood-of-winter-beak-and-talon.json](./172187-war-theatre-blood-of-winter-beak-and-talon.json) |
 | War Thunder - T-55AM-1 Pack | 293764 | [293764-war-thunder-t-55am-1-pack.json](./293764-war-thunder-t-55am-1-pack.json) |
 | War Thunder: "Black Friday" Bundle | 331500 | [331500-war-thunder-black-friday-bundle.json](./331500-war-thunder-black-friday-bundle.json) |
@@ -6180,6 +6181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WW2 Rebuilder | 158156 | [158156-ww2-rebuilder.json](./158156-ww2-rebuilder.json) |
 | WW2 Z Range VR | 119712 | [119712-ww2-z-range-vr.json](./119712-ww2-z-range-vr.json) |
 | WW2 Zone War: Cold Warzone Ops | 269098 | [269098-ww2-zone-war-cold-warzone-ops.json](./269098-ww2-zone-war-cold-warzone-ops.json) |
+| WW2: Bunker Simulator | 123889 | [123889-ww2-bunker-simulator.json](./123889-ww2-bunker-simulator.json) |
 | WW2: Bunker Simulator - Origins | 307185 | [307185-ww2-bunker-simulator-origins.json](./307185-ww2-bunker-simulator-origins.json) |
 | Wwaves | 181900 | [181900-wwaves.json](./181900-wwaves.json) |
 | WWC: World Wrestling Championship | 46028 | [46028-wwc-world-wrestling-championship.json](./46028-wwc-world-wrestling-championship.json) |
