@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Packmates | 366231 | [366231-packmates.json](./366231-packmates.json) |
 | Packri Monster | 347688 | [347688-packri-monster.json](./347688-packri-monster.json) |
 | Packs Adventure | 100295 | [100295-packs-adventure.json](./100295-packs-adventure.json) |
+| Packs Mega Sammlung | 78557 | [78557-packs-mega-sammlung.json](./78557-packs-mega-sammlung.json) |
 | Packy & Marlon | 42475 | [42475-packy-and-marlon.json](./42475-packy-and-marlon.json) |
 | PacMac Deluxe | 146224 | [146224-pacmac-deluxe.json](./146224-pacmac-deluxe.json) |
 | Pacmaga 2 | 217916 | [217916-pacmaga-2.json](./217916-pacmaga-2.json) |
@@ -2932,6 +2933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Percy Jackson and the Olympians: The Lightning Thief | 47899 | [47899-percy-jackson-and-the-olympians-the-lightning-thief.json](./47899-percy-jackson-and-the-olympians-the-lightning-thief.json) |
 | Percy Parcel | 212958 | [212958-percy-parcel.json](./212958-percy-parcel.json) |
 | Percy Penguin | 128467 | [128467-percy-penguin.json](./128467-percy-penguin.json) |
+| Percy the Penguin Saves Christmas | 78548 | [78548-percy-the-penguin-saves-christmas.json](./78548-percy-the-penguin-saves-christmas.json) |
 | Percy's Last Stand | 118403 | [118403-percys-last-stand.json](./118403-percys-last-stand.json) |
 | Perdita | 285390 | [285390-perdita.json](./285390-perdita.json) |
 | Perdition | 121580 | [121580-perdition.json](./121580-perdition.json) |
@@ -5258,6 +5260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit-Fighter | 374981 | [374981-pit-fighter.json](./374981-pit-fighter.json) |
 | Pit-Fighter | 374989 | [374989-pit-fighter.json](./374989-pit-fighter.json) |
 | Pit-Fighter | 374990 | [374990-pit-fighter.json](./374990-pit-fighter.json) |
+| Pit-Fighter/Super Space Invaders | 78567 | [78567-pit-fighter-super-space-invaders.json](./78567-pit-fighter-super-space-invaders.json) |
 | Pitball | 20723 | [20723-pitball.json](./20723-pitball.json) |
 | Pitball: Winter Waifus | 239218 | [239218-pitball-winter-waifus.json](./239218-pitball-winter-waifus.json) |
 | PitBots | 149895 | [149895-pitbots.json](./149895-pitbots.json) |
