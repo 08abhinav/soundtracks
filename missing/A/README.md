@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dark Ice Saga: The Rescue | 158223 | [158223-a-dark-ice-saga-the-rescue.json](./158223-a-dark-ice-saga-the-rescue.json) |
 | A Dark Place | 301587 | [301587-a-dark-place.json](./301587-a-dark-place.json) |
 | A Dark Sky Over Paradise | 228994 | [228994-a-dark-sky-over-paradise.json](./228994-a-dark-sky-over-paradise.json) |
+| A Dark World: The Glowing City | 126337 | [126337-a-dark-world-the-glowing-city.json](./126337-a-dark-world-the-glowing-city.json) |
 | A Date for the Ages | 260648 | [260648-a-date-for-the-ages.json](./260648-a-date-for-the-ages.json) |
 | A Date with Death: Beyond the Bet | 288917 | [288917-a-date-with-death-beyond-the-bet.json](./288917-a-date-with-death-beyond-the-bet.json) |
 | A Date with Death: Expansion DLC | 276859 | [276859-a-date-with-death-expansion-dlc.json](./276859-a-date-with-death-expansion-dlc.json) |
@@ -1072,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aaero: Complete Edition | 113196 | [113196-aaero-complete-edition.json](./113196-aaero-complete-edition.json) |
 | Aaero2 | 304670 | [304670-aaero2.json](./304670-aaero2.json) |
 | Aah Little Atlantis | 91911 | [91911-aah-little-atlantis.json](./91911-aah-little-atlantis.json) |
+| Aah, Halloween pie! | 125723 | [125723-aah-halloween-pie.json](./125723-aah-halloween-pie.json) |
 | Aakihiko Aruberutasu Adisony Apurinsu Azumeragi | 377418 | [377418-aakihiko-aruberutasu-adisony-apurinsu-azumeragi.json](./377418-aakihiko-aruberutasu-adisony-apurinsu-azumeragi.json) |
 | Aam Aadmi | 377419 | [377419-aam-aadmi.json](./377419-aam-aadmi.json) |
 | Aanl: The Rectum Adventure | 94415 | [94415-aanl-the-rectum-adventure.json](./94415-aanl-the-rectum-adventure.json) |
@@ -5698,6 +5700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Aware Guy in the Past | 185621 | [185621-an-aware-guy-in-the-past.json](./185621-an-aware-guy-in-the-past.json) |
 | An Easter to Remember | 375298 | [375298-an-easter-to-remember.json](./375298-an-easter-to-remember.json) |
 | An Easy Lay | 178476 | [178476-an-easy-lay.json](./178476-an-easy-lay.json) |
+| An Egg Can Dream | 126923 | [126923-an-egg-can-dream.json](./126923-an-egg-can-dream.json) |
 | An Elaborate History of Chess | 250293 | [250293-an-elaborate-history-of-chess.json](./250293-an-elaborate-history-of-chess.json) |
 | An Elder Scrolls Legend: Battlespire | 54 | [54-an-elder-scrolls-legend-battlespire.json](./54-an-elder-scrolls-legend-battlespire.json) |
 | An Elmwood Trail | 243410 | [243410-an-elmwood-trail.json](./243410-an-elmwood-trail.json) |
@@ -6826,6 +6829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Report | 348409 | [348409-anomaly-report.json](./348409-anomaly-report.json) |
 | Anomaly Road | 405709 | [405709-anomaly-road.json](./405709-anomaly-road.json) |
 | Anomaly Tunnel | 413595 | [413595-anomaly-tunnel.json](./413595-anomaly-tunnel.json) |
+| Anomaly Zone | 126299 | [126299-anomaly-zone.json](./126299-anomaly-zone.json) |
 | Anomaly: Girls Beyond Science | 231417 | [231417-anomaly-girls-beyond-science.json](./231417-anomaly-girls-beyond-science.json) |
 | Anomaly: Warzone Earth | 8758 | [8758-anomaly-warzone-earth.json](./8758-anomaly-warzone-earth.json) |
 | Anomalytics: From the Files of the Arcane Statistics Authority | 293094 | [293094-anomalytics-from-the-files-of-the-arcane-statistics-authority.json](./293094-anomalytics-from-the-files-of-the-arcane-statistics-authority.json) |
@@ -7728,6 +7732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aragami | 18853 | [18853-aragami.json](./18853-aragami.json) |
 | Aragami: Collector's Edition | 38489 | [38489-aragami-collectors-edition.json](./38489-aragami-collectors-edition.json) |
 | Aragami: Nightfall | 96020 | [96020-aragami-nightfall.json](./96020-aragami-nightfall.json) |
+| Araha : Curse of Yieun Island | 126347 | [126347-araha-curse-of-yieun-island.json](./126347-araha-curse-of-yieun-island.json) |
 | Arai-san Mansion Exploration Game: Incarnation | 402949 | [402949-arai-san-mansion-exploration-game-incarnation.json](./402949-arai-san-mansion-exploration-game-incarnation.json) |
 | Araignees | 184529 | [184529-araignees.json](./184529-araignees.json) |
 | Araka: JK Exorcist Horror RPG | 235870 | [235870-araka-jk-exorcist-horror-rpg.json](./235870-araka-jk-exorcist-horror-rpg.json) |
@@ -10265,6 +10270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Raiders | 419902 | [419902-astro-raiders.json](./419902-astro-raiders.json) |
 | Astro Ranch | 66729 | [66729-astro-ranch.json](./66729-astro-ranch.json) |
 | Astro Rescue | 63108 | [63108-astro-rescue.json](./63108-astro-rescue.json) |
+| Astro Rider | 126327 | [126327-astro-rider.json](./126327-astro-rider.json) |
 | Astro Smash 'n' Blast! | 233553 | [233553-astro-smash-n-blast.json](./233553-astro-smash-n-blast.json) |
 | Astro Spider: Between Threads and Stars | 364067 | [364067-astro-spider-between-threads-and-stars.json](./364067-astro-spider-between-threads-and-stars.json) |
 | Astro Tripper | 16265 | [16265-astro-tripper.json](./16265-astro-tripper.json) |
@@ -10420,6 +10426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asylum 626 | 309321 | [309321-asylum-626.json](./309321-asylum-626.json) |
 | Asylum K | 271993 | [271993-asylum-k.json](./271993-asylum-k.json) |
 | Asylum Night Shift | 90392 | [90392-asylum-night-shift.json](./90392-asylum-night-shift.json) |
+| Asylum of the Dead | 126935 | [126935-asylum-of-the-dead.json](./126935-asylum-of-the-dead.json) |
 | Asylum of the Forsaken | 318619 | [318619-asylum-of-the-forsaken.json](./318619-asylum-of-the-forsaken.json) |
 | Asylum: Patient Zero | 337192 | [337192-asylum-patient-zero.json](./337192-asylum-patient-zero.json) |
 | Asym Altered Axis | 205794 | [205794-asym-altered-axis.json](./205794-asym-altered-axis.json) |
