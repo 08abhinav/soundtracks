@@ -2887,6 +2887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Mythology: Retold - Heavenly Spear | 348197 | [348197-age-of-mythology-retold-heavenly-spear.json](./348197-age-of-mythology-retold-heavenly-spear.json) |
 | Age of Mythology: Retold - Obsidian Mirror | 395818 | [395818-age-of-mythology-retold-obsidian-mirror.json](./395818-age-of-mythology-retold-obsidian-mirror.json) |
 | Age of Mythology: Tale of the Dragon | 13186 | [13186-age-of-mythology-tale-of-the-dragon.json](./13186-age-of-mythology-tale-of-the-dragon.json) |
+| Age of Omens | 116777 | [116777-age-of-omens.json](./116777-age-of-omens.json) |
 | Age of Pahlevans | 191670 | [191670-age-of-pahlevans.json](./191670-age-of-pahlevans.json) |
 | Age of Pirates | 376848 | [376848-age-of-pirates.json](./376848-age-of-pirates.json) |
 | Age of Pixels | 118261 | [118261-age-of-pixels.json](./118261-age-of-pixels.json) |
@@ -5039,6 +5040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alternative Alliance Alpha | 347713 | [347713-alternative-alliance-alpha.json](./347713-alternative-alliance-alpha.json) |
 | Alternative Girls 2 | 216215 | [216215-alternative-girls-2.json](./216215-alternative-girls-2.json) |
 | Alternative Shemevolution | 404836 | [404836-alternative-shemevolution.json](./404836-alternative-shemevolution.json) |
+| Alternator: Tactical Stealth Operations | 116881 | [116881-alternator-tactical-stealth-operations.json](./116881-alternator-tactical-stealth-operations.json) |
 | Alternity | 59974 | [59974-alternity.json](./59974-alternity.json) |
 | Alternoidz | 134388 | [134388-alternoidz.json](./134388-alternoidz.json) |
 | Altero | 81253 | [81253-altero.json](./81253-altero.json) |
@@ -7015,6 +7017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Answer Back: Junior Quiz | 14257 | [14257-answer-back-junior-quiz.json](./14257-answer-back-junior-quiz.json) |
 | Answer Back: Senior Quiz | 14258 | [14258-answer-back-senior-quiz.json](./14258-answer-back-senior-quiz.json) |
 | Answer Campus | 260408 | [260408-answer-campus.json](./260408-answer-campus.json) |
+| Answer Knot | 116888 | [116888-answer-knot.json](./116888-answer-knot.json) |
 | Answer Me | 157164 | [157164-answer-me.json](./157164-answer-me.json) |
 | Answer These 10 Questions And I'll Tell You What Kind of Lover You Are | 225786 | [225786-answer-these-10-questions-and-ill-tell-you-what-kind-of-lover-you-are.json](./225786-answer-these-10-questions-and-ill-tell-you-what-kind-of-lover-you-are.json) |
 | Answered Prayers | 145035 | [145035-answered-prayers.json](./145035-answered-prayers.json) |
@@ -11257,6 +11260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automation: The Car Company Tycoon Game | 17239 | [17239-automation-the-car-company-tycoon-game.json](./17239-automation-the-car-company-tycoon-game.json) |
 | Automaton | 148852 | [148852-automaton.json](./148852-automaton.json) |
 | Automaton | 266852 | [266852-automaton.json](./266852-automaton.json) |
+| Automaton Arena | 116891 | [116891-automaton-arena.json](./116891-automaton-arena.json) |
 | Automaton Heart | 317850 | [317850-automaton-heart.json](./317850-automaton-heart.json) |
 | Automaton Kingdom | 201665 | [201665-automaton-kingdom.json](./201665-automaton-kingdom.json) |
 | Automaton Lung | 207901 | [207901-automaton-lung.json](./207901-automaton-lung.json) |
