@@ -4032,6 +4032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max's Big Bust 2 - Max's Bigger Bust | 140626 | [140626-maxs-big-bust-2-maxs-bigger-bust.json](./140626-maxs-big-bust-2-maxs-bigger-bust.json) |
 | Max's Tales | 255151 | [255151-maxs-tales.json](./255151-maxs-tales.json) |
 | MaxControl | 31928 | [31928-maxcontrol.json](./31928-maxcontrol.json) |
+| Maxi Pool Masters VR | 96620 | [96620-maxi-pool-masters-vr.json](./96620-maxi-pool-masters-vr.json) |
 | Maxi Quiz du Foot Francais | 149007 | [149007-maxi-quiz-du-foot-francais.json](./149007-maxi-quiz-du-foot-francais.json) |
 | Maxi Trucks Racing | 366212 | [366212-maxi-trucks-racing.json](./366212-maxi-trucks-racing.json) |
 | MaxiGolf | 102594 | [102594-maxigolf.json](./102594-maxigolf.json) |
@@ -8342,6 +8343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Arena | 395161 | [395161-minesweeper-arena.json](./395161-minesweeper-arena.json) |
 | Minesweeper But the First Tile is Always a Mine | 327378 | [327378-minesweeper-but-the-first-tile-is-always-a-mine.json](./327378-minesweeper-but-the-first-tile-is-always-a-mine.json) |
 | Minesweeper Challenge | 96705 | [96705-minesweeper-challenge.json](./96705-minesweeper-challenge.json) |
+| Minesweeper Classic | 96601 | [96601-minesweeper-classic.json](./96601-minesweeper-classic.json) |
 | Minesweeper Classy | 159756 | [159756-minesweeper-classy.json](./159756-minesweeper-classy.json) |
 | Minesweeper Collector 2 | 275090 | [275090-minesweeper-collector-2.json](./275090-minesweeper-collector-2.json) |
 | Minesweeper Deluxe | 88430 | [88430-minesweeper-deluxe.json](./88430-minesweeper-deluxe.json) |
