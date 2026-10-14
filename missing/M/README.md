@@ -7717,6 +7717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Million Dollar Adventure | 88658 | [88658-million-dollar-adventure.json](./88658-million-dollar-adventure.json) |
 | Million Dollar Password: 2009 Edition | 67397 | [67397-million-dollar-password-2009-edition.json](./67397-million-dollar-password-2009-edition.json) |
 | Million Dollar Quest | 175360 | [175360-million-dollar-quest.json](./175360-million-dollar-quest.json) |
+| Million Dungeon | 130059 | [130059-million-dungeon.json](./130059-million-dungeon.json) |
 | Million Hits | 266898 | [266898-million-hits.json](./266898-million-hits.json) |
 | Million KNights Vermilion | 79270 | [79270-million-knights-vermilion.json](./79270-million-knights-vermilion.json) |
 | Million Lords | 124637 | [124637-million-lords.json](./124637-million-lords.json) |
@@ -8330,6 +8331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf Battle | 234504 | [234504-mini-golf-battle.json](./234504-mini-golf-battle.json) |
 | Mini Golf Buddies | 110182 | [110182-mini-golf-buddies.json](./110182-mini-golf-buddies.json) |
 | Mini Golf Championship | 204705 | [204705-mini-golf-championship.json](./204705-mini-golf-championship.json) |
+| Mini Golf Club | 130078 | [130078-mini-golf-club.json](./130078-mini-golf-club.json) |
 | Mini Golf Halloween | 233754 | [233754-mini-golf-halloween.json](./233754-mini-golf-halloween.json) |
 | Mini Golf King | 125936 | [125936-mini-golf-king.json](./125936-mini-golf-king.json) |
 | Mini Golf King - Multiplayer | 87011 | [87011-mini-golf-king-multiplayer.json](./87011-mini-golf-king-multiplayer.json) |
@@ -8885,6 +8887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miskatonic University | 258007 | [258007-miskatonic-university.json](./258007-miskatonic-university.json) |
 | Misled Puzzled | 185373 | [185373-misled-puzzled.json](./185373-misled-puzzled.json) |
 | Miso Nikki | 166586 | [166586-miso-nikki.json](./166586-miso-nikki.json) |
+| Misplaced | 130091 | [130091-misplaced.json](./130091-misplaced.json) |
 | Misplaced | 146627 | [146627-misplaced.json](./146627-misplaced.json) |
 | Misplaced | 172050 | [172050-misplaced.json](./172050-misplaced.json) |
 | Misplaced | 300034 | [300034-misplaced.json](./300034-misplaced.json) |
@@ -13910,6 +13913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Town : Police | 105920 | [105920-my-town-police.json](./105920-my-town-police.json) |
 | My Town : Street Fun | 104474 | [104474-my-town-street-fun.json](./104474-my-town-street-fun.json) |
 | My Town: Airport | 88533 | [88533-my-town-airport.json](./88533-my-town-airport.json) |
+| My Town: Dessert Slice | 130086 | [130086-my-town-dessert-slice.json](./130086-my-town-dessert-slice.json) |
 | My Town: Home | 362420 | [362420-my-town-home.json](./362420-my-town-home.json) |
 | My Town: ICEE Amusement Park | 99320 | [99320-my-town-icee-amusement-park.json](./99320-my-town-icee-amusement-park.json) |
 | My Town: Museum | 89126 | [89126-my-town-museum.json](./89126-my-town-museum.json) |
