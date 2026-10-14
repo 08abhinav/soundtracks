@@ -3458,6 +3458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konfronto | 319134 | [319134-konfronto.json](./319134-konfronto.json) |
 | Kong | 142412 | [142412-kong.json](./142412-kong.json) |
 | Kong | 275224 | [275224-kong.json](./275224-kong.json) |
+| Kong Adventure | 108228 | [108228-kong-adventure.json](./108228-kong-adventure.json) |
 | Kong Hero | 231826 | [231826-kong-hero.json](./231826-kong-hero.json) |
 | Kong Horror | 395848 | [395848-kong-horror.json](./395848-kong-horror.json) |
 | Kong Studios | 368009 | [368009-kong-studios.json](./368009-kong-studios.json) |
