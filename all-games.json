@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T08:21:23.425Z",
-  "total_soundtracks": 1633,
+  "generated_at": "2026-10-14T08:21:32.941Z",
+  "total_soundtracks": 1634,
   "games": [
     {
       "igdb_id": 7522,
@@ -16450,6 +16450,20 @@
           "album_name": "The Legend of Zelda: The Wind Waker - Covers",
           "spotify_url": "https://open.spotify.com/album/2wVI94YhcGv662x7pZ2eec",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 3092,
+      "game_name": "The Lord of the Rings Online",
+      "game_url": "https://ostdb.net/games/the-lord-of-the-rings-online",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730e71dfcc255429ff45c39d08",
+      "albums": [
+        {
+          "album_name": "The Lord of the Rings Online (10th Anniversary Commemorative Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1lkI0MpnnccE364waiYGOY",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
