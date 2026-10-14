@@ -3668,6 +3668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentimental Gensoukyou | 306568 | [306568-sentimental-gensoukyou.json](./306568-sentimental-gensoukyou.json) |
 | Sentimental Graffiti | 124264 | [124264-sentimental-graffiti.json](./124264-sentimental-graffiti.json) |
 | Sentimental Journey | 268036 | [268036-sentimental-journey.json](./268036-sentimental-journey.json) |
+| Sentimental K | 132567 | [132567-sentimental-k.json](./132567-sentimental-k.json) |
 | Sentinel | 11626 | [11626-sentinel.json](./11626-sentinel.json) |
 | Sentinel | 12339 | [12339-sentinel.json](./12339-sentinel.json) |
 | Sentinel | 153840 | [153840-sentinel.json](./153840-sentinel.json) |
@@ -5328,6 +5329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shields Up! VR | 102196 | [102196-shields-up-vr.json](./102196-shields-up-vr.json) |
 | Shieldwall Chronicles | 197769 | [197769-shieldwall-chronicles.json](./197769-shieldwall-chronicles.json) |
 | Shieldwall Chronicles: Swords of the North | 112849 | [112849-shieldwall-chronicles-swords-of-the-north.json](./112849-shieldwall-chronicles-swords-of-the-north.json) |
+| Shielta: Veil of Stars | 132555 | [132555-shielta-veil-of-stars.json](./132555-shielta-veil-of-stars.json) |
 | Shien Mogui | 313957 | [313957-shien-mogui.json](./313957-shien-mogui.json) |
 | Shien's Revenge | 20173 | [20173-shiens-revenge.json](./20173-shiens-revenge.json) |
 | Shienryu | 92074 | [92074-shienryu.json](./92074-shienryu.json) |
@@ -6888,6 +6890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Scream | 236209 | [236209-silent-scream.json](./236209-silent-scream.json) |
 | Silent Scream 2 | 368512 | [368512-silent-scream-2.json](./368512-silent-scream-2.json) |
 | Silent Scream II: The Bride | 312211 | [312211-silent-scream-ii-the-bride.json](./312211-silent-scream-ii-the-bride.json) |
+| Silent Sector | 132554 | [132554-silent-sector.json](./132554-silent-sector.json) |
 | Silent Seeker | 209159 | [209159-silent-seeker.json](./209159-silent-seeker.json) |
 | Silent Service 1 + 2 | 154240 | [154240-silent-service-1-2.json](./154240-silent-service-1-2.json) |
 | Silent Service II | 8826 | [8826-silent-service-ii.json](./8826-silent-service-ii.json) |
@@ -14010,6 +14013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellmeister | 391767 | [391767-spellmeister.json](./391767-spellmeister.json) |
 | Spellomancer | 335343 | [335343-spellomancer.json](./335343-spellomancer.json) |
 | SpellPix | 95692 | [95692-spellpix.json](./95692-spellpix.json) |
+| SpellPunk VR | 132543 | [132543-spellpunk-vr.json](./132543-spellpunk-vr.json) |
 | Spellrazor | 177340 | [177340-spellrazor.json](./177340-spellrazor.json) |
 | SpellRogue: Supporter Pack | 310094 | [310094-spellrogue-supporter-pack.json](./310094-spellrogue-supporter-pack.json) |
 | Spells & Secrets | 198494 | [198494-spells-and-secrets.json](./198494-spells-and-secrets.json) |
@@ -14060,6 +14064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelunker World | 21587 | [21587-spelunker-world.json](./21587-spelunker-world.json) |
 | Spelunker: Collection | 45280 | [45280-spelunker-collection.json](./45280-spelunker-collection.json) |
 | Spelunkery | 374726 | [374726-spelunkery.json](./374726-spelunkery.json) |
+| SpelunKing: The Mine Match | 132545 | [132545-spelunking-the-mine-match.json](./132545-spelunking-the-mine-match.json) |
 | Spelunky 2 | 75239 | [75239-spelunky-2.json](./75239-spelunky-2.json) |
 | Spelunky64 | 316126 | [316126-spelunky64.json](./316126-spelunky64.json) |
 | Spencer | 90124 | [90124-spencer.json](./90124-spencer.json) |
@@ -14088,6 +14093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphere of Destiny | 13759 | [13759-sphere-of-destiny.json](./13759-sphere-of-destiny.json) |
 | Sphere TD | 400231 | [400231-sphere-td.json](./400231-sphere-td.json) |
 | Sphere vs. Gravity | 318476 | [318476-sphere-vs-gravity.json](./318476-sphere-vs-gravity.json) |
+| Sphere: Flying Cities | 132510 | [132510-sphere-flying-cities.json](./132510-sphere-flying-cities.json) |
 | Sphere: Flying Cities - Save the World Edition | 186905 | [186905-sphere-flying-cities-save-the-world-edition.json](./186905-sphere-flying-cities-save-the-world-edition.json) |
 | Sphere: The Knight of Elf | 191096 | [191096-sphere-the-knight-of-elf.json](./191096-sphere-the-knight-of-elf.json) |
 | Spherebuddie 64 | 319063 | [319063-spherebuddie-64.json](./319063-spherebuddie-64.json) |
