@@ -1471,6 +1471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maihon: The Impossible Jewel Stacking Puzzle Game | 116462 | [116462-maihon-the-impossible-jewel-stacking-puzzle-game.json](./116462-maihon-the-impossible-jewel-stacking-puzzle-game.json) |
 | Maikuro: Ore ga Watashi de Boku ga Atashi de | 417607 | [417607-maikuro-ore-ga-watashi-de-boku-ga-atashi-de.json](./417607-maikuro-ore-ga-watashi-de-boku-ga-atashi-de.json) |
 | Mail Mares | 404344 | [404344-mail-mares.json](./404344-mail-mares.json) |
+| Mail Mole | 132540 | [132540-mail-mole.json](./132540-mail-mole.json) |
 | Mail Mole + Expansions Bundle | 238186 | [238186-mail-mole-expansions-bundle.json](./238186-mail-mole-expansions-bundle.json) |
 | Mail Mole: 'Xpress Deliveries | 238444 | [238444-mail-mole-xpress-deliveries.json](./238444-mail-mole-xpress-deliveries.json) |
 | Mail Mole: Collector's Edition | 203098 | [203098-mail-mole-collectors-edition.json](./203098-mail-mole-collectors-edition.json) |
@@ -10880,6 +10881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight In Garland | 152459 | [152459-moonlight-in-garland.json](./152459-moonlight-in-garland.json) |
 | Moonlight Knight | 252665 | [252665-moonlight-knight.json](./252665-moonlight-knight.json) |
 | Moonlight Lovers | 186764 | [186764-moonlight-lovers.json](./186764-moonlight-lovers.json) |
+| Moonlight Mansion | 132525 | [132525-moonlight-mansion.json](./132525-moonlight-mansion.json) |
 | Moonlight Mayhem | 257993 | [257993-moonlight-mayhem.json](./257993-moonlight-mayhem.json) |
 | Moonlight maze | 121734 | [121734-moonlight-maze.json](./121734-moonlight-maze.json) |
 | Moonlight Minions | 17581 | [17581-moonlight-minions.json](./17581-moonlight-minions.json) |
