@@ -3138,6 +3138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instance Destroy | 244663 | [244663-instance-destroy.json](./244663-instance-destroy.json) |
 | Instant Anastasia | 356833 | [356833-instant-anastasia.json](./356833-instant-anastasia.json) |
 | Instant Armory | 303587 | [303587-instant-armory.json](./303587-instant-armory.json) |
+| Instant Chess | 107029 | [107029-instant-chess.json](./107029-instant-chess.json) |
 | Instant Family Fun Bundle | 406801 | [406801-instant-family-fun-bundle.json](./406801-instant-family-fun-bundle.json) |
 | Instant Indie Collection: Vol. 2 | 99766 | [99766-instant-indie-collection-vol-2.json](./99766-instant-indie-collection-vol-2.json) |
 | Instant Indie Collection: Vol. 4 | 82455 | [82455-instant-indie-collection-vol-4.json](./82455-instant-indie-collection-vol-4.json) |
