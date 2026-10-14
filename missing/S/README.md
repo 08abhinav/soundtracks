@@ -1343,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarah: Story of a Young Thief | 302967 | [302967-sarah-story-of-a-young-thief.json](./302967-sarah-story-of-a-young-thief.json) |
 | Sarah's Adventure: Time Travel | 304862 | [304862-sarahs-adventure-time-travel.json](./304862-sarahs-adventure-time-travel.json) |
 | Sarah's Great Adventure | 371898 | [371898-sarahs-great-adventure.json](./371898-sarahs-great-adventure.json) |
+| Sarakon | 92961 | [92961-sarakon.json](./92961-sarakon.json) |
 | Saraman Union | 274924 | [274924-saraman-union.json](./274924-saraman-union.json) |
 | Sarara's Little Shop | 61564 | [61564-sararas-little-shop.json](./61564-sararas-little-shop.json) |
 | Saratoga | 297605 | [297605-saratoga.json](./297605-saratoga.json) |
@@ -2539,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrolls of Sengoku Dynasty | 195606 | [195606-scrolls-of-sengoku-dynasty.json](./195606-scrolls-of-sengoku-dynasty.json) |
 | Scrolls of the Lord | 75947 | [75947-scrolls-of-the-lord.json](./75947-scrolls-of-the-lord.json) |
 | Scrongly | 366389 | [366389-scrongly.json](./366389-scrongly.json) |
+| Scrubbles | 92932 | [92932-scrubbles.json](./92932-scrubbles.json) |
 | Scrubby Dubby Saga | 402337 | [402337-scrubby-dubby-saga.json](./402337-scrubby-dubby-saga.json) |
 | Scruffy 3: A Day in the Life | 265683 | [265683-scruffy-3-a-day-in-the-life.json](./265683-scruffy-3-a-day-in-the-life.json) |
 | Scruffy's Quest | 265681 | [265681-scruffys-quest.json](./265681-scruffys-quest.json) |
@@ -6376,6 +6378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shred! Remastered | 207278 | [207278-shred-remastered.json](./207278-shred-remastered.json) |
 | Shred! Remastered + Shred! 2 Bundle | 325013 | [325013-shred-remastered-shred-2-bundle.json](./325013-shred-remastered-shred-2-bundle.json) |
 | Shredded Faith | 306349 | [306349-shredded-faith.json](./306349-shredded-faith.json) |
+| Shredder 6 | 92949 | [92949-shredder-6.json](./92949-shredder-6.json) |
 | Shredders | 136084 | [136084-shredders.json](./136084-shredders.json) |
 | Shredmill | 362906 | [362906-shredmill.json](./362906-shredmill.json) |
 | Shredoka: Magical Girl Skateboarding | 396723 | [396723-shredoka-magical-girl-skateboarding.json](./396723-shredoka-magical-girl-skateboarding.json) |
@@ -13931,6 +13934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speechless | 166736 | [166736-speechless.json](./166736-speechless.json) |
 | Speed | 261245 | [261245-speed.json](./261245-speed.json) |
 | Speed | 91537 | [91537-speed.json](./91537-speed.json) |
+| Speed | 92955 | [92955-speed.json](./92955-speed.json) |
 | Speed & Precision Collection | 328484 | [328484-speed-and-precision-collection.json](./328484-speed-and-precision-collection.json) |
 | Speed 2 | 268379 | [268379-speed-2.json](./268379-speed-2.json) |
 | Speed 3: Grand Prix | 139877 | [139877-speed-3-grand-prix.json](./139877-speed-3-grand-prix.json) |
@@ -19459,6 +19463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Midnight | 175934 | [175934-subway-midnight.json](./175934-subway-midnight.json) |
 | Subway Outbreak | 295137 | [295137-subway-outbreak.json](./295137-subway-outbreak.json) |
 | Subway Rider - Train Rush | 106567 | [106567-subway-rider-train-rush.json](./106567-subway-rider-train-rush.json) |
+| Subway Scramble | 92930 | [92930-subway-scramble.json](./92930-subway-scramble.json) |
 | Subway Simulator | 87982 | [87982-subway-simulator.json](./87982-subway-simulator.json) |
 | Subway Simulator 10: New York Edition | 91348 | [91348-subway-simulator-10-new-york-edition.json](./91348-subway-simulator-10-new-york-edition.json) |
 | Subway Simulator: Moscow Train | 171903 | [171903-subway-simulator-moscow-train.json](./171903-subway-simulator-moscow-train.json) |
@@ -23157,6 +23162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzy Burger | 151609 | [151609-suzy-burger.json](./151609-suzy-burger.json) |
 | Suzy Cube | 103247 | [103247-suzy-cube.json](./103247-suzy-cube.json) |
 | Svarog's Dream: Return of the Old Gods | 311099 | [311099-svarogs-dream-return-of-the-old-gods.json](./311099-svarogs-dream-return-of-the-old-gods.json) |
+| Svea Rike | 92933 | [92933-svea-rike.json](./92933-svea-rike.json) |
 | Svea Rike 2 | 84179 | [84179-svea-rike-2.json](./84179-svea-rike-2.json) |
 | Sveerz | 201280 | [201280-sveerz.json](./201280-sveerz.json) |
 | Sveerz Deluxe | 78378 | [78378-sveerz-deluxe.json](./78378-sveerz-deluxe.json) |
@@ -23273,6 +23279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarmrider Omega | 67901 | [67901-swarmrider-omega.json](./67901-swarmrider-omega.json) |
 | Swarmsign | 304904 | [304904-swarmsign.json](./304904-swarmsign.json) |
 | SwarmsurgE | 258411 | [258411-swarmsurge.json](./258411-swarmsurge.json) |
+| Swarog | 92950 | [92950-swarog.json](./92950-swarog.json) |
 | Swashbucklers: Blue vs. Grey | 21508 | [21508-swashbucklers-blue-vs-grey.json](./21508-swashbucklers-blue-vs-grey.json) |
 | Swat | 71547 | [71547-swat.json](./71547-swat.json) |
 | SWAT | 307058 | [307058-swat.json](./307058-swat.json) |
