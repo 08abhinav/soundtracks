@@ -1304,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapala Trophies | 42806 | [42806-rapala-trophies.json](./42806-rapala-trophies.json) |
 | Rapala: We Fish | 67697 | [67697-rapala-we-fish.json](./67697-rapala-we-fish.json) |
 | Rapala's Fishing Frenzy | 50605 | [50605-rapalas-fishing-frenzy.json](./50605-rapalas-fishing-frenzy.json) |
+| Rapanui | 93471 | [93471-rapanui.json](./93471-rapanui.json) |
 | Raphael | 194281 | [194281-raphael.json](./194281-raphael.json) |
 | RaphaelGer's Plane | 229973 | [229973-raphaelgers-plane.json](./229973-raphaelgers-plane.json) |
 | Rapid | 100305 | [100305-rapid.json](./100305-rapid.json) |
@@ -3402,6 +3403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rengoku | 325284 | [325284-rengoku.json](./325284-rengoku.json) |
 | Rengoku II: The Stairway to H.E.A.V.E.N. | 24185 | [24185-rengoku-ii-the-stairway-to-h-e-a-v-e-n.json](./24185-rengoku-ii-the-stairway-to-h-e-a-v-e-n.json) |
 | Rengoku: The Tower of Purgatory | 38473 | [38473-rengoku-the-tower-of-purgatory.json](./38473-rengoku-the-tower-of-purgatory.json) |
+| Renju | 93485 | [93485-renju.json](./93485-renju.json) |
 | Rennsport | 230191 | [230191-rennsport.json](./230191-rennsport.json) |
 | Renny Blaster | 42008 | [42008-renny-blaster.json](./42008-renny-blaster.json) |
 | Renova | 169723 | [169723-renova.json](./169723-renova.json) |
@@ -5914,6 +5916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roboloop | 295776 | [295776-roboloop.json](./295776-roboloop.json) |
 | Robolt | 249306 | [249306-robolt.json](./249306-robolt.json) |
 | Robolucion: The Sandwich Conspiracy | 390681 | [390681-robolucion-the-sandwich-conspiracy.json](./390681-robolucion-the-sandwich-conspiracy.json) |
+| Roboman | 93447 | [93447-roboman.json](./93447-roboman.json) |
 | Robomancer | 181183 | [181183-robomancer.json](./181183-robomancer.json) |
 | Robomancer_000 | 184809 | [184809-robomancer-000.json](./184809-robomancer-000.json) |
 | Robomania | 261987 | [261987-robomania.json](./261987-robomania.json) |
