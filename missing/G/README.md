@@ -3582,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomes Solitaire | 195589 | [195589-gnomes-solitaire.json](./195589-gnomes-solitaire.json) |
 | Gnomes Vs. Fairies | 34349 | [34349-gnomes-vs-fairies.json](./34349-gnomes-vs-fairies.json) |
 | Gnomes Vs. Fairies: Greckel's Quest | 53078 | [53078-gnomes-vs-fairies-greckels-quest.json](./53078-gnomes-vs-fairies-greckels-quest.json) |
+| Gnomic | 93469 | [93469-gnomic.json](./93469-gnomic.json) |
 | Gnomonic | 219797 | [219797-gnomonic.json](./219797-gnomonic.json) |
 | Gnomoria | 9627 | [9627-gnomoria.json](./9627-gnomoria.json) |
 | Gnosis | 201292 | [201292-gnosis.json](./201292-gnosis.json) |
@@ -3789,6 +3790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat's Tale Plus | 187173 | [187173-goats-tale-plus.json](./187173-goats-tale-plus.json) |
 | GoatBrains | 405036 | [405036-goatbrains.json](./405036-goatbrains.json) |
 | Goats on a Bridge | 10367 | [10367-goats-on-a-bridge.json](./10367-goats-on-a-bridge.json) |
+| GoatUp | 93491 | [93491-goatup.json](./93491-goatup.json) |
 | Gob | 146080 | [146080-gob.json](./146080-gob.json) |
 | Gob | 415231 | [415231-gob.json](./415231-gob.json) |
 | Gob Johnson's Downhill Marmalade | 333169 | [333169-gob-johnsons-downhill-marmalade.json](./333169-gob-johnsons-downhill-marmalade.json) |
@@ -5011,6 +5013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goya's Inferno | 345601 | [345601-goyas-inferno.json](./345601-goyas-inferno.json) |
 | Goyangi Jeongwon: Merge | 214381 | [214381-goyangi-jeongwon-merge.json](./214381-goyangi-jeongwon-merge.json) |
 | Gozen Yoji no mani-mani | 285423 | [285423-gozen-yoji-no-mani-mani.json](./285423-gozen-yoji-no-mani-mani.json) |
+| GP 500 | 93475 | [93475-gp-500.json](./93475-gp-500.json) |
 | GP Challenge | 137890 | [137890-gp-challenge.json](./137890-gp-challenge.json) |
 | GP Club Life Motorsports Team | 315650 | [315650-gp-club-life-motorsports-team.json](./315650-gp-club-life-motorsports-team.json) |
 | GP Fight | 92311 | [92311-gp-fight.json](./92311-gp-fight.json) |
@@ -5693,6 +5696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Crash Ultra | 52223 | [52223-gravity-crash-ultra.json](./52223-gravity-crash-ultra.json) |
 | Gravity Dash | 287225 | [287225-gravity-dash.json](./287225-gravity-dash.json) |
 | Gravity Dash 2 | 91092 | [91092-gravity-dash-2.json](./91092-gravity-dash-2.json) |
+| Gravity Dash 2 | 93499 | [93499-gravity-dash-2.json](./93499-gravity-dash-2.json) |
 | Gravity Den | 33177 | [33177-gravity-den.json](./33177-gravity-den.json) |
 | Gravity Duck | 121815 | [121815-gravity-duck.json](./121815-gravity-duck.json) |
 | Gravity Escape | 128255 | [128255-gravity-escape.json](./128255-gravity-escape.json) |
