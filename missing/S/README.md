@@ -23740,7 +23740,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syberia II | 6185 | [6185-syberia-ii.json](./6185-syberia-ii.json) |
 | Syberia: 20th Anniversary Bundle | 202126 | [202126-syberia-20th-anniversary-bundle.json](./202126-syberia-20th-anniversary-bundle.json) |
 | Syberia: Remastered | 344050 | [344050-syberia-remastered.json](./344050-syberia-remastered.json) |
-| Syberia: The World Before | 121763 | [121763-syberia-the-world-before.json](./121763-syberia-the-world-before.json) |
 | Syberia: The World Before - Deluxe Edition | 169167 | [169167-syberia-the-world-before-deluxe-edition.json](./169167-syberia-the-world-before-deluxe-edition.json) |
 | Sybil's Tail | 179657 | [179657-sybils-tail.json](./179657-sybils-tail.json) |
 | Sycamore | 186618 | [186618-sycamore.json](./186618-sycamore.json) |
