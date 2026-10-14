@@ -9151,6 +9151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Structure | 271318 | [271318-power-structure.json](./271318-power-structure.json) |
 | Power Struggle | 129005 | [129005-power-struggle.json](./129005-power-struggle.json) |
 | Power Struggle | 55031 | [55031-power-struggle.json](./55031-power-struggle.json) |
+| Power Supplied | 76496 | [76496-power-supplied.json](./76496-power-supplied.json) |
 | Power Surge | 40399 | [40399-power-surge.json](./40399-power-surge.json) |
 | Power Tennis | 43198 | [43198-power-tennis.json](./43198-power-tennis.json) |
 | Power The Light | 254064 | [254064-power-the-light.json](./254064-power-the-light.json) |
@@ -10025,6 +10026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pritto Prisoner: Ultimate Poopie Edition | 381805 | [381805-pritto-prisoner-ultimate-poopie-edition.json](./381805-pritto-prisoner-ultimate-poopie-edition.json) |
 | Private Crusade | 240132 | [240132-private-crusade.json](./240132-private-crusade.json) |
 | Private Dance VR | 286534 | [286534-private-dance-vr.json](./286534-private-dance-vr.json) |
+| Private Dancer | 76461 | [76461-private-dancer.json](./76461-private-dancer.json) |
 | Private Detective Punch Drunk: PDPD | 77365 | [77365-private-detective-punch-drunk-pdpd.json](./77365-private-detective-punch-drunk-pdpd.json) |
 | Private Eye | 10999 | [10999-private-eye.json](./10999-private-eye.json) |
 | Private Eye | 25833 | [25833-private-eye.json](./25833-private-eye.json) |
