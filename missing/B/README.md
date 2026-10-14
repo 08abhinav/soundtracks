@@ -4244,6 +4244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben Jordan: Paranormal Investigator | 127124 | [127124-ben-jordan-paranormal-investigator.json](./127124-ben-jordan-paranormal-investigator.json) |
 | Ben Jordan: Paranormal Investigator - Case 1: In Search of the Skunk-Ape | 78058 | [78058-ben-jordan-paranormal-investigator-case-1-in-search-of-the-skunk-ape.json](./78058-ben-jordan-paranormal-investigator-case-1-in-search-of-the-skunk-ape.json) |
 | Ben Jordan: Paranormal Investigator - Case 2: The Lost Galleon of the Salton Sea | 71216 | [71216-ben-jordan-paranormal-investigator-case-2-the-lost-galleon-of-the-salton-sea.json](./71216-ben-jordan-paranormal-investigator-case-2-the-lost-galleon-of-the-salton-sea.json) |
+| Ben Jordan: Paranormal Investigator - Case 3: The Sorceress of Smailholm | 79117 | [79117-ben-jordan-paranormal-investigator-case-3-the-sorceress-of-smailholm.json](./79117-ben-jordan-paranormal-investigator-case-3-the-sorceress-of-smailholm.json) |
 | Ben Jordan: Paranormal Investigator - Case 4: Horror at Number 50 | 70981 | [70981-ben-jordan-paranormal-investigator-case-4-horror-at-number-50.json](./70981-ben-jordan-paranormal-investigator-case-4-horror-at-number-50.json) |
 | Ben Jordan: Paranormal Investigator - Case 6: Scourge of the Sea People | 73276 | [73276-ben-jordan-paranormal-investigator-case-6-scourge-of-the-sea-people.json](./73276-ben-jordan-paranormal-investigator-case-6-scourge-of-the-sea-people.json) |
 | Ben Jordan: Paranormal Investigator - Case 8: Relics of the Past | 127125 | [127125-ben-jordan-paranormal-investigator-case-8-relics-of-the-past.json](./127125-ben-jordan-paranormal-investigator-case-8-relics-of-the-past.json) |
@@ -5235,6 +5236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billund | 241499 | [241499-billund.json](./241499-billund.json) |
 | Billy | 126539 | [126539-billy.json](./126539-billy.json) |
 | Billy 101 | 192964 | [192964-billy-101.json](./192964-billy-101.json) |
+| Billy 2 | 79120 | [79120-billy-2.json](./79120-billy-2.json) |
 | Billy Bob's Huntin'-n-Fishin' | 49913 | [49913-billy-bobs-huntin-n-fishin.json](./49913-billy-bobs-huntin-n-fishin.json) |
 | Billy Bomber | 124521 | [124521-billy-bomber.json](./124521-billy-bomber.json) |
 | Billy Bonka | 195563 | [195563-billy-bonka.json](./195563-billy-bonka.json) |
@@ -7744,6 +7746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Crystal | 116914 | [116914-blue-crystal.json](./116914-blue-crystal.json) |
 | Blue Delta | 350599 | [350599-blue-delta.json](./350599-blue-delta.json) |
 | Blue Detective: A Hotel in Scarlet | 400505 | [400505-blue-detective-a-hotel-in-scarlet.json](./400505-blue-detective-a-hotel-in-scarlet.json) |
+| Blue Dragon | 79116 | [79116-blue-dragon.json](./79116-blue-dragon.json) |
 | Blue Dragon: Awakened Shadow | 20465 | [20465-blue-dragon-awakened-shadow.json](./20465-blue-dragon-awakened-shadow.json) |
 | Blue Dragon: Shuffle Dungeon | 259863 | [259863-blue-dragon-shuffle-dungeon.json](./259863-blue-dragon-shuffle-dungeon.json) |
 | Blue Drifter | 129462 | [129462-blue-drifter.json](./129462-blue-drifter.json) |
