@@ -12,9 +12,12 @@ permissions:
 
 jobs:
   ingest:
-    # ostdbbot (the soundtracks-sync worker) only pushes empty missing/
-    # placeholders and index pages straight to main; there is nothing to ingest.
-    if: github.actor != 'ostdbbot'
+    # ostdbbot (the soundtracks-sync worker) pushes empty missing/ placeholders
+    # and index pages straight to main; there is nothing to ingest in those.
+    # A PR merge is different even when ostdbbot is the actor: auto-merge
+    # merges as the account that enabled it, which for suggestion PRs is
+    # ostdbbot, and the merged soundtrack still has to be ingested.
+    if: github.actor != 'ostdbbot' || startsWith(github.event.head_commit.message, 'Merge pull request')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
