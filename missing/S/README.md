@@ -4398,6 +4398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Falls | 311258 | [311258-shadow-falls.json](./311258-shadow-falls.json) |
 | Shadow Fang | 342273 | [342273-shadow-fang.json](./342273-shadow-fang.json) |
 | Shadow Fate | 191264 | [191264-shadow-fate.json](./191264-shadow-fate.json) |
+| Shadow Fear Path to Insanity | 106443 | [106443-shadow-fear-path-to-insanity.json](./106443-shadow-fear-path-to-insanity.json) |
 | Shadow Fear: Chapter 0 | 168856 | [168856-shadow-fear-chapter-0.json](./168856-shadow-fear-chapter-0.json) |
 | Shadow Fencer Theatre | 116488 | [116488-shadow-fencer-theatre.json](./116488-shadow-fencer-theatre.json) |
 | Shadow Fight | 61158 | [61158-shadow-fight.json](./61158-shadow-fight.json) |
@@ -8561,6 +8562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slap Shooter | 97977 | [97977-slap-shooter.json](./97977-slap-shooter.json) |
 | Slap Shot | 81281 | [81281-slap-shot.json](./81281-slap-shot.json) |
 | Slap That | 311263 | [311263-slap-that.json](./311263-slap-that.json) |
+| Slap the Bulls | 106480 | [106480-slap-the-bulls.json](./106480-slap-the-bulls.json) |
 | Slap the Fly | 23507 | [23507-slap-the-fly.json](./23507-slap-the-fly.json) |
 | Slap The King | 290552 | [290552-slap-the-king.json](./290552-slap-the-king.json) |
 | Slap the Rocks | 176884 | [176884-slap-the-rocks.json](./176884-slap-the-rocks.json) |
@@ -8938,6 +8940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Coming | 301812 | [301812-slime-coming.json](./301812-slime-coming.json) |
 | Slime Cores | 298056 | [298056-slime-cores.json](./298056-slime-cores.json) |
 | Slime Crunch | 114828 | [114828-slime-crunch.json](./114828-slime-crunch.json) |
+| Slime Dad: My dad is a slime | 106438 | [106438-slime-dad-my-dad-is-a-slime.json](./106438-slime-dad-my-dad-is-a-slime.json) |
 | Slime Dreamscape | 334345 | [334345-slime-dreamscape.json](./334345-slime-dreamscape.json) |
 | Slime Dungeon | 202656 | [202656-slime-dungeon.json](./202656-slime-dungeon.json) |
 | Slime Dungeon Escape | 161389 | [161389-slime-dungeon-escape.json](./161389-slime-dungeon-escape.json) |
@@ -13186,6 +13189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Ranger ASK | 33316 | [33316-space-ranger-ask.json](./33316-space-ranger-ask.json) |
 | Space Ranger VR | 130231 | [130231-space-ranger-vr.json](./130231-space-ranger-vr.json) |
 | Space Ranger vs. Reptiloids | 104160 | [104160-space-ranger-vs-reptiloids.json](./104160-space-ranger-vs-reptiloids.json) |
+| Space Ranger vs. Reptiloids: 2 Edition | 106450 | [106450-space-ranger-vs-reptiloids-2-edition.json](./106450-space-ranger-vs-reptiloids-2-edition.json) |
 | Space Ranger: First Meet | 224678 | [224678-space-ranger-first-meet.json](./224678-space-ranger-first-meet.json) |
 | Space Ranger: Return to Earth | 45907 | [45907-space-ranger-return-to-earth.json](./45907-space-ranger-return-to-earth.json) |
 | Space Rangers | 7592 | [7592-space-rangers.json](./7592-space-rangers.json) |
@@ -18097,6 +18101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storia Stories | 257115 | [257115-storia-stories.json](./257115-storia-stories.json) |
 | Stories | 292753 | [292753-stories.json](./292753-stories.json) |
 | Stories From the Cores | 231774 | [231774-stories-from-the-cores.json](./231774-stories-from-the-cores.json) |
+| Stories In Stone | 106434 | [106434-stories-in-stone.json](./106434-stories-in-stone.json) |
 | Stories of Liane | 144603 | [144603-stories-of-liane.json](./144603-stories-of-liane.json) |
 | Stories of Somnia | 353378 | [353378-stories-of-somnia.json](./353378-stories-of-somnia.json) |
 | Stories of Submission: Enter the Cuck | 163943 | [163943-stories-of-submission-enter-the-cuck.json](./163943-stories-of-submission-enter-the-cuck.json) |
