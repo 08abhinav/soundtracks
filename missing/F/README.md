@@ -7109,6 +7109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fossilfuel | 148665 | [148665-fossilfuel.json](./148665-fossilfuel.json) |
 | Fossilfuel VR: Raptor Isolation | 192777 | [192777-fossilfuel-vr-raptor-isolation.json](./192777-fossilfuel-vr-raptor-isolation.json) |
 | Fossilpunk | 327189 | [327189-fossilpunk.json](./327189-fossilpunk.json) |
+| Fost - Ghost Vs Fox | 124519 | [124519-fost-ghost-vs-fox.json](./124519-fost-ghost-vs-fox.json) |
 | Foster's Home for Imaginary Friends | 230313 | [230313-fosters-home-for-imaginary-friends.json](./230313-fosters-home-for-imaginary-friends.json) |
 | Foster's Home for Imaginary Friends | 230429 | [230429-fosters-home-for-imaginary-friends.json](./230429-fosters-home-for-imaginary-friends.json) |
 | Foster's Home for Imaginary Friends: Imagination Invaders | 8004 | [8004-fosters-home-for-imaginary-friends-imagination-invaders.json](./8004-fosters-home-for-imaginary-friends-imagination-invaders.json) |
