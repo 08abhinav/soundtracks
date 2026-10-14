@@ -2479,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screen | 300716 | [300716-screen.json](./300716-screen.json) |
 | Screen Blaster | 101548 | [101548-screen-blaster.json](./101548-screen-blaster.json) |
 | Screen Boy | 364503 | [364503-screen-boy.json](./364503-screen-boy.json) |
+| Screen Bridge | 88152 | [88152-screen-bridge.json](./88152-screen-bridge.json) |
 | Screen Cat | 328023 | [328023-screen-cat.json](./328023-screen-cat.json) |
 | Screen King | 259181 | [259181-screen-king.json](./259181-screen-king.json) |
 | Screen TRPG | 371119 | [371119-screen-trpg.json](./371119-screen-trpg.json) |
@@ -4502,6 +4503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Beast | 5434 | [5434-shadow-of-the-beast.json](./5434-shadow-of-the-beast.json) |
 | Shadow of the Beast II | 5879 | [5879-shadow-of-the-beast-ii.json](./5879-shadow-of-the-beast-ii.json) |
 | Shadow of the Beast III | 12221 | [12221-shadow-of-the-beast-iii.json](./12221-shadow-of-the-beast-iii.json) |
+| Shadow of the Black Dragon | 88123 | [88123-shadow-of-the-black-dragon.json](./88123-shadow-of-the-black-dragon.json) |
 | Shadow of the Colossus | 139896 | [139896-shadow-of-the-colossus.json](./139896-shadow-of-the-colossus.json) |
 | Shadow of the Colossus: Special Edition | 52192 | [52192-shadow-of-the-colossus-special-edition.json](./52192-shadow-of-the-colossus-special-edition.json) |
 | Shadow of the Curse-Eater | 285528 | [285528-shadow-of-the-curse-eater.json](./285528-shadow-of-the-curse-eater.json) |
@@ -6139,6 +6141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shootout! : World Edition | 90897 | [90897-shootout-world-edition.json](./90897-shootout-world-edition.json) |
 | ShootOut(SystemD) | 147209 | [147209-shootout-systemd.json](./147209-shootout-systemd.json) |
 | ShootRun | 156888 | [156888-shootrun.json](./156888-shootrun.json) |
+| Shoottera | 88148 | [88148-shoottera.json](./88148-shoottera.json) |
 | Shoottris: Beyond the Classic Game | 110508 | [110508-shoottris-beyond-the-classic-game.json](./110508-shoottris-beyond-the-classic-game.json) |
 | Shootvaders: The Beginning | 190945 | [190945-shootvaders-the-beginning.json](./190945-shootvaders-the-beginning.json) |
 | ShootX | 343260 | [343260-shootx.json](./343260-shootx.json) |
@@ -10256,6 +10259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Storm | 318774 | [318774-snow-storm.json](./318774-snow-storm.json) |
 | Snow Strike | 15372 | [15372-snow-strike.json](./15372-snow-strike.json) |
 | Snow Town - Ice Village World | 108477 | [108477-snow-town-ice-village-world.json](./108477-snow-town-ice-village-world.json) |
+| Snow Trial | 88125 | [88125-snow-trial.json](./88125-snow-trial.json) |
 | Snow Vale | 220599 | [220599-snow-vale.json](./220599-snow-vale.json) |
 | Snow War | 211160 | [211160-snow-war.json](./211160-snow-war.json) |
 | Snow Wars | 150785 | [150785-snow-wars.json](./150785-snow-wars.json) |
