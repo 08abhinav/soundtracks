@@ -3570,6 +3570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Shift | 307598 | [307598-phantom-shift.json](./307598-phantom-shift.json) |
 | Phantom Signal | 81703 | [81703-phantom-signal.json](./81703-phantom-signal.json) |
 | Phantom Sol | 125437 | [125437-phantom-sol.json](./125437-phantom-sol.json) |
+| Phantom Spider | 119434 | [119434-phantom-spider.json](./119434-phantom-spider.json) |
 | Phantom Squad | 291391 | [291391-phantom-squad.json](./291391-phantom-squad.json) |
 | Phantom Stars | 297184 | [297184-phantom-stars.json](./297184-phantom-stars.json) |
 | Phantom Tank | 321993 | [321993-phantom-tank.json](./321993-phantom-tank.json) |
@@ -8157,6 +8158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pongis | 98223 | [98223-pongis.json](./98223-pongis.json) |
 | Pongis 2 | 416654 | [416654-pongis-2.json](./416654-pongis-2.json) |
 | Pongis Jump | 126000 | [126000-pongis-jump.json](./126000-pongis-jump.json) |
+| PonGlow | 119474 | [119474-ponglow.json](./119474-ponglow.json) |
 | Pongmatic 2300 | 256211 | [256211-pongmatic-2300.json](./256211-pongmatic-2300.json) |
 | Pongpongpongpongpongpongpongpong | 212776 | [212776-pongpongpongpongpongpongpongpong.json](./212776-pongpongpongpongpongpongpongpong.json) |
 | Pongs | 178609 | [178609-pongs.json](./178609-pongs.json) |
@@ -11888,6 +11890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzelate | 78745 | [78745-puzzelate.json](./78745-puzzelate.json) |
 | Puzzgun | 98684 | [98684-puzzgun.json](./98684-puzzgun.json) |
 | Puzzl9 | 178650 | [178650-puzzl9.json](./178650-puzzl9.json) |
+| Puzzle | 119462 | [119462-puzzle.json](./119462-puzzle.json) |
 | Puzzle | 131268 | [131268-puzzle.json](./131268-puzzle.json) |
 | Puzzle | 287546 | [287546-puzzle.json](./287546-puzzle.json) |
 | Puzzle & Action: Treasure Hunt | 123590 | [123590-puzzle-and-action-treasure-hunt.json](./123590-puzzle-and-action-treasure-hunt.json) |
