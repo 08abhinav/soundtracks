@@ -7146,6 +7146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romans 360 | 110271 | [110271-romans-360.json](./110271-romans-360.json) |
 | Romans From Mars | 62224 | [62224-romans-from-mars.json](./62224-romans-from-mars.json) |
 | Romans from Mars (Free-to-Play) | 116845 | [116845-romans-from-mars-free-to-play.json](./116845-romans-from-mars-free-to-play.json) |
+| Romans From Mars 360 | 81126 | [81126-romans-from-mars-360.json](./81126-romans-from-mars-360.json) |
 | Romantasia | 118282 | [118282-romantasia.json](./118282-romantasia.json) |
 | Romantic Emperor | 404858 | [404858-romantic-emperor.json](./404858-romantic-emperor.json) |
 | Romantic Escapades | 297207 | [297207-romantic-escapades.json](./297207-romantic-escapades.json) |
