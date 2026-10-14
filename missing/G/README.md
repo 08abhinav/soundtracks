@@ -1741,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemini Arms | 145546 | [145546-gemini-arms.json](./145546-gemini-arms.json) |
 | Gemini City: Science and Magic | 255892 | [255892-gemini-city-science-and-magic.json](./255892-gemini-city-science-and-magic.json) |
 | Gemini Lost | 16080 | [16080-gemini-lost.json](./16080-gemini-lost.json) |
+| Gemini of the Abandoned | 130082 | [130082-gemini-of-the-abandoned.json](./130082-gemini-of-the-abandoned.json) |
 | Gemini Rue | 6325 | [6325-gemini-rue.json](./6325-gemini-rue.json) |
 | Gemini Strategy Origin | 156893 | [156893-gemini-strategy-origin.json](./156893-gemini-strategy-origin.json) |
 | Gemini Wing | 12117 | [12117-gemini-wing.json](./12117-gemini-wing.json) |
@@ -3548,6 +3549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Cycling | 364056 | [364056-go-cycling.json](./364056-go-cycling.json) |
 | Go Deep Or Go Home | 285484 | [285484-go-deep-or-go-home.json](./285484-go-deep-or-go-home.json) |
 | Go Diego! Go: Save the Animal Families! | 72997 | [72997-go-diego-go-save-the-animal-families.json](./72997-go-diego-go-save-the-animal-families.json) |
+| Go Far Away | 130077 | [130077-go-far-away.json](./130077-go-far-away.json) |
 | Go Fetch! | 186133 | [186133-go-fetch.json](./186133-go-fetch.json) |
 | Go Fetch! | 85166 | [85166-go-fetch.json](./85166-go-fetch.json) |
 | Go Fetch! 2 | 84548 | [84548-go-fetch-2.json](./84548-go-fetch-2.json) |
@@ -3823,6 +3825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobs and Gods | 265351 | [265351-gobs-and-gods.json](./265351-gobs-and-gods.json) |
 | Gobs of Games | 49928 | [49928-gobs-of-games.json](./49928-gobs-of-games.json) |
 | Gobs of Glory | 216731 | [216731-gobs-of-glory.json](./216731-gobs-of-glory.json) |
+| GOBS: Game of Battle Simulation | 130107 | [130107-gobs-game-of-battle-simulation.json](./130107-gobs-game-of-battle-simulation.json) |
 | Gobsmacked! | 358864 | [358864-gobsmacked.json](./358864-gobsmacked.json) |
 | Gobstruck | 398411 | [398411-gobstruck.json](./398411-gobstruck.json) |
 | Gobyworld | 245828 | [245828-gobyworld.json](./245828-gobyworld.json) |
@@ -5053,6 +5056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grana Embrace Chapter 1 | 125815 | [125815-grana-embrace-chapter-1.json](./125815-grana-embrace-chapter-1.json) |
 | Granada | 280323 | [280323-granada.json](./280323-granada.json) |
 | Granada | 46209 | [46209-granada.json](./46209-granada.json) |
+| Granado Espada Japan | 130109 | [130109-granado-espada-japan.json](./130109-granado-espada-japan.json) |
 | Granado Espada M | 197354 | [197354-granado-espada-m.json](./197354-granado-espada-m.json) |
 | GranAge Online | 64192 | [64192-granage-online.json](./64192-granage-online.json) |
 | Granblue Fantasy Versus Rising: Color Set 1 | 332820 | [332820-granblue-fantasy-versus-rising-color-set-1.json](./332820-granblue-fantasy-versus-rising-color-set-1.json) |
