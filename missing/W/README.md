@@ -1418,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars Across The World: Tryphon 104 | 350610 | [350610-wars-across-the-world-tryphon-104.json](./350610-wars-across-the-world-tryphon-104.json) |
 | Wars Across the World: Uganda 1979 | 155187 | [155187-wars-across-the-world-uganda-1979.json](./155187-wars-across-the-world-uganda-1979.json) |
 | Wars Across the World: Zulu 1879 | 242623 | [242623-wars-across-the-world-zulu-1879.json](./242623-wars-across-the-world-zulu-1879.json) |
+| Wars and Battles: Normandy | 76439 | [76439-wars-and-battles-normandy.json](./76439-wars-and-battles-normandy.json) |
 | Wars of Napoleon | 33092 | [33092-wars-of-napoleon.json](./33092-wars-of-napoleon.json) |
 | Wars of Prasia | 188381 | [188381-wars-of-prasia.json](./188381-wars-of-prasia.json) |
 | Wars of Succession | 79814 | [79814-wars-of-succession.json](./79814-wars-of-succession.json) |
@@ -6261,6 +6262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wurmus | 181389 | [181389-wurmus.json](./181389-wurmus.json) |
 | Wurps | 91583 | [91583-wurps.json](./91583-wurps.json) |
 | Wurst and Glory | 415115 | [415115-wurst-and-glory.json](./415115-wurst-and-glory.json) |
+| Wurst Defender Coop Edition | 76440 | [76440-wurst-defender-coop-edition.json](./76440-wurst-defender-coop-edition.json) |
 | Wuscar | 203884 | [203884-wuscar.json](./203884-wuscar.json) |
 | Wushu Chronicles 2 | 171024 | [171024-wushu-chronicles-2.json](./171024-wushu-chronicles-2.json) |
 | Wuthering Waves: All Silent Souls Can Sing | 326608 | [326608-wuthering-waves-all-silent-souls-can-sing.json](./326608-wuthering-waves-all-silent-souls-can-sing.json) |
