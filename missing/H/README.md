@@ -6114,6 +6114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homesick | 11634 | [11634-homesick.json](./11634-homesick.json) |
 | Homesickened | 244991 | [244991-homesickened.json](./244991-homesickened.json) |
 | Homesickness | 344341 | [344341-homesickness.json](./344341-homesickness.json) |
+| Homespace | 106474 | [106474-homespace.json](./106474-homespace.json) |
 | Homestar VR | 105508 | [105508-homestar-vr.json](./105508-homestar-vr.json) |
 | Homestay à la Mode | 396492 | [396492-homestay-a-la-mode.json](./396492-homestay-a-la-mode.json) |
 | Homestead Arcana | 217635 | [217635-homestead-arcana.json](./217635-homestead-arcana.json) |
@@ -7824,6 +7825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Pigs | 206180 | [206180-hungry-pigs.json](./206180-hungry-pigs.json) |
 | Hungry Planet | 107755 | [107755-hungry-planet.json](./107755-hungry-planet.json) |
 | Hungry Red Planet | 73765 | [73765-hungry-red-planet.json](./73765-hungry-red-planet.json) |
+| Hungry Shadows | 106459 | [106459-hungry-shadows.json](./106459-hungry-shadows.json) |
 | Hungry Shark Arena | 300683 | [300683-hungry-shark-arena.json](./300683-hungry-shark-arena.json) |
 | Hungry Shark Arena: Horror Night | 221713 | [221713-hungry-shark-arena-horror-night.json](./221713-hungry-shark-arena-horror-night.json) |
 | Hungry Shark Evolution | 62032 | [62032-hungry-shark-evolution.json](./62032-hungry-shark-evolution.json) |
