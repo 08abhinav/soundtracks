@@ -1469,6 +1469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks Online | 384275 | [384275-tanks-online.json](./384275-tanks-online.json) |
 | Tanks Racing Sim | 339417 | [339417-tanks-racing-sim.json](./339417-tanks-racing-sim.json) |
 | Tanks Rebirth | 357342 | [357342-tanks-rebirth.json](./357342-tanks-rebirth.json) |
+| Tanks VS Demons | 118079 | [118079-tanks-vs-demons.json](./118079-tanks-vs-demons.json) |
 | Tanks vs Tanks: PvP | 214044 | [214044-tanks-vs-tanks-pvp.json](./214044-tanks-vs-tanks-pvp.json) |
 | Tanks vs. Aliens | 36500 | [36500-tanks-vs-aliens.json](./36500-tanks-vs-aliens.json) |
 | Tanks With Hands: Armed and Treaded | 107787 | [107787-tanks-with-hands-armed-and-treaded.json](./107787-tanks-with-hands-armed-and-treaded.json) |
@@ -9978,6 +9979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Political Machine 2024 | 275696 | [275696-the-political-machine-2024.json](./275696-the-political-machine-2024.json) |
 | The Political Machine 2024: Cabinet of Curiosities | 275697 | [275697-the-political-machine-2024-cabinet-of-curiosities.json](./275697-the-political-machine-2024-cabinet-of-curiosities.json) |
 | The Political Process | 127113 | [127113-the-political-process.json](./127113-the-political-process.json) |
+| The Polynesian Cultural Center VR Experience | 118095 | [118095-the-polynesian-cultural-center-vr-experience.json](./118095-the-polynesian-cultural-center-vr-experience.json) |
 | The Pong P | 219177 | [219177-the-pong-p.json](./219177-the-pong-p.json) |
 | The Pool Rooms | 297895 | [297895-the-pool-rooms.json](./297895-the-pool-rooms.json) |
 | The Pools | 333740 | [333740-the-pools.json](./333740-the-pools.json) |
@@ -15769,6 +15771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Metal: Full Metal Rumble - Caeser's Rescue | 172126 | [172126-tiny-metal-full-metal-rumble-caesers-rescue.json](./172126-tiny-metal-full-metal-rumble-caesers-rescue.json) |
 | Tiny Metal: Will of the Shogun | 165045 | [165045-tiny-metal-will-of-the-shogun.json](./165045-tiny-metal-will-of-the-shogun.json) |
 | Tiny Monster Haven | 348819 | [348819-tiny-monster-haven.json](./348819-tiny-monster-haven.json) |
+| Tiny Mortals VR | 118135 | [118135-tiny-mortals-vr.json](./118135-tiny-mortals-vr.json) |
 | Tiny Onion Knight | 226157 | [226157-tiny-onion-knight.json](./226157-tiny-onion-knight.json) |
 | Tiny Passengers | 175247 | [175247-tiny-passengers.json](./175247-tiny-passengers.json) |
 | Tiny Pasture: Baabaa and Moomoo | 383623 | [383623-tiny-pasture-baabaa-and-moomoo.json](./383623-tiny-pasture-baabaa-and-moomoo.json) |
@@ -20557,6 +20560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triangle Defense | 371970 | [371970-triangle-defense.json](./371970-triangle-defense.json) |
 | Triangle Heart | 77678 | [77678-triangle-heart.json](./77678-triangle-heart.json) |
 | Triangle Legacy Revolution | 112317 | [112317-triangle-legacy-revolution.json](./112317-triangle-legacy-revolution.json) |
+| Triangle Mania | 118082 | [118082-triangle-mania.json](./118082-triangle-mania.json) |
 | Triangle Project Otome Visual Novels | 116382 | [116382-triangle-project-otome-visual-novels.json](./116382-triangle-project-otome-visual-novels.json) |
 | Triangle Strategy | 143610 | [143610-triangle-strategy.json](./143610-triangle-strategy.json) |
 | Triangle Strategy | 318779 | [318779-triangle-strategy.json](./318779-triangle-strategy.json) |
