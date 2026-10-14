@@ -7189,6 +7189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code UltraViolet | 406864 | [406864-code-ultraviolet.json](./406864-code-ultraviolet.json) |
 | Code Vein: Collector's Edition | 103212 | [103212-code-vein-collectors-edition.json](./103212-code-vein-collectors-edition.json) |
 | Code Vein: Hellfire Knight | 129134 | [129134-code-vein-hellfire-knight.json](./129134-code-vein-hellfire-knight.json) |
+| Code Vein: Lord of Thunder | 131954 | [131954-code-vein-lord-of-thunder.json](./131954-code-vein-lord-of-thunder.json) |
 | Code Vein: Season Pass | 131955 | [131955-code-vein-season-pass.json](./131955-code-vein-season-pass.json) |
 | Code Zero | 123997 | [123997-code-zero.json](./123997-code-zero.json) |
 | Code Zero | 161896 | [161896-code-zero.json](./161896-code-zero.json) |
@@ -8211,6 +8212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comet Force | 324877 | [324877-comet-force.json](./324877-comet-force.json) |
 | Comet Golf | 129738 | [129738-comet-golf.json](./129738-comet-golf.json) |
 | Comet Moon: The Journey Begins | 339845 | [339845-comet-moon-the-journey-begins.json](./339845-comet-moon-the-journey-begins.json) |
+| Comet Summoner | 131942 | [131942-comet-summoner.json](./131942-comet-summoner.json) |
 | Comet Tail: Polygon Panic | 369010 | [369010-comet-tail-polygon-panic.json](./369010-comet-tail-polygon-panic.json) |
 | Comet Tycoon | 349881 | [349881-comet-tycoon.json](./349881-comet-tycoon.json) |
 | Comets Wake | 76918 | [76918-comets-wake.json](./76918-comets-wake.json) |
@@ -9777,6 +9779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Relief: Prof. Renegade to the Rescue | 12282 | [12282-cosmic-relief-prof-renegade-to-the-rescue.json](./12282-cosmic-relief-prof-renegade-to-the-rescue.json) |
 | Cosmic Rift | 72918 | [72918-cosmic-rift.json](./72918-cosmic-rift.json) |
 | Cosmic Robots | 301006 | [301006-cosmic-robots.json](./301006-cosmic-robots.json) |
+| Cosmic Rochambo | 131920 | [131920-cosmic-rochambo.json](./131920-cosmic-rochambo.json) |
 | Cosmic Rollers: Orbital Odyssey | 278551 | [278551-cosmic-rollers-orbital-odyssey.json](./278551-cosmic-rollers-orbital-odyssey.json) |
 | Cosmic Run | 348341 | [348341-cosmic-run.json](./348341-cosmic-run.json) |
 | Cosmic Scramble | 372589 | [372589-cosmic-scramble.json](./372589-cosmic-scramble.json) |
