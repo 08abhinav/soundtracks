@@ -878,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetpack Cat | 72694 | [72694-jetpack-cat.json](./72694-jetpack-cat.json) |
 | Jetpack Christmas Special | 19238 | [19238-jetpack-christmas-special.json](./19238-jetpack-christmas-special.json) |
 | Jetpack Clankers | 406180 | [406180-jetpack-clankers.json](./406180-jetpack-clankers.json) |
+| Jetpack Dog | 103969 | [103969-jetpack-dog.json](./103969-jetpack-dog.json) |
 | Jetpack Dragon Hunting | 241052 | [241052-jetpack-dragon-hunting.json](./241052-jetpack-dragon-hunting.json) |
 | Jetpack Guy | 223397 | [223397-jetpack-guy.json](./223397-jetpack-guy.json) |
 | Jetpack Joyride 2 | 208929 | [208929-jetpack-joyride-2.json](./208929-jetpack-joyride-2.json) |
