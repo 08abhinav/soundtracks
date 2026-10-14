@@ -1389,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaf Clicker: Grow Your Green Thumb! | 340908 | [340908-leaf-clicker-grow-your-green-thumb.json](./340908-leaf-clicker-grow-your-green-thumb.json) |
 | Leaf It Alone | 376206 | [376206-leaf-it-alone.json](./376206-leaf-it-alone.json) |
 | Leaf Me Alone | 408086 | [408086-leaf-me-alone.json](./408086-leaf-me-alone.json) |
+| Leaf on the Wind | 97216 | [97216-leaf-on-the-wind.json](./97216-leaf-on-the-wind.json) |
 | Leaf on Wind | 149087 | [149087-leaf-on-wind.json](./149087-leaf-on-wind.json) |
 | Leaf Town | 302075 | [302075-leaf-town.json](./302075-leaf-town.json) |
 | Leaf Tree | 175791 | [175791-leaf-tree.json](./175791-leaf-tree.json) |
@@ -1974,6 +1975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legioncraft | 125114 | [125114-legioncraft.json](./125114-legioncraft.json) |
 | Legionnaire | 23968 | [23968-legionnaire.json](./23968-legionnaire.json) |
 | Legionnaire | 81453 | [81453-legionnaire.json](./81453-legionnaire.json) |
+| Legions At War | 97268 | [97268-legions-at-war.json](./97268-legions-at-war.json) |
 | Legions Masters | 130671 | [130671-legions-masters.json](./130671-legions-masters.json) |
 | Legions of Ashworld | 17575 | [17575-legions-of-ashworld.json](./17575-legions-of-ashworld.json) |
 | Legions of Chaos | 220180 | [220180-legions-of-chaos.json](./220180-legions-of-chaos.json) |
@@ -2424,6 +2426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let Your Egg People Grow Into Large Trees | 248804 | [248804-let-your-egg-people-grow-into-large-trees.json](./248804-let-your-egg-people-grow-into-large-trees.json) |
 | Let Yourself Out, Eddie Kaspbrak! | 158724 | [158724-let-yourself-out-eddie-kaspbrak.json](./158724-let-yourself-out-eddie-kaspbrak.json) |
 | Let's Aim Shooting Gallery | 308520 | [308520-lets-aim-shooting-gallery.json](./308520-lets-aim-shooting-gallery.json) |
+| Let's Aim! Crane Game | 407274 | [407274-lets-aim-crane-game.json](./407274-lets-aim-crane-game.json) |
 | Let's Aim! Ring Toss | 328506 | [328506-lets-aim-ring-toss.json](./328506-lets-aim-ring-toss.json) |
 | Let's Attack Crazy Cross | 283389 | [283389-lets-attack-crazy-cross.json](./283389-lets-attack-crazy-cross.json) |
 | Let's Be a Mouse | 273470 | [273470-lets-be-a-mouse.json](./273470-lets-be-a-mouse.json) |
@@ -3606,6 +3609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linear Doom | 217795 | [217795-linear-doom.json](./217795-linear-doom.json) |
 | Linear Racing | 195046 | [195046-linear-racing.json](./195046-linear-racing.json) |
 | Linear S | 349331 | [349331-linear-s.json](./349331-linear-s.json) |
+| LinearChicken | 97274 | [97274-linearchicken.json](./97274-linearchicken.json) |
 | LinearShooter Remixed | 186327 | [186327-linearshooter-remixed.json](./186327-linearshooter-remixed.json) |
 | LineArt Jigsaw Puzzle: Airplanes | 286239 | [286239-lineart-jigsaw-puzzle-airplanes.json](./286239-lineart-jigsaw-puzzle-airplanes.json) |
 | Linebound | 403778 | [403778-linebound.json](./403778-linebound.json) |
