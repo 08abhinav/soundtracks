@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youda Survivor 2 | 9302 | [9302-youda-survivor-2.json](./9302-youda-survivor-2.json) |
 | Youda Sushi Chef | 9301 | [9301-youda-sushi-chef.json](./9301-youda-sushi-chef.json) |
 | Youda Sushi Chef 2 | 9300 | [9300-youda-sushi-chef-2.json](./9300-youda-sushi-chef-2.json) |
+| YouFight | 74921 | [74921-youfight.json](./74921-youfight.json) |
 | Yougekitai: Jashin Koumaroku | 240216 | [240216-yougekitai-jashin-koumaroku.json](./240216-yougekitai-jashin-koumaroku.json) |
 | Yougen | 216807 | [216807-yougen.json](./216807-yougen.json) |
 | Youkai Club | 48598 | [48598-youkai-club.json](./48598-youkai-club.json) |
