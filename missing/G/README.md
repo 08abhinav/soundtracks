@@ -5696,6 +5696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Pull | 202172 | [202172-gravity-pull.json](./202172-gravity-pull.json) |
 | Gravity Racers | 379054 | [379054-gravity-racers.json](./379054-gravity-racers.json) |
 | Gravity Range | 175333 | [175333-gravity-range.json](./175333-gravity-range.json) |
+| Gravity Rider: Space Bike Racing Game Online | 108239 | [108239-gravity-rider-space-bike-racing-game-online.json](./108239-gravity-rider-space-bike-racing-game-online.json) |
 | Gravity Rubik's Cube | 151268 | [151268-gravity-rubiks-cube.json](./151268-gravity-rubiks-cube.json) |
 | Gravity run | 153432 | [153432-gravity-run.json](./153432-gravity-run.json) |
 | Gravity Rush | 11701 | [11701-gravity-rush.json](./11701-gravity-rush.json) |
@@ -6608,6 +6609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GT 64: Championship Edition | 3375 | [3375-gt-64-championship-edition.json](./3375-gt-64-championship-edition.json) |
 | GT and the Evil Factory | 141611 | [141611-gt-and-the-evil-factory.json](./141611-gt-and-the-evil-factory.json) |
 | GT and the Evil Factory | 295856 | [295856-gt-and-the-evil-factory.json](./295856-gt-and-the-evil-factory.json) |
+| GT Drift: Max Race Car | 108221 | [108221-gt-drift-max-race-car.json](./108221-gt-drift-max-race-car.json) |
 | GT Manager | 197317 | [197317-gt-manager.json](./197317-gt-manager.json) |
 | GT New Horizons | 204699 | [204699-gt-new-horizons.json](./204699-gt-new-horizons.json) |
 | GT Pro Series | 4899 | [4899-gt-pro-series.json](./4899-gt-pro-series.json) |
@@ -7042,6 +7044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumshoe | 18834 | [18834-gumshoe.json](./18834-gumshoe.json) |
 | Gumshoe Detective Agency: The First Case | 346629 | [346629-gumshoe-detective-agency-the-first-case.json](./346629-gumshoe-detective-agency-the-first-case.json) |
 | Gumslinger | 138594 | [138594-gumslinger.json](./138594-gumslinger.json) |
+| Gumstein: The Awakening | 108333 | [108333-gumstein-the-awakening.json](./108333-gumstein-the-awakening.json) |
 | Gumtrix | 60761 | [60761-gumtrix.json](./60761-gumtrix.json) |
 | Gun | 248547 | [248547-gun.json](./248547-gun.json) |
 | Gun & Girls.io | 200754 | [200754-gun-and-girls-io.json](./200754-gun-and-girls-io.json) |
