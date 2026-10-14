@@ -4846,6 +4846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Novath | 347766 | [347766-novath.json](./347766-novath.json) |
 | Novaxandria Volume 01 | 358447 | [358447-novaxandria-volume-01.json](./358447-novaxandria-volume-01.json) |
 | Novel Simulator | 392130 | [392130-novel-simulator.json](./392130-novel-simulator.json) |
+| Novelist Simulator | 79177 | [79177-novelist-simulator.json](./79177-novelist-simulator.json) |
 | Novels Rogue: Isekai Koshodo to Fuuin no Majo | 320827 | [320827-novels-rogue-isekai-koshodo-to-fuuin-no-majo.json](./320827-novels-rogue-isekai-koshodo-to-fuuin-no-majo.json) |
 | November | 255893 | [255893-november.json](./255893-november.json) |
 | November 5th | 262561 | [262561-november-5th.json](./262561-november-5th.json) |
