@@ -741,6 +741,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c71c30e2c43f93fb8a83b5c" width="60" /> | [Mortal Kombat 4](https://ostdb.net/games/mortal-kombat-4) | **Mortal Kombat 4 (Soundtrack from the Arcade Game) [2021 Remaster]** · [Spotify](https://open.spotify.com/album/00XgQ6LdIjos0omSgqfE3Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27312df1c30937734754238de99" width="60" /> | [Mortal Kombat X](https://ostdb.net/games/mortal-kombat-x) | **Mortal Kombat X (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4kvOe1lD5xYRrsv1QLkUhr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731ee1e664029dbbe5934534a8" width="60" /> | [Mouse: P.I. For Hire](https://ostdb.net/games/mouse-p-i-for-hire) | **Good Mouse (From the MOUSE: P.I. FOR HIRE Soundtrack)** · [Spotify](https://open.spotify.com/album/5zcY4YuuZjZTjmAwsgnvaa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734dfdfc9ce8c2674deea8d27b" width="60" /> | [My Time at Portia](https://ostdb.net/games/my-time-at-portia) | **My Time at Portia (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7qAGiWdfuT9l0PR0YfX9PF) |
 
 ### N
 
@@ -1309,4 +1310,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1626 soundtracks · last updated 2026-10-14T08:16:06.187Z_
+_1627 soundtracks · last updated 2026-10-14T08:16:14.316Z_
