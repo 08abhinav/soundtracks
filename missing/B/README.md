@@ -10414,6 +10414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge to Another World: Gulliver Syndrome - Collector's Edition | 397102 | [397102-bridge-to-another-world-gulliver-syndrome-collectors-edition.json](./397102-bridge-to-another-world-gulliver-syndrome-collectors-edition.json) |
 | Bridge to Another World: Secrets of the Nutcracker | 236819 | [236819-bridge-to-another-world-secrets-of-the-nutcracker.json](./236819-bridge-to-another-world-secrets-of-the-nutcracker.json) |
 | Bridge to Another World: The Others | 140289 | [140289-bridge-to-another-world-the-others.json](./140289-bridge-to-another-world-the-others.json) |
+| Bridge to Another World: The Others - Collector's Edition | 75655 | [75655-bridge-to-another-world-the-others-collectors-edition.json](./75655-bridge-to-another-world-the-others-collectors-edition.json) |
 | Bridge to Another World: Through the Looking Glass - Collector's Edition | 397098 | [397098-bridge-to-another-world-through-the-looking-glass-collectors-edition.json](./397098-bridge-to-another-world-through-the-looking-glass-collectors-edition.json) |
 | Bridge-It | 12983 | [12983-bridge-it.json](./12983-bridge-it.json) |
 | Bridge! | 36304 | [36304-bridge.json](./36304-bridge.json) |
