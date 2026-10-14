@@ -4262,6 +4262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Step: Fighting Souls | 196328 | [196328-first-step-fighting-souls.json](./196328-first-step-fighting-souls.json) |
 | First Steps | 263217 | [263217-first-steps.json](./263217-first-steps.json) |
 | First Steps in Learning About Pregnancy | 367040 | [367040-first-steps-in-learning-about-pregnancy.json](./367040-first-steps-in-learning-about-pregnancy.json) |
+| First Steps with the Mr. Men | 97797 | [97797-first-steps-with-the-mr-men.json](./97797-first-steps-with-the-mr-men.json) |
 | First Strike | 24942 | [24942-first-strike.json](./24942-first-strike.json) |
 | First Strike Final Hour | 29582 | [29582-first-strike-final-hour.json](./29582-first-strike-final-hour.json) |
 | First Strike: Multiplayer | 264248 | [264248-first-strike-multiplayer.json](./264248-first-strike-multiplayer.json) |
