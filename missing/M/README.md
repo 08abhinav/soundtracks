@@ -5764,6 +5764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memoria VR | 311793 | [311793-memoria-vr.json](./311793-memoria-vr.json) |
 | Memoria Wake | 348349 | [348349-memoria-wake.json](./348349-memoria-wake.json) |
 | Memorial Circuit | 297888 | [297888-memorial-circuit.json](./297888-memorial-circuit.json) |
+| Memorial Park of Hypoxia | 116884 | [116884-memorial-park-of-hypoxia.json](./116884-memorial-park-of-hypoxia.json) |
 | Memorial Pillage | 183462 | [183462-memorial-pillage.json](./183462-memorial-pillage.json) |
 | Memorial Playground | 229650 | [229650-memorial-playground.json](./229650-memorial-playground.json) |
 | Memorial Series: Sunsoft vol. 1 | 79347 | [79347-memorial-series-sunsoft-vol-1.json](./79347-memorial-series-sunsoft-vol-1.json) |
@@ -6138,6 +6139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Castle | 233448 | [233448-merge-castle.json](./233448-merge-castle.json) |
 | Merge Catgirl | 210316 | [210316-merge-catgirl.json](./210316-merge-catgirl.json) |
 | Merge Chess | 172007 | [172007-merge-chess.json](./172007-merge-chess.json) |
+| Merge Chicken | 116894 | [116894-merge-chicken.json](./116894-merge-chicken.json) |
 | Merge Circle | 262342 | [262342-merge-circle.json](./262342-merge-circle.json) |
 | Merge Circus | 285472 | [285472-merge-circus.json](./285472-merge-circus.json) |
 | Merge Clash | 202230 | [202230-merge-clash.json](./202230-merge-clash.json) |
@@ -8025,6 +8027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Sweeper Million | 300848 | [300848-mine-sweeper-million.json](./300848-mine-sweeper-million.json) |
 | Mine Swine | 179467 | [179467-mine-swine.json](./179467-mine-swine.json) |
 | Mine The Diamond | 245005 | [245005-mine-the-diamond.json](./245005-mine-the-diamond.json) |
+| Mine the Gold | 116776 | [116776-mine-the-gold.json](./116776-mine-the-gold.json) |
 | Mine Trap Reborn | 140509 | [140509-mine-trap-reborn.json](./140509-mine-trap-reborn.json) |
 | Mine Upgrade | 369585 | [369585-mine-upgrade.json](./369585-mine-upgrade.json) |
 | Mine Your Way Out 2 | 345623 | [345623-mine-your-way-out-2.json](./345623-mine-your-way-out-2.json) |
