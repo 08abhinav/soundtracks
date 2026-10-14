@@ -12509,6 +12509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sour Music Kart | 309606 | [309606-sour-music-kart.json](./309606-sour-music-kart.json) |
 | Sour Patch Kids: World Gone Sour | 52845 | [52845-sour-patch-kids-world-gone-sour.json](./52845-sour-patch-kids-world-gone-sour.json) |
 | Source | 80232 | [80232-source.json](./80232-source.json) |
+| Source beginning | 111434 | [111434-source-beginning.json](./111434-source-beginning.json) |
 | Source Code | 340199 | [340199-source-code.json](./340199-source-code.json) |
 | Source Control | 62734 | [62734-source-control.json](./62734-source-control.json) |
 | Sourcelight RPG | 174282 | [174282-sourcelight-rpg.json](./174282-sourcelight-rpg.json) |
@@ -13278,6 +13279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Station Sprint | 141140 | [141140-space-station-sprint.json](./141140-space-station-sprint.json) |
 | Space Station: Frontier | 233545 | [233545-space-station-frontier.json](./233545-space-station-frontier.json) |
 | Space Stella: The Unknown Planet | 187468 | [187468-space-stella-the-unknown-planet.json](./187468-space-stella-the-unknown-planet.json) |
+| Space Step: Heroes of the Earth | 111554 | [111554-space-step-heroes-of-the-earth.json](./111554-space-step-heroes-of-the-earth.json) |
 | Space Stone Smashing Simulator | 396582 | [396582-space-stone-smashing-simulator.json](./396582-space-stone-smashing-simulator.json) |
 | Space Storeship | 163849 | [163849-space-storeship.json](./163849-space-storeship.json) |
 | Space Storm | 377984 | [377984-space-storm.json](./377984-space-storm.json) |
@@ -13880,6 +13882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Overflow | 306537 | [306537-speed-overflow.json](./306537-speed-overflow.json) |
 | Speed Power Gunbike | 92832 | [92832-speed-power-gunbike.json](./92832-speed-power-gunbike.json) |
 | Speed Race DX | 342140 | [342140-speed-race-dx.json](./342140-speed-race-dx.json) |
+| Speed Racer | 111562 | [111562-speed-racer.json](./111562-speed-racer.json) |
 | Speed Racer | 245401 | [245401-speed-racer.json](./245401-speed-racer.json) |
 | Speed Racer Candy Tracks | 343895 | [343895-speed-racer-candy-tracks.json](./343895-speed-racer-candy-tracks.json) |
 | Speed Racing | 247060 | [247060-speed-racing.json](./247060-speed-racing.json) |
@@ -15050,6 +15053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot the Impossible with Common Sense! | 406072 | [406072-spot-the-impossible-with-common-sense.json](./406072-spot-the-impossible-with-common-sense.json) |
 | Spot The Object | 283376 | [283376-spot-the-object.json](./283376-spot-the-object.json) |
 | Spot the Odd! | 300831 | [300831-spot-the-odd.json](./300831-spot-the-odd.json) |
+| Spot the Oddity | 111516 | [111516-spot-the-oddity.json](./111516-spot-the-oddity.json) |
 | Spot the Wrong Character | 362361 | [362361-spot-the-wrong-character.json](./362361-spot-the-wrong-character.json) |
 | Spot Venture | 243170 | [243170-spot-venture.json](./243170-spot-venture.json) |
 | Spot Zero | 338744 | [338744-spot-zero.json](./338744-spot-zero.json) |
@@ -17717,6 +17721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Stunt Biker | 289564 | [289564-stick-stunt-biker.json](./289564-stick-stunt-biker.json) |
 | Stick Tennis | 277566 | [277566-stick-tennis.json](./277566-stick-tennis.json) |
 | Stick Tennis Tour | 261513 | [261513-stick-tennis-tour.json](./261513-stick-tennis-tour.json) |
+| Stick to the end | 111522 | [111522-stick-to-the-end.json](./111522-stick-to-the-end.json) |
 | Stick to the Plan | 234299 | [234299-stick-to-the-plan.json](./234299-stick-to-the-plan.json) |
 | Stick Tongue | 324346 | [324346-stick-tongue.json](./324346-stick-tongue.json) |
 | Stick Tower | 143433 | [143433-stick-tower.json](./143433-stick-tower.json) |
@@ -18261,6 +18266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Bird Island | 180590 | [180590-strange-bird-island.json](./180590-strange-bird-island.json) |
 | Strange Block 36 | 345069 | [345069-strange-block-36.json](./345069-strange-block-36.json) |
 | Strange Brigade: Deluxe Edition | 118899 | [118899-strange-brigade-deluxe-edition.json](./118899-strange-brigade-deluxe-edition.json) |
+| Strange Brigade: The Thrice Damned 2 - The Sunken Kingdom | 111557 | [111557-strange-brigade-the-thrice-damned-2-the-sunken-kingdom.json](./111557-strange-brigade-the-thrice-damned-2-the-sunken-kingdom.json) |
 | Strange Day | 365881 | [365881-strange-day.json](./365881-strange-day.json) |
 | Strange Hill | 263750 | [263750-strange-hill.json](./263750-strange-hill.json) |
 | Strange Horizons | 384499 | [384499-strange-horizons.json](./384499-strange-horizons.json) |
