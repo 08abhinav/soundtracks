@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.O.L. Surprise!: Laptop Divertido | 297739 | [297739-l-o-l-surprise-laptop-divertido.json](./297739-l-o-l-surprise-laptop-divertido.json) |
 | L.O.L. Surprise!: Laptop Tech | 297742 | [297742-l-o-l-surprise-laptop-tech.json](./297742-l-o-l-surprise-laptop-tech.json) |
 | L.S.S II | 220836 | [220836-l-s-s-ii.json](./220836-l-s-s-ii.json) |
+| L'Abbaye des Morts | 93452 | [93452-labbaye-des-morts.json](./93452-labbaye-des-morts.json) |
 | L'Affaire... | 53925 | [53925-laffaire.json](./53925-laffaire.json) |
 | L'Agonie Finale | 274115 | [274115-lagonie-finale.json](./274115-lagonie-finale.json) |
 | L'Ange et le Demon | 202682 | [202682-lange-et-le-demon.json](./202682-lange-et-le-demon.json) |
@@ -642,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Larry Bond's Harpoon 3: Advanced Naval Warfare | 130797 | [130797-larry-bonds-harpoon-3-advanced-naval-warfare.json](./130797-larry-bonds-harpoon-3-advanced-naval-warfare.json) |
 | Larry Bond's Harpoon Commander's Edition | 130796 | [130796-larry-bonds-harpoon-commanders-edition.json](./130796-larry-bonds-harpoon-commanders-edition.json) |
 | Larry Lotter and the Test of Time | 57096 | [57096-larry-lotter-and-the-test-of-time.json](./57096-larry-lotter-and-the-test-of-time.json) |
+| Larry Ragland's 4x4 Challenge | 93468 | [93468-larry-raglands-4x4-challenge.json](./93468-larry-raglands-4x4-challenge.json) |
 | Larry the Dinosaur 2: Something in the Cola | 217509 | [217509-larry-the-dinosaur-2-something-in-the-cola.json](./217509-larry-the-dinosaur-2-something-in-the-cola.json) |
 | Larry the Unlucky: Part 2 | 164602 | [164602-larry-the-unlucky-part-2.json](./164602-larry-the-unlucky-part-2.json) |
 | Larry: Wet Dreams Dry Twice | 200194 | [200194-larry-wet-dreams-dry-twice.json](./200194-larry-wet-dreams-dry-twice.json) |
