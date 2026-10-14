@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race to Sanity | 150746 | [150746-race-to-sanity.json](./150746-race-to-sanity.json) |
 | Race To The Sea | 372479 | [372479-race-to-the-sea.json](./372479-race-to-the-sea.json) |
 | Race Track Maniacs | 333527 | [333527-race-track-maniacs.json](./333527-race-track-maniacs.json) |
+| Race With Ryan | 122042 | [122042-race-with-ryan.json](./122042-race-with-ryan.json) |
 | Race With Ryan: Adventure Track Pack | 168140 | [168140-race-with-ryan-adventure-track-pack.json](./168140-race-with-ryan-adventure-track-pack.json) |
 | Race with Ryan: Road Trip - Deluxe Edition | 141036 | [141036-race-with-ryan-road-trip-deluxe-edition.json](./141036-race-with-ryan-road-trip-deluxe-edition.json) |
 | Race With Ryan: Surprise Track Pack | 197661 | [197661-race-with-ryan-surprise-track-pack.json](./197661-race-with-ryan-surprise-track-pack.json) |
@@ -423,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radial Fusion | 357306 | [357306-radial-fusion.json](./357306-radial-fusion.json) |
 | Radial Impact | 34819 | [34819-radial-impact.json](./34819-radial-impact.json) |
 | Radial-G: Proteus | 130820 | [130820-radial-g-proteus.json](./130820-radial-g-proteus.json) |
+| Radiance | 120096 | [120096-radiance.json](./120096-radiance.json) |
 | RadiAngel | 225745 | [225745-radiangel.json](./225745-radiangel.json) |
 | Radiant Baby | 185397 | [185397-radiant-baby.json](./185397-radiant-baby.json) |
 | Radiant Cell | 211140 | [211140-radiant-cell.json](./211140-radiant-cell.json) |
@@ -832,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain and Respite | 361031 | [361031-rain-and-respite.json](./361031-rain-and-respite.json) |
 | Rain Blood Chronicles: Mirage | 16548 | [16548-rain-blood-chronicles-mirage.json](./16548-rain-blood-chronicles-mirage.json) |
 | Rain Check | 319007 | [319007-rain-check.json](./319007-rain-check.json) |
+| Rain City | 120066 | [120066-rain-city.json](./120066-rain-city.json) |
 | Rain Debt | 396557 | [396557-rain-debt.json](./396557-rain-debt.json) |
 | Rain Games Steampunk Bundle | 154964 | [154964-rain-games-steampunk-bundle.json](./154964-rain-games-steampunk-bundle.json) |
 | Rain in the Abyss | 194611 | [194611-rain-in-the-abyss.json](./194611-rain-in-the-abyss.json) |
@@ -1790,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Zero Kara Hajimeru Isekai Seikatsu Infinity | 130366 | [130366-re-zero-kara-hajimeru-isekai-seikatsu-infinity.json](./130366-re-zero-kara-hajimeru-isekai-seikatsu-infinity.json) |
 | RE.CO.N. | 146353 | [146353-re-co-n.json](./146353-re-co-n.json) |
 | Re.dive Wonderland | 369110 | [369110-re-dive-wonderland.json](./369110-re-dive-wonderland.json) |
+| Re.Poly | 120675 | [120675-re-poly.json](./120675-re-poly.json) |
 | Re.wired | 270937 | [270937-re-wired.json](./270937-re-wired.json) |
 | Re/terra | 259049 | [259049-re-terra.json](./259049-re-terra.json) |
 | Re≒Connect Exit Loop | 288224 | [288224-re-connect-exit-loop.json](./288224-re-connect-exit-loop.json) |
@@ -2151,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reanimated | 274205 | [274205-reanimated.json](./274205-reanimated.json) |
 | Reanimation Inc. | 126514 | [126514-reanimation-inc.json](./126514-reanimation-inc.json) |
 | Reanimation Scheme | 158647 | [158647-reanimation-scheme.json](./158647-reanimation-scheme.json) |
+| Reap | 120644 | [120644-reap.json](./120644-reap.json) |
 | Reap and Sow | 202362 | [202362-reap-and-sow.json](./202362-reap-and-sow.json) |
 | Reap and Sow | 382396 | [382396-reap-and-sow.json](./382396-reap-and-sow.json) |
 | Reap What You Sow | 184995 | [184995-reap-what-you-sow.json](./184995-reap-what-you-sow.json) |
@@ -3451,6 +3456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repose | 272831 | [272831-repose.json](./272831-repose.json) |
 | Repossessed | 279738 | [279738-repossessed.json](./279738-repossessed.json) |
 | Repossession | 226180 | [226180-repossession.json](./226180-repossession.json) |
+| Repressed | 121352 | [121352-repressed.json](./121352-repressed.json) |
 | Reprisal Universe | 8871 | [8871-reprisal-universe.json](./8871-reprisal-universe.json) |
 | Reprobate | 230173 | [230173-reprobate.json](./230173-reprobate.json) |
 | Reprocessing | 399250 | [399250-reprocessing.json](./399250-reprocessing.json) |
@@ -4296,6 +4302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse Fantasy Legend 2 | 174795 | [174795-reverse-fantasy-legend-2.json](./174795-reverse-fantasy-legend-2.json) |
 | Reverse Horizons | 387017 | [387017-reverse-horizons.json](./387017-reverse-horizons.json) |
 | Reverse it, board game | 88262 | [88262-reverse-it-board-game.json](./88262-reverse-it-board-game.json) |
+| Reverse Me! Rez/Ru | 120058 | [120058-reverse-me-rez-ru.json](./120058-reverse-me-rez-ru.json) |
 | Reverse Memories | 143594 | [143594-reverse-memories.json](./143594-reverse-memories.json) |
 | Reverse Momories | 115622 | [115622-reverse-momories.json](./115622-reverse-momories.json) |
 | Reverse Problem | 326142 | [326142-reverse-problem.json](./326142-reverse-problem.json) |
@@ -6662,6 +6669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Stache | 31772 | [31772-rogue-stache.json](./31772-rogue-stache.json) |
 | Rogue Star ACE | 91334 | [91334-rogue-star-ace.json](./91334-rogue-star-ace.json) |
 | Rogue State | 20358 | [20358-rogue-state.json](./20358-rogue-state.json) |
+| Rogue State Revolution | 122070 | [122070-rogue-state-revolution.json](./122070-rogue-state-revolution.json) |
 | Rogue Stormers | 17374 | [17374-rogue-stormers.json](./17374-rogue-stormers.json) |
 | Rogue Survivalist | 277592 | [277592-rogue-survivalist.json](./277592-rogue-survivalist.json) |
 | Rogue Survivor | 80557 | [80557-rogue-survivor.json](./80557-rogue-survivor.json) |
@@ -6678,6 +6686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Warlords | 199340 | [199340-rogue-warlords.json](./199340-rogue-warlords.json) |
 | Rogue Warrior | 564 | [564-rogue-warrior.json](./564-rogue-warrior.json) |
 | Rogue Waters | 314422 | [314422-rogue-waters.json](./314422-rogue-waters.json) |
+| Rogue Waves | 122072 | [122072-rogue-waves.json](./122072-rogue-waves.json) |
 | Rogue Waves | 414345 | [414345-rogue-waves.json](./414345-rogue-waves.json) |
 | Rogue with the Dead | 248144 | [248144-rogue-with-the-dead.json](./248144-rogue-with-the-dead.json) |
 | Rogue Words | 353409 | [353409-rogue-words.json](./353409-rogue-words.json) |
@@ -7457,6 +7466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Round Mars | 93783 | [93783-round-mars.json](./93783-round-mars.json) |
 | Round My Corners | 301241 | [301241-round-my-corners.json](./301241-round-my-corners.json) |
 | Round Ogre | 201121 | [201121-round-ogre.json](./201121-round-ogre.json) |
+| Round Rooms | 120055 | [120055-round-rooms.json](./120055-round-rooms.json) |
 | Round Spike | 348954 | [348954-round-spike.json](./348954-round-spike.json) |
 | Round Table | 202719 | [202719-round-table.json](./202719-round-table.json) |
 | Round The U-Bend | 271306 | [271306-round-the-u-bend.json](./271306-round-the-u-bend.json) |
@@ -8094,8 +8104,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run, Vivian Run | 311238 | [311238-run-vivian-run.json](./311238-run-vivian-run.json) |
 | Run: The World In-Between | 145400 | [145400-run-the-world-in-between.json](./145400-run-the-world-in-between.json) |
 | Run! | 100256 | [100256-run.json](./100256-run.json) |
+| Run! | 120673 | [120673-run.json](./120673-run.json) |
 | Run! | 219064 | [219064-run.json](./219064-run.json) |
 | Run! Bunny | 120922 | [120922-run-bunny.json](./120922-run-bunny.json) |
+| Run! Bunny | 121363 | [121363-run-bunny.json](./121363-run-bunny.json) |
 | Run! Goddess | 338796 | [338796-run-goddess.json](./338796-run-goddess.json) |
 | Run! Run! Don't Die! | 329942 | [329942-run-run-dont-die.json](./329942-run-run-dont-die.json) |
 | Run!!! | 148492 | [148492-run.json](./148492-run.json) |
@@ -8346,6 +8358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Rush Rally Reloaded | 56424 | [56424-rush-rush-rally-reloaded.json](./56424-rush-rush-rally-reloaded.json) |
 | Rush to Adventure | 55225 | [55225-rush-to-adventure.json](./55225-rush-to-adventure.json) |
 | Rush Troopers | 184657 | [184657-rush-troopers.json](./184657-rush-troopers.json) |
+| Rush Wars | 122044 | [122044-rush-wars.json](./122044-rush-wars.json) |
 | Rush!!! | 167260 | [167260-rush.json](./167260-rush.json) |
 | Rush'n Attack | 287587 | [287587-rushn-attack.json](./287587-rushn-attack.json) |
 | Rush'n Attack | 90990 | [90990-rushn-attack.json](./90990-rushn-attack.json) |
