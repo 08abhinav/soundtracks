@@ -6144,6 +6144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homefront: The Revolution - Beyond the Walls | 53207 | [53207-homefront-the-revolution-beyond-the-walls.json](./53207-homefront-the-revolution-beyond-the-walls.json) |
 | Homefront: The Revolution - Day One Edition | 136163 | [136163-homefront-the-revolution-day-one-edition.json](./136163-homefront-the-revolution-day-one-edition.json) |
 | Homefront: The Revolution - Freedom Fighter Bundle | 185979 | [185979-homefront-the-revolution-freedom-fighter-bundle.json](./185979-homefront-the-revolution-freedom-fighter-bundle.json) |
+| Homefront: The Revolution - Goliath Edition | 89840 | [89840-homefront-the-revolution-goliath-edition.json](./89840-homefront-the-revolution-goliath-edition.json) |
 | Homefront: The Revolution - The Voice Of Freedom | 53205 | [53205-homefront-the-revolution-the-voice-of-freedom.json](./53205-homefront-the-revolution-the-voice-of-freedom.json) |
 | Homefront: The Rock Map Pack | 224224 | [224224-homefront-the-rock-map-pack.json](./224224-homefront-the-rock-map-pack.json) |
 | Homehead | 346023 | [346023-homehead.json](./346023-homehead.json) |
