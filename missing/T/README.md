@@ -17146,7 +17146,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk: Shred | 5230 | [5230-tony-hawk-shred.json](./5230-tony-hawk-shred.json) |
 | Tony Hawk's American Sk8land | 364480 | [364480-tony-hawks-american-sk8land.json](./364480-tony-hawks-american-sk8land.json) |
 | Tony Hawk's American Sk8land | 6643 | [6643-tony-hawks-american-sk8land.json](./6643-tony-hawks-american-sk8land.json) |
-| Tony Hawk's American Wasteland | 7219 | [7219-tony-hawks-american-wasteland.json](./7219-tony-hawks-american-wasteland.json) |
 | Tony Hawk's Existential Nightmare | 178029 | [178029-tony-hawks-existential-nightmare.json](./178029-tony-hawks-existential-nightmare.json) |
 | Tony Hawk's Pro Skater | 6692 | [6692-tony-hawks-pro-skater.json](./6692-tony-hawks-pro-skater.json) |
 | Tony Hawk's Pro Skater 1+2: Digital Deluxe Edition | 139878 | [139878-tony-hawks-pro-skater-1-2-digital-deluxe-edition.json](./139878-tony-hawks-pro-skater-1-2-digital-deluxe-edition.json) |
