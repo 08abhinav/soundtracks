@@ -2971,6 +2971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otaku's Rage: Waifu Strikes Back | 144368 | [144368-otakus-rage-waifu-strikes-back.json](./144368-otakus-rage-waifu-strikes-back.json) |
 | Otakus Don't Want to Fall in Love | 303295 | [303295-otakus-dont-want-to-fall-in-love.json](./303295-otakus-dont-want-to-fall-in-love.json) |
 | Otar Island | 380769 | [380769-otar-island.json](./380769-otar-island.json) |
+| Otenba Becky no Daibouken | 131894 | [131894-otenba-becky-no-daibouken.json](./131894-otenba-becky-no-daibouken.json) |
 | Otenki Kororin: Weather Tales | 299832 | [299832-otenki-kororin-weather-tales.json](./299832-otenki-kororin-weather-tales.json) |
 | Othello | 134419 | [134419-othello.json](./134419-othello.json) |
 | Othello | 25159 | [25159-othello.json](./25159-othello.json) |
@@ -3134,6 +3135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oukoku no Dougu-ya-san | 222533 | [222533-oukoku-no-dougu-ya-san.json](./222533-oukoku-no-dougu-ya-san.json) |
 | Oukoku no Grand Chef | 137625 | [137625-oukoku-no-grand-chef.json](./137625-oukoku-no-grand-chef.json) |
 | Oukyuu no Hihou: Tenshon | 241893 | [241893-oukyuu-no-hihou-tenshon.json](./241893-oukyuu-no-hihou-tenshon.json) |
+| Ouma ga Toki: Kakuriyo no Enishi | 131909 | [131909-ouma-ga-toki-kakuriyo-no-enishi.json](./131909-ouma-ga-toki-kakuriyo-no-enishi.json) |
 | Oumagatoki: Kaidan Romance | 219135 | [219135-oumagatoki-kaidan-romance.json](./219135-oumagatoki-kaidan-romance.json) |
 | OuO | 174781 | [174781-ouo.json](./174781-ouo.json) |
 | Our Adventure Time | 178549 | [178549-our-adventure-time.json](./178549-our-adventure-time.json) |
