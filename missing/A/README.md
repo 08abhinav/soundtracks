@@ -1452,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Puzzle Bobble | 113438 | [113438-aca-neo-geo-puzzle-bobble.json](./113438-aca-neo-geo-puzzle-bobble.json) |
 | ACA Neo Geo: Ragnagard | 113552 | [113552-aca-neo-geo-ragnagard.json](./113552-aca-neo-geo-ragnagard.json) |
 | ACA Neo Geo: Real Bout Fatal Fury | 90199 | [90199-aca-neo-geo-real-bout-fatal-fury.json](./90199-aca-neo-geo-real-bout-fatal-fury.json) |
+| ACA Neo Geo: Riding Hero | 103942 | [103942-aca-neo-geo-riding-hero.json](./103942-aca-neo-geo-riding-hero.json) |
 | ACA Neo Geo: Samurai Shodown V Special | 117520 | [117520-aca-neo-geo-samurai-shodown-v-special.json](./117520-aca-neo-geo-samurai-shodown-v-special.json) |
 | ACA Neo Geo: Sengoku 3 | 104269 | [104269-aca-neo-geo-sengoku-3.json](./104269-aca-neo-geo-sengoku-3.json) |
 | ACA Neo Geo: Shock Troopers | 28412 | [28412-aca-neo-geo-shock-troopers.json](./28412-aca-neo-geo-shock-troopers.json) |
@@ -8197,6 +8198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Legends: Sega Genesis Volume 3 - Super Sonic Gold | 202261 | [202261-arcade-legends-sega-genesis-volume-3-super-sonic-gold.json](./202261-arcade-legends-sega-genesis-volume-3-super-sonic-gold.json) |
 | Arcade Legends: Space Invaders | 245963 | [245963-arcade-legends-space-invaders.json](./245963-arcade-legends-space-invaders.json) |
 | Arcade Lines | 76713 | [76713-arcade-lines.json](./76713-arcade-lines.json) |
+| Arcade Love | 103951 | [103951-arcade-love.json](./103951-arcade-love.json) |
 | Arcade Love: Plus Pengo! | 120285 | [120285-arcade-love-plus-pengo.json](./120285-arcade-love-plus-pengo.json) |
 | Arcade Machine: Clown Hunt | 232991 | [232991-arcade-machine-clown-hunt.json](./232991-arcade-machine-clown-hunt.json) |
 | Arcade Machine: Gopher's Revenge | 224986 | [224986-arcade-machine-gophers-revenge.json](./224986-arcade-machine-gophers-revenge.json) |
