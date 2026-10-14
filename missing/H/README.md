@@ -1198,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Head 2 | 40180 | [40180-hard-head-2.json](./40180-hard-head-2.json) |
 | Hard Helmets | 99596 | [99596-hard-helmets.json](./99596-hard-helmets.json) |
 | Hard Hero | 263504 | [263504-hard-hero.json](./263504-hard-hero.json) |
+| Hard Karma | 112787 | [112787-hard-karma.json](./112787-hard-karma.json) |
 | Hard Knock High | 43350 | [43350-hard-knock-high.json](./43350-hard-knock-high.json) |
 | Hard Lads | 135305 | [135305-hard-lads.json](./135305-hard-lads.json) |
 | Hard Landing | 212179 | [212179-hard-landing.json](./212179-hard-landing.json) |
@@ -1770,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Legends: The Bronze Horseman | 139202 | [139202-haunted-legends-the-bronze-horseman.json](./139202-haunted-legends-the-bronze-horseman.json) |
 | Haunted Legends: The Bronze Horseman - Collector's Edition | 28688 | [28688-haunted-legends-the-bronze-horseman-collectors-edition.json](./28688-haunted-legends-the-bronze-horseman-collectors-edition.json) |
 | Haunted Legends: The Dark Wishes | 139203 | [139203-haunted-legends-the-dark-wishes.json](./139203-haunted-legends-the-dark-wishes.json) |
+| Haunted Legends: The Dark Wishes - Collector's Edition | 112791 | [112791-haunted-legends-the-dark-wishes-collectors-edition.json](./112791-haunted-legends-the-dark-wishes-collectors-edition.json) |
 | Haunted Legends: The Queen of Spades | 139204 | [139204-haunted-legends-the-queen-of-spades.json](./139204-haunted-legends-the-queen-of-spades.json) |
 | Haunted Legends: The Queen of Spades - Collector's Edition | 31067 | [31067-haunted-legends-the-queen-of-spades-collectors-edition.json](./31067-haunted-legends-the-queen-of-spades-collectors-edition.json) |
 | Haunted Legends: The Scars of Lamia | 139205 | [139205-haunted-legends-the-scars-of-lamia.json](./139205-haunted-legends-the-scars-of-lamia.json) |
@@ -3480,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Series: Classic | 236188 | [236188-hentai-series-classic.json](./236188-hentai-series-classic.json) |
 | Hentai Sexy Nurse | 411074 | [411074-hentai-sexy-nurse.json](./411074-hentai-sexy-nurse.json) |
 | Hentai Sexy Nurses | 222284 | [222284-hentai-sexy-nurses.json](./222284-hentai-sexy-nurses.json) |
+| Hentai Shadow | 112839 | [112839-hentai-shadow.json](./112839-hentai-shadow.json) |
 | Hentai Shibari | 371359 | [371359-hentai-shibari.json](./371359-hentai-shibari.json) |
 | Hentai Shion | 411066 | [411066-hentai-shion.json](./411066-hentai-shion.json) |
 | Hentai Shiri | 368007 | [368007-hentai-shiri.json](./368007-hentai-shiri.json) |
@@ -4750,6 +4753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Portals: Chronicles of the Sunbound - Collector's Edition | 396600 | [396600-hidden-portals-chronicles-of-the-sunbound-collectors-edition.json](./396600-hidden-portals-chronicles-of-the-sunbound-collectors-edition.json) |
 | Hidden Portals: Eternal Balance | 416701 | [416701-hidden-portals-eternal-balance.json](./416701-hidden-portals-eternal-balance.json) |
 | Hidden Portals: Eternal Balance - Collector's Edition | 349476 | [349476-hidden-portals-eternal-balance-collectors-edition.json](./349476-hidden-portals-eternal-balance-collectors-edition.json) |
+| Hidden Protector | 112714 | [112714-hidden-protector.json](./112714-hidden-protector.json) |
 | Hidden Rabbit 2 | 412386 | [412386-hidden-rabbit-2.json](./412386-hidden-rabbit-2.json) |
 | Hidden Raccoons | 389738 | [389738-hidden-raccoons.json](./389738-hidden-raccoons.json) |
 | Hidden Raccoons in Asia | 403185 | [403185-hidden-raccoons-in-asia.json](./403185-hidden-raccoons-in-asia.json) |
@@ -6807,6 +6811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hostile Mars | 151031 | [151031-hostile-mars.json](./151031-hostile-mars.json) |
 | Hostile Space Revived | 97973 | [97973-hostile-space-revived.json](./97973-hostile-space-revived.json) |
 | Hostile Takeover | 182754 | [182754-hostile-takeover.json](./182754-hostile-takeover.json) |
+| Hostile User Interface | 112794 | [112794-hostile-user-interface.json](./112794-hostile-user-interface.json) |
 | Hostile Waters | 308449 | [308449-hostile-waters.json](./308449-hostile-waters.json) |
 | Hosting Simulator: 2026 | 406312 | [406312-hosting-simulator-2026.json](./406312-hosting-simulator-2026.json) |
 | Hostyle | 397700 | [397700-hostyle.json](./397700-hostyle.json) |
@@ -6858,6 +6863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Dot! | 267339 | [267339-hot-dot.json](./267339-hot-dot.json) |
 | Hot Drop | 246339 | [246339-hot-drop.json](./246339-hot-drop.json) |
 | Hot Farm Africa | 54082 | [54082-hot-farm-africa.json](./54082-hot-farm-africa.json) |
+| Hot Fit! | 112836 | [112836-hot-fit.json](./112836-hot-fit.json) |
 | Hot Foot | 318408 | [318408-hot-foot.json](./318408-hot-foot.json) |
 | Hot Garbage: A Keysmash Story | 183571 | [183571-hot-garbage-a-keysmash-story.json](./183571-hot-garbage-a-keysmash-story.json) |
 | Hot Girls | 344570 | [344570-hot-girls.json](./344570-hot-girls.json) |
@@ -7113,6 +7119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Houchi City | 249180 | [249180-houchi-city.json](./249180-houchi-city.json) |
 | Houdini Master of the Extraordinary 1: The Temple of the Serpent | 218136 | [218136-houdini-master-of-the-extraordinary-1-the-temple-of-the-serpent.json](./218136-houdini-master-of-the-extraordinary-1-the-temple-of-the-serpent.json) |
 | Houdini Redux | 118805 | [118805-houdini-redux.json](./118805-houdini-redux.json) |
+| Houdini's Castle | 112790 | [112790-houdinis-castle.json](./112790-houdinis-castle.json) |
 | Houkago Cinderella | 182470 | [182470-houkago-cinderella.json](./182470-houkago-cinderella.json) |
 | Houkago Cinderella 2 Mini Fandisk: Kimi to Odoru Hajimete no Happy Halloween | 377773 | [377773-houkago-cinderella-2-mini-fandisk-kimi-to-odoru-hajimete-no-happy-halloween.json](./377773-houkago-cinderella-2-mini-fandisk-kimi-to-odoru-hajimete-no-happy-halloween.json) |
 | Houkago Cinderella Mini Fandisk: Anata to Kaeru Saigo no Gekoudou | 377772 | [377772-houkago-cinderella-mini-fandisk-anata-to-kaeru-saigo-no-gekoudou.json](./377772-houkago-cinderella-mini-fandisk-anata-to-kaeru-saigo-no-gekoudou.json) |
@@ -8344,6 +8351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperhell | 235965 | [235965-hyperhell.json](./235965-hyperhell.json) |
 | Hyperide | 131423 | [131423-hyperide.json](./131423-hyperide.json) |
 | Hyperide VR | 75024 | [75024-hyperide-vr.json](./75024-hyperide-vr.json) |
+| Hyperide: Vector Raid | 112815 | [112815-hyperide-vector-raid.json](./112815-hyperide-vector-raid.json) |
 | Hyperkidmorph2mr.gunner | 336110 | [336110-hyperkidmorph2mr-gunner.json](./336110-hyperkidmorph2mr-gunner.json) |
 | Hyperlane Highway | 395812 | [395812-hyperlane-highway.json](./395812-hyperlane-highway.json) |
 | HyperLeague Heroes | 191179 | [191179-hyperleague-heroes.json](./191179-hyperleague-heroes.json) |
