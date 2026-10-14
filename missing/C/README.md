@@ -2458,7 +2458,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Clinic Simulator: Vet Hospital | 364075 | [364075-cat-clinic-simulator-vet-hospital.json](./364075-cat-clinic-simulator-vet-hospital.json) |
 | Cat Cosmic Puzzle | 347317 | [347317-cat-cosmic-puzzle.json](./347317-cat-cosmic-puzzle.json) |
 | Cat Couple | 334804 | [334804-cat-couple.json](./334804-cat-couple.json) |
-| Cat Craft | 404190 | [404190-cat-craft.json](./404190-cat-craft.json) |
 | Cat Crisis | 412438 | [412438-cat-crisis.json](./412438-cat-crisis.json) |
 | Cat Dance | 178007 | [178007-cat-dance.json](./178007-cat-dance.json) |
 | Cat Dash Go | 236232 | [236232-cat-dash-go.json](./236232-cat-dash-go.json) |
@@ -4713,6 +4712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children's Garden | 323505 | [323505-childrens-garden.json](./323505-childrens-garden.json) |
 | Children's Jigsaw Puzzles: Beautifully Illustrated - Expansion Pack | 225859 | [225859-childrens-jigsaw-puzzles-beautifully-illustrated-expansion-pack.json](./225859-childrens-jigsaw-puzzles-beautifully-illustrated-expansion-pack.json) |
 | Children's Musical Theatre | 45894 | [45894-childrens-musical-theatre.json](./45894-childrens-musical-theatre.json) |
+| Chili the Chipmunk Pinball Adventure | 116188 | [116188-chili-the-chipmunk-pinball-adventure.json](./116188-chili-the-chipmunk-pinball-adventure.json) |
 | Chili's Big Smasher BurgerTime | 307261 | [307261-chilis-big-smasher-burgertime.json](./307261-chilis-big-smasher-burgertime.json) |
 | Chilie Peppers | 82004 | [82004-chilie-peppers.json](./82004-chilie-peppers.json) |
 | Chill | 79608 | [79608-chill.json](./79608-chill.json) |
@@ -7755,7 +7755,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Math | 89573 | [89573-color-math.json](./89573-color-math.json) |
 | Color Maze | 184114 | [184114-color-maze.json](./184114-color-maze.json) |
 | Color Me !!! for Mac | 99375 | [99375-color-me-for-mac.json](./99375-color-me-for-mac.json) |
-| Color Move 2 | 407246 | [407246-color-move-2.json](./407246-color-move-2.json) |
 | Color Muse | 368618 | [368618-color-muse.json](./368618-color-muse.json) |
 | Color Ninjas | 181782 | [181782-color-ninjas.json](./181782-color-ninjas.json) |
 | Color Objects For Kids | 89645 | [89645-color-objects-for-kids.json](./89645-color-objects-for-kids.json) |
