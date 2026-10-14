@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JDM Racing 2 | 147853 | [147853-jdm-racing-2.json](./147853-jdm-racing-2.json) |
 | Jealousy Duel X | 93347 | [93347-jealousy-duel-x.json](./93347-jealousy-duel-x.json) |
 | Jeam's Big Day | 185606 | [185606-jeams-big-day.json](./185606-jeams-big-day.json) |
+| Jean's Boutique 2 | 95912 | [95912-jeans-boutique-2.json](./95912-jeans-boutique-2.json) |
 | Jean's Club | 197845 | [197845-jeans-club.json](./197845-jeans-club.json) |
 | Jected: Rivals | 206966 | [206966-jected-rivals.json](./206966-jected-rivals.json) |
 | Jected: Rivals - Expansion Pack | 271144 | [271144-jected-rivals-expansion-pack.json](./271144-jected-rivals-expansion-pack.json) |
