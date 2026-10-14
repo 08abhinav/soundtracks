@@ -1688,6 +1688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Rogue | 113638 | [113638-immortal-rogue.json](./113638-immortal-rogue.json) |
 | Immortal Seeker | 370882 | [370882-immortal-seeker.json](./370882-immortal-seeker.json) |
 | Immortal Snake Nest | 282845 | [282845-immortal-snake-nest.json](./282845-immortal-snake-nest.json) |
+| Immortal Souls: John Turner #1 | 92399 | [92399-immortal-souls-john-turner-1.json](./92399-immortal-souls-john-turner-1.json) |
 | Immortal Space God | 164893 | [164893-immortal-space-god.json](./164893-immortal-space-god.json) |
 | Immortal Tactics: War of the Eternals | 192756 | [192756-immortal-tactics-war-of-the-eternals.json](./192756-immortal-tactics-war-of-the-eternals.json) |
 | Immortal Tales of Rebirth | 231852 | [231852-immortal-tales-of-rebirth.json](./231852-immortal-tales-of-rebirth.json) |
@@ -3790,6 +3791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ionization | 316776 | [316776-ionization.json](./316776-ionization.json) |
 | Ionscape | 240199 | [240199-ionscape.json](./240199-ionscape.json) |
 | Ioo | 267456 | [267456-ioo.json](./267456-ioo.json) |
+| Iootp | 92390 | [92390-iootp.json](./92390-iootp.json) |
 | Ioretin | 349848 | [349848-ioretin.json](./349848-ioretin.json) |
 | Iosis | 224634 | [224634-iosis.json](./224634-iosis.json) |
 | IOSoccer | 82994 | [82994-iosoccer.json](./82994-iosoccer.json) |
