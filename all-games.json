@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T19:00:46.459Z",
-  "total_soundtracks": 1649,
+  "generated_at": "2026-10-14T21:10:47.426Z",
+  "total_soundtracks": 1650,
   "games": [
     {
       "igdb_id": 7522,
@@ -17797,6 +17797,20 @@
           "spotify_url": "https://open.spotify.com/album/546P1fkMWTbVjeCMivORqf",
           "apple_music_url": "https://music.apple.com/us/album/unpacking-original-game-soundtrack/1589277535",
           "album_link_url": "https://album.link/i/1589277535"
+        }
+      ]
+    },
+    {
+      "igdb_id": 115201,
+      "game_name": "Unrailed!",
+      "game_url": "https://ostdb.net/games/unrailed",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ed4ab936702d446c9c3eac1e",
+      "albums": [
+        {
+          "album_name": "Unrailed! (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6g4iLG9fCzJuIKlsXKk6Y3",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
