@@ -1445,6 +1445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Pleasure Goal - 5 on 5 Mini Soccer | 111644 | [111644-aca-neo-geo-pleasure-goal-5-on-5-mini-soccer.json](./111644-aca-neo-geo-pleasure-goal-5-on-5-mini-soccer.json) |
 | ACA Neo Geo: Power Spikes II | 82392 | [82392-aca-neo-geo-power-spikes-ii.json](./82392-aca-neo-geo-power-spikes-ii.json) |
 | ACA Neo Geo: Puzzle Bobble | 113438 | [113438-aca-neo-geo-puzzle-bobble.json](./113438-aca-neo-geo-puzzle-bobble.json) |
+| ACA Neo Geo: Ragnagard | 113552 | [113552-aca-neo-geo-ragnagard.json](./113552-aca-neo-geo-ragnagard.json) |
 | ACA Neo Geo: Real Bout Fatal Fury | 90199 | [90199-aca-neo-geo-real-bout-fatal-fury.json](./90199-aca-neo-geo-real-bout-fatal-fury.json) |
 | ACA Neo Geo: Samurai Shodown V Special | 117520 | [117520-aca-neo-geo-samurai-shodown-v-special.json](./117520-aca-neo-geo-samurai-shodown-v-special.json) |
 | ACA Neo Geo: Sengoku 3 | 104269 | [104269-aca-neo-geo-sengoku-3.json](./104269-aca-neo-geo-sengoku-3.json) |
@@ -4417,6 +4418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens and Asteroids | 296515 | [296515-aliens-and-asteroids.json](./296515-aliens-and-asteroids.json) |
 | Aliens Are Rude! | 95200 | [95200-aliens-are-rude.json](./95200-aliens-are-rude.json) |
 | Aliens Ate My Boyfriend | 212687 | [212687-aliens-ate-my-boyfriend.json](./212687-aliens-ate-my-boyfriend.json) |
+| Aliens Don't Exist | 113526 | [113526-aliens-dont-exist.json](./113526-aliens-dont-exist.json) |
 | Aliens Doom 3: Aliens vs Predator | 381150 | [381150-aliens-doom-3-aliens-vs-predator.json](./381150-aliens-doom-3-aliens-vs-predator.json) |
 | Aliens Go Home Run! | 26835 | [26835-aliens-go-home-run.json](./26835-aliens-go-home-run.json) |
 | Aliens Hide | 419965 | [419965-aliens-hide.json](./419965-aliens-hide.json) |
@@ -7876,6 +7878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Armadillo Racing | 411152 | [411152-arcade-archives-armadillo-racing.json](./411152-arcade-archives-armadillo-racing.json) |
 | Arcade Archives: Armed F | 99546 | [99546-arcade-archives-armed-f.json](./99546-arcade-archives-armed-f.json) |
 | Arcade Archives: Assault | 218969 | [218969-arcade-archives-assault.json](./218969-arcade-archives-assault.json) |
+| Arcade Archives: Athena | 113437 | [113437-arcade-archives-athena.json](./113437-arcade-archives-athena.json) |
 | Arcade Archives: Atomic Robo-Kid | 121428 | [121428-arcade-archives-atomic-robo-kid.json](./121428-arcade-archives-atomic-robo-kid.json) |
 | Arcade Archives: Bells & Whistles | 129192 | [129192-arcade-archives-bells-and-whistles.json](./129192-arcade-archives-bells-and-whistles.json) |
 | Arcade Archives: Ben Bero Beh | 144801 | [144801-arcade-archives-ben-bero-beh.json](./144801-arcade-archives-ben-bero-beh.json) |
@@ -7912,6 +7915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Dead Connection | 334087 | [334087-arcade-archives-dead-connection.json](./334087-arcade-archives-dead-connection.json) |
 | Arcade Archives: Dinorex | 276863 | [276863-arcade-archives-dinorex.json](./276863-arcade-archives-dinorex.json) |
 | Arcade Archives: Donkey Kong 3 | 117018 | [117018-arcade-archives-donkey-kong-3.json](./117018-arcade-archives-donkey-kong-3.json) |
+| Arcade Archives: Donkey Kong Jr. | 113436 | [113436-arcade-archives-donkey-kong-jr.json](./113436-arcade-archives-donkey-kong-jr.json) |
 | Arcade Archives: Double Dragon II - The Revenge | 99570 | [99570-arcade-archives-double-dragon-ii-the-revenge.json](./99570-arcade-archives-double-dragon-ii-the-revenge.json) |
 | Arcade Archives: Dragon Buster | 186560 | [186560-arcade-archives-dragon-buster.json](./186560-arcade-archives-dragon-buster.json) |
 | Arcade Archives: Dragon Saber | 209646 | [209646-arcade-archives-dragon-saber.json](./209646-arcade-archives-dragon-saber.json) |
