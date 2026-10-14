@@ -539,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bacterial Takeover - Idle game | 257373 | [257373-bacterial-takeover-idle-game.json](./257373-bacterial-takeover-idle-game.json) |
 | Bacterian | 347370 | [347370-bacterian.json](./347370-bacterian.json) |
 | Bacteriophage | 197948 | [197948-bacteriophage.json](./197948-bacteriophage.json) |
+| Bacterium | 107023 | [107023-bacterium.json](./107023-bacterium.json) |
 | Bactory | 413612 | [413612-bactory.json](./413612-bactory.json) |
 | Bactron | 37076 | [37076-bactron.json](./37076-bactron.json) |
 | Baculus | 140599 | [140599-baculus.json](./140599-baculus.json) |
