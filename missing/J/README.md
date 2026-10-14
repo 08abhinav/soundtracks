@@ -675,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Jump | 147411 | [147411-jelly-jump.json](./147411-jelly-jump.json) |
 | Jelly Killer | 33538 | [33538-jelly-killer.json](./33538-jelly-killer.json) |
 | Jelly Lab Reloaded | 246082 | [246082-jelly-lab-reloaded.json](./246082-jelly-lab-reloaded.json) |
+| Jelly Lam | 102037 | [102037-jelly-lam.json](./102037-jelly-lam.json) |
 | Jelly Monsters | 60573 | [60573-jelly-monsters.json](./60573-jelly-monsters.json) |
 | Jelly no Puzzle | 141197 | [141197-jelly-no-puzzle.json](./141197-jelly-no-puzzle.json) |
 | Jelly Pops | 22934 | [22934-jelly-pops.json](./22934-jelly-pops.json) |
