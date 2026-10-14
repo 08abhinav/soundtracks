@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T21:25:46.268Z",
-  "total_soundtracks": 1654,
+  "generated_at": "2026-10-14T21:26:01.043Z",
+  "total_soundtracks": 1655,
   "games": [
     {
       "igdb_id": 7522,
@@ -2128,6 +2128,20 @@
           "album_name": "Bioshock Infinite - After You've Gone - Main Theme",
           "spotify_url": "https://open.spotify.com/album/477Zdh9sUk9wKxjXw7zemx",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 6246,
+      "game_name": "Bit.Trip Runner",
+      "game_url": "https://ostdb.net/games/bit-trip-runner",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734b65c5ac9701f3c6e0aa100e",
+      "albums": [
+        {
+          "album_name": "Bit.Trip Runner Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/4a6ic052EbieMeZUIsSE7v",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
