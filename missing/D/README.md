@@ -8156,6 +8156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Go Bang! | 24966 | [24966-dont-go-bang.json](./24966-dont-go-bang.json) |
 | Don't Go in the woods | 285443 | [285443-dont-go-in-the-woods.json](./285443-dont-go-in-the-woods.json) |
 | Don't Go Live | 399210 | [399210-dont-go-live.json](./399210-dont-go-live.json) |
+| Don't Go Maki-chan | 82715 | [82715-dont-go-maki-chan.json](./82715-dont-go-maki-chan.json) |
 | Don't Go Up There | 387546 | [387546-dont-go-up-there.json](./387546-dont-go-up-there.json) |
 | Don't Go, Pikachu! | 250496 | [250496-dont-go-pikachu.json](./250496-dont-go-pikachu.json) |
 | Don't Grind | 96894 | [96894-dont-grind.json](./96894-dont-grind.json) |
