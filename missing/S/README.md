@@ -12699,6 +12699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Beret | 30794 | [30794-space-beret.json](./30794-space-beret.json) |
 | Space Berserker | 82929 | [82929-space-berserker.json](./82929-space-berserker.json) |
 | Space Betrayers | 188068 | [188068-space-betrayers.json](./188068-space-betrayers.json) |
+| Space Between Worlds | 108306 | [108306-space-between-worlds.json](./108306-space-between-worlds.json) |
 | Space Blast Zom A Matching Game | 147642 | [147642-space-blast-zom-a-matching-game.json](./147642-space-blast-zom-a-matching-game.json) |
 | Space Blaster (Lines) | 169881 | [169881-space-blaster-lines.json](./169881-space-blaster-lines.json) |
 | Space Blasters | 346769 | [346769-space-blasters.json](./346769-space-blasters.json) |
@@ -18836,6 +18837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Bowling | 40433 | [40433-strike-bowling.json](./40433-strike-bowling.json) |
 | Strike Buster | 339656 | [339656-strike-buster.json](./339656-strike-buster.json) |
 | Strike Buster Prototype | 149010 | [149010-strike-buster-prototype.json](./149010-strike-buster-prototype.json) |
+| Strike Cars | 108331 | [108331-strike-cars.json](./108331-strike-cars.json) |
 | Strike City | 410390 | [410390-strike-city.json](./410390-strike-city.json) |
 | Strike Commander and Privateer TwinPack | 72134 | [72134-strike-commander-and-privateer-twinpack.json](./72134-strike-commander-and-privateer-twinpack.json) |
 | Strike Commander: Tactical Operations | 70914 | [70914-strike-commander-tactical-operations.json](./70914-strike-commander-tactical-operations.json) |
@@ -22296,6 +22298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superhero-X | 138032 | [138032-superhero-x.json](./138032-superhero-x.json) |
 | Superheroes Academy | 191167 | [191167-superheroes-academy.json](./191167-superheroes-academy.json) |
 | Superheroes Fast Highway Racing Challenges | 100869 | [100869-superheroes-fast-highway-racing-challenges.json](./100869-superheroes-fast-highway-racing-challenges.json) |
+| Superheroes Fighting 3D | 108215 | [108215-superheroes-fighting-3d.json](./108215-superheroes-fighting-3d.json) |
 | Superheroes: Power of New Horizons Legacy | 324124 | [324124-superheroes-power-of-new-horizons-legacy.json](./324124-superheroes-power-of-new-horizons-legacy.json) |
 | Superhot Prototype | 18119 | [18119-superhot-prototype.json](./18119-superhot-prototype.json) |
 | SuperHot Quake | 195987 | [195987-superhot-quake.json](./195987-superhot-quake.json) |
