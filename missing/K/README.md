@@ -1521,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids | 95167 | [95167-kids.json](./95167-kids.json) |
 | Kids ABC and Counting Jigsaw Puzzles Pre school | 87151 | [87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json](./87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json) |
 | Kids ABC Order | 175314 | [175314-kids-abc-order.json](./175314-kids-abc-order.json) |
+| Kids Activity Centre Pro | 86708 | [86708-kids-activity-centre-pro.json](./86708-kids-activity-centre-pro.json) |
 | Kids Alphabet Games | 93819 | [93819-kids-alphabet-games.json](./93819-kids-alphabet-games.json) |
 | Kids Animal Slide Puzzle 15 Mystic squares game | 100315 | [100315-kids-animal-slide-puzzle-15-mystic-squares-game.json](./100315-kids-animal-slide-puzzle-15-mystic-squares-game.json) |
 | Kids Box | 226783 | [226783-kids-box.json](./226783-kids-box.json) |
@@ -3788,6 +3789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krastorio 2 | 375568 | [375568-krastorio-2.json](./375568-krastorio-2.json) |
 | Krater: Shadows over Solside | 2020 | [2020-krater-shadows-over-solside.json](./2020-krater-shadows-over-solside.json) |
 | Kratoria | 187540 | [187540-kratoria.json](./187540-kratoria.json) |
+| Kraut Buster | 86663 | [86663-kraut-buster.json](./86663-kraut-buster.json) |
 | Kräutermännchen | 91585 | [91585-krautermannchen.json](./91585-krautermannchen.json) |
 | Krautscape | 16903 | [16903-krautscape.json](./16903-krautscape.json) |
 | Kraven Manor | 17326 | [17326-kraven-manor.json](./17326-kraven-manor.json) |
