@@ -2248,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reboot Heroes | 292020 | [292020-reboot-heroes.json](./292020-reboot-heroes.json) |
 | Reboot My Heart | 368900 | [368900-reboot-my-heart.json](./368900-reboot-my-heart.json) |
 | Reboot the World | 196532 | [196532-reboot-the-world.json](./196532-reboot-the-world.json) |
+| Rebop Blasters | 131921 | [131921-rebop-blasters.json](./131921-rebop-blasters.json) |
 | Reborn | 301985 | [301985-reborn.json](./301985-reborn.json) |
 | Reborn a Zombie! | 246004 | [246004-reborn-a-zombie.json](./246004-reborn-a-zombie.json) |
 | Reborn in Sin | 157000 | [157000-reborn-in-sin.json](./157000-reborn-in-sin.json) |
@@ -4060,6 +4061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return Fire: Maps O' Death | 4267 | [4267-return-fire-maps-o-death.json](./4267-return-fire-maps-o-death.json) |
 | Return Machine.Love() | 406290 | [406290-return-machine-love.json](./406290-return-machine-love.json) |
 | Return of Die Vie Ess | 71162 | [71162-return-of-die-vie-ess.json](./71162-return-of-die-vie-ess.json) |
+| Return of Donkey Kong | 131902 | [131902-return-of-donkey-kong.json](./131902-return-of-donkey-kong.json) |
 | Return of Double Dragon | 248131 | [248131-return-of-double-dragon.json](./248131-return-of-double-dragon.json) |
 | Return of Jelda | 78312 | [78312-return-of-jelda.json](./78312-return-of-jelda.json) |
 | Return of Red Riding Hood: Enhanced Edition | 81243 | [81243-return-of-red-riding-hood-enhanced-edition.json](./81243-return-of-red-riding-hood-enhanced-edition.json) |
@@ -6704,6 +6706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogues of Europa | 274495 | [274495-rogues-of-europa.json](./274495-rogues-of-europa.json) |
 | Rogues of Titan | 366346 | [366346-rogues-of-titan.json](./366346-rogues-of-titan.json) |
 | Rogues' Tales | 174779 | [174779-rogues-tales.json](./174779-rogues-tales.json) |
+| Roguescape | 131936 | [131936-roguescape.json](./131936-roguescape.json) |
 | Roguesphere | 297227 | [297227-roguesphere.json](./297227-roguesphere.json) |
 | Roguestorm Beats | 416651 | [416651-roguestorm-beats.json](./416651-roguestorm-beats.json) |
 | Roguesweeper | 389126 | [389126-roguesweeper.json](./389126-roguesweeper.json) |
@@ -6754,6 +6757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roles & Dice | 367307 | [367307-roles-and-dice.json](./367307-roles-and-dice.json) |
 | Rolf | 163833 | [163833-rolf.json](./163833-rolf.json) |
 | Rolf | 407520 | [407520-rolf.json](./407520-rolf.json) |
+| Roliboli | 131924 | [131924-roliboli.json](./131924-roliboli.json) |
 | Rolie Polie Olie POP! | 18223 | [18223-rolie-polie-olie-pop.json](./18223-rolie-polie-olie-pop.json) |
 | Rolie Polie Olie: The Search for Spot | 209366 | [209366-rolie-polie-olie-the-search-for-spot.json](./209366-rolie-polie-olie-the-search-for-spot.json) |
 | Rolisteam | 54897 | [54897-rolisteam.json](./54897-rolisteam.json) |
