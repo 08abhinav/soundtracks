@@ -1618,6 +1618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GearHead 2 | 183288 | [183288-gearhead-2.json](./183288-gearhead-2.json) |
 | Gearhead Karting | 252019 | [252019-gearhead-karting.json](./252019-gearhead-karting.json) |
 | GearHead: Arena | 181230 | [181230-gearhead-arena.json](./181230-gearhead-arena.json) |
+| Gearheads | 92925 | [92925-gearheads.json](./92925-gearheads.json) |
 | Gearlock: Episode 1 | 381719 | [381719-gearlock-episode-1.json](./381719-gearlock-episode-1.json) |
 | Gears 5: Game of the Year Edition | 142818 | [142818-gears-5-game-of-the-year-edition.json](./142818-gears-5-game-of-the-year-edition.json) |
 | Gears Forever | 297511 | [297511-gears-forever.json](./297511-gears-forever.json) |
@@ -3221,6 +3222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glasshouse | 236321 | [236321-glasshouse.json](./236321-glasshouse.json) |
 | Glassteroids | 111588 | [111588-glassteroids.json](./111588-glassteroids.json) |
 | Glassy Stare | 358463 | [358463-glassy-stare.json](./358463-glassy-stare.json) |
+| Glaxxons | 92945 | [92945-glaxxons.json](./92945-glaxxons.json) |
 | Glay: Complete Works | 286588 | [286588-glay-complete-works.json](./286588-glay-complete-works.json) |
 | Gleam of Fire | 105817 | [105817-gleam-of-fire.json](./105817-gleam-of-fire.json) |
 | Gleamlight | 127304 | [127304-gleamlight.json](./127304-gleamlight.json) |
@@ -4229,6 +4231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Is Mine | 148842 | [148842-gold-is-mine.json](./148842-gold-is-mine.json) |
 | Gold Knight | 277269 | [277269-gold-knight.json](./277269-gold-knight.json) |
 | Gold Magic 800 | 109897 | [109897-gold-magic-800.json](./109897-gold-magic-800.json) |
+| Gold Mine | 92929 | [92929-gold-mine.json](./92929-gold-mine.json) |
 | Gold Miner | 173064 | [173064-gold-miner.json](./173064-gold-miner.json) |
 | Gold Miner | 194800 | [194800-gold-miner.json](./194800-gold-miner.json) |
 | Gold Miner | 393092 | [393092-gold-miner.json](./393092-gold-miner.json) |
@@ -6088,6 +6091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greyroad | 184856 | [184856-greyroad.json](./184856-greyroad.json) |
 | Greyskin | 214049 | [214049-greyskin.json](./214049-greyskin.json) |
 | GreySky&StarNavigator | 373689 | [373689-greysky-and-starnavigator.json](./373689-greysky-and-starnavigator.json) |
+| Greystone | 92926 | [92926-greystone.json](./92926-greystone.json) |
 | Greystorm | 73557 | [73557-greystorm.json](./73557-greystorm.json) |
 | Grid | 118871 | [118871-grid.json](./118871-grid.json) |
 | Grid | 327878 | [327878-grid.json](./327878-grid.json) |
@@ -6829,6 +6833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guessmoji | 231463 | [231463-guessmoji.json](./231463-guessmoji.json) |
 | Guessr.tv | 268667 | [268667-guessr-tv.json](./268667-guessr-tv.json) |
 | GuessWhat | 94931 | [94931-guesswhat.json](./94931-guesswhat.json) |
+| GuessWord | 92953 | [92953-guessword.json](./92953-guessword.json) |
 | Guesswork: Heroes of Cosplay | 110196 | [110196-guesswork-heroes-of-cosplay.json](./110196-guesswork-heroes-of-cosplay.json) |
 | Guest House | 313349 | [313349-guest-house.json](./313349-guest-house.json) |
 | Guest Rush | 342728 | [342728-guest-rush.json](./342728-guest-rush.json) |
