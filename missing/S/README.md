@@ -1985,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schäferstündchen Adventures | 78920 | [78920-schaferstundchen-adventures.json](./78920-schaferstundchen-adventures.json) |
 | Schar: Blue Shield Alliance | 35941 | [35941-schar-blue-shield-alliance.json](./35941-schar-blue-shield-alliance.json) |
 | Schastye | 158408 | [158408-schastye.json](./158408-schastye.json) |
+| Schatte: The Witch and the Fake Shadow | 74917 | [74917-schatte-the-witch-and-the-fake-shadow.json](./74917-schatte-the-witch-and-the-fake-shadow.json) |
 | SchattenJagd | 98954 | [98954-schattenjagd.json](./98954-schattenjagd.json) |
 | Schattenjäger | 380128 | [380128-schattenjager.json](./380128-schattenjager.json) |
 | Schattenspiel | 103873 | [103873-schattenspiel.json](./103873-schattenspiel.json) |
@@ -5649,6 +5650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShineG In Bumpercat | 112462 | [112462-shineg-in-bumpercat.json](./112462-shineg-in-bumpercat.json) |
 | ShineG In Future Factory | 90181 | [90181-shineg-in-future-factory.json](./90181-shineg-in-future-factory.json) |
 | ShineG in the Bullethell | 36498 | [36498-shineg-in-the-bullethell.json](./36498-shineg-in-the-bullethell.json) |
+| Shineg in the SeaFight | 74919 | [74919-shineg-in-the-seafight.json](./74919-shineg-in-the-seafight.json) |
 | ShineG&Zombie Mincer | 84117 | [84117-shineg-and-zombie-mincer.json](./84117-shineg-and-zombie-mincer.json) |
 | Shinehill | 245912 | [245912-shinehill.json](./245912-shinehill.json) |
 | Shiner | 241270 | [241270-shiner.json](./241270-shiner.json) |
@@ -13225,6 +13227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space King | 98247 | [98247-space-king.json](./98247-space-king.json) |
 | Space Kitten: An Easy Survival Game | 338272 | [338272-space-kitten-an-easy-survival-game.json](./338272-space-kitten-an-easy-survival-game.json) |
 | Space Komandirovka | 119703 | [119703-space-komandirovka.json](./119703-space-komandirovka.json) |
+| Space Lagat | 74953 | [74953-space-lagat.json](./74953-space-lagat.json) |
 | Space Launch Engineer | 88244 | [88244-space-launch-engineer.json](./88244-space-launch-engineer.json) |
 | Space Legends | 73342 | [73342-space-legends.json](./73342-space-legends.json) |
 | Space Legends: At the Edge of the Universe | 17948 | [17948-space-legends-at-the-edge-of-the-universe.json](./17948-space-legends-at-the-edge-of-the-universe.json) |
@@ -18081,7 +18084,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticky Zeitgeist: Episode 3 - A Trick With Ants | 178505 | [178505-sticky-zeitgeist-episode-3-a-trick-with-ants.json](./178505-sticky-zeitgeist-episode-3-a-trick-with-ants.json) |
 | Stickya Adventurya | 314648 | [314648-stickya-adventurya.json](./314648-stickya-adventurya.json) |
 | Stickyban | 338736 | [338736-stickyban.json](./338736-stickyban.json) |
+| StickyBee | 74975 | [74975-stickybee.json](./74975-stickybee.json) |
 | StickyBots | 112184 | [112184-stickybots.json](./112184-stickybots.json) |
+| StickyJump | 74974 | [74974-stickyjump.json](./74974-stickyjump.json) |
 | Stien | 184450 | [184450-stien.json](./184450-stien.json) |
 | Stiff Neck | 386508 | [386508-stiff-neck.json](./386508-stiff-neck.json) |
 | Stifled | 31655 | [31655-stifled.json](./31655-stifled.json) |
