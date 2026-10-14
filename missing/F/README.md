@@ -5801,6 +5801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Aces: Legend of the Red Baron | 394997 | [394997-flying-aces-legend-of-the-red-baron.json](./394997-flying-aces-legend-of-the-red-baron.json) |
 | Flying Angel | 151002 | [151002-flying-angel.json](./151002-flying-angel.json) |
 | Flying Arrow! | 96920 | [96920-flying-arrow.json](./96920-flying-arrow.json) |
+| Flying Bacon: Ukrainian Air Force | 81964 | [81964-flying-bacon-ukrainian-air-force.json](./81964-flying-bacon-ukrainian-air-force.json) |
 | Flying Bunny | 99519 | [99519-flying-bunny.json](./99519-flying-bunny.json) |
 | Flying Candy | 379123 | [379123-flying-candy.json](./379123-flying-candy.json) |
 | Flying Car Robot Flight Drive Simulator Game 2017 | 86854 | [86854-flying-car-robot-flight-drive-simulator-game-2017.json](./86854-flying-car-robot-flight-drive-simulator-game-2017.json) |
