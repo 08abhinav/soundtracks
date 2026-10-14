@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaardik | 253500 | [253500-kaardik.json](./253500-kaardik.json) |
 | Kabaneri of the Iron Fortress: Ran - Hajimaru Michiato | 89983 | [89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json](./89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json) |
 | Kabedon Kareshi: Manatsu no Charao | 240227 | [240227-kabedon-kareshi-manatsu-no-charao.json](./240227-kabedon-kareshi-manatsu-no-charao.json) |
+| Kabitis 2 | 122041 | [122041-kabitis-2.json](./122041-kabitis-2.json) |
 | Kabobber | 40684 | [40684-kabobber.json](./40684-kabobber.json) |
 | KabochaFarm | 150970 | [150970-kabochafarm.json](./150970-kabochafarm.json) |
 | Kabod Online | 65209 | [65209-kabod-online.json](./65209-kabod-online.json) |
@@ -61,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaboom! | 172030 | [172030-kaboom.json](./172030-kaboom.json) |
 | Kaboom! | 198790 | [198790-kaboom.json](./198790-kaboom.json) |
 | Kaboom! | 234092 | [234092-kaboom.json](./234092-kaboom.json) |
+| Kabu Trader Shun | 123337 | [123337-kabu-trader-shun.json](./123337-kabu-trader-shun.json) |
 | Kabuki Fire | 352322 | [352322-kabuki-fire.json](./352322-kabuki-fire.json) |
 | Kabuki Rocks | 37971 | [37971-kabuki-rocks.json](./37971-kabuki-rocks.json) |
 | Kabuki Warriors | 5873 | [5873-kabuki-warriors.json](./5873-kabuki-warriors.json) |
@@ -78,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kacau | 390811 | [390811-kacau.json](./390811-kacau.json) |
 | Kach | 212984 | [212984-kach.json](./212984-kach.json) |
 | Kachinka | 421328 | [421328-kachinka.json](./421328-kachinka.json) |
+| Kachou Shima Kousaku DS: Dekiru Otoko no Love & Successss | 123336 | [123336-kachou-shima-kousaku-ds-dekiru-otoko-no-love-and-successss.json](./123336-kachou-shima-kousaku-ds-dekiru-otoko-no-love-and-successss.json) |
 | Kachou Shima Kousaku: Super Business Adventure | 37969 | [37969-kachou-shima-kousaku-super-business-adventure.json](./37969-kachou-shima-kousaku-super-business-adventure.json) |
 | Kacipbara | 393159 | [393159-kacipbara.json](./393159-kacipbara.json) |
 | Kadath | 114553 | [114553-kadath.json](./114553-kadath.json) |
@@ -159,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiju Feeder | 305320 | [305320-kaiju-feeder.json](./305320-kaiju-feeder.json) |
 | Kaiju Fury Turbo | 303609 | [303609-kaiju-fury-turbo.json](./303609-kaiju-fury-turbo.json) |
 | Kaiju Inc. | 384630 | [384630-kaiju-inc.json](./384630-kaiju-inc.json) |
+| Kaiju Khaos | 123335 | [123335-kaiju-khaos.json](./123335-kaiju-khaos.json) |
 | Kaiju Klimb | 178375 | [178375-kaiju-klimb.json](./178375-kaiju-klimb.json) |
 | Kaiju No. 8: The Game | 343892 | [343892-kaiju-no-8-the-game.json](./343892-kaiju-no-8-the-game.json) |
 | Kaiju Wars + Legend of Keepers: Monsters & Demons Bundle | 287111 | [287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json](./287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json) |
@@ -799,12 +803,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katekyou Hitman Reborn! Battle Arena | 65217 | [65217-katekyou-hitman-reborn-battle-arena.json](./65217-katekyou-hitman-reborn-battle-arena.json) |
 | Katekyou Hitman Reborn! Battle Arena 2: Spirit Burst | 65216 | [65216-katekyou-hitman-reborn-battle-arena-2-spirit-burst.json](./65216-katekyou-hitman-reborn-battle-arena-2-spirit-burst.json) |
 | Katekyou Hitman Reborn! Dream Hyper Battle Wii | 78339 | [78339-katekyou-hitman-reborn-dream-hyper-battle-wii.json](./78339-katekyou-hitman-reborn-dream-hyper-battle-wii.json) |
+| Katekyou Hitman Reborn! DS: Fate of Heat | 123338 | [123338-katekyou-hitman-reborn-ds-fate-of-heat.json](./123338-katekyou-hitman-reborn-ds-fate-of-heat.json) |
 | Katekyou Hitman Reborn! DS: Flame Rumble - Kaien Ring Soudatsuen! | 64380 | [64380-katekyou-hitman-reborn-ds-flame-rumble-kaien-ring-soudatsuen.json](./64380-katekyou-hitman-reborn-ds-flame-rumble-kaien-ring-soudatsuen.json) |
 | Katekyou Hitman Reborn! DS: Flame Rumble - Mukuro Kyoshu | 64385 | [64385-katekyou-hitman-reborn-ds-flame-rumble-mukuro-kyoshu.json](./64385-katekyou-hitman-reborn-ds-flame-rumble-mukuro-kyoshu.json) |
 | Katekyou Hitman Reborn! DS: Flame Rumble Hyper - Moeyo Mirai | 78713 | [78713-katekyou-hitman-reborn-ds-flame-rumble-hyper-moeyo-mirai.json](./78713-katekyou-hitman-reborn-ds-flame-rumble-hyper-moeyo-mirai.json) |
 | Katekyou Hitman Reborn! DS: Flame Rumble X - Mirai Chou Bakuhatsu!! | 64379 | [64379-katekyou-hitman-reborn-ds-flame-rumble-x-mirai-chou-bakuhatsu.json](./64379-katekyou-hitman-reborn-ds-flame-rumble-x-mirai-chou-bakuhatsu.json) |
 | Katekyou Hitman Reborn! DS: Flame Rumble XX - Kessen! Real 6 Chouka | 64381 | [64381-katekyou-hitman-reborn-ds-flame-rumble-xx-kessen-real-6-chouka.json](./64381-katekyou-hitman-reborn-ds-flame-rumble-xx-kessen-real-6-chouka.json) |
 | Katekyou Hitman Reborn! DS: Mafia Daishuugou Vongola Festival | 70568 | [70568-katekyou-hitman-reborn-ds-mafia-daishuugou-vongola-festival.json](./70568-katekyou-hitman-reborn-ds-mafia-daishuugou-vongola-festival.json) |
+| Katekyou Hitman Reborn! DS: Shinuki Max! Vongola Carnival!! | 123339 | [123339-katekyou-hitman-reborn-ds-shinuki-max-vongola-carnival.json](./123339-katekyou-hitman-reborn-ds-shinuki-max-vongola-carnival.json) |
 | Katekyou Hitman Reborn!: Kizuna no Tag Battle | 137395 | [137395-katekyou-hitman-reborn-kizuna-no-tag-battle.json](./137395-katekyou-hitman-reborn-kizuna-no-tag-battle.json) |
 | Katekyou Hitman Reborn!: Nerae!? Ring x Vongola Trainers | 305271 | [305271-katekyou-hitman-reborn-nerae-ring-x-vongola-trainers.json](./305271-katekyou-hitman-reborn-nerae-ring-x-vongola-trainers.json) |
 | Katekyou Hitman Reborn!: Ore ga Boss! Saikyou Family Taisen | 269823 | [269823-katekyou-hitman-reborn-ore-ga-boss-saikyou-family-taisen.json](./269823-katekyou-hitman-reborn-ore-ga-boss-saikyou-family-taisen.json) |
@@ -1109,6 +1115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemco RPG Selection Vol. 6 | 140887 | [140887-kemco-rpg-selection-vol-6.json](./140887-kemco-rpg-selection-vol-6.json) |
 | Kemco RPG Selection Vol. 9 | 186664 | [186664-kemco-rpg-selection-vol-9.json](./186664-kemco-rpg-selection-vol-9.json) |
 | Kemco: 50 RPGs Celebratory Bundle | 259865 | [259865-kemco-50-rpgs-celebratory-bundle.json](./259865-kemco-50-rpgs-celebratory-bundle.json) |
+| Kemeko Deluxe! DS: Yome to Meka to Otoko to Onna | 123343 | [123343-kemeko-deluxe-ds-yome-to-meka-to-otoko-to-onna.json](./123343-kemeko-deluxe-ds-yome-to-meka-to-otoko-to-onna.json) |
 | Kemo Kare! Oretachi no BL Byoutou | 240515 | [240515-kemo-kare-oretachi-no-bl-byoutou.json](./240515-kemo-kare-oretachi-no-bl-byoutou.json) |
 | Kemono Dash! | 222247 | [222247-kemono-dash.json](./222247-kemono-dash.json) |
 | Kemono Friends | 109605 | [109605-kemono-friends.json](./109605-kemono-friends.json) |
@@ -1145,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenas-unarpe | 299130 | [299130-kenas-unarpe.json](./299130-kenas-unarpe.json) |
 | Kenchana: Oath of a Magical Spear | 238756 | [238756-kenchana-oath-of-a-magical-spear.json](./238756-kenchana-oath-of-a-magical-spear.json) |
 | Kendall and Kylie | 133708 | [133708-kendall-and-kylie.json](./133708-kendall-and-kylie.json) |
+| Kendo | 123926 | [123926-kendo.json](./123926-kendo.json) |
 | Kendo Rage | 15845 | [15845-kendo-rage.json](./15845-kendo-rage.json) |
 | Kendo Warrior | 286224 | [286224-kendo-warrior.json](./286224-kendo-warrior.json) |
 | Kendrick Lamar Heardle | 369137 | [369137-kendrick-lamar-heardle.json](./369137-kendrick-lamar-heardle.json) |
@@ -2245,6 +2253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Heroes | 171876 | [171876-kingdom-of-heroes.json](./171876-kingdom-of-heroes.json) |
 | Kingdom of Heroes: Tactics War | 138552 | [138552-kingdom-of-heroes-tactics-war.json](./138552-kingdom-of-heroes-tactics-war.json) |
 | Kingdom of Kroz | 73796 | [73796-kingdom-of-kroz.json](./73796-kingdom-of-kroz.json) |
+| Kingdom of Lies | 120102 | [120102-kingdom-of-lies.json](./120102-kingdom-of-lies.json) |
 | Kingdom of Lies | 183804 | [183804-kingdom-of-lies.json](./183804-kingdom-of-lies.json) |
 | Kingdom of Marionettes | 399754 | [399754-kingdom-of-marionettes.json](./399754-kingdom-of-marionettes.json) |
 | Kingdom of Maverta | 181074 | [181074-kingdom-of-maverta.json](./181074-kingdom-of-maverta.json) |
@@ -2798,6 +2807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klap!!: Kind Love and Punish | 60916 | [60916-klap-kind-love-and-punish.json](./60916-klap-kind-love-and-punish.json) |
 | Klash | 62697 | [62697-klash.json](./62697-klash.json) |
 | KlashBall | 67941 | [67941-klashball.json](./67941-klashball.json) |
+| Klass of '99 | 120660 | [120660-klass-of-99.json](./120660-klass-of-99.json) |
 | Klaus | 15488 | [15488-klaus.json](./15488-klaus.json) |
 | Klaus Lee: Thunderballs | 193201 | [193201-klaus-lee-thunderballs.json](./193201-klaus-lee-thunderballs.json) |
 | Klavia | 343315 | [343315-klavia.json](./343315-klavia.json) |
@@ -3248,6 +3258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kodomo Chousadan Mighty Pockets: Chousa 3 - Kyakusen Queen Patra no Nazo | 179966 | [179966-kodomo-chousadan-mighty-pockets-chousa-3-kyakusen-queen-patra-no-nazo.json](./179966-kodomo-chousadan-mighty-pockets-chousa-3-kyakusen-queen-patra-no-nazo.json) |
 | Kodomo-tachi no Kuni Magic Children | 353375 | [353375-kodomo-tachi-no-kuni-magic-children.json](./353375-kodomo-tachi-no-kuni-magic-children.json) |
 | Koe | 50532 | [50532-koe.json](./50532-koe.json) |
+| Koe de Asobou! HeartCatch PreCure! | 123342 | [123342-koe-de-asobou-heartcatch-precure.json](./123342-koe-de-asobou-heartcatch-precure.json) |
 | Koe wo Tayori ni SP | 83818 | [83818-koe-wo-tayori-ni-sp.json](./83818-koe-wo-tayori-ni-sp.json) |
 | KOF Chronicle | 117502 | [117502-kof-chronicle.json](./117502-kof-chronicle.json) |
 | KOF X Garou Densetsu | 63832 | [63832-kof-x-garou-densetsu.json](./63832-kof-x-garou-densetsu.json) |
@@ -3281,6 +3292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi suru Kanojo no Bukiyou na Butai | 238100 | [238100-koi-suru-kanojo-no-bukiyou-na-butai.json](./238100-koi-suru-kanojo-no-bukiyou-na-butai.json) |
 | Koi Suru Kimochi no Kasanekata: Kasaneta Omoi o Zutto | 82498 | [82498-koi-suru-kimochi-no-kasanekata-kasaneta-omoi-o-zutto.json](./82498-koi-suru-kimochi-no-kasanekata-kasaneta-omoi-o-zutto.json) |
 | Koi Suru Otome to Shugo no Tate: Re:boot the "Shield-9" | 139985 | [139985-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9.json](./139985-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9.json) |
+| Koi Unleashed | 121342 | [121342-koi-unleashed.json](./121342-koi-unleashed.json) |
 | Koi wa Alf Laylah | 191691 | [191691-koi-wa-alf-laylah.json](./191691-koi-wa-alf-laylah.json) |
 | Koi wa Sotto Saku Hana no you ni | 194533 | [194533-koi-wa-sotto-saku-hana-no-you-ni.json](./194533-koi-wa-sotto-saku-hana-no-you-ni.json) |
 | Koi wa Sotto Saku Hana no you ni: Futari wa Eien ni Yorisotte Iku | 194534 | [194534-koi-wa-sotto-saku-hana-no-you-ni-futari-wa-eien-ni-yorisotte-iku.json](./194534-koi-wa-sotto-saku-hana-no-you-ni-futari-wa-eien-ni-yorisotte-iku.json) |
