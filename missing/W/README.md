@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walking With Beasts: Operation Salvage | 147898 | [147898-walking-with-beasts-operation-salvage.json](./147898-walking-with-beasts-operation-salvage.json) |
 | Walking-Race | 247053 | [247053-walking-race.json](./247053-walking-race.json) |
 | Walkover | 35787 | [35787-walkover.json](./35787-walkover.json) |
+| Walks in Paris Dress Up | 106941 | [106941-walks-in-paris-dress-up.json](./106941-walks-in-paris-dress-up.json) |
 | WalkScape | 304729 | [304729-walkscape.json](./304729-walkscape.json) |
 | Walkure Romanze More & More | 194624 | [194624-walkure-romanze-more-and-more.json](./194624-walkure-romanze-more-and-more.json) |
 | Walkure Romanze Re:tell | 194625 | [194625-walkure-romanze-re-tell.json](./194625-walkure-romanze-re-tell.json) |
@@ -5114,6 +5115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Turtle Island | 301082 | [301082-word-turtle-island.json](./301082-word-turtle-island.json) |
 | Word U | 104600 | [104600-word-u.json](./104600-word-u.json) |
 | Word Vs Picture | 232478 | [232478-word-vs-picture.json](./232478-word-vs-picture.json) |
+| Word Waffle - Word Swipe Game | 107048 | [107048-word-waffle-word-swipe-game.json](./107048-word-waffle-word-swipe-game.json) |
 | Word War Vi | 242591 | [242591-word-war-vi.json](./242591-word-war-vi.json) |
 | Word Warp | 377139 | [377139-word-warp.json](./377139-word-warp.json) |
 | Word Warp: Animal Edition | 396222 | [396222-word-warp-animal-edition.json](./396222-word-warp-animal-edition.json) |
@@ -5156,6 +5158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worder | 116852 | [116852-worder.json](./116852-worder.json) |
 | WordFall | 186666 | [186666-wordfall.json](./186666-wordfall.json) |
 | Wordfright | 334479 | [334479-wordfright.json](./334479-wordfright.json) |
+| WordGirl Word Hunt | 106944 | [106944-wordgirl-word-hunt.json](./106944-wordgirl-word-hunt.json) |
 | Wordgraphy | 233050 | [233050-wordgraphy.json](./233050-wordgraphy.json) |
 | WordHerd | 147269 | [147269-wordherd.json](./147269-wordherd.json) |
 | WordHive | 411569 | [411569-wordhive.json](./411569-wordhive.json) |
@@ -5195,6 +5198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words for a bird | 134692 | [134692-words-for-a-bird.json](./134692-words-for-a-bird.json) |
 | Words for Evil | 36107 | [36107-words-for-evil.json](./36107-words-for-evil.json) |
 | Words Guesser | 314664 | [314664-words-guesser.json](./314664-words-guesser.json) |
+| Words in Pics - Drawing Puzzle | 106948 | [106948-words-in-pics-drawing-puzzle.json](./106948-words-in-pics-drawing-puzzle.json) |
 | Words In Progress | 286596 | [286596-words-in-progress.json](./286596-words-in-progress.json) |
 | Words in Space | 63557 | [63557-words-in-space.json](./63557-words-in-space.json) |
 | Words Inc - Endless Vocabulary Definition Competition | 99411 | [99411-words-inc-endless-vocabulary-definition-competition.json](./99411-words-inc-endless-vocabulary-definition-competition.json) |
