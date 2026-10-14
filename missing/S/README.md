@@ -2639,6 +2639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Horse Hide'n Seek | 114788 | [114788-sea-horse-hiden-seek.json](./114788-sea-horse-hiden-seek.json) |
 | Sea Hunter Idle | 399703 | [399703-sea-hunter-idle.json](./399703-sea-hunter-idle.json) |
 | Sea King | 119515 | [119515-sea-king.json](./119515-sea-king.json) |
+| Sea King Hunter | 129514 | [129514-sea-king-hunter.json](./129514-sea-king-hunter.json) |
 | Sea Legends | 146227 | [146227-sea-legends.json](./146227-sea-legends.json) |
 | Sea Legends | 293633 | [293633-sea-legends.json](./293633-sea-legends.json) |
 | Sea Legends: Phantasmal Light | 59905 | [59905-sea-legends-phantasmal-light.json](./59905-sea-legends-phantasmal-light.json) |
@@ -2684,6 +2685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Thieves: 2024 Premium Bundle | 297734 | [297734-sea-of-thieves-2024-premium-bundle.json](./297734-sea-of-thieves-2024-premium-bundle.json) |
 | Sea of Thieves: Custom Seas - Season 20 | 405065 | [405065-sea-of-thieves-custom-seas-season-20.json](./405065-sea-of-thieves-custom-seas-season-20.json) |
 | Sea of Thieves: Deluxe Edition | 241859 | [241859-sea-of-thieves-deluxe-edition.json](./241859-sea-of-thieves-deluxe-edition.json) |
+| Sea of Thieves: Festival of the Damned | 129487 | [129487-sea-of-thieves-festival-of-the-damned.json](./129487-sea-of-thieves-festival-of-the-damned.json) |
 | Sea of Thieves: Reaper's Rule - Season 16 | 354373 | [354373-sea-of-thieves-reapers-rule-season-16.json](./354373-sea-of-thieves-reapers-rule-season-16.json) |
 | Sea of Thieves: Season 1 | 144847 | [144847-sea-of-thieves-season-1.json](./144847-sea-of-thieves-season-1.json) |
 | Sea of Thieves: Season 13 | 305154 | [305154-sea-of-thieves-season-13.json](./305154-sea-of-thieves-season-13.json) |
@@ -7009,6 +7011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Creek Falls: Chapter 3 | 33534 | [33534-silver-creek-falls-chapter-3.json](./33534-silver-creek-falls-chapter-3.json) |
 | Silver Falls Mini: Monsters In North Island | 307177 | [307177-silver-falls-mini-monsters-in-north-island.json](./307177-silver-falls-mini-monsters-in-north-island.json) |
 | Silver Falls Miracle Makeout Mania | 307179 | [307179-silver-falls-miracle-makeout-mania.json](./307179-silver-falls-miracle-makeout-mania.json) |
+| Silver Falls: 3 Down Stars | 129511 | [129511-silver-falls-3-down-stars.json](./129511-silver-falls-3-down-stars.json) |
 | Silver Falls: Battle Fever - Galaxy Bound Curse | 307175 | [307175-silver-falls-battle-fever-galaxy-bound-curse.json](./307175-silver-falls-battle-fever-galaxy-bound-curse.json) |
 | Silver Falls: Galaxy Bound Curse | 307178 | [307178-silver-falls-galaxy-bound-curse.json](./307178-silver-falls-galaxy-bound-curse.json) |
 | Silver Falls: Ghoul Busters | 208583 | [208583-silver-falls-ghoul-busters.json](./208583-silver-falls-ghoul-busters.json) |
@@ -9261,6 +9264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Wars: Mohicans | 294376 | [294376-small-wars-mohicans.json](./294376-small-wars-mohicans.json) |
 | Small World | 217779 | [217779-small-world.json](./217779-small-world.json) |
 | Small World | 272927 | [272927-small-world.json](./272927-small-world.json) |
+| Small World Z | 129513 | [129513-small-world-z.json](./129513-small-world-z.json) |
 | Small Worlds | 201612 | [201612-small-worlds.json](./201612-small-worlds.json) |
 | Smalland: Survive the Wilds VR | 299752 | [299752-smalland-survive-the-wilds-vr.json](./299752-smalland-survive-the-wilds-vr.json) |
 | Smalles | 163021 | [163021-smalles.json](./163021-smalles.json) |
@@ -10703,6 +10707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sold Out | 253337 | [253337-sold-out.json](./253337-sold-out.json) |
 | Sold Soul | 261437 | [261437-sold-soul.json](./261437-sold-soul.json) |
 | Soldat | 8722 | [8722-soldat.json](./8722-soldat.json) |
+| Soldat 2 | 129499 | [129499-soldat-2.json](./129499-soldat-2.json) |
 | Soldier | 150243 | [150243-soldier.json](./150243-soldier.json) |
 | Soldier Blade Special: Caravan Stage | 42024 | [42024-soldier-blade-special-caravan-stage.json](./42024-soldier-blade-special-caravan-stage.json) |
 | Soldier Blaster | 412972 | [412972-soldier-blaster.json](./412972-soldier-blaster.json) |
@@ -18563,6 +18568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Karate Fighter | 100882 | [100882-street-karate-fighter.json](./100882-street-karate-fighter.json) |
 | Street Karate Fighter 2 Online | 102827 | [102827-street-karate-fighter-2-online.json](./102827-street-karate-fighter-2-online.json) |
 | Street Kart | 110268 | [110268-street-kart.json](./110268-street-kart.json) |
+| Street Kart Racing | 129508 | [129508-street-kart-racing.json](./129508-street-kart-racing.json) |
 | Street Lamp Lover | 336530 | [336530-street-lamp-lover.json](./336530-street-lamp-lover.json) |
 | Street Legal | 73757 | [73757-street-legal.json](./73757-street-legal.json) |
 | Street Legal Racing: Redline | 77346 | [77346-street-legal-racing-redline.json](./77346-street-legal-racing-redline.json) |
@@ -21738,10 +21744,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Animdude Moveset | 395034 | [395034-super-smash-bros-ultimate-animdude-moveset.json](./395034-super-smash-bros-ultimate-animdude-moveset.json) |
 | Super Smash Bros. Ultimate: Blood Falcon Moveset | 375986 | [375986-super-smash-bros-ultimate-blood-falcon-moveset.json](./375986-super-smash-bros-ultimate-blood-falcon-moveset.json) |
 | Super Smash Bros. Ultimate: Brinstar but Flat | 342693 | [342693-super-smash-bros-ultimate-brinstar-but-flat.json](./342693-super-smash-bros-ultimate-brinstar-but-flat.json) |
+| Super Smash Bros. Ultimate: Challenger Pack 1 | 129489 | [129489-super-smash-bros-ultimate-challenger-pack-1.json](./129489-super-smash-bros-ultimate-challenger-pack-1.json) |
 | Super Smash Bros. Ultimate: Challenger Pack 10 | 133840 | [133840-super-smash-bros-ultimate-challenger-pack-10.json](./133840-super-smash-bros-ultimate-challenger-pack-10.json) |
 | Super Smash Bros. Ultimate: Challenger Pack 11 | 133841 | [133841-super-smash-bros-ultimate-challenger-pack-11.json](./133841-super-smash-bros-ultimate-challenger-pack-11.json) |
+| Super Smash Bros. Ultimate: Challenger Pack 2 | 129491 | [129491-super-smash-bros-ultimate-challenger-pack-2.json](./129491-super-smash-bros-ultimate-challenger-pack-2.json) |
 | Super Smash Bros. Ultimate: Challenger Pack 3 | 122260 | [122260-super-smash-bros-ultimate-challenger-pack-3.json](./122260-super-smash-bros-ultimate-challenger-pack-3.json) |
 | Super Smash Bros. Ultimate: Challenger Pack 4 | 122261 | [122261-super-smash-bros-ultimate-challenger-pack-4.json](./122261-super-smash-bros-ultimate-challenger-pack-4.json) |
+| Super Smash Bros. Ultimate: Challenger Pack 5 | 129492 | [129492-super-smash-bros-ultimate-challenger-pack-5.json](./129492-super-smash-bros-ultimate-challenger-pack-5.json) |
 | Super Smash Bros. Ultimate: Challenger Pack 6 | 133835 | [133835-super-smash-bros-ultimate-challenger-pack-6.json](./133835-super-smash-bros-ultimate-challenger-pack-6.json) |
 | Super Smash Bros. Ultimate: Challenger Pack 7 | 133837 | [133837-super-smash-bros-ultimate-challenger-pack-7.json](./133837-super-smash-bros-ultimate-challenger-pack-7.json) |
 | Super Smash Bros. Ultimate: Challenger Pack 8 | 133838 | [133838-super-smash-bros-ultimate-challenger-pack-8.json](./133838-super-smash-bros-ultimate-challenger-pack-8.json) |
