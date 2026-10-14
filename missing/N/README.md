@@ -1488,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo 21 | 75491 | [75491-neo-21.json](./75491-neo-21.json) |
 | Neo Angelique | 72681 | [72681-neo-angelique.json](./72681-neo-angelique.json) |
 | Neo Angelique Special | 221225 | [221225-neo-angelique-special.json](./221225-neo-angelique-special.json) |
+| Neo Angelique Tenshi no Namida | 131907 | [131907-neo-angelique-tenshi-no-namida.json](./131907-neo-angelique-tenshi-no-namida.json) |
 | Neo Angle | 67647 | [67647-neo-angle.json](./67647-neo-angle.json) |
 | Neo Artifacts | 393819 | [393819-neo-artifacts.json](./393819-neo-artifacts.json) |
 | Neo Atlas 1469 | 27318 | [27318-neo-atlas-1469.json](./27318-neo-atlas-1469.json) |
@@ -3246,6 +3247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikoli no Sudoku Lite Dai-San-Shuu | 269519 | [269519-nikoli-no-sudoku-lite-dai-san-shuu.json](./269519-nikoli-no-sudoku-lite-dai-san-shuu.json) |
 | Nikoli Sudoku | 97443 | [97443-nikoli-sudoku.json](./97443-nikoli-sudoku.json) |
 | Nil Admirari no Tenbin: Irodori Nadeshiko | 136831 | [136831-nil-admirari-no-tenbin-irodori-nadeshiko.json](./136831-nil-admirari-no-tenbin-irodori-nadeshiko.json) |
+| Nil Admirari no Tenbin: Kuroyuri Enyoutan | 131906 | [131906-nil-admirari-no-tenbin-kuroyuri-enyoutan.json](./131906-nil-admirari-no-tenbin-kuroyuri-enyoutan.json) |
 | Nil Admirari no Tenbin: Twin Pack | 200560 | [200560-nil-admirari-no-tenbin-twin-pack.json](./200560-nil-admirari-no-tenbin-twin-pack.json) |
 | Nil-Ninjahtic: Ronin | 33435 | [33435-nil-ninjahtic-ronin.json](./33435-nil-ninjahtic-ronin.json) |
 | Nila Dhuma | 57184 | [57184-nila-dhuma.json](./57184-nila-dhuma.json) |
