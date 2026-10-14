@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MacGuffin | 34526 | [34526-macguffin.json](./34526-macguffin.json) |
 | Mach Go Go Go | 228608 | [228608-mach-go-go-go.json](./228608-mach-go-go-go.json) |
 | Mach K9 | 300348 | [300348-mach-k9.json](./300348-mach-k9.json) |
+| Mach Storm | 124522 | [124522-mach-storm.json](./124522-mach-storm.json) |
 | Mach's noch einmal, Sven | 206794 | [206794-machs-noch-einmal-sven.json](./206794-machs-noch-einmal-sven.json) |
 | Macheesmo: The Animated Series - The Game | 197580 | [197580-macheesmo-the-animated-series-the-game.json](./197580-macheesmo-the-animated-series-the-game.json) |
 | Machete | 257290 | [257290-machete.json](./257290-machete.json) |
@@ -623,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Recall | 402284 | [402284-mage-recall.json](./402284-mage-recall.json) |
 | Mage Rumble | 173050 | [173050-mage-rumble.json](./173050-mage-rumble.json) |
 | Mage Saga | 235292 | [235292-mage-saga.json](./235292-mage-saga.json) |
+| Mage Supreme | 124558 | [124558-mage-supreme.json](./124558-mage-supreme.json) |
 | Mage Tower | 187191 | [187191-mage-tower.json](./187191-mage-tower.json) |
 | Mage VR -Mini Version- | 114344 | [114344-mage-vr-mini-version.json](./114344-mage-vr-mini-version.json) |
 | Mage VR: The Lost Memories | 115619 | [115619-mage-vr-the-lost-memories.json](./115619-mage-vr-the-lost-memories.json) |
@@ -8877,6 +8879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miscrits: World of Creatures | 98466 | [98466-miscrits-world-of-creatures.json](./98466-miscrits-world-of-creatures.json) |
 | Misdecayed | 375847 | [375847-misdecayed.json](./375847-misdecayed.json) |
 | Misdie: Into the Game | 351238 | [351238-misdie-into-the-game.json](./351238-misdie-into-the-game.json) |
+| Miserere | 124550 | [124550-miserere.json](./124550-miserere.json) |
 | Misericorde Volume Two: White Wool and Snow | 305383 | [305383-misericorde-volume-two-white-wool-and-snow.json](./305383-misericorde-volume-two-white-wool-and-snow.json) |
 | Misery | 342489 | [342489-misery.json](./342489-misery.json) |
 | Misery Dungeon | 417471 | [417471-misery-dungeon.json](./417471-misery-dungeon.json) |
