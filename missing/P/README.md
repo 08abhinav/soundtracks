@@ -8819,6 +8819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postmortem: One Must Die (Extended Cut) | 30257 | [30257-postmortem-one-must-die-extended-cut.json](./30257-postmortem-one-must-die-extended-cut.json) |
 | PostScriptum | 360043 | [360043-postscriptum.json](./360043-postscriptum.json) |
 | PostZ: Zombies VR | 172148 | [172148-postz-zombies-vr.json](./172148-postz-zombies-vr.json) |
+| Poszukiwacze Zaginionej Warszawy | 85962 | [85962-poszukiwacze-zaginionej-warszawy.json](./85962-poszukiwacze-zaginionej-warszawy.json) |
 | Pot Breaker | 223444 | [223444-pot-breaker.json](./223444-pot-breaker.json) |
 | Pot Farm | 137394 | [137394-pot-farm.json](./137394-pot-farm.json) |
 | Pot Farm - Grass Roots | 39215 | [39215-pot-farm-grass-roots.json](./39215-pot-farm-grass-roots.json) |
@@ -12452,6 +12453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzznic | 12199 | [12199-puzznic.json](./12199-puzznic.json) |
 | Puzznic | 295044 | [295044-puzznic.json](./295044-puzznic.json) |
 | Puzznic | 307912 | [307912-puzznic.json](./307912-puzznic.json) |
+| PuzzPower | 85984 | [85984-puzzpower.json](./85984-puzzpower.json) |
 | Puzzrama | 152918 | [152918-puzzrama.json](./152918-puzzrama.json) |
 | Puzzsoft’s Cooleidoscope | 316050 | [316050-puzzsoft-s-cooleidoscope.json](./316050-puzzsoft-s-cooleidoscope.json) |
 | Puzzwords | 91908 | [91908-puzzwords.json](./91908-puzzwords.json) |
@@ -12489,6 +12491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyrami Head | 250967 | [250967-pyrami-head.json](./250967-pyrami-head.json) |
 | Pyramid | 195054 | [195054-pyramid.json](./195054-pyramid.json) |
 | Pyramid | 25831 | [25831-pyramid.json](./25831-pyramid.json) |
+| Pyramid | 86002 | [86002-pyramid.json](./86002-pyramid.json) |
 | Pyramid 2097 | 133738 | [133738-pyramid-2097.json](./133738-pyramid-2097.json) |
 | Pyramid Adventures | 46569 | [46569-pyramid-adventures.json](./46569-pyramid-adventures.json) |
 | Pyramid Adventures: Episode 1 - Treasures of the Lost Pyramid | 66351 | [66351-pyramid-adventures-episode-1-treasures-of-the-lost-pyramid.json](./66351-pyramid-adventures-episode-1-treasures-of-the-lost-pyramid.json) |
