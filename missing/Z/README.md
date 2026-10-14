@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zday Survival Simulator | 202840 | [202840-zday-survival-simulator.json](./202840-zday-survival-simulator.json) |
 | ZDog Hotel Hero Z | 305849 | [305849-zdog-hotel-hero-z.json](./305849-zdog-hotel-hero-z.json) |
 | ZDoom Adventures! | 252215 | [252215-zdoom-adventures.json](./252215-zdoom-adventures.json) |
+| ZDSimulator | 108792 | [108792-zdsimulator.json](./108792-zdsimulator.json) |
 | ZDSimulator: Shevchenko-Timkove Route | 392436 | [392436-zdsimulator-shevchenko-timkove-route.json](./392436-zdsimulator-shevchenko-timkove-route.json) |
 | ZDSS: Zombie Drone Survival Show | 289336 | [289336-zdss-zombie-drone-survival-show.json](./289336-zdss-zombie-drone-survival-show.json) |
 | Ze VR | 29958 | [29958-ze-vr.json](./29958-ze-vr.json) |
@@ -640,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZeroSpace | 262659 | [262659-zerospace.json](./262659-zerospace.json) |
 | Zeroth Zone | 72133 | [72133-zeroth-zone.json](./72133-zeroth-zone.json) |
 | ZeroVector | 241638 | [241638-zerovector.json](./241638-zerovector.json) |
+| ZeroZap | 108892 | [108892-zerozap.json](./108892-zerozap.json) |
 | ZeroZeta | 361761 | [361761-zerozeta.json](./361761-zerozeta.json) |
 | Zerra's Adventure | 297757 | [297757-zerras-adventure.json](./297757-zerras-adventure.json) |
 | Zerstört Zerstört | 128582 | [128582-zerstort-zerstort.json](./128582-zerstort-zerstort.json) |
@@ -1515,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zor: Pilgrimage of the Slorfs | 123962 | [123962-zor-pilgrimage-of-the-slorfs.json](./123962-zor-pilgrimage-of-the-slorfs.json) |
 | Zorakk: The Conqueror | 57154 | [57154-zorakk-the-conqueror.json](./57154-zorakk-the-conqueror.json) |
 | Zorax | 221227 | [221227-zorax.json](./221227-zorax.json) |
+| Zorbit's Orbits | 108880 | [108880-zorbits-orbits.json](./108880-zorbits-orbits.json) |
 | Zordak | 140297 | [140297-zordak.json](./140297-zordak.json) |
 | Zoria and the Cursed Land | 152227 | [152227-zoria-and-the-cursed-land.json](./152227-zoria-and-the-cursed-land.json) |
 | Zoria: Age of Shattering | 123928 | [123928-zoria-age-of-shattering.json](./123928-zoria-age-of-shattering.json) |
