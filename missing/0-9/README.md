@@ -1882,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 64 Wars | 182340 | [182340-64-wars.json](./182340-64-wars.json) |
 | 64.0 | 27801 | [27801-64-0.json](./27801-64-0.json) |
 | 64th Street: A Detective Story | 6735 | [6735-64th-street-a-detective-story.json](./6735-64th-street-a-detective-story.json) |
+| 65536: Super 2048 | 95316 | [95316-65536-super-2048.json](./95316-65536-super-2048.json) |
 | 66 Bricks | 241353 | [241353-66-bricks.json](./241353-66-bricks.json) |
 | 6600: The Park | 410914 | [410914-6600-the-park.json](./410914-6600-the-park.json) |
 | 67 | 372820 | [372820-67.json](./372820-67.json) |
