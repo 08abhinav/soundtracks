@@ -3023,6 +3023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of Tabayama | 344557 | [344557-life-of-tabayama.json](./344557-life-of-tabayama.json) |
 | Life on a Pizza | 164880 | [164880-life-on-a-pizza.json](./164880-life-on-a-pizza.json) |
 | Life on the Earth | 175677 | [175677-life-on-the-earth.json](./175677-life-on-the-earth.json) |
+| Life One | 114867 | [114867-life-one.json](./114867-life-one.json) |
 | Life Redemption | 123904 | [123904-life-redemption.json](./123904-life-redemption.json) |
 | Life Save Service | 376677 | [376677-life-save-service.json](./376677-life-save-service.json) |
 | Life Saver | 247989 | [247989-life-saver.json](./247989-life-saver.json) |
