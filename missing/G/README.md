@@ -1140,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganso! Doubutsu Uranai + Renai Uranai Puzzle | 97855 | [97855-ganso-doubutsu-uranai-renai-uranai-puzzle.json](./97855-ganso-doubutsu-uranai-renai-uranai-puzzle.json) |
 | Ganso!! Yancha-maru | 186733 | [186733-ganso-yancha-maru.json](./186733-ganso-yancha-maru.json) |
 | Gantz: The Game | 78046 | [78046-gantz-the-game.json](./78046-gantz-the-game.json) |
+| Ganush | 112830 | [112830-ganush.json](./112830-ganush.json) |
 | Ganyang Setan Alas: The Game | 327167 | [327167-ganyang-setan-alas-the-game.json](./327167-ganyang-setan-alas-the-game.json) |
 | Ganz Schön Clever | 105957 | [105957-ganz-schon-clever.json](./105957-ganz-schon-clever.json) |
 | Gao Gao! 1st: Radical Sequence | 230229 | [230229-gao-gao-1st-radical-sequence.json](./230229-gao-gao-1st-radical-sequence.json) |
@@ -1701,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Blast | 311785 | [311785-gem-blast.json](./311785-gem-blast.json) |
 | Gem Blocks | 93822 | [93822-gem-blocks.json](./93822-gem-blocks.json) |
 | Gem Brawl Duel | 399732 | [399732-gem-brawl-duel.json](./399732-gem-brawl-duel.json) |
+| Gem Crash | 112816 | [112816-gem-crash.json](./112816-gem-crash.json) |
 | Gem Crush Match-3 | 397258 | [397258-gem-crush-match-3.json](./397258-gem-crush-match-3.json) |
 | Gem Defense | 256226 | [256226-gem-defense.json](./256226-gem-defense.json) |
 | Gem Excavator | 223943 | [223943-gem-excavator.json](./223943-gem-excavator.json) |
@@ -2733,6 +2735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giant and Me | 174757 | [174757-giant-and-me.json](./174757-giant-and-me.json) |
 | Giant Blobs From Mars | 157391 | [157391-giant-blobs-from-mars.json](./157391-giant-blobs-from-mars.json) |
 | Giant Bundle | 193741 | [193741-giant-bundle.json](./193741-giant-bundle.json) |
+| Giant Celebration | 112707 | [112707-giant-celebration.json](./112707-giant-celebration.json) |
 | Giant Chase | 272446 | [272446-giant-chase.json](./272446-giant-chase.json) |
 | Giant Cutter | 124571 | [124571-giant-cutter.json](./124571-giant-cutter.json) |
 | Giant Dancing Plushies | 175140 | [175140-giant-dancing-plushies.json](./175140-giant-dancing-plushies.json) |
@@ -3098,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give the People What They Want | 197189 | [197189-give-the-people-what-they-want.json](./197189-give-the-people-what-they-want.json) |
 | Give Up the Ghost: A Puzzle Checklist | 206471 | [206471-give-up-the-ghost-a-puzzle-checklist.json](./206471-give-up-the-ghost-a-puzzle-checklist.json) |
 | Givling | 18319 | [18319-givling.json](./18319-givling.json) |
+| Gizmo | 112825 | [112825-gizmo.json](./112825-gizmo.json) |
 | Gizmo of Giza | 184491 | [184491-gizmo-of-giza.json](./184491-gizmo-of-giza.json) |
 | GizmoLab VR | 290682 | [290682-gizmolab-vr.json](./290682-gizmolab-vr.json) |
 | Gizmos: Jungle Adventures | 294399 | [294399-gizmos-jungle-adventures.json](./294399-gizmos-jungle-adventures.json) |
