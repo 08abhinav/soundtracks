@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damn Daniel: Basket Game | 252818 | [252818-damn-daniel-basket-game.json](./252818-damn-daniel-basket-game.json) |
 | Damn Daniel: White Vans Adventure | 201236 | [201236-damn-daniel-white-vans-adventure.json](./201236-damn-daniel-white-vans-adventure.json) |
 | Damn Dog | 313198 | [313198-damn-dog.json](./313198-damn-dog.json) |
+| Damn Dolls | 132533 | [132533-damn-dolls.json](./132533-damn-dolls.json) |
 | Damn Endless Orcs | 163903 | [163903-damn-endless-orcs.json](./163903-damn-endless-orcs.json) |
 | Damn it! | 284995 | [284995-damn-it.json](./284995-damn-it.json) |
 | Damn Little Town | 262062 | [262062-damn-little-town.json](./262062-damn-little-town.json) |
@@ -3485,6 +3486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeplanders | 319344 | [319344-deeplanders.json](./319344-deeplanders.json) |
 | DeepLight | 413729 | [413729-deeplight.json](./413729-deeplight.json) |
 | Deeply | 390113 | [390113-deeply.json](./390113-deeply.json) |
+| Deeply Dark: Found Footage | 132519 | [132519-deeply-dark-found-footage.json](./132519-deeply-dark-found-footage.json) |
 | Deepmess | 285015 | [285015-deepmess.json](./285015-deepmess.json) |
 | Deepolis | 318139 | [318139-deepolis.json](./318139-deepolis.json) |
 | DeepOne | 242521 | [242521-deepone.json](./242521-deepone.json) |
@@ -3632,6 +3634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defenders of the Atlantic | 179479 | [179479-defenders-of-the-atlantic.json](./179479-defenders-of-the-atlantic.json) |
 | Defenders of the Last Colony | 36208 | [36208-defenders-of-the-last-colony.json](./36208-defenders-of-the-last-colony.json) |
 | Defenders of the Omniverse | 255385 | [255385-defenders-of-the-omniverse.json](./255385-defenders-of-the-omniverse.json) |
+| Defenders of the West | 132541 | [132541-defenders-of-the-west.json](./132541-defenders-of-the-west.json) |
 | Defenders of Time | 17722 | [17722-defenders-of-time.json](./17722-defenders-of-time.json) |
 | Defenders: Survival and Tower Defense | 135661 | [135661-defenders-survival-and-tower-defense.json](./135661-defenders-survival-and-tower-defense.json) |
 | DefenderWorks | 61131 | [61131-defenderworks.json](./61131-defenderworks.json) |
@@ -6057,6 +6060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DingDingDing | 109719 | [109719-dingdingding.json](./109719-dingdingding.json) |
 | DingDongVG's Summer Resort | 312289 | [312289-dingdongvgs-summer-resort.json](./312289-dingdongvgs-summer-resort.json) |
 | Dinghai: The Ocean Pillar | 404908 | [404908-dinghai-the-ocean-pillar.json](./404908-dinghai-the-ocean-pillar.json) |
+| Dingleberries | 132509 | [132509-dingleberries.json](./132509-dingleberries.json) |
 | Dinglehoppers | 246534 | [246534-dinglehoppers.json](./246534-dinglehoppers.json) |
 | Dingletopia: Nation Under Siege (by Orcs) | 133410 | [133410-dingletopia-nation-under-siege-by-orcs.json](./133410-dingletopia-nation-under-siege-by-orcs.json) |
 | Dink Smallwood | 11345 | [11345-dink-smallwood.json](./11345-dink-smallwood.json) |
@@ -10066,6 +10070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw & Guess Multiplayer | 348948 | [348948-draw-and-guess-multiplayer.json](./348948-draw-and-guess-multiplayer.json) |
 | Draw 2 Save: Stickman Puzzle | 208980 | [208980-draw-2-save-stickman-puzzle.json](./208980-draw-2-save-stickman-puzzle.json) |
 | Draw a Stickman: Epic | 5032 | [5032-draw-a-stickman-epic.json](./5032-draw-a-stickman-epic.json) |
+| Draw a Stickman: Epic 3 | 132523 | [132523-draw-a-stickman-epic-3.json](./132523-draw-a-stickman-epic-3.json) |
 | Draw A Stickman: Episode 2 | 99999 | [99999-draw-a-stickman-episode-2.json](./99999-draw-a-stickman-episode-2.json) |
 | Draw and Color | 276130 | [276130-draw-and-color.json](./276130-draw-and-color.json) |
 | Draw and Color: Kawaii - Complete Edition | 242047 | [242047-draw-and-color-kawaii-complete-edition.json](./242047-draw-and-color-kawaii-complete-edition.json) |
