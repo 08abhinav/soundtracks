@@ -7436,6 +7436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodgeball Dino Duel | 112281 | [112281-dodgeball-dino-duel.json](./112281-dodgeball-dino-duel.json) |
 | Dodgeball Dojo | 309062 | [309062-dodgeball-dojo.json](./309062-dodgeball-dojo.json) |
 | Dodgeball Duel | 208063 | [208063-dodgeball-duel.json](./208063-dodgeball-duel.json) |
+| DodgeBall: Unleashed | 130071 | [130071-dodgeball-unleashed.json](./130071-dodgeball-unleashed.json) |
 | DodgeBlock | 172420 | [172420-dodgeblock.json](./172420-dodgeblock.json) |
 | Dodgebrawl | 403171 | [403171-dodgebrawl.json](./403171-dodgebrawl.json) |
 | DodgeCraft | 325101 | [325101-dodgecraft.json](./325101-dodgecraft.json) |
