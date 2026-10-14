@@ -1657,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zwerg: A Tale of Beer and Hunger | 413710 | [413710-zwerg-a-tale-of-beer-and-hunger.json](./413710-zwerg-a-tale-of-beer-and-hunger.json) |
 | Zwift | 300513 | [300513-zwift.json](./300513-zwift.json) |
 | Zwölfzehn | 93186 | [93186-zwolfzehn.json](./93186-zwolfzehn.json) |
+| Zworx | 93489 | [93489-zworx.json](./93489-zworx.json) |
 | ZX Asteroids | 319602 | [319602-zx-asteroids.json](./319602-zx-asteroids.json) |
 | ZX Spectrum Pac-Man Arcade | 281479 | [281479-zx-spectrum-pac-man-arcade.json](./281479-zx-spectrum-pac-man-arcade.json) |
 | ZX Terror House | 293359 | [293359-zx-terror-house.json](./293359-zx-terror-house.json) |
