@@ -2896,6 +2896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenome | 205784 | [205784-tenome.json](./205784-tenome.json) |
 | Tenori-on | 213054 | [213054-tenori-on.json](./213054-tenori-on.json) |
 | Tenpin Bowling | 414338 | [414338-tenpin-bowling.json](./414338-tenpin-bowling.json) |
+| Tenpin Challenge | 94613 | [94613-tenpin-challenge.json](./94613-tenpin-challenge.json) |
 | Tenrou Toshi | 243268 | [243268-tenrou-toshi.json](./243268-tenrou-toshi.json) |
 | Tenrow | 33321 | [33321-tenrow.json](./33321-tenrow.json) |
 | Tenryu Genichiro no Pro Wrestling Revolution | 38228 | [38228-tenryu-genichiro-no-pro-wrestling-revolution.json](./38228-tenryu-genichiro-no-pro-wrestling-revolution.json) |
@@ -4846,6 +4847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chalk | 244775 | [244775-the-chalk.json](./244775-the-chalk.json) |
 | The Challenge | 32235 | [32235-the-challenge.json](./32235-the-challenge.json) |
 | The Challenge of Nexar | 11149 | [11149-the-challenge-of-nexar.json](./11149-the-challenge-of-nexar.json) |
+| The Challengers | 94624 | [94624-the-challengers.json](./94624-the-challengers.json) |
 | The Chameleon | 142126 | [142126-the-chameleon.json](./142126-the-chameleon.json) |
 | The Champ | 78689 | [78689-the-champ.json](./78689-the-champ.json) |
 | The Champions of Lootheim | 382759 | [382759-the-champions-of-lootheim.json](./382759-the-champions-of-lootheim.json) |
@@ -17566,6 +17568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Ski Jump | 122159 | [122159-total-ski-jump.json](./122159-total-ski-jump.json) |
 | Total Soccer 2000 | 73353 | [73353-total-soccer-2000.json](./73353-total-soccer-2000.json) |
 | Total Soccer Manager | 49343 | [49343-total-soccer-manager.json](./49343-total-soccer-manager.json) |
+| Total Sports | 94637 | [94637-total-sports.json](./94637-total-sports.json) |
 | Total Survival Simulator | 407361 | [407361-total-survival-simulator.json](./407361-total-survival-simulator.json) |
 | Total Tank Generals | 215725 | [215725-total-tank-generals.json](./215725-total-tank-generals.json) |
 | Total Tank Simulator | 75252 | [75252-total-tank-simulator.json](./75252-total-tank-simulator.json) |
@@ -18138,6 +18141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tout Savoir: 5E | 148663 | [148663-tout-savoir-5e.json](./148663-tout-savoir-5e.json) |
 | Tout Savoir: CM1 | 147346 | [147346-tout-savoir-cm1.json](./147346-tout-savoir-cm1.json) |
 | Tout Savoir: CM2 | 124105 | [124105-tout-savoir-cm2.json](./124105-tout-savoir-cm2.json) |
+| Toute l'Aventure 2 | 94662 | [94662-toute-laventure-2.json](./94662-toute-laventure-2.json) |
 | Touzoku to 1000-biki no Pokémon | 61693 | [61693-touzoku-to-1000-biki-no-pokemon.json](./61693-touzoku-to-1000-biki-no-pokemon.json) |
 | Tover | 24994 | [24994-tover.json](./24994-tover.json) |
 | Toverblade | 145473 | [145473-toverblade.json](./145473-toverblade.json) |
@@ -21845,6 +21849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Golf Racing | 194736 | [194736-turbo-golf-racing.json](./194736-turbo-golf-racing.json) |
 | Turbo Golf Racing: Deep Space Bundle | 295641 | [295641-turbo-golf-racing-deep-space-bundle.json](./295641-turbo-golf-racing-deep-space-bundle.json) |
 | Turbo Golf Racing: Ultimate Bundle | 295642 | [295642-turbo-golf-racing-ultimate-bundle.json](./295642-turbo-golf-racing-ultimate-bundle.json) |
+| Turbo GT | 94635 | [94635-turbo-gt.json](./94635-turbo-gt.json) |
 | Turbo Hovercraft | 359418 | [359418-turbo-hovercraft.json](./359418-turbo-hovercraft.json) |
 | Turbo Kid | 212164 | [212164-turbo-kid.json](./212164-turbo-kid.json) |
 | Turbo Kids | 240348 | [240348-turbo-kids.json](./240348-turbo-kids.json) |
