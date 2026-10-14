@@ -618,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragna-Block | 97984 | [97984-ragna-block.json](./97984-ragna-block.json) |
 | Ragnagard | 40201 | [40201-ragnagard.json](./40201-ragnagard.json) |
 | Ragnania HD | 109711 | [109711-ragnania-hd.json](./109711-ragnania-hd.json) |
+| RagnaQuest | 108896 | [108896-ragnaquest.json](./108896-ragnaquest.json) |
 | Ragnar | 352296 | [352296-ragnar.json](./352296-ragnar.json) |
 | Ragnar's Chinese Memory Game | 156112 | [156112-ragnars-chinese-memory-game.json](./156112-ragnars-chinese-memory-game.json) |
 | Ragnarock | 139399 | [139399-ragnarock.json](./139399-ragnarock.json) |
@@ -4692,6 +4693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddle School 5 | 180138 | [180138-riddle-school-5.json](./180138-riddle-school-5.json) |
 | Riddle School 5: Legacy Edition | 180139 | [180139-riddle-school-5-legacy-edition.json](./180139-riddle-school-5-legacy-edition.json) |
 | Riddle School: Legacy Edition | 180003 | [180003-riddle-school-legacy-edition.json](./180003-riddle-school-legacy-edition.json) |
+| Riddle Stones | 108886 | [108886-riddle-stones.json](./108886-riddle-stones.json) |
 | Riddle Tower | 306586 | [306586-riddle-tower.json](./306586-riddle-tower.json) |
 | Riddle Tower: Halloween DLC | 318433 | [318433-riddle-tower-halloween-dlc.json](./318433-riddle-tower-halloween-dlc.json) |
 | Riddle Transfer | 180140 | [180140-riddle-transfer.json](./180140-riddle-transfer.json) |
@@ -6903,6 +6905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollercoaster World 2 | 230305 | [230305-rollercoaster-world-2.json](./230305-rollercoaster-world-2.json) |
 | RollerForce | 31935 | [31935-rollerforce.json](./31935-rollerforce.json) |
 | Rollergames | 138793 | [138793-rollergames.json](./138793-rollergames.json) |
+| Rollerpede | 108809 | [108809-rollerpede.json](./108809-rollerpede.json) |
 | RollerPlay | 121017 | [121017-rollerplay.json](./121017-rollerplay.json) |
 | Rollers | 127223 | [127223-rollers.json](./127223-rollers.json) |
 | Rollick N' Roll | 339645 | [339645-rollick-n-roll.json](./339645-rollick-n-roll.json) |
@@ -7010,6 +7013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance Choice | 301949 | [301949-romance-choice.json](./301949-romance-choice.json) |
 | Romance Club: Stories I Play | 270927 | [270927-romance-club-stories-i-play.json](./270927-romance-club-stories-i-play.json) |
 | Romance Coaching 101: Couple's Edition | 171517 | [171517-romance-coaching-101-couples-edition.json](./171517-romance-coaching-101-couples-edition.json) |
+| Romance Detective | 108884 | [108884-romance-detective.json](./108884-romance-detective.json) |
 | Romance Detective 2 | 146524 | [146524-romance-detective-2.json](./146524-romance-detective-2.json) |
 | Romance in the Cityscape | 297208 | [297208-romance-in-the-cityscape.json](./297208-romance-in-the-cityscape.json) |
 | Romance is Dead | 273098 | [273098-romance-is-dead.json](./273098-romance-is-dead.json) |
