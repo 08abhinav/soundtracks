@@ -794,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Feel Normal. | 293655 | [293655-you-feel-normal.json](./293655-you-feel-normal.json) |
 | You Find Yourself in a Room | 242778 | [242778-you-find-yourself-in-a-room.json](./242778-you-find-yourself-in-a-room.json) |
 | You Found a Hole in the Ground | 348750 | [348750-you-found-a-hole-in-the-ground.json](./348750-you-found-a-hole-in-the-ground.json) |
+| You Gay? | 84099 | [84099-you-gay.json](./84099-you-gay.json) |
 | You Generation | 174664 | [174664-you-generation.json](./174664-you-generation.json) |
 | You get Eaten by a Cute Milf | 229200 | [229200-you-get-eaten-by-a-cute-milf.json](./229200-you-get-eaten-by-a-cute-milf.json) |
 | You Go Golf | 181688 | [181688-you-go-golf.json](./181688-you-go-golf.json) |
@@ -1108,7 +1109,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys Origin: Special Edition | 167141 | [167141-ys-origin-special-edition.json](./167141-ys-origin-special-edition.json) |
 | Ys Seven | 10948 | [10948-ys-seven.json](./10948-ys-seven.json) |
 | Ys Strategy | 15456 | [15456-ys-strategy.json](./15456-ys-strategy.json) |
-| Ys VI: The Ark of Napishtim | 15454 | [15454-ys-vi-the-ark-of-napishtim.json](./15454-ys-vi-the-ark-of-napishtim.json) |
 | YS VIII Mobile | 139223 | [139223-ys-viii-mobile.json](./139223-ys-viii-mobile.json) |
 | Ys VIII: Lacrimosa of Dana | 27304 | [27304-ys-viii-lacrimosa-of-dana.json](./27304-ys-viii-lacrimosa-of-dana.json) |
 | Ys VIII: Lacrimosa of Dana - Christmas Gift Package | 212316 | [212316-ys-viii-lacrimosa-of-dana-christmas-gift-package.json](./212316-ys-viii-lacrimosa-of-dana-christmas-gift-package.json) |
