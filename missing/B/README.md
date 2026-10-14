@@ -790,6 +790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakudan Baku-tan | 319096 | [319096-bakudan-baku-tan.json](./319096-bakudan-baku-tan.json) |
 | Bakugan Battle Brawlers | 328395 | [328395-bakugan-battle-brawlers.json](./328395-bakugan-battle-brawlers.json) |
 | Bakugan Battle Brawlers: Arcade Battlers | 122989 | [122989-bakugan-battle-brawlers-arcade-battlers.json](./122989-bakugan-battle-brawlers-arcade-battlers.json) |
+| Bakugan Dimensions | 128896 | [128896-bakugan-dimensions.json](./128896-bakugan-dimensions.json) |
 | Bakugan: Champions of Vestroia - Deluxe Edition | 140894 | [140894-bakugan-champions-of-vestroia-deluxe-edition.json](./140894-bakugan-champions-of-vestroia-deluxe-edition.json) |
 | Bakugan: Rise of the Resistance | 26690 | [26690-bakugan-rise-of-the-resistance.json](./26690-bakugan-rise-of-the-resistance.json) |
 | Bakugen: Battle Brawlers | 50694 | [50694-bakugen-battle-brawlers.json](./50694-bakugen-battle-brawlers.json) |
@@ -1078,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballistic | 302039 | [302039-ballistic.json](./302039-ballistic.json) |
 | Ballistic | 80488 | [80488-ballistic.json](./80488-ballistic.json) |
 | Ballistic Brews | 415866 | [415866-ballistic-brews.json](./415866-ballistic-brews.json) |
+| Ballistic Craft | 128300 | [128300-ballistic-craft.json](./128300-ballistic-craft.json) |
 | Ballistic M.A.D.ness | 156887 | [156887-ballistic-m-a-d-ness.json](./156887-ballistic-m-a-d-ness.json) |
 | Ballistic Machines | 152680 | [152680-ballistic-machines.json](./152680-ballistic-machines.json) |
 | Ballistic Mini Golf | 74117 | [74117-ballistic-mini-golf.json](./74117-ballistic-mini-golf.json) |
@@ -7680,6 +7682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Swift Wind | 378362 | [378362-blue-swift-wind.json](./378362-blue-swift-wind.json) |
 | Blue Tear | 30308 | [30308-blue-tear.json](./30308-blue-tear.json) |
 | Blue Thunder | 296678 | [296678-blue-thunder.json](./296678-blue-thunder.json) |
+| Blue Time | 128306 | [128306-blue-time.json](./128306-blue-time.json) |
 | Blue Tower Chronicle | 413739 | [413739-blue-tower-chronicle.json](./413739-blue-tower-chronicle.json) |
 | Blue Volta | 120251 | [120251-blue-volta.json](./120251-blue-volta.json) |
 | Blue Wars | 193947 | [193947-blue-wars.json](./193947-blue-wars.json) |
@@ -9580,6 +9583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brass Bellow | 131958 | [131958-brass-bellow.json](./131958-brass-bellow.json) |
 | Brass Lament | 343277 | [343277-brass-lament.json](./343277-brass-lament.json) |
 | Brass Necessity | 292324 | [292324-brass-necessity.json](./292324-brass-necessity.json) |
+| Brass Town Wrestling | 128271 | [128271-brass-town-wrestling.json](./128271-brass-town-wrestling.json) |
 | Brass: Birmingham | 153870 | [153870-brass-birmingham.json](./153870-brass-birmingham.json) |
 | Brassfang | 405021 | [405021-brassfang.json](./405021-brassfang.json) |
 | Brassheart | 119650 | [119650-brassheart.json](./119650-brassheart.json) |
@@ -9933,6 +9937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaking Mad | 123515 | [123515-breaking-mad.json](./123515-breaking-mad.json) |
 | Breaking Point | 393532 | [393532-breaking-point.json](./393532-breaking-point.json) |
 | Breaking Survivors | 258968 | [258968-breaking-survivors.json](./258968-breaking-survivors.json) |
+| Breaking the 4th wall | 128914 | [128914-breaking-the-4th-wall.json](./128914-breaking-the-4th-wall.json) |
 | Breaking the Barrier | 268670 | [268670-breaking-the-barrier.json](./268670-breaking-the-barrier.json) |
 | Breaking The Rules: The Roman Tournament | 52477 | [52477-breaking-the-rules-the-roman-tournament.json](./52477-breaking-the-rules-the-roman-tournament.json) |
 | Breaking Up Is Hard To Do | 389660 | [389660-breaking-up-is-hard-to-do.json](./389660-breaking-up-is-hard-to-do.json) |
@@ -11568,6 +11573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buried | 272235 | [272235-buried.json](./272235-buried.json) |
 | Buried | 380046 | [380046-buried.json](./380046-buried.json) |
 | Buried Alive: Breathless Rescue | 258999 | [258999-buried-alive-breathless-rescue.json](./258999-buried-alive-breathless-rescue.json) |
+| Buried Alive: The Annihilation VR | 128911 | [128911-buried-alive-the-annihilation-vr.json](./128911-buried-alive-the-annihilation-vr.json) |
 | Buried Beneath | 108849 | [108849-buried-beneath.json](./108849-buried-beneath.json) |
 | Buried Buck$ | 76595 | [76595-buried-buck.json](./76595-buried-buck.json) |
 | Buried Chambers | 129704 | [129704-buried-chambers.json](./129704-buried-chambers.json) |
@@ -11902,6 +11908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterfly Dream | 322974 | [322974-butterfly-dream.json](./322974-butterfly-dream.json) |
 | Butterfly Effect | 243651 | [243651-butterfly-effect.json](./243651-butterfly-effect.json) |
 | Butterfly Garden | 69285 | [69285-butterfly-garden.json](./69285-butterfly-garden.json) |
+| Butterfly Killer | 128305 | [128305-butterfly-killer.json](./128305-butterfly-killer.json) |
 | Butterfly Sky | 233519 | [233519-butterfly-sky.json](./233519-butterfly-sky.json) |
 | Butterfly Soup 2 | 165549 | [165549-butterfly-soup-2.json](./165549-butterfly-soup-2.json) |
 | Butterfly X | 373209 | [373209-butterfly-x.json](./373209-butterfly-x.json) |
