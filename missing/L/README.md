@@ -1682,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Assassin: Egypt | 108069 | [108069-legend-of-assassin-egypt.json](./108069-legend-of-assassin-egypt.json) |
 | Legend of Assassin: Siberia | 107830 | [107830-legend-of-assassin-siberia.json](./107830-legend-of-assassin-siberia.json) |
 | Legend of Azcarth | 158505 | [158505-legend-of-azcarth.json](./158505-legend-of-azcarth.json) |
+| Legend of Ball | 103242 | [103242-legend-of-ball.json](./103242-legend-of-ball.json) |
 | Legend of Bricks | 175176 | [175176-legend-of-bricks.json](./175176-legend-of-bricks.json) |
 | Legend of Camelot | 66939 | [66939-legend-of-camelot.json](./66939-legend-of-camelot.json) |
 | Legend of Chilli Tree | 161160 | [161160-legend-of-chilli-tree.json](./161160-legend-of-chilli-tree.json) |
