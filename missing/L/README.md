@@ -5034,6 +5034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot List | 226875 | [226875-loot-list.json](./226875-loot-list.json) |
 | Loot Loop | 391204 | [391204-loot-loop.json](./391204-loot-loop.json) |
 | Loot Loot Goblin | 316778 | [316778-loot-loot-goblin.json](./316778-loot-loot-goblin.json) |
+| Loot Monkey: Bling Palace | 106352 | [106352-loot-monkey-bling-palace.json](./106352-loot-monkey-bling-palace.json) |
 | Loot of Idle | 374942 | [374942-loot-of-idle.json](./374942-loot-of-idle.json) |
 | Loot or Die | 31403 | [31403-loot-or-die.json](./31403-loot-or-die.json) |
 | Loot Profit | 346643 | [346643-loot-profit.json](./346643-loot-profit.json) |
@@ -6728,6 +6729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luxe Chalk | 87798 | [87798-luxe-chalk.json](./87798-luxe-chalk.json) |
 | Luxin Time | 41894 | [41894-luxin-time.json](./41894-luxin-time.json) |
 | Luxis | 31701 | [31701-luxis.json](./31701-luxis.json) |
+| Luxo Buddies | 106427 | [106427-luxo-buddies.json](./106427-luxo-buddies.json) |
 | Luxo Buddies: Expansion Pack 1 | 226877 | [226877-luxo-buddies-expansion-pack-1.json](./226877-luxo-buddies-expansion-pack-1.json) |
 | Luxor | 7534 | [7534-luxor.json](./7534-luxor.json) |
 | Luxor 2 HD | 30226 | [30226-luxor-2-hd.json](./30226-luxor-2-hd.json) |
