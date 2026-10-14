@@ -3107,6 +3107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otome Sekai no Arukikata | 305837 | [305837-otome-sekai-no-arukikata.json](./305837-otome-sekai-no-arukikata.json) |
 | Otome Senki | 304733 | [304733-otome-senki.json](./304733-otome-senki.json) |
 | Otome the Exorcist | 158045 | [158045-otome-the-exorcist.json](./158045-otome-the-exorcist.json) |
+| Otome wa Boku ni Koishiteru: Futari no Elder | 79777 | [79777-otome-wa-boku-ni-koishiteru-futari-no-elder.json](./79777-otome-wa-boku-ni-koishiteru-futari-no-elder.json) |
 | Otomedius | 1685 | [1685-otomedius.json](./1685-otomedius.json) |
 | Otomedius Excellent | 1695 | [1695-otomedius-excellent.json](./1695-otomedius-excellent.json) |
 | Otometeki Koi Kakumei Love Revo! Portable | 214560 | [214560-otometeki-koi-kakumei-love-revo-portable.json](./214560-otometeki-koi-kakumei-love-revo-portable.json) |
