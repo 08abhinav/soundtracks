@@ -2862,6 +2862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fierce Tales: The Dog's Heart | 139777 | [139777-fierce-tales-the-dogs-heart.json](./139777-fierce-tales-the-dogs-heart.json) |
 | Fierce Tales: The Dog's Heart - Collector's Edition | 22135 | [22135-fierce-tales-the-dogs-heart-collectors-edition.json](./22135-fierce-tales-the-dogs-heart-collectors-edition.json) |
 | Fierce Tide | 188405 | [188405-fierce-tide.json](./188405-fierce-tide.json) |
+| FierceWind Decay | 132530 | [132530-fiercewind-decay.json](./132530-fiercewind-decay.json) |
 | Fiery Arrow | 257876 | [257876-fiery-arrow.json](./257876-fiery-arrow.json) |
 | Fiery Melody | 180094 | [180094-fiery-melody.json](./180094-fiery-melody.json) |
 | Fiesta | 51217 | [51217-fiesta.json](./51217-fiesta.json) |
@@ -6183,6 +6184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Elise | 257070 | [257070-for-elise.json](./257070-for-elise.json) |
 | For Enigma | 258450 | [258450-for-enigma.json](./258450-for-enigma.json) |
 | For Eternity | 110309 | [110309-for-eternity.json](./110309-for-eternity.json) |
+| For Evelyn | 132558 | [132558-for-evelyn.json](./132558-for-evelyn.json) |
 | For Evelyn II: Shards of Creation | 236723 | [236723-for-evelyn-ii-shards-of-creation.json](./236723-for-evelyn-ii-shards-of-creation.json) |
 | for Give | 134334 | [134334-for-give.json](./134334-for-give.json) |
 | For God's Sake | 110793 | [110793-for-gods-sake.json](./110793-for-gods-sake.json) |
@@ -8635,6 +8637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fulfillment Center Simulator | 320935 | [320935-fulfillment-center-simulator.json](./320935-fulfillment-center-simulator.json) |
 | Fulger McQueen Off road | 231951 | [231951-fulger-mcqueen-off-road.json](./231951-fulger-mcqueen-off-road.json) |
 | Full ADHD | 326669 | [326669-full-adhd.json](./326669-full-adhd.json) |
+| Full Animal Party | 132551 | [132551-full-animal-party.json](./132551-full-animal-party.json) |
 | Full Auto | 6998 | [6998-full-auto.json](./6998-full-auto.json) |
 | Full Auto 2: Battlelines | 197931 | [197931-full-auto-2-battlelines.json](./197931-full-auto-2-battlelines.json) |
 | Full Belly Breakout | 402912 | [402912-full-belly-breakout.json](./402912-full-belly-breakout.json) |
