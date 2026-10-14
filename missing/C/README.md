@@ -2493,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Fish Island | 191181 | [191181-cat-fish-island.json](./191181-cat-fish-island.json) |
 | Cat Flower Tree | 175692 | [175692-cat-flower-tree.json](./175692-cat-flower-tree.json) |
 | Cat Follow Me | 192358 | [192358-cat-follow-me.json](./192358-cat-follow-me.json) |
+| Cat Food | 103231 | [103231-cat-food.json](./103231-cat-food.json) |
 | Cat Forest: Healing Camp | 239918 | [239918-cat-forest-healing-camp.json](./239918-cat-forest-healing-camp.json) |
 | Cat Fred Evil Pet | 272860 | [272860-cat-fred-evil-pet.json](./272860-cat-fred-evil-pet.json) |
 | Cat From Hell 2 | 369364 | [369364-cat-from-hell-2.json](./369364-cat-from-hell-2.json) |
@@ -5749,6 +5750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle Triangle Square | 257116 | [257116-circle-triangle-square.json](./257116-circle-triangle-square.json) |
 | Circle Up | 103973 | [103973-circle-up.json](./103973-circle-up.json) |
 | Circle Up | 344567 | [344567-circle-up.json](./344567-circle-up.json) |
+| Circle vs. Spikes | 103270 | [103270-circle-vs-spikes.json](./103270-circle-vs-spikes.json) |
 | Circle With a Gun | 393543 | [393543-circle-with-a-gun.json](./393543-circle-with-a-gun.json) |
 | Circle's End | 27670 | [27670-circles-end.json](./27670-circles-end.json) |
 | Circlebound | 384622 | [384622-circlebound.json](./384622-circlebound.json) |
@@ -6185,6 +6187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civil Warfare | 329048 | [329048-civil-warfare.json](./329048-civil-warfare.json) |
 | Civil Warfare: Another Bullet in the War | 79136 | [79136-civil-warfare-another-bullet-in-the-war.json](./79136-civil-warfare-another-bullet-in-the-war.json) |
 | Civil: The Game | 122061 | [122061-civil-the-game.json](./122061-civil-the-game.json) |
+| Civilcontract | 103271 | [103271-civilcontract.json](./103271-civilcontract.json) |
 | CivilContractRPG | 125847 | [125847-civilcontractrpg.json](./125847-civilcontractrpg.json) |
 | Civilization | 175915 | [175915-civilization.json](./175915-civilization.json) |
 | Civilization Online | 63915 | [63915-civilization-online.json](./63915-civilization-online.json) |
@@ -10380,6 +10383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CP3D | 109581 | [109581-cp3d.json](./109581-cp3d.json) |
 | CPA: Reports Bousy | 311123 | [311123-cpa-reports-bousy.json](./311123-cpa-reports-bousy.json) |
 | CPD | 262550 | [262550-cpd.json](./262550-cpd.json) |
+| CPRC: Extant Hunters | 103229 | [103229-cprc-extant-hunters.json](./103229-cprc-extant-hunters.json) |
 | Cpt. Balloney: Painful days at home | 153502 | [153502-cpt-balloney-painful-days-at-home.json](./153502-cpt-balloney-painful-days-at-home.json) |
 | CPU Architecture Sim | 116930 | [116930-cpu-architecture-sim.json](./116930-cpu-architecture-sim.json) |
 | CPU Invaders: Aim Hero | 413665 | [413665-cpu-invaders-aim-hero.json](./413665-cpu-invaders-aim-hero.json) |
@@ -12208,6 +12212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CryptoCannoneer | 165128 | [165128-cryptocannoneer.json](./165128-cryptocannoneer.json) |
 | CryptoClash | 265730 | [265730-cryptoclash.json](./265730-cryptoclash.json) |
 | CryptoClickers | 218162 | [218162-cryptoclickers.json](./218162-cryptoclickers.json) |
+| CryptoCoin, Inc. | 103296 | [103296-cryptocoin-inc.json](./103296-cryptocoin-inc.json) |
 | Cryptocracy | 29027 | [29027-cryptocracy.json](./29027-cryptocracy.json) |
 | Cryptofall: Investor simulator | 122253 | [122253-cryptofall-investor-simulator.json](./122253-cryptofall-investor-simulator.json) |
 | CryptoFarm | 107771 | [107771-cryptofarm.json](./107771-cryptofarm.json) |
