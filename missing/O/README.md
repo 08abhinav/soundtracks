@@ -235,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Occult | 153954 | [153954-occult.json](./153954-occult.json) |
 | Occult Chambers | 235186 | [235186-occult-chambers.json](./235186-occult-chambers.json) |
 | Occult Crime Police | 178899 | [178899-occult-crime-police.json](./178899-occult-crime-police.json) |
+| Occult PreRaise | 74980 | [74980-occult-preraise.json](./74980-occult-preraise.json) |
 | Occult: Scarlet Elegy | 404973 | [404973-occult-scarlet-elegy.json](./404973-occult-scarlet-elegy.json) |
 | OcculThieves | 272374 | [272374-occulthieves.json](./272374-occulthieves.json) |
 | Occultism Interrogation: The Ritual of Little Nightmares | 164922 | [164922-occultism-interrogation-the-ritual-of-little-nightmares.json](./164922-occultism-interrogation-the-ritual-of-little-nightmares.json) |
@@ -3788,6 +3789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overkill | 196561 | [196561-overkill.json](./196561-overkill.json) |
 | Overkill | 272013 | [272013-overkill.json](./272013-overkill.json) |
 | Overkill | 95402 | [95402-overkill.json](./95402-overkill.json) |
+| OverKill | 74937 | [74937-overkill.json](./74937-overkill.json) |
 | Overkill 3 | 69373 | [69373-overkill-3.json](./69373-overkill-3.json) |
 | Overkill Mafia | 22138 | [22138-overkill-mafia.json](./22138-overkill-mafia.json) |
 | Overkill Squad | 374932 | [374932-overkill-squad.json](./374932-overkill-squad.json) |
