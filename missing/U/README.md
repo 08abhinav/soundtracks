@@ -2130,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up to Par | 211981 | [211981-up-to-par.json](./211981-up-to-par.json) |
 | Up Until the End | 133472 | [133472-up-until-the-end.json](./133472-up-until-the-end.json) |
 | Up Up & Down! | 312324 | [312324-up-up-and-down.json](./312324-up-up-and-down.json) |
+| Up Up Bot | 101426 | [101426-up-up-bot.json](./101426-up-up-bot.json) |
 | Up Up Up | 393836 | [393836-up-up-up.json](./393836-up-up-up.json) |
 | Up With Doznik | 312569 | [312569-up-with-doznik.json](./312569-up-with-doznik.json) |
 | Up Words | 200370 | [200370-up-words.json](./200370-up-words.json) |
