@@ -5262,6 +5262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost | 186258 | [186258-lost.json](./186258-lost.json) |
 | Lost | 327379 | [327379-lost.json](./327379-lost.json) |
 | Lost | 99158 | [99158-lost.json](./99158-lost.json) |
+| Lost & Alone: Adventure Escape | 90537 | [90537-lost-and-alone-adventure-escape.json](./90537-lost-and-alone-adventure-escape.json) |
 | Lost & Found | 110786 | [110786-lost-and-found.json](./110786-lost-and-found.json) |
 | Lost & Found | 404803 | [404803-lost-and-found.json](./404803-lost-and-found.json) |
 | Lost & Found: A This Bed We Made Story | 391841 | [391841-lost-and-found-a-this-bed-we-made-story.json](./391841-lost-and-found-a-this-bed-we-made-story.json) |
