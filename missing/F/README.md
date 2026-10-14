@@ -3899,6 +3899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Ball | 161775 | [161775-fire-ball.json](./161775-fire-ball.json) |
 | Fire Ball | 40136 | [40136-fire-ball.json](./40136-fire-ball.json) |
 | Fire Bam | 41267 | [41267-fire-bam.json](./41267-fire-bam.json) |
+| Fire Boat | 106471 | [106471-fire-boat.json](./106471-fire-boat.json) |
 | Fire Breathers | 243935 | [243935-fire-breathers.json](./243935-fire-breathers.json) |
 | Fire Burning City | 346676 | [346676-fire-burning-city.json](./346676-fire-burning-city.json) |
 | Fire Commander: First Response | 166188 | [166188-fire-commander-first-response.json](./166188-fire-commander-first-response.json) |
@@ -4182,6 +4183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firo & Klawd | 28218 | [28218-firo-and-klawd.json](./28218-firo-and-klawd.json) |
 | Firon | 114979 | [114979-firon.json](./114979-firon.json) |
 | First | 377569 | [377569-first.json](./377569-first.json) |
+| First & Sight Words | 106470 | [106470-first-and-sight-words.json](./106470-first-and-sight-words.json) |
 | First Age | 393751 | [393751-first-age.json](./393751-first-age.json) |
 | First Anchor | 69559 | [69559-first-anchor.json](./69559-first-anchor.json) |
 | First Bite: Bad Blood | 221167 | [221167-first-bite-bad-blood.json](./221167-first-bite-bad-blood.json) |
