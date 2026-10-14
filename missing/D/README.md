@@ -2306,6 +2306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Hand | 120740 | [120740-dead-hand.json](./120740-dead-hand.json) |
 | Dead Hearts | 156563 | [156563-dead-hearts.json](./156563-dead-hearts.json) |
 | Dead Heat | 284966 | [284966-dead-heat.json](./284966-dead-heat.json) |
+| Dead Heat | 92387 | [92387-dead-heat.json](./92387-dead-heat.json) |
 | Dead Heat Scramble | 48950 | [48950-dead-heat-scramble.json](./48950-dead-heat-scramble.json) |
 | Dead Hook | 252209 | [252209-dead-hook.json](./252209-dead-hook.json) |
 | Dead Horizon | 52772 | [52772-dead-horizon.json](./52772-dead-horizon.json) |
@@ -6530,6 +6531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc | 365671 | [365671-disc.json](./365671-disc.json) |
 | Disc Creatures | 117532 | [117532-disc-creatures.json](./117532-disc-creatures.json) |
 | Disc Dimension | 278153 | [278153-disc-dimension.json](./278153-disc-dimension.json) |
+| Disc Drivin' | 92398 | [92398-disc-drivin.json](./92398-disc-drivin.json) |
 | Disc Golf 3D | 89808 | [89808-disc-golf-3d.json](./89808-disc-golf-3d.json) |
 | Disc Golf Adventure 2 VR | 148481 | [148481-disc-golf-adventure-2-vr.json](./148481-disc-golf-adventure-2-vr.json) |
 | Disc Golf Rival | 221377 | [221377-disc-golf-rival.json](./221377-disc-golf-rival.json) |
@@ -11409,6 +11411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dual Pack I Spirits of Mystery: Song of the Phoenix & Spirits of Mystery: The Dark Minotaur | 201853 | [201853-dual-pack-i-spirits-of-mystery-song-of-the-phoenix-and-spirits-of-mystery-the-dark-minotaur.json](./201853-dual-pack-i-spirits-of-mystery-song-of-the-phoenix-and-spirits-of-mystery-the-dark-minotaur.json) |
 | Dual Pack: Pac-Man World 3 / Namco Museum DS | 220258 | [220258-dual-pack-pac-man-world-3-namco-museum-ds.json](./220258-dual-pack-pac-man-world-3-namco-museum-ds.json) |
 | Dual Paths | 349823 | [349823-dual-paths.json](./349823-dual-paths.json) |
+| Dual Pen Sports | 92382 | [92382-dual-pen-sports.json](./92382-dual-pen-sports.json) |
 | Dual Pong | 134944 | [134944-dual-pong.json](./134944-dual-pong.json) |
 | Dual Protocol: The Case of Eva & Miles | 407324 | [407324-dual-protocol-the-case-of-eva-and-miles.json](./407324-dual-protocol-the-case-of-eva-and-miles.json) |
 | Dual Souls: The Last Bearer - Complete Edition | 196049 | [196049-dual-souls-the-last-bearer-complete-edition.json](./196049-dual-souls-the-last-bearer-complete-edition.json) |
@@ -11969,6 +11972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Keep | 323796 | [323796-dungeon-keep.json](./323796-dungeon-keep.json) |
 | Dungeon Keeper | 20093 | [20093-dungeon-keeper.json](./20093-dungeon-keeper.json) |
 | Dungeon Keeper 3 | 12278 | [12278-dungeon-keeper-3.json](./12278-dungeon-keeper-3.json) |
+| Dungeon Keeper Online | 92414 | [92414-dungeon-keeper-online.json](./92414-dungeon-keeper-online.json) |
 | Dungeon Keeper Premium | 334252 | [334252-dungeon-keeper-premium.json](./334252-dungeon-keeper-premium.json) |
 | Dungeon Killer | 400474 | [400474-dungeon-killer.json](./400474-dungeon-killer.json) |
 | Dungeon Killing | 355210 | [355210-dungeon-killing.json](./355210-dungeon-killing.json) |
@@ -12630,6 +12634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyna Blade | 271402 | [271402-dyna-blade.json](./271402-dyna-blade.json) |
 | Dyna Bomb 2 | 206423 | [206423-dyna-bomb-2.json](./206423-dyna-bomb-2.json) |
 | Dynablaster Revenge | 18445 | [18445-dynablaster-revenge.json](./18445-dynablaster-revenge.json) |
+| Dynabusters | 92413 | [92413-dynabusters.json](./92413-dynabusters.json) |
 | Dynacat | 196958 | [196958-dynacat.json](./196958-dynacat.json) |
 | Dynacore | 214722 | [214722-dynacore.json](./214722-dynacore.json) |
 | Dynamaite the Las Vegas | 44441 | [44441-dynamaite-the-las-vegas.json](./44441-dynamaite-the-las-vegas.json) |
