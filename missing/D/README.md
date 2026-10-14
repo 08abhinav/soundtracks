@@ -2835,7 +2835,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Alley | 179681 | [179681-death-alley.json](./179681-death-alley.json) |
 | Death and Betrayal in Romania: A Dana Knightstone Novel - Collector's Edition | 107838 | [107838-death-and-betrayal-in-romania-a-dana-knightstone-novel-collectors-edition.json](./107838-death-and-betrayal-in-romania-a-dana-knightstone-novel-collectors-edition.json) |
 | Death and Tactics | 353364 | [353364-death-and-tactics.json](./353364-death-and-tactics.json) |
-| Death and Taxes | 126835 | [126835-death-and-taxes.json](./126835-death-and-taxes.json) |
 | Death Angel Nightmare | 235877 | [235877-death-angel-nightmare.json](./235877-death-angel-nightmare.json) |
 | Death Angel Trial | 284334 | [284334-death-angel-trial.json](./284334-death-angel-trial.json) |
 | Death Animal Parade | 260210 | [260210-death-animal-parade.json](./260210-death-animal-parade.json) |
