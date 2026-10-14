@@ -1856,6 +1856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Activision Anthology | 301430 | [301430-activision-anthology.json](./301430-activision-anthology.json) |
 | Activision Anthology: Remix Edition | 45979 | [45979-activision-anthology-remix-edition.json](./45979-activision-anthology-remix-edition.json) |
 | Activision Collection 1 | 379134 | [379134-activision-collection-1.json](./379134-activision-collection-1.json) |
+| Activision's Atari 2600 Action Pack 2 | 100084 | [100084-activisions-atari-2600-action-pack-2.json](./100084-activisions-atari-2600-action-pack-2.json) |
 | Activision's Atari 2600 Action Pack 3 | 80841 | [80841-activisions-atari-2600-action-pack-3.json](./80841-activisions-atari-2600-action-pack-3.json) |
 | Activision's Commodore 64 15 Pack | 82061 | [82061-activisions-commodore-64-15-pack.json](./82061-activisions-commodore-64-15-pack.json) |
 | Activity Bingo Travel | 108908 | [108908-activity-bingo-travel.json](./108908-activity-bingo-travel.json) |
@@ -2205,6 +2206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Inlay | 139720 | [139720-adventure-inlay.json](./139720-adventure-inlay.json) |
 | Adventure Inlay: Safari Edition | 52550 | [52550-adventure-inlay-safari-edition.json](./52550-adventure-inlay-safari-edition.json) |
 | Adventure Interpreter | 73272 | [73272-adventure-interpreter.json](./73272-adventure-interpreter.json) |
+| Adventure Island | 100068 | [100068-adventure-island.json](./100068-adventure-island.json) |
 | Adventure Island II | 6471 | [6471-adventure-island-ii.json](./6471-adventure-island-ii.json) |
 | Adventure Island: The Beginning | 50697 | [50697-adventure-island-the-beginning.json](./50697-adventure-island-the-beginning.json) |
 | Adventure Joystick | 214687 | [214687-adventure-joystick.json](./214687-adventure-joystick.json) |
@@ -3272,6 +3274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Attack 2 | 266740 | [266740-air-attack-2.json](./266740-air-attack-2.json) |
 | Air Attack 3.0, Aerial Firefighting Game | 127851 | [127851-air-attack-3-0-aerial-firefighting-game.json](./127851-air-attack-3-0-aerial-firefighting-game.json) |
 | Air Attack 3D: Sky War | 223960 | [223960-air-attack-3d-sky-war.json](./223960-air-attack-3d-sky-war.json) |
+| Air Attack Pack | 100086 | [100086-air-attack-pack.json](./100086-air-attack-pack.json) |
 | Air Attack VR | 231844 | [231844-air-attack-vr.json](./231844-air-attack-vr.json) |
 | Air Ball 2 | 146818 | [146818-air-ball-2.json](./146818-air-ball-2.json) |
 | Air Battle Chess | 197361 | [197361-air-battle-chess.json](./197361-air-battle-chess.json) |
@@ -4973,6 +4976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlphaFurry | 347205 | [347205-alphafurry.json](./347205-alphafurry.json) |
 | Alphageddon | 293086 | [293086-alphageddon.json](./293086-alphageddon.json) |
 | AlphaLink | 173170 | [173170-alphalink.json](./173170-alphalink.json) |
+| AlphaMan | 100109 | [100109-alphaman.json](./100109-alphaman.json) |
 | AlphaMan | 308344 | [308344-alphaman.json](./308344-alphaman.json) |
 | AlphaNatix: Urban Legends | 308347 | [308347-alphanatix-urban-legends.json](./308347-alphanatix-urban-legends.json) |
 | Alphapet | 131308 | [131308-alphapet.json](./131308-alphapet.json) |
