@@ -1447,6 +1447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leap of Champions | 129650 | [129650-leap-of-champions.json](./129650-leap-of-champions.json) |
 | Leap Of Faith | 333127 | [333127-leap-of-faith.json](./333127-leap-of-faith.json) |
 | Leap of Fate | 50227 | [50227-leap-of-fate.json](./50227-leap-of-fate.json) |
+| Leap of Leaf | 131923 | [131923-leap-of-leaf.json](./131923-leap-of-leaf.json) |
 | Leap of Love | 149436 | [149436-leap-of-love.json](./149436-leap-of-love.json) |
 | Leap of Love: Dark Princesses | 273587 | [273587-leap-of-love-dark-princesses.json](./273587-leap-of-love-dark-princesses.json) |
 | Leap of Love: Safe Edition | 171450 | [171450-leap-of-love-safe-edition.json](./171450-leap-of-love-safe-edition.json) |
@@ -4912,6 +4913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop Train | 179447 | [179447-loop-train.json](./179447-loop-train.json) |
 | Loop Yourself | 359021 | [359021-loop-yourself.json](./359021-loop-yourself.json) |
 | Loop: New Reality | 333219 | [333219-loop-new-reality.json](./333219-loop-new-reality.json) |
+| Loop: the distress call | 131949 | [131949-loop-the-distress-call.json](./131949-loop-the-distress-call.json) |
 | Loop8: Celestial Edition | 221330 | [221330-loop8-celestial-edition.json](./221330-loop8-celestial-edition.json) |
 | Loopbreaker | 395586 | [395586-loopbreaker.json](./395586-loopbreaker.json) |
 | LoopBreaker | 335241 | [335241-loopbreaker.json](./335241-loopbreaker.json) |
