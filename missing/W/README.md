@@ -3233,6 +3233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who is the Defendant: Deliberately Rough | 312554 | [312554-who-is-the-defendant-deliberately-rough.json](./312554-who-is-the-defendant-deliberately-rough.json) |
 | Who is the Hero of This Game | 195784 | [195784-who-is-the-hero-of-this-game.json](./195784-who-is-the-hero-of-this-game.json) |
 | Who is the Joker? | 298424 | [298424-who-is-the-joker.json](./298424-who-is-the-joker.json) |
+| Who is the Killer: Episode II | 89086 | [89086-who-is-the-killer-episode-ii.json](./89086-who-is-the-killer-episode-ii.json) |
 | Who is the Killer: Episode III | 104444 | [104444-who-is-the-killer-episode-iii.json](./104444-who-is-the-killer-episode-iii.json) |
 | Who Is The Killer: Episode IV | 304356 | [304356-who-is-the-killer-episode-iv.json](./304356-who-is-the-killer-episode-iv.json) |
 | Who is the New Maid? | 246076 | [246076-who-is-the-new-maid.json](./246076-who-is-the-new-maid.json) |
@@ -4356,6 +4357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches' Legacy: Lair of the Witch Queen - Collector's Edition | 110374 | [110374-witches-legacy-lair-of-the-witch-queen-collectors-edition.json](./110374-witches-legacy-lair-of-the-witch-queen-collectors-edition.json) |
 | Witches' Legacy: Lair of the Witch Queen & Witches' Legacy: Hunter and the Hunted | 201072 | [201072-witches-legacy-lair-of-the-witch-queen-and-witches-legacy-hunter-and-the-hunted.json](./201072-witches-legacy-lair-of-the-witch-queen-and-witches-legacy-hunter-and-the-hunted.json) |
 | Witches' Legacy: The City That Isn't There | 415976 | [415976-witches-legacy-the-city-that-isnt-there.json](./415976-witches-legacy-the-city-that-isnt-there.json) |
+| Witches' Legacy: The Dark Throne HD | 89120 | [89120-witches-legacy-the-dark-throne-hd.json](./89120-witches-legacy-the-dark-throne-hd.json) |
 | Witches' Legacy: The Ties That Bind - Collector's Edition | 32735 | [32735-witches-legacy-the-ties-that-bind-collectors-edition.json](./32735-witches-legacy-the-ties-that-bind-collectors-edition.json) |
 | Witcheye | 121440 | [121440-witcheye.json](./121440-witcheye.json) |
 | Witchfall: Secrets of Emotica | 173016 | [173016-witchfall-secrets-of-emotica.json](./173016-witchfall-secrets-of-emotica.json) |
@@ -5368,6 +5370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Conqueror X | 89152 | [89152-world-conqueror-x.json](./89152-world-conqueror-x.json) |
 | World Court Tennis | 37732 | [37732-world-court-tennis.json](./37732-world-court-tennis.json) |
 | World Craft Epic Dream Island | 86953 | [86953-world-craft-epic-dream-island.json](./86953-world-craft-epic-dream-island.json) |
+| World Craft HD | 89105 | [89105-world-craft-hd.json](./89105-world-craft-hd.json) |
 | World Cricket Championship 2 | 165526 | [165526-world-cricket-championship-2.json](./165526-world-cricket-championship-2.json) |
 | World Cricket Championship 3 | 165559 | [165559-world-cricket-championship-3.json](./165559-world-cricket-championship-3.json) |
 | World Cruise Story | 65518 | [65518-world-cruise-story.json](./65518-world-cruise-story.json) |
