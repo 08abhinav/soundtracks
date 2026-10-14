@@ -3280,6 +3280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Cut: Death on the Silver Screen - Collector's Edition | 31690 | [31690-final-cut-death-on-the-silver-screen-collectors-edition.json](./31690-final-cut-death-on-the-silver-screen-collectors-edition.json) |
 | Final Cut: Encore | 98381 | [98381-final-cut-encore.json](./98381-final-cut-encore.json) |
 | Final Cut: Fame Fatale - A Hidden Object Adventure | 88468 | [88468-final-cut-fame-fatale-a-hidden-object-adventure.json](./88468-final-cut-fame-fatale-a-hidden-object-adventure.json) |
+| Final Cut: Fame Fatale - Collector's Edition | 111511 | [111511-final-cut-fame-fatale-collectors-edition.json](./111511-final-cut-fame-fatale-collectors-edition.json) |
 | Final Cut: Homage | 98382 | [98382-final-cut-homage.json](./98382-final-cut-homage.json) |
 | Final Cut: The True Escapade | 98380 | [98380-final-cut-the-true-escapade.json](./98380-final-cut-the-true-escapade.json) |
 | Final Cut: The True Escapade - Collector's Edition | 96942 | [96942-final-cut-the-true-escapade-collectors-edition.json](./96942-final-cut-the-true-escapade-collectors-edition.json) |
@@ -8160,6 +8161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger | 288264 | [288264-frogger.json](./288264-frogger.json) |
 | Frogger | 341890 | [341890-frogger.json](./341890-frogger.json) |
 | Frogger | 6795 | [6795-frogger.json](./6795-frogger.json) |
+| Frogger 2 | 111559 | [111559-frogger-2.json](./111559-frogger-2.json) |
 | Frogger 64 | 40917 | [40917-frogger-64.json](./40917-frogger-64.json) |
 | Frogger Arcade Game | 96929 | [96929-frogger-arcade-game.json](./96929-frogger-arcade-game.json) |
 | Frogger Evolution | 218547 | [218547-frogger-evolution.json](./218547-frogger-evolution.json) |
