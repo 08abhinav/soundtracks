@@ -4521,6 +4521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock On | 335708 | [335708-lock-on.json](./335708-lock-on.json) |
 | Lock on: Flaming Cliffs 3 | 63815 | [63815-lock-on-flaming-cliffs-3.json](./63815-lock-on-flaming-cliffs-3.json) |
 | Lock On: Modern Air Combat | 10201 | [10201-lock-on-modern-air-combat.json](./10201-lock-on-modern-air-combat.json) |
+| Lock Parsing | 81930 | [81930-lock-parsing.json](./81930-lock-parsing.json) |
 | Lock the door | 184588 | [184588-lock-the-door.json](./184588-lock-the-door.json) |
 | Lock-On | 95392 | [95392-lock-on.json](./95392-lock-on.json) |
 | Lock's Quest | 18264 | [18264-locks-quest.json](./18264-locks-quest.json) |
