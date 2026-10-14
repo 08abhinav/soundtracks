@@ -5770,6 +5770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Rave | 245904 | [245904-die-rave.json](./245904-die-rave.json) |
 | Die Reise ins All | 127916 | [127916-die-reise-ins-all.json](./127916-die-reise-ins-all.json) |
 | Die Rowdy | 299766 | [299766-die-rowdy.json](./299766-die-rowdy.json) |
+| Die Sage von Nietoom | 92927 | [92927-die-sage-von-nietoom.json](./92927-die-sage-von-nietoom.json) |
 | Die schwarzen Reiter | 112896 | [112896-die-schwarzen-reiter.json](./112896-die-schwarzen-reiter.json) |
 | Die Stadt der Löwen | 99696 | [99696-die-stadt-der-lowen.json](./99696-die-stadt-der-lowen.json) |
 | Die Together | 184465 | [184465-die-together.json](./184465-die-together.json) |
@@ -7642,6 +7643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog's Quest | 103454 | [103454-dogs-quest.json](./103454-dogs-quest.json) |
 | Dog's Walts | 408060 | [408060-dogs-walts.json](./408060-dogs-walts.json) |
 | Dogchild | 59062 | [59062-dogchild.json](./59062-dogchild.json) |
+| DogDay | 92948 | [92948-dogday.json](./92948-dogday.json) |
 | Doge and the Lost Kitten | 103409 | [103409-doge-and-the-lost-kitten.json](./103409-doge-and-the-lost-kitten.json) |
 | Doge Dimensions | 187527 | [187527-doge-dimensions.json](./187527-doge-dimensions.json) |
 | Doge Game | 182168 | [182168-doge-game.json](./182168-doge-game.json) |
