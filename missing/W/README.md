@@ -4327,6 +4327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchcraft: Pandoras Box | 127248 | [127248-witchcraft-pandoras-box.json](./127248-witchcraft-pandoras-box.json) |
 | Witchcrafty | 120920 | [120920-witchcrafty.json](./120920-witchcrafty.json) |
 | Witches & Woodlands | 275595 | [275595-witches-and-woodlands.json](./275595-witches-and-woodlands.json) |
+| Witches Craft | 103956 | [103956-witches-craft.json](./103956-witches-craft.json) |
 | Witches Legacy: Slumbering Darkness & Dark Throne | 201824 | [201824-witches-legacy-slumbering-darkness-and-dark-throne.json](./201824-witches-legacy-slumbering-darkness-and-dark-throne.json) |
 | Witches of the Fourth | 417344 | [417344-witches-of-the-fourth.json](./417344-witches-of-the-fourth.json) |
 | Witches Weed | 268497 | [268497-witches-weed.json](./268497-witches-weed.json) |
