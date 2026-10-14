@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T18:40:46.126Z",
-  "total_soundtracks": 1638,
+  "generated_at": "2026-10-14T18:50:46.074Z",
+  "total_soundtracks": 1639,
   "games": [
     {
       "igdb_id": 7522,
@@ -2820,6 +2820,20 @@
           "album_name": "Castle Crashers Themes",
           "spotify_url": "https://open.spotify.com/album/3vt3TNtonZPc8us4MABj4o",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 1130,
+      "game_name": "Castlevania",
+      "game_url": "https://ostdb.net/games/castlevania",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27399bbf6b383083b37e55beb3b",
+      "albums": [
+        {
+          "album_name": "Castlevania Original (Soundtrack Version)",
+          "spotify_url": "https://open.spotify.com/album/4Zb5WfZfJkORaobWMw7gyD",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
