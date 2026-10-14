@@ -745,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edegard: Puqq | 244833 | [244833-edegard-puqq.json](./244833-edegard-puqq.json) |
 | EdelSuche | 265233 | [265233-edelsuche.json](./265233-edelsuche.json) |
 | Edelweiss | 184303 | [184303-edelweiss.json](./184303-edelweiss.json) |
+| Edelweiss Eidenjima Complete Pack | 126326 | [126326-edelweiss-eidenjima-complete-pack.json](./126326-edelweiss-eidenjima-complete-pack.json) |
 | Edelweiss Knights | 386867 | [386867-edelweiss-knights.json](./386867-edelweiss-knights.json) |
 | Edemn: Cyborg Skeleton | 249718 | [249718-edemn-cyborg-skeleton.json](./249718-edemn-cyborg-skeleton.json) |
 | Eden | 170276 | [170276-eden.json](./170276-eden.json) |
@@ -3381,6 +3382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Lavender Island | 235991 | [235991-escape-from-lavender-island.json](./235991-escape-from-lavender-island.json) |
 | Escape From Lavender Town | 198333 | [198333-escape-from-lavender-town.json](./198333-escape-from-lavender-town.json) |
 | Escape From Lesco | 312751 | [312751-escape-from-lesco.json](./312751-escape-from-lesco.json) |
+| Escape from Life Inc | 125739 | [125739-escape-from-life-inc.json](./125739-escape-from-life-inc.json) |
 | Escape From Lighthouse | 257341 | [257341-escape-from-lighthouse.json](./257341-escape-from-lighthouse.json) |
 | Escape From Lost Island | 206653 | [206653-escape-from-lost-island.json](./206653-escape-from-lost-island.json) |
 | Escape from Manimal Island | 272395 | [272395-escape-from-manimal-island.json](./272395-escape-from-manimal-island.json) |
@@ -3621,6 +3623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Grid VR | 102350 | [102350-escape-the-grid-vr.json](./102350-escape-the-grid-vr.json) |
 | Escape the House | 413116 | [413116-escape-the-house.json](./413116-escape-the-house.json) |
 | Escape the Humans | 362409 | [362409-escape-the-humans.json](./362409-escape-the-humans.json) |
+| Escape the Lab | 126938 | [126938-escape-the-lab.json](./126938-escape-the-lab.json) |
 | Escape the Loop | 30183 | [30183-escape-the-loop.json](./30183-escape-the-loop.json) |
 | Escape The Lost Kingdom: The Forgotten Pharaoh | 17293 | [17293-escape-the-lost-kingdom-the-forgotten-pharaoh.json](./17293-escape-the-lost-kingdom-the-forgotten-pharaoh.json) |
 | Escape the Mad Empire | 217233 | [217233-escape-the-mad-empire.json](./217233-escape-the-mad-empire.json) |
@@ -3778,6 +3781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esper Dream | 47243 | [47243-esper-dream.json](./47243-esper-dream.json) |
 | Esper Girls | 265925 | [265925-esper-girls.json](./265925-esper-girls.json) |
 | Esper: Make You Live Again | 114991 | [114991-esper-make-you-live-again.json](./114991-esper-make-you-live-again.json) |
+| Esperia ~ Uprising of the Scarlet Witch ~ | 126925 | [126925-esperia-uprising-of-the-scarlet-witch.json](./126925-esperia-uprising-of-the-scarlet-witch.json) |
 | Espgaluda | 83808 | [83808-espgaluda.json](./83808-espgaluda.json) |
 | Espgaluda II: Black Label | 80457 | [80457-espgaluda-ii-black-label.json](./80457-espgaluda-ii-black-label.json) |
 | Espial | 23932 | [23932-espial.json](./23932-espial.json) |
@@ -3908,6 +3912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Dreamers | 140609 | [140609-eternal-dreamers.json](./140609-eternal-dreamers.json) |
 | Eternal Dungeon | 140589 | [140589-eternal-dungeon.json](./140589-eternal-dungeon.json) |
 | Eternal Edge | 96251 | [96251-eternal-edge.json](./96251-eternal-edge.json) |
+| Eternal Edge + | 125758 | [125758-eternal-edge.json](./125758-eternal-edge.json) |
 | Eternal Elements | 118788 | [118788-eternal-elements.json](./118788-eternal-elements.json) |
 | Eternal Empires | 74388 | [74388-eternal-empires.json](./74388-eternal-empires.json) |
 | Eternal End | 295369 | [295369-eternal-end.json](./295369-eternal-end.json) |
@@ -4264,6 +4269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evasive Maneuvers | 166845 | [166845-evasive-maneuvers.json](./166845-evasive-maneuvers.json) |
 | Evaverse | 158522 | [158522-evaverse.json](./158522-evaverse.json) |
 | Evdeki Lanet | 160164 | [160164-evdeki-lanet.json](./160164-evdeki-lanet.json) |
+| EVE Aether Wars - Tech Demo | 126344 | [126344-eve-aether-wars-tech-demo.json](./126344-eve-aether-wars-tech-demo.json) |
 | Eve Burst Error Plus | 73525 | [73525-eve-burst-error-plus.json](./73525-eve-burst-error-plus.json) |
 | Eve Frontier | 323164 | [323164-eve-frontier.json](./323164-eve-frontier.json) |
 | EVE Jan | 59432 | [59432-eve-jan.json](./59432-eve-jan.json) |
@@ -4483,6 +4489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every Child of Hameln | 413056 | [413056-every-child-of-hameln.json](./413056-every-child-of-hameln.json) |
 | Every Day Is Halloween | 280759 | [280759-every-day-is-halloween.json](./280759-every-day-is-halloween.json) |
 | Every day is more incredible than the previous | 169257 | [169257-every-day-is-more-incredible-than-the-previous.json](./169257-every-day-is-more-incredible-than-the-previous.json) |
+| Every Day's Different | 126930 | [126930-every-days-different.json](./126930-every-days-different.json) |
 | Every Ending Is A New Beginning | 184131 | [184131-every-ending-is-a-new-beginning.json](./184131-every-ending-is-a-new-beginning.json) |
 | Every Extend | 94573 | [94573-every-extend.json](./94573-every-extend.json) |
 | Every Extend Extra: Pico-8 Edition | 284307 | [284307-every-extend-extra-pico-8-edition.json](./284307-every-extend-extra-pico-8-edition.json) |
