@@ -2032,6 +2032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Hero | 279113 | [279113-school-hero.json](./279113-school-hero.json) |
 | School House Shuffle | 206654 | [206654-school-house-shuffle.json](./206654-school-house-shuffle.json) |
 | School Idol QT Cool | 127933 | [127933-school-idol-qt-cool.json](./127933-school-idol-qt-cool.json) |
+| School Kwaidan | 109359 | [109359-school-kwaidan.json](./109359-school-kwaidan.json) |
 | School Labyrinth | 265532 | [265532-school-labyrinth.json](./265532-school-labyrinth.json) |
 | School Life | 243596 | [243596-school-life.json](./243596-school-life.json) |
 | School Life Simulator | 97049 | [97049-school-life-simulator.json](./97049-school-life-simulator.json) |
@@ -4503,6 +4504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Over Normoth | 183057 | [183057-shadow-over-normoth.json](./183057-shadow-over-normoth.json) |
 | Shadow Over the Twelve Lands | 305338 | [305338-shadow-over-the-twelve-lands.json](./305338-shadow-over-the-twelve-lands.json) |
 | Shadow Overlord: The Beginning | 272264 | [272264-shadow-overlord-the-beginning.json](./272264-shadow-overlord-the-beginning.json) |
+| Shadow Play | 109413 | [109413-shadow-play.json](./109413-shadow-play.json) |
 | Shadow President | 73470 | [73470-shadow-president.json](./73470-shadow-president.json) |
 | Shadow Pride | 227367 | [227367-shadow-pride.json](./227367-shadow-pride.json) |
 | Shadow Protocol | 351750 | [351750-shadow-protocol.json](./351750-shadow-protocol.json) |
@@ -16541,6 +16543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardust Sandbox | 393604 | [393604-stardust-sandbox.json](./393604-stardust-sandbox.json) |
 | Stardust Skate | 334846 | [334846-stardust-skate.json](./334846-stardust-skate.json) |
 | Stardust Valkyries | 215712 | [215712-stardust-valkyries.json](./215712-stardust-valkyries.json) |
+| Stardust VR | 109429 | [109429-stardust-vr.json](./109429-stardust-vr.json) |
 | StarDust: Endless | 105948 | [105948-stardust-endless.json](./105948-stardust-endless.json) |
 | Stares Back | 375854 | [375854-stares-back.json](./375854-stares-back.json) |
 | Starexcess | 124248 | [124248-starexcess.json](./124248-starexcess.json) |
