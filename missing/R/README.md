@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RadCity: a post-apocalyptic adventure | 381608 | [381608-radcity-a-post-apocalyptic-adventure.json](./381608-radcity-a-post-apocalyptic-adventure.json) |
 | Raddle | 345510 | [345510-raddle.json](./345510-raddle.json) |
 | Radia Senki: Reimeihen | 48686 | [48686-radia-senki-reimeihen.json](./48686-radia-senki-reimeihen.json) |
+| Radial | 128945 | [128945-radial.json](./128945-radial.json) |
 | Radial Ascension | 273553 | [273553-radial-ascension.json](./273553-radial-ascension.json) |
 | Radial Flow | 208663 | [208663-radial-flow.json](./208663-radial-flow.json) |
 | Radial Fusion | 357306 | [357306-radial-fusion.json](./357306-radial-fusion.json) |
@@ -724,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raidou Remastered: Kuzunoha Village Trainings | 347332 | [347332-raidou-remastered-kuzunoha-village-trainings.json](./347332-raidou-remastered-kuzunoha-village-trainings.json) |
 | Raids Inc. | 244851 | [244851-raids-inc.json](./244851-raids-inc.json) |
 | Raids of Nohosphere | 116395 | [116395-raids-of-nohosphere.json](./116395-raids-of-nohosphere.json) |
+| RaidTitans | 128910 | [128910-raidtitans.json](./128910-raidtitans.json) |
 | Raige | 156044 | [156044-raige.json](./156044-raige.json) |
 | Raik | 135688 | [135688-raik.json](./135688-raik.json) |
 | Rail Cargo Simulator | 33446 | [33446-rail-cargo-simulator.json](./33446-rail-cargo-simulator.json) |
@@ -963,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainy Day Spider Solitaire | 366447 | [366447-rainy-day-spider-solitaire.json](./366447-rainy-day-spider-solitaire.json) |
 | Rainy Day Spider Solitaire HD | 354996 | [354996-rainy-day-spider-solitaire-hd.json](./354996-rainy-day-spider-solitaire-hd.json) |
 | Rainy Morning Kitchen Fire Blues | 135778 | [135778-rainy-morning-kitchen-fire-blues.json](./135778-rainy-morning-kitchen-fire-blues.json) |
+| Rainy Night | 128940 | [128940-rainy-night.json](./128940-rainy-night.json) |
 | Rainy Season | 119732 | [119732-rainy-season.json](./119732-rainy-season.json) |
 | Rainy single room | 205588 | [205588-rainy-single-room.json](./205588-rainy-single-room.json) |
 | RainyCloud | 224542 | [224542-rainycloud.json](./224542-rainycloud.json) |
@@ -2255,6 +2258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reborn in the toilet | 359548 | [359548-reborn-in-the-toilet.json](./359548-reborn-in-the-toilet.json) |
 | Reborn in Wild City | 111073 | [111073-reborn-in-wild-city.json](./111073-reborn-in-wild-city.json) |
 | Reborn Irrelevant | 180534 | [180534-reborn-irrelevant.json](./180534-reborn-irrelevant.json) |
+| Reborn Not Again | 128259 | [128259-reborn-not-again.json](./128259-reborn-not-again.json) |
 | Reborn Online | 135807 | [135807-reborn-online.json](./135807-reborn-online.json) |
 | Reborn Protocol | 249088 | [249088-reborn-protocol.json](./249088-reborn-protocol.json) |
 | Reborn Souls | 201589 | [201589-reborn-souls.json](./201589-reborn-souls.json) |
@@ -5287,6 +5291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Sushi | 174287 | [174287-rising-sushi.json](./174287-rising-sushi.json) |
 | Rising Thunder: Community Edition | 82394 | [82394-rising-thunder-community-edition.json](./82394-rising-thunder-community-edition.json) |
 | Rising Tides | 313848 | [313848-rising-tides.json](./313848-rising-tides.json) |
+| Rising UpUp | 128901 | [128901-rising-upup.json](./128901-rising-upup.json) |
 | Rising Wan | 346139 | [346139-rising-wan.json](./346139-rising-wan.json) |
 | Rising Warriors | 71026 | [71026-rising-warriors.json](./71026-rising-warriors.json) |
 | Rising: Hungry Lizard | 165638 | [165638-rising-hungry-lizard.json](./165638-rising-hungry-lizard.json) |
@@ -7031,6 +7036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romantic Escapades | 297207 | [297207-romantic-escapades.json](./297207-romantic-escapades.json) |
 | Romantic Holic | 198327 | [198327-romantic-holic.json](./198327-romantic-holic.json) |
 | Romantic Journey | 110979 | [110979-romantic-journey.json](./110979-romantic-journey.json) |
+| Romantic Player | 128294 | [128294-romantic-player.json](./128294-romantic-player.json) |
 | Romantic Rainbow Delights | 184064 | [184064-romantic-rainbow-delights.json](./184064-romantic-rainbow-delights.json) |
 | Romantic Shooter | 242526 | [242526-romantic-shooter.json](./242526-romantic-shooter.json) |
 | Romb | 377254 | [377254-romb.json](./377254-romb.json) |
@@ -7986,6 +7992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Die Jump | 153357 | [153357-run-die-jump.json](./153357-run-die-jump.json) |
 | Run Die Retry | 109512 | [109512-run-die-retry.json](./109512-run-die-retry.json) |
 | Run Dorothy Run | 89380 | [89380-run-dorothy-run.json](./89380-run-dorothy-run.json) |
+| Run Dude | 128288 | [128288-run-dude.json](./128288-run-dude.json) |
 | Run Elephant Run | 280847 | [280847-run-elephant-run.json](./280847-run-elephant-run.json) |
 | Run Fairy | 111014 | [111014-run-fairy.json](./111014-run-fairy.json) |
 | Run Fire | 258504 | [258504-run-fire.json](./258504-run-fire.json) |
