@@ -5570,6 +5570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meiro Master | 197253 | [197253-meiro-master.json](./197253-meiro-master.json) |
 | Meisa no Sekai | 285386 | [285386-meisa-no-sekai.json](./285386-meisa-no-sekai.json) |
 | Měishàonián Mèng Gōngchǎng 3: Chóngshēng | 116981 | [116981-meishaonian-meng-gongchang-3-chongsheng.json](./116981-meishaonian-meng-gongchang-3-chongsheng.json) |
+| Měishàonǚ Mahjong Jiēlóng | 106442 | [106442-meishaonu-mahjong-jielong.json](./106442-meishaonu-mahjong-jielong.json) |
 | Meister | 113670 | [113670-meister.json](./113670-meister.json) |
 | Meister2 | 192639 | [192639-meister2.json](./192639-meister2.json) |
 | MeisterPower | 383980 | [383980-meisterpower.json](./383980-meisterpower.json) |
@@ -6200,6 +6201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Numbers | 329197 | [329197-merge-numbers.json](./329197-merge-numbers.json) |
 | Merge Orbz | 401855 | [401855-merge-orbz.json](./401855-merge-orbz.json) |
 | Merge Pineapple | 339286 | [339286-merge-pineapple.json](./339286-merge-pineapple.json) |
+| Merge Plane - Best Idle Game | 106477 | [106477-merge-plane-best-idle-game.json](./106477-merge-plane-best-idle-game.json) |
 | Merge Rainbow Friend | 224002 | [224002-merge-rainbow-friend.json](./224002-merge-rainbow-friend.json) |
 | Merge Rush Z | 299408 | [299408-merge-rush-z.json](./299408-merge-rush-z.json) |
 | Merge Studio: Fashion Makeover | 315111 | [315111-merge-studio-fashion-makeover.json](./315111-merge-studio-fashion-makeover.json) |
@@ -10080,6 +10082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Doomsday | 190192 | [190192-monkey-doomsday.json](./190192-monkey-doomsday.json) |
 | Monkey Drive | 328612 | [328612-monkey-drive.json](./328612-monkey-drive.json) |
 | Monkey Drum Deluxe | 197707 | [197707-monkey-drum-deluxe.json](./197707-monkey-drum-deluxe.json) |
+| Monkey Flight | 106452 | [106452-monkey-flight.json](./106452-monkey-flight.json) |
 | Monkey Flight 2 | 257368 | [257368-monkey-flight-2.json](./257368-monkey-flight-2.json) |
 | Monkey Forward | 295553 | [295553-monkey-forward.json](./295553-monkey-forward.json) |
 | Monkey Fright | 257405 | [257405-monkey-fright.json](./257405-monkey-fright.json) |
@@ -10244,6 +10247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monospaced Lovers | 130844 | [130844-monospaced-lovers.json](./130844-monospaced-lovers.json) |
 | Monotonia: EXP_01 | 228514 | [228514-monotonia-exp-01.json](./228514-monotonia-exp-01.json) |
 | Monotose | 202316 | [202316-monotose.json](./202316-monotose.json) |
+| Monowars: Red Zone | 106423 | [106423-monowars-red-zone.json](./106423-monowars-red-zone.json) |
 | Monoyellow Madness | 321443 | [321443-monoyellow-madness.json](./321443-monoyellow-madness.json) |
 | Monpals | 228383 | [228383-monpals.json](./228383-monpals.json) |
 | Monria | 22385 | [22385-monria.json](./22385-monria.json) |
@@ -14483,6 +14487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Realm Dizzy | 181208 | [181208-mystic-realm-dizzy.json](./181208-mystic-realm-dizzy.json) |
 | Mystic Rest Stop | 327949 | [327949-mystic-rest-stop.json](./327949-mystic-rest-stop.json) |
 | Mystic Ruin: A New Dawn | 150619 | [150619-mystic-ruin-a-new-dawn.json](./150619-mystic-ruin-a-new-dawn.json) |
+| Mystic Ruins | 106432 | [106432-mystic-ruins.json](./106432-mystic-ruins.json) |
 | Mystic RUS-files | 117635 | [117635-mystic-rus-files.json](./117635-mystic-rus-files.json) |
 | Mystic Shroom | 387061 | [387061-mystic-shroom.json](./387061-mystic-shroom.json) |
 | Mystic Store | 146889 | [146889-mystic-store.json](./146889-mystic-store.json) |
