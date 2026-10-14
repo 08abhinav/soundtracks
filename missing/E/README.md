@@ -744,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edda Physics 1 | 389084 | [389084-edda-physics-1.json](./389084-edda-physics-1.json) |
 | Eddie Hill in the Curse of the Skull Medallion | 146167 | [146167-eddie-hill-in-the-curse-of-the-skull-medallion.json](./146167-eddie-hill-in-the-curse-of-the-skull-medallion.json) |
 | Eddie Kidd Jump Challenge | 47186 | [47186-eddie-kidd-jump-challenge.json](./47186-eddie-kidd-jump-challenge.json) |
+| Eddie the Elephant's Runaway Rush | 114742 | [114742-eddie-the-elephants-runaway-rush.json](./114742-eddie-the-elephants-runaway-rush.json) |
 | Eddie’s Last Shift | 414537 | [414537-eddie-s-last-shift.json](./414537-eddie-s-last-shift.json) |
 | Eddie's World | 250037 | [250037-eddies-world.json](./250037-eddies-world.json) |
 | Edegard: Puqq | 244833 | [244833-edegard-puqq.json](./244833-edegard-puqq.json) |
@@ -1297,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elden Sword | 371122 | [371122-elden-sword.json](./371122-elden-sword.json) |
 | Elder Chaos | 74564 | [74564-elder-chaos.json](./74564-elder-chaos.json) |
 | Elder Gate | 166660 | [166660-elder-gate.json](./166660-elder-gate.json) |
+| Elder Goo | 114737 | [114737-elder-goo.json](./114737-elder-goo.json) |
 | Elder Kings II | 225709 | [225709-elder-kings-ii.json](./225709-elder-kings-ii.json) |
 | Elder Lich | 325514 | [325514-elder-lich.json](./325514-elder-lich.json) |
 | Elder Puzzle | 163554 | [163554-elder-puzzle.json](./163554-elder-puzzle.json) |
@@ -2071,6 +2073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emotion | 169766 | [169766-emotion.json](./169766-emotion.json) |
 | Emotional flow | 278958 | [278958-emotional-flow.json](./278958-emotional-flow.json) |
 | Emotionless: The Last Ticket | 345425 | [345425-emotionless-the-last-ticket.json](./345425-emotionless-the-last-ticket.json) |
+| Emotions | 114856 | [114856-emotions.json](./114856-emotions.json) |
 | Emotions: A Day In A Life | 178603 | [178603-emotions-a-day-in-a-life.json](./178603-emotions-a-day-in-a-life.json) |
 | Emotions: Social MeDie | 391300 | [391300-emotions-social-medie.json](./391300-emotions-social-medie.json) |
 | Emotitron | 349455 | [349455-emotitron.json](./349455-emotitron.json) |
@@ -5149,6 +5152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expendable | 317640 | [317640-expendable.json](./317640-expendable.json) |
 | Expendabots | 404929 | [404929-expendabots.json](./404929-expendabots.json) |
 | Expense | 220020 | [220020-expense.json](./220020-expense.json) |
+| Experience | 114836 | [114836-experience.json](./114836-experience.json) |
 | Experience | 36599 | [36599-experience.json](./36599-experience.json) |
 | eXperience 112 | 17873 | [17873-experience-112.json](./17873-experience-112.json) |
 | Experience: Colorblindness | 112363 | [112363-experience-colorblindness.json](./112363-experience-colorblindness.json) |
