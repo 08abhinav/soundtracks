@@ -3724,6 +3724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape to Hell | 179517 | [179517-escape-to-hell.json](./179517-escape-to-hell.json) |
 | Escape to Mars | 159707 | [159707-escape-to-mars.json](./159707-escape-to-mars.json) |
 | Escape to Moscow 2 | 355150 | [355150-escape-to-moscow-2.json](./355150-escape-to-moscow-2.json) |
+| Escape to Paradise Light | 89047 | [89047-escape-to-paradise-light.json](./89047-escape-to-paradise-light.json) |
 | Escape to School | 192804 | [192804-escape-to-school.json](./192804-escape-to-school.json) |
 | Escape to Sidious | 157500 | [157500-escape-to-sidious.json](./157500-escape-to-sidious.json) |
 | Escape to the Caf | 222810 | [222810-escape-to-the-caf.json](./222810-escape-to-the-caf.json) |
