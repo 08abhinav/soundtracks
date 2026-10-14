@@ -2571,6 +2571,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afloat | 120829 | [120829-afloat.json](./120829-afloat.json) |
 | Afo | 78330 | [78330-afo.json](./78330-afo.json) |
 | Afraid of God | 390697 | [390697-afraid-of-god.json](./390697-afraid-of-god.json) |
+| Afraid of Monsters | 131925 | [131925-afraid-of-monsters.json](./131925-afraid-of-monsters.json) |
+| Afraid of Monsters: Director's Cut | 131928 | [131928-afraid-of-monsters-directors-cut.json](./131928-afraid-of-monsters-directors-cut.json) |
 | Afraid of the Night | 148489 | [148489-afraid-of-the-night.json](./148489-afraid-of-the-night.json) |
 | Africa Empire 2027 | 219680 | [219680-africa-empire-2027.json](./219680-africa-empire-2027.json) |
 | Africa Help | 133354 | [133354-africa-help.json](./133354-africa-help.json) |
@@ -2829,6 +2831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires IV: Dynasties of the East | 361886 | [361886-age-of-empires-iv-dynasties-of-the-east.json](./361886-age-of-empires-iv-dynasties-of-the-east.json) |
 | Age of Empires IV: Raiders of the North | 405077 | [405077-age-of-empires-iv-raiders-of-the-north.json](./405077-age-of-empires-iv-raiders-of-the-north.json) |
 | Age of Empires Mobile | 280839 | [280839-age-of-empires-mobile.json](./280839-age-of-empires-mobile.json) |
+| Age of Empires Online: Celeste Fan Project | 131926 | [131926-age-of-empires-online-celeste-fan-project.json](./131926-age-of-empires-online-celeste-fan-project.json) |
 | Age of Empires: Online | 5571 | [5571-age-of-empires-online.json](./5571-age-of-empires-online.json) |
 | Age of Empires: Pocket PC Edition | 145568 | [145568-age-of-empires-pocket-pc-edition.json](./145568-age-of-empires-pocket-pc-edition.json) |
 | Age of Empires: The Rise of Rome | 291 | [291-age-of-empires-the-rise-of-rome.json](./291-age-of-empires-the-rise-of-rome.json) |
@@ -6362,6 +6365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Kingdom 2 | 271660 | [271660-animal-kingdom-2.json](./271660-animal-kingdom-2.json) |
 | Animal Kingdom 3 | 337279 | [337279-animal-kingdom-3.json](./337279-animal-kingdom-3.json) |
 | Animal Kostume | 249878 | [249878-animal-kostume.json](./249878-animal-kostume.json) |
+| Animal Land Satsujin Jiken | 131910 | [131910-animal-land-satsujin-jiken.json](./131910-animal-land-satsujin-jiken.json) |
 | Animal Learning Puzzle for Toddlers and Kids | 147939 | [147939-animal-learning-puzzle-for-toddlers-and-kids.json](./147939-animal-learning-puzzle-for-toddlers-and-kids.json) |
 | Animal Life: Dinosaurs | 269552 | [269552-animal-life-dinosaurs.json](./269552-animal-life-dinosaurs.json) |
 | Animal Life: Eurasia | 269553 | [269553-animal-life-eurasia.json](./269553-animal-life-eurasia.json) |
@@ -10116,6 +10120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Coconut | 235834 | [235834-astral-coconut.json](./235834-astral-coconut.json) |
 | Astral Codec | 336546 | [336546-astral-codec.json](./336546-astral-codec.json) |
 | Astral Court DX | 368081 | [368081-astral-court-dx.json](./368081-astral-court-dx.json) |
+| Astral Defense | 131943 | [131943-astral-defense.json](./131943-astral-defense.json) |
 | Astral Divide | 277816 | [277816-astral-divide.json](./277816-astral-divide.json) |
 | Astral Domine | 33078 | [33078-astral-domine.json](./33078-astral-domine.json) |
 | Astral Equilibrium | 140358 | [140358-astral-equilibrium.json](./140358-astral-equilibrium.json) |
