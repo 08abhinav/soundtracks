@@ -1167,7 +1167,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC Search with Me: Food Pack | 199849 | [199849-abc-search-with-me-food-pack.json](./199849-abc-search-with-me-food-pack.json) |
 | ABC Search with Me: Sea Animal Pack | 199850 | [199850-abc-search-with-me-sea-animal-pack.json](./199850-abc-search-with-me-sea-animal-pack.json) |
 | ABC Search with Me: Zodiac Pack | 199848 | [199848-abc-search-with-me-zodiac-pack.json](./199848-abc-search-with-me-zodiac-pack.json) |
+| ABC Solitaire | 89856 | [89856-abc-solitaire.json](./89856-abc-solitaire.json) |
 | ABC Sports Presents: The Palm Spring Open | 46559 | [46559-abc-sports-presents-the-palm-spring-open.json](./46559-abc-sports-presents-the-palm-spring-open.json) |
+| ABC Super Solitaire | 89857 | [89857-abc-super-solitaire.json](./89857-abc-super-solitaire.json) |
 | ABC: Audioreactive Beat Circle | 138623 | [138623-abc-audioreactive-beat-circle.json](./138623-abc-audioreactive-beat-circle.json) |
 | ABC's Featuring the Jungle Jukebox | 392413 | [392413-abcs-featuring-the-jungle-jukebox.json](./392413-abcs-featuring-the-jungle-jukebox.json) |
 | Abcdef | 330374 | [330374-abcdef.json](./330374-abcdef.json) |
@@ -2303,6 +2305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Time: Game Wizard | 60905 | [60905-adventure-time-game-wizard.json](./60905-adventure-time-game-wizard.json) |
 | Adventure Time: Heroes of Ooo | 62020 | [62020-adventure-time-heroes-of-ooo.json](./62020-adventure-time-heroes-of-ooo.json) |
 | Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?! | 2797 | [2797-adventure-time-hey-ice-king-whyd-you-steal-our-garbage.json](./2797-adventure-time-hey-ice-king-whyd-you-steal-our-garbage.json) |
+| Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?! - Collector's Edition | 89898 | [89898-adventure-time-hey-ice-king-whyd-you-steal-our-garbage-collectors-edition.json](./89898-adventure-time-hey-ice-king-whyd-you-steal-our-garbage-collectors-edition.json) |
 | Adventure Time: Legends of Ooo - Big Hollow Princess | 64970 | [64970-adventure-time-legends-of-ooo-big-hollow-princess.json](./64970-adventure-time-legends-of-ooo-big-hollow-princess.json) |
 | Adventure Time: Rockstars of Ooo | 59923 | [59923-adventure-time-rockstars-of-ooo.json](./59923-adventure-time-rockstars-of-ooo.json) |
 | Adventure Time: The Secret of the Nameless Kingdom | 8620 | [8620-adventure-time-the-secret-of-the-nameless-kingdom.json](./8620-adventure-time-the-secret-of-the-nameless-kingdom.json) |
@@ -3365,6 +3368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Hockey | 200667 | [200667-air-hockey.json](./200667-air-hockey.json) |
 | Air Hockey | 43934 | [43934-air-hockey.json](./43934-air-hockey.json) |
 | Air Hockey | 88618 | [88618-air-hockey.json](./88618-air-hockey.json) |
+| Air Hockey | 89804 | [89804-air-hockey.json](./89804-air-hockey.json) |
 | Air Hockey | 94114 | [94114-air-hockey.json](./94114-air-hockey.json) |
 | Air Hockey Arcade: Casual Board Game | 242589 | [242589-air-hockey-arcade-casual-board-game.json](./242589-air-hockey-arcade-casual-board-game.json) |
 | Air Hockey Blue | 197773 | [197773-air-hockey-blue.json](./197773-air-hockey-blue.json) |
@@ -4421,6 +4425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Spidy: Easy Breezy | 9967 | [9967-alien-spidy-easy-breezy.json](./9967-alien-spidy-easy-breezy.json) |
 | Alien Splatter Redux | 50534 | [50534-alien-splatter-redux.json](./50534-alien-splatter-redux.json) |
 | Alien Storm | 9969 | [9969-alien-storm.json](./9969-alien-storm.json) |
+| Alien Story: Fairy tale with games for kids | 89809 | [89809-alien-story-fairy-tale-with-games-for-kids.json](./89809-alien-story-fairy-tale-with-games-for-kids.json) |
 | Alien street battle | 129675 | [129675-alien-street-battle.json](./129675-alien-street-battle.json) |
 | Alien Strike | 76228 | [76228-alien-strike.json](./76228-alien-strike.json) |
 | Alien Strike: Blasting the Intruders | 305974 | [305974-alien-strike-blasting-the-intruders.json](./305974-alien-strike-blasting-the-intruders.json) |
@@ -6104,6 +6109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andro's World | 99111 | [99111-andros-world.json](./99111-andros-world.json) |
 | Android | 150966 | [150966-android.json](./150966-android.json) |
 | Android | 391270 | [391270-android.json](./391270-android.json) |
+| Android 2 Retro LodeRunner | 89833 | [89833-android-2-retro-loderunner.json](./89833-android-2-retro-loderunner.json) |
 | Android Amazones | 120987 | [120987-android-amazones.json](./120987-android-amazones.json) |
 | Android Assault: The Revenge of Bari-Arm | 5358 | [5358-android-assault-the-revenge-of-bari-arm.json](./5358-android-assault-the-revenge-of-bari-arm.json) |
 | Android Attack | 13691 | [13691-android-attack.json](./13691-android-attack.json) |
@@ -7147,6 +7153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antagonist | 27869 | [27869-antagonist.json](./27869-antagonist.json) |
 | Antarah | 326691 | [326691-antarah.json](./326691-antarah.json) |
 | Antarctic Adventure | 239172 | [239172-antarctic-adventure.json](./239172-antarctic-adventure.json) |
+| Antarctic Expedition Mahjong Connect | 89853 | [89853-antarctic-expedition-mahjong-connect.json](./89853-antarctic-expedition-mahjong-connect.json) |
 | Antarctic Girl | 127922 | [127922-antarctic-girl.json](./127922-antarctic-girl.json) |
 | Antarctic Heritage Trust | 133114 | [133114-antarctic-heritage-trust.json](./133114-antarctic-heritage-trust.json) |
 | Antarctic Tales Enhanced Edition | 268511 | [268511-antarctic-tales-enhanced-edition.json](./268511-antarctic-tales-enhanced-edition.json) |
@@ -9199,6 +9206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Antz | 175721 | [175721-army-antz.json](./175721-army-antz.json) |
 | Army Attack | 115544 | [115544-army-attack.json](./115544-army-attack.json) |
 | Army Battle Simulator | 91244 | [91244-army-battle-simulator.json](./91244-army-battle-simulator.json) |
+| Army Chess | 89848 | [89848-army-chess.json](./89848-army-chess.json) |
 | Army Chess Super Online | 99110 | [99110-army-chess-super-online.json](./99110-army-chess-super-online.json) |
 | Army Clash | 295989 | [295989-army-clash.json](./295989-army-clash.json) |
 | Army Days | 13796 | [13796-army-days.json](./13796-army-days.json) |
