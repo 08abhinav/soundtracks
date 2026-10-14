@@ -3734,6 +3734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Shape | 421325 | [421325-find-shape.json](./421325-find-shape.json) |
 | Find someone else | 95237 | [95237-find-someone-else.json](./95237-find-someone-else.json) |
 | Find Sort Match | 358351 | [358351-find-sort-match.json](./358351-find-sort-match.json) |
+| Find Teddy | 78519 | [78519-find-teddy.json](./78519-find-teddy.json) |
 | Find The Backdoor | 290493 | [290493-find-the-backdoor.json](./290493-find-the-backdoor.json) |
 | Find the Birds | 230912 | [230912-find-the-birds.json](./230912-find-the-birds.json) |
 | Find the Bug | 234076 | [234076-find-the-bug.json](./234076-find-the-bug.json) |
@@ -6146,6 +6147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Bus Battle 2021 | 153978 | [153978-football-bus-battle-2021.json](./153978-football-bus-battle-2021.json) |
 | Football Career | 343455 | [343455-football-career.json](./343455-football-career.json) |
 | Football Career Mode 26 | 346582 | [346582-football-career-mode-26.json](./346582-football-career-mode-26.json) |
+| Football Chairman Pro | 78554 | [78554-football-chairman-pro.json](./78554-football-chairman-pro.json) |
 | Football Chairman Pro 2 | 370322 | [370322-football-chairman-pro-2.json](./370322-football-chairman-pro-2.json) |
 | Football Challenges | 233459 | [233459-football-challenges.json](./233459-football-challenges.json) |
 | Football Champ | 39481 | [39481-football-champ.json](./39481-football-champ.json) |
