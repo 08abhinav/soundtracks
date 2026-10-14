@@ -2073,6 +2073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ADRPAN | 143414 | [143414-adrpan.json](./143414-adrpan.json) |
 | ADsteroids | 108984 | [108984-adsteroids.json](./108984-adsteroids.json) |
 | Aduk: Curse of the Spirits | 379478 | [379478-aduk-curse-of-the-spirits.json](./379478-aduk-curse-of-the-spirits.json) |
+| Adult Film Cameraman | 85954 | [85954-adult-film-cameraman.json](./85954-adult-film-cameraman.json) |
 | Adult for Sex Motel | 288894 | [288894-adult-for-sex-motel.json](./288894-adult-for-sex-motel.json) |
 | Adult Puzzle: My Cute Neighbor Serene | 274684 | [274684-adult-puzzle-my-cute-neighbor-serene.json](./274684-adult-puzzle-my-cute-neighbor-serene.json) |
 | Adult Puzzle: My Pretty Neighbor Chloe | 270861 | [270861-adult-puzzle-my-pretty-neighbor-chloe.json](./270861-adult-puzzle-my-pretty-neighbor-chloe.json) |
@@ -3123,6 +3124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AH3AD: Retrowave Runner | 191583 | [191583-ah3ad-retrowave-runner.json](./191583-ah3ad-retrowave-runner.json) |
 | Aha Hit tile 3D | 101321 | [101321-aha-hit-tile-3d.json](./101321-aha-hit-tile-3d.json) |
 | Aha Link Color: Cross | 101967 | [101967-aha-link-color-cross.json](./101967-aha-link-color-cross.json) |
+| Aha! | 86026 | [86026-aha.json](./86026-aha.json) |
 | Aha! Art na Machigai-sagashi | 251512 | [251512-aha-art-na-machigai-sagashi.json](./251512-aha-art-na-machigai-sagashi.json) |
 | Ahapika: Heroic Agency | 333057 | [333057-ahapika-heroic-agency.json](./333057-ahapika-heroic-agency.json) |
 | Ahegal Seasons | 203381 | [203381-ahegal-seasons.json](./203381-ahegal-seasons.json) |
@@ -7373,6 +7375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aoki Densetsu Shoot! | 38230 | [38230-aoki-densetsu-shoot.json](./38230-aoki-densetsu-shoot.json) |
 | Aoki Gentyouhishi | 45546 | [45546-aoki-gentyouhishi.json](./45546-aoki-gentyouhishi.json) |
 | Aoki Ookami to Shiroki Mejika | 30922 | [30922-aoki-ookami-to-shiroki-mejika.json](./30922-aoki-ookami-to-shiroki-mejika.json) |
+| Aoki Ookami to Shiroki Mejika: Genchou Hishi | 86001 | [86001-aoki-ookami-to-shiroki-mejika-genchou-hishi.json](./86001-aoki-ookami-to-shiroki-mejika-genchou-hishi.json) |
 | Aoki Shinjuku | 305866 | [305866-aoki-shinjuku.json](./305866-aoki-shinjuku.json) |
 | AOL Girls Museum | 313758 | [313758-aol-girls-museum.json](./313758-aol-girls-museum.json) |
 | Aonar | 259292 | [259292-aonar.json](./259292-aonar.json) |
