@@ -5334,6 +5334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Da Vinci Cryptex 3 | 280257 | [280257-the-da-vinci-cryptex-3.json](./280257-the-da-vinci-cryptex-3.json) |
 | The Da Vinci Cryptex 4 | 379173 | [379173-the-da-vinci-cryptex-4.json](./379173-the-da-vinci-cryptex-4.json) |
 | The Daedalus Encounter | 4237 | [4237-the-daedalus-encounter.json](./4237-the-daedalus-encounter.json) |
+| The Daily Crossword | 103919 | [103919-the-daily-crossword.json](./103919-the-daily-crossword.json) |
 | The Daily Diaonal Sudoku | 266838 | [266838-the-daily-diaonal-sudoku.json](./266838-the-daily-diaonal-sudoku.json) |
 | The Daily Sudoku | 264239 | [264239-the-daily-sudoku.json](./264239-the-daily-sudoku.json) |
 | The Dallas Quest | 47218 | [47218-the-dallas-quest.json](./47218-the-dallas-quest.json) |
@@ -8604,6 +8605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Library | 274430 | [274430-the-library.json](./274430-the-library.json) |
 | The Library of Babble | 121620 | [121620-the-library-of-babble.json](./121620-the-library-of-babble.json) |
 | The Library on the Lake | 416029 | [416029-the-library-on-the-lake.json](./416029-the-library-on-the-lake.json) |
+| The Lie: Cottage of Secrets | 103933 | [103933-the-lie-cottage-of-secrets.json](./103933-the-lie-cottage-of-secrets.json) |
 | The Lies We Tell Ourselves | 221135 | [221135-the-lies-we-tell-ourselves.json](./221135-the-lies-we-tell-ourselves.json) |
 | The Life and Suffering of Prince Jerian | 312141 | [312141-the-life-and-suffering-of-prince-jerian.json](./312141-the-life-and-suffering-of-prince-jerian.json) |
 | The Life and Suffering of Sir Brante | 138871 | [138871-the-life-and-suffering-of-sir-brante.json](./138871-the-life-and-suffering-of-sir-brante.json) |
@@ -9492,6 +9494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Necromancer's Tower | 297566 | [297566-the-necromancers-tower.json](./297566-the-necromancers-tower.json) |
 | The Neighbor: Escape Room | 309505 | [309505-the-neighbor-escape-room.json](./309505-the-neighbor-escape-room.json) |
 | The Neighborhood | 180592 | [180592-the-neighborhood.json](./180592-the-neighborhood.json) |
+| The Neon Boy | 103964 | [103964-the-neon-boy.json](./103964-the-neon-boy.json) |
 | The Neon Mate | 137483 | [137483-the-neon-mate.json](./137483-the-neon-mate.json) |
 | The Neptune Diaries | 177889 | [177889-the-neptune-diaries.json](./177889-the-neptune-diaries.json) |
 | The Neroe | 199492 | [199492-the-neroe.json](./199492-the-neroe.json) |
@@ -9606,6 +9609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nullpoint | 110263 | [110263-the-nullpoint.json](./110263-the-nullpoint.json) |
 | The Nullspace | 312316 | [312316-the-nullspace.json](./312316-the-nullspace.json) |
 | The Numarin | 47543 | [47543-the-numarin.json](./47543-the-numarin.json) |
+| The Number Puzzle | 103953 | [103953-the-number-puzzle.json](./103953-the-number-puzzle.json) |
 | The Numbers I Keep In My Head | 375385 | [375385-the-numbers-i-keep-in-my-head.json](./375385-the-numbers-i-keep-in-my-head.json) |
 | The Numzle | 233096 | [233096-the-numzle.json](./233096-the-numzle.json) |
 | The Nun | 105998 | [105998-the-nun.json](./105998-the-nun.json) |
