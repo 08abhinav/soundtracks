@@ -4750,6 +4750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-front Assault | 344498 | [344498-all-front-assault.json](./344498-all-front-assault.json) |
 | All-in-One Board Games | 197708 | [197708-all-in-one-board-games.json](./197708-all-in-one-board-games.json) |
 | All-in-One Mahjong 2 | 89225 | [89225-all-in-one-mahjong-2.json](./89225-all-in-one-mahjong-2.json) |
+| All-in-One Mahjong 3 | 89071 | [89071-all-in-one-mahjong-3.json](./89071-all-in-one-mahjong-3.json) |
 | All-in-One Solitaire | 88608 | [88608-all-in-one-solitaire.json](./88608-all-in-one-solitaire.json) |
 | All-In-One Sports VR | 150755 | [150755-all-in-one-sports-vr.json](./150755-all-in-one-sports-vr.json) |
 | All-In-One Summer Sports VR | 257268 | [257268-all-in-one-summer-sports-vr.json](./257268-all-in-one-summer-sports-vr.json) |
@@ -11769,6 +11770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awaysis | 348231 | [348231-awaysis.json](./348231-awaysis.json) |
 | Awe | 284564 | [284564-awe.json](./284564-awe.json) |
 | Awe of Despair | 75811 | [75811-awe-of-despair.json](./75811-awe-of-despair.json) |
+| Awele/Oware: Mancala | 89069 | [89069-awele-oware-mancala.json](./89069-awele-oware-mancala.json) |
 | Awesome Animated Monster Maker | 115070 | [115070-awesome-animated-monster-maker.json](./115070-awesome-animated-monster-maker.json) |
 | Awesome Animated Monster Maker: Ultra Edition | 109179 | [109179-awesome-animated-monster-maker-ultra-edition.json](./109179-awesome-animated-monster-maker-ultra-edition.json) |
 | Awesome Asteroids | 239291 | [239291-awesome-asteroids.json](./239291-awesome-asteroids.json) |
