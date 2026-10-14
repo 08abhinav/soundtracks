@@ -2059,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverland Card Battles | 42773 | [42773-neverland-card-battles.json](./42773-neverland-card-battles.json) |
 | Neverland Treasure | 120846 | [120846-neverland-treasure.json](./120846-neverland-treasure.json) |
 | Neverland: Aeterna Chronicles | 353288 | [353288-neverland-aeterna-chronicles.json](./353288-neverland-aeterna-chronicles.json) |
+| Neverlast | 123363 | [123363-neverlast.json](./123363-neverlast.json) |
 | Neverless Academy | 371259 | [371259-neverless-academy.json](./371259-neverless-academy.json) |
 | Nevermind | 290939 | [290939-nevermind.json](./290939-nevermind.json) |
 | Nevermore | 115564 | [115564-nevermore.json](./115564-nevermore.json) |
