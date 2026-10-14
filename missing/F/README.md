@@ -7350,6 +7350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractal | 381036 | [381036-fractal.json](./381036-fractal.json) |
 | Fractal Alchemist | 157382 | [157382-fractal-alchemist.json](./157382-fractal-alchemist.json) |
 | Fractal Block World | 152744 | [152744-fractal-block-world.json](./152744-fractal-block-world.json) |
+| Fractal Chicken | 105220 | [105220-fractal-chicken.json](./105220-fractal-chicken.json) |
 | Fractal City | 200933 | [200933-fractal-city.json](./200933-fractal-city.json) |
 | Fractal Craft | 364635 | [364635-fractal-craft.json](./364635-fractal-craft.json) |
 | Fractal Evolution | 190453 | [190453-fractal-evolution.json](./190453-fractal-evolution.json) |
@@ -8737,6 +8738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Metal Nun | 411666 | [411666-full-metal-nun.json](./411666-full-metal-nun.json) |
 | Full Metal Panic! Fight! Who Dares Wins | 75378 | [75378-full-metal-panic-fight-who-dares-wins.json](./75378-full-metal-panic-fight-who-dares-wins.json) |
 | Full Metal Planet | 12110 | [12110-full-metal-planet.json](./12110-full-metal-planet.json) |
+| Full Metal Renegade | 105169 | [105169-full-metal-renegade.json](./105169-full-metal-renegade.json) |
 | Full Metal Schoolgirl | 352205 | [352205-full-metal-schoolgirl.json](./352205-full-metal-schoolgirl.json) |
 | Full Metal Schoolgirl: Accessory - "Cat Tail" in 2 Color Varieties | 365568 | [365568-full-metal-schoolgirl-accessory-cat-tail-in-2-color-varieties.json](./365568-full-metal-schoolgirl-accessory-cat-tail-in-2-color-varieties.json) |
 | Full Metal Schoolgirl: Accessory - "Dopey Panda" in 2 Color Varieties | 365569 | [365569-full-metal-schoolgirl-accessory-dopey-panda-in-2-color-varieties.json](./365569-full-metal-schoolgirl-accessory-dopey-panda-in-2-color-varieties.json) |
