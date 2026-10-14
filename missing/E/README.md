@@ -1210,6 +1210,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Camperillo | 302740 | [302740-el-camperillo.json](./302740-el-camperillo.json) |
 | El Capitán Trueno | 100184 | [100184-el-capitan-trueno.json](./100184-el-capitan-trueno.json) |
 | El Capitán Trueno en la Montaña de los Suspiros | 70085 | [70085-el-capitan-trueno-en-la-montana-de-los-suspiros.json](./70085-el-capitan-trueno-en-la-montana-de-los-suspiros.json) |
+| El Caso de la Pathfinder | 113551 | [113551-el-caso-de-la-pathfinder.json](./113551-el-caso-de-la-pathfinder.json) |
+| El Castell dels Monstres | 113550 | [113550-el-castell-dels-monstres.json](./113550-el-castell-dels-monstres.json) |
 | El Cerro Del Calamar | 387580 | [387580-el-cerro-del-calamar.json](./387580-el-cerro-del-calamar.json) |
 | El Chavo | 331122 | [331122-el-chavo.json](./331122-el-chavo.json) |
 | El Chavo | 79918 | [79918-el-chavo.json](./79918-el-chavo.json) |
@@ -3951,6 +3953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Escape: Castle of Shadows | 307108 | [307108-eternal-escape-castle-of-shadows.json](./307108-eternal-escape-castle-of-shadows.json) |
 | Eternal Essence | 126383 | [126383-eternal-essence.json](./126383-eternal-essence.json) |
 | Eternal Evolution | 197358 | [197358-eternal-evolution.json](./197358-eternal-evolution.json) |
+| Eternal Exodus | 113556 | [113556-eternal-exodus.json](./113556-eternal-exodus.json) |
 | Eternal Fate | 15424 | [15424-eternal-fate.json](./15424-eternal-fate.json) |
 | Eternal Fate: A Journey Begins | 298340 | [298340-eternal-fate-a-journey-begins.json](./298340-eternal-fate-a-journey-begins.json) |
 | Eternal Fidelity | 231843 | [231843-eternal-fidelity.json](./231843-eternal-fidelity.json) |
