@@ -1108,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kekcroc's Pizza Delivery | 233128 | [233128-kekcrocs-pizza-delivery.json](./233128-kekcrocs-pizza-delivery.json) |
 | Keke in the Caves of Peril | 230262 | [230262-keke-in-the-caves-of-peril.json](./230262-keke-in-the-caves-of-peril.json) |
 | Keke Love Challenge | 105722 | [105722-keke-love-challenge.json](./105722-keke-love-challenge.json) |
+| Kekistan: This is War | 74928 | [74928-kekistan-this-is-war.json](./74928-kekistan-this-is-war.json) |
 | Kekkon Marriage | 204397 | [204397-kekkon-marriage.json](./204397-kekkon-marriage.json) |
 | Kekkon Shugi Kokka | 334728 | [334728-kekkon-shugi-kokka.json](./334728-kekkon-shugi-kokka.json) |
 | Kekkon Zenya | 216419 | [216419-kekkon-zenya.json](./216419-kekkon-zenya.json) |
@@ -2027,6 +2028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Lucas | 26371 | [26371-king-lucas.json](./26371-king-lucas.json) |
 | King NooB | 180054 | [180054-king-noob.json](./180054-king-noob.json) |
 | King of Avalon | 265517 | [265517-king-of-avalon.json](./265517-king-of-avalon.json) |
+| King of Avalon: Dragon Warfare | 74962 | [74962-king-of-avalon-dragon-warfare.json](./74962-king-of-avalon-dragon-warfare.json) |
 | King of Bali | 50547 | [50547-king-of-bali.json](./50547-king-of-bali.json) |
 | King of Bees in Fantasy Land | 139310 | [139310-king-of-bees-in-fantasy-land.json](./139310-king-of-bees-in-fantasy-land.json) |
 | King of BMX | 91979 | [91979-king-of-bmx.json](./91979-king-of-bmx.json) |
@@ -3386,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koko kara Natsu no Innocence! | 327920 | [327920-koko-kara-natsu-no-innocence.json](./327920-koko-kara-natsu-no-innocence.json) |
 | Koko's Cafe | 406678 | [406678-kokos-cafe.json](./406678-kokos-cafe.json) |
 | Kokoa | 305480 | [305480-kokoa.json](./305480-kokoa.json) |
+| Kokoda VR | 74947 | [74947-kokoda-vr.json](./74947-kokoda-vr.json) |
 | Kokohore! Pukka: Dig-a-Dig Pukka | 138825 | [138825-kokohore-pukka-dig-a-dig-pukka.json](./138825-kokohore-pukka-dig-a-dig-pukka.json) |
 | Kokojokoa | 294398 | [294398-kokojokoa.json](./294398-kokojokoa.json) |
 | Kokomando | 299719 | [299719-kokomando.json](./299719-kokomando.json) |
