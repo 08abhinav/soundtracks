@@ -866,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warface: Medic Tournament Pack | 226888 | [226888-warface-medic-tournament-pack.json](./226888-warface-medic-tournament-pack.json) |
 | Warface: Rifleman Tournament Pack | 226887 | [226887-warface-rifleman-tournament-pack.json](./226887-warface-rifleman-tournament-pack.json) |
 | Warface: Sniper Tournament Pack | 226886 | [226886-warface-sniper-tournament-pack.json](./226886-warface-sniper-tournament-pack.json) |
+| Warface: Starter Edition | 118677 | [118677-warface-starter-edition.json](./118677-warface-starter-edition.json) |
 | WarFallen | 82438 | [82438-warfallen.json](./82438-warfallen.json) |
 | Warfare 1917 | 61588 | [61588-warfare-1917.json](./61588-warfare-1917.json) |
 | Warfare 1944 | 103393 | [103393-warfare-1944.json](./103393-warfare-1944.json) |
@@ -1110,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: Vermintide 2 - Premium Edition | 119075 | [119075-warhammer-vermintide-2-premium-edition.json](./119075-warhammer-vermintide-2-premium-edition.json) |
 | Warhammer: Vermintide 2 - Shadows over Bögenhafen | 116130 | [116130-warhammer-vermintide-2-shadows-over-bogenhafen.json](./116130-warhammer-vermintide-2-shadows-over-bogenhafen.json) |
 | Warhammer: Vermintide 2 - Sister of the Thorn | 155702 | [155702-warhammer-vermintide-2-sister-of-the-thorn.json](./155702-warhammer-vermintide-2-sister-of-the-thorn.json) |
+| Warhammer: Vermintide 2 - Ultimate Edition | 118700 | [118700-warhammer-vermintide-2-ultimate-edition.json](./118700-warhammer-vermintide-2-ultimate-edition.json) |
 | Warhammer: Vermintide 2 - Versus | 314400 | [314400-warhammer-vermintide-2-versus.json](./314400-warhammer-vermintide-2-versus.json) |
 | Warhammer: Vermintide 2 - Winds of Magic | 115671 | [115671-warhammer-vermintide-2-winds-of-magic.json](./115671-warhammer-vermintide-2-winds-of-magic.json) |
 | Warhaos | 161406 | [161406-warhaos.json](./161406-warhaos.json) |
@@ -5494,6 +5496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Tanks: Blitz - Space Pack | 171012 | [171012-world-of-tanks-blitz-space-pack.json](./171012-world-of-tanks-blitz-space-pack.json) |
 | World of Tanks: Heat | 361890 | [361890-world-of-tanks-heat.json](./361890-world-of-tanks-heat.json) |
 | World of Tanks: Independence | 121641 | [121641-world-of-tanks-independence.json](./121641-world-of-tanks-independence.json) |
+| World of Tanks: Mercenaries - Valor Edition | 118705 | [118705-world-of-tanks-mercenaries-valor-edition.json](./118705-world-of-tanks-mercenaries-valor-edition.json) |
 | World of Tanks: Modern Armor | 296792 | [296792-world-of-tanks-modern-armor.json](./296792-world-of-tanks-modern-armor.json) |
 | World of Tanks: Modern Armor - Ambush From Afar | 332073 | [332073-world-of-tanks-modern-armor-ambush-from-afar.json](./332073-world-of-tanks-modern-armor-ambush-from-afar.json) |
 | World of Tanks: Modern Armor - American Muscle | 333686 | [333686-world-of-tanks-modern-armor-american-muscle.json](./333686-world-of-tanks-modern-armor-american-muscle.json) |
@@ -5571,6 +5574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warships: Legends - Jump-Start 7 | 332050 | [332050-world-of-warships-legends-jump-start-7.json](./332050-world-of-warships-legends-jump-start-7.json) |
 | World of Warships: Legends - Lead the Way | 332051 | [332051-world-of-warships-legends-lead-the-way.json](./332051-world-of-warships-legends-lead-the-way.json) |
 | World of Warships: Legends - Pilgrim From Devon | 332053 | [332053-world-of-warships-legends-pilgrim-from-devon.json](./332053-world-of-warships-legends-pilgrim-from-devon.json) |
+| World of Warships: Legends - Premium Edition | 118693 | [118693-world-of-warships-legends-premium-edition.json](./118693-world-of-warships-legends-premium-edition.json) |
 | World of Warships: Legends - Ultimate Edition | 118739 | [118739-world-of-warships-legends-ultimate-edition.json](./118739-world-of-warships-legends-ultimate-edition.json) |
 | World of Warships: Legends - United Force | 332054 | [332054-world-of-warships-legends-united-force.json](./332054-world-of-warships-legends-united-force.json) |
 | World of Warships: Starter Pack - Ishizuchi | 223475 | [223475-world-of-warships-starter-pack-ishizuchi.json](./223475-world-of-warships-starter-pack-ishizuchi.json) |
