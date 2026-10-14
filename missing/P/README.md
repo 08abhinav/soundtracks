@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint School | 139374 | [139374-paint-school.json](./139374-paint-school.json) |
 | Paint School II | 46571 | [46571-paint-school-ii.json](./46571-paint-school-ii.json) |
 | Paint Shape Girl | 87131 | [87131-paint-shape-girl.json](./87131-paint-shape-girl.json) |
+| Paint Splash | 85326 | [85326-paint-splash.json](./85326-paint-splash.json) |
 | Paint the Snow: Idle | 365230 | [365230-paint-the-snow-idle.json](./365230-paint-the-snow-idle.json) |
 | Paint the Town Red | 13192 | [13192-paint-the-town-red.json](./13192-paint-the-town-red.json) |
 | Paint to Pixel | 192959 | [192959-paint-to-pixel.json](./192959-paint-to-pixel.json) |
@@ -532,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painting VR: Cozy Cabin | 305541 | [305541-painting-vr-cozy-cabin.json](./305541-painting-vr-cozy-cabin.json) |
 | Painting Werther | 156725 | [156725-painting-werther.json](./156725-painting-werther.json) |
 | Painting With Tito | 89803 | [89803-painting-with-tito.json](./89803-painting-with-tito.json) |
+| Painting Workshop | 85327 | [85327-painting-workshop.json](./85327-painting-workshop.json) |
 | Paintings Restoration | 329576 | [329576-paintings-restoration.json](./329576-paintings-restoration.json) |
 | PaintPool | 334754 | [334754-paintpool.json](./334754-paintpool.json) |
 | Painturio | 188609 | [188609-painturio.json](./188609-painturio.json) |
@@ -721,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Choice Mahjong | 263502 | [263502-panda-choice-mahjong.json](./263502-panda-choice-mahjong.json) |
 | Panda City | 160131 | [160131-panda-city.json](./160131-panda-city.json) |
 | Panda Commander Air Combat: Sky Fighter Shooting Force Attack | 89032 | [89032-panda-commander-air-combat-sky-fighter-shooting-force-attack.json](./89032-panda-commander-air-combat-sky-fighter-shooting-force-attack.json) |
+| Panda Craze | 85328 | [85328-panda-craze.json](./85328-panda-craze.json) |
 | Panda Dodgeball | 79549 | [79549-panda-dodgeball.json](./79549-panda-dodgeball.json) |
 | Panda Dynasty | 177927 | [177927-panda-dynasty.json](./177927-panda-dynasty.json) |
 | Panda Eat Bamboo | 326100 | [326100-panda-eat-bamboo.json](./326100-panda-eat-bamboo.json) |
@@ -980,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer League | 111542 | [111542-panzer-league.json](./111542-panzer-league.json) |
 | Panzer Marshal | 176432 | [176432-panzer-marshal.json](./176432-panzer-marshal.json) |
 | Panzer Paladin | 116195 | [116195-panzer-paladin.json](./116195-panzer-paladin.json) |
+| Panzer Party | 85329 | [85329-panzer-party.json](./85329-panzer-party.json) |
 | Panzer Strike | 324314 | [324314-panzer-strike.json](./324314-panzer-strike.json) |
 | Panzer Tactics DS | 21516 | [21516-panzer-tactics-ds.json](./21516-panzer-tactics-ds.json) |
 | Panzer Tactics HD | 10653 | [10653-panzer-tactics-hd.json](./10653-panzer-tactics-hd.json) |
@@ -1639,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Simulator | 188094 | [188094-parking-simulator.json](./188094-parking-simulator.json) |
 | Parking Simulator: Retro Car Driving | 406061 | [406061-parking-simulator-retro-car-driving.json](./406061-parking-simulator-retro-car-driving.json) |
 | Parking Slide | 163748 | [163748-parking-slide.json](./163748-parking-slide.json) |
+| Parking Star 3D | 85330 | [85330-parking-star-3d.json](./85330-parking-star-3d.json) |
 | Parking Ticket Mayhem | 391221 | [391221-parking-ticket-mayhem.json](./391221-parking-ticket-mayhem.json) |
 | Parking Tycoon | 252144 | [252144-parking-tycoon.json](./252144-parking-tycoon.json) |
 | Parking Tycoon 2: Business Simulator | 373728 | [373728-parking-tycoon-2-business-simulator.json](./373728-parking-tycoon-2-business-simulator.json) |
@@ -2142,6 +2147,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paul Sloane & Des MacHale's Intriguing Tales | 123377 | [123377-paul-sloane-and-des-machales-intriguing-tales.json](./123377-paul-sloane-and-des-machales-intriguing-tales.json) |
 | Paul Sloane & Des MacHale's Intriguing Tales 2 | 123378 | [123378-paul-sloane-and-des-machales-intriguing-tales-2.json](./123378-paul-sloane-and-des-machales-intriguing-tales-2.json) |
 | Paul: vs. The CIA Gold | 153023 | [153023-paul-vs-the-cia-gold.json](./153023-paul-vs-the-cia-gold.json) |
+| Paul's Monster Adventure | 85331 | [85331-pauls-monster-adventure.json](./85331-pauls-monster-adventure.json) |
+| Paul's Shooting Adventure | 85332 | [85332-pauls-shooting-adventure.json](./85332-pauls-shooting-adventure.json) |
+| Paul's Shooting Adventure 2 | 85335 | [85335-pauls-shooting-adventure-2.json](./85335-pauls-shooting-adventure-2.json) |
 | Paulblast! | 326108 | [326108-paulblast.json](./326108-paulblast.json) |
 | Pauli's Adventure Island | 264101 | [264101-paulis-adventure-island.json](./264101-paulis-adventure-island.json) |
 | Paulo | 86056 | [86056-paulo.json](./86056-paulo.json) |
@@ -2232,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paws & Claws Regal Resort | 210015 | [210015-paws-and-claws-regal-resort.json](./210015-paws-and-claws-regal-resort.json) |
 | Paws & Claws: Dogs & Cats Best Friends | 47893 | [47893-paws-and-claws-dogs-and-cats-best-friends.json](./47893-paws-and-claws-dogs-and-cats-best-friends.json) |
 | Paws & Claws: Pampered Pets | 29197 | [29197-paws-and-claws-pampered-pets.json](./29197-paws-and-claws-pampered-pets.json) |
+| Paws & Claws: Pampered Pets Resort 3D | 85336 | [85336-paws-and-claws-pampered-pets-resort-3d.json](./85336-paws-and-claws-pampered-pets-resort-3d.json) |
 | Paws & Claws: Pet Resort | 18272 | [18272-paws-and-claws-pet-resort.json](./18272-paws-and-claws-pet-resort.json) |
 | Paws & Claws: Pet School | 29198 | [29198-paws-and-claws-pet-school.json](./29198-paws-and-claws-pet-school.json) |
 | Paws & Clean | 316847 | [316847-paws-and-clean.json](./316847-paws-and-clean.json) |
@@ -2822,6 +2831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pentaloop | 346671 | [346671-pentaloop.json](./346671-pentaloop.json) |
 | PentaPip | 412805 | [412805-pentapip.json](./412805-pentapip.json) |
 | Pentapus | 292099 | [292099-pentapus.json](./292099-pentapus.json) |
+| Pentapuzzle | 85334 | [85334-pentapuzzle.json](./85334-pentapuzzle.json) |
 | Pentaquin: Deeds of Twilight | 158052 | [158052-pentaquin-deeds-of-twilight.json](./158052-pentaquin-deeds-of-twilight.json) |
 | Pentari: First Light | 72034 | [72034-pentari-first-light.json](./72034-pentari-first-light.json) |
 | Pentavolt | 359077 | [359077-pentavolt.json](./359077-pentavolt.json) |
@@ -3234,8 +3244,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Evolution | 174765 | [174765-pet-evolution.json](./174765-pet-evolution.json) |
 | Pet Grooming Studio | 293207 | [293207-pet-grooming-studio.json](./293207-pet-grooming-studio.json) |
 | Pet Hero vs. Zombie | 341119 | [341119-pet-hero-vs-zombie.json](./341119-pet-hero-vs-zombie.json) |
+| Pet Hospital | 85342 | [85342-pet-hospital.json](./85342-pet-hospital.json) |
 | Pet Hotel Tycoon | 25066 | [25066-pet-hotel-tycoon.json](./25066-pet-hotel-tycoon.json) |
 | Pet idle | 189005 | [189005-pet-idle.json](./189005-pet-idle.json) |
+| Pet Inn 3D | 85341 | [85341-pet-inn-3d.json](./85341-pet-inn-3d.json) |
 | Pet Kawaii Shop | 317211 | [317211-pet-kawaii-shop.json](./317211-pet-kawaii-shop.json) |
 | Pet Knight into cave | 161262 | [161262-pet-knight-into-cave.json](./161262-pet-knight-into-cave.json) |
 | Pet Luv Spa and Resort Tycoon | 254594 | [254594-pet-luv-spa-and-resort-tycoon.json](./254594-pet-luv-spa-and-resort-tycoon.json) |
@@ -3356,6 +3368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pets Crossing | 247028 | [247028-pets-crossing.json](./247028-pets-crossing.json) |
 | Pets in Action Bundle | 212787 | [212787-pets-in-action-bundle.json](./212787-pets-in-action-bundle.json) |
 | Pets No More | 154818 | [154818-pets-no-more.json](./154818-pets-no-more.json) |
+| Pets Resort 3D | 85340 | [85340-pets-resort-3d.json](./85340-pets-resort-3d.json) |
 | Pets Survivors | 411145 | [411145-pets-survivors.json](./411145-pets-survivors.json) |
 | PETSCII Bros | 290652 | [290652-petscii-bros.json](./290652-petscii-bros.json) |
 | PETSCII Raiders | 290655 | [290655-petscii-raiders.json](./290655-petscii-raiders.json) |
@@ -3384,13 +3397,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petz 4 | 159039 | [159039-petz-4.json](./159039-petz-4.json) |
 | Petz Beach | 9744 | [9744-petz-beach.json](./9744-petz-beach.json) |
 | Petz Bunnyz Bunch | 210002 | [210002-petz-bunnyz-bunch.json](./210002-petz-bunnyz-bunch.json) |
+| Petz Catz Family | 85339 | [85339-petz-catz-family.json](./85339-petz-catz-family.json) |
 | Petz Countryside | 9743 | [9743-petz-countryside.json](./9743-petz-countryside.json) |
 | Petz Dogz Family | 42888 | [42888-petz-dogz-family.json](./42888-petz-dogz-family.json) |
 | Petz Dogz Talent Show | 44067 | [44067-petz-dogz-talent-show.json](./44067-petz-dogz-talent-show.json) |
 | Petz Dolphinz Encounter | 67345 | [67345-petz-dolphinz-encounter.json](./67345-petz-dolphinz-encounter.json) |
+| Petz Fantasy 3D | 85338 | [85338-petz-fantasy-3d.json](./85338-petz-fantasy-3d.json) |
 | Petz Fantasy: Moonlight Magic | 66364 | [66364-petz-fantasy-moonlight-magic.json](./66364-petz-fantasy-moonlight-magic.json) |
 | Petz Fantasy: Sunshine Magic | 47962 | [47962-petz-fantasy-sunshine-magic.json](./47962-petz-fantasy-sunshine-magic.json) |
 | Petz Hamsterz Bunch | 210000 | [210000-petz-hamsterz-bunch.json](./210000-petz-hamsterz-bunch.json) |
+| Petz Hamsterz Family | 85337 | [85337-petz-hamsterz-family.json](./85337-petz-hamsterz-family.json) |
 | Petz Horseshoe Ranch | 209999 | [209999-petz-horseshoe-ranch.json](./209999-petz-horseshoe-ranch.json) |
 | Petz Horsez Family | 209998 | [209998-petz-horsez-family.json](./209998-petz-horsez-family.json) |
 | Petz Nursery 2 | 47894 | [47894-petz-nursery-2.json](./47894-petz-nursery-2.json) |
@@ -3941,6 +3957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pibby: Apocalypse | 266182 | [266182-pibby-apocalypse.json](./266182-pibby-apocalypse.json) |
 | Pic Guesser | 28736 | [28736-pic-guesser.json](./28736-pic-guesser.json) |
 | Pic Happens! | 386471 | [386471-pic-happens.json](./386471-pic-happens.json) |
+| Pic Pic | 85344 | [85344-pic-pic.json](./85344-pic-pic.json) |
 | Pic-a-Pix Color 2 | 120799 | [120799-pic-a-pix-color-2.json](./120799-pic-a-pix-color-2.json) |
 | Pic-a-Pix Pieces: 15x15 Pieces Pack 1 | 404289 | [404289-pic-a-pix-pieces-15x15-pieces-pack-1.json](./404289-pic-a-pix-pieces-15x15-pieces-pack-1.json) |
 | Pic-a-Pix Pieces: 15x15 Pieces Pack 10 | 404290 | [404290-pic-a-pix-pieces-15x15-pieces-pack-10.json](./404290-pic-a-pix-pieces-15x15-pieces-pack-10.json) |
@@ -5143,6 +5160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates and Aztecs | 298832 | [298832-pirates-and-aztecs.json](./298832-pirates-and-aztecs.json) |
 | Pirates and Traders | 39174 | [39174-pirates-and-traders.json](./39174-pirates-and-traders.json) |
 | Pirates are Blanking Awesome | 117475 | [117475-pirates-are-blanking-awesome.json](./117475-pirates-are-blanking-awesome.json) |
+| Pirates Assault | 85343 | [85343-pirates-assault.json](./85343-pirates-assault.json) |
 | Pirates Bay | 211802 | [211802-pirates-bay.json](./211802-pirates-bay.json) |
 | Pirates Crew | 176297 | [176297-pirates-crew.json](./176297-pirates-crew.json) |
 | Pirates CSG Online | 20643 | [20643-pirates-csg-online.json](./20643-pirates-csg-online.json) |
@@ -5841,6 +5859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelJunk VR: Dead Hungry | 27322 | [27322-pixeljunk-vr-dead-hungry.json](./27322-pixeljunk-vr-dead-hungry.json) |
 | PixelJunk: Scrappers Deluxe | 213499 | [213499-pixeljunk-scrappers-deluxe.json](./213499-pixeljunk-scrappers-deluxe.json) |
 | PixelMaker | 84816 | [84816-pixelmaker.json](./84816-pixelmaker.json) |
+| PixelMaker | 85345 | [85345-pixelmaker.json](./85345-pixelmaker.json) |
 | PixelMaker Studio | 147894 | [147894-pixelmaker-studio.json](./147894-pixelmaker-studio.json) |
 | Pixelman | 33609 | [33609-pixelman.json](./33609-pixelman.json) |
 | Pixelmancy | 319371 | [319371-pixelmancy.json](./319371-pixelmancy.json) |
@@ -6978,6 +6997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Necromancer | 319383 | [319383-pocket-necromancer.json](./319383-pocket-necromancer.json) |
 | Pocket no Naka no Doraemon | 37357 | [37357-pocket-no-naka-no-doraemon.json](./37357-pocket-no-naka-no-doraemon.json) |
 | Pocket of Horror | 344566 | [344566-pocket-of-horror.json](./344566-pocket-of-horror.json) |
+| Pocket Pack: Words & Numbers | 85346 | [85346-pocket-pack-words-and-numbers.json](./85346-pocket-pack-words-and-numbers.json) |
 | Pocket Pet | 230730 | [230730-pocket-pet.json](./230730-pocket-pet.json) |
 | Pocket Pioneers | 152388 | [152388-pocket-pioneers.json](./152388-pocket-pioneers.json) |
 | Pocket Pix | 260880 | [260880-pocket-pix.json](./260880-pocket-pix.json) |
@@ -8570,6 +8590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poptropica Adventures | 47928 | [47928-poptropica-adventures.json](./47928-poptropica-adventures.json) |
 | Poptropica Legacy | 390160 | [390160-poptropica-legacy.json](./390160-poptropica-legacy.json) |
 | Poptropica Worlds | 103523 | [103523-poptropica-worlds.json](./103523-poptropica-worlds.json) |
+| Poptropica: Forgotten Islands | 85348 | [85348-poptropica-forgotten-islands.json](./85348-poptropica-forgotten-islands.json) |
 | Popucom x Arknights Collab Outfit Pack | 378876 | [378876-popucom-x-arknights-collab-outfit-pack.json](./378876-popucom-x-arknights-collab-outfit-pack.json) |
 | Popucom: Too Many Clothes Pack | 378875 | [378875-popucom-too-many-clothes-pack.json](./378875-popucom-too-many-clothes-pack.json) |
 | Population Control | 387497 | [387497-population-control.json](./387497-population-control.json) |
@@ -9807,6 +9828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prism Hotel Murder Case: Super Mystery Wars - Episode Conan | 310012 | [310012-prism-hotel-murder-case-super-mystery-wars-episode-conan.json](./310012-prism-hotel-murder-case-super-mystery-wars-episode-conan.json) |
 | Prism Indigo DX | 298242 | [298242-prism-indigo-dx.json](./298242-prism-indigo-dx.json) |
 | Prism Panic | 396707 | [396707-prism-panic.json](./396707-prism-panic.json) |
+| Prism Pets | 85349 | [85349-prism-pets.json](./85349-prism-pets.json) |
 | Prism Queen's Heroine | 83934 | [83934-prism-queens-heroine.json](./83934-prism-queens-heroine.json) |
 | Prism Shift | 347090 | [347090-prism-shift.json](./347090-prism-shift.json) |
 | Prism Warriors DX | 346621 | [346621-prism-warriors-dx.json](./346621-prism-warriors-dx.json) |
@@ -10412,11 +10434,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Chemistry | 132116 | [132116-project-chemistry.json](./132116-project-chemistry.json) |
 | Project Chernaya | 406246 | [406246-project-chernaya.json](./406246-project-chernaya.json) |
 | Project Chromata | 369469 | [369469-project-chromata.json](./369469-project-chromata.json) |
+| Project Cider | 85355 | [85355-project-cider.json](./85355-project-cider.json) |
 | Project Circle | 294382 | [294382-project-circle.json](./294382-project-circle.json) |
 | Project Clean Earth | 203692 | [203692-project-clean-earth.json](./203692-project-clean-earth.json) |
 | Project Cobalt | 366310 | [366310-project-cobalt.json](./366310-project-cobalt.json) |
 | Project Code: Shift | 75412 | [75412-project-code-shift.json](./75412-project-code-shift.json) |
 | Project Colored Mountains | 264095 | [264095-project-colored-mountains.json](./264095-project-colored-mountains.json) |
+| Project Colour Park | 85354 | [85354-project-colour-park.json](./85354-project-colour-park.json) |
 | Project Combat | 125922 | [125922-project-combat.json](./125922-project-combat.json) |
 | Project Confluence | 391772 | [391772-project-confluence.json](./391772-project-confluence.json) |
 | Project Confrontation | 57051 | [57051-project-confrontation.json](./57051-project-confrontation.json) |
@@ -11170,6 +11194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psi-Ops: The Mindgate Conspiracy | 5992 | [5992-psi-ops-the-mindgate-conspiracy.json](./5992-psi-ops-the-mindgate-conspiracy.json) |
 | Psi-Warrior | 26466 | [26466-psi-warrior.json](./26466-psi-warrior.json) |
 | PSI: Pressure Climbing | 276964 | [276964-psi-pressure-climbing.json](./276964-psi-pressure-climbing.json) |
+| Psibo | 85352 | [85352-psibo.json](./85352-psibo.json) |
 | Psichodelya | 17406 | [17406-psichodelya.json](./17406-psichodelya.json) |
 | Psicose? | 129235 | [129235-psicose.json](./129235-psicose.json) |
 | Psicosis | 328938 | [328938-psicosis.json](./328938-psicosis.json) |
@@ -11291,6 +11316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PsyOps Solutions | 114252 | [114252-psyops-solutions.json](./114252-psyops-solutions.json) |
 | PsyPro | 391130 | [391130-psypro.json](./391130-psypro.json) |
 | PsyQik | 253882 | [253882-psyqik.json](./253882-psyqik.json) |
+| Psyscrolr | 85351 | [85351-psyscrolr.json](./85351-psyscrolr.json) |
 | Psytraxx | 57356 | [57356-psytraxx.json](./57356-psytraxx.json) |
 | Psytron | 25749 | [25749-psytron.json](./25749-psytron.json) |
 | PsyUp | 392255 | [392255-psyup.json](./392255-psyup.json) |
@@ -12255,6 +12281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Quest: Galactrix | 8980 | [8980-puzzle-quest-galactrix.json](./8980-puzzle-quest-galactrix.json) |
 | Puzzle Quest: The Legend Returns | 122246 | [122246-puzzle-quest-the-legend-returns.json](./122246-puzzle-quest-the-legend-returns.json) |
 | Puzzle Retreat | 38867 | [38867-puzzle-retreat.json](./38867-puzzle-retreat.json) |
+| Puzzle Rocks | 85356 | [85356-puzzle-rocks.json](./85356-puzzle-rocks.json) |
 | Puzzle Room Escape | 261983 | [261983-puzzle-room-escape.json](./261983-puzzle-room-escape.json) |
 | Puzzle Sages | 34493 | [34493-puzzle-sages.json](./34493-puzzle-sages.json) |
 | Puzzle Scape | 46021 | [46021-puzzle-scape.json](./46021-puzzle-scape.json) |
@@ -12263,6 +12290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Sculpt | 313770 | [313770-puzzle-sculpt.json](./313770-puzzle-sculpt.json) |
 | Puzzle Series Vol. 1: Sudoku | 268387 | [268387-puzzle-series-vol-1-sudoku.json](./268387-puzzle-series-vol-1-sudoku.json) |
 | Puzzle Series Vol. 12: Akari | 184569 | [184569-puzzle-series-vol-12-akari.json](./184569-puzzle-series-vol-12-akari.json) |
+| Puzzle Series Vol. 2: Illust Logic + Colourful Logic | 85359 | [85359-puzzle-series-vol-2-illust-logic-colourful-logic.json](./85359-puzzle-series-vol-2-illust-logic-colourful-logic.json) |
 | Puzzle Series: Jigsaw Puzzle - Koneko Mekuri-hen | 344572 | [344572-puzzle-series-jigsaw-puzzle-koneko-mekuri-hen.json](./344572-puzzle-series-jigsaw-puzzle-koneko-mekuri-hen.json) |
 | Puzzle Sigma | 176420 | [176420-puzzle-sigma.json](./176420-puzzle-sigma.json) |
 | Puzzle Snake | 206382 | [206382-puzzle-snake.json](./206382-puzzle-snake.json) |
