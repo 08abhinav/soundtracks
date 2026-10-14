@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachitte Chonmage | 109190 | [109190-pachitte-chonmage.json](./109190-pachitte-chonmage.json) |
 | Pachitte Chonmage Tatsujin 5: CR Kamen Rider | 61913 | [61913-pachitte-chonmage-tatsujin-5-cr-kamen-rider.json](./61913-pachitte-chonmage-tatsujin-5-cr-kamen-rider.json) |
 | Pacif Warriors 2 | 43538 | [43538-pacif-warriors-2.json](./43538-pacif-warriors-2.json) |
+| Pacific | 94135 | [94135-pacific.json](./94135-pacific.json) |
 | Pacific Battle | 195051 | [195051-pacific-battle.json](./195051-pacific-battle.json) |
 | Pacific Drive: Friendly Dumpster Customization Pack | 314622 | [314622-pacific-drive-friendly-dumpster-customization-pack.json](./314622-pacific-drive-friendly-dumpster-customization-pack.json) |
 | Pacific Drive: Frosted Customization Pack | 333040 | [333040-pacific-drive-frosted-customization-pack.json](./333040-pacific-drive-frosted-customization-pack.json) |
