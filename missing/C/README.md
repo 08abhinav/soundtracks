@@ -1908,6 +1908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars and Trucks: preschool toddler learning games, learn shapes & colors | 90140 | [90140-cars-and-trucks-preschool-toddler-learning-games-learn-shapes-and-colors.json](./90140-cars-and-trucks-preschool-toddler-learning-games-learn-shapes-and-colors.json) |
 | Cars Mater-National Championship | 281854 | [281854-cars-mater-national-championship.json](./281854-cars-mater-national-championship.json) |
 | Cars Mater-National Championship | 4748 | [4748-cars-mater-national-championship.json](./4748-cars-mater-national-championship.json) |
+| Cars Supercharged | 76453 | [76453-cars-supercharged.json](./76453-cars-supercharged.json) |
 | Cars Toon | 36249 | [36249-cars-toon.json](./36249-cars-toon.json) |
 | Cars Toon: Tokyo Mater | 230550 | [230550-cars-toon-tokyo-mater.json](./230550-cars-toon-tokyo-mater.json) |
 | Cars vs Train | 230939 | [230939-cars-vs-train.json](./230939-cars-vs-train.json) |
@@ -3303,6 +3304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celeste Classic 2: Lani's Trek | 366101 | [366101-celeste-classic-2-lanis-trek.json](./366101-celeste-classic-2-lanis-trek.json) |
 | Celeste Fusion Collab | 358282 | [358282-celeste-fusion-collab.json](./358282-celeste-fusion-collab.json) |
 | Celeste Strawberry Jam | 235102 | [235102-celeste-strawberry-jam.json](./235102-celeste-strawberry-jam.json) |
+| Celeste Witch | 76427 | [76427-celeste-witch.json](./76427-celeste-witch.json) |
 | Celeste: Farewell | 122556 | [122556-celeste-farewell.json](./122556-celeste-farewell.json) |
 | Celestia | 183432 | [183432-celestia.json](./183432-celestia.json) |
 | Celestia Ultimate | 249475 | [249475-celestia-ultimate.json](./249475-celestia-ultimate.json) |
@@ -5324,6 +5326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Stories: Alice's Adventures | 187978 | [187978-christmas-stories-alices-adventures.json](./187978-christmas-stories-alices-adventures.json) |
 | Christmas Stories: Enchanted Express | 139769 | [139769-christmas-stories-enchanted-express.json](./139769-christmas-stories-enchanted-express.json) |
 | Christmas Stories: Hans Christian Andersen's Tin Soldier | 139770 | [139770-christmas-stories-hans-christian-andersens-tin-soldier.json](./139770-christmas-stories-hans-christian-andersens-tin-soldier.json) |
+| Christmas Stories: Hans Christian Andersen's Tin Soldier - Collector's Edition | 76481 | [76481-christmas-stories-hans-christian-andersens-tin-soldier-collectors-edition.json](./76481-christmas-stories-hans-christian-andersens-tin-soldier-collectors-edition.json) |
 | Christmas Stories: Nutcracker | 139771 | [139771-christmas-stories-nutcracker.json](./139771-christmas-stories-nutcracker.json) |
 | Christmas Stories: Nutcracker - Collector's Edition | 30202 | [30202-christmas-stories-nutcracker-collectors-edition.json](./30202-christmas-stories-nutcracker-collectors-edition.json) |
 | Christmas Stories: Puss in Boots | 187916 | [187916-christmas-stories-puss-in-boots.json](./187916-christmas-stories-puss-in-boots.json) |
