@@ -5973,6 +5973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Jigsaw Puzzle | 104015 | [104015-digital-jigsaw-puzzle.json](./104015-digital-jigsaw-puzzle.json) |
 | Digital Keiba Shinbun: My Trackman | 283300 | [283300-digital-keiba-shinbun-my-trackman.json](./283300-digital-keiba-shinbun-my-trackman.json) |
 | Digital Legacy of Zero | 337775 | [337775-digital-legacy-of-zero.json](./337775-digital-legacy-of-zero.json) |
+| Digital Litmus Paper | 108878 | [108878-digital-litmus-paper.json](./108878-digital-litmus-paper.json) |
 | Digital Makeover | 200604 | [200604-digital-makeover.json](./200604-digital-makeover.json) |
 | Digital Market Simulator | 348390 | [348390-digital-market-simulator.json](./348390-digital-market-simulator.json) |
 | Digital Master | 74722 | [74722-digital-master.json](./74722-digital-master.json) |
@@ -6813,6 +6814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Ultimotion | 220273 | [220273-disney-ultimotion.json](./220273-disney-ultimotion.json) |
 | Disney Villains Challenge | 97983 | [97983-disney-villains-challenge.json](./97983-disney-villains-challenge.json) |
 | Disney XD Grand Prix | 361336 | [361336-disney-xd-grand-prix.json](./361336-disney-xd-grand-prix.json) |
+| Disney XD Villains Unite! | 108801 | [108801-disney-xd-villains-unite.json](./108801-disney-xd-villains-unite.json) |
 | Disney's 101 Dalmatians II: Patch's London Adventure | 43737 | [43737-disneys-101-dalmatians-ii-patchs-london-adventure.json](./43737-disneys-101-dalmatians-ii-patchs-london-adventure.json) |
 | Disney's 102 Dalmatians: Puppies to the Rescue | 2361 | [2361-disneys-102-dalmatians-puppies-to-the-rescue.json](./2361-disneys-102-dalmatians-puppies-to-the-rescue.json) |
 | Disney's 102 Dalmatians: Puppies to the Rescue | 372836 | [372836-disneys-102-dalmatians-puppies-to-the-rescue.json](./372836-disneys-102-dalmatians-puppies-to-the-rescue.json) |
