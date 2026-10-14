@@ -5851,6 +5851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black blood | 132781 | [132781-black-blood.json](./132781-black-blood.json) |
 | Black Blood | 379357 | [379357-black-blood.json](./379357-black-blood.json) |
 | Black Border: Border Simulator | 174205 | [174205-black-border-border-simulator.json](./174205-black-border-border-simulator.json) |
+| Black Box Chess | 116897 | [116897-black-box-chess.json](./116897-black-box-chess.json) |
 | Black Box Jumper | 184301 | [184301-black-box-jumper.json](./184301-black-box-jumper.json) |
 | Black Box LSS: The Merciful Savior | 259160 | [259160-black-box-lss-the-merciful-savior.json](./259160-black-box-lss-the-merciful-savior.json) |
 | Black Box Lss: The Shining Immortal | 258385 | [258385-black-box-lss-the-shining-immortal.json](./258385-black-box-lss-the-shining-immortal.json) |
@@ -6992,6 +6993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockade Runner | 23864 | [23864-blockade-runner.json](./23864-blockade-runner.json) |
 | Blockade Runner | 297244 | [297244-blockade-runner.json](./297244-blockade-runner.json) |
 | Blockade Runner | 397236 | [397236-blockade-runner.json](./397236-blockade-runner.json) |
+| Blockade War Stories | 116772 | [116772-blockade-war-stories.json](./116772-blockade-war-stories.json) |
 | Blockage | 306966 | [306966-blockage.json](./306966-blockage.json) |
 | BlockAid | 32882 | [32882-blockaid.json](./32882-blockaid.json) |
 | Blockappend | 236764 | [236764-blockappend.json](./236764-blockappend.json) |
@@ -7574,6 +7576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blow Away Survivors | 250507 | [250507-blow-away-survivors.json](./250507-blow-away-survivors.json) |
 | Blow Fish Music Quiz | 195441 | [195441-blow-fish-music-quiz.json](./195441-blow-fish-music-quiz.json) |
 | Blow Out | 312823 | [312823-blow-out.json](./312823-blow-out.json) |
+| Blow Up Pieces: Unleashed | 116791 | [116791-blow-up-pieces-unleashed.json](./116791-blow-up-pieces-unleashed.json) |
 | Blow Up! | 47556 | [47556-blow-up.json](./47556-blow-up.json) |
 | Blow-Up: Avenge Humanity | 345096 | [345096-blow-up-avenge-humanity.json](./345096-blow-up-avenge-humanity.json) |
 | Blowback | 184611 | [184611-blowback.json](./184611-blowback.json) |
