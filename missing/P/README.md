@@ -6136,7 +6136,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet of Carrots | 311254 | [311254-planet-of-carrots.json](./311254-planet-of-carrots.json) |
 | Planet of Cartmans 2 | 175902 | [175902-planet-of-cartmans-2.json](./175902-planet-of-cartmans-2.json) |
 | Planet of Cubes Survival Games | 88442 | [88442-planet-of-cubes-survival-games.json](./88442-planet-of-cubes-survival-games.json) |
-| Planet of Lana | 152071 | [152071-planet-of-lana.json](./152071-planet-of-lana.json) |
 | Planet of Lana II: Children of the Leaf | 348200 | [348200-planet-of-lana-ii-children-of-the-leaf.json](./348200-planet-of-lana-ii-children-of-the-leaf.json) |
 | Planet of Pirates | 115533 | [115533-planet-of-pirates.json](./115533-planet-of-pirates.json) |
 | Planet of the Ants | 347134 | [347134-planet-of-the-ants.json](./347134-planet-of-the-ants.json) |
