@@ -2411,6 +2411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fearless Wheels | 103889 | [103889-fearless-wheels.json](./103889-fearless-wheels.json) |
 | Fearlyss | 177276 | [177276-fearlyss.json](./177276-fearlyss.json) |
 | Fearmates | 390583 | [390583-fearmates.json](./390583-fearmates.json) |
+| Fearmonium | 118100 | [118100-fearmonium.json](./118100-fearmonium.json) |
 | Fears | 15541 | [15541-fears.json](./15541-fears.json) |
 | Fears of Glasses O-O | 180008 | [180008-fears-of-glasses-o-o.json](./180008-fears-of-glasses-o-o.json) |
 | Fears to Fathom: Home Alone | 171390 | [171390-fears-to-fathom-home-alone.json](./171390-fears-to-fathom-home-alone.json) |
