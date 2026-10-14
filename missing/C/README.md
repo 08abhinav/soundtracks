@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.M.Y.K | 135046 | [135046-c-m-y-k.json](./135046-c-m-y-k.json) |
 | C.O.D.E.R.E.D | 191034 | [191034-c-o-d-e-r-e-d.json](./191034-c-o-d-e-r-e-d.json) |
 | C.O.R.E. | 20977 | [20977-c-o-r-e.json](./20977-c-o-r-e.json) |
+| C.P.U. Bach | 94650 | [94650-c-p-u-bach.json](./94650-c-p-u-bach.json) |
 | C.R.E.E.P | 358863 | [358863-c-r-e-e-p.json](./358863-c-r-e-e-p.json) |
 | C.R.E.E.P.S | 34824 | [34824-c-r-e-e-p-s.json](./34824-c-r-e-e-p-s.json) |
 | C.S.S. Citadel VR | 32080 | [32080-c-s-s-citadel-vr.json](./32080-c-s-s-citadel-vr.json) |
@@ -1104,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capitals Quizzer: People Mode | 296526 | [296526-capitals-quizzer-people-mode.json](./296526-capitals-quizzer-people-mode.json) |
 | Capitals Quizzer: Regions Mode | 257463 | [257463-capitals-quizzer-regions-mode.json](./257463-capitals-quizzer-regions-mode.json) |
 | Capitol Diktatoria | 413908 | [413908-capitol-diktatoria.json](./413908-capitol-diktatoria.json) |
+| Capitol Hill | 94621 | [94621-capitol-hill.json](./94621-capitol-hill.json) |
 | Capoeira Fighter 3 | 93988 | [93988-capoeira-fighter-3.json](./93988-capoeira-fighter-3.json) |
 | CapoeiRogue: Dandara Cordão de Ouro | 215919 | [215919-capoeirogue-dandara-cordao-de-ouro.json](./215919-capoeirogue-dandara-cordao-de-ouro.json) |
 | Capone | 14375 | [14375-capone.json](./14375-capone.json) |
@@ -8127,6 +8129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colosseum Coach | 395694 | [395694-colosseum-coach.json](./395694-colosseum-coach.json) |
 | Colosso Crystal Skulls | 99727 | [99727-colosso-crystal-skulls.json](./99727-colosso-crystal-skulls.json) |
 | Colossorama | 176985 | [176985-colossorama.json](./176985-colossorama.json) |
+| Colossus Chess 4 | 94664 | [94664-colossus-chess-4.json](./94664-colossus-chess-4.json) |
 | Colossus Down: Destroy'em Up Editon | 150145 | [150145-colossus-down-destroyem-up-editon.json](./150145-colossus-down-destroyem-up-editon.json) |
 | Colossus: Eternal Blight | 244913 | [244913-colossus-eternal-blight.json](./244913-colossus-eternal-blight.json) |
 | Colour Bind | 10101 | [10101-colour-bind.json](./10101-colour-bind.json) |
@@ -11875,6 +11878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossword Safari: Word Hunt | 108630 | [108630-crossword-safari-word-hunt.json](./108630-crossword-safari-word-hunt.json) |
 | Crossworders' Dictionary and Gazetteer 4 | 88651 | [88651-crossworders-dictionary-and-gazetteer-4.json](./88651-crossworders-dictionary-and-gazetteer-4.json) |
 | Crosswords | 89675 | [89675-crosswords.json](./89675-crosswords.json) |
+| Crosswords & More for Windows | 94638 | [94638-crosswords-and-more-for-windows.json](./94638-crosswords-and-more-for-windows.json) |
 | Crosswords and More | 282843 | [282843-crosswords-and-more.json](./282843-crosswords-and-more.json) |
 | Crosswords Classic | 97301 | [97301-crosswords-classic.json](./97301-crosswords-classic.json) |
 | Crosswords With Friends | 90063 | [90063-crosswords-with-friends.json](./90063-crosswords-with-friends.json) |
@@ -13666,6 +13670,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CycleQuest | 393747 | [393747-cyclequest.json](./393747-cyclequest.json) |
 | Cyclic | 232660 | [232660-cyclic.json](./232660-cyclic.json) |
 | Cycling 2013 | 175370 | [175370-cycling-2013.json](./175370-cycling-2013.json) |
+| Cycling Manager | 94619 | [94619-cycling-manager.json](./94619-cycling-manager.json) |
+| Cycling Manager 3 | 94644 | [94644-cycling-manager-3.json](./94644-cycling-manager-3.json) |
 | Cycling Manager 4 | 71573 | [71573-cycling-manager-4.json](./71573-cycling-manager-4.json) |
 | CyclingArcadeRaceSimulator | 368598 | [368598-cyclingarcaderacesimulator.json](./368598-cyclingarcaderacesimulator.json) |
 | Cyclo 8 | 322587 | [322587-cyclo-8.json](./322587-cyclo-8.json) |
