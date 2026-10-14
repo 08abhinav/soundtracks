@@ -3047,7 +3047,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Maega | 217265 | [217265-terra-maega.json](./217265-terra-maega.json) |
 | Terra Mango | 47141 | [47141-terra-mango.json](./47141-terra-mango.json) |
 | Terra Militaris | 66367 | [66367-terra-militaris.json](./66367-terra-militaris.json) |
-| Terra Nil | 152424 | [152424-terra-nil.json](./152424-terra-nil.json) |
 | Terra Nil Prototype | 123998 | [123998-terra-nil-prototype.json](./123998-terra-nil-prototype.json) |
 | Terra Nil: Deluxe Edition | 243138 | [243138-terra-nil-deluxe-edition.json](./243138-terra-nil-deluxe-edition.json) |
 | Terra Nova Pinball | 289034 | [289034-terra-nova-pinball.json](./289034-terra-nova-pinball.json) |
