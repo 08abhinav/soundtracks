@@ -786,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales from the Commonwealth | 356619 | [356619-tales-from-the-commonwealth.json](./356619-tales-from-the-commonwealth.json) |
 | Tales from the Crossing: The Captain's Chair | 195126 | [195126-tales-from-the-crossing-the-captains-chair.json](./195126-tales-from-the-crossing-the-captains-chair.json) |
 | Tales From the Dark Manor | 414324 | [414324-tales-from-the-dark-manor.json](./414324-tales-from-the-dark-manor.json) |
+| Tales from the Dragon Mountain: the Lair | 89102 | [89102-tales-from-the-dragon-mountain-the-lair.json](./89102-tales-from-the-dragon-mountain-the-lair.json) |
 | Tales From The Dragon Mountain: The Strix | 17060 | [17060-tales-from-the-dragon-mountain-the-strix.json](./17060-tales-from-the-dragon-mountain-the-strix.json) |
 | Tales From the Herd | 277296 | [277296-tales-from-the-herd.json](./277296-tales-from-the-herd.json) |
 | Tales from the Outer Zone: Cyborg Seppuku | 182765 | [182765-tales-from-the-outer-zone-cyborg-seppuku.json](./182765-tales-from-the-outer-zone-cyborg-seppuku.json) |
@@ -1233,6 +1234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tambourine | 399193 | [399193-tambourine.json](./399193-tambourine.json) |
 | Tambourine Tangerine | 315617 | [315617-tambourine-tangerine.json](./315617-tambourine-tangerine.json) |
 | Tame It Too! | 310745 | [310745-tame-it-too.json](./310745-tame-it-too.json) |
+| Tamed Faces Jigsaw Puzzle - Domesticated Animals | 89027 | [89027-tamed-faces-jigsaw-puzzle-domesticated-animals.json](./89027-tamed-faces-jigsaw-puzzle-domesticated-animals.json) |
 | Tamer Saga | 56489 | [56489-tamer-saga.json](./56489-tamer-saga.json) |
 | Tamer Vale | 253840 | [253840-tamer-vale.json](./253840-tamer-vale.json) |
 | Tamerlane | 233633 | [233633-tamerlane.json](./233633-tamerlane.json) |
@@ -2564,6 +2566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Television Trivia | 302743 | [302743-television-trivia.json](./302743-television-trivia.json) |
 | Telf AG | 287781 | [287781-telf-ag.json](./287781-telf-ag.json) |
 | Tell a Demon | 51599 | [51599-tell-a-demon.json](./51599-tell-a-demon.json) |
+| Tell a Story | 89057 | [89057-tell-a-story.json](./89057-tell-a-story.json) |
 | Tell It Slant | 318546 | [318546-tell-it-slant.json](./318546-tell-it-slant.json) |
 | Tell Me Everything | 100715 | [100715-tell-me-everything.json](./100715-tell-me-everything.json) |
 | Tell me tonight was real | 281021 | [281021-tell-me-tonight-was-real.json](./281021-tell-me-tonight-was-real.json) |
@@ -9616,6 +9619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nightwatch | 289977 | [289977-the-nightwatch.json](./289977-the-nightwatch.json) |
 | The Nihil War | 224696 | [224696-the-nihil-war.json](./224696-the-nihil-war.json) |
 | The Nile God | 318719 | [318719-the-nile-god.json](./318719-the-nile-god.json) |
+| The Nine | 89045 | [89045-the-nine.json](./89045-the-nine.json) |
 | The Nine Rebirths | 326291 | [326291-the-nine-rebirths.json](./326291-the-nine-rebirths.json) |
 | The Ninja | 346067 | [346067-the-ninja.json](./346067-the-ninja.json) |
 | The Ninja Gaiden as Interpreted by MiniMacro Sound | 311650 | [311650-the-ninja-gaiden-as-interpreted-by-minimacro-sound.json](./311650-the-ninja-gaiden-as-interpreted-by-minimacro-sound.json) |
@@ -18882,6 +18886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Driver Journey 3 - Waldabavale to Karrah Bay | 100617 | [100617-train-driver-journey-3-waldabavale-to-karrah-bay.json](./100617-train-driver-journey-3-waldabavale-to-karrah-bay.json) |
 | Train Driver Journey 4 - Introduction to Steam | 86881 | [86881-train-driver-journey-4-introduction-to-steam.json](./86881-train-driver-journey-4-introduction-to-steam.json) |
 | Train Driver Journey 7 - Rosworth Vale | 96597 | [96597-train-driver-journey-7-rosworth-vale.json](./96597-train-driver-journey-7-rosworth-vale.json) |
+| Train Driver Simulator | 89056 | [89056-train-driver-simulator.json](./89056-train-driver-simulator.json) |
 | Train Empire | 219498 | [219498-train-empire.json](./219498-train-empire.json) |
 | Train Escape: Hidden Adventure | 104777 | [104777-train-escape-hidden-adventure.json](./104777-train-escape-hidden-adventure.json) |
 | Train Fever: USA | 238506 | [238506-train-fever-usa.json](./238506-train-fever-usa.json) |
@@ -21343,6 +21348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Parking Simulator | 129628 | [129628-truck-parking-simulator.json](./129628-truck-parking-simulator.json) |
 | Truck Parking Simulator 2026 | 410833 | [410833-truck-parking-simulator-2026.json](./410833-truck-parking-simulator-2026.json) |
 | Truck Parking Simulator VR | 305943 | [305943-truck-parking-simulator-vr.json](./305943-truck-parking-simulator-vr.json) |
+| Truck Racing | 89072 | [89072-truck-racing.json](./89072-truck-racing.json) |
 | Truck Racing 2 | 43540 | [43540-truck-racing-2.json](./43540-truck-racing-2.json) |
 | Truck Racing Simulator | 391348 | [391348-truck-racing-simulator.json](./391348-truck-racing-simulator.json) |
 | Truck Raid | 252816 | [252816-truck-raid.json](./252816-truck-raid.json) |
