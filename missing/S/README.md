@@ -640,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Trick: Special Edition | 191564 | [191564-sakura-trick-special-edition.json](./191564-sakura-trick-special-edition.json) |
 | Sakura Tsuushin: Remaking Memories | 209624 | [209624-sakura-tsuushin-remaking-memories.json](./209624-sakura-tsuushin-remaking-memories.json) |
 | Sakura Wars | 96392 | [96392-sakura-wars.json](./96392-sakura-wars.json) |
+| Sakura Wars: Limited Edition | 116796 | [116796-sakura-wars-limited-edition.json](./116796-sakura-wars-limited-edition.json) |
 | Sakura Wars: So Long, My Love | 5136 | [5136-sakura-wars-so-long-my-love.json](./5136-sakura-wars-so-long-my-love.json) |
 | Sakura X Clash: Last Millennial Spring | 213603 | [213603-sakura-x-clash-last-millennial-spring.json](./213603-sakura-x-clash-last-millennial-spring.json) |
 | Sakura-iro Tetra Prism | 325451 | [325451-sakura-iro-tetra-prism.json](./325451-sakura-iro-tetra-prism.json) |
@@ -783,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SAM Simulator | 71179 | [71179-sam-simulator.json](./71179-sam-simulator.json) |
 | Sam the Olympic Eagle: Rings | 349452 | [349452-sam-the-olympic-eagle-rings.json](./349452-sam-the-olympic-eagle-rings.json) |
 | Sam the Olympic Eagle: Torch | 349451 | [349451-sam-the-olympic-eagle-torch.json](./349451-sam-the-olympic-eagle-torch.json) |
+| Sam's Journey | 116801 | [116801-sams-journey.json](./116801-sams-journey.json) |
 | Samabake! Scramble | 318056 | [318056-samabake-scramble.json](./318056-samabake-scramble.json) |
 | Samael | 117568 | [117568-samael.json](./117568-samael.json) |
 | Samael: The Legacy of Ophiuchus | 218718 | [218718-samael-the-legacy-of-ophiuchus.json](./218718-samael-the-legacy-of-ophiuchus.json) |
@@ -2951,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Agent Wizard Boy and the International Crime Syndicate | 319719 | [319719-secret-agent-wizard-boy-and-the-international-crime-syndicate.json](./319719-secret-agent-wizard-boy-and-the-international-crime-syndicate.json) |
 | Secret Agent: Cold War Espionage | 243396 | [243396-secret-agent-cold-war-espionage.json](./243396-secret-agent-cold-war-espionage.json) |
 | Secret Agent: Mission One | 294400 | [294400-secret-agent-mission-one.json](./294400-secret-agent-mission-one.json) |
+| Secret Agent: The Escape | 116806 | [116806-secret-agent-the-escape.json](./116806-secret-agent-the-escape.json) |
 | Secret Agents | 179197 | [179197-secret-agents.json](./179197-secret-agents.json) |
 | Secret Archives | 294476 | [294476-secret-archives.json](./294476-secret-archives.json) |
 | Secret Backrooms | 204094 | [204094-secret-backrooms.json](./204094-secret-backrooms.json) |
@@ -4503,6 +4506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Redemption | 169398 | [169398-shadow-redemption.json](./169398-shadow-redemption.json) |
 | Shadow Returns | 330114 | [330114-shadow-returns.json](./330114-shadow-returns.json) |
 | Shadow Rising: Reinedgening | 330307 | [330307-shadow-rising-reinedgening.json](./330307-shadow-rising-reinedgening.json) |
+| Shadow Run | 116882 | [116882-shadow-run.json](./116882-shadow-run.json) |
 | Shadow Runner | 116287 | [116287-shadow-runner.json](./116287-shadow-runner.json) |
 | Shadow Runner | 385379 | [385379-shadow-runner.json](./385379-shadow-runner.json) |
 | Shadow Sacrament: The Roots of Evil | 347848 | [347848-shadow-sacrament-the-roots-of-evil.json](./347848-shadow-sacrament-the-roots-of-evil.json) |
@@ -8103,6 +8107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skirmishers | 223368 | [223368-skirmishers.json](./223368-skirmishers.json) |
 | Skitt | 138735 | [138735-skitt.json](./138735-skitt.json) |
 | Skittles | 148170 | [148170-skittles.json](./148170-skittles.json) |
+| Skjoldur Story | 116892 | [116892-skjoldur-story.json](./116892-skjoldur-story.json) |
 | Sknow | 118206 | [118206-sknow.json](./118206-sknow.json) |
 | Skogdal | 258565 | [258565-skogdal.json](./258565-skogdal.json) |
 | Skolios | 243784 | [243784-skolios.json](./243784-skolios.json) |
@@ -10156,6 +10161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowball Fight At Christmas | 165020 | [165020-snowball-fight-at-christmas.json](./165020-snowball-fight-at-christmas.json) |
 | Snowball Go Go Go | 247208 | [247208-snowball-go-go-go.json](./247208-snowball-go-go-go.json) |
 | Snowball Run | 93156 | [93156-snowball-run.json](./93156-snowball-run.json) |
+| Snowball Rush | 116889 | [116889-snowball-rush.json](./116889-snowball-rush.json) |
 | Snowball.io | 231898 | [231898-snowball-io.json](./231898-snowball-io.json) |
 | Snowballer | 133186 | [133186-snowballer.json](./133186-snowballer.json) |
 | Snowballs | 221083 | [221083-snowballs.json](./221083-snowballs.json) |
@@ -22604,6 +22610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survial | 274577 | [274577-survial.json](./274577-survial.json) |
 | SurviBall | 339473 | [339473-surviball.json](./339473-surviball.json) |
 | SurviRail: Deep Space | 412193 | [412193-survirail-deep-space.json](./412193-survirail-deep-space.json) |
+| Survirus | 116885 | [116885-survirus.json](./116885-survirus.json) |
 | Survirus | 345527 | [345527-survirus.json](./345527-survirus.json) |
 | Survisland | 105015 | [105015-survisland.json](./105015-survisland.json) |
 | Survius | 322684 | [322684-survius.json](./322684-survius.json) |
