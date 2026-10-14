@@ -3555,6 +3555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy: Crystal Chronicles - Remastered Edition | 109276 | [109276-final-fantasy-crystal-chronicles-remastered-edition.json](./109276-final-fantasy-crystal-chronicles-remastered-edition.json) |
 | Final Fantasy: Crystal Chronicles - Ring of Fates | 9585 | [9585-final-fantasy-crystal-chronicles-ring-of-fates.json](./9585-final-fantasy-crystal-chronicles-ring-of-fates.json) |
 | Final Fantasy: Crystal Chronicles - The Crystal Bearers | 401 | [401-final-fantasy-crystal-chronicles-the-crystal-bearers.json](./401-final-fantasy-crystal-chronicles-the-crystal-bearers.json) |
+| Final Fantasy: Dimensions II | 74965 | [74965-final-fantasy-dimensions-ii.json](./74965-final-fantasy-dimensions-ii.json) |
 | Final Fantasy: Economic Collapse | 345622 | [345622-final-fantasy-economic-collapse.json](./345622-final-fantasy-economic-collapse.json) |
 | Final Fantasy: Explorers | 7413 | [7413-final-fantasy-explorers.json](./7413-final-fantasy-explorers.json) |
 | Final Fantasy: Legend of Balance | 222978 | [222978-final-fantasy-legend-of-balance.json](./222978-final-fantasy-legend-of-balance.json) |
@@ -5683,6 +5684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy Doki Sunshine | 274980 | [274980-fluffy-doki-sunshine.json](./274980-fluffy-doki-sunshine.json) |
 | Fluffy Fall | 87172 | [87172-fluffy-fall.json](./87172-fluffy-fall.json) |
 | Fluffy Friends | 57040 | [57040-fluffy-friends.json](./57040-fluffy-friends.json) |
+| Fluffy Friends 2 | 74943 | [74943-fluffy-friends-2.json](./74943-fluffy-friends-2.json) |
 | Fluffy Gore | 150156 | [150156-fluffy-gore.json](./150156-fluffy-gore.json) |
 | Fluffy Horde | 107385 | [107385-fluffy-horde.json](./107385-fluffy-horde.json) |
 | Fluffy Horde + Clumsy Rush | 230407 | [230407-fluffy-horde-clumsy-rush.json](./230407-fluffy-horde-clumsy-rush.json) |
