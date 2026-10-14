@@ -626,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeam's Big Day | 185606 | [185606-jeams-big-day.json](./185606-jeams-big-day.json) |
 | Jean's Boutique 2 | 95912 | [95912-jeans-boutique-2.json](./95912-jeans-boutique-2.json) |
 | Jean's Club | 197845 | [197845-jeans-club.json](./197845-jeans-club.json) |
+| Jean's Sundaeria | 90503 | [90503-jeans-sundaeria.json](./90503-jeans-sundaeria.json) |
 | Jected: Rivals | 206966 | [206966-jected-rivals.json](./206966-jected-rivals.json) |
 | Jected: Rivals - Expansion Pack | 271144 | [271144-jected-rivals-expansion-pack.json](./271144-jected-rivals-expansion-pack.json) |
 | Jeebo & Jerbo vs. Life | 171985 | [171985-jeebo-and-jerbo-vs-life.json](./171985-jeebo-and-jerbo-vs-life.json) |
@@ -821,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet de GO! 2: Let's Go by Airliner | 98002 | [98002-jet-de-go-2-lets-go-by-airliner.json](./98002-jet-de-go-2-lets-go-by-airliner.json) |
 | Jet de GO! Let's Go By Airliner | 61334 | [61334-jet-de-go-lets-go-by-airliner.json](./61334-jet-de-go-lets-go-by-airliner.json) |
 | Jet Dog | 85208 | [85208-jet-dog.json](./85208-jet-dog.json) |
+| Jet Ducks | 90505 | [90505-jet-ducks.json](./90505-jet-ducks.json) |
 | Jet Fighter | 13251 | [13251-jet-fighter.json](./13251-jet-fighter.json) |
 | Jet Force Gemini | 1355 | [1355-jet-force-gemini.json](./1355-jet-force-gemini.json) |
 | Jet Force Gemini Trainer and Co-Op Hack | 173086 | [173086-jet-force-gemini-trainer-and-co-op-hack.json](./173086-jet-force-gemini-trainer-and-co-op-hack.json) |
@@ -1048,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewels of the Ages | 130308 | [130308-jewels-of-the-ages.json](./130308-jewels-of-the-ages.json) |
 | Jewels of the Mysterious Woodland: Cat and Children Jewel Match | 171403 | [171403-jewels-of-the-mysterious-woodland-cat-and-children-jewel-match.json](./171403-jewels-of-the-mysterious-woodland-cat-and-children-jewel-match.json) |
 | Jewels of the Mysterious Woodland: Fairies Magical Jewel Match Quest | 171596 | [171596-jewels-of-the-mysterious-woodland-fairies-magical-jewel-match-quest.json](./171596-jewels-of-the-mysterious-woodland-fairies-magical-jewel-match-quest.json) |
+| Jewels of the Nile | 90524 | [90524-jewels-of-the-nile.json](./90524-jewels-of-the-nile.json) |
 | Jewels of the Tropical Lost Island | 44066 | [44066-jewels-of-the-tropical-lost-island.json](./44066-jewels-of-the-tropical-lost-island.json) |
 | Jewels of the Wild West | 181643 | [181643-jewels-of-the-wild-west.json](./181643-jewels-of-the-wild-west.json) |
 | Jewels Palace | 114757 | [114757-jewels-palace.json](./114757-jewels-palace.json) |
@@ -1711,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Turbo's Arcade: Super Real Darwin | 146861 | [146861-johnny-turbos-arcade-super-real-darwin.json](./146861-johnny-turbos-arcade-super-real-darwin.json) |
 | Johnny Turbo's Arcade: Two Crude Dudes | 104710 | [104710-johnny-turbos-arcade-two-crude-dudes.json](./104710-johnny-turbos-arcade-two-crude-dudes.json) |
 | Johnny Upgrade | 286642 | [286642-johnny-upgrade.json](./286642-johnny-upgrade.json) |
+| Johns.Game | 90482 | [90482-johns-game.json](./90482-johns-game.json) |
 | Johny Explorer | 231358 | [231358-johny-explorer.json](./231358-johny-explorer.json) |
 | Johou Battle | 274147 | [274147-johou-battle.json](./274147-johou-battle.json) |
 | Join It | 256246 | [256246-join-it.json](./256246-join-it.json) |
