@@ -923,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Apocalypse | 147819 | [147819-zombie-apocalypse.json](./147819-zombie-apocalypse.json) |
 | Zombie Apocalypse 2021 | 154381 | [154381-zombie-apocalypse-2021.json](./154381-zombie-apocalypse-2021.json) |
 | Zombie Apocalypse Survivor | 99616 | [99616-zombie-apocalypse-survivor.json](./99616-zombie-apocalypse-survivor.json) |
+| Zombie Apocalypse: Bounty Hunter | 117441 | [117441-zombie-apocalypse-bounty-hunter.json](./117441-zombie-apocalypse-bounty-hunter.json) |
 | Zombie Apocalypse: Escape the Undead City | 32359 | [32359-zombie-apocalypse-escape-the-undead-city.json](./32359-zombie-apocalypse-escape-the-undead-city.json) |
 | Zombie Apocalypse: Survival Stories | 249325 | [249325-zombie-apocalypse-survival-stories.json](./249325-zombie-apocalypse-survival-stories.json) |
 | Zombie Apocalypse: The Last Defense | 211147 | [211147-zombie-apocalypse-the-last-defense.json](./211147-zombie-apocalypse-the-last-defense.json) |
@@ -1329,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombinoia | 137884 | [137884-zombinoia.json](./137884-zombinoia.json) |
 | Zombiolence | 256723 | [256723-zombiolence.json](./256723-zombiolence.json) |
 | Zombiology | 301638 | [301638-zombiology.json](./301638-zombiology.json) |
+| Zombiotik | 117446 | [117446-zombiotik.json](./117446-zombiotik.json) |
 | Zombitatos the end of the Pc master race | 31916 | [31916-zombitatos-the-end-of-the-pc-master-race.json](./31916-zombitatos-the-end-of-the-pc-master-race.json) |
 | Zombitsu | 23484 | [23484-zombitsu.json](./23484-zombitsu.json) |
 | ZombiU | 1591 | [1591-zombiu.json](./1591-zombiu.json) |
