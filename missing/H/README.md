@@ -1201,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Lads | 135305 | [135305-hard-lads.json](./135305-hard-lads.json) |
 | Hard Landing | 212179 | [212179-hard-landing.json](./212179-hard-landing.json) |
 | Hard Life | 219810 | [219810-hard-life.json](./219810-hard-life.json) |
+| Hard Light Vector | 116094 | [116094-hard-light-vector.json](./116094-hard-light-vector.json) |
 | Hard Love: Darkest Desire | 286763 | [286763-hard-love-darkest-desire.json](./286763-hard-love-darkest-desire.json) |
 | Hard Man | 37423 | [37423-hard-man.json](./37423-hard-man.json) |
 | Hard Minus | 55243 | [55243-hard-minus.json](./55243-hard-minus.json) |
@@ -7004,6 +7005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotdog Butcher | 406283 | [406283-hotdog-butcher.json](./406283-hotdog-butcher.json) |
 | Hotdog Delivery Hotdog | 390621 | [390621-hotdog-delivery-hotdog.json](./390621-hotdog-delivery-hotdog.json) |
 | Hotdog Kitchen | 295653 | [295653-hotdog-kitchen.json](./295653-hotdog-kitchen.json) |
+| Hotdog Man | 116189 | [116189-hotdog-man.json](./116189-hotdog-man.json) |
 | Hotdog Quest: One With Everything | 212995 | [212995-hotdog-quest-one-with-everything.json](./212995-hotdog-quest-one-with-everything.json) |
 | Hotdog Runner | 289772 | [289772-hotdog-runner.json](./289772-hotdog-runner.json) |
 | Hotdog Samurai | 246953 | [246953-hotdog-samurai.json](./246953-hotdog-samurai.json) |
@@ -7647,6 +7649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human or Virus | 142263 | [142263-human-or-virus.json](./142263-human-or-virus.json) |
 | Human Parking Simulator | 363063 | [363063-human-parking-simulator.json](./363063-human-parking-simulator.json) |
 | Human Phobia | 273812 | [273812-human-phobia.json](./273812-human-phobia.json) |
+| Human Pinball: Iceage | 116084 | [116084-human-pinball-iceage.json](./116084-human-pinball-iceage.json) |
 | Human Planet | 374395 | [374395-human-planet.json](./374395-human-planet.json) |
 | Human Resource | 295319 | [295319-human-resource.json](./295319-human-resource.json) |
 | Human Resource Machine Deluxe | 136844 | [136844-human-resource-machine-deluxe.json](./136844-human-resource-machine-deluxe.json) |
