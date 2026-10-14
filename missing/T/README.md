@@ -723,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Immortal Ring | 390592 | [390592-tale-of-immortal-ring.json](./390592-tale-of-immortal-ring.json) |
 | Tale of Jade Li Guang | 151740 | [151740-tale-of-jade-li-guang.json](./151740-tale-of-jade-li-guang.json) |
 | Tale of Legends | 260685 | [260685-tale-of-legends.json](./260685-tale-of-legends.json) |
+| Tale of Legends: Densouki | 109404 | [109404-tale-of-legends-densouki.json](./109404-tale-of-legends-densouki.json) |
 | Tale of Memories | 225815 | [225815-tale-of-memories.json](./225815-tale-of-memories.json) |
 | Tale of MoWu | 158111 | [158111-tale-of-mowu.json](./158111-tale-of-mowu.json) |
 | Tale of Rainbow 7 | 132607 | [132607-tale-of-rainbow-7.json](./132607-tale-of-rainbow-7.json) |
@@ -2849,6 +2850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Slam: Global Duel Arena | 244807 | [244807-tennis-slam-global-duel-arena.json](./244807-tennis-slam-global-duel-arena.json) |
 | Tennis Smash: Racketville | 382230 | [382230-tennis-smash-racketville.json](./382230-tennis-smash-racketville.json) |
 | Tennis Stars: Ultimate Clash | 235130 | [235130-tennis-stars-ultimate-clash.json](./235130-tennis-stars-ultimate-clash.json) |
+| Tennis Story | 109368 | [109368-tennis-story.json](./109368-tennis-story.json) |
 | Tennis Tourney | 172783 | [172783-tennis-tourney.json](./172783-tennis-tourney.json) |
 | Tennis Tower | 179981 | [179981-tennis-tower.json](./179981-tennis-tower.json) |
 | Tennis Tune-Up | 117168 | [117168-tennis-tune-up.json](./117168-tennis-tune-up.json) |
@@ -6896,6 +6898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Unborn | 156723 | [156723-the-great-unborn.json](./156723-the-great-unborn.json) |
 | The Great Urban Battle | 260142 | [260142-the-great-urban-battle.json](./260142-the-great-urban-battle.json) |
 | The Great Villainess: Strategy of Lily | 259708 | [259708-the-great-villainess-strategy-of-lily.json](./259708-the-great-villainess-strategy-of-lily.json) |
+| The Great Voyage | 109363 | [109363-the-great-voyage.json](./109363-the-great-voyage.json) |
 | The Great Waldo Search | 275020 | [275020-the-great-waldo-search.json](./275020-the-great-waldo-search.json) |
 | The Great War 3032 | 247368 | [247368-the-great-war-3032.json](./247368-the-great-war-3032.json) |
 | The Great War: Western Front | 214505 | [214505-the-great-war-western-front.json](./214505-the-great-war-western-front.json) |
@@ -12917,6 +12920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The You Testament: The 2D Coming | 234312 | [234312-the-you-testament-the-2d-coming.json](./234312-the-you-testament-the-2d-coming.json) |
 | The Young Captain | 302192 | [302192-the-young-captain.json](./302192-the-young-captain.json) |
 | The Young Gabriel King Chronicles | 122221 | [122221-the-young-gabriel-king-chronicles.json](./122221-the-young-gabriel-king-chronicles.json) |
+| The young mathematician: Easy difficulty | 109395 | [109395-the-young-mathematician-easy-difficulty.json](./109395-the-young-mathematician-easy-difficulty.json) |
 | The Young Ones | 40933 | [40933-the-young-ones.json](./40933-the-young-ones.json) |
 | The Youthdrainers | 34701 | [34701-the-youthdrainers.json](./34701-the-youthdrainers.json) |
 | The Yukon Trail | 73782 | [73782-the-yukon-trail.json](./73782-the-yukon-trail.json) |
@@ -18757,6 +18761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Crew | 182347 | [182347-train-crew.json](./182347-train-crew.json) |
 | Train Crisis | 83943 | [83943-train-crisis.json](./83943-train-crisis.json) |
 | Train Defense | 105139 | [105139-train-defense.json](./105139-train-defense.json) |
+| Train Drive ATS 3 Kintetsu Nara Line | 109505 | [109505-train-drive-ats-3-kintetsu-nara-line.json](./109505-train-drive-ats-3-kintetsu-nara-line.json) |
 | Train Driver Journey 2 - Iberia Interior | 88222 | [88222-train-driver-journey-2-iberia-interior.json](./88222-train-driver-journey-2-iberia-interior.json) |
 | Train Driver Journey 3 - Waldabavale to Karrah Bay | 100617 | [100617-train-driver-journey-3-waldabavale-to-karrah-bay.json](./100617-train-driver-journey-3-waldabavale-to-karrah-bay.json) |
 | Train Driver Journey 4 - Introduction to Steam | 86881 | [86881-train-driver-journey-4-introduction-to-steam.json](./86881-train-driver-journey-4-introduction-to-steam.json) |
@@ -19343,6 +19348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trains | 95443 | [95443-trains.json](./95443-trains.json) |
 | Trains & Things | 105314 | [105314-trains-and-things.json](./105314-trains-and-things.json) |
 | Trains Girl Locomotion | 184798 | [184798-trains-girl-locomotion.json](./184798-trains-girl-locomotion.json) |
+| Trains of the Orient | 109371 | [109371-trains-of-the-orient.json](./109371-trains-of-the-orient.json) |
 | Trains VR | 69456 | [69456-trains-vr.json](./69456-trains-vr.json) |
 | Trains Vs Zombies 2 | 64392 | [64392-trains-vs-zombies-2.json](./64392-trains-vs-zombies-2.json) |
 | Trains: Through Electric Storms. | 221156 | [221156-trains-through-electric-storms.json](./221156-trains-through-electric-storms.json) |
@@ -20372,6 +20378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure MathStorm! | 73996 | [73996-treasure-mathstorm.json](./73996-treasure-mathstorm.json) |
 | Treasure Mountain | 254658 | [254658-treasure-mountain.json](./254658-treasure-mountain.json) |
 | Treasure of a Blizzard | 31921 | [31921-treasure-of-a-blizzard.json](./31921-treasure-of-a-blizzard.json) |
+| Treasure of Abyss | 109358 | [109358-treasure-of-abyss.json](./109358-treasure-of-abyss.json) |
 | Treasure of Barracuda | 165695 | [165695-treasure-of-barracuda.json](./165695-treasure-of-barracuda.json) |
 | Treasure of Big Totem | 315258 | [315258-treasure-of-big-totem.json](./315258-treasure-of-big-totem.json) |
 | Treasure of Big Totem 2 | 315259 | [315259-treasure-of-big-totem-2.json](./315259-treasure-of-big-totem-2.json) |
@@ -20591,6 +20598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials of the Illuminati: Snack Time Jigsaw Puzzles | 109660 | [109660-trials-of-the-illuminati-snack-time-jigsaw-puzzles.json](./109660-trials-of-the-illuminati-snack-time-jigsaw-puzzles.json) |
 | Trials of Titan | 138602 | [138602-trials-of-titan.json](./138602-trials-of-titan.json) |
 | Trials of Topaq | 99582 | [99582-trials-of-topaq.json](./99582-trials-of-topaq.json) |
+| Trials of Wilderness | 109381 | [109381-trials-of-wilderness.json](./109381-trials-of-wilderness.json) |
 | Trials of Yarbil | 325835 | [325835-trials-of-yarbil.json](./325835-trials-of-yarbil.json) |
 | Trials Rising | 103316 | [103316-trials-rising.json](./103316-trials-rising.json) |
 | Trials Survivors | 373890 | [373890-trials-survivors.json](./373890-trials-survivors.json) |
@@ -21824,6 +21832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn on the lights! Brain Game | 245782 | [245782-turn-on-the-lights-brain-game.json](./245782-turn-on-the-lights-brain-game.json) |
 | Turn Run | 105124 | [105124-turn-run.json](./105124-turn-run.json) |
 | Turn Tack | 197919 | [197919-turn-tack.json](./197919-turn-tack.json) |
+| Turn the bridge | 109373 | [109373-turn-the-bridge.json](./109373-turn-the-bridge.json) |
 | Turn the Line! | 190005 | [190005-turn-the-line.json](./190005-turn-the-line.json) |
 | Turn the mirror, please. | 111849 | [111849-turn-the-mirror-please.json](./111849-turn-the-mirror-please.json) |
 | Turn to Mine | 312846 | [312846-turn-to-mine.json](./312846-turn-to-mine.json) |
@@ -22424,6 +22433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typing Farmer | 392323 | [392323-typing-farmer.json](./392323-typing-farmer.json) |
 | Typing Faster | 125928 | [125928-typing-faster.json](./125928-typing-faster.json) |
 | Typing Fingers | 167352 | [167352-typing-fingers.json](./167352-typing-fingers.json) |
+| Typing game | 109386 | [109386-typing-game.json](./109386-typing-game.json) |
 | Typing Haou: Hokuto no Ken Gekiuchi 2 | 64190 | [64190-typing-haou-hokuto-no-ken-gekiuchi-2.json](./64190-typing-haou-hokuto-no-ken-gekiuchi-2.json) |
 | Typing Hearts | 149091 | [149091-typing-hearts.json](./149091-typing-hearts.json) |
 | Typing Hero | 126428 | [126428-typing-hero.json](./126428-typing-hero.json) |
