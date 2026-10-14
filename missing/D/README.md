@@ -1101,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Magic 2 | 192387 | [192387-dark-magic-2.json](./192387-dark-magic-2.json) |
 | Dark Magician | 192380 | [192380-dark-magician.json](./192380-dark-magician.json) |
 | Dark Mass | 336164 | [336164-dark-mass.json](./336164-dark-mass.json) |
+| Dark Matter | 97240 | [97240-dark-matter.json](./97240-dark-matter.json) |
 | Dark Maze | 148912 | [148912-dark-maze.json](./148912-dark-maze.json) |
 | Dark Maze 2 | 102393 | [102393-dark-maze-2.json](./102393-dark-maze-2.json) |
 | Dark Meadow: The Pact | 65599 | [65599-dark-meadow-the-pact.json](./65599-dark-meadow-the-pact.json) |
@@ -1391,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkgate | 319837 | [319837-darkgate.json](./319837-darkgate.json) |
 | Darkheart: Flight of the Harpies | 112741 | [112741-darkheart-flight-of-the-harpies.json](./112741-darkheart-flight-of-the-harpies.json) |
 | Darkheart: Flight of the Harpies - Collector's Edition | 339840 | [339840-darkheart-flight-of-the-harpies-collectors-edition.json](./339840-darkheart-flight-of-the-harpies-collectors-edition.json) |
+| DarkHill: Book of Shadow | 97214 | [97214-darkhill-book-of-shadow.json](./97214-darkhill-book-of-shadow.json) |
 | DarkHospital | 285009 | [285009-darkhospital.json](./285009-darkhospital.json) |
 | DarkHouse | 371887 | [371887-darkhouse.json](./371887-darkhouse.json) |
 | Darkilson | 149480 | [149480-darkilson.json](./149480-darkilson.json) |
@@ -2688,6 +2690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Tecknology | 188655 | [188655-deadly-tecknology.json](./188655-deadly-tecknology.json) |
 | Deadly Threat | 147244 | [147244-deadly-threat.json](./147244-deadly-threat.json) |
 | Deadly Tide | 3139 | [3139-deadly-tide.json](./3139-deadly-tide.json) |
+| Deadly Tropics | 97256 | [97256-deadly-tropics.json](./97256-deadly-tropics.json) |
 | Deadly Voltage: Rise of the Invincible | 52866 | [52866-deadly-voltage-rise-of-the-invincible.json](./52866-deadly-voltage-rise-of-the-invincible.json) |
 | Deadly Way | 151004 | [151004-deadly-way.json](./151004-deadly-way.json) |
 | Deadman Diaries | 197848 | [197848-deadman-diaries.json](./197848-deadman-diaries.json) |
@@ -2886,6 +2889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Fighter | 285007 | [285007-death-fighter.json](./285007-death-fighter.json) |
 | Death Fighter 4 | 55968 | [55968-death-fighter-4.json](./55968-death-fighter-4.json) |
 | Death Flags | 374746 | [374746-death-flags.json](./374746-death-flags.json) |
+| Death Flash | 97251 | [97251-death-flash.json](./97251-death-flash.json) |
 | Death Flush | 140622 | [140622-death-flush.json](./140622-death-flush.json) |
 | Death Forest: Seikin | 385186 | [385186-death-forest-seikin.json](./385186-death-forest-seikin.json) |
 | Death From Above | 244133 | [244133-death-from-above.json](./244133-death-from-above.json) |
@@ -3496,6 +3500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Treasure | 275080 | [275080-deep-treasure.json](./275080-deep-treasure.json) |
 | Deep Under | 260302 | [260302-deep-under.json](./260302-deep-under.json) |
 | Deep Voyage | 96040 | [96040-deep-voyage.json](./96040-deep-voyage.json) |
+| Deep Voyage | 97244 | [97244-deep-voyage.json](./97244-deep-voyage.json) |
 | Deep VR | 18217 | [18217-deep-vr.json](./18217-deep-vr.json) |
 | Deep West | 369016 | [369016-deep-west.json](./369016-deep-west.json) |
 | Deep Within the Mist | 359344 | [359344-deep-within-the-mist.json](./359344-deep-within-the-mist.json) |
@@ -7118,6 +7123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divers | 318712 | [318712-divers.json](./318712-divers.json) |
 | Diversant | 180294 | [180294-diversant.json](./180294-diversant.json) |
 | Diverse Defenders | 308913 | [308913-diverse-defenders.json](./308913-diverse-defenders.json) |
+| Diversion | 97217 | [97217-diversion.json](./97217-diversion.json) |
 | Divertron | 290091 | [290091-divertron.json](./290091-divertron.json) |
 | Divi-Dead | 12420 | [12420-divi-dead.json](./12420-divi-dead.json) |
 | Divid[E]: D[E]Ad Letters | 396196 | [396196-divid-e-d-e-ad-letters.json](./396196-divid-e-d-e-ad-letters.json) |
@@ -10007,6 +10013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Delightful Day | 395164 | [395164-dragons-delightful-day.json](./395164-dragons-delightful-day.json) |
 | Dragon's Dogma | 3968 | [3968-dragons-dogma.json](./3968-dragons-dogma.json) |
 | Dragon's Dogma II: Dark Arisen | 408164 | [408164-dragons-dogma-ii-dark-arisen.json](./408164-dragons-dogma-ii-dark-arisen.json) |
+| Dragon's Dogma II: Dark Arisen Expansion | 405433 | [405433-dragons-dogma-ii-dark-arisen-expansion.json](./405433-dragons-dogma-ii-dark-arisen-expansion.json) |
 | Dragon's Dogma II: Deluxe Edition | 288657 | [288657-dragons-dogma-ii-deluxe-edition.json](./288657-dragons-dogma-ii-deluxe-edition.json) |
 | Dragon's Dogma II: Dragon's Dogma Music & Sound Collection - Custom Sounds | 308568 | [308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json](./308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json) |
 | Dragon's Dogma Online | 26985 | [26985-dragons-dogma-online.json](./26985-dragons-dogma-online.json) |
