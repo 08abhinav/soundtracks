@@ -2993,6 +2993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Neighbor Prototype | 278054 | [278054-hello-neighbor-prototype.json](./278054-hello-neighbor-prototype.json) |
 | Hello Neighbor: Hide and Seek | 107614 | [107614-hello-neighbor-hide-and-seek.json](./107614-hello-neighbor-hide-and-seek.json) |
 | Hello New World | 283851 | [283851-hello-new-world.json](./283851-hello-new-world.json) |
+| Hello Next Scary Neighbor Home | 103929 | [103929-hello-next-scary-neighbor-home.json](./103929-hello-next-scary-neighbor-home.json) |
 | Hello Pocoyo! | 64972 | [64972-hello-pocoyo.json](./64972-hello-pocoyo.json) |
 | Hello Pollution! | 102145 | [102145-hello-pollution.json](./102145-hello-pollution.json) |
 | Hello Princess | 242679 | [242679-hello-princess.json](./242679-hello-princess.json) |
@@ -4407,6 +4408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hey, Don't Look at Me | 416644 | [416644-hey-dont-look-at-me.json](./416644-hey-dont-look-at-me.json) |
 | Hey, Girlie! | 342819 | [342819-hey-girlie.json](./342819-hey-girlie.json) |
 | Hey, Man!: Born in the Electric | 273968 | [273968-hey-man-born-in-the-electric.json](./273968-hey-man-born-in-the-electric.json) |
+| Hey, That's My Fish! HD | 103930 | [103930-hey-thats-my-fish-hd.json](./103930-hey-thats-my-fish-hd.json) |
 | Hey! Stop! | 40735 | [40735-hey-stop.json](./40735-hey-stop.json) |
 | Heyawake by Nikoli | 84522 | [84522-heyawake-by-nikoli.json](./84522-heyawake-by-nikoli.json) |
 | HeyBot! HeyboHeybo! HeyBoTournament! | 135165 | [135165-heybot-heyboheybo-heybotournament.json](./135165-heybot-heyboheybo-heybotournament.json) |
