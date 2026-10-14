@@ -5303,6 +5303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exsynchronos | 148297 | [148297-exsynchronos.json](./148297-exsynchronos.json) |
 | Extase | 94197 | [94197-extase.json](./94197-extase.json) |
 | Extended Stay | 158401 | [158401-extended-stay.json](./158401-extended-stay.json) |
+| Extensor | 85951 | [85951-extensor.json](./85951-extensor.json) |
 | Exteria | 31056 | [31056-exteria.json](./31056-exteria.json) |
 | Exterminate the world | 93751 | [93751-exterminate-the-world.json](./93751-exterminate-the-world.json) |
 | Exterminate Zombies: Get Paid | 215930 | [215930-exterminate-zombies-get-paid.json](./215930-exterminate-zombies-get-paid.json) |
@@ -5532,6 +5533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyewitness Virtual Reality: Cat | 361603 | [361603-eyewitness-virtual-reality-cat.json](./361603-eyewitness-virtual-reality-cat.json) |
 | Eyewitness Virtual Reality: Dinosaur Hunter | 198384 | [198384-eyewitness-virtual-reality-dinosaur-hunter.json](./198384-eyewitness-virtual-reality-dinosaur-hunter.json) |
 | Eyo: Jump 'n' Run RPG | 220022 | [220022-eyo-jump-n-run-rpg.json](./220022-eyo-jump-n-run-rpg.json) |
+| EZ Message Sender | 85964 | [85964-ez-message-sender.json](./85964-ez-message-sender.json) |
 | EZ Muze: Hamst3r Edition | 92651 | [92651-ez-muze-hamst3r-edition.json](./92651-ez-muze-hamst3r-edition.json) |
 | EZ-Talk Shokyuu-hen 4 | 334245 | [334245-ez-talk-shokyuu-hen-4.json](./334245-ez-talk-shokyuu-hen-4.json) |
 | EZ-Talk Shokyuu-hen 5 | 334275 | [334275-ez-talk-shokyuu-hen-5.json](./334275-ez-talk-shokyuu-hen-5.json) |
