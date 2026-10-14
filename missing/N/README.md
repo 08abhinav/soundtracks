@@ -518,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Arcade Rush: Project-X Edition | 263547 | [263547-nascar-arcade-rush-project-x-edition.json](./263547-nascar-arcade-rush-project-x-edition.json) |
 | Nascar Arcade Rush: Project-X Pack | 267081 | [267081-nascar-arcade-rush-project-x-pack.json](./267081-nascar-arcade-rush-project-x-pack.json) |
 | NASCAR Challenge | 49957 | [49957-nascar-challenge.json](./49957-nascar-challenge.json) |
+| NASCAR Grand National Series: Expansion Pack | 131299 | [131299-nascar-grand-national-series-expansion-pack.json](./131299-nascar-grand-national-series-expansion-pack.json) |
 | NASCAR Heat | 292795 | [292795-nascar-heat.json](./292795-nascar-heat.json) |
 | NASCAR Heat | 49956 | [49956-nascar-heat.json](./49956-nascar-heat.json) |
 | NASCAR Heat 2 | 28829 | [28829-nascar-heat-2.json](./28829-nascar-heat-2.json) |
