@@ -1434,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Trap: Purify Old Sins | 134440 | [134440-darkness-trap-purify-old-sins.json](./134440-darkness-trap-purify-old-sins.json) |
 | Darkness Within 2: The Dark Lineage - Director's Cut Edition | 36298 | [36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json](./36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json) |
 | Darknet | 20018 | [20018-darknet.json](./20018-darknet.json) |
+| Darknet | 99512 | [99512-darknet.json](./99512-darknet.json) |
 | Darko | 373124 | [373124-darko.json](./373124-darko.json) |
 | Darkodai | 361256 | [361256-darkodai.json](./361256-darkodai.json) |
 | DarkOrbit: Reloaded | 23808 | [23808-darkorbit-reloaded.json](./23808-darkorbit-reloaded.json) |
@@ -10243,6 +10244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DrawBall | 289014 | [289014-drawball.json](./289014-drawball.json) |
 | Drawchemy | 410327 | [410327-drawchemy.json](./410327-drawchemy.json) |
 | Drawer | 187849 | [187849-drawer.json](./187849-drawer.json) |
+| DrawFighters | 99494 | [99494-drawfighters.json](./99494-drawfighters.json) |
 | Drawgaem | 158605 | [158605-drawgaem.json](./158605-drawgaem.json) |
 | Drawing Carnival | 276958 | [276958-drawing-carnival.json](./276958-drawing-carnival.json) |
 | Drawing Carnival: Anime Style | 276960 | [276960-drawing-carnival-anime-style.json](./276960-drawing-carnival-anime-style.json) |
@@ -12685,6 +12687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors Vol. 2 | 42886 | [42886-dynasty-warriors-vol-2.json](./42886-dynasty-warriors-vol-2.json) |
 | Dynasty Warriors Vs | 85102 | [85102-dynasty-warriors-vs.json](./85102-dynasty-warriors-vs.json) |
 | Dynasty Warriors: God Seekers | 44537 | [44537-dynasty-warriors-god-seekers.json](./44537-dynasty-warriors-god-seekers.json) |
+| Dynasty Warriors: Godseekers with Bonus | 99517 | [99517-dynasty-warriors-godseekers-with-bonus.json](./99517-dynasty-warriors-godseekers-with-bonus.json) |
 | Dynasty Warriors: Gundam | 6977 | [6977-dynasty-warriors-gundam.json](./6977-dynasty-warriors-gundam.json) |
 | Dynasty Warriors: Gundam 2 | 6978 | [6978-dynasty-warriors-gundam-2.json](./6978-dynasty-warriors-gundam-2.json) |
 | Dynasty Warriors: Gundam 3 | 6982 | [6982-dynasty-warriors-gundam-3.json](./6982-dynasty-warriors-gundam-3.json) |
