@@ -2930,6 +2930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflection Witch | 272257 | [272257-reflection-witch.json](./272257-reflection-witch.json) |
 | Reflection: Puzzle Game | 88170 | [88170-reflection-puzzle-game.json](./88170-reflection-puzzle-game.json) |
 | Reflection: The Greed | 211712 | [211712-reflection-the-greed.json](./211712-reflection-the-greed.json) |
+| Reflections Life: Equilibrium | 106451 | [106451-reflections-life-equilibrium.json](./106451-reflections-life-equilibrium.json) |
 | Reflections of Life: Call of the Ancestors | 187954 | [187954-reflections-of-life-call-of-the-ancestors.json](./187954-reflections-of-life-call-of-the-ancestors.json) |
 | Reflections of Life: Call of the Ancestors - Collector's Edition | 362827 | [362827-reflections-of-life-call-of-the-ancestors-collectors-edition.json](./362827-reflections-of-life-call-of-the-ancestors-collectors-edition.json) |
 | Reflections of Life: Dark Architect | 57718 | [57718-reflections-of-life-dark-architect.json](./57718-reflections-of-life-dark-architect.json) |
@@ -3424,6 +3425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repeat After Death | 327162 | [327162-repeat-after-death.json](./327162-repeat-after-death.json) |
 | Repeat It Back To Me | 397840 | [397840-repeat-it-back-to-me.json](./397840-repeat-it-back-to-me.json) |
 | Repeat the Ending | 275602 | [275602-repeat-the-ending.json](./275602-repeat-the-ending.json) |
+| Repeat the image: Animals | 106425 | [106425-repeat-the-image-animals.json](./106425-repeat-the-image-animals.json) |
 | Repeater | 374837 | [374837-repeater.json](./374837-repeater.json) |
 | RepeatyBots | 58498 | [58498-repeatybots.json](./58498-repeatybots.json) |
 | Repel Aliens 3D | 114938 | [114938-repel-aliens-3d.json](./114938-repel-aliens-3d.json) |
@@ -8311,6 +8313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Late | 300029 | [300029-running-late.json](./300029-running-late.json) |
 | Running Late | 395109 | [395109-running-late.json](./395109-running-late.json) |
 | Running Late 2 | 256842 | [256842-running-late-2.json](./256842-running-late-2.json) |
+| Running Man 3D | 106444 | [106444-running-man-3d.json](./106444-running-man-3d.json) |
 | Running Memories | 303311 | [303311-running-memories.json](./303311-running-memories.json) |
 | Running MrBeast | 229338 | [229338-running-mrbeast.json](./229338-running-mrbeast.json) |
 | Running Naked Simulator 2019 | 110810 | [110810-running-naked-simulator-2019.json](./110810-running-naked-simulator-2019.json) |
