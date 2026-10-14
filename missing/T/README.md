@@ -2806,6 +2806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis for Two | 6763 | [6763-tennis-for-two.json](./6763-tennis-for-two.json) |
 | Tennis Game in Roaring ’20s | 248064 | [248064-tennis-game-in-roaring-20s.json](./248064-tennis-game-in-roaring-20s.json) |
 | Tennis Girl | 292241 | [292241-tennis-girl.json](./292241-tennis-girl.json) |
+| Tennis Go | 125750 | [125750-tennis-go.json](./125750-tennis-go.json) |
 | Tennis In Hell | 250991 | [250991-tennis-in-hell.json](./250991-tennis-in-hell.json) |
 | Tennis in the Face | 19497 | [19497-tennis-in-the-face.json](./19497-tennis-in-the-face.json) |
 | Tennis Kings VR | 89257 | [89257-tennis-kings-vr.json](./89257-tennis-kings-vr.json) |
@@ -3220,6 +3221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tess | 58767 | [58767-tess.json](./58767-tess.json) |
 | Tess and the Forgotten Friend | 58766 | [58766-tess-and-the-forgotten-friend.json](./58766-tess-and-the-forgotten-friend.json) |
 | Tess Elated | 114951 | [114951-tess-elated.json](./114951-tess-elated.json) |
+| Tessa-tan no Abunai!? Yuuwaku Nisshi | 126298 | [126298-tessa-tan-no-abunai-yuuwaku-nisshi.json](./126298-tessa-tan-no-abunai-yuuwaku-nisshi.json) |
 | Tessa's Ark | 50753 | [50753-tessas-ark.json](./50753-tessas-ark.json) |
 | Tessa's Fate | 140583 | [140583-tessas-fate.json](./140583-tessas-fate.json) |
 | Tessallation | 62829 | [62829-tessallation.json](./62829-tessallation.json) |
@@ -5594,6 +5596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Disappearing of Gensokyo: Youmu, Yuyuko | 210135 | [210135-the-disappearing-of-gensokyo-youmu-yuyuko.json](./210135-the-disappearing-of-gensokyo-youmu-yuyuko.json) |
 | The Discrete Era | 263499 | [263499-the-discrete-era.json](./263499-the-discrete-era.json) |
 | The Diseases, and Casualties this year being 1632 | 279080 | [279080-the-diseases-and-casualties-this-year-being-1632.json](./279080-the-diseases-and-casualties-this-year-being-1632.json) |
+| The Disgusting Slaughterman | 126312 | [126312-the-disgusting-slaughterman.json](./126312-the-disgusting-slaughterman.json) |
 | The Dismal Silhouette | 282620 | [282620-the-dismal-silhouette.json](./282620-the-dismal-silhouette.json) |
 | The Disney Collection: Quackshot Starring Donald Duck & Castle of Illusion Starring Mickey Mouse | 45561 | [45561-the-disney-collection-quackshot-starring-donald-duck-and-castle-of-illusion-starring-mickey-mouse.json](./45561-the-disney-collection-quackshot-starring-donald-duck-and-castle-of-illusion-starring-mickey-mouse.json) |
 | The Disney/Pixar Collection | 230424 | [230424-the-disney-pixar-collection.json](./230424-the-disney-pixar-collection.json) |
@@ -6937,6 +6940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hand of Panda | 85436 | [85436-the-hand-of-panda.json](./85436-the-hand-of-panda.json) |
 | The Hand of the Crownbearer | 403718 | [403718-the-hand-of-the-crownbearer.json](./403718-the-hand-of-the-crownbearer.json) |
 | The Handbook | 152868 | [152868-the-handbook.json](./152868-the-handbook.json) |
+| The Handler of Dragons | 125719 | [125719-the-handler-of-dragons.json](./125719-the-handler-of-dragons.json) |
 | The Hanged Man | 56035 | [56035-the-hanged-man.json](./56035-the-hanged-man.json) |
 | The Hanging Gardens | 183826 | [183826-the-hanging-gardens.json](./183826-the-hanging-gardens.json) |
 | The Hangman | 264609 | [264609-the-hangman.json](./264609-the-hangman.json) |
@@ -7847,6 +7851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land Beyond the Forest | 416757 | [416757-the-land-beyond-the-forest.json](./416757-the-land-beyond-the-forest.json) |
 | The Land Forgotten | 381730 | [381730-the-land-forgotten.json](./381730-the-land-forgotten.json) |
 | The Land of Alembrume | 204983 | [204983-the-land-of-alembrume.json](./204983-the-land-of-alembrume.json) |
+| The Land of Crows | 126306 | [126306-the-land-of-crows.json](./126306-the-land-of-crows.json) |
 | The Land of Dasthir | 30898 | [30898-the-land-of-dasthir.json](./30898-the-land-of-dasthir.json) |
 | The Land of Eyas | 36301 | [36301-the-land-of-eyas.json](./36301-the-land-of-eyas.json) |
 | The Land of Fog | 320808 | [320808-the-land-of-fog.json](./320808-the-land-of-fog.json) |
@@ -7897,6 +7902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last City | 202725 | [202725-the-last-city.json](./202725-the-last-city.json) |
 | The Last Cohort | 141528 | [141528-the-last-cohort.json](./141528-the-last-cohort.json) |
 | The Last Commander | 272218 | [272218-the-last-commander.json](./272218-the-last-commander.json) |
+| The Last Companion | 125718 | [125718-the-last-companion.json](./125718-the-last-companion.json) |
 | The Last Contact | 112776 | [112776-the-last-contact.json](./112776-the-last-contact.json) |
 | The Last Corpse Forge: Survivor | 342186 | [342186-the-last-corpse-forge-survivor.json](./342186-the-last-corpse-forge-survivor.json) |
 | The Last Cosmonaut | 413594 | [413594-the-last-cosmonaut.json](./413594-the-last-cosmonaut.json) |
@@ -13223,6 +13229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thieves of Dingirra | 304694 | [304694-thieves-of-dingirra.json](./304694-thieves-of-dingirra.json) |
 | Thieves World | 297467 | [297467-thieves-world.json](./297467-thieves-world.json) |
 | Thieves' Paradise | 200934 | [200934-thieves-paradise.json](./200934-thieves-paradise.json) |
+| Thigh Climbers | 126342 | [126342-thigh-climbers.json](./126342-thigh-climbers.json) |
 | Thimbleweed Park 2 | 411759 | [411759-thimbleweed-park-2.json](./411759-thimbleweed-park-2.json) |
 | Thin Line | 333759 | [333759-thin-line.json](./333759-thin-line.json) |
 | Thin Threads | 332415 | [332415-thin-threads.json](./332415-thin-threads.json) |
@@ -15664,6 +15671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Games: Knights & Dragons | 84950 | [84950-tiny-games-knights-and-dragons.json](./84950-tiny-games-knights-and-dragons.json) |
 | Tiny Garden | 300390 | [300390-tiny-garden.json](./300390-tiny-garden.json) |
 | Tiny Gems Bundle | 292617 | [292617-tiny-gems-bundle.json](./292617-tiny-gems-bundle.json) |
+| Tiny Gladiators | 125755 | [125755-tiny-gladiators.json](./125755-tiny-gladiators.json) |
 | Tiny Goalie | 233081 | [233081-tiny-goalie.json](./233081-tiny-goalie.json) |
 | Tiny Gods of the Nile | 191197 | [191197-tiny-gods-of-the-nile.json](./191197-tiny-gods-of-the-nile.json) |
 | Tiny Guardians | 33841 | [33841-tiny-guardians.json](./33841-tiny-guardians.json) |
@@ -17329,6 +17337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Arcade Racing | 132563 | [132563-total-arcade-racing.json](./132563-total-arcade-racing.json) |
 | Total Assault: Zombie Massacre | 214109 | [214109-total-assault-zombie-massacre.json](./214109-total-assault-zombie-massacre.json) |
 | Total Battle | 112718 | [112718-total-battle.json](./112718-total-battle.json) |
+| Total Chaos | 125766 | [125766-total-chaos.json](./125766-total-chaos.json) |
 | Total Chaos | 301071 | [301071-total-chaos.json](./301071-total-chaos.json) |
 | Total Club Manager 2003 | 6211 | [6211-total-club-manager-2003.json](./6211-total-club-manager-2003.json) |
 | Total Club Manager 2004 | 6207 | [6207-total-club-manager-2004.json](./6207-total-club-manager-2004.json) |
@@ -17972,6 +17981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Boxing | 344025 | [344025-tower-boxing.json](./344025-tower-boxing.json) |
 | Tower Builder | 259157 | [259157-tower-builder.json](./259157-tower-builder.json) |
 | Tower Clash | 200005 | [200005-tower-clash.json](./200005-tower-clash.json) |
+| Tower Climb | 125754 | [125754-tower-climb.json](./125754-tower-climb.json) |
 | Tower climber | 90193 | [90193-tower-climber.json](./90193-tower-climber.json) |
 | Tower Command | 370908 | [370908-tower-command.json](./370908-tower-command.json) |
 | Tower Dash | 251508 | [251508-tower-dash.json](./251508-tower-dash.json) |
@@ -18237,6 +18247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towing Simulator | 9451 | [9451-towing-simulator.json](./9451-towing-simulator.json) |
 | Town (Working Title) | 131455 | [131455-town-working-title.json](./131455-town-working-title.json) |
 | Town & Country Surf Designs II: Thrilla's Surfari | 48177 | [48177-town-and-country-surf-designs-ii-thrillas-surfari.json](./48177-town-and-country-surf-designs-ii-thrillas-surfari.json) |
+| Town Defence | 126350 | [126350-town-defence.json](./126350-town-defence.json) |
 | Town Diner | 214122 | [214122-town-diner.json](./214122-town-diner.json) |
 | Town Doubt | 55470 | [55470-town-doubt.json](./55470-town-doubt.json) |
 | Town Hall Toaster | 71463 | [71463-town-hall-toaster.json](./71463-town-hall-toaster.json) |
@@ -20082,6 +20093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trauma Center: Second Opinion | 1524 | [1524-trauma-center-second-opinion.json](./1524-trauma-center-second-opinion.json) |
 | Trauma Pets | 409415 | [409415-trauma-pets.json](./409415-trauma-pets.json) |
 | Trauma Playground | 422143 | [422143-trauma-playground.json](./422143-trauma-playground.json) |
+| Trauma Simulator | 125728 | [125728-trauma-simulator.json](./125728-trauma-simulator.json) |
 | Trauma Squad | 253818 | [253818-trauma-squad.json](./253818-trauma-squad.json) |
 | Trauma: Broken Paradise | 238494 | [238494-trauma-broken-paradise.json](./238494-trauma-broken-paradise.json) |
 | TraumaCore Violence | 236518 | [236518-traumacore-violence.json](./236518-traumacore-violence.json) |
@@ -21113,6 +21125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator Pro USA | 262336 | [262336-truck-simulator-pro-usa.json](./262336-truck-simulator-pro-usa.json) |
 | Truck Simulator Ultimate 3D | 232954 | [232954-truck-simulator-ultimate-3d.json](./232954-truck-simulator-ultimate-3d.json) |
 | Truck Simulator US Driver | 376580 | [376580-truck-simulator-us-driver.json](./376580-truck-simulator-us-driver.json) |
+| Truck Simulator USA | 125753 | [125753-truck-simulator-usa.json](./125753-truck-simulator-usa.json) |
 | Truck Simulator USA & ATV Monster Rally Bundle | 306513 | [306513-truck-simulator-usa-and-atv-monster-rally-bundle.json](./306513-truck-simulator-usa-and-atv-monster-rally-bundle.json) |
 | Truck Simulator USA Car Games: Driving games & Car 2022 | 196177 | [196177-truck-simulator-usa-car-games-driving-games-and-car-2022.json](./196177-truck-simulator-usa-car-games-driving-games-and-car-2022.json) |
 | Truck Simulator: Delivery in City | 375410 | [375410-truck-simulator-delivery-in-city.json](./375410-truck-simulator-delivery-in-city.json) |
