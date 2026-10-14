@@ -4879,6 +4879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet the Girls | 181801 | [181801-meet-the-girls.json](./181801-meet-the-girls.json) |
 | Meet the Letters Flashcards: Lowercase | 101569 | [101569-meet-the-letters-flashcards-lowercase.json](./101569-meet-the-letters-flashcards-lowercase.json) |
 | Meet the Letters Flashcards: Lowercase | 87619 | [87619-meet-the-letters-flashcards-lowercase.json](./87619-meet-the-letters-flashcards-lowercase.json) |
+| Meet the Letters Flashcards: Uppercase | 101435 | [101435-meet-the-letters-flashcards-uppercase.json](./101435-meet-the-letters-flashcards-uppercase.json) |
 | Meet the Mole | 180679 | [180679-meet-the-mole.json](./180679-meet-the-mole.json) |
 | Meet the Myths: An Ormhildur the Brave Game | 331126 | [331126-meet-the-myths-an-ormhildur-the-brave-game.json](./331126-meet-the-myths-an-ormhildur-the-brave-game.json) |
 | Meet the Robinsons | 200908 | [200908-meet-the-robinsons.json](./200908-meet-the-robinsons.json) |
@@ -13014,6 +13015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music on: Acoustic Guitar | 79882 | [79882-music-on-acoustic-guitar.json](./79882-music-on-acoustic-guitar.json) |
 | Music on: Electric Guitar | 79881 | [79881-music-on-electric-guitar.json](./79881-music-on-electric-guitar.json) |
 | Music Piano 7 | 352191 | [352191-music-piano-7.json](./352191-music-piano-7.json) |
+| Music Producer | 101403 | [101403-music-producer.json](./101403-music-producer.json) |
 | Music Puzzle | 256543 | [256543-music-puzzle.json](./256543-music-puzzle.json) |
 | Music Quiz | 131282 | [131282-music-quiz.json](./131282-music-quiz.json) |
 | Music Quiz | 210110 | [210110-music-quiz.json](./210110-music-quiz.json) |
