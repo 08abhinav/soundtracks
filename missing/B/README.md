@@ -3578,6 +3578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat the Bird | 247076 | [247076-beat-the-bird.json](./247076-beat-the-bird.json) |
 | Beat the Blitz | 87962 | [87962-beat-the-blitz.json](./87962-beat-the-blitz.json) |
 | Beat the Boss 2 | 86786 | [86786-beat-the-boss-2.json](./86786-beat-the-boss-2.json) |
+| Beat the Boss 4 | 88144 | [88144-beat-the-boss-4.json](./88144-beat-the-boss-4.json) |
 | Beat The Boss Game | 331699 | [331699-beat-the-boss-game.json](./331699-beat-the-boss-game.json) |
 | Beat the Clock | 196261 | [196261-beat-the-clock.json](./196261-beat-the-clock.json) |
 | Beat the Dictators | 31683 | [31683-beat-the-dictators.json](./31683-beat-the-dictators.json) |
@@ -6054,6 +6055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Out. | 297808 | [297808-black-out.json](./297808-black-out.json) |
 | Black OX | 353801 | [353801-black-ox.json](./353801-black-ox.json) |
 | Black Panther | 38589 | [38589-black-panther.json](./38589-black-panther.json) |
+| Black Panther Simulator 3D: Extreme Wild Predator Revenge | 88094 | [88094-black-panther-simulator-3d-extreme-wild-predator-revenge.json](./88094-black-panther-simulator-3d-extreme-wild-predator-revenge.json) |
 | Black Panther: Wakanda Forever - Reveal the Power | 230426 | [230426-black-panther-wakanda-forever-reveal-the-power.json](./230426-black-panther-wakanda-forever-reveal-the-power.json) |
 | Black Paradox | 104866 | [104866-black-paradox.json](./104866-black-paradox.json) |
 | Black Paradox Reloaded | 349393 | [349393-black-paradox-reloaded.json](./349393-black-paradox-reloaded.json) |
