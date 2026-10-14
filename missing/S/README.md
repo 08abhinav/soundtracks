@@ -5440,6 +5440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Galaxy: Engage | 259598 | [259598-shin-galaxy-engage.json](./259598-shin-galaxy-engage.json) |
 | Shin Gundam Musou | 52832 | [52832-shin-gundam-musou.json](./52832-shin-gundam-musou.json) |
 | Shin Hayarigami | 79331 | [79331-shin-hayarigami.json](./79331-shin-hayarigami.json) |
+| Shin Hayarigami 1-2 Pack | 118125 | [118125-shin-hayarigami-1-2-pack.json](./118125-shin-hayarigami-1-2-pack.json) |
 | Shin Hayarigami: Blindman | 95861 | [95861-shin-hayarigami-blindman.json](./95861-shin-hayarigami-blindman.json) |
 | Shin Hayarigami: Doll | 196705 | [196705-shin-hayarigami-doll.json](./196705-shin-hayarigami-doll.json) |
 | Shin Hayarigami: Ghost | 196702 | [196702-shin-hayarigami-ghost.json](./196702-shin-hayarigami-ghost.json) |
@@ -6525,6 +6526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siberian Dawn: Heroes of the Union | 310082 | [310082-siberian-dawn-heroes-of-the-union.json](./310082-siberian-dawn-heroes-of-the-union.json) |
 | Siberian Dawn: Winterflood | 310408 | [310408-siberian-dawn-winterflood.json](./310408-siberian-dawn-winterflood.json) |
 | Siberian Experiment | 341448 | [341448-siberian-experiment.json](./341448-siberian-experiment.json) |
+| Siberian Run VR | 118099 | [118099-siberian-run-vr.json](./118099-siberian-run-vr.json) |
 | Siberian Strike | 91888 | [91888-siberian-strike.json](./91888-siberian-strike.json) |
 | Siberian Way | 333237 | [333237-siberian-way.json](./333237-siberian-way.json) |
 | Sibijicheon M | 233547 | [233547-sibijicheon-m.json](./233547-sibijicheon-m.json) |
@@ -15654,6 +15656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stall | 372618 | [372618-stall.json](./372618-stall.json) |
 | Stallion Squad | 133779 | [133779-stallion-squad.json](./133779-stallion-squad.json) |
 | Stallions in America | 199117 | [199117-stallions-in-america.json](./199117-stallions-in-america.json) |
+| Stamp Boy | 118080 | [118080-stamp-boy.json](./118080-stamp-boy.json) |
 | Stamp Collector | 406140 | [406140-stamp-collector.json](./406140-stamp-collector.json) |
 | Stamp Smash | 82184 | [82184-stamp-smash.json](./82184-stamp-smash.json) |
 | Stampede | 5704 | [5704-stampede.json](./5704-stampede.json) |
@@ -19184,6 +19187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submarine | 346083 | [346083-submarine.json](./346083-submarine.json) |
 | Submarine Adventure | 133233 | [133233-submarine-adventure.json](./133233-submarine-adventure.json) |
 | Submarine Attack | 46120 | [46120-submarine-attack.json](./46120-submarine-attack.json) |
+| Submarine Attack! | 118118 | [118118-submarine-attack.json](./118118-submarine-attack.json) |
 | Submarine Bubble | 319299 | [319299-submarine-bubble.json](./319299-submarine-bubble.json) |
 | Submarine Car Diving Simulator | 95593 | [95593-submarine-car-diving-simulator.json](./95593-submarine-car-diving-simulator.json) |
 | Submarine Commander | 130269 | [130269-submarine-commander.json](./130269-submarine-commander.json) |
@@ -22587,6 +22591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SurrounDead Poly Construction | 399158 | [399158-surroundead-poly-construction.json](./399158-surroundead-poly-construction.json) |
 | Surrounded | 187157 | [187157-surrounded.json](./187157-surrounded.json) |
 | Surrounded by Death | 311613 | [311613-surrounded-by-death.json](./311613-surrounded-by-death.json) |
+| Surrounded by mice | 118105 | [118105-surrounded-by-mice.json](./118105-surrounded-by-mice.json) |
 | Surv | 51986 | [51986-surv.json](./51986-surv.json) |
 | Surv: Last Survival | 105791 | [105791-surv-last-survival.json](./105791-surv-last-survival.json) |
 | Survarium: Steam Shotgun Pack | 162712 | [162712-survarium-steam-shotgun-pack.json](./162712-survarium-steam-shotgun-pack.json) |
@@ -23668,6 +23673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordthrust 7: The Hall of Alchemie | 24795 | [24795-swordthrust-7-the-hall-of-alchemie.json](./24795-swordthrust-7-the-hall-of-alchemie.json) |
 | SwordVania | 179424 | [179424-swordvania.json](./179424-swordvania.json) |
 | SworLd | 192808 | [192808-sworld.json](./192808-sworld.json) |
+| Sworn | 118074 | [118074-sworn.json](./118074-sworn.json) |
 | SWR JST DX Selective Memory Erase Effect | 35564 | [35564-swr-jst-dx-selective-memory-erase-effect.json](./35564-swr-jst-dx-selective-memory-erase-effect.json) |
 | Swung | 134577 | [134577-swung.json](./134577-swung.json) |
 | SX Superstar | 4193 | [4193-sx-superstar.json](./4193-sx-superstar.json) |
