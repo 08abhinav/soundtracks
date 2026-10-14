@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.W.'s Nightmare | 248212 | [248212-d-w-s-nightmare.json](./248212-d-w-s-nightmare.json) |
 | D.W.A.R.F.S. | 36414 | [36414-d-w-a-r-f-s.json](./36414-d-w-a-r-f-s.json) |
 | D' | 174654 | [174654-d.json](./174654-d.json) |
+| D'lirium: The Golden Rogue | 111433 | [111433-dlirium-the-golden-rogue.json](./111433-dlirium-the-golden-rogue.json) |
 | D's Diner: The Director's Cut | 245311 | [245311-ds-diner-the-directors-cut.json](./245311-ds-diner-the-directors-cut.json) |
 | D*sco Ep | 210511 | [210511-d-sco-ep.json](./210511-d-sco-ep.json) |
 | D/Generation HD | 21318 | [21318-d-generation-hd.json](./21318-d-generation-hd.json) |
@@ -977,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Dimensions: City of Fog | 139786 | [139786-dark-dimensions-city-of-fog.json](./139786-dark-dimensions-city-of-fog.json) |
 | Dark Dimensions: City of Fog - Collector's Edition | 29811 | [29811-dark-dimensions-city-of-fog-collectors-edition.json](./29811-dark-dimensions-city-of-fog-collectors-edition.json) |
 | Dark Dimensions: Homecoming | 139787 | [139787-dark-dimensions-homecoming.json](./139787-dark-dimensions-homecoming.json) |
+| Dark Dimensions: Homecoming - Collector's Edition | 111512 | [111512-dark-dimensions-homecoming-collectors-edition.json](./111512-dark-dimensions-homecoming-collectors-edition.json) |
 | Dark Dimensions: Somber Song | 139788 | [139788-dark-dimensions-somber-song.json](./139788-dark-dimensions-somber-song.json) |
 | Dark Dimensions: Somber Song - Collector's Edition | 96884 | [96884-dark-dimensions-somber-song-collectors-edition.json](./96884-dark-dimensions-somber-song-collectors-edition.json) |
 | Dark Dimensions: Wax Beauty | 139789 | [139789-dark-dimensions-wax-beauty.json](./139789-dark-dimensions-wax-beauty.json) |
@@ -4087,6 +4089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Physics | 90510 | [90510-demolition-physics.json](./90510-demolition-physics.json) |
 | Demolition Plant | 270710 | [270710-demolition-plant.json](./270710-demolition-plant.json) |
 | Demolition Race | 192974 | [192974-demolition-race.json](./192974-demolition-race.json) |
+| Demolition Robots K.K. | 111545 | [111545-demolition-robots-k-k.json](./111545-demolition-robots-k-k.json) |
 | Demomen Ltd. | 236163 | [236163-demomen-ltd.json](./236163-demomen-ltd.json) |
 | Demon Alive | 323526 | [323526-demon-alive.json](./323526-demon-alive.json) |
 | Demon Attack | 309342 | [309342-demon-attack.json](./309342-demon-attack.json) |
@@ -10078,6 +10081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragster | 312255 | [312255-dragster.json](./312255-dragster.json) |
 | Dragster | 46885 | [46885-dragster.json](./46885-dragster.json) |
 | Dragu's Puzzle Adventure | 155648 | [155648-dragus-puzzle-adventure.json](./155648-dragus-puzzle-adventure.json) |
+| Draid | 111532 | [111532-draid.json](./111532-draid.json) |
 | Drain | 179560 | [179560-drain.json](./179560-drain.json) |
 | Drain Mania | 57166 | [57166-drain-mania.json](./57166-drain-mania.json) |
 | Drain Runner | 210885 | [210885-drain-runner.json](./210885-drain-runner.json) |
@@ -11135,6 +11139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drowned Grave | 387649 | [387649-drowned-grave.json](./387649-drowned-grave.json) |
 | Drowned Helicopter | 166695 | [166695-drowned-helicopter.json](./166695-drowned-helicopter.json) |
 | Drowned Lake | 278605 | [278605-drowned-lake.json](./278605-drowned-lake.json) |
+| Drowning | 111432 | [111432-drowning.json](./111432-drowning.json) |
 | Drowning | 191030 | [191030-drowning.json](./191030-drowning.json) |
 | Drowning Cross | 119750 | [119750-drowning-cross.json](./119750-drowning-cross.json) |
 | Drowning In Problems | 134444 | [134444-drowning-in-problems.json](./134444-drowning-in-problems.json) |
@@ -11444,6 +11449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck, Jump, Die! | 181344 | [181344-duck-jump-die.json](./181344-duck-jump-die.json) |
 | Duck, Quack, Shoot! | 287665 | [287665-duck-quack-shoot.json](./287665-duck-quack-shoot.json) |
 | Duck's Despair | 249817 | [249817-ducks-despair.json](./249817-ducks-despair.json) |
+| Duck's Inferno | 111437 | [111437-ducks-inferno.json](./111437-ducks-inferno.json) |
 | Duck's Island | 399716 | [399716-ducks-island.json](./399716-ducks-island.json) |
 | Duck's Most Terrible Day | 277336 | [277336-ducks-most-terrible-day.json](./277336-ducks-most-terrible-day.json) |
 | Duckball: Glorious Ducks | 133987 | [133987-duckball-glorious-ducks.json](./133987-duckball-glorious-ducks.json) |
