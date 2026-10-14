@@ -3728,6 +3728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willful | 44190 | [44190-willful.json](./44190-willful.json) |
 | William and Sly | 253811 | [253811-william-and-sly.json](./253811-william-and-sly.json) |
 | William Shatner's TekWar | 8686 | [8686-william-shatners-tekwar.json](./8686-william-shatners-tekwar.json) |
+| William Wobbler | 94625 | [94625-william-wobbler.json](./94625-william-wobbler.json) |
 | William's Love Prelude | 127849 | [127849-williams-love-prelude.json](./127849-williams-love-prelude.json) |
 | Williams Arcade Classics | 199435 | [199435-williams-arcade-classics.json](./199435-williams-arcade-classics.json) |
 | Williams Arcade Classics | 71782 | [71782-williams-arcade-classics.json](./71782-williams-arcade-classics.json) |
@@ -4494,6 +4495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Man | 211927 | [211927-wizard-man.json](./211927-wizard-man.json) |
 | Wizard Mike | 195484 | [195484-wizard-mike.json](./195484-wizard-mike.json) |
 | Wizard Mukbang: The Game | 289898 | [289898-wizard-mukbang-the-game.json](./289898-wizard-mukbang-the-game.json) |
+| Wizard of Id's WizType | 94614 | [94614-wizard-of-ids-wiztype.json](./94614-wizard-of-ids-wiztype.json) |
 | Wizard of Legend Mobile | 174701 | [174701-wizard-of-legend-mobile.json](./174701-wizard-of-legend-mobile.json) |
 | Wizard of the 4 Corners | 301903 | [301903-wizard-of-the-4-corners.json](./301903-wizard-of-the-4-corners.json) |
 | Wizard of Wall Street | 68043 | [68043-wizard-of-wall-street.json](./68043-wizard-of-wall-street.json) |
