@@ -11474,7 +11474,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avert Fate | 63245 | [63245-avert-fate.json](./63245-avert-fate.json) |
 | Avert Your Eyes | 263004 | [263004-avert-your-eyes.json](./263004-avert-your-eyes.json) |
 | Avery Cardoza's Casino 2000 | 78694 | [78694-avery-cardozas-casino-2000.json](./78694-avery-cardozas-casino-2000.json) |
-| Aveyond 2: Ean's Quest | 10011 | [10011-aveyond-2-eans-quest.json](./10011-aveyond-2-eans-quest.json) |
 | Aveyond 3-1: Lord of Twilight | 36389 | [36389-aveyond-3-1-lord-of-twilight.json](./36389-aveyond-3-1-lord-of-twilight.json) |
 | Aveyond 3-2: Gates of Night | 36404 | [36404-aveyond-3-2-gates-of-night.json](./36404-aveyond-3-2-gates-of-night.json) |
 | Aveyond 3-3: The Lost Orb | 36241 | [36241-aveyond-3-3-the-lost-orb.json](./36241-aveyond-3-3-the-lost-orb.json) |
