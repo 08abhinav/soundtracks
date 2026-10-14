@@ -2824,6 +2824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where in the World Is Carmen Sandiego? | 367754 | [367754-where-in-the-world-is-carmen-sandiego.json](./367754-where-in-the-world-is-carmen-sandiego.json) |
 | Where in the World is Carmen Sandiego? Enhanced Edition | 143640 | [143640-where-in-the-world-is-carmen-sandiego-enhanced-edition.json](./143640-where-in-the-world-is-carmen-sandiego-enhanced-edition.json) |
 | Where in the World Is Carmen Sandiego? Treasures of Knowledge | 58907 | [58907-where-in-the-world-is-carmen-sandiego-treasures-of-knowledge.json](./58907-where-in-the-world-is-carmen-sandiego-treasures-of-knowledge.json) |
+| Where in the World is Carmen Sandiego?: Deluxe Edition | 77217 | [77217-where-in-the-world-is-carmen-sandiego-deluxe-edition.json](./77217-where-in-the-world-is-carmen-sandiego-deluxe-edition.json) |
 | Where in Time is Carmen Sandiego? | 336633 | [336633-where-in-time-is-carmen-sandiego.json](./336633-where-in-time-is-carmen-sandiego.json) |
 | Where in Time is Carmen Sandiego? | 4376 | [4376-where-in-time-is-carmen-sandiego.json](./4376-where-in-time-is-carmen-sandiego.json) |
 | Where is 2009? | 384055 | [384055-where-is-2009.json](./384055-where-is-2009.json) |
