@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T08:10:56.775Z",
-  "total_soundtracks": 1620,
+  "generated_at": "2026-10-14T08:11:06.379Z",
+  "total_soundtracks": 1621,
   "games": [
     {
       "igdb_id": 7522,
@@ -11905,6 +11905,20 @@
           "spotify_url": "https://open.spotify.com/album/3LM4lHnGyNHnLIBVqcpp7o",
           "apple_music_url": "https://music.apple.com/us/album/pillars-of-eternity-ii-deadfire-original-soundtrack/1561048868",
           "album_link_url": "https://album.link/i/1561048868"
+        }
+      ]
+    },
+    {
+      "igdb_id": 20454,
+      "game_name": "Pinstripe",
+      "game_url": "https://ostdb.net/games/pinstripe",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738a60e9124310e526ef8a8bca",
+      "albums": [
+        {
+          "album_name": "Pinstripe (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/75Jm2bbDGtvf3gYdzng04E",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
