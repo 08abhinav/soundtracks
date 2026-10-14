@@ -4848,6 +4848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looking for Lokae | 240709 | [240709-looking-for-lokae.json](./240709-looking-for-lokae.json) |
 | Looking for Something | 316653 | [316653-looking-for-something.json](./316653-looking-for-something.json) |
 | Looking for Waifu | 363322 | [363322-looking-for-waifu.json](./363322-looking-for-waifu.json) |
+| Looking Glass | 132550 | [132550-looking-glass.json](./132550-looking-glass.json) |
 | Looking Glass | 186605 | [186605-looking-glass.json](./186605-looking-glass.json) |
 | Looking Up | 391322 | [391322-looking-up.json](./391322-looking-up.json) |
 | Looking Up I See Only a Ceiling | 224733 | [224733-looking-up-i-see-only-a-ceiling.json](./224733-looking-up-i-see-only-a-ceiling.json) |
