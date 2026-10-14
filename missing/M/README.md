@@ -8415,6 +8415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Game Compil 3 | 322796 | [322796-mini-game-compil-3.json](./322796-mini-game-compil-3.json) |
 | Mini Game Machine | 346761 | [346761-mini-game-machine.json](./346761-mini-game-machine.json) |
 | Mini Garden Cafe | 260153 | [260153-mini-garden-cafe.json](./260153-mini-garden-cafe.json) |
+| Mini Gold Coop | 98365 | [98365-mini-gold-coop.json](./98365-mini-gold-coop.json) |
 | Mini Golf | 209506 | [209506-mini-golf.json](./209506-mini-golf.json) |
 | Mini Golf | 209507 | [209507-mini-golf.json](./209507-mini-golf.json) |
 | Mini Golf | 246469 | [246469-mini-golf.json](./246469-mini-golf.json) |
