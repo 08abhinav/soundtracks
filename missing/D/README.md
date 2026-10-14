@@ -6299,6 +6299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Hunt: Vampires, Gargoyles, Mutants Hunter Expansion Pack | 169320 | [169320-dinosaur-hunt-vampires-gargoyles-mutants-hunter-expansion-pack.json](./169320-dinosaur-hunt-vampires-gargoyles-mutants-hunter-expansion-pack.json) |
 | Dinosaur Hunter | 98984 | [98984-dinosaur-hunter.json](./98984-dinosaur-hunter.json) |
 | Dinosaur Hunter 2018 | 105858 | [105858-dinosaur-hunter-2018.json](./105858-dinosaur-hunter-2018.json) |
+| Dinosaur Hunter VR | 106448 | [106448-dinosaur-hunter-vr.json](./106448-dinosaur-hunter-vr.json) |
 | Dinosaur Hunting Patrol 3D Jurassic VR | 160142 | [160142-dinosaur-hunting-patrol-3d-jurassic-vr.json](./160142-dinosaur-hunting-patrol-3d-jurassic-vr.json) |
 | Dinosaur Island | 266484 | [266484-dinosaur-island.json](./266484-dinosaur-island.json) |
 | Dinosaur Jigsaw Puzzles - Kids Games for Toddlers | 86831 | [86831-dinosaur-jigsaw-puzzles-kids-games-for-toddlers.json](./86831-dinosaur-jigsaw-puzzles-kids-games-for-toddlers.json) |
@@ -10854,6 +10855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driftmoon | 8205 | [8205-driftmoon.json](./8205-driftmoon.json) |
 | Drifto: Infinite Touge | 305914 | [305914-drifto-infinite-touge.json](./305914-drifto-infinite-touge.json) |
 | DriftOn | 129053 | [129053-drifton.json](./129053-drifton.json) |
+| Driftpunk Racer | 106456 | [106456-driftpunk-racer.json](./106456-driftpunk-racer.json) |
 | Driftwatch VR | 30919 | [30919-driftwatch-vr.json](./30919-driftwatch-vr.json) |
 | Driftwood | 129563 | [129563-driftwood.json](./129563-driftwood.json) |
 | Driftwood | 31831 | [31831-driftwood.json](./31831-driftwood.json) |
@@ -10879,6 +10881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drill to Hell: Clicked Too Deep | 345082 | [345082-drill-to-hell-clicked-too-deep.json](./345082-drill-to-hell-clicked-too-deep.json) |
 | Drill Up | 348945 | [348945-drill-up.json](./348945-drill-up.json) |
 | Drillman 6378137 | 195703 | [195703-drillman-6378137.json](./195703-drillman-6378137.json) |
+| DrillMania | 106458 | [106458-drillmania.json](./106458-drillmania.json) |
 | Drillmin | 186198 | [186198-drillmin.json](./186198-drillmin.json) |
 | Drills VR | 109066 | [109066-drills-vr.json](./109066-drills-vr.json) |
 | DrillsVR | 102878 | [102878-drillsvr.json](./102878-drillsvr.json) |
@@ -11702,6 +11705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunchess | 269267 | [269267-dunchess.json](./269267-dunchess.json) |
 | Duncrush | 349832 | [349832-duncrush.json](./349832-duncrush.json) |
 | Dunderbeck | 303497 | [303497-dunderbeck.json](./303497-dunderbeck.json) |
+| Dunderheads | 106463 | [106463-dunderheads.json](./106463-dunderheads.json) |
 | DunDun VR | 160148 | [160148-dundun-vr.json](./160148-dundun-vr.json) |
 | Dune | 282716 | [282716-dune.json](./282716-dune.json) |
 | Dune | 85 | [85-dune.json](./85-dune.json) |
