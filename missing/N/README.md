@@ -1117,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrolance | 116929 | [116929-necrolance.json](./116929-necrolance.json) |
 | NecroLand: Undead Corps | 127361 | [127361-necroland-undead-corps.json](./127361-necroland-undead-corps.json) |
 | Necromancer | 377196 | [377196-necromancer.json](./377196-necromancer.json) |
+| Necromancer | 76450 | [76450-necromancer.json](./76450-necromancer.json) |
 | NecRomancer | 176838 | [176838-necromancer.json](./176838-necromancer.json) |
 | Necromancer Delivery Service | 406309 | [406309-necromancer-delivery-service.json](./406309-necromancer-delivery-service.json) |
 | Necromancer Nonsense | 347151 | [347151-necromancer-nonsense.json](./347151-necromancer-nonsense.json) |
@@ -4880,6 +4881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Now You Are the Persecuted | 236520 | [236520-now-you-are-the-persecuted.json](./236520-now-you-are-the-persecuted.json) |
 | Now you can't see me | 152723 | [152723-now-you-cant-see-me.json](./152723-now-you-cant-see-me.json) |
 | Now You See | 117439 | [117439-now-you-see.json](./117439-now-you-see.json) |
+| Now You See It | 76465 | [76465-now-you-see-it.json](./76465-now-you-see-it.json) |
 | Now You Would Destroy the Earth | 235862 | [235862-now-you-would-destroy-the-earth.json](./235862-now-you-would-destroy-the-earth.json) |
 | Now You've Made Me Crabby | 183058 | [183058-now-youve-made-me-crabby.json](./183058-now-youve-made-me-crabby.json) |
 | Now! That's What I Call Music: Dance & Sing | 56550 | [56550-now-thats-what-i-call-music-dance-and-sing.json](./56550-now-thats-what-i-call-music-dance-and-sing.json) |
