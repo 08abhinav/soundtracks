@@ -2175,6 +2175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Bar Story | 279048 | [279048-adventure-bar-story.json](./279048-adventure-bar-story.json) |
 | Adventure Bit | 159576 | [159576-adventure-bit.json](./159576-adventure-bit.json) |
 | Adventure Boss | 181154 | [181154-adventure-boss.json](./181154-adventure-boss.json) |
+| Adventure Boy Cheapskate | 95928 | [95928-adventure-boy-cheapskate.json](./95928-adventure-boy-cheapskate.json) |
 | Adventure Boy Jailbreak | 127824 | [127824-adventure-boy-jailbreak.json](./127824-adventure-boy-jailbreak.json) |
 | Adventure C: The Ship of Doom | 72641 | [72641-adventure-c-the-ship-of-doom.json](./72641-adventure-c-the-ship-of-doom.json) |
 | Adventure Climb VR | 116821 | [116821-adventure-climb-vr.json](./116821-adventure-climb-vr.json) |
@@ -5240,6 +5241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaranthine Voyage: The Obsidian Book - Collector's Edition | 105338 | [105338-amaranthine-voyage-the-obsidian-book-collectors-edition.json](./105338-amaranthine-voyage-the-obsidian-book-collectors-edition.json) |
 | Amaranthine Voyage: The Orb of Purity | 58030 | [58030-amaranthine-voyage-the-orb-of-purity.json](./58030-amaranthine-voyage-the-orb-of-purity.json) |
 | Amaranthine Voyage: The Shadow of Torment | 58032 | [58032-amaranthine-voyage-the-shadow-of-torment.json](./58032-amaranthine-voyage-the-shadow-of-torment.json) |
+| Amaranthine Voyage: The Shadow of Torment HD | 95910 | [95910-amaranthine-voyage-the-shadow-of-torment-hd.json](./95910-amaranthine-voyage-the-shadow-of-torment-hd.json) |
 | Amaranthine Voyage: The Sky | 89143 | [89143-amaranthine-voyage-the-sky.json](./89143-amaranthine-voyage-the-sky.json) |
 | Amaranthine Voyage: The Tree of Life | 58029 | [58029-amaranthine-voyage-the-tree-of-life.json](./58029-amaranthine-voyage-the-tree-of-life.json) |
 | Amaranthine Voyage: Winter Neverending | 58026 | [58026-amaranthine-voyage-winter-neverending.json](./58026-amaranthine-voyage-winter-neverending.json) |
@@ -7893,6 +7895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc Intelligence | 212905 | [212905-arc-intelligence.json](./212905-arc-intelligence.json) |
 | Arc Nova Base | 308358 | [308358-arc-nova-base.json](./308358-arc-nova-base.json) |
 | Arc of Alchemist: Limited Edition | 167040 | [167040-arc-of-alchemist-limited-edition.json](./167040-arc-of-alchemist-limited-edition.json) |
+| Arc of Templar | 95926 | [95926-arc-of-templar.json](./95926-arc-of-templar.json) |
 | Arc Seed | 244485 | [244485-arc-seed.json](./244485-arc-seed.json) |
 | ARC Squadron: Redux | 38984 | [38984-arc-squadron-redux.json](./38984-arc-squadron-redux.json) |
 | Arc Style Solitaire | 62222 | [62222-arc-style-solitaire.json](./62222-arc-style-solitaire.json) |
