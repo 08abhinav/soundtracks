@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T04:31:16.931Z",
-  "total_soundtracks": 1610,
+  "generated_at": "2026-10-14T04:35:47.823Z",
+  "total_soundtracks": 1611,
   "games": [
     {
       "igdb_id": 7522,
@@ -11831,6 +11831,20 @@
           "spotify_url": "https://open.spotify.com/album/3LM4lHnGyNHnLIBVqcpp7o",
           "apple_music_url": "https://music.apple.com/us/album/pillars-of-eternity-ii-deadfire-original-soundtrack/1561048868",
           "album_link_url": "https://album.link/i/1561048868"
+        }
+      ]
+    },
+    {
+      "igdb_id": 2065,
+      "game_name": "Plague Inc.",
+      "game_url": "https://ostdb.net/games/plague-inc",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730109ede31de9fc5d7df527f3",
+      "albums": [
+        {
+          "album_name": "Plague Inc. (Cure Edition) [Original Game Soundtrack]",
+          "spotify_url": "https://open.spotify.com/album/6BDkiEhXWoPDXtFa8oI6N6",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
