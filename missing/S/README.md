@@ -9457,6 +9457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash 'N' Survive | 45284 | [45284-smash-n-survive.json](./45284-smash-n-survive.json) |
 | Smash + Grab | 23178 | [23178-smash-grab.json](./23178-smash-grab.json) |
 | Smash and Bash Monsters | 277346 | [277346-smash-and-bash-monsters.json](./277346-smash-and-bash-monsters.json) |
+| Smash Ants! | 95299 | [95299-smash-ants.json](./95299-smash-ants.json) |
 | Smash Arrow | 56421 | [56421-smash-arrow.json](./56421-smash-arrow.json) |
 | Smash Ball | 138530 | [138530-smash-ball.json](./138530-smash-ball.json) |
 | Smash Ball | 193808 | [193808-smash-ball.json](./193808-smash-ball.json) |
@@ -14537,6 +14538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin or Die | 311247 | [311247-spin-or-die.json](./311247-spin-or-die.json) |
 | Spin Path | 213998 | [213998-spin-path.json](./213998-spin-path.json) |
 | Spin Path 2 | 394554 | [394554-spin-path-2.json](./394554-spin-path-2.json) |
+| Spin Poker | 95325 | [95325-spin-poker.json](./95325-spin-poker.json) |
 | Spin Quest: A Slot Adventure | 220670 | [220670-spin-quest-a-slot-adventure.json](./220670-spin-quest-a-slot-adventure.json) |
 | Spin Rhythm XD: Chillhop | 332606 | [332606-spin-rhythm-xd-chillhop.json](./332606-spin-rhythm-xd-chillhop.json) |
 | Spin Rhythm XD: Supporter Pack DLC | 273312 | [273312-spin-rhythm-xd-supporter-pack-dlc.json](./273312-spin-rhythm-xd-supporter-pack-dlc.json) |
@@ -19044,6 +19046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strip Poker Night at the Inventory | 134409 | [134409-strip-poker-night-at-the-inventory.json](./134409-strip-poker-night-at-the-inventory.json) |
 | Strip Pot | 13056 | [13056-strip-pot.json](./13056-strip-pot.json) |
 | Strip4 | 93182 | [93182-strip4.json](./93182-strip4.json) |
+| Stripe Physics | 95315 | [95315-stripe-physics.json](./95315-stripe-physics.json) |
 | Stripes | 305557 | [305557-stripes.json](./305557-stripes.json) |
 | Striping Fruits | 147410 | [147410-striping-fruits.json](./147410-striping-fruits.json) |
 | Stripper Anya 2: X-MiGuFighters | 75168 | [75168-stripper-anya-2-x-migufighters.json](./75168-stripper-anya-2-x-migufighters.json) |
