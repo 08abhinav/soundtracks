@@ -1490,6 +1490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banzai Mario World | 132855 | [132855-banzai-mario-world.json](./132855-banzai-mario-world.json) |
 | Banzai Pecan: The Last Hope For the Young Century | 35947 | [35947-banzai-pecan-the-last-hope-for-the-young-century.json](./35947-banzai-pecan-the-last-hope-for-the-young-century.json) |
 | Banzai Royale | 105476 | [105476-banzai-royale.json](./105476-banzai-royale.json) |
+| Banzo: Marks of Slavery | 105199 | [105199-banzo-marks-of-slavery.json](./105199-banzo-marks-of-slavery.json) |
 | Bao | 167577 | [167577-bao.json](./167577-bao.json) |
 | Bao Bao's Cozy Laundromat | 316705 | [316705-bao-baos-cozy-laundromat.json](./316705-bao-baos-cozy-laundromat.json) |
 | Bāo Qīngtiān | 84440 | [84440-bao-qingtian.json](./84440-bao-qingtian.json) |
@@ -3934,6 +3935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before Fate | 205248 | [205248-before-fate.json](./205248-before-fate.json) |
 | Before I Forget | 122372 | [122372-before-i-forget.json](./122372-before-i-forget.json) |
 | Before I Go | 283988 | [283988-before-i-go.json](./283988-before-i-go.json) |
+| Before Nightfall | 105159 | [105159-before-nightfall.json](./105159-before-nightfall.json) |
 | Before Nightfall | 271311 | [271311-before-nightfall.json](./271311-before-nightfall.json) |
 | Before Resignation | 239688 | [239688-before-resignation.json](./239688-before-resignation.json) |
 | Before Sunset | 211446 | [211446-before-sunset.json](./211446-before-sunset.json) |
