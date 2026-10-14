@@ -1258,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Rockstar HD | 57060 | [57060-santa-rockstar-hd.json](./57060-santa-rockstar-hd.json) |
 | Santa Rockstar: Steam Edition | 90562 | [90562-santa-rockstar-steam-edition.json](./90562-santa-rockstar-steam-edition.json) |
 | Santa Run | 281527 | [281527-santa-run.json](./281527-santa-run.json) |
+| Santa Run | 76475 | [76475-santa-run.json](./76475-santa-run.json) |
 | Santa Runner | 111687 | [111687-santa-runner.json](./111687-santa-runner.json) |
 | Santa Scramble | 206664 | [206664-santa-scramble.json](./206664-santa-scramble.json) |
 | Santa Showdown | 141898 | [141898-santa-showdown.json](./141898-santa-showdown.json) |
@@ -4634,6 +4635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Warriors | 6878 | [6878-shadow-warriors.json](./6878-shadow-warriors.json) |
 | Shadow Wars | 98553 | [98553-shadow-wars.json](./98553-shadow-wars.json) |
 | Shadow Wolf Mysteries: Bane of the Family | 139734 | [139734-shadow-wolf-mysteries-bane-of-the-family.json](./139734-shadow-wolf-mysteries-bane-of-the-family.json) |
+| Shadow Wolf Mysteries: Bane of the Family - Collector's Edition | 76479 | [76479-shadow-wolf-mysteries-bane-of-the-family-collectors-edition.json](./76479-shadow-wolf-mysteries-bane-of-the-family-collectors-edition.json) |
 | Shadow Wolf Mysteries: Curse of the Full Moon | 139737 | [139737-shadow-wolf-mysteries-curse-of-the-full-moon.json](./139737-shadow-wolf-mysteries-curse-of-the-full-moon.json) |
 | Shadow Wolf Mysteries: Curse of the Full Moon - Collector's Edition | 36461 | [36461-shadow-wolf-mysteries-curse-of-the-full-moon-collectors-edition.json](./36461-shadow-wolf-mysteries-curse-of-the-full-moon-collectors-edition.json) |
 | Shadow Wolf Mysteries: Curse of Wolfhill | 89816 | [89816-shadow-wolf-mysteries-curse-of-wolfhill.json](./89816-shadow-wolf-mysteries-curse-of-wolfhill.json) |
@@ -5940,6 +5942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiver: Poltergeist | 139739 | [139739-shiver-poltergeist.json](./139739-shiver-poltergeist.json) |
 | Shiver: Poltergeist - Collector's Edition | 30895 | [30895-shiver-poltergeist-collectors-edition.json](./30895-shiver-poltergeist-collectors-edition.json) |
 | Shiver: The Lily's Requiem | 139740 | [139740-shiver-the-lilys-requiem.json](./139740-shiver-the-lilys-requiem.json) |
+| Shiver: Vanishing Hitchhiker | 76451 | [76451-shiver-vanishing-hitchhiker.json](./76451-shiver-vanishing-hitchhiker.json) |
 | Shiver: Vanishing Hitchhiker - Collector's Edition | 32791 | [32791-shiver-vanishing-hitchhiker-collectors-edition.json](./32791-shiver-vanishing-hitchhiker-collectors-edition.json) |
 | Shivering Hearts | 135786 | [135786-shivering-hearts.json](./135786-shivering-hearts.json) |
 | Shivering Stone | 274484 | [274484-shivering-stone.json](./274484-shivering-stone.json) |
@@ -7183,6 +7186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Valley | 267976 | [267976-silver-valley.json](./267976-silver-valley.json) |
 | Silver Vault | 164066 | [164066-silver-vault.json](./164066-silver-vault.json) |
 | Silver Wire | 205033 | [205033-silver-wire.json](./205033-silver-wire.json) |
+| Silverball | 76466 | [76466-silverball.json](./76466-silverball.json) |
 | SilverDollar | 101525 | [101525-silverdollar.json](./101525-silverdollar.json) |
 | Silverfall | 15718 | [15718-silverfall.json](./15718-silverfall.json) |
 | SilverFrame | 110100 | [110100-silverframe.json](./110100-silverframe.json) |
@@ -16777,6 +16781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfighter 77 | 138810 | [138810-starfighter-77.json](./138810-starfighter-77.json) |
 | Starfighter Galaxy Defender VR | 175209 | [175209-starfighter-galaxy-defender-vr.json](./175209-starfighter-galaxy-defender-vr.json) |
 | Starfighter Inc. | 56301 | [56301-starfighter-inc.json](./56301-starfighter-inc.json) |
+| Starfighter Neon | 76442 | [76442-starfighter-neon.json](./76442-starfighter-neon.json) |
 | Starfighter Origins | 28262 | [28262-starfighter-origins.json](./28262-starfighter-origins.json) |
 | Starfighter Overkill | 261160 | [261160-starfighter-overkill.json](./261160-starfighter-overkill.json) |
 | StarFighter R&D HD Edition | 134689 | [134689-starfighter-r-and-d-hd-edition.json](./134689-starfighter-r-and-d-hd-edition.json) |
@@ -17086,6 +17091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starry Sky: After Summer Portable | 202825 | [202825-starry-sky-after-summer-portable.json](./202825-starry-sky-after-summer-portable.json) |
 | Starry Sky: After Winter | 203794 | [203794-starry-sky-after-winter.json](./203794-starry-sky-after-winter.json) |
 | Starry Sky: After Winter Portable | 203813 | [203813-starry-sky-after-winter-portable.json](./203813-starry-sky-after-winter-portable.json) |
+| Starry Sky: In Spring | 76449 | [76449-starry-sky-in-spring.json](./76449-starry-sky-in-spring.json) |
 | Starry Sky: in Spring 3D | 201302 | [201302-starry-sky-in-spring-3d.json](./201302-starry-sky-in-spring-3d.json) |
 | Starry Sky: in Summer | 202820 | [202820-starry-sky-in-summer.json](./202820-starry-sky-in-summer.json) |
 | Starry Sky: in Summer 3D | 202823 | [202823-starry-sky-in-summer-3d.json](./202823-starry-sky-in-summer-3d.json) |
@@ -23297,6 +23303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sveerz Deluxe | 78378 | [78378-sveerz-deluxe.json](./78378-sveerz-deluxe.json) |
 | Sven Bømwøllen | 93079 | [93079-sven-b-mw-llen.json](./93079-sven-b-mw-llen.json) |
 | Sven Gordan Paranormal Parody | 326800 | [326800-sven-gordan-paranormal-parody.json](./326800-sven-gordan-paranormal-parody.json) |
+| Sven kommt! | 76471 | [76471-sven-kommt.json](./76471-sven-kommt.json) |
 | Sven Osterpaket | 85982 | [85982-sven-osterpaket.json](./85982-sven-osterpaket.json) |
 | Sven Rescues a Princess | 415195 | [415195-sven-rescues-a-princess.json](./415195-sven-rescues-a-princess.json) |
 | Sven Zwø | 84126 | [84126-sven-zw.json](./84126-sven-zw.json) |
