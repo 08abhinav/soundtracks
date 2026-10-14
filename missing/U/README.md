@@ -1068,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undelve | 406050 | [406050-undelve.json](./406050-undelve.json) |
 | Undemon | 182363 | [182363-undemon.json](./182363-undemon.json) |
 | Under | 233136 | [233136-under.json](./233136-under.json) |
+| Under a Caustic Snow, I Danced | 129503 | [129503-under-a-caustic-snow-i-danced.json](./129503-under-a-caustic-snow-i-danced.json) |
 | Under a Desert Sun: Seekers of the Cursed Vessel | 372637 | [372637-under-a-desert-sun-seekers-of-the-cursed-vessel.json](./372637-under-a-desert-sun-seekers-of-the-cursed-vessel.json) |
 | Under a Freezing Sea | 143362 | [143362-under-a-freezing-sea.json](./143362-under-a-freezing-sea.json) |
 | Under a Rock | 211912 | [211912-under-a-rock.json](./211912-under-a-rock.json) |
