@@ -1216,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Cid | 13629 | [13629-el-cid.json](./13629-el-cid.json) |
 | El Coco | 353884 | [353884-el-coco.json](./353884-el-coco.json) |
 | El Conquista | 362410 | [362410-el-conquista.json](./362410-el-conquista.json) |
+| El crítico | 115413 | [115413-el-critico.json](./115413-el-critico.json) |
 | El cuerpo humano con Pipo | 294587 | [294587-el-cuerpo-humano-con-pipo.json](./294587-el-cuerpo-humano-con-pipo.json) |
 | El Dios de Nauru | 321014 | [321014-el-dios-de-nauru.json](./321014-el-dios-de-nauru.json) |
 | El Dorado | 214994 | [214994-el-dorado.json](./214994-el-dorado.json) |
@@ -1331,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldrian Legacy | 109524 | [109524-eldrian-legacy.json](./109524-eldrian-legacy.json) |
 | Eldritch | 8070 | [8070-eldritch.json](./8070-eldritch.json) |
 | Eldritch 2 | 342674 | [342674-eldritch-2.json](./342674-eldritch-2.json) |
+| Eldritch Academy | 115404 | [115404-eldritch-academy.json](./115404-eldritch-academy.json) |
 | Eldritch Bulwark | 351180 | [351180-eldritch-bulwark.json](./351180-eldritch-bulwark.json) |
 | Eldritch Cards: The Lovecraftian Dungeon Crawler Game | 413600 | [413600-eldritch-cards-the-lovecraftian-dungeon-crawler-game.json](./413600-eldritch-cards-the-lovecraftian-dungeon-crawler-game.json) |
 | Eldritch Empathy | 314356 | [314356-eldritch-empathy.json](./314356-eldritch-empathy.json) |
@@ -3378,6 +3380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Flea Market Montgomery | 276930 | [276930-escape-from-flea-market-montgomery.json](./276930-escape-from-flea-market-montgomery.json) |
 | Escape from Fools | 112968 | [112968-escape-from-fools.json](./112968-escape-from-fools.json) |
 | Escape From Forest | 147633 | [147633-escape-from-forest.json](./147633-escape-from-forest.json) |
+| Escape from Fortress Lugohm | 115502 | [115502-escape-from-fortress-lugohm.json](./115502-escape-from-fortress-lugohm.json) |
 | Escape from Frankenstein's Castle | 213598 | [213598-escape-from-frankensteins-castle.json](./213598-escape-from-frankensteins-castle.json) |
 | Escape from Garbage House | 249894 | [249894-escape-from-garbage-house.json](./249894-escape-from-garbage-house.json) |
 | Escape from Ghosts | 385314 | [385314-escape-from-ghosts.json](./385314-escape-from-ghosts.json) |
@@ -3724,6 +3727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EscapeeZ | 117783 | [117783-escapeez.json](./117783-escapeez.json) |
 | Escapeland | 264714 | [264714-escapeland.json](./264714-escapeland.json) |
 | Escapepion | 221079 | [221079-escapepion.json](./221079-escapepion.json) |
+| EscapeRoute | 115507 | [115507-escaperoute.json](./115507-escaperoute.json) |
 | Escapers | 210853 | [210853-escapers.json](./210853-escapers.json) |
 | EscapeTrick: 35 Fateful Enigmas | 85120 | [85120-escapetrick-35-fateful-enigmas.json](./85120-escapetrick-35-fateful-enigmas.json) |
 | EscapeVr | 343762 | [343762-escapevr.json](./343762-escapevr.json) |
@@ -5286,6 +5290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extraneum | 178441 | [178441-extraneum.json](./178441-extraneum.json) |
 | Extraordinary Ball | 368605 | [368605-extraordinary-ball.json](./368605-extraordinary-ball.json) |
 | Extraordinary Detective Marshall | 299728 | [299728-extraordinary-detective-marshall.json](./299728-extraordinary-detective-marshall.json) |
+| Extraordinary Ones | 115391 | [115391-extraordinary-ones.json](./115391-extraordinary-ones.json) |
 | Extraordinary: Immortal | 276134 | [276134-extraordinary-immortal.json](./276134-extraordinary-immortal.json) |
 | Extrapower Attack of Darkforce | 191751 | [191751-extrapower-attack-of-darkforce.json](./191751-extrapower-attack-of-darkforce.json) |
 | Extrapower Giant Fist | 191749 | [191749-extrapower-giant-fist.json](./191749-extrapower-giant-fist.json) |
