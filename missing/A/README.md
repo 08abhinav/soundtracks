@@ -10859,7 +10859,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Ryza 3: Endless Summer Splash! Costume Set | 242543 | [242543-atelier-ryza-3-endless-summer-splash-costume-set.json](./242543-atelier-ryza-3-endless-summer-splash-costume-set.json) |
 | Atelier Ryza 3: Summer Look Costume Set | 242544 | [242544-atelier-ryza-3-summer-look-costume-set.json](./242544-atelier-ryza-3-summer-look-costume-set.json) |
 | Atelier Ryza Secret Trilogy Deluxe Pack | 354258 | [354258-atelier-ryza-secret-trilogy-deluxe-pack.json](./354258-atelier-ryza-secret-trilogy-deluxe-pack.json) |
-| Atelier Ryza: Ever Darkness & the Secret Hideout | 119061 | [119061-atelier-ryza-ever-darkness-and-the-secret-hideout.json](./119061-atelier-ryza-ever-darkness-and-the-secret-hideout.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout - "Ever Summer Queen & the Secret Island" | 168939 | [168939-atelier-ryza-ever-darkness-and-the-secret-hideout-ever-summer-queen-and-the-secret-island.json](./168939-atelier-ryza-ever-darkness-and-the-secret-hideout-ever-summer-queen-and-the-secret-island.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout - "Secret Solitary Island" | 168942 | [168942-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json](./168942-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout - "The End of an Adventure and Beyond" | 168943 | [168943-atelier-ryza-ever-darkness-and-the-secret-hideout-the-end-of-an-adventure-and-beyond.json](./168943-atelier-ryza-ever-darkness-and-the-secret-hideout-the-end-of-an-adventure-and-beyond.json) |
@@ -11016,6 +11015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AtomHex | 67943 | [67943-atomhex.json](./67943-atomhex.json) |
 | Atomic | 324958 | [324958-atomic.json](./324958-atomic.json) |
 | Atomic 79 | 30119 | [30119-atomic-79.json](./30119-atomic-79.json) |
+| Atomic Adam: Episode 1 | 79801 | [79801-atomic-adam-episode-1.json](./79801-atomic-adam-episode-1.json) |
 | Atomic Betty 2 | 202191 | [202191-atomic-betty-2.json](./202191-atomic-betty-2.json) |
 | Atomic Betty: Intergalactic Conspiracy | 205892 | [205892-atomic-betty-intergalactic-conspiracy.json](./205892-atomic-betty-intergalactic-conspiracy.json) |
 | Atomic Blast | 242418 | [242418-atomic-blast.json](./242418-atomic-blast.json) |
