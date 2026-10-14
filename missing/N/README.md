@@ -1606,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Boost | 117682 | [117682-neon-boost.json](./117682-neon-boost.json) |
 | Neon Brood | 99599 | [99599-neon-brood.json](./99599-neon-brood.json) |
 | Neon Cat Tickler | 116792 | [116792-neon-cat-tickler.json](./116792-neon-cat-tickler.json) |
+| Neon Caves | 116193 | [116193-neon-caves.json](./116193-neon-caves.json) |
 | Neon Chaku | 413500 | [413500-neon-chaku.json](./413500-neon-chaku.json) |
 | Neon Chrome | 18954 | [18954-neon-chrome.json](./18954-neon-chrome.json) |
 | Neon Chrome: Arena | 155075 | [155075-neon-chrome-arena.json](./155075-neon-chrome-arena.json) |
@@ -2791,6 +2792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Call: Deluxe Edition | 124794 | [124794-night-call-deluxe-edition.json](./124794-night-call-deluxe-edition.json) |
 | Night Cart: The Immortal Plague | 413880 | [413880-night-cart-the-immortal-plague.json](./413880-night-cart-the-immortal-plague.json) |
 | Night Castle | 216988 | [216988-night-castle.json](./216988-night-castle.json) |
+| Night Catcher | 116079 | [116079-night-catcher.json](./116079-night-catcher.json) |
 | Night City | 293654 | [293654-night-city.json](./293654-night-city.json) |
 | Night City | 57600 | [57600-night-city.json](./57600-night-city.json) |
 | Night City Tokyo Drift: Clumsy Ninja Chasing Cars | 102752 | [102752-night-city-tokyo-drift-clumsy-ninja-chasing-cars.json](./102752-night-city-tokyo-drift-clumsy-ninja-chasing-cars.json) |
@@ -3214,6 +3216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nihongo DX7 | 392407 | [392407-nihongo-dx7.json](./392407-nihongo-dx7.json) |
 | Nihongo Quest: N5 | 143704 | [143704-nihongo-quest-n5.json](./143704-nihongo-quest-n5.json) |
 | Nihongo School | 257106 | [257106-nihongo-school.json](./257106-nihongo-school.json) |
+| NiHonGoToKi | 116088 | [116088-nihongotoki.json](./116088-nihongotoki.json) |
 | Niiikotopia: Sky Fall | 191169 | [191169-niiikotopia-sky-fall.json](./191169-niiikotopia-sky-fall.json) |
 | Niizuma wa Sailor Fuku | 72717 | [72717-niizuma-wa-sailor-fuku.json](./72717-niizuma-wa-sailor-fuku.json) |
 | Niji Protocol | 384710 | [384710-niji-protocol.json](./384710-niji-protocol.json) |
@@ -3289,6 +3292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nimpize Adventure | 135170 | [135170-nimpize-adventure.json](./135170-nimpize-adventure.json) |
 | Nimrods | 249914 | [249914-nimrods.json](./249914-nimrods.json) |
 | Nin Online | 96688 | [96688-nin-online.json](./96688-nin-online.json) |
+| Nin! Nin! Ninja!!! | 116214 | [116214-nin-nin-ninja.json](./116214-nin-nin-ninja.json) |
 | Nina & Yuri | 316365 | [316365-nina-and-yuri.json](./316365-nina-and-yuri.json) |
 | Nina Aquila: Legal Eagle | 134657 | [134657-nina-aquila-legal-eagle.json](./134657-nina-aquila-legal-eagle.json) |
 | Nina Aquila: Legal Eagle, Chapter II - Broken Wings | 134658 | [134658-nina-aquila-legal-eagle-chapter-ii-broken-wings.json](./134658-nina-aquila-legal-eagle-chapter-ii-broken-wings.json) |
@@ -5005,7 +5009,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numb3r Catch3r | 256164 | [256164-numb3r-catch3r.json](./256164-numb3r-catch3r.json) |
 | Numbako | 419190 | [419190-numbako.json](./419190-numbako.json) |
 | Numbala | 111453 | [111453-numbala.json](./111453-numbala.json) |
-| Number 1! | 405429 | [405429-number-1.json](./405429-number-1.json) |
 | Number 7 | 291000 | [291000-number-7.json](./291000-number-7.json) |
 | Number 99 | 221095 | [221095-number-99.json](./221095-number-99.json) |
 | Number Chain - Logic Puzzle | 96048 | [96048-number-chain-logic-puzzle.json](./96048-number-chain-logic-puzzle.json) |
