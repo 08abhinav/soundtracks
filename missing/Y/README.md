@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yellow: The Yellow Artifact | 32437 | [32437-yellow-the-yellow-artifact.json](./32437-yellow-the-yellow-artifact.json) |
 | YellowDream | 134484 | [134484-yellowdream.json](./134484-yellowdream.json) |
 | YellowPips | 384185 | [384185-yellowpips.json](./384185-yellowpips.json) |
+| Yellowtoy | 118116 | [118116-yellowtoy.json](./118116-yellowtoy.json) |
 | Yemita | 183306 | [183306-yemita.json](./183306-yemita.json) |
 | Yemon | 107928 | [107928-yemon.json](./107928-yemon.json) |
 | Yenemy | 248728 | [248728-yenemy.json](./248728-yenemy.json) |
@@ -427,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yin-Yang Ping-Pong | 309883 | [309883-yin-yang-ping-pong.json](./309883-yin-yang-ping-pong.json) |
 | Yin-Yang Ping-Pong: Supporter Pack | 312029 | [312029-yin-yang-ping-pong-supporter-pack.json](./312029-yin-yang-ping-pong-supporter-pack.json) |
 | Yìnéng Chóngzǔ | 373704 | [373704-yineng-chongzu.json](./373704-yineng-chongzu.json) |
+| Yīngxióng Qúnxiá Zhuàn | 120088 | [120088-yingxiong-qunxia-zhuan.json](./120088-yingxiong-qunxia-zhuan.json) |
 | Yīngxióng Qúnxiá Zhuàn II | 120390 | [120390-yingxiong-qunxia-zhuan-ii.json](./120390-yingxiong-qunxia-zhuan-ii.json) |
 | Yīngxióng Tánshuō X: Guīlái | 156641 | [156641-yingxiong-tanshuo-x-guilai.json](./156641-yingxiong-tanshuo-x-guilai.json) |
 | Yīngyǔ Shā | 164237 | [164237-yingyu-sha.json](./164237-yingyu-sha.json) |
@@ -820,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Must Escape 2 | 71197 | [71197-you-must-escape-2.json](./71197-you-must-escape-2.json) |
 | You need to Buy a Phone Charger | 361338 | [361338-you-need-to-buy-a-phone-charger.json](./361338-you-need-to-buy-a-phone-charger.json) |
 | You Need to Summon a Demon | 419868 | [419868-you-need-to-summon-a-demon.json](./419868-you-need-to-summon-a-demon.json) |
+| You Never Listen | 123909 | [123909-you-never-listen.json](./123909-you-never-listen.json) |
 | You Only Live Once | 212697 | [212697-you-only-live-once.json](./212697-you-only-live-once.json) |
 | You Only Livez Twice | 124250 | [124250-you-only-livez-twice.json](./124250-you-only-livez-twice.json) |
 | You Picked the Wrong Castle | 366116 | [366116-you-picked-the-wrong-castle.json](./366116-you-picked-the-wrong-castle.json) |
@@ -977,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Party Died Again | 404990 | [404990-your-party-died-again.json](./404990-your-party-died-again.json) |
 | Your Personal Chill Apartment | 199365 | [199365-your-personal-chill-apartment.json](./199365-your-personal-chill-apartment.json) |
 | Your Principal | 126596 | [126596-your-principal.json](./126596-your-principal.json) |
+| Your Quest 2 | 128287 | [128287-your-quest-2.json](./128287-your-quest-2.json) |
 | Your Riding School | 149004 | [149004-your-riding-school.json](./149004-your-riding-school.json) |
 | Your Roar | 179559 | [179559-your-roar.json](./179559-your-roar.json) |
 | Your Shape Featuring Jenny McCarthy | 50679 | [50679-your-shape-featuring-jenny-mccarthy.json](./50679-your-shape-featuring-jenny-mccarthy.json) |
@@ -1417,6 +1421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuugen Mikaidou Tanteisha 1-Shou | 221260 | [221260-yuugen-mikaidou-tanteisha-1-shou.json](./221260-yuugen-mikaidou-tanteisha-1-shou.json) |
 | Yuujou no Victory Goal: 4v4 Arashi - Get the Goal‼ | 353873 | [353873-yuujou-no-victory-goal-4v4-arashi-get-the-goal.json](./353873-yuujou-no-victory-goal-4v4-arashi-get-the-goal.json) |
 | Yuuka's Mansion | 247574 | [247574-yuukas-mansion.json](./247574-yuukas-mansion.json) |
+| Yuuki | 123921 | [123921-yuuki.json](./123921-yuuki.json) |
 | Yuuki no Suiri Nori | 222252 | [222252-yuuki-no-suiri-nori.json](./222252-yuuki-no-suiri-nori.json) |
 | Yuuki no Suiri Nori 3: Balance no Ii Shokuji | 251624 | [251624-yuuki-no-suiri-nori-3-balance-no-ii-shokuji.json](./251624-yuuki-no-suiri-nori-3-balance-no-ii-shokuji.json) |
 | Yuuki Yuuna ha Yuusha de Aru: Gyoki Danshou | 364577 | [364577-yuuki-yuuna-ha-yuusha-de-aru-gyoki-danshou.json](./364577-yuuki-yuuna-ha-yuusha-de-aru-gyoki-danshou.json) |
