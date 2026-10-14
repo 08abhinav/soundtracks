@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painting VR | 159090 | [159090-painting-vr.json](./159090-painting-vr.json) |
 | Painting VR: Cozy Cabin | 305541 | [305541-painting-vr-cozy-cabin.json](./305541-painting-vr-cozy-cabin.json) |
 | Painting Werther | 156725 | [156725-painting-werther.json](./156725-painting-werther.json) |
+| Painting With Tito | 89803 | [89803-painting-with-tito.json](./89803-painting-with-tito.json) |
 | Paintings Restoration | 329576 | [329576-paintings-restoration.json](./329576-paintings-restoration.json) |
 | PaintPool | 334754 | [334754-paintpool.json](./334754-paintpool.json) |
 | Painturio | 188609 | [188609-painturio.json](./188609-painturio.json) |
@@ -3921,6 +3922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piano Keys | 205646 | [205646-piano-keys.json](./205646-piano-keys.json) |
 | Piano Magic 2018 Music Tiles 2 | 88903 | [88903-piano-magic-2018-music-tiles-2.json](./88903-piano-magic-2018-music-tiles-2.json) |
 | Piano Monsters | 175373 | [175373-piano-monsters.json](./175373-piano-monsters.json) |
+| Piano Notes! | 89811 | [89811-piano-notes.json](./89811-piano-notes.json) |
 | Piano Play 3D | 99031 | [99031-piano-play-3d.json](./99031-piano-play-3d.json) |
 | Piano Simulator | 98323 | [98323-piano-simulator.json](./98323-piano-simulator.json) |
 | Piano Star! | 108266 | [108266-piano-star.json](./108266-piano-star.json) |
@@ -11631,6 +11633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pup Boy Cowboy: Infinite Desert Edition | 410443 | [410443-pup-boy-cowboy-infinite-desert-edition.json](./410443-pup-boy-cowboy-infinite-desert-edition.json) |
 | Pup Breeder | 165411 | [165411-pup-breeder.json](./165411-pup-breeder.json) |
 | Pup Panick! | 318697 | [318697-pup-panick.json](./318697-pup-panick.json) |
+| Pup Rummy | 89818 | [89818-pup-rummy.json](./89818-pup-rummy.json) |
 | Pupa | 310221 | [310221-pupa.json](./310221-pupa.json) |
 | PuPaiPo Space Deluxe | 126969 | [126969-pupaipo-space-deluxe.json](./126969-pupaipo-space-deluxe.json) |
 | Pupil: Wandering VR | 117834 | [117834-pupil-wandering-vr.json](./117834-pupil-wandering-vr.json) |
