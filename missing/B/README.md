@@ -2262,6 +2262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman Beyond: Return of the Joker | 248765 | [248765-batman-beyond-return-of-the-joker.json](./248765-batman-beyond-return-of-the-joker.json) |
 | Batman Doom | 138788 | [138788-batman-doom.json](./138788-batman-doom.json) |
 | Batman Forever | 20809 | [20809-batman-forever.json](./20809-batman-forever.json) |
+| Batman Forever | 77237 | [77237-batman-forever.json](./77237-batman-forever.json) |
 | Batman Forever | 7769 | [7769-batman-forever.json](./7769-batman-forever.json) |
 | Batman Forever: The Arcade Game | 45202 | [45202-batman-forever-the-arcade-game.json](./45202-batman-forever-the-arcade-game.json) |
 | Batman Returns | 200153 | [200153-batman-returns.json](./200153-batman-returns.json) |
@@ -5679,6 +5680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birthplace of Ossian | 26862 | [26862-birthplace-of-ossian.json](./26862-birthplace-of-ossian.json) |
 | Birthright | 156029 | [156029-birthright.json](./156029-birthright.json) |
 | Birthright Cataclysm: Overture | 171595 | [171595-birthright-cataclysm-overture.json](./171595-birthright-cataclysm-overture.json) |
+| Birthright: The Gorgon's Alliance | 77191 | [77191-birthright-the-gorgons-alliance.json](./77191-birthright-the-gorgons-alliance.json) |
 | Birthseederia | 30098 | [30098-birthseederia.json](./30098-birthseederia.json) |
 | Birushana Senki: Ichijuu no Kaze | 225540 | [225540-birushana-senki-ichijuu-no-kaze.json](./225540-birushana-senki-ichijuu-no-kaze.json) |
 | Birushana: Rising Flower of Genpei | 145094 | [145094-birushana-rising-flower-of-genpei.json](./145094-birushana-rising-flower-of-genpei.json) |
@@ -7074,6 +7076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Twist Challenge | 338250 | [338250-block-twist-challenge.json](./338250-block-twist-challenge.json) |
 | Block Warfare Zombies | 343814 | [343814-block-warfare-zombies.json](./343814-block-warfare-zombies.json) |
 | Block Warriors | 55236 | [55236-block-warriors.json](./55236-block-warriors.json) |
+| Block Wars | 77224 | [77224-block-wars.json](./77224-block-wars.json) |
 | Block x3 | 253013 | [253013-block-x3.json](./253013-block-x3.json) |
 | Block Yard | 175823 | [175823-block-yard.json](./175823-block-yard.json) |
 | Block_Up | 265408 | [265408-block-up.json](./265408-block-up.json) |
@@ -8091,6 +8094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BobSP Series | 272000 | [272000-bobsp-series.json](./272000-bobsp-series.json) |
 | Boby and the Witch | 406327 | [406327-boby-and-the-witch.json](./406327-boby-and-the-witch.json) |
 | BOC | 127030 | [127030-boc.json](./127030-boc.json) |
+| Bocce | 77184 | [77184-bocce.json](./77184-bocce.json) |
 | Bocce Beach | 30067 | [30067-bocce-beach.json](./30067-bocce-beach.json) |
 | Bocce Time! | 201570 | [201570-bocce-time.json](./201570-bocce-time.json) |
 | Bocce VR | 119786 | [119786-bocce-vr.json](./119786-bocce-vr.json) |
@@ -10320,6 +10324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrickArena | 100345 | [100345-brickarena.json](./100345-brickarena.json) |
 | BrickAttack | 76151 | [76151-brickattack.json](./76151-brickattack.json) |
 | BrickBounce | 273381 | [273381-brickbounce.json](./273381-brickbounce.json) |
+| Brickbuster | 77190 | [77190-brickbuster.json](./77190-brickbuster.json) |
 | BrickFall: Fun Game of Bricks | 97213 | [97213-brickfall-fun-game-of-bricks.json](./97213-brickfall-fun-game-of-bricks.json) |
 | BrickForce | 18991 | [18991-brickforce.json](./18991-brickforce.json) |
 | Brickhaven | 273380 | [273380-brickhaven.json](./273380-brickhaven.json) |
@@ -10436,6 +10441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bright Garden | 381957 | [381957-bright-garden.json](./381957-bright-garden.json) |
 | Bright Girl | 155017 | [155017-bright-girl.json](./155017-bright-girl.json) |
 | Bright Lancer | 141881 | [141881-bright-lancer.json](./141881-bright-lancer.json) |
+| Bright low | 77164 | [77164-bright-low.json](./77164-bright-low.json) |
 | Bright Memory Collection | 193752 | [193752-bright-memory-collection.json](./193752-bright-memory-collection.json) |
 | Bright Memory Mobile | 174688 | [174688-bright-memory-mobile.json](./174688-bright-memory-mobile.json) |
 | Bright Memory: Infinite | 113739 | [113739-bright-memory-infinite.json](./113739-bright-memory-infinite.json) |
