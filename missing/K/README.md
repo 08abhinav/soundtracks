@@ -2454,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirakira | 67630 | [67630-kirakira.json](./67630-kirakira.json) |
 | Kirakira Monstars | 182464 | [182464-kirakira-monstars.json](./182464-kirakira-monstars.json) |
 | Kirakira Slimes | 300408 | [300408-kirakira-slimes.json](./300408-kirakira-slimes.json) |
+| Kirakira Stars Idol Project Ai | 129493 | [129493-kirakira-stars-idol-project-ai.json](./129493-kirakira-stars-idol-project-ai.json) |
 | Kirakira Stars Idol Project Ai | 151604 | [151604-kirakira-stars-idol-project-ai.json](./151604-kirakira-stars-idol-project-ai.json) |
 | Kirakira Stars Idol Project Reika | 153830 | [153830-kirakira-stars-idol-project-reika.json](./153830-kirakira-stars-idol-project-reika.json) |
 | Kirari Nangoku Komugiiro: Shiofuki Paradise he Youkoso! | 194584 | [194584-kirari-nangoku-komugiiro-shiofuki-paradise-he-youkoso.json](./194584-kirari-nangoku-komugiiro-shiofuki-paradise-he-youkoso.json) |
