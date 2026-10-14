@@ -5904,6 +5904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digerati Presents: The Dungeon Crawl Vol. 1 | 147884 | [147884-digerati-presents-the-dungeon-crawl-vol-1.json](./147884-digerati-presents-the-dungeon-crawl-vol-1.json) |
 | Digfender | 109064 | [109064-digfender.json](./109064-digfender.json) |
 | Digger | 172721 | [172721-digger.json](./172721-digger.json) |
+| Digger Chan | 79147 | [79147-digger-chan.json](./79147-digger-chan.json) |
 | Digger Dan DX | 47662 | [47662-digger-dan-dx.json](./47662-digger-dan-dx.json) |
 | Digger Man | 39631 | [39631-digger-man.json](./39631-digger-man.json) |
 | Digger Online | 17084 | [17084-digger-online.json](./17084-digger-online.json) |
@@ -10822,6 +10823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dredge+ | 395816 | [395816-dredge.json](./395816-dredge.json) |
 | Dreeg | 357747 | [357747-dreeg.json](./357747-dreeg.json) |
 | Dreem Ascension | 393506 | [393506-dreem-ascension.json](./393506-dreem-ascension.json) |
+| Dreeps | 79115 | [79115-dreeps.json](./79115-dreeps.json) |
 | Dreggon | 183318 | [183318-dreggon.json](./183318-dreggon.json) |
 | DREGS | 409618 | [409618-dregs.json](./409618-dregs.json) |
 | Drehmal: Apotheosis | 336548 | [336548-drehmal-apotheosis.json](./336548-drehmal-apotheosis.json) |
