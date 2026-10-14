@@ -12023,6 +12023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azathoth-D: Youtou Saisoku Densetsu | 144954 | [144954-azathoth-d-youtou-saisoku-densetsu.json](./144954-azathoth-d-youtou-saisoku-densetsu.json) |
 | Azato Kawaii Ayase-chan! | 402458 | [402458-azato-kawaii-ayase-chan.json](./402458-azato-kawaii-ayase-chan.json) |
 | Azayaka na Irodori no Naka de Kimi Rashiku: Premium Edition | 212323 | [212323-azayaka-na-irodori-no-naka-de-kimi-rashiku-premium-edition.json](./212323-azayaka-na-irodori-no-naka-de-kimi-rashiku-premium-edition.json) |
+| Azayaka na Irodori no Naka de, Kimi Rashiku | 77869 | [77869-azayaka-na-irodori-no-naka-de-kimi-rashiku.json](./77869-azayaka-na-irodori-no-naka-de-kimi-rashiku.json) |
 | Azazel | 170020 | [170020-azazel.json](./170020-azazel.json) |
 | Azazel Gamble | 370284 | [370284-azazel-gamble.json](./370284-azazel-gamble.json) |
 | Azazel's Christmas Fable | 221174 | [221174-azazels-christmas-fable.json](./221174-azazels-christmas-fable.json) |
