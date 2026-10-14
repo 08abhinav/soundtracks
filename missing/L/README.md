@@ -3243,6 +3243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Up the Room | 161371 | [161371-light-up-the-room.json](./161371-light-up-the-room.json) |
 | Light Up The Sky | 275518 | [275518-light-up-the-sky.json](./275518-light-up-the-sky.json) |
 | Light Weaver | 183381 | [183381-light-weaver.json](./183381-light-weaver.json) |
+| Light x Shadow | 75671 | [75671-light-x-shadow.json](./75671-light-x-shadow.json) |
 | Light-Bot | 63577 | [63577-light-bot.json](./63577-light-bot.json) |
 | Light-Bringer | 360644 | [360644-light-bringer.json](./360644-light-bringer.json) |
 | Light-It Up | 266253 | [266253-light-it-up.json](./266253-light-it-up.json) |
