@@ -1187,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballz: The Director's Cut | 12303 | [12303-ballz-the-directors-cut.json](./12303-ballz-the-directors-cut.json) |
 | BallzOut | 147941 | [147941-ballzout.json](./147941-ballzout.json) |
 | Ballzy: PvP Block Puzzle | 416801 | [416801-ballzy-pvp-block-puzzle.json](./416801-ballzy-pvp-block-puzzle.json) |
+| Balmung Cycle Part I: The Messenger and the Heretic | 124537 | [124537-balmung-cycle-part-i-the-messenger-and-the-heretic.json](./124537-balmung-cycle-part-i-the-messenger-and-the-heretic.json) |
 | Balocks | 311754 | [311754-balocks.json](./311754-balocks.json) |
 | Baloo and the Big Blue | 296066 | [296066-baloo-and-the-big-blue.json](./296066-baloo-and-the-big-blue.json) |
 | Balorizon | 401632 | [401632-balorizon.json](./401632-balorizon.json) |
@@ -5140,6 +5141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billy | 126539 | [126539-billy.json](./126539-billy.json) |
 | Billy 101 | 192964 | [192964-billy-101.json](./192964-billy-101.json) |
 | Billy Bob's Huntin'-n-Fishin' | 49913 | [49913-billy-bobs-huntin-n-fishin.json](./49913-billy-bobs-huntin-n-fishin.json) |
+| Billy Bomber | 124521 | [124521-billy-bomber.json](./124521-billy-bomber.json) |
 | Billy Bonka | 195563 | [195563-billy-bonka.json](./195563-billy-bonka.json) |
 | Billy Boots' Treasure | 396548 | [396548-billy-boots-treasure.json](./396548-billy-boots-treasure.json) |
 | Billy Boy | 72130 | [72130-billy-boy.json](./72130-billy-boy.json) |
@@ -8788,6 +8790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Born to Fight | 269598 | [269598-born-to-fight.json](./269598-born-to-fight.json) |
 | Born to Rise | 256335 | [256335-born-to-rise.json](./256335-born-to-rise.json) |
 | Born to Rock | 60765 | [60765-born-to-rock.json](./60765-born-to-rock.json) |
+| Born Under the Rain | 124529 | [124529-born-under-the-rain.json](./124529-born-under-the-rain.json) |
 | Borneo: A Jungle Nightmare | 197906 | [197906-borneo-a-jungle-nightmare.json](./197906-borneo-a-jungle-nightmare.json) |
 | Börnies Journey | 164506 | [164506-bornies-journey.json](./164506-bornies-journey.json) |
 | Borobodur: The Planet of Doom | 14334 | [14334-borobodur-the-planet-of-doom.json](./14334-borobodur-the-planet-of-doom.json) |
@@ -11676,6 +11679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Vengeance | 241520 | [241520-burning-vengeance.json](./241520-burning-vengeance.json) |
 | Burning Wall | 281976 | [281976-burning-wall.json](./281976-burning-wall.json) |
 | Burning, Crackling | 396540 | [396540-burning-crackling.json](./396540-burning-crackling.json) |
+| Burning: Magical Sword | 124516 | [124516-burning-magical-sword.json](./124516-burning-magical-sword.json) |
 | BurningBridges VR | 93738 | [93738-burningbridges-vr.json](./93738-burningbridges-vr.json) |
 | Burnit Quest | 195178 | [195178-burnit-quest.json](./195178-burnit-quest.json) |
 | Burnogue | 377090 | [377090-burnogue.json](./377090-burnogue.json) |
