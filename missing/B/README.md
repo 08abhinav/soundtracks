@@ -3263,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach-Head II | 13389 | [13389-beach-head-ii.json](./13389-beach-head-ii.json) |
 | Beachcomber | 333945 | [333945-beachcomber.json](./333945-beachcomber.json) |
 | Beachcomber | 388924 | [388924-beachcomber.json](./388924-beachcomber.json) |
+| BeachCricket | 90523 | [90523-beachcricket.json](./90523-beachcricket.json) |
 | Beached | 169905 | [169905-beached.json](./169905-beached.json) |
 | Beached | 174101 | [174101-beached.json](./174101-beached.json) |
 | Beached II | 169906 | [169906-beached-ii.json](./169906-beached-ii.json) |
@@ -4285,6 +4286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Benighted | 226251 | [226251-benighted.json](./226251-benighted.json) |
 | Benign Land | 329137 | [329137-benign-land.json](./329137-benign-land.json) |
 | Benjamin Blümchen: Das Große Zoofest | 220789 | [220789-benjamin-blumchen-das-gro-e-zoofest.json](./220789-benjamin-blumchen-das-gro-e-zoofest.json) |
+| Benjamin Johnson | 90534 | [90534-benjamin-johnson.json](./90534-benjamin-johnson.json) |
 | Benjamin's Quest | 291161 | [291161-benjamins-quest.json](./291161-benjamins-quest.json) |
 | Benjamin's Revenge | 291157 | [291157-benjamins-revenge.json](./291157-benjamins-revenge.json) |
 | Benji and the Crystal of Light | 324325 | [324325-benji-and-the-crystal-of-light.json](./324325-benji-and-the-crystal-of-light.json) |
@@ -4548,6 +4550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beware of Falling Angels | 262982 | [262982-beware-of-falling-angels.json](./262982-beware-of-falling-angels.json) |
 | Beware of Light | 297355 | [297355-beware-of-light.json](./297355-beware-of-light.json) |
 | Beware of Space Dragons | 348423 | [348423-beware-of-space-dragons.json](./348423-beware-of-space-dragons.json) |
+| Beware of the Bad Seed | 90504 | [90504-beware-of-the-bad-seed.json](./90504-beware-of-the-bad-seed.json) |
 | Beware of the Blob | 137652 | [137652-beware-of-the-blob.json](./137652-beware-of-the-blob.json) |
 | Beware of Trains | 105583 | [105583-beware-of-trains.json](./105583-beware-of-trains.json) |
 | Beware the Bully Redux | 211451 | [211451-beware-the-bully-redux.json](./211451-beware-the-bully-redux.json) |
@@ -5493,6 +5496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biotopia | 258039 | [258039-biotopia.json](./258039-biotopia.json) |
 | Biotoxin | 271184 | [271184-biotoxin.json](./271184-biotoxin.json) |
 | Biotype | 403643 | [403643-biotype.json](./403643-biotype.json) |
+| Biozone | 90472 | [90472-biozone.json](./90472-biozone.json) |
 | Bip + Bop | 207024 | [207024-bip-bop.json](./207024-bip-bop.json) |
 | BipBop | 218644 | [218644-bipbop.json](./218644-bipbop.json) |
 | BipBop II | 73829 | [73829-bipbop-ii.json](./73829-bipbop-ii.json) |
