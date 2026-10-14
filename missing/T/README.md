@@ -15457,6 +15457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Crisis: Razing Storm | 20449 | [20449-time-crisis-razing-storm.json](./20449-time-crisis-razing-storm.json) |
 | Time Cruise | 66089 | [66089-time-cruise.json](./66089-time-cruise.json) |
 | Time Cruise II | 37654 | [37654-time-cruise-ii.json](./37654-time-cruise-ii.json) |
+| Time De Tour | 86757 | [86757-time-de-tour.json](./86757-time-de-tour.json) |
 | Time Diver: Eon Man | 48564 | [48564-time-diver-eon-man.json](./48564-time-diver-eon-man.json) |
 | Time Donkey | 219501 | [219501-time-donkey.json](./219501-time-donkey.json) |
 | Time Drive: Racing Destiny | 258029 | [258029-time-drive-racing-destiny.json](./258029-time-drive-racing-destiny.json) |
@@ -17810,6 +17811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch of Madness | 307880 | [307880-touch-of-madness.json](./307880-touch-of-madness.json) |
 | Touch Pets: Dogs | 67947 | [67947-touch-pets-dogs.json](./67947-touch-pets-dogs.json) |
 | Touch Point Tennis | 249248 | [249248-touch-point-tennis.json](./249248-touch-point-tennis.json) |
+| Touch Pong | 86712 | [86712-touch-pong.json](./86712-touch-pong.json) |
 | Touch Racing Nitro | 42843 | [42843-touch-racing-nitro.json](./42843-touch-racing-nitro.json) |
 | Touch Rummy HD | 96539 | [96539-touch-rummy-hd.json](./96539-touch-rummy-hd.json) |
 | Touch Selections | 57058 | [57058-touch-selections.json](./57058-touch-selections.json) |
@@ -18727,6 +18729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tracksuit Manager | 74027 | [74027-tracksuit-manager.json](./74027-tracksuit-manager.json) |
 | Tracktopia | 333628 | [333628-tracktopia.json](./333628-tracktopia.json) |
 | Tracky Train | 58241 | [58241-tracky-train.json](./58241-tracky-train.json) |
+| Tracon!2012:SE | 86735 | [86735-tracon-2012-se.json](./86735-tracon-2012-se.json) |
 | Tractage aux Portes 2: Mob a la Cafeteria | 120979 | [120979-tractage-aux-portes-2-mob-a-la-cafeteria.json](./120979-tractage-aux-portes-2-mob-a-la-cafeteria.json) |
 | Tractor Farmer | 86710 | [86710-tractor-farmer.json](./86710-tractor-farmer.json) |
 | Tractor Farming Simulator 3D | 300844 | [300844-tractor-farming-simulator-3d.json](./300844-tractor-farming-simulator-3d.json) |
