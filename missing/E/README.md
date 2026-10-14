@@ -5146,6 +5146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorcist Hotline | 399270 | [399270-exorcist-hotline.json](./399270-exorcist-hotline.json) |
 | Exorcist II | 209181 | [209181-exorcist-ii.json](./209181-exorcist-ii.json) |
 | Exorcist Onmyoji | 304875 | [304875-exorcist-onmyoji.json](./304875-exorcist-onmyoji.json) |
+| Exorcist Shrine Maiden Miharu: The Licentious Journal of her Captive Violation | 82696 | [82696-exorcist-shrine-maiden-miharu-the-licentious-journal-of-her-captive-violation.json](./82696-exorcist-shrine-maiden-miharu-the-licentious-journal-of-her-captive-violation.json) |
 | Exorcist Simulator | 259005 | [259005-exorcist-simulator.json](./259005-exorcist-simulator.json) |
 | Exorcizamuste | 258537 | [258537-exorcizamuste.json](./258537-exorcizamuste.json) |
 | Exorder | 69440 | [69440-exorder.json](./69440-exorder.json) |
