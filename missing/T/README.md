@@ -3911,6 +3911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Adventures of ANSI Dude | 79231 | [79231-the-amazing-adventures-of-ansi-dude.json](./79231-the-amazing-adventures-of-ansi-dude.json) |
 | The Amazing American Circus: The Ringmaster's Edition | 159701 | [159701-the-amazing-american-circus-the-ringmasters-edition.json](./159701-the-amazing-american-circus-the-ringmasters-edition.json) |
 | The Amazing Ball | 159555 | [159555-the-amazing-ball.json](./159555-the-amazing-ball.json) |
+| The Amazing Bernard | 96657 | [96657-the-amazing-bernard.json](./96657-the-amazing-bernard.json) |
 | The Amazing Brain Train! | 21379 | [21379-the-amazing-brain-train.json](./21379-the-amazing-brain-train.json) |
 | The Amazing Dare Dozen | 241471 | [241471-the-amazing-dare-dozen.json](./241471-the-amazing-dare-dozen.json) |
 | The Amazing Eternals | 31189 | [31189-the-amazing-eternals.json](./31189-the-amazing-eternals.json) |
@@ -4739,6 +4740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Captcha Game | 281405 | [281405-the-captcha-game.json](./281405-the-captcha-game.json) |
 | The Captive | 362814 | [362814-the-captive.json](./362814-the-captive.json) |
 | The Captives: Plot of the Demiurge | 90137 | [90137-the-captives-plot-of-the-demiurge.json](./90137-the-captives-plot-of-the-demiurge.json) |
+| The Capture Worlds | 96635 | [96635-the-capture-worlds.json](./96635-the-capture-worlds.json) |
 | The Capybara P | 219049 | [219049-the-capybara-p.json](./219049-the-capybara-p.json) |
 | The Carcass | 386476 | [386476-the-carcass.json](./386476-the-carcass.json) |
 | The Card Battle: Eternal Destiny | 173121 | [173121-the-card-battle-eternal-destiny.json](./173121-the-card-battle-eternal-destiny.json) |
@@ -5536,6 +5538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deep Lost | 195576 | [195576-the-deep-lost.json](./195576-the-deep-lost.json) |
 | The Deep Ones | 246118 | [246118-the-deep-ones.json](./246118-the-deep-ones.json) |
 | The Deep Paths: Labyrinth of Andokost | 35088 | [35088-the-deep-paths-labyrinth-of-andokost.json](./35088-the-deep-paths-labyrinth-of-andokost.json) |
+| The Deep Pinball | 96598 | [96598-the-deep-pinball.json](./96598-the-deep-pinball.json) |
 | The Deep Waits | 414545 | [414545-the-deep-waits.json](./414545-the-deep-waits.json) |
 | The Deep: Ushinawareta Shinkai | 410223 | [410223-the-deep-ushinawareta-shinkai.json](./410223-the-deep-ushinawareta-shinkai.json) |
 | The Deepening: Eco-Offensive | 155992 | [155992-the-deepening-eco-offensive.json](./155992-the-deepening-eco-offensive.json) |
@@ -6939,6 +6942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Greater | 301342 | [301342-the-greater.json](./301342-the-greater.json) |
 | The Greatest Chef | 322098 | [322098-the-greatest-chef.json](./322098-the-greatest-chef.json) |
 | The Greatest Game in the World | 182975 | [182975-the-greatest-game-in-the-world.json](./182975-the-greatest-game-in-the-world.json) |
+| The Greedy MaxCoon | 96658 | [96658-the-greedy-maxcoon.json](./96658-the-greedy-maxcoon.json) |
 | The Green Book | 311569 | [311569-the-green-book.json](./311569-the-green-book.json) |
 | The Green Hook Fighter | 377075 | [377075-the-green-hook-fighter.json](./377075-the-green-hook-fighter.json) |
 | The Green Light | 211743 | [211743-the-green-light.json](./211743-the-green-light.json) |
@@ -10082,6 +10086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Preservation Project | 204415 | [204415-the-preservation-project.json](./204415-the-preservation-project.json) |
 | The President | 200476 | [200476-the-president.json](./200476-the-president.json) |
 | The President | 209640 | [209640-the-president.json](./209640-the-president.json) |
+| The President | 96645 | [96645-the-president.json](./96645-the-president.json) |
 | The Presidential Assassins | 345004 | [345004-the-presidential-assassins.json](./345004-the-presidential-assassins.json) |
 | The Presidential Turnabout | 290304 | [290304-the-presidential-turnabout.json](./290304-the-presidential-turnabout.json) |
 | The Pressure of Ambition | 352376 | [352376-the-pressure-of-ambition.json](./352376-the-pressure-of-ambition.json) |
@@ -15516,6 +15521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Secret 2: Time Tunnel | 91458 | [91458-time-secret-2-time-tunnel.json](./91458-time-secret-2-time-tunnel.json) |
 | Time Sensitive Investigation | 345572 | [345572-time-sensitive-investigation.json](./345572-time-sensitive-investigation.json) |
 | Time Shared | 276720 | [276720-time-shared.json](./276720-time-shared.json) |
+| Time Skip | 96615 | [96615-time-skip.json](./96615-time-skip.json) |
 | Time Sliper | 346788 | [346788-time-sliper.json](./346788-time-sliper.json) |
 | Time Snatcher Handy | 372632 | [372632-time-snatcher-handy.json](./372632-time-snatcher-handy.json) |
 | Time Soul | 321630 | [321630-time-soul.json](./321630-time-soul.json) |
@@ -18839,6 +18845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Driver Journey 2 - Iberia Interior | 88222 | [88222-train-driver-journey-2-iberia-interior.json](./88222-train-driver-journey-2-iberia-interior.json) |
 | Train Driver Journey 3 - Waldabavale to Karrah Bay | 100617 | [100617-train-driver-journey-3-waldabavale-to-karrah-bay.json](./100617-train-driver-journey-3-waldabavale-to-karrah-bay.json) |
 | Train Driver Journey 4 - Introduction to Steam | 86881 | [86881-train-driver-journey-4-introduction-to-steam.json](./86881-train-driver-journey-4-introduction-to-steam.json) |
+| Train Driver Journey 7 - Rosworth Vale | 96597 | [96597-train-driver-journey-7-rosworth-vale.json](./96597-train-driver-journey-7-rosworth-vale.json) |
 | Train Empire | 219498 | [219498-train-empire.json](./219498-train-empire.json) |
 | Train Escape: Hidden Adventure | 104777 | [104777-train-escape-hidden-adventure.json](./104777-train-escape-hidden-adventure.json) |
 | Train Fever: USA | 238506 | [238506-train-fever-usa.json](./238506-train-fever-usa.json) |
