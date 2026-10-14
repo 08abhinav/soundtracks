@@ -695,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhadnost: The People's Party | 4298 | [4298-zhadnost-the-peoples-party.json](./4298-zhadnost-the-peoples-party.json) |
 | Zhàn jiǎ Online | 368360 | [368360-zhan-jia-online.json](./368360-zhan-jia-online.json) |
 | Zhànchǎng Yīngxióng Wùyǔ | 130192 | [130192-zhanchang-yingxiong-wuyu.json](./130192-zhanchang-yingxiong-wuyu.json) |
+| ZhanDou | 84138 | [84138-zhandou.json](./84138-zhandou.json) |
 | Zhǎng Fěn Èrwéimǎ | 165762 | [165762-zhang-fen-erweima.json](./165762-zhang-fen-erweima.json) |
 | Zhànshén Qīpò | 130915 | [130915-zhanshen-qipo.json](./130915-zhanshen-qipo.json) |
 | Zhèn Xié | 375425 | [375425-zhen-xie.json](./375425-zhen-xie.json) |
