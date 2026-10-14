@@ -3854,6 +3854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PhotoWorld | 209966 | [209966-photoworld.json](./209966-photoworld.json) |
 | Phrase Craze Plus | 229804 | [229804-phrase-craze-plus.json](./229804-phrase-craze-plus.json) |
 | Phrase Frenzy - Catch It! | 108598 | [108598-phrase-frenzy-catch-it.json](./108598-phrase-frenzy-catch-it.json) |
+| Phrase Party! | 95916 | [95916-phrase-party.json](./95916-phrase-party.json) |
 | Phrase Passport Japan A Travel Japanese Quiz | 407270 | [407270-phrase-passport-japan-a-travel-japanese-quiz.json](./407270-phrase-passport-japan-a-travel-japanese-quiz.json) |
 | Phrasefight | 106115 | [106115-phrasefight.json](./106115-phrasefight.json) |
 | Phraze Craze | 307911 | [307911-phraze-craze.json](./307911-phraze-craze.json) |
@@ -4076,6 +4077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picoware | 279711 | [279711-picoware.json](./279711-picoware.json) |
 | Picowars | 184630 | [184630-picowars.json](./184630-picowars.json) |
 | PicPu | 175358 | [175358-picpu.json](./175358-picpu.json) |
+| PicRoad - Pixel art puzzle | 95943 | [95943-picroad-pixel-art-puzzle.json](./95943-picroad-pixel-art-puzzle.json) |
 | Picronix 2 | 390503 | [390503-picronix-2.json](./390503-picronix-2.json) |
 | Picross | 311698 | [311698-picross.json](./311698-picross.json) |
 | PiCross | 228399 | [228399-picross.json](./228399-picross.json) |
@@ -5844,6 +5846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixels | 237448 | [237448-pixels.json](./237448-pixels.json) |
 | Pixels | 265566 | [265566-pixels.json](./265566-pixels.json) |
 | Pixels Defense | 60003 | [60003-pixels-defense.json](./60003-pixels-defense.json) |
+| Pixels Filling Squares 3.0 | 95944 | [95944-pixels-filling-squares-3-0.json](./95944-pixels-filling-squares-3-0.json) |
 | Pixels filling Squares DX | 101729 | [101729-pixels-filling-squares-dx.json](./101729-pixels-filling-squares-dx.json) |
 | Pixels Guide to Staying Dead | 109771 | [109771-pixels-guide-to-staying-dead.json](./109771-pixels-guide-to-staying-dead.json) |
 | Pixels N Pistols | 246950 | [246950-pixels-n-pistols.json](./246950-pixels-n-pistols.json) |
@@ -7901,6 +7904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Car: Gangster Chase | 233471 | [233471-police-car-gangster-chase.json](./233471-police-car-gangster-chase.json) |
 | Police Chase | 157550 | [157550-police-chase.json](./157550-police-chase.json) |
 | Police Chase Crime: Racing Car | 107672 | [107672-police-chase-crime-racing-car.json](./107672-police-chase-crime-racing-car.json) |
+| Police Chase: Big City Race | 95913 | [95913-police-chase-big-city-race.json](./95913-police-chase-big-city-race.json) |
 | Police Chopper | 87917 | [87917-police-chopper.json](./87917-police-chopper.json) |
 | Police Cop Hot Pursuit | 256758 | [256758-police-cop-hot-pursuit.json](./256758-police-cop-hot-pursuit.json) |
 | Police Detective: Tokyo Beat | 381362 | [381362-police-detective-tokyo-beat.json](./381362-police-detective-tokyo-beat.json) |
