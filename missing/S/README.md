@@ -2945,6 +2945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Dreamer | 245994 | [245994-second-dreamer.json](./245994-second-dreamer.json) |
 | Second Final | 120381 | [120381-second-final.json](./120381-second-final.json) |
 | Second Galaxy | 120308 | [120308-second-galaxy.json](./120308-second-galaxy.json) |
+| Second Grade Learning Games | 89083 | [89083-second-grade-learning-games.json](./89083-second-grade-learning-games.json) |
 | Second Hazardous Course | 105158 | [105158-second-hazardous-course.json](./105158-second-hazardous-course.json) |
 | Second Humanity | 391869 | [391869-second-humanity.json](./391869-second-humanity.json) |
 | Second Novel: Kanojo no Natsu, 15fun no Kioku | 138805 | [138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json](./138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json) |
@@ -7917,6 +7918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate Wars | 15368 | [15368-skate-wars.json](./15368-skate-wars.json) |
 | Skateball | 45329 | [45329-skateball.json](./45329-skateball.json) |
 | Skatebird | 111813 | [111813-skatebird.json](./111813-skatebird.json) |
+| Skateboard | 89059 | [89059-skateboard.json](./89059-skateboard.json) |
 | Skateboard 3D - Skater Die Hard Skate Boarding Game | 98901 | [98901-skateboard-3d-skater-die-hard-skate-boarding-game.json](./98901-skateboard-3d-skater-die-hard-skate-boarding-game.json) |
 | Skateboard Crazy | 57599 | [57599-skateboard-crazy.json](./57599-skateboard-crazy.json) |
 | Skateboard Drifting Simulator with Maxwell Cat: The Game | 259231 | [259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json](./259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json) |
@@ -13657,6 +13659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spades HD | 355000 | [355000-spades-hd.json](./355000-spades-hd.json) |
 | Spades Pro | 86691 | [86691-spades-pro.json](./86691-spades-pro.json) |
 | Spades+ | 279708 | [279708-spades.json](./279708-spades.json) |
+| Spades++ | 89124 | [89124-spades.json](./89124-spades.json) |
 | Spadyssey | 93736 | [93736-spadyssey.json](./93736-spadyssey.json) |
 | Spaghet | 96652 | [96652-spaghet.json](./96652-spaghet.json) |
 | Spaghet 2: Al Dente Chapter | 168862 | [168862-spaghet-2-al-dente-chapter.json](./168862-spaghet-2-al-dente-chapter.json) |
@@ -15164,6 +15167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot the Difference 3D | 365000 | [365000-spot-the-difference-3d.json](./365000-spot-the-difference-3d.json) |
 | Spot The Difference: Christmas Edition | 322074 | [322074-spot-the-difference-christmas-edition.json](./322074-spot-the-difference-christmas-edition.json) |
 | Spot The Difference: Classic Finding Puzzle | 324123 | [324123-spot-the-difference-classic-finding-puzzle.json](./324123-spot-the-difference-classic-finding-puzzle.json) |
+| Spot the Difference: Two Player Edition | 89080 | [89080-spot-the-difference-two-player-edition.json](./89080-spot-the-difference-two-player-edition.json) |
 | Spot the Difference: Ukiyo-e Thirty-six Views of Mt. Fuji | 316242 | [316242-spot-the-difference-ukiyo-e-thirty-six-views-of-mt-fuji.json](./316242-spot-the-difference-ukiyo-e-thirty-six-views-of-mt-fuji.json) |
 | Spot the Differences | 44502 | [44502-spot-the-differences.json](./44502-spot-the-differences.json) |
 | Spot The Differences 2020 | 284338 | [284338-spot-the-differences-2020.json](./284338-spot-the-differences-2020.json) |
@@ -19595,6 +19599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku | 86387 | [86387-sudoku.json](./86387-sudoku.json) |
 | Sudoku | 86840 | [86840-sudoku.json](./86840-sudoku.json) |
 | Sudoku - Classic Logic Game | 88778 | [88778-sudoku-classic-logic-game.json](./88778-sudoku-classic-logic-game.json) |
+| Sudoku - Premium Number Puzzle | 89125 | [89125-sudoku-premium-number-puzzle.json](./89125-sudoku-premium-number-puzzle.json) |
 | SuDoku & KaKuro Collector's Edition | 208360 | [208360-sudoku-and-kakuro-collectors-edition.json](./208360-sudoku-and-kakuro-collectors-edition.json) |
 | Sudoku & Kakuro Mania Unlimited | 208361 | [208361-sudoku-and-kakuro-mania-unlimited.json](./208361-sudoku-and-kakuro-mania-unlimited.json) |
 | Sudoku ++ | 102746 | [102746-sudoku.json](./102746-sudoku.json) |
