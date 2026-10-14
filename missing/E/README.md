@@ -1890,6 +1890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ember the Werefox | 264696 | [264696-ember-the-werefox.json](./264696-ember-the-werefox.json) |
 | Ember's Verge | 324303 | [324303-embers-verge.json](./324303-embers-verge.json) |
 | Emberance | 309627 | [309627-emberance.json](./309627-emberance.json) |
+| Emberdoom VR | 106476 | [106476-emberdoom-vr.json](./106476-emberdoom-vr.json) |
 | Emberdrift | 290952 | [290952-emberdrift.json](./290952-emberdrift.json) |
 | Emberfall | 326838 | [326838-emberfall.json](./326838-emberfall.json) |
 | Emberfly | 336013 | [336013-emberfly.json](./336013-emberfly.json) |
