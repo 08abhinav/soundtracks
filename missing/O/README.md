@@ -1473,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Bear Army | 272275 | [272275-one-bear-army.json](./272275-one-bear-army.json) |
 | One Beat Min | 222827 | [222827-one-beat-min.json](./222827-one-beat-min.json) |
 | One Bit | 48007 | [48007-one-bit.json](./48007-one-bit.json) |
+| One Bit Arena | 86762 | [86762-one-bit-arena.json](./86762-one-bit-arena.json) |
 | One Bullet - Flip the gun | 103553 | [103553-one-bullet-flip-the-gun.json](./103553-one-bullet-flip-the-gun.json) |
 | One Bullet left | 28888 | [28888-one-bullet-left.json](./28888-one-bullet-left.json) |
 | One Button Defense | 365252 | [365252-one-button-defense.json](./365252-one-button-defense.json) |
@@ -3765,6 +3766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overgun | 285447 | [285447-overgun.json](./285447-overgun.json) |
 | Overhatched | 410321 | [410321-overhatched.json](./410321-overhatched.json) |
 | Overhead | 402256 | [402256-overhead.json](./402256-overhead.json) |
+| Overhead | 86745 | [86745-overhead.json](./86745-overhead.json) |
 | Overhead Kick | 248319 | [248319-overhead-kick.json](./248319-overhead-kick.json) |
 | Overheat: Kitchen Chaos | 324134 | [324134-overheat-kitchen-chaos.json](./324134-overheat-kitchen-chaos.json) |
 | Overhills | 279108 | [279108-overhills.json](./279108-overhills.json) |
