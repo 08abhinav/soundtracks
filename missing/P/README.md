@@ -325,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pack Per Duck | 157092 | [157092-pack-per-duck.json](./157092-pack-per-duck.json) |
 | Pack Powersports | 112892 | [112892-pack-powersports.json](./112892-pack-powersports.json) |
 | Package chaos | 411698 | [411698-package-chaos.json](./411698-package-chaos.json) |
+| Package Handler VR | 112173 | [112173-package-handler-vr.json](./112173-package-handler-vr.json) |
 | Package Inspector | 195697 | [195697-package-inspector.json](./195697-package-inspector.json) |
 | Package Man | 131395 | [131395-package-man.json](./131395-package-man.json) |
 | Package Runner | 260615 | [260615-package-runner.json](./260615-package-runner.json) |
@@ -4263,6 +4264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigmentum | 29695 | [29695-pigmentum.json](./29695-pigmentum.json) |
 | Pignator | 244137 | [244137-pignator.json](./244137-pignator.json) |
 | Pigromance | 141202 | [141202-pigromance.json](./141202-pigromance.json) |
+| Pigs a Pop'n | 112208 | [112208-pigs-a-popn.json](./112208-pigs-a-popn.json) |
 | Pigs Can Fly | 265736 | [265736-pigs-can-fly.json](./265736-pigs-can-fly.json) |
 | Pigsaw | 177269 | [177269-pigsaw.json](./177269-pigsaw.json) |
 | Pigsaw: Human Abattoir | 272381 | [272381-pigsaw-human-abattoir.json](./272381-pigsaw-human-abattoir.json) |
@@ -11525,6 +11527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punkgrad | 165743 | [165743-punkgrad.json](./165743-punkgrad.json) |
 | Punks Not Dead | 83938 | [83938-punks-not-dead.json](./83938-punks-not-dead.json) |
 | Punky Skunk | 44881 | [44881-punky-skunk.json](./44881-punky-skunk.json) |
+| Punlock | 112167 | [112167-punlock.json](./112167-punlock.json) |
 | PunPics | 233217 | [233217-punpics.json](./233217-punpics.json) |
 | Punt | 239675 | [239675-punt.json](./239675-punt.json) |
 | Punt | 363301 | [363301-punt.json](./363301-punt.json) |
@@ -11791,6 +11794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PushOver | 267436 | [267436-pushover.json](./267436-pushover.json) |
 | Pushpully | 261222 | [261222-pushpully.json](./261222-pushpully.json) |
 | Pushy | 354009 | [354009-pushy.json](./354009-pushy.json) |
+| Pushy & Pully in Blockland | 112107 | [112107-pushy-and-pully-in-blockland.json](./112107-pushy-and-pully-in-blockland.json) |
 | Pushy II | 295992 | [295992-pushy-ii.json](./295992-pushy-ii.json) |
 | Pushy Worm | 189004 | [189004-pushy-worm.json](./189004-pushy-worm.json) |
 | Pusoy Go | 386225 | [386225-pusoy-go.json](./386225-pusoy-go.json) |
