@@ -5617,6 +5617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey Space | 44174 | [44174-hockey-space.json](./44174-hockey-space.json) |
 | Hockey Stars | 238931 | [238931-hockey-stars.json](./238931-hockey-stars.json) |
 | Hockey Super Squad | 321537 | [321537-hockey-super-squad.json](./321537-hockey-super-squad.json) |
+| Hockey Trivia | 100702 | [100702-hockey-trivia.json](./100702-hockey-trivia.json) |
 | Hockey VR | 175154 | [175154-hockey-vr.json](./175154-hockey-vr.json) |
 | Hockey: Strategy of Success | 115690 | [115690-hockey-strategy-of-success.json](./115690-hockey-strategy-of-success.json) |
 | Hockeysplit | 128976 | [128976-hockeysplit.json](./128976-hockeysplit.json) |
@@ -6713,6 +6714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse | 114273 | [114273-horse.json](./114273-horse.json) |
 | Horse & Horse | 401802 | [401802-horse-and-horse.json](./401802-horse-and-horse.json) |
 | Horse 2 | 339396 | [339396-horse-2.json](./339396-horse-2.json) |
+| Horse Blocks - Puzzle Games | 100719 | [100719-horse-blocks-puzzle-games.json](./100719-horse-blocks-puzzle-games.json) |
 | Horse Club Adventures 2: Gold Edition | 252625 | [252625-horse-club-adventures-2-gold-edition.json](./252625-horse-club-adventures-2-gold-edition.json) |
 | Horse Club Adventures 2: Hazelwood Stories | 210914 | [210914-horse-club-adventures-2-hazelwood-stories.json](./210914-horse-club-adventures-2-hazelwood-stories.json) |
 | Horse Club Adventures 2: Secrets of Skeifa | 252624 | [252624-horse-club-adventures-2-secrets-of-skeifa.json](./252624-horse-club-adventures-2-secrets-of-skeifa.json) |
@@ -6782,6 +6784,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshi Ori Yume Mirai: Converted Edition | 136791 | [136791-hoshi-ori-yume-mirai-converted-edition.json](./136791-hoshi-ori-yume-mirai-converted-edition.json) |
 | Hoshi Ori Yume Mirai: Perfect Edition | 150036 | [150036-hoshi-ori-yume-mirai-perfect-edition.json](./150036-hoshi-ori-yume-mirai-perfect-edition.json) |
 | Hoshi Ori Yume Mirai: Rikka to Anata no 1-Shuunen Kinen, Icha Love Birthday | 408145 | [408145-hoshi-ori-yume-mirai-rikka-to-anata-no-1-shuunen-kinen-icha-love-birthday.json](./408145-hoshi-ori-yume-mirai-rikka-to-anata-no-1-shuunen-kinen-icha-love-birthday.json) |
+| Hoshi Saga | 100678 | [100678-hoshi-saga.json](./100678-hoshi-saga.json) |
+| Hoshi Saga 2 | 100679 | [100679-hoshi-saga-2.json](./100679-hoshi-saga-2.json) |
 | Hoshi Saga 3 | 377220 | [377220-hoshi-saga-3.json](./377220-hoshi-saga-3.json) |
 | Hoshi Saga 5: Ringoame | 377262 | [377262-hoshi-saga-5-ringoame.json](./377262-hoshi-saga-5-ringoame.json) |
 | Hoshi Saga 6: Ringoen | 377712 | [377712-hoshi-saga-6-ringoen.json](./377712-hoshi-saga-6-ringoen.json) |
