@@ -2851,6 +2851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marippy | 310649 | [310649-marippy.json](./310649-marippy.json) |
 | Marisa Matrix | 227906 | [227906-marisa-matrix.json](./227906-marisa-matrix.json) |
 | Marisa no Kagi | 216288 | [216288-marisa-no-kagi.json](./216288-marisa-no-kagi.json) |
+| Marisa to 6tsu no Kinoko: New Super Marisa Land | 94145 | [94145-marisa-to-6tsu-no-kinoko-new-super-marisa-land.json](./94145-marisa-to-6tsu-no-kinoko-new-super-marisa-land.json) |
 | Marisa's Inconceivable Journey | 190946 | [190946-marisas-inconceivable-journey.json](./190946-marisas-inconceivable-journey.json) |
 | Marisa's Marvelous Magic Shop | 126940 | [126940-marisas-marvelous-magic-shop.json](./126940-marisas-marvelous-magic-shop.json) |
 | Marissa Is Now Idle | 215222 | [215222-marissa-is-now-idle.json](./215222-marissa-is-now-idle.json) |
@@ -3964,6 +3965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mave's Castle | 415323 | [415323-maves-castle.json](./415323-maves-castle.json) |
 | Maveldor: Saga of the Twin Mirrors | 250941 | [250941-maveldor-saga-of-the-twin-mirrors.json](./250941-maveldor-saga-of-the-twin-mirrors.json) |
 | Maven | 92856 | [92856-maven.json](./92856-maven.json) |
+| Maverick | 94121 | [94121-maverick.json](./94121-maverick.json) |
 | Maverick Bird | 62172 | [62172-maverick-bird.json](./62172-maverick-bird.json) |
 | Maverick Gunn and the Eye of Oggun | 170347 | [170347-maverick-gunn-and-the-eye-of-oggun.json](./170347-maverick-gunn-and-the-eye-of-oggun.json) |
 | Maverick Hunter | 291917 | [291917-maverick-hunter.json](./291917-maverick-hunter.json) |
