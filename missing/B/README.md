@@ -1387,6 +1387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang-On Balls: Chronicles - Deluxe Edition | 288284 | [288284-bang-on-balls-chronicles-deluxe-edition.json](./288284-bang-on-balls-chronicles-deluxe-edition.json) |
 | Bang! Bang! Totally Accurate Redneck Simulator | 138808 | [138808-bang-bang-totally-accurate-redneck-simulator.json](./138808-bang-bang-totally-accurate-redneck-simulator.json) |
 | Bangai-O | 3443 | [3443-bangai-o.json](./3443-bangai-o.json) |
+| Bangai-O HD: Missile Fury | 91845 | [91845-bangai-o-hd-missile-fury.json](./91845-bangai-o-hd-missile-fury.json) |
 | BangBang PewPew | 193484 | [193484-bangbang-pewpew.json](./193484-bangbang-pewpew.json) |
 | BangBangShooting | 151141 | [151141-bangbangshooting.json](./151141-bangbangshooting.json) |
 | Bangers Unlimited 2 | 107006 | [107006-bangers-unlimited-2.json](./107006-bangers-unlimited-2.json) |
@@ -2507,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Gear | 286626 | [286626-battle-gear.json](./286626-battle-gear.json) |
 | Battle Gear 2 | 286627 | [286627-battle-gear-2.json](./286627-battle-gear-2.json) |
 | Battle Gear 3 | 286628 | [286628-battle-gear-3.json](./286628-battle-gear-3.json) |
+| Battle Gear 3 | 91877 | [91877-battle-gear-3.json](./91877-battle-gear-3.json) |
 | Battle Gear 4 | 64964 | [64964-battle-gear-4.json](./64964-battle-gear-4.json) |
 | Battle Gem Ponies | 183573 | [183573-battle-gem-ponies.json](./183573-battle-gem-ponies.json) |
 | Battle Girls | 34405 | [34405-battle-girls.json](./34405-battle-girls.json) |
@@ -4983,6 +4985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Names Bonanza | 19683 | [19683-big-names-bonanza.json](./19683-big-names-bonanza.json) |
 | Big Nose and the Witchdoctor | 233993 | [233993-big-nose-and-the-witchdoctor.json](./233993-big-nose-and-the-witchdoctor.json) |
 | Big Nose Freaks Out | 48105 | [48105-big-nose-freaks-out.json](./48105-big-nose-freaks-out.json) |
+| Big Oil | 91864 | [91864-big-oil.json](./91864-big-oil.json) |
 | Big Ol' Bass 2 | 43921 | [43921-big-ol-bass-2.json](./43921-big-ol-bass-2.json) |
 | Big Orbit | 308450 | [308450-big-orbit.json](./308450-big-orbit.json) |
 | Big Pharma: Marketing and Malpractice | 154418 | [154418-big-pharma-marketing-and-malpractice.json](./154418-big-pharma-marketing-and-malpractice.json) |
@@ -12067,6 +12070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterflies: Episode 1 - Rudies | 134666 | [134666-butterflies-episode-1-rudies.json](./134666-butterflies-episode-1-rudies.json) |
 | ButterFlight | 98934 | [98934-butterflight.json](./98934-butterflight.json) |
 | Butterflowers | 186180 | [186180-butterflowers.json](./186180-butterflowers.json) |
+| Butterfly | 91835 | [91835-butterfly.json](./91835-butterfly.json) |
 | Butterfly 2 | 117550 | [117550-butterfly-2.json](./117550-butterfly-2.json) |
 | Butterfly 3: Funny Twins | 153340 | [153340-butterfly-3-funny-twins.json](./153340-butterfly-3-funny-twins.json) |
 | Butterfly Æffect: Papillons à Quatre Mains | 381148 | [381148-butterfly-ffect-papillons-a-quatre-mains.json](./381148-butterfly-ffect-papillons-a-quatre-mains.json) |
