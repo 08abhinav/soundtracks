@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacapong | 176335 | [176335-pacapong.json](./176335-pacapong.json) |
 | Pacar | 6122 | [6122-pacar.json](./6122-pacar.json) |
 | Paccie | 241879 | [241879-paccie.json](./241879-paccie.json) |
+| Pace Car Pro | 110853 | [110853-pace-car-pro.json](./110853-pace-car-pro.json) |
 | Pacebreaker: An Experiment in AI-Perfected Exercise | 208343 | [208343-pacebreaker-an-experiment-in-ai-perfected-exercise.json](./208343-pacebreaker-an-experiment-in-ai-perfected-exercise.json) |
 | Pacewar | 322776 | [322776-pacewar.json](./322776-pacewar.json) |
 | PachaMama | 186272 | [186272-pachamama.json](./186272-pachamama.json) |
@@ -5453,6 +5454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Pro Winter Sports | 243175 | [243175-pixel-pro-winter-sports.json](./243175-pixel-pro-winter-sports.json) |
 | Pixel Punk | 252275 | [252275-pixel-punk.json](./252275-pixel-punk.json) |
 | Pixel Push Football | 240868 | [240868-pixel-push-football.json](./240868-pixel-push-football.json) |
+| Pixel Puzzle Collection | 110865 | [110865-pixel-puzzle-collection.json](./110865-pixel-puzzle-collection.json) |
 | Pixel Puzzle Makeout League | 121603 | [121603-pixel-puzzle-makeout-league.json](./121603-pixel-puzzle-makeout-league.json) |
 | Pixel Puzzles | 243639 | [243639-pixel-puzzles.json](./243639-pixel-puzzles.json) |
 | Pixel Puzzles 2: Christmas | 112743 | [112743-pixel-puzzles-2-christmas.json](./112743-pixel-puzzles-2-christmas.json) |
@@ -6088,6 +6090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Coaster: Spooky Pack | 100303 | [100303-planet-coaster-spooky-pack.json](./100303-planet-coaster-spooky-pack.json) |
 | Planet Coaster: Studios Pack | 100304 | [100304-planet-coaster-studios-pack.json](./100304-planet-coaster-studios-pack.json) |
 | Planet Coaster: The Munsters Munster Koach Construction Kit | 168242 | [168242-planet-coaster-the-munsters-munster-koach-construction-kit.json](./168242-planet-coaster-the-munsters-munster-koach-construction-kit.json) |
+| Planet Coaster: World's Fair Pack | 110841 | [110841-planet-coaster-worlds-fair-pack.json](./110841-planet-coaster-worlds-fair-pack.json) |
 | Planet Collectors: Episode Earth | 193423 | [193423-planet-collectors-episode-earth.json](./193423-planet-collectors-episode-earth.json) |
 | Planet Collision | 229178 | [229178-planet-collision.json](./229178-planet-collision.json) |
 | Planet Commander: Space Action | 249665 | [249665-planet-commander-space-action.json](./249665-planet-commander-space-action.json) |
@@ -10115,6 +10118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Producer (2021) | 154283 | [154283-producer-2021.json](./154283-producer-2021.json) |
 | Producer Tycoon | 244319 | [244319-producer-tycoon.json](./244319-producer-tycoon.json) |
 | Production Line: Doors that go like this | 124782 | [124782-production-line-doors-that-go-like-this.json](./124782-production-line-doors-that-go-like-this.json) |
+| Proelium | 110745 | [110745-proelium.json](./110745-proelium.json) |
 | Prof. Miyamoto's Soroban & Flash Anzan | 244825 | [244825-prof-miyamotos-soroban-and-flash-anzan.json](./244825-prof-miyamotos-soroban-and-flash-anzan.json) |
 | Profanation | 304127 | [304127-profanation.json](./304127-profanation.json) |
 | Profane | 57196 | [57196-profane.json](./57196-profane.json) |
@@ -11728,6 +11732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purry & Panther: Lost in Helsinki | 304646 | [304646-purry-and-panther-lost-in-helsinki.json](./304646-purry-and-panther-lost-in-helsinki.json) |
 | Pursuer | 115577 | [115577-pursuer.json](./115577-pursuer.json) |
 | Pursuing Susie | 84534 | [84534-pursuing-susie.json](./84534-pursuing-susie.json) |
+| Pursuit | 110850 | [110850-pursuit.json](./110850-pursuit.json) |
 | Pursuit Force: Extreme Justice | 299391 | [299391-pursuit-force-extreme-justice.json](./299391-pursuit-force-extreme-justice.json) |
 | Pursuit of Laughter | 291900 | [291900-pursuit-of-laughter.json](./291900-pursuit-of-laughter.json) |
 | Pursuit of Light | 104272 | [104272-pursuit-of-light.json](./104272-pursuit-of-light.json) |
