@@ -1675,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo Bridge | 233767 | [233767-cargo-bridge.json](./233767-cargo-bridge.json) |
 | Cargo Bridge 2 | 197233 | [197233-cargo-bridge-2.json](./197233-cargo-bridge-2.json) |
 | Cargo Company | 148504 | [148504-cargo-company.json](./148504-cargo-company.json) |
+| Cargo Cult | 111539 | [111539-cargo-cult.json](./111539-cargo-cult.json) |
 | Cargo Cult: Shoot'n'Loot VR | 30258 | [30258-cargo-cult-shootnloot-vr.json](./30258-cargo-cult-shootnloot-vr.json) |
 | Cargo Hunters | 313453 | [313453-cargo-hunters.json](./313453-cargo-hunters.json) |
 | Cargo King | 344440 | [344440-cargo-king.json](./344440-cargo-king.json) |
@@ -1704,6 +1705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caring Critter Bundle | 328565 | [328565-caring-critter-bundle.json](./328565-caring-critter-bundle.json) |
 | Cario | 220341 | [220341-cario.json](./220341-cario.json) |
 | Carious Weltling | 354450 | [354450-carious-weltling.json](./354450-carious-weltling.json) |
+| Carious Weltling II | 111553 | [111553-carious-weltling-ii.json](./111553-carious-weltling-ii.json) |
 | CarJacker: Hotwired and Gone! | 66365 | [66365-carjacker-hotwired-and-gone.json](./66365-carjacker-hotwired-and-gone.json) |
 | Carl | 176233 | [176233-carl.json](./176233-carl.json) |
 | Carl Currency, Expert Exchanger | 229345 | [229345-carl-currency-expert-exchanger.json](./229345-carl-currency-expert-exchanger.json) |
@@ -9684,6 +9686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupt | 67916 | [67916-corrupt.json](./67916-corrupt.json) |
 | Corrupt Life | 98457 | [98457-corrupt-life.json](./98457-corrupt-life.json) |
 | Corrupt Political | 219302 | [219302-corrupt-political.json](./219302-corrupt-political.json) |
+| Corrupt The Priest | 111526 | [111526-corrupt-the-priest.json](./111526-corrupt-the-priest.json) |
 | Corrupt Them All: Tokyo Meow | 370577 | [370577-corrupt-them-all-tokyo-meow.json](./370577-corrupt-them-all-tokyo-meow.json) |
 | Corrupt.exe | 408850 | [408850-corrupt-exe.json](./408850-corrupt-exe.json) |
 | Corrupted | 251063 | [251063-corrupted.json](./251063-corrupted.json) |
@@ -9759,6 +9762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Cleaner | 261726 | [261726-cosmic-cleaner.json](./261726-cosmic-cleaner.json) |
 | Cosmic Cleaner | 380083 | [380083-cosmic-cleaner.json](./380083-cosmic-cleaner.json) |
 | Cosmic Coliseum | 223515 | [223515-cosmic-coliseum.json](./223515-cosmic-coliseum.json) |
+| Cosmic Collapse | 111567 | [111567-cosmic-collapse.json](./111567-cosmic-collapse.json) |
 | Cosmic Collapse | 275327 | [275327-cosmic-collapse.json](./275327-cosmic-collapse.json) |
 | Cosmic Commando | 60518 | [60518-cosmic-commando.json](./60518-cosmic-commando.json) |
 | Cosmic Commute | 229624 | [229624-cosmic-commute.json](./229624-cosmic-commute.json) |
