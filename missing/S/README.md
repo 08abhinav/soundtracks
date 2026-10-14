@@ -3046,6 +3046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of the Island: Escape | 315796 | [315796-secret-of-the-island-escape.json](./315796-secret-of-the-island-escape.json) |
 | Secret of the Lost Cavern | 107393 | [107393-secret-of-the-lost-cavern.json](./107393-secret-of-the-lost-cavern.json) |
 | Secret of the Magic Crystals | 10427 | [10427-secret-of-the-magic-crystals.json](./10427-secret-of-the-magic-crystals.json) |
+| Secret of the Pendulum: Premium Edition | 98900 | [98900-secret-of-the-pendulum-premium-edition.json](./98900-secret-of-the-pendulum-premium-edition.json) |
 | Secret of the Pharaohs | 41556 | [41556-secret-of-the-pharaohs.json](./41556-secret-of-the-pharaohs.json) |
 | Secret of the Royal Throne | 32913 | [32913-secret-of-the-royal-throne.json](./32913-secret-of-the-royal-throne.json) |
 | Secret of the Solstice | 307331 | [307331-secret-of-the-solstice.json](./307331-secret-of-the-solstice.json) |
@@ -3313,10 +3314,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages 2500 Vol. 1: Phantasy Star Generation - 1 | 43454 | [43454-sega-ages-2500-vol-1-phantasy-star-generation-1.json](./43454-sega-ages-2500-vol-1-phantasy-star-generation-1.json) |
 | Sega Ages 2500 Vol. 10: After Burner II | 64900 | [64900-sega-ages-2500-vol-10-after-burner-ii.json](./64900-sega-ages-2500-vol-10-after-burner-ii.json) |
 | Sega Ages 2500 Vol. 11: Hokuto no Ken | 100099 | [100099-sega-ages-2500-vol-11-hokuto-no-ken.json](./100099-sega-ages-2500-vol-11-hokuto-no-ken.json) |
+| Sega Ages 2500 Vol. 12: Puyo Puyo Tsuu Perfect Set | 98909 | [98909-sega-ages-2500-vol-12-puyo-puyo-tsuu-perfect-set.json](./98909-sega-ages-2500-vol-12-puyo-puyo-tsuu-perfect-set.json) |
 | Sega Ages 2500 Vol. 13: OutRun | 100024 | [100024-sega-ages-2500-vol-13-outrun.json](./100024-sega-ages-2500-vol-13-outrun.json) |
 | Sega Ages 2500 Vol. 14: Alien Syndrome | 100017 | [100017-sega-ages-2500-vol-14-alien-syndrome.json](./100017-sega-ages-2500-vol-14-alien-syndrome.json) |
 | Sega Ages 2500 Vol. 15: Decathlete Collection | 98926 | [98926-sega-ages-2500-vol-15-decathlete-collection.json](./98926-sega-ages-2500-vol-15-decathlete-collection.json) |
 | Sega Ages 2500 Vol. 16: Virtua Fighter 2 | 43206 | [43206-sega-ages-2500-vol-16-virtua-fighter-2.json](./43206-sega-ages-2500-vol-16-virtua-fighter-2.json) |
+| Sega Ages 2500 Vol. 2: Monaco GP | 98915 | [98915-sega-ages-2500-vol-2-monaco-gp.json](./98915-sega-ages-2500-vol-2-monaco-gp.json) |
 | Sega Ages 2500 Vol. 20: Space Harrier Complete Collection | 140407 | [140407-sega-ages-2500-vol-20-space-harrier-complete-collection.json](./140407-sega-ages-2500-vol-20-space-harrier-complete-collection.json) |
 | Sega Ages 2500 Vol. 21: SDI & Quartet - Sega System 16 Collection | 131265 | [131265-sega-ages-2500-vol-21-sdi-and-quartet-sega-system-16-collection.json](./131265-sega-ages-2500-vol-21-sdi-and-quartet-sega-system-16-collection.json) |
 | Sega Ages 2500 Vol. 23: Sega Memorial Selection | 69883 | [69883-sega-ages-2500-vol-23-sega-memorial-selection.json](./69883-sega-ages-2500-vol-23-sega-memorial-selection.json) |
@@ -7890,6 +7893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate Wars | 15368 | [15368-skate-wars.json](./15368-skate-wars.json) |
 | Skateball | 45329 | [45329-skateball.json](./45329-skateball.json) |
 | Skatebird | 111813 | [111813-skatebird.json](./111813-skatebird.json) |
+| Skateboard 3D - Skater Die Hard Skate Boarding Game | 98901 | [98901-skateboard-3d-skater-die-hard-skate-boarding-game.json](./98901-skateboard-3d-skater-die-hard-skate-boarding-game.json) |
 | Skateboard Crazy | 57599 | [57599-skateboard-crazy.json](./57599-skateboard-crazy.json) |
 | Skateboard Drifting Simulator with Maxwell Cat: The Game | 259231 | [259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json](./259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json) |
 | Skateboard Gravity | 289250 | [289250-skateboard-gravity.json](./289250-skateboard-gravity.json) |
@@ -8259,6 +8263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky City Rush | 364502 | [364502-sky-city-rush.json](./364502-sky-city-rush.json) |
 | Sky Clash: Lords of Clans 3D | 51563 | [51563-sky-clash-lords-of-clans-3d.json](./51563-sky-clash-lords-of-clans-3d.json) |
 | Sky Combat | 221358 | [221358-sky-combat.json](./221358-sky-combat.json) |
+| Sky Conqueror | 98897 | [98897-sky-conqueror.json](./98897-sky-conqueror.json) |
 | Sky Crew | 103888 | [103888-sky-crew.json](./103888-sky-crew.json) |
 | Sky Dancer | 80802 | [80802-sky-dancer.json](./80802-sky-dancer.json) |
 | Sky Dancer Run | 174755 | [174755-sky-dancer-run.json](./174755-sky-dancer-run.json) |
@@ -9212,8 +9217,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slots: Pharaoh's Way Casino | 232358 | [232358-slots-pharaohs-way-casino.json](./232358-slots-pharaohs-way-casino.json) |
 | SlotsNStocks | 399718 | [399718-slotsnstocks.json](./399718-slotsnstocks.json) |
 | Slotter Chou Mania: Antonio Inoki ga Genki ni Suru Pachi-Slot Ki | 77014 | [77014-slotter-chou-mania-antonio-inoki-ga-genki-ni-suru-pachi-slot-ki.json](./77014-slotter-chou-mania-antonio-inoki-ga-genki-ni-suru-pachi-slot-ki.json) |
+| Slotter Mania 2 | 98867 | [98867-slotter-mania-2.json](./98867-slotter-mania-2.json) |
+| Slotter Mania 3 | 98868 | [98868-slotter-mania-3.json](./98868-slotter-mania-3.json) |
+| Slotter Mania 7 | 98869 | [98869-slotter-mania-7.json](./98869-slotter-mania-7.json) |
 | Slotter Mania 8 | 78653 | [78653-slotter-mania-8.json](./78653-slotter-mania-8.json) |
+| Slotter Mania 9 | 98870 | [98870-slotter-mania-9.json](./98870-slotter-mania-9.json) |
+| Slotter Mania P: Mach Go Go Go III | 98874 | [98874-slotter-mania-p-mach-go-go-go-iii.json](./98874-slotter-mania-p-mach-go-go-go-iii.json) |
+| Slotter Mania P: SanSan HanaHana & SanSan Oasis | 98875 | [98875-slotter-mania-p-sansan-hanahana-and-sansan-oasis.json](./98875-slotter-mania-p-sansan-hanahana-and-sansan-oasis.json) |
 | Slotter Mania P: Tetsuya Shinjuku vs Ueno | 62738 | [62738-slotter-mania-p-tetsuya-shinjuku-vs-ueno.json](./62738-slotter-mania-p-tetsuya-shinjuku-vs-ueno.json) |
+| Slotter Mania: Core Tokonatsu no Netsusa! Oasis | 98871 | [98871-slotter-mania-core-tokonatsu-no-netsusa-oasis.json](./98871-slotter-mania-core-tokonatsu-no-netsusa-oasis.json) |
+| Slotter Mania: Gekinetsu Okisuro! Siosai Special | 98876 | [98876-slotter-mania-gekinetsu-okisuro-siosai-special.json](./98876-slotter-mania-gekinetsu-okisuro-siosai-special.json) |
 | Slotter Up Core 5 | 204223 | [204223-slotter-up-core-5.json](./204223-slotter-up-core-5.json) |
 | Slotter Up Core 6 | 204224 | [204224-slotter-up-core-6.json](./204224-slotter-up-core-6.json) |
 | Slotter Up Core 7: Dekitou da! Street Fighter II | 55060 | [55060-slotter-up-core-7-dekitou-da-street-fighter-ii.json](./55060-slotter-up-core-7-dekitou-da-street-fighter-ii.json) |
@@ -9831,6 +9844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake's Game | 57491 | [57491-snakes-game.json](./57491-snakes-game.json) |
 | Snake's Revenge | 198894 | [198894-snakes-revenge.json](./198894-snakes-revenge.json) |
 | Snake's Revenge | 7848 | [7848-snakes-revenge.json](./7848-snakes-revenge.json) |
+| Snake2 | 98882 | [98882-snake2.json](./98882-snake2.json) |
 | Snake360 | 71607 | [71607-snake360.json](./71607-snake360.json) |
 | Snake3d | 147776 | [147776-snake3d.json](./147776-snake3d.json) |
 | Snakeball | 21881 | [21881-snakeball.json](./21881-snakeball.json) |
