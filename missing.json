@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T13:04:38.604Z",
-  "total_missing": 210796,
+  "generated_at": "2026-10-14T13:19:42.644Z",
+  "total_missing": 210846,
   "games": [
     {
       "igdb_id": 191680,
@@ -5077,6 +5077,11 @@
       "file": "missing/0-9/405472-20-floors.json"
     },
     {
+      "igdb_id": 98877,
+      "game_name": "20 Games to Play With Your Mates",
+      "file": "missing/0-9/98877-20-games-to-play-with-your-mates.json"
+    },
+    {
       "igdb_id": 386365,
       "game_name": "20 in 1 Family Games Mega Collection",
       "file": "missing/0-9/386365-20-in-1-family-games-mega-collection.json"
@@ -6655,6 +6660,11 @@
       "igdb_id": 97119,
       "game_name": "30,000 Games",
       "file": "missing/0-9/97119-30-000-games.json"
+    },
+    {
+      "igdb_id": 98887,
+      "game_name": "300 Arcade Games",
+      "file": "missing/0-9/98887-300-arcade-games.json"
     },
     {
       "igdb_id": 52354,
@@ -8820,6 +8830,11 @@
       "igdb_id": 308333,
       "game_name": "5 O'clock Lock",
       "file": "missing/0-9/308333-5-oclock-lock.json"
+    },
+    {
+      "igdb_id": 98919,
+      "game_name": "5 Pack Limited Edition",
+      "file": "missing/0-9/98919-5-pack-limited-edition.json"
     },
     {
       "igdb_id": 131287,
@@ -19080,6 +19095,11 @@
       "igdb_id": 310537,
       "game_name": "Ace of Gifts",
       "file": "missing/A/310537-ace-of-gifts.json"
+    },
+    {
+      "igdb_id": 98902,
+      "game_name": "Ace of Hearts",
+      "file": "missing/A/98902-ace-of-hearts.json"
     },
     {
       "igdb_id": 177475,
@@ -35735,6 +35755,11 @@
       "igdb_id": 183517,
       "game_name": "Alpha Squirrel",
       "file": "missing/A/183517-alpha-squirrel.json"
+    },
+    {
+      "igdb_id": 98913,
+      "game_name": "Alpha Storm",
+      "file": "missing/A/98913-alpha-storm.json"
     },
     {
       "igdb_id": 226216,
@@ -70380,6 +70405,11 @@
       "igdb_id": 219658,
       "game_name": "Ayyylando",
       "file": "missing/A/219658-ayyylando.json"
+    },
+    {
+      "igdb_id": 98891,
+      "game_name": "AZ Rockets",
+      "file": "missing/A/98891-az-rockets.json"
     },
     {
       "igdb_id": 64735,
@@ -147897,6 +147927,11 @@
       "file": "missing/C/215186-cd-man.json"
     },
     {
+      "igdb_id": 98917,
+      "game_name": "CD-Man Version 2.0",
+      "file": "missing/C/98917-cd-man-version-2-0.json"
+    },
+    {
       "igdb_id": 127226,
       "game_name": "CD-Run",
       "file": "missing/C/127226-cd-run.json"
@@ -171012,6 +171047,11 @@
       "file": "missing/C/319956-color-swiper.json"
     },
     {
+      "igdb_id": 98890,
+      "game_name": "Color Switch - Jump and Switch",
+      "file": "missing/C/98890-color-switch-jump-and-switch.json"
+    },
+    {
       "igdb_id": 34396,
       "game_name": "Color Symphony 2",
       "file": "missing/C/34396-color-symphony-2.json"
@@ -187175,6 +187215,11 @@
       "igdb_id": 303259,
       "game_name": "Crazy Teacher of Math in School Education Learning",
       "file": "missing/C/303259-crazy-teacher-of-math-in-school-education-learning.json"
+    },
+    {
+      "igdb_id": 98880,
+      "game_name": "Crazy Test!",
+      "file": "missing/C/98880-crazy-test.json"
     },
     {
       "igdb_id": 94934,
@@ -232507,6 +232552,11 @@
       "file": "missing/D/259816-dirt-bicycle-rider-simulator.json"
     },
     {
+      "igdb_id": 98903,
+      "game_name": "Dirt Bike Apocalypse",
+      "file": "missing/D/98903-dirt-bike-apocalypse.json"
+    },
+    {
       "igdb_id": 103932,
       "game_name": "Dirt Bike Evo",
       "file": "missing/D/103932-dirt-bike-evo.json"
@@ -238407,6 +238457,11 @@
       "file": "missing/D/228436-dog-of-dracula-2-cyber-monogatari.json"
     },
     {
+      "igdb_id": 98906,
+      "game_name": "Dog Pairs",
+      "file": "missing/D/98906-dog-pairs.json"
+    },
+    {
       "igdb_id": 182237,
       "game_name": "Dog Petting Simulator",
       "file": "missing/D/182237-dog-petting-simulator.json"
@@ -239030,6 +239085,11 @@
       "igdb_id": 65546,
       "game_name": "Dokapon?! Millennium Quest",
       "file": "missing/D/65546-dokapon-millennium-quest.json"
+    },
+    {
+      "igdb_id": 98889,
+      "game_name": "Dokdo",
+      "file": "missing/D/98889-dokdo.json"
     },
     {
       "igdb_id": 70615,
@@ -269542,6 +269602,11 @@
       "file": "missing/E/88830-egypt-series-the-prophecy-part-2.json"
     },
     {
+      "igdb_id": 98905,
+      "game_name": "Egypt Series: The Prophecy - Part 3",
+      "file": "missing/E/98905-egypt-series-the-prophecy-part-3.json"
+    },
+    {
       "igdb_id": 127237,
       "game_name": "Egypt Solitaire: Match 2 Cards",
       "file": "missing/E/127237-egypt-solitaire-match-2-cards.json"
@@ -276485,6 +276550,11 @@
       "igdb_id": 293007,
       "game_name": "Endless Return",
       "file": "missing/E/293007-endless-return.json"
+    },
+    {
+      "igdb_id": 98866,
+      "game_name": "Endless Road",
+      "file": "missing/E/98866-endless-road.json"
     },
     {
       "igdb_id": 344403,
@@ -296840,6 +296910,11 @@
       "igdb_id": 41417,
       "game_name": "Famicom Mukashibanashi: Shin Onigashima - Zenpen",
       "file": "missing/F/41417-famicom-mukashibanashi-shin-onigashima-zenpen.json"
+    },
+    {
+      "igdb_id": 98885,
+      "game_name": "Famicom Mukashibanashi: Yuuyuuki",
+      "file": "missing/F/98885-famicom-mukashibanashi-yuuyuuki.json"
     },
     {
       "igdb_id": 41273,
@@ -335122,6 +335197,11 @@
       "file": "missing/F/56588-fugger.json"
     },
     {
+      "igdb_id": 98918,
+      "game_name": "Fugitif: Les Aventures de Jack Bludfield - Part 1",
+      "file": "missing/F/98918-fugitif-les-aventures-de-jack-bludfield-part-1.json"
+    },
+    {
       "igdb_id": 249871,
       "game_name": "Fugitive",
       "file": "missing/F/249871-fugitive.json"
@@ -338370,6 +338450,11 @@
       "igdb_id": 36415,
       "game_name": "Future Perfect",
       "file": "missing/F/36415-future-perfect.json"
+    },
+    {
+      "igdb_id": 98912,
+      "game_name": "Future Pinball",
+      "file": "missing/F/98912-future-pinball.json"
     },
     {
       "igdb_id": 130857,
@@ -365717,6 +365802,11 @@
       "file": "missing/G/166075-grandmaster-chess.json"
     },
     {
+      "igdb_id": 98911,
+      "game_name": "Grandmaster Chess (CD-ROM Edition)",
+      "file": "missing/G/98911-grandmaster-chess-cd-rom-edition.json"
+    },
+    {
       "igdb_id": 215355,
       "game_name": "Grandmaster's Revenge",
       "file": "missing/G/215355-grandmasters-revenge.json"
@@ -370295,6 +370385,11 @@
       "igdb_id": 387628,
       "game_name": "GrimmVeil",
       "file": "missing/G/387628-grimmveil.json"
+    },
+    {
+      "igdb_id": 98904,
+      "game_name": "Grimmwald Dungeon RPG",
+      "file": "missing/G/98904-grimmwald-dungeon-rpg.json"
     },
     {
       "igdb_id": 100580,
@@ -414597,6 +414692,11 @@
       "file": "missing/H/70940-hoyle-table-games-2004.json"
     },
     {
+      "igdb_id": 98884,
+      "game_name": "Hoyle Word Games",
+      "file": "missing/H/98884-hoyle-word-games.json"
+    },
+    {
       "igdb_id": 301074,
       "game_name": "Hoyo",
       "file": "missing/H/301074-hoyo.json"
@@ -418000,6 +418100,11 @@
       "igdb_id": 333790,
       "game_name": "Hyper Empire",
       "file": "missing/H/333790-hyper-empire.json"
+    },
+    {
+      "igdb_id": 98895,
+      "game_name": "Hyper Fighter Boost Mode ON",
+      "file": "missing/H/98895-hyper-fighter-boost-mode-on.json"
     },
     {
       "igdb_id": 10423,
@@ -443970,6 +444075,11 @@
       "igdb_id": 237375,
       "game_name": "Jam League Basketball",
       "file": "missing/J/237375-jam-league-basketball.json"
+    },
+    {
+      "igdb_id": 98873,
+      "game_name": "JAM Live Music Arcade",
+      "file": "missing/J/98873-jam-live-music-arcade.json"
     },
     {
       "igdb_id": 226853,
@@ -470570,6 +470680,11 @@
       "igdb_id": 303613,
       "game_name": "Kittentegy",
       "file": "missing/K/303613-kittentegy.json"
+    },
+    {
+      "igdb_id": 98888,
+      "game_name": "Kittie's Mazes",
+      "file": "missing/K/98888-kitties-mazes.json"
     },
     {
       "igdb_id": 243629,
@@ -530737,6 +530852,11 @@
       "file": "missing/M/263783-matchmaker-dungeon-heart.json"
     },
     {
+      "igdb_id": 98914,
+      "game_name": "Matchmaker! / Logix! / Buzzword!",
+      "file": "missing/M/98914-matchmaker-logix-buzzword.json"
+    },
+    {
       "igdb_id": 354386,
       "game_name": "Matchmakers A",
       "file": "missing/M/354386-matchmakers-a.json"
@@ -569882,6 +570002,11 @@
       "file": "missing/M/118338-most-correct-football-simulator.json"
     },
     {
+      "igdb_id": 98908,
+      "game_name": "Most Popular Solitaire",
+      "file": "missing/M/98908-most-popular-solitaire.json"
+    },
+    {
       "igdb_id": 409632,
       "game_name": "Most Scuffed Golf",
       "file": "missing/M/409632-most-scuffed-golf.json"
@@ -595370,6 +595495,11 @@
       "igdb_id": 141857,
       "game_name": "Neuro",
       "file": "missing/N/141857-neuro.json"
+    },
+    {
+      "igdb_id": 98896,
+      "game_name": "Neuro",
+      "file": "missing/N/98896-neuro.json"
     },
     {
       "igdb_id": 278733,
@@ -626552,6 +626682,11 @@
       "file": "missing/O/102096-osteya-adventures.json"
     },
     {
+      "igdb_id": 98892,
+      "game_name": "Ostrich Among Us",
+      "file": "missing/O/98892-ostrich-among-us.json"
+    },
+    {
       "igdb_id": 277329,
       "game_name": "Ostrich Farm",
       "file": "missing/O/277329-ostrich-farm.json"
@@ -647995,6 +648130,11 @@
       "igdb_id": 49317,
       "game_name": "Peter Pan: The Motion Picture Event",
       "file": "missing/P/49317-peter-pan-the-motion-picture-event.json"
+    },
+    {
+      "igdb_id": 98894,
+      "game_name": "Peter Pan's Playground",
+      "file": "missing/P/98894-peter-pans-playground.json"
     },
     {
       "igdb_id": 140379,
@@ -689057,6 +689197,11 @@
       "file": "missing/P/93124-pumuckls-abenteuer-bei-den-piraten.json"
     },
     {
+      "igdb_id": 98916,
+      "game_name": "Pumuckls Abenteuer im Geisterschloss",
+      "file": "missing/P/98916-pumuckls-abenteuer-im-geisterschloss.json"
+    },
+    {
       "igdb_id": 226779,
       "game_name": "PunBall",
       "file": "missing/P/226779-punball.json"
@@ -693620,6 +693765,11 @@
       "igdb_id": 133359,
       "game_name": "Pxl-Ship",
       "file": "missing/P/133359-pxl-ship.json"
+    },
+    {
+      "igdb_id": 98883,
+      "game_name": "pXt",
+      "file": "missing/P/98883-pxt.json"
     },
     {
       "igdb_id": 178889,
@@ -727797,6 +727947,11 @@
       "file": "missing/R/25167-robocop-3.json"
     },
     {
+      "igdb_id": 98878,
+      "game_name": "Robocop 3D",
+      "file": "missing/R/98878-robocop-3d.json"
+    },
+    {
       "igdb_id": 196020,
       "game_name": "RoboCop Doom",
       "file": "missing/R/196020-robocop-doom.json"
@@ -757022,6 +757177,11 @@
       "file": "missing/S/10427-secret-of-the-magic-crystals.json"
     },
     {
+      "igdb_id": 98900,
+      "game_name": "Secret of the Pendulum: Premium Edition",
+      "file": "missing/S/98900-secret-of-the-pendulum-premium-edition.json"
+    },
+    {
       "igdb_id": 41556,
       "game_name": "Secret of the Pharaohs",
       "file": "missing/S/41556-secret-of-the-pharaohs.json"
@@ -758357,6 +758517,11 @@
       "file": "missing/S/100099-sega-ages-2500-vol-11-hokuto-no-ken.json"
     },
     {
+      "igdb_id": 98909,
+      "game_name": "Sega Ages 2500 Vol. 12: Puyo Puyo Tsuu Perfect Set",
+      "file": "missing/S/98909-sega-ages-2500-vol-12-puyo-puyo-tsuu-perfect-set.json"
+    },
+    {
       "igdb_id": 100024,
       "game_name": "Sega Ages 2500 Vol. 13: OutRun",
       "file": "missing/S/100024-sega-ages-2500-vol-13-outrun.json"
@@ -758375,6 +758540,11 @@
       "igdb_id": 43206,
       "game_name": "Sega Ages 2500 Vol. 16: Virtua Fighter 2",
       "file": "missing/S/43206-sega-ages-2500-vol-16-virtua-fighter-2.json"
+    },
+    {
+      "igdb_id": 98915,
+      "game_name": "Sega Ages 2500 Vol. 2: Monaco GP",
+      "file": "missing/S/98915-sega-ages-2500-vol-2-monaco-gp.json"
     },
     {
       "igdb_id": 140407,
@@ -781242,6 +781412,11 @@
       "file": "missing/S/111813-skatebird.json"
     },
     {
+      "igdb_id": 98901,
+      "game_name": "Skateboard 3D - Skater Die Hard Skate Boarding Game",
+      "file": "missing/S/98901-skateboard-3d-skater-die-hard-skate-boarding-game.json"
+    },
+    {
       "igdb_id": 57599,
       "game_name": "Skateboard Crazy",
       "file": "missing/S/57599-skateboard-crazy.json"
@@ -783085,6 +783260,11 @@
       "igdb_id": 221358,
       "game_name": "Sky Combat",
       "file": "missing/S/221358-sky-combat.json"
+    },
+    {
+      "igdb_id": 98897,
+      "game_name": "Sky Conqueror",
+      "file": "missing/S/98897-sky-conqueror.json"
     },
     {
       "igdb_id": 103888,
@@ -787852,14 +788032,54 @@
       "file": "missing/S/77014-slotter-chou-mania-antonio-inoki-ga-genki-ni-suru-pachi-slot-ki.json"
     },
     {
+      "igdb_id": 98867,
+      "game_name": "Slotter Mania 2",
+      "file": "missing/S/98867-slotter-mania-2.json"
+    },
+    {
+      "igdb_id": 98868,
+      "game_name": "Slotter Mania 3",
+      "file": "missing/S/98868-slotter-mania-3.json"
+    },
+    {
+      "igdb_id": 98869,
+      "game_name": "Slotter Mania 7",
+      "file": "missing/S/98869-slotter-mania-7.json"
+    },
+    {
       "igdb_id": 78653,
       "game_name": "Slotter Mania 8",
       "file": "missing/S/78653-slotter-mania-8.json"
     },
     {
+      "igdb_id": 98870,
+      "game_name": "Slotter Mania 9",
+      "file": "missing/S/98870-slotter-mania-9.json"
+    },
+    {
+      "igdb_id": 98874,
+      "game_name": "Slotter Mania P: Mach Go Go Go III",
+      "file": "missing/S/98874-slotter-mania-p-mach-go-go-go-iii.json"
+    },
+    {
+      "igdb_id": 98875,
+      "game_name": "Slotter Mania P: SanSan HanaHana & SanSan Oasis",
+      "file": "missing/S/98875-slotter-mania-p-sansan-hanahana-and-sansan-oasis.json"
+    },
+    {
       "igdb_id": 62738,
       "game_name": "Slotter Mania P: Tetsuya Shinjuku vs Ueno",
       "file": "missing/S/62738-slotter-mania-p-tetsuya-shinjuku-vs-ueno.json"
+    },
+    {
+      "igdb_id": 98871,
+      "game_name": "Slotter Mania: Core Tokonatsu no Netsusa! Oasis",
+      "file": "missing/S/98871-slotter-mania-core-tokonatsu-no-netsusa-oasis.json"
+    },
+    {
+      "igdb_id": 98876,
+      "game_name": "Slotter Mania: Gekinetsu Okisuro! Siosai Special",
+      "file": "missing/S/98876-slotter-mania-gekinetsu-okisuro-siosai-special.json"
     },
     {
       "igdb_id": 204223,
@@ -790945,6 +791165,11 @@
       "igdb_id": 7848,
       "game_name": "Snake's Revenge",
       "file": "missing/S/7848-snakes-revenge.json"
+    },
+    {
+      "igdb_id": 98882,
+      "game_name": "Snake2",
+      "file": "missing/S/98882-snake2.json"
     },
     {
       "igdb_id": 71607,
@@ -924172,6 +924397,11 @@
       "file": "missing/T/72056-the-ultimate-trivia-cd.json"
     },
     {
+      "igdb_id": 98893,
+      "game_name": "The Ultimate Trivia Quiz",
+      "file": "missing/T/98893-the-ultimate-trivia-quiz.json"
+    },
+    {
       "igdb_id": 55692,
       "game_name": "The Ultimatest Battle",
       "file": "missing/T/55692-the-ultimatest-battle.json"
@@ -950135,6 +950365,11 @@
       "igdb_id": 918,
       "game_name": "Total Annihilation",
       "file": "missing/T/918-total-annihilation.json"
+    },
+    {
+      "igdb_id": 98907,
+      "game_name": "Total Annihilation: Commander Pack",
+      "file": "missing/T/98907-total-annihilation-commander-pack.json"
     },
     {
       "igdb_id": 11614,
@@ -1011237,6 +1011472,11 @@
       "file": "missing/W/126548-waxworks-curse-of-the-ancestors.json"
     },
     {
+      "igdb_id": 98872,
+      "game_name": "Way",
+      "file": "missing/W/98872-way.json"
+    },
+    {
       "igdb_id": 127742,
       "game_name": "Way Back Home",
       "file": "missing/W/127742-way-back-home.json"
@@ -1026887,6 +1027127,11 @@
       "file": "missing/W/123316-woodcutter-survival.json"
     },
     {
+      "igdb_id": 98899,
+      "game_name": "Wooden Block Puzzle Games",
+      "file": "missing/W/98899-wooden-block-puzzle-games.json"
+    },
+    {
       "igdb_id": 134999,
       "game_name": "Wooden Hearts",
       "file": "missing/W/134999-wooden-hearts.json"
@@ -1028875,6 +1029120,11 @@
       "igdb_id": 10915,
       "game_name": "World at War: Operation Somalia",
       "file": "missing/W/10915-world-at-war-operation-somalia.json"
+    },
+    {
+      "igdb_id": 98910,
+      "game_name": "World at War: Stalingrad",
+      "file": "missing/W/98910-world-at-war-stalingrad.json"
     },
     {
       "igdb_id": 141899,
