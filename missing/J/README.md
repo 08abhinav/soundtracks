@@ -2609,6 +2609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just a Cute Capybara Puzzle | 295284 | [295284-just-a-cute-capybara-puzzle.json](./295284-just-a-cute-capybara-puzzle.json) |
 | Just A Dream | 304894 | [304894-just-a-dream.json](./304894-just-a-dream.json) |
 | Just A Dream | 65788 | [65788-just-a-dream.json](./65788-just-a-dream.json) |
+| Just a Game | 111431 | [111431-just-a-game.json](./111431-just-a-game.json) |
 | Just A Game | 167864 | [167864-just-a-game.json](./167864-just-a-game.json) |
 | Just a Game to Test Your lQ | 168625 | [168625-just-a-game-to-test-your-lq.json](./168625-just-a-game-to-test-your-lq.json) |
 | Just a Gun | 405558 | [405558-just-a-gun.json](./405558-just-a-gun.json) |
