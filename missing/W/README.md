@@ -6027,6 +6027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrap It! | 164442 | [164442-wrap-it.json](./164442-wrap-it.json) |
 | Wrap The Zap | 392786 | [392786-wrap-the-zap.json](./392786-wrap-the-zap.json) |
 | Wrapped With a Kiss | 194225 | [194225-wrapped-with-a-kiss.json](./194225-wrapped-with-a-kiss.json) |
+| Wrapple | 91853 | [91853-wrapple.json](./91853-wrapple.json) |
 | Wrassling | 96922 | [96922-wrassling.json](./96922-wrassling.json) |
 | Wrath and Retribution | 374838 | [374838-wrath-and-retribution.json](./374838-wrath-and-retribution.json) |
 | Wrath of Ahnkii | 271794 | [271794-wrath-of-ahnkii.json](./271794-wrath-of-ahnkii.json) |
