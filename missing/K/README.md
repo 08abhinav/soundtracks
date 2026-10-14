@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamikaze Saucers | 40733 | [40733-kamikaze-saucers.json](./40733-kamikaze-saucers.json) |
 | Kamikaze Tactics | 333772 | [333772-kamikaze-tactics.json](./333772-kamikaze-tactics.json) |
 | Kamikazi Alien | 25154 | [25154-kamikazi-alien.json](./25154-kamikazi-alien.json) |
+| Kamikazo VR | 81953 | [81953-kamikazo-vr.json](./81953-kamikazo-vr.json) |
 | Kamikazo VR | 82142 | [82142-kamikazo-vr.json](./82142-kamikazo-vr.json) |
 | Kamiko | 28015 | [28015-kamiko.json](./28015-kamiko.json) |
 | Kamikomori | 358504 | [358504-kamikomori.json](./358504-kamikomori.json) |
