@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaws | 346093 | [346093-jaws.json](./346093-jaws.json) |
 | Jaws | 68385 | [68385-jaws.json](./68385-jaws.json) |
 | Jaws & Claws | 189070 | [189070-jaws-and-claws.json](./189070-jaws-and-claws.json) |
+| Jaws of Hell | 107618 | [107618-jaws-of-hell.json](./107618-jaws-of-hell.json) |
 | Jaws of Hell | 349322 | [349322-jaws-of-hell.json](./349322-jaws-of-hell.json) |
 | Jaws Unleashed | 2632 | [2632-jaws-unleashed.json](./2632-jaws-unleashed.json) |
 | Jaws: Retro Edition | 381120 | [381120-jaws-retro-edition.json](./381120-jaws-retro-edition.json) |
@@ -655,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Allstars | 64134 | [64134-jelly-allstars.json](./64134-jelly-allstars.json) |
 | Jelly Battle | 237305 | [237305-jelly-battle.json](./237305-jelly-battle.json) |
 | Jelly Blocks | 117165 | [117165-jelly-blocks.json](./117165-jelly-blocks.json) |
+| Jelly Bomber | 107713 | [107713-jelly-bomber.json](./107713-jelly-bomber.json) |
 | Jelly Boy | 365693 | [365693-jelly-boy.json](./365693-jelly-boy.json) |
 | Jelly Boy 2 | 38364 | [38364-jelly-boy-2.json](./38364-jelly-boy-2.json) |
 | Jelly Brawl | 132591 | [132591-jelly-brawl.json](./132591-jelly-brawl.json) |
@@ -1846,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joumee the Hedgehog | 75828 | [75828-joumee-the-hedgehog.json](./75828-joumee-the-hedgehog.json) |
 | Journalism class | 108047 | [108047-journalism-class.json](./108047-journalism-class.json) |
 | Journalism Class: Hot Part 3 | 109890 | [109890-journalism-class-hot-part-3.json](./109890-journalism-class-hot-part-3.json) |
+| Journalism Class: Part 2 | 107708 | [107708-journalism-class-part-2.json](./107708-journalism-class-part-2.json) |
 | Journalist | 186906 | [186906-journalist.json](./186906-journalist.json) |
 | Journey | 298669 | [298669-journey.json](./298669-journey.json) |
 | Journey Across Japan: Mysteries of Mt Aso | 326149 | [326149-journey-across-japan-mysteries-of-mt-aso.json](./326149-journey-across-japan-mysteries-of-mt-aso.json) |
