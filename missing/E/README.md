@@ -813,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Insanity | 40709 | [40709-edge-of-insanity.json](./40709-edge-of-insanity.json) |
 | Edge of Memories | 333201 | [333201-edge-of-memories.json](./333201-edge-of-memories.json) |
 | Edge of Nowhere | 11159 | [11159-edge-of-nowhere.json](./11159-edge-of-nowhere.json) |
+| Edge of Reality Visual Novel | 117551 | [117551-edge-of-reality-visual-novel.json](./117551-edge-of-reality-visual-novel.json) |
 | Edge of Reality: Call of the Hills - Collector's Edition | 397149 | [397149-edge-of-reality-call-of-the-hills-collectors-edition.json](./397149-edge-of-reality-call-of-the-hills-collectors-edition.json) |
 | Edge of Reality: Fatal Luck - Collector's Edition | 397143 | [397143-edge-of-reality-fatal-luck-collectors-edition.json](./397143-edge-of-reality-fatal-luck-collectors-edition.json) |
 | Edge of Reality: Hunter's Legacy - Collector's Edition | 397145 | [397145-edge-of-reality-hunters-legacy-collectors-edition.json](./397145-edge-of-reality-hunters-legacy-collectors-edition.json) |
