@@ -696,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Harp VR | 357218 | [357218-laser-harp-vr.json](./357218-laser-harp-vr.json) |
 | Laser Heck | 132679 | [132679-laser-heck.json](./132679-laser-heck.json) |
 | Laser Hell | 384183 | [384183-laser-hell.json](./384183-laser-hell.json) |
+| Laser Kitty Pow Pow | 123347 | [123347-laser-kitty-pow-pow.json](./123347-laser-kitty-pow-pow.json) |
 | Laser Lab | 214028 | [214028-laser-lab.json](./214028-laser-lab.json) |
 | Laser Light | 14462 | [14462-laser-light.json](./14462-laser-light.json) |
 | Laser Lightshow | 290555 | [290555-laser-lightshow.json](./290555-laser-lightshow.json) |
@@ -2488,6 +2489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Pachinko: Nante Gindama | 134465 | [134465-lets-pachinko-nante-gindama.json](./134465-lets-pachinko-nante-gindama.json) |
 | Let's Paint Toast | 352324 | [352324-lets-paint-toast.json](./352324-lets-paint-toast.json) |
 | Let's Park: Backyard Edition | 214185 | [214185-lets-park-backyard-edition.json](./214185-lets-park-backyard-edition.json) |
+| Let's Pilates | 123346 | [123346-lets-pilates.json](./123346-lets-pilates.json) |
 | Let's Play Ballerina | 51068 | [51068-lets-play-ballerina.json](./51068-lets-play-ballerina.json) |
 | Let's Play Cards Baccarat | 340915 | [340915-lets-play-cards-baccarat.json](./340915-lets-play-cards-baccarat.json) |
 | Let's Play Cards Solitaire | 367603 | [367603-lets-play-cards-solitaire.json](./367603-lets-play-cards-solitaire.json) |
@@ -2545,6 +2547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2019: Hits Français et Internationaux | 253026 | [253026-lets-sing-2019-hits-francais-et-internationaux.json](./253026-lets-sing-2019-hits-francais-et-internationaux.json) |
 | Let's Sing 2019: Mit Deutschen Hits! | 253001 | [253001-lets-sing-2019-mit-deutschen-hits.json](./253001-lets-sing-2019-mit-deutschen-hits.json) |
 | Let's Sing 2019: Platinum Edition | 237857 | [237857-lets-sing-2019-platinum-edition.json](./237857-lets-sing-2019-platinum-edition.json) |
+| Let's Sing 2020 | 123345 | [123345-lets-sing-2020.json](./123345-lets-sing-2020.json) |
 | Let's Sing 2020: Hits Français et Internationaux | 329519 | [329519-lets-sing-2020-hits-francais-et-internationaux.json](./329519-lets-sing-2020-hits-francais-et-internationaux.json) |
 | Let's Sing 2020: Platinum Edition | 237858 | [237858-lets-sing-2020-platinum-edition.json](./237858-lets-sing-2020-platinum-edition.json) |
 | Let's Sing 2021: Asia | 321520 | [321520-lets-sing-2021-asia.json](./321520-lets-sing-2021-asia.json) |
@@ -4511,6 +4514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loco Motive | 141805 | [141805-loco-motive.json](./141805-loco-motive.json) |
 | LOCO Online | 361771 | [361771-loco-online.json](./361771-loco-online.json) |
 | Loco Parentis | 117810 | [117810-loco-parentis.json](./117810-loco-parentis.json) |
+| Loco Railroad | 123361 | [123361-loco-railroad.json](./123361-loco-railroad.json) |
 | Loco-Coconuts | 246495 | [246495-loco-coconuts.json](./246495-loco-coconuts.json) |
 | Loco-Motion | 42161 | [42161-loco-motion.json](./42161-loco-motion.json) |
 | Loco-Motion | 5681 | [5681-loco-motion.json](./5681-loco-motion.json) |
@@ -4668,6 +4672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loki's Revenge | 312154 | [312154-lokis-revenge.json](./312154-lokis-revenge.json) |
 | Lokko | 374427 | [374427-lokko.json](./374427-lokko.json) |
 | LoL Sketch | 181186 | [181186-lol-sketch.json](./181186-lol-sketch.json) |
+| Lola & Virginia | 123350 | [123350-lola-and-virginia.json](./123350-lola-and-virginia.json) |
 | Lola and the Giant | 110325 | [110325-lola-and-the-giant.json](./110325-lola-and-the-giant.json) |
 | Lola: The Escape | 170930 | [170930-lola-the-escape.json](./170930-lola-the-escape.json) |
 | Lola's ABC Party - Learn to Read | 88344 | [88344-lolas-abc-party-learn-to-read.json](./88344-lolas-abc-party-learn-to-read.json) |
@@ -5676,6 +5681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Birds | 236734 | [236734-love-birds.json](./236734-love-birds.json) |
 | Love Bites | 254451 | [254451-love-bites.json](./254451-love-bites.json) |
 | Love Breakout | 280176 | [280176-love-breakout.json](./280176-love-breakout.json) |
+| Love Cat Life | 123349 | [123349-love-cat-life.json](./123349-love-cat-life.json) |
 | Love Change | 217949 | [217949-love-change.json](./217949-love-change.json) |
 | Love Chronicles: Salvation - Collector's Edition | 89407 | [89407-love-chronicles-salvation-collectors-edition.json](./89407-love-chronicles-salvation-collectors-edition.json) |
 | Love Clear | 136757 | [136757-love-clear.json](./136757-love-clear.json) |
