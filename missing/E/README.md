@@ -937,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Efteling Tycoon | 210077 | [210077-efteling-tycoon.json](./210077-efteling-tycoon.json) |
 | EGA Coloring Book | 330270 | [330270-ega-coloring-book.json](./330270-ega-coloring-book.json) |
 | EGA-Roids | 130850 | [130850-ega-roids.json](./130850-ega-roids.json) |
+| Egaint | 79760 | [79760-egaint.json](./79760-egaint.json) |
 | Egao no Renkinjutsu | 238099 | [238099-egao-no-renkinjutsu.json](./238099-egao-no-renkinjutsu.json) |
 | Egg | 108799 | [108799-egg.json](./108799-egg.json) |
 | Egg | 285669 | [285669-egg.json](./285669-egg.json) |
@@ -968,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Teacher VR | 110103 | [110103-egg-teacher-vr.json](./110103-egg-teacher-vr.json) |
 | Egg Time | 31213 | [31213-egg-time.json](./31213-egg-time.json) |
 | Egg Up | 154588 | [154588-egg-up.json](./154588-egg-up.json) |
+| Egg vs. Chicken | 79770 | [79770-egg-vs-chicken.json](./79770-egg-vs-chicken.json) |
 | Egg War Puzzle | 257916 | [257916-egg-war-puzzle.json](./257916-egg-war-puzzle.json) |
 | Egg Yolk Life | 129715 | [129715-egg-yolk-life.json](./129715-egg-yolk-life.json) |
 | Egg! | 231966 | [231966-egg.json](./231966-egg.json) |
@@ -4285,6 +4287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Air War | 685 | [685-european-air-war.json](./685-european-air-war.json) |
 | European Bus Simulator | 65267 | [65267-european-bus-simulator.json](./65267-european-bus-simulator.json) |
 | European Card Wars | 291229 | [291229-european-card-wars.json](./291229-european-card-wars.json) |
+| European Champions | 79743 | [79743-european-champions.json](./79743-european-champions.json) |
 | European Championship 1992 | 70102 | [70102-european-championship-1992.json](./70102-european-championship-1992.json) |
 | European Conqueror 3D | 85126 | [85126-european-conqueror-3d.json](./85126-european-conqueror-3d.json) |
 | European Fishing | 10287 | [10287-european-fishing.json](./10287-european-fishing.json) |
