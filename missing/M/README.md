@@ -1291,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Deluxe 2: Astral Planes | 105996 | [105996-mahjong-deluxe-2-astral-planes.json](./105996-mahjong-deluxe-2-astral-planes.json) |
 | Mahjong Demon XL | 221333 | [221333-mahjong-demon-xl.json](./221333-mahjong-demon-xl.json) |
 | Mahjong Detective: The Stolen Love | 295919 | [295919-mahjong-detective-the-stolen-love.json](./295919-mahjong-detective-the-stolen-love.json) |
+| Mahjong Domino | 89830 | [89830-mahjong-domino.json](./89830-mahjong-domino.json) |
 | Mahjong Elements HD | 174371 | [174371-mahjong-elements-hd.json](./174371-mahjong-elements-hd.json) |
 | Mahjong Elements HDX | 88370 | [88370-mahjong-elements-hdx.json](./88370-mahjong-elements-hdx.json) |
 | Mahjong Escape: Ancient China | 135673 | [135673-mahjong-escape-ancient-china.json](./135673-mahjong-escape-ancient-china.json) |
@@ -5184,6 +5185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man in Super Mario Bros. | 269874 | [269874-mega-man-in-super-mario-bros.json](./269874-mega-man-in-super-mario-bros.json) |
 | Mega Man Inverse | 323768 | [323768-mega-man-inverse.json](./323768-mega-man-inverse.json) |
 | Mega Man IV SNES | 377763 | [377763-mega-man-iv-snes.json](./377763-mega-man-iv-snes.json) |
+| Mega Man Legacy Collection: Special Edition | 89843 | [89843-mega-man-legacy-collection-special-edition.json](./89843-mega-man-legacy-collection-special-edition.json) |
 | Mega Man Legends | 1752 | [1752-mega-man-legends.json](./1752-mega-man-legends.json) |
 | Mega Man Legends 3 Project | 78003 | [78003-mega-man-legends-3-project.json](./78003-mega-man-legends-3-project.json) |
 | Mega Man Maker | 102716 | [102716-mega-man-maker.json](./102716-mega-man-maker.json) |
@@ -10692,6 +10694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Seek | 168219 | [168219-monster-seek.json](./168219-monster-seek.json) |
 | Monster shooter | 108951 | [108951-monster-shooter.json](./108951-monster-shooter.json) |
 | Monster Shooter | 290700 | [290700-monster-shooter.json](./290700-monster-shooter.json) |
+| Monster Shooter: The Lost Levels | 89807 | [89807-monster-shooter-the-lost-levels.json](./89807-monster-shooter-the-lost-levels.json) |
 | Monster Shop Simulator | 406858 | [406858-monster-shop-simulator.json](./406858-monster-shop-simulator.json) |
 | Monster Slayer | 152985 | [152985-monster-slayer.json](./152985-monster-slayer.json) |
 | Monster Slayer Extermination | 215602 | [215602-monster-slayer-extermination.json](./215602-monster-slayer-extermination.json) |
@@ -10736,6 +10739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Truck Madness | 6513 | [6513-monster-truck-madness.json](./6513-monster-truck-madness.json) |
 | Monster Truck Madness 2 | 3542 | [3542-monster-truck-madness-2.json](./3542-monster-truck-madness-2.json) |
 | Monster Truck Madness 64 | 10615 | [10615-monster-truck-madness-64.json](./10615-monster-truck-madness-64.json) |
+| Monster Truck Mania | 89819 | [89819-monster-truck-mania.json](./89819-monster-truck-mania.json) |
 | Monster Truck Maniac | 403698 | [403698-monster-truck-maniac.json](./403698-monster-truck-maniac.json) |
 | Monster Truck Maniac 2 | 403699 | [403699-monster-truck-maniac-2.json](./403699-monster-truck-maniac-2.json) |
 | Monster Truck Maniac 3 | 403700 | [403700-monster-truck-maniac-3.json](./403700-monster-truck-maniac-3.json) |
@@ -13286,6 +13290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MXGP Pro | 96212 | [96212-mxgp-pro.json](./96212-mxgp-pro.json) |
 | MXGP: The Official Motocross Videogame Compact | 36113 | [36113-mxgp-the-official-motocross-videogame-compact.json](./36113-mxgp-the-official-motocross-videogame-compact.json) |
 | MXGP2: The Official Motocross Videogame | 20391 | [20391-mxgp2-the-official-motocross-videogame.json](./20391-mxgp2-the-official-motocross-videogame.json) |
+| MXGP2: The Official Motocross Videogame - Day One Edition | 89839 | [89839-mxgp2-the-official-motocross-videogame-day-one-edition.json](./89839-mxgp2-the-official-motocross-videogame-day-one-edition.json) |
 | Mxsimulator | 137035 | [137035-mxsimulator.json](./137035-mxsimulator.json) |
 | My 1/6 Lover | 111404 | [111404-my-1-6-lover.json](./111404-my-1-6-lover.json) |
 | My 11 Heroes | 234508 | [234508-my-11-heroes.json](./234508-my-11-heroes.json) |
