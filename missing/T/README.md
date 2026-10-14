@@ -6380,6 +6380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flash | 100289 | [100289-the-flash.json](./100289-the-flash.json) |
 | The Flat | 262910 | [262910-the-flat.json](./262910-the-flat.json) |
 | The Flawless Cup | 156000 | [156000-the-flawless-cup.json](./156000-the-flawless-cup.json) |
+| The Flawless: Art's Tale | 119448 | [119448-the-flawless-arts-tale.json](./119448-the-flawless-arts-tale.json) |
 | The Flaws of Gravity | 36477 | [36477-the-flaws-of-gravity.json](./36477-the-flaws-of-gravity.json) |
 | The Flayed Man | 329396 | [329396-the-flayed-man.json](./329396-the-flayed-man.json) |
 | The Flea Evolution | 188103 | [188103-the-flea-evolution.json](./188103-the-flea-evolution.json) |
@@ -7717,6 +7718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters EX: Neo Blood | 49170 | [49170-the-king-of-fighters-ex-neo-blood.json](./49170-the-king-of-fighters-ex-neo-blood.json) |
 | The King of Fighters EX2: Howling Blood | 49169 | [49169-the-king-of-fighters-ex2-howling-blood.json](./49169-the-king-of-fighters-ex2-howling-blood.json) |
 | The King of Fighters Extreme | 47572 | [47572-the-king-of-fighters-extreme.json](./47572-the-king-of-fighters-extreme.json) |
+| The King of Fighters for Girls | 119415 | [119415-the-king-of-fighters-for-girls.json](./119415-the-king-of-fighters-for-girls.json) |
 | The King of Fighters GO | 106763 | [106763-the-king-of-fighters-go.json](./106763-the-king-of-fighters-go.json) |
 | The King of Fighters Neowave | 5896 | [5896-the-king-of-fighters-neowave.json](./5896-the-king-of-fighters-neowave.json) |
 | The King of Fighters Online | 76968 | [76968-the-king-of-fighters-online.json](./76968-the-king-of-fighters-online.json) |
