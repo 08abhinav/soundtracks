@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawkab ELashkef | 401494 | [401494-kawkab-elashkef.json](./401494-kawkab-elashkef.json) |
 | Kaxuki: Hope for Peace | 329044 | [329044-kaxuki-hope-for-peace.json](./329044-kaxuki-hope-for-peace.json) |
 | Kay's Destiny | 242516 | [242516-kays-destiny.json](./242516-kays-destiny.json) |
+| Kaya | 103947 | [103947-kaya.json](./103947-kaya.json) |
 | Kaya Joshi: Magical Detective | 172011 | [172011-kaya-joshi-magical-detective.json](./172011-kaya-joshi-magical-detective.json) |
 | Kaya The Dog | 381595 | [381595-kaya-the-dog.json](./381595-kaya-the-dog.json) |
 | Kaya's Prophecy | 317866 | [317866-kayas-prophecy.json](./317866-kayas-prophecy.json) |
@@ -1395,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick Rider | 39512 | [39512-kick-rider.json](./39512-kick-rider.json) |
 | Kick Start | 40340 | [40340-kick-start.json](./40340-kick-start.json) |
 | Kick the Boss's Ass | 301977 | [301977-kick-the-bosss-ass.json](./301977-kick-the-bosss-ass.json) |
+| Kick the Brick | 103937 | [103937-kick-the-brick.json](./103937-kick-the-brick.json) |
 | Kick The Buddy 3D | 413473 | [413473-kick-the-buddy-3d.json](./413473-kick-the-buddy-3d.json) |
 | Kick the Buddy: Forever | 331673 | [331673-kick-the-buddy-forever.json](./331673-kick-the-buddy-forever.json) |
 | Kick The Buddy: No Mercy | 413474 | [413474-kick-the-buddy-no-mercy.json](./413474-kick-the-buddy-no-mercy.json) |
@@ -3179,6 +3181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knockout Master | 258938 | [258938-knockout-master.json](./258938-knockout-master.json) |
 | Knockout Party | 51161 | [51161-knockout-party.json](./51161-knockout-party.json) |
 | Knockout Peoples: Chotto Zankoku na Hakurankai | 260745 | [260745-knockout-peoples-chotto-zankoku-na-hakurankai.json](./260745-knockout-peoples-chotto-zankoku-na-hakurankai.json) |
+| Knockout RPS | 103921 | [103921-knockout-rps.json](./103921-knockout-rps.json) |
 | Knockturne | 340886 | [340886-knockturne.json](./340886-knockturne.json) |
 | Knocky Balls | 54894 | [54894-knocky-balls.json](./54894-knocky-balls.json) |
 | Knorrig the Gifted Troublemaker | 229609 | [229609-knorrig-the-gifted-troublemaker.json](./229609-knorrig-the-gifted-troublemaker.json) |
