@@ -7287,6 +7287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunHero | 30035 | [30035-gunhero.json](./30035-gunhero.json) |
 | GunHowl | 144802 | [144802-gunhowl.json](./144802-gunhowl.json) |
 | Gunjack | 18363 | [18363-gunjack.json](./18363-gunjack.json) |
+| Gunjack Next (working title) | 100070 | [100070-gunjack-next-working-title.json](./100070-gunjack-next-working-title.json) |
 | Gunjin Gari | 59071 | [59071-gunjin-gari.json](./59071-gunjin-gari.json) |
 | Gunk | 126921 | [126921-gunk.json](./126921-gunk.json) |
 | Gunk | 404388 | [404388-gunk.json](./404388-gunk.json) |
