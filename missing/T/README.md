@@ -5952,6 +5952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Emptiness | 139431 | [139431-the-emptiness.json](./139431-the-emptiness.json) |
 | The Empty Desk | 333612 | [333612-the-empty-desk.json](./333612-the-empty-desk.json) |
 | The Empty House: A Dementia Interactive Experience | 342014 | [342014-the-empty-house-a-dementia-interactive-experience.json](./342014-the-empty-house-a-dementia-interactive-experience.json) |
+| The Empty Kingdom | 102033 | [102033-the-empty-kingdom.json](./102033-the-empty-kingdom.json) |
 | The Empty Turnabout | 303252 | [303252-the-empty-turnabout.json](./303252-the-empty-turnabout.json) |
 | The Enchanted Books | 88172 | [88172-the-enchanted-books.json](./88172-the-enchanted-books.json) |
 | The Enchanted Cave | 197696 | [197696-the-enchanted-cave.json](./197696-the-enchanted-cave.json) |
@@ -8111,7 +8112,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last of Us Part II Remastered: W.L.F. Edition | 279776 | [279776-the-last-of-us-part-ii-remastered-w-l-f-edition.json](./279776-the-last-of-us-part-ii-remastered-w-l-f-edition.json) |
 | The Last of Us Remastered: Day 1 Edition | 89931 | [89931-the-last-of-us-remastered-day-1-edition.json](./89931-the-last-of-us-remastered-day-1-edition.json) |
 | The Last of Us: Between The Years | 305372 | [305372-the-last-of-us-between-the-years.json](./305372-the-last-of-us-between-the-years.json) |
+| The Last of Us: Joel Edition | 102081 | [102081-the-last-of-us-joel-edition.json](./102081-the-last-of-us-joel-edition.json) |
 | The Last of Us: Left Behind - Remastered | 219027 | [219027-the-last-of-us-left-behind-remastered.json](./219027-the-last-of-us-left-behind-remastered.json) |
+| The Last of Us: Post-Pandemic Edition | 102083 | [102083-the-last-of-us-post-pandemic-edition.json](./102083-the-last-of-us-post-pandemic-edition.json) |
+| The Last of Us: Survival Edition | 102082 | [102082-the-last-of-us-survival-edition.json](./102082-the-last-of-us-survival-edition.json) |
 | The Last One and Then Another | 318206 | [318206-the-last-one-and-then-another.json](./318206-the-last-one-and-then-another.json) |
 | The Last One Month | 180307 | [180307-the-last-one-month.json](./180307-the-last-one-month.json) |
 | The Last Ones Left | 150606 | [150606-the-last-ones-left.json](./150606-the-last-ones-left.json) |
@@ -12763,6 +12767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wire Loop Game VR | 32251 | [32251-the-wire-loop-game-vr.json](./32251-the-wire-loop-game-vr.json) |
 | The Wire Man | 208641 | [208641-the-wire-man.json](./208641-the-wire-man.json) |
 | The Wisbey Mystery | 29880 | [29880-the-wisbey-mystery.json](./29880-the-wisbey-mystery.json) |
+| The Wisdom and/or Madness of Crowds | 102068 | [102068-the-wisdom-and-or-madness-of-crowds.json](./102068-the-wisdom-and-or-madness-of-crowds.json) |
 | The Wish | 181937 | [181937-the-wish.json](./181937-the-wish.json) |
 | The Wishing Flower | 225761 | [225761-the-wishing-flower.json](./225761-the-wishing-flower.json) |
 | The Wishing Stone | 148901 | [148901-the-wishing-stone.json](./148901-the-wishing-stone.json) |
@@ -13487,6 +13492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Is Where I Want To Die | 378205 | [378205-this-is-where-i-want-to-die.json](./378205-this-is-where-i-want-to-die.json) |
 | This is Your Laser | 183455 | [183455-this-is-your-laser.json](./183455-this-is-your-laser.json) |
 | This is your life now | 183285 | [183285-this-is-your-life-now.json](./183285-this-is-your-life-now.json) |
+| This Is Your World Too | 102052 | [102052-this-is-your-world-too.json](./102052-this-is-your-world-too.json) |
 | This Isn't Just Tower Defense | 372241 | [372241-this-isnt-just-tower-defense.json](./372241-this-isnt-just-tower-defense.json) |
 | This isn't Moirai | 177849 | [177849-this-isnt-moirai.json](./177849-this-isnt-moirai.json) |
 | This Land Is My Land | 104788 | [104788-this-land-is-my-land.json](./104788-this-land-is-my-land.json) |
@@ -15826,6 +15832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Jump | 177795 | [177795-tiny-jump.json](./177795-tiny-jump.json) |
 | Tiny Jump | 254559 | [254559-tiny-jump.json](./254559-tiny-jump.json) |
 | Tiny Jumper | 109922 | [109922-tiny-jumper.json](./109922-tiny-jumper.json) |
+| Tiny King | 102049 | [102049-tiny-king.json](./102049-tiny-king.json) |
 | Tiny Kingdom | 183852 | [183852-tiny-kingdom.json](./183852-tiny-kingdom.json) |
 | Tiny Kingdom | 309616 | [309616-tiny-kingdom.json](./309616-tiny-kingdom.json) |
 | Tiny Kingdom Builder | 315634 | [315634-tiny-kingdom-builder.json](./315634-tiny-kingdom-builder.json) |
