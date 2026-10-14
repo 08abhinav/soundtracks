@@ -1066,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Knight | 386401 | [386401-paper-knight.json](./386401-paper-knight.json) |
 | Paper Luigi's Mansion | 323901 | [323901-paper-luigis-mansion.json](./323901-paper-luigis-mansion.json) |
 | Paper Mall | 334934 | [334934-paper-mall.json](./334934-paper-mall.json) |
+| Paper Man 3D | 103970 | [103970-paper-man-3d.json](./103970-paper-man-3d.json) |
 | Paper Mario | 323287 | [323287-paper-mario.json](./323287-paper-mario.json) |
 | Paper Mario 3D Land | 132722 | [132722-paper-mario-3d-land.json](./132722-paper-mario-3d-land.json) |
 | Paper Mario 64K | 315016 | [315016-paper-mario-64k.json](./315016-paper-mario-64k.json) |
@@ -6535,6 +6536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playboy: The Mansion - Private Party | 68037 | [68037-playboy-the-mansion-private-party.json](./68037-playboy-the-mansion-private-party.json) |
 | PlayChapas | 177934 | [177934-playchapas.json](./177934-playchapas.json) |
 | PlayCOQ: The Coop Defender | 317309 | [317309-playcoq-the-coop-defender.json](./317309-playcoq-the-coop-defender.json) |
+| Playcraft | 103960 | [103960-playcraft.json](./103960-playcraft.json) |
 | PlayCrafter | 351768 | [351768-playcrafter.json](./351768-playcrafter.json) |
 | PlayDaPon | 226787 | [226787-playdapon.json](./226787-playdapon.json) |
 | Playdate Bunny Bundle | 245320 | [245320-playdate-bunny-bundle.json](./245320-playdate-bunny-bundle.json) |
@@ -6670,6 +6672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Wake Up | 156993 | [156993-please-wake-up.json](./156993-please-wake-up.json) |
 | Please Weave the Red Stars Into a Shroud for Wrapping the Corpse | 392315 | [392315-please-weave-the-red-stars-into-a-shroud-for-wrapping-the-corpse.json](./392315-please-weave-the-red-stars-into-a-shroud-for-wrapping-the-corpse.json) |
 | Please, Don't Touch Anything | 9327 | [9327-please-dont-touch-anything.json](./9327-please-dont-touch-anything.json) |
+| Please, Don't Touch Anything VR | 103922 | [103922-please-dont-touch-anything-vr.json](./103922-please-dont-touch-anything-vr.json) |
 | Please, Don't Touch Anything: Classic | 151565 | [151565-please-dont-touch-anything-classic.json](./151565-please-dont-touch-anything-classic.json) |
 | Please, Forgive Me | 256995 | [256995-please-forgive-me.json](./256995-please-forgive-me.json) |
 | Please, Visit Grandma | 138545 | [138545-please-visit-grandma.json](./138545-please-visit-grandma.json) |
@@ -10266,6 +10269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Alex | 216400 | [216400-project-alex.json](./216400-project-alex.json) |
 | Project Alpha | 324347 | [324347-project-alpha.json](./324347-project-alpha.json) |
 | Project Alpha 002 | 30943 | [30943-project-alpha-002.json](./30943-project-alpha-002.json) |
+| Project Amaranth | 103925 | [103925-project-amaranth.json](./103925-project-amaranth.json) |
 | Project Angels | 203310 | [203310-project-angels.json](./203310-project-angels.json) |
 | Project Anomaly | 193952 | [193952-project-anomaly.json](./193952-project-anomaly.json) |
 | Project Anomaly: Urban Supernatural Investigator | 200700 | [200700-project-anomaly-urban-supernatural-investigator.json](./200700-project-anomaly-urban-supernatural-investigator.json) |
