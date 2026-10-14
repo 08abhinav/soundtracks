@@ -2183,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maple Forest | 318604 | [318604-maple-forest.json](./318604-maple-forest.json) |
 | Maple Tale | 319374 | [319374-maple-tale.json](./319374-maple-tale.json) |
 | MapleStory | 9804 | [9804-maplestory.json](./9804-maplestory.json) |
+| Maplestory Blitz | 108795 | [108795-maplestory-blitz.json](./108795-maplestory-blitz.json) |
 | MapleStory Classic | 411557 | [411557-maplestory-classic.json](./411557-maplestory-classic.json) |
 | MapleStory DS | 79942 | [79942-maplestory-ds.json](./79942-maplestory-ds.json) |
 | MapleStory iTCG | 320863 | [320863-maplestory-itcg.json](./320863-maplestory-itcg.json) |
@@ -5260,6 +5261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Pony | 39604 | [39604-mega-pony.json](./39604-mega-pony.json) |
 | Mega Punchy Golf | 120935 | [120935-mega-punchy-golf.json](./120935-mega-punchy-golf.json) |
 | Mega Q*bert | 360128 | [360128-mega-q-bert.json](./360128-mega-q-bert.json) |
+| Mega Quiz Gaming | 108810 | [108810-mega-quiz-gaming.json](./108810-mega-quiz-gaming.json) |
 | Mega R-Type | 276776 | [276776-mega-r-type.json](./276776-mega-r-type.json) |
 | Mega Ramp Car Jumping | 306542 | [306542-mega-ramp-car-jumping.json](./306542-mega-ramp-car-jumping.json) |
 | Mega Ramp Moto: Dirt Bike Stunts Simulator | 257883 | [257883-mega-ramp-moto-dirt-bike-stunts-simulator.json](./257883-mega-ramp-moto-dirt-bike-stunts-simulator.json) |
@@ -7393,6 +7395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Postman | 342907 | [342907-midnight-postman.json](./342907-midnight-postman.json) |
 | Midnight Pufferfish Show | 250860 | [250860-midnight-pufferfish-show.json](./250860-midnight-pufferfish-show.json) |
 | Midnight Pulse | 106157 | [106157-midnight-pulse.json](./106157-midnight-pulse.json) |
+| Midnight Puppeteer | 108881 | [108881-midnight-puppeteer.json](./108881-midnight-puppeteer.json) |
 | Midnight Racer | 290523 | [290523-midnight-racer.json](./290523-midnight-racer.json) |
 | Midnight Raider | 272472 | [272472-midnight-raider.json](./272472-midnight-raider.json) |
 | Midnight Raiders | 19743 | [19743-midnight-raiders.json](./19743-midnight-raiders.json) |
