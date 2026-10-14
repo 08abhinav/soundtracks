@@ -2674,7 +2674,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Sparrow | 38998 | [38998-red-sparrow.json](./38998-red-sparrow.json) |
 | Red Spider 2: Exiled Remastered | 401844 | [401844-red-spider-2-exiled-remastered.json](./401844-red-spider-2-exiled-remastered.json) |
 | Red Spider Anecdote: The Longest Nite | 324318 | [324318-red-spider-anecdote-the-longest-nite.json](./324318-red-spider-anecdote-the-longest-nite.json) |
+| Red Spider Anecdote: Triangle | 100706 | [100706-red-spider-anecdote-triangle.json](./100706-red-spider-anecdote-triangle.json) |
 | Red Spider: Vengeance Remastered | 371969 | [371969-red-spider-vengeance-remastered.json](./371969-red-spider-vengeance-remastered.json) |
+| Red Spider3: A Heroine Never Dies | 100709 | [100709-red-spider3-a-heroine-never-dies.json](./100709-red-spider3-a-heroine-never-dies.json) |
 | Red Square | 120977 | [120977-red-square.json](./120977-red-square.json) |
 | Red Square Escape 2 | 165612 | [165612-red-square-escape-2.json](./165612-red-square-escape-2.json) |
 | Red Steel | 2258 | [2258-red-steel.json](./2258-red-steel.json) |
@@ -5290,6 +5292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise to Ruins | 36220 | [36220-rise-to-ruins.json](./36220-rise-to-ruins.json) |
 | Rise to Surface | 243092 | [243092-rise-to-surface.json](./243092-rise-to-surface.json) |
 | Rise Up | 95131 | [95131-rise-up.json](./95131-rise-up.json) |
+| Rise Up - Dark Night Mode | 100700 | [100700-rise-up-dark-night-mode.json](./100700-rise-up-dark-night-mode.json) |
 | Rise up - Keeper challenge | 96743 | [96743-rise-up-keeper-challenge.json](./96743-rise-up-keeper-challenge.json) |
 | Rise: Race the Future | 27378 | [27378-rise-race-the-future.json](./27378-rise-race-the-future.json) |
 | RiseExplosion | 302433 | [302433-riseexplosion.json](./302433-riseexplosion.json) |
@@ -7579,6 +7582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rowfall | 200524 | [200524-rowfall.json](./200524-rowfall.json) |
 | RowRow | 114270 | [114270-rowrow.json](./114270-rowrow.json) |
 | Rowtropia | 260628 | [260628-rowtropia.json](./260628-rowtropia.json) |
+| Rox | 100663 | [100663-rox.json](./100663-rox.json) |
 | Rox | 50066 | [50066-rox.json](./50066-rox.json) |
 | Rox II | 315507 | [315507-rox-ii.json](./315507-rox-ii.json) |
 | Rox III | 254996 | [254996-rox-iii.json](./254996-rox-iii.json) |
