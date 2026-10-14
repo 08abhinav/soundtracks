@@ -5141,7 +5141,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crew 2: Steelbook Gold Edition | 122358 | [122358-the-crew-2-steelbook-gold-edition.json](./122358-the-crew-2-steelbook-gold-edition.json) |
 | The Crew Motorfest: JDM Custom Car Pack | 393736 | [393736-the-crew-motorfest-jdm-custom-car-pack.json](./393736-the-crew-motorfest-jdm-custom-car-pack.json) |
 | The Crew Motorfest: Year 1 Pass | 298706 | [298706-the-crew-motorfest-year-1-pass.json](./298706-the-crew-motorfest-year-1-pass.json) |
-| The Crew: Motorfest | 234256 | [234256-the-crew-motorfest.json](./234256-the-crew-motorfest.json) |
 | The Crew: Motorfest - Alfa Romeo Double Car Pack | 408888 | [408888-the-crew-motorfest-alfa-romeo-double-car-pack.json](./408888-the-crew-motorfest-alfa-romeo-double-car-pack.json) |
 | The Crew: Motorfest - Audi Double Car Pack | 393735 | [393735-the-crew-motorfest-audi-double-car-pack.json](./393735-the-crew-motorfest-audi-double-car-pack.json) |
 | The Crew: Motorfest - BMW Double Car Pack | 408887 | [408887-the-crew-motorfest-bmw-double-car-pack.json](./408887-the-crew-motorfest-bmw-double-car-pack.json) |
