@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gals Panic S: Extra Edition | 40144 | [40144-gals-panic-s-extra-edition.json](./40144-gals-panic-s-extra-edition.json) |
 | Gals Panic S2 | 40145 | [40145-gals-panic-s2.json](./40145-gals-panic-s2.json) |
 | Gals Panic S3 | 40143 | [40143-gals-panic-s3.json](./40143-gals-panic-s3.json) |
+| Gals Quest | 82704 | [82704-gals-quest.json](./82704-gals-quest.json) |
 | Galshell 2 | 224500 | [224500-galshell-2.json](./224500-galshell-2.json) |
 | Galumb | 414573 | [414573-galumb.json](./414573-galumb.json) |
 | Galvanic Bride | 260183 | [260183-galvanic-bride.json](./260183-galvanic-bride.json) |
@@ -6276,6 +6277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Wanderings | 86552 | [86552-grim-wanderings.json](./86552-grim-wanderings.json) |
 | Grim Wanderings II | 170787 | [170787-grim-wanderings-ii.json](./170787-grim-wanderings-ii.json) |
 | Grim-World: Survival | 253447 | [253447-grim-world-survival.json](./253447-grim-world-survival.json) |
+| Grim: Mystery of Wasules | 82719 | [82719-grim-mystery-of-wasules.json](./82719-grim-mystery-of-wasules.json) |
 | Grim's Gambit | 280936 | [280936-grims-gambit.json](./280936-grims-gambit.json) |
 | Grimace Run | 192796 | [192796-grimace-run.json](./192796-grimace-run.json) |
 | Grimalkin: Solar Defense Force | 127669 | [127669-grimalkin-solar-defense-force.json](./127669-grimalkin-solar-defense-force.json) |
