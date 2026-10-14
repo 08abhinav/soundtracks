@@ -1299,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Constructor | 169834 | [169834-car-constructor.json](./169834-car-constructor.json) |
 | Car Cops | 247218 | [247218-car-cops.json](./247218-car-cops.json) |
 | Car Crash Couch Party | 83586 | [83586-car-crash-couch-party.json](./83586-car-crash-couch-party.json) |
+| Car Crash Online | 105162 | [105162-car-crash-online.json](./105162-car-crash-online.json) |
 | Car Crash Racing: Stunt Master | 231977 | [231977-car-crash-racing-stunt-master.json](./231977-car-crash-racing-stunt-master.json) |
 | Car Dealer Driver | 207881 | [207881-car-dealer-driver.json](./207881-car-dealer-driver.json) |
 | Car Dealership Simulator | 216183 | [216183-car-dealership-simulator.json](./216183-car-dealership-simulator.json) |
@@ -7793,6 +7794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color of Love | 339410 | [339410-color-of-love.json](./339410-color-of-love.json) |
 | Color of My Sound: Volume 1 | 309534 | [309534-color-of-my-sound-volume-1.json](./309534-color-of-my-sound-volume-1.json) |
 | Color Oil | 74710 | [74710-color-oil.json](./74710-color-oil.json) |
+| Color Party | 105186 | [105186-color-party.json](./105186-color-party.json) |
 | Color Patterns | 369688 | [369688-color-patterns.json](./369688-color-patterns.json) |
 | Color Phase | 157922 | [157922-color-phase.json](./157922-color-phase.json) |
 | Color Picker | 60903 | [60903-color-picker.json](./60903-color-picker.json) |
@@ -11535,6 +11537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critters: Cute Cubs in a Cruel World | 75037 | [75037-critters-cute-cubs-in-a-cruel-world.json](./75037-critters-cute-cubs-in-a-cruel-world.json) |
 | Critterville Goes Bankrupt | 378412 | [378412-critterville-goes-bankrupt.json](./378412-critterville-goes-bankrupt.json) |
 | Crnvrs | 186275 | [186275-crnvrs.json](./186275-crnvrs.json) |
+| Cro Magnon | 105214 | [105214-cro-magnon.json](./105214-cro-magnon.json) |
 | Croak | 314420 | [314420-croak.json](./314420-croak.json) |
 | Croak and Solve | 404433 | [404433-croak-and-solve.json](./404433-croak-and-solve.json) |
 | Croak Cafe: From Pond to Plate | 311487 | [311487-croak-cafe-from-pond-to-plate.json](./311487-croak-cafe-from-pond-to-plate.json) |
