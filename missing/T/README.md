@@ -1714,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapper World Tour | 66079 | [66079-tapper-world-tour.json](./66079-tapper-world-tour.json) |
 | Tapper's Fiefdom | 393491 | [393491-tappers-fiefdom.json](./393491-tappers-fiefdom.json) |
 | Tappingo | 23517 | [23517-tappingo.json](./23517-tappingo.json) |
+| TapPlease | 107046 | [107046-tapplease.json](./107046-tapplease.json) |
 | TapPlus | 384211 | [384211-tapplus.json](./384211-tapplus.json) |
 | Tappump | 265085 | [265085-tappump.json](./265085-tappump.json) |
 | Tappy Cat: Rhythm Collector | 74696 | [74696-tappy-cat-rhythm-collector.json](./74696-tappy-cat-rhythm-collector.json) |
@@ -5877,6 +5878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Stonethorn | 135827 | [135827-the-elder-scrolls-online-stonethorn.json](./135827-the-elder-scrolls-online-stonethorn.json) |
 | The Elder Scrolls Online: Summerset - Collector's Editions | 96024 | [96024-the-elder-scrolls-online-summerset-collectors-editions.json](./96024-the-elder-scrolls-online-summerset-collectors-editions.json) |
 | The Elder Scrolls Online: Waking Flame | 180615 | [180615-the-elder-scrolls-online-waking-flame.json](./180615-the-elder-scrolls-online-waking-flame.json) |
+| The Elder Scrolls Online: Wolfhunter | 107018 | [107018-the-elder-scrolls-online-wolfhunter.json](./107018-the-elder-scrolls-online-wolfhunter.json) |
 | The Elder Scrolls Online: Wrathstone | 116150 | [116150-the-elder-scrolls-online-wrathstone.json](./116150-the-elder-scrolls-online-wrathstone.json) |
 | The Elder Scrolls Renewal Morroblivion | 254473 | [254473-the-elder-scrolls-renewal-morroblivion.json](./254473-the-elder-scrolls-renewal-morroblivion.json) |
 | The Elder Scrolls Renewal: Skywind | 143732 | [143732-the-elder-scrolls-renewal-skywind.json](./143732-the-elder-scrolls-renewal-skywind.json) |
@@ -10852,6 +10854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadows Of Eldergroove | 416096 | [416096-the-shadows-of-eldergroove.json](./416096-the-shadows-of-eldergroove.json) |
 | The Shadows of Mordor | 70055 | [70055-the-shadows-of-mordor.json](./70055-the-shadows-of-mordor.json) |
 | The Shadows of Pygmalion | 30693 | [30693-the-shadows-of-pygmalion.json](./30693-the-shadows-of-pygmalion.json) |
+| The Shadows of Sergoth | 107055 | [107055-the-shadows-of-sergoth.json](./107055-the-shadows-of-sergoth.json) |
 | The Shadows That Linger | 185409 | [185409-the-shadows-that-linger.json](./185409-the-shadows-that-linger.json) |
 | The Shadows That Run Alongside Our Car | 77595 | [77595-the-shadows-that-run-alongside-our-car.json](./77595-the-shadows-that-run-alongside-our-car.json) |
 | The Shadows Within: Nightmare's Game | 304615 | [304615-the-shadows-within-nightmares-game.json](./304615-the-shadows-within-nightmares-game.json) |
@@ -20027,6 +20030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transient Station | 184078 | [184078-transient-station.json](./184078-transient-station.json) |
 | Transient: Extended Edition | 186911 | [186911-transient-extended-edition.json](./186911-transient-extended-edition.json) |
 | Transilio | 270174 | [270174-transilio.json](./270174-transilio.json) |
+| Transiruby | 107019 | [107019-transiruby.json](./107019-transiruby.json) |
 | Transistors Revenge | 297471 | [297471-transistors-revenge.json](./297471-transistors-revenge.json) |
 | Transit | 113505 | [113505-transit.json](./113505-transit.json) |
 | Transit | 365113 | [365113-transit.json](./365113-transit.json) |
@@ -21381,6 +21385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truth of Falchion | 95203 | [95203-truth-of-falchion.json](./95203-truth-of-falchion.json) |
 | Truth or Dare | 91133 | [91133-truth-or-dare.json](./91133-truth-or-dare.json) |
 | Truth or Dare Party | 86909 | [86909-truth-or-dare-party.json](./86909-truth-or-dare-party.json) |
+| Truth or Dare? Fun Party Games | 106945 | [106945-truth-or-dare-fun-party-games.json](./106945-truth-or-dare-fun-party-games.json) |
 | Truth or Lies | 25217 | [25217-truth-or-lies.json](./25217-truth-or-lies.json) |
 | Truth Seekers | 298423 | [298423-truth-seekers.json](./298423-truth-seekers.json) |
 | Truth Universally Acknowledged | 296370 | [296370-truth-universally-acknowledged.json](./296370-truth-universally-acknowledged.json) |
