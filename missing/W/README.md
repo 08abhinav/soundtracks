@@ -2239,6 +2239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Lightford | 273391 | [273391-welcome-to-lightford.json](./273391-welcome-to-lightford.json) |
 | Welcome to Maison Chichigami | 330782 | [330782-welcome-to-maison-chichigami.json](./330782-welcome-to-maison-chichigami.json) |
 | Welcome to Mark's Story in the World of Project: Summer Ice | 210928 | [210928-welcome-to-marks-story-in-the-world-of-project-summer-ice.json](./210928-welcome-to-marks-story-in-the-world-of-project-summer-ice.json) |
+| Welcome to Mexico | 92405 | [92405-welcome-to-mexico.json](./92405-welcome-to-mexico.json) |
 | Welcome to Moreytown | 28650 | [28650-welcome-to-moreytown.json](./28650-welcome-to-moreytown.json) |
 | Welcome to My Cave | 260652 | [260652-welcome-to-my-cave.json](./260652-welcome-to-my-cave.json) |
 | Welcome to nightmare | 117699 | [117699-welcome-to-nightmare.json](./117699-welcome-to-nightmare.json) |
@@ -4061,6 +4062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Games Challenge | 279866 | [279866-winter-games-challenge.json](./279866-winter-games-challenge.json) |
 | Winter Gifts | 412164 | [412164-winter-gifts.json](./412164-winter-gifts.json) |
 | Winter Heat | 367954 | [367954-winter-heat.json](./367954-winter-heat.json) |
+| Winter Is... | 92389 | [92389-winter-is.json](./92389-winter-is.json) |
 | Winter Lord | 329133 | [329133-winter-lord.json](./329133-winter-lord.json) |
 | Winter Magic | 182929 | [182929-winter-magic.json](./182929-winter-magic.json) |
 | Winter Magic | 246548 | [246548-winter-magic.json](./246548-winter-magic.json) |
