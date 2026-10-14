@@ -890,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1on1 Soccer | 59649 | [59649-1on1-soccer.json](./59649-1on1-soccer.json) |
 | 1Second | 363873 | [363873-1second.json](./363873-1second.json) |
 | 1sland | 142339 | [142339-1sland.json](./142339-1sland.json) |
+| 1st CD-Edition | 112186 | [112186-1st-cd-edition.json](./112186-1st-cd-edition.json) |
 | 1st Core | 103444 | [103444-1st-core.json](./103444-1st-core.json) |
 | 1st Grade | 91743 | [91743-1st-grade.json](./91743-1st-grade.json) |
 | 1st Homizio | 378278 | [378278-1st-homizio.json](./378278-1st-homizio.json) |
@@ -1899,6 +1900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Days a Skeptic | 73478 | [73478-7-days-a-skeptic.json](./73478-7-days-a-skeptic.json) |
 | 7 Days Devil | 373016 | [373016-7-days-devil.json](./373016-7-days-devil.json) |
 | 7 Days Heroes | 206436 | [206436-7-days-heroes.json](./206436-7-days-heroes.json) |
+| 7 Days in Dream | 112197 | [112197-7-days-in-dream.json](./112197-7-days-in-dream.json) |
 | 7 Days of Summer: Lost Alpha | 335653 | [335653-7-days-of-summer-lost-alpha.json](./335653-7-days-of-summer-lost-alpha.json) |
 | 7 Days Shrine | 340396 | [340396-7-days-shrine.json](./340396-7-days-shrine.json) |
 | 7 Days to Die | 5574 | [5574-7-days-to-die.json](./5574-7-days-to-die.json) |
