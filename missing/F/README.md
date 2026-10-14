@@ -2786,6 +2786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fibonacci Box | 184369 | [184369-fibonacci-box.json](./184369-fibonacci-box.json) |
 | Fibonacci's Final Sequence | 287209 | [287209-fibonaccis-final-sequence.json](./287209-fibonaccis-final-sequence.json) |
 | Fibras | 378446 | [378446-fibras.json](./378446-fibras.json) |
+| Fibre | 108877 | [108877-fibre.json](./108877-fibre.json) |
 | Fibula | 253945 | [253945-fibula.json](./253945-fibula.json) |
 | Fibula Wars | 145293 | [145293-fibula-wars.json](./145293-fibula-wars.json) |
 | Fickle Allies | 417495 | [417495-fickle-allies.json](./417495-fickle-allies.json) |
