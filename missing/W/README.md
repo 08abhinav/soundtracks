@@ -653,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Kings | 236207 | [236207-war-of-kings.json](./236207-war-of-kings.json) |
 | War of Legends | 306644 | [306644-war-of-legends.json](./306644-war-of-legends.json) |
 | War of Nations | 323324 | [323324-war-of-nations.json](./323324-war-of-nations.json) |
+| War of Ninja | 105728 | [105728-war-of-ninja.json](./105728-war-of-ninja.json) |
 | War of Rights | 33953 | [33953-war-of-rights.json](./33953-war-of-rights.json) |
 | War of Roses | 177506 | [177506-war-of-roses.json](./177506-war-of-roses.json) |
 | War of Ships | 225895 | [225895-war-of-ships.json](./225895-war-of-ships.json) |
@@ -2401,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WestHalla | 257681 | [257681-westhalla.json](./257681-westhalla.json) |
 | WestLand Adventure | 157051 | [157051-westland-adventure.json](./157051-westland-adventure.json) |
 | Westland Cowboy: Rodeo Rider | 259631 | [259631-westland-cowboy-rodeo-rider.json](./259631-westland-cowboy-rodeo-rider.json) |
+| Westland Survival | 105735 | [105735-westland-survival.json](./105735-westland-survival.json) |
 | Westland Survival: Albino Alligator | 383360 | [383360-westland-survival-albino-alligator.json](./383360-westland-survival-albino-alligator.json) |
 | Westland Survival: Uncle Gab’s Signet | 383362 | [383362-westland-survival-uncle-gab-s-signet.json](./383362-westland-survival-uncle-gab-s-signet.json) |
 | Westland Survival: Wind Spirit | 383361 | [383361-westland-survival-wind-spirit.json](./383361-westland-survival-wind-spirit.json) |
@@ -2481,6 +2483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whacky Park | 216796 | [216796-whacky-park.json](./216796-whacky-park.json) |
 | Whale Eater | 183981 | [183981-whale-eater.json](./183981-whale-eater.json) |
 | Whale Game Online | 274529 | [274529-whale-game-online.json](./274529-whale-game-online.json) |
+| Whale Island | 105724 | [105724-whale-island.json](./105724-whale-island.json) |
 | Whale Left: Part 1 | 367942 | [367942-whale-left-part-1.json](./367942-whale-left-part-1.json) |
 | Whale Rock Games: Immersive Puzzles Bundle | 249804 | [249804-whale-rock-games-immersive-puzzles-bundle.json](./249804-whale-rock-games-immersive-puzzles-bundle.json) |
 | Whale Rock: All Games Bundle | 249802 | [249802-whale-rock-all-games-bundle.json](./249802-whale-rock-all-games-bundle.json) |
@@ -4558,6 +4561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizards | 131444 | [131444-wizards.json](./131444-wizards.json) |
 | Wizards & Warriors | 80498 | [80498-wizards-and-warriors.json](./80498-wizards-and-warriors.json) |
 | Wizards & Warriors III: Kuros - Visions of Power | 48092 | [48092-wizards-and-warriors-iii-kuros-visions-of-power.json](./48092-wizards-and-warriors-iii-kuros-visions-of-power.json) |
+| Wizards 2: Better Dead Than Red | 105813 | [105813-wizards-2-better-dead-than-red.json](./105813-wizards-2-better-dead-than-red.json) |
 | Wizards and Warlords | 30132 | [30132-wizards-and-warlords.json](./30132-wizards-and-warlords.json) |
 | Wizards and Warp Drives | 63538 | [63538-wizards-and-warp-drives.json](./63538-wizards-and-warp-drives.json) |
 | Wizards Home | 37381 | [37381-wizards-home.json](./37381-wizards-home.json) |
