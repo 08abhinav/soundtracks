@@ -488,11 +488,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Boxing | 329668 | [329668-backyard-boxing.json](./329668-backyard-boxing.json) |
 | Backyard Buzzing | 285134 | [285134-backyard-buzzing.json](./285134-backyard-buzzing.json) |
 | Backyard Digger | 346673 | [346673-backyard-digger.json](./346673-backyard-digger.json) |
+| Backyard Football | 122751 | [122751-backyard-football.json](./122751-backyard-football.json) |
 | Backyard Football '08 | 43208 | [43208-backyard-football-08.json](./43208-backyard-football-08.json) |
 | Backyard Football '99 | 366897 | [366897-backyard-football-99.json](./366897-backyard-football-99.json) |
 | Backyard Football 2004 | 68879 | [68879-backyard-football-2004.json](./68879-backyard-football-2004.json) |
 | Backyard Football 2006 | 72974 | [72974-backyard-football-2006.json](./72974-backyard-football-2006.json) |
 | Backyard Fury | 183304 | [183304-backyard-fury.json](./183304-backyard-fury.json) |
+| Backyard Hockey | 122753 | [122753-backyard-hockey.json](./122753-backyard-hockey.json) |
 | Backyard Hockey | 206012 | [206012-backyard-hockey.json](./206012-backyard-hockey.json) |
 | Backyard Hockey | 49244 | [49244-backyard-hockey.json](./49244-backyard-hockey.json) |
 | Backyard Hockey ‘02 | 377817 | [377817-backyard-hockey-02.json](./377817-backyard-hockey-02.json) |
@@ -1079,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballistic | 29767 | [29767-ballistic.json](./29767-ballistic.json) |
 | Ballistic | 302039 | [302039-ballistic.json](./302039-ballistic.json) |
 | Ballistic | 80488 | [80488-ballistic.json](./80488-ballistic.json) |
+| Ballistic Baseball | 122761 | [122761-ballistic-baseball.json](./122761-ballistic-baseball.json) |
 | Ballistic Brews | 415866 | [415866-ballistic-brews.json](./415866-ballistic-brews.json) |
 | Ballistic Craft | 128300 | [128300-ballistic-craft.json](./128300-ballistic-craft.json) |
 | Ballistic M.A.D.ness | 156887 | [156887-ballistic-m-a-d-ness.json](./156887-ballistic-m-a-d-ness.json) |
@@ -2977,6 +2980,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleships Simulator | 407557 | [407557-battleships-simulator.json](./407557-battleships-simulator.json) |
 | BattleSide | 267477 | [267477-battleside.json](./267477-battleside.json) |
 | Battlesight | 132128 | [132128-battlesight.json](./132128-battlesight.json) |
+| BattleSky Brigade: Harpooner | 122764 | [122764-battlesky-brigade-harpooner.json](./122764-battlesky-brigade-harpooner.json) |
+| BattleSky Brigade: TapTap | 122763 | [122763-battlesky-brigade-taptap.json](./122763-battlesky-brigade-taptap.json) |
+| BattleSky Brigade: Tribes | 122762 | [122762-battlesky-brigade-tribes.json](./122762-battlesky-brigade-tribes.json) |
 | Battlesloths 2025: The Great Pizza Wars | 33090 | [33090-battlesloths-2025-the-great-pizza-wars.json](./33090-battlesloths-2025-the-great-pizza-wars.json) |
 | Battlesmiths: Blade and Forge | 269762 | [269762-battlesmiths-blade-and-forge.json](./269762-battlesmiths-blade-and-forge.json) |
 | Battlesnake | 151464 | [151464-battlesnake.json](./151464-battlesnake.json) |
@@ -4694,6 +4700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biathlon 2008 | 70651 | [70651-biathlon-2008.json](./70651-biathlon-2008.json) |
 | Bibbidiba Fan Game | 338234 | [338234-bibbidiba-fan-game.json](./338234-bibbidiba-fan-game.json) |
 | Bibdu | 395855 | [395855-bibdu.json](./395855-bibdu.json) |
+| Bibi & Tina at the Horse Farm | 122789 | [122789-bibi-and-tina-at-the-horse-farm.json](./122789-bibi-and-tina-at-the-horse-farm.json) |
 | Bibi & Tina: Das grosse Reiterfest | 268112 | [268112-bibi-and-tina-das-grosse-reiterfest.json](./268112-bibi-and-tina-das-grosse-reiterfest.json) |
 | Bibi & Tina: Das große Unwetter | 216453 | [216453-bibi-and-tina-das-gro-e-unwetter.json](./216453-bibi-and-tina-das-gro-e-unwetter.json) |
 | Bibi & Tina: Die große Schnitzeljagd | 216188 | [216188-bibi-and-tina-die-gro-e-schnitzeljagd.json](./216188-bibi-and-tina-die-gro-e-schnitzeljagd.json) |
@@ -6682,6 +6689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blinded by Fear | 213541 | [213541-blinded-by-fear.json](./213541-blinded-by-fear.json) |
 | Blindernoth | 362995 | [362995-blindernoth.json](./362995-blindernoth.json) |
 | Blindfire | 320139 | [320139-blindfire.json](./320139-blindfire.json) |
+| Blindfold | 123328 | [123328-blindfold.json](./123328-blindfold.json) |
 | Blindfold | 356150 | [356150-blindfold.json](./356150-blindfold.json) |
 | Blindfold: Hide and Seek | 413172 | [413172-blindfold-hide-and-seek.json](./413172-blindfold-hide-and-seek.json) |
 | BlindGiRl2 | 65449 | [65449-blindgirl2.json](./65449-blindgirl2.json) |
@@ -11756,6 +11764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Driving Simulator 24: City Roads - School Bus | 284960 | [284960-bus-driving-simulator-24-city-roads-school-bus.json](./284960-bus-driving-simulator-24-city-roads-school-bus.json) |
 | Bus Escape: Traffic Jam | 357384 | [357384-bus-escape-traffic-jam.json](./357384-bus-escape-traffic-jam.json) |
 | Bus Fix 2019 | 120179 | [120179-bus-fix-2019.json](./120179-bus-fix-2019.json) |
+| Bus Mechanic Simulator | 123315 | [123315-bus-mechanic-simulator.json](./123315-bus-mechanic-simulator.json) |
 | Bus Parking 3D | 221366 | [221366-bus-parking-3d.json](./221366-bus-parking-3d.json) |
 | Bus Racing: Offroad 2018 | 106516 | [106516-bus-racing-offroad-2018.json](./106516-bus-racing-offroad-2018.json) |
 | Bus Sim 25: City Simulator | 349811 | [349811-bus-sim-25-city-simulator.json](./349811-bus-sim-25-city-simulator.json) |
