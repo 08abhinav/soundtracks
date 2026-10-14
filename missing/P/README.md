@@ -4991,6 +4991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piradice | 176290 | [176290-piradice.json](./176290-piradice.json) |
 | Piraka Attack | 409761 | [409761-piraka-attack.json](./409761-piraka-attack.json) |
 | Piranha | 351661 | [351661-piranha.json](./351661-piranha.json) |
+| Piranha Panic | 114750 | [114750-piranha-panic.json](./114750-piranha-panic.json) |
 | Pirap Ilji: Geu Namjarobuteoui Talchul | 208655 | [208655-pirap-ilji-geu-namjarobuteoui-talchul.json](./208655-pirap-ilji-geu-namjarobuteoui-talchul.json) |
 | Pirarucu's Money Rush | 301023 | [301023-pirarucus-money-rush.json](./301023-pirarucus-money-rush.json) |
 | Piratado 1 | 30743 | [30743-piratado-1.json](./30743-piratado-1.json) |
