@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T18:20:58.494Z",
-  "total_missing": 211838,
+  "generated_at": "2026-10-14T18:42:38.468Z",
+  "total_missing": 211842,
   "games": [
     {
       "igdb_id": 191680,
@@ -244620,11 +244620,6 @@
       "igdb_id": 214128,
       "game_name": "Doom I Enhanced",
       "file": "missing/D/214128-doom-i-enhanced.json"
-    },
-    {
-      "igdb_id": 121503,
-      "game_name": "Doom II",
-      "file": "missing/D/121503-doom-ii.json"
     },
     {
       "igdb_id": 132823,
@@ -620737,11 +620732,6 @@
       "file": "missing/O/36934-omen-flesh-metal-and-magic.json"
     },
     {
-      "igdb_id": 80916,
-      "game_name": "Omensight",
-      "file": "missing/O/80916-omensight.json"
-    },
-    {
       "igdb_id": 112879,
       "game_name": "Omensight: Definitive Edition",
       "file": "missing/O/112879-omensight-definitive-edition.json"
@@ -840682,6 +840672,11 @@
       "file": "missing/S/4185-strike-force-bowling.json"
     },
     {
+      "igdb_id": 85400,
+      "game_name": "Strike Force Foxx",
+      "file": "missing/S/85400-strike-force-foxx.json"
+    },
+    {
       "igdb_id": 26480,
       "game_name": "Strike Force Harrier",
       "file": "missing/S/26480-strike-force-harrier.json"
@@ -841850,6 +841845,11 @@
       "igdb_id": 91257,
       "game_name": "Stunt Car Parking and Driving Simulator",
       "file": "missing/S/91257-stunt-car-parking-and-driving-simulator.json"
+    },
+    {
+      "igdb_id": 85399,
+      "game_name": "Stunt Cars",
+      "file": "missing/S/85399-stunt-cars.json"
     },
     {
       "igdb_id": 229021,
@@ -843285,6 +843285,31 @@
       "igdb_id": 85406,
       "game_name": "Successfully Learning German: Year 4",
       "file": "missing/S/85406-successfully-learning-german-year-4.json"
+    },
+    {
+      "igdb_id": 85405,
+      "game_name": "Successfully Learning German: Year 5",
+      "file": "missing/S/85405-successfully-learning-german-year-5.json"
+    },
+    {
+      "igdb_id": 85404,
+      "game_name": "Successfully Learning Mathematics: Year 2",
+      "file": "missing/S/85404-successfully-learning-mathematics-year-2.json"
+    },
+    {
+      "igdb_id": 85403,
+      "game_name": "Successfully Learning Mathematics: Year 3",
+      "file": "missing/S/85403-successfully-learning-mathematics-year-3.json"
+    },
+    {
+      "igdb_id": 85402,
+      "game_name": "Successfully Learning Mathematics: Year 4",
+      "file": "missing/S/85402-successfully-learning-mathematics-year-4.json"
+    },
+    {
+      "igdb_id": 85401,
+      "game_name": "Successfully Learning Mathematics: Year 5",
+      "file": "missing/S/85401-successfully-learning-mathematics-year-5.json"
     },
     {
       "igdb_id": 103935,
@@ -847525,11 +847550,6 @@
       "igdb_id": 163212,
       "game_name": "Super Angry Birds",
       "file": "missing/S/163212-super-angry-birds.json"
-    },
-    {
-      "igdb_id": 109826,
-      "game_name": "Super Animal Royale",
-      "file": "missing/S/109826-super-animal-royale.json"
     },
     {
       "igdb_id": 204696,
