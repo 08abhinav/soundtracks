@@ -4214,6 +4214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NodalBastion | 378196 | [378196-nodalbastion.json](./378196-nodalbastion.json) |
 | Nodame Cantabile: Dream Orchestra | 268432 | [268432-nodame-cantabile-dream-orchestra.json](./268432-nodame-cantabile-dream-orchestra.json) |
 | Noddy and the Birthday Party | 50549 | [50549-noddy-and-the-birthday-party.json](./50549-noddy-and-the-birthday-party.json) |
+| Noddy in Toyland | 98333 | [98333-noddy-in-toyland.json](./98333-noddy-in-toyland.json) |
 | Noddy: A Day in Toyland | 49388 | [49388-noddy-a-day-in-toyland.json](./49388-noddy-a-day-in-toyland.json) |
 | Noddy: The Magic of Toytown on a CD-ROM | 130271 | [130271-noddy-the-magic-of-toytown-on-a-cd-rom.json](./130271-noddy-the-magic-of-toytown-on-a-cd-rom.json) |
 | Noddy's Big Adventure | 321603 | [321603-noddys-big-adventure.json](./321603-noddys-big-adventure.json) |
