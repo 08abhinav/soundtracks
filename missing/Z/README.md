@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zebra Evolution | 206734 | [206734-zebra-evolution.json](./206734-zebra-evolution.json) |
 | Zebra Logic Master | 238995 | [238995-zebra-logic-master.json](./238995-zebra-logic-master.json) |
 | Zed | 112831 | [112831-zed.json](./112831-zed.json) |
+| Zed Shot | 107041 | [107041-zed-shot.json](./107041-zed-shot.json) |
 | Zed Zone | 216810 | [216810-zed-zone.json](./216810-zed-zone.json) |
 | ZED: Absolution | 62030 | [62030-zed-absolution.json](./62030-zed-absolution.json) |
 | Zeddas | 242258 | [242258-zeddas.json](./242258-zeddas.json) |
