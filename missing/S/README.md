@@ -5121,7 +5121,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Was 98 | 385327 | [385327-she-was-98.json](./385327-she-was-98.json) |
 | She Who Fights Monsters: Choice Edition | 186168 | [186168-she-who-fights-monsters-choice-edition.json](./186168-she-who-fights-monsters-choice-edition.json) |
 | She Will Shoot | 173250 | [173250-she-will-shoot.json](./173250-she-will-shoot.json) |
-| SHE: Seraphim Helix Experiment | 404877 | [404877-she-seraphim-helix-experiment.json](./404877-she-seraphim-helix-experiment.json) |
 | She's a Bit Sluggish | 179109 | [179109-shes-a-bit-sluggish.json](./179109-shes-a-bit-sluggish.json) |
 | She's Got a Thing for a Spring | 217773 | [217773-shes-got-a-thing-for-a-spring.json](./217773-shes-got-a-thing-for-a-spring.json) |
 | She's Leaving | 342811 | [342811-shes-leaving.json](./342811-shes-leaving.json) |
@@ -5141,6 +5140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep & Love | 390700 | [390700-sheep-and-love.json](./390700-sheep-and-love.json) |
 | Sheep a Sheep | 223917 | [223917-sheep-a-sheep.json](./223917-sheep-a-sheep.json) |
 | Sheep Annoyer | 183886 | [183886-sheep-annoyer.json](./183886-sheep-annoyer.json) |
+| Sheep Collision | 116083 | [116083-sheep-collision.json](./116083-sheep-collision.json) |
 | Sheep Dog | 410445 | [410445-sheep-dog.json](./410445-sheep-dog.json) |
 | Sheep Game | 99636 | [99636-sheep-game.json](./99636-sheep-game.json) |
 | Sheep Gather | 290994 | [290994-sheep-gather.json](./290994-sheep-gather.json) |
@@ -13551,6 +13551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spare Heart | 340549 | [340549-spare-heart.json](./340549-spare-heart.json) |
 | Spare Parts: Episode 1 | 162854 | [162854-spare-parts-episode-1.json](./162854-spare-parts-episode-1.json) |
 | Spare Parts: Episode 2 | 162855 | [162855-spare-parts-episode-2.json](./162855-spare-parts-episode-2.json) |
+| Spare Teeth VR | 116203 | [116203-spare-teeth-vr.json](./116203-spare-teeth-vr.json) |
 | Spared! | 330112 | [330112-spared.json](./330112-spared.json) |
 | Sparedevil | 303840 | [303840-sparedevil.json](./303840-sparedevil.json) |
 | Sparganator | 348963 | [348963-sparganator.json](./348963-sparganator.json) |
@@ -13912,6 +13913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpeedRooms | 268957 | [268957-speedrooms.json](./268957-speedrooms.json) |
 | Speedrun | 140924 | [140924-speedrun.json](./140924-speedrun.json) |
 | Speedrun | 148854 | [148854-speedrun.json](./148854-speedrun.json) |
+| Speedrun Ninja | 116204 | [116204-speedrun-ninja.json](./116204-speedrun-ninja.json) |
 | Speedrun Squid | 185133 | [185133-speedrun-squid.json](./185133-speedrun-squid.json) |
 | Speedrun the Game | 159309 | [159309-speedrun-the-game.json](./159309-speedrun-the-game.json) |
 | Speedrun World | 405669 | [405669-speedrun-world.json](./405669-speedrun-world.json) |
@@ -16626,6 +16628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlit On Wheels: Super Kart | 239614 | [239614-starlit-on-wheels-super-kart.json](./239614-starlit-on-wheels-super-kart.json) |
 | Starlit Stories | 304825 | [304825-starlit-stories.json](./304825-starlit-stories.json) |
 | Starlit World | 400322 | [400322-starlit-world.json](./400322-starlit-world.json) |
+| Starlit: Colony | 116198 | [116198-starlit-colony.json](./116198-starlit-colony.json) |
 | Starlite | 137057 | [137057-starlite.json](./137057-starlite.json) |
 | Starlite: Astronaut Rescue | 16879 | [16879-starlite-astronaut-rescue.json](./16879-starlite-astronaut-rescue.json) |
 | Starlite: Defender of Justice | 156687 | [156687-starlite-defender-of-justice.json](./156687-starlite-defender-of-justice.json) |
@@ -23630,6 +23633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Crystals | 268947 | [268947-swords-and-crystals.json](./268947-swords-and-crystals.json) |
 | Swords & Crystals: Dragon Hatchling Pet | 298185 | [298185-swords-and-crystals-dragon-hatchling-pet.json](./298185-swords-and-crystals-dragon-hatchling-pet.json) |
 | Swords & Darkness | 85411 | [85411-swords-and-darkness.json](./85411-swords-and-darkness.json) |
+| Swords & Dragons | 116202 | [116202-swords-and-dragons.json](./116202-swords-and-dragons.json) |
 | Swords & Earrings: Tales of Andaria | 373853 | [373853-swords-and-earrings-tales-of-andaria.json](./373853-swords-and-earrings-tales-of-andaria.json) |
 | Swords & Monsters | 92083 | [92083-swords-and-monsters.json](./92083-swords-and-monsters.json) |
 | Swords & Serpents | 18582 | [18582-swords-and-serpents.json](./18582-swords-and-serpents.json) |
