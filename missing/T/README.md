@@ -3011,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminus | 171327 | [171327-terminus.json](./171327-terminus.json) |
 | Terminus | 352261 | [352261-terminus.json](./352261-terminus.json) |
 | Terminus Machina | 230287 | [230287-terminus-machina.json](./230287-terminus-machina.json) |
+| Terminus: Survival | 120651 | [120651-terminus-survival.json](./120651-terminus-survival.json) |
 | Terminus: Ultiverse | 288755 | [288755-terminus-ultiverse.json](./288755-terminus-ultiverse.json) |
 | Terminus: Zombie Survivors | 155570 | [155570-terminus-zombie-survivors.json](./155570-terminus-zombie-survivors.json) |
 | Terminus: Zombie Survivors - Last Escape | 366727 | [366727-terminus-zombie-survivors-last-escape.json](./366727-terminus-zombie-survivors-last-escape.json) |
@@ -3232,6 +3233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tessel Run | 391753 | [391753-tessel-run.json](./391753-tessel-run.json) |
 | Tessera | 333113 | [333113-tessera.json](./333113-tessera.json) |
 | Tesseract VR | 99602 | [99602-tesseract-vr.json](./99602-tesseract-vr.json) |
+| TesserActive | 120633 | [120633-tesseractive.json](./120633-tesseractive.json) |
 | Tesserae | 71921 | [71921-tesserae.json](./71921-tesserae.json) |
 | Test Drive | 2200 | [2200-test-drive.json](./2200-test-drive.json) |
 | Test Drive 2001 | 49876 | [49876-test-drive-2001.json](./49876-test-drive-2001.json) |
@@ -3606,6 +3608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThaumOS | 184462 | [184462-thaumos.json](./184462-thaumos.json) |
 | Thawed Waters | 260254 | [260254-thawed-waters.json](./260254-thawed-waters.json) |
 | Thaxted Havershill and the Golden Wombat | 57486 | [57486-thaxted-havershill-and-the-golden-wombat.json](./57486-thaxted-havershill-and-the-golden-wombat.json) |
+| THC | 120106 | [120106-thc.json](./120106-thc.json) |
 | THC: Alien Abduction | 163339 | [163339-thc-alien-abduction.json](./163339-thc-alien-abduction.json) |
 | The "A" Game | 106513 | [106513-the-a-game.json](./106513-the-a-game.json) |
 | The "Quiet, Please!" Collection | 95193 | [95193-the-quiet-please-collection.json](./95193-the-quiet-please-collection.json) |
@@ -4273,6 +4276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beast | 374223 | [374223-the-beast.json](./374223-the-beast.json) |
 | The Beast Inside | 88116 | [88116-the-beast-inside.json](./88116-the-beast-inside.json) |
 | The Beast Is yet to Come | 373685 | [373685-the-beast-is-yet-to-come.json](./373685-the-beast-is-yet-to-come.json) |
+| The Beast of Gevaudan | 120103 | [120103-the-beast-of-gevaudan.json](./120103-the-beast-of-gevaudan.json) |
 | The Beast of Lycan Isle: Collector's Edition | 340991 | [340991-the-beast-of-lycan-isle-collectors-edition.json](./340991-the-beast-of-lycan-isle-collectors-edition.json) |
 | The Beast of Stormy Forest | 149898 | [149898-the-beast-of-stormy-forest.json](./149898-the-beast-of-stormy-forest.json) |
 | The Beast of the Rosewood | 302134 | [302134-the-beast-of-the-rosewood.json](./302134-the-beast-of-the-rosewood.json) |
@@ -5808,8 +5812,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Adventures: Redguard | 55 | [55-the-elder-scrolls-adventures-redguard.json](./55-the-elder-scrolls-adventures-redguard.json) |
 | The Elder Scrolls III: Morrowind - Game of the Year Edition | 24775 | [24775-the-elder-scrolls-iii-morrowind-game-of-the-year-edition.json](./24775-the-elder-scrolls-iii-morrowind-game-of-the-year-edition.json) |
 | The Elder Scrolls III: Tribunal | 57 | [57-the-elder-scrolls-iii-tribunal.json](./57-the-elder-scrolls-iii-tribunal.json) |
+| The Elder Scrolls IV: Oblivion - Fighter's Stronghold | 120642 | [120642-the-elder-scrolls-iv-oblivion-fighters-stronghold.json](./120642-the-elder-scrolls-iv-oblivion-fighters-stronghold.json) |
 | The Elder Scrolls IV: Oblivion - Game of the Year Edition | 27845 | [27845-the-elder-scrolls-iv-oblivion-game-of-the-year-edition.json](./27845-the-elder-scrolls-iv-oblivion-game-of-the-year-edition.json) |
 | The Elder Scrolls IV: Oblivion - Game of the Year Edition Deluxe | 27844 | [27844-the-elder-scrolls-iv-oblivion-game-of-the-year-edition-deluxe.json](./27844-the-elder-scrolls-iv-oblivion-game-of-the-year-edition-deluxe.json) |
+| The Elder Scrolls IV: Oblivion - Horse Armor Pack | 120635 | [120635-the-elder-scrolls-iv-oblivion-horse-armor-pack.json](./120635-the-elder-scrolls-iv-oblivion-horse-armor-pack.json) |
+| The Elder Scrolls IV: Oblivion - Mehrunes' Razor | 120638 | [120638-the-elder-scrolls-iv-oblivion-mehrunes-razor.json](./120638-the-elder-scrolls-iv-oblivion-mehrunes-razor.json) |
+| The Elder Scrolls IV: Oblivion - Spell Tomes | 120636 | [120636-the-elder-scrolls-iv-oblivion-spell-tomes.json](./120636-the-elder-scrolls-iv-oblivion-spell-tomes.json) |
+| The Elder Scrolls IV: Oblivion - The Orrery | 120641 | [120641-the-elder-scrolls-iv-oblivion-the-orrery.json](./120641-the-elder-scrolls-iv-oblivion-the-orrery.json) |
+| The Elder Scrolls IV: Oblivion - The Thieves Den | 120639 | [120639-the-elder-scrolls-iv-oblivion-the-thieves-den.json](./120639-the-elder-scrolls-iv-oblivion-the-thieves-den.json) |
+| The Elder Scrolls IV: Oblivion - The Vile Lair | 120637 | [120637-the-elder-scrolls-iv-oblivion-the-vile-lair.json](./120637-the-elder-scrolls-iv-oblivion-the-vile-lair.json) |
+| The Elder Scrolls IV: Oblivion - The Wizard's Tower | 120640 | [120640-the-elder-scrolls-iv-oblivion-the-wizards-tower.json](./120640-the-elder-scrolls-iv-oblivion-the-wizards-tower.json) |
 | The Elder Scrolls IV: Oblivion Mobile | 209010 | [209010-the-elder-scrolls-iv-oblivion-mobile.json](./209010-the-elder-scrolls-iv-oblivion-mobile.json) |
 | The Elder Scrolls Online Collection: Gold Road | 306484 | [306484-the-elder-scrolls-online-collection-gold-road.json](./306484-the-elder-scrolls-online-collection-gold-road.json) |
 | The Elder Scrolls Online: 2025 Premium Edition | 340745 | [340745-the-elder-scrolls-online-2025-premium-edition.json](./340745-the-elder-scrolls-online-2025-premium-edition.json) |
@@ -9671,6 +9683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Orphan Dreams | 33160 | [33160-the-orphan-dreams.json](./33160-the-orphan-dreams.json) |
 | The Orphanage | 236381 | [236381-the-orphanage.json](./236381-the-orphanage.json) |
 | The Orphaned House | 413212 | [413212-the-orphaned-house.json](./413212-the-orphaned-house.json) |
+| The Orville: Interactive Fan Experience | 120669 | [120669-the-orville-interactive-fan-experience.json](./120669-the-orville-interactive-fan-experience.json) |
 | The Othello | 91958 | [91958-the-othello.json](./91958-the-othello.json) |
 | The Other | 185366 | [185366-the-other.json](./185366-the-other.json) |
 | The Other Brothers | 116428 | [116428-the-other-brothers.json](./116428-the-other-brothers.json) |
@@ -11577,6 +11590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tales of Bayun | 200111 | [200111-the-tales-of-bayun.json](./200111-the-tales-of-bayun.json) |
 | The Tales of Bearsworth Manor: Puzzling Pages | 85446 | [85446-the-tales-of-bearsworth-manor-puzzling-pages.json](./85446-the-tales-of-bearsworth-manor-puzzling-pages.json) |
 | The Tales of Bingwood: Chapter I - To Save a Princess | 113472 | [113472-the-tales-of-bingwood-chapter-i-to-save-a-princess.json](./113472-the-tales-of-bingwood-chapter-i-to-save-a-princess.json) |
+| The Tales of Epicton Kingdom | 120648 | [120648-the-tales-of-epicton-kingdom.json](./120648-the-tales-of-epicton-kingdom.json) |
 | The Tales of Redbox: An Escape From Desire | 149377 | [149377-the-tales-of-redbox-an-escape-from-desire.json](./149377-the-tales-of-redbox-an-escape-from-desire.json) |
 | The Tales of the Magical Space Dough: Rebaked | 379439 | [379439-the-tales-of-the-magical-space-dough-rebaked.json](./379439-the-tales-of-the-magical-space-dough-rebaked.json) |
 | The Tales of Wonderlend | 379441 | [379441-the-tales-of-wonderlend.json](./379441-the-tales-of-wonderlend.json) |
