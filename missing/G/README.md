@@ -7392,6 +7392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns of Fort Defiance | 24797 | [24797-guns-of-fort-defiance.json](./24797-guns-of-fort-defiance.json) |
 | Guns of Fury | 312358 | [312358-guns-of-fury.json](./312358-guns-of-fury.json) |
 | Guns of Gaia | 353779 | [353779-guns-of-gaia.json](./353779-guns-of-gaia.json) |
+| Guns of Glory | 91267 | [91267-guns-of-glory.json](./91267-guns-of-glory.json) |
 | Guns of Icarus Alliance | 21989 | [21989-guns-of-icarus-alliance.json](./21989-guns-of-icarus-alliance.json) |
 | Guns of Icarus Online | 3076 | [3076-guns-of-icarus-online.json](./3076-guns-of-icarus-online.json) |
 | Guns of Infinity | 33440 | [33440-guns-of-infinity.json](./33440-guns-of-infinity.json) |
