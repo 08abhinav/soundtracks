@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Ice Hockey | 64348 | [64348-table-ice-hockey.json](./64348-table-ice-hockey.json) |
 | Table Letters | 283837 | [283837-table-letters.json](./283837-table-letters.json) |
 | Table of Tales: The Crooked Crown | 103347 | [103347-table-of-tales-the-crooked-crown.json](./103347-table-of-tales-the-crooked-crown.json) |
+| Table Soccer | 94130 | [94130-table-soccer.json](./94130-table-soccer.json) |
 | Table Soccer Foosball | 147953 | [147953-table-soccer-foosball.json](./147953-table-soccer-foosball.json) |
 | Table Space: Board and Card Game Sandbox | 389701 | [389701-table-space-board-and-card-game-sandbox.json](./389701-table-space-board-and-card-game-sandbox.json) |
 | Table Tennis | 11500 | [11500-table-tennis.json](./11500-table-tennis.json) |
@@ -2892,6 +2893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis-e | 170010 | [170010-tennis-e.json](./170010-tennis-e.json) |
 | Tennis/Squash | 92528 | [92528-tennis-squash.json](./92528-tennis-squash.json) |
 | Tennistronic | 311630 | [311630-tennistronic.json](./311630-tennistronic.json) |
+| Tennnes | 94146 | [94146-tennnes.json](./94146-tennnes.json) |
 | Tenno | 290536 | [290536-tenno.json](./290536-tenno.json) |
 | Tenome | 205784 | [205784-tenome.json](./205784-tenome.json) |
 | Tenori-on | 213054 | [213054-tenori-on.json](./213054-tenori-on.json) |
@@ -3421,6 +3423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris for Windows CE | 203113 | [203113-tetris-for-windows-ce.json](./203113-tetris-for-windows-ce.json) |
 | Tetris Forever | 314934 | [314934-tetris-forever.json](./314934-tetris-forever.json) |
 | Tetris Giant | 92457 | [92457-tetris-giant.json](./92457-tetris-giant.json) |
+| Tetris HD | 94129 | [94129-tetris-hd.json](./94129-tetris-hd.json) |
 | Tetris Illuminated Mega Screen | 233647 | [233647-tetris-illuminated-mega-screen.json](./233647-tetris-illuminated-mega-screen.json) |
 | Tetris Jr. | 351732 | [351732-tetris-jr.json](./351732-tetris-jr.json) |
 | Tetris Keyring Arcade | 234080 | [234080-tetris-keyring-arcade.json](./234080-tetris-keyring-arcade.json) |
@@ -6816,6 +6819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golden Tower | 362911 | [362911-the-golden-tower.json](./362911-the-golden-tower.json) |
 | The Golden Tulip | 184460 | [184460-the-golden-tulip.json](./184460-the-golden-tulip.json) |
 | The Golem | 138674 | [138674-the-golem.json](./138674-the-golem.json) |
+| The Golf | 94116 | [94116-the-golf.json](./94116-the-golf.json) |
 | The Golf Club 2 | 28247 | [28247-the-golf-club-2.json](./28247-the-golf-club-2.json) |
 | The Golf Club 2019 featuring PGA Tour | 91128 | [91128-the-golf-club-2019-featuring-pga-tour.json](./91128-the-golf-club-2019-featuring-pga-tour.json) |
 | The Golf Club VR | 27545 | [27545-the-golf-club-vr.json](./27545-the-golf-club-vr.json) |
@@ -11441,6 +11445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spreader | 312021 | [312021-the-spreader.json](./312021-the-spreader.json) |
 | The Spring | 366312 | [366312-the-spring.json](./366312-the-spring.json) |
 | The Springlock: Aftermath | 315504 | [315504-the-springlock-aftermath.json](./315504-the-springlock-aftermath.json) |
+| The Spy | 94115 | [94115-the-spy.json](./94115-the-spy.json) |
 | The Spy I Married | 327991 | [327991-the-spy-i-married.json](./327991-the-spy-i-married.json) |
 | The Square Game | 130377 | [130377-the-square-game.json](./130377-the-square-game.json) |
 | The Squash P | 227921 | [227921-the-squash-p.json](./227921-the-squash-p.json) |
@@ -18095,6 +18100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour De France | 95456 | [95456-tour-de-france.json](./95456-tour-de-france.json) |
 | Tour de France 2009 | 21247 | [21247-tour-de-france-2009.json](./21247-tour-de-france-2009.json) |
 | Tour de France 2011 | 92464 | [92464-tour-de-france-2011.json](./92464-tour-de-france-2011.json) |
+| Tour de France 2012 | 94161 | [94161-tour-de-france-2012.json](./94161-tour-de-france-2012.json) |
 | Tour de France 2014 | 80876 | [80876-tour-de-france-2014.json](./80876-tour-de-france-2014.json) |
 | Tour de France 2015 | 60198 | [60198-tour-de-france-2015.json](./60198-tour-de-france-2015.json) |
 | Tour de France 2016 | 82417 | [82417-tour-de-france-2016.json](./82417-tour-de-france-2016.json) |
@@ -22084,6 +22090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV Guide | 135699 | [135699-tv-guide.json](./135699-tv-guide.json) |
 | TV Night | 177800 | [177800-tv-night.json](./177800-tv-night.json) |
 | TV no Himitsu: Gyoukai Aruaru wo Sagase! | 251627 | [251627-tv-no-himitsu-gyoukai-aruaru-wo-sagase.json](./251627-tv-no-himitsu-gyoukai-aruaru-wo-sagase.json) |
+| TV School House II: Math Fun | 94125 | [94125-tv-school-house-ii-math-fun.json](./94125-tv-school-house-ii-math-fun.json) |
 | TV Show King | 21825 | [21825-tv-show-king.json](./21825-tv-show-king.json) |
 | TV Show King 2 | 50724 | [50724-tv-show-king-2.json](./50724-tv-show-king-2.json) |
 | TV Show King Party | 5248 | [5248-tv-show-king-party.json](./5248-tv-show-king-party.json) |
