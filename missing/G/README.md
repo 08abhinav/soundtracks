@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Civilizations IV: Tales of Centauron | 277000 | [277000-galactic-civilizations-iv-tales-of-centauron.json](./277000-galactic-civilizations-iv-tales-of-centauron.json) |
 | Galactic Civilizations IV: Tales of the Arnor | 277001 | [277001-galactic-civilizations-iv-tales-of-the-arnor.json](./277001-galactic-civilizations-iv-tales-of-the-arnor.json) |
 | Galactic Civilizations IV: Warlords | 277002 | [277002-galactic-civilizations-iv-warlords.json](./277002-galactic-civilizations-iv-warlords.json) |
+| Galactic Clicker | 102029 | [102029-galactic-clicker.json](./102029-galactic-clicker.json) |
 | Galactic Command Echo Squad SE | 17156 | [17156-galactic-command-echo-squad-se.json](./17156-galactic-command-echo-squad-se.json) |
 | Galactic Commandos | 250014 | [250014-galactic-commandos.json](./250014-galactic-commandos.json) |
 | Galactic Conquest | 94918 | [94918-galactic-conquest.json](./94918-galactic-conquest.json) |
@@ -2558,6 +2559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Pursuit VR | 31977 | [31977-ghost-pursuit-vr.json](./31977-ghost-pursuit-vr.json) |
 | Ghost Racer | 174212 | [174212-ghost-racer.json](./174212-ghost-racer.json) |
 | Ghost Racing: Formula E | 130324 | [130324-ghost-racing-formula-e.json](./130324-ghost-racing-formula-e.json) |
+| Ghost Rebel | 102039 | [102039-ghost-rebel.json](./102039-ghost-rebel.json) |
 | Ghost Recon: Heroes Unleashed | 283119 | [283119-ghost-recon-heroes-unleashed.json](./283119-ghost-recon-heroes-unleashed.json) |
 | Ghost Restaurant | 390599 | [390599-ghost-restaurant.json](./390599-ghost-restaurant.json) |
 | Ghost Rider | 218142 | [218142-ghost-rider.json](./218142-ghost-rider.json) |
@@ -2789,6 +2791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giddy 3: The Retro Eggsperience | 62144 | [62144-giddy-3-the-retro-eggsperience.json](./62144-giddy-3-the-retro-eggsperience.json) |
 | Gidget & The Mysterious Thievery of Hoppity Town | 200006 | [200006-gidget-and-the-mysterious-thievery-of-hoppity-town.json](./200006-gidget-and-the-mysterious-thievery-of-hoppity-town.json) |
 | Gido Gido: Kaiju Battle Party | 404214 | [404214-gido-gido-kaiju-battle-party.json](./404214-gido-gido-kaiju-battle-party.json) |
+| Gift | 102076 | [102076-gift.json](./102076-gift.json) |
 | Gift | 132101 | [132101-gift.json](./132101-gift.json) |
 | Gift | 240745 | [240745-gift.json](./240745-gift.json) |
 | Gift | 95440 | [95440-gift.json](./95440-gift.json) |
