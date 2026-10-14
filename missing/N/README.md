@@ -588,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | National Lacrosse League 2011 | 61035 | [61035-national-lacrosse-league-2011.json](./61035-national-lacrosse-league-2011.json) |
 | National Lampoon's Blind Date | 70094 | [70094-national-lampoons-blind-date.json](./70094-national-lampoons-blind-date.json) |
 | National Machine | 103451 | [103451-national-machine.json](./103451-national-machine.json) |
+| National Ministox - The Official Game | 105808 | [105808-national-ministox-the-official-game.json](./105808-national-ministox-the-official-game.json) |
 | National Park Girls | 116070 | [116070-national-park-girls.json](./116070-national-park-girls.json) |
 | National Park Girls: Episode 2 - Happy Trails | 164444 | [164444-national-park-girls-episode-2-happy-trails.json](./164444-national-park-girls-episode-2-happy-trails.json) |
 | National Park Girls: Episode 3 - Daughter of Zion | 164445 | [164445-national-park-girls-episode-3-daughter-of-zion.json](./164445-national-park-girls-episode-3-daughter-of-zion.json) |
@@ -1157,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nectar | 267025 | [267025-nectar.json](./267025-nectar.json) |
 | Nectar of the Gods: The Hive and Spidey Party Bugs Bundle | 171019 | [171019-nectar-of-the-gods-the-hive-and-spidey-party-bugs-bundle.json](./171019-nectar-of-the-gods-the-hive-and-spidey-party-bugs-bundle.json) |
 | Nectar Thief | 177829 | [177829-nectar-thief.json](./177829-nectar-thief.json) |
+| Nectar Vector | 105730 | [105730-nectar-vector.json](./105730-nectar-vector.json) |
 | Nectar Wars | 260987 | [260987-nectar-wars.json](./260987-nectar-wars.json) |
 | Nectaris | 42030 | [42030-nectaris.json](./42030-nectaris.json) |
 | Nectaris Cellular | 356109 | [356109-nectaris-cellular.json](./356109-nectaris-cellular.json) |
@@ -4066,6 +4068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobby the Aardvark | 125181 | [125181-nobby-the-aardvark.json](./125181-nobby-the-aardvark.json) |
 | Noble | 176975 | [176975-noble.json](./176975-noble.json) |
 | Noble Armada: Lost Worlds | 107897 | [107897-noble-armada-lost-worlds.json](./107897-noble-armada-lost-worlds.json) |
+| Noble Crusade | 105736 | [105736-noble-crusade.json](./105736-noble-crusade.json) |
 | Noble Fates | 183602 | [183602-noble-fates.json](./183602-noble-fates.json) |
 | Noble in Exile | 113580 | [113580-noble-in-exile.json](./113580-noble-in-exile.json) |
 | Noble Knight | 263191 | [263191-noble-knight.json](./263191-noble-knight.json) |
