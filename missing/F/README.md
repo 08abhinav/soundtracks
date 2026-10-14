@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fadedlands: The Reckless Squad | 348316 | [348316-fadedlands-the-reckless-squad.json](./348316-fadedlands-the-reckless-squad.json) |
 | Faderhead's Fist Full of Fuck You 2.0 | 97688 | [97688-faderheads-fist-full-of-fuck-you-2-0.json](./97688-faderheads-fist-full-of-fuck-you-2-0.json) |
 | Fadin's Vacation in the Parallel Kingdom | 299740 | [299740-fadins-vacation-in-the-parallel-kingdom.json](./299740-fadins-vacation-in-the-parallel-kingdom.json) |
+| Fading | 77179 | [77179-fading.json](./77179-fading.json) |
 | Fading Afternoon | 166734 | [166734-fading-afternoon.json](./166734-fading-afternoon.json) |
 | Fading City | 188378 | [188378-fading-city.json](./188378-fading-city.json) |
 | Fading Earth | 260704 | [260704-fading-earth.json](./260704-fading-earth.json) |
@@ -959,6 +960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: Wastelanders | 132141 | [132141-fallout-76-wastelanders.json](./132141-fallout-76-wastelanders.json) |
 | Fallout 76: Wild Appalachia | 115713 | [115713-fallout-76-wild-appalachia.json](./115713-fallout-76-wild-appalachia.json) |
 | Fallout Equestria: Remains | 177387 | [177387-fallout-equestria-remains.json](./177387-fallout-equestria-remains.json) |
+| Fallout Online | 77192 | [77192-fallout-online.json](./77192-fallout-online.json) |
 | Fallout Rancher | 352339 | [352339-fallout-rancher.json](./352339-fallout-rancher.json) |
 | Fallout Shelter Online | 131851 | [131851-fallout-shelter-online.json](./131851-fallout-shelter-online.json) |
 | Fallout Trilogy | 45128 | [45128-fallout-trilogy.json](./45128-fallout-trilogy.json) |
@@ -2043,6 +2045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Lanes Bowling | 23782 | [23782-fast-lanes-bowling.json](./23782-fast-lanes-bowling.json) |
 | Fast Like A Fox | 55973 | [55973-fast-like-a-fox.json](./55973-fast-like-a-fox.json) |
 | Fast Racing 3D | 380549 | [380549-fast-racing-3d.json](./380549-fast-racing-3d.json) |
+| Fast Rolling | 77178 | [77178-fast-rolling.json](./77178-fast-rolling.json) |
 | Fast Running | 311183 | [311183-fast-running.json](./311183-fast-running.json) |
 | Fast Travel: Loot Delivery Service | 117050 | [117050-fast-travel-loot-delivery-service.json](./117050-fast-travel-loot-delivery-service.json) |
 | Fast Typing Master | 161614 | [161614-fast-typing-master.json](./161614-fast-typing-master.json) |
@@ -2051,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fastar: Fantasy Fairy Story | 233468 | [233468-fastar-fantasy-fairy-story.json](./233468-fastar-fantasy-fairy-story.json) |
 | FastBall 2 | 257370 | [257370-fastball-2.json](./257370-fastball-2.json) |
 | FastBall 2 F. | 259077 | [259077-fastball-2-f.json](./259077-fastball-2-f.json) |
+| FastCrawl | 77229 | [77229-fastcrawl.json](./77229-fastcrawl.json) |
 | Faster | 260575 | [260575-faster.json](./260575-faster.json) |
 | Faster Harder More Challenging Q*bert | 39671 | [39671-faster-harder-more-challenging-q-bert.json](./39671-faster-harder-more-challenging-q-bert.json) |
 | Faster Racer Boom Boom | 255259 | [255259-faster-racer-boom-boom.json](./255259-faster-racer-boom-boom.json) |
@@ -2662,6 +2666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fengdu: Chronicles of Battle | 318064 | [318064-fengdu-chronicles-of-battle.json](./318064-fengdu-chronicles-of-battle.json) |
 | Fēngkuáng Pào Pào Bǔyú | 369187 | [369187-fengkuang-pao-pao-buyu.json](./369187-fengkuang-pao-pao-buyu.json) |
 | Féngmó zhī Shí | 156692 | [156692-fengmo-zhi-shi.json](./156692-fengmo-zhi-shi.json) |
+| Fēngsè Huànxiǎng 4: Shèngzhàn de Zhōngyān | 77236 | [77236-fengse-huanxiang-4-shengzhan-de-zhongyan.json](./77236-fengse-huanxiang-4-shengzhan-de-zhongyan.json) |
 | Fengse Huanxiang 5: Chi Yue Zhanzheng | 68690 | [68690-fengse-huanxiang-5-chi-yue-zhanzheng.json](./68690-fengse-huanxiang-5-chi-yue-zhanzheng.json) |
 | Fengse Huanxiang 6 | 230221 | [230221-fengse-huanxiang-6.json](./230221-fengse-huanxiang-6.json) |
 | Fēngsè Huànxiǎng III: Zuì Yǔ Fá de Zhènhúngē | 350519 | [350519-fengse-huanxiang-iii-zui-yu-fa-de-zhenhunge.json](./350519-fengse-huanxiang-iii-zui-yu-fa-de-zhenhunge.json) |
@@ -9025,6 +9030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funky Bay - Farm & Adventure | 106356 | [106356-funky-bay-farm-and-adventure.json](./106356-funky-bay-farm-and-adventure.json) |
 | Funky Bee | 40131 | [40131-funky-bee.json](./40131-funky-bee.json) |
 | Funky Boxers | 44725 | [44725-funky-boxers.json](./44725-funky-boxers.json) |
+| Funky Fantasy | 77226 | [77226-funky-fantasy.json](./77226-funky-fantasy.json) |
 | Funky Fish | 39685 | [39685-funky-fish.json](./39685-funky-fish.json) |
 | Funky Hoops! | 63651 | [63651-funky-hoops.json](./63651-funky-hoops.json) |
 | Funky Horror Band | 45872 | [45872-funky-horror-band.json](./45872-funky-horror-band.json) |
