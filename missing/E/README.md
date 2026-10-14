@@ -891,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eevoo II | 233769 | [233769-eevoo-ii.json](./233769-eevoo-ii.json) |
 | Eexy Life: East End X Yuri | 252198 | [252198-eexy-life-east-end-x-yuri.json](./252198-eexy-life-east-end-x-yuri.json) |
 | EF Defense | 233408 | [233408-ef-defense.json](./233408-ef-defense.json) |
+| EF Universe: Reclaiming the World | 116179 | [116179-ef-universe-reclaiming-the-world.json](./116179-ef-universe-reclaiming-the-world.json) |
 | EF-12: Fighting Game Maker | 57074 | [57074-ef-12-fighting-game-maker.json](./57074-ef-12-fighting-game-maker.json) |
 | Ef: The First Tale. | 122811 | [122811-ef-the-first-tale.json](./122811-ef-the-first-tale.json) |
 | EF2000 TACTCOM | 77647 | [77647-ef2000-tactcom.json](./77647-ef2000-tactcom.json) |
@@ -2754,6 +2755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entelechy | 130080 | [130080-entelechy.json](./130080-entelechy.json) |
 | Enter Falconry | 295515 | [295515-enter-falconry.json](./295515-enter-falconry.json) |
 | Enter HorrorLand | 344561 | [344561-enter-horrorland.json](./344561-enter-horrorland.json) |
+| Enter Synapse | 116093 | [116093-enter-synapse.json](./116093-enter-synapse.json) |
 | Enter the Backrooms | 157710 | [157710-enter-the-backrooms.json](./157710-enter-the-backrooms.json) |
 | Enter the Chronosphere | 177862 | [177862-enter-the-chronosphere.json](./177862-enter-the-chronosphere.json) |
 | Enter the Construct | 117016 | [117016-enter-the-construct.json](./117016-enter-the-construct.json) |
@@ -3780,6 +3782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esklavos C7 | 315073 | [315073-esklavos-c7.json](./315073-esklavos-c7.json) |
 | Esklavos C8 | 315074 | [315074-esklavos-c8.json](./315074-esklavos-c8.json) |
 | Esklavos C9 | 315075 | [315075-esklavos-c9.json](./315075-esklavos-c9.json) |
+| Esko | 116220 | [116220-esko.json](./116220-esko.json) |
 | Eslabong | 411092 | [411092-eslabong.json](./411092-eslabong.json) |
 | Eslander | 120993 | [120993-eslander.json](./120993-eslander.json) |
 | ESmart 2.0 | 269605 | [269605-esmart-2-0.json](./269605-esmart-2-0.json) |
@@ -5263,6 +5266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extinction Eclipse | 201687 | [201687-extinction-eclipse.json](./201687-extinction-eclipse.json) |
 | Extinction Level Event | 133760 | [133760-extinction-level-event.json](./133760-extinction-level-event.json) |
 | Extinction-MiniJeux | 394883 | [394883-extinction-minijeux.json](./394883-extinction-minijeux.json) |
+| Extinction: Alien Invasion | 116086 | [116086-extinction-alien-invasion.json](./116086-extinction-alien-invasion.json) |
 | Extinction: Deluxe Edition | 85473 | [85473-extinction-deluxe-edition.json](./85473-extinction-deluxe-edition.json) |
 | Extirpate | 291532 | [291532-extirpate.json](./291532-extirpate.json) |
 | Extortion | 146163 | [146163-extortion.json](./146163-extortion.json) |
