@@ -4304,6 +4304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NomNom Sugar Game | 120216 | [120216-nomnom-sugar-game.json](./120216-nomnom-sugar-game.json) |
 | NomNomNom | 340580 | [340580-nomnomnom.json](./340580-nomnomnom.json) |
 | NomNomNom! | 239613 | [239613-nomnomnom.json](./239613-nomnomnom.json) |
+| NomNoms | 118724 | [118724-nomnoms.json](./118724-nomnoms.json) |
 | Nomolos: Storming the Catsle | 48699 | [48699-nomolos-storming-the-catsle.json](./48699-nomolos-storming-the-catsle.json) |
 | Nomori | 213574 | [213574-nomori.json](./213574-nomori.json) |
 | Noms the Fish | 112367 | [112367-noms-the-fish.json](./112367-noms-the-fish.json) |
