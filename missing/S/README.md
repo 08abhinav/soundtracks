@@ -10773,6 +10773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol705 | 89939 | [89939-sol705.json](./89939-sol705.json) |
 | Sola | 173223 | [173223-sola.json](./173223-sola.json) |
 | Sola Rola: The Gravity Maze | 269855 | [269855-sola-rola-the-gravity-maze.json](./269855-sola-rola-the-gravity-maze.json) |
+| Solace | 91840 | [91840-solace.json](./91840-solace.json) |
 | Solace Creek | 314920 | [314920-solace-creek.json](./314920-solace-creek.json) |
 | Solace Dreams | 142721 | [142721-solace-dreams.json](./142721-solace-dreams.json) |
 | Solana and Sunny's Atelier | 216783 | [216783-solana-and-sunnys-atelier.json](./216783-solana-and-sunnys-atelier.json) |
