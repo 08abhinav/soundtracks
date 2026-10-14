@@ -4349,6 +4349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Hunter | 108804 | [108804-alien-hunter.json](./108804-alien-hunter.json) |
 | Alien Infection | 120915 | [120915-alien-infection.json](./120915-alien-infection.json) |
 | Alien Infestation | 139132 | [139132-alien-infestation.json](./139132-alien-infestation.json) |
+| Alien Invader | 92417 | [92417-alien-invader.json](./92417-alien-invader.json) |
 | Alien Invaders Plus | 41533 | [41533-alien-invaders-plus.json](./41533-alien-invaders-plus.json) |
 | Alien Invasion | 273129 | [273129-alien-invasion.json](./273129-alien-invasion.json) |
 | Alien Invasion | 295468 | [295468-alien-invasion.json](./295468-alien-invasion.json) |
@@ -7929,6 +7930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arca's Path | 103053 | [103053-arcas-path.json](./103053-arcas-path.json) |
 | Arcade & Action: XP Championship | 206131 | [206131-arcade-and-action-xp-championship.json](./206131-arcade-and-action-xp-championship.json) |
 | Arcade & Puzzle Games | 79626 | [79626-arcade-and-puzzle-games.json](./79626-arcade-and-puzzle-games.json) |
+| Arcade 3D | 92394 | [92394-arcade-3d.json](./92394-arcade-3d.json) |
 | Arcade Action | 319566 | [319566-arcade-action.json](./319566-arcade-action.json) |
 | Arcade Action | 93560 | [93560-arcade-action.json](./93560-arcade-action.json) |
 | Arcade Apocalypse Bundle | 99559 | [99559-arcade-apocalypse-bundle.json](./99559-arcade-apocalypse-bundle.json) |
@@ -11520,15 +11522,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avataaah!!! | 94152 | [94152-avataaah.json](./94152-avataaah.json) |
 | Avatar | 80928 | [80928-avatar.json](./80928-avatar.json) |
 | Avatar 2 Way of Watter: Porn Game | 287101 | [287101-avatar-2-way-of-watter-porn-game.json](./287101-avatar-2-way-of-watter-porn-game.json) |
+| Avatar Alarm Clock | 92428 | [92428-avatar-alarm-clock.json](./92428-avatar-alarm-clock.json) |
 | Avatar Aquarium | 77409 | [77409-avatar-aquarium.json](./77409-avatar-aquarium.json) |
 | Avatar Arena | 195022 | [195022-avatar-arena.json](./195022-avatar-arena.json) |
 | Avatar Avenue | 77573 | [77573-avatar-avenue.json](./77573-avatar-avenue.json) |
+| Avatar Boogie | 92429 | [92429-avatar-boogie.json](./92429-avatar-boogie.json) |
 | Avatar Dairansen | 303216 | [303216-avatar-dairansen.json](./303216-avatar-dairansen.json) |
 | Avatar Deathmatch | 77582 | [77582-avatar-deathmatch.json](./77582-avatar-deathmatch.json) |
 | Avatar Deathmatch City | 77596 | [77596-avatar-deathmatch-city.json](./77596-avatar-deathmatch-city.json) |
 | Avatar Drop | 91630 | [91630-avatar-drop.json](./91630-avatar-drop.json) |
 | Avatar Farm! | 94737 | [94737-avatar-farm.json](./94737-avatar-farm.json) |
 | Avatar Generations | 235108 | [235108-avatar-generations.json](./235108-avatar-generations.json) |
+| Avatar Hamster Attack | 92430 | [92430-avatar-hamster-attack.json](./92430-avatar-hamster-attack.json) |
+| Avatar Hangman | 92379 | [92379-avatar-hangman.json](./92379-avatar-hangman.json) |
 | Avatar Island | 389644 | [389644-avatar-island.json](./389644-avatar-island.json) |
 | Avatar Laser Wars | 77599 | [77599-avatar-laser-wars.json](./77599-avatar-laser-wars.json) |
 | Avatar Legends: The Fighting Game | 373021 | [373021-avatar-legends-the-fighting-game.json](./373021-avatar-legends-the-fighting-game.json) |
