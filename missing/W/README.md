@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walt Disney's The Jungle Book | 123599 | [123599-walt-disneys-the-jungle-book.json](./123599-walt-disneys-the-jungle-book.json) |
 | Walt Disney's The Jungle Book | 205928 | [205928-walt-disneys-the-jungle-book.json](./205928-walt-disneys-the-jungle-book.json) |
 | Walt Disney's The Jungle Book: Mowgli's Wild Adventure | 49922 | [49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json](./49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json) |
+| Walter | 94159 | [94159-walter.json](./94159-walter.json) |
 | Walthros | 353366 | [353366-walthros.json](./353366-walthros.json) |
 | Walto | 391237 | [391237-walto.json](./391237-walto.json) |
 | Waltz and Jam | 288479 | [288479-waltz-and-jam.json](./288479-waltz-and-jam.json) |
@@ -3270,6 +3271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Be a Millionaire: Music Edition | 311657 | [311657-who-wants-to-be-a-millionaire-music-edition.json](./311657-who-wants-to-be-a-millionaire-music-edition.json) |
 | Who Wants to Be a Millionaire: NBA/NHL/MLB/NFL DLC Pack | 289324 | [289324-who-wants-to-be-a-millionaire-nba-nhl-mlb-nfl-dlc-pack.json](./289324-who-wants-to-be-a-millionaire-nba-nhl-mlb-nfl-dlc-pack.json) |
 | Who Wants to Be a Millionaire: Party Edition | 44631 | [44631-who-wants-to-be-a-millionaire-party-edition.json](./44631-who-wants-to-be-a-millionaire-party-edition.json) |
+| Who Wants to Be a Millionaire: Special Editions | 94127 | [94127-who-wants-to-be-a-millionaire-special-editions.json](./94127-who-wants-to-be-a-millionaire-special-editions.json) |
 | Who Wants to Be A Millionaire: The Smurfs DLC Pack | 293389 | [293389-who-wants-to-be-a-millionaire-the-smurfs-dlc-pack.json](./293389-who-wants-to-be-a-millionaire-the-smurfs-dlc-pack.json) |
 | Who Wants to Be a Millionaire: US Movies 70s DLC Pack | 293390 | [293390-who-wants-to-be-a-millionaire-us-movies-70s-dlc-pack.json](./293390-who-wants-to-be-a-millionaire-us-movies-70s-dlc-pack.json) |
 | Who Wants to Be a Millionaire: US Movies 80s | 282214 | [282214-who-wants-to-be-a-millionaire-us-movies-80s.json](./282214-who-wants-to-be-a-millionaire-us-movies-80s.json) |
@@ -6172,6 +6174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WST Snooker | 175858 | [175858-wst-snooker.json](./175858-wst-snooker.json) |
 | WSYC Remix | 271992 | [271992-wsyc-remix.json](./271992-wsyc-remix.json) |
 | WTA Tour Tennis | 66701 | [66701-wta-tour-tennis.json](./66701-wta-tour-tennis.json) |
+| WtBoy | 94139 | [94139-wtboy.json](./94139-wtboy.json) |
 | WTC: Love's Labour's Lost | 216817 | [216817-wtc-loves-labours-lost.json](./216817-wtc-loves-labours-lost.json) |
 | WTC: Recruitment Day | 192462 | [192462-wtc-recruitment-day.json](./192462-wtc-recruitment-day.json) |
 | WTC: Relentless Protagonist [SxS] | 187446 | [187446-wtc-relentless-protagonist-sxs.json](./187446-wtc-relentless-protagonist-sxs.json) |
@@ -6321,6 +6324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K25: WrestleMania 41 Pack | 353991 | [353991-wwe-2k25-wrestlemania-41-pack.json](./353991-wwe-2k25-wrestlemania-41-pack.json) |
 | WWE 2K25: Wyatt Sicks Pack | 353992 | [353992-wwe-2k25-wyatt-sicks-pack.json](./353992-wwe-2k25-wyatt-sicks-pack.json) |
 | WWE 2K26 | 387782 | [387782-wwe-2k26.json](./387782-wwe-2k26.json) |
+| WWE Brawl | 94141 | [94141-wwe-brawl.json](./94141-wwe-brawl.json) |
 | WWE Champions | 58888 | [58888-wwe-champions.json](./58888-wwe-champions.json) |
 | WWE Day of Reckoning | 4571 | [4571-wwe-day-of-reckoning.json](./4571-wwe-day-of-reckoning.json) |
 | WWE Mobile Madness | 23758 | [23758-wwe-mobile-madness.json](./23758-wwe-mobile-madness.json) |
