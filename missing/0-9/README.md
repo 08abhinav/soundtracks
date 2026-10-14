@@ -1983,6 +1983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7Days | 76898 | [76898-7days.json](./76898-7days.json) |
 | 7Days! | 144716 | [144716-7days.json](./144716-7days.json) |
 | 7Groves | 295780 | [295780-7groves.json](./295780-7groves.json) |
+| 7he Code | 104542 | [104542-7he-code.json](./104542-7he-code.json) |
 | 7n7 | 169446 | [169446-7n7.json](./169446-7n7.json) |
 | 7Swordsman | 197394 | [197394-7swordsman.json](./197394-7swordsman.json) |
 | 7th Deep | 88084 | [88084-7th-deep.json](./88084-7th-deep.json) |
