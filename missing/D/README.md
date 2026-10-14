@@ -1049,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Heart Mansion | 156994 | [156994-dark-heart-mansion.json](./156994-dark-heart-mansion.json) |
 | Dark Hero Dash | 214105 | [214105-dark-hero-dash.json](./214105-dark-hero-dash.json) |
 | Dark Honor | 403652 | [403652-dark-honor.json](./403652-dark-honor.json) |
+| Dark Hope | 116785 | [116785-dark-hope.json](./116785-dark-hope.json) |
 | Dark Horizon | 19639 | [19639-dark-horizon.json](./19639-dark-horizon.json) |
 | Dark Horizons: Lore | 332670 | [332670-dark-horizons-lore.json](./332670-dark-horizons-lore.json) |
 | Dark Hotel | 415509 | [415509-dark-hotel.json](./415509-dark-hotel.json) |
@@ -11022,6 +11023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Simulator: Smash Zombies | 343249 | [343249-drone-simulator-smash-zombies.json](./343249-drone-simulator-smash-zombies.json) |
 | Drone Simulator: Smash Zombies | 401116 | [401116-drone-simulator-smash-zombies.json](./401116-drone-simulator-smash-zombies.json) |
 | Drone Smuggler | 363575 | [363575-drone-smuggler.json](./363575-drone-smuggler.json) |
+| Drone Striker | 116900 | [116900-drone-striker.json](./116900-drone-striker.json) |
 | Drone Swarm | 56357 | [56357-drone-swarm.json](./56357-drone-swarm.json) |
 | Drone Tactics | 21487 | [21487-drone-tactics.json](./21487-drone-tactics.json) |
 | Drone Tanks | 415111 | [415111-drone-tanks.json](./415111-drone-tanks.json) |
