@@ -818,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Labyrinth 3D | 279119 | [279119-magic-labyrinth-3d.json](./279119-magic-labyrinth-3d.json) |
 | Magic Lanterns | 74060 | [74060-magic-lanterns.json](./74060-magic-lanterns.json) |
 | Magic League | 99016 | [99016-magic-league.json](./99016-magic-league.json) |
+| Magic League - Castle Wars | 108214 | [108214-magic-league-castle-wars.json](./108214-magic-league-castle-wars.json) |
 | Magic Light | 94727 | [94727-magic-light.json](./94727-magic-light.json) |
 | Magic LightHouse | 147385 | [147385-magic-lighthouse.json](./147385-magic-lighthouse.json) |
 | Magic Logic 3D | 206036 | [206036-magic-logic-3d.json](./206036-magic-logic-3d.json) |
@@ -2274,6 +2275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Marcher | 125889 | [125889-marble-marcher.json](./125889-marble-marcher.json) |
 | Marble Marcher: Community Edition | 184417 | [184417-marble-marcher-community-edition.json](./184417-marble-marcher-community-edition.json) |
 | Marble Mash | 337104 | [337104-marble-mash.json](./337104-marble-mash.json) |
+| Marble Master | 108227 | [108227-marble-master.json](./108227-marble-master.json) |
 | Marble Masters: The Pit | 44231 | [44231-marble-masters-the-pit.json](./44231-marble-masters-the-pit.json) |
 | Marble Mayhem: Fragile Ball | 26979 | [26979-marble-mayhem-fragile-ball.json](./26979-marble-mayhem-fragile-ball.json) |
 | Marble Meadows | 291222 | [291222-marble-meadows.json](./291222-marble-meadows.json) |
@@ -6363,6 +6365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Assault | 9040 | [9040-metal-assault.json](./9040-metal-assault.json) |
 | Metal Black: Alternative | 70648 | [70648-metal-black-alternative.json](./70648-metal-black-alternative.json) |
 | Metal Black: S-Tribute | 231408 | [231408-metal-black-s-tribute.json](./231408-metal-black-s-tribute.json) |
+| Metal Brigade Tactics | 108330 | [108330-metal-brigade-tactics.json](./108330-metal-brigade-tactics.json) |
 | Metal Brigade Tactics Versus | 256254 | [256254-metal-brigade-tactics-versus.json](./256254-metal-brigade-tactics-versus.json) |
 | Metal Bringer | 265327 | [265327-metal-bringer.json](./265327-metal-bringer.json) |
 | Metal Bunny | 309894 | [309894-metal-bunny.json](./309894-metal-bunny.json) |
@@ -13371,6 +13374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Downtown | 153981 | [153981-my-downtown.json](./153981-my-downtown.json) |
 | My Dragon Party | 197258 | [197258-my-dragon-party.json](./197258-my-dragon-party.json) |
 | My Dragon: Virtual Pet Game | 331361 | [331361-my-dragon-virtual-pet-game.json](./331361-my-dragon-virtual-pet-game.json) |
+| My Dream | 108310 | [108310-my-dream.json](./108310-my-dream.json) |
 | My Dream Day | 290326 | [290326-my-dream-day.json](./290326-my-dream-day.json) |
 | My Dream Girl | 173841 | [173841-my-dream-girl.json](./173841-my-dream-girl.json) |
 | My Dream Girls | 173836 | [173836-my-dream-girls.json](./173836-my-dream-girls.json) |
