@@ -1712,6 +1712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapioka Panic | 259829 | [259829-tapioka-panic.json](./259829-tapioka-panic.json) |
 | TapLab | 233088 | [233088-taplab.json](./233088-taplab.json) |
 | TapMazing | 372046 | [372046-tapmazing.json](./372046-tapmazing.json) |
+| Tapnimals | 102687 | [102687-tapnimals.json](./102687-tapnimals.json) |
 | Tapocalypse | 30141 | [30141-tapocalypse.json](./30141-tapocalypse.json) |
 | Tapper Basic | 297607 | [297607-tapper-basic.json](./297607-tapper-basic.json) |
 | Tapper World Tour | 66079 | [66079-tapper-world-tour.json](./66079-tapper-world-tour.json) |
@@ -20222,6 +20223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Tycoon | 204416 | [204416-trash-tycoon.json](./204416-trash-tycoon.json) |
 | Trash Wars | 134974 | [134974-trash-wars.json](./134974-trash-wars.json) |
 | Trash Wars | 356708 | [356708-trash-wars.json](./356708-trash-wars.json) |
+| TrashBox | 102664 | [102664-trashbox.json](./102664-trashbox.json) |
 | Trashcan Simulator | 329594 | [329594-trashcan-simulator.json](./329594-trashcan-simulator.json) |
 | Trashed | 143592 | [143592-trashed.json](./143592-trashed.json) |
 | Trashman | 23054 | [23054-trashman.json](./23054-trashman.json) |
