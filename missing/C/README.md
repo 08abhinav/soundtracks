@@ -2482,6 +2482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Clinic Simulator: Vet Hospital | 364075 | [364075-cat-clinic-simulator-vet-hospital.json](./364075-cat-clinic-simulator-vet-hospital.json) |
 | Cat Cosmic Puzzle | 347317 | [347317-cat-cosmic-puzzle.json](./347317-cat-cosmic-puzzle.json) |
 | Cat Couple | 334804 | [334804-cat-couple.json](./334804-cat-couple.json) |
+| Cat Craft | 404190 | [404190-cat-craft.json](./404190-cat-craft.json) |
 | Cat Crisis | 412438 | [412438-cat-crisis.json](./412438-cat-crisis.json) |
 | Cat Dance | 178007 | [178007-cat-dance.json](./178007-cat-dance.json) |
 | Cat Dash Go | 236232 | [236232-cat-dash-go.json](./236232-cat-dash-go.json) |
@@ -4748,6 +4749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children's Garden | 323505 | [323505-childrens-garden.json](./323505-childrens-garden.json) |
 | Children's Jigsaw Puzzles: Beautifully Illustrated - Expansion Pack | 225859 | [225859-childrens-jigsaw-puzzles-beautifully-illustrated-expansion-pack.json](./225859-childrens-jigsaw-puzzles-beautifully-illustrated-expansion-pack.json) |
 | Children's Musical Theatre | 45894 | [45894-childrens-musical-theatre.json](./45894-childrens-musical-theatre.json) |
+| ChildrenBreak | 97239 | [97239-childrenbreak.json](./97239-childrenbreak.json) |
 | Chili the Chipmunk Pinball Adventure | 116188 | [116188-chili-the-chipmunk-pinball-adventure.json](./116188-chili-the-chipmunk-pinball-adventure.json) |
 | Chili's Big Smasher BurgerTime | 307261 | [307261-chilis-big-smasher-burgertime.json](./307261-chilis-big-smasher-burgertime.json) |
 | Chilie Peppers | 82004 | [82004-chilie-peppers.json](./82004-chilie-peppers.json) |
@@ -4868,6 +4870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChingMing | 303730 | [303730-chingming.json](./303730-chingming.json) |
 | Chinmoku no Kantai | 299821 | [299821-chinmoku-no-kantai.json](./299821-chinmoku-no-kantai.json) |
 | Chinomikon | 55269 | [55269-chinomikon.json](./55269-chinomikon.json) |
+| Chio Hero | 97266 | [97266-chio-hero.json](./97266-chio-hero.json) |
 | Chior | 318131 | [318131-chior.json](./318131-chior.json) |
 | Chip ‘n Clawz vs. The Brainioids | 333089 | [333089-chip-n-clawz-vs-the-brainioids.json](./333089-chip-n-clawz-vs-the-brainioids.json) |
 | Chip 'n Clawz vs. The Brainioids: Going Underground | 398527 | [398527-chip-n-clawz-vs-the-brainioids-going-underground.json](./398527-chip-n-clawz-vs-the-brainioids-going-underground.json) |
@@ -7814,6 +7817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Maze | 184114 | [184114-color-maze.json](./184114-color-maze.json) |
 | Color Me !!! for Mac | 99375 | [99375-color-me-for-mac.json](./99375-color-me-for-mac.json) |
 | Color Meme | 107057 | [107057-color-meme.json](./107057-color-meme.json) |
+| Color Move 2 | 407246 | [407246-color-move-2.json](./407246-color-move-2.json) |
 | Color Muse | 368618 | [368618-color-muse.json](./368618-color-muse.json) |
 | Color Ninjas | 181782 | [181782-color-ninjas.json](./181782-color-ninjas.json) |
 | Color Objects For Kids | 89645 | [89645-color-objects-for-kids.json](./89645-color-objects-for-kids.json) |
