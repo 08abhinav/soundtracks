@@ -634,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echolink: Recursion | 406946 | [406946-echolink-recursion.json](./406946-echolink-recursion.json) |
 | Echomnesia | 346537 | [346537-echomnesia.json](./346537-echomnesia.json) |
 | Echoplex | 25237 | [25237-echoplex.json](./25237-echoplex.json) |
+| Echoria: Ancient Echoes | 125115 | [125115-echoria-ancient-echoes.json](./125115-echoria-ancient-echoes.json) |
 | EchoShell | 382434 | [382434-echoshell.json](./382434-echoshell.json) |
 | Echoshift | 251227 | [251227-echoshift.json](./251227-echoshift.json) |
 | Echostasis | 155512 | [155512-echostasis.json](./155512-echostasis.json) |
@@ -2231,6 +2232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Kingdom: Frost Curse - Collector's Edition | 164955 | [164955-enchanted-kingdom-frost-curse-collectors-edition.json](./164955-enchanted-kingdom-frost-curse-collectors-edition.json) |
 | Enchanted Kingdom: The Secret of the Golden Lamp | 187903 | [187903-enchanted-kingdom-the-secret-of-the-golden-lamp.json](./187903-enchanted-kingdom-the-secret-of-the-golden-lamp.json) |
 | Enchanted Kingdom: The Secret of the Golden Lamp - Collector's Edition | 168306 | [168306-enchanted-kingdom-the-secret-of-the-golden-lamp-collectors-edition.json](./168306-enchanted-kingdom-the-secret-of-the-golden-lamp-collectors-edition.json) |
+| Enchanted Kingdoms Bundle | 125130 | [125130-enchanted-kingdoms-bundle.json](./125130-enchanted-kingdoms-bundle.json) |
 | Enchanted Memories | 386148 | [386148-enchanted-memories.json](./386148-enchanted-memories.json) |
 | Enchanted Portals: Tales Edition | 256171 | [256171-enchanted-portals-tales-edition.json](./256171-enchanted-portals-tales-edition.json) |
 | Enchanted Scepters | 31186 | [31186-enchanted-scepters.json](./31186-enchanted-scepters.json) |
@@ -2394,6 +2396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Evolution | 390641 | [390641-endless-evolution.json](./390641-endless-evolution.json) |
 | Endless Fables 3: Dark Moor | 105085 | [105085-endless-fables-3-dark-moor.json](./105085-endless-fables-3-dark-moor.json) |
 | Endless Fables 4: Shadow Within | 122827 | [122827-endless-fables-4-shadow-within.json](./122827-endless-fables-4-shadow-within.json) |
+| Endless Fables Collection | 125131 | [125131-endless-fables-collection.json](./125131-endless-fables-collection.json) |
 | Endless Fables: Shadow Within | 165611 | [165611-endless-fables-shadow-within.json](./165611-endless-fables-shadow-within.json) |
 | Endless Fables: The Minotaur's Curse | 32003 | [32003-endless-fables-the-minotaurs-curse.json](./32003-endless-fables-the-minotaurs-curse.json) |
 | Endless Firepower | 163460 | [163460-endless-firepower.json](./163460-endless-firepower.json) |
@@ -4336,6 +4339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eventide | 252026 | [252026-eventide.json](./252026-eventide.json) |
 | Eventide 2: The Sorcerers Mirror | 31825 | [31825-eventide-2-the-sorcerers-mirror.json](./31825-eventide-2-the-sorcerers-mirror.json) |
 | Eventide 3: Legacy of Legends | 68713 | [68713-eventide-3-legacy-of-legends.json](./68713-eventide-3-legacy-of-legends.json) |
+| Eventide Collection | 125133 | [125133-eventide-collection.json](./125133-eventide-collection.json) |
 | Eventide Escape | 83952 | [83952-eventide-escape.json](./83952-eventide-escape.json) |
 | Eventide Night | 28940 | [28940-eventide-night.json](./28940-eventide-night.json) |
 | Events | 339278 | [339278-events.json](./339278-events.json) |
