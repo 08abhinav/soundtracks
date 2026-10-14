@@ -3329,6 +3329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestian Tales: Old North - Howl of the Ravager | 124779 | [124779-celestian-tales-old-north-howl-of-the-ravager.json](./124779-celestian-tales-old-north-howl-of-the-ravager.json) |
 | Celestian Tales: Realms Beyond | 55252 | [55252-celestian-tales-realms-beyond.json](./55252-celestian-tales-realms-beyond.json) |
 | Celestio 64 | 257399 | [257399-celestio-64.json](./257399-celestio-64.json) |
+| Celetania | 92415 | [92415-celetania.json](./92415-celetania.json) |
 | Cell | 287357 | [287357-cell.json](./287357-cell.json) |
 | CELL 0: Cyber Entertainment Leisure Lounge | 326756 | [326756-cell-0-cyber-entertainment-leisure-lounge.json](./326756-cell-0-cyber-entertainment-leisure-lounge.json) |
 | Cell Bound | 254495 | [254495-cell-bound.json](./254495-cell-bound.json) |
@@ -4097,6 +4098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Check-In Chaos | 410448 | [410448-check-in-chaos.json](./410448-check-in-chaos.json) |
 | Checked Out | 366136 | [366136-checked-out.json](./366136-checked-out.json) |
 | Checker Connector | 116952 | [116952-checker-connector.json](./116952-checker-connector.json) |
+| Checker King | 92408 | [92408-checker-king.json](./92408-checker-king.json) |
 | Checkered Flag | 40815 | [40815-checkered-flag.json](./40815-checkered-flag.json) |
 | Checkers | 11151 | [11151-checkers.json](./11151-checkers.json) |
 | Checkers | 131515 | [131515-checkers.json](./131515-checkers.json) |
@@ -6569,6 +6571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClearIt | 95660 | [95660-clearit.json](./95660-clearit.json) |
 | ClearIt2 | 96320 | [96320-clearit2.json](./96320-clearit2.json) |
 | Clearwater | 270718 | [270718-clearwater.json](./270718-clearwater.json) |
+| Cleavage | 92421 | [92421-cleavage.json](./92421-cleavage.json) |
 | Cleave | 346181 | [346181-cleave.json](./346181-cleave.json) |
 | Cleave Together: The Dragon King's Treasure | 287017 | [287017-cleave-together-the-dragon-kings-treasure.json](./287017-cleave-together-the-dragon-kings-treasure.json) |
 | Cleaving Caliber EX | 362435 | [362435-cleaving-caliber-ex.json](./362435-cleaving-caliber-ex.json) |
@@ -8605,6 +8608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Compilation I Tom Clancy's Ghost Recon: Advanced Warfighter 2 + Tom Clancy's EndWar | 84163 | [84163-compilation-i-tom-clancys-ghost-recon-advanced-warfighter-2-tom-clancys-endwar.json](./84163-compilation-i-tom-clancys-ghost-recon-advanced-warfighter-2-tom-clancys-endwar.json) |
 | Complete | 276261 | [276261-complete.json](./276261-complete.json) |
 | Complete Costume Collection | 52833 | [52833-complete-costume-collection.json](./52833-complete-costume-collection.json) |
+| Complete Davis Cup Tennis | 92396 | [92396-complete-davis-cup-tennis.json](./92396-complete-davis-cup-tennis.json) |
 | Complete it - Jigsaw Puzzles with Beautiful Images | 90396 | [90396-complete-it-jigsaw-puzzles-with-beautiful-images.json](./90396-complete-it-jigsaw-puzzles-with-beautiful-images.json) |
 | Complete Me | 108834 | [108834-complete-me.json](./108834-complete-me.json) |
 | Complete Onside Soccer | 93021 | [93021-complete-onside-soccer.json](./93021-complete-onside-soccer.json) |
@@ -11597,6 +11601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critterville Goes Bankrupt | 378412 | [378412-critterville-goes-bankrupt.json](./378412-critterville-goes-bankrupt.json) |
 | Crnvrs | 186275 | [186275-crnvrs.json](./186275-crnvrs.json) |
 | Cro Magnon | 105214 | [105214-cro-magnon.json](./105214-cro-magnon.json) |
+| Cro-Mag Rally | 92404 | [92404-cro-mag-rally.json](./92404-cro-mag-rally.json) |
 | Croak | 314420 | [314420-croak.json](./314420-croak.json) |
 | Croak and Solve | 404433 | [404433-croak-and-solve.json](./404433-croak-and-solve.json) |
 | Croak Cafe: From Pond to Plate | 311487 | [311487-croak-cafe-from-pond-to-plate.json](./311487-croak-cafe-from-pond-to-plate.json) |
@@ -11692,6 +11697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Chase | 293229 | [293229-cross-chase.json](./293229-cross-chase.json) |
 | Cross Country Express - An Oddfellows Mini | 121335 | [121335-cross-country-express-an-oddfellows-mini.json](./121335-cross-country-express-an-oddfellows-mini.json) |
 | Cross Country Skiing VR | 99035 | [99035-cross-country-skiing-vr.json](./99035-cross-country-skiing-vr.json) |
+| Cross Days | 92409 | [92409-cross-days.json](./92409-cross-days.json) |
 | Cross Death VR | 32215 | [32215-cross-death-vr.json](./32215-cross-death-vr.json) |
 | Cross Dressing Aniki | 99051 | [99051-cross-dressing-aniki.json](./99051-cross-dressing-aniki.json) |
 | Cross Dungeon | 274029 | [274029-cross-dungeon.json](./274029-cross-dungeon.json) |
