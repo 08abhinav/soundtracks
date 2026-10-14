@@ -2600,6 +2600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Giants: Dragons | 7908 | [7908-battle-of-giants-dragons.json](./7908-battle-of-giants-dragons.json) |
 | Battle of Giants: Mutant Insects | 7909 | [7909-battle-of-giants-mutant-insects.json](./7909-battle-of-giants-mutant-insects.json) |
 | Battle of Goldfish Scooping | 380121 | [380121-battle-of-goldfish-scooping.json](./380121-battle-of-goldfish-scooping.json) |
+| Battle of Guam 1944 | 108238 | [108238-battle-of-guam-1944.json](./108238-battle-of-guam-1944.json) |
 | Battle of Guang | 358489 | [358489-battle-of-guang.json](./358489-battle-of-guang.json) |
 | Battle of Guardians | 238646 | [238646-battle-of-guardians.json](./238646-battle-of-guardians.json) |
 | Battle of Heroes 3 | 196877 | [196877-battle-of-heroes-3.json](./196877-battle-of-heroes-3.json) |
@@ -8608,6 +8609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Barn | 58304 | [58304-boom-barn.json](./58304-boom-barn.json) |
 | Boom Beats | 42777 | [42777-boom-beats.json](./42777-boom-beats.json) |
 | Boom Bits | 108040 | [108040-boom-bits.json](./108040-boom-bits.json) |
+| Boom Blast | 108220 | [108220-boom-blast.json](./108220-boom-blast.json) |
 | Boom Blaster | 100891 | [100891-boom-blaster.json](./100891-boom-blaster.json) |
 | Boom Blox | 2259 | [2259-boom-blox.json](./2259-boom-blox.json) |
 | Boom Boom Bovine | 120118 | [120118-boom-boom-bovine.json](./120118-boom-boom-bovine.json) |
@@ -10831,6 +10833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Guppies | 230336 | [230336-bubble-guppies.json](./230336-bubble-guppies.json) |
 | Bubble Guppies | 230344 | [230344-bubble-guppies.json](./230344-bubble-guppies.json) |
 | Bubble Hero | 246436 | [246436-bubble-hero.json](./246436-bubble-hero.json) |
+| Bubble Heroes Galaxy | 108243 | [108243-bubble-heroes-galaxy.json](./108243-bubble-heroes-galaxy.json) |
 | Bubble Hunt | 181071 | [181071-bubble-hunt.json](./181071-bubble-hunt.json) |
 | Bubble Investor | 361727 | [361727-bubble-investor.json](./361727-bubble-investor.json) |
 | Bubble Jam | 331366 | [331366-bubble-jam.json](./331366-bubble-jam.json) |
