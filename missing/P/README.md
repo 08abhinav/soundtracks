@@ -6405,6 +6405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plasma Sword: Nightmare of Bilstein | 14679 | [14679-plasma-sword-nightmare-of-bilstein.json](./14679-plasma-sword-nightmare-of-bilstein.json) |
 | Plasma Warrior | 94562 | [94562-plasma-warrior.json](./94562-plasma-warrior.json) |
 | Plasmaborne | 413592 | [413592-plasmaborne.json](./413592-plasmaborne.json) |
+| Plasmania | 94618 | [94618-plasmania.json](./94618-plasmania.json) |
 | Plasmatic | 253338 | [253338-plasmatic.json](./253338-plasmatic.json) |
 | Plasmatron | 53165 | [53165-plasmatron.json](./53165-plasmatron.json) |
 | Plasmaworm | 93052 | [93052-plasmaworm.json](./93052-plasmaworm.json) |
@@ -8804,6 +8805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pot Farmer | 235972 | [235972-pot-farmer.json](./235972-pot-farmer.json) |
 | Pot Man | 241452 | [241452-pot-man.json](./241452-pot-man.json) |
 | Pot of Gold | 257827 | [257827-pot-of-gold.json](./257827-pot-of-gold.json) |
+| Pot Panic | 94649 | [94649-pot-panic.json](./94649-pot-panic.json) |
 | Potat | 372535 | [372535-potat.json](./372535-potat.json) |
 | Potata: Chapter One | 127148 | [127148-potata-chapter-one.json](./127148-potata-chapter-one.json) |
 | Potata: Fairy Flower | 116044 | [116044-potata-fairy-flower.json](./116044-potata-fairy-flower.json) |
