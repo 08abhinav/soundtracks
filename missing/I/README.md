@@ -2292,6 +2292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industrial Accident | 183993 | [183993-industrial-accident.json](./183993-industrial-accident.json) |
 | Industrial Annihilation | 324902 | [324902-industrial-annihilation.json](./324902-industrial-annihilation.json) |
 | Industrial Combat | 271750 | [271750-industrial-combat.json](./271750-industrial-combat.json) |
+| Industrial Demise | 112165 | [112165-industrial-demise.json](./112165-industrial-demise.json) |
 | Industrial Fear | 310648 | [310648-industrial-fear.json](./310648-industrial-fear.json) |
 | Industrial Infection! | 107810 | [107810-industrial-infection.json](./107810-industrial-infection.json) |
 | Industrial Legion | 398570 | [398570-industrial-legion.json](./398570-industrial-legion.json) |
@@ -2645,6 +2646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Island | 174611 | [174611-infinity-island.json](./174611-infinity-island.json) |
 | Infinity Kingdom | 143085 | [143085-infinity-kingdom.json](./143085-infinity-kingdom.json) |
 | Infinity Knights: Xross | 289302 | [289302-infinity-knights-xross.json](./289302-infinity-knights-xross.json) |
+| Infinity Land | 112179 | [112179-infinity-land.json](./112179-infinity-land.json) |
 | Infinity Mechs | 235150 | [235150-infinity-mechs.json](./235150-infinity-mechs.json) |
 | Infinity Nikki: Blue Tears Season | 353286 | [353286-infinity-nikki-blue-tears-season.json](./353286-infinity-nikki-blue-tears-season.json) |
 | Infinity Nikki: Danqing Season | 357174 | [357174-infinity-nikki-danqing-season.json](./357174-infinity-nikki-danqing-season.json) |
@@ -3350,6 +3352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Track & Field | 20406 | [20406-international-track-and-field.json](./20406-international-track-and-field.json) |
 | International Track & Field 2000 | 3517 | [3517-international-track-and-field-2000.json](./3517-international-track-and-field-2000.json) |
 | International Volleyball 2004 | 204700 | [204700-international-volleyball-2004.json](./204700-international-volleyball-2004.json) |
+| International Wrestling Simulator 2018 | 112188 | [112188-international-wrestling-simulator-2018.json](./112188-international-wrestling-simulator-2018.json) |
 | Internet Addicted Youth 2005 | 259080 | [259080-internet-addicted-youth-2005.json](./259080-internet-addicted-youth-2005.json) |
 | Internet Cafe 98 | 412441 | [412441-internet-cafe-98.json](./412441-internet-cafe-98.json) |
 | Internet Cafe Creator | 262243 | [262243-internet-cafe-creator.json](./262243-internet-cafe-creator.json) |
