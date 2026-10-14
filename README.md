@@ -798,6 +798,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273c58d0c7dbe0eb9a9b24913a0" width="60" /> | [Omensight](https://ostdb.net/games/omensight) | **Omensight (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3oypFhaTURYbZqqEy2rYX4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328529dd9934b39f462e30542" width="60" /> | [Omno](https://ostdb.net/games/omno) | **Omno (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/67B8xQqA3K2I98vqhYQdzA) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/3e/fb/9c3efb1c-a0d1-d63a-5a34-bb91f94829bb/4711281418212.jpg/600x600bb.jpg" width="60" /> | [Once Human](https://ostdb.net/games/once-human) | **七日世界 (Original Soundtrack, Pt. 1)** · [Spotify](https://music.apple.com/us/album/%E4%B8%83%E6%97%A5%E4%B8%96%E7%95%8C-original-soundtrack-pt-1/1756061492?uo=4) · [Album](https://album.link/i/1756061492) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273767d8f7407d9b5b17831353a" width="60" /> | [Opus Magnum](https://ostdb.net/games/opus-magnum) | **Opus Magnum (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4Ah1TJHyNHpqmK6rAK7R3X) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273811201642d36db7e7f18e16e" width="60" /> | [Ori and the Blind Forest](https://ostdb.net/games/ori-and-the-blind-forest) | **Ori and the Blind Forest (Definitive Edition)** · [Spotify](https://open.spotify.com/album/5ZgGLGN7oVtQF2bHJm1311)<br>**Ori and the Blind Forest (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7xPc1OsC2R0siZKMlzRBIo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c20c278a68424850767e4d9e" width="60" /> | [Ori and the Will of the Wisps](https://ostdb.net/games/ori-and-the-will-of-the-wisps) | **Ori and the Will of the Wisps (Original Soundtrack Recording)** · [Spotify](https://open.spotify.com/album/0BRICN5TGMT1WqFcZkYOaF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273db6b8ae97f69fee1d432334d" width="60" /> | [Outer Wilds](https://ostdb.net/games/outer-wilds) | **Outer Wilds (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1U0A6RPNJB05PtuBcaTM7o)<br>**Outer Wilds: Echoes of the Eye (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3mRnCC3DI0SxIy7DtEFvZs)<br>**Outer Wilds: Echoes of the Eye (The Lost Reels) [Deluxe Original Game Soundtrack]** · [Spotify](https://open.spotify.com/album/4vWd6SP0OiBAXINQZumdP2) |
@@ -1328,4 +1329,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1645 soundtracks · last updated 2026-10-14T18:52:10.449Z_
+_1646 soundtracks · last updated 2026-10-14T18:55:46.337Z_
