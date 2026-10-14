@@ -5066,6 +5066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flatspace IIk | 29668 | [29668-flatspace-iik.json](./29668-flatspace-iik.json) |
 | Flatspace: Music Pack 3 | 389547 | [389547-flatspace-music-pack-3.json](./389547-flatspace-music-pack-3.json) |
 | FlatWarriors | 144915 | [144915-flatwarriors.json](./144915-flatwarriors.json) |
+| Flatwaters | 86741 | [86741-flatwaters.json](./86741-flatwaters.json) |
 | Flauresyn | 341151 | [341151-flauresyn.json](./341151-flauresyn.json) |
 | Flavor Favor | 248905 | [248905-flavor-favor.json](./248905-flavor-favor.json) |
 | Flavors of Spain | 407542 | [407542-flavors-of-spain.json](./407542-flavors-of-spain.json) |
@@ -5458,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floody | 128931 | [128931-floody.json](./128931-floody.json) |
 | FloofCorp. | 349478 | [349478-floofcorp.json](./349478-floofcorp.json) |
 | Flooftopia | 287775 | [287775-flooftopia.json](./287775-flooftopia.json) |
+| Floogen | 86768 | [86768-floogen.json](./86768-floogen.json) |
 | Floomy | 269022 | [269022-floomy.json](./269022-floomy.json) |
 | Floor | 26645 | [26645-floor.json](./26645-floor.json) |
 | Floor 0 | 334727 | [334727-floor-0.json](./334727-floor-0.json) |
@@ -7767,6 +7769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freebot : Battle for FreeWeb | 103640 | [103640-freebot-battle-for-freeweb.json](./103640-freebot-battle-for-freeweb.json) |
 | FreeCell | 383490 | [383490-freecell.json](./383490-freecell.json) |
 | FreeCell - Card Game | 87152 | [87152-freecell-card-game.json](./87152-freecell-card-game.json) |
+| FreeCell 2018 | 86693 | [86693-freecell-2018.json](./86693-freecell-2018.json) |
 | Freecell Battle King | 114907 | [114907-freecell-battle-king.json](./114907-freecell-battle-king.json) |
 | FreeCell Solitaire - Classic Deck Card Games | 88365 | [88365-freecell-solitaire-classic-deck-card-games.json](./88365-freecell-solitaire-classic-deck-card-games.json) |
 | FreeCell Solitaire Classic Card Game | 340247 | [340247-freecell-solitaire-classic-card-game.json](./340247-freecell-solitaire-classic-card-game.json) |
@@ -9042,6 +9045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Rat Game 2 | 404907 | [404907-funny-rat-game-2.json](./404907-funny-rat-game-2.json) |
 | Funny Soccer | 263411 | [263411-funny-soccer.json](./263411-funny-soccer.json) |
 | Funny Volleyball | 384274 | [384274-funny-volleyball.json](./384274-funny-volleyball.json) |
+| Funny Wings VR | 86676 | [86676-funny-wings-vr.json](./86676-funny-wings-vr.json) |
 | Funny words | 103911 | [103911-funny-words.json](./103911-funny-words.json) |
 | Funny Yo | 96901 | [96901-funny-yo.json](./96901-funny-yo.json) |
 | FunnyJoy: Brain on Line | 95999 | [95999-funnyjoy-brain-on-line.json](./95999-funnyjoy-brain-on-line.json) |
