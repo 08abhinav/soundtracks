@@ -8557,6 +8557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal 2: Community Edition | 169962 | [169962-portal-2-community-edition.json](./169962-portal-2-community-edition.json) |
 | Portal 2: Google Translate Edition | 313481 | [313481-portal-2-google-translate-edition.json](./313481-portal-2-google-translate-edition.json) |
 | Portal 2: In Motion | 99969 | [99969-portal-2-in-motion.json](./99969-portal-2-in-motion.json) |
+| Portal 2: Peer Review | 114140 | [114140-portal-2-peer-review.json](./114140-portal-2-peer-review.json) |
 | Portal 3 64 | 135217 | [135217-portal-3-64.json](./135217-portal-3-64.json) |
 | Portal 64 | 261713 | [261713-portal-64.json](./261713-portal-64.json) |
 | Portal 64: Still Alive | 377846 | [377846-portal-64-still-alive.json](./377846-portal-64-still-alive.json) |
@@ -11169,6 +11170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychoscopy | 207195 | [207195-psychoscopy.json](./207195-psychoscopy.json) |
 | Psychosis | 237263 | [237263-psychosis.json](./237263-psychosis.json) |
 | Psychosis: Teaser | 222863 | [222863-psychosis-teaser.json](./222863-psychosis-teaser.json) |
+| Psychosoft Ltd. | 114211 | [114211-psychosoft-ltd.json](./114211-psychosoft-ltd.json) |
 | Psychosomnium | 84249 | [84249-psychosomnium.json](./84249-psychosomnium.json) |
 | Psychotic Adventures Origins | 138795 | [138795-psychotic-adventures-origins.json](./138795-psychotic-adventures-origins.json) |
 | Psychoverse City | 158163 | [158163-psychoverse-city.json](./158163-psychoverse-city.json) |
