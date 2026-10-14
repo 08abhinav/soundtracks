@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Gear | 241250 | [241250-r-gear.json](./241250-r-gear.json) |
 | R-Lyke: Reverse | 238568 | [238568-r-lyke-reverse.json](./238568-r-lyke-reverse.json) |
 | R-Naught | 151016 | [151016-r-naught.json](./151016-r-naught.json) |
+| R-revolution | 97782 | [97782-r-revolution.json](./97782-r-revolution.json) |
 | R-Shark | 40254 | [40254-r-shark.json](./40254-r-shark.json) |
 | R-Space | 323256 | [323256-r-space.json](./323256-r-space.json) |
 | R-Type | 210582 | [210582-r-type.json](./210582-r-type.json) |
@@ -1544,6 +1545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ray Blade | 98027 | [98027-ray-blade.json](./98027-ray-blade.json) |
 | Ray Breaker | 98047 | [98047-ray-breaker.json](./98047-ray-breaker.json) |
 | Ray Eager | 126593 | [126593-ray-eager.json](./126593-ray-eager.json) |
+| Ray Five | 97787 | [97787-ray-five.json](./97787-ray-five.json) |
 | Ray Gigant | 11743 | [11743-ray-gigant.json](./11743-ray-gigant.json) |
 | Ray Mohawk 2: Ray Wreaks Havoc! | 259660 | [259660-ray-mohawk-2-ray-wreaks-havoc.json](./259660-ray-mohawk-2-ray-wreaks-havoc.json) |
 | Ray Mohawk's Manic Monday | 259659 | [259659-ray-mohawks-manic-monday.json](./259659-ray-mohawks-manic-monday.json) |
@@ -8645,6 +8647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rymdkapsel | 18830 | [18830-rymdkapsel.json](./18830-rymdkapsel.json) |
 | RymdResa | 11735 | [11735-rymdresa.json](./11735-rymdresa.json) |
 | Ryo: The Haunted Office | 234538 | [234538-ryo-the-haunted-office.json](./234538-ryo-the-haunted-office.json) |
+| Ryojyoku Chokyou | 97791 | [97791-ryojyoku-chokyou.json](./97791-ryojyoku-chokyou.json) |
 | Ryojyoku Damashii: Ero Kenkyaku Den | 97367 | [97367-ryojyoku-damashii-ero-kenkyaku-den.json](./97367-ryojyoku-damashii-ero-kenkyaku-den.json) |
 | Ryoufuu no Melt: Days in the Sanctuary | 44566 | [44566-ryoufuu-no-melt-days-in-the-sanctuary.json](./44566-ryoufuu-no-melt-days-in-the-sanctuary.json) |
 | Ryouki Enbu | 66650 | [66650-ryouki-enbu.json](./66650-ryouki-enbu.json) |
