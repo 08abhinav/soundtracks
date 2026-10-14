@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: World at War Map Pack 2 | 273857 | [273857-call-of-duty-world-at-war-map-pack-2.json](./273857-call-of-duty-world-at-war-map-pack-2.json) |
 | Call of Duty: World at War Map Pack 3 | 273858 | [273858-call-of-duty-world-at-war-map-pack-3.json](./273858-call-of-duty-world-at-war-map-pack-3.json) |
 | Call of Duty: WWII - Gold Edition | 118729 | [118729-call-of-duty-wwii-gold-edition.json](./118729-call-of-duty-wwii-gold-edition.json) |
+| Call of Duty: WWII + Destiny 2 Bundle | 86666 | [86666-call-of-duty-wwii-destiny-2-bundle.json](./86666-call-of-duty-wwii-destiny-2-bundle.json) |
 | Call of Duty: Zombie Warfare | 304323 | [304323-call-of-duty-zombie-warfare.json](./304323-call-of-duty-zombie-warfare.json) |
 | Call of Elyndra | 321573 | [321573-call-of-elyndra.json](./321573-call-of-elyndra.json) |
 | Call of Farming | 259583 | [259583-call-of-farming.json](./259583-call-of-farming.json) |
@@ -5027,6 +5028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choice of the Dragon | 66762 | [66762-choice-of-the-dragon.json](./66762-choice-of-the-dragon.json) |
 | Choice of the Ninja | 76114 | [76114-choice-of-the-ninja.json](./76114-choice-of-the-ninja.json) |
 | Choice of the Vampire: St. Louis, Unreal City | 169935 | [169935-choice-of-the-vampire-st-louis-unreal-city.json](./169935-choice-of-the-vampire-st-louis-unreal-city.json) |
+| Choice of the Vampire: The Fall of Memphis | 86742 | [86742-choice-of-the-vampire-the-fall-of-memphis.json](./86742-choice-of-the-vampire-the-fall-of-memphis.json) |
 | Choice of Zombies | 48012 | [48012-choice-of-zombies.json](./48012-choice-of-zombies.json) |
 | Choice or Fate | 114404 | [114404-choice-or-fate.json](./114404-choice-or-fate.json) |
 | Choiceline Brawl | 389538 | [389538-choiceline-brawl.json](./389538-choiceline-brawl.json) |
@@ -5490,6 +5492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Crystal: Giant Gate DLC | 253386 | [253386-chrono-crystal-giant-gate-dlc.json](./253386-chrono-crystal-giant-gate-dlc.json) |
 | Chrono Impact | 369095 | [369095-chrono-impact.json](./369095-chrono-impact.json) |
 | Chrono Knight | 305315 | [305315-chrono-knight.json](./305315-chrono-knight.json) |
+| Chrono Ma:Gia | 86680 | [86680-chrono-ma-gia.json](./86680-chrono-ma-gia.json) |
 | Chrono Mirror | 276696 | [276696-chrono-mirror.json](./276696-chrono-mirror.json) |
 | Chrono Port: Heroes of All Time | 366320 | [366320-chrono-port-heroes-of-all-time.json](./366320-chrono-port-heroes-of-all-time.json) |
 | Chrono Ressurection | 263448 | [263448-chrono-ressurection.json](./263448-chrono-ressurection.json) |
@@ -6181,6 +6184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CityDriver: Autobahn Nord | 272188 | [272188-citydriver-autobahn-nord.json](./272188-citydriver-autobahn-nord.json) |
 | CityDriver: Ferdinand Habanero Turbo | 252237 | [252237-citydriver-ferdinand-habanero-turbo.json](./252237-citydriver-ferdinand-habanero-turbo.json) |
 | CityDriver: Moruga Turbo | 315619 | [315619-citydriver-moruga-turbo.json](./315619-citydriver-moruga-turbo.json) |
+| Cityglitch | 86747 | [86747-cityglitch.json](./86747-cityglitch.json) |
 | CityInc | 307902 | [307902-cityinc.json](./307902-cityinc.json) |
 | CityLights - San Francisco | 112904 | [112904-citylights-san-francisco.json](./112904-citylights-san-francisco.json) |
 | Citypurger | 323411 | [323411-citypurger.json](./323411-citypurger.json) |
@@ -6425,6 +6429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Racers | 115900 | [115900-classic-racers.json](./115900-classic-racers.json) |
 | Classic Racers Elite | 146787 | [146787-classic-racers-elite.json](./146787-classic-racers-elite.json) |
 | Classic Racing Pack: Moto Roader MC + Rider's Spirits | 317238 | [317238-classic-racing-pack-moto-roader-mc-riders-spirits.json](./317238-classic-racing-pack-moto-roader-mc-riders-spirits.json) |
+| Classic Snake | 86701 | [86701-classic-snake.json](./86701-classic-snake.json) |
 | Classic Snake Adventures | 130395 | [130395-classic-snake-adventures.json](./130395-classic-snake-adventures.json) |
 | Classic snake final | 88791 | [88791-classic-snake-final.json](./88791-classic-snake-final.json) |
 | Classic Snake Game Gold | 100962 | [100962-classic-snake-game-gold.json](./100962-classic-snake-game-gold.json) |
@@ -7783,6 +7788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Baseball | 42151 | [42151-color-baseball.json](./42151-color-baseball.json) |
 | Color Bikes Road Rush | 103663 | [103663-color-bikes-road-rush.json](./103663-color-bikes-road-rush.json) |
 | Color Blind: The Game | 231397 | [231397-color-blind-the-game.json](./231397-color-blind-the-game.json) |
+| Color Block Game | 86665 | [86665-color-block-game.json](./86665-color-block-game.json) |
 | Color Block Jam | 339436 | [339436-color-block-jam.json](./339436-color-block-jam.json) |
 | Color Blocks - Relax Puzzle | 130854 | [130854-color-blocks-relax-puzzle.json](./130854-color-blocks-relax-puzzle.json) |
 | Color Bomb! | 274954 | [274954-color-bomb.json](./274954-color-bomb.json) |
@@ -7793,6 +7799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color by Number - Modern Art | 102240 | [102240-color-by-number-modern-art.json](./102240-color-by-number-modern-art.json) |
 | Color by Number: New Coloring Book | 105504 | [105504-color-by-number-new-coloring-book.json](./105504-color-by-number-new-coloring-book.json) |
 | Color by Numbers - Animals | 111173 | [111173-color-by-numbers-animals.json](./111173-color-by-numbers-animals.json) |
+| Color by Numbers - Animals + | 86696 | [86696-color-by-numbers-animals.json](./86696-color-by-numbers-animals.json) |
 | Color by Numbers - Christmas | 111174 | [111174-color-by-numbers-christmas.json](./111174-color-by-numbers-christmas.json) |
 | Color by Numbers - Christmas + | 87178 | [87178-color-by-numbers-christmas.json](./87178-color-by-numbers-christmas.json) |
 | Color by Numbers - Dogs + | 101676 | [101676-color-by-numbers-dogs.json](./101676-color-by-numbers-dogs.json) |
@@ -13307,6 +13314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Things Dying Violently | 12394 | [12394-cute-things-dying-violently.json](./12394-cute-things-dying-violently.json) |
 | Cute Train | 203148 | [203148-cute-train.json](./203148-cute-train.json) |
 | Cute Triplets | 148540 | [148540-cute-triplets.json](./148540-cute-triplets.json) |
+| Cute War: Zero | 86740 | [86740-cute-war-zero.json](./86740-cute-war-zero.json) |
 | Cute-ing Gallery | 336661 | [336661-cute-ing-gallery.json](./336661-cute-ing-gallery.json) |
 | Cute, Broke, and Dungeon Bound | 334132 | [334132-cute-broke-and-dungeon-bound.json](./334132-cute-broke-and-dungeon-bound.json) |
 | Cute, Evil & Strange | 116411 | [116411-cute-evil-and-strange.json](./116411-cute-evil-and-strange.json) |
