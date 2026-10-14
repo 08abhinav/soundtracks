@@ -3895,6 +3895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Carnage: Adrenaline Shooter | 403731 | [403731-serious-carnage-adrenaline-shooter.json](./403731-serious-carnage-adrenaline-shooter.json) |
 | Serious Fun Football | 156202 | [156202-serious-fun-football.json](./156202-serious-fun-football.json) |
 | Serious Metal Detecting | 28376 | [28376-serious-metal-detecting.json](./28376-serious-metal-detecting.json) |
+| Serious Office | 81950 | [81950-serious-office.json](./81950-serious-office.json) |
 | Serious Sam | 291050 | [291050-serious-sam.json](./291050-serious-sam.json) |
 | Serious Sam 3: BFE | 527 | [527-serious-sam-3-bfe.json](./527-serious-sam-3-bfe.json) |
 | Serious Sam 3: Jewel of the Nile | 10817 | [10817-serious-sam-3-jewel-of-the-nile.json](./10817-serious-sam-3-jewel-of-the-nile.json) |
@@ -4517,6 +4518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Paris | 385563 | [385563-shadow-of-paris.json](./385563-shadow-of-paris.json) |
 | Shadow of Pharos | 305951 | [305951-shadow-of-pharos.json](./305951-shadow-of-pharos.json) |
 | Shadow of Scintilla | 238634 | [238634-shadow-of-scintilla.json](./238634-shadow-of-scintilla.json) |
+| Shadow of Something | 81995 | [81995-shadow-of-something.json](./81995-shadow-of-something.json) |
 | Shadow of the Beast | 5434 | [5434-shadow-of-the-beast.json](./5434-shadow-of-the-beast.json) |
 | Shadow of the Beast II | 5879 | [5879-shadow-of-the-beast-ii.json](./5879-shadow-of-the-beast-ii.json) |
 | Shadow of the Beast III | 12221 | [12221-shadow-of-the-beast-iii.json](./12221-shadow-of-the-beast-iii.json) |
@@ -7807,6 +7809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sit 'N Survive | 186113 | [186113-sit-n-survive.json](./186113-sit-n-survive.json) |
 | Sit and Spin Adventure | 239542 | [239542-sit-and-spin-adventure.json](./239542-sit-and-spin-adventure.json) |
 | Sit and Spin Adventure 2: Truth - Reason: Second Final | 239543 | [239543-sit-and-spin-adventure-2-truth-reason-second-final.json](./239543-sit-and-spin-adventure-2-truth-reason-second-final.json) |
+| Sit on bottle | 81966 | [81966-sit-on-bottle.json](./81966-sit-on-bottle.json) |
 | Sit-Ups Workout | 187466 | [187466-sit-ups-workout.json](./187466-sit-ups-workout.json) |
 | Site Z-374 | 308271 | [308271-site-z-374.json](./308271-site-z-374.json) |
 | Sitnalta | 268762 | [268762-sitnalta.json](./268762-sitnalta.json) |
