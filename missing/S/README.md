@@ -4104,7 +4104,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Severance | 327843 | [327843-severance.json](./327843-severance.json) |
 | Severance | 374827 | [374827-severance.json](./374827-severance.json) |
 | Severed | 319081 | [319081-severed.json](./319081-severed.json) |
-| Severed | 6066 | [6066-severed.json](./6066-severed.json) |
 | Severed Love | 342754 | [342754-severed-love.json](./342754-severed-love.json) |
 | Severed Steel: Digital Deluxe Edition | 173103 | [173103-severed-steel-digital-deluxe-edition.json](./173103-severed-steel-digital-deluxe-edition.json) |
 | Severed Ties | 229751 | [229751-severed-ties.json](./229751-severed-ties.json) |
