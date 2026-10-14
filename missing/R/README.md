@@ -1662,6 +1662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Razor Wire | 274521 | [274521-razor-wire.json](./274521-razor-wire.json) |
 | Razor's Edge | 321654 | [321654-razors-edge.json](./321654-razors-edge.json) |
 | Razorback | 336008 | [336008-razorback.json](./336008-razorback.json) |
+| Razortron 2084 | 116893 | [116893-razortron-2084.json](./116893-razortron-2084.json) |
 | Razzmatazz | 40392 | [40392-razzmatazz.json](./40392-razzmatazz.json) |
 | RB Axolotl | 108962 | [108962-rb-axolotl.json](./108962-rb-axolotl.json) |
 | RBI Baseball | 100281 | [100281-rbi-baseball.json](./100281-rbi-baseball.json) |
@@ -5521,6 +5522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ro Sham Bo Rush | 252142 | [252142-ro-sham-bo-rush.json](./252142-ro-sham-bo-rush.json) |
 | RO: Idle Poring | 74770 | [74770-ro-idle-poring.json](./74770-ro-idle-poring.json) |
 | Roach Hotel | 286121 | [286121-roach-hotel.json](./286121-roach-hotel.json) |
+| Roach Killer | 116904 | [116904-roach-killer.json](./116904-roach-killer.json) |
 | Roach Race | 215843 | [215843-roach-race.json](./215843-roach-race.json) |
 | Roach Royale | 275331 | [275331-roach-royale.json](./275331-roach-royale.json) |
 | Roach's Room ~Horror Experience Series~ | 107210 | [107210-roachs-room-horror-experience-series.json](./107210-roachs-room-horror-experience-series.json) |
