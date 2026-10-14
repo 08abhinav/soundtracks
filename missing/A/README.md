@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Planet Wakes | 141756 | [141756-a-planet-wakes.json](./141756-a-planet-wakes.json) |
 | A Plant's Life | 63845 | [63845-a-plants-life.json](./63845-a-plants-life.json) |
 | A Platformer for Ants | 82150 | [82150-a-platformer-for-ants.json](./82150-a-platformer-for-ants.json) |
+| A Player's Heart | 128932 | [128932-a-players-heart.json](./128932-a-players-heart.json) |
 | A Playground Afternoon | 402490 | [402490-a-playground-afternoon.json](./402490-a-playground-afternoon.json) |
 | A Plot Story | 59243 | [59243-a-plot-story.json](./59243-a-plot-story.json) |
 | A Pocket Full of Slagford | 404950 | [404950-a-pocket-full-of-slagford.json](./404950-a-pocket-full-of-slagford.json) |
@@ -1212,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abode: Definitive Edition | 337789 | [337789-abode-definitive-edition.json](./337789-abode-definitive-edition.json) |
 | Abodtion | 344375 | [344375-abodtion.json](./344375-abodtion.json) |
 | Aboleo: Shadow of the Crown | 268145 | [268145-aboleo-shadow-of-the-crown.json](./268145-aboleo-shadow-of-the-crown.json) |
+| Abomi Nation | 128291 | [128291-abomi-nation.json](./128291-abomi-nation.json) |
 | Abomi Nation: Monster Rifts | 315683 | [315683-abomi-nation-monster-rifts.json](./315683-abomi-nation-monster-rifts.json) |
 | Abomin-Agency! | 312658 | [312658-abomin-agency.json](./312658-abomin-agency.json) |
 | Abomination | 71602 | [71602-abomination.json](./71602-abomination.json) |
@@ -3761,6 +3763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aladdin II | 242085 | [242085-aladdin-ii.json](./242085-aladdin-ii.json) |
 | Aladdin Magic Carpet Racing | 296030 | [296030-aladdin-magic-carpet-racing.json](./296030-aladdin-magic-carpet-racing.json) |
 | Aladdin of the Forsaken Lands | 268143 | [268143-aladdin-of-the-forsaken-lands.json](./268143-aladdin-of-the-forsaken-lands.json) |
+| Aladdin Pinball | 127641 | [127641-aladdin-pinball.json](./127641-aladdin-pinball.json) |
 | Aladdin: Hidden Objects Game | 132580 | [132580-aladdin-hidden-objects-game.json](./132580-aladdin-hidden-objects-game.json) |
 | Aladdin's Magic Lamp | 14235 | [14235-aladdins-magic-lamp.json](./14235-aladdins-magic-lamp.json) |
 | Aladin & the Enchanted Lamp: Extended Edition | 416859 | [416859-aladin-and-the-enchanted-lamp-extended-edition.json](./416859-aladin-and-the-enchanted-lamp-extended-edition.json) |
@@ -5723,6 +5726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Ocean Game | 360588 | [360588-an-ocean-game.json](./360588-an-ocean-game.json) |
 | An Octonaut Odyssey | 30198 | [30198-an-octonaut-odyssey.json](./30198-an-octonaut-odyssey.json) |
 | An Ode to Todd the Toad: Frogcare! | 185628 | [185628-an-ode-to-todd-the-toad-frogcare.json](./185628-an-ode-to-todd-the-toad-frogcare.json) |
+| An Odyssey: Echoes of War | 127696 | [127696-an-odyssey-echoes-of-war.json](./127696-an-odyssey-echoes-of-war.json) |
 | An Ordinary Sonic ROM Hack | 129178 | [129178-an-ordinary-sonic-rom-hack.json](./129178-an-ordinary-sonic-rom-hack.json) |
 | An Otaku like me has 2 Fiancees?! | 208271 | [208271-an-otaku-like-me-has-2-fiancees.json](./208271-an-otaku-like-me-has-2-fiancees.json) |
 | An Outcry | 182180 | [182180-an-outcry.json](./182180-an-outcry.json) |
@@ -11426,6 +11430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aviary Attorney | 15710 | [15710-aviary-attorney.json](./15710-aviary-attorney.json) |
 | Aviary Attorney: Definitive Edition | 136443 | [136443-aviary-attorney-definitive-edition.json](./136443-aviary-attorney-definitive-edition.json) |
 | Aviassembly | 291217 | [291217-aviassembly.json](./291217-aviassembly.json) |
+| Aviation Adventure | 128889 | [128889-aviation-adventure.json](./128889-aviation-adventure.json) |
 | Aviation Hurricane Storm | 102227 | [102227-aviation-hurricane-storm.json](./102227-aviation-hurricane-storm.json) |
 | Aviation Manager | 215097 | [215097-aviation-manager.json](./215097-aviation-manager.json) |
 | Aviator | 13694 | [13694-aviator.json](./13694-aviator.json) |
