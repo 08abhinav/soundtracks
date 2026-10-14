@@ -7570,6 +7570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold City | 401838 | [401838-cold-city.json](./401838-cold-city.json) |
 | Cold Comfort | 28096 | [28096-cold-comfort.json](./28096-cold-comfort.json) |
 | Cold Contract | 60601 | [60601-cold-contract.json](./60601-cold-contract.json) |
+| Cold Cuts | 77171 | [77171-cold-cuts.json](./77171-cold-cuts.json) |
 | Cold Dead Hands | 367606 | [367606-cold-dead-hands.json](./367606-cold-dead-hands.json) |
 | Cold Depth | 157202 | [157202-cold-depth.json](./157202-cold-depth.json) |
 | Cold Engines | 199474 | [199474-cold-engines.json](./199474-cold-engines.json) |
@@ -8435,6 +8436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer: Red Alert 3 - Premier Edition | 210703 | [210703-command-and-conquer-red-alert-3-premier-edition.json](./210703-command-and-conquer-red-alert-3-premier-edition.json) |
 | Command & Conquer: Red Alert 3 - Ultimate Edition | 21205 | [21205-command-and-conquer-red-alert-3-ultimate-edition.json](./21205-command-and-conquer-red-alert-3-ultimate-edition.json) |
 | Command & Conquer: Red Alert 3 - Uprising | 759 | [759-command-and-conquer-red-alert-3-uprising.json](./759-command-and-conquer-red-alert-3-uprising.json) |
+| Command & Conquer: Red Alert Mobile | 77221 | [77221-command-and-conquer-red-alert-mobile.json](./77221-command-and-conquer-red-alert-mobile.json) |
 | Command & Conquer: Rivals | 103274 | [103274-command-and-conquer-rivals.json](./103274-command-and-conquer-rivals.json) |
 | Command & Conquer: The Covert Operations | 663 | [663-command-and-conquer-the-covert-operations.json](./663-command-and-conquer-the-covert-operations.json) |
 | Command & Control 3 | 150976 | [150976-command-and-control-3.json](./150976-command-and-control-3.json) |
