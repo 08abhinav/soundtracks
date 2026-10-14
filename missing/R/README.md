@@ -7754,6 +7754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubber Sharks | 305980 | [305980-rubber-sharks.json](./305980-rubber-sharks.json) |
 | Rubbish Island | 378890 | [378890-rubbish-island.json](./378890-rubbish-island.json) |
 | Rubble Rampage | 413127 | [413127-rubble-rampage.json](./413127-rubble-rampage.json) |
+| Rubble Rush | 118069 | [118069-rubble-rush.json](./118069-rubble-rush.json) |
 | Rubble the Engineer | 359414 | [359414-rubble-the-engineer.json](./359414-rubble-the-engineer.json) |
 | Rubble Trouble | 13753 | [13753-rubble-trouble.json](./13753-rubble-trouble.json) |
 | Rubble Trouble Moscow | 326730 | [326730-rubble-trouble-moscow.json](./326730-rubble-trouble-moscow.json) |
@@ -8036,6 +8037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run from Bubol Horror | 359990 | [359990-run-from-bubol-horror.json](./359990-run-from-bubol-horror.json) |
 | Run from the Light | 296017 | [296017-run-from-the-light.json](./296017-run-from-the-light.json) |
 | Run Gor | 270932 | [270932-run-gor.json](./270932-run-gor.json) |
+| Run Gun Die Ultimate | 118083 | [118083-run-gun-die-ultimate.json](./118083-run-gun-die-ultimate.json) |
 | Run Gun Robots | 184935 | [184935-run-gun-robots.json](./184935-run-gun-robots.json) |
 | Run Hunter Run | 96086 | [96086-run-hunter-run.json](./96086-run-hunter-run.json) |
 | Run It Back | 364672 | [364672-run-it-back.json](./364672-run-it-back.json) |
