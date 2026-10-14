@@ -1366,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Dungeon II: Kingdoms | 296837 | [296837-darkest-dungeon-ii-kingdoms.json](./296837-darkest-dungeon-ii-kingdoms.json) |
 | Darkest Dungeon II: Oblivion Edition | 298850 | [298850-darkest-dungeon-ii-oblivion-edition.json](./298850-darkest-dungeon-ii-oblivion-edition.json) |
 | Darkest Dungeon: Collector's Edition | 136203 | [136203-darkest-dungeon-collectors-edition.json](./136203-darkest-dungeon-collectors-edition.json) |
+| Darkest Dungeon: Crimson Edition | 91323 | [91323-darkest-dungeon-crimson-edition.json](./91323-darkest-dungeon-crimson-edition.json) |
 | Darkest Dungeon: The Butcher's Circus | 172134 | [172134-darkest-dungeon-the-butchers-circus.json](./172134-darkest-dungeon-the-butchers-circus.json) |
 | Darkest Dungeon: The Color of Madness | 76740 | [76740-darkest-dungeon-the-color-of-madness.json](./76740-darkest-dungeon-the-color-of-madness.json) |
 | Darkest Dungeon: The Musketeer | 124890 | [124890-darkest-dungeon-the-musketeer.json](./124890-darkest-dungeon-the-musketeer.json) |
@@ -2103,6 +2104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DDraceNetwork | 136770 | [136770-ddracenetwork.json](./136770-ddracenetwork.json) |
 | DDRMax: Dance Dance Revolution 6thMix | 3677 | [3677-ddrmax-dance-dance-revolution-6thmix.json](./3677-ddrmax-dance-dance-revolution-6thmix.json) |
 | DDRMax2: Dance Dance Revolution | 44711 | [44711-ddrmax2-dance-dance-revolution.json](./44711-ddrmax2-dance-dance-revolution.json) |
+| DDS (D.I.Y Drone Simulator) | 91243 | [91243-dds-d-i-y-drone-simulator.json](./91243-dds-d-i-y-drone-simulator.json) |
 | DDS Defenders Dark Side | 214726 | [214726-dds-defenders-dark-side.json](./214726-dds-defenders-dark-side.json) |
 | DDS x Narcos | 277260 | [277260-dds-x-narcos.json](./277260-dds-x-narcos.json) |
 | DDTank | 146050 | [146050-ddtank.json](./146050-ddtank.json) |
@@ -4357,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dennis Miller: That's News to Me | 39019 | [39019-dennis-miller-thats-news-to-me.json](./39019-dennis-miller-thats-news-to-me.json) |
 | Dennis og Bellini: De forsvundne kaniner | 91450 | [91450-dennis-og-bellini-de-forsvundne-kaniner.json](./91450-dennis-og-bellini-de-forsvundne-kaniner.json) |
 | Dennis og Bellini: Onkel Bellinis hemmeligheder | 91453 | [91453-dennis-og-bellini-onkel-bellinis-hemmeligheder.json](./91453-dennis-og-bellini-onkel-bellinis-hemmeligheder.json) |
+| Dennis og Bellini: Rævestreger i Hønsegården | 91268 | [91268-dennis-og-bellini-r-vestreger-i-h-nsegarden.json](./91268-dennis-og-bellini-r-vestreger-i-h-nsegarden.json) |
 | Dennis og Bellini: Slapafnien | 91452 | [91452-dennis-og-bellini-slapafnien.json](./91452-dennis-og-bellini-slapafnien.json) |
 | Dennis og Bellini: Stridens Æble | 91451 | [91451-dennis-og-bellini-stridens-ble.json](./91451-dennis-og-bellini-stridens-ble.json) |
 | Dennis the Menace | 248767 | [248767-dennis-the-menace.json](./248767-dennis-the-menace.json) |
@@ -8959,6 +8962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doterminism | 200538 | [200538-doterminism.json](./200538-doterminism.json) |
 | DotLine | 109418 | [109418-dotline.json](./109418-dotline.json) |
 | DotMan | 85098 | [85098-dotman.json](./85098-dotman.json) |
+| DotMatrixx | 91288 | [91288-dotmatrixx.json](./91288-dotmatrixx.json) |
 | Dotonon | 341677 | [341677-dotonon.json](./341677-dotonon.json) |
 | Dotori | 143600 | [143600-dotori.json](./143600-dotori.json) |
 | Dots | 76631 | [76631-dots.json](./76631-dots.json) |
