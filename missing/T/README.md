@@ -4303,6 +4303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beasts of 9500 | 133193 | [133193-the-beasts-of-9500.json](./133193-the-beasts-of-9500.json) |
 | The Beat Strikes Back | 364691 | [364691-the-beat-strikes-back.json](./364691-the-beat-strikes-back.json) |
 | The Beat, The Step, and the Cowboys | 59041 | [59041-the-beat-the-step-and-the-cowboys.json](./59041-the-beat-the-step-and-the-cowboys.json) |
+| The Beat: A Glam Noir Game | 108319 | [108319-the-beat-a-glam-noir-game.json](./108319-the-beat-a-glam-noir-game.json) |
 | The Beatles: Adventures in Pepperland | 198501 | [198501-the-beatles-adventures-in-pepperland.json](./198501-the-beatles-adventures-in-pepperland.json) |
 | The Beautiful World | 384228 | [384228-the-beautiful-world.json](./384228-the-beautiful-world.json) |
 | The Beauty Cult's: Nectarmancer | 219547 | [219547-the-beauty-cults-nectarmancer.json](./219547-the-beauty-cults-nectarmancer.json) |
@@ -5656,6 +5657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Doll | 249816 | [249816-the-doll.json](./249816-the-doll.json) |
 | The Doll Beneath | 192428 | [192428-the-doll-beneath.json](./192428-the-doll-beneath.json) |
 | The Doll Shop | 123627 | [123627-the-doll-shop.json](./123627-the-doll-shop.json) |
+| The Dollar Game | 108216 | [108216-the-dollar-game.json](./108216-the-dollar-game.json) |
 | The Dollmaker | 272919 | [272919-the-dollmaker.json](./272919-the-dollmaker.json) |
 | The Donald Trump Simulator | 144237 | [144237-the-donald-trump-simulator.json](./144237-the-donald-trump-simulator.json) |
 | The Donnerwald Experiment | 100339 | [100339-the-donnerwald-experiment.json](./100339-the-donnerwald-experiment.json) |
@@ -8604,6 +8606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Life Stage: Virtual House | 66410 | [66410-the-life-stage-virtual-house.json](./66410-the-life-stage-virtual-house.json) |
 | The Life Threads | 225261 | [225261-the-life-threads.json](./225261-the-life-threads.json) |
 | The Lifetime | 218473 | [218473-the-lifetime.json](./218473-the-lifetime.json) |
+| The Lift | 108320 | [108320-the-lift.json](./108320-the-lift.json) |
 | The Light at the End of the Ocean | 168635 | [168635-the-light-at-the-end-of-the-ocean.json](./168635-the-light-at-the-end-of-the-ocean.json) |
 | The Light Box | 242557 | [242557-the-light-box.json](./242557-the-light-box.json) |
 | The Light Brigade | 224505 | [224505-the-light-brigade.json](./224505-the-light-brigade.json) |
@@ -9564,6 +9567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The No Goblin Complete Collection | 53767 | [53767-the-no-goblin-complete-collection.json](./53767-the-no-goblin-complete-collection.json) |
 | The No No Man | 316412 | [316412-the-no-no-man.json](./316412-the-no-no-man.json) |
 | The Noid's Super Pizza Shootout | 342587 | [342587-the-noids-super-pizza-shootout.json](./342587-the-noids-super-pizza-shootout.json) |
+| The Noodle | 108223 | [108223-the-noodle.json](./108223-the-noodle.json) |
 | The Noog Network | 345430 | [345430-the-noog-network.json](./345430-the-noog-network.json) |
 | The Normal Day | 38997 | [38997-the-normal-day.json](./38997-the-normal-day.json) |
 | The Normal Turnabout | 310410 | [310410-the-normal-turnabout.json](./310410-the-normal-turnabout.json) |
@@ -10275,6 +10279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Real Ghostbusters | 12841 | [12841-the-real-ghostbusters.json](./12841-the-real-ghostbusters.json) |
 | The Real Ghostbusters | 218436 | [218436-the-real-ghostbusters.json](./218436-the-real-ghostbusters.json) |
 | The Real Ghostbusters | 218945 | [218945-the-real-ghostbusters.json](./218945-the-real-ghostbusters.json) |
+| The Real Laser Ball | 108307 | [108307-the-real-laser-ball.json](./108307-the-real-laser-ball.json) |
 | The Real Man Summer Championship 2019 | 119652 | [119652-the-real-man-summer-championship-2019.json](./119652-the-real-man-summer-championship-2019.json) |
 | The Real Stunt Experts | 13026 | [13026-the-real-stunt-experts.json](./13026-the-real-stunt-experts.json) |
 | The Real Texas | 25048 | [25048-the-real-texas.json](./25048-the-real-texas.json) |
@@ -12261,6 +12266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Un-Beatable Game | 161588 | [161588-the-un-beatable-game.json](./161588-the-un-beatable-game.json) |
 | The Unachievable Game | 205232 | [205232-the-unachievable-game.json](./205232-the-unachievable-game.json) |
 | The Unbreakable Chain | 62967 | [62967-the-unbreakable-chain.json](./62967-the-unbreakable-chain.json) |
+| The Unbreakable Gumball | 108316 | [108316-the-unbreakable-gumball.json](./108316-the-unbreakable-gumball.json) |
 | The Uncanny X-Men | 48050 | [48050-the-uncanny-x-men.json](./48050-the-uncanny-x-men.json) |
 | The Uncertain: Last Quiet Day | 34366 | [34366-the-uncertain-last-quiet-day.json](./34366-the-uncertain-last-quiet-day.json) |
 | The Uncertain: Light at the End | 110461 | [110461-the-uncertain-light-at-the-end.json](./110461-the-uncertain-light-at-the-end.json) |
@@ -15493,6 +15499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Travel Train | 381194 | [381194-time-travel-train.json](./381194-time-travel-train.json) |
 | Time Traveler | 201849 | [201849-time-traveler.json](./201849-time-traveler.json) |
 | Time Traveler | 24804 | [24804-time-traveler.json](./24804-time-traveler.json) |
+| Time Traveling Raptors | 108336 | [108336-time-traveling-raptors.json](./108336-time-traveling-raptors.json) |
 | Time Travelling Blues | 120909 | [120909-time-travelling-blues.json](./120909-time-travelling-blues.json) |
 | Time Travelling Navy Seal Ninja Warrior | 119821 | [119821-time-travelling-navy-seal-ninja-warrior.json](./119821-time-travelling-navy-seal-ninja-warrior.json) |
 | Time Travelling Space Pirates | 176296 | [176296-time-travelling-space-pirates.json](./176296-time-travelling-space-pirates.json) |
