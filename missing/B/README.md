@@ -716,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bago | 83449 | [83449-bago.json](./83449-bago.json) |
 | Bagration | 81665 | [81665-bagration.json](./81665-bagration.json) |
 | Bah, Humbug! | 97350 | [97350-bah-humbug.json](./97350-bah-humbug.json) |
+| Bahama Conch n Burger Shack | 113537 | [113537-bahama-conch-n-burger-shack.json](./113537-bahama-conch-n-burger-shack.json) |
 | Bahamian Rhapsody | 167378 | [167378-bahamian-rhapsody.json](./167378-bahamian-rhapsody.json) |
 | Bahamut and the Waqwaq Tree | 264652 | [264652-bahamut-and-the-waqwaq-tree.json](./264652-bahamut-and-the-waqwaq-tree.json) |
 | Bahamut Disco | 295932 | [295932-bahamut-disco.json](./295932-bahamut-disco.json) |
@@ -9880,6 +9881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breach: 83 | 350968 | [350968-breach-83.json](./350968-breach-83.json) |
 | Breach: Veil Demon DLC | 170327 | [170327-breach-veil-demon-dlc.json](./170327-breach-veil-demon-dlc.json) |
 | Breached | 281967 | [281967-breached.json](./281967-breached.json) |
+| Breacher Story | 113456 | [113456-breacher-story.json](./113456-breacher-story.json) |
 | Breaching Harkon | 382555 | [382555-breaching-harkon.json](./382555-breaching-harkon.json) |
 | Bread | 178027 | [178027-bread.json](./178027-bread.json) |
 | Bread & Fred | 204524 | [204524-bread-and-fred.json](./204524-bread-and-fred.json) |
