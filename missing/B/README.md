@@ -4657,6 +4657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Rust | 362895 | [362895-beyond-the-rust.json](./362895-beyond-the-rust.json) |
 | Beyond the Shadow | 219204 | [219204-beyond-the-shadow.json](./219204-beyond-the-shadow.json) |
 | Beyond the Sideline Football | 62223 | [62223-beyond-the-sideline-football.json](./62223-beyond-the-sideline-football.json) |
+| Beyond the Sky | 110748 | [110748-beyond-the-sky.json](./110748-beyond-the-sky.json) |
 | Beyond the Stars VR | 119721 | [119721-beyond-the-stars-vr.json](./119721-beyond-the-stars-vr.json) |
 | Beyond the Sunset | 68671 | [68671-beyond-the-sunset.json](./68671-beyond-the-sunset.json) |
 | Beyond The Tales | 336653 | [336653-beyond-the-tales.json](./336653-beyond-the-tales.json) |
@@ -5458,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bipedal Party | 376756 | [376756-bipedal-party.json](./376756-bipedal-party.json) |
 | Bipgolf | 148288 | [148288-bipgolf.json](./148288-bipgolf.json) |
 | Biphase | 148549 | [148549-biphase.json](./148549-biphase.json) |
+| BiPlane | 110885 | [110885-biplane.json](./110885-biplane.json) |
 | BiPlane 4 | 112890 | [112890-biplane-4.json](./112890-biplane-4.json) |
 | Bipo's Adventure | 183018 | [183018-bipos-adventure.json](./183018-bipos-adventure.json) |
 | Bipolar Game | 32975 | [32975-bipolar-game.json](./32975-bipolar-game.json) |
