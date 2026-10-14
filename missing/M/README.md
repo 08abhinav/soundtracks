@@ -6322,6 +6322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meta Match | 302199 | [302199-meta-match.json](./302199-meta-match.json) |
 | Meta Nanos: Rumble Race | 263521 | [263521-meta-nanos-rumble-race.json](./263521-meta-nanos-rumble-race.json) |
 | Meta Pong | 304823 | [304823-meta-pong.json](./304823-meta-pong.json) |
+| Meta Revelations - Ring Spirits | 112194 | [112194-meta-revelations-ring-spirits.json](./112194-meta-revelations-ring-spirits.json) |
 | Meta Star | 55514 | [55514-meta-star.json](./55514-meta-star.json) |
 | Meta Sudoku | 208639 | [208639-meta-sudoku.json](./208639-meta-sudoku.json) |
 | Meta World: My City | 193861 | [193861-meta-world-my-city.json](./193861-meta-world-my-city.json) |
@@ -6673,6 +6674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Exodus: Gold Edition | 95059 | [95059-metro-exodus-gold-edition.json](./95059-metro-exodus-gold-edition.json) |
 | Metro Exodus: Master Artyom Edition | 113629 | [113629-metro-exodus-master-artyom-edition.json](./113629-metro-exodus-master-artyom-edition.json) |
 | Metro Exodus: Sam's Story | 121756 | [121756-metro-exodus-sams-story.json](./121756-metro-exodus-sams-story.json) |
+| Metro Exodus: Spartan Collector's Edition | 112094 | [112094-metro-exodus-spartan-collectors-edition.json](./112094-metro-exodus-spartan-collectors-edition.json) |
 | Metro Gravity | 310157 | [310157-metro-gravity.json](./310157-metro-gravity.json) |
 | Metro Manager LA | 224706 | [224706-metro-manager-la.json](./224706-metro-manager-la.json) |
 | Metro Mini Market Simulator | 365228 | [365228-metro-mini-market-simulator.json](./365228-metro-mini-market-simulator.json) |
@@ -9508,6 +9510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam Version 2.0 | 159155 | [159155-mobile-suit-gundam-version-2-0.json](./159155-mobile-suit-gundam-version-2-0.json) |
 | Mobile Suit Gundam Vol. 1 - Side 7 | 66600 | [66600-mobile-suit-gundam-vol-1-side-7.json](./66600-mobile-suit-gundam-vol-1-side-7.json) |
 | Mobile Suit Gundam: A Year of War | 222899 | [222899-mobile-suit-gundam-a-year-of-war.json](./222899-mobile-suit-gundam-a-year-of-war.json) |
+| Mobile Suit Gundam: Advanced Operation | 112192 | [112192-mobile-suit-gundam-advanced-operation.json](./112192-mobile-suit-gundam-advanced-operation.json) |
 | Mobile Suit Gundam: Area Wars | 196338 | [196338-mobile-suit-gundam-area-wars.json](./196338-mobile-suit-gundam-area-wars.json) |
 | Mobile Suit Gundam: Battle Fortress | 336111 | [336111-mobile-suit-gundam-battle-fortress.json](./336111-mobile-suit-gundam-battle-fortress.json) |
 | Mobile Suit Gundam: Battle Operation | 44580 | [44580-mobile-suit-gundam-battle-operation.json](./44580-mobile-suit-gundam-battle-operation.json) |
