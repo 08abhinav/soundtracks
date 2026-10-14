@@ -437,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailor Fuku Bishoujo Zukan Vol. 6 | 41384 | [41384-sailor-fuku-bishoujo-zukan-vol-6.json](./41384-sailor-fuku-bishoujo-zukan-vol-6.json) |
 | Sailor Fuku Senshi Felis | 263671 | [263671-sailor-fuku-senshi-felis.json](./263671-sailor-fuku-senshi-felis.json) |
 | Sailor Fuku to Femme Fatale | 293941 | [293941-sailor-fuku-to-femme-fatale.json](./293941-sailor-fuku-to-femme-fatale.json) |
+| Sailor Jump | 120108 | [120108-sailor-jump.json](./120108-sailor-jump.json) |
 | Sailor Moon | 38280 | [38280-sailor-moon.json](./38280-sailor-moon.json) |
 | Sailor Moon Fighter S | 140404 | [140404-sailor-moon-fighter-s.json](./140404-sailor-moon-fighter-s.json) |
 | Sailor Moon RevengeX | 279589 | [279589-sailor-moon-revengex.json](./279589-sailor-moon-revengex.json) |
@@ -2548,6 +2549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scurvy Scallywags | 63663 | [63663-scurvy-scallywags.json](./63663-scurvy-scallywags.json) |
 | Scuttle | 285697 | [285697-scuttle.json](./285697-scuttle.json) |
 | Scuttle's Thingamubobs | 246533 | [246533-scuttles-thingamubobs.json](./246533-scuttles-thingamubobs.json) |
+| Scutum Phanti | 120059 | [120059-scutum-phanti.json](./120059-scutum-phanti.json) |
 | Scyla | 337658 | [337658-scyla.json](./337658-scyla.json) |
 | Scythe | 133255 | [133255-scythe.json](./133255-scythe.json) |
 | Scythe Shepard | 276717 | [276717-scythe-shepard.json](./276717-scythe-shepard.json) |
@@ -5245,6 +5247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shenjing | 392307 | [392307-shenjing.json](./392307-shenjing.json) |
 | Shénmǎ Jiānghú | 114522 | [114522-shenma-jianghu.json](./114522-shenma-jianghu.json) |
 | Shénme Guǐ Ànhēi | 107382 | [107382-shenme-gui-anhei.json](./107382-shenme-gui-anhei.json) |
+| Shenmou | 120078 | [120078-shenmou.json](./120078-shenmou.json) |
 | Shenmue I & II VR Mod | 413210 | [413210-shenmue-i-and-ii-vr-mod.json](./413210-shenmue-i-and-ii-vr-mod.json) |
 | Shenmue II | 1218 | [1218-shenmue-ii.json](./1218-shenmue-ii.json) |
 | Shenmue III: Battle Rally | 129191 | [129191-shenmue-iii-battle-rally.json](./129191-shenmue-iii-battle-rally.json) |
@@ -5815,6 +5818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shisen-Sho Nikakudori | 147657 | [147657-shisen-sho-nikakudori.json](./147657-shisen-sho-nikakudori.json) |
 | Shisen-shou: Match-Mania | 154802 | [154802-shisen-shou-match-mania.json](./154802-shisen-shou-match-mania.json) |
 | Shisha: The Lost Souls | 205903 | [205903-shisha-the-lost-souls.json](./205903-shisha-the-lost-souls.json) |
+| Shishi: Ballad of the Oracle | 120093 | [120093-shishi-ballad-of-the-oracle.json](./120093-shishi-ballad-of-the-oracle.json) |
 | Shishi: Timeless Prelude | 203715 | [203715-shishi-timeless-prelude.json](./203715-shishi-timeless-prelude.json) |
 | Shissou, Yankee Damashii | 295936 | [295936-shissou-yankee-damashii.json](./295936-shissou-yankee-damashii.json) |
 | Shissou, Yankee Damashii | 70592 | [70592-shissou-yankee-damashii.json](./70592-shissou-yankee-damashii.json) |
@@ -13633,6 +13637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speakeasy Simulator | 375821 | [375821-speakeasy-simulator.json](./375821-speakeasy-simulator.json) |
 | Speakeasy: Last Call | 295668 | [295668-speakeasy-last-call.json](./295668-speakeasy-last-call.json) |
 | Speaker | 178457 | [178457-speaker.json](./178457-speaker.json) |
+| Speakerman | 120082 | [120082-speakerman.json](./120082-speakerman.json) |
 | Speaking Simulator 2018 | 111648 | [111648-speaking-simulator-2018.json](./111648-speaking-simulator-2018.json) |
 | Speakrit | 293702 | [293702-speakrit.json](./293702-speakrit.json) |
 | Spear Girl | 190035 | [190035-spear-girl.json](./190035-spear-girl.json) |
@@ -19033,6 +19038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunts Contest Police Car | 393016 | [393016-stunts-contest-police-car.json](./393016-stunts-contest-police-car.json) |
 | Stunts Contest: Beach Edition | 215710 | [215710-stunts-contest-beach-edition.json](./215710-stunts-contest-beach-edition.json) |
 | Stunts Contest: Super Bike | 215709 | [215709-stunts-contest-super-bike.json](./215709-stunts-contest-super-bike.json) |
+| Stupid Bat | 120111 | [120111-stupid-bat.json](./120111-stupid-bat.json) |
 | Stupid Camera | 255992 | [255992-stupid-camera.json](./255992-stupid-camera.json) |
 | Stupid Cars | 300839 | [300839-stupid-cars.json](./300839-stupid-cars.json) |
 | Stupid Clicker Game | 26554 | [26554-stupid-clicker-game.json](./26554-stupid-clicker-game.json) |
@@ -22823,6 +22829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivors SymphonYs | 345007 | [345007-survivors-symphonys.json](./345007-survivors-symphonys.json) |
 | Survivors Will | 250347 | [250347-survivors-will.json](./250347-survivors-will.json) |
 | Survivors: Three Kingdoms | 224695 | [224695-survivors-three-kingdoms.json](./224695-survivors-three-kingdoms.json) |
+| SurviVR - Castle Defender | 120068 | [120068-survivr-castle-defender.json](./120068-survivr-castle-defender.json) |
 | SUS | 290548 | [290548-sus.json](./290548-sus.json) |
 | Sus Virus Amogus | 304864 | [304864-sus-virus-amogus.json](./304864-sus-virus-amogus.json) |
 | SUS: The Game | 282101 | [282101-sus-the-game.json](./282101-sus-the-game.json) |
