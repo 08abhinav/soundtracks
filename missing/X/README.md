@@ -726,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xuan Yuan Sword: The Gate of Firmament | 90974 | [90974-xuan-yuan-sword-the-gate-of-firmament.json](./90974-xuan-yuan-sword-the-gate-of-firmament.json) |
 | Xuan-Yuan Jiàn Wàizhuàn: Cāng zhī Tāo | 86029 | [86029-xuan-yuan-jian-waizhuan-cang-zhi-tao.json](./86029-xuan-yuan-jian-waizhuan-cang-zhi-tao.json) |
 | Xuan-Yuan Sword | 93064 | [93064-xuan-yuan-sword.json](./93064-xuan-yuan-sword.json) |
+| Xuan-Yuan Sword 2 | 100097 | [100097-xuan-yuan-sword-2.json](./100097-xuan-yuan-sword-2.json) |
 | Xuan-Yuan Sword 5: A Sword Above the Clouds and the Sentiments of the World of Shanhai | 78050 | [78050-xuan-yuan-sword-5-a-sword-above-the-clouds-and-the-sentiments-of-the-world-of-shanhai.json](./78050-xuan-yuan-sword-5-a-sword-above-the-clouds-and-the-sentiments-of-the-world-of-shanhai.json) |
 | Xuan-Yuan Sword 6: The Phoenix Soars in the Sky among Millennial Clouds | 126039 | [126039-xuan-yuan-sword-6-the-phoenix-soars-in-the-sky-among-millennial-clouds.json](./126039-xuan-yuan-sword-6-the-phoenix-soars-in-the-sky-among-millennial-clouds.json) |
 | Xuan-Yuan Sword VII | 132675 | [132675-xuan-yuan-sword-vii.json](./132675-xuan-yuan-sword-vii.json) |
