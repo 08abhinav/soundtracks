@@ -12625,6 +12625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cucu | 380100 | [380100-cucu.json](./380100-cucu.json) |
 | Cucumber | 311228 | [311228-cucumber.json](./311228-cucumber.json) |
 | Cucumber Blues | 28917 | [28917-cucumber-blues.json](./28917-cucumber-blues.json) |
+| Cucumber Defense VR | 126947 | [126947-cucumber-defense-vr.json](./126947-cucumber-defense-vr.json) |
 | CucumbeRunner | 236011 | [236011-cucumberunner.json](./236011-cucumberunner.json) |
 | Cuddle Corner | 360729 | [360729-cuddle-corner.json](./360729-cuddle-corner.json) |
 | Cuddly Forest Friends | 222944 | [222944-cuddly-forest-friends.json](./222944-cuddly-forest-friends.json) |
