@@ -7599,6 +7599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gym Simulator 26 | 397070 | [397070-gym-simulator-26.json](./397070-gym-simulator-26.json) |
 | GymBro | 309954 | [309954-gymbro.json](./309954-gymbro.json) |
 | Gymnastics Girl | 90349 | [90349-gymnastics-girl.json](./90349-gymnastics-girl.json) |
+| Gymnastics Queen | 96606 | [96606-gymnastics-queen.json](./96606-gymnastics-queen.json) |
 | Gymnastics Queen - Go for the Olympic Champion! | 97218 | [97218-gymnastics-queen-go-for-the-olympic-champion.json](./97218-gymnastics-queen-go-for-the-olympic-champion.json) |
 | Gynogenesis: The Next Day | 256899 | [256899-gynogenesis-the-next-day.json](./256899-gynogenesis-the-next-day.json) |
 | Gynotai | 319866 | [319866-gynotai.json](./319866-gynotai.json) |
