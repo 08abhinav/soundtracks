@@ -20953,6 +20953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trio Infernale | 122138 | [122138-trio-infernale.json](./122138-trio-infernale.json) |
 | Trio the Punch | 292851 | [292851-trio-the-punch.json](./292851-trio-the-punch.json) |
 | Trioncube | 21547 | [21547-trioncube.json](./21547-trioncube.json) |
+| Trionix | 91287 | [91287-trionix.json](./91287-trionix.json) |
 | Triopticon | 284281 | [284281-triopticon.json](./284281-triopticon.json) |
 | Trios | 129220 | [129220-trios.json](./129220-trios.json) |
 | Trip | 110120 | [110120-trip.json](./110120-trip.json) |
@@ -22546,6 +22547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typefighters: Steam Edition | 90589 | [90589-typefighters-steam-edition.json](./90589-typefighters-steam-edition.json) |
 | Typer | 88354 | [88354-typer.json](./88354-typer.json) |
 | Typer Hero | 173013 | [173013-typer-hero.json](./173013-typer-hero.json) |
+| TypeRacer | 91271 | [91271-typeracer.json](./91271-typeracer.json) |
 | TypeRush | 203185 | [203185-typerush.json](./203185-typerush.json) |
 | Typeshift | 27884 | [27884-typeshift.json](./27884-typeshift.json) |
 | TypeSpell Journey | 294290 | [294290-typespell-journey.json](./294290-typespell-journey.json) |
