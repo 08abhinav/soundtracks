@@ -3291,6 +3291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter Pan | 95405 | [95405-peter-pan.json](./95405-peter-pan.json) |
 | Peter Pan: A Story Painting Adventure | 327871 | [327871-peter-pan-a-story-painting-adventure.json](./327871-peter-pan-a-story-painting-adventure.json) |
 | Peter Pan: The Motion Picture Event | 49317 | [49317-peter-pan-the-motion-picture-event.json](./49317-peter-pan-the-motion-picture-event.json) |
+| Peter Pan's Playground | 98894 | [98894-peter-pans-playground.json](./98894-peter-pans-playground.json) |
 | Peter Paper | 140379 | [140379-peter-paper.json](./140379-peter-paper.json) |
 | Peter Penguin | 40677 | [40677-peter-penguin.json](./40677-peter-penguin.json) |
 | Peter Rabbit Maze Mischief | 88192 | [88192-peter-rabbit-maze-mischief.json](./88192-peter-rabbit-maze-mischief.json) |
@@ -11503,6 +11504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpy | 165485 | [165485-pumpy.json](./165485-pumpy.json) |
 | Pumuckl and the Crown of the Pirate King | 361866 | [361866-pumuckl-and-the-crown-of-the-pirate-king.json](./361866-pumuckl-and-the-crown-of-the-pirate-king.json) |
 | Pumuckls Abenteuer bei den Piraten | 93124 | [93124-pumuckls-abenteuer-bei-den-piraten.json](./93124-pumuckls-abenteuer-bei-den-piraten.json) |
+| Pumuckls Abenteuer im Geisterschloss | 98916 | [98916-pumuckls-abenteuer-im-geisterschloss.json](./98916-pumuckls-abenteuer-im-geisterschloss.json) |
 | PunBall | 226779 | [226779-punball.json](./226779-punball.json) |
 | Punch & Judy | 354584 | [354584-punch-and-judy.json](./354584-punch-and-judy.json) |
 | Punch A Plant! | 306431 | [306431-punch-a-plant.json](./306431-punch-a-plant.json) |
@@ -12416,6 +12418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PxBeats | 256540 | [256540-pxbeats.json](./256540-pxbeats.json) |
 | PXL Play | 232393 | [232393-pxl-play.json](./232393-pxl-play.json) |
 | Pxl-Ship | 133359 | [133359-pxl-ship.json](./133359-pxl-ship.json) |
+| pXt | 98883 | [98883-pxt.json](./98883-pxt.json) |
 | Pygmalion Lied | 178889 | [178889-pygmalion-lied.json](./178889-pygmalion-lied.json) |
 | Pyhare | 338279 | [338279-pyhare.json](./338279-pyhare.json) |
 | Pyjama Party | 184346 | [184346-pyjama-party.json](./184346-pyjama-party.json) |
