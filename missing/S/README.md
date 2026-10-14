@@ -3373,6 +3373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages Virtua Racing | 110062 | [110062-sega-ages-virtua-racing.json](./110062-sega-ages-virtua-racing.json) |
 | Sega Ages Wonder Boy: Monster Land | 117160 | [117160-sega-ages-wonder-boy-monster-land.json](./117160-sega-ages-wonder-boy-monster-land.json) |
 | Sega Ages: Columns Arcade Collection | 63125 | [63125-sega-ages-columns-arcade-collection.json](./63125-sega-ages-columns-arcade-collection.json) |
+| Sega Ages: I Love Mickey Mouse - Fushigi no Oshiro Daibouken/I Love Donald Duck: Guruzia Ou no Hihou | 79786 | [79786-sega-ages-i-love-mickey-mouse-fushigi-no-oshiro-daibouken-i-love-donald-duck-guruzia-ou-no-hihou.json](./79786-sega-ages-i-love-mickey-mouse-fushigi-no-oshiro-daibouken-i-love-donald-duck-guruzia-ou-no-hihou.json) |
 | Sega Ages: Ichidant-R | 110804 | [110804-sega-ages-ichidant-r.json](./110804-sega-ages-ichidant-r.json) |
 | Sega Ages: Shinobi | 110805 | [110805-sega-ages-shinobi.json](./110805-sega-ages-shinobi.json) |
 | Sega Chess | 19490 | [19490-sega-chess.json](./19490-sega-chess.json) |
@@ -9285,9 +9286,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slotter Chou Mania: Antonio Inoki ga Genki ni Suru Pachi-Slot Ki | 77014 | [77014-slotter-chou-mania-antonio-inoki-ga-genki-ni-suru-pachi-slot-ki.json](./77014-slotter-chou-mania-antonio-inoki-ga-genki-ni-suru-pachi-slot-ki.json) |
 | Slotter Mania 2 | 98867 | [98867-slotter-mania-2.json](./98867-slotter-mania-2.json) |
 | Slotter Mania 3 | 98868 | [98868-slotter-mania-3.json](./98868-slotter-mania-3.json) |
+| Slotter Mania 4 | 79781 | [79781-slotter-mania-4.json](./79781-slotter-mania-4.json) |
+| Slotter Mania 5 | 79782 | [79782-slotter-mania-5.json](./79782-slotter-mania-5.json) |
+| Slotter Mania 6 | 79783 | [79783-slotter-mania-6.json](./79783-slotter-mania-6.json) |
 | Slotter Mania 7 | 98869 | [98869-slotter-mania-7.json](./98869-slotter-mania-7.json) |
 | Slotter Mania 8 | 78653 | [78653-slotter-mania-8.json](./78653-slotter-mania-8.json) |
 | Slotter Mania 9 | 98870 | [98870-slotter-mania-9.json](./98870-slotter-mania-9.json) |
+| Slotter Mania Gaiden | 79780 | [79780-slotter-mania-gaiden.json](./79780-slotter-mania-gaiden.json) |
 | Slotter Mania P: Mach Go Go Go III | 98874 | [98874-slotter-mania-p-mach-go-go-go-iii.json](./98874-slotter-mania-p-mach-go-go-go-iii.json) |
 | Slotter Mania P: SanSan HanaHana & SanSan Oasis | 98875 | [98875-slotter-mania-p-sansan-hanahana-and-sansan-oasis.json](./98875-slotter-mania-p-sansan-hanahana-and-sansan-oasis.json) |
 | Slotter Mania P: Tetsuya Shinjuku vs Ueno | 62738 | [62738-slotter-mania-p-tetsuya-shinjuku-vs-ueno.json](./62738-slotter-mania-p-tetsuya-shinjuku-vs-ueno.json) |
@@ -12364,6 +12369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Bound Saga | 235791 | [235791-soul-bound-saga.json](./235791-soul-bound-saga.json) |
 | Soul Brave | 338321 | [338321-soul-brave.json](./338321-soul-brave.json) |
 | Soul Breach | 363022 | [363022-soul-breach.json](./363022-soul-breach.json) |
+| Soul Brother | 79749 | [79749-soul-brother.json](./79749-soul-brother.json) |
 | Soul Bubbles | 21370 | [21370-soul-bubbles.json](./21370-soul-bubbles.json) |
 | Soul Calibur Mobile | 372102 | [372102-soul-calibur-mobile.json](./372102-soul-calibur-mobile.json) |
 | Soul Card Duel | 390154 | [390154-soul-card-duel.json](./390154-soul-card-duel.json) |
@@ -15655,6 +15661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squidward Tractor | 320896 | [320896-squidward-tractor.json](./320896-squidward-tractor.json) |
 | Squiggle Drop | 234099 | [234099-squiggle-drop.json](./234099-squiggle-drop.json) |
 | Squigley | 291724 | [291724-squigley.json](./291724-squigley.json) |
+| Squigs | 79750 | [79750-squigs.json](./79750-squigs.json) |
 | Squiigee | 260304 | [260304-squiigee.json](./260304-squiigee.json) |
 | Squillamorph | 126652 | [126652-squillamorph.json](./126652-squillamorph.json) |
 | Squingle Arcade | 397933 | [397933-squingle-arcade.json](./397933-squingle-arcade.json) |
@@ -16366,6 +16373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Shattered Universe | 4168 | [4168-star-trek-shattered-universe.json](./4168-star-trek-shattered-universe.json) |
 | Star Trek: Starfleet Academy | 23946 | [23946-star-trek-starfleet-academy.json](./23946-star-trek-starfleet-academy.json) |
 | Star Trek: Starfleet Academy - Starship Bridge Simulator | 45878 | [45878-star-trek-starfleet-academy-starship-bridge-simulator.json](./45878-star-trek-starfleet-academy-starship-bridge-simulator.json) |
+| Star Trek: Starfleet Command - Orion Pirates | 79758 | [79758-star-trek-starfleet-command-orion-pirates.json](./79758-star-trek-starfleet-command-orion-pirates.json) |
 | Star Trek: Starfleet Command III | 19416 | [19416-star-trek-starfleet-command-iii.json](./19416-star-trek-starfleet-command-iii.json) |
 | Star Trek: Strategic Operations Simulator | 12319 | [12319-star-trek-strategic-operations-simulator.json](./12319-star-trek-strategic-operations-simulator.json) |
 | Star Trek: Strategic Operations Simulator | 282081 | [282081-star-trek-strategic-operations-simulator.json](./282081-star-trek-strategic-operations-simulator.json) |
@@ -19351,6 +19359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Style Savvy: Trendsetters | 6892 | [6892-style-savvy-trendsetters.json](./6892-style-savvy-trendsetters.json) |
 | Stylish Girls | 271901 | [271901-stylish-girls.json](./271901-stylish-girls.json) |
 | Stylish Guards | 216865 | [216865-stylish-guards.json](./216865-stylish-guards.json) |
+| Stylish Sprint | 79748 | [79748-stylish-sprint.json](./79748-stylish-sprint.json) |
 | Stylish Sprint 2 | 56481 | [56481-stylish-sprint-2.json](./56481-stylish-sprint-2.json) |
 | Stylist | 255632 | [255632-stylist.json](./255632-stylist.json) |
 | Stylist Girl: Complete Edition | 313214 | [313214-stylist-girl-complete-edition.json](./313214-stylist-girl-complete-edition.json) |
