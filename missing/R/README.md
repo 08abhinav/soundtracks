@@ -4031,6 +4031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrofit: Overload | 66676 | [66676-retrofit-overload.json](./66676-retrofit-overload.json) |
 | RetroFuel | 184108 | [184108-retrofuel.json](./184108-retrofuel.json) |
 | Retrograde | 40932 | [40932-retrograde.json](./40932-retrograde.json) |
+| Retrograde Arena | 117470 | [117470-retrograde-arena.json](./117470-retrograde-arena.json) |
 | Retrograde Arena: Arms Race Pack | 226966 | [226966-retrograde-arena-arms-race-pack.json](./226966-retrograde-arena-arms-race-pack.json) |
 | Retrograde Arena: Deathmatch Pack | 226967 | [226967-retrograde-arena-deathmatch-pack.json](./226967-retrograde-arena-deathmatch-pack.json) |
 | Retrogram | 197742 | [197742-retrogram.json](./197742-retrogram.json) |
@@ -5549,6 +5550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Hog! | 84245 | [84245-road-hog.json](./84245-road-hog.json) |
 | Road Home | 156045 | [156045-road-home.json](./156045-road-home.json) |
 | Road Homeward | 104157 | [104157-road-homeward.json](./104157-road-homeward.json) |
+| Road Homeward 2: River Trip | 117442 | [117442-road-homeward-2-river-trip.json](./117442-road-homeward-2-river-trip.json) |
 | Road Homeward 3: Underwater World | 120951 | [120951-road-homeward-3-underwater-world.json](./120951-road-homeward-3-underwater-world.json) |
 | Road Homeward 4: Last Step | 123557 | [123557-road-homeward-4-last-step.json](./123557-road-homeward-4-last-step.json) |
 | Road Homeward: Open World | 127312 | [127312-road-homeward-open-world.json](./127312-road-homeward-open-world.json) |
@@ -7389,6 +7391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotatex 3 | 236898 | [236898-rotatex-3.json](./236898-rotatex-3.json) |
 | Rotating Bones | 188010 | [188010-rotating-bones.json](./188010-rotating-bones.json) |
 | Rotating Roads | 307761 | [307761-rotating-roads.json](./307761-rotating-roads.json) |
+| Rotation | 117472 | [117472-rotation.json](./117472-rotation.json) |
 | Rotation Phonology: Break | 26843 | [26843-rotation-phonology-break.json](./26843-rotation-phonology-break.json) |
 | Rotato | 176362 | [176362-rotato.json](./176362-rotato.json) |
 | Rotato | 377595 | [377595-rotato.json](./377595-rotato.json) |
@@ -7766,6 +7769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubelike | 176377 | [176377-rubelike.json](./176377-rubelike.json) |
 | Rubi: The Wayward Mira | 55180 | [55180-rubi-the-wayward-mira.json](./55180-rubi-the-wayward-mira.json) |
 | Rubi's Room | 26882 | [26882-rubis-room.json](./26882-rubis-room.json) |
+| Rubico | 117557 | [117557-rubico.json](./117557-rubico.json) |
 | Rubicon | 172079 | [172079-rubicon.json](./172079-rubicon.json) |
 | Rubicon | 197678 | [197678-rubicon.json](./197678-rubicon.json) |
 | Rubicon | 79242 | [79242-rubicon.json](./79242-rubicon.json) |
