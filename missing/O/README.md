@@ -1004,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oldschool Tennis | 367591 | [367591-oldschool-tennis.json](./367591-oldschool-tennis.json) |
 | oldTail | 98990 | [98990-oldtail.json](./98990-oldtail.json) |
 | OldTV | 80544 | [80544-oldtv.json](./80544-oldtv.json) |
+| Olé, Toro | 93445 | [93445-ole-toro.json](./93445-ole-toro.json) |
 | Ole! | 93045 | [93045-ole.json](./93045-ole.json) |
 | Olea's Messenger | 110501 | [110501-oleas-messenger.json](./110501-oleas-messenger.json) |
 | Oleg Mongol | 161331 | [161331-oleg-mongol.json](./161331-oleg-mongol.json) |
