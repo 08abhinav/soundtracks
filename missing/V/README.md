@@ -489,7 +489,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: Master of Darkness | 8039 | [8039-vampire-master-of-darkness.json](./8039-vampire-master-of-darkness.json) |
 | Vampire: No Survivors | 364597 | [364597-vampire-no-survivors.json](./364597-vampire-no-survivors.json) |
 | Vampire: The Masquerade - Blood Frontier | 263387 | [263387-vampire-the-masquerade-blood-frontier.json](./263387-vampire-the-masquerade-blood-frontier.json) |
-| Vampire: The Masquerade - Bloodhunt | 152087 | [152087-vampire-the-masquerade-bloodhunt.json](./152087-vampire-the-masquerade-bloodhunt.json) |
 | Vampire: The Masquerade - Bloodlines 2 - Loose Cannon | 370209 | [370209-vampire-the-masquerade-bloodlines-2-loose-cannon.json](./370209-vampire-the-masquerade-bloodlines-2-loose-cannon.json) |
 | Vampire: The Masquerade - Bloodlines 2 - Santa Monica Memories | 361901 | [361901-vampire-the-masquerade-bloodlines-2-santa-monica-memories.json](./361901-vampire-the-masquerade-bloodlines-2-santa-monica-memories.json) |
 | Vampire: The Masquerade - Bloodlines 2 - Shadows & Silk | 361902 | [361902-vampire-the-masquerade-bloodlines-2-shadows-and-silk.json](./361902-vampire-the-masquerade-bloodlines-2-shadows-and-silk.json) |
@@ -1219,6 +1218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veyora | 386298 | [386298-veyora.json](./386298-veyora.json) |
 | Veyrasol | 413754 | [413754-veyrasol.json](./413754-veyrasol.json) |
 | VFR Real Scenery: Birmingham, Coventry & Wolverhampton | 71464 | [71464-vfr-real-scenery-birmingham-coventry-and-wolverhampton.json](./71464-vfr-real-scenery-birmingham-coventry-and-wolverhampton.json) |
+| VFR Real Scenery: Central & Southern England | 79773 | [79773-vfr-real-scenery-central-and-southern-england.json](./79773-vfr-real-scenery-central-and-southern-england.json) |
 | VFR Real Scenery: Isle of Wight | 99698 | [99698-vfr-real-scenery-isle-of-wight.json](./99698-vfr-real-scenery-isle-of-wight.json) |
 | VFR Real Scenery: London | 70963 | [70963-vfr-real-scenery-london.json](./70963-vfr-real-scenery-london.json) |
 | VFR Real Scenery: South East England | 68680 | [68680-vfr-real-scenery-south-east-england.json](./68680-vfr-real-scenery-south-east-england.json) |
