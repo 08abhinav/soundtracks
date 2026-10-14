@@ -2915,6 +2915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Cells Project | 278388 | [278388-perfect-cells-project.json](./278388-perfect-cells-project.json) |
 | Perfect Choro Q | 63794 | [63794-perfect-choro-q.json](./63794-perfect-choro-q.json) |
 | Perfect Circle: Stand Alone | 346650 | [346650-perfect-circle-stand-alone.json](./346650-perfect-circle-stand-alone.json) |
+| Perfect Crime | 116895 | [116895-perfect-crime.json](./116895-perfect-crime.json) |
 | Perfect Crime: Collector's Death | 170288 | [170288-perfect-crime-collectors-death.json](./170288-perfect-crime-collectors-death.json) |
 | Perfect Dark | 141537 | [141537-perfect-dark.json](./141537-perfect-dark.json) |
 | Perfect Dark | 1463 | [1463-perfect-dark.json](./1463-perfect-dark.json) |
@@ -6033,6 +6034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plane and Simple | 143108 | [143108-plane-and-simple.json](./143108-plane-and-simple.json) |
 | Plane Balance | 372787 | [372787-plane-balance.json](./372787-plane-balance.json) |
 | Plane Destroyer | 329627 | [329627-plane-destroyer.json](./329627-plane-destroyer.json) |
+| Plane in Hole | 116883 | [116883-plane-in-hole.json](./116883-plane-in-hole.json) |
 | Plane Master | 232691 | [232691-plane-master.json](./232691-plane-master.json) |
 | Plane Race | 235111 | [235111-plane-race.json](./235111-plane-race.json) |
 | Plane Racer | 230296 | [230296-plane-racer.json](./230296-plane-racer.json) |
