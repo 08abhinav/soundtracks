@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Netix | 92830 | [92830-g-netix.json](./92830-g-netix.json) |
 | G-Nome | 78909 | [78909-g-nome.json](./78909-g-nome.json) |
 | G-Scramble | 260753 | [260753-g-scramble.json](./260753-g-scramble.json) |
+| G-Stream G2020 | 83425 | [83425-g-stream-g2020.json](./83425-g-stream-g2020.json) |
 | G-Switch 3 | 101770 | [101770-g-switch-3.json](./101770-g-switch-3.json) |
 | G-Switch 4: Creator | 321440 | [321440-g-switch-4-creator.json](./321440-g-switch-4-creator.json) |
 | G-Type | 241496 | [241496-g-type.json](./241496-g-type.json) |
@@ -2941,6 +2942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginsei Igo 3D | 222301 | [222301-ginsei-igo-3d.json](./222301-ginsei-igo-3d.json) |
 | Ginsei Igo: AI Teaches You How to Play Go | 366974 | [366974-ginsei-igo-ai-teaches-you-how-to-play-go.json](./366974-ginsei-igo-ai-teaches-you-how-to-play-go.json) |
 | Ginsei Igo: Next Generation | 83454 | [83454-ginsei-igo-next-generation.json](./83454-ginsei-igo-next-generation.json) |
+| Ginsei Shogi Portable: Silver Star Japan Ginsei Shogi Series | 83428 | [83428-ginsei-shogi-portable-silver-star-japan-ginsei-shogi-series.json](./83428-ginsei-shogi-portable-silver-star-japan-ginsei-shogi-series.json) |
 | Ginsei Shogi: Aun Toushin Kongou Raizan | 219024 | [219024-ginsei-shogi-aun-toushin-kongou-raizan.json](./219024-ginsei-shogi-aun-toushin-kongou-raizan.json) |
 | Ginsei Shogi: Kyoutendo Toufuu Raijin | 56159 | [56159-ginsei-shogi-kyoutendo-toufuu-raijin.json](./56159-ginsei-shogi-kyoutendo-toufuu-raijin.json) |
 | Ginsei Table Games Wii | 83448 | [83448-ginsei-table-games-wii.json](./83448-ginsei-table-games-wii.json) |
