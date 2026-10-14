@@ -7611,6 +7611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Blood II | 65594 | [65594-royal-blood-ii.json](./65594-royal-blood-ii.json) |
 | Royal Booty Quest | 111692 | [111692-royal-booty-quest.json](./111692-royal-booty-quest.json) |
 | Royal Casino: Video Poker | 80926 | [80926-royal-casino-video-poker.json](./80926-royal-casino-video-poker.json) |
+| Royal Chaos | 105798 | [105798-royal-chaos.json](./105798-royal-chaos.json) |
 | Royal Chaos: Enter a Dreamlike Kingdom of Romance | 105883 | [105883-royal-chaos-enter-a-dreamlike-kingdom-of-romance.json](./105883-royal-chaos-enter-a-dreamlike-kingdom-of-romance.json) |
 | Royal Defense | 10784 | [10784-royal-defense.json](./10784-royal-defense.json) |
 | Royal Defense 2 | 10785 | [10785-royal-defense-2.json](./10785-royal-defense-2.json) |
