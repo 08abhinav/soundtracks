@@ -9893,6 +9893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asonde Mahjong ga Tsuyoku Naru! Ginsei Mahjong DX | 222372 | [222372-asonde-mahjong-ga-tsuyoku-naru-ginsei-mahjong-dx.json](./222372-asonde-mahjong-ga-tsuyoku-naru-ginsei-mahjong-dx.json) |
 | Asonde Poker ga Tsuyoku Naru! Texas Hold 'Em | 144998 | [144998-asonde-poker-ga-tsuyoku-naru-texas-hold-em.json](./144998-asonde-poker-ga-tsuyoku-naru-texas-hold-em.json) |
 | Asonde Shogi ga Tsuyoku Naru! Ginsei Shogi DX | 83460 | [83460-asonde-shogi-ga-tsuyoku-naru-ginsei-shogi-dx.json](./83460-asonde-shogi-ga-tsuyoku-naru-ginsei-shogi-dx.json) |
+| Asonde Shogi ga Tsuyoku Naru!! Ginsei Shogi DS | 83443 | [83443-asonde-shogi-ga-tsuyoku-naru-ginsei-shogi-ds.json](./83443-asonde-shogi-ga-tsuyoku-naru-ginsei-shogi-ds.json) |
 | Aspect Heroes | 277331 | [277331-aspect-heroes.json](./277331-aspect-heroes.json) |
 | Aspect of Daedalus | 275207 | [275207-aspect-of-daedalus.json](./275207-aspect-of-daedalus.json) |
 | Aspectless One | 405547 | [405547-aspectless-one.json](./405547-aspectless-one.json) |
