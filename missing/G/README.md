@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachasute! Dino Device 2 - Dragon | 49498 | [49498-gachasute-dino-device-2-dragon.json](./49498-gachasute-dino-device-2-dragon.json) |
 | Gachasute! Dino Device 2 - Phoenix | 49497 | [49497-gachasute-dino-device-2-phoenix.json](./49497-gachasute-dino-device-2-phoenix.json) |
 | Gachaverse (RPG & Anime Dress Up) | 103668 | [103668-gachaverse-rpg-and-anime-dress-up.json](./103668-gachaverse-rpg-and-anime-dress-up.json) |
+| Gachaverse Studio! | 104531 | [104531-gachaverse-studio.json](./104531-gachaverse-studio.json) |
 | Gachi Adventure: Billy's Legacy | 217447 | [217447-gachi-adventure-billys-legacy.json](./217447-gachi-adventure-billys-legacy.json) |
 | Gachi Dash | 180005 | [180005-gachi-dash.json](./180005-gachi-dash.json) |
 | Gachi Defense | 285923 | [285923-gachi-defense.json](./285923-gachi-defense.json) |
@@ -5011,6 +5012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grab 2 Coins | 328680 | [328680-grab-2-coins.json](./328680-grab-2-coins.json) |
 | Grab 50 Coins | 400264 | [400264-grab-50-coins.json](./400264-grab-50-coins.json) |
 | Grab it! Crane Game | 334095 | [334095-grab-it-crane-game.json](./334095-grab-it-crane-game.json) |
+| Grab Lab | 104534 | [104534-grab-lab.json](./104534-grab-lab.json) |
 | Grab Man | 305457 | [305457-grab-man.json](./305457-grab-man.json) |
 | Grab Man | 47264 | [47264-grab-man.json](./47264-grab-man.json) |
 | Grab the Apple | 266130 | [266130-grab-the-apple.json](./266130-grab-the-apple.json) |
