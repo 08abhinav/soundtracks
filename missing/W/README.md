@@ -1470,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warzone Chronicles: Virtual Warfare Shooter - Premium Edition | 308795 | [308795-warzone-chronicles-virtual-warfare-shooter-premium-edition.json](./308795-warzone-chronicles-virtual-warfare-shooter-premium-edition.json) |
 | WarZone Flashpoint | 112996 | [112996-warzone-flashpoint.json](./112996-warzone-flashpoint.json) |
 | Warzone World | 115186 | [115186-warzone-world.json](./115186-warzone-world.json) |
+| Warzone-X | 118114 | [118114-warzone-x.json](./118114-warzone-x.json) |
 | Warzone: Clash of Generals | 71018 | [71018-warzone-clash-of-generals.json](./71018-warzone-clash-of-generals.json) |
 | Warzoom | 263999 | [263999-warzoom.json](./263999-warzoom.json) |
 | Was it a Cat I Saw? | 207203 | [207203-was-it-a-cat-i-saw.json](./207203-was-it-a-cat-i-saw.json) |
@@ -2039,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weaver | 209979 | [209979-weaver.json](./209979-weaver.json) |
 | Weaverse | 107678 | [107678-weaverse.json](./107678-weaverse.json) |
 | Weaves of Fate | 53306 | [53306-weaves-of-fate.json](./53306-weaves-of-fate.json) |
+| Weaving Tides | 118076 | [118076-weaving-tides.json](./118076-weaving-tides.json) |
 | Web City 1 | 82834 | [82834-web-city-1.json](./82834-web-city-1.json) |
 | Web Crawlies | 236523 | [236523-web-crawlies.json](./236523-web-crawlies.json) |
 | Web Digger | 359468 | [359468-web-digger.json](./359468-web-digger.json) |
@@ -4928,6 +4930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woohoo!: Game - WordSearch | 304021 | [304021-woohoo-game-wordsearch.json](./304021-woohoo-game-wordsearch.json) |
 | Woohoo!: Game "Escape & Evade" | 316377 | [316377-woohoo-game-escape-and-evade.json](./316377-woohoo-game-escape-and-evade.json) |
 | Woohoojin Bridges | 112119 | [112119-woohoojin-bridges.json](./112119-woohoojin-bridges.json) |
+| Wookie's Blade | 118133 | [118133-wookies-blade.json](./118133-wookies-blade.json) |
 | Wool | 377141 | [377141-wool.json](./377141-wool.json) |
 | Woolfe: The Red Hood Diaries | 11647 | [11647-woolfe-the-red-hood-diaries.json](./11647-woolfe-the-red-hood-diaries.json) |
 | Woolly Boy And The Circus | 292582 | [292582-woolly-boy-and-the-circus.json](./292582-woolly-boy-and-the-circus.json) |
