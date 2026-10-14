@@ -4921,6 +4921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy The Universe: Solar Mayhem | 411813 | [411813-destroy-the-universe-solar-mayhem.json](./411813-destroy-the-universe-solar-mayhem.json) |
 | Destroy the Wall | 250938 | [250938-destroy-the-wall.json](./250938-destroy-the-wall.json) |
 | Destroy Your Home | 333531 | [333531-destroy-your-home.json](./333531-destroy-your-home.json) |
+| Destroy_the_devil | 114241 | [114241-destroy-the-devil.json](./114241-destroy-the-devil.json) |
 | Destroyer | 175824 | [175824-destroyer.json](./175824-destroyer.json) |
 | Destroyer | 26410 | [26410-destroyer.json](./26410-destroyer.json) |
 | Destroyer | 312254 | [312254-destroyer.json](./312254-destroyer.json) |
@@ -4930,6 +4931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroyer of Worlds | 144223 | [144223-destroyer-of-worlds.json](./144223-destroyer-of-worlds.json) |
 | Destroyer: Invasion | 50754 | [50754-destroyer-invasion.json](./50754-destroyer-invasion.json) |
 | Destroying the Asteroids: Along With Unfair Hurdles | 195967 | [195967-destroying-the-asteroids-along-with-unfair-hurdles.json](./195967-destroying-the-asteroids-along-with-unfair-hurdles.json) |
+| Destrucktors: Warfare Showdown | 114134 | [114134-destrucktors-warfare-showdown.json](./114134-destrucktors-warfare-showdown.json) |
 | Destruct | 60511 | [60511-destruct.json](./60511-destruct.json) |
 | Destruction | 112124 | [112124-destruction.json](./112124-destruction.json) |
 | Destruction AllStars | 134587 | [134587-destruction-allstars.json](./134587-destruction-allstars.json) |
@@ -9705,6 +9707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Hunter : Sniper Choice | 90664 | [90664-dragon-hunter-sniper-choice.json](./90664-dragon-hunter-sniper-choice.json) |
 | Dragon Hunters | 269734 | [269734-dragon-hunters.json](./269734-dragon-hunters.json) |
 | Dragon Inn | 226818 | [226818-dragon-inn.json](./226818-dragon-inn.json) |
+| Dragon Iris | 114231 | [114231-dragon-iris.json](./114231-dragon-iris.json) |
 | Dragon Is Dead | 289444 | [289444-dragon-is-dead.json](./289444-dragon-is-dead.json) |
 | Dragon Island | 217472 | [217472-dragon-island.json](./217472-dragon-island.json) |
 | Dragon Island | 220212 | [220212-dragon-island.json](./220212-dragon-island.json) |
@@ -9984,6 +9987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Vengeance | 154047 | [154047-dragons-vengeance.json](./154047-dragons-vengeance.json) |
 | Dragon's Wake | 34533 | [34533-dragons-wake.json](./34533-dragons-wake.json) |
 | Dragon's Wandering Tavern | 153985 | [153985-dragons-wandering-tavern.json](./153985-dragons-wandering-tavern.json) |
+| Dragon's Wrath | 114136 | [114136-dragons-wrath.json](./114136-dragons-wrath.json) |
 | Dragona: Fireborne | 289010 | [289010-dragona-fireborne.json](./289010-dragona-fireborne.json) |
 | DragonBlast VR | 31671 | [31671-dragonblast-vr.json](./31671-dragonblast-vr.json) |
 | Dragonbolt Vanguard | 55893 | [55893-dragonbolt-vanguard.json](./55893-dragonbolt-vanguard.json) |
