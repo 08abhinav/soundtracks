@@ -844,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umokay 64DS 8: The End is Near... | 270374 | [270374-umokay-64ds-8-the-end-is-near.json](./270374-umokay-64ds-8-the-end-is-near.json) |
 | Umokay 64DS 9: The Purple Comet | 270375 | [270375-umokay-64ds-9-the-purple-comet.json](./270375-umokay-64ds-9-the-purple-comet.json) |
 | Umokay 64DS X: To Infinity And Beyond! | 270376 | [270376-umokay-64ds-x-to-infinity-and-beyond.json](./270376-umokay-64ds-x-to-infinity-and-beyond.json) |
+| Umpire Simulator | 88113 | [88113-umpire-simulator.json](./88113-umpire-simulator.json) |
 | Umpteenth Photo | 386887 | [386887-umpteenth-photo.json](./386887-umpteenth-photo.json) |
 | UMS II: Nations at War | 74007 | [74007-ums-ii-nations-at-war.json](./74007-ums-ii-nations-at-war.json) |
 | UMS: The Universal Military Simulator | 37154 | [37154-ums-the-universal-military-simulator.json](./37154-ums-the-universal-military-simulator.json) |
@@ -1041,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Chronicles | 394452 | [394452-undead-chronicles.json](./394452-undead-chronicles.json) |
 | Undead City | 294168 | [294168-undead-city.json](./294168-undead-city.json) |
 | Undead Exterminator | 369916 | [369916-undead-exterminator.json](./369916-undead-exterminator.json) |
+| Undead Factory: Zombie Pandemic | 88114 | [88114-undead-factory-zombie-pandemic.json](./88114-undead-factory-zombie-pandemic.json) |
 | Undead Horde 2: Necropolis | 217181 | [217181-undead-horde-2-necropolis.json](./217181-undead-horde-2-necropolis.json) |
 | Undead Inc. | 252855 | [252855-undead-inc.json](./252855-undead-inc.json) |
 | Undead Inc.: Worky DLC | 310006 | [310006-undead-inc-worky-dlc.json](./310006-undead-inc-worky-dlc.json) |
