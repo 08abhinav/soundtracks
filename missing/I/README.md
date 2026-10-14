@@ -2161,6 +2161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incubus | 200567 | [200567-incubus.json](./200567-incubus.json) |
 | Incubus: A ghost-hunters tale | 221683 | [221683-incubus-a-ghost-hunters-tale.json](./221683-incubus-a-ghost-hunters-tale.json) |
 | Incursion | 80792 | [80792-incursion.json](./80792-incursion.json) |
+| Incursion 2: The Artifact | 95947 | [95947-incursion-2-the-artifact.json](./95947-incursion-2-the-artifact.json) |
 | Incursion: The Thing | 30723 | [30723-incursion-the-thing.json](./30723-incursion-the-thing.json) |
 | Incursion2D | 284887 | [284887-incursion2d.json](./284887-incursion2d.json) |
 | Indecision. | 83969 | [83969-indecision.json](./83969-indecision.json) |
