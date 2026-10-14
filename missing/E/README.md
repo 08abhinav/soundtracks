@@ -5036,6 +5036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exo Racing | 112827 | [112827-exo-racing.json](./112827-exo-racing.json) |
 | Exo Rally Championship | 252862 | [252862-exo-rally-championship.json](./252862-exo-rally-championship.json) |
 | Exo Wanderers | 340044 | [340044-exo-wanderers.json](./340044-exo-wanderers.json) |
+| Exo-Adventures | 108232 | [108232-exo-adventures.json](./108232-exo-adventures.json) |
 | Exo-Calibre | 338927 | [338927-exo-calibre.json](./338927-exo-calibre.json) |
 | Exo-Card Collector | 365869 | [365869-exo-card-collector.json](./365869-exo-card-collector.json) |
 | Exo-Leviathan | 259284 | [259284-exo-leviathan.json](./259284-exo-leviathan.json) |
@@ -5331,6 +5332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Cycling | 330189 | [330189-extreme-cycling.json](./330189-extreme-cycling.json) |
 | Extreme Cycling Championship | 406796 | [406796-extreme-cycling-championship.json](./406796-extreme-cycling-championship.json) |
 | Extreme Dash | 262468 | [262468-extreme-dash.json](./262468-extreme-dash.json) |
+| Extreme Drift Car Driving | 108226 | [108226-extreme-drift-car-driving.json](./108226-extreme-drift-car-driving.json) |
 | Extreme Escape | 135660 | [135660-extreme-escape.json](./135660-extreme-escape.json) |
 | Extreme Evolution: Drive to Divinity | 216740 | [216740-extreme-evolution-drive-to-divinity.json](./216740-extreme-evolution-drive-to-divinity.json) |
 | Extreme flight | 118411 | [118411-extreme-flight.json](./118411-extreme-flight.json) |
