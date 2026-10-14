@@ -916,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pantropy | 77611 | [77611-pantropy.json](./77611-pantropy.json) |
 | Pants | 179678 | [179678-pants.json](./179678-pants.json) |
 | Pants Quest | 190217 | [190217-pants-quest.json](./190217-pants-quest.json) |
+| PantsTyping | 82708 | [82708-pantstyping.json](./82708-pantstyping.json) |
 | Pantsu Hunter: Back to the 90s | 113726 | [113726-pantsu-hunter-back-to-the-90s.json](./113726-pantsu-hunter-back-to-the-90s.json) |
 | Pantsu! | 313682 | [313682-pantsu.json](./313682-pantsu.json) |
 | Pantsylvania | 64373 | [64373-pantsylvania.json](./64373-pantsylvania.json) |
@@ -7184,6 +7185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pointless Fighting | 360129 | [360129-pointless-fighting.json](./360129-pointless-fighting.json) |
 | PointlessQuest | 406638 | [406638-pointlessquest.json](./406638-pointlessquest.json) |
 | Pointy Ends | 149520 | [149520-pointy-ends.json](./149520-pointy-ends.json) |
+| Poipoil's Adventure | 82724 | [82724-poipoils-adventure.json](./82724-poipoils-adventure.json) |
 | Poison Control: Contaminated Edition | 139913 | [139913-poison-control-contaminated-edition.json](./139913-poison-control-contaminated-edition.json) |
 | Poison Heart | 308242 | [308242-poison-heart.json](./308242-poison-heart.json) |
 | Poison Selection | 394551 | [394551-poison-selection.json](./394551-poison-selection.json) |
