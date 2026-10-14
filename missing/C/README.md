@@ -4086,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers' Playroom | 381935 | [381935-checkers-playroom.json](./381935-checkers-playroom.json) |
 | Checkers' Treasure Hunt | 381937 | [381937-checkers-treasure-hunt.json](./381937-checkers-treasure-hunt.json) |
 | Checkers' Village | 382190 | [382190-checkers-village.json](./382190-checkers-village.json) |
+| Checkmate : Battle Arenas | 112697 | [112697-checkmate-battle-arenas.json](./112697-checkmate-battle-arenas.json) |
 | Checkmate Heroines | 391068 | [391068-checkmate-heroines.json](./391068-checkmate-heroines.json) |
 | Checkmate in the Wild West: Chess Adventure | 373534 | [373534-checkmate-in-the-wild-west-chess-adventure.json](./373534-checkmate-in-the-wild-west-chess-adventure.json) |
 | Checkmate! | 108057 | [108057-checkmate.json](./108057-checkmate.json) |
@@ -4340,6 +4341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Royal | 142699 | [142699-chess-royal.json](./142699-chess-royal.json) |
 | Chess Royale | 330918 | [330918-chess-royale.json](./330918-chess-royale.json) |
 | Chess Rush | 122963 | [122963-chess-rush.json](./122963-chess-rush.json) |
+| Chess Sphere | 112795 | [112795-chess-sphere.json](./112795-chess-sphere.json) |
 | Chess Survivors | 211384 | [211384-chess-survivors.json](./211384-chess-survivors.json) |
 | Chess Titans | 26679 | [26679-chess-titans.json](./26679-chess-titans.json) |
 | Chess Twist | 284967 | [284967-chess-twist.json](./284967-chess-twist.json) |
@@ -7751,6 +7753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Hunt: Number Jigsaw Puzzle | 289810 | [289810-color-hunt-number-jigsaw-puzzle.json](./289810-color-hunt-number-jigsaw-puzzle.json) |
 | Color Invader VR | 236874 | [236874-color-invader-vr.json](./236874-color-invader-vr.json) |
 | Color Island: Pixel Art | 280221 | [280221-color-island-pixel-art.json](./280221-color-island-pixel-art.json) |
+| Color Knight | 112792 | [112792-color-knight.json](./112792-color-knight.json) |
 | Color Lab | 192973 | [192973-color-lab.json](./192973-color-lab.json) |
 | Color Lines | 50119 | [50119-color-lines.json](./50119-color-lines.json) |
 | Color Madness | 367049 | [367049-color-madness.json](./367049-color-madness.json) |
@@ -12026,6 +12029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush Crush | 187865 | [187865-crush-crush.json](./187865-crush-crush.json) |
 | Crush Crush: - 18+ Naughty | 279778 | [279778-crush-crush-18-naughty.json](./279778-crush-crush-18-naughty.json) |
 | Crush Depth: U-Boat Simulator | 150050 | [150050-crush-depth-u-boat-simulator.json](./150050-crush-depth-u-boat-simulator.json) |
+| Crush Insects | 112817 | [112817-crush-insects.json](./112817-crush-insects.json) |
 | Crush Link TD | 272865 | [272865-crush-link-td.json](./272865-crush-link-td.json) |
 | Crush Online | 24953 | [24953-crush-online.json](./24953-crush-online.json) |
 | Crush Penguin | 219233 | [219233-crush-penguin.json](./219233-crush-penguin.json) |
