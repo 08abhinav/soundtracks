@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Big Game Hunter | 43250 | [43250-cabelas-big-game-hunter.json](./43250-cabelas-big-game-hunter.json) |
 | Cabela's Big Game Hunter 2006 Trophy Season | 60229 | [60229-cabelas-big-game-hunter-2006-trophy-season.json](./60229-cabelas-big-game-hunter-2006-trophy-season.json) |
 | Cabela's Big Game Hunter 2009 | 206695 | [206695-cabelas-big-game-hunter-2009.json](./206695-cabelas-big-game-hunter-2009.json) |
+| Cabela's Big Game Hunter 6 | 80409 | [80409-cabelas-big-game-hunter-6.json](./80409-cabelas-big-game-hunter-6.json) |
 | Cabela's Big Game Hunter III | 73772 | [73772-cabelas-big-game-hunter-iii.json](./73772-cabelas-big-game-hunter-iii.json) |
 | Cabela's Big Game Hunter: 2004 Season | 69861 | [69861-cabelas-big-game-hunter-2004-season.json](./69861-cabelas-big-game-hunter-2004-season.json) |
 | Cabela's Big Game Hunter: 2005 Adventures | 242469 | [242469-cabelas-big-game-hunter-2005-adventures.json](./242469-cabelas-big-game-hunter-2005-adventures.json) |
@@ -4739,6 +4740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Child vs. Clowns | 187178 | [187178-child-vs-clowns.json](./187178-child-vs-clowns.json) |
 | Child's Mind | 84573 | [84573-childs-mind.json](./84573-childs-mind.json) |
 | Child's Play | 60007 | [60007-childs-play.json](./60007-childs-play.json) |
+| Child's Play | 80404 | [80404-childs-play.json](./80404-childs-play.json) |
 | Childhood | 128444 | [128444-childhood.json](./128444-childhood.json) |
 | Childhood Dreams: Jigsaw Puzzle | 242509 | [242509-childhood-dreams-jigsaw-puzzle.json](./242509-childhood-dreams-jigsaw-puzzle.json) |
 | Childhood Dreams: Jigsaw Puzzle - Expansion Pack 1 | 242510 | [242510-childhood-dreams-jigsaw-puzzle-expansion-pack-1.json](./242510-childhood-dreams-jigsaw-puzzle-expansion-pack-1.json) |
@@ -6089,6 +6091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Rott: Streets of Rott | 29766 | [29766-city-of-rott-streets-of-rott.json](./29766-city-of-rott-streets-of-rott.json) |
 | City of Scrap | 183575 | [183575-city-of-scrap.json](./183575-city-of-scrap.json) |
 | City of Secrets | 60065 | [60065-city-of-secrets.json](./60065-city-of-secrets.json) |
+| City of Secrets | 80402 | [80402-city-of-secrets.json](./80402-city-of-secrets.json) |
 | City of Secrets 2 | 60062 | [60062-city-of-secrets-2.json](./60062-city-of-secrets-2.json) |
 | City of Secrets 2: Episode 1 | 146872 | [146872-city-of-secrets-2-episode-1.json](./146872-city-of-secrets-2-episode-1.json) |
 | City of sky | 88013 | [88013-city-of-sky.json](./88013-city-of-sky.json) |
@@ -6132,6 +6135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Sniper | 151007 | [151007-city-sniper.json](./151007-city-sniper.json) |
 | City Soccer Challenge | 66956 | [66956-city-soccer-challenge.json](./66956-city-soccer-challenge.json) |
 | City States: Medieval | 381155 | [381155-city-states-medieval.json](./381155-city-states-medieval.json) |
+| City Story | 80434 | [80434-city-story.json](./80434-city-story.json) |
 | City Stunt Driver | 186575 | [186575-city-stunt-driver.json](./186575-city-stunt-driver.json) |
 | City Super Battlefield | 289781 | [289781-city-super-battlefield.json](./289781-city-super-battlefield.json) |
 | City Super Hero 3D: Flying Legend Warriors Deluxe Simulator | 212276 | [212276-city-super-hero-3d-flying-legend-warriors-deluxe-simulator.json](./212276-city-super-hero-3d-flying-legend-warriors-deluxe-simulator.json) |
@@ -8754,6 +8758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concerto on White: Cajon Story - Touhou Project Music Pack | 388970 | [388970-concerto-on-white-cajon-story-touhou-project-music-pack.json](./388970-concerto-on-white-cajon-story-touhou-project-music-pack.json) |
 | Conchiglia | 357206 | [357206-conchiglia.json](./357206-conchiglia.json) |
 | Conclave | 36120 | [36120-conclave.json](./36120-conclave.json) |
+| Conclave | 80371 | [80371-conclave.json](./80371-conclave.json) |
 | Concluse | 95239 | [95239-concluse.json](./95239-concluse.json) |
 | Conclusion | 32197 | [32197-conclusion.json](./32197-conclusion.json) |
 | Concordia: Digital Edition | 140392 | [140392-concordia-digital-edition.json](./140392-concordia-digital-edition.json) |
@@ -10235,6 +10240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countup | 358882 | [358882-countup.json](./358882-countup.json) |
 | County Courier | 295782 | [295782-county-courier.json](./295782-county-courier.json) |
 | County Fair | 59967 | [59967-county-fair.json](./59967-county-fair.json) |
+| County Fair | 80405 | [80405-county-fair.json](./80405-county-fair.json) |
 | County Hospital 2 | 211697 | [211697-county-hospital-2.json](./211697-county-hospital-2.json) |
 | County Hospital Outbreak | 405700 | [405700-county-hospital-outbreak.json](./405700-county-hospital-outbreak.json) |
 | County of Fortune | 327218 | [327218-county-of-fortune.json](./327218-county-of-fortune.json) |
@@ -12463,6 +12469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystant | 392154 | [392154-crystant.json](./392154-crystant.json) |
 | Crystaura Purge Plan | 339345 | [339345-crystaura-purge-plan.json](./339345-crystaura-purge-plan.json) |
 | Cryste: the Faith of Fire Vol.1 | 28870 | [28870-cryste-the-faith-of-fire-vol-1.json](./28870-cryste-the-faith-of-fire-vol-1.json) |
+| Crystle Castles | 80391 | [80391-crystle-castles.json](./80391-crystle-castles.json) |
 | Cryzen.io | 282507 | [282507-cryzen-io.json](./282507-cryzen-io.json) |
 | Cryzon Part1 | 371419 | [371419-cryzon-part1.json](./371419-cryzon-part1.json) |
 | Cryzon Part4 | 394384 | [394384-cryzon-part4.json](./394384-cryzon-part4.json) |
