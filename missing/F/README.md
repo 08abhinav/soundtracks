@@ -3330,6 +3330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Cut: Fame Fatale - A Hidden Object Adventure | 88468 | [88468-final-cut-fame-fatale-a-hidden-object-adventure.json](./88468-final-cut-fame-fatale-a-hidden-object-adventure.json) |
 | Final Cut: Fame Fatale - Collector's Edition | 111511 | [111511-final-cut-fame-fatale-collectors-edition.json](./111511-final-cut-fame-fatale-collectors-edition.json) |
 | Final Cut: Homage | 98382 | [98382-final-cut-homage.json](./98382-final-cut-homage.json) |
+| Final Cut: Homage - Collector's Edition | 75649 | [75649-final-cut-homage-collectors-edition.json](./75649-final-cut-homage-collectors-edition.json) |
 | Final Cut: The True Escapade | 98380 | [98380-final-cut-the-true-escapade.json](./98380-final-cut-the-true-escapade.json) |
 | Final Cut: The True Escapade - Collector's Edition | 96942 | [96942-final-cut-the-true-escapade-collectors-edition.json](./96942-final-cut-the-true-escapade-collectors-edition.json) |
 | Final Dash | 290855 | [290855-final-dash.json](./290855-final-dash.json) |
@@ -3525,6 +3526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XIV: The Promise of Tomorrow | 350547 | [350547-final-fantasy-xiv-the-promise-of-tomorrow.json](./350547-final-fantasy-xiv-the-promise-of-tomorrow.json) |
 | Final Fantasy XV Mobile | 129157 | [129157-final-fantasy-xv-mobile.json](./129157-final-fantasy-xv-mobile.json) |
 | Final Fantasy XV Multiplayer: Comrades | 76163 | [76163-final-fantasy-xv-multiplayer-comrades.json](./76163-final-fantasy-xv-multiplayer-comrades.json) |
+| Final Fantasy XV: Day One Edition | 75681 | [75681-final-fantasy-xv-day-one-edition.json](./75681-final-fantasy-xv-day-one-edition.json) |
 | Final Fantasy XV: Deluxe Edition | 38492 | [38492-final-fantasy-xv-deluxe-edition.json](./38492-final-fantasy-xv-deluxe-edition.json) |
 | Final Fantasy XV: Episode Ardyn | 76430 | [76430-final-fantasy-xv-episode-ardyn.json](./76430-final-fantasy-xv-episode-ardyn.json) |
 | Final Fantasy XV: Episode Ignis | 37291 | [37291-final-fantasy-xv-episode-ignis.json](./37291-final-fantasy-xv-episode-ignis.json) |
@@ -3538,6 +3540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XV: Royal Edition | 80877 | [80877-final-fantasy-xv-royal-edition.json](./80877-final-fantasy-xv-royal-edition.json) |
 | Final Fantasy XV: Special Edition | 205260 | [205260-final-fantasy-xv-special-edition.json](./205260-final-fantasy-xv-special-edition.json) |
 | Final Fantasy XV: Trendy Outfit | 350949 | [350949-final-fantasy-xv-trendy-outfit.json](./350949-final-fantasy-xv-trendy-outfit.json) |
+| Final Fantasy XV: Ultimate Collector's Edition | 75680 | [75680-final-fantasy-xv-ultimate-collectors-edition.json](./75680-final-fantasy-xv-ultimate-collectors-edition.json) |
 | Final Fantasy XV: War for Eos | 231406 | [231406-final-fantasy-xv-war-for-eos.json](./231406-final-fantasy-xv-war-for-eos.json) |
 | Final Fantasy XV: Windows Edition | 55034 | [55034-final-fantasy-xv-windows-edition.json](./55034-final-fantasy-xv-windows-edition.json) |
 | Final Fantasy XVI Demake | 402448 | [402448-final-fantasy-xvi-demake.json](./402448-final-fantasy-xvi-demake.json) |
@@ -5578,6 +5581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flow Free: Bridges | 99393 | [99393-flow-free-bridges.json](./99393-flow-free-bridges.json) |
 | Flow Free: Hexes | 96260 | [96260-flow-free-hexes.json](./96260-flow-free-hexes.json) |
 | Flow Gear Racing | 153399 | [153399-flow-gear-racing.json](./153399-flow-gear-racing.json) |
+| Flow Handcrafted | 75663 | [75663-flow-handcrafted.json](./75663-flow-handcrafted.json) |
 | Flow of War | 272262 | [272262-flow-of-war.json](./272262-flow-of-war.json) |
 | Flow Parkour | 260894 | [260894-flow-parkour.json](./260894-flow-parkour.json) |
 | Flow Skate | 369048 | [369048-flow-skate.json](./369048-flow-skate.json) |
