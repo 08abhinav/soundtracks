@@ -4064,6 +4064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Words to Speak With | 176782 | [176782-no-words-to-speak-with.json](./176782-no-words-to-speak-with.json) |
 | No Worries | 286065 | [286065-no-worries.json](./286065-no-worries.json) |
 | No Zombie Land: Lucy | 367282 | [367282-no-zombie-land-lucy.json](./367282-no-zombie-land-lucy.json) |
+| No-Appointment Gals: Olympos | 78522 | [78522-no-appointment-gals-olympos.json](./78522-no-appointment-gals-olympos.json) |
 | No-brainer! Heroes | 134655 | [134655-no-brainer-heroes.json](./134655-no-brainer-heroes.json) |
 | No-Go | 202195 | [202195-no-go.json](./202195-no-go.json) |
 | No-Hi | 311204 | [311204-no-hi.json](./311204-no-hi.json) |
