@@ -4955,6 +4955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pioneer Lands | 59430 | [59430-pioneer-lands.json](./59430-pioneer-lands.json) |
 | Pioneer Racing | 338306 | [338306-pioneer-racing.json](./338306-pioneer-racing.json) |
 | Pioneer Space Sim | 179050 | [179050-pioneer-space-sim.json](./179050-pioneer-space-sim.json) |
+| Pioneer Trail | 92385 | [92385-pioneer-trail.json](./92385-pioneer-trail.json) |
 | Pioneers | 63237 | [63237-pioneers.json](./63237-pioneers.json) |
 | Pioneers of New World | 336724 | [336724-pioneers-of-new-world.json](./336724-pioneers-of-new-world.json) |
 | Pioneers of Pagonia | 237457 | [237457-pioneers-of-pagonia.json](./237457-pioneers-of-pagonia.json) |
@@ -9691,6 +9692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Lana | 138687 | [138687-princess-lana.json](./138687-princess-lana.json) |
 | Princess Lili | 107881 | [107881-princess-lili.json](./107881-princess-lili.json) |
 | Princess Lover! | 387346 | [387346-princess-lover.json](./387346-princess-lover.json) |
+| Princess Lover!: Eternal Love for My Lady | 92410 | [92410-princess-lover-eternal-love-for-my-lady.json](./92410-princess-lover-eternal-love-for-my-lady.json) |
 | Princess Maira: Initiation | 192658 | [192658-princess-maira-initiation.json](./192658-princess-maira-initiation.json) |
 | Princess Maker | 100085 | [100085-princess-maker.json](./100085-princess-maker.json) |
 | Princess Maker 2 | 194280 | [194280-princess-maker-2.json](./194280-princess-maker-2.json) |
@@ -11337,6 +11339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Public Transport Simulator 2 | 333737 | [333737-public-transport-simulator-2.json](./333737-public-transport-simulator-2.json) |
 | Publish or Perish | 298241 | [298241-publish-or-perish.json](./298241-publish-or-perish.json) |
 | Pucca Jam | 260118 | [260118-pucca-jam.json](./260118-pucca-jam.json) |
+| Pucca Pop | 92391 | [92391-pucca-pop.json](./92391-pucca-pop.json) |
 | Pucca Puzzle Adventure | 239003 | [239003-pucca-puzzle-adventure.json](./239003-pucca-puzzle-adventure.json) |
 | Pucca Wars | 263688 | [263688-pucca-wars.json](./263688-pucca-wars.json) |
 | Pucca, Let’s Cook! | 263689 | [263689-pucca-let-s-cook.json](./263689-pucca-let-s-cook.json) |
