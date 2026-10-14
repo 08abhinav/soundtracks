@@ -7287,6 +7287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxy Trouble | 374444 | [374444-foxy-trouble.json](./374444-foxy-trouble.json) |
 | Foxy's Adventure | 159893 | [159893-foxys-adventure.json](./159893-foxys-adventure.json) |
 | Foxy's Coin Hunt | 235301 | [235301-foxys-coin-hunt.json](./235301-foxys-coin-hunt.json) |
+| Foxyland 2 | 116875 | [116875-foxyland-2.json](./116875-foxyland-2.json) |
 | FP Racer | 340242 | [340242-fp-racer.json](./340242-fp-racer.json) |
 | FPAH: Foul Play Air Hockey | 197653 | [197653-fpah-foul-play-air-hockey.json](./197653-fpah-foul-play-air-hockey.json) |
 | FPS Arena Online | 195707 | [195707-fps-arena-online.json](./195707-fps-arena-online.json) |
@@ -7479,6 +7480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Francisca | 32062 | [32062-francisca.json](./32062-francisca.json) |
 | Francisca 2 | 156073 | [156073-francisca-2.json](./156073-francisca-2.json) |
 | Franco and Apollo | 211387 | [211387-franco-and-apollo.json](./211387-franco-and-apollo.json) |
+| Frane: Dragons' Odyssey | 116790 | [116790-frane-dragons-odyssey.json](./116790-frane-dragons-odyssey.json) |
 | Frank and 10 roots | 116286 | [116286-frank-and-10-roots.json](./116286-frank-and-10-roots.json) |
 | Frank and Drake | 152923 | [152923-frank-and-drake.json](./152923-frank-and-drake.json) |
 | Frank Bruno's Boxing | 45246 | [45246-frank-brunos-boxing.json](./45246-frank-brunos-boxing.json) |
