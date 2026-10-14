@@ -3722,6 +3722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 5: Gold Edition | 24347 | [24347-resident-evil-5-gold-edition.json](./24347-resident-evil-5-gold-edition.json) |
 | Resident Evil 5: Lost in Nightmares | 21666 | [21666-resident-evil-5-lost-in-nightmares.json](./21666-resident-evil-5-lost-in-nightmares.json) |
 | Resident Evil 6 Remastered | 41858 | [41858-resident-evil-6-remastered.json](./41858-resident-evil-6-remastered.json) |
+| Resident Evil 6: Archives | 79137 | [79137-resident-evil-6-archives.json](./79137-resident-evil-6-archives.json) |
 | Resident Evil 6: Survivors Mode | 202196 | [202196-resident-evil-6-survivors-mode.json](./202196-resident-evil-6-survivors-mode.json) |
 | Resident Evil 7 Gold Edition & Village Gold Edition | 234684 | [234684-resident-evil-7-gold-edition-and-village-gold-edition.json](./234684-resident-evil-7-gold-edition-and-village-gold-edition.json) |
 | Resident Evil 7 Teaser: Beginning Hour | 90566 | [90566-resident-evil-7-teaser-beginning-hour.json](./90566-resident-evil-7-teaser-beginning-hour.json) |
@@ -7376,6 +7377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roots of Tomorrow: Additional Characters | 201097 | [201097-roots-of-tomorrow-additional-characters.json](./201097-roots-of-tomorrow-additional-characters.json) |
 | Roots of Tomorrow: Beekeeping | 201098 | [201098-roots-of-tomorrow-beekeeping.json](./201098-roots-of-tomorrow-beekeeping.json) |
 | Roots of Tomorrow: Urban Agriculture | 244361 | [244361-roots-of-tomorrow-urban-agriculture.json](./244361-roots-of-tomorrow-urban-agriculture.json) |
+| Rop | 79183 | [79183-rop.json](./79183-rop.json) |
 | Rope | 138809 | [138809-rope.json](./138809-rope.json) |
 | Rope & Ball | 262639 | [262639-rope-and-ball.json](./262639-rope-and-ball.json) |
 | Rope and Balls | 208960 | [208960-rope-and-balls.json](./208960-rope-and-balls.json) |
@@ -7696,6 +7698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Envoy 3: Collector's Edition | 132804 | [132804-royal-envoy-3-collectors-edition.json](./132804-royal-envoy-3-collectors-edition.json) |
 | Royal Escape | 71203 | [71203-royal-escape.json](./71203-royal-escape.json) |
 | Royal Farm | 254750 | [254750-royal-farm.json](./254750-royal-farm.json) |
+| Royal Flush | 79182 | [79182-royal-flush.json](./79182-royal-flush.json) |
 | Royal Flux: The Astral Shadow Plague | 413138 | [413138-royal-flux-the-astral-shadow-plague.json](./413138-royal-flux-the-astral-shadow-plague.json) |
 | Royal Frontier | 193668 | [193668-royal-frontier.json](./193668-royal-frontier.json) |
 | Royal Garden Tales | 95878 | [95878-royal-garden-tales.json](./95878-royal-garden-tales.json) |
@@ -8536,6 +8539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Fishing 4 | 56012 | [56012-russian-fishing-4.json](./56012-russian-fishing-4.json) |
 | Russian Fishing 4: Amber Lake | 161308 | [161308-russian-fishing-4-amber-lake.json](./161308-russian-fishing-4-amber-lake.json) |
 | Russian Fishing 4: Lower Tunguska River | 161307 | [161307-russian-fishing-4-lower-tunguska-river.json](./161307-russian-fishing-4-lower-tunguska-river.json) |
+| Russian Front II: The Kursk Campaign | 79128 | [79128-russian-front-ii-the-kursk-campaign.json](./79128-russian-front-ii-the-kursk-campaign.json) |
 | Russian Gangsta in Hell | 99063 | [99063-russian-gangsta-in-hell.json](./99063-russian-gangsta-in-hell.json) |
 | Russian Hentai 3 | 155461 | [155461-russian-hentai-3.json](./155461-russian-hentai-3.json) |
 | Russian Life Simulator | 118022 | [118022-russian-life-simulator.json](./118022-russian-life-simulator.json) |
