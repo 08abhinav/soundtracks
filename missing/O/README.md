@@ -254,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean and Fish | 387059 | [387059-ocean-and-fish.json](./387059-ocean-and-fish.json) |
 | Ocean Animals Puzzle for Kids & Toddlers | 203699 | [203699-ocean-animals-puzzle-for-kids-and-toddlers.json](./203699-ocean-animals-puzzle-for-kids-and-toddlers.json) |
 | Ocean Avenue | 177904 | [177904-ocean-avenue.json](./177904-ocean-avenue.json) |
+| Ocean Battle | 92418 | [92418-ocean-battle.json](./92418-ocean-battle.json) |
 | Ocean Bubble Shooter | 219769 | [219769-ocean-bubble-shooter.json](./219769-ocean-bubble-shooter.json) |
 | Ocean Cargo Manager | 415169 | [415169-ocean-cargo-manager.json](./415169-ocean-cargo-manager.json) |
 | Ocean Cat | 245902 | [245902-ocean-cat.json](./245902-ocean-cat.json) |
@@ -1919,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OneScreen Solar Sails | 37399 | [37399-onescreen-solar-sails.json](./37399-onescreen-solar-sails.json) |
 | OneScreen Wagons | 74475 | [74475-onescreen-wagons.json](./74475-onescreen-wagons.json) |
 | OneShot Challenge | 392416 | [392416-oneshot-challenge.json](./392416-oneshot-challenge.json) |
+| Oneshot Voca | 92400 | [92400-oneshot-voca.json](./92400-oneshot-voca.json) |
 | OneShot: Fading Memory | 166079 | [166079-oneshot-fading-memory.json](./166079-oneshot-fading-memory.json) |
 | OneShot: The Pancake Episode | 307795 | [307795-oneshot-the-pancake-episode.json](./307795-oneshot-the-pancake-episode.json) |
 | Onesimus: A Quest for Freedom | 68971 | [68971-onesimus-a-quest-for-freedom.json](./68971-onesimus-a-quest-for-freedom.json) |
