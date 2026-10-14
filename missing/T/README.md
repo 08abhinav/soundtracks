@@ -640,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Cover Now | 304754 | [304754-take-cover-now.json](./304754-take-cover-now.json) |
 | Take Cover! | 120243 | [120243-take-cover.json](./120243-take-cover.json) |
 | Take Down | 125962 | [125962-take-down.json](./125962-take-down.json) |
+| Take Five CD-Rom: The Entertainer - Five Entertaining Titles in One Box | 84128 | [84128-take-five-cd-rom-the-entertainer-five-entertaining-titles-in-one-box.json](./84128-take-five-cd-rom-the-entertainer-five-entertaining-titles-in-one-box.json) |
 | Take It Easy | 105531 | [105531-take-it-easy.json](./105531-take-it-easy.json) |
 | Take It Racing 2 | 287105 | [287105-take-it-racing-2.json](./287105-take-it-racing-2.json) |
 | Take It Seriously! Extreme Common Sense Challenge | 401095 | [401095-take-it-seriously-extreme-common-sense-challenge.json](./401095-take-it-seriously-extreme-common-sense-challenge.json) |
@@ -4040,6 +4041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Arcane Tower | 166744 | [166744-the-arcane-tower.json](./166744-the-arcane-tower.json) |
 | The Archer | 287646 | [287646-the-archer.json](./287646-the-archer.json) |
 | The Archer | 311814 | [311814-the-archer.json](./311814-the-archer.json) |
+| The Archer: Dead Hunt | 84081 | [84081-the-archer-dead-hunt.json](./84081-the-archer-dead-hunt.json) |
 | The Archetype | 34765 | [34765-the-archetype.json](./34765-the-archetype.json) |
 | The Archipelago | 180765 | [180765-the-archipelago.json](./180765-the-archipelago.json) |
 | The Architect: Paris | 74414 | [74414-the-architect-paris.json](./74414-the-architect-paris.json) |
@@ -9596,7 +9598,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night of Fire Stealing | 106412 | [106412-the-night-of-fire-stealing.json](./106412-the-night-of-fire-stealing.json) |
 | The Night of Fire Stealing 2 | 163751 | [163751-the-night-of-fire-stealing-2.json](./163751-the-night-of-fire-stealing-2.json) |
 | The Night of the Inquisitor | 249924 | [249924-the-night-of-the-inquisitor.json](./249924-the-night-of-the-inquisitor.json) |
-| The Night of the Rabbit | 3230 | [3230-the-night-of-the-rabbit.json](./3230-the-night-of-the-rabbit.json) |
 | The Night of the Rabbit: Premium Edition | 53768 | [53768-the-night-of-the-rabbit-premium-edition.json](./53768-the-night-of-the-rabbit-premium-edition.json) |
 | The Night Owl Murder | 260086 | [260086-the-night-owl-murder.json](./260086-the-night-owl-murder.json) |
 | The Night Ripper | 125259 | [125259-the-night-ripper.json](./125259-the-night-ripper.json) |
@@ -11375,6 +11376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Song of Seven : Overture (Chapter One) | 26529 | [26529-the-song-of-seven-overture-chapter-one.json](./26529-the-song-of-seven-overture-chapter-one.json) |
 | The song of Star night | 150486 | [150486-the-song-of-star-night.json](./150486-the-song-of-star-night.json) |
 | The Song of Survivors | 165015 | [165015-the-song-of-survivors.json](./165015-the-song-of-survivors.json) |
+| The Song of Terminus | 84119 | [84119-the-song-of-terminus.json](./84119-the-song-of-terminus.json) |
 | The Song of the Nightrider | 244874 | [244874-the-song-of-the-nightrider.json](./244874-the-song-of-the-nightrider.json) |
 | The Song of the Stars II | 284328 | [284328-the-song-of-the-stars-ii.json](./284328-the-song-of-the-stars-ii.json) |
 | The Song Of Will | 400543 | [400543-the-song-of-will.json](./400543-the-song-of-will.json) |
@@ -16509,6 +16511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Togainu no Chi: True Blood | 145289 | [145289-togainu-no-chi-true-blood.json](./145289-togainu-no-chi-true-blood.json) |
 | Togainu no Chi: Typing | 237424 | [237424-togainu-no-chi-typing.json](./237424-togainu-no-chi-typing.json) |
 | Toganeyobi | 387702 | [387702-toganeyobi.json](./387702-toganeyobi.json) |
+| Togedemaru's Hop to the Top | 84121 | [84121-togedemarus-hop-to-the-top.json](./84121-togedemarus-hop-to-the-top.json) |
 | Together | 152248 | [152248-together.json](./152248-together.json) |
 | Together | 82054 | [82054-together.json](./82054-together.json) |
 | Together | 96269 | [96269-together.json](./96269-together.json) |
@@ -21295,6 +21298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troublemaker 2: Beyond Dream | 271907 | [271907-troublemaker-2-beyond-dream.json](./271907-troublemaker-2-beyond-dream.json) |
 | Troubles in Silesia Country | 250013 | [250013-troubles-in-silesia-country.json](./250013-troubles-in-silesia-country.json) |
 | Troubles Land | 34584 | [34584-troubles-land.json](./34584-troubles-land.json) |
+| Troubleshooter | 84113 | [84113-troubleshooter.json](./84113-troubleshooter.json) |
 | Troubleshooter: Abandoned Children | 80002 | [80002-troubleshooter-abandoned-children.json](./80002-troubleshooter-abandoned-children.json) |
 | Troubleshooter: Abandoned Children - Crimson Crow | 224997 | [224997-troubleshooter-abandoned-children-crimson-crow.json](./224997-troubleshooter-abandoned-children-crimson-crow.json) |
 | Troubleshooting | 221195 | [221195-troubleshooting.json](./221195-troubleshooting.json) |
