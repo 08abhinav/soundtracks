@@ -1763,6 +1763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way In The Stars: The Threat | 235721 | [235721-way-in-the-stars-the-threat.json](./235721-way-in-the-stars-the-threat.json) |
 | Way Nd Choice | 288468 | [288468-way-nd-choice.json](./288468-way-nd-choice.json) |
 | Way of an Idea 2 | 416138 | [416138-way-of-an-idea-2.json](./416138-way-of-an-idea-2.json) |
+| Way of Boy | 125099 | [125099-way-of-boy.json](./125099-way-of-boy.json) |
 | Way of Boy: Another Way | 132672 | [132672-way-of-boy-another-way.json](./132672-way-of-boy-another-way.json) |
 | Way of Gold and Steel | 35179 | [35179-way-of-gold-and-steel.json](./35179-way-of-gold-and-steel.json) |
 | Way of Hero | 29722 | [29722-way-of-hero.json](./29722-way-of-hero.json) |
@@ -4493,6 +4494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardas | 117648 | [117648-wizardas.json](./117648-wizardas.json) |
 | WizardCraft | 33264 | [33264-wizardcraft.json](./33264-wizardcraft.json) |
 | WizardCraft Colonies | 120947 | [120947-wizardcraft-colonies.json](./120947-wizardcraft-colonies.json) |
+| Wizardians: In Defence of Magic | 126896 | [126896-wizardians-in-defence-of-magic.json](./126896-wizardians-in-defence-of-magic.json) |
 | Wizardry 6+7 | 127994 | [127994-wizardry-6-7.json](./127994-wizardry-6-7.json) |
 | Wizardry Chronicle | 172724 | [172724-wizardry-chronicle.json](./172724-wizardry-chronicle.json) |
 | Wizardry Dimguil | 139301 | [139301-wizardry-dimguil.json](./139301-wizardry-dimguil.json) |
@@ -5640,6 +5642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War 1: Ruined - Part 2 | 265118 | [265118-world-war-1-ruined-part-2.json](./265118-world-war-1-ruined-part-2.json) |
 | World War 1945 | 109534 | [109534-world-war-1945.json](./109534-world-war-1945.json) |
 | World War 2 | 206615 | [206615-world-war-2.json](./206615-world-war-2.json) |
+| World War 2 Winter Gun Range VR Simulator | 125096 | [125096-world-war-2-winter-gun-range-vr-simulator.json](./125096-world-war-2-winter-gun-range-vr-simulator.json) |
 | World War 2: Operation Husky | 154592 | [154592-world-war-2-operation-husky.json](./154592-world-war-2-operation-husky.json) |
 | World War 2: Time of Wrath | 17505 | [17505-world-war-2-time-of-wrath.json](./17505-world-war-2-time-of-wrath.json) |
 | World War 3 | 102868 | [102868-world-war-3.json](./102868-world-war-3.json) |
