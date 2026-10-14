@@ -8778,6 +8778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Cases of Sherlock Holmes | 10978 | [10978-the-lost-cases-of-sherlock-holmes.json](./10978-the-lost-cases-of-sherlock-holmes.json) |
 | The Lost Cases of Sherlock Holmes 2 | 10979 | [10979-the-lost-cases-of-sherlock-holmes-2.json](./10979-the-lost-cases-of-sherlock-holmes-2.json) |
 | The Lost Castle In Darkmist | 40369 | [40369-the-lost-castle-in-darkmist.json](./40369-the-lost-castle-in-darkmist.json) |
+| The Lost Cave of the Ozarks | 125120 | [125120-the-lost-cave-of-the-ozarks.json](./125120-the-lost-cave-of-the-ozarks.json) |
 | The Lost Caves | 179169 | [179169-the-lost-caves.json](./179169-the-lost-caves.json) |
 | The Lost Cemetery | 268995 | [268995-the-lost-cemetery.json](./268995-the-lost-cemetery.json) |
 | The Lost Child | 36535 | [36535-the-lost-child.json](./36535-the-lost-child.json) |
@@ -9783,6 +9784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Path of Calydra | 138527 | [138527-the-path-of-calydra.json](./138527-the-path-of-calydra.json) |
 | The Path of Hercules | 356230 | [356230-the-path-of-hercules.json](./356230-the-path-of-hercules.json) |
 | The Path of Ren | 149379 | [149379-the-path-of-ren.json](./149379-the-path-of-ren.json) |
+| The Path of the Pumpkin | 125141 | [125141-the-path-of-the-pumpkin.json](./125141-the-path-of-the-pumpkin.json) |
 | The Path of Veins | 319270 | [319270-the-path-of-veins.json](./319270-the-path-of-veins.json) |
 | The Path to Die | 115638 | [115638-the-path-to-die.json](./115638-the-path-to-die.json) |
 | The Pathless | 113118 | [113118-the-pathless.json](./113118-the-pathless.json) |
@@ -10262,6 +10264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Wood | 397223 | [397223-the-red-wood.json](./397223-the-red-wood.json) |
 | The redemption of pancakes | 106555 | [106555-the-redemption-of-pancakes.json](./106555-the-redemption-of-pancakes.json) |
 | The Redundant | 318979 | [318979-the-redundant.json](./318979-the-redundant.json) |
+| The Refuge | 125097 | [125097-the-refuge.json](./125097-the-refuge.json) |
 | The Reggae Operation | 188119 | [188119-the-reggae-operation.json](./188119-the-reggae-operation.json) |
 | The Regreening | 350554 | [350554-the-regreening.json](./350554-the-regreening.json) |
 | The Regular: Same Dog Every Time | 411750 | [411750-the-regular-same-dog-every-time.json](./411750-the-regular-same-dog-every-time.json) |
@@ -20120,6 +20123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Games for Dummies | 84458 | [84458-travel-games-for-dummies.json](./84458-travel-games-for-dummies.json) |
 | Travel Junction | 335859 | [335859-travel-junction.json](./335859-travel-junction.json) |
 | Travel Knight Adventure | 272904 | [272904-travel-knight-adventure.json](./272904-travel-knight-adventure.json) |
+| Travel Mosaics 10: Spooky Halloween | 125119 | [125119-travel-mosaics-10-spooky-halloween.json](./125119-travel-mosaics-10-spooky-halloween.json) |
 | Travel Mosaics 11: Christmas Sleigh Ride | 284459 | [284459-travel-mosaics-11-christmas-sleigh-ride.json](./284459-travel-mosaics-11-christmas-sleigh-ride.json) |
 | Travel Mosaics 12: Majestic London | 284460 | [284460-travel-mosaics-12-majestic-london.json](./284460-travel-mosaics-12-majestic-london.json) |
 | Travel Mosaics 13: Spectacular Amsterdam | 284461 | [284461-travel-mosaics-13-spectacular-amsterdam.json](./284461-travel-mosaics-13-spectacular-amsterdam.json) |
@@ -20895,6 +20899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trojan | 39993 | [39993-trojan.json](./39993-trojan.json) |
 | Trolddom | 321632 | [321632-trolddom.json](./321632-trolddom.json) |
 | Troll | 375849 | [375849-troll.json](./375849-troll.json) |
+| Troll Control | 125146 | [125146-troll-control.json](./125146-troll-control.json) |
 | Troll Face Clicker Quest | 105860 | [105860-troll-face-clicker-quest.json](./105860-troll-face-clicker-quest.json) |
 | Troll Face Quest Horror | 351627 | [351627-troll-face-quest-horror.json](./351627-troll-face-quest-horror.json) |
 | Troll Face Quest Video Memes | 90890 | [90890-troll-face-quest-video-memes.json](./90890-troll-face-quest-video-memes.json) |
