@@ -7392,6 +7392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sin Zero | 361054 | [361054-sin-zero.json](./361054-sin-zero.json) |
 | Sin-Cay | 162433 | [162433-sin-cay.json](./162433-sin-cay.json) |
 | Sin; Vengeance | 115135 | [115135-sin-vengeance.json](./115135-sin-vengeance.json) |
+| Sin: Reloaded | 131927 | [131927-sin-reloaded.json](./131927-sin-reloaded.json) |
 | SiN: Wages of Sin | 8717 | [8717-sin-wages-of-sin.json](./8717-sin-wages-of-sin.json) |
 | Sin.exe | 345483 | [345483-sin-exe.json](./345483-sin-exe.json) |
 | Sina | 185008 | [185008-sina.json](./185008-sina.json) |
@@ -8686,6 +8687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepy Girl | 343801 | [343801-sleepy-girl.json](./343801-sleepy-girl.json) |
 | Sleepy Head | 91373 | [91373-sleepy-head.json](./91373-sleepy-head.json) |
 | Sleepy Heroes | 357366 | [357366-sleepy-heroes.json](./357366-sleepy-heroes.json) |
+| Sleepy in Saigon | 131929 | [131929-sleepy-in-saigon.json](./131929-sleepy-in-saigon.json) |
 | Sleepy Meadow | 350053 | [350053-sleepy-meadow.json](./350053-sleepy-meadow.json) |
 | Sleepy Squares | 243726 | [243726-sleepy-squares.json](./243726-sleepy-squares.json) |
 | Sleepy Sunday | 152834 | [152834-sleepy-sunday.json](./152834-sleepy-sunday.json) |
@@ -15407,6 +15409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | sQuiz | 137967 | [137967-squiz.json](./137967-squiz.json) |
 | Squonker 3 | 260663 | [260663-squonker-3.json](./260663-squonker-3.json) |
 | Sqwark! A Nutty Adventure | 169478 | [169478-sqwark-a-nutty-adventure.json](./169478-sqwark-a-nutty-adventure.json) |
+| Sram | 131904 | [131904-sram.json](./131904-sram.json) |
 | SRB2 Heroes | 326954 | [326954-srb2-heroes.json](./326954-srb2-heroes.json) |
 | SRG Mixtape Volume #1 | 209948 | [209948-srg-mixtape-volume-1.json](./209948-srg-mixtape-volume-1.json) |
 | SRG Mixtape Volume #2 | 194977 | [194977-srg-mixtape-volume-2.json](./194977-srg-mixtape-volume-2.json) |
@@ -20922,6 +20925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros: Ztar Turmoil | 320226 | [320226-super-mario-bros-ztar-turmoil.json](./320226-super-mario-bros-ztar-turmoil.json) |
 | Super Mario Bros. | 206934 | [206934-super-mario-bros.json](./206934-super-mario-bros.json) |
 | Super Mario Bros. | 222095 | [222095-super-mario-bros.json](./222095-super-mario-bros.json) |
+| Super Mario Bros. & Friends: When I Grow Up | 131951 | [131951-super-mario-bros-and-friends-when-i-grow-up.json](./131951-super-mario-bros-and-friends-when-i-grow-up.json) |
 | Super Mario Bros. & The Midas Machine | 135098 | [135098-super-mario-bros-and-the-midas-machine.json](./135098-super-mario-bros-and-the-midas-machine.json) |
 | Super Mario Bros. + | 307664 | [307664-super-mario-bros.json](./307664-super-mario-bros.json) |
 | Super Mario Bros. + | 316417 | [316417-super-mario-bros.json](./316417-super-mario-bros.json) |
@@ -21151,6 +21155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World: Bowser's Return | 222278 | [222278-super-mario-world-bowsers-return.json](./222278-super-mario-world-bowsers-return.json) |
 | Super Mario World: Mario to Yoshi no Bouken Land | 230281 | [230281-super-mario-world-mario-to-yoshi-no-bouken-land.json](./230281-super-mario-world-mario-to-yoshi-no-bouken-land.json) |
 | Super Mario World: Neeberz's Hack | 268374 | [268374-super-mario-world-neeberzs-hack.json](./268374-super-mario-world-neeberzs-hack.json) |
+| Super Mario World: Piranha Island | 131895 | [131895-super-mario-world-piranha-island.json](./131895-super-mario-world-piranha-island.json) |
 | Super Mario World: Return to Dinosaur Land | 42525 | [42525-super-mario-world-return-to-dinosaur-land.json](./42525-super-mario-world-return-to-dinosaur-land.json) |
 | Super Mario World: Super Mario Advance 2 | 16617 | [16617-super-mario-world-super-mario-advance-2.json](./16617-super-mario-world-super-mario-advance-2.json) |
 | Super Mario World: The Great Sixth | 268389 | [268389-super-mario-world-the-great-sixth.json](./268389-super-mario-world-the-great-sixth.json) |
@@ -22080,6 +22085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperCTF | 151123 | [151123-superctf.json](./151123-superctf.json) |
 | Superdeflex | 256309 | [256309-superdeflex.json](./256309-superdeflex.json) |
 | Superdeluxe | 297000 | [297000-superdeluxe.json](./297000-superdeluxe.json) |
+| Superdetektiverne | 131918 | [131918-superdetektiverne.json](./131918-superdetektiverne.json) |
 | Superdimensional | 181381 | [181381-superdimensional.json](./181381-superdimensional.json) |
 | SuperDog | 409683 | [409683-superdog.json](./409683-superdog.json) |
 | SuperDoom | 198358 | [198358-superdoom.json](./198358-superdoom.json) |
