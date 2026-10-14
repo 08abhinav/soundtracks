@@ -5212,6 +5212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explomania | 81033 | [81033-explomania.json](./81033-explomania.json) |
 | Exploration | 94317 | [94317-exploration.json](./94317-exploration.json) |
 | Exploration Adventures | 295689 | [295689-exploration-adventures.json](./295689-exploration-adventures.json) |
+| Exploration Pro | 103971 | [103971-exploration-pro.json](./103971-exploration-pro.json) |
 | Exploration Space | 96846 | [96846-exploration-space.json](./96846-exploration-space.json) |
 | Explore | 259720 | [259720-explore.json](./259720-explore.json) |
 | Explore Inc | 179030 | [179030-explore-inc.json](./179030-explore-inc.json) |
