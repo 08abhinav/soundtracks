@@ -348,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Bond Jr. | 217971 | [217971-james-bond-jr.json](./217971-james-bond-jr.json) |
 | James Bond Jr. | 217972 | [217972-james-bond-jr.json](./217972-james-bond-jr.json) |
 | James Bonk | 110285 | [110285-james-bonk.json](./110285-james-bonk.json) |
+| James Cameron's Avatar | 80372 | [80372-james-camerons-avatar.json](./80372-james-camerons-avatar.json) |
 | James Cameron's Avatar: The Game | 200999 | [200999-james-camerons-avatar-the-game.json](./200999-james-camerons-avatar-the-game.json) |
 | James Cameron's Avatar: The Game | 4211 | [4211-james-camerons-avatar-the-game.json](./4211-james-camerons-avatar-the-game.json) |
 | James Cameron's Dark Angel | 5868 | [5868-james-camerons-dark-angel.json](./5868-james-camerons-dark-angel.json) |
@@ -1616,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe is Not Lost: Jigsaw Landscapes | 284900 | [284900-joe-is-not-lost-jigsaw-landscapes.json](./284900-joe-is-not-lost-jigsaw-landscapes.json) |
 | Joe Kowalski Chronicles: Murder in a flat | 150742 | [150742-joe-kowalski-chronicles-murder-in-a-flat.json](./150742-joe-kowalski-chronicles-murder-in-a-flat.json) |
 | Joe Montana Football | 149968 | [149968-joe-montana-football.json](./149968-joe-montana-football.json) |
+| Joe Montana Football | 80420 | [80420-joe-montana-football.json](./80420-joe-montana-football.json) |
 | Joe Montana II: Sports Talk Football | 19491 | [19491-joe-montana-ii-sports-talk-football.json](./19491-joe-montana-ii-sports-talk-football.json) |
 | Joe vs. The Joneses | 175170 | [175170-joe-vs-the-joneses.json](./175170-joe-vs-the-joneses.json) |
 | Joe vs. The Wall | 264308 | [264308-joe-vs-the-wall.json](./264308-joe-vs-the-wall.json) |
