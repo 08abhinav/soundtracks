@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T04:36:02.037Z",
-  "total_soundtracks": 1612,
+  "generated_at": "2026-10-14T04:36:17.654Z",
+  "total_soundtracks": 1613,
   "games": [
     {
       "igdb_id": 7522,
@@ -15349,6 +15349,20 @@
           "spotify_url": "https://music.apple.com/us/album/terminator-survivors-the-aftermath-trailer-soundtrack/1738445443?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1738445443"
+        }
+      ]
+    },
+    {
+      "igdb_id": 152424,
+      "game_name": "Terra Nil",
+      "game_url": "https://ostdb.net/games/terra-nil",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731ac39cfaca05cfbdad8ad575",
+      "albums": [
+        {
+          "album_name": "Terra Nil (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/741yoLZfVN5QgvRuDmh5MH",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
