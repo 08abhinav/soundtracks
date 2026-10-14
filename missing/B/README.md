@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backpack Monsters: Survivors | 295115 | [295115-backpack-monsters-survivors.json](./295115-backpack-monsters-survivors.json) |
 | Backpack Quest: Battles And Adventures | 295116 | [295116-backpack-quest-battles-and-adventures.json](./295116-backpack-quest-battles-and-adventures.json) |
 | Backpack Raiders | 383055 | [383055-backpack-raiders.json](./383055-backpack-raiders.json) |
+| Backpack Twins | 117432 | [117432-backpack-twins.json](./117432-backpack-twins.json) |
 | Backpacker | 28352 | [28352-backpacker.json](./28352-backpacker.json) |
 | Backpacker 3: Mediterraneo | 129782 | [129782-backpacker-3-mediterraneo.json](./129782-backpacker-3-mediterraneo.json) |
 | Backpackers Guide to the Universe | 309344 | [309344-backpackers-guide-to-the-universe.json](./309344-backpackers-guide-to-the-universe.json) |
@@ -11918,6 +11919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Busy Bong | 246320 | [246320-busy-bong.json](./246320-busy-bong.json) |
 | Busy Busy Beaver | 134399 | [134399-busy-busy-beaver.json](./134399-busy-busy-beaver.json) |
 | Busy Scissors | 50594 | [50594-busy-scissors.json](./50594-busy-scissors.json) |
+| Busy Spider | 117450 | [117450-busy-spider.json](./117450-busy-spider.json) |
 | Busy Sweets Factory | 44499 | [44499-busy-sweets-factory.json](./44499-busy-sweets-factory.json) |
 | Busy With Holes | 365561 | [365561-busy-with-holes.json](./365561-busy-with-holes.json) |
 | But That Was [Yesterday] | 203353 | [203353-but-that-was-yesterday.json](./203353-but-that-was-yesterday.json) |
@@ -11949,6 +11951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterflies: Episode 1 - Rudies | 134666 | [134666-butterflies-episode-1-rudies.json](./134666-butterflies-episode-1-rudies.json) |
 | ButterFlight | 98934 | [98934-butterflight.json](./98934-butterflight.json) |
 | Butterflowers | 186180 | [186180-butterflowers.json](./186180-butterflowers.json) |
+| Butterfly 2 | 117550 | [117550-butterfly-2.json](./117550-butterfly-2.json) |
 | Butterfly 3: Funny Twins | 153340 | [153340-butterfly-3-funny-twins.json](./153340-butterfly-3-funny-twins.json) |
 | Butterfly Æffect: Papillons à Quatre Mains | 381148 | [381148-butterfly-ffect-papillons-a-quatre-mains.json](./381148-butterfly-ffect-papillons-a-quatre-mains.json) |
 | Butterfly Bundle | 218489 | [218489-butterfly-bundle.json](./218489-butterfly-bundle.json) |
