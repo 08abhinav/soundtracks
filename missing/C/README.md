@@ -1893,6 +1893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cart Racing | 93163 | [93163-cart-racing.json](./93163-cart-racing.json) |
 | Cart To The End | 306598 | [306598-cart-to-the-end.json](./306598-cart-to-the-end.json) |
 | Cart World Series | 43834 | [43834-cart-world-series.json](./43834-cart-world-series.json) |
+| Cartacombs | 114858 | [114858-cartacombs.json](./114858-cartacombs.json) |
 | Cartagra: First Press Limited Edition | 388046 | [388046-cartagra-first-press-limited-edition.json](./388046-cartagra-first-press-limited-edition.json) |
 | Cartagra: Tsuki Kurui no Yamai - Rebirth FHD Size Edition | 150033 | [150033-cartagra-tsuki-kurui-no-yamai-rebirth-fhd-size-edition.json](./150033-cartagra-tsuki-kurui-no-yamai-rebirth-fhd-size-edition.json) |
 | Cartapli: Fold Quest | 386834 | [386834-cartapli-fold-quest.json](./386834-cartapli-fold-quest.json) |
@@ -9063,6 +9064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Consummate:Missing World | 51974 | [51974-consummate-missing-world.json](./51974-consummate-missing-world.json) |
 | Consumption | 179537 | [179537-consumption.json](./179537-consumption.json) |
 | Contact | 357745 | [357745-contact.json](./357745-contact.json) |
+| Contact : Last Defence | 114868 | [114868-contact-last-defence.json](./114868-contact-last-defence.json) |
 | Contact Draw: Football | 102915 | [102915-contact-draw-football.json](./102915-contact-draw-football.json) |
 | Contact Me | 149447 | [149447-contact-me.json](./149447-contact-me.json) |
 | Contact Protocol | 373878 | [373878-contact-protocol.json](./373878-contact-protocol.json) |
@@ -10920,6 +10922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Jump | 158121 | [158121-crazy-jump.json](./158121-crazy-jump.json) |
 | Crazy Justice | 56548 | [56548-crazy-justice.json](./56548-crazy-justice.json) |
 | Crazy Kickers | 57615 | [57615-crazy-kickers.json](./57615-crazy-kickers.json) |
+| Crazy Kings | 114734 | [114734-crazy-kings.json](./114734-crazy-kings.json) |
 | Crazy Kitchen | 265675 | [265675-crazy-kitchen.json](./265675-crazy-kitchen.json) |
 | Crazy Kong | 130753 | [130753-crazy-kong.json](./130753-crazy-kong.json) |
 | Crazy Kong | 13833 | [13833-crazy-kong.json](./13833-crazy-kong.json) |
