@@ -487,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mallard's Song | 282087 | [282087-a-mallards-song.json](./282087-a-mallards-song.json) |
 | A Man with a Monocle | 25005 | [25005-a-man-with-a-monocle.json](./25005-a-man-with-a-monocle.json) |
 | A Mansão | 342221 | [342221-a-mansao.json](./342221-a-mansao.json) |
+| A Mars Journey: Redturtle | 109394 | [109394-a-mars-journey-redturtle.json](./109394-a-mars-journey-redturtle.json) |
 | A Mask's Tale | 306997 | [306997-a-masks-tale.json](./306997-a-masks-tale.json) |
 | A Mass of Dead | 16924 | [16924-a-mass-of-dead.json](./16924-a-mass-of-dead.json) |
 | A Matter of Caos: Episode 2 | 101990 | [101990-a-matter-of-caos-episode-2.json](./101990-a-matter-of-caos-episode-2.json) |
@@ -7305,6 +7306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apartment 12 | 415477 | [415477-apartment-12.json](./415477-apartment-12.json) |
 | Apartment 213 | 97709 | [97709-apartment-213.json](./97709-apartment-213.json) |
 | Apartment 22 | 355540 | [355540-apartment-22.json](./355540-apartment-22.json) |
+| Apartment 327 | 109396 | [109396-apartment-327.json](./109396-apartment-327.json) |
 | Apartment Dream | 332462 | [332462-apartment-dream.json](./332462-apartment-dream.json) |
 | Apartment Life to Cuck and Impregnate Neighboring Busty Married Women | 98450 | [98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json](./98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json) |
 | Apartment No 129 | 294293 | [294293-apartment-no-129.json](./294293-apartment-no-129.json) |
@@ -9896,6 +9898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Odyssey - Deluxe Edition | 24811 | [24811-assassins-creed-odyssey-deluxe-edition.json](./24811-assassins-creed-odyssey-deluxe-edition.json) |
 | Assassin's Creed: Odyssey - Gold Edition | 23648 | [23648-assassins-creed-odyssey-gold-edition.json](./23648-assassins-creed-odyssey-gold-edition.json) |
 | Assassin's Creed: Odyssey - Gold Steelbook Edition | 18412 | [18412-assassins-creed-odyssey-gold-steelbook-edition.json](./18412-assassins-creed-odyssey-gold-steelbook-edition.json) |
+| Assassin's Creed: Odyssey - Medusa Edition | 109423 | [109423-assassins-creed-odyssey-medusa-edition.json](./109423-assassins-creed-odyssey-medusa-edition.json) |
 | Assassin's Creed: Odyssey - Spartan Edition | 125126 | [125126-assassins-creed-odyssey-spartan-edition.json](./125126-assassins-creed-odyssey-spartan-edition.json) |
 | Assassin's Creed: Origins - God's Edition | 39045 | [39045-assassins-creed-origins-gods-edition.json](./39045-assassins-creed-origins-gods-edition.json) |
 | Assassin's Creed: Project Legacy | 64737 | [64737-assassins-creed-project-legacy.json](./64737-assassins-creed-project-legacy.json) |
@@ -11494,6 +11497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avernum 2: Crystal Souls | 8802 | [8802-avernum-2-crystal-souls.json](./8802-avernum-2-crystal-souls.json) |
 | Avernum 3 | 57680 | [57680-avernum-3.json](./57680-avernum-3.json) |
 | Avernum 5 | 16338 | [16338-avernum-5.json](./16338-avernum-5.json) |
+| Avernus | 109377 | [109377-avernus.json](./109377-avernus.json) |
 | Aversion | 273360 | [273360-aversion.json](./273360-aversion.json) |
 | Avert Fate | 63245 | [63245-avert-fate.json](./63245-avert-fate.json) |
 | Avert Your Eyes | 263004 | [263004-avert-your-eyes.json](./263004-avert-your-eyes.json) |
