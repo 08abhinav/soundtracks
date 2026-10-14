@@ -3328,6 +3328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear Heart Defense | 299395 | [299395-bear-heart-defense.json](./299395-bear-heart-defense.json) |
 | Bear Horror | 408726 | [408726-bear-horror.json](./408726-bear-horror.json) |
 | Bear Hunting 4: Summer | 100058 | [100058-bear-hunting-4-summer.json](./100058-bear-hunting-4-summer.json) |
+| Bear in Super Action Adventure 2 | 95984 | [95984-bear-in-super-action-adventure-2.json](./95984-bear-in-super-action-adventure-2.json) |
 | Bear in the Snow | 362882 | [362882-bear-in-the-snow.json](./362882-bear-in-the-snow.json) |
 | Bear It | 277762 | [277762-bear-it.json](./277762-bear-it.json) |
 | Bear Miner | 315236 | [315236-bear-miner.json](./315236-bear-miner.json) |
@@ -9260,6 +9261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowl 'Em Down | 240106 | [240106-bowl-em-down.json](./240106-bowl-em-down.json) |
 | Bowl-O-Rama | 40271 | [40271-bowl-o-rama.json](./40271-bowl-o-rama.json) |
 | Bowled | 403557 | [403557-bowled.json](./403557-bowled.json) |
+| Bowler | 95920 | [95920-bowler.json](./95920-bowler.json) |
 | Bowlers | 384080 | [384080-bowlers.json](./384080-bowlers.json) |
 | Bowling | 131535 | [131535-bowling.json](./131535-bowling.json) |
 | Bowling | 246283 | [246283-bowling.json](./246283-bowling.json) |
@@ -11831,6 +11833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burr Puzzle | 357978 | [357978-burr-puzzle.json](./357978-burr-puzzle.json) |
 | Burrilka | 342710 | [342710-burrilka.json](./342710-burrilka.json) |
 | Burrito Bison | 284172 | [284172-burrito-bison.json](./284172-burrito-bison.json) |
+| Burrito Bison Revenge | 95938 | [95938-burrito-bison-revenge.json](./95938-burrito-bison-revenge.json) |
 | Burrito Bison: Launcha Libre | 80360 | [80360-burrito-bison-launcha-libre.json](./80360-burrito-bison-launcha-libre.json) |
 | Burrito Galaxy 65 | 61875 | [61875-burrito-galaxy-65.json](./61875-burrito-galaxy-65.json) |
 | Burrow | 158717 | [158717-burrow.json](./158717-burrow.json) |
