@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Godspeed | 202736 | [202736-ultimate-godspeed.json](./202736-ultimate-godspeed.json) |
 | Ultimate Goomboss Challenge | 300254 | [300254-ultimate-goomboss-challenge.json](./300254-ultimate-goomboss-challenge.json) |
 | Ultimate Guess Game | 408797 | [408797-ultimate-guess-game.json](./408797-ultimate-guess-game.json) |
+| Ultimate Hangman | 86732 | [86732-ultimate-hangman.json](./86732-ultimate-hangman.json) |
 | Ultimate Hangman HD | 68949 | [68949-ultimate-hangman-hd.json](./68949-ultimate-hangman-hd.json) |
 | Ultimate Hardbass Defence | 110775 | [110775-ultimate-hardbass-defence.json](./110775-ultimate-hardbass-defence.json) |
 | Ultimate Hero | 333530 | [333530-ultimate-hero.json](./333530-ultimate-hero.json) |
