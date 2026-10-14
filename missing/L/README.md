@@ -4629,6 +4629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Log Truck | 101492 | [101492-log-truck.json](./101492-log-truck.json) |
 | Log.in | 133949 | [133949-log-in.json](./133949-log-in.json) |
 | Log.in | 381170 | [381170-log-in.json](./381170-log-in.json) |
+| Log(Hic!) | 92941 | [92941-log-hic.json](./92941-log-hic.json) |
 | Logam vs Ksi | 108344 | [108344-logam-vs-ksi.json](./108344-logam-vs-ksi.json) |
 | Logi Box | 339630 | [339630-logi-box.json](./339630-logi-box.json) |
 | Logi. | 105719 | [105719-logi.json](./105719-logi.json) |
