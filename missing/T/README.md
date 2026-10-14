@@ -710,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takorita Meets Fries | 158181 | [158181-takorita-meets-fries.json](./158181-takorita-meets-fries.json) |
 | Takoyaki Party Survival | 213972 | [213972-takoyaki-party-survival.json](./213972-takoyaki-party-survival.json) |
 | Takt of Magic | 91755 | [91755-takt-of-magic.json](./91755-takt-of-magic.json) |
+| Takuhai Maid Shiiko & Nono | 77901 | [77901-takuhai-maid-shiiko-and-nono.json](./77901-takuhai-maid-shiiko-and-nono.json) |
 | Takuhai Maid Shiiko-san | 77944 | [77944-takuhai-maid-shiiko-san.json](./77944-takuhai-maid-shiiko-san.json) |
 | Takume | 136420 | [136420-takume.json](./136420-takume.json) |
 | Takumi 3 | 220193 | [220193-takumi-3.json](./220193-takumi-3.json) |
@@ -7400,6 +7401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Gravure for You! Vol. 4 | 79978 | [79978-the-idolmaster-gravure-for-you-vol-4.json](./79978-the-idolmaster-gravure-for-you-vol-4.json) |
 | The Idolmaster: Gravure for You! Vol. 6 | 65224 | [65224-the-idolmaster-gravure-for-you-vol-6.json](./65224-the-idolmaster-gravure-for-you-vol-6.json) |
 | The Idolmaster: Gravure for You! Vol. 8 | 79352 | [79352-the-idolmaster-gravure-for-you-vol-8.json](./79352-the-idolmaster-gravure-for-you-vol-8.json) |
+| The Idolmaster: Live in Slot! | 77858 | [77858-the-idolmaster-live-in-slot.json](./77858-the-idolmaster-live-in-slot.json) |
 | The Idolmaster: Million Live! Theater Days | 44154 | [44154-the-idolmaster-million-live-theater-days.json](./44154-the-idolmaster-million-live-theater-days.json) |
 | The Idolmaster: One For All | 7465 | [7465-the-idolmaster-one-for-all.json](./7465-the-idolmaster-one-for-all.json) |
 | The Idolmaster: Platinum Stars | 22507 | [22507-the-idolmaster-platinum-stars.json](./22507-the-idolmaster-platinum-stars.json) |
@@ -11605,6 +11607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Suitcase | 196559 | [196559-the-suitcase.json](./196559-the-suitcase.json) |
 | The Suite Life of Zack & Cody: Maddie's Snack Encounter | 281326 | [281326-the-suite-life-of-zack-and-cody-maddies-snack-encounter.json](./281326-the-suite-life-of-zack-and-cody-maddies-snack-encounter.json) |
 | The Suite Life of Zack & Cody: Pizza Party Pickup! | 281323 | [281323-the-suite-life-of-zack-and-cody-pizza-party-pickup.json](./281323-the-suite-life-of-zack-and-cody-pizza-party-pickup.json) |
+| The Suite Life of Zack & Cody: Tipton Caper | 77883 | [77883-the-suite-life-of-zack-and-cody-tipton-caper.json](./77883-the-suite-life-of-zack-and-cody-tipton-caper.json) |
 | The Suite Life of Zack & Cody: Tipton Trouble | 72115 | [72115-the-suite-life-of-zack-and-cody-tipton-trouble.json](./72115-the-suite-life-of-zack-and-cody-tipton-trouble.json) |
 | The Suitor | 301065 | [301065-the-suitor.json](./301065-the-suitor.json) |
 | The Suits Have Gone Mad! | 215722 | [215722-the-suits-have-gone-mad.json](./215722-the-suits-have-gone-mad.json) |
@@ -17603,6 +17606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Football Management | 94320 | [94320-total-football-management.json](./94320-total-football-management.json) |
 | Total Football Online | 406683 | [406683-total-football-online.json](./406683-total-football-online.json) |
 | Total Fucking Psychopath | 346639 | [346639-total-fucking-psychopath.json](./346639-total-fucking-psychopath.json) |
+| Total Funpak | 77890 | [77890-total-funpak.json](./77890-total-funpak.json) |
 | Total Immersion Racing | 6212 | [6212-total-immersion-racing.json](./6212-total-immersion-racing.json) |
 | Total Incremental Battle | 390134 | [390134-total-incremental-battle.json](./390134-total-incremental-battle.json) |
 | Total Jigsaw | 99745 | [99745-total-jigsaw.json](./99745-total-jigsaw.json) |
@@ -18055,6 +18059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Rakuryuusei: The Shattered Sky | 280870 | [280870-touhou-rakuryuusei-the-shattered-sky.json](./280870-touhou-rakuryuusei-the-shattered-sky.json) |
 | Touhou Rei'iden: The Highly Responsive to Prayers | 45967 | [45967-touhou-reiiden-the-highly-responsive-to-prayers.json](./45967-touhou-reiiden-the-highly-responsive-to-prayers.json) |
 | Touhou Rekkaden: Rift in a Friendship Game | 204669 | [204669-touhou-rekkaden-rift-in-a-friendship-game.json](./204669-touhou-rekkaden-rift-in-a-friendship-game.json) |
+| Touhou Rhythm Carnival! Kurenai | 77860 | [77860-touhou-rhythm-carnival-kurenai.json](./77860-touhou-rhythm-carnival-kurenai.json) |
 | Touhou Rinrinki: Crafts of the Lucky Beast | 356040 | [356040-touhou-rinrinki-crafts-of-the-lucky-beast.json](./356040-touhou-rinrinki-crafts-of-the-lucky-beast.json) |
 | Touhou Risouen: Terminus of Unreal Darkside | 360202 | [360202-touhou-risouen-terminus-of-unreal-darkside.json](./360202-touhou-risouen-terminus-of-unreal-darkside.json) |
 | Touhou Rock Maiden 2: Houraisan Kaguya no Nazo | 202934 | [202934-touhou-rock-maiden-2-houraisan-kaguya-no-nazo.json](./202934-touhou-rock-maiden-2-houraisan-kaguya-no-nazo.json) |
@@ -20789,6 +20794,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triangle Dash! | 252710 | [252710-triangle-dash.json](./252710-triangle-dash.json) |
 | Triangle Defense | 371970 | [371970-triangle-defense.json](./371970-triangle-defense.json) |
 | Triangle Heart | 77678 | [77678-triangle-heart.json](./77678-triangle-heart.json) |
+| Triangle Heart 3: Lyrical Omochabako | 77835 | [77835-triangle-heart-3-lyrical-omochabako.json](./77835-triangle-heart-3-lyrical-omochabako.json) |
+| Triangle Heart Gaiden | 77836 | [77836-triangle-heart-gaiden.json](./77836-triangle-heart-gaiden.json) |
 | Triangle Legacy Revolution | 112317 | [112317-triangle-legacy-revolution.json](./112317-triangle-legacy-revolution.json) |
 | Triangle Mania | 118082 | [118082-triangle-mania.json](./118082-triangle-mania.json) |
 | Triangle Project Otome Visual Novels | 116382 | [116382-triangle-project-otome-visual-novels.json](./116382-triangle-project-otome-visual-novels.json) |
@@ -21668,6 +21675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsugunohi: Supernatural Supermarket | 234297 | [234297-tsugunohi-supernatural-supermarket.json](./234297-tsugunohi-supernatural-supermarket.json) |
 | Tsugunohi: Supernatural Supermarket | 319850 | [319850-tsugunohi-supernatural-supermarket.json](./319850-tsugunohi-supernatural-supermarket.json) |
 | Tsugunohi: The Chamber of Phantom Name | 340941 | [340941-tsugunohi-the-chamber-of-phantom-name.json](./340941-tsugunohi-the-chamber-of-phantom-name.json) |
+| Tsukasa no Satisfaction | 77851 | [77851-tsukasa-no-satisfaction.json](./77851-tsukasa-no-satisfaction.json) |
 | Tsuki Adventure | 182457 | [182457-tsuki-adventure.json](./182457-tsuki-adventure.json) |
 | Tsuki ha Higashi ni Hi ha Nishi ni: Operation Sanctuary | 165566 | [165566-tsuki-ha-higashi-ni-hi-ha-nishi-ni-operation-sanctuary.json](./165566-tsuki-ha-higashi-ni-hi-ha-nishi-ni-operation-sanctuary.json) |
 | Tsuki no Hikari | 322241 | [322241-tsuki-no-hikari.json](./322241-tsuki-no-hikari.json) |
