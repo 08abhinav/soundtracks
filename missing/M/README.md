@@ -1194,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnet Crusher | 190903 | [190903-magnet-crusher.json](./190903-magnet-crusher.json) |
 | Magnet Effect | 214010 | [214010-magnet-effect.json](./214010-magnet-effect.json) |
 | Magnet Jack | 235665 | [235665-magnet-jack.json](./235665-magnet-jack.json) |
+| Magnet Knights | 99520 | [99520-magnet-knights.json](./99520-magnet-knights.json) |
 | Magnet Mania 3D | 262580 | [262580-magnet-mania-3d.json](./262580-magnet-mania-3d.json) |
 | Magnet Mechs | 184819 | [184819-magnet-mechs.json](./184819-magnet-mechs.json) |
 | Magnet Miner | 354398 | [354398-magnet-miner.json](./354398-magnet-miner.json) |
@@ -4581,6 +4582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechCube: Dark Stories | 174283 | [174283-mechcube-dark-stories.json](./174283-mechcube-dark-stories.json) |
 | MechCube: Escape | 121387 | [121387-mechcube-escape.json](./121387-mechcube-escape.json) |
 | Mechenosets | 311065 | [311065-mechenosets.json](./311065-mechenosets.json) |
+| Mechinus | 99497 | [99497-mechinus.json](./99497-mechinus.json) |
 | Mechjestic | 293653 | [293653-mechjestic.json](./293653-mechjestic.json) |
 | Mecho Wars | 52567 | [52567-mecho-wars.json](./52567-mecho-wars.json) |
 | Mecho Wars: Desert Ashes | 114174 | [114174-mecho-wars-desert-ashes.json](./114174-mecho-wars-desert-ashes.json) |
