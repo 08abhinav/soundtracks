@@ -1296,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iggle Pop! | 62441 | [62441-iggle-pop.json](./62441-iggle-pop.json) |
 | Iggy & Java | 274526 | [274526-iggy-and-java.json](./274526-iggy-and-java.json) |
 | IGKnight | 238720 | [238720-igknight.json](./238720-igknight.json) |
+| IgKnight Food Fight | 113535 | [113535-igknight-food-fight.json](./113535-igknight-food-fight.json) |
 | Iglacia | 273295 | [273295-iglacia.json](./273295-iglacia.json) |
 | Ignatius | 169375 | [169375-ignatius.json](./169375-ignatius.json) |
 | Ignatius: Reunited | 235164 | [235164-ignatius-reunited.json](./235164-ignatius-reunited.json) |
@@ -4107,6 +4108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island | 346060 | [346060-island.json](./346060-island.json) |
 | Island | 58194 | [58194-island.json](./58194-island.json) |
 | Island 1979 | 119667 | [119667-island-1979.json](./119667-island-1979.json) |
+| Island 404 | 113564 | [113564-island-404.json](./113564-island-404.json) |
 | Island Adventure | 175769 | [175769-island-adventure.json](./175769-island-adventure.json) |
 | Island Assault | 195609 | [195609-island-assault.json](./195609-island-assault.json) |
 | Island Bender | 234346 | [234346-island-bender.json](./234346-island-bender.json) |
