@@ -2764,6 +2764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feudalism | 34945 | [34945-feudalism.json](./34945-feudalism.json) |
 | Feudalism II | 234915 | [234915-feudalism-ii.json](./234915-feudalism-ii.json) |
 | Feuerwache: Mission - Leben retten | 81479 | [81479-feuerwache-mission-leben-retten.json](./81479-feuerwache-mission-leben-retten.json) |
+| Feuerwehr 3D | 93448 | [93448-feuerwehr-3d.json](./93448-feuerwehr-3d.json) |
 | Fever | 256971 | [256971-fever.json](./256971-fever.json) |
 | Fever Cabin | 128439 | [128439-fever-cabin.json](./128439-fever-cabin.json) |
 | Fever Dream | 197065 | [197065-fever-dream.json](./197065-fever-dream.json) |
@@ -6144,6 +6145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football General Manager | 90206 | [90206-football-general-manager.json](./90206-football-general-manager.json) |
 | Football girl | 161366 | [161366-football-girl.json](./161366-football-girl.json) |
 | Football Girls: Dream Team | 102374 | [102374-football-girls-dream-team.json](./102374-football-girls-dream-team.json) |
+| Football Glory | 93488 | [93488-football-glory.json](./93488-football-glory.json) |
 | Football Granny | 107160 | [107160-football-granny.json](./107160-football-granny.json) |
 | Football Hero | 262060 | [262060-football-hero.json](./262060-football-hero.json) |
 | Football International | 49079 | [49079-football-international.json](./49079-football-international.json) |
@@ -8985,6 +8987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funky Lab Rat | 52227 | [52227-funky-lab-rat.json](./52227-funky-lab-rat.json) |
 | Funky Maker | 336599 | [336599-funky-maker.json](./336599-funky-maker.json) |
 | Funky Monkey: Time to Slack Off! | 373671 | [373671-funky-monkey-time-to-slack-off.json](./373671-funky-monkey-time-to-slack-off.json) |
+| Funky Mouse | 93482 | [93482-funky-mouse.json](./93482-funky-mouse.json) |
 | Funky Physics | 85162 | [85162-funky-physics.json](./85162-funky-physics.json) |
 | Funky Punch | 64687 | [64687-funky-punch.json](./64687-funky-punch.json) |
 | Funky Punch XL | 70627 | [70627-funky-punch-xl.json](./70627-funky-punch-xl.json) |
