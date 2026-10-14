@@ -924,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 4: Far Harbor | 18031 | [18031-fallout-4-far-harbor.json](./18031-fallout-4-far-harbor.json) |
 | Fallout 4: Game of the Year Edition | 54612 | [54612-fallout-4-game-of-the-year-edition.json](./54612-fallout-4-game-of-the-year-edition.json) |
 | Fallout 4: Game of the Year Pip-Boy Edition | 72379 | [72379-fallout-4-game-of-the-year-pip-boy-edition.json](./72379-fallout-4-game-of-the-year-pip-boy-edition.json) |
+| Fallout 4: Gold Bundle | 89845 | [89845-fallout-4-gold-bundle.json](./89845-fallout-4-gold-bundle.json) |
 | Fallout 4: Season Pass | 293723 | [293723-fallout-4-season-pass.json](./293723-fallout-4-season-pass.json) |
 | Fallout 5 | 410450 | [410450-fallout-5.json](./410450-fallout-5.json) |
 | Fallout 76 Raiders & Settlers Content Bundle | 136361 | [136361-fallout-76-raiders-and-settlers-content-bundle.json](./136361-fallout-76-raiders-and-settlers-content-bundle.json) |
@@ -1181,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famous Beaches VR (Lopes Mendes Beach Brazil) | 101655 | [101655-famous-beaches-vr-lopes-mendes-beach-brazil.json](./101655-famous-beaches-vr-lopes-mendes-beach-brazil.json) |
 | Famous Courses of the World: Vol. II | 71560 | [71560-famous-courses-of-the-world-vol-ii.json](./71560-famous-courses-of-the-world-vol-ii.json) |
 | Famous Crash | 257547 | [257547-famous-crash.json](./257547-famous-crash.json) |
+| Famous People Quiz | 89797 | [89797-famous-people-quiz.json](./89797-famous-people-quiz.json) |
 | Famousity | 83813 | [83813-famousity.json](./83813-famousity.json) |
 | Famousity Game | 98398 | [98398-famousity-game.json](./98398-famousity-game.json) |
 | Famulus | 326728 | [326728-famulus.json](./326728-famulus.json) |
@@ -1257,6 +1259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic 4: Flame On | 49299 | [49299-fantastic-4-flame-on.json](./49299-fantastic-4-flame-on.json) |
 | Fantastic Annihilation | 323410 | [323410-fantastic-annihilation.json](./323410-fantastic-annihilation.json) |
 | Fantastic Baseball | 292785 | [292785-fantastic-baseball.json](./292785-fantastic-baseball.json) |
+| Fantastic Checkers | 89798 | [89798-fantastic-checkers.json](./89798-fantastic-checkers.json) |
 | Fantastic Checkers 2 | 31677 | [31677-fantastic-checkers-2.json](./31677-fantastic-checkers-2.json) |
 | Fantastic Children | 49578 | [49578-fantastic-children.json](./49578-fantastic-children.json) |
 | Fantastic Contraption | 168671 | [168671-fantastic-contraption.json](./168671-fantastic-contraption.json) |
@@ -4827,6 +4830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flag Defense | 213012 | [213012-flag-defense.json](./213012-flag-defense.json) |
 | Flag Kaihi: Dasshutsu Game | 214379 | [214379-flag-kaihi-dasshutsu-game.json](./214379-flag-kaihi-dasshutsu-game.json) |
 | Flag N Frag | 33157 | [33157-flag-n-frag.json](./33157-flag-n-frag.json) |
+| Flag Solitaire | 89855 | [89855-flag-solitaire.json](./89855-flag-solitaire.json) |
 | Flag Solitaire + Quiz - A Brain Game | 101051 | [101051-flag-solitaire-quiz-a-brain-game.json](./101051-flag-solitaire-quiz-a-brain-game.json) |
 | Flag Trivia Quiz: Four Choices! | 378803 | [378803-flag-trivia-quiz-four-choices.json](./378803-flag-trivia-quiz-four-choices.json) |
 | Flag-O-Tron | 366624 | [366624-flag-o-tron.json](./366624-flag-o-tron.json) |
