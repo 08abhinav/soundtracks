@@ -1836,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unpredictable Star | 364967 | [364967-unpredictable-star.json](./364967-unpredictable-star.json) |
 | Unpredictable Storyline Twists 2 | 128632 | [128632-unpredictable-storyline-twists-2.json](./128632-unpredictable-storyline-twists-2.json) |
 | Unprotected | 323515 | [323515-unprotected.json](./323515-unprotected.json) |
+| Unpuzzle 2 | 95924 | [95924-unpuzzle-2.json](./95924-unpuzzle-2.json) |
 | Unquiet Grey | 374183 | [374183-unquiet-grey.json](./374183-unquiet-grey.json) |
 | UnQuollified | 404959 | [404959-unquollified.json](./404959-unquollified.json) |
 | Unrailed 2: Back on Track | 278600 | [278600-unrailed-2-back-on-track.json](./278600-unrailed-2-back-on-track.json) |
