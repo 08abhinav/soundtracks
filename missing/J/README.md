@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Hiragana & Katakana Review DS | 342834 | [342834-japanese-hiragana-and-katakana-review-ds.json](./342834-japanese-hiragana-and-katakana-review-ds.json) |
 | Japanese House Exploration | 308893 | [308893-japanese-house-exploration.json](./308893-japanese-house-exploration.json) |
 | Japanese Love | 349864 | [349864-japanese-love.json](./349864-japanese-love.json) |
+| Japanese Mah-jongg | 100711 | [100711-japanese-mah-jongg.json](./100711-japanese-mah-jongg.json) |
 | Japanese Neko-sama Escape: The Local Train | 207889 | [207889-japanese-neko-sama-escape-the-local-train.json](./207889-japanese-neko-sama-escape-the-local-train.json) |
 | Japanese Nekosama Escape: Neko-sama no Amamidokoro no Dasshutsu | 222209 | [222209-japanese-nekosama-escape-neko-sama-no-amamidokoro-no-dasshutsu.json](./222209-japanese-nekosama-escape-neko-sama-no-amamidokoro-no-dasshutsu.json) |
 | Japanese Nekosama Escape: The Mountain Cottage | 200460 | [200460-japanese-nekosama-escape-the-mountain-cottage.json](./200460-japanese-nekosama-escape-the-mountain-cottage.json) |
@@ -1263,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle: Best Places | 238993 | [238993-jigsaw-puzzle-best-places.json](./238993-jigsaw-puzzle-best-places.json) |
 | Jigsaw Puzzle: Cozy Fantasy Worlds | 399908 | [399908-jigsaw-puzzle-cozy-fantasy-worlds.json](./399908-jigsaw-puzzle-cozy-fantasy-worlds.json) |
 | Jigsaw Puzzle: Delicious Foods | 282135 | [282135-jigsaw-puzzle-delicious-foods.json](./282135-jigsaw-puzzle-delicious-foods.json) |
+| Jigsaw puzzle: Evolution | 100720 | [100720-jigsaw-puzzle-evolution.json](./100720-jigsaw-puzzle-evolution.json) |
 | Jigsaw Puzzle: Futanari Threesome | 220834 | [220834-jigsaw-puzzle-futanari-threesome.json](./220834-jigsaw-puzzle-futanari-threesome.json) |
 | Jigsaw Puzzle: New Year Collection | 351599 | [351599-jigsaw-puzzle-new-year-collection.json](./351599-jigsaw-puzzle-new-year-collection.json) |
 | Jigsaw Puzzle: Pro Edition | 162230 | [162230-jigsaw-puzzle-pro-edition.json](./162230-jigsaw-puzzle-pro-edition.json) |
