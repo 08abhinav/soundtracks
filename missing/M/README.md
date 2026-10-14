@@ -6984,6 +6984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroLink Shut the Box | 74063 | [74063-microlink-shut-the-box.json](./74063-microlink-shut-the-box.json) |
 | MicroMachines | 94846 | [94846-micromachines.json](./94846-micromachines.json) |
 | MicroMechanica | 379714 | [379714-micromechanica.json](./379714-micromechanica.json) |
+| Micromon | 125761 | [125761-micromon.json](./125761-micromon.json) |
 | Micromon Adventures | 105865 | [105865-micromon-adventures.json](./105865-micromon-adventures.json) |
 | Micron Defense Force | 303062 | [303062-micron-defense-force.json](./303062-micron-defense-force.json) |
 | Micronomicon: Heroes | 116919 | [116919-micronomicon-heroes.json](./116919-micronomicon-heroes.json) |
@@ -7439,6 +7440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might & Magic Heroes VII: Complete Edition | 136161 | [136161-might-and-magic-heroes-vii-complete-edition.json](./136161-might-and-magic-heroes-vii-complete-edition.json) |
 | Might & Magic Heroes VII: Deluxe Edition | 53355 | [53355-might-and-magic-heroes-vii-deluxe-edition.json](./53355-might-and-magic-heroes-vii-deluxe-edition.json) |
 | Might & Magic Heroes VII: Ultimate Edition | 219753 | [219753-might-and-magic-heroes-vii-ultimate-edition.json](./219753-might-and-magic-heroes-vii-ultimate-edition.json) |
+| Might & Magic Heroes: Era of Chaos | 125744 | [125744-might-and-magic-heroes-era-of-chaos.json](./125744-might-and-magic-heroes-era-of-chaos.json) |
 | Might & Magic: Clash of Heroes | 1889 | [1889-might-and-magic-clash-of-heroes.json](./1889-might-and-magic-clash-of-heroes.json) |
 | Might & Magic: Duel of Champions - Five Towers | 383112 | [383112-might-and-magic-duel-of-champions-five-towers.json](./383112-might-and-magic-duel-of-champions-five-towers.json) |
 | Might & Magic: Duel of Champions - Forgotten Wars | 383111 | [383111-might-and-magic-duel-of-champions-forgotten-wars.json](./383111-might-and-magic-duel-of-champions-forgotten-wars.json) |
@@ -10137,6 +10139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mononofu Battle Princess of White Lily | 98507 | [98507-mononofu-battle-princess-of-white-lily.json](./98507-mononofu-battle-princess-of-white-lily.json) |
 | Mononoke Chigiri | 343948 | [343948-mononoke-chigiri.json](./343948-mononoke-chigiri.json) |
 | Mononoke no Kuni | 270069 | [270069-mononoke-no-kuni.json](./270069-mononoke-no-kuni.json) |
+| Mononoke Slashdown | 125737 | [125737-mononoke-slashdown.json](./125737-mononoke-slashdown.json) |
 | Mononoke Tantei: Nobuta no Ayakashi Jikenbo | 222361 | [222361-mononoke-tantei-nobuta-no-ayakashi-jikenbo.json](./222361-mononoke-tantei-nobuta-no-ayakashi-jikenbo.json) |
 | Monophobia | 122821 | [122821-monophobia.json](./122821-monophobia.json) |
 | Monophobia | 395993 | [395993-monophobia.json](./395993-monophobia.json) |
