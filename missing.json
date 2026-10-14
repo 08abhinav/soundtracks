@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T21:12:31.822Z",
-  "total_missing": 212281,
+  "generated_at": "2026-10-14T21:22:48.735Z",
+  "total_missing": 212288,
   "games": [
     {
       "igdb_id": 191680,
@@ -660,6 +660,11 @@
       "igdb_id": 93755,
       "game_name": "+1S",
       "file": "missing/0-9/93755-1s.json"
+    },
+    {
+      "igdb_id": 79794,
+      "game_name": "=10",
+      "file": "missing/0-9/79794-10.json"
     },
     {
       "igdb_id": 197674,
@@ -65417,11 +65422,6 @@
       "file": "missing/A/354258-atelier-ryza-secret-trilogy-deluxe-pack.json"
     },
     {
-      "igdb_id": 119061,
-      "game_name": "Atelier Ryza: Ever Darkness & the Secret Hideout",
-      "file": "missing/A/119061-atelier-ryza-ever-darkness-and-the-secret-hideout.json"
-    },
-    {
       "igdb_id": 168939,
       "game_name": "Atelier Ryza: Ever Darkness & the Secret Hideout - \"Ever Summer Queen & the Secret Island\"",
       "file": "missing/A/168939-atelier-ryza-ever-darkness-and-the-secret-hideout-ever-summer-queen-and-the-secret-island.json"
@@ -66200,6 +66200,11 @@
       "igdb_id": 30119,
       "game_name": "Atomic 79",
       "file": "missing/A/30119-atomic-79.json"
+    },
+    {
+      "igdb_id": 79801,
+      "game_name": "Atomic Adam: Episode 1",
+      "file": "missing/A/79801-atomic-adam-episode-1.json"
     },
     {
       "igdb_id": 202191,
@@ -86342,6 +86347,11 @@
       "file": "missing/B/322116-battleminer-giants.json"
     },
     {
+      "igdb_id": 79799,
+      "game_name": "Battleminerz",
+      "file": "missing/B/79799-battleminerz.json"
+    },
+    {
       "igdb_id": 359514,
       "game_name": "Battlemon",
       "file": "missing/B/359514-battlemon.json"
@@ -89110,11 +89120,6 @@
       "igdb_id": 351179,
       "game_name": "Beat Bulwark",
       "file": "missing/B/351179-beat-bulwark.json"
-    },
-    {
-      "igdb_id": 18860,
-      "game_name": "Beat Cop",
-      "file": "missing/B/18860-beat-cop.json"
     },
     {
       "igdb_id": 320151,
@@ -117335,6 +117340,11 @@
       "igdb_id": 233232,
       "game_name": "Bounce Lounge",
       "file": "missing/B/233232-bounce-lounge.json"
+    },
+    {
+      "igdb_id": 79803,
+      "game_name": "Bounce Man",
+      "file": "missing/B/79803-bounce-man.json"
     },
     {
       "igdb_id": 146849,
@@ -461797,6 +461807,11 @@
       "file": "missing/K/66149-kaleidoscope-7-man-kounen-no-houshi-tachi.json"
     },
     {
+      "igdb_id": 79792,
+      "game_name": "Kaleidoscope: Hakkan Wakusei",
+      "file": "missing/K/79792-kaleidoscope-hakkan-wakusei.json"
+    },
+    {
       "igdb_id": 184437,
       "game_name": "Kalevala",
       "file": "missing/K/184437-kalevala.json"
@@ -463985,6 +464000,11 @@
       "igdb_id": 195552,
       "game_name": "KaRu",
       "file": "missing/K/195552-karu.json"
+    },
+    {
+      "igdb_id": 79793,
+      "game_name": "Karuizawa Yuukai Annai",
+      "file": "missing/K/79793-karuizawa-yuukai-annai.json"
     },
     {
       "igdb_id": 167036,
@@ -487380,6 +487400,11 @@
       "igdb_id": 345625,
       "game_name": "Law & Order: Mushroom Kingdom Unit - Pilot Episode: Tragic Fox \"Tails\"",
       "file": "missing/L/345625-law-and-order-mushroom-kingdom-unit-pilot-episode-tragic-fox-tails.json"
+    },
+    {
+      "igdb_id": 79795,
+      "game_name": "Law and Order: Los Angeles",
+      "file": "missing/L/79795-law-and-order-los-angeles.json"
     },
     {
       "igdb_id": 207832,
@@ -656810,6 +656835,11 @@
       "igdb_id": 47666,
       "game_name": "Picross e6",
       "file": "missing/P/47666-picross-e6.json"
+    },
+    {
+      "igdb_id": 79798,
+      "game_name": "Picross e8",
+      "file": "missing/P/79798-picross-e8.json"
     },
     {
       "igdb_id": 102879,
@@ -908510,6 +908540,11 @@
       "igdb_id": 371479,
       "game_name": "The Kingdom of God",
       "file": "missing/T/371479-the-kingdom-of-god.json"
+    },
+    {
+      "igdb_id": 79796,
+      "game_name": "The Kingdom of Loathing",
+      "file": "missing/T/79796-the-kingdom-of-loathing.json"
     },
     {
       "igdb_id": 231536,
