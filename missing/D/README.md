@@ -6428,6 +6428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt 5: Year One Edition | 164796 | [164796-dirt-5-year-one-edition.json](./164796-dirt-5-year-one-edition.json) |
 | Dirt And Flo | 278691 | [278691-dirt-and-flo.json](./278691-dirt-and-flo.json) |
 | Dirt Bicycle Rider Simulator | 259816 | [259816-dirt-bicycle-rider-simulator.json](./259816-dirt-bicycle-rider-simulator.json) |
+| Dirt Bike Apocalypse | 98903 | [98903-dirt-bike-apocalypse.json](./98903-dirt-bike-apocalypse.json) |
 | Dirt Bike Evo | 103932 | [103932-dirt-bike-evo.json](./103932-dirt-bike-evo.json) |
 | Dirt Bike Extreme | 87160 | [87160-dirt-bike-extreme.json](./87160-dirt-bike-extreme.json) |
 | Dirt Bike Extreme 3D | 330237 | [330237-dirt-bike-extreme-3d.json](./330237-dirt-bike-extreme-3d.json) |
@@ -7608,6 +7609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Man: Mission Impawsible | 316875 | [316875-dog-man-mission-impawsible.json](./316875-dog-man-mission-impawsible.json) |
 | Dog Mendonca | 175274 | [175274-dog-mendonca.json](./175274-dog-mendonca.json) |
 | Dog of Dracula 2: Cyber Monogatari | 228436 | [228436-dog-of-dracula-2-cyber-monogatari.json](./228436-dog-of-dracula-2-cyber-monogatari.json) |
+| Dog Pairs | 98906 | [98906-dog-pairs.json](./98906-dog-pairs.json) |
 | Dog Petting Simulator | 182237 | [182237-dog-petting-simulator.json](./182237-dog-petting-simulator.json) |
 | Dog Plays in Space Bundle | 230824 | [230824-dog-plays-in-space-bundle.json](./230824-dog-plays-in-space-bundle.json) |
 | Dog Puzzle | 239773 | [239773-dog-puzzle.json](./239773-dog-puzzle.json) |
@@ -7733,6 +7735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokapon! Ikari no Tetsuken | 81411 | [81411-dokapon-ikari-no-tetsuken.json](./81411-dokapon-ikari-no-tetsuken.json) |
 | Dokapon! Sword of Fury | 328413 | [328413-dokapon-sword-of-fury.json](./328413-dokapon-sword-of-fury.json) |
 | Dokapon?! Millennium Quest | 65546 | [65546-dokapon-millennium-quest.json](./65546-dokapon-millennium-quest.json) |
+| Dokdo | 98889 | [98889-dokdo.json](./98889-dokdo.json) |
 | Dokee the Dog and the Musical Rain | 70615 | [70615-dokee-the-dog-and-the-musical-rain.json](./70615-dokee-the-dog-and-the-musical-rain.json) |
 | Doki Boki International Hentai Language School | 370255 | [370255-doki-boki-international-hentai-language-school.json](./370255-doki-boki-international-hentai-language-school.json) |
 | Doki Boom Dash | 362736 | [362736-doki-boom-dash.json](./362736-doki-boom-dash.json) |
