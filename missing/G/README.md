@@ -440,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactico | 285561 | [285561-galactico.json](./285561-galactico.json) |
 | Galacticraft | 232681 | [232681-galacticraft.json](./232681-galacticraft.json) |
 | Galacticverse | 275071 | [275071-galacticverse.json](./275071-galacticverse.json) |
+| Galactis | 106429 | [106429-galactis.json](./106429-galactis.json) |
 | Galactix | 218080 | [218080-galactix.json](./218080-galactix.json) |
 | Galactix | 381042 | [381042-galactix.json](./381042-galactix.json) |
 | Galactoids: Galactic Invaders | 217279 | [217279-galactoids-galactic-invaders.json](./217279-galactoids-galactic-invaders.json) |
@@ -4125,6 +4126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goetia: The Infinite Tower | 222511 | [222511-goetia-the-infinite-tower.json](./222511-goetia-the-infinite-tower.json) |
 | GoetiaX | 145665 | [145665-goetiax.json](./145665-goetiax.json) |
 | Goetita: Turn-based City | 215582 | [215582-goetita-turn-based-city.json](./215582-goetita-turn-based-city.json) |
+| GoFetch | 106449 | [106449-gofetch.json](./106449-gofetch.json) |
 | GoFishing 3D | 119508 | [119508-gofishing-3d.json](./119508-gofishing-3d.json) |
 | GoGeez | 410296 | [410296-gogeez.json](./410296-gogeez.json) |
 | Gogetsuji Legends | 37341 | [37341-gogetsuji-legends.json](./37341-gogetsuji-legends.json) |
@@ -4520,6 +4522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gomi x Chou Trash x Talk | 350959 | [350959-gomi-x-chou-trash-x-talk.json](./350959-gomi-x-chou-trash-x-talk.json) |
 | Gomiboru | 333017 | [333017-gomiboru.json](./333017-gomiboru.json) |
 | Gomo | 7552 | [7552-gomo.json](./7552-gomo.json) |
+| Gomoku HD | 106453 | [106453-gomoku-hd.json](./106453-gomoku-hd.json) |
 | Gomoku Let's Go | 173252 | [173252-gomoku-lets-go.json](./173252-gomoku-lets-go.json) |
 | Gomoku: Online Game Hall | 88204 | [88204-gomoku-online-game-hall.json](./88204-gomoku-online-game-hall.json) |
 | Gomorrah | 238351 | [238351-gomorrah.json](./238351-gomorrah.json) |
@@ -5557,6 +5560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard404 | 365260 | [365260-graveyard404.json](./365260-graveyard404.json) |
 | GraveyardGambit | 308969 | [308969-graveyardgambit.json](./308969-graveyardgambit.json) |
 | Gravi Dot | 91909 | [91909-gravi-dot.json](./91909-gravi-dot.json) |
+| Gravia | 106428 | [106428-gravia.json](./106428-gravia.json) |
 | Gravibots | 309613 | [309613-gravibots.json](./309613-gravibots.json) |
 | Gravico | 280776 | [280776-gravico.json](./280776-gravico.json) |
 | GraviFire | 144277 | [144277-gravifire.json](./144277-gravifire.json) |
