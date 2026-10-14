@@ -2115,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onoow | 298039 | [298039-onoow.json](./298039-onoow.json) |
 | OnOrbit: Virtual Space Lab | 216929 | [216929-onorbit-virtual-space-lab.json](./216929-onorbit-virtual-space-lab.json) |
 | Onraid | 31752 | [31752-onraid.json](./31752-onraid.json) |
+| Onrush: Digital Deluxe Edition | 91319 | [91319-onrush-digital-deluxe-edition.json](./91319-onrush-digital-deluxe-edition.json) |
 | Onryo | 132270 | [132270-onryo.json](./132270-onryo.json) |
 | Onryou Senki | 77561 | [77561-onryou-senki.json](./77561-onryou-senki.json) |
 | Onsen mo Issho | 246072 | [246072-onsen-mo-issho.json](./246072-onsen-mo-issho.json) |
