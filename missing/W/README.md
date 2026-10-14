@@ -5125,6 +5125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Search Puzzle: Word Balls | 233054 | [233054-word-search-puzzle-word-balls.json](./233054-word-search-puzzle-word-balls.json) |
 | Word Search: Classic Game | 323326 | [323326-word-search-classic-game.json](./323326-word-search-classic-game.json) |
 | Word Search: World's Biggest | 240182 | [240182-word-search-worlds-biggest.json](./240182-word-search-worlds-biggest.json) |
+| Word Searcher | 79789 | [79789-word-searcher.json](./79789-word-searcher.json) |
 | Word Searcher 2 | 84963 | [84963-word-searcher-2.json](./84963-word-searcher-2.json) |
 | Word Searcher 3 | 84962 | [84962-word-searcher-3.json](./84962-word-searcher-3.json) |
 | Word Searcher 4 | 84939 | [84939-word-searcher-4.json](./84939-word-searcher-4.json) |
@@ -5289,6 +5290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordWhizzle Pop | 100692 | [100692-wordwhizzle-pop.json](./100692-wordwhizzle-pop.json) |
 | WordWhizzle Search | 52881 | [52881-wordwhizzle-search.json](./52881-wordwhizzle-search.json) |
 | WordyBuilder | 245972 | [245972-wordybuilder.json](./245972-wordybuilder.json) |
+| Wordz | 79790 | [79790-wordz.json](./79790-wordz.json) |
 | Wordz + | 90894 | [90894-wordz.json](./90894-wordz.json) |
 | WordZap | 117962 | [117962-wordzap.json](./117962-wordzap.json) |
 | WordZap Deluxe | 205885 | [205885-wordzap-deluxe.json](./205885-wordzap-deluxe.json) |
@@ -6081,6 +6083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC Collection | 275038 | [275038-wrc-collection.json](./275038-wrc-collection.json) |
 | WRC Collection Vol. 2 | 199929 | [199929-wrc-collection-vol-2.json](./199929-wrc-collection-vol-2.json) |
 | WRC: FIA World Rally Championship | 7250 | [7250-wrc-fia-world-rally-championship.json](./7250-wrc-fia-world-rally-championship.json) |
+| WRC: FIA World Rally Championship Arcade | 79734 | [79734-wrc-fia-world-rally-championship-arcade.json](./79734-wrc-fia-world-rally-championship-arcade.json) |
 | WRC: Rally Evolved | 8317 | [8317-wrc-rally-evolved.json](./8317-wrc-rally-evolved.json) |
 | Wreak the Havoc | 156564 | [156564-wreak-the-havoc.json](./156564-wreak-the-havoc.json) |
 | Wreck | 288453 | [288453-wreck.json](./288453-wreck.json) |
