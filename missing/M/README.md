@@ -1022,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girl Paranoids | 297746 | [297746-magical-girl-paranoids.json](./297746-magical-girl-paranoids.json) |
 | Magical Girl Pretty Samy Part 1: In the Earth | 165589 | [165589-magical-girl-pretty-samy-part-1-in-the-earth.json](./165589-magical-girl-pretty-samy-part-1-in-the-earth.json) |
 | Magical Girl Pretty Samy Part 2: In the Julyhelm | 165590 | [165590-magical-girl-pretty-samy-part-2-in-the-julyhelm.json](./165590-magical-girl-pretty-samy-part-2-in-the-julyhelm.json) |
+| Magical Girl Sae Vol.1 | 97778 | [97778-magical-girl-sae-vol-1.json](./97778-magical-girl-sae-vol-1.json) |
 | Magical Girl Sarah: Her Dark Skin Clouded White With Cum | 82794 | [82794-magical-girl-sarah-her-dark-skin-clouded-white-with-cum.json](./82794-magical-girl-sarah-her-dark-skin-clouded-white-with-cum.json) |
 | Magical girl story | 193811 | [193811-magical-girl-story.json](./193811-magical-girl-story.json) |
 | Magical Girl Witch Trials: Famitsu DX Pack | 403787 | [403787-magical-girl-witch-trials-famitsu-dx-pack.json](./403787-magical-girl-witch-trials-famitsu-dx-pack.json) |
@@ -12331,6 +12332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Melk Winter Games | 262591 | [262591-mr-melk-winter-games.json](./262591-mr-melk-winter-games.json) |
 | Mr. Men & Little Miss: Adventures in Dillydale | 243279 | [243279-mr-men-and-little-miss-adventures-in-dillydale.json](./243279-mr-men-and-little-miss-adventures-in-dillydale.json) |
 | Mr. Men & Little Miss: Mr. Messy and the Missing Sock | 243272 | [243272-mr-men-and-little-miss-mr-messy-and-the-missing-sock.json](./243272-mr-men-and-little-miss-mr-messy-and-the-missing-sock.json) |
+| Mr. Men Magic Storymaker | 97794 | [97794-mr-men-magic-storymaker.json](./97794-mr-men-magic-storymaker.json) |
 | Mr. Mix | 275669 | [275669-mr-mix.json](./275669-mr-mix.json) |
 | Mr. Mix | 276278 | [276278-mr-mix.json](./276278-mr-mix.json) |
 | Mr. Mookie and the Runaway Cookie | 253493 | [253493-mr-mookie-and-the-runaway-cookie.json](./253493-mr-mookie-and-the-runaway-cookie.json) |
@@ -12492,6 +12494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MSX Baseball | 94321 | [94321-msx-baseball.json](./94321-msx-baseball.json) |
 | MSX Copycat | 352337 | [352337-msx-copycat.json](./352337-msx-copycat.json) |
 | MSX Soccer | 94680 | [94680-msx-soccer.json](./94680-msx-soccer.json) |
+| MSX-21 | 97805 | [97805-msx-21.json](./97805-msx-21.json) |
 | MSX-Dino | 267559 | [267559-msx-dino.json](./267559-msx-dino.json) |
 | MT Force Aliens Uprising | 341343 | [341343-mt-force-aliens-uprising.json](./341343-mt-force-aliens-uprising.json) |
 | Mt. Doubt | 101979 | [101979-mt-doubt.json](./101979-mt-doubt.json) |
@@ -13799,6 +13802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Mart | 420668 | [420668-my-mart.json](./420668-my-mart.json) |
 | My Mates | 346244 | [346244-my-mates.json](./346244-my-mates.json) |
 | My Melody Angel Book: Denshi Techou & Enjoy Game | 196254 | [196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json](./196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json) |
+| My Melody: Negai ga Kanau Fushigi na Hako | 97813 | [97813-my-melody-negai-ga-kanau-fushigi-na-hako.json](./97813-my-melody-negai-ga-kanau-fushigi-na-hako.json) |
 | My Mermaid Girlfriend | 208366 | [208366-my-mermaid-girlfriend.json](./208366-my-mermaid-girlfriend.json) |
 | My Merry May | 247400 | [247400-my-merry-may.json](./247400-my-merry-may.json) |
 | My Merry May with be | 408848 | [408848-my-merry-may-with-be.json](./408848-my-merry-may-with-be.json) |
