@@ -1288,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy '95 | 40111 | [40111-fantasy-95.json](./40111-fantasy-95.json) |
 | Fantasy & Blade | 119021 | [119021-fantasy-and-blade.json](./119021-fantasy-and-blade.json) |
 | Fantasy & Blade II | 124223 | [124223-fantasy-and-blade-ii.json](./124223-fantasy-and-blade-ii.json) |
+| Fantasy 5 | 94647 | [94647-fantasy-5.json](./94647-fantasy-5.json) |
 | Fantasy 6 Pack | 86035 | [86035-fantasy-6-pack.json](./86035-fantasy-6-pack.json) |
 | Fantasy Adventure | 156145 | [156145-fantasy-adventure.json](./156145-fantasy-adventure.json) |
 | Fantasy Aquarium | 319878 | [319878-fantasy-aquarium.json](./319878-fantasy-aquarium.json) |
@@ -2898,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiends of Imprisonment | 34265 | [34265-fiends-of-imprisonment.json](./34265-fiends-of-imprisonment.json) |
 | Fierce Allies | 237667 | [237667-fierce-allies.json](./237667-fierce-allies.json) |
 | Fierce Dragon Godzilla: Metropolis Destruction!! | 75885 | [75885-fierce-dragon-godzilla-metropolis-destruction.json](./75885-fierce-dragon-godzilla-metropolis-destruction.json) |
+| Fierce Harmony | 94646 | [94646-fierce-harmony.json](./94646-fierce-harmony.json) |
 | Fierce Kingdoms | 384300 | [384300-fierce-kingdoms.json](./384300-fierce-kingdoms.json) |
 | Fierce Soldier | 306016 | [306016-fierce-soldier.json](./306016-fierce-soldier.json) |
 | Fierce Tales: Feline Sight | 123637 | [123637-fierce-tales-feline-sight.json](./123637-fierce-tales-feline-sight.json) |
@@ -5404,6 +5406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FloatingPoint | 195997 | [195997-floatingpoint.json](./195997-floatingpoint.json) |
 | Floatmotion | 59976 | [59976-floatmotion.json](./59976-floatmotion.json) |
 | Floatopia | 314274 | [314274-floatopia.json](./314274-floatopia.json) |
+| Floatris | 94631 | [94631-floatris.json](./94631-floatris.json) |
 | Floaty Brain In Space | 60893 | [60893-floaty-brain-in-space.json](./60893-floaty-brain-in-space.json) |
 | Floaty Fighters | 123041 | [123041-floaty-fighters.json](./123041-floaty-fighters.json) |
 | Flobe | 33718 | [33718-flobe.json](./33718-flobe.json) |
