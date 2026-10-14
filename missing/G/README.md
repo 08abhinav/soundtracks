@@ -3212,6 +3212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass | 171995 | [171995-glass.json](./171995-glass.json) |
 | Glass Beads | 342752 | [342752-glass-beads.json](./342752-glass-beads.json) |
 | Glass Cannons | 181772 | [181772-glass-cannons.json](./181772-glass-cannons.json) |
+| Glass City : The Dust | 76433 | [76433-glass-city-the-dust.json](./76433-glass-city-the-dust.json) |
 | Glass Empire | 19180 | [19180-glass-empire.json](./19180-glass-empire.json) |
 | Glass Fort: Smash It | 88313 | [88313-glass-fort-smash-it.json](./88313-glass-fort-smash-it.json) |
 | Glass Heart | 234199 | [234199-glass-heart.json](./234199-glass-heart.json) |
@@ -6284,6 +6285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: The Vengeance | 83143 | [83143-grim-tales-the-vengeance.json](./83143-grim-tales-the-vengeance.json) |
 | Grim Tales: The Vengeance - Collector's Edition | 118337 | [118337-grim-tales-the-vengeance-collectors-edition.json](./118337-grim-tales-the-vengeance-collectors-edition.json) |
 | Grim Tales: The White Lady - Collector's Edition | 250594 | [250594-grim-tales-the-white-lady-collectors-edition.json](./250594-grim-tales-the-white-lady-collectors-edition.json) |
+| Grim Tales: The Wishes - Collector's Edition | 76483 | [76483-grim-tales-the-wishes-collectors-edition.json](./76483-grim-tales-the-wishes-collectors-edition.json) |
 | Grim Tales: The Wishes & Grim Tales: The Stone Queen | 200956 | [200956-grim-tales-the-wishes-and-grim-tales-the-stone-queen.json](./200956-grim-tales-the-wishes-and-grim-tales-the-stone-queen.json) |
 | Grim Tales: Threads of Destiny | 153388 | [153388-grim-tales-threads-of-destiny.json](./153388-grim-tales-threads-of-destiny.json) |
 | Grim Tales: Trace in Time | 187964 | [187964-grim-tales-trace-in-time.json](./187964-grim-tales-trace-in-time.json) |
