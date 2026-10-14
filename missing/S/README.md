@@ -789,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samabake! Scramble | 318056 | [318056-samabake-scramble.json](./318056-samabake-scramble.json) |
 | Samael | 117568 | [117568-samael.json](./117568-samael.json) |
 | Samael: The Legacy of Ophiuchus | 218718 | [218718-samael-the-legacy-of-ophiuchus.json](./218718-samael-the-legacy-of-ophiuchus.json) |
+| Samantha Swift and the Fountains of Fate | 95915 | [95915-samantha-swift-and-the-fountains-of-fate.json](./95915-samantha-swift-and-the-fountains-of-fate.json) |
 | Samantha Swift and the Golden Touch | 10570 | [10570-samantha-swift-and-the-golden-touch.json](./10570-samantha-swift-and-the-golden-touch.json) |
 | Samantha Swift and the Mystery From Atlantis | 62460 | [62460-samantha-swift-and-the-mystery-from-atlantis.json](./62460-samantha-swift-and-the-mystery-from-atlantis.json) |
 | Samantha Wins | 128561 | [128561-samantha-wins.json](./128561-samantha-wins.json) |
@@ -1087,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sands of Salzaar: The Tournament | 231292 | [231292-sands-of-salzaar-the-tournament.json](./231292-sands-of-salzaar-the-tournament.json) |
 | Sands of Slumber: The RPG | 225864 | [225864-sands-of-slumber-the-rpg.json](./225864-sands-of-slumber-the-rpg.json) |
 | Sands of Sodis | 231380 | [231380-sands-of-sodis.json](./231380-sands-of-sodis.json) |
+| Sands of the Coliseum | 95941 | [95941-sands-of-the-coliseum.json](./95941-sands-of-the-coliseum.json) |
 | Sandspiel | 146869 | [146869-sandspiel.json](./146869-sandspiel.json) |
 | Sandstorm | 30707 | [30707-sandstorm.json](./30707-sandstorm.json) |
 | Sandstorm Strike Force | 288294 | [288294-sandstorm-strike-force.json](./288294-sandstorm-strike-force.json) |
@@ -1655,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the World | 259154 | [259154-save-the-world.json](./259154-save-the-world.json) |
 | Save Them | 106536 | [106536-save-them.json](./106536-save-them.json) |
 | Save Thine Kingdom | 115561 | [115561-save-thine-kingdom.json](./115561-save-thine-kingdom.json) |
+| Save to Kill | 95955 | [95955-save-to-kill.json](./95955-save-to-kill.json) |
 | Save Twiks | 291726 | [291726-save-twiks.json](./291726-save-twiks.json) |
 | Save Us | 190931 | [190931-save-us.json](./190931-save-us.json) |
 | Save Us, Doctor Faust! | 416827 | [416827-save-us-doctor-faust.json](./416827-save-us-doctor-faust.json) |
@@ -6139,6 +6142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shop Battle | 115399 | [115399-shop-battle.json](./115399-shop-battle.json) |
 | Shop Crush | 310059 | [310059-shop-crush.json](./310059-shop-crush.json) |
 | Shop Empire | 270596 | [270596-shop-empire.json](./270596-shop-empire.json) |
+| Shop Empire Galaxy | 95959 | [95959-shop-empire-galaxy.json](./95959-shop-empire-galaxy.json) |
 | Shop Farm Tycoon | 395216 | [395216-shop-farm-tycoon.json](./395216-shop-farm-tycoon.json) |
 | Shop Heroes Legends: Idle RPG | 233118 | [233118-shop-heroes-legends-idle-rpg.json](./233118-shop-heroes-legends-idle-rpg.json) |
 | Shop Is Done | 260388 | [260388-shop-is-done.json](./260388-shop-is-done.json) |
@@ -7205,6 +7209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimHealth | 93048 | [93048-simhealth.json](./93048-simhealth.json) |
 | Simian Rising | 102147 | [102147-simian-rising.json](./102147-simian-rising.json) |
 | Simian.Interface | 32702 | [32702-simian-interface.json](./32702-simian-interface.json) |
+| Similo | 95962 | [95962-similo.json](./95962-similo.json) |
 | Similo: History | 170927 | [170927-similo-history.json](./170927-similo-history.json) |
 | Similo: Spookies | 170926 | [170926-similo-spookies.json](./170926-similo-spookies.json) |
 | SimIsle: Missions in the Rainforest | 12907 | [12907-simisle-missions-in-the-rainforest.json](./12907-simisle-missions-in-the-rainforest.json) |
@@ -9282,6 +9287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slums of Tetsoidea | 186820 | [186820-slums-of-tetsoidea.json](./186820-slums-of-tetsoidea.json) |
 | Slurpee x Tetris Handheld Game | 365005 | [365005-slurpee-x-tetris-handheld-game.json](./365005-slurpee-x-tetris-handheld-game.json) |
 | Slurpy | 25712 | [25712-slurpy.json](./25712-slurpy.json) |
+| Slurpy Derpy | 95935 | [95935-slurpy-derpy.json](./95935-slurpy-derpy.json) |
 | Slut Nurses | 371398 | [371398-slut-nurses.json](./371398-slut-nurses.json) |
 | Slut Squad | 385808 | [385808-slut-squad.json](./385808-slut-squad.json) |
 | SlutWitch's Atelier | 83163 | [83163-slutwitchs-atelier.json](./83163-slutwitchs-atelier.json) |
@@ -15545,6 +15551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squid Grid | 247992 | [247992-squid-grid.json](./247992-squid-grid.json) |
 | Squid Gurl and the Salty Sea Man | 97345 | [97345-squid-gurl-and-the-salty-sea-man.json](./97345-squid-gurl-and-the-salty-sea-man.json) |
 | Squid Guys | 286503 | [286503-squid-guys.json](./286503-squid-guys.json) |
+| Squid Ink | 95932 | [95932-squid-ink.json](./95932-squid-ink.json) |
 | Squid on Road | 236944 | [236944-squid-on-road.json](./236944-squid-on-road.json) |
 | Squid Prison | 199314 | [199314-squid-prison.json](./199314-squid-prison.json) |
 | Squid Squabble | 264602 | [264602-squid-squabble.json](./264602-squid-squabble.json) |
@@ -19510,6 +19517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sucker for Love: Date to Die For | 236347 | [236347-sucker-for-love-date-to-die-for.json](./236347-sucker-for-love-date-to-die-for.json) |
 | Sucker for Love: Prelude | 194399 | [194399-sucker-for-love-prelude.json](./194399-sucker-for-love-prelude.json) |
 | Sucker head: Bodycam | 338215 | [338215-sucker-head-bodycam.json](./338215-sucker-head-bodycam.json) |
+| Sucker Munch | 95961 | [95961-sucker-munch.json](./95961-sucker-munch.json) |
 | Sucker Punch | 257302 | [257302-sucker-punch.json](./257302-sucker-punch.json) |
 | Sucker Punch 2 | 261460 | [261460-sucker-punch-2.json](./261460-sucker-punch-2.json) |
 | Sucker Punch Mech Gunner | 59357 | [59357-sucker-punch-mech-gunner.json](./59357-sucker-punch-mech-gunner.json) |
@@ -23606,6 +23614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switch Dash Game | 262069 | [262069-switch-dash-game.json](./262069-switch-dash-game.json) |
 | Switch Galaxy Ultra | 35517 | [35517-switch-galaxy-ultra.json](./35517-switch-galaxy-ultra.json) |
 | Switch It | 152896 | [152896-switch-it.json](./152896-switch-it.json) |
+| Switch or Not? | 95951 | [95951-switch-or-not.json](./95951-switch-or-not.json) |
 | Switch Poker | 339427 | [339427-switch-poker.json](./339427-switch-poker.json) |
 | Switch Race | 306517 | [306517-switch-race.json](./306517-switch-race.json) |
 | Switch Shapes | 406772 | [406772-switch-shapes.json](./406772-switch-shapes.json) |
