@@ -1834,6 +1834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Target | 156158 | [156158-impossible-target.json](./156158-impossible-target.json) |
 | Impossible Tracks Car Driving | 28004 | [28004-impossible-tracks-car-driving.json](./28004-impossible-tracks-car-driving.json) |
 | Impossible Twisty Dots | 88288 | [88288-impossible-twisty-dots.json](./88288-impossible-twisty-dots.json) |
+| Impossible VR Ninja | 107696 | [107696-impossible-vr-ninja.json](./107696-impossible-vr-ninja.json) |
 | ImpossiBowl | 264150 | [264150-impossibowl.json](./264150-impossibowl.json) |
 | ImpossiBubble | 186823 | [186823-impossibubble.json](./186823-impossibubble.json) |
 | Imposter The Horror | 282045 | [282045-imposter-the-horror.json](./282045-imposter-the-horror.json) |
