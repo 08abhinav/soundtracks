@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Chase | 40738 | [40738-panda-chase.json](./40738-panda-chase.json) |
 | Panda Choice Mahjong | 263502 | [263502-panda-choice-mahjong.json](./263502-panda-choice-mahjong.json) |
 | Panda City | 160131 | [160131-panda-city.json](./160131-panda-city.json) |
+| Panda Commander Air Combat: Sky Fighter Shooting Force Attack | 89032 | [89032-panda-commander-air-combat-sky-fighter-shooting-force-attack.json](./89032-panda-commander-air-combat-sky-fighter-shooting-force-attack.json) |
 | Panda Dodgeball | 79549 | [79549-panda-dodgeball.json](./79549-panda-dodgeball.json) |
 | Panda Dynasty | 177927 | [177927-panda-dynasty.json](./177927-panda-dynasty.json) |
 | Panda Eat Bamboo | 326100 | [326100-panda-eat-bamboo.json](./326100-panda-eat-bamboo.json) |
@@ -6635,6 +6636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playroom Racer 2 | 259028 | [259028-playroom-racer-2.json](./259028-playroom-racer-2.json) |
 | Playroom Tracks: Hill Climb Adventure | 385083 | [385083-playroom-tracks-hill-climb-adventure.json](./385083-playroom-tracks-hill-climb-adventure.json) |
 | Playrooms | 400551 | [400551-playrooms.json](./400551-playrooms.json) |
+| Playsets | 89051 | [89051-playsets.json](./89051-playsets.json) |
 | Playshake | 92678 | [92678-playshake.json](./92678-playshake.json) |
 | Playskool Puzzles | 209361 | [209361-playskool-puzzles.json](./209361-playskool-puzzles.json) |
 | PlayStation All-Stars Battle Royale: Big Daddy Plushy | 315076 | [315076-playstation-all-stars-battle-royale-big-daddy-plushy.json](./315076-playstation-all-stars-battle-royale-big-daddy-plushy.json) |
@@ -11151,6 +11153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pseudomod | 281309 | [281309-pseudomod.json](./281309-pseudomod.json) |
 | Pseudoregalia: Jam Ver. | 259465 | [259465-pseudoregalia-jam-ver.json](./259465-pseudoregalia-jam-ver.json) |
 | PseudoSanity | 372635 | [372635-pseudosanity.json](./372635-pseudosanity.json) |
+| PSFootball | 89084 | [89084-psfootball.json](./89084-psfootball.json) |
 | Psi Academy: Orientation | 341439 | [341439-psi-academy-orientation.json](./341439-psi-academy-orientation.json) |
 | Psi Chess | 58251 | [58251-psi-chess.json](./58251-psi-chess.json) |
 | Psi Knuckle | 124579 | [124579-psi-knuckle.json](./124579-psi-knuckle.json) |
