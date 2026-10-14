@@ -2554,6 +2554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AEW: Fight Forever - Elite Edition | 251670 | [251670-aew-fight-forever-elite-edition.json](./251670-aew-fight-forever-elite-edition.json) |
 | Aexia | 258924 | [258924-aexia.json](./258924-aexia.json) |
 | Afallon | 283879 | [283879-afallon.json](./283879-afallon.json) |
+| Afarid | 110746 | [110746-afarid.json](./110746-afarid.json) |
 | Affair | 279084 | [279084-affair.json](./279084-affair.json) |
 | Affairs of the Court: Choice of Romance | 32355 | [32355-affairs-of-the-court-choice-of-romance.json](./32355-affairs-of-the-court-choice-of-romance.json) |
 | Affairs of the Court: Choice of Romance - A Life Mage Child | 171383 | [171383-affairs-of-the-court-choice-of-romance-a-life-mage-child.json](./171383-affairs-of-the-court-choice-of-romance-a-life-mage-child.json) |
@@ -3695,6 +3696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akiba’s Trip: First Memory - 10th Anniversary Edition | 142373 | [142373-akiba-s-trip-first-memory-10th-anniversary-edition.json](./142373-akiba-s-trip-first-memory-10th-anniversary-edition.json) |
 | Akiba's Trip: Undead & Undressed | 7268 | [7268-akibas-trip-undead-and-undressed.json](./7268-akibas-trip-undead-and-undressed.json) |
 | Akiba's Trip: Undead & Undressed - Kati Route | 204503 | [204503-akibas-trip-undead-and-undressed-kati-route.json](./204503-akibas-trip-undead-and-undressed-kati-route.json) |
+| Akihabara Crash! 123 Stage + 1 | 110867 | [110867-akihabara-crash-123-stage-1.json](./110867-akihabara-crash-123-stage-1.json) |
 | Akihabara Dennou-gumi Pata Pies! | 247573 | [247573-akihabara-dennou-gumi-pata-pies.json](./247573-akihabara-dennou-gumi-pata-pies.json) |
 | Akihabara: Feel the Rhythm | 26770 | [26770-akihabara-feel-the-rhythm.json](./26770-akihabara-feel-the-rhythm.json) |
 | Akiiwan: Survival | 361850 | [361850-akiiwan-survival.json](./361850-akiiwan-survival.json) |
@@ -4723,6 +4725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alley Master | 40243 | [40243-alley-master.json](./40243-alley-master.json) |
 | Alley Nine | 293550 | [293550-alley-nine.json](./293550-alley-nine.json) |
 | Alley Oops | 79283 | [79283-alley-oops.json](./79283-alley-oops.json) |
+| Alley Rally | 110878 | [110878-alley-rally.json](./110878-alley-rally.json) |
 | Alley Restaurant Tycoon | 304320 | [304320-alley-restaurant-tycoon.json](./304320-alley-restaurant-tycoon.json) |
 | Alleykat | 28850 | [28850-alleykat.json](./28850-alleykat.json) |
 | AlleyRat | 342175 | [342175-alleyrat.json](./342175-alleyrat.json) |
@@ -10881,6 +10884,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomograd | 249222 | [249222-atomograd.json](./249222-atomograd.json) |
 | Atomorf | 121376 | [121376-atomorf.json](./121376-atomorf.json) |
 | Atoms and Time | 269043 | [269043-atoms-and-time.json](./269043-atoms-and-time.json) |
+| Atoms Game | 110873 | [110873-atoms-game.json](./110873-atoms-game.json) |
+| Atoms! | 110874 | [110874-atoms.json](./110874-atoms.json) |
 | Aton | 155054 | [155054-aton.json](./155054-aton.json) |
 | Aton | 332239 | [332239-aton.json](./332239-aton.json) |
 | Atone | 277308 | [277308-atone.json](./277308-atone.json) |
@@ -10919,6 +10924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atta: Spot the Oddities in the Strange Hotel | 288666 | [288666-atta-spot-the-oddities-in-the-strange-hotel.json](./288666-atta-spot-the-oddities-in-the-strange-hotel.json) |
 | Attached | 118121 | [118121-attached.json](./118121-attached.json) |
 | Attachment Not Found | 256787 | [256787-attachment-not-found.json](./256787-attachment-not-found.json) |
+| Attack | 110877 | [110877-attack.json](./110877-attack.json) |
 | Attack Animal Gakuen | 48601 | [48601-attack-animal-gakuen.json](./48601-attack-animal-gakuen.json) |
 | Attack at Dawn: North Africa | 143327 | [143327-attack-at-dawn-north-africa.json](./143327-attack-at-dawn-north-africa.json) |
 | Attack at EP-CYG-4 | 292837 | [292837-attack-at-ep-cyg-4.json](./292837-attack-at-ep-cyg-4.json) |
