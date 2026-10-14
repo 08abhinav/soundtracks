@@ -1521,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learning with Leap | 230433 | [230433-learning-with-leap.json](./230433-learning-with-leap.json) |
 | Learnmoor: Kids Academy | 394350 | [394350-learnmoor-kids-academy.json](./394350-learnmoor-kids-academy.json) |
 | Leas: City of the Sun | 334477 | [334477-leas-city-of-the-sun.json](./334477-leas-city-of-the-sun.json) |
+| Leather | 105814 | [105814-leather.json](./105814-leather.json) |
 | Leather Goddesses of Phobos | 12174 | [12174-leather-goddesses-of-phobos.json](./12174-leather-goddesses-of-phobos.json) |
 | Leather Goddesses of Phobos 2: Gas Pump Girls Meet the Pulsating Inconvenience from Planet X! | 14558 | [14558-leather-goddesses-of-phobos-2-gas-pump-girls-meet-the-pulsating-inconvenience-from-planet-x.json](./14558-leather-goddesses-of-phobos-2-gas-pump-girls-meet-the-pulsating-inconvenience-from-planet-x.json) |
 | Leave | 419910 | [419910-leave.json](./419910-leave.json) |
@@ -2730,6 +2731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Level Up 80 | 311640 | [311640-level-up-80.json](./311640-level-up-80.json) |
 | Level Up Boxing VR | 270115 | [270115-level-up-boxing-vr.json](./270115-level-up-boxing-vr.json) |
 | Level Up Bus | 296782 | [296782-level-up-bus.json](./296782-level-up-bus.json) |
+| Level Up Button Gold | 105805 | [105805-level-up-button-gold.json](./105805-level-up-button-gold.json) |
 | Level up Everything! | 333068 | [333068-level-up-everything.json](./333068-level-up-everything.json) |
 | Level Up Simulator | 389117 | [389117-level-up-simulator.json](./389117-level-up-simulator.json) |
 | Level Up Your Body | 270129 | [270129-level-up-your-body.json](./270129-level-up-your-body.json) |
@@ -4608,6 +4610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Log.in | 381170 | [381170-log-in.json](./381170-log-in.json) |
 | Logam vs Ksi | 108344 | [108344-logam-vs-ksi.json](./108344-logam-vs-ksi.json) |
 | Logi Box | 339630 | [339630-logi-box.json](./339630-logi-box.json) |
+| Logi. | 105719 | [105719-logi.json](./105719-logi.json) |
 | Logiart Grimoire: Emil's Magic Training, Part 4 | 357389 | [357389-logiart-grimoire-emils-magic-training-part-4.json](./357389-logiart-grimoire-emils-magic-training-part-4.json) |
 | Logiart Grimoire: Emil's Magic Training, Part 5 | 357390 | [357390-logiart-grimoire-emils-magic-training-part-5.json](./357390-logiart-grimoire-emils-magic-training-part-5.json) |
 | Logic | 264784 | [264784-logic.json](./264784-logic.json) |
@@ -5234,6 +5237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost & Found: A This Bed We Made Story | 391841 | [391841-lost-and-found-a-this-bed-we-made-story.json](./391841-lost-and-found-a-this-bed-we-made-story.json) |
 | Lost & Found: Inanimate Object Dating Agency | 346109 | [346109-lost-and-found-inanimate-object-dating-agency.json](./346109-lost-and-found-inanimate-object-dating-agency.json) |
 | Lost & Round | 153364 | [153364-lost-and-round.json](./153364-lost-and-round.json) |
+| Lost & Shrunk: Giantess Horror | 105821 | [105821-lost-and-shrunk-giantess-horror.json](./105821-lost-and-shrunk-giantess-horror.json) |
 | Lost Abroad Café | 235450 | [235450-lost-abroad-cafe.json](./235450-lost-abroad-cafe.json) |
 | Lost Adventures of Kroz | 69575 | [69575-lost-adventures-of-kroz.json](./69575-lost-adventures-of-kroz.json) |
 | Lost Alice: Destined Lovers in Wonderland | 75422 | [75422-lost-alice-destined-lovers-in-wonderland.json](./75422-lost-alice-destined-lovers-in-wonderland.json) |
@@ -6593,6 +6597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luneia the Soothsayer | 409731 | [409731-luneia-the-soothsayer.json](./409731-luneia-the-soothsayer.json) |
 | Lunera | 356673 | [356673-lunera.json](./356673-lunera.json) |
 | Lunescape | 224996 | [224996-lunescape.json](./224996-lunescape.json) |
+| Luney Tunes Dash | 105820 | [105820-luney-tunes-dash.json](./105820-luney-tunes-dash.json) |
 | Lunhowl: Co-op Horror | 348762 | [348762-lunhowl-co-op-horror.json](./348762-lunhowl-co-op-horror.json) |
 | Lúnhuí Xiūxiān Jué | 157565 | [157565-lunhui-xiuxian-jue.json](./157565-lunhui-xiuxian-jue.json) |
 | Lúnhuí Xiūxiān Zhuàn | 373688 | [373688-lunhui-xiuxian-zhuan.json](./373688-lunhui-xiuxian-zhuan.json) |
@@ -6755,6 +6760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LV-426 | 125139 | [125139-lv-426.json](./125139-lv-426.json) |
 | LV99: Final Fortress | 140592 | [140592-lv99-final-fortress.json](./140592-lv99-final-fortress.json) |
 | LVL99: AxeRage | 125917 | [125917-lvl99-axerage.json](./125917-lvl99-axerage.json) |
+| LVN Fake News | 105740 | [105740-lvn-fake-news.json](./105740-lvn-fake-news.json) |
 | LXD: Red Honey | 305877 | [305877-lxd-red-honey.json](./305877-lxd-red-honey.json) |
 | Lya | 118901 | [118901-lya.json](./118901-lya.json) |
 | Lyantei | 114993 | [114993-lyantei.json](./114993-lyantei.json) |
