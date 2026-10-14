@@ -2426,6 +2426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Fables Collection | 125131 | [125131-endless-fables-collection.json](./125131-endless-fables-collection.json) |
 | Endless Fables: Shadow Within | 165611 | [165611-endless-fables-shadow-within.json](./165611-endless-fables-shadow-within.json) |
 | Endless Fables: The Minotaur's Curse | 32003 | [32003-endless-fables-the-minotaurs-curse.json](./32003-endless-fables-the-minotaurs-curse.json) |
+| Endless Fighter | 107698 | [107698-endless-fighter.json](./107698-endless-fighter.json) |
 | Endless Firepower | 163460 | [163460-endless-firepower.json](./163460-endless-firepower.json) |
 | Endless Forest | 386683 | [386683-endless-forest.json](./386683-endless-forest.json) |
 | Endless Forms Most Beautiful | 129540 | [129540-endless-forms-most-beautiful.json](./129540-endless-forms-most-beautiful.json) |
@@ -4367,6 +4368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Even20: The Interference of Parallels | 373096 | [373096-even20-the-interference-of-parallels.json](./373096-even20-the-interference-of-parallels.json) |
 | Evenfall | 362328 | [362328-evenfall.json](./362328-evenfall.json) |
 | Evening | 360501 | [360501-evening.json](./360501-evening.json) |
+| Evening Star | 107700 | [107700-evening-star.json](./107700-evening-star.json) |
 | Evening Star | 13647 | [13647-evening-star.json](./13647-evening-star.json) |
 | Evening Star + Southern Belle | 137361 | [137361-evening-star-southern-belle.json](./137361-evening-star-southern-belle.json) |
 | Evening Star 2 | 114296 | [114296-evening-star-2.json](./114296-evening-star-2.json) |
