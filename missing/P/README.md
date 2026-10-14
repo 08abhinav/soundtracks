@@ -8967,6 +8967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pounce and the Twin Trees | 295349 | [295349-pounce-and-the-twin-trees.json](./295349-pounce-and-the-twin-trees.json) |
 | Pounce Cat | 212766 | [212766-pounce-cat.json](./212766-pounce-cat.json) |
 | Pound For Pound | 40400 | [40400-pound-for-pound.json](./40400-pound-for-pound.json) |
+| Pound of Flesh | 75714 | [75714-pound-of-flesh.json](./75714-pound-of-flesh.json) |
 | Poupée Girl DS | 122303 | [122303-poupee-girl-ds.json](./122303-poupee-girl-ds.json) |
 | Poupée Girl DS 2: Elegant Mint Style | 122302 | [122302-poupee-girl-ds-2-elegant-mint-style.json](./122302-poupee-girl-ds-2-elegant-mint-style.json) |
 | Poupou's Sausage Shop | 394114 | [394114-poupous-sausage-shop.json](./394114-poupous-sausage-shop.json) |
@@ -11801,6 +11802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Love | 368048 | [368048-pure-love.json](./368048-pure-love.json) |
 | Pure Mahjong | 119518 | [119518-pure-mahjong.json](./119518-pure-mahjong.json) |
 | Pure Metal: Feature 1 | 169288 | [169288-pure-metal-feature-1.json](./169288-pure-metal-feature-1.json) |
+| Pure Mind | 75669 | [75669-pure-mind.json](./75669-pure-mind.json) |
 | Pure Mini Golf | 188100 | [188100-pure-mini-golf.json](./188100-pure-mini-golf.json) |
 | Pure Nastalgia | 277034 | [277034-pure-nastalgia.json](./277034-pure-nastalgia.json) |
 | Pure Pinball 2.0 Redux | 51881 | [51881-pure-pinball-2-0-redux.json](./51881-pure-pinball-2-0-redux.json) |
