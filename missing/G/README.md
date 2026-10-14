@@ -1751,6 +1751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Setter | 176340 | [176340-gem-setter.json](./176340-gem-setter.json) |
 | Gem Shoot | 175344 | [175344-gem-shoot.json](./175344-gem-shoot.json) |
 | Gem Tower Defense 2 | 196510 | [196510-gem-tower-defense-2.json](./196510-gem-tower-defense-2.json) |
+| Gem Twyx | 88153 | [88153-gem-twyx.json](./88153-gem-twyx.json) |
 | Gem Venture | 217326 | [217326-gem-venture.json](./217326-gem-venture.json) |
 | Gem Wizard | 273489 | [273489-gem-wizard.json](./273489-gem-wizard.json) |
 | Gem Wizards Tactics | 142742 | [142742-gem-wizards-tactics.json](./142742-gem-wizards-tactics.json) |
@@ -2115,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gensou: Yumegogochi | 288429 | [288429-gensou-yumegogochi.json](./288429-gensou-yumegogochi.json) |
 | Gensouband | 252734 | [252734-gensouband.json](./252734-gensouband.json) |
 | Gensoumaden Saiyuuki: Sabaku no Shikami | 281456 | [281456-gensoumaden-saiyuuki-sabaku-no-shikami.json](./281456-gensoumaden-saiyuuki-sabaku-no-shikami.json) |
+| GensoYonbaiKen 2 | 88086 | [88086-gensoyonbaiken-2.json](./88086-gensoyonbaiken-2.json) |
 | Gent Stickman vs Evil Meat Hand | 290409 | [290409-gent-stickman-vs-evil-meat-hand.json](./290409-gent-stickman-vs-evil-meat-hand.json) |
 | Genting Party | 393123 | [393123-genting-party.json](./393123-genting-party.json) |
 | Gentle Female Boss | 276660 | [276660-gentle-female-boss.json](./276660-gentle-female-boss.json) |
@@ -4514,6 +4516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf98 | 123885 | [123885-golf98.json](./123885-golf98.json) |
 | GolFall: Make Your Way Up | 401166 | [401166-golfall-make-your-way-up.json](./401166-golfall-make-your-way-up.json) |
 | Golfaria | 318470 | [318470-golfaria.json](./318470-golfaria.json) |
+| GolfGurus | 88104 | [88104-golfgurus.json](./88104-golfgurus.json) |
 | Golfing Around | 108442 | [108442-golfing-around.json](./108442-golfing-around.json) |
 | Golfing Greats 2 | 222908 | [222908-golfing-greats-2.json](./222908-golfing-greats-2.json) |
 | Golfing In Aether: Dustbowl | 275124 | [275124-golfing-in-aether-dustbowl.json](./275124-golfing-in-aether-dustbowl.json) |
