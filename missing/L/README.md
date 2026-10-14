@@ -960,6 +960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Ruler of Vicissity | 236173 | [236173-last-ruler-of-vicissity.json](./236173-last-ruler-of-vicissity.json) |
 | Last Salvo | 76651 | [76651-last-salvo.json](./76651-last-salvo.json) |
 | Last Sapiens | 216471 | [216471-last-sapiens.json](./216471-last-sapiens.json) |
+| Last Scenario | 124549 | [124549-last-scenario.json](./124549-last-scenario.json) |
 | Last Second | 215338 | [215338-last-second.json](./215338-last-second.json) |
 | Last Second Save | 382898 | [382898-last-second-save.json](./382898-last-second-save.json) |
 | Last Seen Online | 281011 | [281011-last-seen-online.json](./281011-last-seen-online.json) |
@@ -1142,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laurel's Day | 393486 | [393486-laurels-day.json](./393486-laurels-day.json) |
 | Laureli: Blood-Dipped Manor | 382183 | [382183-laureli-blood-dipped-manor.json](./382183-laureli-blood-dipped-manor.json) |
 | Lauren's visit | 108066 | [108066-laurens-visit.json](./108066-laurens-visit.json) |
+| Laurum Online | 124544 | [124544-laurum-online.json](./124544-laurum-online.json) |
 | Lava Escape Mine | 168712 | [168712-lava-escape-mine.json](./168712-lava-escape-mine.json) |
 | Lava Fever | 22786 | [22786-lava-fever.json](./22786-lava-fever.json) |
 | Lava Friends | 176186 | [176186-lava-friends.json](./176186-lava-friends.json) |
@@ -3823,6 +3825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Big Workshop | 124131 | [124131-little-big-workshop.json](./124131-little-big-workshop.json) |
 | Little Big Workshop: The Evil | 155170 | [155170-little-big-workshop-the-evil.json](./155170-little-big-workshop-the-evil.json) |
 | Little Bill Thinks Big | 71805 | [71805-little-bill-thinks-big.json](./71805-little-bill-thinks-big.json) |
+| Little Bit Lost | 124554 | [124554-little-bit-lost.json](./124554-little-bit-lost.json) |
 | Little Bit War | 147259 | [147259-little-bit-war.json](./147259-little-bit-war.json) |
 | Little Bo Reap | 244308 | [244308-little-bo-reap.json](./244308-little-bo-reap.json) |
 | Little Boat River Rush | 232333 | [232333-little-boat-river-rush.json](./232333-little-boat-river-rush.json) |
