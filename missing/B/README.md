@@ -4820,6 +4820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bifrost: Heroes of Midgard | 197340 | [197340-bifrost-heroes-of-midgard.json](./197340-bifrost-heroes-of-midgard.json) |
 | Bifröst: Through the Realms | 247975 | [247975-bifrost-through-the-realms.json](./247975-bifrost-through-the-realms.json) |
 | Bifusion | 292057 | [292057-bifusion.json](./292057-bifusion.json) |
+| Big 4 Sports Trivia | 89050 | [89050-big-4-sports-trivia.json](./89050-big-4-sports-trivia.json) |
 | Big Adventure | 330271 | [330271-big-adventure.json](./330271-big-adventure.json) |
 | Big Adventure 5-in-1 Bundle | 328559 | [328559-big-adventure-5-in-1-bundle.json](./328559-big-adventure-5-in-1-bundle.json) |
 | Big Adventure of Fighting Chicken | 163848 | [163848-big-adventure-of-fighting-chicken.json](./163848-big-adventure-of-fighting-chicken.json) |
@@ -7781,6 +7782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Sango | 263595 | [263595-blue-sango.json](./263595-blue-sango.json) |
 | Blue Sign | 412477 | [412477-blue-sign.json](./412477-blue-sign.json) |
 | Blue Skies | 63858 | [63858-blue-skies.json](./63858-blue-skies.json) |
+| Blue Sky | 89068 | [89068-blue-sky.json](./89068-blue-sky.json) |
 | Blue Sky Arena | 208105 | [208105-blue-sky-arena.json](./208105-blue-sky-arena.json) |
 | Blue sky fighter | 129076 | [129076-blue-sky-fighter.json](./129076-blue-sky-fighter.json) |
 | Blue Snake Adventures: Master Level | 171332 | [171332-blue-snake-adventures-master-level.json](./171332-blue-snake-adventures-master-level.json) |
@@ -8230,6 +8232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolt Action Stealth | 277506 | [277506-bolt-action-stealth.json](./277506-bolt-action-stealth.json) |
 | Bolt Bot Screwy Viruses | 209777 | [209777-bolt-bot-screwy-viruses.json](./209777-bolt-bot-screwy-viruses.json) |
 | Bolt Riley, A Reggae Adventure: Chapter 1 | 36168 | [36168-bolt-riley-a-reggae-adventure-chapter-1.json](./36168-bolt-riley-a-reggae-adventure-chapter-1.json) |
+| Bolt Riley: A Reggae Adventure | 89052 | [89052-bolt-riley-a-reggae-adventure.json](./89052-bolt-riley-a-reggae-adventure.json) |
 | Bolt Runner | 298094 | [298094-bolt-runner.json](./298094-bolt-runner.json) |
 | Bolt: Be-Awesome Edition | 269667 | [269667-bolt-be-awesome-edition.json](./269667-bolt-be-awesome-edition.json) |
 | BoltBreak 2 | 276281 | [276281-boltbreak-2.json](./276281-boltbreak-2.json) |
@@ -9319,6 +9322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling in a Skate Park | 309002 | [309002-bowling-in-a-skate-park.json](./309002-bowling-in-a-skate-park.json) |
 | Bowling is a Fun Game | 134333 | [134333-bowling-is-a-fun-game.json](./134333-bowling-is-a-fun-game.json) |
 | Bowling Islands | 234616 | [234616-bowling-islands.json](./234616-bowling-islands.json) |
+| Bowling Lane 3D | 89038 | [89038-bowling-lane-3d.json](./89038-bowling-lane-3d.json) |
 | Bowling Mania | 206472 | [206472-bowling-mania.json](./206472-bowling-mania.json) |
 | Bowling Over It | 116091 | [116091-bowling-over-it.json](./116091-bowling-over-it.json) |
 | Bowling Party | 58257 | [58257-bowling-party.json](./58257-bowling-party.json) |
@@ -10856,6 +10860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Battle Blast 3D | 333051 | [333051-bubble-battle-blast-3d.json](./333051-bubble-battle-blast-3d.json) |
 | Bubble Bird | 250395 | [250395-bubble-bird.json](./250395-bubble-bird.json) |
 | Bubble Blast | 304262 | [304262-bubble-blast.json](./304262-bubble-blast.json) |
+| Bubble Blast Rescue | 89036 | [89036-bubble-blast-rescue.json](./89036-bubble-blast-rescue.json) |
 | Bubble Blaster DX | 314608 | [314608-bubble-blaster-dx.json](./314608-bubble-blaster-dx.json) |
 | Bubble Blobb | 386703 | [386703-bubble-blobb.json](./386703-bubble-blobb.json) |
 | Bubble Blow | 419835 | [419835-bubble-blow.json](./419835-bubble-blow.json) |
