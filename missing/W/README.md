@@ -492,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wangan Midnight Maximum Tune 3 | 68044 | [68044-wangan-midnight-maximum-tune-3.json](./68044-wangan-midnight-maximum-tune-3.json) |
 | Wangan Midnight Maximum Tune 3DX | 315268 | [315268-wangan-midnight-maximum-tune-3dx.json](./315268-wangan-midnight-maximum-tune-3dx.json) |
 | Wangan Midnight Maximum Tune 3DX+ | 315269 | [315269-wangan-midnight-maximum-tune-3dx.json](./315269-wangan-midnight-maximum-tune-3dx.json) |
+| Wangan Midnight Maximum Tune 5 | 91270 | [91270-wangan-midnight-maximum-tune-5.json](./91270-wangan-midnight-maximum-tune-5.json) |
 | Wangan Midnight Maximum Tune 5DX | 315270 | [315270-wangan-midnight-maximum-tune-5dx.json](./315270-wangan-midnight-maximum-tune-5dx.json) |
 | Wangan Midnight Maximum Tune 5DX+ | 315271 | [315271-wangan-midnight-maximum-tune-5dx.json](./315271-wangan-midnight-maximum-tune-5dx.json) |
 | Wangan Midnight Maximum Tune 6 | 112234 | [112234-wangan-midnight-maximum-tune-6.json](./112234-wangan-midnight-maximum-tune-6.json) |
@@ -2349,6 +2350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werewolf: The Apocalypse - Earthblood: The Exiled One | 146174 | [146174-werewolf-the-apocalypse-earthblood-the-exiled-one.json](./146174-werewolf-the-apocalypse-earthblood-the-exiled-one.json) |
 | Werewolf: The Gloaming Malice | 408095 | [408095-werewolf-the-gloaming-malice.json](./408095-werewolf-the-gloaming-malice.json) |
 | Werewolf: The Inner Beast | 390099 | [390099-werewolf-the-inner-beast.json](./390099-werewolf-the-inner-beast.json) |
+| Werewolves | 91266 | [91266-werewolves.json](./91266-werewolves.json) |
 | Werewolves 2: Pack Mentality | 130116 | [130116-werewolves-2-pack-mentality.json](./130116-werewolves-2-pack-mentality.json) |
 | Werewolves 3: Evolution's End | 282224 | [282224-werewolves-3-evolutions-end.json](./282224-werewolves-3-evolutions-end.json) |
 | Werewolves of London | 13046 | [13046-werewolves-of-london.json](./13046-werewolves-of-london.json) |
