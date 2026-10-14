@@ -548,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw: Legends of Mystery 6 | 212899 | [212899-1001-jigsaw-legends-of-mystery-6.json](./212899-1001-jigsaw-legends-of-mystery-6.json) |
 | 1001 Jigsaw: Wild Animals | 195447 | [195447-1001-jigsaw-wild-animals.json](./195447-1001-jigsaw-wild-animals.json) |
 | 1001 Jigsaw: World Tour - Asia | 102732 | [102732-1001-jigsaw-world-tour-asia.json](./102732-1001-jigsaw-world-tour-asia.json) |
+| 1001 Jigsaw: World Tour - Great America | 91255 | [91255-1001-jigsaw-world-tour-great-america.json](./91255-1001-jigsaw-world-tour-great-america.json) |
 | 1001 Jigsaw. World Tour Thailand | 256365 | [256365-1001-jigsaw-world-tour-thailand.json](./256365-1001-jigsaw-world-tour-thailand.json) |
 | 1001 Touch Games | 204246 | [204246-1001-touch-games.json](./204246-1001-touch-games.json) |
 | 1001 Ultimate Mahjong 2 | 111457 | [111457-1001-ultimate-mahjong-2.json](./111457-1001-ultimate-mahjong-2.json) |
@@ -1152,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 23 Miles Deep | 172555 | [172555-23-miles-deep.json](./172555-23-miles-deep.json) |
 | 2310 seconds in Hell | 189954 | [189954-2310-seconds-in-hell.json](./189954-2310-seconds-in-hell.json) |
 | 2351: Apocalypsis | 304667 | [304667-2351-apocalypsis.json](./304667-2351-apocalypsis.json) |
+| 24 Game | 91310 | [91310-24-game.json](./91310-24-game.json) |
 | 24 Games For Windows 95 | 116956 | [116956-24-games-for-windows-95.json](./116956-24-games-for-windows-95.json) |
 | 24 Hour Crime Scene: Travel Edition | 176826 | [176826-24-hour-crime-scene-travel-edition.json](./176826-24-hour-crime-scene-travel-edition.json) |
 | 24 Hours | 308346 | [308346-24-hours.json](./308346-24-hours.json) |
