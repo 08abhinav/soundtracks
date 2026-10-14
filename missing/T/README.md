@@ -5177,7 +5177,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Creature: Escape Room | 207538 | [207538-the-creature-escape-room.json](./207538-the-creature-escape-room.json) |
 | The Creeps! | 232581 | [232581-the-creeps.json](./232581-the-creeps.json) |
 | The Crevice | 275826 | [275826-the-crevice.json](./275826-the-crevice.json) |
+| The Crew 2: Deluxe Edition | 89836 | [89836-the-crew-2-deluxe-edition.json](./89836-the-crew-2-deluxe-edition.json) |
 | The Crew 2: Digital Deluxe Edition | 118708 | [118708-the-crew-2-digital-deluxe-edition.json](./118708-the-crew-2-digital-deluxe-edition.json) |
+| The Crew 2: Gold Edition | 89835 | [89835-the-crew-2-gold-edition.json](./89835-the-crew-2-gold-edition.json) |
 | The Crew 2: Special Edition | 161179 | [161179-the-crew-2-special-edition.json](./161179-the-crew-2-special-edition.json) |
 | The Crew 2: Steelbook Gold Edition | 122358 | [122358-the-crew-2-steelbook-gold-edition.json](./122358-the-crew-2-steelbook-gold-edition.json) |
 | The Crew Motorfest: JDM Custom Car Pack | 393736 | [393736-the-crew-motorfest-jdm-custom-car-pack.json](./393736-the-crew-motorfest-jdm-custom-car-pack.json) |
@@ -11431,6 +11433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spirit in the Woods | 201505 | [201505-the-spirit-in-the-woods.json](./201505-the-spirit-in-the-woods.json) |
 | The Spirit Lift | 217312 | [217312-the-spirit-lift.json](./217312-the-spirit-lift.json) |
 | The Spirit of the Samurai | 226037 | [226037-the-spirit-of-the-samurai.json](./226037-the-spirit-of-the-samurai.json) |
+| The Spirit of Twelve | 89820 | [89820-the-spirit-of-twelve.json](./89820-the-spirit-of-twelve.json) |
 | The Spirit Weaver | 361072 | [361072-the-spirit-weaver.json](./361072-the-spirit-weaver.json) |
 | The Spirit's Turnabout | 308532 | [308532-the-spirits-turnabout.json](./308532-the-spirits-turnabout.json) |
 | The Spiriting Away of Saooni Village | 373094 | [373094-the-spiriting-away-of-saooni-village.json](./373094-the-spiriting-away-of-saooni-village.json) |
@@ -16695,6 +16698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Wall-gai | 220301 | [220301-tokyo-wall-gai.json](./220301-tokyo-wall-gai.json) |
 | Tokyo Walled City | 402258 | [402258-tokyo-walled-city.json](./402258-tokyo-walled-city.json) |
 | Tokyo Xanadu eX+ | 26915 | [26915-tokyo-xanadu-ex.json](./26915-tokyo-xanadu-ex.json) |
+| Tokyo Xanadu eX+: Limited Edition | 89846 | [89846-tokyo-xanadu-ex-limited-edition.json](./89846-tokyo-xanadu-ex-limited-edition.json) |
 | Tokyo Xtreme Racer Advance | 49341 | [49341-tokyo-xtreme-racer-advance.json](./49341-tokyo-xtreme-racer-advance.json) |
 | Tokyo Xtreme Racer Drift | 44632 | [44632-tokyo-xtreme-racer-drift.json](./44632-tokyo-xtreme-racer-drift.json) |
 | Tokyo Xtreme Racer Drift 2 | 21441 | [21441-tokyo-xtreme-racer-drift-2.json](./21441-tokyo-xtreme-racer-drift-2.json) |
