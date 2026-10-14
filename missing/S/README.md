@@ -3303,6 +3303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek Girl: Charming Girl | 171014 | [171014-seek-girl-charming-girl.json](./171014-seek-girl-charming-girl.json) |
 | Seek Girl:Fog I | 137981 | [137981-seek-girl-fog-i.json](./137981-seek-girl-fog-i.json) |
 | Seek Magician | 144924 | [144924-seek-magician.json](./144924-seek-magician.json) |
+| Seek Not a Lighthouse | 75654 | [75654-seek-not-a-lighthouse.json](./75654-seek-not-a-lighthouse.json) |
 | Seek the Resources | 246365 | [246365-seek-the-resources.json](./246365-seek-the-resources.json) |
 | Seek Wife | 154402 | [154402-seek-wife.json](./154402-seek-wife.json) |
 | Seekboss | 285513 | [285513-seekboss.json](./285513-seekboss.json) |
@@ -10963,6 +10964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier in the darkness | 150773 | [150773-soldier-in-the-darkness.json](./150773-soldier-in-the-darkness.json) |
 | Soldier Killer | 54501 | [54501-soldier-killer.json](./54501-soldier-killer.json) |
 | Soldier of Failure 2 | 74356 | [74356-soldier-of-failure-2.json](./74356-soldier-of-failure-2.json) |
+| Soldier of Failure: Operation Zombie | 75653 | [75653-soldier-of-failure-operation-zombie.json](./75653-soldier-of-failure-operation-zombie.json) |
 | Soldier of Fortune | 135691 | [135691-soldier-of-fortune.json](./135691-soldier-of-fortune.json) |
 | Soldier of Fortune II: Double Helix - Gold Edition | 154525 | [154525-soldier-of-fortune-ii-double-helix-gold-edition.json](./154525-soldier-of-fortune-ii-double-helix-gold-edition.json) |
 | Soldier of Fortune: Gold Edition | 44642 | [44642-soldier-of-fortune-gold-edition.json](./44642-soldier-of-fortune-gold-edition.json) |
@@ -13675,6 +13677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacemen | 15696 | [15696-spacemen.json](./15696-spacemen.json) |
 | SpaceMerc | 55696 | [55696-spacemerc.json](./55696-spacemerc.json) |
 | SpaceNet: A Space Adventure | 169344 | [169344-spacenet-a-space-adventure.json](./169344-spacenet-a-space-adventure.json) |
+| SpacePig | 75650 | [75650-spacepig.json](./75650-spacepig.json) |
 | SpacePod | 142319 | [142319-spacepod.json](./142319-spacepod.json) |
 | SpacePom | 192367 | [192367-spacepom.json](./192367-spacepom.json) |
 | Spaceport Architect | 419992 | [419992-spaceport-architect.json](./419992-spaceport-architect.json) |
@@ -16351,6 +16354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek Online: Age of Discovery | 112101 | [112101-star-trek-online-age-of-discovery.json](./112101-star-trek-online-age-of-discovery.json) |
 | Star Trek Online: Agents of Yesterday | 23285 | [23285-star-trek-online-agents-of-yesterday.json](./23285-star-trek-online-agents-of-yesterday.json) |
 | Star Trek Online: Awakening | 121530 | [121530-star-trek-online-awakening.json](./121530-star-trek-online-awakening.json) |
+| Star Trek Online: Emergence | 75689 | [75689-star-trek-online-emergence.json](./75689-star-trek-online-emergence.json) |
 | Star Trek Online: Rise of Discovery | 120207 | [120207-star-trek-online-rise-of-discovery.json](./120207-star-trek-online-rise-of-discovery.json) |
 | Star Trek Online: Victory is Life | 113621 | [113621-star-trek-online-victory-is-life.json](./113621-star-trek-online-victory-is-life.json) |
 | Star Trek Pinball | 72149 | [72149-star-trek-pinball.json](./72149-star-trek-pinball.json) |
@@ -22070,6 +22074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Shogi | 42225 | [42225-super-shogi.json](./42225-super-shogi.json) |
 | Super Shogi 2 | 42224 | [42224-super-shogi-2.json](./42224-super-shogi-2.json) |
 | Super Shogi 3: Kitaihei | 42223 | [42223-super-shogi-3-kitaihei.json](./42223-super-shogi-3-kitaihei.json) |
+| Super Shoot Owl | 75664 | [75664-super-shoot-owl.json](./75664-super-shoot-owl.json) |
 | Super Shootout | 360582 | [360582-super-shootout.json](./360582-super-shootout.json) |
 | Super Shopper | 107809 | [107809-super-shopper.json](./107809-super-shopper.json) |
 | Super Sidekicks 2: The World Championship | 100707 | [100707-super-sidekicks-2-the-world-championship.json](./100707-super-sidekicks-2-the-world-championship.json) |
