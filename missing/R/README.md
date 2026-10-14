@@ -3483,6 +3483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reptile Park VR | 253863 | [253863-reptile-park-vr.json](./253863-reptile-park-vr.json) |
 | Reptile Rehab | 215323 | [215323-reptile-rehab.json](./215323-reptile-rehab.json) |
 | Reptile Silhouette | 361344 | [361344-reptile-silhouette.json](./361344-reptile-silhouette.json) |
+| Reptiles: In Hunt | 105171 | [105171-reptiles-in-hunt.json](./105171-reptiles-in-hunt.json) |
 | Reptilian Rising | 153846 | [153846-reptilian-rising.json](./153846-reptilian-rising.json) |
 | Reptillian Rebellion | 123610 | [123610-reptillian-rebellion.json](./123610-reptillian-rebellion.json) |
 | Reptiloids 2 | 334831 | [334831-reptiloids-2.json](./334831-reptiloids-2.json) |
