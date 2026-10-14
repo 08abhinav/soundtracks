@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T21:22:48.735Z",
-  "total_missing": 212288,
+  "generated_at": "2026-10-14T21:32:50.826Z",
+  "total_missing": 212275,
   "games": [
     {
       "igdb_id": 191680,
@@ -63430,11 +63430,6 @@
       "igdb_id": 407460,
       "game_name": "Astro Bot: Digital Deluxe Edition",
       "file": "missing/A/407460-astro-bot-digital-deluxe-edition.json"
-    },
-    {
-      "igdb_id": 102129,
-      "game_name": "Astro Bot: Rescue Mission",
-      "file": "missing/A/102129-astro-bot-rescue-mission.json"
     },
     {
       "igdb_id": 317620,
@@ -216187,11 +216182,6 @@
       "file": "missing/D/353364-death-and-tactics.json"
     },
     {
-      "igdb_id": 126835,
-      "game_name": "Death and Taxes",
-      "file": "missing/D/126835-death-and-taxes.json"
-    },
-    {
       "igdb_id": 235877,
       "game_name": "Death Angel Nightmare",
       "file": "missing/D/235877-death-angel-nightmare.json"
@@ -294575,11 +294565,6 @@
       "igdb_id": 145838,
       "game_name": "F1 2021",
       "file": "missing/F/145838-f1-2021.json"
-    },
-    {
-      "igdb_id": 198200,
-      "game_name": "F1 22",
-      "file": "missing/F/198200-f1-22.json"
     },
     {
       "igdb_id": 226843,
@@ -378392,11 +378377,6 @@
       "file": "missing/G/21989-guns-of-icarus-alliance.json"
     },
     {
-      "igdb_id": 3076,
-      "game_name": "Guns of Icarus Online",
-      "file": "missing/G/3076-guns-of-icarus-online.json"
-    },
-    {
       "igdb_id": 33440,
       "game_name": "Guns of Infinity",
       "file": "missing/G/33440-guns-of-infinity.json"
@@ -419660,11 +419640,6 @@
       "igdb_id": 391807,
       "game_name": "HuntCore",
       "file": "missing/H/391807-huntcore.json"
-    },
-    {
-      "igdb_id": 19728,
-      "game_name": "Huntdown",
-      "file": "missing/H/19728-huntdown.json"
     },
     {
       "igdb_id": 152327,
@@ -526867,11 +526842,6 @@
       "file": "missing/M/239157-mappy.json"
     },
     {
-      "igdb_id": 2710,
-      "game_name": "Mappy",
-      "file": "missing/M/2710-mappy.json"
-    },
-    {
       "igdb_id": 293754,
       "game_name": "Mappy",
       "file": "missing/M/293754-mappy.json"
@@ -579167,11 +579137,6 @@
       "file": "missing/M/233596-mullet-hell.json"
     },
     {
-      "igdb_id": 252445,
-      "game_name": "Mullet Madjack",
-      "file": "missing/M/252445-mullet-madjack.json"
-    },
-    {
       "igdb_id": 318218,
       "game_name": "Mullet Madjack: Deluxe Edition",
       "file": "missing/M/318218-mullet-madjack-deluxe-edition.json"
@@ -617222,11 +617187,6 @@
       "file": "missing/O/345484-observer-protocol-the-station-first-shift.json"
     },
     {
-      "igdb_id": 132165,
-      "game_name": "Observer: System Redux",
-      "file": "missing/O/132165-observer-system-redux.json"
-    },
-    {
       "igdb_id": 154532,
       "game_name": "Observer: System Redux - Deluxe Edition",
       "file": "missing/O/154532-observer-system-redux-deluxe-edition.json"
@@ -626145,11 +626105,6 @@
       "igdb_id": 11759,
       "game_name": "Onimusha: Dawn of Dreams",
       "file": "missing/O/11759-onimusha-dawn-of-dreams.json"
-    },
-    {
-      "igdb_id": 107292,
-      "game_name": "Onimusha: Warlords",
-      "file": "missing/O/107292-onimusha-warlords.json"
     },
     {
       "igdb_id": 294703,
@@ -767902,11 +767857,6 @@
       "file": "missing/S/319081-severed.json"
     },
     {
-      "igdb_id": 6066,
-      "game_name": "Severed",
-      "file": "missing/S/6066-severed.json"
-    },
-    {
       "igdb_id": 342754,
       "game_name": "Severed Love",
       "file": "missing/S/342754-severed-love.json"
@@ -884297,11 +884247,6 @@
       "file": "missing/T/142768-terminator-salvation.json"
     },
     {
-      "igdb_id": 4204,
-      "game_name": "Terminator Salvation",
-      "file": "missing/T/4204-terminator-salvation.json"
-    },
-    {
       "igdb_id": 287867,
       "game_name": "Terminator: Dark Fate",
       "file": "missing/T/287867-terminator-dark-fate.json"
@@ -908220,11 +908165,6 @@
       "igdb_id": 404922,
       "game_name": "The King of Fighters XIII: Nests Style Kyo",
       "file": "missing/T/404922-the-king-of-fighters-xiii-nests-style-kyo.json"
-    },
-    {
-      "igdb_id": 18814,
-      "game_name": "The King of Fighters XIV",
-      "file": "missing/T/18814-the-king-of-fighters-xiv.json"
     },
     {
       "igdb_id": 36636,
@@ -997530,11 +997470,6 @@
       "igdb_id": 263387,
       "game_name": "Vampire: The Masquerade - Blood Frontier",
       "file": "missing/V/263387-vampire-the-masquerade-blood-frontier.json"
-    },
-    {
-      "igdb_id": 152087,
-      "game_name": "Vampire: The Masquerade - Bloodhunt",
-      "file": "missing/V/152087-vampire-the-masquerade-bloodhunt.json"
     },
     {
       "igdb_id": 370209,
