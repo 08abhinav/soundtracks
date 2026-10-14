@@ -3866,6 +3866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN Let's Play Tennis | 37118 | [37118-espn-lets-play-tennis.json](./37118-espn-lets-play-tennis.json) |
 | ESPN Major League Baseball | 72275 | [72275-espn-major-league-baseball.json](./72275-espn-major-league-baseball.json) |
 | ESPN MLS ExtraTime 2002 | 3906 | [3906-espn-mls-extratime-2002.json](./3906-espn-mls-extratime-2002.json) |
+| ESPN MLS GameNight | 93462 | [93462-espn-mls-gamenight.json](./93462-espn-mls-gamenight.json) |
 | ESPN National Hockey Night | 370312 | [370312-espn-national-hockey-night.json](./370312-espn-national-hockey-night.json) |
 | ESPN National Hockey Night | 5381 | [5381-espn-national-hockey-night.json](./5381-espn-national-hockey-night.json) |
 | ESPN NBA 2Night | 78678 | [78678-espn-nba-2night.json](./78678-espn-nba-2night.json) |
