@@ -2208,6 +2208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indian Truck Simulator 3D | 214689 | [214689-indian-truck-simulator-3d.json](./214689-indian-truck-simulator-3d.json) |
 | Indiana Boy Steam Edition | 112930 | [112930-indiana-boy-steam-edition.json](./112930-indiana-boy-steam-edition.json) |
 | Indiana Jack | 94634 | [94634-indiana-jack.json](./94634-indiana-jack.json) |
+| Indiana Jones | 80377 | [80377-indiana-jones.json](./80377-indiana-jones.json) |
 | Indiana Jones and the Emperor's Tomb | 187 | [187-indiana-jones-and-the-emperors-tomb.json](./187-indiana-jones-and-the-emperors-tomb.json) |
 | Indiana Jones and the Fate of Atlantis: The Action Game | 12155 | [12155-indiana-jones-and-the-fate-of-atlantis-the-action-game.json](./12155-indiana-jones-and-the-fate-of-atlantis-the-action-game.json) |
 | Indiana Jones and The Great Circle: Collector's Edition | 317816 | [317816-indiana-jones-and-the-great-circle-collectors-edition.json](./317816-indiana-jones-and-the-great-circle-collectors-edition.json) |
