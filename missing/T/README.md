@@ -1584,6 +1584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanya Grotter And Magic Double Bass | 366377 | [366377-tanya-grotter-and-magic-double-bass.json](./366377-tanya-grotter-and-magic-double-bass.json) |
 | Tanzanite Crush | 282548 | [282548-tanzanite-crush.json](./282548-tanzanite-crush.json) |
 | TanZen HD | 100144 | [100144-tanzen-hd.json](./100144-tanzen-hd.json) |
+| Tanzer | 103245 | [103245-tanzer.json](./103245-tanzer.json) |
 | Tao | 58604 | [58604-tao.json](./58604-tao.json) |
 | Tao Taido | 39585 | [39585-tao-taido.json](./39585-tao-taido.json) |
 | Tao Yuan Shen Chu You Ren Jia | 283374 | [283374-tao-yuan-shen-chu-you-ren-jia.json](./283374-tao-yuan-shen-chu-you-ren-jia.json) |
@@ -1689,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TapColors | 89712 | [89712-tapcolors.json](./89712-tapcolors.json) |
 | Tape Art | 384207 | [384207-tape-art.json](./384207-tape-art.json) |
 | Tape Denial | 339415 | [339415-tape-denial.json](./339415-tape-denial.json) |
+| Tape it Up! | 103216 | [103216-tape-it-up.json](./103216-tape-it-up.json) |
 | Tape Recovery Simulator 96K | 152110 | [152110-tape-recovery-simulator-96k.json](./152110-tape-recovery-simulator-96k.json) |
 | Tape To Tape | 190280 | [190280-tape-to-tape.json](./190280-tape-to-tape.json) |
 | Tape Us Out | 332402 | [332402-tape-us-out.json](./332402-tape-us-out.json) |
@@ -2154,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teamkill | 191560 | [191560-teamkill.json](./191560-teamkill.json) |
 | TeamPlay | 163976 | [163976-teamplay.json](./163976-teamplay.json) |
 | TeamPunk | 232927 | [232927-teampunk.json](./232927-teampunk.json) |
+| TeamTanks | 103253 | [103253-teamtanks.json](./103253-teamtanks.json) |
 | TeamTower | 160255 | [160255-teamtower.json](./160255-teamtower.json) |
 | Teaparty in Candyworld | 357226 | [357226-teaparty-in-candyworld.json](./357226-teaparty-in-candyworld.json) |
 | Teapot Poppers | 146915 | [146915-teapot-poppers.json](./146915-teapot-poppers.json) |
@@ -6287,6 +6290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Few | 407334 | [407334-the-few.json](./407334-the-few.json) |
 | The Fiancée Has Never Known First Love | 370288 | [370288-the-fiancee-has-never-known-first-love.json](./370288-the-fiancee-has-never-known-first-love.json) |
 | The Fiancée Has Never Known First Love: Motto Iinazuke | 381329 | [381329-the-fiancee-has-never-known-first-love-motto-iinazuke.json](./381329-the-fiancee-has-never-known-first-love-motto-iinazuke.json) |
+| The Fibos: Cosmic Invasion | 103251 | [103251-the-fibos-cosmic-invasion.json](./103251-the-fibos-cosmic-invasion.json) |
 | The Fickle Hands of Fate | 231459 | [231459-the-fickle-hands-of-fate.json](./231459-the-fickle-hands-of-fate.json) |
 | The Fidelio Incident | 36707 | [36707-the-fidelio-incident.json](./36707-the-fidelio-incident.json) |
 | The Fidelity Chessmaster 2100 | 15875 | [15875-the-fidelity-chessmaster-2100.json](./15875-the-fidelity-chessmaster-2100.json) |
@@ -11593,6 +11597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Survivalists: Deluxe Edition | 173159 | [173159-the-survivalists-deluxe-edition.json](./173159-the-survivalists-deluxe-edition.json) |
 | The Survivor | 123491 | [123491-the-survivor.json](./123491-the-survivor.json) |
 | The Survivor After | 152879 | [152879-the-survivor-after.json](./152879-the-survivor-after.json) |
+| The Survivors | 103263 | [103263-the-survivors.json](./103263-the-survivors.json) |
 | The Survivors | 47142 | [47142-the-survivors.json](./47142-the-survivors.json) |
 | The Survivors: Battle Royale | 108808 | [108808-the-survivors-battle-royale.json](./108808-the-survivors-battle-royale.json) |
 | The Sushi Spinnery | 63346 | [63346-the-sushi-spinnery.json](./63346-the-sushi-spinnery.json) |
@@ -12737,6 +12742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Will of Dr. Frankenstein | 66715 | [66715-the-will-of-dr-frankenstein.json](./66715-the-will-of-dr-frankenstein.json) |
 | The Williams Family Sacrifice | 385860 | [385860-the-williams-family-sacrifice.json](./385860-the-williams-family-sacrifice.json) |
 | The Wind and the Wisp | 359994 | [359994-the-wind-and-the-wisp.json](./359994-the-wind-and-the-wisp.json) |
+| The Wind Road | 103314 | [103314-the-wind-road.json](./103314-the-wind-road.json) |
 | The Wind: A Story of Surrender | 152838 | [152838-the-wind-a-story-of-surrender.json](./152838-the-wind-a-story-of-surrender.json) |
 | The Wind's Disciple | 265935 | [265935-the-winds-disciple.json](./265935-the-winds-disciple.json) |
 | The Wind's Path | 333078 | [333078-the-winds-path.json](./333078-the-winds-path.json) |
@@ -16002,6 +16008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tired to Fall | 329225 | [329225-tired-to-fall.json](./329225-tired-to-fall.json) |
 | Tiredspace | 225717 | [225717-tiredspace.json](./225717-tiredspace.json) |
 | Tireless Pig | 219653 | [219653-tireless-pig.json](./219653-tireless-pig.json) |
+| Tireless: Prepare For the Adrenaline | 103279 | [103279-tireless-prepare-for-the-adrenaline.json](./103279-tireless-prepare-for-the-adrenaline.json) |
 | Tiresmoke | 103862 | [103862-tiresmoke.json](./103862-tiresmoke.json) |
 | Tirkiss ~Princess Shade~ | 60530 | [60530-tirkiss-princess-shade.json](./60530-tirkiss-princess-shade.json) |
 | TIS-100P | 197651 | [197651-tis-100p.json](./197651-tis-100p.json) |
@@ -21935,6 +21942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turok 2: Seeds of Evil | 146696 | [146696-turok-2-seeds-of-evil.json](./146696-turok-2-seeds-of-evil.json) |
 | Turok 3: Shadow of Oblivion | 1328 | [1328-turok-3-shadow-of-oblivion.json](./1328-turok-3-shadow-of-oblivion.json) |
 | Turok 3: Shadow of Oblivion | 142996 | [142996-turok-3-shadow-of-oblivion.json](./142996-turok-3-shadow-of-oblivion.json) |
+| Turok Bundle | 103215 | [103215-turok-bundle.json](./103215-turok-bundle.json) |
 | Turok Trilogy Bundle | 279028 | [279028-turok-trilogy-bundle.json](./279028-turok-trilogy-bundle.json) |
 | Turok: Dinosaur Hunter | 1321 | [1321-turok-dinosaur-hunter.json](./1321-turok-dinosaur-hunter.json) |
 | Turok: Evolution | 146695 | [146695-turok-evolution.json](./146695-turok-evolution.json) |
