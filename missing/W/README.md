@@ -3071,6 +3071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White : The Hero's Return | 216828 | [216828-white-the-heros-return.json](./216828-white-the-heros-return.json) |
 | White Album | 7481 | [7481-white-album.json](./7481-white-album.json) |
 | White Album 2: Closing Chapter | 79869 | [79869-white-album-2-closing-chapter.json](./79869-white-album-2-closing-chapter.json) |
+| White Album 2: Extended Edition | 124541 | [124541-white-album-2-extended-edition.json](./124541-white-album-2-extended-edition.json) |
 | White Album 2: Introductory Chapter | 79617 | [79617-white-album-2-introductory-chapter.json](./79617-white-album-2-introductory-chapter.json) |
 | White Album 2: Shiawase no Mukougawa | 79871 | [79871-white-album-2-shiawase-no-mukougawa.json](./79871-white-album-2-shiawase-no-mukougawa.json) |
 | White Album: Memories Like Falling Snow | 79870 | [79870-white-album-memories-like-falling-snow.json](./79870-white-album-memories-like-falling-snow.json) |
@@ -3415,6 +3416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Arms Alter Code: F | 1680 | [1680-wild-arms-alter-code-f.json](./1680-wild-arms-alter-code-f.json) |
 | Wild Arms XF | 1683 | [1683-wild-arms-xf.json](./1683-wild-arms-xf.json) |
 | Wild Bastards | 278602 | [278602-wild-bastards.json](./278602-wild-bastards.json) |
+| Wild Beyond | 124510 | [124510-wild-beyond.json](./124510-wild-beyond.json) |
 | Wild Beyond | 124696 | [124696-wild-beyond.json](./124696-wild-beyond.json) |
 | Wild Bird Hunter America | 88619 | [88619-wild-bird-hunter-america.json](./88619-wild-bird-hunter-america.json) |
 | Wild Blue Skies | 335296 | [335296-wild-blue-skies.json](./335296-wild-blue-skies.json) |
@@ -5624,6 +5626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Sweeper | 415917 | [415917-world-sweeper.json](./415917-world-sweeper.json) |
 | World Table Tennis Champs | 170409 | [170409-world-table-tennis-champs.json](./170409-world-table-tennis-champs.json) |
 | World Tennis Stars | 49349 | [49349-world-tennis-stars.json](./49349-world-tennis-stars.json) |
+| World to Build | 124533 | [124533-world-to-build.json](./124533-world-to-build.json) |
 | World to Conquer | 223624 | [223624-world-to-conquer.json](./223624-world-to-conquer.json) |
 | World to the West | 27518 | [27518-world-to-the-west.json](./27518-world-to-the-west.json) |
 | World Tour Fishing | 5805 | [5805-world-tour-fishing.json](./5805-world-tour-fishing.json) |
