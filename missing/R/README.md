@@ -2845,6 +2845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Deal Casino: Shuffle Master Edition | 77390 | [77390-reel-deal-casino-shuffle-master-edition.json](./77390-reel-deal-casino-shuffle-master-edition.json) |
 | Reel Deal Casino: Valley of the Kings | 209210 | [209210-reel-deal-casino-valley-of-the-kings.json](./209210-reel-deal-casino-valley-of-the-kings.json) |
 | Reel Deal Poker Challenge | 66727 | [66727-reel-deal-poker-challenge.json](./66727-reel-deal-poker-challenge.json) |
+| Reel Deal Slots Adventure | 131294 | [131294-reel-deal-slots-adventure.json](./131294-reel-deal-slots-adventure.json) |
 | Reel Deal Vegas Casino Experience | 77612 | [77612-reel-deal-vegas-casino-experience.json](./77612-reel-deal-vegas-casino-experience.json) |
 | Reel Fishing 3D Paradise | 84832 | [84832-reel-fishing-3d-paradise.json](./84832-reel-fishing-3d-paradise.json) |
 | Reel Fishing 3D Paradise Mini | 84831 | [84831-reel-fishing-3d-paradise-mini.json](./84831-reel-fishing-3d-paradise-mini.json) |
