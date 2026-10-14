@@ -1202,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Quazar | 39015 | [39015-captain-quazar.json](./39015-captain-quazar.json) |
 | Captain Rixot: Lost on Enceladus | 183840 | [183840-captain-rixot-lost-on-enceladus.json](./183840-captain-rixot-lost-on-enceladus.json) |
 | Captain Rocket | 344959 | [344959-captain-rocket.json](./344959-captain-rocket.json) |
+| Captain Sabertooth and the Treasure of Lama Rama | 101432 | [101432-captain-sabertooth-and-the-treasure-of-lama-rama.json](./101432-captain-sabertooth-and-the-treasure-of-lama-rama.json) |
 | Captain Scarlet | 83233 | [83233-captain-scarlet.json](./83233-captain-scarlet.json) |
 | Captain Slog | 60636 | [60636-captain-slog.json](./60636-captain-slog.json) |
 | Captain Speedfin | 391071 | [391071-captain-speedfin.json](./391071-captain-speedfin.json) |
@@ -4784,6 +4785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimera Custom XG | 253994 | [253994-chimera-custom-xg.json](./253994-chimera-custom-xg.json) |
 | Chimera Island | 254696 | [254696-chimera-island.json](./254696-chimera-island.json) |
 | Chimera of Tactics 1 | 93593 | [93593-chimera-of-tactics-1.json](./93593-chimera-of-tactics-1.json) |
+| Chimera of Tactics 2 | 101395 | [101395-chimera-of-tactics-2.json](./101395-chimera-of-tactics-2.json) |
 | Chimera of Tactics 3: Gun and Soccer | 110353 | [110353-chimera-of-tactics-3-gun-and-soccer.json](./110353-chimera-of-tactics-3-gun-and-soccer.json) |
 | Chimera Pro | 417355 | [417355-chimera-pro.json](./417355-chimera-pro.json) |
 | Chimeral Fantasy | 223506 | [223506-chimeral-fantasy.json](./223506-chimeral-fantasy.json) |
@@ -6321,6 +6323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash Quest | 145533 | [145533-clash-quest.json](./145533-clash-quest.json) |
 | Clash Royale | 15707 | [15707-clash-royale.json](./15707-clash-royale.json) |
 | Clash Vs. | 331362 | [331362-clash-vs.json](./331362-clash-vs.json) |
+| Clash Warlords | 101427 | [101427-clash-warlords.json](./101427-clash-warlords.json) |
 | Clash-Road | 46863 | [46863-clash-road.json](./46863-clash-road.json) |
 | Clash: Artifacts of Chaos - Lone Fighter Pack | 336141 | [336141-clash-artifacts-of-chaos-lone-fighter-pack.json](./336141-clash-artifacts-of-chaos-lone-fighter-pack.json) |
 | Clash: Artifacts of Chaos - Supporter Pack | 336137 | [336137-clash-artifacts-of-chaos-supporter-pack.json](./336137-clash-artifacts-of-chaos-supporter-pack.json) |
@@ -12846,6 +12849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cup of Ethanol | 249281 | [249281-cup-of-ethanol.json](./249281-cup-of-ethanol.json) |
 | Cupcake Baker | 87719 | [87719-cupcake-baker.json](./87719-cupcake-baker.json) |
 | Cupcake Clicker 4 | 231381 | [231381-cupcake-clicker-4.json](./231381-cupcake-clicker-4.json) |
+| Cupcake Doodle | 101424 | [101424-cupcake-doodle.json](./101424-cupcake-doodle.json) |
 | Cupcake House: Liv's cupcakes matching sweetness! | 252705 | [252705-cupcake-house-livs-cupcakes-matching-sweetness.json](./252705-cupcake-house-livs-cupcakes-matching-sweetness.json) |
 | Cupcake Remember | 190028 | [190028-cupcake-remember.json](./190028-cupcake-remember.json) |
 | Cupcake: an Apartment Adventure | 163818 | [163818-cupcake-an-apartment-adventure.json](./163818-cupcake-an-apartment-adventure.json) |
