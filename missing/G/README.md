@@ -1379,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gary Lineker's Hot-Shot! | 107607 | [107607-gary-linekers-hot-shot.json](./107607-gary-linekers-hot-shot.json) |
 | Gary the Gull | 33169 | [33169-gary-the-gull.json](./33169-gary-the-gull.json) |
 | Gary's Fortune Telling Tent | 318643 | [318643-garys-fortune-telling-tent.json](./318643-garys-fortune-telling-tent.json) |
+| Gary's Wild Adventure | 103920 | [103920-garys-wild-adventure.json](./103920-garys-wild-adventure.json) |
 | Gas Gas Rocket! | 289554 | [289554-gas-gas-rocket.json](./289554-gas-gas-rocket.json) |
 | Gas Guzzlers Extreme | 8472 | [8472-gas-guzzlers-extreme.json](./8472-gas-guzzlers-extreme.json) |
 | Gas Guzzlers Extreme: Full Metal Frenzy | 171503 | [171503-gas-guzzlers-extreme-full-metal-frenzy.json](./171503-gas-guzzlers-extreme-full-metal-frenzy.json) |
@@ -3338,6 +3339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Thermonuclear War | 382997 | [382997-global-thermonuclear-war.json](./382997-global-thermonuclear-war.json) |
 | Global Transport | 329388 | [329388-global-transport.json](./329388-global-transport.json) |
 | Global War | 79605 | [79605-global-war.json](./79605-global-war.json) |
+| GlobalMap Astro | 103944 | [103944-globalmap-astro.json](./103944-globalmap-astro.json) |
 | Globat Pixels | 115676 | [115676-globat-pixels.json](./115676-globat-pixels.json) |
 | Globber | 418528 | [418528-globber.json](./418528-globber.json) |
 | Globdule | 13067 | [13067-globdule.json](./13067-globdule.json) |
