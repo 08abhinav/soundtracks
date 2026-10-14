@@ -4266,6 +4266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europe Front Remastered | 357399 | [357399-europe-front-remastered.json](./357399-europe-front-remastered.json) |
 | Europe Heatwave Simulator | 409396 | [409396-europe-heatwave-simulator.json](./409396-europe-heatwave-simulator.json) |
 | European 2 | 70128 | [70128-european-2.json](./70128-european-2.json) |
+| European 5-A-Side | 92935 | [92935-european-5-a-side.json](./92935-european-5-a-side.json) |
 | European Air War | 685 | [685-european-air-war.json](./685-european-air-war.json) |
 | European Bus Simulator | 65267 | [65267-european-bus-simulator.json](./65267-european-bus-simulator.json) |
 | European Card Wars | 291229 | [291229-european-card-wars.json](./291229-european-card-wars.json) |
