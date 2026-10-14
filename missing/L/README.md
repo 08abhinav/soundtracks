@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.A. Noire: The Naked City | 117306 | [117306-l-a-noire-the-naked-city.json](./117306-l-a-noire-the-naked-city.json) |
 | L.A. Rush | 5899 | [5899-l-a-rush.json](./5899-l-a-rush.json) |
 | L.A.2 | 135900 | [135900-l-a-2.json](./135900-l-a-2.json) |
+| L.A.W. | 91855 | [91855-l-a-w.json](./91855-l-a-w.json) |
 | L.C.D. Bowling | 346111 | [346111-l-c-d-bowling.json](./346111-l-c-d-bowling.json) |
 | L.F.O. -Lost Future Omega- | 30207 | [30207-l-f-o-lost-future-omega.json](./30207-l-f-o-lost-future-omega.json) |
 | L.O.C.K. | 144364 | [144364-l-o-c-k.json](./144364-l-o-c-k.json) |
@@ -4385,6 +4386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizards Must Die: Victor Character | 288903 | [288903-lizards-must-die-victor-character.json](./288903-lizards-must-die-victor-character.json) |
 | Lizards VS Humans | 395100 | [395100-lizards-vs-humans.json](./395100-lizards-vs-humans.json) |
 | LizardSpock | 233012 | [233012-lizardspock.json](./233012-lizardspock.json) |
+| liZboa | 91869 | [91869-lizboa.json](./91869-lizboa.json) |
 | Lizzie McGuire 2: Lizzie Diaries | 49393 | [49393-lizzie-mcguire-2-lizzie-diaries.json](./49393-lizzie-mcguire-2-lizzie-diaries.json) |
 | Lizzie McGuire 3: Homecoming Havoc | 49392 | [49392-lizzie-mcguire-3-homecoming-havoc.json](./49392-lizzie-mcguire-3-homecoming-havoc.json) |
 | Lizzie McGuire: On the Go! | 49394 | [49394-lizzie-mcguire-on-the-go.json](./49394-lizzie-mcguire-on-the-go.json) |
@@ -4938,6 +4940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loom Path | 332831 | [332831-loom-path.json](./332831-loom-path.json) |
 | Loomchild | 418773 | [418773-loomchild.json](./418773-loomchild.json) |
 | Loona Landa | 271127 | [271127-loona-landa.json](./271127-loona-landa.json) |
+| Loondon | 91834 | [91834-loondon.json](./91834-loondon.json) |
 | Looney Tune Dash | 101947 | [101947-looney-tune-dash.json](./101947-looney-tune-dash.json) |
 | Looney Tunes | 265041 | [265041-looney-tunes.json](./265041-looney-tunes.json) |
 | Looney Tunes | 290324 | [290324-looney-tunes.json](./290324-looney-tunes.json) |
