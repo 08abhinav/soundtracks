@@ -13867,6 +13867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pony: Grand Puzzleventure | 220097 | [220097-my-little-pony-grand-puzzleventure.json](./220097-my-little-pony-grand-puzzleventure.json) |
 | My Little Pony: Harmony Quest | 138462 | [138462-my-little-pony-harmony-quest.json](./138462-my-little-pony-harmony-quest.json) |
 | My Little Pony: Magic Garden | 282122 | [282122-my-little-pony-magic-garden.json](./282122-my-little-pony-magic-garden.json) |
+| My Little Pony: Pinkie Pie's Party Parade | 76474 | [76474-my-little-pony-pinkie-pies-party-parade.json](./76474-my-little-pony-pinkie-pies-party-parade.json) |
 | My Little Pony: Pocket Ponies | 138461 | [138461-my-little-pony-pocket-ponies.json](./138461-my-little-pony-pocket-ponies.json) |
 | My Little Pony: Rainbow Runners | 138460 | [138460-my-little-pony-rainbow-runners.json](./138460-my-little-pony-rainbow-runners.json) |
 | My Little Pony: Story Creator | 138463 | [138463-my-little-pony-story-creator.json](./138463-my-little-pony-story-creator.json) |
@@ -14333,6 +14334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myrrh | 118375 | [118375-myrrh.json](./118375-myrrh.json) |
 | Myrtle Grove: A Clair V. Mystery | 388271 | [388271-myrtle-grove-a-clair-v-mystery.json](./388271-myrtle-grove-a-clair-v-mystery.json) |
 | Mysarium | 395148 | [395148-mysarium.json](./395148-mysarium.json) |
+| Myself; Yourself | 76454 | [76454-myself-yourself.json](./76454-myself-yourself.json) |
 | Myself;Yourself: Sorezore no Finale | 325278 | [325278-myself-yourself-sorezore-no-finale.json](./325278-myself-yourself-sorezore-no-finale.json) |
 | MySims | 2689 | [2689-mysims.json](./2689-mysims.json) |
 | MySims Agents | 5035 | [5035-mysims-agents.json](./5035-mysims-agents.json) |
