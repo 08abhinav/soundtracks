@@ -6668,6 +6668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disharmony | 196123 | [196123-disharmony.json](./196123-disharmony.json) |
 | DishDash | 389968 | [389968-dishdash.json](./389968-dishdash.json) |
 | Dishonest | 120934 | [120934-dishonest.json](./120934-dishonest.json) |
+| Dishonor Thy Neighbor | 105727 | [105727-dishonor-thy-neighbor.json](./105727-dishonor-thy-neighbor.json) |
 | Dishonored 2: Collector's Edition | 136269 | [136269-dishonored-2-collectors-edition.json](./136269-dishonored-2-collectors-edition.json) |
 | Dishonored 2: Limited Edition | 255606 | [255606-dishonored-2-limited-edition.json](./255606-dishonored-2-limited-edition.json) |
 | Dishonored 2: Steelbook Edition | 308562 | [308562-dishonored-2-steelbook-edition.json](./308562-dishonored-2-steelbook-edition.json) |
