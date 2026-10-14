@@ -11542,6 +11542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Super Pie Throwing | 322254 | [322254-the-super-pie-throwing.json](./322254-the-super-pie-throwing.json) |
 | The Super Robot Bros | 313134 | [313134-the-super-robot-bros.json](./313134-the-super-robot-bros.json) |
 | The Super Spy | 46838 | [46838-the-super-spy.json](./46838-the-super-spy.json) |
+| The Super Sucker II | 108812 | [108812-the-super-sucker-ii.json](./108812-the-super-sucker-ii.json) |
 | The Superfluous | 31953 | [31953-the-superfluous.json](./31953-the-superfluous.json) |
 | The Superfluous Sand | 133398 | [133398-the-superfluous-sand.json](./133398-the-superfluous-sand.json) |
 | The Superlatives: Aetherfall | 74668 | [74668-the-superlatives-aetherfall.json](./74668-the-superlatives-aetherfall.json) |
@@ -11568,6 +11569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Survivor | 123491 | [123491-the-survivor.json](./123491-the-survivor.json) |
 | The Survivor After | 152879 | [152879-the-survivor-after.json](./152879-the-survivor-after.json) |
 | The Survivors | 47142 | [47142-the-survivors.json](./47142-the-survivors.json) |
+| The Survivors: Battle Royale | 108808 | [108808-the-survivors-battle-royale.json](./108808-the-survivors-battle-royale.json) |
 | The Sushi Spinnery | 63346 | [63346-the-sushi-spinnery.json](./63346-the-sushi-spinnery.json) |
 | The Suspected Murder | 308911 | [308911-the-suspected-murder.json](./308911-the-suspected-murder.json) |
 | The Suspense | 333070 | [333070-the-suspense.json](./333070-the-suspense.json) |
@@ -20188,6 +20190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trasta | 128978 | [128978-trasta.json](./128978-trasta.json) |
 | Tratel64 | 75207 | [75207-tratel64.json](./75207-tratel64.json) |
 | Traulian: O Ultimo General | 293900 | [293900-traulian-o-ultimo-general.json](./293900-traulian-o-ultimo-general.json) |
+| Traum | 108888 | [108888-traum.json](./108888-traum.json) |
 | Traum | 89421 | [89421-traum.json](./89421-traum.json) |
 | Trauma | 15124 | [15124-trauma.json](./15124-trauma.json) |
 | Trauma | 180787 | [180787-trauma.json](./180787-trauma.json) |
@@ -22446,6 +22449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typing Ougi: Hokuto no Ken Gekiuchi | 64193 | [64193-typing-ougi-hokuto-no-ken-gekiuchi.json](./64193-typing-ougi-hokuto-no-ken-gekiuchi.json) |
 | Typing Quest | 144571 | [144571-typing-quest.json](./144571-typing-quest.json) |
 | Typing Shuugyou: Hokuto no Ken Gekiuchi Zero | 64189 | [64189-typing-shuugyou-hokuto-no-ken-gekiuchi-zero.json](./64189-typing-shuugyou-hokuto-no-ken-gekiuchi-zero.json) |
+| Typing Space Harrier | 108887 | [108887-typing-space-harrier.json](./108887-typing-space-harrier.json) |
 | Typing Stars | 322387 | [322387-typing-stars.json](./322387-typing-stars.json) |
 | Typing Tales | 373004 | [373004-typing-tales.json](./373004-typing-tales.json) |
 | Typing Warrior | 134563 | [134563-typing-warrior.json](./134563-typing-warrior.json) |
