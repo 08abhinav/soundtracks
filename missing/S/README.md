@@ -3923,6 +3923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Set Sail | 192458 | [192458-set-sail.json](./192458-set-sail.json) |
 | Set Yourself on Fire | 306616 | [306616-set-yourself-on-fire.json](./306616-set-yourself-on-fire.json) |
 | Setback | 198558 | [198558-setback.json](./198558-setback.json) |
+| Seterra | 130072 | [130072-seterra.json](./130072-seterra.json) |
 | Seth | 278380 | [278380-seth.json](./278380-seth.json) |
 | Seth Johnson's Sink or Skim | 82144 | [82144-seth-johnsons-sink-or-skim.json](./82144-seth-johnsons-sink-or-skim.json) |
 | Sethian | 26160 | [26160-sethian.json](./26160-sethian.json) |
@@ -5216,6 +5217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shenanigans | 216736 | [216736-shenanigans.json](./216736-shenanigans.json) |
 | Shenaniganza | 304561 | [304561-shenaniganza.json](./304561-shenaniganza.json) |
 | Shengnü Zhi Ge: Heroine Anthem - The Elect of Wassernixe | 80192 | [80192-shengnu-zhi-ge-heroine-anthem-the-elect-of-wassernixe.json](./80192-shengnu-zhi-ge-heroine-anthem-the-elect-of-wassernixe.json) |
+| Shèngshì Zhē Tiān | 130097 | [130097-shengshi-zhe-tian.json](./130097-shengshi-zhe-tian.json) |
 | Shēngwù Dàmàoxiǎn | 128326 | [128326-shengwu-damaoxian.json](./128326-shengwu-damaoxian.json) |
 | Shēngwù Zhīshì Gédòu Dàsài | 130968 | [130968-shengwu-zhishi-gedou-dasai.json](./130968-shengwu-zhishi-gedou-dasai.json) |
 | Shénhuà Zhànshì II: Shìjiè zhī Mí | 394205 | [394205-shenhua-zhanshi-ii-shijie-zhi-mi.json](./394205-shenhua-zhanshi-ii-shijie-zhi-mi.json) |
@@ -20776,6 +20778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Luigi Bros. | 198471 | [198471-super-luigi-bros.json](./198471-super-luigi-bros.json) |
 | Super Luigi Dreams | 135129 | [135129-super-luigi-dreams.json](./135129-super-luigi-dreams.json) |
 | Super Luigi Dreams 2: Tale of the Dream Stone | 323817 | [323817-super-luigi-dreams-2-tale-of-the-dream-stone.json](./323817-super-luigi-dreams-2-tale-of-the-dream-stone.json) |
+| Super Luigi Land | 130090 | [130090-super-luigi-land.json](./130090-super-luigi-land.json) |
 | Super Luigi Land Wii | 294783 | [294783-super-luigi-land-wii.json](./294783-super-luigi-land-wii.json) |
 | Super Luigi Odyssey | 282683 | [282683-super-luigi-odyssey.json](./282683-super-luigi-odyssey.json) |
 | Super Luigi Sunburn | 313428 | [313428-super-luigi-sunburn.json](./313428-super-luigi-sunburn.json) |
