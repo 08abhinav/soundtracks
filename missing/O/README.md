@@ -1367,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On the Hunt | 160065 | [160065-on-the-hunt.json](./160065-on-the-hunt.json) |
 | On the Job | 243786 | [243786-on-the-job.json](./243786-on-the-job.json) |
 | On the Keyboard | 316827 | [316827-on-the-keyboard.json](./316827-on-the-keyboard.json) |
+| On the line | 104508 | [104508-on-the-line.json](./104508-on-the-line.json) |
 | On the Move | 290329 | [290329-on-the-move.json](./290329-on-the-move.json) |
 | On the Other Side | 247927 | [247927-on-the-other-side.json](./247927-on-the-other-side.json) |
 | On the Peril of Parrots | 216968 | [216968-on-the-peril-of-parrots.json](./216968-on-the-peril-of-parrots.json) |
@@ -2795,6 +2796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origin Hunt | 180772 | [180772-origin-hunt.json](./180772-origin-hunt.json) |
 | Origin of Decay | 112498 | [112498-origin-of-decay.json](./112498-origin-of-decay.json) |
 | Origin of Destiny: Crimson Awakening | 33351 | [33351-origin-of-destiny-crimson-awakening.json](./33351-origin-of-destiny-crimson-awakening.json) |
+| Origin of Digital | 104557 | [104557-origin-of-digital.json](./104557-origin-of-digital.json) |
 | Origin of the Magic Book | 404363 | [404363-origin-of-the-magic-book.json](./404363-origin-of-the-magic-book.json) |
 | Origin Space | 52281 | [52281-origin-space.json](./52281-origin-space.json) |
 | Original Frisbee Disc Sports: Ultimate & Golf | 21449 | [21449-original-frisbee-disc-sports-ultimate-and-golf.json](./21449-original-frisbee-disc-sports-ultimate-and-golf.json) |
