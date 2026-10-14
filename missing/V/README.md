@@ -1126,6 +1126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertigo 2: Into the Aether | 325823 | [325823-vertigo-2-into-the-aether.json](./325823-vertigo-2-into-the-aether.json) |
 | Vertigo: Binaural Beats | 233063 | [233063-vertigo-binaural-beats.json](./233063-vertigo-binaural-beats.json) |
 | Vertigo: Remastered | 135121 | [135121-vertigo-remastered.json](./135121-vertigo-remastered.json) |
+| Vertigo! | 116908 | [116908-vertigo.json](./116908-vertigo.json) |
 | Vertigrowl | 338571 | [338571-vertigrowl.json](./338571-vertigrowl.json) |
 | Vertix.io | 58327 | [58327-vertix-io.json](./58327-vertix-io.json) |
 | Verto | 406318 | [406318-verto.json](./406318-verto.json) |
