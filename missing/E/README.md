@@ -1637,6 +1637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf Manor | 126422 | [126422-elf-manor.json](./126422-elf-manor.json) |
 | Elf no Oyome-san: Harem Kon Suishou | 416018 | [416018-elf-no-oyome-san-harem-kon-suishou.json](./416018-elf-no-oyome-san-harem-kon-suishou.json) |
 | Elf of Era! Idols Project | 394774 | [394774-elf-of-era-idols-project.json](./394774-elf-of-era-idols-project.json) |
+| Elf Pets: Virtual Reindeer | 95345 | [95345-elf-pets-virtual-reindeer.json](./95345-elf-pets-virtual-reindeer.json) |
 | Elf Shield | 279891 | [279891-elf-shield.json](./279891-elf-shield.json) |
 | Elf Survivor | 320830 | [320830-elf-survivor.json](./320830-elf-survivor.json) |
 | Elf-Mail | 178524 | [178524-elf-mail.json](./178524-elf-mail.json) |
@@ -3430,6 +3431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Labyrinth | 121457 | [121457-escape-from-labyrinth.json](./121457-escape-from-labyrinth.json) |
 | Escape From Lavender Island | 235991 | [235991-escape-from-lavender-island.json](./235991-escape-from-lavender-island.json) |
 | Escape From Lavender Town | 198333 | [198333-escape-from-lavender-town.json](./198333-escape-from-lavender-town.json) |
+| Escape from LaVille 2 | 95343 | [95343-escape-from-laville-2.json](./95343-escape-from-laville-2.json) |
 | Escape From Lesco | 312751 | [312751-escape-from-lesco.json](./312751-escape-from-lesco.json) |
 | Escape from Life Inc | 125739 | [125739-escape-from-life-inc.json](./125739-escape-from-life-inc.json) |
 | Escape From Lighthouse | 257341 | [257341-escape-from-lighthouse.json](./257341-escape-from-lighthouse.json) |
