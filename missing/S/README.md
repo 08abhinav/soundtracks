@@ -1763,6 +1763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scam Line | 379595 | [379595-scam-line.json](./379595-scam-line.json) |
 | Scam With Your Friends | 418295 | [418295-scam-with-your-friends.json](./418295-scam-with-your-friends.json) |
 | SCAMP 2025 | 376048 | [376048-scamp-2025.json](./376048-scamp-2025.json) |
+| Scamp: High Hat Havoc | 112695 | [112695-scamp-high-hat-havoc.json](./112695-scamp-high-hat-havoc.json) |
 | Scamperghost | 62241 | [62241-scamperghost.json](./62241-scamperghost.json) |
 | Scampr | 152788 | [152788-scampr.json](./152788-scampr.json) |
 | Scamster Kombat | 366931 | [366931-scamster-kombat.json](./366931-scamster-kombat.json) |
@@ -17961,6 +17962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Giant | 95852 | [95852-stone-giant.json](./95852-stone-giant.json) |
 | Stone Harbor | 57494 | [57494-stone-harbor.json](./57494-stone-harbor.json) |
 | Stone House Orphanage | 153127 | [153127-stone-house-orphanage.json](./153127-stone-house-orphanage.json) |
+| Stone In Galaxy | 112796 | [112796-stone-in-galaxy.json](./112796-stone-in-galaxy.json) |
 | Stone it! | 157422 | [157422-stone-it.json](./157422-stone-it.json) |
 | Stone of Destiny | 242796 | [242796-stone-of-destiny.json](./242796-stone-of-destiny.json) |
 | Stone River | 167602 | [167602-stone-river.json](./167602-stone-river.json) |
