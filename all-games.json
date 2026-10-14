@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T18:50:46.074Z",
-  "total_soundtracks": 1639,
+  "generated_at": "2026-10-14T18:51:00.801Z",
+  "total_soundtracks": 1640,
   "games": [
     {
       "igdb_id": 7522,
@@ -4745,6 +4745,20 @@
           "spotify_url": "https://open.spotify.com/album/6uvJvKD5z98wDl4haYoIMm",
           "apple_music_url": "https://music.apple.com/us/album/dishonored-death-of-the-outsider-original-game-soundtrack/1526283908",
           "album_link_url": "https://album.link/i/1526283908"
+        }
+      ]
+    },
+    {
+      "igdb_id": 191402,
+      "game_name": "Disney Speedstorm",
+      "game_url": "https://ostdb.net/games/disney-speedstorm",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27362fc320fd6a434c2a2069cca",
+      "albums": [
+        {
+          "album_name": "Disney Speedstorm (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/36IOis7iWcIQYL9OBXRpT8",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
