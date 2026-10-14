@@ -1340,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HaremRoid VR | 279668 | [279668-haremroid-vr.json](./279668-haremroid-vr.json) |
 | Hareshi Moyakana | 274989 | [274989-hareshi-moyakana.json](./274989-hareshi-moyakana.json) |
 | Hariti | 406882 | [406882-hariti.json](./406882-hariti.json) |
+| Harker | 79127 | [79127-harker.json](./79127-harker.json) |
 | Harlem Blade: The Greatest of All Time | 187208 | [187208-harlem-blade-the-greatest-of-all-time.json](./187208-harlem-blade-the-greatest-of-all-time.json) |
 | HarleQuest! | 246111 | [246111-harlequest.json](./246111-harlequest.json) |
 | Harlequin's Nightmare | 108817 | [108817-harlequins-nightmare.json](./108817-harlequins-nightmare.json) |
@@ -5780,6 +5781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holding Pattern | 389591 | [389591-holding-pattern.json](./389591-holding-pattern.json) |
 | Holdover | 125864 | [125864-holdover.json](./125864-holdover.json) |
 | Hole | 310931 | [310931-hole.json](./310931-hole.json) |
+| Hole | 79160 | [79160-hole.json](./79160-hole.json) |
 | Hole ASMR | 399641 | [399641-hole-asmr.json](./399641-hole-asmr.json) |
 | Hole Digging Game | 251719 | [251719-hole-digging-game.json](./251719-hole-digging-game.json) |
 | Hole Dweller | 333200 | [333200-hole-dweller.json](./333200-hole-dweller.json) |
