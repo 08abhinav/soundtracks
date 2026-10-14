@@ -8267,6 +8267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Together 2 | 287039 | [287039-pool-together-2.json](./287039-pool-together-2.json) |
 | Pool Together Bundle | 315842 | [315842-pool-together-bundle.json](./315842-pool-together-bundle.json) |
 | Pool Tour Master | 22379 | [22379-pool-tour-master.json](./22379-pool-tour-master.json) |
+| Pool Tour Masters | 110193 | [110193-pool-tour-masters.json](./110193-pool-tour-masters.json) |
 | Pool: 8 Ball Billiards | 173139 | [173139-pool-8-ball-billiards.json](./173139-pool-8-ball-billiards.json) |
 | Pool: 8 Ball Mania | 213386 | [213386-pool-8-ball-mania.json](./213386-pool-8-ball-mania.json) |
 | Pool:Shark | 14532 | [14532-pool-shark.json](./14532-pool-shark.json) |
@@ -10637,6 +10638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project SJHG | 320519 | [320519-project-sjhg.json](./320519-project-sjhg.json) |
 | Project SkyBlade (Working title) | 131475 | [131475-project-skyblade-working-title.json](./131475-project-skyblade-working-title.json) |
 | Project Skylab | 106509 | [106509-project-skylab.json](./106509-project-skylab.json) |
+| Project Skylab 2 | 110106 | [110106-project-skylab-2.json](./110106-project-skylab-2.json) |
 | Project Slippi | 319004 | [319004-project-slippi.json](./319004-project-slippi.json) |
 | Project Solaris | 325449 | [325449-project-solaris.json](./325449-project-solaris.json) |
 | Project Spaghetti | 60002 | [60002-project-spaghetti.json](./60002-project-spaghetti.json) |
@@ -12424,6 +12426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyrocast | 288762 | [288762-pyrocast.json](./288762-pyrocast.json) |
 | Pyromancer | 124580 | [124580-pyromancer.json](./124580-pyromancer.json) |
 | Pyromania | 325671 | [325671-pyromania.json](./325671-pyromania.json) |
+| Pyromaniacs | 110190 | [110190-pyromaniacs.json](./110190-pyromaniacs.json) |
 | PyroSlam: VR Table Tennis | 238359 | [238359-pyroslam-vr-table-tennis.json](./238359-pyroslam-vr-table-tennis.json) |
 | Pyrosynchist | 370690 | [370690-pyrosynchist.json](./370690-pyrosynchist.json) |
 | Pyrotechnica | 74029 | [74029-pyrotechnica.json](./74029-pyrotechnica.json) |
