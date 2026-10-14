@@ -2237,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump1000 | 189131 | [189131-jump1000.json](./189131-jump1000.json) |
 | Jump3Match | 184291 | [184291-jump3match.json](./184291-jump3match.json) |
 | Jumpah | 254755 | [254755-jumpah.json](./254755-jumpah.json) |
+| Jumpala | 131934 | [131934-jumpala.json](./131934-jumpala.json) |
 | JumpBeard | 199642 | [199642-jumpbeard.json](./199642-jumpbeard.json) |
 | Jumpbot | 120882 | [120882-jumpbot.json](./120882-jumpbot.json) |
 | Jumpbound | 365097 | [365097-jumpbound.json](./365097-jumpbound.json) |
