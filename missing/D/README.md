@@ -9321,6 +9321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Kobushi's Labyrinthine Laboratory | 190976 | [190976-dr-kobushis-labyrinthine-laboratory.json](./190976-dr-kobushis-labyrinthine-laboratory.json) |
 | Dr. Kyanta | 372649 | [372649-dr-kyanta.json](./372649-dr-kyanta.json) |
 | Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist | 14872 | [14872-dr-langeskov-the-tiger-and-the-terribly-cursed-emerald-a-whirlwind-heist.json](./14872-dr-langeskov-the-tiger-and-the-terribly-cursed-emerald-a-whirlwind-heist.json) |
+| Dr. Lunatic Supreme with Cheese | 79739 | [79739-dr-lunatic-supreme-with-cheese.json](./79739-dr-lunatic-supreme-with-cheese.json) |
 | Dr. Lunatic Supreme With Steam | 264664 | [264664-dr-lunatic-supreme-with-steam.json](./264664-dr-lunatic-supreme-with-steam.json) |
 | Dr. Lynch: Grave Secrets | 64718 | [64718-dr-lynch-grave-secrets.json](./64718-dr-lynch-grave-secrets.json) |
 | Dr. Mancell and Mr. Flame | 422124 | [422124-dr-mancell-and-mr-flame.json](./422124-dr-mancell-and-mr-flame.json) |
@@ -9673,6 +9674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Taiketsu | 2580 | [2580-dragon-ball-z-taiketsu.json](./2580-dragon-ball-z-taiketsu.json) |
 | Dragon Ball Z: Team Training | 203292 | [203292-dragon-ball-z-team-training.json](./203292-dragon-ball-z-team-training.json) |
 | Dragon Ball Z: The Legacy of Goku | 6387 | [6387-dragon-ball-z-the-legacy-of-goku.json](./6387-dragon-ball-z-the-legacy-of-goku.json) |
+| Dragon Ball Z: The Legacy of Goku I & II | 79751 | [79751-dragon-ball-z-the-legacy-of-goku-i-and-ii.json](./79751-dragon-ball-z-the-legacy-of-goku-i-and-ii.json) |
 | Dragon Ball Z: The Legacy of Goku II | 19834 | [19834-dragon-ball-z-the-legacy-of-goku-ii.json](./19834-dragon-ball-z-the-legacy-of-goku-ii.json) |
 | Dragon Ball Z: The Legacy Of Tenkaichi | 308554 | [308554-dragon-ball-z-the-legacy-of-tenkaichi.json](./308554-dragon-ball-z-the-legacy-of-tenkaichi.json) |
 | Dragon Ball Z: The Legend | 2579 | [2579-dragon-ball-z-the-legend.json](./2579-dragon-ball-z-the-legend.json) |
