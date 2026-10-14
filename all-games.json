@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T04:36:17.654Z",
-  "total_soundtracks": 1613,
+  "generated_at": "2026-10-14T04:36:32.049Z",
+  "total_soundtracks": 1614,
   "games": [
     {
       "igdb_id": 7522,
@@ -15711,6 +15711,20 @@
         {
           "album_name": "The Dark Pictures Anthology: The Devil in Me (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0aSOCzh6KpRgJ8HgQIS56d",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 35283,
+      "game_name": "The Darkside Detective",
+      "game_url": "https://ostdb.net/games/the-darkside-detective",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c445d5dd5041546028de6725",
+      "albums": [
+        {
+          "album_name": "The Darkside Detective (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/66hA1VJAD5Axcvaj7gsKn6",
           "apple_music_url": "",
           "album_link_url": ""
         }
