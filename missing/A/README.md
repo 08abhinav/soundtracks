@@ -4807,6 +4807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almond Ridge | 270753 | [270753-almond-ridge.json](./270753-almond-ridge.json) |
 | Almos a Dream Painter's Tale | 415125 | [415125-almos-a-dream-painters-tale.json](./415125-almos-a-dream-painters-tale.json) |
 | Almost | 244670 | [244670-almost.json](./244670-almost.json) |
+| Almost a Hero | 101454 | [101454-almost-a-hero.json](./101454-almost-a-hero.json) |
 | Almost Alive | 105356 | [105356-almost-alive.json](./105356-almost-alive.json) |
 | Almost Heroic | 179538 | [179538-almost-heroic.json](./179538-almost-heroic.json) |
 | Almost Impossible! | 58303 | [58303-almost-impossible.json](./58303-almost-impossible.json) |
@@ -5452,6 +5453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Catur | 187971 | [187971-american-catur.json](./187971-american-catur.json) |
 | American Christmas 2 | 258650 | [258650-american-christmas-2.json](./258650-american-christmas-2.json) |
 | American Civil War | 52582 | [52582-american-civil-war.json](./52582-american-civil-war.json) |
+| American Civil War Battles | 101433 | [101433-american-civil-war-battles.json](./101433-american-civil-war-battles.json) |
 | American Civil War Mod: Revived | 356166 | [356166-american-civil-war-mod-revived.json](./356166-american-civil-war-mod-revived.json) |
 | American Conquest: Anthology | 324664 | [324664-american-conquest-anthology.json](./324664-american-conquest-anthology.json) |
 | American Conquest: Divided Nation | 9361 | [9361-american-conquest-divided-nation.json](./9361-american-conquest-divided-nation.json) |
@@ -6470,6 +6472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Puzzle Cats | 225892 | [225892-animal-puzzle-cats.json](./225892-animal-puzzle-cats.json) |
 | Animal Puzzle for Kids and Toddlers | 300765 | [300765-animal-puzzle-for-kids-and-toddlers.json](./300765-animal-puzzle-for-kids-and-toddlers.json) |
 | Animal Puzzle World | 237364 | [237364-animal-puzzle-world.json](./237364-animal-puzzle-world.json) |
+| Animal Puzzle: Drag 'n' Drop | 101412 | [101412-animal-puzzle-drag-n-drop.json](./101412-animal-puzzle-drag-n-drop.json) |
 | Animal Puzzle: Preschool Learning Game for Kids and Toddlers | 165618 | [165618-animal-puzzle-preschool-learning-game-for-kids-and-toddlers.json](./165618-animal-puzzle-preschool-learning-game-for-kids-and-toddlers.json) |
 | Animal Race Run VR | 303155 | [303155-animal-race-run-vr.json](./303155-animal-race-run-vr.json) |
 | Animal Rescue | 169407 | [169407-animal-rescue.json](./169407-animal-rescue.json) |
@@ -8352,6 +8355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Shores | 343800 | [343800-arcane-shores.json](./343800-arcane-shores.json) |
 | Arcane Sorcery | 34548 | [34548-arcane-sorcery.json](./34548-arcane-sorcery.json) |
 | Arcane Soul | 193966 | [193966-arcane-soul.json](./193966-arcane-soul.json) |
+| Arcane Straight: Summoned Soul | 101406 | [101406-arcane-straight-summoned-soul.json](./101406-arcane-straight-summoned-soul.json) |
 | Arcane Survivors | 250825 | [250825-arcane-survivors.json](./250825-arcane-survivors.json) |
 | Arcane TD | 307297 | [307297-arcane-td.json](./307297-arcane-td.json) |
 | Arcane Tower | 175238 | [175238-arcane-tower.json](./175238-arcane-tower.json) |
@@ -8800,6 +8804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aria: Genesis | 234530 | [234530-aria-genesis.json](./234530-aria-genesis.json) |
 | ARia's Legacy | 102795 | [102795-arias-legacy.json](./102795-arias-legacy.json) |
 | Aria's Small Adventure! | 249345 | [249345-arias-small-adventure.json](./249345-arias-small-adventure.json) |
+| Aria's Story | 101405 | [101405-arias-story.json](./101405-arias-story.json) |
 | Ariadna's Bane | 119663 | [119663-ariadnas-bane.json](./119663-ariadnas-bane.json) |
 | Ariadne's Tale | 402895 | [402895-ariadnes-tale.json](./402895-ariadnes-tale.json) |
 | Ariana and the Elder Codex | 329725 | [329725-ariana-and-the-elder-codex.json](./329725-ariana-and-the-elder-codex.json) |
