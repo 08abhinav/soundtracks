@@ -4428,6 +4428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Resort Tycoon | 73296 | [73296-golf-resort-tycoon.json](./73296-golf-resort-tycoon.json) |
 | Golf Resort Tycoon II | 23465 | [23465-golf-resort-tycoon-ii.json](./23465-golf-resort-tycoon-ii.json) |
 | Golf Shiyou yo 2: Aratanaru Chousen | 317349 | [317349-golf-shiyou-yo-2-aratanaru-chousen.json](./317349-golf-shiyou-yo-2-aratanaru-chousen.json) |
+| Golf Shiyouyo | 113530 | [113530-golf-shiyouyo.json](./113530-golf-shiyouyo.json) |
 | Golf Solitaire | 366432 | [366432-golf-solitaire.json](./366432-golf-solitaire.json) |
 | Golf Solitaire Pro | 88299 | [88299-golf-solitaire-pro.json](./88299-golf-solitaire-pro.json) |
 | Golf Solitaire Simple | 186246 | [186246-golf-solitaire-simple.json](./186246-golf-solitaire-simple.json) |
