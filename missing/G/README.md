@@ -1477,6 +1477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gathera | 405563 | [405563-gathera.json](./405563-gathera.json) |
 | Gathering Our Childhoods | 249756 | [249756-gathering-our-childhoods.json](./249756-gathering-our-childhoods.json) |
 | GatherX | 362937 | [362937-gatherx.json](./362937-gatherx.json) |
+| Gatlin' | 122790 | [122790-gatlin.json](./122790-gatlin.json) |
 | Gato | 19702 | [19702-gato.json](./19702-gato.json) |
 | Gator Brigade | 321565 | [321565-gator-brigade.json](./321565-gator-brigade.json) |
 | Gator Parade | 123533 | [123533-gator-parade.json](./123533-gator-parade.json) |
@@ -3485,6 +3486,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomancer | 118426 | [118426-gnomancer.json](./118426-gnomancer.json) |
 | Gnomber | 288199 | [288199-gnomber.json](./288199-gnomber.json) |
 | Gnome | 250862 | [250862-gnome.json](./250862-gnome.json) |
+| Gnome 2048 | 122775 | [122775-gnome-2048.json](./122775-gnome-2048.json) |
+| Gnome Aisleriot | 122783 | [122783-gnome-aisleriot.json](./122783-gnome-aisleriot.json) |
+| Gnome Chess | 122754 | [122754-gnome-chess.json](./122754-gnome-chess.json) |
 | Gnome Enchanted Jigsaw Puzzles | 257388 | [257388-gnome-enchanted-jigsaw-puzzles.json](./257388-gnome-enchanted-jigsaw-puzzles.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 1 | 257390 | [257390-gnome-enchanted-jigsaw-puzzles-expansion-pack-1.json](./257390-gnome-enchanted-jigsaw-puzzles-expansion-pack-1.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 10 | 260755 | [260755-gnome-enchanted-jigsaw-puzzles-expansion-pack-10.json](./260755-gnome-enchanted-jigsaw-puzzles-expansion-pack-10.json) |
@@ -3493,13 +3497,28 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 4 | 258948 | [258948-gnome-enchanted-jigsaw-puzzles-expansion-pack-4.json](./258948-gnome-enchanted-jigsaw-puzzles-expansion-pack-4.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 9 | 260876 | [260876-gnome-enchanted-jigsaw-puzzles-expansion-pack-9.json](./260876-gnome-enchanted-jigsaw-puzzles-expansion-pack-9.json) |
 | Gnome Escape | 314409 | [314409-gnome-escape.json](./314409-gnome-escape.json) |
+| Gnome Five or More | 122767 | [122767-gnome-five-or-more.json](./122767-gnome-five-or-more.json) |
+| Gnome Four in a Row | 122777 | [122777-gnome-four-in-a-row.json](./122777-gnome-four-in-a-row.json) |
 | Gnome Gname | 185090 | [185090-gnome-gname.json](./185090-gnome-gname.json) |
 | Gnome Heist | 252097 | [252097-gnome-heist.json](./252097-gnome-heist.json) |
+| Gnome Hitori | 122781 | [122781-gnome-hitori.json](./122781-gnome-hitori.json) |
+| Gnome Iagno | 122772 | [122772-gnome-iagno.json](./122772-gnome-iagno.json) |
+| Gnome Klotski | 122758 | [122758-gnome-klotski.json](./122758-gnome-klotski.json) |
 | Gnome Lake | 112722 | [112722-gnome-lake.json](./112722-gnome-lake.json) |
 | Gnome Light | 54471 | [54471-gnome-light.json](./54471-gnome-light.json) |
+| Gnome Lights Off | 122773 | [122773-gnome-lights-off.json](./122773-gnome-lights-off.json) |
+| Gnome Mahjongg | 122768 | [122768-gnome-mahjongg.json](./122768-gnome-mahjongg.json) |
+| Gnome Mines | 122755 | [122755-gnome-mines.json](./122755-gnome-mines.json) |
 | Gnome Nations | 106595 | [106595-gnome-nations.json](./106595-gnome-nations.json) |
+| Gnome Nibbles | 122778 | [122778-gnome-nibbles.json](./122778-gnome-nibbles.json) |
 | Gnome Online | 199503 | [199503-gnome-online.json](./199503-gnome-online.json) |
 | Gnome Ranger | 15492 | [15492-gnome-ranger.json](./15492-gnome-ranger.json) |
+| Gnome Robots | 122779 | [122779-gnome-robots.json](./122779-gnome-robots.json) |
+| Gnome Sudoku | 122769 | [122769-gnome-sudoku.json](./122769-gnome-sudoku.json) |
+| Gnome Swell Foop | 122776 | [122776-gnome-swell-foop.json](./122776-gnome-swell-foop.json) |
+| Gnome Tali | 122780 | [122780-gnome-tali.json](./122780-gnome-tali.json) |
+| Gnome Taquin | 122782 | [122782-gnome-taquin.json](./122782-gnome-taquin.json) |
+| Gnome Tetravex | 122770 | [122770-gnome-tetravex.json](./122770-gnome-tetravex.json) |
 | Gnome Tournament | 149680 | [149680-gnome-tournament.json](./149680-gnome-tournament.json) |
 | Gnome Valley | 69485 | [69485-gnome-valley.json](./69485-gnome-valley.json) |
 | Gnomecart Havoc | 319006 | [319006-gnomecart-havoc.json](./319006-gnomecart-havoc.json) |
@@ -5672,6 +5691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Waves | 253371 | [253371-gravity-waves.json](./253371-gravity-waves.json) |
 | Gravity Well | 142317 | [142317-gravity-well.json](./142317-gravity-well.json) |
 | Gravity Well | 91588 | [91588-gravity-well.json](./91588-gravity-well.json) |
+| Gravity Zero Racing | 123319 | [123319-gravity-zero-racing.json](./123319-gravity-zero-racing.json) |
 | Gravity: Sylux's Crusade | 338822 | [338822-gravity-syluxs-crusade.json](./338822-gravity-syluxs-crusade.json) |
 | Gravity's Apple | 330920 | [330920-gravitys-apple.json](./330920-gravitys-apple.json) |
 | Gravity's Edge | 386942 | [386942-gravitys-edge.json](./386942-gravitys-edge.json) |
