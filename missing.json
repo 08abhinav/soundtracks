@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T13:19:42.644Z",
-  "total_missing": 210846,
+  "generated_at": "2026-10-14T13:34:40.184Z",
+  "total_missing": 210896,
   "games": [
     {
       "igdb_id": 191680,
@@ -1050,6 +1050,11 @@
       "igdb_id": 190045,
       "game_name": "1/2 Red Riding Hood",
       "file": "missing/0-9/190045-1-2-red-riding-hood.json"
+    },
+    {
+      "igdb_id": 98415,
+      "game_name": "1/2 Summer",
+      "file": "missing/0-9/98415-1-2-summer.json"
     },
     {
       "igdb_id": 210836,
@@ -3555,6 +3560,11 @@
       "igdb_id": 405725,
       "game_name": "13 Masca",
       "file": "missing/0-9/405725-13-masca.json"
+    },
+    {
+      "igdb_id": 98413,
+      "game_name": "13 Minutes of Light",
+      "file": "missing/0-9/98413-13-minutes-of-light.json"
     },
     {
       "igdb_id": 201304,
@@ -37092,6 +37102,11 @@
       "file": "missing/A/33200-amaranthine.json"
     },
     {
+      "igdb_id": 98344,
+      "game_name": "Amaranthine Voyage: Legacy of the Guardians",
+      "file": "missing/A/98344-amaranthine-voyage-legacy-of-the-guardians.json"
+    },
+    {
       "igdb_id": 416874,
       "game_name": "Amaranthine Voyage: Legacy of the Guardians - Collector's Edition",
       "file": "missing/A/416874-amaranthine-voyage-legacy-of-the-guardians-collectors-edition.json"
@@ -48517,6 +48532,11 @@
       "file": "missing/A/129803-apocalypse-z-survival.json"
     },
     {
+      "igdb_id": 98367,
+      "game_name": "Apocalypse Zombie Race",
+      "file": "missing/A/98367-apocalypse-zombie-race.json"
+    },
+    {
       "igdb_id": 5487,
       "game_name": "Apocalypse: Desire Next",
       "file": "missing/A/5487-apocalypse-desire-next.json"
@@ -58710,6 +58730,11 @@
       "igdb_id": 129107,
       "game_name": "As Far as the Eye",
       "file": "missing/A/129107-as-far-as-the-eye.json"
+    },
+    {
+      "igdb_id": 98326,
+      "game_name": "As If Dreaming When You're Wide Awake",
+      "file": "missing/A/98326-as-if-dreaming-when-youre-wide-awake.json"
     },
     {
       "igdb_id": 230322,
@@ -308237,6 +308262,11 @@
       "file": "missing/F/98381-final-cut-encore.json"
     },
     {
+      "igdb_id": 98370,
+      "game_name": "Final Cut: Fade to Black",
+      "file": "missing/F/98370-final-cut-fade-to-black.json"
+    },
+    {
       "igdb_id": 88468,
       "game_name": "Final Cut: Fame Fatale - A Hidden Object Adventure",
       "file": "missing/F/88468-final-cut-fame-fatale-a-hidden-object-adventure.json"
@@ -387047,6 +387077,11 @@
       "file": "missing/H/361830-he-man-and-the-masters-of-the-universe-dragon-pearl-of-destruction.json"
     },
     {
+      "igdb_id": 98329,
+      "game_name": "He-Man: Tappers of Grayskull",
+      "file": "missing/H/98329-he-man-tappers-of-grayskull.json"
+    },
+    {
       "igdb_id": 39210,
       "game_name": "He-Man: The Most Powerful Game in the Universe",
       "file": "missing/H/39210-he-man-the-most-powerful-game-in-the-universe.json"
@@ -400207,6 +400242,11 @@
       "file": "missing/H/100741-hidden-object-wedding-day.json"
     },
     {
+      "igdb_id": 98352,
+      "game_name": "Hidden Object: Age of the Dinosaurs",
+      "file": "missing/H/98352-hidden-object-age-of-the-dinosaurs.json"
+    },
+    {
       "igdb_id": 98401,
       "game_name": "Hidden Object: Aliens - The Arrival",
       "file": "missing/H/98401-hidden-object-aliens-the-arrival.json"
@@ -400337,6 +400377,11 @@
       "file": "missing/H/83628-hidden-object-enchanted-garden.json"
     },
     {
+      "igdb_id": 98328,
+      "game_name": "Hidden Object: Endangered Wildlife",
+      "file": "missing/H/98328-hidden-object-endangered-wildlife.json"
+    },
+    {
       "igdb_id": 98583,
       "game_name": "Hidden Object: Fairies of the Frost",
       "file": "missing/H/98583-hidden-object-fairies-of-the-frost.json"
@@ -400357,6 +400402,16 @@
       "file": "missing/H/98593-hidden-object-fairy-wonderland.json"
     },
     {
+      "igdb_id": 98362,
+      "game_name": "Hidden Object: Fantasy Forest",
+      "file": "missing/H/98362-hidden-object-fantasy-forest.json"
+    },
+    {
+      "igdb_id": 98363,
+      "game_name": "Hidden Object: Fantasy Land",
+      "file": "missing/H/98363-hidden-object-fantasy-land.json"
+    },
+    {
       "igdb_id": 98387,
       "game_name": "Hidden Object: Faries Trail",
       "file": "missing/H/98387-hidden-object-faries-trail.json"
@@ -400372,6 +400427,11 @@
       "file": "missing/H/65782-hidden-object-food.json"
     },
     {
+      "igdb_id": 98364,
+      "game_name": "Hidden Object: Forest Haven",
+      "file": "missing/H/98364-hidden-object-forest-haven.json"
+    },
+    {
       "igdb_id": 83634,
       "game_name": "Hidden Object: Furball Adventures",
       "file": "missing/H/83634-hidden-object-furball-adventures.json"
@@ -400382,14 +400442,34 @@
       "file": "missing/H/83627-hidden-object-garden-paradise.json"
     },
     {
+      "igdb_id": 98357,
+      "game_name": "Hidden Object: Garden Party",
+      "file": "missing/H/98357-hidden-object-garden-party.json"
+    },
+    {
+      "igdb_id": 98358,
+      "game_name": "Hidden Object: Ghost Hunt",
+      "file": "missing/H/98358-hidden-object-ghost-hunt.json"
+    },
+    {
       "igdb_id": 200196,
       "game_name": "Hidden Object: Ghost of King Black Magic",
       "file": "missing/H/200196-hidden-object-ghost-of-king-black-magic.json"
     },
     {
+      "igdb_id": 98359,
+      "game_name": "Hidden Object: Ghostly Night",
+      "file": "missing/H/98359-hidden-object-ghostly-night.json"
+    },
+    {
       "igdb_id": 240197,
       "game_name": "Hidden Object: Golden Trails - Secret of the Princess",
       "file": "missing/H/240197-hidden-object-golden-trails-secret-of-the-princess.json"
+    },
+    {
+      "igdb_id": 98360,
+      "game_name": "Hidden Object: Halloween Time",
+      "file": "missing/H/98360-hidden-object-halloween-time.json"
     },
     {
       "igdb_id": 98591,
@@ -400422,6 +400502,11 @@
       "file": "missing/H/98562-hidden-object-haunted-museum.json"
     },
     {
+      "igdb_id": 98361,
+      "game_name": "Hidden Object: Holidays",
+      "file": "missing/H/98361-hidden-object-holidays.json"
+    },
+    {
       "igdb_id": 83630,
       "game_name": "Hidden Object: Home Kitchen",
       "file": "missing/H/83630-hidden-object-home-kitchen.json"
@@ -400430,6 +400515,11 @@
       "igdb_id": 83625,
       "game_name": "Hidden Object: Home Sweet Home",
       "file": "missing/H/83625-hidden-object-home-sweet-home.json"
+    },
+    {
+      "igdb_id": 98354,
+      "game_name": "Hidden Object: Hugs & Cuddles",
+      "file": "missing/H/98354-hidden-object-hugs-and-cuddles.json"
     },
     {
       "igdb_id": 233248,
@@ -400442,14 +400532,34 @@
       "file": "missing/H/208008-hidden-object-hunters-for-the-secret.json"
     },
     {
+      "igdb_id": 98355,
+      "game_name": "Hidden Object: I Love My Job",
+      "file": "missing/H/98355-hidden-object-i-love-my-job.json"
+    },
+    {
       "igdb_id": 82170,
       "game_name": "Hidden Object: Imagination",
       "file": "missing/H/82170-hidden-object-imagination.json"
     },
     {
+      "igdb_id": 98353,
+      "game_name": "Hidden Object: Journey into the Wilderness",
+      "file": "missing/H/98353-hidden-object-journey-into-the-wilderness.json"
+    },
+    {
       "igdb_id": 82162,
       "game_name": "Hidden Object: Land of Dreams",
       "file": "missing/H/82162-hidden-object-land-of-dreams.json"
+    },
+    {
+      "igdb_id": 98350,
+      "game_name": "Hidden Object: Let the Dogs Out",
+      "file": "missing/H/98350-hidden-object-let-the-dogs-out.json"
+    },
+    {
+      "igdb_id": 98349,
+      "game_name": "Hidden Object: Lost Princess",
+      "file": "missing/H/98349-hidden-object-lost-princess.json"
     },
     {
       "igdb_id": 98582,
@@ -400462,9 +400572,19 @@
       "file": "missing/H/83632-hidden-object-magic-of-easter.json"
     },
     {
+      "igdb_id": 98347,
+      "game_name": "Hidden Object: Magician's Quest",
+      "file": "missing/H/98347-hidden-object-magicians-quest.json"
+    },
+    {
       "igdb_id": 71206,
       "game_name": "Hidden Object: Manor Fable",
       "file": "missing/H/71206-hidden-object-manor-fable.json"
+    },
+    {
+      "igdb_id": 98348,
+      "game_name": "Hidden Object: Marionettes Dolls on Strings",
+      "file": "missing/H/98348-hidden-object-marionettes-dolls-on-strings.json"
     },
     {
       "igdb_id": 200198,
@@ -400480,6 +400600,11 @@
       "igdb_id": 83624,
       "game_name": "Hidden Object: Mother Nature",
       "file": "missing/H/83624-hidden-object-mother-nature.json"
+    },
+    {
+      "igdb_id": 98345,
+      "game_name": "Hidden Object: Mouseheart",
+      "file": "missing/H/98345-hidden-object-mouseheart.json"
     },
     {
       "igdb_id": 98394,
@@ -400527,6 +400652,11 @@
       "file": "missing/H/98585-hidden-object-nether-worlds.json"
     },
     {
+      "igdb_id": 98346,
+      "game_name": "Hidden Object: Party 2015",
+      "file": "missing/H/98346-hidden-object-party-2015.json"
+    },
+    {
       "igdb_id": 98589,
       "game_name": "Hidden Object: Pot O' Gold",
       "file": "missing/H/98589-hidden-object-pot-o-gold.json"
@@ -400542,9 +400672,29 @@
       "file": "missing/H/98578-hidden-object-pumpkin-patch.json"
     },
     {
+      "igdb_id": 98343,
+      "game_name": "Hidden Object: Rapunzel",
+      "file": "missing/H/98343-hidden-object-rapunzel.json"
+    },
+    {
+      "igdb_id": 98342,
+      "game_name": "Hidden Object: Sakura Garden",
+      "file": "missing/H/98342-hidden-object-sakura-garden.json"
+    },
+    {
+      "igdb_id": 98340,
+      "game_name": "Hidden Object: Scared Sweet",
+      "file": "missing/H/98340-hidden-object-scared-sweet.json"
+    },
+    {
       "igdb_id": 82166,
       "game_name": "Hidden Object: Sherlock",
       "file": "missing/H/82166-hidden-object-sherlock.json"
+    },
+    {
+      "igdb_id": 98341,
+      "game_name": "Hidden Object: Soulmates",
+      "file": "missing/H/98341-hidden-object-soulmates.json"
     },
     {
       "igdb_id": 98568,
@@ -400557,14 +400707,39 @@
       "file": "missing/H/98567-hidden-object-stars-and-stripes.json"
     },
     {
+      "igdb_id": 98338,
+      "game_name": "Hidden Object: Steam City",
+      "file": "missing/H/98338-hidden-object-steam-city.json"
+    },
+    {
       "igdb_id": 98580,
       "game_name": "Hidden Object: Strange Places",
       "file": "missing/H/98580-hidden-object-strange-places.json"
     },
     {
+      "igdb_id": 98339,
+      "game_name": "Hidden Object: Summer's End",
+      "file": "missing/H/98339-hidden-object-summers-end.json"
+    },
+    {
+      "igdb_id": 98321,
+      "game_name": "Hidden Object: That's Amore",
+      "file": "missing/H/98321-hidden-object-thats-amore.json"
+    },
+    {
       "igdb_id": 98395,
       "game_name": "Hidden Object: The Birds from Aviary",
       "file": "missing/H/98395-hidden-object-the-birds-from-aviary.json"
+    },
+    {
+      "igdb_id": 98336,
+      "game_name": "Hidden Object: The Fox Says",
+      "file": "missing/H/98336-hidden-object-the-fox-says.json"
+    },
+    {
+      "igdb_id": 98351,
+      "game_name": "Hidden Object: The Lost Islands",
+      "file": "missing/H/98351-hidden-object-the-lost-islands.json"
     },
     {
       "igdb_id": 98563,
@@ -400575,6 +400750,11 @@
       "igdb_id": 98564,
       "game_name": "Hidden Object: The Mystery of Zion",
       "file": "missing/H/98564-hidden-object-the-mystery-of-zion.json"
+    },
+    {
+      "igdb_id": 98356,
+      "game_name": "Hidden Object: The World of Icarus",
+      "file": "missing/H/98356-hidden-object-the-world-of-icarus.json"
     },
     {
       "igdb_id": 98548,
@@ -400590,6 +400770,11 @@
       "igdb_id": 98584,
       "game_name": "Hidden Object: Tick Tock",
       "file": "missing/H/98584-hidden-object-tick-tock.json"
+    },
+    {
+      "igdb_id": 98335,
+      "game_name": "Hidden Object: Tomorrowland - The Land of Machines",
+      "file": "missing/H/98335-hidden-object-tomorrowland-the-land-of-machines.json"
     },
     {
       "igdb_id": 98549,
@@ -400617,6 +400802,11 @@
       "file": "missing/H/233224-hidden-object-underground-treasures-gold.json"
     },
     {
+      "igdb_id": 98332,
+      "game_name": "Hidden Object: Urban Legends",
+      "file": "missing/H/98332-hidden-object-urban-legends.json"
+    },
+    {
       "igdb_id": 267337,
       "game_name": "Hidden Object: Victoria & Steve Vikings Adventures",
       "file": "missing/H/267337-hidden-object-victoria-and-steve-vikings-adventures.json"
@@ -400627,6 +400817,11 @@
       "file": "missing/H/98571-hidden-object-werewolves-the-nightwalkers.json"
     },
     {
+      "igdb_id": 98327,
+      "game_name": "Hidden Object: Wild Fantasy",
+      "file": "missing/H/98327-hidden-object-wild-fantasy.json"
+    },
+    {
       "igdb_id": 83633,
       "game_name": "Hidden Object: Wishful Thinking",
       "file": "missing/H/83633-hidden-object-wishful-thinking.json"
@@ -400635,6 +400830,11 @@
       "igdb_id": 98588,
       "game_name": "Hidden Object: Wolves",
       "file": "missing/H/98588-hidden-object-wolves.json"
+    },
+    {
+      "igdb_id": 98324,
+      "game_name": "Hidden Object: Wonderland",
+      "file": "missing/H/98324-hidden-object-wonderland.json"
     },
     {
       "igdb_id": 98547,
@@ -554177,6 +554377,11 @@
       "file": "missing/M/260153-mini-garden-cafe.json"
     },
     {
+      "igdb_id": 98365,
+      "game_name": "Mini Gold Coop",
+      "file": "missing/M/98365-mini-gold-coop.json"
+    },
+    {
       "igdb_id": 209506,
       "game_name": "Mini Golf",
       "file": "missing/M/209506-mini-golf.json"
@@ -606697,6 +606902,11 @@
       "file": "missing/N/50549-noddy-and-the-birthday-party.json"
     },
     {
+      "igdb_id": 98333,
+      "game_name": "Noddy in Toyland",
+      "file": "missing/N/98333-noddy-in-toyland.json"
+    },
+    {
       "igdb_id": 49388,
       "game_name": "Noddy: A Day in Toyland",
       "file": "missing/N/49388-noddy-a-day-in-toyland.json"
@@ -617270,6 +617480,11 @@
       "igdb_id": 191667,
       "game_name": "Omega Chronos",
       "file": "missing/O/191667-omega-chronos.json"
+    },
+    {
+      "igdb_id": 98337,
+      "game_name": "Omega Commando",
+      "file": "missing/O/98337-omega-commando.json"
     },
     {
       "igdb_id": 236174,
@@ -629870,6 +630085,11 @@
       "igdb_id": 54906,
       "game_name": "Outside World",
       "file": "missing/O/54906-outside-world.json"
+    },
+    {
+      "igdb_id": 98325,
+      "game_name": "Outside World: Remembered",
+      "file": "missing/O/98325-outside-world-remembered.json"
     },
     {
       "igdb_id": 185453,
@@ -651242,6 +651462,11 @@
       "file": "missing/P/99031-piano-play-3d.json"
     },
     {
+      "igdb_id": 98323,
+      "game_name": "Piano Simulator",
+      "file": "missing/P/98323-piano-simulator.json"
+    },
+    {
       "igdb_id": 108266,
       "game_name": "Piano Star!",
       "file": "missing/P/108266-piano-star.json"
@@ -657945,6 +658170,11 @@
       "igdb_id": 110811,
       "game_name": "PitterPot",
       "file": "missing/P/110811-pitterpot.json"
+    },
+    {
+      "igdb_id": 98322,
+      "game_name": "Pittsfield",
+      "file": "missing/P/98322-pittsfield.json"
     },
     {
       "igdb_id": 368657,
@@ -666795,6 +667025,11 @@
       "igdb_id": 225732,
       "game_name": "Pocohontos",
       "file": "missing/P/225732-pocohontos.json"
+    },
+    {
+      "igdb_id": 98331,
+      "game_name": "Pocolon Dungeon",
+      "file": "missing/P/98331-pocolon-dungeon.json"
     },
     {
       "igdb_id": 262944,
@@ -694935,6 +695170,11 @@
       "igdb_id": 419999,
       "game_name": "Qtz",
       "file": "missing/Q/419999-qtz.json"
+    },
+    {
+      "igdb_id": 98330,
+      "game_name": "Qū Mèi: Jiàohuà",
+      "file": "missing/Q/98330-qu-mei-jiaohua.json"
     },
     {
       "igdb_id": 147306,
@@ -723797,6 +724037,11 @@
       "file": "missing/R/335323-rimfolk.json"
     },
     {
+      "igdb_id": 98366,
+      "game_name": "Rimo-Cocoron",
+      "file": "missing/R/98366-rimo-cocoron.json"
+    },
+    {
       "igdb_id": 345469,
       "game_name": "RimPark: A Burning World",
       "file": "missing/R/345469-rimpark-a-burning-world.json"
@@ -727265,6 +727510,11 @@
       "igdb_id": 67617,
       "game_name": "Roary the Racing Car: Rollin' Road",
       "file": "missing/R/67617-roary-the-racing-car-rollin-road.json"
+    },
+    {
+      "igdb_id": 98368,
+      "game_name": "Roast Party",
+      "file": "missing/R/98368-roast-party.json"
     },
     {
       "igdb_id": 154091,
