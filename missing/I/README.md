@@ -3635,6 +3635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion UAC | 257528 | [257528-invasion-uac.json](./257528-invasion-uac.json) |
 | Invasion VS | 58640 | [58640-invasion-vs.json](./58640-invasion-vs.json) |
 | Invasion Waves | 200578 | [200578-invasion-waves.json](./200578-invasion-waves.json) |
+| Invasion Zero | 114239 | [114239-invasion-zero.json](./114239-invasion-zero.json) |
 | Invasion: Battlefield | 88600 | [88600-invasion-battlefield.json](./88600-invasion-battlefield.json) |
 | Invasion: Brain Craving | 33942 | [33942-invasion-brain-craving.json](./33942-invasion-brain-craving.json) |
 | Invasion: Neo Earth | 188423 | [188423-invasion-neo-earth.json](./188423-invasion-neo-earth.json) |
@@ -4290,6 +4291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isotiles 2 | 118983 | [118983-isotiles-2.json](./118983-isotiles-2.json) |
 | Isotope: ASH | 217235 | [217235-isotope-ash.json](./217235-isotope-ash.json) |
 | Isotopia | 284423 | [284423-isotopia.json](./284423-isotopia.json) |
+| Isotower | 114217 | [114217-isotower.json](./114217-isotower.json) |
 | Isowords | 238397 | [238397-isowords.json](./238397-isowords.json) |
 | IsoWords | 254170 | [254170-isowords.json](./254170-isowords.json) |
 | iSpot Japan | 85197 | [85197-ispot-japan.json](./85197-ispot-japan.json) |
@@ -4505,6 +4507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ivan "Ironman" Stewart's Super Off Road | 198932 | [198932-ivan-ironman-stewarts-super-off-road.json](./198932-ivan-ironman-stewarts-super-off-road.json) |
 | Ivan Poe | 367499 | [367499-ivan-poe.json](./367499-ivan-poe.json) |
 | Ivanoile ~ Christalixeur Corruption | 119023 | [119023-ivanoile-christalixeur-corruption.json](./119023-ivanoile-christalixeur-corruption.json) |
+| Ivanych vs Eared Beast | 114204 | [114204-ivanych-vs-eared-beast.json](./114204-ivanych-vs-eared-beast.json) |
 | IVAO: International Virtual Aviation Organisation | 140908 | [140908-ivao-international-virtual-aviation-organisation.json](./140908-ivao-international-virtual-aviation-organisation.json) |
 | Ivaxion | 265051 | [265051-ivaxion.json](./265051-ivaxion.json) |
 | Ivilyn Kingdoms | 391142 | [391142-ivilyn-kingdoms.json](./391142-ivilyn-kingdoms.json) |
