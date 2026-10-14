@@ -760,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 15 Minutes | 355071 | [355071-15-minutes.json](./355071-15-minutes.json) |
 | 15 Minutes At The World's End | 265616 | [265616-15-minutes-at-the-worlds-end.json](./265616-15-minutes-at-the-worlds-end.json) |
 | 15 Minutes Dungeon | 255026 | [255026-15-minutes-dungeon.json](./255026-15-minutes-dungeon.json) |
+| 15 Move Hole Puzzle | 94162 | [94162-15-move-hole-puzzle.json](./94162-15-move-hole-puzzle.json) |
 | 15 Years a Doomer | 262260 | [262260-15-years-a-doomer.json](./262260-15-years-a-doomer.json) |
 | 15 ﾠ | 240102 | [240102-15.json](./240102-15.json) |
 | 15-in-1 Mega Bundle | 396436 | [396436-15-in-1-mega-bundle.json](./396436-15-in-1-mega-bundle.json) |
@@ -1204,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2D Dogfight: World War II - Eastern Front and Pacific | 276268 | [276268-2d-dogfight-world-war-ii-eastern-front-and-pacific.json](./276268-2d-dogfight-world-war-ii-eastern-front-and-pacific.json) |
 | 2D Flight Simulator | 135061 | [135061-2d-flight-simulator.json](./135061-2d-flight-simulator.json) |
 | 2D Heroes | 59646 | [59646-2d-heroes.json](./59646-2d-heroes.json) |
+| 2D House of Terror | 94164 | [94164-2d-house-of-terror.json](./94164-2d-house-of-terror.json) |
 | 2D Indie Bundle | 301007 | [301007-2d-indie-bundle.json](./301007-2d-indie-bundle.json) |
 | 2D Knock-Out | 326747 | [326747-2d-knock-out.json](./326747-2d-knock-out.json) |
 | 2D Owen | 134578 | [134578-2d-owen.json](./134578-2d-owen.json) |
