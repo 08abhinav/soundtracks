@@ -5936,6 +5936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Renewal Morroblivion | 254473 | [254473-the-elder-scrolls-renewal-morroblivion.json](./254473-the-elder-scrolls-renewal-morroblivion.json) |
 | The Elder Scrolls Renewal: Skywind | 143732 | [143732-the-elder-scrolls-renewal-skywind.json](./143732-the-elder-scrolls-renewal-skywind.json) |
 | The Elder Scrolls Travels: Dawnstar | 47571 | [47571-the-elder-scrolls-travels-dawnstar.json](./47571-the-elder-scrolls-travels-dawnstar.json) |
+| The Elder Scrolls Travels: Oblivion | 77202 | [77202-the-elder-scrolls-travels-oblivion.json](./77202-the-elder-scrolls-travels-oblivion.json) |
 | The Elder Scrolls Travels: Shadowkey | 6262 | [6262-the-elder-scrolls-travels-shadowkey.json](./6262-the-elder-scrolls-travels-shadowkey.json) |
 | The Elder Scrolls Travels: Stormhold | 23756 | [23756-the-elder-scrolls-travels-stormhold.json](./23756-the-elder-scrolls-travels-stormhold.json) |
 | The Elder Scrolls V: Skyrim | 37034 | [37034-the-elder-scrolls-v-skyrim.json](./37034-the-elder-scrolls-v-skyrim.json) |
@@ -8270,6 +8271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Train: Final Ride | 175364 | [175364-the-last-train-final-ride.json](./175364-the-last-train-final-ride.json) |
 | The Last Transmission | 356685 | [356685-the-last-transmission.json](./356685-the-last-transmission.json) |
 | The Last Vampire | 293315 | [293315-the-last-vampire.json](./293315-the-last-vampire.json) |
+| The Last Vampire | 77173 | [77173-the-last-vampire.json](./77173-the-last-vampire.json) |
 | The Last Vampire Hunter | 301279 | [301279-the-last-vampire-hunter.json](./301279-the-last-vampire-hunter.json) |
 | The Last Veggies | 253319 | [253319-the-last-veggies.json](./253319-the-last-veggies.json) |
 | The Last Vikings | 56282 | [56282-the-last-vikings.json](./56282-the-last-vikings.json) |
@@ -13985,6 +13987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thursday Nite Thunkin' | 260176 | [260176-thursday-nite-thunkin.json](./260176-thursday-nite-thunkin.json) |
 | Thwack | 221080 | [221080-thwack.json](./221080-thwack.json) |
 | Thwackity Puttz | 197227 | [197227-thwackity-puttz.json](./197227-thwackity-puttz.json) |
+| Thwocker | 77185 | [77185-thwocker.json](./77185-thwocker.json) |
 | Thy Dungeonman | 132037 | [132037-thy-dungeonman.json](./132037-thy-dungeonman.json) |
 | Thy Dungeonman 1 & 2 for Playdate | 262461 | [262461-thy-dungeonman-1-and-2-for-playdate.json](./262461-thy-dungeonman-1-and-2-for-playdate.json) |
 | Thy Dungeonman 3 | 135847 | [135847-thy-dungeonman-3.json](./135847-thy-dungeonman-3.json) |
@@ -18633,6 +18636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Story 3 | 230554 | [230554-toy-story-3.json](./230554-toy-story-3.json) |
 | Toy Story 3 | 287629 | [287629-toy-story-3.json](./287629-toy-story-3.json) |
 | Toy Story 3 | 408990 | [408990-toy-story-3.json](./408990-toy-story-3.json) |
+| Toy Story 3 | 77156 | [77156-toy-story-3.json](./77156-toy-story-3.json) |
 | Toy Story 3: The Video Game | 202117 | [202117-toy-story-3-the-video-game.json](./202117-toy-story-3-the-video-game.json) |
 | Toy Story Activity Center | 79896 | [79896-toy-story-activity-center.json](./79896-toy-story-activity-center.json) |
 | Toy Story Drop! | 116973 | [116973-toy-story-drop.json](./116973-toy-story-drop.json) |
