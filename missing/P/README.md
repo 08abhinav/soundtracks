@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Eat Bamboo | 326100 | [326100-panda-eat-bamboo.json](./326100-panda-eat-bamboo.json) |
 | Panda Go | 275118 | [275118-panda-go.json](./275118-panda-go.json) |
 | Panda Golf 2 | 261714 | [261714-panda-golf-2.json](./261714-panda-golf-2.json) |
+| Panda Hero | 112813 | [112813-panda-hero.json](./112813-panda-hero.json) |
 | Panda Hero: Remastered | 143054 | [143054-panda-hero-remastered.json](./143054-panda-hero-remastered.json) |
 | Panda in the clouds | 165645 | [165645-panda-in-the-clouds.json](./165645-panda-in-the-clouds.json) |
 | Panda Jump | 147846 | [147846-panda-jump.json](./147846-panda-jump.json) |
@@ -2415,6 +2416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peace on Earth | 398662 | [398662-peace-on-earth.json](./398662-peace-on-earth.json) |
 | Peace Park | 262352 | [262352-peace-park.json](./262352-peace-park.json) |
 | Peace, Death! 2 | 158078 | [158078-peace-death-2.json](./158078-peace-death-2.json) |
+| Peace, Death! Complete Edition | 112814 | [112814-peace-death-complete-edition.json](./112814-peace-death-complete-edition.json) |
 | Peacebringer | 338750 | [338750-peacebringer.json](./338750-peacebringer.json) |
 | Peaceful Dog Escape | 231923 | [231923-peaceful-dog-escape.json](./231923-peaceful-dog-escape.json) |
 | Peaceful Fishing Story | 390502 | [390502-peaceful-fishing-story.json](./390502-peaceful-fishing-story.json) |
@@ -5702,6 +5704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Sangokushi | 200730 | [200730-pixel-sangokushi.json](./200730-pixel-sangokushi.json) |
 | Pixel Shield | 110518 | [110518-pixel-shield.json](./110518-pixel-shield.json) |
 | Pixel Shinobi | 373089 | [373089-pixel-shinobi.json](./373089-pixel-shinobi.json) |
+| Pixel Ship Shooter | 112833 | [112833-pixel-ship-shooter.json](./112833-pixel-ship-shooter.json) |
 | Pixel Shooter | 44111 | [44111-pixel-shooter.json](./44111-pixel-shooter.json) |
 | Pixel Shooter Infinity | 193712 | [193712-pixel-shooter-infinity.json](./193712-pixel-shooter-infinity.json) |
 | Pixel Skater | 190205 | [190205-pixel-skater.json](./190205-pixel-skater.json) |
