@@ -1416,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vietnam War: Platoons | 105999 | [105999-vietnam-war-platoons.json](./105999-vietnam-war-platoons.json) |
 | Vietnam Warrior: Against the US Invasion | 380126 | [380126-vietnam-warrior-against-the-us-invasion.json](./380126-vietnam-warrior-against-the-us-invasion.json) |
 | Vietnam: Black Ops | 78703 | [78703-vietnam-black-ops.json](./78703-vietnam-black-ops.json) |
+| Vietnam: Ho Chi Minh Trail | 94632 | [94632-vietnam-ho-chi-minh-trail.json](./94632-vietnam-ho-chi-minh-trail.json) |
 | ViewerFrenzy | 415492 | [415492-viewerfrenzy.json](./415492-viewerfrenzy.json) |
 | Viewergames Racing | 139242 | [139242-viewergames-racing.json](./139242-viewergames-racing.json) |
 | Viewfinder | 142549 | [142549-viewfinder.json](./142549-viewfinder.json) |
@@ -2869,6 +2870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vylan | 157088 | [157088-vylan.json](./157088-vylan.json) |
 | Vyper | 130799 | [130799-vyper.json](./130799-vyper.json) |
 | Vyperspace | 181231 | [181231-vyperspace.json](./181231-vyperspace.json) |
+| Vyrox | 94665 | [94665-vyrox.json](./94665-vyrox.json) |
 | Vyruz: Destruction of the Untel Empire | 112224 | [112224-vyruz-destruction-of-the-untel-empire.json](./112224-vyruz-destruction-of-the-untel-empire.json) |
 | Vysions | 290957 | [290957-vysions.json](./290957-vysions.json) |
 | Vythzkel of City Dinasty | 338557 | [338557-vythzkel-of-city-dinasty.json](./338557-vythzkel-of-city-dinasty.json) |
