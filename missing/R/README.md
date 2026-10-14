@@ -3746,10 +3746,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Revelations 2 - Episode 4: Metamorphosis | 116027 | [116027-resident-evil-revelations-2-episode-4-metamorphosis.json](./116027-resident-evil-revelations-2-episode-4-metamorphosis.json) |
 | Resident Evil: Revelations 2 - Extra Episode 2: Little Miss | 116029 | [116029-resident-evil-revelations-2-extra-episode-2-little-miss.json](./116029-resident-evil-revelations-2-extra-episode-2-little-miss.json) |
 | Resident Evil: Seamless HD Project | 322044 | [322044-resident-evil-seamless-hd-project.json](./322044-resident-evil-seamless-hd-project.json) |
+| Resident Evil: Super Bundle | 99513 | [99513-resident-evil-super-bundle.json](./99513-resident-evil-super-bundle.json) |
 | Resident Evil: Survival Unit | 352832 | [352832-resident-evil-survival-unit.json](./352832-resident-evil-survival-unit.json) |
 | Resident Evil: Survivor Redux | 313129 | [313129-resident-evil-survivor-redux.json](./313129-resident-evil-survivor-redux.json) |
 | Resident Evil: The Darkside Chronicles | 497 | [497-resident-evil-the-darkside-chronicles.json](./497-resident-evil-the-darkside-chronicles.json) |
 | Resident Evil: The Mercenaries 3D | 976 | [976-resident-evil-the-mercenaries-3d.json](./976-resident-evil-the-mercenaries-3d.json) |
+| Resident Evil: Triple Pack | 99534 | [99534-resident-evil-triple-pack.json](./99534-resident-evil-triple-pack.json) |
 | Resident Evil: Uprising | 225578 | [225578-resident-evil-uprising.json](./225578-resident-evil-uprising.json) |
 | Resident Evil: Wesker Rebirth | 313202 | [313202-resident-evil-wesker-rebirth.json](./313202-resident-evil-wesker-rebirth.json) |
 | Resident Fear 2 | 314975 | [314975-resident-fear-2.json](./314975-resident-fear-2.json) |
@@ -6047,6 +6049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotragedy | 171546 | [171546-robotragedy.json](./171546-robotragedy.json) |
 | Robotragedy 2: Countdown to Doomsday | 171548 | [171548-robotragedy-2-countdown-to-doomsday.json](./171548-robotragedy-2-countdown-to-doomsday.json) |
 | RoboTraps | 43429 | [43429-robotraps.json](./43429-robotraps.json) |
+| RobotRiot: Hyper Edition | 99491 | [99491-robotriot-hyper-edition.json](./99491-robotriot-hyper-edition.json) |
 | Robotron: 2084 | 3592 | [3592-robotron-2084.json](./3592-robotron-2084.json) |
 | Robots | 176770 | [176770-robots.json](./176770-robots.json) |
 | Robots 2 Unknown World | 105369 | [105369-robots-2-unknown-world.json](./105369-robots-2-unknown-world.json) |
