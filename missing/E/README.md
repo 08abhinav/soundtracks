@@ -2615,6 +2615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ener-G Dance Squad | 47921 | [47921-ener-g-dance-squad.json](./47921-ener-g-dance-squad.json) |
 | Ener-G Gym Rockets | 47912 | [47912-ener-g-gym-rockets.json](./47912-ener-g-gym-rockets.json) |
 | Ener-G: Modern Dance | 201272 | [201272-ener-g-modern-dance.json](./201272-ener-g-modern-dance.json) |
+| Energie-Manager | 94659 | [94659-energie-manager.json](./94659-energie-manager.json) |
 | Energy | 230354 | [230354-energy.json](./230354-energy.json) |
 | Energy | 63332 | [63332-energy.json](./63332-energy.json) |
 | Energy Airforce: aimStrike! | 142143 | [142143-energy-airforce-aimstrike.json](./142143-energy-airforce-aimstrike.json) |
@@ -3868,6 +3869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN National Hockey Night | 370312 | [370312-espn-national-hockey-night.json](./370312-espn-national-hockey-night.json) |
 | ESPN National Hockey Night | 5381 | [5381-espn-national-hockey-night.json](./5381-espn-national-hockey-night.json) |
 | ESPN NBA 2Night | 78678 | [78678-espn-nba-2night.json](./78678-espn-nba-2night.json) |
+| ESPN NBA Basketball 2004 | 94616 | [94616-espn-nba-basketball-2004.json](./94616-espn-nba-basketball-2004.json) |
 | ESPN NFL 2K4 | 43471 | [43471-espn-nfl-2k4.json](./43471-espn-nfl-2k4.json) |
 | ESPN NFL 2K5 | 7881 | [7881-espn-nfl-2k5.json](./7881-espn-nfl-2k5.json) |
 | ESPN NFL PrimeTime 2002 | 23447 | [23447-espn-nfl-primetime-2002.json](./23447-espn-nfl-primetime-2002.json) |
@@ -4666,6 +4668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Egg | 351117 | [351117-evil-egg.json](./351117-evil-egg.json) |
 | Evil Elves II Deluxe | 276925 | [276925-evil-elves-ii-deluxe.json](./276925-evil-elves-ii-deluxe.json) |
 | Evil Elves II: The Return of the Christmas Presents! | 268189 | [268189-evil-elves-ii-the-return-of-the-christmas-presents.json](./268189-evil-elves-ii-the-return-of-the-christmas-presents.json) |
+| Evil Eye | 94612 | [94612-evil-eye.json](./94612-evil-eye.json) |
 | Evil Eyes | 289560 | [289560-evil-eyes.json](./289560-evil-eyes.json) |
 | Evil Factory | 74790 | [74790-evil-factory.json](./74790-evil-factory.json) |
 | Evil Fate | 220018 | [220018-evil-fate.json](./220018-evil-fate.json) |
@@ -5373,6 +5376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Meatpunks Forever: Bound by Ash | 142174 | [142174-extreme-meatpunks-forever-bound-by-ash.json](./142174-extreme-meatpunks-forever-bound-by-ash.json) |
 | Extreme Mining | 135035 | [135035-extreme-mining.json](./135035-extreme-mining.json) |
 | Extreme Motorcross | 209180 | [209180-extreme-motorcross.json](./209180-extreme-motorcross.json) |
+| Extreme Mountain Biking | 94663 | [94663-extreme-mountain-biking.json](./94663-extreme-mountain-biking.json) |
 | Extreme Off-Road Drive | 109206 | [109206-extreme-off-road-drive.json](./109206-extreme-off-road-drive.json) |
 | Extreme Offroad Monster Simulator | 129045 | [129045-extreme-offroad-monster-simulator.json](./129045-extreme-offroad-monster-simulator.json) |
 | Extreme Offroad Racing | 270310 | [270310-extreme-offroad-racing.json](./270310-extreme-offroad-racing.json) |
