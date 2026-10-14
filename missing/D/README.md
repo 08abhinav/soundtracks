@@ -1576,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Out | 217308 | [217308-dash-out.json](./217308-dash-out.json) |
 | Dash Queen | 74716 | [74716-dash-queen.json](./74716-dash-queen.json) |
 | Dash Quest | 99402 | [99402-dash-quest.json](./99402-dash-quest.json) |
+| Dash Quest Heroes | 78553 | [78553-dash-quest-heroes.json](./78553-dash-quest-heroes.json) |
 | Dash Realm | 173006 | [173006-dash-realm.json](./173006-dash-realm.json) |
 | Dash Shooters | 211137 | [211137-dash-shooters.json](./211137-dash-shooters.json) |
 | Dash till Puff 2 | 39229 | [39229-dash-till-puff-2.json](./39229-dash-till-puff-2.json) |
@@ -2689,6 +2690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Runner | 367562 | [367562-deadly-runner.json](./367562-deadly-runner.json) |
 | Deadly Secret Beneath the Dark Wood | 269657 | [269657-deadly-secret-beneath-the-dark-wood.json](./269657-deadly-secret-beneath-the-dark-wood.json) |
 | Deadly Skies | 22730 | [22730-deadly-skies.json](./22730-deadly-skies.json) |
+| Deadly Skies | 78532 | [78532-deadly-skies.json](./78532-deadly-skies.json) |
 | Deadly Skies | 85992 | [85992-deadly-skies.json](./85992-deadly-skies.json) |
 | Deadly Sky | 51981 | [51981-deadly-sky.json](./51981-deadly-sky.json) |
 | Deadly Soccer | 242569 | [242569-deadly-soccer.json](./242569-deadly-soccer.json) |
@@ -4399,10 +4401,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densha de Go! 3 Tsuukinhen: Daiyakaisei | 146532 | [146532-densha-de-go-3-tsuukinhen-daiyakaisei.json](./146532-densha-de-go-3-tsuukinhen-daiyakaisei.json) |
 | Densha de GO! 64 | 3469 | [3469-densha-de-go-64.json](./3469-densha-de-go-64.json) |
 | Densha de GO! EX | 94351 | [94351-densha-de-go-ex.json](./94351-densha-de-go-ex.json) |
+| Densha de Go! Final | 78576 | [78576-densha-de-go-final.json](./78576-densha-de-go-final.json) |
 | Densha de Go! Plug & Play | 146557 | [146557-densha-de-go-plug-and-play.json](./146557-densha-de-go-plug-and-play.json) |
 | Densha de Go! Pocket: Chuuousen-hen | 146558 | [146558-densha-de-go-pocket-chuuousen-hen.json](./146558-densha-de-go-pocket-chuuousen-hen.json) |
 | Densha de Go! Pocket: Osakakanjousen-hen | 146559 | [146559-densha-de-go-pocket-osakakanjousen-hen.json](./146559-densha-de-go-pocket-osakakanjousen-hen.json) |
 | Densha de Go! Pocket: Toukaidousen-hen | 146560 | [146560-densha-de-go-pocket-toukaidousen-hen.json](./146560-densha-de-go-pocket-toukaidousen-hen.json) |
+| Densha de GO! Professional | 78575 | [78575-densha-de-go-professional.json](./78575-densha-de-go-professional.json) |
 | Densha de Go! Shinkansen EX: Sanyou Shinkansen-hen | 146542 | [146542-densha-de-go-shinkansen-ex-sanyou-shinkansen-hen.json](./146542-densha-de-go-shinkansen-ex-sanyou-shinkansen-hen.json) |
 | Densha de GO! Tokubetsu-hen: Fukkatsu Shouwa no Yamanotesen | 66660 | [66660-densha-de-go-tokubetsu-hen-fukkatsu-shouwa-no-yamanotesen.json](./66660-densha-de-go-tokubetsu-hen-fukkatsu-shouwa-no-yamanotesen.json) |
 | Densha Unten Shirei! Tokaido-hen | 221739 | [221739-densha-unten-shirei-tokaido-hen.json](./221739-densha-unten-shirei-tokaido-hen.json) |
@@ -5421,6 +5425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dextram | 147309 | [147309-dextram.json](./147309-dextram.json) |
 | Dextrissimi | 156583 | [156583-dextrissimi.json](./156583-dextrissimi.json) |
 | Dezaemon | 56533 | [56533-dezaemon.json](./56533-dezaemon.json) |
+| Dezaemon 2 | 78577 | [78577-dezaemon-2.json](./78577-dezaemon-2.json) |
 | Dezaemon 3D | 3470 | [3470-dezaemon-3d.json](./3470-dezaemon-3d.json) |
 | Dezaemon BS-X Version: BS-X Shooting | 142409 | [142409-dezaemon-bs-x-version-bs-x-shooting.json](./142409-dezaemon-bs-x-version-bs-x-shooting.json) |
 | Dezaemon BS-X Version: Sugoi STG 2 - Crystal Guardian | 151833 | [151833-dezaemon-bs-x-version-sugoi-stg-2-crystal-guardian.json](./151833-dezaemon-bs-x-version-sugoi-stg-2-crystal-guardian.json) |
@@ -6506,6 +6511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Fantasy | 405069 | [405069-dirty-fantasy.json](./405069-dirty-fantasy.json) |
 | Dirty Fighter 1 | 46491 | [46491-dirty-fighter-1.json](./46491-dirty-fighter-1.json) |
 | Dirty Harry | 3142 | [3142-dirty-harry.json](./3142-dirty-harry.json) |
+| Dirty Harry | 78566 | [78566-dirty-harry.json](./78566-dirty-harry.json) |
 | Dirty Harry: Excessive Force | 291010 | [291010-dirty-harry-excessive-force.json](./291010-dirty-harry-excessive-force.json) |
 | Dirty Harry's Thunder Drive | 129488 | [129488-dirty-harrys-thunder-drive.json](./129488-dirty-harrys-thunder-drive.json) |
 | Dirty Horror | 236222 | [236222-dirty-horror.json](./236222-dirty-horror.json) |
@@ -8211,6 +8217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Panic | 13603 | [13603-dont-panic.json](./13603-dont-panic.json) |
 | Don't Pause Game! | 389988 | [389988-dont-pause-game.json](./389988-dont-pause-game.json) |
 | Don't Pee | 285411 | [285411-dont-pee.json](./285411-dont-pee.json) |
+| Don't Pee in the Tub | 78565 | [78565-dont-pee-in-the-tub.json](./78565-dont-pee-in-the-tub.json) |
 | Don't Pick Up Stray Aliens | 409002 | [409002-dont-pick-up-stray-aliens.json](./409002-dont-pick-up-stray-aliens.json) |
 | Don't Play This | 390776 | [390776-dont-play-this.json](./390776-dont-play-this.json) |
 | Don't Play With Dolls | 105282 | [105282-dont-play-with-dolls.json](./105282-dont-play-with-dolls.json) |
@@ -8855,7 +8862,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorachan | 178099 | [178099-dorachan.json](./178099-dorachan.json) |
 | Doradora Panic | 151679 | [151679-doradora-panic.json](./151679-doradora-panic.json) |
 | Doraemon 2: Nobita to Hikari no Shinden | 3473 | [3473-doraemon-2-nobita-to-hikari-no-shinden.json](./3473-doraemon-2-nobita-to-hikari-no-shinden.json) |
+| Doraemon 2: SOS! Otogi no Kuni | 78579 | [78579-doraemon-2-sos-otogi-no-kuni.json](./78579-doraemon-2-sos-otogi-no-kuni.json) |
 | Doraemon 3: Nobita no Machi SOS! | 3474 | [3474-doraemon-3-nobita-no-machi-sos.json](./3474-doraemon-3-nobita-no-machi-sos.json) |
+| Doraemon 4: Nobita to Tsuki no Oukoku | 78578 | [78578-doraemon-4-nobita-to-tsuki-no-oukoku.json](./78578-doraemon-4-nobita-to-tsuki-no-oukoku.json) |
 | Doraemon Comic Traveler | 405668 | [405668-doraemon-comic-traveler.json](./405668-doraemon-comic-traveler.json) |
 | Doraemon Dorayaki Shop Story | 314958 | [314958-doraemon-dorayaki-shop-story.json](./314958-doraemon-dorayaki-shop-story.json) |
 | Doraemon Gadget Rush | 259527 | [259527-doraemon-gadget-rush.json](./259527-doraemon-gadget-rush.json) |
