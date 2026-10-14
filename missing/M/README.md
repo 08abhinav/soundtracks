@@ -5614,6 +5614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meine Liebe II: Hokori to Seigi to Ai | 203178 | [203178-meine-liebe-ii-hokori-to-seigi-to-ai.json](./203178-meine-liebe-ii-hokori-to-seigi-to-ai.json) |
 | Meine Tierarztpraxis in Australien | 77635 | [77635-meine-tierarztpraxis-in-australien.json](./77635-meine-tierarztpraxis-in-australien.json) |
 | Meine Tierarztpraxis: SOS am Ozean | 204688 | [204688-meine-tierarztpraxis-sos-am-ozean.json](./204688-meine-tierarztpraxis-sos-am-ozean.json) |
+| Meine Tierklinik | 78533 | [78533-meine-tierklinik.json](./78533-meine-tierklinik.json) |
 | Meine Tierpension | 179201 | [179201-meine-tierpension.json](./179201-meine-tierpension.json) |
 | Meine Tierschule | 94395 | [94395-meine-tierschule.json](./94395-meine-tierschule.json) |
 | Meine Tiersprechstunde | 179202 | [179202-meine-tiersprechstunde.json](./179202-meine-tiersprechstunde.json) |
@@ -7317,6 +7318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Golf 1998 Edition | 77008 | [77008-microsoft-golf-1998-edition.json](./77008-microsoft-golf-1998-edition.json) |
 | Microsoft Golf 1999 Edition | 62240 | [62240-microsoft-golf-1999-edition.json](./62240-microsoft-golf-1999-edition.json) |
 | Microsoft Golf 2.0 | 21860 | [21860-microsoft-golf-2-0.json](./21860-microsoft-golf-2-0.json) |
+| Microsoft Golf 3.0 | 78572 | [78572-microsoft-golf-3-0.json](./78572-microsoft-golf-3-0.json) |
 | Microsoft Golf: Multimedia Edition | 314577 | [314577-microsoft-golf-multimedia-edition.json](./314577-microsoft-golf-multimedia-edition.json) |
 | Microsoft International Soccer 2000 | 72170 | [72170-microsoft-international-soccer-2000.json](./72170-microsoft-international-soccer-2000.json) |
 | Microsoft Jewel 2 | 317539 | [317539-microsoft-jewel-2.json](./317539-microsoft-jewel-2.json) |
@@ -12523,6 +12525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MRG: Matando Robôs Gigantes - O Jogo | 346776 | [346776-mrg-matando-robos-gigantes-o-jogo.json](./346776-mrg-matando-robos-gigantes-o-jogo.json) |
 | Mroi | 333940 | [333940-mroi.json](./333940-mroi.json) |
 | Mrs Kim | 110214 | [110214-mrs-kim.json](./110214-mrs-kim.json) |
+| Mrs. Dad vs. Körv | 78515 | [78515-mrs-dad-vs-korv.json](./78515-mrs-dad-vs-korv.json) |
 | Mrs. Dynamite | 285138 | [285138-mrs-dynamite.json](./285138-mrs-dynamite.json) |
 | Mrs. Estacion | 375347 | [375347-mrs-estacion.json](./375347-mrs-estacion.json) |
 | Mrs. Fantastic's Freaky Figurine Shop | 166702 | [166702-mrs-fantastics-freaky-figurine-shop.json](./166702-mrs-fantastics-freaky-figurine-shop.json) |
