@@ -978,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Strike | 94171 | [94171-cannon-strike.json](./94171-cannon-strike.json) |
 | Cannon Target | 253413 | [253413-cannon-target.json](./253413-cannon-target.json) |
 | CannonBall | 195227 | [195227-cannonball.json](./195227-cannonball.json) |
+| Cannonball Commander | 90519 | [90519-cannonball-commander.json](./90519-cannonball-commander.json) |
 | Cannonball Follies 2 | 335471 | [335471-cannonball-follies-2.json](./335471-cannonball-follies-2.json) |
 | Cannondale Cup | 42600 | [42600-cannondale-cup.json](./42600-cannondale-cup.json) |
 | Cannoneer | 323302 | [323302-cannoneer.json](./323302-cannoneer.json) |
@@ -1740,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carlos and the Dark Order Mystery | 310546 | [310546-carlos-and-the-dark-order-mystery.json](./310546-carlos-and-the-dark-order-mystery.json) |
 | Carlos and the Murder Farm | 310547 | [310547-carlos-and-the-murder-farm.json](./310547-carlos-and-the-murder-farm.json) |
 | Carlos Haunted House | 343835 | [343835-carlos-haunted-house.json](./343835-carlos-haunted-house.json) |
+| Carlos III y La Difusión de la Antigüedad | 90491 | [90491-carlos-iii-y-la-difusion-de-la-antiguedad.json](./90491-carlos-iii-y-la-difusion-de-la-antiguedad.json) |
 | Carlos Klauss: Episode Zero | 258701 | [258701-carlos-klauss-episode-zero.json](./258701-carlos-klauss-episode-zero.json) |
 | Carlton | 83477 | [83477-carlton.json](./83477-carlton.json) |
 | Carma | 172153 | [172153-carma.json](./172153-carma.json) |
@@ -11035,6 +11037,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Little Jumper | 270572 | [270572-crazy-little-jumper.json](./270572-crazy-little-jumper.json) |
 | Crazy Lizard: The Amazing Journey | 235142 | [235142-crazy-lizard-the-amazing-journey.json](./235142-crazy-lizard-the-amazing-journey.json) |
 | Crazy Machines | 4777 | [4777-crazy-machines.json](./4777-crazy-machines.json) |
+| Crazy Machines 1.5 Inventors Training Camp | 90470 | [90470-crazy-machines-1-5-inventors-training-camp.json](./90470-crazy-machines-1-5-inventors-training-camp.json) |
+| Crazy Machines 1.5 New from the Lab | 90471 | [90471-crazy-machines-1-5-new-from-the-lab.json](./90471-crazy-machines-1-5-new-from-the-lab.json) |
 | Crazy Machines 2 | 197893 | [197893-crazy-machines-2.json](./197893-crazy-machines-2.json) |
 | Crazy Machines 2: Anniversary DLC | 164367 | [164367-crazy-machines-2-anniversary-dlc.json](./164367-crazy-machines-2-anniversary-dlc.json) |
 | Crazy Machines 2: Back to the Shop Add-On | 164373 | [164373-crazy-machines-2-back-to-the-shop-add-on.json](./164373-crazy-machines-2-back-to-the-shop-add-on.json) |
@@ -11443,6 +11447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Desires | 296767 | [296767-criminal-desires.json](./296767-criminal-desires.json) |
 | Criminal Dissidia | 154435 | [154435-criminal-dissidia.json](./154435-criminal-dissidia.json) |
 | Criminal Girls: Invite Only | 11746 | [11746-criminal-girls-invite-only.json](./11746-criminal-girls-invite-only.json) |
+| Criminal Investigation Agents: Petrodollars | 90528 | [90528-criminal-investigation-agents-petrodollars.json](./90528-criminal-investigation-agents-petrodollars.json) |
 | Criminal Profile Who’s the Culprit?! | 403735 | [403735-criminal-profile-who-s-the-culprit.json](./403735-criminal-profile-who-s-the-culprit.json) |
 | Criminal Pursuit Force | 110349 | [110349-criminal-pursuit-force.json](./110349-criminal-pursuit-force.json) |
 | Criminal Run | 40741 | [40741-criminal-run.json](./40741-criminal-run.json) |
