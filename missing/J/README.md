@@ -2401,6 +2401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Care Taker | 101667 | [101667-jungle-care-taker.json](./101667-jungle-care-taker.json) |
 | Jungle Catz | 291786 | [291786-jungle-catz.json](./291786-jungle-catz.json) |
 | Jungle Crash Land | 66151 | [66151-jungle-crash-land.json](./66151-jungle-crash-land.json) |
+| Jungle Defence | 116208 | [116208-jungle-defence.json](./116208-jungle-defence.json) |
 | Jungle Drummer | 305139 | [305139-jungle-drummer.json](./305139-jungle-drummer.json) |
 | Jungle Gems VR | 250845 | [250845-jungle-gems-vr.json](./250845-jungle-gems-vr.json) |
 | Jungle Guardians | 112720 | [112720-jungle-guardians.json](./112720-jungle-guardians.json) |
