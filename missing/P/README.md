@@ -3853,6 +3853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PhotoWorld | 209966 | [209966-photoworld.json](./209966-photoworld.json) |
 | Phrase Craze Plus | 229804 | [229804-phrase-craze-plus.json](./229804-phrase-craze-plus.json) |
 | Phrase Frenzy - Catch It! | 108598 | [108598-phrase-frenzy-catch-it.json](./108598-phrase-frenzy-catch-it.json) |
+| Phrase Passport Japan A Travel Japanese Quiz | 407270 | [407270-phrase-passport-japan-a-travel-japanese-quiz.json](./407270-phrase-passport-japan-a-travel-japanese-quiz.json) |
 | Phrasefight | 106115 | [106115-phrasefight.json](./106115-phrasefight.json) |
 | Phraze Craze | 307911 | [307911-phraze-craze.json](./307911-phraze-craze.json) |
 | Phraze Daze: Famous Quotes Word Game | 68742 | [68742-phraze-daze-famous-quotes-word-game.json](./68742-phraze-daze-famous-quotes-word-game.json) |
@@ -5745,6 +5746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Skater | 190205 | [190205-pixel-skater.json](./190205-pixel-skater.json) |
 | Pixel Sniper | 402343 | [402343-pixel-sniper.json](./402343-pixel-sniper.json) |
 | Pixel Soccer | 35814 | [35814-pixel-soccer.json](./35814-pixel-soccer.json) |
+| Pixel Stars | 97224 | [97224-pixel-stars.json](./97224-pixel-stars.json) |
 | Pixel Stars Digital Dreamhouse | 245424 | [245424-pixel-stars-digital-dreamhouse.json](./245424-pixel-stars-digital-dreamhouse.json) |
 | Pixel Storm | 182547 | [182547-pixel-storm.json](./182547-pixel-storm.json) |
 | Pixel Survival Game 2 | 241636 | [241636-pixel-survival-game-2.json](./241636-pixel-survival-game-2.json) |
@@ -6989,6 +6991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Royal | 196332 | [196332-pocket-royal.json](./196332-pocket-royal.json) |
 | Pocket RPG | 61075 | [61075-pocket-rpg.json](./61075-pocket-rpg.json) |
 | Pocket Rumble | 27534 | [27534-pocket-rumble.json](./27534-pocket-rumble.json) |
+| Pocket Runners | 97264 | [97264-pocket-runners.json](./97264-pocket-runners.json) |
 | Pocket Shooter Hardcore | 57691 | [57691-pocket-shooter-hardcore.json](./57691-pocket-shooter-hardcore.json) |
 | Pocket Skate | 214020 | [214020-pocket-skate.json](./214020-pocket-skate.json) |
 | Pocket Slaughter | 257417 | [257417-pocket-slaughter.json](./257417-pocket-slaughter.json) |
@@ -9559,6 +9562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primitive | 236171 | [236171-primitive.json](./236171-primitive.json) |
 | Primitive Fear | 387651 | [387651-primitive-fear.json](./387651-primitive-fear.json) |
 | Primitive Hunter | 127710 | [127710-primitive-hunter.json](./127710-primitive-hunter.json) |
+| Primitive Race | 97228 | [97228-primitive-race.json](./97228-primitive-race.json) |
 | Primitive Survival | 105361 | [105361-primitive-survival.json](./105361-primitive-survival.json) |
 | Primitive Wars | 27591 | [27591-primitive-wars.json](./27591-primitive-wars.json) |
 | Primland Tale | 345608 | [345608-primland-tale.json](./345608-primland-tale.json) |
@@ -12303,6 +12307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzlepops! Plus | 244171 | [244171-puzzlepops-plus.json](./244171-puzzlepops-plus.json) |
 | Puzzler | 104252 | [104252-puzzler.json](./104252-puzzler.json) |
 | Puzzler Clover | 69300 | [69300-puzzler-clover.json](./69300-puzzler-clover.json) |
+| Puzzler King | 97261 | [97261-puzzler-king.json](./97261-puzzler-king.json) |
 | Puzzler World | 308990 | [308990-puzzler-world.json](./308990-puzzler-world.json) |
 | Puzzlerama | 289567 | [289567-puzzlerama.json](./289567-puzzlerama.json) |
 | Puzzlerio | 270945 | [270945-puzzlerio.json](./270945-puzzlerio.json) |
