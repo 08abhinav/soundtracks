@@ -805,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nayuta no Kiseki: Limited Edition | 284434 | [284434-nayuta-no-kiseki-limited-edition.json](./284434-nayuta-no-kiseki-limited-edition.json) |
 | Nazar | 319003 | [319003-nazar.json](./319003-nazar.json) |
 | Nazi 2 | 105248 | [105248-nazi-2.json](./105248-nazi-2.json) |
+| Nazi Elimination | 81988 | [81988-nazi-elimination.json](./81988-nazi-elimination.json) |
 | NaziShootout | 88054 | [88054-nazishootout.json](./88054-nazishootout.json) |
 | Nazo no Chinbotsusen | 385713 | [385713-nazo-no-chinbotsusen.json](./385713-nazo-no-chinbotsusen.json) |
 | Nazo No Masquerade | 37669 | [37669-nazo-no-masquerade.json](./37669-nazo-no-masquerade.json) |
