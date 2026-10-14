@@ -6932,6 +6932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Ghoul Duel 2 | 223047 | [223047-the-great-ghoul-duel-2.json](./223047-the-great-ghoul-duel-2.json) |
 | The Great Giana Sisters | 3074 | [3074-the-great-giana-sisters.json](./3074-the-great-giana-sisters.json) |
 | The Great Gonzo in WordRider | 65040 | [65040-the-great-gonzo-in-wordrider.json](./65040-the-great-gonzo-in-wordrider.json) |
+| The Great Green Mouse Disaster | 83417 | [83417-the-great-green-mouse-disaster.json](./83417-the-great-green-mouse-disaster.json) |
 | The Great Hatch | 348915 | [348915-the-great-hatch.json](./348915-the-great-hatch.json) |
 | The Great Hero's Cat | 209605 | [209605-the-great-heros-cat.json](./209605-the-great-heros-cat.json) |
 | The Great Hide n Seek Expawdition | 149727 | [149727-the-great-hide-n-seek-expawdition.json](./149727-the-great-hide-n-seek-expawdition.json) |
@@ -10123,6 +10124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Price Is Right | 198872 | [198872-the-price-is-right.json](./198872-the-price-is-right.json) |
 | The Price Is Right | 220105 | [220105-the-price-is-right.json](./220105-the-price-is-right.json) |
 | The Price Is Right | 47943 | [47943-the-price-is-right.json](./47943-the-price-is-right.json) |
+| The Price Is Right Bingo | 83397 | [83397-the-price-is-right-bingo.json](./83397-the-price-is-right-bingo.json) |
 | The Price is Right: Decades | 20213 | [20213-the-price-is-right-decades.json](./20213-the-price-is-right-decades.json) |
 | The Price of Parking | 417580 | [417580-the-price-of-parking.json](./417580-the-price-of-parking.json) |
 | The Prime MoVR | 76659 | [76659-the-prime-movr.json](./76659-the-prime-movr.json) |
