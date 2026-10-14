@@ -1370,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallax | 292841 | [292841-parallax.json](./292841-parallax.json) |
 | Parallax | 384255 | [384255-parallax.json](./384255-parallax.json) |
 | Parallax Tunnel | 149540 | [149540-parallax-tunnel.json](./149540-parallax-tunnel.json) |
+| Parallel | 103267 | [103267-parallel.json](./103267-parallel.json) |
 | Parallel | 259643 | [259643-parallel.json](./259643-parallel.json) |
 | Parallel | 280166 | [280166-parallel.json](./280166-parallel.json) |
 | Parallel | 342083 | [342083-parallel.json](./342083-parallel.json) |
@@ -9427,6 +9428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prey with Gun | 91426 | [91426-prey-with-gun.json](./91426-prey-with-gun.json) |
 | Prey: An Alien Encounter | 38843 | [38843-prey-an-alien-encounter.json](./38843-prey-an-alien-encounter.json) |
 | Prey: Deluxe Edition | 136146 | [136146-prey-deluxe-edition.json](./136146-prey-deluxe-edition.json) |
+| Prey: Digital Deluxe | 103306 | [103306-prey-digital-deluxe.json](./103306-prey-digital-deluxe.json) |
 | Prey: Digital Deluxe Edition | 118686 | [118686-prey-digital-deluxe-edition.json](./118686-prey-digital-deluxe-edition.json) |
 | Prey: Limited Collector's Edition | 47397 | [47397-prey-limited-collectors-edition.json](./47397-prey-limited-collectors-edition.json) |
 | Preytiger | 181734 | [181734-preytiger.json](./181734-preytiger.json) |
