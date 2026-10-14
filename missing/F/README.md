@@ -1577,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry: New Dawn - Superbloom Edition | 139908 | [139908-far-cry-new-dawn-superbloom-edition.json](./139908-far-cry-new-dawn-superbloom-edition.json) |
 | Far Cry: Primal - Wenja Pack | 117513 | [117513-far-cry-primal-wenja-pack.json](./117513-far-cry-primal-wenja-pack.json) |
 | Far Cry: Silver Pack | 223558 | [223558-far-cry-silver-pack.json](./223558-far-cry-silver-pack.json) |
+| Far Cry: Wild Expedition | 100668 | [100668-far-cry-wild-expedition.json](./100668-far-cry-wild-expedition.json) |
 | Far East of Eden II: Manji-maru | 71489 | [71489-far-east-of-eden-ii-manji-maru.json](./71489-far-east-of-eden-ii-manji-maru.json) |
 | Far East of Eden III: Namida | 80576 | [80576-far-east-of-eden-iii-namida.json](./80576-far-east-of-eden-iii-namida.json) |
 | Far East of Eden Ziria: Harukanaru Jipang | 7214 | [7214-far-east-of-eden-ziria-harukanaru-jipang.json](./7214-far-east-of-eden-ziria-harukanaru-jipang.json) |
@@ -3853,6 +3854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fingertrainer | 253279 | [253279-fingertrainer.json](./253279-fingertrainer.json) |
 | Fingerzilla | 343470 | [343470-fingerzilla.json](./343470-fingerzilla.json) |
 | Fingie Bandits | 380765 | [380765-fingie-bandits.json](./380765-fingie-bandits.json) |
+| Fingle | 100682 | [100682-fingle.json](./100682-fingle.json) |
 | Fingore Fighter | 237439 | [237439-fingore-fighter.json](./237439-fingore-fighter.json) |
 | Fingun Forever! | 320298 | [320298-fingun-forever.json](./320298-fingun-forever.json) |
 | Finis | 213013 | [213013-finis.json](./213013-finis.json) |
