@@ -1015,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.D. 2083 | 46766 | [46766-a-d-2083.json](./46766-a-d-2083.json) |
 | A.D.A.M. | 19398 | [19398-a-d-a-m.json](./19398-a-d-a-m.json) |
 | A.D.D. (Anomaly Detection Department) | 412470 | [412470-a-d-d-anomaly-detection-department.json](./412470-a-d-d-anomaly-detection-department.json) |
+| A.D.D.: Addictive Dumb Distractions | 79763 | [79763-a-d-d-addictive-dumb-distractions.json](./79763-a-d-d-addictive-dumb-distractions.json) |
 | A.E. | 20175 | [20175-a-e.json](./20175-a-e.json) |
 | A.E. | 282086 | [282086-a-e.json](./282086-a-e.json) |
 | A.G. Soccer-Ball | 94140 | [94140-a-g-soccer-ball.json](./94140-a-g-soccer-ball.json) |
@@ -1029,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.I. Space Corps | 34206 | [34206-a-i-space-corps.json](./34206-a-i-space-corps.json) |
 | A.I.Liens | 270859 | [270859-a-i-liens.json](./270859-a-i-liens.json) |
 | A.I.M. Racing | 9955 | [9955-a-i-m-racing.json](./9955-a-i-m-racing.json) |
+| A.I.R. Play | 79762 | [79762-a-i-r-play.json](./79762-a-i-r-play.json) |
 | A.I.T.W | 213431 | [213431-a-i-t-w.json](./213431-a-i-t-w.json) |
 | A.IV Evolution: Hatsubai Kinen Gentei Set | 307056 | [307056-a-iv-evolution-hatsubai-kinen-gentei-set.json](./307056-a-iv-evolution-hatsubai-kinen-gentei-set.json) |
 | A.L.A.N.: Rift Breakers | 120158 | [120158-a-l-a-n-rift-breakers.json](./120158-a-l-a-n-rift-breakers.json) |
@@ -6711,6 +6713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Fighting Jam | 222872 | [222872-anime-fighting-jam.json](./222872-anime-fighting-jam.json) |
 | Anime for Sex Motel | 288890 | [288890-anime-for-sex-motel.json](./288890-anime-for-sex-motel.json) |
 | Anime Freak FX Vol. 1 | 79350 | [79350-anime-freak-fx-vol-1.json](./79350-anime-freak-fx-vol-1.json) |
+| Anime Freak FX Vol. 2 | 79735 | [79735-anime-freak-fx-vol-2.json](./79735-anime-freak-fx-vol-2.json) |
 | Anime Freak FX Vol. 3 | 79354 | [79354-anime-freak-fx-vol-3.json](./79354-anime-freak-fx-vol-3.json) |
 | Anime Gacha! | 307275 | [307275-anime-gacha.json](./307275-anime-gacha.json) |
 | Anime Gas Station | 202210 | [202210-anime-gas-station.json](./202210-anime-gas-station.json) |
@@ -7911,6 +7914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arabian Stones: The VR Sudoku Game | 122817 | [122817-arabian-stones-the-vr-sudoku-game.json](./122817-arabian-stones-the-vr-sudoku-game.json) |
 | Arabian Treasures: Midnight Match | 150490 | [150490-arabian-treasures-midnight-match.json](./150490-arabian-treasures-midnight-match.json) |
 | Arabians Doubt: The Engagement on Desert | 191690 | [191690-arabians-doubt-the-engagement-on-desert.json](./191690-arabians-doubt-the-engagement-on-desert.json) |
+| Arabians Lost: The Engagement on Desert | 79744 | [79744-arabians-lost-the-engagement-on-desert.json](./79744-arabians-lost-the-engagement-on-desert.json) |
 | Arabilis | 197787 | [197787-arabilis.json](./197787-arabilis.json) |
 | Arac | 13804 | [13804-arac.json](./13804-arac.json) |
 | Arachnid | 83489 | [83489-arachnid.json](./83489-arachnid.json) |
@@ -9048,6 +9052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid: Revenge of Doh | 282802 | [282802-arkanoid-revenge-of-doh.json](./282802-arkanoid-revenge-of-doh.json) |
 | ArkanoidSmoking | 54452 | [54452-arkanoidsmoking.json](./54452-arkanoidsmoking.json) |
 | Arkball | 102392 | [102392-arkball.json](./102392-arkball.json) |
+| Arkedo Series: 01 Jump! | 79768 | [79768-arkedo-series-01-jump.json](./79768-arkedo-series-01-jump.json) |
 | Arkedo Series: 02 Swap! | 80166 | [80166-arkedo-series-02-swap.json](./80166-arkedo-series-02-swap.json) |
 | Arkell | 199453 | [199453-arkell.json](./199453-arkell.json) |
 | Arkem | 244684 | [244684-arkem.json](./244684-arkem.json) |
