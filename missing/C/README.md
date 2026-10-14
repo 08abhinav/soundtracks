@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candice DeBebe's Tantalising Tricks | 223396 | [223396-candice-debebes-tantalising-tricks.json](./223396-candice-debebes-tantalising-tricks.json) |
 | Candied Carols | 177343 | [177343-candied-carols.json](./177343-candied-carols.json) |
 | Candied Violets | 178527 | [178527-candied-violets.json](./178527-candied-violets.json) |
+| Candies 'N Curses | 112174 | [112174-candies-n-curses.json](./112174-candies-n-curses.json) |
 | Candivity: Complete Edition | 346001 | [346001-candivity-complete-edition.json](./346001-candivity-complete-edition.json) |
 | Candivity: Deep Mines DLC | 324431 | [324431-candivity-deep-mines-dlc.json](./324431-candivity-deep-mines-dlc.json) |
 | Candivity: Outer Space DLC | 324432 | [324432-candivity-outer-space-dlc.json](./324432-candivity-outer-space-dlc.json) |
@@ -5329,6 +5330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromahertz | 211739 | [211739-chromahertz.json](./211739-chromahertz.json) |
 | Chromancer | 63008 | [63008-chromancer.json](./63008-chromancer.json) |
 | Chromarena | 188666 | [188666-chromarena.json](./188666-chromarena.json) |
+| Chromasia Rock Paper Tactics | 112170 | [112170-chromasia-rock-paper-tactics.json](./112170-chromasia-rock-paper-tactics.json) |
 | ChromaSphere: Viridis | 419102 | [419102-chromasphere-viridis.json](./419102-chromasphere-viridis.json) |
 | ChromaSquares | 107427 | [107427-chromasquares.json](./107427-chromasquares.json) |
 | Chromata | 256308 | [256308-chromata.json](./256308-chromata.json) |
@@ -13029,6 +13031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curve Fever | 63259 | [63259-curve-fever.json](./63259-curve-fever.json) |
 | Curve Racer | 147616 | [147616-curve-racer.json](./147616-curve-racer.json) |
 | Curved Space | 137680 | [137680-curved-space.json](./137680-curved-space.json) |
+| CurveFever | 112097 | [112097-curvefever.json](./112097-curvefever.json) |
 | Curves | 118234 | [118234-curves.json](./118234-curves.json) |
 | Curvid Nurntine and the Black Vaccine | 379713 | [379713-curvid-nurntine-and-the-black-vaccine.json](./379713-curvid-nurntine-and-the-black-vaccine.json) |
 | Curving Over It with Evgeny Podoynikov | 173179 | [173179-curving-over-it-with-evgeny-podoynikov.json](./173179-curving-over-it-with-evgeny-podoynikov.json) |
