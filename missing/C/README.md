@@ -5775,6 +5775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circlemount | 341634 | [341634-circlemount.json](./341634-circlemount.json) |
 | CircleRun I | 262588 | [262588-circlerun-i.json](./262588-circlerun-i.json) |
 | Circles | 33061 | [33061-circles.json](./33061-circles.json) |
+| Circles of Hell | 96621 | [96621-circles-of-hell.json](./96621-circles-of-hell.json) |
 | Circling | 304338 | [304338-circling.json](./304338-circling.json) |
 | Circlt | 57750 | [57750-circlt.json](./57750-circlt.json) |
 | Circo: Dark Story | 187167 | [187167-circo-dark-story.json](./187167-circo-dark-story.json) |
@@ -9752,6 +9753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupt.exe | 408850 | [408850-corrupt-exe.json](./408850-corrupt-exe.json) |
 | Corrupted | 251063 | [251063-corrupted.json](./251063-corrupted.json) |
 | Corrupted | 296806 | [296806-corrupted.json](./296806-corrupted.json) |
+| Corrupted | 96626 | [96626-corrupted.json](./96626-corrupted.json) |
 | Corrupted Basement | 375810 | [375810-corrupted-basement.json](./375810-corrupted-basement.json) |
 | Corrupted Cistern | 256828 | [256828-corrupted-cistern.json](./256828-corrupted-cistern.json) |
 | Corrupted Dice | 405520 | [405520-corrupted-dice.json](./405520-corrupted-dice.json) |
@@ -12597,6 +12599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubeGun | 17372 | [17372-cubegun.json](./17372-cubegun.json) |
 | Cubeism 2: Baroque Edition | 218149 | [218149-cubeism-2-baroque-edition.json](./218149-cubeism-2-baroque-edition.json) |
 | Cubeka | 129626 | [129626-cubeka.json](./129626-cubeka.json) |
+| Cubekiller | 96625 | [96625-cubekiller.json](./96625-cubekiller.json) |
 | Cubelander | 190919 | [190919-cubelander.json](./190919-cubelander.json) |
 | CubeLines | 191251 | [191251-cubelines.json](./191251-cubelines.json) |
 | Cubelz | 101357 | [101357-cubelz.json](./101357-cubelz.json) |
