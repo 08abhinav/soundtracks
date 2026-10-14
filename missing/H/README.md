@@ -6057,6 +6057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home | 280198 | [280198-home.json](./280198-home.json) |
 | Home | 331351 | [331351-home.json](./331351-home.json) |
 | Home | 372448 | [372448-home.json](./372448-home.json) |
+| Home - A VR Spacewalk | 75678 | [75678-home-a-vr-spacewalk.json](./75678-home-a-vr-spacewalk.json) |
 | Home A Drone | 122421 | [122421-home-a-drone.json](./122421-home-a-drone.json) |
 | Home Again | 333225 | [333225-home-again.json](./333225-home-again.json) |
 | Home Again Home Again | 141627 | [141627-home-again-home-again.json](./141627-home-again-home-again.json) |
@@ -8016,6 +8017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunted | 188370 | [188370-hunted.json](./188370-hunted.json) |
 | Hunted | 411137 | [411137-hunted.json](./411137-hunted.json) |
 | Hunted By Monsters: Haunting In The Castle Dungeon | 240875 | [240875-hunted-by-monsters-haunting-in-the-castle-dungeon.json](./240875-hunted-by-monsters-haunting-in-the-castle-dungeon.json) |
+| Hunted Dream House | 75668 | [75668-hunted-dream-house.json](./75668-hunted-dream-house.json) |
 | Hunted Hunter | 369709 | [369709-hunted-hunter.json](./369709-hunted-hunter.json) |
 | Hunted Within: The Metro | 390207 | [390207-hunted-within-the-metro.json](./390207-hunted-within-the-metro.json) |
 | Hunted: Kalevala | 235889 | [235889-hunted-kalevala.json](./235889-hunted-kalevala.json) |
