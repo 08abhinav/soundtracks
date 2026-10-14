@@ -2590,6 +2590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
 | Infinite Shooter | 33103 | [33103-infinite-shooter.json](./33103-infinite-shooter.json) |
+| Infinite Shooting: Galaxy War | 91290 | [91290-infinite-shooting-galaxy-war.json](./91290-infinite-shooting-galaxy-war.json) |
 | Infinite sky | 168115 | [168115-infinite-sky.json](./168115-infinite-sky.json) |
 | Infinite Sky | 150018 | [150018-infinite-sky.json](./150018-infinite-sky.json) |
 | Infinite Skyline | 115175 | [115175-infinite-skyline.json](./115175-infinite-skyline.json) |
