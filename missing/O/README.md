@@ -1005,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oli | 192791 | [192791-oli.json](./192791-oli.json) |
 | Oli Boo Chu | 284406 | [284406-oli-boo-chu.json](./284406-oli-boo-chu.json) |
 | Oli One: Sneak in | 235378 | [235378-oli-one-sneak-in.json](./235378-oli-one-sneak-in.json) |
+| Olimdal | 113558 | [113558-olimdal.json](./113558-olimdal.json) |
 | Olinda Fighters | 415941 | [415941-olinda-fighters.json](./415941-olinda-fighters.json) |
 | Oliver & Spike: Dimension Jumpers | 63894 | [63894-oliver-and-spike-dimension-jumpers.json](./63894-oliver-and-spike-dimension-jumpers.json) |
 | Oliver's Tale | 248502 | [248502-olivers-tale.json](./248502-olivers-tale.json) |
@@ -2203,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Hearts on Fire | 313724 | [313724-open-hearts-on-fire.json](./313724-open-hearts-on-fire.json) |
 | Open Hexagon | 133332 | [133332-open-hexagon.json](./133332-open-hexagon.json) |
 | Open Hunting XL | 265313 | [265313-open-hunting-xl.json](./265313-open-hunting-xl.json) |
+| Open Mortal | 113539 | [113539-open-mortal.json](./113539-open-mortal.json) |
 | Open Nectar | 416628 | [416628-open-nectar.json](./416628-open-nectar.json) |
 | Open Net Battle | 343861 | [343861-open-net-battle.json](./343861-open-net-battle.json) |
 | Open Ocarina | 271820 | [271820-open-ocarina.json](./271820-open-ocarina.json) |
@@ -2690,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ordinary Family | 126433 | [126433-ordinary-family.json](./126433-ordinary-family.json) |
 | Ordinary Stickman Goes For A Walk | 289245 | [289245-ordinary-stickman-goes-for-a-walk.json](./289245-ordinary-stickman-goes-for-a-walk.json) |
 | Ordinem | 114339 | [114339-ordinem.json](./114339-ordinem.json) |
+| Ordo Et Chao: New World | 113562 | [113562-ordo-et-chao-new-world.json](./113562-ordo-et-chao-new-world.json) |
 | Ore Dake no Idol: eye no Sainou | 194594 | [194594-ore-dake-no-idol-eye-no-sainou.json](./194594-ore-dake-no-idol-eye-no-sainou.json) |
 | Ore ga Konna ni Tsuyoi no mo Akira Maeda no Cracker | 280458 | [280458-ore-ga-konna-ni-tsuyoi-no-mo-akira-maeda-no-cracker.json](./280458-ore-ga-konna-ni-tsuyoi-no-mo-akira-maeda-no-cracker.json) |
 | Ore ga Omae wo Mamoru | 69213 | [69213-ore-ga-omae-wo-mamoru.json](./69213-ore-ga-omae-wo-mamoru.json) |
