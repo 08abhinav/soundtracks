@@ -204,7 +204,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Observer | 265130 | [265130-observer.json](./265130-observer.json) |
 | Observer Protocol: The Station - Final Shift | 350432 | [350432-observer-protocol-the-station-final-shift.json](./350432-observer-protocol-the-station-final-shift.json) |
 | Observer Protocol: The Station - First Shift | 345484 | [345484-observer-protocol-the-station-first-shift.json](./345484-observer-protocol-the-station-first-shift.json) |
-| Observer: System Redux | 132165 | [132165-observer-system-redux.json](./132165-observer-system-redux.json) |
 | Observer: System Redux - Deluxe Edition | 154532 | [154532-observer-system-redux-deluxe-edition.json](./154532-observer-system-redux-deluxe-edition.json) |
 | Obsessed: Night Shift | 365267 | [365267-obsessed-night-shift.json](./365267-obsessed-night-shift.json) |
 | Obsessed: Trace | 382948 | [382948-obsessed-trace.json](./382948-obsessed-trace.json) |
@@ -1987,7 +1986,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onimusha Tactics | 6526 | [6526-onimusha-tactics.json](./6526-onimusha-tactics.json) |
 | Onimusha: Blade Warriors | 10551 | [10551-onimusha-blade-warriors.json](./10551-onimusha-blade-warriors.json) |
 | Onimusha: Dawn of Dreams | 11759 | [11759-onimusha-dawn-of-dreams.json](./11759-onimusha-dawn-of-dreams.json) |
-| Onimusha: Warlords | 107292 | [107292-onimusha-warlords.json](./107292-onimusha-warlords.json) |
 | Onimusha: Warlords - Genma Seal Box | 294703 | [294703-onimusha-warlords-genma-seal-box.json](./294703-onimusha-warlords-genma-seal-box.json) |
 | Onimusha: Way of the Sword | 325602 | [325602-onimusha-way-of-the-sword.json](./325602-onimusha-way-of-the-sword.json) |
 | Onion Delivery | 318730 | [318730-onion-delivery.json](./318730-onion-delivery.json) |
