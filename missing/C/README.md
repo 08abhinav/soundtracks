@@ -2057,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Simulator | 295316 | [295316-casino-simulator.json](./295316-casino-simulator.json) |
 | Casino Slot Machine | 41528 | [41528-casino-slot-machine.json](./41528-casino-slot-machine.json) |
 | Casino Slot Machines | 81794 | [81794-casino-slot-machines.json](./81794-casino-slot-machines.json) |
+| Casino Tycoon | 130666 | [130666-casino-tycoon.json](./130666-casino-tycoon.json) |
 | Casino Tycoon | 302043 | [302043-casino-tycoon.json](./302043-casino-tycoon.json) |
 | Casino Tycoon Simulator | 308491 | [308491-casino-tycoon-simulator.json](./308491-casino-tycoon-simulator.json) |
 | Casino Tycoon: Sin & Win | 373348 | [373348-casino-tycoon-sin-and-win.json](./373348-casino-tycoon-sin-and-win.json) |
@@ -10374,6 +10375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cradle of Nightmare : Flowers to you | 339333 | [339333-cradle-of-nightmare-flowers-to-you.json](./339333-cradle-of-nightmare-flowers-to-you.json) |
 | Cradle of Nightmares: Chapter 1 | 323502 | [323502-cradle-of-nightmares-chapter-1.json](./323502-cradle-of-nightmares-chapter-1.json) |
 | Cradle of Rome 2 HD | 102101 | [102101-cradle-of-rome-2-hd.json](./102101-cradle-of-rome-2-hd.json) |
+| Cradle of Sins VR | 130651 | [130651-cradle-of-sins-vr.json](./130651-cradle-of-sins-vr.json) |
 | Cradle of Souls | 188886 | [188886-cradle-of-souls.json](./188886-cradle-of-souls.json) |
 | Cradle of the Dark Brood | 408203 | [408203-cradle-of-the-dark-brood.json](./408203-cradle-of-the-dark-brood.json) |
 | Cradle Song | 65248 | [65248-cradle-song.json](./65248-cradle-song.json) |
@@ -13305,6 +13307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber-Assassin | 269272 | [269272-cyber-assassin.json](./269272-cyber-assassin.json) |
 | Cyber-Cat | 151477 | [151477-cyber-cat.json](./151477-cyber-cat.json) |
 | Cyber-Cop | 80869 | [80869-cyber-cop.json](./80869-cyber-cop.json) |
+| Cyber-Wing | 130654 | [130654-cyber-wing.json](./130654-cyber-wing.json) |
 | Cyber.one: Trans Car Racing | 126985 | [126985-cyber-one-trans-car-racing.json](./126985-cyber-one-trans-car-racing.json) |
 | Cyber92 Datawar | 398491 | [398491-cyber92-datawar.json](./398491-cyber92-datawar.json) |
 | CyberArena | 338211 | [338211-cyberarena.json](./338211-cyberarena.json) |
