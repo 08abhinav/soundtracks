@@ -1600,6 +1600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkasaurus: Sea Monsters | 195749 | [195749-parkasaurus-sea-monsters.json](./195749-parkasaurus-sea-monsters.json) |
 | Parked in the Dark | 128281 | [128281-parked-in-the-dark.json](./128281-parked-in-the-dark.json) |
 | Parker & Lane | 87999 | [87999-parker-and-lane.json](./87999-parker-and-lane.json) |
+| Parker Brothers: Card Games | 100093 | [100093-parker-brothers-card-games.json](./100093-parker-brothers-card-games.json) |
 | Parking 3D | 119624 | [119624-parking-3d.json](./119624-parking-3d.json) |
 | Parking 3D - Car Parking | 102206 | [102206-parking-3d-car-parking.json](./102206-parking-3d-car-parking.json) |
 | Parking Attendant | 151186 | [151186-parking-attendant.json](./151186-parking-attendant.json) |
@@ -2391,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Fit | 60383 | [60383-pc-fit.json](./60383-pc-fit.json) |
 | PC Fútbol 2000 | 78034 | [78034-pc-futbol-2000.json](./78034-pc-futbol-2000.json) |
 | PC Fútbol 2001 | 94569 | [94569-pc-futbol-2001.json](./94569-pc-futbol-2001.json) |
+| PC Fútbol 2005 | 100057 | [100057-pc-futbol-2005.json](./100057-pc-futbol-2005.json) |
 | PC Fútbol 2006 | 94567 | [94567-pc-futbol-2006.json](./94567-pc-futbol-2006.json) |
 | PC Fútbol 4.0 | 85758 | [85758-pc-futbol-4-0.json](./85758-pc-futbol-4-0.json) |
 | PC Fútbol 5.0 | 85751 | [85751-pc-futbol-5-0.json](./85751-pc-futbol-5-0.json) |
@@ -4771,6 +4773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Tycoon | 64477 | [64477-pinball-tycoon.json](./64477-pinball-tycoon.json) |
 | Pinball Wicked | 43121 | [43121-pinball-wicked.json](./43121-pinball-wicked.json) |
 | Pinball Wizard | 12959 | [12959-pinball-wizard.json](./12959-pinball-wizard.json) |
+| Pinball Wizard 2000 | 100104 | [100104-pinball-wizard-2000.json](./100104-pinball-wizard-2000.json) |
 | Pinball World | 51887 | [51887-pinball-world.json](./51887-pinball-world.json) |
 | Pinball Yeah! | 28053 | [28053-pinball-yeah.json](./28053-pinball-yeah.json) |
 | Pinball-e | 170009 | [170009-pinball-e.json](./170009-pinball-e.json) |
@@ -9662,6 +9665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Lili | 107881 | [107881-princess-lili.json](./107881-princess-lili.json) |
 | Princess Lover! | 387346 | [387346-princess-lover.json](./387346-princess-lover.json) |
 | Princess Maira: Initiation | 192658 | [192658-princess-maira-initiation.json](./192658-princess-maira-initiation.json) |
+| Princess Maker | 100085 | [100085-princess-maker.json](./100085-princess-maker.json) |
 | Princess Maker 2 | 194280 | [194280-princess-maker-2.json](./194280-princess-maker-2.json) |
 | Princess Maker 2 Regeneration | 261795 | [261795-princess-maker-2-regeneration.json](./261795-princess-maker-2-regeneration.json) |
 | Princess Maker 3: Fairy Tales Come True | 43184 | [43184-princess-maker-3-fairy-tales-come-true.json](./43184-princess-maker-3-fairy-tales-come-true.json) |
