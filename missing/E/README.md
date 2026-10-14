@@ -4713,6 +4713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evoids | 331434 | [331434-evoids.json](./331434-evoids.json) |
 | Evoke | 111613 | [111613-evoke.json](./111613-evoke.json) |
 | Evoker's Gambit | 333361 | [333361-evokers-gambit.json](./333361-evokers-gambit.json) |
+| Evol Online | 122784 | [122784-evol-online.json](./122784-evol-online.json) |
 | Evoland | 2029 | [2029-evoland.json](./2029-evoland.json) |
 | Evoland 1 & 2: 10th Anniversary Edition | 270590 | [270590-evoland-1-and-2-10th-anniversary-edition.json](./270590-evoland-1-and-2-10th-anniversary-edition.json) |
 | Evoland 2 | 11798 | [11798-evoland-2.json](./11798-evoland-2.json) |
