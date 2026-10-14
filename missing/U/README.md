@@ -708,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultrasound | 365244 | [365244-ultrasound.json](./365244-ultrasound.json) |
 | UltraStar | 142979 | [142979-ultrastar.json](./142979-ultrastar.json) |
 | UltraStar WorldParty | 138582 | [138582-ultrastar-worldparty.json](./138582-ultrastar-worldparty.json) |
+| Ultratank | 120679 | [120679-ultratank.json](./120679-ultratank.json) |
 | Ultratap | 390219 | [390219-ultratap.json](./390219-ultratap.json) |
 | Ultratron | 14327 | [14327-ultratron.json](./14327-ultratron.json) |
 | Ultraviolet | 287149 | [287149-ultraviolet.json](./287149-ultraviolet.json) |
@@ -1716,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlimited Fight Ultimate Strike | 235353 | [235353-unlimited-fight-ultimate-strike.json](./235353-unlimited-fight-ultimate-strike.json) |
 | Unlimited Hearts | 67243 | [67243-unlimited-hearts.json](./67243-unlimited-hearts.json) |
 | Unline | 278501 | [278501-unline.json](./278501-unline.json) |
+| Unlit: Side Scrolling Arcade | 122092 | [122092-unlit-side-scrolling-arcade.json](./122092-unlit-side-scrolling-arcade.json) |
 | Unload | 412472 | [412472-unload.json](./412472-unload.json) |
 | Unlock Kimono Cuties | 196667 | [196667-unlock-kimono-cuties.json](./196667-unlock-kimono-cuties.json) |
 | Unlock Me | 114165 | [114165-unlock-me.json](./114165-unlock-me.json) |
@@ -1838,6 +1840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal Championship | 6220 | [6220-unreal-championship.json](./6220-unreal-championship.json) |
 | Unreal Championship 2: The Liandri Conflict | 6221 | [6221-unreal-championship-2-the-liandri-conflict.json](./6221-unreal-championship-2-the-liandri-conflict.json) |
 | Unreal Drift Online Car Racing | 174891 | [174891-unreal-drift-online-car-racing.json](./174891-unreal-drift-online-car-racing.json) |
+| Unreal Drone Racing | 121371 | [121371-unreal-drone-racing.json](./121371-unreal-drone-racing.json) |
 | Unreal Element World | 187195 | [187195-unreal-element-world.json](./187195-unreal-element-world.json) |
 | Unreal Engine The Legend of Zelda: Ocarina of Time | 199421 | [199421-unreal-engine-the-legend-of-zelda-ocarina-of-time.json](./199421-unreal-engine-the-legend-of-zelda-ocarina-of-time.json) |
 | Unreal Estate | 44103 | [44103-unreal-estate.json](./44103-unreal-estate.json) |
