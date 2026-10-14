@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lablue Horror | 411048 | [411048-lablue-horror.json](./411048-lablue-horror.json) |
 | Labo Brick Car | 100990 | [100990-labo-brick-car.json](./100990-labo-brick-car.json) |
 | Labo Halloween Car | 91095 | [91095-labo-halloween-car.json](./91095-labo-halloween-car.json) |
+| Labor | 100714 | [100714-labor.json](./100714-labor.json) |
 | Labor Power | 312301 | [312301-labor-power.json](./312301-labor-power.json) |
 | Labor Rights Funeral in Ukraine | 379962 | [379962-labor-rights-funeral-in-ukraine.json](./379962-labor-rights-funeral-in-ukraine.json) |
 | Laboratory X-29 | 258550 | [258550-laboratory-x-29.json](./258550-laboratory-x-29.json) |
@@ -4768,6 +4769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone McLonegan : A Western Adventure | 153926 | [153926-lone-mclonegan-a-western-adventure.json](./153926-lone-mclonegan-a-western-adventure.json) |
 | Lone Pine | 373641 | [373641-lone-pine.json](./373641-lone-pine.json) |
 | Lone Ruin | 204013 | [204013-lone-ruin.json](./204013-lone-ruin.json) |
+| Lone Samurai. | 100666 | [100666-lone-samurai.json](./100666-lone-samurai.json) |
 | Lone Siren | 124670 | [124670-lone-siren.json](./124670-lone-siren.json) |
 | Lone Soldier | 44753 | [44753-lone-soldier.json](./44753-lone-soldier.json) |
 | Lone Survivor | 8117 | [8117-lone-survivor.json](./8117-lone-survivor.json) |
