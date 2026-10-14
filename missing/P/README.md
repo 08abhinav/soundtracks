@@ -2645,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pendragon | 132903 | [132903-pendragon.json](./132903-pendragon.json) |
 | Pendragon Rising | 34210 | [34210-pendragon-rising.json](./34210-pendragon-rising.json) |
 | Pendu | 94390 | [94390-pendu.json](./94390-pendu.json) |
+| Pendula Swing: The Complete Journey | 130075 | [130075-pendula-swing-the-complete-journey.json](./130075-pendula-swing-the-complete-journey.json) |
 | Penduline Village | 275654 | [275654-penduline-village.json](./275654-penduline-village.json) |
 | Pendulo Adventure Pack | 223537 | [223537-pendulo-adventure-pack.json](./223537-pendulo-adventure-pack.json) |
 | Penelope Pendrick and the Art of Deceit | 316422 | [316422-penelope-pendrick-and-the-art-of-deceit.json](./316422-penelope-pendrick-and-the-art-of-deceit.json) |
@@ -4111,6 +4112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pictures of Life | 120748 | [120748-pictures-of-life.json](./120748-pictures-of-life.json) |
 | Piczle Cells | 150262 | [150262-piczle-cells.json](./150262-piczle-cells.json) |
 | Piczle Colors | 114419 | [114419-piczle-colors.json](./114419-piczle-colors.json) |
+| Piczle Cross Adventure | 130088 | [130088-piczle-cross-adventure.json](./130088-piczle-cross-adventure.json) |
 | Piczle Cross Adventure + PictoQuest: The Cursed Grids | 146140 | [146140-piczle-cross-adventure-pictoquest-the-cursed-grids.json](./146140-piczle-cross-adventure-pictoquest-the-cursed-grids.json) |
 | Piczle Cross: Story of Seasons | 280465 | [280465-piczle-cross-story-of-seasons.json](./280465-piczle-cross-story-of-seasons.json) |
 | Piczle Lines | 69524 | [69524-piczle-lines.json](./69524-piczle-lines.json) |
@@ -7929,6 +7931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Bridge 2 | 132002 | [132002-poly-bridge-2.json](./132002-poly-bridge-2.json) |
 | Poly Bridge 3 | 243400 | [243400-poly-bridge-3.json](./243400-poly-bridge-3.json) |
 | Poly City : Vengeance | 114423 | [114423-poly-city-vengeance.json](./114423-poly-city-vengeance.json) |
+| Poly Duels | 130058 | [130058-poly-duels.json](./130058-poly-duels.json) |
 | Poly Ego | 260729 | [260729-poly-ego.json](./260729-poly-ego.json) |
 | Poly Fighter | 403109 | [403109-poly-fighter.json](./403109-poly-fighter.json) |
 | Poly Fire | 319119 | [319119-poly-fire.json](./319119-poly-fire.json) |
@@ -11598,6 +11601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purgatory | 383013 | [383013-purgatory.json](./383013-purgatory.json) |
 | Purgatory Dungeoneer | 202581 | [202581-purgatory-dungeoneer.json](./202581-purgatory-dungeoneer.json) |
 | Purgatory Fell | 90254 | [90254-purgatory-fell.json](./90254-purgatory-fell.json) |
+| Purgatory Guardian | 130084 | [130084-purgatory-guardian.json](./130084-purgatory-guardian.json) |
 | Purgatory Of the Golden Witch | 382438 | [382438-purgatory-of-the-golden-witch.json](./382438-purgatory-of-the-golden-witch.json) |
 | Purgatory Overkill | 160071 | [160071-purgatory-overkill.json](./160071-purgatory-overkill.json) |
 | Purgatory Pitstop | 390774 | [390774-purgatory-pitstop.json](./390774-purgatory-pitstop.json) |
@@ -12346,6 +12350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyro Complete Bundle | 218460 | [218460-pyro-complete-bundle.json](./218460-pyro-complete-bundle.json) |
 | Pyro Jump Rescue | 293149 | [293149-pyro-jump-rescue.json](./293149-pyro-jump-rescue.json) |
 | Pyro Sand | 146670 | [146670-pyro-sand.json](./146670-pyro-sand.json) |
+| Pyro the Exterminator | 130092 | [130092-pyro-the-exterminator.json](./130092-pyro-the-exterminator.json) |
 | Pyro VR | 29602 | [29602-pyro-vr.json](./29602-pyro-vr.json) |
 | Pyrocast | 288762 | [288762-pyrocast.json](./288762-pyrocast.json) |
 | Pyromancer | 124580 | [124580-pyromancer.json](./124580-pyromancer.json) |
