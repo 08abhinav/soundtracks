@@ -1142,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy! Happy!! Boarders in Hokkaido | 61708 | [61708-happy-happy-boarders-in-hokkaido.json](./61708-happy-happy-boarders-in-hokkaido.json) |
 | Happy's Clocks | 207594 | [207594-happys-clocks.json](./207594-happys-clocks.json) |
 | Happy's Humble Burger Barn | 133612 | [133612-happys-humble-burger-barn.json](./133612-happys-humble-burger-barn.json) |
+| HappyBoxDodging | 104518 | [104518-happyboxdodging.json](./104518-happyboxdodging.json) |
 | Happyface | 68623 | [68623-happyface.json](./68623-happyface.json) |
 | HappyFamily - Cut Knife | 100866 | [100866-happyfamily-cut-knife.json](./100866-happyfamily-cut-knife.json) |
 | HappyFunland | 215689 | [215689-happyfunland.json](./215689-happyfunland.json) |
@@ -2624,6 +2625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helix | 181115 | [181115-helix.json](./181115-helix.json) |
 | Helix Ball | 104651 | [104651-helix-ball.json](./104651-helix-ball.json) |
 | Helix Brawl | 168645 | [168645-helix-brawl.json](./168645-helix-brawl.json) |
+| Helix Fall | 104545 | [104545-helix-fall.json](./104545-helix-fall.json) |
 | Helix Fruit Jump | 316193 | [316193-helix-fruit-jump.json](./316193-helix-fruit-jump.json) |
 | Helix Jump | 89025 | [89025-helix-jump.json](./89025-helix-jump.json) |
 | Helix Jump 2 | 101536 | [101536-helix-jump-2.json](./101536-helix-jump-2.json) |
@@ -7824,6 +7826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Monster | 241857 | [241857-hungry-monster.json](./241857-hungry-monster.json) |
 | Hungry Piggy Vs. Chicken | 99657 | [99657-hungry-piggy-vs-chicken.json](./99657-hungry-piggy-vs-chicken.json) |
 | Hungry Pigs | 206180 | [206180-hungry-pigs.json](./206180-hungry-pigs.json) |
+| Hungry Piranha Hunting - Shark Spear-fishing world | 104527 | [104527-hungry-piranha-hunting-shark-spear-fishing-world.json](./104527-hungry-piranha-hunting-shark-spear-fishing-world.json) |
 | Hungry Planet | 107755 | [107755-hungry-planet.json](./107755-hungry-planet.json) |
 | Hungry Red Planet | 73765 | [73765-hungry-red-planet.json](./73765-hungry-red-planet.json) |
 | Hungry Shadows | 106459 | [106459-hungry-shadows.json](./106459-hungry-shadows.json) |
