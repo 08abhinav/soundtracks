@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P1 Select | 139803 | [139803-p1-select.json](./139803-p1-select.json) |
 | P1: Anchor Light | 363808 | [363808-p1-anchor-light.json](./363808-p1-anchor-light.json) |
 | P1441vr | 186851 | [186851-p1441vr.json](./186851-p1441vr.json) |
+| P1r4t3s | 126937 | [126937-p1r4t3s.json](./126937-p1r4t3s.json) |
 | P47 Thunderbolt | 12838 | [12838-p47-thunderbolt.json](./12838-p47-thunderbolt.json) |
 | P4st3l | 297357 | [297357-p4st3l.json](./297357-p4st3l.json) |
 | P9: The GateAway | 129093 | [129093-p9-the-gateaway.json](./129093-p9-the-gateaway.json) |
@@ -1318,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradize Project | 208418 | [208418-paradize-project.json](./208418-paradize-project.json) |
 | Paradox | 164872 | [164872-paradox.json](./164872-paradox.json) |
 | Paradox Error | 152161 | [152161-paradox-error.json](./152161-paradox-error.json) |
+| Paradox Escape Route | 125732 | [125732-paradox-escape-route.json](./125732-paradox-escape-route.json) |
 | Paradox Factor | 197059 | [197059-paradox-factor.json](./197059-paradox-factor.json) |
 | Paradox Guardians | 277361 | [277361-paradox-guardians.json](./277361-paradox-guardians.json) |
 | Paradox Lost | 330161 | [330161-paradox-lost.json](./330161-paradox-lost.json) |
@@ -1942,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Exile 2: Runes of Aldur | 403535 | [403535-path-of-exile-2-runes-of-aldur.json](./403535-path-of-exile-2-runes-of-aldur.json) |
 | Path of Exile 2: The Last of the Druids | 378276 | [378276-path-of-exile-2-the-last-of-the-druids.json](./378276-path-of-exile-2-the-last-of-the-druids.json) |
 | Path of Exile 2: The Third Edict | 380175 | [380175-path-of-exile-2-the-third-edict.json](./380175-path-of-exile-2-the-third-edict.json) |
+| Path of Exile Mobile | 125735 | [125735-path-of-exile-mobile.json](./125735-path-of-exile-mobile.json) |
 | Path of Exile: Crucible | 257831 | [257831-path-of-exile-crucible.json](./257831-path-of-exile-crucible.json) |
 | Path of Exile: Echoes of the Atlas | 142400 | [142400-path-of-exile-echoes-of-the-atlas.json](./142400-path-of-exile-echoes-of-the-atlas.json) |
 | Path of Exile: Forbidden Sanctum | 228596 | [228596-path-of-exile-forbidden-sanctum.json](./228596-path-of-exile-forbidden-sanctum.json) |
@@ -5434,6 +5437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzle Makeout League | 121603 | [121603-pixel-puzzle-makeout-league.json](./121603-pixel-puzzle-makeout-league.json) |
 | Pixel Puzzles | 243639 | [243639-pixel-puzzles.json](./243639-pixel-puzzles.json) |
 | Pixel Puzzles 2: Christmas | 112743 | [112743-pixel-puzzles-2-christmas.json](./112743-pixel-puzzles-2-christmas.json) |
+| Pixel Puzzles 2: Halloween | 125736 | [125736-pixel-puzzles-2-halloween.json](./125736-pixel-puzzles-2-halloween.json) |
 | Pixel Puzzles 3: Ukiyo-e Jigsaws | 312692 | [312692-pixel-puzzles-3-ukiyo-e-jigsaws.json](./312692-pixel-puzzles-3-ukiyo-e-jigsaws.json) |
 | Pixel Puzzles 4k: Japan | 163411 | [163411-pixel-puzzles-4k-japan.json](./163411-pixel-puzzles-4k-japan.json) |
 | Pixel Puzzles Aardman Jigsaws | 295126 | [295126-pixel-puzzles-aardman-jigsaws.json](./295126-pixel-puzzles-aardman-jigsaws.json) |
@@ -7835,6 +7839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Detective: Tokyo Beat | 381362 | [381362-police-detective-tokyo-beat.json](./381362-police-detective-tokyo-beat.json) |
 | Police Drifty Chase | 181641 | [181641-police-drifty-chase.json](./181641-police-drifty-chase.json) |
 | Police Enforcement VR : 1-K-27 | 97014 | [97014-police-enforcement-vr-1-k-27.json](./97014-police-enforcement-vr-1-k-27.json) |
+| Police Force | 125763 | [125763-police-force.json](./125763-police-force.json) |
 | Police Girls | 393765 | [393765-police-girls.json](./393765-police-girls.json) |
 | Police Girls on the Case! | 231433 | [231433-police-girls-on-the-case.json](./231433-police-girls-on-the-case.json) |
 | Police Helicopter Simulator | 111959 | [111959-police-helicopter-simulator.json](./111959-police-helicopter-simulator.json) |
@@ -10421,6 +10426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Ictos | 286057 | [286057-project-ictos.json](./286057-project-ictos.json) |
 | Project II: Final Fantasy IV | 379344 | [379344-project-ii-final-fantasy-iv.json](./379344-project-ii-final-fantasy-iv.json) |
 | Project Impulse | 203304 | [203304-project-impulse.json](./203304-project-impulse.json) |
+| Project IO | 126920 | [126920-project-io.json](./126920-project-io.json) |
 | Project Ion | 62550 | [62550-project-ion.json](./62550-project-ion.json) |
 | Project Juggler | 305967 | [305967-project-juggler.json](./305967-project-juggler.json) |
 | Project Jump Scare | 60769 | [60769-project-jump-scare.json](./60769-project-jump-scare.json) |
@@ -10875,6 +10881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protect the Kingdom | 179086 | [179086-protect-the-kingdom.json](./179086-protect-the-kingdom.json) |
 | Protect the Planet | 257969 | [257969-protect-the-planet.json](./257969-protect-the-planet.json) |
 | Protect The Town: Armageddon | 291165 | [291165-protect-the-town-armageddon.json](./291165-protect-the-town-armageddon.json) |
+| Protect Your Fool | 126936 | [126936-protect-your-fool.json](./126936-protect-your-fool.json) |
 | Protect Your Gold From Barack Obama | 313343 | [313343-protect-your-gold-from-barack-obama.json](./313343-protect-your-gold-from-barack-obama.json) |
 | Protect Zoey from the Zombies | 98595 | [98595-protect-zoey-from-the-zombies.json](./98595-protect-zoey-from-the-zombies.json) |
 | ProtectHeart | 286036 | [286036-protectheart.json](./286036-protectheart.json) |
