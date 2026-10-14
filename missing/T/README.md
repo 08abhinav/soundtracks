@@ -4923,6 +4923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Church of Cheesus Crisp: An All You Can Pray Buffet | 159364 | [159364-the-church-of-cheesus-crisp-an-all-you-can-pray-buffet.json](./159364-the-church-of-cheesus-crisp-an-all-you-can-pray-buffet.json) |
 | The Cinder War | 410393 | [410393-the-cinder-war.json](./410393-the-cinder-war.json) |
 | The Cinderling | 404855 | [404855-the-cinderling.json](./404855-the-cinderling.json) |
+| The Cinema Rosa | 101449 | [101449-the-cinema-rosa.json](./101449-the-cinema-rosa.json) |
 | The Circle Move | 341106 | [341106-the-circle-move.json](./341106-the-circle-move.json) |
 | The Circle: Martial Arts Fighter | 206189 | [206189-the-circle-martial-arts-fighter.json](./206189-the-circle-martial-arts-fighter.json) |
 | The Circulation of Shadows | 271462 | [271462-the-circulation-of-shadows.json](./271462-the-circulation-of-shadows.json) |
@@ -6003,6 +6004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Engraved Dispatch | 181366 | [181366-the-engraved-dispatch.json](./181366-the-engraved-dispatch.json) |
 | The Enigma Lounge | 380439 | [380439-the-enigma-lounge.json](./380439-the-enigma-lounge.json) |
 | The Enjenir | 197182 | [197182-the-enjenir.json](./197182-the-enjenir.json) |
+| The Ensign | 101410 | [101410-the-ensign.json](./101410-the-ensign.json) |
 | The Entente Gold | 36368 | [36368-the-entente-gold.json](./36368-the-entente-gold.json) |
 | The Entente: Battlefields WW1 | 9829 | [9829-the-entente-battlefields-ww1.json](./9829-the-entente-battlefields-ww1.json) |
 | The Entertainer | 395864 | [395864-the-entertainer.json](./395864-the-entertainer.json) |
@@ -6528,6 +6530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten Village | 337488 | [337488-the-forgotten-village.json](./337488-the-forgotten-village.json) |
 | The Forgotten Village of Gondomayit | 268215 | [268215-the-forgotten-village-of-gondomayit.json](./268215-the-forgotten-village-of-gondomayit.json) |
 | The Forgotten Villages of Gondomayit 2" Kost Karangsari | 285569 | [285569-the-forgotten-villages-of-gondomayit-2-kost-karangsari.json](./285569-the-forgotten-villages-of-gondomayit-2-kost-karangsari.json) |
+| The Forgotten Void | 101457 | [101457-the-forgotten-void.json](./101457-the-forgotten-void.json) |
 | The Forgotten World | 244348 | [244348-the-forgotten-world.json](./244348-the-forgotten-world.json) |
 | The Forgotten: It Begins | 73526 | [73526-the-forgotten-it-begins.json](./73526-the-forgotten-it-begins.json) |
 | The Forlorn | 415163 | [415163-the-forlorn.json](./415163-the-forlorn.json) |
@@ -8112,6 +8115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last of Us Part II Remastered: W.L.F. Edition | 279776 | [279776-the-last-of-us-part-ii-remastered-w-l-f-edition.json](./279776-the-last-of-us-part-ii-remastered-w-l-f-edition.json) |
 | The Last of Us Remastered: Day 1 Edition | 89931 | [89931-the-last-of-us-remastered-day-1-edition.json](./89931-the-last-of-us-remastered-day-1-edition.json) |
 | The Last of Us: Between The Years | 305372 | [305372-the-last-of-us-between-the-years.json](./305372-the-last-of-us-between-the-years.json) |
+| The Last of Us: Ellie Edition | 101462 | [101462-the-last-of-us-ellie-edition.json](./101462-the-last-of-us-ellie-edition.json) |
 | The Last of Us: Joel Edition | 102081 | [102081-the-last-of-us-joel-edition.json](./102081-the-last-of-us-joel-edition.json) |
 | The Last of Us: Left Behind - Remastered | 219027 | [219027-the-last-of-us-left-behind-remastered.json](./219027-the-last-of-us-left-behind-remastered.json) |
 | The Last of Us: Post-Pandemic Edition | 102083 | [102083-the-last-of-us-post-pandemic-edition.json](./102083-the-last-of-us-post-pandemic-edition.json) |
@@ -16066,6 +16070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanic Escape Simulator | 411584 | [411584-titanic-escape-simulator.json](./411584-titanic-escape-simulator.json) |
 | Titanic II: Orchestra for Dying at Sea | 204471 | [204471-titanic-ii-orchestra-for-dying-at-sea.json](./204471-titanic-ii-orchestra-for-dying-at-sea.json) |
 | Titanic Mystery: Ao no Senritsu | 41312 | [41312-titanic-mystery-ao-no-senritsu.json](./41312-titanic-mystery-ao-no-senritsu.json) |
+| Titanic Panic | 101459 | [101459-titanic-panic.json](./101459-titanic-panic.json) |
 | Titanic Rescue | 360498 | [360498-titanic-rescue.json](./360498-titanic-rescue.json) |
 | Titanic Shipwreck Exploration | 111180 | [111180-titanic-shipwreck-exploration.json](./111180-titanic-shipwreck-exploration.json) |
 | Titanic Survival Simulator | 404369 | [404369-titanic-survival-simulator.json](./404369-titanic-survival-simulator.json) |
@@ -17485,6 +17490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Arcade Racing | 132563 | [132563-total-arcade-racing.json](./132563-total-arcade-racing.json) |
 | Total Assault: Zombie Massacre | 214109 | [214109-total-assault-zombie-massacre.json](./214109-total-assault-zombie-massacre.json) |
 | Total Battle | 112718 | [112718-total-battle.json](./112718-total-battle.json) |
+| Total Battleground | 101416 | [101416-total-battleground.json](./101416-total-battleground.json) |
 | Total Chaos | 125766 | [125766-total-chaos.json](./125766-total-chaos.json) |
 | Total Chaos | 301071 | [301071-total-chaos.json](./301071-total-chaos.json) |
 | Total Club Manager 2003 | 6211 | [6211-total-club-manager-2003.json](./6211-total-club-manager-2003.json) |
