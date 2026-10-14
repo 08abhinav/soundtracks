@@ -5624,6 +5624,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowers of Satsunai | 226149 | [226149-flowers-of-satsunai.json](./226149-flowers-of-satsunai.json) |
 | Flowers of Starlight | 264345 | [264345-flowers-of-starlight.json](./264345-flowers-of-starlight.json) |
 | Flowers: Kokoro no Hana | 308249 | [308249-flowers-kokoro-no-hana.json](./308249-flowers-kokoro-no-hana.json) |
+| Flowers: Le Volume sur Automne | 83393 | [83393-flowers-le-volume-sur-automne.json](./83393-flowers-le-volume-sur-automne.json) |
+| Flowers: Le Volume sur Hiver | 83392 | [83392-flowers-le-volume-sur-hiver.json](./83392-flowers-le-volume-sur-hiver.json) |
 | Flowers: Le Volume sur Printemps | 33272 | [33272-flowers-le-volume-sur-printemps.json](./33272-flowers-le-volume-sur-printemps.json) |
 | Flowershop Master Yuukarin! | 365749 | [365749-flowershop-master-yuukarin.json](./365749-flowershop-master-yuukarin.json) |
 | FlowerStick | 125968 | [125968-flowerstick.json](./125968-flowerstick.json) |
