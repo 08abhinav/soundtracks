@@ -8010,6 +8010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fringe Wars | 74724 | [74724-fringe-wars.json](./74724-fringe-wars.json) |
 | Fringes of the Empire | 34426 | [34426-fringes-of-the-empire.json](./34426-fringes-of-the-empire.json) |
 | Frio2 - Memory of my sister | 90004 | [90004-frio2-memory-of-my-sister.json](./90004-frio2-memory-of-my-sister.json) |
+| Frio3 - Parting and Meeting | 114249 | [114249-frio3-parting-and-meeting.json](./114249-frio3-parting-and-meeting.json) |
 | Frip and Froop's Logical Labyrinth | 56509 | [56509-frip-and-froops-logical-labyrinth.json](./56509-frip-and-froops-logical-labyrinth.json) |
 | Friquiz | 135812 | [135812-friquiz.json](./135812-friquiz.json) |
 | Frisbee Forever | 338144 | [338144-frisbee-forever.json](./338144-frisbee-forever.json) |
