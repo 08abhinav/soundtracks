@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H2O: A Diabolic Game | 14473 | [14473-h2o-a-diabolic-game.json](./14473-h2o-a-diabolic-game.json) |
 | H2O: Footprints in the Sand | 72719 | [72719-h2o-footprints-in-the-sand.json](./72719-h2o-footprints-in-the-sand.json) |
 | H2O: High speed Boat Racing | 262403 | [262403-h2o-high-speed-boat-racing.json](./262403-h2o-high-speed-boat-racing.json) |
+| H2Overdrive | 92411 | [92411-h2overdrive.json](./92411-h2overdrive.json) |
 | H7N9 | 305752 | [305752-h7n9.json](./305752-h7n9.json) |
 | H8machine | 210868 | [210868-h8machine.json](./210868-h8machine.json) |
 | Ha_Bits | 170537 | [170537-ha-bits.json](./170537-ha-bits.json) |
@@ -5446,6 +5447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit | 358300 | [358300-hit.json](./358300-hit.json) |
 | Hit 'N Miss | 40349 | [40349-hit-n-miss.json](./40349-hit-n-miss.json) |
 | Hit & Knock down | 107076 | [107076-hit-and-knock-down.json](./107076-hit-and-knock-down.json) |
+| Hit & Myth | 92384 | [92384-hit-and-myth.json](./92384-hit-and-myth.json) |
 | Hit & Run VR | 116828 | [116828-hit-and-run-vr.json](./116828-hit-and-run-vr.json) |
 | Hit & Run: Solo Leveling | 208922 | [208922-hit-and-run-solo-leveling.json](./208922-hit-and-run-solo-leveling.json) |
 | Hit 2 | 193871 | [193871-hit-2.json](./193871-hit-2.json) |
@@ -6851,6 +6853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshimago | 236341 | [236341-hoshimago.json](./236341-hoshimago.json) |
 | Hoshiwari x Yoizanai | 396476 | [396476-hoshiwari-x-yoizanai.json](./396476-hoshiwari-x-yoizanai.json) |
 | Hoshizora e Kakaru Hashi AA | 144889 | [144889-hoshizora-e-kakaru-hashi-aa.json](./144889-hoshizora-e-kakaru-hashi-aa.json) |
+| Hoshizora Navi | 92412 | [92412-hoshizora-navi.json](./92412-hoshizora-navi.json) |
 | Hoshizora no Comic Garden | 70660 | [70660-hoshizora-no-comic-garden.json](./70660-hoshizora-no-comic-garden.json) |
 | Hoshizora no Memoria: Wish Upon a Shooting Star HD | 312361 | [312361-hoshizora-no-memoria-wish-upon-a-shooting-star-hd.json](./312361-hoshizora-no-memoria-wish-upon-a-shooting-star-hd.json) |
 | Hoshizora Tensei Another Sky | 259709 | [259709-hoshizora-tensei-another-sky.json](./259709-hoshizora-tensei-another-sky.json) |
