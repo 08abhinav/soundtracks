@@ -2442,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kira and the Life Stone | 170901 | [170901-kira-and-the-life-stone.json](./170901-kira-and-the-life-stone.json) |
 | Kira Kira | 125163 | [125163-kira-kira.json](./125163-kira-kira.json) |
 | Kira Kira | 140523 | [140523-kira-kira.json](./140523-kira-kira.json) |
+| Kira Kira Curtain Call | 125740 | [125740-kira-kira-curtain-call.json](./125740-kira-kira-curtain-call.json) |
 | Kira Kira Magical Stars | 298966 | [298966-kira-kira-magical-stars.json](./298966-kira-kira-magical-stars.json) |
 | Kira Kira Pop Princess | 26560 | [26560-kira-kira-pop-princess.json](./26560-kira-kira-pop-princess.json) |
 | Kira Kira Rainbow Pack | 26562 | [26562-kira-kira-rainbow-pack.json](./26562-kira-kira-rainbow-pack.json) |
@@ -3634,6 +3635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kou Dai Guai Shou | 280683 | [280683-kou-dai-guai-shou.json](./280683-kou-dai-guai-shou.json) |
 | Kou Dai Guai Shou II | 280685 | [280685-kou-dai-guai-shou-ii.json](./280685-kou-dai-guai-shou-ii.json) |
 | Kou Dai Guai Shou III | 280687 | [280687-kou-dai-guai-shou-iii.json](./280687-kou-dai-guai-shou-iii.json) |
+| Kou-Kyou-Sei Million Arthur | 125771 | [125771-kou-kyou-sei-million-arthur.json](./125771-kou-kyou-sei-million-arthur.json) |
 | Kouchuu Kakutou: Mushi 1 Grand Prix | 122898 | [122898-kouchuu-kakutou-mushi-1-grand-prix.json](./122898-kouchuu-kakutou-mushi-1-grand-prix.json) |
 | Kouchuu Ouja Mushiking: Mori no Tami no Densetsu - Minna de Tanken! Kouchuu no Mori | 123621 | [123621-kouchuu-ouja-mushiking-mori-no-tami-no-densetsu-minna-de-tanken-kouchuu-no-mori.json](./123621-kouchuu-ouja-mushiking-mori-no-tami-no-densetsu-minna-de-tanken-kouchuu-no-mori.json) |
 | Kouchuu Ouja Mushiking: Nebu-Hakase to Kazu Katachi ni Challenge! | 125809 | [125809-kouchuu-ouja-mushiking-nebu-hakase-to-kazu-katachi-ni-challenge.json](./125809-kouchuu-ouja-mushiking-nebu-hakase-to-kazu-katachi-ni-challenge.json) |
@@ -3787,6 +3789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kroniki Elevena | 236807 | [236807-kroniki-elevena.json](./236807-kroniki-elevena.json) |
 | Kronno Zomber | 240271 | [240271-kronno-zomber.json](./240271-kronno-zomber.json) |
 | Kronolog: The Nazi Paradox | 50481 | [50481-kronolog-the-nazi-paradox.json](./50481-kronolog-the-nazi-paradox.json) |
+| Kronorite | 127651 | [127651-kronorite.json](./127651-kronorite.json) |
 | Kronos | 340892 | [340892-kronos.json](./340892-kronos.json) |
 | Kronos: Wisdom Trials | 170870 | [170870-kronos-wisdom-trials.json](./170870-kronos-wisdom-trials.json) |
 | Kronville: Stolen Dreams | 53262 | [53262-kronville-stolen-dreams.json](./53262-kronville-stolen-dreams.json) |
@@ -4090,6 +4093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KWRPG Platformer Online | 323968 | [323968-kwrpg-platformer-online.json](./323968-kwrpg-platformer-online.json) |
 | KWRPGII | 323969 | [323969-kwrpgii.json](./323969-kwrpgii.json) |
 | KWRPGIII | 323922 | [323922-kwrpgiii.json](./323922-kwrpgiii.json) |
+| Kyber Knights | 126927 | [126927-kyber-knights.json](./126927-kyber-knights.json) |
 | Kye | 271700 | [271700-kye.json](./271700-kye.json) |
 | Kye | 98948 | [98948-kye.json](./98948-kye.json) |
 | Kyivan Rus | 214197 | [214197-kyivan-rus.json](./214197-kyivan-rus.json) |
