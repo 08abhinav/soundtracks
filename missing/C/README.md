@@ -933,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannibal Crossing | 140364 | [140364-cannibal-crossing.json](./140364-cannibal-crossing.json) |
 | Cannibal Harvest | 334645 | [334645-cannibal-harvest.json](./334645-cannibal-harvest.json) |
 | Cannibal Island: Survival | 266780 | [266780-cannibal-island-survival.json](./266780-cannibal-island-survival.json) |
+| Cannibal Lottery | 113571 | [113571-cannibal-lottery.json](./113571-cannibal-lottery.json) |
 | Cannibal Tales | 254001 | [254001-cannibal-tales.json](./254001-cannibal-tales.json) |
 | Cannibals and Missionaries | 355524 | [355524-cannibals-and-missionaries.json](./355524-cannibals-and-missionaries.json) |
 | Cannon | 166034 | [166034-cannon.json](./166034-cannon.json) |
@@ -5490,6 +5491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronotron | 212779 | [212779-chronotron.json](./212779-chronotron.json) |
 | Chronus Arc | 38512 | [38512-chronus-arc.json](./38512-chronus-arc.json) |
 | Chrs 143 | 162430 | [162430-chrs-143.json](./162430-chrs-143.json) |
+| Chrysalis | 113559 | [113559-chrysalis.json](./113559-chrysalis.json) |
 | Chrysalis | 321638 | [321638-chrysalis.json](./321638-chrysalis.json) |
 | Chrysalis | 57122 | [57122-chrysalis.json](./57122-chrysalis.json) |
 | Chrysalis: Chrome Butterfly | 389559 | [389559-chrysalis-chrome-butterfly.json](./389559-chrysalis-chrome-butterfly.json) |
