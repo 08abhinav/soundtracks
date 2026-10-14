@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caesar II | 7509 | [7509-caesar-ii.json](./7509-caesar-ii.json) |
 | Caesar IV | 7508 | [7508-caesar-iv.json](./7508-caesar-iv.json) |
 | Caesar Palace Slots | 200504 | [200504-caesar-palace-slots.json](./200504-caesar-palace-slots.json) |
+| Caesar: Gold Edition | 129480 | [129480-caesar-gold-edition.json](./129480-caesar-gold-edition.json) |
 | Caesar's Palace VIP Series: BlackJack | 206699 | [206699-caesars-palace-vip-series-blackjack.json](./206699-caesars-palace-vip-series-blackjack.json) |
 | Caesar's Travels | 73307 | [73307-caesars-travels.json](./73307-caesars-travels.json) |
 | Caesar's World of Boxing | 45941 | [45941-caesars-world-of-boxing.json](./45941-caesars-world-of-boxing.json) |
@@ -4648,6 +4649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Child of Ault | 30196 | [30196-child-of-ault.json](./30196-child-of-ault.json) |
 | Child of Hope | 190228 | [190228-child-of-hope.json](./190228-child-of-hope.json) |
 | Child of Light: Dark Aurora Pack | 160279 | [160279-child-of-light-dark-aurora-pack.json](./160279-child-of-light-dark-aurora-pack.json) |
+| Child of Light: Deluxe Edition | 129501 | [129501-child-of-light-deluxe-edition.json](./129501-child-of-light-deluxe-edition.json) |
 | Child of Light: Limited Edition | 166238 | [166238-child-of-light-limited-edition.json](./166238-child-of-light-limited-edition.json) |
 | Child of Light: The Golem's Plight Pack | 170390 | [170390-child-of-light-the-golems-plight-pack.json](./170390-child-of-light-the-golems-plight-pack.json) |
 | Child of Light: Ultimate Edition | 99781 | [99781-child-of-light-ultimate-edition.json](./99781-child-of-light-ultimate-edition.json) |
@@ -4965,6 +4967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choky! Choky! | 40980 | [40980-choky-choky.json](./40980-choky-choky.json) |
 | Cholo | 12984 | [12984-cholo.json](./12984-cholo.json) |
 | Chomp | 79888 | [79888-chomp.json](./79888-chomp.json) |
+| Chomp Chomp | 129477 | [129477-chomp-chomp.json](./129477-chomp-chomp.json) |
 | Chomp Chomp | 290097 | [290097-chomp-chomp.json](./290097-chomp-chomp.json) |
 | Chomp Garden | 419945 | [419945-chomp-garden.json](./419945-chomp-garden.json) |
 | Chomp Hero | 392253 | [392253-chomp-hero.json](./392253-chomp-hero.json) |
@@ -8940,6 +8943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Simulator 2015: St. John's Hospital Fuchsberg | 168915 | [168915-construction-simulator-2015-st-johns-hospital-fuchsberg.json](./168915-construction-simulator-2015-st-johns-hospital-fuchsberg.json) |
 | Construction Simulator 2015: Vertical Skyline | 168917 | [168917-construction-simulator-2015-vertical-skyline.json](./168917-construction-simulator-2015-vertical-skyline.json) |
 | Construction Simulator 3 | 113630 | [113630-construction-simulator-3.json](./113630-construction-simulator-3.json) |
+| Construction Simulator 3: Console Edition | 129507 | [129507-construction-simulator-3-console-edition.json](./129507-construction-simulator-3-console-edition.json) |
 | Construction Simulator 4 | 292143 | [292143-construction-simulator-4.json](./292143-construction-simulator-4.json) |
 | Construction Simulator PRO | 88470 | [88470-construction-simulator-pro.json](./88470-construction-simulator-pro.json) |
 | Construction Simulator: Car & Bobblehead Pack | 308522 | [308522-construction-simulator-car-and-bobblehead-pack.json](./308522-construction-simulator-car-and-bobblehead-pack.json) |
@@ -9323,6 +9327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Tycoons - 3 in 1 Bundle Upgrade Edition | 399815 | [399815-cooking-tycoons-3-in-1-bundle-upgrade-edition.json](./399815-cooking-tycoons-3-in-1-bundle-upgrade-edition.json) |
 | Cooking Tycoons 2: 3 in 1 Bundle | 147777 | [147777-cooking-tycoons-2-3-in-1-bundle.json](./147777-cooking-tycoons-2-3-in-1-bundle.json) |
 | Cooking Tycoons 3: 3 in 1 Bundle | 231045 | [231045-cooking-tycoons-3-3-in-1-bundle.json](./231045-cooking-tycoons-3-3-in-1-bundle.json) |
+| Cooking Tycoons: 3 in 1 Bundle | 129512 | [129512-cooking-tycoons-3-in-1-bundle.json](./129512-cooking-tycoons-3-in-1-bundle.json) |
 | Cooking Tycoons: 3 in 1 Bundle - Extended Edition | 332511 | [332511-cooking-tycoons-3-in-1-bundle-extended-edition.json](./332511-cooking-tycoons-3-in-1-bundle-extended-edition.json) |
 | Cooking Tycoons: 3 in 1 Bundle - Premium Edition | 396916 | [396916-cooking-tycoons-3-in-1-bundle-premium-edition.json](./396916-cooking-tycoons-3-in-1-bundle-premium-edition.json) |
 | Cooking Tycoons: 3 in 1 Bundle Diamond Edition | 410854 | [410854-cooking-tycoons-3-in-1-bundle-diamond-edition.json](./410854-cooking-tycoons-3-in-1-bundle-diamond-edition.json) |
@@ -9861,6 +9866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CosmoLands \| Space-Adventure | 33482 | [33482-cosmolands-space-adventure.json](./33482-cosmolands-space-adventure.json) |
 | Cosmology of Kyoto | 46577 | [46577-cosmology-of-kyoto.json](./46577-cosmology-of-kyoto.json) |
 | Cosmonaut | 228342 | [228342-cosmonaut.json](./228342-cosmonaut.json) |
+| Cosmonauta | 129486 | [129486-cosmonauta.json](./129486-cosmonauta.json) |
 | Cosmonious High | 194955 | [194955-cosmonious-high.json](./194955-cosmonious-high.json) |
 | Cosmonuts | 86200 | [86200-cosmonuts.json](./86200-cosmonuts.json) |
 | Cosmophage | 148552 | [148552-cosmophage.json](./148552-cosmophage.json) |
@@ -13587,5 +13593,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyvern | 39835 | [39835-cyvern.json](./39835-cyvern.json) |
 | Cywall | 399878 | [399878-cywall.json](./399878-cywall.json) |
 | Cyyer | 298698 | [298698-cyyer.json](./298698-cyyer.json) |
+| Czar: Decision | 129467 | [129467-czar-decision.json](./129467-czar-decision.json) |
 | Czarny Orzel | 130680 | [130680-czarny-orzel.json](./130680-czarny-orzel.json) |
 | Czech Soccer Manager 2020 | 145425 | [145425-czech-soccer-manager-2020.json](./145425-czech-soccer-manager-2020.json) |
