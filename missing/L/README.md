@@ -3729,6 +3729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links: Championship Course - Pinehurst Country Club | 73461 | [73461-links-championship-course-pinehurst-country-club.json](./73461-links-championship-course-pinehurst-country-club.json) |
 | Links: Championship Course - Troon North | 73319 | [73319-links-championship-course-troon-north.json](./73319-links-championship-course-troon-north.json) |
 | Links: Championship Course: Innisbrook - Copperhead | 73481 | [73481-links-championship-course-innisbrook-copperhead.json](./73481-links-championship-course-innisbrook-copperhead.json) |
+| Links: Championship Edition | 77903 | [77903-links-championship-edition.json](./77903-links-championship-edition.json) |
 | LinkShift | 357168 | [357168-linkshift.json](./357168-linkshift.json) |
 | Linkz | 92995 | [92995-linkz.json](./92995-linkz.json) |
 | Linley Henzell's Dungeon Crawl | 84198 | [84198-linley-henzells-dungeon-crawl.json](./84198-linley-henzells-dungeon-crawl.json) |
