@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T08:22:39.077Z",
-  "total_missing": 209847,
+  "generated_at": "2026-10-14T08:26:58.831Z",
+  "total_missing": 209846,
   "games": [
     {
       "igdb_id": 191680,
@@ -659310,11 +659310,6 @@
       "igdb_id": 88442,
       "game_name": "Planet of Cubes Survival Games",
       "file": "missing/P/88442-planet-of-cubes-survival-games.json"
-    },
-    {
-      "igdb_id": 152071,
-      "game_name": "Planet of Lana",
-      "file": "missing/P/152071-planet-of-lana.json"
     },
     {
       "igdb_id": 348200,
