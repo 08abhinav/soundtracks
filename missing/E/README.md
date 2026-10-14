@@ -959,6 +959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Squeeze | 318509 | [318509-egg-squeeze.json](./318509-egg-squeeze.json) |
 | Egg Surprise | 314432 | [314432-egg-surprise.json](./314432-egg-surprise.json) |
 | Egg Tales | 58749 | [58749-egg-tales.json](./58749-egg-tales.json) |
+| Egg Teacher VR | 110103 | [110103-egg-teacher-vr.json](./110103-egg-teacher-vr.json) |
 | Egg Time | 31213 | [31213-egg-time.json](./31213-egg-time.json) |
 | Egg Up | 154588 | [154588-egg-up.json](./154588-egg-up.json) |
 | Egg War Puzzle | 257916 | [257916-egg-war-puzzle.json](./257916-egg-war-puzzle.json) |
@@ -4161,6 +4162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eurgava: Pathforgers | 348290 | [348290-eurgava-pathforgers.json](./348290-eurgava-pathforgers.json) |
 | Eurgava: Tomb of Senza | 116122 | [116122-eurgava-tomb-of-senza.json](./116122-eurgava-tomb-of-senza.json) |
 | Eurit | 42246 | [42246-eurit.json](./42246-eurit.json) |
+| Euro 2016 Shootout Quiz | 110201 | [110201-euro-2016-shootout-quiz.json](./110201-euro-2016-shootout-quiz.json) |
 | Euro 3v3 | 394119 | [394119-euro-3v3.json](./394119-euro-3v3.json) |
 | Euro Club Manager 2003-04 | 94706 | [94706-euro-club-manager-2003-04.json](./94706-euro-club-manager-2003-04.json) |
 | Euro Fishing: Collector's Edition | 173108 | [173108-euro-fishing-collectors-edition.json](./173108-euro-fishing-collectors-edition.json) |
