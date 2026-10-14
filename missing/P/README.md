@@ -3153,6 +3153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perspectrip | 75206 | [75206-perspectrip.json](./75206-perspectrip.json) |
 | Perspectrum | 106613 | [106613-perspectrum.json](./106613-perspectrum.json) |
 | Pertinence | 33181 | [33181-pertinence.json](./33181-pertinence.json) |
+| Perudo | 124556 | [124556-perudo.json](./124556-perudo.json) |
 | Pervader | 54910 | [54910-pervader.json](./54910-pervader.json) |
 | Perverts | 385257 | [385257-perverts.json](./385257-perverts.json) |
 | Perverts Society | 110357 | [110357-perverts-society.json](./110357-perverts-society.json) |
@@ -3541,6 +3542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Killer | 275343 | [275343-phantom-killer.json](./275343-phantom-killer.json) |
 | Phantom Kingdom: Portable | 262445 | [262445-phantom-kingdom-portable.json](./262445-phantom-kingdom-portable.json) |
 | Phantom Kiosk | 345708 | [345708-phantom-kiosk.json](./345708-phantom-kiosk.json) |
+| Phantom Legacy | 124527 | [124527-phantom-legacy.json](./124527-phantom-legacy.json) |
 | Phantom of Inferno | 387689 | [387689-phantom-of-inferno.json](./387689-phantom-of-inferno.json) |
 | Phantom of the Black Rose Revue | 269862 | [269862-phantom-of-the-black-rose-revue.json](./269862-phantom-of-the-black-rose-revue.json) |
 | Phantom of the Grove | 337306 | [337306-phantom-of-the-grove.json](./337306-phantom-of-the-grove.json) |
@@ -10426,6 +10428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Ichr | 174585 | [174585-project-ichr.json](./174585-project-ichr.json) |
 | Project Ictos | 286057 | [286057-project-ictos.json](./286057-project-ictos.json) |
 | Project II: Final Fantasy IV | 379344 | [379344-project-ii-final-fantasy-iv.json](./379344-project-ii-final-fantasy-iv.json) |
+| Project Immortal | 124518 | [124518-project-immortal.json](./124518-project-immortal.json) |
 | Project Impulse | 203304 | [203304-project-impulse.json](./203304-project-impulse.json) |
 | Project IO | 126920 | [126920-project-io.json](./126920-project-io.json) |
 | Project Ion | 62550 | [62550-project-ion.json](./62550-project-ion.json) |
