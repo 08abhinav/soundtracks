@@ -1562,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Last Adventure | 294808 | [294808-one-last-adventure.json](./294808-one-last-adventure.json) |
 | One Last Box | 408015 | [408015-one-last-box.json](./408015-one-last-box.json) |
 | One Last Chance | 33057 | [33057-one-last-chance.json](./33057-one-last-chance.json) |
+| One Last Crane | 95330 | [95330-one-last-crane.json](./95330-one-last-crane.json) |
 | One Last Game | 143742 | [143742-one-last-game.json](./143742-one-last-game.json) |
 | One Last Job | 330258 | [330258-one-last-job.json](./330258-one-last-job.json) |
 | One Last Journey | 350452 | [350452-one-last-journey.json](./350452-one-last-journey.json) |
@@ -2448,6 +2449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Optasia: The Last Visit | 391034 | [391034-optasia-the-last-visit.json](./391034-optasia-the-last-visit.json) |
 | Optica | 107226 | [107226-optica.json](./107226-optica.json) |
 | Optical Illusions | 282729 | [282729-optical-illusions.json](./282729-optical-illusions.json) |
+| Optical Inquisitor | 95338 | [95338-optical-inquisitor.json](./95338-optical-inquisitor.json) |
 | Optika | 32137 | [32137-optika.json](./32137-optika.json) |
 | Optimum Link | 111665 | [111665-optimum-link.json](./111665-optimum-link.json) |
 | Option Monster | 266488 | [266488-option-monster.json](./266488-option-monster.json) |
