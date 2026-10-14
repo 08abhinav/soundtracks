@@ -11,6 +11,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B Cannon | 246892 | [246892-b-cannon.json](./246892-b-cannon.json) |
 | B Math | 318756 | [318756-b-math.json](./318756-b-math.json) |
 | B Senjou no Alice: Alice on Borderlines | 230517 | [230517-b-senjou-no-alice-alice-on-borderlines.json](./230517-b-senjou-no-alice-alice-on-borderlines.json) |
+| B Team: Episode 1 - Dust & Steel | 84772 | [84772-b-team-episode-1-dust-and-steel.json](./84772-b-team-episode-1-dust-and-steel.json) |
+| B Team: Episode 2 - Ice & Venom | 84773 | [84773-b-team-episode-2-ice-and-venom.json](./84773-b-team-episode-2-ice-and-venom.json) |
 | B Team: Metal Cartoon Squad | 21252 | [21252-b-team-metal-cartoon-squad.json](./21252-b-team-metal-cartoon-squad.json) |
 | B u r n t | 181392 | [181392-b-u-r-n-t.json](./181392-b-u-r-n-t.json) |
 | B-1 Nuclear Bomber | 24801 | [24801-b-1-nuclear-bomber.json](./24801-b-1-nuclear-bomber.json) |
@@ -983,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Drop | 338188 | [338188-ball-drop.json](./338188-ball-drop.json) |
 | Ball Dude Adventures | 176475 | [176475-ball-dude-adventures.json](./176475-ball-dude-adventures.json) |
 | Ball Escape | 99619 | [99619-ball-escape.json](./99619-ball-escape.json) |
+| Ball Fighter | 84778 | [84778-ball-fighter.json](./84778-ball-fighter.json) |
 | Ball Game | 193275 | [193275-ball-game.json](./193275-ball-game.json) |
 | Ball Game | 336498 | [336498-ball-game.json](./336498-ball-game.json) |
 | Ball Game | 416033 | [416033-ball-game.json](./416033-ball-game.json) |
@@ -1011,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball of Poo | 276855 | [276855-ball-of-poo.json](./276855-ball-of-poo.json) |
 | Ball of Woe | 253267 | [253267-ball-of-woe.json](./253267-ball-of-woe.json) |
 | Ball of Wonder | 31897 | [31897-ball-of-wonder.json](./31897-ball-of-wonder.json) |
+| bAll or Nothing | 84777 | [84777-ball-or-nothing.json](./84777-ball-or-nothing.json) |
 | Ball Out | 112699 | [112699-ball-out.json](./112699-ball-out.json) |
 | Ball Out | 262962 | [262962-ball-out.json](./262962-ball-out.json) |
 | Ball Pain | 193465 | [193465-ball-pain.json](./193465-ball-pain.json) |
@@ -1447,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bank Robbery Royale: Battle Simulator | 100937 | [100937-bank-robbery-royale-battle-simulator.json](./100937-bank-robbery-royale-battle-simulator.json) |
 | Bank-A-Ball | 84323 | [84323-bank-a-ball.json](./84323-bank-a-ball.json) |
 | BankBank | 98057 | [98057-bankbank.json](./98057-bankbank.json) |
+| Banking Dream | 84776 | [84776-banking-dream.json](./84776-banking-dream.json) |
 | Bankrupt Heroines | 157077 | [157077-bankrupt-heroines.json](./157077-bankrupt-heroines.json) |
 | Bankruptcy | 292283 | [292283-bankruptcy.json](./292283-bankruptcy.json) |
 | Bankshot | 344560 | [344560-bankshot.json](./344560-bankshot.json) |
@@ -2633,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Puppets | 66616 | [66616-battle-of-puppets.json](./66616-battle-of-puppets.json) |
 | Battle of Rebels | 266972 | [266972-battle-of-rebels.json](./266972-battle-of-rebels.json) |
 | Battle of Tarlis | 259587 | [259587-battle-of-tarlis.json](./259587-battle-of-tarlis.json) |
+| Battle of the Elements | 84782 | [84782-battle-of-the-elements.json](./84782-battle-of-the-elements.json) |
 | Battle of the Four Towers | 368012 | [368012-battle-of-the-four-towers.json](./368012-battle-of-the-four-towers.json) |
 | Battle of the Immortals | 51218 | [51218-battle-of-the-immortals.json](./51218-battle-of-the-immortals.json) |
 | Battle of the Lexicon Lords | 294720 | [294720-battle-of-the-lexicon-lords.json](./294720-battle-of-the-lexicon-lords.json) |
@@ -3745,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Ugly | 343375 | [343375-beautiful-ugly.json](./343375-beautiful-ugly.json) |
 | Beautiful Warrior Hibiki's Captive Violation Days | 82828 | [82828-beautiful-warrior-hibikis-captive-violation-days.json](./82828-beautiful-warrior-hibikis-captive-violation-days.json) |
 | Beautify Day | 117606 | [117606-beautify-day.json](./117606-beautify-day.json) |
+| Beauty Academy | 84781 | [84781-beauty-academy.json](./84781-beauty-academy.json) |
 | Beauty and the Beast | 105383 | [105383-beauty-and-the-beast.json](./105383-beauty-and-the-beast.json) |
 | Beauty and the Beast | 211430 | [211430-beauty-and-the-beast.json](./211430-beauty-and-the-beast.json) |
 | Beauty and the Beast | 292649 | [292649-beauty-and-the-beast.json](./292649-beauty-and-the-beast.json) |
@@ -4430,8 +4437,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best of Arcade Games: Bubble Buster | 84985 | [84985-best-of-arcade-games-bubble-buster.json](./84985-best-of-arcade-games-bubble-buster.json) |
 | Best of Arcade Games: Tetraminos | 84982 | [84982-best-of-arcade-games-tetraminos.json](./84982-best-of-arcade-games-tetraminos.json) |
 | Best of Best | 39583 | [39583-best-of-best.json](./39583-best-of-best.json) |
+| Best of Board Games DS | 84785 | [84785-best-of-board-games-ds.json](./84785-best-of-board-games-ds.json) |
 | Best of Board Games: Chess | 84981 | [84981-best-of-board-games-chess.json](./84981-best-of-board-games-chess.json) |
 | Best of British: Summer Sports | 246930 | [246930-best-of-british-summer-sports.json](./246930-best-of-british-summer-sports.json) |
+| Best of Casual Games | 84784 | [84784-best-of-casual-games.json](./84784-best-of-casual-games.json) |
 | Best of Chess: Volume I - American Triumph | 362419 | [362419-best-of-chess-volume-i-american-triumph.json](./362419-best-of-chess-volume-i-american-triumph.json) |
 | Best of Klei 2025 | 52630 | [52630-best-of-klei-2025.json](./52630-best-of-klei-2025.json) |
 | Best of Mahjong | 85509 | [85509-best-of-mahjong.json](./85509-best-of-mahjong.json) |
@@ -4762,6 +4771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bibi & Tina at the Horse Farm | 122789 | [122789-bibi-and-tina-at-the-horse-farm.json](./122789-bibi-and-tina-at-the-horse-farm.json) |
 | Bibi & Tina: Das grosse Reiterfest | 268112 | [268112-bibi-and-tina-das-grosse-reiterfest.json](./268112-bibi-and-tina-das-grosse-reiterfest.json) |
 | Bibi & Tina: Das große Unwetter | 216453 | [216453-bibi-and-tina-das-gro-e-unwetter.json](./216453-bibi-and-tina-das-gro-e-unwetter.json) |
+| Bibi & Tina: Das Spiel zum Kinofilm | 84783 | [84783-bibi-and-tina-das-spiel-zum-kinofilm.json](./84783-bibi-and-tina-das-spiel-zum-kinofilm.json) |
 | Bibi & Tina: Die große Schnitzeljagd | 216188 | [216188-bibi-and-tina-die-gro-e-schnitzeljagd.json](./216188-bibi-and-tina-die-gro-e-schnitzeljagd.json) |
 | Bibi & Tina: Jump & Ride | 148356 | [148356-bibi-and-tina-jump-and-ride.json](./148356-bibi-and-tina-jump-and-ride.json) |
 | Bibi & Tina: Mikoschs großer Auftritt | 151206 | [151206-bibi-and-tina-mikoschs-gro-er-auftritt.json](./151206-bibi-and-tina-mikoschs-gro-er-auftritt.json) |
