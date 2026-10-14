@@ -558,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest | 308451 | [308451-quest.json](./308451-quest.json) |
 | Quest & Quest 3D: Short Short - Female Adventurer Arcana | 82763 | [82763-quest-and-quest-3d-short-short-female-adventurer-arcana.json](./82763-quest-and-quest-3d-short-short-female-adventurer-arcana.json) |
 | Quest & Quest 3D: Short Short - Female Adventurer Sina | 82762 | [82762-quest-and-quest-3d-short-short-female-adventurer-sina.json](./82762-quest-and-quest-3d-short-short-female-adventurer-sina.json) |
+| Quest & Quest 3D: Short Short - Female Adventurer Sina II | 82735 | [82735-quest-and-quest-3d-short-short-female-adventurer-sina-ii.json](./82735-quest-and-quest-3d-short-short-female-adventurer-sina-ii.json) |
 | Quest & Rest: Inn Simulator | 364968 | [364968-quest-and-rest-inn-simulator.json](./364968-quest-and-rest-inn-simulator.json) |
 | Quest 2: The Ancient Temples | 266229 | [266229-quest-2-the-ancient-temples.json](./266229-quest-2-the-ancient-temples.json) |
 | Quest 64 | 3580 | [3580-quest-64.json](./3580-quest-64.json) |
