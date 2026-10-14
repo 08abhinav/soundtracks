@@ -2727,6 +2727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Paradise | 231808 | [231808-penguin-paradise.json](./231808-penguin-paradise.json) |
 | Penguin Piste | 134950 | [134950-penguin-piste.json](./134950-penguin-piste.json) |
 | Penguin Plop | 406636 | [406636-penguin-plop.json](./406636-penguin-plop.json) |
+| Penguin Pounder | 104513 | [104513-penguin-pounder.json](./104513-penguin-pounder.json) |
 | Penguin Push | 146894 | [146894-penguin-push.json](./146894-penguin-push.json) |
 | Penguin Puzzle | 208883 | [208883-penguin-puzzle.json](./208883-penguin-puzzle.json) |
 | Penguin Quest | 167194 | [167194-penguin-quest.json](./167194-penguin-quest.json) |
@@ -5336,6 +5337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Descent | 264587 | [264587-pixel-descent.json](./264587-pixel-descent.json) |
 | Pixel Devil and the Broken Cartridge | 113610 | [113610-pixel-devil-and-the-broken-cartridge.json](./113610-pixel-devil-and-the-broken-cartridge.json) |
 | Pixel Dominance | 128936 | [128936-pixel-dominance.json](./128936-pixel-dominance.json) |
+| Pixel Doodle - Color By Number | 104517 | [104517-pixel-doodle-color-by-number.json](./104517-pixel-doodle-color-by-number.json) |
 | Pixel Drawing | 335442 | [335442-pixel-drawing.json](./335442-pixel-drawing.json) |
 | Pixel drawing block | 216208 | [216208-pixel-drawing-block.json](./216208-pixel-drawing-block.json) |
 | Pixel Drift | 83613 | [83613-pixel-drift.json](./83613-pixel-drift.json) |
