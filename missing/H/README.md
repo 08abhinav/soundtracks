@@ -997,6 +997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Ball Rush | 391328 | [391328-happy-ball-rush.json](./391328-happy-ball-rush.json) |
 | Happy Balloons | 57368 | [57368-happy-balloons.json](./57368-happy-balloons.json) |
 | Happy Bang Express | 252707 | [252707-happy-bang-express.json](./252707-happy-bang-express.json) |
+| Happy Bell Lovex2 Honeymoon | 77905 | [77905-happy-bell-lovex2-honeymoon.json](./77905-happy-bell-lovex2-honeymoon.json) |
 | Happy Bird | 312034 | [312034-happy-bird.json](./312034-happy-bird.json) |
 | Happy Bird Day | 275726 | [275726-happy-bird-day.json](./275726-happy-bird-day.json) |
 | Happy Birthday | 151574 | [151574-happy-birthday.json](./151574-happy-birthday.json) |
@@ -1100,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Pinball | 373116 | [373116-happy-pinball.json](./373116-happy-pinball.json) |
 | Happy Pong | 352380 | [352380-happy-pong.json](./352380-happy-pong.json) |
 | Happy Pong | 90580 | [90580-happy-pong.json](./90580-happy-pong.json) |
+| Happy Princess: Another Fairytale | 77904 | [77904-happy-princess-another-fairytale.json](./77904-happy-princess-another-fairytale.json) |
 | Happy Quest | 144926 | [144926-happy-quest.json](./144926-happy-quest.json) |
 | Happy Rabbit Farm | 338741 | [338741-happy-rabbit-farm.json](./338741-happy-rabbit-farm.json) |
 | Happy Race | 195041 | [195041-happy-race.json](./195041-happy-race.json) |
@@ -1475,6 +1477,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haru Ichiban | 209708 | [209708-haru-ichiban.json](./209708-haru-ichiban.json) |
 | Haru no Oto ha Marude Kimi ni Nitete | 323821 | [323821-haru-no-oto-ha-marude-kimi-ni-nitete.json](./323821-haru-no-oto-ha-marude-kimi-ni-nitete.json) |
 | Haru to Shura | 148699 | [148699-haru-to-shura.json](./148699-haru-to-shura.json) |
+| Haru Uso: Passing Memories | 77857 | [77857-haru-uso-passing-memories.json](./77857-haru-uso-passing-memories.json) |
+| Haruiro Communication | 77849 | [77849-haruiro-communication.json](./77849-haruiro-communication.json) |
 | Haruka Drive! | 409417 | [409417-haruka-drive.json](./409417-haruka-drive.json) |
 | Haruka na Sora | 326640 | [326640-haruka-na-sora.json](./326640-haruka-na-sora.json) |
 | Haruka no Kuni | 341606 | [341606-haruka-no-kuni.json](./341606-haruka-no-kuni.json) |
@@ -4483,6 +4487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi-Tech Hell 2 | 269115 | [269115-hi-tech-hell-2.json](./269115-hi-tech-hell-2.json) |
 | Hi-Ten Bomberman | 77942 | [77942-hi-ten-bomberman.json](./77942-hi-ten-bomberman.json) |
 | Hi-way | 18201 | [18201-hi-way.json](./18201-hi-way.json) |
+| Hi! Hamtaro: Ham-Ham Challenge | 77875 | [77875-hi-hamtaro-ham-ham-challenge.json](./77875-hi-hamtaro-ham-ham-challenge.json) |
 | Hibachi Hero | 395015 | [395015-hibachi-hero.json](./395015-hibachi-hero.json) |
 | Hibernaculum | 225794 | [225794-hibernaculum.json](./225794-hibernaculum.json) |
 | Hibernation | 339638 | [339638-hibernation.json](./339638-hibernation.json) |
@@ -7607,6 +7612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Puzzle & Board Games 2011 | 210075 | [210075-hoyle-puzzle-and-board-games-2011.json](./210075-hoyle-puzzle-and-board-games-2011.json) |
 | Hoyle Puzzle and Board Games 2010 | 51209 | [51209-hoyle-puzzle-and-board-games-2010.json](./51209-hoyle-puzzle-and-board-games-2010.json) |
 | Hoyle Solitaire | 73883 | [73883-hoyle-solitaire.json](./73883-hoyle-solitaire.json) |
+| Hoyle Solitaire & Mahjong Tiles | 77877 | [77877-hoyle-solitaire-and-mahjong-tiles.json](./77877-hoyle-solitaire-and-mahjong-tiles.json) |
 | Hoyle South Beach Solitaire | 210051 | [210051-hoyle-south-beach-solitaire.json](./210051-hoyle-south-beach-solitaire.json) |
 | Hoyle Table Games 2004 | 70940 | [70940-hoyle-table-games-2004.json](./70940-hoyle-table-games-2004.json) |
 | Hoyle Word Games | 98884 | [98884-hoyle-word-games.json](./98884-hoyle-word-games.json) |
@@ -8190,6 +8196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyakka Ryouran Elixir: Record of Torenia Revival | 248788 | [248788-hyakka-ryouran-elixir-record-of-torenia-revival.json](./248788-hyakka-ryouran-elixir-record-of-torenia-revival.json) |
 | Hyakkano: 100 Girlfriends | 408167 | [408167-hyakkano-100-girlfriends.json](./408167-hyakkano-100-girlfriends.json) |
 | Hyakki Fantasia Mini Game Selection Vol.1 | 396119 | [396119-hyakki-fantasia-mini-game-selection-vol-1.json](./396119-hyakki-fantasia-mini-game-selection-vol-1.json) |
+| Hyakki Ryouran no Yakata x Kawarazaki-ke no Ichizoku | 77868 | [77868-hyakki-ryouran-no-yakata-x-kawarazaki-ke-no-ichizoku.json](./77868-hyakki-ryouran-no-yakata-x-kawarazaki-ke-no-ichizoku.json) |
 | Hyakki Yako Survivor | 331332 | [331332-hyakki-yako-survivor.json](./331332-hyakki-yako-survivor.json) |
 | Hyakki Yako: OH&S | 259289 | [259289-hyakki-yako-oh-and-s.json](./259289-hyakki-yako-oh-and-s.json) |
 | Hyakki Yakou: Kaidan Romance | 219136 | [219136-hyakki-yakou-kaidan-romance.json](./219136-hyakki-yakou-kaidan-romance.json) |
