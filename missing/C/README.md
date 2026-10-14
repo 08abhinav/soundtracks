@@ -3759,6 +3759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Claw | 382409 | [382409-chaos-claw.json](./382409-chaos-claw.json) |
 | Chaos Code | 78605 | [78605-chaos-code.json](./78605-chaos-code.json) |
 | Chaos Code: Exact Xeno Attack | 348232 | [348232-chaos-code-exact-xeno-attack.json](./348232-chaos-code-exact-xeno-attack.json) |
+| Chaos Code: Nemesis Experiment | 128906 | [128906-chaos-code-nemesis-experiment.json](./128906-chaos-code-nemesis-experiment.json) |
 | Chaos Code: New Sign of Catastrophe | 27718 | [27718-chaos-code-new-sign-of-catastrophe.json](./27718-chaos-code-new-sign-of-catastrophe.json) |
 | Chaos Coin | 363951 | [363951-chaos-coin.json](./363951-chaos-coin.json) |
 | Chaos Control | 325843 | [325843-chaos-control.json](./325843-chaos-control.json) |
@@ -5297,6 +5298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroma Quaternion: Experience x3 | 171030 | [171030-chroma-quaternion-experience-x3.json](./171030-chroma-quaternion-experience-x3.json) |
 | Chroma Ways | 72022 | [72022-chroma-ways.json](./72022-chroma-ways.json) |
 | Chroma Zero | 319356 | [319356-chroma-zero.json](./319356-chroma-zero.json) |
+| Chroma: Bloom and Blight | 128916 | [128916-chroma-bloom-and-blight.json](./128916-chroma-bloom-and-blight.json) |
 | Chroma+Elektron | 199564 | [199564-chroma-elektron.json](./199564-chroma-elektron.json) |
 | Chromacell | 290540 | [290540-chromacell.json](./290540-chromacell.json) |
 | Chromadrome | 73511 | [73511-chromadrome.json](./73511-chromadrome.json) |
@@ -7351,6 +7353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cognitive Dissonance: A SiIvaGunner Christmas Comeback Crisis Side Story | 326956 | [326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json](./326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json) |
 | Cognizant Protocol | 51557 | [51557-cognizant-protocol.json](./51557-cognizant-protocol.json) |
 | Cognizer | 102282 | [102282-cognizer.json](./102282-cognizer.json) |
+| Cogret | 128279 | [128279-cogret.json](./128279-cogret.json) |
 | Cogs and Carnage | 291215 | [291215-cogs-and-carnage.json](./291215-cogs-and-carnage.json) |
 | Cogs and Cowboys | 31818 | [31818-cogs-and-cowboys.json](./31818-cogs-and-cowboys.json) |
 | Cogs Lite | 100257 | [100257-cogs-lite.json](./100257-cogs-lite.json) |
@@ -7993,6 +7996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorless Life | 50528 | [50528-colorless-life.json](./50528-colorless-life.json) |
 | Colorless Odyssey | 318005 | [318005-colorless-odyssey.json](./318005-colorless-odyssey.json) |
 | ColorMari | 222925 | [222925-colormari.json](./222925-colormari.json) |
+| Colormeleons | 127703 | [127703-colormeleons.json](./127703-colormeleons.json) |
 | Colorpicker | 304866 | [304866-colorpicker.json](./304866-colorpicker.json) |
 | ColorPixel: Color by Number, Pixel Art | 101658 | [101658-colorpixel-color-by-number-pixel-art.json](./101658-colorpixel-color-by-number-pixel-art.json) |
 | Colors -Break Bricks- | 62009 | [62009-colors-break-bricks.json](./62009-colors-break-bricks.json) |
@@ -8022,6 +8026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colossal Kaiju Combat: Kaijuland Battles | 36353 | [36353-colossal-kaiju-combat-kaijuland-battles.json](./36353-colossal-kaiju-combat-kaijuland-battles.json) |
 | Colossal Kickoff | 343767 | [343767-colossal-kickoff.json](./343767-colossal-kickoff.json) |
 | Colossal Saga | 126663 | [126663-colossal-saga.json](./126663-colossal-saga.json) |
+| Colossals | 127686 | [127686-colossals.json](./127686-colossals.json) |
 | Colossatron: Cosmic Crisis | 317377 | [317377-colossatron-cosmic-crisis.json](./317377-colossatron-cosmic-crisis.json) |
 | Colossatron: Massive World Threat | 62546 | [62546-colossatron-massive-world-threat.json](./62546-colossatron-massive-world-threat.json) |
 | Colosse | 19036 | [19036-colosse.json](./19036-colosse.json) |
@@ -11481,6 +11486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crococo | 406883 | [406883-crococo.json](./406883-crococo.json) |
 | Crocodile Blood: The Final Moments of Kurumizawa Keiko | 394154 | [394154-crocodile-blood-the-final-moments-of-kurumizawa-keiko.json](./394154-crocodile-blood-the-final-moments-of-kurumizawa-keiko.json) |
 | Crocodile Transformator | 217388 | [217388-crocodile-transformator.json](./217388-crocodile-transformator.json) |
+| Crocodine: The Buffet | 128939 | [128939-crocodine-the-buffet.json](./128939-crocodine-the-buffet.json) |
 | Crocodingus in Cube Island | 213862 | [213862-crocodingus-in-cube-island.json](./213862-crocodingus-in-cube-island.json) |
 | Crocodracula: The Beginning | 216331 | [216331-crocodracula-the-beginning.json](./216331-crocodracula-the-beginning.json) |
 | Crocogame | 258380 | [258380-crocogame.json](./258380-crocogame.json) |
