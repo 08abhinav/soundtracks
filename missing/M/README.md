@@ -1660,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make a Path for the Chicken | 165624 | [165624-make-a-path-for-the-chicken.json](./165624-make-a-path-for-the-chicken.json) |
 | Make a Scene: Dinosaurs | 96044 | [96044-make-a-scene-dinosaurs.json](./96044-make-a-scene-dinosaurs.json) |
 | Make A Scene: Farmyard | 232585 | [232585-make-a-scene-farmyard.json](./232585-make-a-scene-farmyard.json) |
+| Make A Scene: Polar Adventure | 103934 | [103934-make-a-scene-polar-adventure.json](./103934-make-a-scene-polar-adventure.json) |
 | Make a Scene: Under the Sea | 101073 | [101073-make-a-scene-under-the-sea.json](./101073-make-a-scene-under-the-sea.json) |
 | Make America Great Again | 36447 | [36447-make-america-great-again.json](./36447-make-america-great-again.json) |
 | Make America Great Again: The Trump Presidency | 31663 | [31663-make-america-great-again-the-trump-presidency.json](./31663-make-america-great-again-the-trump-presidency.json) |
@@ -7560,6 +7561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Mini Golf | 276212 | [276212-mighty-mini-golf.json](./276212-mighty-mini-golf.json) |
 | Mighty Monkey | 40389 | [40389-mighty-monkey.json](./40389-mighty-monkey.json) |
 | Mighty Monster Mayhem | 29622 | [29622-mighty-monster-mayhem.json](./29622-mighty-monster-mayhem.json) |
+| Mighty Monster Truck | 103943 | [103943-mighty-monster-truck.json](./103943-mighty-monster-truck.json) |
 | Mighty Monsters | 176867 | [176867-mighty-monsters.json](./176867-mighty-monsters.json) |
 | Mighty Morphin Power Rangers | 198870 | [198870-mighty-morphin-power-rangers.json](./198870-mighty-morphin-power-rangers.json) |
 | Mighty Morphin Power Rangers | 234090 | [234090-mighty-morphin-power-rangers.json](./234090-mighty-morphin-power-rangers.json) |
