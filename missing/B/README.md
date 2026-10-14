@@ -2017,6 +2017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Stars | 273094 | [273094-baseball-stars.json](./273094-baseball-stars.json) |
 | Baseball Stars II | 48296 | [48296-baseball-stars-ii.json](./48296-baseball-stars-ii.json) |
 | Baseball Stars Professional | 39595 | [39595-baseball-stars-professional.json](./39595-baseball-stars-professional.json) |
+| Baseball Stars: Pocket Sports Series | 85995 | [85995-baseball-stars-pocket-sports-series.json](./85995-baseball-stars-pocket-sports-series.json) |
 | Baseball Superstars 2011 | 66207 | [66207-baseball-superstars-2011.json](./66207-baseball-superstars-2011.json) |
 | Baseball Superstars 2024 | 318399 | [318399-baseball-superstars-2024.json](./318399-baseball-superstars-2024.json) |
 | Baseball with Heads | 246974 | [246974-baseball-with-heads.json](./246974-baseball-with-heads.json) |
@@ -4735,6 +4736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BFDI: Four's Kitchen | 385942 | [385942-bfdi-fours-kitchen.json](./385942-bfdi-fours-kitchen.json) |
 | BFF or Die | 94044 | [94044-bff-or-die.json](./94044-bff-or-die.json) |
 | BFGE | 114995 | [114995-bfge.json](./114995-bfge.json) |
+| BFRIS Zero Gravity Fighter Combat | 85985 | [85985-bfris-zero-gravity-fighter-combat.json](./85985-bfris-zero-gravity-fighter-combat.json) |
 | BGPA Missions Liberation | 256849 | [256849-bgpa-missions-liberation.json](./256849-bgpa-missions-liberation.json) |
 | BH Trials | 117593 | [117593-bh-trials.json](./117593-bh-trials.json) |
 | Bhangarh: The Untold Story | 391173 | [391173-bhangarh-the-untold-story.json](./391173-bhangarh-the-untold-story.json) |
@@ -4810,6 +4812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bicycle Quiz & Riding | 411147 | [411147-bicycle-quiz-and-riding.json](./411147-bicycle-quiz-and-riding.json) |
 | Bicycle Rider Simulator | 195612 | [195612-bicycle-rider-simulator.json](./195612-bicycle-rider-simulator.json) |
 | Bicycle Solitaire | 205911 | [205911-bicycle-solitaire.json](./205911-bicycle-solitaire.json) |
+| Bicycle Solitaire | 85948 | [85948-bicycle-solitaire.json](./85948-bicycle-solitaire.json) |
 | Bicycle Tour | 234606 | [234606-bicycle-tour.json](./234606-bicycle-tour.json) |
 | BicycleSim | 211100 | [211100-bicyclesim.json](./211100-bicyclesim.json) |
 | Bicyclism EP | 31950 | [31950-bicyclism-ep.json](./31950-bicyclism-ep.json) |
@@ -10108,6 +10111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakneck City | 127730 | [127730-breakneck-city.json](./127730-breakneck-city.json) |
 | Breakout | 227733 | [227733-breakout.json](./227733-breakout.json) |
 | Breakout | 228318 | [228318-breakout.json](./228318-breakout.json) |
+| Breakout | 85967 | [85967-breakout.json](./85967-breakout.json) |
 | Breakout 13 | 212735 | [212735-breakout-13.json](./212735-breakout-13.json) |
 | Breakout 2000 | 40816 | [40816-breakout-2000.json](./40816-breakout-2000.json) |
 | Breakout 3 | 319572 | [319572-breakout-3.json](./319572-breakout-3.json) |
