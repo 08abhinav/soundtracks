@@ -1417,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Reborn | 28820 | [28820-darkness-reborn.json](./28820-darkness-reborn.json) |
 | Darkness Rises | 103411 | [103411-darkness-rises.json](./103411-darkness-rises.json) |
 | Darkness Ritual: Impasse | 289793 | [289793-darkness-ritual-impasse.json](./289793-darkness-ritual-impasse.json) |
+| Darkness Rollercoaster: Ultimate Shooter Edition | 118682 | [118682-darkness-rollercoaster-ultimate-shooter-edition.json](./118682-darkness-rollercoaster-ultimate-shooter-edition.json) |
 | Darkness Trap: Purify Old Sins | 134440 | [134440-darkness-trap-purify-old-sins.json](./134440-darkness-trap-purify-old-sins.json) |
 | Darkness Within 2: The Dark Lineage - Director's Cut Edition | 36298 | [36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json](./36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json) |
 | Darknet | 20018 | [20018-darknet.json](./20018-darknet.json) |
@@ -4825,6 +4826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Digital Deluxe Edition | 52887 | [52887-destiny-2-digital-deluxe-edition.json](./52887-destiny-2-digital-deluxe-edition.json) |
 | Destiny 2: Echoes | 305328 | [305328-destiny-2-echoes.json](./305328-destiny-2-echoes.json) |
 | Destiny 2: Forsaken - Digital Deluxe Edition | 132150 | [132150-destiny-2-forsaken-digital-deluxe-edition.json](./132150-destiny-2-forsaken-digital-deluxe-edition.json) |
+| Destiny 2: Forsaken - Legendary Collection | 118692 | [118692-destiny-2-forsaken-legendary-collection.json](./118692-destiny-2-forsaken-legendary-collection.json) |
 | Destiny 2: Forsaken Pack | 227352 | [227352-destiny-2-forsaken-pack.json](./227352-destiny-2-forsaken-pack.json) |
 | Destiny 2: Heresy Silver Bundle | 330703 | [330703-destiny-2-heresy-silver-bundle.json](./330703-destiny-2-heresy-silver-bundle.json) |
 | Destiny 2: Into The Light | 291624 | [291624-destiny-2-into-the-light.json](./291624-destiny-2-into-the-light.json) |
@@ -12502,6 +12504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying: 1983 | 160267 | [160267-dying-1983.json](./160267-dying-1983.json) |
 | Dying: Reborn | 27569 | [27569-dying-reborn.json](./27569-dying-reborn.json) |
 | Dying: Reborn + Dying: Reborn VR Bundle | 217861 | [217861-dying-reborn-dying-reborn-vr-bundle.json](./217861-dying-reborn-dying-reborn-vr-bundle.json) |
+| Dying: Reborn Ultimate Bundle | 118723 | [118723-dying-reborn-ultimate-bundle.json](./118723-dying-reborn-ultimate-bundle.json) |
 | Dying: Sinner Escape | 63361 | [63361-dying-sinner-escape.json](./63361-dying-sinner-escape.json) |
 | Dylan Dog: Horror Luna Park | 70970 | [70970-dylan-dog-horror-luna-park.json](./70970-dylan-dog-horror-luna-park.json) |
 | Dylan Dog: Le Notti della Luna Piena | 72140 | [72140-dylan-dog-le-notti-della-luna-piena.json](./72140-dylan-dog-le-notti-della-luna-piena.json) |
