@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Taxi Simulator | 411739 | [411739-mad-taxi-simulator.json](./411739-mad-taxi-simulator.json) |
 | Mad Television Tycoon | 353814 | [353814-mad-television-tycoon.json](./353814-mad-television-tycoon.json) |
 | Mad Trapper | 210845 | [210845-mad-trapper.json](./210845-mad-trapper.json) |
+| Mad TV 2 | 92915 | [92915-mad-tv-2.json](./92915-mad-tv-2.json) |
 | Mad Valley | 294135 | [294135-mad-valley.json](./294135-mad-valley.json) |
 | Mad Void | 321051 | [321051-mad-void.json](./321051-mad-void.json) |
 | Mad Way | 256285 | [256285-mad-way.json](./256285-mad-way.json) |
@@ -3916,6 +3917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matolek the Goat's School | 334651 | [334651-matolek-the-goats-school.json](./334651-matolek-the-goats-school.json) |
 | Matou no Houkai: The Hero of Babel | 64352 | [64352-matou-no-houkai-the-hero-of-babel.json](./64352-matou-no-houkai-the-hero-of-babel.json) |
 | Matricon: Monopoly | 230531 | [230531-matricon-monopoly.json](./230531-matricon-monopoly.json) |
+| Matrimelee | 92937 | [92937-matrimelee.json](./92937-matrimelee.json) |
 | Matrix Blocks | 149463 | [149463-matrix-blocks.json](./149463-matrix-blocks.json) |
 | Matrix Bullet | 266766 | [266766-matrix-bullet.json](./266766-matrix-bullet.json) |
 | Matrix Jump | 215848 | [215848-matrix-jump.json](./215848-matrix-jump.json) |
@@ -4332,6 +4334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazzle Christmas | 329040 | [329040-mazzle-christmas.json](./329040-mazzle-christmas.json) |
 | Mbembe Radio | 300988 | [300988-mbembe-radio.json](./300988-mbembe-radio.json) |
 | MBOS | 315509 | [315509-mbos.json](./315509-mbos.json) |
+| Mc Coy | 92960 | [92960-mc-coy.json](./92960-mc-coy.json) |
 | MC Eternal 2 | 350988 | [350988-mc-eternal-2.json](./350988-mc-eternal-2.json) |
 | MC Groovz Dance Craze | 50581 | [50581-mc-groovz-dance-craze.json](./50581-mc-groovz-dance-craze.json) |
 | MC Hammer: U Can't Touch This | 198811 | [198811-mc-hammer-u-cant-touch-this.json](./198811-mc-hammer-u-cant-touch-this.json) |
@@ -12733,6 +12736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mummy, mummy, mummy! | 165692 | [165692-mummy-mummy-mummy.json](./165692-mummy-mummy-mummy.json) |
 | Mummy: Egyptian Puzzle | 313460 | [313460-mummy-egyptian-puzzle.json](./313460-mummy-egyptian-puzzle.json) |
 | Mummy's Curse | 24852 | [24852-mummys-curse.json](./24852-mummys-curse.json) |
+| Mumsaren | 92938 | [92938-mumsaren.json](./92938-mumsaren.json) |
 | Mumu Boukenki Amusing Dream | 264311 | [264311-mumu-boukenki-amusing-dream.json](./264311-mumu-boukenki-amusing-dream.json) |
 | Mumu's Soup Adventure | 250314 | [250314-mumus-soup-adventure.json](./250314-mumus-soup-adventure.json) |
 | MuMuMu: Mist of Six Dreams | 312590 | [312590-mumumu-mist-of-six-dreams.json](./312590-mumumu-mist-of-six-dreams.json) |
