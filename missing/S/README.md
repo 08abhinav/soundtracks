@@ -15482,6 +15482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squitter's Spider Quest | 233550 | [233550-squitters-spider-quest.json](./233550-squitters-spider-quest.json) |
 | sQuiz | 137967 | [137967-squiz.json](./137967-squiz.json) |
 | Squonker 3 | 260663 | [260663-squonker-3.json](./260663-squonker-3.json) |
+| Sqvishy | 117451 | [117451-sqvishy.json](./117451-sqvishy.json) |
 | Sqwark! A Nutty Adventure | 169478 | [169478-sqwark-a-nutty-adventure.json](./169478-sqwark-a-nutty-adventure.json) |
 | Sram | 131904 | [131904-sram.json](./131904-sram.json) |
 | SRB2 Heroes | 326954 | [326954-srb2-heroes.json](./326954-srb2-heroes.json) |
@@ -23343,6 +23344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swimmer Away | 347354 | [347354-swimmer-away.json](./347354-swimmer-away.json) |
 | Swimming Dynasty | 258024 | [258024-swimming-dynasty.json](./258024-swimming-dynasty.json) |
 | Swimming Pool Cleaner | 219561 | [219561-swimming-pool-cleaner.json](./219561-swimming-pool-cleaner.json) |
+| Swimming with Humpbacks | 117463 | [117463-swimming-with-humpbacks.json](./117463-swimming-with-humpbacks.json) |
 | Swimpossible! | 366238 | [366238-swimpossible.json](./366238-swimpossible.json) |
 | Swimsanity! | 63572 | [63572-swimsanity.json](./63572-swimsanity.json) |
 | Swinario Super Bros. Play | 169252 | [169252-swinario-super-bros-play.json](./169252-swinario-super-bros-play.json) |
