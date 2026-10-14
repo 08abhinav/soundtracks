@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint the Snow: Idle | 365230 | [365230-paint-the-snow-idle.json](./365230-paint-the-snow-idle.json) |
 | Paint the Town Red | 13192 | [13192-paint-the-town-red.json](./13192-paint-the-town-red.json) |
 | Paint to Pixel | 192959 | [192959-paint-to-pixel.json](./192959-paint-to-pixel.json) |
+| Paint Tubes | 108217 | [108217-paint-tubes.json](./108217-paint-tubes.json) |
 | Paint Warfare | 131324 | [131324-paint-warfare.json](./131324-paint-warfare.json) |
 | Paint Works | 268399 | [268399-paint-works.json](./268399-paint-works.json) |
 | Paint-a'-Way | 271825 | [271825-paint-a-way.json](./271825-paint-a-way.json) |
@@ -2115,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pattern Survivors: Bullet Hell | 348970 | [348970-pattern-survivors-bullet-hell.json](./348970-pattern-survivors-bullet-hell.json) |
 | Pattern Thinking Puzzle Build It Before 10 | 362365 | [362365-pattern-thinking-puzzle-build-it-before-10.json](./362365-pattern-thinking-puzzle-build-it-before-10.json) |
 | Patterna | 31999 | [31999-patterna.json](./31999-patterna.json) |
+| Patternis | 108314 | [108314-patternis.json](./108314-patternis.json) |
 | Patterns | 131534 | [131534-patterns.json](./131534-patterns.json) |
 | Patterns | 8441 | [8441-patterns.json](./8441-patterns.json) |
 | Patterns of the Oak | 358850 | [358850-patterns-of-the-oak.json](./358850-patterns-of-the-oak.json) |
@@ -3334,6 +3336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PETSCII Bros | 290652 | [290652-petscii-bros.json](./290652-petscii-bros.json) |
 | PETSCII Raiders | 290655 | [290655-petscii-raiders.json](./290655-petscii-raiders.json) |
 | PetShop | 235494 | [235494-petshop.json](./235494-petshop.json) |
+| Petshopmania | 108230 | [108230-petshopmania.json](./108230-petshopmania.json) |
 | Petsitting | 361636 | [361636-petsitting.json](./361636-petsitting.json) |
 | Pettan Pyuu | 151160 | [151160-pettan-pyuu.json](./151160-pettan-pyuu.json) |
 | Pettson & Findus: Födelsedagskatten | 286110 | [286110-pettson-and-findus-fodelsedagskatten.json](./286110-pettson-and-findus-fodelsedagskatten.json) |
@@ -4814,6 +4817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Pong Clásico en 2DD | 316341 | [316341-ping-pong-clasico-en-2dd.json](./316341-ping-pong-clasico-en-2dd.json) |
 | Ping Pong Cup | 247065 | [247065-ping-pong-cup.json](./247065-ping-pong-cup.json) |
 | Ping Pong League | 32252 | [32252-ping-pong-league.json](./32252-ping-pong-league.json) |
+| Ping Pong Master | 108225 | [108225-ping-pong-master.json](./108225-ping-pong-master.json) |
 | Ping Pong Palz | 180508 | [180508-ping-pong-palz.json](./180508-ping-pong-palz.json) |
 | Ping Pong Pow | 23605 | [23605-ping-pong-pow.json](./23605-ping-pong-pow.json) |
 | Ping Pong Pufferfish | 188985 | [188985-ping-pong-pufferfish.json](./188985-ping-pong-pufferfish.json) |
