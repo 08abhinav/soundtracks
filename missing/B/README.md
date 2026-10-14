@@ -11191,6 +11191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Building Block Simulator | 297636 | [297636-building-block-simulator.json](./297636-building-block-simulator.json) |
 | Building Block: Castle & City Craft Simulator | 89277 | [89277-building-block-castle-and-city-craft-simulator.json](./89277-building-block-castle-and-city-craft-simulator.json) |
 | Building Blocks / Master Builder of Egypt | 81219 | [81219-building-blocks-master-builder-of-egypt.json](./81219-building-blocks-master-builder-of-egypt.json) |
+| Building Crush! | 112183 | [112183-building-crush.json](./112183-building-crush.json) |
 | Building Destruction | 219214 | [219214-building-destruction.json](./219214-building-destruction.json) |
 | Building Manager | 401833 | [401833-building-manager.json](./401833-building-manager.json) |
 | Building our Futature | 223500 | [223500-building-our-futature.json](./223500-building-our-futature.json) |
