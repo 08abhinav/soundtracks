@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Discovered 2: Medieval Fantasy | 375391 | [375391-waifu-discovered-2-medieval-fantasy.json](./375391-waifu-discovered-2-medieval-fantasy.json) |
 | Waifu Fighter: Family Friendly | 236311 | [236311-waifu-fighter-family-friendly.json](./236311-waifu-fighter-family-friendly.json) |
 | Waifu Force | 264527 | [264527-waifu-force.json](./264527-waifu-force.json) |
+| Waifu Hunter - Secret of Pirates | 112806 | [112806-waifu-hunter-secret-of-pirates.json](./112806-waifu-hunter-secret-of-pirates.json) |
 | Waifu Hunter: Episode 1 - The Runaway Samurai | 110541 | [110541-waifu-hunter-episode-1-the-runaway-samurai.json](./110541-waifu-hunter-episode-1-the-runaway-samurai.json) |
 | Waifu Impact | 157112 | [157112-waifu-impact.json](./157112-waifu-impact.json) |
 | Waifu Impact 2 | 321542 | [321542-waifu-impact-2.json](./321542-waifu-impact-2.json) |
