@@ -10927,6 +10927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drill Space | 341037 | [341037-drill-space.json](./341037-drill-space.json) |
 | Drill to Hell: Clicked Too Deep | 345082 | [345082-drill-to-hell-clicked-too-deep.json](./345082-drill-to-hell-clicked-too-deep.json) |
 | Drill Up | 348945 | [348945-drill-up.json](./348945-drill-up.json) |
+| Driller Tanks | 94636 | [94636-driller-tanks.json](./94636-driller-tanks.json) |
 | Drillman 6378137 | 195703 | [195703-drillman-6378137.json](./195703-drillman-6378137.json) |
 | DrillMania | 106458 | [106458-drillmania.json](./106458-drillmania.json) |
 | Drillmin | 186198 | [186198-drillmin.json](./186198-drillmin.json) |
