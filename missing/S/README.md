@@ -1186,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanity: Aiken's Artifact | 90142 | [90142-sanity-aikens-artifact.json](./90142-sanity-aikens-artifact.json) |
 | Sankai: Another World | 193868 | [193868-sankai-another-world.json](./193868-sankai-another-world.json) |
 | SankakkuDoku | 320456 | [320456-sankakkudoku.json](./320456-sankakkudoku.json) |
+| Sankaku Renai: Love Triangle Trouble | 110870 | [110870-sankaku-renai-love-triangle-trouble.json](./110870-sankaku-renai-love-triangle-trouble.json) |
 | Sankaku Renai: Love Triangle Trouble - Limited Edition | 167094 | [167094-sankaku-renai-love-triangle-trouble-limited-edition.json](./167094-sankaku-renai-love-triangle-trouble-limited-edition.json) |
 | Sankhara | 156130 | [156130-sankhara.json](./156130-sankhara.json) |
 | Sanki | 178517 | [178517-sanki.json](./178517-sanki.json) |
@@ -1910,6 +1911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scattered Wings | 398578 | [398578-scattered-wings.json](./398578-scattered-wings.json) |
 | Scattergories Weekly | 376139 | [376139-scattergories-weekly.json](./376139-scattergories-weekly.json) |
 | Scatterhoard | 185097 | [185097-scatterhoard.json](./185097-scatterhoard.json) |
+| Scatteria | 110758 | [110758-scatteria.json](./110758-scatteria.json) |
 | Scav | 361079 | [361079-scav.json](./361079-scav.json) |
 | Scavenger | 237648 | [237648-scavenger.json](./237648-scavenger.json) |
 | Scavenger | 241503 | [241503-scavenger.json](./241503-scavenger.json) |
@@ -3571,6 +3573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Bishoujo Emaki: Cut Sky ~Chapter Summer Wind~ | 147929 | [147929-sengoku-bishoujo-emaki-cut-sky-chapter-summer-wind.json](./147929-sengoku-bishoujo-emaki-cut-sky-chapter-summer-wind.json) |
 | Sengoku Block Bashi | 151711 | [151711-sengoku-block-bashi.json](./151711-sengoku-block-bashi.json) |
 | Sengoku Bushidou: Daiyabou no Maki | 308883 | [308883-sengoku-bushidou-daiyabou-no-maki.json](./308883-sengoku-bushidou-daiyabou-no-maki.json) |
+| Sengoku Cannon for Nintendo Switch | 110869 | [110869-sengoku-cannon-for-nintendo-switch.json](./110869-sengoku-cannon-for-nintendo-switch.json) |
 | Sengoku Denshou | 48632 | [48632-sengoku-denshou.json](./48632-sengoku-denshou.json) |
 | Sengoku Dynasty | 192664 | [192664-sengoku-dynasty.json](./192664-sengoku-dynasty.json) |
 | Sengoku Dynasty: Sakura Edition | 406331 | [406331-sengoku-dynasty-sakura-edition.json](./406331-sengoku-dynasty-sakura-edition.json) |
@@ -4978,6 +4981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharing Lights | 192267 | [192267-sharing-lights.json](./192267-sharing-lights.json) |
 | Sharing Lights | 192902 | [192902-sharing-lights.json](./192902-sharing-lights.json) |
 | Sharique | 112267 | [112267-sharique.json](./112267-sharique.json) |
+| Shark | 110852 | [110852-shark.json](./110852-shark.json) |
 | Shark Attack | 134536 | [134536-shark-attack.json](./134536-shark-attack.json) |
 | Shark Attack | 281026 | [281026-shark-attack.json](./281026-shark-attack.json) |
 | Shark Bridge Card Game | 87120 | [87120-shark-bridge-card-game.json](./87120-shark-bridge-card-game.json) |
@@ -15643,6 +15647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stagehand Survival Simulator | 239733 | [239733-stagehand-survival-simulator.json](./239733-stagehand-survival-simulator.json) |
 | Stagehand: A Reverse Platformer | 97306 | [97306-stagehand-a-reverse-platformer.json](./97306-stagehand-a-reverse-platformer.json) |
 | Stagelands: Eternal Defense | 272232 | [272232-stagelands-eternal-defense.json](./272232-stagelands-eternal-defense.json) |
+| StageMechanic | 110848 | [110848-stagemechanic.json](./110848-stagemechanic.json) |
 | Stages of Life | 250397 | [250397-stages-of-life.json](./250397-stages-of-life.json) |
 | StageTime | 334255 | [334255-stagetime.json](./334255-stagetime.json) |
 | Stagger 1 | 40250 | [40250-stagger-1.json](./40250-stagger-1.json) |
@@ -18265,6 +18270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Bird Island | 180590 | [180590-strange-bird-island.json](./180590-strange-bird-island.json) |
 | Strange Block 36 | 345069 | [345069-strange-block-36.json](./345069-strange-block-36.json) |
 | Strange Brigade: Deluxe Edition | 118899 | [118899-strange-brigade-deluxe-edition.json](./118899-strange-brigade-deluxe-edition.json) |
+| Strange Brigade: The Thrice Damned 1 - Isle of the Dead | 110842 | [110842-strange-brigade-the-thrice-damned-1-isle-of-the-dead.json](./110842-strange-brigade-the-thrice-damned-1-isle-of-the-dead.json) |
 | Strange Brigade: The Thrice Damned 2 - The Sunken Kingdom | 111557 | [111557-strange-brigade-the-thrice-damned-2-the-sunken-kingdom.json](./111557-strange-brigade-the-thrice-damned-2-the-sunken-kingdom.json) |
 | Strange Day | 365881 | [365881-strange-day.json](./365881-strange-day.json) |
 | Strange Hill | 263750 | [263750-strange-hill.json](./263750-strange-hill.json) |
@@ -18537,6 +18543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Boss | 370180 | [370180-street-boss.json](./370180-street-boss.json) |
 | Street Boy | 220646 | [220646-street-boy.json](./220646-street-boy.json) |
 | Street Boyz | 43237 | [43237-street-boyz.json](./43237-street-boyz.json) |
+| Street Burners | 110854 | [110854-street-burners.json](./110854-street-burners.json) |
 | Street Cat | 78041 | [78041-street-cat.json](./78041-street-cat.json) |
 | Street Chaser | 247088 | [247088-street-chaser.json](./247088-street-chaser.json) |
 | Street Chaves | 141519 | [141519-street-chaves.json](./141519-street-chaves.json) |
@@ -23425,6 +23432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swing Striker | 133471 | [133471-swing-striker.json](./133471-swing-striker.json) |
 | Swing Swamp | 333765 | [333765-swing-swamp.json](./333765-swing-swamp.json) |
 | Swing Swing Swing | 321452 | [321452-swing-swing-swing.json](./321452-swing-swing-swing.json) |
+| Swing the cat | 110752 | [110752-swing-the-cat.json](./110752-swing-the-cat.json) |
 | Swing the Universe | 191814 | [191814-swing-the-universe.json](./191814-swing-the-universe.json) |
 | SwingByMe | 206043 | [206043-swingbyme.json](./206043-swingbyme.json) |
 | Swinger | 91378 | [91378-swinger.json](./91378-swinger.json) |
@@ -23538,6 +23546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Alicization Rising Steel | 125818 | [125818-sword-art-online-alicization-rising-steel.json](./125818-sword-art-online-alicization-rising-steel.json) |
 | Sword Art Online: Fatal Bullet - Ambush of the Imposters | 114141 | [114141-sword-art-online-fatal-bullet-ambush-of-the-imposters.json](./114141-sword-art-online-fatal-bullet-ambush-of-the-imposters.json) |
 | Sword Art Online: Fatal Bullet - Collapse of Balance | 114142 | [114142-sword-art-online-fatal-bullet-collapse-of-balance.json](./114142-sword-art-online-fatal-bullet-collapse-of-balance.json) |
+| Sword Art Online: Fatal Bullet - Dissonance of the Nexus | 110843 | [110843-sword-art-online-fatal-bullet-dissonance-of-the-nexus.json](./110843-sword-art-online-fatal-bullet-dissonance-of-the-nexus.json) |
 | Sword Art Online: Fractured Daydream | 287852 | [287852-sword-art-online-fractured-daydream.json](./287852-sword-art-online-fractured-daydream.json) |
 | Sword Art Online: Fractured Daydream - Character Pass Vol. 1 | 324479 | [324479-sword-art-online-fractured-daydream-character-pass-vol-1.json](./324479-sword-art-online-fractured-daydream-character-pass-vol-1.json) |
 | Sword Art Online: Fractured Daydream - Character Pass Vol. 2 | 380690 | [380690-sword-art-online-fractured-daydream-character-pass-vol-2.json](./380690-sword-art-online-fractured-daydream-character-pass-vol-2.json) |
