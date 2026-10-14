@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Can't Believe It's Not Gambling: GOTY Edition | 74929 | [74929-i-cant-believe-its-not-gambling-goty-edition.json](./74929-i-cant-believe-its-not-gambling-goty-edition.json) |
 | I Can't Believe the Most Popular Girl in School is a Lesbian, Just Like Me! | 184894 | [184894-i-cant-believe-the-most-popular-girl-in-school-is-a-lesbian-just-like-me.json](./184894-i-cant-believe-the-most-popular-girl-in-school-is-a-lesbian-just-like-me.json) |
 | I Can't Cry. | 183930 | [183930-i-cant-cry.json](./183930-i-cant-cry.json) |
+| I Can't Escape | 94137 | [94137-i-cant-escape.json](./94137-i-cant-escape.json) |
 | I Can't Escape: Darkness | 35861 | [35861-i-cant-escape-darkness.json](./35861-i-cant-escape-darkness.json) |
 | I Can't Hear Your Words, So I Want To Listen To Your Heart | 367519 | [367519-i-cant-hear-your-words-so-i-want-to-listen-to-your-heart.json](./367519-i-cant-hear-your-words-so-i-want-to-listen-to-your-heart.json) |
 | I Can't Reid | 386100 | [386100-i-cant-reid.json](./386100-i-cant-reid.json) |
@@ -1540,6 +1541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imaginal Voyages | 245779 | [245779-imaginal-voyages.json](./245779-imaginal-voyages.json) |
 | Imaginari | 215345 | [215345-imaginari.json](./215345-imaginari.json) |
 | Imaginarium | 126614 | [126614-imaginarium.json](./126614-imaginarium.json) |
+| Imaginary | 94153 | [94153-imaginary.json](./94153-imaginary.json) |
 | Imaginary Chaos Fight | 340509 | [340509-imaginary-chaos-fight.json](./340509-imaginary-chaos-fight.json) |
 | Imaginary Friend Asylum | 273459 | [273459-imaginary-friend-asylum.json](./273459-imaginary-friend-asylum.json) |
 | Imaginary Girl: Prequel | 253347 | [253347-imaginary-girl-prequel.json](./253347-imaginary-girl-prequel.json) |
@@ -2340,6 +2342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inertia Ball | 264803 | [264803-inertia-ball.json](./264803-inertia-ball.json) |
 | Inertia: Redux | 208838 | [208838-inertia-redux.json](./208838-inertia-redux.json) |
 | Inertia: Redux | 208858 | [208858-inertia-redux.json](./208858-inertia-redux.json) |
+| Inertia! | 94111 | [94111-inertia.json](./94111-inertia.json) |
 | Inertial Craft | 309953 | [309953-inertial-craft.json](./309953-inertial-craft.json) |
 | Inertial Drift | 127770 | [127770-inertial-drift.json](./127770-inertial-drift.json) |
 | Inertial Drift: Twilight Rivals Edition | 203517 | [203517-inertial-drift-twilight-rivals-edition.json](./203517-inertial-drift-twilight-rivals-edition.json) |
