@@ -2725,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Thieves: Season 8 | 227961 | [227961-sea-of-thieves-season-8.json](./227961-sea-of-thieves-season-8.json) |
 | Sea of Thieves: Season 9 | 240906 | [240906-sea-of-thieves-season-9.json](./240906-sea-of-thieves-season-9.json) |
 | Sea of Thieves: Smuggler's Tide - Season 17 | 348213 | [348213-sea-of-thieves-smugglers-tide-season-17.json](./348213-sea-of-thieves-smugglers-tide-season-17.json) |
+| Sea of Thieves: The Hungering Deep | 102080 | [102080-sea-of-thieves-the-hungering-deep.json](./102080-sea-of-thieves-the-hungering-deep.json) |
 | Sea of Thieves: The Legend of Monkey Island | 252829 | [252829-sea-of-thieves-the-legend-of-monkey-island.json](./252829-sea-of-thieves-the-legend-of-monkey-island.json) |
 | Sea of Thieves: Wild Things - Season 15 | 354372 | [354372-sea-of-thieves-wild-things-season-15.json](./354372-sea-of-thieves-wild-things-season-15.json) |
 | Sea of Tranquility | 347655 | [347655-sea-of-tranquility.json](./347655-sea-of-tranquility.json) |
@@ -3745,6 +3746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentry | 172054 | [172054-sentry.json](./172054-sentry.json) |
 | Sentry | 218164 | [218164-sentry.json](./218164-sentry.json) |
 | Sentry City | 197082 | [197082-sentry-city.json](./197082-sentry-city.json) |
+| Sentry Knight 2 | 102032 | [102032-sentry-knight-2.json](./102032-sentry-knight-2.json) |
 | Sentry Knight Tactics | 24824 | [24824-sentry-knight-tactics.json](./24824-sentry-knight-tactics.json) |
 | Sentry: Obelisk of Dawn | 152898 | [152898-sentry-obelisk-of-dawn.json](./152898-sentry-obelisk-of-dawn.json) |
 | Senua | 405072 | [405072-senua.json](./405072-senua.json) |
@@ -4981,6 +4983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of the Library | 366296 | [366296-shards-of-the-library.json](./366296-shards-of-the-library.json) |
 | Shards of the Mirror | 340381 | [340381-shards-of-the-mirror.json](./340381-shards-of-the-mirror.json) |
 | Shards of the Past | 266977 | [266977-shards-of-the-past.json](./266977-shards-of-the-past.json) |
+| Shards of Titan | 102035 | [102035-shards-of-titan.json](./102035-shards-of-titan.json) |
 | Shards of War | 60565 | [60565-shards-of-war.json](./60565-shards-of-war.json) |
 | Shared Beauty | 270760 | [270760-shared-beauty.json](./270760-shared-beauty.json) |
 | Shared RC | 415307 | [415307-shared-rc.json](./415307-shared-rc.json) |
@@ -6727,6 +6730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege Demolishers | 411500 | [411500-siege-demolishers.json](./411500-siege-demolishers.json) |
 | Siege Hammer | 31105 | [31105-siege-hammer.json](./31105-siege-hammer.json) |
 | Siege Hero | 254977 | [254977-siege-hero.json](./254977-siege-hero.json) |
+| Siege Hero: Pirate Pillage | 102028 | [102028-siege-hero-pirate-pillage.json](./102028-siege-hero-pirate-pillage.json) |
 | Siege Machines Builder | 117596 | [117596-siege-machines-builder.json](./117596-siege-machines-builder.json) |
 | Siege of Avalon | 9382 | [9382-siege-of-avalon.json](./9382-siege-of-avalon.json) |
 | Siege of Centauri | 116002 | [116002-siege-of-centauri.json](./116002-siege-of-centauri.json) |
