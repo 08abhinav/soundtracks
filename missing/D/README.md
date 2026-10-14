@@ -1310,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Wizardry: The Road to Gargath | 381341 | [381341-dark-wizardry-the-road-to-gargath.json](./381341-dark-wizardry-the-road-to-gargath.json) |
 | Dark Wonderland | 412293 | [412293-dark-wonderland.json](./412293-dark-wonderland.json) |
 | Dark Woods Haunted Quest: Hidden Objects Game | 197629 | [197629-dark-woods-haunted-quest-hidden-objects-game.json](./197629-dark-woods-haunted-quest-hidden-objects-game.json) |
+| Dark World | 129517 | [129517-dark-world.json](./129517-dark-world.json) |
 | Dark Wraith | 313999 | [313999-dark-wraith.json](./313999-dark-wraith.json) |
 | Dark Zodiac | 343338 | [343338-dark-zodiac.json](./343338-dark-zodiac.json) |
 | Dark Zone | 128983 | [128983-dark-zone.json](./128983-dark-zone.json) |
@@ -2138,12 +2139,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Alien Chapter Pack | 263939 | [263939-dead-by-daylight-alien-chapter-pack.json](./263939-dead-by-daylight-alien-chapter-pack.json) |
 | Dead by Daylight: All Things Wicked Chapter | 290845 | [290845-dead-by-daylight-all-things-wicked-chapter.json](./290845-dead-by-daylight-all-things-wicked-chapter.json) |
 | Dead by Daylight: All-Kill Chapter | 154346 | [154346-dead-by-daylight-all-kill-chapter.json](./154346-dead-by-daylight-all-kill-chapter.json) |
+| Dead by Daylight: Ash vs Evil Dead | 129475 | [129475-dead-by-daylight-ash-vs-evil-dead.json](./129475-dead-by-daylight-ash-vs-evil-dead.json) |
 | Dead by Daylight: Attack on Titan - Armored Pack | 254687 | [254687-dead-by-daylight-attack-on-titan-armored-pack.json](./254687-dead-by-daylight-attack-on-titan-armored-pack.json) |
 | Dead by Daylight: Attack on Titan - Warhammer Pack | 254686 | [254686-dead-by-daylight-attack-on-titan-warhammer-pack.json](./254686-dead-by-daylight-attack-on-titan-warhammer-pack.json) |
 | Dead by Daylight: Castlevania Chapter | 300809 | [300809-dead-by-daylight-castlevania-chapter.json](./300809-dead-by-daylight-castlevania-chapter.json) |
 | Dead by Daylight: Chains of Hate Chapter | 154343 | [154343-dead-by-daylight-chains-of-hate-chapter.json](./154343-dead-by-daylight-chains-of-hate-chapter.json) |
 | Dead by Daylight: Charity Case | 227409 | [227409-dead-by-daylight-charity-case.json](./227409-dead-by-daylight-charity-case.json) |
 | Dead by Daylight: Chucky Chapter | 278424 | [278424-dead-by-daylight-chucky-chapter.json](./278424-dead-by-daylight-chucky-chapter.json) |
+| Dead by Daylight: Cursed Legacy Chapter | 129474 | [129474-dead-by-daylight-cursed-legacy-chapter.json](./129474-dead-by-daylight-cursed-legacy-chapter.json) |
+| Dead by Daylight: Darkness Among Us Chapter | 129472 | [129472-dead-by-daylight-darkness-among-us-chapter.json](./129472-dead-by-daylight-darkness-among-us-chapter.json) |
 | Dead by Daylight: Definitive Edition | 136185 | [136185-dead-by-daylight-definitive-edition.json](./136185-dead-by-daylight-definitive-edition.json) |
 | Dead by Daylight: Descend Beyond Chapter | 154345 | [154345-dead-by-daylight-descend-beyond-chapter.json](./154345-dead-by-daylight-descend-beyond-chapter.json) |
 | Dead by Daylight: Dungeons & Dragons | 300798 | [300798-dead-by-daylight-dungeons-and-dragons.json](./300798-dead-by-daylight-dungeons-and-dragons.json) |
@@ -2165,6 +2169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Resident Evil Chapter | 152483 | [152483-dead-by-daylight-resident-evil-chapter.json](./152483-dead-by-daylight-resident-evil-chapter.json) |
 | Dead By Daylight: Resident Evil Collaboration Bundle | 212876 | [212876-dead-by-daylight-resident-evil-collaboration-bundle.json](./212876-dead-by-daylight-resident-evil-collaboration-bundle.json) |
 | Dead by Daylight: Roots of Dread | 203959 | [203959-dead-by-daylight-roots-of-dread.json](./203959-dead-by-daylight-roots-of-dread.json) |
+| Dead by Daylight: Shattered Bloodline Chapter | 129470 | [129470-dead-by-daylight-shattered-bloodline-chapter.json](./129470-dead-by-daylight-shattered-bloodline-chapter.json) |
 | Dead by Daylight: Silent Hill - Cybil Bennett | 358413 | [358413-dead-by-daylight-silent-hill-cybil-bennett.json](./358413-dead-by-daylight-silent-hill-cybil-bennett.json) |
 | Dead by Daylight: Silent Hill - James Sunderland | 358415 | [358415-dead-by-daylight-silent-hill-james-sunderland.json](./358415-dead-by-daylight-silent-hill-james-sunderland.json) |
 | Dead by Daylight: Silent Hill - Lisa Garland | 358411 | [358411-dead-by-daylight-silent-hill-lisa-garland.json](./358411-dead-by-daylight-silent-hill-lisa-garland.json) |
@@ -2173,11 +2178,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Special Edition | 106079 | [106079-dead-by-daylight-special-edition.json](./106079-dead-by-daylight-special-edition.json) |
 | Dead by Daylight: Steady Pulse | 342802 | [342802-dead-by-daylight-steady-pulse.json](./342802-dead-by-daylight-steady-pulse.json) |
 | Dead by Daylight: Stranger Things - Jonathan Byers | 358410 | [358410-dead-by-daylight-stranger-things-jonathan-byers.json](./358410-dead-by-daylight-stranger-things-jonathan-byers.json) |
+| Dead by Daylight: Stranger Things Chapter | 129473 | [129473-dead-by-daylight-stranger-things-chapter.json](./129473-dead-by-daylight-stranger-things-chapter.json) |
 | Dead by Daylight: Stranger Things Edition | 164813 | [164813-dead-by-daylight-stranger-things-edition.json](./164813-dead-by-daylight-stranger-things-edition.json) |
 | Dead by Daylight: The 80's Suitcase | 227406 | [227406-dead-by-daylight-the-80s-suitcase.json](./227406-dead-by-daylight-the-80s-suitcase.json) |
 | Dead by Daylight: The Bloodstained Sack | 227407 | [227407-dead-by-daylight-the-bloodstained-sack.json](./227407-dead-by-daylight-the-bloodstained-sack.json) |
 | Dead by Daylight: The Halloween Chapter | 76221 | [76221-dead-by-daylight-the-halloween-chapter.json](./76221-dead-by-daylight-the-halloween-chapter.json) |
 | Dead by Daylight: The Last Breath Chapter | 76220 | [76220-dead-by-daylight-the-last-breath-chapter.json](./76220-dead-by-daylight-the-last-breath-chapter.json) |
+| Dead by Daylight: The Saw Chapter | 129471 | [129471-dead-by-daylight-the-saw-chapter.json](./129471-dead-by-daylight-the-saw-chapter.json) |
 | Dead by Daylight: The Walking Dead | 358407 | [358407-dead-by-daylight-the-walking-dead.json](./358407-dead-by-daylight-the-walking-dead.json) |
 | Dead by Daylight: The Walking Dead - Daryl Dixon | 358409 | [358409-dead-by-daylight-the-walking-dead-daryl-dixon.json](./358409-dead-by-daylight-the-walking-dead-daryl-dixon.json) |
 | Dead By Murder | 74144 | [74144-dead-by-murder.json](./74144-dead-by-murder.json) |
@@ -5995,6 +6002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension of the Diminished | 271723 | [271723-dimension-of-the-diminished.json](./271723-dimension-of-the-diminished.json) |
 | Dimension Painter | 256183 | [256183-dimension-painter.json](./256183-dimension-painter.json) |
 | Dimension Ranger | 349330 | [349330-dimension-ranger.json](./349330-dimension-ranger.json) |
+| Dimension Reign | 129484 | [129484-dimension-reign.json](./129484-dimension-reign.json) |
 | Dimension Shift | 323884 | [323884-dimension-shift.json](./323884-dimension-shift.json) |
 | Dimension Summoner: Hero Arena 3D Fantasy RPG | 95873 | [95873-dimension-summoner-hero-arena-3d-fantasy-rpg.json](./95873-dimension-summoner-hero-arena-3d-fantasy-rpg.json) |
 | Dimension Tripper Neptune: TOP NEP | 187445 | [187445-dimension-tripper-neptune-top-nep.json](./187445-dimension-tripper-neptune-top-nep.json) |
@@ -6386,6 +6394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Fighter 1 | 46491 | [46491-dirty-fighter-1.json](./46491-dirty-fighter-1.json) |
 | Dirty Harry | 3142 | [3142-dirty-harry.json](./3142-dirty-harry.json) |
 | Dirty Harry: Excessive Force | 291010 | [291010-dirty-harry-excessive-force.json](./291010-dirty-harry-excessive-force.json) |
+| Dirty Harry's Thunder Drive | 129488 | [129488-dirty-harrys-thunder-drive.json](./129488-dirty-harrys-thunder-drive.json) |
 | Dirty Horror | 236222 | [236222-dirty-horror.json](./236222-dirty-horror.json) |
 | Dirty House | 278158 | [278158-dirty-house.json](./278158-dirty-house.json) |
 | Dirty Kids | 100160 | [100160-dirty-kids.json](./100160-dirty-kids.json) |
@@ -11935,6 +11944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Shifters | 364507 | [364507-dungeon-shifters.json](./364507-dungeon-shifters.json) |
 | Dungeon Shooter | 104715 | [104715-dungeon-shooter.json](./104715-dungeon-shooter.json) |
 | Dungeon Shooter: Dark Temple | 234580 | [234580-dungeon-shooter-dark-temple.json](./234580-dungeon-shooter-dark-temple.json) |
+| Dungeon Shooting | 129516 | [129516-dungeon-shooting.json](./129516-dungeon-shooting.json) |
 | Dungeon Siege Collection | 154612 | [154612-dungeon-siege-collection.json](./154612-dungeon-siege-collection.json) |
 | Dungeon Siege II | 9269 | [9269-dungeon-siege-ii.json](./9269-dungeon-siege-ii.json) |
 | Dungeon Siege III: Limited Edition | 44551 | [44551-dungeon-siege-iii-limited-edition.json](./44551-dungeon-siege-iii-limited-edition.json) |
