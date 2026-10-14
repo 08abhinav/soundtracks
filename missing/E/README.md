@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eastpunk: Journey | 249668 | [249668-eastpunk-journey.json](./249668-eastpunk-journey.json) |
 | Eastshade | 17480 | [17480-eastshade.json](./17480-eastshade.json) |
 | Eastside Hockey Manager | 17396 | [17396-eastside-hockey-manager.json](./17396-eastside-hockey-manager.json) |
+| Eastward Legend: The Empyrean | 119414 | [119414-eastward-legend-the-empyrean.json](./119414-eastward-legend-the-empyrean.json) |
 | Eastward: Between Two Worlds Bundle | 284949 | [284949-eastward-between-two-worlds-bundle.json](./284949-eastward-between-two-worlds-bundle.json) |
 | Eastward: Octopia! | 266688 | [266688-eastward-octopia.json](./266688-eastward-octopia.json) |
 | Eastwind Adventures: Chapter 1 | 311792 | [311792-eastwind-adventures-chapter-1.json](./311792-eastwind-adventures-chapter-1.json) |
@@ -939,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Hunt 2026: The Grand Eggspress | 412312 | [412312-egg-hunt-2026-the-grand-eggspress.json](./412312-egg-hunt-2026-the-grand-eggspress.json) |
 | Egg Hunt Truck | 97143 | [97143-egg-hunt-truck.json](./97143-egg-hunt-truck.json) |
 | Egg Hunt VR | 28784 | [28784-egg-hunt-vr.json](./28784-egg-hunt-vr.json) |
+| Egg Knight | 119425 | [119425-egg-knight.json](./119425-egg-knight.json) |
 | Egg Maiden | 380779 | [380779-egg-maiden.json](./380779-egg-maiden.json) |
 | Egg Maker | 317361 | [317361-egg-maker.json](./317361-egg-maker.json) |
 | Egg Mania: Eggstreme Madness | 3903 | [3903-egg-mania-eggstreme-madness.json](./3903-egg-mania-eggstreme-madness.json) |
@@ -1105,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eidetus | 125898 | [125898-eidetus.json](./125898-eidetus.json) |
 | Eidol | 405550 | [405550-eidol.json](./405550-eidol.json) |
 | Eidolon | 17161 | [17161-eidolon.json](./17161-eidolon.json) |
+| Eidolon Adventure | 119459 | [119459-eidolon-adventure.json](./119459-eidolon-adventure.json) |
 | Eidolon Awakened | 262874 | [262874-eidolon-awakened.json](./262874-eidolon-awakened.json) |
 | Eidolons: Nethergate | 116818 | [116818-eidolons-nethergate.json](./116818-eidolons-nethergate.json) |
 | Eien no Filena | 15899 | [15899-eien-no-filena.json](./15899-eien-no-filena.json) |
@@ -2229,6 +2232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted in the Moonlight | 238427 | [238427-enchanted-in-the-moonlight.json](./238427-enchanted-in-the-moonlight.json) |
 | Enchanted in the Moonlight: Kiryu, Chikage & Yukinojo | 119510 | [119510-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo.json](./119510-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo.json) |
 | Enchanted in the Moonlight: Kiryu, Chikage & Yukinojo DLC Pack | 238188 | [238188-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo-dlc-pack.json](./238188-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo-dlc-pack.json) |
+| Enchanted in the Moonlight: Miyabi, Kyoga & Samon | 119446 | [119446-enchanted-in-the-moonlight-miyabi-kyoga-and-samon.json](./119446-enchanted-in-the-moonlight-miyabi-kyoga-and-samon.json) |
 | Enchanted in the Moonlight: Miyabi, Kyoga & Samon - Luck in Love: The Key to Happiness | 238068 | [238068-enchanted-in-the-moonlight-miyabi-kyoga-and-samon-luck-in-love-the-key-to-happiness.json](./238068-enchanted-in-the-moonlight-miyabi-kyoga-and-samon-luck-in-love-the-key-to-happiness.json) |
 | Enchanted Katya and the Mystery of the Lost Wizard | 64708 | [64708-enchanted-katya-and-the-mystery-of-the-lost-wizard.json](./64708-enchanted-katya-and-the-mystery-of-the-lost-wizard.json) |
 | Enchanted Kingdom: A Stranger's Venom | 188003 | [188003-enchanted-kingdom-a-strangers-venom.json](./188003-enchanted-kingdom-a-strangers-venom.json) |
