@@ -2967,6 +2967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Rider 2: The Game | 22370 | [22370-knight-rider-2-the-game.json](./22370-knight-rider-2-the-game.json) |
 | Knight Run: Reconquista | 199988 | [199988-knight-run-reconquista.json](./199988-knight-run-reconquista.json) |
 | Knight Runaway | 190948 | [190948-knight-runaway.json](./190948-knight-runaway.json) |
+| Knight Runner | 106952 | [106952-knight-runner.json](./106952-knight-runner.json) |
 | Knight Runner: Blade and Bolt | 301888 | [301888-knight-runner-blade-and-bolt.json](./301888-knight-runner-blade-and-bolt.json) |
 | Knight Shooter | 319943 | [319943-knight-shooter.json](./319943-knight-shooter.json) |
 | Knight Sim Life | 300868 | [300868-knight-sim-life.json](./300868-knight-sim-life.json) |
