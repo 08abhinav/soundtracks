@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sadness of Valor | 159070 | [159070-sadness-of-valor.json](./159070-sadness-of-valor.json) |
 | Sadoubu (Tea Ceremony Club) | 82946 | [82946-sadoubu-tea-ceremony-club.json](./82946-sadoubu-tea-ceremony-club.json) |
 | Sae | 276177 | [276177-sae.json](./276177-sae.json) |
+| Saeko-san to Issho! | 77850 | [77850-saeko-san-to-issho.json](./77850-saeko-san-to-issho.json) |
 | Safari | 305470 | [305470-safari.json](./305470-safari.json) |
 | Safari Adventures | 205836 | [205836-safari-adventures.json](./205836-safari-adventures.json) |
 | Safari Arena: Wildlife Arcade Fighter | 102821 | [102821-safari-arena-wildlife-arcade-fighter.json](./102821-safari-arena-wildlife-arcade-fighter.json) |
@@ -2572,6 +2573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scuba Diver | 40766 | [40766-scuba-diver.json](./40766-scuba-diver.json) |
 | Scuba Kidz | 92069 | [92069-scuba-kidz.json](./92069-scuba-kidz.json) |
 | Scubaman's Quest | 143459 | [143459-scubamans-quest.json](./143459-scubamans-quest.json) |
+| ScubaVenture: The Search For Pirate's Treasure | 77855 | [77855-scubaventure-the-search-for-pirates-treasure.json](./77855-scubaventure-the-search-for-pirates-treasure.json) |
 | Scud Atak | 85766 | [85766-scud-atak.json](./85766-scud-atak.json) |
 | Scud Frenzy | 102395 | [102395-scud-frenzy.json](./102395-scud-frenzy.json) |
 | SCUD Race | 39476 | [39476-scud-race.json](./39476-scud-race.json) |
@@ -3367,6 +3369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages 2500 Vol. 4: Space Harrier | 96512 | [96512-sega-ages-2500-vol-4-space-harrier.json](./96512-sega-ages-2500-vol-4-space-harrier.json) |
 | Sega Ages 2500 Vol. 7: Columns | 99692 | [99692-sega-ages-2500-vol-7-columns.json](./99692-sega-ages-2500-vol-7-columns.json) |
 | Sega Ages 2500 Vol. 8: Virtua Racing FlatOut | 96528 | [96528-sega-ages-2500-vol-8-virtua-racing-flatout.json](./96528-sega-ages-2500-vol-8-virtua-racing-flatout.json) |
+| Sega Ages 2500 Vol. 9: Gain Ground | 77881 | [77881-sega-ages-2500-vol-9-gain-ground.json](./77881-sega-ages-2500-vol-9-gain-ground.json) |
 | Sega Ages Fantasy Zone | 117158 | [117158-sega-ages-fantasy-zone.json](./117158-sega-ages-fantasy-zone.json) |
 | Sega Ages G-LOC: Air Battle | 117157 | [117157-sega-ages-g-loc-air-battle.json](./117157-sega-ages-g-loc-air-battle.json) |
 | Sega Ages Lightening Force: Quest for the Darkstar | 109595 | [109595-sega-ages-lightening-force-quest-for-the-darkstar.json](./109595-sega-ages-lightening-force-quest-for-the-darkstar.json) |
@@ -7446,6 +7449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Series for Nintendo 3DS Vol. 1: The Mahjong | 82133 | [82133-simple-series-for-nintendo-3ds-vol-1-the-mahjong.json](./82133-simple-series-for-nintendo-3ds-vol-1-the-mahjong.json) |
 | Simple Series for Nintendo 3DS Vol. 2: The Misshitsu kara no Dasshutsu Archives 1 | 400330 | [400330-simple-series-for-nintendo-3ds-vol-2-the-misshitsu-kara-no-dasshutsu-archives-1.json](./400330-simple-series-for-nintendo-3ds-vol-2-the-misshitsu-kara-no-dasshutsu-archives-1.json) |
 | Simple Series for Nintendo 3DS Vol. 2: The Misshitsu kara no Dasshutsu Archives 2 | 400329 | [400329-simple-series-for-nintendo-3ds-vol-2-the-misshitsu-kara-no-dasshutsu-archives-2.json](./400329-simple-series-for-nintendo-3ds-vol-2-the-misshitsu-kara-no-dasshutsu-archives-2.json) |
+| Simple Series G4U Vol. 1: The Mahjong | 77865 | [77865-simple-series-g4u-vol-1-the-mahjong.json](./77865-simple-series-g4u-vol-1-the-mahjong.json) |
 | Simple Series Vol. 1: The Block Kuzushi Neo | 409003 | [409003-simple-series-vol-1-the-block-kuzushi-neo.json](./409003-simple-series-vol-1-the-block-kuzushi-neo.json) |
 | Simple Series Vol. 2: The Number Puzzle neo | 409004 | [409004-simple-series-vol-2-the-number-puzzle-neo.json](./409004-simple-series-vol-2-the-number-puzzle-neo.json) |
 | Simple Series Vol. 3: The Mahjong | 82132 | [82132-simple-series-vol-3-the-mahjong.json](./82132-simple-series-vol-3-the-mahjong.json) |
@@ -8742,6 +8746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slave of a Witch | 82651 | [82651-slave-of-a-witch.json](./82651-slave-of-a-witch.json) |
 | Slave of Lust | 219691 | [219691-slave-of-lust.json](./219691-slave-of-lust.json) |
 | Slave Pageant | 122262 | [122262-slave-pageant.json](./122262-slave-pageant.json) |
+| Slave Police Michiru & Misuzu | 77837 | [77837-slave-police-michiru-and-misuzu.json](./77837-slave-police-michiru-and-misuzu.json) |
 | Slave Princess Finne: If Story 1 | 371048 | [371048-slave-princess-finne-if-story-1.json](./371048-slave-princess-finne-if-story-1.json) |
 | Slave Princess Finne: If Story 2 | 371050 | [371050-slave-princess-finne-if-story-2.json](./371050-slave-princess-finne-if-story-2.json) |
 | Slave Princess Finne: If Story 3 | 371051 | [371051-slave-princess-finne-if-story-3.json](./371051-slave-princess-finne-if-story-3.json) |
@@ -9473,6 +9478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Baby ABC Games: Toddler Kids Learning Apps | 87032 | [87032-smart-baby-abc-games-toddler-kids-learning-apps.json](./87032-smart-baby-abc-games-toddler-kids-learning-apps.json) |
 | Smart Bomb | 72930 | [72930-smart-bomb.json](./72930-smart-bomb.json) |
 | Smart Bomber | 247035 | [247035-smart-bomber.json](./247035-smart-bomber.json) |
+| Smart Boy's Gameroom | 77891 | [77891-smart-boys-gameroom.json](./77891-smart-boys-gameroom.json) |
 | Smart Boy's Gameroom II | 208958 | [208958-smart-boys-gameroom-ii.json](./208958-smart-boys-gameroom-ii.json) |
 | Smart Boy's: Toy Club | 124044 | [124044-smart-boys-toy-club.json](./124044-smart-boys-toy-club.json) |
 | Smart Boy's: Winter Wonderland | 124048 | [124048-smart-boys-winter-wonderland.json](./124048-smart-boys-winter-wonderland.json) |
@@ -12349,6 +12355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soukou Akki Muramasa: Janen-hen | 170502 | [170502-soukou-akki-muramasa-janen-hen.json](./170502-soukou-akki-muramasa-janen-hen.json) |
 | Soukou Kihei Votoms | 85861 | [85861-soukou-kihei-votoms.json](./85861-soukou-kihei-votoms.json) |
 | Soukou Kihei Votoms: The Battling Road | 38273 | [38273-soukou-kihei-votoms-the-battling-road.json](./38273-soukou-kihei-votoms-the-battling-road.json) |
+| Soukou Kihei Votoms: Uoodo-Kummen Hen | 77845 | [77845-soukou-kihei-votoms-uoodo-kummen-hen.json](./77845-soukou-kihei-votoms-uoodo-kummen-hen.json) |
 | Soukou Musume (Armored Girls) | 71599 | [71599-soukou-musume-armored-girls.json](./71599-soukou-musume-armored-girls.json) |
 | Soukou Seiki Ysphere ~Ingyaku no Sennou Kaizou~ | 133247 | [133247-soukou-seiki-ysphere-ingyaku-no-sennou-kaizou.json](./133247-soukou-seiki-ysphere-ingyaku-no-sennou-kaizou.json) |
 | Soukyuu Guren-tai | 44759 | [44759-soukyuu-guren-tai.json](./44759-soukyuu-guren-tai.json) |
@@ -14958,6 +14965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splort | 312175 | [312175-splort.json](./312175-splort.json) |
 | Splosion Man | 8354 | [8354-splosion-man.json](./8354-splosion-man.json) |
 | Splurge | 287194 | [287194-splurge.json](./287194-splurge.json) |
+| Spocon! Sports Wear-Complex | 77844 | [77844-spocon-sports-wear-complex.json](./77844-spocon-sports-wear-complex.json) |
 | Spod Blaster | 85979 | [85979-spod-blaster.json](./85979-spod-blaster.json) |
 | Spoils of Plunder | 163851 | [163851-spoils-of-plunder.json](./163851-spoils-of-plunder.json) |
 | Spolous Ex | 182920 | [182920-spolous-ex.json](./182920-spolous-ex.json) |
@@ -19432,6 +19440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subdread | 415475 | [415475-subdread.json](./415475-subdread.json) |
 | Sube | 264149 | [264149-sube.json](./264149-sube.json) |
 | Suber Driver | 189079 | [189079-suber-driver.json](./189079-suber-driver.json) |
+| Subete wa Oshi no Tame ni!! Josou Shitara Chouzetsu Oshi ni Niteta Ken | 77866 | [77866-subete-wa-oshi-no-tame-ni-josou-shitara-chouzetsu-oshi-ni-niteta-ken.json](./77866-subete-wa-oshi-no-tame-ni-josou-shitara-chouzetsu-oshi-ni-niteta-ken.json) |
 | Subject | 131341 | [131341-subject.json](./131341-subject.json) |
 | Subject 26 | 178497 | [178497-subject-26.json](./178497-subject-26.json) |
 | Subject 264 | 30959 | [30959-subject-264.json](./30959-subject-264.json) |
@@ -19628,6 +19637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus: Onoskelis | 216209 | [216209-succubus-onoskelis.json](./216209-succubus-onoskelis.json) |
 | Succubus: Red Goddess | 249664 | [249664-succubus-red-goddess.json](./249664-succubus-red-goddess.json) |
 | Succubus: Sex Story | 269203 | [269203-succubus-sex-story.json](./269203-succubus-sex-story.json) |
+| Succubus: The Six Spells | 77884 | [77884-succubus-the-six-spells.json](./77884-succubus-the-six-spells.json) |
 | Succubuses Love Creampie | 169424 | [169424-succubuses-love-creampie.json](./169424-succubuses-love-creampie.json) |
 | Succulent | 20252 | [20252-succulent.json](./20252-succulent.json) |
 | Succulent Studio | 400224 | [400224-succulent-studio.json](./400224-succulent-studio.json) |
@@ -20596,6 +20606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bunny Laser Spikes | 124513 | [124513-super-bunny-laser-spikes.json](./124513-super-bunny-laser-spikes.json) |
 | Super Bunny Woman | 403663 | [403663-super-bunny-woman.json](./403663-super-bunny-woman.json) |
 | Super Burger Master | 235159 | [235159-super-burger-master.json](./235159-super-burger-master.json) |
+| Super BurgerTime | 77876 | [77876-super-burgertime.json](./77876-super-burgertime.json) |
 | Super Buzzy: Star of Eternity | 323902 | [323902-super-buzzy-star-of-eternity.json](./323902-super-buzzy-star-of-eternity.json) |
 | Super C | 84919 | [84919-super-c.json](./84919-super-c.json) |
 | Super Cabbage Kabumi | 352187 | [352187-super-cabbage-kabumi.json](./352187-super-cabbage-kabumi.json) |
