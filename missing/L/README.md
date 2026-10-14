@@ -2671,6 +2671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter League | 254445 | [254445-letter-league.json](./254445-letter-league.json) |
 | Letter Lost | 343275 | [343275-letter-lost.json](./343275-letter-lost.json) |
 | Letter Match / Spell N Score / Crosswords | 169790 | [169790-letter-match-spell-n-score-crosswords.json](./169790-letter-match-spell-n-score-crosswords.json) |
+| Letter Quest Remastered/Three Fourths Home Bundle | 99525 | [99525-letter-quest-remastered-three-fourths-home-bundle.json](./99525-letter-quest-remastered-three-fourths-home-bundle.json) |
 | Letter Quest: Grimm's Journey | 17942 | [17942-letter-quest-grimms-journey.json](./17942-letter-quest-grimms-journey.json) |
 | Letter Rooms | 174217 | [174217-letter-rooms.json](./174217-letter-rooms.json) |
 | Letter Snap: Term Challenge | 409537 | [409537-letter-snap-term-challenge.json](./409537-letter-snap-term-challenge.json) |
@@ -2914,6 +2915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lichtreich: Willa | 230780 | [230780-lichtreich-willa.json](./230780-lichtreich-willa.json) |
 | Lichtung | 415105 | [415105-lichtung.json](./415105-lichtung.json) |
 | Lickspittles | 392814 | [392814-lickspittles.json](./392814-lickspittles.json) |
+| Licky the Lucky Lizard Lives Again | 99485 | [99485-licky-the-lucky-lizard-lives-again.json](./99485-licky-the-lucky-lizard-lives-again.json) |
 | Lidar Exploration Program | 291468 | [291468-lidar-exploration-program.json](./291468-lidar-exploration-program.json) |
 | Lidar Survival | 253917 | [253917-lidar-survival.json](./253917-lidar-survival.json) |
 | Lidar.exe | 213883 | [213883-lidar-exe.json](./213883-lidar-exe.json) |
