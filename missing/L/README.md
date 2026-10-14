@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | l3bhm | 361280 | [361280-l3bhm.json](./361280-l3bhm.json) |
 | L8R | 229724 | [229724-l8r.json](./229724-l8r.json) |
 | La Abadía del Crimen | 12375 | [12375-la-abadia-del-crimen.json](./12375-la-abadia-del-crimen.json) |
+| La Aventura De Axel | 74226 | [74226-la-aventura-de-axel.json](./74226-la-aventura-de-axel.json) |
 | La Bestia: The Migrant's Long Journey | 296485 | [296485-la-bestia-the-migrants-long-journey.json](./296485-la-bestia-the-migrants-long-journey.json) |
 | La Carbonara | 323172 | [323172-la-carbonara.json](./323172-la-carbonara.json) |
 | La Caza | 288121 | [288121-la-caza.json](./288121-la-caza.json) |
