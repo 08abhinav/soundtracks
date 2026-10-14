@@ -7254,6 +7254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Ways | 129702 | [129702-four-ways.json](./129702-four-ways.json) |
 | Four Ways: Block Puzzle | 131554 | [131554-four-ways-block-puzzle.json](./131554-four-ways-block-puzzle.json) |
 | Four Winds Mah Jong | 92985 | [92985-four-winds-mah-jong.json](./92985-four-winds-mah-jong.json) |
+| Four Winds Mahjong for iPad | 96599 | [96599-four-winds-mahjong-for-ipad.json](./96599-four-winds-mahjong-for-ipad.json) |
 | Four-Knight | 242594 | [242594-four-knight.json](./242594-four-knight.json) |
 | Four-Sight | 148359 | [148359-four-sight.json](./148359-four-sight.json) |
 | Four-Wheels-Drive | 184922 | [184922-four-wheels-drive.json](./184922-four-wheels-drive.json) |
