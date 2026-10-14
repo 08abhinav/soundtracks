@@ -1028,7 +1028,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Mechanicus II | 302176 | [302176-warhammer-40-000-mechanicus-ii.json](./302176-warhammer-40-000-mechanicus-ii.json) |
 | Warhammer 40,000: Regicide | 11450 | [11450-warhammer-40-000-regicide.json](./11450-warhammer-40-000-regicide.json) |
 | Warhammer 40,000: Regicide - Deluxe Edition | 53903 | [53903-warhammer-40-000-regicide-deluxe-edition.json](./53903-warhammer-40-000-regicide-deluxe-edition.json) |
-| Warhammer 40,000: Rogue Trader | 203259 | [203259-warhammer-40-000-rogue-trader.json](./203259-warhammer-40-000-rogue-trader.json) |
 | Warhammer 40,000: Rogue Trader - Deluxe Edition | 279888 | [279888-warhammer-40-000-rogue-trader-deluxe-edition.json](./279888-warhammer-40-000-rogue-trader-deluxe-edition.json) |
 | Warhammer 40,000: Rogue Trader - Deluxe Pack | 303282 | [303282-warhammer-40-000-rogue-trader-deluxe-pack.json](./303282-warhammer-40-000-rogue-trader-deluxe-pack.json) |
 | Warhammer 40,000: Rogue Trader - The Infinite Museion | 393038 | [393038-warhammer-40-000-rogue-trader-the-infinite-museion.json](./393038-warhammer-40-000-rogue-trader-the-infinite-museion.json) |
