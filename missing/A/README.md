@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A House That Glows | 389593 | [389593-a-house-that-glows.json](./389593-a-house-that-glows.json) |
 | A housewife Hiroko Yamaguchi is reborn in the alternative world with her husband | 82927 | [82927-a-housewife-hiroko-yamaguchi-is-reborn-in-the-alternative-world-with-her-husband.json](./82927-a-housewife-hiroko-yamaguchi-is-reborn-in-the-alternative-world-with-her-husband.json) |
 | A Housewife's Healing Touch | 198561 | [198561-a-housewifes-healing-touch.json](./198561-a-housewifes-healing-touch.json) |
+| A Hoy Pirates Adventure | 86656 | [86656-a-hoy-pirates-adventure.json](./86656-a-hoy-pirates-adventure.json) |
 | A Human Haunting! | 306724 | [306724-a-human-haunting.json](./306724-a-human-haunting.json) |
 | A Hunter's Day | 181198 | [181198-a-hunters-day.json](./181198-a-hunters-day.json) |
 | A Ilha Perdida da Babitonga | 352367 | [352367-a-ilha-perdida-da-babitonga.json](./352367-a-ilha-perdida-da-babitonga.json) |
@@ -1443,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AC Milan Club Football | 267875 | [267875-ac-milan-club-football.json](./267875-ac-milan-club-football.json) |
 | AC-130 Gunship Operator | 216779 | [216779-ac-130-gunship-operator.json](./216779-ac-130-gunship-operator.json) |
 | AC/DC Live: Rock Band - Track Pack | 6467 | [6467-ac-dc-live-rock-band-track-pack.json](./6467-ac-dc-live-rock-band-track-pack.json) |
+| ACA Neo Geo: 2020 Super Baseball | 86816 | [86816-aca-neo-geo-2020-super-baseball.json](./86816-aca-neo-geo-2020-super-baseball.json) |
 | ACA Neo Geo: Aero Fighters 2 | 99495 | [99495-aca-neo-geo-aero-fighters-2.json](./99495-aca-neo-geo-aero-fighters-2.json) |
 | ACA Neo Geo: Aggressors of Dark Kombat | 118215 | [118215-aca-neo-geo-aggressors-of-dark-kombat.json](./118215-aca-neo-geo-aggressors-of-dark-kombat.json) |
 | ACA Neo Geo: Art of Fighting | 99746 | [99746-aca-neo-geo-art-of-fighting.json](./99746-aca-neo-geo-art-of-fighting.json) |
