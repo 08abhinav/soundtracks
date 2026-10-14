@@ -442,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EbiTapes | 238731 | [238731-ebitapes.json](./238731-ebitapes.json) |
 | Ebola | 119556 | [119556-ebola.json](./119556-ebola.json) |
 | Ebola 3 | 216312 | [216312-ebola-3.json](./216312-ebola-3.json) |
+| Ebola VI Corp | 111537 | [111537-ebola-vi-corp.json](./111537-ebola-vi-corp.json) |
 | Ebonstar | 57627 | [57627-ebonstar.json](./57627-ebonstar.json) |
 | Ebontale | 179184 | [179184-ebontale.json](./179184-ebontale.json) |
 | Ebony Spire: Heresy | 74239 | [74239-ebony-spire-heresy.json](./74239-ebony-spire-heresy.json) |
@@ -1729,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ellen and the Degenerates RPG | 114542 | [114542-ellen-and-the-degenerates-rpg.json](./114542-ellen-and-the-degenerates-rpg.json) |
 | Ellentis | 370178 | [370178-ellentis.json](./370178-ellentis.json) |
 | Elleria: Book 1 | 341539 | [341539-elleria-book-1.json](./341539-elleria-book-1.json) |
+| Elli | 111546 | [111546-elli.json](./111546-elli.json) |
 | Ellie | 113681 | [113681-ellie.json](./113681-ellie.json) |
 | Ellie & Max | 175426 | [175426-ellie-and-max.json](./175426-ellie-and-max.json) |
 | Ellie: Help me out, please... | 208071 | [208071-ellie-help-me-out-please.json](./208071-ellie-help-me-out-please.json) |
