@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N.O.V.A. 3: Freedom Edition | 38930 | [38930-n-o-v-a-3-freedom-edition.json](./38930-n-o-v-a-3-freedom-edition.json) |
 | N.O.V.A. Legacy | 39004 | [39004-n-o-v-a-legacy.json](./39004-n-o-v-a-legacy.json) |
 | N.O.V.A.: Near Orbit Vanguard Alliance | 19316 | [19316-n-o-v-a-near-orbit-vanguard-alliance.json](./19316-n-o-v-a-near-orbit-vanguard-alliance.json) |
+| N.U.T.Z. | 99490 | [99490-n-u-t-z.json](./99490-n-u-t-z.json) |
 | N.Ukeme | 418519 | [418519-n-ukeme.json](./418519-n-ukeme.json) |
 | N.Y.Zombies 2 | 86907 | [86907-n-y-zombies-2.json](./86907-n-y-zombies-2.json) |
 | N'Oubliez Jamais | 166578 | [166578-noubliez-jamais.json](./166578-noubliez-jamais.json) |
@@ -1063,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebula Miner | 395112 | [395112-nebula-miner.json](./395112-nebula-miner.json) |
 | Nebula Nuker | 75830 | [75830-nebula-nuker.json](./75830-nebula-nuker.json) |
 | Nebula Online | 120181 | [120181-nebula-online.json](./120181-nebula-online.json) |
+| Nebula Realms | 99527 | [99527-nebula-realms.json](./99527-nebula-realms.json) |
 | Nebula Veil | 383039 | [383039-nebula-veil.json](./383039-nebula-veil.json) |
 | Nebula's Descent | 253893 | [253893-nebulas-descent.json](./253893-nebulas-descent.json) |
 | NebulArena | 388326 | [388326-nebularena.json](./388326-nebularena.json) |
