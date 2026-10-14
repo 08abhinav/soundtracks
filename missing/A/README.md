@@ -1090,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aanl: The Rectum Adventure | 94415 | [94415-aanl-the-rectum-adventure.json](./94415-aanl-the-rectum-adventure.json) |
 | Aard and Wyzz: The rise of minions | 309102 | [309102-aard-and-wyzz-the-rise-of-minions.json](./309102-aard-and-wyzz-the-rise-of-minions.json) |
 | Aardvark | 152011 | [152011-aardvark.json](./152011-aardvark.json) |
+| Aardvark | 94651 | [94651-aardvark.json](./94651-aardvark.json) |
 | Aardwolf MUD | 228684 | [228684-aardwolf-mud.json](./228684-aardwolf-mud.json) |
 | Aargon Deluxe | 70984 | [70984-aargon-deluxe.json](./70984-aargon-deluxe.json) |
 | Aarik: and the Ruined Kingdom | 276707 | [276707-aarik-and-the-ruined-kingdom.json](./276707-aarik-and-the-ruined-kingdom.json) |
@@ -1729,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achtung Spitfire | 86015 | [86015-achtung-spitfire.json](./86015-achtung-spitfire.json) |
 | Achtung, die Kurve! | 11251 | [11251-achtung-die-kurve.json](./11251-achtung-die-kurve.json) |
 | Achtung! Cthulhu Tactics | 106562 | [106562-achtung-cthulhu-tactics.json](./106562-achtung-cthulhu-tactics.json) |
+| Acia | 94639 | [94639-acia.json](./94639-acia.json) |
 | Acid Ball | 213058 | [213058-acid-ball.json](./213058-acid-ball.json) |
 | Acid Drop | 11111 | [11111-acid-drop.json](./11111-acid-drop.json) |
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
@@ -1934,6 +1936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AddForce | 61881 | [61881-addforce.json](./61881-addforce.json) |
 | AddicDead | 372625 | [372625-addicdead.json](./372625-addicdead.json) |
 | Addiction Pinball | 69860 | [69860-addiction-pinball.json](./69860-addiction-pinball.json) |
+| Addictive | 94660 | [94660-addictive.json](./94660-addictive.json) |
 | Addie Shen | 402432 | [402432-addie-shen.json](./402432-addie-shen.json) |
 | Addition | 76606 | [76606-addition.json](./76606-addition.json) |
 | Addition and Subtraction 1 | 42191 | [42191-addition-and-subtraction-1.json](./42191-addition-and-subtraction-1.json) |
@@ -2183,6 +2186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Company | 57326 | [57326-adventure-company.json](./57326-adventure-company.json) |
 | Adventure Cop | 118092 | [118092-adventure-cop.json](./118092-adventure-cop.json) |
 | Adventure Cop 2 | 121627 | [121627-adventure-cop-2.json](./121627-adventure-cop-2.json) |
+| Adventure Creator | 94691 | [94691-adventure-creator.json](./94691-adventure-creator.json) |
 | Adventure D: Espionage Island | 45370 | [45370-adventure-d-espionage-island.json](./45370-adventure-d-espionage-island.json) |
 | Adventure Delivery Service | 104055 | [104055-adventure-delivery-service.json](./104055-adventure-delivery-service.json) |
 | Adventure Elf | 72132 | [72132-adventure-elf.json](./72132-adventure-elf.json) |
@@ -3403,6 +3407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AIR Summer Solstice | 308416 | [308416-air-summer-solstice.json](./308416-air-summer-solstice.json) |
 | Air Supremacy | 12281 | [12281-air-supremacy.json](./12281-air-supremacy.json) |
 | Air Tactical | 55224 | [55224-air-tactical.json](./55224-air-tactical.json) |
+| Air Taxi | 94633 | [94633-air-taxi.json](./94633-air-taxi.json) |
 | Air Tennis | 302760 | [302760-air-tennis.json](./302760-air-tennis.json) |
 | Air Threat | 97276 | [97276-air-threat.json](./97276-air-threat.json) |
 | Air Time | 179993 | [179993-air-time.json](./179993-air-time.json) |
@@ -5483,6 +5488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Assault | 273130 | [273130-american-assault.json](./273130-american-assault.json) |
 | American Basketball: Guns & Balls | 234316 | [234316-american-basketball-guns-and-balls.json](./234316-american-basketball-guns-and-balls.json) |
 | American Battle Dome | 44451 | [44451-american-battle-dome.json](./44451-american-battle-dome.json) |
+| American Billiards | 94656 | [94656-american-billiards.json](./94656-american-billiards.json) |
 | American Car Parking Simulator 2025 | 380705 | [380705-american-car-parking-simulator-2025.json](./380705-american-car-parking-simulator-2025.json) |
 | American Cars 'n Guns | 346222 | [346222-american-cars-n-guns.json](./346222-american-cars-n-guns.json) |
 | American Catur | 187971 | [187971-american-catur.json](./187971-american-catur.json) |
@@ -6420,6 +6426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Across: Afrika | 236964 | [236964-animal-across-afrika.json](./236964-animal-across-afrika.json) |
 | Animal Adventure | 337813 | [337813-animal-adventure.json](./337813-animal-adventure.json) |
 | Animal Adventure Downhill Rush | 269084 | [269084-animal-adventure-downhill-rush.json](./269084-animal-adventure-downhill-rush.json) |
+| Animal Agents | 94658 | [94658-animal-agents.json](./94658-animal-agents.json) |
 | Animal Arena | 274950 | [274950-animal-arena.json](./274950-animal-arena.json) |
 | Animal Away Jam | 297651 | [297651-animal-away-jam.json](./297651-animal-away-jam.json) |
 | Animal Babysister Fighter | 200474 | [200474-animal-babysister-fighter.json](./200474-animal-babysister-fighter.json) |
@@ -7270,6 +7277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antumbra: Vile Shards | 149514 | [149514-antumbra-vile-shards.json](./149514-antumbra-vile-shards.json) |
 | AntWar.io | 185442 | [185442-antwar-io.json](./185442-antwar-io.json) |
 | Anty | 47546 | [47546-anty.json](./47546-anty.json) |
+| Antz | 94622 | [94622-antz.json](./94622-antz.json) |
 | Antz Extreme Racing | 248605 | [248605-antz-extreme-racing.json](./248605-antz-extreme-racing.json) |
 | Antz Racing | 71725 | [71725-antz-racing.json](./71725-antz-racing.json) |
 | Antz World Sportz | 50059 | [50059-antz-world-sportz.json](./50059-antz-world-sportz.json) |
@@ -9539,6 +9547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aru Kanrinin no Koi: Spring + Summer Free Edition | 246939 | [246939-aru-kanrinin-no-koi-spring-summer-free-edition.json](./246939-aru-kanrinin-no-koi-spring-summer-free-edition.json) |
 | AruaRose | 144322 | [144322-aruarose.json](./144322-aruarose.json) |
 | Aruaru xx-san wo Sagase! | 251605 | [251605-aruaru-xx-san-wo-sagase.json](./251605-aruaru-xx-san-wo-sagase.json) |
+| Arubarea no Otome | 94628 | [94628-arubarea-no-otome.json](./94628-arubarea-no-otome.json) |
 | Arui ha Koi to Iu Na no Mahou | 416690 | [416690-arui-ha-koi-to-iu-na-no-mahou.json](./416690-arui-ha-koi-to-iu-na-no-mahou.json) |
 | Aruma Ketera | 382787 | [382787-aruma-ketera.json](./382787-aruma-ketera.json) |
 | Aruna | 167889 | [167889-aruna.json](./167889-aruna.json) |
