@@ -2124,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VN Dating Sims: Masa SMA | 214623 | [214623-vn-dating-sims-masa-sma.json](./214623-vn-dating-sims-masa-sma.json) |
 | Vnm | 307292 | [307292-vnm.json](./307292-vnm.json) |
 | Vocabrawlary | 157089 | [157089-vocabrawlary.json](./157089-vocabrawlary.json) |
+| VocabUScary | 95314 | [95314-vocabuscary.json](./95314-vocabuscary.json) |
 | VocabVan | 338565 | [338565-vocabvan.json](./338565-vocabvan.json) |
 | Vocadol | 198280 | [198280-vocadol.json](./198280-vocadol.json) |
 | Vocal Space Shooter | 156110 | [156110-vocal-space-shooter.json](./156110-vocal-space-shooter.json) |
@@ -2426,6 +2427,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vortex Attack EX | 124235 | [124235-vortex-attack-ex.json](./124235-vortex-attack-ex.json) |
 | Vortex Escape | 156549 | [156549-vortex-escape.json](./156549-vortex-escape.json) |
 | Vortex of Hostility | 93998 | [93998-vortex-of-hostility.json](./93998-vortex-of-hostility.json) |
+| Vortex Point 2: Nensha | 95980 | [95980-vortex-point-2-nensha.json](./95980-vortex-point-2-nensha.json) |
+| Vortex Point 3: Lake Monsters | 95979 | [95979-vortex-point-3-lake-monsters.json](./95979-vortex-point-3-lake-monsters.json) |
+| Vortex Point 4: The Golem | 95978 | [95978-vortex-point-4-the-golem.json](./95978-vortex-point-4-the-golem.json) |
+| Vortex Point 5: Monster Movie | 95977 | [95977-vortex-point-5-monster-movie.json](./95977-vortex-point-5-monster-movie.json) |
+| Vortex Point 6: Time of Your Life Carnival | 95976 | [95976-vortex-point-6-time-of-your-life-carnival.json](./95976-vortex-point-6-time-of-your-life-carnival.json) |
+| Vortex Point 7: Waddington Swamp | 95975 | [95975-vortex-point-7-waddington-swamp.json](./95975-vortex-point-7-waddington-swamp.json) |
+| Vortex Point 8: The Rock | 95966 | [95966-vortex-point-8-the-rock.json](./95966-vortex-point-8-the-rock.json) |
+| Vortex Point: Far Journeys | 95981 | [95981-vortex-point-far-journeys.json](./95981-vortex-point-far-journeys.json) |
 | Vortex Protocol | 385248 | [385248-vortex-protocol.json](./385248-vortex-protocol.json) |
 | Vortex Rolling | 152743 | [152743-vortex-rolling.json](./152743-vortex-rolling.json) |
 | Vortex: The Gateway | 34348 | [34348-vortex-the-gateway.json](./34348-vortex-the-gateway.json) |
