@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1010! | 239119 | [239119-1010.json](./239119-1010.json) |
 | 10101: "Will" the Starship | 127739 | [127739-10101-will-the-starship.json](./127739-10101-will-the-starship.json) |
 | 1010Tro | 380685 | [380685-1010tro.json](./380685-1010tro.json) |
+| 102 Dalmatians: Activity Centre | 127640 | [127640-102-dalmatians-activity-centre.json](./127640-102-dalmatians-activity-centre.json) |
 | 1024 | 61866 | [61866-1024.json](./61866-1024.json) |
 | 1024 Cement Mixer | 308273 | [308273-1024-cement-mixer.json](./308273-1024-cement-mixer.json) |
 | 103 | 108413 | [108413-103.json](./108413-103.json) |
@@ -733,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 14 Minesweeper Variants 2 | 272869 | [272869-14-minesweeper-variants-2.json](./272869-14-minesweeper-variants-2.json) |
 | 14/? | 259464 | [259464-14.json](./259464-14.json) |
 | 1406 | 116102 | [116102-1406.json](./116102-1406.json) |
+| 141 | 126351 | [126351-141.json](./126351-141.json) |
 | 1414: Crossroads | 241301 | [241301-1414-crossroads.json](./241301-1414-crossroads.json) |
 | 1428: Shadows over Silesia | 130261 | [130261-1428-shadows-over-silesia.json](./130261-1428-shadows-over-silesia.json) |
 | 1428: Shadows over Silesia - Deluxe Edition | 246634 | [246634-1428-shadows-over-silesia-deluxe-edition.json](./246634-1428-shadows-over-silesia-deluxe-edition.json) |
@@ -854,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1979 Revolution: Black Friday | 14360 | [14360-1979-revolution-black-friday.json](./14360-1979-revolution-black-friday.json) |
 | 1983, 18th Floor | 406096 | [406096-1983-18th-floor.json](./406096-1983-18th-floor.json) |
 | 1984 | 247611 | [247611-1984.json](./247611-1984.json) |
+| 1984 Rewired | 123940 | [123940-1984-rewired.json](./123940-1984-rewired.json) |
 | 1989 QianShanMen | 259288 | [259288-1989-qianshanmen.json](./259288-1989-qianshanmen.json) |
 | 198X | 100562 | [100562-198x.json](./100562-198x.json) |
 | 1990 | 219506 | [219506-1990.json](./219506-1990.json) |
