@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kader Mühürleri | 86127 | [86127-kader-muhurleri.json](./86127-kader-muhurleri.json) |
 | Kadin the Soul Eater | 303601 | [303601-kadin-the-soul-eater.json](./303601-kadin-the-soul-eater.json) |
 | Kado Hunter | 303600 | [303600-kado-hunter.json](./303600-kado-hunter.json) |
+| Kadobat Wars | 103257 | [103257-kadobat-wars.json](./103257-kadobat-wars.json) |
 | Kadomon: Hyper Auto Battlers | 215708 | [215708-kadomon-hyper-auto-battlers.json](./215708-kadomon-hyper-auto-battlers.json) |
 | Kaede Doori: Brand New Days Innocent | 413053 | [413053-kaede-doori-brand-new-days-innocent.json](./413053-kaede-doori-brand-new-days-innocent.json) |
 | Kaen no Seito | 308878 | [308878-kaen-no-seito.json](./308878-kaen-no-seito.json) |
