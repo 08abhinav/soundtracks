@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Strike War: Multiplayer Battle Royale | 166285 | [166285-office-strike-war-multiplayer-battle-royale.json](./166285-office-strike-war-multiplayer-battle-royale.json) |
 | Office Waifu | 248664 | [248664-office-waifu.json](./248664-office-waifu.json) |
 | Office Zombie | 316740 | [316740-office-zombie.json](./316740-office-zombie.json) |
+| OfficeEscape | 116903 | [116903-officeescape.json](./116903-officeescape.json) |
 | Officers | 21119 | [21119-officers.json](./21119-officers.json) |
 | Officers: World War II - Operation Overlord | 27585 | [27585-officers-world-war-ii-operation-overlord.json](./27585-officers-world-war-ii-operation-overlord.json) |
 | Officespace | 161163 | [161163-officespace.json](./161163-officespace.json) |
