@@ -6892,6 +6892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CloudCity VR | 50518 | [50518-cloudcity-vr.json](./50518-cloudcity-vr.json) |
 | Cloudgazer: A Game About Watching Clouds | 416005 | [416005-cloudgazer-a-game-about-watching-clouds.json](./416005-cloudgazer-a-game-about-watching-clouds.json) |
 | Cloudheim | 330328 | [330328-cloudheim.json](./330328-cloudheim.json) |
+| CloudJumper | 107052 | [107052-cloudjumper.json](./107052-cloudjumper.json) |
 | Cloudlands 2 | 127857 | [127857-cloudlands-2.json](./127857-cloudlands-2.json) |
 | Cloudlapse! | 419961 | [419961-cloudlapse.json](./419961-cloudlapse.json) |
 | Cloudlings | 404925 | [404925-cloudlings.json](./404925-cloudlings.json) |
@@ -7780,6 +7781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Math | 89573 | [89573-color-math.json](./89573-color-math.json) |
 | Color Maze | 184114 | [184114-color-maze.json](./184114-color-maze.json) |
 | Color Me !!! for Mac | 99375 | [99375-color-me-for-mac.json](./99375-color-me-for-mac.json) |
+| Color Meme | 107057 | [107057-color-meme.json](./107057-color-meme.json) |
 | Color Muse | 368618 | [368618-color-muse.json](./368618-color-muse.json) |
 | Color Ninjas | 181782 | [181782-color-ninjas.json](./181782-color-ninjas.json) |
 | Color Objects For Kids | 89645 | [89645-color-objects-for-kids.json](./89645-color-objects-for-kids.json) |
@@ -9564,6 +9566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Panic! | 416669 | [416669-core-panic.json](./416669-core-panic.json) |
 | Core Rescue | 113613 | [113613-core-rescue.json](./113613-core-rescue.json) |
 | Core Runners | 417486 | [417486-core-runners.json](./417486-core-runners.json) |
+| Core Smash! | 106949 | [106949-core-smash.json](./106949-core-smash.json) |
 | Core War | 143413 | [143413-core-war.json](./143413-core-war.json) |
 | Core-Blast | 242605 | [242605-core-blast.json](./242605-core-blast.json) |
 | Core: Licht | 204969 | [204969-core-licht.json](./204969-core-licht.json) |
