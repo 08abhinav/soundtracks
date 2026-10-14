@@ -1231,6 +1231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Skies: The Nemansk Incident | 126971 | [126971-dark-skies-the-nemansk-incident.json](./126971-dark-skies-the-nemansk-incident.json) |
 | Dark Sky | 290393 | [290393-dark-sky.json](./290393-dark-sky.json) |
 | Dark Slayer | 297015 | [297015-dark-slayer.json](./297015-dark-slayer.json) |
+| Dark Soil | 101441 | [101441-dark-soil.json](./101441-dark-soil.json) |
 | Dark Solid | 141736 | [141736-dark-solid.json](./141736-dark-solid.json) |
 | Dark Solitaire: Search for a Cure | 386139 | [386139-dark-solitaire-search-for-a-cure.json](./386139-dark-solitaire-search-for-a-cure.json) |
 | Dark Souls Ascended | 194889 | [194889-dark-souls-ascended.json](./194889-dark-souls-ascended.json) |
@@ -4837,6 +4838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destination Paradise | 295273 | [295273-destination-paradise.json](./295273-destination-paradise.json) |
 | Destination Primus Vita | 77657 | [77657-destination-primus-vita.json](./77657-destination-primus-vita.json) |
 | Destination Sol | 15737 | [15737-destination-sol.json](./15737-destination-sol.json) |
+| Destination Solitaire | 101408 | [101408-destination-solitaire.json](./101408-destination-solitaire.json) |
 | Destination Treasure Island | 52888 | [52888-destination-treasure-island.json](./52888-destination-treasure-island.json) |
 | Destination: Dragons! | 292819 | [292819-destination-dragons.json](./292819-destination-dragons.json) |
 | Destination: Mars! | 72101 | [72101-destination-mars.json](./72101-destination-mars.json) |
@@ -6454,6 +6456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirtbag Mahjong | 324907 | [324907-dirtbag-mahjong.json](./324907-dirtbag-mahjong.json) |
 | Dirty | 412361 | [412361-dirty.json](./412361-dirty.json) |
 | Dirty Aim Trainer VR | 266752 | [266752-dirty-aim-trainer-vr.json](./266752-dirty-aim-trainer-vr.json) |
+| Dirty Birdy: An Evil Minded Rhyme Game | 101429 | [101429-dirty-birdy-an-evil-minded-rhyme-game.json](./101429-dirty-birdy-an-evil-minded-rhyme-game.json) |
 | Dirty Business | 398532 | [398532-dirty-business.json](./398532-dirty-business.json) |
 | Dirty Cop | 323807 | [323807-dirty-cop.json](./323807-dirty-cop.json) |
 | Dirty Crown Scandal | 303302 | [303302-dirty-crown-scandal.json](./303302-dirty-crown-scandal.json) |
@@ -6502,6 +6505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disaster Quest Tree | 268672 | [268672-disaster-quest-tree.json](./268672-disaster-quest-tree.json) |
 | Disaster Slayer | 302191 | [302191-disaster-slayer.json](./302191-disaster-slayer.json) |
 | Disaster Town Tycoon | 294731 | [294731-disaster-town-tycoon.json](./294731-disaster-town-tycoon.json) |
+| Disaster Will Strike | 101404 | [101404-disaster-will-strike.json](./101404-disaster-will-strike.json) |
 | Disaster: Day of Crisis | 4805 | [4805-disaster-day-of-crisis.json](./4805-disaster-day-of-crisis.json) |
 | Disasteroids 3D | 94945 | [94945-disasteroids-3d.json](./94945-disasteroids-3d.json) |
 | DisasterPR+ | 392484 | [392484-disasterpr.json](./392484-disasterpr.json) |
