@@ -1121,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramboat 2 | 314592 | [314592-ramboat-2.json](./314592-ramboat-2.json) |
 | Rambunny | 127009 | [127009-rambunny.json](./127009-rambunny.json) |
 | Ramek: Total Machine Death | 337280 | [337280-ramek-total-machine-death.json](./337280-ramek-total-machine-death.json) |
+| Ramen Bowl Chicken Roll | 101442 | [101442-ramen-bowl-chicken-roll.json](./101442-ramen-bowl-chicken-roll.json) |
 | Ramen Chain | 159345 | [159345-ramen-chain.json](./159345-ramen-chain.json) |
 | Ramen in the 90's | 141190 | [141190-ramen-in-the-90s.json](./141190-ramen-in-the-90s.json) |
 | Ramen no Megami | 283716 | [283716-ramen-no-megami.json](./283716-ramen-no-megami.json) |
@@ -7177,6 +7178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftop | 229706 | [229706-rooftop.json](./229706-rooftop.json) |
 | Rooftop | 337768 | [337768-rooftop.json](./337768-rooftop.json) |
 | Rooftop Cop | 35696 | [35696-rooftop-cop.json](./35696-rooftop-cop.json) |
+| Rooftop Freerunning: Leap! Leap!! Leap!!! | 101414 | [101414-rooftop-freerunning-leap-leap-leap.json](./101414-rooftop-freerunning-leap-leap-leap.json) |
 | Rooftop Garden Simulator | 208246 | [208246-rooftop-garden-simulator.json](./208246-rooftop-garden-simulator.json) |
 | Rooftop Postgirl | 216756 | [216756-rooftop-postgirl.json](./216756-rooftop-postgirl.json) |
 | Rooftop Rascal: The Alien Cat | 393933 | [393933-rooftop-rascal-the-alien-cat.json](./393933-rooftop-rascal-the-alien-cat.json) |
