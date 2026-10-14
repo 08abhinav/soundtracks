@@ -4937,6 +4937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodo | 145078 | [145078-woodo.json](./145078-woodo.json) |
 | Woodroid HD+ | 233742 | [233742-woodroid-hd.json](./233742-woodroid-hd.json) |
 | Woods of War | 329153 | [329153-woods-of-war.json](./329153-woods-of-war.json) |
+| Woodspell | 92959 | [92959-woodspell.json](./92959-woodspell.json) |
 | Woodswalker | 384195 | [384195-woodswalker.json](./384195-woodswalker.json) |
 | Woodsy | 101602 | [101602-woodsy.json](./101602-woodsy.json) |
 | Woodturning 3D | 287664 | [287664-woodturning-3d.json](./287664-woodturning-3d.json) |
@@ -5101,6 +5102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Search Fun | 87165 | [87165-word-search-fun.json](./87165-word-search-fun.json) |
 | Word Search Game | 86915 | [86915-word-search-game.json](./86915-word-search-game.json) |
 | Word Search Joy | 88270 | [88270-word-search-joy.json](./88270-word-search-joy.json) |
+| Word Search Mania | 92918 | [92918-word-search-mania.json](./92918-word-search-mania.json) |
 | Word Search Puzzle | 102213 | [102213-word-search-puzzle.json](./102213-word-search-puzzle.json) |
 | Word Search Puzzle: Find the Words! | 262323 | [262323-word-search-puzzle-find-the-words.json](./262323-word-search-puzzle-find-the-words.json) |
 | Word Search Puzzle: Word Balls | 233054 | [233054-word-search-puzzle-word-balls.json](./233054-word-search-puzzle-word-balls.json) |
