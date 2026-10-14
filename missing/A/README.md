@@ -2896,6 +2896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Fear: Total | 249875 | [249875-age-of-fear-total.json](./249875-age-of-fear-total.json) |
 | Age of Gladiators | 33545 | [33545-age-of-gladiators.json](./33545-age-of-gladiators.json) |
 | Age of Gladiators II | 41959 | [41959-age-of-gladiators-ii.json](./41959-age-of-gladiators-ii.json) |
+| Age of Gladiators II: Death League | 97851 | [97851-age-of-gladiators-ii-death-league.json](./97851-age-of-gladiators-ii-death-league.json) |
 | Age of Gods | 399092 | [399092-age-of-gods.json](./399092-age-of-gods.json) |
 | Age of Gods: Drakonis Faction | 399102 | [399102-age-of-gods-drakonis-faction.json](./399102-age-of-gods-drakonis-faction.json) |
 | Age of Gods: Equinox Campaign | 399094 | [399094-age-of-gods-equinox-campaign.json](./399094-age-of-gods-equinox-campaign.json) |
@@ -3735,6 +3736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akimbot | 300484 | [300484-akimbot.json](./300484-akimbot.json) |
 | Akin | 32403 | [32403-akin.json](./32403-akin.json) |
 | Akin Vol 2 | 50505 | [50505-akin-vol-2.json](./50505-akin-vol-2.json) |
+| Akina: Dotei Hunt Hen | 97773 | [97773-akina-dotei-hunt-hen.json](./97773-akina-dotei-hunt-hen.json) |
 | Akinakes | 342231 | [342231-akinakes.json](./342231-akinakes.json) |
 | Akindo | 200052 | [200052-akindo.json](./200052-akindo.json) |
 | Akira | 14234 | [14234-akira.json](./14234-akira.json) |
@@ -3788,6 +3790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akumi Wars | 199329 | [199329-akumi-wars.json](./199329-akumi-wars.json) |
 | Akumon Summoner | 393458 | [393458-akumon-summoner.json](./393458-akumon-summoner.json) |
 | Akunin-Akka | 389995 | [389995-akunin-akka.json](./389995-akunin-akka.json) |
+| Akuno Puzzle | 97775 | [97775-akuno-puzzle.json](./97775-akuno-puzzle.json) |
 | Akupara Collection | 324009 | [324009-akupara-collection.json](./324009-akupara-collection.json) |
 | Akupara: Action Bundle | 222409 | [222409-akupara-action-bundle.json](./222409-akupara-action-bundle.json) |
 | Akuro & Bahaku 2 | 355211 | [355211-akuro-and-bahaku-2.json](./355211-akuro-and-bahaku-2.json) |
@@ -6106,6 +6109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andy's Adventure Game | 316760 | [316760-andys-adventure-game.json](./316760-andys-adventure-game.json) |
 | Andy's Apple Farm | 177383 | [177383-andys-apple-farm.json](./177383-andys-apple-farm.json) |
 | Andy's Apple Farm: Christmas Special | 193505 | [193505-andys-apple-farm-christmas-special.json](./193505-andys-apple-farm-christmas-special.json) |
+| Ane Hara-Mix Two | 97767 | [97767-ane-hara-mix-two.json](./97767-ane-hara-mix-two.json) |
 | AnEarth Fantasy Stories: The First Volume | 45441 | [45441-anearth-fantasy-stories-the-first-volume.json](./45441-anearth-fantasy-stories-the-first-volume.json) |
 | AneeMate | 305989 | [305989-aneemate.json](./305989-aneemate.json) |
 | Anemoi | 276736 | [276736-anemoi.json](./276736-anemoi.json) |
@@ -6483,6 +6487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Life: Eurasia | 269553 | [269553-animal-life-eurasia.json](./269553-animal-life-eurasia.json) |
 | Animal Life: North America | 269554 | [269554-animal-life-north-america.json](./269554-animal-life-north-america.json) |
 | Animal Magnetism: Pochi no Daisuki | 214434 | [214434-animal-magnetism-pochi-no-daisuki.json](./214434-animal-magnetism-pochi-no-daisuki.json) |
+| Animal Maid! | 97768 | [97768-animal-maid.json](./97768-animal-maid.json) |
 | Animal Math | 73475 | [73475-animal-math.json](./73475-animal-math.json) |
 | Animal Memory | 151591 | [151591-animal-memory.json](./151591-animal-memory.json) |
 | Animal Night Market | 326859 | [326859-animal-night-market.json](./326859-animal-night-market.json) |
