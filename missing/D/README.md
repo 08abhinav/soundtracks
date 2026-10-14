@@ -3356,6 +3356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dungeon | 177860 | [177860-deep-dungeon.json](./177860-deep-dungeon.json) |
 | Deep Dungeon | 219235 | [219235-deep-dungeon.json](./219235-deep-dungeon.json) |
 | Deep Dungeon Adventure | 311984 | [311984-deep-dungeon-adventure.json](./311984-deep-dungeon-adventure.json) |
+| Deep Dungeon: Gym | 117558 | [117558-deep-dungeon-gym.json](./117558-deep-dungeon-gym.json) |
 | Deep Dungeons of Doom | 17876 | [17876-deep-dungeons-of-doom.json](./17876-deep-dungeons-of-doom.json) |
 | Deep Dweller | 176739 | [176739-deep-dweller.json](./176739-deep-dweller.json) |
 | Deep Echo | 25762 | [25762-deep-echo.json](./25762-deep-echo.json) |
@@ -5533,6 +5534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Heroes | 396504 | [396504-dice-heroes.json](./396504-dice-heroes.json) |
 | Dice In You | 379013 | [379013-dice-in-you.json](./379013-dice-in-you.json) |
 | Dice Jockey | 175171 | [175171-dice-jockey.json](./175171-dice-jockey.json) |
+| Dice Keeper | 117468 | [117468-dice-keeper.json](./117468-dice-keeper.json) |
 | Dice King | 188016 | [188016-dice-king.json](./188016-dice-king.json) |
 | Dice Kingdoms | 197070 | [197070-dice-kingdoms.json](./197070-dice-kingdoms.json) |
 | Dice Knight: Mystery of the Moirai | 152741 | [152741-dice-knight-mystery-of-the-moirai.json](./152741-dice-knight-mystery-of-the-moirai.json) |
@@ -7466,6 +7468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge That Anvil | 209117 | [209117-dodge-that-anvil.json](./209117-dodge-that-anvil.json) |
 | Dodge that, Ronald! | 312832 | [312832-dodge-that-ronald.json](./312832-dodge-that-ronald.json) |
 | Dodge the Creeps | 344390 | [344390-dodge-the-creeps.json](./344390-dodge-the-creeps.json) |
+| Dodge the Wall! | 117466 | [117466-dodge-the-wall.json](./117466-dodge-the-wall.json) |
 | Dodge These Asteroids | 353961 | [353961-dodge-these-asteroids.json](./353961-dodge-these-asteroids.json) |
 | Dodge These Balls | 147639 | [147639-dodge-these-balls.json](./147639-dodge-these-balls.json) |
 | Dodge This | 291512 | [291512-dodge-this.json](./291512-dodge-this.json) |
@@ -10194,6 +10197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawing with Nat: Dream Diary | 275922 | [275922-drawing-with-nat-dream-diary.json](./275922-drawing-with-nat-dream-diary.json) |
 | Drawize | 131579 | [131579-drawize.json](./131579-drawize.json) |
 | Drawn Before | 401615 | [401615-drawn-before.json](./401615-drawn-before.json) |
+| Drawn Down | 117448 | [117448-drawn-down.json](./117448-drawn-down.json) |
 | Drawn Tale | 346210 | [346210-drawn-tale.json](./346210-drawn-tale.json) |
 | Drawn to Drift | 373727 | [373727-drawn-to-drift.json](./373727-drawn-to-drift.json) |
 | Drawn to Kill | 60512 | [60512-drawn-to-kill.json](./60512-drawn-to-kill.json) |
