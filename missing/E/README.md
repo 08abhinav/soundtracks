@@ -933,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EGA Coloring Book | 330270 | [330270-ega-coloring-book.json](./330270-ega-coloring-book.json) |
 | EGA-Roids | 130850 | [130850-ega-roids.json](./130850-ega-roids.json) |
 | Egao no Renkinjutsu | 238099 | [238099-egao-no-renkinjutsu.json](./238099-egao-no-renkinjutsu.json) |
+| Egg | 108799 | [108799-egg.json](./108799-egg.json) |
 | Egg | 285669 | [285669-egg.json](./285669-egg.json) |
 | Egg | 305447 | [305447-egg.json](./305447-egg.json) |
 | Egg Bunny 2 | 199387 | [199387-egg-bunny-2.json](./199387-egg-bunny-2.json) |
@@ -3703,6 +3704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape to the Ocean | 231061 | [231061-escape-to-the-ocean.json](./231061-escape-to-the-ocean.json) |
 | Escape Together | 151068 | [151068-escape-together.json](./151068-escape-together.json) |
 | Escape Together | 41898 | [41898-escape-together.json](./41898-escape-together.json) |
+| Escape Treasure Island | 108874 | [108874-escape-treasure-island.json](./108874-escape-treasure-island.json) |
 | Escape Trick: Convenience Store | 85121 | [85121-escape-trick-convenience-store.json](./85121-escape-trick-convenience-store.json) |
 | Escape Velocity | 334070 | [334070-escape-velocity.json](./334070-escape-velocity.json) |
 | Escape Velocity | 377579 | [377579-escape-velocity.json](./377579-escape-velocity.json) |
@@ -5411,6 +5413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye For Blood | 217327 | [217327-eye-for-blood.json](./217327-eye-for-blood.json) |
 | Eye in the Sky | 28294 | [28294-eye-in-the-sky.json](./28294-eye-in-the-sky.json) |
 | Eye Juice | 403205 | [403205-eye-juice.json](./403205-eye-juice.json) |
+| Eye Must Jump | 108876 | [108876-eye-must-jump.json](./108876-eye-must-jump.json) |
 | Eye of Bain | 298804 | [298804-eye-of-bain.json](./298804-eye-of-bain.json) |
 | Eye of D'akess | 236732 | [236732-eye-of-dakess.json](./236732-eye-of-dakess.json) |
 | Eye of Horus | 12069 | [12069-eye-of-horus.json](./12069-eye-of-horus.json) |
@@ -5483,6 +5486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EyeToy: AntiGrav | 19253 | [19253-eyetoy-antigrav.json](./19253-eyetoy-antigrav.json) |
 | EyeToy: Operation Spy | 43222 | [43222-eyetoy-operation-spy.json](./43222-eyetoy-operation-spy.json) |
 | Eyewear Cleaner 2077 | 194358 | [194358-eyewear-cleaner-2077.json](./194358-eyewear-cleaner-2077.json) |
+| Eyewire | 108802 | [108802-eyewire.json](./108802-eyewire.json) |
 | Eyewitness Virtual Reality: Cat | 361603 | [361603-eyewitness-virtual-reality-cat.json](./361603-eyewitness-virtual-reality-cat.json) |
 | Eyewitness Virtual Reality: Dinosaur Hunter | 198384 | [198384-eyewitness-virtual-reality-dinosaur-hunter.json](./198384-eyewitness-virtual-reality-dinosaur-hunter.json) |
 | Eyo: Jump 'n' Run RPG | 220022 | [220022-eyo-jump-n-run-rpg.json](./220022-eyo-jump-n-run-rpg.json) |
