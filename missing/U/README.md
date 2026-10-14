@@ -466,6 +466,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Soccer Manager 2 | 56597 | [56597-ultimate-soccer-manager-2.json](./56597-ultimate-soccer-manager-2.json) |
 | Ultimate Solid | 31100 | [31100-ultimate-solid.json](./31100-ultimate-solid.json) |
 | Ultimate Solid: Origins | 197729 | [197729-ultimate-solid-origins.json](./197729-ultimate-solid-origins.json) |
+| Ultimate Solitaire | 116789 | [116789-ultimate-solitaire.json](./116789-ultimate-solitaire.json) |
+| Ultimate Solitaire 1000 | 116788 | [116788-ultimate-solitaire-1000.json](./116788-ultimate-solitaire-1000.json) |
 | Ultimate Solitaire Collection | 270091 | [270091-ultimate-solitaire-collection.json](./270091-ultimate-solitaire-collection.json) |
 | Ultimate Space Commando | 35963 | [35963-ultimate-space-commando.json](./35963-ultimate-space-commando.json) |
 | Ultimate Sparring | 334077 | [334077-ultimate-sparring.json](./334077-ultimate-sparring.json) |
@@ -650,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultrabots | 68909 | [68909-ultrabots.json](./68909-ultrabots.json) |
 | Ultrabox | 267943 | [267943-ultrabox.json](./267943-ultrabox.json) |
 | Ultrabox No. 2 | 267942 | [267942-ultrabox-no-2.json](./267942-ultrabox-no-2.json) |
+| Ultrabugs | 116793 | [116793-ultrabugs.json](./116793-ultrabugs.json) |
 | Ultracore | 107188 | [107188-ultracore.json](./107188-ultracore.json) |
 | Ultracore: Collector's Edition | 116153 | [116153-ultracore-collectors-edition.json](./116153-ultracore-collectors-edition.json) |
 | UltraCorps | 62245 | [62245-ultracorps.json](./62245-ultracorps.json) |
