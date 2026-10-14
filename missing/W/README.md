@@ -3804,8 +3804,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Win-TOEIC Beginners' LC | 269510 | [269510-win-toeic-beginners-lc.json](./269510-win-toeic-beginners-lc.json) |
 | Win, Lose or Draw | 359461 | [359461-win-lose-or-draw.json](./359461-win-lose-or-draw.json) |
 | Win, Lose or Draw | 48093 | [48093-win-lose-or-draw.json](./48093-win-lose-or-draw.json) |
+| WinAgrams | 83440 | [83440-winagrams.json](./83440-winagrams.json) |
 | Wincars Racer | 33292 | [33292-wincars-racer.json](./33292-wincars-racer.json) |
 | Winch it Out | 300387 | [300387-winch-it-out.json](./300387-winch-it-out.json) |
+| WinCrypt | 83441 | [83441-wincrypt.json](./83441-wincrypt.json) |
 | Wind and Bird | 284298 | [284298-wind-and-bird.json](./284298-wind-and-bird.json) |
 | Wind and Mist | 253007 | [253007-wind-and-mist.json](./253007-wind-and-mist.json) |
 | Wind Angel | 150741 | [150741-wind-angel.json](./150741-wind-angel.json) |
@@ -4143,6 +4145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wintersdawn in the Deep | 183591 | [183591-wintersdawn-in-the-deep.json](./183591-wintersdawn-in-the-deep.json) |
 | Wintersport | 68677 | [68677-wintersport.json](./68677-wintersport.json) |
 | WinTrek | 69859 | [69859-wintrek.json](./69859-wintrek.json) |
+| WinWheel | 83439 | [83439-winwheel.json](./83439-winwheel.json) |
 | Winx Club | 200907 | [200907-winx-club.json](./200907-winx-club.json) |
 | Winx Club: Alfea Butterflix Adventures | 79740 | [79740-winx-club-alfea-butterflix-adventures.json](./79740-winx-club-alfea-butterflix-adventures.json) |
 | Winx Club: Believix in You | 25174 | [25174-winx-club-believix-in-you.json](./25174-winx-club-believix-in-you.json) |
@@ -5053,6 +5056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Genius by curious.com | 104507 | [104507-word-genius-by-curious-com.json](./104507-word-genius-by-curious-com.json) |
 | Word Guru - Puzzle Word Game | 89233 | [89233-word-guru-puzzle-word-game.json](./89233-word-guru-puzzle-word-game.json) |
 | Word Harmony | 52130 | [52130-word-harmony.json](./52130-word-harmony.json) |
+| Word Hunter | 83438 | [83438-word-hunter.json](./83438-word-hunter.json) |
 | Word Invaders! | 232479 | [232479-word-invaders.json](./232479-word-invaders.json) |
 | Word Island | 205887 | [205887-word-island.json](./205887-word-island.json) |
 | Word Jong | 47715 | [47715-word-jong.json](./47715-word-jong.json) |
@@ -5107,6 +5111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Search by Powgi | 138113 | [138113-word-search-by-powgi.json](./138113-word-search-by-powgi.json) |
 | Word Search Coffee Break | 415952 | [415952-word-search-coffee-break.json](./415952-word-search-coffee-break.json) |
 | Word Search Daily HD | 355011 | [355011-word-search-daily-hd.json](./355011-word-search-daily-hd.json) |
+| Word Search Epic | 83418 | [83418-word-search-epic.json](./83418-word-search-epic.json) |
 | Word Search Fun | 87165 | [87165-word-search-fun.json](./87165-word-search-fun.json) |
 | Word Search Game | 86915 | [86915-word-search-game.json](./86915-word-search-game.json) |
 | Word Search Joy | 88270 | [88270-word-search-joy.json](./88270-word-search-joy.json) |
@@ -5257,6 +5262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordsdom2 | 105835 | [105835-wordsdom2.json](./105835-wordsdom2.json) |
 | Wordsearch Attack | 368543 | [368543-wordsearch-attack.json](./368543-wordsearch-attack.json) |
 | WordSearch Kids HD | 107670 | [107670-wordsearch-kids-hd.json](./107670-wordsearch-kids-hd.json) |
+| Wordsearch Mania! | 83442 | [83442-wordsearch-mania.json](./83442-wordsearch-mania.json) |
 | WordSearch Story: Chapter 1 | 213325 | [213325-wordsearch-story-chapter-1.json](./213325-wordsearch-story-chapter-1.json) |
 | Wordslop | 402911 | [402911-wordslop.json](./402911-wordslop.json) |
 | Wordsmith | 224682 | [224682-wordsmith.json](./224682-wordsmith.json) |
@@ -5265,6 +5271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordSpiral | 227777 | [227777-wordspiral.json](./227777-wordspiral.json) |
 | Wordsplash! | 28814 | [28814-wordsplash.json](./28814-wordsplash.json) |
 | WordSplit | 238385 | [238385-wordsplit.json](./238385-wordsplit.json) |
+| Wordstalk | 83437 | [83437-wordstalk.json](./83437-wordstalk.json) |
 | WordStorm | 96304 | [96304-wordstorm.json](./96304-wordstorm.json) |
 | Wordsum Blitz | 135067 | [135067-wordsum-blitz.json](./135067-wordsum-blitz.json) |
 | WordsUp! Academy | 84961 | [84961-wordsup-academy.json](./84961-wordsup-academy.json) |
@@ -5877,6 +5884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worldsmith | 209441 | [209441-worldsmith.json](./209441-worldsmith.json) |
 | Worldwide Arts Society | 182865 | [182865-worldwide-arts-society.json](./182865-worldwide-arts-society.json) |
 | Worldwide Battle Royale | 256907 | [256907-worldwide-battle-royale.json](./256907-worldwide-battle-royale.json) |
+| Worldwide Combos | 83427 | [83427-worldwide-combos.json](./83427-worldwide-combos.json) |
 | Worldwide Soccer | 259651 | [259651-worldwide-soccer.json](./259651-worldwide-soccer.json) |
 | Worldwide Soccer: Sega International Victory Goal Edition | 19755 | [19755-worldwide-soccer-sega-international-victory-goal-edition.json](./19755-worldwide-soccer-sega-international-victory-goal-edition.json) |
 | Worldwide Sports Fishing | 117556 | [117556-worldwide-sports-fishing.json](./117556-worldwide-sports-fishing.json) |
