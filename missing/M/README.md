@@ -1987,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandy's Room 2: Naughty By Nature | 367014 | [367014-mandys-room-2-naughty-by-nature.json](./367014-mandys-room-2-naughty-by-nature.json) |
 | Mane | 158171 | [158171-mane.json](./158171-mane.json) |
 | Mane Box | 237396 | [237396-mane-box.json](./237396-mane-box.json) |
+| Maneater | 110851 | [110851-maneater.json](./110851-maneater.json) |
 | Maneater | 46800 | [46800-maneater.json](./46800-maneater.json) |
 | Maneater 2 | 416101 | [416101-maneater-2.json](./416101-maneater-2.json) |
 | Maneater and the Golden Teacher | 199394 | [199394-maneater-and-the-golden-teacher.json](./199394-maneater-and-the-golden-teacher.json) |
@@ -5425,6 +5426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megami Tensei QIX: Persona 3 | 289392 | [289392-megami-tensei-qix-persona-3.json](./289392-megami-tensei-qix-persona-3.json) |
 | Megamind: Mega Team Unite | 51061 | [51061-megamind-mega-team-unite.json](./51061-megamind-mega-team-unite.json) |
 | Megamind: The Blue Defender | 47896 | [47896-megamind-the-blue-defender.json](./47896-megamind-the-blue-defender.json) |
+| Megamix | 110766 | [110766-megamix.json](./110766-megamix.json) |
 | MegaMod | 287075 | [287075-megamod.json](./287075-megamod.json) |
 | MegaMorph | 97354 | [97354-megamorph.json](./97354-megamorph.json) |
 | Megan The Fox | 287331 | [287331-megan-the-fox.json](./287331-megan-the-fox.json) |
@@ -10329,6 +10331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Evo | 154975 | [154975-monster-evo.json](./154975-monster-evo.json) |
 | Monster Evolution | 191066 | [191066-monster-evolution.json](./191066-monster-evolution.json) |
 | Monster evolution: hit and smash | 101955 | [101955-monster-evolution-hit-and-smash.json](./101955-monster-evolution-hit-and-smash.json) |
+| Monster F****r One: Vampire | 110858 | [110858-monster-f-r-one-vampire.json](./110858-monster-f-r-one-vampire.json) |
 | Monster Fair | 218156 | [218156-monster-fair.json](./218156-monster-fair.json) |
 | Monster Fantasy | 407994 | [407994-monster-fantasy.json](./407994-monster-fantasy.json) |
 | Monster Feeder | 344917 | [344917-monster-feeder.json](./344917-monster-feeder.json) |
