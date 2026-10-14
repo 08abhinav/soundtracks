@@ -1303,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iglacia | 273295 | [273295-iglacia.json](./273295-iglacia.json) |
 | Ignatius | 169375 | [169375-ignatius.json](./169375-ignatius.json) |
 | Ignatius: Reunited | 235164 | [235164-ignatius-reunited.json](./235164-ignatius-reunited.json) |
+| Igneous | 91830 | [91830-igneous.json](./91830-igneous.json) |
 | Ignis | 294170 | [294170-ignis.json](./294170-ignis.json) |
 | Ignis | 81748 | [81748-ignis.json](./81748-ignis.json) |
 | Ignis - Brain Teasing Puzzle Game | 105843 | [105843-ignis-brain-teasing-puzzle-game.json](./105843-ignis-brain-teasing-puzzle-game.json) |
@@ -2446,6 +2447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferno | 171962 | [171962-inferno.json](./171962-inferno.json) |
 | Inferno | 274190 | [274190-inferno.json](./274190-inferno.json) |
 | Inferno | 346092 | [346092-inferno.json](./346092-inferno.json) |
+| Inferno | 91849 | [91849-inferno.json](./91849-inferno.json) |
 | Inferno 2 | 34822 | [34822-inferno-2.json](./34822-inferno-2.json) |
 | Inferno Climber: Reborn | 95833 | [95833-inferno-climber-reborn.json](./95833-inferno-climber-reborn.json) |
 | Inferno Frontier | 340751 | [340751-inferno-frontier.json](./340751-inferno-frontier.json) |
