@@ -11249,6 +11249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Skeld | 182824 | [182824-the-skeld.json](./182824-the-skeld.json) |
 | The Skies | 26859 | [26859-the-skies.json](./26859-the-skies.json) |
 | The Skies: Reborn | 149710 | [149710-the-skies-reborn.json](./149710-the-skies-reborn.json) |
+| The Skin Game at Bighorn | 85981 | [85981-the-skin-game-at-bighorn.json](./85981-the-skin-game-at-bighorn.json) |
 | The Skinwalker Investigations | 164973 | [164973-the-skinwalker-investigations.json](./164973-the-skinwalker-investigations.json) |
 | The Skirmish | 282032 | [282032-the-skirmish.json](./282032-the-skirmish.json) |
 | The Skull Embroidery | 57479 | [57479-the-skull-embroidery.json](./57479-the-skull-embroidery.json) |
@@ -13853,6 +13854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrust Master Deluxe | 258220 | [258220-thrust-master-deluxe.json](./258220-thrust-master-deluxe.json) |
 | Thrust Me Bro | 383654 | [383654-thrust-me-bro.json](./383654-thrust-me-bro.json) |
 | Thrust Platinum | 66784 | [66784-thrust-platinum.json](./66784-thrust-platinum.json) |
+| Thrust Twist + Turn | 85986 | [85986-thrust-twist-turn.json](./85986-thrust-twist-turn.json) |
 | ThrustLander | 150443 | [150443-thrustlander.json](./150443-thrustlander.json) |
 | ThrustMe Too | 333373 | [333373-thrustme-too.json](./333373-thrustme-too.json) |
 | ThrustWorks | 156010 | [156010-thrustworks.json](./156010-thrustworks.json) |
@@ -15614,6 +15616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Witch | 412201 | [412201-time-witch.json](./412201-time-witch.json) |
 | Time Wiza | 364675 | [364675-time-wiza.json](./364675-time-wiza.json) |
 | Time Zone | 14574 | [14574-time-zone.json](./14574-time-zone.json) |
+| Time Zone | 86000 | [86000-time-zone.json](./86000-time-zone.json) |
 | Time-Gate | 69937 | [69937-time-gate.json](./69937-time-gate.json) |
 | Time's Disillusion | 236960 | [236960-times-disillusion.json](./236960-times-disillusion.json) |
 | Time's Prison | 318423 | [318423-times-prison.json](./318423-times-prison.json) |
@@ -18154,6 +18157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tournament of Armistice: Preliminaries | 163853 | [163853-tournament-of-armistice-preliminaries.json](./163853-tournament-of-armistice-preliminaries.json) |
 | Tournament of Tamers | 157168 | [157168-tournament-of-tamers.json](./157168-tournament-of-tamers.json) |
 | Tournament Paintball VR | 159766 | [159766-tournament-paintball-vr.json](./159766-tournament-paintball-vr.json) |
+| Tournament Poker | 85974 | [85974-tournament-poker.json](./85974-tournament-poker.json) |
 | Tournament Pool | 396580 | [396580-tournament-pool.json](./396580-tournament-pool.json) |
 | Tournament Pool | 51162 | [51162-tournament-pool.json](./51162-tournament-pool.json) |
 | Tournament Pro Golf | 249093 | [249093-tournament-pro-golf.json](./249093-tournament-pro-golf.json) |
@@ -20192,6 +20196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transporter the Rescue | 92434 | [92434-transporter-the-rescue.json](./92434-transporter-the-rescue.json) |
 | Transporter Truck Simulator | 119043 | [119043-transporter-truck-simulator.json](./119043-transporter-truck-simulator.json) |
 | Transpose | 109417 | [109417-transpose.json](./109417-transpose.json) |
+| Transputer Man | 85958 | [85958-transputer-man.json](./85958-transputer-man.json) |
 | Transregnum | 338950 | [338950-transregnum.json](./338950-transregnum.json) |
 | Transubstantiation Synthesis | 239879 | [239879-transubstantiation-synthesis.json](./239879-transubstantiation-synthesis.json) |
 | Transversion | 57343 | [57343-transversion.json](./57343-transversion.json) |
