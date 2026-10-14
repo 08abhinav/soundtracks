@@ -4271,6 +4271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigsaw | 177269 | [177269-pigsaw.json](./177269-pigsaw.json) |
 | Pigsaw: Human Abattoir | 272381 | [272381-pigsaw-human-abattoir.json](./272381-pigsaw-human-abattoir.json) |
 | Pigskin | 399120 | [399120-pigskin.json](./399120-pigskin.json) |
+| Pigskin Empire | 108883 | [108883-pigskin-empire.json](./108883-pigskin-empire.json) |
 | Pigskin Punter! | 234336 | [234336-pigskin-punter.json](./234336-pigskin-punter.json) |
 | Pigu Wang 7 Hab | 130685 | [130685-pigu-wang-7-hab.json](./130685-pigu-wang-7-hab.json) |
 | PigUp | 348902 | [348902-pigup.json](./348902-pigup.json) |
@@ -4951,6 +4952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipe Line Puzzle | 268572 | [268572-pipe-line-puzzle.json](./268572-pipe-line-puzzle.json) |
 | Pipe Lord | 100323 | [100323-pipe-lord.json](./100323-pipe-lord.json) |
 | Pipe Mania | 21682 | [21682-pipe-mania.json](./21682-pipe-mania.json) |
+| Pipe Master II | 108803 | [108803-pipe-master-ii.json](./108803-pipe-master-ii.json) |
 | Pipe Push Paradise | 72519 | [72519-pipe-push-paradise.json](./72519-pipe-push-paradise.json) |
 | Pipe Puzzle | 68929 | [68929-pipe-puzzle.json](./68929-pipe-puzzle.json) |
 | Pipe Skull | 185127 | [185127-pipe-skull.json](./185127-pipe-skull.json) |
@@ -8040,6 +8042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polydangerous | 392468 | [392468-polydangerous.json](./392468-polydangerous.json) |
 | PolyDestroyer | 291370 | [291370-polydestroyer.json](./291370-polydestroyer.json) |
 | Polydeuces | 138132 | [138132-polydeuces.json](./138132-polydeuces.json) |
+| PolyDodge | 108816 | [108816-polydodge.json](./108816-polydodge.json) |
 | PolyDrift | 309878 | [309878-polydrift.json](./309878-polydrift.json) |
 | Polyemisokos | 205572 | [205572-polyemisokos.json](./205572-polyemisokos.json) |
 | Polyfield WW2 | 102148 | [102148-polyfield-ww2.json](./102148-polyfield-ww2.json) |
@@ -9152,6 +9155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Praise Champion | 209929 | [209929-praise-champion.json](./209929-praise-champion.json) |
 | Praise Dead | 261700 | [261700-praise-dead.json](./261700-praise-dead.json) |
 | Prana | 75113 | [75113-prana.json](./75113-prana.json) |
+| Prank Bros | 108891 | [108891-prank-bros.json](./108891-prank-bros.json) |
 | Prank Call | 165423 | [165423-prank-call.json](./165423-prank-call.json) |
 | Prank Call | 77585 | [77585-prank-call.json](./77585-prank-call.json) |
 | Prank Call 2 | 77584 | [77584-prank-call-2.json](./77584-prank-call-2.json) |
