@@ -5864,6 +5864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anaza Aku Yatsu: Another World | 67353 | [67353-anaza-aku-yatsu-another-world.json](./67353-anaza-aku-yatsu-another-world.json) |
 | Anaza: Kaleidoscope Special | 47537 | [47537-anaza-kaleidoscope-special.json](./47537-anaza-kaleidoscope-special.json) |
 | Anbar | 387545 | [387545-anbar.json](./387545-anbar.json) |
+| Anceder | 105204 | [105204-anceder.json](./105204-anceder.json) |
 | Ancestor's Legacy: Conqueror's Edition | 202221 | [202221-ancestors-legacy-conquerors-edition.json](./202221-ancestors-legacy-conquerors-edition.json) |
 | Ancestors Legacy: Saladin's Conquest | 122203 | [122203-ancestors-legacy-saladins-conquest.json](./122203-ancestors-legacy-saladins-conquest.json) |
 | Ancestors Legacy: Special Edition | 124820 | [124820-ancestors-legacy-special-edition.json](./124820-ancestors-legacy-special-edition.json) |
@@ -6599,6 +6600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Fart Simulator | 397648 | [397648-anime-fart-simulator.json](./397648-anime-fart-simulator.json) |
 | Anime fashion show | 99500 | [99500-anime-fashion-show.json](./99500-anime-fashion-show.json) |
 | Anime Feet Aim Trainer | 371231 | [371231-anime-feet-aim-trainer.json](./371231-anime-feet-aim-trainer.json) |
+| Anime Fight in the Arena of Death | 105175 | [105175-anime-fight-in-the-arena-of-death.json](./105175-anime-fight-in-the-arena-of-death.json) |
 | Anime Fighting Jam | 222872 | [222872-anime-fighting-jam.json](./222872-anime-fighting-jam.json) |
 | Anime for Sex Motel | 288890 | [288890-anime-for-sex-motel.json](./288890-anime-for-sex-motel.json) |
 | Anime Freak FX Vol. 1 | 79350 | [79350-anime-freak-fx-vol-1.json](./79350-anime-freak-fx-vol-1.json) |
@@ -10088,6 +10090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astérix: Search for Dogmatix | 50019 | [50019-asterix-search-for-dogmatix.json](./50019-asterix-search-for-dogmatix.json) |
 | Asterix: The Official Mobile Game of the Movie | 297590 | [297590-asterix-the-official-mobile-game-of-the-movie.json](./297590-asterix-the-official-mobile-game-of-the-movie.json) |
 | Astérix: These Romans Are Crazy! | 269567 | [269567-asterix-these-romans-are-crazy.json](./269567-asterix-these-romans-are-crazy.json) |
+| Asterlode | 105218 | [105218-asterlode.json](./105218-asterlode.json) |
 | AsterMaster | 418795 | [418795-astermaster.json](./418795-astermaster.json) |
 | Asterminer | 158507 | [158507-asterminer.json](./158507-asterminer.json) |
 | Astero Inc. | 176506 | [176506-astero-inc.json](./176506-astero-inc.json) |
