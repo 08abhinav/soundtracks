@@ -1347,6 +1347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Daisuki! | 19668 | [19668-neko-daisuki.json](./19668-neko-daisuki.json) |
 | Neko Dating Sim | 223395 | [223395-neko-dating-sim.json](./223395-neko-dating-sim.json) |
 | Neko Don Don! | 385332 | [385332-neko-don-don.json](./385332-neko-don-don.json) |
+| Neko Dungeon | 108309 | [108309-neko-dungeon.json](./108309-neko-dungeon.json) |
 | Neko Gacha | 228543 | [228543-neko-gacha.json](./228543-neko-gacha.json) |
 | Neko Gelato | 353995 | [353995-neko-gelato.json](./353995-neko-gelato.json) |
 | Neko Ghost, Jump! | 126329 | [126329-neko-ghost-jump.json](./126329-neko-ghost-jump.json) |
