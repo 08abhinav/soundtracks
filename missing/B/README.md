@@ -2561,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Mech Frontier | 116278 | [116278-battle-mech-frontier.json](./116278-battle-mech-frontier.json) |
 | Battle Mine Sweeper | 144136 | [144136-battle-mine-sweeper.json](./144136-battle-mine-sweeper.json) |
 | Battle Minesweeper Online | 300772 | [300772-battle-minesweeper-online.json](./300772-battle-minesweeper-online.json) |
+| Battle Monkeys: Fully Loaded | 100059 | [100059-battle-monkeys-fully-loaded.json](./100059-battle-monkeys-fully-loaded.json) |
 | Battle Mons | 413073 | [413073-battle-mons.json](./413073-battle-mons.json) |
 | Battle Monsters | 45504 | [45504-battle-monsters.json](./45504-battle-monsters.json) |
 | Battle Moon Wars | 47065 | [47065-battle-moon-wars.json](./47065-battle-moon-wars.json) |
@@ -3326,6 +3327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear Care | 177916 | [177916-bear-care.json](./177916-bear-care.json) |
 | Bear Heart Defense | 299395 | [299395-bear-heart-defense.json](./299395-bear-heart-defense.json) |
 | Bear Horror | 408726 | [408726-bear-horror.json](./408726-bear-horror.json) |
+| Bear Hunting 4: Summer | 100058 | [100058-bear-hunting-4-summer.json](./100058-bear-hunting-4-summer.json) |
 | Bear in the Snow | 362882 | [362882-bear-in-the-snow.json](./362882-bear-in-the-snow.json) |
 | Bear It | 277762 | [277762-bear-it.json](./277762-bear-it.json) |
 | Bear Miner | 315236 | [315236-bear-miner.json](./315236-bear-miner.json) |
@@ -3691,6 +3693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatstar: Yeah Yeah Yeahs - "Heads Will Roll" | 358783 | [358783-beatstar-yeah-yeah-yeahs-heads-will-roll.json](./358783-beatstar-yeah-yeah-yeahs-heads-will-roll.json) |
 | Beatus Creation Solitaire | 201004 | [201004-beatus-creation-solitaire.json](./201004-beatus-creation-solitaire.json) |
 | Beatworks Inc. | 386444 | [386444-beatworks-inc.json](./386444-beatworks-inc.json) |
+| Beau Jolly 48K Value Pack | 100077 | [100077-beau-jolly-48k-value-pack.json](./100077-beau-jolly-48k-value-pack.json) |
 | Beauties Academy: Spellcraft Tournament | 211429 | [211429-beauties-academy-spellcraft-tournament.json](./211429-beauties-academy-spellcraft-tournament.json) |
 | Beauties and Beasts | 317315 | [317315-beauties-and-beasts.json](./317315-beauties-and-beasts.json) |
 | Beauties Unveiled | 284499 | [284499-beauties-unveiled.json](./284499-beauties-unveiled.json) |
@@ -9470,6 +9473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boy's Love | 101358 | [101358-boys-love.json](./101358-boys-love.json) |
 | Boyfriend Dungeon: Secret Weapons | 228681 | [228681-boyfriend-dungeon-secret-weapons.json](./228681-boyfriend-dungeon-secret-weapons.json) |
 | Boyfriend Exorcist | 265535 | [265535-boyfriend-exorcist.json](./265535-boyfriend-exorcist.json) |
+| Boyfriend Kari Kirameki Note | 100066 | [100066-boyfriend-kari-kirameki-note.json](./100066-boyfriend-kari-kirameki-note.json) |
 | Boyfriend or Cake?? | 364508 | [364508-boyfriend-or-cake.json](./364508-boyfriend-or-cake.json) |
 | Boyfriend's Rescue | 225639 | [225639-boyfriends-rescue.json](./225639-boyfriends-rescue.json) |
 | Boyhood's End | 250286 | [250286-boyhoods-end.json](./250286-boyhoods-end.json) |
