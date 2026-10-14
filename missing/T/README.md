@@ -2956,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal 13 | 364699 | [364699-terminal-13.json](./364699-terminal-13.json) |
 | Terminal 64 | 252820 | [252820-terminal-64.json](./252820-terminal-64.json) |
 | Terminal 69 | 289030 | [289030-terminal-69.json](./289030-terminal-69.json) |
+| Terminal 7 | 131950 | [131950-terminal-7.json](./131950-terminal-7.json) |
 | Terminal 81R | 339409 | [339409-terminal-81r.json](./339409-terminal-81r.json) |
 | Terminal Bore | 333025 | [333025-terminal-bore.json](./333025-terminal-bore.json) |
 | Terminal Breach | 217394 | [217394-terminal-breach.json](./217394-terminal-breach.json) |
@@ -10504,6 +10505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sandbox | 182468 | [182468-the-sandbox.json](./182468-the-sandbox.json) |
 | The Sandbox - Building & Craft | 90705 | [90705-the-sandbox-building-and-craft.json](./90705-the-sandbox-building-and-craft.json) |
 | The Sands of Egypt | 23688 | [23688-the-sands-of-egypt.json](./23688-the-sands-of-egypt.json) |
+| The Sands of Voltark | 131944 | [131944-the-sands-of-voltark.json](./131944-the-sands-of-voltark.json) |
 | The Santa Paradox | 156903 | [156903-the-santa-paradox.json](./156903-the-santa-paradox.json) |
 | The Sapling | 126479 | [126479-the-sapling.json](./126479-the-sapling.json) |
 | The Sapper | 74677 | [74677-the-sapper.json](./74677-the-sapper.json) |
