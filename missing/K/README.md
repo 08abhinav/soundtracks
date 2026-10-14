@@ -1363,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Khospis | 110338 | [110338-khospis.json](./110338-khospis.json) |
 | Khottabych | 251019 | [251019-khottabych.json](./251019-khottabych.json) |
 | Khufu-ou no Himitsu | 181781 | [181781-khufu-ou-no-himitsu.json](./181781-khufu-ou-no-himitsu.json) |
+| Khufu's Delivery Service | 81149 | [81149-khufus-delivery-service.json](./81149-khufus-delivery-service.json) |
 | Khuga Bash! | 276196 | [276196-khuga-bash.json](./276196-khuga-bash.json) |
 | Khuga Rumble Arena | 340562 | [340562-khuga-rumble-arena.json](./340562-khuga-rumble-arena.json) |
 | Khumba: The Game | 61116 | [61116-khumba-the-game.json](./61116-khumba-the-game.json) |
