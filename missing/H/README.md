@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habla Kadabla | 310639 | [310639-habla-kadabla.json](./310639-habla-kadabla.json) |
 | Hablet | 344475 | [344475-hablet.json](./344475-hablet.json) |
 | Hablon Dawani | 293319 | [293319-hablon-dawani.json](./293319-hablon-dawani.json) |
+| Habu Yoshiharu Shogi de Kitaeru: Ketsudanryoku DS | 124543 | [124543-habu-yoshiharu-shogi-de-kitaeru-ketsudanryoku-ds.json](./124543-habu-yoshiharu-shogi-de-kitaeru-ketsudanryoku-ds.json) |
 | Haccer | 223616 | [223616-haccer.json](./223616-haccer.json) |
 | Hacha Macha Pon! | 286585 | [286585-hacha-macha-pon.json](./286585-hacha-macha-pon.json) |
 | Hacha Mecha Fighter | 40182 | [40182-hacha-mecha-fighter.json](./40182-hacha-mecha-fighter.json) |
@@ -2169,6 +2170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeartBound | 377566 | [377566-heartbound.json](./377566-heartbound.json) |
 | Heartbreaker: The Visual Novel | 306454 | [306454-heartbreaker-the-visual-novel.json](./306454-heartbreaker-the-visual-novel.json) |
 | Heartburn | 301968 | [301968-heartburn.json](./301968-heartburn.json) |
+| HeartCatch PreCure! Oshare Collection | 124520 | [124520-heartcatch-precure-oshare-collection.json](./124520-heartcatch-precure-oshare-collection.json) |
 | HeartCore Descent | 407381 | [407381-heartcore-descent.json](./407381-heartcore-descent.json) |
 | Heartdust | 370254 | [370254-heartdust.json](./370254-heartdust.json) |
 | HeartFinder | 322099 | [322099-heartfinder.json](./322099-heartfinder.json) |
