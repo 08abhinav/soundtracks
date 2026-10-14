@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Blocker HD | 52558 | [52558-mad-blocker-hd.json](./52558-mad-blocker-hd.json) |
 | Mad Bulldozer | 143931 | [143931-mad-bulldozer.json](./143931-mad-bulldozer.json) |
 | Mad Bullets | 33262 | [33262-mad-bullets.json](./33262-mad-bullets.json) |
+| Mad Burger 3: Wild West | 102040 | [102040-mad-burger-3-wild-west.json](./102040-mad-burger-3-wild-west.json) |
 | Mad Bus | 156101 | [156101-mad-bus.json](./156101-mad-bus.json) |
 | Mad Carnage | 86241 | [86241-mad-carnage.json](./86241-mad-carnage.json) |
 | Mad Cars | 94261 | [94261-mad-cars.json](./94261-mad-cars.json) |
@@ -5171,6 +5172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Powered Up | 12937 | [12937-mega-man-powered-up.json](./12937-mega-man-powered-up.json) |
 | Mega Man Redux | 45189 | [45189-mega-man-redux.json](./45189-mega-man-redux.json) |
 | Mega Man Revamped | 391132 | [391132-mega-man-revamped.json](./391132-mega-man-revamped.json) |
+| Mega Man Revolution | 102071 | [102071-mega-man-revolution.json](./102071-mega-man-revolution.json) |
 | Mega Man Rock | 323771 | [323771-mega-man-rock.json](./323771-mega-man-rock.json) |
 | Mega Man Rock Force | 194382 | [194382-mega-man-rock-force.json](./194382-mega-man-rock-force.json) |
 | Mega Man SNES | 377766 | [377766-mega-man-snes.json](./377766-mega-man-snes.json) |
