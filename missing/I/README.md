@@ -546,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Prop | 205925 | [205925-im-prop.json](./205925-im-prop.json) |
 | I'm Scared of Girls | 139697 | [139697-im-scared-of-girls.json](./139697-im-scared-of-girls.json) |
 | I'm Scared of My Girlfriend | 247580 | [247580-im-scared-of-my-girlfriend.json](./247580-im-scared-of-my-girlfriend.json) |
+| I'm Still Here | 114862 | [114862-im-still-here.json](./114862-im-still-here.json) |
 | I'm Still Here | 367039 | [367039-im-still-here.json](./367039-im-still-here.json) |
 | I'm Strongest Legend | 154426 | [154426-im-strongest-legend.json](./154426-im-strongest-legend.json) |
 | I'm Struggling | 375936 | [375936-im-struggling.json](./375936-im-struggling.json) |
@@ -2497,6 +2498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Abyss | 132528 | [132528-infinite-abyss.json](./132528-infinite-abyss.json) |
 | Infinite Ancient: Room Escape | 256739 | [256739-infinite-ancient-room-escape.json](./256739-infinite-ancient-room-escape.json) |
 | Infinite Arrow | 187766 | [187766-infinite-arrow.json](./187766-infinite-arrow.json) |
+| Infinite Art Museum | 114845 | [114845-infinite-art-museum.json](./114845-infinite-art-museum.json) |
 | Infinite Backrooms | 405531 | [405531-infinite-backrooms.json](./405531-infinite-backrooms.json) |
 | Infinite Ball Well | 384513 | [384513-infinite-ball-well.json](./384513-infinite-ball-well.json) |
 | Infinite Block Puzzle | 98792 | [98792-infinite-block-puzzle.json](./98792-infinite-block-puzzle.json) |
@@ -2506,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Brick Breaker | 152989 | [152989-infinite-brick-breaker.json](./152989-infinite-brick-breaker.json) |
 | Infinite Canyon | 360646 | [360646-infinite-canyon.json](./360646-infinite-canyon.json) |
 | Infinite Chef | 300411 | [300411-infinite-chef.json](./300411-infinite-chef.json) |
+| Infinite Children | 114864 | [114864-infinite-children.json](./114864-infinite-children.json) |
 | Infinite Chili Sauce | 115551 | [115551-infinite-chili-sauce.json](./115551-infinite-chili-sauce.json) |
 | Infinite Chump | 287750 | [287750-infinite-chump.json](./287750-infinite-chump.json) |
 | Infinite Coaster | 303581 | [303581-infinite-coaster.json](./303581-infinite-coaster.json) |
