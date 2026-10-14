@@ -1663,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AceForce 2 | 311282 | [311282-aceforce-2.json](./311282-aceforce-2.json) |
 | Aceonline: DuelX | 95871 | [95871-aceonline-duelx.json](./95871-aceonline-duelx.json) |
 | Acephalus | 139167 | [139167-acephalus.json](./139167-acephalus.json) |
+| Aces High | 91371 | [91371-aces-high.json](./91371-aces-high.json) |
 | Aces of the Air | 43938 | [43938-aces-of-the-air.json](./43938-aces-of-the-air.json) |
 | Aces of the Deep | 12384 | [12384-aces-of-the-deep.json](./12384-aces-of-the-deep.json) |
 | Aces of the Galaxy | 15766 | [15766-aces-of-the-galaxy.json](./15766-aces-of-the-galaxy.json) |
@@ -4194,6 +4195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice Landing | 390651 | [390651-alice-landing.json](./390651-alice-landing.json) |
 | Alice Lorange Adventures Season 2 | 393111 | [393111-alice-lorange-adventures-season-2.json](./393111-alice-lorange-adventures-season-2.json) |
 | Alice Mesmerizing Episodes of Neurosis: AMEN | 328218 | [328218-alice-mesmerizing-episodes-of-neurosis-amen.json](./328218-alice-mesmerizing-episodes-of-neurosis-amen.json) |
+| Alice Must Find the Key to Escape | 91304 | [91304-alice-must-find-the-key-to-escape.json](./91304-alice-must-find-the-key-to-escape.json) |
 | Alice on Delivery | 396708 | [396708-alice-on-delivery.json](./396708-alice-on-delivery.json) |
 | Alice Order | 219815 | [219815-alice-order.json](./219815-alice-order.json) |
 | Alice Senki 2 | 191880 | [191880-alice-senki-2.json](./191880-alice-senki-2.json) |
@@ -7784,6 +7786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarium Land: Platinum Edition | 385193 | [385193-aquarium-land-platinum-edition.json](./385193-aquarium-land-platinum-edition.json) |
 | Aquarium Shop | 146919 | [146919-aquarium-shop.json](./146919-aquarium-shop.json) |
 | Aquarium Travels | 152642 | [152642-aquarium-travels.json](./152642-aquarium-travels.json) |
+| Aquarium. | 91325 | [91325-aquarium.json](./91325-aquarium.json) |
 | Aquarius | 299557 | [299557-aquarius.json](./299557-aquarius.json) |
 | Aquarius Baseball: Genkai no, Sono Saki e. | 268110 | [268110-aquarius-baseball-genkai-no-sono-saki-e.json](./268110-aquarius-baseball-genkai-no-sono-saki-e.json) |
 | Aquascapes | 144353 | [144353-aquascapes.json](./144353-aquascapes.json) |
@@ -9193,6 +9196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arms' Heart | 65268 | [65268-arms-heart.json](./65268-arms-heart.json) |
 | Army Antz | 175721 | [175721-army-antz.json](./175721-army-antz.json) |
 | Army Attack | 115544 | [115544-army-attack.json](./115544-army-attack.json) |
+| Army Battle Simulator | 91244 | [91244-army-battle-simulator.json](./91244-army-battle-simulator.json) |
 | Army Chess Super Online | 99110 | [99110-army-chess-super-online.json](./99110-army-chess-super-online.json) |
 | Army Clash | 295989 | [295989-army-clash.json](./295989-army-clash.json) |
 | Army Days | 13796 | [13796-army-days.json](./13796-army-days.json) |
