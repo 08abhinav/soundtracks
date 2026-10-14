@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walt Disney World Quest: Magical Racing Tour | 8129 | [8129-walt-disney-world-quest-magical-racing-tour.json](./8129-walt-disney-world-quest-magical-racing-tour.json) |
 | Walt Disney's Snow White and the Seven Dwarfs | 59938 | [59938-walt-disneys-snow-white-and-the-seven-dwarfs.json](./59938-walt-disneys-snow-white-and-the-seven-dwarfs.json) |
 | Walt Disney's Snow White and the Seven Dwarves | 198896 | [198896-walt-disneys-snow-white-and-the-seven-dwarves.json](./198896-walt-disneys-snow-white-and-the-seven-dwarves.json) |
+| Walt Disney's The Jungle Book | 111548 | [111548-walt-disneys-the-jungle-book.json](./111548-walt-disneys-the-jungle-book.json) |
 | Walt Disney's The Jungle Book | 123599 | [123599-walt-disneys-the-jungle-book.json](./123599-walt-disneys-the-jungle-book.json) |
 | Walt Disney's The Jungle Book | 205928 | [205928-walt-disneys-the-jungle-book.json](./205928-walt-disneys-the-jungle-book.json) |
 | Walt Disney's The Jungle Book: Mowgli's Wild Adventure | 49922 | [49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json](./49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json) |
