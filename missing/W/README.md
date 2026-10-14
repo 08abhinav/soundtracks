@@ -3560,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West Quest: Gold Rush | 100223 | [100223-wild-west-quest-gold-rush.json](./100223-wild-west-quest-gold-rush.json) |
 | Wild West Races | 175395 | [175395-wild-west-races.json](./175395-wild-west-races.json) |
 | Wild West Rogue | 166609 | [166609-wild-west-rogue.json](./166609-wild-west-rogue.json) |
+| Wild West Saga | 100660 | [100660-wild-west-saga.json](./100660-wild-west-saga.json) |
 | Wild West Seymour | 18575 | [18575-wild-west-seymour.json](./18575-wild-west-seymour.json) |
 | Wild West Shooter | 371137 | [371137-wild-west-shooter.json](./371137-wild-west-shooter.json) |
 | Wild West Steam Loco | 132737 | [132737-wild-west-steam-loco.json](./132737-wild-west-steam-loco.json) |
@@ -5251,6 +5252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordWarrior | 243168 | [243168-wordwarrior.json](./243168-wordwarrior.json) |
 | WordWhile | 101413 | [101413-wordwhile.json](./101413-wordwhile.json) |
 | WordWhizzle Connect | 86799 | [86799-wordwhizzle-connect.json](./86799-wordwhizzle-connect.json) |
+| WordWhizzle Pop | 100692 | [100692-wordwhizzle-pop.json](./100692-wordwhizzle-pop.json) |
 | WordWhizzle Search | 52881 | [52881-wordwhizzle-search.json](./52881-wordwhizzle-search.json) |
 | WordyBuilder | 245972 | [245972-wordybuilder.json](./245972-wordybuilder.json) |
 | Wordz + | 90894 | [90894-wordz.json](./90894-wordz.json) |
