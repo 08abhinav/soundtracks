@@ -2181,6 +2181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawapuro Adventures | 396373 | [396373-pawapuro-adventures.json](./396373-pawapuro-adventures.json) |
 | Pawapuro GB | 229570 | [229570-pawapuro-gb.json](./229570-pawapuro-gb.json) |
 | Pawapuro Stadium | 63285 | [63285-pawapuro-stadium.json](./63285-pawapuro-stadium.json) |
+| Pawapuro-kun Pocket 1 & 2 | 95361 | [95361-pawapuro-kun-pocket-1-and-2.json](./95361-pawapuro-kun-pocket-1-and-2.json) |
 | Pawapuro-kun Pocket 10 | 98516 | [98516-pawapuro-kun-pocket-10.json](./98516-pawapuro-kun-pocket-10.json) |
 | Pawapuro-kun Pocket 11 | 98517 | [98517-pawapuro-kun-pocket-11.json](./98517-pawapuro-kun-pocket-11.json) |
 | Pawapuro-kun Pocket 12 | 229923 | [229923-pawapuro-kun-pocket-12.json](./229923-pawapuro-kun-pocket-12.json) |
@@ -5964,6 +5965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Kidd | 217398 | [217398-pizza-kidd.json](./217398-pizza-kidd.json) |
 | Pizza King Fight | 259713 | [259713-pizza-king-fight.json](./259713-pizza-king-fight.json) |
 | Pizza Knight: Out To Deliver | 380766 | [380766-pizza-knight-out-to-deliver.json](./380766-pizza-knight-out-to-deliver.json) |
+| Pizza Maker | 95300 | [95300-pizza-maker.json](./95300-pizza-maker.json) |
 | Pizza Man Simulator | 407375 | [407375-pizza-man-simulator.json](./407375-pizza-man-simulator.json) |
 | Pizza Master VR | 131642 | [131642-pizza-master-vr.json](./131642-pizza-master-vr.json) |
 | Pizza Morgana | 70427 | [70427-pizza-morgana.json](./70427-pizza-morgana.json) |
@@ -10038,6 +10040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Gamer Manager | 34320 | [34320-pro-gamer-manager.json](./34320-pro-gamer-manager.json) |
 | Pro Gamer Tycoon | 103471 | [103471-pro-gamer-tycoon.json](./103471-pro-gamer-tycoon.json) |
 | Pro Golf | 385778 | [385778-pro-golf.json](./385778-pro-golf.json) |
+| Pro Golf | 95358 | [95358-pro-golf.json](./95358-pro-golf.json) |
 | Pro Golf Challenge | 96930 | [96930-pro-golf-challenge.json](./96930-pro-golf-challenge.json) |
 | Pro Golfer Saru | 268386 | [268386-pro-golfer-saru.json](./268386-pro-golfer-saru.json) |
 | Pro Gymnast Simulator | 128347 | [128347-pro-gymnast-simulator.json](./128347-pro-gymnast-simulator.json) |
