@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T08:12:45.656Z",
-  "total_missing": 209852,
+  "generated_at": "2026-10-14T08:17:41.763Z",
+  "total_missing": 209848,
   "games": [
     {
       "igdb_id": 191680,
@@ -286460,11 +286460,6 @@
       "igdb_id": 270590,
       "game_name": "Evoland 1 & 2: 10th Anniversary Edition",
       "file": "missing/E/270590-evoland-1-and-2-10th-anniversary-edition.json"
-    },
-    {
-      "igdb_id": 11798,
-      "game_name": "Evoland 2",
-      "file": "missing/E/11798-evoland-2.json"
     },
     {
       "igdb_id": 315652,
@@ -579427,11 +579422,6 @@
       "file": "missing/M/207540-my-therapy.json"
     },
     {
-      "igdb_id": 43165,
-      "game_name": "My Time at Portia",
-      "file": "missing/M/43165-my-time-at-portia.json"
-    },
-    {
       "igdb_id": 224111,
       "game_name": "My Time at Portia: Deluxe Edition",
       "file": "missing/M/224111-my-time-at-portia-deluxe-edition.json"
@@ -748177,11 +748167,6 @@
       "file": "missing/S/38226-schbibinman-zero-shockman-zero.json"
     },
     {
-      "igdb_id": 328373,
-      "game_name": "Schedule I",
-      "file": "missing/S/328373-schedule-i.json"
-    },
-    {
       "igdb_id": 350050,
       "game_name": "Schedule I: Mafia Empire",
       "file": "missing/S/350050-schedule-i-mafia-empire.json"
@@ -831175,11 +831160,6 @@
       "igdb_id": 298020,
       "game_name": "Street Fighter 30th Anniversary Collection: International",
       "file": "missing/S/298020-street-fighter-30th-anniversary-collection-international.json"
-    },
-    {
-      "igdb_id": 191692,
-      "game_name": "Street Fighter 6",
-      "file": "missing/S/191692-street-fighter-6.json"
     },
     {
       "igdb_id": 347693,
