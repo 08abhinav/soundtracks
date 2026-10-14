@@ -5864,6 +5864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robocop 2D 3 | 287868 | [287868-robocop-2d-3.json](./287868-robocop-2d-3.json) |
 | RoboCop 3 | 19695 | [19695-robocop-3.json](./19695-robocop-3.json) |
 | RoboCop 3 | 25167 | [25167-robocop-3.json](./25167-robocop-3.json) |
+| Robocop 3D | 98878 | [98878-robocop-3d.json](./98878-robocop-3d.json) |
 | RoboCop Doom | 196020 | [196020-robocop-doom.json](./196020-robocop-doom.json) |
 | RoboCop Versus the Terminator | 288341 | [288341-robocop-versus-the-terminator.json](./288341-robocop-versus-the-terminator.json) |
 | RoboCop Versus the Terminator | 44464 | [44464-robocop-versus-the-terminator.json](./44464-robocop-versus-the-terminator.json) |
