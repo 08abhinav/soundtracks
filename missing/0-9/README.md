@@ -1587,6 +1587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3rd World Farmer | 56460 | [56460-3rd-world-farmer.json](./56460-3rd-world-farmer.json) |
 | 3Souls | 26407 | [26407-3souls.json](./26407-3souls.json) |
 | 3SwitcheD | 9934 | [9934-3switched.json](./9934-3switched.json) |
+| 3T Games Compilation | 80400 | [80400-3t-games-compilation.json](./80400-3t-games-compilation.json) |
 | 3T Games Compilation 1 | 60615 | [60615-3t-games-compilation-1.json](./60615-3t-games-compilation-1.json) |
 | 3T Games Compilation 2 | 60616 | [60616-3t-games-compilation-2.json](./60616-3t-games-compilation-2.json) |
 | 3T Games Compilation 3 | 60614 | [60614-3t-games-compilation-3.json](./60614-3t-games-compilation-3.json) |
