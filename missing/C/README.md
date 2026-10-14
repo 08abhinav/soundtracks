@@ -728,6 +728,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can Androids Pray: Blue | 125388 | [125388-can-androids-pray-blue.json](./125388-can-androids-pray-blue.json) |
 | Can Androids Survive | 167709 | [167709-can-androids-survive.json](./167709-can-androids-survive.json) |
 | Can Bullet | 296646 | [296646-can-bullet.json](./296646-can-bullet.json) |
+| Can Can Bunny Premiere | 108895 | [108895-can-can-bunny-premiere.json](./108895-can-can-bunny-premiere.json) |
+| Can Can Bunny Spirits | 108894 | [108894-can-can-bunny-spirits.json](./108894-can-can-bunny-spirits.json) |
+| Can Can Bunny Superior | 108893 | [108893-can-can-bunny-superior.json](./108893-can-can-bunny-superior.json) |
 | Can Do! | 298813 | [298813-can-do.json](./298813-can-do.json) |
 | Can I Buy You a Cheeseburger? | 358486 | [358486-can-i-buy-you-a-cheeseburger.json](./358486-can-i-buy-you-a-cheeseburger.json) |
 | Can I Get an Iced Coffee with Breastmilk!? | 391264 | [391264-can-i-get-an-iced-coffee-with-breastmilk.json](./391264-can-i-get-an-iced-coffee-with-breastmilk.json) |
@@ -2022,6 +2025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casey's Contraptions | 63646 | [63646-caseys-contraptions.json](./63646-caseys-contraptions.json) |
 | Cash Cleaner Simulator | 297943 | [297943-cash-cleaner-simulator.json](./297943-cash-cleaner-simulator.json) |
 | Cash Cow: Anniversary Edition | 90837 | [90837-cash-cow-anniversary-edition.json](./90837-cash-cow-anniversary-edition.json) |
+| Cash Crisis: Programmers Search for Money | 108813 | [108813-cash-crisis-programmers-search-for-money.json](./108813-cash-crisis-programmers-search-for-money.json) |
 | Cash Dash | 384544 | [384544-cash-dash.json](./384544-cash-dash.json) |
 | Cash Guardian: Collector Operation "Capital Defense" | 328096 | [328096-cash-guardian-collector-operation-capital-defense.json](./328096-cash-guardian-collector-operation-capital-defense.json) |
 | Cash Guns Chaos DLX | 85865 | [85865-cash-guns-chaos-dlx.json](./85865-cash-guns-chaos-dlx.json) |
@@ -2801,6 +2805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caten Village | 392313 | [392313-caten-village.json](./392313-caten-village.json) |
 | Catena | 342033 | [342033-catena.json](./342033-catena.json) |
 | Cateran | 96767 | [96767-cateran.json](./96767-cateran.json) |
+| Caterpiggle | 108885 | [108885-caterpiggle.json](./108885-caterpiggle.json) |
 | Caterpilla | 83266 | [83266-caterpilla.json](./83266-caterpilla.json) |
 | Caterpillar | 201514 | [201514-caterpillar.json](./201514-caterpillar.json) |
 | Caterpillar | 38482 | [38482-caterpillar.json](./38482-caterpillar.json) |
