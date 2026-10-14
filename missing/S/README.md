@@ -4409,6 +4409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Gambit: Zagan's Ritual | 279542 | [279542-shadow-gambit-zagans-ritual.json](./279542-shadow-gambit-zagans-ritual.json) |
 | Shadow Game | 331297 | [331297-shadow-game.json](./331297-shadow-game.json) |
 | Shadow Girls | 396566 | [396566-shadow-girls.json](./396566-shadow-girls.json) |
+| Shadow Guardian | 112206 | [112206-shadow-guardian.json](./112206-shadow-guardian.json) |
 | Shadow Gunner: The Robot Wars | 144188 | [144188-shadow-gunner-the-robot-wars.json](./144188-shadow-gunner-the-robot-wars.json) |
 | Shadow Harvest: Phantom Ops | 16236 | [16236-shadow-harvest-phantom-ops.json](./16236-shadow-harvest-phantom-ops.json) |
 | Shadow Hawk One | 282140 | [282140-shadow-hawk-one.json](./282140-shadow-hawk-one.json) |
@@ -5588,6 +5589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Beyond | 138608 | [138608-shining-beyond.json](./138608-shining-beyond.json) |
 | Shining Flower: HikaruHana | 172040 | [172040-shining-flower-hikaruhana.json](./172040-shining-flower-hikaruhana.json) |
 | Shining Force | 3041 | [3041-shining-force.json](./3041-shining-force.json) |
+| Shining Force Classics | 112181 | [112181-shining-force-classics.json](./112181-shining-force-classics.json) |
 | Shining Force Cross | 65251 | [65251-shining-force-cross.json](./65251-shining-force-cross.json) |
 | Shining Force EXA | 19254 | [19254-shining-force-exa.json](./19254-shining-force-exa.json) |
 | Shining Force Feather | 47720 | [47720-shining-force-feather.json](./47720-shining-force-feather.json) |
@@ -5623,6 +5625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinjuku Dungeon | 222471 | [222471-shinjuku-dungeon.json](./222471-shinjuku-dungeon.json) |
 | Shinjuku no Okami | 70573 | [70573-shinjuku-no-okami.json](./70573-shinjuku-no-okami.json) |
 | Shinjuku Soumei | 261212 | [261212-shinjuku-soumei.json](./261212-shinjuku-soumei.json) |
+| Shinkai Densetsu Meremanoid | 112178 | [112178-shinkai-densetsu-meremanoid.json](./112178-shinkai-densetsu-meremanoid.json) |
 | Shinkan Senshi Eris no Bouken | 97379 | [97379-shinkan-senshi-eris-no-bouken.json](./97379-shinkan-senshi-eris-no-bouken.json) |
 | Shinkansen 0 | 292568 | [292568-shinkansen-0.json](./292568-shinkansen-0.json) |
 | Shinkansen Card Pull Simulator | 399783 | [399783-shinkansen-card-pull-simulator.json](./399783-shinkansen-card-pull-simulator.json) |
@@ -6230,6 +6233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoujo Attack! | 73988 | [73988-shoujo-attack.json](./73988-shoujo-attack.json) |
 | Shoujo Gidan | 167130 | [167130-shoujo-gidan.json](./167130-shoujo-gidan.json) |
 | Shoujo Houkai: Oniichan no Catharsis | 97702 | [97702-shoujo-houkai-oniichan-no-catharsis.json](./97702-shoujo-houkai-oniichan-no-catharsis.json) |
+| Shoujo Kageki Revue Starlight Re Live | 112198 | [112198-shoujo-kageki-revue-starlight-re-live.json](./112198-shoujo-kageki-revue-starlight-re-live.json) |
 | Shoujo Kaisen | 174837 | [174837-shoujo-kaisen.json](./174837-shoujo-kaisen.json) |
 | Shoujo Kidan | 167129 | [167129-shoujo-kidan.json](./167129-shoujo-kidan.json) |
 | Shoujo Mahou Gaku Little Witch Romanesque Bangai Hen "Sayonara, Mauresumo" | 332429 | [332429-shoujo-mahou-gaku-little-witch-romanesque-bangai-hen-sayonara-mauresumo.json](./332429-shoujo-mahou-gaku-little-witch-romanesque-bangai-hen-sayonara-mauresumo.json) |
@@ -6291,6 +6295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Showdown at Willow Creek | 83599 | [83599-showdown-at-willow-creek.json](./83599-showdown-at-willow-creek.json) |
 | Showdown Bandit | 121497 | [121497-showdown-bandit.json](./121497-showdown-bandit.json) |
 | Showdown of Fate | 273092 | [273092-showdown-of-fate.json](./273092-showdown-of-fate.json) |
+| Showdown of the Dungeon | 112204 | [112204-showdown-of-the-dungeon.json](./112204-showdown-of-the-dungeon.json) |
 | Shower Sim | 128603 | [128603-shower-sim.json](./128603-shower-sim.json) |
 | Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad? | 12204 | [12204-shower-with-your-dad-simulator-2015-do-you-still-shower-with-your-dad.json](./12204-shower-with-your-dad-simulator-2015-do-you-still-shower-with-your-dad.json) |
 | Showgunners | 210947 | [210947-showgunners.json](./210947-showgunners.json) |
@@ -8376,6 +8381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skydive! | 62234 | [62234-skydive.json](./62234-skydive.json) |
 | SkydiVeR | 114837 | [114837-skydiver.json](./114837-skydiver.json) |
 | Skydivers Paradise | 319941 | [319941-skydivers-paradise.json](./319941-skydivers-paradise.json) |
+| Skydome | 112175 | [112175-skydome.json](./112175-skydome.json) |
 | SkyDribble | 253429 | [253429-skydribble.json](./253429-skydribble.json) |
 | SkyDrift | 9424 | [9424-skydrift.json](./9424-skydrift.json) |
 | SkyDrop | 384672 | [384672-skydrop.json](./384672-skydrop.json) |
@@ -8428,6 +8434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylanders: Imaginators | 19576 | [19576-skylanders-imaginators.json](./19576-skylanders-imaginators.json) |
 | Skylanders: Imaginators | 317016 | [317016-skylanders-imaginators.json](./317016-skylanders-imaginators.json) |
 | Skylanders: Lost Islands | 59963 | [59963-skylanders-lost-islands.json](./59963-skylanders-lost-islands.json) |
+| Skylanders: Ring of Heroes | 112193 | [112193-skylanders-ring-of-heroes.json](./112193-skylanders-ring-of-heroes.json) |
 | Skylanders: Spyro's Adventure | 256678 | [256678-skylanders-spyros-adventure.json](./256678-skylanders-spyros-adventure.json) |
 | Skylanders: Spyro's Adventure - Empire of Ice | 340392 | [340392-skylanders-spyros-adventure-empire-of-ice.json](./340392-skylanders-spyros-adventure-empire-of-ice.json) |
 | Skylanders: SuperChargers | 11058 | [11058-skylanders-superchargers.json](./11058-skylanders-superchargers.json) |
@@ -9732,6 +9739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Galaxy Online | 276970 | [276970-snake-galaxy-online.json](./276970-snake-galaxy-online.json) |
 | Snake Game | 95375 | [95375-snake-game.json](./95375-snake-game.json) |
 | Snake Game Ultra Core | 368476 | [368476-snake-game-ultra-core.json](./368476-snake-game-ultra-core.json) |
+| Snake Hunt | 112110 | [112110-snake-hunt.json](./112110-snake-hunt.json) |
 | Snake II | 10141 | [10141-snake-ii.json](./10141-snake-ii.json) |
 | Snake III | 133870 | [133870-snake-iii.json](./133870-snake-iii.json) |
 | Snake in the Cube | 158070 | [158070-snake-in-the-cube.json](./158070-snake-in-the-cube.json) |
@@ -11461,6 +11469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Forces Adventure | 317359 | [317359-sonic-forces-adventure.json](./317359-sonic-forces-adventure.json) |
 | Sonic Forces Overclocked | 280749 | [280749-sonic-forces-overclocked.json](./280749-sonic-forces-overclocked.json) |
 | Sonic Forces: Day One Edition | 136167 | [136167-sonic-forces-day-one-edition.json](./136167-sonic-forces-day-one-edition.json) |
+| Sonic Forces: Episode Shadow | 112095 | [112095-sonic-forces-episode-shadow.json](./112095-sonic-forces-episode-shadow.json) |
 | Sonic Forces: Speed Battle | 69392 | [69392-sonic-forces-speed-battle.json](./69392-sonic-forces-speed-battle.json) |
 | Sonic Free Riders: No Kinect Patch | 276926 | [276926-sonic-free-riders-no-kinect-patch.json](./276926-sonic-free-riders-no-kinect-patch.json) |
 | Sonic Freedom Frontiers | 316345 | [316345-sonic-freedom-frontiers.json](./316345-sonic-freedom-frontiers.json) |
@@ -13384,6 +13393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space-Orbit | 63238 | [63238-space-orbit.json](./63238-space-orbit.json) |
 | Space-Rat Xplode! | 54385 | [54385-space-rat-xplode.json](./54385-space-rat-xplode.json) |
 | Space/Mech/Pilot | 139924 | [139924-space-mech-pilot.json](./139924-space-mech-pilot.json) |
+| Spaceball | 112177 | [112177-spaceball.json](./112177-spaceball.json) |
 | Spaceball Revolution | 21059 | [21059-spaceball-revolution.json](./21059-spaceball-revolution.json) |
 | Spacebar | 183334 | [183334-spacebar.json](./183334-spacebar.json) |
 | Spacebar | 344361 | [344361-spacebar.json](./344361-spacebar.json) |
@@ -14390,6 +14400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spike C64 Dislike | 71156 | [71156-spike-c64-dislike.json](./71156-spike-c64-dislike.json) |
 | Spike City | 100558 | [100558-spike-city.json](./100558-spike-city.json) |
 | Spike Dislike GB | 58636 | [58636-spike-dislike-gb.json](./58636-spike-dislike-gb.json) |
+| Spike Hike | 112203 | [112203-spike-hike.json](./112203-spike-hike.json) |
 | Spike Hoppin' | 41984 | [41984-spike-hoppin.json](./41984-spike-hoppin.json) |
 | Spike Match | 369748 | [369748-spike-match.json](./369748-spike-match.json) |
 | Spike Mtn | 213536 | [213536-spike-mtn.json](./213536-spike-mtn.json) |
@@ -16119,6 +16130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek III | 69258 | [69258-star-trek-iii.json](./69258-star-trek-iii.json) |
 | Star Trek Klingon | 51380 | [51380-star-trek-klingon.json](./51380-star-trek-klingon.json) |
 | Star Trek Online | 7584 | [7584-star-trek-online.json](./7584-star-trek-online.json) |
+| Star Trek Online: Age of Discovery | 112101 | [112101-star-trek-online-age-of-discovery.json](./112101-star-trek-online-age-of-discovery.json) |
 | Star Trek Online: Agents of Yesterday | 23285 | [23285-star-trek-online-agents-of-yesterday.json](./23285-star-trek-online-agents-of-yesterday.json) |
 | Star Trek Online: Awakening | 121530 | [121530-star-trek-online-awakening.json](./121530-star-trek-online-awakening.json) |
 | Star Trek Online: Rise of Discovery | 120207 | [120207-star-trek-online-rise-of-discovery.json](./120207-star-trek-online-rise-of-discovery.json) |
@@ -17832,6 +17844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticky Zeitgeist: Episode 3 - A Trick With Ants | 178505 | [178505-sticky-zeitgeist-episode-3-a-trick-with-ants.json](./178505-sticky-zeitgeist-episode-3-a-trick-with-ants.json) |
 | Stickya Adventurya | 314648 | [314648-stickya-adventurya.json](./314648-stickya-adventurya.json) |
 | Stickyban | 338736 | [338736-stickyban.json](./338736-stickyban.json) |
+| StickyBots | 112184 | [112184-stickybots.json](./112184-stickybots.json) |
 | Stien | 184450 | [184450-stien.json](./184450-stien.json) |
 | Stiff Neck | 386508 | [386508-stiff-neck.json](./386508-stiff-neck.json) |
 | Stifled | 31655 | [31655-stifled.json](./31655-stifled.json) |
@@ -21535,6 +21548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Orb Bros. | 142396 | [142396-super-orb-bros.json](./142396-super-orb-bros.json) |
 | Super Orbit | 344563 | [344563-super-orbit.json](./344563-super-orbit.json) |
 | Super Orbital Mega Drift II | 339477 | [339477-super-orbital-mega-drift-ii.json](./339477-super-orbital-mega-drift-ii.json) |
+| Super OsWald | 112190 | [112190-super-oswald.json](./112190-super-oswald.json) |
 | Super Otamatone | 172524 | [172524-super-otamatone.json](./172524-super-otamatone.json) |
 | Super Othello | 308981 | [308981-super-othello.json](./308981-super-othello.json) |
 | Super Over! | 244799 | [244799-super-over.json](./244799-super-over.json) |
