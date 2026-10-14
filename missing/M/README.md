@@ -5852,6 +5852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory I | 68610 | [68610-memory-i.json](./68610-memory-i.json) |
 | Memory II / Melodie | 72371 | [72371-memory-ii-melodie.json](./72371-memory-ii-melodie.json) |
 | Memory Illusions | 157199 | [157199-memory-illusions.json](./157199-memory-illusions.json) |
+| Memory Kara | 112802 | [112802-memory-kara.json](./112802-memory-kara.json) |
 | Memory Kong | 328596 | [328596-memory-kong.json](./328596-memory-kong.json) |
 | Memory Lane | 171451 | [171451-memory-lane.json](./171451-memory-lane.json) |
 | Memory Lane | 304178 | [304178-memory-lane.json](./304178-memory-lane.json) |
