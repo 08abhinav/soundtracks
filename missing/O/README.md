@@ -2952,6 +2952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ostrich Island | 10645 | [10645-ostrich-island.json](./10645-ostrich-island.json) |
 | Ostrofa | 115784 | [115784-ostrofa.json](./115784-ostrofa.json) |
 | Ostron | 78989 | [78989-ostron.json](./78989-ostron.json) |
+| Ostrova Koshki | 132568 | [132568-ostrova-koshki.json](./132568-ostrova-koshki.json) |
 | Osu! | 3012 | [3012-osu.json](./3012-osu.json) |
 | Osu!! Karate Bu | 38382 | [38382-osu-karate-bu.json](./38382-osu-karate-bu.json) |
 | Osu!Lazer | 412517 | [412517-osu-lazer.json](./412517-osu-lazer.json) |
