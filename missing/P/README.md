@@ -5038,6 +5038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipes Master | 194257 | [194257-pipes-master.json](./194257-pipes-master.json) |
 | Pipes Maze | 240354 | [240354-pipes-maze.json](./240354-pipes-maze.json) |
 | Pipes Puzzles | 213539 | [213539-pipes-puzzles.json](./213539-pipes-puzzles.json) |
+| Pipes Racer | 77158 | [77158-pipes-racer.json](./77158-pipes-racer.json) |
 | PipeWorks | 116927 | [116927-pipeworks.json](./116927-pipeworks.json) |
 | Pipi & Bibi's | 40138 | [40138-pipi-and-bibis.json](./40138-pipi-and-bibis.json) |
 | Pipistrello and the Cursed Yoyo | 292157 | [292157-pipistrello-and-the-cursed-yoyo.json](./292157-pipistrello-and-the-cursed-yoyo.json) |
@@ -7399,6 +7400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Battle Online | 323760 | [323760-pokemon-battle-online.json](./323760-pokemon-battle-online.json) |
 | Pokémon Battle Ultimate | 313970 | [313970-pokemon-battle-ultimate.json](./313970-pokemon-battle-ultimate.json) |
 | Pokémon Battle Woods | 229043 | [229043-pokemon-battle-woods.json](./229043-pokemon-battle-woods.json) |
+| Pokémon Battrio | 77182 | [77182-pokemon-battrio.json](./77182-pokemon-battrio.json) |
 | Pokémon Berserk Version | 323275 | [323275-pokemon-berserk-version.json](./323275-pokemon-berserk-version.json) |
 | Pokémon Beyond DX | 360180 | [360180-pokemon-beyond-dx.json](./360180-pokemon-beyond-dx.json) |
 | Pokémon Black 2 /White 2 Deluxe | 335436 | [335436-pokemon-black-2-white-2-deluxe.json](./335436-pokemon-black-2-white-2-deluxe.json) |
@@ -8705,6 +8707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Knights: Legendary Edition | 166156 | [166156-portal-knights-legendary-edition.json](./166156-portal-knights-legendary-edition.json) |
 | Portal Knights: Portal Pioneer Pack | 170873 | [170873-portal-knights-portal-pioneer-pack.json](./170873-portal-knights-portal-pioneer-pack.json) |
 | Portal Mortal | 156713 | [156713-portal-mortal.json](./156713-portal-mortal.json) |
+| Portal of Evil: Stolen Runes | 77206 | [77206-portal-of-evil-stolen-runes.json](./77206-portal-of-evil-stolen-runes.json) |
 | Portal Panic | 268001 | [268001-portal-panic.json](./268001-portal-panic.json) |
 | Portal Pro | 284358 | [284358-portal-pro.json](./284358-portal-pro.json) |
 | Portal Puzzle | 270111 | [270111-portal-puzzle.json](./270111-portal-puzzle.json) |
