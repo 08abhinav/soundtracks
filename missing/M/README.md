@@ -1295,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Domino | 89830 | [89830-mahjong-domino.json](./89830-mahjong-domino.json) |
 | Mahjong Elements HD | 174371 | [174371-mahjong-elements-hd.json](./174371-mahjong-elements-hd.json) |
 | Mahjong Elements HDX | 88370 | [88370-mahjong-elements-hdx.json](./88370-mahjong-elements-hdx.json) |
+| Mahjong Epic | 83414 | [83414-mahjong-epic.json](./83414-mahjong-epic.json) |
 | Mahjong Escape: Ancient China | 135673 | [135673-mahjong-escape-ancient-china.json](./135673-mahjong-escape-ancient-china.json) |
 | Mahjong Escape: Ancient Japan | 202093 | [202093-mahjong-escape-ancient-japan.json](./202093-mahjong-escape-ancient-japan.json) |
 | Mahjong Fest: Winterland | 113163 | [113163-mahjong-fest-winterland.json](./113163-mahjong-fest-winterland.json) |
@@ -1376,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Taikai Wii | 62560 | [62560-mahjong-taikai-wii.json](./62560-mahjong-taikai-wii.json) |
 | Mahjong Taisen | 48787 | [48787-mahjong-taisen.json](./48787-mahjong-taisen.json) |
 | Mahjong Tales: Ancient Wisdom | 52577 | [52577-mahjong-tales-ancient-wisdom.json](./52577-mahjong-tales-ancient-wisdom.json) |
+| Mahjong Titan | 83415 | [83415-mahjong-titan.json](./83415-mahjong-titan.json) |
 | Mahjong Towers | 341077 | [341077-mahjong-towers.json](./341077-mahjong-towers.json) |
 | Mahjong Trap | 115717 | [115717-mahjong-trap.json](./115717-mahjong-trap.json) |
 | Mahjong Travel | 252285 | [252285-mahjong-travel.json](./252285-mahjong-travel.json) |
@@ -10097,6 +10099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mondrian - Abstraction in Beauty | 34692 | [34692-mondrian-abstraction-in-beauty.json](./34692-mondrian-abstraction-in-beauty.json) |
 | Mondrian Provoked | 68896 | [68896-mondrian-provoked.json](./68896-mondrian-provoked.json) |
 | Mondrian Squares | 192751 | [192751-mondrian-squares.json](./192751-mondrian-squares.json) |
+| Mondrian: Plastic Reality | 83408 | [83408-mondrian-plastic-reality.json](./83408-mondrian-plastic-reality.json) |
 | Mondschein | 122220 | [122220-mondschein.json](./122220-mondschein.json) |
 | Monet - The Mystery of the Orangery | 129764 | [129764-monet-the-mystery-of-the-orangery.json](./129764-monet-the-mystery-of-the-orangery.json) |
 | Monet Heist | 184948 | [184948-monet-heist.json](./184948-monet-heist.json) |
