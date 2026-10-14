@@ -730,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Nosfe | 236499 | [236499-ice-nosfe.json](./236499-ice-nosfe.json) |
 | Ice on the Edge | 335288 | [335288-ice-on-the-edge.json](./335288-ice-on-the-edge.json) |
 | Ice Orange Pudding | 369378 | [369378-ice-orange-pudding.json](./369378-ice-orange-pudding.json) |
+| Ice Palace | 108805 | [108805-ice-palace.json](./108805-ice-palace.json) |
 | Ice path | 184394 | [184394-ice-path.json](./184394-ice-path.json) |
 | Ice Pops & Popsicles | 102607 | [102607-ice-pops-and-popsicles.json](./102607-ice-pops-and-popsicles.json) |
 | Ice Power | 246541 | [246541-ice-power.json](./246541-ice-power.json) |
