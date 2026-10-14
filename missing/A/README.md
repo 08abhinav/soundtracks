@@ -4385,6 +4385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Infection | 120915 | [120915-alien-infection.json](./120915-alien-infection.json) |
 | Alien Infestation | 139132 | [139132-alien-infestation.json](./139132-alien-infestation.json) |
 | Alien Invader | 92417 | [92417-alien-invader.json](./92417-alien-invader.json) |
+| Alien Invaders from the Planet Plorth | 77167 | [77167-alien-invaders-from-the-planet-plorth.json](./77167-alien-invaders-from-the-planet-plorth.json) |
 | Alien Invaders Plus | 41533 | [41533-alien-invaders-plus.json](./41533-alien-invaders-plus.json) |
 | Alien Invasion | 273129 | [273129-alien-invasion.json](./273129-alien-invasion.json) |
 | Alien Invasion | 295468 | [295468-alien-invasion.json](./295468-alien-invasion.json) |
@@ -6896,6 +6897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 117: Pax Romana - Marvellous Mosaic Pack | 408894 | [408894-anno-117-pax-romana-marvellous-mosaic-pack.json](./408894-anno-117-pax-romana-marvellous-mosaic-pack.json) |
 | Anno 117: Pax Romana - Year 1 Pass | 408895 | [408895-anno-117-pax-romana-year-1-pass.json](./408895-anno-117-pax-romana-year-1-pass.json) |
 | Anno 1404: Gold Edition | 27913 | [27913-anno-1404-gold-edition.json](./27913-anno-1404-gold-edition.json) |
+| Anno 1503: Royal Edition | 77223 | [77223-anno-1503-royal-edition.json](./77223-anno-1503-royal-edition.json) |
 | Anno 1602: Erschaffung einer Neuen Welt - Im Namen des Königs | 131277 | [131277-anno-1602-erschaffung-einer-neuen-welt-im-namen-des-konigs.json](./131277-anno-1602-erschaffung-einer-neuen-welt-im-namen-des-konigs.json) |
 | Anno 1701 A.D.: Gold Edition | 180265 | [180265-anno-1701-a-d-gold-edition.json](./180265-anno-1701-a-d-gold-edition.json) |
 | Anno 1701: Limited Edition | 180266 | [180266-anno-1701-limited-edition.json](./180266-anno-1701-limited-edition.json) |
@@ -10071,6 +10073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Limited Edition | 118124 | [118124-assassins-creed-limited-edition.json](./118124-assassins-creed-limited-edition.json) |
 | Assassin's Creed: Lost Legacy | 78709 | [78709-assassins-creed-lost-legacy.json](./78709-assassins-creed-lost-legacy.json) |
 | Assassin's Creed: Modern Revolutions Pack | 219003 | [219003-assassins-creed-modern-revolutions-pack.json](./219003-assassins-creed-modern-revolutions-pack.json) |
+| Assassin's Creed: Multiplayer Rearmed | 77209 | [77209-assassins-creed-multiplayer-rearmed.json](./77209-assassins-creed-multiplayer-rearmed.json) |
 | Assassin's Creed: Naval Edition | 118861 | [118861-assassins-creed-naval-edition.json](./118861-assassins-creed-naval-edition.json) |
 | Assassin's Creed: Odyssey - Cloud Version | 109463 | [109463-assassins-creed-odyssey-cloud-version.json](./109463-assassins-creed-odyssey-cloud-version.json) |
 | Assassin's Creed: Odyssey - Deluxe Edition | 24811 | [24811-assassins-creed-odyssey-deluxe-edition.json](./24811-assassins-creed-odyssey-deluxe-edition.json) |
