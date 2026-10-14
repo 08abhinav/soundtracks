@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oasis of Lilies | 412276 | [412276-oasis-of-lilies.json](./412276-oasis-of-lilies.json) |
 | Oasis VR | 140520 | [140520-oasis-vr.json](./140520-oasis-vr.json) |
 | OAsys | 368597 | [368597-oasys.json](./368597-oasys.json) |
+| Oath | 127647 | [127647-oath.json](./127647-oath.json) |
 | Oath | 169955 | [169955-oath.json](./169955-oath.json) |
 | Oath | 311762 | [311762-oath.json](./311762-oath.json) |
 | Oath of Miko | 171470 | [171470-oath-of-miko.json](./171470-oath-of-miko.json) |
@@ -1521,6 +1522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Giant Leap | 31735 | [31735-one-giant-leap.json](./31735-one-giant-leap.json) |
 | One Girl Army | 324699 | [324699-one-girl-army.json](./324699-one-girl-army.json) |
 | One Goal Spirit | 80493 | [80493-one-goal-spirit.json](./80493-one-goal-spirit.json) |
+| One Gun 2: Stickman | 126908 | [126908-one-gun-2-stickman.json](./126908-one-gun-2-stickman.json) |
 | One Hand Clapping | 103408 | [103408-one-hand-clapping.json](./103408-one-hand-clapping.json) |
 | One Hand Samurai | 140893 | [140893-one-hand-samurai.json](./140893-one-hand-samurai.json) |
 | One Handed | 212205 | [212205-one-handed.json](./212205-one-handed.json) |
@@ -1875,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onefog Xonix | 98974 | [98974-onefog-xonix.json](./98974-onefog-xonix.json) |
 | Onegai AiPri | 396935 | [396935-onegai-aipri.json](./396935-onegai-aipri.json) |
 | Onegai My Melody: My Melody Adventure | 315563 | [315563-onegai-my-melody-my-melody-adventure.json](./315563-onegai-my-melody-my-melody-adventure.json) |
+| Onegai Teacher | 126296 | [126296-onegai-teacher.json](./126296-onegai-teacher.json) |
 | Onegai Twin(s) | 98037 | [98037-onegai-twin-s.json](./98037-onegai-twin-s.json) |
 | OneHit | 75104 | [75104-onehit.json](./75104-onehit.json) |
 | Oneiric | 285509 | [285509-oneiric.json](./285509-oneiric.json) |
@@ -2287,6 +2290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Crusader | 51278 | [51278-operation-crusader.json](./51278-operation-crusader.json) |
 | Operation Dartness | 378187 | [378187-operation-dartness.json](./378187-operation-dartness.json) |
 | Operation Deadbolt | 365744 | [365744-operation-deadbolt.json](./365744-operation-deadbolt.json) |
+| Operation Deep Magic: Cryptanalysis | 128258 | [128258-operation-deep-magic-cryptanalysis.json](./128258-operation-deep-magic-cryptanalysis.json) |
 | Operation DogFight | 95396 | [95396-operation-dogfight.json](./95396-operation-dogfight.json) |
 | Operation Eco-Nightmare | 210686 | [210686-operation-eco-nightmare.json](./210686-operation-eco-nightmare.json) |
 | Operation Eventide | 337477 | [337477-operation-eventide.json](./337477-operation-eventide.json) |
@@ -2974,6 +2978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otar Island | 380769 | [380769-otar-island.json](./380769-otar-island.json) |
 | Otenba Becky no Daibouken | 131894 | [131894-otenba-becky-no-daibouken.json](./131894-otenba-becky-no-daibouken.json) |
 | Otenki Kororin: Weather Tales | 299832 | [299832-otenki-kororin-weather-tales.json](./299832-otenki-kororin-weather-tales.json) |
+| Othello | 128892 | [128892-othello.json](./128892-othello.json) |
 | Othello | 134419 | [134419-othello.json](./134419-othello.json) |
 | Othello | 25159 | [25159-othello.json](./25159-othello.json) |
 | Othello | 408869 | [408869-othello.json](./408869-othello.json) |
@@ -3513,6 +3518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outpost 16 | 320862 | [320862-outpost-16.json](./320862-outpost-16.json) |
 | Outpost 2: Divided Destiny | 50138 | [50138-outpost-2-divided-destiny.json](./50138-outpost-2-divided-destiny.json) |
 | Outpost 3 | 312729 | [312729-outpost-3.json](./312729-outpost-3.json) |
+| Outpost 41 | 125140 | [125140-outpost-41.json](./125140-outpost-41.json) |
 | Outpost Assault | 344021 | [344021-outpost-assault.json](./344021-outpost-assault.json) |
 | Outpost Auriga IV | 282614 | [282614-outpost-auriga-iv.json](./282614-outpost-auriga-iv.json) |
 | Outpost Delta | 123030 | [123030-outpost-delta.json](./123030-outpost-delta.json) |
@@ -3900,6 +3906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oxxo | 119208 | [119208-oxxo.json](./119208-oxxo.json) |
 | Oxxonian | 74424 | [74424-oxxonian.json](./74424-oxxonian.json) |
 | Oxyblack Fortress | 271317 | [271317-oxyblack-fortress.json](./271317-oxyblack-fortress.json) |
+| Oxyd | 126335 | [126335-oxyd.json](./126335-oxyd.json) |
 | Oxyd Extra | 93036 | [93036-oxyd-extra.json](./93036-oxyd-extra.json) |
 | Oxygen | 177802 | [177802-oxygen.json](./177802-oxygen.json) |
 | Oxygen Caliber | 238544 | [238544-oxygen-caliber.json](./238544-oxygen-caliber.json) |
