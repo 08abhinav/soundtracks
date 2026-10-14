@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Mémoire | 126928 | [126928-la-memoire.json](./126928-la-memoire.json) |
 | La Mina | 252994 | [252994-la-mina.json](./252994-la-mina.json) |
 | LA Monsters | 154970 | [154970-la-monsters.json](./154970-la-monsters.json) |
+| La Neige | 97786 | [97786-la-neige.json](./97786-la-neige.json) |
 | La Nuit | 261807 | [261807-la-nuit.json](./261807-la-nuit.json) |
 | La Odisea del Fracaso | 323331 | [323331-la-odisea-del-fracaso.json](./323331-la-odisea-del-fracaso.json) |
 | La Odisea del Fracaso II | 323355 | [323355-la-odisea-del-fracaso-ii.json](./323355-la-odisea-del-fracaso-ii.json) |
@@ -2818,6 +2819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lgnorant girl doll | 114994 | [114994-lgnorant-girl-doll.json](./114994-lgnorant-girl-doll.json) |
 | LGV Platform Box | 362424 | [362424-lgv-platform-box.json](./362424-lgv-platform-box.json) |
 | Lhama Clicker | 236545 | [236545-lhama-clicker.json](./236545-lhama-clicker.json) |
+| LHM: BB01 - Destiny | 97776 | [97776-lhm-bb01-destiny.json](./97776-lhm-bb01-destiny.json) |
 | Lǐ Èr Nián Yǒng Chuǎng Héhuān Zōng | 373708 | [373708-li-er-nian-yong-chuang-hehuan-zong.json](./373708-li-er-nian-yong-chuang-hehuan-zong.json) |
 | Lǐ Shì Qírén Yì Wén Lù | 367402 | [367402-li-shi-qiren-yi-wen-lu.json](./367402-li-shi-qiren-yi-wen-lu.json) |
 | Li Shui | 374138 | [374138-li-shui.json](./374138-li-shui.json) |
@@ -5879,6 +5881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Room VR | 111809 | [111809-love-room-vr.json](./111809-love-room-vr.json) |
 | Love Root Zero Kiss Kiss Labyrinth | 221733 | [221733-love-root-zero-kiss-kiss-labyrinth.json](./221733-love-root-zero-kiss-kiss-labyrinth.json) |
 | Love Sex & Fitness | 389649 | [389649-love-sex-and-fitness.json](./389649-love-sex-and-fitness.json) |
+| Love Sexlife | 97785 | [97785-love-sexlife.json](./97785-love-sexlife.json) |
 | Love Shore | 131561 | [131561-love-shore.json](./131561-love-shore.json) |
 | Love Simulation | 99039 | [99039-love-simulation.json](./99039-love-simulation.json) |
 | Love Sniper | 63116 | [63116-love-sniper.json](./63116-love-sniper.json) |
