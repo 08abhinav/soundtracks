@@ -5301,6 +5301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Patchwork Frozen | 286522 | [286522-christmas-patchwork-frozen.json](./286522-christmas-patchwork-frozen.json) |
 | Christmas Prayers | 82167 | [82167-christmas-prayers.json](./82167-christmas-prayers.json) |
 | Christmas Present | 285567 | [285567-christmas-present.json](./285567-christmas-present.json) |
+| Christmas Puzzle | 74944 | [74944-christmas-puzzle.json](./74944-christmas-puzzle.json) |
 | Christmas Puzzle 3 | 76672 | [76672-christmas-puzzle-3.json](./76672-christmas-puzzle-3.json) |
 | Christmas Puzzle 4 | 279001 | [279001-christmas-puzzle-4.json](./279001-christmas-puzzle-4.json) |
 | Christmas Puzzle 5 | 280312 | [280312-christmas-puzzle-5.json](./280312-christmas-puzzle-5.json) |
@@ -10349,6 +10350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cow Evolution | 203205 | [203205-cow-evolution.json](./203205-cow-evolution.json) |
 | Cow Hunter | 200371 | [200371-cow-hunter.json](./200371-cow-hunter.json) |
 | Cow Life Sim RPG | 281348 | [281348-cow-life-sim-rpg.json](./281348-cow-life-sim-rpg.json) |
+| Cow Milking Simulator | 74988 | [74988-cow-milking-simulator.json](./74988-cow-milking-simulator.json) |
 | Cow Project 1986 | 401643 | [401643-cow-project-1986.json](./401643-cow-project-1986.json) |
 | Cow V: The Great Egg Quest | 71060 | [71060-cow-v-the-great-egg-quest.json](./71060-cow-v-the-great-egg-quest.json) |
 | CowaCowa: Jinmenken | 339328 | [339328-cowacowa-jinmenken.json](./339328-cowacowa-jinmenken.json) |
