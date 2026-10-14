@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T04:31:00.577Z",
-  "total_soundtracks": 1609,
+  "generated_at": "2026-10-14T04:31:16.931Z",
+  "total_soundtracks": 1610,
   "games": [
     {
       "igdb_id": 7522,
@@ -10002,6 +10002,20 @@
           "album_name": "Medal of Honor: Allied Assault (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3m7cunqxVwbQJxEvljkmEj",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 1309,
+      "game_name": "Medal of Honor: Frontline",
+      "game_url": "https://ostdb.net/games/medal-of-honor-frontline",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273324f2ee07294c99d0aee91d7",
+      "albums": [
+        {
+          "album_name": "Medal of Honor: Frontline (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3DsVNlo4MP5zm7BQ3aihOQ",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
