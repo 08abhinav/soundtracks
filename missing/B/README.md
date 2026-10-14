@@ -1182,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls Out of Control | 154994 | [154994-balls-out-of-control.json](./154994-balls-out-of-control.json) |
 | Balls Rolling-Plumber, Slither, Line, Fill & Fun! | 108486 | [108486-balls-rolling-plumber-slither-line-fill-and-fun.json](./108486-balls-rolling-plumber-slither-line-fill-and-fun.json) |
 | Balls vs. Maze | 240104 | [240104-balls-vs-maze.json](./240104-balls-vs-maze.json) |
+| Balls vs. Pixels : Break-it! | 100704 | [100704-balls-vs-pixels-break-it.json](./100704-balls-vs-pixels-break-it.json) |
 | Balls! | 99982 | [99982-balls.json](./99982-balls.json) |
 | Balls! Balls! | 163395 | [163395-balls-balls.json](./163395-balls-balls.json) |
 | Balls! Virtual Reality Cricket | 31580 | [31580-balls-virtual-reality-cricket.json](./31580-balls-virtual-reality-cricket.json) |
@@ -4763,6 +4764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bible Touchdown | 92614 | [92614-bible-touchdown.json](./92614-bible-touchdown.json) |
 | Bible Trivia | 278164 | [278164-bible-trivia.json](./278164-bible-trivia.json) |
 | Bible Trivia | 77011 | [77011-bible-trivia.json](./77011-bible-trivia.json) |
+| Bible Trivia Jumble | 100687 | [100687-bible-trivia-jumble.json](./100687-bible-trivia-jumble.json) |
 | Bible Verse Challenge | 317848 | [317848-bible-verse-challenge.json](./317848-bible-verse-challenge.json) |
 | Bible Word Puzzle | 103547 | [103547-bible-word-puzzle.json](./103547-bible-word-puzzle.json) |
 | BibleGirl's Big Apple | 56448 | [56448-biblegirls-big-apple.json](./56448-biblegirls-big-apple.json) |
@@ -6053,6 +6055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Room | 188989 | [188989-black-room.json](./188989-black-room.json) |
 | Black Rose | 33253 | [33253-black-rose.json](./33253-black-rose.json) |
 | Black Rose Valkyrie | 137079 | [137079-black-rose-valkyrie.json](./137079-black-rose-valkyrie.json) |
+| Black Roses | 100712 | [100712-black-roses.json](./100712-black-roses.json) |
 | Black Runes | 266764 | [266764-black-runes.json](./266764-black-runes.json) |
 | Black Sailors | 381172 | [381172-black-sailors.json](./381172-black-sailors.json) |
 | Black Sails | 289384 | [289384-black-sails.json](./289384-black-sails.json) |
@@ -7963,6 +7966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob.exe | 230870 | [230870-bob-exe.json](./230870-bob-exe.json) |
 | Bob's Bad Day | 14329 | [14329-bobs-bad-day.json](./14329-bobs-bad-day.json) |
 | Bob's Beaker Blobs | 383144 | [383144-bobs-beaker-blobs.json](./383144-bobs-beaker-blobs.json) |
+| Bob's Burgers Pinball | 100684 | [100684-bobs-burgers-pinball.json](./100684-bobs-burgers-pinball.json) |
 | Bob's Cat Challenge | 115441 | [115441-bobs-cat-challenge.json](./115441-bobs-cat-challenge.json) |
 | Bob's Fears | 381283 | [381283-bobs-fears.json](./381283-bobs-fears.json) |
 | Boba | 177569 | [177569-boba.json](./177569-boba.json) |
@@ -9111,6 +9115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncefield: Bricks Breaker | 237469 | [237469-bouncefield-bricks-breaker.json](./237469-bouncefield-bricks-breaker.json) |
 | Bouncemasters | 370674 | [370674-bouncemasters.json](./370674-bouncemasters.json) |
 | Bouncemasters: Aiming Assist | 379378 | [379378-bouncemasters-aiming-assist.json](./379378-bouncemasters-aiming-assist.json) |
+| Bouncer | 100671 | [100671-bouncer.json](./100671-bouncer.json) |
 | Bouncer | 13698 | [13698-bouncer.json](./13698-bouncer.json) |
 | Bouncers | 131481 | [131481-bouncers.json](./131481-bouncers.json) |
 | Bouncers | 259755 | [259755-bouncers.json](./259755-bouncers.json) |
@@ -9375,6 +9380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxcars | 318425 | [318425-boxcars.json](./318425-boxcars.json) |
 | Boxception | 211463 | [211463-boxception.json](./211463-boxception.json) |
 | Boxcorp Employee Training | 179137 | [179137-boxcorp-employee-training.json](./179137-boxcorp-employee-training.json) |
+| Boxed | 100703 | [100703-boxed.json](./100703-boxed.json) |
 | Boxed In | 403087 | [403087-boxed-in.json](./403087-boxed-in.json) |
 | Boxed In | 76687 | [76687-boxed-in.json](./76687-boxed-in.json) |
 | Boxed In | 95394 | [95394-boxed-in.json](./95394-boxed-in.json) |
@@ -10196,6 +10202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Breaker Lab | 237306 | [237306-brick-breaker-lab.json](./237306-brick-breaker-lab.json) |
 | Brick Breaker Maker | 344515 | [344515-brick-breaker-maker.json](./344515-brick-breaker-maker.json) |
 | Brick Breaker Premium | 104081 | [104081-brick-breaker-premium.json](./104081-brick-breaker-premium.json) |
+| Brick Breaker Premium 2 | 100705 | [100705-brick-breaker-premium-2.json](./100705-brick-breaker-premium-2.json) |
 | Brick Breaker Remix | 134930 | [134930-brick-breaker-remix.json](./134930-brick-breaker-remix.json) |
 | Brick Breaker Revolution | 383630 | [383630-brick-breaker-revolution.json](./383630-brick-breaker-revolution.json) |
 | Brick Breaker Ultimate | 65800 | [65800-brick-breaker-ultimate.json](./65800-brick-breaker-ultimate.json) |
@@ -10305,6 +10312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Race: Platinum Edition | 378956 | [378956-bridge-race-platinum-edition.json](./378956-bridge-race-platinum-edition.json) |
 | Bridge Race: Rush Edition | 347319 | [347319-bridge-race-rush-edition.json](./347319-bridge-race-rush-edition.json) |
 | Bridge Race: Silly Edition | 362376 | [362376-bridge-race-silly-edition.json](./362376-bridge-race-silly-edition.json) |
+| Bridge Scorepad | 100690 | [100690-bridge-scorepad.json](./100690-bridge-scorepad.json) |
 | Bridge Strike | 124035 | [124035-bridge-strike.json](./124035-bridge-strike.json) |
 | Bridge the Gap! | 328446 | [328446-bridge-the-gap.json](./328446-bridge-the-gap.json) |
 | Bridge to Another World Remastered: Burnt Dreams Collector's Edition | 362834 | [362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json](./362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json) |
