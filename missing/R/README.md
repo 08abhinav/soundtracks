@@ -4625,6 +4625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Richard West and the Golden Mask | 190139 | [190139-richard-west-and-the-golden-mask.json](./190139-richard-west-and-the-golden-mask.json) |
 | Richdle | 348949 | [348949-richdle.json](./348949-richdle.json) |
 | Riches in the Deep | 392925 | [392925-riches-in-the-deep.json](./392925-riches-in-the-deep.json) |
+| Richie the Gnome: Treasure Hunter | 106943 | [106943-richie-the-gnome-treasure-hunter.json](./106943-richie-the-gnome-treasure-hunter.json) |
 | Richie's Plank Experience | 26449 | [26449-richies-plank-experience.json](./26449-richies-plank-experience.json) |
 | RichMan 11 | 220664 | [220664-richman-11.json](./220664-richman-11.json) |
 | Richman 2 | 125446 | [125446-richman-2.json](./125446-richman-2.json) |
@@ -5984,6 +5985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Rumble 2 | 113767 | [113767-robot-rumble-2.json](./113767-robot-rumble-2.json) |
 | Robot Rumpus Royale | 230174 | [230174-robot-rumpus-royale.json](./230174-robot-rumpus-royale.json) |
 | Robot Run | 399877 | [399877-robot-run.json](./399877-robot-run.json) |
+| Robot Runner | 106950 | [106950-robot-runner.json](./106950-robot-runner.json) |
 | Robot Sex Party Murder | 186631 | [186631-robot-sex-party-murder.json](./186631-robot-sex-party-murder.json) |
 | Robot Squad Simulator | 119516 | [119516-robot-squad-simulator.json](./119516-robot-squad-simulator.json) |
 | Robot Squad Simulator 2017 | 34389 | [34389-robot-squad-simulator-2017.json](./34389-robot-squad-simulator-2017.json) |
