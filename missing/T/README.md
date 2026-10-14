@@ -1313,6 +1313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanjoubi: Kayoizuma (Jishou) Nikki | 77939 | [77939-tanjoubi-kayoizuma-jishou-nikki.json](./77939-tanjoubi-kayoizuma-jishou-nikki.json) |
 | Tank | 247025 | [247025-tank.json](./247025-tank.json) |
 | Tank 51 | 81649 | [81649-tank-51.json](./81649-tank-51.json) |
+| Tank Ace | 91852 | [91852-tank-ace.json](./91852-tank-ace.json) |
 | Tank Arena: Total Operation | 326208 | [326208-tank-arena-total-operation.json](./326208-tank-arena-total-operation.json) |
 | Tank Arkade | 24849 | [24849-tank-arkade.json](./24849-tank-arkade.json) |
 | Tank Army Battle Simulator | 102734 | [102734-tank-army-battle-simulator.json](./102734-tank-army-battle-simulator.json) |
@@ -20608,6 +20609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trench Warfare WW1: RTS Battle | 303792 | [303792-trench-warfare-ww1-rts-battle.json](./303792-trench-warfare-ww1-rts-battle.json) |
 | Trenchblocks | 417575 | [417575-trenchblocks.json](./417575-trenchblocks.json) |
 | Trenched | 21149 | [21149-trenched.json](./21149-trenched.json) |
+| Trenches | 91866 | [91866-trenches.json](./91866-trenches.json) |
 | Trenches 2 | 23926 | [23926-trenches-2.json](./23926-trenches-2.json) |
 | Trenches Generals | 85521 | [85521-trenches-generals.json](./85521-trenches-generals.json) |
 | Trenches II | 197763 | [197763-trenches-ii.json](./197763-trenches-ii.json) |
@@ -21123,6 +21125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trojan | 39993 | [39993-trojan.json](./39993-trojan.json) |
 | Trolddom | 321632 | [321632-trolddom.json](./321632-trolddom.json) |
 | Troll | 375849 | [375849-troll.json](./375849-troll.json) |
+| Troll & Armor | 91856 | [91856-troll-and-armor.json](./91856-troll-and-armor.json) |
 | Troll Control | 125146 | [125146-troll-control.json](./125146-troll-control.json) |
 | Troll Face Clicker Quest | 105860 | [105860-troll-face-clicker-quest.json](./105860-troll-face-clicker-quest.json) |
 | Troll Face Quest Horror | 351627 | [351627-troll-face-quest-horror.json](./351627-troll-face-quest-horror.json) |
