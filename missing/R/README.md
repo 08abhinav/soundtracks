@@ -1328,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapper Life Simulation | 158710 | [158710-rapper-life-simulation.json](./158710-rapper-life-simulation.json) |
 | Rappy Bird | 61873 | [61873-rappy-bird.json](./61873-rappy-bird.json) |
 | Rapsodie | 302749 | [302749-rapsodie.json](./302749-rapsodie.json) |
+| RapStar Tycoon | 103963 | [103963-rapstar-tycoon.json](./103963-rapstar-tycoon.json) |
 | Rapta | 315114 | [315114-rapta.json](./315114-rapta.json) |
 | Raptainment | 96845 | [96845-raptainment.json](./96845-raptainment.json) |
 | Raptor | 352790 | [352790-raptor.json](./352790-raptor.json) |
