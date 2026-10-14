@@ -909,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawairun | 332634 | [332634-kawairun.json](./332634-kawairun.json) |
 | Kawanakajima Ibunroku | 255106 | [255106-kawanakajima-ibunroku.json](./255106-kawanakajima-ibunroku.json) |
 | Kawanakajima no Kassen | 76948 | [76948-kawanakajima-no-kassen.json](./76948-kawanakajima-no-kassen.json) |
+| Kawasaki ATV PowerSports | 92931 | [92931-kawasaki-atv-powersports.json](./92931-kawasaki-atv-powersports.json) |
 | Kawasaki Caribbean Challenge | 42508 | [42508-kawasaki-caribbean-challenge.json](./42508-kawasaki-caribbean-challenge.json) |
 | Kawasaki Devils | 376881 | [376881-kawasaki-devils.json](./376881-kawasaki-devils.json) |
 | Kawasaki Jet Ski Watercraft | 78659 | [78659-kawasaki-jet-ski-watercraft.json](./78659-kawasaki-jet-ski-watercraft.json) |
