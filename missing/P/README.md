@@ -3830,7 +3830,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PhotoWorld | 209966 | [209966-photoworld.json](./209966-photoworld.json) |
 | Phrase Craze Plus | 229804 | [229804-phrase-craze-plus.json](./229804-phrase-craze-plus.json) |
 | Phrase Frenzy - Catch It! | 108598 | [108598-phrase-frenzy-catch-it.json](./108598-phrase-frenzy-catch-it.json) |
-| Phrase Passport Japan A Travel Japanese Quiz | 407270 | [407270-phrase-passport-japan-a-travel-japanese-quiz.json](./407270-phrase-passport-japan-a-travel-japanese-quiz.json) |
 | Phrasefight | 106115 | [106115-phrasefight.json](./106115-phrasefight.json) |
 | Phraze Craze | 307911 | [307911-phraze-craze.json](./307911-phraze-craze.json) |
 | Phraze Daze: Famous Quotes Word Game | 68742 | [68742-phraze-daze-famous-quotes-word-game.json](./68742-phraze-daze-famous-quotes-word-game.json) |
@@ -4108,6 +4107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PictoImage | 84824 | [84824-pictoimage.json](./84824-pictoimage.json) |
 | Pictooi | 154591 | [154591-pictooi.json](./154591-pictooi.json) |
 | PictoParty | 58457 | [58457-pictoparty.json](./58457-pictoparty.json) |
+| Pictopix: Mosaics | 116210 | [116210-pictopix-mosaics.json](./116210-pictopix-mosaics.json) |
 | PictoPull | 212811 | [212811-pictopull.json](./212811-pictopull.json) |
 | Pictorbit | 414358 | [414358-pictorbit.json](./414358-pictorbit.json) |
 | Pictos | 175277 | [175277-pictos.json](./175277-pictos.json) |
@@ -10820,6 +10820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Projekt: Passion - Season 2 | 297187 | [297187-projekt-passion-season-2.json](./297187-projekt-passion-season-2.json) |
 | Prokshov | 143728 | [143728-prokshov.json](./143728-prokshov.json) |
 | Prologue | 127345 | [127345-prologue.json](./127345-prologue.json) |
+| Prologue For A Vacant Kingdom | 116206 | [116206-prologue-for-a-vacant-kingdom.json](./116206-prologue-for-a-vacant-kingdom.json) |
 | Prologue: Go Wayback! | 324576 | [324576-prologue-go-wayback.json](./324576-prologue-go-wayback.json) |
 | Promessa | 329677 | [329677-promessa.json](./329677-promessa.json) |
 | Promethean Thirst | 405695 | [405695-promethean-thirst.json](./405695-promethean-thirst.json) |
