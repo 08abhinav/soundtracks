@@ -4749,7 +4749,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evol Online | 122784 | [122784-evol-online.json](./122784-evol-online.json) |
 | Evoland | 2029 | [2029-evoland.json](./2029-evoland.json) |
 | Evoland 1 & 2: 10th Anniversary Edition | 270590 | [270590-evoland-1-and-2-10th-anniversary-edition.json](./270590-evoland-1-and-2-10th-anniversary-edition.json) |
-| Evoland 2 | 11798 | [11798-evoland-2.json](./11798-evoland-2.json) |
 | Evoland Classic | 315652 | [315652-evoland-classic.json](./315652-evoland-classic.json) |
 | Evoland Legendary Edition | 114910 | [114910-evoland-legendary-edition.json](./114910-evoland-legendary-edition.json) |
 | EvoLife | 323744 | [323744-evolife.json](./323744-evolife.json) |
