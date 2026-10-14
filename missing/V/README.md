@@ -1501,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Vengeance | 118779 | [118779-viking-vengeance.json](./118779-viking-vengeance.json) |
 | Viking Village | 88823 | [88823-viking-village.json](./88823-viking-village.json) |
 | Viking: Battle for Asgard | 7234 | [7234-viking-battle-for-asgard.json](./7234-viking-battle-for-asgard.json) |
+| Viking: Heroes War | 89827 | [89827-viking-heroes-war.json](./89827-viking-heroes-war.json) |
 | Viking: Sagas of the Norse Lands | 216394 | [216394-viking-sagas-of-the-norse-lands.json](./216394-viking-sagas-of-the-norse-lands.json) |
 | Viking: Sigurd's Adventure | 115000 | [115000-viking-sigurds-adventure.json](./115000-viking-sigurds-adventure.json) |
 | Viking's Drakkars | 95235 | [95235-vikings-drakkars.json](./95235-vikings-drakkars.json) |
