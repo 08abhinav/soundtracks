@@ -1821,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Task: 312 | 144861 | [144861-task-312.json](./144861-task-312.json) |
 | Taskforce: The Mutants of October Morgane | 153493 | [153493-taskforce-the-mutants-of-october-morgane.json](./153493-taskforce-the-mutants-of-october-morgane.json) |
 | Tasking | 261973 | [261973-tasking.json](./261973-tasking.json) |
+| TaskMaker | 131288 | [131288-taskmaker.json](./131288-taskmaker.json) |
 | Tasks for Two | 368277 | [368277-tasks-for-two.json](./368277-tasks-for-two.json) |
 | Tasogare | 313493 | [313493-tasogare.json](./313493-tasogare.json) |
 | Tasogare Sakaba: Uwabami Breakers | 123588 | [123588-tasogare-sakaba-uwabami-breakers.json](./123588-tasogare-sakaba-uwabami-breakers.json) |
@@ -9491,6 +9492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Normal Day | 38997 | [38997-the-normal-day.json](./38997-the-normal-day.json) |
 | The Normal Turnabout | 310410 | [310410-the-normal-turnabout.json](./310410-the-normal-turnabout.json) |
 | The North | 299771 | [299771-the-north.json](./299771-the-north.json) |
+| The North King | 130630 | [130630-the-north-king.json](./130630-the-north-king.json) |
 | The North Pole | 127227 | [127227-the-north-pole.json](./127227-the-north-pole.json) |
 | The North Road Remastered | 345131 | [345131-the-north-road-remastered.json](./345131-the-north-road-remastered.json) |
 | The Northern Gate: Special Agent | 191118 | [191118-the-northern-gate-special-agent.json](./191118-the-northern-gate-special-agent.json) |
@@ -10506,6 +10508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sandbox - Building & Craft | 90705 | [90705-the-sandbox-building-and-craft.json](./90705-the-sandbox-building-and-craft.json) |
 | The Sands of Egypt | 23688 | [23688-the-sands-of-egypt.json](./23688-the-sands-of-egypt.json) |
 | The Sands of Voltark | 131944 | [131944-the-sands-of-voltark.json](./131944-the-sands-of-voltark.json) |
+| The Santa Challenge | 130641 | [130641-the-santa-challenge.json](./130641-the-santa-challenge.json) |
 | The Santa Paradox | 156903 | [156903-the-santa-paradox.json](./156903-the-santa-paradox.json) |
 | The Sapling | 126479 | [126479-the-sapling.json](./126479-the-sapling.json) |
 | The Sapper | 74677 | [74677-the-sapper.json](./74677-the-sapper.json) |
@@ -13918,6 +13921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiffany Alvord Dream World | 233079 | [233079-tiffany-alvord-dream-world.json](./233079-tiffany-alvord-dream-world.json) |
 | Tiffy's Magical Tales: Pinocchio | 323976 | [323976-tiffys-magical-tales-pinocchio.json](./323976-tiffys-magical-tales-pinocchio.json) |
 | Tiger & Bunny: Hero's Day | 63842 | [63842-tiger-and-bunny-heros-day.json](./63842-tiger-and-bunny-heros-day.json) |
+| Tiger Casino | 131276 | [131276-tiger-casino.json](./131276-tiger-casino.json) |
 | Tiger Casino & Slot Game | 373625 | [373625-tiger-casino-and-slot-game.json](./373625-tiger-casino-and-slot-game.json) |
 | Tiger Eye Part I: Curse of the Riddle Box | 206789 | [206789-tiger-eye-part-i-curse-of-the-riddle-box.json](./206789-tiger-eye-part-i-curse-of-the-riddle-box.json) |
 | Tiger Fighter 1931 Tora!: MP028 | 173654 | [173654-tiger-fighter-1931-tora-mp028.json](./173654-tiger-fighter-1931-tora-mp028.json) |
@@ -20763,6 +20767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triptych Book I: Blockhead | 328400 | [328400-triptych-book-i-blockhead.json](./328400-triptych-book-i-blockhead.json) |
 | Tripuzz | 273561 | [273561-tripuzz.json](./273561-tripuzz.json) |
 | Trireme Commander | 81738 | [81738-trireme-commander.json](./81738-trireme-commander.json) |
+| Trisker | 130647 | [130647-trisker.json](./130647-trisker.json) |
 | Trism | 29043 | [29043-trism.json](./29043-trism.json) |
 | Trism 2 | 109506 | [109506-trism-2.json](./109506-trism-2.json) |
 | Tristan | 96532 | [96532-tristan.json](./96532-tristan.json) |
