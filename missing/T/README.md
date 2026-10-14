@@ -3040,7 +3040,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator 2: Judgment Day - Chess Wars | 14557 | [14557-terminator-2-judgment-day-chess-wars.json](./14557-terminator-2-judgment-day-chess-wars.json) |
 | Terminator 3: Rise of the Machines | 6196 | [6196-terminator-3-rise-of-the-machines.json](./6196-terminator-3-rise-of-the-machines.json) |
 | Terminator Salvation | 142768 | [142768-terminator-salvation.json](./142768-terminator-salvation.json) |
-| Terminator Salvation | 4204 | [4204-terminator-salvation.json](./4204-terminator-salvation.json) |
 | Terminator: Dark Fate | 287867 | [287867-terminator-dark-fate.json](./287867-terminator-dark-fate.json) |
 | Terminator: Dark Fate - Defiance: Evolution | 380994 | [380994-terminator-dark-fate-defiance-evolution.json](./380994-terminator-dark-fate-defiance-evolution.json) |
 | Terminator: Dark Fate - Defiance: We are Legion | 320901 | [320901-terminator-dark-fate-defiance-we-are-legion.json](./320901-terminator-dark-fate-defiance-we-are-legion.json) |
@@ -7825,7 +7824,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XIII: Iori with the Power of Flames | 404927 | [404927-the-king-of-fighters-xiii-iori-with-the-power-of-flames.json](./404927-the-king-of-fighters-xiii-iori-with-the-power-of-flames.json) |
 | The King of Fighters XIII: Mr. Karate | 404942 | [404942-the-king-of-fighters-xiii-mr-karate.json](./404942-the-king-of-fighters-xiii-mr-karate.json) |
 | The King of Fighters XIII: Nests Style Kyo | 404922 | [404922-the-king-of-fighters-xiii-nests-style-kyo.json](./404922-the-king-of-fighters-xiii-nests-style-kyo.json) |
-| The King of Fighters XIV | 18814 | [18814-the-king-of-fighters-xiv.json](./18814-the-king-of-fighters-xiv.json) |
 | The King of Fighters XIV Steam Edition | 36636 | [36636-the-king-of-fighters-xiv-steam-edition.json](./36636-the-king-of-fighters-xiv-steam-edition.json) |
 | The King of Fighters XIV: 4 Character Bundle Pack 2 | 320246 | [320246-the-king-of-fighters-xiv-4-character-bundle-pack-2.json](./320246-the-king-of-fighters-xiv-4-character-bundle-pack-2.json) |
 | The King of Fighters XIV: Angel Diabla Costume | 342572 | [342572-the-king-of-fighters-xiv-angel-diabla-costume.json](./342572-the-king-of-fighters-xiv-angel-diabla-costume.json) |
@@ -7889,6 +7887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kingdom of Galanor | 169837 | [169837-the-kingdom-of-galanor.json](./169837-the-kingdom-of-galanor.json) |
 | The Kingdom of Gardenia | 138517 | [138517-the-kingdom-of-gardenia.json](./138517-the-kingdom-of-gardenia.json) |
 | The Kingdom of God | 371479 | [371479-the-kingdom-of-god.json](./371479-the-kingdom-of-god.json) |
+| The Kingdom of Loathing | 79796 | [79796-the-kingdom-of-loathing.json](./79796-the-kingdom-of-loathing.json) |
 | The Kingdom of Syree II: Black Magic | 231536 | [231536-the-kingdom-of-syree-ii-black-magic.json](./231536-the-kingdom-of-syree-ii-black-magic.json) |
 | The Kingdom of Syree III: The Depths of Hell | 231537 | [231537-the-kingdom-of-syree-iii-the-depths-of-hell.json](./231537-the-kingdom-of-syree-iii-the-depths-of-hell.json) |
 | The Kingdoms of Ædloran | 389674 | [389674-the-kingdoms-of-dloran.json](./389674-the-kingdoms-of-dloran.json) |
