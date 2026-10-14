@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oath | 127647 | [127647-oath.json](./127647-oath.json) |
 | Oath | 169955 | [169955-oath.json](./169955-oath.json) |
 | Oath | 311762 | [311762-oath.json](./311762-oath.json) |
+| Oath MMORPG | 124532 | [124532-oath-mmorpg.json](./124532-oath-mmorpg.json) |
 | Oath of Miko | 171470 | [171470-oath-of-miko.json](./171470-oath-of-miko.json) |
 | Oath of peak | 231920 | [231920-oath-of-peak.json](./231920-oath-of-peak.json) |
 | Oath: There is a You That Remains | 375414 | [375414-oath-there-is-a-you-that-remains.json](./375414-oath-there-is-a-you-that-remains.json) |
