@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N-raged | 180037 | [180037-n-raged.json](./180037-n-raged.json) |
 | N-Warp Daisakusen | 37735 | [37735-n-warp-daisakusen.json](./37735-n-warp-daisakusen.json) |
 | N.a.N Industry VR | 123559 | [123559-n-a-n-industry-vr.json](./123559-n-a-n-industry-vr.json) |
+| N.E.O | 125092 | [125092-n-e-o.json](./125092-n-e-o.json) |
 | N.E.O.N.: Never-Ending Onslaught of Nerds | 152922 | [152922-n-e-o-n-never-ending-onslaught-of-nerds.json](./152922-n-e-o-n-never-ending-onslaught-of-nerds.json) |
 | N.E.R.O.: Nothing Ever Remains Obscure | 8256 | [8256-n-e-r-o-nothing-ever-remains-obscure.json](./8256-n-e-r-o-nothing-ever-remains-obscure.json) |
 | N.E.W. D.A.Y. | 119008 | [119008-n-e-w-d-a-y.json](./119008-n-e-w-d-a-y.json) |
@@ -712,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty Young Wife | 97937 | [97937-naughty-young-wife.json](./97937-naughty-young-wife.json) |
 | Nauka Prediel | 202401 | [202401-nauka-prediel.json](./202401-nauka-prediel.json) |
 | Naus | 304916 | [304916-naus.json](./304916-naus.json) |
+| Nauseous Pines | 126906 | [126906-nauseous-pines.json](./126906-nauseous-pines.json) |
 | Nautical Dispute | 257856 | [257856-nautical-dispute.json](./257856-nautical-dispute.json) |
 | Nautical Life | 95190 | [95190-nautical-life.json](./95190-nautical-life.json) |
 | Nautical Survival | 295505 | [295505-nautical-survival.json](./295505-nautical-survival.json) |
@@ -1344,6 +1346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Don Don! | 385332 | [385332-neko-don-don.json](./385332-neko-don-don.json) |
 | Neko Gacha | 228543 | [228543-neko-gacha.json](./228543-neko-gacha.json) |
 | Neko Gelato | 353995 | [353995-neko-gelato.json](./353995-neko-gelato.json) |
+| Neko Ghost, Jump! | 126329 | [126329-neko-ghost-jump.json](./126329-neko-ghost-jump.json) |
 | Neko Girls | 368109 | [368109-neko-girls.json](./368109-neko-girls.json) |
 | Neko Golf: Anime Golf | 223126 | [223126-neko-golf-anime-golf.json](./223126-neko-golf-anime-golf.json) |
 | Neko Hacker Plus | 169779 | [169779-neko-hacker-plus.json](./169779-neko-hacker-plus.json) |
@@ -2561,6 +2564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 25 | 314499 | [314499-nhl-25.json](./314499-nhl-25.json) |
 | NHL 27 | 408771 | [408771-nhl-27.json](./408771-nhl-27.json) |
 | NHL 27: Deluxe Edition | 410860 | [410860-nhl-27-deluxe-edition.json](./410860-nhl-27-deluxe-edition.json) |
+| NHL 2K | 128897 | [128897-nhl-2k.json](./128897-nhl-2k.json) |
 | NHL 2K10 | 287014 | [287014-nhl-2k10.json](./287014-nhl-2k10.json) |
 | NHL 2K2 | 8840 | [8840-nhl-2k2.json](./8840-nhl-2k2.json) |
 | NHL 2K3 | 4045 | [4045-nhl-2k3.json](./4045-nhl-2k3.json) |
@@ -4423,6 +4427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norco | 129097 | [129097-norco.json](./129097-norco.json) |
 | Nordhold | 308349 | [308349-nordhold.json](./308349-nordhold.json) |
 | Nordic Ashes: Survivors of Ragnarok - Twilight of Yggdrasil | 409034 | [409034-nordic-ashes-survivors-of-ragnarok-twilight-of-yggdrasil.json](./409034-nordic-ashes-survivors-of-ragnarok-twilight-of-yggdrasil.json) |
+| Nordic Storm Solitaire | 127682 | [127682-nordic-storm-solitaire.json](./127682-nordic-storm-solitaire.json) |
 | Nordicandia | 144947 | [144947-nordicandia.json](./144947-nordicandia.json) |
 | Nordlicht | 119776 | [119776-nordlicht.json](./119776-nordlicht.json) |
 | Nords and Fjords | 181123 | [181123-nords-and-fjords.json](./181123-nords-and-fjords.json) |
@@ -5118,6 +5123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nutty Nemesis: Nile's Downfall | 371751 | [371751-nutty-nemesis-niles-downfall.json](./371751-nutty-nemesis-niles-downfall.json) |
 | Nutty Noon | 240329 | [240329-nutty-noon.json](./240329-nutty-noon.json) |
 | Nutz Revenge | 302942 | [302942-nutz-revenge.json](./302942-nutz-revenge.json) |
+| Nuvavult | 126360 | [126360-nuvavult.json](./126360-nuvavult.json) |
 | Nuvoid | 25906 | [25906-nuvoid.json](./25906-nuvoid.json) |
 | Nǚwáng | 407321 | [407321-nuwang.json](./407321-nuwang.json) |
 | Nuwe: First seeds | 199099 | [199099-nuwe-first-seeds.json](./199099-nuwe-first-seeds.json) |
