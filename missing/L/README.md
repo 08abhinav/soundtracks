@@ -6074,6 +6074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Löwenzahn 7: Geschichten aus Natur, Umwelt und Technik | 374192 | [374192-lowenzahn-7-geschichten-aus-natur-umwelt-und-technik.json](./374192-lowenzahn-7-geschichten-aus-natur-umwelt-und-technik.json) |
 | Löwenzahn: Geschichten aus Natur, Umwelt und Technik | 250534 | [250534-lowenzahn-geschichten-aus-natur-umwelt-und-technik.json](./250534-lowenzahn-geschichten-aus-natur-umwelt-und-technik.json) |
 | Lower Forecourt | 271370 | [271370-lower-forecourt.json](./271370-lower-forecourt.json) |
+| Lower to Higher | 102072 | [102072-lower-to-higher.json](./102072-lower-to-higher.json) |
 | Lower? Higher! | 303640 | [303640-lower-higher.json](./303640-lower-higher.json) |
 | Lowland Keepers | 328956 | [328956-lowland-keepers.json](./328956-lowland-keepers.json) |
 | Lowlander II: Lowerlander | 104706 | [104706-lowlander-ii-lowerlander.json](./104706-lowlander-ii-lowerlander.json) |
