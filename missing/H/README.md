@@ -7997,7 +7997,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt: Showdown 1896 - When Shadows Dance | 265773 | [265773-hunt-showdown-1896-when-shadows-dance.json](./265773-hunt-showdown-1896-when-shadows-dance.json) |
 | Hunt3r | 215305 | [215305-hunt3r.json](./215305-hunt3r.json) |
 | HuntCore | 391807 | [391807-huntcore.json](./391807-huntcore.json) |
-| Huntdown | 19728 | [19728-huntdown.json](./19728-huntdown.json) |
 | Huntdown: Collector's Edition | 152327 | [152327-huntdown-collectors-edition.json](./152327-huntdown-collectors-edition.json) |
 | Huntdown: Overtime | 387607 | [387607-huntdown-overtime.json](./387607-huntdown-overtime.json) |
 | Hunted | 168933 | [168933-hunted.json](./168933-hunted.json) |
