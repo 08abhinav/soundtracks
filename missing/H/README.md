@@ -3004,6 +3004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellpit 3D Platformer | 308517 | [308517-hellpit-3d-platformer.json](./308517-hellpit-3d-platformer.json) |
 | Hellpoint: Blue Sun | 164816 | [164816-hellpoint-blue-sun.json](./164816-hellpoint-blue-sun.json) |
 | Hellpoint: Signature Edition | 139838 | [139838-hellpoint-signature-edition.json](./139838-hellpoint-signature-edition.json) |
+| Hellpoint: The Thespian Feast | 130063 | [130063-hellpoint-the-thespian-feast.json](./130063-hellpoint-the-thespian-feast.json) |
 | Hellpoint: Ultimate Edition | 209688 | [209688-hellpoint-ultimate-edition.json](./209688-hellpoint-ultimate-edition.json) |
 | Hellpunk | 129671 | [129671-hellpunk.json](./129671-hellpunk.json) |
 | HellPunk: Purgatorium | 349925 | [349925-hellpunk-purgatorium.json](./349925-hellpunk-purgatorium.json) |
@@ -6119,6 +6120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Bee | 71186 | [71186-honey-bee.json](./71186-honey-bee.json) |
 | Honey Bee With Guns | 298663 | [298663-honey-bee-with-guns.json](./298663-honey-bee-with-guns.json) |
 | Honey Bunny | 265699 | [265699-honey-bunny.json](./265699-honey-bunny.json) |
+| Honey Dance | 130083 | [130083-honey-dance.json](./130083-honey-dance.json) |
 | Honey Dolls | 37338 | [37338-honey-dolls.json](./37338-honey-dolls.json) |
 | Honey Guardian | 212430 | [212430-honey-guardian.json](./212430-honey-guardian.json) |
 | Honey Guardian | 341651 | [341651-honey-guardian.json](./341651-honey-guardian.json) |
@@ -6241,6 +6243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honoo no Toukyuuji: Dodge Danpei | 42053 | [42053-honoo-no-toukyuuji-dodge-danpei.json](./42053-honoo-no-toukyuuji-dodge-danpei.json) |
 | Honor Battle | 303565 | [303565-honor-battle.json](./303565-honor-battle.json) |
 | Honor Cry: Aftermath | 102946 | [102946-honor-cry-aftermath.json](./102946-honor-cry-aftermath.json) |
+| Honor Hill | 130110 | [130110-honor-hill.json](./130110-honor-hill.json) |
 | Honor in Vengeance | 66108 | [66108-honor-in-vengeance.json](./66108-honor-in-vengeance.json) |
 | Honor Mice | 390588 | [390588-honor-mice.json](./390588-honor-mice.json) |
 | Honor of Heirs | 193876 | [193876-honor-of-heirs.json](./193876-honor-of-heirs.json) |
