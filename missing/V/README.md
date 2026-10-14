@@ -956,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vengeance/Justification | 395573 | [395573-vengeance-justification.json](./395573-vengeance-justification.json) |
 | Vengeful Bat Dungeon Crawler | 116837 | [116837-vengeful-bat-dungeon-crawler.json](./116837-vengeful-bat-dungeon-crawler.json) |
 | Vengeful Guardian: Moonrider | 213741 | [213741-vengeful-guardian-moonrider.json](./213741-vengeful-guardian-moonrider.json) |
+| Vengeful Heart | 120056 | [120056-vengeful-heart.json](./120056-vengeful-heart.json) |
 | Venial Sin | 396539 | [396539-venial-sin.json](./396539-venial-sin.json) |
 | Venice Deluxe | 21448 | [21448-venice-deluxe.json](./21448-venice-deluxe.json) |
 | Venice Master | 197205 | [197205-venice-master.json](./197205-venice-master.json) |
@@ -2443,6 +2444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxatron | 51288 | [51288-voxatron.json](./51288-voxatron.json) |
 | Voxel - 3D Color by Number | 95094 | [95094-voxel-3d-color-by-number.json](./95094-voxel-3d-color-by-number.json) |
 | Voxel Blast | 34652 | [34652-voxel-blast.json](./34652-voxel-blast.json) |
+| Voxel Bot | 119473 | [119473-voxel-bot.json](./119473-voxel-bot.json) |
 | Voxel Crusade | 120689 | [120689-voxel-crusade.json](./120689-voxel-crusade.json) |
 | Voxel Delvers | 381686 | [381686-voxel-delvers.json](./381686-voxel-delvers.json) |
 | Voxel Digger | 195591 | [195591-voxel-digger.json](./195591-voxel-digger.json) |
