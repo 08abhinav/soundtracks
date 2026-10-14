@@ -940,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hannah and the Kreludor Caves | 338381 | [338381-hannah-and-the-kreludor-caves.json](./338381-hannah-and-the-kreludor-caves.json) |
 | Hannah and the Pirate Caves | 338358 | [338358-hannah-and-the-pirate-caves.json](./338358-hannah-and-the-pirate-caves.json) |
 | Hannah Montana | 230314 | [230314-hannah-montana.json](./230314-hannah-montana.json) |
+| Hannah Montana | 85966 | [85966-hannah-montana.json](./85966-hannah-montana.json) |
 | Hannah Montana: DVD Game | 228444 | [228444-hannah-montana-dvd-game.json](./228444-hannah-montana-dvd-game.json) |
 | Hannah Montana: Music Jam | 21514 | [21514-hannah-montana-music-jam.json](./21514-hannah-montana-music-jam.json) |
 | Hannah Montana: One in a Million | 220093 | [220093-hannah-montana-one-in-a-million.json](./220093-hannah-montana-one-in-a-million.json) |
@@ -1588,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hasbro Game Night for Nintendo Switch | 110394 | [110394-hasbro-game-night-for-nintendo-switch.json](./110394-hasbro-game-night-for-nintendo-switch.json) |
 | Hasbro Kids Bundle | 247582 | [247582-hasbro-kids-bundle.json](./247582-hasbro-kids-bundle.json) |
 | Hasbro Toy Factory | 282240 | [282240-hasbro-toy-factory.json](./282240-hasbro-toy-factory.json) |
+| Hasbro's Battleship | 85991 | [85991-hasbros-battleship.json](./85991-hasbros-battleship.json) |
 | Hasegawa Nozomi | 355180 | [355180-hasegawa-nozomi.json](./355180-hasegawa-nozomi.json) |
 | Hash Line | 120402 | [120402-hash-line.json](./120402-hash-line.json) |
 | Hashi: Bridges | 391842 | [391842-hashi-bridges.json](./391842-hashi-bridges.json) |
