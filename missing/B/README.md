@@ -2433,6 +2433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Dodge Ball 3 | 56519 | [56519-battle-dodge-ball-3.json](./56519-battle-dodge-ball-3.json) |
 | Battle Dodgeball | 38350 | [38350-battle-dodgeball.json](./38350-battle-dodgeball.json) |
 | Battle Dome | 143586 | [143586-battle-dome.json](./143586-battle-dome.json) |
+| Battle Dome Redux | 126917 | [126917-battle-dome-redux.json](./126917-battle-dome-redux.json) |
 | Battle Drive | 369444 | [369444-battle-drive.json](./369444-battle-drive.json) |
 | Battle Droid T1 | 119500 | [119500-battle-droid-t1.json](./119500-battle-droid-t1.json) |
 | Battle Drones: Red Rock Resistance | 226237 | [226237-battle-drones-red-rock-resistance.json](./226237-battle-drones-red-rock-resistance.json) |
@@ -3560,6 +3561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat!: After the Summer - Another Season Episode | 241326 | [241326-beat-after-the-summer-another-season-episode.json](./241326-beat-after-the-summer-another-season-episode.json) |
 | Beat'n Groovy | 84325 | [84325-beatn-groovy.json](./84325-beatn-groovy.json) |
 | Beatable | 342096 | [342096-beatable.json](./342096-beatable.json) |
+| BeatAim | 126945 | [126945-beataim.json](./126945-beataim.json) |
 | BeatBlast: Rhythm Rampage | 325006 | [325006-beatblast-rhythm-rampage.json](./325006-beatblast-rhythm-rampage.json) |
 | BeatBlasters III | 9045 | [9045-beatblasters-iii.json](./9045-beatblasters-iii.json) |
 | BeatBlox | 68648 | [68648-beatblox.json](./68648-beatblox.json) |
@@ -8840,6 +8842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bot Hunt | 293110 | [293110-bot-hunt.json](./293110-bot-hunt.json) |
 | Bot Hunter | 330147 | [330147-bot-hunter.json](./330147-bot-hunter.json) |
 | Bot Land | 77405 | [77405-bot-land.json](./77405-bot-land.json) |
+| Bot Net: Ramshackle Robotics | 126893 | [126893-bot-net-ramshackle-robotics.json](./126893-bot-net-ramshackle-robotics.json) |
 | Bot Patrol | 291040 | [291040-bot-patrol.json](./291040-bot-patrol.json) |
 | Bot Slash Bot | 361871 | [361871-bot-slash-bot.json](./361871-bot-slash-bot.json) |
 | Bot Tales: The Crashed | 104048 | [104048-bot-tales-the-crashed.json](./104048-bot-tales-the-crashed.json) |
