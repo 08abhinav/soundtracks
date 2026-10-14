@@ -1590,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eleutheria | 177344 | [177344-eleutheria.json](./177344-eleutheria.json) |
 | Elevate | 312715 | [312715-elevate.json](./312715-elevate.json) |
 | Elevated | 155027 | [155027-elevated.json](./155027-elevated.json) |
+| Elevating Experience: The Game | 102673 | [102673-elevating-experience-the-game.json](./102673-elevating-experience-the-game.json) |
 | Elevation | 384134 | [384134-elevation.json](./384134-elevation.json) |
 | Elevatium: Puzzle of Atlantis | 185436 | [185436-elevatium-puzzle-of-atlantis.json](./185436-elevatium-puzzle-of-atlantis.json) |
 | Elevator | 246848 | [246848-elevator.json](./246848-elevator.json) |
@@ -2118,6 +2119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire of Angels IV: Limited Edition | 166264 | [166264-empire-of-angels-iv-limited-edition.json](./166264-empire-of-angels-iv-limited-edition.json) |
 | Empire of Atlantis | 66950 | [66950-empire-of-atlantis.json](./66950-empire-of-atlantis.json) |
 | Empire of Empires | 211966 | [211966-empire-of-empires.json](./211966-empire-of-empires.json) |
+| Empire of Gnomes | 102701 | [102701-empire-of-gnomes.json](./102701-empire-of-gnomes.json) |
 | Empire of Revenant | 221180 | [221180-empire-of-revenant.json](./221180-empire-of-revenant.json) |
 | Empire of Sin: Day One Edition | 176888 | [176888-empire-of-sin-day-one-edition.json](./176888-empire-of-sin-day-one-edition.json) |
 | Empire of Sin: Deluxe Edition | 143486 | [143486-empire-of-sin-deluxe-edition.json](./143486-empire-of-sin-deluxe-edition.json) |
