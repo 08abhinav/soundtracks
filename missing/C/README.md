@@ -7621,6 +7621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coldline | 227913 | [227913-coldline.json](./227913-coldline.json) |
 | Coldplay Canoodlers | 356110 | [356110-coldplay-canoodlers.json](./356110-coldplay-canoodlers.json) |
 | ColdSide: Retro Edition | 410206 | [410206-coldside-retro-edition.json](./410206-coldside-retro-edition.json) |
+| Coldstone: Scoop It Up | 79153 | [79153-coldstone-scoop-it-up.json](./79153-coldstone-scoop-it-up.json) |
 | Coldsweat and Tears | 316073 | [316073-coldsweat-and-tears.json](./316073-coldsweat-and-tears.json) |
 | ColdTrace | 414316 | [414316-coldtrace.json](./414316-coldtrace.json) |
 | Coldwake | 347654 | [347654-coldwake.json](./347654-coldwake.json) |
@@ -10979,6 +10980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Chicken: Pirates | 282572 | [282572-crazy-chicken-pirates.json](./282572-crazy-chicken-pirates.json) |
 | Crazy Chicken: Shooter Edition | 143060 | [143060-crazy-chicken-shooter-edition.json](./143060-crazy-chicken-shooter-edition.json) |
 | Crazy Chicken: Star Karts | 47909 | [47909-crazy-chicken-star-karts.json](./47909-crazy-chicken-star-karts.json) |
+| Crazy Chicken: The Good, The Egg, and the Ugly | 79166 | [79166-crazy-chicken-the-good-the-egg-and-the-ugly.json](./79166-crazy-chicken-the-good-the-egg-and-the-ugly.json) |
 | Crazy Chicken: The Winged Pharaoh | 144592 | [144592-crazy-chicken-the-winged-pharaoh.json](./144592-crazy-chicken-the-winged-pharaoh.json) |
 | Crazy Chicken: Wanted | 72268 | [72268-crazy-chicken-wanted.json](./72268-crazy-chicken-wanted.json) |
 | Crazy Christmas | 101762 | [101762-crazy-christmas.json](./101762-crazy-christmas.json) |
@@ -11942,6 +11944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossworders' Dictionary and Gazetteer 4 | 88651 | [88651-crossworders-dictionary-and-gazetteer-4.json](./88651-crossworders-dictionary-and-gazetteer-4.json) |
 | Crosswords | 89675 | [89675-crosswords.json](./89675-crosswords.json) |
 | Crosswords & More for Windows | 94638 | [94638-crosswords-and-more-for-windows.json](./94638-crosswords-and-more-for-windows.json) |
+| Crosswords & Word Games | 79165 | [79165-crosswords-and-word-games.json](./79165-crosswords-and-word-games.json) |
 | Crosswords and More | 282843 | [282843-crosswords-and-more.json](./282843-crosswords-and-more.json) |
 | Crosswords Classic | 97301 | [97301-crosswords-classic.json](./97301-crosswords-classic.json) |
 | Crosswords With Friends | 90063 | [90063-crosswords-with-friends.json](./90063-crosswords-with-friends.json) |
