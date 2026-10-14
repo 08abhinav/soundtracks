@@ -918,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldur's Gate and Baldur's Gate II: Enhanced Editions | 124786 | [124786-baldurs-gate-and-baldurs-gate-ii-enhanced-editions.json](./124786-baldurs-gate-and-baldurs-gate-ii-enhanced-editions.json) |
 | Baldur's Gate Compilation | 141859 | [141859-baldurs-gate-compilation.json](./141859-baldurs-gate-compilation.json) |
 | Baldur's Gate II: Enhanced Edition | 5613 | [5613-baldurs-gate-ii-enhanced-edition.json](./5613-baldurs-gate-ii-enhanced-edition.json) |
+| Baldur's Gate II: Shadows of Amn - Collectors' Edition | 91241 | [91241-baldurs-gate-ii-shadows-of-amn-collectors-edition.json](./91241-baldurs-gate-ii-shadows-of-amn-collectors-edition.json) |
 | Baldur's Gate II: Throne of Bhaal | 82 | [82-baldurs-gate-ii-throne-of-bhaal.json](./82-baldurs-gate-ii-throne-of-bhaal.json) |
 | Baldur's Gate III: The Black Hound | 357173 | [357173-baldurs-gate-iii-the-black-hound.json](./357173-baldurs-gate-iii-the-black-hound.json) |
 | Baldur's Gate: Dark Alliance | 243015 | [243015-baldurs-gate-dark-alliance.json](./243015-baldurs-gate-dark-alliance.json) |
@@ -7186,6 +7187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloktris | 267558 | [267558-bloktris.json](./267558-bloktris.json) |
 | Bloku! | 259541 | [259541-bloku.json](./259541-bloku.json) |
 | Blokus World Tour | 51405 | [51405-blokus-world-tour.json](./51405-blokus-world-tour.json) |
+| Blokus: Attack, Block & Defend! | 91313 | [91313-blokus-attack-block-and-defend.json](./91313-blokus-attack-block-and-defend.json) |
 | Blomby Car | 39816 | [39816-blomby-car.json](./39816-blomby-car.json) |
 | Blomst | 181911 | [181911-blomst.json](./181911-blomst.json) |
 | Blon | 167682 | [167682-blon.json](./167682-blon.json) |
@@ -7239,6 +7241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Bowl 2: Lizardmen | 52649 | [52649-blood-bowl-2-lizardmen.json](./52649-blood-bowl-2-lizardmen.json) |
 | Blood Bowl 2: Norse | 341549 | [341549-blood-bowl-2-norse.json](./341549-blood-bowl-2-norse.json) |
 | Blood Bowl 2: Nurgle | 341550 | [341550-blood-bowl-2-nurgle.json](./341550-blood-bowl-2-nurgle.json) |
+| Blood Bowl 2: Official Expansion | 91327 | [91327-blood-bowl-2-official-expansion.json](./91327-blood-bowl-2-official-expansion.json) |
 | Blood Bowl 2: The Necromantic | 52651 | [52651-blood-bowl-2-the-necromantic.json](./52651-blood-bowl-2-the-necromantic.json) |
 | Blood Bowl 2: Undead | 52650 | [52650-blood-bowl-2-undead.json](./52650-blood-bowl-2-undead.json) |
 | Blood Bowl 2: Wood Elves | 52648 | [52648-blood-bowl-2-wood-elves.json](./52648-blood-bowl-2-wood-elves.json) |
