@@ -1100,6 +1100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Feud: 2010 Edition | 324085 | [324085-family-feud-2010-edition.json](./324085-family-feud-2010-edition.json) |
 | Family Feud: 2012 Edition | 6678 | [6678-family-feud-2012-edition.json](./6678-family-feud-2012-edition.json) |
 | Family Feud: Battle of the Sexes | 358962 | [358962-family-feud-battle-of-the-sexes.json](./358962-family-feud-battle-of-the-sexes.json) |
+| Family Fun Pack | 100092 | [100092-family-fun-pack.json](./100092-family-fun-pack.json) |
 | Family Fun Pack | 391196 | [391196-family-fun-pack.json](./391196-family-fun-pack.json) |
 | Family Funday | 310582 | [310582-family-funday.json](./310582-family-funday.json) |
 | Family Game Mega Pack 14 in 1 | 294842 | [294842-family-game-mega-pack-14-in-1.json](./294842-family-game-mega-pack-14-in-1.json) |
@@ -1984,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Ball Spitter | 412239 | [412239-fast-ball-spitter.json](./412239-fast-ball-spitter.json) |
 | Fast Beat Battle Rider | 292288 | [292288-fast-beat-battle-rider.json](./292288-fast-beat-battle-rider.json) |
 | Fast Blast | 108503 | [108503-fast-blast.json](./108503-fast-blast.json) |
+| Fast Break | 100069 | [100069-fast-break.json](./100069-fast-break.json) |
 | Fast Break | 12091 | [12091-fast-break.json](./12091-fast-break.json) |
 | Fast Break Pro Basketball 3 | 82314 | [82314-fast-break-pro-basketball-3.json](./82314-fast-break-pro-basketball-3.json) |
 | Fast Bubble | 28094 | [28094-fast-bubble.json](./28094-fast-bubble.json) |
@@ -2373,6 +2375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear For Sale: Hidden in the Darkness | 187899 | [187899-fear-for-sale-hidden-in-the-darkness.json](./187899-fear-for-sale-hidden-in-the-darkness.json) |
 | Fear for Sale: Mystery of McInroy Manor | 140252 | [140252-fear-for-sale-mystery-of-mcinroy-manor.json](./140252-fear-for-sale-mystery-of-mcinroy-manor.json) |
 | Fear For Sale: Nightmare Cinema - Collector’s Edition | 104216 | [104216-fear-for-sale-nightmare-cinema-collector-s-edition.json](./104216-fear-for-sale-nightmare-cinema-collector-s-edition.json) |
+| Fear For Sale: Phantom Tide - Collector’s Edition | 100065 | [100065-fear-for-sale-phantom-tide-collector-s-edition.json](./100065-fear-for-sale-phantom-tide-collector-s-edition.json) |
 | Fear for Sale: The 13 Keys - Collector's Edition | 93830 | [93830-fear-for-sale-the-13-keys-collectors-edition.json](./93830-fear-for-sale-the-13-keys-collectors-edition.json) |
 | Fear for Sale: The House on Black River | 101654 | [101654-fear-for-sale-the-house-on-black-river.json](./101654-fear-for-sale-the-house-on-black-river.json) |
 | Fear in Hospital | 120067 | [120067-fear-in-hospital.json](./120067-fear-in-hospital.json) |
