@@ -4233,6 +4233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigface Massacre | 207719 | [207719-pigface-massacre.json](./207719-pigface-massacre.json) |
 | Pigg Life | 355167 | [355167-pigg-life.json](./355167-pigg-life.json) |
 | Pigg Party | 355157 | [355157-pigg-party.json](./355157-pigg-party.json) |
+| Piggy Chase | 113536 | [113536-piggy-chase.json](./113536-piggy-chase.json) |
 | Piggy Go | 212489 | [212489-piggy-go.json](./212489-piggy-go.json) |
 | Piggy Monte | 415154 | [415154-piggy-monte.json](./415154-piggy-monte.json) |
 | Piggy One Super Spark | 303002 | [303002-piggy-one-super-spark.json](./303002-piggy-one-super-spark.json) |
