@@ -2184,6 +2184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indian Princess: Dress Up! | 320466 | [320466-indian-princess-dress-up.json](./320466-indian-princess-dress-up.json) |
 | Indian Rummy: Fun Card Game | 88171 | [88171-indian-rummy-fun-card-game.json](./88171-indian-rummy-fun-card-game.json) |
 | Indian Street Food Simulator | 407345 | [407345-indian-street-food-simulator.json](./407345-indian-street-food-simulator.json) |
+| Indian Summer | 111430 | [111430-indian-summer.json](./111430-indian-summer.json) |
 | Indian Train Simulator | 174639 | [174639-indian-train-simulator.json](./174639-indian-train-simulator.json) |
 | Indian Train Simulator 2018 | 208928 | [208928-indian-train-simulator-2018.json](./208928-indian-train-simulator-2018.json) |
 | Indian Truck Simulator 3D | 214689 | [214689-indian-truck-simulator-3d.json](./214689-indian-truck-simulator-3d.json) |
