@@ -6565,6 +6565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky | 247438 | [247438-rocky.json](./247438-rocky.json) |
 | Rocky | 37175 | [37175-rocky.json](./37175-rocky.json) |
 | Rocky | 4093 | [4093-rocky.json](./4093-rocky.json) |
+| Rocky | 77183 | [77183-rocky.json](./77183-rocky.json) |
 | Rocky & Bullwinkle | 20780 | [20780-rocky-and-bullwinkle.json](./20780-rocky-and-bullwinkle.json) |
 | Rocky & Co | 271686 | [271686-rocky-and-co.json](./271686-rocky-and-co.json) |
 | Rocky Climb | 96085 | [96085-rocky-climb.json](./96085-rocky-climb.json) |
@@ -6966,6 +6967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollercoaster Rush | 133915 | [133915-rollercoaster-rush.json](./133915-rollercoaster-rush.json) |
 | Rollercoaster Rush 3D | 133914 | [133914-rollercoaster-rush-3d.json](./133914-rollercoaster-rush-3d.json) |
 | RollerCoaster Tycoon | 254 | [254-rollercoaster-tycoon.json](./254-rollercoaster-tycoon.json) |
+| RollerCoaster Tycoon 2: Time Twister | 77218 | [77218-rollercoaster-tycoon-2-time-twister.json](./77218-rollercoaster-tycoon-2-time-twister.json) |
 | Rollercoaster Tycoon 3 | 178407 | [178407-rollercoaster-tycoon-3.json](./178407-rollercoaster-tycoon-3.json) |
 | RollerCoaster Tycoon 3: Gold | 257414 | [257414-rollercoaster-tycoon-3-gold.json](./257414-rollercoaster-tycoon-3-gold.json) |
 | RollerCoaster Tycoon 6 Pack | 228962 | [228962-rollercoaster-tycoon-6-pack.json](./228962-rollercoaster-tycoon-6-pack.json) |
