@@ -1708,6 +1708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4Line | 158609 | [158609-4line.json](./158609-4line.json) |
 | 4Mecheros | 405042 | [405042-4mecheros.json](./405042-4mecheros.json) |
 | 4NR | 55975 | [55975-4nr.json](./55975-4nr.json) |
+| 4P Ping-Pong | 93492 | [93492-4p-ping-pong.json](./93492-4p-ping-pong.json) |
 | 4RC4N01D 3: Cold Space | 89410 | [89410-4rc4n01d-3-cold-space.json](./89410-4rc4n01d-3-cold-space.json) |
 | 4RC4N01D! 2: Retro Edition | 334263 | [334263-4rc4n01d-2-retro-edition.json](./334263-4rc4n01d-2-retro-edition.json) |
 | 4RC4N01D! 4: KOHBEEP edition | 334262 | [334262-4rc4n01d-4-kohbeep-edition.json](./334262-4rc4n01d-4-kohbeep-edition.json) |
@@ -2166,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 911 Operator: Deluxe Edition | 132984 | [132984-911-operator-deluxe-edition.json](./132984-911-operator-deluxe-edition.json) |
 | 911 Operator: Special Resources | 149546 | [149546-911-operator-special-resources.json](./149546-911-operator-special-resources.json) |
 | 911 Paramedic | 72049 | [72049-911-paramedic.json](./72049-911-paramedic.json) |
+| 911 TS | 93487 | [93487-911-ts.json](./93487-911-ts.json) |
 | 911: Cannibal | 245837 | [245837-911-cannibal.json](./245837-911-cannibal.json) |
 | 93, Kuindzhi | 402479 | [402479-93-kuindzhi.json](./402479-93-kuindzhi.json) |
 | 94 Degrees: fun trivia quiz | 27787 | [27787-94-degrees-fun-trivia-quiz.json](./27787-94-degrees-fun-trivia-quiz.json) |
