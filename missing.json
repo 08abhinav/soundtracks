@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T06:19:16.520Z",
-  "total_missing": 209559,
+  "generated_at": "2026-10-14T06:22:55.592Z",
+  "total_missing": 209557,
   "games": [
     {
       "igdb_id": 191680,
@@ -68296,11 +68296,6 @@
       "igdb_id": 78694,
       "game_name": "Avery Cardoza's Casino 2000",
       "file": "missing/A/78694-avery-cardozas-casino-2000.json"
-    },
-    {
-      "igdb_id": 10011,
-      "game_name": "Aveyond 2: Ean's Quest",
-      "file": "missing/A/10011-aveyond-2-eans-quest.json"
     },
     {
       "igdb_id": 36389,
@@ -220091,11 +220086,6 @@
       "igdb_id": 104107,
       "game_name": "Demon's Rise 2: Lords of Chaos",
       "file": "missing/D/104107-demons-rise-2-lords-of-chaos.json"
-    },
-    {
-      "igdb_id": 134606,
-      "game_name": "Demon's Souls",
-      "file": "missing/D/134606-demons-souls.json"
     },
     {
       "igdb_id": 23363,
