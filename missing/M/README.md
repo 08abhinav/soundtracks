@@ -5164,6 +5164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man IV SNES | 377763 | [377763-mega-man-iv-snes.json](./377763-mega-man-iv-snes.json) |
 | Mega Man Legends | 1752 | [1752-mega-man-legends.json](./1752-mega-man-legends.json) |
 | Mega Man Legends 3 Project | 78003 | [78003-mega-man-legends-3-project.json](./78003-mega-man-legends-3-project.json) |
+| Mega Man Maker | 102716 | [102716-mega-man-maker.json](./102716-mega-man-maker.json) |
 | Mega Man Network Transmission | 1766 | [1766-mega-man-network-transmission.json](./1766-mega-man-network-transmission.json) |
 | Mega Man NT Warrior: Battle Chip - WideShot1 | 352839 | [352839-mega-man-nt-warrior-battle-chip-wideshot1.json](./352839-mega-man-nt-warrior-battle-chip-wideshot1.json) |
 | Mega Man Perfect Blue | 132024 | [132024-mega-man-perfect-blue.json](./132024-mega-man-perfect-blue.json) |
@@ -5938,6 +5939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memoryleak | 372601 | [372601-memoryleak.json](./372601-memoryleak.json) |
 | MemoryMaze | 319367 | [319367-memorymaze.json](./319367-memorymaze.json) |
 | MemoTrimo | 84471 | [84471-memotrimo.json](./84471-memotrimo.json) |
+| MemoUp | 102708 | [102708-memoup.json](./102708-memoup.json) |
 | Memoware | 381280 | [381280-memoware.json](./381280-memoware.json) |
 | Memrrtiks, Suashem | 358789 | [358789-memrrtiks-suashem.json](./358789-memrrtiks-suashem.json) |
 | Men Are From Mars, Women Are From Venus: The CD-ROM Game | 60351 | [60351-men-are-from-mars-women-are-from-venus-the-cd-rom-game.json](./60351-men-are-from-mars-women-are-from-venus-the-cd-rom-game.json) |
@@ -13870,6 +13872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Pretend Fairytale Land | 299224 | [299224-my-pretend-fairytale-land.json](./299224-my-pretend-fairytale-land.json) |
 | My Pretend Family | 299223 | [299223-my-pretend-family.json](./299223-my-pretend-family.json) |
 | My Pretend Halloween Town | 299222 | [299222-my-pretend-halloween-town.json](./299222-my-pretend-halloween-town.json) |
+| My Pretend New York City - Big Apple Friends | 102667 | [102667-my-pretend-new-york-city-big-apple-friends.json](./102667-my-pretend-new-york-city-big-apple-friends.json) |
 | My Pretend Summer Waterpark | 299213 | [299213-my-pretend-summer-waterpark.json](./299213-my-pretend-summer-waterpark.json) |
 | My Princess Girlfriend | 228416 | [228416-my-princess-girlfriend.json](./228416-my-princess-girlfriend.json) |
 | My Protogen Engineer | 291474 | [291474-my-protogen-engineer.json](./291474-my-protogen-engineer.json) |
