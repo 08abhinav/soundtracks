@@ -3335,6 +3335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cellveillance | 362743 | [362743-cellveillance.json](./362743-cellveillance.json) |
 | Cellyon: Boss Confrontation | 105558 | [105558-cellyon-boss-confrontation.json](./105558-cellyon-boss-confrontation.json) |
 | Cellyon: Boss Maker | 322717 | [322717-cellyon-boss-maker.json](./322717-cellyon-boss-maker.json) |
+| Celsius | 121375 | [121375-celsius.json](./121375-celsius.json) |
 | Celsius Heroes | 56566 | [56566-celsius-heroes.json](./56566-celsius-heroes.json) |
 | Celtabula | 68892 | [68892-celtabula.json](./68892-celtabula.json) |
 | Celted | 176478 | [176478-celted.json](./176478-celted.json) |
@@ -6143,6 +6144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civil War: Stonewall | 175148 | [175148-civil-war-stonewall.json](./175148-civil-war-stonewall.json) |
 | Civil Warfare | 329048 | [329048-civil-warfare.json](./329048-civil-warfare.json) |
 | Civil Warfare: Another Bullet in the War | 79136 | [79136-civil-warfare-another-bullet-in-the-war.json](./79136-civil-warfare-another-bullet-in-the-war.json) |
+| Civil: The Game | 122061 | [122061-civil-the-game.json](./122061-civil-the-game.json) |
 | CivilContractRPG | 125847 | [125847-civilcontractrpg.json](./125847-civilcontractrpg.json) |
 | Civilization | 175915 | [175915-civilization.json](./175915-civilization.json) |
 | Civilization Online | 63915 | [63915-civilization-online.json](./63915-civilization-online.json) |
@@ -7486,6 +7488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold War Commander | 67982 | [67982-cold-war-commander.json](./67982-cold-war-commander.json) |
 | Cold War Conflicts: Days in the Field 1950-1973 | 23785 | [23785-cold-war-conflicts-days-in-the-field-1950-1973.json](./23785-cold-war-conflicts-days-in-the-field-1950-1973.json) |
 | Cold War Era | 356265 | [356265-cold-war-era.json](./356265-cold-war-era.json) |
+| Cold War Game | 122043 | [122043-cold-war-game.json](./122043-cold-war-game.json) |
 | Cold War Warfare | 73805 | [73805-cold-war-warfare.json](./73805-cold-war-warfare.json) |
 | Cold War: Frontline | 339101 | [339101-cold-war-frontline.json](./339101-cold-war-frontline.json) |
 | Cold War: The Iron Curtain | 256451 | [256451-cold-war-the-iron-curtain.json](./256451-cold-war-the-iron-curtain.json) |
@@ -11563,6 +11566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Changer | 66896 | [66896-cross-changer.json](./66896-cross-changer.json) |
 | Cross Channel | 78650 | [78650-cross-channel.json](./78650-cross-channel.json) |
 | Cross Chase | 293229 | [293229-cross-chase.json](./293229-cross-chase.json) |
+| Cross Country Express - An Oddfellows Mini | 121335 | [121335-cross-country-express-an-oddfellows-mini.json](./121335-cross-country-express-an-oddfellows-mini.json) |
 | Cross Country Skiing VR | 99035 | [99035-cross-country-skiing-vr.json](./99035-cross-country-skiing-vr.json) |
 | Cross Death VR | 32215 | [32215-cross-death-vr.json](./32215-cross-death-vr.json) |
 | Cross Dressing Aniki | 99051 | [99051-cross-dressing-aniki.json](./99051-cross-dressing-aniki.json) |
@@ -11670,6 +11674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosslogic Ultimate | 66716 | [66716-crosslogic-ultimate.json](./66716-crosslogic-ultimate.json) |
 | CrossLust | 235491 | [235491-crosslust.json](./235491-crosslust.json) |
 | Crossmath | 381273 | [381273-crossmath.json](./381273-crossmath.json) |
+| Crossniq | 121362 | [121362-crossniq.json](./121362-crossniq.json) |
 | Crossnumber: Math Puzzle Game | 232543 | [232543-crossnumber-math-puzzle-game.json](./232543-crossnumber-math-puzzle-game.json) |
 | Crossout | 34894 | [34894-crossout.json](./34894-crossout.json) |
 | Crossout Mobile | 174716 | [174716-crossout-mobile.json](./174716-crossout-mobile.json) |
