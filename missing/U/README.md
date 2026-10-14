@@ -1491,6 +1491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unholy Trinity | 368808 | [368808-unholy-trinity.json](./368808-unholy-trinity.json) |
 | Unhost | 400251 | [400251-unhost.json](./400251-unhost.json) |
 | UnHumanize | 319011 | [319011-unhumanize.json](./319011-unhumanize.json) |
+| Uni | 115402 | [115402-uni.json](./115402-uni.json) |
 | Uni | 145684 | [145684-uni.json](./145684-uni.json) |
 | Uni Ver Se | 185635 | [185635-uni-ver-se.json](./185635-uni-ver-se.json) |
 | Uni-Code | 347197 | [347197-uni-code.json](./347197-uni-code.json) |
