@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jabberwocky | 181861 | [181861-jabberwocky.json](./181861-jabberwocky.json) |
 | Jabroni Brawl: Episode 3 | 125123 | [125123-jabroni-brawl-episode-3.json](./125123-jabroni-brawl-episode-3.json) |
 | Jacal | 223662 | [223662-jacal.json](./223662-jacal.json) |
+| Jacaranda Jim | 93463 | [93463-jacaranda-jim.json](./93463-jacaranda-jim.json) |
 | Jack | 369658 | [369658-jack.json](./369658-jack.json) |
 | Jack & Detectives: Black Magic Expansion | 364562 | [364562-jack-and-detectives-black-magic-expansion.json](./364562-jack-and-detectives-black-magic-expansion.json) |
 | Jack & the Creepy Castle | 68923 | [68923-jack-and-the-creepy-castle.json](./68923-jack-and-the-creepy-castle.json) |
