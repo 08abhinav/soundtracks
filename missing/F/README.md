@@ -5184,6 +5184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fling! | 264361 | [264361-fling.json](./264361-fling.json) |
 | Fling! | 343986 | [343986-fling.json](./343986-fling.json) |
 | Flinger | 271691 | [271691-flinger.json](./271691-flinger.json) |
+| Flinger Tactics | 123899 | [123899-flinger-tactics.json](./123899-flinger-tactics.json) |
 | Flingin' Poo | 394475 | [394475-flingin-poo.json](./394475-flingin-poo.json) |
 | Flingleberries! | 171418 | [171418-flingleberries.json](./171418-flingleberries.json) |
 | Flint | 368493 | [368493-flint.json](./368493-flint.json) |
@@ -6423,6 +6424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Restoration | 361744 | [361744-forest-restoration.json](./361744-forest-restoration.json) |
 | Forest Rites | 360707 | [360707-forest-rites.json](./360707-forest-rites.json) |
 | Forest Simulator 2025 | 326427 | [326427-forest-simulator-2025.json](./326427-forest-simulator-2025.json) |
+| Forest spiders | 123891 | [123891-forest-spiders.json](./123891-forest-spiders.json) |
 | Forest Survival | 381032 | [381032-forest-survival.json](./381032-forest-survival.json) |
 | Forest Time | 373517 | [373517-forest-time.json](./373517-forest-time.json) |
 | Forest Walk | 311142 | [311142-forest-walk.json](./311142-forest-walk.json) |
@@ -9269,6 +9271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Sauce Dispenser | 407297 | [407297-future-sauce-dispenser.json](./407297-future-sauce-dispenser.json) |
 | Future Sense | 242202 | [242202-future-sense.json](./242202-future-sense.json) |
 | Future Shock | 13718 | [13718-future-shock.json](./13718-future-shock.json) |
+| Future Simulation World | 123937 | [123937-future-simulation-world.json](./123937-future-simulation-world.json) |
 | Future Snooker | 126386 | [126386-future-snooker.json](./126386-future-snooker.json) |
 | Future Swashbuckler | 305945 | [305945-future-swashbuckler.json](./305945-future-swashbuckler.json) |
 | Future Tank | 68346 | [68346-future-tank.json](./68346-future-tank.json) |
