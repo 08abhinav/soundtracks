@@ -1247,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waronoi | 149194 | [149194-waronoi.json](./149194-waronoi.json) |
 | Warota: I Live Next to The Demon King's Castle LOL | 399887 | [399887-warota-i-live-next-to-the-demon-kings-castle-lol.json](./399887-warota-i-live-next-to-the-demon-kings-castle-lol.json) |
 | Warp | 74327 | [74327-warp.json](./74327-warp.json) |
+| Warp 1 | 131295 | [131295-warp-1.json](./131295-warp-1.json) |
 | Warp 7 | 231062 | [231062-warp-7.json](./231062-warp-7.json) |
 | Warp Bot | 347879 | [347879-warp-bot.json](./347879-warp-bot.json) |
 | Warp Cinema | 321600 | [321600-warp-cinema.json](./321600-warp-cinema.json) |
@@ -2379,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westland Survival: Uncle Gab’s Signet | 383362 | [383362-westland-survival-uncle-gab-s-signet.json](./383362-westland-survival-uncle-gab-s-signet.json) |
 | Westland Survival: Wind Spirit | 383361 | [383361-westland-survival-wind-spirit.json](./383361-westland-survival-wind-spirit.json) |
 | Westlife: Fan-O-Mania | 91892 | [91892-westlife-fan-o-mania.json](./91892-westlife-fan-o-mania.json) |
+| Westmark Manor | 131303 | [131303-westmark-manor.json](./131303-westmark-manor.json) |
 | WestQuest for Playdate! | 264557 | [264557-westquest-for-playdate.json](./264557-westquest-for-playdate.json) |
 | Westurn | 209460 | [209460-westurn.json](./209460-westurn.json) |
 | Westward 3 | 7530 | [7530-westward-3.json](./7530-westward-3.json) |
