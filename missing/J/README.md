@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack the Nipper II: In Coconut Capers | 40944 | [40944-jack-the-nipper-ii-in-coconut-capers.json](./40944-jack-the-nipper-ii-in-coconut-capers.json) |
 | Jack the Ripper | 169989 | [169989-jack-the-ripper.json](./169989-jack-the-ripper.json) |
 | Jack the Ripper: Hunter Clan | 346568 | [346568-jack-the-ripper-hunter-clan.json](./346568-jack-the-ripper-hunter-clan.json) |
+| Jack troubles | 128310 | [128310-jack-troubles.json](./128310-jack-troubles.json) |
 | Jack Vs Ninjas | 96769 | [96769-jack-vs-ninjas.json](./96769-jack-vs-ninjas.json) |
 | Jack: Snake Attack | 124739 | [124739-jack-snake-attack.json](./124739-jack-snake-attack.json) |
 | Jack's 510 Racing | 372608 | [372608-jacks-510-racing.json](./372608-jacks-510-racing.json) |
@@ -617,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeepney Simulator | 255994 | [255994-jeepney-simulator.json](./255994-jeepney-simulator.json) |
 | Jeepney Simulator 2 | 292301 | [292301-jeepney-simulator-2.json](./292301-jeepney-simulator-2.json) |
 | Jeeps Offroad Simulator | 220045 | [220045-jeeps-offroad-simulator.json](./220045-jeeps-offroad-simulator.json) |
+| Jef | 128254 | [128254-jef.json](./128254-jef.json) |
 | Jefe, La Cuenta | 310679 | [310679-jefe-la-cuenta.json](./310679-jefe-la-cuenta.json) |
 | Jeff Gordon XS Racing | 49888 | [49888-jeff-gordon-xs-racing.json](./49888-jeff-gordon-xs-racing.json) |
 | Jeff Gordon's Du Pont Pacesetter Games | 198770 | [198770-jeff-gordons-du-pont-pacesetter-games.json](./198770-jeff-gordons-du-pont-pacesetter-games.json) |
@@ -1385,6 +1387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jimbob and the Magic Chain | 199073 | [199073-jimbob-and-the-magic-chain.json](./199073-jimbob-and-the-magic-chain.json) |
 | Jiminy's Morning Adventure | 293712 | [293712-jiminys-morning-adventure.json](./293712-jiminys-morning-adventure.json) |
 | Jimmie Johnson's Anything with an Engine | 7023 | [7023-jimmie-johnsons-anything-with-an-engine.json](./7023-jimmie-johnsons-anything-with-an-engine.json) |
+| Jimmu | 128286 | [128286-jimmu.json](./128286-jimmu.json) |
 | Jimmy and the Pulsating Mass | 59227 | [59227-jimmy-and-the-pulsating-mass.json](./59227-jimmy-and-the-pulsating-mass.json) |
 | Jimmy Connors Pro Tennis Tour | 42605 | [42605-jimmy-connors-pro-tennis-tour.json](./42605-jimmy-connors-pro-tennis-tour.json) |
 | Jimmy Connors Tennis | 365696 | [365696-jimmy-connors-tennis.json](./365696-jimmy-connors-tennis.json) |
@@ -2523,6 +2526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Island: The Dinosaur Zoo | 14745 | [14745-jurassic-island-the-dinosaur-zoo.json](./14745-jurassic-island-the-dinosaur-zoo.json) |
 | Jurassic Lab: Dinosarium DNA | 211780 | [211780-jurassic-lab-dinosarium-dna.json](./211780-jurassic-lab-dinosarium-dna.json) |
 | Jurassic Monster World | 141508 | [141508-jurassic-monster-world.json](./141508-jurassic-monster-world.json) |
+| Jurassic Park | 128888 | [128888-jurassic-park.json](./128888-jurassic-park.json) |
 | Jurassic Park | 134299 | [134299-jurassic-park.json](./134299-jurassic-park.json) |
 | Jurassic Park | 147274 | [147274-jurassic-park.json](./147274-jurassic-park.json) |
 | Jurassic Park | 15543 | [15543-jurassic-park.json](./15543-jurassic-park.json) |
