@@ -866,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Ski Mania: Aquatic Adrenaline Rush | 276119 | [276119-jet-ski-mania-aquatic-adrenaline-rush.json](./276119-jet-ski-mania-aquatic-adrenaline-rush.json) |
 | Jet Skiing | 246506 | [246506-jet-skiing.json](./246506-jet-skiing.json) |
 | Jet Trains | 174200 | [174200-jet-trains.json](./174200-jet-trains.json) |
+| Jet-Boot Jack | 79119 | [79119-jet-boot-jack.json](./79119-jet-boot-jack.json) |
 | Jet-Getters | 61715 | [61715-jet-getters.json](./61715-jet-getters.json) |
 | Jet-Paco: Hyper Special Space Agent! | 312227 | [312227-jet-paco-hyper-special-space-agent.json](./312227-jet-paco-hyper-special-space-agent.json) |
 | JetBall Arena | 113697 | [113697-jetball-arena.json](./113697-jetball-arena.json) |
@@ -1561,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JMPR | 164969 | [164969-jmpr.json](./164969-jmpr.json) |
 | JNKBombers | 80605 | [80605-jnkbombers.json](./80605-jnkbombers.json) |
 | JNKPlat 2018 | 125324 | [125324-jnkplat-2018.json](./125324-jnkplat-2018.json) |
+| JNKPlat Slots | 79171 | [79171-jnkplat-slots.json](./79171-jnkplat-slots.json) |
 | JNZ: Nightmare Girls | 340773 | [340773-jnz-nightmare-girls.json](./340773-jnz-nightmare-girls.json) |
 | Jo and Momo: Forest Rush | 101774 | [101774-jo-and-momo-forest-rush.json](./101774-jo-and-momo-forest-rush.json) |
 | Jo-Jo Fighter | 182366 | [182366-jo-jo-fighter.json](./182366-jo-jo-fighter.json) |
