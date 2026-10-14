@@ -4850,6 +4850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride with the Reaper | 117053 | [117053-ride-with-the-reaper.json](./117053-ride-with-the-reaper.json) |
 | Ride Your Mind | 141208 | [141208-ride-your-mind.json](./141208-ride-your-mind.json) |
 | Ride Your Mind: Blossoms | 141210 | [141210-ride-your-mind-blossoms.json](./141210-ride-your-mind-blossoms.json) |
+| Ride Zero | 83409 | [83409-ride-zero.json](./83409-ride-zero.json) |
 | Ride: 2015 Top Bikes Pack 1 | 156115 | [156115-ride-2015-top-bikes-pack-1.json](./156115-ride-2015-top-bikes-pack-1.json) |
 | Ridegear Guybrave | 70904 | [70904-ridegear-guybrave.json](./70904-ridegear-guybrave.json) |
 | Ridegear Guybrave II | 70903 | [70903-ridegear-guybrave-ii.json](./70903-ridegear-guybrave-ii.json) |
@@ -8232,6 +8233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runaway Cheater | 370272 | [370272-runaway-cheater.json](./370272-runaway-cheater.json) |
 | Runaway Demon Bride | 136260 | [136260-runaway-demon-bride.json](./136260-runaway-demon-bride.json) |
 | Runaway Farm | 249896 | [249896-runaway-farm.json](./249896-runaway-farm.json) |
+| Runaway from Vampire | 83403 | [83403-runaway-from-vampire.json](./83403-runaway-from-vampire.json) |
 | Runaway Girl: Picked up a Girl | 298724 | [298724-runaway-girl-picked-up-a-girl.json](./298724-runaway-girl-picked-up-a-girl.json) |
 | Runaway Princess | 370765 | [370765-runaway-princess.json](./370765-runaway-princess.json) |
 | Runaway Robot | 203107 | [203107-runaway-robot.json](./203107-runaway-robot.json) |
