@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yamb | 252306 | [252306-yamb.json](./252306-yamb.json) |
 | YAMC: Yet Another Minesweeper Client | 226113 | [226113-yamc-yet-another-minesweeper-client.json](./226113-yamc-yet-another-minesweeper-client.json) |
 | Yamedomo | 332392 | [332392-yamedomo.json](./332392-yamedomo.json) |
+| Yametei | 114842 | [114842-yametei.json](./114842-yametei.json) |
 | Yami | 138518 | [138518-yami.json](./138518-yami.json) |
 | Yami Fuku Natsu: Teito Monogatari Futatabi | 147956 | [147956-yami-fuku-natsu-teito-monogatari-futatabi.json](./147956-yami-fuku-natsu-teito-monogatari-futatabi.json) |
 | Yami Mura | 392945 | [392945-yami-mura.json](./392945-yami-mura.json) |
@@ -1223,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuki-iro Sign | 240708 | [240708-yuki-iro-sign.json](./240708-yuki-iro-sign.json) |
 | Yuki: Space Ranger | 159032 | [159032-yuki-space-ranger.json](./159032-yuki-space-ranger.json) |
 | Yuki's Symphony | 362751 | [362751-yukis-symphony.json](./362751-yukis-symphony.json) |
+| Yuki's Tale | 114834 | [114834-yukis-tale.json](./114834-yukis-tale.json) |
 | Yukigatari | 268662 | [268662-yukigatari.json](./268662-yukigatari.json) |
 | Yukigatari | 268663 | [268663-yukigatari.json](./268663-yukigatari.json) |
 | Yukigatari Renewal | 268664 | [268664-yukigatari-renewal.json](./268664-yukigatari-renewal.json) |
