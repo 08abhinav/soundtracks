@@ -57,7 +57,17 @@ jobs:
           script: |
             const fs = require("fs");
             const { owner, repo } = context.repo;
-            const report = JSON.parse(fs.readFileSync("lychee.json", "utf8"));
+            // lychee-action can leave text after the JSON report; read only the first JSON value.
+            function parseFirstJson(text) {
+              try {
+                return JSON.parse(text);
+              } catch (err) {
+                const at = Number(/position (\d+)/.exec(err.message)?.[1]);
+                if (!Number.isInteger(at) || at <= 0) throw err;
+                return JSON.parse(text.slice(0, at));
+              }
+            }
+            const report = parseFirstJson(fs.readFileSync("lychee.json", "utf8"));
             const failures = Object.values(report.error_map ?? report.fail_map ?? {}).flat();
             // Only a real "gone": 404/410. Rate limits, timeouts and 403s are not dead links.
             const dead = new Map();
