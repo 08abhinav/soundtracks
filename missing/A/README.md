@@ -1431,6 +1431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Big Tournament Golf | 147093 | [147093-aca-neo-geo-big-tournament-golf.json](./147093-aca-neo-geo-big-tournament-golf.json) |
 | ACA Neo Geo: Blazing Star | 90518 | [90518-aca-neo-geo-blazing-star.json](./90518-aca-neo-geo-blazing-star.json) |
 | ACA Neo Geo: Burning Fight | 85538 | [85538-aca-neo-geo-burning-fight.json](./85538-aca-neo-geo-burning-fight.json) |
+| ACA Neo Geo: Crossed Swords | 118707 | [118707-aca-neo-geo-crossed-swords.json](./118707-aca-neo-geo-crossed-swords.json) |
 | ACA Neo Geo: Cyber-Lip | 112912 | [112912-aca-neo-geo-cyber-lip.json](./112912-aca-neo-geo-cyber-lip.json) |
 | ACA Neo Geo: Fatal Fury Special | 99742 | [99742-aca-neo-geo-fatal-fury-special.json](./99742-aca-neo-geo-fatal-fury-special.json) |
 | ACA Neo Geo: Galaxy Fight - Universal Warriors | 99747 | [99747-aca-neo-geo-galaxy-fight-universal-warriors.json](./99747-aca-neo-geo-galaxy-fight-universal-warriors.json) |
@@ -2576,6 +2577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFL 99 | 60580 | [60580-afl-99.json](./60580-afl-99.json) |
 | AFL Challenge | 68302 | [68302-afl-challenge.json](./68302-afl-challenge.json) |
 | AFL Evolution | 33701 | [33701-afl-evolution.json](./33701-afl-evolution.json) |
+| AFL Evolution Plus Season Pack 2018 | 118683 | [118683-afl-evolution-plus-season-pack-2018.json](./118683-afl-evolution-plus-season-pack-2018.json) |
 | AFL Finals Fever | 72156 | [72156-afl-finals-fever.json](./72156-afl-finals-fever.json) |
 | AFL Live | 5477 | [5477-afl-live.json](./5477-afl-live.json) |
 | AFL Premiership 2005 | 73847 | [73847-afl-premiership-2005.json](./73847-afl-premiership-2005.json) |
@@ -4218,6 +4220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Colosseum | 211407 | [211407-alien-colosseum.json](./211407-alien-colosseum.json) |
 | Alien Cow Rampage: Orion Needs Your Milk! | 165509 | [165509-alien-cow-rampage-orion-needs-your-milk.json](./165509-alien-cow-rampage-orion-needs-your-milk.json) |
 | Alien Crab in the Ghostmaze | 180706 | [180706-alien-crab-in-the-ghostmaze.json](./180706-alien-crab-in-the-ghostmaze.json) |
+| Alien Creeps | 118714 | [118714-alien-creeps.json](./118714-alien-creeps.json) |
 | Alien Crusader | 89385 | [89385-alien-crusader.json](./89385-alien-crusader.json) |
 | Alien Cube | 254779 | [254779-alien-cube.json](./254779-alien-cube.json) |
 | Alien Dawn | 141582 | [141582-alien-dawn.json](./141582-alien-dawn.json) |
@@ -8813,6 +8816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark: Scorched Earth Ascended | 294992 | [294992-ark-scorched-earth-ascended.json](./294992-ark-scorched-earth-ascended.json) |
 | Ark: Survival Ascended | 250509 | [250509-ark-survival-ascended.json](./250509-ark-survival-ascended.json) |
 | Ark: Survival Evolved - Limited Collector's Edition | 136152 | [136152-ark-survival-evolved-limited-collectors-edition.json](./136152-ark-survival-evolved-limited-collectors-edition.json) |
+| Ark: Survival Evolved: Explorer's Edition | 118717 | [118717-ark-survival-evolved-explorers-edition.json](./118717-ark-survival-evolved-explorers-edition.json) |
 | Ark: The Center | 169335 | [169335-ark-the-center.json](./169335-ark-the-center.json) |
 | Ark: The Center Ascended | 304378 | [304378-ark-the-center-ascended.json](./304378-ark-the-center-ascended.json) |
 | Ark: Ultimate Survivor Edition | 152344 | [152344-ark-ultimate-survivor-edition.json](./152344-ark-ultimate-survivor-edition.json) |
