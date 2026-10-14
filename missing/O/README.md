@@ -3111,6 +3111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OtterQuest | 188488 | [188488-otterquest.json](./188488-otterquest.json) |
 | OttGiu | 321535 | [321535-ottgiu.json](./321535-ottgiu.json) |
 | Otti: House Keeper | 138470 | [138470-otti-house-keeper.json](./138470-otti-house-keeper.json) |
+| Otto | 103268 | [103268-otto.json](./103268-otto.json) |
 | Otto and the Ancient Worlds | 102382 | [102382-otto-and-the-ancient-worlds.json](./102382-otto-and-the-ancient-worlds.json) |
 | Otto Dokkoi | 385333 | [385333-otto-dokkoi.json](./385333-otto-dokkoi.json) |
 | Otto Matic | 67426 | [67426-otto-matic.json](./67426-otto-matic.json) |
@@ -3137,6 +3138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oublivious | 341519 | [341519-oublivious.json](./341519-oublivious.json) |
 | Ouch! Cargo! | 405548 | [405548-ouch-cargo.json](./405548-ouch-cargo.json) |
 | Ouch! So Many Beauties! | 298602 | [298602-ouch-so-many-beauties.json](./298602-ouch-so-many-beauties.json) |
+| Ouch! War! | 103258 | [103258-ouch-war.json](./103258-ouch-war.json) |
 | Ouchi de Amaeru Shakaijin Kanojo no Renai Moyou | 382957 | [382957-ouchi-de-amaeru-shakaijin-kanojo-no-renai-moyou.json](./382957-ouchi-de-amaeru-shakaijin-kanojo-no-renai-moyou.json) |
 | Ouchi de Mugen Puchi Puchi Wii | 408870 | [408870-ouchi-de-mugen-puchi-puchi-wii.json](./408870-ouchi-de-mugen-puchi-puchi-wii.json) |
 | Ouchi de Rilakkuma: Rilakkuma ga Ouchi ni Yatte Kita | 145396 | [145396-ouchi-de-rilakkuma-rilakkuma-ga-ouchi-ni-yatte-kita.json](./145396-ouchi-de-rilakkuma-rilakkuma-ga-ouchi-ni-yatte-kita.json) |
