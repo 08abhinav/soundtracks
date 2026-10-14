@@ -3090,6 +3090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help Will Come Tomorrow | 121989 | [121989-help-will-come-tomorrow.json](./121989-help-will-come-tomorrow.json) |
 | Help Yourself | 153993 | [153993-help-yourself.json](./153993-help-yourself.json) |
 | Help, I cast the wrong spell! | 180802 | [180802-help-i-cast-the-wrong-spell.json](./180802-help-i-cast-the-wrong-spell.json) |
+| Help! I'm Haunted | 111442 | [111442-help-im-haunted.json](./111442-help-im-haunted.json) |
 | Help! I've Been Cursed With A Bubble Butt | 337469 | [337469-help-ive-been-cursed-with-a-bubble-butt.json](./337469-help-ive-been-cursed-with-a-bubble-butt.json) |
 | Help! My New Roommate Is a Hung Goth Futanari Ghost! | 369164 | [369164-help-my-new-roommate-is-a-hung-goth-futanari-ghost.json](./369164-help-my-new-roommate-is-a-hung-goth-futanari-ghost.json) |
 | Helper to Hero | 271410 | [271410-helper-to-hero.json](./271410-helper-to-hero.json) |
@@ -4511,6 +4512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cosmo Cats: Bonus Level | 291364 | [291364-hidden-cosmo-cats-bonus-level.json](./291364-hidden-cosmo-cats-bonus-level.json) |
 | Hidden Cubes | 74459 | [74459-hidden-cubes.json](./74459-hidden-cubes.json) |
 | Hidden Cursed Crypt | 323930 | [323930-hidden-cursed-crypt.json](./323930-hidden-cursed-crypt.json) |
+| Hidden Deep | 111561 | [111561-hidden-deep.json](./111561-hidden-deep.json) |
 | Hidden Desert War: Top-Down 3D | 204829 | [204829-hidden-desert-war-top-down-3d.json](./204829-hidden-desert-war-top-down-3d.json) |
 | Hidden Desire | 220035 | [220035-hidden-desire.json](./220035-hidden-desire.json) |
 | Hidden Dimensions 3 | 31191 | [31191-hidden-dimensions-3.json](./31191-hidden-dimensions-3.json) |
