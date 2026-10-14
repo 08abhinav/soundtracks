@@ -766,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Do Jump | 202012 | [202012-you-do-jump.json](./202012-you-do-jump.json) |
 | You Doesn't Exist | 65826 | [65826-you-doesnt-exist.json](./65826-you-doesnt-exist.json) |
 | You Don't Belong Here | 391115 | [391115-you-dont-belong-here.json](./391115-you-dont-belong-here.json) |
+| You Don't Know Jack | 100072 | [100072-you-dont-know-jack.json](./100072-you-dont-know-jack.json) |
 | You Don't Know Jack | 144785 | [144785-you-dont-know-jack.json](./144785-you-dont-know-jack.json) |
 | You Don't Know Jack | 5304 | [5304-you-dont-know-jack.json](./5304-you-dont-know-jack.json) |
 | You Don't Know Jack Movies | 16785 | [16785-you-dont-know-jack-movies.json](./16785-you-dont-know-jack-movies.json) |
@@ -890,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youda Fairy | 52784 | [52784-youda-fairy.json](./52784-youda-fairy.json) |
 | Youda Farmer | 9315 | [9315-youda-farmer.json](./9315-youda-farmer.json) |
 | Youda Farmer 2 | 9314 | [9314-youda-farmer-2.json](./9314-youda-farmer-2.json) |
+| Youda Farmer 2: Save the Village | 100107 | [100107-youda-farmer-2-save-the-village.json](./100107-youda-farmer-2-save-the-village.json) |
 | Youda Farmer 3: Seasons | 9313 | [9313-youda-farmer-3-seasons.json](./9313-youda-farmer-3-seasons.json) |
 | Youda Fisherman | 107050 | [107050-youda-fisherman.json](./107050-youda-fisherman.json) |
 | Youda Jewel Shop | 9312 | [9312-youda-jewel-shop.json](./9312-youda-jewel-shop.json) |
@@ -991,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Shape Featuring Jenny McCarthy | 50679 | [50679-your-shape-featuring-jenny-mccarthy.json](./50679-your-shape-featuring-jenny-mccarthy.json) |
 | Your Shape Fitness Evolved 2013 | 28347 | [28347-your-shape-fitness-evolved-2013.json](./28347-your-shape-fitness-evolved-2013.json) |
 | Your Shots Count | 277815 | [277815-your-shots-count.json](./277815-your-shots-count.json) |
+| Your Sinclair Beaut Box March 1993 | 100094 | [100094-your-sinclair-beaut-box-march-1993.json](./100094-your-sinclair-beaut-box-march-1993.json) |
 | Your Sinclair Four Pack December 1990 | 74079 | [74079-your-sinclair-four-pack-december-1990.json](./74079-your-sinclair-four-pack-december-1990.json) |
 | Your Sinclair Magnificent 7 February 1992 | 96509 | [96509-your-sinclair-magnificent-7-february-1992.json](./96509-your-sinclair-magnificent-7-february-1992.json) |
 | Your Sister's Drown'd, Laertes | 135302 | [135302-your-sisters-drownd-laertes.json](./135302-your-sisters-drownd-laertes.json) |
