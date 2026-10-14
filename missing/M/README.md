@@ -13543,7 +13543,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Family Tree | 379169 | [379169-my-family-tree.json](./379169-my-family-tree.json) |
 | My Fantasy Wedding | 73354 | [73354-my-fantasy-wedding.json](./73354-my-fantasy-wedding.json) |
 | My Farm | 107900 | [107900-my-farm.json](./107900-my-farm.json) |
+| My Farm | 84717 | [84717-my-farm.json](./84717-my-farm.json) |
 | My Farm | 85610 | [85610-my-farm.json](./85610-my-farm.json) |
+| My Farm 3D | 84714 | [84714-my-farm-3d.json](./84714-my-farm-3d.json) |
 | My Farm Life | 53391 | [53391-my-farm-life.json](./53391-my-farm-life.json) |
 | My Farm Life 2 | 54225 | [54225-my-farm-life-2.json](./54225-my-farm-life-2.json) |
 | My Father My Son | 188684 | [188684-my-father-my-son.json](./188684-my-father-my-son.json) |
@@ -13575,6 +13577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My First Gran Turismo | 324502 | [324502-my-first-gran-turismo.json](./324502-my-first-gran-turismo.json) |
 | My First Horse: Adventures on Seahorse Island | 238478 | [238478-my-first-horse-adventures-on-seahorse-island.json](./238478-my-first-horse-adventures-on-seahorse-island.json) |
 | My First Quantum Translocator | 320248 | [320248-my-first-quantum-translocator.json](./320248-my-first-quantum-translocator.json) |
+| My First Songs | 84715 | [84715-my-first-songs.json](./84715-my-first-songs.json) |
 | My First Tangrams for iPad | 95569 | [95569-my-first-tangrams-for-ipad.json](./95569-my-first-tangrams-for-ipad.json) |
 | My First Trainz Set | 11019 | [11019-my-first-trainz-set.json](./11019-my-first-trainz-set.json) |
 | My Fish Farm | 212492 | [212492-my-fish-farm.json](./212492-my-fish-farm.json) |
@@ -13955,6 +13958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Pet Rock | 195218 | [195218-my-pet-rock.json](./195218-my-pet-rock.json) |
 | My Pet World | 268376 | [268376-my-pet-world.json](./268376-my-pet-world.json) |
 | My Peterinary | 298301 | [298301-my-peterinary.json](./298301-my-peterinary.json) |
+| My Pets | 84716 | [84716-my-pets.json](./84716-my-pets.json) |
 | My Pets: Maze | 195183 | [195183-my-pets-maze.json](./195183-my-pets-maze.json) |
 | My Pirate Husbandos | 320766 | [320766-my-pirate-husbandos.json](./320766-my-pirate-husbandos.json) |
 | My Pizza Story | 248101 | [248101-my-pizza-story.json](./248101-my-pizza-story.json) |
@@ -13990,6 +13994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Retro World | 374823 | [374823-my-retro-world.json](./374823-my-retro-world.json) |
 | My Riding Stables | 17045 | [17045-my-riding-stables.json](./17045-my-riding-stables.json) |
 | My Riding Stables 2: A New Adventure | 140008 | [140008-my-riding-stables-2-a-new-adventure.json](./140008-my-riding-stables-2-a-new-adventure.json) |
+| My Riding Stables 3D - Jumping for the Team | 84718 | [84718-my-riding-stables-3d-jumping-for-the-team.json](./84718-my-riding-stables-3d-jumping-for-the-team.json) |
 | My Riding Stables: Life with Horses 2 | 109770 | [109770-my-riding-stables-life-with-horses-2.json](./109770-my-riding-stables-life-with-horses-2.json) |
 | My Robot Girlfriend | 221367 | [221367-my-robot-girlfriend.json](./221367-my-robot-girlfriend.json) |
 | My Rusty Submarine: New Waters | 358291 | [358291-my-rusty-submarine-new-waters.json](./358291-my-rusty-submarine-new-waters.json) |
@@ -14048,6 +14053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Street | 19306 | [19306-my-street.json](./19306-my-street.json) |
 | My Strong Horse | 164256 | [164256-my-strong-horse.json](./164256-my-strong-horse.json) |
 | My Strongest Girlfriend | 316651 | [316651-my-strongest-girlfriend.json](./316651-my-strongest-girlfriend.json) |
+| My Style Studio: Hair Salon | 84712 | [84712-my-style-studio-hair-salon.json](./84712-my-style-studio-hair-salon.json) |
 | My Sudoku | 321960 | [321960-my-sudoku.json](./321960-my-sudoku.json) |
 | My Sudoku: Classic 4x4 Easy 10 | 321961 | [321961-my-sudoku-classic-4x4-easy-10.json](./321961-my-sudoku-classic-4x4-easy-10.json) |
 | My Sudoku: Classic 4x4 Easy 2 | 321962 | [321962-my-sudoku-classic-4x4-easy-2.json](./321962-my-sudoku-classic-4x4-easy-2.json) |
