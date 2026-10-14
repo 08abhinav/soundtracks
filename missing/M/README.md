@@ -2317,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Souls | 412504 | [412504-marble-souls.json](./412504-marble-souls.json) |
 | Marble Void | 33235 | [33235-marble-void.json](./33235-marble-void.json) |
 | Marble Watchness | 223625 | [223625-marble-watchness.json](./223625-marble-watchness.json) |
+| Marble Woka Woka | 86673 | [86673-marble-woka-woka.json](./86673-marble-woka-woka.json) |
 | Marble World | 144745 | [144745-marble-world.json](./144745-marble-world.json) |
 | Marble-O-Tron | 174294 | [174294-marble-o-tron.json](./174294-marble-o-tron.json) |
 | Marble's Marbles | 384201 | [384201-marbles-marbles.json](./384201-marbles-marbles.json) |
@@ -5209,6 +5210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Star Force: Dragon | 1783 | [1783-mega-man-star-force-dragon.json](./1783-mega-man-star-force-dragon.json) |
 | Mega Man Star Force: Legacy Collection | 366898 | [366898-mega-man-star-force-legacy-collection.json](./366898-mega-man-star-force-legacy-collection.json) |
 | Mega Man Ultra | 45190 | [45190-mega-man-ultra.json](./45190-mega-man-ultra.json) |
+| Mega Man Universe | 86658 | [86658-mega-man-universe.json](./86658-mega-man-universe.json) |
 | Mega Man Uprising | 215155 | [215155-mega-man-uprising.json](./215155-mega-man-uprising.json) |
 | Mega Man V SNES | 377762 | [377762-mega-man-v-snes.json](./377762-mega-man-v-snes.json) |
 | Mega Man VI SNES | 377751 | [377751-mega-man-vi-snes.json](./377751-mega-man-vi-snes.json) |
@@ -8400,6 +8402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper: The Clean One | 180245 | [180245-minesweeper-the-clean-one.json](./180245-minesweeper-the-clean-one.json) |
 | Mineswifter | 138189 | [138189-mineswifter.json](./138189-mineswifter.json) |
 | Minetic | 349893 | [349893-minetic.json](./349893-minetic.json) |
+| Miney Company: A Data Racket | 86746 | [86746-miney-company-a-data-racket.json](./86746-miney-company-a-data-racket.json) |
 | Minforiga | 149866 | [149866-minforiga.json](./149866-minforiga.json) |
 | Ming Dynasty: Cards & Court | 390606 | [390606-ming-dynasty-cards-and-court.json](./390606-ming-dynasty-cards-and-court.json) |
 | Míngjiào Fēngyún zhī Jiǔ Yīn Jiǔ Yáng | 155014 | [155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json](./155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json) |
@@ -13103,6 +13106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musical Zoo | 79934 | [79934-musical-zoo.json](./79934-musical-zoo.json) |
 | MusicHell | 386951 | [386951-musichell.json](./386951-musichell.json) |
 | Musician | 41563 | [41563-musician.json](./41563-musician.json) |
+| Musician | 86748 | [86748-musician.json](./86748-musician.json) |
 | Musician Simulator | 308514 | [308514-musician-simulator.json](./308514-musician-simulator.json) |
 | Musicmenia | 314477 | [314477-musicmenia.json](./314477-musicmenia.json) |
 | Musicus! | 125432 | [125432-musicus.json](./125432-musicus.json) |
