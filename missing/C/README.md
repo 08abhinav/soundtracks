@@ -10618,6 +10618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Fortress! + | 103173 | [103173-crash-fortress.json](./103173-crash-fortress.json) |
 | Crash Forts 2 | 205273 | [205273-crash-forts-2.json](./205273-crash-forts-2.json) |
 | Crash it Smash it | 74758 | [74758-crash-it-smash-it.json](./74758-crash-it-smash-it.json) |
+| Crash Landed | 115406 | [115406-crash-landed.json](./115406-crash-landed.json) |
 | Crash Landed | 371462 | [371462-crash-landed.json](./371462-crash-landed.json) |
 | Crash Mayhem | 238405 | [238405-crash-mayhem.json](./238405-crash-mayhem.json) |
 | Crash Metal: Cyber Racing Punk Cars | 269858 | [269858-crash-metal-cyber-racing-punk-cars.json](./269858-crash-metal-cyber-racing-punk-cars.json) |
@@ -13525,6 +13526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyborg Detonator | 32984 | [32984-cyborg-detonator.json](./32984-cyborg-detonator.json) |
 | Cyborg Force | 310147 | [310147-cyborg-force.json](./310147-cyborg-force.json) |
 | Cyborg Invasion Shooter 2: Battle of Earth | 88256 | [88256-cyborg-invasion-shooter-2-battle-of-earth.json](./88256-cyborg-invasion-shooter-2-battle-of-earth.json) |
+| Cyborg Invasion Shooter 3: Savior of the World | 115501 | [115501-cyborg-invasion-shooter-3-savior-of-the-world.json](./115501-cyborg-invasion-shooter-3-savior-of-the-world.json) |
 | Cyborg Justice | 46236 | [46236-cyborg-justice.json](./46236-cyborg-justice.json) |
 | Cyborg Lumberjack | 297083 | [297083-cyborg-lumberjack.json](./297083-cyborg-lumberjack.json) |
 | Cyborg Mechanic | 127017 | [127017-cyborg-mechanic.json](./127017-cyborg-mechanic.json) |
