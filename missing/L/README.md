@@ -3629,6 +3629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Link Track | 255012 | [255012-link-track.json](./255012-link-track.json) |
 | Link Twin | 29055 | [29055-link-twin.json](./29055-link-twin.json) |
 | Link Wars | 153317 | [153317-link-wars.json](./153317-link-wars.json) |
+| Link-a-Pix Deluxe | 129510 | [129510-link-a-pix-deluxe.json](./129510-link-a-pix-deluxe.json) |
 | Link: The Faces of Evil | 8532 | [8532-link-the-faces-of-evil.json](./8532-link-the-faces-of-evil.json) |
 | Link: The Unleashed Nexus | 28496 | [28496-link-the-unleashed-nexus.json](./28496-link-the-unleashed-nexus.json) |
 | Link: The Unleashed Nexus - Restructured Heaven | 151756 | [151756-link-the-unleashed-nexus-restructured-heaven.json](./151756-link-the-unleashed-nexus-restructured-heaven.json) |
