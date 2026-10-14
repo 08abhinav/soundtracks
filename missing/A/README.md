@@ -1167,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abby Normalli in Mayhem Mansion | 377424 | [377424-abby-normalli-in-mayhem-mansion.json](./377424-abby-normalli-in-mayhem-mansion.json) |
 | Abbys Endless Adventure | 77591 | [77591-abbys-endless-adventure.json](./77591-abbys-endless-adventure.json) |
 | ABC Book 3D: Learn English | 377423 | [377423-abc-book-3d-learn-english.json](./377423-abc-book-3d-learn-english.json) |
+| ABC Hunt | 74977 | [74977-abc-hunt.json](./74977-abc-hunt.json) |
 | ABC Match with Me | 193300 | [193300-abc-match-with-me.json](./193300-abc-match-with-me.json) |
 | ABC Memory Match | 99415 | [99415-abc-memory-match.json](./99415-abc-memory-match.json) |
 | ABC Mysteriez: Hidden Letters | 88604 | [88604-abc-mysteriez-hidden-letters.json](./88604-abc-mysteriez-hidden-letters.json) |
@@ -5189,6 +5190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alundra | 1175 | [1175-alundra.json](./1175-alundra.json) |
 | Alundra 2: A New Legend Begins | 1176 | [1176-alundra-2-a-new-legend-begins.json](./1176-alundra-2-a-new-legend-begins.json) |
 | Alurwe: Ein Spaziergang durch Alt-Urfahr West | 117423 | [117423-alurwe-ein-spaziergang-durch-alt-urfahr-west.json](./117423-alurwe-ein-spaziergang-durch-alt-urfahr-west.json) |
+| Alvarok | 74958 | [74958-alvarok.json](./74958-alvarok.json) |
 | Alvastia Chronicles | 113623 | [113623-alvastia-chronicles.json](./113623-alvastia-chronicles.json) |
 | Alvegia Online | 218397 | [218397-alvegia-online.json](./218397-alvegia-online.json) |
 | Alveole | 164863 | [164863-alveole.json](./164863-alveole.json) |
