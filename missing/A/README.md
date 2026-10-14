@@ -2150,7 +2150,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Boss | 181154 | [181154-adventure-boss.json](./181154-adventure-boss.json) |
 | Adventure Boy Jailbreak | 127824 | [127824-adventure-boy-jailbreak.json](./127824-adventure-boy-jailbreak.json) |
 | Adventure C: The Ship of Doom | 72641 | [72641-adventure-c-the-ship-of-doom.json](./72641-adventure-c-the-ship-of-doom.json) |
-| AdVenture Capitalist | 9591 | [9591-adventure-capitalist.json](./9591-adventure-capitalist.json) |
 | Adventure Climb VR | 116821 | [116821-adventure-climb-vr.json](./116821-adventure-climb-vr.json) |
 | Adventure Company | 57326 | [57326-adventure-company.json](./57326-adventure-company.json) |
 | Adventure Cop | 118092 | [118092-adventure-cop.json](./118092-adventure-cop.json) |
