@@ -1860,6 +1860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DawnOfCombat | 260630 | [260630-dawnofcombat.json](./260630-dawnofcombat.json) |
 | Dawnspire: Prelude | 70476 | [70476-dawnspire-prelude.json](./70476-dawnspire-prelude.json) |
 | Dawntide | 204977 | [204977-dawntide.json](./204977-dawntide.json) |
+| Dawntide | 74281 | [74281-dawntide.json](./74281-dawntide.json) |
 | Dawntown | 301341 | [301341-dawntown.json](./301341-dawntown.json) |
 | DawnWander | 158525 | [158525-dawnwander.json](./158525-dawnwander.json) |
 | Daxter | 305477 | [305477-daxter.json](./305477-daxter.json) |
@@ -2596,6 +2597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeadEye | 116340 | [116340-deadeye.json](./116340-deadeye.json) |
 | DeadEye | 393750 | [393750-deadeye.json](./393750-deadeye.json) |
 | Deadeye Deepfake Simulacrum | 156161 | [156161-deadeye-deepfake-simulacrum.json](./156161-deadeye-deepfake-simulacrum.json) |
+| Deadeye Dungeon | 74242 | [74242-deadeye-dungeon.json](./74242-deadeye-dungeon.json) |
 | Deadfall | 258427 | [258427-deadfall.json](./258427-deadfall.json) |
 | Deadfall | 270714 | [270714-deadfall.json](./270714-deadfall.json) |
 | Deadfall Adventures | 6961 | [6961-deadfall-adventures.json](./6961-deadfall-adventures.json) |
@@ -5046,6 +5048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Bureau Simulator | 150015 | [150015-detective-bureau-simulator.json](./150015-detective-bureau-simulator.json) |
 | Detective Butler and the King of Hearts | 244238 | [244238-detective-butler-and-the-king-of-hearts.json](./244238-detective-butler-and-the-king-of-hearts.json) |
 | Detective Butler: Maiden Voyage Murder | 34660 | [34660-detective-butler-maiden-voyage-murder.json](./34660-detective-butler-maiden-voyage-murder.json) |
+| Detective Case and Clown Bot in: The Express Killer | 74222 | [74222-detective-case-and-clown-bot-in-the-express-killer.json](./74222-detective-case-and-clown-bot-in-the-express-killer.json) |
 | Detective Chirpums: Private Investigator | 249702 | [249702-detective-chirpums-private-investigator.json](./249702-detective-chirpums-private-investigator.json) |
 | Detective Clean | 221819 | [221819-detective-clean.json](./221819-detective-clean.json) |
 | Detective Club: Carnival of Secrets - Collector's Edition | 416774 | [416774-detective-club-carnival-of-secrets-collectors-edition.json](./416774-detective-club-carnival-of-secrets-collectors-edition.json) |
@@ -5207,6 +5210,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Lo Veult | 146677 | [146677-deus-lo-veult.json](./146677-deus-lo-veult.json) |
 | Deus Proxy | 291536 | [291536-deus-proxy.json](./291536-deus-proxy.json) |
 | Deus Vult | 139763 | [139763-deus-vult.json](./139763-deus-vult.json) |
+| Deus Vult - Arena | 74266 | [74266-deus-vult-arena.json](./74266-deus-vult-arena.json) |
+| Deus Vult Arena: Fastest 3rd person gameplay ever! | 74264 | [74264-deus-vult-arena-fastest-3rd-person-gameplay-ever.json](./74264-deus-vult-arena-fastest-3rd-person-gameplay-ever.json) |
 | Deus Vult II | 139765 | [139765-deus-vult-ii.json](./139765-deus-vult-ii.json) |
 | Deus Vult VR | 107634 | [107634-deus-vult-vr.json](./107634-deus-vult-vr.json) |
 | Deuteros: The Next Millennium | 9575 | [9575-deuteros-the-next-millennium.json](./9575-deuteros-the-next-millennium.json) |
