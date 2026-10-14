@@ -2980,8 +2980,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlestage | 171396 | [171396-battlestage.json](./171396-battlestage.json) |
 | Battlestar Galactica Deadlock: Anabasis | 110891 | [110891-battlestar-galactica-deadlock-anabasis.json](./110891-battlestar-galactica-deadlock-anabasis.json) |
 | Battlestar Galactica Deadlock: Armistice | 171015 | [171015-battlestar-galactica-deadlock-armistice.json](./171015-battlestar-galactica-deadlock-armistice.json) |
+| Battlestar Galactica Deadlock: Ghost Fleet Offensive | 129481 | [129481-battlestar-galactica-deadlock-ghost-fleet-offensive.json](./129481-battlestar-galactica-deadlock-ghost-fleet-offensive.json) |
 | Battlestar Galactica Deadlock: Reinforcement Pack | 171016 | [171016-battlestar-galactica-deadlock-reinforcement-pack.json](./171016-battlestar-galactica-deadlock-reinforcement-pack.json) |
 | Battlestar Galactica Deadlock: Sin and Sacrifice | 115672 | [115672-battlestar-galactica-deadlock-sin-and-sacrifice.json](./115672-battlestar-galactica-deadlock-sin-and-sacrifice.json) |
+| Battlestar Galactica Deadlock: The Broken Alliance | 129482 | [129482-battlestar-galactica-deadlock-the-broken-alliance.json](./129482-battlestar-galactica-deadlock-the-broken-alliance.json) |
 | Battlestar Galactica: Scattered Hopes | 361822 | [361822-battlestar-galactica-scattered-hopes.json](./361822-battlestar-galactica-scattered-hopes.json) |
 | BattleStar Mazay | 104068 | [104068-battlestar-mazay.json](./104068-battlestar-mazay.json) |
 | Battlestations | 13872 | [13872-battlestations.json](./13872-battlestations.json) |
