@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tag Royale | 166600 | [166600-tag-royale.json](./166600-tag-royale.json) |
 | Tag Team Match M.U.S.C.L.E. | 73788 | [73788-tag-team-match-m-u-s-c-l-e.json](./73788-tag-team-match-m-u-s-c-l-e.json) |
 | Tag Team Wrestling | 286612 | [286612-tag-team-wrestling.json](./286612-tag-team-wrestling.json) |
+| Tag War | 116886 | [116886-tag-war.json](./116886-tag-war.json) |
 | Tag War VR | 336904 | [336904-tag-war-vr.json](./336904-tag-war-vr.json) |
 | Tag-Along Todd | 311703 | [311703-tag-along-todd.json](./311703-tag-along-todd.json) |
 | Tag: The Power of Paint | 101055 | [101055-tag-the-power-of-paint.json](./101055-tag-the-power-of-paint.json) |
@@ -9963,6 +9964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Playroom 2 | 124137 | [124137-the-playroom-2.json](./124137-the-playroom-2.json) |
 | The Playroom: AR Studio | 296039 | [296039-the-playroom-ar-studio.json](./296039-the-playroom-ar-studio.json) |
 | The Plight of the Cracked | 391849 | [391849-the-plight-of-the-cracked.json](./391849-the-plight-of-the-cracked.json) |
+| The Ploshers | 116907 | [116907-the-ploshers.json](./116907-the-ploshers.json) |
 | The Plucky Squire x The Swords of Ditto: Mormo's Curse Bundle | 356822 | [356822-the-plucky-squire-x-the-swords-of-ditto-mormos-curse-bundle.json](./356822-the-plucky-squire-x-the-swords-of-ditto-mormos-curse-bundle.json) |
 | The Plug | 175436 | [175436-the-plug.json](./175436-the-plug.json) |
 | The Plumber Thing | 223000 | [223000-the-plumber-thing.json](./223000-the-plumber-thing.json) |
@@ -12547,6 +12549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Warp Coin Catastrophe | 186105 | [186105-the-warp-coin-catastrophe.json](./186105-the-warp-coin-catastrophe.json) |
 | The Warp: Cephisso | 351641 | [351641-the-warp-cephisso.json](./351641-the-warp-cephisso.json) |
 | The Warrens | 373224 | [373224-the-warrens.json](./373224-the-warrens.json) |
+| The Warrior | 116877 | [116877-the-warrior.json](./116877-the-warrior.json) |
 | The Warrior of Treasures 2: Skull Hunter | 107804 | [107804-the-warrior-of-treasures-2-skull-hunter.json](./107804-the-warrior-of-treasures-2-skull-hunter.json) |
 | The Warrior of Wisdom | 173784 | [173784-the-warrior-of-wisdom.json](./173784-the-warrior-of-wisdom.json) |
 | The Warrior War | 105101 | [105101-the-warrior-war.json](./105101-the-warrior-war.json) |
@@ -14508,6 +14511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I A-Gun MP013 | 160307 | [160307-tiger-tank-59-i-a-gun-mp013.json](./160307-tiger-tank-59-i-a-gun-mp013.json) |
 | Tiger Tank 59 I Air Strike | 119047 | [119047-tiger-tank-59-i-air-strike.json](./119047-tiger-tank-59-i-air-strike.json) |
 | Tiger Tank 59 I Battleship | 119672 | [119672-tiger-tank-59-i-battleship.json](./119672-tiger-tank-59-i-battleship.json) |
+| Tiger Tank 59 I Black Hill Fortress | 116778 | [116778-tiger-tank-59-i-black-hill-fortress.json](./116778-tiger-tank-59-i-black-hill-fortress.json) |
 | Tiger Tank 59 I Rainstorm | 118371 | [118371-tiger-tank-59-i-rainstorm.json](./118371-tiger-tank-59-i-rainstorm.json) |
 | Tiger Tank 59 I Super Tank | 119725 | [119725-tiger-tank-59-i-super-tank.json](./119725-tiger-tank-59-i-super-tank.json) |
 | Tiger Tank 59 I Volcano | 118410 | [118410-tiger-tank-59-i-volcano.json](./118410-tiger-tank-59-i-volcano.json) |
@@ -15471,8 +15475,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Twist: Rekishi no Katasumi de... - Kouhen | 41360 | [41360-time-twist-rekishi-no-katasumi-de-kouhen.json](./41360-time-twist-rekishi-no-katasumi-de-kouhen.json) |
 | Time Twist: Rekishi no Katasumi de... - Zenpen | 41361 | [41361-time-twist-rekishi-no-katasumi-de-zenpen.json](./41361-time-twist-rekishi-no-katasumi-de-zenpen.json) |
 | Time Up | 68597 | [68597-time-up.json](./68597-time-up.json) |
+| Time Warp | 116770 | [116770-time-warp.json](./116770-time-warp.json) |
 | Time Warpers | 110073 | [110073-time-warpers.json](./110073-time-warpers.json) |
 | Time Warrior | 221900 | [221900-time-warrior.json](./221900-time-warrior.json) |
+| Time Warrior Z VR | 116775 | [116775-time-warrior-z-vr.json](./116775-time-warrior-z-vr.json) |
 | Time Warriors | 10859 | [10859-time-warriors.json](./10859-time-warriors.json) |
 | Time Witch | 412201 | [412201-time-witch.json](./412201-time-witch.json) |
 | Time Wiza | 364675 | [364675-time-wiza.json](./364675-time-wiza.json) |
@@ -22098,6 +22104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twinkle Nights | 286037 | [286037-twinkle-nights.json](./286037-twinkle-nights.json) |
 | Twinkle Star Sprites | 35378 | [35378-twinkle-star-sprites.json](./35378-twinkle-star-sprites.json) |
 | Twinkle Star Sprites: La Petite Princesse | 43453 | [43453-twinkle-star-sprites-la-petite-princesse.json](./43453-twinkle-star-sprites-la-petite-princesse.json) |
+| Twinkle Star: Mirai wa Sugu Soko de Matteiru | 116906 | [116906-twinkle-star-mirai-wa-sugu-soko-de-matteiru.json](./116906-twinkle-star-mirai-wa-sugu-soko-de-matteiru.json) |
 | Twinkle Stardust's Catnap Chaos | 384192 | [384192-twinkle-stardusts-catnap-chaos.json](./384192-twinkle-stardusts-catnap-chaos.json) |
 | Twinkle Tale | 46179 | [46179-twinkle-tale.json](./46179-twinkle-tale.json) |
 | Twinkle Twinkle Little Star | 258621 | [258621-twinkle-twinkle-little-star.json](./258621-twinkle-twinkle-little-star.json) |
