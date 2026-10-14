@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFL: Ultimate UFL club | 332086 | [332086-ufl-ultimate-ufl-club.json](./332086-ufl-ultimate-ufl-club.json) |
 | UFO | 100199 | [100199-ufo.json](./100199-ufo.json) |
 | UFO 50 | 54555 | [54555-ufo-50.json](./54555-ufo-50.json) |
+| UFO Chase | 110855 | [110855-ufo-chase.json](./110855-ufo-chase.json) |
 | UFO Combat 2000 | 111175 | [111175-ufo-combat-2000.json](./111175-ufo-combat-2000.json) |
 | UFO Cross | 130108 | [130108-ufo-cross.json](./130108-ufo-cross.json) |
 | UFO Enemy Known | 310768 | [310768-ufo-enemy-known.json](./310768-ufo-enemy-known.json) |
