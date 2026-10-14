@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row: SteelSeries Cosmetic Pack | 307151 | [307151-saints-row-steelseries-cosmetic-pack.json](./307151-saints-row-steelseries-cosmetic-pack.json) |
 | Saints Row: The Big Purple Package | 283181 | [283181-saints-row-the-big-purple-package.json](./283181-saints-row-the-big-purple-package.json) |
 | Saints Row: The Heist & The Hazardous | 249476 | [249476-saints-row-the-heist-and-the-hazardous.json](./249476-saints-row-the-heist-and-the-hazardous.json) |
+| Saints Row: The Third - Enter the Dominatrix | 94133 | [94133-saints-row-the-third-enter-the-dominatrix.json](./94133-saints-row-the-third-enter-the-dominatrix.json) |
 | Saints Row: The Third - Genkibowl VII | 78454 | [78454-saints-row-the-third-genkibowl-vii.json](./78454-saints-row-the-third-genkibowl-vii.json) |
 | Saints Row: The Third - The Trouble with Clones | 78452 | [78452-saints-row-the-third-the-trouble-with-clones.json](./78452-saints-row-the-third-the-trouble-with-clones.json) |
 | Saints Row: The Third Remastered | 132097 | [132097-saints-row-the-third-remastered.json](./132097-saints-row-the-third-remastered.json) |
@@ -816,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SameGame | 64430 | [64430-samegame.json](./64430-samegame.json) |
 | SameGame - Colors | 86068 | [86068-samegame-colors.json](./86068-samegame-colors.json) |
 | SameGame - Shapes | 86069 | [86069-samegame-shapes.json](./86069-samegame-shapes.json) |
+| SameGame + Tengai Makyou Zero Jikei | 94144 | [94144-samegame-tengai-makyou-zero-jikei.json](./94144-samegame-tengai-makyou-zero-jikei.json) |
 | SameGame Fighter | 64436 | [64436-samegame-fighter.json](./64436-samegame-fighter.json) |
 | SameGame HD | 64432 | [64432-samegame-hd.json](./64432-samegame-hd.json) |
 | SameGame: Character Cassette | 234780 | [234780-samegame-character-cassette.json](./234780-samegame-character-cassette.json) |
@@ -2102,6 +2104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schwarzerblitz | 118188 | [118188-schwarzerblitz.json](./118188-schwarzerblitz.json) |
 | Schwarzerblitz: 8-Colors Star Guardians Collaboration Costumes - Chapter 1 | 265083 | [265083-schwarzerblitz-8-colors-star-guardians-collaboration-costumes-chapter-1.json](./265083-schwarzerblitz-8-colors-star-guardians-collaboration-costumes-chapter-1.json) |
 | Schwarzesmarken Kouketsu no Monshou / Junkyousha-tachi | 86089 | [86089-schwarzesmarken-kouketsu-no-monshou-junkyousha-tachi.json](./86089-schwarzesmarken-kouketsu-no-monshou-junkyousha-tachi.json) |
+| Schwarzschild EX | 94112 | [94112-schwarzschild-ex.json](./94112-schwarzschild-ex.json) |
 | Schwebebahn Simulator 2013 | 241490 | [241490-schwebebahn-simulator-2013.json](./241490-schwebebahn-simulator-2013.json) |
 | Schwerkraftprojektionsgerät | 139155 | [139155-schwerkraftprojektionsgerat.json](./139155-schwerkraftprojektionsgerat.json) |
 | Schwerpunkt | 155868 | [155868-schwerpunkt.json](./155868-schwerpunkt.json) |
