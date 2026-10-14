@@ -7371,6 +7371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractal Sailor | 293745 | [293745-fractal-sailor.json](./293745-fractal-sailor.json) |
 | Fractalis | 121775 | [121775-fractalis.json](./121775-fractalis.json) |
 | Fractasia VR | 105997 | [105997-fractasia-vr.json](./105997-fractasia-vr.json) |
+| Fraction War | 101425 | [101425-fraction-war.json](./101425-fraction-war.json) |
 | Fractional Numbers | 42196 | [42196-fractional-numbers.json](./42196-fractional-numbers.json) |
 | Fractions | 42172 | [42172-fractions.json](./42172-fractions.json) |
 | Fractium | 217512 | [217512-fractium.json](./217512-fractium.json) |
