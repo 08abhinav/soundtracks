@@ -3784,6 +3784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Ace Jr. | 209548 | [209548-math-ace-jr.json](./209548-math-ace-jr.json) |
 | Math Adventures | 219676 | [219676-math-adventures.json](./219676-math-adventures.json) |
 | Math and Letters Air Control | 197778 | [197778-math-and-letters-air-control.json](./197778-math-and-letters-air-control.json) |
+| Math and Sorcery | 106946 | [106946-math-and-sorcery.json](./106946-math-and-sorcery.json) |
 | Math Attack | 367509 | [367509-math-attack.json](./367509-math-attack.json) |
 | Math Balance: Pre-algebra game for kids | 97141 | [97141-math-balance-pre-algebra-game-for-kids.json](./97141-math-balance-pre-algebra-game-for-kids.json) |
 | Math Baseball | 230437 | [230437-math-baseball.json](./230437-math-baseball.json) |
@@ -3962,6 +3963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mawkey The Last Macaw | 358950 | [358950-mawkey-the-last-macaw.json](./358950-mawkey-the-last-macaw.json) |
 | Mawthorne | 201504 | [201504-mawthorne.json](./201504-mawthorne.json) |
 | Mawthorne 2 | 382210 | [382210-mawthorne-2.json](./382210-mawthorne-2.json) |
+| Max & Ruby: Carnival Fair | 107047 | [107047-max-and-ruby-carnival-fair.json](./107047-max-and-ruby-carnival-fair.json) |
 | Max & the Magic Marker | 248557 | [248557-max-and-the-magic-marker.json](./248557-max-and-the-magic-marker.json) |
 | Max & the Magic Marker | 5000 | [5000-max-and-the-magic-marker.json](./5000-max-and-the-magic-marker.json) |
 | Max & the Magic Marker - Remastered | 96301 | [96301-max-and-the-magic-marker-remastered.json](./96301-max-and-the-magic-marker-remastered.json) |
