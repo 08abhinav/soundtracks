@@ -7341,6 +7341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midinous | 173225 | [173225-midinous.json](./173225-midinous.json) |
 | Midio! | 336919 | [336919-midio.json](./336919-midio.json) |
 | Midjungard | 127689 | [127689-midjungard.json](./127689-midjungard.json) |
+| Midkemia Online | 93490 | [93490-midkemia-online.json](./93490-midkemia-online.json) |
 | MidKnight Story | 115444 | [115444-midknight-story.json](./115444-midknight-story.json) |
 | Midline '85 | 247738 | [247738-midline-85.json](./247738-midline-85.json) |
 | Midna's Mario World | 282730 | [282730-midnas-mario-world.json](./282730-midnas-mario-world.json) |
@@ -7507,6 +7508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midtris | 341611 | [341611-midtris.json](./341611-midtris.json) |
 | Midvinter | 19281 | [19281-midvinter.json](./19281-midvinter.json) |
 | Midway Accident | 296975 | [296975-midway-accident.json](./296975-midway-accident.json) |
+| Midway Arcade | 93496 | [93496-midway-arcade.json](./93496-midway-arcade.json) |
 | Midway Campaign | 23994 | [23994-midway-campaign.json](./23994-midway-campaign.json) |
 | Midway: Sink the Japanese Aircraft Carriers | 196293 | [196293-midway-sink-the-japanese-aircraft-carriers.json](./196293-midway-sink-the-japanese-aircraft-carriers.json) |
 | Midway: The Battle that Doomed Japan | 73745 | [73745-midway-the-battle-that-doomed-japan.json](./73745-midway-the-battle-that-doomed-japan.json) |
@@ -8082,6 +8084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Seeker | 89965 | [89965-mine-seeker.json](./89965-mine-seeker.json) |
 | Mine Shaft | 195512 | [195512-mine-shaft.json](./195512-mine-shaft.json) |
 | Mine Shaft | 241965 | [241965-mine-shaft.json](./241965-mine-shaft.json) |
+| Mine Shaft | 93481 | [93481-mine-shaft.json](./93481-mine-shaft.json) |
 | Mine Spiders | 350950 | [350950-mine-spiders.json](./350950-mine-spiders.json) |
 | Mine Storm II | 41987 | [41987-mine-storm-ii.json](./41987-mine-storm-ii.json) |
 | Mine Survival | 233447 | [233447-mine-survival.json](./233447-mine-survival.json) |
