@@ -3958,6 +3958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alertes Spéciales | 363969 | [363969-alertes-speciales.json](./363969-alertes-speciales.json) |
 | Aleryos | 411412 | [411412-aleryos.json](./411412-aleryos.json) |
 | Ales Dash | 102935 | [102935-ales-dash.json](./102935-ales-dash.json) |
+| Aleste Branch | 120663 | [120663-aleste-branch.json](./120663-aleste-branch.json) |
 | Aleste Collection | 139997 | [139997-aleste-collection.json](./139997-aleste-collection.json) |
 | Aletheia: Prophecy of Perseus | 345144 | [345144-aletheia-prophecy-of-perseus.json](./345144-aletheia-prophecy-of-perseus.json) |
 | Aletheia: Return of Odysseus | 288753 | [288753-aletheia-return-of-odysseus.json](./288753-aletheia-return-of-odysseus.json) |
@@ -5251,6 +5252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Penguin DX | 279579 | [279579-amazing-penguin-dx.json](./279579-amazing-penguin-dx.json) |
 | Amazing Pets Bundle | 212788 | [212788-amazing-pets-bundle.json](./212788-amazing-pets-bundle.json) |
 | Amazing Pyramids | 385293 | [385293-amazing-pyramids.json](./385293-amazing-pyramids.json) |
+| Amazing repair | 120691 | [120691-amazing-repair.json](./120691-amazing-repair.json) |
 | Amazing Runner | 41510 | [41510-amazing-runner.json](./41510-amazing-runner.json) |
 | Amazing Soccer 2013 | 99146 | [99146-amazing-soccer-2013.json](./99146-amazing-soccer-2013.json) |
 | Amazing Space | 258210 | [258210-amazing-space.json](./258210-amazing-space.json) |
@@ -7048,6 +7050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anthem#9 | 276853 | [276853-anthem-9.json](./276853-anthem-9.json) |
 | Anthèse | 371591 | [371591-anthese.json](./371591-anthese.json) |
 | Anthesis | 83146 | [83146-anthesis.json](./83146-anthesis.json) |
+| Anthology of Fear | 120686 | [120686-anthology-of-fear.json](./120686-anthology-of-fear.json) |
 | Anthology of the Killer | 268731 | [268731-anthology-of-the-killer.json](./268731-anthology-of-the-killer.json) |
 | Antholojam 1: Golden Era of Sci-Fi | 141781 | [141781-antholojam-1-golden-era-of-sci-fi.json](./141781-antholojam-1-golden-era-of-sci-fi.json) |
 | Anthro Heat | 236405 | [236405-anthro-heat.json](./236405-anthro-heat.json) |
@@ -10914,6 +10917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Altair | 69848 | [69848-attack-on-altair.json](./69848-attack-on-altair.json) |
 | Attack on Beetle | 187467 | [187467-attack-on-beetle.json](./187467-attack-on-beetle.json) |
 | Attack on Hex Island | 239665 | [239665-attack-on-hex-island.json](./239665-attack-on-hex-island.json) |
+| Attack on I-Ching | 120680 | [120680-attack-on-i-ching.json](./120680-attack-on-i-ching.json) |
 | Attack on Inirea | 342254 | [342254-attack-on-inirea.json](./342254-attack-on-inirea.json) |
 | Attack on IO | 257303 | [257303-attack-on-io.json](./257303-attack-on-io.json) |
 | Attack on King: Reloaded | 226225 | [226225-attack-on-king-reloaded.json](./226225-attack-on-king-reloaded.json) |
