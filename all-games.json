@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T08:21:05.359Z",
-  "total_soundtracks": 1631,
+  "generated_at": "2026-10-14T08:21:14.110Z",
+  "total_soundtracks": 1632,
   "games": [
     {
       "igdb_id": 7522,
@@ -15382,6 +15382,20 @@
           "album_name": "TALES OF ARISE Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/1BeQ45CPEj51I2agsKlqOQ",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 1204,
+      "game_name": "Tales of Symphonia",
+      "game_url": "https://ostdb.net/games/tales-of-symphonia",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273847bf08ddffc44e5321a25aa",
+      "albums": [
+        {
+          "album_name": "Tales of Symphonia Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6TiS9kMfpqiUeau5lX7VY2",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
