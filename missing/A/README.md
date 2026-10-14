@@ -1897,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Activision Anthology | 301430 | [301430-activision-anthology.json](./301430-activision-anthology.json) |
 | Activision Anthology: Remix Edition | 45979 | [45979-activision-anthology-remix-edition.json](./45979-activision-anthology-remix-edition.json) |
 | Activision Collection 1 | 379134 | [379134-activision-collection-1.json](./379134-activision-collection-1.json) |
+| Activision's Atari 2600 Action Pack | 79146 | [79146-activisions-atari-2600-action-pack.json](./79146-activisions-atari-2600-action-pack.json) |
 | Activision's Atari 2600 Action Pack 2 | 100084 | [100084-activisions-atari-2600-action-pack-2.json](./100084-activisions-atari-2600-action-pack-2.json) |
 | Activision's Atari 2600 Action Pack 3 | 80841 | [80841-activisions-atari-2600-action-pack-3.json](./80841-activisions-atari-2600-action-pack-3.json) |
 | Activision's Commodore 64 15 Pack | 82061 | [82061-activisions-commodore-64-15-pack.json](./82061-activisions-commodore-64-15-pack.json) |
@@ -2004,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adian no Tsue | 41310 | [41310-adian-no-tsue.json](./41310-adian-no-tsue.json) |
 | Adiasis | 133948 | [133948-adiasis.json](./133948-adiasis.json) |
 | Adiboo & Paziral's Secret | 98251 | [98251-adiboo-and-pazirals-secret.json](./98251-adiboo-and-pazirals-secret.json) |
+| Adiboo and the Energy Thieves | 79132 | [79132-adiboo-and-the-energy-thieves.json](./79132-adiboo-and-the-energy-thieves.json) |
 | Adiboo and the Green Shadow | 144839 | [144839-adiboo-and-the-green-shadow.json](./144839-adiboo-and-the-green-shadow.json) |
 | Adibou Anglais | 242506 | [242506-adibou-anglais.json](./242506-adibou-anglais.json) |
 | Adibou d'chou au cirque | 242534 | [242534-adibou-dchou-au-cirque.json](./242534-adibou-dchou-au-cirque.json) |
@@ -7282,6 +7284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antipathy | 326668 | [326668-antipathy.json](./326668-antipathy.json) |
 | Antiphona no Seikahime: Tenshi no Score Op.A | 56523 | [56523-antiphona-no-seikahime-tenshi-no-score-op-a.json](./56523-antiphona-no-seikahime-tenshi-no-score-op-a.json) |
 | AntiPodal | 342658 | [342658-antipodal.json](./342658-antipodal.json) |
+| Antipole | 79151 | [79151-antipole.json](./79151-antipole.json) |
 | Antipole DX | 60519 | [60519-antipole-dx.json](./60519-antipole-dx.json) |
 | Antiprism | 151831 | [151831-antiprism.json](./151831-antiprism.json) |
 | Antiquarium | 287645 | [287645-antiquarium.json](./287645-antiquarium.json) |
@@ -9450,6 +9453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Beauties | 385791 | [385791-art-of-beauties.json](./385791-art-of-beauties.json) |
 | Art of Blades | 292428 | [292428-art-of-blades.json](./292428-art-of-blades.json) |
 | Art of Boxing | 129037 | [129037-art-of-boxing.json](./129037-art-of-boxing.json) |
+| Art of Conquest | 79154 | [79154-art-of-conquest.json](./79154-art-of-conquest.json) |
 | Art of Destruction | 152831 | [152831-art-of-destruction.json](./152831-art-of-destruction.json) |
 | Art of Fauna: Cozy Puzzles+ | 415280 | [415280-art-of-fauna-cozy-puzzles.json](./415280-art-of-fauna-cozy-puzzles.json) |
 | Art of Fighting | 4514 | [4514-art-of-fighting.json](./4514-art-of-fighting.json) |
@@ -10723,6 +10727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Winter's End | 264698 | [264698-at-winters-end.json](./264698-at-winters-end.json) |
 | At Your Feet | 306512 | [306512-at-your-feet.json](./306512-at-your-feet.json) |
 | At Your Service | 204423 | [204423-at-your-service.json](./204423-at-your-service.json) |
+| Ata Hoshev SheAta Haham | 79123 | [79123-ata-hoshev-sheata-haham.json](./79123-ata-hoshev-sheata-haham.json) |
 | Ata: Extracts from the American Civil War | 322053 | [322053-ata-extracts-from-the-american-civil-war.json](./322053-ata-extracts-from-the-american-civil-war.json) |
 | ATAC: Advanced Tactical Air Command | 14488 | [14488-atac-advanced-tactical-air-command.json](./14488-atac-advanced-tactical-air-command.json) |
 | ATAC: The Secret War Against Drugs | 14489 | [14489-atac-the-secret-war-against-drugs.json](./14489-atac-the-secret-war-against-drugs.json) |
