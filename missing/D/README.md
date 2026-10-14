@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Roads | 395518 | [395518-dangerous-roads.json](./395518-dangerous-roads.json) |
 | Dangerous Roads Ahead | 194284 | [194284-dangerous-roads-ahead.json](./194284-dangerous-roads-ahead.json) |
 | Dangerous Shelter | 142138 | [142138-dangerous-shelter.json](./142138-dangerous-shelter.json) |
+| Dangerous Skies 80's edition | 105157 | [105157-dangerous-skies-80s-edition.json](./105157-dangerous-skies-80s-edition.json) |
 | Dangerous Solitaire: Zombie Fever | 148931 | [148931-dangerous-solitaire-zombie-fever.json](./148931-dangerous-solitaire-zombie-fever.json) |
 | Dangerous Street | 391810 | [391810-dangerous-street.json](./391810-dangerous-street.json) |
 | Dangerous Streets | 12033 | [12033-dangerous-streets.json](./12033-dangerous-streets.json) |
@@ -1284,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tales: Edgar Allan Poe's The Oval Portrait - Collector's Edition | 370681 | [370681-dark-tales-edgar-allan-poes-the-oval-portrait-collectors-edition.json](./370681-dark-tales-edgar-allan-poes-the-oval-portrait-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Pit and the Pendulum - Collector's Edition | 370679 | [370679-dark-tales-edgar-allan-poes-the-pit-and-the-pendulum-collectors-edition.json](./370679-dark-tales-edgar-allan-poes-the-pit-and-the-pendulum-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Raven - Collector's Edition | 222282 | [222282-dark-tales-edgar-allan-poes-the-raven-collectors-edition.json](./222282-dark-tales-edgar-allan-poes-the-raven-collectors-edition.json) |
+| Dark Tales: Edgar Allan Poe's The Tell-Tale Heart - Collector's Edition | 105224 | [105224-dark-tales-edgar-allan-poes-the-tell-tale-heart-collectors-edition.json](./105224-dark-tales-edgar-allan-poes-the-tell-tale-heart-collectors-edition.json) |
 | Dark Tales: Mirror and Mad Princess | 252034 | [252034-dark-tales-mirror-and-mad-princess.json](./252034-dark-tales-mirror-and-mad-princess.json) |
 | Dark Tank | 320836 | [320836-dark-tank.json](./320836-dark-tank.json) |
 | Dark Tartarus | 260950 | [260950-dark-tartarus.json](./260950-dark-tartarus.json) |
@@ -5178,6 +5180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devastating Fog | 285018 | [285018-devastating-fog.json](./285018-devastating-fog.json) |
 | Devastation - Annihilate the Alien Race | 128927 | [128927-devastation-annihilate-the-alien-race.json](./128927-devastation-annihilate-the-alien-race.json) |
 | Devastator | 80872 | [80872-devastator.json](./80872-devastator.json) |
+| Devastator Arena | 105210 | [105210-devastator-arena.json](./105210-devastator-arena.json) |
 | Devastators | 39632 | [39632-devastators.json](./39632-devastators.json) |
 | Devestor | 375808 | [375808-devestor.json](./375808-devestor.json) |
 | Devexus | 199343 | [199343-devexus.json](./199343-devexus.json) |
