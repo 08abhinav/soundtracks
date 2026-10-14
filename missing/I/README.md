@@ -1520,6 +1520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ilomilo Plus | 50443 | [50443-ilomilo-plus.json](./50443-ilomilo-plus.json) |
 | Ilomilo: Autumn Tale | 288340 | [288340-ilomilo-autumn-tale.json](./288340-ilomilo-autumn-tale.json) |
 | Iltami | 311646 | [311646-iltami.json](./311646-iltami.json) |
+| Ilu | 100681 | [100681-ilu.json](./100681-ilu.json) |
 | iLudo | 90359 | [90359-iludo.json](./90359-iludo.json) |
 | Ilulissat Water Taxi | 110259 | [110259-ilulissat-water-taxi.json](./110259-ilulissat-water-taxi.json) |
 | Ilyad | 366984 | [366984-ilyad.json](./366984-ilyad.json) |
