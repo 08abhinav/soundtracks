@@ -1972,6 +1972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King and Country | 151148 | [151148-king-and-country.json](./151148-king-and-country.json) |
 | King and Kingdoms | 149687 | [149687-king-and-kingdoms.json](./149687-king-and-kingdoms.json) |
 | King Arthur | 3967 | [3967-king-arthur.json](./3967-king-arthur.json) |
+| King Arthur | 78534 | [78534-king-arthur.json](./78534-king-arthur.json) |
 | King Arthur II: Dead Legions | 53239 | [53239-king-arthur-ii-dead-legions.json](./53239-king-arthur-ii-dead-legions.json) |
 | King Arthur II: The Role-Playing Wargame | 7586 | [7586-king-arthur-ii-the-role-playing-wargame.json](./7586-king-arthur-ii-the-role-playing-wargame.json) |
 | King Arthur II: The Role-Playing Wargame + Dead Legions | 313230 | [313230-king-arthur-ii-the-role-playing-wargame-dead-legions.json](./313230-king-arthur-ii-the-role-playing-wargame-dead-legions.json) |
@@ -2843,6 +2844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klash | 62697 | [62697-klash.json](./62697-klash.json) |
 | KlashBall | 67941 | [67941-klashball.json](./67941-klashball.json) |
 | Klass of '99 | 120660 | [120660-klass-of-99.json](./120660-klass-of-99.json) |
+| Klątwa | 78573 | [78573-klatwa.json](./78573-klatwa.json) |
 | Klaus | 15488 | [15488-klaus.json](./15488-klaus.json) |
 | Klaus Lee: Thunderballs | 193201 | [193201-klaus-lee-thunderballs.json](./193201-klaus-lee-thunderballs.json) |
 | Klavia | 343315 | [343315-klavia.json](./343315-klavia.json) |
@@ -4218,6 +4220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyro | 50156 | [50156-kyro.json](./50156-kyro.json) |
 | Kyub Crazy Colors | 265431 | [265431-kyub-crazy-colors.json](./265431-kyub-crazy-colors.json) |
 | Kyubu Kyubu Dice | 215336 | [215336-kyubu-kyubu-dice.json](./215336-kyubu-kyubu-dice.json) |
+| Kyuiin | 78524 | [78524-kyuiin.json](./78524-kyuiin.json) |
 | Kyukyoku TigerHeli: Toaplan Arcade Garage | 399782 | [399782-kyukyoku-tigerheli-toaplan-arcade-garage.json](./399782-kyukyoku-tigerheli-toaplan-arcade-garage.json) |
 | Kyumori Episode1 | 175985 | [175985-kyumori-episode1.json](./175985-kyumori-episode1.json) |
 | Kyurinaga's Revenge | 25308 | [25308-kyurinagas-revenge.json](./25308-kyurinagas-revenge.json) |
