@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Carnage | 86241 | [86241-mad-carnage.json](./86241-mad-carnage.json) |
 | Mad Cars | 94261 | [94261-mad-cars.json](./94261-mad-cars.json) |
 | Mad Cat's World | 120910 | [120910-mad-cats-world.json](./120910-mad-cats-world.json) |
+| Mad CEO | 95973 | [95973-mad-ceo.json](./95973-mad-ceo.json) |
 | Mad City | 48575 | [48575-mad-city.json](./48575-mad-city.json) |
 | Mad Cop 3 | 175371 | [175371-mad-cop-3.json](./175371-mad-cop-3.json) |
 | Mad Cow Man and Deep Fried Beef Fat Boy | 73741 | [73741-mad-cow-man-and-deep-fried-beef-fat-boy.json](./73741-mad-cow-man-and-deep-fried-beef-fat-boy.json) |
@@ -7354,10 +7355,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Calling: Anabel | 91139 | [91139-midnight-calling-anabel.json](./91139-midnight-calling-anabel.json) |
 | Midnight Calling: Jeronimo | 102792 | [102792-midnight-calling-jeronimo.json](./102792-midnight-calling-jeronimo.json) |
 | Midnight Calling: Valeria - Collector's Edition | 166059 | [166059-midnight-calling-valeria-collectors-edition.json](./166059-midnight-calling-valeria-collectors-edition.json) |
+| Midnight Calling: Wise Dragon | 95917 | [95917-midnight-calling-wise-dragon.json](./95917-midnight-calling-wise-dragon.json) |
 | Midnight Calling: Wise Dragon - Collector's Edition | 221136 | [221136-midnight-calling-wise-dragon-collectors-edition.json](./221136-midnight-calling-wise-dragon-collectors-edition.json) |
 | Midnight Castle | 294462 | [294462-midnight-castle.json](./294462-midnight-castle.json) |
 | Midnight Cat Heist | 378996 | [378996-midnight-cat-heist.json](./378996-midnight-cat-heist.json) |
 | Midnight Cemetery | 273457 | [273457-midnight-cemetery.json](./273457-midnight-cemetery.json) |
+| Midnight Cinema | 95972 | [95972-midnight-cinema.json](./95972-midnight-cinema.json) |
 | Midnight Cipher | 155879 | [155879-midnight-cipher.json](./155879-midnight-cipher.json) |
 | Midnight Club 3: DUB Edition | 5928 | [5928-midnight-club-3-dub-edition.json](./5928-midnight-club-3-dub-edition.json) |
 | Midnight Club 3: DUB Edition Remix | 22583 | [22583-midnight-club-3-dub-edition-remix.json](./22583-midnight-club-3-dub-edition-remix.json) |
@@ -7456,6 +7459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Snack | 342248 | [342248-midnight-snack.json](./342248-midnight-snack.json) |
 | Midnight Souls | 365083 | [365083-midnight-souls.json](./365083-midnight-souls.json) |
 | Midnight Special | 319815 | [319815-midnight-special.json](./319815-midnight-special.json) |
+| Midnight Spooks 2: The Photo | 95930 | [95930-midnight-spooks-2-the-photo.json](./95930-midnight-spooks-2-the-photo.json) |
 | Midnight Spooks: The Thing in the Basement | 311482 | [311482-midnight-spooks-the-thing-in-the-basement.json](./311482-midnight-spooks-the-thing-in-the-basement.json) |
 | Midnight Star | 61713 | [61713-midnight-star.json](./61713-midnight-star.json) |
 | Midnight Stories 2 | 158067 | [158067-midnight-stories-2.json](./158067-midnight-stories-2.json) |
@@ -7822,6 +7826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millionaire Manor | 17371 | [17371-millionaire-manor.json](./17371-millionaire-manor.json) |
 | Millionaire Manor, Robin's Quest, Escape the Lost Kingdom and the Hidden Object Show 2 | 209510 | [209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json](./209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json) |
 | Millionaire Obby | 401099 | [401099-millionaire-obby.json](./401099-millionaire-obby.json) |
+| Millionaire Tycoon | 95921 | [95921-millionaire-tycoon.json](./95921-millionaire-tycoon.json) |
 | Millionaire: The Stock Market Simulation | 401794 | [401794-millionaire-the-stock-market-simulation.json](./401794-millionaire-the-stock-market-simulation.json) |
 | Millions of Billions of Suns | 398630 | [398630-millions-of-billions-of-suns.json](./398630-millions-of-billions-of-suns.json) |
 | Millipede | 198820 | [198820-millipede.json](./198820-millipede.json) |
@@ -9423,6 +9428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Home Run Derby VR | 293378 | [293378-mlb-home-run-derby-vr.json](./293378-mlb-home-run-derby-vr.json) |
 | MLB Live Challenge | 296032 | [296032-mlb-live-challenge.json](./296032-mlb-live-challenge.json) |
 | MLB Manager 2015 | 279628 | [279628-mlb-manager-2015.json](./279628-mlb-manager-2015.json) |
+| MLB Manager 2017 | 95918 | [95918-mlb-manager-2017.json](./95918-mlb-manager-2017.json) |
 | MLB Manager 2018 | 96270 | [96270-mlb-manager-2018.json](./96270-mlb-manager-2018.json) |
 | MLB Perfect Inning | 323161 | [323161-mlb-perfect-inning.json](./323161-mlb-perfect-inning.json) |
 | MLB Perfect Inning 24 | 321667 | [321667-mlb-perfect-inning-24.json](./321667-mlb-perfect-inning-24.json) |
@@ -10070,6 +10076,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Maze | 221897 | [221897-money-maze.json](./221897-money-maze.json) |
 | Money Money | 38582 | [38582-money-money.json](./38582-money-money.json) |
 | Money Mouse in Full Barn House | 281535 | [281535-money-mouse-in-full-barn-house.json](./281535-money-mouse-in-full-barn-house.json) |
+| Money Movers | 95982 | [95982-money-movers.json](./95982-money-movers.json) |
+| Money Movers 2 | 95983 | [95983-money-movers-2.json](./95983-money-movers-2.json) |
 | Money Munchers | 59890 | [59890-money-munchers.json](./59890-money-munchers.json) |
 | Money Parasite: Usotsuki na Onna | 225885 | [225885-money-parasite-usotsuki-na-onna.json](./225885-money-parasite-usotsuki-na-onna.json) |
 | Money Puzzle Exchanger | 37280 | [37280-money-puzzle-exchanger.json](./37280-money-puzzle-exchanger.json) |
@@ -10338,6 +10346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster City: A Monster College Story | 370576 | [370576-monster-city-a-monster-college-story.json](./370576-monster-city-a-monster-college-story.json) |
 | Monster Clash 2 | 205591 | [205591-monster-clash-2.json](./205591-monster-clash-2.json) |
 | Monster Claws 5 | 357408 | [357408-monster-claws-5.json](./357408-monster-claws-5.json) |
+| Monster Clearer | 95958 | [95958-monster-clearer.json](./95958-monster-clearer.json) |
 | Monster Clicker : Idle Halloween Strategy | 111862 | [111862-monster-clicker-idle-halloween-strategy.json](./111862-monster-clicker-idle-halloween-strategy.json) |
 | Monster Club | 185144 | [185144-monster-club.json](./185144-monster-club.json) |
 | Monster Coffeeshop | 183848 | [183848-monster-coffeeshop.json](./183848-monster-coffeeshop.json) |
@@ -13049,6 +13058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Summoner | 249874 | [249874-music-summoner.json](./249874-music-summoner.json) |
 | Music Thief | 191813 | [191813-music-thief.json](./191813-music-thief.json) |
 | Music vs Block: Piano Simulation Game | 102242 | [102242-music-vs-block-piano-simulation-game.json](./102242-music-vs-block-piano-simulation-game.json) |
+| Music Wars | 95967 | [95967-music-wars.json](./95967-music-wars.json) |
 | Music: Music Creation for the PlayStation | 131289 | [131289-music-music-creation-for-the-playstation.json](./131289-music-music-creation-for-the-playstation.json) |
 | Music95 | 149512 | [149512-music95.json](./149512-music95.json) |
 | Musical Balls | 149525 | [149525-musical-balls.json](./149525-musical-balls.json) |
