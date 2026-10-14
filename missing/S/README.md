@@ -1201,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanou Kaihatsu Series 6 Ouyou Mondai | 303766 | [303766-sanou-kaihatsu-series-6-ouyou-mondai.json](./303766-sanou-kaihatsu-series-6-ouyou-mondai.json) |
 | Sanri | 216928 | [216928-sanri.json](./216928-sanri.json) |
 | Sanrio Characters Miracle Match: Magical Onigokko | 334648 | [334648-sanrio-characters-miracle-match-magical-onigokko.json](./334648-sanrio-characters-miracle-match-magical-onigokko.json) |
+| Sanrio Characters Picross | 97222 | [97222-sanrio-characters-picross.json](./97222-sanrio-characters-picross.json) |
 | Sanrio Characters x Tetris | 208279 | [208279-sanrio-characters-x-tetris.json](./208279-sanrio-characters-x-tetris.json) |
 | Sanrio Danshi: Watashi, Koi Wo, Shirimashita | 229031 | [229031-sanrio-danshi-watashi-koi-wo-shirimashita.json](./229031-sanrio-danshi-watashi-koi-wo-shirimashita.json) |
 | Sanrio Kawaii Me Live! | 408855 | [408855-sanrio-kawaii-me-live.json](./408855-sanrio-kawaii-me-live.json) |
@@ -5159,6 +5160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Was 98 | 385327 | [385327-she-was-98.json](./385327-she-was-98.json) |
 | She Who Fights Monsters: Choice Edition | 186168 | [186168-she-who-fights-monsters-choice-edition.json](./186168-she-who-fights-monsters-choice-edition.json) |
 | She Will Shoot | 173250 | [173250-she-will-shoot.json](./173250-she-will-shoot.json) |
+| SHE: Seraphim Helix Experiment | 404877 | [404877-she-seraphim-helix-experiment.json](./404877-she-seraphim-helix-experiment.json) |
 | She's a Bit Sluggish | 179109 | [179109-shes-a-bit-sluggish.json](./179109-shes-a-bit-sluggish.json) |
 | She's Got a Thing for a Spring | 217773 | [217773-shes-got-a-thing-for-a-spring.json](./217773-shes-got-a-thing-for-a-spring.json) |
 | She's Leaving | 342811 | [342811-shes-leaving.json](./342811-shes-leaving.json) |
@@ -5774,6 +5776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship of the Line | 73845 | [73845-ship-of-the-line.json](./73845-ship-of-the-line.json) |
 | Ship on Wheels | 311574 | [311574-ship-on-wheels.json](./311574-ship-on-wheels.json) |
 | Ship Regulus | 263970 | [263970-ship-regulus.json](./263970-ship-regulus.json) |
+| Ship Rescue | 97273 | [97273-ship-rescue.json](./97273-ship-rescue.json) |
 | Ship Shape | 263590 | [263590-ship-shape.json](./263590-ship-shape.json) |
 | Ship Shifters | 151487 | [151487-ship-shifters.json](./151487-ship-shifters.json) |
 | Ship Sim 2020 | 146819 | [146819-ship-sim-2020.json](./146819-ship-sim-2020.json) |
@@ -16170,6 +16173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Sonata 2 | 36276 | [36276-star-sonata-2.json](./36276-star-sonata-2.json) |
 | Star Soraight Fantasy: Magic to Reach the Sky | 343981 | [343981-star-soraight-fantasy-magic-to-reach-the-sky.json](./343981-star-soraight-fantasy-magic-to-reach-the-sky.json) |
 | Star Spectre | 217393 | [217393-star-spectre.json](./217393-star-spectre.json) |
+| Star Speeder | 97237 | [97237-star-speeder.json](./97237-star-speeder.json) |
 | Star Squadron | 345441 | [345441-star-squadron.json](./345441-star-squadron.json) |
 | Star Squadron: Student Driver | 149548 | [149548-star-squadron-student-driver.json](./149548-star-squadron-student-driver.json) |
 | Star Stable | 60338 | [60338-star-stable.json](./60338-star-stable.json) |
@@ -17955,6 +17959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Be a Human | 192088 | [192088-still-be-a-human.json](./192088-still-be-a-human.json) |
 | Still Breathing | 418545 | [418545-still-breathing.json](./418545-still-breathing.json) |
 | Still Dark at Dawn | 111028 | [111028-still-dark-at-dawn.json](./111028-still-dark-at-dawn.json) |
+| Still Here | 97223 | [97223-still-here.json](./97223-still-here.json) |
 | Still Here... A cute Adventure | 100773 | [100773-still-here-a-cute-adventure.json](./100773-still-here-a-cute-adventure.json) |
 | Still Here... Flight Adventure | 99178 | [99178-still-here-flight-adventure.json](./99178-still-here-flight-adventure.json) |
 | Still Heroes | 197963 | [197963-still-heroes.json](./197963-still-heroes.json) |
@@ -18226,6 +18231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormbridge | 327329 | [327329-stormbridge.json](./327329-stormbridge.json) |
 | Stormbringer | 13036 | [13036-stormbringer.json](./13036-stormbringer.json) |
 | Stormbroken | 363920 | [363920-stormbroken.json](./363920-stormbroken.json) |
+| Stormdivers | 97225 | [97225-stormdivers.json](./97225-stormdivers.json) |
 | StormEdge: Wind of Change | 244691 | [244691-stormedge-wind-of-change.json](./244691-stormedge-wind-of-change.json) |
 | Stormfall: Age of War | 21677 | [21677-stormfall-age-of-war.json](./21677-stormfall-age-of-war.json) |
 | Stormfall: Saga of Survival | 105787 | [105787-stormfall-saga-of-survival.json](./105787-stormfall-saga-of-survival.json) |
@@ -18427,6 +18433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strangers in a Strange Land | 44202 | [44202-strangers-in-a-strange-land.json](./44202-strangers-in-a-strange-land.json) |
 | Strangers In The Land Of Turnabouts | 303247 | [303247-strangers-in-the-land-of-turnabouts.json](./303247-strangers-in-the-land-of-turnabouts.json) |
 | Strangers Lurk | 335263 | [335263-strangers-lurk.json](./335263-strangers-lurk.json) |
+| Strangers of the Power 2 | 97272 | [97272-strangers-of-the-power-2.json](./97272-strangers-of-the-power-2.json) |
 | Strangers of the Power 2: Forgotten Evil | 347194 | [347194-strangers-of-the-power-2-forgotten-evil.json](./347194-strangers-of-the-power-2-forgotten-evil.json) |
 | Strangers of the Power 2: Pain Queen Character | 347199 | [347199-strangers-of-the-power-2-pain-queen-character.json](./347199-strangers-of-the-power-2-pain-queen-character.json) |
 | Strangers of the Power 3 | 116323 | [116323-strangers-of-the-power-3.json](./116323-strangers-of-the-power-3.json) |
@@ -19155,6 +19162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stumble Guys: Founder's Pack Bundle | 313218 | [313218-stumble-guys-founders-pack-bundle.json](./313218-stumble-guys-founders-pack-bundle.json) |
 | Stumble Guys: Polygon Guy Banger | 332037 | [332037-stumble-guys-polygon-guy-banger.json](./332037-stumble-guys-polygon-guy-banger.json) |
 | Stumblehill | 117510 | [117510-stumblehill.json](./117510-stumblehill.json) |
+| Stump | 97245 | [97245-stump.json](./97245-stump.json) |
 | Stump Me | 312886 | [312886-stump-me.json](./312886-stump-me.json) |
 | Stump Simulator | 272284 | [272284-stump-simulator.json](./272284-stump-simulator.json) |
 | Stump Simulator 2 | 369909 | [369909-stump-simulator-2.json](./369909-stump-simulator-2.json) |
@@ -23875,6 +23883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sydney Hunter and the Shrines of Peril | 59818 | [59818-sydney-hunter-and-the-shrines-of-peril.json](./59818-sydney-hunter-and-the-shrines-of-peril.json) |
 | Sydney Hunter Collection | 251715 | [251715-sydney-hunter-collection.json](./251715-sydney-hunter-collection.json) |
 | Syke | 295522 | [295522-syke.json](./295522-syke.json) |
+| Syko Swinger | 97235 | [97235-syko-swinger.json](./97235-syko-swinger.json) |
 | SyLestia | 125957 | [125957-sylestia.json](./125957-sylestia.json) |
 | Sylia | 10893 | [10893-sylia.json](./10893-sylia.json) |
 | Sylox | 357388 | [357388-sylox.json](./357388-sylox.json) |
