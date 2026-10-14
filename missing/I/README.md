@@ -4150,6 +4150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Racer | 30039 | [30039-island-racer.json](./30039-island-racer.json) |
 | Island Raft Survival 2021: Ocean Escape | 163915 | [163915-island-raft-survival-2021-ocean-escape.json](./163915-island-raft-survival-2021-ocean-escape.json) |
 | Island Robot Farm | 344883 | [344883-island-robot-farm.json](./344883-island-robot-farm.json) |
+| Island Saga | 123933 | [123933-island-saga.json](./123933-island-saga.json) |
 | Island Saver | 132996 | [132996-island-saver.json](./132996-island-saver.json) |
 | Island Saver: Dinosaur Island | 238039 | [238039-island-saver-dinosaur-island.json](./238039-island-saver-dinosaur-island.json) |
 | Island Saver: Fantasy Island | 171915 | [171915-island-saver-fantasy-island.json](./171915-island-saver-fantasy-island.json) |
