@@ -1918,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ADHD Horror Anthology | 379556 | [379556-adhd-horror-anthology.json](./379556-adhd-horror-anthology.json) |
 | Adhere: The Good Boy | 183904 | [183904-adhere-the-good-boy.json](./183904-adhere-the-good-boy.json) |
 | Adhesion Block Puzzle | 184435 | [184435-adhesion-block-puzzle.json](./184435-adhesion-block-puzzle.json) |
+| adhoc Party for Playstation Portable | 131302 | [131302-adhoc-party-for-playstation-portable.json](./131302-adhoc-party-for-playstation-portable.json) |
 | Adhvan Chakra | 328214 | [328214-adhvan-chakra.json](./328214-adhvan-chakra.json) |
 | ADI English: 11/12 Years | 14210 | [14210-adi-english-11-12-years.json](./14210-adi-english-11-12-years.json) |
 | ADI English: 12/13 Years | 14211 | [14211-adi-english-12-13-years.json](./14211-adi-english-12-13-years.json) |
@@ -4832,6 +4833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlpenCross | 52585 | [52585-alpencross.json](./52585-alpencross.json) |
 | Alpenglow | 384668 | [384668-alpenglow.json](./384668-alpenglow.json) |
 | Alpha | 117490 | [117490-alpha.json](./117490-alpha.json) |
+| Alpha | 131301 | [131301-alpha.json](./131301-alpha.json) |
 | Alpha | 313804 | [313804-alpha.json](./313804-alpha.json) |
 | Alpha 2 | 323996 | [323996-alpha-2.json](./323996-alpha-2.json) |
 | Alpha Accident: Terra Nova | 256878 | [256878-alpha-accident-terra-nova.json](./256878-alpha-accident-terra-nova.json) |
@@ -4908,6 +4910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlphaLink | 173170 | [173170-alphalink.json](./173170-alphalink.json) |
 | AlphaMan | 308344 | [308344-alphaman.json](./308344-alphaman.json) |
 | AlphaNatix: Urban Legends | 308347 | [308347-alphanatix-urban-legends.json](./308347-alphanatix-urban-legends.json) |
+| Alphapet | 131308 | [131308-alphapet.json](./131308-alphapet.json) |
 | AlphaPit | 58299 | [58299-alphapit.json](./58299-alphapit.json) |
 | Alphapoint | 244329 | [244329-alphapoint.json](./244329-alphapoint.json) |
 | Alphaputt | 134386 | [134386-alphaputt.json](./134386-alphaputt.json) |
@@ -6697,6 +6700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 117: Pax Romana - Marvellous Mosaic Pack | 408894 | [408894-anno-117-pax-romana-marvellous-mosaic-pack.json](./408894-anno-117-pax-romana-marvellous-mosaic-pack.json) |
 | Anno 117: Pax Romana - Year 1 Pass | 408895 | [408895-anno-117-pax-romana-year-1-pass.json](./408895-anno-117-pax-romana-year-1-pass.json) |
 | Anno 1404: Gold Edition | 27913 | [27913-anno-1404-gold-edition.json](./27913-anno-1404-gold-edition.json) |
+| Anno 1602: Erschaffung einer Neuen Welt - Im Namen des Königs | 131277 | [131277-anno-1602-erschaffung-einer-neuen-welt-im-namen-des-konigs.json](./131277-anno-1602-erschaffung-einer-neuen-welt-im-namen-des-konigs.json) |
 | Anno 1701 A.D.: Gold Edition | 180265 | [180265-anno-1701-a-d-gold-edition.json](./180265-anno-1701-a-d-gold-edition.json) |
 | Anno 1701: Limited Edition | 180266 | [180266-anno-1701-limited-edition.json](./180266-anno-1701-limited-edition.json) |
 | Anno 1800: Aesthetic Artisans Bundle | 317365 | [317365-anno-1800-aesthetic-artisans-bundle.json](./317365-anno-1800-aesthetic-artisans-bundle.json) |
@@ -7515,6 +7519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appli Archives: Nippon Ichi Software Duologue | 56416 | [56416-appli-archives-nippon-ichi-software-duologue.json](./56416-appli-archives-nippon-ichi-software-duologue.json) |
 | Appointment with Death | 316831 | [316831-appointment-with-death.json](./316831-appointment-with-death.json) |
 | Appoooh | 39845 | [39845-appoooh.json](./39845-appoooh.json) |
+| AppPack | 131261 | [131261-apppack.json](./131261-apppack.json) |
 | Apprehend: Girlfriend | 161580 | [161580-apprehend-girlfriend.json](./161580-apprehend-girlfriend.json) |
 | Apprehension Arizona | 308452 | [308452-apprehension-arizona.json](./308452-apprehension-arizona.json) |
 | Apprentice Arriving | 167599 | [167599-apprentice-arriving.json](./167599-apprentice-arriving.json) |
