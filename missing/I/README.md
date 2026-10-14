@@ -2069,6 +2069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inazuma Eleven SD | 125201 | [125201-inazuma-eleven-sd.json](./125201-inazuma-eleven-sd.json) |
 | Inazuma Eleven Souls 3 | 383014 | [383014-inazuma-eleven-souls-3.json](./383014-inazuma-eleven-souls-3.json) |
 | Inazuma Eleven Strikers | 4930 | [4930-inazuma-eleven-strikers.json](./4930-inazuma-eleven-strikers.json) |
+| Inazuma Eleven: Balance of Ares | 90507 | [90507-inazuma-eleven-balance-of-ares.json](./90507-inazuma-eleven-balance-of-ares.json) |
 | Inazuma Eleven: Cross | 397928 | [397928-inazuma-eleven-cross.json](./397928-inazuma-eleven-cross.json) |
 | Inazuma Eleven: Victory Road | 72812 | [72812-inazuma-eleven-victory-road.json](./72812-inazuma-eleven-victory-road.json) |
 | Inazuma Eleven: Victory Road - Deluxe Edition | 376247 | [376247-inazuma-eleven-victory-road-deluxe-edition.json](./376247-inazuma-eleven-victory-road-deluxe-edition.json) |
@@ -4346,6 +4347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iStunt 2 | 90888 | [90888-istunt-2.json](./90888-istunt-2.json) |
 | iSurf | 90908 | [90908-isurf.json](./90908-isurf.json) |
 | iSwinging 2 | 101611 | [101611-iswinging-2.json](./101611-iswinging-2.json) |
+| iSwinging 2 - Record Breakers | 90498 | [90498-iswinging-2-record-breakers.json](./90498-iswinging-2-record-breakers.json) |
 | It All Boils Down to This | 184125 | [184125-it-all-boils-down-to-this.json](./184125-it-all-boils-down-to-this.json) |
 | It All Revolves Around You | 59781 | [59781-it-all-revolves-around-you.json](./59781-it-all-revolves-around-you.json) |
 | It Came From Space, and Ate Our Brains | 35930 | [35930-it-came-from-space-and-ate-our-brains.json](./35930-it-came-from-space-and-ate-our-brains.json) |
