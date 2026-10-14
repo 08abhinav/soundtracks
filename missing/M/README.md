@@ -1516,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maimaimaigoen: Episode 6 - The Red Mask | 343937 | [343937-maimaimaigoen-episode-6-the-red-mask.json](./343937-maimaimaigoen-episode-6-the-red-mask.json) |
 | Maimaimaigoen: Episode 7 - The Lost Path | 343940 | [343940-maimaimaigoen-episode-7-the-lost-path.json](./343940-maimaimaigoen-episode-7-the-lost-path.json) |
 | Main Action | 254777 | [254777-main-action.json](./254777-main-action.json) |
+| Main Character Simulator | 107709 | [107709-main-character-simulator.json](./107709-main-character-simulator.json) |
 | Main Deity Space | 277515 | [277515-main-deity-space.json](./277515-main-deity-space.json) |
 | Main Event: Wrestling Manager | 225201 | [225201-main-event-wrestling-manager.json](./225201-main-event-wrestling-manager.json) |
 | Mainasutto: I'm Not Alone | 268991 | [268991-mainasutto-im-not-alone.json](./268991-mainasutto-im-not-alone.json) |
@@ -8854,6 +8855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miro and the Flower of Youth | 305483 | [305483-miro-and-the-flower-of-youth.json](./305483-miro-and-the-flower-of-youth.json) |
 | Miroh Jr. | 307885 | [307885-miroh-jr.json](./307885-miroh-jr.json) |
 | Mirror and Queen | 57501 | [57501-mirror-and-queen.json](./57501-mirror-and-queen.json) |
+| Mirror Angel's Paradise | 107702 | [107702-mirror-angels-paradise.json](./107702-mirror-angels-paradise.json) |
 | Mirror Broken | 215600 | [215600-mirror-broken.json](./215600-mirror-broken.json) |
 | Mirror Drop | 99153 | [99153-mirror-drop.json](./99153-mirror-drop.json) |
 | Mirror Head | 327417 | [327417-mirror-head.json](./327417-mirror-head.json) |
@@ -12660,6 +12662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mummy Candies | 148857 | [148857-mummy-candies.json](./148857-mummy-candies.json) |
 | Mummy Madness | 185702 | [185702-mummy-madness.json](./185702-mummy-madness.json) |
 | Mummy Maze Deluxe | 62007 | [62007-mummy-maze-deluxe.json](./62007-mummy-maze-deluxe.json) |
+| Mummy on the run | 107687 | [107687-mummy-on-the-run.json](./107687-mummy-on-the-run.json) |
 | Mummy Sandbox | 175883 | [175883-mummy-sandbox.json](./175883-mummy-sandbox.json) |
 | Mummy, mummy, mummy! | 165692 | [165692-mummy-mummy-mummy.json](./165692-mummy-mummy-mummy.json) |
 | Mummy: Egyptian Puzzle | 313460 | [313460-mummy-egyptian-puzzle.json](./313460-mummy-egyptian-puzzle.json) |
@@ -13749,6 +13752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Magic Florist | 146773 | [146773-my-magic-florist.json](./146773-my-magic-florist.json) |
 | My Magical Boyfriend | 230179 | [230179-my-magical-boyfriend.json](./230179-my-magical-boyfriend.json) |
 | My Magical Demon Lover | 109628 | [109628-my-magical-demon-lover.json](./109628-my-magical-demon-lover.json) |
+| My Maid Girlfriend | 107710 | [107710-my-maid-girlfriend.json](./107710-my-maid-girlfriend.json) |
 | My Make-Up | 93985 | [93985-my-make-up.json](./93985-my-make-up.json) |
 | My Mart | 420668 | [420668-my-mart.json](./420668-my-mart.json) |
 | My Mates | 346244 | [346244-my-mates.json](./346244-my-mates.json) |
