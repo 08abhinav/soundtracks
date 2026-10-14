@@ -8463,6 +8463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Gangsta in Hell | 99063 | [99063-russian-gangsta-in-hell.json](./99063-russian-gangsta-in-hell.json) |
 | Russian Hentai 3 | 155461 | [155461-russian-hentai-3.json](./155461-russian-hentai-3.json) |
 | Russian Life Simulator | 118022 | [118022-russian-life-simulator.json](./118022-russian-life-simulator.json) |
+| Russian Love Story | 104552 | [104552-russian-love-story.json](./104552-russian-love-story.json) |
 | Russian Mailman Simulator | 157496 | [157496-russian-mailman-simulator.json](./157496-russian-mailman-simulator.json) |
 | Russian Overkill | 134501 | [134501-russian-overkill.json](./134501-russian-overkill.json) |
 | Russian Pawn Store | 211749 | [211749-russian-pawn-store.json](./211749-russian-pawn-store.json) |
