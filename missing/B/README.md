@@ -2689,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Rage: Mech Conflict | 78683 | [78683-battle-rage-mech-conflict.json](./78683-battle-rage-mech-conflict.json) |
 | Battle Ram | 132780 | [132780-battle-ram.json](./132780-battle-ram.json) |
 | Battle Rangers | 39484 | [39484-battle-rangers.json](./39484-battle-rangers.json) |
+| Battle Rap Simulator | 74948 | [74948-battle-rap-simulator.json](./74948-battle-rap-simulator.json) |
 | Battle Raper | 22407 | [22407-battle-raper.json](./22407-battle-raper.json) |
 | Battle Raper II | 22418 | [22418-battle-raper-ii.json](./22418-battle-raper-ii.json) |
 | Battle Rappers Game Online | 115768 | [115768-battle-rappers-game-online.json](./115768-battle-rappers-game-online.json) |
@@ -6269,6 +6270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksad: Under the Skin - Collector's Edition | 166272 | [166272-blacksad-under-the-skin-collectors-edition.json](./166272-blacksad-under-the-skin-collectors-edition.json) |
 | BlackSands | 391334 | [391334-blacksands.json](./391334-blacksands.json) |
 | Blackscar Mountain | 72093 | [72093-blackscar-mountain.json](./72093-blackscar-mountain.json) |
+| Blackscreen Simulator | 74952 | [74952-blackscreen-simulator.json](./74952-blackscreen-simulator.json) |
 | Blacksea Odyssey | 12979 | [12979-blacksea-odyssey.json](./12979-blacksea-odyssey.json) |
 | Blacksea Odyssey: Limited Edition | 166202 | [166202-blacksea-odyssey-limited-edition.json](./166202-blacksea-odyssey-limited-edition.json) |
 | BlackShadows | 34561 | [34561-blackshadows.json](./34561-blackshadows.json) |
@@ -8735,6 +8737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Shocketa: Rocket Storm | 217303 | [217303-boom-shocketa-rocket-storm.json](./217303-boom-shocketa-rocket-storm.json) |
 | Boom Slayer | 234671 | [234671-boom-slayer.json](./234671-boom-slayer.json) |
 | Boom Slingers | 142879 | [142879-boom-slingers.json](./142879-boom-slingers.json) |
+| Boom Squad | 74978 | [74978-boom-squad.json](./74978-boom-squad.json) |
 | Boom Stick in the Mud | 275209 | [275209-boom-stick-in-the-mud.json](./275209-boom-stick-in-the-mud.json) |
 | Boom Voyage | 288112 | [288112-boom-voyage.json](./288112-boom-voyage.json) |
 | Boom Wars | 188436 | [188436-boom-wars.json](./188436-boom-wars.json) |
@@ -11830,6 +11833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burn Them | 255137 | [255137-burn-them.json](./255137-burn-them.json) |
 | Burn Your Fat with Me! | 210716 | [210716-burn-your-fat-with-me.json](./210716-burn-your-fat-with-me.json) |
 | Burn-9 | 404870 | [404870-burn-9.json](./404870-burn-9.json) |
+| Burn, Clown, Burn! | 74940 | [74940-burn-clown-burn.json](./74940-burn-clown-burn.json) |
 | Burn:Cycle | 45942 | [45942-burn-cycle.json](./45942-burn-cycle.json) |
 | Burn! SuperTrucks | 142836 | [142836-burn-supertrucks.json](./142836-burn-supertrucks.json) |
 | Burn. Pulse. Detach. | 143115 | [143115-burn-pulse-detach.json](./143115-burn-pulse-detach.json) |
