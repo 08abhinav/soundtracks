@@ -3542,6 +3542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Forge BlackSmith | 402544 | [402544-line-forge-blacksmith.json](./402544-line-forge-blacksmith.json) |
 | Line GoGo! TwinBee | 282827 | [282827-line-gogo-twinbee.json](./282827-line-gogo-twinbee.json) |
 | Line Hopper | 349875 | [349875-line-hopper.json](./349875-line-hopper.json) |
+| Line Loops: Logic Puzzles | 115506 | [115506-line-loops-logic-puzzles.json](./115506-line-loops-logic-puzzles.json) |
 | Line Monster: Escape Dark | 252931 | [252931-line-monster-escape-dark.json](./252931-line-monster-escape-dark.json) |
 | Line of Defense Tactics Prime | 197735 | [197735-line-of-defense-tactics-prime.json](./197735-line-of-defense-tactics-prime.json) |
 | Line of Fire | 12178 | [12178-line-of-fire.json](./12178-line-of-fire.json) |
