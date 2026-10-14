@@ -1848,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoshGeoff Weiner Simulator | 327837 | [327837-joshgeoff-weiner-simulator.json](./327837-joshgeoff-weiner-simulator.json) |
 | Joshi Daisei Private | 112341 | [112341-joshi-daisei-private.json](./112341-joshi-daisei-private.json) |
 | Joshikou Seifuku Monogatari | 230216 | [230216-joshikou-seifuku-monogatari.json](./230216-joshikou-seifuku-monogatari.json) |
+| Josho | 83445 | [83445-josho.json](./83445-josho.json) |
 | Joshua & The Battle of Jericho | 46186 | [46186-joshua-and-the-battle-of-jericho.json](./46186-joshua-and-the-battle-of-jericho.json) |
 | Joshua's Legs | 201550 | [201550-joshuas-legs.json](./201550-joshuas-legs.json) |
 | Josie | 183295 | [183295-josie.json](./183295-josie.json) |
