@@ -1046,6 +1046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A3: Still Alive | 130673 | [130673-a3-still-alive.json](./130673-a3-still-alive.json) |
 | A3! Act! Addict! Actors! | 137535 | [137535-a3-act-addict-actors.json](./137535-a3-act-addict-actors.json) |
 | A320 Airbus: Edition USA | 14595 | [14595-a320-airbus-edition-usa.json](./14595-a320-airbus-edition-usa.json) |
+| A3P | 108819 | [108819-a3p.json](./108819-a3p.json) |
 | A6: A-Train 6 | 9997 | [9997-a6-a-train-6.json](./9997-a6-a-train-6.json) |
 | A7: Gateway Guardians | 377416 | [377416-a7-gateway-guardians.json](./377416-a7-gateway-guardians.json) |
 | Aa Megami-sama | 77403 | [77403-aa-megami-sama.json](./77403-aa-megami-sama.json) |
@@ -3254,6 +3255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air | 270385 | [270385-air.json](./270385-air.json) |
 | Air | 270403 | [270403-air.json](./270403-air.json) |
 | Air Ace | 180650 | [180650-air-ace.json](./180650-air-ace.json) |
+| Air Ace II | 108814 | [108814-air-ace-ii.json](./108814-air-ace-ii.json) |
 | Air Aces | 276117 | [276117-air-aces.json](./276117-air-aces.json) |
 | Air Attack | 171370 | [171370-air-attack.json](./171370-air-attack.json) |
 | Air Attack | 38522 | [38522-air-attack.json](./38522-air-attack.json) |
@@ -4293,6 +4295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Hordes | 99390 | [99390-alien-hordes.json](./99390-alien-hordes.json) |
 | Alien Horizon | 200363 | [200363-alien-horizon.json](./200363-alien-horizon.json) |
 | Alien Hunt | 166706 | [166706-alien-hunt.json](./166706-alien-hunt.json) |
+| Alien Hunter | 108804 | [108804-alien-hunter.json](./108804-alien-hunter.json) |
 | Alien Infection | 120915 | [120915-alien-infection.json](./120915-alien-infection.json) |
 | Alien Infestation | 139132 | [139132-alien-infestation.json](./139132-alien-infestation.json) |
 | Alien Invaders Plus | 41533 | [41533-alien-invaders-plus.json](./41533-alien-invaders-plus.json) |
@@ -10540,6 +10543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At the Hedges of Time | 208263 | [208263-at-the-hedges-of-time.json](./208263-at-the-hedges-of-time.json) |
 | At the Party | 203878 | [203878-at-the-party.json](./203878-at-the-party.json) |
 | At the Poison's Edge | 297556 | [297556-at-the-poisons-edge.json](./297556-at-the-poisons-edge.json) |
+| At the Tale End | 108882 | [108882-at-the-tale-end.json](./108882-at-the-tale-end.json) |
 | At What Cost | 382376 | [382376-at-what-cost.json](./382376-at-what-cost.json) |
 | At Winter's End | 264698 | [264698-at-winters-end.json](./264698-at-winters-end.json) |
 | At Your Feet | 306512 | [306512-at-your-feet.json](./306512-at-your-feet.json) |
