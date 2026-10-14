@@ -4554,6 +4554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishy Dungeon Delving | 230917 | [230917-fishy-dungeon-delving.json](./230917-fishy-dungeon-delving.json) |
 | Fishy2 | 129381 | [129381-fishy2.json](./129381-fishy2.json) |
 | Fishyphus | 265828 | [265828-fishyphus.json](./265828-fishyphus.json) |
+| Fisk | 81089 | [81089-fisk.json](./81089-fisk.json) |
 | Fiskal Clif | 303744 | [303744-fiskal-clif.json](./303744-fiskal-clif.json) |
 | Fisraduth: Castle of Tyramis | 321337 | [321337-fisraduth-castle-of-tyramis.json](./321337-fisraduth-castle-of-tyramis.json) |
 | Fission | 164917 | [164917-fission.json](./164917-fission.json) |
@@ -8460,6 +8461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontiers of the Mind | 315519 | [315519-frontiers-of-the-mind.json](./315519-frontiers-of-the-mind.json) |
 | Frontiers Reach: Battlespace | 342708 | [342708-frontiers-reach-battlespace.json](./342708-frontiers-reach-battlespace.json) |
 | Frontiers Reborn | 329056 | [329056-frontiers-reborn.json](./329056-frontiers-reborn.json) |
+| Frontiers.io | 81075 | [81075-frontiers-io.json](./81075-frontiers-io.json) |
 | Frontiers.io: Expansion Pack 1 | 167309 | [167309-frontiers-io-expansion-pack-1.json](./167309-frontiers-io-expansion-pack-1.json) |
 | Frontiers.io: Expansion Pack 2 | 167310 | [167310-frontiers-io-expansion-pack-2.json](./167310-frontiers-io-expansion-pack-2.json) |
 | Frontiers.io: Expansion Pack 3 | 167311 | [167311-frontiers-io-expansion-pack-3.json](./167311-frontiers-io-expansion-pack-3.json) |
@@ -8586,6 +8588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit am I? | 229194 | [229194-fruit-am-i.json](./229194-fruit-am-i.json) |
 | Fruit Attack | 70621 | [70621-fruit-attack.json](./70621-fruit-attack.json) |
 | Fruit Attack!! | 314606 | [314606-fruit-attack.json](./314606-fruit-attack.json) |
+| Fruit Attacks VR | 81113 | [81113-fruit-attacks-vr.json](./81113-fruit-attacks-vr.json) |
 | Fruit Basket TV | 196858 | [196858-fruit-basket-tv.json](./196858-fruit-basket-tv.json) |
 | Fruit Battle: Survival | 253276 | [253276-fruit-battle-survival.json](./253276-fruit-battle-survival.json) |
 | Fruit Blade | 268018 | [268018-fruit-blade.json](./268018-fruit-blade.json) |
