@@ -615,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Lords of Brams | 215608 | [215608-mage-lords-of-brams.json](./215608-mage-lords-of-brams.json) |
 | Mage Mania | 120408 | [120408-mage-mania.json](./120408-mage-mania.json) |
 | Mage March | 185155 | [185155-mage-march.json](./185155-mage-march.json) |
+| Mage Math | 122060 | [122060-mage-math.json](./122060-mage-math.json) |
 | Mage Mountain | 149726 | [149726-mage-mountain.json](./149726-mage-mountain.json) |
 | Mage Noir | 199439 | [199439-mage-noir.json](./199439-mage-noir.json) |
 | Mage of Tempest Castle | 371352 | [371352-mage-of-tempest-castle.json](./371352-mage-of-tempest-castle.json) |
@@ -4276,6 +4277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazewar | 381593 | [381593-mazewar.json](./381593-mazewar.json) |
 | Mazey Village | 191032 | [191032-mazey-village.json](./191032-mazey-village.json) |
 | MazezaM: Puzzle Game | 147358 | [147358-mazezam-puzzle-game.json](./147358-mazezam-puzzle-game.json) |
+| Mazgeon | 121381 | [121381-mazgeon.json](./121381-mazgeon.json) |
 | Mazi - Remastered | 126308 | [126308-mazi-remastered.json](./126308-mazi-remastered.json) |
 | Maziacs | 93136 | [93136-maziacs.json](./93136-maziacs.json) |
 | Mazie | 296038 | [296038-mazie.json](./296038-mazie.json) |
@@ -4668,6 +4670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medchess | 240781 | [240781-medchess.json](./240781-medchess.json) |
 | MedCorps | 58758 | [58758-medcorps.json](./58758-medcorps.json) |
 | MedEvil | 262289 | [262289-medevil.json](./262289-medevil.json) |
+| Medford Asylum: Paranormal Case | 122101 | [122101-medford-asylum-paranormal-case.json](./122101-medford-asylum-paranormal-case.json) |
 | Medi-Cooker | 360489 | [360489-medi-cooker.json](./360489-medi-cooker.json) |
 | Media Basket Manager | 415240 | [415240-media-basket-manager.json](./415240-media-basket-manager.json) |
 | Media Circus | 361829 | [361829-media-circus.json](./361829-media-circus.json) |
@@ -9575,6 +9578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Model Builder: Military Pack | 332602 | [332602-model-builder-military-pack.json](./332602-model-builder-military-pack.json) |
 | Model Builder: Titan-Forge DLC No.2 | 243158 | [243158-model-builder-titan-forge-dlc-no-2.json](./243158-model-builder-titan-forge-dlc-no-2.json) |
 | Model City | 149188 | [149188-model-city.json](./149188-model-city.json) |
+| Model Debut #Nicola | 121361 | [121361-model-debut-nicola.json](./121361-model-debut-nicola.json) |
 | Model Debut3 #Nicola | 320463 | [320463-model-debut3-nicola.json](./320463-model-debut3-nicola.json) |
 | Model Eight | 245750 | [245750-model-eight.json](./245750-model-eight.json) |
 | Model Employee | 274732 | [274732-model-employee.json](./274732-model-employee.json) |
@@ -12774,6 +12778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murderwave: Digital Slaughter | 121011 | [121011-murderwave-digital-slaughter.json](./121011-murderwave-digital-slaughter.json) |
 | Murdle | 194471 | [194471-murdle.json](./194471-murdle.json) |
 | Murdoku | 401511 | [401511-murdoku.json](./401511-murdoku.json) |
+| Murgles | 121370 | [121370-murgles.json](./121370-murgles.json) |
 | Muri: Wildwoods | 324950 | [324950-muri-wildwoods.json](./324950-muri-wildwoods.json) |
 | Murica | 114890 | [114890-murica.json](./114890-murica.json) |
 | Murk | 143924 | [143924-murk.json](./143924-murk.json) |
@@ -12981,6 +12986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Must Deliver | 60241 | [60241-must-deliver.json](./60241-must-deliver.json) |
 | Must Flee | 223434 | [223434-must-flee.json](./223434-must-flee.json) |
 | Must Love Jaws | 182883 | [182883-must-love-jaws.json](./182883-must-love-jaws.json) |
+| Mustache or Revenge | 122059 | [122059-mustache-or-revenge.json](./122059-mustache-or-revenge.json) |
 | Muster my Monsters | 259074 | [259074-muster-my-monsters.json](./259074-muster-my-monsters.json) |
 | Musuko to Oyome-sama: Wakeari Tsuma ha Jirai-kei Doronuma Story | 240229 | [240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json](./240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json) |
 | Musya: The Classic Japanese Tale of Horror | 36740 | [36740-musya-the-classic-japanese-tale-of-horror.json](./36740-musya-the-classic-japanese-tale-of-horror.json) |
@@ -14183,6 +14189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Adventure The Maid Did It | 402378 | [402378-mystery-adventure-the-maid-did-it.json](./402378-mystery-adventure-the-maid-did-it.json) |
 | Mystery at Morgoth | 173008 | [173008-mystery-at-morgoth.json](./173008-mystery-at-morgoth.json) |
 | Mystery at Rainy Night Manor: The Missing Invitation | 409657 | [409657-mystery-at-rainy-night-manor-the-missing-invitation.json](./409657-mystery-at-rainy-night-manor-the-missing-invitation.json) |
+| Mystery at Stonyford Bridge | 121333 | [121333-mystery-at-stonyford-bridge.json](./121333-mystery-at-stonyford-bridge.json) |
 | Mystery At Woodbrook Hall: Hidden Object Game | 197743 | [197743-mystery-at-woodbrook-hall-hidden-object-game.json](./197743-mystery-at-woodbrook-hall-hidden-object-game.json) |
 | Mystery Box 4-in-1 Bundle | 328508 | [328508-mystery-box-4-in-1-bundle.json](./328508-mystery-box-4-in-1-bundle.json) |
 | Mystery Box 5: Elements | 292251 | [292251-mystery-box-5-elements.json](./292251-mystery-box-5-elements.json) |
