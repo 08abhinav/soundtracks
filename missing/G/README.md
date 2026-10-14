@@ -3008,6 +3008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Talk | 209753 | [209753-girl-talk.json](./209753-girl-talk.json) |
 | Girl Terminal | 410241 | [410241-girl-terminal.json](./410241-girl-terminal.json) |
 | Girl things | 183929 | [183929-girl-things.json](./183929-girl-things.json) |
+| Girl Time | 78520 | [78520-girl-time.json](./78520-girl-time.json) |
 | Girl Travels Forest of Dream | 265078 | [265078-girl-travels-forest-of-dream.json](./265078-girl-travels-forest-of-dream.json) |
 | Girl Up | 264548 | [264548-girl-up.json](./264548-girl-up.json) |
 | Girl Wars: Fantasy World Unification Battle | 270643 | [270643-girl-wars-fantasy-world-unification-battle.json](./270643-girl-wars-fantasy-world-unification-battle.json) |
@@ -4933,6 +4934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gossip & Potions: Tales from the Witch Shop | 276669 | [276669-gossip-and-potions-tales-from-the-witch-shop.json](./276669-gossip-and-potions-tales-from-the-witch-shop.json) |
 | Gossip Harbor: Merge Game | 212511 | [212511-gossip-harbor-merge-game.json](./212511-gossip-harbor-merge-game.json) |
 | Gossipia | 59991 | [59991-gossipia.json](./59991-gossipia.json) |
+| GoSub | 78517 | [78517-gosub.json](./78517-gosub.json) |
 | GoSupermodel | 347099 | [347099-gosupermodel.json](./347099-gosupermodel.json) |
 | Got Cha Mini Game Festival 2 | 270598 | [270598-got-cha-mini-game-festival-2.json](./270598-got-cha-mini-game-festival-2.json) |
 | Got Reincarnated into a World of RPG Full of NPCs... | 192788 | [192788-got-reincarnated-into-a-world-of-rpg-full-of-npcs.json](./192788-got-reincarnated-into-a-world-of-rpg-full-of-npcs.json) |
@@ -6093,6 +6095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey Instinct: Part 2 | 235774 | [235774-grey-instinct-part-2.json](./235774-grey-instinct-part-2.json) |
 | Grey Lines | 261725 | [261725-grey-lines.json](./261725-grey-lines.json) |
 | Grey Lucidity | 154055 | [154055-grey-lucidity.json](./154055-grey-lucidity.json) |
+| Grey Matter | 78518 | [78518-grey-matter.json](./78518-grey-matter.json) |
 | Grey Phobia | 32925 | [32925-grey-phobia.json](./32925-grey-phobia.json) |
 | Grey Scout | 139213 | [139213-grey-scout.json](./139213-grey-scout.json) |
 | Grey Skies: A War of the Worlds Story | 140628 | [140628-grey-skies-a-war-of-the-worlds-story.json](./140628-grey-skies-a-war-of-the-worlds-story.json) |
