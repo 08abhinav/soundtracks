@@ -2455,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel - 3D Color by Number | 95094 | [95094-voxel-3d-color-by-number.json](./95094-voxel-3d-color-by-number.json) |
 | Voxel Blast | 34652 | [34652-voxel-blast.json](./34652-voxel-blast.json) |
 | Voxel Bot | 119473 | [119473-voxel-bot.json](./119473-voxel-bot.json) |
+| Voxel Clicker | 107606 | [107606-voxel-clicker.json](./107606-voxel-clicker.json) |
 | Voxel Crusade | 120689 | [120689-voxel-crusade.json](./120689-voxel-crusade.json) |
 | Voxel Delvers | 381686 | [381686-voxel-delvers.json](./381686-voxel-delvers.json) |
 | Voxel Digger | 195591 | [195591-voxel-digger.json](./195591-voxel-digger.json) |
