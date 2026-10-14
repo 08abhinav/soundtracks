@@ -4337,6 +4337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Online | 88433 | [88433-chess-online.json](./88433-chess-online.json) |
 | Chess Online + | 88339 | [88339-chess-online.json](./88339-chess-online.json) |
 | Chess Opening Repertoire Builder | 297724 | [297724-chess-opening-repertoire-builder.json](./297724-chess-opening-repertoire-builder.json) |
+| Chess or Die! | 105725 | [105725-chess-or-die.json](./105725-chess-or-die.json) |
 | Chess Peace | 401021 | [401021-chess-peace.json](./401021-chess-peace.json) |
 | Chess Pills | 203931 | [203931-chess-pills.json](./203931-chess-pills.json) |
 | Chess Player 2150 | 70473 | [70473-chess-player-2150.json](./70473-chess-player-2150.json) |
