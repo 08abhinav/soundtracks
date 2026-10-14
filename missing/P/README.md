@@ -586,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palace of Magic | 186072 | [186072-palace-of-magic.json](./186072-palace-of-magic.json) |
 | Palace of Nemrac | 261283 | [261283-palace-of-nemrac.json](./261283-palace-of-nemrac.json) |
 | Palace of Poetry | 386862 | [386862-palace-of-poetry.json](./386862-palace-of-poetry.json) |
+| Palace of sky | 128296 | [128296-palace-of-sky.json](./128296-palace-of-sky.json) |
 | Palace of Woe | 134683 | [134683-palace-of-woe.json](./134683-palace-of-woe.json) |
 | Paladin | 131415 | [131415-paladin.json](./131415-paladin.json) |
 | Paladin | 71600 | [71600-paladin.json](./71600-paladin.json) |
@@ -1577,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkan: Iron Strategy | 7701 | [7701-parkan-iron-strategy.json](./7701-parkan-iron-strategy.json) |
 | Parkan: The Imperial Chronicles | 7700 | [7700-parkan-the-imperial-chronicles.json](./7700-parkan-the-imperial-chronicles.json) |
 | Parkasaurus: Sea Monsters | 195749 | [195749-parkasaurus-sea-monsters.json](./195749-parkasaurus-sea-monsters.json) |
+| Parked in the Dark | 128281 | [128281-parked-in-the-dark.json](./128281-parked-in-the-dark.json) |
 | Parker & Lane | 87999 | [87999-parker-and-lane.json](./87999-parker-and-lane.json) |
 | Parking 3D | 119624 | [119624-parking-3d.json](./119624-parking-3d.json) |
 | Parking 3D - Car Parking | 102206 | [102206-parking-3d-car-parking.json](./102206-parking-3d-car-parking.json) |
@@ -1957,6 +1959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Immortals | 194027 | [194027-path-of-immortals.json](./194027-path-of-immortals.json) |
 | Path of Mystery: A Brush with Death | 353783 | [353783-path-of-mystery-a-brush-with-death.json](./353783-path-of-mystery-a-brush-with-death.json) |
 | Path of Ra | 211974 | [211974-path-of-ra.json](./211974-path-of-ra.json) |
+| Path of Redemption | 128270 | [128270-path-of-redemption.json](./128270-path-of-redemption.json) |
 | Path of Shadows | 184949 | [184949-path-of-shadows.json](./184949-path-of-shadows.json) |
 | Path of Sin: Greed | 107734 | [107734-path-of-sin-greed.json](./107734-path-of-sin-greed.json) |
 | Path of Survival | 412274 | [412274-path-of-survival.json](./412274-path-of-survival.json) |
@@ -2917,6 +2920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Fit | 243698 | [243698-perfect-fit.json](./243698-perfect-fit.json) |
 | Perfect Fit - Totemland | 31114 | [31114-perfect-fit-totemland.json](./31114-perfect-fit-totemland.json) |
 | Perfect Grind | 200746 | [200746-perfect-grind.json](./200746-perfect-grind.json) |
+| Perfect Harmony | 128913 | [128913-perfect-harmony.json](./128913-perfect-harmony.json) |
 | Perfect Heist 2 | 157499 | [157499-perfect-heist-2.json](./157499-perfect-heist-2.json) |
 | Perfect Heist 2: Historic Characters DLC | 274740 | [274740-perfect-heist-2-historic-characters-dlc.json](./274740-perfect-heist-2-historic-characters-dlc.json) |
 | Perfect Heist 2: Pietsmiet DLC | 418505 | [418505-perfect-heist-2-pietsmiet-dlc.json](./418505-perfect-heist-2-pietsmiet-dlc.json) |
@@ -5294,6 +5298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Demolish | 220066 | [220066-pixel-demolish.json](./220066-pixel-demolish.json) |
 | Pixel Descent | 264587 | [264587-pixel-descent.json](./264587-pixel-descent.json) |
 | Pixel Devil and the Broken Cartridge | 113610 | [113610-pixel-devil-and-the-broken-cartridge.json](./113610-pixel-devil-and-the-broken-cartridge.json) |
+| Pixel Dominance | 128936 | [128936-pixel-dominance.json](./128936-pixel-dominance.json) |
 | Pixel Drawing | 335442 | [335442-pixel-drawing.json](./335442-pixel-drawing.json) |
 | Pixel drawing block | 216208 | [216208-pixel-drawing-block.json](./216208-pixel-drawing-block.json) |
 | Pixel Drift | 83613 | [83613-pixel-drift.json](./83613-pixel-drift.json) |
@@ -5915,6 +5920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Spy | 273438 | [273438-pizza-spy.json](./273438-pizza-spy.json) |
 | Pizza Syndicate | 373071 | [373071-pizza-syndicate.json](./373071-pizza-syndicate.json) |
 | Pizza the Pie | 175357 | [175357-pizza-the-pie.json](./175357-pizza-the-pie.json) |
+| Pizza Time Arcade | 128912 | [128912-pizza-time-arcade.json](./128912-pizza-time-arcade.json) |
 | Pizza Time Explosion | 125445 | [125445-pizza-time-explosion.json](./125445-pizza-time-explosion.json) |
 | Pizza to Osake to Suika-chan to! | 403162 | [403162-pizza-to-osake-to-suika-chan-to.json](./403162-pizza-to-osake-to-suika-chan-to.json) |
 | Pizza Tower Repainted | 365807 | [365807-pizza-tower-repainted.json](./365807-pizza-tower-repainted.json) |
@@ -11752,6 +11758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pussy 6 | 213547 | [213547-pussy-6.json](./213547-pussy-6.json) |
 | Pussy Kingdom: Queen of Passion | 278393 | [278393-pussy-kingdom-queen-of-passion.json](./278393-pussy-kingdom-queen-of-passion.json) |
 | Pussy Password | 335306 | [335306-pussy-password.json](./335306-pussy-password.json) |
+| Pussy Puzzle | 128277 | [128277-pussy-puzzle.json](./128277-pussy-puzzle.json) |
 | Pussy Puzzle: Over 9000 | 141661 | [141661-pussy-puzzle-over-9000.json](./141661-pussy-puzzle-over-9000.json) |
 | Pussy Puzzle: Over 9000 | 163562 | [163562-pussy-puzzle-over-9000.json](./163562-pussy-puzzle-over-9000.json) |
 | Pussy: Love Story from Titanic | 227822 | [227822-pussy-love-story-from-titanic.json](./227822-pussy-love-story-from-titanic.json) |
