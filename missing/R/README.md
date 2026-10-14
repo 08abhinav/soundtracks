@@ -2298,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reboot the World | 196532 | [196532-reboot-the-world.json](./196532-reboot-the-world.json) |
 | Rebop Blasters | 131921 | [131921-rebop-blasters.json](./131921-rebop-blasters.json) |
 | Reborn | 301985 | [301985-reborn.json](./301985-reborn.json) |
+| Reborn | 76431 | [76431-reborn.json](./76431-reborn.json) |
 | Reborn a Zombie! | 246004 | [246004-reborn-a-zombie.json](./246004-reborn-a-zombie.json) |
 | Reborn in Sin | 157000 | [157000-reborn-in-sin.json](./157000-reborn-in-sin.json) |
 | Reborn in the toilet | 359548 | [359548-reborn-in-the-toilet.json](./359548-reborn-in-the-toilet.json) |
@@ -2942,6 +2943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refill your Roguelike | 113523 | [113523-refill-your-roguelike.json](./113523-refill-your-roguelike.json) |
 | Refind Self: The Personality Test Game | 265960 | [265960-refind-self-the-personality-test-game.json](./265960-refind-self-the-personality-test-game.json) |
 | Refinery | 225633 | [225633-refinery.json](./225633-refinery.json) |
+| Reflec Beat Limelight | 76462 | [76462-reflec-beat-limelight.json](./76462-reflec-beat-limelight.json) |
 | Reflec Beat Volzza | 369138 | [369138-reflec-beat-volzza.json](./369138-reflec-beat-volzza.json) |
 | Reflec Beat: The Reflesia of Eternity | 140455 | [140455-reflec-beat-the-reflesia-of-eternity.json](./140455-reflec-beat-the-reflesia-of-eternity.json) |
 | Reflect World | 41391 | [41391-reflect-world.json](./41391-reflect-world.json) |
@@ -7397,6 +7399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rope'n'Fly 4 | 288879 | [288879-ropenfly-4.json](./288879-ropenfly-4.json) |
 | Roped In | 300412 | [300412-roped-in.json](./300412-roped-in.json) |
 | Roped In: Deuces Wild | 319129 | [319129-roped-in-deuces-wild.json](./319129-roped-in-deuces-wild.json) |
+| Ropelike | 76435 | [76435-ropelike.json](./76435-ropelike.json) |
 | Ropeman | 403110 | [403110-ropeman.json](./403110-ropeman.json) |
 | Ropes and Dragons VR | 29901 | [29901-ropes-and-dragons-vr.json](./29901-ropes-and-dragons-vr.json) |
 | Ropeway Simulator 2014 | 36345 | [36345-ropeway-simulator-2014.json](./36345-ropeway-simulator-2014.json) |
