@@ -4450,6 +4450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deputy Den | 346751 | [346751-deputy-den.json](./346751-deputy-den.json) |
 | Dequivsia | 326603 | [326603-dequivsia.json](./326603-dequivsia.json) |
 | DeQuoter | 83457 | [83457-dequoter.json](./83457-dequoter.json) |
+| Der Atom Nazi | 116177 | [116177-der-atom-nazi.json](./116177-der-atom-nazi.json) |
 | Der Bauernhof | 268111 | [268111-der-bauernhof.json](./268111-der-bauernhof.json) |
 | Der Blaue Diamant: Additional mission | 213031 | [213031-der-blaue-diamant-additional-mission.json](./213031-der-blaue-diamant-additional-mission.json) |
 | Der blaue Kristall | 125956 | [125956-der-blaue-kristall.json](./125956-der-blaue-kristall.json) |
@@ -6018,6 +6019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimahoo | 38527 | [38527-dimahoo.json](./38527-dimahoo.json) |
 | Dimday Red | 214389 | [214389-dimday-red.json](./214389-dimday-red.json) |
 | Dime City | 94565 | [94565-dime-city.json](./94565-dime-city.json) |
+| Dimense: Chapter 1 | 116182 | [116182-dimense-chapter-1.json](./116182-dimense-chapter-1.json) |
 | Dimenseum | 396376 | [396376-dimenseum.json](./396376-dimenseum.json) |
 | Dimenshot | 361071 | [361071-dimenshot.json](./361071-dimenshot.json) |
 | Dimension | 355177 | [355177-dimension.json](./355177-dimension.json) |
@@ -9947,7 +9949,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Delightful Day | 395164 | [395164-dragons-delightful-day.json](./395164-dragons-delightful-day.json) |
 | Dragon's Dogma | 3968 | [3968-dragons-dogma.json](./3968-dragons-dogma.json) |
 | Dragon's Dogma II: Dark Arisen | 408164 | [408164-dragons-dogma-ii-dark-arisen.json](./408164-dragons-dogma-ii-dark-arisen.json) |
-| Dragon's Dogma II: Dark Arisen Expansion | 405433 | [405433-dragons-dogma-ii-dark-arisen-expansion.json](./405433-dragons-dogma-ii-dark-arisen-expansion.json) |
 | Dragon's Dogma II: Deluxe Edition | 288657 | [288657-dragons-dogma-ii-deluxe-edition.json](./288657-dragons-dogma-ii-deluxe-edition.json) |
 | Dragon's Dogma II: Dragon's Dogma Music & Sound Collection - Custom Sounds | 308568 | [308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json](./308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json) |
 | Dragon's Dogma Online | 26985 | [26985-dragons-dogma-online.json](./26985-dragons-dogma-online.json) |
@@ -11540,6 +11541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duet Cats | 246309 | [246309-duet-cats.json](./246309-duet-cats.json) |
 | Duet Night Abyss: Paradise Prelude | 413601 | [413601-duet-night-abyss-paradise-prelude.json](./413601-duet-night-abyss-paradise-prelude.json) |
 | Duet Night Abyss: Silver Torrent, Rising Star | 413599 | [413599-duet-night-abyss-silver-torrent-rising-star.json](./413599-duet-night-abyss-silver-torrent-rising-star.json) |
+| Duex | 116172 | [116172-duex.json](./116172-duex.json) |
 | Dufe: Masquerade | 179749 | [179749-dufe-masquerade.json](./179749-dufe-masquerade.json) |
 | Dug Out | 334314 | [334314-dug-out.json](./334314-dug-out.json) |
 | Dug'n | 180621 | [180621-dugn.json](./180621-dugn.json) |
