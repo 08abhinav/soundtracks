@@ -5242,6 +5242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Third Online | 59988 | [59988-devils-third-online.json](./59988-devils-third-online.json) |
 | Devil's Tuning Fork | 67304 | [67304-devils-tuning-fork.json](./67304-devils-tuning-fork.json) |
 | Devil's Way | 306358 | [306358-devils-way.json](./306358-devils-way.json) |
+| Devil's Wheel | 130619 | [130619-devils-wheel.json](./130619-devils-wheel.json) |
 | DevilConnection | 312736 | [312736-devilconnection.json](./312736-devilconnection.json) |
 | DevilDark: The Fallen Kingdom | 343817 | [343817-devildark-the-fallen-kingdom.json](./343817-devildark-the-fallen-kingdom.json) |
 | Deviled | 262290 | [262290-deviled.json](./262290-deviled.json) |
@@ -6979,6 +6980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disturbed R.I.P. | 151080 | [151080-disturbed-r-i-p.json](./151080-disturbed-r-i-p.json) |
 | Disturbing Fears: Workplace | 412192 | [412192-disturbing-fears-workplace.json](./412192-disturbing-fears-workplace.json) |
 | Disturbing Forest: Demon's Path | 164048 | [164048-disturbing-forest-demons-path.json](./164048-disturbing-forest-demons-path.json) |
+| Disunion of Raiders | 130631 | [130631-disunion-of-raiders.json](./130631-disunion-of-raiders.json) |
 | Ditch Whit #1: Shield Night | 202922 | [202922-ditch-whit-1-shield-night.json](./202922-ditch-whit-1-shield-night.json) |
 | DitherDream | 285020 | [285020-ditherdream.json](./285020-ditherdream.json) |
 | Dithered | 122411 | [122411-dithered.json](./122411-dithered.json) |
@@ -10358,6 +10360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Mists | 293544 | [293544-dream-mists.json](./293544-dream-mists.json) |
 | Dream Mysteries: Case of the Red Fox | 294201 | [294201-dream-mysteries-case-of-the-red-fox.json](./294201-dream-mysteries-case-of-the-red-fox.json) |
 | Dream of a Sunflower | 230165 | [230165-dream-of-a-sunflower.json](./230165-dream-of-a-sunflower.json) |
+| Dream of Gluttony | 130655 | [130655-dream-of-gluttony.json](./130655-dream-of-gluttony.json) |
 | Dream of Life | 229721 | [229721-dream-of-life.json](./229721-dream-of-life.json) |
 | Dream of Light | 215903 | [215903-dream-of-light.json](./215903-dream-of-light.json) |
 | Dream of Mirror Online | 36108 | [36108-dream-of-mirror-online.json](./36108-dream-of-mirror-online.json) |
@@ -10733,6 +10736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift: When Worlds Collide | 71505 | [71505-drift-when-worlds-collide.json](./71505-drift-when-worlds-collide.json) |
 | Drift'n'Drive | 134446 | [134446-driftndrive.json](./134446-driftndrive.json) |
 | Drift'n'Drive | 200025 | [200025-driftndrive.json](./200025-driftndrive.json) |
+| Drift86 | 130636 | [130636-drift86.json](./130636-drift86.json) |
 | DriftBorne | 399209 | [399209-driftborne.json](./399209-driftborne.json) |
 | DriftCE | 249331 | [249331-driftce.json](./249331-driftce.json) |
 | Drifted | 287227 | [287227-drifted.json](./287227-drifted.json) |
@@ -12228,6 +12232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusk Park | 400854 | [400854-dusk-park.json](./400854-dusk-park.json) |
 | Dusk Pub | 224771 | [224771-dusk-pub.json](./224771-dusk-pub.json) |
 | Dusk Shrouded | 295491 | [295491-dusk-shrouded.json](./295491-dusk-shrouded.json) |
+| Dusk Tactics | 130638 | [130638-dusk-tactics.json](./130638-dusk-tactics.json) |
 | Duskborn | 265095 | [265095-duskborn.json](./265095-duskborn.json) |
 | Duskbound | 258197 | [258197-duskbound.json](./258197-duskbound.json) |
 | DuskBreakers | 194239 | [194239-duskbreakers.json](./194239-duskbreakers.json) |
