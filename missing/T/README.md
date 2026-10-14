@@ -5948,6 +5948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls V: Skyrim VR | 37088 | [37088-the-elder-scrolls-v-skyrim-vr.json](./37088-the-elder-scrolls-v-skyrim-vr.json) |
 | The Elder Scrolls VI | 81249 | [81249-the-elder-scrolls-vi.json](./81249-the-elder-scrolls-vi.json) |
 | The Elder Scrolls: Arena - Deluxe Edition | 206663 | [206663-the-elder-scrolls-arena-deluxe-edition.json](./206663-the-elder-scrolls-arena-deluxe-edition.json) |
+| The Elder Scrolls: Legends - Return to Clockwork City | 76423 | [76423-the-elder-scrolls-legends-return-to-clockwork-city.json](./76423-the-elder-scrolls-legends-return-to-clockwork-city.json) |
 | The Elder Tales | 264606 | [264606-the-elder-tales.json](./264606-the-elder-tales.json) |
 | The Eldritch Ascent | 374787 | [374787-the-eldritch-ascent.json](./374787-the-eldritch-ascent.json) |
 | The Eldritch Monarch | 324692 | [324692-the-eldritch-monarch.json](./324692-the-eldritch-monarch.json) |
@@ -13022,6 +13023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The X Factor Sing | 84261 | [84261-the-x-factor-sing.json](./84261-the-x-factor-sing.json) |
 | The X-Com Files | 276795 | [276795-the-x-com-files.json](./276795-the-x-com-files.json) |
 | The X-Files Game | 103203 | [103203-the-x-files-game.json](./103203-the-x-files-game.json) |
+| The X-Files: Deep State | 76429 | [76429-the-x-files-deep-state.json](./76429-the-x-files-deep-state.json) |
 | The X-Fools: The Spoof Is Out There | 66971 | [66971-the-x-fools-the-spoof-is-out-there.json](./66971-the-x-fools-the-spoof-is-out-there.json) |
 | The Xeno Project | 221659 | [221659-the-xeno-project.json](./221659-the-xeno-project.json) |
 | The Yakutsu Noroi Game | 124641 | [124641-the-yakutsu-noroi-game.json](./124641-the-yakutsu-noroi-game.json) |
@@ -17668,6 +17670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Rome II - Culture Pack: Greek States | 53825 | [53825-total-war-rome-ii-culture-pack-greek-states.json](./53825-total-war-rome-ii-culture-pack-greek-states.json) |
 | Total War: Rome II - Culture Pack: Nomadic Tribes | 167637 | [167637-total-war-rome-ii-culture-pack-nomadic-tribes.json](./167637-total-war-rome-ii-culture-pack-nomadic-tribes.json) |
 | Total War: Rome II - Culture Pack: Pirates and Raiders | 53829 | [53829-total-war-rome-ii-culture-pack-pirates-and-raiders.json](./53829-total-war-rome-ii-culture-pack-pirates-and-raiders.json) |
+| Total War: Rome II - Empire Divided | 76425 | [76425-total-war-rome-ii-empire-divided.json](./76425-total-war-rome-ii-empire-divided.json) |
 | Total War: Rome II - Hannibal at the Gates Campaign Pack | 167824 | [167824-total-war-rome-ii-hannibal-at-the-gates-campaign-pack.json](./167824-total-war-rome-ii-hannibal-at-the-gates-campaign-pack.json) |
 | Total War: Rome II - Imperator Augustus Campaign Pack | 167822 | [167822-total-war-rome-ii-imperator-augustus-campaign-pack.json](./167822-total-war-rome-ii-imperator-augustus-campaign-pack.json) |
 | Total War: Rome II - Ultimate Edition | 391794 | [391794-total-war-rome-ii-ultimate-edition.json](./391794-total-war-rome-ii-ultimate-edition.json) |
@@ -21170,6 +21173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivial Pursuit Tap | 108957 | [108957-trivial-pursuit-tap.json](./108957-trivial-pursuit-tap.json) |
 | Trivial Pursuit: Bring on the 90's Edition | 206661 | [206661-trivial-pursuit-bring-on-the-90s-edition.json](./206661-trivial-pursuit-bring-on-the-90s-edition.json) |
 | Trivial Pursuit: Genus Edition | 46106 | [46106-trivial-pursuit-genus-edition.json](./46106-trivial-pursuit-genus-edition.json) |
+| Trivial Pursuit: Millennium Edition | 76472 | [76472-trivial-pursuit-millennium-edition.json](./76472-trivial-pursuit-millennium-edition.json) |
 | Trivial Pursuit: NASCAR | 100170 | [100170-trivial-pursuit-nascar.json](./100170-trivial-pursuit-nascar.json) |
 | Trivial Pursuit: Silver Screen Edition | 206658 | [206658-trivial-pursuit-silver-screen-edition.json](./206658-trivial-pursuit-silver-screen-edition.json) |
 | Trivial Pursuit: The CD32 Edition | 39040 | [39040-trivial-pursuit-the-cd32-edition.json](./39040-trivial-pursuit-the-cd32-edition.json) |
