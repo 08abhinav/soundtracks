@@ -3951,6 +3951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matts Project Z Endless | 149581 | [149581-matts-project-z-endless.json](./149581-matts-project-z-endless.json) |
 | Mattyflexx’s Pokeslots | 390708 | [390708-mattyflexx-s-pokeslots.json](./390708-mattyflexx-s-pokeslots.json) |
 | Mature Comedy Visual Novel | 265330 | [265330-mature-comedy-visual-novel.json](./265330-mature-comedy-visual-novel.json) |
+| matuslab.net's Hangman | 91254 | [91254-matuslab-nets-hangman.json](./91254-matuslab-nets-hangman.json) |
 | Mau Mau | 61994 | [61994-mau-mau.json](./61994-mau-mau.json) |
 | Maudelyn's Quest | 186189 | [186189-maudelyns-quest.json](./186189-maudelyns-quest.json) |
 | Maui The Shapeshifter | 314425 | [314425-maui-the-shapeshifter.json](./314425-maui-the-shapeshifter.json) |
@@ -5801,6 +5802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memora Wanderer | 298267 | [298267-memora-wanderer.json](./298267-memora-wanderer.json) |
 | Memorabilia | 177412 | [177412-memorabilia.json](./177412-memorabilia.json) |
 | Memoralysis: The Scorched Home | 323230 | [323230-memoralysis-the-scorched-home.json](./323230-memoralysis-the-scorched-home.json) |
+| Memorama | 91258 | [91258-memorama.json](./91258-memorama.json) |
 | Memorel | 293501 | [293501-memorel.json](./293501-memorel.json) |
 | Memorel Restoration Project | 380525 | [380525-memorel-restoration-project.json](./380525-memorel-restoration-project.json) |
 | Memori | 251579 | [251579-memori.json](./251579-memori.json) |
