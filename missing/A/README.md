@@ -1314,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absorb Reality Collection | 52554 | [52554-absorb-reality-collection.json](./52554-absorb-reality-collection.json) |
 | Abstacked | 79911 | [79911-abstacked.json](./79911-abstacked.json) |
 | AbsTRace | 391219 | [391219-abstrace.json](./391219-abstrace.json) |
+| Abstract | 118077 | [118077-abstract.json](./118077-abstract.json) |
 | Abstract Code | 283873 | [283873-abstract-code.json](./283873-abstract-code.json) |
 | Abstract Driver | 250450 | [250450-abstract-driver.json](./250450-abstract-driver.json) |
 | Abstract Grind | 221097 | [221097-abstract-grind.json](./221097-abstract-grind.json) |
@@ -1688,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Simulator | 131447 | [131447-achievement-simulator.json](./131447-achievement-simulator.json) |
 | Achievement Unlocked 2 | 165420 | [165420-achievement-unlocked-2.json](./165420-achievement-unlocked-2.json) |
 | Achikaps | 207823 | [207823-achikaps.json](./207823-achikaps.json) |
+| Achilles | 118129 | [118129-achilles.json](./118129-achilles.json) |
 | Achilles vs. Turtles | 183020 | [183020-achilles-vs-turtles.json](./183020-achilles-vs-turtles.json) |
 | Achilles-Sword-ll | 379036 | [379036-achilles-sword-ll.json](./379036-achilles-sword-ll.json) |
 | Achilles: Legends Untold | 160293 | [160293-achilles-legends-untold.json](./160293-achilles-legends-untold.json) |
@@ -1888,6 +1890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adam's Venture: Origins - Deluxe Edition | 118747 | [118747-adams-venture-origins-deluxe-edition.json](./118747-adams-venture-origins-deluxe-edition.json) |
 | Adamantine Cruelty | 271248 | [271248-adamantine-cruelty.json](./271248-adamantine-cruelty.json) |
 | Adanath | 219701 | [219701-adanath.json](./219701-adanath.json) |
+| Adapt | 118085 | [118085-adapt.json](./118085-adapt.json) |
 | Adapta Solva | 283893 | [283893-adapta-solva.json](./283893-adapta-solva.json) |
 | AdaptaTank | 143930 | [143930-adaptatank.json](./143930-adaptatank.json) |
 | Adaptory | 222870 | [222870-adaptory.json](./222870-adaptory.json) |
@@ -2146,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AdVenture Capitalist | 9591 | [9591-adventure-capitalist.json](./9591-adventure-capitalist.json) |
 | Adventure Climb VR | 116821 | [116821-adventure-climb-vr.json](./116821-adventure-climb-vr.json) |
 | Adventure Company | 57326 | [57326-adventure-company.json](./57326-adventure-company.json) |
+| Adventure Cop | 118092 | [118092-adventure-cop.json](./118092-adventure-cop.json) |
 | Adventure Cop 2 | 121627 | [121627-adventure-cop-2.json](./121627-adventure-cop-2.json) |
 | Adventure D: Espionage Island | 45370 | [45370-adventure-d-espionage-island.json](./45370-adventure-d-espionage-island.json) |
 | Adventure Delivery Service | 104055 | [104055-adventure-delivery-service.json](./104055-adventure-delivery-service.json) |
@@ -2708,6 +2712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterlife VR | 146139 | [146139-afterlife-vr.json](./146139-afterlife-vr.json) |
 | Afterlife: Rickard's Quest | 306641 | [306641-afterlife-rickards-quest.json](./306641-afterlife-rickards-quest.json) |
 | Afterlife: The Second Dimension | 150554 | [150554-afterlife-the-second-dimension.json](./150554-afterlife-the-second-dimension.json) |
+| Afterlifes | 118086 | [118086-afterlifes.json](./118086-afterlifes.json) |
 | Afterlight | 396206 | [396206-afterlight.json](./396206-afterlight.json) |
 | Afterlight Catacombs | 320931 | [320931-afterlight-catacombs.json](./320931-afterlight-catacombs.json) |
 | Afterloop | 110262 | [110262-afterloop.json](./110262-afterloop.json) |
@@ -3921,6 +3926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alcoholic Daddy | 337054 | [337054-alcoholic-daddy.json](./337054-alcoholic-daddy.json) |
 | AlcremieStudio | 319561 | [319561-alcremiestudio.json](./319561-alcremiestudio.json) |
 | Alcyone | 383604 | [383604-alcyone.json](./383604-alcyone.json) |
+| Alcyone: The Last City | 118072 | [118072-alcyone-the-last-city.json](./118072-alcyone-the-last-city.json) |
 | Alder Choke | 217926 | [217926-alder-choke.json](./217926-alder-choke.json) |
 | Alder's Blood | 90277 | [90277-alders-blood.json](./90277-alders-blood.json) |
 | Alder's Blood: Definitive Edition | 173167 | [173167-alders-blood-definitive-edition.json](./173167-alders-blood-definitive-edition.json) |
@@ -4455,6 +4461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alienzix: CyberNet | 330938 | [330938-alienzix-cybernet.json](./330938-alienzix-cybernet.json) |
 | Aliex | 14244 | [14244-aliex.json](./14244-aliex.json) |
 | ALife | 351765 | [351765-alife.json](./351765-alife.json) |
+| Alight | 118103 | [118103-alight.json](./118103-alight.json) |
 | Alight in the Dark | 235814 | [235814-alight-in-the-dark.json](./235814-alight-in-the-dark.json) |
 | Alight: Lunar Survival | 215780 | [215780-alight-lunar-survival.json](./215780-alight-lunar-survival.json) |
 | Align 12 | 242662 | [242662-align-12.json](./242662-align-12.json) |
@@ -9853,6 +9860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Ezio Trilogy | 22754 | [22754-assassins-creed-ezio-trilogy.json](./22754-assassins-creed-ezio-trilogy.json) |
 | Assassin's Creed: Freedom Cry | 3775 | [3775-assassins-creed-freedom-cry.json](./3775-assassins-creed-freedom-cry.json) |
 | Assassin's Creed: Liberation HD | 20864 | [20864-assassins-creed-liberation-hd.json](./20864-assassins-creed-liberation-hd.json) |
+| Assassin's Creed: Limited Edition | 118124 | [118124-assassins-creed-limited-edition.json](./118124-assassins-creed-limited-edition.json) |
 | Assassin's Creed: Lost Legacy | 78709 | [78709-assassins-creed-lost-legacy.json](./78709-assassins-creed-lost-legacy.json) |
 | Assassin's Creed: Modern Revolutions Pack | 219003 | [219003-assassins-creed-modern-revolutions-pack.json](./219003-assassins-creed-modern-revolutions-pack.json) |
 | Assassin's Creed: Naval Edition | 118861 | [118861-assassins-creed-naval-edition.json](./118861-assassins-creed-naval-edition.json) |
@@ -10885,6 +10893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atsumete Godzilla | 227742 | [227742-atsumete-godzilla.json](./227742-atsumete-godzilla.json) |
 | Atsumete! Banki-chan | 216353 | [216353-atsumete-banki-chan.json](./216353-atsumete-banki-chan.json) |
 | Atta: Spot the Oddities in the Strange Hotel | 288666 | [288666-atta-spot-the-oddities-in-the-strange-hotel.json](./288666-atta-spot-the-oddities-in-the-strange-hotel.json) |
+| Attached | 118121 | [118121-attached.json](./118121-attached.json) |
 | Attachment Not Found | 256787 | [256787-attachment-not-found.json](./256787-attachment-not-found.json) |
 | Attack Animal Gakuen | 48601 | [48601-attack-animal-gakuen.json](./48601-attack-animal-gakuen.json) |
 | Attack at Dawn: North Africa | 143327 | [143327-attack-at-dawn-north-africa.json](./143327-attack-at-dawn-north-africa.json) |
