@@ -2798,6 +2798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleCry | 7210 | [7210-battlecry.json](./7210-battlecry.json) |
 | Battlecry Berserkers | 277288 | [277288-battlecry-berserkers.json](./277288-battlecry-berserkers.json) |
 | BattleCry: Age of Myths | 335410 | [335410-battlecry-age-of-myths.json](./335410-battlecry-age-of-myths.json) |
+| BattleCry: World At War | 109364 | [109364-battlecry-world-at-war.json](./109364-battlecry-world-at-war.json) |
 | BattleCrypt Bombers | 226238 | [226238-battlecrypt-bombers.json](./226238-battlecrypt-bombers.json) |
 | BattleCubes: Arena | 116333 | [116333-battlecubes-arena.json](./116333-battlecubes-arena.json) |
 | Battlecursed | 33422 | [33422-battlecursed.json](./33422-battlecursed.json) |
