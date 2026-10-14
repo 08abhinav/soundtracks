@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jangou 2 | 123076 | [123076-jangou-2.json](./123076-jangou-2.json) |
 | Jangou World Cup | 123075 | [123075-jangou-world-cup.json](./123075-jangou-world-cup.json) |
 | Janitor Bleeds | 144938 | [144938-janitor-bleeds.json](./144938-janitor-bleeds.json) |
+| Janitor Express | 104544 | [104544-janitor-express.json](./104544-janitor-express.json) |
 | Janitor Simulator | 178577 | [178577-janitor-simulator.json](./178577-janitor-simulator.json) |
 | Janitorial Escapism | 402428 | [402428-janitorial-escapism.json](./402428-janitorial-escapism.json) |
 | Janitron | 376596 | [376596-janitron.json](./376596-janitron.json) |
@@ -1508,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jitter | 298668 | [298668-jitter.json](./298668-jitter.json) |
 | Jītuì Guàishòu | 114957 | [114957-jitui-guaishou.json](./114957-jitui-guaishou.json) |
 | Jiǔdiàn | 109864 | [109864-jiudian.json](./109864-jiudian.json) |
+| Jiǔlóng Mahjong | 104539 | [104539-jiulong-mahjong.json](./104539-jiulong-mahjong.json) |
 | Jiǔlóng Mófǎzhèn | 394200 | [394200-jiulong-mofazhen.json](./394200-jiulong-mofazhen.json) |
 | Jiǔměizǐ zhī Sǐ: Zhāohé Shàonǚ Xuèsè Gàobái | 374628 | [374628-jiumeizi-zhi-si-zhaohe-shaonu-xuese-gaobai.json](./374628-jiumeizi-zhi-si-zhaohe-shaonu-xuese-gaobai.json) |
 | Jiǔtiān Fēngshén | 156223 | [156223-jiutian-fengshen.json](./156223-jiutian-fengshen.json) |
@@ -2303,6 +2305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Flash! 2 | 20300 | [20300-jumping-flash-2.json](./20300-jumping-flash-2.json) |
 | Jumping Frog: A Time Traveller | 247496 | [247496-jumping-frog-a-time-traveller.json](./247496-jumping-frog-a-time-traveller.json) |
 | Jumping Henry | 340779 | [340779-jumping-henry.json](./340779-jumping-henry.json) |
+| Jumping Horses Champions | 104509 | [104509-jumping-horses-champions.json](./104509-jumping-horses-champions.json) |
 | Jumping in the middle of the sky | 289775 | [289775-jumping-in-the-middle-of-the-sky.json](./289775-jumping-in-the-middle-of-the-sky.json) |
 | Jumping Jack | 340780 | [340780-jumping-jack.json](./340780-jumping-jack.json) |
 | Jumping Jacks | 243100 | [243100-jumping-jacks.json](./243100-jumping-jacks.json) |
@@ -2570,6 +2573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Tower Defense | 301403 | [301403-jurassic-tower-defense.json](./301403-jurassic-tower-defense.json) |
 | Jurassic War | 14456 | [14456-jurassic-war.json](./14456-jurassic-war.json) |
 | Jurassic Warfare: Dinosaur Combat Arena | 90695 | [90695-jurassic-warfare-dinosaur-combat-arena.json](./90695-jurassic-warfare-dinosaur-combat-arena.json) |
+| Jurassic Wild Dino 3D | 104529 | [104529-jurassic-wild-dino-3d.json](./104529-jurassic-wild-dino-3d.json) |
 | Jurassic World Aftermath Collection | 223741 | [223741-jurassic-world-aftermath-collection.json](./223741-jurassic-world-aftermath-collection.json) |
 | Jurassic World Alive | 90084 | [90084-jurassic-world-alive.json](./90084-jurassic-world-alive.json) |
 | Jurassic World Camp Cretaceous: Hidden Adventure | 256846 | [256846-jurassic-world-camp-cretaceous-hidden-adventure.json](./256846-jurassic-world-camp-cretaceous-hidden-adventure.json) |
