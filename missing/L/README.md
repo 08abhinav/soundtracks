@@ -1678,6 +1678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Bricks | 175176 | [175176-legend-of-bricks.json](./175176-legend-of-bricks.json) |
 | Legend of Camelot | 66939 | [66939-legend-of-camelot.json](./66939-legend-of-camelot.json) |
 | Legend of Chilli Tree | 161160 | [161160-legend-of-chilli-tree.json](./161160-legend-of-chilli-tree.json) |
+| Legend of Cina | 116178 | [116178-legend-of-cina.json](./116178-legend-of-cina.json) |
 | Legend of Coin | 80874 | [80874-legend-of-coin.json](./80874-legend-of-coin.json) |
 | Legend of Cozar | 334475 | [334475-legend-of-cozar.json](./334475-legend-of-cozar.json) |
 | Legend of Deck | 366971 | [366971-legend-of-deck.json](./366971-legend-of-deck.json) |
@@ -2409,7 +2410,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let Your Egg People Grow Into Large Trees | 248804 | [248804-let-your-egg-people-grow-into-large-trees.json](./248804-let-your-egg-people-grow-into-large-trees.json) |
 | Let Yourself Out, Eddie Kaspbrak! | 158724 | [158724-let-yourself-out-eddie-kaspbrak.json](./158724-let-yourself-out-eddie-kaspbrak.json) |
 | Let's Aim Shooting Gallery | 308520 | [308520-lets-aim-shooting-gallery.json](./308520-lets-aim-shooting-gallery.json) |
-| Let's Aim! Crane Game | 407274 | [407274-lets-aim-crane-game.json](./407274-lets-aim-crane-game.json) |
 | Let's Aim! Ring Toss | 328506 | [328506-lets-aim-ring-toss.json](./328506-lets-aim-ring-toss.json) |
 | Let's Attack Crazy Cross | 283389 | [283389-lets-attack-crazy-cross.json](./283389-lets-attack-crazy-cross.json) |
 | Let's Be a Mouse | 273470 | [273470-lets-be-a-mouse.json](./273470-lets-be-a-mouse.json) |
@@ -4625,6 +4625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic: Keypad | 235993 | [235993-logic-keypad.json](./235993-logic-keypad.json) |
 | Logica Emotica | 203540 | [203540-logica-emotica.json](./203540-logica-emotica.json) |
 | Logical | 375548 | [375548-logical.json](./375548-logical.json) |
+| Logical Now! | 116085 | [116085-logical-now.json](./116085-logical-now.json) |
 | Logical Shino | 233955 | [233955-logical-shino.json](./233955-logical-shino.json) |
 | Logicality | 203762 | [203762-logicality.json](./203762-logicality.json) |
 | LogiCally | 164938 | [164938-logically.json](./164938-logically.json) |
@@ -4926,6 +4927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop | 405702 | [405702-loop.json](./405702-loop.json) |
 | Loop Archer | 364648 | [364648-loop-archer.json](./364648-loop-archer.json) |
 | Loop Chain | 234494 | [234494-loop-chain.json](./234494-loop-chain.json) |
+| Loop Craft | 116090 | [116090-loop-craft.json](./116090-loop-craft.json) |
 | Loop Dungeon | 248321 | [248321-loop-dungeon.json](./248321-loop-dungeon.json) |
 | Loop Eraser | 92109 | [92109-loop-eraser.json](./92109-loop-eraser.json) |
 | Loop Firefighters | 388362 | [388362-loop-firefighters.json](./388362-loop-firefighters.json) |
