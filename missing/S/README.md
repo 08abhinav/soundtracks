@@ -221,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Four | 86393 | [86393-sacred-four.json](./86393-sacred-four.json) |
 | Sacred Gear | 70441 | [70441-sacred-gear.json](./70441-sacred-gear.json) |
 | Sacred Gems | 236298 | [236298-sacred-gems.json](./236298-sacred-gems.json) |
+| Sacred Grove Solitaire | 115523 | [115523-sacred-grove-solitaire.json](./115523-sacred-grove-solitaire.json) |
 | Sacred Light: Pyre of Hubris | 382986 | [382986-sacred-light-pyre-of-hubris.json](./382986-sacred-light-pyre-of-hubris.json) |
 | Sacred Line | 60524 | [60524-sacred-line.json](./60524-sacred-line.json) |
 | Sacred Line Genesis | 60523 | [60523-sacred-line-genesis.json](./60523-sacred-line-genesis.json) |
@@ -3934,6 +3935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesari 1 | 321131 | [321131-sesari-1.json](./321131-sesari-1.json) |
 | Sesquipedalian | 405039 | [405039-sesquipedalian.json](./405039-sesquipedalian.json) |
 | Sesshouseki: Malice Eater | 124758 | [124758-sesshouseki-malice-eater.json](./124758-sesshouseki-malice-eater.json) |
+| Session Seven | 115395 | [115395-session-seven.json](./115395-session-seven.json) |
 | Session: Skate Sim | 75694 | [75694-session-skate-sim.json](./75694-session-skate-sim.json) |
 | Session: Skate Sim - Brandalised Pack | 231325 | [231325-session-skate-sim-brandalised-pack.json](./231325-session-skate-sim-brandalised-pack.json) |
 | Session: Skate Sim - Deluxe Edition | 218488 | [218488-session-skate-sim-deluxe-edition.json](./218488-session-skate-sim-deluxe-edition.json) |
@@ -6086,6 +6088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooty Skies Overdrive | 137654 | [137654-shooty-skies-overdrive.json](./137654-shooty-skies-overdrive.json) |
 | Shooty Space | 86251 | [86251-shooty-space.json](./86251-shooty-space.json) |
 | Shooty Space Adventure | 58768 | [58768-shooty-space-adventure.json](./58768-shooty-space-adventure.json) |
+| Shop Battle | 115399 | [115399-shop-battle.json](./115399-shop-battle.json) |
 | Shop Crush | 310059 | [310059-shop-crush.json](./310059-shop-crush.json) |
 | Shop Empire | 270596 | [270596-shop-empire.json](./270596-shop-empire.json) |
 | Shop Farm Tycoon | 395216 | [395216-shop-farm-tycoon.json](./395216-shop-farm-tycoon.json) |
@@ -17171,6 +17174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam & Steel Railway Tycoon | 384191 | [384191-steam-and-steel-railway-tycoon.json](./384191-steam-and-steel-railway-tycoon.json) |
 | Steam and Metal | 36139 | [36139-steam-and-metal.json](./36139-steam-and-metal.json) |
 | Steam and Sacrilege | 57493 | [57493-steam-and-sacrilege.json](./57493-steam-and-sacrilege.json) |
+| Steam and Silk | 115396 | [115396-steam-and-silk.json](./115396-steam-and-silk.json) |
 | Steam Bandits: Outpost | 30368 | [30368-steam-bandits-outpost.json](./30368-steam-bandits-outpost.json) |
 | Steam Chain | 135567 | [135567-steam-chain.json](./135567-steam-chain.json) |
 | Steam Girls | 410406 | [410406-steam-girls.json](./410406-steam-girls.json) |
@@ -18022,6 +18026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storage Guys | 318046 | [318046-storage-guys.json](./318046-storage-guys.json) |
 | Storage Hunter Simulator | 317979 | [317979-storage-hunter-simulator.json](./317979-storage-hunter-simulator.json) |
 | Storage Hunter: Bid War Simulator | 345118 | [345118-storage-hunter-bid-war-simulator.json](./345118-storage-hunter-bid-war-simulator.json) |
+| Storage Kings | 115497 | [115497-storage-kings.json](./115497-storage-kings.json) |
 | Storage Looter | 298154 | [298154-storage-looter.json](./298154-storage-looter.json) |
 | Storage Master | 212483 | [212483-storage-master.json](./212483-storage-master.json) |
 | Storage Warfare | 303220 | [303220-storage-warfare.json](./303220-storage-warfare.json) |
