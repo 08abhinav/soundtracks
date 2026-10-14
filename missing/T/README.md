@@ -6123,6 +6123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fall: Act I | 318971 | [318971-the-fall-act-i.json](./318971-the-fall-act-i.json) |
 | The Fall: Mutant City | 304254 | [304254-the-fall-mutant-city.json](./304254-the-fall-mutant-city.json) |
 | The Fall: Zombie Survival | 365218 | [365218-the-fall-zombie-survival.json](./365218-the-fall-zombie-survival.json) |
+| The Fallen | 130104 | [130104-the-fallen.json](./130104-the-fallen.json) |
 | The Fallen | 184872 | [184872-the-fallen.json](./184872-the-fallen.json) |
 | The Fallen Angels | 39581 | [39581-the-fallen-angels.json](./39581-the-fallen-angels.json) |
 | The Fallen Crypt of the Judgement Concrete | 328031 | [328031-the-fallen-crypt-of-the-judgement-concrete.json](./328031-the-fallen-crypt-of-the-judgement-concrete.json) |
@@ -10448,6 +10449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ruins of Machi Itcza | 182520 | [182520-the-ruins-of-machi-itcza.json](./182520-the-ruins-of-machi-itcza.json) |
 | The Ruins of Shanhai Labyrinth | 358482 | [358482-the-ruins-of-shanhai-labyrinth.json](./358482-the-ruins-of-shanhai-labyrinth.json) |
 | The Ruins of the Lost Kingdom: Chronicle | 77960 | [77960-the-ruins-of-the-lost-kingdom-chronicle.json](./77960-the-ruins-of-the-lost-kingdom-chronicle.json) |
+| The Rule of Land: Pioneers | 130112 | [130112-the-rule-of-land-pioneers.json](./130112-the-rule-of-land-pioneers.json) |
 | The Rules | 224762 | [224762-the-rules.json](./224762-the-rules.json) |
 | The Rumble Fish | 226310 | [226310-the-rumble-fish.json](./226310-the-rumble-fish.json) |
 | The Rumble Fish + | 278489 | [278489-the-rumble-fish.json](./278489-the-rumble-fish.json) |
@@ -13101,6 +13103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheVeteranVR | 118776 | [118776-theveteranvr.json](./118776-theveteranvr.json) |
 | theViewer | 111479 | [111479-theviewer.json](./111479-theviewer.json) |
 | TheWalkerKiller VR | 44230 | [44230-thewalkerkiller-vr.json](./44230-thewalkerkiller-vr.json) |
+| TheWandererVR | 130098 | [130098-thewanderervr.json](./130098-thewanderervr.json) |
 | TheWaveVR | 25014 | [25014-thewavevr.json](./25014-thewavevr.json) |
 | TheWraithTrials | 93711 | [93711-thewraithtrials.json](./93711-thewraithtrials.json) |
 | Thexder | 9681 | [9681-thexder.json](./9681-thexder.json) |
