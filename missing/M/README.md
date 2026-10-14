@@ -8615,6 +8615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini-Level Megawad | 269654 | [269654-mini-level-megawad.json](./269654-mini-level-megawad.json) |
 | Mini-Map | 419200 | [419200-mini-map.json](./419200-mini-map.json) |
 | Mini-Market Simulator VR | 309377 | [309377-mini-market-simulator-vr.json](./309377-mini-market-simulator-vr.json) |
+| Mini-Mech Mayhem | 74969 | [74969-mini-mech-mayhem.json](./74969-mini-mech-mayhem.json) |
 | Mini-Metroid | 291622 | [291622-mini-metroid.json](./291622-mini-metroid.json) |
 | Mini-Moni. Dice de Pyon! | 243285 | [243285-mini-moni-dice-de-pyon.json](./243285-mini-moni-dice-de-pyon.json) |
 | Mini-Moni. Shakatto Tambourine! Dapyon! | 69262 | [69262-mini-moni-shakatto-tambourine-dapyon.json](./69262-mini-moni-shakatto-tambourine-dapyon.json) |
