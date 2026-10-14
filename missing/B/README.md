@@ -408,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms VS | 250942 | [250942-backrooms-vs.json](./250942-backrooms-vs.json) |
 | Backrooms: Between Lost Dimension | 304101 | [304101-backrooms-between-lost-dimension.json](./304101-backrooms-between-lost-dimension.json) |
 | Backrooms: Beyond One Year | 289230 | [289230-backrooms-beyond-one-year.json](./289230-backrooms-beyond-one-year.json) |
+| Backrooms: Blackhole | 404886 | [404886-backrooms-blackhole.json](./404886-backrooms-blackhole.json) |
 | Backrooms: Code Yellow | 416594 | [416594-backrooms-code-yellow.json](./416594-backrooms-code-yellow.json) |
 | Backrooms: Duck Escape | 378180 | [378180-backrooms-duck-escape.json](./378180-backrooms-duck-escape.json) |
 | Backrooms: Eight Levels | 281947 | [281947-backrooms-eight-levels.json](./281947-backrooms-eight-levels.json) |
@@ -636,7 +637,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -10246,6 +10246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrickArena | 100345 | [100345-brickarena.json](./100345-brickarena.json) |
 | BrickAttack | 76151 | [76151-brickattack.json](./76151-brickattack.json) |
 | BrickBounce | 273381 | [273381-brickbounce.json](./273381-brickbounce.json) |
+| BrickFall: Fun Game of Bricks | 97213 | [97213-brickfall-fun-game-of-bricks.json](./97213-brickfall-fun-game-of-bricks.json) |
 | BrickForce | 18991 | [18991-brickforce.json](./18991-brickforce.json) |
 | Brickhaven | 273380 | [273380-brickhaven.json](./273380-brickhaven.json) |
 | BrickMania | 328552 | [328552-brickmania.json](./328552-brickmania.json) |
@@ -10909,6 +10910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Shooter FX | 168680 | [168680-bubble-shooter-fx.json](./168680-bubble-shooter-fx.json) |
 | Bubble Shooter Mission | 102576 | [102576-bubble-shooter-mission.json](./102576-bubble-shooter-mission.json) |
 | Bubble Shooter: Fashion Bird | 108444 | [108444-bubble-shooter-fashion-bird.json](./108444-bubble-shooter-fashion-bird.json) |
+| Bubble Shooter: Original Bear | 97260 | [97260-bubble-shooter-original-bear.json](./97260-bubble-shooter-original-bear.json) |
 | Bubble Shooter! Tournaments | 78387 | [78387-bubble-shooter-tournaments.json](./78387-bubble-shooter-tournaments.json) |
 | Bubble Shooting Robots | 266138 | [266138-bubble-shooting-robots.json](./266138-bubble-shooting-robots.json) |
 | Bubble Soccer | 117505 | [117505-bubble-soccer.json](./117505-bubble-soccer.json) |
