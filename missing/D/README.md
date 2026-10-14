@@ -982,6 +982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Dimensions: City of Fog - Collector's Edition | 29811 | [29811-dark-dimensions-city-of-fog-collectors-edition.json](./29811-dark-dimensions-city-of-fog-collectors-edition.json) |
 | Dark Dimensions: Homecoming | 139787 | [139787-dark-dimensions-homecoming.json](./139787-dark-dimensions-homecoming.json) |
 | Dark Dimensions: Homecoming - Collector's Edition | 111512 | [111512-dark-dimensions-homecoming-collectors-edition.json](./111512-dark-dimensions-homecoming-collectors-edition.json) |
+| Dark Dimensions: Shadow Pirouette HD | 95347 | [95347-dark-dimensions-shadow-pirouette-hd.json](./95347-dark-dimensions-shadow-pirouette-hd.json) |
 | Dark Dimensions: Somber Song | 139788 | [139788-dark-dimensions-somber-song.json](./139788-dark-dimensions-somber-song.json) |
 | Dark Dimensions: Somber Song - Collector's Edition | 96884 | [96884-dark-dimensions-somber-song-collectors-edition.json](./96884-dark-dimensions-somber-song-collectors-edition.json) |
 | Dark Dimensions: Wax Beauty | 139789 | [139789-dark-dimensions-wax-beauty.json](./139789-dark-dimensions-wax-beauty.json) |
@@ -9245,6 +9246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr Livingstone, I Presume?: Digital Deluxe Edition | 167178 | [167178-dr-livingstone-i-presume-digital-deluxe-edition.json](./167178-dr-livingstone-i-presume-digital-deluxe-edition.json) |
 | Dr Muddles and the Cursed Library | 289773 | [289773-dr-muddles-and-the-cursed-library.json](./289773-dr-muddles-and-the-cursed-library.json) |
 | Dr Nakamoto's Digital Eggs | 200039 | [200039-dr-nakamotos-digital-eggs.json](./200039-dr-nakamotos-digital-eggs.json) |
+| Dr Pig's Hospital | 95301 | [95301-dr-pigs-hospital.json](./95301-dr-pigs-hospital.json) |
 | Dr Scrime's Spook School | 13607 | [13607-dr-scrimes-spook-school.json](./13607-dr-scrimes-spook-school.json) |
 | Dr Smart Space Encyclopedia | 242046 | [242046-dr-smart-space-encyclopedia.json](./242046-dr-smart-space-encyclopedia.json) |
 | Dr Wan | 246849 | [246849-dr-wan.json](./246849-dr-wan.json) |
