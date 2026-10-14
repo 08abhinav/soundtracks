@@ -3487,6 +3487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repossessed | 279738 | [279738-repossessed.json](./279738-repossessed.json) |
 | Repossession | 226180 | [226180-repossession.json](./226180-repossession.json) |
 | Repressed | 121352 | [121352-repressed.json](./121352-repressed.json) |
+| Reprisal | 94143 | [94143-reprisal.json](./94143-reprisal.json) |
 | Reprisal Universe | 8871 | [8871-reprisal-universe.json](./8871-reprisal-universe.json) |
 | Reprobate | 230173 | [230173-reprobate.json](./230173-reprobate.json) |
 | Reprocessing | 399250 | [399250-reprocessing.json](./399250-reprocessing.json) |
@@ -7364,6 +7365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rorke's Drift | 72107 | [72107-rorkes-drift.json](./72107-rorkes-drift.json) |
 | Rorrim | 84852 | [84852-rorrim.json](./84852-rorrim.json) |
 | Rorry's Race | 335110 | [335110-rorrys-race.json](./335110-rorrys-race.json) |
+| Rorschach | 94150 | [94150-rorschach.json](./94150-rorschach.json) |
 | Rory McIlroy Golf | 23216 | [23216-rory-mcilroy-golf.json](./23216-rory-mcilroy-golf.json) |
 | Rory's Restaurant: Origins | 188416 | [188416-rorys-restaurant-origins.json](./188416-rorys-restaurant-origins.json) |
 | Ros | 101631 | [101631-ros.json](./101631-ros.json) |
@@ -8373,6 +8375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runombie | 292287 | [292287-runombie.json](./292287-runombie.json) |
 | Runonce | 288986 | [288986-runonce.json](./288986-runonce.json) |
 | Runout | 173182 | [173182-runout.json](./173182-runout.json) |
+| RunPostmanRun | 94132 | [94132-runpostmanrun.json](./94132-runpostmanrun.json) |
 | Runpuzzle | 132539 | [132539-runpuzzle.json](./132539-runpuzzle.json) |
 | Runren Simulator | 390721 | [390721-runren-simulator.json](./390721-runren-simulator.json) |
 | RunVR | 30732 | [30732-runvr.json](./30732-runvr.json) |
