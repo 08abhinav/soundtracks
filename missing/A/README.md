@@ -545,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mystic Journey With: Terra | 392951 | [392951-a-mystic-journey-with-terra.json](./392951-a-mystic-journey-with-terra.json) |
 | A Naive Villager Girl Nako's Exploration Story | 82691 | [82691-a-naive-villager-girl-nakos-exploration-story.json](./82691-a-naive-villager-girl-nakos-exploration-story.json) |
 | A Nanobot | 233124 | [233124-a-nanobot.json](./233124-a-nanobot.json) |
+| A Near Dawn | 74241 | [74241-a-near-dawn.json](./74241-a-near-dawn.json) |
 | A Nest for Us | 259499 | [259499-a-nest-for-us.json](./259499-a-nest-for-us.json) |
 | A New Adventure: FaYoh 2 | 131374 | [131374-a-new-adventure-fayoh-2.json](./131374-a-new-adventure-fayoh-2.json) |
 | A New Don | 183433 | [183433-a-new-don.json](./183433-a-new-don.json) |
@@ -7110,6 +7111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Reigny Day | 368884 | [368884-another-reigny-day.json](./368884-another-reigny-day.json) |
 | Another Reverie | 265853 | [265853-another-reverie.json](./265853-another-reverie.json) |
 | Another road | 167243 | [167243-another-road.json](./167243-another-road.json) |
+| Another Rocket Game | 74229 | [74229-another-rocket-game.json](./74229-another-rocket-game.json) |
 | Another Round | 330254 | [330254-another-round.json](./330254-another-round.json) |
 | Another Runner | 55214 | [55214-another-runner.json](./55214-another-runner.json) |
 | Another SameGame | 64434 | [64434-another-samegame.json](./64434-another-samegame.json) |
