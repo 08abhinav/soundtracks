@@ -7656,6 +7656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreeCraft Survival Pocket Edition | 338777 | [338777-freecraft-survival-pocket-edition.json](./338777-freecraft-survival-pocket-edition.json) |
 | Freed Software | 220024 | [220024-freed-software.json](./220024-freed-software.json) |
 | FreeDiver: Triton Down | 117797 | [117797-freediver-triton-down.json](./117797-freediver-triton-down.json) |
+| Freediving Hunter: Spearfishing the World | 130620 | [130620-freediving-hunter-spearfishing-the-world.json](./130620-freediving-hunter-spearfishing-the-world.json) |
 | Freedom | 148833 | [148833-freedom.json](./148833-freedom.json) |
 | Freedom | 271995 | [271995-freedom.json](./271995-freedom.json) |
 | Freedom Bridge | 115034 | [115034-freedom-bridge.json](./115034-freedom-bridge.json) |
