@@ -2939,6 +2939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Card Game | 56420 | [56420-epic-card-game.json](./56420-epic-card-game.json) |
 | Epic Cards Battle 3 | 258960 | [258960-epic-cards-battle-3.json](./258960-epic-cards-battle-3.json) |
 | Epic Chef | 145063 | [145063-epic-chef.json](./145063-epic-chef.json) |
+| Epic Citadel | 91847 | [91847-epic-citadel.json](./91847-epic-citadel.json) |
 | Epic City Builder 4 | 142194 | [142194-epic-city-builder-4.json](./142194-epic-city-builder-4.json) |
 | Epic Clicker Journey | 34134 | [34134-epic-clicker-journey.json](./34134-epic-clicker-journey.json) |
 | Epic Conquest | 129606 | [129606-epic-conquest.json](./129606-epic-conquest.json) |
@@ -3837,6 +3838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Espalion | 266487 | [266487-espalion.json](./266487-espalion.json) |
 | Espana 1936 | 129582 | [129582-espana-1936.json](./129582-espana-1936.json) |
 | Espectro the Fighters Focus | 376030 | [376030-espectro-the-fighters-focus.json](./376030-espectro-the-fighters-focus.json) |
+| Espen I Asmo | 91881 | [91881-espen-i-asmo.json](./91881-espen-i-asmo.json) |
 | Esper | 23893 | [23893-esper.json](./23893-esper.json) |
 | Esper 2 | 18396 | [18396-esper-2.json](./18396-esper-2.json) |
 | Esper Dream | 47243 | [47243-esper-dream.json](./47243-esper-dream.json) |
@@ -4950,6 +4952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Execution | 13650 | [13650-execution.json](./13650-execution.json) |
 | Executioner | 88648 | [88648-executioner.json](./88648-executioner.json) |
 | Executioner Girls | 243572 | [243572-executioner-girls.json](./243572-executioner-girls.json) |
+| Executioners | 91867 | [91867-executioners.json](./91867-executioners.json) |
 | Executive Assault | 11585 | [11585-executive-assault.json](./11585-executive-assault.json) |
 | Executive Assault 2 | 110573 | [110573-executive-assault-2.json](./110573-executive-assault-2.json) |
 | Executive Command | 207842 | [207842-executive-command.json](./207842-executive-command.json) |
