@@ -2595,6 +2595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurl | 244189 | [244189-jurl.json](./244189-jurl.json) |
 | Jurnal Malam: Bestfriend | 310057 | [310057-jurnal-malam-bestfriend.json](./310057-jurnal-malam-bestfriend.json) |
 | Jurnal Risa: Dark Destiny | 334165 | [334165-jurnal-risa-dark-destiny.json](./334165-jurnal-risa-dark-destiny.json) |
+| Juro Janosik | 115408 | [115408-juro-janosik.json](./115408-juro-janosik.json) |
 | Juruna | 240824 | [240824-juruna.json](./240824-juruna.json) |
 | Jury Trial | 160157 | [160157-jury-trial.json](./160157-jury-trial.json) |
 | Jury: Episode 1 - Before the Trial | 293841 | [293841-jury-episode-1-before-the-trial.json](./293841-jury-episode-1-before-the-trial.json) |
