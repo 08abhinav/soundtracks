@@ -3086,6 +3086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epyx's Impossible Mission | 118868 | [118868-epyxs-impossible-mission.json](./118868-epyxs-impossible-mission.json) |
 | EQ Survival Manual | 406819 | [406819-eq-survival-manual.json](./406819-eq-survival-manual.json) |
 | Eqdrive.io | 195550 | [195550-eqdrive-io.json](./195550-eqdrive-io.json) |
+| Eqela Space Destroyer | 100701 | [100701-eqela-space-destroyer.json](./100701-eqela-space-destroyer.json) |
 | Equaboreal 12.21 | 133903 | [133903-equaboreal-12-21.json](./133903-equaboreal-12-21.json) |
 | Equadle | 363029 | [363029-equadle.json](./363029-equadle.json) |
 | Equaland | 104251 | [104251-equaland.json](./104251-equaland.json) |
