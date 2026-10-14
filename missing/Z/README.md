@@ -343,6 +343,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Beauty | 326256 | [326256-zen-beauty.json](./326256-zen-beauty.json) |
 | Zen Blocks | 74480 | [74480-zen-blocks.json](./74480-zen-blocks.json) |
 | Zen Blossom | 220221 | [220221-zen-blossom.json](./220221-zen-blossom.json) |
+| Zen Chess Collection | 125752 | [125752-zen-chess-collection.json](./125752-zen-chess-collection.json) |
+| Zen Chess: Blindfold Masters | 125730 | [125730-zen-chess-blindfold-masters.json](./125730-zen-chess-blindfold-masters.json) |
 | Zen Chess: Mate in Two | 116700 | [116700-zen-chess-mate-in-two.json](./116700-zen-chess-mate-in-two.json) |
 | Zen Cube | 163988 | [163988-zen-cube.json](./163988-zen-cube.json) |
 | Zen Drift | 315806 | [315806-zen-drift.json](./315806-zen-drift.json) |
@@ -561,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Fighter | 385714 | [385714-zero-fighter.json](./385714-zero-fighter.json) |
 | Zero Fill | 418733 | [418733-zero-fill.json](./418733-zero-fill.json) |
 | Zero Fire: Toaplan Arcade Garage | 246668 | [246668-zero-fire-toaplan-arcade-garage.json](./246668-zero-fire-toaplan-arcade-garage.json) |
+| Zero Friction | 126897 | [126897-zero-friction.json](./126897-zero-friction.json) |
 | Zero G Golf | 181661 | [181661-zero-g-golf.json](./181661-zero-g-golf.json) |
 | Zero Glide VR | 334854 | [334854-zero-glide-vr.json](./334854-zero-glide-vr.json) |
 | Zero Gravity | 229795 | [229795-zero-gravity.json](./229795-zero-gravity.json) |
@@ -1239,6 +1242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Zone | 72157 | [72157-zombie-zone.json](./72157-zombie-zone.json) |
 | Zombie's Cool | 147261 | [147261-zombies-cool.json](./147261-zombies-cool.json) |
 | Zombie's Cool 2 | 222338 | [222338-zombies-cool-2.json](./222338-zombies-cool-2.json) |
+| Zombie's Retreat | 127634 | [127634-zombies-retreat.json](./127634-zombies-retreat.json) |
 | ZombieBoy | 137337 | [137337-zombieboy.json](./137337-zombieboy.json) |
 | ZombieBoy 2: Crazy Love | 137338 | [137338-zombieboy-2-crazy-love.json](./137338-zombieboy-2-crazy-love.json) |
 | Zombieeee! | 151718 | [151718-zombieeee.json](./151718-zombieeee.json) |
