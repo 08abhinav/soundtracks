@@ -915,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Century | 12035 | [12035-dark-century.json](./12035-dark-century.json) |
 | Dark Chaser | 109034 | [109034-dark-chaser.json](./109034-dark-chaser.json) |
 | Dark Chess+ | 175242 | [175242-dark-chess.json](./175242-dark-chess.json) |
+| Dark Chinese Chess Online | 89799 | [89799-dark-chinese-chess-online.json](./89799-dark-chinese-chess-online.json) |
 | Dark City Trouble Nights | 266817 | [266817-dark-city-trouble-nights.json](./266817-dark-city-trouble-nights.json) |
 | Dark City: Amsterdam Collector's Edition | 337180 | [337180-dark-city-amsterdam-collectors-edition.json](./337180-dark-city-amsterdam-collectors-edition.json) |
 | Dark City: Barcelona Collector's Edition | 362832 | [362832-dark-city-barcelona-collectors-edition.json](./362832-dark-city-barcelona-collectors-edition.json) |
@@ -1239,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls Ascended | 194889 | [194889-dark-souls-ascended.json](./194889-dark-souls-ascended.json) |
 | Dark Souls II: Crown of the Old Iron King | 22502 | [22502-dark-souls-ii-crown-of-the-old-iron-king.json](./22502-dark-souls-ii-crown-of-the-old-iron-king.json) |
 | Dark Souls III: Born From the Ashes | 317520 | [317520-dark-souls-iii-born-from-the-ashes.json](./317520-dark-souls-iii-born-from-the-ashes.json) |
+| Dark Souls III: Day One Edition | 89841 | [89841-dark-souls-iii-day-one-edition.json](./89841-dark-souls-iii-day-one-edition.json) |
 | Dark Souls III: Deluxe Edition | 47486 | [47486-dark-souls-iii-deluxe-edition.json](./47486-dark-souls-iii-deluxe-edition.json) |
 | Dark Souls III: The Convergence | 188607 | [188607-dark-souls-iii-the-convergence.json](./188607-dark-souls-iii-the-convergence.json) |
 | Dark Souls III: The Ringed City | 26916 | [26916-dark-souls-iii-the-ringed-city.json](./26916-dark-souls-iii-the-ringed-city.json) |
@@ -6541,6 +6543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Drivin' | 92398 | [92398-disc-drivin.json](./92398-disc-drivin.json) |
 | Disc Golf 3D | 89808 | [89808-disc-golf-3d.json](./89808-disc-golf-3d.json) |
 | Disc Golf Adventure 2 VR | 148481 | [148481-disc-golf-adventure-2-vr.json](./148481-disc-golf-adventure-2-vr.json) |
+| Disc Golf Game | 89834 | [89834-disc-golf-game.json](./89834-disc-golf-game.json) |
 | Disc Golf Rival | 221377 | [221377-disc-golf-rival.json](./221377-disc-golf-rival.json) |
 | Disc Golf to Go | 175399 | [175399-disc-golf-to-go.json](./175399-disc-golf-to-go.json) |
 | Disc Golf Valley | 146108 | [146108-disc-golf-valley.json](./146108-disc-golf-valley.json) |
@@ -8973,6 +8976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dots and Dashes | 188674 | [188674-dots-and-dashes.json](./188674-dots-and-dashes.json) |
 | Dots in line | 223180 | [223180-dots-in-line.json](./223180-dots-in-line.json) |
 | Dots of War | 241051 | [241051-dots-of-war.json](./241051-dots-of-war.json) |
+| Dots on Dash | 89800 | [89800-dots-on-dash.json](./89800-dots-on-dash.json) |
 | Dots Pop : Sexy Hentai Girls | 113012 | [113012-dots-pop-sexy-hentai-girls.json](./113012-dots-pop-sexy-hentai-girls.json) |
 | Dots: Revamped! | 120099 | [120099-dots-revamped.json](./120099-dots-revamped.json) |
 | Dots! | 171484 | [171484-dots.json](./171484-dots.json) |
