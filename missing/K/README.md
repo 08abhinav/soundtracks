@@ -3143,6 +3143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knob | 346254 | [346254-knob.json](./346254-knob.json) |
 | Knobel Spass | 91594 | [91594-knobel-spass.json](./91594-knobel-spass.json) |
 | Knoblins | 303217 | [303217-knoblins.json](./303217-knoblins.json) |
+| Knobswitch | 99533 | [99533-knobswitch.json](./99533-knobswitch.json) |
 | Knock 'Em Down! Bowling | 114201 | [114201-knock-em-down-bowling.json](./114201-knock-em-down-bowling.json) |
 | Knock Harder | 120953 | [120953-knock-harder.json](./120953-knock-harder.json) |
 | Knock Knock | 323988 | [323988-knock-knock.json](./323988-knock-knock.json) |
