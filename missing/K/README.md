@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaleido Chaos | 108400 | [108400-kaleido-chaos.json](./108400-kaleido-chaos.json) |
 | Kaleido Stella | 113745 | [113745-kaleido-stella.json](./113745-kaleido-stella.json) |
 | Kaleidocraft | 156572 | [156572-kaleidocraft.json](./156572-kaleidocraft.json) |
+| Kaleidoscope | 118688 | [118688-kaleidoscope.json](./118688-kaleidoscope.json) |
 | Kaleidoscope | 202577 | [202577-kaleidoscope.json](./202577-kaleidoscope.json) |
 | Kaleidoscope | 406303 | [406303-kaleidoscope.json](./406303-kaleidoscope.json) |
 | Kaleidoscope Chateau | 238722 | [238722-kaleidoscope-chateau.json](./238722-kaleidoscope-chateau.json) |
