@@ -468,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Fencer F: Refrain Chord - Limited Edition | 205257 | [205257-fairy-fencer-f-refrain-chord-limited-edition.json](./205257-fairy-fencer-f-refrain-chord-limited-edition.json) |
 | Fairy Fire: Defender of the Fairies | 132775 | [132775-fairy-fire-defender-of-the-fairies.json](./132775-fairy-fire-defender-of-the-fairies.json) |
 | Fairy Forge | 418282 | [418282-fairy-forge.json](./418282-fairy-forge.json) |
+| Fairy Games | 102678 | [102678-fairy-games.json](./102678-fairy-games.json) |
 | Fairy Glade | 175980 | [175980-fairy-glade.json](./175980-fairy-glade.json) |
 | Fairy Godmother Stories: Cinderella | 139725 | [139725-fairy-godmother-stories-cinderella.json](./139725-fairy-godmother-stories-cinderella.json) |
 | Fairy Godmother Stories: Dark Deal | 155360 | [155360-fairy-godmother-stories-dark-deal.json](./155360-fairy-godmother-stories-dark-deal.json) |
@@ -1393,6 +1394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Life: Origin Island | 225737 | [225737-fantasy-life-origin-island.json](./225737-fantasy-life-origin-island.json) |
 | Fantasy Little Jobs | 135141 | [135141-fantasy-little-jobs.json](./135141-fantasy-little-jobs.json) |
 | Fantasy Mahjong Connect | 154357 | [154357-fantasy-mahjong-connect.json](./154357-fantasy-mahjong-connect.json) |
+| Fantasy Maiden | 102706 | [102706-fantasy-maiden.json](./102706-fantasy-maiden.json) |
 | Fantasy Maiden Wars: Dream | 144063 | [144063-fantasy-maiden-wars-dream.json](./144063-fantasy-maiden-wars-dream.json) |
 | Fantasy Maiden Wars: Dream of the Stray Dreamer | 222370 | [222370-fantasy-maiden-wars-dream-of-the-stray-dreamer.json](./222370-fantasy-maiden-wars-dream-of-the-stray-dreamer.json) |
 | Fantasy Maiden Wars: Eternity | 144061 | [144061-fantasy-maiden-wars-eternity.json](./144061-fantasy-maiden-wars-eternity.json) |
@@ -1613,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farafalla | 225285 | [225285-farafalla.json](./225285-farafalla.json) |
 | Farathan | 149703 | [149703-farathan.json](./149703-farathan.json) |
 | Faraway | 325275 | [325275-faraway.json](./325275-faraway.json) |
+| Faraway 3: Arctic Escape | 102700 | [102700-faraway-3-arctic-escape.json](./102700-faraway-3-arctic-escape.json) |
 | Faraway 4: Ancient Escape | 115052 | [115052-faraway-4-ancient-escape.json](./115052-faraway-4-ancient-escape.json) |
 | Faraway 5: Tropic Escape | 132015 | [132015-faraway-5-tropic-escape.json](./132015-faraway-5-tropic-escape.json) |
 | Faraway 6: Galactic Escape | 140391 | [140391-faraway-6-galactic-escape.json](./140391-faraway-6-galactic-escape.json) |
@@ -7212,6 +7215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Houses | 209564 | [209564-four-houses.json](./209564-four-houses.json) |
 | Four Hunters Survivor | 277584 | [277584-four-hunters-survivor.json](./277584-four-hunters-survivor.json) |
 | Four in a Row | 146688 | [146688-four-in-a-row.json](./146688-four-in-a-row.json) |
+| Four In A Row - Classic Games | 102690 | [102690-four-in-a-row-classic-games.json](./102690-four-in-a-row-classic-games.json) |
 | Four in One | 210647 | [210647-four-in-one.json](./210647-four-in-one.json) |
 | Four Kings One War | 110903 | [110903-four-kings-one-war.json](./110903-four-kings-one-war.json) |
 | Four Kings One War: Virtual Reality | 170899 | [170899-four-kings-one-war-virtual-reality.json](./170899-four-kings-one-war-virtual-reality.json) |
@@ -7726,6 +7730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreeCraft Survival Pocket Edition | 338777 | [338777-freecraft-survival-pocket-edition.json](./338777-freecraft-survival-pocket-edition.json) |
 | Freed Software | 220024 | [220024-freed-software.json](./220024-freed-software.json) |
 | FreeDiver: Triton Down | 117797 | [117797-freediver-triton-down.json](./117797-freediver-triton-down.json) |
+| Freediving Hunter | 102691 | [102691-freediving-hunter.json](./102691-freediving-hunter.json) |
 | Freediving Hunter: Spearfishing the World | 130620 | [130620-freediving-hunter-spearfishing-the-world.json](./130620-freediving-hunter-spearfishing-the-world.json) |
 | Freedom | 148833 | [148833-freedom.json](./148833-freedom.json) |
 | Freedom | 271995 | [271995-freedom.json](./271995-freedom.json) |
