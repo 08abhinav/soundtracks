@@ -1731,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Gas Station | 123976 | [123976-haunted-gas-station.json](./123976-haunted-gas-station.json) |
 | Haunted Girls | 212999 | [212999-haunted-girls.json](./212999-haunted-girls.json) |
 | Haunted Halls: Fears from Childhood - Collector's Edition | 86437 | [86437-haunted-halls-fears-from-childhood-collectors-edition.json](./86437-haunted-halls-fears-from-childhood-collectors-edition.json) |
+| Haunted Halls: Green Hills Sanitarium | 84146 | [84146-haunted-halls-green-hills-sanitarium.json](./84146-haunted-halls-green-hills-sanitarium.json) |
 | Haunted Halls: Green Hills Sanitarium - Collector's Edition | 37011 | [37011-haunted-halls-green-hills-sanitarium-collectors-edition.json](./37011-haunted-halls-green-hills-sanitarium-collectors-edition.json) |
 | Haunted Halls: Revenge of Doctor Blackmore - Collector's Edition | 105163 | [105163-haunted-halls-revenge-of-doctor-blackmore-collectors-edition.json](./105163-haunted-halls-revenge-of-doctor-blackmore-collectors-edition.json) |
 | Haunted Heart | 299533 | [299533-haunted-heart.json](./299533-haunted-heart.json) |
