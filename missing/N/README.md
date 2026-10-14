@@ -4367,6 +4367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonogram Animals | 305913 | [305913-nonogram-animals.json](./305913-nonogram-animals.json) |
 | Nonogram Desserts | 347759 | [347759-nonogram-desserts.json](./347759-nonogram-desserts.json) |
 | Nonogram Galaxy 2 | 212699 | [212699-nonogram-galaxy-2.json](./212699-nonogram-galaxy-2.json) |
+| Nonogram Madness | 102709 | [102709-nonogram-madness.json](./102709-nonogram-madness.json) |
 | Nonogram Maker | 399290 | [399290-nonogram-maker.json](./399290-nonogram-maker.json) |
 | Nonogram Minimal | 197918 | [197918-nonogram-minimal.json](./197918-nonogram-minimal.json) |
 | Nonogram Mon | 312367 | [312367-nonogram-mon.json](./312367-nonogram-mon.json) |
