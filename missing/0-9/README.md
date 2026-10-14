@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Agile Altercation | 316924 | [316924-1-agile-altercation.json](./316924-1-agile-altercation.json) |
 | 1 AM Moscow Time | 304848 | [304848-1-am-moscow-time.json](./304848-1-am-moscow-time.json) |
 | 1 Bit Survivor | 233992 | [233992-1-bit-survivor.json](./233992-1-bit-survivor.json) |
+| 1 Hit Kill | 105211 | [105211-1-hit-kill.json](./105211-1-hit-kill.json) |
 | 1 Hop | 171045 | [171045-1-hop.json](./171045-1-hop.json) |
 | 1 Hungry Peasant | 252117 | [252117-1-hungry-peasant.json](./252117-1-hungry-peasant.json) |
 | 1 Line: One Stroke Connect Puzzle | 102848 | [102848-1-line-one-stroke-connect-puzzle.json](./102848-1-line-one-stroke-connect-puzzle.json) |
