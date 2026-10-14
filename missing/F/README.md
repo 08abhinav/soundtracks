@@ -4586,6 +4586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitz 2 | 243090 | [243090-fitz-2.json](./243090-fitz-2.json) |
 | Fitz the Fox | 12891 | [12891-fitz-the-fox.json](./12891-fitz-the-fox.json) |
 | Fitzzle Adorable Puppies | 334783 | [334783-fitzzle-adorable-puppies.json](./334783-fitzzle-adorable-puppies.json) |
+| Fitzzle Cute Kittens | 109409 | [109409-fitzzle-cute-kittens.json](./109409-fitzzle-cute-kittens.json) |
 | Fitzzle Fearless Sharks | 334811 | [334811-fitzzle-fearless-sharks.json](./334811-fitzzle-fearless-sharks.json) |
 | Fitzzle Majestic Eagles | 334810 | [334810-fitzzle-majestic-eagles.json](./334810-fitzzle-majestic-eagles.json) |
 | Fitzzle Mighty Bears | 334773 | [334773-fitzzle-mighty-bears.json](./334773-fitzzle-mighty-bears.json) |
@@ -6450,6 +6451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Rites | 360707 | [360707-forest-rites.json](./360707-forest-rites.json) |
 | Forest Simulator 2025 | 326427 | [326427-forest-simulator-2025.json](./326427-forest-simulator-2025.json) |
 | Forest spiders | 123891 | [123891-forest-spiders.json](./123891-forest-spiders.json) |
+| Forest Survival | 109382 | [109382-forest-survival.json](./109382-forest-survival.json) |
 | Forest Survival | 381032 | [381032-forest-survival.json](./381032-forest-survival.json) |
 | Forest Time | 373517 | [373517-forest-time.json](./373517-forest-time.json) |
 | Forest Walk | 311142 | [311142-forest-walk.json](./311142-forest-walk.json) |
@@ -6742,6 +6744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Truck 2013 | 36392 | [36392-formula-truck-2013.json](./36392-formula-truck-2013.json) |
 | Formula V20: 1985 | 304140 | [304140-formula-v20-1985.json](./304140-formula-v20-1985.json) |
 | Formula X | 99643 | [99643-formula-x.json](./99643-formula-x.json) |
+| Formula XD | 109362 | [109362-formula-xd.json](./109362-formula-xd.json) |
 | FormulaNext | 30069 | [30069-formulanext.json](./30069-formulanext.json) |
 | ForRace GT2D | 275680 | [275680-forrace-gt2d.json](./275680-forrace-gt2d.json) |
 | Forrader Hero | 210920 | [210920-forrader-hero.json](./210920-forrader-hero.json) |
@@ -8467,6 +8470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Injustice: Fridge Adventures | 324334 | [324334-frozen-injustice-fridge-adventures.json](./324334-frozen-injustice-fridge-adventures.json) |
 | Frozen Islands | 101936 | [101936-frozen-islands.json](./101936-frozen-islands.json) |
 | Frozen Kingdom | 294390 | [294390-frozen-kingdom.json](./294390-frozen-kingdom.json) |
+| Frozen Knight | 109376 | [109376-frozen-knight.json](./109376-frozen-knight.json) |
 | Frozen Mahjong | 71255 | [71255-frozen-mahjong.json](./71255-frozen-mahjong.json) |
 | Frozen Memories | 129226 | [129226-frozen-memories.json](./129226-frozen-memories.json) |
 | Frozen Mystery | 112847 | [112847-frozen-mystery.json](./112847-frozen-mystery.json) |
