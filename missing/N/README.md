@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Name that tune | 37323 | [37323-name-that-tune.json](./37323-name-that-tune.json) |
 | Name That Tune | 198833 | [198833-name-that-tune.json](./198833-name-that-tune.json) |
 | Name That Tune: Pop Hits from the 60's-90's | 198834 | [198834-name-that-tune-pop-hits-from-the-60s-90s.json](./198834-name-that-tune-pop-hits-from-the-60s-90s.json) |
+| Name the Song Quiz | 84093 | [84093-name-the-song-quiz.json](./84093-name-the-song-quiz.json) |
 | Name This Game | 22838 | [22838-name-this-game.json](./22838-name-this-game.json) |
 | Nameko | 68311 | [68311-nameko.json](./68311-nameko.json) |
 | Nameless | 105550 | [105550-nameless.json](./105550-nameless.json) |
@@ -1763,6 +1764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Tower Blast | 120757 | [120757-neon-tower-blast.json](./120757-neon-tower-blast.json) |
 | Neon Trap Defense | 185526 | [185526-neon-trap-defense.json](./185526-neon-trap-defense.json) |
 | Neon Ultra | 31296 | [31296-neon-ultra.json](./31296-neon-ultra.json) |
+| Neon Valley: Revenge | 84098 | [84098-neon-valley-revenge.json](./84098-neon-valley-revenge.json) |
 | Neon Village | 302358 | [302358-neon-village.json](./302358-neon-village.json) |
 | Neon Void Runner | 96905 | [96905-neon-void-runner.json](./96905-neon-void-runner.json) |
 | Neon Wars | 312925 | [312925-neon-wars.json](./312925-neon-wars.json) |
@@ -3997,6 +3999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Return Address | 412207 | [412207-no-return-address.json](./412207-no-return-address.json) |
 | No Road to Peak: Together | 358988 | [358988-no-road-to-peak-together.json](./358988-no-road-to-peak-together.json) |
 | No Rules Box! | 301815 | [301815-no-rules-box.json](./301815-no-rules-box.json) |
+| No safety | 84086 | [84086-no-safety.json](./84086-no-safety.json) |
 | No Senses | 198236 | [198236-no-senses.json](./198236-no-senses.json) |
 | No Service | 391030 | [391030-no-service.json](./391030-no-service.json) |
 | No Sidewalks in the Mushroom Kingdom | 177296 | [177296-no-sidewalks-in-the-mushroom-kingdom.json](./177296-no-sidewalks-in-the-mushroom-kingdom.json) |
