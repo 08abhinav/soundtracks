@@ -3765,6 +3765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serania: Path of the Scion | 258008 | [258008-serania-path-of-the-scion.json](./258008-serania-path-of-the-scion.json) |
 | Seraph of the End: The Origin of Fate | 13638 | [13638-seraph-of-the-end-the-origin-of-fate.json](./13638-seraph-of-the-end-the-origin-of-fate.json) |
 | Seraph: In the Darkness | 277875 | [277875-seraph-in-the-darkness.json](./277875-seraph-in-the-darkness.json) |
+| Seraphic Blue | 124552 | [124552-seraphic-blue.json](./124552-seraphic-blue.json) |
 | Seraphic Destroyer | 126343 | [126343-seraphic-destroyer.json](./126343-seraphic-destroyer.json) |
 | Seraphic Destroyer: Puzzles | 163419 | [163419-seraphic-destroyer-puzzles.json](./163419-seraphic-destroyer-puzzles.json) |
 | Seraphim | 266759 | [266759-seraphim.json](./266759-seraphim.json) |
@@ -9865,6 +9866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky Monsters | 251540 | [251540-sneaky-monsters.json](./251540-sneaky-monsters.json) |
 | Sneaky Peeky | 264625 | [264625-sneaky-peeky.json](./264625-sneaky-peeky.json) |
 | Sneaky Seekers | 253609 | [253609-sneaky-seekers.json](./253609-sneaky-seekers.json) |
+| Sneaky Snake | 124560 | [124560-sneaky-snake.json](./124560-sneaky-snake.json) |
 | Sneaky Snakes | 49025 | [49025-sneaky-snakes.json](./49025-sneaky-snakes.json) |
 | Sneaky Squad | 419179 | [419179-sneaky-squad.json](./419179-sneaky-squad.json) |
 | Sneaky Stealy | 176359 | [176359-sneaky-stealy.json](./176359-sneaky-stealy.json) |
@@ -20250,6 +20252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bullet Break: Day 1 Edition | 198393 | [198393-super-bullet-break-day-1-edition.json](./198393-super-bullet-break-day-1-edition.json) |
 | Super Bunnies Show Free | 232182 | [232182-super-bunnies-show-free.json](./232182-super-bunnies-show-free.json) |
 | Super Bunny | 25670 | [25670-super-bunny.json](./25670-super-bunny.json) |
+| Super Bunny Laser Spikes | 124513 | [124513-super-bunny-laser-spikes.json](./124513-super-bunny-laser-spikes.json) |
 | Super Bunny Woman | 403663 | [403663-super-bunny-woman.json](./403663-super-bunny-woman.json) |
 | Super Burger Master | 235159 | [235159-super-burger-master.json](./235159-super-burger-master.json) |
 | Super Buzzy: Star of Eternity | 323902 | [323902-super-buzzy-star-of-eternity.json](./323902-super-buzzy-star-of-eternity.json) |
@@ -21969,6 +21972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sunny World | 324695 | [324695-super-sunny-world.json](./324695-super-sunny-world.json) |
 | Super Super Fun World | 276937 | [276937-super-super-fun-world.json](./276937-super-super-fun-world.json) |
 | Super Super Super Super | 176331 | [176331-super-super-super-super.json](./176331-super-super-super-super.json) |
+| Super Supermarket | 124547 | [124547-super-supermarket.json](./124547-super-supermarket.json) |
 | Super Surf Bros | 128609 | [128609-super-surf-bros.json](./128609-super-surf-bros.json) |
 | Super Sus | 198201 | [198201-super-sus.json](./198201-super-sus.json) |
 | Super Sushi Roll | 219575 | [219575-super-sushi-roll.json](./219575-super-sushi-roll.json) |
@@ -22191,6 +22195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superhuman | 330798 | [330798-superhuman.json](./330798-superhuman.json) |
 | SuperHyperCube | 20332 | [20332-superhypercube.json](./20332-superhypercube.json) |
 | SuperHyperHappyGame | 311186 | [311186-superhyperhappygame.json](./311186-superhyperhappygame.json) |
+| Superia | 124540 | [124540-superia.json](./124540-superia.json) |
 | Superior | 194231 | [194231-superior.json](./194231-superior.json) |
 | Superior IQ | 369637 | [369637-superior-iq.json](./369637-superior-iq.json) |
 | Superior Relatives | 265862 | [265862-superior-relatives.json](./265862-superior-relatives.json) |
