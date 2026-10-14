@@ -1544,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Led It Rain | 32912 | [32912-led-it-rain.json](./32912-led-it-rain.json) |
 | Led It Rain VR | 120373 | [120373-led-it-rain-vr.json](./120373-led-it-rain-vr.json) |
 | LED Storm Rally 2011 | 312321 | [312321-led-storm-rally-2011.json](./312321-led-storm-rally-2011.json) |
+| Leder Panzer | 108318 | [108318-leder-panzer.json](./108318-leder-panzer.json) |
 | Lederzwerge Deluxe XXL Version | 84279 | [84279-lederzwerge-deluxe-xxl-version.json](./84279-lederzwerge-deluxe-xxl-version.json) |
 | Ledgeman | 348947 | [348947-ledgeman.json](./348947-ledgeman.json) |
 | Ledgerbound | 347856 | [347856-ledgerbound.json](./347856-ledgerbound.json) |
@@ -4839,6 +4840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Lost | 277321 | [277321-long-lost.json](./277321-long-lost.json) |
 | Long Nardy | 264362 | [264362-long-nardy.json](./264362-long-nardy.json) |
 | Long Night | 16941 | [16941-long-night.json](./16941-long-night.json) |
+| Long Road | 108233 | [108233-long-road.json](./108233-long-road.json) |
 | Long Road | 148914 | [148914-long-road.json](./148914-long-road.json) |
 | Long Run | 273572 | [273572-long-run.json](./273572-long-run.json) |
 | Lóng Shén de Xīnniáng Wàizhuàn: Yù Líng Qǐ Tán | 373692 | [373692-long-shen-de-xinniang-waizhuan-yu-ling-qi-tan.json](./373692-long-shen-de-xinniang-waizhuan-yu-ling-qi-tan.json) |
