@@ -5032,6 +5032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Game World | 339961 | [339961-word-game-world.json](./339961-word-game-world.json) |
 | Word Game: Episode 0 | 174067 | [174067-word-game-episode-0.json](./174067-word-game-episode-0.json) |
 | Word Games - Order letters and create words | 96070 | [96070-word-games-order-letters-and-create-words.json](./96070-word-games-order-letters-and-create-words.json) |
+| Word Games with the Mr. Men | 97796 | [97796-word-games-with-the-mr-men.json](./97796-word-games-with-the-mr-men.json) |
 | Word Genius by curious.com | 104507 | [104507-word-genius-by-curious-com.json](./104507-word-genius-by-curious-com.json) |
 | Word Guru - Puzzle Word Game | 89233 | [89233-word-guru-puzzle-word-game.json](./89233-word-guru-puzzle-word-game.json) |
 | Word Harmony | 52130 | [52130-word-harmony.json](./52130-word-harmony.json) |
