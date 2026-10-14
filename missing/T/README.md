@@ -2281,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo's Deception: Invitation to Darkness | 20801 | [20801-tecmos-deception-invitation-to-darkness.json](./20801-tecmos-deception-invitation-to-darkness.json) |
 | TecnoballZ | 50412 | [50412-tecnoballz.json](./50412-tecnoballz.json) |
 | Tecnology War | 248747 | [248747-tecnology-war.json](./248747-tecnology-war.json) |
+| Tecroroid Assault | 113448 | [113448-tecroroid-assault.json](./113448-tecroroid-assault.json) |
 | Tectonicalypse | 185473 | [185473-tectonicalypse.json](./185473-tectonicalypse.json) |
 | Tectron: Command Radar | 385823 | [385823-tectron-command-radar.json](./385823-tectron-command-radar.json) |
 | Tectron: Ecchi na Kobito | 385820 | [385820-tectron-ecchi-na-kobito.json](./385820-tectron-ecchi-na-kobito.json) |
@@ -3687,6 +3688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Abandoned House in Yeongdeok | 399073 | [399073-the-abandoned-house-in-yeongdeok.json](./399073-the-abandoned-house-in-yeongdeok.json) |
 | The Abandoned Levels | 396418 | [396418-the-abandoned-levels.json](./396418-the-abandoned-levels.json) |
 | The Abbey | 17628 | [17628-the-abbey.json](./17628-the-abbey.json) |
+| The Abbey of Montglane | 113445 | [113445-the-abbey-of-montglane.json](./113445-the-abbey-of-montglane.json) |
 | The Abbey: Director's cut | 115606 | [115606-the-abbey-directors-cut.json](./115606-the-abbey-directors-cut.json) |
 | The ABC | 243625 | [243625-the-abc.json](./243625-the-abc.json) |
 | The Abduction of Bacon at Dawn | 120356 | [120356-the-abduction-of-bacon-at-dawn.json](./120356-the-abduction-of-bacon-at-dawn.json) |
@@ -8225,6 +8227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legacy of Castle Terroretra | 231804 | [231804-the-legacy-of-castle-terroretra.json](./231804-the-legacy-of-castle-terroretra.json) |
 | The Legacy of Griselda | 409056 | [409056-the-legacy-of-griselda.json](./409056-the-legacy-of-griselda.json) |
 | The Legacy of Lunatic Omsk | 321748 | [321748-the-legacy-of-lunatic-omsk.json](./321748-the-legacy-of-lunatic-omsk.json) |
+| The Legacy of Music | 113572 | [113572-the-legacy-of-music.json](./113572-the-legacy-of-music.json) |
 | The Legacy of Robin Hood | 320470 | [320470-the-legacy-of-robin-hood.json](./320470-the-legacy-of-robin-hood.json) |
 | The Legacy: Realm of Terror | 79233 | [79233-the-legacy-realm-of-terror.json](./79233-the-legacy-realm-of-terror.json) |
 | The Legacy: The Tree of Might | 112988 | [112988-the-legacy-the-tree-of-might.json](./112988-the-legacy-the-tree-of-might.json) |
@@ -10662,6 +10665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret Blue Forest | 155971 | [155971-the-secret-blue-forest.json](./155971-the-secret-blue-forest.json) |
 | The Secret Chronicles of Dr. M. | 134077 | [134077-the-secret-chronicles-of-dr-m.json](./134077-the-secret-chronicles-of-dr-m.json) |
 | The Secret Codes of C.Y.P.H.E.R.: Operation Wildlife | 68739 | [68739-the-secret-codes-of-c-y-p-h-e-r-operation-wildlife.json](./68739-the-secret-codes-of-c-y-p-h-e-r-operation-wildlife.json) |
+| The Secret Cove | 113444 | [113444-the-secret-cove.json](./113444-the-secret-cove.json) |
 | The Secret Fake Ring | 352327 | [352327-the-secret-fake-ring.json](./352327-the-secret-fake-ring.json) |
 | The Secret Ingredient is... | 254988 | [254988-the-secret-ingredient-is.json](./254988-the-secret-ingredient-is.json) |
 | The Secret Installation | 271315 | [271315-the-secret-installation.json](./271315-the-secret-installation.json) |
@@ -16348,6 +16352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Today, I'll Be The Hero | 409044 | [409044-today-ill-be-the-hero.json](./409044-today-ill-be-the-hero.json) |
 | Today's Menu | 389111 | [389111-todays-menu.json](./389111-todays-menu.json) |
 | Todd is Late | 383583 | [383583-todd-is-late.json](./383583-todd-is-late.json) |
+| Todd:Howard - You can (not) play forever | 113540 | [113540-todd-howard-you-can-not-play-forever.json](./113540-todd-howard-you-can-not-play-forever.json) |
 | Todd's Spider Dream | 154567 | [154567-todds-spider-dream.json](./154567-todds-spider-dream.json) |
 | Toddler Flashcards HD: Baby Learning Games & Apps | 87576 | [87576-toddler-flashcards-hd-baby-learning-games-and-apps.json](./87576-toddler-flashcards-hd-baby-learning-games-and-apps.json) |
 | Toddler Racing Car Game for Kids. | 100985 | [100985-toddler-racing-car-game-for-kids.json](./100985-toddler-racing-car-game-for-kids.json) |
