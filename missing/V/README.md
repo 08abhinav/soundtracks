@@ -795,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegas Stakes | 38410 | [38410-vegas-stakes.json](./38410-vegas-stakes.json) |
 | Vegas Stakes | 85469 | [85469-vegas-stakes.json](./85469-vegas-stakes.json) |
 | Vegas Tales | 185974 | [185974-vegas-tales.json](./185974-vegas-tales.json) |
+| Vegas World | 131312 | [131312-vegas-world.json](./131312-vegas-world.json) |
 | Vege Bubble Shoot | 278490 | [278490-vege-bubble-shoot.json](./278490-vege-bubble-shoot.json) |
 | VegeMine | 272192 | [272192-vegemine.json](./272192-vegemine.json) |
 | Vegetable Game | 191569 | [191569-vegetable-game.json](./191569-vegetable-game.json) |
@@ -1734,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Tennis: Mobile Edition | 317005 | [317005-virtua-tennis-mobile-edition.json](./317005-virtua-tennis-mobile-edition.json) |
 | Virtua Unlimited Project | 206432 | [206432-virtua-unlimited-project.json](./206432-virtua-unlimited-project.json) |
 | Virtua Volleyball | 195122 | [195122-virtua-volleyball.json](./195122-virtua-volleyball.json) |
+| Virtuacall S | 131239 | [131239-virtuacall-s.json](./131239-virtuacall-s.json) |
 | Virtual AI: Aki & Mika | 216860 | [216860-virtual-ai-aki-and-mika.json](./216860-virtual-ai-aki-and-mika.json) |
 | Virtual Anime Girl | 90366 | [90366-virtual-anime-girl.json](./90366-virtual-anime-girl.json) |
 | Virtual Aquarium | 407280 | [407280-virtual-aquarium.json](./407280-virtual-aquarium.json) |
@@ -2704,6 +2706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRcher | 137462 | [137462-vrcher.json](./137462-vrcher.json) |
 | VReakout | 33150 | [33150-vreakout.json](./33150-vreakout.json) |
 | VRealistic Fight: Aim For the Chest | 212206 | [212206-vrealistic-fight-aim-for-the-chest.json](./212206-vrealistic-fight-aim-for-the-chest.json) |
+| VRekken | 131293 | [131293-vrekken.json](./131293-vrekken.json) |
 | Vremya-Dyengi | 88275 | [88275-vremya-dyengi.json](./88275-vremya-dyengi.json) |
 | VRetired | 111702 | [111702-vretired.json](./111702-vretired.json) |
 | VRFC Virtual Reality Football Club | 87964 | [87964-vrfc-virtual-reality-football-club.json](./87964-vrfc-virtual-reality-football-club.json) |
