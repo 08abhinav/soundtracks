@@ -407,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Advanced Warfare - Ascendance | 20890 | [20890-call-of-duty-advanced-warfare-ascendance.json](./20890-call-of-duty-advanced-warfare-ascendance.json) |
 | Call of Duty: Advanced Warfare - Atlas Digital Pack | 25973 | [25973-call-of-duty-advanced-warfare-atlas-digital-pack.json](./25973-call-of-duty-advanced-warfare-atlas-digital-pack.json) |
 | Call of Duty: Advanced Warfare - Atlas Limited Edition | 136290 | [136290-call-of-duty-advanced-warfare-atlas-limited-edition.json](./136290-call-of-duty-advanced-warfare-atlas-limited-edition.json) |
+| Call of Duty: Advanced Warfare - Atlas Pro Edition | 102718 | [102718-call-of-duty-advanced-warfare-atlas-pro-edition.json](./102718-call-of-duty-advanced-warfare-atlas-pro-edition.json) |
 | Call of Duty: Advanced Warfare - Dubbed Edition | 201043 | [201043-call-of-duty-advanced-warfare-dubbed-edition.json](./201043-call-of-duty-advanced-warfare-dubbed-edition.json) |
 | Call of Duty: Advanced Warfare - Gold Edition | 99788 | [99788-call-of-duty-advanced-warfare-gold-edition.json](./99788-call-of-duty-advanced-warfare-gold-edition.json) |
 | Call of Duty: Advanced Warfare - Havoc | 20889 | [20889-call-of-duty-advanced-warfare-havoc.json](./20889-call-of-duty-advanced-warfare-havoc.json) |
@@ -7491,8 +7492,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold and Unforgiving | 276108 | [276108-cold-and-unforgiving.json](./276108-cold-and-unforgiving.json) |
 | Cold Bed on Route | 206454 | [206454-cold-bed-on-route.json](./206454-cold-bed-on-route.json) |
 | Cold Bite | 115008 | [115008-cold-bite.json](./115008-cold-bite.json) |
+| Cold Blood Samurai | 102704 | [102704-cold-blood-samurai.json](./102704-cold-blood-samurai.json) |
 | Cold Blooded | 338875 | [338875-cold-blooded.json](./338875-cold-blooded.json) |
 | Cold Blooded Cube | 110111 | [110111-cold-blooded-cube.json](./110111-cold-blooded-cube.json) |
+| Cold Blooded Sniper Shooting | 102676 | [102676-cold-blooded-sniper-shooting.json](./102676-cold-blooded-sniper-shooting.json) |
 | Cold Boot | 348876 | [348876-cold-boot.json](./348876-cold-boot.json) |
 | Cold Breath | 151050 | [151050-cold-breath.json](./151050-cold-breath.json) |
 | Cold Cable: Lifeshift | 115810 | [115810-cold-cable-lifeshift.json](./115810-cold-cable-lifeshift.json) |
