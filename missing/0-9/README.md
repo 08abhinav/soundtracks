@@ -600,6 +600,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Kid's Brainy Games | 180204 | [180204-101-kids-brainy-games.json](./180204-101-kids-brainy-games.json) |
 | 101 Kitty Pets | 100264 | [100264-101-kitty-pets.json](./100264-101-kitty-pets.json) |
 | 101 Okey Plus | 368033 | [368033-101-okey-plus.json](./368033-101-okey-plus.json) |
+| 101 Pony Pets | 91863 | [91863-101-pony-pets.json](./91863-101-pony-pets.json) |
+| 101 Puppy Pets | 91862 | [91862-101-puppy-pets.json](./91862-101-puppy-pets.json) |
 | 101 Ways to Die | 16745 | [16745-101-ways-to-die.json](./16745-101-ways-to-die.json) |
 | 101-in-1 Explosive Megamix | 23025 | [23025-101-in-1-explosive-megamix.json](./23025-101-in-1-explosive-megamix.json) |
 | 101-in-1 Games Anthology | 273970 | [273970-101-in-1-games-anthology.json](./273970-101-in-1-games-anthology.json) |
