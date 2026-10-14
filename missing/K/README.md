@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaleidoscope of Phantasm Prison 2 | 320772 | [320772-kaleidoscope-of-phantasm-prison-2.json](./320772-kaleidoscope-of-phantasm-prison-2.json) |
 | Kaleidoscope of Phantasm Prison: Limited Edition | 121611 | [121611-kaleidoscope-of-phantasm-prison-limited-edition.json](./121611-kaleidoscope-of-phantasm-prison-limited-edition.json) |
 | Kaleidoscope: 7 Man Kounen no Houshi-tachi | 66149 | [66149-kaleidoscope-7-man-kounen-no-houshi-tachi.json](./66149-kaleidoscope-7-man-kounen-no-houshi-tachi.json) |
+| Kaleidoscope: Hakkan Wakusei | 79792 | [79792-kaleidoscope-hakkan-wakusei.json](./79792-kaleidoscope-hakkan-wakusei.json) |
 | Kalevala | 184437 | [184437-kalevala.json](./184437-kalevala.json) |
 | Kali | 176269 | [176269-kali.json](./176269-kali.json) |
 | Kali's Legion | 373543 | [373543-kalis-legion.json](./373543-kalis-legion.json) |
@@ -736,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KartRider: Drift | 125626 | [125626-kartrider-drift.json](./125626-kartrider-drift.json) |
 | Karts With Chat | 345505 | [345505-karts-with-chat.json](./345505-karts-with-chat.json) |
 | KaRu | 195552 | [195552-karu.json](./195552-karu.json) |
+| Karuizawa Yuukai Annai | 79793 | [79793-karuizawa-yuukai-annai.json](./79793-karuizawa-yuukai-annai.json) |
 | Karumaruka Circle: Limited Edition | 167036 | [167036-karumaruka-circle-limited-edition.json](./167036-karumaruka-circle-limited-edition.json) |
 | Karumaruka Circle: Limited Edition | 339404 | [339404-karumaruka-circle-limited-edition.json](./339404-karumaruka-circle-limited-edition.json) |
 | Karyuu Jyou | 62982 | [62982-karyuu-jyou.json](./62982-karyuu-jyou.json) |
@@ -3522,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kono Koi, Seishun ni Yori. | 194585 | [194585-kono-koi-seishun-ni-yori.json](./194585-kono-koi-seishun-ni-yori.json) |
 | Kono Pawn | 355214 | [355214-kono-pawn.json](./355214-kono-pawn.json) |
 | Kono Subarashii Sekai ni Shukufuku o! Fantasutikku Deizu | 131568 | [131568-kono-subarashii-sekai-ni-shukufuku-o-fantasutikku-deizu.json](./131568-kono-subarashii-sekai-ni-shukufuku-o-fantasutikku-deizu.json) |
+| Kono Subarashii Sekai ni Shukufuku wo! Fukkatsu no Beldia | 79124 | [79124-kono-subarashii-sekai-ni-shukufuku-wo-fukkatsu-no-beldia.json](./79124-kono-subarashii-sekai-ni-shukufuku-wo-fukkatsu-no-beldia.json) |
 | Kono Subarashii Sekai ni Shukufuku wo! In the Life! | 56133 | [56133-kono-subarashii-sekai-ni-shukufuku-wo-in-the-life.json](./56133-kono-subarashii-sekai-ni-shukufuku-wo-in-the-life.json) |
 | Kono Subarashii Sekai ni Shukufuku wo! Kibou no Meikyuu to Tsudoishi Boukensha-tachi Plus: Complete Edition | 136787 | [136787-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-plus-complete-edition.json](./136787-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-plus-complete-edition.json) |
 | Kono Subarashii Sekai ni Shukufuku wo! Kibou no Meikyuu to Tsudoishi Boukensha-tachi! | 133771 | [133771-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi.json](./133771-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi.json) |
