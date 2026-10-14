@@ -2042,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reality Check 3 | 70372 | [70372-reality-check-3.json](./70372-reality-check-3.json) |
 | Reality Core | 309677 | [309677-reality-core.json](./309677-reality-core.json) |
 | Reality Drift | 322753 | [322753-reality-drift.json](./322753-reality-drift.json) |
+| Reality Falls | 110861 | [110861-reality-falls.json](./110861-reality-falls.json) |
 | Reality Fighters | 20732 | [20732-reality-fighters.json](./20732-reality-fighters.json) |
 | Reality Mod | 209539 | [209539-reality-mod.json](./209539-reality-mod.json) |
 | Reality Raiders | 44216 | [44216-reality-raiders.json](./44216-reality-raiders.json) |
@@ -2902,6 +2903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Referee Life Simulator 2026 | 373192 | [373192-referee-life-simulator-2026.json](./373192-referee-life-simulator-2026.json) |
 | Reficul | 74504 | [74504-reficul.json](./74504-reficul.json) |
 | Refidenptio | 258988 | [258988-refidenptio.json](./258988-refidenptio.json) |
+| Refight: Burning Engine | 110765 | [110765-refight-burning-engine.json](./110765-refight-burning-engine.json) |
 | Refill your Roguelike | 113523 | [113523-refill-your-roguelike.json](./113523-refill-your-roguelike.json) |
 | Refind Self: The Personality Test Game | 265960 | [265960-refind-self-the-personality-test-game.json](./265960-refind-self-the-personality-test-game.json) |
 | Refinery | 225633 | [225633-refinery.json](./225633-refinery.json) |
@@ -4394,6 +4396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolve | 26722 | [26722-revolve.json](./26722-revolve.json) |
 | Revolve | 377200 | [377200-revolve.json](./377200-revolve.json) |
 | Revolve8 | 113553 | [113553-revolve8.json](./113553-revolve8.json) |
+| Revolve8: Episodic Dueling | 110868 | [110868-revolve8-episodic-dueling.json](./110868-revolve8-episodic-dueling.json) |
 | Revolver | 336748 | [336748-revolver.json](./336748-revolver.json) |
 | Revolver and Co | 152759 | [152759-revolver-and-co.json](./152759-revolver-and-co.json) |
 | Revolver Gambit | 364986 | [364986-revolver-gambit.json](./364986-revolver-gambit.json) |
@@ -8372,11 +8375,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Out | 174828 | [174828-rush-out.json](./174828-rush-out.json) |
 | Rush Rally | 242212 | [242212-rush-rally.json](./242212-rush-rally.json) |
 | Rush Rally 2 | 38717 | [38717-rush-rally-2.json](./38717-rush-rally-2.json) |
+| Rush Rally 3 | 110866 | [110866-rush-rally-3.json](./110866-rush-rally-3.json) |
 | Rush Roulette | 373674 | [373674-rush-roulette.json](./373674-rush-roulette.json) |
 | Rush Royale | 141464 | [141464-rush-royale.json](./141464-rush-royale.json) |
 | Rush Rush Rally Reloaded | 56424 | [56424-rush-rush-rally-reloaded.json](./56424-rush-rush-rally-reloaded.json) |
 | Rush to Adventure | 55225 | [55225-rush-to-adventure.json](./55225-rush-to-adventure.json) |
 | Rush Troopers | 184657 | [184657-rush-troopers.json](./184657-rush-troopers.json) |
+| Rush VR | 110864 | [110864-rush-vr.json](./110864-rush-vr.json) |
 | Rush Wars | 122044 | [122044-rush-wars.json](./122044-rush-wars.json) |
 | Rush!!! | 167260 | [167260-rush.json](./167260-rush.json) |
 | Rush'n Attack | 287587 | [287587-rushn-attack.json](./287587-rushn-attack.json) |
