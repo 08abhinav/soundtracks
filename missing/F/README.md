@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.E.A.R.: Ultimate Shooter Edition | 53050 | [53050-f-e-a-r-ultimate-shooter-edition.json](./53050-f-e-a-r-ultimate-shooter-edition.json) |
 | F.E.X (Forced Evolution Experiment) | 55522 | [55522-f-e-x-forced-evolution-experiment.json](./55522-f-e-x-forced-evolution-experiment.json) |
 | F.H. Memento: Love Beyond | 101728 | [101728-f-h-memento-love-beyond.json](./101728-f-h-memento-love-beyond.json) |
+| F.H. Memento: Playground | 95931 | [95931-f-h-memento-playground.json](./95931-f-h-memento-playground.json) |
 | F.I.D.O. | 196787 | [196787-f-i-d-o.json](./196787-f-i-d-o.json) |
 | F.I.S.T.: Forged In Shadow Torch | 115851 | [115851-f-i-s-t-forged-in-shadow-torch.json](./115851-f-i-s-t-forged-in-shadow-torch.json) |
 | F.I.S.T.: Forged In Shadow Torch - Limited Edition | 284481 | [284481-f-i-s-t-forged-in-shadow-torch-limited-edition.json](./284481-f-i-s-t-forged-in-shadow-torch-limited-edition.json) |
@@ -314,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Control Inc. | 252706 | [252706-factory-control-inc.json](./252706-factory-control-inc.json) |
 | Factory Engineer | 31796 | [31796-factory-engineer.json](./31796-factory-engineer.json) |
 | Factory Farming | 230737 | [230737-factory-farming.json](./230737-factory-farming.json) |
+| Factory idle | 95942 | [95942-factory-idle.json](./95942-factory-idle.json) |
 | Factory Inc. | 251230 | [251230-factory-inc.json](./251230-factory-inc.json) |
 | Factory Manager Simulator | 164053 | [164053-factory-manager-simulator.json](./164053-factory-manager-simulator.json) |
 | Factory missions | 101744 | [101744-factory-missions.json](./101744-factory-missions.json) |
@@ -1554,6 +1556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 4: Steelbook Edition | 51531 | [51531-far-cry-4-steelbook-edition.json](./51531-far-cry-4-steelbook-edition.json) |
 | Far Cry 4: Valley of The Yetis | 23383 | [23383-far-cry-4-valley-of-the-yetis.json](./23383-far-cry-4-valley-of-the-yetis.json) |
 | Far Cry 5 + Far Cry: New Dawn Double Pack | 146032 | [146032-far-cry-5-far-cry-new-dawn-double-pack.json](./146032-far-cry-5-far-cry-new-dawn-double-pack.json) |
+| Far Cry 5 Season Pass | 95960 | [95960-far-cry-5-season-pass.json](./95960-far-cry-5-season-pass.json) |
 | Far Cry 5: Digital Deluxe Edition | 118709 | [118709-far-cry-5-digital-deluxe-edition.json](./118709-far-cry-5-digital-deluxe-edition.json) |
 | Far Cry 5: Digital Gold Edition | 118710 | [118710-far-cry-5-digital-gold-edition.json](./118710-far-cry-5-digital-gold-edition.json) |
 | Far Cry 5: Resistance Edition | 83887 | [83887-far-cry-5-resistance-edition.json](./83887-far-cry-5-resistance-edition.json) |
@@ -3796,6 +3799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Frankie 2 | 404932 | [404932-finding-frankie-2.json](./404932-finding-frankie-2.json) |
 | Finding Hannah | 237954 | [237954-finding-hannah.json](./237954-finding-hannah.json) |
 | Finding Heart | 109911 | [109911-finding-heart.json](./109911-finding-heart.json) |
+| Finding Jack's Treasure | 95956 | [95956-finding-jacks-treasure.json](./95956-finding-jacks-treasure.json) |
 | Finding Light | 110390 | [110390-finding-light.json](./110390-finding-light.json) |
 | Finding Mosey | 214158 | [214158-finding-mosey.json](./214158-finding-mosey.json) |
 | Finding Nemo | 210734 | [210734-finding-nemo.json](./210734-finding-nemo.json) |
@@ -5719,6 +5723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly High | 110161 | [110161-fly-high.json](./110161-fly-high.json) |
 | Fly High Runners | 391575 | [391575-fly-high-runners.json](./391575-fly-high-runners.json) |
 | Fly Killer VR | 102222 | [102222-fly-killer-vr.json](./102222-fly-killer-vr.json) |
+| Fly Like A Bird 4 | 95957 | [95957-fly-like-a-bird-4.json](./95957-fly-like-a-bird-4.json) |
 | Fly Logic: Fly Fishing - The Green River | 209463 | [209463-fly-logic-fly-fishing-the-green-river.json](./209463-fly-logic-fly-fishing-the-green-river.json) |
 | Fly Me To The Moon | 369462 | [369462-fly-me-to-the-moon.json](./369462-fly-me-to-the-moon.json) |
 | Fly Me to the Stars | 241443 | [241443-fly-me-to-the-stars.json](./241443-fly-me-to-the-stars.json) |
@@ -8111,6 +8116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Daddy's Dash | 229255 | [229255-frog-daddys-dash.json](./229255-frog-daddys-dash.json) |
 | Frog Detective -1 | 325675 | [325675-frog-detective-1.json](./325675-frog-detective-1.json) |
 | Frog Detective 3: Corruption at Cowboy County | 161552 | [161552-frog-detective-3-corruption-at-cowboy-county.json](./161552-frog-detective-3-corruption-at-cowboy-county.json) |
+| Frog Fable | 95971 | [95971-frog-fable.json](./95971-frog-fable.json) |
 | Frog Fall | 410328 | [410328-frog-fall.json](./410328-frog-fall.json) |
 | Frog Fall Down | 192430 | [192430-frog-fall-down.json](./192430-frog-fall-down.json) |
 | Frog Familiar | 195734 | [195734-frog-familiar.json](./195734-frog-familiar.json) |
@@ -8640,6 +8646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frutiger Home | 368055 | [368055-frutiger-home.json](./368055-frutiger-home.json) |
 | Frutiger Space | 366227 | [366227-frutiger-space.json](./366227-frutiger-space.json) |
 | Frutz | 405530 | [405530-frutz.json](./405530-frutz.json) |
+| Fry Me Omelettes | 95969 | [95969-fry-me-omelettes.json](./95969-fry-me-omelettes.json) |
 | FSR: French Street Racing | 208480 | [208480-fsr-french-street-racing.json](./208480-fsr-french-street-racing.json) |
 | FT Nibbles | 137379 | [137379-ft-nibbles.json](./137379-ft-nibbles.json) |
 | FTB | 351712 | [351712-ftb.json](./351712-ftb.json) |
