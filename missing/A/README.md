@@ -2508,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether Diving | 314598 | [314598-aether-diving.json](./314598-aether-diving.json) |
 | Aether Drift | 108046 | [108046-aether-drift.json](./108046-aether-drift.json) |
 | Aether Effect | 357787 | [357787-aether-effect.json](./357787-aether-effect.json) |
+| Aether Field | 129465 | [129465-aether-field.json](./129465-aether-field.json) |
 | Aether Hexxen: Death-Space Requiem Act1 | 379571 | [379571-aether-hexxen-death-space-requiem-act1.json](./379571-aether-hexxen-death-space-requiem-act1.json) |
 | Aether Rush | 379568 | [379568-aether-rush.json](./379568-aether-rush.json) |
 | Aether Story | 138474 | [138474-aether-story.json](./138474-aether-story.json) |
@@ -7936,6 +7937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: P-47 | 135583 | [135583-arcade-archives-p-47.json](./135583-arcade-archives-p-47.json) |
 | Arcade Archives: Pac & Pal | 215109 | [215109-arcade-archives-pac-and-pal.json](./215109-arcade-archives-pac-and-pal.json) |
 | Arcade Archives: Pac-Man | 172431 | [172431-arcade-archives-pac-man.json](./172431-arcade-archives-pac-man.json) |
+| Arcade Archives: Penguin-Kun Wars | 129497 | [129497-arcade-archives-penguin-kun-wars.json](./129497-arcade-archives-penguin-kun-wars.json) |
 | Arcade Archives: Pettan Pyuu | 147115 | [147115-arcade-archives-pettan-pyuu.json](./147115-arcade-archives-pettan-pyuu.json) |
 | Arcade Archives: Phelios | 234631 | [234631-arcade-archives-phelios.json](./234631-arcade-archives-phelios.json) |
 | Arcade Archives: Phozon | 186564 | [186564-arcade-archives-phozon.json](./186564-arcade-archives-phozon.json) |
