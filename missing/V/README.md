@@ -814,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veggie Killer Remastered | 127093 | [127093-veggie-killer-remastered.json](./127093-veggie-killer-remastered.json) |
 | Veggie Menace | 203926 | [203926-veggie-menace.json](./203926-veggie-menace.json) |
 | Veggie Panino Tactics | 323787 | [323787-veggie-panino-tactics.json](./323787-veggie-panino-tactics.json) |
+| Veggie Samurai | 94124 | [94124-veggie-samurai.json](./94124-veggie-samurai.json) |
 | Veggie Tales 3D | 269838 | [269838-veggie-tales-3d.json](./269838-veggie-tales-3d.json) |
 | Veggies vs. Undead | 290659 | [290659-veggies-vs-undead.json](./290659-veggies-vs-undead.json) |
 | Veggies War | 224672 | [224672-veggies-war.json](./224672-veggies-war.json) |
@@ -1250,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vib-Ribbon | 9676 | [9676-vib-ribbon.json](./9676-vib-ribbon.json) |
 | Vib-Ripple | 25096 | [25096-vib-ripple.json](./25096-vib-ripple.json) |
 | Vibe Clicker | 352311 | [352311-vibe-clicker.json](./352311-vibe-clicker.json) |
+| Vibes | 94126 | [94126-vibes.json](./94126-vibes.json) |
 | Vibin'Vendetta | 302671 | [302671-vibinvendetta.json](./302671-vibinvendetta.json) |
 | Vibrant Color Simple Answers | 397136 | [397136-vibrant-color-simple-answers.json](./397136-vibrant-color-simple-answers.json) |
 | Vibrant Dash | 368368 | [368368-vibrant-dash.json](./368368-vibrant-dash.json) |
