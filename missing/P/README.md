@@ -5335,6 +5335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Fixel | 289020 | [289020-pixel-fixel.json](./289020-pixel-fixel.json) |
 | Pixel Flip | 336703 | [336703-pixel-flip.json](./336703-pixel-flip.json) |
 | Pixel Fodder | 34858 | [34858-pixel-fodder.json](./34858-pixel-fodder.json) |
+| Pixel Force | 120094 | [120094-pixel-force.json](./120094-pixel-force.json) |
 | Pixel Force 2 | 175278 | [175278-pixel-force-2.json](./175278-pixel-force-2.json) |
 | Pixel Force: Halo | 76172 | [76172-pixel-force-halo.json](./76172-pixel-force-halo.json) |
 | Pixel Forest | 108489 | [108489-pixel-forest.json](./108489-pixel-forest.json) |
@@ -9485,6 +9486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prime World: Defenders 2 | 112944 | [112944-prime-world-defenders-2.json](./112944-prime-world-defenders-2.json) |
 | Prime's Quest | 63555 | [63555-primes-quest.json](./63555-primes-quest.json) |
 | Primedice | 76563 | [76563-primedice.json](./76563-primedice.json) |
+| PrimeOrbial | 120073 | [120073-primeorbial.json](./120073-primeorbial.json) |
 | Primer | 247086 | [247086-primer.json](./247086-primer.json) |
 | Primeval | 158688 | [158688-primeval.json](./158688-primeval.json) |
 | Primeval Horizon | 295527 | [295527-primeval-horizon.json](./295527-primeval-horizon.json) |
@@ -10673,6 +10675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Warlock 2-pack | 223544 | [223544-project-warlock-2-pack.json](./223544-project-warlock-2-pack.json) |
 | Project Warlock II | 152272 | [152272-project-warlock-ii.json](./152272-project-warlock-ii.json) |
 | Project Warlock: Lost Chapters | 270023 | [270023-project-warlock-lost-chapters.json](./270023-project-warlock-lost-chapters.json) |
+| Project Wasteland: The Mythiclands | 120077 | [120077-project-wasteland-the-mythiclands.json](./120077-project-wasteland-the-mythiclands.json) |
 | Project Watcher | 260218 | [260218-project-watcher.json](./260218-project-watcher.json) |
 | Project Waves | 114434 | [114434-project-waves.json](./114434-project-waves.json) |
 | Project Werewolf | 306099 | [306099-project-werewolf.json](./306099-project-werewolf.json) |
