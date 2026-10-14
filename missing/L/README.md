@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lambda Wars | 60785 | [60785-lambda-wars.json](./60785-lambda-wars.json) |
 | Lambdarune | 351685 | [351685-lambdarune.json](./351685-lambdarune.json) |
 | Lambo Jump | 234711 | [234711-lambo-jump.json](./234711-lambo-jump.json) |
+| Lambo Speed: Drift X | 104515 | [104515-lambo-speed-drift-x.json](./104515-lambo-speed-drift-x.json) |
 | Lamborghini: American Challenge | 380116 | [380116-lamborghini-american-challenge.json](./380116-lamborghini-american-challenge.json) |
 | Lambs on the Road: The Beginning | 152352 | [152352-lambs-on-the-road-the-beginning.json](./152352-lambs-on-the-road-the-beginning.json) |
 | Lament of the Yuppie | 226340 | [226340-lament-of-the-yuppie.json](./226340-lament-of-the-yuppie.json) |
@@ -2592,6 +2593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing: Radio Italia | 268190 | [268190-lets-sing-radio-italia.json](./268190-lets-sing-radio-italia.json) |
 | Let's Split Up (A Visual Novel) | 104156 | [104156-lets-split-up-a-visual-novel.json](./104156-lets-split-up-a-visual-novel.json) |
 | Let's Spot It! | 252925 | [252925-lets-spot-it.json](./252925-lets-spot-it.json) |
+| Let's Stack AR! | 104540 | [104540-lets-stack-ar.json](./104540-lets-stack-ar.json) |
 | Let's Talk About Me | 57648 | [57648-lets-talk-about-me.json](./57648-lets-talk-about-me.json) |
 | Let's Talk About Me Too | 78336 | [78336-lets-talk-about-me-too.json](./78336-lets-talk-about-me-too.json) |
 | Let's Tap | 4970 | [4970-lets-tap.json](./4970-lets-tap.json) |
@@ -5074,6 +5076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LootOnline | 333592 | [333592-lootonline.json](./333592-lootonline.json) |
 | LootSlime | 397710 | [397710-lootslime.json](./397710-lootslime.json) |
 | Lootun | 201507 | [201507-lootun.json](./201507-lootun.json) |
+| Looty Dungeon | 104516 | [104516-looty-dungeon.json](./104516-looty-dungeon.json) |
 | LooWarVR | 31838 | [31838-loowarvr.json](./31838-loowarvr.json) |
 | Looxi | 343248 | [343248-looxi.json](./343248-looxi.json) |
 | Lopp | 81648 | [81648-lopp.json](./81648-lopp.json) |
@@ -5247,6 +5250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Along The Way | 253919 | [253919-lost-along-the-way.json](./253919-lost-along-the-way.json) |
 | Lost Amulets | 116457 | [116457-lost-amulets.json](./116457-lost-amulets.json) |
 | Lost Amulets: Four Guardians | 223170 | [223170-lost-amulets-four-guardians.json](./223170-lost-amulets-four-guardians.json) |
+| Lost Amulets: Mystic Land | 104512 | [104512-lost-amulets-mystic-land.json](./104512-lost-amulets-mystic-land.json) |
 | Lost and Flounder | 108985 | [108985-lost-and-flounder.json](./108985-lost-and-flounder.json) |
 | Lost and Forgotten | 268637 | [268637-lost-and-forgotten.json](./268637-lost-and-forgotten.json) |
 | Lost and Found Co. | 224629 | [224629-lost-and-found-co.json](./224629-lost-and-found-co.json) |
