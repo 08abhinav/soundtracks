@@ -3883,6 +3883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN MLS GameNight | 93462 | [93462-espn-mls-gamenight.json](./93462-espn-mls-gamenight.json) |
 | ESPN National Hockey Night | 370312 | [370312-espn-national-hockey-night.json](./370312-espn-national-hockey-night.json) |
 | ESPN National Hockey Night | 5381 | [5381-espn-national-hockey-night.json](./5381-espn-national-hockey-night.json) |
+| ESPN National Hockey Night | 80419 | [80419-espn-national-hockey-night.json](./80419-espn-national-hockey-night.json) |
 | ESPN NBA 2Night | 78678 | [78678-espn-nba-2night.json](./78678-espn-nba-2night.json) |
 | ESPN NBA Basketball 2004 | 94616 | [94616-espn-nba-basketball-2004.json](./94616-espn-nba-basketball-2004.json) |
 | ESPN NFL 2K4 | 43471 | [43471-espn-nfl-2k4.json](./43471-espn-nfl-2k4.json) |
@@ -4913,6 +4914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excavator Master 3D | 224053 | [224053-excavator-master-3d.json](./224053-excavator-master-3d.json) |
 | Excavator Simulator 2018 | 100865 | [100865-excavator-simulator-2018.json](./100865-excavator-simulator-2018.json) |
 | Excavatorrr | 242574 | [242574-excavatorrr.json](./242574-excavatorrr.json) |
+| Exceed 3rd Jade Penetrate | 80380 | [80380-exceed-3rd-jade-penetrate.json](./80380-exceed-3rd-jade-penetrate.json) |
 | eXceed 3rd: Jade Penetrate Black Package | 10967 | [10967-exceed-3rd-jade-penetrate-black-package.json](./10967-exceed-3rd-jade-penetrate-black-package.json) |
 | Exceed Gear | 298676 | [298676-exceed-gear.json](./298676-exceed-gear.json) |
 | eXceed Gun Bullet Children | 9290 | [9290-exceed-gun-bullet-children.json](./9290-exceed-gun-bullet-children.json) |
@@ -5014,6 +5016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eximius: Seize the Frontline - Exclusive Callsign Pack: Kings of Frontline | 230989 | [230989-eximius-seize-the-frontline-exclusive-callsign-pack-kings-of-frontline.json](./230989-eximius-seize-the-frontline-exclusive-callsign-pack-kings-of-frontline.json) |
 | Exipath | 400900 | [400900-exipath.json](./400900-exipath.json) |
 | Exipelago | 215868 | [215868-exipelago.json](./215868-exipelago.json) |
+| Exisled | 80376 | [80376-exisled.json](./80376-exisled.json) |
 | Exist | 212488 | [212488-exist.json](./212488-exist.json) |
 | Exist | 390693 | [390693-exist.json](./390693-exist.json) |
 | Exist | 88472 | [88472-exist.json](./88472-exist.json) |
@@ -5101,6 +5104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodus Checkmate | 216398 | [216398-exodus-checkmate.json](./216398-exodus-checkmate.json) |
 | Exodus Core | 347750 | [347750-exodus-core.json](./347750-exodus-core.json) |
 | Exodus Flight | 297070 | [297070-exodus-flight.json](./297070-exodus-flight.json) |
+| Exodus Guilty | 80384 | [80384-exodus-guilty.json](./80384-exodus-guilty.json) |
 | Exodus Idle | 211761 | [211761-exodus-idle.json](./211761-exodus-idle.json) |
 | Exodus Vigil | 207353 | [207353-exodus-vigil.json](./207353-exodus-vigil.json) |
 | Exodus: Journey to the Promised Land | 11164 | [11164-exodus-journey-to-the-promised-land.json](./11164-exodus-journey-to-the-promised-land.json) |
