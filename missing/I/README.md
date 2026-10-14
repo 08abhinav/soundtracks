@@ -2194,6 +2194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indian Train Simulator 2018 | 208928 | [208928-indian-train-simulator-2018.json](./208928-indian-train-simulator-2018.json) |
 | Indian Truck Simulator 3D | 214689 | [214689-indian-truck-simulator-3d.json](./214689-indian-truck-simulator-3d.json) |
 | Indiana Boy Steam Edition | 112930 | [112930-indiana-boy-steam-edition.json](./112930-indiana-boy-steam-edition.json) |
+| Indiana Jack | 94634 | [94634-indiana-jack.json](./94634-indiana-jack.json) |
 | Indiana Jones and the Emperor's Tomb | 187 | [187-indiana-jones-and-the-emperors-tomb.json](./187-indiana-jones-and-the-emperors-tomb.json) |
 | Indiana Jones and the Fate of Atlantis: The Action Game | 12155 | [12155-indiana-jones-and-the-fate-of-atlantis-the-action-game.json](./12155-indiana-jones-and-the-fate-of-atlantis-the-action-game.json) |
 | Indiana Jones and The Great Circle: Collector's Edition | 317816 | [317816-indiana-jones-and-the-great-circle-collectors-edition.json](./317816-indiana-jones-and-the-great-circle-collectors-edition.json) |
@@ -3337,6 +3338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Cup '94 | 40346 | [40346-international-cup-94.json](./40346-international-cup-94.json) |
 | International Football | 69535 | [69535-international-football.json](./69535-international-football.json) |
 | International Golf Pro | 43446 | [43446-international-golf-pro.json](./43446-international-golf-pro.json) |
+| International Hockey | 94629 | [94629-international-hockey.json](./94629-international-hockey.json) |
 | International Karate Advanced | 49292 | [49292-international-karate-advanced.json](./49292-international-karate-advanced.json) |
 | International Match Day | 397918 | [397918-international-match-day.json](./397918-international-match-day.json) |
 | International Ninja Rabbits | 40916 | [40916-international-ninja-rabbits.json](./40916-international-ninja-rabbits.json) |
