@@ -2285,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo Stackers | 43939 | [43939-tecmo-stackers.json](./43939-tecmo-stackers.json) |
 | Tecmo Super Baseball | 46246 | [46246-tecmo-super-baseball.json](./46246-tecmo-super-baseball.json) |
 | Tecmo Super Bowl | 237471 | [237471-tecmo-super-bowl.json](./237471-tecmo-super-bowl.json) |
+| Tecmo Super Bowl | 80373 | [80373-tecmo-super-bowl.json](./80373-tecmo-super-bowl.json) |
 | Tecmo Super Bowl 2015 | 48896 | [48896-tecmo-super-bowl-2015.json](./48896-tecmo-super-bowl-2015.json) |
 | Tecmo Super Bowl 2016 | 48899 | [48899-tecmo-super-bowl-2016.json](./48899-tecmo-super-bowl-2016.json) |
 | Tecmo Super Bowl 2017 | 48910 | [48910-tecmo-super-bowl-2017.json](./48910-tecmo-super-bowl-2017.json) |
@@ -5364,6 +5365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The D Show | 280855 | [280855-the-d-show.json](./280855-the-d-show.json) |
 | The D-T.E.A.M. | 196010 | [196010-the-d-t-e-a-m.json](./196010-the-d-t-e-a-m.json) |
 | The D.R.G. Initiative | 54689 | [54689-the-d-r-g-initiative.json](./54689-the-d-r-g-initiative.json) |
+| The Da Vinci Code | 80430 | [80430-the-da-vinci-code.json](./80430-the-da-vinci-code.json) |
 | The Da Vinci Cryptex 2 | 278725 | [278725-the-da-vinci-cryptex-2.json](./278725-the-da-vinci-cryptex-2.json) |
 | The Da Vinci Cryptex 3 | 280257 | [280257-the-da-vinci-cryptex-3.json](./280257-the-da-vinci-cryptex-3.json) |
 | The Da Vinci Cryptex 4 | 379173 | [379173-the-da-vinci-cryptex-4.json](./379173-the-da-vinci-cryptex-4.json) |
@@ -12187,6 +12189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower: Last Stand | 31742 | [31742-the-tower-last-stand.json](./31742-the-tower-last-stand.json) |
 | The Tower: The Order of XII | 117694 | [117694-the-tower-the-order-of-xii.json](./117694-the-tower-the-order-of-xii.json) |
 | The Towers | 406802 | [406802-the-towers.json](./406802-the-towers.json) |
+| The Town | 80392 | [80392-the-town.json](./80392-the-town.json) |
 | The Town of Downpour | 387334 | [387334-the-town-of-downpour.json](./387334-the-town-of-downpour.json) |
 | The Town of Light | 18157 | [18157-the-town-of-light.json](./18157-the-town-of-light.json) |
 | The Town of Light: Deluxe Edition | 86237 | [86237-the-town-of-light-deluxe-edition.json](./86237-the-town-of-light-deluxe-edition.json) |
@@ -20723,6 +20726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial of the Gods: Siralim CCG | 133195 | [133195-trial-of-the-gods-siralim-ccg.json](./133195-trial-of-the-gods-siralim-ccg.json) |
 | Trial of Two | 152452 | [152452-trial-of-two.json](./152452-trial-of-two.json) |
 | Trial Traction | 304852 | [304852-trial-traction.json](./304852-trial-traction.json) |
+| Trial Xtreme | 80437 | [80437-trial-xtreme.json](./80437-trial-xtreme.json) |
 | Trial Xtreme 3 | 117763 | [117763-trial-xtreme-3.json](./117763-trial-xtreme-3.json) |
 | Trial Xtreme 4 Remastered | 208035 | [208035-trial-xtreme-4-remastered.json](./208035-trial-xtreme-4-remastered.json) |
 | Trial Xtreme Freedom | 199975 | [199975-trial-xtreme-freedom.json](./199975-trial-xtreme-freedom.json) |
