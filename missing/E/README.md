@@ -848,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edna: Out of Sight, Out of Control | 210676 | [210676-edna-out-of-sight-out-of-control.json](./210676-edna-out-of-sight-out-of-control.json) |
 | Ednaldo Pereira: Mescladasso | 143501 | [143501-ednaldo-pereira-mescladasso.json](./143501-ednaldo-pereira-mescladasso.json) |
 | Ednoka | 341120 | [341120-ednoka.json](./341120-ednoka.json) |
+| Edo Bunka Rekishi Kentei | 123308 | [123308-edo-bunka-rekishi-kentei.json](./123308-edo-bunka-rekishi-kentei.json) |
 | Edo Mono | 250476 | [250476-edo-mono.json](./250476-edo-mono.json) |
 | Edolie | 35755 | [35755-edolie.json](./35755-edolie.json) |
 | EdoPro | 234123 | [234123-edopro.json](./234123-edopro.json) |
@@ -2828,6 +2829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enyla X | 149598 | [149598-enyla-x.json](./149598-enyla-x.json) |
 | Enyo Arcade | 17802 | [17802-enyo-arcade.json](./17802-enyo-arcade.json) |
 | Enypnion Redreamed | 249812 | [249812-enypnion-redreamed.json](./249812-enypnion-redreamed.json) |
+| Enzbots | 123353 | [123353-enzbots.json](./123353-enzbots.json) |
 | Eo | 211661 | [211661-eo.json](./211661-eo.json) |
 | EOE: Eve of Extinction | 23454 | [23454-eoe-eve-of-extinction.json](./23454-eoe-eve-of-extinction.json) |
 | EOEOnline | 303515 | [303515-eoeonline.json](./303515-eoeonline.json) |
@@ -3474,6 +3476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from the Trap World | 197257 | [197257-escape-from-the-trap-world.json](./197257-escape-from-the-trap-world.json) |
 | Escape From The Tutorial | 301599 | [301599-escape-from-the-tutorial.json](./301599-escape-from-the-tutorial.json) |
 | Escape from the Underworld | 124599 | [124599-escape-from-the-underworld.json](./124599-escape-from-the-underworld.json) |
+| Escape from the Universe | 123307 | [123307-escape-from-the-universe.json](./123307-escape-from-the-universe.json) |
 | Escape from the Village | 180017 | [180017-escape-from-the-village.json](./180017-escape-from-the-village.json) |
 | Escape from the Yellow Room 3 | 220216 | [220216-escape-from-the-yellow-room-3.json](./220216-escape-from-the-yellow-room-3.json) |
 | Escape From This Planet | 224550 | [224550-escape-from-this-planet.json](./224550-escape-from-this-planet.json) |
