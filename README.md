@@ -455,6 +455,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 | Cover | Game | Albums |
 |---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2732041c586cf96c1672af77129" width="60" /> | [Galaga](https://ostdb.net/games/galaga) | **GALAGA Original Soundtrack** · [Spotify](https://open.spotify.com/album/4GXAtAx1II7jt9u5oMykMK) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f6/d4/57/f6d4576d-e02c-e25b-2bc7-6ca89486e142/192562000243.jpg/600x600bb.jpg" width="60" /> | [Gang Beasts](https://ostdb.net/games/gang-beasts) | **Gang Beasts Original Soundtrack** · [Spotify](https://open.spotify.com/album/3UV3ajyl0B6xcXXPDlsXud) · [Apple Music](https://music.apple.com/us/album/gang-beasts-original-soundtrack/1322845244) · [Album](https://album.link/i/1322845244) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bd/a1/12/bda11290-d756-a27a-1fb7-c8a2094449df/artwork.jpg/600x600bb.jpg" width="60" /> | [Garten of Banban 8: Anti Devil](https://ostdb.net/games/garten-of-banban-8-anti-devil) | **Garten of Banban 8: Anti Devil (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/garten-of-banban-8-anti-devil-original-game-soundtrack/1836505340?uo=4) · [Album](https://album.link/i/1836505340) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273229c96dcab12f9bba73c0c87" width="60" /> | [Gears 5](https://ostdb.net/games/gears-5) | **Gears 5 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6N0UffOBezxYYrtihxhymu) |
@@ -1313,4 +1314,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1630 soundtracks · last updated 2026-10-14T08:20:56.607Z_
+_1631 soundtracks · last updated 2026-10-14T08:21:05.359Z_
