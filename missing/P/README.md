@@ -2406,6 +2406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC-Man | 25148 | [25148-pc-man.json](./25148-pc-man.json) |
 | PC-Sherlock: A Game of Logic & Deduction | 98920 | [98920-pc-sherlock-a-game-of-logic-and-deduction.json](./98920-pc-sherlock-a-game-of-logic-and-deduction.json) |
 | PCB | 372104 | [372104-pcb.json](./372104-pcb.json) |
+| PD Ultraman Link | 107621 | [107621-pd-ultraman-link.json](./107621-pd-ultraman-link.json) |
 | PD: Prope Discoverer | 230223 | [230223-pd-prope-discoverer.json](./230223-pd-prope-discoverer.json) |
 | PDC World Championship Darts 2008 | 5092 | [5092-pdc-world-championship-darts-2008.json](./5092-pdc-world-championship-darts-2008.json) |
 | PDI Check | 119520 | [119520-pdi-check.json](./119520-pdi-check.json) |
@@ -9821,6 +9822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Puzzle | 312693 | [312693-prison-puzzle.json](./312693-prison-puzzle.json) |
 | Prison Run | 394998 | [394998-prison-run.json](./394998-prison-run.json) |
 | Prison Run and Gun | 33672 | [33672-prison-run-and-gun.json](./33672-prison-run-and-gun.json) |
+| Prison Simulator | 107715 | [107715-prison-simulator.json](./107715-prison-simulator.json) |
 | Prison Survival: Architect of Crime Simulator | 259052 | [259052-prison-survival-architect-of-crime-simulator.json](./259052-prison-survival-architect-of-crime-simulator.json) |
 | Prison Survival: Inmate Life Simulator | 317437 | [317437-prison-survival-inmate-life-simulator.json](./317437-prison-survival-inmate-life-simulator.json) |
 | Prison Test | 102369 | [102369-prison-test.json](./102369-prison-test.json) |
