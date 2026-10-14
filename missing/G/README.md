@@ -3652,6 +3652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Benny! | 48321 | [48321-go-benny.json](./48321-go-benny.json) |
 | Go! Birdie | 146859 | [146859-go-birdie.json](./146859-go-birdie.json) |
 | Go! Dizzy Go! | 24013 | [24013-go-dizzy-go.json](./24013-go-dizzy-go.json) |
+| Go! Fish Go! | 125717 | [125717-go-fish-go.json](./125717-go-fish-go.json) |
 | Go! George Go! | 300394 | [300394-go-george-go.json](./300394-go-george-go.json) |
 | Go! Go! Advance Drive: Muttsu no Machine ni Chousen Da! | 327588 | [327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json](./327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json) |
 | Go! Go! Digger | 227816 | [227816-go-go-digger.json](./227816-go-go-digger.json) |
@@ -5724,6 +5725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Artists Steal | 118751 | [118751-great-artists-steal.json](./118751-great-artists-steal.json) |
 | Great Basketball | 46672 | [46672-great-basketball.json](./46672-great-basketball.json) |
 | Great Battle Full Blast | 65516 | [65516-great-battle-full-blast.json](./65516-great-battle-full-blast.json) |
+| Great Battles of the American Civil War | 125773 | [125773-great-battles-of-the-american-civil-war.json](./125773-great-battles-of-the-american-civil-war.json) |
 | Great Battles of the American Civil War | 209776 | [209776-great-battles-of-the-american-civil-war.json](./209776-great-battles-of-the-american-civil-war.json) |
 | Great Battles: Battle of Tobruk | 11109 | [11109-great-battles-battle-of-tobruk.json](./11109-great-battles-battle-of-tobruk.json) |
 | Great Big War Game | 16399 | [16399-great-big-war-game.json](./16399-great-big-war-game.json) |
@@ -5836,6 +5838,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Game: TimeSwapper | 33753 | [33753-green-game-timeswapper.json](./33753-green-game-timeswapper.json) |
 | Green Garden | 226359 | [226359-green-garden.json](./226359-green-garden.json) |
 | Green Glass | 174609 | [174609-green-glass.json](./174609-green-glass.json) |
+| Green Green | 125742 | [125742-green-green.json](./125742-green-green.json) |
+| Green Green: Overdrive Edition | 125743 | [125743-green-green-overdrive-edition.json](./125743-green-green-overdrive-edition.json) |
 | Green Guy Goes Grappling 2 | 255065 | [255065-green-guy-goes-grappling-2.json](./255065-green-guy-goes-grappling-2.json) |
 | Green Hawk Down | 211978 | [211978-green-hawk-down.json](./211978-green-hawk-down.json) |
 | Green Hawk Platoon | 215014 | [215014-green-hawk-platoon.json](./215014-green-hawk-platoon.json) |
@@ -6072,6 +6076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grief Like a Stray Dog | 195531 | [195531-grief-like-a-stray-dog.json](./195531-grief-like-a-stray-dog.json) |
 | Grief Trigger | 236514 | [236514-grief-trigger.json](./236514-grief-trigger.json) |
 | Grief: How to say goodbye | 182851 | [182851-grief-how-to-say-goodbye.json](./182851-grief-how-to-say-goodbye.json) |
+| Griefhelm | 125762 | [125762-griefhelm.json](./125762-griefhelm.json) |
 | Grievance | 135614 | [135614-grievance.json](./135614-grievance.json) |
 | Grieving: Berduka | 372674 | [372674-grieving-berduka.json](./372674-grieving-berduka.json) |
 | Grievous Onslaught | 245966 | [245966-grievous-onslaught.json](./245966-grievous-onslaught.json) |
