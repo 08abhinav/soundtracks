@@ -7256,6 +7256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: Rogue Fleet - The Reinforcements | 156155 | [156155-codename-rogue-fleet-the-reinforcements.json](./156155-codename-rogue-fleet-the-reinforcements.json) |
 | Codename: SYN | 137603 | [137603-codename-syn.json](./137603-codename-syn.json) |
 | Codename: Tenka | 19995 | [19995-codename-tenka.json](./19995-codename-tenka.json) |
+| Codename: Terranova | 132548 | [132548-codename-terranova.json](./132548-codename-terranova.json) |
 | Codename: Tiaras | 195981 | [195981-codename-tiaras.json](./195981-codename-tiaras.json) |
 | Codename: Twilight | 373761 | [373761-codename-twilight.json](./373761-codename-twilight.json) |
 | Codenames | 105254 | [105254-codenames.json](./105254-codenames.json) |
