@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T20:40:30.389Z",
-  "total_soundtracks": 1608,
+  "generated_at": "2026-10-14T04:31:00.577Z",
+  "total_soundtracks": 1609,
   "games": [
     {
       "igdb_id": 7522,
@@ -9329,6 +9329,20 @@
           "spotify_url": "https://open.spotify.com/album/1tZqXH48vp932kY9ZuHDbU",
           "apple_music_url": "https://music.apple.com/us/album/littlebigplanet-2-original-game-soundtrack/1798272955",
           "album_link_url": "https://album.link/i/1798272955"
+        }
+      ]
+    },
+    {
+      "igdb_id": 7330,
+      "game_name": "LittleBigPlanet 3",
+      "game_url": "https://ostdb.net/games/littlebigplanet-3",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273cfece20d4dde263abed658d5",
+      "albums": [
+        {
+          "album_name": "LittleBigPlanet 3 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5nwloVlGgbHIu4noBGGBf7",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
