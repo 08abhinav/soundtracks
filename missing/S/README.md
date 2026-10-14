@@ -2468,6 +2468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scratches | 11836 | [11836-scratches.json](./11836-scratches.json) |
 | Scratchin' Melodii | 215235 | [215235-scratchin-melodii.json](./215235-scratchin-melodii.json) |
 | ScrawlBrawl | 194902 | [194902-scrawlbrawl.json](./194902-scrawlbrawl.json) |
+| Scream 4 | 77204 | [77204-scream-4.json](./77204-scream-4.json) |
 | Scream and Steel: Horror Story Shooter | 284493 | [284493-scream-and-steel-horror-story-shooter.json](./284493-scream-and-steel-horror-story-shooter.json) |
 | Scream Collector | 74450 | [74450-scream-collector.json](./74450-scream-collector.json) |
 | Scream Hero | 194000 | [194000-scream-hero.json](./194000-scream-hero.json) |
@@ -16522,6 +16523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Galactic Battlegrounds | 139 | [139-star-wars-galactic-battlegrounds.json](./139-star-wars-galactic-battlegrounds.json) |
 | Star Wars: Galactic Battlegrounds Saga | 35596 | [35596-star-wars-galactic-battlegrounds-saga.json](./35596-star-wars-galactic-battlegrounds-saga.json) |
 | Star Wars: Galactic Racer | 381248 | [381248-star-wars-galactic-racer.json](./381248-star-wars-galactic-racer.json) |
+| Star Wars: Galaxies - Starter Kit | 77212 | [77212-star-wars-galaxies-starter-kit.json](./77212-star-wars-galaxies-starter-kit.json) |
 | Star Wars: Galaxy of Heroes | 19577 | [19577-star-wars-galaxy-of-heroes.json](./19577-star-wars-galaxy-of-heroes.json) |
 | Star Wars: Heritage Pack | 200175 | [200175-star-wars-heritage-pack.json](./200175-star-wars-heritage-pack.json) |
 | Star Wars: Heritage Pack | 247756 | [247756-star-wars-heritage-pack.json](./247756-star-wars-heritage-pack.json) |
@@ -21341,6 +21343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros: Ztar Turmoil | 320226 | [320226-super-mario-bros-ztar-turmoil.json](./320226-super-mario-bros-ztar-turmoil.json) |
 | Super Mario Bros. | 206934 | [206934-super-mario-bros.json](./206934-super-mario-bros.json) |
 | Super Mario Bros. | 222095 | [222095-super-mario-bros.json](./222095-super-mario-bros.json) |
+| Super Mario Bros. / Duck Hunt / World Class Track Meet | 77227 | [77227-super-mario-bros-duck-hunt-world-class-track-meet.json](./77227-super-mario-bros-duck-hunt-world-class-track-meet.json) |
 | Super Mario Bros. & Friends: When I Grow Up | 131951 | [131951-super-mario-bros-and-friends-when-i-grow-up.json](./131951-super-mario-bros-and-friends-when-i-grow-up.json) |
 | Super Mario Bros. & The Midas Machine | 135098 | [135098-super-mario-bros-and-the-midas-machine.json](./135098-super-mario-bros-and-the-midas-machine.json) |
 | Super Mario Bros. + | 307664 | [307664-super-mario-bros.json](./307664-super-mario-bros.json) |
@@ -21388,6 +21391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. SNES | 377742 | [377742-super-mario-bros-snes.json](./377742-super-mario-bros-snes.json) |
 | Super Mario Bros. SNES Days | 321586 | [321586-super-mario-bros-snes-days.json](./321586-super-mario-bros-snes-days.json) |
 | Super Mario Bros. SNES Days 2 | 321585 | [321585-super-mario-bros-snes-days-2.json](./321585-super-mario-bros-snes-days-2.json) |
+| Super Mario Bros. Special | 77228 | [77228-super-mario-bros-special.json](./77228-super-mario-bros-special.json) |
 | Super Mario Bros. Star Scramble 2: Ghost Island | 215251 | [215251-super-mario-bros-star-scramble-2-ghost-island.json](./215251-super-mario-bros-star-scramble-2-ghost-island.json) |
 | Super Mario Bros. Star Scramble DX | 265069 | [265069-super-mario-bros-star-scramble-dx.json](./265069-super-mario-bros-star-scramble-dx.json) |
 | Super Mario Bros. Wonder | 254339 | [254339-super-mario-bros-wonder.json](./254339-super-mario-bros-wonder.json) |
