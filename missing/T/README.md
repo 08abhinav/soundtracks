@@ -2089,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team 47 GoMan | 180229 | [180229-team-47-goman.json](./180229-team-47-goman.json) |
 | Team Assault: Baptism of Fire | 66032 | [66032-team-assault-baptism-of-fire.json](./66032-team-assault-baptism-of-fire.json) |
 | Team Batista no Eikou Shinjitsu wo Tsumugu 4 tsu no Chart | 70412 | [70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json](./70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json) |
+| Team Canada Table Hockey | 88129 | [88129-team-canada-table-hockey.json](./88129-team-canada-table-hockey.json) |
 | Team Conquest | 220053 | [220053-team-conquest.json](./220053-team-conquest.json) |
 | Team Deathmatch: Classic | 363287 | [363287-team-deathmatch-classic.json](./363287-team-deathmatch-classic.json) |
 | Team Dehdehbon | 372629 | [372629-team-dehdehbon.json](./372629-team-dehdehbon.json) |
@@ -10683,6 +10684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Savoury Inspector | 160097 | [160097-the-savoury-inspector.json](./160097-the-savoury-inspector.json) |
 | The Scaling | 386286 | [386286-the-scaling.json](./386286-the-scaling.json) |
 | The Scam | 369912 | [369912-the-scam.json](./369912-the-scam.json) |
+| The Scarecrow | 88140 | [88140-the-scarecrow.json](./88140-the-scarecrow.json) |
 | The Scarecrow Knight | 358976 | [358976-the-scarecrow-knight.json](./358976-the-scarecrow-knight.json) |
 | The Scarlet Chaos | 289959 | [289959-the-scarlet-chaos.json](./289959-the-scarlet-chaos.json) |
 | The Scarlet Demonslayer | 231348 | [231348-the-scarlet-demonslayer.json](./231348-the-scarlet-demonslayer.json) |
@@ -16298,6 +16300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Basement: Before | 410834 | [410834-to-the-basement-before.json](./410834-to-the-basement-before.json) |
 | To the Bridge | 348787 | [348787-to-the-bridge.json](./348787-to-the-bridge.json) |
 | To the Capital | 24476 | [24476-to-the-capital.json](./24476-to-the-capital.json) |
+| To the Capital 2 | 88117 | [88117-to-the-capital-2.json](./88117-to-the-capital-2.json) |
 | To the City of the Clouds | 83597 | [83597-to-the-city-of-the-clouds.json](./83597-to-the-city-of-the-clouds.json) |
 | To the Core | 105201 | [105201-to-the-core.json](./105201-to-the-core.json) |
 | To the Core | 261974 | [261974-to-the-core.json](./261974-to-the-core.json) |
@@ -16554,6 +16557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Run | 110488 | [110488-toilet-run.json](./110488-toilet-run.json) |
 | Toilet Rush Draw: Poo and Pee | 231888 | [231888-toilet-rush-draw-poo-and-pee.json](./231888-toilet-rush-draw-poo-and-pee.json) |
 | Toilet Simulator | 111715 | [111715-toilet-simulator.json](./111715-toilet-simulator.json) |
+| Toilet Time - Mini Games | 88143 | [88143-toilet-time-mini-games.json](./88143-toilet-time-mini-games.json) |
 | Toilet Toss | 343391 | [343391-toilet-toss.json](./343391-toilet-toss.json) |
 | Toilet Treasures | 396525 | [396525-toilet-treasures.json](./396525-toilet-treasures.json) |
 | Toilet Truble | 293327 | [293327-toilet-truble.json](./293327-toilet-truble.json) |
@@ -21088,6 +21092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Town: Quiz Duel | 232064 | [232064-trivia-town-quiz-duel.json](./232064-trivia-town-quiz-duel.json) |
 | Trivia Tricks | 140534 | [140534-trivia-tricks.json](./140534-trivia-tricks.json) |
 | Trivia Trove | 55991 | [55991-trivia-trove.json](./55991-trivia-trove.json) |
+| Trivia Vault Basketball Trivia | 88085 | [88085-trivia-vault-basketball-trivia.json](./88085-trivia-vault-basketball-trivia.json) |
 | Trivia Vault Olympics Trivia | 88201 | [88201-trivia-vault-olympics-trivia.json](./88201-trivia-vault-olympics-trivia.json) |
 | Trivia Vault: 1980's Trivia | 54342 | [54342-trivia-vault-1980s-trivia.json](./54342-trivia-vault-1980s-trivia.json) |
 | Trivia Vault: 1980's Trivia 2 | 54879 | [54879-trivia-vault-1980s-trivia-2.json](./54879-trivia-vault-1980s-trivia-2.json) |
