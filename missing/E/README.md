@@ -1739,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ellsydia | 378416 | [378416-ellsydia.json](./378416-ellsydia.json) |
 | Elly's Adventure | 315203 | [315203-ellys-adventure.json](./315203-ellys-adventure.json) |
 | Elm Knight: A Living Body Armor | 91762 | [91762-elm-knight-a-living-body-armor.json](./91762-elm-knight-a-living-body-armor.json) |
+| Elman España: Anarchy | 121364 | [121364-elman-espana-anarchy.json](./121364-elman-espana-anarchy.json) |
 | Elmarion: The Lost Temple | 149894 | [149894-elmarion-the-lost-temple.json](./149894-elmarion-the-lost-temple.json) |
 | Elmin | 345588 | [345588-elmin.json](./345588-elmin.json) |
 | Elminage Gothic 3D Remix: Ulm Zakir to Yami no Gishiki | 136933 | [136933-elminage-gothic-3d-remix-ulm-zakir-to-yami-no-gishiki.json](./136933-elminage-gothic-3d-remix-ulm-zakir-to-yami-no-gishiki.json) |
@@ -2013,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emlyn Hughes Arcade Quiz | 13636 | [13636-emlyn-hughes-arcade-quiz.json](./13636-emlyn-hughes-arcade-quiz.json) |
 | Emma at the Farm | 70599 | [70599-emma-at-the-farm.json](./70599-emma-at-the-farm.json) |
 | Emma in the Mountains | 70608 | [70608-emma-in-the-mountains.json](./70608-emma-in-the-mountains.json) |
+| Emma: Lost in Memories | 121380 | [121380-emma-lost-in-memories.json](./121380-emma-lost-in-memories.json) |
 | Emma's Armaments | 213017 | [213017-emmas-armaments.json](./213017-emmas-armaments.json) |
 | Emma's World | 299220 | [299220-emmas-world.json](./299220-emmas-world.json) |
 | Emmensity | 356639 | [356639-emmensity.json](./356639-emmensity.json) |
@@ -3501,6 +3503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Gaia: Departure | 311797 | [311797-escape-gaia-departure.json](./311797-escape-gaia-departure.json) |
 | Escape Game | 105753 | [105753-escape-game.json](./105753-escape-game.json) |
 | Escape Game - Prison Break S3 | 88417 | [88417-escape-game-prison-break-s3.json](./88417-escape-game-prison-break-s3.json) |
+| Escape Game Cake | 122037 | [122037-escape-game-cake.json](./122037-escape-game-cake.json) |
 | Escape Game Fort Boyard | 151474 | [151474-escape-game-fort-boyard.json](./151474-escape-game-fort-boyard.json) |
 | Escape Game R00m 05 | 362201 | [362201-escape-game-r00m-05.json](./362201-escape-game-r00m-05.json) |
 | Escape game R00m 10 | 390491 | [390491-escape-game-r00m-10.json](./390491-escape-game-r00m-10.json) |
@@ -4555,6 +4558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everything is Crab: Supporter Pack | 400873 | [400873-everything-is-crab-supporter-pack.json](./400873-everything-is-crab-supporter-pack.json) |
 | Everything is Fine | 180819 | [180819-everything-is-fine.json](./180819-everything-is-fine.json) |
 | Everything is Garbage | 140390 | [140390-everything-is-garbage.json](./140390-everything-is-garbage.json) |
+| Everything is Mayo | 121326 | [121326-everything-is-mayo.json](./121326-everything-is-mayo.json) |
 | Everything is Peachy | 31646 | [31646-everything-is-peachy.json](./31646-everything-is-peachy.json) |
 | Everything Must Fall | 28132 | [28132-everything-must-fall.json](./28132-everything-must-fall.json) |
 | Everything Store | 391194 | [391194-everything-store.json](./391194-everything-store.json) |
