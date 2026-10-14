@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Force | 248562 | [248562-g-force.json](./248562-g-force.json) |
 | G-Force | 248563 | [248563-g-force.json](./248563-g-force.json) |
 | G-Force | 4876 | [4876-g-force.json](./4876-g-force.json) |
+| G-Force | 80413 | [80413-g-force.json](./80413-g-force.json) |
 | G-Force Fighters | 243938 | [243938-g-force-fighters.json](./243938-g-force-fighters.json) |
 | G-Hell | 415093 | [415093-g-hell.json](./415093-g-hell.json) |
 | G-LOC R360 | 363982 | [363982-g-loc-r360.json](./363982-g-loc-r360.json) |
@@ -4539,6 +4540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golgo 13: Carlyle no Yabou | 91931 | [91931-golgo-13-carlyle-no-yabou.json](./91931-golgo-13-carlyle-no-yabou.json) |
 | Golgo 13: File G-13 o Oe | 77335 | [77335-golgo-13-file-g-13-o-oe.json](./77335-golgo-13-file-g-13-o-oe.json) |
 | Golgo 13: Mienai Guntai | 91930 | [91930-golgo-13-mienai-guntai.json](./91930-golgo-13-mienai-guntai.json) |
+| Golgo 13: Moretti Ichizoku Zansatsu Jiken | 80431 | [80431-golgo-13-moretti-ichizoku-zansatsu-jiken.json](./80431-golgo-13-moretti-ichizoku-zansatsu-jiken.json) |
 | Golgo-13 2 - Kiseki no Dandou | 91928 | [91928-golgo-13-2-kiseki-no-dandou.json](./91928-golgo-13-2-kiseki-no-dandou.json) |
 | Golgo-13 3 - Juusei no Chinkonka | 91929 | [91929-golgo-13-3-juusei-no-chinkonka.json](./91929-golgo-13-3-juusei-no-chinkonka.json) |
 | Golgol runner | 183320 | [183320-golgol-runner.json](./183320-golgol-runner.json) |
