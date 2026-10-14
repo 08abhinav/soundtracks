@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T08:17:41.763Z",
-  "total_missing": 209848,
+  "generated_at": "2026-10-14T08:22:39.077Z",
+  "total_missing": 209847,
   "games": [
     {
       "igdb_id": 191680,
@@ -21635,11 +21635,6 @@
       "igdb_id": 72641,
       "game_name": "Adventure C: The Ship of Doom",
       "file": "missing/A/72641-adventure-c-the-ship-of-doom.json"
-    },
-    {
-      "igdb_id": 9591,
-      "game_name": "AdVenture Capitalist",
-      "file": "missing/A/9591-adventure-capitalist.json"
     },
     {
       "igdb_id": 116821,
