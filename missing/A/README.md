@@ -5073,6 +5073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aluminium City | 395819 | [395819-aluminium-city.json](./395819-aluminium-city.json) |
 | Alundra | 1175 | [1175-alundra.json](./1175-alundra.json) |
 | Alundra 2: A New Legend Begins | 1176 | [1176-alundra-2-a-new-legend-begins.json](./1176-alundra-2-a-new-legend-begins.json) |
+| Alurwe: Ein Spaziergang durch Alt-Urfahr West | 117423 | [117423-alurwe-ein-spaziergang-durch-alt-urfahr-west.json](./117423-alurwe-ein-spaziergang-durch-alt-urfahr-west.json) |
 | Alvastia Chronicles | 113623 | [113623-alvastia-chronicles.json](./113623-alvastia-chronicles.json) |
 | Alvegia Online | 218397 | [218397-alvegia-online.json](./218397-alvegia-online.json) |
 | Alveole | 164863 | [164863-alveole.json](./164863-alveole.json) |
