@@ -599,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Pequena Grande Crise 2: A Ameaça é Outra Agora | 217797 | [217797-a-pequena-grande-crise-2-a-ameaca-e-outra-agora.json](./217797-a-pequena-grande-crise-2-a-ameaca-e-outra-agora.json) |
 | A Pequena Grande Crise 3: A Queda do Gigante | 217818 | [217818-a-pequena-grande-crise-3-a-queda-do-gigante.json](./217818-a-pequena-grande-crise-3-a-queda-do-gigante.json) |
 | A Perfect Day | 384775 | [384775-a-perfect-day.json](./384775-a-perfect-day.json) |
+| A Perfect Day | 97271 | [97271-a-perfect-day.json](./97271-a-perfect-day.json) |
 | A Personal Nightmare | 41868 | [41868-a-personal-nightmare.json](./41868-a-personal-nightmare.json) |
 | A Phone Found in Tall Grass | 245025 | [245025-a-phone-found-in-tall-grass.json](./245025-a-phone-found-in-tall-grass.json) |
 | A Piano Tale | 201677 | [201677-a-piano-tale.json](./201677-a-piano-tale.json) |
@@ -1765,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acretia: Guardians of Lian | 219699 | [219699-acretia-guardians-of-lian.json](./219699-acretia-guardians-of-lian.json) |
 | Acro Storm | 30837 | [30837-acro-storm.json](./30837-acro-storm.json) |
 | Acroama: Company of Strays | 379471 | [379471-acroama-company-of-strays.json](./379471-acroama-company-of-strays.json) |
+| Acroball | 97254 | [97254-acroball.json](./97254-acroball.json) |
 | Acrobat Mission | 46770 | [46770-acrobat-mission.json](./46770-acrobat-mission.json) |
 | Acrobat Star Show | 108440 | [108440-acrobat-star-show.json](./108440-acrobat-star-show.json) |
 | AcroChallenge | 367506 | [367506-acrochallenge.json](./367506-acrochallenge.json) |
@@ -2337,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
 | Adventures of Beetlejuice: Skeletons in the Closet | 50826 | [50826-adventures-of-beetlejuice-skeletons-in-the-closet.json](./50826-adventures-of-beetlejuice-skeletons-in-the-closet.json) |
@@ -3047,6 +3050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AGIS | 239647 | [239647-agis.json](./239647-agis.json) |
 | Aglet: The Sneaker Game | 205586 | [205586-aglet-the-sneaker-game.json](./205586-aglet-the-sneaker-game.json) |
 | Aglobo | 342036 | [342036-aglobo.json](./342036-aglobo.json) |
+| Agma.io | 97302 | [97302-agma-io.json](./97302-agma-io.json) |
 | Agni | 192786 | [192786-agni.json](./192786-agni.json) |
 | Agni Fighter | 231825 | [231825-agni-fighter.json](./231825-agni-fighter.json) |
 | Agnostic Requiem | 273363 | [273363-agnostic-requiem.json](./273363-agnostic-requiem.json) |
@@ -6860,7 +6864,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 2070: The Crisis Response Package | 335463 | [335463-anno-2070-the-crisis-response-package.json](./335463-anno-2070-the-crisis-response-package.json) |
 | Anno 2070: The Distrust Series Package | 335462 | [335462-anno-2070-the-distrust-series-package.json](./335462-anno-2070-the-distrust-series-package.json) |
 | Anno 2205: Asteroid Miner | 180264 | [180264-anno-2205-asteroid-miner.json](./180264-anno-2205-asteroid-miner.json) |
+| Anno 2205: Collector's Edition | 97253 | [97253-anno-2205-collectors-edition.json](./97253-anno-2205-collectors-edition.json) |
 | Anno 2205: Frontiers | 24873 | [24873-anno-2205-frontiers.json](./24873-anno-2205-frontiers.json) |
+| Anno 2205: Gold Edition | 97252 | [97252-anno-2205-gold-edition.json](./97252-anno-2205-gold-edition.json) |
 | Anno 2205: Orbit | 24872 | [24872-anno-2205-orbit.json](./24872-anno-2205-orbit.json) |
 | Anno 2205: Season Pass | 180200 | [180200-anno-2205-season-pass.json](./180200-anno-2205-season-pass.json) |
 | Anno 2205: Tundra | 24871 | [24871-anno-2205-tundra.json](./24871-anno-2205-tundra.json) |
