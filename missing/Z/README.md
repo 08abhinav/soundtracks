@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero G Golf | 181661 | [181661-zero-g-golf.json](./181661-zero-g-golf.json) |
 | Zero Glide VR | 334854 | [334854-zero-glide-vr.json](./334854-zero-glide-vr.json) |
 | Zero Gravity | 229795 | [229795-zero-gravity.json](./229795-zero-gravity.json) |
+| Zero Gravity Pool | 81990 | [81990-zero-gravity-pool.json](./81990-zero-gravity-pool.json) |
 | Zero Grounds | 249073 | [249073-zero-grounds.json](./249073-zero-grounds.json) |
 | Zero Gunner 2 | 21014 | [21014-zero-gunner-2.json](./21014-zero-gunner-2.json) |
 | Zero Hour | 151730 | [151730-zero-hour.json](./151730-zero-hour.json) |
