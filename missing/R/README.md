@@ -1375,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raspberry | 314249 | [314249-raspberry.json](./314249-raspberry.json) |
 | Raspberry Coast | 157040 | [157040-raspberry-coast.json](./157040-raspberry-coast.json) |
 | Raspberry Cube | 117515 | [117515-raspberry-cube.json](./117515-raspberry-cube.json) |
+| Rasta Rainbow | 88099 | [88099-rasta-rainbow.json](./88099-rasta-rainbow.json) |
 | Raster | 270175 | [270175-raster.json](./270175-raster.json) |
 | Raster | 312267 | [312267-raster.json](./312267-raster.json) |
 | Raster Blaster | 24879 | [24879-raster-blaster.json](./24879-raster-blaster.json) |
