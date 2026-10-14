@@ -2431,6 +2431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ash: The Indelible Legend | 15708 | [15708-red-ash-the-indelible-legend.json](./15708-red-ash-the-indelible-legend.json) |
 | Red Awe | 375584 | [375584-red-awe.json](./375584-red-awe.json) |
 | Red Babe | 93342 | [93342-red-babe.json](./93342-red-babe.json) |
+| Red Balaclava Weaving Loom | 130645 | [130645-red-balaclava-weaving-loom.json](./130645-red-balaclava-weaving-loom.json) |
 | Red Ball | 55917 | [55917-red-ball.json](./55917-red-ball.json) |
 | Red Ball 2 | 166520 | [166520-red-ball-2.json](./166520-red-ball-2.json) |
 | Red Ball 3 | 166522 | [166522-red-ball-3.json](./166522-red-ball-3.json) |
