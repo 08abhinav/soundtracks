@@ -1815,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmers 2050 | 249667 | [249667-farmers-2050.json](./249667-farmers-2050.json) |
 | Farmers Co-op: Out of This World | 165609 | [165609-farmers-co-op-out-of-this-world.json](./165609-farmers-co-op-out-of-this-world.json) |
 | Farmers Rebellion | 40137 | [40137-farmers-rebellion.json](./40137-farmers-rebellion.json) |
+| FarmersMahJongg | 92917 | [92917-farmersmahjongg.json](./92917-farmersmahjongg.json) |
 | FarmFury! | 62576 | [62576-farmfury.json](./62576-farmfury.json) |
 | Farmhand Go! | 223171 | [223171-farmhand-go.json](./223171-farmhand-go.json) |
 | Farmieland | 273488 | [273488-farmieland.json](./273488-farmieland.json) |
@@ -2291,6 +2292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatigue | 341613 | [341613-fatigue.json](./341613-fatigue.json) |
 | Fatimopolis | 409636 | [409636-fatimopolis.json](./409636-fatimopolis.json) |
 | Fatman Adventures | 250229 | [250229-fatman-adventures.json](./250229-fatman-adventures.json) |
+| Fatman: The Caped Consumer | 92951 | [92951-fatman-the-caped-consumer.json](./92951-fatman-the-caped-consumer.json) |
 | Fatrifice | 244496 | [244496-fatrifice.json](./244496-fatrifice.json) |
 | Fatrifice 2 | 262941 | [262941-fatrifice-2.json](./262941-fatrifice-2.json) |
 | Fatrifice 3 | 334211 | [334211-fatrifice-3.json](./334211-fatrifice-3.json) |
@@ -5689,6 +5691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flux | 140475 | [140475-flux.json](./140475-flux.json) |
 | Flux | 183373 | [183373-flux.json](./183373-flux.json) |
 | Flux | 202357 | [202357-flux.json](./202357-flux.json) |
+| Flux | 92956 | [92956-flux.json](./92956-flux.json) |
 | Flux Ascendant | 403544 | [403544-flux-ascendant.json](./403544-flux-ascendant.json) |
 | Flux Empyrean | 383372 | [383372-flux-empyrean.json](./383372-flux-empyrean.json) |
 | Flux Family Secrets: The Rabbit Hole | 209458 | [209458-flux-family-secrets-the-rabbit-hole.json](./209458-flux-family-secrets-the-rabbit-hole.json) |
@@ -8545,6 +8548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen: Royal Castle | 306444 | [306444-frozen-royal-castle.json](./306444-frozen-royal-castle.json) |
 | Frozenheim | 144594 | [144594-frozenheim.json](./144594-frozenheim.json) |
 | FrozenPizza | 270096 | [270096-frozenpizza.json](./270096-frozenpizza.json) |
+| Frozzd | 92913 | [92913-frozzd.json](./92913-frozzd.json) |
 | Frozzic's Revenge | 57603 | [57603-frozzics-revenge.json](./57603-frozzics-revenge.json) |
 | Frqncy | 105448 | [105448-frqncy.json](./105448-frqncy.json) |
 | Fru | 19917 | [19917-fru.json](./19917-fru.json) |
