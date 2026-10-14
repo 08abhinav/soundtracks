@@ -2271,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Girl's Notebook | 249322 | [249322-dead-girls-notebook.json](./249322-dead-girls-notebook.json) |
 | Dead Giveaway: Zombie Quiz | 232044 | [232044-dead-giveaway-zombie-quiz.json](./232044-dead-giveaway-zombie-quiz.json) |
 | Dead Grid | 163803 | [163803-dead-grid.json](./163803-dead-grid.json) |
+| Dead Ground Arcade | 128292 | [128292-dead-ground-arcade.json](./128292-dead-ground-arcade.json) |
 | Dead Ground Arcade: Ellis Island | 264768 | [264768-dead-ground-arcade-ellis-island.json](./264768-dead-ground-arcade-ellis-island.json) |
 | Dead GroundZ | 99038 | [99038-dead-groundz.json](./99038-dead-groundz.json) |
 | Dead Hand | 120740 | [120740-dead-hand.json](./120740-dead-hand.json) |
@@ -5130,6 +5131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devastated Path | 265436 | [265436-devastated-path.json](./265436-devastated-path.json) |
 | Devastating Blow | 66346 | [66346-devastating-blow.json](./66346-devastating-blow.json) |
 | Devastating Fog | 285018 | [285018-devastating-fog.json](./285018-devastating-fog.json) |
+| Devastation - Annihilate the Alien Race | 128927 | [128927-devastation-annihilate-the-alien-race.json](./128927-devastation-annihilate-the-alien-race.json) |
 | Devastator | 80872 | [80872-devastator.json](./80872-devastator.json) |
 | Devastators | 39632 | [39632-devastators.json](./39632-devastators.json) |
 | Devestor | 375808 | [375808-devestor.json](./375808-devestor.json) |
@@ -8178,6 +8180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donchan ga Kyu | 92051 | [92051-donchan-ga-kyu.json](./92051-donchan-ga-kyu.json) |
 | Donchan Puzzle Hanabi de Dohn Advance | 49585 | [49585-donchan-puzzle-hanabi-de-dohn-advance.json](./49585-donchan-puzzle-hanabi-de-dohn-advance.json) |
 | Dondgynns Auv Ye Wyrdd | 307769 | [307769-dondgynns-auv-ye-wyrdd.json](./307769-dondgynns-auv-ye-wyrdd.json) |
+| DonDon Busters!! | 128284 | [128284-dondon-busters.json](./128284-dondon-busters.json) |
 | Dondra: A New Beginning | 73987 | [73987-dondra-a-new-beginning.json](./73987-dondra-a-new-beginning.json) |
 | Dong Dong Never Die: Judgment Day | 310532 | [310532-dong-dong-never-die-judgment-day.json](./310532-dong-dong-never-die-judgment-day.json) |
 | Dong Wu: Odyssey | 269032 | [269032-dong-wu-odyssey.json](./269032-dong-wu-odyssey.json) |
@@ -10607,6 +10610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamtale | 178656 | [178656-dreamtale.json](./178656-dreamtale.json) |
 | DreamTank | 72356 | [72356-dreamtank.json](./72356-dreamtank.json) |
 | Dreamtone | 310960 | [310960-dreamtone.json](./310960-dreamtone.json) |
+| Dreamtopia | 128918 | [128918-dreamtopia.json](./128918-dreamtopia.json) |
 | Dreamvibe | 192276 | [192276-dreamvibe.json](./192276-dreamvibe.json) |
 | Dreamwalker | 239716 | [239716-dreamwalker.json](./239716-dreamwalker.json) |
 | Dreamwalker | 271150 | [271150-dreamwalker.json](./271150-dreamwalker.json) |
@@ -11891,6 +11895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Windaria | 72637 | [72637-dungeon-of-windaria.json](./72637-dungeon-of-windaria.json) |
 | Dungeon of Zaar: Explorer Edition | 238545 | [238545-dungeon-of-zaar-explorer-edition.json](./238545-dungeon-of-zaar-explorer-edition.json) |
 | Dungeon of Zolthan | 32967 | [32967-dungeon-of-zolthan.json](./32967-dungeon-of-zolthan.json) |
+| Dungeon Origins | 128904 | [128904-dungeon-origins.json](./128904-dungeon-origins.json) |
 | Dungeon Overdose | 342026 | [342026-dungeon-overdose.json](./342026-dungeon-overdose.json) |
 | Dungeon Overlord | 65261 | [65261-dungeon-overlord.json](./65261-dungeon-overlord.json) |
 | Dungeon Overseer | 163017 | [163017-dungeon-overseer.json](./163017-dungeon-overseer.json) |
