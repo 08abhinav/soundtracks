@@ -443,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quattro Arcade | 48217 | [48217-quattro-arcade.json](./48217-quattro-arcade.json) |
 | Quattro Combat | 72124 | [72124-quattro-combat.json](./72124-quattro-combat.json) |
 | Quattro Megastars | 94322 | [94322-quattro-megastars.json](./94322-quattro-megastars.json) |
+| Quattro Racers | 94645 | [94645-quattro-racers.json](./94645-quattro-racers.json) |
 | Quattro Skills | 71815 | [71815-quattro-skills.json](./71815-quattro-skills.json) |
 | Quattro Sports | 48216 | [48216-quattro-sports.json](./48216-quattro-sports.json) |
 | Quattro Super Hits | 57617 | [57617-quattro-super-hits.json](./57617-quattro-super-hits.json) |
@@ -495,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen of Seas 2 | 102347 | [102347-queen-of-seas-2.json](./102347-queen-of-seas-2.json) |
 | Queen of Succubus | 82751 | [82751-queen-of-succubus.json](./82751-queen-of-succubus.json) |
 | Queen of Tactics | 272259 | [272259-queen-of-tactics.json](./272259-queen-of-tactics.json) |
+| Queen of Tenshindo 95 | 94657 | [94657-queen-of-tenshindo-95.json](./94657-queen-of-tenshindo-95.json) |
 | Queen of the Court | 209749 | [209749-queen-of-the-court.json](./209749-queen-of-the-court.json) |
 | Queen of The Hill | 306061 | [306061-queen-of-the-hill.json](./306061-queen-of-the-hill.json) |
 | Queen of the Pack | 161577 | [161577-queen-of-the-pack.json](./161577-queen-of-the-pack.json) |
@@ -649,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Questlike: Pocket - Monster Hunt | 204228 | [204228-questlike-pocket-monster-hunt.json](./204228-questlike-pocket-monster-hunt.json) |
 | QuestLord | 38895 | [38895-questlord.json](./38895-questlord.json) |
 | QuestMania | 79305 | [79305-questmania.json](./79305-questmania.json) |
+| Questmore | 95970 | [95970-questmore.json](./95970-questmore.json) |
 | Questor's Quest | 59693 | [59693-questors-quest.json](./59693-questors-quest.json) |
 | Questprobe featuring The Hulk | 12934 | [12934-questprobe-featuring-the-hulk.json](./12934-questprobe-featuring-the-hulk.json) |
 | Questris | 413871 | [413871-questris.json](./413871-questris.json) |
