@@ -3318,6 +3318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beanrise | 322273 | [322273-beanrise.json](./322273-beanrise.json) |
 | Beans Dash | 256255 | [256255-beans-dash.json](./256255-beans-dash.json) |
 | BeanShooter | 256359 | [256359-beanshooter.json](./256359-beanshooter.json) |
+| Beanstalker | 94648 | [94648-beanstalker.json](./94648-beanstalker.json) |
 | Beany Bopper | 11138 | [11138-beany-bopper.json](./11138-beany-bopper.json) |
 | Bear & Breakfast | 136772 | [136772-bear-and-breakfast.json](./136772-bear-and-breakfast.json) |
 | Bear Adventure | 370762 | [370762-bear-adventure.json](./370762-bear-adventure.json) |
@@ -6818,6 +6819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitzkrieg May 1940 | 15702 | [15702-blitzkrieg-may-1940.json](./15702-blitzkrieg-may-1940.json) |
 | Blitzkrieg: Battle at the Ardennes | 14318 | [14318-blitzkrieg-battle-at-the-ardennes.json](./14318-blitzkrieg-battle-at-the-ardennes.json) |
 | Blitzkrieg: Complete Collection | 52652 | [52652-blitzkrieg-complete-collection.json](./52652-blitzkrieg-complete-collection.json) |
+| Blitzkrieg: Green Devils | 94654 | [94654-blitzkrieg-green-devils.json](./94654-blitzkrieg-green-devils.json) |
 | Blitzkrieg: Iron Division | 11264 | [11264-blitzkrieg-iron-division.json](./11264-blitzkrieg-iron-division.json) |
 | Blitzkrieg: Mission Barbarossa | 55956 | [55956-blitzkrieg-mission-barbarossa.json](./55956-blitzkrieg-mission-barbarossa.json) |
 | Blitzkrieg: Mission Kursk | 55958 | [55958-blitzkrieg-mission-kursk.json](./55958-blitzkrieg-mission-kursk.json) |
@@ -8631,6 +8633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookworm HD | 354964 | [354964-bookworm-hd.json](./354964-bookworm-hd.json) |
 | Bookworm Wordy Wonder Bundle | 196003 | [196003-bookworm-wordy-wonder-bundle.json](./196003-bookworm-wordy-wonder-bundle.json) |
 | Bookyman | 229061 | [229061-bookyman.json](./229061-bookyman.json) |
+| Bool | 94627 | [94627-bool.json](./94627-bool.json) |
 | Bool Capture | 347881 | [347881-bool-capture.json](./347881-bool-capture.json) |
 | Boolean | 129217 | [129217-boolean.json](./129217-boolean.json) |
 | Boolitaire | 175193 | [175193-boolitaire.json](./175193-boolitaire.json) |
@@ -11467,6 +11470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bump Jump | 210670 | [210670-bump-jump.json](./210670-bump-jump.json) |
 | Bump Jump | 246319 | [246319-bump-jump.json](./246319-bump-jump.json) |
 | Bump N' Run | 221896 | [221896-bump-n-run.json](./221896-bump-n-run.json) |
+| Bump Over | 94655 | [94655-bump-over.json](./94655-bump-over.json) |
 | Bump.io: Arena of Bumper | 106960 | [106960-bump-io-arena-of-bumper.json](./106960-bump-io-arena-of-bumper.json) |
 | Bumparound | 181673 | [181673-bumparound.json](./181673-bumparound.json) |
 | Bumper | 31845 | [31845-bumper.json](./31845-bumper.json) |
