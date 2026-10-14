@@ -7620,6 +7620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Defense 2 | 10785 | [10785-royal-defense-2.json](./10785-royal-defense-2.json) |
 | Royal Defense: Ancient Menace | 337586 | [337586-royal-defense-ancient-menace.json](./337586-royal-defense-ancient-menace.json) |
 | Royal Detective: Incident at Ashford | 355553 | [355553-royal-detective-incident-at-ashford.json](./355553-royal-detective-incident-at-ashford.json) |
+| Royal Detective: Legend of the Golem | 102694 | [102694-royal-detective-legend-of-the-golem.json](./102694-royal-detective-legend-of-the-golem.json) |
 | Royal Dice: Random Defense | 174810 | [174810-royal-dice-random-defense.json](./174810-royal-dice-random-defense.json) |
 | Royal Duality | 191515 | [191515-royal-duality.json](./191515-royal-duality.json) |
 | Royal Dungeon | 205605 | [205605-royal-dungeon.json](./205605-royal-dungeon.json) |
@@ -7739,6 +7740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPS: The Escape | 410467 | [410467-rps-the-escape.json](./410467-rps-the-escape.json) |
 | RpVoid | 354505 | [354505-rpvoid.json](./354505-rpvoid.json) |
 | Rrggbb | 178004 | [178004-rrggbb.json](./178004-rrggbb.json) |
+| RRO Drive 3D | 102686 | [102686-rro-drive-3d.json](./102686-rro-drive-3d.json) |
 | rRootage | 25169 | [25169-rrootage.json](./25169-rrootage.json) |
 | Rrootage Reloaded | 187358 | [187358-rrootage-reloaded.json](./187358-rrootage-reloaded.json) |
 | Rrrr | 112768 | [112768-rrrr.json](./112768-rrrr.json) |
