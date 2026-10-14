@@ -1864,6 +1864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerf: Battle Arena | 197329 | [197329-nerf-battle-arena.json](./197329-nerf-battle-arena.json) |
 | Nerl's Crazy C"rough"t! | 311598 | [311598-nerls-crazy-c-rough-t.json](./311598-nerls-crazy-c-rough-t.json) |
 | Nero | 156570 | [156570-nero.json](./156570-nero.json) |
+| Nero E Rosso ~Kane no Tame ni Kane wa Naru 2 | 82686 | [82686-nero-e-rosso-kane-no-tame-ni-kane-wa-naru-2.json](./82686-nero-e-rosso-kane-no-tame-ni-kane-wa-naru-2.json) |
 | NERO: Neuro-Evolving Robotic Operatives | 7616 | [7616-nero-neuro-evolving-robotic-operatives.json](./7616-nero-neuro-evolving-robotic-operatives.json) |
 | Nerobi | 300485 | [300485-nerobi.json](./300485-nerobi.json) |
 | Nerraia | 192270 | [192270-nerraia.json](./192270-nerraia.json) |
@@ -3723,6 +3724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nip for Speed 2: Searching for Pussy | 342067 | [342067-nip-for-speed-2-searching-for-pussy.json](./342067-nip-for-speed-2-searching-for-pussy.json) |
 | NIPA | 336643 | [336643-nipa.json](./336643-nipa.json) |
 | Niplheim's Hunter - Branded Azel | 112834 | [112834-niplheims-hunter-branded-azel.json](./112834-niplheims-hunter-branded-azel.json) |
+| Niplheim's Hunter: Branded Azel | 82732 | [82732-niplheims-hunter-branded-azel.json](./82732-niplheims-hunter-branded-azel.json) |
 | Niplob Adventure | 225726 | [225726-niplob-adventure.json](./225726-niplob-adventure.json) |
 | Nippets | 326613 | [326613-nippets.json](./326613-nippets.json) |
 | Nippon Daihyou Team: Eikou no Eleven | 65031 | [65031-nippon-daihyou-team-eikou-no-eleven.json](./65031-nippon-daihyou-team-eikou-no-eleven.json) |
@@ -4101,6 +4103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noble Fates | 183602 | [183602-noble-fates.json](./183602-noble-fates.json) |
 | Noble in Exile | 113580 | [113580-noble-in-exile.json](./113580-noble-in-exile.json) |
 | Noble Knight | 263191 | [263191-noble-knight.json](./263191-noble-knight.json) |
+| Noble Knightess of the Lewd Seal | 82688 | [82688-noble-knightess-of-the-lewd-seal.json](./82688-noble-knightess-of-the-lewd-seal.json) |
 | Noble Legacy | 347284 | [347284-noble-legacy.json](./347284-noble-legacy.json) |
 | Noble Racing | 118870 | [118870-noble-racing.json](./118870-noble-racing.json) |
 | Noble Steed | 379039 | [379039-noble-steed.json](./379039-noble-steed.json) |
