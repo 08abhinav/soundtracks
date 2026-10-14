@@ -1955,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oni's Tale | 323431 | [323431-onis-tale.json](./323431-onis-tale.json) |
 | Onibi | 298412 | [298412-onibi.json](./298412-onibi.json) |
 | Onibito Kiki | 324857 | [324857-onibito-kiki.json](./324857-onibito-kiki.json) |
+| OniBushi VR | 96641 | [96641-onibushi-vr.json](./96641-onibushi-vr.json) |
 | Onigami | 184562 | [184562-onigami.json](./184562-onigami.json) |
 | Onigami Korinden Oni | 67612 | [67612-onigami-korinden-oni.json](./67612-onigami-korinden-oni.json) |
 | Onigashima: Awakening | 406103 | [406103-onigashima-awakening.json](./406103-onigashima-awakening.json) |
