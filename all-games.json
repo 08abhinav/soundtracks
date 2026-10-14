@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-14T18:51:14.025Z",
-  "total_soundtracks": 1641,
+  "generated_at": "2026-10-14T18:51:29.334Z",
+  "total_soundtracks": 1642,
   "games": [
     {
       "igdb_id": 7522,
@@ -9203,6 +9203,20 @@
           "spotify_url": "https://music.apple.com/us/album/legacy-of-kain-soul-reaver-the-dead-shall-rise/1871224645?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1871224645"
+        }
+      ]
+    },
+    {
+      "igdb_id": 7049,
+      "game_name": "Legendary",
+      "game_url": "https://ostdb.net/games/legendary",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fb6042f1742e22f898831c4b",
+      "albums": [
+        {
+          "album_name": "Legendary Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/4nRiGFz0rzkP6G7wVHbVC5",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
