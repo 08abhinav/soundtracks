@@ -2011,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scholastic Brain Play: Preschool - 1st Grade | 167276 | [167276-scholastic-brain-play-preschool-1st-grade.json](./167276-scholastic-brain-play-preschool-1st-grade.json) |
 | School Bathroom | 346559 | [346559-school-bathroom.json](./346559-school-bathroom.json) |
 | School Booster | 263052 | [263052-school-booster.json](./263052-school-booster.json) |
+| School Bubbles | 107027 | [107027-school-bubbles.json](./107027-school-bubbles.json) |
 | School Bus Driver Simulator | 199355 | [199355-school-bus-driver-simulator.json](./199355-school-bus-driver-simulator.json) |
 | School Bus Driving Simulator | 259031 | [259031-school-bus-driving-simulator.json](./259031-school-bus-driving-simulator.json) |
 | School Bus Frenzy | 394194 | [394194-school-bus-frenzy.json](./394194-school-bus-frenzy.json) |
@@ -14391,6 +14392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Sense Spider-Man: Web-Master | 220111 | [220111-spider-sense-spider-man-web-master.json](./220111-spider-sense-spider-man-web-master.json) |
 | Spider: Gang City Hero | 93705 | [93705-spider-gang-city-hero.json](./93705-spider-gang-city-hero.json) |
 | Spider: The Video Game | 45034 | [45034-spider-the-video-game.json](./45034-spider-the-video-game.json) |
+| Spider! | 107042 | [107042-spider.json](./107042-spider.json) |
 | Spider's Hollow | 184358 | [184358-spiders-hollow.json](./184358-spiders-hollow.json) |
 | Spiderbot | 22264 | [22264-spiderbot.json](./22264-spiderbot.json) |
 | Spiderbro 2 | 298042 | [298042-spiderbro-2.json](./298042-spiderbro-2.json) |
@@ -16426,6 +16428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wolves 3: Civil War | 9851 | [9851-star-wolves-3-civil-war.json](./9851-star-wolves-3-civil-war.json) |
 | Star Word | 318784 | [318784-star-word.json](./318784-star-word.json) |
 | Star Zeal 4x | 195975 | [195975-star-zeal-4x.json](./195975-star-zeal-4x.json) |
+| Star Zone | 107033 | [107033-star-zone.json](./107033-star-zone.json) |
 | Star-blaze | 15377 | [15377-star-blaze.json](./15377-star-blaze.json) |
 | Star-Crossed Myth: The Department of Punishments | 123451 | [123451-star-crossed-myth-the-department-of-punishments.json](./123451-star-crossed-myth-the-department-of-punishments.json) |
 | Star-Crossed Myth: The Department of Punishments - Constellations of Love: Dui | 238070 | [238070-star-crossed-myth-the-department-of-punishments-constellations-of-love-dui.json](./238070-star-crossed-myth-the-department-of-punishments-constellations-of-love-dui.json) |
@@ -22352,6 +22355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLite 2000: Tokyo Bus Annai Kyou kara Kimi mo Untenshu | 56547 | [56547-superlite-2000-tokyo-bus-annai-kyou-kara-kimi-mo-untenshu.json](./56547-superlite-2000-tokyo-bus-annai-kyou-kara-kimi-mo-untenshu.json) |
 | SuperLite 3in1 Series: Nankuro Shuu | 386217 | [386217-superlite-3in1-series-nankuro-shuu.json](./386217-superlite-3in1-series-nankuro-shuu.json) |
 | SuperLite 3in1: Arcade Game Shuu | 97299 | [97299-superlite-3in1-arcade-game-shuu.json](./97299-superlite-3in1-arcade-game-shuu.json) |
+| Superluminal: A Universe Sandbox | 107032 | [107032-superluminal-a-universe-sandbox.json](./107032-superluminal-a-universe-sandbox.json) |
 | SuperLuminauts | 54490 | [54490-superluminauts.json](./54490-superluminauts.json) |
 | Superlunary: Episode 1.0 | 136873 | [136873-superlunary-episode-1-0.json](./136873-superlunary-episode-1-0.json) |
 | Superman | 131546 | [131546-superman.json](./131546-superman.json) |
@@ -23609,6 +23613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword King | 119426 | [119426-sword-king.json](./119426-sword-king.json) |
 | Sword Lake | 301631 | [301631-sword-lake.json](./301631-sword-lake.json) |
 | Sword Maker | 191095 | [191095-sword-maker.json](./191095-sword-maker.json) |
+| Sword Man - Monster Hunter | 107026 | [107026-sword-man-monster-hunter.json](./107026-sword-man-monster-hunter.json) |
 | Sword Mans | 90211 | [90211-sword-mans.json](./90211-sword-mans.json) |
 | Sword Master | 69900 | [69900-sword-master.json](./69900-sword-master.json) |
 | Sword Master Story | 140896 | [140896-sword-master-story.json](./140896-sword-master-story.json) |
