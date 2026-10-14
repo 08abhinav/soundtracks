@@ -2792,8 +2792,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lewd Mod 2 | 356871 | [356871-lewd-mod-2.json](./356871-lewd-mod-2.json) |
 | Lewd Mod: Noir | 356876 | [356876-lewd-mod-noir.json](./356876-lewd-mod-noir.json) |
 | Lewd Puzzle | 368111 | [368111-lewd-puzzle.json](./368111-lewd-puzzle.json) |
+| LewDemon Academy: Student Council President Ayaka's RPG Struggle | 82675 | [82675-lewdemon-academy-student-council-president-ayakas-rpg-struggle.json](./82675-lewdemon-academy-student-council-president-ayakas-rpg-struggle.json) |
 | Lewdle | 197867 | [197867-lewdle.json](./197867-lewdle.json) |
 | LewdQuest | 149433 | [149433-lewdquest.json](./149433-lewdquest.json) |
+| LewdTrap Mansion: Escape of the Captive Girl Elena | 82700 | [82700-lewdtrap-mansion-escape-of-the-captive-girl-elena.json](./82700-lewdtrap-mansion-escape-of-the-captive-girl-elena.json) |
 | Lewis & Clark Expedition | 211781 | [211781-lewis-and-clark-expedition.json](./211781-lewis-and-clark-expedition.json) |
 | Lewis Carroll's Alice | 208824 | [208824-lewis-carrolls-alice.json](./208824-lewis-carrolls-alice.json) |
 | Lewis Quest | 337085 | [337085-lewis-quest.json](./337085-lewis-quest.json) |
@@ -3067,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Simulator | 231930 | [231930-life-simulator.json](./231930-life-simulator.json) |
 | Life Simulator | 360186 | [360186-life-simulator.json](./360186-life-simulator.json) |
 | Life Simulator 2 | 296757 | [296757-life-simulator-2.json](./296757-life-simulator-2.json) |
+| Life Simulator of You, a Married Woman Seduced | 82680 | [82680-life-simulator-of-you-a-married-woman-seduced.json](./82680-life-simulator-of-you-a-married-woman-seduced.json) |
 | Life source | 117093 | [117093-life-source.json](./117093-life-source.json) |
 | Life Stage, Virtual House | 37122 | [37122-life-stage-virtual-house.json](./37122-life-stage-virtual-house.json) |
 | Life The Game | 326720 | [326720-life-the-game.json](./326720-life-the-game.json) |
@@ -3417,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lili | 63277 | [63277-lili.json](./63277-lili.json) |
 | Lili:Miesta | 77682 | [77682-lili-miesta.json](./77682-lili-miesta.json) |
 | Lilia | 362325 | [362325-lilia.json](./362325-lilia.json) |
+| Lilia's Livelihood: Girl, Tentacle and the Wonder Island | 82653 | [82653-lilias-livelihood-girl-tentacle-and-the-wonder-island.json](./82653-lilias-livelihood-girl-tentacle-and-the-wonder-island.json) |
 | Lilialette's Hustle: Getting My Hands Dirty to Save My Guild | 371445 | [371445-lilialettes-hustle-getting-my-hands-dirty-to-save-my-guild.json](./371445-lilialettes-hustle-getting-my-hands-dirty-to-save-my-guild.json) |
 | Lilian: The beginning of the end | 183038 | [183038-lilian-the-beginning-of-the-end.json](./183038-lilian-the-beginning-of-the-end.json) |
 | Lilim Wants to Lv Up | 275138 | [275138-lilim-wants-to-lv-up.json](./275138-lilim-wants-to-lv-up.json) |
