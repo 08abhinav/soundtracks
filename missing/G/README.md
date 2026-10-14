@@ -2492,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost in the Shell | 8336 | [8336-ghost-in-the-shell.json](./8336-ghost-in-the-shell.json) |
 | Ghost in the Shell GBC | 400490 | [400490-ghost-in-the-shell-gbc.json](./400490-ghost-in-the-shell-gbc.json) |
 | Ghost in the Shell: Arise - Stealth Hounds | 52005 | [52005-ghost-in-the-shell-arise-stealth-hounds.json](./52005-ghost-in-the-shell-arise-stealth-hounds.json) |
+| Ghost in the Shell: Stand Alone Complex | 114138 | [114138-ghost-in-the-shell-stand-alone-complex.json](./114138-ghost-in-the-shell-stand-alone-complex.json) |
 | Ghost in the Shell: Stand Alone Complex | 81448 | [81448-ghost-in-the-shell-stand-alone-complex.json](./81448-ghost-in-the-shell-stand-alone-complex.json) |
 | Ghost in the Shell: Stand Alone Complex - First Assault Online | 35255 | [35255-ghost-in-the-shell-stand-alone-complex-first-assault-online.json](./35255-ghost-in-the-shell-stand-alone-complex-first-assault-online.json) |
 | Ghost in the SQL Data | 414822 | [414822-ghost-in-the-sql-data.json](./414822-ghost-in-the-sql-data.json) |
