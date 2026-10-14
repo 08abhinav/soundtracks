@@ -535,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxium | 123908 | [123908-galaxium.json](./123908-galaxium.json) |
 | GalaxIverse | 31881 | [31881-galaxiverse.json](./31881-galaxiverse.json) |
 | GalaxIverse II | 304895 | [304895-galaxiverse-ii.json](./304895-galaxiverse-ii.json) |
+| Galaxoid: A Retro Space Shooter | 95909 | [95909-galaxoid-a-retro-space-shooter.json](./95909-galaxoid-a-retro-space-shooter.json) |
 | GalaxSeed | 97714 | [97714-galaxseed.json](./97714-galaxseed.json) |
 | Galaxy | 154578 | [154578-galaxy.json](./154578-galaxy.json) |
 | Galaxy | 217776 | [217776-galaxy.json](./217776-galaxy.json) |
@@ -5637,6 +5638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graviteam Tactics: Operation Star - Zhalanashkol 1969 | 54061 | [54061-graviteam-tactics-operation-star-zhalanashkol-1969.json](./54061-graviteam-tactics-operation-star-zhalanashkol-1969.json) |
 | Gravitee 2 | 293351 | [293351-gravitee-2.json](./293351-gravitee-2.json) |
 | Gravitee Wars | 245575 | [245575-gravitee-wars.json](./245575-gravitee-wars.json) |
+| Gravitee Wars Online | 95940 | [95940-gravitee-wars-online.json](./95940-gravitee-wars-online.json) |
 | Gravitia | 285909 | [285909-gravitia.json](./285909-gravitia.json) |
 | Graviton | 122382 | [122382-graviton.json](./122382-graviton.json) |
 | Graviton Flux | 371957 | [371957-graviton-flux.json](./371957-graviton-flux.json) |
