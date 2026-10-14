@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachinko Wars | 42230 | [42230-pachinko-wars.json](./42230-pachinko-wars.json) |
 | Pachinko Wars 2 | 42229 | [42229-pachinko-wars-2.json](./42229-pachinko-wars-2.json) |
 | Pachinko With Nick | 184121 | [184121-pachinko-with-nick.json](./184121-pachinko-with-nick.json) |
+| Pachinko! | 80433 | [80433-pachinko.json](./80433-pachinko.json) |
 | Pachio-kun 3: Pachi-Slot & Pachinko | 59507 | [59507-pachio-kun-3-pachi-slot-and-pachinko.json](./59507-pachio-kun-3-pachi-slot-and-pachinko.json) |
 | Pachio-kun FX: Maboroshi no Shima Daikessen | 59519 | [59519-pachio-kun-fx-maboroshi-no-shima-daikessen.json](./59519-pachio-kun-fx-maboroshi-no-shima-daikessen.json) |
 | Pachio-kun Game Gallery | 86125 | [86125-pachio-kun-game-gallery.json](./86125-pachio-kun-game-gallery.json) |
@@ -7166,6 +7167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | POI: VR Dance | 250879 | [250879-poi-vr-dance.json](./250879-poi-vr-dance.json) |
 | Poibos Part 1: Dasshutsu | 298547 | [298547-poibos-part-1-dasshutsu.json](./298547-poibos-part-1-dasshutsu.json) |
 | Poing | 94331 | [94331-poing.json](./94331-poing.json) |
+| Poing 6 | 80385 | [80385-poing-6.json](./80385-poing-6.json) |
 | Poinie's Poin | 56153 | [56153-poinies-poin.json](./56153-poinies-poin.json) |
 | Poinpy | 204454 | [204454-poinpy.json](./204454-poinpy.json) |
 | Point | 97929 | [97929-point.json](./97929-point.json) |
@@ -7843,6 +7845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Superstars: Invitational Tournament | 61699 | [61699-poker-superstars-invitational-tournament.json](./61699-poker-superstars-invitational-tournament.json) |
 | Poker Supreme: Las Vegas | 174099 | [174099-poker-supreme-las-vegas.json](./174099-poker-supreme-las-vegas.json) |
 | Poker TD | 390103 | [390103-poker-td.json](./390103-poker-td.json) |
+| Poker Tournament | 80399 | [80399-poker-tournament.json](./80399-poker-tournament.json) |
 | Poker Tower Defense | 197710 | [197710-poker-tower-defense.json](./197710-poker-tower-defense.json) |
 | Poker Train | 320148 | [320148-poker-train.json](./320148-poker-train.json) |
 | Poker World | 55683 | [55683-poker-world.json](./55683-poker-world.json) |
