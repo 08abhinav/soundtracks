@@ -4246,6 +4246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle for Sector 219 | 33184 | [33184-the-battle-for-sector-219.json](./33184-the-battle-for-sector-219.json) |
 | The Battle for the Hut | 99671 | [99671-the-battle-for-the-hut.json](./99671-the-battle-for-the-hut.json) |
 | The Battle for Vega | 250838 | [250838-the-battle-for-vega.json](./250838-the-battle-for-vega.json) |
+| The Battle of Ages | 107725 | [107725-the-battle-of-ages.json](./107725-the-battle-of-ages.json) |
 | The Battle of Angels | 156603 | [156603-the-battle-of-angels.json](./156603-the-battle-of-angels.json) |
 | The Battle of Aurinoxia | 304368 | [304368-the-battle-of-aurinoxia.json](./304368-the-battle-of-aurinoxia.json) |
 | The Battle of Embers | 287206 | [287206-the-battle-of-embers.json](./287206-the-battle-of-embers.json) |
@@ -4488,6 +4489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blocks Cometh | 66103 | [66103-the-blocks-cometh.json](./66103-the-blocks-cometh.json) |
 | The Blocks Returneth | 298826 | [298826-the-blocks-returneth.json](./298826-the-blocks-returneth.json) |
 | The Blogger: Pumpkins and Witches | 365547 | [365547-the-blogger-pumpkins-and-witches.json](./365547-the-blogger-pumpkins-and-witches.json) |
+| The Bloobles and the Quest for Chocolate | 107704 | [107704-the-bloobles-and-the-quest-for-chocolate.json](./107704-the-bloobles-and-the-quest-for-chocolate.json) |
 | The Blood Amulet | 219548 | [219548-the-blood-amulet.json](./219548-the-blood-amulet.json) |
 | The Blood Eclipse | 110826 | [110826-the-blood-eclipse.json](./110826-the-blood-eclipse.json) |
 | The Blood of Dawnwalker: Day 1 Edition | 416088 | [416088-the-blood-of-dawnwalker-day-1-edition.json](./416088-the-blood-of-dawnwalker-day-1-edition.json) |
@@ -12479,6 +12481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The VR Canyon | 126660 | [126660-the-vr-canyon.json](./126660-the-vr-canyon.json) |
 | The VR Idol lives next door!? | 303279 | [303279-the-vr-idol-lives-next-door.json](./303279-the-vr-idol-lives-next-door.json) |
 | The VR Museum of Fine Art | 31662 | [31662-the-vr-museum-of-fine-art.json](./31662-the-vr-museum-of-fine-art.json) |
+| The Vrennman Case | 107721 | [107721-the-vrennman-case.json](./107721-the-vrennman-case.json) |
 | The VTuber Summit | 235342 | [235342-the-vtuber-summit.json](./235342-the-vtuber-summit.json) |
 | The Wacky World of Miniature Golf | 45905 | [45905-the-wacky-world-of-miniature-golf.json](./45905-the-wacky-world-of-miniature-golf.json) |
 | The Wagadu Chronicles | 241973 | [241973-the-wagadu-chronicles.json](./241973-the-wagadu-chronicles.json) |
@@ -17256,6 +17259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topografie Nederland | 86027 | [86027-topografie-nederland.json](./86027-topografie-nederland.json) |
 | Topography | 142229 | [142229-topography.json](./142229-topography.json) |
 | Topolino amico delle guardie | 246664 | [246664-topolino-amico-delle-guardie.json](./246664-topolino-amico-delle-guardie.json) |
+| ToPoLo | 107616 | [107616-topolo.json](./107616-topolo.json) |
 | Topoloco | 84946 | [84946-topoloco.json](./84946-topoloco.json) |
 | Topolon | 290338 | [290338-topolon.json](./290338-topolon.json) |
 | Topper | 42169 | [42169-topper.json](./42169-topper.json) |
