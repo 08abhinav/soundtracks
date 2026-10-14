@@ -5562,6 +5562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Dealer Simulator | 253571 | [253571-road-dealer-simulator.json](./253571-road-dealer-simulator.json) |
 | Road Diner Simulator | 190463 | [190463-road-diner-simulator.json](./190463-road-diner-simulator.json) |
 | Road Domination | 236860 | [236860-road-domination.json](./236860-road-domination.json) |
+| Road Doom | 108308 | [108308-road-doom.json](./108308-road-doom.json) |
 | Road Drawing 3D | 262337 | [262337-road-drawing-3d.json](./262337-road-drawing-3d.json) |
 | Road Fighter | 4607 | [4607-road-fighter.json](./4607-road-fighter.json) |
 | Road Hell | 317564 | [317564-road-hell.json](./317564-road-hell.json) |
@@ -6203,6 +6204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Control | 242478 | [242478-rocket-control.json](./242478-rocket-control.json) |
 | Rocket Cows | 195730 | [195730-rocket-cows.json](./195730-rocket-cows.json) |
 | Rocket Crowbar | 307353 | [307353-rocket-crowbar.json](./307353-rocket-crowbar.json) |
+| Rocket Dodge | 108219 | [108219-rocket-dodge.json](./108219-rocket-dodge.json) |
 | Rocket Drift - Extreme gravity adventure | 25582 | [25582-rocket-drift-extreme-gravity-adventure.json](./25582-rocket-drift-extreme-gravity-adventure.json) |
 | Rocket Engineer | 297204 | [297204-rocket-engineer.json](./297204-rocket-engineer.json) |
 | Rocket Escape | 226940 | [226940-rocket-escape.json](./226940-rocket-escape.json) |
