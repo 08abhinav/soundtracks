@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1/16384 | 411764 | [411764-1-16384.json](./411764-1-16384.json) |
 | 1/2 Blood | 98422 | [98422-1-2-blood.json](./98422-1-2-blood.json) |
 | 1/2 Red Riding Hood | 190045 | [190045-1-2-red-riding-hood.json](./190045-1-2-red-riding-hood.json) |
+| 1/2 Summer | 98415 | [98415-1-2-summer.json](./98415-1-2-summer.json) |
 | 1% Survival Escape | 210836 | [210836-1-survival-escape.json](./210836-1-survival-escape.json) |
 | 10 | 294440 | [294440-10.json](./294440-10.json) |
 | 10 AM Funkin' | 202586 | [202586-10-am-funkin.json](./202586-10-am-funkin.json) |
@@ -716,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13 Laurel Road | 177834 | [177834-13-laurel-road.json](./177834-13-laurel-road.json) |
 | 13 Letters | 98416 | [98416-13-letters.json](./98416-13-letters.json) |
 | 13 Masca | 405725 | [405725-13-masca.json](./405725-13-masca.json) |
+| 13 Minutes of Light | 98413 | [98413-13-minutes-of-light.json](./98413-13-minutes-of-light.json) |
 | 13 Page | 201304 | [201304-13-page.json](./201304-13-page.json) |
 | 13 Puzzle Rooms | 134374 | [134374-13-puzzle-rooms.json](./134374-13-puzzle-rooms.json) |
 | 13 Rosas | 270620 | [270620-13-rosas.json](./270620-13-rosas.json) |
