@@ -1912,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Her Head | 276846 | [276846-in-her-head.json](./276846-in-her-head.json) |
 | In Hindsight | 179503 | [179503-in-hindsight.json](./179503-in-hindsight.json) |
 | In Hope Voiden | 350022 | [350022-in-hope-voiden.json](./350022-in-hope-voiden.json) |
+| In League | 103952 | [103952-in-league.json](./103952-in-league.json) |
 | In Light | 68278 | [68278-in-light.json](./68278-in-light.json) |
 | In Memoriam | 303586 | [303586-in-memoriam.json](./303586-in-memoriam.json) |
 | In Memory of Mrs Frog | 416595 | [416595-in-memory-of-mrs-frog.json](./416595-in-memory-of-mrs-frog.json) |
