@@ -10613,6 +10613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bruce and Box | 300777 | [300777-bruce-and-box.json](./300777-bruce-and-box.json) |
 | Bruce Campbell vs Ganon | 251701 | [251701-bruce-campbell-vs-ganon.json](./251701-bruce-campbell-vs-ganon.json) |
 | Bruce Lee | 13447 | [13447-bruce-lee.json](./13447-bruce-lee.json) |
+| Bruce Lee Dragon Run | 103926 | [103926-bruce-lee-dragon-run.json](./103926-bruce-lee-dragon-run.json) |
 | Bruce Lee: Dragon Warrior HD | 66740 | [66740-bruce-lee-dragon-warrior-hd.json](./66740-bruce-lee-dragon-warrior-hd.json) |
 | Bruce Lee: Quest of the Dragon | 5758 | [5758-bruce-lee-quest-of-the-dragon.json](./5758-bruce-lee-quest-of-the-dragon.json) |
 | Bruce Lee: Return of Fury | 177798 | [177798-bruce-lee-return-of-fury.json](./177798-bruce-lee-return-of-fury.json) |
