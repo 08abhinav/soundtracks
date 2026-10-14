@@ -6087,6 +6087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planescape Torment: Enhanced Edition - Digital Deluxe | 53462 | [53462-planescape-torment-enhanced-edition-digital-deluxe.json](./53462-planescape-torment-enhanced-edition-digital-deluxe.json) |
 | Planescape: The Shaper of Dreams | 369227 | [369227-planescape-the-shaper-of-dreams.json](./369227-planescape-the-shaper-of-dreams.json) |
 | PlaneShift | 84309 | [84309-planeshift.json](./84309-planeshift.json) |
+| Planet 2000 | 99523 | [99523-planet-2000.json](./99523-planet-2000.json) |
 | Planet After Us | 195613 | [195613-planet-after-us.json](./195613-planet-after-us.json) |
 | Planet Alcatraz | 36385 | [36385-planet-alcatraz.json](./36385-planet-alcatraz.json) |
 | Planet Alcatraz 2 | 34779 | [34779-planet-alcatraz-2.json](./34779-planet-alcatraz-2.json) |
@@ -6816,6 +6817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pluto's Island | 190938 | [190938-plutos-island.json](./190938-plutos-island.json) |
 | Pluto's Sheep-Dog Day | 246516 | [246516-plutos-sheep-dog-day.json](./246516-plutos-sheep-dog-day.json) |
 | Pluto's Tears | 176974 | [176974-plutos-tears.json](./176974-plutos-tears.json) |
+| Plutobi: The Dwarf Planet Tales | 99514 | [99514-plutobi-the-dwarf-planet-tales.json](./99514-plutobi-the-dwarf-planet-tales.json) |
 | Plutonia 1024: The Plutinya Exeriment | 269468 | [269468-plutonia-1024-the-plutinya-exeriment.json](./269468-plutonia-1024-the-plutinya-exeriment.json) |
 | Plutonia 3: Going to Surface | 260951 | [260951-plutonia-3-going-to-surface.json](./260951-plutonia-3-going-to-surface.json) |
 | Plutonia 4: Back to Your Hole | 260952 | [260952-plutonia-4-back-to-your-hole.json](./260952-plutonia-4-back-to-your-hole.json) |
