@@ -1696,6 +1696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Plane 3: Canyon Scenario | 167718 | [167718-rc-plane-3-canyon-scenario.json](./167718-rc-plane-3-canyon-scenario.json) |
 | RC Plane VR | 129065 | [129065-rc-plane-vr.json](./129065-rc-plane-vr.json) |
 | RC Racers II | 71728 | [71728-rc-racers-ii.json](./71728-rc-racers-ii.json) |
+| RC Racing - Off Road | 91878 | [91878-rc-racing-off-road.json](./91878-rc-racing-off-road.json) |
 | RC Racing Off Road 2.0 | 32233 | [32233-rc-racing-off-road-2-0.json](./32233-rc-racing-off-road-2-0.json) |
 | RC Revenge Pro | 43253 | [43253-rc-revenge-pro.json](./43253-rc-revenge-pro.json) |
 | RC Revolution | 247924 | [247924-rc-revolution.json](./247924-rc-revolution.json) |
@@ -1981,6 +1982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Pinball | 4266 | [4266-real-pinball.json](./4266-real-pinball.json) |
 | Real Play | 22484 | [22484-real-play.json](./22484-real-play.json) |
 | Real Play Golf | 43215 | [43215-real-play-golf.json](./43215-real-play-golf.json) |
+| Real Pool | 91838 | [91838-real-pool.json](./91838-real-pool.json) |
 | Real Pool 2 | 23460 | [23460-real-pool-2.json](./23460-real-pool-2.json) |
 | Real Pool 3D Plus | 175307 | [175307-real-pool-3d-plus.json](./175307-real-pool-3d-plus.json) |
 | Real Pro Yakyuu!: Central League-hen | 282573 | [282573-real-pro-yakyuu-central-league-hen.json](./282573-real-pro-yakyuu-central-league-hen.json) |
@@ -1998,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Scary | 117864 | [117864-real-scary.json](./117864-real-scary.json) |
 | Real School Girl Simulator | 296760 | [296760-real-school-girl-simulator.json](./296760-real-school-girl-simulator.json) |
 | Real Shot VR | 98477 | [98477-real-shot-vr.json](./98477-real-shot-vr.json) |
+| Real Soccer 2 | 91833 | [91833-real-soccer-2.json](./91833-real-soccer-2.json) |
 | Real Soccer 2007 | 116347 | [116347-real-soccer-2007.json](./116347-real-soccer-2007.json) |
 | Real Soccer 2009 | 20126 | [20126-real-soccer-2009.json](./20126-real-soccer-2009.json) |
 | Real Soccer 2011 | 116348 | [116348-real-soccer-2011.json](./116348-real-soccer-2011.json) |
@@ -6101,6 +6104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robzawar | 295395 | [295395-robzawar.json](./295395-robzawar.json) |
 | Roc 'N Rope | 25727 | [25727-roc-n-rope.json](./25727-roc-n-rope.json) |
 | Roc's Odyssey | 268954 | [268954-rocs-odyssey.json](./268954-rocs-odyssey.json) |
+| Rocats | 91872 | [91872-rocats.json](./91872-rocats.json) |
 | Roccio Quest | 326104 | [326104-roccio-quest.json](./326104-roccio-quest.json) |
 | Rocco | 78015 | [78015-rocco.json](./78015-rocco.json) |
 | Rocco's Inferno | 197147 | [197147-roccos-inferno.json](./197147-roccos-inferno.json) |
@@ -7852,6 +7856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubik's Cube VR | 112126 | [112126-rubiks-cube-vr.json](./112126-rubiks-cube-vr.json) |
 | Rubik's Games | 78886 | [78886-rubiks-games.json](./78886-rubiks-games.json) |
 | Rubix Roller | 153821 | [153821-rubix-roller.json](./153821-rubix-roller.json) |
+| Rubu Tribe | 91873 | [91873-rubu-tribe.json](./91873-rubu-tribe.json) |
 | Ruby and the Lost Crystals | 360581 | [360581-ruby-and-the-lost-crystals.json](./360581-ruby-and-the-lost-crystals.json) |
 | Ruby Crush | 270417 | [270417-ruby-crush.json](./270417-ruby-crush.json) |
 | Ruby Heart | 159871 | [159871-ruby-heart.json](./159871-ruby-heart.json) |
