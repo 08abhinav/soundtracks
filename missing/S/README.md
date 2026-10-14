@@ -2113,6 +2113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scientist Slaughterhouse | 221665 | [221665-scientist-slaughterhouse.json](./221665-scientist-slaughterhouse.json) |
 | Scifi Zombie | 316151 | [316151-scifi-zombie.json](./316151-scifi-zombie.json) |
 | Scikor Final Scale | 121743 | [121743-scikor-final-scale.json](./121743-scikor-final-scale.json) |
+| Scintillatron 4096 | 118701 | [118701-scintillatron-4096.json](./118701-scintillatron-4096.json) |
 | Scion | 25885 | [25885-scion.json](./25885-scion.json) |
 | Scions of Fate | 72656 | [72656-scions-of-fate.json](./72656-scions-of-fate.json) |
 | Scirocco Thugs | 336515 | [336515-scirocco-thugs.json](./336515-scirocco-thugs.json) |
@@ -4723,6 +4724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shake | 399840 | [399840-shake.json](./399840-shake.json) |
 | Shake Ground | 202659 | [202659-shake-ground.json](./202659-shake-ground.json) |
 | Shake Kids | 108959 | [108959-shake-kids.json](./108959-shake-kids.json) |
+| Shake That Controller! | 118702 | [118702-shake-that-controller.json](./118702-shake-that-controller.json) |
 | Shake the Baby! | 337068 | [337068-shake-the-baby.json](./337068-shake-the-baby.json) |
 | Shake Your Body | 128317 | [128317-shake-your-body.json](./128317-shake-your-body.json) |
 | Shakedown Rally | 287031 | [287031-shakedown-rally.json](./287031-shakedown-rally.json) |
@@ -17506,6 +17508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: Aquatics Species Pack | 218168 | [218168-stellaris-aquatics-species-pack.json](./218168-stellaris-aquatics-species-pack.json) |
 | Stellaris: Astral Planes | 272910 | [272910-stellaris-astral-planes.json](./272910-stellaris-astral-planes.json) |
 | Stellaris: BioGenesis | 336706 | [336706-stellaris-biogenesis.json](./336706-stellaris-biogenesis.json) |
+| Stellaris: Console Deluxe Edition | 118706 | [118706-stellaris-console-deluxe-edition.json](./118706-stellaris-console-deluxe-edition.json) |
 | Stellaris: Console Edition | 111150 | [111150-stellaris-console-edition.json](./111150-stellaris-console-edition.json) |
 | Stellaris: Console Edition - Starter Edition | 331839 | [331839-stellaris-console-edition-starter-edition.json](./331839-stellaris-console-edition-starter-edition.json) |
 | Stellaris: Console Edition - The Royal | 198396 | [198396-stellaris-console-edition-the-royal.json](./198396-stellaris-console-edition-the-royal.json) |
@@ -17773,6 +17776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticks Collection | 207888 | [207888-sticks-collection.json](./207888-sticks-collection.json) |
 | Sticks Together: The Wishing Well | 311137 | [311137-sticks-together-the-wishing-well.json](./311137-sticks-together-the-wishing-well.json) |
 | StickSpinner | 264062 | [264062-stickspinner.json](./264062-stickspinner.json) |
+| StickType | 118685 | [118685-sticktype.json](./118685-sticktype.json) |
 | StickType Remastered | 192307 | [192307-sticktype-remastered.json](./192307-sticktype-remastered.json) |
 | StickType Ultimate Bundle | 218461 | [218461-sticktype-ultimate-bundle.json](./218461-sticktype-ultimate-bundle.json) |
 | StickType: Challenge | 218470 | [218470-sticktype-challenge.json](./218470-sticktype-challenge.json) |
@@ -18566,6 +18570,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter IV: Collector's Edition | 44570 | [44570-street-fighter-iv-collectors-edition.json](./44570-street-fighter-iv-collectors-edition.json) |
 | Street Fighter ONE | 215075 | [215075-street-fighter-one.json](./215075-street-fighter-one.json) |
 | Street Fighter Online: Mouse Generation | 55061 | [55061-street-fighter-online-mouse-generation.json](./55061-street-fighter-online-mouse-generation.json) |
+| Street Fighter V - Chun-Li Costumes Bundle | 118687 | [118687-street-fighter-v-chun-li-costumes-bundle.json](./118687-street-fighter-v-chun-li-costumes-bundle.json) |
+| Street Fighter V - Ryu Costumes Bundle | 118689 | [118689-street-fighter-v-ryu-costumes-bundle.json](./118689-street-fighter-v-ryu-costumes-bundle.json) |
 | Street Fighter V: 2016 Halloween Costume Bundle | 343899 | [343899-street-fighter-v-2016-halloween-costume-bundle.json](./343899-street-fighter-v-2016-halloween-costume-bundle.json) |
 | Street Fighter V: 2016 Summer Costume Bundle | 343896 | [343896-street-fighter-v-2016-summer-costume-bundle.json](./343896-street-fighter-v-2016-summer-costume-bundle.json) |
 | Street Fighter V: 2017 Deluxe Edition | 53678 | [53678-street-fighter-v-2017-deluxe-edition.json](./53678-street-fighter-v-2017-deluxe-edition.json) |
