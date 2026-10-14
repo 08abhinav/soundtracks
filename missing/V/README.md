@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacant Planet | 195475 | [195475-vacant-planet.json](./195475-vacant-planet.json) |
 | Vacant Sky Vol. I: Contention | 83916 | [83916-vacant-sky-vol-i-contention.json](./83916-vacant-sky-vol-i-contention.json) |
 | Vacant's Mine | 289918 | [289918-vacants-mine.json](./289918-vacants-mine.json) |
+| Vacation Adventures : Park Ranger - Hidden Object Adventure Game | 88092 | [88092-vacation-adventures-park-ranger-hidden-object-adventure-game.json](./88092-vacation-adventures-park-ranger-hidden-object-adventure-game.json) |
 | Vacation Adventures: Cruise Director | 114853 | [114853-vacation-adventures-cruise-director.json](./114853-vacation-adventures-cruise-director.json) |
 | Vacation Adventures: Cruise Director 3 | 193219 | [193219-vacation-adventures-cruise-director-3.json](./193219-vacation-adventures-cruise-director-3.json) |
 | Vacation Adventures: Cruise Director 4 | 193220 | [193220-vacation-adventures-cruise-director-4.json](./193220-vacation-adventures-cruise-director-4.json) |
@@ -176,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vain Riser | 150532 | [150532-vain-riser.json](./150532-vain-riser.json) |
 | Vain Uprising | 331322 | [331322-vain-uprising.json](./331322-vain-uprising.json) |
 | Vainger | 318725 | [318725-vainger.json](./318725-vainger.json) |
+| Vainglory 5V5 | 88078 | [88078-vainglory-5v5.json](./88078-vainglory-5v5.json) |
 | Vainglory All Stars | 136750 | [136750-vainglory-all-stars.json](./136750-vainglory-all-stars.json) |
 | VainPlanet | 129074 | [129074-vainplanet.json](./129074-vainplanet.json) |
 | Vajont VR | 221141 | [221141-vajont-vr.json](./221141-vajont-vr.json) |
