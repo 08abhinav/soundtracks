@@ -2937,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seaworks: Trap Season | 412234 | [412234-seaworks-trap-season.json](./412234-seaworks-trap-season.json) |
 | SeaWorld Adventure Park: Shamu's Deep Sea Adventures | 4099 | [4099-seaworld-adventure-park-shamus-deep-sea-adventures.json](./4099-seaworld-adventure-park-shamus-deep-sea-adventures.json) |
 | SeaWorld Adventure Park: Shamu's Deep Sea Adventures | 50565 | [50565-seaworld-adventure-park-shamus-deep-sea-adventures.json](./50565-seaworld-adventure-park-shamus-deep-sea-adventures.json) |
+| SeaWorld Adventure Parks | 81151 | [81151-seaworld-adventure-parks.json](./81151-seaworld-adventure-parks.json) |
 | SeaWorld Adventure Parks Tycoon | 73288 | [73288-seaworld-adventure-parks-tycoon.json](./73288-seaworld-adventure-parks-tycoon.json) |
 | Sebastian's Quest | 329038 | [329038-sebastians-quest.json](./329038-sebastians-quest.json) |
 | Sebastian's Sea Urchin Symphony | 246518 | [246518-sebastians-sea-urchin-symphony.json](./246518-sebastians-sea-urchin-symphony.json) |
@@ -9466,6 +9467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Boy's: Toy Club | 124044 | [124044-smart-boys-toy-club.json](./124044-smart-boys-toy-club.json) |
 | Smart Boy's: Winter Wonderland | 124048 | [124048-smart-boys-winter-wonderland.json](./124048-smart-boys-winter-wonderland.json) |
 | Smart Cookie Cat | 234588 | [234588-smart-cookie-cat.json](./234588-smart-cookie-cat.json) |
+| Smart Cube | 81130 | [81130-smart-cube.json](./81130-smart-cube.json) |
 | Smart CyberFly | 69851 | [69851-smart-cyberfly.json](./69851-smart-cyberfly.json) |
 | Smart Dart | 246281 | [246281-smart-dart.json](./246281-smart-dart.json) |
 | Smart Decoy | 221657 | [221657-smart-decoy.json](./221657-smart-decoy.json) |
@@ -9518,6 +9520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Balls | 275898 | [275898-smash-balls.json](./275898-smash-balls.json) |
 | Smash Balls 2 | 395770 | [395770-smash-balls-2.json](./395770-smash-balls-2.json) |
 | Smash Bandits Racing | 174727 | [174727-smash-bandits-racing.json](./174727-smash-bandits-racing.json) |
+| Smash Bash Crash | 81134 | [81134-smash-bash-crash.json](./81134-smash-bash-crash.json) |
 | Smash Bear | 294939 | [294939-smash-bear.json](./294939-smash-bear.json) |
 | Smash Bowling 3D | 84881 | [84881-smash-bowling-3d.json](./84881-smash-bowling-3d.json) |
 | Smash Boy Ver.KZ | 106547 | [106547-smash-boy-ver-kz.json](./106547-smash-boy-ver-kz.json) |
@@ -10578,6 +10581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Manager 2015 | 35594 | [35594-soccer-manager-2015.json](./35594-soccer-manager-2015.json) |
 | Soccer Manager 2016 | 34335 | [34335-soccer-manager-2016.json](./34335-soccer-manager-2016.json) |
 | Soccer Manager 2017 | 31824 | [31824-soccer-manager-2017.json](./31824-soccer-manager-2017.json) |
+| Soccer Manager 2018 | 81102 | [81102-soccer-manager-2018.json](./81102-soccer-manager-2018.json) |
 | Soccer Manager 2020 | 123351 | [123351-soccer-manager-2020.json](./123351-soccer-manager-2020.json) |
 | Soccer Manager 2021 | 152486 | [152486-soccer-manager-2021.json](./152486-soccer-manager-2021.json) |
 | Soccer Manager 2027 | 340357 | [340357-soccer-manager-2027.json](./340357-soccer-manager-2027.json) |
@@ -24087,6 +24091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symphony of War: The Nephilim Saga | 192840 | [192840-symphony-of-war-the-nephilim-saga.json](./192840-symphony-of-war-the-nephilim-saga.json) |
 | Symphony Worlds | 59808 | [59808-symphony-worlds.json](./59808-symphony-worlds.json) |
 | Symphorix | 333400 | [333400-symphorix.json](./333400-symphorix.json) |
+| Symploke: Legend of Gustavo Bueno - Chapter 2 | 81159 | [81159-symploke-legend-of-gustavo-bueno-chapter-2.json](./81159-symploke-legend-of-gustavo-bueno-chapter-2.json) |
 | Symploke: Legend of Gustavo Bueno - Chapter 3 | 114303 | [114303-symploke-legend-of-gustavo-bueno-chapter-3.json](./114303-symploke-legend-of-gustavo-bueno-chapter-3.json) |
 | Symposium of Grief | 183385 | [183385-symposium-of-grief.json](./183385-symposium-of-grief.json) |
 | Symptoms of Deceit | 323729 | [323729-symptoms-of-deceit.json](./323729-symptoms-of-deceit.json) |
