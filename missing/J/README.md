@@ -2681,6 +2681,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Cause 4: Danger Rising | 121529 | [121529-just-cause-4-danger-rising.json](./121529-just-cause-4-danger-rising.json) |
 | Just Cause 4: Dare Devils of Destruction | 117492 | [117492-just-cause-4-dare-devils-of-destruction.json](./117492-just-cause-4-dare-devils-of-destruction.json) |
 | Just Cause 4: Day One Edition | 201031 | [201031-just-cause-4-day-one-edition.json](./201031-just-cause-4-day-one-edition.json) |
+| Just Cause 4: Digital Deluxe | 103310 | [103310-just-cause-4-digital-deluxe.json](./103310-just-cause-4-digital-deluxe.json) |
+| Just Cause 4: Gold Edition | 103311 | [103311-just-cause-4-gold-edition.json](./103311-just-cause-4-gold-edition.json) |
 | Just Cause 4: Los Demonios | 118919 | [118919-just-cause-4-los-demonios.json](./118919-just-cause-4-los-demonios.json) |
 | Just Cause 4: Reloaded Content Pack | 164576 | [164576-just-cause-4-reloaded-content-pack.json](./164576-just-cause-4-reloaded-content-pack.json) |
 | Just Cause Collection | 53245 | [53245-just-cause-collection.json](./53245-just-cause-collection.json) |
