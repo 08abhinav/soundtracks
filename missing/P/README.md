@@ -2878,6 +2878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peppered: An Existential Platformer | 170018 | [170018-peppered-an-existential-platformer.json](./170018-peppered-an-existential-platformer.json) |
 | Peppermint Falls | 290527 | [290527-peppermint-falls.json](./290527-peppermint-falls.json) |
 | Peppy | 93575 | [93575-peppy.json](./93575-peppy.json) |
+| Peppy Elephant | 100696 | [100696-peppy-elephant.json](./100696-peppy-elephant.json) |
 | Peppy's Adventure | 152303 | [152303-peppys-adventure.json](./152303-peppys-adventure.json) |
 | Pepsi Cola | 209445 | [209445-pepsi-cola.json](./209445-pepsi-cola.json) |
 | Pepsi in Sonic the Hedgehog I | 270218 | [270218-pepsi-in-sonic-the-hedgehog-i.json](./270218-pepsi-in-sonic-the-hedgehog-i.json) |
@@ -8864,6 +8865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potty Painter | 301529 | [301529-potty-painter.json](./301529-potty-painter.json) |
 | Potty Quest | 225768 | [225768-potty-quest.json](./225768-potty-quest.json) |
 | Potty Racers | 269602 | [269602-potty-racers.json](./269602-potty-racers.json) |
+| Potty Training Game | 100688 | [100688-potty-training-game.json](./100688-potty-training-game.json) |
 | Pou 3D | 380799 | [380799-pou-3d.json](./380799-pou-3d.json) |
 | Poubelle City | 381359 | [381359-poubelle-city.json](./381359-poubelle-city.json) |
 | Pouch | 340596 | [340596-pouch.json](./340596-pouch.json) |
