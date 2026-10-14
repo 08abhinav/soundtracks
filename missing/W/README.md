@@ -2471,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whack-A-Monster | 410919 | [410919-whack-a-monster.json](./410919-whack-a-monster.json) |
 | WhackAKyouka | 164870 | [164870-whackakyouka.json](./164870-whackakyouka.json) |
 | Whacked! | 377148 | [377148-whacked.json](./377148-whacked.json) |
+| Whacker Guy: Distance Hunter | 107731 | [107731-whacker-guy-distance-hunter.json](./107731-whacker-guy-distance-hunter.json) |
 | Whackerball | 234120 | [234120-whackerball.json](./234120-whackerball.json) |
 | Whacking Hell! | 282223 | [282223-whacking-hell.json](./282223-whacking-hell.json) |
 | Whacky Ball | 243712 | [243712-whacky-ball.json](./243712-whacky-ball.json) |
