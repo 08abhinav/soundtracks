@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.E.A.R.: MMod | 320343 | [320343-f-e-a-r-mmod.json](./320343-f-e-a-r-mmod.json) |
 | F.E.A.R.: Ultimate Shooter Edition | 53050 | [53050-f-e-a-r-ultimate-shooter-edition.json](./53050-f-e-a-r-ultimate-shooter-edition.json) |
 | F.E.X (Forced Evolution Experiment) | 55522 | [55522-f-e-x-forced-evolution-experiment.json](./55522-f-e-x-forced-evolution-experiment.json) |
+| F.Godmom | 85946 | [85946-f-godmom.json](./85946-f-godmom.json) |
 | F.H. Memento: Love Beyond | 101728 | [101728-f-h-memento-love-beyond.json](./101728-f-h-memento-love-beyond.json) |
 | F.H. Memento: Playground | 95931 | [95931-f-h-memento-playground.json](./95931-f-h-memento-playground.json) |
 | F.I.D.O. | 196787 | [196787-f-i-d-o.json](./196787-f-i-d-o.json) |
@@ -9266,6 +9267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fushigi no Dungeon: Fuurai no Shiren DS2 - Sabaku no Majou | 103508 | [103508-fushigi-no-dungeon-fuurai-no-shiren-ds2-sabaku-no-majou.json](./103508-fushigi-no-dungeon-fuurai-no-shiren-ds2-sabaku-no-majou.json) |
 | Fushigi no Dungeon: Fuurai no Shiren Gaiden - Onna Kenshi Asuka Kenzan! | 80485 | [80485-fushigi-no-dungeon-fuurai-no-shiren-gaiden-onna-kenshi-asuka-kenzan.json](./80485-fushigi-no-dungeon-fuurai-no-shiren-gaiden-onna-kenshi-asuka-kenzan.json) |
 | Fushigi no Dungeon: Fuurai no Shiren GB - Tsukikage-mura no Kaibutsu | 130810 | [130810-fushigi-no-dungeon-fuurai-no-shiren-gb-tsukikage-mura-no-kaibutsu.json](./130810-fushigi-no-dungeon-fuurai-no-shiren-gb-tsukikage-mura-no-kaibutsu.json) |
+| Fushigi no Dungeon: Fuurai no Shiren GB2 - Sabaku no Majou | 85949 | [85949-fushigi-no-dungeon-fuurai-no-shiren-gb2-sabaku-no-majou.json](./85949-fushigi-no-dungeon-fuurai-no-shiren-gb2-sabaku-no-majou.json) |
 | Fushigi no Dungeon: Fuurai no Shiren Mega | 311289 | [311289-fushigi-no-dungeon-fuurai-no-shiren-mega.json](./311289-fushigi-no-dungeon-fuurai-no-shiren-mega.json) |
 | Fushigi no Gensoukyou | 206927 | [206927-fushigi-no-gensoukyou.json](./206927-fushigi-no-gensoukyou.json) |
 | Fushigi no Gensoukyou 3 | 206946 | [206946-fushigi-no-gensoukyou-3.json](./206946-fushigi-no-gensoukyou-3.json) |
