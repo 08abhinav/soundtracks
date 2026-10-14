@@ -2008,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Steel World Robot Boxing | 111751 | [111751-real-steel-world-robot-boxing.json](./111751-real-steel-world-robot-boxing.json) |
 | Real Stories from the Grave: Maleficium | 214698 | [214698-real-stories-from-the-grave-maleficium.json](./214698-real-stories-from-the-grave-maleficium.json) |
 | Real Stories: Veterinaire | 268390 | [268390-real-stories-veterinaire.json](./268390-real-stories-veterinaire.json) |
+| Real Sudoku3D | 91308 | [91308-real-sudoku3d.json](./91308-real-sudoku3d.json) |
 | Real Tennis | 100200 | [100200-real-tennis.json](./100200-real-tennis.json) |
 | Real Tennis 2018 | 99104 | [99104-real-tennis-2018.json](./99104-real-tennis-2018.json) |
 | Real Time Assist Replay Time | 251243 | [251243-real-time-assist-replay-time.json](./251243-real-time-assist-replay-time.json) |
@@ -2504,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Bull Air Race - The Game | 110187 | [110187-red-bull-air-race-the-game.json](./110187-red-bull-air-race-the-game.json) |
 | Red Bull Air Race 2 | 100165 | [100165-red-bull-air-race-2.json](./100165-red-bull-air-race-2.json) |
 | Red Bull Crashed Ice Kinect | 20237 | [20237-red-bull-crashed-ice-kinect.json](./20237-red-bull-crashed-ice-kinect.json) |
+| Red Bull Doodle Art: Global VR Gallery | 91294 | [91294-red-bull-doodle-art-global-vr-gallery.json](./91294-red-bull-doodle-art-global-vr-gallery.json) |
 | Red Bull Free Skiing | 86820 | [86820-red-bull-free-skiing.json](./86820-red-bull-free-skiing.json) |
 | Red Bull MotoCross 2D | 198136 | [198136-red-bull-motocross-2d.json](./198136-red-bull-motocross-2d.json) |
 | Red Bull X-Fighters | 20629 | [20629-red-bull-x-fighters.json](./20629-red-bull-x-fighters.json) |
@@ -4520,6 +4522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhem 2: The Cave | 69248 | [69248-rhem-2-the-cave.json](./69248-rhem-2-the-cave.json) |
 | Rhem I SE: The Mysterious Land | 50510 | [50510-rhem-i-se-the-mysterious-land.json](./50510-rhem-i-se-the-mysterious-land.json) |
 | Rhem II SE: The Cave | 112131 | [112131-rhem-ii-se-the-cave.json](./112131-rhem-ii-se-the-cave.json) |
+| Rhem IV SE: The Golden Fragments | 91320 | [91320-rhem-iv-se-the-golden-fragments.json](./91320-rhem-iv-se-the-golden-fragments.json) |
 | Rhiannon: Curse of the Four Branches | 17349 | [17349-rhiannon-curse-of-the-four-branches.json](./17349-rhiannon-curse-of-the-four-branches.json) |
 | Rhino Puzzle | 263757 | [263757-rhino-puzzle.json](./263757-rhino-puzzle.json) |
 | Rhino Rumble | 49947 | [49947-rhino-rumble.json](./49947-rhino-rumble.json) |
@@ -4841,6 +4844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RideOp | 72415 | [72415-rideop.json](./72415-rideop.json) |
 | RideOp: New Heights - Expansion pack | 226950 | [226950-rideop-new-heights-expansion-pack.json](./226950-rideop-new-heights-expansion-pack.json) |
 | Rider | 87651 | [87651-rider.json](./87651-rider.json) |
+| Rider | 91264 | [91264-rider.json](./91264-rider.json) |
 | Rider Among Dead | 240134 | [240134-rider-among-dead.json](./240134-rider-among-dead.json) |
 | Rider Worlds | 256748 | [256748-rider-worlds.json](./256748-rider-worlds.json) |
 | Rider's Spirits | 38214 | [38214-riders-spirits.json](./38214-riders-spirits.json) |
