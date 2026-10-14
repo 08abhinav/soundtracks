@@ -1290,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victor's Test Night: Reves | 346224 | [346224-victors-test-night-reves.json](./346224-victors-test-night-reves.json) |
 | Victor's Video Vault | 399194 | [399194-victors-video-vault.json](./399194-victors-video-vault.json) |
 | Victordle | 388749 | [388749-victordle.json](./388749-victordle.json) |
+| Victoria | 113452 | [113452-victoria.json](./113452-victoria.json) |
 | Victoria 3 | 148372 | [148372-victoria-3.json](./148372-victoria-3.json) |
 | Victoria 3: American Buildings Pack | 258895 | [258895-victoria-3-american-buildings-pack.json](./258895-victoria-3-american-buildings-pack.json) |
 | Victoria 3: Colossus of the South | 273972 | [273972-victoria-3-colossus-of-the-south.json](./273972-victoria-3-colossus-of-the-south.json) |
