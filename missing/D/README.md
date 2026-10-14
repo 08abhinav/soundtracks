@@ -5009,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Mimo | 174197 | [174197-detective-mimo.json](./174197-detective-mimo.json) |
 | Detective Mind Training: Mystery Choices | 409666 | [409666-detective-mind-training-mystery-choices.json](./409666-detective-mind-training-mystery-choices.json) |
 | Detective Mio | 174801 | [174801-detective-mio.json](./174801-detective-mio.json) |
+| Detective Novels Bundle | 125129 | [125129-detective-novels-bundle.json](./125129-detective-novels-bundle.json) |
 | Detective of the Dead | 318179 | [318179-detective-of-the-dead.json](./318179-detective-of-the-dead.json) |
 | Detective Olivia: The Cult of Whisperers | 294448 | [294448-detective-olivia-the-cult-of-whisperers.json](./294448-detective-olivia-the-cult-of-whisperers.json) |
 | Detective Patch | 257958 | [257958-detective-patch.json](./257958-detective-patch.json) |
