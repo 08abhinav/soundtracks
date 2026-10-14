@@ -1568,6 +1568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maji de Watashi ni Koishinasai! A-3 | 112293 | [112293-maji-de-watashi-ni-koishinasai-a-3.json](./112293-maji-de-watashi-ni-koishinasai-a-3.json) |
 | Maji de Watashi ni Koishinasai! A-4 | 112294 | [112294-maji-de-watashi-ni-koishinasai-a-4.json](./112294-maji-de-watashi-ni-koishinasai-a-4.json) |
 | Maji de Watashi ni Koishinasai! A-5 | 112297 | [112297-maji-de-watashi-ni-koishinasai-a-5.json](./112297-maji-de-watashi-ni-koishinasai-a-5.json) |
+| Maji Kyun! Renaissance | 131913 | [131913-maji-kyun-renaissance.json](./131913-maji-kyun-renaissance.json) |
 | MaJiang | 160250 | [160250-majiang.json](./160250-majiang.json) |
 | Majid, Smash'Em! | 176842 | [176842-majid-smashem.json](./176842-majid-smashem.json) |
 | Majigire Genkai OL-chan | 308867 | [308867-majigire-genkai-ol-chan.json](./308867-majigire-genkai-ol-chan.json) |
@@ -2471,6 +2472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Artist: Video Jockey Maker | 175954 | [175954-mario-artist-video-jockey-maker.json](./175954-mario-artist-video-jockey-maker.json) |
 | Mario Bobble | 41363 | [41363-mario-bobble.json](./41363-mario-bobble.json) |
 | Mario Bros: Just For Fun (Super Battle Bros) | 135071 | [135071-mario-bros-just-for-fun-super-battle-bros.json](./135071-mario-bros-just-for-fun-super-battle-bros.json) |
+| Mario Bros. | 131939 | [131939-mario-bros.json](./131939-mario-bros.json) |
 | Mario Bros. | 172201 | [172201-mario-bros.json](./172201-mario-bros.json) |
 | Mario Bros. | 192918 | [192918-mario-bros.json](./192918-mario-bros.json) |
 | Mario Bros. | 192919 | [192919-mario-bros.json](./192919-mario-bros.json) |
@@ -2727,6 +2729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Tennis: Power Tour | 6504 | [6504-mario-tennis-power-tour.json](./6504-mario-tennis-power-tour.json) |
 | Mario Tennis: Power Tour - Bicep Pump | 231624 | [231624-mario-tennis-power-tour-bicep-pump.json](./231624-mario-tennis-power-tour-bicep-pump.json) |
 | Mario Tennis: Ultra Smash | 11220 | [11220-mario-tennis-ultra-smash.json](./11220-mario-tennis-ultra-smash.json) |
+| Mario the Juggler | 131952 | [131952-mario-the-juggler.json](./131952-mario-the-juggler.json) |
 | Mario Undoukai | 132029 | [132029-mario-undoukai.json](./132029-mario-undoukai.json) |
 | Mario vs. Airman | 219121 | [219121-mario-vs-airman.json](./219121-mario-vs-airman.json) |
 | Mario vs. Bowser and Mighty No. 9 | 276790 | [276790-mario-vs-bowser-and-mighty-no-9.json](./276790-mario-vs-bowser-and-mighty-no-9.json) |
@@ -2756,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario: The Music Box Remastered | 239176 | [239176-mario-the-music-box-remastered.json](./239176-mario-the-music-box-remastered.json) |
 | Mario.exe | 274985 | [274985-mario-exe.json](./274985-mario-exe.json) |
 | Mario's Balls | 343829 | [343829-marios-balls.json](./343829-marios-balls.json) |
+| Mario's Bombs Away | 131938 | [131938-marios-bombs-away.json](./131938-marios-bombs-away.json) |
 | Mario's Carnival Quest | 307903 | [307903-marios-carnival-quest.json](./307903-marios-carnival-quest.json) |
 | Mario's Cement Factory | 67940 | [67940-marios-cement-factory.json](./67940-marios-cement-factory.json) |
 | Mario's Cement Factory C64 | 289585 | [289585-marios-cement-factory-c64.json](./289585-marios-cement-factory-c64.json) |
@@ -9017,6 +9021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission | 246351 | [246351-mission.json](./246351-mission.json) |
 | Mission 1545 | 76561 | [76561-mission-1545.json](./76561-mission-1545.json) |
 | Mission 3000 | 71781 | [71781-mission-3000.json](./71781-mission-3000.json) |
+| Mission 9 | 131897 | [131897-mission-9.json](./131897-mission-9.json) |
 | Mission Against Terror | 51395 | [51395-mission-against-terror.json](./51395-mission-against-terror.json) |
 | Mission Against Terror 2 | 213474 | [213474-mission-against-terror-2.json](./213474-mission-against-terror-2.json) |
 | Mission Angel Angelic Pink | 82908 | [82908-mission-angel-angelic-pink.json](./82908-mission-angel-angelic-pink.json) |
@@ -10435,6 +10440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Maker Kids | 37921 | [37921-monster-maker-kids.json](./37921-monster-maker-kids.json) |
 | Monster Maker: Yami no Ryuukishi | 63878 | [63878-monster-maker-yami-no-ryuukishi.json](./63878-monster-maker-yami-no-ryuukishi.json) |
 | Monster Manor | 115779 | [115779-monster-manor.json](./115779-monster-manor.json) |
+| Monster Match | 131935 | [131935-monster-match.json](./131935-monster-match.json) |
 | Monster Match | 179504 | [179504-monster-match.json](./179504-monster-match.json) |
 | Monster Maulers | 39541 | [39541-monster-maulers.json](./39541-monster-maulers.json) |
 | Monster Mayhem | 351608 | [351608-monster-mayhem.json](./351608-monster-mayhem.json) |
@@ -11425,6 +11431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moshi Monsters: Moshlings Theme Park | 47658 | [47658-moshi-monsters-moshlings-theme-park.json](./47658-moshi-monsters-moshlings-theme-park.json) |
 | Moshi Monsters: School of ROX | 230391 | [230391-moshi-monsters-school-of-rox.json](./230391-moshi-monsters-school-of-rox.json) |
 | Moshi Play | 381913 | [381913-moshi-play.json](./381913-moshi-play.json) |
+| Moshi, Kono Sekai ni Kami-sama ga Iru to Suru Naraba. | 131914 | [131914-moshi-kono-sekai-ni-kami-sama-ga-iru-to-suru-naraba.json](./131914-moshi-kono-sekai-ni-kami-sama-ga-iru-to-suru-naraba.json) |
 | Moshling Rescue! | 395487 | [395487-moshling-rescue.json](./395487-moshling-rescue.json) |
 | Móshòu Shìjiè: Èmó Lièrén | 252361 | [252361-moshou-shijie-emo-lieren.json](./252361-moshou-shijie-emo-lieren.json) |
 | Moskao Fighter | 293361 | [293361-moskao-fighter.json](./293361-moskao-fighter.json) |
