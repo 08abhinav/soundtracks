@@ -7093,6 +7093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Wire | 205033 | [205033-silver-wire.json](./205033-silver-wire.json) |
 | SilverDollar | 101525 | [101525-silverdollar.json](./101525-silverdollar.json) |
 | Silverfall | 15718 | [15718-silverfall.json](./15718-silverfall.json) |
+| SilverFrame | 110100 | [110100-silverframe.json](./110100-silverframe.json) |
 | Silverio Vendetta | 113202 | [113202-silverio-vendetta.json](./113202-silverio-vendetta.json) |
 | Silverio Vendetta: Verse of Orpheus | 113203 | [113203-silverio-vendetta-verse-of-orpheus.json](./113203-silverio-vendetta-verse-of-orpheus.json) |
 | Silverlicious | 9748 | [9748-silverlicious.json](./9748-silverlicious.json) |
@@ -13859,6 +13860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Elixir | 19447 | [19447-speed-elixir.json](./19447-speed-elixir.json) |
 | Speed Factor | 378777 | [378777-speed-factor.json](./378777-speed-factor.json) |
 | Speed Freak | 46764 | [46764-speed-freak.json](./46764-speed-freak.json) |
+| Speed Freeks | 110186 | [110186-speed-freeks.json](./110186-speed-freeks.json) |
 | Speed Golf Royale | 246001 | [246001-speed-golf-royale.json](./246001-speed-golf-royale.json) |
 | Speed Guess: Something | 323188 | [323188-speed-guess-something.json](./323188-speed-guess-something.json) |
 | Speed Haste | 340881 | [340881-speed-haste.json](./340881-speed-haste.json) |
@@ -19713,6 +19715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suit for Hire | 153895 | [153895-suit-for-hire.json](./153895-suit-for-hire.json) |
 | Suitcase of Gor | 262437 | [262437-suitcase-of-gor.json](./262437-suitcase-of-gor.json) |
 | Suitcase Stories | 391198 | [391198-suitcase-stories.json](./391198-suitcase-stories.json) |
+| Suitchi | 110087 | [110087-suitchi.json](./110087-suitchi.json) |
 | Suite 1303 | 336484 | [336484-suite-1303.json](./336484-suite-1303.json) |
 | Suite Macabre | 360119 | [360119-suite-macabre.json](./360119-suite-macabre.json) |
 | Suite PreCure: Happy Oshare Harmony | 327601 | [327601-suite-precure-happy-oshare-harmony.json](./327601-suite-precure-happy-oshare-harmony.json) |
@@ -22201,6 +22204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Yum Yum | 306006 | [306006-super-yum-yum.json](./306006-super-yum-yum.json) |
 | Super Zangyura | 151652 | [151652-super-zangyura.json](./151652-super-zangyura.json) |
 | Super Zeek | 245766 | [245766-super-zeek.json](./245766-super-zeek.json) |
+| Super Zombie Arcade | 110094 | [110094-super-zombie-arcade.json](./110094-super-zombie-arcade.json) |
 | Super Zoo Story | 142957 | [142957-super-zoo-story.json](./142957-super-zoo-story.json) |
 | Super Zugan: Hakotenjou kara no Shoutai | 60498 | [60498-super-zugan-hakotenjou-kara-no-shoutai.json](./60498-super-zugan-hakotenjou-kara-no-shoutai.json) |
 | Super ZZT | 46656 | [46656-super-zzt.json](./46656-super-zzt.json) |
