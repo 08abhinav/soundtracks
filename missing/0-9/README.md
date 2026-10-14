@@ -1718,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4NR | 55975 | [55975-4nr.json](./55975-4nr.json) |
 | 4P Ping-Pong | 93492 | [93492-4p-ping-pong.json](./93492-4p-ping-pong.json) |
 | 4RC4N01D 3: Cold Space | 89410 | [89410-4rc4n01d-3-cold-space.json](./89410-4rc4n01d-3-cold-space.json) |
+| 4rc4n01d! | 81969 | [81969-4rc4n01d.json](./81969-4rc4n01d.json) |
 | 4RC4N01D! 2: Retro Edition | 334263 | [334263-4rc4n01d-2-retro-edition.json](./334263-4rc4n01d-2-retro-edition.json) |
 | 4RC4N01D! 4: KOHBEEP edition | 334262 | [334262-4rc4n01d-4-kohbeep-edition.json](./334262-4rc4n01d-4-kohbeep-edition.json) |
 | 4Spaces | 259550 | [259550-4spaces.json](./259550-4spaces.json) |
