@@ -8450,6 +8450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonfire Stories: Faceless Gravedigger - Collector's Edition | 381374 | [381374-bonfire-stories-faceless-gravedigger-collectors-edition.json](./381374-bonfire-stories-faceless-gravedigger-collectors-edition.json) |
 | Bonfire Stories: Manifest Horror | 417393 | [417393-bonfire-stories-manifest-horror.json](./417393-bonfire-stories-manifest-horror.json) |
 | Bonfire Stories: Manifest Horror - Collector's Edition | 417394 | [417394-bonfire-stories-manifest-horror-collectors-edition.json](./417394-bonfire-stories-manifest-horror-collectors-edition.json) |
+| Bong Bong | 111549 | [111549-bong-bong.json](./111549-bong-bong.json) |
 | BongBongCapy | 400862 | [400862-bongbongcapy.json](./400862-bongbongcapy.json) |
 | Bongo Cat | 334486 | [334486-bongo-cat.json](./334486-bongo-cat.json) |
 | Bongo Loves the Bible | 146262 | [146262-bongo-loves-the-bible.json](./146262-bongo-loves-the-bible.json) |
@@ -11602,6 +11603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger King Halloween Game | 238202 | [238202-burger-king-halloween-game.json](./238202-burger-king-halloween-game.json) |
 | Burger King Orientation CD-i Training | 182507 | [182507-burger-king-orientation-cd-i-training.json](./182507-burger-king-orientation-cd-i-training.json) |
 | Burger Kombat | 314291 | [314291-burger-kombat.json](./314291-burger-kombat.json) |
+| Burger Lord | 111438 | [111438-burger-lord.json](./111438-burger-lord.json) |
 | Burger Maker | 285160 | [285160-burger-maker.json](./285160-burger-maker.json) |
 | Burger Memory Game | 240919 | [240919-burger-memory-game.json](./240919-burger-memory-game.json) |
 | Burger Night | 158708 | [158708-burger-night.json](./158708-burger-night.json) |
