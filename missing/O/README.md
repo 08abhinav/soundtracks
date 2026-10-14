@@ -1192,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ominous Objects: Family Portrait | 139095 | [139095-ominous-objects-family-portrait.json](./139095-ominous-objects-family-portrait.json) |
 | Ominous Objects: Lumina Camera HD | 106645 | [106645-ominous-objects-lumina-camera-hd.json](./106645-ominous-objects-lumina-camera-hd.json) |
 | Ominous Objects: Phantom Reflection | 139096 | [139096-ominous-objects-phantom-reflection.json](./139096-ominous-objects-phantom-reflection.json) |
+| Ominous Objects: Phantom Reflection - Collector's Edition | 74245 | [74245-ominous-objects-phantom-reflection-collectors-edition.json](./74245-ominous-objects-phantom-reflection-collectors-edition.json) |
 | Ominous Objects: Phantom Reflection HD | 102793 | [102793-ominous-objects-phantom-reflection-hd.json](./102793-ominous-objects-phantom-reflection-hd.json) |
 | Ominous Obscurity | 285544 | [285544-ominous-obscurity.json](./285544-ominous-obscurity.json) |
 | Ominous Paths | 206649 | [206649-ominous-paths.json](./206649-ominous-paths.json) |
@@ -2321,6 +2322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Dartness | 378187 | [378187-operation-dartness.json](./378187-operation-dartness.json) |
 | Operation Deadbolt | 365744 | [365744-operation-deadbolt.json](./365744-operation-deadbolt.json) |
 | Operation Deep Magic: Cryptanalysis | 128258 | [128258-operation-deep-magic-cryptanalysis.json](./128258-operation-deep-magic-cryptanalysis.json) |
+| Operation Desert Road | 74234 | [74234-operation-desert-road.json](./74234-operation-desert-road.json) |
 | Operation DogFight | 95396 | [95396-operation-dogfight.json](./95396-operation-dogfight.json) |
 | Operation Eco-Nightmare | 210686 | [210686-operation-eco-nightmare.json](./210686-operation-eco-nightmare.json) |
 | Operation Eventide | 337477 | [337477-operation-eventide.json](./337477-operation-eventide.json) |
@@ -2761,6 +2763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oretachi ni Tsubasa wa Nai -Prelude- | 60572 | [60572-oretachi-ni-tsubasa-wa-nai-prelude.json](./60572-oretachi-ni-tsubasa-wa-nai-prelude.json) |
 | Oretachi no Sabage Versus | 59374 | [59374-oretachi-no-sabage-versus.json](./59374-oretachi-no-sabage-versus.json) |
 | Orf Ski Challange 2016 | 125880 | [125880-orf-ski-challange-2016.json](./125880-orf-ski-challange-2016.json) |
+| Org | 74272 | [74272-org.json](./74272-org.json) |
 | Organ Corruption | 297909 | [297909-organ-corruption.json](./297909-organ-corruption.json) |
 | Organ Failure | 383385 | [383385-organ-failure.json](./383385-organ-failure.json) |
 | Organ of Eden | 263002 | [263002-organ-of-eden.json](./263002-organ-of-eden.json) |
