@@ -1670,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill the Thing | 420518 | [420518-kill-the-thing.json](./420518-kill-the-thing.json) |
 | Kill The Topulus | 265836 | [265836-kill-the-topulus.json](./265836-kill-the-topulus.json) |
 | Kill Them With Cuteness | 152863 | [152863-kill-them-with-cuteness.json](./152863-kill-them-with-cuteness.json) |
+| Kill Tiger | 113538 | [113538-kill-tiger.json](./113538-kill-tiger.json) |
 | Kill to Collect | 18722 | [18722-kill-to-collect.json](./18722-kill-to-collect.json) |
 | Kill to Live | 187405 | [187405-kill-to-live.json](./187405-kill-to-live.json) |
 | Kill to Survive | 235167 | [235167-kill-to-survive.json](./235167-kill-to-survive.json) |
