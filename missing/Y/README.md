@@ -1195,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yubiwa Monogatari: Dai-ni-kan - Futatsu no Tou | 338757 | [338757-yubiwa-monogatari-dai-ni-kan-futatsu-no-tou.json](./338757-yubiwa-monogatari-dai-ni-kan-futatsu-no-tou.json) |
 | Yubu: The Shoeventure | 258495 | [258495-yubu-the-shoeventure.json](./258495-yubu-the-shoeventure.json) |
 | Yucan | 141866 | [141866-yucan.json](./141866-yucan.json) |
+| Yucatan | 113443 | [113443-yucatan.json](./113443-yucatan.json) |
 | Yùchí Gōng Shì Shénme Guǐ | 397856 | [397856-yuchi-gong-shi-shenme-gui.json](./397856-yuchi-gong-shi-shenme-gui.json) |
 | Yudashi Peril: Floraison | 254532 | [254532-yudashi-peril-floraison.json](./254532-yudashi-peril-floraison.json) |
 | Yuè Lán Chuánqí II: Zhòu Yìn Zú Chuánshuō | 394177 | [394177-yue-lan-chuanqi-ii-zhou-yin-zu-chuanshuo.json](./394177-yue-lan-chuanqi-ii-zhou-yin-zu-chuanshuo.json) |
