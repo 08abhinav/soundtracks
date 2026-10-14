@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Hands | 68834 | [68834-baby-hands.json](./68834-baby-hands.json) |
 | Baby Hazel Easter Fun | 89710 | [89710-baby-hazel-easter-fun.json](./89710-baby-hazel-easter-fun.json) |
 | Baby Hazel Hand Fracture | 106767 | [106767-baby-hazel-hand-fracture.json](./106767-baby-hazel-hand-fracture.json) |
+| Baby Hazel Newborn Baby | 89814 | [89814-baby-hazel-newborn-baby.json](./89814-baby-hazel-newborn-baby.json) |
 | Baby Jungle Animal Hair Salon | 101004 | [101004-baby-jungle-animal-hair-salon.json](./101004-baby-jungle-animal-hair-salon.json) |
 | Baby Kaizo World | 145478 | [145478-baby-kaizo-world.json](./145478-baby-kaizo-world.json) |
 | Baby Kaizo World 2 | 328073 | [328073-baby-kaizo-world-2.json](./328073-baby-kaizo-world-2.json) |
@@ -3616,6 +3617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatcraft Cyclon | 232683 | [232683-beatcraft-cyclon.json](./232683-beatcraft-cyclon.json) |
 | Beatdown Brawler | 130103 | [130103-beatdown-brawler.json](./130103-beatdown-brawler.json) |
 | Beatdown Dungeon | 116959 | [116959-beatdown-dungeon.json](./116959-beatdown-dungeon.json) |
+| Beatdown! | 89815 | [89815-beatdown.json](./89815-beatdown.json) |
 | Beatem Tom and Jerry | 100822 | [100822-beatem-tom-and-jerry.json](./100822-beatem-tom-and-jerry.json) |
 | Beaten Path | 264711 | [264711-beaten-path.json](./264711-beaten-path.json) |
 | Beater: Apocal Undone | 290492 | [290492-beater-apocal-undone.json](./290492-beater-apocal-undone.json) |
