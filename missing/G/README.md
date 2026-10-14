@@ -3302,6 +3302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Fortune | 119604 | [119604-global-fortune.json](./119604-global-fortune.json) |
 | Global Gladiators | 6828 | [6828-global-gladiators.json](./6828-global-gladiators.json) |
 | Global Hero | 390155 | [390155-global-hero.json](./390155-global-hero.json) |
+| Global Infection | 117433 | [117433-global-infection.json](./117433-global-infection.json) |
 | Global Operations | 8744 | [8744-global-operations.json](./8744-global-operations.json) |
 | Global Outbreak: Doomsday Edition | 30254 | [30254-global-outbreak-doomsday-edition.json](./30254-global-outbreak-doomsday-edition.json) |
 | Global Pokédex Plus | 151645 | [151645-global-pokedex-plus.json](./151645-global-pokedex-plus.json) |
@@ -6136,6 +6137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Dungeon | 301103 | [301103-grim-dungeon.json](./301103-grim-dungeon.json) |
 | Grim Ember | 149524 | [149524-grim-ember.json](./149524-grim-ember.json) |
 | Grim Facade: Hidden Sins | 104659 | [104659-grim-facade-hidden-sins.json](./104659-grim-facade-hidden-sins.json) |
+| Grim Facade: Hidden Sins - Collector's Edition | 117552 | [117552-grim-facade-hidden-sins-collectors-edition.json](./117552-grim-facade-hidden-sins-collectors-edition.json) |
 | Grim Facade: Sinister Obsession - Collector's Edition | 28744 | [28744-grim-facade-sinister-obsession-collectors-edition.json](./28744-grim-facade-sinister-obsession-collectors-edition.json) |
 | Grim Facade: The Artist and The Pretender - Collector's Edition | 110373 | [110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json](./110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json) |
 | Grim Fandango Remastered | 8682 | [8682-grim-fandango-remastered.json](./8682-grim-fandango-remastered.json) |
