@@ -2135,6 +2135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upbaka! | 379706 | [379706-upbaka.json](./379706-upbaka.json) |
 | Upbeat | 390130 | [390130-upbeat.json](./390130-upbeat.json) |
 | Upbeat Melody Project | 386257 | [386257-upbeat-melody-project.json](./386257-upbeat-melody-project.json) |
+| UpBreakers | 107726 | [107726-upbreakers.json](./107726-upbreakers.json) |
 | Upcreek | 395156 | [395156-upcreek.json](./395156-upcreek.json) |
 | Updive | 150273 | [150273-updive.json](./150273-updive.json) |
 | Upekkha | 313984 | [313984-upekkha.json](./313984-upekkha.json) |
