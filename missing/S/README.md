@@ -9859,6 +9859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Rampage - Snake Simulator | 108619 | [108619-snake-rampage-snake-simulator.json](./108619-snake-rampage-snake-simulator.json) |
 | Snake Real World | 133874 | [133874-snake-real-world.json](./133874-snake-real-world.json) |
 | Snake Roy | 210642 | [210642-snake-roy.json](./210642-snake-roy.json) |
+| Snake VS Block Math | 86730 | [86730-snake-vs-block-math.json](./86730-snake-vs-block-math.json) |
 | Snake Vs Colours | 108446 | [108446-snake-vs-colours.json](./108446-snake-vs-colours.json) |
 | Snake vs Snake | 110801 | [110801-snake-vs-snake.json](./110801-snake-vs-snake.json) |
 | Snake Warriors: Training | 118913 | [118913-snake-warriors-training.json](./118913-snake-warriors-training.json) |
@@ -10791,6 +10792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar 2 | 6342 | [6342-solar-2.json](./6342-solar-2.json) |
 | Solar Assault | 1485 | [1485-solar-assault.json](./1485-solar-assault.json) |
 | Solar Battalion | 99600 | [99600-solar-battalion.json](./99600-solar-battalion.json) |
+| Solar Battle Glargaz | 86766 | [86766-solar-battle-glargaz.json](./86766-solar-battle-glargaz.json) |
 | Solar Blast | 147648 | [147648-solar-blast.json](./147648-solar-blast.json) |
 | Solar Cage | 189038 | [189038-solar-cage.json](./189038-solar-cage.json) |
 | Solar Candy | 180849 | [180849-solar-candy.json](./180849-solar-candy.json) |
@@ -12767,6 +12769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Attack | 66909 | [66909-space-attack.json](./66909-space-attack.json) |
 | Space Avenger: Empire of Nexx | 133185 | [133185-space-avenger-empire-of-nexx.json](./133185-space-avenger-empire-of-nexx.json) |
 | Space Badminton VR | 29853 | [29853-space-badminton-vr.json](./29853-space-badminton-vr.json) |
+| Space Ball | 86751 | [86751-space-ball.json](./86751-space-ball.json) |
 | Space Ball VR | 258602 | [258602-space-ball-vr.json](./258602-space-ball-vr.json) |
 | Space Baller | 133431 | [133431-space-baller.json](./133431-space-baller.json) |
 | Space Ballet | 25758 | [25758-space-ballet.json](./25758-space-ballet.json) |
@@ -23461,6 +23464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Pet | 392913 | [392913-sweet-pet.json](./392913-sweet-pet.json) |
 | Sweet Pirate | 382397 | [382397-sweet-pirate.json](./382397-sweet-pirate.json) |
 | Sweet Pool | 145909 | [145909-sweet-pool.json](./145909-sweet-pool.json) |
+| Sweet Pool | 86674 | [86674-sweet-pool.json](./86674-sweet-pool.json) |
 | Sweet Portal | 392900 | [392900-sweet-portal.json](./392900-sweet-portal.json) |
 | Sweet Princess Prom Night | 87613 | [87613-sweet-princess-prom-night.json](./87613-sweet-princess-prom-night.json) |
 | Sweet Punch | 177385 | [177385-sweet-punch.json](./177385-sweet-punch.json) |
