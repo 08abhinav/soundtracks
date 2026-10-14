@@ -1104,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egypt Picross. Pharaoh's Riddles. | 99990 | [99990-egypt-picross-pharaohs-riddles.json](./99990-egypt-picross-pharaohs-riddles.json) |
 | Egypt Series: The Prophecy - Part 1 | 88661 | [88661-egypt-series-the-prophecy-part-1.json](./88661-egypt-series-the-prophecy-part-1.json) |
 | Egypt Series: The Prophecy - Part 2 | 88830 | [88830-egypt-series-the-prophecy-part-2.json](./88830-egypt-series-the-prophecy-part-2.json) |
+| Egypt Series: The Prophecy - Part 3 | 98905 | [98905-egypt-series-the-prophecy-part-3.json](./98905-egypt-series-the-prophecy-part-3.json) |
 | Egypt Solitaire: Match 2 Cards | 127237 | [127237-egypt-solitaire-match-2-cards.json](./127237-egypt-solitaire-match-2-cards.json) |
 | Egypt Solitaire. Match 2 Cards. Card Game | 88601 | [88601-egypt-solitaire-match-2-cards-card-game.json](./88601-egypt-solitaire-match-2-cards-card-game.json) |
 | Egypt: Old Kingdom | 75230 | [75230-egypt-old-kingdom.json](./75230-egypt-old-kingdom.json) |
@@ -2491,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Ranger Awakening | 353768 | [353768-endless-ranger-awakening.json](./353768-endless-ranger-awakening.json) |
 | Endless Reach | 358964 | [358964-endless-reach.json](./358964-endless-reach.json) |
 | Endless Return | 293007 | [293007-endless-return.json](./293007-endless-return.json) |
+| Endless Road | 98866 | [98866-endless-road.json](./98866-endless-road.json) |
 | Endless Robot Dash | 344403 | [344403-endless-robot-dash.json](./344403-endless-robot-dash.json) |
 | Endless RPG | 119705 | [119705-endless-rpg.json](./119705-endless-rpg.json) |
 | Endless Ruin Chapter I: Toward the Endless Ruin | 200542 | [200542-endless-ruin-chapter-i-toward-the-endless-ruin.json](./200542-endless-ruin-chapter-i-toward-the-endless-ruin.json) |
