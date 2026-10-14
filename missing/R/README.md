@@ -2950,6 +2950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflecting Fate | 43434 | [43434-reflecting-fate.json](./43434-reflecting-fate.json) |
 | Reflection | 201694 | [201694-reflection.json](./201694-reflection.json) |
 | Reflection | 216955 | [216955-reflection.json](./216955-reflection.json) |
+| Reflection A | 82678 | [82678-reflection-a.json](./82678-reflection-a.json) |
 | Reflection Arena | 406227 | [406227-reflection-arena.json](./406227-reflection-arena.json) |
 | Reflection Link | 303061 | [303061-reflection-link.json](./303061-reflection-link.json) |
 | Reflection of Loneliness | 184576 | [184576-reflection-of-loneliness.json](./184576-reflection-of-loneliness.json) |
@@ -3064,6 +3065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rei and the Floating City | 390181 | [390181-rei-and-the-floating-city.json](./390181-rei-and-the-floating-city.json) |
 | Rei Fighter Gekitsui Senki | 4085 | [4085-rei-fighter-gekitsui-senki.json](./4085-rei-fighter-gekitsui-senki.json) |
 | Rei Galo TD | 289254 | [289254-rei-galo-td.json](./289254-rei-galo-td.json) |
+| Rei, the Drifter Girl | 82693 | [82693-rei-the-drifter-girl.json](./82693-rei-the-drifter-girl.json) |
 | Rei: A Girl With Wings | 291393 | [291393-rei-a-girl-with-wings.json](./291393-rei-a-girl-with-wings.json) |
 | Reigen Doushi | 215135 | [215135-reigen-doushi.json](./215135-reigen-doushi.json) |
 | Reigen Doushi: Kyonshii Horror Daisensou | 385786 | [385786-reigen-doushi-kyonshii-horror-daisensou.json](./385786-reigen-doushi-kyonshii-horror-daisensou.json) |
