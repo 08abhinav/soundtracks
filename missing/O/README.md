@@ -1210,7 +1210,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omnivael: Chronicles of the realm | 274763 | [274763-omnivael-chronicles-of-the-realm.json](./274763-omnivael-chronicles-of-the-realm.json) |
 | Omniwar | 109168 | [109168-omniwar.json](./109168-omniwar.json) |
 | Omnn | 338304 | [338304-omnn.json](./338304-omnn.json) |
-| Omno | 111661 | [111661-omno.json](./111661-omno.json) |
 | OmOchim | 415098 | [415098-omochim.json](./415098-omochim.json) |
 | Omoi o Sasageru Otome no Melody | 82496 | [82496-omoi-o-sasageru-otome-no-melody.json](./82496-omoi-o-sasageru-otome-no-melody.json) |
 | Omoi o Sasageru Otome no Melody: Afureru Omoi o Shirabe ni Nosete | 82494 | [82494-omoi-o-sasageru-otome-no-melody-afureru-omoi-o-shirabe-ni-nosete.json](./82494-omoi-o-sasageru-otome-no-melody-afureru-omoi-o-shirabe-ni-nosete.json) |
@@ -3923,6 +3922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oxygen Caliber | 238544 | [238544-oxygen-caliber.json](./238544-oxygen-caliber.json) |
 | Oxygen Cocktail | 249275 | [249275-oxygen-cocktail.json](./249275-oxygen-cocktail.json) |
 | Oxygen Not Included: The Frosty Planet Pack | 310683 | [310683-oxygen-not-included-the-frosty-planet-pack.json](./310683-oxygen-not-included-the-frosty-planet-pack.json) |
+| Oxyjet | 112811 | [112811-oxyjet.json](./112811-oxyjet.json) |
 | Oxytone | 267287 | [267287-oxytone.json](./267287-oxytone.json) |
 | Oyabu Clinic Deathcare Corporation | 244264 | [244264-oyabu-clinic-deathcare-corporation.json](./244264-oyabu-clinic-deathcare-corporation.json) |
 | Oyadori no Ko | 150552 | [150552-oyadori-no-ko.json](./150552-oyadori-no-ko.json) |
