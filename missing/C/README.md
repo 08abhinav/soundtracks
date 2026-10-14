@@ -838,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candles | 178946 | [178946-candles.json](./178946-candles.json) |
 | Candles Aren't Eternal | 386385 | [386385-candles-arent-eternal.json](./386385-candles-arent-eternal.json) |
 | Candles of the Damned | 271491 | [271491-candles-of-the-damned.json](./271491-candles-of-the-damned.json) |
+| Candoo Ninja | 97808 | [97808-candoo-ninja.json](./97808-candoo-ninja.json) |
 | Candy | 104011 | [104011-candy.json](./104011-candy.json) |
 | Candy 2048 Challenge | 147132 | [147132-candy-2048-challenge.json](./147132-candy-2048-challenge.json) |
 | Candy Adventure HD | 232046 | [232046-candy-adventure-hd.json](./232046-candy-adventure-hd.json) |
@@ -1013,6 +1014,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CanYouSurvive? | 104159 | [104159-canyousurvive.json](./104159-canyousurvive.json) |
 | CanYouTilt | 41488 | [41488-canyoutilt.json](./41488-canyoutilt.json) |
 | Caona | 247380 | [247380-caona.json](./247380-caona.json) |
+| Caos Begins | 97803 | [97803-caos-begins.json](./97803-caos-begins.json) |
+| Caos Trigger: Golem | 97800 | [97800-caos-trigger-golem.json](./97800-caos-trigger-golem.json) |
 | Cap'n Carnage | 14374 | [14374-capn-carnage.json](./14374-capn-carnage.json) |
 | Cap'n Magneto | 344336 | [344336-capn-magneto.json](./344336-capn-magneto.json) |
 | Cap'n Marcela's Winter Wonderland | 310543 | [310543-capn-marcelas-winter-wonderland.json](./310543-capn-marcelas-winter-wonderland.json) |
@@ -5173,6 +5176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choujin Heiki Zeroigar | 45960 | [45960-choujin-heiki-zeroigar.json](./45960-choujin-heiki-zeroigar.json) |
 | Choujin Sentai Jetman | 265066 | [265066-choujin-sentai-jetman.json](./265066-choujin-sentai-jetman.json) |
 | Choujin Sentai Jetman | 318559 | [318559-choujin-sentai-jetman.json](./318559-choujin-sentai-jetman.json) |
+| Choujin Ultra Baseball Action Card Battle | 97815 | [97815-choujin-ultra-baseball-action-card-battle.json](./97815-choujin-ultra-baseball-action-card-battle.json) |
 | Choujirou | 133318 | [133318-choujirou.json](./133318-choujirou.json) |
 | Chouon RPG: Ushinawareta Ototoi Mura | 142962 | [142962-chouon-rpg-ushinawareta-ototoi-mura.json](./142962-chouon-rpg-ushinawareta-ototoi-mura.json) |
 | Chousenshi Densetsu: Assault from the Sea | 62189 | [62189-chousenshi-densetsu-assault-from-the-sea.json](./62189-chousenshi-densetsu-assault-from-the-sea.json) |
@@ -6337,6 +6341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClashofHunter | 130794 | [130794-clashofhunter.json](./130794-clashofhunter.json) |
 | Class 3, Third Grade | 330792 | [330792-class-3-third-grade.json](./330792-class-3-third-grade.json) |
 | Class B-Horror: Subway | 236308 | [236308-class-b-horror-subway.json](./236308-class-b-horror-subway.json) |
+| Class Maid | 97774 | [97774-class-maid.json](./97774-class-maid.json) |
 | Class of '09 | 152962 | [152962-class-of-09.json](./152962-class-of-09.json) |
 | Class of '09: Puzzle Showdown | 406251 | [406251-class-of-09-puzzle-showdown.json](./406251-class-of-09-puzzle-showdown.json) |
 | Class of Heroes 2 | 20999 | [20999-class-of-heroes-2.json](./20999-class-of-heroes-2.json) |
@@ -10001,6 +10006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmotrons | 130675 | [130675-cosmotrons.json](./130675-cosmotrons.json) |
 | CosmoWarrior Zero | 43875 | [43875-cosmowarrior-zero.json](./43875-cosmowarrior-zero.json) |
 | Cosmula | 306348 | [306348-cosmula.json](./306348-cosmula.json) |
+| Cosplay Chu | 97771 | [97771-cosplay-chu.json](./97771-cosplay-chu.json) |
 | Cosplay Convention Crisis | 102330 | [102330-cosplay-convention-crisis.json](./102330-cosplay-convention-crisis.json) |
 | Cosplay Crisis: Succubus Invasion | 309861 | [309861-cosplay-crisis-succubus-invasion.json](./309861-cosplay-crisis-succubus-invasion.json) |
 | Cosplay Fever!! | 370261 | [370261-cosplay-fever.json](./370261-cosplay-fever.json) |
