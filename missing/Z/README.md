@@ -1238,9 +1238,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Zone | 72157 | [72157-zombie-zone.json](./72157-zombie-zone.json) |
 | Zombie's Cool | 147261 | [147261-zombies-cool.json](./147261-zombies-cool.json) |
 | Zombie's Cool 2 | 222338 | [222338-zombies-cool-2.json](./222338-zombies-cool-2.json) |
+| ZombieBoy | 137337 | [137337-zombieboy.json](./137337-zombieboy.json) |
+| ZombieBoy 2: Crazy Love | 137338 | [137338-zombieboy-2-crazy-love.json](./137338-zombieboy-2-crazy-love.json) |
 | Zombieeee! | 151718 | [151718-zombieeee.json](./151718-zombieeee.json) |
 | Zombiefield | 336751 | [336751-zombiefield.json](./336751-zombiefield.json) |
 | ZombieFight VR | 30061 | [30061-zombiefight-vr.json](./30061-zombiefight-vr.json) |
+| ZombieGirl | 137334 | [137334-zombiegirl.json](./137334-zombiegirl.json) |
+| ZombieGirl 2: The Lovers | 137335 | [137335-zombiegirl-2-the-lovers.json](./137335-zombiegirl-2-the-lovers.json) |
+| ZombieGirl Side:S Sister | 137336 | [137336-zombiegirl-side-s-sister.json](./137336-zombiegirl-side-s-sister.json) |
 | Zombiegrinder 60000 | 11343 | [11343-zombiegrinder-60000.json](./11343-zombiegrinder-60000.json) |
 | ZombieHunt | 86573 | [86573-zombiehunt.json](./86573-zombiehunt.json) |
 | ZombieHunterZ | 101335 | [101335-zombiehunterz.json](./101335-zombiehunterz.json) |
@@ -1368,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone Ranger | 12974 | [12974-zone-ranger.json](./12974-zone-ranger.json) |
 | Zone Sega | 202809 | [202809-zone-sega.json](./202809-zone-sega.json) |
 | Zone Trip | 264036 | [264036-zone-trip.json](./264036-zone-trip.json) |
+| Zone Warrior | 130079 | [130079-zone-warrior.json](./130079-zone-warrior.json) |
 | Zone.E | 244193 | [244193-zone-e.json](./244193-zone-e.json) |
 | Zone4M | 188385 | [188385-zone4m.json](./188385-zone4m.json) |
 | Zoned | 311587 | [311587-zoned.json](./311587-zoned.json) |
