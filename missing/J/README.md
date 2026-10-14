@@ -424,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janga | 121629 | [121629-janga.json](./121629-janga.json) |
 | Janggi for Kakao | 126002 | [126002-janggi-for-kakao.json](./126002-janggi-for-kakao.json) |
 | Janggun | 145638 | [145638-janggun.json](./145638-janggun.json) |
+| Janggun-ui Adeul | 77201 | [77201-janggun-ui-adeul.json](./77201-janggun-ui-adeul.json) |
 | Jangou | 123078 | [123078-jangou.json](./123078-jangou.json) |
 | Jangou | 131433 | [131433-jangou.json](./131433-jangou.json) |
 | Jangou 1 | 123077 | [123077-jangou-1.json](./123077-jangou-1.json) |
@@ -446,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janko | 306365 | [306365-janko.json](./306365-janko.json) |
 | Janky Golf with Stream | 378012 | [378012-janky-golf-with-stream.json](./378012-janky-golf-with-stream.json) |
 | Janky Tanks | 35877 | [35877-janky-tanks.json](./35877-janky-tanks.json) |
+| Jankyou | 77159 | [77159-jankyou.json](./77159-jankyou.json) |
 | Janline R | 65559 | [65559-janline-r.json](./65559-janline-r.json) |
 | Janosch | 92923 | [92923-janosch.json](./92923-janosch.json) |
 | Janosik | 64913 | [64913-janosik.json](./64913-janosik.json) |
