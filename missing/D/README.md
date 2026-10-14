@@ -8540,6 +8540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Taxi | 258605 | [258605-doodle-taxi.json](./258605-doodle-taxi.json) |
 | Doodle TD | 234644 | [234644-doodle-td.json](./234644-doodle-td.json) |
 | Doodle TD 2 | 295800 | [295800-doodle-td-2.json](./295800-doodle-td-2.json) |
+| Doodle Trivia | 89048 | [89048-doodle-trivia.json](./89048-doodle-trivia.json) |
 | Doodle Truck 2 | 249663 | [249663-doodle-truck-2.json](./249663-doodle-truck-2.json) |
 | Doodle UFO | 246972 | [246972-doodle-ufo.json](./246972-doodle-ufo.json) |
 | Doodle War | 88102 | [88102-doodle-war.json](./88102-doodle-war.json) |
@@ -12384,6 +12385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DuoXBall | 233242 | [233242-duoxball.json](./233242-duoxball.json) |
 | DuoZuplixo | 369025 | [369025-duozuplixo.json](./369025-duozuplixo.json) |
 | Duped | 65789 | [65789-duped.json](./65789-duped.json) |
+| Dupio | 89076 | [89076-dupio.json](./89076-dupio.json) |
 | Duplex | 273554 | [273554-duplex.json](./273554-duplex.json) |
 | Dupli_City | 126966 | [126966-dupli-city.json](./126966-dupli-city.json) |
 | dUpLicity ~Beyond the Lies~ | 36104 | [36104-duplicity-beyond-the-lies.json](./36104-duplicity-beyond-the-lies.json) |
