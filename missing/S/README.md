@@ -8485,6 +8485,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyLife: VoxelSurvival | 149050 | [149050-skylife-voxelsurvival.json](./149050-skylife-voxelsurvival.json) |
 | Skylight | 64096 | [64096-skylight.json](./64096-skylight.json) |
 | Skylight | 83929 | [83929-skylight.json](./83929-skylight.json) |
+| Skylight Freerange | 99506 | [99506-skylight-freerange.json](./99506-skylight-freerange.json) |
+| Skylight Freerange 2: Gachduine | 99522 | [99522-skylight-freerange-2-gachduine.json](./99522-skylight-freerange-2-gachduine.json) |
 | Skyline Blade | 248058 | [248058-skyline-blade.json](./248058-skyline-blade.json) |
 | Skyline Bowling: Complete Edition | 333724 | [333724-skyline-bowling-complete-edition.json](./333724-skyline-bowling-complete-edition.json) |
 | Skyline Bowling: Spooky Edition | 376246 | [376246-skyline-bowling-spooky-edition.json](./376246-skyline-bowling-spooky-edition.json) |
@@ -14810,6 +14812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split Fiction: Friend's Pass | 347331 | [347331-split-fiction-friends-pass.json](./347331-split-fiction-friends-pass.json) |
 | Split FPV: Drone Racing | 420565 | [420565-split-fpv-drone-racing.json](./420565-split-fpv-drone-racing.json) |
 | Split Happens | 400899 | [400899-split-happens.json](./400899-split-happens.json) |
+| Split Masters | 99498 | [99498-split-masters.json](./99498-split-masters.json) |
 | Split or Steal | 123963 | [123963-split-or-steal.json](./123963-split-or-steal.json) |
 | Split Personalities | 73323 | [73323-split-personalities.json](./73323-split-personalities.json) |
 | Split Personality Doctor | 257920 | [257920-split-personality-doctor.json](./257920-split-personality-doctor.json) |
@@ -18329,6 +18332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded Sails | 112344 | [112344-stranded-sails.json](./112344-stranded-sails.json) |
 | Stranded Survivors | 381620 | [381620-stranded-survivors.json](./381620-stranded-survivors.json) |
 | Stranded With You | 389969 | [389969-stranded-with-you.json](./389969-stranded-with-you.json) |
+| Stranded: A Mars Adventure | 99532 | [99532-stranded-a-mars-adventure.json](./99532-stranded-a-mars-adventure.json) |
 | Stranded: Alien Dawn Premium Edition | 275619 | [275619-stranded-alien-dawn-premium-edition.json](./275619-stranded-alien-dawn-premium-edition.json) |
 | Stranded: Escape the Room | 175876 | [175876-stranded-escape-the-room.json](./175876-stranded-escape-the-room.json) |
 | Stranded: Mars ONE | 128412 | [128412-stranded-mars-one.json](./128412-stranded-mars-one.json) |
