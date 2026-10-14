@@ -1402,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paramelancholia | 332654 | [332654-paramelancholia.json](./332654-paramelancholia.json) |
 | Parametric Engine | 240698 | [240698-parametric-engine.json](./240698-parametric-engine.json) |
 | Paramnesia: Escape Together | 244489 | [244489-paramnesia-escape-together.json](./244489-paramnesia-escape-together.json) |
+| Paramon Clash | 105819 | [105819-paramon-clash.json](./105819-paramon-clash.json) |
 | Paramount Hero | 212843 | [212843-paramount-hero.json](./212843-paramount-hero.json) |
 | Paranatural | 310763 | [310763-paranatural.json](./310763-paranatural.json) |
 | Paranoia | 107149 | [107149-paranoia.json](./107149-paranoia.json) |
@@ -1900,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastel Parade | 280466 | [280466-pastel-parade.json](./280466-pastel-parade.json) |
 | Pastel Putter | 218409 | [218409-pastel-putter.json](./218409-pastel-putter.json) |
 | Pastimes | 415198 | [415198-pastimes.json](./415198-pastimes.json) |
+| Pastimes - Game Box | 105822 | [105822-pastimes-game-box.json](./105822-pastimes-game-box.json) |
 | Pastor | 411604 | [411604-pastor.json](./411604-pastor.json) |
 | Pastor's Lake: The Game | 285540 | [285540-pastors-lake-the-game.json](./285540-pastors-lake-the-game.json) |
 | Pastoral | 228688 | [228688-pastoral.json](./228688-pastoral.json) |
@@ -3872,6 +3874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Physio | 386960 | [386960-physio.json](./386960-physio.json) |
 | Physio Fun Balance Training | 84828 | [84828-physio-fun-balance-training.json](./84828-physio-fun-balance-training.json) |
 | Physiofun: Pelvic Floor Training | 84827 | [84827-physiofun-pelvic-floor-training.json](./84827-physiofun-pelvic-floor-training.json) |
+| Physix Break | 105734 | [105734-physix-break.json](./105734-physix-break.json) |
 | Phyto | 285943 | [285943-phyto.json](./285943-phyto.json) |
 | Phytomancer | 175886 | [175886-phytomancer.json](./175886-phytomancer.json) |
 | PhyxBox | 127873 | [127873-phyxbox.json](./127873-phyxbox.json) |
@@ -5422,6 +5425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Mage Quest RPG | 145050 | [145050-pixel-mage-quest-rpg.json](./145050-pixel-mage-quest-rpg.json) |
 | Pixel Manager: Football 2021 | 256230 | [256230-pixel-manager-football-2021.json](./256230-pixel-manager-football-2021.json) |
 | Pixel Miner | 333639 | [333639-pixel-miner.json](./333639-pixel-miner.json) |
+| Pixel Miners | 105720 | [105720-pixel-miners.json](./105720-pixel-miners.json) |
 | Pixel Monk | 280440 | [280440-pixel-monk.json](./280440-pixel-monk.json) |
 | Pixel Ninja | 160163 | [160163-pixel-ninja.json](./160163-pixel-ninja.json) |
 | Pixel Noir | 61721 | [61721-pixel-noir.json](./61721-pixel-noir.json) |
@@ -11769,6 +11773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push and Pull | 401071 | [401071-push-and-pull.json](./401071-push-and-pull.json) |
 | Push Back | 133445 | [133445-push-back.json](./133445-push-back.json) |
 | Push Battle Royale | 381956 | [381956-push-battle-royale.json](./381956-push-battle-royale.json) |
+| Push Blox | 105815 | [105815-push-blox.json](./105815-push-blox.json) |
 | Push Box | 167261 | [167261-push-box.json](./167261-push-box.json) |
 | Push Comes to Shovel | 211783 | [211783-push-comes-to-shovel.json](./211783-push-comes-to-shovel.json) |
 | Push Corgi | 379156 | [379156-push-corgi.json](./379156-push-corgi.json) |
