@@ -1187,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Law & Order II: Double or Nothing | 70027 | [70027-law-and-order-ii-double-or-nothing.json](./70027-law-and-order-ii-double-or-nothing.json) |
 | Law & Order: Legacies | 18874 | [18874-law-and-order-legacies.json](./18874-law-and-order-legacies.json) |
 | Law & Order: Mushroom Kingdom Unit - Pilot Episode: Tragic Fox "Tails" | 345625 | [345625-law-and-order-mushroom-kingdom-unit-pilot-episode-tragic-fox-tails.json](./345625-law-and-order-mushroom-kingdom-unit-pilot-episode-tragic-fox-tails.json) |
+| Law and Order: Los Angeles | 79795 | [79795-law-and-order-los-angeles.json](./79795-law-and-order-los-angeles.json) |
 | Law Craft | 207832 | [207832-law-craft.json](./207832-law-craft.json) |
 | Law Law Land | 127693 | [127693-law-law-land.json](./127693-law-law-land.json) |
 | Law Mower | 41933 | [41933-law-mower.json](./41933-law-mower.json) |
@@ -1313,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazy Train Game | 366361 | [366361-lazy-train-game.json](./366361-lazy-train-game.json) |
 | Lazy Writer | 346665 | [346665-lazy-writer.json](./346665-lazy-writer.json) |
 | LazyTown | 271373 | [271373-lazytown.json](./271373-lazytown.json) |
+| LazyTown Champions | 79791 | [79791-lazytown-champions.json](./79791-lazytown-champions.json) |
 | LazyTown Live! The Pirate Adventure | 199039 | [199039-lazytown-live-the-pirate-adventure.json](./199039-lazytown-live-the-pirate-adventure.json) |
 | LazyTown: Festival | 271372 | [271372-lazytown-festival.json](./271372-lazytown-festival.json) |
 | LBreakout2 | 275915 | [275915-lbreakout2.json](./275915-lbreakout2.json) |
@@ -2829,6 +2831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LGBT Battlegrounds | 103633 | [103633-lgbt-battlegrounds.json](./103633-lgbt-battlegrounds.json) |
 | LGBT Color by Number for Adults | 165035 | [165035-lgbt-color-by-number-for-adults.json](./165035-lgbt-color-by-number-for-adults.json) |
 | LGBT+ Flags | 182840 | [182840-lgbt-flags.json](./182840-lgbt-flags.json) |
+| LGeneral | 79764 | [79764-lgeneral.json](./79764-lgeneral.json) |
 | Lgnorant girl doll | 114994 | [114994-lgnorant-girl-doll.json](./114994-lgnorant-girl-doll.json) |
 | LGV Platform Box | 362424 | [362424-lgv-platform-box.json](./362424-lgv-platform-box.json) |
 | Lhama Clicker | 236545 | [236545-lhama-clicker.json](./236545-lhama-clicker.json) |
@@ -4429,6 +4432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LMA Manager 2004 | 22545 | [22545-lma-manager-2004.json](./22545-lma-manager-2004.json) |
 | LMA Manager 2007 | 20561 | [20561-lma-manager-2007.json](./20561-lma-manager-2007.json) |
 | LMA Professional Manager 2005 | 22547 | [22547-lma-professional-manager-2005.json](./22547-lma-professional-manager-2005.json) |
+| LMNO | 79788 | [79788-lmno.json](./79788-lmno.json) |
 | LN of Zombies | 206434 | [206434-ln-of-zombies.json](./206434-ln-of-zombies.json) |
 | Lo and Behold | 371874 | [371874-lo-and-behold.json](./371874-lo-and-behold.json) |
 | Lo-fi | 179620 | [179620-lo-fi.json](./179620-lo-fi.json) |
@@ -4670,6 +4674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Pic: Love to Solve by Numbers | 212684 | [212684-logic-pic-love-to-solve-by-numbers.json](./212684-logic-pic-love-to-solve-by-numbers.json) |
 | Logic Pic: Nonogram Adventure | 212681 | [212681-logic-pic-nonogram-adventure.json](./212681-logic-pic-nonogram-adventure.json) |
 | Logic Puzzle Collection: Sudoku, Permudoku, Nonodoku | 147949 | [147949-logic-puzzle-collection-sudoku-permudoku-nonodoku.json](./147949-logic-puzzle-collection-sudoku-permudoku-nonodoku.json) |
+| Logic Quest 3D | 79759 | [79759-logic-quest-3d.json](./79759-logic-quest-3d.json) |
 | Logic Town: Santa's Grotto | 279131 | [279131-logic-town-santas-grotto.json](./279131-logic-town-santas-grotto.json) |
 | Logic Training IQ Quiz for Kids | 401131 | [401131-logic-training-iq-quiz-for-kids.json](./401131-logic-training-iq-quiz-for-kids.json) |
 | Logic: Electrons Connect | 153491 | [153491-logic-electrons-connect.json](./153491-logic-electrons-connect.json) |
