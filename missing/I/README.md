@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Can Transform | 265740 | [265740-i-can-transform.json](./265740-i-can-transform.json) |
 | I Can't Be Human | 332813 | [332813-i-cant-be-human.json](./332813-i-cant-be-human.json) |
 | I Can't Beat The Beautiful Ones | 393117 | [393117-i-cant-beat-the-beautiful-ones.json](./393117-i-cant-beat-the-beautiful-ones.json) |
+| I Can't Believe It's Not Gambling | 82722 | [82722-i-cant-believe-its-not-gambling.json](./82722-i-cant-believe-its-not-gambling.json) |
 | I Can't Believe It's Not Gambling 2(k) | 130716 | [130716-i-cant-believe-its-not-gambling-2-k.json](./130716-i-cant-believe-its-not-gambling-2-k.json) |
 | I Can't Believe It's Not Gambling: GOTY Edition | 74929 | [74929-i-cant-believe-its-not-gambling-goty-edition.json](./74929-i-cant-believe-its-not-gambling-goty-edition.json) |
 | I Can't Believe the Most Popular Girl in School is a Lesbian, Just Like Me! | 184894 | [184894-i-cant-believe-the-most-popular-girl-in-school-is-a-lesbian-just-like-me.json](./184894-i-cant-believe-the-most-popular-girl-in-school-is-a-lesbian-just-like-me.json) |
@@ -1271,7 +1272,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If U Seek Amy | 327415 | [327415-if-u-seek-amy.json](./327415-if-u-seek-amy.json) |
 | If We Make It Home | 347790 | [347790-if-we-make-it-home.json](./347790-if-we-make-it-home.json) |
 | If We Were Allowed To VIsit | 350976 | [350976-if-we-were-allowed-to-visit.json](./350976-if-we-were-allowed-to-visit.json) |
+| If you became a beautiful doll and were picked up by a perverted nerd | 82703 | [82703-if-you-became-a-beautiful-doll-and-were-picked-up-by-a-perverted-nerd.json](./82703-if-you-became-a-beautiful-doll-and-were-picked-up-by-a-perverted-nerd.json) |
 | If You Had One Shot | 364629 | [364629-if-you-had-one-shot.json](./364629-if-you-had-one-shot.json) |
+| If You Joined the Rugby Club... | 82698 | [82698-if-you-joined-the-rugby-club.json](./82698-if-you-joined-the-rugby-club.json) |
 | If you know what I mean | 88004 | [88004-if-you-know-what-i-mean.json](./88004-if-you-know-what-i-mean.json) |
 | If You Let Me In | 276760 | [276760-if-you-let-me-in.json](./276760-if-you-let-me-in.json) |
 | If You Stay | 413853 | [413853-if-you-stay.json](./413853-if-you-stay.json) |
