@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q.U.B.E. Ultimate Bundle | 271808 | [271808-q-u-b-e-ultimate-bundle.json](./271808-q-u-b-e-ultimate-bundle.json) |
 | Q.U.I.R.K. | 29819 | [29819-q-u-i-r-k.json](./29819-q-u-i-r-k.json) |
 | Q.u.q. | 238527 | [238527-q-u-q.json](./238527-q-u-q.json) |
+| Q'Bicles | 93472 | [93472-qbicles.json](./93472-qbicles.json) |
 | Q'Redux | 216946 | [216946-qredux.json](./216946-qredux.json) |
 | Q*bert | 100023 | [100023-q-bert.json](./100023-q-bert.json) |
 | Q*bert | 217954 | [217954-q-bert.json](./217954-q-bert.json) |
