@@ -9473,6 +9473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of the Buttons Family | 101971 | [101971-the-mystery-of-the-buttons-family.json](./101971-the-mystery-of-the-buttons-family.json) |
 | The Mystery of the Crystal Portal | 88605 | [88605-the-mystery-of-the-crystal-portal.json](./88605-the-mystery-of-the-crystal-portal.json) |
 | The Mystery of the Crystal Portal: Beyond the Horizon | 140614 | [140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json](./140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json) |
+| The Mystery of the Hudson Case | 95337 | [95337-the-mystery-of-the-hudson-case.json](./95337-the-mystery-of-the-hudson-case.json) |
 | The Mystery of the Mary Celeste | 206229 | [206229-the-mystery-of-the-mary-celeste.json](./206229-the-mystery-of-the-mary-celeste.json) |
 | The Mystery of the Moon | 250828 | [250828-the-mystery-of-the-moon.json](./250828-the-mystery-of-the-moon.json) |
 | The Mystery of the Nautilus | 73345 | [73345-the-mystery-of-the-nautilus.json](./73345-the-mystery-of-the-nautilus.json) |
@@ -16793,6 +16794,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege: Operation Void Edge | 135155 | [135155-tom-clancys-rainbow-six-siege-operation-void-edge.json](./135155-tom-clancys-rainbow-six-siege-operation-void-edge.json) |
 | Tom Clancy's Rainbow Six Siege: Operation White Noise | 76218 | [76218-tom-clancys-rainbow-six-siege-operation-white-noise.json](./76218-tom-clancys-rainbow-six-siege-operation-white-noise.json) |
 | Tom Clancy's Rainbow Six Siege: Operator Edition | 146125 | [146125-tom-clancys-rainbow-six-siege-operator-edition.json](./146125-tom-clancys-rainbow-six-siege-operator-edition.json) |
+| Tom Clancy's Rainbow Six Siege: Pro League Ash Set | 95351 | [95351-tom-clancys-rainbow-six-siege-pro-league-ash-set.json](./95351-tom-clancys-rainbow-six-siege-pro-league-ash-set.json) |
+| Tom Clancy's Rainbow Six Siege: Pro League Bandit Set | 95348 | [95348-tom-clancys-rainbow-six-siege-pro-league-bandit-set.json](./95348-tom-clancys-rainbow-six-siege-pro-league-bandit-set.json) |
+| Tom Clancy's Rainbow Six Siege: Pro League Mute Set | 95349 | [95349-tom-clancys-rainbow-six-siege-pro-league-mute-set.json](./95349-tom-clancys-rainbow-six-siege-pro-league-mute-set.json) |
+| Tom Clancy's Rainbow Six Siege: Pro League Thermite Set | 95350 | [95350-tom-clancys-rainbow-six-siege-pro-league-thermite-set.json](./95350-tom-clancys-rainbow-six-siege-pro-league-thermite-set.json) |
 | Tom Clancy's Rainbow Six Siege: Ultimate Edition | 118898 | [118898-tom-clancys-rainbow-six-siege-ultimate-edition.json](./118898-tom-clancys-rainbow-six-siege-ultimate-edition.json) |
 | Tom Clancy's Rainbow Six Siege: Year 2 HK SDU Special Edition | 167157 | [167157-tom-clancys-rainbow-six-siege-year-2-hk-sdu-special-edition.json](./167157-tom-clancys-rainbow-six-siege-year-2-hk-sdu-special-edition.json) |
 | Tom Clancy's Rainbow Six Siege: Year 3 Advanced Edition | 167162 | [167162-tom-clancys-rainbow-six-siege-year-3-advanced-edition.json](./167162-tom-clancys-rainbow-six-siege-year-3-advanced-edition.json) |
@@ -22203,6 +22208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Ruin | 119729 | [119729-twin-ruin.json](./119729-twin-ruin.json) |
 | Twin Sector | 11031 | [11031-twin-sector.json](./11031-twin-sector.json) |
 | Twin Series Vol. 5: Wan-wan Meitantei EX + Mahou no Kuni no Cake-ya-san Monogatari | 97960 | [97960-twin-series-vol-5-wan-wan-meitantei-ex-mahou-no-kuni-no-cake-ya-san-monogatari.json](./97960-twin-series-vol-5-wan-wan-meitantei-ex-mahou-no-kuni-no-cake-ya-san-monogatari.json) |
+| Twin Shooter - Invaders | 95333 | [95333-twin-shooter-invaders.json](./95333-twin-shooter-invaders.json) |
 | Twin Shot | 176869 | [176869-twin-shot.json](./176869-twin-shot.json) |
 | Twin Shot 2: Good & Evil | 180291 | [180291-twin-shot-2-good-and-evil.json](./180291-twin-shot-2-good-and-evil.json) |
 | Twin Shot Deluxe | 383682 | [383682-twin-shot-deluxe.json](./383682-twin-shot-deluxe.json) |
@@ -22496,6 +22502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type 'n Jump | 183995 | [183995-type-n-jump.json](./183995-type-n-jump.json) |
 | Type & Hope!! | 317364 | [317364-type-and-hope.json](./317364-type-and-hope.json) |
 | Type & Tell | 41579 | [41579-type-and-tell.json](./41579-type-and-tell.json) |
+| Type Attack | 95352 | [95352-type-attack.json](./95352-type-attack.json) |
 | Type da Puyo Puyo | 63839 | [63839-type-da-puyo-puyo.json](./63839-type-da-puyo-puyo.json) |
 | Type Defense | 105660 | [105660-type-defense.json](./105660-type-defense.json) |
 | Type Dreams | 116969 | [116969-type-dreams.json](./116969-type-dreams.json) |
