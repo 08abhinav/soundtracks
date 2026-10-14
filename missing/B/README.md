@@ -3361,6 +3361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bearable - Return to Candyland | 232391 | [232391-bearable-return-to-candyland.json](./232391-bearable-return-to-candyland.json) |
 | Bearable Nightmares | 148893 | [148893-bearable-nightmares.json](./148893-bearable-nightmares.json) |
 | Bearbarians | 62809 | [62809-bearbarians.json](./62809-bearbarians.json) |
+| Bearbushkas | 86653 | [86653-bearbushkas.json](./86653-bearbushkas.json) |
 | Bearcycle | 197125 | [197125-bearcycle.json](./197125-bearcycle.json) |
 | Beardbarians | 317900 | [317900-beardbarians.json](./317900-beardbarians.json) |
 | Bearded Dragons | 133475 | [133475-bearded-dragons.json](./133475-bearded-dragons.json) |
@@ -5782,6 +5783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitcoin Mining Empire Tycoon | 81658 | [81658-bitcoin-mining-empire-tycoon.json](./81658-bitcoin-mining-empire-tycoon.json) |
 | Bitcoin Mining Profit Calculator: Gaiden | 128566 | [128566-bitcoin-mining-profit-calculator-gaiden.json](./128566-bitcoin-mining-profit-calculator-gaiden.json) |
 | Bitcoin Mining Tycoon | 103469 | [103469-bitcoin-mining-tycoon.json](./103469-bitcoin-mining-tycoon.json) |
+| Bitcoin or Bomb? | 86765 | [86765-bitcoin-or-bomb.json](./86765-bitcoin-or-bomb.json) |
 | Bitcoin Trading Master | 99777 | [99777-bitcoin-trading-master.json](./99777-bitcoin-trading-master.json) |
 | Bitcoin Trading Master: Simulator | 125433 | [125433-bitcoin-trading-master-simulator.json](./125433-bitcoin-trading-master-simulator.json) |
 | Bitcoin VR | 28932 | [28932-bitcoin-vr.json](./28932-bitcoin-vr.json) |
@@ -6199,6 +6201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack Elf | 313895 | [313895-blackjack-elf.json](./313895-blackjack-elf.json) |
 | Blackjack Fever | 89589 | [89589-blackjack-fever.json](./89589-blackjack-fever.json) |
 | Blackjack In Space | 88200 | [88200-blackjack-in-space.json](./88200-blackjack-in-space.json) |
+| Blackjack Master | 86689 | [86689-blackjack-master.json](./86689-blackjack-master.json) |
 | Blackjack Player | 88437 | [88437-blackjack-player.json](./88437-blackjack-player.json) |
 | Blackjack Roulette | 380530 | [380530-blackjack-roulette.json](./380530-blackjack-roulette.json) |
 | Blackjack Roulette | 390217 | [390217-blackjack-roulette.json](./390217-blackjack-roulette.json) |
@@ -9788,6 +9791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Fighter 2: Frontier Free | 38952 | [38952-brave-fighter-2-frontier-free.json](./38952-brave-fighter-2-frontier-free.json) |
 | Brave Fighter: Demon Revenge | 38953 | [38953-brave-fighter-demon-revenge.json](./38953-brave-fighter-demon-revenge.json) |
 | Brave Firefighters: Real Life Heroes | 68307 | [68307-brave-firefighters-real-life-heroes.json](./68307-brave-firefighters-real-life-heroes.json) |
+| Brave Frontier 2 | 86659 | [86659-brave-frontier-2.json](./86659-brave-frontier-2.json) |
 | Brave Frontier ReXona | 205675 | [205675-brave-frontier-rexona.json](./205675-brave-frontier-rexona.json) |
 | Brave Frontier RPG | 118459 | [118459-brave-frontier-rpg.json](./118459-brave-frontier-rpg.json) |
 | Brave Furries | 35603 | [35603-brave-furries.json](./35603-brave-furries.json) |
