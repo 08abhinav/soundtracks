@@ -12189,6 +12189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle: Nature 2 | 213980 | [213980-puzzle-nature-2.json](./213980-puzzle-nature-2.json) |
 | Puzzle: Ocean | 116941 | [116941-puzzle-ocean.json](./116941-puzzle-ocean.json) |
 | Puzzle: Stone Blocks | 163555 | [163555-puzzle-stone-blocks.json](./163555-puzzle-stone-blocks.json) |
+| Puzzle: Ultimate | 118102 | [118102-puzzle-ultimate.json](./118102-puzzle-ultimate.json) |
 | Puzzle: Ultimate - Puzzle Pack: Castles | 163433 | [163433-puzzle-ultimate-puzzle-pack-castles.json](./163433-puzzle-ultimate-puzzle-pack-castles.json) |
 | Puzzle: Ultimate - Puzzle Pack: Dogs | 163432 | [163432-puzzle-ultimate-puzzle-pack-dogs.json](./163432-puzzle-ultimate-puzzle-pack-dogs.json) |
 | Puzzle: Ultimate - Puzzle Pack: Flowers | 163435 | [163435-puzzle-ultimate-puzzle-pack-flowers.json](./163435-puzzle-ultimate-puzzle-pack-flowers.json) |
