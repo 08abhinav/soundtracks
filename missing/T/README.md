@@ -20718,6 +20718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial of Greed VR | 410861 | [410861-trial-of-greed-vr.json](./410861-trial-of-greed-vr.json) |
 | Trial of Sacrifice | 306418 | [306418-trial-of-sacrifice.json](./306418-trial-of-sacrifice.json) |
 | Trial of the Clone | 63670 | [63670-trial-of-the-clone.json](./63670-trial-of-the-clone.json) |
+| Trial of the Demon Hunter | 81136 | [81136-trial-of-the-demon-hunter.json](./81136-trial-of-the-demon-hunter.json) |
 | Trial of the Gods: Ariadne's Journey | 416188 | [416188-trial-of-the-gods-ariadnes-journey.json](./416188-trial-of-the-gods-ariadnes-journey.json) |
 | Trial of the Gods: Siralim CCG | 133195 | [133195-trial-of-the-gods-siralim-ccg.json](./133195-trial-of-the-gods-siralim-ccg.json) |
 | Trial of Two | 152452 | [152452-trial-of-two.json](./152452-trial-of-two.json) |
@@ -22219,6 +22220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight of the Gods | 370855 | [370855-twilight-of-the-gods.json](./370855-twilight-of-the-gods.json) |
 | Twilight Oracle | 244873 | [244873-twilight-oracle.json](./244873-twilight-oracle.json) |
 | Twilight Path | 109615 | [109615-twilight-path.json](./109615-twilight-path.json) |
+| Twilight Phenomena: Strange Menagerie - Collector's Edition | 81080 | [81080-twilight-phenomena-strange-menagerie-collectors-edition.json](./81080-twilight-phenomena-strange-menagerie-collectors-edition.json) |
 | Twilight Protocol | 373734 | [373734-twilight-protocol.json](./373734-twilight-protocol.json) |
 | Twilight Refrain | 63843 | [63843-twilight-refrain.json](./63843-twilight-refrain.json) |
 | Twilight School: The Forbidden Experiment | 325728 | [325728-twilight-school-the-forbidden-experiment.json](./325728-twilight-school-the-forbidden-experiment.json) |
