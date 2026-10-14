@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| Q | 74270 | [74270-q.json](./74270-q.json) |
 | Q Billion | 49026 | [49026-q-billion.json](./49026-q-billion.json) |
 | Q Remastered | 222250 | [222250-q-remastered.json](./222250-q-remastered.json) |
 | Q-Ball: Billiards Master | 43272 | [43272-q-ball-billiards-master.json](./43272-q-ball-billiards-master.json) |
