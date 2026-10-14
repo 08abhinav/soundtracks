@@ -4114,6 +4114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers RPG: Online Battles | 261829 | [261829-checkers-rpg-online-battles.json](./261829-checkers-rpg-online-battles.json) |
 | Checkers Saga | 58275 | [58275-checkers-saga.json](./58275-checkers-saga.json) |
 | Checkers Twist | 284815 | [284815-checkers-twist.json](./284815-checkers-twist.json) |
+| Checkers Ultimate | 93460 | [93460-checkers-ultimate.json](./93460-checkers-ultimate.json) |
 | Checkers World | 88663 | [88663-checkers-world.json](./88663-checkers-world.json) |
 | Checkers: Playdate | 315767 | [315767-checkers-playdate.json](./315767-checkers-playdate.json) |
 | Checkers' Birthday Party | 381936 | [381936-checkers-birthday-party.json](./381936-checkers-birthday-party.json) |
@@ -4449,6 +4450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessmaster: The Art of Learning | 20777 | [20777-chessmaster-the-art-of-learning.json](./20777-chessmaster-the-art-of-learning.json) |
 | Chessmate | 413719 | [413719-chessmate.json](./413719-chessmate.json) |
 | ChessRogue | 319280 | [319280-chessrogue.json](./319280-chessrogue.json) |
+| ChessRogue | 93479 | [93479-chessrogue.json](./93479-chessrogue.json) |
 | Chesst | 400891 | [400891-chesst.json](./400891-chesst.json) |
 | Chesstle | 143411 | [143411-chesstle.json](./143411-chesstle.json) |
 | Chesstris | 361633 | [361633-chesstris.json](./361633-chesstris.json) |
@@ -7826,6 +7828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Maze | 184114 | [184114-color-maze.json](./184114-color-maze.json) |
 | Color Me !!! for Mac | 99375 | [99375-color-me-for-mac.json](./99375-color-me-for-mac.json) |
 | Color Meme | 107057 | [107057-color-meme.json](./107057-color-meme.json) |
+| Color Meteoroids | 93449 | [93449-color-meteoroids.json](./93449-color-meteoroids.json) |
 | Color Move 2 | 407246 | [407246-color-move-2.json](./407246-color-move-2.json) |
 | Color Muse | 368618 | [368618-color-muse.json](./368618-color-muse.json) |
 | Color Ninjas | 181782 | [181782-color-ninjas.json](./181782-color-ninjas.json) |
@@ -11354,6 +11357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CricVRX: VR Cricket | 120772 | [120772-cricvrx-vr-cricket.json](./120772-cricvrx-vr-cricket.json) |
 | Crimanimals | 372082 | [372082-crimanimals.json](./372082-crimanimals.json) |
 | Crimax | 130912 | [130912-crimax.json](./130912-crimax.json) |
+| cRiMe | 93459 | [93459-crime.json](./93459-crime.json) |
 | Crime Boss: Heavy Hitters Pack | 276298 | [276298-crime-boss-heavy-hitters-pack.json](./276298-crime-boss-heavy-hitters-pack.json) |
 | Crime Boss: Rockay City - Cagnali's Order | 315500 | [315500-crime-boss-rockay-city-cagnalis-order.json](./315500-crime-boss-rockay-city-cagnalis-order.json) |
 | Crime Boss: Rockay City - Cracker Character Pack | 334292 | [334292-crime-boss-rockay-city-cracker-character-pack.json](./334292-crime-boss-rockay-city-cracker-character-pack.json) |
@@ -13299,6 +13303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CutNRun | 93579 | [93579-cutnrun.json](./93579-cutnrun.json) |
 | Cutout | 415178 | [415178-cutout.json](./415178-cutout.json) |
 | Cutout World | 339356 | [339356-cutout-world.json](./339356-cutout-world.json) |
+| Cutouts! | 93454 | [93454-cutouts.json](./93454-cutouts.json) |
 | Cutthroat | 80929 | [80929-cutthroat.json](./80929-cutthroat.json) |
 | Cutthroat Gunboat | 51419 | [51419-cutthroat-gunboat.json](./51419-cutthroat-gunboat.json) |
 | Cutthroat Island GG2SMS | 369594 | [369594-cutthroat-island-gg2sms.json](./369594-cutthroat-island-gg2sms.json) |
