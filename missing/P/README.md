@@ -4021,6 +4021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PickUp Express | 72956 | [72956-pickup-express.json](./72956-pickup-express.json) |
 | Pickup One | 202753 | [202753-pickup-one.json](./202753-pickup-one.json) |
 | Pickup Point Simulator | 304613 | [304613-pickup-point-simulator.json](./304613-pickup-point-simulator.json) |
+| Picma: Picture Enigmas | 102044 | [102044-picma-picture-enigmas.json](./102044-picma-picture-enigmas.json) |
 | Picme | 245739 | [245739-picme.json](./245739-picme.json) |
 | Picnic | 22817 | [22817-picnic.json](./22817-picnic.json) |
 | Picnic Girls | 376760 | [376760-picnic-girls.json](./376760-picnic-girls.json) |
@@ -7959,6 +7960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Políticos Memes Kombat | 273558 | [273558-politicos-memes-kombat.json](./273558-politicos-memes-kombat.json) |
 | Politics The Game | 304903 | [304903-politics-the-game.json](./304903-politics-the-game.json) |
 | Politiks | 391176 | [391176-politiks.json](./391176-politiks.json) |
+| PolitiTruth | 102065 | [102065-polititruth.json](./102065-polititruth.json) |
 | Politon | 259099 | [259099-politon.json](./259099-politon.json) |
 | Polity | 149228 | [149228-polity.json](./149228-polity.json) |
 | Polka Sheep | 305335 | [305335-polka-sheep.json](./305335-polka-sheep.json) |
