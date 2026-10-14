@@ -1588,6 +1588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Our Ship | 40697 | [40697-save-our-ship.json](./40697-save-our-ship.json) |
 | Save Our Solar System | 243055 | [243055-save-our-solar-system.json](./243055-save-our-solar-system.json) |
 | Save Our Spirit | 206662 | [206662-save-our-spirit.json](./206662-save-our-spirit.json) |
+| Save President From Rebels | 107730 | [107730-save-president-from-rebels.json](./107730-save-president-from-rebels.json) |
 | Save Room: The Merchant | 256726 | [256726-save-room-the-merchant.json](./256726-save-room-the-merchant.json) |
 | Save Santa | 219611 | [219611-save-santa.json](./219611-save-santa.json) |
 | Save Scream and Run | 319279 | [319279-save-scream-and-run.json](./319279-save-scream-and-run.json) |
@@ -5022,6 +5023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharks and Minnows | 340956 | [340956-sharks-and-minnows.json](./340956-sharks-and-minnows.json) |
 | SharkSketch | 60576 | [60576-sharksketch.json](./60576-sharksketch.json) |
 | Sharkstorm | 297606 | [297606-sharkstorm.json](./297606-sharkstorm.json) |
+| Sharp | 107729 | [107729-sharp.json](./107729-sharp.json) |
 | Sharp Minds | 240835 | [240835-sharp-minds.json](./240835-sharp-minds.json) |
 | Sharp Shooter | 213884 | [213884-sharp-shooter.json](./213884-sharp-shooter.json) |
 | Sharp Shooter Bundle: S.N.I.P.E.R Hunter Scope + Knights & Guns | 196824 | [196824-sharp-shooter-bundle-s-n-i-p-e-r-hunter-scope-knights-and-guns.json](./196824-sharp-shooter-bundle-s-n-i-p-e-r-hunter-scope-knights-and-guns.json) |
@@ -9572,6 +9574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoked Fish and Cabbage 2 | 278620 | [278620-smoked-fish-and-cabbage-2.json](./278620-smoked-fish-and-cabbage-2.json) |
 | Smoked Fish And Cabbage 3 | 328046 | [328046-smoked-fish-and-cabbage-3.json](./328046-smoked-fish-and-cabbage-3.json) |
 | Smoked Gun | 149378 | [149378-smoked-gun.json](./149378-smoked-gun.json) |
+| Smoker the Car Game | 107706 | [107706-smoker-the-car-game.json](./107706-smoker-the-car-game.json) |
 | Smokin' Guns | 27607 | [27607-smokin-guns.json](./27607-smokin-guns.json) |
 | Smokin' Guns - Shooting Gallery | 135854 | [135854-smokin-guns-shooting-gallery.json](./135854-smokin-guns-shooting-gallery.json) |
 | Smokin' Token | 58473 | [58473-smokin-token.json](./58473-smokin-token.json) |
@@ -13677,6 +13680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spawn: Armageddon | 4160 | [4160-spawn-armageddon.json](./4160-spawn-armageddon.json) |
 | Spawn: In the Demon's Hand | 4358 | [4358-spawn-in-the-demons-hand.json](./4358-spawn-in-the-demons-hand.json) |
 | Spawn: The Eternal | 45208 | [45208-spawn-the-eternal.json](./45208-spawn-the-eternal.json) |
+| Spawn: The Ultimate | 107626 | [107626-spawn-the-ultimate.json](./107626-spawn-the-ultimate.json) |
 | Speak & Spell | 245402 | [245402-speak-and-spell.json](./245402-speak-and-spell.json) |
 | Speak Lies | 127360 | [127360-speak-lies.json](./127360-speak-lies.json) |
 | Speak of my sin | 336648 | [336648-speak-of-my-sin.json](./336648-speak-of-my-sin.json) |
@@ -15473,6 +15477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squid Squabble | 264602 | [264602-squid-squabble.json](./264602-squid-squabble.json) |
 | Squid Survival Simulator: Sea Animal Life 3D | 104594 | [104594-squid-survival-simulator-sea-animal-life-3d.json](./104594-squid-survival-simulator-sea-animal-life-3d.json) |
 | Squid Town | 112511 | [112511-squid-town.json](./112511-squid-town.json) |
+| Squid Vs Vexus | 107694 | [107694-squid-vs-vexus.json](./107694-squid-vs-vexus.json) |
 | Squid: Sponge Neighbor Expose | 326703 | [326703-squid-sponge-neighbor-expose.json](./326703-squid-sponge-neighbor-expose.json) |
 | Squid! Escape! Fight! | 229254 | [229254-squid-escape-fight.json](./229254-squid-escape-fight.json) |
 | Squidgies Takeover | 125122 | [125122-squidgies-takeover.json](./125122-squidgies-takeover.json) |
@@ -16922,6 +16927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starsand Island | 310885 | [310885-starsand-island.json](./310885-starsand-island.json) |
 | StarsAway | 291195 | [291195-starsaway.json](./291195-starsaway.json) |
 | Starseed Harmonies | 385553 | [385553-starseed-harmonies.json](./385553-starseed-harmonies.json) |
+| Starseeker | 107608 | [107608-starseeker.json](./107608-starseeker.json) |
 | Starshapes | 249864 | [249864-starshapes.json](./249864-starshapes.json) |
 | Starshard Brigands | 401860 | [401860-starshard-brigands.json](./401860-starshard-brigands.json) |
 | Starshatter | 70929 | [70929-starshatter.json](./70929-starshatter.json) |
@@ -17928,6 +17934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stitch Master of Disguise | 133747 | [133747-stitch-master-of-disguise.json](./133747-stitch-master-of-disguise.json) |
 | Stitch: Hoop Pack 1 | 333196 | [333196-stitch-hoop-pack-1.json](./333196-stitch-hoop-pack-1.json) |
 | Stitch! Super Chef | 71154 | [71154-stitch-super-chef.json](./71154-stitch-super-chef.json) |
+| Stitch!Now | 107622 | [107622-stitch-now.json](./107622-stitch-now.json) |
 | Stitch. | 225655 | [225655-stitch.json](./225655-stitch.json) |
 | Stitch's Blazing Lasers | 342673 | [342673-stitchs-blazing-lasers.json](./342673-stitchs-blazing-lasers.json) |
 | Stitch's Escape Game | 326769 | [326769-stitchs-escape-game.json](./326769-stitchs-escape-game.json) |
