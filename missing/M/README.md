@@ -1309,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Kazoku | 41364 | [41364-mahjong-kazoku.json](./41364-mahjong-kazoku.json) |
 | Mahjong Kuru Jidai: AV Gal Seifukuhen | 254452 | [254452-mahjong-kuru-jidai-av-gal-seifukuhen.json](./254452-mahjong-kuru-jidai-av-gal-seifukuhen.json) |
 | Mahjong Kyo Retsuden | 75450 | [75450-mahjong-kyo-retsuden.json](./75450-mahjong-kyo-retsuden.json) |
+| Mahjong Kyoushitsu | 130623 | [130623-mahjong-kyoushitsu.json](./130623-mahjong-kyoushitsu.json) |
 | Mahjong Lemon Angel | 42004 | [42004-mahjong-lemon-angel.json](./42004-mahjong-lemon-angel.json) |
 | Mahjong Lonely Island: Majong Star Tower Deluxe | 232387 | [232387-mahjong-lonely-island-majong-star-tower-deluxe.json](./232387-mahjong-lonely-island-majong-star-tower-deluxe.json) |
 | Mahjong Magic Islands | 74386 | [74386-mahjong-magic-islands.json](./74386-mahjong-magic-islands.json) |
@@ -6372,6 +6373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid 3: Snake Eater - Limited Metal Edition | 43264 | [43264-metal-gear-solid-3-snake-eater-limited-metal-edition.json](./43264-metal-gear-solid-3-snake-eater-limited-metal-edition.json) |
 | Metal Gear Solid 3: Snake Eater - Master Collection Version | 383391 | [383391-metal-gear-solid-3-snake-eater-master-collection-version.json](./383391-metal-gear-solid-3-snake-eater-master-collection-version.json) |
 | Metal Gear Solid 3: Snake Eater - Slipcase Edition | 43262 | [43262-metal-gear-solid-3-snake-eater-slipcase-edition.json](./43262-metal-gear-solid-3-snake-eater-slipcase-edition.json) |
+| Metal Gear Solid 4 Database | 131255 | [131255-metal-gear-solid-4-database.json](./131255-metal-gear-solid-4-database.json) |
 | Metal Gear Solid 4: 25th Anniversary Edition | 44569 | [44569-metal-gear-solid-4-25th-anniversary-edition.json](./44569-metal-gear-solid-4-25th-anniversary-edition.json) |
 | Metal Gear Solid 4: Guns of the Patriots - Limited Edition | 45177 | [45177-metal-gear-solid-4-guns-of-the-patriots-limited-edition.json](./45177-metal-gear-solid-4-guns-of-the-patriots-limited-edition.json) |
 | Metal Gear Solid Delta: Snake Eater - Digital Deluxe Edition | 331472 | [331472-metal-gear-solid-delta-snake-eater-digital-deluxe-edition.json](./331472-metal-gear-solid-delta-snake-eater-digital-deluxe-edition.json) |
@@ -12658,6 +12660,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Meet Cute | 399858 | [399858-murder-meet-cute.json](./399858-murder-meet-cute.json) |
 | Murder Miners | 17035 | [17035-murder-miners.json](./17035-murder-miners.json) |
 | Murder Miners X | 265159 | [265159-murder-miners-x.json](./265159-murder-miners-x.json) |
+| Murder Mystery 2: Criminal Case | 130649 | [130649-murder-mystery-2-criminal-case.json](./130649-murder-mystery-2-criminal-case.json) |
+| Murder Mystery 3: A Life of Crime | 130650 | [130650-murder-mystery-3-a-life-of-crime.json](./130650-murder-mystery-3-a-life-of-crime.json) |
 | Murder Mystery Adventure | 27302 | [27302-murder-mystery-adventure.json](./27302-murder-mystery-adventure.json) |
 | Murder Mystery Castle | 399746 | [399746-murder-mystery-castle.json](./399746-murder-mystery-castle.json) |
 | Murder Mystery J: Jinrou Judgment - Maru Icon | 325460 | [325460-murder-mystery-j-jinrou-judgment-maru-icon.json](./325460-murder-mystery-j-jinrou-judgment-maru-icon.json) |
@@ -12698,6 +12702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Mystery Machine | 111944 | [111944-murder-mystery-machine.json](./111944-murder-mystery-machine.json) |
 | Murder Mystery Mayhem AI | 319073 | [319073-murder-mystery-mayhem-ai.json](./319073-murder-mystery-mayhem-ai.json) |
 | Murder Mystery Paradox: Fifteen Years of Summer | 247526 | [247526-murder-mystery-paradox-fifteen-years-of-summer.json](./247526-murder-mystery-paradox-fifteen-years-of-summer.json) |
+| Murder Mystery- Detective Investigation Story | 130648 | [130648-murder-mystery-detective-investigation-story.json](./130648-murder-mystery-detective-investigation-story.json) |
 | Murder Mystery: Who Killed Linda Neuman | 251095 | [251095-murder-mystery-who-killed-linda-neuman.json](./251095-murder-mystery-who-killed-linda-neuman.json) |
 | Murder Next Room | 225214 | [225214-murder-next-room.json](./225214-murder-next-room.json) |
 | Murder on Mainstreet | 262299 | [262299-murder-on-mainstreet.json](./262299-murder-on-mainstreet.json) |
@@ -12879,6 +12884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music on: Electric Guitar | 79881 | [79881-music-on-electric-guitar.json](./79881-music-on-electric-guitar.json) |
 | Music Piano 7 | 352191 | [352191-music-piano-7.json](./352191-music-piano-7.json) |
 | Music Puzzle | 256543 | [256543-music-puzzle.json](./256543-music-puzzle.json) |
+| Music Quiz | 131282 | [131282-music-quiz.json](./131282-music-quiz.json) |
 | Music Quiz | 210110 | [210110-music-quiz.json](./210110-music-quiz.json) |
 | Music Quiz Party | 173105 | [173105-music-quiz-party.json](./173105-music-quiz-party.json) |
 | Music Racer 2000 | 167568 | [167568-music-racer-2000.json](./167568-music-racer-2000.json) |
@@ -12891,6 +12897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Summoner | 249874 | [249874-music-summoner.json](./249874-music-summoner.json) |
 | Music Thief | 191813 | [191813-music-thief.json](./191813-music-thief.json) |
 | Music vs Block: Piano Simulation Game | 102242 | [102242-music-vs-block-piano-simulation-game.json](./102242-music-vs-block-piano-simulation-game.json) |
+| Music: Music Creation for the PlayStation | 131289 | [131289-music-music-creation-for-the-playstation.json](./131289-music-music-creation-for-the-playstation.json) |
 | Music95 | 149512 | [149512-music95.json](./149512-music95.json) |
 | Musical Balls | 149525 | [149525-musical-balls.json](./149525-musical-balls.json) |
 | Musical Chairs | 214009 | [214009-musical-chairs.json](./214009-musical-chairs.json) |
@@ -13132,6 +13139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Beloved Faction | 176205 | [176205-my-beloved-faction.json](./176205-my-beloved-faction.json) |
 | My Best Friend Kouta | 245887 | [245887-my-best-friend-kouta.json](./245887-my-best-friend-kouta.json) |
 | My Best Friends: Cats & Dogs | 17043 | [17043-my-best-friends-cats-and-dogs.json](./17043-my-best-friends-cats-and-dogs.json) |
+| My Best Friends: St. Andrew Jogakuin Hen | 130629 | [130629-my-best-friends-st-andrew-jogakuin-hen.json](./130629-my-best-friends-st-andrew-jogakuin-hen.json) |
 | My Best Life My Pest Life | 393118 | [393118-my-best-life-my-pest-life.json](./393118-my-best-life-my-pest-life.json) |
 | My Best Nightmare | 166673 | [166673-my-best-nightmare.json](./166673-my-best-nightmare.json) |
 | My Bewitching Perfume | 135637 | [135637-my-bewitching-perfume.json](./135637-my-bewitching-perfume.json) |
@@ -13912,6 +13920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Tribe 3D | 223991 | [223991-my-tribe-3d.json](./223991-my-tribe-3d.json) |
 | My Tsundere Femboy | 277368 | [277368-my-tsundere-femboy.json](./277368-my-tsundere-femboy.json) |
 | My Tsundere Sister | 407473 | [407473-my-tsundere-sister.json](./407473-my-tsundere-sister.json) |
+| My Turn - Card Game | 130624 | [130624-my-turn-card-game.json](./130624-my-turn-card-game.json) |
 | My Two First Loves | 313847 | [313847-my-two-first-loves.json](./313847-my-two-first-loves.json) |
 | My Type! | 266829 | [266829-my-type.json](./266829-my-type.json) |
 | My Typing Skill | 119548 | [119548-my-typing-skill.json](./119548-my-typing-skill.json) |
