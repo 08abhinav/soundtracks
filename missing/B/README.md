@@ -592,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad End Theater | 178264 | [178264-bad-end-theater.json](./178264-bad-end-theater.json) |
 | Bad Ethics | 252094 | [252094-bad-ethics.json](./252094-bad-ethics.json) |
 | Bad Faith | 329027 | [329027-bad-faith.json](./329027-bad-faith.json) |
+| Bad Girl | 127676 | [127676-bad-girl.json](./127676-bad-girl.json) |
 | Bad Girl Confidential: The Pleasure Den | 286530 | [286530-bad-girl-confidential-the-pleasure-den.json](./286530-bad-girl-confidential-the-pleasure-den.json) |
 | Bad Girls | 92432 | [92432-bad-girls.json](./92432-bad-girls.json) |
 | Bad Girls: Sweet Trouble | 401105 | [401105-bad-girls-sweet-trouble.json](./401105-bad-girls-sweet-trouble.json) |
@@ -5384,6 +5385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionicle: Masks of Power - Legacy | 354948 | [354948-bionicle-masks-of-power-legacy.json](./354948-bionicle-masks-of-power-legacy.json) |
 | Bionicle: Maze of Shadows | 15738 | [15738-bionicle-maze-of-shadows.json](./15738-bionicle-maze-of-shadows.json) |
 | Bionicle: The Game | 3811 | [3811-bionicle-the-game.json](./3811-bionicle-the-game.json) |
+| Bionicle: The Legend of Mata Nui | 127645 | [127645-bionicle-the-legend-of-mata-nui.json](./127645-bionicle-the-legend-of-mata-nui.json) |
 | Bionite: Origins | 34105 | [34105-bionite-origins.json](./34105-bionite-origins.json) |
 | BioOcean Fantasy | 196528 | [196528-bioocean-fantasy.json](./196528-bioocean-fantasy.json) |
 | Biophage | 316701 | [316701-biophage.json](./316701-biophage.json) |
@@ -5855,6 +5857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Code | 55840 | [55840-black-code.json](./55840-black-code.json) |
 | Black College Football: The Xperience | 47439 | [47439-black-college-football-the-xperience.json](./47439-black-college-football-the-xperience.json) |
 | Black Command | 107221 | [107221-black-command.json](./107221-black-command.json) |
+| Black Crystals | 127700 | [127700-black-crystals.json](./127700-black-crystals.json) |
 | Black Cycle | 226194 | [226194-black-cycle.json](./226194-black-cycle.json) |
 | Black Dahlia | 12405 | [12405-black-dahlia.json](./12405-black-dahlia.json) |
 | Black Dawn | 125312 | [125312-black-dawn.json](./125312-black-dawn.json) |
@@ -8554,6 +8557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Blox | 2259 | [2259-boom-blox.json](./2259-boom-blox.json) |
 | Boom Boom Bovine | 120118 | [120118-boom-boom-bovine.json](./120118-boom-boom-bovine.json) |
 | Boom Boom Volleyball | 263470 | [263470-boom-boom-volleyball.json](./263470-boom-boom-volleyball.json) |
+| Boom Boomerang | 127683 | [127683-boom-boomerang.json](./127683-boom-boomerang.json) |
 | Boom Box Blue! | 74496 | [74496-boom-box-blue.json](./74496-boom-box-blue.json) |
 | Boom Buddy | 368491 | [368491-boom-buddy.json](./368491-boom-buddy.json) |
 | Boom Chick Chick | 85714 | [85714-boom-chick-chick.json](./85714-boom-chick-chick.json) |
@@ -8983,6 +8987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce House | 262487 | [262487-bounce-house.json](./262487-bounce-house.json) |
 | Bounce It | 363033 | [363033-bounce-it.json](./363033-bounce-it.json) |
 | Bounce Journey | 242977 | [242977-bounce-journey.json](./242977-bounce-journey.json) |
+| Bounce Knight | 127694 | [127694-bounce-knight.json](./127694-bounce-knight.json) |
 | Bounce Lounge | 233232 | [233232-bounce-lounge.json](./233232-bounce-lounge.json) |
 | Bounce Mania | 146849 | [146849-bounce-mania.json](./146849-bounce-mania.json) |
 | Bounce On 2: Drallo's Demise | 182297 | [182297-bounce-on-2-drallos-demise.json](./182297-bounce-on-2-drallos-demise.json) |
