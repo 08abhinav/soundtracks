@@ -6100,6 +6100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Worlds | 216700 | [216700-city-worlds.json](./216700-city-worlds.json) |
 | City Z | 34682 | [34682-city-z.json](./34682-city-z.json) |
 | City Zombie Madness | 272190 | [272190-city-zombie-madness.json](./272190-city-zombie-madness.json) |
+| City Zombies | 116909 | [116909-city-zombies.json](./116909-city-zombies.json) |
 | City-Racing | 358887 | [358887-city-racing.json](./358887-city-racing.json) |
 | City: Battle Ground | 345012 | [345012-city-battle-ground.json](./345012-city-battle-ground.json) |
 | City::Ephemera | 322040 | [322040-city-ephemera.json](./322040-city-ephemera.json) |
@@ -7289,6 +7290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: Tiaras | 195981 | [195981-codename-tiaras.json](./195981-codename-tiaras.json) |
 | Codename: Twilight | 373761 | [373761-codename-twilight.json](./373761-codename-twilight.json) |
 | Codenames | 105254 | [105254-codenames.json](./105254-codenames.json) |
+| CoderBear | 116879 | [116879-coderbear.json](./116879-coderbear.json) |
 | CodeRed 911 | 334943 | [334943-codered-911.json](./334943-codered-911.json) |
 | CodeRed: Agent Sarah's Story - Day One | 76679 | [76679-codered-agent-sarahs-story-day-one.json](./76679-codered-agent-sarahs-story-day-one.json) |
 | CodeRunner | 200029 | [200029-coderunner.json](./200029-coderunner.json) |
