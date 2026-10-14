@@ -2370,6 +2370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings | 78364 | [78364-kings.json](./78364-kings.json) |
 | Kings & Savages | 330264 | [330264-kings-and-savages.json](./330264-kings-and-savages.json) |
 | Kings Age | 62717 | [62717-kings-age.json](./62717-kings-age.json) |
+| Kings and Castles | 94154 | [94154-kings-and-castles.json](./94154-kings-and-castles.json) |
 | Kings and Catapults | 215647 | [215647-kings-and-catapults.json](./215647-kings-and-catapults.json) |
 | Kings and Generals: A Divided Loyalty | 60249 | [60249-kings-and-generals-a-divided-loyalty.json](./60249-kings-and-generals-a-divided-loyalty.json) |
 | Kings and Legends | 62791 | [62791-kings-and-legends.json](./62791-kings-and-legends.json) |
@@ -3844,6 +3845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krosfighter | 275844 | [275844-krosfighter.json](./275844-krosfighter.json) |
 | Krosmaga | 29097 | [29097-krosmaga.json](./29097-krosmaga.json) |
 | Krosmaster Arena | 17964 | [17964-krosmaster-arena.json](./17964-krosmaster-arena.json) |
+| KRTL: Jay Und Die Spielzeugdiebe | 94155 | [94155-krtl-jay-und-die-spielzeugdiebe.json](./94155-krtl-jay-und-die-spielzeugdiebe.json) |
 | Kruger | 202773 | [202773-kruger.json](./202773-kruger.json) |
 | Krull | 292096 | [292096-krull.json](./292096-krull.json) |
 | Krum: Battle Arena | 157562 | [157562-krum-battle-arena.json](./157562-krum-battle-arena.json) |
