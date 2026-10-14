@@ -1675,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Inferno | 322701 | [322701-neon-inferno.json](./322701-neon-inferno.json) |
 | Neon Infinity | 114931 | [114931-neon-infinity.json](./114931-neon-infinity.json) |
 | Neon Junctions | 118352 | [118352-neon-junctions.json](./118352-neon-junctions.json) |
+| Neon Kicks | 117462 | [117462-neon-kicks.json](./117462-neon-kicks.json) |
 | Neon Knight | 160295 | [160295-neon-knight.json](./160295-neon-knight.json) |
 | Neon Knights: Humanity Erased | 190484 | [190484-neon-knights-humanity-erased.json](./190484-neon-knights-humanity-erased.json) |
 | Neon Krieger Yamato | 82357 | [82357-neon-krieger-yamato.json](./82357-neon-krieger-yamato.json) |
@@ -2293,6 +2294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New World: Rise of the Angry Earth | 266781 | [266781-new-world-rise-of-the-angry-earth.json](./266781-new-world-rise-of-the-angry-earth.json) |
 | New XCommander | 337758 | [337758-new-xcommander.json](./337758-new-xcommander.json) |
 | New Yankee 6: In Pharaoh's Court | 117096 | [117096-new-yankee-6-in-pharaohs-court.json](./117096-new-yankee-6-in-pharaohs-court.json) |
+| New Yankee 7: Deer Hunters | 117426 | [117426-new-yankee-7-deer-hunters.json](./117426-new-yankee-7-deer-hunters.json) |
 | New Yankee 8: Journey of Odysseus | 132546 | [132546-new-yankee-8-journey-of-odysseus.json](./132546-new-yankee-8-journey-of-odysseus.json) |
 | New Yankee in King Arthur's Court | 32989 | [32989-new-yankee-in-king-arthurs-court.json](./32989-new-yankee-in-king-arthurs-court.json) |
 | New Yankee in King Arthur's Court 2 | 31855 | [31855-new-yankee-in-king-arthurs-court-2.json](./31855-new-yankee-in-king-arthurs-court-2.json) |
@@ -3179,6 +3181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightsteel Survivors | 255274 | [255274-nightsteel-survivors.json](./255274-nightsteel-survivors.json) |
 | NightStone | 86211 | [86211-nightstone.json](./86211-nightstone.json) |
 | Nightswimming | 300820 | [300820-nightswimming.json](./300820-nightswimming.json) |
+| Nightwalk | 117447 | [117447-nightwalk.json](./117447-nightwalk.json) |
 | Nightwalker | 163946 | [163946-nightwalker.json](./163946-nightwalker.json) |
 | Nightwalker | 69516 | [69516-nightwalker.json](./69516-nightwalker.json) |
 | Nightwalker 2 | 152854 | [152854-nightwalker-2.json](./152854-nightwalker-2.json) |
@@ -4676,6 +4679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notebook Entries Vol.1 | 215623 | [215623-notebook-entries-vol-1.json](./215623-notebook-entries-vol-1.json) |
 | Notebook Ninja Fights | 144751 | [144751-notebook-ninja-fights.json](./144751-notebook-ninja-fights.json) |
 | Notebook Workshop | 406205 | [406205-notebook-workshop.json](./406205-notebook-workshop.json) |
+| Notemon | 117467 | [117467-notemon.json](./117467-notemon.json) |
 | Notes From Province | 212965 | [212965-notes-from-province.json](./212965-notes-from-province.json) |
 | Notes of Obsession | 56895 | [56895-notes-of-obsession.json](./56895-notes-of-obsession.json) |
 | Notes of the Outskirts | 262255 | [262255-notes-of-the-outskirts.json](./262255-notes-of-the-outskirts.json) |
