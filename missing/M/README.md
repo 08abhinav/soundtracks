@@ -11792,6 +11792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motor Cross | 305466 | [305466-motor-cross.json](./305466-motor-cross.json) |
 | Motor Cycle | 68274 | [68274-motor-cycle.json](./68274-motor-cycle.json) |
 | Motor Duels: Outcast | 55841 | [55841-motor-duels-outcast.json](./55841-motor-duels-outcast.json) |
+| Motor Gladiators | 105168 | [105168-motor-gladiators.json](./105168-motor-gladiators.json) |
 | Motor Mania | 25574 | [25574-motor-mania.json](./25574-motor-mania.json) |
 | Motor Mash | 44866 | [44866-motor-mash.json](./44866-motor-mash.json) |
 | Motor Mayhem | 43305 | [43305-motor-mayhem.json](./43305-motor-mayhem.json) |
