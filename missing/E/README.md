@@ -825,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Survival | 272268 | [272268-edge-of-survival.json](./272268-edge-of-survival.json) |
 | Edge of the Abyss Awaken | 152895 | [152895-edge-of-the-abyss-awaken.json](./152895-edge-of-the-abyss-awaken.json) |
 | Edge of the End | 367498 | [367498-edge-of-the-end.json](./367498-edge-of-the-end.json) |
+| Edge of Time: Rise of the Aeus | 120091 | [120091-edge-of-time-rise-of-the-aeus.json](./120091-edge-of-time-rise-of-the-aeus.json) |
 | Edge of War | 262885 | [262885-edge-of-war.json](./262885-edge-of-war.json) |
 | Edge Out : Escape Game | 90891 | [90891-edge-out-escape-game.json](./90891-edge-out-escape-game.json) |
 | Edge Road | 258904 | [258904-edge-road.json](./258904-edge-road.json) |
@@ -3071,6 +3072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equilibrium Ocean | 107161 | [107161-equilibrium-ocean.json](./107161-equilibrium-ocean.json) |
 | Equilibrium of Divinity | 30489 | [30489-equilibrium-of-divinity.json](./30489-equilibrium-of-divinity.json) |
 | Equilibrium Point | 388742 | [388742-equilibrium-point.json](./388742-equilibrium-point.json) |
+| Equilibrium Realms | 120075 | [120075-equilibrium-realms.json](./120075-equilibrium-realms.json) |
 | Equilibrium Space | 106486 | [106486-equilibrium-space.json](./106486-equilibrium-space.json) |
 | Equilibrium VR | 29941 | [29941-equilibrium-vr.json](./29941-equilibrium-vr.json) |
 | EquiMagic: Galashow of Horses | 76988 | [76988-equimagic-galashow-of-horses.json](./76988-equimagic-galashow-of-horses.json) |
