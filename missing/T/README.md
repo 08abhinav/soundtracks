@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tadpole Swimmer | 110822 | [110822-tadpole-swimmer.json](./110822-tadpole-swimmer.json) |
 | Tadpole Treble Encore | 142698 | [142698-tadpole-treble-encore.json](./142698-tadpole-treble-encore.json) |
 | Tae Bo Girl Dress Up | 62596 | [62596-tae-bo-girl-dress-up.json](./62596-tae-bo-girl-dress-up.json) |
+| Taekwondo | 93478 | [93478-taekwondo.json](./93478-taekwondo.json) |
 | TaekwonGirl | 329087 | [329087-taekwongirl.json](./329087-taekwongirl.json) |
 | Taern | 55929 | [55929-taern.json](./55929-taern.json) |
 | Tafl Champions: Ancient Chess | 159577 | [159577-tafl-champions-ancient-chess.json](./159577-tafl-champions-ancient-chess.json) |
@@ -4456,6 +4457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Eyed Peas Experience | 3302 | [3302-the-black-eyed-peas-experience.json](./3302-the-black-eyed-peas-experience.json) |
 | The Black Fog | 271853 | [271853-the-black-fog.json](./271853-the-black-fog.json) |
 | The Black Guards of Odom: Desert Town Prison | 278941 | [278941-the-black-guards-of-odom-desert-town-prison.json](./278941-the-black-guards-of-odom-desert-town-prison.json) |
+| The Black Hole | 93483 | [93483-the-black-hole.json](./93483-the-black-hole.json) |
 | The Black Iris | 143606 | [143606-the-black-iris.json](./143606-the-black-iris.json) |
 | The Black Knight | 113170 | [113170-the-black-knight.json](./113170-the-black-knight.json) |
 | The Black Knight | 249146 | [249146-the-black-knight.json](./249146-the-black-knight.json) |
@@ -6652,6 +6654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life 2: Sandy Shores World | 171592 | [171592-the-game-of-life-2-sandy-shores-world.json](./171592-the-game-of-life-2-sandy-shores-world.json) |
 | The Game of Life 2: Sweet Haven World | 207800 | [207800-the-game-of-life-2-sweet-haven-world.json](./207800-the-game-of-life-2-sweet-haven-world.json) |
 | The Game of Life 2: Under the Sea | 227729 | [227729-the-game-of-life-2-under-the-sea.json](./227729-the-game-of-life-2-under-the-sea.json) |
+| The Game of Life: DX Jinsei Game | 93455 | [93455-the-game-of-life-dx-jinsei-game.json](./93455-the-game-of-life-dx-jinsei-game.json) |
 | The Game of Life: Path to Success | 207002 | [207002-the-game-of-life-path-to-success.json](./207002-the-game-of-life-path-to-success.json) |
 | The Game of Life: RPG Jinsei Game | 48819 | [48819-the-game-of-life-rpg-jinsei-game.json](./48819-the-game-of-life-rpg-jinsei-game.json) |
 | The Game of Life: SpongeBob SquarePants Edition | 207003 | [207003-the-game-of-life-spongebob-squarepants-edition.json](./207003-the-game-of-life-spongebob-squarepants-edition.json) |
@@ -10729,6 +10732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seasons Collection: Spring | 156576 | [156576-the-seasons-collection-spring.json](./156576-the-seasons-collection-spring.json) |
 | The Second Chance Strip Club | 392926 | [392926-the-second-chance-strip-club.json](./392926-the-second-chance-strip-club.json) |
 | The Second Circle | 333107 | [333107-the-second-circle.json](./333107-the-second-circle.json) |
+| The Second Guest | 93494 | [93494-the-second-guest.json](./93494-the-second-guest.json) |
 | The Second Kids' World Almanac Adventure | 71531 | [71531-the-second-kids-world-almanac-adventure.json](./71531-the-second-kids-world-almanac-adventure.json) |
 | The Second Reality Room: Unspoken Truths | 390782 | [390782-the-second-reality-room-unspoken-truths.json](./390782-the-second-reality-room-unspoken-truths.json) |
 | The Second Reproduction: Reunion | 383596 | [383596-the-second-reproduction-reunion.json](./383596-the-second-reproduction-reunion.json) |
