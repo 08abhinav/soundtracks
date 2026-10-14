@@ -842,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wardrum | 380420 | [380420-wardrum.json](./380420-wardrum.json) |
 | Wardwell House VR | 163966 | [163966-wardwell-house-vr.json](./163966-wardwell-house-vr.json) |
 | Ware's Laboratory | 373111 | [373111-wares-laboratory.json](./373111-wares-laboratory.json) |
+| Wared | 119451 | [119451-wared.json](./119451-wared.json) |
 | Warehouse 30 | 403013 | [403013-warehouse-30.json](./403013-warehouse-30.json) |
 | Warehouse and Logistics Simulator | 17031 | [17031-warehouse-and-logistics-simulator.json](./17031-warehouse-and-logistics-simulator.json) |
 | Warehouse Bots | 298179 | [298179-warehouse-bots.json](./298179-warehouse-bots.json) |
@@ -1191,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlocks Quarry: Random Worlds + Explorer | 243773 | [243773-warlocks-quarry-random-worlds-explorer.json](./243773-warlocks-quarry-random-worlds-explorer.json) |
 | Warlode | 400530 | [400530-warlode.json](./400530-warlode.json) |
 | Warlondor | 401740 | [401740-warlondor.json](./401740-warlondor.json) |
+| Warlord | 120659 | [120659-warlord.json](./120659-warlord.json) |
 | Warlord | 184287 | [184287-warlord.json](./184287-warlord.json) |
 | Warlord: Britannia | 199476 | [199476-warlord-britannia.json](./199476-warlord-britannia.json) |
 | WarLord: Edenui Churak | 220281 | [220281-warlord-edenui-churak.json](./220281-warlord-edenui-churak.json) |
@@ -1579,6 +1581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch The Edge Honey | 412350 | [412350-watch-the-edge-honey.json](./412350-watch-the-edge-honey.json) |
 | Watch The Fish | 287190 | [287190-watch-the-fish.json](./287190-watch-the-fish.json) |
 | Watch This! | 33129 | [33129-watch-this.json](./33129-watch-this.json) |
+| Watch Tower | 121356 | [121356-watch-tower.json](./121356-watch-tower.json) |
 | Watch Trader | 339317 | [339317-watch-trader.json](./339317-watch-trader.json) |
 | Watch Where You're Going | 345077 | [345077-watch-where-youre-going.json](./345077-watch-where-youre-going.json) |
 | Watch Your Back | 203838 | [203838-watch-your-back.json](./203838-watch-your-back.json) |
@@ -1631,6 +1634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Is All I Can See | 214663 | [214663-water-is-all-i-can-see.json](./214663-water-is-all-i-can-see.json) |
 | Water Level / B.l.u.e. Exploration | 320938 | [320938-water-level-b-l-u-e-exploration.json](./320938-water-level-b-l-u-e-exploration.json) |
 | Water Maid | 333038 | [333038-water-maid.json](./333038-water-maid.json) |
+| Water Margin: The Tales of Clouds and Winds | 120062 | [120062-water-margin-the-tales-of-clouds-and-winds.json](./120062-water-margin-the-tales-of-clouds-and-winds.json) |
 | Water Me & You | 260169 | [260169-water-me-and-you.json](./260169-water-me-and-you.json) |
 | Water Me Please! | 358819 | [358819-water-me-please.json](./358819-water-me-please.json) |
 | Water Me! | 202649 | [202649-water-me.json](./202649-water-me.json) |
@@ -1679,6 +1683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watermelon Madness | 187777 | [187777-watermelon-madness.json](./187777-watermelon-madness.json) |
 | Watermelon Merge: Strategy Game | 303236 | [303236-watermelon-merge-strategy-game.json](./303236-watermelon-merge-strategy-game.json) |
 | WaterMelon Mosikkaeng | 282246 | [282246-watermelon-mosikkaeng.json](./282246-watermelon-mosikkaeng.json) |
+| Watermelon Party | 119440 | [119440-watermelon-party.json](./119440-watermelon-party.json) |
 | Watermelon Simulator | 325627 | [325627-watermelon-simulator.json](./325627-watermelon-simulator.json) |
 | Watermelon's Adventure | 310621 | [310621-watermelons-adventure.json](./310621-watermelons-adventure.json) |
 | Waternet | 210651 | [210651-waternet.json](./210651-waternet.json) |
@@ -2064,6 +2069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WEC Le Mans 24 | 55088 | [55088-wec-le-mans-24.json](./55088-wec-le-mans-24.json) |
 | Wedding | 170911 | [170911-wedding.json](./170911-wedding.json) |
 | Wedding Dash 2: Rings Around the World | 16074 | [16074-wedding-dash-2-rings-around-the-world.json](./16074-wedding-dash-2-rings-around-the-world.json) |
+| Wedding Designer | 121340 | [121340-wedding-designer.json](./121340-wedding-designer.json) |
 | Wedding Girl Makeover | 96072 | [96072-wedding-girl-makeover.json](./96072-wedding-girl-makeover.json) |
 | Wedding Peach: Doki-doki Oironaoshi | 64951 | [64951-wedding-peach-doki-doki-oironaoshi.json](./64951-wedding-peach-doki-doki-oironaoshi.json) |
 | Wedding Peach: Jamapii Panic | 64952 | [64952-wedding-peach-jamapii-panic.json](./64952-wedding-peach-jamapii-panic.json) |
@@ -2757,6 +2763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where are My Potatoes? | 207798 | [207798-where-are-my-potatoes.json](./207798-where-are-my-potatoes.json) |
 | Where Are the Fish? | 399168 | [399168-where-are-the-fish.json](./399168-where-are-the-fish.json) |
 | Where Are They? | 300688 | [300688-where-are-they.json](./300688-where-are-they.json) |
+| Where Are We Now | 122068 | [122068-where-are-we-now.json](./122068-where-are-we-now.json) |
 | Where Are We? | 303713 | [303713-where-are-we.json](./303713-where-are-we.json) |
 | Where are you, Cinderella? | 193305 | [193305-where-are-you-cinderella.json](./193305-where-are-you-cinderella.json) |
 | Where Are You, Diamond | 334185 | [334185-where-are-you-diamond.json](./334185-where-are-you-diamond.json) |
@@ -3557,6 +3564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Wolf Family Simulator 3D | 233043 | [233043-wild-wolf-family-simulator-3d.json](./233043-wild-wolf-family-simulator-3d.json) |
 | Wild Wolf Simulator 3D | 200662 | [200662-wild-wolf-simulator-3d.json](./200662-wild-wolf-simulator-3d.json) |
 | Wild Wood | 141688 | [141688-wild-wood.json](./141688-wild-wood.json) |
+| Wild Woods | 122087 | [122087-wild-woods.json](./122087-wild-woods.json) |
 | Wild Woody | 5461 | [5461-wild-woody.json](./5461-wild-woody.json) |
 | Wild Workshop | 157490 | [157490-wild-workshop.json](./157490-wild-workshop.json) |
 | Wild world | 150629 | [150629-wild-world.json](./150629-wild-world.json) |
@@ -3679,6 +3687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will Willis and the Temple of Hacha'Kyum | 70368 | [70368-will-willis-and-the-temple-of-hachakyum.json](./70368-will-willis-and-the-temple-of-hachakyum.json) |
 | Will You Be My Disciple? | 401707 | [401707-will-you-be-my-disciple.json](./401707-will-you-be-my-disciple.json) |
 | Will You Ever Return: In da Hood | 120807 | [120807-will-you-ever-return-in-da-hood.json](./120807-will-you-ever-return-in-da-hood.json) |
+| Will You Ever Return? | 120634 | [120634-will-you-ever-return.json](./120634-will-you-ever-return.json) |
 | Will You Ever Return? 2 | 120806 | [120806-will-you-ever-return-2.json](./120806-will-you-ever-return-2.json) |
 | Will You Press the Button? | 326717 | [326717-will-you-press-the-button.json](./326717-will-you-press-the-button.json) |
 | Will You Snail? | 120816 | [120816-will-you-snail.json](./120816-will-you-snail.json) |
@@ -5004,6 +5013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Link | 97131 | [97131-word-link.json](./97131-word-link.json) |
 | Word Logic by Powgi | 85495 | [85495-word-logic-by-powgi.json](./85495-word-logic-by-powgi.json) |
 | Word Maker | 377140 | [377140-word-maker.json](./377140-word-maker.json) |
+| Word Mesh | 120072 | [120072-word-mesh.json](./120072-word-mesh.json) |
 | Word Mess | 91982 | [91982-word-mess.json](./91982-word-mess.json) |
 | Word Monaco | 205881 | [205881-word-monaco.json](./205881-word-monaco.json) |
 | Word Munchers | 82151 | [82151-word-munchers.json](./82151-word-munchers.json) |
@@ -5054,6 +5064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Searcher 4 | 84939 | [84939-word-searcher-4.json](./84939-word-searcher-4.json) |
 | Word Seek English Unlimited | 103874 | [103874-word-seek-english-unlimited.json](./103874-word-seek-english-unlimited.json) |
 | Word Shop - Brain Puzzle Games | 101487 | [101487-word-shop-brain-puzzle-games.json](./101487-word-shop-brain-puzzle-games.json) |
+| Word Shot | 119424 | [119424-word-shot.json](./119424-word-shot.json) |
 | Word Shuffle | 108263 | [108263-word-shuffle.json](./108263-word-shuffle.json) |
 | Word Slinger | 93187 | [93187-word-slinger.json](./93187-word-slinger.json) |
 | Word Solitaire | 243642 | [243642-word-solitaire.json](./243642-word-solitaire.json) |
@@ -5609,6 +5620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Snooker Challenge 2007 | 42848 | [42848-world-snooker-challenge-2007.json](./42848-world-snooker-challenge-2007.json) |
 | World Snooker Championship 2007 | 7248 | [7248-world-snooker-championship-2007.json](./7248-world-snooker-championship-2007.json) |
 | World Snooker Championship: Season 2007-08 | 64994 | [64994-world-snooker-championship-season-2007-08.json](./64994-world-snooker-championship-season-2007-08.json) |
+| World Soccer | 119441 | [119441-world-soccer.json](./119441-world-soccer.json) |
 | World Soccer | 12893 | [12893-world-soccer.json](./12893-world-soccer.json) |
 | World Soccer | 13087 | [13087-world-soccer.json](./13087-world-soccer.json) |
 | World Soccer Challenge | 255739 | [255739-world-soccer-challenge.json](./255739-world-soccer-challenge.json) |
@@ -5732,6 +5744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World's Greatest Places Mosaics 4 | 415861 | [415861-worlds-greatest-places-mosaics-4.json](./415861-worlds-greatest-places-mosaics-4.json) |
 | World's Greatest Temples 2 | 415932 | [415932-worlds-greatest-temples-2.json](./415932-worlds-greatest-temples-2.json) |
 | World's Largest Pac-Man | 175992 | [175992-worlds-largest-pac-man.json](./175992-worlds-largest-pac-man.json) |
+| World's Nicht | 120054 | [120054-worlds-nicht.json](./120054-worlds-nicht.json) |
 | World's Scariest Police Chases | 45093 | [45093-worlds-scariest-police-chases.json](./45093-worlds-scariest-police-chases.json) |
 | World's Worst Handyman | 155675 | [155675-worlds-worst-handyman.json](./155675-worlds-worst-handyman.json) |
 | World2D Re | 262282 | [262282-world2d-re.json](./262282-world2d-re.json) |
