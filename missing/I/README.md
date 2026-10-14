@@ -3685,6 +3685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invertio | 186196 | [186196-invertio.json](./186196-invertio.json) |
 | Invest | 94215 | [94215-invest.json](./94215-invest.json) |
 | Investation | 92527 | [92527-investation.json](./92527-investation.json) |
+| Investi-Gator: The Case of the Big Crime | 116092 | [116092-investi-gator-the-case-of-the-big-crime.json](./116092-investi-gator-the-case-of-the-big-crime.json) |
 | Investigate | 229017 | [229017-investigate.json](./229017-investigate.json) |
 | Investigating Alien Cats | 368591 | [368591-investigating-alien-cats.json](./368591-investigating-alien-cats.json) |
 | Investigation Stories: Gunsound | 369552 | [369552-investigation-stories-gunsound.json](./369552-investigation-stories-gunsound.json) |
@@ -3775,7 +3776,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IQ Jump | 194295 | [194295-iq-jump.json](./194295-iq-jump.json) |
 | IQ Logic Codes: Number & Letter Puzzles | 415062 | [415062-iq-logic-codes-number-and-letter-puzzles.json](./415062-iq-logic-codes-number-and-letter-puzzles.json) |
 | IQ Test | 85623 | [85623-iq-test.json](./85623-iq-test.json) |
-| IQ Under Construction | 403627 | [403627-iq-under-construction.json](./403627-iq-under-construction.json) |
 | IQ Wars | 89171 | [89171-iq-wars.json](./89171-iq-wars.json) |
 | Iquarium | 80169 | [80169-iquarium.json](./80169-iquarium.json) |
 | iQuest Math: Grade 5 | 318741 | [318741-iquest-math-grade-5.json](./318741-iquest-math-grade-5.json) |
