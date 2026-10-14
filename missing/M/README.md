@@ -3750,6 +3750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchkey | 180623 | [180623-matchkey.json](./180623-matchkey.json) |
 | Matchmaker Simulator | 390790 | [390790-matchmaker-simulator.json](./390790-matchmaker-simulator.json) |
 | Matchmaker: Dungeon Heart | 263783 | [263783-matchmaker-dungeon-heart.json](./263783-matchmaker-dungeon-heart.json) |
+| Matchmaker! / Logix! / Buzzword! | 98914 | [98914-matchmaker-logix-buzzword.json](./98914-matchmaker-logix-buzzword.json) |
 | Matchmakers A | 354386 | [354386-matchmakers-a.json](./354386-matchmakers-a.json) |
 | Matchmakers B | 354387 | [354387-matchmakers-b.json](./354387-matchmakers-b.json) |
 | Matchmaking for Ghosts | 398988 | [398988-matchmaking-for-ghosts.json](./398988-matchmaking-for-ghosts.json) |
@@ -11579,6 +11580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mossy Pixels | 270183 | [270183-mossy-pixels.json](./270183-mossy-pixels.json) |
 | Most Authentic Trench Warfare Simulator | 241511 | [241511-most-authentic-trench-warfare-simulator.json](./241511-most-authentic-trench-warfare-simulator.json) |
 | Most Correct Football Simulator | 118338 | [118338-most-correct-football-simulator.json](./118338-most-correct-football-simulator.json) |
+| Most Popular Solitaire | 98908 | [98908-most-popular-solitaire.json](./98908-most-popular-solitaire.json) |
 | Most Scuffed Golf | 409632 | [409632-most-scuffed-golf.json](./409632-most-scuffed-golf.json) |
 | Most Wanted | 313777 | [313777-most-wanted.json](./313777-most-wanted.json) |
 | Mostly Delivered | 407382 | [407382-mostly-delivered.json](./407382-mostly-delivered.json) |
