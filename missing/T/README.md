@@ -8869,6 +8869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Legends of Redwall: The Scout Anthology | 287035 | [287035-the-lost-legends-of-redwall-the-scout-anthology.json](./287035-the-lost-legends-of-redwall-the-scout-anthology.json) |
 | The Lost Levels | 271772 | [271772-the-lost-levels.json](./271772-the-lost-levels.json) |
 | The Lost Levels Enhanced | 38254 | [38254-the-lost-levels-enhanced.json](./38254-the-lost-levels-enhanced.json) |
+| The Lost Light of Sisu | 114874 | [114874-the-lost-light-of-sisu.json](./114874-the-lost-light-of-sisu.json) |
 | The Lost Magic | 268971 | [268971-the-lost-magic.json](./268971-the-lost-magic.json) |
 | The Lost Marble | 161390 | [161390-the-lost-marble.json](./161390-the-lost-marble.json) |
 | The Lost Medallion | 64356 | [64356-the-lost-medallion.json](./64356-the-lost-medallion.json) |
@@ -16306,6 +16307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobidase! Trouble Hanafuda Douchuuki | 269512 | [269512-tobidase-trouble-hanafuda-douchuuki.json](./269512-tobidase-trouble-hanafuda-douchuuki.json) |
 | Tobii Horizon | 236870 | [236870-tobii-horizon.json](./236870-tobii-horizon.json) |
 | Tobimarisa | 97511 | [97511-tobimarisa.json](./97511-tobimarisa.json) |
+| Tobit | 114851 | [114851-tobit.json](./114851-tobit.json) |
 | Tobitaro | 391152 | [391152-tobitaro.json](./391152-tobitaro.json) |
 | Tobla: Divine Path | 279132 | [279132-tobla-divine-path.json](./279132-tobla-divine-path.json) |
 | Toblo | 93989 | [93989-toblo.json](./93989-toblo.json) |
@@ -16363,6 +16365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tofu Dream | 358734 | [358734-tofu-dream.json](./358734-tofu-dream.json) |
 | Tofu Drifter | 234600 | [234600-tofu-drifter.json](./234600-tofu-drifter.json) |
 | Tofu Go! 2: The Onsen Adventure | 242206 | [242206-tofu-go-2-the-onsen-adventure.json](./242206-tofu-go-2-the-onsen-adventure.json) |
+| Tofu Pudding Simulator | 114871 | [114871-tofu-pudding-simulator.json](./114871-tofu-pudding-simulator.json) |
 | Tofu Run: Remastered | 350364 | [350364-tofu-run-remastered.json](./350364-tofu-run-remastered.json) |
 | Tofu Topple | 143379 | [143379-tofu-topple.json](./143379-tofu-topple.json) |
 | Tofu'Drift | 242629 | [242629-tofudrift.json](./242629-tofudrift.json) |
@@ -21103,6 +21106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble on the Way | 394129 | [394129-trouble-on-the-way.json](./394129-trouble-on-the-way.json) |
 | Trouble Score | 97720 | [97720-trouble-score.json](./97720-trouble-score.json) |
 | Trouble Town | 212702 | [212702-trouble-town.json](./212702-trouble-town.json) |
+| Trouble Travel TT | 114843 | [114843-trouble-travel-tt.json](./114843-trouble-travel-tt.json) |
 | Troubled Waters | 187221 | [187221-troubled-waters.json](./187221-troubled-waters.json) |
 | Troubled Waters | 352254 | [352254-troubled-waters.json](./352254-troubled-waters.json) |
 | TroubleDays | 129346 | [129346-troubledays.json](./129346-troubledays.json) |
@@ -22221,6 +22225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Cars Stunts Edition | 219529 | [219529-two-cars-stunts-edition.json](./219529-two-cars-stunts-edition.json) |
 | Two Climbers | 266982 | [266982-two-climbers.json](./266982-two-climbers.json) |
 | Two Clusters Cold Haven | 189978 | [189978-two-clusters-cold-haven.json](./189978-two-clusters-cold-haven.json) |
+| Two Clusters: Kain | 114846 | [114846-two-clusters-kain.json](./114846-two-clusters-kain.json) |
 | Two Coins | 151008 | [151008-two-coins.json](./151008-two-coins.json) |
 | Two Colours | 201712 | [201712-two-colours.json](./201712-two-colours.json) |
 | Two Cubes | 258912 | [258912-two-cubes.json](./258912-two-cubes.json) |
