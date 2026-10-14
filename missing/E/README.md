@@ -523,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Point Nova | 243932 | [243932-echo-point-nova.json](./243932-echo-point-nova.json) |
 | Echo Protocol: Escape Room | 360642 | [360642-echo-protocol-escape-room.json](./360642-echo-protocol-escape-room.json) |
 | Echo Punk | 381634 | [381634-echo-punk.json](./381634-echo-punk.json) |
+| Echo Royale | 116784 | [116784-echo-royale.json](./116784-echo-royale.json) |
 | Echo Signal | 329101 | [329101-echo-signal.json](./329101-echo-signal.json) |
 | Echo Storm | 238473 | [238473-echo-storm.json](./238473-echo-storm.json) |
 | Echo Tokyo: Reaper | 75757 | [75757-echo-tokyo-reaper.json](./75757-echo-tokyo-reaper.json) |
@@ -2382,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Boss Fight | 163762 | [163762-endless-boss-fight.json](./163762-endless-boss-fight.json) |
 | Endless Bounce | 414571 | [414571-endless-bounce.json](./414571-endless-bounce.json) |
 | Endless Bounty | 135645 | [135645-endless-bounty.json](./135645-endless-bounty.json) |
+| Endless Car Chase | 116773 | [116773-endless-car-chase.json](./116773-endless-car-chase.json) |
 | Endless Casual Drive | 301276 | [301276-endless-casual-drive.json](./301276-endless-casual-drive.json) |
 | Endless Champion | 193931 | [193931-endless-champion.json](./193931-endless-champion.json) |
 | Endless Chaos: Hordes of the Afterlife | 209665 | [209665-endless-chaos-hordes-of-the-afterlife.json](./209665-endless-chaos-hordes-of-the-afterlife.json) |
@@ -4329,6 +4331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eveline | 416057 | [416057-eveline.json](./416057-eveline.json) |
 | Evelone Wrath | 260032 | [260032-evelone-wrath.json](./260032-evelone-wrath.json) |
 | Evelyn's Farm | 186589 | [186589-evelyns-farm.json](./186589-evelyns-farm.json) |
+| Even For Eternia | 116887 | [116887-even-for-eternia.json](./116887-even-for-eternia.json) |
 | Even Heroes Die | 197217 | [197217-even-heroes-die.json](./197217-even-heroes-die.json) |
 | Even if Tempest | 186104 | [186104-even-if-tempest.json](./186104-even-if-tempest.json) |
 | Even in Arcadia | 135022 | [135022-even-in-arcadia.json](./135022-even-in-arcadia.json) |
