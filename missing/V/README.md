@@ -750,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vectorium | 65787 | [65787-vectorium.json](./65787-vectorium.json) |
 | Vectorman | 310698 | [310698-vectorman.json](./310698-vectorman.json) |
 | VectorMan | 16033 | [16033-vectorman.json](./16033-vectorman.json) |
+| VectorMan Classic | 104547 | [104547-vectorman-classic.json](./104547-vectorman-classic.json) |
 | Vectoroids | 252611 | [252611-vectoroids.json](./252611-vectoroids.json) |
 | Vectors | 172042 | [172042-vectors.json](./172042-vectors.json) |
 | Vectrace | 46507 | [46507-vectrace.json](./46507-vectrace.json) |
