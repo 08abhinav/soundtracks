@@ -5934,6 +5934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient: Legacy of Azul | 153150 | [153150-ancient-legacy-of-azul.json](./153150-ancient-legacy-of-azul.json) |
 | Ancients II: Approaching Evil | 12392 | [12392-ancients-ii-approaching-evil.json](./12392-ancients-ii-approaching-evil.json) |
 | Ancients of Ooga | 16228 | [16228-ancients-of-ooga.json](./16228-ancients-of-ooga.json) |
+| Ancients Reborn | 124538 | [124538-ancients-reborn.json](./124538-ancients-reborn.json) |
 | Ancients: Death Watch | 12391 | [12391-ancients-death-watch.json](./12391-ancients-death-watch.json) |
 | AncientsReborn | 233439 | [233439-ancientsreborn.json](./233439-ancientsreborn.json) |
 | Ancings: The First Tournament | 283902 | [283902-ancings-the-first-tournament.json](./283902-ancings-the-first-tournament.json) |
