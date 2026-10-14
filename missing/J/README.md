@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jade Empire: Limited Edition | 47318 | [47318-jade-empire-limited-edition.json](./47318-jade-empire-limited-edition.json) |
 | Jade Empire: Special Edition | 10 | [10-jade-empire-special-edition.json](./10-jade-empire-special-edition.json) |
 | Jade Guardian | 310186 | [310186-jade-guardian.json](./310186-jade-guardian.json) |
+| Jade Konoichi: Butterfly Legend | 97277 | [97277-jade-konoichi-butterfly-legend.json](./97277-jade-konoichi-butterfly-legend.json) |
 | Jade Legends: Immortal Realm | 304214 | [304214-jade-legends-immortal-realm.json](./304214-jade-legends-immortal-realm.json) |
 | Jade Spring | 349863 | [349863-jade-spring.json](./349863-jade-spring.json) |
 | Jade Wolf | 197899 | [197899-jade-wolf.json](./197899-jade-wolf.json) |
