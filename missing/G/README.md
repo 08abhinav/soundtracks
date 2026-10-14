@@ -1363,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garrison | 170784 | [170784-garrison.json](./170784-garrison.json) |
 | Garrison I-II | 112231 | [112231-garrison-i-ii.json](./112231-garrison-i-ii.json) |
 | Garrison II: The Legend Continues | 47155 | [47155-garrison-ii-the-legend-continues.json](./47155-garrison-ii-the-legend-continues.json) |
+| Garry Kitchen's Battletank | 79173 | [79173-garry-kitchens-battletank.json](./79173-garry-kitchens-battletank.json) |
 | Garry Kitchen's Super Battletank: War in the Gulf | 46681 | [46681-garry-kitchens-super-battletank-war-in-the-gulf.json](./46681-garry-kitchens-super-battletank-war-in-the-gulf.json) |
 | Garry Royale! | 176196 | [176196-garry-royale.json](./176196-garry-royale.json) |
 | Garry's worst fear | 220788 | [220788-garrys-worst-fear.json](./220788-garrys-worst-fear.json) |
@@ -2160,6 +2161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeoExpert - Russia Geography | 103152 | [103152-geoexpert-russia-geography.json](./103152-geoexpert-russia-geography.json) |
 | GeoExpert - USA Geography | 98998 | [98998-geoexpert-usa-geography.json](./98998-geoexpert-usa-geography.json) |
 | GeoExpert - World | 100616 | [100616-geoexpert-world.json](./100616-geoexpert-world.json) |
+| Geoff Capes Strongman | 79164 | [79164-geoff-capes-strongman.json](./79164-geoff-capes-strongman.json) |
 | GeoFS | 142942 | [142942-geofs.json](./142942-geofs.json) |
 | Geograph Seal | 63819 | [63819-geograph-seal.json](./63819-geograph-seal.json) |
 | Geography Champion | 105933 | [105933-geography-champion.json](./105933-geography-champion.json) |
@@ -5616,6 +5618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GraviFire | 144277 | [144277-gravifire.json](./144277-gravifire.json) |
 | Gravillipse | 252159 | [252159-gravillipse.json](./252159-gravillipse.json) |
 | Gravinoid | 128933 | [128933-gravinoid.json](./128933-gravinoid.json) |
+| Gravinull | 79159 | [79159-gravinull.json](./79159-gravinull.json) |
 | GraviSound | 109701 | [109701-gravisound.json](./109701-gravisound.json) |
 | Gravit | 365754 | [365754-gravit.json](./365754-gravit.json) |
 | GraviT | 200696 | [200696-gravit.json](./200696-gravit.json) |
