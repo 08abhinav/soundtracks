@@ -1308,6 +1308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harekat 2: Online | 252132 | [252132-harekat-2-online.json](./252132-harekat-2-online.json) |
 | Harem Girl: Isabella | 231269 | [231269-harem-girl-isabella.json](./231269-harem-girl-isabella.json) |
 | Harem Girl: Nikki | 196224 | [196224-harem-girl-nikki.json](./196224-harem-girl-nikki.json) |
+| Harem Hotel | 127632 | [127632-harem-hotel.json](./127632-harem-hotel.json) |
 | Harem in Another World | 257952 | [257952-harem-in-another-world.json](./257952-harem-in-another-world.json) |
 | Harem Inn | 371038 | [371038-harem-inn.json](./371038-harem-inn.json) |
 | Harem Little Twins | 98453 | [98453-harem-little-twins.json](./98453-harem-little-twins.json) |
@@ -2100,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Fragment: Book One - Fantasy Fragments | 245032 | [245032-heart-fragment-book-one-fantasy-fragments.json](./245032-heart-fragment-book-one-fantasy-fragments.json) |
 | Heart Fragment: Book Two - Belief Fragments | 196126 | [196126-heart-fragment-book-two-belief-fragments.json](./196126-heart-fragment-book-two-belief-fragments.json) |
 | Heart in the Cell: Rebirth | 157020 | [157020-heart-in-the-cell-rebirth.json](./157020-heart-in-the-cell-rebirth.json) |
+| Heart in the Dark | 125090 | [125090-heart-in-the-dark.json](./125090-heart-in-the-dark.json) |
 | Heart is Muscle | 181933 | [181933-heart-is-muscle.json](./181933-heart-is-muscle.json) |
 | Heart Keeper | 342634 | [342634-heart-keeper.json](./342634-heart-keeper.json) |
 | Heart Knots | 138022 | [138022-heart-knots.json](./138022-heart-knots.json) |
@@ -3040,6 +3042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helmet Heroes | 31383 | [31383-helmet-heroes.json](./31383-helmet-heroes.json) |
 | HelmetFire | 351265 | [351265-helmetfire.json](./351265-helmetfire.json) |
 | HelmetRoyale.io | 125991 | [125991-helmetroyale-io.json](./125991-helmetroyale-io.json) |
+| Helmouth Halls | 125143 | [125143-helmouth-halls.json](./125143-helmouth-halls.json) |
 | Helmscape | 221116 | [221116-helmscape.json](./221116-helmscape.json) |
 | Help | 30931 | [30931-help.json](./30931-help.json) |
 | Help Bipboop | 275330 | [275330-help-bipboop.json](./275330-help-bipboop.json) |
@@ -3720,6 +3723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermano | 299857 | [299857-hermano.json](./299857-hermano.json) |
 | Hermes | 94255 | [94255-hermes.json](./94255-hermes.json) |
 | Hermes & Gry: A Crooked Plan | 176308 | [176308-hermes-and-gry-a-crooked-plan.json](./176308-hermes-and-gry-a-crooked-plan.json) |
+| Hermes: Rescue Mission | 126331 | [126331-hermes-rescue-mission.json](./126331-hermes-rescue-mission.json) |
 | Hermes: The Fury of Megaera | 255245 | [255245-hermes-the-fury-of-megaera.json](./255245-hermes-the-fury-of-megaera.json) |
 | Hermes: Tricks of Thanatos | 166041 | [166041-hermes-tricks-of-thanatos.json](./166041-hermes-tricks-of-thanatos.json) |
 | Hermes: War of the Gods | 127089 | [127089-hermes-war-of-the-gods.json](./127089-hermes-war-of-the-gods.json) |
@@ -4188,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexachess | 374634 | [374634-hexachess.json](./374634-hexachess.json) |
 | HexaCycle | 115643 | [115643-hexacycle.json](./115643-hexacycle.json) |
 | Hexadecordle | 194882 | [194882-hexadecordle.json](./194882-hexadecordle.json) |
+| Hexadrift | 126918 | [126918-hexadrift.json](./126918-hexadrift.json) |
 | Hexagon Defense | 147909 | [147909-hexagon-defense.json](./147909-hexagon-defense.json) |
 | Hexagon Defense | 36965 | [36965-hexagon-defense.json](./36965-hexagon-defense.json) |
 | Hexagon Dungeon | 114785 | [114785-hexagon-dungeon.json](./114785-hexagon-dungeon.json) |
@@ -4202,6 +4207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexagoner | 286032 | [286032-hexagoner.json](./286032-hexagoner.json) |
 | Hexagons | 83179 | [83179-hexagons.json](./83179-hexagons.json) |
 | Hexagourds | 182893 | [182893-hexagourds.json](./182893-hexagourds.json) |
+| Hexagun | 125098 | [125098-hexagun.json](./125098-hexagun.json) |
 | Hexahedral | 314461 | [314461-hexahedral.json](./314461-hexahedral.json) |
 | Hexahedral Pathfinder | 108418 | [108418-hexahedral-pathfinder.json](./108418-hexahedral-pathfinder.json) |
 | Hexalert | 337635 | [337635-hexalert.json](./337635-hexalert.json) |
@@ -5333,6 +5339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | History in Letters - The Eternal Alchemist | 36226 | [36226-history-in-letters-the-eternal-alchemist.json](./36226-history-in-letters-the-eternal-alchemist.json) |
 | History Lesson | 139388 | [139388-history-lesson.json](./139388-history-lesson.json) |
 | History Mosaics: Ancient Greece | 415879 | [415879-history-mosaics-ancient-greece.json](./415879-history-mosaics-ancient-greece.json) |
+| History Racers 2 | 127691 | [127691-history-racers-2.json](./127691-history-racers-2.json) |
 | History Table: Lore & Quiz | 173254 | [173254-history-table-lore-and-quiz.json](./173254-history-table-lore-and-quiz.json) |
 | History Trivia: Ancient-Modern | 87236 | [87236-history-trivia-ancient-modern.json](./87236-history-trivia-ancient-modern.json) |
 | History: Great Empires - Rome | 20694 | [20694-history-great-empires-rome.json](./20694-history-great-empires-rome.json) |
@@ -5642,6 +5649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold the Mine | 362284 | [362284-hold-the-mine.json](./362284-hold-the-mine.json) |
 | Hold The Noise | 292286 | [292286-hold-the-noise.json](./292286-hold-the-noise.json) |
 | Hold Your Fire: A Game About Responsibility | 20029 | [20029-hold-your-fire-a-game-about-responsibility.json](./20029-hold-your-fire-a-game-about-responsibility.json) |
+| Hold Your Ground | 126909 | [126909-hold-your-ground.json](./126909-hold-your-ground.json) |
 | Hold-Up | 240779 | [240779-hold-up.json](./240779-hold-up.json) |
 | Hold-Up | 74016 | [74016-hold-up.json](./74016-hold-up.json) |
 | Holdfast: Age of Sail | 362286 | [362286-holdfast-age-of-sail.json](./362286-holdfast-age-of-sail.json) |
@@ -6305,6 +6313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HookShotVR | 143934 | [143934-hookshotvr.json](./143934-hookshotvr.json) |
 | Hooligan Crusoe | 283841 | [283841-hooligan-crusoe.json](./283841-hooligan-crusoe.json) |
 | Hooligan James | 215342 | [215342-hooligan-james.json](./215342-hooligan-james.json) |
+| Hooligan Simulator | 128285 | [128285-hooligan-simulator.json](./128285-hooligan-simulator.json) |
 | Hooligan Simulator 2023: You vs. System | 277917 | [277917-hooligan-simulator-2023-you-vs-system.json](./277917-hooligan-simulator-2023-you-vs-system.json) |
 | Hooligan Simulator: Survive in Urban Jungle | 250891 | [250891-hooligan-simulator-survive-in-urban-jungle.json](./250891-hooligan-simulator-survive-in-urban-jungle.json) |
 | Hooligan Vasja | 31632 | [31632-hooligan-vasja.json](./31632-hooligan-vasja.json) |
@@ -6696,6 +6705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Tales: Emerald Valley Ranch - Deluxe | 283268 | [283268-horse-tales-emerald-valley-ranch-deluxe.json](./283268-horse-tales-emerald-valley-ranch-deluxe.json) |
 | Horse Vet 3D | 85181 | [85181-horse-vet-3d.json](./85181-horse-vet-3d.json) |
 | Horse World | 106123 | [106123-horse-world.json](./106123-horse-world.json) |
+| HorseGame | 126324 | [126324-horsegame.json](./126324-horsegame.json) |
 | Horses | 265637 | [265637-horses.json](./265637-horses.json) |
 | Horses of Gavarnie | 387653 | [387653-horses-of-gavarnie.json](./387653-horses-of-gavarnie.json) |
 | Horses of Hoofprint Bay | 376483 | [376483-horses-of-hoofprint-bay.json](./376483-horses-of-hoofprint-bay.json) |
@@ -6980,6 +6990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel 19-95 | 37004 | [37004-hotel-19-95.json](./37004-hotel-19-95.json) |
 | Hotel 626 | 62712 | [62712-hotel-626.json](./62712-hotel-626.json) |
 | Hotel 77 | 303683 | [303683-hotel-77.json](./303683-hotel-77.json) |
+| Hotel Afterlife | 128907 | [128907-hotel-afterlife.json](./128907-hotel-afterlife.json) |
 | Hotel Alien | 229368 | [229368-hotel-alien.json](./229368-hotel-alien.json) |
 | Hotel Anatolia | 29328 | [29328-hotel-anatolia.json](./29328-hotel-anatolia.json) |
 | Hotel Blind | 33139 | [33139-hotel-blind.json](./33139-hotel-blind.json) |
@@ -7339,6 +7350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Be a Complete Bastard | 13882 | [13882-how-to-be-a-complete-bastard.json](./13882-how-to-be-a-complete-bastard.json) |
 | How to be a Hero | 38925 | [38925-how-to-be-a-hero.json](./38925-how-to-be-a-hero.json) |
 | How to Be a Real Dude | 117392 | [117392-how-to-be-a-real-dude.json](./117392-how-to-be-a-real-dude.json) |
+| How to Become a Ninja: Part 1 | 126353 | [126353-how-to-become-a-ninja-part-1.json](./126353-how-to-become-a-ninja-part-1.json) |
 | How to Blorrble-Blobble | 179007 | [179007-how-to-blorrble-blobble.json](./179007-how-to-blorrble-blobble.json) |
 | How to Build a Flying City | 321746 | [321746-how-to-build-a-flying-city.json](./321746-how-to-build-a-flying-city.json) |
 | How To Build A Snowman | 383492 | [383492-how-to-build-a-snowman.json](./383492-how-to-build-a-snowman.json) |
