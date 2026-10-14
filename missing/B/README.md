@@ -403,7 +403,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms VS | 250942 | [250942-backrooms-vs.json](./250942-backrooms-vs.json) |
 | Backrooms: Between Lost Dimension | 304101 | [304101-backrooms-between-lost-dimension.json](./304101-backrooms-between-lost-dimension.json) |
 | Backrooms: Beyond One Year | 289230 | [289230-backrooms-beyond-one-year.json](./289230-backrooms-beyond-one-year.json) |
-| Backrooms: Blackhole | 404886 | [404886-backrooms-blackhole.json](./404886-backrooms-blackhole.json) |
 | Backrooms: Code Yellow | 416594 | [416594-backrooms-code-yellow.json](./416594-backrooms-code-yellow.json) |
 | Backrooms: Duck Escape | 378180 | [378180-backrooms-duck-escape.json](./378180-backrooms-duck-escape.json) |
 | Backrooms: Eight Levels | 281947 | [281947-backrooms-eight-levels.json](./281947-backrooms-eight-levels.json) |
@@ -632,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Piggies | 19902 | [19902-bad-piggies.json](./19902-bad-piggies.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6363,6 +6363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blanka in Shura no Kuni | 267575 | [267575-blanka-in-shura-no-kuni.json](./267575-blanka-in-shura-no-kuni.json) |
 | Blanket Cat | 395179 | [395179-blanket-cat.json](./395179-blanket-cat.json) |
 | Blanket Fort | 355539 | [355539-blanket-fort.json](./355539-blanket-fort.json) |
+| Blanket Heavy With Nightmares | 116218 | [116218-blanket-heavy-with-nightmares.json](./116218-blanket-heavy-with-nightmares.json) |
 | Blanket of Snow | 394362 | [394362-blanket-of-snow.json](./394362-blanket-of-snow.json) |
 | Blankos Block Party | 134573 | [134573-blankos-block-party.json](./134573-blankos-block-party.json) |
 | Blankspace | 184580 | [184580-blankspace.json](./184580-blankspace.json) |
@@ -9230,6 +9231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling is a Fun Game | 134333 | [134333-bowling-is-a-fun-game.json](./134333-bowling-is-a-fun-game.json) |
 | Bowling Islands | 234616 | [234616-bowling-islands.json](./234616-bowling-islands.json) |
 | Bowling Mania | 206472 | [206472-bowling-mania.json](./206472-bowling-mania.json) |
+| Bowling Over It | 116091 | [116091-bowling-over-it.json](./116091-bowling-over-it.json) |
 | Bowling Party | 58257 | [58257-bowling-party.json](./58257-bowling-party.json) |
 | Bowling Street | 96913 | [96913-bowling-street.json](./96913-bowling-street.json) |
 | Bowling Strike | 221341 | [221341-bowling-strike.json](./221341-bowling-strike.json) |
@@ -9969,6 +9971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakfast Bar Tycoon: Ultimate Edition | 298569 | [298569-breakfast-bar-tycoon-ultimate-edition.json](./298569-breakfast-bar-tycoon-ultimate-edition.json) |
 | Breakfast Bar Tycoon: Value Edition | 317916 | [317916-breakfast-bar-tycoon-value-edition.json](./317916-breakfast-bar-tycoon-value-edition.json) |
 | Breakfast Cooking Mania | 28855 | [28855-breakfast-cooking-mania.json](./28855-breakfast-cooking-mania.json) |
+| BreakFest | 116087 | [116087-breakfest.json](./116087-breakfest.json) |
 | Breakforcist | 27678 | [27678-breakforcist.json](./27678-breakforcist.json) |
 | Breakfree | 130847 | [130847-breakfree.json](./130847-breakfree.json) |
 | BreakFree Escape From the Mine | 101968 | [101968-breakfree-escape-from-the-mine.json](./101968-breakfree-escape-from-the-mine.json) |
@@ -10521,6 +10524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brothel Simulator | 237452 | [237452-brothel-simulator.json](./237452-brothel-simulator.json) |
 | BrothelManager | 18109 | [18109-brothelmanager.json](./18109-brothelmanager.json) |
 | Brother | 340545 | [340545-brother.json](./340545-brother.json) |
+| Brother & Sister | 116080 | [116080-brother-and-sister.json](./116080-brother-and-sister.json) |
 | Brother Adventure | 73508 | [73508-brother-adventure.json](./73508-brother-adventure.json) |
 | Brother Against Brother | 59494 | [59494-brother-against-brother.json](./59494-brother-against-brother.json) |
 | Brother Cat: The Legend of Super Cat | 98500 | [98500-brother-cat-the-legend-of-super-cat.json](./98500-brother-cat-the-legend-of-super-cat.json) |
@@ -10573,6 +10577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brudal Baddle | 57677 | [57677-brudal-baddle.json](./57677-brudal-baddle.json) |
 | Bruiser and Scratch | 51081 | [51081-bruiser-and-scratch.json](./51081-bruiser-and-scratch.json) |
 | Bruisers 2D Boxing | 382518 | [382518-bruisers-2d-boxing.json](./382518-bruisers-2d-boxing.json) |
+| Bruken | 116173 | [116173-bruken.json](./116173-bruken.json) |
 | Brulo's Ballble Teafense! | 255885 | [255885-brulos-ballble-teafense.json](./255885-brulos-ballble-teafense.json) |
 | Brum Brum | 93386 | [93386-brum-brum.json](./93386-brum-brum.json) |
 | Brunch Club | 122867 | [122867-brunch-club.json](./122867-brunch-club.json) |
