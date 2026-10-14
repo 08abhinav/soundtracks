@@ -2029,6 +2029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emi's Solo Ghost Hunting 2 | 408020 | [408020-emis-solo-ghost-hunting-2.json](./408020-emis-solo-ghost-hunting-2.json) |
 | Emiko's Pledge 3 | 211635 | [211635-emikos-pledge-3.json](./211635-emikos-pledge-3.json) |
 | Emil Chronicle Online | 263690 | [263690-emil-chronicle-online.json](./263690-emil-chronicle-online.json) |
+| Emilio Butragueño Fútbol | 81152 | [81152-emilio-butragueno-futbol.json](./81152-emilio-butragueno-futbol.json) |
 | Emily Archer and the Curse of Tutankhamun | 128290 | [128290-emily-archer-and-the-curse-of-tutankhamun.json](./128290-emily-archer-and-the-curse-of-tutankhamun.json) |
 | Emily Archer: The Curse of King Tut's Tomb | 209211 | [209211-emily-archer-the-curse-of-king-tuts-tomb.json](./209211-emily-archer-the-curse-of-king-tuts-tomb.json) |
 | Emily Enough: Imprisoned | 71474 | [71474-emily-enough-imprisoned.json](./71474-emily-enough-imprisoned.json) |
@@ -4402,6 +4403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Even20: The Interference of Parallels | 373096 | [373096-even20-the-interference-of-parallels.json](./373096-even20-the-interference-of-parallels.json) |
 | Evenfall | 362328 | [362328-evenfall.json](./362328-evenfall.json) |
 | Evening | 360501 | [360501-evening.json](./360501-evening.json) |
+| Evening Chaos | 81125 | [81125-evening-chaos.json](./81125-evening-chaos.json) |
 | Evening Star | 107700 | [107700-evening-star.json](./107700-evening-star.json) |
 | Evening Star | 13647 | [13647-evening-star.json](./13647-evening-star.json) |
 | Evening Star + Southern Belle | 137361 | [137361-evening-star-southern-belle.json](./137361-evening-star-southern-belle.json) |
