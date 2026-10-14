@@ -1445,6 +1445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Raiders | 104009 | [104009-fantasy-raiders.json](./104009-fantasy-raiders.json) |
 | Fantasy Realm TD | 133197 | [133197-fantasy-realm-td.json](./133197-fantasy-realm-td.json) |
 | Fantasy Rivals | 63299 | [63299-fantasy-rivals.json](./63299-fantasy-rivals.json) |
+| Fantasy Secret | 126361 | [126361-fantasy-secret.json](./126361-fantasy-secret.json) |
 | Fantasy Shop | 238492 | [238492-fantasy-shop.json](./238492-fantasy-shop.json) |
 | Fantasy Simulator KnightX | 297629 | [297629-fantasy-simulator-knightx.json](./297629-fantasy-simulator-knightx.json) |
 | Fantasy Sino-Japanese War | 114268 | [114268-fantasy-sino-japanese-war.json](./114268-fantasy-sino-japanese-war.json) |
@@ -2278,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FAU-G: Fearless and United Guards | 138668 | [138668-fau-g-fearless-and-united-guards.json](./138668-fau-g-fearless-and-united-guards.json) |
 | Faucet VR | 89269 | [89269-faucet-vr.json](./89269-faucet-vr.json) |
 | Faul! | 194659 | [194659-faul.json](./194659-faul.json) |
+| Fault & Fragment | 125731 | [125731-fault-and-fragment.json](./125731-fault-and-fragment.json) |
 | Fault Milestone One | 10528 | [10528-fault-milestone-one.json](./10528-fault-milestone-one.json) |
 | Fault Milestone Two Side: Above | 35883 | [35883-fault-milestone-two-side-above.json](./35883-fault-milestone-two-side-above.json) |
 | Fault: Broken Promises | 336619 | [336619-fault-broken-promises.json](./336619-fault-broken-promises.json) |
@@ -2391,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear: Ghosts of the Past | 295377 | [295377-fear-ghosts-of-the-past.json](./295377-fear-ghosts-of-the-past.json) |
 | Fearaphobia | 310957 | [310957-fearaphobia.json](./310957-fearaphobia.json) |
 | Fearbonding | 297073 | [297073-fearbonding.json](./297073-fearbonding.json) |
+| FeArea: Battle Royale | 126346 | [126346-fearea-battle-royale.json](./126346-fearea-battle-royale.json) |
 | Fearful Symmetry | 336907 | [336907-fearful-symmetry.json](./336907-fearful-symmetry.json) |
 | Fearful Symmetry & The Cursed Prince | 75932 | [75932-fearful-symmetry-and-the-cursed-prince.json](./75932-fearful-symmetry-and-the-cursed-prince.json) |
 | Fearless | 302933 | [302933-fearless.json](./302933-fearless.json) |
@@ -4958,6 +4961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flat Earth Simulator | 140965 | [140965-flat-earth-simulator.json](./140965-flat-earth-simulator.json) |
 | Flat Earths! | 121414 | [121414-flat-earths.json](./121414-flat-earths.json) |
 | Flat Fat Cat Bounce | 233537 | [233537-flat-fat-cat-bounce.json](./233537-flat-fat-cat-bounce.json) |
+| Flat Form Fighter | 126939 | [126939-flat-form-fighter.json](./126939-flat-form-fighter.json) |
 | Flat Galaxy: An Idlemare | 387623 | [387623-flat-galaxy-an-idlemare.json](./387623-flat-galaxy-an-idlemare.json) |
 | Flat Heroes | 31898 | [31898-flat-heroes.json](./31898-flat-heroes.json) |
 | Flat Kingdom | 18795 | [18795-flat-kingdom.json](./18795-flat-kingdom.json) |
@@ -5854,6 +5858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FOF: Fear Of Failure | 372496 | [372496-fof-fear-of-failure.json](./372496-fof-fear-of-failure.json) |
 | Fog | 201837 | [201837-fog.json](./201837-fog.json) |
 | Fog | 204841 | [204841-fog.json](./204841-fog.json) |
+| FOG ...Seek the hidden truth | 126323 | [126323-fog-seek-the-hidden-truth.json](./126323-fog-seek-the-hidden-truth.json) |
 | Fog & Silver | 214144 | [214144-fog-and-silver.json](./214144-fog-and-silver.json) |
 | Fog Horror | 235892 | [235892-fog-horror.json](./235892-fog-horror.json) |
 | Fog of Life | 176403 | [176403-fog-of-life.json](./176403-fog-of-life.json) |
@@ -7366,6 +7371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragile Soft Machines | 139236 | [139236-fragile-soft-machines.json](./139236-fragile-soft-machines.json) |
 | Fragile Soul | 185396 | [185396-fragile-soul.json](./185396-fragile-soul.json) |
 | Fragile Sun | 329194 | [329194-fragile-sun.json](./329194-fragile-sun.json) |
+| Fragment | 125768 | [125768-fragment.json](./125768-fragment.json) |
 | Fragment | 172049 | [172049-fragment.json](./172049-fragment.json) |
 | Fragment Collapse | 409678 | [409678-fragment-collapse.json](./409678-fragment-collapse.json) |
 | Fragment Hunter | 101725 | [101725-fragment-hunter.json](./101725-fragment-hunter.json) |
@@ -7434,6 +7440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Framed by the Yakuza | 210313 | [210313-framed-by-the-yakuza.json](./210313-framed-by-the-yakuza.json) |
 | Framed Fear | 340953 | [340953-framed-fear.json](./340953-framed-fear.json) |
 | FramePerfect | 394532 | [394532-frameperfect.json](./394532-frameperfect.json) |
+| Framing Dawes | 126916 | [126916-framing-dawes.json](./126916-framing-dawes.json) |
 | Fran Bow | 11821 | [11821-fran-bow.json](./11821-fran-bow.json) |
 | Fran Bow Chapter 1 | 90962 | [90962-fran-bow-chapter-1.json](./90962-fran-bow-chapter-1.json) |
 | Fran Bow Chapter 4 | 91996 | [91996-fran-bow-chapter-4.json](./91996-fran-bow-chapter-4.json) |
@@ -8642,6 +8649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fulcrum Frenzy | 183006 | [183006-fulcrum-frenzy.json](./183006-fulcrum-frenzy.json) |
 | Fule | 305537 | [305537-fule.json](./305537-fule.json) |
 | Fulfill the Dream | 338811 | [338811-fulfill-the-dream.json](./338811-fulfill-the-dream.json) |
+| Fulfillment | 126888 | [126888-fulfillment.json](./126888-fulfillment.json) |
 | Fulfillment Center Simulator | 320935 | [320935-fulfillment-center-simulator.json](./320935-fulfillment-center-simulator.json) |
 | Fulger McQueen Off road | 231951 | [231951-fulger-mcqueen-off-road.json](./231951-fulger-mcqueen-off-road.json) |
 | Full ADHD | 326669 | [326669-full-adhd.json](./326669-full-adhd.json) |
