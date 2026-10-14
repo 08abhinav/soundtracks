@@ -2981,6 +2981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whirlwind Magician | 269186 | [269186-whirlwind-magician.json](./269186-whirlwind-magician.json) |
 | Whirlwind of Vietnam | 72714 | [72714-whirlwind-of-vietnam.json](./72714-whirlwind-of-vietnam.json) |
 | Whirlybird | 230852 | [230852-whirlybird.json](./230852-whirlybird.json) |
+| Whirlygig | 105178 | [105178-whirlygig.json](./105178-whirlygig.json) |
 | Whiskara | 324954 | [324954-whiskara.json](./324954-whiskara.json) |
 | Whisker Squadron | 145504 | [145504-whisker-squadron.json](./145504-whisker-squadron.json) |
 | Whisker Squadron: Survivor | 229193 | [229193-whisker-squadron-survivor.json](./229193-whisker-squadron-survivor.json) |
@@ -3026,6 +3027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispered Secrets: Everburning Candle - Collector's Edition | 316694 | [316694-whispered-secrets-everburning-candle-collectors-edition.json](./316694-whispered-secrets-everburning-candle-collectors-edition.json) |
 | Whispered Secrets: Forgotten Sins - Collector's Edition | 362843 | [362843-whispered-secrets-forgotten-sins-collectors-edition.json](./362843-whispered-secrets-forgotten-sins-collectors-edition.json) |
 | Whispered Secrets: Golden Silence | 139779 | [139779-whispered-secrets-golden-silence.json](./139779-whispered-secrets-golden-silence.json) |
+| Whispered Secrets: Golden Silence - Collector's Edition | 105164 | [105164-whispered-secrets-golden-silence-collectors-edition.json](./105164-whispered-secrets-golden-silence-collectors-edition.json) |
 | Whispered Secrets: In the Cards - Collector's Edition | 362836 | [362836-whispered-secrets-in-the-cards-collectors-edition.json](./362836-whispered-secrets-in-the-cards-collectors-edition.json) |
 | Whispered Secrets: Into the Beyond | 139780 | [139780-whispered-secrets-into-the-beyond.json](./139780-whispered-secrets-into-the-beyond.json) |
 | Whispered Secrets: Into the Beyond - Collector's Edition | 43180 | [43180-whispered-secrets-into-the-beyond-collectors-edition.json](./43180-whispered-secrets-into-the-beyond-collectors-edition.json) |
