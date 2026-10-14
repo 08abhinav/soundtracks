@@ -8257,6 +8257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runombie | 292287 | [292287-runombie.json](./292287-runombie.json) |
 | Runonce | 288986 | [288986-runonce.json](./288986-runonce.json) |
 | Runout | 173182 | [173182-runout.json](./173182-runout.json) |
+| Runpuzzle | 132539 | [132539-runpuzzle.json](./132539-runpuzzle.json) |
 | Runren Simulator | 390721 | [390721-runren-simulator.json](./390721-runren-simulator.json) |
 | RunVR | 30732 | [30732-runvr.json](./30732-runvr.json) |
 | Runway | 174345 | [174345-runway.json](./174345-runway.json) |
@@ -8320,6 +8321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush'N Attack Ex-Patriot | 41584 | [41584-rushn-attack-ex-patriot.json](./41584-rushn-attack-ex-patriot.json) |
 | Rushaug: Feline Warfare | 151293 | [151293-rushaug-feline-warfare.json](./151293-rushaug-feline-warfare.json) |
 | Rushaway | 211790 | [211790-rushaway.json](./211790-rushaway.json) |
+| Rushberry Mercs | 132552 | [132552-rushberry-mercs.json](./132552-rushberry-mercs.json) |
 | Rushcremental | 381635 | [381635-rushcremental.json](./381635-rushcremental.json) |
 | Rushdown Revolt | 138604 | [138604-rushdown-revolt.json](./138604-rushdown-revolt.json) |
 | Rushdown Revolt: Nemesis Afi & Galu | 311776 | [311776-rushdown-revolt-nemesis-afi-and-galu.json](./311776-rushdown-revolt-nemesis-afi-and-galu.json) |
