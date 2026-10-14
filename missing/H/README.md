@@ -2905,6 +2905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellmouth Pizza | 300812 | [300812-hellmouth-pizza.json](./300812-hellmouth-pizza.json) |
 | Hello | 340539 | [340539-hello.json](./340539-hello.json) |
 | Hello Again | 207361 | [207361-hello-again.json](./207361-hello-again.json) |
+| Hello Again | 83400 | [83400-hello-again.json](./83400-hello-again.json) |
 | Hello Baby! | 47898 | [47898-hello-baby.json](./47898-hello-baby.json) |
 | Hello Bendy Machine 5 Nights | 104126 | [104126-hello-bendy-machine-5-nights.json](./104126-hello-bendy-machine-5-nights.json) |
 | Hello Benny - Horror Machine | 106379 | [106379-hello-benny-horror-machine.json](./106379-hello-benny-horror-machine.json) |
@@ -5415,6 +5416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hissatsu Pachinko Station 3 | 58316 | [58316-hissatsu-pachinko-station-3.json](./58316-hissatsu-pachinko-station-3.json) |
 | Hissatsu Pachinko Station Now 8: Jarinko Chie | 133745 | [133745-hissatsu-pachinko-station-now-8-jarinko-chie.json](./133745-hissatsu-pachinko-station-now-8-jarinko-chie.json) |
 | Hissatsu Pachinko Station V2 | 137100 | [137100-hissatsu-pachinko-station-v2.json](./137100-hissatsu-pachinko-station-v2.json) |
+| Hissatsu Pachinko Station V9: Osomatsu-kun | 83426 | [83426-hissatsu-pachinko-station-v9-osomatsu-kun.json](./83426-hissatsu-pachinko-station-v9-osomatsu-kun.json) |
 | Hissatsu Pachinko Station: Monster House Special | 58317 | [58317-hissatsu-pachinko-station-monster-house-special.json](./58317-hissatsu-pachinko-station-monster-house-special.json) |
 | Hissatsu Shaolin-ji | 385747 | [385747-hissatsu-shaolin-ji.json](./385747-hissatsu-shaolin-ji.json) |
 | Hissatsu Ura-Kagyou | 332643 | [332643-hissatsu-ura-kagyou.json](./332643-hissatsu-ura-kagyou.json) |
