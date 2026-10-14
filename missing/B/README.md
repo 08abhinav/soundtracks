@@ -2038,6 +2038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bashtronaut | 263203 | [263203-bashtronaut.json](./263203-bashtronaut.json) |
 | Bashville | 87981 | [87981-bashville.json](./87981-bashville.json) |
 | Basic Biking | 301344 | [301344-basic-biking.json](./301344-basic-biking.json) |
+| Basic Car Repair Garage VR | 125107 | [125107-basic-car-repair-garage-vr.json](./125107-basic-car-repair-garage-vr.json) |
 | BASIC Computer Games | 408061 | [408061-basic-computer-games.json](./408061-basic-computer-games.json) |
 | Basic Kanji Meaning Quiz | 409668 | [409668-basic-kanji-meaning-quiz.json](./409668-basic-kanji-meaning-quiz.json) |
 | Basic Nyuumon | 47549 | [47549-basic-nyuumon.json](./47549-basic-nyuumon.json) |
@@ -2968,6 +2969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship: Online Game Hall | 88649 | [88649-battleship-online-game-hall.json](./88649-battleship-online-game-hall.json) |
 | Battleship: Surface Thunder | 9735 | [9735-battleship-surface-thunder.json](./9735-battleship-surface-thunder.json) |
 | Battleships | 193863 | [193863-battleships.json](./193863-battleships.json) |
+| Battleships and Carriers: Pacific War | 126315 | [126315-battleships-and-carriers-pacific-war.json](./126315-battleships-and-carriers-pacific-war.json) |
 | Battleships and Carriers: WW2 Battleship Game | 111706 | [111706-battleships-and-carriers-ww2-battleship-game.json](./111706-battleships-and-carriers-ww2-battleship-game.json) |
 | Battleships At Dawn! | 33488 | [33488-battleships-at-dawn.json](./33488-battleships-at-dawn.json) |
 | Battleships General Quarters | 273563 | [273563-battleships-general-quarters.json](./273563-battleships-general-quarters.json) |
@@ -7455,6 +7457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Steel | 256913 | [256913-bloody-steel.json](./256913-bloody-steel.json) |
 | Bloody Streets | 36069 | [36069-bloody-streets.json](./36069-bloody-streets.json) |
 | Bloody Tentacles | 179532 | [179532-bloody-tentacles.json](./179532-bloody-tentacles.json) |
+| Bloody trains | 126354 | [126354-bloody-trains.json](./126354-bloody-trains.json) |
 | Bloody Trapland 2: Curiosity | 28003 | [28003-bloody-trapland-2-curiosity.json](./28003-bloody-trapland-2-curiosity.json) |
 | Bloody Vampire | 59209 | [59209-bloody-vampire.json](./59209-bloody-vampire.json) |
 | Bloody Walls: Hardcore | 166222 | [166222-bloody-walls-hardcore.json](./166222-bloody-walls-hardcore.json) |
@@ -8961,6 +8964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Match 4 | 66673 | [66673-boulder-match-4.json](./66673-boulder-match-4.json) |
 | Boulderdash | 47237 | [47237-boulderdash.json](./47237-boulderdash.json) |
 | Bouldering Robot 3D | 192272 | [192272-bouldering-robot-3d.json](./192272-bouldering-robot-3d.json) |
+| Boulderoid | 125147 | [125147-boulderoid.json](./125147-boulderoid.json) |
 | Boulders and Bombs | 23965 | [23965-boulders-and-bombs.json](./23965-boulders-and-bombs.json) |
 | Boulders: Puzzle | 142216 | [142216-boulders-puzzle.json](./142216-boulders-puzzle.json) |
 | Boule & Bill: Holiday time! | 67961 | [67961-boule-and-bill-holiday-time.json](./67961-boule-and-bill-holiday-time.json) |
@@ -10366,6 +10370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Build Simulator | 217415 | [217415-broken-build-simulator.json](./217415-broken-build-simulator.json) |
 | Broken Cavalier | 214052 | [214052-broken-cavalier.json](./214052-broken-cavalier.json) |
 | Broken Colors | 250302 | [250302-broken-colors.json](./250302-broken-colors.json) |
+| Broken Core | 126328 | [126328-broken-core.json](./126328-broken-core.json) |
 | Broken Covenant | 282699 | [282699-broken-covenant.json](./282699-broken-covenant.json) |
 | Broken Crescent | 356248 | [356248-broken-crescent.json](./356248-broken-crescent.json) |
 | Broken Crown | 402545 | [402545-broken-crown.json](./402545-broken-crown.json) |
@@ -10865,6 +10870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buccaneer's Bounty | 69825 | [69825-buccaneers-bounty.json](./69825-buccaneers-bounty.json) |
 | Buccaneers | 247389 | [247389-buccaneers.json](./247389-buccaneers.json) |
 | Buccaneers Shipshape | 203899 | [203899-buccaneers-shipshape.json](./203899-buccaneers-shipshape.json) |
+| Buccaneers! | 125132 | [125132-buccaneers.json](./125132-buccaneers.json) |
 | Buciyo 5 | 307829 | [307829-buciyo-5.json](./307829-buciyo-5.json) |
 | Buck | 33521 | [33521-buck.json](./33521-buck.json) |
 | Buck and the Coin of Destiny | 315070 | [315070-buck-and-the-coin-of-destiny.json](./315070-buck-and-the-coin-of-destiny.json) |
@@ -11460,6 +11466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Rampage: History of Revenge | 345461 | [345461-bunny-rampage-history-of-revenge.json](./345461-bunny-rampage-history-of-revenge.json) |
 | Bunny Reversi | 119535 | [119535-bunny-reversi.json](./119535-bunny-reversi.json) |
 | Bunny Roulette | 335518 | [335518-bunny-roulette.json](./335518-bunny-roulette.json) |
+| Bunny Sudoku | 126330 | [126330-bunny-sudoku.json](./126330-bunny-sudoku.json) |
 | Bunny Sword Master | 109043 | [109043-bunny-sword-master.json](./109043-bunny-sword-master.json) |
 | Bunny Swordmaster Story | 133954 | [133954-bunny-swordmaster-story.json](./133954-bunny-swordmaster-story.json) |
 | Bunny-girl with Golden Tummy | 296636 | [296636-bunny-girl-with-golden-tummy.json](./296636-bunny-girl-with-golden-tummy.json) |
@@ -11780,6 +11787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Stop Spirit | 408191 | [408191-bus-stop-spirit.json](./408191-bus-stop-spirit.json) |
 | Bus Story: games for kids | 98999 | [98999-bus-story-games-for-kids.json](./98999-bus-story-games-for-kids.json) |
 | Bus Tycoon ND | 24995 | [24995-bus-tycoon-nd.json](./24995-bus-tycoon-nd.json) |
+| Bus World | 126333 | [126333-bus-world.json](./126333-bus-world.json) |
 | Bus-Simulator 2012 | 16700 | [16700-bus-simulator-2012.json](./16700-bus-simulator-2012.json) |
 | Bush Buck | 14356 | [14356-bush-buck.json](./14356-bush-buck.json) |
 | Bush Royal Rampage | 263481 | [263481-bush-royal-rampage.json](./263481-bush-royal-rampage.json) |
