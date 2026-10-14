@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hairdresser Liquidator Bundle | 342236 | [342236-hairdresser-liquidator-bundle.json](./342236-hairdresser-liquidator-bundle.json) |
 | Hairdresser Simulator | 149731 | [149731-hairdresser-simulator.json](./149731-hairdresser-simulator.json) |
 | Hairstyle | 104597 | [104597-hairstyle.json](./104597-hairstyle.json) |
+| Hairy Legs | 91880 | [91880-hairy-legs.json](./91880-hairy-legs.json) |
 | Hairy Tales | 22172 | [22172-hairy-tales.json](./22172-hairy-tales.json) |
 | Hairy Trees Massacre | 299833 | [299833-hairy-trees-massacre.json](./299833-hairy-trees-massacre.json) |
 | Haishin | 376675 | [376675-haishin.json](./376675-haishin.json) |
@@ -1198,6 +1199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Glide | 189186 | [189186-hard-glide.json](./189186-hard-glide.json) |
 | Hard Graphics Soushuuhen | 67357 | [67357-hard-graphics-soushuuhen.json](./67357-hard-graphics-soushuuhen.json) |
 | Hard Grip | 66771 | [66771-hard-grip.json](./66771-hard-grip.json) |
+| Hard Hat | 91851 | [91851-hard-hat.json](./91851-hard-hat.json) |
 | Hard Hat Mack | 13871 | [13871-hard-hat-mack.json](./13871-hard-hat-mack.json) |
 | Hard Hat Willy | 67244 | [67244-hard-hat-willy.json](./67244-hard-hat-willy.json) |
 | Hard Hat: Rebuild | 284401 | [284401-hard-hat-rebuild.json](./284401-hard-hat-rebuild.json) |
@@ -4170,6 +4172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herta's Chess Game | 309371 | [309371-hertas-chess-game.json](./309371-hertas-chess-game.json) |
 | HertenHeld | 322183 | [322183-hertenheld.json](./322183-hertenheld.json) |
 | Hertz | 244902 | [244902-hertz.json](./244902-hertz.json) |
+| Herz von Afrika | 91875 | [91875-herz-von-afrika.json](./91875-herz-von-afrika.json) |
 | Herzog | 93370 | [93370-herzog.json](./93370-herzog.json) |
 | HesGames | 84269 | [84269-hesgames.json](./84269-hesgames.json) |
 | Hesperian Wars | 229367 | [229367-hesperian-wars.json](./229367-hesperian-wars.json) |
@@ -4353,6 +4356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexia | 145436 | [145436-hexia.json](./145436-hexia.json) |
 | Hexia | 319023 | [319023-hexia.json](./319023-hexia.json) |
 | Hexic HD | 2732 | [2732-hexic-hd.json](./2732-hexic-hd.json) |
+| Hexic Rush | 91836 | [91836-hexic-rush.json](./91836-hexic-rush.json) |
 | Hexical | 240686 | [240686-hexical.json](./240686-hexical.json) |
 | HexiHashi | 150467 | [150467-hexihashi.json](./150467-hexihashi.json) |
 | Hexile | 105544 | [105544-hexile.json](./105544-hexile.json) |
@@ -7674,6 +7678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugh's Dream | 135797 | [135797-hughs-dream.json](./135797-hughs-dream.json) |
 | Huglings | 388756 | [388756-huglings.json](./388756-huglings.json) |
 | Hugo | 204887 | [204887-hugo.json](./204887-hugo.json) |
+| Hugo | 91858 | [91858-hugo.json](./91858-hugo.json) |
 | Hugo 2 | 64505 | [64505-hugo-2.json](./64505-hugo-2.json) |
 | Hugo 2 1/2 | 64504 | [64504-hugo-2-1-2.json](./64504-hugo-2-1-2.json) |
 | Hugo 2 in 1 | 94142 | [94142-hugo-2-in-1.json](./94142-hugo-2-in-1.json) |
