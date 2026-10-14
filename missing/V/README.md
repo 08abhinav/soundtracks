@@ -1023,7 +1023,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verdict: Descent | 258086 | [258086-verdict-descent.json](./258086-verdict-descent.json) |
 | Verdonia | 92446 | [92446-verdonia.json](./92446-verdonia.json) |
 | Verdoria's Kingdom Quest: Magic, Battles & Sorcery | 308485 | [308485-verdorias-kingdom-quest-magic-battles-and-sorcery.json](./308485-verdorias-kingdom-quest-magic-battles-and-sorcery.json) |
-| Verdun | 8036 | [8036-verdun.json](./8036-verdun.json) |
 | Verdungeon | 120215 | [120215-verdungeon.json](./120215-verdungeon.json) |
 | Verdungo | 149943 | [149943-verdungo.json](./149943-verdungo.json) |
 | Verdure | 376276 | [376276-verdure.json](./376276-verdure.json) |
