@@ -1331,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Lonely Island: Majong Star Tower Deluxe | 232387 | [232387-mahjong-lonely-island-majong-star-tower-deluxe.json](./232387-mahjong-lonely-island-majong-star-tower-deluxe.json) |
 | Mahjong Magic Islands | 74386 | [74386-mahjong-magic-islands.json](./74386-mahjong-magic-islands.json) |
 | Mahjong Magic Journey | 90763 | [90763-mahjong-magic-journey.json](./90763-mahjong-magic-journey.json) |
+| Mahjong Master | 85994 | [85994-mahjong-master.json](./85994-mahjong-master.json) |
 | Mahjong Masters Club | 385090 | [385090-mahjong-masters-club.json](./385090-mahjong-masters-club.json) |
 | Mahjong Masters: Temple of the Ten Gods | 43539 | [43539-mahjong-masters-temple-of-the-ten-gods.json](./43539-mahjong-masters-temple-of-the-ten-gods.json) |
 | Mahjong Match | 83156 | [83156-mahjong-match.json](./83156-mahjong-match.json) |
@@ -7311,6 +7312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Space Simulator | 50116 | [50116-microsoft-space-simulator.json](./50116-microsoft-space-simulator.json) |
 | Microsoft Spider Solitaire | 8196 | [8196-microsoft-spider-solitaire.json](./8196-microsoft-spider-solitaire.json) |
 | Microsoft Sudoku | 60285 | [60285-microsoft-sudoku.json](./60285-microsoft-sudoku.json) |
+| Microsoft Train Simulator: German Railroads Volume One: The Seventies - Along the Bigge Lake | 85987 | [85987-microsoft-train-simulator-german-railroads-volume-one-the-seventies-along-the-bigge-lake.json](./85987-microsoft-train-simulator-german-railroads-volume-one-the-seventies-along-the-bigge-lake.json) |
 | Microsoft Train Simulator: German Railroads Volume Two - Fast Railcars on the Runway | 78055 | [78055-microsoft-train-simulator-german-railroads-volume-two-fast-railcars-on-the-runway.json](./78055-microsoft-train-simulator-german-railroads-volume-two-fast-railcars-on-the-runway.json) |
 | Microsoft Train Simulator: Sandpatch | 206666 | [206666-microsoft-train-simulator-sandpatch.json](./206666-microsoft-train-simulator-sandpatch.json) |
 | Microsoft Ultimate Word Games | 55994 | [55994-microsoft-ultimate-word-games.json](./55994-microsoft-ultimate-word-games.json) |
@@ -11873,6 +11875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motor Rally | 246387 | [246387-motor-rally.json](./246387-motor-rally.json) |
 | Motor Rally 2 | 246352 | [246352-motor-rally-2.json](./246352-motor-rally-2.json) |
 | Motor Rally 2 | 358836 | [358836-motor-rally-2.json](./358836-motor-rally-2.json) |
+| Motor Show | 85957 | [85957-motor-show.json](./85957-motor-show.json) |
 | Motor Storm | 247039 | [247039-motor-storm.json](./247039-motor-storm.json) |
 | Motor Toon Grand Prix | 43887 | [43887-motor-toon-grand-prix.json](./43887-motor-toon-grand-prix.json) |
 | Motor Town: Soul of the Machine | 54230 | [54230-motor-town-soul-of-the-machine.json](./54230-motor-town-soul-of-the-machine.json) |
@@ -13202,6 +13205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mute Crimson+ | 11843 | [11843-mute-crimson.json](./11843-mute-crimson.json) |
 | Muteki Kyoujin Rozario kai | 377611 | [377611-muteki-kyoujin-rozario-kai.json](./377611-muteki-kyoujin-rozario-kai.json) |
 | Mutiny | 256879 | [256879-mutiny.json](./256879-mutiny.json) |
+| MutoReRe | 85975 | [85975-mutorere.json](./85975-mutorere.json) |
 | Mutrix | 253449 | [253449-mutrix.json](./253449-mutrix.json) |
 | Mutsu Tonohohon | 4023 | [4023-mutsu-tonohohon.json](./4023-mutsu-tonohohon.json) |
 | Mutton for Punishment 3 | 253269 | [253269-mutton-for-punishment-3.json](./253269-mutton-for-punishment-3.json) |
