@@ -1830,6 +1830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Starbase | 317360 | [317360-haunted-starbase.json](./317360-haunted-starbase.json) |
 | Haunted Theme Park Hidden Object | 99503 | [99503-haunted-theme-park-hidden-object.json](./99503-haunted-theme-park-hidden-object.json) |
 | Haunted Train: Frozen in Time | 140032 | [140032-haunted-train-frozen-in-time.json](./140032-haunted-train-frozen-in-time.json) |
+| Haunted Train: Frozen in Time - Collector's Edition | 76478 | [76478-haunted-train-frozen-in-time-collectors-edition.json](./76478-haunted-train-frozen-in-time-collectors-edition.json) |
 | Haunted Train: Spirits of Charon | 140033 | [140033-haunted-train-spirits-of-charon.json](./140033-haunted-train-spirits-of-charon.json) |
 | Haunted Train: Spirits of Charon - Collector's Edition | 36486 | [36486-haunted-train-spirits-of-charon-collectors-edition.json](./36486-haunted-train-spirits-of-charon-collectors-edition.json) |
 | Haunted Village | 358939 | [358939-haunted-village.json](./358939-haunted-village.json) |
@@ -3876,6 +3877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Panda Bomber | 60794 | [60794-hero-panda-bomber.json](./60794-hero-panda-bomber.json) |
 | Hero Park | 156651 | [156651-hero-park.json](./156651-hero-park.json) |
 | Hero Party Must Fall | 345642 | [345642-hero-party-must-fall.json](./345642-hero-party-must-fall.json) |
+| Hero Plus | 76444 | [76444-hero-plus.json](./76444-hero-plus.json) |
 | Hero Pop | 151603 | [151603-hero-pop.json](./151603-hero-pop.json) |
 | Hero Quest | 331670 | [331670-hero-quest.json](./331670-hero-quest.json) |
 | Hero Quest: Tower Conflict | 33248 | [33248-hero-quest-tower-conflict.json](./33248-hero-quest-tower-conflict.json) |
@@ -7320,6 +7322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Dead Skin | 316078 | [316078-house-of-dead-skin.json](./316078-house-of-dead-skin.json) |
 | House of Detention | 137405 | [137405-house-of-detention.json](./137405-house-of-detention.json) |
 | House of Everlast | 269004 | [269004-house-of-everlast.json](./269004-house-of-everlast.json) |
+| House of Evil | 76477 | [76477-house-of-evil.json](./76477-house-of-evil.json) |
 | House of Fate | 184441 | [184441-house-of-fate.json](./184441-house-of-fate.json) |
 | House of Fear | 133178 | [133178-house-of-fear.json](./133178-house-of-fear.json) |
 | House of Fear: Cursed Souls | 228686 | [228686-house-of-fear-cursed-souls.json](./228686-house-of-fear-cursed-souls.json) |
