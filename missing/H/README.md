@@ -1796,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Legends: The Undertaker | 140028 | [140028-haunted-legends-the-undertaker.json](./140028-haunted-legends-the-undertaker.json) |
 | Haunted Manager | 360081 | [360081-haunted-manager.json](./360081-haunted-manager.json) |
 | Haunted Manor 2 | 109018 | [109018-haunted-manor-2.json](./109018-haunted-manor-2.json) |
+| Haunted Manor HD | 91314 | [91314-haunted-manor-hd.json](./91314-haunted-manor-hd.json) |
 | Haunted Manor: Lord of Mirrors | 140029 | [140029-haunted-manor-lord-of-mirrors.json](./140029-haunted-manor-lord-of-mirrors.json) |
 | Haunted Manor: Painted Beauties | 140030 | [140030-haunted-manor-painted-beauties.json](./140030-haunted-manor-painted-beauties.json) |
 | Haunted Manor: Queen of Death | 140031 | [140031-haunted-manor-queen-of-death.json](./140031-haunted-manor-queen-of-death.json) |
@@ -2476,6 +2477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hedgehog Launch | 234939 | [234939-hedgehog-launch.json](./234939-hedgehog-launch.json) |
 | Hedgehog Launch 2 | 234940 | [234940-hedgehog-launch-2.json](./234940-hedgehog-launch-2.json) |
 | Hedgehog's Adventures 2 | 99188 | [99188-hedgehogs-adventures-2.json](./99188-hedgehogs-adventures-2.json) |
+| Hedgehog's Adventures 3 | 91273 | [91273-hedgehogs-adventures-3.json](./91273-hedgehogs-adventures-3.json) |
 | Hedgehog's Dilemma | 374418 | [374418-hedgehogs-dilemma.json](./374418-hedgehogs-dilemma.json) |
 | Hedgehogs in Space | 54080 | [54080-hedgehogs-in-space.json](./54080-hedgehogs-in-space.json) |
 | Hedgehot: Battle Strike | 217498 | [217498-hedgehot-battle-strike.json](./217498-hedgehot-battle-strike.json) |
@@ -3131,6 +3133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hemoglobin Project | 177978 | [177978-hemoglobin-project.json](./177978-hemoglobin-project.json) |
 | Hemomancer | 357413 | [357413-hemomancer.json](./357413-hemomancer.json) |
 | Hemophobia | 299160 | [299160-hemophobia.json](./299160-hemophobia.json) |
+| Hempire - Weed Growing Game | 91286 | [91286-hempire-weed-growing-game.json](./91286-hempire-weed-growing-game.json) |
 | Hen in the Foxhouse | 188938 | [188938-hen-in-the-foxhouse.json](./188938-hen-in-the-foxhouse.json) |
 | Hen, Chicks and Cats | 204428 | [204428-hen-chicks-and-cats.json](./204428-hen-chicks-and-cats.json) |
 | HenapoLand: Tsuika Avatar Room | 297745 | [297745-henapoland-tsuika-avatar-room.json](./297745-henapoland-tsuika-avatar-room.json) |
@@ -4615,6 +4618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Legacy: Dark Heirloom | 416709 | [416709-hidden-legacy-dark-heirloom.json](./416709-hidden-legacy-dark-heirloom.json) |
 | Hidden Legacy: Dark Heirloom - Collector's Edition | 360637 | [360637-hidden-legacy-dark-heirloom-collectors-edition.json](./360637-hidden-legacy-dark-heirloom-collectors-edition.json) |
 | Hidden Legends | 370817 | [370817-hidden-legends.json](./370817-hidden-legends.json) |
+| Hidden Liner | 91252 | [91252-hidden-liner.json](./91252-hidden-liner.json) |
 | Hidden Magic Town | 190008 | [190008-hidden-magic-town.json](./190008-hidden-magic-town.json) |
 | Hidden Map | 187369 | [187369-hidden-map.json](./187369-hidden-map.json) |
 | Hidden Mars | 234536 | [234536-hidden-mars.json](./234536-hidden-mars.json) |
@@ -7476,6 +7480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How To Build A Snowman | 383492 | [383492-how-to-build-a-snowman.json](./383492-how-to-build-a-snowman.json) |
 | How To Build Your Igloo | 253931 | [253931-how-to-build-your-igloo.json](./253931-how-to-build-your-igloo.json) |
 | How to Chicken 101 | 181399 | [181399-how-to-chicken-101.json](./181399-how-to-chicken-101.json) |
+| How to Cope with Boredom and Loneliness | 91280 | [91280-how-to-cope-with-boredom-and-loneliness.json](./91280-how-to-cope-with-boredom-and-loneliness.json) |
 | How to create a witch | 380544 | [380544-how-to-create-a-witch.json](./380544-how-to-create-a-witch.json) |
 | How to Date a Magical Girl! | 107882 | [107882-how-to-date-a-magical-girl.json](./107882-how-to-date-a-magical-girl.json) |
 | How to Date a Non-Terrian Person | 184081 | [184081-how-to-date-a-non-terrian-person.json](./184081-how-to-date-a-non-terrian-person.json) |
