@@ -6766,6 +6766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FormulaNext | 30069 | [30069-formulanext.json](./30069-formulanext.json) |
 | ForRace GT2D | 275680 | [275680-forrace-gt2d.json](./275680-forrace-gt2d.json) |
 | Forrader Hero | 210920 | [210920-forrader-hero.json](./210920-forrader-hero.json) |
+| Forradia Forever | 102054 | [102054-forradia-forever.json](./102054-forradia-forever.json) |
 | Forrest Gump: Match 3 Game | 208389 | [208389-forrest-gump-match-3-game.json](./208389-forrest-gump-match-3-game.json) |
 | Forsake The Rake | 240240 | [240240-forsake-the-rake.json](./240240-forsake-the-rake.json) |
 | Forsaken | 196138 | [196138-forsaken.json](./196138-forsaken.json) |
