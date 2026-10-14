@@ -5759,6 +5759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorial Series: Sunsoft vol. 1 | 79347 | [79347-memorial-series-sunsoft-vol-1.json](./79347-memorial-series-sunsoft-vol-1.json) |
 | Memoriapolis | 264932 | [264932-memoriapolis.json](./264932-memoriapolis.json) |
 | Memoriedit | 373521 | [373521-memoriedit.json](./373521-memoriedit.json) |
+| Memories | 123314 | [123314-memories.json](./123314-memories.json) |
 | Memories | 174752 | [174752-memories.json](./174752-memories.json) |
 | Memories | 234107 | [234107-memories.json](./234107-memories.json) |
 | Memories | 269566 | [269566-memories.json](./269566-memories.json) |
@@ -7357,6 +7358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Ohota | 156551 | [156551-midnight-ohota.json](./156551-midnight-ohota.json) |
 | Midnight on the Milky Way | 161175 | [161175-midnight-on-the-milky-way.json](./161175-midnight-on-the-milky-way.json) |
 | Midnight Outlaw: 6 Hours to Sun Up | 29192 | [29192-midnight-outlaw-6-hours-to-sun-up.json](./29192-midnight-outlaw-6-hours-to-sun-up.json) |
+| Midnight Play! Pack | 123355 | [123355-midnight-play-pack.json](./123355-midnight-play-pack.json) |
 | Midnight Pool | 21800 | [21800-midnight-pool.json](./21800-midnight-pool.json) |
 | Midnight Pool 3 | 273841 | [273841-midnight-pool-3.json](./273841-midnight-pool-3.json) |
 | Midnight Postman | 342907 | [342907-midnight-postman.json](./342907-midnight-postman.json) |
@@ -7896,6 +7898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Parasitic | 412901 | [412901-mind-parasitic.json](./412901-mind-parasitic.json) |
 | Mind Prober | 71750 | [71750-mind-prober.json](./71750-mind-prober.json) |
 | Mind Puzzle 2023 | 265200 | [265200-mind-puzzle-2023.json](./265200-mind-puzzle-2023.json) |
+| Mind Quiz: Your Brain Coach | 123356 | [123356-mind-quiz-your-brain-coach.json](./123356-mind-quiz-your-brain-coach.json) |
 | Mind Reader | 107130 | [107130-mind-reader.json](./107130-mind-reader.json) |
 | Mind Reader | 229699 | [229699-mind-reader.json](./229699-mind-reader.json) |
 | Mind Reader: Ghost Trip | 347716 | [347716-mind-reader-ghost-trip.json](./347716-mind-reader-ghost-trip.json) |
@@ -7964,6 +7967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindseye Blacklisted | 400290 | [400290-mindseye-blacklisted.json](./400290-mindseye-blacklisted.json) |
 | Mindshadow | 12185 | [12185-mindshadow.json](./12185-mindshadow.json) |
 | Mindshow | 75145 | [75145-mindshow.json](./75145-mindshow.json) |
+| MindStorm 2 | 123357 | [123357-mindstorm-2.json](./123357-mindstorm-2.json) |
 | Mindtrap | 91406 | [91406-mindtrap.json](./91406-mindtrap.json) |
 | Mindustry Classic | 178425 | [178425-mindustry-classic.json](./178425-mindustry-classic.json) |
 | Mindwheel | 25778 | [25778-mindwheel.json](./25778-mindwheel.json) |
@@ -8451,6 +8455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Tennis: Perfect Smash | 267346 | [267346-mini-tennis-perfect-smash.json](./267346-mini-tennis-perfect-smash.json) |
 | Mini Tone Puzzle | 120401 | [120401-mini-tone-puzzle.json](./120401-mini-tone-puzzle.json) |
 | Mini Toss | 323159 | [323159-mini-toss.json](./323159-mini-toss.json) |
+| Mini Trains | 123358 | [123358-mini-trains.json](./123358-mini-trains.json) |
 | Mini Transport | 129742 | [129742-mini-transport.json](./129742-mini-transport.json) |
 | Mini Treasure Girl | 291066 | [291066-mini-treasure-girl.json](./291066-mini-treasure-girl.json) |
 | Mini War: Three Kingdoms | 171456 | [171456-mini-war-three-kingdoms.json](./171456-mini-war-three-kingdoms.json) |
@@ -10302,6 +10307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Fishing: Tournament | 188362 | [188362-monster-fishing-tournament.json](./188362-monster-fishing-tournament.json) |
 | Monster Force | 49390 | [49390-monster-force.json](./49390-monster-force.json) |
 | Monster Forest | 383949 | [383949-monster-forest.json](./383949-monster-forest.json) |
+| Monster Frenzy | 123360 | [123360-monster-frenzy.json](./123360-monster-frenzy.json) |
 | Monster Fruit Academy | 187864 | [187864-monster-fruit-academy.json](./187864-monster-fruit-academy.json) |
 | Monster Galaxy | 197943 | [197943-monster-galaxy.json](./197943-monster-galaxy.json) |
 | Monster Galaxy: Exile | 324933 | [324933-monster-galaxy-exile.json](./324933-monster-galaxy-exile.json) |
@@ -13844,6 +13850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sticker Room | 383969 | [383969-my-sticker-room.json](./383969-my-sticker-room.json) |
 | My Sticker Zoo | 367558 | [367558-my-sticker-zoo.json](./367558-my-sticker-zoo.json) |
 | My Stop Smoking Coach with Allen Carr | 70638 | [70638-my-stop-smoking-coach-with-allen-carr.json](./70638-my-stop-smoking-coach-with-allen-carr.json) |
+| My Stop Smoking Coach: Allen Carr's EasyWay | 123359 | [123359-my-stop-smoking-coach-allen-carrs-easyway.json](./123359-my-stop-smoking-coach-allen-carrs-easyway.json) |
 | My Story: Choose Your Own Path | 87010 | [87010-my-story-choose-your-own-path.json](./87010-my-story-choose-your-own-path.json) |
 | My Strange Girlfriends | 248926 | [248926-my-strange-girlfriends.json](./248926-my-strange-girlfriends.json) |
 | My Street | 19306 | [19306-my-street.json](./19306-my-street.json) |
