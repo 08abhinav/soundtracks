@@ -5617,6 +5617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlowerStick | 125968 | [125968-flowerstick.json](./125968-flowerstick.json) |
 | Flowerworks | 67252 | [67252-flowerworks.json](./67252-flowerworks.json) |
 | Flowery Vale | 177048 | [177048-flowery-vale.json](./177048-flowery-vale.json) |
+| Flowerz | 91837 | [91837-flowerz.json](./91837-flowerz.json) |
 | Flown | 261524 | [261524-flown.json](./261524-flown.json) |
 | Floworks | 408289 | [408289-floworks.json](./408289-floworks.json) |
 | Flowpaper | 68922 | [68922-flowpaper.json](./68922-flowpaper.json) |
