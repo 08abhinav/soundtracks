@@ -1222,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kessen II | 10897 | [10897-kessen-ii.json](./10897-kessen-ii.json) |
 | Kessen III | 20200 | [20200-kessen-iii.json](./20200-kessen-iii.json) |
 | Kessen! Dokapon Okukoku IV: Densetsu no Yuusha-tachi | 37963 | [37963-kessen-dokapon-okukoku-iv-densetsu-no-yuusha-tachi.json](./37963-kessen-dokapon-okukoku-iv-densetsu-no-yuusha-tachi.json) |
+| Kessler Effect | 132520 | [132520-kessler-effect.json](./132520-kessler-effect.json) |
 | Kestrel | 152386 | [152386-kestrel.json](./152386-kestrel.json) |
 | Ketamina | 249848 | [249848-ketamina.json](./249848-ketamina.json) |
 | Ketchapp Summer Sports | 246960 | [246960-ketchapp-summer-sports.json](./246960-ketchapp-summer-sports.json) |
@@ -3152,6 +3153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knot in 3D | 79303 | [79303-knot-in-3d.json](./79303-knot-in-3d.json) |
 | Knot My Job | 410403 | [410403-knot-my-job.json](./410403-knot-my-job.json) |
 | Knot: Serpent Arena | 392923 | [392923-knot-serpent-arena.json](./392923-knot-serpent-arena.json) |
+| KnotBot | 132549 | [132549-knotbot.json](./132549-knotbot.json) |
 | Knotmania | 97152 | [97152-knotmania.json](./97152-knotmania.json) |
 | Knots | 92681 | [92681-knots.json](./92681-knots.json) |
 | Knots 3D | 68912 | [68912-knots-3d.json](./68912-knots-3d.json) |
