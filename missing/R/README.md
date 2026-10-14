@@ -5034,6 +5034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rimebeard | 153974 | [153974-rimebeard.json](./153974-rimebeard.json) |
 | Rimelands: Hammer of Thor | 123404 | [123404-rimelands-hammer-of-thor.json](./123404-rimelands-hammer-of-thor.json) |
 | RimFolk | 335323 | [335323-rimfolk.json](./335323-rimfolk.json) |
+| Rimo-Cocoron | 98366 | [98366-rimo-cocoron.json](./98366-rimo-cocoron.json) |
 | RimPark: A Burning World | 345469 | [345469-rimpark-a-burning-world.json](./345469-rimpark-a-burning-world.json) |
 | RiMS Racing x WRC 10 | 218414 | [218414-rims-racing-x-wrc-10.json](./218414-rims-racing-x-wrc-10.json) |
 | Rimward Basilisk | 367758 | [367758-rimward-basilisk.json](./367758-rimward-basilisk.json) |
@@ -5728,6 +5729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roarr! | 96870 | [96870-roarr.json](./96870-roarr.json) |
 | Roarr!: Jurassic Edition | 111909 | [111909-roarr-jurassic-edition.json](./111909-roarr-jurassic-edition.json) |
 | Roary the Racing Car: Rollin' Road | 67617 | [67617-roary-the-racing-car-rollin-road.json](./67617-roary-the-racing-car-rollin-road.json) |
+| Roast Party | 98368 | [98368-roast-party.json](./98368-roast-party.json) |
 | Roasting Report: A Narcotics Murder | 154091 | [154091-roasting-report-a-narcotics-murder.json](./154091-roasting-report-a-narcotics-murder.json) |
 | Rob | 201674 | [201674-rob.json](./201674-rob.json) |
 | Rob & Run | 211731 | [211731-rob-and-run.json](./211731-rob-and-run.json) |
