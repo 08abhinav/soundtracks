@@ -3137,6 +3137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inspirit Online | 59870 | [59870-inspirit-online.json](./59870-inspirit-online.json) |
 | Instability | 156522 | [156522-instability.json](./156522-instability.json) |
 | Instacalm VR | 150747 | [150747-instacalm-vr.json](./150747-instacalm-vr.json) |
+| InstaCondo Limited | 97238 | [97238-instacondo-limited.json](./97238-instacondo-limited.json) |
 | InstaDoom WAD Of The Year Edition | 217803 | [217803-instadoom-wad-of-the-year-edition.json](./217803-instadoom-wad-of-the-year-edition.json) |
 | Install Fee Tycoon | 269006 | [269006-install-fee-tycoon.json](./269006-install-fee-tycoon.json) |
 | Install Wizard | 147353 | [147353-install-wizard.json](./147353-install-wizard.json) |
@@ -3797,6 +3798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IQ Jump | 194295 | [194295-iq-jump.json](./194295-iq-jump.json) |
 | IQ Logic Codes: Number & Letter Puzzles | 415062 | [415062-iq-logic-codes-number-and-letter-puzzles.json](./415062-iq-logic-codes-number-and-letter-puzzles.json) |
 | IQ Test | 85623 | [85623-iq-test.json](./85623-iq-test.json) |
+| IQ Under Construction | 403627 | [403627-iq-under-construction.json](./403627-iq-under-construction.json) |
 | IQ Wars | 89171 | [89171-iq-wars.json](./89171-iq-wars.json) |
 | Iquarium | 80169 | [80169-iquarium.json](./80169-iquarium.json) |
 | iQuest Math: Grade 5 | 318741 | [318741-iquest-math-grade-5.json](./318741-iquest-math-grade-5.json) |
