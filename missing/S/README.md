@@ -2629,6 +2629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Bikers Jetski | 368896 | [368896-sea-bikers-jetski.json](./368896-sea-bikers-jetski.json) |
 | Sea Blast | 91729 | [91729-sea-blast.json](./91729-sea-blast.json) |
 | Sea Blindness | 343428 | [343428-sea-blindness.json](./343428-sea-blindness.json) |
+| Sea Bubble | 121329 | [121329-sea-bubble.json](./121329-sea-bubble.json) |
 | Sea Bubble Burst | 205833 | [205833-sea-bubble-burst.json](./205833-sea-bubble-burst.json) |
 | Sea Bunnies | 350568 | [350568-sea-bunnies.json](./350568-sea-bunnies.json) |
 | Sea Chase | 292784 | [292784-sea-chase.json](./292784-sea-chase.json) |
@@ -6962,6 +6963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silica | 247621 | [247621-silica.json](./247621-silica.json) |
 | Silicomrades | 126890 | [126890-silicomrades.json](./126890-silicomrades.json) |
 | Silicon Architect | 411160 | [411160-silicon-architect.json](./411160-silicon-architect.json) |
+| Silicon City | 121321 | [121321-silicon-city.json](./121321-silicon-city.json) |
 | Silicon Dreams | 132497 | [132497-silicon-dreams.json](./132497-silicon-dreams.json) |
 | Silicon Dreams | 15366 | [15366-silicon-dreams.json](./15366-silicon-dreams.json) |
 | Silicon Dreams - Return to Eden | 39156 | [39156-silicon-dreams-return-to-eden.json](./39156-silicon-dreams-return-to-eden.json) |
@@ -8431,6 +8433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyreach | 33023 | [33023-skyreach.json](./33023-skyreach.json) |
 | SkyRider | 191582 | [191582-skyrider.json](./191582-skyrider.json) |
 | SkyRider ADV | 90696 | [90696-skyrider-adv.json](./90696-skyrider-adv.json) |
+| Skyrift | 122107 | [122107-skyrift.json](./122107-skyrift.json) |
 | SkyRig | 348286 | [348286-skyrig.json](./348286-skyrig.json) |
 | SkyRoads X-mas Special | 19236 | [19236-skyroads-x-mas-special.json](./19236-skyroads-x-mas-special.json) |
 | Skyscraper | 125335 | [125335-skyscraper.json](./125335-skyscraper.json) |
@@ -9293,6 +9296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small World Z | 129513 | [129513-small-world-z.json](./129513-small-world-z.json) |
 | Small Worlds | 201612 | [201612-small-worlds.json](./201612-small-worlds.json) |
 | Smalland: Survive the Wilds VR | 299752 | [299752-smalland-survive-the-wilds-vr.json](./299752-smalland-survive-the-wilds-vr.json) |
+| Smaller | 122053 | [122053-smaller.json](./122053-smaller.json) |
 | Smalles | 163021 | [163021-smalles.json](./163021-smalles.json) |
 | Smalls Island Woes | 177341 | [177341-smalls-island-woes.json](./177341-smalls-island-woes.json) |
 | Smart As... | 92456 | [92456-smart-as.json](./92456-smart-as.json) |
@@ -12564,6 +12568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sowon | 222984 | [222984-sowon.json](./222984-sowon.json) |
 | Sowon : The Toy Wonderland | 298579 | [298579-sowon-the-toy-wonderland.json](./298579-sowon-the-toy-wonderland.json) |
 | Soy Supremacy | 372036 | [372036-soy-supremacy.json](./372036-soy-supremacy.json) |
+| Soyuz Constructors | 120647 | [120647-soyuz-constructors.json](./120647-soyuz-constructors.json) |
 | SP-Light | 291452 | [291452-sp-light.json](./291452-sp-light.json) |
 | Sp:In | 242788 | [242788-sp-in.json](./242788-sp-in.json) |
 | Sp!te | 108070 | [108070-sp-te.json](./108070-sp-te.json) |
@@ -13039,6 +13044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Memory: Rodents | 381173 | [381173-space-memory-rodents.json](./381173-space-memory-rodents.json) |
 | Space Merchant | 125813 | [125813-space-merchant.json](./125813-space-merchant.json) |
 | Space Miner | 292838 | [292838-space-miner.json](./292838-space-miner.json) |
+| Space Miner Blast | 120662 | [120662-space-miner-blast.json](./120662-space-miner-blast.json) |
 | Space Miner: Idle Adventures | 276173 | [276173-space-miner-idle-adventures.json](./276173-space-miner-idle-adventures.json) |
 | Space Miner: Platinum Edition | 100155 | [100155-space-miner-platinum-edition.json](./100155-space-miner-platinum-edition.json) |
 | Space Miner: Space Ore Bust | 21579 | [21579-space-miner-space-ore-bust.json](./21579-space-miner-space-ore-bust.json) |
@@ -15429,6 +15435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirm | 298947 | [298947-squirm.json](./298947-squirm.json) |
 | Squirm | 37309 | [37309-squirm.json](./37309-squirm.json) |
 | Squirm 16 | 313498 | [313498-squirm-16.json](./313498-squirm-16.json) |
+| Squirrel & Bär: Learn English | 122085 | [122085-squirrel-and-bar-learn-english.json](./122085-squirrel-and-bar-learn-english.json) |
 | Squirrel and Nuts | 239645 | [239645-squirrel-and-nuts.json](./239645-squirrel-and-nuts.json) |
 | Squirrel Bobble | 246392 | [246392-squirrel-bobble.json](./246392-squirrel-bobble.json) |
 | Squirrel Day | 278693 | [278693-squirrel-day.json](./278693-squirrel-day.json) |
@@ -16101,6 +16108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Deep Space Nine - Crossroads of Time | 3280 | [3280-star-trek-deep-space-nine-crossroads-of-time.json](./3280-star-trek-deep-space-nine-crossroads-of-time.json) |
 | Star Trek: Deep Space Nine - Dominion Wars | 3282 | [3282-star-trek-deep-space-nine-dominion-wars.json](./3282-star-trek-deep-space-nine-dominion-wars.json) |
 | Star Trek: Deep Space Nine - The Fallen | 3281 | [3281-star-trek-deep-space-nine-the-fallen.json](./3281-star-trek-deep-space-nine-the-fallen.json) |
+| Star Trek: Discovery - Away Mission | 121360 | [121360-star-trek-discovery-away-mission.json](./121360-star-trek-discovery-away-mission.json) |
 | Star Trek: Elite Force II | 8420 | [8420-star-trek-elite-force-ii.json](./8420-star-trek-elite-force-ii.json) |
 | Star Trek: En Territoire Alien | 110351 | [110351-star-trek-en-territoire-alien.json](./110351-star-trek-en-territoire-alien.json) |
 | Star Trek: Encounters | 20594 | [20594-star-trek-encounters.json](./20594-star-trek-encounters.json) |
@@ -20404,6 +20412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dead Rising 3 Arcade Remix | 21879 | [21879-super-dead-rising-3-arcade-remix.json](./21879-super-dead-rising-3-arcade-remix.json) |
 | Super Death Arena | 30126 | [30126-super-death-arena.json](./30126-super-death-arena.json) |
 | Super Demo World: The Legend Continues | 198224 | [198224-super-demo-world-the-legend-continues.json](./198224-super-demo-world-the-legend-continues.json) |
+| Super Demon Boy | 120677 | [120677-super-demon-boy.json](./120677-super-demon-boy.json) |
 | Super Depressed Bro... | 223087 | [223087-super-depressed-bro.json](./223087-super-depressed-bro.json) |
 | Super Depth | 239567 | [239567-super-depth.json](./239567-super-depth.json) |
 | Super Destronaut | 31859 | [31859-super-destronaut.json](./31859-super-destronaut.json) |
@@ -21420,6 +21429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Naruto: Clash of Ninja! 4 | 249292 | [249292-super-naruto-clash-of-ninja-4.json](./249292-super-naruto-clash-of-ninja-4.json) |
 | Super Nate Adventure | 138589 | [138589-super-nate-adventure.json](./138589-super-nate-adventure.json) |
 | Super Natural Dorm | 347762 | [347762-super-natural-dorm.json](./347762-super-natural-dorm.json) |
+| Super Naughty Maid 2 | 122106 | [122106-super-naughty-maid-2.json](./122106-super-naughty-maid-2.json) |
 | Super Navecitas 2 | 110512 | [110512-super-navecitas-2.json](./110512-super-navecitas-2.json) |
 | Super Naxat Open | 37809 | [37809-super-naxat-open.json](./37809-super-naxat-open.json) |
 | Super Nazo Puyo Tsuu: Rulue no Tetsuwan Hanjyouki | 37805 | [37805-super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjyouki.json](./37805-super-nazo-puyo-tsuu-rulue-no-tetsuwan-hanjyouki.json) |
@@ -22164,6 +22174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superdimensional | 181381 | [181381-superdimensional.json](./181381-superdimensional.json) |
 | SuperDog | 409683 | [409683-superdog.json](./409683-superdog.json) |
 | SuperDoom | 198358 | [198358-superdoom.json](./198358-superdoom.json) |
+| SuperDriver | 122066 | [122066-superdriver.json](./122066-superdriver.json) |
 | SuperDuck! | 203680 | [203680-superduck.json](./203680-superduck.json) |
 | SuperDucks | 357363 | [357363-superducks.json](./357363-superducks.json) |
 | SuperDungeon MegaCorp | 190995 | [190995-superdungeon-megacorp.json](./190995-superdungeon-megacorp.json) |
