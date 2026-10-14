@@ -483,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GalanWarSong | 345966 | [345966-galanwarsong.json](./345966-galanwarsong.json) |
 | Galatic Hero Agency: Mind Matters | 114741 | [114741-galatic-hero-agency-mind-matters.json](./114741-galatic-hero-agency-mind-matters.json) |
 | Galatic Management | 123898 | [123898-galatic-management.json](./123898-galatic-management.json) |
+| Galatron | 110199 | [110199-galatron.json](./110199-galatron.json) |
 | Galax | 382229 | [382229-galax.json](./382229-galax.json) |
 | GalaX | 259836 | [259836-galax.json](./259836-galax.json) |
 | Galax Attax | 92967 | [92967-galax-attax.json](./92967-galax-attax.json) |
@@ -3842,6 +3843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin's Die | 272767 | [272767-goblins-die.json](./272767-goblins-die.json) |
 | Goblin's Expedition | 217014 | [217014-goblins-expedition.json](./217014-goblins-expedition.json) |
 | Goblin's Gamble 24 | 395045 | [395045-goblins-gamble-24.json](./395045-goblins-gamble-24.json) |
+| Goblin's WAY Jigsaw Challenge | 110198 | [110198-goblins-way-jigsaw-challenge.json](./110198-goblins-way-jigsaw-challenge.json) |
 | Goblin's Workshop | 248168 | [248168-goblins-workshop.json](./248168-goblins-workshop.json) |
 | GoblinAmerica | 271228 | [271228-goblinamerica.json](./271228-goblinamerica.json) |
 | Goblinfall: Defend Da Fort | 419939 | [419939-goblinfall-defend-da-fort.json](./419939-goblinfall-defend-da-fort.json) |
@@ -6242,6 +6244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimm of the Dome | 245908 | [245908-grimm-of-the-dome.json](./245908-grimm-of-the-dome.json) |
 | Grimm Shuffle | 158670 | [158670-grimm-shuffle.json](./158670-grimm-shuffle.json) |
 | Grimm Tales | 239010 | [239010-grimm-tales.json](./239010-grimm-tales.json) |
+| Grimm: Cards of Fate | 110197 | [110197-grimm-cards-of-fate.json](./110197-grimm-cards-of-fate.json) |
 | Grimm: Dark Legacy | 25823 | [25823-grimm-dark-legacy.json](./25823-grimm-dark-legacy.json) |
 | Grimm: Episode 11 - King Midas | 164565 | [164565-grimm-episode-11-king-midas.json](./164565-grimm-episode-11-king-midas.json) |
 | Grimm: Episode 12 - Cinderella | 164560 | [164560-grimm-episode-12-cinderella.json](./164560-grimm-episode-12-cinderella.json) |
@@ -6713,6 +6716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of Middle-earth | 7892 | [7892-guardians-of-middle-earth.json](./7892-guardians-of-middle-earth.json) |
 | Guardians of Orion | 34326 | [34326-guardians-of-orion.json](./34326-guardians-of-orion.json) |
 | Guardians of the Forest | 60367 | [60367-guardians-of-the-forest.json](./60367-guardians-of-the-forest.json) |
+| Guardians of the Rose | 110195 | [110195-guardians-of-the-rose.json](./110195-guardians-of-the-rose.json) |
 | Guardians of the Sanctree | 318201 | [318201-guardians-of-the-sanctree.json](./318201-guardians-of-the-sanctree.json) |
 | Guardians of the Wall | 396884 | [396884-guardians-of-the-wall.json](./396884-guardians-of-the-wall.json) |
 | Guardians of the Wild Sky | 347896 | [347896-guardians-of-the-wild-sky.json](./347896-guardians-of-the-wild-sky.json) |
@@ -6781,6 +6785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guessmoji | 231463 | [231463-guessmoji.json](./231463-guessmoji.json) |
 | Guessr.tv | 268667 | [268667-guessr-tv.json](./268667-guessr-tv.json) |
 | GuessWhat | 94931 | [94931-guesswhat.json](./94931-guesswhat.json) |
+| Guesswork: Heroes of Cosplay | 110196 | [110196-guesswork-heroes-of-cosplay.json](./110196-guesswork-heroes-of-cosplay.json) |
 | Guest House | 313349 | [313349-guest-house.json](./313349-guest-house.json) |
 | Guest Rush | 342728 | [342728-guest-rush.json](./342728-guest-rush.json) |
 | Gugong | 291720 | [291720-gugong.json](./291720-gugong.json) |
