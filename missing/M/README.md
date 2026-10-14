@@ -4710,6 +4710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot Kuwagata Version | 55144 | [55144-medarot-kuwagata-version.json](./55144-medarot-kuwagata-version.json) |
 | Medarot Parts Collection | 92533 | [92533-medarot-parts-collection.json](./92533-medarot-parts-collection.json) |
 | Medarot Parts Collection 2 | 92534 | [92534-medarot-parts-collection-2.json](./92534-medarot-parts-collection-2.json) |
+| Medarot R | 92425 | [92425-medarot-r.json](./92425-medarot-r.json) |
 | Medarot R Parts Collection | 92537 | [92537-medarot-r-parts-collection.json](./92537-medarot-r-parts-collection.json) |
 | Medarots S: Unlimited Nova | 126475 | [126475-medarots-s-unlimited-nova.json](./126475-medarots-s-unlimited-nova.json) |
 | Medchess | 240781 | [240781-medchess.json](./240781-medchess.json) |
@@ -10743,6 +10744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Truck Trip 2 | 337224 | [337224-monster-truck-trip-2.json](./337224-monster-truck-trip-2.json) |
 | Monster Truck Wars | 19783 | [19783-monster-truck-wars.json](./19783-monster-truck-wars.json) |
 | Monster Truck XT Airport Derby | 86784 | [86784-monster-truck-xt-airport-derby.json](./86784-monster-truck-xt-airport-derby.json) |
+| Monster Trucks | 92416 | [92416-monster-trucks.json](./92416-monster-trucks.json) |
 | Monster Trucks Mayhem | 49248 | [49248-monster-trucks-mayhem.json](./49248-monster-trucks-mayhem.json) |
 | Monster Trucks Mayhem | 50718 | [50718-monster-trucks-mayhem.json](./50718-monster-trucks-mayhem.json) |
 | Monster Trux Arenas: Special Edition | 268375 | [268375-monster-trux-arenas-special-edition.json](./268375-monster-trux-arenas-special-edition.json) |
