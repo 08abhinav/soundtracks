@@ -364,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pact With a Witch | 118350 | [118350-pact-with-a-witch.json](./118350-pact-with-a-witch.json) |
 | Pacula's Curse | 141478 | [141478-paculas-curse.json](./141478-paculas-curse.json) |
 | PacWorm | 25140 | [25140-pacworm.json](./25140-pacworm.json) |
+| Pacwyn 20 | 130643 | [130643-pacwyn-20.json](./130643-pacwyn-20.json) |
 | Pacybits | 124662 | [124662-pacybits.json](./124662-pacybits.json) |
 | Pacz!: Pacmanworlds 2 | 141732 | [141732-pacz-pacmanworlds-2.json](./141732-pacz-pacmanworlds-2.json) |
 | Pad of Time | 194983 | [194983-pad-of-time.json](./194983-pad-of-time.json) |
@@ -6371,6 +6372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platform Parkour | 83214 | [83214-platform-parkour.json](./83214-platform-parkour.json) |
 | Platform Racing | 270638 | [270638-platform-racing.json](./270638-platform-racing.json) |
 | Platform Racing 2 | 98010 | [98010-platform-racing-2.json](./98010-platform-racing-2.json) |
+| Platform Racing 3 Reborn | 130659 | [130659-platform-racing-3-reborn.json](./130659-platform-racing-3-reborn.json) |
 | Platform Roll | 207535 | [207535-platform-roll.json](./207535-platform-roll.json) |
 | Platform Run | 324296 | [324296-platform-run.json](./324296-platform-run.json) |
 | Platform Terror | 393743 | [393743-platform-terror.json](./393743-platform-terror.json) |
