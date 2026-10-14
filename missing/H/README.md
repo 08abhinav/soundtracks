@@ -794,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanayaka Nari, Waga Ichizoku Modern Nostalgie | 136796 | [136796-hanayaka-nari-waga-ichizoku-modern-nostalgie.json](./136796-hanayaka-nari-waga-ichizoku-modern-nostalgie.json) |
 | Hanayaka Nari, Waga Ichizoku Tasogare Polar Star | 224448 | [224448-hanayaka-nari-waga-ichizoku-tasogare-polar-star.json](./224448-hanayaka-nari-waga-ichizoku-tasogare-polar-star.json) |
 | Hanayome: The Sacrificial Bride | 284611 | [284611-hanayome-the-sacrificial-bride.json](./284611-hanayome-the-sacrificial-bride.json) |
+| Hancho | 121330 | [121330-hancho.json](./121330-hancho.json) |
 | Hanctt Origins | 253455 | [253455-hanctt-origins.json](./253455-hanctt-origins.json) |
 | Hand Almighty | 393759 | [393759-hand-almighty.json](./393759-hand-almighty.json) |
 | Hand Cannon Virtuoso | 132256 | [132256-hand-cannon-virtuoso.json](./132256-hand-cannon-virtuoso.json) |
@@ -954,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hansel and Gretel | 215350 | [215350-hansel-and-gretel.json](./215350-hansel-and-gretel.json) |
 | Hansel and Gretel and the Enchanted Castle | 46641 | [46641-hansel-and-gretel-and-the-enchanted-castle.json](./46641-hansel-and-gretel-and-the-enchanted-castle.json) |
 | Hansel and Gretel: Interactive Book | 265837 | [265837-hansel-and-gretel-interactive-book.json](./265837-hansel-and-gretel-interactive-book.json) |
+| Hanshin Tigers DS | 123320 | [123320-hanshin-tigers-ds.json](./123320-hanshin-tigers-ds.json) |
 | Hanski's Burlap of Chaos! | 174272 | [174272-hanskis-burlap-of-chaos.json](./174272-hanskis-burlap-of-chaos.json) |
 | Hanx101 Trivia | 215154 | [215154-hanx101-trivia.json](./215154-hanx101-trivia.json) |
 | Hanz Puppetguns | 106619 | [106619-hanz-puppetguns.json](./106619-hanz-puppetguns.json) |
@@ -1050,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Harvest | 394106 | [394106-happy-harvest.json](./394106-happy-harvest.json) |
 | Happy Harvest! | 255797 | [255797-happy-harvest.json](./255797-happy-harvest.json) |
 | Happy Hike | 336557 | [336557-happy-hike.json](./336557-happy-hike.json) |
+| Happy Hippo's World Tour | 123317 | [123317-happy-hippos-world-tour.json](./123317-happy-hippos-world-tour.json) |
 | Happy Holes | 340412 | [340412-happy-holes.json](./340412-happy-holes.json) |
 | Happy Holidays: Christmas Miracle | 337270 | [337270-happy-holidays-christmas-miracle.json](./337270-happy-holidays-christmas-miracle.json) |
 | Happy Homes | 178932 | [178932-happy-homes.json](./178932-happy-homes.json) |
@@ -1220,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Time | 152241 | [152241-hard-time.json](./152241-hard-time.json) |
 | Hard Time | 54453 | [54453-hard-time.json](./54453-hard-time.json) |
 | Hard Time III | 310923 | [310923-hard-time-iii.json](./310923-hard-time-iii.json) |
+| Hard Times | 120684 | [120684-hard-times.json](./120684-hard-times.json) |
 | Hard Times at Sequoia State Park | 192388 | [192388-hard-times-at-sequoia-state-park.json](./192388-hard-times-at-sequoia-state-park.json) |
 | Hard to be a God | 20779 | [20779-hard-to-be-a-god.json](./20779-hard-to-be-a-god.json) |
 | Hard to be a King | 120854 | [120854-hard-to-be-a-king.json](./120854-hard-to-be-a-king.json) |
@@ -1620,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsukoi Master Up | 329945 | [329945-hatsukoi-master-up.json](./329945-hatsukoi-master-up.json) |
 | Hatsukoi Monogatari | 330102 | [330102-hatsukoi-monogatari.json](./330102-hatsukoi-monogatari.json) |
 | Hatsukoi Monogatari | 330209 | [330209-hatsukoi-monogatari.json](./330209-hatsukoi-monogatari.json) |
+| Hatsukoi! | 122109 | [122109-hatsukoi.json](./122109-hatsukoi.json) |
 | Hatsune Miku Amiguru Jump | 228454 | [228454-hatsune-miku-amiguru-jump.json](./228454-hatsune-miku-amiguru-jump.json) |
 | Hatsune Miku Connecting Puzzle Tamagotori: Kagamine Rin / Len Happy 14th Birthday | 213300 | [213300-hatsune-miku-connecting-puzzle-tamagotori-kagamine-rin-len-happy-14th-birthday.json](./213300-hatsune-miku-connecting-puzzle-tamagotori-kagamine-rin-len-happy-14th-birthday.json) |
 | Hatsune Miku Jigsaw Puzzle | 194617 | [194617-hatsune-miku-jigsaw-puzzle.json](./194617-hatsune-miku-jigsaw-puzzle.json) |
@@ -1747,6 +1752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted House | 276244 | [276244-haunted-house.json](./276244-haunted-house.json) |
 | Haunted House | 4909 | [4909-haunted-house.json](./4909-haunted-house.json) |
 | Haunted House 2 | 340419 | [340419-haunted-house-2.json](./340419-haunted-house-2.json) |
+| Haunted House Mysteries | 122103 | [122103-haunted-house-mysteries.json](./122103-haunted-house-mysteries.json) |
 | Haunted House of Rock | 338149 | [338149-haunted-house-of-rock.json](./338149-haunted-house-of-rock.json) |
 | Haunted House Renovator | 211941 | [211941-haunted-house-renovator.json](./211941-haunted-house-renovator.json) |
 | Haunted House Renovator: Prologue | 316421 | [316421-haunted-house-renovator-prologue.json](./316421-haunted-house-renovator-prologue.json) |
@@ -1831,6 +1837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haustor's Abbey | 278467 | [278467-haustors-abbey.json](./278467-haustors-abbey.json) |
 | Haustoria | 130922 | [130922-haustoria.json](./130922-haustoria.json) |
 | Haut | 349382 | [349382-haut.json](./349382-haut.json) |
+| Have a Blast | 122079 | [122079-have-a-blast.json](./122079-have-a-blast.json) |
 | Have a Blast | 151490 | [151490-have-a-blast.json](./151490-have-a-blast.json) |
 | Have a Good Day | 302778 | [302778-have-a-good-day.json](./302778-have-a-good-day.json) |
 | Have a N.I.C.E. day! | 71710 | [71710-have-a-n-i-c-e-day.json](./71710-have-a-n-i-c-e-day.json) |
@@ -3018,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellrider | 143083 | [143083-hellrider.json](./143083-hellrider.json) |
 | Hellrooms | 324322 | [324322-hellrooms.json](./324322-hellrooms.json) |
 | Hells Bend on Wounded Knee | 248679 | [248679-hells-bend-on-wounded-knee.json](./248679-hells-bend-on-wounded-knee.json) |
+| Hells Divide | 121359 | [121359-hells-divide.json](./121359-hells-divide.json) |
 | Hellshots Golf | 113593 | [113593-hellshots-golf.json](./113593-hellshots-golf.json) |
 | HellSinker | 50441 | [50441-hellsinker.json](./50441-hellsinker.json) |
 | Hellsino | 405554 | [405554-hellsino.json](./405554-hellsino.json) |
@@ -3837,6 +3845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Slayers | 348427 | [348427-hero-slayers.json](./348427-hero-slayers.json) |
 | Hero Staff | 113655 | [113655-hero-staff.json](./113655-hero-staff.json) |
 | Hero Stickman | 346653 | [346653-hero-stickman.json](./346653-hero-stickman.json) |
+| Hero Swing VR | 120667 | [120667-hero-swing-vr.json](./120667-hero-swing-vr.json) |
 | Hero Sword | 299399 | [299399-hero-sword.json](./299399-hero-sword.json) |
 | Hero Syndrome | 129522 | [129522-hero-syndrome.json](./129522-hero-syndrome.json) |
 | Hero Tactics | 181921 | [181921-hero-tactics.json](./181921-hero-tactics.json) |
@@ -4209,6 +4218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexagoner | 286032 | [286032-hexagoner.json](./286032-hexagoner.json) |
 | Hexagons | 83179 | [83179-hexagons.json](./83179-hexagons.json) |
 | Hexagourds | 182893 | [182893-hexagourds.json](./182893-hexagourds.json) |
+| Hexagroove: Tactical DJ | 123323 | [123323-hexagroove-tactical-dj.json](./123323-hexagroove-tactical-dj.json) |
 | Hexagun | 125098 | [125098-hexagun.json](./125098-hexagun.json) |
 | Hexahedral | 314461 | [314461-hexahedral.json](./314461-hexahedral.json) |
 | Hexahedral Pathfinder | 108418 | [108418-hexahedral-pathfinder.json](./108418-hexahedral-pathfinder.json) |
@@ -4514,6 +4524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Expedition: The Uncharted Islands | 64721 | [64721-hidden-expedition-the-uncharted-islands.json](./64721-hidden-expedition-the-uncharted-islands.json) |
 | Hidden Farm 2 Top-Down 3D | 208593 | [208593-hidden-farm-2-top-down-3d.json](./208593-hidden-farm-2-top-down-3d.json) |
 | Hidden Fears | 86916 | [86916-hidden-fears.json](./86916-hidden-fears.json) |
+| Hidden Files : Echoes of JFK | 122096 | [122096-hidden-files-echoes-of-jfk.json](./122096-hidden-files-echoes-of-jfk.json) |
 | Hidden Folks | 26809 | [26809-hidden-folks.json](./26809-hidden-folks.json) |
 | Hidden Folks 2 | 404849 | [404849-hidden-folks-2.json](./404849-hidden-folks-2.json) |
 | Hidden Forest | 160272 | [160272-hidden-forest.json](./160272-hidden-forest.json) |
@@ -5999,6 +6010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Runtaro | 257009 | [257009-home-runtaro.json](./257009-home-runtaro.json) |
 | Home Safety Hotline | 244303 | [244303-home-safety-hotline.json](./244303-home-safety-hotline.json) |
 | Home Safety Hotline: Seasonal Worker | 317001 | [317001-home-safety-hotline-seasonal-worker.json](./317001-home-safety-hotline-seasonal-worker.json) |
+| Home Sheep Home: Farmageddon Party Edition | 123322 | [123322-home-sheep-home-farmageddon-party-edition.json](./123322-home-sheep-home-farmageddon-party-edition.json) |
 | Home Simulator | 292169 | [292169-home-simulator.json](./292169-home-simulator.json) |
 | Home Snatch | 311791 | [311791-home-snatch.json](./311791-home-snatch.json) |
 | Home Solo Car Racer | 202644 | [202644-home-solo-car-racer.json](./202644-home-solo-car-racer.json) |
