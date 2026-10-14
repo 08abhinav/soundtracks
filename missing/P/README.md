@@ -3540,6 +3540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Online Episode I & II Plus | 79149 | [79149-phantasy-star-online-episode-i-and-ii-plus.json](./79149-phantasy-star-online-episode-i-and-ii-plus.json) |
 | Phantasy Star Online Ver. 2 | 45812 | [45812-phantasy-star-online-ver-2.json](./45812-phantasy-star-online-ver-2.json) |
 | Phantasy Star Portable 2 | 19256 | [19256-phantasy-star-portable-2.json](./19256-phantasy-star-portable-2.json) |
+| Phantasy Star Portable 2 Infinity | 79771 | [79771-phantasy-star-portable-2-infinity.json](./79771-phantasy-star-portable-2-infinity.json) |
 | Phantasy Star Universe | 7129 | [7129-phantasy-star-universe.json](./7129-phantasy-star-universe.json) |
 | Phantasy Star Universe: Ambition of the Illuminus | 21501 | [21501-phantasy-star-universe-ambition-of-the-illuminus.json](./21501-phantasy-star-universe-ambition-of-the-illuminus.json) |
 | Phantasy Star Zero Mini | 69330 | [69330-phantasy-star-zero-mini.json](./69330-phantasy-star-zero-mini.json) |
@@ -4122,6 +4123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross e2 | 65211 | [65211-picross-e2.json](./65211-picross-e2.json) |
 | Picross e3 | 62913 | [62913-picross-e3.json](./62913-picross-e3.json) |
 | Picross e6 | 47666 | [47666-picross-e6.json](./47666-picross-e6.json) |
+| Picross e8 | 79798 | [79798-picross-e8.json](./79798-picross-e8.json) |
 | Picross Fairytale | 102879 | [102879-picross-fairytale.json](./102879-picross-fairytale.json) |
 | Picross Fairytale: Legend of the Mermaid | 105715 | [105715-picross-fairytale-legend-of-the-mermaid.json](./105715-picross-fairytale-legend-of-the-mermaid.json) |
 | Picross Floof | 116104 | [116104-picross-floof.json](./116104-picross-floof.json) |
@@ -11347,6 +11349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psyvariar Reassemble | 137921 | [137921-psyvariar-reassemble.json](./137921-psyvariar-reassemble.json) |
 | Psyvariar: Complete Edition | 43351 | [43351-psyvariar-complete-edition.json](./43351-psyvariar-complete-edition.json) |
 | Psyvariar: Medium Unit | 137925 | [137925-psyvariar-medium-unit.json](./137925-psyvariar-medium-unit.json) |
+| Psyworld | 79785 | [79785-psyworld.json](./79785-psyworld.json) |
 | PT Boats: South Gambit | 15770 | [15770-pt-boats-south-gambit.json](./15770-pt-boats-south-gambit.json) |
 | PT-109 | 71181 | [71181-pt-109.json](./71181-pt-109.json) |
 | PTCS: A Post Traumatic Christmas Special | 312624 | [312624-ptcs-a-post-traumatic-christmas-special.json](./312624-ptcs-a-post-traumatic-christmas-special.json) |
