@@ -2406,6 +2406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Champs | 57332 | [57332-battle-champs.json](./57332-battle-champs.json) |
 | Battle Charge | 211426 | [211426-battle-charge.json](./211426-battle-charge.json) |
 | Battle Chasers: Nightwar | 12511 | [12511-battle-chasers-nightwar.json](./12511-battle-chasers-nightwar.json) |
+| Battle Chasers: Nightwar - Mobile Edition | 122089 | [122089-battle-chasers-nightwar-mobile-edition.json](./122089-battle-chasers-nightwar-mobile-edition.json) |
 | Battle Checkers: Infinity War | 193959 | [193959-battle-checkers-infinity-war.json](./193959-battle-checkers-infinity-war.json) |
 | Battle Cheese | 78382 | [78382-battle-cheese.json](./78382-battle-cheese.json) |
 | Battle Chef Brigade | 23689 | [23689-battle-chef-brigade.json](./23689-battle-chef-brigade.json) |
@@ -7862,6 +7863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob & Bernard Against the Nazis | 120361 | [120361-bob-and-bernard-against-the-nazis.json](./120361-bob-and-bernard-against-the-nazis.json) |
 | Bob & Dob | 177570 | [177570-bob-and-dob.json](./177570-bob-and-dob.json) |
 | Bob and Kuura: Lost in Snowglobe | 114564 | [114564-bob-and-kuura-lost-in-snowglobe.json](./114564-bob-and-kuura-lost-in-snowglobe.json) |
+| Bob and Prickle | 122054 | [122054-bob-and-prickle.json](./122054-bob-and-prickle.json) |
 | Bob and the Alien Fire Flies | 304224 | [304224-bob-and-the-alien-fire-flies.json](./304224-bob-and-the-alien-fire-flies.json) |
 | Bob Does Not Care | 181903 | [181903-bob-does-not-care.json](./181903-bob-does-not-care.json) |
 | Bob Don't Sleep! | 369201 | [369201-bob-dont-sleep.json](./369201-bob-dont-sleep.json) |
@@ -8582,6 +8584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Faster | 157198 | [157198-boom-faster.json](./157198-boom-faster.json) |
 | Boom Karts: Multiplayer Kart Racing | 144982 | [144982-boom-karts-multiplayer-kart-racing.json](./144982-boom-karts-multiplayer-kart-racing.json) |
 | Boom Lift Operator | 298156 | [298156-boom-lift-operator.json](./298156-boom-lift-operator.json) |
+| Boom Pilot | 120643 | [120643-boom-pilot.json](./120643-boom-pilot.json) |
 | Boom Robots | 312094 | [312094-boom-robots.json](./312094-boom-robots.json) |
 | Boom Royale | 243592 | [243592-boom-royale.json](./243592-boom-royale.json) |
 | Boom Shocketa: Rocket Storm | 217303 | [217303-boom-shocketa-rocket-storm.json](./217303-boom-shocketa-rocket-storm.json) |
@@ -8679,6 +8682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booty Diver | 68321 | [68321-booty-diver.json](./68321-booty-diver.json) |
 | Booty Hunt | 112289 | [112289-booty-hunt.json](./112289-booty-hunt.json) |
 | Bootybuns 2 | 127925 | [127925-bootybuns-2.json](./127925-bootybuns-2.json) |
+| Boovie | 120655 | [120655-boovie.json](./120655-boovie.json) |
 | Booze & Ooze | 327291 | [327291-booze-and-ooze.json](./327291-booze-and-ooze.json) |
 | Booze Cruise | 84462 | [84462-booze-cruise.json](./84462-booze-cruise.json) |
 | Booze Master | 191852 | [191852-booze-master.json](./191852-booze-master.json) |
@@ -8757,6 +8761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderus: Angels & Demons | 150547 | [150547-borderus-angels-and-demons.json](./150547-borderus-angels-and-demons.json) |
 | Borderwatch: Dark Armada | 244686 | [244686-borderwatch-dark-armada.json](./244686-borderwatch-dark-armada.json) |
 | Bore Blasters | 250809 | [250809-bore-blasters.json](./250809-bore-blasters.json) |
+| Boreal Blade | 122099 | [122099-boreal-blade.json](./122099-boreal-blade.json) |
 | Boreal Tenebrae | 195729 | [195729-boreal-tenebrae.json](./195729-boreal-tenebrae.json) |
 | Boreal Tenebrae Act 0 | 404353 | [404353-boreal-tenebrae-act-0.json](./404353-boreal-tenebrae-act-0.json) |
 | Boreal Tenebrae Deluxe | 242626 | [242626-boreal-tenebrae-deluxe.json](./242626-boreal-tenebrae-deluxe.json) |
@@ -8984,6 +8989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boule Petanque | 249113 | [249113-boule-petanque.json](./249113-boule-petanque.json) |
 | BouleMan | 349508 | [349508-bouleman.json](./349508-bouleman.json) |
 | Boulette Hell | 223377 | [223377-boulette-hell.json](./223377-boulette-hell.json) |
+| Bounce | 120690 | [120690-bounce.json](./120690-bounce.json) |
 | Bounce | 172047 | [172047-bounce.json](./172047-bounce.json) |
 | Bounce | 27679 | [27679-bounce.json](./27679-bounce.json) |
 | Bounce 2 | 356571 | [356571-bounce-2.json](./356571-bounce-2.json) |
