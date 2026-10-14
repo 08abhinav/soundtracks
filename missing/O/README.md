@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | October Nightmares | 272341 | [272341-october-nightmares.json](./272341-october-nightmares.json) |
 | October Ordeal | 318511 | [318511-october-ordeal.json](./318511-october-ordeal.json) |
 | October Panic | 319283 | [319283-october-panic.json](./319283-october-panic.json) |
+| Octocopter: Super Sub Squid Escape | 85317 | [85317-octocopter-super-sub-squid-escape.json](./85317-octocopter-super-sub-squid-escape.json) |
 | OctoCraps | 365169 | [365169-octocraps.json](./365169-octocraps.json) |
 | Octodad | 8110 | [8110-octodad.json](./8110-octodad.json) |
 | Octodad Shorts | 382904 | [382904-octodad-shorts.json](./382904-octodad-shorts.json) |
@@ -978,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Still Life | 262552 | [262552-old-still-life.json](./262552-old-still-life.json) |
 | Old Thiess: The Werewolf’s Trial | 349899 | [349899-old-thiess-the-werewolf-s-trial.json](./349899-old-thiess-the-werewolf-s-trial.json) |
 | Old Time Baseball | 94671 | [94671-old-time-baseball.json](./94671-old-time-baseball.json) |
+| Old Time Hockey | 85318 | [85318-old-time-hockey.json](./85318-old-time-hockey.json) |
 | Old Times | 294169 | [294169-old-times.json](./294169-old-times.json) |
 | Old Towers | 126017 | [126017-old-towers.json](./126017-old-towers.json) |
 | Old Town Bus Simulator | 250959 | [250959-old-town-bus-simulator.json](./250959-old-town-bus-simulator.json) |
@@ -1155,7 +1157,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omen Fall | 251805 | [251805-omen-fall.json](./251805-omen-fall.json) |
 | Omen of Sorrow | 27070 | [27070-omen-of-sorrow.json](./27070-omen-of-sorrow.json) |
 | Omen: Flesh Metal & Magic | 36934 | [36934-omen-flesh-metal-and-magic.json](./36934-omen-flesh-metal-and-magic.json) |
-| Omensight | 80916 | [80916-omensight.json](./80916-omensight.json) |
 | Omensight: Definitive Edition | 112879 | [112879-omensight-definitive-edition.json](./112879-omensight-definitive-edition.json) |
 | Omerta | 413190 | [413190-omerta.json](./413190-omerta.json) |
 | Omerta Chinmoku no Okite: The Legacy | 287637 | [287637-omerta-chinmoku-no-okite-the-legacy.json](./287637-omerta-chinmoku-no-okite-the-legacy.json) |
@@ -2471,7 +2472,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opus Castle: Chapter VI | 357194 | [357194-opus-castle-chapter-vi.json](./357194-opus-castle-chapter-vi.json) |
 | Opus Collection: The Day We Found Earth + Rocket of Whispers | 111912 | [111912-opus-collection-the-day-we-found-earth-rocket-of-whispers.json](./111912-opus-collection-the-day-we-found-earth-rocket-of-whispers.json) |
 | Opus Ludum | 169379 | [169379-opus-ludum.json](./169379-opus-ludum.json) |
-| Opus Magnum | 74545 | [74545-opus-magnum.json](./74545-opus-magnum.json) |
 | Opus Magnum: De Re Metallica | 391819 | [391819-opus-magnum-de-re-metallica.json](./391819-opus-magnum-de-re-metallica.json) |
 | Opus Torrentia | 386468 | [386468-opus-torrentia.json](./386468-opus-torrentia.json) |
 | Opus: Collector's Edition | 186904 | [186904-opus-collectors-edition.json](./186904-opus-collectors-edition.json) |
@@ -2842,6 +2842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orion: The Eternal Punishment | 149900 | [149900-orion-the-eternal-punishment.json](./149900-orion-the-eternal-punishment.json) |
 | Orion's Belt Expedition | 341516 | [341516-orions-belt-expedition.json](./341516-orions-belt-expedition.json) |
 | Orion's End | 211797 | [211797-orions-end.json](./211797-orions-end.json) |
+| Orion's Odyssey | 85322 | [85322-orions-odyssey.json](./85322-orions-odyssey.json) |
 | Orions: Legend of Wizards | 23269 | [23269-orions-legend-of-wizards.json](./23269-orions-legend-of-wizards.json) |
 | Oripathy | 267579 | [267579-oripathy.json](./267579-oripathy.json) |
 | Orisinal Collection | 397867 | [397867-orisinal-collection.json](./397867-orisinal-collection.json) |
@@ -3385,6 +3386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outage Navigation | 398038 | [398038-outage-navigation.json](./398038-outage-navigation.json) |
 | Outatime | 215913 | [215913-outatime.json](./215913-outatime.json) |
 | Outback Joey | 281554 | [281554-outback-joey.json](./281554-outback-joey.json) |
+| Outback Pet Rescue 3D | 85321 | [85321-outback-pet-rescue-3d.json](./85321-outback-pet-rescue-3d.json) |
 | Outblight | 415325 | [415325-outblight.json](./415325-outblight.json) |
 | Outbound | 286869 | [286869-outbound.json](./286869-outbound.json) |
 | Outbound: School Bus Adventures | 401492 | [401492-outbound-school-bus-adventures.json](./401492-outbound-school-bus-adventures.json) |
@@ -3622,6 +3624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outside Parties | 272473 | [272473-outside-parties.json](./272473-outside-parties.json) |
 | Outside the Blocks | 245868 | [245868-outside-the-blocks.json](./245868-outside-the-blocks.json) |
 | Outside the home | 176249 | [176249-outside-the-home.json](./176249-outside-the-home.json) |
+| Outside the Realm | 85320 | [85320-outside-the-realm.json](./85320-outside-the-realm.json) |
 | Outside World | 54906 | [54906-outside-world.json](./54906-outside-world.json) |
 | Outside World: Remembered | 98325 | [98325-outside-world-remembered.json](./98325-outside-world-remembered.json) |
 | Outside: Stray Cat | 185453 | [185453-outside-stray-cat.json](./185453-outside-stray-cat.json) |
@@ -3896,6 +3899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overworked | 408180 | [408180-overworked.json](./408180-overworked.json) |
 | Overworked Alice | 289226 | [289226-overworked-alice.json](./289226-overworked-alice.json) |
 | Overworld | 139291 | [139291-overworld.json](./139291-overworld.json) |
+| Overworld Defender Remix | 85324 | [85324-overworld-defender-remix.json](./85324-overworld-defender-remix.json) |
 | Overworld Heroes | 216964 | [216964-overworld-heroes.json](./216964-overworld-heroes.json) |
 | Overwrite | 145926 | [145926-overwrite.json](./145926-overwrite.json) |
 | Overwritten: Defeat the Net | 224630 | [224630-overwritten-defeat-the-net.json](./224630-overwritten-defeat-the-net.json) |
