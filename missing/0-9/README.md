@@ -2206,6 +2206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9999 in 1 | 279737 | [279737-9999-in-1.json](./279737-9999-in-1.json) |
 | 999999 | 263385 | [263385-999999.json](./263385-999999.json) |
 | 999Seconds!Survivors | 400259 | [400259-999seconds-survivors.json](./400259-999seconds-survivors.json) |
+| 99Seconds | 84726 | [84726-99seconds.json](./84726-99seconds.json) |
 | 99Vidas | 26678 | [26678-99vidas.json](./26678-99vidas.json) |
 | 9mm Roulette | 377408 | [377408-9mm-roulette.json](./377408-9mm-roulette.json) |
 | 9pm | 177510 | [177510-9pm.json](./177510-9pm.json) |
