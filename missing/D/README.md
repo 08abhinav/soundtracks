@@ -1807,6 +1807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of the Fred | 82316 | [82316-dawn-of-the-fred.json](./82316-dawn-of-the-fred.json) |
 | Dawn of the Immortals | 38917 | [38917-dawn-of-the-immortals.json](./38917-dawn-of-the-immortals.json) |
 | Dawn of the killer zombies | 90626 | [90626-dawn-of-the-killer-zombies.json](./90626-dawn-of-the-killer-zombies.json) |
+| Dawn of the Lost Castle | 115398 | [115398-dawn-of-the-lost-castle.json](./115398-dawn-of-the-lost-castle.json) |
 | Dawn of the Mexica | 143739 | [143739-dawn-of-the-mexica.json](./143739-dawn-of-the-mexica.json) |
 | Dawn of the Monsters | 120562 | [120562-dawn-of-the-monsters.json](./120562-dawn-of-the-monsters.json) |
 | Dawn of the Monsters: Arcade Edition | 252364 | [252364-dawn-of-the-monsters-arcade-edition.json](./252364-dawn-of-the-monsters-arcade-edition.json) |
@@ -8552,6 +8553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom II: The Cube | 218052 | [218052-doom-ii-the-cube.json](./218052-doom-ii-the-cube.json) |
 | Doom II: The Sentinel's Lexicon | 202838 | [202838-doom-ii-the-sentinels-lexicon.json](./202838-doom-ii-the-sentinels-lexicon.json) |
 | Doom III | 319655 | [319655-doom-iii.json](./319655-doom-iii.json) |
+| DooM in the Dark | 115516 | [115516-doom-in-the-dark.json](./115516-doom-in-the-dark.json) |
 | DooM in the Dark 2 | 131323 | [131323-doom-in-the-dark-2.json](./131323-doom-in-the-dark-2.json) |
 | Doom Incarnate | 201183 | [201183-doom-incarnate.json](./201183-doom-incarnate.json) |
 | Doom Mapping Contest II: Hellectric Boogaloo | 262281 | [262281-doom-mapping-contest-ii-hellectric-boogaloo.json](./262281-doom-mapping-contest-ii-hellectric-boogaloo.json) |
