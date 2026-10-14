@@ -1307,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-in-1 Christmas Collection | 331411 | [331411-3-in-1-christmas-collection.json](./331411-3-in-1-christmas-collection.json) |
 | 3-in-1 fun bundle | 223575 | [223575-3-in-1-fun-bundle.json](./223575-3-in-1-fun-bundle.json) |
 | 3-in-One Game Compilation | 92275 | [92275-3-in-one-game-compilation.json](./92275-3-in-one-game-compilation.json) |
+| 3-K Trivia | 100108 | [100108-3-k-trivia.json](./100108-3-k-trivia.json) |
 | 3-Legged Race A | 354400 | [354400-3-legged-race-a.json](./354400-3-legged-race-a.json) |
 | 3-Legged Race B | 354403 | [354403-3-legged-race-b.json](./354403-3-legged-race-b.json) |
 | 3-Letter Competitive Crossword | 416745 | [416745-3-letter-competitive-crossword.json](./416745-3-letter-competitive-crossword.json) |
@@ -1828,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5Street | 23640 | [23640-5street.json](./23640-5street.json) |
 | 5th Cataclysm | 334322 | [334322-5th-cataclysm.json](./334322-5th-cataclysm.json) |
 | 5th Fleet | 14471 | [14471-5th-fleet.json](./14471-5th-fleet.json) |
+| 5X | 100095 | [100095-5x.json](./100095-5x.json) |
 | 5x Qube : addictive puzzle grid fill 10/10 | 88672 | [88672-5x-qube-addictive-puzzle-grid-fill-10-10.json](./88672-5x-qube-addictive-puzzle-grid-fill-10-10.json) |
 | 6 | 34296 | [34296-6.json](./34296-6.json) |
 | 6 Colors | 93366 | [93366-6-colors.json](./93366-6-colors.json) |
