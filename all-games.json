@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T07:10:56.952Z",
-  "total_soundtracks": 1616,
+  "generated_at": "2026-10-14T07:11:11.060Z",
+  "total_soundtracks": 1617,
   "games": [
     {
       "igdb_id": 7522,
@@ -15685,6 +15685,20 @@
           "spotify_url": "https://music.apple.com/us/album/the-crew-2-original-game-soundtrack/1594441555?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1594441555"
+        }
+      ]
+    },
+    {
+      "igdb_id": 234256,
+      "game_name": "The Crew: Motorfest",
+      "game_url": "https://ostdb.net/games/the-crew-motorfest",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fb611514e27a656eb7559576",
+      "albums": [
+        {
+          "album_name": "The Crew: Motorfest (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7tY8iG1WqmCJGbIEkAIAXR",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
