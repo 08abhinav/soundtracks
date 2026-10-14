@@ -6340,6 +6340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Finals: Season 9 - Dragon Rising | 381152 | [381152-the-finals-season-9-dragon-rising.json](./381152-the-finals-season-9-dragon-rising.json) |
 | The Find | 326989 | [326989-the-find.json](./326989-the-find.json) |
 | The Finest Spark | 408235 | [408235-the-finest-spark.json](./408235-the-finest-spark.json) |
+| The Finnish Virtual Art Gallery | 110761 | [110761-the-finnish-virtual-art-gallery.json](./110761-the-finnish-virtual-art-gallery.json) |
 | The Finnish War | 195573 | [195573-the-finnish-war.json](./195573-the-finnish-war.json) |
 | The Finnish War x Sotidrokhima: Finlandsaga | 269188 | [269188-the-finnish-war-x-sotidrokhima-finlandsaga.json](./269188-the-finnish-war-x-sotidrokhima-finlandsaga.json) |
 | The Fire | 159573 | [159573-the-fire.json](./159573-the-fire.json) |
@@ -9598,6 +9599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Observed | 182555 | [182555-the-observed.json](./182555-the-observed.json) |
 | The Obsessive Shadow | 211809 | [211809-the-obsessive-shadow.json](./211809-the-obsessive-shadow.json) |
 | The Obsessive Shadow: Chapter 2 | 406179 | [406179-the-obsessive-shadow-chapter-2.json](./406179-the-obsessive-shadow-chapter-2.json) |
+| The Occluder | 110749 | [110749-the-occluder.json](./110749-the-occluder.json) |
 | The Occult Detective | 345060 | [345060-the-occult-detective.json](./345060-the-occult-detective.json) |
 | The Occupant | 74432 | [74432-the-occupant.json](./74432-the-occupant.json) |
 | The Occupied Base | 271309 | [271309-the-occupied-base.json](./271309-the-occupied-base.json) |
@@ -11678,6 +11680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tennis Academy | 298322 | [298322-the-tennis-academy.json](./298322-the-tennis-academy.json) |
 | The Tennis for Two Simulator | 340020 | [340020-the-tennis-for-two-simulator.json](./340020-the-tennis-for-two-simulator.json) |
 | The Tennis Master | 215247 | [215247-the-tennis-master.json](./215247-the-tennis-master.json) |
+| The Tension | 110764 | [110764-the-tension.json](./110764-the-tension.json) |
 | The Tensor | 318401 | [318401-the-tensor.json](./318401-the-tensor.json) |
 | The Tenth Line | 27973 | [27973-the-tenth-line.json](./27973-the-tenth-line.json) |
 | The Tenth Minute | 400243 | [400243-the-tenth-minute.json](./400243-the-tenth-minute.json) |
@@ -17910,6 +17913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Silver Night Festival: Freedom Train | 195794 | [195794-touhou-silver-night-festival-freedom-train.json](./195794-touhou-silver-night-festival-freedom-train.json) |
 | Touhou Soccer | 128380 | [128380-touhou-soccer.json](./128380-touhou-soccer.json) |
 | Touhou Soccer Moushuuden | 128381 | [128381-touhou-soccer-moushuuden.json](./128381-touhou-soccer-moushuuden.json) |
+| Touhou Soujinengi V & Touhou Genso Maroku W Double Pack | 110845 | [110845-touhou-soujinengi-v-and-touhou-genso-maroku-w-double-pack.json](./110845-touhou-soujinengi-v-and-touhou-genso-maroku-w-double-pack.json) |
 | Touhou Soujinengi V: The Genius of Sappheiros | 105121 | [105121-touhou-soujinengi-v-the-genius-of-sappheiros.json](./105121-touhou-soujinengi-v-the-genius-of-sappheiros.json) |
 | Touhou Soujinengi: The Genius of Sappheiros | 65194 | [65194-touhou-soujinengi-the-genius-of-sappheiros.json](./65194-touhou-soujinengi-the-genius-of-sappheiros.json) |
 | Touhou Spell Bubble | 131922 | [131922-touhou-spell-bubble.json](./131922-touhou-spell-bubble.json) |
