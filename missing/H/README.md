@@ -5159,6 +5159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hilarious Delivery | 390224 | [390224-hilarious-delivery.json](./390224-hilarious-delivery.json) |
 | Hilda | 134360 | [134360-hilda.json](./134360-hilda.json) |
 | Hilda and the Tower of Lust | 265182 | [265182-hilda-and-the-tower-of-lust.json](./265182-hilda-and-the-tower-of-lust.json) |
+| Hilda Creatures | 112169 | [112169-hilda-creatures.json](./112169-hilda-creatures.json) |
 | Hilde Redemption | 308899 | [308899-hilde-redemption.json](./308899-hilde-redemption.json) |
 | HiLight: Touch the light! | 265760 | [265760-hilight-touch-the-light.json](./265760-hilight-touch-the-light.json) |
 | Hill 4x4 Tuning Rivals | 255733 | [255733-hill-4x4-tuning-rivals.json](./255733-hill-4x4-tuning-rivals.json) |
