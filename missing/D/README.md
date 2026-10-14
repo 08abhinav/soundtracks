@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dabado Puzzles | 154093 | [154093-dabado-puzzles.json](./154093-dabado-puzzles.json) |
 | Dabble: A Fast Paced Word Game | 99716 | [99716-dabble-a-fast-paced-word-game.json](./99716-dabble-a-fast-paced-word-game.json) |
 | Dabda | 90615 | [90615-dabda.json](./90615-dabda.json) |
+| Dabman: Dabtastic Bundle | 112793 | [112793-dabman-dabtastic-bundle.json](./112793-dabman-dabtastic-bundle.json) |
 | Dabman: When the Haters Dab Back | 104936 | [104936-dabman-when-the-haters-dab-back.json](./104936-dabman-when-the-haters-dab-back.json) |
 | DAC 20 | 273556 | [273556-dac-20.json](./273556-dac-20.json) |
 | DaCapo Delivers | 152832 | [152832-dacapo-delivers.json](./152832-dacapo-delivers.json) |
@@ -416,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damned Hand | 158639 | [158639-damned-hand.json](./158639-damned-hand.json) |
 | Damned Hand: Arcade Mode | 171069 | [171069-damned-hand-arcade-mode.json](./171069-damned-hand-arcade-mode.json) |
 | Damned Hours | 54493 | [54493-damned-hours.json](./54493-damned-hours.json) |
+| Damnosaur | 112789 | [112789-damnosaur.json](./112789-damnosaur.json) |
 | Damnview Stories: No Vacancy | 146092 | [146092-damnview-stories-no-vacancy.json](./146092-damnview-stories-no-vacancy.json) |
 | Damnview: Built From Nothing | 107269 | [107269-damnview-built-from-nothing.json](./107269-damnview-built-from-nothing.json) |
 | Damocles | 15501 | [15501-damocles.json](./15501-damocles.json) |
@@ -5357,6 +5359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dexter's Laboratory Security Alert! | 23608 | [23608-dexters-laboratory-security-alert.json](./23608-dexters-laboratory-security-alert.json) |
 | Dexter's Laboratory: Science Ain't Fair | 8003 | [8003-dexters-laboratory-science-aint-fair.json](./8003-dexters-laboratory-science-aint-fair.json) |
 | Dexter's Momatory | 280444 | [280444-dexters-momatory.json](./280444-dexters-momatory.json) |
+| Dexteritrip | 112818 | [112818-dexteritrip.json](./112818-dexteritrip.json) |
 | Dexterity | 91263 | [91263-dexterity.json](./91263-dexterity.json) |
 | Dexterity Ball 3D | 34445 | [34445-dexterity-ball-3d.json](./34445-dexterity-ball-3d.json) |
 | Dexterous: Time to Steal | 278159 | [278159-dexterous-time-to-steal.json](./278159-dexterous-time-to-steal.json) |
@@ -6318,6 +6321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaurs Outbreak | 370789 | [370789-dinosaurs-outbreak.json](./370789-dinosaurs-outbreak.json) |
 | Dinosaurs: A Prehistoric Adventure 2 | 195579 | [195579-dinosaurs-a-prehistoric-adventure-2.json](./195579-dinosaurs-a-prehistoric-adventure-2.json) |
 | Dinosaurs: Mission Dino Camp | 252172 | [252172-dinosaurs-mission-dino-camp.json](./252172-dinosaurs-mission-dino-camp.json) |
+| Dinosaurus Life VR | 112711 | [112711-dinosaurus-life-vr.json](./112711-dinosaurus-life-vr.json) |
 | DinoScape | 143335 | [143335-dinoscape.json](./143335-dinoscape.json) |
 | DinoSource | 77983 | [77983-dinosource.json](./77983-dinosource.json) |
 | DinoSystem | 35131 | [35131-dinosystem.json](./35131-dinosystem.json) |
