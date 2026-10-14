@@ -8624,7 +8624,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Fighters | 202839 | [202839-doom-fighters.json](./202839-doom-fighters.json) |
 | Doom GTS | 76246 | [76246-doom-gts.json](./76246-doom-gts.json) |
 | Doom I Enhanced | 214128 | [214128-doom-i-enhanced.json](./214128-doom-i-enhanced.json) |
-| Doom II | 121503 | [121503-doom-ii.json](./121503-doom-ii.json) |
 | Doom II + Final Doom | 132823 | [132823-doom-ii-final-doom.json](./132823-doom-ii-final-doom.json) |
 | Doom II Enhanced | 214127 | [214127-doom-ii-enhanced.json](./214127-doom-ii-enhanced.json) |
 | Doom II RPG | 101031 | [101031-doom-ii-rpg.json](./101031-doom-ii-rpg.json) |
