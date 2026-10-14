@@ -651,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Run: Turbo Edition | 132670 | [132670-bad-run-turbo-edition.json](./132670-bad-run-turbo-edition.json) |
 | Bad Santa | 226240 | [226240-bad-santa.json](./226240-bad-santa.json) |
 | Bad Santa | 281946 | [281946-bad-santa.json](./281946-bad-santa.json) |
+| Bad School Boy | 81160 | [81160-bad-school-boy.json](./81160-bad-school-boy.json) |
 | Bad Sector 3 | 371265 | [371265-bad-sector-3.json](./371265-bad-sector-3.json) |
 | Bad Shooter 2 | 55284 | [55284-bad-shooter-2.json](./55284-bad-shooter-2.json) |
 | Bad Soccer Manager | 197235 | [197235-bad-soccer-manager.json](./197235-bad-soccer-manager.json) |
@@ -10559,6 +10560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Fields: Stay or Run? | 420676 | [420676-broken-fields-stay-or-run.json](./420676-broken-fields-stay-or-run.json) |
 | Broken Fifth | 279260 | [279260-broken-fifth.json](./279260-broken-fifth.json) |
 | Broken God Awakening | 216791 | [216791-broken-god-awakening.json](./216791-broken-god-awakening.json) |
+| Broken Ground | 81135 | [81135-broken-ground.json](./81135-broken-ground.json) |
 | Broken Hearts | 391793 | [391793-broken-hearts.json](./391793-broken-hearts.json) |
 | Broken Hearts Club: Blue Bird Blues | 120844 | [120844-broken-hearts-club-blue-bird-blues.json](./120844-broken-hearts-club-blue-bird-blues.json) |
 | Broken Hearts Island | 258990 | [258990-broken-hearts-island.json](./258990-broken-hearts-island.json) |
@@ -11452,6 +11454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulletline | 101365 | [101365-bulletline.json](./101365-bulletline.json) |
 | BulletLive | 235660 | [235660-bulletlive.json](./235660-bulletlive.json) |
 | Bulletnico | 334497 | [334497-bulletnico.json](./334497-bulletnico.json) |
+| Bulleto Master | 81090 | [81090-bulleto-master.json](./81090-bulleto-master.json) |
 | Bulletombe | 316367 | [316367-bulletombe.json](./316367-bulletombe.json) |
 | Bulletorium | 121401 | [121401-bulletorium.json](./121401-bulletorium.json) |
 | Bulletproof | 235697 | [235697-bulletproof.json](./235697-bulletproof.json) |
