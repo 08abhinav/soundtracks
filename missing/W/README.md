@@ -3557,6 +3557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West Miner Simulator | 391233 | [391233-wild-west-miner-simulator.json](./391233-wild-west-miner-simulator.json) |
 | Wild West Miner Simulator: First Gun | 405094 | [405094-wild-west-miner-simulator-first-gun.json](./405094-wild-west-miner-simulator-first-gun.json) |
 | Wild West Pioneers | 341034 | [341034-wild-west-pioneers.json](./341034-wild-west-pioneers.json) |
+| Wild West Quest 2 | 100073 | [100073-wild-west-quest-2.json](./100073-wild-west-quest-2.json) |
 | Wild West Quest: Gold Rush | 100223 | [100223-wild-west-quest-gold-rush.json](./100223-wild-west-quest-gold-rush.json) |
 | Wild West Races | 175395 | [175395-wild-west-races.json](./175395-wild-west-races.json) |
 | Wild West Rogue | 166609 | [166609-wild-west-rogue.json](./166609-wild-west-rogue.json) |
