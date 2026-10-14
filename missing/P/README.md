@@ -2582,7 +2582,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pegged | 385372 | [385372-pegged.json](./385372-pegged.json) |
 | Peggle | 3751 | [3751-peggle.json](./3751-peggle.json) |
 | Peggle | 95409 | [95409-peggle.json](./95409-peggle.json) |
-| Peggle 2 | 3752 | [3752-peggle-2.json](./3752-peggle-2.json) |
 | Peggle 2: Jimmy Lightning Master Pack | 339484 | [339484-peggle-2-jimmy-lightning-master-pack.json](./339484-peggle-2-jimmy-lightning-master-pack.json) |
 | Peggle 2: Magical Masters Edition | 118895 | [118895-peggle-2-magical-masters-edition.json](./118895-peggle-2-magical-masters-edition.json) |
 | Peggle 2: Windy the Fairy Master Pack | 294409 | [294409-peggle-2-windy-the-fairy-master-pack.json](./294409-peggle-2-windy-the-fairy-master-pack.json) |
