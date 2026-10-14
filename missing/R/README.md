@@ -6270,6 +6270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Engineer | 297204 | [297204-rocket-engineer.json](./297204-rocket-engineer.json) |
 | Rocket Escape | 226940 | [226940-rocket-escape.json](./226940-rocket-escape.json) |
 | Rocket Factory | 185637 | [185637-rocket-factory.json](./185637-rocket-factory.json) |
+| Rocket Fart | 79775 | [79775-rocket-fart.json](./79775-rocket-fart.json) |
 | Rocket Fist | 19175 | [19175-rocket-fist.json](./19175-rocket-fist.json) |
 | Rocket Frog | 277949 | [277949-rocket-frog.json](./277949-rocket-frog.json) |
 | Rocket Fruit | 144778 | [144778-rocket-fruit.json](./144778-rocket-fruit.json) |
@@ -6945,6 +6946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller Stars | 149017 | [149017-roller-stars.json](./149017-roller-stars.json) |
 | Roller-Skating | 328498 | [328498-roller-skating.json](./328498-roller-skating.json) |
 | Rollerball | 298843 | [298843-rollerball.json](./298843-rollerball.json) |
+| Rollerball | 79731 | [79731-rollerball.json](./79731-rollerball.json) |
 | RollerBall | 245736 | [245736-rollerball.json](./245736-rollerball.json) |
 | RollerBaller | 158511 | [158511-rollerballer.json](./158511-rollerballer.json) |
 | Rollerblade Racer | 48204 | [48204-rollerblade-racer.json](./48204-rollerblade-racer.json) |
