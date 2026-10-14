@@ -3908,6 +3908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Means Nothing | 380677 | [380677-no-means-nothing.json](./380677-no-means-nothing.json) |
 | No Meteors | 146070 | [146070-no-meteors.json](./146070-no-meteors.json) |
 | No Momentum | 190979 | [190979-no-momentum.json](./190979-no-momentum.json) |
+| No More Buttons | 100695 | [100695-no-more-buttons.json](./100695-no-more-buttons.json) |
 | No More Cows | 399063 | [399063-no-more-cows.json](./399063-no-more-cows.json) |
 | No More Future | 177912 | [177912-no-more-future.json](./177912-no-more-future.json) |
 | No More Heroes | 377191 | [377191-no-more-heroes.json](./377191-no-more-heroes.json) |
