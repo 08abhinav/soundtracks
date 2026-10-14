@@ -688,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pampas & Selene: The Maze of Demons - Pirate Software's Ferret Sanctuary | 302203 | [302203-pampas-and-selene-the-maze-of-demons-pirate-softwares-ferret-sanctuary.json](./302203-pampas-and-selene-the-maze-of-demons-pirate-softwares-ferret-sanctuary.json) |
 | Pan | 294980 | [294980-pan.json](./294980-pan.json) |
 | Pan Beats | 311624 | [311624-pan-beats.json](./311624-pan-beats.json) |
+| Pan Galactic Railway | 101447 | [101447-pan-galactic-railway.json](./101447-pan-galactic-railway.json) |
 | Pan Panda | 110527 | [110527-pan-panda.json](./110527-pan-panda.json) |
 | Pan-Dimensional Conga Combat | 86253 | [86253-pan-dimensional-conga-combat.json](./86253-pan-dimensional-conga-combat.json) |
 | Pan·Gaia | 244220 | [244220-pan-gaia.json](./244220-pan-gaia.json) |
