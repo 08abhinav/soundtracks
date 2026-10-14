@@ -1009,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.D.D. (Anomaly Detection Department) | 412470 | [412470-a-d-d-anomaly-detection-department.json](./412470-a-d-d-anomaly-detection-department.json) |
 | A.E. | 20175 | [20175-a-e.json](./20175-a-e.json) |
 | A.E. | 282086 | [282086-a-e.json](./282086-a-e.json) |
+| A.G. Soccer-Ball | 94140 | [94140-a-g-soccer-ball.json](./94140-a-g-soccer-ball.json) |
 | A.G.E. | 240255 | [240255-a-g-e.json](./240255-a-g-e.json) |
 | A.I am Monster | 26569 | [26569-a-i-am-monster.json](./26569-a-i-am-monster.json) |
 | A.I: Mnemosyne | 374224 | [374224-a-i-mnemosyne.json](./374224-a-i-mnemosyne.json) |
@@ -1303,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Pinball | 12376 | [12376-absolute-pinball.json](./12376-absolute-pinball.json) |
 | Absolute RC Plane Simulator | 107034 | [107034-absolute-rc-plane-simulator.json](./107034-absolute-rc-plane-simulator.json) |
 | Absolute RC Simulator | 104560 | [104560-absolute-rc-simulator.json](./104560-absolute-rc-simulator.json) |
+| Absolute Schafkopf | 94117 | [94117-absolute-schafkopf.json](./94117-absolute-schafkopf.json) |
 | Absolute Schafkopf for Windows 11 | 264545 | [264545-absolute-schafkopf-for-windows-11.json](./264545-absolute-schafkopf-for-windows-11.json) |
 | Absolute Signalling | 414176 | [414176-absolute-signalling.json](./414176-absolute-signalling.json) |
 | Absolute Solitaire & Patience | 91558 | [91558-absolute-solitaire-and-patience.json](./91558-absolute-solitaire-and-patience.json) |
@@ -1751,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acne Attack | 72158 | [72158-acne-attack.json](./72158-acne-attack.json) |
 | Acno's Energizer | 326749 | [326749-acnos-energizer.json](./326749-acnos-energizer.json) |
 | Acolyte Fight! | 112251 | [112251-acolyte-fight.json](./112251-acolyte-fight.json) |
+| Aconcagua | 94123 | [94123-aconcagua.json](./94123-aconcagua.json) |
 | Aconite | 261712 | [261712-aconite.json](./261712-aconite.json) |
 | Aconitum | 379468 | [379468-aconitum.json](./379468-aconitum.json) |
 | Acorn Assault: Rodent Revolution | 21991 | [21991-acorn-assault-rodent-revolution.json](./21991-acorn-assault-rodent-revolution.json) |
@@ -3359,6 +3362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Hockey | 200667 | [200667-air-hockey.json](./200667-air-hockey.json) |
 | Air Hockey | 43934 | [43934-air-hockey.json](./43934-air-hockey.json) |
 | Air Hockey | 88618 | [88618-air-hockey.json](./88618-air-hockey.json) |
+| Air Hockey | 94114 | [94114-air-hockey.json](./94114-air-hockey.json) |
 | Air Hockey Arcade: Casual Board Game | 242589 | [242589-air-hockey-arcade-casual-board-game.json](./242589-air-hockey-arcade-casual-board-game.json) |
 | Air Hockey Blue | 197773 | [197773-air-hockey-blue.json](./197773-air-hockey-blue.json) |
 | Air Hockey Gamepack | 153699 | [153699-air-hockey-gamepack.json](./153699-air-hockey-gamepack.json) |
@@ -5336,6 +5340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Maze | 18115 | [18115-amazing-maze.json](./18115-amazing-maze.json) |
 | Amazing Maze | 217486 | [217486-amazing-maze.json](./217486-amazing-maze.json) |
 | Amazing Maze / Tic-Tac-Toe | 169264 | [169264-amazing-maze-tic-tac-toe.json](./169264-amazing-maze-tic-tac-toe.json) |
+| Amazing Maze/Tic Tac Toe | 94148 | [94148-amazing-maze-tic-tac-toe.json](./94148-amazing-maze-tic-tac-toe.json) |
 | Amazing Penguin | 7753 | [7753-amazing-penguin.json](./7753-amazing-penguin.json) |
 | Amazing Penguin DX | 279579 | [279579-amazing-penguin-dx.json](./279579-amazing-penguin-dx.json) |
 | Amazing Pets Bundle | 212788 | [212788-amazing-pets-bundle.json](./212788-amazing-pets-bundle.json) |
@@ -11511,6 +11516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avaris | 377821 | [377821-avaris.json](./377821-avaris.json) |
 | Avaris 2 | 377822 | [377822-avaris-2.json](./377822-avaris-2.json) |
 | Avast: Scourge of Sea | 315094 | [315094-avast-scourge-of-sea.json](./315094-avast-scourge-of-sea.json) |
+| Avataaah!!! | 94152 | [94152-avataaah.json](./94152-avataaah.json) |
 | Avatar | 80928 | [80928-avatar.json](./80928-avatar.json) |
 | Avatar 2 Way of Watter: Porn Game | 287101 | [287101-avatar-2-way-of-watter-porn-game.json](./287101-avatar-2-way-of-watter-porn-game.json) |
 | Avatar Aquarium | 77409 | [77409-avatar-aquarium.json](./77409-avatar-aquarium.json) |
@@ -11566,6 +11572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ave Classic | 355185 | [355185-ave-classic.json](./355185-ave-classic.json) |
 | Avelia | 292318 | [292318-avelia.json](./292318-avelia.json) |
 | Aveliana | 156152 | [156152-aveliana.json](./156152-aveliana.json) |
+| Avem33 | 94128 | [94128-avem33.json](./94128-avem33.json) |
 | Avem888 | 105751 | [105751-avem888.json](./105751-avem888.json) |
 | Avem888 VR | 105128 | [105128-avem888-vr.json](./105128-avem888-vr.json) |
 | Aven Colony: The Cerulean Vale | 227353 | [227353-aven-colony-the-cerulean-vale.json](./227353-aven-colony-the-cerulean-vale.json) |
