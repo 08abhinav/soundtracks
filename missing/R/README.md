@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raanaa: The Shaman Girl - The Frozen World | 335407 | [335407-raanaa-the-shaman-girl-the-frozen-world.json](./335407-raanaa-the-shaman-girl-the-frozen-world.json) |
 | Raanaa: The Shaman Girl - The Windman's Land | 321148 | [321148-raanaa-the-shaman-girl-the-windmans-land.json](./321148-raanaa-the-shaman-girl-the-windmans-land.json) |
 | Raanaa: The Shaman Girl - Valhalla | 342142 | [342142-raanaa-the-shaman-girl-valhalla.json](./342142-raanaa-the-shaman-girl-valhalla.json) |
+| Raatihuone | 116219 | [116219-raatihuone.json](./116219-raatihuone.json) |
 | Rabanaz | 403571 | [403571-rabanaz.json](./403571-rabanaz.json) |
 | Rabauken: Spirit Resort | 400394 | [400394-rabauken-spirit-resort.json](./400394-rabauken-spirit-resort.json) |
 | Rabbi-T | 240780 | [240780-rabbi-t.json](./240780-rabbi-t.json) |
@@ -7039,7 +7040,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms XIII: Scenario for War Chronicles Mode - 5th Wave: The Battle for Yan Province | 164499 | [164499-romance-of-the-three-kingdoms-xiii-scenario-for-war-chronicles-mode-5th-wave-the-battle-for-yan-province.json](./164499-romance-of-the-three-kingdoms-xiii-scenario-for-war-chronicles-mode-5th-wave-the-battle-for-yan-province.json) |
 | Romance of the Three Kingdoms XIII: Sun Ce Pushing Forward Event Set | 164493 | [164493-romance-of-the-three-kingdoms-xiii-sun-ce-pushing-forward-event-set.json](./164493-romance-of-the-three-kingdoms-xiii-sun-ce-pushing-forward-event-set.json) |
 | Romance of the Three Kingdoms XIII: Zhuge Liang's Northern Campaign Event Set | 164502 | [164502-romance-of-the-three-kingdoms-xiii-zhuge-liangs-northern-campaign-event-set.json](./164502-romance-of-the-three-kingdoms-xiii-zhuge-liangs-northern-campaign-event-set.json) |
-| Romance of the Three Kingdoms XIV Complete Edition | 407202 | [407202-romance-of-the-three-kingdoms-xiv-complete-edition.json](./407202-romance-of-the-three-kingdoms-xiv-complete-edition.json) |
 | Romance of the Three Kingdoms XIV with Power Up Kit: Digital Deluxe Edition | 222265 | [222265-romance-of-the-three-kingdoms-xiv-with-power-up-kit-digital-deluxe-edition.json](./222265-romance-of-the-three-kingdoms-xiv-with-power-up-kit-digital-deluxe-edition.json) |
 | Romance of the Three Kingdoms XIV: Diplomacy and Strategy Expansion Pack | 350638 | [350638-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack.json](./350638-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack.json) |
 | Romance of the Three Kingdoms XIV: Diplomacy and Strategy Expansion Pack Bundle | 147803 | [147803-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack-bundle.json](./147803-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack-bundle.json) |
@@ -7644,6 +7644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Watch: The Throne's Duty | 379976 | [379976-royal-watch-the-thrones-duty.json](./379976-royal-watch-the-thrones-duty.json) |
 | Royale Island Showdown | 167590 | [167590-royale-island-showdown.json](./167590-royale-island-showdown.json) |
 | Royale King | 270928 | [270928-royale-king.json](./270928-royale-king.json) |
+| Royale Storm Bowling | 116217 | [116217-royale-storm-bowling.json](./116217-royale-storm-bowling.json) |
 | Royalevia | 254764 | [254764-royalevia.json](./254764-royalevia.json) |
 | Royals | 128422 | [128422-royals.json](./128422-royals.json) |
 | Royalty Free-For-All | 321417 | [321417-royalty-free-for-all.json](./321417-royalty-free-for-all.json) |
