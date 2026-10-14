@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obstacle Course Car Parking | 238391 | [238391-obstacle-course-car-parking.json](./238391-obstacle-course-car-parking.json) |
 | Obstacles | 186172 | [186172-obstacles.json](./186172-obstacles.json) |
 | Obstacles Race | 288356 | [288356-obstacles-race.json](./288356-obstacles-race.json) |
+| Obstruction | 107692 | [107692-obstruction.json](./107692-obstruction.json) |
 | Obsurity | 121322 | [121322-obsurity.json](./121322-obsurity.json) |
 | Obversion | 120388 | [120388-obversion.json](./120388-obversion.json) |
 | Ocarina of Time + Majora's Mask Crossover Randomizer | 231548 | [231548-ocarina-of-time-majoras-mask-crossover-randomizer.json](./231548-ocarina-of-time-majoras-mask-crossover-randomizer.json) |
@@ -728,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ogre Battle: The March of the Black Queen | 9805 | [9805-ogre-battle-the-march-of-the-black-queen.json](./9805-ogre-battle-the-march-of-the-black-queen.json) |
 | Ogre Chambers 2222 | 369740 | [369740-ogre-chambers-2222.json](./369740-ogre-chambers-2222.json) |
 | Ogre Chambers DX | 239795 | [239795-ogre-chambers-dx.json](./239795-ogre-chambers-dx.json) |
+| Ogre Island | 107611 | [107611-ogre-island.json](./107611-ogre-island.json) |
 | Ogre Labs | 310703 | [310703-ogre-labs.json](./310703-ogre-labs.json) |
 | Ogre Stampede | 413480 | [413480-ogre-stampede.json](./413480-ogre-stampede.json) |
 | Ogre: Console Edition | 202050 | [202050-ogre-console-edition.json](./202050-ogre-console-edition.json) |
