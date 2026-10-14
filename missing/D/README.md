@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daffy Duck, P.I.: The Case of the Missing Letters | 63814 | [63814-daffy-duck-p-i-the-case-of-the-missing-letters.json](./63814-daffy-duck-p-i-the-case-of-the-missing-letters.json) |
 | Daffy Duck: Fowl Play | 25800 | [25800-daffy-duck-fowl-play.json](./25800-daffy-duck-fowl-play.json) |
 | Daft Disputes | 180220 | [180220-daft-disputes.json](./180220-daft-disputes.json) |
+| Daft Jump! | 108222 | [108222-daft-jump.json](./108222-daft-jump.json) |
 | DaGame | 146238 | [146238-dagame.json](./146238-dagame.json) |
 | Dagat-i Kal Kal Kal | 63262 | [63262-dagat-i-kal-kal-kal.json](./63262-dagat-i-kal-kal-kal.json) |
 | Dagdrom | 183468 | [183468-dagdrom.json](./183468-dagdrom.json) |
@@ -4474,6 +4475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Der Große Preis von Raddorf | 98955 | [98955-der-gro-e-preis-von-raddorf.json](./98955-der-gro-e-preis-von-raddorf.json) |
 | Der Königsruf | 369627 | [369627-der-konigsruf.json](./369627-der-konigsruf.json) |
 | Der Langrisser | 77634 | [77634-der-langrisser.json](./77634-der-langrisser.json) |
+| Der Milchbauer | 108322 | [108322-der-milchbauer.json](./108322-der-milchbauer.json) |
 | Der Pfad des Pinguins | 262242 | [262242-der-pfad-des-pinguins.json](./262242-der-pfad-des-pinguins.json) |
 | Der Planer | 86048 | [86048-der-planer.json](./86048-der-planer.json) |
 | Der Planer 3 | 92964 | [92964-der-planer-3.json](./92964-der-planer-3.json) |
@@ -8409,6 +8411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donut or Cookie | 233660 | [233660-donut-or-cookie.json](./233660-donut-or-cookie.json) |
 | Donut Plus | 309639 | [309639-donut-plus.json](./309639-donut-plus.json) |
 | Donut Punks | 141638 | [141638-donut-punks.json](./141638-donut-punks.json) |
+| Donut Shop | 108313 | [108313-donut-shop.json](./108313-donut-shop.json) |
 | Donut Shop Simulator | 348761 | [348761-donut-shop-simulator.json](./348761-donut-shop-simulator.json) |
 | Donutal | 391675 | [391675-donutal.json](./391675-donutal.json) |
 | Donutis Simulator | 159538 | [159538-donutis-simulator.json](./159538-donutis-simulator.json) |
