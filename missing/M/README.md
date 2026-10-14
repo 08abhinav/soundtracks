@@ -7037,6 +7037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro-Breakout | 320150 | [320150-micro-breakout.json](./320150-micro-breakout.json) |
 | Micro$oft Simulaattori | 98940 | [98940-micro-oft-simulaattori.json](./98940-micro-oft-simulaattori.json) |
 | Microarcade ApplePie | 223617 | [223617-microarcade-applepie.json](./223617-microarcade-applepie.json) |
+| Microball | 94617 | [94617-microball.json](./94617-microball.json) |
 | Microbial Mayhem | 268989 | [268989-microbial-mayhem.json](./268989-microbial-mayhem.json) |
 | Microbian | 376078 | [376078-microbian.json](./376078-microbian.json) |
 | MicroBot | 21082 | [21082-microbot.json](./21082-microbot.json) |
@@ -7067,6 +7068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micropolis | 46622 | [46622-micropolis.json](./46622-micropolis.json) |
 | MicroProse Entertainment Pack Vol #1: Dr Floyd's Desktop Toys | 98962 | [98962-microprose-entertainment-pack-vol-1-dr-floyds-desktop-toys.json](./98962-microprose-entertainment-pack-vol-1-dr-floyds-desktop-toys.json) |
 | MicroProse Golf | 194972 | [194972-microprose-golf.json](./194972-microprose-golf.json) |
+| Microprose Pro Soccer | 94626 | [94626-microprose-pro-soccer.json](./94626-microprose-pro-soccer.json) |
 | MicroRC Simulation | 34079 | [34079-microrc-simulation.json](./34079-microrc-simulation.json) |
 | MicroSand | 146810 | [146810-microsand.json](./146810-microsand.json) |
 | Microscape | 411686 | [411686-microscape.json](./411686-microscape.json) |
@@ -8325,6 +8327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minerva Labyrinth | 344499 | [344499-minerva-labyrinth.json](./344499-minerva-labyrinth.json) |
 | Mines | 102817 | [102817-mines.json](./102817-mines.json) |
 | Mines | 205095 | [205095-mines.json](./205095-mines.json) |
+| Mines | 94643 | [94643-mines.json](./94643-mines.json) |
 | Mines & Dragons | 163994 | [163994-mines-and-dragons.json](./163994-mines-and-dragons.json) |
 | Mines of Dalarnia | 163220 | [163220-mines-of-dalarnia.json](./163220-mines-of-dalarnia.json) |
 | Mines of Mars | 34143 | [34143-mines-of-mars.json](./34143-mines-of-mars.json) |
@@ -13082,6 +13085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musicus! | 185708 | [185708-musicus.json](./185708-musicus.json) |
 | MusicVR Episode 1: Tr3s Lunas | 70978 | [70978-musicvr-episode-1-tr3s-lunas.json](./70978-musicvr-episode-1-tr3s-lunas.json) |
 | MusicVR Episode 2: Maestro | 71447 | [71447-musicvr-episode-2-maestro.json](./71447-musicvr-episode-2-maestro.json) |
+| Musika | 94641 | [94641-musika.json](./94641-musika.json) |
 | Musiverse | 245189 | [245189-musiverse.json](./245189-musiverse.json) |
 | Musix | 138596 | [138596-musix.json](./138596-musix.json) |
 | Musket & Pike: Seven Years War | 132004 | [132004-musket-and-pike-seven-years-war.json](./132004-musket-and-pike-seven-years-war.json) |
