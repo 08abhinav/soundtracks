@@ -1972,6 +1972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manahex | 291598 | [291598-manahex.json](./291598-manahex.json) |
 | Manakoto Hitomi no Bawai | 268135 | [268135-manakoto-hitomi-no-bawai.json](./268135-manakoto-hitomi-no-bawai.json) |
 | Manall's FF1 | 309580 | [309580-manalls-ff1.json](./309580-manalls-ff1.json) |
+| ManaRocks | 77163 | [77163-manarocks.json](./77163-manarocks.json) |
 | Manas | 249359 | [249359-manas.json](./249359-manas.json) |
 | Manascape | 257933 | [257933-manascape.json](./257933-manascape.json) |
 | Manastone | 388263 | [388263-manastone.json](./388263-manastone.json) |
@@ -3416,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect 3: N7 Collector's Edition | 45180 | [45180-mass-effect-3-n7-collectors-edition.json](./45180-mass-effect-3-n7-collectors-edition.json) |
 | Mass Effect 3: N7 Digital Deluxe Edition | 202174 | [202174-mass-effect-3-n7-digital-deluxe-edition.json](./202174-mass-effect-3-n7-digital-deluxe-edition.json) |
 | Mass Effect 3: Special Edition | 21697 | [21697-mass-effect-3-special-edition.json](./21697-mass-effect-3-special-edition.json) |
+| Mass Effect Datapad | 77200 | [77200-mass-effect-datapad.json](./77200-mass-effect-datapad.json) |
 | Mass Effect: Andromeda - Deluxe Edition | 27766 | [27766-mass-effect-andromeda-deluxe-edition.json](./27766-mass-effect-andromeda-deluxe-edition.json) |
 | Mass Effect: Andromeda - Deluxe Recruit Edition | 91212 | [91212-mass-effect-andromeda-deluxe-recruit-edition.json](./91212-mass-effect-andromeda-deluxe-recruit-edition.json) |
 | Mass Effect: Andromeda - Super Deluxe Edition | 27767 | [27767-mass-effect-andromeda-super-deluxe-edition.json](./27767-mass-effect-andromeda-super-deluxe-edition.json) |
@@ -4370,6 +4372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McPixel | 7553 | [7553-mcpixel.json](./7553-mcpixel.json) |
 | McPixel 3: McPixel Visits Grandma | 260722 | [260722-mcpixel-3-mcpixel-visits-grandma.json](./260722-mcpixel-3-mcpixel-visits-grandma.json) |
 | McPlay | 86984 | [86984-mcplay.json](./86984-mcplay.json) |
+| McRogue | 77162 | [77162-mcrogue.json](./77162-mcrogue.json) |
 | McTetris | 230831 | [230831-mctetris.json](./230831-mctetris.json) |
 | McTremson Bar | 179548 | [179548-mctremson-bar.json](./179548-mctremson-bar.json) |
 | MCW Regicide! | 360127 | [360127-mcw-regicide.json](./360127-mcw-regicide.json) |
@@ -6497,6 +6500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid V: The Definitive Subsistence Update | 377209 | [377209-metal-gear-solid-v-the-definitive-subsistence-update.json](./377209-metal-gear-solid-v-the-definitive-subsistence-update.json) |
 | Metal Gear Solid V: The Phantom Pain - Day One Edition | 136221 | [136221-metal-gear-solid-v-the-phantom-pain-day-one-edition.json](./136221-metal-gear-solid-v-the-phantom-pain-day-one-edition.json) |
 | Metal Gear Solid V: The Phantom Pain - Special Edition | 298021 | [298021-metal-gear-solid-v-the-phantom-pain-special-edition.json](./298021-metal-gear-solid-v-the-phantom-pain-special-edition.json) |
+| Metal Gear Solid: Digital Graphic Novel | 77232 | [77232-metal-gear-solid-digital-graphic-novel.json](./77232-metal-gear-solid-digital-graphic-novel.json) |
 | Metal Gear Solid: Fight of the Metal Gears | 331973 | [331973-metal-gear-solid-fight-of-the-metal-gears.json](./331973-metal-gear-solid-fight-of-the-metal-gears.json) |
 | Metal Gear Solid: Integral | 41037 | [41037-metal-gear-solid-integral.json](./41037-metal-gear-solid-integral.json) |
 | Metal Gear Solid: Lunacy of Legion | 351216 | [351216-metal-gear-solid-lunacy-of-legion.json](./351216-metal-gear-solid-lunacy-of-legion.json) |
@@ -11403,6 +11407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortadelo y Filemón: La Sexta Secta | 277928 | [277928-mortadelo-y-filemon-la-sexta-secta.json](./277928-mortadelo-y-filemon-la-sexta-secta.json) |
 | Mortadelo y Filemón: Operación Moscú | 77301 | [77301-mortadelo-y-filemon-operacion-moscu.json](./77301-mortadelo-y-filemon-operacion-moscu.json) |
 | Mortadelo y Filemón: Terror, Espanto y Pavor | 277925 | [277925-mortadelo-y-filemon-terror-espanto-y-pavor.json](./277925-mortadelo-y-filemon-terror-espanto-y-pavor.json) |
+| Mortadelo y Filemón: Una Aventura de Cine | 77211 | [77211-mortadelo-y-filemon-una-aventura-de-cine.json](./77211-mortadelo-y-filemon-una-aventura-de-cine.json) |
 | Mortadelo y Filemón: Una aventura de cine - Edición especial | 115607 | [115607-mortadelo-y-filemon-una-aventura-de-cine-edicion-especial.json](./115607-mortadelo-y-filemon-una-aventura-de-cine-edicion-especial.json) |
 | Mortadelo y Filemón: Una Aventura de Cine - Edición Original | 323229 | [323229-mortadelo-y-filemon-una-aventura-de-cine-edicion-original.json](./323229-mortadelo-y-filemon-una-aventura-de-cine-edicion-original.json) |
 | Mortal Blitz | 50747 | [50747-mortal-blitz.json](./50747-mortal-blitz.json) |
