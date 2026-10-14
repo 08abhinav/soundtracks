@@ -4037,6 +4037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeHop Ranger And The Spicy Wizards | 299847 | [299847-behop-ranger-and-the-spicy-wizards.json](./299847-behop-ranger-and-the-spicy-wizards.json) |
 | Beijing 2008 | 6910 | [6910-beijing-2008.json](./6910-beijing-2008.json) |
 | BeiJing Courier Simulator | 118413 | [118413-beijing-courier-simulator.json](./118413-beijing-courier-simulator.json) |
+| Being | 92419 | [92419-being.json](./92419-being.json) |
 | Being a DIK | 128462 | [128462-being-a-dik.json](./128462-being-a-dik.json) |
 | Being a DIK: Season 2 | 186507 | [186507-being-a-dik-season-2.json](./186507-being-a-dik-season-2.json) |
 | Being Ball | 190412 | [190412-being-ball.json](./190412-being-ball.json) |
@@ -5297,6 +5298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Infinity | 96082 | [96082-bingo-infinity.json](./96082-bingo-infinity.json) |
 | Bingo Luau | 366407 | [366407-bingo-luau.json](./366407-bingo-luau.json) |
 | Bingo Master | 206140 | [206140-bingo-master.json](./206140-bingo-master.json) |
+| Bingo Math | 92407 | [92407-bingo-math.json](./92407-bingo-math.json) |
 | Bingo Party Deluxe | 84988 | [84988-bingo-party-deluxe.json](./84988-bingo-party-deluxe.json) |
 | Bingo Pets Mania: Cat Craze | 105525 | [105525-bingo-pets-mania-cat-craze.json](./105525-bingo-pets-mania-cat-craze.json) |
 | Bingo Pinball Gameroom | 260154 | [260154-bingo-pinball-gameroom.json](./260154-bingo-pinball-gameroom.json) |
@@ -7908,6 +7910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boardmancer | 395866 | [395866-boardmancer.json](./395866-boardmancer.json) |
 | Boardquest: Tales of Liria | 244207 | [244207-boardquest-tales-of-liria.json](./244207-boardquest-tales-of-liria.json) |
 | Boardroom Alpha | 324688 | [324688-boardroom-alpha.json](./324688-boardroom-alpha.json) |
+| Boards and Blades 2 | 92401 | [92401-boards-and-blades-2.json](./92401-boards-and-blades-2.json) |
 | Boardwalk Arcade 2 | 292144 | [292144-boardwalk-arcade-2.json](./292144-boardwalk-arcade-2.json) |
 | Boardwalk Memories | 191565 | [191565-boardwalk-memories.json](./191565-boardwalk-memories.json) |
 | Boardwalk Sea Ball | 366410 | [366410-boardwalk-sea-ball.json](./366410-boardwalk-sea-ball.json) |
