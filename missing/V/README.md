@@ -1050,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vermillion Watch: Moorgate Accord | 140262 | [140262-vermillion-watch-moorgate-accord.json](./140262-vermillion-watch-moorgate-accord.json) |
 | Vermillion Watch: Order Zero | 74312 | [74312-vermillion-watch-order-zero.json](./74312-vermillion-watch-order-zero.json) |
 | Vermillion Watch: Parisian Pursuit | 140263 | [140263-vermillion-watch-parisian-pursuit.json](./140263-vermillion-watch-parisian-pursuit.json) |
+| Vermillion Watch: Parisian Pursuit - Collector's Edition | 120670 | [120670-vermillion-watch-parisian-pursuit-collectors-edition.json](./120670-vermillion-watch-parisian-pursuit-collectors-edition.json) |
 | Vermin | 232696 | [232696-vermin.json](./232696-vermin.json) |
 | Vermin | 78072 | [78072-vermin.json](./78072-vermin.json) |
 | Vermin Control | 334483 | [334483-vermin-control.json](./334483-vermin-control.json) |
@@ -1984,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visualizer | 80590 | [80590-visualizer.json](./80590-visualizer.json) |
 | Vita Mahjong | 344507 | [344507-vita-mahjong.json](./344507-vita-mahjong.json) |
 | Vita: The Ember Oracle | 356112 | [356112-vita-the-ember-oracle.json](./356112-vita-the-ember-oracle.json) |
+| Vital | 123892 | [123892-vital.json](./123892-vital.json) |
 | Vital | 232013 | [232013-vital.json](./232013-vital.json) |
 | Vital Bracelet Arena | 270627 | [270627-vital-bracelet-arena.json](./270627-vital-bracelet-arena.json) |
 | Vital Charge | 400312 | [400312-vital-charge.json](./400312-vital-charge.json) |
@@ -2370,6 +2372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voltus' Neon Nightmare - Colossal Cure | 419930 | [419930-voltus-neon-nightmare-colossal-cure.json](./419930-voltus-neon-nightmare-colossal-cure.json) |
 | Volty's Quest | 181848 | [181848-voltys-quest.json](./181848-voltys-quest.json) |
 | Volume | 9647 | [9647-volume.json](./9647-volume.json) |
+| Volume Up | 122075 | [122075-volume-up.json](./122075-volume-up.json) |
 | Volunteer | 216850 | [216850-volunteer.json](./216850-volunteer.json) |
 | Volunteers | 207587 | [207587-volunteers.json](./207587-volunteers.json) |
 | Volunteers | 278953 | [278953-volunteers.json](./278953-volunteers.json) |
@@ -2440,6 +2443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxatron | 51288 | [51288-voxatron.json](./51288-voxatron.json) |
 | Voxel - 3D Color by Number | 95094 | [95094-voxel-3d-color-by-number.json](./95094-voxel-3d-color-by-number.json) |
 | Voxel Blast | 34652 | [34652-voxel-blast.json](./34652-voxel-blast.json) |
+| Voxel Crusade | 120689 | [120689-voxel-crusade.json](./120689-voxel-crusade.json) |
 | Voxel Delvers | 381686 | [381686-voxel-delvers.json](./381686-voxel-delvers.json) |
 | Voxel Digger | 195591 | [195591-voxel-digger.json](./195591-voxel-digger.json) |
 | Voxel Doodle - Color By Number 3D | 105964 | [105964-voxel-doodle-color-by-number-3d.json](./105964-voxel-doodle-color-by-number-3d.json) |
