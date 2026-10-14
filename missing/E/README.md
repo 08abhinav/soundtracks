@@ -2943,6 +2943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Fly | 22346 | [22346-epic-fly.json](./22346-epic-fly.json) |
 | Epic Food Fight | 114402 | [114402-epic-food-fight.json](./114402-epic-food-fight.json) |
 | Epic Food Fight VR | 117075 | [117075-epic-food-fight-vr.json](./117075-epic-food-fight-vr.json) |
+| Epic Game Maker | 105188 | [105188-epic-game-maker.json](./105188-epic-game-maker.json) |
 | Epic Game Theory | 110138 | [110138-epic-game-theory.json](./110138-epic-game-theory.json) |
 | Epic Idle Quest | 96187 | [96187-epic-idle-quest.json](./96187-epic-idle-quest.json) |
 | Epic Jump! | 204838 | [204838-epic-jump.json](./204838-epic-jump.json) |
@@ -5339,6 +5340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Cycling Championship | 406796 | [406796-extreme-cycling-championship.json](./406796-extreme-cycling-championship.json) |
 | Extreme Dash | 262468 | [262468-extreme-dash.json](./262468-extreme-dash.json) |
 | Extreme Drift Car Driving | 108226 | [108226-extreme-drift-car-driving.json](./108226-extreme-drift-car-driving.json) |
+| Extreme Drifters | 105161 | [105161-extreme-drifters.json](./105161-extreme-drifters.json) |
 | Extreme Escape | 135660 | [135660-extreme-escape.json](./135660-extreme-escape.json) |
 | Extreme Evolution: Drive to Divinity | 216740 | [216740-extreme-evolution-drive-to-divinity.json](./216740-extreme-evolution-drive-to-divinity.json) |
 | Extreme flight | 118411 | [118411-extreme-flight.json](./118411-extreme-flight.json) |
