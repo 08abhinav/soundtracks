@@ -4275,6 +4275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexaTerra | 320564 | [320564-hexaterra.json](./320564-hexaterra.json) |
 | Hexavale | 360063 | [360063-hexavale.json](./360063-hexavale.json) |
 | Hexaverse Adventures | 249252 | [249252-hexaverse-adventures.json](./249252-hexaverse-adventures.json) |
+| Hexawar | 97259 | [97259-hexawar.json](./97259-hexawar.json) |
 | HexaWars | 260151 | [260151-hexawars.json](./260151-hexawars.json) |
 | Hexaword | 386725 | [386725-hexaword.json](./386725-hexaword.json) |
 | HexBat | 250814 | [250814-hexbat.json](./250814-hexbat.json) |
