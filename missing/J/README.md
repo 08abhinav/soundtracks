@@ -2331,6 +2331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart Baby | 144858 | [144858-jumpstart-baby.json](./144858-jumpstart-baby.json) |
 | JumpStart Escape from Adventure Island | 50725 | [50725-jumpstart-escape-from-adventure-island.json](./50725-jumpstart-escape-from-adventure-island.json) |
 | JumpStart Explorers | 129149 | [129149-jumpstart-explorers.json](./129149-jumpstart-explorers.json) |
+| JumpStart Junior | 129485 | [129485-jumpstart-junior.json](./129485-jumpstart-junior.json) |
 | JumpStart Kindergarten | 123589 | [123589-jumpstart-kindergarten.json](./123589-jumpstart-kindergarten.json) |
 | JumpStart Kindergarten | 212881 | [212881-jumpstart-kindergarten.json](./212881-jumpstart-kindergarten.json) |
 | JumpStart Math for Kindergarteners | 300415 | [300415-jumpstart-math-for-kindergarteners.json](./300415-jumpstart-math-for-kindergarteners.json) |
