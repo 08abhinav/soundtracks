@@ -4293,6 +4293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Tanks | 252222 | [252222-maze-tanks.json](./252222-maze-tanks.json) |
 | Maze Trials | 67601 | [67601-maze-trials.json](./67601-maze-trials.json) |
 | Maze Twister | 191820 | [191820-maze-twister.json](./191820-maze-twister.json) |
+| Maze Up! | 74243 | [74243-maze-up.json](./74243-maze-up.json) |
 | Maze Walk VR - Virtual Reality Game Puzzle Apps | 88063 | [88063-maze-walk-vr-virtual-reality-game-puzzle-apps.json](./88063-maze-walk-vr-virtual-reality-game-puzzle-apps.json) |
 | Maze Walker | 81977 | [81977-maze-walker.json](./81977-maze-walker.json) |
 | Maze Wars | 116316 | [116316-maze-wars.json](./116316-maze-wars.json) |
