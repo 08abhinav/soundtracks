@@ -2793,6 +2793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kivi's Underworld | 27552 | [27552-kivis-underworld.json](./27552-kivis-underworld.json) |
 | Kiwame Mahjong Deluxe: Mirai Senshi 21 | 128365 | [128365-kiwame-mahjong-deluxe-mirai-senshi-21.json](./128365-kiwame-mahjong-deluxe-mirai-senshi-21.json) |
 | Kiwame Mahjong DX II | 97872 | [97872-kiwame-mahjong-dx-ii.json](./97872-kiwame-mahjong-dx-ii.json) |
+| Kiwame Mahjong DXII: The 4th Mondo21Cup Competition | 80432 | [80432-kiwame-mahjong-dxii-the-4th-mondo21cup-competition.json](./80432-kiwame-mahjong-dxii-the-4th-mondo21cup-competition.json) |
 | Kiwamero! Shunkan Jump Kentei | 222453 | [222453-kiwamero-shunkan-jump-kentei.json](./222453-kiwamero-shunkan-jump-kentei.json) |
 | Kiwanuka | 61305 | [61305-kiwanuka.json](./61305-kiwanuka.json) |
 | Kiwaya | 128962 | [128962-kiwaya.json](./128962-kiwaya.json) |
