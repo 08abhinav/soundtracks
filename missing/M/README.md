@@ -8587,6 +8587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miniature Mayhem! | 262931 | [262931-miniature-mayhem.json](./262931-miniature-mayhem.json) |
 | Miniature TD | 54481 | [54481-miniature-td.json](./54481-miniature-td.json) |
 | Miniatures | 295904 | [295904-miniatures.json](./295904-miniatures.json) |
+| Miniballist | 90530 | [90530-miniballist.json](./90530-miniballist.json) |
 | Minibash | 223621 | [223621-minibash.json](./223621-minibash.json) |
 | MiniBikers | 34085 | [34085-minibikers.json](./34085-minibikers.json) |
 | MiniBotz | 31929 | [31929-minibotz.json](./31929-minibotz.json) |
@@ -8595,6 +8596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minibus Simulator Vietnam | 384616 | [384616-minibus-simulator-vietnam.json](./384616-minibus-simulator-vietnam.json) |
 | MiniCar Extreme: Car Driving Racing (Truck, Suv, Sedan, Cars) | 242665 | [242665-minicar-extreme-car-driving-racing-truck-suv-sedan-cars.json](./242665-minicar-extreme-car-driving-racing-truck-suv-sedan-cars.json) |
 | MiniCar Race | 104840 | [104840-minicar-race.json](./104840-minicar-race.json) |
+| Minicars | 90522 | [90522-minicars.json](./90522-minicars.json) |
 | MiniChef | 147203 | [147203-minichef.json](./147203-minichef.json) |
 | MiniChess by Kasparov | 174239 | [174239-minichess-by-kasparov.json](./174239-minichess-by-kasparov.json) |
 | Minicology | 150771 | [150771-minicology.json](./150771-minicology.json) |
@@ -12143,6 +12145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MovoD II | 229826 | [229826-movod-ii.json](./229826-movod-ii.json) |
 | Mow | 200107 | [200107-mow.json](./200107-mow.json) |
 | Mow VR: Challenge Your Limits | 264775 | [264775-mow-vr-challenge-your-limits.json](./264775-mow-vr-challenge-your-limits.json) |
+| Mow-Town Riding | 90513 | [90513-mow-town-riding.json](./90513-mow-town-riding.json) |
 | MoW: Face Off M | 36245 | [36245-mow-face-off-m.json](./36245-mow-face-off-m.json) |
 | MoW: Face Off XL | 34075 | [34075-mow-face-off-xl.json](./34075-mow-face-off-xl.json) |
 | Mowed | 285942 | [285942-mowed.json](./285942-mowed.json) |
@@ -14320,6 +14323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious Puzzles Collection: Nemezis, Schizm, Reah | 159686 | [159686-mysterious-puzzles-collection-nemezis-schizm-reah.json](./159686-mysterious-puzzles-collection-nemezis-schizm-reah.json) |
 | Mysterious Retro Games Bundle | 231076 | [231076-mysterious-retro-games-bundle.json](./231076-mysterious-retro-games-bundle.json) |
 | Mysterious School | 212812 | [212812-mysterious-school.json](./212812-mysterious-school.json) |
+| Mysterious Science | 90520 | [90520-mysterious-science.json](./90520-mysterious-science.json) |
 | Mysterious Song | 170352 | [170352-mysterious-song.json](./170352-mysterious-song.json) |
 | Mysterious Stars 3D: A Fairy Tale | 85609 | [85609-mysterious-stars-3d-a-fairy-tale.json](./85609-mysterious-stars-3d-a-fairy-tale.json) |
 | Mysterious Stars: A Fairy Tale | 61456 | [61456-mysterious-stars-a-fairy-tale.json](./61456-mysterious-stars-a-fairy-tale.json) |
